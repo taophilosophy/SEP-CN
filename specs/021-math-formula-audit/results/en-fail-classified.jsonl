@@ -1,0 +1,110 @@
+{"f": "computational-complexity/index.html", "i": 18, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{PRIMES}\\)"}
+{"f": "computational-complexity/index.html", "i": 20, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{SAT}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 23, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TRAVELING}\\ \\sc{SALESMAN}\\ (\\sc{TSP}) \\ \\)"}
+{"f": "computational-complexity/index.html", "i": 29, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{INTEGER}\\ \\sc{PROGRAMMING}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 37, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{PERFECT} \\ \\sc{MATCHING}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 48, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{SAT}\\)"}
+{"f": "computational-complexity/index.html", "i": 49, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TSP}\\)"}
+{"f": "computational-complexity/index.html", "i": 50, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{INTEGER}\\ \\sc{PROGRAMMING}\\)"}
+{"f": "computational-complexity/index.html", "i": 51, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{PERFECT} \\ \\sc{MATCHING}\\)"}
+{"f": "computational-complexity/index.html", "i": 52, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(n \\in \\sc{PRIMES} \\)"}
+{"f": "computational-complexity/index.html", "i": 55, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{RELATIVE}\\ \\sc{PRIMALITY}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 63, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{FACTORIZATION}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 68, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{RELATIVE}\\ \\sc{PRIMALITY}\\)"}
+{"f": "computational-complexity/index.html", "i": 81, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{FACTORIZATION}\\)"}
+{"f": "computational-complexity/index.html", "i": 238, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{FO}\\text{-}\\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 341, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{PERFECT}\\ \\sc{MATCHING}\\)"}
+{"f": "computational-complexity/index.html", "i": 375, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VERTEX}\\ \\sc{COVER}\\)"}
+{"f": "computational-complexity/index.html", "i": 476, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\sc{SAT}\\)"}
+{"f": "computational-complexity/index.html", "i": 644, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{BHP}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 652, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{BHP}\\)"}
+{"f": "computational-complexity/index.html", "i": 708, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(3\\text{-}\\sc{SAT}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 710, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(3\\text{-}\\sc{CNF}\\)"}
+{"f": "computational-complexity/index.html", "i": 713, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{HAMILTONIAN}\\ \\sc{PATH}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 716, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{INDEPENDENT}\\ \\sc{SET}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 722, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VERTEX}\\ \\sc{COVER}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 731, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{SET}\\ \\sc{COVERING}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 739, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(3\\text{-}\\sc{SAT}\\)"}
+{"f": "computational-complexity/index.html", "i": 743, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{INDEPENDENT}\\ \\sc{SET}\\)"}
+{"f": "computational-complexity/index.html", "i": 808, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\[\n\\sc{SAT} \\leq_P 3\\text{-}\\sc{SAT} \\leq_P \\sc{INDEPENDENT}\\ \\sc{SET} \\leq_P \\sc{VERTEX}\\ \\sc{COVER} \\leq_P \\sc{HAMILTONIAN}\\ \\sc{PATH} \\leq_P \\sc{TSP}.\n\\]"}
+{"f": "computational-complexity/index.html", "i": 843, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\overline{\\sc{SAT}}\\)"}
+{"f": "computational-complexity/index.html", "i": 845, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\overline{\\sc{SAT}}\\)"}
+{"f": "computational-complexity/index.html", "i": 846, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\neg \\phi \\in \\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 848, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 850, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 872, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\overline{\\sc{FACTORIZATION}}\\)"}
+{"f": "computational-complexity/index.html", "i": 875, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VALIDITY}\\)"}
+{"f": "computational-complexity/index.html", "i": 906, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TQBF}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 909, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TQBF}\\)"}
+{"f": "computational-complexity/index.html", "i": 915, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi\\ \\not\\in \\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 980, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TWO}\\ \\sc{PLAYER}\\ \\sc{SAT}\\)"}
+{"f": "computational-complexity/index.html", "i": 983, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\sc{TWO}\\ \\sc{PLAYER}\\ \\sc{SAT}\\)"}
+{"f": "computational-complexity/index.html", "i": 984, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\sc{TQBF}\\)"}
+{"f": "computational-complexity/index.html", "i": 995, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{GO}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1000, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TWO}\\ \\sc{PLAYER}\\ \\sc{SAT}_n\\)"}
+{"f": "computational-complexity/index.html", "i": 1020, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{TWO}\\ \\sc{PLAYER}\\ \\sc{SAT} \\in \\Sigma^P_k\\)"}
+{"f": "computational-complexity/index.html", "i": 1148, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{PROOF}\\ \\sc{CHECKING}_{\\mathsf{T}}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1165, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(n\\text{-}\\sc{PROVABILITY}_{\\mathsf{T}}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1179, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(n\\text{-}\\sc{PROVABILITY}_{\\mathsf{T}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1181, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in n\\text{-}\\sc{PROVABILITY}_{\\mathsf{T}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1184, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\not\\in n\\text{-}\\sc{PROVABILITY}_{\\mathsf{T}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1188, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(n\\text{-}\\sc{PROVABILITY}_{\\mathsf{T}} \\in \\textbf{NP}\\)"}
+{"f": "computational-complexity/index.html", "i": 1268, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{SATISFIABILITY}_{\\mathcal{L}}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1272, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VALIDITY}_{\\mathcal{L}}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1276, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{MODEL}\\ \\sc{CHECKING}_{\\mathcal{L}}\\ \\)"}
+{"f": "computational-complexity/index.html", "i": 1287, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{SATISFIABILITY}_{\\mathcal{L}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1288, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VALIDITY}_{\\mathcal{L}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1289, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{MODEL}\\ \\sc{CHECKING}_{\\mathcal{L}}\\)"}
+{"f": "computational-complexity/index.html", "i": 1378, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\mathcal{P}: \\{0,1\\}^* \\rightarrow  \\sc{VALID}\\)"}
+{"f": "computational-complexity/index.html", "i": 1510, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\[\n \\sc{PARITY} = \\{w \\in \\{0,1\\}^* : w \\text{ contains an odd number of 1s}\\}\n\\]"}
+{"f": "computational-complexity/notes.html", "i": 51, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{CLIQUE}\\)"}
+{"f": "computational-complexity/notes.html", "i": 161, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{CNF}\\)"}
+{"f": "computational-complexity/notes.html", "i": 171, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{QUADRATIC}\\ \\sc{DIOPHANTINE}\\ \\sc{EQUATIONS}\\ \\)"}
+{"f": "computational-complexity/notes.html", "i": 176, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(^*\\text{-}\\sc{FREE}\\ \\sc{REGULAR}\\ \\sc{EXPRESSION}\\ \\sc{INEQUIVALENCE}\\ \\)"}
+{"f": "computational-complexity/notes.html", "i": 182, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{MINESWEEPER}\\ \\sc{CONSISTENCY}\\ \\)"}
+{"f": "computational-complexity/notes.html", "i": 194, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(x \\not\\in \\overline{X} \\ \\Leftrightarrow \\ \\phi_{N,x} \\not\\in \\sc{SAT}\\)"}
+{"f": "computational-complexity/notes.html", "i": 197, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(x \\in X \\ \\Leftrightarrow \\ \\neg\\phi_{N,x} \\in \\sc{VALID}\\)"}
+{"f": "computational-complexity/notes.html", "i": 213, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(Q_1 x_i \\ldots Q_n x_n\\psi \\in \\sc{TQBF}\\)"}
+{"f": "computational-complexity/notes.html", "i": 297, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\sc{VALID} \\in \\textbf{coNP}\\)"}
+{"f": "computational-complexity/notes.html", "i": 301, "cls": "ext-dependency", "why": "sc ← sc", "x": "\\(\\phi \\in \\sc{VALID} \\Leftrightarrow \\exists y \\leq p(\\lvert \\phi\\rvert) R(\\ulcorner \\phi \\urcorner,y)\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 16, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\(c_F\\arrp F\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 17, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\(t\\arrp(F\\to G)\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 18, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\(s\\arrp F\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 19, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\((t\\cdot s)\\arrp G\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 20, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\(t\\arrp F\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 21, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\(s\\arrp G\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 22, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\((t+s)\\arrp F\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 25, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\((s+t)\\arrp F\\)"}
+{"f": "dynamic-epistemic/appendix-K-evidence.html", "i": 113, "cls": "upstream-defect", "why": "Undefined control sequence \\arrp", "x": "\\[\\begin{gather*}\nt\\arr F \\text{ for each }t \\text{ and }F \\text{ such that }t\\arrp F\\\\\n\\lnot(t\\arr F) \\text{ for each } t \\text{ and } F \\text{ such that not }t\\arrp F\n \\end{gather*}\\]"}
+{"f": "epistemic-game/index.html", "i": 263, "cls": "upstream-defect", "why": "Missing close brace", "x": "\\(X\\succeq_i Y\\text{ if, and\nonly if, \\(x\\succeq_i y\\)"}
+{"f": "epistemic-game/index.html", "i": 406, "cls": "upstream-defect", "why": "Missing close brace", "x": "\\(\\Rat_i = \\{w \\mid \\mbox{ \\(i\\)"}
+{"f": "frege-logic/index.html", "i": 128, "cls": "upstream-defect", "why": "Misplaced \\hline", "x": "\\[\\begin{aligned} -->\n<!-- ~ & (\\forall a_1)(\\forall a_2)\\dots (\\forall a_n)(\\forall -->\n<!-- b_1)(\\forall b_2)\\dots (\\forall b_m)(\\forall c_1)(\\forall c_2)\\dots -->\n<!-- (\\forall c_k)\\\\ -->\n<!-- &(\\P"}
+{"f": "frege-theorem/rule-substitution.html", "i": 27, "cls": "upstream-defect", "why": "Misplaced &", "x": "\\(Fc\\rightarrow &exists;x(Qx \\amp &neg;Qx)\\)"}
+{"f": "frege-theorem/rule-substitution.html", "i": 28, "cls": "upstream-defect", "why": "Misplaced &", "x": "\\(\\forall F(Fc\\rightarrow &exists;x(Qx \\amp &neg;Qx))\\)"}
+{"f": "frege-theorem/rule-substitution.html", "i": 33, "cls": "upstream-defect", "why": "Misplaced &", "x": "\\(&exists;x(Qx \\amp &neg;Qx\\)"}
+{"f": "goedel/index.html", "i": 281, "cls": "upstream-defect", "why": "Extra open brace or missing close brace", "x": "\\(\\kappa , 2^{\\kappa\\)"}
+{"f": "goedel/index.html", "i": 282, "cls": "upstream-defect", "why": "Extra close brace or missing open brace", "x": "\\(+}\\)"}
+{"f": "logic-preference/index.html", "i": 324, "cls": "upstream-defect", "why": "Undefined control sequence \\xymatrix", "x": "\\[\\xymatrix{\n\\langle \\mathscr{B}, \\lt \\rangle \\ar[r]^{\\parallel A} \\ar[d] &\n\\langle \\mathscr{B} \\parallel A, \\lt \\rangle \\ar[d] \\\\\n\\langle W, \\preceq \\rangle \\ar[r]^{\\sharp A} & \\langle W, \\sharp\nA(\\p"}
+{"f": "logic-preference/index.html", "i": 326, "cls": "upstream-defect", "why": "Undefined control sequence \\xymatrix", "x": "\\[\\xymatrix{\n\\langle \\mathscr{B}, \\lt \\rangle \\ar[r]^{A; \\mathscr{B}} \\ar[d] &\n\\langle A; \\mathscr{B}, \\lt \\rangle \\ar[d] \\\\\n\\langle W, \\preceq \\rangle \\ar[r]^{\\Uparrow A} & \\langle W, \\Uparrow\nA(\\pre"}
+{"f": "logic-propositional/index.html", "i": 324, "cls": "upstream-defect", "why": "Missing close brace", "x": "\\(\\begin{prooftree}\n\\AxiomC{\\(\\rA\\supset\\rB\\)"}
+{"f": "logic-propositional/index.html", "i": 335, "cls": "upstream-defect", "why": "Missing close brace", "x": "\\(\\begin{prooftree}\n\\AxiomC{\\(\\rA\\)"}
+{"f": "logical-form/index.html", "i": 204, "cls": "upstream-defect", "why": "'&' can not be used here", "x": "\\[!x:Y(x)[X(x)] = \\textbf{T} \\text{ iff the extensions of } X \n\\text{ and } Y \\text{ intersect & } |Y| = 1.\\]"}
+{"f": "nonexistent-objects/notes.html", "i": 33, "cls": "upstream-defect", "why": "You can't use 'macro parameter character #' in math mode", "x": "\\(\\iota x\\forall F^n(F^n x \\equiv B^n \\Rightarrow\nF^n).</p>\n</div>\n\n<div id=\"note-33\">\n\n<p>\n\n <a href=\"index.html#ref-33\">33.</a> This\n doctrine raises a difficult question: what is the difference bet"}
+{"f": "phil-multimodallogic/index.html", "i": 640, "cls": "upstream-defect", "why": "Undefined control sequence \\U", "x": "\\(U \\in \\U_b\\)"}
+{"f": "physics-experiment/app2.html", "i": 34, "cls": "upstream-defect", "why": "Undefined control sequence \\KOp", "x": "\\(\\KOp\\)"}
+{"f": "possibilism-actualism/notes.html", "i": 288, "cls": "upstream-defect", "why": "Misplaced @", "x": "\\(@.\\)"}
+{"f": "public-goods/index.html", "i": 12, "cls": "control-char-or-unicode", "why": "v3 内部异常（多为不可见字符/整数实体）", "x": "\\(x\n= €10,\\)"}
+{"f": "public-goods/index.html", "i": 13, "cls": "control-char-or-unicode", "why": "v3 内部异常（多为不可见字符/整数实体）", "x": "\\(€20.\\)"}
+{"f": "public-goods/index.html", "i": 14, "cls": "control-char-or-unicode", "why": "v3 内部异常（多为不可见字符/整数实体）", "x": "\\(9*€10*2/10+€10 = €28\\)"}
+{"f": "public-goods/index.html", "i": 15, "cls": "control-char-or-unicode", "why": "v3 内部异常（多为不可见字符/整数实体）", "x": "\\(€0,\\)"}
+{"f": "public-goods/index.html", "i": 16, "cls": "control-char-or-unicode", "why": "v3 内部异常（多为不可见字符/整数实体）", "x": "\\(€10\\)"}
+{"f": "typelogical-grammar/index.html", "i": 0, "cls": "upstream-defect", "why": "Undefined control sequence \\<", "x": "\\(<em>B</em> ⊗ <em>A</em>)</li>\n </ul>\n </li>\n\n<li>lifting: \n <ul>\n <li><em>A</em> ⊢ <em>B</em>/(<em>A</em>\\<em>B</em>)</li>\n <li><em>A</em> ⊢ (<em>B</em>/<em>A</em>)\\<em>B</em></li>\n </ul>\n </li>\n\n<l"}
+{"f": "wittgenstein-mathematics/index.html", "i": 1, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(a, x, O \\spq x\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 3, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(O \\spq a\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 4, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(O \\spq O\n\\spq a\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 5, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(\\Omega\\spq(\\overline{\\eta})\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 6, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\[\n[\\overline{\\xi}, N(\\overline{\\xi})]\\spq (\\overline{\\eta}) (= [\\overline{\\eta}, \\overline{\\xi}, N(\\overline{\\xi})]).  (6.01)\n\\]"}
+{"f": "wittgenstein-mathematics/index.html", "i": 9, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(a, x, O \\spq\nx\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 11, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(O \\spq x\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 20, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(\\Omega^t \\spq x = \\Omega^s \\spq x\\)"}
+{"f": "wittgenstein-mathematics/index.html", "i": 21, "cls": "upstream-defect", "why": "Undefined control sequence \\spq", "x": "\\(\\Omega^{2 \\times 2}\\spq x = \\Omega^{4}\\spq\nx\\)"}

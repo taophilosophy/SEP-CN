@@ -10,9 +10,9 @@ $$\begin{align} & p \rightarrow(q \rightarrow p), \\ & \neg p \rightarrow(p \rig
 
 第一式说的是：每个命题都蕴涵一个真命题。第二式说：假命题蕴涵任何命题。第三式说：任取三个命题，要么第一个蕴涵第二个，要么第二个蕴涵第三个。
 
-同理，严格蕴涵 $(p \rightarrow q)$ 在不可能“$p$ 真而 $q$ 假”时为真，也就是 $\neg \diamond(p \amp \neg q)$。严格蕴涵的悖论有：
+同理，严格蕴涵 $(p \rightarrow q)$ 在不可能“$p$ 真而 $q$ 假”时为真，也就是 $\neg \diamond(p \mathbin{\&} \neg q)$。严格蕴涵的悖论有：
 
-$$\begin{align} & (p \amp \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarrow q), \\ & p \rightarrow(q \vee \neg q). \end{align}$$
+$$\begin{align} & (p \mathbin{\&} \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarrow q), \\ & p \rightarrow(q \vee \neg q). \end{align}$$
 
 第一式说的是：矛盾严格蕴涵任何命题。第二式和第三式则意味着：每个命题都严格蕴涵某个重言式。
 
@@ -36,7 +36,7 @@ $$\begin{align} & (p \amp \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarro
 
 这里讲的语义，是 Richard Routley 与 Robert K. Meyer 的三元关系语义，由 Alasdair Urquhart 的“半格语义”发展而来（Urquhart 1972）[^urquhart-1972]。Kit Fine 另有一种类似的语义，与 Routley–Meyer 理论同时提出（Fine 1974）[^fine-1974]；J. Michael Dunn 则有代数语义。Urquhart、Fine、Dunn 的模型本身都很有意趣，可惜这里没有篇幅讨论。
 
-三元关系语义的想法其实很简单。回想 C.I. Lewis 为避免实质蕴涵悖论所做的尝试：他给经典逻辑添了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \prurel B$ 在世界 $w$ 为真，当且仅当凡 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 失败，要么 $B$ 在 $w'$ 成立。但在 Kripke 的模态逻辑语义里，可及关系是二元关系，只成立于世界对之间。遗憾的是，从相干的观点看，严格蕴涵理论仍不相干：我们照样使 $p \prurel (q \prurel q)$ 这类公式有效。稍加推演就能看出，Kripke 的真值条件逼出了这条公式。
+三元关系语义的想法其实很简单。回想 C.I. Lewis 为避免实质蕴涵悖论所做的尝试：他给经典逻辑添了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \mathbin{\unicode{x22b0}} B$ 在世界 $w$ 为真，当且仅当凡 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 失败，要么 $B$ 在 $w'$ 成立。但在 Kripke 的模态逻辑语义里，可及关系是二元关系，只成立于世界对之间。遗憾的是，从相干的观点看，严格蕴涵理论仍不相干：我们照样使 $p \mathbin{\unicode{x22b0}} (q \mathbin{\unicode{x22b0}} q)$ 这类公式有效。稍加推演就能看出，Kripke 的真值条件逼出了这条公式。
 
 相干逻辑的语义与模态逻辑一样，也把公式的真值相对于世界。但 Routley 与 Meyer 比模态逻辑更进一步，用的是世界间的三元关系。于是可以有使 $q \rightarrow q$ 失败的世界，进而也可以有使 $p \rightarrow(q \rightarrow q)$ 失败的世界。他们在这种语义下给 $\rightarrow$ 的真值条件是：
 
@@ -44,7 +44,7 @@ $A \rightarrow B$ 在世界 $a$ 为真，当且仅当凡满足 $Rabc$ 的世界 
 
 刚入门的人得花点时间才习惯这个真值条件。不过稍加推敲就能看出，它无非是 Kripke 严格蕴涵真值条件的推广——只要令 $b = c$ 就行。
 
-三元关系语义稍作调整，就能给一大类逻辑当语义：对关系加不同约束，有效的公式和推理也随之不同。比如，若约束关系使 $Raaa$ 对一切世界 $a$ 成立，就能保证：只要 $(A \rightarrow B) \amp A$ 在某世界为真，$B$ 也在那里为真；再结合 Routley–Meyer 语义的其他特征，论题 $((A \rightarrow B) \amp A) \rightarrow B$ 便有效。若让三元关系的前两位对称，即凡世界 $a, b$ 与 $c$ 满足 $Rabc$ 就有 $Rbac$，那么论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 也有效。
+三元关系语义稍作调整，就能给一大类逻辑当语义：对关系加不同约束，有效的公式和推理也随之不同。比如，若约束关系使 $Raaa$ 对一切世界 $a$ 成立，就能保证：只要 $(A \rightarrow B) \mathbin{\&} A$ 在某世界为真，$B$ 也在那里为真；再结合 Routley–Meyer 语义的其他特征，论题 $((A \rightarrow B) \mathbin{\&} A) \rightarrow B$ 便有效。若让三元关系的前两位对称，即凡世界 $a, b$ 与 $c$ 满足 $Rabc$ 就有 $Rbac$，那么论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 也有效。
 
 要让相干蕴涵在这种语义上有真正的意义，三元可及关系就需要哲学解释。近年来已有几种基于信息理论的解释。
 
@@ -62,13 +62,13 @@ Beall 等（2012）给出另一种解释，实际上提出了三元关系的三�
 
 第二种解释认为，Routley–Meyer 模型的点既是（数学意义上的）算子，又是其作用对象。按这种理解，$Rabc$ 意为：把 $a$ 当作算子作用于 $b$，所产生的信息全部包含在 $c$ 中。这样，Routley–Meyer 语义在意图上就很接近 Fine 的算子语义，也与 Dunn 的解释（尤其是其状态信息结合的概念）关系密切。
 
-光有三元关系还不够，避不开所有蕴涵悖论。按目前所述，还看不出这种语义怎样排除 $(p \amp \neg p) \rightarrow q$、$p \rightarrow (q \vee \neg q)$ 这类悖论。办法是在语义中放进不一致世界与非二值世界。因为若没有世界使 $p \amp \neg p$ 成立，按箭头的真值条件，$(p \amp \neg p) \rightarrow q$ 就会处处成立；同理，若 $q \vee \neg q$ 在每个世界都成立，$p \rightarrow(q \vee \neg q)$ 便普遍为真。
+光有三元关系还不够，避不开所有蕴涵悖论。按目前所述，还看不出这种语义怎样排除 $(p \mathbin{\&} \neg p) \rightarrow q$、$p \rightarrow (q \vee \neg q)$ 这类悖论。办法是在语义中放进不一致世界与非二值世界。因为若没有世界使 $p \mathbin{\&} \neg p$ 成立，按箭头的真值条件，$(p \mathbin{\&} \neg p) \rightarrow q$ 就会处处成立；同理，若 $q \vee \neg q$ 在每个世界都成立，$p \rightarrow(q \vee \neg q)$ 便普遍为真。
 
 Routley、Loparic（1978）以及 Priest（1992、2008）提出了一种不用三元关系的相干性进路。它使用一个世界集合和一个二元关系 $S$，把世界分成正规世界与非正规世界。蕴涵 $A \rightarrow B$ 在正规世界 $a$ 为真，当且仅当凡世界 $b$ 使 $A$ 在 $b$ 为真，$B$ 也在 $b$ 为真；在非正规世界，蕴涵真值随机，或真或假。公式有效，当且仅当它在每个这类模型的 **正规** 世界都为真。如此划分世界，并让非正规世界的蕴涵取随机真值，就能为 $p \rightarrow (q \rightarrow q)$ 之类公式找到反模型。
 
 Priest 把非正规世界解释为“逻辑虚构”所对应的世界。科幻小说里的自然规律可以与我们宇宙不同；同样，逻辑虚构里的逻辑规律也可以不同于我们的规律，比如 $A \rightarrow A$ 在某些逻辑虚构中就不为真。这类虚构描述的世界，就是非正规世界。
 
-不用三元关系的语义有个毛病：它能刻画的逻辑系统范围，远不如三元关系语义那么广。而且，这种语义确定的逻辑相当弱，比如不把蕴涵传递性 $((A \rightarrow B) \amp(B \rightarrow C)) \rightarrow (A \rightarrow C)$ 当作定理。
+不用三元关系的语义有个毛病：它能刻画的逻辑系统范围，远不如三元关系语义那么广。而且，这种语义确定的逻辑相当弱，比如不把蕴涵传递性 $((A \rightarrow B) \mathbin{\&}(B \rightarrow C)) \rightarrow (A \rightarrow C)$ 当作定理。
 
 这种语义和三元关系语义一样，也要求有些世界不一致、有些世界非二值。
 
@@ -80,9 +80,9 @@ $\neg A$ 在 $a$ 上为真，当且仅当 $A$ 在 $a$* 上为假。
 
 这里又碰上了解释形式语义某一部分的难题。Dunn（1993）对 Routley 星号给出一种解释：他在世界之间用一个二元关系 $C$，$Cab$ 表示 $b$ 与 $a. a$* 相容；这个星号世界就是与 $a$ 相容的极大世界，也就是信息最多的世界。
 
-否定还有别的语义。一种是 Dunn 的四值语义：和经典逻辑的真值表一样，它从 T（真）、F（假）两个值出发，但给公式赋予这些真值的一个集合。于是公式 $A$ 可取 $\{\True\}$、$\{\False\}$、$\{\True,\False\}$ 或 $\varnothing$。取 $\{\True\}$ 就是单纯为真，取 $\{\False\}$ 就是单纯为假；取 $\{\True,\False\}$ 是既真又假，取 $\varnothing$ 则既不真也不假。
+否定还有别的语义。一种是 Dunn 的四值语义：和经典逻辑的真值表一样，它从 T（真）、F（假）两个值出发，但给公式赋予这些真值的一个集合。于是公式 $A$ 可取 $\{\mathrm{T}\}$、$\{\mathrm{F}\}$、$\{\mathrm{T},\mathrm{F}\}$ 或 $\varnothing$。取 $\{\mathrm{T}\}$ 就是单纯为真，取 $\{\mathrm{F}\}$ 就是单纯为假；取 $\{\mathrm{T},\mathrm{F}\}$ 是既真又假，取 $\varnothing$ 则既不真也不假。
 
-每个公式既有真条件，也有假条件。比如，T 属于 $\neg A$ 的值，当且仅当 F 属于 $A$ 的值；F 属于 $\neg A$ 的值，当且仅当 T 属于 $A$ 的值。合取方面，T 属于 $A \amp B$ 的值，当且仅当 T 同时属于 $A$ 与 $B$ 的值；F 属于 $A \amp B$ 的值，当且仅当 F 属于 $A$ 的值或属于 $B$ 的值。析取的真、假条件与此十分相似。
+每个公式既有真条件，也有假条件。比如，T 属于 $\neg A$ 的值，当且仅当 F 属于 $A$ 的值；F 属于 $\neg A$ 的值，当且仅当 T 属于 $A$ 的值。合取方面，T 属于 $A \mathbin{\&} B$ 的值，当且仅当 T 同时属于 $A$ 与 $B$ 的值；F 属于 $A \mathbin{\&} B$ 的值，当且仅当 F 属于 $A$ 的值或属于 $B$ 的值。析取的真、假条件与此十分相似。
 
 Dunn 提出这套语义，是为了刻画 FDE（First Degree Entailment）；它只处理不含蕴涵的公式之间的蕴涵。（关于 FDE 的性质与发展，见 Omori & Wansing 2017。）[^omori-2017] Richard Routley（1988）把该理论推广到某些弱相干逻辑，Restall（1995）又推广到仅比著名相干逻辑 E、R 稍弱的逻辑（见下文第 4、5 节）。Mares（2004a）用邻域语义加上四个真值，为 R 给出一种语义。四值语义在“次协调逻辑”词条中讲得更细；否定的其他处理（有些曾用于相干逻辑）见 Wansing（2001）与“否定”词条。
 
@@ -141,14 +141,14 @@ Anderson 与 Belnap 的自然演绎系统，建立在 Fitch 为经典逻辑和�
 | 1. | $A_{\{1\}}$ | 假设 |
 | --- | --- | --- |
 | 2. | $B_{\{2\}}$ | 假设 |
-| 3. | $(A \amp B)_{\{1,2\}}$ | 1,2, &I |
+| 3. | $(A \mathbin{\&} B)_{\{1,2\}}$ | 1,2, &I |
 | 4. | $B_{\{1,2\}}$ | 3, &E |
 | 5. | $(B \rightarrow B)_{\{1\}}$ | $2,4, \rightarrow$ I |
 | 6. | $A \rightarrow(B \rightarrow B)$ | $1,5, \rightarrow$ I |
 
 在相干逻辑学家看来，第一个前提在这里完全多余。为堵住这类动作，Anderson 与 Belnap 把合取引入规则写成：
 
-由 $A_i$ 与 $B_i$ 推出 $(A \amp B)_i$。
+由 $A_i$ 与 $B_i$ 推出 $(A \mathbin{\&} B)_i$。
 
 这条规则的意思是：两个公式要合取，必须先有相同的索引，才能用合取引入。
 
@@ -205,7 +205,7 @@ N$_4$ 的模型由一个世界集合构成，集合分成正规世界与非正�
 
 N$_4$ 是相干逻辑，具备变量共享性质，语义也非常简单直观。但它很弱：没有任何蕴涵传递公理，只有一条传递规则；既没有逆否公理，也没有逆否的规则形式。
 
-另一个很有意思的逻辑是 Neil Tennant 的核心逻辑。相干逻辑原本要避开的一个“谬误”是 ex falso quodlibet，也就是爆炸：从矛盾推出随便什么命题。C.I. Lewis 曾用一个小论证替爆炸辩护。他以 $p \amp \neg p$ 为前提，由合取消去得 $p$，再由析取引入得 $p\vee q$；又从前提经合取消去得 $\neg p$。于是有了 $p\vee q$ 和 $\neg p$，再经析取三段论推出 $q$。主流相干逻辑学家拒斥析取三段论，以此堵住这个论证；但拒斥析取三段论，也成了相干逻辑最受争议的一点。
+另一个很有意思的逻辑是 Neil Tennant 的核心逻辑。相干逻辑原本要避开的一个“谬误”是 ex falso quodlibet，也就是爆炸：从矛盾推出随便什么命题。C.I. Lewis 曾用一个小论证替爆炸辩护。他以 $p \mathbin{\&} \neg p$ 为前提，由合取消去得 $p$，再由析取引入得 $p\vee q$；又从前提经合取消去得 $\neg p$。于是有了 $p\vee q$ 和 $\neg p$，再经析取三段论推出 $q$。主流相干逻辑学家拒斥析取三段论，以此堵住这个论证；但拒斥析取三段论，也成了相干逻辑最受争议的一点。
 
 但 Tennant 的核心逻辑接受析取三段论，也接受合取消去与析取引入。事实上，直觉主义逻辑证明论里的标准初始规则，核心逻辑全都支持；因此可以说，核心逻辑中联结词的意义就是它们在直觉主义逻辑中的意义。差别在于对一条结构规则的处理：它拒斥最一般形式的逻辑后承传递性。
 
@@ -229,7 +229,7 @@ Anderson（1967）以 $\mathbf{R}$ 为基础构造了一个道义逻辑系统；
 
 Routley 与 Val Plumwood（1989）、Mares 与 André Fuhrmann（1995）提出了基于相干逻辑的反事实条件句理论。他们在标准 Routley–Meyer 语义上增加了一个可及关系，它成立于一个公式与两个世界之间。按 Routley 与 Plumwood 的语义，$A\gt B$ 在世界 $a$ 成立，当且仅当凡满足 $SAab$ 的世界 $b$，$B$ 都在 $b$ 成立。Mares 与 Fuhrmann 的语义稍复杂：$A\gt B$ 在世界 $a$ 成立，当且仅当凡满足 $SAab$ 的世界 $b$，$A \rightarrow B$ 都在 $b$ 成立（两种语义的细节见 Brady (ed.) 2002, §10）。Mares（2004）提出了一套更复杂的相干条件句理论，其中包含反事实条件句。这些理论都避开了标准反事实逻辑中蕴涵悖论的对应物。
 
-相干逻辑不只用于哲学，也用于计算机科学。线性逻辑——Jean-Yves Girard 开创的一个逻辑分支——是计算资源的逻辑。线性逻辑学家把蕴涵 $A \rightarrow B$ 读作：拥有类型 $A$ 的资源，就能得到类型 $B$ 的东西。因此，若有 $A \rightarrow(A \rightarrow B)$，便知可以从两份类型 $A$ 的资源得到一个 $B$；但这并不意味着能从单份类型 $A$ 的资源得到 $B$，也就是说，不知道能否得到 $A \rightarrow B$。所以收缩在线性逻辑中失效。线性逻辑其实就是缺少收缩、也缺少合取对析取分配律 $((A \amp(B \vee C)) \rightarrow((A \amp B) \vee(A \amp C)))$ 的相干逻辑。它还有两个算子（! 与 ?），称为“指数”：把指数加在公式前面，就好像让该公式取得“经典”行事的资格。例如，在标准相干逻辑中，通常不能只给有效推理添一个前提还让它保持有效；但加上形如 $!A$ 的前提，就总能保持有效。线性逻辑对形如 $!A$ 的公式还有收缩，即 $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$ 是这些逻辑的定理（见 Troelstra 1992）[^troelstra-1992]。! 的用处，是处理“可以随意复制或忽略”的资源（Restall 2000, p 56）[^restall-2000]。线性逻辑的更多内容，见“子结构逻辑”词条。
+相干逻辑不只用于哲学，也用于计算机科学。线性逻辑——Jean-Yves Girard 开创的一个逻辑分支——是计算资源的逻辑。线性逻辑学家把蕴涵 $A \rightarrow B$ 读作：拥有类型 $A$ 的资源，就能得到类型 $B$ 的东西。因此，若有 $A \rightarrow(A \rightarrow B)$，便知可以从两份类型 $A$ 的资源得到一个 $B$；但这并不意味着能从单份类型 $A$ 的资源得到 $B$，也就是说，不知道能否得到 $A \rightarrow B$。所以收缩在线性逻辑中失效。线性逻辑其实就是缺少收缩、也缺少合取对析取分配律 $((A \mathbin{\&}(B \vee C)) \rightarrow((A \mathbin{\&} B) \vee(A \mathbin{\&} C)))$ 的相干逻辑。它还有两个算子（! 与 ?），称为“指数”：把指数加在公式前面，就好像让该公式取得“经典”行事的资格。例如，在标准相干逻辑中，通常不能只给有效推理添一个前提还让它保持有效；但加上形如 $!A$ 的前提，就总能保持有效。线性逻辑对形如 $!A$ 的公式还有收缩，即 $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$ 是这些逻辑的定理（见 Troelstra 1992）[^troelstra-1992]。! 的用处，是处理“可以随意复制或忽略”的资源（Restall 2000, p 56）[^restall-2000]。线性逻辑的更多内容，见“子结构逻辑”词条。
 
 ## References（引用注释）
 

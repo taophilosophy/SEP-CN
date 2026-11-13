@@ -47725,25 +47725,26 @@
 {"k":"inline","x":"$n\\geq 2$","ok":true,"err":null}
 {"k":"inline","x":"$n\\! =\\! 0$","ok":true,"err":null}
 {"k":"inline","x":"$\\{\\textrm{Socrates}\\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\amp \\textrm{By}(x, \\textrm{Donald}) \\amp \\textrm{Object}(x, \\textrm{toast})\\ \\amp$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$\\textrm{Location}(x, \\textrm{bathroom}) \\amp \\textrm{Time}(x, \\textrm{12am}))$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\mathbin{\\&} \\textrm{By}(x, \\textrm{Donald}) \\mathbin{\\&} \\textrm{Object}(x, \\textrm{toast})\\ \\mathbin{\\&}$","ok":true,"err":null}
+{"k":"inline","x":"$\\textrm{Location}(x, \\textrm{bathroom}) \\mathbin{\\&} \\textrm{Time}(x, \\textrm{12am}))$","ok":true,"err":null}
 {"k":"inline","x":"$\\textrm{Location}(x, \\textrm{bathroom}))$","ok":true,"err":null}
-{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\amp \\textrm{By}(x, \\textrm{Donald}) \\amp \\textrm{Object}(x, \\textrm{toast}))$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\mathbin{\\&} \\textrm{By}(x, \\textrm{Donald}) \\mathbin{\\&} \\textrm{Object}(x, \\textrm{toast}))$","ok":true,"err":null}
 {"k":"inline","x":"$F_1, F_2, \\ldots , F_n$","ok":true,"err":null}
 {"k":"display","x":"$$ \\exists x( \\textrm{Buttering}(x, \\textrm{Donald}, \\textrm{toast}, \\textrm{bathroom})) $$","ok":true,"err":null}
-{"k":"inline","x":"$\\rO(A \\lamp B) \\rightarrow \\rO(A) \\lamp \\rO(B)$","ok":false,"err":"Undefined control sequence \\rO"}
-{"k":"inline","x":"$\\langle A \\lamp B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
+{"k":"inline","x":"$\\mathrm{O}(A \\mathbin{\\&} B) \\rightarrow \\mathrm{O}(A) \\mathbin{\\&} \\mathrm{O}(B)$","ok":true,"err":null}
+{"k":"inline","x":"$\\langle A \\mathbin{\\&} B\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle A\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$。但卡斯塔涅达主张：给定 (U)，执行$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle B\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle A\\ran**e$","ok":false,"err":"Undefined control sequence \\ran"}
-{"k":"inline","x":"$\\langle A \\at t_1 \\lamp B \\at t_2\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
-{"k":"inline","x":"$\\langle A \\at t_1\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
-{"k":"inline","x":"$\\langle B \\at t_2\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
+{"k":"inline","x":"$\\langle A \\lamp B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
+{"k":"inline","x":"$\\langle A \\textrm{ at } t_1 \\mathbin{\\&} B \\textrm{ at } t_2\\rangle$","ok":true,"err":null}
+{"k":"inline","x":"$\\langle A \\textrm{ at } t_1\\rangle$","ok":true,"err":null}
+{"k":"inline","x":"$\\langle B \\textrm{ at } t_2\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$t_1$","ok":true,"err":null}
 {"k":"inline","x":"$t_2$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle C\\rangle$","ok":true,"err":null}
-{"k":"inline","x":"$\\langle A \\lamp {\\sim}B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
+{"k":"inline","x":"$\\langle A \\mathbin{\\&} {\\sim}B\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"${\\vdash} A \\rightarrow B$","ok":true,"err":null}
 {"k":"inline","x":"${\\vdash} O(A) \\rightarrow O(B)$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle a\\rangle$","ok":true,"err":null}
@@ -47755,7 +47756,7 @@
 {"k":"inline","x":"$t'**φ **会** 发生的事，好于如果 *S* 在$","ok":true,"err":null}
 {"k":"inline","x":"$t_1+N$","ok":true,"err":null}
 {"k":"inline","x":"$t_n$","ok":true,"err":null}
-{"k":"inline","x":"$\\langle{\\sim}A \\lamp {\\sim}B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
+{"k":"inline","x":"$\\langle{\\sim}A \\mathbin{\\&} {\\sim}B\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"${\\sim}B$","ok":true,"err":null}
 {"k":"inline","x":"${\\sim}A$","ok":true,"err":null}
 {"k":"inline","x":"$t_i$","ok":true,"err":null}
@@ -47773,7 +47774,7 @@
 {"k":"inline","x":"$n \\ge 1$","ok":true,"err":null}
 {"k":"inline","x":"$m \\lt n$","ok":true,"err":null}
 {"k":"inline","x":"$A_j$","ok":true,"err":null}
-{"k":"inline","x":"${\\vdash} \\rO(A) \\rightarrow \\rO(B)$","ok":false,"err":"Undefined control sequence \\rO"}
+{"k":"inline","x":"${\\vdash} \\mathrm{O}(A) \\rightarrow \\mathrm{O}(B)$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle A \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle B \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$J$","ok":true,"err":null}
@@ -47794,7 +47795,7 @@
 {"k":"inline","x":"$JD$","ok":true,"err":null}
 {"k":"inline","x":"$H$","ok":true,"err":null}
 {"k":"inline","x":"$WZ$","ok":true,"err":null}
-{"k":"inline","x":"$p \\to q \\Rightarrow p \\to (p \\amp q)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$p \\to q \\Rightarrow p \\to (p \\mathbin{\\&} q)$","ok":true,"err":null}
 {"k":"inline","x":"$2+2=4$","ok":true,"err":null}
 {"k":"inline","x":"$p \\to q$","ok":true,"err":null}
 {"k":"inline","x":"$(p \\land \\neg q) \\to \\neg q$","ok":true,"err":null}
@@ -47828,9 +47829,9 @@
 {"k":"inline","x":"$A = A$","ok":true,"err":null}
 {"k":"inline","x":"$A = B$","ok":true,"err":null}
 {"k":"inline","x":"$B = A$","ok":true,"err":null}
-{"k":"inline","x":"$\\ORjev$","ok":false,"err":"Undefined control sequence \\ORjev"}
-{"k":"display","x":"$$ \\begin{align} A &= AA = AAA = \\& c & \\mbox{Law of Simplicity (p. 33)}\\\\ AB &= BA & \\mbox{A Law of Commutativeness (p. 35)}\\\\ A \\ORjev A & = A &\\mbox{Law of Unity (p. 72)}\\\\ A \\ORjev B &= B \\ORjev A &\\mbox{A Law of Commutativeness (p. 72)}\\\\ A(B \\ORjev C) &= AB \\ORjev AC & \\mbox{(no name given) (p. 76)}\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\ORjev"}
-{"k":"display","x":"$$ \\begin{align} A &= A & \\mbox{Law of Identity (p. 74)}\\\\ Aa &= o & \\mbox{Law of Contradiction (p. 74)}\\\\ A &= AB \\ORjev Ab & \\mbox{Law of Duality (p. 74)}\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\ORjev"}
+{"k":"inline","x":"$\\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot}$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} A &= AA = AAA = \\& c & \\mbox{Law of Simplicity (p. 33)}\\\\ AB &= BA & \\mbox{A Law of Commutativeness (p. 35)}\\\\ A \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} A & = A &\\mbox{Law of Unity (p. 72)}\\\\ A \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} B &= B \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} A &\\mbox{A Law of Commutativeness (p. 72)}\\\\ A(B \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} C) &= AB \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} AC & \\mbox{(no name given) (p. 76)}\\\\ \\end{align} $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} A &= A & \\mbox{Law of Identity (p. 74)}\\\\ Aa &= o & \\mbox{Law of Contradiction (p. 74)}\\\\ A &= AB \\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot} Ab & \\mbox{Law of Duality (p. 74)}\\\\ \\end{align} $$","ok":true,"err":null}
 {"k":"inline","x":"$-\\kern-.4em<$","ok":true,"err":null}
 {"k":"inline","x":"$XY \\ne 0$","ok":true,"err":null}
 {"k":"inline","x":"$E(x, y, z, \\ldots) = 0$","ok":true,"err":null}
@@ -47873,33 +47874,33 @@
 {"k":"inline","x":"$M'$","ok":true,"err":null}
 {"k":"inline","x":"$m_{1}'$","ok":true,"err":null}
 {"k":"inline","x":"$g$","ok":true,"err":null}
-{"k":"inline","x":"$\\sH$","ok":false,"err":"Undefined control sequence \\sH"}
-{"k":"inline","x":"$X \\in \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"${\\mathcal{H}}$","ok":true,"err":null}
+{"k":"inline","x":"$X \\in {\\mathcal{H}}$","ok":true,"err":null}
 {"k":"inline","x":"$f(X) \\in X$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0, 1\\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\sH = \\{\\{0\\}, \\{1\\}, \\{0,1\\}\\}$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"${\\mathcal{H}} = \\{\\{0\\}, \\{1\\}, \\{0,1\\}\\}$","ok":true,"err":null}
 {"k":"inline","x":"$f_{1}$","ok":true,"err":null}
 {"k":"inline","x":"$f_{2}$","ok":true,"err":null}
-{"k":"inline","x":"$\\sA = \\{A_{i}: i \\in I\\}$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"inline","x":"${\\mathcal{A}} = \\{A_{i}: i \\in I\\}$","ok":true,"err":null}
 {"k":"inline","x":"$I$","ok":true,"err":null}
 {"k":"inline","x":"$A_{i}$","ok":true,"err":null}
-{"k":"inline","x":"$\\sA$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"inline","x":"${\\mathcal{A}}$","ok":true,"err":null}
 {"k":"inline","x":"$i$","ok":true,"err":null}
 {"k":"inline","x":"$f: I \\rightarrow \\bigcup_{i\\in I} A_{i}$","ok":true,"err":null}
 {"k":"inline","x":"$i\\in I$","ok":true,"err":null}
 {"k":"inline","x":"$f(i) \\in A_{i}$","ok":true,"err":null}
-{"k":"display","x":"$$ {\\forall x\\inn A}\\ \\exists y\\inn B[R(x,y)] \\Rightarrow \\exists f[f: A \\rightarrow B \\amp {\\forall x\\inn A}[R(x,fx)]]. $$","ok":false,"err":"Undefined control sequence \\inn"}
-{"k":"inline","x":"$T \\subseteq \\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"display","x":"$$ {\\forall x\\,{\\in}\\, A}\\ \\exists y\\,{\\in}\\, B[R(x,y)] \\Rightarrow \\exists f[f: A \\rightarrow B \\mathbin{\\&} {\\forall x\\,{\\in}\\, A}[R(x,fx)]]. $$","ok":true,"err":null}
+{"k":"inline","x":"$T \\subseteq \\bigcup {\\mathcal{H}}$","ok":true,"err":null}
 {"k":"inline","x":"$T \\cap X$","ok":true,"err":null}
-{"k":"inline","x":"$\\sH = \\{\\{0\\}, \\{1\\}, \\{2, 3\\}\\}$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"${\\mathcal{H}} = \\{\\{0\\}, \\{1\\}, \\{2, 3\\}\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0, 1, 2\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0, 1, 3\\}$","ok":true,"err":null}
-{"k":"inline","x":"$S \\subseteq \\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$S \\subseteq \\bigcup {\\mathcal{H}}$","ok":true,"err":null}
 {"k":"inline","x":"$S\\cap X \\ne \\varnothing$","ok":true,"err":null}
-{"k":"inline","x":"$\\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$\\bigcup {\\mathcal{H}}$","ok":true,"err":null}
 {"k":"inline","x":"$S$","ok":true,"err":null}
 {"k":"inline","x":"$S \\cap X$","ok":true,"err":null}
-{"k":"inline","x":"$X\\in \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$X\\in {\\mathcal{H}}$","ok":true,"err":null}
 {"k":"inline","x":"$\\bfrac{1}{2}$","ok":false,"err":"Undefined control sequence \\bfrac"}
 {"k":"inline","x":"$\\bfrac{1}{3}$","ok":false,"err":"Undefined control sequence \\bfrac"}
 {"k":"inline","x":"$V(A)$","ok":true,"err":null}
@@ -47927,17 +47928,17 @@
 {"k":"inline","x":"$\\pi f = f$","ok":true,"err":null}
 {"k":"inline","x":"$\\pi(f(U)) = f(U)$","ok":true,"err":null}
 {"k":"inline","x":"$U$","ok":true,"err":null}
-{"k":"inline","x":"$\\sP(X)$","ok":false,"err":"Undefined control sequence \\sP"}
+{"k":"inline","x":"${\\mathcal{P}}(X)$","ok":true,"err":null}
 {"k":"inline","x":"$\\lambda$","ok":true,"err":null}
-{"k":"inline","x":"$\\Def(X)$","ok":false,"err":"Undefined control sequence \\Def"}
+{"k":"inline","x":"${\\mathrm{Def}}(X)$","ok":true,"err":null}
 {"k":"inline","x":"$(X, \\in, (x)_{x\\in X})$","ok":true,"err":null}
-{"k":"inline","x":"$L = \\bigcup_{\\alpha\\in \\Ord} L_{\\alpha}$","ok":false,"err":"Undefined control sequence \\Ord"}
+{"k":"inline","x":"$L = \\bigcup_{\\alpha\\in {\\mathrm{Ord}}} L_{\\alpha}$","ok":true,"err":null}
 {"k":"inline","x":"$(L, \\in)$","ok":true,"err":null}
-{"k":"inline","x":"$\\rD(X)$","ok":false,"err":"Undefined control sequence \\rD"}
+{"k":"inline","x":"${\\mathrm{D}}(X)$","ok":true,"err":null}
 {"k":"inline","x":"$(X, \\in)$","ok":true,"err":null}
-{"k":"inline","x":"$\\bigcup_{\\alpha\\in \\Ord} D(V_{\\alpha})$","ok":false,"err":"Undefined control sequence \\Ord"}
+{"k":"inline","x":"$\\bigcup_{\\alpha\\in {\\mathrm{Ord}}} D(V_{\\alpha})$","ok":true,"err":null}
 {"k":"inline","x":"$\\in$","ok":true,"err":null}
-{"k":"inline","x":"$\\sA = \\{A_{i}:i \\in I\\}.$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"inline","x":"${\\mathcal{A}} = \\{A_{i}:i \\in I\\}.$","ok":true,"err":null}
 {"k":"inline","x":"$i\\in J$","ok":true,"err":null}
 {"k":"inline","x":"$f, g \\in P$","ok":true,"err":null}
 {"k":"inline","x":"$f \\le g$","ok":true,"err":null}
@@ -47959,9 +47960,9 @@
 {"k":"inline","x":"$p_{i}$","ok":true,"err":null}
 {"k":"inline","x":"$q_{0}$","ok":true,"err":null}
 {"k":"inline","x":"$q_{0} \\lt q_{1}$","ok":true,"err":null}
-{"k":"inline","x":"$\\sN$","ok":false,"err":"Undefined control sequence \\sN"}
+{"k":"inline","x":"${\\mathcal{N}}$","ok":true,"err":null}
 {"k":"inline","x":"$X \\subseteq S$","ok":true,"err":null}
-{"k":"inline","x":"$\\sT$","ok":false,"err":"Undefined control sequence \\sT"}
+{"k":"inline","x":"${\\mathcal{T}}$","ok":true,"err":null}
 {"k":"inline","x":"$\\{S_{i}: i\\in I\\}$","ok":true,"err":null}
 {"k":"inline","x":"$S = {\\bigcap}_{i\\in I} S_{i}$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg(X \\subseteq S)$","ok":true,"err":null}
@@ -47987,7 +47988,7 @@
 {"k":"inline","x":"$\\{M_{i,j}: i \\in I,j \\in J\\}$","ok":true,"err":null}
 {"k":"inline","x":"$J^I$","ok":true,"err":null}
 {"k":"display","x":"$$ \\bigcap_{i\\in I} \\bigcup_{j\\in J} M_{i,j} = \\bigcup_{f\\in J^I} \\bigcap_{i\\in I} M_{i,f(i)} $$","ok":true,"err":null}
-{"k":"inline","x":"$\\range(R) \\subseteq \\domain(R)$","ok":false,"err":"Undefined control sequence \\range"}
+{"k":"inline","x":"${\\mathrm{range}}(R) \\subseteq {\\mathrm{domain}}(R)$","ok":true,"err":null}
 {"k":"inline","x":"$f: \\omega \\rightarrow A$","ok":true,"err":null}
 {"k":"inline","x":"$n\\in \\omega, R(f(n),f(n+1))$","ok":true,"err":null}
 {"k":"inline","x":"$\\kappa$","ok":true,"err":null}
@@ -48005,9 +48006,9 @@
 {"k":"inline","x":"$\\forall X \\forall Y \\forall F[X \\approx Y \\rightarrow FX = FY]$","ok":true,"err":null}
 {"k":"inline","x":"$X \\approx Y$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall x[X(x) \\leftrightarrow Y(x)]$","ok":true,"err":null}
-{"k":"inline","x":"$\\uO \\ne \\uI$","ok":false,"err":"Undefined control sequence \\uO"}
-{"k":"inline","x":"$\\uO$","ok":false,"err":"Undefined control sequence \\uO"}
-{"k":"inline","x":"$\\uI$","ok":false,"err":"Undefined control sequence \\uI"}
+{"k":"inline","x":"${\\underline{0}} \\ne {\\underline{1}}$","ok":true,"err":null}
+{"k":"inline","x":"${\\underline{0}}$","ok":true,"err":null}
+{"k":"inline","x":"${\\underline{1}}$","ok":true,"err":null}
 {"k":"inline","x":"$\\Phi(X)$","ok":true,"err":null}
 {"k":"inline","x":"$X \\approx U \\vee X \\approx V$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall X[\\Phi(X) \\rightarrow \\exists xX(x)]$","ok":true,"err":null}
@@ -48058,23 +48059,23 @@
 {"k":"inline","x":"$\\forall x[\\alpha \\vee \\beta(x)] \\rightarrow \\alpha\\vee\\forall x\\beta(x)$","ok":true,"err":null}
 {"k":"inline","x":"$\\beta(x)$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0\\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\Fun(X)$","ok":false,"err":"Undefined control sequence \\Fun"}
+{"k":"inline","x":"${\\mathrm{Fun}}(X)$","ok":true,"err":null}
 {"k":"inline","x":"$\\phi(x,y)$","ok":true,"err":null}
 {"k":"inline","x":"$_X$","ok":true,"err":null}
-{"k":"inline","x":"$\\forall x\\in X\\ \\exists y \\phi(x,y) \\rightarrow \\exists f \\in \\Fun(X)\\ \\forall x \\in X\\ \\phi(x,fx)$","ok":false,"err":"Undefined control sequence \\Fun"}
+{"k":"inline","x":"$\\forall x\\in X\\ \\exists y \\phi(x,y) \\rightarrow \\exists f \\in {\\mathrm{Fun}}(X)\\ \\forall x \\in X\\ \\phi(x,fx)$","ok":true,"err":null}
 {"k":"inline","x":"$^*_X$","ok":true,"err":null}
-{"k":"inline","x":"${\\exists f \\inn \\Fun(X)} [{\\forall x\\inn X}\\ \\exists y \\phi(x,y) \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
-{"k":"inline","x":"$\\forall f \\inn Fun(X)\\ {\\exists x \\inn X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\inn X}\\ \\forall y \\phi(x,y)$","ok":false,"err":"Undefined control sequence \\inn"}
-{"k":"inline","x":"${\\exists f \\inn \\Fun(X)}\\ [{\\exists x\\inn X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\inn X}\\ \\forall y \\phi(x,y)]$","ok":false,"err":"Undefined control sequence \\inn"}
-{"k":"inline","x":"${\\exists x\\inn 2}\\ \\alpha(x) \\wedge {\\exists x \\inn 2}\\ \\beta(x) \\rightarrow {\\exists x \\inn 2}\\ {\\exists y \\inn 2}\\ [\\alpha(x) \\wedge \\beta(y) \\wedge [{\\forall x \\inn 2}\\ [\\alpha(x) \\leftrightarrow \\beta(x)] \\rightarrow x = y]].$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\,{\\in}\\, {\\mathrm{Fun}}(X)} [{\\forall x\\,{\\in}\\, X}\\ \\exists y \\phi(x,y) \\rightarrow {\\forall x \\,{\\in}\\, X}\\ \\phi(x,fx)]$","ok":true,"err":null}
+{"k":"inline","x":"$\\forall f \\,{\\in}\\, Fun(X)\\ {\\exists x \\,{\\in}\\, X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\,{\\in}\\, X}\\ \\forall y \\phi(x,y)$","ok":true,"err":null}
+{"k":"inline","x":"${\\exists f \\,{\\in}\\, {\\mathrm{Fun}}(X)}\\ [{\\exists x\\,{\\in}\\, X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\,{\\in}\\, X}\\ \\forall y \\phi(x,y)]$","ok":true,"err":null}
+{"k":"inline","x":"${\\exists x\\,{\\in}\\, 2}\\ \\alpha(x) \\wedge {\\exists x \\,{\\in}\\, 2}\\ \\beta(x) \\rightarrow {\\exists x \\,{\\in}\\, 2}\\ {\\exists y \\,{\\in}\\, 2}\\ [\\alpha(x) \\wedge \\beta(y) \\wedge [{\\forall x \\,{\\in}\\, 2}\\ [\\alpha(x) \\leftrightarrow \\beta(x)] \\rightarrow x = y]].$","ok":true,"err":null}
 {"k":"inline","x":"$^*_1$","ok":true,"err":null}
 {"k":"inline","x":"$_1$","ok":true,"err":null}
 {"k":"inline","x":"$_2$","ok":true,"err":null}
 {"k":"inline","x":"$^*_2$","ok":true,"err":null}
-{"k":"inline","x":"${\\exists f \\inn 2^X} [{\\forall x\\inn X}\\ {\\exists y \\inn 2}\\ \\phi(x,y) \\rightarrow {\\exists x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
-{"k":"inline","x":"${\\exists f \\inn 2^X} [{\\forall x \\inn X}\\ {\\exists y \\inn 2}\\ \\phi(x,y) \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\,{\\in}\\, 2^X} [{\\forall x\\,{\\in}\\, X}\\ {\\exists y \\,{\\in}\\, 2}\\ \\phi(x,y) \\rightarrow {\\exists x \\,{\\in}\\, X}\\ \\phi(x,fx)]$","ok":true,"err":null}
+{"k":"inline","x":"${\\exists f \\,{\\in}\\, 2^X} [{\\forall x \\,{\\in}\\, X}\\ {\\exists y \\,{\\in}\\, 2}\\ \\phi(x,y) \\rightarrow {\\forall x \\,{\\in}\\, X}\\ \\phi(x,fx)]$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall x[\\phi(x,0) \\rightarrow \\neg\\phi(x,1)]$","ok":true,"err":null}
-{"k":"inline","x":"${\\exists f \\inn 2^X}[{\\forall x \\inn X}[\\phi(x,0) \\vee \\phi(x,1)] \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\,{\\in}\\, 2^X}[{\\forall x \\,{\\in}\\, X}[\\phi(x,0) \\vee \\phi(x,1)] \\rightarrow {\\forall x \\,{\\in}\\, X}\\ \\phi(x,fx)]$","ok":true,"err":null}
 {"k":"inline","x":"$A \\rightarrow B$","ok":true,"err":null}
 {"k":"inline","x":"$b \\in B$","ok":true,"err":null}
 {"k":"inline","x":"$a \\in A$","ok":true,"err":null}
@@ -48084,11 +48085,11 @@
 {"k":"inline","x":"$f(g(x) = x$","ok":true,"err":null}
 {"k":"inline","x":"$S_{1}$","ok":true,"err":null}
 {"k":"inline","x":"$(x)_{x\\in X}$","ok":true,"err":null}
-{"k":"inline","x":"$X\\in \\sI$","ok":false,"err":"Undefined control sequence \\sI"}
+{"k":"inline","x":"$X\\in {\\mathcal{I}}$","ok":true,"err":null}
 {"k":"inline","x":"$S' = [(S - X) \\cup \\{a\\}]$","ok":true,"err":null}
 {"k":"inline","x":"$S' \\cap X = \\{a\\}$","ok":true,"err":null}
 {"k":"inline","x":"$S'$","ok":true,"err":null}
-{"k":"inline","x":"$\\sI - \\{X\\}$","ok":false,"err":"Undefined control sequence \\sI"}
+{"k":"inline","x":"${\\mathcal{I}} - \\{X\\}$","ok":true,"err":null}
 {"k":"inline","x":"$(p\\land q)\\leftrightarrow r$","ok":true,"err":null}
 {"k":"inline","x":"$(p \\land q) \\leftrightarrow r$","ok":true,"err":null}
 {"k":"inline","x":"$A\\subseteq L$","ok":true,"err":null}
@@ -48135,8 +48136,8 @@
 {"k":"inline","x":"$(1, 0, 1)$","ok":true,"err":null}
 {"k":"inline","x":"$W = \\{0, 1\\}^{At}$","ok":true,"err":null}
 {"k":"inline","x":"$\\varphi \\in L$","ok":true,"err":null}
-{"k":"inline","x":"$\\mymod(\\varphi) = \\{\\omega \\in W | \\omega \\models \\varphi\\}$","ok":false,"err":"Undefined control sequence \\mymod"}
-{"k":"inline","x":"$\\mymod((p\\land q) \\leftrightarrow r) = \\{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\\}.$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$\\textit{mod}(\\varphi) = \\{\\omega \\in W | \\omega \\models \\varphi\\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\textit{mod}((p\\land q) \\leftrightarrow r) = \\{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\\}.$","ok":true,"err":null}
 {"k":"inline","x":"$K_i$","ok":true,"err":null}
 {"k":"inline","x":"$K_{i}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathcal{K}$","ok":true,"err":null}
@@ -48148,38 +48149,38 @@
 {"k":"inline","x":"$E_{2}$","ok":true,"err":null}
 {"k":"inline","x":"$B\\in E_1$","ok":true,"err":null}
 {"k":"inline","x":"$\\models\\land f(B)\\leftrightarrow \\land B$","ok":true,"err":null}
-{"k":"inline","x":"$\\Delta_{\\IC}(E)$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E)$","ok":true,"err":null}
 {"k":"inline","x":"$K_{2}$","ok":true,"err":null}
-{"k":"inline","x":"$\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\IC_1$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\textit{IC}$","ok":true,"err":null}
+{"k":"inline","x":"$\\textit{IC}_1$","ok":true,"err":null}
+{"k":"inline","x":"$\\textit{IC}_{2}$","ok":true,"err":null}
 {"k":"inline","x":"$\\Delta$","ok":true,"err":null}
-{"k":"inline","x":"$\\Delta_{\\IC}(E) \\models \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E) \\models \\textit{IC}$","ok":true,"err":null}
 {"k":"inline","x":"$\\land E$","ok":true,"err":null}
-{"k":"inline","x":"$\\Delta_{\\IC}(E)\\equiv \\land E\\land \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E)\\equiv \\land E\\land \\textit{IC}$","ok":true,"err":null}
 {"k":"inline","x":"$E_1\\equiv E_{2}$","ok":true,"err":null}
-{"k":"inline","x":"$\\IC_1\\equiv \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC_1}(E_1)\\equiv \\Delta_{\\IC_2}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$K_1 \\models\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$K_{2} \\models\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC}(\\{K_1, K_{2}\\})\\land K_1$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC}(\\{K_1, K_{2}\\})\\land K_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2}) \\models\\Delta_{\\IC}(E_1\\sqcup E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC}(E_1\\sqcup E_{2}) \\models \\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC_{1}}(E) \\land \\IC_{2} \\models\\Delta_{\\IC_{1\\land} \\IC_{2}} (E)$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC_1}(E) \\land \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\Delta_{\\IC_{1\\land}\\IC_{2}} (E) \\models\\Delta_{\\IC_1}(E)$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\IC_1 \\land \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\textit{IC}_1\\equiv \\textit{IC}_{2}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}_1}(E_1)\\equiv \\Delta_{\\textit{IC}_2}(E_{2})$","ok":true,"err":null}
+{"k":"inline","x":"$K_1 \\models\\textit{IC}$","ok":true,"err":null}
+{"k":"inline","x":"$K_{2} \\models\\textit{IC}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(\\{K_1, K_{2}\\})\\land K_1$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(\\{K_1, K_{2}\\})\\land K_{2}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E_1) \\land \\Delta_{\\textit{IC}}(E_{2}) \\models\\Delta_{\\textit{IC}}(E_1\\sqcup E_{2})$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E_1) \\land \\Delta_{\\textit{IC}}(E_{2})$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}}(E_1\\sqcup E_{2}) \\models \\Delta_{\\textit{IC}}(E_1) \\land \\Delta_{\\textit{IC}}(E_{2})$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}_{1}}(E) \\land \\textit{IC}_{2} \\models\\Delta_{\\textit{IC}_{1\\land} \\textit{IC}_{2}} (E)$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}_1}(E) \\land \\textit{IC}_{2}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta_{\\textit{IC}_{1\\land}\\textit{IC}_{2}} (E) \\models\\Delta_{\\textit{IC}_1}(E)$","ok":true,"err":null}
+{"k":"inline","x":"$\\textit{IC}_1 \\land \\textit{IC}_{2}$","ok":true,"err":null}
 {"k":"inline","x":"$E^n$","ok":true,"err":null}
-{"k":"inline","x":"$\\exists n \\Delta_{\\IC} (E_1\\sqcup E^{n}_{2}) \\models\\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"display","x":"$$\\begin{align} \\Delta_{\\IC_1}(K_1) &\\equiv \\Delta_{\\IC_2}(K_{2}), \\textrm{ and}\\\\ \\Delta_{\\IC_{1} \\leftrightarrow \\neg \\IC_{2}} (\\{K_1, K_{2}\\}) &\\equiv (\\IC_1\\leftrightarrow \\neg \\IC_{2}), \\textrm{ then} \\\\ \\Delta_{\\IC_{1}\\lor \\IC_{2}} (\\{K_1, K_{2}\\}) &\\equiv \\Delta_{\\IC_1}(K_1).\\end{align}$$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\exists n \\Delta_{\\textit{IC}} (E_1\\sqcup E^{n}_{2}) \\models\\Delta_{\\textit{IC}}(E_{2})$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align} \\Delta_{\\textit{IC}_1}(K_1) &\\equiv \\Delta_{\\textit{IC}_2}(K_{2}), \\textrm{ and}\\\\ \\Delta_{\\textit{IC}_{1} \\leftrightarrow \\neg \\textit{IC}_{2}} (\\{K_1, K_{2}\\}) &\\equiv (\\textit{IC}_1\\leftrightarrow \\neg \\textit{IC}_{2}), \\textrm{ then} \\\\ \\Delta_{\\textit{IC}_{1}\\lor \\textit{IC}_{2}} (\\{K_1, K_{2}\\}) &\\equiv \\Delta_{\\textit{IC}_1}(K_1).\\end{align}$$","ok":true,"err":null}
 {"k":"inline","x":"$K_2 = \\{a \\wedge b\\}$","ok":true,"err":null}
 {"k":"inline","x":"$a, b, a \\wedge b, \\neg b$","ok":true,"err":null}
 {"k":"inline","x":"$mod(K_1) = mod(K_2) = \\{(1, 1)\\}$","ok":true,"err":null}
 {"k":"inline","x":"$mod(K_3) = \\{(1,0), (0,0)\\}$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega,E)$","ok":true,"err":null}
-{"k":"display","x":"$$ \\mymod(\\Delta_{\\IC}(E)) = \\mymin (\\mymod (\\IC), \\le_{d}) $$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"display","x":"$$ \\textit{mod}(\\Delta_{\\textit{IC}}(E)) = \\textit{min} (\\textit{mod} (\\textit{IC}), \\le_{d}) $$","ok":true,"err":null}
 {"k":"inline","x":"$d: W \\times W \\rightarrow R^{+}$","ok":true,"err":null}
 {"k":"inline","x":"$\\omega, \\omega'\\in W$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega ,\\omega') = d(\\omega',\\omega )$","ok":true,"err":null}
@@ -48191,7 +48192,7 @@
 {"k":"inline","x":"$\\omega_2 = (0,1,1,1)$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega_1 ,\\omega_2) = d(\\omega_2 ,\\omega_1)$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega_1 ,\\omega_3) = 0$","ok":true,"err":null}
-{"k":"inline","x":"$d(\\omega, K) = \\mymin_{\\omega'\\in \\mymod(K)} d(\\omega, \\omega')$","ok":false,"err":"Undefined control sequence \\mymin"}
+{"k":"inline","x":"$d(\\omega, K) = \\textit{min}_{\\omega'\\in \\textit{mod}(K)} d(\\omega, \\omega')$","ok":true,"err":null}
 {"k":"inline","x":"$K_i = \\{a \\vee b\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\{(0,1) (1,0), (1,1)\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\omega'$","ok":true,"err":null}
@@ -48206,7 +48207,7 @@
 {"k":"inline","x":"$x_1=\\ldots =x_{n}=0$","ok":true,"err":null}
 {"k":"inline","x":"$D(x)=x$","ok":true,"err":null}
 {"k":"inline","x":"$D_{\\Sigma}$","ok":true,"err":null}
-{"k":"inline","x":"$D_{\\mymax}$","ok":false,"err":"Undefined control sequence \\mymax"}
+{"k":"inline","x":"$D_{\\textit{Max}}$","ok":true,"err":null}
 {"k":"inline","x":"$\\omega = (1, 0, 0)$","ok":true,"err":null}
 {"k":"inline","x":"$\\omega' = (0, 1, 0)$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega, \\omega') = 2$","ok":true,"err":null}
@@ -48223,7 +48224,7 @@
 {"k":"inline","x":"$(1, 0, 0, 1)$","ok":true,"err":null}
 {"k":"inline","x":"$(1, 0, 1, 0)$","ok":true,"err":null}
 {"k":"inline","x":"$(1, 1, 0, 0)\\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\IC= \\{(p\\land q) \\leftrightarrow r\\}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\textit{IC}= \\{(p\\land q) \\leftrightarrow r\\}$","ok":true,"err":null}
 {"k":"inline","x":"$E=\\{K_1 , K_{2} , K_{3}\\}$","ok":true,"err":null}
 {"k":"inline","x":"$K_1 , K_{2} , K_3$","ok":true,"err":null}
 {"k":"inline","x":"$(1,0,1)$","ok":true,"err":null}
@@ -48241,7 +48242,7 @@
 {"k":"inline","x":"$(0,1,0)$","ok":true,"err":null}
 {"k":"inline","x":"$(0,0,1)$","ok":true,"err":null}
 {"k":"inline","x":"$(0,0,0)$","ok":true,"err":null}
-{"k":"inline","x":"$\\mymod(K_1)= \\{(1, 1, 1),$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$\\textit{mod}(K_1)= \\{(1, 1, 1),$","ok":true,"err":null}
 {"k":"inline","x":"$(0, 1, 1)\\}$","ok":true,"err":null}
 {"k":"inline","x":"$a\\land b$","ok":true,"err":null}
 {"k":"inline","x":"$A= \\{\\neg a \\land \\neg b, \\neg a \\land b, a \\land \\neg b, a \\land b\\}$","ok":true,"err":null}
@@ -48252,10 +48253,10 @@
 {"k":"inline","x":"$K_{2} = \\{p, q, (p\\land q)\\}$","ok":true,"err":null}
 {"k":"inline","x":"$(\\forall \\omega, \\omega', \\omega'' \\in W$","ok":true,"err":null}
 {"k":"inline","x":"$d(\\omega, \\omega') \\le d(\\omega, \\omega'') + d(\\omega'', \\omega'))$","ok":true,"err":null}
-{"k":"inline","x":"$\\IC_{\\textit{It}}$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\varphi \\vdash \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\exists n \\Delta_{\\IC}^{n} (E,\\varphi) \\vdash\\varphi$","ok":false,"err":"Undefined control sequence \\IC"}
-{"k":"inline","x":"$\\varphi * \\IC= \\Delta_{\\IC}(\\varphi)$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\textit{IC}_{\\textit{It}}$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi \\vdash \\textit{IC}$","ok":true,"err":null}
+{"k":"inline","x":"$\\exists n \\Delta_{\\textit{IC}}^{n} (E,\\varphi) \\vdash\\varphi$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi * \\textit{IC}= \\Delta_{\\textit{IC}}(\\varphi)$","ok":true,"err":null}
 {"k":"inline","x":"$*$","ok":true,"err":null}
 {"k":"inline","x":"$n = 1$","ok":true,"err":null}
 {"k":"inline","x":"$n = 2$","ok":true,"err":null}
@@ -48372,10 +48373,10 @@
 {"k":"inline","x":"$(\\mathbb{Q} + \\mathbf{A}) \\times \\mathbb{Q}$","ok":true,"err":null}
 {"k":"inline","x":"$V(B)$","ok":true,"err":null}
 {"k":"inline","x":"$\\alpha , \\beta$","ok":true,"err":null}
-{"k":"display","x":"$$\\begin{align*} V(B, 0) &= \\varnothing \\\\ V(B, \\alpha + 1) &= \\{ f : \\dom(f) \\subset V(B, \\alpha) \\text{ and } \\range(f) \\subset B \\} \\\\ V(B, \\lambda) &= \\bigcup_{\\beta \\lt \\lambda} V(B, \\beta). \\end{align*}$$","ok":false,"err":"Undefined control sequence \\dom"}
-{"k":"inline","x":"$\\dom(f)$","ok":false,"err":"Undefined control sequence \\dom"}
-{"k":"inline","x":"$\\range(f)$","ok":false,"err":"Undefined control sequence \\range"}
-{"k":"display","x":"$$\\begin{align*} \\val{x \\in y} &= \\sum_{t \\in \\dom(y)} \\val{x=t}\\cdot y(t) \\\\ \\val{x \\subseteq y} &= \\prod_{t \\in \\dom(x)} -x(t) + \\val{t \\in y} \\\\ \\val{x = y} &= \\val{x \\subseteq y} \\cdot \\val{y \\subseteq x} \\\\ \\val{\\neg \\phi} &= -\\val{\\phi} \\\\ \\val{\\phi \\vee \\psi} &= \\val{\\phi} + \\val{\\psi} \\\\ \\val{\\exists x\\phi(x)} &= \\sum_{a \\in V(B)} \\val{\\phi(a)}. \\end{align*}$$","ok":false,"err":"Undefined control sequence \\val"}
+{"k":"display","x":"$$\\begin{align*} V(B, 0) &= \\varnothing \\\\ V(B, \\alpha + 1) &= \\{ f : \\text{dom}(f) \\subset V(B, \\alpha) \\text{ and } \\text{range}(f) \\subset B \\} \\\\ V(B, \\lambda) &= \\bigcup_{\\beta \\lt \\lambda} V(B, \\beta). \\end{align*}$$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{dom}(f)$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{range}(f)$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align*} \\val{x \\in y} &= \\sum_{t \\in \\text{dom}(y)} \\val{x=t}\\cdot y(t) \\\\ \\val{x \\subseteq y} &= \\prod_{t \\in \\text{dom}(x)} -x(t) + \\val{t \\in y} \\\\ \\val{x = y} &= \\val{x \\subseteq y} \\cdot \\val{y \\subseteq x} \\\\ \\val{\\neg \\phi} &= -\\val{\\phi} \\\\ \\val{\\phi \\vee \\psi} &= \\val{\\phi} + \\val{\\psi} \\\\ \\val{\\exists x\\phi(x)} &= \\sum_{a \\in V(B)} \\val{\\phi(a)}. \\end{align*}$$","ok":false,"err":"Undefined control sequence \\val"}
 {"k":"inline","x":"$p \\vee \\neg p$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg p \\rightarrow \\neg p$","ok":true,"err":null}
 {"k":"inline","x":"$[0,1] \\rightarrow \\mathbb{R}$","ok":true,"err":null}
@@ -48409,10 +48410,10 @@
 {"k":"inline","x":"$Np$","ok":true,"err":null}
 {"k":"inline","x":"$N(p \\vee \\neg p)$","ok":true,"err":null}
 {"k":"inline","x":"$M =df \\neg N\\neg$","ok":true,"err":null}
-{"k":"inline","x":"$M(p \\amp \\neg p)$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$N(p \\amp \\neg p)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$M(p \\mathbin{\\&} \\neg p)$","ok":true,"err":null}
+{"k":"inline","x":"$N(p \\mathbin{\\&} \\neg p)$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg(p \\vee \\neg p)$","ok":true,"err":null}
-{"k":"inline","x":"$p \\amp \\neg p$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$p \\mathbin{\\&} \\neg p$","ok":true,"err":null}
 {"k":"inline","x":"$p \\vee q$","ok":true,"err":null}
 {"k":"inline","x":"$x = f(t)$","ok":true,"err":null}
 {"k":"inline","x":"$t = a$","ok":true,"err":null}
@@ -48548,12 +48549,12 @@
 {"k":"inline","x":"$T(n)$","ok":true,"err":null}
 {"k":"inline","x":"$M(w)$","ok":true,"err":null}
 {"k":"inline","x":"$T : \\mathbf{N} \\rightarrow \\mathbf{N}$","ok":true,"err":null}
-{"k":"display","x":"$$ \\TIME[T(n)] = \\{ A \\mid A = L(M) \\text{ for some } M \\text{ that runs in time } T(n)\\}. $$","ok":false,"err":"Undefined control sequence \\TIME"}
-{"k":"inline","x":"$\\P$","ok":false,"err":"Undefined control sequence \\P"}
-{"k":"display","x":"$$ \\P = \\bigcup_{i=1,2,\\ldots} \\TIME[n^{i}] $$","ok":false,"err":"Undefined control sequence \\P"}
-{"k":"inline","x":"$\\NP$","ok":false,"err":"Undefined control sequence \\NP"}
-{"k":"inline","x":"$\\PSPACE$","ok":false,"err":"Undefined control sequence \\PSPACE"}
-{"k":"inline","x":"$\\EXPTIME$","ok":false,"err":"Undefined control sequence \\EXPTIME"}
+{"k":"display","x":"$$ {\\mathrm{TIME}}[T(n)] = \\{ A \\mid A = L(M) \\text{ for some } M \\text{ that runs in time } T(n)\\}. $$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{P}}$","ok":true,"err":null}
+{"k":"display","x":"$$ {\\mathrm{P}} = \\bigcup_{i=1,2,\\ldots} {\\mathrm{TIME}}[n^{i}] $$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{NP}}$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{PSPACE}}$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{EXPTIME}}$","ok":true,"err":null}
 {"k":"inline","x":"$2^{p(n)}$","ok":true,"err":null}
 {"k":"inline","x":"$N$","ok":true,"err":null}
 {"k":"inline","x":"$a_{1}, \\ldots ,a_{m}$","ok":true,"err":null}
@@ -48571,10 +48572,10 @@
 {"k":"inline","x":"$\\varphi_G$","ok":true,"err":null}
 {"k":"inline","x":"$u$","ok":true,"err":null}
 {"k":"inline","x":"$v$","ok":true,"err":null}
-{"k":"inline","x":"$\\TIME[n]$","ok":false,"err":"Undefined control sequence \\TIME"}
-{"k":"inline","x":"$\\TIME[n^{1.01}]$","ok":false,"err":"Undefined control sequence \\TIME"}
-{"k":"inline","x":"$\\SPACE$","ok":false,"err":"Undefined control sequence \\SPACE"}
-{"k":"display","x":"$$ \\P \\subseteq \\NP \\subseteq \\PSPACE \\subseteq \\EXPTIME $$","ok":false,"err":"Undefined control sequence \\P"}
+{"k":"inline","x":"${\\mathrm{TIME}}[n]$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{TIME}}[n^{1.01}]$","ok":true,"err":null}
+{"k":"inline","x":"${\\mathrm{SPACE}}$","ok":true,"err":null}
+{"k":"display","x":"$$ {\\mathrm{P}} \\subseteq {\\mathrm{NP}} \\subseteq {\\mathrm{PSPACE}} \\subseteq {\\mathrm{EXPTIME}} $$","ok":true,"err":null}
 {"k":"inline","x":"$\\overline{{\\rm Halt}}$","ok":true,"err":null}
 {"k":"inline","x":"$n^{1,000}$","ok":true,"err":null}
 {"k":"inline","x":"$c n^k$","ok":true,"err":null}
@@ -48632,8 +48633,8 @@
 {"k":"inline","x":"$F]p$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle F\\rangle \\langle C\\rangle p$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle F\\rangle$","ok":true,"err":null}
-{"k":"inline","x":"$\\Diamond p$","ok":true,"err":null}
-{"k":"inline","x":"$\\Diamond$","ok":true,"err":null}
+{"k":"inline","x":"$\\unicode{x2B26} p$","ok":true,"err":null}
+{"k":"inline","x":"$\\unicode{x2B26}$","ok":true,"err":null}
 {"k":"inline","x":"$t_{n+1}$","ok":true,"err":null}
 {"k":"inline","x":"$t_{n+1/2}$","ok":true,"err":null}
 {"k":"inline","x":"$M 2 115$","ok":true,"err":null}
@@ -48800,12 +48801,12 @@
 {"k":"inline","x":"$j$","ok":true,"err":null}
 {"k":"inline","x":"$c :: [e]^i$","ok":true,"err":null}
 {"k":"inline","x":"$x :: e$","ok":true,"err":null}
-{"k":"inline","x":"$c\\mcaret x$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"inline","x":"$c\\mathbin{{}^{\\wedge}} x$","ok":true,"err":null}
 {"k":"inline","x":"$i+1$","ok":true,"err":null}
 {"k":"inline","x":"$\\ldots ,c[i-1], x$","ok":true,"err":null}
-{"k":"inline","x":"$\\mcaret$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"inline","x":"$\\mathbin{{}^{\\wedge}}$","ok":true,"err":null}
 {"k":"inline","x":"$[e]^i \\rightarrow e \\rightarrow[e]^{i+1}$","ok":true,"err":null}
-{"k":"display","x":"$$\\lambda P\\lambda c\\lambda c' \\cdot \\exists x (\\textrm{man } x \\mcaret P\\lvert c\\rvert (c^x)c').$$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"display","x":"$$\\lambda P\\lambda c\\lambda c' \\cdot \\exists x (\\textrm{man } x \\mathbin{{}^{\\wedge}} P\\lvert c\\rvert (c^x)c').$$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0, \\ldots ,i\\} \\rightarrow[e]^{i+1} \\rightarrow [e]^j \\rightarrow t$","ok":true,"err":null}
 {"k":"inline","x":"$e]^i$","ok":true,"err":null}
 {"k":"inline","x":"$c'$","ok":true,"err":null}
@@ -48813,11 +48814,11 @@
 {"k":"inline","x":"$\\{0, \\ldots ,i\\} \\rightarrow [e]^{i+1} \\rightarrow [e]^j \\rightarrow t$","ok":true,"err":null}
 {"k":"inline","x":"$\\{0, \\ldots ,i\\}$","ok":true,"err":null}
 {"k":"display","x":"$$(\\{0, \\ldots ,i\\} \\rightarrow[e]^{i+1} \\rightarrow [e]^j \\rightarrow t) \\rightarrow [e]^i \\rightarrow [e]^j \\rightarrow t.$$","ok":true,"err":null}
-{"k":"inline","x":"$P\\lvert c\\rvert (c\\mcaret x)c'$","ok":false,"err":"Undefined control sequence \\mcaret"}
-{"k":"inline","x":"$c\\mcaret x[\\lvert c\\rvert ] = c\\mcaret x[i] = x$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"inline","x":"$P\\lvert c\\rvert (c\\mathbin{{}^{\\wedge}} x)c'$","ok":true,"err":null}
+{"k":"inline","x":"$c\\mathbin{{}^{\\wedge}} x[\\lvert c\\rvert ] = c\\mathbin{{}^{\\wedge}} x[i] = x$","ok":true,"err":null}
 {"k":"inline","x":"$e] \\rightarrow[e] \\rightarrow t$","ok":true,"err":null}
 {"k":"inline","x":"$c, c', c''$","ok":true,"err":null}
-{"k":"display","x":"$$ \\begin{align*} \\cal{E} & := \\lambda cc'\\cdot \\exists x(c \\mcaret x = c') \\\\ {\\sim}\\phi & := \\lambda cc'\\cdot (c = c' \\mcaret \\neg \\exists c'' \\phi cc'') \\\\ \\phi ; \\psi & := \\lambda cc'\\cdot \\exists c''(\\phi cc'' \\mcaret \\psi cc') \\end{align*} $$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"display","x":"$$ \\begin{align*} \\cal{E} & := \\lambda cc'\\cdot \\exists x(c \\mathbin{{}^{\\wedge}} x = c') \\\\ {\\sim}\\phi & := \\lambda cc'\\cdot (c = c' \\mathbin{{}^{\\wedge}} \\neg \\exists c'' \\phi cc'') \\\\ \\phi ; \\psi & := \\lambda cc'\\cdot \\exists c''(\\phi cc'' \\mathbin{{}^{\\wedge}} \\psi cc') \\end{align*} $$","ok":true,"err":null}
 {"k":"inline","x":"${\\sim}(\\phi; {\\sim}\\psi)$","ok":true,"err":null}
 {"k":"inline","x":"$10^{12})$","ok":true,"err":null}
 {"k":"inline","x":"$N_e$","ok":true,"err":null}
@@ -48825,9 +48826,9 @@
 {"k":"inline","x":"$(1/2N_e)$","ok":true,"err":null}
 {"k":"inline","x":"$s \\gt 0)$","ok":true,"err":null}
 {"k":"inline","x":"$s \\lt 0)$","ok":true,"err":null}
-{"k":"inline","x":"$(\\rG \\times \\rE)$","ok":false,"err":"Undefined control sequence \\rG"}
-{"k":"inline","x":"$\\rG \\times \\rG$","ok":false,"err":"Undefined control sequence \\rG"}
-{"k":"inline","x":"$\\rG \\times \\rE$","ok":false,"err":"Undefined control sequence \\rG"}
+{"k":"inline","x":"$(\\mathrm{G} \\times \\mathrm{E})$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{G} \\times \\mathrm{G}$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{G} \\times \\mathrm{E}$","ok":true,"err":null}
 {"k":"inline","x":"$f_{E_1}$","ok":true,"err":null}
 {"k":"inline","x":"$f_{E_2}$","ok":true,"err":null}
 {"k":"inline","x":"$1 + 2s, 1 + s$","ok":true,"err":null}
@@ -48866,12 +48867,12 @@
 {"k":"inline","x":"$W_{11}$","ok":true,"err":null}
 {"k":"inline","x":"$W_{22}$","ok":true,"err":null}
 {"k":"inline","x":"$W_{12}$","ok":true,"err":null}
-{"k":"inline","x":"$\\Pr(R_1 \\mid S_1)$","ok":true,"err":null}
-{"k":"display","x":"$$ \\frac{\\Pr(R_2 \\mid S_2)}{1-\\Pr(R_1 \\mid S_1)} \\gt \\frac{\\Pr(S_1)(W_{11}-W_{21})}{(1-\\Pr(S_1))(W_{22}-W_{12})} $$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{Pr}(R_1 \\mid S_1)$","ok":true,"err":null}
+{"k":"display","x":"$$ \\frac{\\text{Pr}(R_2 \\mid S_2)}{1-\\text{Pr}(R_1 \\mid S_1)} \\gt \\frac{\\text{Pr}(S_1)(W_{11}-W_{21})}{(1-\\text{Pr}(S_1))(W_{22}-W_{12})} $$","ok":true,"err":null}
 {"k":"inline","x":"$p'_i$","ok":true,"err":null}
 {"k":"inline","x":"$\\overline{w}$","ok":true,"err":null}
-{"k":"display","x":"$$p'_i = p_i \\cdot w_i \\frasl \\overline{w} $$","ok":false,"err":"Undefined control sequence \\frasl"}
-{"k":"display","x":"$$ w_i = S_A \\Pr(A)\\cdot W_{iA} $$","ok":true,"err":null}
+{"k":"display","x":"$$p'_i = p_i \\cdot w_i \\unicode{x2044} \\overline{w} $$","ok":true,"err":null}
+{"k":"display","x":"$$ w_i = S_A \\text{Pr}(A)\\cdot W_{iA} $$","ok":true,"err":null}
 {"k":"inline","x":"$W_{iA}$","ok":true,"err":null}
 {"k":"display","x":"$$ dp_i /dt = p(w_i - \\overline{w}) $$","ok":true,"err":null}
 {"k":"inline","x":"$T_1$","ok":true,"err":null}
@@ -49068,7 +49069,52 @@
 {"k":"inline","x":"$x = a_2$","ok":true,"err":null}
 {"k":"inline","x":"$x = a_{n+m}$","ok":true,"err":null}
 {"k":"inline","x":"$[Q],$","ok":true,"err":null}
-{"k":"inline","x":"$\\PA$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\mathrm{E} a$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{E} b$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{C} a$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{C} b$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{array}{cccl} & \\mathrm{E} a & \\mathrm{E} b & \\text{Height results} \\ldots \\\\ \\hline 1 & \\mathrm{C} b=4^{\\prime}2^{\\prime\\prime} & \\mathrm{C} a=6^{\\prime}2^{\\prime\\prime} & \\text{from genes} \\\\ \\hline 2 & \\mathrm{C} b=5^{\\prime}8^{\\prime\\prime} & \\mathrm{C} a=5^{\\prime}8^{\\prime\\prime} & \\text{from genes and environment} \\\\ \\hline 3 & \\mathrm{C} b=6^{\\prime}2^{\\prime\\prime} & \\mathrm{C} a=4^{\\prime}2^{\\prime\\prime} & \\text{entirely from environment} \\\\ \\hline \\end{array} $$","ok":true,"err":null}
+{"k":"inline","x":"$V_P$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{1} V_P = V_G + V_E $$","ok":true,"err":null}
+{"k":"inline","x":"$= \\bfrac{V_G}{V_P}$","ok":false,"err":"Undefined control sequence \\bfrac"}
+{"k":"inline","x":"$\\bfrac{V_E}{V_P}$","ok":false,"err":"Undefined control sequence \\bfrac"}
+{"k":"inline","x":"$h_b^2$","ok":true,"err":null}
+{"k":"inline","x":"$h^2$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{2} h_b^2 = \\frac{V_G}{V_P} $$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{3} h^2 = \\frac{V_A}{V_P} $$","ok":true,"err":null}
+{"k":"inline","x":"$(V_{A})$","ok":true,"err":null}
+{"k":"inline","x":"$(V_{D})$","ok":true,"err":null}
+{"k":"inline","x":"$V_G$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{4} V_G = V_A + V_D $$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{\\(1^{\\prime}\\)} V_P = V_A + V_D + V_E $$","ok":true,"err":null}
+{"k":"inline","x":"$V_{I}$","ok":true,"err":null}
+{"k":"inline","x":"$V_{G\\times E}$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathrm{COV}(G,E)$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{\\(1^{\\prime\\prime}\\)} V_P = V_A + V_D + V_I + V_E + V_{G\\times E} + \\mathrm{COV}(G,E) $$","ok":true,"err":null}
+{"k":"display","x":"$$\\tag{\\(4^{\\prime}\\)} V_G = V_A + V_D + V_I $$","ok":true,"err":null}
+{"k":"inline","x":"$V_I, V_{G\\times E}$","ok":true,"err":null}
+{"k":"inline","x":"$V_A$","ok":true,"err":null}
+{"k":"inline","x":"$h^2 (= \\bfrac{V_A}{V_P})$","ok":false,"err":"Undefined control sequence \\bfrac"}
+{"k":"display","x":"$$\\tag{5} h^2 = \\frac{R}{S} $$","ok":true,"err":null}
+{"k":"inline","x":"$t^2$","ok":true,"err":null}
+{"k":"inline","x":"$r_{\\textrm{MZ}}$","ok":true,"err":null}
+{"k":"inline","x":"$r_{\\textrm{DZ}}$","ok":true,"err":null}
+{"k":"display","x":"$$ r_{\\textrm{MZ}} = A + C$$","ok":true,"err":null}
+{"k":"display","x":"$$r_{\\textrm{DZ}} = \\frac{A}{2} + C$$","ok":true,"err":null}
+{"k":"display","x":"$$A = 2(r_{\\textrm{MZ}} - r_{\\textrm{DZ}})$$","ok":true,"err":null}
+{"k":"display","x":"$$C = 2 r_{\\textrm{DZ}} - r_{\\textrm{MZ}}$$","ok":true,"err":null}
+{"k":"display","x":"$$E = 1- r_{\\textrm{MZ}}$$","ok":true,"err":null}
+{"k":"inline","x":"$r_{\\textrm{MZ}} = .95$","ok":true,"err":null}
+{"k":"inline","x":"$r_{\\textrm{DZ}} = .55.$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} A & = 2(r_{\\textrm{MZ}} - r_{\\textrm{DZ}})\\\\ A & = 2(.95-.55)\\\\ A & = 2(.4) \\\\ A & = .8 \\\\ \\end{align} $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} C & = 2r_{\\textrm{DZ}} - r_{\\textrm{MZ}}\\\\ C & = 2(.55) - .95\\\\ C & = .15\\\\ \\end{align} $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} E & = 1 - r_{\\textrm{MZ}}\\\\ E & = 1 - .95 \\\\ E & = .05\\\\ \\end{align} $$","ok":true,"err":null}
+{"k":"inline","x":"$β_i$","ok":true,"err":null}
+{"k":"display","x":"$$PGS_j = ∑_i^Nβ_i$$","ok":true,"err":null}
+{"k":"inline","x":"$(1^{\\prime\\prime}$","ok":true,"err":null}
+{"k":"inline","x":"$V_{I}, V_{G\\times E}$","ok":true,"err":null}
+{"k":"inline","x":"$V_{GxE}$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{PA}$","ok":true,"err":null}
 {"k":"inline","x":"$2 + 3$","ok":true,"err":null}
 {"k":"inline","x":"$2 + 3 = 3 + 2$","ok":true,"err":null}
 {"k":"inline","x":"$p + 1$","ok":true,"err":null}
@@ -49078,9 +49124,9 @@
 {"k":"inline","x":"$n, 1+n = n+1$","ok":true,"err":null}
 {"k":"inline","x":"$1+n \\ne n+1$","ok":true,"err":null}
 {"k":"inline","x":"$11 + 111 = 111 + 11$","ok":true,"err":null}
-{"k":"inline","x":"$\\PRA$","ok":false,"err":"Undefined control sequence \\PRA"}
-{"k":"inline","x":"$\\PV$","ok":false,"err":"Undefined control sequence \\PV"}
-{"k":"inline","x":"$\\EA$","ok":false,"err":"Undefined control sequence \\EA"}
+{"k":"inline","x":"$\\text{PRA}$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{PV}$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{EA}$","ok":true,"err":null}
 {"k":"inline","x":"$Pr(x, y)$","ok":true,"err":null}
 {"k":"inline","x":"$\\ulcorner 0 = 1\\urcorner$","ok":true,"err":null}
 {"k":"inline","x":"$Con_T = \\forall x \\neg Pr(x,\\ulcorner 0 = 1\\urcorner)$","ok":true,"err":null}
@@ -49111,16 +49157,16 @@
 {"k":"display","x":"$$\\begin{align} \\neg \\exists i' &: \\langle f,i'\\rangle \\gt \\langle f,i\\rangle \\\\ \\neg \\exists f' &: \\langle f', i\\rangle \\gt \\langle f,i\\rangle \\end{align}$$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle f,i'\\rangle \\gt \\langle f,i\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$i'$","ok":true,"err":null}
-{"k":"inline","x":"$P(i'\\mid \\llbracket f\\rrbracket) \\gt P(i\\mid \\llbracket f \\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\llbracket f\\rrbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i'\\mid [\\![ f]\\!]) \\gt P(i\\mid [\\![ f ]\\!])$","ok":true,"err":null}
+{"k":"inline","x":"$[\\![ f]\\!]$","ok":true,"err":null}
 {"k":"inline","x":"$P(B\\mid A)$","ok":true,"err":null}
 {"k":"inline","x":"$P(A\\cap B)/P(A)$","ok":true,"err":null}
 {"k":"inline","x":"$f'$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle f',i\\rangle \\gt \\langle f,i\\rangle$","ok":true,"err":null}
-{"k":"inline","x":"$P(i\\mid \\llbracket f'\\rrbracket) \\gt P(i\\mid \\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$P(i\\mid\\llbracket f'\\rrbracket = P(i\\mid\\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i\\mid [\\![ f']\\!]) \\gt P(i\\mid [\\![ f]\\!])$","ok":true,"err":null}
+{"k":"inline","x":"$P(i\\mid[\\![ f']\\!] = P(i\\mid[\\![ f]\\!])$","ok":true,"err":null}
 {"k":"inline","x":"$i_n$","ok":true,"err":null}
-{"k":"inline","x":"$P(i\\mid \\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i\\mid [\\![ f]\\!])$","ok":true,"err":null}
 {"k":"inline","x":"$i_1$","ok":true,"err":null}
 {"k":"inline","x":"$i_2$","ok":true,"err":null}
 {"k":"inline","x":"$i_3$","ok":true,"err":null}
@@ -49128,11 +49174,11 @@
 {"k":"inline","x":"$\\Rightarrow ⅓$","ok":true,"err":null}
 {"k":"inline","x":"$⅓$","ok":true,"err":null}
 {"k":"inline","x":"$\\Rightarrow 1$","ok":true,"err":null}
-{"k":"inline","x":"$P(i_3 \\mid \\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\rrbracket) = ⅓$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"inline","x":"$P(i_3 \\mid [\\![$","ok":true,"err":null}
+{"k":"inline","x":"$]\\!]) = ⅓$","ok":true,"err":null}
 {"k":"inline","x":"$P(i_3 \\mid \\{i_2,i_3,i_4\\}) = ⅓$","ok":true,"err":null}
-{"k":"inline","x":"$P(i_2 \\mid \\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$n \\textrm{'} \\rrbracket)$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"inline","x":"$P(i_2 \\mid [\\![$","ok":true,"err":null}
+{"k":"inline","x":"$n \\textrm{'} ]\\!])$","ok":true,"err":null}
 {"k":"inline","x":"$i_x$","ok":true,"err":null}
 {"k":"inline","x":"$i_j$","ok":true,"err":null}
 {"k":"inline","x":"$i_b$","ok":true,"err":null}
@@ -49146,7 +49192,7 @@
 {"k":"inline","x":"$\\langle$","ok":true,"err":null}
 {"k":"inline","x":"$i_{\\neg st}\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$i_{st}\\rangle$","ok":true,"err":null}
-{"k":"inline","x":"$\\llbracket \\cdot \\rrbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$[\\![ \\cdot ]\\!]$","ok":true,"err":null}
 {"k":"inline","x":"$U_s$","ok":true,"err":null}
 {"k":"inline","x":"$U_r$","ok":true,"err":null}
 {"k":"inline","x":"$i = R(S(t))$","ok":true,"err":null}
@@ -49172,12 +49218,12 @@
 {"k":"inline","x":"$\\{\\langle t_{st},f_m\\rangle , \\langle t_{\\neg st},f_u\\rangle \\}$","ok":true,"err":null}
 {"k":"inline","x":"$W = \\{w_1, w_2, w_3, w_4\\}$","ok":true,"err":null}
 {"k":"inline","x":"$F = \\{$","ok":true,"err":null}
-{"k":"display","x":"$$ \\llbracket `\\text{four}\\rsquo \\rrbracket \\subset \\llbracket `\\text{three}\\rsquo \\rrbracket \\subset \\llbracket `\\text{two}\\rsquo \\rrbracket \\subset \\llbracket `\\text{one}\\rsquo \\rrbracket, $$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\rrbracket = \\{w_3, w_4\\}$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"display","x":"$$ [\\![ \u0001`\\text{four}\\rsquo \\rrbracket \\subset \\llbracket `\\text{three}{\\text{’}} ]\\!] \\subset [\\![ \u0001`\\text{two}\\rsquo \\rrbracket \\subset \\llbracket `\\text{one}{\\text{’}} ]\\!], $$","ok":false,"err":"Cannot read properties of null (reading '4')"}
+{"k":"inline","x":"$[\\![$","ok":true,"err":null}
+{"k":"inline","x":"$]\\!] = \\{w_3, w_4\\}$","ok":true,"err":null}
 {"k":"inline","x":"$w_3$","ok":true,"err":null}
 {"k":"inline","x":"$w_4$","ok":true,"err":null}
-{"k":"inline","x":"$\\rrbracket$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"inline","x":"$]\\!]$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle \\text{and, or} \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle \\text{all, most, some} \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$A \\wedge \\neg KA$","ok":true,"err":null}
@@ -49210,6 +49256,7 @@
 {"k":"inline","x":"$v_w(A)$","ok":true,"err":null}
 {"k":"inline","x":"$W - N$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box$","ok":true,"err":null}
+{"k":"inline","x":"$\\Diamond$","ok":true,"err":null}
 {"k":"display","x":"$$\\begin{align} v_w (\\Box A) &= 0 \\ v_w (\\Diamond A) &= 1 \\end{align}$$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box(A \\vee \\neg A)$","ok":true,"err":null}
 {"k":"inline","x":"$(\\vDash A)$","ok":true,"err":null}
@@ -49379,15 +49426,15 @@
 {"k":"inline","x":"$\\langle 1, \\infty, 1,-\\infty\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$-\\infty$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle -\\infty, -\\infty, 2,-\\infty\\rangle$","ok":true,"err":null}
-{"k":"display","x":"$$\\tCont(s) := \\{x\\in W : x\\vdash \\neg s\\}$$","ok":false,"err":"Undefined control sequence \\tCont"}
+{"k":"display","x":"$$\\text{Cont}(s) := \\{x\\in W : x\\vdash \\neg s\\}$$","ok":true,"err":null}
 {"k":"inline","x":"$p(s)$","ok":true,"err":null}
-{"k":"display","x":"$$\\begin{align} \\tcont(s) &:= 1 - p(s)\\\\ \\inf(s) &:= \\log_2\\frac{1}{1 - \\tcont(s)} \\end{align}$$","ok":false,"err":"Undefined control sequence \\tcont"}
-{"k":"inline","x":"$\\tcont(s\\wedge s') \\neq \\tcont(s) + \\tcont(s')$","ok":false,"err":"Undefined control sequence \\tcont"}
+{"k":"display","x":"$$\\begin{align} \\text{cont}(s) &:= 1 - p(s)\\\\ \\inf(s) &:= \\log_2\\frac{1}{1 - \\text{cont}(s)} \\end{align}$$","ok":true,"err":null}
+{"k":"inline","x":"$\\text{cont}(s\\wedge s') \\neq \\text{cont}(s) + \\text{cont}(s')$","ok":true,"err":null}
 {"k":"inline","x":"$p(s')$","ok":true,"err":null}
 {"k":"inline","x":"$2^{2^n}$","ok":true,"err":null}
 {"k":"inline","x":"$\\perp$","ok":true,"err":null}
-{"k":"display","x":"$$\\begin{align} \\tCont(\\perp) &= W\\; (\\text{i.e., maximal content})\\\\ \\tcont(\\perp) &= 1\\\\ \\inf(\\perp) &= \\infty\\end{align}$$","ok":false,"err":"Undefined control sequence \\tCont"}
-{"k":"display","x":"$$\\begin{align} \\tCont(\\top) &= \\varnothing\\\\ \\tcont(\\top) &= 0\\\\ \\inf(\\top) &= 0\\end{align}$$","ok":false,"err":"Undefined control sequence \\tCont"}
+{"k":"display","x":"$$\\begin{align} \\text{Cont}(\\perp) &= W\\; (\\text{i.e., maximal content})\\\\ \\text{cont}(\\perp) &= 1\\\\ \\inf(\\perp) &= \\infty\\end{align}$$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align} \\text{Cont}(\\top) &= \\varnothing\\\\ \\text{cont}(\\top) &= 0\\\\ \\inf(\\top) &= 0\\end{align}$$","ok":true,"err":null}
 {"k":"inline","x":"$p = \\mathord{\\top}$","ok":true,"err":null}
 {"k":"inline","x":"$p = \\mathord{\\perp}$","ok":true,"err":null}
 {"k":"inline","x":"$\\Theta$","ok":true,"err":null}
@@ -49402,15 +49449,15 @@
 {"k":"inline","x":"$s_1$","ok":true,"err":null}
 {"k":"inline","x":"$s_2$","ok":true,"err":null}
 {"k":"inline","x":"$\\phi\\to\\psi$","ok":true,"err":null}
-{"k":"inline","x":"$x\\cmapsto y$","ok":false,"err":"Undefined control sequence \\cmapsto"}
-{"k":"display","x":"$$\\text{If }x\\vDash\\phi, \\:x\\cmapsto y,\\text{ and } \\phi\\to\\psi, \\text{ then } y\\vDash \\psi$$","ok":false,"err":"Undefined control sequence \\cmapsto"}
+{"k":"inline","x":"$x\\mathbin{\\overset{c}{\\mapsto}} y$","ok":true,"err":null}
+{"k":"display","x":"$$\\text{If }x\\vDash\\phi, \\:x\\mathbin{\\overset{c}{\\mapsto}} y,\\text{ and } \\phi\\to\\psi, \\text{ then } y\\vDash \\psi$$","ok":true,"err":null}
 {"k":"inline","x":"$x,$","ok":true,"err":null}
 {"k":"inline","x":"$y,$","ok":true,"err":null}
 {"k":"inline","x":"$z,$","ok":true,"err":null}
 {"k":"inline","x":"$\\phi,$","ok":true,"err":null}
 {"k":"inline","x":"$\\psi,$","ok":true,"err":null}
 {"k":"inline","x":"$x:\\phi$","ok":true,"err":null}
-{"k":"display","x":"$$c: \\phi\\to\\psi \\text{ iff } \\text{ for all sites } x, y, \\text{ if } x\\cmapsto y\\text{ and } x:\\phi, \\text{ then } y:\\psi.$$","ok":false,"err":"Undefined control sequence \\cmapsto"}
+{"k":"display","x":"$$c: \\phi\\to\\psi \\text{ iff } \\text{ for all sites } x, y, \\text{ if } x\\mathbin{\\overset{c}{\\mapsto}} y\\text{ and } x:\\phi, \\text{ then } y:\\psi.$$","ok":true,"err":null}
 {"k":"inline","x":"$x\\vDash\\phi$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathbf{F}:\\langle S, \\sqsubseteq, R\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\sqsubseteq$","ok":true,"err":null}
@@ -49611,7 +49658,7 @@
 {"k":"display","x":"$$ f(m,n) = \\begin{cases} 0 & \\text{ if not \\(\\Box_m (n \\not\\in X)\\)} \\\\ 1 & \\text{ if \\(\\Box_m (n \\not\\in X)\\).} \\end{cases} $$","ok":true,"err":null}
 {"k":"inline","x":"$n\\not\\in X$","ok":true,"err":null}
 {"k":"inline","x":"$f(m,n)=1$","ok":true,"err":null}
-{"k":"inline","x":"$\\{A_1, A_2, A_1 \\amp A_2\\}$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\{A_1, A_2, A_1 \\mathbin{\\&} A_2\\}$","ok":true,"err":null}
 {"k":"inline","x":"$A =$","ok":true,"err":null}
 {"k":"inline","x":"$B =$","ok":true,"err":null}
 {"k":"inline","x":"$C =$","ok":true,"err":null}
@@ -49681,7 +49728,7 @@
 {"k":"inline","x":"$r_{wa} = .24$","ok":true,"err":null}
 {"k":"inline","x":"$r_{wa} = .29$","ok":true,"err":null}
 {"k":"inline","x":"$r_{wa}= -.16$","ok":true,"err":null}
-{"k":"inline","x":"$C =_{df} \\Diamond \\exists x (Cx \\amp {\\sim}Px)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$C =_{df} \\Diamond \\exists x (Cx \\mathbin{\\&} {\\sim}Px)$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall x (Cx \\supset Px)$","ok":true,"err":null}
 {"k":"inline","x":"$\\exists x (Cx \\supset \\langle\\textrm{exists}\\rangle x)$","ok":true,"err":null}
 {"k":"inline","x":"$SP_1P_2$","ok":true,"err":null}
@@ -49752,8 +49799,8 @@
 {"k":"inline","x":"$V(\\lnot A) = W \\setminus V(A)$","ok":true,"err":null}
 {"k":"inline","x":"$V((A\\lor B) = V(A) \\cup V(B)$","ok":true,"err":null}
 {"k":"inline","x":"$V([\\alpha]A) = \\{x \\mid \\text{对所有世界 } y，\\text{若 } xR(\\alpha)y \\text{ 则 } y \\in V(A)\\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\ldquo M, x$","ok":false,"err":"Undefined control sequence \\ldquo"}
-{"k":"inline","x":"$A\\rdquo$","ok":false,"err":"Undefined control sequence \\rdquo"}
+{"k":"inline","x":"${\\text{“}} M, x$","ok":true,"err":null}
+{"k":"inline","x":"$A{\\text{”}}$","ok":true,"err":null}
 {"k":"inline","x":"$M' = (W',R',V')$","ok":true,"err":null}
 {"k":"inline","x":"$M = (W, R, V)$","ok":true,"err":null}
 {"k":"inline","x":"$W = \\{x_1,x_2\\}$","ok":true,"err":null}
@@ -50081,9 +50128,9 @@
 {"k":"inline","x":"$\\mathtt{@_a\\phi}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{b}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{@_a b}$","ok":true,"err":null}
-{"k":"display","x":"$$\\begin{align*} & \\mathtt{@_a a} \\\\ & \\mathtt{@_a b \\rightarrow @_b a} \\\\ &(\\mathtt{@_a b \\amp @_b c) \\rightarrow @_a c} \\end{align*}$$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"display","x":"$$ (\\mathtt{@_ab \\amp @_a\\phi) \\rightarrow @_b\\phi} $$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$\\mathtt{(a=b \\amp \\phi(a)) \\rightarrow \\phi(b)}$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\begin{align*} & \\mathtt{@_a a} \\\\ & \\mathtt{@_a b \\rightarrow @_b a} \\\\ &(\\mathtt{@_a b \\mathbin{\\&} @_b c) \\rightarrow @_a c} \\end{align*}$$","ok":true,"err":null}
+{"k":"display","x":"$$ (\\mathtt{@_ab \\mathbin{\\&} @_a\\phi) \\rightarrow @_b\\phi} $$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathtt{(a=b \\mathbin{\\&} \\phi(a)) \\rightarrow \\phi(b)}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{\\forall}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{\\downarrow}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{\\forall a \\phi}$","ok":true,"err":null}
@@ -50165,76 +50212,76 @@
 {"k":"inline","x":"$\\mathtt{\\forall q}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathtt{Qp}$","ok":true,"err":null}
 {"k":"inline","x":"$\\otimes$","ok":true,"err":null}
-{"k":"inline","x":"$\\lpar$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\mathrel{\\unicode{x214b}}$","ok":true,"err":null}
 {"k":"inline","x":"$(A \\oplus \\neg A)$","ok":true,"err":null}
-{"k":"inline","x":"$(A \\lpar \\neg A)$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$(A \\mathrel{\\unicode{x214b}} \\neg A)$","ok":true,"err":null}
 {"k":"inline","x":"$(A$","ok":true,"err":null}
 {"k":"inline","x":"$A)$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg, \\wedge, \\vee, \\Rightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$A \\Rightarrow B$","ok":true,"err":null}
-{"k":"inline","x":"$\\bang$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$\\bang B$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$\\quest$","ok":false,"err":"Undefined control sequence \\quest"}
-{"k":"inline","x":"$\\quest B$","ok":false,"err":"Undefined control sequence \\quest"}
-{"k":"inline","x":"$\\amp$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$B \\limp C$","ok":false,"err":"Undefined control sequence \\limp"}
-{"k":"inline","x":"$B^{\\bot} \\lpar C$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\mathop{!}$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{!} B$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{?}$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{?} B$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathbin{\\&}$","ok":true,"err":null}
+{"k":"inline","x":"$B \\mathbin{-\\hspace{-0.70mm}\\circ} C$","ok":true,"err":null}
+{"k":"inline","x":"$B^{\\bot} \\mathrel{\\unicode{x214b}} C$","ok":true,"err":null}
 {"k":"inline","x":"$B \\Rightarrow C$","ok":true,"err":null}
-{"k":"inline","x":"$\\bang B \\limp C$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$\\bang (B \\amp C) \\equiv (\\bang B \\otimes \\bang C)$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$\\quest(B \\oplus C) \\equiv (\\quest B \\lpar \\quest C)$","ok":false,"err":"Undefined control sequence \\quest"}
-{"k":"inline","x":"$(\\bang\\top \\equiv 1)$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$(\\quest 0 \\equiv \\bot)$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$\\mathop{!} B \\mathbin{-\\hspace{-0.70mm}\\circ} C$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{!} (B \\mathbin{\\&} C) \\equiv (\\mathop{!} B \\otimes \\mathop{!} C)$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{?}(B \\oplus C) \\equiv (\\mathop{?} B \\mathrel{\\unicode{x214b}} \\mathop{?} C)$","ok":true,"err":null}
+{"k":"inline","x":"$(\\mathop{!}\\top \\equiv 1)$","ok":true,"err":null}
+{"k":"inline","x":"$(\\mathop{?} 0 \\equiv \\bot)$","ok":true,"err":null}
 {"k":"inline","x":"$B \\equiv C$","ok":true,"err":null}
-{"k":"inline","x":"$(B \\limp C) \\amp(C \\limp B)$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$(B \\mathbin{-\\hspace{-0.70mm}\\circ} C) \\mathbin{\\&}(C \\mathbin{-\\hspace{-0.70mm}\\circ} B)$","ok":true,"err":null}
 {"k":"display","x":"$$ \\frac{}{B \\vdash B}\\ \\textit{init} \\qquad \\frac {\\Delta_1 \\vdash B,\\Gamma_1 \\qquad \\Delta_2,B \\vdash \\Gamma_2} {\\Delta_1,\\Delta_2 \\vdash \\Gamma_1,\\Gamma_2}\\ \\textit{cut} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\frac{\\Delta \\vdash B,\\Gamma}{\\Delta,B^{\\perp} \\vdash \\Gamma}\\ (\\cdot)^{\\perp} L \\qquad \\frac{\\Delta,B \\vdash \\Gamma}{\\Delta \\vdash B^{\\perp},\\Gamma}\\ (\\cdot)^{\\perp} R $$","ok":true,"err":null}
-{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta,\\one \\vdash \\Gamma}\\ \\one L \\qquad \\frac{}{\\vdash \\one}\\ \\one R $$","ok":false,"err":"Undefined control sequence \\one"}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta,\\mathbf{1} \\vdash \\Gamma}\\ \\mathbf{1} L \\qquad \\frac{}{\\vdash \\mathbf{1}}\\ \\mathbf{1} R $$","ok":true,"err":null}
 {"k":"display","x":"$$\\frac{}{\\bot \\vdash}\\ \\bot L \\qquad \\frac{\\Delta \\vdash \\Gamma}{\\Delta \\vdash \\bot,\\Gamma}\\ \\bot R $$","ok":true,"err":null}
-{"k":"display","x":"$$\\frac{\\Delta, B_1,B_2 \\vdash \\Gamma}{\\Delta, B_1\\ot B_2 \\vdash \\Gamma}\\ \\ot L \\qquad \\frac{\\Delta_1 \\vdash B_1,\\Gamma_1 \\qquad \\Delta_2 \\vdash B_2,\\Gamma_2} {\\Delta_1, \\Delta_2 \\vdash B_1\\ot B_2,\\Gamma_{1},\\Gamma_{2}}\\ \\ot R $$","ok":false,"err":"Undefined control sequence \\ot"}
-{"k":"display","x":"$$\\frac{\\Delta_1,B_1 \\vdash \\Gamma_1 \\qquad \\Delta_2, B_2 \\vdash \\Gamma_2} {\\Delta_1,\\Delta_2, B_1\\lpar B_2 \\vdash \\Gamma_1,\\Gamma_2}\\ \\lpar L \\qquad \\frac{\\Delta \\vdash B_1, B_2,\\Gamma}{\\Delta \\vdash B_1\\lpar B_2, \\Gamma}\\ \\lpar R $$","ok":false,"err":"Undefined control sequence \\lpar"}
-{"k":"display","x":"$$\\frac{}{\\Delta,\\zero \\vdash \\Gamma}\\ \\zero L \\qquad \\frac{}{\\Delta \\vdash \\top,\\Gamma}\\ \\top R $$","ok":false,"err":"Undefined control sequence \\zero"}
-{"k":"display","x":"$$\\frac{\\Delta, B_i \\vdash \\Gamma} {\\Delta, B_1\\amp B_2 \\vdash \\Gamma}\\ {\\amp}L\\ (i=1,2) \\qquad \\frac{\\Delta \\vdash B_1,\\Gamma \\qquad \\Delta \\vdash B_2,\\Gamma} {\\Delta \\vdash B_1\\amp B_2,\\Gamma}\\ {\\amp}R $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\frac{\\Delta, B_1,B_2 \\vdash \\Gamma}{\\Delta, B_1\\otimes B_2 \\vdash \\Gamma}\\ \\otimes L \\qquad \\frac{\\Delta_1 \\vdash B_1,\\Gamma_1 \\qquad \\Delta_2 \\vdash B_2,\\Gamma_2} {\\Delta_1, \\Delta_2 \\vdash B_1\\otimes B_2,\\Gamma_{1},\\Gamma_{2}}\\ \\otimes R $$","ok":true,"err":null}
+{"k":"display","x":"$$\\frac{\\Delta_1,B_1 \\vdash \\Gamma_1 \\qquad \\Delta_2, B_2 \\vdash \\Gamma_2} {\\Delta_1,\\Delta_2, B_1\\mathrel{\\unicode{x214b}} B_2 \\vdash \\Gamma_1,\\Gamma_2}\\ \\mathrel{\\unicode{x214b}} L \\qquad \\frac{\\Delta \\vdash B_1, B_2,\\Gamma}{\\Delta \\vdash B_1\\mathrel{\\unicode{x214b}} B_2, \\Gamma}\\ \\mathrel{\\unicode{x214b}} R $$","ok":true,"err":null}
+{"k":"display","x":"$$\\frac{}{\\Delta,\\mathbf{0} \\vdash \\Gamma}\\ \\mathbf{0} L \\qquad \\frac{}{\\Delta \\vdash \\top,\\Gamma}\\ \\top R $$","ok":true,"err":null}
+{"k":"display","x":"$$\\frac{\\Delta, B_i \\vdash \\Gamma} {\\Delta, B_1\\mathbin{\\&} B_2 \\vdash \\Gamma}\\ {\\mathbin{\\&}}L\\ (i=1,2) \\qquad \\frac{\\Delta \\vdash B_1,\\Gamma \\qquad \\Delta \\vdash B_2,\\Gamma} {\\Delta \\vdash B_1\\mathbin{\\&} B_2,\\Gamma}\\ {\\mathbin{\\&}}R $$","ok":true,"err":null}
 {"k":"display","x":"$$\\frac{\\Delta,B_1 \\vdash \\Gamma \\qquad \\Delta,B_2 \\vdash \\Gamma} {\\Delta,B_1\\oplus B_2 \\vdash \\Gamma}\\ {\\oplus}L \\qquad \\frac{\\Delta \\vdash B_i,\\Gamma} {\\Delta \\vdash B_1\\oplus B_2,\\Gamma}\\ {\\oplus}R\\ (i=1,2) $$","ok":true,"err":null}
 {"k":"display","x":"$$\\frac{\\Delta, B[t/x] \\vdash \\Gamma}{\\Delta,\\forall x.B \\vdash \\Gamma}\\ \\forall L \\qquad \\frac{\\Delta \\vdash B[y/x],\\Gamma}{\\Delta \\vdash \\forall x.B,\\Gamma}\\ \\forall R $$","ok":true,"err":null}
 {"k":"display","x":"$$\\frac{\\Delta \\vdash B[t/x],\\Gamma}{\\Delta \\vdash \\exists x.B,\\Gamma}\\ \\exists R \\qquad \\frac{\\Delta,B[y/x] \\vdash \\Gamma}{\\Delta,\\exists x.B \\vdash \\Gamma}\\ \\exists L, $$","ok":true,"err":null}
-{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang W \\quad \\frac{\\Delta, \\bang B, \\bang B \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang C \\quad \\frac{\\Delta,B \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang D \\quad \\frac{\\bang\\Delta \\vdash B,\\quest\\Gamma}{\\bang\\Delta \\vdash \\bang B,\\quest\\Gamma}\\ \\bang R $$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest W \\quad \\frac{\\Delta \\vdash \\quest B, \\quest B,\\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest C \\quad \\frac{\\Delta \\vdash B,\\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest D \\quad \\frac{\\bang\\Delta,B \\vdash \\quest\\Gamma}{\\bang\\Delta,\\quest B \\vdash \\quest\\Gamma}\\ \\quest L $$","ok":false,"err":"Undefined control sequence \\quest"}
-{"k":"inline","x":"$\\bot , \\lpar$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta, \\mathop{!} B \\vdash \\Gamma}\\ \\mathop{!} W \\quad \\frac{\\Delta, \\mathop{!} B, \\mathop{!} B \\vdash \\Gamma}{\\Delta, \\mathop{!} B \\vdash \\Gamma}\\ \\mathop{!} C \\quad \\frac{\\Delta,B \\vdash \\Gamma}{\\Delta, \\mathop{!} B \\vdash \\Gamma}\\ \\mathop{!} D \\quad \\frac{\\mathop{!}\\Delta \\vdash B,\\mathop{?}\\Gamma}{\\mathop{!}\\Delta \\vdash \\mathop{!} B,\\mathop{?}\\Gamma}\\ \\mathop{!} R $$","ok":true,"err":null}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta \\vdash \\mathop{?} B,\\Gamma}\\ \\mathop{?} W \\quad \\frac{\\Delta \\vdash \\mathop{?} B, \\mathop{?} B,\\Gamma}{\\Delta \\vdash \\mathop{?} B,\\Gamma}\\ \\mathop{?} C \\quad \\frac{\\Delta \\vdash B,\\Gamma}{\\Delta \\vdash \\mathop{?} B,\\Gamma}\\ \\mathop{?} D \\quad \\frac{\\mathop{!}\\Delta,B \\vdash \\mathop{?}\\Gamma}{\\mathop{!}\\Delta,\\mathop{?} B \\vdash \\mathop{?}\\Gamma}\\ \\mathop{?} L $$","ok":true,"err":null}
+{"k":"inline","x":"$\\bot , \\mathrel{\\unicode{x214b}}$","ok":true,"err":null}
 {"k":"inline","x":"$0, \\oplus , 1, \\otimes$","ok":true,"err":null}
-{"k":"inline","x":"$(B \\lpar C)$","ok":false,"err":"Undefined control sequence \\lpar"}
-{"k":"inline","x":"$(B \\amp C)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(B \\mathrel{\\unicode{x214b}} C)$","ok":true,"err":null}
+{"k":"inline","x":"$(B \\mathbin{\\&} C)$","ok":true,"err":null}
 {"k":"inline","x":"$\\Psi$","ok":true,"err":null}
-{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{L}}{\\Up{\\Psi}{\\Delta}{\\bot,L}}\\ [\\bot] \\qquad \\frac{\\Up{\\Psi,F}{\\Delta}{L}} {\\Up{\\Psi}{\\Delta}{\\quest F,L}}\\ [\\quest] $$","ok":false,"err":"Undefined control sequence \\Up"}
+{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{L}}{\\Up{\\Psi}{\\Delta}{\\bot,L}}\\ [\\bot] \\qquad \\frac{\\Up{\\Psi,F}{\\Delta}{L}} {\\Up{\\Psi}{\\Delta}{\\mathop{?} F,L}}\\ [\\mathop{?}] $$","ok":false,"err":"Undefined control sequence \\Up"}
 {"k":"display","x":"$$\\frac{} {\\Up{\\Psi}{\\Delta}{\\top,L}}\\ [\\top] \\qquad \\frac{\\Up{\\Psi}{\\Delta}{F[y/x],L}} {\\Up{\\Psi}{\\Delta}{\\forall x.F,L}}\\ [\\forall] $$","ok":false,"err":"Undefined control sequence \\Up"}
-{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{F_1,F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\lpar F_2,L}}\\ [\\lpar] \\qquad \\frac{\\Up{\\Psi}{\\Delta}{F_1,L}\\quad \\Up{\\Psi}{\\Delta}{F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\amp F_2,L}}\\ [\\amp] $$","ok":false,"err":"Undefined control sequence \\Up"}
+{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{F_1,F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\mathrel{\\unicode{x214b}} F_2,L}}\\ [\\mathrel{\\unicode{x214b}}] \\qquad \\frac{\\Up{\\Psi}{\\Delta}{F_1,L}\\quad \\Up{\\Psi}{\\Delta}{F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\mathbin{\\&} F_2,L}}\\ [\\mathbin{\\&}] $$","ok":false,"err":"Undefined control sequence \\Up"}
 {"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta,F}{L}}{\\Up{\\Psi}{\\Delta}{F,L}} \\ [R\\Uparrow]\\ \\text{前提是 $F$ 非异步} $$","ok":false,"err":"Undefined control sequence \\Up"}
-{"k":"display","x":"$$\\frac{}{\\Down{\\Psi}{\\cdot}{\\one}}\\ [\\one] \\qquad \\frac{\\Down{\\Psi}{\\Delta_1}{F_1}\\quad \\Down{\\Psi}{\\Delta_2}{F_2}} {\\Down{\\Psi}{\\Delta_1,\\Delta_2}{F_1\\ot F_2}} \\ [\\ot] \\qquad \\frac{\\Up{\\Psi}{\\cdot}{F}}{\\Down{\\Psi}{\\cdot}{\\bang F}} \\ [\\bang] $$","ok":false,"err":"Undefined control sequence \\Down"}
+{"k":"display","x":"$$\\frac{}{\\Down{\\Psi}{\\cdot}{\\mathbf{1}}}\\ [\\mathbf{1}] \\qquad \\frac{\\Down{\\Psi}{\\Delta_1}{F_1}\\quad \\Down{\\Psi}{\\Delta_2}{F_2}} {\\Down{\\Psi}{\\Delta_1,\\Delta_2}{F_1\\otimes F_2}} \\ [\\otimes] \\qquad \\frac{\\Up{\\Psi}{\\cdot}{F}}{\\Down{\\Psi}{\\cdot}{\\mathop{!} F}} \\ [\\mathop{!}] $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"display","x":"$$\\frac{\\Down{\\Psi}{\\Delta}{F_i}}{\\Down{\\Psi}{\\Delta}{F_1\\oplus F_2}} \\ [\\oplus_i] \\qquad \\frac{\\Down{\\Psi}{\\Delta}{F[t/x]}} {\\Down{\\Psi}{\\Delta}{\\exists x.F}} \\ [\\exists] $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{F}}{\\Down{\\Psi}{\\Delta}{F}} \\ [R\\Downarrow]\\ \\text{前提是 $F$ 或为异步公式，或为原子} $$","ok":false,"err":"Undefined control sequence \\Up"}
 {"k":"display","x":"$$\\frac{}{\\Down{\\Psi}{A}{A^{\\perp}}} \\ [I_1] \\qquad \\frac{}{\\Down{\\Psi,A}{\\cdot}{A^{\\perp}}} \\ [I_2]\\ \\text{其中 } A \\text{ 为原子} $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"display","x":"$$\\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi}{\\Delta,F}{\\cdot}} \\ [D_1] \\qquad \\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi,F}{\\Delta}{\\cdot}} \\ [D_2]\\ \\text{其中 } F \\text{ 为正公式} $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"inline","x":"$\\vdash \\Gamma , A_1, A_2 , \\ldots ,A_n$","ok":true,"err":null}
-{"k":"inline","x":"$\\vdash \\Gamma , (A_1\\lpar A_2), \\ldots ,(A_{n-1}\\lpar A_n)$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\vdash \\Gamma , (A_1\\mathrel{\\unicode{x214b}} A_2), \\ldots ,(A_{n-1}\\mathrel{\\unicode{x214b}} A_n)$","ok":true,"err":null}
 {"k":"inline","x":"$\\vdash \\Gamma$","ok":true,"err":null}
-{"k":"inline","x":"$\\quest\\Gamma$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$\\mathop{?}\\Gamma$","ok":true,"err":null}
 {"k":"inline","x":"$A \\Rightarrow A$","ok":true,"err":null}
 {"k":"inline","x":"$(x:A).x:A\\rightarrow A$","ok":true,"err":null}
 {"k":"display","x":"$$ \\mathrm{EX}(\\sigma ,M) = (1-\\sigma^2) \\left(\\sum_i M(\\sigma M)\\right) (1-\\sigma^2) $$","ok":true,"err":null}
-{"k":"inline","x":"$A \\limp B$","ok":false,"err":"Undefined control sequence \\limp"}
-{"k":"inline","x":"$B^{\\bot} \\limp A^{\\bot}$","ok":false,"err":"Undefined control sequence \\limp"}
-{"k":"inline","x":"$\\limp , \\Rightarrow$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$A \\mathbin{-\\hspace{-0.70mm}\\circ} B$","ok":true,"err":null}
+{"k":"inline","x":"$B^{\\bot} \\mathbin{-\\hspace{-0.70mm}\\circ} A^{\\bot}$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathbin{-\\hspace{-0.70mm}\\circ} , \\Rightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$\\Delta \\vdash G$","ok":true,"err":null}
-{"k":"inline","x":"$\\limp$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$\\mathbin{-\\hspace{-0.70mm}\\circ}$","ok":true,"err":null}
 {"k":"inline","x":"$\\Delta_1,\\Delta_2$","ok":true,"err":null}
 {"k":"inline","x":"$n \\ge 0$","ok":true,"err":null}
-{"k":"display","x":"$$ \\frac{} {\\Gamma;\\Delta \\vdash \\top}\\ \\top R \\qquad \\frac{\\Gamma;\\Delta \\vdash B \\qquad \\Gamma;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\amp C}\\ {\\amp}R $$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"display","x":"$$\\frac{\\Gamma;\\Delta, B \\vdash C} {\\Gamma;\\Delta \\vdash B \\limp C}\\ \\limp R \\qquad \\frac{\\Gamma,B ;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\Rightarrow C}\\ {\\Rightarrow}R \\qquad \\frac{\\Gamma;\\Delta \\vdash B[y/x]} {\\Gamma;\\Delta \\vdash \\forall x. B}\\ \\forall R $$","ok":false,"err":"Undefined control sequence \\limp"}
-{"k":"display","x":"$$ \\frac{\\Gamma;\\Delta \\lvdash{D_1} A} {\\Gamma;\\Delta \\lvdash{D_1\\amp D_2}\\, A} \\ {\\amp}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D_2} A} {\\Gamma;\\Delta \\lvdash{D_1\\amp D_2} A}\\ {\\amp}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D[t/x]} A} {\\Gamma;\\Delta \\lvdash{\\forall_{\\tau}x.D} A}\\ \\forall L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
-{"k":"display","x":"$$\\frac{\\Gamma;\\Delta_1 \\vdash G \\quad \\Gamma;\\Delta_2 \\lvdash{D} A} {\\Gamma;\\Delta_1,\\Delta_2 \\lvdash{G\\limp D} A} \\ {\\limp}L \\qquad \\frac{\\Gamma;\\cdot \\vdash G \\quad \\Gamma;\\Delta \\lvdash{D} A} {\\Gamma;\\Delta \\lvdash{G\\Rightarrow D} A}\\ {\\Rightarrow}L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
+{"k":"display","x":"$$ \\frac{} {\\Gamma;\\Delta \\vdash \\top}\\ \\top R \\qquad \\frac{\\Gamma;\\Delta \\vdash B \\qquad \\Gamma;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\mathbin{\\&} C}\\ {\\mathbin{\\&}}R $$","ok":true,"err":null}
+{"k":"display","x":"$$\\frac{\\Gamma;\\Delta, B \\vdash C} {\\Gamma;\\Delta \\vdash B \\mathbin{-\\hspace{-0.70mm}\\circ} C}\\ \\mathbin{-\\hspace{-0.70mm}\\circ} R \\qquad \\frac{\\Gamma,B ;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\Rightarrow C}\\ {\\Rightarrow}R \\qquad \\frac{\\Gamma;\\Delta \\vdash B[y/x]} {\\Gamma;\\Delta \\vdash \\forall x. B}\\ \\forall R $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\frac{\\Gamma;\\Delta \\lvdash{D_1} A} {\\Gamma;\\Delta \\lvdash{D_1\\mathbin{\\&} D_2}\\, A} \\ {\\mathbin{\\&}}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D_2} A} {\\Gamma;\\Delta \\lvdash{D_1\\mathbin{\\&} D_2} A}\\ {\\mathbin{\\&}}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D[t/x]} A} {\\Gamma;\\Delta \\lvdash{\\forall_{\\tau}x.D} A}\\ \\forall L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
+{"k":"display","x":"$$\\frac{\\Gamma;\\Delta_1 \\vdash G \\quad \\Gamma;\\Delta_2 \\lvdash{D} A} {\\Gamma;\\Delta_1,\\Delta_2 \\lvdash{G\\mathbin{-\\hspace{-0.70mm}\\circ} D} A} \\ {\\mathbin{-\\hspace{-0.70mm}\\circ}}L \\qquad \\frac{\\Gamma;\\cdot \\vdash G \\quad \\Gamma;\\Delta \\lvdash{D} A} {\\Gamma;\\Delta \\lvdash{G\\Rightarrow D} A}\\ {\\Rightarrow}L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
 {"k":"display","x":"$$ \\frac{\\Gamma,D;\\Delta \\lvdash{D} A} {\\Gamma,D;\\Delta \\vdash A}\\ \\textit{decide}{!} \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D} A} {\\Gamma;\\Delta,D \\vdash A}\\ \\textit{decide} \\qquad \\frac{} {\\Gamma;\\cdot \\lvdash{A} A}\\ \\textit{init} $$","ok":false,"err":"Undefined control sequence \\lvdash"}
-{"k":"inline","x":"$\\bang'$","ok":false,"err":"Undefined control sequence \\bang"}
-{"k":"inline","x":"$\\quest'$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$\\mathop{!}'$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathop{?}'$","ok":true,"err":null}
 {"k":"inline","x":"$>$","ok":true,"err":null}
 {"k":"inline","x":"$\\equiv$","ok":true,"err":null}
 {"k":"inline","x":"$\\geq$","ok":true,"err":null}
@@ -50336,19 +50383,19 @@
 {"k":"inline","x":"$U\\varphi$","ok":true,"err":null}
 {"k":"inline","x":"$E\\varphi$","ok":true,"err":null}
 {"k":"inline","x":"$w \\models U \\varphi$","ok":true,"err":null}
-{"k":"display","x":"$$\\varphi\\geq^{\\forall\\exists}\\psi \\coloneq U(\\varphi\\rightarrow\\lozenge^{\\geq}\\psi).$$","ok":true,"err":null}
+{"k":"display","x":"$$\\varphi\\geq^{\\forall\\exists}\\psi \\mathbin{\\,:=\\,} U(\\varphi\\rightarrow\\lozenge^{\\geq}\\psi).$$","ok":true,"err":null}
 {"k":"inline","x":"$\\varphi\\geq^{\\forall\\exists}\\psi$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall\\exists$","ok":true,"err":null}
 {"k":"inline","x":"$\\exists\\exists$","ok":true,"err":null}
-{"k":"inline","x":"$\\varphi\\geq^{\\forall\\exists}\\psi \\coloneq U(\\varphi\\rightarrow\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
-{"k":"inline","x":"$\\varphi\\geq^{\\exists\\exists}\\psi \\coloneq E(\\varphi\\land\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi\\geq^{\\forall\\exists}\\psi \\mathbin{\\,:=\\,} U(\\varphi\\rightarrow\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi\\geq^{\\exists\\exists}\\psi \\mathbin{\\,:=\\,} E(\\varphi\\land\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
 {"k":"inline","x":"$\\geq^{\\forall\\forall}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathcal{M}=(W, \\succeq, V)$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathcal{M} \\models \\varphi > \\psi$","ok":true,"err":null}
-{"k":"inline","x":"$\\llbracket \\varphi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\forall v \\in \\llbracket \\psi \\rrbracket _{\\mathcal{M}}\\exists u \\in \\llbracket \\varphi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\mathopen{[\\![} \\varphi \\mathclose{]\\!]} _{\\mathcal{M}}$","ok":true,"err":null}
+{"k":"inline","x":"$\\forall v \\in \\mathopen{[\\![} \\psi \\mathclose{]\\!]} _{\\mathcal{M}}\\exists u \\in \\mathopen{[\\![} \\varphi \\mathclose{]\\!]} _{\\mathcal{M}}$","ok":true,"err":null}
 {"k":"inline","x":"$u\\succ v$","ok":true,"err":null}
-{"k":"inline","x":"$\\llbracket \\psi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\mathopen{[\\![} \\psi \\mathclose{]\\!]} _{\\mathcal{M}}$","ok":true,"err":null}
 {"k":"inline","x":"$v' \\in V$","ok":true,"err":null}
 {"k":"inline","x":"$v'\\succ u$","ok":true,"err":null}
 {"k":"inline","x":"$\\varphi_1>\\varphi_2\\rightarrow (\\varphi_1>\\varphi_3)\\lor(\\varphi_3>\\varphi_2)$","ok":true,"err":null}
@@ -50356,8 +50403,8 @@
 {"k":"inline","x":"$((\\varphi_1 \\lor \\varphi_2)> \\varphi_3) \\land ((\\varphi_1\\lor \\varphi_3)> \\varphi_2)\\rightarrow(\\varphi_1>(\\varphi_2\\lor \\varphi_3))$","ok":true,"err":null}
 {"k":"inline","x":"$U (\\varphi_1\\rightarrow\\varphi_2) \\land U(\\varphi_3\\rightarrow\\varphi_4)\\land(\\varphi_1>\\varphi_4) \\rightarrow(\\varphi_2>\\varphi_3)$","ok":true,"err":null}
 {"k":"inline","x":"$U\\varphi,$","ok":true,"err":null}
-{"k":"display","x":"$$\\mathcal{M}, w \\models \\varphi \\geq \\psi \\text{ iff } \\begin{cases} (1) \\ \\forall x \\in \\llbracket\\varphi\\rrbracket_w \\ \\exists y \\in \\llbracket\\psi\\rrbracket_w : x \\succeq_w y; \\\\ (2) \\ \\forall x \\in \\llbracket\\psi\\rrbracket_w \\ \\exists y \\in \\llbracket\\varphi\\rrbracket_w : y \\succeq_w x \\end{cases}$$","ok":false,"err":"Undefined control sequence \\llbracket"}
-{"k":"inline","x":"$\\llbracket\\varphi\\rrbracket_w$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"display","x":"$$\\mathcal{M}, w \\models \\varphi \\geq \\psi \\text{ iff } \\begin{cases} (1) \\ \\forall x \\in \\mathopen{[\\![}\\varphi\\mathclose{]\\!]}_w \\ \\exists y \\in \\mathopen{[\\![}\\psi\\mathclose{]\\!]}_w : x \\succeq_w y; \\\\ (2) \\ \\forall x \\in \\mathopen{[\\![}\\psi\\mathclose{]\\!]}_w \\ \\exists y \\in \\mathopen{[\\![}\\varphi\\mathclose{]\\!]}_w : y \\succeq_w x \\end{cases}$$","ok":true,"err":null}
+{"k":"inline","x":"$\\mathopen{[\\![}\\varphi\\mathclose{]\\!]}_w$","ok":true,"err":null}
 {"k":"inline","x":"$d_0,$","ok":true,"err":null}
 {"k":"inline","x":"$d_1,$","ok":true,"err":null}
 {"k":"inline","x":"$x_0,$","ok":true,"err":null}
@@ -50435,37 +50482,38 @@
 {"k":"display","x":"$$\n\n可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。\n\n通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如 Allen（2015）与 Cai、Zhan、Jiang（2023）等较近期的工作所示。\n\n## 7 各研究领域中的偏好\n\n### 7.1 偏好与条件逻辑\n\n众所周知，自 1960 年代末与 1970 年代初以来，偏好逻辑 $p\\geq^{\\forall\\exists}q$ 与条件逻辑之间存在紧密关系（Lewis 1973）[^lewis-1973]：其中一些可以相互定义。\n\n例如，若我偏好鱼胜过肉，偏好肉胜过素食，而我在一家只供应牛排或沙拉的牛排馆，那么在此语境中，我偏好牛排。这类关于偏好与事实的推理，把偏好推理与条件推理联系起来。\n\n在可能世界语义中，可以这样解释：条件逻辑的模型也是偏好结构。然而，这些偏好逻辑是 1960 年代末与 1970 年代初作为条件逻辑与道义逻辑的对应物发展起来的，与 Halldén 和 von Wright 在此前十年发展的偏好逻辑相当不同。\n\n若以 $\\varphi\\Rightarrow \\psi$ 表示条件句“若 $\\varphi$ 则 $\\psi$”，则在适当条件下可定义：$\\varphi$ 优于 $\\psi$，当 $\\varphi\\lor \\psi$ 蕴涵 $\\varphi$ 而不蕴涵 $\\psi$：\n\n$$","ok":false,"err":"You can't use 'macro parameter character #' in math mode"}
 {"k":"display","x":"$$\n\n于是我们也有：条件句“若 $\\varphi$ 则 $\\psi$”定义为 $\\varphi\\land \\psi$ 优于 $\\varphi\\land \\neg \\psi$：\n\n$$","ok":true,"err":null}
 {"k":"inline","x":"$\\ulcorner A \\urcorner$","ok":true,"err":null}
-{"k":"inline","x":"$\\Prov$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"inline","x":"$\\exists p \\, \\Proof(p,x)$","ok":false,"err":"Undefined control sequence \\Proof"}
-{"k":"inline","x":"$\\Proof$","ok":false,"err":"Undefined control sequence \\Proof"}
-{"k":"inline","x":"$\\Proof(p,x)$","ok":false,"err":"Undefined control sequence \\Proof"}
+{"k":"inline","x":"${\\textsf{Prov}}$","ok":true,"err":null}
+{"k":"inline","x":"$\\exists p \\, {\\textsf{Proof}}(p,x)$","ok":true,"err":null}
+{"k":"inline","x":"${\\textsf{Proof}}$","ok":true,"err":null}
+{"k":"inline","x":"${\\textsf{Proof}}(p,x)$","ok":true,"err":null}
 {"k":"inline","x":"$A \\leftrightarrow \\neg$","ok":true,"err":null}
-{"k":"inline","x":"$\\Prov (\\ulcorner A \\urcorner)$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"inline","x":"$B \\leftrightarrow \\Prov(\\ulcorner B \\urcorner)$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"inline","x":"$\\Prov(\\ulcorner B \\urcorner) \\rightarrow B$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"display","x":"$$ \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\rightarrow B\\urcorner ) \\rightarrow \\Prov(\\ulcorner B \\urcorner ). $$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"inline","x":"$\\PA \\vdash A$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A \\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A\\rightarrow B\\urcorner) \\rightarrow ( \\Prov(\\ulcorner A \\urcorner ) \\rightarrow \\Prov(\\ulcorner B \\urcorner ));$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A \\urcorner ) \\rightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner A \\urcorner ) \\urcorner ).$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"${\\textsf{Prov}} (\\ulcorner A \\urcorner)$","ok":true,"err":null}
+{"k":"inline","x":"$B \\leftrightarrow {\\textsf{Prov}}(\\ulcorner B \\urcorner)$","ok":true,"err":null}
+{"k":"inline","x":"${\\textsf{Prov}}(\\ulcorner B \\urcorner) \\rightarrow B$","ok":true,"err":null}
+{"k":"display","x":"$$ {\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow B\\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner B \\urcorner ). $$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash A$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A \\urcorner )$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A\\rightarrow B\\urcorner) \\rightarrow ( {\\textsf{Prov}}(\\ulcorner A \\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner B \\urcorner ));$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A \\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner A \\urcorner ) \\urcorner ).$","ok":true,"err":null}
 {"k":"display","x":"$$ \\Box(\\Box A \\rightarrow A) \\rightarrow \\Box A $$","ok":true,"err":null}
+{"k":"inline","x":"$\\unicode{x2B26} A$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg\\,\\Box\\neg\\, A$","ok":true,"err":null}
 {"k":"display","x":"$$\\tag{GL} \\Box(\\Box A \\rightarrow A) \\rightarrow \\Box A. $$","ok":true,"err":null}
 {"k":"display","x":"$$\\tag{Distribution Axiom} \\Box(A \\rightarrow B) \\rightarrow (\\Box A \\rightarrow \\Box B). $$","ok":true,"err":null}
-{"k":"inline","x":"$\\GL \\vdash A$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$\\mbox{GL} \\vdash A$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box A \\rightarrow \\Box\\Box A$","ok":true,"err":null}
 {"k":"inline","x":"$A \\wedge \\Box A$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box(\\Box\\bot \\rightarrow \\bot) \\rightarrow \\Box\\bot$","ok":true,"err":null}
-{"k":"inline","x":"$\\Box\\Diamond A \\rightarrow \\Box B$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\unicode{x2B26} A \\rightarrow \\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$A(p)$","ok":true,"err":null}
 {"k":"inline","x":"$A(p) = \\neg\\Box p$","ok":true,"err":null}
 {"k":"inline","x":"$A(p) = \\Box(p \\rightarrow q)$","ok":true,"err":null}
-{"k":"display","x":"$$ \\GL \\vdash B \\leftrightarrow A(B). $$","ok":false,"err":"Undefined control sequence \\GL"}
-{"k":"inline","x":"$ \\GL \\vdash C \\leftrightarrow A(C)$","ok":false,"err":"Undefined control sequence \\GL"}
-{"k":"inline","x":"$ \\GL \\vdash B \\leftrightarrow C$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"display","x":"$$ \\mbox{GL} \\vdash B \\leftrightarrow A(B). $$","ok":true,"err":null}
+{"k":"inline","x":"$ \\mbox{GL} \\vdash C \\leftrightarrow A(C)$","ok":true,"err":null}
+{"k":"inline","x":"$ \\mbox{GL} \\vdash B \\leftrightarrow C$","ok":true,"err":null}
 {"k":"inline","x":"$A(p) = \\neg \\, \\Box p$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg \\, \\Box\\bot$","ok":true,"err":null}
-{"k":"display","x":"$$ \\GL \\vdash \\neg\\,\\Box\\bot \\leftrightarrow \\neg\\,\\Box(\\neg\\,\\Box\\bot). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"display","x":"$$ \\mbox{GL} \\vdash \\neg\\,\\Box\\bot \\leftrightarrow \\neg\\,\\Box(\\neg\\,\\Box\\bot). $$","ok":true,"err":null}
 {"k":"inline","x":"$M = \\langle W,R,V \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$F = \\langle W,R \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$M,w \\models A$","ok":true,"err":null}
@@ -50479,7 +50527,7 @@
 {"k":"inline","x":"$wRw$","ok":true,"err":null}
 {"k":"inline","x":"$wRwRwR\\ldots$","ok":true,"err":null}
 {"k":"inline","x":"$\\Gamma \\vdash A$","ok":true,"err":null}
-{"k":"display","x":"$$\\begin{align} \\Gamma &= \\{\\Diamond p_0, \\Box(p_0 \\rightarrow \\Diamond p_1), \\Box(p_1 \\rightarrow \\Diamond p_2), \\Box(p_2 \\rightarrow \\Diamond p_3), \\ldots, \\\\ &\\qquad\\ \\Box(p_n \\rightarrow \\Diamond p_{n+1}), \\ldots\\} \\end{align}$$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align} \\Gamma &= \\{\\unicode{x2B26} p_0, \\Box(p_0 \\rightarrow \\unicode{x2B26} p_1), \\Box(p_1 \\rightarrow \\unicode{x2B26} p_2), \\Box(p_2 \\rightarrow \\unicode{x2B26} p_3), \\ldots, \\\\ &\\qquad\\ \\Box(p_n \\rightarrow \\unicode{x2B26} p_{n+1}), \\ldots\\} \\end{align}$$","ok":true,"err":null}
 {"k":"inline","x":"$\\Delta \\subseteq \\Gamma$","ok":true,"err":null}
 {"k":"inline","x":"$\\cap$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box A \\rightarrow A$","ok":true,"err":null}
@@ -50489,49 +50537,49 @@
 {"k":"inline","x":"$\\ge \\omega^\\omega$","ok":true,"err":null}
 {"k":"inline","x":"$f(\\bot)=\\bot;$","ok":true,"err":null}
 {"k":"inline","x":"$f(B \\rightarrow C) = (f(B) \\rightarrow f(C));$","ok":true,"err":null}
-{"k":"inline","x":"$f(\\Box B) = \\Prov(\\ulcorner f(B)\\urcorner ).$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"display","x":"$$ \\text{If } \\GL \\vdash A, \\text{then for all realizations } f, \\PA \\vdash f(A).$$","ok":false,"err":"Undefined control sequence \\GL"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner A \\rightarrow B\\urcorner ) \\rightarrow (\\Prov(\\ulcorner A\\urcorner ) \\rightarrow \\Prov(\\ulcorner B\\urcorner )) $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\text{If } \\PA \\vdash A, \\text{then } \\PA \\vdash \\Prov(\\ulcorner A\\urcorner ), $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A\\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash B \\leftrightarrow C(\\ulcorner B\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash B \\leftrightarrow (\\Prov(\\ulcorner B\\urcorner ) \\rightarrow A). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\leftrightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\rightarrow A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow (\\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner )). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner )\\urcorner ), $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$PA \\vdash \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow A. $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash B$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner B\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\PA \\vdash A, $$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\neg\\, \\Prov(\\ulcorner \\bot\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\bot$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"display","x":"$$ \\GL \\vdash A \\text{ if and only if for all realizations } f, \\PA \\vdash f(A). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$f(\\Box B) = {\\textsf{Prov}}(\\ulcorner f(B)\\urcorner ).$","ok":true,"err":null}
+{"k":"display","x":"$$ \\text{If } \\mbox{GL} \\vdash A, \\text{then for all realizations } f, \\mbox{PA} \\vdash f(A).$$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A \\rightarrow B\\urcorner ) \\rightarrow ({\\textsf{Prov}}(\\ulcorner A\\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner B\\urcorner )) $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\text{If } \\mbox{PA} \\vdash A, \\text{then } \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A\\urcorner ), $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner A\\urcorner ) \\rightarrow A\\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner A\\urcorner ). $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash B \\leftrightarrow C(\\ulcorner B\\urcorner ). $$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash B \\leftrightarrow ({\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow A). $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\leftrightarrow {\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow A\\urcorner ). $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow ({\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner A\\urcorner )). $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner {\\textsf{Prov}}(\\ulcorner B\\urcorner )\\urcorner ), $$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow {\\textsf{Prov}}(\\ulcorner A\\urcorner ). $$","ok":true,"err":null}
+{"k":"inline","x":"$PA \\vdash {\\textsf{Prov}}(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner ) \\rightarrow A. $$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash B$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner B\\urcorner )$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{PA} \\vdash A, $$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash \\neg\\, {\\textsf{Prov}}(\\ulcorner \\bot\\urcorner )$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash \\bot$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{GL} \\vdash A \\text{ if and only if for all realizations } f, \\mbox{PA} \\vdash f(A). $$","ok":true,"err":null}
 {"k":"inline","x":"$f(A)$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box p \\vee \\Box\\neg\\, p$","ok":true,"err":null}
 {"k":"inline","x":"$f(p)$","ok":true,"err":null}
-{"k":"inline","x":"$\\Prov(\\ulcorner f(p)\\urcorner ) \\vee \\Prov(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"${\\textsf{Prov}}(\\ulcorner f(p)\\urcorner ) \\vee {\\textsf{Prov}}(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg\\, f(p)$","ok":true,"err":null}
-{"k":"inline","x":"$\\PA \\vdash f(p)$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner f(p)\\urcorner ) \\vee \\Prov(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
-{"k":"inline","x":"$\\PA \\vdash \\neg\\, f(p)$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\mbox{PA} \\vdash f(p)$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash {\\textsf{Prov}}(\\ulcorner f(p)\\urcorner ) \\vee {\\textsf{Prov}}(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":true,"err":null}
+{"k":"inline","x":"$\\mbox{PA} \\vdash \\neg\\, f(p)$","ok":true,"err":null}
 {"k":"inline","x":"$\\Delta_0$","ok":true,"err":null}
-{"k":"display","x":"$$ \\forall y \\le \\bs\\bs 0 \\: \\forall z \\le y \\: \\forall x \\le y + z \\: (x + y \\le (y+(y+z))), $$","ok":false,"err":"Undefined control sequence \\bs"}
-{"k":"inline","x":"$\\bs$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"display","x":"$$ \\forall y \\le {\\bf s}{\\bf s} 0 \\: \\forall z \\le y \\: \\forall x \\le y + z \\: (x + y \\le (y+(y+z))), $$","ok":true,"err":null}
+{"k":"inline","x":"${\\bf s}$","ok":true,"err":null}
 {"k":"inline","x":"$+1$","ok":true,"err":null}
 {"k":"inline","x":"$I \\Delta_0$","ok":true,"err":null}
-{"k":"display","x":"$$ A(0) \\wedge \\forall x\\, (A(x) \\rightarrow A(\\bs x)) \\rightarrow \\forall x \\, A(x) $$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"display","x":"$$ A(0) \\wedge \\forall x\\, (A(x) \\rightarrow A({\\bf s} x)) \\rightarrow \\forall x \\, A(x) $$","ok":true,"err":null}
 {"k":"inline","x":"$2^x$","ok":true,"err":null}
 {"k":"inline","x":"$\\exists x\\, A(x)$","ok":true,"err":null}
-{"k":"inline","x":"$\\Prov_T$","ok":false,"err":"Undefined control sequence \\Prov"}
-{"k":"display","x":"$$ \\GL \\vdash A \\text{ if and only if for all realizations } f,T \\vdash f(A). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"${\\textsf{Prov}}_T$","ok":true,"err":null}
+{"k":"display","x":"$$ \\mbox{GL} \\vdash A \\text{ if and only if for all realizations } f,T \\vdash f(A). $$","ok":true,"err":null}
 {"k":"inline","x":"$I \\Delta_0+\\Omega_1$","ok":true,"err":null}
 {"k":"inline","x":"$\\Omega_1$","ok":true,"err":null}
 {"k":"inline","x":"$x^{\\log(x)}$","ok":true,"err":null}
-{"k":"inline","x":"$\\interprets$","ok":false,"err":"Undefined control sequence \\interprets"}
-{"k":"inline","x":"$A \\interprets B$","ok":false,"err":"Undefined control sequence \\interprets"}
+{"k":"inline","x":"$\\vartriangleright$","ok":true,"err":null}
+{"k":"inline","x":"$A \\vartriangleright B$","ok":true,"err":null}
 {"k":"inline","x":"$T+B$","ok":true,"err":null}
 {"k":"inline","x":"$T+A$","ok":true,"err":null}
 {"k":"display","x":"$$ \\forall p \\,\\forall q \\,\\exists r \\: \\Box((\\Box p \\vee \\Box q) \\leftrightarrow \\Box r), $$","ok":true,"err":null}
@@ -50542,7 +50590,7 @@
 {"k":"inline","x":"$T\\vdash \\neg\\, A(I_n)$","ok":true,"err":null}
 {"k":"inline","x":"$T \\not\\vdash \\exists x \\, A(x)$","ok":true,"err":null}
 {"k":"inline","x":"$I_n$","ok":true,"err":null}
-{"k":"inline","x":"$\\bs\\bs\\ldots\\bs 0$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"inline","x":"${\\bf s}{\\bf s}\\ldots{\\bf s} 0$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall x \\, \\neg \\, A(x)$","ok":true,"err":null}
 {"k":"inline","x":"$\\vdash \\neg \\, A(I_n)$","ok":true,"err":null}
 {"k":"display","x":"$$\\tag{Monotonicity} [0] A \\rightarrow [1] A $$","ok":true,"err":null}
@@ -50552,7 +50600,7 @@
 {"k":"display","x":"$$ [m] A \\rightarrow [n] A, \\mbox{ for } m \\leq n $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\langle k\\rangle A \\rightarrow [n]\\langle k\\rangle A, \\mbox{ for } k \\lt n $$","ok":true,"err":null}
 {"k":"display","x":"$$ [m] A \\rightarrow [n][m] A, \\mbox{ for } m \\leq n $$","ok":true,"err":null}
-{"k":"inline","x":"$\\Box\\Diamond p \\rightarrow \\Box\\bot$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\unicode{x2B26} p \\rightarrow \\Box\\bot$","ok":true,"err":null}
 {"k":"display","x":"$$ \\forall x\\, \\Box\\, \\exists y \\,(y=x) $$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box \\,\\exists y\\,(y = x)$","ok":true,"err":null}
 {"k":"inline","x":"$\\exists y\\,(y=I_n)$","ok":true,"err":null}
@@ -50560,11 +50608,11 @@
 {"k":"display","x":"$$ \\forall x \\,\\Box\\, A(x) \\rightarrow \\Box\\, \\forall x\\, A(x) $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\Box\\, \\forall x \\, A(x) \\rightarrow \\forall x \\, \\Box\\, A(x) $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\mbox{S5} \\vdash \\Box A \\rightarrow A, (\\text{if one knows } A, \\text{ then } A \\text{ is true}). $$","ok":true,"err":null}
-{"k":"display","x":"$$ \\text{if } \\GL \\vdash \\Box A \\rightarrow A, \\text{ then } \\GL \\vdash A. $$","ok":false,"err":"Undefined control sequence \\GL"}
-{"k":"inline","x":"$\\vdash \\Box\\Diamond A \\rightarrow \\Box B$","ok":true,"err":null}
+{"k":"display","x":"$$ \\text{if } \\mbox{GL} \\vdash \\Box A \\rightarrow A, \\text{ then } \\mbox{GL} \\vdash A. $$","ok":true,"err":null}
+{"k":"inline","x":"$\\vdash \\Box\\unicode{x2B26} A \\rightarrow \\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$，两个公式$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg C$","ok":true,"err":null}
-{"k":"inline","x":"$\\Diamond C$","ok":true,"err":null}
+{"k":"inline","x":"$\\unicode{x2B26} C$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg\\Box\\neg C$","ok":true,"err":null}
 {"k":"inline","x":"$C, D$","ok":true,"err":null}
 {"k":"inline","x":"$\\vdash C \\rightarrow D$","ok":true,"err":null}
@@ -50575,34 +50623,34 @@
 {"k":"inline","x":"$\\vdash \\Box\\bot \\rightarrow \\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$\\vdash \\Box(\\Box \\bot \\rightarrow \\bot) \\rightarrow \\Box\\bot$","ok":true,"err":null}
 {"k":"inline","x":"$\\vdash \\Box(\\Box \\bot \\rightarrow \\bot) \\rightarrow \\Box B$","ok":true,"err":null}
-{"k":"inline","x":"$\\vdash \\Diamond A \\rightarrow (\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
-{"k":"inline","x":"$\\vdash \\Box\\Diamond A \\rightarrow \\Box(\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
-{"k":"inline","x":"$\\Box\\Diamond A$","ok":true,"err":null}
+{"k":"inline","x":"$\\vdash \\unicode{x2B26} A \\rightarrow (\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
+{"k":"inline","x":"$\\vdash \\Box\\unicode{x2B26} A \\rightarrow \\Box(\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\unicode{x2B26} A$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box\\bot$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg\\Box\\neg$","ok":true,"err":null}
 {"k":"inline","x":"$\\bigvee X$","ok":true,"err":null}
-{"k":"inline","x":"$\\bigvee\\{\\Diamond x \\mid x \\in X \\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\Diamond\\bigvee X = \\bigvee\\{\\Diamond x \\mid x \\in X \\}$","ok":true,"err":null}
-{"k":"inline","x":"$\\Box\\Diamond\\top\\rightarrow \\Box(\\Box(\\Box p \\rightarrow p) \\rightarrow p)$","ok":true,"err":null}
+{"k":"inline","x":"$\\bigvee\\{\\unicode{x2B26} x \\mid x \\in X \\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\unicode{x2B26}\\bigvee X = \\bigvee\\{\\unicode{x2B26} x \\mid x \\in X \\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\unicode{x2B26}\\top\\rightarrow \\Box(\\Box(\\Box p \\rightarrow p) \\rightarrow p)$","ok":true,"err":null}
 {"k":"inline","x":"$Σ_1$","ok":true,"err":null}
 {"k":"inline","x":"$\\Sigma_1$","ok":true,"err":null}
 {"k":"inline","x":"$I \\Delta_0 + \\exp$","ok":true,"err":null}
 {"k":"inline","x":"$(p \\rightarrow q)$","ok":true,"err":null}
 {"k":"inline","x":"$(\\neg p \\vee q)$","ok":true,"err":null}
 {"k":"display","x":"$$\\begin{align} & p \\rightarrow(q \\rightarrow p), \\\\ & \\neg p \\rightarrow(p \\rightarrow q), \\\\ & (p \\rightarrow q) \\vee(q \\rightarrow r). \\end{align}$$","ok":true,"err":null}
-{"k":"inline","x":"$\\neg \\diamond(p \\amp \\neg q)$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"display","x":"$$\\begin{align} & (p \\amp \\neg p) \\rightarrow q, \\\\ & p \\rightarrow(q \\rightarrow q), \\\\ & p \\rightarrow(q \\vee \\neg q). \\end{align}$$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$A \\prurel B$","ok":false,"err":"Undefined control sequence \\prurel"}
+{"k":"inline","x":"$\\neg \\diamond(p \\mathbin{\\&} \\neg q)$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align} & (p \\mathbin{\\&} \\neg p) \\rightarrow q, \\\\ & p \\rightarrow(q \\rightarrow q), \\\\ & p \\rightarrow(q \\vee \\neg q). \\end{align}$$","ok":true,"err":null}
+{"k":"inline","x":"$A \\mathbin{\\unicode{x22b0}} B$","ok":true,"err":null}
 {"k":"inline","x":"$w'$","ok":true,"err":null}
-{"k":"inline","x":"$p \\prurel (q \\prurel q)$","ok":false,"err":"Undefined control sequence \\prurel"}
+{"k":"inline","x":"$p \\mathbin{\\unicode{x22b0}} (q \\mathbin{\\unicode{x22b0}} q)$","ok":true,"err":null}
 {"k":"inline","x":"$q \\rightarrow q$","ok":true,"err":null}
 {"k":"inline","x":"$p \\rightarrow(q \\rightarrow q)$","ok":true,"err":null}
 {"k":"inline","x":"$Rabc$","ok":true,"err":null}
 {"k":"inline","x":"$b = c$","ok":true,"err":null}
 {"k":"inline","x":"$Raaa$","ok":true,"err":null}
-{"k":"inline","x":"$(A \\rightarrow B) \\amp A$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$((A \\rightarrow B) \\amp A) \\rightarrow B$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(A \\rightarrow B) \\mathbin{\\&} A$","ok":true,"err":null}
+{"k":"inline","x":"$((A \\rightarrow B) \\mathbin{\\&} A) \\rightarrow B$","ok":true,"err":null}
 {"k":"inline","x":"$a, b$","ok":true,"err":null}
 {"k":"inline","x":"$Rbac$","ok":true,"err":null}
 {"k":"inline","x":"$A \\rightarrow ((A \\rightarrow B) \\rightarrow B)$","ok":true,"err":null}
@@ -50614,19 +50662,19 @@
 {"k":"inline","x":"$a,b,c$","ok":true,"err":null}
 {"k":"inline","x":"$A\\rightarrow B$","ok":true,"err":null}
 {"k":"inline","x":"$b,c$","ok":true,"err":null}
-{"k":"inline","x":"$(p \\amp \\neg p) \\rightarrow q$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(p \\mathbin{\\&} \\neg p) \\rightarrow q$","ok":true,"err":null}
 {"k":"inline","x":"$p \\rightarrow (q \\vee \\neg q)$","ok":true,"err":null}
 {"k":"inline","x":"$q \\vee \\neg q$","ok":true,"err":null}
 {"k":"inline","x":"$p \\rightarrow(q \\vee \\neg q)$","ok":true,"err":null}
 {"k":"inline","x":"$p \\rightarrow (q \\rightarrow q)$","ok":true,"err":null}
 {"k":"inline","x":"$A \\rightarrow A$","ok":true,"err":null}
-{"k":"inline","x":"$((A \\rightarrow B) \\amp(B \\rightarrow C)) \\rightarrow (A \\rightarrow C)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$((A \\rightarrow B) \\mathbin{\\&}(B \\rightarrow C)) \\rightarrow (A \\rightarrow C)$","ok":true,"err":null}
 {"k":"inline","x":"$Cab$","ok":true,"err":null}
 {"k":"inline","x":"$a. a$","ok":true,"err":null}
-{"k":"inline","x":"$\\{\\True\\}$","ok":false,"err":"Undefined control sequence \\True"}
-{"k":"inline","x":"$\\{\\False\\}$","ok":false,"err":"Undefined control sequence \\False"}
-{"k":"inline","x":"$\\{\\True,\\False\\}$","ok":false,"err":"Undefined control sequence \\True"}
-{"k":"inline","x":"$A \\amp B$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\{\\mathrm{T}\\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\{\\mathrm{F}\\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\{\\mathrm{T},\\mathrm{F}\\}$","ok":true,"err":null}
+{"k":"inline","x":"$A \\mathbin{\\&} B$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall xA(x)$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall x(A(x)\\supset B(x))$","ok":true,"err":null}
 {"k":"inline","x":"$\\supset$","ok":true,"err":null}
@@ -50644,12 +50692,12 @@
 {"k":"inline","x":"$2,3, \\rightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$A \\rightarrow((A \\rightarrow B) \\rightarrow B)$","ok":true,"err":null}
 {"k":"inline","x":"$1,4, \\rightarrow$","ok":true,"err":null}
-{"k":"inline","x":"$(A \\amp B)_{\\{1,2\\}}$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(A \\mathbin{\\&} B)_{\\{1,2\\}}$","ok":true,"err":null}
 {"k":"inline","x":"$(B \\rightarrow B)_{\\{1\\}}$","ok":true,"err":null}
 {"k":"inline","x":"$2,4, \\rightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$1,5, \\rightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$B_i$","ok":true,"err":null}
-{"k":"inline","x":"$(A \\amp B)_i$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(A \\mathbin{\\&} B)_i$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathbf{E}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathbf{NR}$","ok":true,"err":null}
 {"k":"inline","x":"$\\exists x\\forall y(y \\in x \\leftrightarrow A(y))$","ok":true,"err":null}
@@ -50682,7 +50730,7 @@
 {"k":"inline","x":"$A\\gt B$","ok":true,"err":null}
 {"k":"inline","x":"$SAab$","ok":true,"err":null}
 {"k":"inline","x":"$A \\rightarrow(A \\rightarrow B)$","ok":true,"err":null}
-{"k":"inline","x":"$((A \\amp(B \\vee C)) \\rightarrow((A \\amp B) \\vee(A \\amp C)))$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$((A \\mathbin{\\&}(B \\vee C)) \\rightarrow((A \\mathbin{\\&} B) \\vee(A \\mathbin{\\&} C)))$","ok":true,"err":null}
 {"k":"inline","x":"$!A$","ok":true,"err":null}
 {"k":"inline","x":"$(!A \\rightarrow(!A \\rightarrow B)) \\rightarrow(!A \\rightarrow B)$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{X\\vdash A\\qquad Y,A\\vdash B}{X,Y\\vdash B} $$","ok":true,"err":null}
@@ -50734,7 +50782,7 @@
 {"k":"inline","x":"$A,(B,C$","ok":true,"err":null}
 {"k":"display","x":"$$ X \\vdash Y $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{p \\vdash p} { \\cfrac{p \\vdash q, p} {\\vdash p \\rightarrow q, p} } $$","ok":true,"err":null}
-{"k":"display","x":"$$ \\cfrac{p\\vdash p}{\\cfrac{p,\\neg p\\vdash} {p\\amp\\neg p\\vdash}} \\qquad\\qquad \\cfrac{p\\vdash p}{\\cfrac{\\vdash p,\\neg p}{\\vdash p\\lor\\neg p}} $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$ \\cfrac{p\\vdash p}{\\cfrac{p,\\neg p\\vdash} {p\\mathbin{\\&}\\neg p\\vdash}} \\qquad\\qquad \\cfrac{p\\vdash p}{\\cfrac{\\vdash p,\\neg p}{\\vdash p\\lor\\neg p}} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{A\\vdash B\\qquad B\\vdash C}{A\\vdash C} $$","ok":true,"err":null}
 {"k":"display","x":"$$ B\\vdash B $$","ok":true,"err":null}
 {"k":"inline","x":"$X,Y \\vdash A$","ok":true,"err":null}
@@ -50752,11 +50800,11 @@
 {"k":"display","x":"$$ \\cfrac{X, A \\vdash B} {X \\vdash A \\rightarrow B} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{X \\vdash A \\rightarrow B \\ \\ \\ Y \\vdash A} {X, Y \\vdash B} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{X \\vdash A \\ \\ \\ Y(B) \\vdash C} {Y(A \\rightarrow B, X) \\vdash C} $$","ok":true,"err":null}
-{"k":"display","x":"$$ p \\amp(q \\vee r) \\vdash (p \\amp q) \\vee (p \\amp r) $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$ p \\mathbin{\\&}(q \\vee r) \\vdash (p \\mathbin{\\&} q) \\vee (p \\mathbin{\\&} r) $$","ok":true,"err":null}
 {"k":"inline","x":"$y,z$","ok":true,"err":null}
 {"k":"inline","x":"$A \\vdash B \\rightarrow B$","ok":true,"err":null}
 {"k":"inline","x":"$Ryxz$","ok":true,"err":null}
-{"k":"display","x":"$$ (A \\rightarrow B) \\amp(A \\rightarrow C) \\vdash A \\rightarrow (B \\amp C) $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$ (A \\rightarrow B) \\mathbin{\\&}(A \\rightarrow C) \\vdash A \\rightarrow (B \\mathbin{\\&} C) $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\forall xA \\rightarrow A[t/x] $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\cfrac{\\vdash A\\rightarrow B} {\\vdash A\\rightarrow \\forall xB} $$","ok":true,"err":null}
 {"k":"inline","x":"$\\forall xB$","ok":true,"err":null}
@@ -50781,9 +50829,9 @@
 {"k":"inline","x":"$v(A)=0$","ok":true,"err":null}
 {"k":"inline","x":"$v(\\neg A)=0$","ok":true,"err":null}
 {"k":"inline","x":"$v(A)=1$","ok":true,"err":null}
-{"k":"inline","x":"$v(A\\amp B)=1$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$v(A\\mathbin{\\&} B)=1$","ok":true,"err":null}
 {"k":"inline","x":"$v(B)=1$","ok":true,"err":null}
-{"k":"inline","x":"$v(A\\amp B)=0$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$v(A\\mathbin{\\&} B)=0$","ok":true,"err":null}
 {"k":"inline","x":"$v(B)=0$","ok":true,"err":null}
 {"k":"inline","x":"$X\\vdash Y$","ok":true,"err":null}
 {"k":"inline","x":"$T\\lambda\\vdash\\bot$","ok":true,"err":null}
@@ -50803,8 +50851,8 @@
 {"k":"inline","x":"$p(\\bullet A)$","ok":true,"err":null}
 {"k":"inline","x":"$\\bullet p(A)$","ok":true,"err":null}
 {"k":"inline","x":"$Fx$","ok":true,"err":null}
-{"k":"inline","x":"$\\tonk$","ok":false,"err":"Undefined control sequence \\tonk"}
-{"k":"inline","x":"$A \\tonk B$","ok":false,"err":"Undefined control sequence \\tonk"}
+{"k":"inline","x":"$\\mathbin{\\mathrm{\\scriptsize{TONK}}}$","ok":true,"err":null}
+{"k":"inline","x":"$A \\mathbin{\\mathrm{\\scriptsize{TONK}}} B$","ok":true,"err":null}
 {"k":"inline","x":"$Cn(X)$","ok":true,"err":null}
 {"k":"inline","x":"$Cn$","ok":true,"err":null}
 {"k":"inline","x":"$Cn(Cn(X)) = Cn(X)$","ok":true,"err":null}
@@ -50871,7 +50919,7 @@
 {"k":"inline","x":"$(\\psi'$","ok":true,"err":null}
 {"k":"inline","x":"$O_A$","ok":true,"err":null}
 {"k":"inline","x":"$A'$","ok":true,"err":null}
-{"k":"display","x":"$$ \\begin{align} & \\ket{\\text{spin up}} \\times \\ket{\\text{paper with text } \\lsq\\text{spin up}\\rsq} \\\\ & + \\ket{\\text{spin down}} \\times \\ket{\\text{paper with text } \\lsq\\text{spin down}\\rsq} \\end{align} $$","ok":false,"err":"Undefined control sequence \\lsq"}
+{"k":"display","x":"$$ \\begin{align} & \\ket{\\text{spin up}} \\times \\ket{\\text{paper with text } {\\text{‘}}\\text{spin up}{\\text{’}}} \\\\ & + \\ket{\\text{spin down}} \\times \\ket{\\text{paper with text } {\\text{‘}}\\text{spin down}{\\text{’}}} \\end{align} $$","ok":true,"err":null}
 {"k":"inline","x":"$(S, S')$","ok":true,"err":null}
 {"k":"inline","x":"$6n$","ok":true,"err":null}
 {"k":"inline","x":"$\\ket{A}$","ok":true,"err":null}
@@ -51004,9 +51052,9 @@
 {"k":"display","x":"$$ \\forall x\\forall y[x=y \\leftrightarrow \\forall z(z \\in x \\leftrightarrow z \\in y)] $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\exists x\\forall y(y \\in x \\leftrightarrow \\Phi) $$","ok":true,"err":null}
 {"k":"inline","x":"$u \\in v$","ok":true,"err":null}
-{"k":"inline","x":"$\\sigma(`v\\rsquo) = \\sigma(`u\\rsquo) + 1$","ok":false,"err":"Undefined control sequence \\rsquo"}
-{"k":"inline","x":"$`u = v\\rsquo$","ok":false,"err":"Undefined control sequence \\rsquo"}
-{"k":"inline","x":"$\\sigma(`v\\rsquo) = \\sigma(`u\\rsquo)$","ok":false,"err":"Undefined control sequence \\rsquo"}
+{"k":"inline","x":"$\\sigma(\u0001`v\\rsquo) = \\sigma(`u{\\text{’}}) + 1$","ok":false,"err":"Cannot read properties of null (reading '4')"}
+{"k":"inline","x":"$\u0001`u = v\\rsquo$","ok":false,"err":"Cannot read properties of null (reading '4')"}
+{"k":"inline","x":"$\\sigma(`v{\\text{’}}) = \\sigma(`u{\\text{’}})$","ok":true,"err":null}
 {"k":"inline","x":"$x \\in x$","ok":true,"err":null}
 {"k":"inline","x":"$x \\in y$","ok":true,"err":null}
 {"k":"inline","x":"$y = \\wp(x)$","ok":true,"err":null}
@@ -51028,8 +51076,8 @@
 {"k":"inline","x":"$\\{\\{\\{\\{\\{a\\}\\}\\}\\} : a \\in A\\}$","ok":true,"err":null}
 {"k":"inline","x":"$f : X \\to \\wp(X)$","ok":true,"err":null}
 {"k":"inline","x":"$\\{x \\in X : x \\not\\in f(x)\\}$","ok":true,"err":null}
-{"k":"inline","x":"$x \\in X \\amp x \\not\\in f(x) \\amp f : X \\rightarrow \\wp(X)$","ok":false,"err":"Undefined control sequence \\amp"}
-{"k":"inline","x":"$\\exists y[y \\in \\wp(X) \\amp \\langle y, x\\rangle \\in f \\amp f : X \\rightarrow \\wp(X)]$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$x \\in X \\mathbin{\\&} x \\not\\in f(x) \\mathbin{\\&} f : X \\rightarrow \\wp(X)$","ok":true,"err":null}
+{"k":"inline","x":"$\\exists y[y \\in \\wp(X) \\mathbin{\\&} \\langle y, x\\rangle \\in f \\mathbin{\\&} f : X \\rightarrow \\wp(X)]$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle y, x\\rangle \\in f$","ok":true,"err":null}
 {"k":"inline","x":"$f : X \\rightarrow \\wp(X)$","ok":true,"err":null}
 {"k":"inline","x":"$x \\in X$","ok":true,"err":null}
@@ -51054,7 +51102,7 @@
 {"k":"inline","x":"$\\langle V, \\in \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\kappa \\rangle \\sigma(\\kappa)$","ok":true,"err":null}
 {"k":"inline","x":"$V_{\\kappa}$","ok":true,"err":null}
-{"k":"display","x":"$$ \\{\\langle x, y\\rangle : \\sigma(x) \\in y \\amp \\varrho(y) \\le \\sigma(\\kappa) + 1\\}. $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$ \\{\\langle x, y\\rangle : \\sigma(x) \\in y \\mathbin{\\&} \\varrho(y) \\le \\sigma(\\kappa) + 1\\}. $$","ok":true,"err":null}
 {"k":"inline","x":"$\\varrho$","ok":true,"err":null}
 {"k":"inline","x":"$x = \\{y\\}$","ok":true,"err":null}
 {"k":"inline","x":"$y = \\{x, \\varnothing \\}$","ok":true,"err":null}
@@ -51298,7 +51346,7 @@
 {"k":"inline","x":"$(A,B]$","ok":true,"err":null}
 {"k":"inline","x":"$E(K)$","ok":true,"err":null}
 {"k":"inline","x":"$t_0$","ok":true,"err":null}
-{"k":"inline","x":"$\\Delta p = \\Pr(E\\mid C) - \\Pr(E \\mid \\text{not-}C)$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta p = \\textsf{Pr}(E\\mid C) - \\textsf{Pr}(E \\mid \\text{not-}C)$","ok":true,"err":null}
 {"k":"inline","x":"$P_k$","ok":true,"err":null}
 {"k":"inline","x":"$[P_k,X]$","ok":true,"err":null}
 {"k":"display","x":"$$ H \\text{ explains } S$$","ok":true,"err":null}
@@ -51434,8 +51482,16 @@
 {"k":"inline","x":"$(O!x \\to \\Box \\neg \\exists FxF).$","ok":true,"err":null}
 {"k":"inline","x":"$(xF \\to \\Box xF).$","ok":true,"err":null}
 {"k":"inline","x":"$X\\text{s}$","ok":true,"err":null}
+{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\amp \\textrm{By}(x, \\textrm{Donald}) \\amp \\textrm{Object}(x, \\textrm{toast})\\ \\amp$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\textrm{Location}(x, \\textrm{bathroom}) \\amp \\textrm{Time}(x, \\textrm{12am}))$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\exists x(\\textrm{Buttering}(x) \\amp \\textrm{By}(x, \\textrm{Donald}) \\amp \\textrm{Object}(x, \\textrm{toast}))$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$t_4$","ok":true,"err":null}
+{"k":"inline","x":"$\\rO(A \\lamp B) \\rightarrow \\rO(A) \\lamp \\rO(B)$","ok":false,"err":"Undefined control sequence \\rO"}
+{"k":"inline","x":"$\\langle A \\at t_1 \\lamp B \\at t_2\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
+{"k":"inline","x":"$\\langle A \\at t_1\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
+{"k":"inline","x":"$\\langle B \\at t_2\\rangle$","ok":false,"err":"Undefined control sequence \\at"}
 {"k":"inline","x":"$\\langle{\\sim}B\\rangle$","ok":true,"err":null}
+{"k":"inline","x":"$\\langle A \\lamp {\\sim}B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
 {"k":"inline","x":"$\\langle Z\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle Y\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle X\\rangle$","ok":true,"err":null}
@@ -51445,6 +51501,7 @@
 {"k":"inline","x":"$\\langle{\\sim}a\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle a \\lamp b\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
 {"k":"inline","x":"$\\langle{\\sim}a \\lamp{\\sim}b\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
+{"k":"inline","x":"$\\langle{\\sim}A \\lamp {\\sim}B\\rangle$","ok":false,"err":"Undefined control sequence \\lamp"}
 {"k":"inline","x":"$\\langle{\\sim}A\\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$t_1)$","ok":true,"err":null}
 {"k":"inline","x":"$X.$","ok":true,"err":null}
@@ -51455,6 +51512,7 @@
 {"k":"inline","x":"$\\phi_{x,t} = 2$","ok":true,"err":null}
 {"k":"inline","x":"$_n$","ok":true,"err":null}
 {"k":"inline","x":"$m \\lt n)$","ok":true,"err":null}
+{"k":"inline","x":"${\\vdash} \\rO(A) \\rightarrow \\rO(B)$","ok":false,"err":"Undefined control sequence \\rO"}
 {"k":"inline","x":"$n^{th}$","ok":true,"err":null}
 {"k":"inline","x":"$x_i(0) \\in {(0,1]}$","ok":true,"err":null}
 {"k":"inline","x":"$(0,1]$","ok":true,"err":null}
@@ -51470,6 +51528,10 @@
 {"k":"inline","x":"$|X_i(u)|$","ok":true,"err":null}
 {"k":"inline","x":"$X_i(u)$","ok":true,"err":null}
 {"k":"inline","x":"$\\alpha=1$","ok":true,"err":null}
+{"k":"inline","x":"$p \\to q \\Rightarrow p \\to (p \\amp q)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\ORjev$","ok":false,"err":"Undefined control sequence \\ORjev"}
+{"k":"display","x":"$$ \\begin{align} A &= AA = AAA = \\& c & \\mbox{Law of Simplicity (p. 33)}\\\\ AB &= BA & \\mbox{A Law of Commutativeness (p. 35)}\\\\ A \\ORjev A & = A &\\mbox{Law of Unity (p. 72)}\\\\ A \\ORjev B &= B \\ORjev A &\\mbox{A Law of Commutativeness (p. 72)}\\\\ A(B \\ORjev C) &= AB \\ORjev AC & \\mbox{(no name given) (p. 76)}\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\ORjev"}
+{"k":"display","x":"$$ \\begin{align} A &= A & \\mbox{Law of Identity (p. 74)}\\\\ Aa &= o & \\mbox{Law of Contradiction (p. 74)}\\\\ A &= AB \\ORjev Ab & \\mbox{Law of Duality (p. 74)}\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\ORjev"}
 {"k":"inline","x":"$x, y,\\ldots$","ok":true,"err":null}
 {"k":"inline","x":"$3+4$","ok":true,"err":null}
 {"k":"inline","x":"$x+y$","ok":true,"err":null}
@@ -51831,6 +51893,7 @@
 {"k":"inline","x":"$k[x]g$","ok":true,"err":null}
 {"k":"display","x":"$$[[\\Phi \\mathbin{\\&} \\Psi]]= \\{\\langle g,h\\rangle \\hspace{3pt}|\\hspace{3pt} \\exists k: \\langle g,k\\rangle \\in [[\\Phi]] \\mathbin{\\&} \\langle k,h\\rangle \\in [[\\Psi]]\\}$$","ok":true,"err":null}
 {"k":"inline","x":"$\\Box (\\forall x) (x \\text{ is a human person} \\rightarrow x \\text{ is an animal})$","ok":true,"err":null}
+{"k":"inline","x":"$A \\amp B$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$a\\lt 1$","ok":true,"err":null}
 {"k":"inline","x":"$2 -2a \\gt 0$","ok":true,"err":null}
 {"k":"inline","x":"$a = 1$","ok":true,"err":null}
@@ -52273,12 +52336,78 @@
 {"k":"inline","x":"$\\cup_{j\\in J} M_{ij}$","ok":true,"err":null}
 {"k":"inline","x":"$f\\in J^I$","ok":true,"err":null}
 {"k":"inline","x":"${\\forall i\\inn I}\\ g(i)\\in M_{if(i)}$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"$\\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$X \\in \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$\\sH = \\{\\{0\\}, \\{1\\}, \\{0,1\\}\\}$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$\\sA = \\{A_{i}: i \\in I\\}$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"inline","x":"$\\sA$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"display","x":"$$ {\\forall x\\inn A}\\ \\exists y\\inn B[R(x,y)] \\Rightarrow \\exists f[f: A \\rightarrow B \\amp {\\forall x\\inn A}[R(x,fx)]]. $$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"$T \\subseteq \\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$\\sH = \\{\\{0\\}, \\{1\\}, \\{2, 3\\}\\}$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$S \\subseteq \\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$\\bigcup \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
+{"k":"inline","x":"$X\\in \\sH$","ok":false,"err":"Undefined control sequence \\sH"}
 {"k":"inline","x":"$\\{a_{1}, \\ldots, a_{n}, b_{1},\\ldots,b_{n}\\} with each pair \\{a_{i}, b_{i}\\} \\in P$","ok":true,"err":null}
+{"k":"inline","x":"$\\sP(X)$","ok":false,"err":"Undefined control sequence \\sP"}
+{"k":"inline","x":"$\\Def(X)$","ok":false,"err":"Undefined control sequence \\Def"}
+{"k":"inline","x":"$L = \\bigcup_{\\alpha\\in \\Ord} L_{\\alpha}$","ok":false,"err":"Undefined control sequence \\Ord"}
+{"k":"inline","x":"$\\rD(X)$","ok":false,"err":"Undefined control sequence \\rD"}
+{"k":"inline","x":"$\\bigcup_{\\alpha\\in \\Ord} D(V_{\\alpha})$","ok":false,"err":"Undefined control sequence \\Ord"}
+{"k":"inline","x":"$\\sA = \\{A_{i}:i \\in I\\}.$","ok":false,"err":"Undefined control sequence \\sA"}
+{"k":"inline","x":"$\\sN$","ok":false,"err":"Undefined control sequence \\sN"}
+{"k":"inline","x":"$\\sT$","ok":false,"err":"Undefined control sequence \\sT"}
+{"k":"inline","x":"$\\range(R) \\subseteq \\domain(R)$","ok":false,"err":"Undefined control sequence \\range"}
+{"k":"inline","x":"$\\uO \\ne \\uI$","ok":false,"err":"Undefined control sequence \\uO"}
+{"k":"inline","x":"$\\uO$","ok":false,"err":"Undefined control sequence \\uO"}
+{"k":"inline","x":"$\\uI$","ok":false,"err":"Undefined control sequence \\uI"}
 {"k":"inline","x":"$R-$","ok":true,"err":null}
+{"k":"inline","x":"$\\Fun(X)$","ok":false,"err":"Undefined control sequence \\Fun"}
+{"k":"inline","x":"$\\forall x\\in X\\ \\exists y \\phi(x,y) \\rightarrow \\exists f \\in \\Fun(X)\\ \\forall x \\in X\\ \\phi(x,fx)$","ok":false,"err":"Undefined control sequence \\Fun"}
+{"k":"inline","x":"${\\exists f \\inn \\Fun(X)} [{\\forall x\\inn X}\\ \\exists y \\phi(x,y) \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"$\\forall f \\inn Fun(X)\\ {\\exists x \\inn X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\inn X}\\ \\forall y \\phi(x,y)$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\inn \\Fun(X)}\\ [{\\exists x\\inn X}\\ \\phi(x,fx) \\rightarrow {\\exists x \\inn X}\\ \\forall y \\phi(x,y)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists x\\inn 2}\\ \\alpha(x) \\wedge {\\exists x \\inn 2}\\ \\beta(x) \\rightarrow {\\exists x \\inn 2}\\ {\\exists y \\inn 2}\\ [\\alpha(x) \\wedge \\beta(y) \\wedge [{\\forall x \\inn 2}\\ [\\alpha(x) \\leftrightarrow \\beta(x)] \\rightarrow x = y]].$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\inn 2^X} [{\\forall x\\inn X}\\ {\\exists y \\inn 2}\\ \\phi(x,y) \\rightarrow {\\exists x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\inn 2^X} [{\\forall x \\inn X}\\ {\\exists y \\inn 2}\\ \\phi(x,y) \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
+{"k":"inline","x":"${\\exists f \\inn 2^X}[{\\forall x \\inn X}[\\phi(x,0) \\vee \\phi(x,1)] \\rightarrow {\\forall x \\inn X}\\ \\phi(x,fx)]$","ok":false,"err":"Undefined control sequence \\inn"}
 {"k":"inline","x":"$x)_{x\\in X}$","ok":true,"err":null}
+{"k":"inline","x":"$X\\in \\sI$","ok":false,"err":"Undefined control sequence \\sI"}
+{"k":"inline","x":"$\\sI - \\{X\\}$","ok":false,"err":"Undefined control sequence \\sI"}
 {"k":"inline","x":"$(A\\subseteq L$","ok":true,"err":null}
 {"k":"inline","x":"$(\\neg \\neg \\varphi$","ok":true,"err":null}
+{"k":"inline","x":"$\\mymod(\\varphi) = \\{\\omega \\in W | \\omega \\models \\varphi\\}$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$\\mymod((p\\land q) \\leftrightarrow r) = \\{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\\}.$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E)$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\IC_1$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E) \\models \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E)\\equiv \\land E\\land \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\IC_1\\equiv \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC_1}(E_1)\\equiv \\Delta_{\\IC_2}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$K_1 \\models\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$K_{2} \\models\\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(\\{K_1, K_{2}\\})\\land K_1$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(\\{K_1, K_{2}\\})\\land K_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2}) \\models\\Delta_{\\IC}(E_1\\sqcup E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC}(E_1\\sqcup E_{2}) \\models \\Delta_{\\IC}(E_1) \\land \\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC_{1}}(E) \\land \\IC_{2} \\models\\Delta_{\\IC_{1\\land} \\IC_{2}} (E)$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC_1}(E) \\land \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\Delta_{\\IC_{1\\land}\\IC_{2}} (E) \\models\\Delta_{\\IC_1}(E)$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\IC_1 \\land \\IC_{2}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\exists n \\Delta_{\\IC} (E_1\\sqcup E^{n}_{2}) \\models\\Delta_{\\IC}(E_{2})$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"display","x":"$$\\begin{align} \\Delta_{\\IC_1}(K_1) &\\equiv \\Delta_{\\IC_2}(K_{2}), \\textrm{ and}\\\\ \\Delta_{\\IC_{1} \\leftrightarrow \\neg \\IC_{2}} (\\{K_1, K_{2}\\}) &\\equiv (\\IC_1\\leftrightarrow \\neg \\IC_{2}), \\textrm{ then} \\\\ \\Delta_{\\IC_{1}\\lor \\IC_{2}} (\\{K_1, K_{2}\\}) &\\equiv \\Delta_{\\IC_1}(K_1).\\end{align}$$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"display","x":"$$ \\mymod(\\Delta_{\\IC}(E)) = \\mymin (\\mymod (\\IC), \\le_{d}) $$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$d(\\omega, K) = \\mymin_{\\omega'\\in \\mymod(K)} d(\\omega, \\omega')$","ok":false,"err":"Undefined control sequence \\mymin"}
 {"k":"inline","x":"$x_1,\\ldots, x_{n}, x, y \\in R^{+}, D$","ok":true,"err":null}
+{"k":"inline","x":"$D_{\\mymax}$","ok":false,"err":"Undefined control sequence \\mymax"}
+{"k":"inline","x":"$\\IC= \\{(p\\land q) \\leftrightarrow r\\}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\mymod(K_1)= \\{(1, 1, 1),$","ok":false,"err":"Undefined control sequence \\mymod"}
+{"k":"inline","x":"$\\IC_{\\textit{It}}$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\varphi \\vdash \\IC$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\exists n \\Delta_{\\IC}^{n} (E,\\varphi) \\vdash\\varphi$","ok":false,"err":"Undefined control sequence \\IC"}
+{"k":"inline","x":"$\\varphi * \\IC= \\Delta_{\\IC}(\\varphi)$","ok":false,"err":"Undefined control sequence \\IC"}
 {"k":"inline","x":"$\\Lambda$","ok":true,"err":null}
 {"k":"inline","x":"$\\rho$","ok":true,"err":null}
 {"k":"inline","x":"$a, a'$","ok":true,"err":null}
@@ -52565,6 +52694,10 @@
 {"k":"inline","x":"$+)$","ok":true,"err":null}
 {"k":"inline","x":"$\\cdot)$","ok":true,"err":null}
 {"k":"inline","x":"$-)$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align*} V(B, 0) &= \\varnothing \\\\ V(B, \\alpha + 1) &= \\{ f : \\dom(f) \\subset V(B, \\alpha) \\text{ and } \\range(f) \\subset B \\} \\\\ V(B, \\lambda) &= \\bigcup_{\\beta \\lt \\lambda} V(B, \\beta). \\end{align*}$$","ok":false,"err":"Undefined control sequence \\dom"}
+{"k":"inline","x":"$\\dom(f)$","ok":false,"err":"Undefined control sequence \\dom"}
+{"k":"inline","x":"$\\range(f)$","ok":false,"err":"Undefined control sequence \\range"}
+{"k":"display","x":"$$\\begin{align*} \\val{x \\in y} &= \\sum_{t \\in \\dom(y)} \\val{x=t}\\cdot y(t) \\\\ \\val{x \\subseteq y} &= \\prod_{t \\in \\dom(x)} -x(t) + \\val{t \\in y} \\\\ \\val{x = y} &= \\val{x \\subseteq y} \\cdot \\val{y \\subseteq x} \\\\ \\val{\\neg \\phi} &= -\\val{\\phi} \\\\ \\val{\\phi \\vee \\psi} &= \\val{\\phi} + \\val{\\psi} \\\\ \\val{\\exists x\\phi(x)} &= \\sum_{a \\in V(B)} \\val{\\phi(a)}. \\end{align*}$$","ok":false,"err":"Undefined control sequence \\val"}
 {"k":"inline","x":"$x(1-y) = 0$","ok":true,"err":null}
 {"k":"inline","x":"$x = vy$","ok":true,"err":null}
 {"k":"inline","x":"$xy = 0$","ok":true,"err":null}
@@ -52948,7 +53081,6 @@
 {"k":"inline","x":"$h' \\setminus h$","ok":true,"err":null}
 {"k":"inline","x":"$m \\in h\\setminus h'$","ok":true,"err":null}
 {"k":"inline","x":"$\\sigma(m)$","ok":true,"err":null}
-{"k":"inline","x":"${\\mathcal{T}}$","ok":true,"err":null}
 {"k":"inline","x":"$\\sigma_{h,h'}$","ok":true,"err":null}
 {"k":"inline","x":"$h, h', h''$","ok":true,"err":null}
 {"k":"inline","x":"$h \\cap h'$","ok":true,"err":null}
@@ -54452,6 +54584,9 @@
 {"k":"inline","x":"$(n$","ok":true,"err":null}
 {"k":"inline","x":"$(a$","ok":true,"err":null}
 {"k":"inline","x":"$G))$","ok":true,"err":null}
+{"k":"inline","x":"$M(p \\amp \\neg p)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$N(p \\amp \\neg p)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$p \\amp \\neg p$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$T_\\mu$","ok":true,"err":null}
 {"k":"inline","x":"$\\lim_{n\\to \\infty} {1 \\over n} \\sum_{i=0}^{n-1} |T_{\\mu}^{-i}A \\cap B - \\mu(A)\\mu(B)| = 0$","ok":true,"err":null}
 {"k":"inline","x":"$\\lim_{n\\to \\infty} (T_{\\mu}^nA) \\cap B = \\mu(A)\\mu(B)$","ok":true,"err":null}
@@ -55600,9 +55735,19 @@
 {"k":"inline","x":"$\\mu[f$","ok":true,"err":null}
 {"k":"inline","x":"$j \\lt i, f(j,x_{1},\\ldots ,x_{k})$","ok":true,"err":null}
 {"k":"inline","x":"$n, M(w)$","ok":true,"err":null}
+{"k":"display","x":"$$ \\TIME[T(n)] = \\{ A \\mid A = L(M) \\text{ for some } M \\text{ that runs in time } T(n)\\}. $$","ok":false,"err":"Undefined control sequence \\TIME"}
+{"k":"inline","x":"$\\P$","ok":false,"err":"Undefined control sequence \\P"}
+{"k":"display","x":"$$ \\P = \\bigcup_{i=1,2,\\ldots} \\TIME[n^{i}] $$","ok":false,"err":"Undefined control sequence \\P"}
+{"k":"inline","x":"$\\NP$","ok":false,"err":"Undefined control sequence \\NP"}
+{"k":"inline","x":"$\\PSPACE$","ok":false,"err":"Undefined control sequence \\PSPACE"}
+{"k":"inline","x":"$\\EXPTIME$","ok":false,"err":"Undefined control sequence \\EXPTIME"}
 {"k":"inline","x":"$(A \\le B)$","ok":true,"err":null}
 {"k":"inline","x":"$\\in B \\Leftrightarrow$","ok":true,"err":null}
 {"k":"inline","x":"$\\in A$","ok":true,"err":null}
+{"k":"inline","x":"$\\TIME[n]$","ok":false,"err":"Undefined control sequence \\TIME"}
+{"k":"inline","x":"$\\TIME[n^{1.01}]$","ok":false,"err":"Undefined control sequence \\TIME"}
+{"k":"inline","x":"$\\SPACE$","ok":false,"err":"Undefined control sequence \\SPACE"}
+{"k":"display","x":"$$ \\P \\subseteq \\NP \\subseteq \\PSPACE \\subseteq \\EXPTIME $$","ok":false,"err":"Undefined control sequence \\P"}
 {"k":"inline","x":"$w \\in S$","ok":true,"err":null}
 {"k":"inline","x":"$n \\times n$","ok":true,"err":null}
 {"k":"inline","x":"$m \\gt n \\gt 0$","ok":true,"err":null}
@@ -58988,6 +59133,7 @@
 {"k":"inline","x":"$*A)$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg Tr\\langle A \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg Tr\\langle A\\rangle$","ok":true,"err":null}
+{"k":"inline","x":"$\\Diamond p$","ok":true,"err":null}
 {"k":"inline","x":"$t)n$","ok":true,"err":null}
 {"k":"inline","x":"$tn)$","ok":true,"err":null}
 {"k":"inline","x":"$t_{n+ 1/2}$","ok":true,"err":null}
@@ -60729,11 +60875,20 @@
 {"k":"inline","x":"$\\pre((e_1,e_2)) = \\pre^A(e_1)\\land[A,e_1]\\pre^B(e_2)$","ok":false,"err":"Undefined control sequence \\pre"}
 {"k":"inline","x":"$[A\\circ B,(e,f)][C,g]H \\leftrightarrow [A,e][B\\circ C,(f,g)]H]$","ok":true,"err":null}
 {"k":"inline","x":"$P)$","ok":true,"err":null}
+{"k":"inline","x":"$c\\mcaret x$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"inline","x":"$\\mcaret$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"display","x":"$$\\lambda P\\lambda c\\lambda c' \\cdot \\exists x (\\textrm{man } x \\mcaret P\\lvert c\\rvert (c^x)c').$$","ok":false,"err":"Undefined control sequence \\mcaret"}
 {"k":"inline","x":"$i+1)$","ok":true,"err":null}
+{"k":"inline","x":"$P\\lvert c\\rvert (c\\mcaret x)c'$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"inline","x":"$c\\mcaret x[\\lvert c\\rvert ] = c\\mcaret x[i] = x$","ok":false,"err":"Undefined control sequence \\mcaret"}
+{"k":"display","x":"$$ \\begin{align*} \\cal{E} & := \\lambda cc'\\cdot \\exists x(c \\mcaret x = c') \\\\ {\\sim}\\phi & := \\lambda cc'\\cdot (c = c' \\mcaret \\neg \\exists c'' \\phi cc'') \\\\ \\phi ; \\psi & := \\lambda cc'\\cdot \\exists c''(\\phi cc'' \\mcaret \\psi cc') \\end{align*} $$","ok":false,"err":"Undefined control sequence \\mcaret"}
 {"k":"inline","x":"$N_e=500$","ok":true,"err":null}
 {"k":"inline","x":"$(f_{E_1} - f_{E_2})$","ok":true,"err":null}
 {"k":"inline","x":"$(p_{B} - p_{b}) > \\frac{1}{2}N$","ok":true,"err":null}
 {"k":"inline","x":"$(p_{B} - p_{b}) < \\frac{1}{2}N$","ok":true,"err":null}
+{"k":"inline","x":"$(\\rG \\times \\rE)$","ok":false,"err":"Undefined control sequence \\rG"}
+{"k":"inline","x":"$\\rG \\times \\rG$","ok":false,"err":"Undefined control sequence \\rG"}
+{"k":"inline","x":"$\\rG \\times \\rE$","ok":false,"err":"Undefined control sequence \\rG"}
 {"k":"inline","x":"$P = f(M^s)$","ok":true,"err":null}
 {"k":"inline","x":"$*P* to exchange *Y* for *X*, *Z* for *Y*, and *X* for *Z*. That means that, starting with *Z*, *A* will pay$","ok":true,"err":null}
 {"k":"inline","x":"$*P* again for *X*, then$","ok":true,"err":null}
@@ -61888,6 +62043,10 @@
 {"k":"display","x":"$$ \\Cr_\\textrm{new}( \\textsf{tricky} \\mid \\textsf{red} ) = \\Cr_\\textrm{new}( \\textsf{tricky} \\mid \\neg\\textsf{red} ). $$","ok":false,"err":"Undefined control sequence \\Cr"}
 {"k":"display","x":"$$ \\Cr_\\textrm{new}( \\textsf{red} \\mid \\textsf{tricky} ) = \\Cr_\\textrm{new}( \\textsf{red} \\mid \\neg\\textsf{tricky} ). $$","ok":false,"err":"Undefined control sequence \\Cr"}
 {"k":"display","x":"$$ \\Cr_\\textrm{new}( \\textsf{red} \\mid \\textsf{tricky} ) = \\Cr_\\textrm{new}( \\textsf{red}). $$","ok":false,"err":"Undefined control sequence \\Cr"}
+{"k":"inline","x":"$\\Pr(R_1 \\mid S_1)$","ok":true,"err":null}
+{"k":"display","x":"$$ \\frac{\\Pr(R_2 \\mid S_2)}{1-\\Pr(R_1 \\mid S_1)} \\gt \\frac{\\Pr(S_1)(W_{11}-W_{21})}{(1-\\Pr(S_1))(W_{22}-W_{12})} $$","ok":true,"err":null}
+{"k":"display","x":"$$p'_i = p_i \\cdot w_i \\frasl \\overline{w} $$","ok":false,"err":"Undefined control sequence \\frasl"}
+{"k":"display","x":"$$ w_i = S_A \\Pr(A)\\cdot W_{iA} $$","ok":true,"err":null}
 {"k":"inline","x":"$ABC$","ok":true,"err":null}
 {"k":"inline","x":"$A'BC$","ok":true,"err":null}
 {"k":"inline","x":"$BA = BA'$","ok":true,"err":null}
@@ -66064,29 +66223,8 @@
 {"k":"inline","x":"$\\rC a$","ok":false,"err":"Undefined control sequence \\rC"}
 {"k":"inline","x":"$\\rC b$","ok":false,"err":"Undefined control sequence \\rC"}
 {"k":"display","x":"$$ \\begin{array}{cccl} & \\rE a & \\rE b & \\text{Height results} \\ldots \\\\ \\hline 1 & \\rC b=4^{\\prime}2^{\\prime\\prime} & \\rC a=6^{\\prime}2^{\\prime\\prime} & \\text{from genes} \\\\ \\hline 2 & \\rC b=5^{\\prime}8^{\\prime\\prime} & \\rC a=5^{\\prime}8^{\\prime\\prime} & \\text{from genes and environment} \\\\ \\hline 3 & \\rC b=6^{\\prime}2^{\\prime\\prime} & \\rC a=4^{\\prime}2^{\\prime\\prime} & \\text{entirely from environment} \\\\ \\hline \\end{array} $$","ok":false,"err":"Undefined control sequence \\rE"}
-{"k":"inline","x":"$V_P$","ok":true,"err":null}
-{"k":"display","x":"$$\\tag{1} V_P = V_G + V_E $$","ok":true,"err":null}
-{"k":"inline","x":"$= \\bfrac{V_G}{V_P}$","ok":false,"err":"Undefined control sequence \\bfrac"}
-{"k":"inline","x":"$\\bfrac{V_E}{V_P}$","ok":false,"err":"Undefined control sequence \\bfrac"}
-{"k":"inline","x":"$h_b^2$","ok":true,"err":null}
-{"k":"inline","x":"$h^2$","ok":true,"err":null}
-{"k":"display","x":"$$\\tag{2} h_b^2 = \\frac{V_G}{V_P} $$","ok":true,"err":null}
-{"k":"display","x":"$$\\tag{3} h^2 = \\frac{V_A}{V_P} $$","ok":true,"err":null}
-{"k":"inline","x":"$(V_{A})$","ok":true,"err":null}
-{"k":"inline","x":"$(V_{D})$","ok":true,"err":null}
-{"k":"inline","x":"$V_G$","ok":true,"err":null}
-{"k":"display","x":"$$\\tag{4} V_G = V_A + V_D $$","ok":true,"err":null}
-{"k":"display","x":"$$\\tag{\\(1^{\\prime}\\)} V_P = V_A + V_D + V_E $$","ok":true,"err":null}
-{"k":"inline","x":"$V_{I}$","ok":true,"err":null}
-{"k":"inline","x":"$V_{G\\times E}$","ok":true,"err":null}
 {"k":"inline","x":"$\\COV(G,E)$","ok":false,"err":"Undefined control sequence \\COV"}
 {"k":"display","x":"$$\\tag{\\(1^{\\prime\\prime}\\)} V_P = V_A + V_D + V_I + V_E + V_{G\\times E} + \\COV(G,E) $$","ok":false,"err":"Undefined control sequence \\COV"}
-{"k":"display","x":"$$\\tag{\\(4^{\\prime}\\)} V_G = V_A + V_D + V_I $$","ok":true,"err":null}
-{"k":"inline","x":"$V_I, V_{G\\times E}$","ok":true,"err":null}
-{"k":"inline","x":"$V_A$","ok":true,"err":null}
-{"k":"inline","x":"$h^2 (= \\bfrac{V_A}{V_P})$","ok":false,"err":"Undefined control sequence \\bfrac"}
-{"k":"display","x":"$$\\tag{5} h^2 = \\frac{R}{S} $$","ok":true,"err":null}
-{"k":"inline","x":"$t^2$","ok":true,"err":null}
 {"k":"inline","x":"$r_{\\MZ}$","ok":false,"err":"Undefined control sequence \\MZ"}
 {"k":"inline","x":"$r_{\\DZ}$","ok":false,"err":"Undefined control sequence \\DZ"}
 {"k":"display","x":"$$ r_{\\MZ} = A + C$$","ok":false,"err":"Undefined control sequence \\MZ"}
@@ -66099,19 +66237,18 @@
 {"k":"display","x":"$$ \\begin{align} A & = 2(r_{\\MZ} - r_{\\DZ})\\\\ A & = 2(.95-.55)\\\\ A & = 2(.4) \\\\ A & = .8 \\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\MZ"}
 {"k":"display","x":"$$ \\begin{align} C & = 2r_{\\DZ} - r_{\\MZ}\\\\ C & = 2(.55) - .95\\\\ C & = .15\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\DZ"}
 {"k":"display","x":"$$ \\begin{align} E & = 1 - r_{\\MZ}\\\\ E & = 1 - .95 \\\\ E & = .05\\\\ \\end{align} $$","ok":false,"err":"Undefined control sequence \\MZ"}
-{"k":"inline","x":"$β_i$","ok":true,"err":null}
-{"k":"display","x":"$$PGS_j = ∑_i^Nβ_i$$","ok":true,"err":null}
-{"k":"inline","x":"$(1^{\\prime\\prime}$","ok":true,"err":null}
-{"k":"inline","x":"$V_{I}, V_{G\\times E}$","ok":true,"err":null}
-{"k":"inline","x":"$V_{GxE}$","ok":true,"err":null}
 {"k":"inline","x":"$v_p$","ok":true,"err":null}
 {"k":"inline","x":"$v_s$","ok":true,"err":null}
 {"k":"inline","x":"$v_p/v_s$","ok":true,"err":null}
 {"k":"inline","x":"$FILE/studneoar_2021_0018_0003_0001_0107.pdf)[21 available online](https://www.pdcnet.org/852577E000563C54/file/E94000516E12B5A3852588CC00704615/$","ok":true,"err":null}
 {"k":"inline","x":"$\\Cr(A\\mid \\Pr(A) = n) = n$","ok":false,"err":"Undefined control sequence \\Cr"}
 {"k":"inline","x":"$\\Cr(A\\mid \\textrm{Pr is ideal}) = \\Pr(A\\mid \\textrm{Pr is ideal})$","ok":false,"err":"Undefined control sequence \\Cr"}
+{"k":"inline","x":"$\\PA$","ok":false,"err":"Undefined control sequence \\PA"}
 {"k":"inline","x":"$P, P$","ok":true,"err":null}
+{"k":"inline","x":"$\\PRA$","ok":false,"err":"Undefined control sequence \\PRA"}
 {"k":"inline","x":"$\\PRA.$","ok":false,"err":"Undefined control sequence \\PRA"}
+{"k":"inline","x":"$\\PV$","ok":false,"err":"Undefined control sequence \\PV"}
+{"k":"inline","x":"$\\EA$","ok":false,"err":"Undefined control sequence \\EA"}
 {"k":"inline","x":"$\\EA)[^avigad-2003]$","ok":false,"err":"Undefined control sequence \\EA"}
 {"k":"inline","x":"$S \\vdash TI(\\alpha_T)\\rightarrow Con_T)$","ok":true,"err":null}
 {"k":"inline","x":"$.40/base, and the desired high output not yet achieved by the sequencing centers, and about$","ok":true,"err":null}
@@ -66359,11 +66496,25 @@
 {"k":"inline","x":"$o'$","ok":true,"err":null}
 {"k":"inline","x":"$o^*$","ok":true,"err":null}
 {"k":"inline","x":"$o, o'$","ok":true,"err":null}
+{"k":"inline","x":"$P(i'\\mid \\llbracket f\\rrbracket) \\gt P(i\\mid \\llbracket f \\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\llbracket f\\rrbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
 {"k":"inline","x":"$P(A\\cap B)/P(A))$","ok":true,"err":null}
 {"k":"inline","x":"$i. \\langle f',i\\rangle \\gt \\langle f,i\\rangle$","ok":true,"err":null}
+{"k":"inline","x":"$P(i\\mid \\llbracket f'\\rrbracket) \\gt P(i\\mid \\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i\\mid\\llbracket f'\\rrbracket = P(i\\mid\\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i\\mid \\llbracket f\\rrbracket)$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$P(i_3 \\mid \\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\rrbracket) = ⅓$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"inline","x":"$P(i_2 \\mid \\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$n \\textrm{'} \\rrbracket)$","ok":false,"err":"Undefined control sequence \\rrbracket"}
 {"k":"inline","x":"$i_j, i_b$","ok":true,"err":null}
+{"k":"inline","x":"$\\llbracket \\cdot \\rrbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
 {"k":"inline","x":"$r (U_s$","ok":true,"err":null}
 {"k":"inline","x":"$U_r)$","ok":true,"err":null}
+{"k":"display","x":"$$ \\llbracket `\\text{four}\\rsquo \\rrbracket \\subset \\llbracket `\\text{three}\\rsquo \\rrbracket \\subset \\llbracket `\\text{two}\\rsquo \\rrbracket \\subset \\llbracket `\\text{one}\\rsquo \\rrbracket, $$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\llbracket$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\rrbracket = \\{w_3, w_4\\}$","ok":false,"err":"Undefined control sequence \\rrbracket"}
+{"k":"inline","x":"$\\rrbracket$","ok":false,"err":"Undefined control sequence \\rrbracket"}
 {"k":"inline","x":"$A \\vDash A)$","ok":true,"err":null}
 {"k":"inline","x":"$^+)$","ok":true,"err":null}
 {"k":"inline","x":"$B.$","ok":true,"err":null}
@@ -66874,7 +67025,15 @@
 {"k":"inline","x":"$\\sum_{\\beta \\lt \\alpha}\\omega^{x_\\beta}r_\\beta)\\pm\\omega^\\Xi$","ok":true,"err":null}
 {"k":"inline","x":"$x_\\beta$","ok":true,"err":null}
 {"k":"inline","x":"$(\\beta \\lt\\alpha).$","ok":true,"err":null}
+{"k":"display","x":"$$\\tCont(s) := \\{x\\in W : x\\vdash \\neg s\\}$$","ok":false,"err":"Undefined control sequence \\tCont"}
+{"k":"display","x":"$$\\begin{align} \\tcont(s) &:= 1 - p(s)\\\\ \\inf(s) &:= \\log_2\\frac{1}{1 - \\tcont(s)} \\end{align}$$","ok":false,"err":"Undefined control sequence \\tcont"}
+{"k":"inline","x":"$\\tcont(s\\wedge s') \\neq \\tcont(s) + \\tcont(s')$","ok":false,"err":"Undefined control sequence \\tcont"}
+{"k":"display","x":"$$\\begin{align} \\tCont(\\perp) &= W\\; (\\text{i.e., maximal content})\\\\ \\tcont(\\perp) &= 1\\\\ \\inf(\\perp) &= \\infty\\end{align}$$","ok":false,"err":"Undefined control sequence \\tCont"}
+{"k":"display","x":"$$\\begin{align} \\tCont(\\top) &= \\varnothing\\\\ \\tcont(\\top) &= 0\\\\ \\inf(\\top) &= 0\\end{align}$$","ok":false,"err":"Undefined control sequence \\tCont"}
 {"k":"inline","x":"$s,$","ok":true,"err":null}
+{"k":"inline","x":"$x\\cmapsto y$","ok":false,"err":"Undefined control sequence \\cmapsto"}
+{"k":"display","x":"$$\\text{If }x\\vDash\\phi, \\:x\\cmapsto y,\\text{ and } \\phi\\to\\psi, \\text{ then } y\\vDash \\psi$$","ok":false,"err":"Undefined control sequence \\cmapsto"}
+{"k":"display","x":"$$c: \\phi\\to\\psi \\text{ iff } \\text{ for all sites } x, y, \\text{ if } x\\cmapsto y\\text{ and } x:\\phi, \\text{ then } y:\\psi.$$","ok":false,"err":"Undefined control sequence \\cmapsto"}
 {"k":"inline","x":"$\\log a \\times b = \\log a + \\log b$","ok":true,"err":null}
 {"k":"inline","x":"$I(A)= -\\log P(A)$","ok":true,"err":null}
 {"k":"inline","x":"$W= k \\log m$","ok":true,"err":null}
@@ -67384,10 +67543,12 @@
 {"k":"inline","x":"$W_{1},\\ldots,W_{n}$","ok":true,"err":null}
 {"k":"inline","x":"$V_{1},\\ldots,V_{n}$","ok":true,"err":null}
 {"k":"inline","x":"$W_{1}+\\cdots+W_{n}$","ok":true,"err":null}
+{"k":"inline","x":"$\\{A_1, A_2, A_1 \\amp A_2\\}$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$S)$","ok":true,"err":null}
 {"k":"inline","x":"$__ is attached to this note” (2006: 198; Dana did not explain what would happen if the amount was$","ok":false,"err":"Missing open brace for subscript"}
 {"k":"inline","x":"$\\{R_1, R_2 , \\ldots ,R_n\\}$","ok":true,"err":null}
 {"k":"inline","x":"$R_A$","ok":true,"err":null}
+{"k":"inline","x":"$C =_{df} \\Diamond \\exists x (Cx \\amp {\\sim}Px)$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"display","x":"$$ \\left(\\frac{T_1}{T_2}\\right)^2 = \\left(\\frac{a_1}{a_2}\\right)^3 $$","ok":true,"err":null}
 {"k":"inline","x":"$) is positioned in relation to its corresponding object-cause of desire (*a*). Hence, ∧, ∨, >, and < represent, in a deliberately loose and open fashion, possible variants of this positioning of$","ok":true,"err":null}
 {"k":"inline","x":"$x^2 -2\\cdot x+5$","ok":true,"err":null}
@@ -69344,6 +69505,7 @@
 {"k":"display","x":"$$ \\neg, \\amp, \\vee, \\rightarrow, \\forall, \\exists, (, ) $$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$\\neg \\theta$","ok":true,"err":null}
 {"k":"inline","x":"$(\\theta \\amp \\psi)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\amp$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$(\\theta \\vee \\psi)$","ok":true,"err":null}
 {"k":"inline","x":"$(\\theta \\rightarrow \\psi)$","ok":true,"err":null}
 {"k":"inline","x":"$(\\theta \\leftrightarrow \\psi)$","ok":true,"err":null}
@@ -71357,6 +71519,8 @@
 {"k":"inline","x":"$s(s(0)): \\mathbb{N}$","ok":true,"err":null}
 {"k":"inline","x":"$\\rqst s(s(0))$","ok":false,"err":"Undefined control sequence \\rqst"}
 {"k":"inline","x":"$V([\\alpha]A) = \\{x \\mid \\text{for all worlds } y, \\text{ if } xR(\\alpha)y \\text{ then } y \\in V(A)\\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\ldquo M, x$","ok":false,"err":"Undefined control sequence \\ldquo"}
+{"k":"inline","x":"$A\\rdquo$","ok":false,"err":"Undefined control sequence \\rdquo"}
 {"k":"display","x":"$$ \\frac{\\{A\\}\\alpha_1 \\{B\\}\\quad\\{B\\} \\alpha_2\\{C\\}} {\\{A\\} \\alpha_1;\\alpha_2\\{C\\}} \\text{ (rule of composition)} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\frac{\\{A \\land B\\}\\alpha\\{A\\}} {\\{A\\} \\mathsf{while}~B~\\mathsf{do}~\\alpha \\{\\lnot B \\land A\\}} \\text{ (rule of iteration)} $$","ok":true,"err":null}
 {"k":"display","x":"$$ \\frac{\\{A\\}\\alpha\\{B\\}\\quad B \\rightarrow C} {\\{A\\} \\alpha \\{C\\}} \\text{ (rule of consequence 1)} $$","ok":true,"err":null}
@@ -72539,6 +72703,9 @@
 {"k":"inline","x":"$\\le 2^\\omega$","ok":true,"err":null}
 {"k":"inline","x":"$L_{\\infty \\omega }$","ok":true,"err":null}
 {"k":"inline","x":"$\\omega _{i}$","ok":true,"err":null}
+{"k":"display","x":"$$\\begin{align*} & \\mathtt{@_a a} \\\\ & \\mathtt{@_a b \\rightarrow @_b a} \\\\ &(\\mathtt{@_a b \\amp @_b c) \\rightarrow @_a c} \\end{align*}$$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$ (\\mathtt{@_ab \\amp @_a\\phi) \\rightarrow @_b\\phi} $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\mathtt{(a=b \\amp \\phi(a)) \\rightarrow \\phi(b)}$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$ \\mathtt{\\phi}$","ok":true,"err":null}
 {"k":"inline","x":"$. More formally, we adopt the convention that$","ok":true,"err":null}
 {"k":"inline","x":"$f : D \\rightarrow \\mathbf{R}$","ok":true,"err":null}
@@ -74429,10 +74596,49 @@
 {"k":"inline","x":"$x :( R \\wedge \\neg [ c \\cdot x ]: R ) \\rightarrow ( R \\wedge \\neg [ c \\cdot x ]: R)$","ok":true,"err":null}
 {"k":"inline","x":"$x :( R \\wedge \\neg [ c \\cdot x ]: R ) \\rightarrow \\neg [ c \\cdot x ]: R$","ok":true,"err":null}
 {"k":"inline","x":"$\\neg x :( R \\wedge \\neg [ c \\cdot x ]: R)$","ok":true,"err":null}
+{"k":"inline","x":"$\\lpar$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$(A \\lpar \\neg A)$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\bang$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$\\bang B$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$\\quest$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$\\quest B$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$B \\limp C$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$B^{\\bot} \\lpar C$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\bang B \\limp C$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$\\bang (B \\amp C) \\equiv (\\bang B \\otimes \\bang C)$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$\\quest(B \\oplus C) \\equiv (\\quest B \\lpar \\quest C)$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$(\\bang\\top \\equiv 1)$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$(\\quest 0 \\equiv \\bot)$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$(B \\limp C) \\amp(C \\limp B)$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta,\\one \\vdash \\Gamma}\\ \\one L \\qquad \\frac{}{\\vdash \\one}\\ \\one R $$","ok":false,"err":"Undefined control sequence \\one"}
+{"k":"display","x":"$$\\frac{\\Delta, B_1,B_2 \\vdash \\Gamma}{\\Delta, B_1\\ot B_2 \\vdash \\Gamma}\\ \\ot L \\qquad \\frac{\\Delta_1 \\vdash B_1,\\Gamma_1 \\qquad \\Delta_2 \\vdash B_2,\\Gamma_2} {\\Delta_1, \\Delta_2 \\vdash B_1\\ot B_2,\\Gamma_{1},\\Gamma_{2}}\\ \\ot R $$","ok":false,"err":"Undefined control sequence \\ot"}
+{"k":"display","x":"$$\\frac{\\Delta_1,B_1 \\vdash \\Gamma_1 \\qquad \\Delta_2, B_2 \\vdash \\Gamma_2} {\\Delta_1,\\Delta_2, B_1\\lpar B_2 \\vdash \\Gamma_1,\\Gamma_2}\\ \\lpar L \\qquad \\frac{\\Delta \\vdash B_1, B_2,\\Gamma}{\\Delta \\vdash B_1\\lpar B_2, \\Gamma}\\ \\lpar R $$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"display","x":"$$\\frac{}{\\Delta,\\zero \\vdash \\Gamma}\\ \\zero L \\qquad \\frac{}{\\Delta \\vdash \\top,\\Gamma}\\ \\top R $$","ok":false,"err":"Undefined control sequence \\zero"}
+{"k":"display","x":"$$\\frac{\\Delta, B_i \\vdash \\Gamma} {\\Delta, B_1\\amp B_2 \\vdash \\Gamma}\\ {\\amp}L\\ (i=1,2) \\qquad \\frac{\\Delta \\vdash B_1,\\Gamma \\qquad \\Delta \\vdash B_2,\\Gamma} {\\Delta \\vdash B_1\\amp B_2,\\Gamma}\\ {\\amp}R $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang W \\quad \\frac{\\Delta, \\bang B, \\bang B \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang C \\quad \\frac{\\Delta,B \\vdash \\Gamma}{\\Delta, \\bang B \\vdash \\Gamma}\\ \\bang D \\quad \\frac{\\bang\\Delta \\vdash B,\\quest\\Gamma}{\\bang\\Delta \\vdash \\bang B,\\quest\\Gamma}\\ \\bang R $$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"display","x":"$$\\frac{\\Delta \\vdash \\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest W \\quad \\frac{\\Delta \\vdash \\quest B, \\quest B,\\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest C \\quad \\frac{\\Delta \\vdash B,\\Gamma}{\\Delta \\vdash \\quest B,\\Gamma}\\ \\quest D \\quad \\frac{\\bang\\Delta,B \\vdash \\quest\\Gamma}{\\bang\\Delta,\\quest B \\vdash \\quest\\Gamma}\\ \\quest L $$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$\\bot , \\lpar$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$(B \\lpar C)$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$(B \\amp C)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{L}}{\\Up{\\Psi}{\\Delta}{\\bot,L}}\\ [\\bot] \\qquad \\frac{\\Up{\\Psi,F}{\\Delta}{L}} {\\Up{\\Psi}{\\Delta}{\\quest F,L}}\\ [\\quest] $$","ok":false,"err":"Undefined control sequence \\Up"}
+{"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{F_1,F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\lpar F_2,L}}\\ [\\lpar] \\qquad \\frac{\\Up{\\Psi}{\\Delta}{F_1,L}\\quad \\Up{\\Psi}{\\Delta}{F_2,L}} {\\Up{\\Psi}{\\Delta}{F_1\\amp F_2,L}}\\ [\\amp] $$","ok":false,"err":"Undefined control sequence \\Up"}
 {"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta,F}{L}}{\\Up{\\Psi}{\\Delta}{F,L}} \\ [R\\Uparrow]\\ \\text{provided that $F$ is not asynchronous} $$","ok":false,"err":"Undefined control sequence \\Up"}
+{"k":"display","x":"$$\\frac{}{\\Down{\\Psi}{\\cdot}{\\one}}\\ [\\one] \\qquad \\frac{\\Down{\\Psi}{\\Delta_1}{F_1}\\quad \\Down{\\Psi}{\\Delta_2}{F_2}} {\\Down{\\Psi}{\\Delta_1,\\Delta_2}{F_1\\ot F_2}} \\ [\\ot] \\qquad \\frac{\\Up{\\Psi}{\\cdot}{F}}{\\Down{\\Psi}{\\cdot}{\\bang F}} \\ [\\bang] $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"display","x":"$$\\frac{\\Up{\\Psi}{\\Delta}{F}}{\\Down{\\Psi}{\\Delta}{F}} \\ [R\\Downarrow]\\ \\text{provided that $F$ is either asynchronous or an atom} $$","ok":false,"err":"Undefined control sequence \\Up"}
 {"k":"display","x":"$$\\frac{}{\\Down{\\Psi}{A}{A^{\\perp}}} \\ [I_1] \\qquad \\frac{}{\\Down{\\Psi,A}{\\cdot}{A^{\\perp}}} \\ [I_2]\\ \\text{where } A \\text{ is an atom} $$","ok":false,"err":"Undefined control sequence \\Down"}
 {"k":"display","x":"$$\\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi}{\\Delta,F}{\\cdot}} \\ [D_1] \\qquad \\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi,F}{\\Delta}{\\cdot}} \\ [D_2]\\ \\text{where } F \\text{ is a positive formula} $$","ok":false,"err":"Undefined control sequence \\Down"}
+{"k":"inline","x":"$\\vdash \\Gamma , (A_1\\lpar A_2), \\ldots ,(A_{n-1}\\lpar A_n)$","ok":false,"err":"Undefined control sequence \\lpar"}
+{"k":"inline","x":"$\\quest\\Gamma$","ok":false,"err":"Undefined control sequence \\quest"}
+{"k":"inline","x":"$A \\limp B$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$B^{\\bot} \\limp A^{\\bot}$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$\\limp , \\Rightarrow$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"inline","x":"$\\limp$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"display","x":"$$ \\frac{} {\\Gamma;\\Delta \\vdash \\top}\\ \\top R \\qquad \\frac{\\Gamma;\\Delta \\vdash B \\qquad \\Gamma;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\amp C}\\ {\\amp}R $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\frac{\\Gamma;\\Delta, B \\vdash C} {\\Gamma;\\Delta \\vdash B \\limp C}\\ \\limp R \\qquad \\frac{\\Gamma,B ;\\Delta \\vdash C} {\\Gamma;\\Delta \\vdash B \\Rightarrow C}\\ {\\Rightarrow}R \\qquad \\frac{\\Gamma;\\Delta \\vdash B[y/x]} {\\Gamma;\\Delta \\vdash \\forall x. B}\\ \\forall R $$","ok":false,"err":"Undefined control sequence \\limp"}
+{"k":"display","x":"$$ \\frac{\\Gamma;\\Delta \\lvdash{D_1} A} {\\Gamma;\\Delta \\lvdash{D_1\\amp D_2}\\, A} \\ {\\amp}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D_2} A} {\\Gamma;\\Delta \\lvdash{D_1\\amp D_2} A}\\ {\\amp}L \\qquad \\frac{\\Gamma;\\Delta \\lvdash{D[t/x]} A} {\\Gamma;\\Delta \\lvdash{\\forall_{\\tau}x.D} A}\\ \\forall L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
+{"k":"display","x":"$$\\frac{\\Gamma;\\Delta_1 \\vdash G \\quad \\Gamma;\\Delta_2 \\lvdash{D} A} {\\Gamma;\\Delta_1,\\Delta_2 \\lvdash{G\\limp D} A} \\ {\\limp}L \\qquad \\frac{\\Gamma;\\cdot \\vdash G \\quad \\Gamma;\\Delta \\lvdash{D} A} {\\Gamma;\\Delta \\lvdash{G\\Rightarrow D} A}\\ {\\Rightarrow}L $$","ok":false,"err":"Undefined control sequence \\lvdash"}
+{"k":"inline","x":"$\\bang'$","ok":false,"err":"Undefined control sequence \\bang"}
+{"k":"inline","x":"$\\quest'$","ok":false,"err":"Undefined control sequence \\quest"}
 {"k":"inline","x":"$T_{n}$","ok":true,"err":null}
 {"k":"inline","x":"$L_{n}$","ok":true,"err":null}
 {"k":"inline","x":"$T_{1}^{(n)}$","ok":true,"err":null}
@@ -76471,6 +76677,14 @@
 {"k":"inline","x":"$\\Uparrow A$","ok":true,"err":null}
 {"k":"inline","x":"$\\langle W, \\Uparrow A(\\preceq) \\rangle$","ok":true,"err":null}
 {"k":"inline","x":"$v \\models \\varphi.$","ok":true,"err":null}
+{"k":"display","x":"$$\\varphi\\geq^{\\forall\\exists}\\psi \\coloneq U(\\varphi\\rightarrow\\lozenge^{\\geq}\\psi).$$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi\\geq^{\\forall\\exists}\\psi \\coloneq U(\\varphi\\rightarrow\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
+{"k":"inline","x":"$\\varphi\\geq^{\\exists\\exists}\\psi \\coloneq E(\\varphi\\land\\langle\\geq\\rangle\\psi)$","ok":true,"err":null}
+{"k":"inline","x":"$\\llbracket \\varphi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\forall v \\in \\llbracket \\psi \\rrbracket _{\\mathcal{M}}\\exists u \\in \\llbracket \\varphi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\llbracket \\psi \\rrbracket _{\\mathcal{M}}$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"display","x":"$$\\mathcal{M}, w \\models \\varphi \\geq \\psi \\text{ iff } \\begin{cases} (1) \\ \\forall x \\in \\llbracket\\varphi\\rrbracket_w \\ \\exists y \\in \\llbracket\\psi\\rrbracket_w : x \\succeq_w y; \\\\ (2) \\ \\forall x \\in \\llbracket\\psi\\rrbracket_w \\ \\exists y \\in \\llbracket\\varphi\\rrbracket_w : y \\succeq_w x \\end{cases}$$","ok":false,"err":"Undefined control sequence \\llbracket"}
+{"k":"inline","x":"$\\llbracket\\varphi\\rrbracket_w$","ok":false,"err":"Undefined control sequence \\llbracket"}
 {"k":"inline","x":"$\\neg BC(x),$","ok":true,"err":null}
 {"k":"inline","x":"$B\\neg C(x),$","ok":true,"err":null}
 {"k":"display","x":"$$\\pi:=?\\varphi \\mid R\\mid R^{<} \\mid \\top\\mid ;\\mid \\cup.$$","ok":true,"err":null}
@@ -77123,8 +77337,69 @@
 {"k":"inline","x":"$\\rA\\multimap\\rB$","ok":false,"err":"Undefined control sequence \\rA"}
 {"k":"inline","x":"$\\neg\\rA\\parr\\rB$","ok":false,"err":"Undefined control sequence \\rA"}
 {"k":"inline","x":"$\\rA\\multimap\\rA$","ok":false,"err":"Undefined control sequence \\rA"}
+{"k":"inline","x":"$\\Prov$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"$\\exists p \\, \\Proof(p,x)$","ok":false,"err":"Undefined control sequence \\Proof"}
+{"k":"inline","x":"$\\Proof$","ok":false,"err":"Undefined control sequence \\Proof"}
+{"k":"inline","x":"$\\Proof(p,x)$","ok":false,"err":"Undefined control sequence \\Proof"}
+{"k":"inline","x":"$\\Prov (\\ulcorner A \\urcorner)$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"$B \\leftrightarrow \\Prov(\\ulcorner B \\urcorner)$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"$\\Prov(\\ulcorner B \\urcorner) \\rightarrow B$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"display","x":"$$ \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\rightarrow B\\urcorner ) \\rightarrow \\Prov(\\ulcorner B \\urcorner ). $$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"$\\PA \\vdash A$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A \\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A\\rightarrow B\\urcorner) \\rightarrow ( \\Prov(\\ulcorner A \\urcorner ) \\rightarrow \\Prov(\\ulcorner B \\urcorner ));$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A \\urcorner ) \\rightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner A \\urcorner ) \\urcorner ).$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\GL \\vdash A$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$\\Box\\Diamond A \\rightarrow \\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$A(p),$","ok":true,"err":null}
+{"k":"display","x":"$$ \\GL \\vdash B \\leftrightarrow A(B). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$ \\GL \\vdash C \\leftrightarrow A(C)$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$ \\GL \\vdash B \\leftrightarrow C$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"display","x":"$$ \\GL \\vdash \\neg\\,\\Box\\bot \\leftrightarrow \\neg\\,\\Box(\\neg\\,\\Box\\bot). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"display","x":"$$\\begin{align} \\Gamma &= \\{\\Diamond p_0, \\Box(p_0 \\rightarrow \\Diamond p_1), \\Box(p_1 \\rightarrow \\Diamond p_2), \\Box(p_2 \\rightarrow \\Diamond p_3), \\ldots, \\\\ &\\qquad\\ \\Box(p_n \\rightarrow \\Diamond p_{n+1}), \\ldots\\} \\end{align}$$","ok":true,"err":null}
+{"k":"inline","x":"$f(\\Box B) = \\Prov(\\ulcorner f(B)\\urcorner ).$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"display","x":"$$ \\text{If } \\GL \\vdash A, \\text{then for all realizations } f, \\PA \\vdash f(A).$$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner A \\rightarrow B\\urcorner ) \\rightarrow (\\Prov(\\ulcorner A\\urcorner ) \\rightarrow \\Prov(\\ulcorner B\\urcorner )) $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\text{If } \\PA \\vdash A, \\text{then } \\PA \\vdash \\Prov(\\ulcorner A\\urcorner ), $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A\\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash B \\leftrightarrow C(\\ulcorner B\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash B \\leftrightarrow (\\Prov(\\ulcorner B\\urcorner ) \\rightarrow A). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\leftrightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\rightarrow A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow (\\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner ) \\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner )). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow \\Prov(\\ulcorner \\Prov(\\ulcorner B\\urcorner )\\urcorner ), $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow \\Prov(\\ulcorner A\\urcorner ). $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$PA \\vdash \\Prov(\\ulcorner A\\urcorner ) \\rightarrow A$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"display","x":"$$ \\PA \\vdash \\Prov(\\ulcorner B\\urcorner ) \\rightarrow A. $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash B$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner B\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\PA \\vdash A, $$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\neg\\, \\Prov(\\ulcorner \\bot\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\bot$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\GL \\vdash A \\text{ if and only if for all realizations } f, \\PA \\vdash f(A). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$\\Prov(\\ulcorner f(p)\\urcorner ) \\vee \\Prov(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"inline","x":"$\\PA \\vdash f(p)$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\Prov(\\ulcorner f(p)\\urcorner ) \\vee \\Prov(\\ulcorner \\neg\\, f(p)\\urcorner )$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"inline","x":"$\\PA \\vdash \\neg\\, f(p)$","ok":false,"err":"Undefined control sequence \\PA"}
+{"k":"display","x":"$$ \\forall y \\le \\bs\\bs 0 \\: \\forall z \\le y \\: \\forall x \\le y + z \\: (x + y \\le (y+(y+z))), $$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"inline","x":"$\\bs$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"display","x":"$$ A(0) \\wedge \\forall x\\, (A(x) \\rightarrow A(\\bs x)) \\rightarrow \\forall x \\, A(x) $$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"inline","x":"$\\Prov_T$","ok":false,"err":"Undefined control sequence \\Prov"}
+{"k":"display","x":"$$ \\GL \\vdash A \\text{ if and only if for all realizations } f,T \\vdash f(A). $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$\\interprets$","ok":false,"err":"Undefined control sequence \\interprets"}
+{"k":"inline","x":"$A \\interprets B$","ok":false,"err":"Undefined control sequence \\interprets"}
+{"k":"inline","x":"$\\bs\\bs\\ldots\\bs 0$","ok":false,"err":"Undefined control sequence \\bs"}
+{"k":"inline","x":"$\\Box\\Diamond p \\rightarrow \\Box\\bot$","ok":true,"err":null}
+{"k":"display","x":"$$ \\text{if } \\GL \\vdash \\Box A \\rightarrow A, \\text{ then } \\GL \\vdash A. $$","ok":false,"err":"Undefined control sequence \\GL"}
+{"k":"inline","x":"$\\vdash \\Box\\Diamond A \\rightarrow \\Box B$","ok":true,"err":null}
 {"k":"inline","x":"$, the two formulas$","ok":true,"err":null}
+{"k":"inline","x":"$\\Diamond C$","ok":true,"err":null}
+{"k":"inline","x":"$\\vdash \\Diamond A \\rightarrow (\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
+{"k":"inline","x":"$\\vdash \\Box\\Diamond A \\rightarrow \\Box(\\Box \\bot \\rightarrow \\bot)$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\Diamond A$","ok":true,"err":null}
+{"k":"inline","x":"$\\bigvee\\{\\Diamond x \\mid x \\in X \\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Diamond\\bigvee X = \\bigvee\\{\\Diamond x \\mid x \\in X \\}$","ok":true,"err":null}
+{"k":"inline","x":"$\\Box\\Diamond\\top\\rightarrow \\Box(\\Box(\\Box p \\rightarrow p) \\rightarrow p)$","ok":true,"err":null}
 {"k":"inline","x":"$B\\rightarrow(A\\vee B)$","ok":true,"err":null}
 {"k":"inline","x":"$((A\\rightarrow B) \\amp(A\\rightarrow C))\\rightarrow(A\\rightarrow(B \\amp C))$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$((A\\rightarrow C) \\amp(B\\rightarrow C))\\rightarrow((A\\vee B)\\rightarrow C)$","ok":false,"err":"Undefined control sequence \\amp"}
@@ -77159,15 +77434,34 @@
 {"k":"inline","x":"$A \\rightarrow B, B \\rightarrow C \\vdash A \\rightarrow C$","ok":true,"err":null}
 {"k":"inline","x":"$(A\\rightarrow A)$","ok":true,"err":null}
 {"k":"inline","x":"$B\\rightarrow A$","ok":true,"err":null}
+{"k":"inline","x":"$\\neg \\diamond(p \\amp \\neg q)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"display","x":"$$\\begin{align} & (p \\amp \\neg p) \\rightarrow q, \\\\ & p \\rightarrow(q \\rightarrow q), \\\\ & p \\rightarrow(q \\vee \\neg q). \\end{align}$$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$A \\prurel B$","ok":false,"err":"Undefined control sequence \\prurel"}
+{"k":"inline","x":"$p \\prurel (q \\prurel q)$","ok":false,"err":"Undefined control sequence \\prurel"}
 {"k":"inline","x":"$(R$","ok":true,"err":null}
+{"k":"inline","x":"$(A \\rightarrow B) \\amp A$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$((A \\rightarrow B) \\amp A) \\rightarrow B$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(p \\amp \\neg p) \\rightarrow q$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$((A \\rightarrow B) \\amp(B \\rightarrow C)) \\rightarrow (A \\rightarrow C)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\{\\True\\}$","ok":false,"err":"Undefined control sequence \\True"}
+{"k":"inline","x":"$\\{\\False\\}$","ok":false,"err":"Undefined control sequence \\False"}
+{"k":"inline","x":"$\\{\\True,\\False\\}$","ok":false,"err":"Undefined control sequence \\True"}
 {"k":"inline","x":"$\\neg A\\vee B)$","ok":true,"err":null}
+{"k":"inline","x":"$(A \\amp B)_{\\{1,2\\}}$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$(A \\amp B)_i$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$\\mathbf{NR})$","ok":true,"err":null}
+{"k":"inline","x":"$((A \\amp(B \\vee C)) \\rightarrow((A \\amp B) \\vee(A \\amp C)))$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$c - b)$","ok":true,"err":null}
 {"k":"inline","x":"$Y, X)$","ok":true,"err":null}
 {"k":"inline","x":"$(p\\vdash q$","ok":true,"err":null}
 {"k":"inline","x":"$(p \\rightarrow q$","ok":true,"err":null}
+{"k":"display","x":"$$ \\cfrac{p\\vdash p}{\\cfrac{p,\\neg p\\vdash} {p\\amp\\neg p\\vdash}} \\qquad\\qquad \\cfrac{p\\vdash p}{\\cfrac{\\vdash p,\\neg p}{\\vdash p\\lor\\neg p}} $$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$X \\vdash A)$","ok":true,"err":null}
+{"k":"display","x":"$$ p \\amp(q \\vee r) \\vdash (p \\amp q) \\vee (p \\amp r) $$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$y, B$","ok":true,"err":null}
+{"k":"display","x":"$$ (A \\rightarrow B) \\amp(A \\rightarrow C) \\vdash A \\rightarrow (B \\amp C) $$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$v(A\\amp B)=1$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$v(A\\amp B)=0$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$a, b, c, \\dots$","ok":true,"err":null}
 {"k":"inline","x":"$Q, R, \\dots$","ok":true,"err":null}
 {"k":"inline","x":"$x, y, z, \\dots$","ok":true,"err":null}
@@ -77734,6 +78028,8 @@
 {"k":"inline","x":"$\\mathit{TS} = \\{\\emptyset\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\mathit{TS} = \\{C\\mid C \\text{ is maximal linear}\\}$","ok":true,"err":null}
 {"k":"inline","x":"$\\varphi \\leftrightarrow \\Box \\varphi$","ok":true,"err":null}
+{"k":"inline","x":"$\\tonk$","ok":false,"err":"Undefined control sequence \\tonk"}
+{"k":"inline","x":"$A \\tonk B$","ok":false,"err":"Undefined control sequence \\tonk"}
 {"k":"display","x":"$$\\label{moby} \\text{Every boat is smaller than Moby Dick.} $$","ok":false,"err":"Label 'moby' multiply defined"}
 {"k":"inline","x":"$\\refp{moby}$","ok":false,"err":"Undefined control sequence \\refp"}
 {"k":"display","x":"$$\\label{moby-frege} \\forall x (x~\\text{is a boat} \\supset x~\\text{is smaller than Moby Dick}) $$","ok":false,"err":"Label 'moby-frege' multiply defined"}
@@ -84621,6 +84917,7 @@
 {"k":"inline","x":"$\\mathcal{H} \\otimes \\mathcal{H}$","ok":true,"err":null}
 {"k":"inline","x":"${\\psi}$","ok":true,"err":null}
 {"k":"inline","x":"$(\\psi \\sim \\exp iS/\\hslash)$","ok":true,"err":null}
+{"k":"display","x":"$$ \\begin{align} & \\ket{\\text{spin up}} \\times \\ket{\\text{paper with text } \\lsq\\text{spin up}\\rsq} \\\\ & + \\ket{\\text{spin down}} \\times \\ket{\\text{paper with text } \\lsq\\text{spin down}\\rsq} \\end{align} $$","ok":false,"err":"Undefined control sequence \\lsq"}
 {"k":"inline","x":"$S, S'$","ok":true,"err":null}
 {"k":"display","x":"$$\\tag{1} P(\\lambda \\mid \\alpha) = P(\\lambda)\\,. \\label{eq:independence} $$","ok":false,"err":"Label 'eq:independence' multiply defined"}
 {"k":"inline","x":"$\\psi^*$","ok":true,"err":null}
@@ -85725,8 +86022,14 @@
 {"k":"inline","x":"$\\lambda x.\\lambda w.called(x)(w)$","ok":true,"err":null}
 {"k":"inline","x":"$\\lambda w.called(x)(w)$","ok":true,"err":null}
 {"k":"inline","x":"$Ex$","ok":true,"err":null}
+{"k":"inline","x":"$\\sigma(`v\\rsquo) = \\sigma(`u\\rsquo) + 1$","ok":false,"err":"Undefined control sequence \\rsquo"}
+{"k":"inline","x":"$`u = v\\rsquo$","ok":false,"err":"Undefined control sequence \\rsquo"}
+{"k":"inline","x":"$\\sigma(`v\\rsquo) = \\sigma(`u\\rsquo)$","ok":false,"err":"Undefined control sequence \\rsquo"}
 {"k":"inline","x":"$w, 1$","ok":true,"err":null}
+{"k":"inline","x":"$x \\in X \\amp x \\not\\in f(x) \\amp f : X \\rightarrow \\wp(X)$","ok":false,"err":"Undefined control sequence \\amp"}
+{"k":"inline","x":"$\\exists y[y \\in \\wp(X) \\amp \\langle y, x\\rangle \\in f \\amp f : X \\rightarrow \\wp(X)]$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$y) + 1$","ok":true,"err":null}
+{"k":"display","x":"$$ \\{\\langle x, y\\rangle : \\sigma(x) \\in y \\amp \\varrho(y) \\le \\sigma(\\kappa) + 1\\}. $$","ok":false,"err":"Undefined control sequence \\amp"}
 {"k":"inline","x":"$(\\varrho$","ok":true,"err":null}
 {"k":"inline","x":"$(\\ulcorner$","ok":true,"err":null}
 {"k":"inline","x":"$\\urcorner) =$","ok":true,"err":null}
@@ -88297,6 +88600,7 @@
 {"k":"inline","x":"$X_2\\phi_3$","ok":true,"err":null}
 {"k":"inline","x":"$(\\psi_{\\textrm{out}})$","ok":true,"err":null}
 {"k":"inline","x":"$(A_{\\textrm{in}} \\rightarrow A_{\\textrm{out}}),$","ok":true,"err":null}
+{"k":"inline","x":"$\\Delta p = \\Pr(E\\mid C) - \\Pr(E \\mid \\text{not-}C)$","ok":true,"err":null}
 {"k":"display","x":"$$\\tag{3}\\label{eqn:BF} BF (E) := \\frac{p(H \\mid E)}{p(\\neg H \\mid E)} \\cdot \\frac{p(\\neg H)}{p(H)} = \\frac{p(E \\mid H)}{p(E \\mid \\neg H)},$$","ok":false,"err":"Label 'eqn:BF' multiply defined"}
 {"k":"inline","x":"$p > .05$","ok":true,"err":null}
 {"k":"inline","x":"$p < .05$","ok":true,"err":null}

@@ -93,7 +93,7 @@ def main():
         'text_samples_global': sorted(
             {s for v in per_file.values() for s in v['text_samples']})[:80],
     }
-    dest = os.path.join(REPO, 'specs', '019-math-formula-audit', 'results',
+    dest = os.path.join(REPO, 'specs', '021-math-formula-audit', 'results',
                         f'{mode}-census.json')
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     with open(dest, 'w', encoding='utf-8') as fh:

@@ -6,7 +6,7 @@ r"""019 en/ 快照与上游快照的公式抽取（check_math 同口径 + 实体
 state/mathval/upstream/<slug>.html 与 en/<slug>/index.html 同脚本同口径处理，
 产 results/en-formulas.jsonl 每行 {f,i,k,x,s}（s: snapshot|upstream）。
 
-用法: python -I specs/019-math-formula-audit/bin/extract_en.py
+用法: python -I specs/021-math-formula-audit/bin/extract_en.py
 """
 import html
 import json

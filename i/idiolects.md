@@ -207,11 +207,11 @@
 
 参与争论者多聚焦卡尼扎三角形错觉（图 1）中的“边”，或 PRO（一种句法成分，语音流中并无对应物）这类情形。症结似在于：如何看待“在我们心—脑中所表征的边或句法成分之外，并无边、亦无句法成分”这一事实。共同语言的概念或许亦然。此事对认知解释之本性、以及对其间屡屡出现的表征概念之本性意味着什么，尚无定论，而这恰是认知科学哲学的核心所在。
 
-*图 1.*
+图 1
 
 ![[三个实心黑圆呈等边三角形排列，每个挖去 60 度扇形；若把扇形的边当作直线延长，即可围成等边三角形。另有三对线段，若延长则可围成另一个等边三角形。]](../assets/idiolects/Kanizsa_triangle.svg)
 
-图 1. 卡尼扎三角形（来源：[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215)，上传者 User:Fibonacci）
+图 1：卡尼扎三角形（来源：[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215)，上传者 User:Fibonacci）
 
 ### 3.3 对 I-语言视角的第二种回应：心理语言学
 

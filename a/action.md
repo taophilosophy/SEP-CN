@@ -204,15 +204,15 @@ Velleman（1989）在奠基性工作中提供了此类有影响的说明。略�
 
 (3*)
 
-$\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast})\ \amp $ $\textrm{Location}(x, \textrm{bathroom}) \amp \textrm{Time}(x, \textrm{12am}))$
+$\exists x(\textrm{Buttering}(x) \mathbin{\&} \textrm{By}(x, \textrm{Donald}) \mathbin{\&} \textrm{Object}(x, \textrm{toast})\ \mathbin{\&} $ $\textrm{Location}(x, \textrm{bathroom}) \mathbin{\&} \textrm{Time}(x, \textrm{12am}))$
 
 (4*)
 
-$\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast})\ \amp$ $\textrm{Location}(x, \textrm{bathroom}))$
+$\exists x(\textrm{Buttering}(x) \mathbin{\&} \textrm{By}(x, \textrm{Donald}) \mathbin{\&} \textrm{Object}(x, \textrm{toast})\ \mathbin{\&}$ $\textrm{Location}(x, \textrm{bathroom}))$
 
 (5*)
 
-$\exists x(\textrm{Buttering}(x) \amp \textrm{By}(x, \textrm{Donald}) \amp \textrm{Object}(x, \textrm{toast}))$
+$\exists x(\textrm{Buttering}(x) \mathbin{\&} \textrm{By}(x, \textrm{Donald}) \mathbin{\&} \textrm{Object}(x, \textrm{toast}))$
 
 于是，蕴含关系通过合取与存在量化的经典规则得到轻易解释。这一分析在形式语义学中影响巨大。它似乎蕴含：行动是事件，是具有时空定位的实体（因为它们容许时空修饰语），拥有状语修饰语所指称的性质（如谁在从事它、行动的对象是什么）。
 

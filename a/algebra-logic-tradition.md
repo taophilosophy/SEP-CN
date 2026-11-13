@@ -87,15 +87,15 @@
 
 > 我将认为 $A = B$ 与 $B = A$ 两个形式表达的是以不同方式写出的同一同一性。
 
-至于其逻辑代数的最终形式，我们转向他在《科学原理》（1874）中散布于 40 页的诸规律；此时他已把先前所用的 + 换成 $\ORjev$，显然是为进一步远离与数的代数的任何相似外表：
+至于其逻辑代数的最终形式，我们转向他在《科学原理》（1874）中散布于 40 页的诸规律；此时他已把先前所用的 + 换成 $\mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot}$，显然是为进一步远离与数的代数的任何相似外表：
 
 组合规律
 
-$$ \begin{align} A &= AA = AAA = \& c & \mbox{Law of Simplicity (p. 33)}\\ AB &= BA & \mbox{A Law of Commutativeness (p. 35)}\\ A \ORjev A & = A &\mbox{Law of Unity (p. 72)}\\ A \ORjev B &= B \ORjev A &\mbox{A Law of Commutativeness (p. 72)}\\ A(B \ORjev C) &= AB \ORjev AC & \mbox{(no name given) (p. 76)}\\ \end{align} $$
+$$ \begin{align} A &= AA = AAA = \& c & \mbox{Law of Simplicity (p. 33)}\\ AB &= BA & \mbox{A Law of Commutativeness (p. 35)}\\ A \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} A & = A &\mbox{Law of Unity (p. 72)}\\ A \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} B &= B \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} A &\mbox{A Law of Commutativeness (p. 72)}\\ A(B \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} C) &= AB \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} AC & \mbox{(no name given) (p. 76)}\\ \end{align} $$
 
 思维规律
 
-$$ \begin{align} A &= A & \mbox{Law of Identity (p. 74)}\\ Aa &= o & \mbox{Law of Contradiction (p. 74)}\\ A &= AB \ORjev Ab & \mbox{Law of Duality (p. 74)}\\ \end{align} $$
+$$ \begin{align} A &= A & \mbox{Law of Identity (p. 74)}\\ Aa &= o & \mbox{Law of Contradiction (p. 74)}\\ A &= AB \mathbin{\cdot\kern-.3em\mid\kern-.3em\cdot} Ab & \mbox{Law of Duality (p. 74)}\\ \end{align} $$
 
 至于其唯一的推理规则，杰文斯选择了代换原则——用现代术语说，这实质上是基项替换与传递性的组合。他表明如何由此导出相等的传递性；他本也可导出对称性，却未这样做。结合律缺失——它隐含于其表达式不加括号的做法之中。
 

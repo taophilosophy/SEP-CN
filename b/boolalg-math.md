@@ -76,11 +76,11 @@ $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\
 
 在模型论中，可以取任何完备 BA 中的值，而不只是两元素 BA。这种布尔值模型论约在 1950–1970 年间发展起来，但此后未受太多研究。但一个特殊情形——集合论的布尔值模型——非常处于当前集合论研究的前沿。它实际上构成看待科恩（Cohen）的力迫构造的一种等价方式，并有一些技术上的优点和缺点。在哲学上它似乎比力迫概念更令人满意。我们在此描述这个集合论情形；然后就会明白为什么只考虑完备 BA。设 B 是一个完备 BA。首先我们定义布尔值宇宙 $V(B)$。通常的集合论宇宙可与 $V$(2) 等同，其中 2 是两元素 BA。定义通过超穷递归进行，其中 $\alpha , \beta$ 是序数，$\lambda$ 是极限序数：
 
-$$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \dom(f) \subset V(B, \alpha) \text{ and } \range(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
+$$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \text{dom}(f) \subset V(B, \alpha) \text{ and } \text{range}(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
 
-其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变元被赋以布尔值宇宙的元素：
+其中 $\text{dom}(f)$ 是函数 $f$ 的定义域，$\text{range}(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变元被赋以布尔值宇宙的元素：
 
-$$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \val{x \subseteq y} &= \prod_{t \in \dom(x)} -x(t) + \val{t \in y} \\ \val{x = y} &= \val{x \subseteq y} \cdot \val{y \subseteq x} \\ \val{\neg \phi} &= -\val{\phi} \\ \val{\phi \vee \psi} &= \val{\phi} + \val{\psi} \\ \val{\exists x\phi(x)} &= \sum_{a \in V(B)} \val{\phi(a)}. \end{align*}$$
+$$\begin{align*} {\lVert x \in y \rVert} &= \sum_{t \in \text{dom}(y)} {\lVert x=t \rVert}\cdot y(t) \\ {\lVert x \subseteq y \rVert} &= \prod_{t \in \text{dom}(x)} -x(t) + {\lVert t \in y \rVert} \\ {\lVert x = y \rVert} &= {\lVert x \subseteq y \rVert} \cdot {\lVert y \subseteq x \rVert} \\ {\lVert \neg \phi \rVert} &= -{\lVert \phi \rVert} \\ {\lVert \phi \vee \psi \rVert} &= {\lVert \phi \rVert} + {\lVert \psi \rVert} \\ {\lVert \exists x\phi(x) \rVert} &= \sum_{a \in V(B)} {\lVert \phi(a) \rVert}. \end{align*}$$
 
 ## 参考文献
 

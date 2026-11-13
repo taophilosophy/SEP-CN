@@ -40,15 +40,15 @@
 
 集合上的同一关系素以自反、对称、传递著称，这正体现在下列公式均为混合逻辑的有效公式：
 
-$$\begin{align*} & \mathtt{@_a a} \\ & \mathtt{@_a b \rightarrow @_b a} \\ &(\mathtt{@_a b \amp @_b c) \rightarrow @_a c} \end{align*}$$
+$$\begin{align*} & \mathtt{@_a a} \\ & \mathtt{@_a b \rightarrow @_b a} \\ &(\mathtt{@_a b \mathbin{\&} @_b c) \rightarrow @_a c} \end{align*}$$
 
 此外，公式
 
-$$ (\mathtt{@_ab \amp @_a\phi) \rightarrow @_b\phi} $$
+$$ (\mathtt{@_ab \mathbin{\&} @_a\phi) \rightarrow @_b\phi} $$
 
 同样有效。
 
-此即替换规则。它与带等词一阶逻辑中的公式 $\mathtt{(a=b \amp \phi(a)) \rightarrow \phi(b)}$ 颇为相似（该式通常称为莱布尼茨律）。
+此即替换规则。它与带等词一阶逻辑中的公式 $\mathtt{(a=b \mathbin{\&} \phi(a)) \rightarrow \phi(b)}$ 颇为相似（该式通常称为莱布尼茨律）。
 
 除名项与满足算子，下文还考察所谓 **约束子** $\mathtt{\forall}$、$\mathtt{\downarrow}$，用以构造公式 $\mathtt{\forall a \phi}$ 与 $\mathtt{{\downarrow} a \phi}$。二者约束名项的方式不同：$\mathtt{\forall}$ 约束子仿照标准一阶全称量词对点作量化，即 $\mathtt{\forall a \phi}$ 相对于 $w$ 为真，当且仅当无论名项 $\mathtt{a}$ 指称何点，$\mathtt{\phi}$ 都相对于 $w$ 为真；$\mathtt{\downarrow}$ 约束子则把名项约束到求值点，即 $\mathtt{{\downarrow} a \phi}$ 相对于 $w$ 为真，当且仅当令 $\mathtt{a}$ 指称 $w$ 时，$\mathtt{\phi}$ 相对于 $w$ 为真。结果表明，$\mathtt{\downarrow}$ 约束子可用 $\mathtt{\forall}$ 定义（见下文）。
 

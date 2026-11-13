@@ -1,0 +1,499 @@
+{
+ "stats": {
+  "standard": 10538,
+  "expandable": 746,
+  "files_with_expandable": 29,
+  "unknown": 829
+ },
+ "expand_use": {
+  "amp": 72,
+  "rO": 5,
+  "lamp": 18,
+  "at": 9,
+  "ORjev": 7,
+  "sH": 40,
+  "sA": 17,
+  "inn": 28,
+  "sP": 1,
+  "Def": 1,
+  "Ord": 2,
+  "rD": 1,
+  "sN": 2,
+  "sT": 4,
+  "range": 3,
+  "domain": 1,
+  "uO": 2,
+  "uI": 2,
+  "Fun": 4,
+  "sI": 2,
+  "mymod": 6,
+  "IC": 71,
+  "mymin": 2,
+  "mymax": 3,
+  "dom": 4,
+  "TIME": 4,
+  "P": 9,
+  "NP": 8,
+  "PSPACE": 10,
+  "EXPTIME": 7,
+  "SPACE": 1,
+  "Diamond": 30,
+  "mcaret": 9,
+  "rG": 10,
+  "rE": 4,
+  "Pr": 8,
+  "frasl": 1,
+  "PA": 40,
+  "PRA": 5,
+  "PV": 1,
+  "EA": 2,
+  "llbracket": 29,
+  "rrbracket": 29,
+  "rsquo": 9,
+  "tCont": 3,
+  "tcont": 7,
+  "cmapsto": 5,
+  "ldquo": 1,
+  "rdquo": 1,
+  "lpar": 18,
+  "bang": 34,
+  "quest": 34,
+  "limp": 12,
+  "one": 6,
+  "ot": 6,
+  "zero": 2,
+  "coloneq": 3,
+  "Prov": 46,
+  "Proof": 3,
+  "GL": 10,
+  "bs": 12,
+  "interprets": 2,
+  "prurel": 3,
+  "True": 4,
+  "False": 4,
+  "tonk": 3,
+  "lsq": 2,
+  "rsq": 2
+ },
+ "unknown": {
+  "ket": {
+   "n": 155,
+   "files": [
+    "q/qm-relational.md",
+    "q/qm.md",
+    "q/qt-entangle.md"
+   ]
+  },
+  "mid": {
+   "n": 145,
+   "files": [
+    "c/computability.md",
+    "d/dynamic-semantics.md",
+    "e/epistemology-evolutionary.md",
+    "i/implicature-optimality-games.md",
+    "i/imprecise-probabilities.md",
+    "i/intrinsic-extrinsic.md"
+   ]
+  },
+  "ulcorner": {
+   "n": 62,
+   "files": [
+    "h/hilbert-program.md",
+    "i/intrinsic-extrinsic.md",
+    "l/logic-provability.md"
+   ]
+  },
+  "urcorner": {
+   "n": 62,
+   "files": [
+    "h/hilbert-program.md",
+    "i/intrinsic-extrinsic.md",
+    "l/logic-provability.md"
+   ]
+  },
+  "gt": {
+   "n": 56,
+   "files": [
+    "a/axiom-choice.md",
+    "c/change.md",
+    "e/ecological-genetics.md",
+    "e/epistemology-evolutionary.md",
+    "i/implicature-optimality-games.md",
+    "i/imprecise-probabilities.md"
+   ]
+  },
+  "lt": {
+   "n": 48,
+   "files": [
+    "a/actualism-possibilism-ethics.md",
+    "a/axiom-choice.md",
+    "b/boolalg-math.md",
+    "c/change.md",
+    "c/computability.md",
+    "e/ecological-genetics.md"
+   ]
+  },
+  "cfrac": {
+   "n": 33,
+   "files": [
+    "l/logic-substructural.md"
+   ]
+  },
+  "braket": {
+   "n": 27,
+   "files": [
+    "q/qm.md"
+   ]
+  },
+  "bf": {
+   "n": 26,
+   "files": [
+    "i/intuitionism.md"
+   ]
+  },
+  "succeq": {
+   "n": 25,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "lozenge": {
+   "n": 23,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "hline": {
+   "n": 19,
+   "files": [
+    "d/dynamic-semantics.md",
+    "l/logic-substructural.md",
+    "r/reasoning-analogy.md",
+    "s/schema.md"
+   ]
+  },
+  "Up": {
+   "n": 18,
+   "files": [
+    "l/logic-linear.md"
+   ]
+  },
+  "val": {
+   "n": 14,
+   "files": [
+    "b/boolalg-math.md"
+   ]
+  },
+  "Down": {
+   "n": 14,
+   "files": [
+    "l/logic-linear.md"
+   ]
+  },
+  "bigcup": {
+   "n": 13,
+   "files": [
+    "a/axiom-choice.md",
+    "b/boolalg-math.md",
+    "c/computability.md",
+    "q/quine-nf.md"
+   ]
+  },
+  "perp": {
+   "n": 13,
+   "files": [
+    "i/information-semantic.md",
+    "l/logic-linear.md"
+   ]
+  },
+  "lvdash": {
+   "n": 13,
+   "files": [
+    "l/logic-linear.md"
+   ]
+  },
+  "bigvee": {
+   "n": 11,
+   "files": [
+    "e/epsilon-calculus.md",
+    "i/intrinsic-extrinsic.md",
+    "l/logic-provability.md"
+   ]
+  },
+  "ref": {
+   "n": 9,
+   "files": [
+    "q/quantum-bayesian.md"
+   ]
+  },
+  "trianglerighteq": {
+   "n": 6,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "it": {
+   "n": 6,
+   "files": [
+    "s/social-procedures.md"
+   ]
+  },
+  "preceq": {
+   "n": 4,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "bfrac": {
+   "n": 3,
+   "files": [
+    "a/axiom-choice.md",
+    "j/justep-coherence.md"
+   ]
+  },
+  "bigcap": {
+   "n": 3,
+   "files": [
+    "a/axiom-choice.md"
+   ]
+  },
+  "bigsqcup": {
+   "n": 3,
+   "files": [
+    "b/belief-merging.md"
+   ]
+  },
+  "diamond": {
+   "n": 3,
+   "files": [
+    "d/deductivism-mathematics.md",
+    "l/logic-relevance.md"
+   ]
+  },
+  "bigwedge": {
+   "n": 2,
+   "files": [
+    "c/computability.md"
+   ]
+  },
+  "cal": {
+   "n": 2,
+   "files": [
+    "d/dynamic-semantics.md",
+    "s/social-procedures.md"
+   ]
+  },
+  "parallel": {
+   "n": 2,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "ran": {
+   "n": 1,
+   "files": [
+    "a/actualism-possibilism-ethics.md"
+   ]
+  },
+  "kern": {
+   "n": 1,
+   "files": [
+    "a/algebra-logic-tradition.md"
+   ]
+  },
+  "rm": {
+   "n": 1,
+   "files": [
+    "c/computability.md"
+   ]
+  },
+  "nsucceq": {
+   "n": 1,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "unrhd": {
+   "n": 1,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "rhd": {
+   "n": 1,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "vartriangleright": {
+   "n": 1,
+   "files": [
+    "l/logic-preference.md"
+   ]
+  },
+  "matrix": {
+   "n": 1,
+   "files": [
+    "l/logic-substructural.md"
+   ]
+  },
+  "Pr": {
+   "n": 1,
+   "files": [
+    "q/qm.md"
+   ]
+  }
+ },
+ "per_file": {
+  "a/action.md": {
+   "amp": 9
+  },
+  "a/actualism-possibilism-ethics.md": {
+   "rO": 5,
+   "lamp": 18,
+   "at": 9
+  },
+  "a/al-khunaji.md": {
+   "amp": 1
+  },
+  "a/algebra-logic-tradition.md": {
+   "ORjev": 7
+  },
+  "a/axiom-choice.md": {
+   "sH": 40,
+   "sA": 17,
+   "inn": 28,
+   "amp": 1,
+   "sP": 1,
+   "Def": 1,
+   "Ord": 2,
+   "rD": 1,
+   "sN": 2,
+   "sT": 4,
+   "range": 1,
+   "domain": 1,
+   "uO": 2,
+   "uI": 2,
+   "Fun": 4,
+   "sI": 2
+  },
+  "b/belief-merging.md": {
+   "mymod": 6,
+   "IC": 71,
+   "mymin": 2,
+   "mymax": 3
+  },
+  "b/boolalg-math.md": {
+   "dom": 4,
+   "range": 2
+  },
+  "c/change.md": {
+   "amp": 9
+  },
+  "c/computability.md": {
+   "TIME": 4,
+   "P": 9,
+   "NP": 8,
+   "PSPACE": 10,
+   "EXPTIME": 7,
+   "SPACE": 1
+  },
+  "d/diodorus-cronus.md": {
+   "Diamond": 2
+  },
+  "d/dynamic-semantics.md": {
+   "mcaret": 9
+  },
+  "e/ecological-genetics.md": {
+   "rG": 10,
+   "rE": 4
+  },
+  "e/epistemology-evolutionary.md": {
+   "Pr": 6,
+   "frasl": 1
+  },
+  "h/hilbert-program.md": {
+   "PA": 12,
+   "PRA": 5,
+   "PV": 1,
+   "EA": 2
+  },
+  "i/implicature-optimality-games.md": {
+   "llbracket": 20,
+   "rrbracket": 20,
+   "rsquo": 4
+  },
+  "i/information-semantic.md": {
+   "tCont": 3,
+   "tcont": 7,
+   "cmapsto": 5
+  },
+  "j/justep-coherence.md": {
+   "amp": 1
+  },
+  "k/kant-religion.md": {
+   "amp": 1
+  },
+  "l/logic-dynamic.md": {
+   "ldquo": 1,
+   "rdquo": 1
+  },
+  "l/logic-hybrid.md": {
+   "amp": 3
+  },
+  "l/logic-linear.md": {
+   "lpar": 18,
+   "bang": 34,
+   "quest": 34,
+   "amp": 16,
+   "limp": 12,
+   "one": 6,
+   "ot": 6,
+   "zero": 2
+  },
+  "l/logic-preference.md": {
+   "coloneq": 3,
+   "llbracket": 9,
+   "rrbracket": 9
+  },
+  "l/logic-provability.md": {
+   "Prov": 46,
+   "Proof": 3,
+   "PA": 28,
+   "Diamond": 28,
+   "GL": 10,
+   "bs": 12,
+   "interprets": 2
+  },
+  "l/logic-relevance.md": {
+   "amp": 16,
+   "prurel": 3,
+   "True": 4,
+   "False": 4
+  },
+  "l/logic-substructural.md": {
+   "amp": 8
+  },
+  "l/logical-consequence.md": {
+   "amp": 2,
+   "tonk": 3
+  },
+  "q/qm-relational.md": {
+   "lsq": 2,
+   "rsq": 2
+  },
+  "q/quine-nf.md": {
+   "rsquo": 5,
+   "amp": 5
+  },
+  "s/scientific-explanation-20th.md": {
+   "Pr": 2
+  }
+ },
+ "param_macros": [
+  "connectives-logic:hash",
+  "continuity:apart",
+  "goedel:num",
+  "goedel-incompleteness:num"
+ ]
+}
