@@ -143,3 +143,15 @@
 **并发事故与处置**：本批写回期间另一会话连续执行合并与清理，两次抹去未提交的登记册改动与未跟踪凭证；已由 `script/_tmp/gnd-c.tsv` 重建 C 段凭证、按会话记录重建另源凭证，重放后即时提交。合并另带入 4 处空重复行（Apt、Benedict XII、Benedict XVI 等），按“同键同译、一有一无”删除空行，硬错误归零。
 
 **验收**：`check_terms.py` 硬错误 0；人名缺项 3236 → 3187（含并行会话新增行与本次净偿还）；`check_all.py` 除并行会话在途的 `tasks/b/brouwer.json` 学术项外全绿。
+
+## 2026-11-14 GND D 段（50 行）
+
+**范围**：续取 120 行（Born 至 Cassirer），命中 57（exact 48／variant 9）、歧义 21、查无 42。采信 42 行，另对 8 位同姓多值名家人工定位后补入，共 50 行；凭证 `results/verify-2026-11-14-gnd-d.tsv`。
+
+**拒采 4 行**：`Brutus, Marcus Junius`（GND 生日作公元前 8—前 4 年，与通行前 85—前 42 不合）、`Cai Yong`（命中现代同名者 Wang, Cai-Yong，1961–）、`Campbell, Dugald`（GND 仅作传教士，身份不合）、`Borrows, John`（GND 地域码 USA，与加拿大法学家身份冲突，留队）。无籍属可据而跳过者：Bos、Brady、Bunt、Burstall、Callus。
+
+**人工定位 8 人**：Brentano 1838–1917（奥地利／德国）、Boyle 1627–1691（英国）、Cantor 1845–1918（丹麦／德国）、Burke 1729–1797（爱尔兰／英国）、Born 1882–1970（德国／英国）、Butler 1692–1752（英国）、Carlyle 1795–1881（英国）、Cardano 1501–1575（意大利）。
+
+**口径校正**：Byron 取英国（GND 双值德国为出版史著录）、Cassirer 取德国／美国（GND 四值取首二会误置瑞典）。
+
+**验收**：硬错误 0；人名缺项 3187 → 3137；凭证与登记册同批提交（16274f5e7），避免并行会话再次抹去未提交改动。
