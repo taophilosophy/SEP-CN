@@ -85,3 +85,5 @@
 - 结论：零转换缺陷；译文无需同步。
 
 
+
+<!-- 接力指针：下一词条 abu-bakr-al-razi（yuanwen/a/abu-bakr-al-razi.md；en/abu-bakr-al-razi/index.html） -->
