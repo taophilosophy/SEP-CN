@@ -34,7 +34,29 @@
 - 源文内部不一致忠实保留：正文「Martin (1994)」vs 书目「Martin, C.B., 1996」（源 html 同）；「theory of abilitiy」拼误（源同）；「Norman,and Wikler」「Glick, Ephraim. 2012」标点缺漏（源同）
 - 结论：零转换缺陷；译文无需同步。
 
-<!-- 接力指针：下一词条 abner-burgos（yuanwen/a/abner-burgos.md；en/abner-burgos/index.html） -->
+## abner-burgos（正式；译文 a/abner-burgos.md 存在）
+
+- 源：en/abner-burgos/index.html（1141 行）↔ yuanwen/a/abner-burgos.md（284 行）
+- 逐段核：preamble 1 段✓；§1（3 段）✓；§2（4 段 + 十章 `<dl class="sentag">` I.–X. dt/dd → `**I.**`＋段，次序完整）✓；§3（4 段）✓；§4（4 段）✓；§5（7 段）✓；§6（2 段）✓；脚注 `[^note-1..24]` ↔ 定义 24 条✓；书目 **43 条**（Works by Abner 9、Secondary 34）逐条✓；Academic Tools✓；OIR✓；Related Entries 11 条✓
+- 结构细节：`<sup>th</sup>` → Unicode ᵗʰ ✓；两处同名作者重复条目（Rosenthal 1961/1964×2/1967 在两组各出现一次）均保留，键分别 `abner-*` 与 `rosenthal-*` 不冲突✓；书目第 2 条 em 标签跨句错位（`*Alfonso’s* Rectifying the Curved*: … Treatise*`）与源 html 完全一致✓
+- 源文内部瑕疵忠实保留：`Crescas,who` 缺空格（源同）；note-14 末尾 `opinion. .` 双句点（源同）；§5 末段 `*Or Hashem*` 后无句号（源同）
+- 结论：零转换缺陷；译文无需同步。
+
+## abortion（正式；译文 a/abortion.md 存在）
+
+- 源：en/abortion/index.html（1576 行）↔ yuanwen/a/abortion.md（468 行）
+- 逐段核：preamble 3 段✓；§1（含 5 条 dt/dd 前提 + 结论段）✓；§1.1（3 段）✓；§1.2（4 段）+1.2.1（4 段 + 2 前提 dl）/1.2.2（4 段 + 2 前提 dl）✓；§1.3（4 段 + 5* dt/dd）+「Can self-defense justify abortion?」（5 段）✓；§1.4（3 段）+1.4.1（4 段）/1.4.2（1 段）✓；§1.5（2 段）✓；§1.6（1 段）✓；§2（3 段 + 3 前提 dl + 结论段）✓；§2.1（4 段）/2.2（2 段）/2.3（1 段）✓；§3（5 段 + 1*/3 dt）✓；§4（7 段）✓；§5（4 段 + 3 前提）✓；§6（3 段）+6.1–6.4（各 1 段）✓；§7（4 段）✓；书目 **52 条**（正文 37 + Further Reading 15）逐条✓；Academic Tools✓；OIR 3 条✓；Related Entries 17 条✓；无 notes.html（无脚注节）✓
+- 结构细节：`<dl class="sentag">` 的 `1.`/`4.` 转 `**1.**`，而 `1*`/`2*`/`5*` 含星号按既定护栏（2026-10-30「dt 内容含星不加粗」）转纯文本 ✓；`Moller 2011.&nbsp; A similar` 的 `&nbsp;` 保留为 `\xa0` ✓；Further Reading 子标题空壳 + 15 条按原序排入脚注定义 ✓
+- 结论：零转换缺陷；译文无需同步。
+
+## abrabanel（正式；译文 a/abrabanel.md 存在）
+
+- 源：en/abrabanel/index.html（1703 行）↔ yuanwen/a/abrabanel.md（430 行）
+- 逐段核：preamble 2 段✓；§1（1 段）✓；§1.1（5 段 + 嵌套引块内 11 行诗，`<br>` 逐行保留为 `> >`）✓；§1.2（3 段）✓；§1.3（4 段）✓；§2（4 段 + 2 段对白引块）✓；§3（3 段 + 1 大引块）✓；§4.1（3 段，其中第 3 段为无 `<p>` 的裸文本块，按 gap 收纳成段）✓；§4.2（4 段）✓；§4.3（4 段 + 2 引块）✓；§5.1（5 段 + 3 引块）✓；§5.2（2 段 + 1 引块）✓；§6（4 段 + 4 引块，其中 1 处引块为正文 `[the soul]` 起始的独立段）✓；§7（4 段，第 2 段源文无句末句号，忠实保留）✓；脚注 `[^note-1..67]` ↔ 定义 67 条✓；书目 **47 条**（Editions 6 + Secondary 41）逐条✓；Academic Tools✓；OIR✓；Related Entries 3 条（源含 `<!--…-->` 注释包裹的链接，剥注释后文本正确保留）✓
+- 结构细节：`(*due faccie*) ,`、`(*amiamo…corpe*) ,` 源文逗号前空格忠实保留✓；`16th- and 17th -century` 源文空格错位忠实保留✓；`[^davidson-1983]` 的 `*“*Medieval`（em 跨引号）与源一致✓
+- 结论：零转换缺陷；译文无需同步。
+
+<!-- 接力指针：下一词条 abraham-daud（yuanwen/a/abraham-daud.md；en/abraham-daud/index.html） -->
 
 ## abhidharma（正式；译文 a/abhidharma.md 存在）
 
