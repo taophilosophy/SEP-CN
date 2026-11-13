@@ -124,15 +124,15 @@
 
 [^note-2]: 关于记忆诸变种的讨论，见 Martin (2001, 261)。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Works
+### 原始著作
 
-### Secondary Works
+### 二手著作
 
 [^essays-2002]: *Essays on the Intellectual Powers of Man*, Brookes, Derek R. (ed.), University Park, Pennsylvania: Pennsylvania State University Press, 2002.
 [^an-1997]: *An Inquiry into the Human Mind on the Principles of Common Sense*, Brookes, Derek R. (ed.), University Park, Pennsylvania: Pennsylvania State University Press, 1997.
@@ -178,6 +178,6 @@
 
 ## 相关词条
 
-同一性 | 约翰·洛克 | 记忆 | 人格同一性 | personal identity: and ethics | 托马斯·里德 | 实体
+同一性 | 约翰·洛克 | 记忆 | 人格同一性 | 人格同一性：与伦理学 | 托马斯·里德 | 实体
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

@@ -198,33 +198,33 @@
 
 在《论无情欲》这部主要哲学著作里，阿莫要反驳的，是“灵魂可以被赋予一种被动的感官官能”这一主张；他把这一立场的源头追到笛卡尔（Amo 1734a: 13–14 [2020: 179]）[^amo-1734a]。按阿莫的理解，人类心灵是精神之一种：纯粹能动，纯粹非物质。心灵若真被赋予感知能力，它就必须能接受观念——而途径无非三种：经由“传导”（好比火把热“传导”给对象）、经由穿透（即另一实体置入其间），或经由直接接触（Amo 1734a: 5 [2020: 161]）[^amo-1734a]。阿莫论证道：无论设想心灵以这三种方式中的哪一种接受观念，都不可能。那会违逆它作为自发存在者的本质；而它的非物质本性，也排除了经接触而传递的通道（相关讨论见 Walsh 2019）[^walsh-2019]。令人困惑的是：一边主张灵魂无情欲，一边阿莫却赞同亚里士多德那句名言——“凡不在感官中的，先不在理智中”（Amo 1734b: 6）[^amo-1734b]。阿莫还肯定心灵影响身体的能力（Amo 1734a: 8 [2020: 169]）[^amo-1734a]——只是没有交代他认为这如何可能，也没有正面介入围绕前定和谐的那场辩论。尽管如此，阿莫生前就被至少一位有影响的历史学家归入沃尔夫派思想家（Ludovici 1738: §202；相关讨论见 Dyck 2025: 219–24）[^dyck-2025]。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献
 
-#### By Author
+#### 按作者
 
-#### Collections (English)
+#### 文集（英文）
 
-### Secondary Literature
+### 二手文献
 
-#### General
+#### 通论
 
-#### Section 1: Christian Thomasius
+#### 第 1 节：克里斯蒂安·托马修斯
 
-#### Section 2: Radical Philosophy
+#### 第 2 节：激进哲学
 
-#### Section 3: The Controversy between Wolff and the Pietists
+#### 第 3 节：沃尔夫与虔敬派之争
 
-#### Section 4: Alexander Gottlieb Baumgarten
+#### 第 4 节：亚历山大·戈特利布·鲍姆嘉通
 
-#### Section 5: Christian August Crusius
+#### 第 5 节：克里斯蒂安·奥古斯特·克鲁修斯
 
-#### Section 6: Women and Other Under-Represented Thinkers
+#### 第 6 节：女性与其他代表性不足的思想家
 
 [^amo-1734a]: Amo, Anton Wilhelm, 1734a [2020], *Dissertatio Inauguralis Philosophica, de humane mentis apatheia* (*On the Impassivity of the Human Mind*), Wittenberg. Translated in *Anton Wilhelm Amo’s Philosophical Dissertations on Mind and Body*, Stephen Menn and Justin Smith (eds. and trans.), Oxford: Oxford University Press, 2020. doi:10.1093/oso/9780197501627.001.0001
 [^amo-1734b]: –––, 1734b, *Disputatio Philosophica continens Ideam Distinctam eorum quae competunt vel menti vel corpori nostro vivo et organico*, Wittenberg.
