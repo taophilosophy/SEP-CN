@@ -2,7 +2,7 @@
   "slug": "zombies",
   "kind": "retranslate",
   "zh_doc": "z/zombies.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "Z-main-20261110",
       "at": "2026-11-10T03:52:21Z",
       "evidence": "直译流水线(主会话无子代理): 账本79段(77 body+oir+ack)双版齐, 分3批落盘(1-18/19-45/46-79)每批即commit; lq check守恒过(SOFT:标题机械段+斜体转书名号); compose 30178字符; italic_to_bold 22行; 批参数 model GLM-5.3-Flash 温度0.2 已登记params; 术语28行+人名17行先登记后使用"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Z-main-20261113",
+      "at": "2026-11-13T08:22:56Z",
+      "evidence": "一校（准确性，对照 yuanwen 全文）：五维对账（_r_parity）——标题 ##7/###9/####0 全等；内联 marker 97:97 逐键等次；defs 94:94 键集全等；正文段落块 62:62（对账器 63:62 差 1 为源文首块作者行 *Kirk, Robert*，byline 体例豁免）；图片 0:0；缩写键 0:0。内容抽核：笛卡尔自动机与《谈谈方法》第五部分、赫胥黎“有意识的自动机”（James 1890 Ch.5）、斯托特引文（1931: 138f.）、模仿人（Campbell 1970）、克里普克上帝造世界比喻（1972/80, 153f.）、阻断者（Leuenberger 2008; Hawthorne 2002b; Chalmers 2010, 163–165）、律则/逻辑/形而上必然性三分、可设想性论证三段式与前提（1）（2）攻击谱系（证实主义/私人语言/行为主义/功能主义、小人儿头、僵尸话语、认识论进路、亲知回应 Chalmers 1996, 172—209）、5.1 后天必然（Hill and McLaughlin 1999, 446）、5.2 现象概念策略（Loar 1999, 467/468、两难 2007）、5.3 罗素式一元论（Chalmers 2010: 151–152、Goff 幽灵论证）、5.4 反僵尸（Frankish 2007, pp. 114–116、（3）与（3*）不相容）、6.1–6.3 心理因果/进化难题（Flanagan & Polger 1995, 321）/他心（Campbell 1970, 120）、结语两引块（Chalmers 1996, 96；Loar 1990/1997, 598）——逐条对源。源文自身笔误照录不修：页码长破折号 “172—209”“297—299” 与 “159–59”（yuanwen 90/126/140 行原样）；“pp. 159–59” 同。人名登记对齐实修 4 类（md+账本 step2 同步）：查尔莫斯→登记正形查尔默斯 15 处（人名册 Chalmers 行=戴维·查尔默斯，epiphenomenalism/langer/james-ward 同形）、大卫→戴维 3 处、Katalin Balog→卡塔琳·巴洛格（zombies 行）、Philip Goff→菲利普·戈夫（zombies 行）、Frank Jackson→杰克逊（同篇已用杰克逊（1982），篇内一致）；引注组拉丁姓保留（项目惯例）；Campbell、Copeland 与 Deng 2017 三作者组保留拉丁（两人未登记，避免混合形）；未登记现代学者（Cutter/Pelczar/Stoljar/Garrett/Carruth/Taylor/Nigel Thomas 等）按 ADR-0022 无通行汉名保留英文。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Z-main-20261113",
+      "at": "2026-11-13T08:49:32Z",
+      "evidence": "二校（语体与体例，定点四检）：check_style --strict 0 违例；check_academic --strict 0 硬错误；check_math 0 公式（源无数学环境）；lq 守恒门 OK 79 段（SOFT 全为标题机械段/oir/ack 留痕）；check_prose 报 2 处——行 109 叙述长句 71 字已实修拆句（“……而得到处理——所谓现象概念”改“……而得到处理。所谓现象概念”，破折号切句改句号，md+账本 step2 同步）；行 143 弗拉纳根/波尔格引文句 83 字为 ADR-0020 直引豁免（叙述头 68 字+引文块，quote 内长句不拆）。中文强调加粗、斜体 CJK 已在组装后置转换（draft 记 italic_to_bold 22 行），本步复核无 *** 级联与 bold-spacing 违例。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Z-main-20261113",
+      "at": "2026-11-13T08:49:33Z",
+      "evidence": "三校（终校全文回读+零信任抽查）：全文 281 行回读完毕——正文 7 节全读，References 94 条 defs 与源逐键对（marker 97:97 次数全等）、学术工具四行、其他网络资源（查尔默斯文献目录链接，纽约大学）、相关词条 18:18 逐项对齐（源 “animal: consciousness/qualia: inverted/qualia: knowledge argument/modality: epistemology of/Russellian-monism” 等组合题名全部对应站内定名，compose NOTE 未匹配 2 项系 map_related 已在组装期人工补齐）、致谢段译出（Bill Fish 无通行汉名保留拉丁）。源文自身笔误照录定性 3 处（页码 172—209/297—299/159–59，yuanwen 90/126/140 行原样）。compose 归一后置修正与账本 step2 分歧属流水线常态（首次组装后修正只改 OUT，SOP 规则 3），本步在 md 层验证不改账本措辞（段 52 除外——本步 prose 实修句已同步）。复检：lq 守恒门 OK 79 段、check_style --strict 0、check_academic --strict 0、check_prose 仅余 1 处引文豁免、check_math 0。"
     }
   ],
   "blockers": [],
