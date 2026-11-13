@@ -14,7 +14,7 @@
 
 第一种立场是传统主流看法（如 Weinreich 1966; Krifka 1991; Gillon 1992）[^gillon-1992][^krifka-1991][^weinreich-1966]：在英语（或法语、德语、希腊语、意大利语等）中，普通名词分两个形态句法子类——物质名词与可数名词。物质名词（*milk*、*gold*、*furniture*、*wisdom*、*love*）的界定特征是语法数不变；可数名词（*rabbit*、*bottle*、*table*、*idea*、*set*）则单复数两用。这个基本差异还伴随可搭配限定词的不同：英语里物质名词能跟 *much*、*a lot of*，却不能跟 *one*、*many*；可数名词能跟 *one* 这类数词与 *many*，却不能跟 *much*。
 
-可众所周知，物质名词（如 *milk*）常能当可数名词用：*You should take a hot milk with some honey.*；反过来亦然：*You will find a lot of rabbit around here*。因此好几位研究者否认物质/可数之分在名词层面成立，主张它只在名词短语层面成立（如 Damourette & Pichon 1927; Pelletier 1975, 2012; Ware 1975）[^damourette-1927][^pelletier-1975][^ware-1975]。照此说，名词层面只有普通名词；普通名词随所处形态句法环境而以物质方式或可数方式使用——物质限定词（*much*、*a little*）带来物质用法（*much water*、*much table*），可数限定词（*a*、*two*）带来可数用法（*two waters*、*two tables*）。[^note-1]
+可众所周知，物质名词（如 *milk*）常能当可数名词用：*You should take a hot milk with some honey.*；反过来亦然：*You will find a lot of rabbit around here*。因此好几位研究者否认物质/可数之分在名词层面成立，主张它只在名词短语层面成立（如 Damourette & Pichon 1927; Pelletier 1975, 2012; Ware 1975）[^damourette-1927][^pelletier-1975][^pelletier-2012][^ware-1975]。照此说，名词层面只有普通名词；普通名词随所处形态句法环境而以物质方式或可数方式使用——物质限定词（*much*、*a little*）带来物质用法（*much water*、*much table*），可数限定词（*a*、*two*）带来可数用法（*two waters*、*two tables*）。[^note-1]
 
 两种立场似乎都站得住（参看 Pelletier & Schubert 2003）[^pelletier-2003]，各有拥护者。为便于阐述，本文余下部分采用主流看法。[^note-2]
 
@@ -30,7 +30,7 @@
 
 更好的尝试，是给物质名词归属一个较弱的性质。第 2 节将看到，基于分体论的进路很可能——与通常设想相反——要采用非外延的分体论，其中部分概念由和概念定义。用这样的部分概念理解分配指称，就能避开上述难题；这没什么不对，只是归给物质名词的性质会比拥护者原初主张的弱得多（此类方案见 Nicolas 2002 第 3 章）[^nicolas-2002]。本文只主张：通常设想的分配指称，并非物质名词的性质。
 
-更一般地说，似乎没有既必要又充分的语义条件能规定何谓物质名词、何谓可数名词（详见 Gillon 1992、Koslicki 1999、Nicolas 2002[^note-3]；反面意见如 Landman 2020）[^gillon-1992][^koslicki-1999][^landman-2020][^nicolas-2002]。一种语言里的物质名词（英语 *luggage*），到另一种语言里可能成可数名词（法语 *bagage*）。此分应当从句法上划定：可数名词的关键特征是容许单复数对立，物质名词不容许。于是，不标记单复数对立的语言可能没有可数名词，其普通名词的功能都类似英语物质名词，某些量词语言（如汉语普通话）或即如此（Chierchia 1998, 2010）[^chierchia-1998]。[^note-4] 另一种可能是：物质/可数之分根本不适用于这类语言。跨语言划定此分的恰当方式仍有争论（跨语言概览见 Doetjes 2012、Rothstein 2017、Bale & Barner 2018）[^bale-2018][^doetjes-2012][^rothstein-2017]。
+更一般地说，似乎没有既必要又充分的语义条件能规定何谓物质名词、何谓可数名词（详见 Gillon 1992、Koslicki 1999、Nicolas 2002[^note-3]；反面意见如 Landman 2020）[^gillon-1992][^koslicki-1999][^landman-2020][^nicolas-2002]。一种语言里的物质名词（英语 *luggage*），到另一种语言里可能成可数名词（法语 *bagage*）。此分应当从句法上划定：可数名词的关键特征是容许单复数对立，物质名词不容许。于是，不标记单复数对立的语言可能没有可数名词，其普通名词的功能都类似英语物质名词，某些量词语言（如汉语普通话）或即如此（Chierchia 1998, 2010）[^chierchia-1998][^chierchia-2010][^note-4]。[^note-4] 另一种可能是：物质/可数之分根本不适用于这类语言。跨语言划定此分的恰当方式仍有争论（跨语言概览见 Doetjes 2012、Rothstein 2017、Bale & Barner 2018）[^bale-2018][^doetjes-2012][^rothstein-2017]。
 
 本文余下部分考察含物质名词的句子如何解释，即其真值条件怎样规定。我们会看几种进路；某条进路最终不尽如人意，弄清它究竟败在何处仍然要紧——它的某些关键提议，也许能保留进（或转译进）更好的总体框架。
 

@@ -144,9 +144,9 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 最后一步保证了原理论的一致性。在基础研究看来，人们关心的正是证明规范化所用的方法。例如，通过给程序中的步骤指派序数记号——使得记号的值随每一步递减——可以获得一个 **序数分析**。
 
-在 1960 年代，Tait（1960, 1965, 2010）扩展了阿克曼的方法，获得了带超限归纳原理的算术扩充的序数分析。这一进路的更精炼的现代版本可在 Mints 2001 与 Avigad 2002b 中找到。更近时，Mints、Tupailo 与 Buchholz 考虑了更强的但仍直谓地可辩护的分析学片段，包括算术概括的理论与一个 $\Delta^{1}_1$-概括规则（Mints, Tupailo & Buchholz 1996; Mints & Tupailo 1999；另见 Mints 2016）[^mints-1999]。Arai 2002 已把 epsilon 替换方法扩展到允许沿原始递归良序迭代算术概括的理论。特别地，其工作给出了涉及超限层级与超限归纳的分析学直谓片段的序数分析。
+在 1960 年代，Tait（1960, 1965, 2010）扩展了阿克曼的方法，获得了带超限归纳原理的算术扩充的序数分析。这一进路的更精炼的现代版本可在 Mints 2001 与 Avigad 2002b 中找到。更近时，Mints、Tupailo 与 Buchholz 考虑了更强的但仍直谓地可辩护的分析学片段，包括算术概括的理论与一个 $\Delta^{1}_1$-概括规则（Mints, Tupailo & Buchholz 1996; Mints & Tupailo 1999；另见 Mints 2016）[^mints-1996][^mints-1999][^mints-1996-2]。Arai 2002 已把 epsilon 替换方法扩展到允许沿原始递归良序迭代算术概括的理论。特别地，其工作给出了涉及超限层级与超限归纳的分析学直谓片段的序数分析。
 
-在用 epsilon 替换方法分析 **非直谓** 理论方面已有一些初步步骤（见 Arai 2003, 2006 与 Mints 2015）[^arai-2003][^mints-2015]。
+在用 epsilon 替换方法分析 **非直谓** 理论方面已有一些初步步骤（见 Arai 2003, 2006 与 Mints 2015）[^arai-2003][^arai-2006][^mints-2015]。
 
 上文步骤 3 的一个变体涉及证明规范化程序对更新的选择不敏感，即 **任何** 更新序列都终止。这被称为 **强规范化。** Mints 1996 已证明所考虑的许多程序具有这种更强的性质。
 
@@ -187,7 +187,7 @@ $$ \begin{align*} & &\forall x ((\mathrm{Farmer}(x) \wedge \exists y (\mathrm{Do
 
 这种使用由选择函数索引的 epsilon 算子来处理代词的进路，使 von Heusinger 得以处理各种各样的情形（见 Egli 与 von Heusinger 1995; von Heusinger 2000）[^egli-1995][^heusinger-2000][^heusinger-2000-2]。
 
-形式语义学中 epsilon 算子的应用，以及广义的选择函数，已经受到语言学家的重大关注。Von Heusinger 与 Egli 2000a 列举了以下几种：问题的表示（Reinhart 1992）[^reinhart-1992]、特称不定词（Reinhart 1992; 1997; Winter 1997）[^reinhart-1992][^winter-1997]、E-型代词（Hintikka 与 Kulas 1985; Slater 1986; Chierchia 1992, Egli 与 von Heusinger 1995）[^chierchia-1992][^egli-1995][^hintikka-1985][^slater-1986]以及确定名词短语（von Heusinger 1997, 2004）[^heusinger-1997]。Gratzl 与 Schiemer 2017 提供了罗素与希尔伯特处理不定词方式的比较。
+形式语义学中 epsilon 算子的应用，以及广义的选择函数，已经受到语言学家的重大关注。Von Heusinger 与 Egli 2000a 列举了以下几种：问题的表示（Reinhart 1992）[^reinhart-1992]、特称不定词（Reinhart 1992; 1997; Winter 1997）[^reinhart-1992][^winter-1997]、E-型代词（Hintikka 与 Kulas 1985; Slater 1986; Chierchia 1992, Egli 与 von Heusinger 1995）[^chierchia-1992][^egli-1995][^hintikka-1985][^slater-1986]以及确定名词短语（von Heusinger 1997, 2004）[^heusinger-1997][^heusinger-2004][^heusinger-2004-2]。Gratzl 与 Schiemer 2017 提供了罗素与希尔伯特处理不定词方式的比较。
 
 关于 epsilon 算子在语言学与语言哲学中的议题与应用的讨论，见 B. H. Slater 的 epsilon 演算文章（在下文其他网络资源节中引用），以及文集 von Heusinger 与 Egli 2000 和 von Heusinger 与 Kempson 2004。
 

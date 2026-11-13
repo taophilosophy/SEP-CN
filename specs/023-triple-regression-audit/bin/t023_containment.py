@@ -24,7 +24,7 @@ SUBSUP = str.maketrans('₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸�
                        'ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ'
                        'ᵦᵧᵨᵩᵪ',
                        '01234567890123456789n+-'
-                       'abcdefghijklmnopqrstuvwxyz'
+                       'abcdefghijklmnoprstuvwxyz'
                        'βγρφχ')
 
 

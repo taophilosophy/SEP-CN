@@ -227,7 +227,7 @@ $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \la
 
 模态偏好模型 $\mathcal{M}$ 是三元组 $(W, \succeq, V)$：W 是可能世界集合，$\succeq$ 是这些世界上的二元偏好关系，V 是为这些世界中的命题字母赋真值的赋值。依语境不同，我们假定偏好关系 $\succeq$ 具有某些性质：例如可以是（全）预序，或偏序等。若选（全）预序，则严格偏好关系“$w\succ v$”可定义为“$w\succeq v\land v \nsucceq w$”，无差异关系“$w\approx v$”可定义为“$w\succeq v\land v\succeq w$”。
 
-在语法方面，给出一套模态偏好语言以表达基本的偏好关系及其性质。该语言是命题逻辑的扩充，带有两个新算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）。其真值条件定义如下：
+在语法方面，给出一套模态偏好语言以表达基本的偏好关系及其性质。该语言是命题逻辑的扩充，带有两个新算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）[^van-2009]。其真值条件定义如下：
 
 $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    当且仅当有 v 满足 $v\succeq w$，且 $\mathcal{M}$, $v \models \varphi$。
 
@@ -322,7 +322,7 @@ $$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (
 
 #### 4.2.1 优先性与偏好
 
-在选项间作决定的语境中，（Liu 2008, 2010; De Jongh & Liu 2009）[^liu-2008]引入了优先性概念。优先性表示按个人考量排序的重要属性，它们又决定选项间的偏好。
+在选项间作决定的语境中，（Liu 2008, 2010; De Jongh & Liu 2009）[^liu-2008][^liu-2010]引入了优先性概念。优先性表示按个人考量排序的重要属性，它们又决定选项间的偏好。
 
 双层结构由一个优先基与偏好构成。优先基是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区，并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
 
@@ -342,7 +342,7 @@ $$C(x) \gg Q(x) \gg N(x),$$
 
 双层结构中的线性序优先性，也可以推广到偏序的优先图（允许某些优先性不可比），甚至推广到无序的属性集合（Kratzer 1981; Liu 2011b）[^kratzer-1981][^liu-2011b]。
 
-在道义逻辑中，双层结构（其中优先性建立偏好或义务序）也已广受承认，尤其是在优先处理命令的系统中（见 Hansen 2008 与 Van Benthem, Grossi, & Liu 2010 的工作）[^hansen-2008][^liu-2010]——这将在第 7 节讨论。
+在道义逻辑中，双层结构（其中优先性建立偏好或义务序）也已广受承认，尤其是在优先处理命令的系统中（见 Hansen 2008 与 Van Benthem, Grossi, & Liu 2010 的工作）[^hansen-2008][^liu-2010][^van-2010]——这将在第 7 节讨论。
 
 信念作为理由
 
@@ -428,7 +428,7 @@ $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ 当且仅当 }\qua
 
 $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ 且 } \mathfrak{M}, t \models \neg \varphi\}.$$
 
-更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
+更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000）[^harel-2000]，即
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 

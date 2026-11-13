@@ -14,7 +14,7 @@ RQM 精化了教科书解释：哥本哈根“观察者”所扮角色中的某�
 
 这份简约的代价，是削弱经典力学所持的惯常“强”实在论——它假定物理变量具有非关系的值，且在每一时刻都存在。变量只在相互作用中取值，于是有了稀疏的事件本体论（或“闪光”本体论）；变量又以其所指涉的系统作标示，这给世界的表示添了一层索引性，也引出哲学难题。
 
-就其自身而言，RQM 在形而上学上是中立的；但它持一种强烈的关系主义立场，因而质疑强实在论（Laudisa 2019）[^laudisa-2019]，其含义见下文。正因这番对实在论的改造，RQM 先后被安放在多种哲学视角之中：建构经验论（van Fraassen 2009）[^fraassen-2009]、新康德主义（Bitbol 2007 [Other Internet Resources], Bitbol 2010）[^bitbol-2010]、反一元论（Dorato 2016）[^dorato-2016]、结构实在论（Candiotto 2017）[^candiotto-2017]、视角实在论（Massimi 2022）[^massimi-2022]、形而上学融贯论（Dorato and Morganti 2022）[^dorato-2022]，以及反基础主义的融贯论。（另见 Brown 2009、Wood 2010 [Other Internet Resources]，尤以 Calosi and Riedel 2024 的讨论最为详尽。）[^brown-2009][^calosi-2024][^riedel-2024] 它与 Dennis Dieks 的视角量子实在论（Dieks 2022, Bene and Dieks 2002）[^bene-2002][^dieks-2022]、与 QBism（Fuchs 2001, 2002 [Other Internet Resources]）[^fuchs-2001]、与 Healey 的实用主义进路（Healey 1989, 2023）[^healey-1989]，以及与 Zeilinger、Bruckner 所主张的量子理论观点（Zeilinger 1999, Brukner & Zeilinger 2003）[^brukner-2003][^zeilinger-1999]，多有相通。
+就其自身而言，RQM 在形而上学上是中立的；但它持一种强烈的关系主义立场，因而质疑强实在论（Laudisa 2019）[^laudisa-2019]，其含义见下文。正因这番对实在论的改造，RQM 先后被安放在多种哲学视角之中：建构经验论（van Fraassen 2009）[^fraassen-2009]、新康德主义（Bitbol 2007 [Other Internet Resources], Bitbol 2010）[^bitbol-2010]、反一元论（Dorato 2016）[^dorato-2016]、结构实在论（Candiotto 2017）[^candiotto-2017]、视角实在论（Massimi 2022）[^massimi-2022]、形而上学融贯论（Dorato and Morganti 2022）[^dorato-2022]，以及反基础主义的融贯论。（另见 Brown 2009、Wood 2010 [Other Internet Resources]，尤以 Calosi and Riedel 2024 的讨论最为详尽。）[^brown-2009][^calosi-2024][^riedel-2024] 它与 Dennis Dieks 的视角量子实在论（Dieks 2022, Bene and Dieks 2002）[^bene-2002][^dieks-2022]、与 QBism（Fuchs 2001, 2002 [Other Internet Resources]）[^fuchs-2001]、与 Healey 的实用主义进路（Healey 1989, 2023）[^healey-1989][^healey-2023]，以及与 Zeilinger、Bruckner 所主张的量子理论观点（Zeilinger 1999, Brukner & Zeilinger 2003）[^brukner-2003][^zeilinger-1999]，多有相通。
 
 ## 1 主要观念
 
@@ -46,13 +46,13 @@ RQM 的立论是：“不同的观察者可以对同一组事件给出不同的�
 
 在 RQM 中，量子态是一个指涉两个系统（而非一个系统）的数学装置。它编码第一个系统的变量在与第二个系统相互作用中已然实现的值（Groenewold 1957）[^groenewold-1957]；因此也编码了关于这些变量相对于第二个系统的未来取值，我们所可能预言的一切。换言之，态 $\psi$ 可视为一份可供第二个系统获取的信息汇编，由一段特定的相互作用史所决定。如此理解，量子态始终且仅是 **相对态**，即埃弗雷特（1957）意义上的相对态。就此而言，RQM 是强烈的“埃弗雷特式的”理论；但它与多世界解释不同：后者假定一个普遍波函数，各种相对态 $\psi$ 只是它的分支，而这一普遍波函数在 RQM 中毫无作用（在量子理论的任何物理应用中也一样）。
 
-量子理论的许多表述，把系统的波函数或量子态 $\psi$ 当作该系统自身的性质。在 RQM 看来，关于量子理论的种种混乱正由此而生（Rovelli 2018）[^rovelli-2018]。RQM 对量子态持一种弱实在论：量子态表示某种物理上真实的东西。例如，在经历我们称为“态制备”的程序之后，“那次制备是什么”确有其事实；制备出不同的纯量子态，对应着不同的物理事态。然而这些“事态”**相对于制备装置**，并不单单属于系统本身。正因如此，RQM 才与 ψ-本体论一类的定理相容，例如论波函数实在性的 PBR 定理（Pusey, Barrett, & Rudolph 2012; Leifer 2014）[^leifer-2014]：把 PBR 定理读作关于相对态的定理，它便适用于 RQM。RQM 与这类定理的和平共处，已在（Calosi and Oldofredi 2021）[^calosi-2021][^oldofredi-2021] 中讨论。
+量子理论的许多表述，把系统的波函数或量子态 $\psi$ 当作该系统自身的性质。在 RQM 看来，关于量子理论的种种混乱正由此而生（Rovelli 2018）[^rovelli-2018]。RQM 对量子态持一种弱实在论：量子态表示某种物理上真实的东西。例如，在经历我们称为“态制备”的程序之后，“那次制备是什么”确有其事实；制备出不同的纯量子态，对应着不同的物理事态。然而这些“事态”**相对于制备装置**，并不单单属于系统本身。正因如此，RQM 才与 ψ-本体论一类的定理相容，例如论波函数实在性的 PBR 定理（Pusey, Barrett, & Rudolph 2012; Leifer 2014）[^leifer-2014][^pusey-2012]：把 PBR 定理读作关于相对态的定理，它便适用于 RQM。RQM 与这类定理的和平共处，已在（Calosi and Oldofredi 2021）[^calosi-2021][^oldofredi-2021] 中讨论。
 
 另一方面，RQM 不用系统的 **绝对** 态这一概念，也不取其他解释中的常见想法——量子态可表示关于该系统的“全部所是”。这种对态的“强实在论”解读，RQM 放弃之。在此意义上，RQM 对波函数的解释近似于经典力学对哈密顿-雅可比泛函的解释：一种理论工具，用以依据关于某个事态的已知信息，便利地算出未来事件的概率。波函数 $\psi$ 与哈密顿-雅可比泛函 $S$ 之间不止是类比：在半经典近似下，后者逼近前者（$\psi \sim \exp iS/\hslash$）。这一数学关系可作反对 $\psi$ 强实在论解读的论据，理由如下：对物理理论数学装置中量 A 的解释，必须与该量在近似下所归约为的东西的解释相容。举例说，经典粒子的哈密顿-雅可比函数并无强实在论解释；我们在计算中明确使用的哈密顿-雅可比函数，会随我们对系统的了解而坍缩、跳跃——量子波函数亦然。
 
 剥去量子态的强实在论解释，量子跃迁与坍缩之谜也随之消散。RQM 的态相对于某一系统，这正解释了它为何会随两系统相互作用而跳跃。
 
-经典力学里，哈密顿-雅可比泛函可以不用——这正说明它没有直接的本体论分量。量子理论中的 $\psi$ 同样可以不用。证据是：量子力学形式体系的整个早期发展（Heisenberg 1925; Born & Jordan 1925; Dirac 1925; Born, Heisenberg, & Jordan 1926）[^born-1925][^dirac-1925][^heisenberg-1925] 早于引入 $\psi$ 的工作（Schrödinger 1926）[^schrödinger-1926]。量子力学可以不提量子态，而表述为关于事件序列之概率的理论：态 $\psi$ 是称手的工具，却非必需之物。
+经典力学里，哈密顿-雅可比泛函可以不用——这正说明它没有直接的本体论分量。量子理论中的 $\psi$ 同样可以不用。证据是：量子力学形式体系的整个早期发展（Heisenberg 1925; Born & Jordan 1925; Dirac 1925; Born, Heisenberg, & Jordan 1926）[^born-1925][^born-1926][^dirac-1925][^heisenberg-1925] 早于引入 $\psi$ 的工作（Schrödinger 1926）[^schrödinger-1926]。量子力学可以不提量子态，而表述为关于事件序列之概率的理论：态 $\psi$ 是称手的工具，却非必需之物。
 
 Heilbron 与 Rovelli（2023）认为，薛定谔的波动力学尽管用途极广，在概念上却有误导之嫌：它助长了对 $\psi$ 本体论作用的错误强调。
 
@@ -105,7 +105,7 @@ RQM 的离散本体论似乎带来一个难题：事件发生的 **时机** 由�
 
 Zeilinger-Bruckner：关系性解释与 Zeilinger、Bruckner 所发展的量子理论观点相近：（Zeilinger 1999, Brukner & Zeilinger 2003）[^brukner-2003][^zeilinger-1999]独立提出了与 RQM 原初公设类似的公设。这些想法催生了一批有趣的数学工作，意在精确地从信息论公设导出量子理论的形式体系。该纲领中与 RQM 相关的版本，见（Grinbaum 2005; Höhn 2017; Höhn & Wever 2017）[^grinbaum-2005][^höhn-2017][^höhn-2017-2]。
 
-QBism：Rovelli（1996）对信息的强调，影响了 QBism 的诞生（见 Fuchs 1998: 3, 2001, 2002 [Other Internet Resources]）[^fuchs-1998]。RQM 与 QBism 颇有相似（Pienaar 2021b）[^pienaar-2021b]：其一，都强调放弃被认为无意义的问题；其二，都使用信息论语言（Spekkens 2014）[^spekkens-2014]。差别主要在如何对待持有信息的主体。QBism 以 **能动者** 与 **经验** 为基本观念（DeBrota 2018 [Other Internet Resources]），二者在 RQM 中却不起作用：RQM 把主体彻底自然化，主体本身就是一个可由量子理论描述的物理系统。这导向一种强于 QBism 的实在论，也导向对所有变量关系性一面的强调。QBism 的重点，是单一主体所持有的关于世界的信息，并以此为本原；RQM 的信息则是一物理系统关于另一系统所拥有的相对信息（香农意义），并非本原（见 Dorato 2017）[^dorato-2017]：它可以被简单地物理理解为两系统间的关联，且可由第三个系统观察到。Steven French（2024, 2024b）借 Michela Massimi 视角实在论（Massimi 2022）[^massimi-2022]所论的两种视角主义（“perspectival₁”“perspectival₂”），梳理了 QBism 与 RQM 的关系。
+QBism：Rovelli（1996）对信息的强调，影响了 QBism 的诞生（见 Fuchs 1998: 3, 2001, 2002 [Other Internet Resources]）[^fuchs-1998][^fuchs-2001]。RQM 与 QBism 颇有相似（Pienaar 2021b）[^pienaar-2021b]：其一，都强调放弃被认为无意义的问题；其二，都使用信息论语言（Spekkens 2014）[^spekkens-2014]。差别主要在如何对待持有信息的主体。QBism 以 **能动者** 与 **经验** 为基本观念（DeBrota 2018 [Other Internet Resources]），二者在 RQM 中却不起作用：RQM 把主体彻底自然化，主体本身就是一个可由量子理论描述的物理系统。这导向一种强于 QBism 的实在论，也导向对所有变量关系性一面的强调。QBism 的重点，是单一主体所持有的关于世界的信息，并以此为本原；RQM 的信息则是一物理系统关于另一系统所拥有的相对信息（香农意义），并非本原（见 Dorato 2017）[^dorato-2017]：它可以被简单地物理理解为两系统间的关联，且可由第三个系统观察到。Steven French（2024, 2024b）借 Michela Massimi 视角实在论（Massimi 2022）[^massimi-2022]所论的两种视角主义（“perspectival₁”“perspectival₂”），梳理了 QBism 与 RQM 的关系。
 
 Richard Healey：Healey 的实用主义进路（Healey 1989）[^healey-1989]与 RQM 共有如下看法：量子态不是对物理实在的描述，连不完备的描述也不是；其主要功能是充当计算概率的（可弃置的）工具。二者的主要差别，在于强调量子态相对于什么。在 Healey 的实用主义看来，量子态归属 **仅** 相对于某个现实或潜在能动者的视角（Healey 2012）[^healey-2012]；在 RQM 中，值相对于任何物理系统。把量子理论限于能动者的使用，对 Healey 的实用主义哲学并不构成问题；但在自然主义视角下就较为要紧——这种视角寻求对自然的理解，且要求这理解在没有能动者时也依然有意义。这与 RQM 同 QBism 的差别相同，不过 Healey 的立场比 QBism 更近 RQM：QBism 的量子态归属取决于能动者的认知状态，Healey 则只取决于界定该能动者视角的物理环境。
 
@@ -155,7 +155,7 @@ Dorato 指出 RQM 的第二个特征：既然如此，把握尚未相互作用�
 
 Richard Healey 曾在两篇文章中讨论 RQM。第一篇（2021）质疑：在量子引力的语境下，测量结果的观察者相对性能否与科学客观性的基本规范相调和。第二篇（2022）则对 RQM 的主要论题转为更同情的态度——量子测量结果应被视为相对而非绝对的事实——，并将 RQM 与其实用主义量子理论观相较。他论证：Adlam & Rovelli 2023 的 RQM 版本化解了他此前的主要反对（其相对事实的本体论与科学客观性不相容，并削弱量子理论的证据基础），使 RQM 与其实用主义观点更为贴近。
 
-Steven French（2024）讨论了 RQM 与 Fritz London、Edmund Bauer 1939 年给出的量子测量“大陆哲学”说明之间的关系。Andrea Oldofredi（2021）论证 RQM 易与科学实在论相容，其语境是一种性质本体论（Oldofredi 2021）[^oldofredi-2021]；他还讨论了 RQM 解决测量问题的确切方式（Oldofredi 2022）[^oldofredi-2022]。Juan Sebastian Ardenghi 与 Olimpia Lombardi（2022）讨论了 RQM 与模态-哈密顿解释的关系，认为两种解释互补。（Martin-Dussaud, 2023）提出了相对事实概念的数学形式化。
+Steven French（2024）讨论了 RQM 与 Fritz London、Edmund Bauer 1939 年给出的量子测量“大陆哲学”说明之间的关系。Andrea Oldofredi（2021）论证 RQM 易与科学实在论相容，其语境是一种性质本体论（Oldofredi 2021）[^oldofredi-2021]；他还讨论了 RQM 解决测量问题的确切方式（Oldofredi 2022）[^oldofredi-2022]。Juan Sebastian Ardenghi 与 Olimpia Lombardi（2022）讨论了 RQM 与模态-哈密顿解释的关系，认为两种解释互补。（Martin-Dussaud, 2023）[^martin-dussaud-2023]提出了相对事实概念的数学形式化。
 
 ### 3.2 关系性与实在论
 

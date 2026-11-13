@@ -39,9 +39,9 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 线性逻辑对蕴涵“$A \Rightarrow B$”的解释又拐了个弯：现在可读作“给我 **所需数目的** $A$，我就给你 **一个** $B$”。计算观念里居于核心的 **复制** 概念，就此接进了逻辑。新视角开辟出新可能：
 
-- **新公式**，表达更精细的操作性质，如“给我一次 $A$，我就给你 $B$”。应用从精化的逻辑编程（用线性逻辑表示状态）（Hodas & Miller, 1994），到对经典逻辑及其计算解释的分析（Abramsky 1993）[^abramsky-1993]，到编程语言异常机制的规格说明（Miller, 1996），再到线性分析（Wadler, 1991）。
-- **新规则**，约束复制的使用，只举最惊人的应用：由此得到用于多项式时间计算的线性逻辑片段（Baillot & Terui, 2004, Baillot 2015）[^baillot-2015]。
-- **新方式**，用来表示证明（Abramsky & Jagadeesan, 1994, Girard 1987）[^girard-1987]。
+- **新公式**，表达更精细的操作性质，如“给我一次 $A$，我就给你 $B$”。应用从精化的逻辑编程（用线性逻辑表示状态）（Hodas & Miller, 1994）[^hodas-1994]，到对经典逻辑及其计算解释的分析（Abramsky 1993）[^abramsky-1993]，到编程语言异常机制的规格说明（Miller, 1996）[^miller-1996]，再到线性分析（Wadler, 1991）[^wadler-1991]。
+- **新规则**，约束复制的使用，只举最惊人的应用：由此得到用于多项式时间计算的线性逻辑片段（Baillot & Terui, 2004, Baillot 2015）[^baillot-2015][^baillot-2004]。
+- **新方式**，用来表示证明（Abramsky & Jagadeesan, 1994, Girard 1987）[^abramsky-1994][^girard-1987]。
 
 ## 2 证明系统
 
@@ -173,7 +173,7 @@ $$ \mathrm{EX}(\sigma ,M) = (1-\sigma^2) \left(\sum_i M(\sigma M)\right) (1-\sig
 
 MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL（Gunter & Gehlot 1989）[^gunter-1989]，而该问题等价于带状态向量加法系统（VASS）的可达性问题（Reutenauer 1989）[^reutenauer-1989]。MELL 的可判定性还等价于分支 VASS 的可达性问题（de Groote *et al.* 2004）[^groote-2004]，后者已知有非初等下界（Lazic 与 Schmitz 2015）[^lazic-2015]。所以若 MELL 可判定，它至少 TOWER-难（Lazic 与 Schmitz 2015）[^lazic-2015]。Bimbó（2015）给过 MELL 可判定性的证明，但 Straßburger（2019）指出其中有一处漏洞。
 
-命题线性逻辑不可判定性的证明发表于 1990 年代初（Lincoln *et al.* 1992, Lincoln 1995）[^lincoln-1995][^lincoln-1992]。Kanovich（2016）表明该结果对命题线性逻辑一个大幅缩减的片段仍成立；机器检验的不可判定性证明见（Forster & Larchey-Wendling, 2019）。不过 Bimbó 与 Dunn（2022）也发表了命题线性逻辑可判定性的证明，并声称在前述论文里发现了错误。
+命题线性逻辑不可判定性的证明发表于 1990 年代初（Lincoln *et al.* 1992, Lincoln 1995）[^lincoln-1995][^lincoln-1992]。Kanovich（2016）表明该结果对命题线性逻辑一个大幅缩减的片段仍成立；机器检验的不可判定性证明见（Forster & Larchey-Wendling, 2019）[^forster-2019]。不过 Bimbó 与 Dunn（2022）也发表了命题线性逻辑可判定性的证明，并声称在前述论文里发现了错误。
 
 加上无限制弱化规则的线性逻辑（也叫 **线性仿射逻辑**）可判定（Kopylov 1995）[^kopylov-1995]，且指数空间难（Urquhart 2000）[^urquhart-2000]。
 
@@ -227,7 +227,7 @@ MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL
 
 ### 6.1 模态词的不同处理
 
-传统矢列演算表述里，指数不是典范的：再引入一份规则相同的指数，比如 $\mathop{!}'$ 与 $\mathop{?}'$，竟无法证明 $\mathop{!}$ 等价于 $\mathop{!}'$、$\mathop{?}$ 等价于 $\mathop{?}'$；别的联结词则容易做到。非典范指数的应用见（Danos et. al., 1993; Nigam & Miller, 2009）。MELL 可判定性眼下还有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，但把 MLL 用三对 $\mathop{!}$、$\mathop{?}$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
+传统矢列演算表述里，指数不是典范的：再引入一份规则相同的指数，比如 $\mathop{!}'$ 与 $\mathop{?}'$，竟无法证明 $\mathop{!}$ 等价于 $\mathop{!}'$、$\mathop{?}$ 等价于 $\mathop{?}'$；别的联结词则容易做到。非典范指数的应用见（Danos et. al., 1993; Nigam & Miller, 2009）[^danos-1993][^nigam-2009]。MELL 可判定性眼下还有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，但把 MLL 用三对 $\mathop{!}$、$\mathop{?}$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
 
 切消除会让经典逻辑、直觉主义逻辑的证明膨胀到极大，这可以按证明系统里收缩规则的使用来分析。若对收缩设限，就可能设计出切消除复杂性大幅降低的新逻辑、新证明系统。比如 **初等线性逻辑**（ELL），把 $\mathop{!}$ 与 $\mathop{?}$ 的引入换成一条同时引入 $\mathop{!}$ 与 $\mathop{?}$ 的规则；于是 ELL 恰好编码全体 Kalmar 初等函数（可在高度固定的指数塔所界时间内计算）（Girard 1998, Baillot 2015）[^baillot-2015][^girard-1998]。指数规则的其他变体也有人研究，如 **轻线性逻辑**（Girard 1998）[^girard-1998] 与 **软线性逻辑**（Lafont 2004）[^lafont-2004] 都刻画多项式时间可计算函数：另见（Baillot & Terui 2004）[^baillot-2004]。
 
@@ -239,7 +239,7 @@ MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL
 
 ### 6.3 无界行为的处理
 
-MALL 有表达力、有新意，却可判定，因而刻画不了迭代、递归里的无界行为。如上所述，加入指数 ! 与 ? 可把 MALL 丰富成完全线性逻辑，进入能刻画无界行为的境地。另一条路，是把最小、最大不动点算子直接作为联结词加进 MALL。要让不动点确为“最小”或“最大”，其推理规则须是“高阶”的，即涉及不变量。Baelde（Baelde & Miller, 2007; Baelde 2012）[^baelde-2012] 发展出对 MALL 的这类扩展（还带一阶量化与词项相等），并用来为模型检验提供证明论基础（Heath & Miller 2018）[^heath-2018]。
+MALL 有表达力、有新意，却可判定，因而刻画不了迭代、递归里的无界行为。如上所述，加入指数 ! 与 ? 可把 MALL 丰富成完全线性逻辑，进入能刻画无界行为的境地。另一条路，是把最小、最大不动点算子直接作为联结词加进 MALL。要让不动点确为“最小”或“最大”，其推理规则须是“高阶”的，即涉及不变量。Baelde（Baelde & Miller, 2007; Baelde 2012）[^baelde-2012][^baelde-2007] 发展出对 MALL 的这类扩展（还带一阶量化与词项相等），并用来为模型检验提供证明论基础（Heath & Miller 2018）[^heath-2018]。
 
 ## References（引用注释）
 

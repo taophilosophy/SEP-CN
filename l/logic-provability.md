@@ -52,7 +52,7 @@ $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow
 
 至于可证性逻辑的 **证明论**，Valentini（1983）证明 GL 的一个标准相继式演算表述服从 **切割消除**。粗略地说，这意味着每个在相继式演算中从 GL 可证的公式都有一个“无绕行”的 GL 相继式证明（切割消除的精确解释见证明论之发展词条）。近年，GL 的证明论重新受到关注，例如 Goré 与 Ramanayake（2008, 2012）以及 Goré、Ramanayake 与 Shillito（2021）。切割消除为 GL 带来理想的 **子公式性质**：无切割证明中出现的所有公式都是末端相继式公式的子公式。
 
-关于基于不同无切割相继式演算的可证性逻辑的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故，这些演算不满足完整的子公式性质，其惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质；也就是说，任何不可证的公式都有一个 **有穷** 反模型。
+关于基于不同无切割相继式演算的可证性逻辑的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^negri-2014][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故，这些演算不满足完整的子公式性质，其惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质；也就是说，任何不可证的公式都有一个 **有穷** 反模型。
 
 一个引人入胜的证明论新进展是 Shamkanov 对相继式型证明系统的扩充——允许 **循环证明**（Shamkanov 2014）[^shamkanov-2014]。考虑 K4 的一个相继式系统：K4 是把 GL 的公理换成较弱的公理 $\Box A \rightarrow \Box\Box A$（公理 4）所得的模态系统。但设想允许开放假设，只要同一相继式在证明树中严格低于该假设处出现。更技术性地说：把普通推导树中每个非公理叶子与一个相同的内部节点相连，即可得到循环推导。Shamkanov（2014）证明所得系统一致，而且一般地，每个相继式有 GL 推导当且仅当它有循环 K4 推导。循环证明也提供一种方法，证明式地表明 Lyndon 插值定理对 GL 成立（Shamkanov 2011）[^shamkanov-2011]。GL 的标准插值此前已用不同方法证明（Boolos 1979; Smoryński 1978; Rautenberg 1983）[^boolos-1979][^rautenberg-1983][^smoryński-1978]，一致插值亦然（Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources]）[^bílková-2016][^shavrukov-1993b]。（关于一阶逻辑的 Lyndon 插值定理的更多信息，另见一阶模型理论词条。）
 
@@ -239,7 +239,7 @@ $$ \mbox{GL} \vdash A \text{ 当且仅当对所有实现 } f,T \vdash f(A). $$
 
 ### 5.2 可解释性逻辑
 
-为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\vartriangleright$：对给定算术理论 $T$，模态句子 $A \vartriangleright B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
+为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\vartriangleright$：对给定算术理论 $T$，模态句子 $A \vartriangleright B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^visser-1998][^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990][^visser-1998-2]。
 
 ### 5.3 命题量词
 
@@ -259,37 +259,37 @@ Japaridze 的双模可证性逻辑 GLB 可由 GL 的公理与规则（见第 2 �
 
 Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\unicode{x2B26}$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ 对于 } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ 对于 } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ 对于 } m \leq n $$
 
-GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
+GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a][^beklemishev-2011a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
 
 过去三十年，关于强可证性谓词的多模逻辑 GLP，已有若干结果被证明。以下是一些特别多产的议题：
 
-* GLP 的闭片段（见 Ignatiev 1993; Beklemishev, Joosten and Vervoort 2005）[^ignatiev-1993]；
+* GLP 的闭片段（见 Ignatiev 1993; Beklemishev, Joosten and Vervoort 2005）[^beklemishev-2005][^ignatiev-1993][^beklemishev-2005-2]；
 * GLP 与证明论序数（Beklemishev 2004）[^beklemishev-2004]；
 * GLP 的邻域语义（Shamkanov 2020）[^shamkanov-2020][^shamkanov-2020-2]；
 * GLP 的插值定理（见 Beklemishev 2010b, Shamkanov 2011）[^shamkanov-2011][^beklemishev-2010b]；
-* 拓扑语义与集合论的关系，其中包括特定的大基数公理与平稳反射（见 Beklemishev 2011b; Beklemishev and Gabelaia 2013, 2014; Fernández-Duque 2014; Aguilera and Fernández-Duque 2017）[^beklemishev-2011b][^beklemishev-2013][^fernández-duque-2014][^aguilera-2017][^fernández-duque-2014-2]。
+* 拓扑语义与集合论的关系，其中包括特定的大基数公理与平稳反射（见 Beklemishev 2011b; Beklemishev and Gabelaia 2013, 2014; Fernández-Duque 2014; Aguilera and Fernández-Duque 2017）[^beklemishev-2011b][^beklemishev-2013][^beklemishev-2014][^fernández-duque-2014][^aguilera-2017][^beklemishev-2014-2][^beklemishev-2014-3][^fernández-duque-2014-2]。
 
 ### 5.5 谓词可证性逻辑
 
-最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^rybakov-2023]。于是问题来了：是否存在某个公理化良好的谓词可证性逻辑，足以恰好证明可证性的有效原理？遗憾的是，答案响亮地是否定的。Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现都在 PA 中可证的句子，其集合不仅不是递归可枚举的；它更是 $\Pi^0_2$-完全的，因此没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\unicode{x2B26}$ 与量词 $\forall$——算术完全且仍可判定。
+最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^montagna-1984][^rybakov-2023]。于是问题来了：是否存在某个公理化良好的谓词可证性逻辑，足以恰好证明可证性的有效原理？遗憾的是，答案响亮地是否定的。Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现都在 PA 中可证的句子，其集合不仅不是递归可枚举的；它更是 $\Pi^0_2$-完全的，因此没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\unicode{x2B26}$ 与量词 $\forall$——算术完全且仍可判定。
 
 ### 5.6 其他推广
 
 上文讨论未及可证性逻辑及其扩充研究中许多其他重要线索。有兴趣的读者可参看以下领域：
 
-* 直觉主义算术的可证性逻辑（见 Troelstra 1973; Visser 1982, 1999, 2002, 2008; Iemhoff 2000, 2001, 2003; Ardeshir and Mojtahedi 2018; Litak and Visser 2018, forthcoming; Mojtahedi 2022 [Other Internet Resources]; Visser and Zoethout 2021; van der Giessen and Iemhoff 2021; van der Giessen 2023; Shillito 2023）[^shillito-2023][^ardeshir-2018][^giessen-2023][^giessen-2021][^iemhoff-2000][^litak-2018][^troelstra-1973][^visser-1982]；
-* 可证性逻辑的分类（见 Visser 1980, Artemov 1985b, Beklemishev 1989, Beklemishev et al. 1999）[^artemov-1985b][^beklemishev-1989][^beklemishev-1999][^beklemishev-1999-2][^visser-1980]；
+* 直觉主义算术的可证性逻辑（见 Troelstra 1973; Visser 1982, 1999, 2002, 2008; Iemhoff 2000, 2001, 2003; Ardeshir and Mojtahedi 2018; Litak and Visser 2018, forthcoming; Mojtahedi 2022 [Other Internet Resources]; Visser and Zoethout 2021; van der Giessen and Iemhoff 2021; van der Giessen 2023; Shillito 2023）[^shillito-2023][^ardeshir-2018][^giessen-2023][^giessen-2021][^iemhoff-2000][^iemhoff-2001][^iemhoff-2003][^litak-2018][^troelstra-1973][^visser-1982][^visser-1999][^visser-2002][^visser-2008]；
+* 可证性逻辑的分类（见 Visser 1980, Artemov 1985b, Beklemishev 1989, Beklemishev et al. 1999）[^artemov-1985b][^beklemishev-1989][^beklemishev-1999][^beklemishev-1999-2][^visser-1980][^visser-1989][^visser-1999]；
 * Rosser 序与证明加速（见 Guaspari and Solovay 1979, Švejdar 1983, Montagna 1992）[^guaspari-1979][^montagna-1992]；
-* 若干种双模可证性逻辑，带不同理论的可证性算子（见 Carlson 1986; Smoryński 1985; Beklemishev 1994, 1996; Visser 1995）[^smoryński-1985][^beklemishev-1994][^carlson-1986][^visser-1995]；
+* 若干种双模可证性逻辑，带不同理论的可证性算子（见 Carlson 1986; Smoryński 1985; Beklemishev 1994, 1996; Visser 1995）[^smoryński-1985][^beklemishev-1994][^beklemishev-1996][^carlson-1986][^visser-1995]；
 * 以标准可证性与外部枚举 PA 的异常可证性谓词相结合的可证性逻辑，如 Feferman 与 Parikh 的可证性谓词及慢可证性谓词（见 Feferman 1960; Parikh 1971; Montagna 1978; Visser 1989; Carbone and Montagna 1990; Shavrukov 1994; Lindström 1994, 2006; Henk and Pakhomov 2016 (Other Internet Resources)）；
 * 用可证性逻辑与可解释性逻辑分析哥德尔第二不完备性定理（Visser 2016; 2020）[^visser-2016]；
-* 显式证明的逻辑（见 Artemov 1994, 2001; Artemov and Montagna 1994; Yavorskaya 2001; Artemov and Iemhoff 2007; Kuznets and Studer 2019）[^artemov-1994][^artemov-2007][^artemov-1994-2][^kuznets-2019][^yavorskaya-2001]；
+* 显式证明的逻辑（见 Artemov 1994, 2001; Artemov and Montagna 1994; Yavorskaya 2001; Artemov and Iemhoff 2007; Kuznets and Studer 2019）[^artemov-1994][^artemov-2001][^artemov-2007][^artemov-1994-2][^kuznets-2019][^yavorskaya-2001]；
 * 可证性逻辑与证成逻辑之间的对应（见 Artemov and Nogina 2005; Shamkanov 2016 (Other Internet Resources); Fitting 2020）；
 * 基于相关逻辑 R 的相关可证性逻辑（见 Mares 2000）[^mares-2000]；
-* 可证性逻辑在证明论中的应用（见 Beklemishev 1999, 2003, 2004, 2005, 2006）[^beklemishev-1999][^beklemishev-1999-2]；
-* 与可证性逻辑 GL 密切相关的命题模态逻辑的证明论，即 Grzegorczyk 逻辑（Grz）与弱 Grzegorczyk 逻辑（wGrz）（见 Litak 2007; Maksimova 2014; Goré and Ramanayake 2014; Dyckhoff and Negri 2016; Savateev and Shamkanov 2019, 2021）[^dyckhoff-2016][^goré-2014][^litak-2007][^maksimova-2014][^savateev-2019]；
-* 正可证性逻辑与反射演算（见 Beklemishev 2012, 2014, 2018a, 2018b; Dashkov 2012）[^beklemishev-2012][^dashkov-2012]；
-* 多模可证性逻辑 GLP 的推广，即带超穷多个模态词的可证性逻辑（见 Beklemishev et al. 2014; Fernández-Duque and Joosten 2013a, 2013b, 2014, 2018; Joosten 2021; Beklemishev and Pakhomov 2022）[^beklemishev-2014][^beklemishev-2014-2][^beklemishev-2014-3][^beklemishev-2022][^fernández-duque-2013a][^joosten-2021]；
+* 可证性逻辑在证明论中的应用（见 Beklemishev 1999, 2003, 2004, 2005, 2006）[^beklemishev-2004][^beklemishev-2005][^beklemishev-1999][^beklemishev-2003][^beklemishev-2005-2][^beklemishev-2006][^beklemishev-1999-2][^beklemishev-2006-2]；
+* 与可证性逻辑 GL 密切相关的命题模态逻辑的证明论，即 Grzegorczyk 逻辑（Grz）与弱 Grzegorczyk 逻辑（wGrz）（见 Litak 2007; Maksimova 2014; Goré and Ramanayake 2014; Dyckhoff and Negri 2016; Savateev and Shamkanov 2019, 2021）[^dyckhoff-2016][^goré-2014][^litak-2007][^maksimova-2014][^savateev-2019][^savateev-2021]；
+* 正可证性逻辑与反射演算（见 Beklemishev 2012, 2014, 2018a, 2018b; Dashkov 2012）[^beklemishev-2014][^beklemishev-2012][^beklemishev-2014-2][^beklemishev-2018a][^beklemishev-2018b][^beklemishev-2014-3][^dashkov-2012]；
+* 多模可证性逻辑 GLP 的推广，即带超穷多个模态词的可证性逻辑（见 Beklemishev et al. 2014; Fernández-Duque and Joosten 2013a, 2013b, 2014, 2018; Joosten 2021; Beklemishev and Pakhomov 2022）[^beklemishev-2014][^fernández-duque-2014][^fernández-duque-2018][^beklemishev-2014-2][^beklemishev-2014-3][^beklemishev-2022][^fernández-duque-2014-2][^fernández-duque-2013a][^fernández-duque-2013b][^joosten-2021]；
 * 可证性逻辑与 $\mu$-演算的关系（见 van Benthem 2006, Visser 2005, Alberucci and Facchini 2009）[^alberucci-2009][^benthem-2006][^visser-2005]；以及
 * 可证性代数——也称可对角化代数或 Magari 代数（见 Magari 1975a, 1975b; Montagna 1979, 1980a, 1980b; Bernardi and D’Aquino 1988; Shavrukov 1993a, 1993b, 1997; Zambella 1994；关于其初等理论的晚近结果，见 Pakhomov 2012, 2014a (Other Internet Resources), 2015）。
 
@@ -329,7 +329,7 @@ $$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vd
 
 与绝对可证陈述相关的概念是 **绝对不可判定的陈述**：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 $A$。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
 
-关于哥德尔不完备性定理之后果的讨论，有时围绕可证性概念产生混淆，引出人类能在“知道”定理一事上胜过形式系统的主张；对这些主张的良好批判性讨论见（Davis 1990, 1993; Franzén 1995; Lindström 2001）[^davis-1990][^lindström-2001]。
+关于哥德尔不完备性定理之后果的讨论，有时围绕可证性概念产生混淆，引出人类能在“知道”定理一事上胜过形式系统的主张；对这些主张的良好批判性讨论见（Davis 1990, 1993; Franzén 1995; Lindström 2001）[^davis-1990][^davis-1993][^lindström-2001]。
 
 总而言之，形式可证性是一个精确定义的概念——比真与知识精确得多。因此，可证性辖域内的自指不会导致说谎者式的语义悖论。相反，它引出关于数学的一些最重要结果，如哥德尔不完备性定理。
 
