@@ -14,7 +14,7 @@
 
 **工具加固（2026-11-13）**：`mech_audit.py` 增加「该行破折号数须有增减」过滤，剔除顿号化等全局标点提交造成的 pure 洪流（lakatos 曾虚高 68 条）；CLOSED 清单补入 leibniz-mind／lakatos／luxemburg。
 
-**有账本词条的回溯方法（lakatos 实战）**：`tasks/<letter>/<slug>.ledger.yaml` 的 `segments[].source` 是唯一可靠中英对齐源——不必再猜段落对应。流程：① `mech_audit` 取 located 候选；② 按「文档序 md 正文行 ↔ 段」或相似度把候选落到 seg id；③ 以 `source` 重译该句；④ **同步改 md 与该段 `step2`**（否则 compose 会回灌旧文）；⑤ 幂等脚本断言唯一命中。lakatos 据此重译 84 段/117 句（cc6bbb436、2e45226df、40d242126），复扫 dash2=0、prose 84→59、零叙事新增；**教训：前一版 lakatos“224 处整句重译”里约八成实为符号替换，被 mech_audit 抓到，已全部重做**。
+**有账本词条的回溯方法（lakatos／leibniz-mind 实战）**：`tasks/<letter>/<slug>.ledger.yaml` 的 `segments[].source` 是唯一可靠中英对齐源——不必再猜段落对应。流程：① `mech_audit` 取 located 候选；② 按「文档序 md 正文行 ↔ 段」或相似度把候选落到 seg id；③ 以 `source` 重译该句；④ **同步改 md 与该段 `step2`**（否则 compose 会回灌旧文；注意 step1 是历史草稿，不得改，替换须限定在 step2 块内）；⑤ 幂等脚本断言唯一命中。lakatos 据此重译 84 段/117 句（cc6bbb436、2e45226df、40d242126），leibniz-mind 重译 52 句（1b14b50dc），两者复扫均归零（leibniz-mind 余 1 处工具区链接，豁免）。**教训：前一版 lakatos“224 处整句重译”里约八成实为符号替换，被 mech_audit 抓到，已全部重做；凡自称“整句重译”者，必须过 mech_audit 的 located 检查才算数。**
 
 ## 续做队列（按 dash-scan 密度降序）
 
