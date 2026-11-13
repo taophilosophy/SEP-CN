@@ -349,8 +349,6 @@ Many thanks to Thomas Pogge for his comments on this entry, which were a great b
 
 ## Notes（原文脚注）
 
-## Notes to War
-
 [^note-1]: War, here, means large-scale armed conflicts between organised groups.
 
 [^note-2]: For a robust response to realism, see Walzer 2006: Chapter 1.

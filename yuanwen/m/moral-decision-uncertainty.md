@@ -273,8 +273,6 @@ For helpful feedback on a draft on this entry, the authors are grateful to Krist
 
 ## Notes（原文脚注）
 
-## Notes to Moral Decision-Making Under Uncertainty
-
 [^note-1]: Though often referred to as “Jackson cases”, cases with the relevant structure are also given by Regan (1980: 265) and Parfit (2011: 159).
 
 [^note-2]: Though many philosophers have found this idea appealing, the concept of a moral principle being “usable” or “action-guiding” is notoriously difficult to explicate. For an important recent discussion, see Holly M. Smith (2018).

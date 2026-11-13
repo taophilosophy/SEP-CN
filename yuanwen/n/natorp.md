@@ -167,8 +167,6 @@ Cassirer, Ernst | Cohen, Hermann | Lotze, Hermann | Rickert, Heinrich | Windelba
 
 ## Notes（原文脚注）
 
-## Notes to Paul Natorp
-
 [^note-1]: Cohen is often described as the founder of the “Marburg School”. Yet, as he himself says, he and his colleagues were “surprised by the proclamation of a ‘Marburg School’ in the journals” around 1900, a not always well-meant appellation (Cohen 1914: 466)[^cohen-1914].
 
 [^note-2]: Cf. Willey 1978; Ollig 1982; Jegelka 1992. For similar reasons, Cassirer would turn to his analyses of myth and its intersection with politics; see Lipton 1978.

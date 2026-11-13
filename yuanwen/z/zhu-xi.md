@@ -233,8 +233,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | comparative phil
 
 ## Notes（原文脚注）
 
-## Notes to Zhu Xi
-
 [^note-1]: Huayan posits a unified but complex conceptual structure juxtaposing *li* (reality, emptiness) and *shi* (events, phenomena) (Chang 1970; Cook 1976)[^chang-1970][^cook-1976].
 
 [^note-2]: Da Hui, a leading Chan master, opposed silent illumination Chan and stressed concentrating on *gongans* (koans), thematic discussions, and practice.

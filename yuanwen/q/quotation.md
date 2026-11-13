@@ -883,8 +883,6 @@ The authors would like to thank Poppy Mankowitz and a reviewer for suggesting se
 
 ## Notes（原文脚注）
 
-## Notes to Quotation
-
 [^note-1]: To follow this text, pay close attention to the difference between single quotes and double quotes. Double quotes are used to quote quotations. Triple quotes to quote quotations of quotations. Etc.
 
 [^note-2]: See Munro (1982) for a challenge to the claim that the ‘says’ of direct reporting is transitive.

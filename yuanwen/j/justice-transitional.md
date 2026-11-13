@@ -428,8 +428,6 @@ I am grateful to Thomas Pogge and to Greg Fried for their comments and encourage
 
 ## Notes（原文脚注）
 
-## Notes to Transitional Justice
-
 [^note-1]: Other transitional policies include administrative purges, the opening of archives, reparations and the creation of public monuments. I have decided to concentrate on war crime tribunals and truth commissions both because these are the most frequently used instruments (other policies are most often implemented, if at all, in conjunction with these) and because their employment raises the philosophical dilemmas associated with the aftermath of war in the sharpest, most dramatic fashion.
 
 [^note-2]: Part 1 draws on Eisikovits 2013; parts 2 and 3 draw on Eisikovits 2009; part 5 draws on Rotondi and Eisikovits, forthcoming.

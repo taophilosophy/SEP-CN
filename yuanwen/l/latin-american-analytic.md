@@ -377,8 +377,6 @@ This entry has benefited greatly from the feedback and information we received f
 
 ## Notes（原文脚注）
 
-## Notes to Analytic Philosophy in Latin America
-
 [^note-1]: Philosophers with Latin American roots who have developed their philosophical work outside the area include Ignacio Angelelli, Horacio Arló-Costa, José Luis Bermúdez, Cristina Borgoni, Felipe De Brigard, Otávio Bueno, Héctor Neri-Castañeda, Alberto Coffa, Juan Comesaña, Marcelo Dascal, Catarina Dutilh Novaes, Jorge Gracia, Linda Martín Alcoff, Susana Nuccetelli, Agustín Rayo, Gonzalo Rodríguez-Pereyra, Víctor Sánchez Valencia, Carolina Sartorio, Ernesto Sosa, among others. Many of them have contributed to the development of analytic philosophy in Latin America by participating in academic events, facilitating academic exchanges with institutions outside the region, and supporting Latin American journals.
 
 [^note-2]: According to Gracia:

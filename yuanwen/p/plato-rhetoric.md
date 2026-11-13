@@ -208,8 +208,6 @@ I am grateful to Nicola Moore for her help with the Bibliography, and to Richard
 
 ## Notes（原文脚注）
 
-## Notes to Plato on Rhetoric and Poetry
-
 [^note-1]: From Thomas 1954: 192–93.
 
 [^note-2]: While “representation” and “imitation” are standard meanings of “mimesis,” the inclusion of “expression” in a list of possible meanings of the term might seem odd. I say just a bit below in support of this; for a full-fledged argument, see Halliwell 2002. On p. 14 (n. 31) he remarks: “I develop my twin theses that ancient ideas of mimesis often encompass a dimension of what would now be counted, by many aestheticians, as expression, and that representation and expression are not mutually exclusive concepts in the interpretation of art, as they have so often been taken to be (especially under the influence of Croce), in chapters 4, 5, 8, 10 (notes 23, 47), and 12.”

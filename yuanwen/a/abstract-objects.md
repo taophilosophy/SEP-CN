@@ -374,8 +374,6 @@ This entry was revised, updated, and expanded in 2021 by José L. Falguera and C
 
 ## Notes（原文脚注）
 
-## Notes to Abstract Objects
-
 [^note-1]: See Swoyer 2007 and Cowling 2017 for further discussion of abstract and concrete entities.
 
 [^note-2]: See Dumsday 2022 for reasons to doubt not only the exhaustive but also the (disjunctively) exclusive character of the distinction).

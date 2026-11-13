@@ -358,8 +358,6 @@ consciousness | consciousness: and intentionality | Heidegger, Martin | idealism
 
 ## Notes（原文脚注）
 
-## Notes to Edmund Husserl
-
 [^note-1]: It has occasionally been claimed that it was Frege’s review of this work that made Husserl modify his view (Føllesdal 1958)[^føllesdal-1958]. But others have pointed to Husserl’s own studies of Lotze and Bolzano as being the decisive factor (Mohanty 1977; Bernet, Kern, & Marbach 1993)[^mohanty-1977].
 
 [^note-2]: For an alternative interpretation that considers phenomenology as merely one part of Husserl’s philosophical system, see D. W. Smith 2013.

@@ -346,8 +346,6 @@ We would like to thank Flavia Padovani for her comments and further references o
 
 ## Notes（原文脚注）
 
-## Notes to Hans Reichenbach
-
 [^note-1]: It is not entirely clear whether Reichenbach ever was a student of Max Born. Their times in Berlin and Göttingen did not overlap, and Reichenbach does not appear to have officially enrolled in any of Born’s courses (see Padovani 2008, pp. 7–10)[^padovani-2008]. Nevertheless, Reichenbach himself counts Born as one of his teachers in autobiographical notes.
 
 [^note-2]: This notation should be distinguished from set-theoretic notation. Reichenbach has an idiosyncratic notation for probability implications. We use (for html compatibility) “⊃” for Reichenbach’s standard material implication and “⊇” for his probability implication, where “⊇_{*p*}” is a probability implication with probability *p*.

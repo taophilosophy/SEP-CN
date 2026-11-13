@@ -163,8 +163,6 @@ Abelard [Abailard], Peter | Albert of Saxony | Anselm of Canterbury [Anselm of B
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Theories: Properties of Terms
-
 [^note-1]: “Quattuor sunt proprietates termini quas ad presens intendimus diversificare … Et sunt hes proprietates significatio, suppositio, copulatio et appellatio”, *Introductiones in Logicam*, ed. Lohr et al., p. 265.
 
 [^note-2]: “Multa autem sunt proprietates termini, scilicet: suppositio, appellatio, restrictio, distributio [ed.: distinctio] et relatio … sed quia significatio est sicut perfectio termini et proprietates termini supra significationem fundantur, ideo in principio ad evidentiam sequentium videndum est quid sit termini significatio et in quo differt a suppositione”, *Summa Lamberti*, p. 205. On the identification of the author as Lambert of Auxerre, see Maloney, ‘Introduction’, pp. xv–xl. For the identification of the author with Lambert of Lagny, an identification Maloney earlier accepted, see A. de Libera, ’Le traité *De Appellatione* de Lambert de Lagny (Lambert d’Auxerre)’, *Archives d’Histoire Doctrinale et Littéraire du Moyen Age* 48, 1981, pp. 227–85. For my review of Maloney’s translation, see *Vivarium* 55 (2017), pp. 361–70.

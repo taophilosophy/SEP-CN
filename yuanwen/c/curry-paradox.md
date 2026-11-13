@@ -501,8 +501,6 @@ We are grateful to Julien Murzi, Lorenzo Rossi, and an anonymous referee for det
 
 ## Notes（原文脚注）
 
-## Notes to Curry’s Paradox
-
 [^note-1]: The term “Curry’s paradox” appears to originate in Fitch 1952; other influential early formulations include Moh 1954, Geach 1955, and Prior 1955. These will be discussed in section 2. Precursors to Curry’s paradox are also found in the work of medieval and late scholastic logicians: for references and discussion, see Ashworth 1974: 125, Read 2001 and Hanke 2013.
 
 [^note-2]: Curry’s paper is entitled “The Inconsistency of Certain Formal Logics” (1942b). By “inconsistency”, he means *absolute* inconsistency, i.e., triviality.

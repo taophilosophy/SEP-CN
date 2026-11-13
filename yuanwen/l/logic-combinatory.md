@@ -673,8 +673,6 @@ I am grateful to the referees of the first edition—both to the “internal ref
 
 ## Notes（原文脚注）
 
-## Notes to Combinatory Logic
-
 [^note-1]: Moses Schönfinkel had a chance to publish just one paper on CL (see Schönfinkel (1924)). CL was soon rediscovered and greatly expanded in its scope by Haskell B. Curry, who was joined by several other logicians in an effort to develop CL and the closely related $\lambda$-calculuses invented by Alonzo Church.
 
 [^note-2]: This sentence may be seen to formalize a well-known metatheorem about well-behaved sequent and consecution calculuses—without explicating some of the technical details.

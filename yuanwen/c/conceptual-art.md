@@ -182,8 +182,6 @@ aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgmen
 
 ## Notes（原文脚注）
 
-## Notes to Conceptual Art
-
 [^note-1]: The term does, however, seems to have been used as early as 1961 in New York by the artist Henry Flynt in relation to some of the pieces and performances originating in the Fluxus Group (Wood, 2002: 8).
 
 [^note-2]: Richard Long, 1967, *A Line Made by Walking*. For documentation, see the [external image](http://www.fototensioni.net/imgs/long.jpg).

@@ -261,8 +261,6 @@ The author wishes to thank David Liakos, co-author of Liakos and George 2019, fo
 
 ## Notes（原文脚注）
 
-## Notes to Hermeneutics
-
 [^note-1]: For a critical assessment of Gadamer’s idea, see Gjesdal 2009, 2.
 
 [^note-2]: On the concept of the hermeneutical circle, and the sense of ‘presupposition’ at issue for it, see Grondin 2016.

@@ -310,8 +310,6 @@ The authors would like to thank Hannah Altehenger, Marc Artiga, Karl Bergman, Da
 
 ## Notes（原文脚注）
 
-## Notes to Teleological Theories of Mental Content
-
 [^note-1]: Throughout this entry, our focus will be on descriptive (‘belief-like’) representations. This reflects the fact that discussions of descriptive representations have dominated the teleosemantics literature, although there has been some work on directive (‘desire-like’) representations as well (see, e.g., Millikan’s and Papineau’s accounts of desire content that we will come back to in later sections, and Martínez 2011; Shea 2018, ch. 7; Schulte 2019b; Butlin 2020b)[^butlin-2020b][^martínez-2011][^schulte-2019b][^shea-2018].
 
 [^note-2]: We allude here to the difference between *mere malfunctioning* and the *inability to function* (or lack of a disposition to function). For more on this helpful distinction, which is often neglected in the literature, cf. Hundertmark (2018, ch. 5).

@@ -376,8 +376,6 @@ physics: holism and nonseparability | physics: symmetry and symmetry breaking | 
 
 ## Notes（原文脚注）
 
-## Notes to Gauge Theories in Physics
-
 [^note-1]: The word “suggests” is used here because the interpretation of Maxwell’s remarks is controversial. For example, shortly after remarking that we have no reason to regard the potential as denoting a physical state, he describes a procedure for measuring changes in the value of the potential. Surplus interpreters such as Lange (2002: 44) usually focus on the former remarks.
 
 [^note-2]: R. Anderson (1991) and Cao (2019) examine this history in more detail.

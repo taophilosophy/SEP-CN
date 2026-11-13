@@ -343,8 +343,6 @@ I am grateful to Gyula Klima, Lloyd Newton, Paul Studtmann, Jack Zupko, and espe
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Theories of Relations
-
 [^note-1]: For the record, the other categories are action, passion, when, where, position, and habit.
 
 [^note-2]: Intuitively, a monadic (or one-place) property is one whose instances can belong to only one subject at a time, whereas a polyadic (or many-place) property is one whose instances can belong to more than one subject at a time. Questions can be raised about the adequacy of this intuitive characterization in connection with so-called reflexive relations such as identity. For now we can ignore these complications; but see the discussion in section 5.2, especially n. 42.

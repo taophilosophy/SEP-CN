@@ -174,8 +174,6 @@ Chinese Philosophy: ethics | Chinese Philosophy: Song-Ming Confucianism | Japane
 
 ## Notes（原文脚注）
 
-## Notes to Confucius
-
 [^note-1]: References to the *Analects* are by book and section (e.g., 2.1 is book two, section one), and other primary sources are identified by chapter number or name (according to the ctext.org numbering). All English translations are by the author unless otherwise noted.
 
 [^chen-2017]: Chen Lai (陈来), 2017, *Gudai zongjiao yu lunli* (古代宗教与伦理) [Ancient religion and ethics], Beijing: Shenghuo dushu xinzhi.

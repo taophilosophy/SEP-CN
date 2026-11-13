@@ -194,8 +194,6 @@ Bacon, Francis | Boyle, Robert | Cambridge Platonists | Cavendish, Margaret Luca
 
 ## Notes（原文脚注）
 
-## Notes to Thomas Hobbes
-
 [^note-1]: The story of Hobbes’s work for the Cavendish family can be confusing because of the number of people called William Cavendish. William Cavendish (1551–1626), who in 1618 was to become the first earl of Devonshire, hired Hobbes in 1608 to tutor his son. That son, William Cavendish (1590–1628) later became the second earl of Devonshire. Hobbes was his companion for twenty years, first as his tutor, later his secretary. The third in this line of William Cavendishes, William Cavendish (1617–1684), who became the third earl of Devonshire, was later also educated by Hobbes. In addition, Hobbes talked and corresponded with their relative, William Cavendish (1593–1674), the first duke of Newcastle, whose father Charles Cavendish was the first earl of Devonshire’s brother. This William Cavendish had a strong interest in the new science of the seventeenth century. So too did his wife, the author and philosopher Margaret Cavendish, and his brother Charles, with both of whom Hobbes was also acquainted.
 
 [^note-2]: Hobbes uses a variety of terms, including ‘idea’, to talk about our mental representations. Others include ‘phantasm’, ‘conception’, ‘representation’, and ‘appearance’. This article simplifies his terminology by just using ‘idea’.

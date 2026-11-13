@@ -330,8 +330,6 @@ Thanks to Julie Ponesse, Ken Chung, and Hale Doguoglu for their research assista
 
 ## Notes（原文脚注）
 
-## Notes to Trust
-
 [^note-1]: Philip Pettit offers some opposition to this common view about trust (1995: 208).
 
 [^note-2]: Each of these conditions for trust is relatively uncontroversial. Another uncontroversial element is that trust can be unconscious or tacit (Lagerspetz 1998)[^lagerspetz-1998]. Conditions for trust that concern its epistemology, its value, or what sort of mental attitude it is appear under section 2: the epistemology of trust, section 3: the value of trust, and section 4: trust and the will, respectively.

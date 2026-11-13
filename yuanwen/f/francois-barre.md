@@ -310,8 +310,6 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 ## Notes（原文脚注）
 
-## Notes to François Poulain de la Barre
-
 [^note-1]: When citing from *De l’égalité des deux sexes*, I use Desmond Clarke’s translation (T1en), except for some passages, where Vivien Bosley’s translation (TTen) is closer to the original. All citations from *De l’éducation des dames* and *De l’excellence des homes* use Bosley’s translation (TTen). I also give references to Marie-Frédérique Pellegrin’s modern French edition (TTfr).
 
 [^tten-2002]: [TTen], *Three Cartesian Feminist Treatises*, introduction by Marcelle Maistre Welch, translated by Vivien Bosley, Chicago & London: University of Chicago Press, 2002. Translations of *On the equality of the two sexes* (1673), *On the education of ladies* (1674), and *On the excellence of men* (1675).

@@ -556,8 +556,6 @@ A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. 
 
 ## Notes（原文脚注）
 
-## Notes to Bell’s Theorem
-
 [^note-1]: The terminology of “contextualistic” hidden-variables theories was introduced by Shimony (1971). This was shortened to “contextual” and “noncontextual” in the doctoral dissertation of Stuart J. Freedman (1972), and in Clauser and Shimony (1978).
 
 [^note-2]: It should be emphasized that their argument does not depend upon counter-factual reasoning, that is, reasoning about what would be observed if a quantity were measured other than the one that was in fact measured. For two papers which argue that EPR did not depend upon counterfactual reasoning but only upon ordinary induction, see d’Espagnat (1984) and Shimony (2001).

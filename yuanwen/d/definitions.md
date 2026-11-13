@@ -393,8 +393,6 @@ The authors would like to thank Edward Zalta and any anonymous editor for helpfu
 
 ## Notes（原文脚注）
 
-## Notes to Definitions
-
 [^note-1]: Thanks to an anonymous editor for drawing our attention to Frege’s essay.
 
 [^note-2]: Note that experience can have the effect of restricting not only the domain of quantification but also the interpretations of non-logical constants.

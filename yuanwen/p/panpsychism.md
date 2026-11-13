@@ -322,8 +322,6 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 
 ## Notes（原文脚注）
 
-## Notes to Panpsychism
-
 [^note-1]: Another Presocratic philosopher who has been said to espouse panpsychism for reasons similar in form to those of Thales (that is, via analogy and indeed an analogy with motion production) is Anaximenes (whose dates within the sixth century BCE are uncertain), who identified “air” (or “breath”) with soul or mind, thus making mind ubiquitous.
 
 [^note-2]: Empedocles is sometimes regarded as a panpsychist because of the universal role of love and strife (see Edwards 1967 for example)[^edwards-1967] but there seems little of the mental in Empedocles’s conceptions, which are rather more like forces of aggregation and dis-aggregation respectively (see Barnes 1982: 308 ff.)[^barnes-1982].

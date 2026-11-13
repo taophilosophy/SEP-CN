@@ -212,8 +212,6 @@ Buddha | comparative philosophy: Chinese and Western | cultural heritage, ethics
 
 ## Notes（原文脚注）
 
-## Notes to Comparative Philosophy of Religion
-
 [^note-1]: Affinities between Panikkar and Halbfass on this matter are accentuated by Clooney 1997: 34.
 
 [^note-2]: The term “doxography” derives from *doxographi*, which was coined by Hermann Diels (1879) to denote authors of such texts, principally with reference to ancient Greek authors.

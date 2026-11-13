@@ -206,8 +206,6 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 ## Notes（原文脚注）
 
-## Notes to Simon of Faversham
-
 [^note-1]: For more detailed accounts of Simon’s life, see Longeway 1977; and the Introduction in *Quaestiones super librum Sophisticorum Elenchorum* (Ebbesen et al. eds.).
 
 [^note-2]: A full edition of 4 is in progress by Christina Thomsen Thörnqvist, see also Ebbesen 1986 and 1987 for partial editions; regarding 5, a team of editors led by Mora-Márquez is revising Longeway's unpublished editions of the two redactions, with the revision of Redactio 2 already finalized; for 6, see Green-Pedersen 1973. A commentary on Petrus Hispanus’ *Summulae* has been attributed to Simon, but this attribution is uncertain; cf. De Rijk 1968 and Tiné 1983.

@@ -161,8 +161,6 @@ Buridan, John [Jean] | causation: medieval theories of | Gregory of Rimini | Ock
 
 ## Notes（原文脚注）
 
-## Notes to Marsilius of Inghen
-
 [^note-1]: The biographical information provided here is based on Ritter 1921, 7–44, and Hoenen 1993, 7–11. See also Hawicks and Berger, 2021. In these studies the reader will find references to the relevant sources.
 
 [^note-2]: For a modern edition, see [OFU], 107–113.

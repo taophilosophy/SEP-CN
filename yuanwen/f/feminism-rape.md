@@ -264,8 +264,6 @@ autonomy: in moral and political philosophy | autonomy: personal | colonialism |
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Perspectives on Rape
-
 [^note-1]: “Post-memory” is a term most often used to describe the effects of Holocaust survivors’ experiences on the lives and psyches of their children and other descendants. Goertz (1998, following Hirsch) defines “post-memory” as “a hybrid form of memory that distinguishes itself from personal memory by generational distance and from history by a deep personal connection.”
 
 [^note-2]: Intersectionality is a mode of analysis common to much contemporary feminist theorizing. It emphasizes that different forms of hierarchy—for instance, those along lines of gender, race, ethnicity, sexual orientation, and class—shape people’s identities and social positions in complex and interdependent ways, and must therefore be understood in relation to one another rather than in isolation.

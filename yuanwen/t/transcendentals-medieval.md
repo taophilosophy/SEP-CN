@@ -139,8 +139,6 @@ analogy: medieval theories of | Aquinas, Thomas | Arabic and Islamic Philosophy,
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Theories of Transcendentals
-
 [^note-1]: The ascription of a doctrine of the transcendentals to Ibn Sina is a matter of controversy. For such an ascription argues Koutzarova 2009; against it Aertsen 2012, 99–110.
 
 [^note-2]: At the background of the introduction of the doctrine of the transcendentals in the first half of the 13th century is the controversy with the Cathars, who defended a manichean dualism which is negated by the thesis of the convertibility of being and the good. Cf. Aertsen 2012, 112, for scholarly literature.

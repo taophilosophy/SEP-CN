@@ -803,8 +803,6 @@ action | compositionality | conditionals | contextualism, epistemic | convention
 
 ## Notes（原文脚注）
 
-## Notes to Theories of Meaning
-
 [^note-1]: For an illuminating discussion of the analogies between semantic rules and systems of etiquette, see McKeown-Green 2002.
 
 [^note-2]: Before turning to discussion of these two sorts of theories, it is worth noting that one prominent tradition in the philosophy of language denies that there are facts about the meanings of linguistic expressions. (See, for example, Quine 1960 and Kripke 1982; for critical discussion, see Soames 1997.)[^kripke-1982][^quine-1960][^soames-1997][^soames-1997-2] If this sort of skepticism about meaning is correct, then there is neither a true semantic theory nor a true metasemantic theory to be found, since the relevant sort of facts simply are not around to be described or analyzed. Discussion of these skeptical arguments is beyond the scope of this entry, so in what follows I’ll simply assume that skepticism about meaning is false.

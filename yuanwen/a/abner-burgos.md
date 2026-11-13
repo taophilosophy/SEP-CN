@@ -145,8 +145,6 @@ Aristotle, Special Topics: natural philosophy | Crescas, Hasdai | determinism: c
 
 ## Notes（原文脚注）
 
-## Notes to Abner of Burgos
-
 [^note-1]: The source of this opinion is Baer (1954) and Baer (1929: pp. 20–37). Also Gershenzon (1984: pp. 120–167) in trying to deepen this position. This opinion is also cited by a number of modern scholars like Idel; Lasker; Sainz…. Szpiech (2006: pp. 541–555) and Hecht (1993: pp. 471–480). Sadik (2010) critiques this opinion (this paragraph is based on Sadik 2010).
 
 [^note-2]: The influence of Neo-Platonic writers on Kabbalah explains why a researcher like Baer thinks that Abner used Kabbalistic sources.

@@ -413,8 +413,6 @@ analogy: medieval theories of | boundary | categories: medieval theories of | et
 
 ## Notes（原文脚注）
 
-## Notes to Francisco Suárez
-
 [^note-1]: Some of the material in this entry draws from the authors’ previously published work. In particular Section 1 draws from Schwartz 2012b; Section 2 from Shields 2012a, 2012b, and 2012c; Section 4 from Schwartz 2008; and Section 5 from Schwartz 2012c.
 
 [^note-2]: The biographical section is almost entirely based on the still unsurpassed Scorraille 1914; references below are from the Spanish translation: Scorraile 2005.

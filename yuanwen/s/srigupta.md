@@ -545,8 +545,6 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 ## Notes（原文脚注）
 
-## Notes to Śrīgupta
-
 [^note-1]: The *Tattvāvatāra* and *Tattvāvatāravṛtti* are extant only in Tibetan translation (PD 3121; D 3892). The root text is not extant as an independent treatise, surviving only as embedded in the autocommentary. There is one additional text attributed to Śrīgupta in the Tengyur (Bstan ’gyur = canons of Indian Buddhist commentarial literature in Tibetan translation), which is a brief commentarial work in the Tantra (rgyud) section, titled *Śrīratnamañjarīnāmaṭīkā* (Dpal rin po che snye ma zhes bya ba’i rgya cher ’grel pa, PD 0112; D 1217).
 
 [^note-2]: Those endorsing this date based on the Tibetan relative chronology include Seyfort Ruegg (1981), Eckel (1986: 8), Rospatt (1995: 80), Blumenthal (2004: 61), Almogi (2009: 184), and Aitken (2021a). Matsumoto (1978), Kobayashi (1992: 37–42), and Akahane (2003: 127) have challenged Tibetan, suggesting that he postdates Śāntarakṣita. See Aitken (2025) for an analysis of this dispute and an argument that there is insufficient evidence to emend the received relative chronology.

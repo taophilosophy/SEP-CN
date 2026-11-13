@@ -337,8 +337,6 @@ James, William | Kierkegaard, Søren | Pascal’s wager | pragmatic arguments an
 
 ## Notes（原文脚注）
 
-## Notes to Fideism
-
 [^note-1]: Paul Gooch has argued that Paul himself should not be read as anti-rational (or anti-philosophical), except insofar as reason is corrupted by hubris. He adds, “But we are not required to conclude that Paul believes that our cognitive equipment is so damaged that it can deliver no theistic knowledge” (2008: 97).
 
 [^note-2]: It is interesting to note that Montaigne and Bayle are frequently assumed to have harbored anti-religious intentions. According to this view, they fully appreciated the apparently agnostic implications of their skepticism, and their professions of faith were insincere. Popkin (1964: 56, 108–110) and Penelhum (1983: 18ff) have both argued against this reading. For a detailed discussion of this issue in reference to Bayle, see the essays by Lennon (2002) and Mori (2004).

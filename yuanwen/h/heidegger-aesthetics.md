@@ -459,8 +459,6 @@ Earlier versions of this work were presented as the Gale Memorial Lecture to the
 
 ## Notes（原文脚注）
 
-## Notes to Heidegger’s Aesthetics
-
 [^note-1]: In the early 1920s, Heidegger will repeatedly proclaim that genuine philosophy “is and remains atheism” (HCT 80/GA20 109–10) because true philosophical questioning must follow freely where the questions themselves lead and so cannot agree ahead of time to abide by the external limits imposed by the Church or any other would-be authorities over matters of the mind or spirit. For precisely the same reason, of course, a “Nazi Philosopher” would also be an oxymoron, a fact Heidegger unfortunately failed to grasp between 1933 and 1937.
 
 [^note-2]: As Bernasconi (1998, p. 378) rightly observes, “there has been relatively little scrutiny of Heidegger’s attempt to free the concept of art itself from its status as an aesthetic category.” For nice explications of the broader historical context of Heidegger’s hermeneutic and phenomenological understanding of art, see Guignon 2003, Crowell 2010, and Wrathall 2011.
@@ -783,15 +781,15 @@ Earlier versions of this work were presented as the Gale Memorial Lecture to the
 
 [^thomson-2011]: –––, 2011, *Heidegger, Art, and Postmodernity*, Cambridge: Cambridge University Press.
 
-[^thomson-nd]: –––, 2013A, “Death and Demise in *Being and Time*,” in Mark Wrathall (ed.), *The Cambridge Companion to Being and Time*, Cambridge: Cambridge University Press.
+[^thomson-2013a]: –––, 2013A, “Death and Demise in *Being and Time*,” in Mark Wrathall (ed.), *The Cambridge Companion to Being and Time*, Cambridge: Cambridge University Press.
 
-[^thomson-nd-2]: –––, 2013B, “Heideggerian Perfectionism and the Phenomenology of the Pedagogical Truth Event,” in Kevin Hermberg and Paul Gyllenhammer (eds.), *Phenomenology and Virtue Ethics*, London: Bloomsbury.
+[^thomson-2013b]: –––, 2013B, “Heideggerian Perfectionism and the Phenomenology of the Pedagogical Truth Event,” in Kevin Hermberg and Paul Gyllenhammer (eds.), *Phenomenology and Virtue Ethics*, London: Bloomsbury.
 
 [^thomson-2016]: –––, 2016, “Heideggerian Phenomenology and the Postmetaphysical Politics of Ontological Pluralism,” in S. West Gurley and Geoffrey Pfeifer (eds.), *Phenomenology and the Political*, London: Rowman and Littlefield.
 
-[^thomson-nd-3]: –––, 2017A, “Heidegger’s Nazism in the Light of his early *Black Notebooks*: A View from America,” in Alfred Denker and Holger Zaborowski (eds.), *Zur Hermeneutik der ‘Schwarzen Hefte’: Heidegger Jahrbuch 11*, Freiburg: Karl Alber.
+[^thomson-2017a]: –––, 2017A, “Heidegger’s Nazism in the Light of his early *Black Notebooks*: A View from America,” in Alfred Denker and Holger Zaborowski (eds.), *Zur Hermeneutik der ‘Schwarzen Hefte’: Heidegger Jahrbuch 11*, Freiburg: Karl Alber.
 
-[^thomson-nd-4]: –––, 2017B, “Thinking Love: Heidegger and Arendt,” *Continental Philosophy Review*, 50(4): 453–78.
+[^thomson-2017b]: –––, 2017B, “Thinking Love: Heidegger and Arendt,” *Continental Philosophy Review*, 50(4): 453–78.
 
 [^thomson-2021]: –––, 2021, “The Nothing,” in Mark Wrathall (ed.), *The Heidegger Lexicon*, Cambridge: Cambridge University Press.
 

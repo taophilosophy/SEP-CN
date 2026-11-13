@@ -201,8 +201,6 @@ I am grateful to the following for extremely useful comments on previous version
 
 ## Notes（原文脚注）
 
-## Notes to Luther’s Influence on Philosophy
-
 [^note-1]: Just to give one telling example: Max Weber’s central text *The Protestant Ethic and the Spirit of Capitalism* (1905), which perhaps did more than any other to encourage an awareness of the intellectual and cultural significance of Protestantism, famously gives Calvin the key role rather than Luther: see, for example, Weber 1992: 56: “Now Calvinism was the faith over which the great political struggles of the sixteenth and seventeenth centuries were fought in the most highly developed countries, the Netherlands, England, and France”. Philosophical thinkers who come under Calvin’s influence more specifically would include Thomas Reid (1710–1796) and Jonathan Edwards (1703–1758), as well as contemporary so-called “Reformed epistemology”.
 
 [^note-2]: See, for example, Beck 1969: 101:

@@ -343,8 +343,6 @@ Helpful discussions on numerous topics treated in this paper with Guido Bacciaga
 
 ## Notes（原文脚注）
 
-## Notes to Quantum Approaches to Consciousness
-
 [^note-1]: Examples for non-trivial quantum effects in biological systems are: coherent excitations of biomolecules, quantum tunneling of protons, van der Waals forces, ultrafast dynamics through conical intersections, photon-assisted electron tunneling as the basis for smell, entangled states in photosynthesis, mechanisms for magnetoreception in the avian compass. For a competent review of these examples and more see Huelga and Plenio (2013).
 
 [^note-2]: This statement reflects a philosophical position which is known as incompatibilism. It is more or less implicitly shared by most scientists thinking about the options quantum theory offers for free will. On a compatibilist presumption, free will does not necessarily contradict determinism(see the entries on compatibilism and arguments for incompatibilism). Quantum based incompatibilist approaches are, e.g., due to Kane (1996) or Müller and Briegel (2014). See also Section 4.

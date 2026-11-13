@@ -247,8 +247,6 @@ I would like to thank Michael Harris, David Shatz, and Daniel Statman for helpfu
 
 ## Notes（原文脚注）
 
-## Notes to Yeshayahu Leibowitz
-
 [^note-1]: In an eightieth birthday tribute to Leibowitz published in Hebrew translation as “The Conscience of Israel” in the newspaper *Ha’aretz*, 4 March 1983, 18.
 
 [^note-2]: See *Sihot,* 54. Leibowitz states here that he believed Levinas’ work was significantly shaped by his Judaism, as much in his general philosophy as in his Jewish writings.

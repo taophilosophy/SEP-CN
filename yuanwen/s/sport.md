@@ -252,8 +252,6 @@ dance, philosophy of | human enhancement | nature of law: interpretivist theorie
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Sport
-
 [^note-1]: In the Preface of *The Grasshopper*, Suits argues: “Utopian existence is fundamentally concerned with game-playing” (Suits, 1978 [2014, 1]). For Suits, gameplay is the cornerstone of the best possible life. This thesis aligns with theories of play that explore the link between play and play activities such as games and the pursuit of the good life. For instance, Johan Huizinga, whose work heavily influenced Suits, takes play to be such a significant aspect of human life that he refers to humans as *homo ludens*, that is, “individual who plays.” Suits’ “Utopian thesis,” as he calls it, has gained many supporters (Hurka 2005; Kretchmar 2006; Yorke 2017; Kolers 2018; Lopez Frias 2019)[^hurka-2005][^kolers-2018][^kretchmar-2006][^lopez-2019][^lopez-2019-2][^yorke-2017], but also numerous detractors (Bäck, 2008), originating a lively debate on the connections between game-like activities such as sport and the good life (e.g., Borge 2019)[^borge-2019].
 
 [^abad-2010]: Abad, D., 2010, “Sportsmanship,” *Sport, Ethics and Philosophy*, 4(1): 27–41.

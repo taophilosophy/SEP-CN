@@ -240,8 +240,6 @@ Jack would like to acknowledge Marion Tapper, who taught him Sartre as an underg
 
 ## Notes（原文脚注）
 
-## Notes to Jean-Paul Sartre
-
 [^note-1]: This remark by Foucault should not, however, be read as a uniformly critical verdict against Sartre, with whom Foucault maintained a complex relationship and who represented for him an important ally throughout the 1970s, notably through the Groupe d’Information sur les Prisons (GIP). Foucault’s later interviews (gathered in *Dits et Écrits*, Foucault 2001) reflect a considerably more nuanced, and at times admiring, assessment of Sartre as an engaged intellectual. For an extensive scholarly treatment of the philosophical relations between the two thinkers, see Flynn (1997, 2005). For biographical context on Foucault’s intellectual trajectory and his relationship with Sartre, see also Eribon (1991) and Macey (1993).
 
 [^note-2]: Derrida asks:

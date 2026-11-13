@@ -191,8 +191,6 @@ Thanks to Brad Armour-Garb, Mark Balaguer, Dave Chalmers, Jim Garson, John Heil,
 
 ## Notes（原文脚注）
 
-## Notes to Mental Representation
-
 [^note-1]: There is some unclarity in the current literature as to whether the conceptual/non-conceptual distinction concerns *content* — what is represented — or merely *style* of representational *vehicle*. See Byrne 2002/3. See also Gunther 2003 for a selection of important papers on non-conceptual content.
 
 [^note-2]: In the case of proprioception, to internal bodily objects and properties. The phenomenal character of pain, for example, is reducible to the representation of disturbances of a certain kind in some region of the body.

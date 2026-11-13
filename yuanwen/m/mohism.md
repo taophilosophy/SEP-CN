@@ -416,8 +416,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 
 ## Notes（原文脚注）
 
-## Notes to Mohism
-
 [^note-1]: ‘Mozi’ is pronounced roughly like “mwo dzuh,” ‘Mo Di’ like “mwo dee.” In the older, Wade-Giles romanization, ‘Mozi’ is written as ‘Mo-tzu’ or ‘Mo Tzu’ and ‘Mo Di’ as ‘Mo Ti’. “Mohism” is an English rendering of the Chinese *Mo zhe* or *Mo jia*, two terms for Mozi’s followers. The ‘h’ in ‘Mohism’ is phonetically redundant but conventionally included to avoid the implication that Mohist views are in any way wet.
 
 [^note-2]: “Confucianism,” the conventional English rendering of *Ru*, is in fact a poor equivalent for the Chinese term, which has a connotation more similar to “classicist” or “ritualist.” In the Chinese tradition, Confucius is the most famous of the *Ru*, but the word ‘*Ru*’ itself does not allude directly to Confucius or his teachings.

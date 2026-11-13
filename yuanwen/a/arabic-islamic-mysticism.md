@@ -231,8 +231,6 @@ al-Farabi | al-Ghazali | Ibn ‘Arabī | Ibn Sina [Avicenna] | Ikhwān al-Safā�
 
 ## Notes（原文脚注）
 
-## Notes to Mysticism in Arabic and Islamic Philosophy
-
 [^note-1]: For the “moaning pillar,” see Nicholson’s Commentary on *Mathnawī,* Bk. 1, p. 141 (verse 2113).
 
 [^ashtiyānī-1973]: Ashtiyānī, Mehdi, 1973. *Commentary on Sabzawārī’s “Sharḥ-i manẓumah”*, A. Falaturi and M. Mohaghegh (eds.), Tehran.

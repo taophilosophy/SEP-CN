@@ -580,8 +580,6 @@ Thanks to audiences at the Sigma Group at the LSE, Leeds HPS, and the first year
 
 ## Notes（原文脚注）
 
-## Notes to Chance versus Randomness
-
 [^note-1]: By the theorem of total probability, if $Q_i$ is the proposition that the chance of $p$ is $x_i, C(p) = \sum_i C(Q_i) C(p\mid Q_i)$. Suppose that one has arrived at one’s current credence $C$ by conditionalising a reasonable initial function on admissible evidence; then if the PP is true (and the NP is approximately true), it follows that one’s credence $C(p)$ is equal to $\sum_i C(Q_i)x_i$. In other words, one’s credence in $p$ is simply your subjective expectation of the chance of $p$ (always assuming you have no inadmissible evidence).
 
 [^note-2]: The proposition expressed by the relevant utterance of the sentence, ‘The coin lands heads’ does exist even when the coin doesn’t land heads. Can it be the bearer of the chance? It seems implausible, since the proposition exists necessarily, and is intrinsically qualitatively identical, even when the chance varies; so the chance cannot supervene on properties of this proposition.

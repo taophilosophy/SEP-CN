@@ -528,8 +528,6 @@ A number of scholars supported this work by providing comments on drafts or expe
 
 ## Notes（原文脚注）
 
-## Notes to Meritocracy
-
 [^note-1]: There’s a related debate about the role of merit in the distribution of educational opportunities. See, e.g., Anderson 2007, Brighouse & Swift 2006, Guinier 2015, Khanna & Szonyi 2022, and Satz 2007. For meritocrats about justice (§4), it’s important to distinguish the distribution of children’s educational opportunities (say, secondary school) from adults’ (graduate school). When it comes to adults, strict meritocratic distribution reigns. But for children, educational opportunities are distributed to create that “equal starting line” (§2.3) which equal opportunity, and meritocracy, require. College is an interesting, borderline case. It’s unclear whether college students are (i) autonomous adults or (ii) children in the final stage of the equal opportunity framework.
 
 [^note-2]: Goldman (1977) gives a hybrid justification for meritocratic hiring. Society has a right, he says, to the superior benefits which meritocratic hiring obtains, and on that basis (in part) the most meritorious applicant deserves the job. Arguments like this often appeal to the idea that selectors (e.g., hiring committees) have a *fiduciary duty* to third parties, like society at-large, which they fulfill by hiring on the basis of merit.

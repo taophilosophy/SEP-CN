@@ -345,8 +345,6 @@ convention | empathy | experimental moral philosophy | moral epistemology | mora
 
 ## Notes（原文脚注）
 
-## Notes to The Moral/Conventional Distinction
-
 [^note-1]: Rescorla (2007 [2019], the entry on convention) provides a valuable review of this literature.
 
 [^note-2]: An important exception is the work of Nicholas Southwood (2011; Southwood & Eriksson 2011)[^southwood-2011][^southwood-2011-2], which relies on more traditional methods of philosophical analysis.

@@ -323,8 +323,6 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 
 ## Notes（原文脚注）
 
-## Notes to Willard Van Orman Quine
-
 [^note-1]: We focus here on the issue of how stimulation patterns are to be divided into types. Responses—primarily utterances—are also specific events which need to be grouped into types if we are to correlate them with stimulation patterns. We shall, however, ignore that issue here.
 
 [^note-2]: Somewhat less roughly: *A* is perceptually similar to *B* than it is to *C* if *A* evokes a response which has been conditioned to stimulation patterns receptually similar to *B* but does not evoke a response conditioned to patterns receptually similar to *C*.

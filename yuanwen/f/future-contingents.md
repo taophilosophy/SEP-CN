@@ -610,8 +610,6 @@ Thanks to Saul Kripke, Nuel Belnap, Jørgen Albretsen, Torben Braüner, Martin P
 
 ## Notes（原文脚注）
 
-## Notes to Future Contingents
-
 [^note-1]: We use double quotes for quotations, direct or indirect, and example sentences and expressions, whereas we use single quotes for terms and names.
 
 [^note-2]: Another possible translation is “An impossible proposition cannot follow after a possible one.” (See Rescher et al. 1971, p. 190.)[^rescher-1971]

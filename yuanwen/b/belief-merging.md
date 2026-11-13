@@ -258,8 +258,6 @@ I am indebted to Eric Pacuit and to an anonymous reviewer of the updated entry, 
 
 ## Notes（原文脚注）
 
-## Notes to Belief Merging and Judgment Aggregation
-
 [^note-1]: The set *At* of atomic propositions is assumed to be ordered, i.e., an order such that *p* comes before *q* and *q* comes before *r*. Thus $(1,0,0)$ represents an interpretation that assigns true to *p* and false to *q* and *r*.
 
 [^note-2]: Technically, *d* is a pseudo-distance as the triangular inequality $(\forall \omega, \omega', \omega'' \in W$, $d(\omega, \omega') \le d(\omega, \omega'') + d(\omega'', \omega'))$ is not required to hold. Konieczny and Pino Pérez (2002) showed that, if *d* satisfies the triangular inequality, then $D_{\Sigma}$ satisfies the *iteration* axiom:

@@ -489,8 +489,6 @@ I want to thank Arianna Betti, Will Bynoe, Chris Hughes, Fabrice Correia, Keith 
 
 ## Notes（原文脚注）
 
-## Notes to States of Affairs
-
 [^note-1]: For an outline of the “prehistory” of states of affairs in the sense discussed here, see Smith 1989: sect. 2.
 
 [^note-2]: Forbes goes on to refine and qualify this conclusion. Sentences don’t stand for states of affairs, but for abstract contents “abstracted” from obtaining states of affairs, see Forbes 1989: 137ff.

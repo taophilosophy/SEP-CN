@@ -224,8 +224,6 @@ As of the 2026 update, Adam Omelianchuk has taken over responsibility for updati
 
 ## Notes（原文脚注）
 
-## Notes to The Definition of Death
-
 [^note-1]: There is an unsettled terminological dispute over how to best refer to the syndrome that is thought to indicate death as determined by neurologic criteria. The term “brain death” has been widely used since the Harvard Ad Hoc Committee’s introduction of the term. Dissatisfaction with it led the President’s Council on Bioethics to recommend “total brain failure” to more clearly highlight the cessation of vital brain *function* over complete anatomical *destruction* (President’s Council 2008)[^president’s-2008]. Recently the American Academy of Neurology recommended the usage of “death by neurologic criteria,” or DNC; however, they combine that abbreviation with the abbreviation for “brain death” throughout their Guideline: BD/DNC (Greer, Kirschen, et al. 2023). For ease of exposition, “brain death” will continued to be used with close attention to what it means in context, and the other terms “total brain failure” and “death by neurologic criteria” will be used synonymously.
 
 [^note-2]: The level of analysis presumed in each approach discussed in this entry is at the level of general physiological standards. The reason for this is that some empirically discernible physical state is needed for epistemological (death determination) purposes. More abstract philosophical notions and medically concrete testing methods will be discussed as needed.

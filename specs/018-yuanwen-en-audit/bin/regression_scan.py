@@ -33,12 +33,21 @@ QUOTE_PREFIX_RE = re.compile(r'^(?:>[ \t]*)+')
 ASCII_WS = ' \t\r\n\f\v'
 
 
+FN_NAME_RE = re.compile(r'\[\^[^\]]+\]')
+NOTES_TITLE_LINE_RE = re.compile(r'^#+\s*Notes to\b')
+
+
 def collapse_quotes(lines):
     """连续 `>` 引行（含嵌套）折叠为单行，空引行为引内段界；两侧同法归一。
-    仅去 ASCII 空白：`\\xa0`（&nbsp; 缩进）是正文内容，参与比较。"""
+    仅去 ASCII 空白：`\\xa0`（&nbsp; 缩进）是正文内容，参与比较。
+    另做两项非内容归一：脚注键名 `[^key]` → `[^FN]`（键名改写不影响语义）、
+    丢弃 notes.html 页标题行（`## Notes to X`，转换器已裁定不保留）。"""
     out, buf = [], []
     for ln in lines:
         ln = ln.rstrip(ASCII_WS)
+        if NOTES_TITLE_LINE_RE.match(ln):
+            continue
+        ln = FN_NAME_RE.sub('[^FN]', ln)
         if ln.startswith('>'):
             t = QUOTE_PREFIX_RE.sub('', ln).strip(ASCII_WS)
             if t:

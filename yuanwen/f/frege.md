@@ -543,8 +543,6 @@ I would like to thank the following people: Kai Wehmeier, whose careful eye as a
 
 ## Notes（原文脚注）
 
-## Notes to Gottlob Frege
-
 [^note-1]: Kreiser 1984 reproduces the record of the books Frege borrowed during these years. There we find that Frege checked out, among other texts, E.K. Dühring, *Kritische Geschichte der allgemeinen Prinzipien der Mechanik* (Berlin, 1873); O. Schlömilch, *Übungsbuch zum Studium der höheren Analysis* (Leipzig, 1868), A. Clebsch, *Vorlesungen über Geometrie* (Leipzig, 1876), A. Clebsch and P. Gordan, *Theorie der Abelschen Funktionen* (Leipzig, 1868), and A. Enneper, *Elliptische Funktionen* (Halle, 1876).
 
 It should be mentioned that Kreiser 2001 (in German) is a comprehensive biography, with many fascinating details about Frege’s life.

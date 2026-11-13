@@ -279,8 +279,6 @@ Aristotle, General Topics: metaphysics | individuals and individuation | innaten
 
 ## Notes（原文脚注）
 
-## Notes to Plato’s Middle Period Metaphysics and Epistemology
-
 [^note-1]: Finer discriminations are possible. There are, I suspect, transitional dialogues between these broad periods and probably between clusters of dialogues that might make up sub-groups within each period. Besides the placement of the *Gorgias* and *Meno* towards the end of the Socratic period, I am not really sure where the *Cratylus* should go, and I suspect the *Phaedrus* is best viewed as coming at the end of the critical period. On the dating see Brandwood 1992.
 
 [^note-2]: *aitia* is difficult to translate. The English ‘cause’ suggests efficient causation, some factor present in a situation that actually brings about a change. The Greek *aitia* has a wider sense, embracing cause, reason, explanation, and classification. To appreciate its range consider the different answers we might give to Why questions, e.g., Why did the window break? Because the brick hit it; because the boy threw the brick; because glass is brittle. See Vlastos 1969, Stough 1976, and Bostock 1986.

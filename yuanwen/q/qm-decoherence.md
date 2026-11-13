@@ -283,8 +283,6 @@ I wish to think many people discussions with whom have shaped my understanding o
 
 ## Notes（原文脚注）
 
-## Notes to The Role of Decoherence in Quantum Mechanics
-
 [^note-1]: The first version of this entry was based on a talk given at the Exploratory Workshop on *Quantum Mechanics on the Large Scale*, The Peter Wall Institute for Advanced Studies, The University of British Columbia, 17–27 April 2003, on whose website one finds links to electronic versions of that and several of the other talks (see the Other Internet Resources).
 
 [^note-2]: Unfortunately, the distinction between ‘true’ collapse (as it appears in collapse approaches to quantum mechanics) and ‘apparent’ collapse (as it appears in no-collapse approaches to quantum mechanics) is often overlooked, muddling conceptual discussions. Further on this point, see e.g. Pearle (1997) and Zeh (2003a, pp. 28–29).

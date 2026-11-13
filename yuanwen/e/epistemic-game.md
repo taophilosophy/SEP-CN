@@ -1277,8 +1277,6 @@ The authors and editors would like to thank Boning Yu and Philippe van Basshuyse
 
 ## Notes（原文脚注）
 
-## Notes to Epistemic Foundations of Game Theory
-
 [^note-1]: When $X$ is infinite, we need to define a $\Sigma$-algebra on $X$, but these technical issues are not important for us at this point, so we restrict attention to finite sets. In this case, $p:X\rightarrow[0,1]$ is a probability measure when $\sum_{x\in X} p(x) = 1$.
 
 [^note-2]: This does not mean that the player will know exactly what the other players will do in the game. There may be more than one “rational choice” or the other players may randomize.

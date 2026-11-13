@@ -321,8 +321,6 @@ For comments, I would like to thank Alan Bale, Francis Corblin, Carmen Dobrovie-
 
 ## Notes（原文脚注）
 
-## Notes to The Logic of Mass Expressions
-
 [^note-1]: Borer (2005) advocates an even more radical view, according to which there is no distinction between nouns and verbs.
 
 [^note-2]: Under the dominant view, these two sentences are cases of conversion: *You should take a hot milk with some honey. You will find a lot of rabbit around here.* In the first sentence, the mass noun *milk* is converted into (used as) a count noun, while in the second sentence, the count noun *rabbit* is converted into a mass noun. Cf. Gillon (1992), Nicolas (2002: chapters 1 and 7). Conversion is a common grammatical possibility, whereby a member of a grammatical category is used in the morphosyntactic environment characteristic of another grammatical category. For instance, proper names like *Picasso* can be converted into (used as) common nouns: *The professor has two Picassos in his class.*

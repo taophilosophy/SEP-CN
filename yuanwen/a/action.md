@@ -470,8 +470,6 @@ Both authors wish to thank Michael Kirley for his editorial assistance, research
 
 ## Notes（原文脚注）
 
-## Notes to Action
-
 [^note-1]: Our focus will be on individual human action. Readers interested in joint action should consult Roth (2017) and Schweikard and Schmid (2021). We similarly defer on the topic of free will to O’Connor and Franklin (2022).
 
 [^note-2]: In providing an analysis of acting for “no reason” in terms of acting for no *further* reason, Davidson does say that this analysis is of interest because “it defends the possibility of defining an intentional action as one done for a reason” (Davidson 1963, 683)[^davidson-1963], insofar as it shows that even in such cases there is a primary reason the explains the action.

@@ -277,8 +277,6 @@ events | frame problem | logic: dynamic epistemic | logic: non-monotonic | logic
 
 ## Notes（原文脚注）
 
-## Notes to The Logic of Action
-
 [^note-1]: The similarity between program logic and modal logic was suggested to Pratt by R. Moore; *cf*. Harel *et al*. 2000, p. 187.
 
 [^note-2]: To be fair, we must also mention that independently similar ideas were developed by Salwicki (1970) with *Algorithmic Logic*.

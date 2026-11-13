@@ -1380,8 +1380,6 @@ We would like to thank Thomas Ryckman for his invaluable comments and suggestion
 
 ## Notes（原文脚注）
 
-## Notes to Hermann Weyl
-
 [^note-1]: Husserl was a professor at Göttingen during Weyl’s student days there, and Weyl attended his lectures. But it was his wife Helene, who later came to Göttingen to study with Husserl, who seems to have sparked Weyl’s interest in phenomenology.
 
 [^note-2]: In particular, while there is compelling evidence that the continued existence of the Ego (one’s consciousness) is dependent on facts about the external world, for instance, the continuing biochemical activity of one’s brain, that dependency cannot be taken as a *primary* datum for the Ego.

@@ -601,8 +601,6 @@ The author would like to thank Eric Quackenbush for his invaluable mathematical 
 
 ## Notes（原文脚注）
 
-## Notes to Johann Friedrich Herbart
-
 [^note-1]: For biographical accounts, see: Weiss 1928: 7, ff.; Herbart 1887a; Boring 1950. Beiser (2014) is the best intellectual biography, especially in presenting the Kantian lines of Herbart’s thought, and his critique of German Idealism (esp. 123–5).
 
 [^note-2]: For example, in his “Psychological Remarks on the Doctrine of Tones” (1811) and in LPs (1850) (p. 30); cp. Weiss 1928: 8; Boudewijnse, et al. 1999: 170.

@@ -269,8 +269,6 @@ Africana Philosophy | Afro-Caribbean Philosophy | Cooper, Anna Julia | critical 
 
 ## Notes（原文脚注）
 
-## Notes to Contemporary Africana Philosophy
-
 [^note-1]: Parties to these debates, which center on the political and metaphysical dangers of unitary conceptions of specifically African identities, include Archie Mafeje, Achille Mbembe, and Ali Mazrui.
 
 [^note-2]: “Shifting the geography of reason” is the title of several Caribbean Philosophical Association conferences. See also Harney and Moten’s *The Undercommons: Fugitive Planning and Black Study* (2013).

@@ -246,8 +246,6 @@ al-Kindi | Albert the Great [= Albertus Magnus] | Aquinas, Thomas | Arabic and I
 
 ## Notes（原文脚注）
 
-## Notes to Scientific Method
-
 [^note-1]: For further reading we recommend Larry Laudan’s (1968) biographical essay which provides a detailed history and references up until the end of the 19ᵗʰ century (while arguing for the history of scientific method as “perhaps the most important bridge between the history of science and its philosophy” (1968: 2)). For contemporary developments, Nola and Sankey (2007, 2000a) assesses the prospects for scientific method. For a historical overview with samples from the primary literature, see Gimbel (2011).
 
 [^note-2]: At the same time, a rich and more critical commentary tradition was going on in the near east. Islamic commentary was far less beholden to the authority of Aristotle, Plato, Galen (ca. 130-ca. 210 B.C.E.), Claudius Ptolemy (90-168), or any other of the classic scholars whose works they read. Through the critical reflections of figures such as Al-Kindi (ca. 800–870), Alhazen (965–1040), and Averroës (1126–1198), several explanatory advances were made. Notable is the critique of observational astronomy by Alhazen (the Latinized name for Ibn al-Haytham ) and the 13ᵗʰ and 14ᵗʰ century Maragha astronomers. They cited the lack of a plausible mechanical underpinning of the Ptolemaic system and its failure to even aim at providing true causes. Importantly, through their influence, skepticism was revitalized as a method in natural philosophy. See the entries on medieval skepticism; influence of Arabic and Islamic philosophy on the Latin West; Arabic and Islamic natural philosophy and natural science; Greek sources in Arabic and Islamic philosophy.

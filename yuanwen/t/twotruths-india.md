@@ -589,8 +589,6 @@ Indian Philosophy (Classical): perceptual experience and concepts | Madhyamaka |
 
 ## Notes（原文脚注）
 
-## Notes to The Theory of Two Truths in India
-
 [^note-1]: There are various theories proposing the date of the Buddha’s birth. On this issue, there is no unanimity among traditional and modern Buddhist scholars. Most of the sources agree that the Buddha had a life-span of eighty-years. The precise date of his birth although remains problematic.
 
 [^note-2]: The Sarvāstivāda ontology classifies all the objects of knowledge within five basic categories: matter (*rūpa*), primary minds, secondary minds (*caitta*), (iv) non-associated composite phenomena which are neither matter nor associated with minds or mental factors (*citta-caitta-viprayukta-saṃskāra*) and (v) non-contingent or unconditioned phenomena (*asaṃskṛta*).

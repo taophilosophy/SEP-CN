@@ -162,8 +162,6 @@ Thanks to Tad Brennan, Stephen Menn, and John Cooper for their helpful comments 
 
 ## Notes（原文脚注）
 
-## Notes to Marcus Aurelius
-
 [^note-1]: The correspondence is most easily accessed in *Marcus Cornelius Fronto* (2 volumes), C. R. Haines (ed.), in the Loeb Classical Library series, and the *Meditations* and other writings in *Marcus Aurelius*, C. R. Haines (ed.), also in the Loeb Classical Library series.
 
 [^note-2]: Haines 1930 p. xv. For an in-depth study of Marcus’ self-dialogue see van Ackeren 2011 vol. 1.

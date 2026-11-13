@@ -269,8 +269,6 @@ My thanks to Juliet Floyd, Dick Schmitt, and Bryan Rogers for corrections.
 
 ## Notes（原文脚注）
 
-## Notes to Wittgenstein’s Logical Atomism
-
 [^note-1]: This observation is owed to Ray Monk. See Monk 1996, 200. It was brought to my attention by Peter Simons.
 
 [^note-2]: Wittgenstein's logical atomism is related to his logical constructivism, according to which every proposition is the result of successive applications of one logical operation — the so-called “N-operator” — to a base of elementary propositions, but this topic goes beyond the scope of the present entry. For a discussion see Geach 1981, 1982; Fogelin 1982, 1976 [1987]; Soames 1983.

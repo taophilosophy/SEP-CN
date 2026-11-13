@@ -175,8 +175,6 @@ Boyle, Robert | Hobbes, Thomas | Hobbes, Thomas: moral and political philosophy 
 
 ## Notes（原文脚注）
 
-## Notes to Hobbes’ Philosophy of Science
-
 [^note-1]: Despite lack of widespread acceptance, Hobbes’ natural philosophy did have some influence, for example, upon the early Leibniz (for discussion, see Garber 2009: 13ff.)[^garber-2009].
 
 [^note-2]: Hobbes most often used the term ‘conception’ rather than ‘idea’, but he also frequently used ‘phantasm’.

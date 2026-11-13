@@ -140,8 +140,6 @@ cosmology: ancient | Plato | Plato: middle period metaphysics and epistemology |
 
 ## Notes（原文脚注）
 
-## Notes to Plato’s *Timaeus*
-
 [^note-1]: For a recent tribute to the cultural influence of the *Timaeus* from late antiquity to the Renaissance see Reydams-Schils (2003).
 
 [^note-2]: See Archer-Hind (1888 and 1988), Taylor (1928 and 1967), and Cornford (1937 and 1997).

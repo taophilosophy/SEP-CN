@@ -150,8 +150,6 @@ I thank John Norton for the illustrations and for ideas leading to a better pres
 
 ## Notes（原文脚注）
 
-## Notes to Nineteenth Century Geometry
-
 ### Notes to the Supplementary Document
 
 1 The informal characterization of *n*-manifolds in the supplement is not altogether accurate and may cover some far-fetched monsters that we do not wish to cover with this concept. For readers who have a smattering of topology the following characterization is preferable.

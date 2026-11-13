@@ -149,8 +149,6 @@ Chile: philosophy in | Latin American Philosophy | Latin American Philosophy: me
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Liberation
-
 [^note-1]: If we take it for granted that one of the measures of the depth and extent of the reception of any philosophical movement is the amount of dissertations written on it, then by this criteria the philosophy of liberation has been the most studied Latin American philosophical current. A quick search in the Philosopher’s Index will yield several dozens of dissertation (Solîs Bello Ortiz et al. 2009: 411, note 24).
 
 [^note-2]: Beorlegui refers to five matrixes, but he neglects one that was also clearly important, namely the sociology of liberation, without a doubt another generative matrix for liberation philosophy. Our presentation, in turn, elides one that he foregrounds, which is redundant. Thus, the discussion here deviates slightly from his characterization.

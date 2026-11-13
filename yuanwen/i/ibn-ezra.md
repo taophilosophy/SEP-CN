@@ -209,8 +209,6 @@ The editors are grateful to Jasper Pirasteh for his help in correcting a number 
 
 ## Notes（原文脚注）
 
-## Notes to Abraham Ibn Ezra
-
 [^note-1]: Levi ben Gershom, *The Wars of the Lord*, trans. S. Feldman, vol. 1 (Philadelphia: Jewish Publication Society of America, 1984), 136–137. The translation from Ibn Ezra is that of Feldman; see also his notes d and 8.
 
 [^note-2]: Abraham Maimonides, *Milhamot ha-Shem* (Jerusalem: Mossad Harav Kook, 1953), ed. R. Margoliouth, p. 49.

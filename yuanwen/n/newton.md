@@ -126,8 +126,6 @@ Copernicus, Nicolaus | Descartes, René | Kant, Immanuel | Leibniz, Gottfried Wi
 
 ## Notes（原文脚注）
 
-## Notes to Isaac Newton
-
 [^note-1]: Of the many biographies of Newton, two stand out: Westfall 1980 provides the most thorough intellectual biography, and Hall 1992 is meticulous in not overreaching what we truly know about him. Also helpful are Feingold 2004 and Iliffe 2007.
 
 [^note-2]: This treatise was published in English translations in 1736 and 1737, the latter under the title, “A Treatise of the Method of Fluxions and Infinite Series, With its Application to the Geometry of Curve Lines” (reprinted in [**W**, I, 27-137]; see also [**M**, III, 32-372] for a fully annotated version of the Latin text with translation).

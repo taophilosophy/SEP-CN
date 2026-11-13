@@ -1472,8 +1472,6 @@ This work has been partially supported by the ANR project *The Geometry of Algor
 
 ## Notes（原文脚注）
 
-## Notes to Recursive Functions
-
 [^note-1]: Grassmann and Peirce both employed the old convention of regarding 1 as the first natural number. They thus formulated the base cases differently in their original definitions—e.g.,
 
 > By $x + y$ is meant, in case $x = 1$, the number next greater than $y$; and in other cases, the number next greater than $x' + y$, where $x'$ is the number next smaller than $x$. (Peirce 1881: 87)[^peirce-1881]

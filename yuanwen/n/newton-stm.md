@@ -280,8 +280,6 @@ I'd like to thank John Norton for observations which led to many improvements.
 
 ## Notes（原文脚注）
 
-## Notes to Newton’s Views on Space, Time, and Motion
-
 [^note-1]: In future updates to this entry, I plan to discuss:
 
 - absolute space and time in relation to Newton's theology, and

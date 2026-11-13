@@ -503,8 +503,6 @@ I am grateful to Thomas Hendrey for drawing my attention (in 2011) to an error i
 
 ## Notes（原文脚注）
 
-## Notes to Sentence Connectives in Formal Logic
-
 [^note-1]: Probably the best all-purpose understanding of what logics are would take them as equivalence classes of proof systems under the relation of having mutually interderivable rules, though even this ignores issues about translational equivalence across differing languages. For many practical purposes it is sufficient to individuate logics more coarsely, as consequence relations or generalized consequence relations, or even, as is common in some areas, simply sets of formulas.
 
 [^note-2]: There has been much controversy as to how well this or that set of rules governing implication or disjunction, for example, manages to capture the (putatively) corresponding natural language analogue—*if-then*, *or* (in the cases cited)—but this entry will not be considering such connective-specific issues.

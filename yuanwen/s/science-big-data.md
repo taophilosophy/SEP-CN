@@ -270,8 +270,6 @@ The research underpinning this entry was funded by the European Research Council
 
 ## Notes（原文脚注）
 
-## Notes to Scientific Research and Big Data
-
 [^note-1]: When a data collection can or should be regarded as “big data”, and the significance of this particular label for research, is discussed at length in Leonelli (2016), Kitchin and McArdle (2016) and Aronova, van Oertzen, and Sepkoski (2017).
 
 [^note-2]: This understanding of scientific knowledge is also embedded within publishing practices. As exemplified by the use of impact factors, scientific excellence is evaluated on the strength of authorship of articles, thus placing the production of scientific claims at the pinnacle of knowledge creation. Researchers whose activities focus away from writing theoretical statements—such as data curators or software developers—are often viewed as technicians with a lower status. The emergence of big data is challenging these habits and perceptions, for instance through the rise of Open Science practices, but it is no wonder that within this landscape, philosophers have focused their attention on models and theories as central outputs of research, leaving data behind.

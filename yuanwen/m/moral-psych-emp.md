@@ -301,8 +301,6 @@ altruism: empirical approaches | egoism | ethics: virtue | experimental moral ph
 
 ## Notes（原文脚注）
 
-## Notes to Moral Psychology: Empirical Approaches
-
 [^note-1]: For overviews of this literature see Tiberius (2015) and Alfano (2016). For useful collections of papers see Sinnott-Armstrong (2008a,b,c, 2014), Doris et al. (2010), Decety & Wheatley (2015), and Voyer & Tarantola (forthcoming).
 
 [^note-2]: For an overview of this work see the SEP entry on experimental moral philosophy. For some recent papers see Sarkissian & Wright 2014.

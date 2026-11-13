@@ -395,8 +395,6 @@ Broad, Charlie Dunbar | causation: backward | consciousness: temporal | events |
 
 ## Notes（原文脚注）
 
-## Notes to Being and Becoming in Modern Physics
-
 [^note-1]: As translated in Wheelwright (1960). The quote by Parmenides in what follows is also from this volume.
 
 [^note-2]: Many recent papers on these issues are collected in Oaklander and Smith (1994). Gale (1967) has some good older papers and a useful bibliography.

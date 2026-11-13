@@ -265,8 +265,6 @@ computer science, philosophy of | diagrams: and diagrammatical reasoning | Göde
 
 ## Notes（原文脚注）
 
-## Notes to Non-Deductive Methods in Mathematics
-
 [^note-1]: The letter (dated August 31, 1965) from Morris Kline at NYU is available in Lakatos File 13/485.
 
 [^note-2]: It is worth noting that in some cases in mathematics the distinction between context of discovery and context of justification may be very blurry. Thus in set theory, the ‘discovery’ of a new axiom about real numbers, such as the axiom of definable determinacy, is typically the end process of a long period of working with the candidate axiom and examining its consequences. Moreover its status as an axiom may rest at least in part on arguments that it is in some sense ‘inevitable.’

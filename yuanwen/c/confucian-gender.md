@@ -273,8 +273,6 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 
 ## Notes（原文脚注）
 
-## Notes to Gender in Confucian Philosophy
-
 [^note-1]: For the use of the term *fu* 婦 and *nü* 女 in the *Book of Songs* (*Shijing*), see Song 1, 9, 17, 23, 39, 42, 51, 58, 59, 107, 154, 189, and 218. By and large, *nü* 女 signifies daughters, young maidens, or new brides, and *fu* married women. But in a few songs, the term *nü* 女 is also used to denote a married woman as well; see Song 69, 82, 211, 237, and 247.
 
 [^note-2]: For more on the differences between humans and animals, see *Mozi*, Ch. 6: “人情也, 則曰男女; 禽獸也, 則曰牡牝雄雌也”; *Xunzi* 5.9: “夫禽獸有父子,而無父子之親,有牝牡而無男女之別”; *Liji*, “*Jiaotesheng*” chapter: “無別無義, 禽獸之道也”. The term *xiong-ci* (male-female animals) also appears in the *Daodejing*, ch. 28 and ch.10 where the distinction between humans and animals is less explicit.

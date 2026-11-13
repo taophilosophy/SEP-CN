@@ -391,8 +391,6 @@ God, arguments for the existence of: moral arguments | James, William | life: me
 
 ## Notes（原文脚注）
 
-## Notes to Pragmatic Arguments and Belief in God
-
 [^note-1]: Translated by W.K.C. Guthrie.
 
 [^note-2]: Some commentators read the Will-to-Believe essay as advancing a truth-dependent argument.

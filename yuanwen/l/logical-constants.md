@@ -409,8 +409,6 @@ I am grateful to Fabrizio Cariani, Kosta Došen, Solomon Feferman, Mario Gómez-
 
 ## Notes（原文脚注）
 
-## Notes to Logical Constants
-
 1. They are called “constants” not (as Kuhn 1981 supposes)[^kuhn-1981] because their interpretations do not vary across models—after all, the “nonlogical constants” are called “constants” too—but because they are not *variables*.
 
 2. A *first-level function* is a function whose arguments are objects. A *second-level function* is a function whose arguments are first-level functions.

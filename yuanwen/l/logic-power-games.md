@@ -654,8 +654,6 @@ The author wishes to thank the anonymous reviewers and Valentin Goranko for the 
 
 ## Notes（原文脚注）
 
-## Notes to Reasoning About Power in Games
-
 [^note-1]: This property is typically used when proving completeness via canonical model construction.
 
 [^note-2]: This entry will take neighborhood semantics and non-normal modal logics as the reference formalisms. The reason for this simply lies in the intuitive and straightforward connection between coalitional choices and subsets of outcomes in a relational structures. Everything in this entry could be done only using normal modal logics (and Kripke models) however we felt that the neighborhood approach could offer an added value in terms of clarity. For a mathematical treatment of the connection between the two approaches see for instance Hansen, Kupke, & Pacuit 2009 or the classic Kracht & Wolter 1999.

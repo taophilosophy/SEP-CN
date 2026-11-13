@@ -513,8 +513,6 @@ assertion | convention | descriptions | disjunction | implicature: optimality th
 
 ## Notes（原文脚注）
 
-## Notes to Implicature
-
 [^note-1]: Grice 1961: §3; 1975: 24; Harnish 1976: 328–9; Levinson 1983: 97; Leech 1983: 9; Neale 1992: 519, 528; Horn 2004: 4; W. Davis 2007a; Blome-Tillmann 2013a: 170–1; Huang 2014: 31. Bach and Relevance theorists define “implicature” more narrowly (see §13 below).
 
 [^note-2]: An implicature is sometimes defined briefly as something meant but not said, omitting the connection between the saying and the meaning (e.g., Allott 2018: 3)[^allott-2018]. This would literally cover malapropisms, however, as when Yogi Berra uttered “Texas has a lot of electrical votes”. What he meant was not what he said. But Yogi would not be described as having implicated that Texas has a lot of electoral votes. He meant that by uttering the sentence, but not by saying that Texas has a lot of electrical votes. He said that by accident.

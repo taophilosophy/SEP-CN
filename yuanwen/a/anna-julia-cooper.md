@@ -236,8 +236,6 @@ Many thanks to Beverly Guy-Sheftall, Vivan M. May, Joycelyn Moody, Shirley Moody
 
 ## Notes（原文脚注）
 
-## Notes to Anna Julia Cooper
-
 [^note-1]: Note: In this entry, *Black* and *Blackness* are capitalized, in the same way that *African American* is typically capitalized. *Black* is used rather than *African American* throughout because it is a more inclusive term. Also, *white* is used in lowercase as an intended disruption of the norm (i.e., using either capitals or lowercase letters for both terms). This usage doesn’t apply to quoted material.
 
 [^note-2]: Sojourner Truth, whom Cooper described as a “unique and rugged genius,” (VAJC, 116). For more on the controversy see Neil Painter’s “Sojourner Truth in Life and Memory: Writing the Biography of and American Exotic” in *Gender and History* 2 (1990), 3–19. See also Painter’s full biography of Truth, *Sojourner Truth: A Life, A Symbol* (W. W. Norton and Company, 1997).

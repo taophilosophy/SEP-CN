@@ -160,8 +160,6 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 ## Notes（原文脚注）
 
-## Notes to John Buridan
-
 [^note-1]: Michael 1985 (79–238 399–404).
 
 [^note-2]: However, the significance of such details is beginning to be understood more fully by historians through recent prosopographical research. See Courtenay 1999, 2004a.

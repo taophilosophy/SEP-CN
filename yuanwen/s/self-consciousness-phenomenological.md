@@ -203,8 +203,6 @@ bodily awareness | consciousness | consciousness: higher-order theories | Husser
 
 ## Notes（原文脚注）
 
-## Notes to Phenomenological Approaches to Self-Consciousness
-
 [^note-1]: Drawing on Gibson’s ecological approach, and the notion that the very flow pattern of optical information provides us with an awareness of our own movement and posture and that all perception consequently involves a kind of self-sensitivity, a co-awareness of self and of environment (Gibson 1966, 111–126)[^gibson-1966], Bermúdez (1998, 128) writes: “If the pick-up of self-specifying information starts at the very beginning of life, then there ceases to be so much of a problem about how entry into the first-person perspective is achieved. In a very important sense, infants are born into the first-person perspective. It is not something that they have to acquire *ab initio*.” See Gallagher (2005) for the connection between the developmental research and phenomenological conceptions of self-consciousness. For a more extensive discussion of the similarities between the non-conceptual self-awareness and the phenomenological view, see Zahavi (2002).
 
 [^note-2]: For some interesting attempts at articulating the differences and similarities between the standard higher-order accounts, Brentano’s two-object account, and the non-objectifying approach of the phenomenologists, cf. Kriegel and Williford (2006), and Kriegel (2006).

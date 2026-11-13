@@ -408,8 +408,6 @@ assertion | belief | convention | grounding, metaphysical | meaning, theories of
 
 ## Notes（原文脚注）
 
-## Notes to The Normativity of Meaning and Content
-
 [^note-1]: Glüer & Wikforss (2009) carves out (part of) the same terrain in a slightly different, purely systematic way, treating CE and CD normativism as mutually exclusive claims implying opposite directions of metaphysical determination. The current, wider use of “ME/CE normativity” allows for the combination of ME/CE and MD/CD normativism and is entirely due to the actual shape of the debate to be outlined in this article.
 
 [^note-2]: Supervenience relations can be of many kinds. For instance, they can be one-one (equivalence relations) or many-one (“mere” supervenience relations). Some of them allow for analytic or ontological reduction, others do not. Soames (1997), for instance, distinguishes between determination by relations of necessary consequence and by relations of a priori consequence. He argues that the argument Kripke’s skeptic provides against determinate meaning facts suffers from equivocation between these two readings of determination (Soames 1997: 222ff, esp. 232)[^soames-1997]. Whether supervenience is sufficient for metaphysical explanation is controversial; something stronger—often called “grounding”—might be required (see SEP article on metaphysical grounding for more on this).

@@ -390,8 +390,6 @@ Jeffrey Koperski would like to thank Hans Halvorson, Rodney Holder, and Thomas T
 
 ## Notes（原文脚注）
 
-## Notes to Teleological Arguments for God’s Existence
-
 [^note-1]: The following is a somewhat controversial construal of Paley. At some later points in *Natural Theology*, Paley’s language sounds very comparative (see, e.g., Paley 1802 [1963], 37ff)[^paley-1802]. Note also that Paley was accused of plagiarizing this material from the Dutch author Bernard Nieuwentyt (Jantzen 2014, 168-69).
 
 [^note-2]: In this connection, see also Glass and Wolfe 1986 (17–19). See also McPherson 1965 (79), and Sober 1993 (34–5).

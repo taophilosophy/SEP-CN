@@ -407,8 +407,6 @@ I would like to thank Sarah W. Holtman, Maria E. Reicher and Edward N. Zalta for
 
 ## Notes（原文脚注）
 
-## Notes to Alexius Meinong
-
 [^note-1]: In Meinong 1910, we find (p. 74 [*58*]): “Over against real objects such as a table and a chair—or for that matter, representing [*Vorstellen*] and desiring [*Begehren*]—stand ideal objects, ones whose being can be none other than subsistence, if they do have any being.”
 
 [^note-2]: The main title of Routley 1980, *Exploring Meinong’s Jungle and Beyond*, is a critical allusion to the following passages from Kneale 1949:

@@ -185,8 +185,6 @@ As of the 2026 revision, Jessica Begon has taken over responsibility for updatin
 
 ## Notes（原文脚注）
 
-## Notes to Disability and Justice
-
 [^note-1]: The appearance of a closer connection between causation and justice may reflect the use of the same moral baseline for determining both, i.e. the view that a disadvantage is caused by a social arrangement if and only if it would not have existed under a morally-privileged baseline—e.g. a state of nature or a collectivist utopia. If causation is assessed by the latter baseline, then any disadvantage caused by an existing social arrangement will be an injustice. But the use of such a baseline for determining causation or justice needs to be justified.
 
 [^note-2]: Profound intellectual and psychiatric impairments may also pose serious challenges for the medical model, in that many of those impairments may be difficult to understand as biomedical dysfunction or disease or to treat with biomedical interventions.

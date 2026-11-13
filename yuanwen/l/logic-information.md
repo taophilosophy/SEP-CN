@@ -565,8 +565,6 @@ The authors would like to extend their thanks to the Editors of the Stanford Enc
 
 ## Notes（原文脚注）
 
-## Notes to Logic and Information
-
 [^note-1]: The interested reader should note that Bar-Hillel and Carnap’s original work is no mere artefact of history. Contemporary research into 6G communications technology—“semantic communications”—are reexploring this material with urgency. See Ma *et al.* (2023).
 
 [^note-2]: Further afield than theoretical computer science, or epistemic logics (for which see section 1.1 below), hard and soft information have found particular utility in financial modelling, for which see Bertomeu and Marinovic (2016).

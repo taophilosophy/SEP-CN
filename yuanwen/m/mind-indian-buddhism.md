@@ -446,8 +446,6 @@ Abhidharma | Asaṅga | Buddha | consciousness | consciousness: and intentionali
 
 ## Notes（原文脚注）
 
-## Notes to Mind in Indian Buddhist Philosophy
-
 [^note-1]: The translation of *an-ātta*/*an-ātman* as "not-self," rather than "no-self," is meant to convey more accurately the Buddha's position on personal identity. The doctrine of *an-ātta* offers a critical examination of the claim that some physical or mental item or aggregate could be identified as the self, that is, as possessing some kind of fix, permanent, and unitary identity. The Buddha does not deny that there is a principle of identify (as attested by the frequent use of the term *ātta* in the canonical literature in the minimally psychological sense of "myself" or "oneself"); just that this principle is not a self (that is, is not a metaphysically unitary and permanent entity). Indeed, the not-self teachings should be understood in the context of Buddhist practice: they are meant to undermine the tendency to take any of the elements of existence and/or experience (body, feelings, dispositions, etc.) as a self. See §5.6 for further discussion of the not-self doctrine in the context of Buddhist personalism.
 
 [^note-2]: Abbreviation for Sanskrit. Unless otherwise specified, technical terms in parenthesis are given in their original Sanskrit form.

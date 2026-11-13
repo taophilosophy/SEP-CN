@@ -455,8 +455,6 @@ Many thanks to David Chalmers, Lloyd Humberstone, Frank Jackson, Robert Stalnake
 
 ## Notes（原文脚注）
 
-## Notes to Two-Dimensional Semantics
-
 [^note-1]: There are two standard ways of interpreting rigid designation, both of which are consistent with Saul Kripke’s original introduction of the term (1970 lectures, published 1980). On the first interpretation, a name rigidly designates a given object *at every world in which that object exists*, and it fails to designate anything at worlds in which the object does not exist. On the second interpretation, a name rigidly designates a given object at every world *regardless of whether the object exists in that world*. For present expository purposes, we’ll rely on the latter interpretation.
 
 [^note-2]: An object’s *modal profile* or *nature*, in this sense, should be distinguished from its essential properties. A modal profile (or nature) captures all the possible combinations of properties the object might instantiate in different possible worlds. In contrast, the object’s essential properties are the specific subset of properties (if any) that the object must have in every world in which it exists. Standard possible world semantics can be used to capture the modal profile associated with ‘Roger Federer’ by first assigning an intension to the name which maps every possible world onto a particular individual, RF, and then providing the resources for determining, of any given predicate, ‘P’, whether there is a possible situation in which RF exemplifies the property picked out by that predicate. The complete modal profile of RF can be made explicit by surveying all the different combinations of properties RF exhibits in the possible worlds in which he exists.

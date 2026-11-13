@@ -402,8 +402,6 @@ This 2024 version of the article on provability logic is dedicated to the memory
 
 ## Notes（原文脚注）
 
-## Notes to Provability Logic
-
 [^note-1]: Below we will present a more detailed proof sketch of GL $\vdash \Box\Diamond A \rightarrow \Box B$, a simple but surprising theorem that was suggested to us by Nils Kurbis. Let us first gather some ingredients. Note that in the modal logic K, so certainly in GL, we have that for each formula $ C $, the two formulas $ C \rightarrow \bot$ and $\neg C$ are logically equivalent and may be replaced by each other. The same holds for the two formulas $\Diamond C$ and $\neg\Box\neg C$. Moreover, by the Generalization Rule, the Distribution Axiom, and the Modus Ponens rule, we have the following derived rule for all formulas $C, D$: If GL $\vdash C \rightarrow D$, then GL $\vdash \Box C \rightarrow \Box D$. Here follows the promised proof sketch.
 
 1. GL $\vdash \bot \rightarrow \neg A$ (tautology of propositional logic)

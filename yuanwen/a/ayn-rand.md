@@ -327,8 +327,6 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, and the editors of 
 
 ## Notes（原文脚注）
 
-## Notes to Ayn Rand
-
 [^note-1]: For concerns about the accuracy of the published version of Rand’s journals, see Sciabarra 1998 and Burns 2009.
 
 [^note-2]: Michael Shermer discusses the cultish features of Rand’s followers, but also writes that many of her ideas, including her defense of reason, individualism, and *laissez-faire* capitalism, are powerful and insightful (Shermer 1993)[^shermer-1993].

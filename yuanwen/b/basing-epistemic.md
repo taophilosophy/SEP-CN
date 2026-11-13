@@ -207,8 +207,6 @@ epistemology | justification, epistemic: foundationalist theories of | justifica
 
 ## Notes（原文脚注）
 
-## Notes to The Epistemic Basing Relation
-
 [^note-1]: Though see Jenkin (2022), who has presented a novel argument that some perceptual states can be based on reasons.
 
 [^note-2]: In isolation, the phrase “the basing relation” is ambiguous between the concept “basing relation” and particular instances of basing relations. However, it should be clear from the context which is meant.

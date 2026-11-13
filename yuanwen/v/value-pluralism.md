@@ -236,8 +236,6 @@ Berlin, Isaiah | ethics: virtue | hedonism | liberalism | metaethics | Mill, Joh
 
 ## Notes（原文脚注）
 
-## Notes to Value Pluralism
-
 [^note-1]: For example, it has been argued that all moral theories can be described in consequentialist terms, and so consequentialism is trivial, and it has been argued that virtue ethics is not a structurally distinct theory from consequentialism or deontology. See the entries on consequentialism and virtue ethics. However, it is certainly the case that deontologists and consequentialists tend to talk about value in a different way. Here the entry remains neutral on whether or not these different ways of talking really reflect different views about the nature of value.
 
 [^note-2]: We will return to the complicated question of what kind of pluralist Ross is.

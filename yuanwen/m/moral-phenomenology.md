@@ -247,8 +247,6 @@ This entry is thoroughly collaborative; the order of authorship is alphabetical.
 
 ## Notes（原文脚注）
 
-## Notes to Moral Phenomenology
-
 [^note-1]: When using the word “phenomenology”, we have, for the sake of clarity, adopted the convention of capitalizing its first letter when referring exclusively to the phenomenology of the tradition associated with Husserl. Uncapitalized and appearing alone, it refers to the field of phenomenology associated with analytic philosophy of mind. When “moral phenomenology” appears or “phenomenology” appears in a phrase with “moral”, it refers to moral phenomenology as encompassing both traditions.
 
 [^note-2]: In order to sidestep disputes about the nature of representation and representational (intentional) content, we use the term “present” neutrally to indicate that something is placed before the mind (cf. the German term *vorstellen*).

@@ -350,8 +350,6 @@ Bradley, Francis Herbert | causation: the metaphysics of | consciousness: higher
 
 ## Notes（原文脚注）
 
-## Notes to Śrīharṣa
-
 [^note-1]: In his poem, *The Exploits of Nala, the King of Niṣadha* (*Naiṣadhīyacarita*), Śrīharṣa informs the reader that he was honored by the king of Kānyakubja (Kanauj in modern-day Uttar Pradesh). Throughout the first millennium CE, the kings of Kanauj were patrons of Sanskrit literature, having supported renowned poets like Bāṇabhaṭṭa and Bhavabhūti. It remains unclear exactly which king of Kanauj honored Śrīharṣa: both pre-modern commentators and contemporary literary historians have failed to ascertain this. However, they do agree that the patron of Śrīharṣa must have been a king from the Gāhaḍavāla dynasty which ruled parts of modern-day Uttar Pradesh and Bihar in the 11ᵗʰ and 12ᵗʰ centuries: either Govindacandra (1114–1155 CE), or his son Vijayacandra (1155–1170 CE), or his grandson Jayacandra (1170–1193 CE). For discussion, see Jani (1996) and Patel (2014).
 
 [^note-2]: For introductory discussion of Vedānta, see Taber (2011).

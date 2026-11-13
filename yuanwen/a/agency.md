@@ -191,8 +191,6 @@ Thanks to Alfred Mele and Randolph Clarke for very helpful comments on an earlie
 
 ## Notes（原文脚注）
 
-## Notes to Agency
-
 [^note-1]: According to the *Oxford English Dictionary*, the earliest use of ‘agent’ in English can be found in a treatise on *alchemy*, written in 1471, where it was used to denote “a force capable of acting on matter”. It is noted that the semantic development of ‘agency’ has been considerably shaped by association with ‘agent’, which is defined, most generally, as a “person who or thing which acts upon someone or something; one who or that which exerts power; the doer of an action”.
 
 [^note-2]: In her main contribution to the philosophy of action, Anscombe (1957) did not use the term ‘agency’ at all. Davidson used it on occasion, but always under the assumption that agency is, essentially, intentional action (see, especially, Davidson 1971)[^davidson-1971]. Sometimes, the term ‘agency theory’ was used to denote the view that the relation between agents and their actions is primitive and irreducible. This usage is now outdated, as it has become common to refer to this position as the theory of agent-causation or the agent-causal account of agency (see section 3.1).

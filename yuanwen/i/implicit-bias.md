@@ -320,8 +320,6 @@ Many thanks to Yarrow Dunham, Jules Holroyd, Bryce Huebner, Daniel Kelly, Calvin
 
 ## Notes（原文脚注）
 
-## Notes to Implicit Bias
-
 [^note-1]: For research on implicit social cognition and consumer products, see Maison et al. (2004) and Perkins & Forehand (2012); for self-esteem, see Greenwald & Farnham (2000) and Zeigler-Hill and Jordan (2010); for food, see Friese et al. (2008) and Mai et al. (2011); for alcohol, see De Houwer et al. (2004) and Houben and Wiers (2008); and for political parties and values, see Galdi et al. (2008) and Nosek et al. (2010).
 
 [^note-2]: For accessible introductions to philosophical questions about implicit bias, see Kelly & Roedder (2008), Kelly et al. (2010b), Brownstein & Saul (2016 a,b), and Beeghly & Madva (forthcoming).

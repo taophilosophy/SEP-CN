@@ -224,8 +224,6 @@ Anaxagoras | Anaximander | Anaximenes | atomism: ancient | Democritus | Diogenes
 
 ## Notes（原文脚注）
 
-## Notes to Presocratic Philosophy
-
 [^note-1]: There is dispute about the extent of the quotation here; it is widely agreed that the sentence beginning “For they give justice, etc.” is Anaximander’s, but it may well be that part of the preceding sentence is also authentic (Kahn 1985a)[^kahn-1985a]. The presence of the Aristotelian word *elements* shows that the analysis of Anaximander’s motivation and the discussion of elements at the end of the passage are Simplicius’ comments. All translations from the Greek are by P. Curd.
 
 [^note-2]: It is unlikely that any Presocratic thought explicitly in terms of underlying substances that gain and lose properties through the agency of an external efficient cause. That notion is probably first found in Plato and then fully analyzed in Aristotle, although there are hints of it in some early thinkers.

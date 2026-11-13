@@ -234,8 +234,6 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 ## Notes（原文脚注）
 
-## Notes to Reasons for Action: Agent-Neutral vs. Agent-Relative
-
 [^note-1]: Thanks to David Copp for useful discussion of how best to read Nagel on this point.
 
 [^note-2]: Thanks to an anonymous referee for highlighting the importance of being clear about this from the outset.

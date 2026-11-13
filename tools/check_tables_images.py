@@ -6,6 +6,7 @@
   2. academic-table  —— `## 学术工具` 节用表格形态（ADR-0037 归一为列表）；
   3. table-compact   —— 非空单元格管道内侧多空格填充（禁对齐填充；单空格合法）；
      table-fullwidth —— 单元格含全角空格（rules/02 一律改半角）；
+  3b. table-no-sep   —— 表块缺分隔行（渲染不成表格，硬缺陷）；
   4. table-en-prose  —— 单元格去代码/数学后 ≥4 英文词且无汉字（未译候选，
                         逐个定性：文献条目照录待括注汉译／漏译）；
   5. alt-lang        —— 图片 alt 无汉字（ADR-0036：alt 译中文；候选）；
@@ -97,16 +98,17 @@ def check_file(path, yuanwen=False):
         if len(set(ncols)) > 1:
             issues.append((start, 'table-cols',
                            f'列数不一致 {sorted(set(ncols))}'))
+        sep_idx = next((i for i, r in enumerate(rows)
+                        if all(SEP_CELL.match(c) for c in r if c)
+                        and any(c for c in r)), None)
+        if sep_idx is None and len(rows) >= 2:
+            issues.append((start, 'table-no-sep',
+                           '表块无分隔行，渲染不成表格（首行会被当作段落）'))
         if yuanwen:
-            if is_boilerplate(heading):
-                continue
             continue
         if is_boilerplate(heading):
             issues.append((start, 'academic-table',
                            '学术工具节为表格形态，应改列表（ADR-0037）'))
-        sep_idx = next((i for i, r in enumerate(rows)
-                        if all(SEP_CELL.match(c) for c in r if c)
-                        and any(c for c in r)), None)
         for off, rawline in enumerate(raw):
             if sep_idx is not None and off == sep_idx:
                 continue
@@ -114,7 +116,7 @@ def check_file(path, yuanwen=False):
             body = body[:-1] if body.endswith('|') else body
             for cell in body.split('|'):
                 core = cell.strip()
-                if '　' in cell:
+                if '\u3000' in cell:
                     issues.append((start + off, 'table-fullwidth',
                                    f'单元格含全角空格：{core[:40]!r}'))
                     break

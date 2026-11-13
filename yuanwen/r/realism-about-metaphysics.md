@@ -400,8 +400,6 @@ abstract objects | empiricism: logical | Platonism: in metaphysics | presentism 
 
 ## Notes（原文脚注）
 
-## Notes to Realism and Anti-Realism about Metaphysics
-
 [^note-1]: Views of this kind have been endorsed by, e.g., Carnap (1950), Hirsch (2002, 2009), Thomasson (2007, 2015), and Rayo (2013). We will consider views like this in much more detail in sections 2 and 3.
 
 [^note-2]: Virtually all nihilists can be interpreted as endorsing something roughly like this view (see, e.g., Rosen & Dorr 2002; Dorr 2005; Sider 2013; and Horgan & Potrč 2000)[^dorr-2005][^horgan-2000][^rosen-2002][^sider-2013]. And while van Inwagen (1990) and Merricks (2001) aren’t nihilists (because they endorse the existence of *some* composite objects, namely, animals), they endorse a similar pair of views; in particular, they are anti-realists about non-living composite objects, but they are *realists* (in the senses of the term that’s relevant to this entry) about the question of whether there are any non-living composite objects.

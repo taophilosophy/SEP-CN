@@ -207,8 +207,6 @@ Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heideg
 
 ## Notes（原文脚注）
 
-## Notes to Count Paul Yorck von Wartenburg
-
 [^note-1]: For the dating of the manuscripts, see Fetscher (1991, XLIX/L).
 
 [^note-2]: Dilthey had dedicated his first book *Einleitung in die Geisteswissenschaften* (1883) to Yorck. The dedication reads as follows:

@@ -399,8 +399,6 @@ character, moral | citizenship | cosmopolitanism | democracy | Dewey, John | eth
 
 ## Notes（原文脚注）
 
-## Notes to Civic Education
-
 [^note-1]: Civic education can also include any type of systematic process that seeks to mobilize people politically, say through public interest or reform groups or through trade or professional associations. As one example of the efficacy of such civic education, see Steven E. Finkel’s “Civic Education and the Mobilization of Political Participation in Developing Democracies,” *Journal of Politics* 64, no. 4, 2002, 994–1020.
 
 [^note-2]: William Galston, “Civic Education and Political Participation,” *Community Matters: Challenges to Civic Engagement in the 21ˢᵗ Century*, Verna V. Gehring (Ed.), Lanham, MD: Rowman & Littlefield Publishers, 2005, p. 23. In 2001 William Damon observed: “Young people across the world have been disengaging from civic and political activities to a degree unimaginable a mere generation ago. The lack of interest is greatest in mature democracies, but it is evident even in many emerging and troubled ones. Today there are no leaders, no causes, no legacy of past trials or accomplishments that inspire much more than apathy or cynicism from the young.” “To Not Fade Away: Restoring Civil Identity Among the Young,” in Ravitch and Viteritti 2001, p. 123.

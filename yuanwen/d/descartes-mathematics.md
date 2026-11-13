@@ -325,8 +325,6 @@ algebra | analysis | Descartes, René | Descartes, René: life and works
 
 ## Notes（原文脚注）
 
-## Notes to Descartes’ Mathematics
-
 [^note-1]: Given the primary goal to situate *La Géométrie* in the philosophical debates surrounding early modern mathematical practice, there will be no discussion of Book Three, the section of Descartes’ work that stands as a primary impetus in the development of modern algebra. For an illuminating treatment of Book Three, see Bos (2001), Chapter 27.
 
 [^note-2]: This is not to say that these more complicated curves were required for solutions to these problems. See, for instance, Panza (2011), 59–61 for solutions to the problem of angle trisection that did not rely on the spiral.

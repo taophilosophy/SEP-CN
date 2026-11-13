@@ -387,8 +387,6 @@ Boyle, Robert | Descartes, René | Galen | health | Locke, John | medicine, phil
 
 ## Notes（原文脚注）
 
-## Notes to Locke on Medicine
-
 [^note-1]: Biblioteca Marciana, Venice, MS. Lat. VII, 22, as identified by Professor Peter Anstey.
 
 [^note-2]: *Demiurge*, see next note.

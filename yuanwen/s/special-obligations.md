@@ -231,8 +231,6 @@ consequentialism | contract law, philosophy of | impartiality | justice | person
 
 ## Notes（原文脚注）
 
-## Notes to Special Obligations
-
 [^note-1]: The parentheticals have been added because it is at least possible for some person to have made promises to every moral being on the planet, or to be friends with all moral being. Such a person would have to have lived a very long life, but such Methuselahs are not impossibilities.
 
 [^note-2]: It will not do to say that, for example, duties of mutual aid are such that we owe them to any person who is such that she is in need and we are able to provide her with that aid: for any person, if she needs aid and I can give it to her, then I have a duty to do so. After all, it is the case that we owe special obligations *to any person* who is such that, for example, we have made a promise to her: for any person, if I have made a promise to her, then I have a duty to keep the promise. These conditionals concerning the conditions under which we have certain duties seem exactly parallel in the cases of natural duties and of special obligations. Again, what we need is some characterization of what counts as a *special* relationship to a person, some characterization that excludes, for example, mere causal proximity.

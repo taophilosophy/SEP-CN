@@ -259,8 +259,6 @@ behaviorism | compositionality | convention | Davidson, Donald | defaults in sem
 
 ## Notes（原文脚注）
 
-## Notes to Idiolects
-
 [^note-1]: He may also have in mind his own earlier position, that a theory of meaning for a natural language can take the form of a Tarskian theory of truth—see the entry on Donald Davidson.
 
 [^note-2]: We set aside some of its irrelevant features—his latent behaviourism, for example, and the equation of a meaning theory for a natural language with a Tarskian truth theory for that language.

@@ -455,8 +455,6 @@ abstract objects | dualism | generic generalizations | mind/brain identity theor
 
 ## Notes（原文脚注）
 
-## Notes to Types and Tokens
-
 [^note-1]: See, e.g. Kaplan 2011: 509, which explicitly invokes Peirce’s conception of the distinction in order to raise some worries about applying it to words, as well as Szabó 1999:150 (fn. 11) which cites Peirce as anticipating a component of Szabó’s preferred view of the relationship between types and tokens.
 
 [^note-2]: See Lane 2024: §3 on the Peirce’s distinction between reality and existence. Peirce in addition holds that God does not exist, though God is real. See Gilmore 2006 for a detailed discussion.

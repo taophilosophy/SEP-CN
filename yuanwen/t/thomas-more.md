@@ -299,8 +299,6 @@ Aquinas, Thomas | Aristotle, General Topics: rhetoric | Augustine of Hippo | Cic
 
 ## Notes（原文脚注）
 
-## Notes to Thomas More
-
 [^note-1]: See, e.g., Cicero, *De finibus* 3.4, 4.16, 19 and *Tusculanae disputationes* 1.64, 4.5; Seneca, *Epistulae Morales* 88.28, 90.27, 95.7, 117.12.
 
 [^note-2]: See More’s three additions ascribing “negligence” to Pico at *EW* 70.36, 40 and 73.32 (also 87.141).

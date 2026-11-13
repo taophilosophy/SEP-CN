@@ -103,8 +103,6 @@ analysis | analytic/synthetic distinction | *a priori* justification and knowled
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s Philosophy of Mathematics
-
 [^note-1]: Kant’s definition of trapezium cited here is consistent with current usage in the United States and Canada, according to which a trapezium is a quadrilateral with no sides parallel and a trapezoid is a quadrilateral with one pair of parallel sides. Current British usage of the two terms reverses these definitions.
 
 [^note-2]: Most commentators take Kant to have had a reasonably sophisticated understanding of the mathematical developments of his time. Paul Rusnock (2004) has argued provocatively against this common view, claiming that because of his lack of technical sophistication, Kant did not have the resources to develop a philosophically interesting account of mathematical practice, and so that his philosophy of mathematics is inadequate even in light of its historical context.

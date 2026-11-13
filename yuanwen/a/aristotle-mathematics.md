@@ -379,8 +379,6 @@ Aristotle | Aristotle, General Topics: logic
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle and Mathematics
-
 [^note-1]: In a class at U.C., Berkeley (Winter, 1981), but apparently never published.
 
 [^blancanus-1615]: Blancanus, Josephus (Guiseppi Biancani). 1615. *Aristotelis loca mathematica ex universis ipsius operibus collecta et explicata*. Bologna: Sumptibus Hieronymi Tamburini.

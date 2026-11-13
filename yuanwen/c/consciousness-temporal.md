@@ -739,8 +739,6 @@ My thanks to David Chalmers, Graham Nerlich, Donnchadh O'Connaill and Ian Philli
 
 ## Notes（原文脚注）
 
-## Notes to Temporal Consciousness
-
 [^note-1]: Some proponents of the cinematic and retentional models hold that our experiences of succession are strictly momentary or durationless. Others, mindful of the fact that our neural processes do not unfold at infinite speeds, hold that experiences of succession are *not* instantaneous but themselves have a brief finite temporal extension. Although this “atomist” position—as it is sometimes called, e.g., Lee 2014a—is closer to extensionalism, as Lee himself notes, there remains an important difference. For the extensionalist, temporal experiences occur in temporally extended experiences which possess briefer experiences as (temporal) parts, and relationships between these briefer experiential parts play a key explanatory role in our temporal experience. For the atomist this is not the case.
 
 [^note-2]: Ian Phillips is a notable dissenter:

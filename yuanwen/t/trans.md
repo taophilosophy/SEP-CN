@@ -184,8 +184,6 @@ Thanks to Andrea Pitts, who helped me conceptualize parts of an early draft of t
 
 ## Notes（原文脚注）
 
-## Notes to Trans Philosophy
-
 [^note-1]: This was a crux of the 2017 *Hypatia* controversy (cf. Birmingham [ed.] 2018).
 
 [^note-2]: These were preceded by *Women’s Studies Quarterly*’s 2008 field-defining, interdisciplinary special issue on “Trans-”, edited by Susan Stryker, Paisley Currah, and Lisa Jean Moore.

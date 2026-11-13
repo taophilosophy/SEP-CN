@@ -743,8 +743,6 @@ We would like to thank a number of anonymous referees of the Stanford Encycloped
 
 ## Notes（原文脚注）
 
-## Notes to Negation
-
 [^note-1]: Some research suggests that apes and even non-primates can be trained to understand the functions of rejection, refusal, and even non-existence, corresponding to stages attested in children’s acquisition of negation, but not those of denial or truth-conditional negation (Heine and Kuteva 2007, 141–2)[^heine-2007].
 
 [^note-2]: Useful typologies of sentential negation are provided in Payne 1985, Miestamo 2005, and Dahl 2010; for an annotated bibliography on this and other topics in natural language negation, see Horn’s Oxford Bibliography entry under “Other Internet Resources”.

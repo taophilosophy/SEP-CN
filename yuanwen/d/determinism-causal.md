@@ -270,8 +270,6 @@ The author would like to acknowledge the invaluable help of John Norton in the p
 
 ## Notes（原文脚注）
 
-## Notes to Causal Determinism
-
 [^note-1]: Thanks go to Eddy Chen for questioning the claim, in earlier editions of this article, that Leibniz’s PSR is the historical root of the notion of determinism. Chen (forthcoming) discusses the connections between PSR and both determinism and what he calls “strong determinism”. Strong determinism holds if the fundamental laws in our world determine all events at all times, on their own (i.e., without the need of a separate postulated initial condition or “way things are at time *t*”.
 
 [^note-2]: Some philosophers are misled on this point by the fact that some now-defunct presentations of Special Relativity theory seem to be grounded on an ontology of events. But Special Relativity does not need to be so presented, nor were the “events” used anything like common sense events.

@@ -146,8 +146,6 @@ identity | Locke, John | memory | personal identity | personal identity: and eth
 
 ## Notes（原文脚注）
 
-## Notes to Reid on Memory and Personal Identity
-
 [^note-1]: Portions of this account of Reid’s theory of memory are adapted from Copenhaver (2006).
 
 [^note-2]: For a discussion of the varieties of memory, see Martin (2001, 261).

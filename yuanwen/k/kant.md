@@ -317,8 +317,6 @@ aesthetics: German, in the 18th century | categories | Fichte, Johann Gottlieb |
 
 ## Notes（原文脚注）
 
-## Notes to Immanuel Kant
-
 [^note-1]: The best biography of Kant, on which this section draws, is Kuehn 2001.
 
 [^note-2]: Kuehn 2001, 38, 44. See also 54.

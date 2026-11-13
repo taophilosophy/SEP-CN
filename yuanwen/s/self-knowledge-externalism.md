@@ -390,8 +390,6 @@ externalism about the mind | introspection | self-knowledge | skepticism: and co
 
 ## Notes（原文脚注）
 
-## Notes to Externalism and Self-Knowledge
-
 [^note-1]: There is an unfortunate polysemy in the term ‘thought’. Often, a “thought” is a contentful mental representation that is expressible by a declarative sentence. On other occasions, a “thought” is merely the *content* of said representation. Still other times, a “thought” is merely the *vehicle* for a content (as with the use of ‘thoughts’ that this note attaches to). This means that “thought” in the first sense denotes a *composite* of a content and a vehicle. In the literature, context normally makes clear which sense of ‘thought’ is intended on an occasion of use, and it is assumed that this holds for the present discussion as well
 
 [^note-2]: We shall see that this formulation of EXT is too weak (in section 2.1), though it is a standard formulation and suffices for present purposes.

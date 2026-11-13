@@ -388,8 +388,6 @@ Africana Philosophy | Crummell, Alexander | democracy | Dilthey, Wilhelm | doubl
 
 ## Notes（原文脚注）
 
-## Notes to W.E.B. Du Bois
-
 [^note-1]: See Jaeggi and Celikates (2017) for the idea that social philosophy comprises social ontology, social theory, the philosophy of the social sciences, and the diagnosis of social problems.
 
 [^note-2]: The neglect of DuBois’s contributions to sociology and, indeed, to the founding of sociology as an academic discipline by the mainstream, “white,” sociological establishment is beyond the scope of the present entry, but has been insightfully discussed at length by Green and Driver (1976), Rabaka (2010), and Morris (2015).

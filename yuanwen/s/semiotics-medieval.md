@@ -174,8 +174,6 @@ mental representation: in medieval philosophy | Ockham [Occam], William | Peirce
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Semiotics
-
 [^note-1]: Cf. e.g., Giles of Rome, *Super libros Priorum analeticorum Aristotelis expositio et interpretatio*, Venice 1499, fol. 79ᵛb-80ᵛb; See Kretzmann 1988.
 
 [^note-2]: See Faes de Mottoni 1986 and 1988; Fuchs 1999: 176–87.

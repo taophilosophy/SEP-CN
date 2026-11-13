@@ -169,8 +169,6 @@ Africana Philosophy | colonialism | essential vs. accidental properties | existe
 
 ## Notes（原文脚注）
 
-## Notes to Négritude
-
 [^note-1]: “In meeting Senghor, I met Africa”, quoted in Vaillant 1990 (91).
 
 [^note-2]: “Misère d’une poésie” was published in the journal *Légitime Défense* which he founded with other young Caribbean intellectuals in 1932. The text was published in that single issue of the journal. *Légitime Défense* is considered an inspiration for the creation of *L’Etudiant noir* and for the Négritude movement.

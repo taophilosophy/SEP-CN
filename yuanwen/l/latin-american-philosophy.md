@@ -199,8 +199,6 @@ The authors would like to acknowledge the thoughtful advice of an anonymous revi
 
 ## Notes（原文脚注）
 
-## Notes to Latin American Philosophy
-
 [^note-1]: For examples, see Maffie (2014) and Dussel (1995). Much of the recent re-evaluation of pre-Columbian thought is owed to the pioneering work of Miguel León Portilla (1963).
 
 [^note-2]: Matters are more complicated if one considers such factors as lived experiences and folk beliefs. For example, anthropologist Bonfil Batalla (1996) has argued that important aspects of an indigenous worldview have persisted into the lived experience of modern Mexicans. Moreover, religious syncretism is a long-standing feature of Catholicism in Latin America.

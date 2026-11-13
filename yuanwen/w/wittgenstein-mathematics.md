@@ -597,8 +597,6 @@ Brouwer, Luitzen Egbertus Jan | Frege, Gottlob | mathematics, philosophy of: for
 
 ## Notes（原文脚注）
 
-## Notes to Wittgenstein’s Philosophy of Mathematics
-
 [^note-1]: . In his posthumously published (1953*: 334–335), Kurt Gödel says that the “syntactical viewpoint,” “a combination of nominalism and conventionalism,” was developed “[a]round 1930” by “R. Carnap, H. Hahn, and M. Schlick, largely under the influence of L. Wittgenstein” (i.e., “*Wittgenstein 1922*”).
 
 [^note-2]: . Defenders of the Logicist interpretation of the *Tractatus* also ignore Wittgenstein's expressed contempt for the second edition of *Principia Mathematica* (McGuinness & von Wright 1995: 186; Letter from F. Ramsey to his mother, Sept. 20, 1923)[^mcguinness-1995] and his disdain for, and criticism of, Ramsey's defence of Logicism in “The Foundations of Mathematics” [see the Waismann version of Wittgenstein's 1927 letter to Ramsey (*WVC* 189, note 1)].

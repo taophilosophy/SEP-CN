@@ -164,8 +164,6 @@ Madhyamaka | Nāgārjuna | two truths in India, theory of
 
 ## Notes（原文脚注）
 
-## Notes to The Theory of Two Truths in Tibet
-
 [^note-1]: Among them some schools—Sakya (sa skya pa), Jonang (jo nang pa), Shang-pa (shangs pa), Drikung (‘bri gung pa)—are named after some places of significance, whereas Karma pa (kar ma pa) and Buluk pa (bu lugs pa) are named after their masters, Kadam (bka’ gdams pa) Dzogchen (rdzogs chen pa), Chagchen (phyag chen pa), Zhibyed (zhi byed pa) are named after the primary oral instructions each emphasises.
 
 [^note-2]: Modern interpreters of Madhyamaka's theory of the two truths, including T. R. V. Murti, (1985: xxiv–xxvi), La Vallée Poussin (1985: 152–53), Jaideva Singh (1989: 30), and Huntington (1994: 39, 40, 231) also endorse a similar interpretation. Guy Newland (1992: 47) confirms that “Many Western scholars hold that the two truths are not two types of object, but rather two viewpoints, perspectives, or types of consciousnesses.”

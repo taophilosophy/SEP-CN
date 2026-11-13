@@ -340,8 +340,6 @@ The authors would like to thank Oxford University Press for allowing them to re-
 
 ## Notes（原文脚注）
 
-## Notes to Desert
-
 [^note-1]: Perhaps because so many typical desert claims mention a deserver, the desert that the deserver is said to deserve, and the desert base in virtue of which the deserver is said to deserve the desert, some have concluded that desert is a three place relation relating these three items. This idea is discussed in Olsaretti (2003, 4) as well as in McLeod (1999, 61–2). However, it is important to keep in mind that well-formed desert statements may involve more than, or fewer than, three relata. Consider, for examples, these statements (with related terms italicized and enumerated):
 
 > D1: *You* [1] deserve *a raise* [2].

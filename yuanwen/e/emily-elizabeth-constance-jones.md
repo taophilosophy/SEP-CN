@@ -407,8 +407,6 @@ I would like to thank Amanda Favia, Oliver Marshall, Frank Pupa and Rosemary Two
 
 ## Notes（原文脚注）
 
-## Notes to Emily Elizabeth Constance Jones
-
 [^note-1]: Note that (3) is quite close to Russell’s analysis of ‘Socrates is *a* mortal’: $\exists y (\textit{Mortal}(y) \amp \textit{Socrates} = y)$. See Russell 1919, 71.
 
 [^note-2]: Russell and Jones did exchange letters sometime between 1909 and 1911, although only Jones’s side of the correspondence is preserved (the letters are dated in month-day format, and the precise year cannot always be determined by reference to external events), so Russell clearly knew of Jones herself, if not her work. The exchange contains a request to attend Russell’s lectures on the principles of mathematics, a note some months later thanking Russell for allowing Jones to attend, a note thanking Russell for agreeing to lecture at Girton on “Philosophy and Common Sense”, and, finally, a response to a letter Russell wrote in which he appears to have clarified his response to an earlier letter by Jones (or, possibly, to Jones 1910).

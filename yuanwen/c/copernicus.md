@@ -127,8 +127,6 @@ Aristotle | Bruno, Giordano | Galileo Galilei | Kepler, Johannes | Kuhn, Thomas
 
 ## Notes（原文脚注）
 
-## Notes to Nicolaus Copernicus
-
 [^note-1]: Swerdlow and Neugebauer (4) used the bindings to establish Copernicus’s acquisition of the 1492 Venice edition of the *Alfonsine Tables* and the 1490 Augsburg edition of Regiomontanus’s *Tabulae directionum*, two very important books for astronomical calculation, to this period. They were bound together with sections of other astronomical works. A second volume contained the 1482 Venice edition of Euclid’s *Elements* with the commentary by Campanus and the 1485 Venice edition of the astrological treatise *In iudiciis astrorum* by the Arab author Ali ibn Abir-Rijal.
 
 [^note-2]: The debate on the validity of astrology became particularly vociferous after the publication of Pico’s *Disputations against Judicial Astrology* in 1494. (See, e.g., Shumaker, chapter 1.) Given the facts that Copernicus’s undergraduate and medical programs most likely included astrology and Copernicus’s main publication was in the field of astronomy, his silence on the subject of astrology, pro or con, is surprising.

@@ -277,8 +277,6 @@ quantum mechanics: Bohmian mechanics | quantum mechanics: collapse theories | qu
 
 ## Notes（原文脚注）
 
-## Notes to Quantum Mechanics
-
 [^note-1]: Indeed, when pressed, we find we can’t even say explicitly (in the terms provided by the theory, in terms that apply directly to the entities, quantities, and relations of which the world is, by its lights, composed) which systems count as macroscopic (or what would be just as good, which are ‘classical’, which are fit to act as measuring apparatuses, or which interactions count as measurements).
 
 [^note-2]: It is also sometimes used to refer to a mathematical model that represents that space, a mathematical model that provides a kind of map of the set of possible states.

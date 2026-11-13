@@ -223,8 +223,6 @@ Daoism | dialetheism | Hegel, Georg Wilhelm Friedrich | Japanese Philosophy | Ja
 
 ## Notes（原文脚注）
 
-## Notes to Nishida Kitarō
-
 [^note-1]: Michiko Yusa gives us a translation of this address in her biography of Nishida (Yusa 2002: 314–18)[^yusa-2002].
 
 [^note-2]: Nishida’s original model is twofold: First, Richard Dedekind’s infinite system that is mirrored in any of its “proper parts,” which reflect it in their one-to-one correspondence to it but do not contain all of its elements. The set of positive integers, for example, is mirrored in the equivalent set of even integers but that equivalent set does not contain the odd integers. (See Dedekind’s *Was sind und was sollen die Zahlen*.) Secondly, Josiah Royce’s adaptation of Dedekind in his “self-representative systems,” exemplified by a perfect map that includes a depiction of itself. (See Royce’s Supplementary Essay in *The World and the Individual* and Maraldo 2017.)[^maraldo-2017][^maraldo-2017-2]

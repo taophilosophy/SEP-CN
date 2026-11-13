@@ -293,8 +293,6 @@ Chinese Confucianism: Modern Confucianism | Chinese Philosophy: ethics | Chinese
 
 ## Notes（原文脚注）
 
-## Notes to Dai Zhen
-
 [^note-1]: References to the Dai Zhen Quan Shu (*Complete Works of Dai Zhen*), abbreviated “DZQS,” give volume and page numbers.
 
 [^note-2]: The account in this section draws on Dai Zhen’s letters and Duan Yucai’s chronicle of Dai’s life, along with Yang’s supplementary notes on this chronicle. See DZQS 7, 132–190, and Cai 2006.

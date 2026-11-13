@@ -379,8 +379,6 @@ We are grateful to István Bodnar for his help in clarifying and improving our p
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle’s Metaphysics
-
 [^note-1]: This crucial idea is put forward at *Posterior Analytics* 71b32; *Prior Analytics* 68b35–7; *Physics* Α.1, 184a16–20; *Metaphysics* Ζ.3, 1029b3–12; *Topics* Ζ.4, 141b2–142a12.
 
 [^note-2]: This inverse tree-like structure was first noticed in the 3ʳᵈ century C.E. by Porphyry: “Substance is itself a genus, under this is body, and under body is living body, under which is animal. Under animal is rational animal, under which is man. Under man are Socrates and Plato and individual (*kata meros*) men” (*Isagoge* 4, 21–25). This so-called “tree of Porphyry” later found its way, with illustrations, into medieval discussions of Aristotle.

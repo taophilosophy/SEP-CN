@@ -753,8 +753,6 @@ discourse representation theory | presupposition | semantics: dynamic | situatio
 
 ## Notes（原文脚注）
 
-## Notes to Anaphora
-
 [^note-1]: For example, the beginning of the entry for “anaphora” in the Supplement to the Macmillan Encyclopedia of Philosophy (London: Macmillan, 1996) reads
 
 > The study of *anaphora* (from Greek, “carry back”) is the study of the ways in which occurrences of certain expressions, particularly pronouns, depend for their interpretations upon the interpretations of occurrences of other expressions.

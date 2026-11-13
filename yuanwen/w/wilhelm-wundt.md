@@ -513,8 +513,6 @@ Herbart, Johann Friedrich | introspection | mental imagery | panpsychism | pheno
 
 ## Notes（原文脚注）
 
-## Notes to Wilhelm Maximilian Wundt
-
 [^note-1]: William James saw an inverse ratio between Wundt’s productivity and wisdom:
 
 > He aims at being a Napoleon of the intellectual world. Unfortunately he will never have a Waterloo, for he is Napoleon without genius and with no central idea….

@@ -553,8 +553,6 @@ I thank Thomas Ainsworth, John Cooper, Fred Miller, Nathanael Stein, Edward Zalt
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle
-
 [^note-1]: There are scholarly disputes about the number of works he produced and also about the authenticity of some of the works coming down to us under his name. For a fascinating account of the history of the transmission of Aristotle’s works, see Shute (1888).
 
 [^note-2]: The general entry strives for such neutrality as may be possible. Notes along the way: (i) indicate controversial contentions; (ii) provide links to passages in the other entries where the relevant issues are taken up in greater detail; and (iii) cite relevant scholarship for further study.

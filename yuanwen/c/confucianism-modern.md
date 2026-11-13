@@ -287,8 +287,6 @@ This entry makes use of some of material previously published by the author (Els
 
 ## Notes（原文脚注）
 
-## Notes to Modern Confucianism
-
 [^note-1]: This is not at all to say that Tang rejects the existence of matter, as Metzger (2005: 193) implies. Tang was unequivocal that he is not an idealist in that sense (TJCW 9: 137).
 
 [^note-2]: The word here is also *xin* 心 but he clearly means the physical organ specifically.

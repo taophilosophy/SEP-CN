@@ -596,8 +596,6 @@ This article is an outcome of the project “Philosophie et histoire de la logiq
 
 ## Notes（原文脚注）
 
-## Notes to Nonexistent Objects
-
 [^note-1]: This distinction can be interpreted in one of two ways: According to one interpretation, “exists” expresses one mode of being and “there is” another. (For a critique of modes of being distinctions see Reicher 2005a.)[^reicher-2005a] According to another interpretation, however, “exists” expresses the only mode of being and “there is” has no ontological import whatsoever.
 
 [^note-2]: The view that quantification is ontologically neutral is also held by Tim Crane (see Crane 2013, Chap. 2)[^crane-2013]. Some claim that Meinongians (and even Meinong himself) are not ontologically committed to nonexistent objects (see, for instance, Priest 2005)[^priest-2005]. Obviously, whether or not this is correct depends not the least upon the question of what exactly it means to be ontologically committed to something, which leads into a highly subtle, complex and controversial debate that cannot be pursued here. (For a contribution to this debate see Reicher 2005a.)[^reicher-2005a]

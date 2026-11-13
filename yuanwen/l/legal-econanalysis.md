@@ -547,8 +547,6 @@ Research for this entry was supported by the Filomen d’Agostino and Max E. Gre
 
 ## Notes（原文脚注）
 
-## Notes to The Economic Analysis of Law
-
 [^note-1]: With the rise of behavioral economics, it may no longer be appropriate to place rationality at the core of economics. Rationality, however, still plays a central role in economics as behavioral economics typically considers at least some actors in a market rational.
 
 [^note-2]: The economic analysis of accident law, for instance, asserts that negligence with contributory negligence is efficient. This claim is true in the model introduced by Brown [1973]. Negligence with contributory negligence, however, does not obviously induce efficient behavior in the real world in which accidents cause personal injury and litigation is costly, not completely accurate, and rarely fully compensatory.

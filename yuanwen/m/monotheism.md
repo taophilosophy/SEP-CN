@@ -365,8 +365,6 @@ al-Ghazali | Aquinas, Thomas | Cambridge Platonists | Duns Scotus, John | God: a
 
 ## Notes（原文脚注）
 
-## Notes to Monotheism
-
 [^note-1]: The latter has been recently questioned, however. Michael Rea and others have argued that the Trinitarian views of the fourth century Cappadocian fathers (Basil, Gregory of Nyssa, and Gregary Nazianzus) which played a central role in the later development of Eastern Orthodox theology were not all that dissimilar to Augustine's. (See Rea 2009.)[^rea-2009]
 
 [^aquinas-1955]: Aquinas, St. Thomas, *On the Truth of the Catholic Faith: Summa Contra Gentiles, Book One*, Anton C. Pegis (trans.), Garden City, N. Y.: Doubleday Image Books, 1955.

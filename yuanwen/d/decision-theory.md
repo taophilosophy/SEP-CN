@@ -574,8 +574,6 @@ decision theory: causal | epistemic utility arguments for epistemic norms | poss
 
 ## Notes（原文脚注）
 
-## Notes to Decision Theory
-
 [^note-1]: Our discussion of cardinalizing utilities is quite similar to Resnik’s (1987: 88–91).
 
 [^note-2]: The further assumptions would need to relate particular options to particular privileged levels of utility; for instance, one would need to argue that a rational agent’s preference ordering should incorporate, say, a privileged zero-utility option, in which case ratios of utility distances from this option would be meaningful.

@@ -223,8 +223,6 @@ I thank Miguel Ángel Sebastián and an anonymous referee for helpful comments a
 
 ## Notes（原文脚注）
 
-## Notes to The Epistemic Condition for Moral Responsibility
-
 [^note-1]: Although the philosophical orthodoxy is that the control and epistemic conditions are distinct (Fischer & Ravizza 1998: 12–3)[^fischer-1998], some philosophers claim that the latter is in fact a component of the former (Mele 2010; Levy 2011: ch. 5; Nelkin & Rickless 2017a)[^levy-2011][^mele-2010][^nelkin-2017a]. Other philosophers take the more radical line of denying the existence of a distinctive epistemic condition on moral responsibility (Björnsson 2017a; Graham 2017; Holly Smith 2017: 99–102)[^björnsson-2017a][^graham-2017][^smith-2017][^smith-2017-2].
 
 [^note-2]: Zimmerman (1997: 419–20; 2002b: 560–1) denies that the consequences of one’s actions—even those that are actually foreseen—add anything to the agent’s *degree* of blameworthiness, over and above the degree that accrues to her in virtue of deciding to perform a wrong action (see also Graham 2014)[^graham-2014]. According to Zimmerman, the occurrence of foreseen consequences augments only the *scope* of the agent’s responsibility, i.e. she’s to blame *for* more things, but that doesn’t mean that she’s *more* blameworthy than she would be had those consequences never occurred. See Domsky 2004 (453, n.13) for criticism of the degree/scope distinction.

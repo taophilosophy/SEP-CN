@@ -357,8 +357,6 @@ assertion | basing relation, epistemic | doxastic voluntarism | epistemology | e
 
 ## Notes（原文脚注）
 
-## Notes to Internalist vs. Externalist Conceptions of Epistemic Justification
-
 [^note-1]: This is not completely uncontroversial. See Comesaña (2005) for an alternative characterisation of the dispute. See Gertler (2012) for arguments that the notion of the internal (and by extension external) is not well understood.
 
 [^adler-2002]: Adler, Jonathan E., 2002, *Belief’s Own Ethics*, Cambridge, MA: MIT Press.

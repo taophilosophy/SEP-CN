@@ -575,8 +575,6 @@ Aquinas, Thomas | Bonaventure | Clarke, Samuel | cosmology: and theology | Duns 
 
 ## Notes（原文脚注）
 
-## Notes to Cosmological Argument
-
 [^note-1]: It is important to note that contemporary treatments often ignore the Aristotelian metaphysical roots of Aquinas’s arguments that he provides outside of Question Two of the *Summa Theologica* (e.g., Sobel 2004; Oppy 2006: 98–107)[^oppy-2006][^sobel-2004]. Kenny (1969) remains an important exception.
 
 [^note-2]: Ramon Harvey (2021), appealing to Craig’s response (Copan and Craig, eds. 2017, 60) to Grünbaum, recasts premises 4 and 5. “Only a personal agent (not a mechanistic cause) is able to select between possible tensed time effects in causing the universe. Time is tensed. Therefore, the cause of the universe is a personal agent.” The underlying presupposition of this phase of the argument is that divine selection is at least analogous to human selection.

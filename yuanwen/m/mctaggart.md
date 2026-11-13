@@ -241,8 +241,6 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 ## Notes（原文脚注）
 
-## Notes to John M. E. McTaggart
-
 [^note-1]: Peter Geach, one of the foremost commentators of McTaggart, also refrains from commenting on McTaggart’s works on Hegel. He suggests, however, that scholars of Hegel regard McTaggart’s interpretations of Hegel as perverse (Geach 1979, 17)[^geach-1979]. Hiralal Haldar, in his book *Neo-Hegelianism*, describes McTaggart’s interpretations of Hegel as “highly original and very unorthodox” (Haldar 1927, 415)[^haldar-1927]. McTaggart’s views on Hegel are briefly discussed by Kreines (2008, 374–376). For a more favorable reception of McTaggart’s interpretation of Hegel, see Stern (1994).
 
 [^note-2]: See Monk (1999, 109) for discussion.

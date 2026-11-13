@@ -808,8 +808,6 @@ Church-Turing Thesis | computability and complexity | computer science, philosop
 
 ## Notes（原文脚注）
 
-## Notes to Computational Complexity Theory
-
 [^note-1]: The problem $\sc{TSP}$ served as a particularly important example in the early development of complexity theory. It was first formulated as an optimization problem in the 19th century relative to the interpretation where the vertices of $G$ are understood to be cities, its edges as roads, and their weights as distances (Schrijver 2005)[^schrijver-2005]. Under this interpretation, an instance of the optimization problem thus asks us to find the shortest tour by which all of the cities can be visited exactly once. Variations of this problem arise not only in planning and logistical applications, but also in a wide variety of other domains ranging from the manufacturing microchips, to X-ray crystallography, to computational biology (Gutin and Punnen 2002)[^gutin-2002]. Consequently much effort has been put into finding efficient algorithms for solving both the decision and optimization versions of $\sc{TSP}$.
 
 [^note-2]: See, e.g., (Cormen, Leiserson, and Rivest 2005, 936).

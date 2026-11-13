@@ -150,8 +150,6 @@ al-Farabi | al-Farabi: metaphysics | al-Farabi: philosophy of logic and language
 
 ## Notes（原文脚注）
 
-## Notes to al-Farabi’s Psychology and Epistemology
-
 [^note-1]: “(…) the soul is that by which the animate substance—I mean that which admits of life—is realized as substance” (al-Fārābī PA: 116).
 
 [^note-2]: The only treatise where the natural world is described as emanated from the agent intellect is *The Treatise on the Intellect*. In *The Political Regime* and *The Virtuous City*, however, this task is assigned to the celestial spheres.

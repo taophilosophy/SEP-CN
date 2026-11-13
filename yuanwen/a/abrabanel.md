@@ -199,8 +199,6 @@ Ficino, Marsilio | humanism: in the Renaissance | Maimonides
 
 ## Notes（原文脚注）
 
-## Notes to Judah Abrabanel
-
 [^note-1]: This is argued most forcefully in David Hariri, “The Traces of the Missing Fourth Dialogue on Love by Judah Abravanel, Known as Leone Ebreo” (Hebrew), *Italia* 7.1–2 (1988), pp. 93–155.
 
 [^note-2]: E.g., Cecil Roth, *The History of the Jews in Italy* (Philadelphia: Jewish Publication Society of America, 1946), pp. 193–215; Moses Avigdor Shulvass, *The Jews in the World of the Renaissance (*Leiden: Brill, 1973); Davd B. Ruderman, *The World of a Renaissance Jew: The Life and Thought of Abraham ben Mordechai Farissol* (Cincinnati: Hebrew Union College Press, 1983).

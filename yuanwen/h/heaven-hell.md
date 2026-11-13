@@ -230,8 +230,6 @@ afterlife | desert | Edwards, Jonathan | evil: problem of | punishment, legal
 
 ## Notes（原文脚注）
 
-## Notes to Heaven and Hell in Christian Thought
-
 [^note-1]: Our set of three propositions is thus inconsistent in the same sense that contraries are inconsistent. Even though it is possible that all three propositions are false, it is not possible that all three of them should be true.
 
 [^note-2]: Precisely because our loving mother in this example loves both of her squabbling children equally, she will likewise try to resolve their squabble as equitably as possible, or try to compensate in some way the one who loses out, or perhaps even take away the toy from both of them in order to teach a valuable lesson. In the case of beloved children whom we love equally, we often appeal to some notion of fairness or non-retributive justice when we find ourselves unable to satisfy all of their incompatible interests.

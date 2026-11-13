@@ -316,8 +316,6 @@ I would like to thank Jan Almäng, Jens Johansson and the anonymous referees for
 
 ## Notes（原文脚注）
 
-## Notes to Charlie Dunbar Broad
-
 [^note-1]: Cf. also Broad 1923, pp. 246-7 and 1938, p. 66.
 
 [^note-2]: The relation of acquaintance is, as Broad says, the *converse* of the relation of manifestation (1925, p. 634).

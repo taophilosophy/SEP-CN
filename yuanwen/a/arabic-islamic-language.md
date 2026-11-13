@@ -440,8 +440,6 @@ al-Farabi | al-Ghazali | al-Kindi | al-razi | arabic-islamic-kalam | Arabic and 
 
 ## Notes（原文脚注）
 
-## Notes to Arabic and Islamic Philosophy of Language and Logic
-
 [^note-1]: There are other overviews of the subject. Highly recommended are: Arnaldez 1991, good for the interrelation of logic with the Islamic sciences; Black 1998, good for an overview of philosophical issues specific to Arabic logic; Gutas 1993, excellent on genres, basic bibliography and outline history; Rescher 1964, indispensable, with an outline history and biobibliograhical details of major logicians throughout the tradition; El-Rouayheb 2010a for an overview of important thirteenth-century developments in the tradition.
 
 [^note-2]: The translation movement is a complex phenomenon, and no attempt to deal with its motivations or changing emphases will be made here. For a preliminary account, see Gutas 2000 for a much more detailed account, see Gutas 1998.

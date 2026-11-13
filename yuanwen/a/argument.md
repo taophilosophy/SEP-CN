@@ -309,8 +309,6 @@ Thanks to Merel Talbi, Elias Anttila, César dos Santos, Hein Duijf, Silvia Ivan
 
 ## Notes（原文脚注）
 
-## Notes to Argument and Argumentation
-
 [^note-1]: Usually, arguments are viewed as having one or more premises and one conclusion, though in some technical contexts the idea of multiple conclusions has been entertained. Note also that arguments typically are but need not be linguistic; they can also be pictorial/visual (see Section 2.2 ("Visual Arguments") of the entry on informal logic; see Tindale 2021 for a defense of multi-modal argumentation).
 
 [^note-2]: This is not meant to be an exhaustive classification: there may well be arguments that do not fall under any of these categories. But these are the classes of arguments that have received extensive attention in the literature.

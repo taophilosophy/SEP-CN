@@ -317,8 +317,6 @@ anaphora | assertion | Frege, Gottlob | Grice, Paul | implicature | meaning, the
 
 ## Notes（原文脚注）
 
-## Notes to Speech Acts
-
 [^note-1]: In his *The A Priori Foundations of the Civil Law* (1913), the Austrian jurist Adolf Reinach developed what he termed a theory of “social acts” prefiguring many of the themes of later Anglo-American work on speech acts. For an appraisal see Mulligan 1987. See also K. Schuhmann and B. Smith 1991 for a discussion of some elements of speech act theory in the thought of Thomas Reid. Smith 1990 offers a more general historical survey.
 
 [^note-2]: See Gorman 1999, however, for a detailed account of how literary theory has appropriated a distorted view of speech acts.

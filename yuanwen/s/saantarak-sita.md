@@ -146,8 +146,6 @@ Buddha | Dharmakīrti | Early Modern India, analytic philosophy in | Madhyamaka 
 
 ## Notes（原文脚注）
 
-## Notes to Śāntarakṣita
-
 [^note-1]: Frauwallner 1961, 141–43. For a further discussion of the dating of Śāntarakṣita, see Ruegg 1981, 88–89 and Ruegg 1982, 514–515, and for an overview of Śāntarakṣita’s life and works see Eltschinger and Marks 2019.
 
 [^note-2]: There are eleven texts attributed to Śāntarakṣita in the Tibetan Tengyur (*bstan ‘gyur*), the collection of translations of Indian Buddhist canonical writings. These include texts in the sections of “Collections of Praises” (*bstod tshogs*) and “Commentaries on Tantras” (*rgyud ’grel*) in addition to his philosophical works. Only three of these eleven survive in Sanskrit. A twelfth text, *Investigation of the Ultimate* (*Paramārthaviniścaya, Don dam pa gtan la dbab pa*), which Śāntarakṣita references in two of his other philosophical works, is no longer extant in any language and is thus a great loss to those interested in the philosophical thought of this great Indian philosopher.

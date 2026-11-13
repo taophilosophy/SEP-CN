@@ -228,8 +228,6 @@ feminist philosophy, interventions: bioethics | feminist philosophy, interventio
 
 ## Notes（原文脚注）
 
-## Notes to Theory and Bioethics
-
 [^note-1]: Robert K. Fullinwider also holds this view. Mary Warnock is a relevant figure here. In her obituary her practical approach to policy work on reproductive ethics in Britain is noted. That approach involved “pragmatic solutions” rather than attempts to “deliver moral guidance from axiomatic principles” (Sandomir 2019)[^sandomir-2019]. Sandomir is here quoting Andrew Brown’s 2003 piece on Warnock in *The Guardian*, “The Practical Philosopher”.
 
 [^note-2]: Jonathan Dancy’s particularism is an example. The version of particularism set out in his book *Moral Reasons* (1993) holds that there are no moral principles. The less extreme version of his view, according to which moral principles are not necessarily non-existent but that moral thought and practice do not require such principles, is set out in his more recent book *Ethics Without Principles* (2004).

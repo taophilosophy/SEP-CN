@@ -185,8 +185,6 @@ Brentano, Franz | emotion | intrinsic vs. extrinsic properties | moral sentiment
 
 ## Notes（原文脚注）
 
-## Notes to Fitting Attitude Theories of Value
-
 [^note-1]: This example is borrowed from Howard 2022.
 
 [^note-2]: Moreover, assuming that different kinds of normative relations are to be individuated according to the grounds of facts involving those relations (Leary 2020)[^leary-2020], an object-focused view would entail, e.g., that the fittingness of admiration is a different kind of normative relation than the fittingness of love, insofar as facts involving each are ultimately grounded in different kinds of evaluative fact. Thus, object-focused views would need to posit not only a plurality of different kinds of fundamental evaluative facts, but also a plurality of different kinds of fittingness (or reasons), each corresponding to the specific kind of evaluative fact in terms of which they explain facts involving the relation in question. Object-focused views in this way disunify the normative relation(s) they purport to explain.

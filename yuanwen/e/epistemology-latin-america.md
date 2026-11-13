@@ -155,8 +155,6 @@ For their comments, I am grateful to an anonymous reviewer, Otávio Bueno, and E
 
 ## Notes（原文脚注）
 
-## Notes to Epistemology in Latin America
-
 [^note-1]: Although Sosa was born in Cuba and has had longstanding connections with the Latin American philosophical community, participating in colloquia and conferences in several Latin American countries, he was wholly educated and has pursued his entire academic career in the United States. Martín Alcoff was born in Panamá, but at the age of three she moved to the United States, where she obtained all of her degrees and has held all of her academic positions.
 
 [^alchourrón-1993]: Alchourrón, Carlos E., 1993, “Philosophical Foundations of Deontic Logic and the Logic of Defeasible Conditionals”, in J.-J. Meyer & R. J. Wieringa (eds.), *Deontic Logic in Computer Science: Normative System Specifications*, Chichester: Wiley and Sons, pp. 43–84.

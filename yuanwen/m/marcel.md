@@ -217,8 +217,6 @@ Bergson, Henri | Buber, Martin | Christian theology, philosophy and | existentia
 
 ## Notes（原文脚注）
 
-## Notes to Gabriel (-Honoré) Marcel
-
 [^note-1]: Thus, in approaching his philosophy, one could grasp any number of themes and work from that initial thread to the tapestry of Marcel's thought as a whole. While the following summary orients the various threads of Marcel's thoughts around the theme of “creative fidelity,” it would also be legitimate to read his work organized around the themes of, for example, being and having, primary and secondary reflection or *disponibilité*.
 
 [^note-2]: *Exigence* is sometimes translated as “need” however, the term has a richer texture in French and, while remaining a “need;” of sorts, carries the force of a demand. Therefore, we will retain the French term to emphasize this additional meaning. If *exigence* is a ‘need,’ ontological *exigence*, as a need for transcendence, would be something like Levinas's metaphysical desire.

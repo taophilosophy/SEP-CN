@@ -337,8 +337,6 @@ belief | certainty | consciousness | consciousness: and intentionality | conscio
 
 ## Notes（原文脚注）
 
-## Notes to Self-Knowledge
-
 [^note-1]: But consider the following passage from Locke.
 
 > [It is] impossible for any one to perceive, without perceiving that he does perceive. When we see, hear, smell, taste, feel, meditate, or will any thing, we know that we do so. (Locke 1689/1975 II.27.ix)[^locke-1689]

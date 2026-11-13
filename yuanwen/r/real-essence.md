@@ -295,8 +295,6 @@ essential vs. accidental properties | Locke, John | Locke, John: moral philosoph
 
 ## Notes（原文脚注）
 
-## Notes to Locke on Real Essence
-
 [^note-1]: All quotations of Locke’s *Essay* in this entry are from the Nidditch volume. The italicized words, unless otherwise indicated, are in the original. It is also important to point out that the term *real essence* is used by Henry More in *An Antidote Against Atheism*, p. 336, London: Flesher, 1655. But here, unlike in More, the term is being defined and used as a technical term that goes beyond “real being”.
 
 [^note-2]: Another version of natural kind realism comes from John Sergeant in his *Solid Philosophy Asserted Against the Fancies of the Ideists* (New York: Garland Publishing, 1984) originally published 1697, where he argues that generality, e.g., species and genus *ideas*, are imposed on us by nature by providing observable similarities; see *Reflections 16, section 11*. Locke’s emphasis on human decision in the creation of nominal essences is obviously at odds with Sergeant’s position.

@@ -402,8 +402,6 @@ I am extremely grateful to John Quiggin, Peter Wakker, Paul Weirich and Greg Whe
 
 ## Notes（原文脚注）
 
-## Notes to Descriptive Decision Theory
-
 [^note-1]: Disclaimer: The literature on the topic is absolutely vast, comprising thousands of papers spread across a number of academic disciplines. Accordingly, only an extremely selective glimpse at some of the relevant work can be provided. One particularly noteworthy omission is the issue of sequential, aka “dynamic”, choice, which would have required an entire further entry to present in a satisfactory manner. Space considerations have also precluded a discussion of a number of important empirical phenomena associated with choice behaviour, including so-called framing effects and preference reversals. For further details regarding these issues, as well as the points touched upon in this entry, the interested reader is referred to the excellent surveys listed below in Section 6.
 
 [^note-2]: Each will consist in those points $(P(x_1), P(x_3))$ such that

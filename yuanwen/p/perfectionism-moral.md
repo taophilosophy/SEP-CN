@@ -295,8 +295,6 @@ The author thanks David Sobel for commenting on an earlier draft and for many he
 
 ## Notes（原文脚注）
 
-## Notes to Perfectionism in Moral and Political Philosophy
-
 [^note-1]: No substantive issues are prejudged by this choice of terminology. The content of an excellent human life remains open.
 
 [^note-2]: The distinction between human nature and objective goods perfectionism drawn here tracks the distinction between narrow and broad perfectionism suggested by Hurka. (Hurka 1993, 4)[^hurka-1993] Note that objective goods perfectionism includes nonhumanistic versions of perfectionism.

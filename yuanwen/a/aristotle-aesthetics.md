@@ -263,8 +263,6 @@ The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shi
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle’s Aesthetics
-
 [^note-1]: In the so-called *Tractatus Coislinianus*, we find a very brief presentation of comedy that sounds from Aristotelian provenance; R. Janko (1984) has argued that it descends from a genuine summary of the lost second book of the *Poetics*. The vast majority of scholars remain unpersuaded.
 
 [^note-2]: A very clear and well-informed introduction to the main, conflicting interpretations of the central themes of the *Poetics* is provided by A. Curran (2016).

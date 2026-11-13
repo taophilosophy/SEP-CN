@@ -249,8 +249,6 @@ Brentano, Franz | Heidegger, Martin | Husserl, Edmund | Kant, Immanuel | metaphy
 
 ## Notes（原文脚注）
 
-## Notes to Max Scheler
-
 [^note-1]: The intuition of oneself as a person is given in the act of self-love. There are other types of experiences, according to Scheler, where we are given to ourselves as persons, i.e., experiences that demonstrate that we are not merely living beings. Such experiences are shame (GW X, 65–148), wonder (GW IX, 68), and a sense of the afterlife (GW X, 36–49).
 
 [^max-nd]: The collected works of Max Scheler are published as *Gesammelte Werke*, in volumes as follows:

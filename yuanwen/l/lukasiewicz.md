@@ -360,8 +360,6 @@ The author would like to thank John Corcoran and Jan Woleński for corrections a
 
 ## Notes（原文脚注）
 
-## Notes to Jan Łukasiewicz
-
 [^note-1]: The city of Lwów, which was Łukasiewicz’s birthplace and the cradle of modern Polish philosophy and logic, is now in Ukraine, where its name is ‘L’viv’. Formerly in the Kingdom of Poland, in the first partition of the Polish–Lithuanian Commonwealth in 1772 it was annexed to Austria and became the capital of the Austrian Kingdom of Galicia and Lodomeria, which existed until 1918. Its German name is ‘Lemberg’. During the war between Poland and the Russian Bolshevik regime it was contested between the two sides as well as by those struggling for an independent Ukraine. From 1920–1939 it was the capital city of the Voievodship of Lwów in the Second Polish Republic. In 1939 it was occupied by the Soviet Union in the partition of Poland arranged with Nazi Germany under the Ribbentrop–Molotov Pact. Following the German invasion of the Soviet Union in 1941, it came under German control until retaken by the Red Army in 1944. Despite these upheavals the city remained largely unscathed. The peace arrangements of 1945 left the city in the Ukrainian SSR of the Soviet Union. Its Russian name is ‘L’vov’. Following the dissolution of the Soviet Union in 1991 it became the chief city of western Ukraine. A person born there in 1900 and remaining resident in the city until 2000 would have been a subject or citizen of several different states — Austria-Hungary, Poland, Soviet Union, Germany, Ukraine — and would have seen the city change hands ten times.
 
 [^note-2]: These tables are to be read as follows (where $\bf X$ is a connective):

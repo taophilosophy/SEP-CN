@@ -648,8 +648,6 @@ The author thanks Ben Caplan, Michael Glanzberg, Robbie Hirsch, Greg D’amico, 
 
 ## Notes（原文脚注）
 
-## Notes to Ambiguity
-
 [^note-1]: ‘Amphiboly’ is generally thought of as ambiguity due to grammar rather than enshrined lexical meanings. The classic Marx brothers joke ‘I shot an elephant in my pajamas’ is an example of amphiboly.
 
 [^note-2]: We’re playing a bit fast and loose with notion of a word which is philosophically somewhat suspect but hopefully not detrimental to the considerations we will advance. Co-spelling and co-pronunciation, for example, are good signs but maybe not sufficient condition for same words.

@@ -306,8 +306,6 @@ atomism: 17th to 20th century | Descartes, René | Descartes, René: physics | G
 
 ## Notes（原文脚注）
 
-## Notes to Leibniz’s Philosophy of Physics
-
 [^note-1]: There has been considerable debate over the exact date and extent of Leibniz’s conversion to mechanism. See, for starters, Kabitz (1909, 51–53), Brown (1984, chapter 3), and Mercer (2001, 24–48). For further references see especially Mercer (2001, 26, fn. 11).
 
 [^note-2]: I.e. lower level liberal arts studies, traditionally consisting of grammar, rhetoric, and logic. Loemker reports that “The curriculum of the Nicolai School in Leipzig, while not conforming completely to the medieval trivium, still consisted of Latin and Greek, rhetoric, and logic, together with Scholastic theology” (L 660, fn. 2).

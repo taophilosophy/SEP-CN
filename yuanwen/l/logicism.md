@@ -751,8 +751,6 @@ The author is grateful for helpful comments on various earlier drafts from Julia
 
 ## Notes（原文脚注）
 
-## Notes to Logicism and Neologicism
-
 [^note-1]: These are called *double-abstraction* principles below; see §1.2.2 for explanation and discussion.
 
 [^note-2]: Benacerraf (1981: 21) claims that “If Frege was the first logicist, then he was also the last.” Naturally one’s assessment of this claim will turn on how broad is one’s conception of logicism.

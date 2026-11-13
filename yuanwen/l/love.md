@@ -283,8 +283,6 @@ character, moral | emotion | friendship | impartiality | obligations: special | 
 
 ## Notes（原文脚注）
 
-## Notes to Love
-
 [^note-1]: This way of making the distinction between *eros* and *agape* seems to originate in Brentlinger (1970/1989), who poses the *Euthyphro*-like question, “Do we love someone because she is valuable, or is she valuable because we love her?” *Eros*, of course, is the former style of love, and *agape* is the latter. (Singer (1994) seems to reject this way of making the distinction, as he offers an account of love that combines both *eros* and *agape*; see Section 4).
 
 [^note-2]: For a detailed history of the concept(s) of love, see Singer (1984a,b, 1989); for a discussion of friendship as a particular relationship essentially involving a kind of love, see entry on friendship.

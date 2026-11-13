@@ -321,8 +321,6 @@ Work on this entry was supported by a grant from the John Templeton Foundation. 
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Cosmology
-
 [^note-1]: See Smeenk 2012 and O’Raifeartaigh et al. forthcoming for further discussion of Einstein’s contributions.
 
 [^note-2]: There are several excellent textbook treatments of cosmology, including in particular Dodelson 2003, Mukhanov 2005, Durrer 2008, and Peter & Uzan 2013.

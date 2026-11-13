@@ -169,8 +169,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 ## Notes（原文脚注）
 
-## Notes to Abraham Ibn Daud
-
 [^note-1]: For parallels between the two philosophers see Eran 1998, passim, and Fontaine 1990, index, s.v. Maimonides. See also Fontaine 2007.
 
 [^note-2]: Cf. *ER* Weil 91.45–92.6; Samuelson 199a 9–16, and *Guide* I.1, transl. Pines, p. 22.

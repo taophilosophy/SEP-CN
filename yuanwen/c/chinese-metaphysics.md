@@ -248,8 +248,6 @@ This entry benefitted greatly from detailed feedback given by Stephen C. Angle, 
 
 ## Notes（原文脚注）
 
-## Notes to Metaphysics in Chinese Philosophy
-
 [^note-1]: For discussions of this issue, see Connolly 2019; Burik 2018; Zheng 2017; Perkins 2016a; Li and Perkins, 2015b; Weber 2013; Tan 2012; JeeLoo Liu 2011; Wen 2011; Yu 2011; Yu and Xu 2009; Zhao 2006; Hansen 2001; Cheng 1990.
 
 [^note-2]: Translations are my own unless otherwise noted.

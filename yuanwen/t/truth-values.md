@@ -408,8 +408,6 @@ We'd like to thank an anonymous reviewer for comments about the material in Sect
 
 ## Notes（原文脚注）
 
-## Notes to Truth Values
-
 [^note-1]: One should also note that there exist alternatives to truth-conditional semantics, such as algebraic, game-theoretic, and proof-theoretic semantics. According to the latter approach, “the central notion in terms of which meanings are assigned to certain expressions of our language, in particular to logical constants, is that of proof rather than truth. In this sense proof-theoretic semantics is semantics in terms of proof” (see the entry on proof-theoretic semantics).
 
 The case of proof-theoretic semantics shows that the notions of truth and falsity that are central to denotational semantics as a methodology for assigning meaning to sentences are not indispensable for developing an account of linguistic meaning. For some approaches to meaning without truth values, or even without truth at all, see e.g., Pietroski 2018 and Predelli 2013.

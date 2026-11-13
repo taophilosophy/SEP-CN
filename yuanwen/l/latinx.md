@@ -193,8 +193,6 @@ Special thanks to Francisco Gallegos, Eduardo Mendieta, Sofia Ortiz-Hinojosa, Am
 
 ## Notes（原文脚注）
 
-## Notes to Latinx Philosophy
-
 [^note-1]: Except when referring to texts or views that explicitly invoke other terms, this essay follows the relatively recently emerged convention of using *Latinxs* to refer to those people that have sometimes been identified as *Latina/os or Latin@s*. Latinxs are typically, but not invariably, understood as a Latin American-descended population within the United States, where this is oftentimes distinguished from populations residing in Latin America. The chief advantage of the current neologism is that it implies no particular gender, which avoids the gender binary embedded in Latinate languages. The ostensibly gender-neutral term in Spanish—*latino*—is by convention an inclusive but recognizably masculine term, whereas *latina* is exclusively used for feminine subjects. The usage of “Latinx” remains a contested matter, but it is arguably the preferred term in current academic discourse.
 
 [^note-2]: For discussion and critique of these and related views, see essays in Gracia & de Greiff (eds) 2000; Gracia (ed.) 2007; Blum 2009; Gracia (ed.) 2011; and Jaksić (ed.) 2015.

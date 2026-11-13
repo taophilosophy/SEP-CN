@@ -541,8 +541,6 @@ Visual thinking may contribute to understanding in more than one way. Visual ill
 
 ## Notes（原文脚注）
 
-## Notes to The Epistemology of Visual Thinking in Mathematics
-
 [^note-1]: A *geodesic space* is a metric space in which for any two points there is a geodesic segment from one to the other. Let $b$ and $c$ be points in metric space $(X, d)$ such that $d(b, c) = r$. Then a *geodesic segment* from $b$ to $c$ is the image of an isometric embedding $g$ of real interval $[0, r]$ into $X$ with $g(0) = b$ and $g(r) = c$. The embedding $g$ is isometric when $d(g(x), g(y)) = y - x$ for all $0 \le x \le y \le r$.
 
 [^note-2]: Figure 13a was created by Wikipedia user Ylebru and released into the public domain; the original can be found at [commons.wikimedia.org/wiki/File:Triangolo_iperbolico.svg](http://commons.wikimedia.org/wiki/File:Triangolo_iperbolico.svg). Figure 13b was created by Wikipedia user Stomatapol and licensed as Creative Commons Atttribution-Share Alike 3.0; the original can be found at [commons.wikimedia.org/wiki/File:Delta_thin_triangle_condition.svg](http://commons.wikimedia.org/wiki/File:Delta_thin_triangle_condition.svg)

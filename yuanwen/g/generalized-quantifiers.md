@@ -664,8 +664,6 @@ Aristotle, General Topics: logic | Frege, Gottlob | logic: classical | model the
 
 ## Notes（原文脚注）
 
-## Notes to Generalized Quantifiers
-
 [^note-1]: The use of “quantifier” (German “*quantor*”, French “*quantificateur*”, etc. to denote $\forall$ and $\exists$ became established in logic toward the end of the 1920s.
 
 [^note-2]: I use the standard convention of letting mathematical expressions denote themselves whenever convenient.

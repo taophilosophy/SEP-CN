@@ -472,8 +472,6 @@ We would like to give a special thanks to Galen Strawson for many insightful dis
 
 ## Notes（原文脚注）
 
-## Notes to Neutral Monism
-
 [^note-1]: Galen Strawson has explored the idea underlying the Both View at considerable depth, though he has presented it as a version of (real) physicalism and panpsychism rather than as a form of neutral monism (see Strawson 1994: 46–7, 55–9, 72–5; Strawson 2006: 187–8, 238ff; Strawson 2016.)[^strawson-1994][^strawson-2006][^strawson-2016].
 
 [^note-2]: In his 1948, Russell further analyzes events into bundles of (concrete) universals. For more on Russell’s view, see Maclean 2014.

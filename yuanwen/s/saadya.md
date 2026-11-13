@@ -169,8 +169,6 @@ faith | Plato
 
 ## Notes（原文脚注）
 
-## Notes to Saadya [Saadiah]
-
 [^note-1]: All references to the *Amânât* are to Alexander Altmann's translation as found in Three Jewish Philosophers, edited by Hans Lewy, Alexander Altmann and Isaak Heinemann (New York: Atheneum, 1985). This version of Altmann's translation of Saadya's *Amânât* is currently also available in a volume by Hackett Publishing Company.
 
 [^note-2]: See A. Altmann, “Saadya's Theory of Revelation: Its Origin and Background,” in Studies in Religious Philosophy and Mysticism by Alexander Altmann (Ithaca: Cornell University Press, 1969).

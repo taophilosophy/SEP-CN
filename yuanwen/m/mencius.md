@@ -167,8 +167,6 @@ Chinese Philosophy: ethics | Chinese Philosophy: Mohism | Confucius | Wang Yangm
 
 ## Notes（原文脚注）
 
-## Notes to Mencius
-
 [^note-1]: For a thoughtful overview of recent interpretations of the concept of Heaven, see Cline 2014. Regarding Virtue, see the discussion later in this subsection.
 
 [^note-2]: For an excellent discussion of the evidence, see Kim and Csikszentmihalyi 2014. When I refer to “Confucius” in this entry, please take this as shorthand for “Confucius as represented in the received text of the *Analects.*”

@@ -1042,8 +1042,6 @@ consciousness: temporal | discourse representation theory | events | logic: non-
 
 ## Notes（原文脚注）
 
-## Notes to Tense and Aspect
-
 [^note-1]: For a thorough discussion of these issues we refer the reader to Comrie (1985).
 
 [^note-2]: But see Lecarme (2008) for possible exceptions.

@@ -401,8 +401,6 @@ Many thanks to Wybo Houkes, Matteo Michelini, Samuli Reijula, Christian Straßer
 
 ## Notes（原文脚注）
 
-## Notes to Agent-Based Modeling in the Philosophy of Science
-
 [^note-1]: NK-landscapes were first applied to the modeling of biological systems (Kauffman & Levin 1987; Kauffman 1993)[^kauffman-1993][^kauffman-1987]. They are named after the two parameters underlying their generation: *N*—representing the number of components (or aspects) of the system that contribute to its performance (such as its fitness), and *K*—representing the degree to which the contribution of each component is dependent on other components. For the application of NK-landscapes to epistemic landscape models see Alexander, Himmelreich, & Thompson 2015; Pöyhönen 2017; for their use in problem-solving search see, for instance, Lazer & Friedman 2007; for a mathematical characterization of NK-landscapes see, for instance, Csaszar 2018.
 
 [^note-2]: The fiendishness of a landscape is formally expressed as the probability that for *n* random points on the landscape, the highest point is not within the basin of attraction of the global maximum, i.e., within the set of points on the landscape for which hill-climbing leads to the maximum (Grim, Singer, Fisher, et al. 2013: 444).

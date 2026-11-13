@@ -202,8 +202,6 @@ Thanks to Edward N. Zalta for helpful suggestions on this entry.
 
 ## Notes（原文脚注）
 
-## Notes to The Frege-Hilbert Controversy
-
 [^note-1]: Though Hilbert does not reply directly to Frege after 1900, Alwin Korselt defends Hilbert against Frege’s criticisms in his 1903. Frege’s 1906 is, in part, a response to Korselt.
 
 [^note-2]: See for example the use of reinterpretation in Peano 1889, Pieri 1898, Padoa 1900, Huntington 1902, and Veblen 1904.

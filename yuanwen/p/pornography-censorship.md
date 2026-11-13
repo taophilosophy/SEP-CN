@@ -262,8 +262,6 @@ autonomy: in moral and political philosophy | Berlin, Isaiah | civil rights | eg
 
 ## Notes（原文脚注）
 
-## Notes to Pornography and Censorship
-
 [^note-1]: Apparently, the quotation in fact comes from Beatrice Hall, *The Friends of Voltaire*, 1986.
 
 [^note-2]: It is worth noting that not everyone thinks that pornography is properly regarded as a form of speech: intentional acts of communicative expression aimed primarily to express ideas or to communicate opinions to others. Frederick Schauer 1982, for example, thinks that pornography is better viewed as a sex aid. If pornography is not speech or intentional communicative expression, then presumably pornography cannot be defended on free speech grounds. Others have suggested that pornography is speech, but not of a form that is protected by liberal principles. Pornography is not "mentally-intermediated" or "persuasive" speech: pornography does not communicate its ideas in such a way that those ideas can be rationally evaluated or resisted by consumers. (See MacKinnon 1995:11; Sunstein 1986; Scoccia 1996.)[^mackinnon-1995][^scoccia-1996][^sunstein-1986]

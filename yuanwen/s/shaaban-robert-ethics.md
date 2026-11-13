@@ -213,8 +213,6 @@ African Philosophy: sage philosophy | colonialism | ethics: virtue | race | reli
 
 ## Notes（原文脚注）
 
-## Notes to Shaaban Robert’s Virtue Ethics
-
 [^note-1]: Amazingly, this modesty would prove to be no hindrance to Shaaban’s intellectual power and influence as a writer who pioneered the pursuit of conceptual depth and a unique allegorical style in Swahili literature. As an idealist philosopher, his equal greatness is, using his own vintage beautiful style, obliquely indicated in this statement by Sara to Yusuff, the respected British-educated Attorney: “ Look, I would like you to be my friend because, look, you are one of the people who had the opportunity to reflect during your sojourn and studies in the United Kingdom, but just like I did sitting by the ocean and in the fields in the midst of birds and crops, or light and darkness as my playmates on the Island” (SWW 55).
 
 [^note-2]: This phrase shows the influence of Arab traditions on the traditions of the people of East African coast line, especially in Kenya and today’s Tanzania, including the Swahili people. Besides the adoption of Islam itself, the influence of Arab traditions, as seen here, is present also in KiSwahili, the language. Here, the phrase is adopted from Arabic in which it means “a community of just people.” The word *“Adili*” in Arabic means “justice.” As we shall see later in his list of virtues, Shaaban uses it for “righteousness,” and reserves “*haki*” for “justice,” but it is assumed that a righteous person (*Mtu mwadilifu*) will be a “just person (*Mtu mwenye haki*).”

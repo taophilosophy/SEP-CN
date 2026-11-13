@@ -741,8 +741,6 @@ I am grateful to the editors, their reviewers, Franz Dietrich, Iain McLean, and 
 
 ## Notes（原文脚注）
 
-## Notes to Social Choice Theory
-
 [^note-1]: When $n$ is even, the first part of the theorem only holds for group sizes $n$ above a certain lower bound (which depends on $p)$, due to the possibility of majority ties. When $n$ is odd, it holds for any $n \gt 1$.
 
 [^note-2]: If different individuals have different *known* levels of reliability, weighted majority voting outperforms simple majority voting at maximizing the probability of a correct decision, with each individual’s voting weight proportional to $\log(p/(1-p))$, where $p$ is the individual’s reliability as defined above (Shapley and Grofman 1984; Grofman, Owen, and Feld 1983; Ben-Yashar and Nitzan 1997)[^ben-yashar-1997][^shapley-1984].

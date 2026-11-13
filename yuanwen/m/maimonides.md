@@ -220,8 +220,6 @@ Aristotle, General Topics: psychology | cosmological argument | Maimonides: the 
 
 ## Notes（原文脚注）
 
-## Notes to Maimonides
-
 [^note-1]: Although the year of his birth is often given as 1135, research now supports the later date. For two recent studies of Maimonides’ life, see Davidson 2005 and Kramer 2005.
 
 [^note-2]: For a readily available English translation, see Twersky 1972, 402–23.

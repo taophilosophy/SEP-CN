@@ -204,8 +204,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Sina’s Metaphysics
-
 [^note-1]: Avicenna devotes a commentary to the ps.-*Theology of Aristotle*, a reworking of Plotinus’ *Enneads* IV–VI. This, in the incomplete form that has come down to us (see Badawi, *Arisṭū ʿinda al-ʿArab*, 37–74), concerns mainly psychological issues (see Gardet 1951; Vajda 1951; Bertolacci 2006: 455–457; Gutas 2014: 152–153)[^bertolacci-2006][^gardet-1951][^gutas-2014][^vajda-1951]. The influence of the *Book on the Pure Good* on Avicenna is less clear since many of the doctrinal elements Avicenna could have found in this text are also present in other Neo-Platonic texts as well (on this, see D’Ancona 2000 and Bertolacci 2006: 143–144, 256–257, 453–457)[^bertolacci-2006][^d’ancona-2000].
 
 [^note-2]: According to Bertolacci (2006: Ch. 5) Avicenna’s *Metaphysics* can be divided into the following parts:

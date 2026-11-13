@@ -224,8 +224,6 @@ Cockburn, Catharine Trotter | Collins, Anthony | cosmological argument | freedom
 
 ## Notes（原文脚注）
 
-## Notes to Samuel Clarke
-
 [^note-1]: For more on Clarke’s theory of necessity, see Yenter 2014 (265–266), Sangiacomo 2018, and Jorati 2021.
 
 [^note-2]: See Schliesser 2014 (44 & 48) for a more modest reading of Clarke’s argument. See Henry 2020 for an argument that Clarke’s views on this matter depart significantly from Newton’s views.

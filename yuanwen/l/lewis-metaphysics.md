@@ -259,8 +259,6 @@ Many thanks to Phillip Bricker for extraordinarily acute and helpful comments on
 
 ## Notes（原文脚注）
 
-## Notes to David Lewis’s Metaphysics
-
 [^note-1]: A significant oversimplification of Lewis’s actual view, as will be apparent in the (forthcoming) article on Lewis’s applied metaphysics.
 
 [^note-2]: Note that all Lewis means by “Nominalist” here is one who denies the existence of universals.

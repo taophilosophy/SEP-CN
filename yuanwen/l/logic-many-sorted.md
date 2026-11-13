@@ -847,8 +847,6 @@ logic: classical | logic: modal | logic: propositional dynamic | logic: second-o
 
 ## Notes（原文脚注）
 
-## Notes to Many-Sorted Logic
-
 [^note-1]: One might, alternatively, include sort 0, as the sort of truth values. However, including the sort 0 is not mandatory. In general, the truth values are the classical Boolean truth and falsity, but we could consider a many-sorted logic which is also many-valued. In that case we would need to add a domain of sort 0, thereby opening the door to a many-valued, many-sorted logic. Another reason for choosing to add sort 0 would be to get closer to the common presentation of type theory (see the entry on Church’s type theory).
 
 [^note-2]: Under certain circumstances, it is better to have an equality symbol for each sort $i$ (strict option), with $\Rank(\approx _{i})=\langle i,i,0\rangle$.

@@ -252,8 +252,6 @@ Aristotle, General Topics: ethics | artificial intelligence: ethics of | artific
 
 ## Notes（原文脚注）
 
-## Notes to Information Technology and Moral Values
-
 [^note-1]: Roger Clarke is quoting this statement from Brand; it was originally printed in a report/transcript from the conference in the May 1985 “Whole Earth Review”, p. 49.
 
 [^note-2]: See [Acceleration Studies Foundation](http://accelerating.org/), [Future of Humanity Institute](http://www.fhi.ox.ac.uk/), and [H+](http://hplusmagazine.com/).

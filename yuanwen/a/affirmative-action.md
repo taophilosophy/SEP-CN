@@ -257,8 +257,6 @@ equality | equality: of educational opportunity | equality: of opportunity | jus
 
 ## Notes（原文脚注）
 
-## Notes to Affirmative Action
-
 [^note-1]: Preferences for women don’t figure into the current controversy because women have no trouble competing for college admissions. 2020 data from the U.S. Census Bureau show women make up 57% of all college students and 60.7% of all graduate students. Regarding elite institutions, the following example is representative. The 2022 entering class at Harvard College consisted of 738 men and 906 women; the 2023 entering class at Harvard Law School was 51% female. The story is quite different for African Americans and Hispanics. Of the 30,631 University-wide enrollment at Harvard in 2022, 6% of students were black and 9% were Hispanic, and these numbers would have been lower had Harvard not been using race-conscious affirmative action in its admissions.
 
 - [Table 5. Type of College and Year Enrolled for College Students 15 Years Old and Older, by Age, Sex, Race, Attendance Status, Control of School, and Enrollment Status: October 2020](https://www.census.gov/data/tables/2020/demo/school-enrollment/2020-cps.html)

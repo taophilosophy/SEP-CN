@@ -257,8 +257,6 @@ Jonathan Kanzelmeyer and Mara McGuire assisted with the research for Section 8.
 
 ## Notes（原文脚注）
 
-## Notes to The Philosophy of Neuroscience
-
 [^note-1]: See Bickle 1995 and 1998, Chapter 5, and Schaffner 1992 for non-technical overviews emphasizing consequence for the intertheoretic reducibility of cognitive psychology to neuroscience.
 
 [^note-2]: This assumption is not gratuitous. We saw in the first paragraph of this section that folk psychological generalizations appeal to a variety of propositional attitudes. Eliminativists are also not the only theorists who make this assumption. Versions of Jerry Fodor’s (1981, 1987) influential (and noneliminative) Representational Theory of Mind assume explicitly this account of folk psychology. There have been dissenters, however, including Horgan and Graham 1991 and Jackson and Pettit 1990.

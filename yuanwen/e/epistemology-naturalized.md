@@ -394,8 +394,6 @@ The author thanks an anonymous referee, Alvin Goldman, Hilary Kornblith, Joshua 
 
 ## Notes（原文脚注）
 
-## Notes to Naturalism in Epistemology
-
 [^note-1]: As Elisabeth Pacherie puts it: “one should not take the label ‘naturalistic epistemology’ to be referring to a single, well-defined, doctrine. Rather, this label functions as an umbrella term covering a set of approaches that question in more or less radical ways the tenets of classical epistemology and insist on the relevance of empirical research to epistemological investigations” (2002: 299).
 
 [^note-2]: In his in-depth account of the history of naturalism, including in epistemology, Kitcher (1992) identifies the (re)introduction of psychology into epistemology and a suspicion of the *a priori* as the central features of NE.

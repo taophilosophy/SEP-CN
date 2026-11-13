@@ -279,8 +279,6 @@ abstract objects | fictionalism | possibilism-actualism debate | possible object
 
 ## Notes（原文脚注）
 
-## Notes to Modal Fictionalism
-
 [^note-1]: Examples include cases where *P* itself contains nested modal locutions, or where it contains names or other rigid designators subject to counterpart-theoretic paraphrase.
 
 [^note-2]: Other biconditionals which might be needed besides the ones associated with the sentential operators of necessity and possibility are ones connecting counterfactual statements and “closeness” relations between possible worlds, and biconditionals connecting probability values and measures on sets of possible worlds. De re modality may call for even more biconditionals, linking de re modal claims to claims about which counterpart relations, or trans-world identities, hold according to the fiction.

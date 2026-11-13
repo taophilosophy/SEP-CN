@@ -276,8 +276,6 @@ common good | economics: philosophy of | free rider problem | game theory | mark
 
 ## Notes（原文脚注）
 
-## Notes to Public Goods
-
 [^note-1]: This entry uses terms referring to mental processes such as enjoy, value etc. here. Strictly speaking what matters from the point of view of welfare economics is whether or not an individual prefers an alternative, and there is a debate about what precisely that means, see entry on preferences. Preference-language is clumsy, however, so this entry sticks with a less technical terminology unless disambiguation is necessary.
 
 [^note-2]: The result follows straightforwardly from the above budget constraint, the definition of a reservation price and the assumption that utility is strictly increasing in private consumption.

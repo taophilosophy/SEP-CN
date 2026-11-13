@@ -522,8 +522,6 @@ cognitive science | Frege, Gottlob: theorem and foundations for arithmetic | men
 
 ## Notes（原文脚注）
 
-## Notes to Diagrams and Diagrammatical Reasoning
-
 [^note-1]: Please note on-going interdisciplinary conferences at [The Theory And Application On Diagrams: An International Conference Series](https://diagrams-conference.org/).
 
 [^note-2]: It is an interesting question why this has been the case. The possibility of being misled by diagrams and their limited expressive power have been considered as major reasons for their rejection. Mark Greaves (2002) explores the philosophical and historical roots for the adoption or rejection of diagrams in logical and geometric proofs, and concludes that whether a diagrammatic system is invented, or accepted, is a reflection of whether the inventor, or user, accepts a certain metaphysics.

@@ -395,8 +395,6 @@ I thank Mitch Berman, David Dolinko, Erik Encarnacion, Russell Korobkin, Jennife
 
 ## Notes（原文脚注）
 
-## Notes to Legal Interpretation
-
 [^note-1]: E.g., Fallon 2015, 1299; Marmor 2005, 118, 121; Patterson 1996, 86–88. See Greenawalt 2004, 269. Proponents of this idea may fail adequately to distinguish the pragmatic from the semantic: the fact that people might not typically *say* that interpretation is required in easy cases may reflect pragmatic considerations rather than what interpretation *is*.
 
 [^note-2]: When writers talk about what legal interpretation seeks, they are often best understood as addressing the less fundamental question of which substantive method of legal interpretation is correct. See, for example, Scalia 1997, 16; Alexander and Prakash 2004, 991; Nelson 2005, 348, 351–57; Whittington 2010, 120, 121 fn. 3; Alexander 2013, 540; Soames 2013, 597; Fallon 2015, 1279, 1297; Barak 2005, 8–9.

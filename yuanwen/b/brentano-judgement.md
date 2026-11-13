@@ -417,8 +417,6 @@ assertion | Brentano, Franz | negation | propositions | reism | square of opposi
 
 ## Notes（原文脚注）
 
-## Notes to Brentano’s Theory of Judgement
-
 [^note-1]: Brentano’s students not only transmitted his views, they often took them as an inspiration for going beyond—or rebelling against—what has become called “Brentanian orthodoxy”. This debate is not covered in the present article. But see the works by Hillebrand, Husserl, Marty, Meinong, and Twardowski mentioned in the bibliography, as well as the insightful comparisons of their views with that of Brentano in Betti 2013, Betti & van der Schaar 2004, Cobb-Stevens 1998, Fréchette 2014, Ierna 2008, Janousek 2015 and 2017, Łukasiewicz 2007, Rojszczak & Smith 2003, and Staiti 2015.
 
 [^note-2]: Rollinger 2020, 106–141 focusses on Brentano’s remarks about judgement in Brentano’s lectures on logic..

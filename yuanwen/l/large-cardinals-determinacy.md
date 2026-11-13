@@ -583,8 +583,6 @@ choice, axiom of | Gödel, Kurt | Gödel, Kurt: incompleteness theorems | set th
 
 ## Notes（原文脚注）
 
-## Notes to Large Cardinals and Determinacy
-
 [^note-1]: This view that only natural numbers (and things reducible to them) have real mathematical existence has a long tradition, going back at least to the German mathematician Martin Ohm (1792–1872). Other notable figures in this tradition include Leopold Kronecker (1823–1891), Hermann Weyl (1885–1955), and, more recently, Solomon Feferman. See Ferreirós (2007), pp. 11–13 for further discussion on the early history.
 
 [^note-2]: We should note that there are some views that accept the standard hierarchy of large cardinal axioms—and so climb the canonical path through the well-founded stem of the interpretability hierarchy “all the way”—and yet are pluralist about statements of third-order arithmetic, in particular CH. So once one has solved the problem of consistency—even in the strong sense where one actually adopts the theories in the canonical sequence—there is still plenty of room for pluralism in approaching the problem of selection.

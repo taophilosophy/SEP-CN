@@ -268,8 +268,6 @@ Several colleagues offered suggestions about earlier drafts of this entry, for w
 
 ## Notes（原文脚注）
 
-## Notes to Mental Disorder (Illness)
-
 [^note-1]: In some traditions, madness and particularly melancholy, have been valorized, and recently, such disorder is celebrated in a literature on mad pride, as well as in particular first person memoirs (see Rashed 2019)[^rashed-2019]. Similar acknowledgment is associated with the so-called neuro-diversity model, in contrast to the medical one, within which the manifestations of mental disorder are neither worse, nor better, but merely atypical. (And as Ginger Hoffman has illustrated, no findings from neuroscience can adjudicate between these different conceptions (Hoffman 2019)[^hoffman-2019].
 
 [^note-2]: Somewhat confusingly, the sub-group “neurocognitive disorders” within orthodox classifications still refers to cognitive function narrowly construed (APA 2013: 591)[^apa-2013].

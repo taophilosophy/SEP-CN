@@ -438,8 +438,6 @@ Boltzmann, Ludwig | Mach, Ernst | physics: intertheory relations in | probabilit
 
 ## Notes（原文脚注）
 
-## Notes to Boltzmann’s Work in Statistical Physics
-
 [^note-1]: Cf. the following words of E.G.D. Cohen, (a student of Uhlenbeck, who was a student of Ehrenfest who studied with Boltzmann): “The depth of ill-feelings … and the resistance to [Boltzmann's] ideas … still resonated for me when Uhlenbeck said to me one day in some mixture of anger and indignation ‘that damned Zermelo, a student of Planck's *nota bene*’ an echo after two generations of past injustice and pain inflicted on Boltzmann by his hostile environment.” (Cohen 1996, 5)[^cohen-1996].
 
 [^note-2]: The remarkable degree of consent between Mach and Boltzmann has led one commentator (Blackmore 1982)[^blackmore-1982] into thinking that Boltzmann abandoned realism altogether.

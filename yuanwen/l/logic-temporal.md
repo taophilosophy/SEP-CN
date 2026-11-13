@@ -805,8 +805,6 @@ The first version of this entry was written by Antony Galton in 1999, later revi
 
 ## Notes（原文脚注）
 
-## Notes to Temporal Logic
-
 [^note-1]: Tkaczyk and Jarmużek (2019) have recently stressed Łoś’s contribution to the emergence of temporal logic. Their paper was followed by a response by Øhrstrøm and Hasle (2019), clarifying Łoś’s influence on Prior.
 
 [^note-2]: Especially in the early computer science literature, sometimes the notation $\small{\bigcirc}$ instead of $X$ is used for the *Next Time* operator.

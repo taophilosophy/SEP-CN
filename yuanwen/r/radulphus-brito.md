@@ -255,8 +255,6 @@ The authors would like to thank Sten Ebbesen, David Bennett and an anonymous ref
 
 ## Notes（原文脚注）
 
-## Notes to Radulphus Brito
-
 [^note-1]: The head and administrator of the College of Sorbonne of the University of Paris.
 
 [^note-2]: For 4.1 (*QsP*), see Ebbesen 1986; Ebbesen & Pinborg 1981; Pinborg 1980; Roos 1974. For 4.2, see MacMahon 1981. For 4.3, see Ebbesen 1986; Pinborg 1971. For 5, see Ebbesen 1986; Ebbesen 1987; Pinborg 1976. For 6, see Ebbesen 1987; Rossi 1995. For 7, see Ebbesen 1986; Green-Pedersen 1973, 1984; Pinborg 1971. For 8, see Ebbesen 1986, 1998; Ebbesen & Pinborg 1981. For 10, see Ebbesen 1978; Green-Pedersen & Pinborg 1978; Pinborg 1975b.

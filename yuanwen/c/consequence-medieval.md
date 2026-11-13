@@ -282,8 +282,6 @@ This entry was originally written by Catarina Dutilh Novaes for the Summer 2012 
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Theories of Consequence
-
 [^note-1]: The analysis here will focus exclusively on the developments in the Latin medieval tradition, thus not addressing the significant developments elsewhere, especially in the Arabic tradition. Henceforth, the entry will no longer use the qualification ‘Latin’, but the reader must bear in mind that there is much more to medieval philosophy than merely the Latin tradition. See for example the chapters on Arabic logic in Dutilh Novaes and Read (eds.) 2016.
 
 [^note-2]: Throughout the text, the term ‘sentence’ will be used as a translation of the Latin term ‘*propositio*’, except when quoting translations of Latin texts, where occasionally ‘proposition’ will appear. What Latin authors meant by *propositio* is best captured by the notion of a declarative sentence, not by the modern abstract notion of proposition.

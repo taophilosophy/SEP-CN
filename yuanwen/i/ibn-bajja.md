@@ -476,8 +476,6 @@ al-Farabi | Arabic and Islamic Philosophy, disciplines in: epistemology and phil
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Bâjja [Avempace]
-
 [^note-1]: For the Almoravid period see: Vincent Lagardère, *Les Almoravides. Le Djihâd Andalou (1106–1143)*, Paris: L'Harmattan, 1998; and N.T. Norris & P. Chalmeta, “al-Murâbiṭûn”, *Encyclopédia de l’Islam*, Leiden: Brill, 2007. The pioneering work of F. Codera 1899 (reprinted 2004) remains useful.
 
 [^note-2]: See the introductory remark of the editor sulayman al-Hara’iri (1824–1877), taken from Ibn Khallikan, in Ibn Khaqan 1966: 1. Also, F. Codera 1903.

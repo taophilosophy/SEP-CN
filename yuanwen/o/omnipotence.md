@@ -234,8 +234,6 @@ Crescas, Hasdai | evil: problem of | freedom: divine | God: and other ultimates 
 
 ## Notes（原文脚注）
 
-## Notes to Omnipotence
-
 [^note-1]: Such an argument is based on two premises. The first premise is a plausible version of the principle of *the diffusiveness of power* which implies that for any agent, $A$, and for any states of affairs $p \amp q$, if $A$ brings about $p$, $q$ obtains, and $q$ is not within the power of any agent other than $A$, then $A$ brings about $(p \amp q)$. The second premise is that possibly [(a non-omnipotent agent brings it about that a snowflake falls) & (no omnipotent agent ever exists) & (it is not within the power of any agent other than $A$ to bring it about that no omnipotent agent ever exists)]. It is plausible that this conjunction is possible provided that an accidentally omnipotent agent is possible.
 
 [^note-2]: In (D2), ‘$n$’ ranges over all natural numbers, and $t_1 \ldots t_n$ are nonoverlapping. In addition, it is assumed for the purposes of (D2) that either it is possible for time to have no beginning, or it is possible for time to have no end (or both).

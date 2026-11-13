@@ -361,8 +361,6 @@ causal models | causation: counterfactual theories of | causation: probabilistic
 
 ## Notes（原文脚注）
 
-## Notes to 20th Century Theories of Scientific Explanation
-
 [^note-1]: For treatments of non-causal explanation, see Lange (2017) and Reutlinger & Saatsi (2018).
 
 [^note-2]: In addition to Hempel (1965a) and Salmon (1989), see also Cartwright (1983), Earman (1986: 80–110), and van Fraassen (1989).

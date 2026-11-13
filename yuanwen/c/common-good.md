@@ -264,8 +264,6 @@ Aristotle | communitarianism | democracy | friendship | justice | justice: distr
 
 ## Notes（原文脚注）
 
-## Notes to The Common Good
-
 [^note-1]: In taking the common good to encompass both a set of facilities and a set of common interests, the entry follows the general outlines of Rawls’s discussion (see Rawls 1971 [1999], especially 82–83, 205 and 217)[^rawls-1971]. Strictly speaking, Rawls uses the term the “common good” to refer to a set of conditions that serve certain common interests. But it is clear from his discussion that he takes the common good to refer more generally to a standpoint that encompasses both a set of conditions and a set of interests (see section 6 and 7). Finnis (1980) also uses the common good to refer both to a set of facilities (in my sense) and a set of interests. Most other views do not draw a sharp distinction between facilities and interests.
 
 [^note-2]: A theory is consequentialist in this sense when it conceives of practical reason in terms of a set of values, where there are intrinsic, agent-neutral reasons for these values to be increased.

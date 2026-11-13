@@ -447,8 +447,6 @@ I thank Mark Fleurbaey, Christian List, Gerry Mackie and John Weymark for their 
 
 ## Notes（原文脚注）
 
-## Notes to Arrow’s Theorem
-
 [^note-1]: Arrow’s use of the expression ‘social preference’ is compatible with the idea that groups of people can have collective beliefs, desires and other intentional states, but it should not be taken to presuppose this. ‘Preference’, in social choice theory, is to some extent a term of art.
 
 [^note-2]: Let this aggregation procedure be defined precisely, now, as follows: $x$ is weakly preferred to $y$, socially, if there are as many people who weakly prefer $x$ to $y$ as there are who weakly prefer $y$ to $x$. More technically, pairwise majority decision is that social welfare function $f$ that assigns, to any given profile $\langle R_i\rangle$ in its domain, the relation $R$ such that:

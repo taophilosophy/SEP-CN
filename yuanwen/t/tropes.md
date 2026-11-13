@@ -278,8 +278,6 @@ For helpful comments and corrections, I would like to thank Alexander Skiles, Da
 
 ## Notes（原文脚注）
 
-## Notes to Tropes
-
 [^note-1]: Even to call one’s posits ‘tropes’ is by some considered problematic (*cf.* esp. Bacon 2011)[^bacon-2011]. ‘Trope’ was a label first suggested by D. C. Williams (1953*a*), presumably as a joke (at least according to Bacon 2011 and Schaffer 2001)[^bacon-2011][^schaffer-2001]. The literature is ripe with alternative labels, including, but not limited to, *abstract particular* (Campbell 1990)[^campbell-1990], *moment* (Mulligan et al. 1984)[^mulligan-1984], *mode* (Heil 2003)[^heil-2003][^heil-2003-2], *qualiton* (Bacon 2011)[^bacon-2011], *quality instance* (Segelberg 1999 [1945,1947,1953])[^segelberg-1999], *concrete property* (Küng 1967)[^küng-1967], *particular property* (Denkel 1996)[^denkel-1996], and *unit property* (Mertz 1996)[^mertz-1996].
 
 [^note-2]: Near contemporaries to Williams who also posit tropes or trope-like entities include, Cook Wilson (1926), Strawson (1959), Geach (Geach and Anscombe 1961)[^geach-1961], Küng (1967), and Wolterstorff (1970) (for even more examples, *cf.* Mulligan et al. 1984: 293)[^mulligan-1984].

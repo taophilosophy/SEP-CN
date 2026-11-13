@@ -351,8 +351,6 @@ Our thanks to Monica Burnett, Ryan Darr, Hugh Gauch, Chad McIntosh, Alejandro Na
 
 ## Notes（原文脚注）
 
-## Notes to Natural Theology and Natural Religion
-
 [^note-1]: See for example, the Wikipedia entry [Natural Theology](https://en.wikipedia.org/wiki/Natural_theology).
 
 [^note-2]: This debate between Nathan Lewis and Bernie Dehler on the Blackwell Companion to Natural Theology is [available online](https://www.youtube.com/watch?v=06WJ_deas3U).

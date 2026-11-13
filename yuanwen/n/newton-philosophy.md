@@ -228,8 +228,6 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | form vs. matter | Hu
 
 ## Notes（原文脚注）
 
-## Notes to Newton’s Philosophy
-
 [^note-1]: Whewell was responding to Samuel Taylor Coleridge’s plea that the members of the British Association stop calling themselves “natural philosophers,” for the scope of their research had narrowed considerably in recent years. For details, see Snyder 2011: 1–7. The first time that “scientist” was used in print was a year later, when Whewell—in an anonymous review—discussed the outcome of the British Association meeting in his review of Mary Somerville’s book, *On the Connexion of the Physical Sciences*—Whewell 1834: 59. The word ‘science,’ which derives from the Latin term ‘scientia’ (meaning, roughly, knowledge), has been in continuous use in numerous contexts since the fourteenth century, but it did not obtain its modern meaning until the mid-to-late nineteenth century. Thus the new meaning of ‘science,’ referring to the natural sciences specifically, arose roughly at the time that the word ‘scientist’ was coined (the Oxford English Dictionary has the new meaning of ‘science’ first appearing in 1867).
 
 [^note-2]: Two recent studies of the discipline of natural philosophy are French and Cunningham 1996 and Grant 2007. For an influential interpretation of Newton’s work in natural philosophy, see Stein 2002; see also Domski 2010, Ducheyne 2012, and Janiak 2008.

@@ -535,8 +535,6 @@ For comments, questions, and discussions I’m indebted to Josh Armstrong, Matej
 
 ## Notes（原文脚注）
 
-## Notes to Common Ground in Pragmatics
-
 [^note-1]: This was the first account of common ground that Stalnaker proposed. He changed his mind considerably in more recent work, which is discussed in the next section (Stalnaker 2002, 2014)[^stalnaker-2002]
 
 [^note-2]: The notion of unbounded common ground was already articulated by C.S. Peirce at the beginning of the last century. Having listed a number of things that both of us would take for granted “if we were to meet in the flesh”, Peirce writes: “I should know that it was so, and know that you knew it, and knew that I knew that you knew it; and so on, *ad infinitum* and *vice versa*” (MS 612, as quoted by Pietarinen 2004: 303)[^pietarinen-2004].

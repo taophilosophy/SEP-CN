@@ -328,8 +328,6 @@ Abelard [Abailard], Peter | Abner of Burgos | Abrabanel, Judah | Agrippa von Net
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Philosophy
-
 [^note-1]: Although Jewish philosophers writing in Arabic fit within the Islamicate cultural tradition (see, e.g., Maimonides in (§2.6), there is a strong continuity between Jewish philosophy in Arabic and in Hebrew, which is lost if medieval Jewish philosophy is not regarded as a single branch of the tradition. In §2, however, for the sake of space, pre-1200 Jewish philosophy is treated alongside other philosophy in Arabic in §2.4 and §2.6. Besides the four main branches there were others, such as philosophy in Syriac from the fourth to the thirteenth century, in Georgian and Armenian, and in Persian (attached to the Arabic tradition).
 
 [^note-2]: The term “medieval”, meaning “belonging to the middle (*medium*) age (*aevum*)”, was coined by Renaissance scholars to designate (in a derogatory way) the period between the end of antiquity and their own time. But there is no need to stick to this original sense, in which it would apply only to the Latin tradition (and perhaps the Jewish tradition, which had by then rooted itself in the Latin world); and, indeed, it is argued below (§5.2) that the Renaissance does not mark the end of the Latin tradition of medieval philosophy.

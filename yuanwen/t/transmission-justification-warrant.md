@@ -714,8 +714,6 @@ epistemic closure | evidence | externalism: and self-knowledge | Moore, George E
 
 ## Notes（原文脚注）
 
-## Notes to Transmission of Justification and Warrant
-
 [^note-1]: For instance $s$’s background information should in this case include scientific assumptions—e.g., that a lethal quantity of the toxins contained in the specified mushrooms will kill an ordinary human being who has taken no antidote shortly after its absorption—and assumptions about Jones—e.g., that Jones is an ordinary individual who has taken no antidote.
 
 [^note-2]: $\rE_1$ provides $s$ with justification for $\rP_1$ only given some background information. For instance, $s$’s background information should include assumptions about the toadstools in the risotto—e.g., that a large risotto of Boletus Satana is sufficiently rich in lethal toxins.

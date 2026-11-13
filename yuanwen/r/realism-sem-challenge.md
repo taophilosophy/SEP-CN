@@ -336,8 +336,6 @@ Thanks to a reviewer for many helpful criticisms and corrections. Thanks also to
 
 ## Notes（原文脚注）
 
-## Notes to Challenges to Metaphysical Realism
-
 [^note-1]: That is to say that the meanings of the quantifiers do not change across different logical categories: to say that numbers as well as material objects exist is not to invoke two different senses of the predicate exist. As van Inwagen puts it: The meaning of a quantifier does not change when one applies it to objects in different logical categories or any kind of categories you like. Note we have omitted the units of measurement van Inwagen uses in his argument to simplify the presentation.
 
 [^note-2]: See Fodor and Lepore 2002 for discussion of the centrality of compositionality for language understanding.

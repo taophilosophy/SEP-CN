@@ -294,8 +294,6 @@ consequentialism | economics: philosophy of | economics [normative] and economic
 
 ## Notes（原文脚注）
 
-## Notes to Ramsey and Intergenerational Welfare Economics
-
 [^note-1]: In a talk on 28 February 1925 before fellow Apostles (a secret mostly-undergraduate discussion society in Cambridge University, known to its fraternity as “The Society”), Ramsey had expressed a different viewpoint:
 
 > My picture of the world is drawn to perspective, and not like a model to scale. The foreground is occupied by human beings and the stars are as small as threepenny bits. I don’t really believe in astronomy, except as a complicated description of part of the course of human and possibly animal sensation. I apply my perspective not merely to space but also to time. In time the world will cool and everything will die; but that is a long time off still, and its present value at compound interest is almost nothing. Nor is the present less valuable because the future is blank. (Ramsey, 1931: 291).

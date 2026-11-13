@@ -616,8 +616,6 @@ abduction | agency | common knowledge | computational complexity theory | episte
 
 ## Notes（原文脚注）
 
-## Notes to Philosophical Aspects of Multi-Modal Logic
-
 [^note-1]: See the discussions between *summativism* (e.g., Quinton 1976)[^quinton-1976] and non-summativism (e.g., Gilbert 1987)[^gilbert-1987].
 
 [^note-2]: For proposals of systems in which justifications are made explicit, see the semantic representations of *evidence* in van Benthem & Pacuit (2011); Baltag, Bezhanishvili, Özgün, & Smets (2016); van Benthem, Fernández-Duque, & Pacuit (2014), as well as the more syntactic accounts in Baltag, Renne, & Smets (2012, 2014) and in the entry on justification logic.

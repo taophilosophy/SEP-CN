@@ -304,8 +304,6 @@ capability approach | colonialism | corruption | cosmopolitanism | economics [no
 
 ## Notes（原文脚注）
 
-## Notes to Global Justice
-
 [^note-1]: For discussion of whether or not such concerns can be accommodated in Rawls’s theory, see Martin and Reidy 2006.
 
 [^note-2]: Nationalists also often claim that self-determination is crucial in securing what matters to members of the nation. The right to self-determination protects space for expression and promotion of national values and life. These claims give rise to a range of interesting questions such as, when is a group eligible for the right to self-determination? When does the right to self-determination entail a right to territory? When would the right to self-determination give rise to a strong claim to secession? And when should the right to self-determination yield to other concerns of global justice such as protection of human rights? See the entries on secession and nationalism for more on these issues.

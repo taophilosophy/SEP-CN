@@ -349,8 +349,6 @@ I am extremely grateful to Megan Laverty, Vic Seidler, and Kieran Setiya for acu
 
 ## Notes（原文脚注）
 
-## Notes to Iris Murdoch
-
 [^note-1]: It is conventional in Murdoch scholarship to cite pages from *Sovereignty* in the form XY A/B, where “XY” is the name of the specific essay therein, “A” is the page in *Sovereignty* and “B” is the corresponding page of that essay in *Existentialists and Mystics*.
 
 [^note-2]: In a famous lecture in 1945, Sartre appears to construe his view as universalist in something like a Kantian way (Sartre 1945)[^sartre-1945]. Scholars disagree as to whether this is a plausible interpretation of Sartre’s view (see Flynn 2004 [2013])[^flynn-2004] and it was not unreasonable of Murdoch to construe it as lacking that feature.

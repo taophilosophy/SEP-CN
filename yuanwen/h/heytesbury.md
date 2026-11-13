@@ -365,8 +365,6 @@ Bradwardine, Thomas | Burley [Burleigh], Walter | consequence, medieval theories
 
 ## Notes（原文脚注）
 
-## Notes to William Heytesbury
-
 [^note-1]: This is Kaye’s interpretation derived from Olga Weijers (1998: 34–36). Some sources interpret it as a recipient of a scholarship (cf. Wilson 1956: 7 and Spade’s introduction to Heytesbury 1979: 1)[^wilson-1956].
 
 [^note-2]: For more bibliographical information concerning Heytesbury, see Longeway’s [previous entry on Heytesbury in the SEP](https://plato.stanford.edu/archives/win2017/entries/heytesbury/) and Longeway 2011.

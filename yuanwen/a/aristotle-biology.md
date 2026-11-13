@@ -257,8 +257,6 @@ Aristotle | Aristotle, General Topics: logic | Aristotle, General Topics: metaph
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle’s Biology
-
 [^note-1]: For an inspiring introduction to Aristotle the biologist written from the perspective of a practicing evolutionary developmental biologist, see Leroi 2014.
 
 [^note-2]: There are a number of other examples from natural science, including biological examples, in chapters 13–18 of book II especially. Most of these are discussed in the first three essays in Lennox 2001b; cf. 11–14, 30–32, 47–52, 82–90. See as well Bolton 1987, Charles 2000, Leunissen 2010b and Lennox 2021, ch.2.

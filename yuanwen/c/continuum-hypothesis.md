@@ -643,8 +643,6 @@ Gödel, Kurt | set theory | set theory: early development | set theory: large ca
 
 ## Notes（原文脚注）
 
-## Notes to The Continuum Hypothesis
-
 [^note-1]: See Hallett (1984) for further historical information on the role of CH in the early foundations of set theory.
 
 [^note-2]: We have of necessity presupposed much in the way of set theory. The reader seeking additional detail—for example, the definitions of regular and singular cardinals and other fundamental notions—is directed to one of the many excellent texts in set theory, for example Jech (2003).

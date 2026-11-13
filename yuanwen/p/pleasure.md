@@ -205,8 +205,6 @@ I am grateful to Ned Block, David Chalmers, and Daniel Stoljar for their suggest
 
 ## Notes（原文脚注）
 
-## Notes to Pleasure
-
 **Advice to the Reader**: These notes provide further discussion and often further references, often of specialized interest, and are *not* intended for readers seeking an overview or reading in a single sitting. Single notes may cover up to a paragraph in the main entry text and may address different topics in different paragraphs, so readers are invited to skim for topics of interest the main text suggests.
 
 [^note-1]: **This very long note defends its inclusive use of “pleasure” and “pain” – and** the naturalness of the prima facie distinction thereby drawn. It also **distinguishes such uses from others**. This use of “pain” is discussed in the paragraph just below, the distinction between sensation and affect salient there in the next, and the substantive contrast between pain and pleasure in the two following. The remainder of the note (flagged by a brief introductory paragraph) discusses the wide cultural and historical currency of inclusive usage of “pleasure” and semantically similar terms, distinguishes other uses, and ends with three paragraphs discussing the rejection of the inclusive use and concept by some ‘ordinary language philosophers’ of the mid-twentieth century. Throughout a broader linguistic and cultural perspective is attempted, in contrast to their practice of drawing universal conclusions about pleasure exclusively from their intuitions about current English usage, in keeping with then-current British philosophical fashion, although these writers typically had broader linguistic evidence ready to hand.

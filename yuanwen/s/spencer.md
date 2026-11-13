@@ -166,8 +166,6 @@ Bentham, Jeremy | consequentialism | consequentialism: rule | Darwinism | evolut
 
 ## Notes（原文脚注）
 
-## Notes to Herbert Spencer
-
 [^note-1]: See as well Hastings Rashdall 1907 (Vol. II, Chapter IV), where he, like Moore, accused Spencer of conflating explaining morality with justifying it. Rashdall also criticized quite sarcastically Spencer’s conception of equal freedom. Rashdall was, apart from Moore, the most prominent Cambridge idealist utilitarian.
 
 [^note-2]: J. B. Schneewind once said [personal communication] that he had recently purchased “yards” of Spencer, underscoring how much Spencer wrote on so many diverse topics.

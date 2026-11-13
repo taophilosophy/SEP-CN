@@ -237,8 +237,6 @@ Buber, Martin | Christian theology, philosophy and | Heidegger, Martin | Kant, I
 
 ## Notes（原文脚注）
 
-## Notes to Eugen Rosenstock-Huessy
-
 [^note-1]: *Sprache* in German refers to both speech and language. In general, Rosenstock-Huessy, when writing in English, talked of speech when describing his central preoccupation—but not always and he also referred to what he was doing as grammatical thinking.
 
 [^note-2]: He was to engage critically with Barth throughout his life but see especially the letter to Barth (1920b, 9–16) and his autobiographical reflections (1968, 81–84). See his ‘Comments’ (1942).

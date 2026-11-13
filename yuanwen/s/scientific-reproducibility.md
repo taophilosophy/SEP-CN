@@ -335,8 +335,6 @@ Bayes’ Theorem | epistemology: Bayesian | measurement: in science | operationa
 
 ## Notes（原文脚注）
 
-## Notes to Reproducibility of Scientific Results
-
 [^note-1]: Here, the inverse probability fallacy occurs when someone mistakes the probability of proposition *p* given proposition *q* for the probability of proposition *q* given proposition *p*. Consider the difference between the probability that someone is a human given that they are a female human (a probability of 100%) versus the probability that someone is a female human given that they are a human (a probability of around 50%). In this sense, someone would commit the fallacy if they believed that the *p* value specifies that probability that the null hypothesis is true given the results instead of it specifying the probability of obtaining the results if the null hypothesis were true. Consequently, if someone believes that the *p* value specifies the probability of the null hypothesis given the evidence, then why would they worry about the statistical power—the *a priori* probability of correctly rejecting the null hypothesis and detecting an effect when it is really present?
 
 [^note-2]: Like Feest (2016), other philosophers of science may recognize a resemblance between the experimenter’s regress and the Duhem-Quine problem: both problems concern the limitations of evidence insofar as it putatively underdetermines which propositions to accept.

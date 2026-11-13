@@ -428,8 +428,6 @@ Aquinas, Thomas | Auriol [Aureol, Aureoli], Peter | categories: medieval theorie
 
 ## Notes（原文脚注）
 
-## Notes to Walter Chatton
-
 [^note-1]: The paucity of documentary evidence makes it difficult to construct an accurate and detailed biography for Walter Chatton. The best overall discussion of the biographical source material on Chatton is Courtenay [1978], pp. 66–74. Other sources consulted include: Keele [2002], pp. 9–15; Emden [1957], pp. 395–96; Gelber [1974], pp. 185–205; Brown [1985], pp. 82–115; Baudry [1943–45], pp. 337–69; Brampton [1964], pp. 200–205; Longpré, [1923], pp. 101–114; and Douie [1931–32].
 
 [^note-2]: The exception is *Sermo de visione beatifica*, which was likely written in Avignon in 1333, and so belongs to the next stage; see Dykmans [1971]. For the dating of *De paupertate evangelica* see Douie [1931], p. 345. The list of Chatton's works was compiled from Sharpe, [2001], pp. 730–31, Fitzpatrick [1971], pp. 88–177, and Wey [1989], pp. 1–2.

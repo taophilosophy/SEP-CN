@@ -231,6 +231,29 @@ class TestAuditFixes20261113(unittest.TestCase):
         self.assertIn('- a b', '\n'.join(ctx.out))
 
 
+class TestAuditFixes20261113Late(unittest.TestCase):
+    """abhidharma 词条审计追加的两类系统性缺陷（specs/018）。"""
+
+    def test_uppercase_year_suffix_kept_in_key(self):
+        # 1992A/2004B 旧正则只认小写后缀，键退化为 gethin-nd / cox-nd-2
+        keys = build_cite_keys(['Gethin, R., 1992A, The Buddhist Path to Awakening, Leiden: Brill.'])
+        self.assertEqual(keys[0]['key'], 'gethin-1992a')
+        keys = build_cite_keys(['Cox, C., 2004B, “Mainstream Buddhist Schools,” in Encyclopedia.'])
+        self.assertEqual(keys[0]['key'], 'cox-2004b')
+
+    def test_notes_page_title_dropped(self):
+        # notes.html 自带 <h2>Notes to X</h2>，正文侧已有「## Notes（原文脚注）」
+        from tools.yuanwen import convert_notes
+        html = ('<!-- BEGIN ARTICLE HTML -->'
+                '<h2>Notes to Abhidharma</h2>'
+                '<div id="note-1"><p>First note body.</p></div>'
+                '<!-- END ARTICLE HTML -->')
+        defs = convert_notes(html, 'abhidharma')
+        self.assertEqual(len(defs), 1)
+        self.assertTrue(defs[0].startswith('[^note-1]: First note body.'))
+        self.assertNotIn('Notes to', '\n'.join(defs))
+
+
 class TestGuardRails(unittest.TestCase):
     """上游噪声与公式护栏边界（ADR-0016 一致性收口补测）。"""
 

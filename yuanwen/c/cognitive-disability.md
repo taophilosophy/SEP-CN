@@ -245,8 +245,6 @@ We have received invaluable editorial assistance from Dorit Barlevy, Ari Schick,
 
 ## Notes（原文脚注）
 
-## Notes to Cognitive Disability and Moral Status
-
 [^note-1]: Perhaps the starkest illustration of this contrast is the “Animal Rule” of the U.S. Federal Drug Administration, which permits drug approval based on efficacy testing on animals rather than humans, “when human efficacy studies are not ethical or feasible” (21 CFR 314.600). Since animals studies have greater evidentiary value for humans the greater the relevant similarities between the animals studied and human beings, this rule effectively makes those similarities—including cognitive ones—a basis for exposing nonhuman animals to, rather than protecting them from, harmful research (Walker and King 2011)[^walker-2011].
 
 [^note-2]: We take the term “radical” from Jeff McMahan (2009), to avoid the use of terms such as “severe” and “profound”, which derive from psychometric classification. We do not, however, use McMahan’s label, “radical cognitive limitation,” to refer to “human beings whose overall psychological capacities or potential are comparable to or lower than those characteristic of the higher orders of nonhuman animals… .” (240). As McMahan acknowledges, the appropriateness and intelligibility of the comparison are disputed by some philosophers and disability scholars, and we do not want to adopt a tendentious label when one of our objectives is to assess that very claim. In some contexts, we will use the term “impairment” rather than “disability” in recognition of a generation of disability scholarship emphasizing the role of the social environment in making both physical and mental disabilities disabling (see the entry on disability: definitions, models, experience).

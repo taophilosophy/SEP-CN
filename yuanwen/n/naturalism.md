@@ -287,8 +287,6 @@ anomalous monism | fictionalism: modal | intuition | mental causation | moral an
 
 ## Notes（原文脚注）
 
-## Notes to Naturalism
-
 [^note-1]: A number of contemporary meta-ethicists, however, do identify themselves as “non-naturalists” about moral facts (Enoch 2011, Parfit 2011, Schaffer-Landau 2003, Wedgwood 2007—see section 1.7 below)[^enoch-2011][^parfit-2011][^wedgwood-2007]. It should also be noted that philosophers concerned with religion are not always enthusiastic about “naturalism” (see the essays in Craig and Moreland 2000)[^craig-2000].
 
 [^note-2]: Philosophers who understand “naturalism” in a generous sense include John McDowell (1996), David Chalmers (1996), and Jennifer Hornsby (1997).

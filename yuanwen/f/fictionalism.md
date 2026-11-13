@@ -291,8 +291,6 @@ abstract objects | cognitivism vs. non-cognitivism, moral | constructive empiric
 
 ## Notes（原文脚注）
 
-## Notes to Fictionalism
-
 [^note-1]: The distinction hermeneutic/revolutionary comes from Burgess 1983, who distinguishes between hermeneutic and revolutionary nominalism. This distinction is also put to important use in Burgess and Rosen 1997. Stanley (2001, p. 36) introduced the terminology of hermeneutic versus revolutionary fictionalism.
 
 [^note-2]: The characterizations are quoted, with minor modifications, from the abstract for Yablo’s Eastern APA presentation of his (2001), published in the *Proceedings and Addresses of the American Philosophical Association*.

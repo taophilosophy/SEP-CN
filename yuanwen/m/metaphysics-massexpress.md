@@ -480,8 +480,6 @@ Revision Acknowledgments (July 2022). Many thanks go to Irem Kurtsal, Jeff Pelle
 
 ## Notes（原文脚注）
 
-## Notes to The Metaphysics of Mass Expressions
-
 [^note-1]: Although some include them too. See Mill’s *Logic* pp.30–31, and Lowe 1995b, entry on “Things.”
 
 [^note-2]: Strawson 1995, p.137, 227. Parsing and quote from Laycock 2005, p. 63.

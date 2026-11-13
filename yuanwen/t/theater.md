@@ -231,8 +231,6 @@ assertion | epistemology: virtue | ethics: virtue | knowledge, value of | ontolo
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Theater
-
 [^note-1]: Richard Wollheim presented a similar problem about painting, namely the problem of the relation between the marks of paint on the surface or support for the painting and the content represented by means of those marks. Wollheim called the problem “twofoldness,” and it consists in the claim that viewers of paintings examine a painting by being aware of those two levels of describable features of paintings. It is the problem, rather than Wollheim’s solution (“seeing-in”) that is of interest here (Wollheim 1998)[^wollheim-1998].
 
 [^note-2]: Reference is made in this paragraph to the choices made by theater “companies.” Nothing hangs on the idiom. Many companies are organized in such a way that directors make these decisions. Playwrights may make some of the decisions in advance. And a few companies are set up to make those decisions collectively. This paragraph sets out some of the tasks that must be undertaken in order to strive for relevant artistic achievements; and for that purpose, it does not matter how those decisions are made.

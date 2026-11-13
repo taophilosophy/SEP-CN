@@ -560,8 +560,6 @@ artificial intelligence | epistemology: virtue | ethics: virtue | imagination | 
 
 ## Notes（原文脚注）
 
-## Notes to Creativity
-
 [^note-1]: Solutions: a. horn b. camp.
 
 [^abdulla-2020]: Abdulla, Ahmed M., Sue Hyeon Paek, Bonnie Cramond, and Mark A. Runco, 2020, “Problem Finding and Creativity: A Meta-Analytic Review”, *Psychology of Aesthetics, Creativity, and the Arts*, 14(1): 3–14. doi:10.1037/aca0000194

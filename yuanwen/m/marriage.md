@@ -241,8 +241,6 @@ Thanks to Eric Cave, Laurence Houlgate, Ann Levey, Mark Migotti, and Nicole Wyat
 
 ## Notes（原文脚注）
 
-## Notes to Marriage and Domestic Partnership
-
 [^note-1]: The reference is to Ulysses tying himself to the mast so that he can hear the sirens’song without jumping overboard.
 
 [^note-2]: Marriage does not bring benefits exclusively: in the U.S., it can bring a tax ‘penalty’ to dual-income couples with similar incomes as well as a tax ‘bonus’ to disparate-income couples. For a comprehensive summary of the many implications of marriage in U.S. federal law, see the 1997 U.S. General Accounting Office Report on marriage—see Other Internet Resources.

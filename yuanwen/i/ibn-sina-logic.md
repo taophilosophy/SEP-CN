@@ -738,8 +738,6 @@ al-Farabi | Arabic and Islamic Philosophy, disciplines in: metaphysics | Arabic 
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Sina’s Logic
-
 [^note-1]: The two should not be understood exclusively in chronological terms: a scant number of logicians writing after Avicenna, like Averroes (1126-1198 CE) or Avempace (d. 1139 CE), are committed to a pre-Avicennan and programmatically Aristotelian orthodoxy.
 
 [^note-2]: The tripartite proposition enables Avicenna, among other things, to express clearly the distinction between nominal negation and negation of the copula.

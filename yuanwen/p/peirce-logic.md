@@ -723,8 +723,6 @@ algebra of logic tradition | Boole, George | diagrams: and diagrammatical reason
 
 ## Notes（原文脚注）
 
-## Notes to Peirce’s Deductive Logic
-
 [^note-1]: Peano’s arithmetic, Russell and Whitehead’s systems, Gentzen’s natural deductive systems, Hilbert’s programs, and Gödel’s incompleteness theorems are prime examples.
 
 [^note-2]: According to Peirce’s terminology, there are three kinds of predicates, “absolute terms”, “simple relative terms”, and “conjugative terms” (DNLR [CP 3.63]). These correspond to monadic, dyadic, and ternary predicates, in modern terminology. Also, there is a controversy over “relatives” versus “relations”. Refer to Merrill 1990: 160–163. “I conclude that [Peirce’s] simple relative terms stand for dyadic relations” (1990: 162).

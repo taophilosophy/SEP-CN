@@ -161,8 +161,6 @@ The author is grateful to Fabienne Jourdan and John Dillon for comments and sugg
 
 ## Notes（原文脚注）
 
-## Notes to Numenius
-
 [^note-1]: Cronius is a shadowy figure, presumably a contemporary of Numenius. He is coupled with Numenius in three ancient testimonies (Iamblichus, *On the Soul* in Stobaeus I.374.21–375.18, I.380.6–19; frs. 43, 48, and Syrianus, *In Metaphysica* 109.12–14; fr. 46b). Apparently he followed Numenius on the question of the entry of the soul into body but he denied transmigration into animals (Nemesius, *De natura hominis* 116.3–8). He is mentioned as one of the authors read in Plotinus’ seminar (*Life of Plotinus* 14.11). See Dillon 1977, 379–380.
 
 [^des-1973]: Des Places, É. (ed. and trans. in French), *Numénius. Fragments*, Paris: Belles Lettres, 1973.

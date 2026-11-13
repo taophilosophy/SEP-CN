@@ -608,7 +608,7 @@ Bridges thanks Philip Catton for kindly advising him about an early version of t
 
 [^brouwer-1924]: –––, 1924, “Beweis, dass jede volle Funktion gleichmässig stetig ist”, *Proceedings of Royal Dutch Mathematical Society*, 27: 189–193.
 
-[^brouwer-nd]: –––, 1924A, “Bemerkung zum Beweise der gleichmässigen Stetigkeit voller Funktionen”, *Proceedings of Royal Dutch Mathematical Society*, 27: 644–646.
+[^brouwer-1924a]: –––, 1924A, “Bemerkung zum Beweise der gleichmässigen Stetigkeit voller Funktionen”, *Proceedings of Royal Dutch Mathematical Society*, 27: 644–646.
 
 [^cederquist-1996]: Cederquist, J., and Negri, S., 1996, “A constructive proof of the Heine-Borel covering theorem for formal reals”, in *Types for Proofs and Programs* (Lecture Notes in Computer Science, Volume 1158), 62–75, Berlin: Springer Verlag.
 

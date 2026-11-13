@@ -571,8 +571,6 @@ Thanks to Berit Brogaard, Marian David, Shane Duarte, Anthony Everett, Thomas Ho
 
 ## Notes（原文脚注）
 
-## Notes to Propositions
-
 [^note-1]: Throughout this entry, ‘object of belief’ simply refers to what is believed, rather than to the entity or entities the belief is intuitively *about*. So, for instance, when I believe that Ford pardoned Nixon my belief is about Ford and Nixon but not about the proposition that Ford pardoned Nixon. This proposition, rather, is what I believe. This usage for ‘object of belief’ does not fit well with that of the Husserlian tradition, but it is, arguably, the standard contemporary usage, and it is adopted here.
 
 [^note-2]: For an illuminating account of these matters, see Kretzmann (1970).

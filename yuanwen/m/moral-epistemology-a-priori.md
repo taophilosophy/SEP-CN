@@ -362,8 +362,6 @@ analysis | analytic/synthetic distinction | *a priori* justification and knowled
 
 ## Notes（原文脚注）
 
-## Notes to A Priorism in Moral Epistemology
-
 [^note-1]: By calling this the standard view we do not mean that it is standard among philosophers who are currently writing about the *a priori*, but rather that it is something like the traditional, common sense view that critics will react against and that any defenders would have to further elaborate. For a good introduction to more contemporary approaches to the *a priori* see the essays in Boghossian and Peacocke 2000.
 
 [^note-2]: We should emphasize that the traditional view holds that empirical propositions cannot be justified *a priori*. A number of philosophers have contested this orthodoxy. See, e.g., Kripke 1980, Soames 2007, and Turri 2011.

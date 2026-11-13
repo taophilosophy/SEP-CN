@@ -275,8 +275,6 @@ agency | Collins, Anthony | compatibilism | determinism: causal | euthanasia: vo
 
 ## Notes（原文脚注）
 
-## Notes to Locke On Freedom
-
 [^note-1]: Stuart (2013: 398) notes that in the 17ᵗʰ century, the word “prefer” had the (now obsolete) meaning of forwarding, advancing, or promoting a certain result, as in “A little shaking prefers the growth of the tree”. Stuart suggests that this may explain why Locke also describes the will’s exercise, even in E1, as “choosing”, a kind of “mental exertion or impetus” that clearly differs from the merely passive state of being pleased with something. But Locke is not using the locution “prefer *X*”; rather, he is using the locution “prefer *X* *to* *Y*”. And preferring something *to* something else, even following 17ᵗʰ century usage, is not a matter of forwarding, advancing, or promoting *X* over *Y*. So the text really does suggest that Locke provides a straightforwardly desiderative conception of the will in E1 (see Yaffe 2000: 98–101)[^yaffe-2000].
 
 [^note-2]: Having distinguished so carefully in E2 between the will and desire, it is therefore unfortunate that Locke does not do more to clean up his discussion of the will in E2–5. Numerous references to preferring and being pleased with, as characterizing volition, remain in E2–5, even as Locke inserts new language in an attempt to distance himself from the desiderative conception of the will. For example, Locke continues to treat the question of “whether a Man can *will*, what he *wills*” as equivalent to the question of whether a man can “be pleased with what he is pleased with” (E1–5 II.xxi.25: 247). And he claims that the “preferring of Action to its absence, is the *willing* of it” (E1–5 II.xxi.21: 244).

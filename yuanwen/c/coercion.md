@@ -406,8 +406,6 @@ I am indebted to Thomas Pogge for numerous helpful suggestions and clarification
 
 ## Notes（原文脚注）
 
-## Notes to Coercion
-
 [^note-1]: For now the notion of a threat will be left undefined, but see note 6 below, as well as the discussion of current disputes over the nature of threats in section II B–D.
 
 [^note-2]: Aquinas’ view here is quite complicated, in that he distinguishes the voluntariness of the particular act done from fear from the involuntariness of acting from fear more generally. (See Aquinas 1920 [1273], I.II Q6 A6.)[^aquinas-1920]

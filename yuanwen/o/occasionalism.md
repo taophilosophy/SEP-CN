@@ -301,8 +301,6 @@ al-Ghazali | Arabic and Islamic Philosophy, disciplines in: natural philosophy a
 
 ## Notes（原文脚注）
 
-## Notes to Occasionalism
-
 [^note-1]: Note that some argue that al-Ghazālī was actually not an occasionalist. See Dutton note 1.
 
 [^note-2]: This description is actually a summary that Ibn Rushd (Averroes) presents in his *TT* 316. The corresponding passage in al-Ghazali’s *Incoherence* appears to be *TF* 170.

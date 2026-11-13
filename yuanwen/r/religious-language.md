@@ -312,8 +312,6 @@ Ayer, Alfred Jules | cognitivism vs. non-cognitivism, moral | Pseudo-Dionysius t
 
 ## Notes（原文脚注）
 
-## Notes to Religious Language
-
 [^note-1]: The rejection of (a*) goes along with the rejection of (b*) and (c*).
 
 [^note-2]: Brathwaite’s disagreement with Ayer’s emotivism has certain parallels with the contrasting non-cognitive accounts of ethics proposed by Simon Blackburn and Allan Gibbard (see Scott 2013: 49–50)[^scott-2013].

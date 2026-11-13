@@ -342,8 +342,6 @@ The authors thank Giulio Pietroiusti for especially helpful discussion concernin
 
 ## Notes（原文脚注）
 
-## Notes to Charles Leslie Stevenson
-
 [^note-1]: Apparently, Stevenson’s colleagues wished to resist the pragmatist and positivist tendencies in the American philosophical environment of the time and wanted to associate Yale with “the spiritual tradition of our civilization.” They decided, after extensive discussion, that Stevenson’s book “evaded philosophical issues that anyone with any reasonable grounding in philosophy would be expected to appreciate,” and that Stevenson’s views would be likely to have malevolent effect on students and political life (Kuklick 2004, 324–325)[^kuklick-2004]. Burks (1978) reports that one of Stevenson’s senior colleagues at Yale had declared that Stevenson had “committed positivism,” where the general acceptance of positivism was thought by at least one such senior colleague, Brand Blanshard, to lead inevitably to “international disaster” (Blanshard 1949)[^blanshard-1949].
 
 [^ayer-1936]: Ayer, A. J., 1936, *Language, Truth, and Logic*, London: Victor Gollancz Ltd.

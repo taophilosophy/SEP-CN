@@ -433,8 +433,6 @@ Work on the original (2005) version of this article was supported by the America
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s Aesthetics and Teleology
-
 [^note-1]: The now common use of the expression “power of judgment” rather than “judgment” to translate “*Urteilskraft*”, both in the title of the *Kritik der Urteilskraft* and in other contexts, was first introduced by Guyer and Matthews in their 2000 edition of the work (see the Primary Sources section of the Bibliography). This entry uses the more traditional translation; for a rationale, see Ginsborg 2002.
 
 [^note-2]: The translation of *Zweck* and its cognates is not straightforward. The Meredith translation has “end” and “finality”, respectively, for *Zweck* and *Zweckmässigkeit*; the Pluhar translation has “purpose” and “purposiveness”,; and the Guyer and Matthews translation splits the difference with “end” and “purposiveness”. (For references to these translations, see the Primary Sources section of the Bibliography.) This entry follows Pluhar, which preserves the link between the various cognates of *Zweck* without introducing the neologism “finality”, although it has the disadvantage of obscuring the connection between Kant’s uses of *Zweck* in his moral philosophy, where *Zweck* is traditionally translated with “end”, and his uses of *Zweck* in the third Critique.

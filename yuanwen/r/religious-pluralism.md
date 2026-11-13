@@ -261,8 +261,6 @@ disagreement | fideism | religion: epistemology of | religious commitment and re
 
 ## Notes（原文脚注）
 
-## Notes to Religious Diversity (Pluralism)
-
 [^note-1]: The phrase “religious exclusivist” has been used by some as a label for those who claim that their perspective on a religious issue is true (and, thus, that any incompatible perspective is false). In this sense, for example, those who claim that their perspective on the question of who will spend eternity with God is true—whether that perspective is that no one spends eternity with God, that the proponents of only certain religions will spend eternity with God, or that everyone will spend eternity with God— are by virtue of this truth claim religious exclusivists. Looking at it this way, “religious pluralism,” however defined, is not a competing position. Rather, individuals are either religious exclusivists or not. If they believe that a given perspective on a religious issue is true, then, regardless of the nature or content of that perspective, they are religious exclusivists; if they don’t hold such a belief, then they are not religious exclusivists with respect to the issue in question (Schilbrack 2014, 6–7).
 
 [^note-2]: Some will surely be uneasy with Plantinga’s dependence on nonfalsifiable private, privileged truth, noting that many, if not most, religious extremists make an unacceptable appeal to such truth as justification for their actions. Plantinga’s supporters can counter that the fact that some such appeals are ad hoc, self-serving justifications for very harmful behavior doesn’t mean this is always or even normally the case.

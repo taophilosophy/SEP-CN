@@ -261,8 +261,6 @@ The author is indebted to Jeffery Long as well as Bin Song and Tobias Zürn for 
 
 ## Notes（原文脚注）
 
-## Notes to God and Other Ultimates
-
 [^note-1]: These names are found in Hinduism, Daoism, Buddhism, monotheisms such as Judaism, Christianity, Islam and Sikhism, and Plotinus’ and Charles Peirce’s thought, respectively. For Peirce, see Kasser 2013.
 
 [^note-2]: See, e.g., Huxley 1945, Hartshorne and Reese (eds) 1953, Holm and Bowker (eds) 1994, Ward 1998, Neville and Wildman 2001, Diller and Kasher (eds) 2013, and Wildman 2017.

@@ -594,8 +594,6 @@ Thanks to Phillip Bricker and Dean Zimmerman for helpful comments.
 
 ## Notes（原文脚注）
 
-## Notes to Monism
-
 [^note-1]: It is perhaps more common for the bundle theorist to claim reductionism about concrete objects than to claim eliminativism (Hoffman and Rosenkrantz 1997: 26–7; Paul 2002: 579–80)[^hoffman-1997][^paul-2002]. But it would be at least consistent to accept (i) the bundle theorist’s property ontology and (ii) that bundles of compresent properties are not fit to serve as concrete objects. This would yield the sort of nihilism contemplated in the main text.
 
 [^note-2]: For Frege, the external phenomenon is conceptualized via a sortal term (e.g., via “copse” or “tree”), which provides an associated unit. See Alston and Bennett 1984 for some further discussion.

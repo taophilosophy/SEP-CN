@@ -306,8 +306,6 @@ computability and complexity | induction: problem of | learning theory, formal |
 
 ## Notes（原文脚注）
 
-## Notes to Simplicity
-
 [^note-1]: Compare Poincaré’s remark that “simplicity is a vague notion” and “everyone calls simple what he finds easy to understand, according to his habits.” (quoted in Gauch [2003, p. 275])
 
 [^note-2]: N.B. some philosophers use the term ‘semantic simplicity’ for this second category. e.g. Sober [2001, p. 14]

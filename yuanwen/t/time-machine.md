@@ -135,8 +135,6 @@ We thank Carlo Rovelli for discussions and John Norton for comments on an earlie
 
 ## Notes（原文脚注）
 
-## Notes to Time Machines
-
 [^note-1]: For a sampling of the physics literature on time machines, see Hawking (1992a, b), Krasnikov (1999, 2002, 2014b), Morris and Thorne (1988), Morris, Thorne, and Yurtsever (1988), Visser (2003). For a sampling of the popular and semi-popular literature, see Davies (2002a, b), Gott (2001), Hawking (2001), and Nahin (1999).
 
 [^note-2]: See Arntzenius and Maudlin (2009) for a detailed discussion of the physics of time travel. We find, not without satisfaction, some indications in the recent philosophical literature that the logical and physical possibilities of time travel are more widely accepted than they were ten years ago. Recent attempts to argue for the compatibility of certain philosophical positions, such as presentism (cf. Keller and Nelson 2001; Monton 2003)[^keller-2001][^monton-2003], with the possibility of time travel bear testimony of this development.

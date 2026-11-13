@@ -309,8 +309,6 @@ analytic/synthetic distinction | Carnap, Rudolf | definitions | empiricism: logi
 
 ## Notes（原文脚注）
 
-## Notes to Theoretical Terms in Science
-
 [^note-1]: To mention only two of these intermediate positions: van Fraassen (1980) accepts a realist semantics for scientific statements but contests that science is aiming at true theories. Dummett’s antirealism suggests replacing the notion of truth by provability or warranted assertibility (Dummett 1978; Wright 1993)[^dummett-1978][^wright-1993]. This alternative to realist semantics has never been worked out for scientific theories in greater detail, however.
 
 [^note-2]: An important difference between Przelecki (1969: ch. 6) and Andreas (2010) is that only the former requires those sentences that indirectly interpret a symbol to be analytic. This requirement is not in line with Carnap’s (1958) view that the analytic-synthetic distinction is not applicable to the single axioms of a scientific theory. Przelecki’s (1969) account, however, is more general than that of Andreas (2010) in that it does not assume a complete interpretation of the basic language $L(V_o)$. The merits of both accounts can easily be combined.

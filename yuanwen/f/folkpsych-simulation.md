@@ -432,8 +432,6 @@ The authors would like to thank Tom Cochrane, Jeremy Dunham, Steve Laurence, and
 
 ## Notes（原文脚注）
 
-## Notes to Folk Psychology as Mental Simulation
-
 [^note-1]: More precisely, we shall adopt the following general rule to define “simulated mental state” in terms of “mental simulation of”:
 
 (RULE) A token state *M** is a simulated mental state if and only if there is another token state *M* such that: *M** is a mental simulation of M.

@@ -608,8 +608,6 @@ Aristotle, General Topics: logic | existence | generalized quantifiers | logic: 
 
 ## Notes（原文脚注）
 
-## Notes to Quantifiers and Quantification
-
 [^note-1]: It is not difficult to give examples of quantifier phrases of different syntactic categories. Certain adjectives such as “finite”, “uncountable” and adverbs such as “sometimes”, “often”, and “never” may likewise be used to make general statements. Even non-phrasal constructions such as “there is” or “there are” may express generality.
 
 [^note-2]: In what follows, we will sometimes omit a pair of parentheses in accordance to standard abbreviations in logic. We will, for example, let the expression $B \rightarrow C$ abbreviate $(B \rightarrow C)$.

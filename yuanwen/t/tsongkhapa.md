@@ -229,8 +229,6 @@ Gelukpa [dge lugs pa] | Nāgārjuna | Śāntarakṣita | Tibetan epistemology an
 
 ## Notes（原文脚注）
 
-## Notes to Tsongkhapa
-
 [^note-1]: Included in the first volume (*Ka*) of the *Collected Works* of Tsongkhapa (Tibetan Buddhist Resource Center); Thurman (1982) contains authentic translations of Tsongkhapa’s own short descriptions of his intellectual and spiritual life.
 
 [^note-2]: The investigation into *tattva* (*de kho na*) seeks an essential identity (*sva-bhāva*; *rang gi ngo bo/rang bzhin*) in a unique thing (*bhāva*; *dngos po*), and the investigation into *tathatā* (*de bzhin nyid*) an essential reality (*ātman*; *bdag*) uniting all things, particularly as the known objects of a single act of fully enlightened knowledge. Napper (1989) reviews a series of intellectual exchanges between Alex Wayman and Geshe Lhudup Sopa that elucidate what Tsongkhapa means by *khyab che ba* and *khyab chung ba*.

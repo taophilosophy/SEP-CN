@@ -294,8 +294,6 @@ epistemic paradoxes | evidence | justification, epistemic: internalist vs. exter
 
 ## Notes（原文脚注）
 
-## Notes to Epistemic Self-Doubt
-
 [^note-1]: As a conditional probability SR would also underwrite by conditionalization the mere having of a belief as a reason to continue to have that belief, a view called *epistemic conservatism*, which some have found objectionable. See Sklar 1975, Foley 1982, Adler 1990, and Christensen 1994 for discussion.
 
 [^note-2]: Probabilistic coherence is logically equivalent to potential calibration in the technical sense contained in the Brier score (van Fraassen 1983)[^fraassen-1983]. A sequential forecaster must not revise on the basis of a finite track record that suggests miscalibration, no matter how strongly that frequency suggests it, on pain of incoherence (Dawid 1982)[^dawid-1982]. The higher-order probability approach below avoids this consequence by representing the judgments about the track record explicitly at the second order with a different function for reliability.

@@ -297,8 +297,6 @@ confirmation | epistemology: Bayesian | Lakatos, Imre | Mill, John Stuart | Popp
 
 ## Notes（原文脚注）
 
-## Notes to Prediction versus Accommodation
-
 [^note-1]: Citing this passage, Achinstein (1994: 163; 2001: Ch.10) argues that predictivism’s appearance of plausibility is illusory, and can be explained away by citing other factors, such as the selection procedure used to generate the evidence. Howson articulates a similar ‘Keynesian dissolution’ of predictivism, cf. Section 7 below.
 
 [^note-2]: Mish, Fred (ed.), 1998, *Merriam-Webster’s Collegiate Dictionary*, tenth edition, Springfield, MA: Merriam-Webster, Inc.

@@ -243,8 +243,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 ## Notes（原文脚注）
 
-## Notes to Solomon Ibn Gabirol [Avicebron]
-
 [^note-1]: It is important to note that while we might *transliterate* his name into Hebrew as “Ibn Gevirol” or “Ibn Gavirol,” the family name is most likely a combination of the Arabic “Ibn Jubayr” (“b” sound, no “v” sound in Arabic) with the Spanish suffix “ol.” See Schirmann-Fleischer 1995, p. 262, n. 30. Also, as the “Ibn” of “Ibn Jubaryol” is here part of the family name, the Hebrew would not be “Shelomoh ben Yehuda *ben* Gabirol” but “Shelomoh ben Yehuda *Ibn* Gabirol”. I am thankful to Profs. Joel Kraemer and Peter Cole for helping me with the origins of this name.
 
 [^note-2]: Ibn Daud includes Ibn Zaddiq's dating in his own work; see Loewe 1989, p. 23, and fn. 12, p. 170. Abraham Zacuto also cites 1070 (see Loewe 1989, p. 23 and fn. 13, p. 170)[^loewe-1989]. We do not have too many biographical details on Ibn Gabirol's life; for overviews, see: Loewe 1989, pp. 3–26; on the 1021/2 dating of his birth, see Bargebuhr 1976, p. 54; for defense of the later death date of 1070, see Loewe 1989, p. 23; see too: Sirat 1985, p. 68; Guttmann 1973, p. 101. For an informative journey through Ibn Gabirol's life as a poet and philosopher, read Peter Cole's “Andalusian Alphabet,” an abecedarium of the facts, figures and poetic flourishes of the great thinker; cf. “Solomon Ibn Gabirol: An Andalusian Alphabet,” Cole 2001, pp. 3–37. See too Schlanger 1968; Brunner 1965.

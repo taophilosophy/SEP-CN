@@ -586,8 +586,6 @@ The author would like to thank Benj Hellie, Steven French, Olivier Massin, two 
 
 ## Notes（原文脚注）
 
-## Notes to Determinables and Determinates
-
 [^note-1]: One might wonder if (as Johansson [2000] maintains) these relations also differ in that the genus/species relation applies to substances, whereas determination applies to properties. Against this line of thought one might maintain that if there is a distinction here, it isn’t deep, since the relata in both cases are (in the first instance) properties (*animal*, *rational animal*; *color*, *red*) instantiated in particulars (substances); nor do there appear to be in-principle barriers to taking determination to be a relation between objects, events, or other particulars (see §2.2).
 
 [^note-2]: See also Cook Wilson (1915), who prefigures this point.

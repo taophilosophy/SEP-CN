@@ -548,8 +548,6 @@ I thank Prof. Herbert A. Davidson (1932–2021), UCLA, for his thoroughly readin
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Rushd’s Natural Philosophy
-
 [^note-1]: The Italian Averroist Marco Antonio Zimara (1475–1535) observes a seeming contradiction between this idea of happiness and Averroes’ words elsewhere affirming that true happiness consists in “intuitive knowledge of God” (LC 464vº).
 
 [^note-2]: This follows the marginal note on LC 38D4 pointing out that another manuscript deletes the term ‘*non*’. Unfortunately, neither the MC nor the SC can help to solve the dilemma.

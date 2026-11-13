@@ -220,8 +220,6 @@ Carl Hoefer’s research for this entry was supported by his employer, ICREA (Pg
 
 ## Notes（原文脚注）
 
-## Notes to Absolute and Relational Space and Motion: Classical Theories
-
 [^note-1]: Descartes held that all other properties arise from the configurations and motions of such bodies — from geometric complexes. See Garber 1992 for a comprehensive study.
 
 [^note-2]: Descartes’ definition is complicated by the phrase ‘and considered as at rest’, something perhaps added to make it conform more closely to the pre-theoretical sense of ‘motion’; however, in our discussion transference is all that matters, so we will ignore those complications

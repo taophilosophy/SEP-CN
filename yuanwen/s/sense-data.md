@@ -376,8 +376,6 @@ I am indebted to an anonymous referee for many helpful queries and suggestions o
 
 ## Notes（原文脚注）
 
-## Notes to Sense Data
-
 [^note-1]: Broad (1923, 240) used instead the term “sensa” (singular “sensum”).
 
 [^note-2]: Firth (1949–50 [1976, 220]) suggests that, prior to Price, sense-data theorists agreed with Locke and Berkeley in positing flat or planar sense data (Firth has vision in mind). See Section 2.1.1 for an exception in Descartes. Note that, after Price, the assumption that sense data are two dimensional remained common.

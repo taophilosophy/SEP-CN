@@ -260,8 +260,6 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 ## Notes（原文脚注）
 
-## Notes to Philo of Alexandria
-
 [^note-1]: In this article we use this term with a very general meaning: rejection and/or hatred of the Jews.
 
 [^leopald-1896]: The edition of reference is that of Leopald Cohn, Paulus Wendland and Siegfried Reiter, *Philonis Alexandri opera quae supersunt*, Berlin 1896–1915. It contains all the treatises in Greek (six volumes plus an index volume).

@@ -274,8 +274,6 @@ The author thanks Scott Davison, Tim Mawson, and Kevin Timpe for helpful comment
 
 ## Notes（原文脚注）
 
-## Notes to Divine Freedom
-
 [^note-1]: This entry presumes neither that God exists, nor that God does not exist. We occasionally follow tradition by using masculine pronouns for God, but this is not meant to suggest that God has either a sex or a gender. This definition of theism, evidently, makes no such commitment.
 
 [^note-2]: Zagzebski (2004, Chapter 7) defends the rival position that God has no will, but for criticisms, see Leftow (2023).

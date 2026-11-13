@@ -189,8 +189,6 @@ Abner of Burgos | al-Ghazali | Aristotle | free will | Ibn Rushd [Averroes] | Ib
 
 ## Notes（原文脚注）
 
-## Notes to Isaac Polqar
-
 [^note-1]: For Polqar’s name in Hebrew and in foreign languages, see Jonathan Hecht 1993: 50, n.1. Hecht indicates that in MS Parma 2440, in which Polqar’s work, *Teshuvot Apikoros*, appears, his Hebrew name is written פולקר. See also Jacob Levinger, *ʿEzer ha-Dat* (1984: 9, especially n.1); Isador Loeb (1889: 18, p. 63, n. 2); Moritz Steinschneider (1931: v. 2, p. 2537). In *ʿEzer ha-Dat* Polqar’s name is written פלקאר. See *ʿEzer ha-Dat*: 98.
 
 [^note-2]: We cannot decisively determine where Polqar lived. Yitzhak Baer argues that Polqar resided in Burgos and “other Castilian cities”. See his *History of the Jews in Christian Spain*, v. 1, p. 331 [English]; *History of the Jews in Christian Spain*, p. 194 [Hebrew]. According to Graetz, Polqar lived in Avila. See H. Graetz 1894: 91.

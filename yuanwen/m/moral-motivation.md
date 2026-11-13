@@ -184,8 +184,6 @@ I want to thank Sarah Buss for helpful suggestions on an early draft of the orig
 
 ## Notes（原文脚注）
 
-## Notes to Moral Motivation
-
 [^note-1]: See Darwall (1983), pp. 51 ff. See also notes 8 and 10.
 
 [^note-2]: This way of explaining moral realism follows Geoffrey Sayre-McCord, “The Many Moral Realisms,” in *Essays on Moral Realism*, ed. Geoffrey Sayre-McCord. Ithaca: Cornell University Press, pp. 1-23.

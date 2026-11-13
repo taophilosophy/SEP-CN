@@ -277,8 +277,6 @@ For comments on previous drafts and presentations, we are very grateful to Wes W
 
 ## Notes（原文脚注）
 
-## Notes to Deductivism in the Philosophy of Mathematics
-
 [^note-1]: Notably, abstract algebra, which includes group theory, field theory, and so on, but also (to use a less widespread name) abstract analysis, which includes topology, the study of Banach spaces, Hilbert spaces, and so on.
 
 [^note-2]: Hellman and Shapiro (2019) is a survey of contemporary structuralism, building on its authors’ individual versions (Hellman 1989; Shapiro 1997)[^hellman-1989][^shapiro-1997].

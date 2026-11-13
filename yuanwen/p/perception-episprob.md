@@ -347,8 +347,6 @@ Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Jo
 
 ## Notes（原文脚注）
 
-## Notes to Epistemological Problems of Perception
-
 [^note-1]: The respective theories of *perception* (rather than of perceptual *experience*) will include an additional relatum, so that intentionalism will see perception as a three-place relation among perceiver, object, and inner representation of that object, adverbialism as a two-place relation between subject and object, etc.
 
 [^note-2]: There is a purely psychological sense of ‘evidence’ according to which one’s evidence is whatever one bases a belief on, even if that basis does nothing to justify the belief. ‘Evidence’ is used here in a normative sense, so that if *e* is evidence for *h*, then *e* confers at least some *prima facie* justification on *h*. Similarly with ‘ground’, ‘reason’ and the like; we sometimes say that a consideration may be *S*’s reason for doing/believing *x* but that it is not a reason to do/believe *x*. ‘*S*’s reason’ here uses ‘reason’ in the psychological sense, while ‘not a reason’ uses it in the normative sense.

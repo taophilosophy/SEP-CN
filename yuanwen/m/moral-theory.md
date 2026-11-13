@@ -223,8 +223,6 @@ consequentialism | ethics: deontological | ethics: virtue | morality, definition
 
 ## Notes（原文脚注）
 
-## Notes to Moral Theory
-
 [^note-1]: There is a more refined use of “Common-sense Ethics” associated with Thomas Reid who was responding the what he viewed as the moral skepticism espoused by David Hume.
 
 [^note-2]: See Sidgwick 1874 [1907] and Schneewind 1963.

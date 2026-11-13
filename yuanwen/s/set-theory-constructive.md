@@ -263,8 +263,6 @@ I thank Andrea Cantini, Michael Rathjen and Peter Schuster for valuable comments
 
 ## Notes（原文脚注）
 
-## Notes to Set Theory: Constructive and Intuitionistic ZF
-
 [^note-1]: Note that one could also choose to leave out foundation (and set-induction) altogether. One may then wish to add an axiom, called antifoundation, which allows for the formation of non-well-founded sets, also called hypersets (see Aczel 1988 or Barwise and Moss 1996)[^aczel-1988][^barwise-1996]. In fact, a constructive treatment of non-well-founded sets can be given which mirrors the classical one (see for example Rathjen 2004)[^rathjen-2004]. Further, by using a construction by Hällnas and Lindström of non-well-founded sets as limits of finite approximations (Lindström 1989)[^lindström-1989], one can see that in constructive contexts the antifoundation axiom comes as proof-theoretically “inexpensive” if compared with set induction (Rathjen 2003)[^rathjen-2003].
 
 [^note-2]: Inaccessible sets in CZF corresponds in ZFC to $V_k$ for $k$ a strongly inaccessible cardinal, where $V_k$ denotes the $k$-th level of the von Neumann hierarchy (Crosilla and Rathjen 2001)[^crosilla-2001].

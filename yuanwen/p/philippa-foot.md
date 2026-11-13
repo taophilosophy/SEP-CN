@@ -251,8 +251,6 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 ## Notes（原文脚注）
 
-## Notes to Philippa Foot
-
 [^note-1]: The arguments in “Moral Beliefs” have a noticeable affinity with Wittgenstein’s Private Language argument as well as his arguments about pain. See Wittgenstein 1953 [2009: §243–307].
 
 [^note-2]: For an extended discussion of Foot’s early views on the rationality of morality, see Lawrence 1995.

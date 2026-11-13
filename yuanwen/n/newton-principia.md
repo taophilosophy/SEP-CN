@@ -343,8 +343,6 @@ Descartes, René | Duhem, Pierre | Kant, Immanuel | Leibniz, Gottfried Wilhelm |
 
 ## Notes（原文脚注）
 
-## Notes to Newton’s *Philosophiae Naturalis Principia Mathematica*
-
 [^note-1]: From the first paragraph of Halley's anonymous review of the *Principia* in the *Transactions of the Royal Society*, No. 186 (January, February, March 1687), p. 291.
 
 [^note-2]: Unless otherwise noted, all quotations from the *Principia* are from the Cohen-Whitman translation. Because other translations and the original texts are available, the location of the quotations within the *Principia* will always be indicated in the text, usually in terms of the Book and Proposition. Changes to the Cohen-Whitman translation will be acknowledged in notes. One change has been made to the translation of the quoted passage: “explication” has been used instead of “explanation,” in keeping with Newton's choice of *explicationem* instead of *explanationem*. Indeed, no form of *explanare* occurs anywhere in any of the three editions of the *Principia*.

@@ -268,8 +268,6 @@ Boyle, Robert | demonstration: medieval theories of | Descartes, René | knowled
 
 ## Notes（原文脚注）
 
-## Notes to Locke’s Philosophy of Science
-
 [^note-1]: Throughout this section, I am indebted to the insightful discussions of Margaret Osler, “John Locke and the Changing Ideal of Scientific Knowledge” (1970), and Peter Dear, Chapter 1, *Discipline and Experience*.
 
 [^note-2]: See also Osler on this point: “Implicit in his claim that we possess scientific knowledge when ‘we know the cause on which the fact depends, as the cause of that fact and no other’ is the further claim that scientific knowledge comprises knowledge of the essential natures of things; for, without such knowledge, how could we know the ultimate causes of the facts in question?” (Osler 1970, p.4)[^osler-1970]

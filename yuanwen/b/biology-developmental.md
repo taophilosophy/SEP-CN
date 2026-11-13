@@ -327,8 +327,6 @@ Thanks to the many philosophical and scientific colleagues who have provided ext
 
 ## Notes（原文脚注）
 
-## Notes to Developmental Biology
-
 [^note-1]: Plant development is excluded here due to space constraints, but this also reflects a longstanding bias in how the phenomena of developmental biology are presented to students and novices.
 
 [^note-2]: Some multicellular animals do not have all three germ layers of tissue. For example, cnidarians, such as jellyfish and coral, lack mesoderm.

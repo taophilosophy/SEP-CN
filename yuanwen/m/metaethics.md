@@ -155,8 +155,6 @@ cognitivism vs. non-cognitivism, moral | free will | moral epistemology | moral 
 
 ## Notes（原文脚注）
 
-## Notes to Metaethics
-
 [^note-1]: Metaethical issues were central to both Hume and Kant, although they predictably disagreed; they also figured prominently in Plato’s defense of the value of justice and Aristotle’s argument that virtue and vice are in some way up to us. Two key issues are whether (and if so, in what sense) “ought” implies “can” and whether what is distinctive about moral agents is that their actions are under their control in a way the actions of other agents, say dogs and cats, are not. It is worth noting, though, that questions of freedom and responsibility are often thought of as more a matter of moral psychology or metaphysics, than metaethics. Nonetheless, to the extent these questions turn on what responsibility presupposes and whether those presuppositions are (for instance) compatible with determinism, one is squarely in metaethics.
 
 [^note-2]: See, for instance, A. J. Ayer’s *Language, Truth, and Logic*, and C.L. Stevenson’s “The Emotive Meaning of Ethical Terms”.

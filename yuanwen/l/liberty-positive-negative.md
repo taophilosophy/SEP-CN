@@ -160,8 +160,6 @@ abilities | action | autonomy: in moral and political philosophy | autonomy: per
 
 ## Notes（原文脚注）
 
-## Notes to Positive and Negative Liberty
-
 [^note-1]: ‘Two Concepts of Liberty’ was Berlin’s inaugural lecture as Chichele Professor of Political and Social Theory at Oxford University. Second and third editions were published in 1969 and 2002 respectively. For an account of the historical and philosophical background of this essay, see Ricciardi (2007). Berlin’s influences must certainly have included T. H. Green (1895) and Bernard Bosanquet (1899), who made explicit use of the distinction between positive and negative liberty and whose writings were widely studied in the Oxford of Berlin’s youth. Ricciardi also points out that the distinction is present in the work of Berlin’s Oxford contemporary John Plamenatz (1938), and that Guido de Ruggiero’s *Storia del liberalismo europeo* (1925), in which the distinction is examined at some length, was probably familiar to Berlin through its English translator, R. G. Collingwood. Another Italian discussion that predates Berlin’s is that of Norberto Bobbio (1955), but this work probably did not influence Berlin.
 
 [^note-2]: Berlin himself ascribes something like this view to St. Ambrose, Epictetus, and Kant, but more in reference to the isolation and independence of the wise or rational person than in reference to self-abnegation through the extinguishing of desires (1969, p. 136 n. 1).

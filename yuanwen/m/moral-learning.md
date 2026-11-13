@@ -340,8 +340,6 @@ experimental moral philosophy | moral/conventional distinction | normative cogni
 
 ## Notes（原文脚注）
 
-## Notes to Moral Learning
-
 [^note-1]: Large-scale failed replications of the original Hamlin et al. (2007) findings with 6- and 10-month-olds have cast doubt on strong interpretations of innateness and universality (Lucca et al. 2025)[^lucca-2025] but results from older infants are more robust (e.g. Woo et al. 2017)[^woo-2017]. Thus by at least the second year of life if not earlier, moral learning can begin in our earliest observations of interpersonal behavior.
 
 [^ayars-2020]: Ayars A., and S. Nichols, 2020, “Rational Learners and Metaethics: Universalism, Relativism, and Evidence from Consensus”, *Mind Lang*, 35: 67–89. doi:10.1111/mila.12232

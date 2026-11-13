@@ -281,8 +281,6 @@ quantum mechanics | quantum mechanics: Bohmian mechanics | quantum mechanics: th
 
 ## Notes（原文脚注）
 
-## Notes to Quantum Theory and Mathematical Rigor
-
 [^note-1]: The test functions could also be defined on a (paracompact) smooth manifold instead of $\mathbb{R}^{n}$ or on a complex vector space with $n$ dimensions $\mathbb{C}^{n}$. For simplicity, we are only going to consider nonempty fixed open subsets $\Omega \subset \mathbb{R}$, so our test functions will have only one variable. A multi index is used to handle multivariable functions, e.g., $f(x,y)$.
 
 [^note-2]: Another advantage is that integrating a function over a set that contains a compact set means that boundary terms will vanish. This is useful because it allows for ordinary functions to be distributions under certain conditions and integrals are well-defined.

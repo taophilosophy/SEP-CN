@@ -274,8 +274,6 @@ Lucy Holt, Maria Serban, Sune Holm, William Bechtel, Fridolin Gross, Mikkel W. J
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Systems and Synthetic Biology
-
 [^note-1]: Systems theory is the study of generic properties of complex systems through mathematical or formal representations. The aim to identify principles shared by a class of systems with a similar organization is also important to some modern systems biologists. For an analysis of the connection between systems theory and modern systems biology, see e.g. (Drack 2015; Drack & Wolkenhauer 2011; Green & Wolkenhauer 2013; Mekios 2016; Wolkenhauer & Mesarović 2005)[^drack-2015][^drack-2011][^green-2013][^mekios-2016][^wolkenhauer-2013][^wolkenhauer-2005].
 
 [^note-2]: They also emphasize the differences between bottom-up and top-down strategies. The former is commonly understood as model construction based on detailed experimental analysis, akin to strategies in molecular biology. In contrast, top-down strategies are often understood as pattern-detection and functional inference based on larger, but also coarser-grained, datasets (see also MacLeod & Nersessian 2013a,b, 2015)[^macleod-2013a].

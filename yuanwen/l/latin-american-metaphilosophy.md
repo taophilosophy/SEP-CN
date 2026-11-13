@@ -224,8 +224,6 @@ feminist philosophy, approaches: Latin American feminism | Latin American Philos
 
 ## Notes（原文脚注）
 
-## Notes to Latin American Philosophy: Metaphilosophical Foundations
-
 [^note-1]: Henceforth biographical information of this sort will be provided only for historical figures. For contemporary authors, for whom such information is often unavailable, it will be omitted.
 
 [^note-2]: His compatriot, philosopher of science Mario Bunge, shows a similar universalist position in his response to an interview question: “I don’t think that Latin America constitutes a distinct area of philosophy. Latin America is philosophically just as pluralistic as North America, Western Europe, India, or Japan” (Gilson 2006, p. 10)[^gilson-2006].

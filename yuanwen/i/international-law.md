@@ -314,8 +314,6 @@ We would like to thank Roger Crisp and Gopal Sreenivasan for their comments on a
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of International Law
-
 [^note-1]: The definition of peremptory norms of international law in Article 53 of the Vienna Convention is:
 
 > … a peremptory norm of general international law is a norm accepted and recognized by the international community of States as a whole as a norm from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character. (VCLT 1969: art. 53)[^vclt-1969]

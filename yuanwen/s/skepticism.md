@@ -290,8 +290,6 @@ As of the December 2019 update, Juan Comesaña has taken over responsibility for
 
 ## Notes（原文脚注）
 
-## Notes to Skepticism
-
 [^note-1]: That something is widely acknowledged to be true certainly does not mean that no philosopher has denied it. For a denial that propositional knowledge requires belief, see Radford 1966.
 
 [^note-2]: See the previous footnote.

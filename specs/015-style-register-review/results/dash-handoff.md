@@ -12,6 +12,10 @@
 
 **并行会话收编造成的审计噪声（2026-11-12/13，luxemburg）**：他会话会把本会话在途改动并入自己的混合提交（luxemburg 被 85b804909、8d666e62e 两次收编，提交信息皆「！」，禁 amend 无法追改）。此后 `mech_audit` 会为每个被改段落生成整段配对候选（本库一行即一整段），pure/conn/susp 数量随之放大。判读口径：**只看 `cur_lineno` 是否仍定位**——pure 未定位＝旧文本已被后续整句重译覆盖（luxemburg 7 处即此情形，无需再改）；pure 仍定位＝纯符号替换未消，必改（luxemburg L95 已由 accceb9cf 整句重译）；conn/susp 未定位可略，定位者回源判「保持」并写进 verdicts evidence。
 
+**工具加固（2026-11-13）**：`mech_audit.py` 增加「该行破折号数须有增减」过滤，剔除顿号化等全局标点提交造成的 pure 洪流（lakatos 曾虚高 68 条）；CLOSED 清单补入 leibniz-mind／lakatos／luxemburg。
+
+**有账本词条的回溯方法（lakatos／leibniz-mind 实战）**：`tasks/<letter>/<slug>.ledger.yaml` 的 `segments[].source` 是唯一可靠中英对齐源——不必再猜段落对应。流程：① `mech_audit` 取 located 候选；② 按「文档序 md 正文行 ↔ 段」或相似度把候选落到 seg id；③ 以 `source` 重译该句；④ **同步改 md 与该段 `step2`**（否则 compose 会回灌旧文；注意 step1 是历史草稿，不得改，替换须限定在 step2 块内）；⑤ 幂等脚本断言唯一命中。lakatos 据此重译 84 段/117 句（cc6bbb436、2e45226df、40d242126），leibniz-mind 重译 52 句（1b14b50dc），两者复扫均归零（leibniz-mind 余 1 处工具区链接，豁免）。**教训：前一版 lakatos“224 处整句重译”里约八成实为符号替换，被 mech_audit 抓到，已全部重做；凡自称“整句重译”者，必须过 mech_audit 的 located 检查才算数。**
+
 ## 续做队列（按 dash-scan 密度降序）
 
 lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：leibniz-evil（144 对，7.83/千字）**，其后 lorenzo-valla（116，7.82）→ karl-reinhold（98，7.68）→ ockham（156，7.65）→ duhem（98，7.60）→ 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。

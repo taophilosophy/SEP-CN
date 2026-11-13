@@ -247,8 +247,6 @@ I would like to thank Aaron Garrett, Aminah Hasan-Birdwell, Julia Jorati, Johan 
 
 ## Notes（原文脚注）
 
-## Notes to Ottobah Cugoano
-
 [^note-1]: Two editions of this, Cugoano 1787 and Cugoano 1791, were published. The significance of their differences is discussed in section 1.3 below. Both editions can be found in Cugoano [TAS]: the first edition is pp. 1–112 and the second is pp. 113–150.
 
 [^note-2]: The term ‘Atlantic slavery’ is used throughout, to contrast the 18ᵗʰ century form of racialized chattel slavery with other forms. Cugoano calls it “the West-India slavery” (35), but although he focuses on the West Indies because he is writing for a British audience, he recognizes that essentially the same form of slavery was present in the new United States and the Spanish colonies (10).

@@ -377,8 +377,6 @@ Frege, Gottlob: theorem and foundations for arithmetic | logic: modal | logic: s
 
 ## Notes（原文脚注）
 
-## Notes to Propositional Function
-
 [^note-1]: Here is Church’s inductive definition of the ramified hierarchy
 
 1. $i$ is a type;

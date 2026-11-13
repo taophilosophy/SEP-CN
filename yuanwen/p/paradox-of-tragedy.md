@@ -278,8 +278,6 @@ aesthetic experience | aesthetics: and cognitive science | emotion | fiction: em
 
 ## Notes（原文脚注）
 
-## Notes to Paradox of Tragedy
-
 [^note-1]: Rozin and his colleagues cite numerous domains in which such “Hedonic reversals” occur, from the oral irritation stemming from eating hot peppers, to fear and sadness. They identify a common 2-stage process: an initial activation of negative and positive inputs, and an enjoyment of that co-activation, identifying that second stage, which is based on a “distance” from the stimulus, as exemplifying “benign masochism”.
 
 [^andrade-2007]: Andrade, Eduardo B. and Joel B. Cohen, 2007, “On the Consumption of Negative Feelings”, *Journal of Consumer Research*, 34(3): 283–300. doi:10.1086/519498

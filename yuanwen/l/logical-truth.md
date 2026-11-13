@@ -202,8 +202,6 @@ I thank Axel Barceló, Bill Hanson, Ignacio Jané, John MacFarlane and Edward N.
 
 ## Notes（原文脚注）
 
-## Notes to Logical Truth
-
 [^note-1]: A common view is that logic is fundamentally concerned with characterizing (and giving us practical means to tell apart) a peculiar set of truth-preserving arguments, the arguments in which the conclusion is a logical consequence of the premises. On most views, in cases of logical consequence the conclusion follows with a special modal force from the premises (in some sense of “could”, the conclusion could not be false if the premises are true); and the conclusion follows “formally” from the premises, at least in the sense that all arguments which are replacement instances of the argument’s form are cases of logical consequence too (where the notion of the form of an argument is understood in the obvious way in terms of the notion of the form of a sentence). The following English arguments are standardly taken as paradigmatic examples of logical consequence:
 
 - (1+) Death is bad only if life is good. Death is bad. So life is good.

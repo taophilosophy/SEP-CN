@@ -153,8 +153,6 @@ Chinese Philosophy: ethics | Chinese Philosophy: Song-Ming Confucianism | Confuc
 
 ## Notes（原文脚注）
 
-## Notes to Wang Yangming
-
 [^note-1]: Among the best sources for Wang’s life are the *Nianpu,* written by Wang’s disciple Qian Dehong (1496–1574), found in the *Wang Wencheng Gong Quanshu,* and the *Wang Wencheng Chuanben,* by Mao Qiling (1623–1716). Useful English–language accounts may be found in Chan 1963, Chang 1939, and Tu 1976.
 
 [^note-2]: “This mind” is an expression taken from *Mengzi* 1A7. Neo–Confucians use the term to refer to our innate moral sense. Consequently, Wang’s dying words were not bragging about the quality of his own individual mind, but rather were a call for everyone to recognize the capacity they have within them.

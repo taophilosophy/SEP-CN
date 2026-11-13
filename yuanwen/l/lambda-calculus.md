@@ -630,8 +630,6 @@ The second author would like to acknowledge the useful comments and suggestions 
 
 ## Notes（原文脚注）
 
-## Notes to The Lambda Calculus
-
 [^note-1]: When laying out the early principles of $\lambda$-calculus, Church restricted $\beta$-reduction to only those cases where variable capture does not occur. As an illustration of the kinds of difficulties that can arise if one is too casual about free and bound variables, one can formulate a sequent calculus for first-order logic where cut elimination fails if one views first-order formulas as concrete objects rather than as an equivalence class of $\alpha$-convertible formulas.
 
 [^note-2]: Other definitions of substitution are available. One can, for example, modify clause (5) by requiring that all free occurrences of $y$ in $M$ are rewritten so that they do not become bound after substitution. In this way the variable capture that we are trying to avoid is built in to the definition of substitution and thereby does not need to be laid down as a separate convention.

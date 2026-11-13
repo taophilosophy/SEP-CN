@@ -458,8 +458,6 @@ contextualism, epistemic | epistemic closure | epistemology: naturalism in | epi
 
 ## Notes（原文脚注）
 
-## Notes to Epistemology
-
 [^note-1]: Both the antiquity of the field and the novelty of the term are clearly documented Woleński 2004.
 
 [^note-2]: See Moss 2015 and Hedden 2015a and 2015b for defenses of “time-slice epistemology”.

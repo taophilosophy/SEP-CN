@@ -385,8 +385,6 @@ The authors would like to thank to Nathan Wildman, Peter Montecuollo, Clark Sext
 
 ## Notes（原文脚注）
 
-## Notes to Essential vs. Accidental Properties
-
 [^note-1]: As for abstract objects, textual evidence strongly suggests that what Zalta attempts to characterize is their whatness essence rather than their modal essence. He holds that abstract objects have two ways of having properties—exemplifying and encoding. Exemplifying is the usual way of having a property. Both ordinary and abstract objects exemplify properties. But abstract objects alone encode properties. To say that an abstract object encodes a property is to say that the property is included in our conception of the object. Consider the fictional character Sherlock Holmes. Holmes exemplifies such properties as being a fictional character and having been portrayed by Jeremy Brett and Benedict Cumberbatch. Holmes encodes such properties as being a detective and playing the violin. These encoded properties are ones that Holmes does not exemplify, since an abstract object cannot be a detective or play the violin. Now that the exemplifying/encoding distinction has been clarified, we can back up our initial claim. Zalta’s view is that the properties that are essential to an abstract object are those that it encodes (2006, p. 687). The textual evidence that this claim targets whatness essence rather than modal essence includes the following passages:
 
 > Clearly we do not want to identify not being a detective as one of Holmes’s essential properties, and this shows that encoded properties are more closely connected with the identity of Holmes than are the properties he exemplifies necessarily. (2006, p. 686)

@@ -856,8 +856,6 @@ Austin, John Langshaw | belief | convention | definitions | evidence | Frege, Go
 
 ## Notes（原文脚注）
 
-## Notes to Assertion
-
 [^note-1]: The article only concerns assertion with respect to its speech act properties. The topic of the *content* of assertions is too large to be covered here. A few other more general topics have also been left out. However, an earlier version of this entry was organized around the relations of assertion to other topics, including truth and logic, and contained, e.g., discussions of conditional and hypothetical assertions. The earlier version is available at [https://plato.stanford.edu/archives/sum2007/entries/assertion/](https://plato.stanford.edu/archives/sum2007/entries/assertion/).
 
 [^note-2]: For a discussion of Peirce’s account of force, see Brock (1981) and Bellucci (2019). Anticipations of a theory of force can also be found in the phenomenological tradition. For a historical overview, see B. Smith (1990). The development of systematic speech act theory, in the 1950s, connected mainly back to Frege.

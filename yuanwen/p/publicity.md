@@ -354,8 +354,6 @@ The update published on August 4, 2017 contains new Section 3, written by T. Par
 
 ## Notes（原文脚注）
 
-## Notes to Publicity
-
 [^note-1]: See the citation for Kant 1795 in the Bibliography for a link to an online translation of *Perpetual Peace*. Here is a link to a translation of Appendix II, where one can look for the statement of the publicity test: [Of the Harmony Which the Transcendental Concept of Public Right Establishes Between Morality and Politics](http://www.constitution.org/kant/append2.htm). See also Davis 1991, 1992; Luban 1996.
 
 [^note-2]: Kant writes

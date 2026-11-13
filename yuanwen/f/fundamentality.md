@@ -257,8 +257,6 @@ The author would like to thank Umut Baysan, Karen Bennett, Einar Bohn, Christina
 
 ## Notes（原文脚注）
 
-## Notes to Fundamentality
-
 [^note-1]: This issue is covered in the separate entry on metaphysical grounding; see section 3 on the logical form of grounding statements.
 
 [^note-2]: For details of Aristotle’s view, see Corkum 2013. For a contemporary take, see, e.g., Nolan 2011 and Paul 2013. See also the articles in Tahko 2012 and the separate entry on categories. There have been many attempts to define the category of *substance* in terms of ontological independence. For discussion, see Lowe 1998; Correia 2005; Schnieder 2006, and the separate entry on substance.

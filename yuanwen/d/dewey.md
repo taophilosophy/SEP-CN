@@ -501,8 +501,6 @@ Addams, Jane | aesthetics of the everyday | associationist theories of thought |
 
 ## Notes（原文脚注）
 
-## Notes to John Dewey
-
 [^note-1]: On Dewey’s reaction to Peirce’s classes, see Dykhuizen 1973: 30–31.
 
 [^note-2]: “To biology is due the conception of organism”, Dewey wrote. In his view, it was leading psychology to recognize

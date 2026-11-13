@@ -479,8 +479,6 @@ Brentano, Franz | categories | epistemology | epistemology: naturalism in | even
 
 ## Notes（原文脚注）
 
-## Notes to Roderick Chisholm
-
 [^note-1]: In earlier writings, Chisholm had toyed with the idea that each person might be a tiny material object. See, for example, Chisholm 1978.
 
 [^note-2]: An even more liberal metaphysician might want to add further categories such as (9) points, lines, boundaries, and other such geometrical entities; (10) numbers; (11) ideas; (12) possible worlds; (13) sense data. Chisholm discussed many of these suggestions in his later works in ontology. He had rejected sense data in favor of the adverbial theory of perception early in his career, though later he abandoned the adverbial theory. He also proposed to explain away sets by appeal to attributes.

@@ -334,8 +334,6 @@ Aquinas, Thomas | Christian theology, philosophy and | faith | hiddenness of God
 
 ## Notes（原文脚注）
 
-## Notes to Divine Revelation
-
 [^note-1]: There is a minority report, however, according to which revelation is not an epistemic notion. Ricoeur, for example, holds that “in none of its modalities may revelation be included in and dominated by knowledge” (1980: 93).
 
 [^note-2]: For a recent Islamic analytic-philosophical analysis of revelation, see Adeel 2019: 30–35. For overviews of revelation in different religious traditions, see Mezei, Murphy, & Oakes (eds.) 2021, Part IV.

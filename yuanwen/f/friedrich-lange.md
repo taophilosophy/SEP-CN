@@ -300,8 +300,6 @@ The second author also expresses a debt to Frederick Beiser, who sent a box of b
 
 ## Notes（原文脚注）
 
-## Notes to Friedrich Albert Lange
-
 [^note-1]: During his university years and later, Lange was very interested in gymnastics. He participated in tournaments, ran various organizations, and wrote about gymnastics. It should be emphasized that gymnastics in the German nineteenth-century context cannot be thought of merely as a hobby. Gymnastics organizations, indeed one can say the gymnastics movement as a whole, were part of an emphasis on physical fitness that was seen as going hand-in-hand with military preparedness in the face of French expansionism. It was part of a growing sense of nationalism and an unwillingness on the part of the growing middle classes to settle for the German Confederation created by the Congress of Vienna.
 
 [^note-2]: A Privatdozent is not part of the salaried staff of the University and is paid by student fees.

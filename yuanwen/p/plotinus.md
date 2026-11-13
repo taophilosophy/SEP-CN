@@ -165,8 +165,6 @@ Aristotle, commentators on | Cambridge Platonists | Ficino, Marsilio | Iamblichu
 
 ## Notes（原文脚注）
 
-## Notes to Plotinus
-
 [^note-1]: In what follows, and unless otherwise indicated, references are to Plotinus’ *Enneads* following the standard way of citation: the first two numbers indicate the *Ennead* and the specific treatise within it, the next the chapter according to Ficino’s numbering, and the last the lines in Henry and Schwyzer’s Oxford edition. *VP* refers to Porphyry’s *Life of Plotinus*.
 
 [^plotinus’-1964]: The standard critical edition of Plotinus’ works is: *Plotini Opera*, 3 volumes, Greek text edited by Paul Henry and Hans-Rudolf Schwyzer, Oxford 1964–82 (*editio minor*). The *editio maior* (Bruxelles & Paris: L’Édition Universelle & Desclée de Brouwer 1951–73) provides a full account of the primary manuscript readings.

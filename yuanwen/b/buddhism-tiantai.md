@@ -353,8 +353,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: metaphysics | Madhyamaka 
 
 ## Notes（原文脚注）
 
-## Notes to Tiantai Buddhism
-
 [^note-1]: Literally “self-enlighteners”—those who attain enlightenment on their own, without a teacher, and never preach it to others: lone and unknown enlightened ones. The term is also interpreted in East Asia to mean “enlightened through contemplation of conditionality.” Pratyekabuddhas and Sravakas are collectively known as “the Two Vehicles,” or the “Hinayana.”
 
 [^note-2]: Literally “voice-hearers,” disciples of a Buddha who attain Arhatship, extinction from the world of birth and death, through the Four Noble Truths.

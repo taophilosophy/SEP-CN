@@ -559,8 +559,6 @@ The author wishes to express his deep gratitude to Phillip Bricker and Max Cress
 
 ## Notes（原文脚注）
 
-## Notes to Possible Worlds
-
 [^note-1]: For important applications of possible worlds, see the SEP entries on supervenience, rigid designators, two-dimensional semantics, conditionals, the logic of belief revision, common knowledge, and belief. A particularly illustrative possible worlds analysis of the concept of prudence is found in Bricker 1980.
 
 [^note-2]: A logic is often (quite legitimately) defined more generally to be a language together with *either* a semantic theory or some sort of deductive apparatus, as in the definition found in the *Encyclopedia* entry on classical logic. However, as the distinction between extensional and intensional logics drawn here is a purely semantic one, it is convenient for our purposes to use the more limited, semantically-oriented definition.

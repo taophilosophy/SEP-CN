@@ -197,8 +197,6 @@ Addams, Jane | Dewey, John | feminist philosophy, approaches: intersections betw
 
 ## Notes（原文脚注）
 
-## Notes to Pragmatist Feminism
-
 [^note-1]: Early in her career, Jane Addams rejected the possibility that a solution to a social issue could be developed by one group of people and applied to another.
 
 > We have learned to say that the good must be extended to all of society before it can be held secure by one person or one class; but we have not yet learned to add the statement that unless all men and classes contribute to that good, we cannot even be sure that it is worth having. (1902 [2002]: 97)

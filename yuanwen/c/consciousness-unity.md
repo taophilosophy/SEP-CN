@@ -354,8 +354,6 @@ As of the 2025 revision, Farid Masrour has taken over responsibility for updatin
 
 ## Notes（原文脚注）
 
-## Notes to The Unity of Consciousness
-
 [^note-1]: Unity of consciousness is also an important topic in Buddhist philosophy. This entry does not cover Buddhist discussions of unity.
 
 [^note-2]: Arguments of this form can be found in P. F. Strawson (1966), Cassam (1996), Hurley (1994, 1998) and Revonsuo (2003). For critical assessment see Brook (2005).

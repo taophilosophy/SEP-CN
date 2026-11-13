@@ -149,8 +149,6 @@ This essay has benefited greatly from comments from Alejandra Mancilla, Joanna P
 
 ## Notes（原文脚注）
 
-## Notes to Redistribution
-
 [^note-1]: Even if a term is understood as purely descriptive, it may still be the case that it usually, or always, goes along with a positive or negative moral assessment. That a term is purely descriptive means only that one can decide whether or not it applies without recourse to evaluative judgments. On the other hand, even if a term does not have an evaluative component, its correct application may not be decisive for moral assessment. For example, that an act constitutes treachery, murder, or cruelty counts as a reason against it, but this reason may not always be decisive.
 
 [^note-2]: It should be emphasized that a mere shift in patterns of holdings is not typically taken to involve redistribution. No one would say that an epidemic in China simultaneous with good weather in North America caused a redistribution of income between these two places in the 10th century.

@@ -383,8 +383,6 @@ Bell’s Theorem | quantum mechanics | quantum mechanics: Kochen-Specker theorem
 
 ## Notes（原文脚注）
 
-## Notes to Quantum Logic and Probability Theory
-
 [^note-1]: A few qualifications are in order already: In a more general formulation, one considers the lattice of projections of a von Neumann algebra. Only in the context of non-relativistic quantum mechanics, and then only absent superselection rules, is this algebra a type I factor. For the expository purposes of this paper, we restrict our discussion to this context.
 
 [^note-2]: Throughout this paper, I use the term “logic” rather narrowly to refer to the algebraic and order-theoretic aspect of propositional logic. There exists a substantial technical literature devoted to non-classical formal deductive systems that are intended to stand to quantum propositional logics rather as classical deductive systems stand to Boolean algebras. A good reference for this material is Kalmbach 1983.

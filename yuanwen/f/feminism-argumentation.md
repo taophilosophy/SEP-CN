@@ -327,8 +327,6 @@ Aristotle, General Topics: rhetoric | bias, implicit | consequentialism | critic
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Perspectives on Argumentation
-
 [^note-1]: I use the term “Euro-American” in regard to philosophy instead of “Western” which is a vestige of the Cold War or even the more contemporary “Northern” which addresses economic relationships. Noting the origin of philosophical traditions in Europe and their growth in the Americas (perhaps especially North America or even just Canada and the US) is maximally specific and descriptively accurate while it also distinguishes these traditions from the Indigenous philosophies of the Americas. Occasionally, I use the term “Western” when the concern is with modern industrialized democracies because it’s the best term available for that, *pace* Australia, New Zealand, and others.
 
 [^note-2]: Feminine associations of rhetoric come from its connection with narrative, persuasion, and emotion and its contrast with logic.

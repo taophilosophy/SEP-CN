@@ -303,8 +303,6 @@ Heraclitus | Plato | Plato: method and metaphysics in the *Sophist* and *Statesm
 
 ## Notes（原文脚注）
 
-## Notes to Plato’s *Cratylus*
-
 [^note-1]: For the translations in this entry, see Ademollo 2011.
 
 [^note-2]: Some commentators believe that when Socrates ascribes a stable nature to actions, he indicates that we need to meet a certain objective standard to perform any given action *well* (see, e.g., Sedley 2003: 56–58)[^sedley-2003]. It is clear, however, that this is a misinterpretation of the text (Ademollo 2011: 98)[^ademollo-2011]. For while Socrates does indeed say that we will, e.g., cut *correctly* if we use the right tool in the right way, the alternative he envisages is that we do not cut at all “and get nothing done”, not that we cut incorrectly or badly (see also 387c–d).

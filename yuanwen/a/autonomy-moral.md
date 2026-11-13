@@ -209,8 +209,6 @@ autonomy: personal | communitarianism | feminist philosophy, topics: perspective
 
 ## Notes（原文脚注）
 
-## Notes to Autonomy in Moral and Political Philosophy
-
 [^note-1]: Frankfurt’s view is not explicitly an account of autonomy, but rather of freedom of the will. Nevertheless, the account has been absorbed into the literature on autonomy as a model of that notion (Frankfurt, 1987). See also Susan Wolf (1990), whose account of freedom has been taken by writers on autonomy to be relevant to accounts of that idea; this is despite her explicit claim that what she is modeling is not the concept of autonomy.
 
 [^note-2]: Partially in response to objections of this sort, Dworkin revised his view to exclude an explicit requirement of identification. For Dworkin, autonomy involves (among other things) *the capacity to raise the question* of whether one identifies with the desires in question (Dworkin 1988, 15)[^dworkin-1988].

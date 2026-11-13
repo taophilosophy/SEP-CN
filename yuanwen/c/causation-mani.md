@@ -263,8 +263,6 @@ causal models | causation: counterfactual theories of | causation: probabilistic
 
 ## Notes（原文脚注）
 
-## Notes to Causation and Manipulability
-
 [^note-1]: As Pearl readily acknowledges, his work draws on a long tradition in econometrics of interpreting equations that express causal claims as claims about the outcomes of hypothetical experiments—see, e.g., Haavelmo 1944.
 
 [^note-2]: A simple illustration is the use of the Dirac delta function to describe a point impulse communicated to a physical system. This “function” presumably does not describe any real physical possibility but it is mathematically well-behaved when described by the theory of distributions and one can use it to formulate sensible counterfactual claims about what would happen to a system if such an impulsive force were applied—indeed this is a common practice in physics.

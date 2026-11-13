@@ -218,8 +218,6 @@ culture | ethics: virtue
 
 ## Notes（原文脚注）
 
-## Notes to Sikh Philosophy
-
 [^note-1]: This seems to be implicit in the work of the first generation of modern Sikh philosophers who attempted to articulate the universal aspects of Sikh thought. The latter notion is reflected in the assumption held by contemporary Sikh thinkers that ‘Sikh philosophy’ can be equated with the intentions of Guru Nanak and his successors, which were codified as Gurbani (li. the utterances of the Guru). While this notion may have a certain appeal, it is also problematic for two reasons. First, it assumes that the category of ‘philosophy’ is trans-historical and trans-cultural. Second, it assumes that the categories of ‘*gurmat*’ and ‘philosophy’ are grounded on rationality and therefore basically equivalent and seamlessly translatable. This view is strongly opposed by many Sikh thinkers and practitioners who consider *gurbani* as *dhur ki bani* (loosely translatable as ‘revealed’) and irreducible to ‘philosophy’ which is a second order activity of mind. Accordingly, Sikh philosophy is also a second order activity reliant on *gurbani* as the primary inspiration for its thinking.
 
 [^note-2]: See Mahankosh (p. 945) where Kahn Singh Nabha traces the etymology of *gurmat(i)* as follows:

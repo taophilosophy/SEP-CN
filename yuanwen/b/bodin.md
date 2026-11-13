@@ -229,8 +229,6 @@ The editors would like to thank James Blakeley for his efforts in translating th
 
 ## Notes（原文脚注）
 
-## Notes to Jean Bodin
-
 [^note-1]: Here, and in all subsequent occurrences, “[trans. by the author]” serves to indicate that the relevant passage was originally translated from Latin into French by Mario Turchetti and was subsequently translated from French into English by the translator of this entry, James Blakeley.
 
 [^note-2]: An allusion to the anonymous work, *Du droit des Magistrats sur leurs sujets. Traité très nécessaire en ce temps pour advertir de leur devoir tant les magistrats que tous les sujets* [Genève], 1574. The work was attributed to Théodore de Bèze three centuries later.

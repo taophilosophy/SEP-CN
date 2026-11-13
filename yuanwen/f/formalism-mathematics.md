@@ -383,8 +383,6 @@ Many thanks to John L. Bell, Richard Lawrence and the editors of the Stanford En
 
 ## Notes（原文脚注）
 
-## Notes to Formalism in the Philosophy of Mathematics
-
 [^note-1]: Translations from Thomae, 1898 are from Lawrence, 2023.
 
 [^note-2]: Translations from Frege (1903) are from the historically important Black and Geach translation of parts of the *Grundgesetze* in the third edition of Black and Geach 1980. But compare also the relevant passages in Philip Ebert and Marcus Rossberg’s monumental translation of the *Grundgesetze*, Frege, 1903/2013.

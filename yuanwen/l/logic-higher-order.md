@@ -677,8 +677,6 @@ category theory | computability and complexity | mathematics: constructive | plu
 
 ## Notes（原文脚注）
 
-## Notes to Second-order and Higher-order Logic
-
 [^note-1]: Classical sources for second-order logic are Hilbert & Ackermann (1938) and Church (1956).
 
 [^note-2]: Suppose a formula $\phi$ is logically equivalent to both $\exists X_1\ldots \exists X_n\,\phi_1$ and $\forall Y_1\ldots \forall Y_m\phi_2,$ where $\phi_1$ and $\phi_2$ are first order. W.l.o.g.

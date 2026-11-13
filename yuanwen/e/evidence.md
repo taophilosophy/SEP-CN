@@ -256,8 +256,6 @@ For help in the preparation of this entry, I am grateful to Richard Feldman, Gil
 
 ## Notes（原文脚注）
 
-## Notes to Evidence
-
 [^note-1]: On historical evidence, cf. Collingwood: ‘Everything is evidence which the historian can use as evidence. But what can he so use? It must be something here and now perceptible to him: this written page, this spoken utterance, this building, this finger-print …’ (1956: 247).
 
 [^note-2]: See, among many similar declarations, Quine (1968: 75): ‘The stimulation of his sensory receptors is all the evidence anybody has to go on, ultimately, in arriving at his picture of the world’.

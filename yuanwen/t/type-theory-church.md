@@ -646,8 +646,6 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 
 ## Notes（原文脚注）
 
-## Notes to Church’s Type Theory
-
 [^note-1]: They, e.g., do not entail the saturation and reflexivity properties given below.
 
 [^note-2]: The calculus in Kohlhase 1998 is technically still flawed; e.g., to guarantee soundness Skolemization must be used in rule $\textit{SIM}(\textit{fun})$.

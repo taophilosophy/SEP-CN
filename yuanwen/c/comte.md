@@ -224,8 +224,6 @@ Many thanks to Mark van Atten for the English translation, and to Béatrice Fink
 
 ## Notes（原文脚注）
 
-## Notes to Auguste Comte
-
 [^note-1]: When possible, the quotations are from the translations made by English positivists in the 19th century. Page reference is given first to the French text, and, in the case of the *Course of Positive Philosophy*, the number of the lesson is given too; then follows the reference to the English translation. For instance (1830 (56), v. 2, 466; E., v. 2, 522 ) refers to the passage of the 56th lesson which is in the second volume of the french edition, p. 466, the translation of which is in the second volume of the english edition, p. 522. The same conventions are used for all Comte’s works.
 
 [^note-2]: Comte uses “material” in a wide sense, refering to temporal power, in contradistinction to spiritual power. Furthermore, he uses here a term which is difficult to translate: “légiste”; today, “lawyer” means rather “avocat”. As a matter of fact, kings used those *légistes* in order to enlarge their power against medieval aristocraty; such was for instance Leibniz’s function at the Hannover Court.

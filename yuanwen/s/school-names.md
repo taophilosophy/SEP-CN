@@ -339,8 +339,6 @@ Chinese Philosophy: epistemology | Chinese Philosophy: metaphysics | Chinese Phi
 
 ## Notes（原文脚注）
 
-## Notes to School of Names
-
 [^note-1]: According to the *Han History*, Cheng-gong Sheng was the author of five scrolls (*pian*) of writings, presumably focusing on names. Liu Xiang (79–8 B.C.) thought that he lived at the same as the son of Li Si, prime minister to the Qin emperor. His contemporary Huang Gong, who wrote four scrolls, was a scholar of Qin known for his songwriting. Mao Gong, author of nine scrolls, was from the state of Zhao and served with Gongsun Long as a retainer to the Lord of Pingyuan. Of Huan Tuan nothing is known. None of the writings of these men have survived.
 
 [^note-2]: On the similarities and dissimilarities between the School of Names and the sophists, see Reding (1985) and Graham (1989).

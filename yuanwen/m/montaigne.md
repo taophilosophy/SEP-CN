@@ -119,8 +119,6 @@ civic humanism | Descartes, René | humanism: in the Renaissance | liberty: posi
 
 ## Notes（原文脚注）
 
-## Notes to Michel de Montaigne
-
 [^note-1]: Michel de Montaigne, *Les Essais*, published according to the “Exemplaire de Bordeaux” by Fortunat Strowski, Bordeaux 1906 and 1909; Georg Olms, Hildesheim/ New York, 1981.
 
 [^note-2]: II 37 F 696 “but only to vary, not to delete”; VS 758c “pour diversifier, non pour ôter”. The first reference, to the English text, is taken from Michel de Montaigne, *The Complete Works. Essays, Travel Journal, Letters*, translated by Donald M. Frame (noted F in the entry) Leland Stanford Junior University, 1948, renewed 1971 & 1976, Stanford University. The second reference, in French, is the edition by Pierre Villey, 1924, reedited by Victor-Louis Saulnier, Paris, Presses Universitaires de France, 1965 (noted VS in the entry).

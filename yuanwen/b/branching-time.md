@@ -561,8 +561,6 @@ We are grateful to an anonymous reviewer and to Giacomo Andreoletti, Fabrizio Ca
 
 ## Notes（原文脚注）
 
-## Notes to Branching Time
-
 [^note-1]: Given that, in BT representations, branching affects histories and not time, the expression “branching time” can be misleading. Still, it is part of the established terminology and we shall stick to it in this entry.
 
 [^note-2]: Various meanings are attributed to the word “tree” in different disciplines, often clarified by adjectives. At this stage, we prefer to resort to an intuitive characterization of the notion of tree that is relevant here. See below, in this section and §2.1, for formal definitions.

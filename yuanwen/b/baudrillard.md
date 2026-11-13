@@ -268,8 +268,6 @@ For critical commentary that helped with the revision of this entry, I am gratef
 
 ## Notes（原文脚注）
 
-## Notes to Jean Baudrillard
-
 [^note-1]: Other books on Baudrillard include Frankovits 1984; Gane 1991, 1992, and 1993; Stearns and Chaloupka 1992; Rojek and Turner 1993; Genosko 1994; and Butler 1999; Gane 2000; Grace 2000; Clarke, Doel, Merrin, and Smith (eds) 2009; Woodward 2009; Bishop (ed.) 2009.
 
 [^note-2]: The year in parentheses here refers to the English translation of his work. By now, most of Baudrillard has been translated into English; see the bibliographies in Kellner 1989a and Butler 1999 for more detailed listing of his works than the bibliography above that cites his major works. A detailed online bibliography can be found in the Jean Baudrillard Bibliography in the Other Internet Resources section.

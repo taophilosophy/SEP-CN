@@ -172,8 +172,6 @@ Benjamin, Walter | Lukács, Georg [György]
 
 ## Notes（原文脚注）
 
-## Notes to Ernst Bloch
-
 [^note-1]: The introductions to Bloch’s thought are Geoghegan 1996; Holz 1975; Hudson 1982; Münster 1982; Schmidt 1985.
 
 [^note-2]: “Primarily, everybody lives in the future, because they strive, past things only come later, and as yet genuine present is almost never there at all” (Bloch 1954-59 [1986a: 4]).

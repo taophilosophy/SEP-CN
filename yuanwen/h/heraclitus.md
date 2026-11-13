@@ -229,8 +229,6 @@ contradiction | Parmenides | Presocratic Philosophy | process philosophy | Pytha
 
 ## Notes（原文脚注）
 
-## Notes to Heraclitus
-
 [^note-1]: . The B prefix comes from the standard collection of the Presocratics edited by Hermann Diels and revised by Walther Kranz (*Die Fragmente der Vorsokratiker*), 6th edition, 1951.
 
 [^note-2]: . Recently Mouraviev, following some earlier editors, has added to the one sentence of B12 the sentence that follows it in its context in Eusebius: “And souls too are nourished by moist exhalations [*anathumiôntai*].” This would limit the application of the statement about rivers to psychology. But there are problems with this attribution, most notably that the term *anathumiaô* and its cognates are not attested until Aristotle, and are not the kind of words we find Heraclitus using. Further, other sources such as Plutarch (*Natural Questions* 912a) seem to take the first sentence as belonging to a cosmological context. And if the sentence were found in an explicitly psychological context, the verbal complexities would be pointless.

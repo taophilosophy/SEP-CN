@@ -111,8 +111,6 @@ The author would like to thank Hilary Putnam, Helen Regan, Angela Rosier and Edw
 
 ## Notes（原文脚注）
 
-## Notes to Indispensability Arguments in the Philosophy of Mathematics
-
 [^note-1]: Indeed, see Putnam (2012) for an explicit rejection of key elements of the argument as presented here. Still, the argument presented here is influential in the contemporary literature. (Think of the attribution to Quine and Putnam as an acknowledgement of intellectual debts rather than an indication that the argument, as presented, would be endorsed in every detail by either Quine or Putnam.)
 
 [^note-2]: Most scientific realists accept inference to the best explanation. Indeed, it might be said that inference to the best explanation is the cornerstone of scientific realism. But, as already noted, inference to the best explanation may be seen as a kind of indispensability argument, so any realist who accepts the former while rejecting the latter is in a somewhat delicate position.

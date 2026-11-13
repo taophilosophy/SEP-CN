@@ -505,8 +505,6 @@ Thanks to Sebastian Ebert, Ulrike Hahn, Ralph Hertwig, Konstantinos Katsikopoulo
 
 ## Notes（原文脚注）
 
-## Notes to Bounded Rationality
-
 [^note-1]: For compound prospects with an uncountable number of consequences, the Archimedean condition is replaced by a **continuity** condition, which maintains that $\forall p \in P$ are closed in the topology of weak convergence.
 
 [^akerlof-1970]: Akerlof, George A., 1970, “The Market for ‘Lemons’: Quality, Uncertainty and the Market Mechanism”, *The Quarterly Journal of Economics*, 84(3): 488–500.

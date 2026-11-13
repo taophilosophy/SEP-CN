@@ -131,8 +131,6 @@ defaults in semantics and pragmatics | game theory | Grice, Paul | implicature |
 
 ## Notes（原文脚注）
 
-## Notes to Optimality-Theoretic and Game-Theoretic Approaches to Implicature
-
 [^note-1]: This assumption is controversial. Those who don’t accept this assumption should think of other examples where the semantic meanings of the alternative expressions form a linear chain with respect to inference. The scale $\langle \text{and, or} \rangle$ would do equally well, just as $\langle \text{all, most, some} \rangle$, if the quantifiers ‘all’ and ‘most’ give rise to an existential presupposition.
 
 [^note-2]: The choice of alternative expressions is crucial for any analysis of Quantity implicatures. Gazdar (1979), among others, assumes that alternatives are *conventionally* associated with certain lexical items. It seems more natural, however, to assume that this choice depends (also) on the question being asked, and/or what is relevant in the conversation (see, for instance, van Rooij, 2004).

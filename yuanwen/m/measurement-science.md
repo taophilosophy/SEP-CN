@@ -239,8 +239,6 @@ The author would like to thank Stephan Hartmann, Wendy Parker, Paul Teller, Ales
 
 ## Notes（原文脚注）
 
-## Notes to Measurement in Science
-
 [^note-1]: Lord Kelvin famously stated that “when you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science” (Thomson 1889: 73)[^thomson-1889].
 
 [^note-2]: In what follows I will use the word “object” to refer to a system under measurement. This designation is meant to cover processes and events as well. As will be clarified shortly, what exactly constitutes a system under measurement is a debated topic among measurement theorists.

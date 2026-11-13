@@ -923,8 +923,6 @@ The authors would like to thank Leah Velleman for initially converting the artic
 
 ## Notes（原文脚注）
 
-## Notes to Presupposition
-
 [^note-1]: We use small capitals for indicating focal stress.
 
 [^note-2]: See Pearson 2013.
