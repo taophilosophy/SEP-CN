@@ -137,7 +137,7 @@ RQM 应用于 EPR 情境与量子非定域问题，最早见于 Smerlak 与 Rove
 
   为什么？因为量子理论预言了这一点，可见下文：相对于 $S''$，第一次相互作用产生如下形式的量子态
 
-$$ \begin{align} & \ket{\text{spin up}} \times \ket{\text{paper with text } \lsq\text{spin up}\rsq} \\ & + \ket{\text{spin down}} \times \ket{\text{paper with text } \lsq\text{spin down}\rsq} \end{align} $$
+$$ \begin{align} & {\lvert \text{spin up} \rangle} \times {\lvert \text{paper with text } {\text{‘}}\text{spin up}{\text{’}} \rangle} \\ & + {\lvert \text{spin down} \rangle} \times {\lvert \text{paper with text } {\text{‘}}\text{spin down}{\text{’}} \rangle} \end{align} $$
 
 测量自旋，就把态投影到两分支之一；两个分支都通向一致。因此，只要不去追索藏在退相干背后的细微干涉现象，RQM 就意味着我们都“看见同一个世界”。
 

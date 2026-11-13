@@ -26,7 +26,7 @@
 
 ### 2.1 矢量与矢量空间
 
-**矢量** $A$，记作“$\ket{A}$”，是由长度 $|A|$ 与方向共同刻画的数学对象。归一化矢量是长度为 1 的矢量，即 $|A| = 1$。矢量可以相加、乘以常数（包括复数），也可以彼此相乘。矢量加法把任一对矢量映为另一个矢量。做法：平移第二个矢量，使其尾部与第一个矢量的尖端重合（二者长度与方向均不变），再从第一个矢量的尾部连到第二个矢量的尖端，所得即和矢量。这条规则称为平行四边形法则。例如，矢量 $\ket{A}$ 与 $\ket{B}$ 相加得矢量 $\ket{C} (= \ket{A} + \ket{B})$，如图 1 所示：
+**矢量** $A$，记作“${\lvert A \rangle}$”，是由长度 $|A|$ 与方向共同刻画的数学对象。归一化矢量是长度为 1 的矢量，即 $|A| = 1$。矢量可以相加、乘以常数（包括复数），也可以彼此相乘。矢量加法把任一对矢量映为另一个矢量。做法：平移第二个矢量，使其尾部与第一个矢量的尖端重合（二者长度与方向均不变），再从第一个矢量的尾部连到第二个矢量的尖端，所得即和矢量。这条规则称为平行四边形法则。例如，矢量 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 相加得矢量 ${\lvert C \rangle} (= {\lvert A \rangle} + {\lvert B \rangle})$，如图 1 所示：
 
 *Figure 1*
 
@@ -34,68 +34,68 @@
 
 图 1：矢量加法
 
-用 $n$ 乘矢量 $\ket{A}$（$n$ 为常数），得到一个方向与 $\ket{A}$ 相同、长度为 $\ket{A}$ 之长 $n$ 倍的矢量。
+用 $n$ 乘矢量 ${\lvert A \rangle}$（$n$ 为常数），得到一个方向与 ${\lvert A \rangle}$ 相同、长度为 ${\lvert A \rangle}$ 之长 $n$ 倍的矢量。
 
-在实矢量空间中，矢量 $\ket{A}$ 与 $\ket{B}$ 的（内）积或点积，记作“$\braket{A}{B}$”，是一个标量：等于二者长度（或“模”）之积，再乘以两矢量间夹角 $\theta$ 的余弦：
+在实矢量空间中，矢量 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 的（内）积或点积，记作“${\langle A \mid B \rangle}$”，是一个标量：等于二者长度（或“模”）之积，再乘以两矢量间夹角 $\theta$ 的余弦：
 
-$$ \braket{A}{B} = |A| |B| \cos \theta $$
+$$ {\langle A \mid B \rangle} = |A| |B| \cos \theta $$
 
-设 $\ket{A_1}$、$\ket{A_2}$ 为长度是 1 的矢量（“单位矢量”），且 $\braket{A_1}{A_2} = 0$。（这两个单位矢量间的夹角必为 90 度。）如此一来，任何二维矢量 $\ket{B}$ 都可以用这两个单位矢量表示为：
+设 ${\lvert A_1 \rangle}$、${\lvert A_2 \rangle}$ 为长度是 1 的矢量（“单位矢量”），且 ${\langle A_1 \mid A_2 \rangle} = 0$。（这两个单位矢量间的夹角必为 90 度。）如此一来，任何二维矢量 ${\lvert B \rangle}$ 都可以用这两个单位矢量表示为：
 
-$$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
+$$ {\lvert B \rangle} = b_1 {\lvert A_1 \rangle} + b_2 {\lvert A_2 \rangle} $$
 
-例如，下图展示 $\ket{B}$ 如何被表示为两个单位矢量 $\ket{A_1}$ 与 $\ket{A_2}$ 之和：
+例如，下图展示 ${\lvert B \rangle}$ 如何被表示为两个单位矢量 ${\lvert A_1 \rangle}$ 与 ${\lvert A_2 \rangle}$ 之和：
 
 *Figure 2*
 
 ![用单位矢量相加表示 B 态](../assets/qm/figure2.gif)
 
-图 2：用单位矢量相加表示 $\ket{B}$
+图 2：用单位矢量相加表示 ${\lvert B \rangle}$
 
-接下来须将内积 $\braket{A}{B}$ 的定义改造一下，使之适用于复空间。设 $c^*$ 为 $c$ 的复共轭。（当 $c$ 是形如 $a \pm bi$ 的复数时，$c$ 的复共轭 $c^*$ 定义如下：
+接下来须将内积 ${\langle A \mid B \rangle}$ 的定义改造一下，使之适用于复空间。设 $c^*$ 为 $c$ 的复共轭。（当 $c$ 是形如 $a \pm bi$ 的复数时，$c$ 的复共轭 $c^*$ 定义如下：
 
 $$ [a+bi]^* = a-bi \\ [a-bi]^* = a+bi $$
 
-于是，对一切复数 $c$ 都有 $[c^*]^* = c$，而 $c^* = c$ 当且仅当 $c$ 是实数。）这样，复空间中 $\ket{A}$ 与 $\ket{B}$ 的内积便可通过复系数的共轭定义如下。设 $\ket{A_1}$、$\ket{A_2}$ 即前述单位矢量，$\ket{A} = a_1 \ket{A_1} + a_2 \ket{A_2}$ 和 $\ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2}$，则
+于是，对一切复数 $c$ 都有 $[c^*]^* = c$，而 $c^* = c$ 当且仅当 $c$ 是实数。）这样，复空间中 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 的内积便可通过复系数的共轭定义如下。设 ${\lvert A_1 \rangle}$、${\lvert A_2 \rangle}$ 即前述单位矢量，${\lvert A \rangle} = a_1 {\lvert A_1 \rangle} + a_2 {\lvert A_2 \rangle}$ 和 ${\lvert B \rangle} = b_1 {\lvert A_1 \rangle} + b_2 {\lvert A_2 \rangle}$，则
 
-$$ \braket{A}{B} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
+$$ {\langle A \mid B \rangle} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
 
-内积最一般、最抽象的概念（上文已定义其两个特例）如下。$\braket{A}{B}$ 是矢量空间 $V$ 上的内积，当且仅当
+内积最一般、最抽象的概念（上文已定义其两个特例）如下。${\langle A \mid B \rangle}$ 是矢量空间 $V$ 上的内积，当且仅当
 
-1. $\braket{A}{A} = |A|^2$，且当且仅当 $A=0$ 时 $\braket{A}{A}=0$
-2. $\braket{B}{A} = \braket{A}{B}^*$
-3. $\braket{B}{A+C}=\braket{B}{A} + \braket{B}{C}$。
+1. ${\langle A \mid A \rangle} = |A|^2$，且当且仅当 $A=0$ 时 ${\langle A \mid A \rangle}=0$
+2. ${\langle B \mid A \rangle} = {\langle A \mid B \rangle}^*$
+3. ${\langle B \mid A+C \rangle}={\langle B \mid A \rangle} + {\langle B \mid C \rangle}$。
 
 由此可得
 
-1. $\ket{A}$ 的长度是 $\ket{A}$ 与自身之内积的平方根，即 $$ |A| = \sqrt{\braket{A}{A}} $$
+1. ${\lvert A \rangle}$ 的长度是 ${\lvert A \rangle}$ 与自身之内积的平方根，即 $$ |A| = \sqrt{{\langle A \mid A \rangle}} $$
 
 且
 
-1. 当且仅当 $\braket{A}{B} = 0$ 时，$\ket{A}$ 与 $\ket{B}$ 互相垂直，即 **正交**。
+1. 当且仅当 ${\langle A \mid B \rangle} = 0$ 时，${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 互相垂直，即 **正交**。
 
 **矢量空间** 是对加法与常数乘法封闭的矢量集合；**内积空间** 是定义了矢量乘法运算的矢量空间；这类空间的 **维数**，是其中能容纳的两两正交非零矢量的最大个数。
 
-$N$ 维矢量空间中，任何 $N$ 个长度为 1 且互相正交的矢量都构成该空间的一个 **规范正交基**。设 $\ket{A_1}, \ldots, \ket{A_N}$ 是这样一组单位矢量，那么空间中的每个矢量都可表为如下形式的和：
+$N$ 维矢量空间中，任何 $N$ 个长度为 1 且互相正交的矢量都构成该空间的一个 **规范正交基**。设 ${\lvert A_1 \rangle}, \ldots, {\lvert A_N \rangle}$ 是这样一组单位矢量，那么空间中的每个矢量都可表为如下形式的和：
 
-$$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} + \ldots + b_N \ket{A_N}, $$
+$$ {\lvert B \rangle} = b_1 {\lvert A_1 \rangle} + b_2 {\lvert A_2 \rangle} + \ldots + b_N {\lvert A_N \rangle}, $$
 
-其中 $b_i = \braket{B}{A_i}$。这些 $b_i$ 称为 $B$ 在 $A$ 基下的 **展开系数**。[^note-5]
+其中 $b_i = {\langle B \mid A_i \rangle}$。这些 $b_i$ 称为 $B$ 在 $A$ 基下的 **展开系数**。[^note-5]
 
 请注意：
 
-1. 对给定空间中所有矢量 $A$、$B$、$C$，$$ \braket{A}{B+C} = \braket{A}{B} + \braket{A}{C} $$
-2. 对以 $A$ 基表出的任何矢量 $M$ 与 $Q$，$$ \ket{M} + \ket{Q} = \sum_{i=1}^N (m_i + q_i) \ket{A_i}, $$ 且 $$ \braket{M}{Q} = \sum_{i=1}^N m_i^* q_i $$
+1. 对给定空间中所有矢量 $A$、$B$、$C$，$$ {\langle A \mid B+C \rangle} = {\langle A \mid B \rangle} + {\langle A \mid C \rangle} $$
+2. 对以 $A$ 基表出的任何矢量 $M$ 与 $Q$，$$ {\lvert M \rangle} + {\lvert Q \rangle} = \sum_{i=1}^N (m_i + q_i) {\lvert A_i \rangle}, $$ 且 $$ {\langle M \mid Q \rangle} = \sum_{i=1}^N m_i^* q_i $$
 
 矢量还有另一种写法：把它的（相对于给定基的）展开系数写成一列，如下：
 
-$$ \ket{Q} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
+$$ {\lvert Q \rangle} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
 
-其中 $q_i = \braket{Q}{A_i}$，而 $A_i$ 是选定的基矢。
+其中 $q_i = {\langle Q \mid A_i \rangle}$，而 $A_i$ 是选定的基矢。
 
 处理无穷维矢量空间时，无法写出挑出一个矢量所需的完整展开系数列（它得无限长），于是改为写下函数（称为 $Q$ 的“波函数”，通常记作 $\psi(i)$），它以那些系数为值。也就是说，我们写下这个函数：
 
-$$ \psi(i) = q_i = \braket{Q}{A_i} $$
+$$ \psi(i) = q_i = {\langle Q \mid A_i \rangle} $$
 
 给定矢量空间中的任意矢量与任意一组基，就能得到该矢量在这组基下的波函数；反过来，给定一个矢量在特定基下的波函数，也能构造出以它为波函数的那个矢量。矢量上的多数重要运算恰好对应其波函数上的简单代数运算，因此这就是表示态矢量的惯用方式。
 
@@ -103,7 +103,7 @@ $$ \psi(i) = q_i = \braket{Q}{A_i} $$
 
 说得稍细一点：设 $\{v_{i}^A\}$ 是 $H_A$ 的一组规范正交基，$\{u_{j}^B\}$ 是 $H_B$ 的一组规范正交基，则序对 $(v_{i}^A, u_{j}^B)$ 之集被取作张量积空间 $H_A \otimes H_B$ 的规范正交基。记号 $v_i^A \otimes u_j^B$ 用于序对 $(v_{i}^A,u_{j}^B)$，而 $H_A \otimes H_B$ 上的内积定义为：[^note-6]
 
-$$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \braket{u_m^B}{u_n^B} $$
+$$ {\langle v_i^A \otimes u_m^B \mid v_j^A \otimes u_n^B \rangle} = {\langle v_i^A \mid v_j^A \rangle} {\langle u_m^B \mid u_n^B \rangle} $$
 
 这一构造的一个结果是：虽然 $H_A \otimes H_B$ 中的每个矢量都是可表为 $v^A \otimes u^B$ 形式之矢量的线性和，但并非空间中每个矢量自身都可表为该形式；由此可得：
 
@@ -114,20 +114,20 @@ $$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \br
 
 ### 2.2 算符
 
-**算符** $O$ 是矢量空间到其自身的映射：它把空间中的任一矢量 $\ket{B}$ 映为该空间中的另一矢量 $\ket{B'}$，即 $O \ket{B} = \ket{B'}$。**线性算符** 是满足如下性质的算符：
+**算符** $O$ 是矢量空间到其自身的映射：它把空间中的任一矢量 ${\lvert B \rangle}$ 映为该空间中的另一矢量 ${\lvert B' \rangle}$，即 $O {\lvert B \rangle} = {\lvert B' \rangle}$。**线性算符** 是满足如下性质的算符：
 
-1. $O(\ket{A} + \ket{B}) = O \ket{A} + O \ket{B}$，且
-2. $O(c \ket{A}) = c(O \ket{A})$。
+1. $O({\lvert A \rangle} + {\lvert B \rangle}) = O {\lvert A \rangle} + O {\lvert B \rangle}$，且
+2. $O(c {\lvert A \rangle}) = c(O {\lvert A \rangle})$。
 
 正如 $N$ 维空间中任一矢量都可以（相对于选定的一组基）写成 $N$ 个数构成的列，空间上任一线性算符也可以用列记法写成 $N^2$ 个数：
 
 $$O = \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix}$$
 
-其中 $O_{ij} = \braket{A_i}{O \mid A_j}$，而 $A_N$ 是该空间的基矢。于是，线性算符 $O$ 作用于矢量 $B$ 的效果由下式给出：
+其中 $O_{ij} = {\langle A_i \mid O \mid A_j \rangle}$，而 $A_N$ 是该空间的基矢。于是，线性算符 $O$ 作用于矢量 $B$ 的效果由下式给出：
 
-$$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
+$$\begin{align} O {\lvert B \rangle} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
 
-在说明希尔伯特空间是什么之前，还需要两个定义；然后便可转入量子力学。$\ket{B}$ 是 $O$ 的、本征值为 $a$ 的 **本征矢量**，当且仅当 $O \ket{B} = a \ket{B}$。不同算符可以有不同的本征矢量，但本征矢量与算符的关系只取决于所论的算符与矢量，而不取决于表示它们所用的特定基；换言之，这一关系在基变换下不变。**厄米算符** 则是具有如下性质的算符：存在一组由其本征矢量构成的规范正交基，且这些本征值全为实数。
+在说明希尔伯特空间是什么之前，还需要两个定义；然后便可转入量子力学。${\lvert B \rangle}$ 是 $O$ 的、本征值为 $a$ 的 **本征矢量**，当且仅当 $O {\lvert B \rangle} = a {\lvert B \rangle}$。不同算符可以有不同的本征矢量，但本征矢量与算符的关系只取决于所论的算符与矢量，而不取决于表示它们所用的特定基；换言之，这一关系在基变换下不变。**厄米算符** 则是具有如下性质的算符：存在一组由其本征矢量构成的规范正交基，且这些本征值全为实数。
 
 最后，**希尔伯特空间** 是定义了内积且具有完备性的矢量空间；所谓完备性，是指空间中矢量的任何柯西序列都收敛于空间中的一个矢量。一切有限维内积空间都完备，我把自己限于这类空间。无穷维情形带来若干复杂问题，在此阶段深究并无益处。
 
@@ -149,11 +149,11 @@ $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} 
 
 **(3.4)**
 
-**动力学。** a. “类型 1 语境”：给定系统在 $t$ 时刻的态以及它所受的力与约束，有一个方程——**薛定谔方程**——给出任何其他时刻的态：$U \ket{v_t} \rightarrow \ket{v_{t'}}$。[^note-8] 就我们的目的而言，$U$ 要点有三。其一，它是 **决定论的**：系统在某时刻的态，总能在其他时刻找到唯一对应。其二，它是 **幺正的**：它是该希尔伯特空间的自同构，一个保持线性结构与内积、映空间到自身的映射。其三，它是 **线性的**：若它把态 $\ket{A}$ 带到 $\ket{A'}$、把态 $\ket{B}$ 带到 $\ket{B'}$，就把任何 $\alpha \ket{A} + \beta \ket{B}$ 形的态带到 $\alpha \ket{A'} + \beta \ket{B'}$。
+**动力学。** a. “类型 1 语境”：给定系统在 $t$ 时刻的态以及它所受的力与约束，有一个方程——**薛定谔方程**——给出任何其他时刻的态：$U {\lvert v_t \rangle} \rightarrow {\lvert v_{t'} \rangle}$。[^note-8] 就我们的目的而言，$U$ 要点有三。其一，它是 **决定论的**：系统在某时刻的态，总能在其他时刻找到唯一对应。其二，它是 **幺正的**：它是该希尔伯特空间的自同构，一个保持线性结构与内积、映空间到自身的映射。其三，它是 **线性的**：若它把态 ${\lvert A \rangle}$ 带到 ${\lvert A' \rangle}$、把态 ${\lvert B \rangle}$ 带到 ${\lvert B' \rangle}$，就把任何 $\alpha {\lvert A \rangle} + \beta {\lvert B \rangle}$ 形的态带到 $\alpha {\lvert A' \rangle} + \beta {\lvert B' \rangle}$。
 
 **b.**
 
-“类型 2 语境”（“测量语境”）：[^note-9] 对处于态 $\ket{A}$ 的系统就可观测量 $B$ 实施一次“测量”，其效果是使系统坍缩到与所观测到的本征值相应的那个 $B$ 本征态。这就是所谓的 **坍缩公设**。至于它坍缩到哪个特定的 $B$ 本征态，则是概率问题；概率由一条称为 **玻恩规则** 的规则给出： $$ \Pr(b_i) = |\braket{A}{B=b_i}|^2 $$
+“类型 2 语境”（“测量语境”）：[^note-9] 对处于态 ${\lvert A \rangle}$ 的系统就可观测量 $B$ 实施一次“测量”，其效果是使系统坍缩到与所观测到的本征值相应的那个 $B$ 本征态。这就是所谓的 **坍缩公设**。至于它坍缩到哪个特定的 $B$ 本征态，则是概率问题；概率由一条称为 **玻恩规则** 的规则给出： $$ \Pr(b_i) = |{\langle A \mid B=b_i \rangle}|^2 $$
 
 关于这两类语境，有两点值得注意：
 
@@ -192,9 +192,9 @@ $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} 
 
 凡是想弄清量子力学对世界说了什么的人，都得同一个余下的事实缠斗。这个问题不关乎希尔伯特空间，而关乎动力学——描述系统在空间中走过何种轨迹的那些规则。从物理的观点看，它比此前讨论的一切都更令人不安：它不仅给想为理论提供解释的人制造困难，还似乎指向理论基础中的一处逻辑矛盾。
 
-设我们有一个系统 $S$ 与一台装置 $S^*$，后者测量 $S$ 上取值为 $\{a_1, a_2, a_3, ...\}$ 的可观测量 $A$。那么，$S^*$ 会有某个态（“基态”），而 $S^*$ 上会有某个可观测量 $B$，取值为 $\{b_1, b_2, b_3, ...\}$（称为它的“指针可观测量”——因为正是它扮演示意图中测量仪器正面表盘上指针的角色，来登记实验结果）。而且：若 $S^*$ 从基态启动、以适当方式与 $S$ 相互作用，而相互作用前一刻 $A$ 的值是 $a_1$，则相互作用后 $B$ 的值就是 $b_1$。若相互作用前 $A$ 的值是 $a_2$，则其后 $B$ 的值是 $b_2$。若相互作用前 $A$ 的值是 $a_3$，则相互作用后 $B$ 的值是 $b_3$，依此类推。这正是“$S^*$ 测量 $A$”的含义。于是，设我们用矢量 $\ket{A=a_i}_s \ket{B=b_i}_{s^*}$ 表示 $S$ 与 $S^*$ 的联合部分态。这一部分态规定 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 如何取值；其值对应于给 $S$ 上被测可观测量与 $S^*$ 上指针可观测量所做的指派。再让“$\rightarrow$”代表对二者相互作用的动力学描述。那么，说 $S^*$ 是 $A$ 的一台测量仪器，就是说动力学定律蕴涵：
+设我们有一个系统 $S$ 与一台装置 $S^*$，后者测量 $S$ 上取值为 $\{a_1, a_2, a_3, ...\}$ 的可观测量 $A$。那么，$S^*$ 会有某个态（“基态”），而 $S^*$ 上会有某个可观测量 $B$，取值为 $\{b_1, b_2, b_3, ...\}$（称为它的“指针可观测量”——因为正是它扮演示意图中测量仪器正面表盘上指针的角色，来登记实验结果）。而且：若 $S^*$ 从基态启动、以适当方式与 $S$ 相互作用，而相互作用前一刻 $A$ 的值是 $a_1$，则相互作用后 $B$ 的值就是 $b_1$。若相互作用前 $A$ 的值是 $a_2$，则其后 $B$ 的值是 $b_2$。若相互作用前 $A$ 的值是 $a_3$，则相互作用后 $B$ 的值是 $b_3$，依此类推。这正是“$S^*$ 测量 $A$”的含义。于是，设我们用矢量 ${\lvert A=a_i \rangle}_s {\lvert B=b_i \rangle}_{s^*}$ 表示 $S$ 与 $S^*$ 的联合部分态。这一部分态规定 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 如何取值；其值对应于给 $S$ 上被测可观测量与 $S^*$ 上指针可观测量所做的指派。再让“$\rightarrow$”代表对二者相互作用的动力学描述。那么，说 $S^*$ 是 $A$ 的一台测量仪器，就是说动力学定律蕴涵：
 
-$$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_1}_s \ket{B=b_1}_{s^*} \\ \ket{A=a_2}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_2}_s \ket{B=b_2}_{s^*} \\ \ket{A=a_3}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_3}_s \ket{B=b_3}_{s^*} \end{align}$$
+$$\begin{align} {\lvert A=a_1 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_1 \rangle}_s {\lvert B=b_1 \rangle}_{s^*} \\ {\lvert A=a_2 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_2 \rangle}_s {\lvert B=b_2 \rangle}_{s^*} \\ {\lvert A=a_3 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_3 \rangle}_s {\lvert B=b_3 \rangle}_{s^*} \end{align}$$
 
 依此类推。[^note-12]
 
@@ -204,23 +204,23 @@ $$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ke
 
 例如，设我们把 $S^*$ 置于基态，把 $S$ 置于态
 
-$$ \frac{1}{\sqrt{2}} \ket{A = a_1}_s + \frac{1}{\sqrt{2}} \ket{A=a_2}_s $$
+$$ \frac{1}{\sqrt{2}} {\lvert A = a_1 \rangle}_s + \frac{1}{\sqrt{2}} {\lvert A=a_2 \rangle}_s $$
 
 由复合系统状态空间的构成规则可知，这一对系统的联合态是
 
-$$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = \text{ground state}}_{s^*} $$
+$$ \frac{1}{\sqrt{2}} {\lvert A=a_1 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} + \frac{1}{\sqrt{2}} {\lvert A = a_2 \rangle}_s {\lvert B = \text{ground state} \rangle}_{s^*} $$
 
 再由 $S^*$ 是 $A$ 的测量仪器这一事实以及 $U$ 的线性可知，它们在相互作用 **之后** 的联合态是
 
-$$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=b_1}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = b_2}_{s^*} $$
+$$ \frac{1}{\sqrt{2}} {\lvert A=a_1 \rangle}_s {\lvert B=b_1 \rangle}_{s^*} + \frac{1}{\sqrt{2}} {\lvert A = a_2 \rangle}_s {\lvert B = b_2 \rangle}_{s^*} $$
 
 然而，这与类型 2 语境的动力学规则相矛盾。类型 2 语境的动力学规则（若这样的语境存在，此处便是一例）蕴涵：相互作用后这一对系统的态 **要么** 是
 
-$$ \ket{A=a_1}_s \ket{B=b_1}_{s^*} $$
+$$ {\lvert A=a_1 \rangle}_s {\lvert B=b_1 \rangle}_{s^*} $$
 
 要么是
 
-$$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
+$$ {\lvert A=a_2 \rangle}_s {\lvert B=b_2 \rangle}_{s^*} $$
 
 实际上，该规则还蕴涵：系统以恰为 $\frac{1}{2}$ 的概率终止于前者，以 $\frac{1}{2}$ 的概率终止于后者。
 
@@ -254,7 +254,7 @@ $$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
 
 [^note-6]: 读者可自行验证：由于 $(v_{i}^A, u_{j}^B)$ 张成 $H_A \otimes H_B$，该方程依线性性定义了整个空间上的内积；又由于 $|v| = 0$ 当且仅当 $v$ 为零矢量，可知 $v^A\otimes 0 = 0 = 0\otimes u^B$。
 
-[^note-7]: 这个对应并非唯一：任何矢量 $\ket{A}$ 与 $@ \ket{A}$（$@$ 为绝对值为 1 的任一复数）都对应同一个态。可能还有别的冗余；例如，某些解释援引所谓的超选择定则，把由不同归一化矢量表示的态认同为同一个态。原理（i）将随下文混合态的定义而被修改。
+[^note-7]: 这个对应并非唯一：任何矢量 ${\lvert A \rangle}$ 与 $@ {\lvert A \rangle}$（$@$ 为绝对值为 1 的任一复数）都对应同一个态。可能还有别的冗余；例如，某些解释援引所谓的超选择定则，把由不同归一化矢量表示的态认同为同一个态。原理（i）将随下文混合态的定义而被修改。
 
 [^note-8]: 该方程通常写作 $i \frac{dv}{dt} = \mathbf{H}v$ 的形式，其中 $v$ 是系统的态矢量，$\mathbf{H}$ 是表示系统能量的算符；不过，细节眼下并不重要。
 

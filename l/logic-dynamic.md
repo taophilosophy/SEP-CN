@@ -67,7 +67,7 @@ Hoare [1969] 的 Hoare 演算是程序逻辑的一座里程碑。它处理形如
 - $V((A\lor B) = V(A) \cup V(B)$
 - $V([\alpha]A) = \{x \mid \text{对所有世界 } y，\text{若 } xR(\alpha)y \text{ 则 } y \in V(A)\}$
 
-若 $x \in V(A)$，就说 $A$ 在 $M$ 中的状态 $x$ 处被满足，记作 $\ldquo M, x$ sat $A\rdquo$。
+若 $x \in V(A)$，就说 $A$ 在 $M$ 中的状态 $x$ 处被满足，记作 ${\text{“}} M, x$ sat $A{\text{”}}$。
 
 ![下段所规定的模型 M = (W,R,V)](../assets/logic-dynamic/model1.png)
 

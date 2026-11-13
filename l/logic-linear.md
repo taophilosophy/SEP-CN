@@ -15,9 +15,9 @@
 - 经典逻辑的矢列演算里，联结词“**与**”“**或**”的规则，以及切规则、蕴涵规则，都能等价地写成加性形式（各前提语境相同）或乘法形式（各前提语境不同）。经典逻辑中两者等价，靠的是几条所谓“结构”规则，即收缩与弱化。
 - Gentzen 用矢列演算同时刻画经典逻辑与直觉主义逻辑的证明，表明非构造性证明总要在矢列结论（后件）里用到这两条结构规则之一。
 
-于是，若要在不破坏矢列对称性的前提下消除非构造性证明（直觉主义逻辑就是这样做的），不妨反过来消除收缩与弱化。这样每个联结词都一分为二：合取、析取各有加性版与乘法版。同一联结词的两个版本此时不再等价。新联结词是 &（“with”，加性 **与**）、$\oplus$（“plus”，加性 **或**）、$\otimes$（“tensor”，乘法 **与**）与 $\lpar$（“par”，乘法 **或**）。
+于是，若要在不破坏矢列对称性的前提下消除非构造性证明（直觉主义逻辑就是这样做的），不妨反过来消除收缩与弱化。这样每个联结词都一分为二：合取、析取各有加性版与乘法版。同一联结词的两个版本此时不再等价。新联结词是 &（“with”，加性 **与**）、$\oplus$（“plus”，加性 **或**）、$\otimes$（“tensor”，乘法 **与**）与 $\mathrel{\unicode{x214b}}$（“par”，乘法 **或**）。
 
-联结词的这番复制，反倒让人更看清经典逻辑与直觉主义逻辑的冲突。比如排中律（$A$ **或** 非-$A$），经典世界视为有效，直觉主义世界视为荒谬；线性逻辑里它有两种读法：加性版 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版 $(A \lpar \neg A)$ 平凡可证，只相当于重言式 $(A$ **蕴涵** $A)$，这在直觉主义逻辑里同样可以接受。
+联结词的这番复制，反倒让人更看清经典逻辑与直觉主义逻辑的冲突。比如排中律（$A$ **或** 非-$A$），经典世界视为有效，直觉主义世界视为荒谬；线性逻辑里它有两种读法：加性版 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版 $(A \mathrel{\unicode{x214b}} \neg A)$ 平凡可证，只相当于重言式 $(A$ **蕴涵** $A)$，这在直觉主义逻辑里同样可以接受。
 
 另外，构造主义所倚重的析取性质，对加性析取很容易证。
 
@@ -25,7 +25,7 @@
 
 注意：一消除收缩与弱化，公式就不再像真值那样行事。没有这两条结构规则，把 $A \Rightarrow B$ 的证明与 $A$ 的证明复合，二者就被消耗掉，换来 $B$ 的证明；也就是说，复合之后 $A \Rightarrow B$ 与 $A$ 都不复可用。线性逻辑的公式更像 **资源**，只能按受限的方式使用。
 
-要找回直觉主义逻辑与经典逻辑的全部表达力，须给 MALL 片段加两个对偶模态词，线性逻辑文献通常称 **指数**（exponentials）。其中“of-course”指数 $\bang$ 允许对左手语境中的 $\bang B$ 施用收缩与弱化，“why-not”指数 $\quest$ 允许对右手语境中的 $\quest B$ 施用。由此得到完全的命题线性逻辑，并与计算机科学结下极漂亮的缘分。
+要找回直觉主义逻辑与经典逻辑的全部表达力，须给 MALL 片段加两个对偶模态词，线性逻辑文献通常称 **指数**（exponentials）。其中“of-course”指数 $\mathop{!}$ 允许对左手语境中的 $\mathop{!} B$ 施用收缩与弱化，“why-not”指数 $\mathop{?}$ 允许对右手语境中的 $\mathop{?} B$ 施用。由此得到完全的命题线性逻辑，并与计算机科学结下极漂亮的缘分。
 
 注意：除 MALL 外，线性逻辑还有两个常用片段：乘法线性逻辑（MLL），即去掉加性联结词的 MALL；乘法指数线性逻辑（MELL），即去掉加性联结词的线性逻辑。
 
@@ -45,7 +45,7 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 ## 2 证明系统
 
-线性逻辑的核心命题联结词分加性与乘法两族。经典合取及单位元 $\wedge$ 与 $\top$，分为加性 $\amp$（with）、$\top$（top）与乘法 $\otimes$（tensor）、1（one）；经典析取及单位元 $\vee$ 与 $\bot$，分为加性 $\oplus$（oplus）、0（zero）与乘法 $\lpar$（par）、$\bot$（bottom）。否定的处理通常二择一：或视为原始命题联结词，出现不加限制；或视为只施于原子公式的特殊符号——之所以可行，是因为否定与一切命题联结词、指数、量词之间都有 De Morgan 对偶。蕴涵常由定义引入：线性蕴涵 $B \limp C$ 定义为 $B^{\bot} \lpar C$，直觉主义蕴涵 $B \Rightarrow C$ 定义为 $\bang B \limp C$。算子 $\bang$ 与 $\quest$ 偶称模态词，常称指数。“指数”之名格外贴切：按指数、加法、乘法的通常关系，线性逻辑有等价式 $\bang (B \amp C) \equiv (\bang B \otimes \bang C)$、$\quest(B \oplus C) \equiv (\quest B \lpar \quest C)$，以及 0 元版本 $(\bang\top \equiv 1)$、$(\quest 0 \equiv \bot)$。这里 $B \equiv C$ 指公式 $(B \limp C) \amp(C \limp B)$ 在线性逻辑中可推导。
+线性逻辑的核心命题联结词分加性与乘法两族。经典合取及单位元 $\wedge$ 与 $\top$，分为加性 $\mathbin{\&}$（with）、$\top$（top）与乘法 $\otimes$（tensor）、1（one）；经典析取及单位元 $\vee$ 与 $\bot$，分为加性 $\oplus$（oplus）、0（zero）与乘法 $\mathrel{\unicode{x214b}}$（par）、$\bot$（bottom）。否定的处理通常二择一：或视为原始命题联结词，出现不加限制；或视为只施于原子公式的特殊符号——之所以可行，是因为否定与一切命题联结词、指数、量词之间都有 De Morgan 对偶。蕴涵常由定义引入：线性蕴涵 $B \mathbin{-\hspace{-0.70mm}\circ} C$ 定义为 $B^{\bot} \mathrel{\unicode{x214b}} C$，直觉主义蕴涵 $B \Rightarrow C$ 定义为 $\mathop{!} B \mathbin{-\hspace{-0.70mm}\circ} C$。算子 $\mathop{!}$ 与 $\mathop{?}$ 偶称模态词，常称指数。“指数”之名格外贴切：按指数、加法、乘法的通常关系，线性逻辑有等价式 $\mathop{!} (B \mathbin{\&} C) \equiv (\mathop{!} B \otimes \mathop{!} C)$、$\mathop{?}(B \oplus C) \equiv (\mathop{?} B \mathrel{\unicode{x214b}} \mathop{?} C)$，以及 0 元版本 $(\mathop{!}\top \equiv 1)$、$(\mathop{?} 0 \equiv \bot)$。这里 $B \equiv C$ 指公式 $(B \mathbin{-\hspace{-0.70mm}\circ} C) \mathbin{\&}(C \mathbin{-\hspace{-0.70mm}\circ} B)$ 在线性逻辑中可推导。
 
 ### 2.1 矢列演算
 
@@ -55,23 +55,23 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 **否定规则** $$ \frac{\Delta \vdash B,\Gamma}{\Delta,B^{\perp} \vdash \Gamma}\ (\cdot)^{\perp} L \qquad \frac{\Delta,B \vdash \Gamma}{\Delta \vdash B^{\perp},\Gamma}\ (\cdot)^{\perp} R $$
 
-**乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\one \vdash \Gamma}\ \one L \qquad \frac{}{\vdash \one}\ \one R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\ot B_2 \vdash \Gamma}\ \ot L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\ot B_2,\Gamma_{1},\Gamma_{2}}\ \ot R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\lpar B_2 \vdash \Gamma_1,\Gamma_2}\ \lpar L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\lpar B_2, \Gamma}\ \lpar R $$
+**乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\mathbf{1} \vdash \Gamma}\ \mathbf{1} L \qquad \frac{}{\vdash \mathbf{1}}\ \mathbf{1} R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\otimes B_2 \vdash \Gamma}\ \otimes L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\otimes B_2,\Gamma_{1},\Gamma_{2}}\ \otimes R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\mathrel{\unicode{x214b}} B_2 \vdash \Gamma_1,\Gamma_2}\ \mathrel{\unicode{x214b}} L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\mathrel{\unicode{x214b}} B_2, \Gamma}\ \mathrel{\unicode{x214b}} R $$
 
-**加性规则** $$\frac{}{\Delta,\zero \vdash \Gamma}\ \zero L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\amp B_2 \vdash \Gamma}\ {\amp}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\amp B_2,\Gamma}\ {\amp}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
+**加性规则** $$\frac{}{\Delta,\mathbf{0} \vdash \Gamma}\ \mathbf{0} L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\mathbin{\&} B_2 \vdash \Gamma}\ {\mathbin{\&}}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\mathbin{\&} B_2,\Gamma}\ {\mathbin{\&}}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
 
 **量词规则** $$\frac{\Delta, B[t/x] \vdash \Gamma}{\Delta,\forall x.B \vdash \Gamma}\ \forall L \qquad \frac{\Delta \vdash B[y/x],\Gamma}{\Delta \vdash \forall x.B,\Gamma}\ \forall R $$ $$\frac{\Delta \vdash B[t/x],\Gamma}{\Delta \vdash \exists x.B,\Gamma}\ \exists R \qquad \frac{\Delta,B[y/x] \vdash \Gamma}{\Delta,\exists x.B \vdash \Gamma}\ \exists L, $$
 
-**指数规则** $$\frac{\Delta \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang W \quad \frac{\Delta, \bang B, \bang B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang C \quad \frac{\Delta,B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang D \quad \frac{\bang\Delta \vdash B,\quest\Gamma}{\bang\Delta \vdash \bang B,\quest\Gamma}\ \bang R $$ $$\frac{\Delta \vdash \Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest W \quad \frac{\Delta \vdash \quest B, \quest B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest C \quad \frac{\Delta \vdash B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest D \quad \frac{\bang\Delta,B \vdash \quest\Gamma}{\bang\Delta,\quest B \vdash \quest\Gamma}\ \quest L $$
+**指数规则** $$\frac{\Delta \vdash \Gamma}{\Delta, \mathop{!} B \vdash \Gamma}\ \mathop{!} W \quad \frac{\Delta, \mathop{!} B, \mathop{!} B \vdash \Gamma}{\Delta, \mathop{!} B \vdash \Gamma}\ \mathop{!} C \quad \frac{\Delta,B \vdash \Gamma}{\Delta, \mathop{!} B \vdash \Gamma}\ \mathop{!} D \quad \frac{\mathop{!}\Delta \vdash B,\mathop{?}\Gamma}{\mathop{!}\Delta \vdash \mathop{!} B,\mathop{?}\Gamma}\ \mathop{!} R $$ $$\frac{\Delta \vdash \Gamma}{\Delta \vdash \mathop{?} B,\Gamma}\ \mathop{?} W \quad \frac{\Delta \vdash \mathop{?} B, \mathop{?} B,\Gamma}{\Delta \vdash \mathop{?} B,\Gamma}\ \mathop{?} C \quad \frac{\Delta \vdash B,\Gamma}{\Delta \vdash \mathop{?} B,\Gamma}\ \mathop{?} D \quad \frac{\mathop{!}\Delta,B \vdash \mathop{?}\Gamma}{\mathop{!}\Delta,\mathop{?} B \vdash \mathop{?}\Gamma}\ \mathop{?} L $$
 
-注意：弱化与收缩只对左侧标 $\bang$、右侧标 $\quest$ 的公式可用。$\quest$R 与 $\bang$L 规则常称“废弃”（dereliction）规则；$\quest$L 与 $\bang$R 常称“提升”（promotion）规则，类似 S4 模态逻辑的矢列演算规则（Ono 1998）[^ono-1998]。$\forall$-右与 $\exists$-左引入规则照例有限制：变量 $y$ 不得在这些规则下层矢列的公式中自由出现。量化这里假定为一阶。Girard 1987 年的论文给出了高阶版本。
+注意：弱化与收缩只对左侧标 $\mathop{!}$、右侧标 $\mathop{?}$ 的公式可用。$\mathop{?}$R 与 $\mathop{!}$L 规则常称“废弃”（dereliction）规则；$\mathop{?}$L 与 $\mathop{!}$R 常称“提升”（promotion）规则，类似 S4 模态逻辑的矢列演算规则（Ono 1998）[^ono-1998]。$\forall$-右与 $\exists$-左引入规则照例有限制：变量 $y$ 不得在这些规则下层矢列的公式中自由出现。量化这里假定为一阶。Girard 1987 年的论文给出了高阶版本。
 
 切规则可以消去，完全性照旧。对偶地，*init* 规则除涉及原子公式的用法外也可消去。
 
 ### 2.2 聚焦证明
 
-Andreoli（1992）给出一个关于无切证明结构的重要范式定理。他把非原子公式分为两类：顶层联结词为 $\top$、&、$\bot , \lpar$、$\quest$、$\forall$ 的称 **异步**；顶层联结词为 $0, \oplus , 1, \otimes$、$\bang$、$\exists$ 的称 **同步**。
+Andreoli（1992）给出一个关于无切证明结构的重要范式定理。他把非原子公式分为两类：顶层联结词为 $\top$、&、$\bot , \mathrel{\unicode{x214b}}$、$\mathop{?}$、$\forall$ 的称 **异步**；顶层联结词为 $0, \oplus , 1, \otimes$、$\mathop{!}$、$\exists$ 的称 **同步**。
 
-把证明搜索看作计算模型时，要看推理规则如何把作为 **结论** 的矢列变成 **前提**。于是矢列中的公式可视为“行动者”：既可各自行动，也可与环境中的同伴协同。行动者的动作，由自下而上读其引入规则而定。异步公式若在矢列右侧，就能在不影响可证性、不与语境互动的情况下演化——相应引入规则可逆。例如 $(B \lpar C)$ 经 $\lpar$-右规则变成 $B$ 与 $C$ 两个行动者（此时并行干活）。$(B \amp C)$ 经 &-右规则产生两个世界（矢列），除一个含 $B$、另一个含 $C$ 外完全相同。
+把证明搜索看作计算模型时，要看推理规则如何把作为 **结论** 的矢列变成 **前提**。于是矢列中的公式可视为“行动者”：既可各自行动，也可与环境中的同伴协同。行动者的动作，由自下而上读其引入规则而定。异步公式若在矢列右侧，就能在不影响可证性、不与语境互动的情况下演化——相应引入规则可逆。例如 $(B \mathrel{\unicode{x214b}} C)$ 经 $\mathrel{\unicode{x214b}}$-右规则变成 $B$ 与 $C$ 两个行动者（此时并行干活）。$(B \mathbin{\&} C)$ 经 &-右规则产生两个世界（矢列），除一个含 $B$、另一个含 $C$ 外完全相同。
 
 反之，若把同步公式看作行动者，其演化由自下而上读相应右引入规则决定，则可证矢列也可能演化成不可证矢列（如施用 $\oplus$ 右规则）。而且这类规则的实例取决于公式语境的细节：1-右规则成功要求周围语境为空，$\otimes$-右规则成功则看行动者的周围语境怎样一分为二。所以这类行动者的演化，取决于与语境其余部分的“同步”。
 
@@ -79,17 +79,17 @@ Andreoli（1992）给出一个关于无切证明结构的重要范式定理。�
 
 下图是线性逻辑的聚焦证明系统。两阶段用不同箭头：上箭头为异步阶段，下箭头为同步阶段。矢列分三个 **区**（以分号或上、下箭头隔开）。上、下箭头左侧是两个区：$\Psi$ 区是公式集，其中公式在该矢列证明中可用任意多次；$\Delta$ 区是公式的多重集。上箭头右侧也是多重集，下箭头右侧则是单个公式。异步公式可按任意次序引入，故上箭头右侧公式的顺序可随意安排。原子有极性，下图中 $A$ 代表正原子，$A$ 的否定代表负原子。这些规则构造的证明叫 **聚焦** 证明，其完全性见 Andreoli 1992。
 
-**异步阶段** $$\frac{\Up{\Psi}{\Delta}{L}}{\Up{\Psi}{\Delta}{\bot,L}}\ [\bot] \qquad \frac{\Up{\Psi,F}{\Delta}{L}} {\Up{\Psi}{\Delta}{\quest F,L}}\ [\quest] $$ $$\frac{} {\Up{\Psi}{\Delta}{\top,L}}\ [\top] \qquad \frac{\Up{\Psi}{\Delta}{F[y/x],L}} {\Up{\Psi}{\Delta}{\forall x.F,L}}\ [\forall] $$ $$\frac{\Up{\Psi}{\Delta}{F_1,F_2,L}} {\Up{\Psi}{\Delta}{F_1\lpar F_2,L}}\ [\lpar] \qquad \frac{\Up{\Psi}{\Delta}{F_1,L}\quad \Up{\Psi}{\Delta}{F_2,L}} {\Up{\Psi}{\Delta}{F_1\amp F_2,L}}\ [\amp] $$ $$\frac{\Up{\Psi}{\Delta,F}{L}}{\Up{\Psi}{\Delta}{F,L}} \ [R\Uparrow]\ \text{前提是 $F$ 非异步} $$
+**异步阶段** $$\frac{{\Psi};{\Delta} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {\bot,L}}\ [\bot] \qquad \frac{{\Psi,F};{\Delta} \Uparrow {L}} {{\Psi};{\Delta} \Uparrow {\mathop{?} F,L}}\ [\mathop{?}] $$ $$\frac{} {{\Psi};{\Delta} \Uparrow {\top,L}}\ [\top] \qquad \frac{{\Psi};{\Delta} \Uparrow {F[y/x],L}} {{\Psi};{\Delta} \Uparrow {\forall x.F,L}}\ [\forall] $$ $$\frac{{\Psi};{\Delta} \Uparrow {F_1,F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathrel{\unicode{x214b}} F_2,L}}\ [\mathrel{\unicode{x214b}}] \qquad \frac{{\Psi};{\Delta} \Uparrow {F_1,L}\quad {\Psi};{\Delta} \Uparrow {F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathbin{\&} F_2,L}}\ [\mathbin{\&}] $$ $$\frac{{\Psi};{\Delta,F} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {F,L}} \ [R\Uparrow]\ \text{前提是 $F$ 非异步} $$
 
-**同步阶段** $$\frac{}{\Down{\Psi}{\cdot}{\one}}\ [\one] \qquad \frac{\Down{\Psi}{\Delta_1}{F_1}\quad \Down{\Psi}{\Delta_2}{F_2}} {\Down{\Psi}{\Delta_1,\Delta_2}{F_1\ot F_2}} \ [\ot] \qquad \frac{\Up{\Psi}{\cdot}{F}}{\Down{\Psi}{\cdot}{\bang F}} \ [\bang] $$ $$\frac{\Down{\Psi}{\Delta}{F_i}}{\Down{\Psi}{\Delta}{F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{\Down{\Psi}{\Delta}{F[t/x]}} {\Down{\Psi}{\Delta}{\exists x.F}} \ [\exists] $$ $$\frac{\Up{\Psi}{\Delta}{F}}{\Down{\Psi}{\Delta}{F}} \ [R\Downarrow]\ \text{前提是 $F$ 或为异步公式，或为原子} $$
+**同步阶段** $$\frac{}{{\Psi};{\cdot} \Downarrow {\mathbf{1}}}\ [\mathbf{1}] \qquad \frac{{\Psi};{\Delta_1} \Downarrow {F_1}\quad {\Psi};{\Delta_2} \Downarrow {F_2}} {{\Psi};{\Delta_1,\Delta_2} \Downarrow {F_1\otimes F_2}} \ [\otimes] \qquad \frac{{\Psi};{\cdot} \Uparrow {F}}{{\Psi};{\cdot} \Downarrow {\mathop{!} F}} \ [\mathop{!}] $$ $$\frac{{\Psi};{\Delta} \Downarrow {F_i}}{{\Psi};{\Delta} \Downarrow {F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{{\Psi};{\Delta} \Downarrow {F[t/x]}} {{\Psi};{\Delta} \Downarrow {\exists x.F}} \ [\exists] $$ $$\frac{{\Psi};{\Delta} \Uparrow {F}}{{\Psi};{\Delta} \Downarrow {F}} \ [R\Downarrow]\ \text{前提是 $F$ 或为异步公式，或为原子} $$
 
-**同一性与判定规则** $$\frac{}{\Down{\Psi}{A}{A^{\perp}}} \ [I_1] \qquad \frac{}{\Down{\Psi,A}{\cdot}{A^{\perp}}} \ [I_2]\ \text{其中 } A \text{ 为原子} $$ $$\frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi}{\Delta,F}{\cdot}} \ [D_1] \qquad \frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi,F}{\Delta}{\cdot}} \ [D_2]\ \text{其中 } F \text{ 为正公式} $$
+**同一性与判定规则** $$\frac{}{{\Psi};{A} \Downarrow {A^{\perp}}} \ [I_1] \qquad \frac{}{{\Psi,A};{\cdot} \Downarrow {A^{\perp}}} \ [I_2]\ \text{其中 } A \text{ 为原子} $$ $$\frac{{\Psi};{\Delta} \Downarrow {F}}{{\Psi};{\Delta,F} \Uparrow {\cdot}} \ [D_1] \qquad \frac{{\Psi};{\Delta} \Downarrow {F}}{{\Psi,F};{\Delta} \Uparrow {\cdot}} \ [D_2]\ \text{其中 } F \text{ 为正公式} $$
 
 聚焦证明系统也被设计用于经典逻辑与直觉主义逻辑（Danos *et al*. 1997; Laurent *et al*. 2005; Liang & Miller 2009）[^danos-1997][^laurent-2005][^liang-2009]。
 
 ### 2.3 证明网
 
-矢列演算给出的证明含大量细节，有时索然无味：比如由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导，构造 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的证明，有多少种无趣而互不相同的写法？这不愉快的事实源于矢列演算中证明的序列本性：要把 $n$ 条规则的集合 $S$ 施于矢列的不同部分，即便互不干扰，也不能一步完成！必须把它们 **序列化**——在 $S$ 上取一个线性次序，按此次序分 $n$ 步施用。
+矢列演算给出的证明含大量细节，有时索然无味：比如由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导，构造 $\vdash \Gamma , (A_1\mathrel{\unicode{x214b}} A_2), \ldots ,(A_{n-1}\mathrel{\unicode{x214b}} A_n)$ 的证明，有多少种无趣而互不相同的写法？这不愉快的事实源于矢列演算中证明的序列本性：要把 $n$ 条规则的集合 $S$ 施于矢列的不同部分，即便互不干扰，也不能一步完成！必须把它们 **序列化**——在 $S$ 上取一个线性次序，按此次序分 $n$ 步施用。
 
 自然会问：“有没有一种表示证明的方式，能把这些无趣细节抽掉？”直觉主义矢列演算的情形已有肯定回答，靠的是 **自然演绎**；经 Curry–Howard 对应（Howard 1980）[^howard-1980]，它与 $\lambda$-演算这一计算装置紧密相关。
 
@@ -104,7 +104,7 @@ Andreoli（1992）给出一个关于无切证明结构的重要范式定理。�
 
 这些都能用超图形式化（公式是结点，“连线”是带假设与结论的有向超边）；于是证明网可形式地定义为由 MLL 矢列推导归纳构造的超图。注意大量超图并非证明网。
 
-现在看：从 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 出发，得到 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的推导，其证明网里规则施用次序的痕迹全没了。可以说，证明网就是矢列演算推导在“施用次序可交换的规则”下的等价类。
+现在看：从 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 出发，得到 $\vdash \Gamma , (A_1\mathrel{\unicode{x214b}} A_2), \ldots ,(A_{n-1}\mathrel{\unicode{x214b}} A_n)$ 的推导，其证明网里规则施用次序的痕迹全没了。可以说，证明网就是矢列演算推导在“施用次序可交换的规则”下的等价类。
 
 假设有人拿来一个由公理、切、par、张量连线搭成的巨大超图，声称它表示某个证明。你怎么验证它真是证明的表示，而不只是个随便的结构？
 
@@ -130,7 +130,7 @@ MLL 证明网的另一类正确性判据见 Retoré（2003），他为 MLL 给�
 - 收缩 ![收缩构造](../assets/logic-linear/Contraction.jpg)
 - 弱化 ![弱化构造](../assets/logic-linear/Weakening.jpg)
 - 废弃 ![废弃构造](../assets/logic-linear/Dereliction.jpg)
-- 提升，引入“箱”的概念——箱是围绕证明网某一部分的序列化标记，图里表现为画在结论为 $A$ 与 $\quest\Gamma$ 的证明网四周的矩形。![提升构造](../assets/logic-linear/Promotion.jpg)
+- 提升，引入“箱”的概念——箱是围绕证明网某一部分的序列化标记，图里表现为画在结论为 $A$ 与 $\mathop{?}\Gamma$ 的证明网四周的矩形。![提升构造](../assets/logic-linear/Promotion.jpg)
 
 这些构造及配套的图归约，与带显式替换的 $\lambda$-演算惊人地相似（Di Cosmo 与 Kesner 1997 首先指出），但也太像相应的矢列演算规则。MLL 里那种优雅的并行化效应，到这里就续不上了：图归约规则涉及箱，又不局部。
 
@@ -197,7 +197,7 @@ MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL
 
 线性逻辑显身手的另一处是 **最优归约**。为 $\lambda$-演算造高效（最优）解释器的问题，自 J.J. Lévy 最初定义后悬了很久，1990 年由 Lamping 首次解决：他用了精巧的共享图实现，规则数目相当可观。不少作者借线性逻辑的观念与直觉重建 Lamping 的解法，将其简化，引出与交互几何相连的丰富理论。进阶阅读可看 Asperti & Guerrini 1998。
 
-线性逻辑对直觉主义逻辑的精细改造，加上它自身的对偶，提供了这样一个框架：函数与环境是相互对偶作用的同类实体。类型 $A \limp B$ 的函数，可建模为一个过程：从环境消耗一个 $A$ 型值，变为 $B$ 型值。线性逻辑中该蕴涵等价于逆否形式：$B^{\bot} \limp A^{\bot}$ 可把同一函数解释成一个过程，其中对 $B$ 型值的需求变成对 $A$ 型值的需求（直觉主义类型下不会如此：输入参数可能形同虚设）（Curien 2003）[^curien-2003]。近来博弈语义为函数式计算建模的成功，同样系于函数与环境的对偶处理（Abramsky and Jagadeesan 1994, Hyland & Ong 2000）[^abramsky-1994][^hyland-2000]。
+线性逻辑对直觉主义逻辑的精细改造，加上它自身的对偶，提供了这样一个框架：函数与环境是相互对偶作用的同类实体。类型 $A \mathbin{-\hspace{-0.70mm}\circ} B$ 的函数，可建模为一个过程：从环境消耗一个 $A$ 型值，变为 $B$ 型值。线性逻辑中该蕴涵等价于逆否形式：$B^{\bot} \mathbin{-\hspace{-0.70mm}\circ} A^{\bot}$ 可把同一函数解释成一个过程，其中对 $B$ 型值的需求变成对 $A$ 型值的需求（直觉主义类型下不会如此：输入参数可能形同虚设）（Curien 2003）[^curien-2003]。近来博弈语义为函数式计算建模的成功，同样系于函数与环境的对偶处理（Abramsky and Jagadeesan 1994, Hyland & Ong 2000）[^abramsky-1994][^hyland-2000]。
 
 最后一点：在把计算编码为证明规范化的领域，线性逻辑曾用来给多项式时间递归函数作基于类型的描述。比如 M. Hofmann（2003）引入带模态类型与线性类型的 $\lambda$-演算，把 Bellantoni & Cook 1992 的函数代数推到高阶类型。基于线性逻辑的类型也进了函数式程序：见 Guzman & Hudak 1990、Wadler 1991。
 
@@ -205,19 +205,19 @@ MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL
 
 **证明搜索** 进路把计算状态看作矢列（公式的有结构集合），把计算过程看作在矢列中搜索证明：其间变化刻画计算的动态。这样看计算，推理规则一般自下而上读，即当作把结论变成前提的变换。逻辑编程可以拿证明搜索作理论基础来解释；线性逻辑为这条规格说明之路添了新组合子、新手段与新陈述进路：构造逻辑程序、刻画丰富动态、规定并发计算。（线性逻辑编程语言概览见 Miller 2004。）[^miller-2004]
 
-聚焦证明系统的完全性，可用在线性逻辑内部为逻辑编程的部分操作语义作陈述性解释。例如取线性逻辑公式的子集 $L$，只由 $\top$、&、$\limp , \Rightarrow$、$\forall$ 构造。（若再加入 $\bot$，线性逻辑全部联结词都可编码。）可以看出，$L$ 中的无切证明搜索分两阶段。给定矢列 $\Gamma$; $\Delta \vdash G$：$\Gamma$ 是公式集（可收缩、可弱化），$\Delta$ 是公式多重集（不可收缩、不可弱化），$G$（“目标”公式）是单个公式，三者都出自 $L$。证明搜索如下：
+聚焦证明系统的完全性，可用在线性逻辑内部为逻辑编程的部分操作语义作陈述性解释。例如取线性逻辑公式的子集 $L$，只由 $\top$、&、$\mathbin{-\hspace{-0.70mm}\circ} , \Rightarrow$、$\forall$ 构造。（若再加入 $\bot$，线性逻辑全部联结词都可编码。）可以看出，$L$ 中的无切证明搜索分两阶段。给定矢列 $\Gamma$; $\Delta \vdash G$：$\Gamma$ 是公式集（可收缩、可弱化），$\Delta$ 是公式多重集（不可收缩、不可弱化），$G$（“目标”公式）是单个公式，三者都出自 $L$。证明搜索如下：
 
 1. $G$ 非原子时，只能用某条右引入规则得出该矢列。就这组联结词而言右规则都可逆，这个 **目标归约** 阶段正对应聚焦证明的异步阶段。
 2. $G$ 为原子时，证明搜索从左侧语境 **判定** 选出单个公式。
 3. 一旦选出 **焦点** 公式，所有左引入规则便只施于它及其产生的正子公式。这个 **反向链接** 阶段对应聚焦证明构造的异步阶段。
 
-形式地，这些阶段用下列推理规则描述。这里引入一种新的矢列箭头，以某条左引入规则的结果公式为标记。注意 $\limp$ 的左引入规则（自下而上读）要求把 $\Delta$ 语境一分为二：$\Delta_1,\Delta_2$。若该语境有 $n \ge 0$ 个不同公式，划分自然有 $2^n$ 种。规则中的句法变元 $A$ 取原子公式。
+形式地，这些阶段用下列推理规则描述。这里引入一种新的矢列箭头，以某条左引入规则的结果公式为标记。注意 $\mathbin{-\hspace{-0.70mm}\circ}$ 的左引入规则（自下而上读）要求把 $\Delta$ 语境一分为二：$\Delta_1,\Delta_2$。若该语境有 $n \ge 0$ 个不同公式，划分自然有 $2^n$ 种。规则中的句法变元 $A$ 取原子公式。
 
-**目标归约阶段** $$ \frac{} {\Gamma;\Delta \vdash \top}\ \top R \qquad \frac{\Gamma;\Delta \vdash B \qquad \Gamma;\Delta \vdash C} {\Gamma;\Delta \vdash B \amp C}\ {\amp}R $$ $$\frac{\Gamma;\Delta, B \vdash C} {\Gamma;\Delta \vdash B \limp C}\ \limp R \qquad \frac{\Gamma,B ;\Delta \vdash C} {\Gamma;\Delta \vdash B \Rightarrow C}\ {\Rightarrow}R \qquad \frac{\Gamma;\Delta \vdash B[y/x]} {\Gamma;\Delta \vdash \forall x. B}\ \forall R $$
+**目标归约阶段** $$ \frac{} {\Gamma;\Delta \vdash \top}\ \top R \qquad \frac{\Gamma;\Delta \vdash B \qquad \Gamma;\Delta \vdash C} {\Gamma;\Delta \vdash B \mathbin{\&} C}\ {\mathbin{\&}}R $$ $$\frac{\Gamma;\Delta, B \vdash C} {\Gamma;\Delta \vdash B \mathbin{-\hspace{-0.70mm}\circ} C}\ \mathbin{-\hspace{-0.70mm}\circ} R \qquad \frac{\Gamma,B ;\Delta \vdash C} {\Gamma;\Delta \vdash B \Rightarrow C}\ {\Rightarrow}R \qquad \frac{\Gamma;\Delta \vdash B[y/x]} {\Gamma;\Delta \vdash \forall x. B}\ \forall R $$
 
-**反向链接阶段** $$ \frac{\Gamma;\Delta \lvdash{D_1} A} {\Gamma;\Delta \lvdash{D_1\amp D_2}\, A} \ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D_2} A} {\Gamma;\Delta \lvdash{D_1\amp D_2} A}\ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D[t/x]} A} {\Gamma;\Delta \lvdash{\forall_{\tau}x.D} A}\ \forall L $$ $$\frac{\Gamma;\Delta_1 \vdash G \quad \Gamma;\Delta_2 \lvdash{D} A} {\Gamma;\Delta_1,\Delta_2 \lvdash{G\limp D} A} \ {\limp}L \qquad \frac{\Gamma;\cdot \vdash G \quad \Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta \lvdash{G\Rightarrow D} A}\ {\Rightarrow}L $$
+**反向链接阶段** $$ \frac{\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D_1\,}}}\; A} {\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D_1\mathbin{\&} D_2\,}}}\;\, A} \ {\mathbin{\&}}L \qquad \frac{\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D_2\,}}}\; A} {\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D_1\mathbin{\&} D_2\,}}}\; A}\ {\mathbin{\&}}L \qquad \frac{\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D[t/x]\,}}}\; A} {\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,\forall_{\tau}x.D\,}}}\; A}\ \forall L $$ $$\frac{\Gamma;\Delta_1 \vdash G \quad \Gamma;\Delta_2 \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D\,}}}\; A} {\Gamma;\Delta_1,\Delta_2 \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,G\mathbin{-\hspace{-0.70mm}\circ} D\,}}}\; A} \ {\mathbin{-\hspace{-0.70mm}\circ}}L \qquad \frac{\Gamma;\cdot \vdash G \quad \Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D\,}}}\; A} {\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,G\Rightarrow D\,}}}\; A}\ {\Rightarrow}L $$
 
-**同一性与判定规则** $$ \frac{\Gamma,D;\Delta \lvdash{D} A} {\Gamma,D;\Delta \vdash A}\ \textit{decide}{!} \qquad \frac{\Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta,D \vdash A}\ \textit{decide} \qquad \frac{} {\Gamma;\cdot \lvdash{A} A}\ \textit{init} $$
+**同一性与判定规则** $$ \frac{\Gamma,D;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D\,}}}\; A} {\Gamma,D;\Delta \vdash A}\ \textit{decide}{!} \qquad \frac{\Gamma;\Delta \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,D\,}}}\; A} {\Gamma;\Delta,D \vdash A}\ \textit{decide} \qquad \frac{} {\Gamma;\cdot \mathbin{|\hspace{-0.70mm}\raise 2mm {\scriptstyle\underline{\,A\,}}}\; A}\ \textit{init} $$
 
 限制在 $L$ 上的线性逻辑，可视为一种线性逻辑编程语言，从而充当计算系统的规格说明语言——Petri 网、进程演算、$\lambda$-演算也干这活。线性逻辑既有证明论又有各种语义，其元理论便为 $L$ 中规定的计算提供了宽广的推理道路。
 
@@ -227,9 +227,9 @@ MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL
 
 ### 6.1 模态词的不同处理
 
-传统矢列演算表述里，指数不是典范的：再引入一份规则相同的指数，比如 $\bang'$ 与 $\quest'$，竟无法证明 $\bang$ 等价于 $\bang'$、$\quest$ 等价于 $\quest'$；别的联结词则容易做到。非典范指数的应用见（Danos et. al., 1993; Nigam & Miller, 2009）。MELL 可判定性眼下还有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，但把 MLL 用三对 $\bang$、$\quest$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
+传统矢列演算表述里，指数不是典范的：再引入一份规则相同的指数，比如 $\mathop{!}'$ 与 $\mathop{?}'$，竟无法证明 $\mathop{!}$ 等价于 $\mathop{!}'$、$\mathop{?}$ 等价于 $\mathop{?}'$；别的联结词则容易做到。非典范指数的应用见（Danos et. al., 1993; Nigam & Miller, 2009）。MELL 可判定性眼下还有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，但把 MLL 用三对 $\mathop{!}$、$\mathop{?}$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
 
-切消除会让经典逻辑、直觉主义逻辑的证明膨胀到极大，这可以按证明系统里收缩规则的使用来分析。若对收缩设限，就可能设计出切消除复杂性大幅降低的新逻辑、新证明系统。比如 **初等线性逻辑**（ELL），把 $\bang$ 与 $\quest$ 的引入换成一条同时引入 $\bang$ 与 $\quest$ 的规则；于是 ELL 恰好编码全体 Kalmar 初等函数（可在高度固定的指数塔所界时间内计算）（Girard 1998, Baillot 2015）[^baillot-2015][^girard-1998]。指数规则的其他变体也有人研究，如 **轻线性逻辑**（Girard 1998）[^girard-1998] 与 **软线性逻辑**（Lafont 2004）[^lafont-2004] 都刻画多项式时间可计算函数：另见（Baillot & Terui 2004）[^baillot-2004]。
+切消除会让经典逻辑、直觉主义逻辑的证明膨胀到极大，这可以按证明系统里收缩规则的使用来分析。若对收缩设限，就可能设计出切消除复杂性大幅降低的新逻辑、新证明系统。比如 **初等线性逻辑**（ELL），把 $\mathop{!}$ 与 $\mathop{?}$ 的引入换成一条同时引入 $\mathop{!}$ 与 $\mathop{?}$ 的规则；于是 ELL 恰好编码全体 Kalmar 初等函数（可在高度固定的指数塔所界时间内计算）（Girard 1998, Baillot 2015）[^baillot-2015][^girard-1998]。指数规则的其他变体也有人研究，如 **轻线性逻辑**（Girard 1998）[^girard-1998] 与 **软线性逻辑**（Lafont 2004）[^lafont-2004] 都刻画多项式时间可计算函数：另见（Baillot & Terui 2004）[^baillot-2004]。
 
 ### 6.2 非交换线性逻辑
 

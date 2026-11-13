@@ -292,19 +292,19 @@ $$\lambda P\lambda a\lambda a' \cdot \exists x(\textrm{man }x \wedge Pu_i (u_i \
 
 外延蒙塔古语法的基本类型为 e 与 t；DMG 的基本类型则是 $e, t$ 与 $m (m$ 即标记 marker）。状态为标记挑出实体，故可视为类型 $m \rightarrow e$ 的对象。把 $m \rightarrow e$ 缩写为 $s$（即“状态” state），类型 $s \rightarrow s \rightarrow t$ 的对象便称为状态转移。“a man” 的 DMG 翻译中，变元 $P$ 的类型为 $m \rightarrow s \rightarrow s \rightarrow t$：VP 意义的类型由此从 $e \rightarrow t$ 提升到这一类型。注意 $\rightarrow$ 向右结合，故 $m \rightarrow s \rightarrow s \rightarrow t$ 是 $m \rightarrow(s \rightarrow(s \rightarrow t))$ 的简写。诚然，DMG 可以看作一次系统性替换的结果——实体换成标记，真值换成状态转移。“is happy”（快乐）的 VP 意义是一个把标记映到状态转移的函数：标记 $u_i$ 的状态转移检查输入状态是否把 $u_i$ 映到一个快乐的实体，并检查输出语境是否等于输入语境。变元 $a$、*a$'$* 遍历状态；表达式 $(u_i \mid x)a$ 表示把 $a$ 中 $u_i$ 的值重置为 $x$ 的结果——$u_i$ 的旧值就此销毁（破坏性指派）。指称标记 $u_i$ 上的回指索引 $i$ 由翻译引入；事实上，翻译正是从带索引的不定名词短语 “a man$_i$” 出发。蒙塔古式组合性与动态语义的联系，连同基本的蒙塔古要素与动态要素，在 Muskens 1991, 1995, 1996 提出的类型化变化逻辑（Logic of Change）中要透明流畅得多。正因如此，Muskens 的组合性 DRT 很可能已成为当前组合性动态语义研究的事实标准与出发点。另一种处理由增量类型逻辑（ITL）给出——它是类型化逻辑的“栈语义”扩展，基于无变元索引，避开破坏性指派问题。Vermeulen 1993 发展的 DPL 栈语义，基本想法是用栈式指派替换普通 DPL 的破坏性指派（后者在重置时丢弃旧值），让旧值得以重用：栈式指派给每个变元指派一个值栈，栈顶即当前值；存在量化把新值压入栈，也可弹出栈以重用先前指派的值。Eijck 2000 的 ITL 实为栈语义的类型化版本，用的是单个栈。
 
-设定一个实体论域，语境便是实体的有限列表。若 $c$ 是长度为 $n$ 的语境，其元素记作 $c[0]$, $\ldots ,c[n-1]$，其长度记作 $\lvert c\rvert$。长度为 $i$ 的语境之类型记作 $[e]^i$。若 $c$ 属于 $[e]^i$，则 $\{0, \ldots ,i-1\}$ 型对象可充当 $c$ 的索引。若 $c \in[e]^i$ 且 $j \in \{0, \ldots ,i-1\}$，则 $c[j]$ 是语境中位置 $j$ 处那个类型为 e 的对象。语境上的一项关键操作是用元素作扩展：若 $c :: [e]^i$ 且 $x :: e$（$c$ 为长度 $i$ 的语境，$x$ 为实体），则 $c\mcaret x$ 是长度 $i+1$ 的语境，元素为 $c$[0], $\ldots ,c[i-1], x$。于是 $\mcaret$ 是类型为 $[e]^i \rightarrow e \rightarrow[e]^{i+1}$ 的算子。还要注意：像 $[e]^i$ 这样的类型实为多态类型，$i$ 起类型变元的作用。参见 Milner 1978。
+设定一个实体论域，语境便是实体的有限列表。若 $c$ 是长度为 $n$ 的语境，其元素记作 $c[0]$, $\ldots ,c[n-1]$，其长度记作 $\lvert c\rvert$。长度为 $i$ 的语境之类型记作 $[e]^i$。若 $c$ 属于 $[e]^i$，则 $\{0, \ldots ,i-1\}$ 型对象可充当 $c$ 的索引。若 $c \in[e]^i$ 且 $j \in \{0, \ldots ,i-1\}$，则 $c[j]$ 是语境中位置 $j$ 处那个类型为 e 的对象。语境上的一项关键操作是用元素作扩展：若 $c :: [e]^i$ 且 $x :: e$（$c$ 为长度 $i$ 的语境，$x$ 为实体），则 $c\mathbin{{}^{\wedge}} x$ 是长度 $i+1$ 的语境，元素为 $c$[0], $\ldots ,c[i-1], x$。于是 $\mathbin{{}^{\wedge}}$ 是类型为 $[e]^i \rightarrow e \rightarrow[e]^{i+1}$ 的算子。还要注意：像 $[e]^i$ 这样的类型实为多态类型，$i$ 起类型变元的作用。参见 Milner 1978。
 
 ITL 中没有破坏性指派，不定名词短语在句法上也不携带索引。“a man” 的 ITL 翻译从语境拾取索引，如下所示：
 
-$$\lambda P\lambda c\lambda c' \cdot \exists x (\textrm{man } x \mcaret P\lvert c\rvert (c^x)c').$$
+$$\lambda P\lambda c\lambda c' \cdot \exists x (\textrm{man } x \mathbin{{}^{\wedge}} P\lvert c\rvert (c^x)c').$$
 
 此处 $P$ 是类型为 $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$ 的变元；$c$ 是类型 [$e]^i$ 的变元，代表长度 $i$ 的输入语境；$c'$ 是类型 [$e]^j$ 的变元，代表输出语境。注意：$P$ 的类型 $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ 表明，$P$ 先取范围 $\{0, \ldots ,i\}$ 内的一个索引，再取一个适配该范围的语境（长度 $i+1$），再取一个长度未知的语境，然后给出真值。$P$ 是一元谓词的类型，提升到语境改变者的层面，方式如下。提升谓词不用变元遍历对象来构造类型 $e$ 的表达式，而用变元遍历输入语境的尺寸，构造出一个指称该语境改变者的表达式。
 
-“a man” 的 ITL 翻译具有类型 $$(\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t) \rightarrow [e]^i \rightarrow [e]^j \rightarrow t.$$ 在 $P\lvert c\rvert (c\mcaret x)c'$ 中，变元 $P$ 标记 VP 解释的槽位；$\lvert c\rvert$ 把输入语境的长度交给 $P$，拾取值 $i$——语境扩展时下一个可用槽位的位置。该槽位由一个指称男人的对象 $x$ 填充。注意 $c\mcaret x[\lvert c\rvert ] = c\mcaret x[i] = x$：索引 $i$ 正是从语境中挑出该男人的凭据。
+“a man” 的 ITL 翻译具有类型 $$(\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t) \rightarrow [e]^i \rightarrow [e]^j \rightarrow t.$$ 在 $P\lvert c\rvert (c\mathbin{{}^{\wedge}} x)c'$ 中，变元 $P$ 标记 VP 解释的槽位；$\lvert c\rvert$ 把输入语境的长度交给 $P$，拾取值 $i$——语境扩展时下一个可用槽位的位置。该槽位由一个指称男人的对象 $x$ 填充。注意 $c\mathbin{{}^{\wedge}} x[\lvert c\rvert ] = c\mathbin{{}^{\wedge}} x[i] = x$：索引 $i$ 正是从语境中挑出该男人的凭据。
 
 要说明动态高阶系统可在 ITL 中表达，只需展示相应动态算子如何定义。设 $\phi$ 与 $\psi$ 的类型为语境转移，即 [$e] \rightarrow[e] \rightarrow t$（以 [$e$] 表示任意语境），$c, c', c''$ 的类型为 [$e$]。则动态存在量词、动态否定与动态复合可定义如下：
 
-$$ \begin{align*} \cal{E} & := \lambda cc'\cdot \exists x(c \mcaret x = c') \\ {\sim}\phi & := \lambda cc'\cdot (c = c' \mcaret \neg \exists c'' \phi cc'') \\ \phi ; \psi & := \lambda cc'\cdot \exists c''(\phi cc'' \mcaret \psi cc') \end{align*} $$
+$$ \begin{align*} \cal{E} & := \lambda cc'\cdot \exists x(c \mathbin{{}^{\wedge}} x = c') \\ {\sim}\phi & := \lambda cc'\cdot (c = c' \mathbin{{}^{\wedge}} \neg \exists c'' \phi cc'') \\ \phi ; \psi & := \lambda cc'\cdot \exists c''(\phi cc'' \mathbin{{}^{\wedge}} \psi cc') \end{align*} $$
 
 动态蕴涵 $\Rightarrow$ 依常法由 ${\sim}(\phi; {\sim}\psi)$ 定义。
 

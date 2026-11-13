@@ -30,7 +30,7 @@ Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻�
 
 **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1–A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”两概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
 
-图 1.
+图 1
 
 **理论 A**
 
@@ -50,7 +50,7 @@ Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻�
 
 $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
 
-图 1。
+图 1
 
 Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
 
@@ -58,7 +58,7 @@ Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否�
 
 理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
 
-图 2。
+图 2
 
 **理论 B**
 
@@ -67,7 +67,7 @@ Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否�
 
 $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
 
-图 2。
+图 2
 
 理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为单义展开与多义展开。
 
@@ -126,7 +126,7 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
-图 3。
+图 3
 
 von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上表 $V_4$ 所示例示的析取分配原理。
 
@@ -211,7 +211,7 @@ $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \la
 
 公理 P1, P2, P3, P4
 
-图 5。
+图 5
 
 此外，Van Dalen 证明所有系统都有有穷模型性质且可判定。他还以“善”“恶”“中立”的一元算子扩充该语言，并考虑嵌套的偏好陈述。Chisholm 与 Sosa（1966）等其他作者则考虑这类偏好逻辑的一阶扩充。
 
@@ -250,7 +250,7 @@ $\mathcal{M}, w \models E\varphi$    当且仅当有 $v, \mathcal{M}, v \model
 * $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
 * $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
 
-图 6。
+图 6
 
 ### 3.3 偏好提升
 
@@ -264,12 +264,12 @@ $\mathcal{M}$, $w \models U \varphi$    当且仅当对任意 v，$\mathcal{
 
 有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
 
-$$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
+$$\varphi\geq^{\forall\exists}\psi \mathbin{\,:=\,} U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
 
 我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与该 $\varphi$-世界同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
 
-1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
-2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
+1. $\varphi\geq^{\forall\exists}\psi \mathbin{\,:=\,} U(\varphi\rightarrow\langle\geq\rangle\psi)$
+2. $\varphi\geq^{\exists\exists}\psi \mathbin{\,:=\,} E(\varphi\land\langle\geq\rangle\psi)$
 
 Van Benthem、Girard 与 Roy（2009）论证：其余条件相同下的 $\geq^{\forall\forall}$ 表示 von Wright（1963）在其偏好逻辑开创性著作中所意指的“偏好”概念，并为其提供公理化。其余条件相同的偏好逻辑将在第 6 节讨论。
 
@@ -279,7 +279,7 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 
 给定偏好模型 $\mathcal{M}=(W, \succeq, V)$，偏好公式解释如下：
 
-> $\mathcal{M} \models \varphi > \psi$ 当且仅当 $\llbracket \varphi \rrbracket _{\mathcal{M}}$ 非空，且 $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$：$u\succ v$，且 u 支配 $\llbracket \psi \rrbracket _{\mathcal{M}}$
+> $\mathcal{M} \models \varphi > \psi$ 当且仅当 $\mathopen{[\![} \varphi \mathclose{]\!]} _{\mathcal{M}}$ 非空，且 $\forall v \in \mathopen{[\![} \psi \mathclose{]\!]} _{\mathcal{M}}\exists u \in \mathopen{[\![} \varphi \mathclose{]\!]} _{\mathcal{M}}$：$u\succ v$，且 u 支配 $\mathopen{[\![} \psi \mathclose{]\!]} _{\mathcal{M}}$
 
 其中 u 支配 V，当且仅当不存在 $v' \in V$ 使 $v'\succ u$。
 
@@ -296,13 +296,13 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 5. Gen. 对一切命题重言式取 $U\varphi,$
 6. MP. 由 $\varphi$ 与 $\varphi\rightarrow\psi$ 推出 $\psi$。
 
-图 7。
+图 7
 
 Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
 
-$$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
+$$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \mathopen{[\![}\varphi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\psi\mathclose{]\!]}_w : x \succeq_w y; \\ (2) \ \forall x \in \mathopen{[\![}\psi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\varphi\mathclose{]\!]}_w : y \succeq_w x \end{cases}$$
 
-其中 $\llbracket\varphi\rrbracket_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
+其中 $\mathopen{[\![}\varphi\mathclose{]\!]}_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
 
 ## 4 基于理由的偏好
 

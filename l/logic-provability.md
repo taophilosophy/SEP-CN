@@ -12,17 +12,17 @@
 
 另一条脉络始于元数学研究：数学理论通过编码有趣的性质，能对自身说些什么？1952 年，亨金（L. Henkin）受哥德尔不完备性定理启发，提出一个看似简单的问题。为表述亨金的问题，需要一些背景。回顾一下：哥德尔第一不完备性定理说，对像皮亚诺算术这样足够强的形式理论而言，任何断言自身不可证的句子事实上不可证。另一方面，从形式理论“外部”可以看出：这样的句子在标准模型中为真——这指出了真与可证之间的一个重要区分。
 
-更形式化地说，令 $\ulcorner A \urcorner$ 表示算术公式 $A$ 的哥德尔数，即给 $A$ 指派数值代码的结果。令 $\Prov$ 表示皮亚诺算术的形式化可证性谓词，其形式为 $\exists p \, \Proof(p,x)$。这里 $\Proof$ 是皮亚诺算术的形式化证明谓词，$\Proof(p,x)$ 表示“哥德尔数 $p$ 为以哥德尔数 $x$ 编码的公式编码了一个出自皮亚诺算术公理的正确证明”。（更精确的表述见 Smoryński (1985), Davis (1958)。）现在假设皮亚诺算术证明 $A \leftrightarrow \neg$ $\Prov (\ulcorner A \urcorner)$，那么由哥德尔的结果，$A$ 在皮亚诺算术中不可证，因而为真——因为自指句子 $A$ 说的正是“我不可证”。
+更形式化地说，令 $\ulcorner A \urcorner$ 表示算术公式 $A$ 的哥德尔数，即给 $A$ 指派数值代码的结果。令 ${\textsf{Prov}}$ 表示皮亚诺算术的形式化可证性谓词，其形式为 $\exists p \, {\textsf{Proof}}(p,x)$。这里 ${\textsf{Proof}}$ 是皮亚诺算术的形式化证明谓词，${\textsf{Proof}}(p,x)$ 表示“哥德尔数 $p$ 为以哥德尔数 $x$ 编码的公式编码了一个出自皮亚诺算术公理的正确证明”。（更精确的表述见 Smoryński (1985), Davis (1958)。）现在假设皮亚诺算术证明 $A \leftrightarrow \neg$ ${\textsf{Prov}} (\ulcorner A \urcorner)$，那么由哥德尔的结果，$A$ 在皮亚诺算术中不可证，因而为真——因为自指句子 $A$ 说的正是“我不可证”。
 
-亨金则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow \Prov(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了亨金的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 $\Prov(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，立即回答了亨金的问题。（Löb 定理的证明见第 4 节。）Löb 还给出其定理的形式化版本，即皮亚诺算术证明
+亨金则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow {\textsf{Prov}}(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了亨金的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 ${\textsf{Prov}}(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，立即回答了亨金的问题。（Löb 定理的证明见第 4 节。）Löb 还给出其定理的形式化版本，即皮亚诺算术证明
 
-$$ \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ). $$
+$$ {\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner B \urcorner ). $$
 
-正是在同一篇论文中，Löb 为皮亚诺算术的可证性谓词表述了三个条件——相较于 Hilbert 与 Bernays 在 1939 年为证明哥德尔第二不完备性定理而引入的那组复杂条件，这是一处有用的修改。下文中，从皮亚诺算术推出 $A$ 记作 $\PA \vdash A$：
+正是在同一篇论文中，Löb 为皮亚诺算术的可证性谓词表述了三个条件——相较于 Hilbert 与 Bernays 在 1939 年为证明哥德尔第二不完备性定理而引入的那组复杂条件，这是一处有用的修改。下文中，从皮亚诺算术推出 $A$ 记作 $\mbox{PA} \vdash A$：
 
-1. 若 $\PA \vdash A$，则 $\PA \vdash \Prov(\ulcorner A \urcorner )$；
-2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
-3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
+1. 若 $\mbox{PA} \vdash A$，则 $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A \urcorner )$；
+2. $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A\rightarrow B\urcorner) \rightarrow ( {\textsf{Prov}}(\ulcorner A \urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner B \urcorner ));$
+3. $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A \urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner A \urcorner ) \urcorner ).$
 
 这些如今所谓的 Löb 条件，似乎呼唤一次模态逻辑式的考察，其中模态词 $\Box$ 表示 PA 中的可证性。讽刺的是，Löb 定理的形式化版本第一次作为模态原则
 
@@ -32,7 +32,7 @@ $$ \Box(\Box A \rightarrow A) \rightarrow \Box A $$
 
 ## 2 命题可证性逻辑的公理系统
 
-命题可证性逻辑的语言，除命题原子、通常的真值函项算子以及矛盾符号 $\bot$ 外，还含有一个模态算子 $\Box$。这一算子的意向含义是“在 $T$ 中可证”，其中 $T$ 是足够强的形式理论——比如皮亚诺算术（见第 4 节）。$\Diamond A$ 是 $\neg\,\Box\neg\, A$ 的缩写。因此，该语言与模态逻辑词条中 K、S4 等系统的语言相同。
+命题可证性逻辑的语言，除命题原子、通常的真值函项算子以及矛盾符号 $\bot$ 外，还含有一个模态算子 $\Box$。这一算子的意向含义是“在 $T$ 中可证”，其中 $T$ 是足够强的形式理论——比如皮亚诺算术（见第 4 节）。$\unicode{x2B26} A$ 是 $\neg\,\Box\neg\, A$ 的缩写。因此，该语言与模态逻辑词条中 K、S4 等系统的语言相同。
 
 ### 2.1 公理与规则
 
@@ -46,9 +46,9 @@ $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow
 
 此外，它在分离规则下封闭——该规则允许从 $A \rightarrow B$ 与 $A$ 导出 $B$；也在概括规则下封闭——后者说：若 $A$ 是 GL 的定理，则 $\Box A$ 亦然。
 
-记号 $\GL \vdash A$ 表示模态公式 $A$ 在命题可证性逻辑中的可证性。不难看出，模态公理 $\Box A \rightarrow \Box\Box A$（即模态逻辑的公理 4）确实在 GL 中可证。为证此，可在公理 (GL) 中以 $A \wedge \Box A$ 代入 $A$。看到所得蕴涵式的前件可从 $\Box A$ 得出后，再应用分配公理与概括规则以及一些命题逻辑即可。
+记号 $\mbox{GL} \vdash A$ 表示模态公式 $A$ 在命题可证性逻辑中的可证性。不难看出，模态公理 $\Box A \rightarrow \Box\Box A$（即模态逻辑的公理 4）确实在 GL 中可证。为证此，可在公理 (GL) 中以 $A \wedge \Box A$ 代入 $A$。看到所得蕴涵式的前件可从 $\Box A$ 得出后，再应用分配公理与概括规则以及一些命题逻辑即可。
 
-注意 GL 证明许多出乎意料的定理，它们并不为 K、S4 等其他著名模态逻辑所共享。例如，公理 GL 的一个实例是 $\Box(\Box\bot \rightarrow \bot) \rightarrow \Box\bot$，由其他公理与规则可从它推出：对任意公式 $A$ 与 $B$ 都有 $\Box\Diamond A \rightarrow \Box B$。[^note-1] 除非另有明确说明，下文中的“可证性逻辑”指命题可证性逻辑的系统 GL。
+注意 GL 证明许多出乎意料的定理，它们并不为 K、S4 等其他著名模态逻辑所共享。例如，公理 GL 的一个实例是 $\Box(\Box\bot \rightarrow \bot) \rightarrow \Box\bot$，由其他公理与规则可从它推出：对任意公式 $A$ 与 $B$ 都有 $\Box\unicode{x2B26} A \rightarrow \Box B$。[^note-1] 除非另有明确说明，下文中的“可证性逻辑”指命题可证性逻辑的系统 GL。
 
 至于可证性逻辑的 **证明论**，Valentini（1983）证明 GL 的一个标准相继式演算表述服从 **切割消除**。粗略地说，这意味着每个在相继式演算中从 GL 可证的公式都有一个“无绕行”的 GL 相继式证明（切割消除的精确解释见证明论之发展词条）。近年，GL 的证明论重新受到关注，例如 Goré 与 Ramanayake（2008, 2012）以及 Goré、Ramanayake 与 Shillito（2021）。切割消除为 GL 带来理想的 **子公式性质**：无切割证明中出现的所有公式都是末端相继式公式的子公式。
 
@@ -60,13 +60,13 @@ $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow
 
 关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p)$ 中，且
 
-$$ \GL \vdash B \leftrightarrow A(B). $$
+$$ \mbox{GL} \vdash B \leftrightarrow A(B). $$
 
-这个公式 $B$ 称为 $A(p)$ 的一个 **不动点**。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $ \GL \vdash C \leftrightarrow A(C)$，则必有 $ \GL \vdash B \leftrightarrow C$。文献中的大多数证明都给出可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
+这个公式 $B$ 称为 $A(p)$ 的一个 **不动点**。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $ \mbox{GL} \vdash C \leftrightarrow A(C)$，则必有 $ \mbox{GL} \vdash B \leftrightarrow C$。文献中的大多数证明都给出可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
 
 例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可证
 
-$$ \GL \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
+$$ \mbox{GL} \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
 
 若对此作算术解读，从左到右的方向正是哥德尔第二不完备性定理的形式化版本：若像皮亚诺算术这样足够强的形式理论 $T$ 不证明矛盾，则在 $T$ 中不可证“$T$ 不证明矛盾”。因此，足够强的一致算术理论无法证明自身的一致性。我们将在第 4 节更精确地考察可证性逻辑与算术的关系，但为此需先给出 GL 的另一个“模态”面向：语义学。
 
@@ -112,17 +112,17 @@ GL 的算术意义尚无人知晓时，K. Segerberg 就于 1971 年证明 GL 相
 
 作为反例，取无穷公式集
 
-$$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
+$$\begin{align} \Gamma &= \{\unicode{x2B26} p_0, \Box(p_0 \rightarrow \unicode{x2B26} p_1), \Box(p_1 \rightarrow \unicode{x2B26} p_2), \Box(p_2 \rightarrow \unicode{x2B26} p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \unicode{x2B26} p_{n+1}), \ldots\} \end{align}$$
 
 于是对 $\Gamma$ 的每个有穷子集 $\Delta$，都可以在传递逆良基框架上构造一个模型，以及模型中 $\Delta$ 的所有公式都为真的一个世界。因此由模态可靠性，对任何有穷 $\Delta \subseteq \Gamma$，GL 不能从 $\Delta$ 证明 $\bot$；**更不用说** 从 $\Gamma$ 证明 $\bot$——因为任何 GL 证明都是有穷的。另一方面，容易看出：不存在传递逆良基框架上的模型，使得在某个世界中 $\Gamma$ 的所有公式都成立。于是 $\bot$ 语义上由 $\Gamma$ 得出，却不能在 GL 中从它证明——这与强完全性的条件相矛盾。[^note-2]
 
 ### 3.4 可证性逻辑的拓扑语义
 
-作为可能世界语义的替代，许多模态逻辑可以赋予拓扑语义。显然，命题可解释为拓扑空间的子集。同样容易看出：命题联结词 $\wedge$ 对应集合论运算 $\cap$，$\vee$ 对应 $\cup$，$\neg$ 对应集合论补，$\rightarrow$ 对应 $\subseteq$。包含反射公理 $\Box A \rightarrow A$ 的模态逻辑，其模态算子也有特别自然的解释：对这些逻辑，$\Diamond$ 对应拓扑空间中的闭包算子，而 $\Box$ 对应内部。为看出这些解释为何合适，注意反射公理对应于这样的事实：每个集合包含于其闭包，且每个集合包含其内部。
+作为可能世界语义的替代，许多模态逻辑可以赋予拓扑语义。显然，命题可解释为拓扑空间的子集。同样容易看出：命题联结词 $\wedge$ 对应集合论运算 $\cap$，$\vee$ 对应 $\cup$，$\neg$ 对应集合论补，$\rightarrow$ 对应 $\subseteq$。包含反射公理 $\Box A \rightarrow A$ 的模态逻辑，其模态算子也有特别自然的解释：对这些逻辑，$\unicode{x2B26}$ 对应拓扑空间中的闭包算子，而 $\Box$ 对应内部。为看出这些解释为何合适，注意反射公理对应于这样的事实：每个集合包含于其闭包，且每个集合包含其内部。
 
 然而，可证性逻辑 **不** 证明反射，因为反射的实例 $\Box\bot \rightarrow \bot$ 会与公理 (GL) 导致矛盾。
 
-因此可证性逻辑需要不同的进路。基于 J. McKinsey 与 A. Tarski（1944）的建议，L. Esakia（1981, 2003）考察了把 $\Diamond$ 解释为导集算子 $d$——它把集合 $B$ 映到其极限点之集 $d(B)$。为解释这一 $\Diamond$ 解释的推论，还需两个定义：概念 **自密的** 与 **散布的**。拓扑空间的子集 $B$ 称为 **自密的**，如果 $B \subseteq d(B)$。拓扑空间称为 **散布的**，如果它没有非空的自密子集。区间拓扑下的序数就是散布空间的例子。Esakia（1981）证明一个重要对应：他表明拓扑空间 **满足公理 GL** 当且仅当该空间 **散布**。这一对应很快引出 Abashidze（1985）与 Blass（1990）各自独立发现的结果：可证性逻辑相对于任何序数 $\ge \omega^\omega$ 完全。
+因此可证性逻辑需要不同的进路。基于 J. McKinsey 与 A. Tarski（1944）的建议，L. Esakia（1981, 2003）考察了把 $\unicode{x2B26}$ 解释为导集算子 $d$——它把集合 $B$ 映到其极限点之集 $d(B)$。为解释这一 $\unicode{x2B26}$ 解释的推论，还需两个定义：概念 **自密的** 与 **散布的**。拓扑空间的子集 $B$ 称为 **自密的**，如果 $B \subseteq d(B)$。拓扑空间称为 **散布的**，如果它没有非空的自密子集。区间拓扑下的序数就是散布空间的例子。Esakia（1981）证明一个重要对应：他表明拓扑空间 **满足公理 GL** 当且仅当该空间 **散布**。这一对应很快引出 Abashidze（1985）与 Blass（1990）各自独立发现的结果：可证性逻辑相对于任何序数 $\ge \omega^\omega$ 完全。
 
 过去几十年，可证性逻辑的拓扑语义经历真正的复兴，尤其在对 Japaridze 的双模可证性逻辑 GLB 的研究中——GLB 是 GL 的扩充（Japaridze 1986）[^japaridze-1986]。结果表明 GLB 相对于其可能世界语义是 **模态不完全的**：它不对应于任何框架类。[^note-3] 这一特点使双模 GLB 与单模 GL 形成鲜明对照——如上所述，后者对应于有穷传递非自反树的类。不过，Beklemishev 等人（2009）证明 GLB 相对于其 **拓扑** 语义完全（另见 Beklemishev 2009, Icard 2011）[^beklemishev-2009][^beklemishev-2009-2][^icard-2011]。Esakia 的 GL 与散布拓扑空间之间的对应，甚至可以在空间逻辑与认知逻辑的拓扑研究中找到引人入胜的回响（见 Aiello et al. 2007）[^aiello-2007]。（关于 GLB 的进一步讨论见第 5.4 节。）
 
@@ -132,79 +132,79 @@ $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \B
 
 * $f(\bot)=\bot;$
 * $f$ 对逻辑联结词保持结构，例如 $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ 且
-* $\Box$ 翻译为可证性谓词 $\Prov$，因此 $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
+* $\Box$ 翻译为可证性谓词 ${\textsf{Prov}}$，因此 $f(\Box B) = {\textsf{Prov}}(\ulcorner f(B)\urcorner ).$
 
 ### 4.1 算术可靠性
 
 早在七十年代初就已清楚：GL 相对于 PA 是 **算术可靠的**，形式化地说：
 
-$$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
+$$ \text{If } \mbox{GL} \vdash A, \text{then for all realizations } f, \mbox{PA} \vdash f(A).$$
 
 为略尝元数学滋味，让我们概述可靠性证明。
 
 **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
 
-$$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A \rightarrow B\urcorner ) \rightarrow ({\textsf{Prov}}(\ulcorner A\urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner B\urcorner )) $$
 
 对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
 
-$$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
+$$ \text{If } \mbox{PA} \vdash A, \text{then } \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A\urcorner ), $$
 
 这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
 
-$$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner A\urcorner ). $$
 
 这正是第 1 节提到的 Löb 定理的形式化版本。
 
 让我们从 Löb 的可导出性条件概述 Löb 定理本身的证明（形式化版本的证明类似）。该证明基于哥德尔的对角化引理：对任意算术公式 $C(x)$，存在算术公式 $B$ 使得
 
-$$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
+$$ \mbox{PA} \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
 
 用文字说，公式 $B$ 说的是“我具有性质 $C$。”
 
-**Löb 定理的证明：** 设 $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$；须证 $\PA \vdash A$。由对角化引理，存在公式 $B$ 使得
+**Löb 定理的证明：** 设 $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A\urcorner ) \rightarrow A$；须证 $\mbox{PA} \vdash A$。由对角化引理，存在公式 $B$ 使得
 
-$$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
+$$ \mbox{PA} \vdash B \leftrightarrow ({\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow A). $$
 
 由此经 Löb 的第一、第二条可导出性条件加上一些命题推理可得
 
-$$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner ) \leftrightarrow {\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
 
 于是再次由 Löb 的第二条件，
 
-$$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow ({\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner B\urcorner ) \urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner A\urcorner )). $$
 
 另一方面，Löb 的第三条件给出
 
-$$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner {\textsf{Prov}}(\ulcorner B\urcorner )\urcorner ), $$
 
 于是
 
-$$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow {\textsf{Prov}}(\ulcorner A\urcorner ). $$
 
-与假设 $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
+与假设 $PA \vdash {\textsf{Prov}}(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
 
-$$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
+$$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner ) \rightarrow A. $$
 
-最后，对角化引理产生的等式蕴涵 $\PA \vdash B$，于是 $\PA \vdash \Prov(\ulcorner B\urcorner )$，从而
+最后，对角化引理产生的等式蕴涵 $\mbox{PA} \vdash B$，于是 $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner B\urcorner )$，从而
 
-$$ \PA \vdash A, $$
+$$ \mbox{PA} \vdash A, $$
 
 如所愿。
 
-注意在 Löb 定理中以 $\bot$ 代 $A$，我们导出：$\PA \vdash \neg\, \Prov(\ulcorner \bot\urcorner )$ 蕴涵 $\PA \vdash \bot$——这正是哥德尔第二不完备性定理的逆否。
+注意在 Löb 定理中以 $\bot$ 代 $A$，我们导出：$\mbox{PA} \vdash \neg\, {\textsf{Prov}}(\ulcorner \bot\urcorner )$ 蕴涵 $\mbox{PA} \vdash \bot$——这正是哥德尔第二不完备性定理的逆否。
 
 ### 4.2 算术完全性
 
 可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
 
-$$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
+$$ \mbox{GL} \vdash A \text{ if and only if for all realizations } f, \mbox{PA} \vdash f(A). $$
 
 这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个困难得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
 
 Segerberg 的模态完全性定理是 Solovay 证明 GL 相对于皮亚诺算术之算术完全性的重要第一步。假设 GL 不证明模态公式 $A$。那么由模态完全性，存在一棵有穷传递非自反树，使 $A$ 在该树的根处为假。Solovay 设计精巧的方式，在皮亚诺算术的语言中模拟这样一棵有穷树。于是他找到一个从模态公式到算术句子的实现 $f$，使得皮亚诺算术不证明 $f(A)$。
 
-Solovay 的完全性定理提供一种构造许多皮亚诺算术不可证算术句子的替代方式。例如，容易构造可能世界模型表明 GL 不证明 $\Box p \vee \Box\neg\, p$；于是由 Solovay 定理，存在算术句子 $f(p)$ 使得皮亚诺算术不证明 $\Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$。特别地，这意味着 $f(p)$ 与 $\neg\, f(p)$ 在皮亚诺算术中都不可证：假设相反情形 $\PA \vdash f(p)$，则由 Löb 第一条件与命题逻辑得 $\PA \vdash \Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$，导致矛盾；假设 $\PA \vdash \neg\, f(p)$ 时同理。
+Solovay 的完全性定理提供一种构造许多皮亚诺算术不可证算术句子的替代方式。例如，容易构造可能世界模型表明 GL 不证明 $\Box p \vee \Box\neg\, p$；于是由 Solovay 定理，存在算术句子 $f(p)$ 使得皮亚诺算术不证明 ${\textsf{Prov}}(\ulcorner f(p)\urcorner ) \vee {\textsf{Prov}}(\ulcorner \neg\, f(p)\urcorner )$。特别地，这意味着 $f(p)$ 与 $\neg\, f(p)$ 在皮亚诺算术中都不可证：假设相反情形 $\mbox{PA} \vdash f(p)$，则由 Löb 第一条件与命题逻辑得 $\mbox{PA} \vdash {\textsf{Prov}}(\ulcorner f(p)\urcorner ) \vee {\textsf{Prov}}(\ulcorner \neg\, f(p)\urcorner )$，导致矛盾；假设 $\mbox{PA} \vdash \neg\, f(p)$ 时同理。
 
 Solovay 定理意义重大。它表明，一个不可判定形式理论（如皮亚诺算术）的有趣片段——即算术能以命题术语就其自身可证性谓词表达的那部分，可以借由一个可判定的模态逻辑来研究。GL 的可能世界语义清晰透彻。
 
@@ -216,11 +216,11 @@ Solovay 定理意义重大。它表明，一个不可判定形式理论（如皮
 
 自 1980 年代末以来，逻辑学家研究弱于皮亚诺算术的许多其他算术系统。这些逻辑学家常从可计算性问题获取灵感，例如多项式时间可计算函数的研究。他们对如下问题给出部分回答：“对哪些算术理论，Solovay 的算术完全性定理（相对于合适的可证性谓词）仍然成立？”为讨论这一问题，需要两个概念。$\Delta_0$-公式是所有量词都由一个项限定的算术公式，例如
 
-$$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
+$$ \forall y \le {\bf s}{\bf s} 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
 
-其中 $\bs$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
+其中 ${\bf s}$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
 
-$$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
+$$ A(0) \wedge \forall x\, (A(x) \rightarrow A({\bf s} x)) \rightarrow \forall x \, A(x) $$
 
 限定于 $\Delta_0$-公式 $A$。
 
@@ -229,9 +229,9 @@ $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, 
 1. $T$ 对 $\Delta_0$-公式证明归纳，并且 $T$ 证明 EXP，即表达对一切 $x$ 其幂 $2^x$ 存在的公式。用更标准的记号说：$T$ 扩充 $I \Delta_0$+EXP；
 2. $T$ 不证明任何形如 $\exists x\, A(x)$ 的假句子，其中 $A(x)$ 为 $\Delta_0$-公式。
 
-对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 $\Prov_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
+对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 ${\textsf{Prov}}_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
 
-$$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
+$$ \mbox{GL} \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
 
 尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
 
@@ -239,7 +239,7 @@ $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
 
 ### 5.2 可解释性逻辑
 
-为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\interprets$：对给定算术理论 $T$，模态句子 $A \interprets B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
+为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\vartriangleright$：对给定算术理论 $T$，模态句子 $A \vartriangleright B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
 
 ### 5.3 命题量词
 
@@ -251,13 +251,13 @@ $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarro
 
 ### 5.4 Japaridze 的双模与多模可证性逻辑
 
-Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\Diamond$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词；而 $[1]$ 对应一个更强的可证性谓词，即 **$\omega$-可证性**。
+Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\unicode{x2B26}$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词；而 $[1]$ 对应一个更强的可证性谓词，即 **$\omega$-可证性**。
 
-让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 **$\omega$-一致的**，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
+让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 **$\omega$-一致的**，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 ${\bf s}$ 出现的项 ${\bf s}{\bf s}\ldots{\bf s} 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
 
 Japaridze 的双模可证性逻辑 GLB 可由 GL 的公理与规则（见第 2 节）公理化，并分别为 [0] 与 [1] 表述。此外，GLB 还有两条混合公理： $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ 该逻辑可判定、有合理的 Kripke 语义，且相对于皮亚诺算术既算术可靠又完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
 
-Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
+Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\unicode{x2B26}$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
 
 GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
 
@@ -271,7 +271,7 @@ GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于�
 
 ### 5.5 谓词可证性逻辑
 
-最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^rybakov-2023]。于是问题来了：是否存在某个公理化良好的谓词可证性逻辑，足以恰好证明可证性的有效原理？遗憾的是，答案响亮地是否定的。Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现都在 PA 中可证的句子，其集合不仅不是递归可枚举的；它更是 $\Pi^0_2$-完全的，因此没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\Diamond$ 与量词 $\forall$——算术完全且仍可判定。
+最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^rybakov-2023]。于是问题来了：是否存在某个公理化良好的谓词可证性逻辑，足以恰好证明可证性的有效原理？遗憾的是，答案响亮地是否定的。Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现都在 PA 中可证的句子，其集合不仅不是递归可枚举的；它更是 $\Pi^0_2$-完全的，因此没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\unicode{x2B26}$ 与量词 $\forall$——算术完全且仍可判定。
 
 ### 5.6 其他推广
 
@@ -297,13 +297,13 @@ GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于�
 
 ## 6 哲学意义
 
-尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了蒯因（Quine，1976）对模态概念不可理解的争议性批评——这至少是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\Diamond p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了蒯因（1953）为模态的语法处理设定的一切期望。
+尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了蒯因（Quine，1976）对模态概念不可理解的争议性批评——这至少是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\unicode{x2B26} p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了蒯因（1953）为模态的语法处理设定的一切期望。
 
 蒯因的主要矛头指向模态谓词逻辑，尤其是构造在量词辖域内含模态算子的句子（“量化入内”）。然而在谓词可证性逻辑中，量词取值于自然数，无论 *de dicto* 还是 *de re* 模态词都有直截了当的解释——与其他模态逻辑的情形相反（见 *de dicto*／*de re* 区分之注）。例如，形如
 
 $$ \forall x\, \Box\, \exists y \,(y=x) $$
 
-的公式毫无问题。若把数 $n$ 赋给 $x$，则 $\Box \,\exists y\,(y = x)$ 就该赋值为真，当且仅当句子 $\exists y\,(y=I_n)$ 在皮亚诺算术中可证；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。这一句子对所有 $n$ 在自然数标准模型中为真，而 $\forall x \,\Box\, \exists y \,(y = x)$ 甚至在皮亚诺算术中可证。
+的公式毫无问题。若把数 $n$ 赋给 $x$，则 $\Box \,\exists y\,(y = x)$ 就该赋值为真，当且仅当句子 $\exists y\,(y=I_n)$ 在皮亚诺算术中可证；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 ${\bf s}$ 出现的项 ${\bf s}{\bf s}\ldots{\bf s} 0$。这一句子对所有 $n$ 在自然数标准模型中为真，而 $\forall x \,\Box\, \exists y \,(y = x)$ 甚至在皮亚诺算术中可证。
 
 顺带一提，Barcan 公式
 
@@ -321,7 +321,7 @@ $$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then }
 
 类似的原理显然对 GL 不成立：毕竟，
 
-$$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
+$$ \text{if } \mbox{GL} \vdash \Box A \rightarrow A, \text{ then } \mbox{GL} \vdash A. $$
 
 因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
 
@@ -335,7 +335,7 @@ $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
 
 ## 脚注
 
-[^note-1]: 下文我们将给出 GL $\vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
+[^note-1]: 下文我们将给出 GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\unicode{x2B26} C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
 
 1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
 2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
@@ -343,15 +343,15 @@ $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
 4. GL $\vdash \Box\bot \rightarrow \Box B$（由第 3 行经上述导出规则）
 5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot $（公理 GL）
 6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B $（由第 4、5 行经假言三段论）
-7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
-8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
-9. GL $\vdash \Box\Diamond A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
+7. GL $\vdash \unicode{x2B26} A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
+8. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
+9. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
 
-注意从语义上看，容易看出公式 $\Box\Diamond A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\Diamond A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
+注意从语义上看，容易看出公式 $\Box\unicode{x2B26} A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\unicode{x2B26} A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
 
-[^note-2]: 事实上，几乎同一个反例对直觉主义可证性逻辑同样有效，甚至对不带 $\Diamond$ 的版本亦然——该结果由 Ian Shillito（2023，定理 13.2.1）证明。按 Rosalie Iemhoff 的建议，只需将上例中的每个 $\Diamond$ 换成 $\neg\Box\neg$。
+[^note-2]: 事实上，几乎同一个反例对直觉主义可证性逻辑同样有效，甚至对不带 $\unicode{x2B26}$ 的版本亦然——该结果由 Ian Shillito（2023，定理 13.2.1）证明。按 Rosalie Iemhoff 的建议，只需将上例中的每个 $\unicode{x2B26}$ 换成 $\neg\Box\neg$。
 
-[^note-3]: Holliday 与 Litak（2019）强化了这一结果：GLB 不仅相对 Kripke 框架不完全，甚至相对于 $\Diamond$ 算子*完全可加*的布尔代数也不完全——所谓完全可加，是说对任意元素集 $X$，只要 $\bigvee X$ 存在，$\bigvee\{\Diamond x \mid x \in X \}$ 便也存在，且 $\Diamond\bigvee X = \bigvee\{\Diamond x \mid x \in X \}$。这一结果有一个漂亮的侧面：双模可证性逻辑 GLB 是第一个在完全可加布尔代数上表现出这种不完全性的自然出现的模态逻辑。还应注意，Van Benthem（1979）最初用来证明存在模态不完全逻辑的那个逻辑，同样是可证性逻辑的一个（略显人工的）变体——即 $K$ 再加一条额外公理 $\Box\Diamond\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$，它是 GL 的一个弱化。
+[^note-3]: Holliday 与 Litak（2019）强化了这一结果：GLB 不仅相对 Kripke 框架不完全，甚至相对于 $\unicode{x2B26}$ 算子*完全可加*的布尔代数也不完全——所谓完全可加，是说对任意元素集 $X$，只要 $\bigvee X$ 存在，$\bigvee\{\unicode{x2B26} x \mid x \in X \}$ 便也存在，且 $\unicode{x2B26}\bigvee X = \bigvee\{\unicode{x2B26} x \mid x \in X \}$。这一结果有一个漂亮的侧面：双模可证性逻辑 GLB 是第一个在完全可加布尔代数上表现出这种不完全性的自然出现的模态逻辑。还应注意，Van Benthem（1979）最初用来证明存在模态不完全逻辑的那个逻辑，同样是可证性逻辑的一个（略显人工的）变体——即 $K$ 再加一条额外公理 $\Box\unicode{x2B26}\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$，它是 GL 的一个弱化。
 
 ## References（引用注释）
 
