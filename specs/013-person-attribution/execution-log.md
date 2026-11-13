@@ -155,3 +155,15 @@
 **口径校正**：Byron 取英国（GND 双值德国为出版史著录）、Cassirer 取德国／美国（GND 四值取首二会误置瑞典）。
 
 **验收**：硬错误 0；人名缺项 3187 → 3137；凭证与登记册同批提交（16274f5e7），避免并行会话再次抹去未提交改动。
+
+## 2026-11-14 GND E 段（42 行）
+
+**范围**：续取 120 行（Catena 至 Cole），命中 62（exact 50／variant 12）、歧义 20、查无 49。逐行复核采信 42 行；凭证 `results/verify-2026-11-14-gnd-e.tsv`。
+
+**口径校正**：Cather 取美国（GND 三值中英、捷为译本与出版著录）；Chakrabarty 取印度／美国（原序会成“美国／澳大利亚”）；Chan 取加拿大／新加坡；朝鲜两位学者（Chŏng Chedu、Chŏng Tojŏn）按时代取“朝鲜／儒学”，不用 GND 现代南北韩码。
+
+**跳过**：无地域码者 Cohen, Ronnie／Cohen, Stewart；`Clairaut, Alexis` 与 `Clairaut, Alexis-Claude` 两键同人，均采同号（待并档）。
+
+**留队的高价值歧义**：Darwin、Baudelaire、Chalmers、Charles Mills、Cicero、Thomasius、Samuel Clarke、Cayley、Clement V、Cohen, Joshua——均因同姓多值且尚无可据的单一记录，留待另源或指定首现词条后处理。
+
+**验收**：硬错误 0；人名缺项 3137 → 3095；数据与凭证同批提交（eada9bf14）。
