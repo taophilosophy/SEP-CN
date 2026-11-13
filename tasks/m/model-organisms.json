@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "M-main-20261109",
       "at": "2026-11-09T05:22:16Z",
-      "evidence": "s2 语言层修订：check_prose 47 条 → 9 条（script/mo_s2_fix1.py 清 weak-verb 7/passive-bei 3/plural-men 1；mo_s2_fix2.py 28 处长句拆分与「的」链化解；mo_s2_fix3.py 6 处）；余 9 条按 ADR-0020 逐条豁免留痕（行 79/89/111 为直接引语内部原文长句，行 93/99/101/109/203 为引语或术语列举内部的 de-chain 密度，改写即损忠实），豁免理由记入 specs/005-translation-campaign/qa-findings-2026-11-08-m-audit.md §7.6。"
+      "evidence": "s2 语言层修订：check_prose 47 条 → 9 条（script/mo_s2_fix1.py 清 weak-verb 7/passive-bei 3/plural-men 1；mo_s2_fix2.py 28 处长句拆分与「的」链化解；mo_s2_fix3.py 6 处）；余 9 条按 ADR-0020 逐条豁免留痕（行 79/89/111 为直接引语内部原文长句，行 93/99/101/109/203 为引语或术语列举内部的 de-chain 密度，改写即损忠实），豁免理由记入 specs/005-translation-campaign/qa-findings-2026-11-08-m-audit.md §7.6。语体：现代汉语学术书面语（015 全文通读复核 2026-11-13，证据句见 verdicts.jsonl；M2-015-soft-20261113）"
     },
     {
       "step": "s3",

@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 15:43（UTC）
+生成时间：2026-11-13 02:05（UTC）
 
 ## 总览
 
@@ -12,31 +12,30 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1872|
-|已建任务|1179|
+|已建任务|1195|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|380|
-|在途（drafted 起、done 前）|172|
+|已完成（done）|391|
+|在途（drafted 起、done 前）|182|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|627|
-|cleared|135|
+|pending|622|
+|cleared|152|
 |drafted|1|
-|s1_checked|1|
-|s3_checked|34|
-|r1_reviewed|1|
-|done|380|
+|s3_checked|27|
+|r1_reviewed|2|
+|done|391|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|62|
-|B|62|62|62|17|
-|C|171|171|171|27|
+|A|160|160|160|63|
+|B|62|62|62|19|
+|C|171|171|171|29|
 |D|92|92|92|27|
 |E|99|99|99|29|
 |F|96|96|96|5|
@@ -46,7 +45,7 @@
 |J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
-|M|139|139|14|7|
+|M|139|139|14|13|
 |N|50|50|11|10|
 |O|21|21|13|12|
 |P|164|164|12|8|
@@ -54,8 +53,8 @@
 |R|85|85|85|14|
 |S|160|160|18|16|
 |T|70|70|7|4|
-|U|4|4|0|0|
-|V|15|15|0|0|
+|U|4|4|1|0|
+|V|15|15|15|0|
 |W|36|36|5|2|
 |X|3|3|3|2|
 |Y|2|2|2|0|
@@ -80,13 +79,12 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|anscombe|retranslate|cleared|task_ops 2026-11-12|
+|axiom-choice|retranslate|cleared|task_ops 2026-11-12|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
 |belief|retranslate|cleared|task_ops 2026-11-01|
-|belief-merging|retranslate|s3_checked|B-main-20261110 2026-11-10|
 |bell-theorem|retranslate|cleared|task_ops 2026-11-01|
 |benjamin|retranslate|cleared|task_ops 2026-11-01|
 |bentham|retranslate|cleared|task_ops 2026-11-01|
@@ -100,7 +98,6 @@
 |biomedicine|retranslate|cleared|task_ops 2026-11-01|
 |black-reparations|retranslate|cleared|task_ops 2026-11-01|
 |bodin|retranslate|cleared|task_ops 2026-11-01|
-|boethius|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bolzano|retranslate|cleared|task_ops 2026-11-01|
 |bolzano-logic|retranslate|cleared|task_ops 2026-11-01|
 |bonaventure|retranslate|cleared|task_ops 2026-11-01|
@@ -127,15 +124,15 @@
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
-|chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
-|copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |dynamic-semantics|retranslate|cleared|task_ops 2026-11-12|
-|fitness|retranslate|cleared|task_ops 2026-11-11|
+|ehrenfels|retranslate|s3_checked|E-main-20261111 2026-11-12|
+|eternity|retranslate|cleared|task_ops 2026-11-13|
+|fitness|retranslate|s3_checked|F-main-20261113 2026-11-13|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
 |games-abstraction|retranslate|cleared|task_ops 2026-11-01|
@@ -168,6 +165,7 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
+|iamblichus|retranslate|s3_checked|I-main-20261113 2026-11-13|
 |ibn-arabi|retranslate|cleared|task_ops 2026-11-12|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
@@ -216,23 +214,34 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|s3_checked|K-main-20261110 2026-11-09|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
-|marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |mathematical-practice|retranslate|cleared|task_ops 2026-11-10|
-|model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
-|montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
-|moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |newton-stm|retranslate|s3_checked|N-main-20261112 2026-11-12|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
+|philanthropy|retranslate|cleared|task_ops 2026-11-12|
 |quantum-bayesian|retranslate|r1_reviewed|Q-main-20261112 2026-11-12|
-|repugnant-conclusion|retranslate|s1_checked|R-main-20261111 2026-11-11|
+|repugnant-conclusion|retranslate|s3_checked|R-main-20261111 2026-11-13|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
+|umar-khayyam|retranslate|cleared|task_ops 2026-11-12|
+|vagueness|retranslate|cleared|task_ops 2026-11-12|
+|vaihinger|retranslate|cleared|task_ops 2026-11-12|
+|value-incommensurable|retranslate|cleared|task_ops 2026-11-12|
+|value-intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-12|
+|value-pluralism|retranslate|cleared|task_ops 2026-11-12|
+|value-theory|retranslate|cleared|task_ops 2026-11-12|
+|vasubandhu|retranslate|cleared|task_ops 2026-11-12|
+|vegetarianism|retranslate|cleared|task_ops 2026-11-12|
+|vico|retranslate|cleared|task_ops 2026-11-12|
+|vienna-circle|retranslate|cleared|task_ops 2026-11-12|
+|vives|retranslate|cleared|task_ops 2026-11-12|
+|voltaire|retranslate|cleared|task_ops 2026-11-12|
+|voluntarism-theological|retranslate|cleared|task_ops 2026-11-12|
+|voting|retranslate|cleared|task_ops 2026-11-12|
+|voting-methods|retranslate|cleared|task_ops 2026-11-12|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |yogacara|retranslate|cleared|task_ops 2026-11-10|
-|yorck|retranslate|s3_checked|Y-main-20261111 2026-11-11|
+|yorck|retranslate|r1_reviewed|Y-main-20261113 2026-11-12|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|

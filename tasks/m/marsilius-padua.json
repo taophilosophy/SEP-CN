@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "M-main-20261109b",
       "at": "2026-11-09T09:18:49Z",
-      "evidence": "s2 二校（语言层）：check_prose 起始 31 条（de-chain 16 / long-sentence 11 / weak-verb 3 / as-one 1）→ 剩余 10 条，全部为引文内部照录（L23、L37、L41、L55、L81、L109、L111、L123×2、L131：Brett/Gewirth 译本引语与带引号的术语“内在的”“及物的”“合法的”等），按 ADR-0020 逐条豁免留痕。实修 21 处（账本 step2 与成稿同步，script/mp_s2_fix.py 幂等替换）：长句拆分 6（三部著作列举、两种探究进路、II.30.4 引语前导、第二编教会论结论前导、Kaye 两端说、教会定义段）；“的”链化解 5（巴黎大学句、奥古斯丁范式句、立法者横向决策句、Lambertini 意图句、教会图景句）；弱动词转实 4（加以修改→修改、作出判断→判断并劝勉、作出决定→裁断、II.8 模型句重组）；冠词直译 1（作为一个共同体→作为共同体）；其余措辞与衔接 5。复核：compose 与成稿逐字符一致（除 NOTE 行与 s1 手工核销的相关词条行）；check_style 0 issue、check_math 0、check_academic --strict OK；脱稿通读一遍，改写处语义与源文对照无漂移。"
+      "evidence": "s2 二校（语言层）：check_prose 起始 31 条（de-chain 16 / long-sentence 11 / weak-verb 3 / as-one 1）→ 剩余 10 条，全部为引文内部照录（L23、L37、L41、L55、L81、L109、L111、L123×2、L131：Brett/Gewirth 译本引语与带引号的术语“内在的”“及物的”“合法的”等），按 ADR-0020 逐条豁免留痕。实修 21 处（账本 step2 与成稿同步，script/mp_s2_fix.py 幂等替换）：长句拆分 6（三部著作列举、两种探究进路、II.30.4 引语前导、第二编教会论结论前导、Kaye 两端说、教会定义段）；“的”链化解 5（巴黎大学句、奥古斯丁范式句、立法者横向决策句、Lambertini 意图句、教会图景句）；弱动词转实 4（加以修改→修改、作出判断→判断并劝勉、作出决定→裁断、II.8 模型句重组）；冠词直译 1（作为一个共同体→作为共同体）；其余措辞与衔接 5。复核：compose 与成稿逐字符一致（除 NOTE 行与 s1 手工核销的相关词条行）；check_style 0 issue、check_math 0、check_academic --strict OK；脱稿通读一遍，改写处语义与源文对照无漂移。语体：现代汉语学术书面语（015 全文通读复核 2026-11-13，证据句见 verdicts.jsonl；M2-015-soft-20261113）"
     },
     {
       "step": "s3",

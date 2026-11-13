@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "M-main-20261108",
       "at": "2026-11-08T13:34:06Z",
-      "evidence": "逐句语言层复核 61 段叙述正文：修订段72「后来读者虽没那么广」→「此后读它的人虽没那么多」（主谓搭配不通），段85 段首「在哈耶克看来」与前句重复→「哈耶克认为」。check_prose 告警 2 条，均系书名《蜜蜂的寓言：或，私人的恶德，公众的利益》内部「蜜蜂的…私人的…公众的」引发的 de-chain 误报（规则无法识别书名），按 ADR-0020 逐条豁免留痕；passive-bei/weak-verb/exists-there/dang-shihou/as-one/plural-men 全 0。修订后 lq.py check HARD=0、compose 已写回"
+      "evidence": "逐句语言层复核 61 段叙述正文：修订段72「后来读者虽没那么广」→「此后读它的人虽没那么多」（主谓搭配不通），段85 段首「在哈耶克看来」与前句重复→「哈耶克认为」。check_prose 告警 2 条，均系书名《蜜蜂的寓言：或，私人的恶德，公众的利益》内部「蜜蜂的…私人的…公众的」引发的 de-chain 误报（规则无法识别书名），按 ADR-0020 逐条豁免留痕；passive-bei/weak-verb/exists-there/dang-shihou/as-one/plural-men 全 0。修订后 lq.py check HARD=0、compose 已写回。语体：现代汉语学术书面语（015 全文通读复核 2026-11-13，证据句见 verdicts.jsonl；M2-015-soft-20261113）"
     },
     {
       "step": "s3",

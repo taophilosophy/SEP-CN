@@ -19,11 +19,18 @@
 
 ## 待办
 
-1. `results/queue.jsonl` 现有 297 条 done 词条（本轮后重生成）。全量逐条通读仍按 done 时间升序推进，结论追加 `verdicts.jsonl`；判 classical/mixed 即 `reopen` + `clear`。
+1. `results/queue.jsonl` 现 391 条 done 词条（2026-11-13 重生成，done 计数随各批收口增长）。全量逐条通读按 done 时间升序推进，结论追加 `verdicts.jsonl`；判 classical/mixed 即 `reopen` + `clear`。
 2. 通读口径：排除 `>` 引块中的直接引文、典籍原文、碑铭、题记原引文与参考文献照录区；判据是“当代中文学术读者能否自然读懂”，不按关键词命中数判定。
 3. 破折号：`bin/dash_scan.py` 只排复核优先级；本轮 verdicts 的 `dash` 字段一律记 `pending`（破折号线未评），由 `dash-verdicts.jsonl` 另线推进。
 4. 定点改写候选（不置空，待语体全量复核完成后统一处理）：davidson 一处文言收束句、legrand「危乎殆哉」、dai-zhen「欲两部分俱成全」句、knowledge-acquaindescrip 散见文言成分、gorampa「既已……便……」句。
 5. 每批复核后重生成 queue 与 `PROGRESS.md`，跑 `check_all.py`，提交相关文件。
+
+## 2026-11-13 软复核开工（用户裁定：全量逐条通读；只登记不处置）
+
+* 用户裁定「软全局复核」= 覆盖不软、处置软：全量逐条通读照旧，但本轮**只写 verdicts＋证据句，不 reopen 不置空**，汇总后另行裁定处置。
+* 首批 5 条（M 批 done，兼补 s2 语体留痕）：mandeville、marsilius-padua、model-organisms、moral-learning、music，全部判 `modern`（`dash=ok`），`action=none`；证据句见 `verdicts.jsonl`。s2 evidence 已按 ADR-0033 追补「语体：」结论，`check_all` 9 项复绿。
+* 台账口径：`verdicts.jsonl` 累计 60 条（modern 49／classical 7／mixed 4）。
+
 
 ## 注意
 
