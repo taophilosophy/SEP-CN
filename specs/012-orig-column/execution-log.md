@@ -238,3 +238,13 @@
 **逐条校验结果**：k1 与预期字形 20／20 全等，无缺记录；释义与登记册所记概念逐条相符（书名类均作 “N. of wk.”）。
 
 **验收**：原文告警 120 → 100，硬错误 0。镜像文件仅作校验用，校验后即删，凭证保留 commit 钉与 lnum 以便复现。
+
+## 2026-11-14 B8 藏文批（Monlam 藏英词典，6 行；余 12 条留队）
+
+**通道**：藏文专门站（Tsadra Commons、Rigpa Wiki、THL）在本机直连均为 403 或超时，改取 Monlam 藏英词典数据库（Monlam Chenmo，Android 版随包发布的 SQLite，GitHub 公开镜像 `iamironrabbit/monlam-dictionary`，2026-11-14 联网下载读取），按英文义与转写串检索 `tben` 表。
+
+**采信 6 行**（凭证 `results/orig-verify-2026-11-14-b8.tsv`）：`anyāpoha（gzhan sel）`→གཞན་སེལ་、`intentional object / conceived object（zhen yul）`→ཞེན་ཡུལ་、`post-knowledge cognition（bcad shes）`→བཅད་ཤེས་、`generic word / generic object（sgra spyi / don spyi）`→དོན་སྤྱི་（sgra spyi 无独立条目，留痕）、`mistaken cognition（log shes）`→ལོག་ཤེས་、`factive assessment（yid dpyod）`→ཡིད་དཔྱོད་。六条均有词典英文释义与词头对应（“other exclusion”“conceived object”“subsequent cognizer”“meaning generality”“mistaken consciousness”“correct assumption”），藏文词头系读自词条，未用 Wylie 映射表推算。
+
+**余 12 条留队**：gzung yul、nges pa、rnam pa、dngos rtogs／shugs rtogs、'jug yul、blo、snang la ma nges pa、ma rtogs、ngo bo gcig la ldog pa tha dad、tshad ma'i bsdus pa、tshad ma rigs gter、rjod byed／brjod bya——Monlam 的英文索引不覆盖这批量论术语，且无页面显式印出「Wylie ↔ 藏文」配对；按禁令不自行拼写。可解路径见下：① 取得 Tsadra Commons／Rigpa Wiki 的直连或镜像（其页面字段即「In Tibetan Script + Wylie」）；② 引入带 Wylie 索引的藏文辞书数据（如 Hopkins 词典）；③ 按 ADR-0030 第 4 条注明“工具书查无”后出列（需规则层裁定）。
+
+**验收**：原文告警 100 → 94，硬错误 0。
