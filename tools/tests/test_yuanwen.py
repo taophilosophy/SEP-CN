@@ -215,6 +215,13 @@ class TestAuditFixes20261113(unittest.TestCase):
         self.assertIn('> 96 per cent speak Dutch and French.\n> Louise is Flemish.',
                       '\n'.join(ctx.out))
 
+    def test_br_keeps_nbsp_indentation(self):
+        # &nbsp;（\xa0）是诗行/书信缩进的正文内容，不得随 <br> 一并吞掉
+        html = '<blockquote><p>line one,&nbsp;&nbsp;Thou<br />&nbsp;&nbsp;next line</p></blockquote>'
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        self.assertIn('> line one,\xa0\xa0Thou\n> \xa0\xa0next line', '\n'.join(ctx.out))
+
     def test_br_outside_blockquote_unchanged(self):
         # 非引块上下文 <br> 行为不变（最小爆炸半径）；表格/列表容器区内亦然
         self.assertEqual(inline_to_md('a<br />b'), 'a b')

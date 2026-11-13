@@ -253,7 +253,7 @@ def _md_bold_tag(m):
     return '%s**%s**%s' % (pre, core, post)
 
 
-BR_LINE_RE = re.compile(r'\s*<br\s*/?>\s*', re.I)  # 两侧空白一并吞：行尾不得残留空格
+BR_LINE_RE = re.compile(r'[ \t\r\n\f\v]*<br\s*/?>[ \t\r\n\f\v]*', re.I)
 BR_KEEP_ZONE_RE = re.compile(
     r'<(?:table|ul|ol|dl|pre)\b.*?</(?:table|ul|ol|dl|pre)>', re.S | re.I)
 BR_MARK = '\x00BRL\x00'  # 引块内 <br> 行标记：非空白非标签，行内转换全程透明
