@@ -18,7 +18,9 @@
 
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。leibniz-evil（2026-11-13，144→4）、lorenzo-valla（2026-11-14，116→0）、karl-reinhold（2026-11-14，98→3：引文 2+书名 1 豁免）已收口（见 dash-verdicts `action=none`）。**下一条：ockham（156，7.65）**，其后 duhem（98，7.60）→ 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。leibniz-evil（2026-11-13，144→4）、lorenzo-valla（2026-11-14，116→0）、karl-reinhold（2026-11-14，98→3：引文 2+书名 1 豁免）、ockham（2026-11-14，161→5：引块内源句自带豁免）已收口（见 dash-verdicts `action=none`）。**下一条：duhem（98，7.60）**，其后 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ faith（171，7.62 见 scan 最新）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+
+**ockham 收口要点（2026-11-14）**：① 逐对自检「去标点逐字同」——凡 new 相对 old 仅标点变动者（如 ——→：/，/（）而词面未动）必被判 pure，须在首轮就带词面变化（补主语、换连接词、调整语序均可）；本条 4 处 pure 全部如此产生、二轮补课清零。② 真基线必须取自 git 提交对象（如 980d4f63f）而非 stash——工作区被并行会话收编后 stash 会空转，假基线会漏报回归；本轮 prose 真回归 5 条即由此发现并消解。③ 多行块（列表）内句子按「块内子串」处理，行级同步对不上的先查是否子串，勿急着判分歧。（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
 
 **lorenzo-valla 收口要点（2026-11-14）**：① 账本 step2 落后于 md 时（他线已做术语收口而账本未跟上，本例 斯多亚→斯多葛、解释学→诠释学），先整块对齐落后段再上重译对，否则按 md 文本写的 old 串在账本必 MISS；② 首轮 85 句重译后 mech_audit 仍判 8 处 pure（段内只动了符号、词面未变）——按裁定必须二次整句重译（改词序措辞），pure 未定位后才算收口；③ 重译可能引入 de-chain（的-三连或单句≥6 个的），prose 须回归改前基线，超出即再调句法。
 
