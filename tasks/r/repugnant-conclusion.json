@@ -2,7 +2,7 @@
   "slug": "repugnant-conclusion",
   "kind": "retranslate",
   "zh_doc": "r/repugnant-conclusion.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "R-main-20261111",
       "at": "2026-11-12T23:09:12Z",
       "evidence": "二校（语体与体例，定点四检）：check_style --strict 0 违例；check_academic --strict 0 硬错误；check_math 0 公式（源无数学环境）；lq 守恒门 OK 57 段（SOFT 全为标题机械段与书名号化留痕）；check_prose --strict 报 3 处、经逐处核位全为 ADR-0020 直引豁免——行 5 帕菲特开篇引文句 104 字（26 字叙述头+78 字直引，“的”×5 全在引文内）、行 9 西季威克引文句 72 字（“他指出：”后全为直引）、行 5 de-chain 同为引文内密度；叙述散文无违例，零实修项。登记沿用 s1 存量（术语 28 行、人名 6 行已核）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-13T00:07:01Z",
+      "evidence": "三校（终校全文回读+零信任抽查）：回源实修错译 3 处——“入口情形”系 population/scenario 误译（段 12 “three population scenarios”、段 24 “a population consisting of just one person”、段 43 “three population scenarios”），md 与账本 step2 同步改“人口（情形）”；四处源文自身笔误照录定性不修——引注组 “(Narveson 1967: Glover 1977)” 冒号（源文段 35 原样）、defs 同书异拼 Wassermand/Wasserman（yuanwen 155/279/343 行原样）、glover-1992 页码 “127–14” 截断（yuanwen 233 行原样）；相关词条 11:11 逐项对齐（s1 evidence 记 10 项系笔误，源文 Related Entries 11 项全等）；学术工具四行（含 PDF 预览行）与 yorck/bradley 近期多数实践一致。复检：lq 守恒门 OK 57 段、check_style --strict 0、check_academic --strict 0 硬错误、check_prose 3 处不变全为 ADR-0020 直引豁免（行 5/9 引文句）。"
     }
   ],
   "blockers": [],
