@@ -49,7 +49,7 @@ TAIL_PATTERNS = (
 TAIL_TITLE_PAT = re.compile(
     r'(参考文献|References|Bibliography|学术工具|Academic Tools|其他网络资源|'
     r'Other Internet Resources|相关词条|Related Entries|脚注|Notes|Literature|'
-    r'Acknowledg|Supplementary|延伸阅读|Further reading)', re.I)
+    r'Acknowledg|致谢|Supplementary|延伸阅读|Further reading)', re.I)
 
 
 def read(p):
