@@ -194,3 +194,25 @@
 **采信 6 行**：`ālambana`→आलम्बन（MW p.153）、`anuśaya`→अनुशय（MW p.39）、`bīja`→बीज（MW p.732，另记异写 वीज）、`kleśa`→क्लेश（MW p.324）、`manovijñāna`→मनोविज्ञान（Edgerton BHSD 转录页）、`nairātmya`→नैरात्म्य（Edgerton/MW/PW 转录页；阴性 नैरात्म्या 为本尊名另形留注不混）。凭证 `results/orig-verify-2026-11-13-b3.tsv`（含逐条接口 URL）。
 
 **验收**：`check_terms.py` 原文告警 **143 → 137**；硬错误 0（并行会话在途废弃链断裂已由其自行修复）；`check_all.py` 复跑以收工为准。**剩余**：137 条，以梵文书名类（Abhidharmakośa 等约 25 条，宜走 Edgerton BHSD／84000 词表）、藏文 Wylie 约 18 条（宜走 Tsadra）、阿拉伯／波斯约 20 条（宜走 Wiktionary 阿语词条／EI）、日文余量与阿拉伯格纹术语为主；继续按本批通道逐批偿还。
+
+## 2026-11-13 B4 联网查证批（wisdomlib／Cologne 转录词头，9 行）
+
+**通道变更**：Cologne 原生接口（`sanskrit-lexicon.uni-koeln.de`）本时段 TLS 握手超时、HTTP 亦不可达，B3 通道暂不可用；改取 wisdomlib 的 Cologne 数字词典转录页（页面逐条标注来源辞书：Monier-Williams／Edgerton BHSD／Böhtlingk–Roth／Shabda-Sagara），天城体词头与罗马转写同页显式印出，满足 ADR-0030 第 2 级取证。维基系未用于取证。
+
+**采信 9 行**（凭证 `results/orig-verify-2026-11-13-b4.tsv`，逐行含已验证 URL 与异写备注）：
+
+| 键 | 原文 | 辞书来源 | 备注 |
+| ---- | ---- | ---- | ---- |
+| ahaṃkāra | अहंकार | Monier-Williams | 同页 Ahaṅkāra (अहङ्कार) 异写留注，键取 अं 形 |
+| āśraya | आश्रय | Edgerton BHSD | 佛教义项（五根与意）在列 |
+| bhājana | भाजन | Edgerton BHSD | 同页 Bhajana (भजन) 为专名，勿混 |
+| prajñapti | प्रज्ञप्ति | Edgerton BHSD | 施设／假名义；Prajñāpti (प्रज्ञाप्ति) 异写不混用 |
+| tathatā | तथाता | Monier-Williams | Edgerton 词头作 तथता，异写留注不改键 |
+| sākāra | साकार | Böhtlingk–Roth | 有相义；同条释义提及 nirākāra 但未立词头，故 nirākāra 留队 |
+| vijñapti | विज्ञप्ति | Edgerton BHSD | 表识义 |
+| saṃtāna | संतान | Monier-Williams | 相续义 |
+| svasaṃvedana | स्वसंवेदन | Monier-Williams | 自证义 |
+
+**拒采留队**：`vāsanā`（Edgerton 词头为中性 Vāsana (वासन)，注“多见 °nā”，未印阴性词头 वासना；NW 段同形为中性，不按后缀改写）——留队待阴性标目来源。
+
+**验收**：`check_terms.py` 原文告警 **137 → 128**（净偿还 9 条），硬错误 0；`check_all.py` 复跑见收工记录。
