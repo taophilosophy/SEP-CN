@@ -2,10 +2,347 @@
  "key": "anna julia cooper",
  "term": "Anna Julia Cooper",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T10:31:49+00:00",
- "status": "error",
- "note": "variant=Anna Julia Cooper; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Anna Julia Cooper: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T16:39:01+00:00",
+ "status": "ok",
+ "note": "variant=Anna Julia Cooper; 审定公布名词库=1032; 海峡两岸名词对照库=319; 其他来源数据库=122; 预公布名词数据库=51; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "茹利亚集[合]",
+   "en": "Julia set",
+   "code": "11.0652",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_非线性物理学"
+  },
+  {
+   "cn": "茹利亚集[合]",
+   "en": "Julia set",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_其他力学"
+  },
+  {
+   "cn": "茹利亚点",
+   "en": "Julia point",
+   "code": "05.0515",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "茹利亚方向",
+   "en": "Julia direction",
+   "code": "05.0516",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "茹利亚集",
+   "en": "Julia set",
+   "code": "05.0520",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody,ANNA",
+   "code": "2.352",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "code": "1.018",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "code": "7.0427",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_种群生态学"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "code": "03.697",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "合作性",
+   "en": "cooperativity",
+   "code": "04.265",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_学习与记忆"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "code": "07.113",
+   "standard": "心理学名词",
+   "subject": "心理学_社会心理学"
+  },
+  {
+   "cn": "合作采访",
+   "en": "cooperative acquisition,cooperative purchase",
+   "code": "03.333",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_采访"
+  },
+  {
+   "cn": "瓦拉第",
+   "en": "Varady\",\"Julia(罗马尼亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "安娜·博莱纳",
+   "en": "Anna Bolena",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "莫福",
+   "en": "Moffo\",\"Anna(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "波拉克",
+   "en": "Pollak\",\"Anna(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "涅特列布科",
+   "en": "Netrebko\",\"Anna(俄国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "安娜·玛格达勒娜曲集",
+   "en": "Anna Magdalena Bach",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody， ANNA",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "合作,协作",
+   "en": "cooperation",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "Julia语言",
+   "en": "Julia language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合作社",
+   "en": "Cooperative",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字合作",
+   "en": "Digital Cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "契约合作",
+   "en": "contractual cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器人合作",
+   "en": "robot cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合作博弈",
+   "en": "cooperative game theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合作制度论",
+   "en": "cooperative systems theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合作组织论",
+   "en": "cooperative organization theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际标准化合作",
+   "en": "international standardization cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子商务合作",
+   "en": "e-commerce cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "农村合作金融",
+   "en": "rural cooperative finance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody, ANNA",
+   "code": "1.5.3.63",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "code": "2.5.10.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织制度"
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "code": "02.0129",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会合作",
+   "en": "social cooperation",
+   "code": "2.1.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "code": "2.5.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "code": "2.5.10.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织制度"
+  },
+  {
+   "cn": "合作工厂",
+   "en": "cooperative plant",
+   "code": "02.0246",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "合作社经济",
+   "en": "cooperative economy",
+   "code": "02.0343",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "合作社",
+   "en": "cooperative society",
+   "code": "03.0087",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "合作劳动",
+   "en": "cooperative movement",
+   "code": "03.0088",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "合作医疗",
+   "en": "cooperative medicine",
+   "code": "8.078",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "农业生产合作社",
+   "en": "agricultural producers cooperative",
+   "code": "02.0328",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_列宁斯大林时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
