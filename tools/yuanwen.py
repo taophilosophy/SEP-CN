@@ -14,6 +14,9 @@
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
   数学定界符、DK 编号、古代作品行号原样保留；<sub>/<sup> 标签保留（工作底稿不受
   发布体例"禁止 HTML"约束，登记 demo-log）
+- 嵌套表（2026-11-14 裁定，取代「（嵌套表：…）」降级文本）：消毒后原样 HTML 透传
+  （font 剥壳、\(\)/\[\] 转 $/$$、img 改 ../assets/<slug>/、| 转 &#124;）；
+  列表项/定义项内嵌真表转内容列缩进的 md 表（020 移交缺陷 10 件 41 表 + 16 件嵌套表）
 - 确定性：同源 HTML 必得同 md；审计链登记于 baseline/entries.json（md 哈希 + 源哈希）
 
 用法: python tools/yuanwen.py <slug>... | --all-baselined [--summary] [--force]
