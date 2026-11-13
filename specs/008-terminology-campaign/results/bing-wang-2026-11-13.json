@@ -1,0 +1,3079 @@
+{
+ "date": "2026-11-13",
+ "source": "词汇表并网（ADR-0036）",
+ "rows": [
+  {
+   "line": 600,
+   "key": "3rd Earl of Shaftesbury",
+   "zh": "第三代沙夫茨伯里伯爵",
+   "note": "即 Anthony Ashley Cooper（安东尼·阿什利-库珀），见 Lord Shaftesbury 条",
+   "action": "merge"
+  },
+  {
+   "line": 602,
+   "key": "A Very Easy Death",
+   "zh": "安详辞世",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 603,
+   "key": "A Week on the Concord and Merrimack Rivers",
+   "zh": "河上一周",
+   "note": "梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》",
+   "action": "book"
+  },
+  {
+   "line": 604,
+   "key": "Abd al-Latif",
+   "zh": "阿卜杜勒·拉蒂夫",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 605,
+   "key": "Abduction",
+   "zh": "溯因",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（与 abductive reasoning 溯因推理 同义异形，键形分立）"
+  },
+  {
+   "line": 607,
+   "key": "Abelard",
+   "zh": "阿伯拉尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "abelard peter"
+  },
+  {
+   "line": 612,
+   "key": "Academic Skepticism",
+   "zh": "学园怀疑主义",
+   "note": "Skepticism 通译“怀疑论”，本条亦作“怀疑主义”，两译并存",
+   "action": "term",
+   "basis": "学界通行（Skepticism 两译并存：怀疑论／怀疑主义）"
+  },
+  {
+   "line": 613,
+   "key": "accommodation",
+   "zh": "顺应；调节",
+   "note": "按语境取义：科学哲学指理论迁就既有数据（与 prediction“预测”相对），视觉生理学译“调节”，语用学译“顺应”",
+   "action": "term",
+   "basis": "按语境取义：科学哲学“顺应”、视觉生理学“调节”、语用学“顺应”"
+  },
+  {
+   "line": 614,
+   "key": "Account",
+   "zh": "解释；说明；原理",
+   "note": "按语境取义，give an account of 译“对……给出说明/解释”；accounts 同",
+   "action": "term",
+   "basis": "按语境取义（give an account of 译“对……给出说明/解释”）"
+  },
+  {
+   "line": 617,
+   "key": "Adam Ferguson",
+   "zh": "亚当·弗格森",
+   "note": "",
+   "action": "person-dup",
+   "matched": "ferguson adam"
+  },
+  {
+   "line": 619,
+   "key": "Adieux: A Farewell to Sartre",
+   "zh": "告别的仪式",
+   "note": "波伏瓦记录萨特最后岁月之作，上海译文出版社 2019 年中译本《告别的仪式》（孙凯译）",
+   "action": "book"
+  },
+  {
+   "line": 625,
+   "key": "al-Baghdadi",
+   "zh": "巴格达迪",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：abu al barakat al baghdadi、abd al latif al baghdadi）"
+  },
+  {
+   "line": 626,
+   "key": "al-Farabi",
+   "zh": "法拉比",
+   "note": "全名阿布·纳斯尔·法拉比；带变音符形 Al-Fârâbî 为同一人物（ADR-0013 归并）；亦作“阿尔·法拉比”“阿里·法拉比”（后者多见中亚文献）",
+   "action": "person-dup",
+   "matched": "al farabi"
+  },
+  {
+   "line": 629,
+   "key": "al-Razi",
+   "zh": "拉齐",
+   "note": "指艾布·伯克尔·拉齐（Abū Bakr al-Rāzī，拉丁通行名 Rhazes），医师哲学家；勿与法赫尔丁·拉齐（Fakhr al-Dīn al-Rāzī）相混",
+   "action": "person-dup",
+   "matched": "al razi"
+  },
+  {
+   "line": 630,
+   "key": "Alan Turing",
+   "zh": "艾伦·图灵",
+   "note": "",
+   "action": "person-dup",
+   "matched": "turing alan"
+  },
+  {
+   "line": 631,
+   "key": "Albalag",
+   "zh": "阿尔巴拉格",
+   "note": "",
+   "action": "person-dup",
+   "matched": "albalag isaac"
+  },
+  {
+   "line": 632,
+   "key": "Albert",
+   "zh": "阿尔伯特",
+   "note": "泛指性简称，具体所指以正文为准：大阿尔伯特见 Albert the Great 条，萨克森的阿尔伯特见 Albert of Saxony 条",
+   "action": "drop"
+  },
+  {
+   "line": 633,
+   "key": "Albert Camus",
+   "zh": "阿尔贝·加缪",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 638,
+   "key": "Alexander Gerard",
+   "zh": "亚历山大·杰拉德",
+   "note": "",
+   "action": "person-dup",
+   "matched": "gerard alexander"
+  },
+  {
+   "line": 642,
+   "key": "All Men are Mortal",
+   "zh": "人都是要死的",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 643,
+   "key": "Allan Ramsay",
+   "zh": "艾伦·拉姆齐",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 644,
+   "key": "Alternative Axiomatic Set Theories",
+   "zh": "替代性公理集合论",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 646,
+   "key": "America Day by Day",
+   "zh": "美国纪行",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 647,
+   "key": "Ammonius",
+   "zh": "赫尔米亚的阿莫尼俄斯",
+   "note": "即 Ammonius Hermiae（赫尔米亚之子），5 世纪亚历山大里亚的亚里士多德注释家",
+   "action": "person-dup",
+   "final_key": "Ammonius Hermiae",
+   "basis": "学界通行（5 世纪亚历山大里亚亚里士多德注释家，赫尔米亚之子）",
+   "matched": "ammonius hermeiou"
+  },
+  {
+   "line": 648,
+   "key": "Ammonius",
+   "zh": "阿莫尼俄斯",
+   "note": "泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”",
+   "action": "drop"
+  },
+  {
+   "line": 654,
+   "key": "Anicius Manlius Severinus Boethius",
+   "zh": "阿尼修斯·曼利乌斯·塞维利努斯·波爱修斯",
+   "note": "全名通译形（《哲学的慰藉》等中译本序言用）；正文通常简称波爱修斯",
+   "action": "person-dup",
+   "matched": "boethius anicius"
+  },
+  {
+   "line": 656,
+   "key": "Anthony Ashley Cooper",
+   "zh": "安东尼·阿什利·库珀",
+   "note": "对齐人名表（2026-11-05），即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）",
+   "action": "merge"
+  },
+  {
+   "line": 661,
+   "key": "Archytas",
+   "zh": "阿尔库塔斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "archytas"
+  },
+  {
+   "line": 662,
+   "key": "Argument",
+   "zh": "论证",
+   "note": "悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正",
+   "action": "term"
+  },
+  {
+   "line": 666,
+   "key": "Aspect",
+   "zh": "体（体貌）",
+   "note": "语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正",
+   "action": "term"
+  },
+  {
+   "line": 668,
+   "key": "atomism",
+   "zh": "原子论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 669,
+   "key": "Attributes",
+   "zh": "属性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 671,
+   "key": "Auvergne",
+   "zh": "奥弗涅",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（法国地区；奥弗涅的威廉 William of Auvergne 语境）"
+  },
+  {
+   "line": 672,
+   "key": "Avempace",
+   "zh": "伊本·巴哲",
+   "note": "拉丁通行名，即伊本·巴哲（Ibn Bājja），同一人物两通行名（ADR-0013 归并）",
+   "action": "person-dup",
+   "matched": "avempace"
+  },
+  {
+   "line": 673,
+   "key": "Averroes",
+   "zh": "阿威罗伊",
+   "note": "拉丁通行名，即伊本·鲁世德（Ibn Rushd），同一人物两通行名（ADR-0013 归并）",
+   "action": "person-dup",
+   "matched": "averroes"
+  },
+  {
+   "line": 674,
+   "key": "Averroism",
+   "zh": "阿威罗伊主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 676,
+   "key": "awareness",
+   "zh": "觉知；觉察",
+   "note": "与 consciousness（意识）相区别；bodily awareness 身体觉知，亦作“身体意识”",
+   "action": "term"
+  },
+  {
+   "line": 677,
+   "key": "axiomatic",
+   "zh": "公理化",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 678,
+   "key": "Bacon",
+   "zh": "培根",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 679,
+   "key": "bald",
+   "zh": "秃头",
+   "note": "堆垛悖论（sorites）的标准示例谓词；台译文献亦作“秃子”",
+   "action": "term"
+  },
+  {
+   "line": 681,
+   "key": "Basil Bessarion",
+   "zh": "巴兹尔·贝萨里翁",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bessarion"
+  },
+  {
+   "line": 682,
+   "key": "basing relation",
+   "zh": "基础关系",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 683,
+   "key": "Baudrillard",
+   "zh": "鲍德里亚",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Jean Baudrillard）"
+  },
+  {
+   "line": 684,
+   "key": "Bauer",
+   "zh": "鲍威尔",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：bauer bruno、edgar bauer）"
+  },
+  {
+   "line": 686,
+   "key": "Bayes’ Theorem",
+   "zh": "贝叶斯定理",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 689,
+   "key": "beauty",
+   "zh": "美",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 690,
+   "key": "Beauvoir",
+   "zh": "波伏瓦",
+   "note": "上海译文出版社及学界通行“波伏瓦”；亦作“波伏娃”，全库取“波伏瓦”",
+   "action": "person-dup",
+   "matched": "beauvoir simone de",
+   "conflict": "译法与册行不一致，待裁定"
+  },
+  {
+   "line": 691,
+   "key": "behaviorism",
+   "zh": "行为主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 692,
+   "key": "Being and Nothingness",
+   "zh": "存在与虚无",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 696,
+   "key": "Bell’s Theorem",
+   "zh": "贝尔定理",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 698,
+   "key": "Benjamin",
+   "zh": "本雅明",
+   "note": "指瓦尔特·本雅明（Walter Benjamin）；Benjamin Whichcote（本杰明·惠科特）为另一人，勿混",
+   "action": "drop"
+  },
+  {
+   "line": 699,
+   "key": "Benjamin Whichcote",
+   "zh": "本杰明·惠科特",
+   "note": "",
+   "action": "person-dup",
+   "matched": "whichcote benjamin"
+  },
+  {
+   "line": 700,
+   "key": "Bentham",
+   "zh": "边沁",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bentham jeremy"
+  },
+  {
+   "line": 701,
+   "key": "Bergson",
+   "zh": "柏格森",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bergson henri"
+  },
+  {
+   "line": 702,
+   "key": "Berkeley",
+   "zh": "贝克莱",
+   "note": "",
+   "action": "person-dup",
+   "matched": "berkeley george"
+  },
+  {
+   "line": 703,
+   "key": "Bernard Bosanquet",
+   "zh": "伯纳德·鲍桑葵",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bosanquet bernard"
+  },
+  {
+   "line": 707,
+   "key": "Big Data",
+   "zh": "大数据",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 708,
+   "key": "binarium famosissimum",
+   "zh": "最著名的一对",
+   "note": "",
+   "action": "term",
+   "orig": "binarium famosissimum",
+   "basis": "拉丁术语，学界通行义译"
+  },
+  {
+   "line": 709,
+   "key": "biological development",
+   "zh": "生物发育",
+   "note": "development 在生物学中指个体发育，勿译“演化”——evolution 才是“演化”",
+   "action": "term"
+  },
+  {
+   "line": 710,
+   "key": "biological individuals",
+   "zh": "生物学个体",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 711,
+   "key": "biomedicine",
+   "zh": "生物医学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 712,
+   "key": "Black Holes",
+   "zh": "黑洞",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 714,
+   "key": "Bloch",
+   "zh": "布洛赫",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：bloch ernst、bloch karola、bloch von stritzki else）"
+  },
+  {
+   "line": 716,
+   "key": "Bodin",
+   "zh": "博丹",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bodin jean"
+  },
+  {
+   "line": 717,
+   "key": "body",
+   "zh": "身体",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 718,
+   "key": "Boethius",
+   "zh": "波爱修斯",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：boethius anicius、boethius of dacia、boethius anicius manlius severinus）"
+  },
+  {
+   "line": 720,
+   "key": "Bohmian",
+   "zh": "玻姆",
+   "note": "Bohmian mechanics 玻姆力学（德布罗意—玻姆理论）",
+   "action": "term",
+   "basis": "学界通行（形容词形：Bohmian mechanics 玻姆力学，德布罗意—玻姆理论）"
+  },
+  {
+   "line": 721,
+   "key": "Bohr",
+   "zh": "玻尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bohr niels"
+  },
+  {
+   "line": 722,
+   "key": "Boltzmann",
+   "zh": "玻尔兹曼",
+   "note": "",
+   "action": "person-dup",
+   "matched": "boltzmann ludwig"
+  },
+  {
+   "line": 723,
+   "key": "Boole",
+   "zh": "布尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "george boole"
+  },
+  {
+   "line": 725,
+   "key": "Bosanquet",
+   "zh": "鲍桑葵",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bosanquet bernard"
+  },
+  {
+   "line": 726,
+   "key": "boundary",
+   "zh": "边界",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 728,
+   "key": "Bounds of Sense",
+   "zh": "感觉的界限",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 729,
+   "key": "Bradley",
+   "zh": "布拉德雷",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：bradley f h、bradley francis herbert）"
+  },
+  {
+   "line": 730,
+   "key": "Brentano",
+   "zh": "布伦塔诺",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：bettina brentano von arnim、brentano franz）"
+  },
+  {
+   "line": 731,
+   "key": "British Idealism",
+   "zh": "英国观念论",
+   "note": "亦称“英国新黑格尔主义”，以格林、布拉德雷、鲍桑葵为代表；注意与 absolute idealism（绝对唯心论）的区别是流派与原理之别",
+   "action": "term"
+  },
+  {
+   "line": 732,
+   "key": "Brothers Karamazov",
+   "zh": "卡拉马佐夫兄弟",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 733,
+   "key": "Brouwer",
+   "zh": "布劳威尔",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：brouwer lize、brouwer luitzen egbertus jan）"
+  },
+  {
+   "line": 734,
+   "key": "Bruno",
+   "zh": "布鲁诺",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：bruno giordano、bauer bruno、cassirer bruno、de finetti bruno、giordano bruno、snell bruno）"
+  },
+  {
+   "line": 735,
+   "key": "Bruno Bauer",
+   "zh": "布鲁诺·鲍威尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bauer bruno"
+  },
+  {
+   "line": 738,
+   "key": "Burali-Forti",
+   "zh": "布拉利-福尔蒂",
+   "note": "",
+   "action": "person-dup",
+   "matched": "burali forti cesare"
+  },
+  {
+   "line": 739,
+   "key": "Buridan",
+   "zh": "布里丹",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：buridan john jean、john buridan）"
+  },
+  {
+   "line": 740,
+   "key": "Burke",
+   "zh": "伯克",
+   "note": "",
+   "action": "person-dup",
+   "matched": "burke edmund"
+  },
+  {
+   "line": 741,
+   "key": "Burleigh",
+   "zh": "伯利",
+   "note": "",
+   "action": "merge"
+  },
+  {
+   "line": 742,
+   "key": "Burley",
+   "zh": "伯利",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：burley walter、walter burley）"
+  },
+  {
+   "line": 743,
+   "key": "Butler",
+   "zh": "巴特勒",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：butler joseph、joseph butler）"
+  },
+  {
+   "line": 744,
+   "key": "Byzantine",
+   "zh": "拜占庭",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 746,
+   "key": "Callicles",
+   "zh": "卡利克勒斯",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 747,
+   "key": "Cambridge Platonists",
+   "zh": "剑桥柏拉图学派",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 748,
+   "key": "Campanella",
+   "zh": "康帕内拉",
+   "note": "",
+   "action": "person-dup",
+   "matched": "campanella tommaso"
+  },
+  {
+   "line": 749,
+   "key": "Camus",
+   "zh": "加缪",
+   "note": "",
+   "action": "drop",
+   "guojia": "法国（阿尔及尔生）",
+   "dates": "1913–1960",
+   "matched": "泛指姓（同批全名行 Albert Camus）"
+  },
+  {
+   "line": 750,
+   "key": "Cantor",
+   "zh": "康托尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "cantor georg"
+  },
+  {
+   "line": 754,
+   "key": "Cardano",
+   "zh": "卡尔达诺",
+   "note": "",
+   "action": "person-dup",
+   "matched": "cardano girolamo"
+  },
+  {
+   "line": 756,
+   "key": "Carl Friedrich Stumpf",
+   "zh": "卡尔·弗里德里希·斯图姆夫",
+   "note": "",
+   "action": "person-dup",
+   "matched": "carl stumpf"
+  },
+  {
+   "line": 758,
+   "key": "Carnap",
+   "zh": "卡尔纳普",
+   "note": "",
+   "action": "person-dup",
+   "matched": "carnap rudolf"
+  },
+  {
+   "line": 760,
+   "key": "Cassirer",
+   "zh": "卡西尔",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：cassirer bruno、cassirer ernst、ernst cassirer）"
+  },
+  {
+   "line": 761,
+   "key": "Causal Approaches",
+   "zh": "因果方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 763,
+   "key": "Champeaux",
+   "zh": "尚波",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 William of Champeaux）"
+  },
+  {
+   "line": 764,
+   "key": "Charles Leslie Stevenson",
+   "zh": "查尔斯·莱斯利·史蒂文森",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 769,
+   "key": "City of the Sun",
+   "zh": "太阳城",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 773,
+   "key": "Cohen",
+   "zh": "科恩",
+   "note": "泛指姓；Hermann Cohen（赫尔曼·科恩，马堡新康德主义）见专条，余者以正文语境为准",
+   "action": "drop"
+  },
+  {
+   "line": 774,
+   "key": "coherence theory",
+   "zh": "融贯论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 778,
+   "key": "Coming of Age",
+   "zh": "老年",
+   "note": "波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》",
+   "action": "book"
+  },
+  {
+   "line": 779,
+   "key": "Commentators",
+   "zh": "评注者",
+   "note": "指古代晚期注释亚里士多德的评注传统（the ancient commentators）",
+   "action": "term"
+  },
+  {
+   "line": 783,
+   "key": "Computing",
+   "zh": "计算",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 792,
+   "key": "Consistent Histories",
+   "zh": "一致性历史",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 793,
+   "key": "Consistent Histories Approach",
+   "zh": "一致性历史方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 795,
+   "key": "constructive",
+   "zh": "构造性的",
+   "note": "数学哲学语境；constructivism 才是“构造主义”（亦译“建构主义”）",
+   "action": "term"
+  },
+  {
+   "line": 797,
+   "key": "Content Externalism",
+   "zh": "内容外在主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 804,
+   "key": "Conventionality",
+   "zh": "约定性；约定性的",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 808,
+   "key": "correspondence theory",
+   "zh": "符合论",
+   "note": "真理符合论（区别于阿伯拉尔 conformality theory 之符合论）",
+   "action": "term"
+  },
+  {
+   "line": 810,
+   "key": "Cudworth",
+   "zh": "库德沃斯",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：cudworth ralph、masham francis cudworth、ralph cudworth）"
+  },
+  {
+   "line": 816,
+   "key": "Dedekind",
+   "zh": "戴德金",
+   "note": "",
+   "action": "person-dup",
+   "matched": "richard dedekind"
+  },
+  {
+   "line": 817,
+   "key": "deflationism",
+   "zh": "紧缩论",
+   "note": "真理紧缩论；亦译“收缩论”",
+   "action": "term"
+  },
+  {
+   "line": 821,
+   "key": "Determinacy",
+   "zh": "决定性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 823,
+   "key": "development",
+   "zh": "发展；发育",
+   "note": "哲学与一般语境译“发展”，生物学语境译“发育”",
+   "action": "term"
+  },
+  {
+   "line": 827,
+   "key": "Diodorus",
+   "zh": "狄奥多罗斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "diodorus cronus"
+  },
+  {
+   "line": 831,
+   "key": "Discovery",
+   "zh": "发现",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 832,
+   "key": "Djamila Boupacha",
+   "zh": "贾米拉·布帕查",
+   "note": "波伏瓦与哈里米合著之书及其人；中文媒体亦作“德贾米拉·波巴查”",
+   "action": "book"
+  },
+  {
+   "line": 834,
+   "key": "Donald Cary Williams",
+   "zh": "唐纳德·卡里·威廉姆斯",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 835,
+   "key": "doxographical tradition / doxography",
+   "zh": "学说史传统；学说汇编",
+   "note": "阿尔克迈翁条术语",
+   "action": "term",
+   "basis": "学界通行（doxography；阿尔克迈翁条术语）"
+  },
+  {
+   "line": 837,
+   "key": "Dugald Stewart",
+   "zh": "杜格尔·斯图尔特",
+   "note": "",
+   "action": "person-dup",
+   "matched": "stewart dugald"
+  },
+  {
+   "line": 842,
+   "key": "Edmund Burke",
+   "zh": "埃德蒙·伯克",
+   "note": "",
+   "action": "person-dup",
+   "matched": "burke edmund"
+  },
+  {
+   "line": 844,
+   "key": "Einstein-Podolsky-Rosen",
+   "zh": "爱因斯坦-波多尔斯基-罗森",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（EPR 论证，三人姓氏连用）"
+  },
+  {
+   "line": 848,
+   "key": "empirical",
+   "zh": "实证",
+   "note": "另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。",
+   "action": "drop"
+  },
+  {
+   "line": 849,
+   "key": "empirical",
+   "zh": "经验的；实证的",
+   "note": "作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文",
+   "action": "term",
+   "basis": "两义并存（empiricism 才是“经验主义”）；《地理研究》2020 年专文（汤茂林、黄展）；凭证 2026-11-13 并网合并两行"
+  },
+  {
+   "line": 850,
+   "key": "empirical approaches",
+   "zh": "经验主义研究",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 856,
+   "key": "Epistemic Structural Realism",
+   "zh": "认识论的结构实在论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 858,
+   "key": "Epistemology of Visual Thinking in Mathematics",
+   "zh": "数学中的视觉思维认识论",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 859,
+   "key": "Ernst Bloch",
+   "zh": "恩斯特·布洛赫",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bloch ernst"
+  },
+  {
+   "line": 862,
+   "key": "Ethics",
+   "zh": "伦理学",
+   "note": "作学科名与书名（如斯宾诺莎《伦理学》）；《模糊性的道德》（The Ethics of Ambiguity）随已出版书名译“道德”",
+   "action": "term",
+   "basis": "作学科名与书名（斯宾诺莎《伦理学》）；《模糊性的道德》随已出版书名译“道德”"
+  },
+  {
+   "line": 863,
+   "key": "Ethics of Ambiguity",
+   "zh": "模糊性的道德",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 864,
+   "key": "ethics of belief",
+   "zh": "信念伦理学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 867,
+   "key": "Experience",
+   "zh": "经验；体验",
+   "note": "经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”",
+   "action": "term",
+   "basis": "经验主义与认识论语境译“经验”；现象学语境（lived experience）译“体验”"
+  },
+  {
+   "line": 871,
+   "key": "Extrinsic",
+   "zh": "外在",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 872,
+   "key": "Faith in a Seed",
+   "zh": "种子的信仰",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 873,
+   "key": "Fakhr al-Din",
+   "zh": "法赫尔丁·拉齐",
+   "note": "",
+   "action": "person-dup",
+   "matched": "fakhr al din al razi"
+  },
+  {
+   "line": 874,
+   "key": "Fall",
+   "zh": "堕落",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（the Fall，神学与奥古斯丁语境）"
+  },
+  {
+   "line": 879,
+   "key": "Formal Approaches",
+   "zh": "形式化方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 885,
+   "key": "Francis Herbert Bradley",
+   "zh": "弗朗西斯·赫伯特·布拉德雷",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bradley francis herbert"
+  },
+  {
+   "line": 886,
+   "key": "Francis Hutcheson",
+   "zh": "弗朗西斯·哈奇森",
+   "note": "Francis 统一译“弗朗西斯”（与 Francis Bacon 一致）",
+   "action": "person-dup",
+   "matched": "hutcheson francis"
+  },
+  {
+   "line": 887,
+   "key": "Francisco Suárez",
+   "zh": "弗朗西斯科·苏亚雷斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "suarez francisco"
+  },
+  {
+   "line": 888,
+   "key": "Franz Brentano",
+   "zh": "弗朗兹·布伦塔诺",
+   "note": "对齐人名表与 SUMMARY 条目名（2026-11-04）；学界亦作“弗朗茨”",
+   "action": "person-dup",
+   "matched": "brentano franz"
+  },
+  {
+   "line": 889,
+   "key": "François-Marie d’Arouet",
+   "zh": "弗朗索瓦-马里·阿鲁埃",
+   "note": "伏尔泰本名；旧值分隔符“‧”系误植，正为间隔号“·”",
+   "action": "merge"
+  },
+  {
+   "line": 892,
+   "key": "Friedrich Albert Lange",
+   "zh": "弗里德里希·阿尔贝特·朗格",
+   "note": "",
+   "action": "person-new",
+   "guojia": "德国",
+   "dates": "1828–1875"
+  },
+  {
+   "line": 895,
+   "key": "general idea",
+   "zh": "一般观念",
+   "note": "洛克、贝克莱语境（普遍观念）；“概述”是日常义，哲学语境不用",
+   "action": "term"
+  },
+  {
+   "line": 897,
+   "key": "Georg Cantor",
+   "zh": "格奥尔格·康托尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "cantor georg"
+  },
+  {
+   "line": 898,
+   "key": "George Berkeley",
+   "zh": "乔治·贝克莱",
+   "note": "",
+   "action": "person-dup",
+   "matched": "berkeley george"
+  },
+  {
+   "line": 900,
+   "key": "George Campbell",
+   "zh": "乔治·坎贝尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "campbell"
+  },
+  {
+   "line": 901,
+   "key": "George Turnbull",
+   "zh": "乔治·特恩布尔",
+   "note": "",
+   "action": "person-new",
+   "guojia": "苏格兰",
+   "dates": "1698–1748"
+  },
+  {
+   "line": 903,
+   "key": "Gershom Carmichael",
+   "zh": "格肖姆·卡迈克尔",
+   "note": "",
+   "action": "person-new",
+   "guojia": "苏格兰",
+   "dates": "1672–1729"
+  },
+  {
+   "line": 905,
+   "key": "Girolamo Cardano",
+   "zh": "吉罗拉莫·卡尔达诺",
+   "note": "",
+   "action": "person-dup",
+   "matched": "cardano girolamo"
+  },
+  {
+   "line": 906,
+   "key": "God’s Existence",
+   "zh": "上帝存在",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 907,
+   "key": "Gravity",
+   "zh": "引力",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 908,
+   "key": "Great Learning",
+   "zh": "大学问",
+   "note": "王阳明《大学问》；儒家经典《大学》英译亦作 the Great Learning，注意分辨语境",
+   "action": "term",
+   "basis": "王阳明《大学问》；儒家经典《大学》英译亦作 the Great Learning，按语境分辨"
+  },
+  {
+   "line": 909,
+   "key": "Greek sources",
+   "zh": "希腊文献",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 910,
+   "key": "Grouchy",
+   "zh": "格鲁希",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Sophie de Grouchy）"
+  },
+  {
+   "line": 912,
+   "key": "Hans Vaihinger",
+   "zh": "汉斯·费英格",
+   "note": "",
+   "action": "person-new",
+   "guojia": "德国",
+   "dates": "1852–1933"
+  },
+  {
+   "line": 914,
+   "key": "Henri Bergson",
+   "zh": "亨利·柏格森",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bergson henri"
+  },
+  {
+   "line": 916,
+   "key": "Henry Home",
+   "zh": "亨利·霍姆",
+   "note": "",
+   "action": "person-dup",
+   "matched": "home henry"
+  },
+  {
+   "line": 919,
+   "key": "Herbert Simon",
+   "zh": "司马贺",
+   "note": "其本人自取并通行的中文名，音译“赫伯特·西蒙”反而罕用",
+   "action": "person-new",
+   "guojia": "美国",
+   "dates": "1916–2001"
+  },
+  {
+   "line": 920,
+   "key": "Herbert Spencer",
+   "zh": "赫伯特·斯宾塞",
+   "note": "",
+   "action": "person-dup",
+   "matched": "spencer herbert"
+  },
+  {
+   "line": 921,
+   "key": "Hermann Cohen",
+   "zh": "赫尔曼·科恩",
+   "note": "",
+   "action": "person-dup",
+   "matched": "cohen hermann"
+  },
+  {
+   "line": 922,
+   "key": "Hermann Weyl",
+   "zh": "赫尔曼·外尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "weyl hermann"
+  },
+  {
+   "line": 923,
+   "key": "Hermeias",
+   "zh": "赫尔米亚",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 928,
+   "key": "Hugh Blair",
+   "zh": "休·布莱尔",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 932,
+   "key": "Ibn Bâjja",
+   "zh": "伊本·巴哲",
+   "note": "即拉丁通行名 Avempace 所指同一人物（ADR-0013 归并）",
+   "action": "person-dup",
+   "matched": "ibn bajja"
+  },
+  {
+   "line": 934,
+   "key": "Ibn Rushd",
+   "zh": "伊本·鲁世德",
+   "note": "即阿威罗伊（Averroes），同一人物两通行名（ADR-0013 归并）",
+   "action": "person-dup",
+   "matched": "ibn rushd"
+  },
+  {
+   "line": 935,
+   "key": "Ibn Sina",
+   "zh": "伊本·西那",
+   "note": "即阿维森纳（Avicenna），同一人物两通行名（ADR-0013 归并）",
+   "action": "person-dup",
+   "matched": "ibn sina"
+  },
+  {
+   "line": 938,
+   "key": "Identity",
+   "zh": "同一性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 939,
+   "key": "identity theory",
+   "zh": "同一论",
+   "note": "心脑同一论语境；“同一性”译法见 Identity 条",
+   "action": "term"
+  },
+  {
+   "line": 942,
+   "key": "implicit bias",
+   "zh": "内隐偏见",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 944,
+   "key": "Incommensurable",
+   "zh": "不可通约性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 945,
+   "key": "independence",
+   "zh": "独立性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 949,
+   "key": "Individuals",
+   "zh": "个体",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（斯特劳森《个体》（Individuals, 1959）书名语境）"
+  },
+  {
+   "line": 952,
+   "key": "Inertial Frames",
+   "zh": "惯性系",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 957,
+   "key": "inherence",
+   "zh": "依存；寓存",
+   "note": "指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别",
+   "action": "term"
+  },
+  {
+   "line": 958,
+   "key": "inner speech",
+   "zh": "内部言语",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 965,
+   "key": "Intrinsic",
+   "zh": "内在",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 967,
+   "key": "Intuitionistic",
+   "zh": "直觉主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 970,
+   "key": "Isaac Albalag",
+   "zh": "以撒·阿尔巴拉格",
+   "note": "",
+   "action": "person-dup",
+   "matched": "albalag isaac"
+  },
+  {
+   "line": 974,
+   "key": "James Beattie",
+   "zh": "詹姆斯·比蒂",
+   "note": "",
+   "action": "person-new",
+   "guojia": "苏格兰",
+   "dates": "1735–1803"
+  },
+  {
+   "line": 975,
+   "key": "James Burnett",
+   "zh": "詹姆斯·伯内特",
+   "note": "",
+   "action": "person-new",
+   "guojia": "苏格兰",
+   "dates": "1714–1799"
+  },
+  {
+   "line": 976,
+   "key": "James Dunbar",
+   "zh": "詹姆斯·邓巴",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 977,
+   "key": "James Hutton",
+   "zh": "詹姆斯·赫顿",
+   "note": "",
+   "action": "person-new",
+   "guojia": "苏格兰",
+   "dates": "1726–1797"
+  },
+  {
+   "line": 978,
+   "key": "Jean Baudrillard",
+   "zh": "让·鲍德里亚",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 979,
+   "key": "Jean Bodin",
+   "zh": "让·博丹",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bodin jean"
+  },
+  {
+   "line": 981,
+   "key": "Jeremy Bentham",
+   "zh": "杰里米·边沁",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bentham jeremy"
+  },
+  {
+   "line": 982,
+   "key": "Johann Christoph Sturm",
+   "zh": "约翰内斯·克里斯托夫·施图尔姆",
+   "note": "",
+   "action": "person-dup",
+   "matched": "sturm johann christoph"
+  },
+  {
+   "line": 983,
+   "key": "Johann Sturm",
+   "zh": "约翰内斯·施图尔姆",
+   "note": "",
+   "action": "merge"
+  },
+  {
+   "line": 985,
+   "key": "John Cook Wilson",
+   "zh": "约翰·库克·威尔逊",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 988,
+   "key": "Judah Abrabanel",
+   "zh": "犹大·莱昂·阿布拉瓦内尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "abrabanel judah"
+  },
+  {
+   "line": 991,
+   "key": "Just Assassins",
+   "zh": "正义者",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 992,
+   "key": "Justification",
+   "zh": "证成",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 993,
+   "key": "Justification",
+   "zh": "证成（认识论语境）；辩护（行动语境）",
+   "note": "",
+   "action": "term",
+   "basis": "双义分工（并网合并两行）"
+  },
+  {
+   "line": 998,
+   "key": "Khayyam",
+   "zh": "海亚姆",
+   "note": "",
+   "action": "person-dup",
+   "matched": "khayyam umar"
+  },
+  {
+   "line": 999,
+   "key": "Kochen-Specker",
+   "zh": "科亨-施佩克尔",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（Kochen–Specker 定理语境，双人名连用）"
+  },
+  {
+   "line": 1000,
+   "key": "KS Theorem",
+   "zh": "KS 定理",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（Kochen–Specker 定理缩写形）"
+  },
+  {
+   "line": 1001,
+   "key": "Lange",
+   "zh": "朗格",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：joachim lange、lange marc）"
+  },
+  {
+   "line": 1002,
+   "key": "Large Cardinals",
+   "zh": "大基数",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1003,
+   "key": "Latin America",
+   "zh": "拉丁美洲",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（地域名）"
+  },
+  {
+   "line": 1004,
+   "key": "Latin West",
+   "zh": "拉丁西方",
+   "note": "中世纪语境通行译法；旧译“西方拉丁世界”拗口，废弃",
+   "action": "term",
+   "basis": "中世纪语境通行译法；旧译“西方拉丁世界”废弃"
+  },
+  {
+   "line": 1007,
+   "key": "Leo Strauss",
+   "zh": "列奥·施特劳斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "strauss leo"
+  },
+  {
+   "line": 1013,
+   "key": "logical atomism",
+   "zh": "逻辑原子主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1015,
+   "key": "Long March",
+   "zh": "长征",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1016,
+   "key": "Lord Keeper of the Seal",
+   "zh": "掌玺大臣",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1017,
+   "key": "Lord Monboddo",
+   "zh": "蒙博多勋爵",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 1019,
+   "key": "Ludwig Boltzmann",
+   "zh": "路德维希·玻尔兹曼",
+   "note": "",
+   "action": "person-dup",
+   "matched": "boltzmann ludwig"
+  },
+  {
+   "line": 1020,
+   "key": "Ludwig Wittgenstein",
+   "zh": "路德维希·维特根斯坦",
+   "note": "",
+   "action": "person-dup",
+   "matched": "wittgenstein ludwig"
+  },
+  {
+   "line": 1021,
+   "key": "Luitzen Egbertus Jan Brouwer",
+   "zh": "勒伊岑·艾赫贝特斯·扬·布劳威尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "brouwer luitzen egbertus jan"
+  },
+  {
+   "line": 1025,
+   "key": "Margarete Susman",
+   "zh": "玛格丽特·苏斯曼",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1030,
+   "key": "mañana paradox",
+   "zh": "明天悖论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1031,
+   "key": "McTaggart",
+   "zh": "麦克塔格特",
+   "note": "",
+   "action": "person-dup",
+   "matched": "mctaggart j m e",
+   "conflict": "译法与册行不一致，待裁定"
+  },
+  {
+   "line": 1036,
+   "key": "Methods",
+   "zh": "方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1038,
+   "key": "Mirror of Production",
+   "zh": "生产之镜",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1039,
+   "key": "Modal Interpretations",
+   "zh": "模态解释",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1041,
+   "key": "modal metaphysics",
+   "zh": "模态形而上学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1045,
+   "key": "Montague",
+   "zh": "蒙太古",
+   "note": "",
+   "action": "person-dup",
+   "matched": "montague richard"
+  },
+  {
+   "line": 1046,
+   "key": "moral desert",
+   "zh": "道德应得",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1052,
+   "key": "Moral Vegetarianism",
+   "zh": "伦理素食主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1053,
+   "key": "More",
+   "zh": "莫尔",
+   "note": "泛指性简称；Henry More（亨利·莫尔，剑桥柏拉图学派）见专条，Thomas More（托马斯·莫尔）等同姓者以正文语境为准",
+   "action": "drop"
+  },
+  {
+   "line": 1054,
+   "key": "most famous pair",
+   "zh": "最著名的一对",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（binarium famosissimum 的英文别称）"
+  },
+  {
+   "line": 1055,
+   "key": "Must We Burn Sade",
+   "zh": "要焚毁萨德吗",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1057,
+   "key": "Myth of Sisyphus",
+   "zh": "西西弗神话",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1058,
+   "key": "Myths",
+   "zh": "神话",
+   "note": "多指柏拉图对话中的神话（Plato’s myths）；旧表“秘所思”系讹译，废弃",
+   "action": "term"
+  },
+  {
+   "line": 1060,
+   "key": "Natorp",
+   "zh": "那托普",
+   "note": "",
+   "action": "person-dup",
+   "matched": "natorp paul"
+  },
+  {
+   "line": 1069,
+   "key": "Naturalistic Approaches",
+   "zh": "自然主义方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1070,
+   "key": "neo-Kantianism",
+   "zh": "新康德主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1072,
+   "key": "Nicolaus Taurellus",
+   "zh": "尼古拉斯·塔雷路斯",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1074,
+   "key": "Niels Bohr",
+   "zh": "尼尔斯·玻尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "bohr niels"
+  },
+  {
+   "line": 1080,
+   "key": "non-wellfounded",
+   "zh": "非良基",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1081,
+   "key": "Nova Atlantis",
+   "zh": "新大西岛",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1082,
+   "key": "Novum Organum Scientiarum",
+   "zh": "新工具",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1083,
+   "key": "Nuptials",
+   "zh": "婚礼集",
+   "note": "即加缪散文集 Noces，郭宏安译本收入《反与正 婚礼集 夏天集》（译林出版社）",
+   "action": "book"
+  },
+  {
+   "line": 1085,
+   "key": "Nyāya-Vaiśeṣika",
+   "zh": "正理-胜论派",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1087,
+   "key": "observation",
+   "zh": "观察",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1103,
+   "key": "Paul Natorp",
+   "zh": "保罗·那托普",
+   "note": "",
+   "action": "person-dup",
+   "matched": "natorp paul"
+  },
+  {
+   "line": 1107,
+   "key": "Peter Abelard",
+   "zh": "彼得·阿伯拉尔",
+   "note": "法语原名 Pierre Abelard（皮埃尔·阿伯拉尔）；正文通常简称阿伯拉尔，见 Abelard 条",
+   "action": "person-dup",
+   "matched": "abelard peter"
+  },
+  {
+   "line": 1108,
+   "key": "Peter Frederick Strawson",
+   "zh": "彼得·弗雷德里克·斯特劳森",
+   "note": "",
+   "action": "person-dup",
+   "matched": "strawson p f"
+  },
+  {
+   "line": 1111,
+   "key": "Phenomenological Approaches",
+   "zh": "现象学方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1112,
+   "key": "Philo",
+   "zh": "斐洛",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：philo judaeus、philo of larissa）"
+  },
+  {
+   "line": 1114,
+   "key": "Philoponus",
+   "zh": "菲洛波努斯",
+   "note": "约翰·菲洛波努斯（John Philoponus，约 490—570），亚历山大里亚注释家；对齐人名表（亦作“菲洛波诺斯”，凭证 2026-11-06；语料 28 见）。勿与 Philolaus（菲洛劳斯，毕达哥拉斯学派）混淆",
+   "action": "person-dup",
+   "matched": "philoponus john"
+  },
+  {
+   "line": 1115,
+   "key": "Philosophy of Sport",
+   "zh": "体育哲学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1116,
+   "key": "Philosophy of Statistical Mechanics",
+   "zh": "统计力学哲学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1117,
+   "key": "Philosophy of Statistics",
+   "zh": "统计学哲学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1118,
+   "key": "Philosophy of Technology",
+   "zh": "技术哲学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1122,
+   "key": "Plague",
+   "zh": "鼠疫",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1124,
+   "key": "Platonism",
+   "zh": "柏拉图主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1125,
+   "key": "Platonists",
+   "zh": "柏拉图主义者",
+   "note": "指人；学说为 Platonism（柏拉图主义）",
+   "action": "term"
+  },
+  {
+   "line": 1127,
+   "key": "pluralism",
+   "zh": "多元主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1128,
+   "key": "pluralist theories",
+   "zh": "多元论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1134,
+   "key": "possible world",
+   "zh": "可能世界",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（复数 possible worlds 同）"
+  },
+  {
+   "line": 1135,
+   "key": "possible worlds",
+   "zh": "可能世界",
+   "note": "possible world 复数异形",
+   "action": "drop"
+  },
+  {
+   "line": 1136,
+   "key": "Post-Newtonian",
+   "zh": "后牛顿",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1139,
+   "key": "pragmatic",
+   "zh": "语用（的）；实用（的）",
+   "note": "语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”",
+   "action": "term"
+  },
+  {
+   "line": 1141,
+   "key": "Pragmatist",
+   "zh": "实用主义者",
+   "note": "名词指人；形容词“实用主义的”",
+   "action": "term"
+  },
+  {
+   "line": 1148,
+   "key": "problem of universals",
+   "zh": "共相问题",
+   "note": "对齐登记册（termonline-standard GB 标准库凭证 2026-10-28；审定库复核 2026-10-29 保留现译）；旧译“普遍性问题”不采",
+   "action": "term"
+  },
+  {
+   "line": 1149,
+   "key": "Progress",
+   "zh": "进步",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1151,
+   "key": "Proof-Theoretic",
+   "zh": "证明论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1153,
+   "key": "property",
+   "zh": "属性；性质",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1154,
+   "key": "Pseudo-Science",
+   "zh": "伪科学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1158,
+   "key": "Pyrrhus and Cinéas",
+   "zh": "皮瑞斯与辛尼阿斯",
+   "note": "波伏瓦首部哲学论著，暂无简中出版译本；Pyrrhus 通译“皮洛士”，正文首次出现宜括注原文",
+   "action": "book"
+  },
+  {
+   "line": 1161,
+   "key": "QFT",
+   "zh": "量子场论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1162,
+   "key": "Quantum Approaches",
+   "zh": "量子研究方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1163,
+   "key": "Quantum Field Theory",
+   "zh": "量子场论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1167,
+   "key": "Quantum-Bayesian",
+   "zh": "量子贝叶斯模型",
+   "note": "即 QBism，亦译“量子贝叶斯主义”",
+   "action": "term"
+  },
+  {
+   "line": 1170,
+   "key": "Rasâ’il",
+   "zh": "《论文集》",
+   "note": "",
+   "action": "book",
+   "orig": "Rasâ’il",
+   "basis": "伊本·库拉书信集通行题名"
+  },
+  {
+   "line": 1173,
+   "key": "Razi",
+   "zh": "拉齐",
+   "note": "",
+   "action": "merge"
+  },
+  {
+   "line": 1176,
+   "key": "Rebel",
+   "zh": "反抗者",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1178,
+   "key": "Regress",
+   "zh": "倒退",
+   "note": "认识论语境常作“无穷倒退”（infinite regress）",
+   "action": "term"
+  },
+  {
+   "line": 1179,
+   "key": "Reinhold",
+   "zh": "莱因霍尔德",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：reinhold erasmus、karl leonhard reinhold、reinhold karl leonhard）"
+  },
+  {
+   "line": 1180,
+   "key": "Relational",
+   "zh": "关系性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1184,
+   "key": "Representation",
+   "zh": "表征",
+   "note": "认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”",
+   "action": "term"
+  },
+  {
+   "line": 1186,
+   "key": "Research",
+   "zh": "研究",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1187,
+   "key": "Retrocausality",
+   "zh": "逆因果关系",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1188,
+   "key": "revision theory",
+   "zh": "修正论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1189,
+   "key": "Revolutions",
+   "zh": "革命",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1190,
+   "key": "Rigor",
+   "zh": "严谨性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1192,
+   "key": "Rudolf Carnap",
+   "zh": "鲁道夫·卡尔纳普",
+   "note": "",
+   "action": "person-dup",
+   "matched": "carnap rudolf"
+  },
+  {
+   "line": 1194,
+   "key": "Samuel",
+   "zh": "塞缪尔",
+   "note": "泛指名，具体所指以正文为准（如 Samuel Alexander 塞缪尔·亚历山大见专条）",
+   "action": "drop"
+  },
+  {
+   "line": 1195,
+   "key": "Samuel Alexander",
+   "zh": "塞缪尔·亚历山大",
+   "note": "",
+   "action": "person-dup",
+   "matched": "alexander samuel"
+  },
+  {
+   "line": 1197,
+   "key": "Sartre",
+   "zh": "萨特",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：jean paul sartre、sartre jean paul）"
+  },
+  {
+   "line": 1200,
+   "key": "Schelling",
+   "zh": "谢林",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：friedrich wilhelm joseph schelling、schelling caroline、schelling friedrich wilhelm joseph、schelling thomas）"
+  },
+  {
+   "line": 1201,
+   "key": "Science",
+   "zh": "科学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1202,
+   "key": "scientific knowledge",
+   "zh": "科学知识",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1203,
+   "key": "Scientific Method",
+   "zh": "科学方法",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1207,
+   "key": "Scientific Theory",
+   "zh": "科学理论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1209,
+   "key": "Second Sex",
+   "zh": "第二性",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1211,
+   "key": "Self-Deception",
+   "zh": "自我欺骗",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1212,
+   "key": "Self-Defense",
+   "zh": "自卫",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1213,
+   "key": "Self-Doubt",
+   "zh": "自我怀疑",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1215,
+   "key": "Self-Locating",
+   "zh": "自我定位",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1216,
+   "key": "Self-Locating Beliefs",
+   "zh": "自我定位信念",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1217,
+   "key": "Self-Reference",
+   "zh": "自我指涉",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1218,
+   "key": "Semantics",
+   "zh": "语义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1221,
+   "key": "Set Theory",
+   "zh": "集合论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1222,
+   "key": "Lord Shaftesbury",
+   "zh": "沙夫茨伯里勋爵",
+   "note": "见 3rd Earl of Shaftesbury、Anthony Ashley Cooper 条",
+   "action": "merge"
+  },
+  {
+   "line": 1223,
+   "key": "She Came to Stay",
+   "zh": "女宾",
+   "note": "波伏瓦首部小说（L’Invitée），上海译文出版社中译本《女宾》（周以光译）",
+   "action": "book"
+  },
+  {
+   "line": 1224,
+   "key": "Sherwood",
+   "zh": "舍伍德",
+   "note": "",
+   "action": "person-dup",
+   "matched": "william of sherwood"
+  },
+  {
+   "line": 1227,
+   "key": "Simone de Beauvoir",
+   "zh": "西蒙娜·德·波伏瓦",
+   "note": "通行“波伏瓦”，见 Beauvoir 条",
+   "action": "person-dup",
+   "matched": "beauvoir simone de",
+   "conflict": "译法与册行不一致，待裁定"
+  },
+  {
+   "line": 1228,
+   "key": "Simone Weil",
+   "zh": "西蒙娜·薇依",
+   "note": "",
+   "action": "person-new",
+   "guojia": "法国",
+   "dates": "1909–1943"
+  },
+  {
+   "line": 1231,
+   "key": "Singularities",
+   "zh": "奇点",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1233,
+   "key": "social construction",
+   "zh": "社会建构",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1235,
+   "key": "Social Dimensions",
+   "zh": "社会维度",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1236,
+   "key": "Social Institutions",
+   "zh": "社会制度",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1237,
+   "key": "social minimum",
+   "zh": "社会最低保障",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1238,
+   "key": "Social Networking",
+   "zh": "网络社交",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1239,
+   "key": "Social Norms",
+   "zh": "社会规范",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1242,
+   "key": "Socialism",
+   "zh": "社会主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1244,
+   "key": "Sophie de Grouchy",
+   "zh": "索菲·德·格鲁希",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1246,
+   "key": "Sortals",
+   "zh": "种类词",
+   "note": "哲学逻辑术语：提供计数与个体化、同一性标准的名词性概念；中文文献亦多保留英文原词",
+   "action": "term",
+   "basis": "哲学逻辑术语（计数与个体化、同一性标准）；中文文献亦多保留英文原词"
+  },
+  {
+   "line": 1248,
+   "key": "Sounds",
+   "zh": "声音",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1253,
+   "key": "Spencer",
+   "zh": "斯宾塞",
+   "note": "",
+   "action": "person-dup",
+   "matched": "spencer herbert"
+  },
+  {
+   "line": 1255,
+   "key": "Speusippus of Athens",
+   "zh": "雅典的斯彪西波",
+   "note": "",
+   "action": "person-dup",
+   "matched": "speusippus"
+  },
+  {
+   "line": 1259,
+   "key": "St. Petersburg",
+   "zh": "圣彼得堡（地名）",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（与圣彼得堡悖论 St. Petersburg paradox 分立）"
+  },
+  {
+   "line": 1260,
+   "key": "St. Petersburg paradox",
+   "zh": "圣彼得堡悖论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1262,
+   "key": "statistical physics",
+   "zh": "统计物理学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1263,
+   "key": "Stevenson",
+   "zh": "史蒂文森",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Charles Leslie Stevenson）"
+  },
+  {
+   "line": 1264,
+   "key": "Stirner",
+   "zh": "施蒂纳",
+   "note": "",
+   "action": "person-dup",
+   "matched": "max stirner"
+  },
+  {
+   "line": 1265,
+   "key": "Stoicism",
+   "zh": "斯多葛主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1266,
+   "key": "Stranger",
+   "zh": "局外人",
+   "note": "",
+   "action": "book",
+   "basis": "加缪小说 L’Étranger 英译题名 The Stranger；上海译文等中译通行《局外人》"
+  },
+  {
+   "line": 1267,
+   "key": "Strauss",
+   "zh": "施特劳斯",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：david friedrich strauss、strauss david friedrich、strauss leo）"
+  },
+  {
+   "line": 1268,
+   "key": "Strawson",
+   "zh": "斯特劳森",
+   "note": "",
+   "action": "person-dup",
+   "matched": "strawson p f"
+  },
+  {
+   "line": 1271,
+   "key": "Structure",
+   "zh": "结构",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1272,
+   "key": "Stumpf",
+   "zh": "斯图姆夫",
+   "note": "",
+   "action": "person-dup",
+   "matched": "carl stumpf"
+  },
+  {
+   "line": 1273,
+   "key": "Sturm",
+   "zh": "施图尔姆",
+   "note": "泛指姓；Johann Christoph Sturm（约翰内斯·克里斯托夫·施图尔姆）见专条",
+   "action": "drop"
+  },
+  {
+   "line": 1280,
+   "key": "Supertasks",
+   "zh": "超级任务",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1282,
+   "key": "Supervenience in Ethics",
+   "zh": "道德随附性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1283,
+   "key": "Susman",
+   "zh": "苏斯曼",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Margarete Susman）"
+  },
+  {
+   "line": 1284,
+   "key": "Suárez",
+   "zh": "苏亚雷斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "suarez francisco"
+  },
+  {
+   "line": 1286,
+   "key": "Syrianus",
+   "zh": "西里阿努斯",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1287,
+   "key": "System of Objects",
+   "zh": "物体系",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1288,
+   "key": "Tarski",
+   "zh": "塔尔斯基",
+   "note": "",
+   "action": "person-dup",
+   "matched": "alfred tarski"
+  },
+  {
+   "line": 1289,
+   "key": "Taurellus",
+   "zh": "塔雷路斯",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Nicolaus Taurellus）"
+  },
+  {
+   "line": 1291,
+   "key": "Teleological",
+   "zh": "目的论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1292,
+   "key": "Teleological Arguments",
+   "zh": "目的论论证",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1293,
+   "key": "Teleological Notions",
+   "zh": "目的论观念",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1294,
+   "key": "Telesio",
+   "zh": "特莱西奥",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：antonio telesio、bernardino telesio）"
+  },
+  {
+   "line": 1295,
+   "key": "temporal consciousness",
+   "zh": "时间意识",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1296,
+   "key": "Temporal Parts",
+   "zh": "时间部分",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1297,
+   "key": "Tense",
+   "zh": "时态",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1298,
+   "key": "Territorial Justice",
+   "zh": "领土正义",
+   "note": "“领地”指庄园、领主领地；此处 territorial 取“领土”义",
+   "action": "term"
+  },
+  {
+   "line": 1299,
+   "key": "Territorial Rights",
+   "zh": "领土权利",
+   "note": "rights=权利；“领土主权”对应 territorial sovereignty，勿混",
+   "action": "term"
+  },
+  {
+   "line": 1300,
+   "key": "Terrorism",
+   "zh": "恐怖主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1301,
+   "key": "testimony",
+   "zh": "证言",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1302,
+   "key": "Tetsurō",
+   "zh": "哲郎",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 1304,
+   "key": "Theological Voluntarism",
+   "zh": "神学意志主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1305,
+   "key": "Theological-Political Treatise",
+   "zh": "神学政治论",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1307,
+   "key": "Theoretical Terms",
+   "zh": "理论术语",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1309,
+   "key": "Theory",
+   "zh": "理论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1310,
+   "key": "theory of judgement",
+   "zh": "判断理论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1311,
+   "key": "thermodynamic time asymmetry",
+   "zh": "热力学时间非对称性",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1312,
+   "key": "Thick Ethical Concepts",
+   "zh": "厚伦理概念",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1313,
+   "key": "thin",
+   "zh": "薄（的）",
+   "note": "威廉姆斯 thick/thin ethical concepts 即“厚/薄”伦理概念；旧表“瘦”系误译",
+   "action": "term"
+  },
+  {
+   "line": 1315,
+   "key": "Thomas of Erfurt",
+   "zh": "埃尔福特的托马斯",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1316,
+   "key": "Thought Experiments",
+   "zh": "思想实验",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1319,
+   "key": "Time",
+   "zh": "时间",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1320,
+   "key": "Time Machines",
+   "zh": "时间机器",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1321,
+   "key": "Time Travel",
+   "zh": "时间旅行",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1322,
+   "key": "Timon",
+   "zh": "第蒙",
+   "note": "皮浪主义者，亦作“蒂蒙”“蒂孟”",
+   "action": "person-dup",
+   "matched": "timon of phlius"
+  },
+  {
+   "line": 1325,
+   "key": "Tokens",
+   "zh": "殊例",
+   "note": "见 Token 条",
+   "action": "drop"
+  },
+  {
+   "line": 1326,
+   "key": "Tommaso Campanella",
+   "zh": "托马斯·康帕内拉",
+   "note": "",
+   "action": "person-dup",
+   "matched": "campanella tommaso"
+  },
+  {
+   "line": 1329,
+   "key": "Tractatus Politicus",
+   "zh": "政治论",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1330,
+   "key": "Transcendental Arguments",
+   "zh": "先验论证",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1332,
+   "key": "Transformative Experience",
+   "zh": "变革性体验",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1333,
+   "key": "Transmission",
+   "zh": "传递",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1334,
+   "key": "Trinity",
+   "zh": "三位一体",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1335,
+   "key": "triumph",
+   "zh": "胜利",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 1337,
+   "key": "Truth",
+   "zh": "真理",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1338,
+   "key": "truth definitions",
+   "zh": "真理定义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1339,
+   "key": "truth values",
+   "zh": "真值",
+   "note": "truth value 复数异形",
+   "action": "term"
+  },
+  {
+   "line": 1340,
+   "key": "Truthlikeness",
+   "zh": "似真性",
+   "note": "波普尔 verisimilitude，中译亦作“逼真性”",
+   "action": "term"
+  },
+  {
+   "line": 1341,
+   "key": "truthmakers",
+   "zh": "使真者",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1343,
+   "key": "Tsongkhapa Losang Drakpa",
+   "zh": "宗喀巴·洛桑札巴",
+   "note": "",
+   "action": "person-dup",
+   "matched": "tsongkhapa"
+  },
+  {
+   "line": 1344,
+   "key": "Turing",
+   "zh": "图灵",
+   "note": "",
+   "action": "person-dup",
+   "matched": "turing alan"
+  },
+  {
+   "line": 1345,
+   "key": "Turing machines",
+   "zh": "图灵机",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1346,
+   "key": "Turing test",
+   "zh": "图灵测试",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1347,
+   "key": "Two-Dimensional",
+   "zh": "二维",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1348,
+   "key": "type",
+   "zh": "类型",
+   "note": "type-token 即“类型—殊例”之分，见 Token 条",
+   "action": "term",
+   "basis": "学界通行（type-token 类型—殊例之分；复数 Types 同）"
+  },
+  {
+   "line": 1350,
+   "key": "Types",
+   "zh": "类型",
+   "note": "",
+   "action": "drop"
+  },
+  {
+   "line": 1351,
+   "key": "Umar Khayyam",
+   "zh": "欧玛尔·海亚姆",
+   "note": "",
+   "action": "person-dup",
+   "matched": "khayyam umar"
+  },
+  {
+   "line": 1355,
+   "key": "Unity of Science",
+   "zh": "统一科学",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1360,
+   "key": "Vaihinger",
+   "zh": "费英格",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Hans Vaihinger）"
+  },
+  {
+   "line": 1362,
+   "key": "Valla",
+   "zh": "瓦拉",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：lorenzo valla、valla lorenzo）"
+  },
+  {
+   "line": 1363,
+   "key": "value",
+   "zh": "价值",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1364,
+   "key": "value theory",
+   "zh": "价值论",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1366,
+   "key": "Vegetarianism",
+   "zh": "素食主义",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1369,
+   "key": "visual thinking in mathematics",
+   "zh": "数学中的视觉思维",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1370,
+   "key": "Vives",
+   "zh": "维夫斯",
+   "note": "",
+   "action": "person-dup",
+   "matched": "juan luis vives",
+   "conflict": "译法与册行不一致，待裁定"
+  },
+  {
+   "line": 1373,
+   "key": "Voting",
+   "zh": "投票",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1374,
+   "key": "Walden",
+   "zh": "瓦尔登湖",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1378,
+   "key": "War",
+   "zh": "战争",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1380,
+   "key": "Watsuji",
+   "zh": "和辻",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Watsuji Tetsurō）"
+  },
+  {
+   "line": 1381,
+   "key": "Watsuji Tetsurō",
+   "zh": "和辻哲郎",
+   "note": "",
+   "action": "person-new",
+   "guojia": "日本",
+   "dates": "1889–1960"
+  },
+  {
+   "line": 1383,
+   "key": "Weil",
+   "zh": "薇依",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（同批全名行 Simone Weil）"
+  },
+  {
+   "line": 1385,
+   "key": "Weyl",
+   "zh": "外尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "weyl hermann"
+  },
+  {
+   "line": 1386,
+   "key": "Whewell",
+   "zh": "惠威尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "whewell william"
+  },
+  {
+   "line": 1387,
+   "key": "Whichcote",
+   "zh": "惠科特",
+   "note": "",
+   "action": "person-dup",
+   "matched": "whichcote benjamin"
+  },
+  {
+   "line": 1388,
+   "key": "Whitehead",
+   "zh": "怀特海",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：alfred north whitehead、whitehead alfred north）"
+  },
+  {
+   "line": 1389,
+   "key": "Wild Fruits",
+   "zh": "野果",
+   "note": "",
+   "action": "book"
+  },
+  {
+   "line": 1391,
+   "key": "The Will to Believe",
+   "zh": "信仰的意志",
+   "note": "詹姆斯著作，通行中译《信仰的意志》；作概念短语亦译“信念的意志”",
+   "action": "book"
+  },
+  {
+   "line": 1394,
+   "key": "William of Champeaux",
+   "zh": "尚波的威廉",
+   "note": "",
+   "action": "person-new"
+  },
+  {
+   "line": 1396,
+   "key": "William Whewell",
+   "zh": "威廉·惠威尔",
+   "note": "",
+   "action": "person-dup",
+   "matched": "whewell william"
+  },
+  {
+   "line": 1397,
+   "key": "Williams",
+   "zh": "威廉姆斯",
+   "note": "泛指姓；Bernard Williams（伯纳德·威廉姆斯）与 Donald Cary Williams（唐纳德·卡里·威廉姆斯）为不同人，均见专条",
+   "action": "drop"
+  },
+  {
+   "line": 1398,
+   "key": "Wilson",
+   "zh": "威尔逊",
+   "note": "泛指姓，具体所指以正文语境为准",
+   "action": "drop"
+  },
+  {
+   "line": 1399,
+   "key": "Windelband",
+   "zh": "文德尔班",
+   "note": "",
+   "action": "person-dup",
+   "matched": "wilhelm windelband"
+  },
+  {
+   "line": 1400,
+   "key": "Wisdom",
+   "zh": "智慧",
+   "note": "",
+   "action": "term"
+  },
+  {
+   "line": 1401,
+   "key": "Wittgenstein",
+   "zh": "维特根斯坦",
+   "note": "",
+   "action": "person-dup",
+   "matched": "wittgenstein ludwig"
+  },
+  {
+   "line": 1404,
+   "key": "Zeno",
+   "zh": "芝诺",
+   "note": "",
+   "action": "drop",
+   "matched": "泛指姓（册内同姓多行：zeno of citium、zeno of elea）"
+  },
+  {
+   "line": 1405,
+   "key": "Zermelo",
+   "zh": "策梅洛",
+   "note": "",
+   "action": "person-dup",
+   "matched": "ernst zermelo"
+  },
+  {
+   "line": 1406,
+   "key": "Zermelo-Fraenkel",
+   "zh": "策梅洛-弗兰克尔",
+   "note": "",
+   "action": "term",
+   "basis": "学界通行（Zermelo–Fraenkel 集合论，双人名连用）"
+  },
+  {
+   "line": 1411,
+   "key": "Ṯābit ibn Qurra",
+   "zh": "塔比·伊本·库拉",
+   "note": "",
+   "action": "person-dup",
+   "matched": "thabit ibn qurra",
+   "conflict": "译法与册行不一致，待裁定"
+  }
+ ]
+}

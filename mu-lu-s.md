@@ -6,6 +6,7 @@ outline: [1, 6]
 
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
 * [术语表](shu-yu-biao.md)
+* [人名表](ren-ming-biao.md)
 
 # 关于
 
