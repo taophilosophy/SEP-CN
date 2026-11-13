@@ -14,7 +14,7 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
 from tools.common import read_text, repo_path  # noqa: E402
 
 TAG_RE = re.compile(r'<(/?)([a-zA-Z][a-zA-Z0-9]*)\b[^>]*?(/?)>', re.I)
@@ -51,7 +51,14 @@ def table_contexts(html):
 
 
 def md_table_blocks(md):
-    return len(re.findall(r'(?:^\|.*\|$\n\|+ *---\|.*$)', md, re.M))
+    lines = md.splitlines()
+    n = 0
+    for i in range(1, len(lines)):
+        if (lines[i].startswith('|')
+                and re.fullmatch(r'\|(?: *--- *\|)+\s*', lines[i])
+                and lines[i - 1].startswith('|')):
+            n += 1
+    return n
 
 
 def main(argv):
@@ -79,6 +86,8 @@ def main(argv):
         missing = []
         for src in en_imgs:
             base = os.path.basename(src)
+            if src.startswith(('http://', 'https://', '../')):
+                continue  # 外链与 Academic Tools 图标（symbols/）转换器有意剥除
             if not re.search(r'(?:^|[/\\])' + re.escape(base), md.replace('\\', '/')):
                 missing.append(src)
         rec['en_imgs'] = len(en_imgs)
