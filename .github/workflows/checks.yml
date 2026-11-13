@@ -26,7 +26,7 @@ jobs:
         run: python tools/check_junk.py
 
       - name: 图片引用完整性门禁（tools/check_images.py --gate，rules/01）
-        run: python tools/check_images.py --gate --out image-report.md
+        run: python tools/check_images.py --gate --out state/image-report.md
 
       - name: 单体文件大小门禁（tools/check_doc_size.py）
         run: python tools/check_doc_size.py
