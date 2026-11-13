@@ -189,3 +189,12 @@
 **留队歧义 10 人**：Dennett、Dewey、Dworkin、Edith Stein、Pierre Duhem、Dickie、Dietrich、Dodwell、Dorothea Veit、Edgar Bauer。
 
 **验收**：硬错误 0；人名缺项 3048 → 2992，首次降到 3000 以下。凭证表头首次生成时有误，已重建并复核后再写回（e3907d0f2）。
+
+## 2026-11-14 GND H 段（45 行）
+
+**范围**：续取 120 行（Emanuel 至 Fraenkel），命中 61（exact 52／variant 9）、歧义 16、查无 47，采信 45（跳过无地域码 12）。凭证 `results/verify-2026-11-14-gnd-h.tsv`。
+
+**口径校正 3 处**：Ernst Mayr 取“德国／美国／生物学”（GND 四值首二为印尼、巴新，系考察地而非籍属）；Erasmus 取“荷兰／人文主义”；Foucher de Careil 取“法国／哲学”。
+**留队歧义 16 人**：Engel, Johann Jakob、Eno、Erdős、Meumann、Ernst Schröder、Euler、Evans, Gareth、Falk、Feigl、Ferguson、Feuerbach、Finch 两人、Flynn、Forster, Thomas、Foucault, Léon。
+
+**验收**：硬错误 0；人名缺项 2992 → 2947。
