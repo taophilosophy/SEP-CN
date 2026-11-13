@@ -216,3 +216,11 @@
 **拒采留队**：`vāsanā`（Edgerton 词头为中性 Vāsana (वासन)，注“多见 °nā”，未印阴性词头 वासना；NW 段同形为中性，不按后缀改写）——留队待阴性标目来源。
 
 **验收**：`check_terms.py` 原文告警 **137 → 128**（净偿还 9 条），硬错误 0；`check_all.py` 复跑见收工记录。
+
+## 2026-11-14 B6 联网查证批（wisdomlib 辞书词头，7 行）
+
+**方法**：并行子代理按 012 判据逐词取 wisdomlib 转录页，仅收 Monier-Williams／Apte／Edgerton／Böhtlingk–Roth 显式词头；佛学专题页面的配对（abhūtaparikalpa、ātmadṛṣṭi、trisvabhāva、vijñaptimātra）属“专条”而非“辞书标目”，从严不采，仍留队。
+
+**采信 7 行**：`ātmamāna`→आत्ममान、`mātra`→मात्र、`nirākāra`→निराकार、`nirodhasamāpatti`→निरोधसमापत्ति、`vāsanā`→वासना（MW 阴性词头，B4 留队项本轮解决）、`vijñānavāda`→विज्ञानवाद、`vipāka`→विपाक。凭证 `orig-verify-2026-11-14-b6.tsv`。
+
+**验收**：原文告警 127 → 120，硬错误 0。**通道进展**：`local-deva-feasibility-2026-11-14.md` 查明 `sanskrit-lexicon/csl-devanagari` 为辞书项目官方天城体镜像，MW＋BHS 74.7 MB 可离线覆盖 102 条梵文中的 27 条，回放 B3/B5 已采信字形 8 条逐字节全等；下一批可按 `lnum`＋`pc` 双键取形。
