@@ -397,11 +397,11 @@ A106 与 A111 之间的段落难读得让人眼花缭乱：它处理先验统觉
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
-### Primary Literature
+### 原始文献
 
-### Works on Kant on the Mind and Consciousness
+### 论康德论心灵与意识的著作
 
-### Other References
+### 其他参考文献
 
 [^cambridge-1902]: The *Cambridge Edition of the Work of Immanuel Kant in Translation* has translations into English complete with scholarly apparatus of nearly all Kant’s writings. It is probably the best single source for Kant’s works in English. Except for references to the *Critique of Pure Reason*, all references will include the volume number and where appropriate the page number of the *Gesammelte Schriften,* ed. Koniglichen Preussischen Academie der Wissenschaften, 29 Vols. Berlin: Walter de Gruyter et al., 1902– [in the format, Ak. XX:yy]).
 [^kant-1781]: Kant, I. (1781/1787) *Critique of Pure Reason*, P. Guyer and A. Wood (trans.), Cambridge and New York: Cambridge University Press, 1997. (The passages quoted in the article above generally follow this translation and/or the Kemp Smith translation but all translations were checked.) References to *CPR* are in the standard pagination of the 1ˢᵗ (A) and 2ⁿᵈ (B) editions. A reference to only one edition means that the passage appeared only in that edition.)
@@ -581,7 +581,7 @@ A106 与 A111 之间的段落难读得让人眼花缭乱：它处理先验统觉
 
 ## 相关词条
 
-先验证成与先验知识 | 意识的统一性 | 勒内·笛卡尔 | 功能主义 | 唯心主义 | 伊曼努尔·康德 | 康德和休谟论因果关系 | 康德和休谟论道德 | 康德的科学哲学 | 康德的先验论证 | 戈特弗里德·威廉·莱布尼茨 | 托马斯·里德 | 自我意识
+先验辩护与知识 | 意识的统一性 | 勒内·笛卡尔 | 功能主义 | 唯心主义 | 伊曼努尔·康德 | 康德和休谟论因果关系 | 康德和休谟论道德 | 康德的科学哲学 | 康德的先验论证 | 戈特弗里德·威廉·莱布尼茨 | 托马斯·里德 | 自我意识
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
