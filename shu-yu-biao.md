@@ -464,13 +464,13 @@
 | auxiliary hypothesis | — | 辅助假设 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | avacchinna | अवच्छिन्न | 限界者 | early-modern-india | 新正理通行义译（delimitor；限定出现之属性）；凭证 2026-11-10 | 2026-11-10 |
 | āvāpa | आवाप | 集取 | early-modern-india | 语言习得义译（collection；与 udvāpa 摒除对举）；凭证 2026-11-10 | 2026-11-10 |
-| āvaraṇa | — | 障 | yogacara 首译 | 汉传佛典千年通行译名（烦恼障、所知障）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| āvaraṇa | आवरण | 障 | yogacara 首译 | 汉传佛典千年通行译名（烦恼障、所知障）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ā-varaṇa 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b5.tsv） | 2026-11-13 |
 | avatar | — | 化身 | 首现（imprecise-probabilities） | 自译裁定（Bradley 用语，正文括注 avatars）；凭证 2026-11-08 | 2026-11-08 |
 | average utilitarianism | — | 平均功利主义 | repugnant-conclusion | 学界通行；凭证 2026-11-11 | 2026-11-11 |
 | average-voter rule | — | 平均投票者规则 | belief-merging | 构词直译（计算社会选择文献）；凭证 2026-11-10 | 2026-11-10 |
 | Averroism | — | 阿威罗伊主义 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Averroist | — | 阿威罗伊主义者 | marsilius-padua | 学界通行（Averroes 阿威罗伊）；凭证 2026-11-08 | 2026-11-08 |
-| avyākṛta | — | 无记 | yogacara 首译 | 汉传阿毗达磨通行（善／不善／无记）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| avyākṛta | अव्याकृत | 无记 | yogacara 首译 | 汉传阿毗达磨通行（善／不善／无记）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》avyākṛta 条（Monier-Williams 同形）（2026-11-13 查，凭证 orig-verify-2026-11-13-b5.tsv） | 2026-11-13 |
 | avyāpti | अव्याप्ति | 不遍（欠遍） | early-modern-india 首译 | 因明定义过失义通行（under-covering）；凭证 2026-11-10 | 2026-11-10 |
 | avyāpya-vṛtti | अव्याप्यवृत्ति | 局部遍转 | early-modern-india | 新正理文献通行义译（partial location；部分位于处）；凭证 2026-11-10 | 2026-11-10 |
 | awareness | — | 觉知；觉察 | 语料回收（词汇表并网） | 与 consciousness（意识）相区别；bodily awareness 身体觉知，亦作“身体意识”；词汇表并网（ADR-0036） | 2026-11-13 |
