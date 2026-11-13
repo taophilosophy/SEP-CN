@@ -515,182 +515,242 @@ segments:
     kind: body
     source: |-
       Another reason that motivated PMP approaches is that beyond foundational issues, traditional philosophy of mathematics in the 20ᵗʰ century has focused almost exclusively on very general ontological, semantical, and epistemological questions that did not require extensive attention to mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      促成 PMP 进路的另一个原因在于：在基础问题之外，20 世纪的传统数学哲学几乎只聚焦非常一般的存在论、语义学与认识论问题，而无须对数学本身投以大量关注。
+    step2: |-
+      促成 PMP 进路的另一原因在于：基础问题之外，20 世纪的传统数学哲学几乎只聚焦非常一般的存在论、语义学与认识论问题，无须对数学本身投以大量关注。
   - id: 62
     kind: body
     source: |-
       While the three main schools in the foundations of mathematics were looking inward, since they were concerned with securing mathematical knowledge, analytic philosophy of mathematics also explored the role and indispensability of mathematics in empirical sciences in order to address general questions about the existence of abstract objects, their nature, and our knowledge thereof.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学基础的三大主学派向内用力——它们关心的是巩固数学知识——与此同时，分析数学哲学还探讨了数学在经验科学中的角色与不可或缺性，以处理关于抽象对象之存在、本性及我们如何知晓它们的一般问题。
+    step2: |-
+      数学基础的三大主学派向内用力——它们关心巩固数学知识——与此同时，分析数学哲学还探讨了数学在经验科学中的角色与不可或缺性，以处理抽象对象之存在、本性及我们如何知晓它们的一般问题。
   - id: 63
     kind: body
     source: |-
       In particular, various articles by Quine (1948, 1951) and two articles by Paul Benacerraf (“What Numbers Could Not Be” (1965) and “Mathematical Truth” (1973)), dominated the landscape. Much of the action in the seventies and eighties was focused on the nominalism-platonism debate with no lack of clever work all around (neo-logicism; structuralism; indispensability arguments; nominalistic approaches; etc.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      特别是，蒯因的多篇文章（1948, 1951）与保罗·贝纳塞拉夫的两篇文章（“数不可能是什么”（1965）与“数学真理”（1973））主导了当时的格局。七十与八十年代的大部分交锋聚焦于唯名论—柏拉图主义之争，其间不乏聪明才智之作（新逻辑主义、结构主义、不可或缺性论证、唯名论进路等）。
+    step2: |-
+      特别是，蒯因的多篇文章（1948, 1951）与保罗·贝纳塞拉夫的两篇文章（“数不可能是什么”（1965）与“数学真理”（1973））主导了当时格局。七十与八十年代的大部分交锋聚焦唯名论—柏拉图主义之争，其间不乏聪明才智之作（新逻辑主义、结构主义、不可或缺性论证、唯名论进路等）。
   - id: 64
     kind: body
     source: |-
       ### 2.3 The Relevance of History
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 历史的相关性
+    step2: |-
+      ### 2.3 历史的相关性
   - id: 65
     kind: body
     source: |-
       Another motivation to look at the practice comes from philosophical issues that emerged from taking seriously the history of mathematics. One important precursor of PMP is Imre Lakatos’ *Proofs and Refutations* (1976). In his rational reconstruction of a historical case study from combinatorial topology (Euler’s theorem on polyhedra), Lakatos emphasized the quasi-empirical nature of the development of mathematics in which previously accepted arguments and results could be refuted by counterexamples by yielding new, more general theorems. This challenged the view of mathematics as a static body of a priori knowledge held in place by an unshakable foundation in a Euclidean axiomatic style. Moreover, it opened new topics of investigation, such as the nature of mathematical rigor and the process of mathematical discovery, the role of fruitful definitions, and the explanatory value of mathematical theories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关注实践的另一个动机，来自认真对待数学史而引发的哲学问题。PMP 的一位重要先驱是伊姆雷·拉卡托斯，其《证明与反驳》（*Proofs and Refutations*，1976）。在对一个来自组合拓扑的历史个案（欧拉多面体定理）作理性重建时，拉卡托斯强调了数学发展的准经验性质：先前被接受的论证与结果，可以被反例驳倒，进而产出新的、更一般的定理。这挑战了把数学看作静态先天知识体、由欧几里得公理风格的不可动摇基础撑持的数学观。它还开启了新的研究主题：数学严格性的本性、数学发现的过程、富有成果的定义的作用、数学理论的解释价值。
+    step2: |-
+      关注实践的另一动机，来自认真对待数学史而引发的哲学问题。PMP 的一位重要先驱是伊姆雷·拉卡托斯，其《证明与反驳》（*Proofs and Refutations*，1976）。在组合拓扑的一个历史个案（欧拉多面体定理）上作理性重建时，拉卡托斯强调数学发展的准经验性质：先前被接受的论证与结果可被反例驳倒，进而产出新的、更一般的定理。这挑战了把数学看作静态先天知识体、由欧几里得公理风格之不可动摇基础撑持的数学观。它还开启新的研究主题：数学严格性的本性、数学发现的过程、富有成果的定义的作用、数学理论的解释价值。
   - id: 66
     kind: body
     source: |-
       Lakatos rejects the separation of the contexts of discovery and justification, and puts forward a view of mathematics as dynamic, tentative, and fallible. This perspective on mathematics was deeply influenced by George Polya’s (1945) writings on heuristics. Lakatos also raised some very broad questions about mathematics and its development: how does mathematics grow? What is progress in mathematics? These topics were the focus, among other contributions, of the collection Breger and Grosholz 2000.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉卡托斯拒斥发现语境与辩护语境的分离，提出一种把数学看作动态的、试探性的、可错的数学观。这一数学观深受乔治·波利亚（1945）启发式著作的影响。拉卡托斯还提出了一些关于数学及其发展的很宽泛的问题：数学如何生长？数学中的进步是什么？除其他贡献外，Breger and Grosholz 2000 这部文集就以这些主题为焦点。
+    step2: |-
+      拉卡托斯拒斥发现语境与辩护语境的分离，提出把数学看作动态的、试探性的、可错的数学观。这一数学观深受乔治·波利亚（1945）启发式著作的影响。拉卡托斯还提出一些关于数学及其发展的很宽泛的问题：数学如何生长？数学中的进步是什么？除其他贡献外，Breger and Grosholz 2000 这部文集就以这些主题为焦点。
   - id: 67
     kind: body
     source: |-
       Lakatos’ work had an impact in the work of many scholars who count as major contributors to PMP. See Gillies 2023 for a discussion of several contributions along the lines of a historical approach to the philosophy of mathematics that reveal the influence of Lakatos’ approach. Gillies’ discussion includes some of the most active philosophers in PMP.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉卡托斯的工作影响了诸多堪称 PMP 主要贡献者的学者。Gillies 2023 讨论了若干沿着数学哲学之历史进路展开的贡献，从中可见拉卡托斯进路的影响；其讨论囊括了 PMP 中最活跃的一些哲学家。
+    step2: |-
+      拉卡托斯的工作影响了诸多堪称 PMP 主要贡献者的学者。Gillies 2023 讨论了若干沿数学哲学之历史进路展开的贡献，从中可见拉卡托斯进路的影响；其讨论囊括 PMP 中最活跃的一些哲学家。
   - id: 68
     kind: body
     source: |-
       Lakatos’ account was also criticized, and it is not clear how it could be extended to contemporary mathematics (Feferman 1978)[^feferman-1978]. Moreover, his sample was very narrow: one case from topology and one case from real analysis (on Cauchy). To repeat, many studies in the history of mathematics have provided ample material for analysis by philosophers of mathematical practice but some areas of investigation have seen a convergence of perspectives coming from different approaches. We are thinking for instance of the diagrammatic reasoning in Euclid’s *Elements* as developed by Manders (2008), who was coming from a philosophical perspective, and Netz (1999), who merged cognitive and historical motivations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉卡托斯的说明也受到批评，且不清楚如何把它扩展到当代数学（Feferman 1978）[^feferman-1978]。况且他的样本很窄：拓扑学一例、实分析一例（论柯西）。再说一遍，数学史的许多研究为数学实践哲学家的分析提供了充足材料，但有些研究领域出现了来自不同进路的视角汇聚。例如欧几里得《几何原本》中的图式推理：曼德斯（2008）从哲学视角出发，内茨（Netz 1999）则融合了认知与历史的动机。
+    step2: |-
+      拉卡托斯的说明也受批评，且不清楚如何把它扩展到当代数学（Feferman 1978）[^feferman-1978]。况且他的样本很窄：拓扑学一例、实分析一例（论柯西）。再说一遍，数学史的许多研究为数学实践哲学家的分析提供了充足材料，但有些研究领域出现了不同进路的视角汇聚。例如欧几里得《几何原本》中的图式推理：曼德斯（2008）从哲学视角出发，内茨（Netz 1999）则融合认知与历史的动机。
   - id: 69
     kind: body
     source: |-
       ### 2.4 Alternative Foundations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 另类基础
+    step2: |-
+      ### 2.4 另类基础
   - id: 70
     kind: body
     source: |-
       Beyond the impasses the foundational schools encountered, we can identify both global and local challenges to the set-theoretic foundationalist picture of mathematics. Global challenges derive from the development of category theory as an alternative foundation of mathematics as well as from the recent program in homotopy type theory. Local challenges, which we discuss in the next section, derived from what some consider a change in the nature of proofs, due to technological advancements. Thus, the ultimate nature of the set-theoretic foundation of mathematics is not only challenged by the mathematics of the past but also by more recent developments in mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在基础学派遭遇的僵局之外，还能识别出对集合论基础主义数学图景的全球性与局部性挑战。全球性挑战来自范畴论作为数学另类基础的发展，也来自晚近的同伦类型论纲领。局部性挑战——下一节讨论——来自某些人认为由技术进步引起的证明本性之变化。因此，数学之集合论基础的终极本性，不仅受过去数学的挑战，也受数学中更晚近发展的挑战。
+    step2: |-
+      在基础学派遭遇的僵局之外，还能识别对集合论基础主义数学图景的全球性与局部性挑战。全球性挑战来自范畴论作为数学另类基础的发展，也来自晚近的同伦类型论纲领。局部性挑战——下一节讨论——来自某些人认为由技术进步引起的证明本性之变化。因此，数学之集合论基础的终极本性，不仅受过去数学的挑战，也受数学中更晚近发展的挑战。
   - id: 71
     kind: body
     source: |-
       Set theory is generally understood to provide the standard foundational apparatus for mathematics. Still, there are ongoing debates on the acceptability of some axioms. The status of the Axiom of Choice and of the Continuum Hypothesis as well as the use of Large Cardinal Axioms remain topics of debate that are significant for the practice of set theory. Interesting questions for the philosophy of mathematical practice here concern the rationale for the choice of new axioms (see for instance Maddy 2011)[^maddy-2011] and the intertwined nature of philosophical motivation and mathematical developments that is characteristic of the attempts to overcome the incompleteness of set theory. See Rittberg 2020 for an overview of two recent programs, those of Woodin and Hamkins, and further references.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们普遍把集合论理解为数学的标准基础装备。不过，关于某些公理的可接受性，争论仍在进行。选择公理与连续统假设的地位，以及大基数公理的使用，仍是对集合论实践有分量的争论话题。对数学实践的哲学而言，这里有意思的问题关乎选取新公理的理据（例如 Maddy 2011）[^maddy-2011]，以及克服集合论不完备性的种种尝试所特有的哲学动机与数学发展之交织本性。两个晚近纲领——伍丁（Woodin）与哈姆金斯（Hamkins）的纲领——的概览及更多文献，见 Rittberg 2020。
+    step2: |-
+      人们普遍把集合论理解为数学的标准基础装备。不过，关于某些公理的可接受性，争论仍在进行。选择公理与连续统假设的地位，以及大基数公理的使用，仍是对集合论实践有分量的争论话题。对数学实践的哲学而言，这里有意思的问题关乎选取新公理的理据（例如 Maddy 2011）[^maddy-2011]，以及克服集合论不完备性之诸尝试特有的哲学动机与数学发展交织本性。两个晚近纲领——伍丁（Woodin）与哈姆金斯（Hamkins）——的概览及更多文献，见 Rittberg 2020。
   - id: 72
     kind: body
     source: |-
       With the advent and increasing popularity of category theory, the special role of set theory has been challenged. Category theory offers an alternative perspective on mathematics, one that does not seem to be in need of an account of mathematical objects, such as sets and numbers. Looking at mathematics from the perspective of category theory thus naturally leads to new philosophical questions. Here we need to distinguish two questions: 1) Can category theory claim to be a foundations of mathematics on a par, or even with better features, than set theory? The debate on this topic has been quite lively. 2) Does category theory display novel and interesting features (independently of its possible role as a foundations of mathematics) which can be of relevance to PMP? The answer to the latter question should be an unequivocal Yes both on account of the role that category theory plays in the formulations of important mathematical theories as well as on account of the attention that philosophers of mathematical practice have displayed towards it. Further readings in the history and philosophy of category theory include (Awodey 2008, 1996; Krömer 2007; Landry 2017; Landry and Marquis 2005; Marquis 2009; McLarty 2005, 2008, 1992)[^awodey-2008][^krömer-2007][^landry-2017][^landry-2005][^marquis-2009][^mclarty-2005]. For a general overview, see Marquis 2023.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着范畴论的出现与日益流行，集合论的特殊地位受到挑战。范畴论提供了看待数学的另一种视角，一种似乎无须为集合、数这类数学对象提供说明的视角。从范畴论的视角看数学，自然引出新的哲学问题。这里需要区分两个问题：1）范畴论能否主张自己是与集合论同等、甚至特性更优的数学基础？这一论题的争论相当热烈。2）范畴论（独立于它可能扮演的数学基础角色）是否显示出与 PMP 相关的新颖有趣特征？对后一问题的回答应当是断然的肯定：既因为范畴论在重要数学理论的表述中所扮演的角色，也因为数学实践哲学家对它表现出的关注。范畴论的历史与哲学的进一步读物包括（Awodey 2008, 1996; Krömer 2007; Landry 2017; Landry and Marquis 2005; Marquis 2009; McLarty 2005, 2008, 1992）[^awodey-2008][^krömer-2007][^landry-2017][^landry-2005][^marquis-2009][^mclarty-2005]。一般性综述见 Marquis 2023。
+    step2: |-
+      随着范畴论的出现与日益流行，集合论的特殊地位受到挑战。范畴论提供了看待数学的另一种视角，一种似乎无须为集合、数这类数学对象提供说明的视角。从范畴论视角看数学，自然引出新的哲学问题。这里需区分两个问题：1）范畴论能否主张自己是与集合论同等、甚至特性更优的数学基础？这一论题的争论相当热烈。2）范畴论（独立于它可能扮演的数学基础角色）是否显示出与 PMP 相关的新颖有趣特征？对后一问题的回答应是断然的肯定：既因范畴论在重要数学理论表述中扮演的角色，也因数学实践哲学家对它表现出的关注。范畴论历史与哲学的进一步读物包括（Awodey 2008, 1996; Krömer 2007; Landry 2017; Landry and Marquis 2005; Marquis 2009; McLarty 2005, 2008, 1992）[^awodey-2008][^krömer-2007][^landry-2017][^landry-2005][^marquis-2009][^mclarty-2005]。一般性综述见 Marquis 2023。
   - id: 73
     kind: body
     source: |-
       Of course, challenges to set theory as foundations of mathematics in the constructivist tradition have been countless, but we cannot survey them here (however, see the section below for some comments on homotopy type theory). Once again, attention to mathematical practice is essential in this area as one would like to know how much of classical mathematics can be given a constructivist or computational meaning. An excellent, if now outdated, reference in this area remains Beeson 1985; for more recent work see Bridges et al. 2023.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，构造主义传统中对集合论作为数学基础的挑战不胜枚举，但这里无法逐一综述（同伦类型论的若干评论见下节）。此领域同样离不开对数学实践的关注：人们想知道经典数学有多少可以赋予构造主义或计算的意义。这一领域一部出色而今已过时的参考书仍是 Beeson 1985；更晚近的工作见 Bridges et al. 2023。
+    step2: |-
+      当然，构造主义传统中对集合论作为数学基础的挑战不胜枚举，但这里无法逐一综述（同伦类型论的若干评论见下节）。此领域同样离不开对数学实践的关注：人们想知道经典数学有多少可赋予构造主义或计算的意义。这一领域一部出色而今已过时的参考书仍是 Beeson 1985；更晚近的工作见 Bridges et al. 2023。
   - id: 74
     kind: body
     source: |-
       ### 2.5 Technological Developments
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 技术发展
+    step2: |-
+      ### 2.5 技术发展
   - id: 75
     kind: body
     source: |-
       Local challenges to the foundationalist picture came from technological advancements that led to rethink the nature of mathematical proofs. For instance, the existence of computer-assisted proofs has put pressure on the idea that proofs should be the kind of arguments that a single mathematician could survey.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对基础主义图景的局部性挑战来自技术进步，它们促使人们重新思考数学证明的本性。例如，计算机辅助证明的存在，给“证明应当是单个数学家能够综观的论证”这一观念带来了压力。
+    step2: |-
+      对基础主义图景的局部性挑战来自技术进步，它们促使人们重新思考数学证明的本性。例如，计算机辅助证明的存在，给“证明应当是单个数学家能综观的论证”这一观念带来压力。
   - id: 76
     kind: body
     source: |-
       When Kenneth Appel and Wolfgang Haken (1977) announced a computer-assisted proof of the 4-color conjecture, this brought to the forefront a novel aspect of the way in which mathematics proceeds. The conjecture states that all planar maps can be colored with only four colors in such a way that no two adjacent regions share the same color. It entered the agenda of mathematicians in the mid-19th century, but a genuine proof was first published after more than a century. Appel and Haken’s proof raised much ado in both the mathematical and the philosophical community. Being beyond the reach of flash-and-blood mathematicians, it challenged the very nature of mathematical proofs and questioned the a priori status of mathematical knowledge (Detlefsen and Luker 1980; Tymoczko 1979)[^detlefsen-1980][^tymoczko-1979]. For a defense of the a priori nature of computer-assisted proofs, see (Burge 1998; Duede and Davey 2026)[^burge-1998][^duede-2026].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      肯尼斯·阿佩尔与沃尔夫冈·哈肯（1977）宣布四色猜想的计算机辅助证明时，数学行进方式的一个新面向被推到了前台。该猜想断言：所有平面地图都可以只用四种颜色染色，使得任何两个相邻区域不同色。它在 19 世纪中叶进入数学家的议事日程，但真正的证明在超过一个世纪后才首次发表。阿佩尔与哈肯的证明在数学界与哲学界都掀起了轩然大波。它超出了血肉之躯的数学家所能把握的范围，挑战了数学证明的本性本身，也质疑了数学知识的先天地位（Detlefsen and Luker 1980; Tymoczko 1979）[^detlefsen-1980][^tymoczko-1979]。为计算机辅助证明之先天性的辩护，见（Burge 1998; Duede and Davey 2026）[^burge-1998][^duede-2026]。
+    step2: |-
+      肯尼斯·阿佩尔与沃尔夫冈·哈肯（1977）宣布四色猜想的计算机辅助证明时，数学行进方式的一个新面向被推到前台。该猜想断言：所有平面地图都可只用四种颜色染色，使任何两个相邻区域不同色。它于 19 世纪中叶进入数学家的议事日程，真正的证明在超过一个世纪后才首次发表。阿佩尔与哈肯的证明在数学界与哲学界都掀起轩然大波。它超出血肉之躯的数学家所能把握的范围，挑战数学证明的本性本身，也质疑数学知识的先天地位（Detlefsen and Luker 1980; Tymoczko 1979）[^detlefsen-1980][^tymoczko-1979]。为计算机辅助证明之先天性的辩护，见（Burge 1998; Duede and Davey 2026）[^burge-1998][^duede-2026]。
   - id: 77
     kind: body
     source: |-
       Another development that is worth mentioning is one related to Interactive Theorem Provers (ITP). These are computer tools supposed to help mathematicians in creating formal counterparts of their proofs. They are gaining traction among some mathematicians, but their use is still limited. However, some think that in the not so distant future, their use will be much more common, at least in some areas of mathematics (Avigad 2018b; Buzzard 2022; Avigad 2024)[^avigad-2018b][^avigad-2024][^buzzard-2022]. For a philosophical discussion, see (De Toffoli 2024).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得一提的另一项发展与交互式定理证明器（ITP）有关。这是帮助数学家为其证明构造形式对应物的计算机工具。它们在一些数学家中渐受欢迎，但使用仍有限。不过有人认为，在不那么遥远的将来，它们的使用会普遍得多，至少在某些数学领域如此（Avigad 2018b; Buzzard 2022; Avigad 2024）[^avigad-2018b][^avigad-2024][^buzzard-2022]。哲学讨论见（De Toffoli 2024）。
+    step2: |-
+      值得一提的另一项发展与交互式定理证明器（ITP）有关。这是帮助数学家为其证明构造形式对应物的计算机工具。它们在一些数学家中渐受欢迎，但使用仍有限。不过有人认为，在不那么遥远的将来，它们的使用会普遍得多，至少在某些数学领域如此（Avigad 2018b; Buzzard 2022; Avigad 2024）[^avigad-2018b][^avigad-2024][^buzzard-2022]。哲学讨论见（De Toffoli 2024）。
   - id: 78
     kind: body
     source: |-
       The use of ITPs is also linked to alternative foundations of mathematics. As a matter of fact, in the last part of his career, Vladimir Voevodsky contributed to the effort of developing homotopy type theory (HoTT) as a new foundational framework for mathematics that could be more readily integrated into ITPs (Voevodsky 2014 – see Other Internet Resources). Voevodsky’s main motivation in developing and promoting ITPs was related to worries related to the correctness of published mathematical results. For a useful set of contributions on different foundations approaches such as set theory and homotopy type theory see Centrone, Kant, and Sarikaya 2019.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ITP 的使用也与数学的另类基础相关。事实上，弗拉基米尔·沃沃德斯基在其生涯晚期，为把同伦类型论（HoTT）发展为能更顺遂地集成进 ITP 的新数学基础框架贡献了力量（Voevodsky 2014——见“其他网络资源”）。沃沃德斯基发展并推广 ITP 的主要动机，与对已发表数学成果正确性的忧虑有关。关于集合论与同伦类型论等不同基础进路的一批有用文献，见 Centrone, Kant, and Sarikaya 2019。
+    step2: |-
+      ITP 的使用也与数学的另类基础相关。事实上，弗拉基米尔·沃沃德斯基在其生涯晚期，为把同伦类型论（HoTT）发展为能更顺遂地集成进 ITP 的新数学基础框架贡献了力量（Voevodsky 2014——见“其他网络资源”）。沃沃德斯基发展并推广 ITP 的主要动机，与对已发表数学成果正确性的忧虑有关。关于集合论与同伦类型论等不同基础进路的一批有用文献，见 Centrone, Kant, and Sarikaya 2019。
   - id: 79
     kind: body
     source: |-
       ITPs have been used to check the correctness of traditional proofs. Moreover, they have also been deployed to check the correctness of computer-assisted proofs, whose epistemological status remains somewhat borderline. One of the first major achievements in the formalization of mathematics is George Gothier’s formalization of a proof of the 4-color Theorem in 2005. Another major achievement is the formalization of Tom Hales’ proof of the Kepler Conjecture, which extensively used automated computations, by him and a group of collaborators (Hales et al. 2017)[^hales-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ITP 已被用于核查传统证明的正确性。它们也被用于核查计算机辅助证明——其认识论地位仍有点边缘——的正确性。数学形式化的最早重大成就之一，是乔治·贡蒂尔（George Gonthier）2005 年对四色定理一个证明的形式化。另一项重大成就是汤姆·黑尔斯（Tom Hales）对开普勒猜想的证明（大量使用自动计算）由他与一组合作者完成的形式化（Hales et al. 2017）[^hales-2017]。
+    step2: |-
+      ITP 已被用于核查传统证明的正确性，也被用于核查计算机辅助证明——其认识论地位仍有点边缘——的正确性。数学形式化最早的重大成就之一，是乔治·贡蒂尔（George Gonthier）2005 年对四色定理一个证明的形式化。另一项重大成就，是汤姆·黑尔斯（Tom Hales）大量使用自动计算的开普勒猜想证明由他与一组合作者完成的形式化（Hales et al. 2017）[^hales-2017]。
   - id: 80
     kind: body
     source: |-
       The use of technology in mathematics is continuing to grow, and new AI tools are already posing new philosophical challenges. See, for example, the contribution in the Special Issue of the *Bulletin of the American Mathematical Society* dedicated to the topic (Fraser et al. 2024)[^fraser-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学中技术的使用持续增长，新的 AI 工具已在提出新的哲学挑战。例如见《美国数学会通报》（*Bulletin of the American Mathematical Society*）该主题专号中的文章（Fraser et al. 2024）[^fraser-2024]。
+    step2: |-
+      数学中技术的使用持续增长，新的 AI 工具已在提出新的哲学挑战。例如见《美国数学会通报》（*Bulletin of the American Mathematical Society*）该主题专号中的文章（Fraser et al. 2024）[^fraser-2024]。
   - id: 81
     kind: body
     source: |-
       Another area of interest, which has been aided by technological developments, is experimental mathematics. The *Handbook in the History and Philosophy of Mathematical Practice* (Sriraman 2024)[^sriraman-2024] contains many articles devoted this topic – see, among others (Carter 2024a; Sørensen 2024)[^carter-2024a][^sørensen-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受技术发展助益的另一个有趣领域是实验数学。《数学实践史与哲学手册》（Sriraman 2024）[^sriraman-2024]收录了许多致力于此专题的文章——例如（Carter 2024a; Sørensen 2024）[^carter-2024a][^sørensen-2024]。
+    step2: |-
+      受技术发展助益的另一有趣领域是实验数学。《数学实践史与哲学手册》（Sriraman 2024）[^sriraman-2024]收录许多致力于此专题的文章——例如（Carter 2024a; Sørensen 2024）[^carter-2024a][^sørensen-2024]。
   - id: 82
     kind: body
     source: |-
       ### 2.6 Ecumenical and Anti-Foundationalist PMP
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.6 大公的与反基础主义的 PMP
+    step2: |-
+      ### 2.6 大公的与反基础主义的 PMP
   - id: 83
     kind: body
     source: |-
       Not all philosophers of mathematical practice share the same attitude towards more foundationalist traditions. We propose to make a distinction between an ecumenical stance, adopted by philosophers of mathematical practice who see their work as complementary to foundational endeavors, and an anti-foundationalist stance, taken up by those who position themselves in straight opposition to them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      并非所有数学实践哲学家对更基础主义的传统都持相同态度。我们建议区分两种立场：一种是数学实践哲学家视自己工作为基础工作之补充的大公立场；另一种是与基础主义正面对立的反基础主义立场。
+    step2: |-
+      并非所有数学实践哲学家对更基础主义的传统都持相同态度。我们建议区分两种立场：其一为数学实践哲学家视己作乃基础工作之补充的大公立场；其二为与基础主义正面对立的反基础主义立场。
   - id: 84
     kind: body
     source: |-
       Early authors working on what came to be called the philosophy of mathematical practice prefaced their studies with an explicit and often polemical rejection of what they considered to be the received view. For example, Lakatos (1976) explicitly argued against a ‘deductivist’ view of mathematics, while Tymoczko (1986) and Aspray and Kitcher (1988) saw in foundationalist approaches their primary target. To emphasize the radical nature of their view, the latter presented themselves as part of the “maverick tradition” in philosophy of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期从事后来被称为数学实践哲学的作者们，其研究开篇就是对所谓公认观点的显白且常带论战色彩的拒斥。例如，拉卡托斯（1976）明确反对“演绎主义”的数学观；Tymoczko（1986）与 Aspray and Kitcher（1988）则把基础主义进路视为主要靶子。为强调其观点的激进性质，后者自称属于数学哲学中的“异端传统”。
+    step2: |-
+      早期从事后来被称为数学实践哲学的作者们，其研究开篇就是对所谓公认观点的显白且常带论战色彩的拒斥。例如，拉卡托斯（1976）明确反对“演绎主义”的数学观；Tymoczko（1986）与 Aspray and Kitcher（1988）则把基础主义进路视为主要靶子。为强调其观点之激进，后者自称属于数学哲学的“异端传统”。
   - id: 85
     kind: body
     source: |-
       In addition to creating an ideological rift within the philosophy of mathematics, this narrative also ignored the fact that philosophers within the foundationalist tradition itself had begun to criticize foundationalist approaches (Putnam 1967; Quine 1951)[^putnam-1967][^quine-1951] and to pursue new questions related to contemporary mathematics (Maddy 1996)[^maddy-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一叙事不仅在数学哲学内部制造了意识形态裂痕，还忽略了一个事实：基础主义传统内部的哲学家自己已开始批评基础主义进路（Putnam 1967; Quine 1951）[^putnam-1967][^quine-1951]，并追索与当代数学相关的新问题（Maddy 1996）[^maddy-1996]。
+    step2: |-
+      这一叙事不仅在数学哲学内部制造意识形态裂痕，还忽略一个事实：基础主义传统内部的哲学家自己已开始批评基础主义进路（Putnam 1967; Quine 1951）[^putnam-1967][^quine-1951]，并追索与当代数学相关的新问题（Maddy 1996）[^maddy-1996]。
   - id: 86
     kind: body
     source: |-
       The ecumenical stance does not oppose foundational efforts. It considers them to be valuable contributions to the philosophy of mathematics while at the same time recognizing that there are other important questions to be addressed. This stance is well-exemplified in the volume “The Philosophy of Mathematical Practice” (Mancosu 2008b)[^mancosu-2008b]. On the contrary, the anti-foundationalist stance directly opposes foundationalist efforts. A contribution adopting this stance is Corfield 2003. Even within the analytic framework, one can perceive anti-foundationalist features in the work of Maddy (1997), at least to the extent that her naturalism rejects a philosophy-first approach and she embraces a methodology that sits uncomfortably with the traditional foundationalist programs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大公立场不反对基础工作。它把后者视为对数学哲学有价值的贡献，同时承认还有其他重要问题待处理。这一立场在《数学实践的哲学》（Mancosu 2008b）[^mancosu-2008b]文集中得到很好的体现。相反，反基础主义立场直接对立于基础主义努力。采纳此立场的贡献有 Corfield 2003。即便在分析框架内，也能在 Maddy（1997）的工作中察觉反基础主义特征——至少在她拒斥哲学优先进路的自然主义、以及她拥抱的那种与基础主义传统纲领格格不入的方法论上如此。
+    step2: |-
+      大公立场不反对基础工作。它把后者视为对数学哲学有价值的贡献，同时承认还有其他重要问题待处理。此立场在《数学实践的哲学》（Mancosu 2008b）[^mancosu-2008b]文集中得到很好体现。相反，反基础主义立场直接对立于基础主义努力。采纳此立场的贡献有 Corfield 2003。即便在分析框架内，也能在 Maddy（1997）的工作中察觉反基础主义特征——至少在她拒斥哲学优先进路的自然主义、及她拥抱的那种与基础主义传统纲领格格不入的方法论上如此。
   - id: 87
     kind: body
     source: |-
       While the ecumenical stance sees the developments in the philosophy of mathematics as an extension of the topics and the perspectives which fall under the purview of philosophy of mathematics, the anti-foundationalist stance sees it as an irreconcilable split between different approaches and traditions. The latter is made explicit in the “brief and biased history” of philosophy of mathematics by Aspray and Kitcher (1988), who identify two traditions that are centered around two general research programs: (1) the *mainstream*, which started with Frege and is centered around questions regarding the foundations of mathematics; and (2) a much less developed, *maverick tradition* that began with Lakatos. Philosophical topics within the latter tradition deal with current or historical mathematical practices and include the growth of mathematical knowledge, the nature of mathematical progress, the criteria for evaluating mathematical ideas and theories, and the nature of mathematical explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大公立场把数学哲学中的发展视为数学哲学辖域内论题与视角的扩展；反基础主义立场则视之为不同进路与传统间不可调和的分裂。后者在 Aspray and Kitcher（1988）的数学哲学“简短而有偏向的历史”中得到显明表述：他们识别出两个以两大研究纲领为中心的传统：（1）主流，始于弗雷格，围绕数学基础问题；（2）远欠发达的异端传统，始于拉卡托斯。后一传统内的哲学论题处理当下的或历史的数学实践，包括数学知识的增长、数学进步的本性、评价数学观念与理论的标准、数学解释的本性。
+    step2: |-
+      大公立场把数学哲学中的发展视为数学哲学辖域内论题与视角的扩展；反基础主义立场则视之为不同进路与传统间不可调和的分裂。后者在 Aspray and Kitcher（1988）的数学哲学“简短而有偏向的历史”中得到显明表述：他们识别出两个以两大研究纲领为中心的传统：（1）主流，始于弗雷格，围绕数学基础问题；（2）远欠发达的异端传统，始于拉卡托斯。后一传统的哲学论题处理当下或历史的数学实践，包括数学知识的增长、数学进步的本性、评价数学观念与理论的标准、数学解释的本性。
   - id: 88
     kind: body
     source: |-
       On the relation between these two traditions, Aspray and Kitcher find no consensus among philosophers of mathematics. Some, such as Parsons, Steiner and Maddy, suggest that they are compatible, while others, such as Lakatos and Kitcher, have argued on the basis of the methodology of mathematics, that there is no a priori foundation of mathematics (thus concluding that the Fregean tradition leads to a dead end). The question whether philosophy of mathematics should be concerned with identifying foundations of mathematics is singled out as provoking “the clearest divisions in the volume” that they edited.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这两个传统的关系，Aspray and Kitcher 发现在数学哲学家中间没有共识。一些人——如帕森斯（Parsons）、斯坦纳（Steiner）与 Maddy——认为二者相容；另一些人——如拉卡托斯与基切尔——则基于数学的方法论论证不存在数学的先天基础（从而断定弗雷格传统通向死胡同）。数学哲学是否应关心识别数学基础这一问题，被他们单独挑出，认为它在其主编文集中引发了“最清晰的分歧”。
+    step2: |-
+      关于这两个传统的关系，Aspray and Kitcher 发现在数学哲学家中间没有共识。一些人——如帕森斯（Parsons）、斯坦纳（Steiner）与 Maddy——认为二者相容；另一些人——如拉卡托斯与基切尔——则基于数学的方法论论证不存在数学的先天基础（从而断定弗雷格传统通向死胡同）。数学哲学是否应关心识别数学基础这一问题，被他们单独挑出，称它在其主编文集中引发“最清晰的分歧”。
   - id: 89
     kind: body
     source: |-
       A philosopher who explicitly opposes research on the foundations of mathematics is Carlo Cellucci (2006, 32), who speaks of the “rejection” of the dominant view in the philosophy of mathematics that considers the justification of mathematics, rather than mathematical discovery, as its main problem. He rejects more ecumenical approaches as being an extension of mainstream philosophy of mathematics, but not as a proper alternative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      明确反对数学基础研究的一位哲学家是卡洛·切卢齐（Carlo Cellucci）（2006, 32），他谈到数学哲学中主导观点的“拒斥”——那种把数学辩护而非数学发现当作主要问题的观点。他拒绝那些较温和的大公进路，认为它们只是主流数学哲学的延伸，而非真正的另类选择。
+    step2: |-
+      明确反对数学基础研究的一位哲学家是卡洛·切卢齐（Carlo Cellucci）（2006, 32），他谈到数学哲学中主导观点的“拒斥”——那种把数学辩护而非数学发现当作主要问题的观点。他拒绝较温和的大公进路，认为它们只是主流数学哲学的延伸，而非真正的另类选择。
   - id: 90
     kind: body
     source: |-
       In a similar vein, David Corfield sees himself as continuing the Lakatos tradition in philosophy of mathematics and he clearly takes a side with regard to the question regarding its relation to foundationalist philosophy of mathematics. He speaks of dismantling the “foundationalist filter” that has held back philosophers from taking seriously past and contemporary mathematics, because of their inability of providing novel contributions to the foundationalist questions, and he presents his discussion as a head-on confrontation of such “erroneous beliefs” (Corfield 2003, 5)[^corfield-2003]. Reactions have been mixed: Unsurprisingly, Corfield’s “anti-foundationalist manifesto” has irked some philosophers (Paseau 2005, 195)[^paseau-2005], while for others that are more sympathetic to the general approach “Corfield’s project is not nearly as radical as he would have us think” (Arana 2007, 83)[^arana-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样地，大卫·科菲尔德（David Corfield）自视为数学哲学中拉卡托斯传统的继承者，并就数学哲学与基础主义数学哲学的关系问题明确站队。他谈到拆除“基础主义过滤器”——它因哲学家无法为基础主义问题提供新颖贡献，而阻碍他们认真对待过去的与当代的数学——并把他的讨论呈现为对这类“错误信念”的正面交锋（Corfield 2003, 5）[^corfield-2003]。反应不一：不出所料，科菲尔德的“反基础主义宣言”惹恼了一些哲学家（Paseau 2005, 195）[^paseau-2005]；而对那些对总体进路更有同情的人来说，“科菲尔德的项目远不像他想让我们以为的那样激进”（Arana 2007, 83）[^arana-2007]。
+    step2: |-
+      同样地，大卫·科菲尔德（David Corfield）自视为数学哲学中拉卡托斯传统的继承者，并就数学哲学与基础主义数学哲学的关系问题明确站队。他谈到拆除“基础主义过滤器”——它因哲学家无法为基础主义问题提供新颖贡献而阻碍他们认真对待过去与当代的数学——并把其讨论呈现为对这类“错误信念”的正面交锋（Corfield 2003, 5）[^corfield-2003]。反应不一：不出所料，科菲尔德的“反基础主义宣言”惹恼了一些哲学家（Paseau 2005, 195）[^paseau-2005]；而对总体进路更有同情的人则认为“科菲尔德的项目远不像他想让我们以为的那样激进”（Arana 2007, 83）[^arana-2007]。
   - id: 91
     kind: body
     source: |-
