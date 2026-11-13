@@ -1,0 +1,327 @@
+{
+ "key": "attributes",
+ "term": "Attributes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T02:38:08+00:00",
+ "status": "ok",
+ "note": "variant=Attributes; 审定公布名词库=120; 海峡两岸名词对照库=109; 其他来源数据库=9; 预公布名词数据库=21; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "04.013",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "07.0121",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "06.0307",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "02.0432",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_评价理论与方法"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "01.777",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "30.002",
+   "standard": "地理学名词",
+   "subject": "地理学_地理信息系统"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": "03.0878",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "交代消息来源",
+   "en": "attribution",
+   "code": "4.132",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻写作"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "code": "4.054",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_认知与行为"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "code": "07.027",
+   "standard": "心理学名词",
+   "subject": "心理学_社会心理学"
+  },
+  {
+   "cn": "定语",
+   "en": "attributive",
+   "code": "04.204",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "本性归因",
+   "en": "dispositional attribution,personal attribution",
+   "code": "07.028",
+   "standard": "心理学名词",
+   "subject": "心理学_社会心理学"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "属性查询",
+   "en": "attribute search\",\"attribute query",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "属性类型",
+   "en": "attribute type\",\"attribute class",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "土地属性",
+   "en": "land attributes",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "先天属性",
+   "en": "congenital attribute",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "属性变量",
+   "en": "attribute variable",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "决定性属性",
+   "en": "determinant attribute",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "属性加密",
+   "en": "attribute encryption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "归因理论",
+   "en": "Attribution theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "数据法律属性",
+   "en": "legal attributes of data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 16264.8-2005 信息技术 开放系统互连 目录 第8部分：公钥和属性证书框架》",
+   "en": "GB/T 16264.8-2005 Information technology — Open systems interconnection — Directory — Part 8: Public-key and attribute certificate frameworks",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "code": "4.1.9.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会推断"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "code": "5.2.5.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "code": "01.0142",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "code": "4.3.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "code": "4.1.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会推断"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "code": "3.7.13.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "code": "3.7.13.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "食物归因",
+   "en": "food attribution",
+   "code": "3.7.13.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "归因",
+   "en": "source attribution",
+   "code": "3.7.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "归因危险",
+   "en": "attributable risk，AR",
+   "code": "4.4.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  },
+  {
+   "cn": "基本归因错误",
+   "en": "fundamental attribution error",
+   "code": "4.1.9.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会推断"
+  },
+  {
+   "cn": "根本的归因偏差",
+   "en": "ultimate attribution error",
+   "code": "4.1.9.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会推断"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

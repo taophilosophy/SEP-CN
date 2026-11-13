@@ -1,0 +1,348 @@
+{
+ "key": "coreference",
+ "term": "coreference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T17:08:00+00:00",
+ "status": "ok",
+ "note": "variant=coreference; 审定公布名词库=715; 海峡两岸名词对照库=198; 其他来源数据库=55; 预公布名词数据库=59; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "共指",
+   "en": "coreference",
+   "code": "08.0544",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "共指消解",
+   "en": "coreference resolution",
+   "code": "08.0545",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "地理[坐标]参照",
+   "en": "georeference",
+   "code": "01.088",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "code": "2.0427",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地培育与利用"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "code": "02.0086",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "code": "10.066",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "code": "04.03.125",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "code": "04.637",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "引文检索",
+   "en": "reference search,reference retrieval",
+   "code": "05.060",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "工具书",
+   "en": "reference work,reference book",
+   "code": "06.148",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "虚指",
+   "en": "indefinite reference,vague reference",
+   "code": "04.101",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "新闻发布会",
+   "en": "news conference;press conference",
+   "code": "02.08.156",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "互指",
+   "en": "coreference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地理[坐标]参照",
+   "en": "georeference",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地理[坐标]参照系",
+   "en": "georeference system",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "指代",
+   "en": "coreference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "参照群体",
+   "en": "Reference group",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "布雷顿森林会议",
+   "en": "Bretton Woods Conference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "华盛顿会议",
+   "en": "Washington Naval Conference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "世界互联网大会",
+   "en": "World Internet Conference",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "访问局部性",
+   "en": "Locality of reference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "code": "3.2.1.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "庐山会议",
+   "en": "Lushan Conference",
+   "code": "04.0539",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_中国化的马克思主义时期"
+  },
+  {
+   "cn": "德黑兰会议",
+   "en": "Tehran Conference",
+   "code": "05.0202",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "code": "11.3.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险市场"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "code": "15.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_危害健康行为"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "code": "5.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "code": "6.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "code": "6.3.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "code": "6.3.4.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "code": "6.3.4.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "code": "6.3.4.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

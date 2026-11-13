@@ -1,0 +1,40 @@
+{
+ "key": "presupposition",
+ "term": "presupposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T17:11:00+00:00",
+ "status": "ok",
+ "note": "variant=presupposition; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "code": "01.157",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "code": "01.157",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "预设主义",
+   "en": "presuppositionism",
+   "code": "03.140",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "预设主义",
+   "en": "presuppositionism",
+   "code": "03.140",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

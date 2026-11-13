@@ -1,0 +1,348 @@
+{
+ "key": "at-issue content",
+ "term": "at-issue content",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T19:49:38+00:00",
+ "status": "ok",
+ "note": "variant=at-issue content; 审定公布名词库=3152; 海峡两岸名词对照库=974; 其他来源数据库=179; 预公布名词数据库=187; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "期",
+   "en": "issue",
+   "code": "03.430",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_采访"
+  },
+  {
+   "cn": "试刊号",
+   "en": "trial issue",
+   "code": "07.03.028",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "创刊号",
+   "en": "inaugural issue ",
+   "code": "07.03.029",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "终刊号",
+   "en": "final issue",
+   "code": "07.03.030",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "复刊号",
+   "en": "resumption issue",
+   "code": "07.03.031",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "合刊",
+   "en": "combined issue",
+   "code": "07.03.033",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "期",
+   "en": "issue;number",
+   "code": "07.03.067",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "专刊",
+   "en": "special issue",
+   "code": "07.03.077",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "当期寿命",
+   "en": "issue life",
+   "code": "19.181",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "出库",
+   "en": "materials issue",
+   "code": "04.631",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程采购"
+  },
+  {
+   "cn": "货币发行",
+   "en": "currency issue",
+   "code": "12.158",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "财政发行",
+   "en": "fiscal issue",
+   "code": "15.125",
+   "standard": "经济学名词",
+   "subject": "经济学_经济体制改革"
+  },
+  {
+   "cn": "按市价发行",
+   "en": "issue at market price",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "溢价发行债券",
+   "en": "bond issue at premium",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "折价发行债券",
+   "en": "bond issue at discount",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "保证险种",
+   "en": "guaranteed issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "出票",
+   "en": "issue warrant",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "发行股票",
+   "en": "issue stock",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "发行债券",
+   "en": "issue bond",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "封顶保底证券",
+   "en": "collared issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平价发行",
+   "en": "par issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "热门股票",
+   "en": "hot issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "未偿还的发行额",
+   "en": "outstanding issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信用发行",
+   "en": "fiduciary issue",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "议题网络",
+   "en": "issue network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "硬骨头",
+   "en": "tough issue",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "实词",
+   "en": "Content word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "上场击球顺序",
+   "en": "time at bat\",\"turn at bat",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "内容管理系统",
+   "en": "content management system",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内容管理框架",
+   "en": "content management framework",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字内容管理",
+   "en": "digital content management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字内容产业",
+   "en": "digital content industry",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "内容安全监管",
+   "en": "content security supervision",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民族问题",
+   "en": "ethnic issue",
+   "code": "2.0003",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "01.0056",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "医学伦理问题",
+   "en": "medical ethical issue",
+   "code": "1.218",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "code": "6.2.31.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "code": "1.2.1.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "code": "1.2.4.76",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "code": "3.6.1.4.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "code": "5.12.5.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "code": "4.2.3.2",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "code": "4.9.2.2",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "AT 分类法",
+   "en": "AT classification",
+   "code": "4.0447",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "老年问题",
+   "en": "aging problem， aging issue",
+   "code": "4.4.9.38",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
