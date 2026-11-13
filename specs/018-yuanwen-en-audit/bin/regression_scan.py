@@ -11,9 +11,9 @@
 用法: python specs/018-yuanwen-en-audit/bin/regression_scan.py <备份目录> <现行目录>
 输出: stdout 摘要；明细 JSON 落 specs/018-yuanwen-en-audit/results/。
 """
-import difflib
 import json
 import os
+import re
 import sys
 
 IMG_EXT = ('.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.pdf')
@@ -27,16 +27,20 @@ def nostar(s):
     return s.replace('*', '').replace(' ', '')
 
 
-QUOTE_PREFIX_RE = re.compile(r'^(?:>\s*)+')
+QUOTE_PREFIX_RE = re.compile(r'^(?:>[ \t]*)+')
+
+
+ASCII_WS = ' \t\r\n\f\v'
 
 
 def collapse_quotes(lines):
-    """连续 `>` 引行（含嵌套）折叠为单行，空引行为引内段界；两侧同法归一。"""
+    """连续 `>` 引行（含嵌套）折叠为单行，空引行为引内段界；两侧同法归一。
+    仅去 ASCII 空白：`\\xa0`（&nbsp; 缩进）是正文内容，参与比较。"""
     out, buf = [], []
     for ln in lines:
-        ln = ln.rstrip()
+        ln = ln.rstrip(ASCII_WS)
         if ln.startswith('>'):
-            t = QUOTE_PREFIX_RE.sub('', ln).strip()
+            t = QUOTE_PREFIX_RE.sub('', ln).strip(ASCII_WS)
             if t:
                 buf.append(t)
             elif buf:
@@ -53,14 +57,24 @@ def collapse_quotes(lines):
 
 
 def file_verdict(old_lines, new_lines):
-    """归一化链：引块折叠（BR 类）→ 去星去空格（SPACE/STAR 类）。仍不等=OTHER。"""
+    """整文件归一链：引块折叠（BR 类）→ 去星去空格（SPACE/STAR 类）。仍不等=OTHER。"""
     a = collapse_quotes(old_lines)
     b = collapse_quotes(new_lines)
     if a == b:
         return 'BR'
-    if [nostar(x) for x in a] == [nostar(x) for x in b]:
+    if ''.join(nostar(x) for x in a) == ''.join(nostar(x) for x in b):
         return 'SPACE-STAR'
     return 'OTHER'
+
+
+def char_delta(a, b, span=90):
+    """OTHER 明细：在归一文本上定位首处真实差异（非对齐假象）。"""
+    sa = ''.join(nostar(x) for x in a)
+    sb = ''.join(nostar(x) for x in b)
+    i = 0
+    while i < min(len(sa), len(sb)) and sa[i] == sb[i]:
+        i += 1
+    return sa[max(0, i - span):i + span], sb[max(0, i - span):i + span]
 
 
 def scan_tree(old_root, new_root):
@@ -99,10 +113,8 @@ def scan_tree(old_root, new_root):
         if cls == 'OTHER':
             a = collapse_quotes(old)
             b = collapse_quotes(new)
-            delta = [(x, y) for x, y in zip(a, b) if nostar(x) != nostar(y)][:3] or \
-                    [('(行数差 %d→%d)' % (len(a), len(b)), '')]
-            other_details.append({'file': rel, 'old': [x for x, _ in delta],
-                                  'new': [y for _, y in delta]})
+            o, n = char_delta(a, b)
+            other_details.append({'file': rel, 'old': [o], 'new': [n]})
     return {'verdicts': verdicts, 'unchanged': unchanged, 'added': added,
             'removed': removed, 'other_details': other_details,
             'total_files': len(all_files)}
