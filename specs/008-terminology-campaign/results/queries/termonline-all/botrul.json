@@ -1,0 +1,75 @@
+{
+ "key": "botrul",
+ "term": "Bötrül",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T14:17:38+00:00",
+ "status": "ok",
+ "note": "variant=Bötrül; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=3; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "TR锻造",
+   "en": "TR forging",
+   "code": "03.076",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_锻压_锻造"
+  },
+  {
+   "cn": "TR管",
+   "en": "TR tube",
+   "code": "10.040",
+   "standard": "电子学名词",
+   "subject": "电子学_真空电子学"
+  },
+  {
+   "cn": "Tr1细胞",
+   "en": "type 1 regulatory T cell,Tr1 cell",
+   "code": "2.112",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫细胞"
+  },
+  {
+   "cn": "Tr1细胞",
+   "en": "type 1 regulatory T cell， Tr1 cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "TR管，保护放电管",
+   "en": "TR tube",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "保护放电管（=TR 管）",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "《BS PD ISO/IEC TR 38505-2-2018 信息技术 IT的治理 数据的治理》",
+   "en": "BS PD ISO/IEC TR 38505-2:2018 Information technology — Governance of IT — Governance of data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《BS PD ISO/IEC TR 22417-2017 信息技术 物联网 物联网用例》",
+   "en": "BS PD ISO/IEC TR 22417:2017 Information technology — Internet of Things (IoT) — IoT use cases",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《BS PD ISO/IEC TR 29181-9-2017 信息技术 未来网络 问题陈述和要求 万物联网》",
+   "en": "BS PD ISO/IEC TR 29181-9:2017 Information technology — Future network — Problem statement and requirements — Networking of everything",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

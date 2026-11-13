@@ -1,0 +1,54 @@
+{
+ "key": "boniface ix",
+ "term": "Boniface IX",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T14:07:08+00:00",
+ "status": "ok",
+ "note": "variant=Boniface IX; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "太溪",
+   "en": "tàixī,K3,KI3",
+   "code": "08.233",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "非弹性 X 射线谱学",
+   "en": "inelastic X-ray spectroscopy,IXS",
+   "code": "08.1051",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "内膝眼",
+   "en": "nèixīyǎn,EX-LE4",
+   "code": "08.439",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "耳背心",
+   "en": "ěrbèixīn,P1,heart of posterior surface",
+   "code": "08.530",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_耳穴名称和头皮穴线名称"
+  },
+  {
+   "cn": "后弓面",
+   "en": "back bowface",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "前弓面",
+   "en": "front bowface",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
