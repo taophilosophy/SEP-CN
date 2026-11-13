@@ -76,4 +76,12 @@
 
 <!-- 接力指针：下一词条 abstract-objects（yuanwen/a/abstract-objects.md；en/abstract-objects/index.html） -->
 
+## abstract-objects（正式；译文 a/abstract-objects.md 存在）
+
+- 源：en/abstract-objects/index.html（3031 行，含 20 处 `p.indent`/`div.indent` 公式行、`\[...\]`/`\(...\)` 数学）+ notes.html（24 注）↔ yuanwen/a/abstract-objects.md（697 行）
+- 逐段核：preamble 1 段✓；作者行 = citation_author 三作者✓；§1（5 段）✓；§1.1（1 段，[^note-1] 落位✓）；§1.2（2 段，[^note-2]/[^note-3] 落位✓）；§2.1（4 段）✓；§2.2（14 段，各引用组标记与源逐年核对✓）；§3 引言（2 段）✓；§3.1（4 段）✓；§3.2（1 段）✓；§3.3（2 段）✓；§3.4（正文段 9 + 缩进式公式段 10 + display math 1 + Lewis 引块 1，次序一一对应✓，`$K_{f}$`/`naïve`✓）；§3.5 引言 1 段✓；§3.5.1（6 段 + 2 缩进式判准段，[^note-7]/[^note-8] 落位✓）；§3.5.2（14 段 + 4 缩进式判准段）✓；§3.5.3（8 段 + 1 缩进式判准段）✓；§3.5.4（5 段 + 2 缩进式判准段）✓；§3.6（10 段 + display align 公式 1，`\:&\:` 转义、`&amp;`→`&` 核对✓）；§3.7 引言 3 段✓；§3.7.1（9 段 + 1 缩进式判准段，`<span class="nw">` 剥壳内容保全✓）✓；§3.7.2（10 段，[^note-22]/[^note-23]/[^note-24] 落位✓）；§3.8（1 段）✓；§4 Further Reading（1 段）✓；Acknowledgments（1 段，位于 Related Entries 之后与源同序）✓；脚注 24 条 ↔ notes.html 定义 24 条逐条比对✓；书目 **137 条** `<li>` ↔ 137 脚注定义逐条比对（含 `deRosset`、`Đorđević` 特殊键、`Parsons Charles/Terence` 同姓序、`Volume Ii`/`Science Iii` 大小写怪癖、`Abstract Objects </em>` 尾随空格）✓；Academic Tools 4 行✓；OIR 1 条（外链保留为 md 链接）✓；Related Entries 13 条同序✓
+- 系统行为（实证确认，不改）：`p.indent`/`div.indent` 展示用缩进 CSS 类不入 md，内容与分段保留；`\(...\)`→`$...$`、`\[...\]`→`$$...$$`；引用组标记只按组内每 key 首现年份模式附（「Baron 2016, 2020」只附 baron-2016；无括号裸引如 note-4 「See Enoch 2011, 2016; Leibowitz & Sinclair 2016.」整句不附标记），书目定义全量在场、无内容损失；`&nbsp;` 保留（note-4 `Leibowitz &\xa0Sinclair` 实测在场，F5 护栏生效）
+- 源文瑕疵忠实保留：note-2 末尾多余右括号「distinction).」；§3.7.1 源文未闭合括号「category term ‘number’)」；inwagen-2024 「Inwagen Peter van」缺逗号；§3.5.2 「does so of the fact that」漏词；§4 「an useful introduction」；§3.7.1 「if it’s truth is」——均与源逐字一致
+- 结论：零转换缺陷；译文无需同步。
+
 
