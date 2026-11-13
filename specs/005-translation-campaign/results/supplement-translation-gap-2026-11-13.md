@@ -64,9 +64,34 @@
 | `s/spacetime-holearg.gauge.md` | 1 | 作为分析规范自由度之模板的空穴论证 | `en/spacetime-holearg/gauge.html` | 27.0 |
 | `s/spacetime-holearg.leibniz-equivalence.md` | 2 | 通过地图投影直观理解莱布尼茨等价 | `en/spacetime-holearg/leibniz-equivalence.html` | 15.8 |
 
+## 与站点死链门禁的联动（2026-11-13 落实并实测）
+
+`.vitepress/config.mts` 原为全局放行（`ignoreDeadLinks: true`），读者点击补充材料链接会落空且门禁不报。
+现已关闭全局豁免，改为**逐条登记式豁免**：配置中的 `pendingSupplementPages` 常量与本台账 31 条一一对应。
+VitePress `shouldIgnoreDeadLink` 传入的 `url` 带 `./` 前缀且已去 `.md` 后缀，故配置用
+`pendingSupplementPages.map((s) => './' + s)` 生成匹配键。
+
+- 效果：VitePress 2.0 alpha.21 把死链记为构建硬失败（`renderStart()` 抛错），因此**任何新增死链都会阻断构建**；
+  只有显式登记的存量豁免能通过。
+- 收敛规则：每落地一个 `<letter>/<slug>.<x>.md` 译文，即从 `pendingSupplementPages` 删除对应一条、并同步本台账；
+  数组清空后删除整个配置项，恢复零豁免。
+- 若要立即零豁免：把数组改为 `false`（或删除该配置项），代价是构建立即失败在上表 49 处引用上。
+
+### 关闭全局豁免后实测暴露的另外 10 条死链
+
+`bun run build` 实测共报 59 条死链，构成：49 条补充材料 + 下列 10 条。静态扫描此前未发现后两类，
+说明全局放行确实掩盖了问题。
+
+| 类别 | 条数 | 性质 | 处置 |
+| ---- | ---- | ---- | ---- |
+| `README.md` 指向 `rules/README.md`、`tasks/README.md`、`tools/README.md`、`specs/001-sep-sync-pipeline/spec.md`、`.specify/memory/constitution.md` | 5 | 真死链：这些目录被 `srcExclude` 排除，站内不存在对应页面 | 改为指向 GitHub 仓库的绝对外链，站点与仓库内均可点开 |
+| `yuanwen/a/ambiguity.md`、`yuanwen/d/descriptions.md`、`yuanwen/l/logic-intensional.md` 中受限量词记号（如 `[∀*w*][∀*x*:…](Unmarried(*x*,*w*))`） | 5 | 渲染误判：markdown-it 把公式里的 `[…](…)` 当成引用式链接 | ADR-0007 要求原文镜像逐字符一致，不改源；用 4 个精确键（`./Unmarried(*x*,*w*)`、`./Unmarried`、`./*Gx*`、`./f`）豁免 |
+
+- 校验：构建范围内 md 4360 个（`yuanwen/` 2420 个）；豁免键 31 + 4，与本台账严格一一对应。
+
 ## 后续处置建议（本轮不执行）
 
 1. 按 `rules/04` 流程先行逐条建任务，先登记术语再动笔，三校留 `evidence`；不得据既有中文主词条措辞反推补充材料。
 2. 零信任：以 `en/<slug>/<x>.html` 与 `yuanwen/` 镜像为底稿，回源核对版本钉（pubinfo、存档版名、SHA-256）。
 3. 体例照 `a/abduction.peirce.md`：H1 中文标题、来源引用块、说明行、正文分段守恒。
-4. 落地后复核本清单引用处可解析；`ignoreDeadLinks` 不宜作为长期豁免依据。
+4. 落地后复核本清单引用处可解析，并按上节收敛规则删除对应豁免项。

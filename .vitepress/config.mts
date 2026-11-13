@@ -245,11 +245,61 @@ try {
   gitStamps = {}
 }
 
+// SEP 补充材料中文译文尚未落地的页面键（与台账同名，见下方 ignoreDeadLinks 注释）。
+// 2026-11-13 全库扫描：31 个目标、49 处引用；英文源与原文镜像齐备，缺的只是译文。
+const pendingSupplementPages = [
+  'ancient-soul.supplement',
+  'axiom-choice.choice-and-type-theory',
+  'brouwer.strongcounterex',
+  'brouwer.weakcounterex',
+  'descartes-works.history',
+  'imprecise-probabilities.supplement-formal',
+  'imprecise-probabilities.supplement-historical',
+  'intrinsic-extrinsic.grounding-theories',
+  'intrinsic-extrinsic.non-disjunctive',
+  'intrinsic-extrinsic.relational-theory',
+  'japanese-aesthetics.ginkakuji',
+  'japanese-aesthetics.ginkakuji-kinkakuji',
+  'japanese-aesthetics.late-spring',
+  'japanese-aesthetics.ryoanji',
+  'japanese-aesthetics.splashed-ink',
+  'japanese-aesthetics.tokyo-story',
+  'kant-judgment.supplement1',
+  'kant-judgment.supplement2',
+  'kant-judgment.supplement3',
+  'kant-judgment.supplement4',
+  'kant-judgment.supplement5',
+  'kochen-specker.proofvc1',
+  'logic-fuzzy.readings-by-topic',
+  'logic-relevance.logic-b-dj-dk',
+  'logic-relevance.logice',
+  'logic-relevance.logicnr',
+  'logic-relevance.logicr',
+  'logic-relevance.logics',
+  'spacetime-holearg.active-passive',
+  'spacetime-holearg.gauge',
+  'spacetime-holearg.leibniz-equivalence',
+]
+
 export default defineConfig({
   lang: 'zh-CN',
   title: 'SEP 中文版',
   description: '斯坦福哲学百科全书（SEP）简体中文翻译项目，与英文原文对照阅读',
-  ignoreDeadLinks: true,
+  // 死链检查：2026-11-13 关闭全局豁免（原为全局放行 true）。
+  // VitePress 把死链记为构建硬失败（renderStart 抛错），故下列数组仅登记已核实的存量缺口，
+  // 任何新增死链都会阻断构建。台账：
+  // specs/005-translation-campaign/results/supplement-translation-gap-2026-11-13.md
+  // 收敛规则：每落地一个 <letter>/<slug>.<x>.md 译文，即从 pendingSupplementPages 删除对应一条；
+  // 清空后删除本配置项，恢复零豁免。
+  // VitePress shouldIgnoreDeadLink 传入的 url 带 ./ 前缀且已去 .md 后缀，故统一加前缀。
+  ignoreDeadLinks: [
+    ...pendingSupplementPages.map((s) => `./${s}`),
+    // 英文原文镜像中的受限量词记号被 markdown-it 误判为链接；ADR-0007 要求原文逐字符一致，不改源。
+    './Unmarried(*x*,*w*)',
+    './Unmarried',
+    './*Gx*',
+    './f',
+  ],
   // 2026-10-29 逐项选定：URL 去 .html；词条页标签加站名后缀；显示更新时间。
   // 注意：2.0 的 titleTemplate 占位符是 :title（%s 是 1.x 语法，会原样出现在标签页标题里）。
   // lastUpdated 不用内置逐页 git 查询（B1）：关闭后由 transformPageData 注入
