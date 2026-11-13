@@ -1051,14 +1051,14 @@
 | De Voisin, Louis | — | 德·瓦赞 | — | — | albo-joseph | 《原则之书》拉丁译注家（正文作德·瓦赞） | 2026-11-07 |
 | De Volder | — | 德伏尔德 | — | — | leibniz-mind | 学界通行汉译（布尔哈夫学莱顿学者，莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Defoe, Daniel | — | 丹尼尔·笛福 | 英国 | 约 1660–1731 | novalis | 学界千年通行汉译（《鲁滨逊漂流记》）；凭证 2026-11-11 | 2026-11-11 |
-| Dekker, Paul | — | Dekker, Paul | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
+| Dekker, Paul | — | Dekker, Paul | 荷兰／政治学 | 1954– | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 172039703（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Del Soldato, Eva | — | Eva Del Soldato（现代学者，保留英文） | 意大利 | — | natphil-ren | ADR-0022：无通行汉名，保留英文（本词条作者）；凭证 2026-11-10 | 2026-11-10 |
-| Delacroix, Eugène | Eugène Delacroix | 德拉克洛瓦 | — | — | erotic-art | 千年通行（法国浪漫主义画家） | 2026-11-08 |
+| Delacroix, Eugène | Eugène Delacroix | 德拉克洛瓦 | 法国 | 1798–1863 | erotic-art | 千年通行（法国浪漫主义画家）；籍属/生卒联网查证：GND 规范标目 gnd 118524461（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Delande, Olivier | — | Olivier Delande | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Deleuze, Gilles | — | 吉尔·德勒兹 | — | — | bergson | 学界通行汉译（柏格森主义复兴的关键读者） | 2026-11-08 |
+| Deleuze, Gilles | — | 吉尔·德勒兹 | 法国 | 1925–1995 | bergson | 学界通行汉译（柏格森主义复兴的关键读者）；籍属/生卒联网查证：GND 规范标目 gnd 118524534（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | della Rovere, Francesco | Francesco della Rovere | 弗朗切斯科·德拉·罗韦雷 | 意大利（萨沃纳） | 1414–1484 | bessarion | 本词条首译（枢机期本名，即教宗西斯笃四世〔见本表 Sixtus IV 行〕） | 2026-11-10 |
 | della Valle, Paolo | — | 保罗·德拉瓦莱 | 意大利 | — | zabarella | 学界通行音译（耶稣会士，罗马学院）；凭证 2026-11-09 | 2026-11-09 |
-| Delmedigo, Elijah | — | 以利亚·德尔·梅第戈 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Delmedigo, Elijah | — | 以利亚·德尔·梅第戈 | 意大利／希腊 | 1460–1497 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 119456710（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Democedes | — | 德摩塞迪斯 | — | — | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
 | Democrates | — | 德谟克拉底 | — | — | democritus | 音译（伪托德谟克利特的格言作者，学界惯用形） | 2026-11-06 |
 | Democritus | — | 德谟克利特 | 希腊（阿布德拉）／原子论 | c. 460–c. 370 BCE | arabic-islamic-phil-math | 学界千年通行汉译（原子论奠基者；勿与伪托格言作者 Democrates 德谟克拉底相混） | 2026-11-08 |
@@ -1066,15 +1066,15 @@
 | den Hartogh, Govert | — | den Hartogh | — | — | organ-donation | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Dennett, Daniel | — | 丹尼尔·丹尼特 | — | — | behaviorism | 学界通行汉译（《意识的解释》作者） | 2026-11-05 |
 | DePaul, Michael R. | — | 迈克尔·德保罗 | 美国／哲学家 | — | reflective-equilibrium | 学界通行音译（《平衡与精炼》作者，激进反思平衡）；凭证 2026-11-11 | 2026-11-11 |
-| Depew, David | — | 戴维·迪普 | — | — | origin-descent | 学界惯例（达尔文修辞研究）；凭证 2026-11-07 | 2026-11-07 |
-| Derk Pereboom | — | 德克·佩雷布姆 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
+| Depew, David | — | 戴维·迪普 | 美国 | 1942– | origin-descent | 学界惯例（达尔文修辞研究）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 13144123X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Derk Pereboom | — | 德克·佩雷布姆 | 美国 | 1957– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 1103247956（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | DeRose, Keith | — | 基思·德罗斯 | — | — | closure-epistemic | 学界通行音译（语境论）；凭证 2026-11-08 | 2026-11-08 |
-| Derrida, Jacques | — | 雅克·德里达 | — | — | bergson | 学界通行汉译 | 2026-11-08 |
+| Derrida, Jacques | — | 雅克·德里达 | 法国 | 1930–2004 | bergson | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118677888（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Des Bosses | — | 德博斯 | — | — | leibniz-mind | 学界通行汉译（耶稣会士，莱布尼茨通信者巴特洛梅乌斯·德博斯）；待 specs/008 审定库复核 | 2026-11-03 |
-| Desargues, Gérard | — | 吉拉尔·德萨格 | — | — | geometry-19th | 射影几何先驱，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
-| Descartes, René / René Descartes | René Descartes | 勒内·笛卡尔 | — | — | descartes-works；gadamer-aesthetics | 学界千年通行（SUMMARY 定名；正文行文用“笛卡尔”）；2026-11-13 重复行合并（旧键 `René Descartes`） | 2026-11-13 |
-| Desgabets, Robert | — | 罗伯特·戴加贝 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
-| Destutt de Tracy | — | 德斯蒂·德·特拉西 | — | — | law-ideology | 学界通行汉译（意识形态学创导者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Desargues, Gérard | — | 吉拉尔·德萨格 | 法国／数学 | 1591–1661 | geometry-19th | 射影几何先驱，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118671545（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Descartes, René / René Descartes | René Descartes | 勒内·笛卡尔 | 法国／哲学 | 1596–1650 | descartes-works；gadamer-aesthetics | 学界千年通行（SUMMARY 定名；正文行文用“笛卡尔”）；2026-11-13 重复行合并（旧键 `René Descartes`）；籍属/生卒联网查证：GND 规范标目 gnd 118524844（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Desgabets, Robert | — | 罗伯特·戴加贝 | 法国／神学 | 1610–1678 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 12444461X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Destutt de Tracy | — | 德斯蒂·德·特拉西 | 法国／政治 | 1754–1836 | law-ideology | 学界通行汉译（意识形态学创导者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118671677（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Detlev Claussen | — | 德特勒夫·克劳森 | 德国／社会学家（阿多诺传记作者） | 生卒待核 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Deutsch, David | — | 戴维·多伊奇 | 英国 | 1953– | qt-entangle | 学界通行汉译（量子计算）；凭证 2026-11-09 | 2026-11-09 |
 | Devadatta | — | 提婆达多 | — | — | buddhism-chan | 佛学界通行汉译 | 2026-11-05 |
@@ -1089,8 +1089,8 @@
 | Diamond, Peter | — | 彼得·戴蒙德 | 美国／经济学家 | 1940– | ramsey-economics | 学界通行汉译（诺贝尔经济学奖）；凭证 2026-11-11 | 2026-11-11 |
 | Dickens, Charles | Charles Dickens | 狄更斯（查尔斯·狄更斯） | 英国 | 1812–1870 | paradox-of-tragedy | 学界千年通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Dickie, George | — | 迪基 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
-| Dickmann, M. A. | — | M. A. Dickmann | — | — | logic-infinitary | 无通行汉名，保留英文原名（模型论学家）；凭证 2026-11-10 | 2026-11-09 |
-| Diderot, Denis | — | 德尼·狄德罗 | — | — | SUMMARY 定名（d/diderot.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Dickmann, M. A. | — | M. A. Dickmann | 法国／数学 | 1940– | logic-infinitary | 无通行汉名，保留英文原名（模型论学家）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 172054737（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Diderot, Denis | — | 德尼·狄德罗 | 法国／文学 | 1713–1784 | SUMMARY 定名（d/diderot.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118525263（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Didier of Monte Cassino | — | 迪迪埃 | 法国 | 11 世纪 | peter-damian | 本词条首译（卡西诺山修道院院长，法国通行汉名“迪迪埃”）；凭证 2026-11-09 | 2026-11-09 |
 | Dietrich of Freiberg | — | 弗赖贝格的迪特里希 | — | — | albert-great | 学界惯例（中世纪德国多明我会哲学家） | 2026-11-06 |
 | Dietrich, Franz | — | Franz Dietrich | — | — | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
@@ -1098,8 +1098,8 @@
 | Dignāga | दिग्नाग | 陈那 | 南印度（迦尸迦地区）／佛教量论 | c. 480–540 | korean-buddhism | 佛学界千年传统译名（汉文古译；因明论师） | 2026-11-05 |
 | Dijksterhuis, E. J. | — | E. J. 戴克斯特霍伊斯 | 荷兰 | 1898–1961 | cassirer | 科学史家（《世界图景的机械化》作者），学界通行汉译；凭证 2026-11-12 r2 | 2026-11-12 |
 | Dilthey, Wilhelm / Wilhelm Dilthey | — | 威廉·狄尔泰 | 德国 | 1833–1911 | dilthey；gadamer-aesthetics | SUMMARY 定名沿用（本词条主词）；学界通行汉译；2026-11-13 重复行合并（旧键 `Wilhelm Dilthey`） | 2026-11-13 |
-| Dinet, Jacques | — | 雅克·迪内 | — | — | henricus-regius | 音译（法国耶稣会士，笛卡尔《致迪内神父书》收信人）；凭证 2026-11-08 | 2026-11-08 |
-| Dingle, Herbert | — | 赫伯特·丁格尔 | — | — | cosmology-30s | 学界通行音译（本词条论战发动者）；凭证 2026-11-08 | 2026-11-08 |
+| Dinet, Jacques | — | 雅克·迪内 | 法国／神学 | 1580–1653 | henricus-regius | 音译（法国耶稣会士，笛卡尔《致迪内神父书》收信人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 115872329（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dingle, Herbert | — | 赫伯特·丁格尔 | 英国 | 1890–1978 | cosmology-30s | 学界通行音译（本词条论战发动者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 143211072（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Diṅnāga | दिङ्नाग | 陈那 | 古印度（南印度）／佛教量论 | c. 480–540 | early-modern-india | 与既有 Dignāga 行同一人异写，共用主形“陈那”（佛学界千年传统译名）；凭证 2026-11-10 | 2026-11-10 |
 | Dio | — | 狄翁 | — | — | dialectical-school | 学界通行汉译（“狄翁去科林斯”标准例证人名）；凭证 2026-11-07 | 2026-11-07 |
 | Diodorus Cronus | Diodorus of Iasos | 狄奥多罗斯·克罗诺斯（正文简作“狄奥多罗斯”；SUMMARY 题名作“卡里亚雅苏斯的狄奥多罗斯”） | — | — | dialectical-school | 词汇表既有裁定：Cronus 承自其师 Apollonius Cronus 之绰号，勿以出生地替代；题名与正文人名并用并存；凭证 2026-11-07 | 2026-11-07 |
@@ -1108,53 +1108,53 @@
 | Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | — | — | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07 | 2026-11-07 |
 | Dionysius the Areopagite | — | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | — | — | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Dioscorides | — | 迪奥斯科里德斯 | 古希腊 | 约 40–约 90 | natphil-ren | 学界千年通行（《药物论》作者）；凭证 2026-11-10 | 2026-11-10 |
-| Dirac, Paul | — | 狄拉克 | — | — | 语料回收（mathematics-inconsistent 首译） | 物理学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Dirac, Paul | — | 狄拉克 | 英国／物理学 | 1902–1984 | 语料回收（mathematics-inconsistent 首译） | 物理学界千年通行汉译；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118679775（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | DiSalle, Robert | — | DiSalle | — | — | newton-principia | 无通行汉名，保留英文原名（时空哲学家，Understanding Space-Time 作者）；凭证 2026-11-12 | 2026-11-12 |
 | Disraeli | — | 迪斯雷利 | — | — | bauer | 学界通行汉译（本杰明·迪斯雷利，英国首相） | 2026-11-08 |
-| Ditmarsch, Hans van / Van Ditmarsch, Hans | — | Ditmarsch, Hans van | — | — | dynamic-semantics；logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Van Ditmarsch, Hans`） | 2026-11-13 |
-| Dix, Otto | — | 奥托·迪克斯 | — | — | erotic-art | 学界通行（新客观主义画家） | 2026-11-08 |
+| Ditmarsch, Hans van / Van Ditmarsch, Hans | — | Ditmarsch, Hans van | 逻辑学 | 1959– | dynamic-semantics；logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Van Ditmarsch, Hans`）；籍属/生卒联网查证：GND 规范标目 gnd 133419703（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dix, Otto | — | 奥托·迪克斯 | 德国 | 1891–1969 | erotic-art | 学界通行（新客观主义画家）；籍属/生卒联网查证：GND 规范标目 gnd 118526103（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dobbs, Betty Jo Teeter | — | 贝蒂·乔·蒂特·多布斯 | 美国／科学史 | 1930–1994 | newton-philosophy | 学界惯例音译（牛顿炼金术研究奠基者） | 2026-11-10 |
 | Dobzhansky, Theodosius | — | 特奥多西乌斯·杜布赞斯基 | 美国（生于乌克兰） | 1900–1975 | ecological-genetics | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Dodwell, Henry | — | 亨利·多德韦尔 | — | — | john-norris | 学界通行汉译（灵魂不朽论战作者） | 2026-11-07 |
-| Doetjes, Jenny | — | Jenny Doetjes | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Doetjes, Jenny | — | Jenny Doetjes | 荷兰 | 1965– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 173203221（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dōgen | 道元 | 道元 | — | — | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
-| Dokic, Jérôme | Jérôme Dokic | 热罗姆·多基奇 | — | — | bodily-awareness | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
+| Dokic, Jérôme | Jérôme Dokic | 热罗姆·多基奇 | 瑞士 | 1965– | bodily-awareness | 学界通行音译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 172685168（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dolpopa | — | 朵波巴 | — | — | gorampa | 藏传佛教觉囊派学者（dol po pa shes rab rgyal mtshan，1292–1361）；通行音译 | 2026-11-09 |
-| Domenico Giulini | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Domenico Giulini | — | 保留英文（无通行汉名） | 德国／物理学 | 1959– | spacetime-convensimul | ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 114542163（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Donagan, Alan | — | 艾伦·多纳根 | 美国 | 1925–1991 | informed-consent | 音译（康德伦理学与生命伦理学者） | 2026-11-12 |
 | Donald Cary Williams | — | 唐纳德·卡里·威廉姆斯 | 美国 | 1899–1983 | 语料回收（全目录） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：SEP 词条 Donald Cary Williams（2026-11-13 查，凭证 verify-2026-11-13.tsv） | 2026-11-13 |
-| Donato, Girolamo | — | 吉罗拉莫·多纳托 | — | — | delmedigo | 音译（15 世纪威尼斯人文主义者，意人名通例） | 2026-11-06 |
+| Donato, Girolamo | — | 吉罗拉莫·多纳托 | 意大利／人文主义 | 1454–1511 | delmedigo | 音译（15 世纪威尼斯人文主义者，意人名通例）；籍属/生卒联网查证：GND 规范标目 gnd 104251468（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Donatus | — | 多纳图斯 | 罗马 | 4 世纪 | peter-spain | 古典语法学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Dong Zhongshu | — | 董仲舒 | 中国（汉） | 公元前 179–104 | chinese-phil-medicine | 学界千年通行（汉代儒者，《春秋繁露》）；凭证 2026-11-10 | 2026-11-09 |
-| Donna Haraway | — | 唐娜·哈拉维 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
-| Doolittle, W. Ford | — | W·福特·杜利特尔 | — | — | fitness | 学界通行音译（生化演化论者）；凭证 2026-11-13 | 2026-11-13 |
+| Donna Haraway | — | 唐娜·哈拉维 | 美国／女性主义 | 1944– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 131370952（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Doolittle, W. Ford | — | W·福特·杜利特尔 | 美国／加拿大／生物化学 | 1941– | fitness | 学界通行音译（生化演化论者）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 1250083737（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dorandi, Tiziano | — | 蒂齐亚诺·多兰迪 | 意大利 | — | epicurus | 音译（第欧根尼·拉尔修校勘本编者） | 2026-11-12 |
-| Dormandy, Katherine | — | 凯瑟琳·多曼迪 | — | — | faith | 音译（信仰与证据主义）；凭证 2026-11-11 | 2026-11-11 |
+| Dormandy, Katherine | — | 凯瑟琳·多曼迪 | 美国／德国 | 1979– | faith | 音译（信仰与证据主义）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 1049253701（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dorothea Christiane Erxleben (née Leporin) | Dorothea Christiane Erxleben (née Leporin) | 多罗特娅·克里斯蒂安妮·埃克斯莱本（娘家姓莱波林） | — | — | 18thGerman-preKant | 学界通行汉译（德国首位女医学博士）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Dorothea Veit | Dorothea Veit | 多萝特娅·法伊特 | — | — | schlegel | 学界惯例（门德尔松之女，后为施莱格尔之妻）；凭证 2026-11-07 | 2026-11-07 |
 | Dorsey, Dale | — | 戴尔·多尔西 | — | — | truth-coherence | 学界惯例（伦理学家，音译）；凭证 2026-11-08 | 2026-11-08 |
-| Dostoevsky, Fyodor | — | 陀思妥耶夫斯基 | — | — | 语料回收（lakatos 首译） | 学界千年通行汉译（俄国作家；《群魔》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Dostoevsky, Fyodor | — | 陀思妥耶夫斯基 | 俄国／文学 | 1821–1881 | 语料回收（lakatos 首译） | 学界千年通行汉译（俄国作家；《群魔》作者）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118527053（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dostoyevsky, Fyodor | Фёдор Михайлович Достоевский | 费奥多尔·陀思妥耶夫斯基 | 俄国 | 1821–1881 | evil-kinds-origins | 学界通行 | 2026-11-12 |
 | Douglas Duckworth | — | Douglas Duckworth | — | — | gelukpa | 无通行汉名，保留英文 | 2026-11-01 |
-| Douglas Hofstadter | — | 侯世达 | — | — | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者） | 2026-11-05 |
-| Douven, Igor | — | Igor Douven（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
+| Douglas Hofstadter | — | 侯世达 | 美国 | 1945– | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者）；籍属/生卒联网查证：GND 规范标目 gnd 119440636（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Douven, Igor | — | Igor Douven（现代学者，保留英文） | 荷兰 | 1963– | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1215793081（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Downing, Peter | — | Peter Downing（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
-| Drake, Frank R. | — | Frank R. Drake | — | — | logic-infinitary | 无通行汉名，保留英文原名（英国集合论学家，1936–2019）；凭证 2026-11-10 | 2026-11-09 |
-| Dred Scott | — | 德雷德·斯科特 | — | — | alexander-crummell | 德雷德·斯科特案通行汉译 | 2026-11-07 |
-| Dretske, Fred / Fred Dretske | — | 弗雷德·德雷茨克 | — | — | closure-epistemic；语料回收（全目录） | 知识论通行音译（追踪条件/相关替代项/决定性理由）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Fred Dretske`） | 2026-11-13 |
-| Dreyfus, Hubert L. | — | 休伯特·德雷福斯 | — | — | f/frame-problem | 学界通行汉译（《计算机不能做什么》作者） | 2026-11-10 |
+| Drake, Frank R. | — | Frank R. Drake | 英国／数学 | 1936– | logic-infinitary | 无通行汉名，保留英文原名（英国集合论学家，1936–2019）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1045657808（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dred Scott | — | 德雷德·斯科特 | 美国 | 1809–1858 | alexander-crummell | 德雷德·斯科特案通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 132170175（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dretske, Fred / Fred Dretske | — | 弗雷德·德雷茨克 | 美国 | 1932–2013 | closure-epistemic；语料回收（全目录） | 知识论通行音译（追踪条件/相关替代项/决定性理由）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Fred Dretske`）；籍属/生卒联网查证：GND 规范标目 gnd 119039745（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dreyfus, Hubert L. | — | 休伯特·德雷福斯 | 美国 | 1929–2017 | f/frame-problem | 学界通行汉译（《计算机不能做什么》作者）；籍属/生卒联网查证：GND 规范标目 gnd 122891953（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Driver, Julia | — | 朱莉娅·德赖弗 | 美国 | 1961– | imaginative-resistance | 音译（道德哲学）；凭证 2026-11-12 | 2026-11-12 |
-| Droysen, Johann Gustav | — | 约翰·古斯塔夫·德罗伊森 | — | — | oakeshott | 学界通行汉译（《历史学》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| Droysen, Johann Gustav | — | 约翰·古斯塔夫·德罗伊森 | 德国 | 1808–1884 | oakeshott | 学界通行汉译（《历史学》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11852755X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dryzek, John | — | 约翰·德雷泽克 | 澳大利亚 | — | global-democracy | 音译（审议民主理论家） | 2026-11-12 |
 | Du Hamel, Jean Baptiste | — | 让·巴蒂斯特·迪阿梅尔 | 法国／自然哲学家 | 1624–1706 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
-| Duan Yucai | — | 段玉裁 | — | — | dai-zhen | 上游自带汉字；学界通行（戴震弟子，《说文解字注》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Duan Yucai | — | 段玉裁 | 中国／语文学 | 1735–1815 | dai-zhen | 上游自带汉字；学界通行（戴震弟子，《说文解字注》作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1051784689（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | DuBois, James M. | — | 詹姆斯·杜布瓦 | 美国／生命伦理学 | — | reinach | 学界惯例音译（本词条作者；生命伦理学）；凭证 2026-11-09 | 2026-11-09 |
-| Dubos, Jean-Baptiste | — | 让-巴蒂斯特·杜博 | — | — | hume-aesthetics | 学界通行汉译（18 世纪法国美学家，Abbé Jean-Baptiste Dubos）；待 specs/008 审定库复核 | 2026-11-08 |
-| Ducasse, C. J. | — | C. J. 杜卡斯 | — | — | environmental-aesthetics | 学界惯例音译（美国哲学家） | 2026-11-08 |
+| Dubos, Jean-Baptiste | — | 让-巴蒂斯特·杜博 | 法国／文学 | 1670–1742 | hume-aesthetics | 学界通行汉译（18 世纪法国美学家，Abbé Jean-Baptiste Dubos）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118672541（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Ducasse, C. J. | — | C. J. 杜卡斯 | 美国 | 1881–1969 | environmental-aesthetics | 学界惯例音译（美国哲学家）；籍属/生卒联网查证：GND 规范标目 gnd 128944994（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Duddy, Conal | — | Conal Duddy（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（判断集距离度量批评者，与 Piggins 合作）；凭证 2026-11-13 | 2026-11-13 |
-| Duden, Barbara | — | 芭芭拉·杜登 | — | — | genetics | 妊娠医疗化研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
+| Duden, Barbara | — | 芭芭拉·杜登 | 德国／史学 | 1942– | genetics | 妊娠医疗化研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 124532195（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dufrenne, Mikel | — | 米凯尔·杜夫海纳 | 法国 | 1910–1995 | ingarden | 学界通行汉译（《审美经验现象学》） | 2026-11-10 |
-| Dughet, Gaspard | — | 加斯帕尔·迪盖 | — | — | environmental-aesthetics | 学界惯例音译（十七世纪风景画家） | 2026-11-08 |
+| Dughet, Gaspard | — | 加斯帕尔·迪盖 | 法国 | 1615–1675 | environmental-aesthetics | 学界惯例音译（十七世纪风景画家）；籍属/生卒联网查证：GND 规范标目 gnd 118527983（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | — | — | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
 | Duhem, Pierre | — | 皮埃尔·迪昂 | — | — | duhem | 学界通行汉译（科学史/科学哲学，《物理理论的目的与结构》作者） | 2026-11-06 |
 | Dühring, Eugen | — | 欧根·杜林 | 德国 | 1833–1921 | vaihinger | 学界通行汉译（《反杜林论》所批杜林；音译）；凭证 2026-11-14 | 2026-11-14 |
@@ -1162,17 +1162,17 @@
 | Dunash Ibn Tamim | Dunash Ibn Tamim | 杜纳什·伊本·塔米姆 | — | — | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生） | 2026-11-06 |
 | Duncan-Jones, Austin | — | 奥斯汀·邓肯-琼斯 | 英国 | 1908–1967 | stebbing | 本词条首译（剑桥分析学派成员，无通行汉名） | 2026-11-09 |
 | Dunn, J. Michael | — | J. Michael Dunn | — | —；logic-linear | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| Duns Scotus, John / Duns Scotus / Scotus, John Duns | — | 邓斯·司各脱（亦作“司各脱”） | — | — | 语料回收（全目录）；occasionalism；albert-great | 学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Duns Scotus`、`Scotus, John Duns`） | 2026-11-13 |
+| Duns Scotus, John / Duns Scotus / Scotus, John Duns | — | 邓斯·司各脱（亦作“司各脱”） | 英国／法国／神学 | 1266–1308 | 语料回收（全目录）；occasionalism；albert-great | 学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Duns Scotus`、`Scotus, John Duns`）；籍属/生卒联网查证：GND 规范标目 gnd 118528165（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dupleix, Scipion | — | 西皮翁·迪普莱克斯 | 法国 | 1569–1661 | natphil-ren | 本词条首译（法国史家、亚里士多德摘要者）；凭证 2026-11-10 | 2026-11-10 |
-| Duplessis-Mornay, Philippe | — | 菲利普·迪普莱西-莫尔奈 | — | — | la-forge | 学界惯例音译（法国新教政治家，1599 年创办索米尔学院）；凭证 2026-11-09 | 2026-11-09 |
+| Duplessis-Mornay, Philippe | — | 菲利普·迪普莱西-莫尔奈 | 法国／神学 | 1549–1623 | la-forge | 学界惯例音译（法国新教政治家，1599 年创办索米尔学院）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118584200（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Durà-Vilà, Víctor | Víctor Durà-Vilà | 维克托·杜拉-维拉 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
-| Duran, Simeon ben Zemah | — | 西蒙·本·泽马·杜兰 | — | — | albo-joseph | 犹太哲学史通行音译 | 2026-11-07 |
-| Durand of St. Pourcain | — | 圣普尔甘的迪朗 | — | — | auriol | 经院通行音译（依地名冠称，St-Pourçain 圣普尔甘；正文作圣普尔甘的迪朗） | 2026-11-07 |
+| Duran, Simeon ben Zemah | — | 西蒙·本·泽马·杜兰 | 西班牙／犹太／犹太教法学 | 1361–1444 | albo-joseph | 犹太哲学史通行音译；籍属/生卒联网查证：GND 规范标目 gnd 118885847（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Durand of St. Pourcain | — | 圣普尔甘的迪朗 | 法国／神学 | 1275–1334 | auriol | 经院通行音译（依地名冠称，St-Pourçain 圣普尔甘；正文作圣普尔甘的迪朗）；籍属/生卒联网查证：GND 规范标目 gnd 11852822X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Durandus | — | 杜兰都斯 | — | — | occasionalism | 学界惯例（中世纪神学家）；凭证 2026-11-07 | 2026-11-07 |
-| Durkheim, Émile | Émile Durkheim | 埃米尔·涂尔干 | — | — | bergson | 学界通行汉译（社会学奠基人，柏格森同窗） | 2026-11-08 |
-| Dury, John | — | 约翰·杜里 | — | — | descartes-works | 音译（苏格兰教育家，哈特利布通信圈） | 2026-11-06 |
+| Durkheim, Émile | Émile Durkheim | 埃米尔·涂尔干 | 法国 | 1858–1917 | bergson | 学界通行汉译（社会学奠基人，柏格森同窗）；籍属/生卒联网查证：GND 规范标目 gnd 118528297（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Dury, John | — | 约翰·杜里 | 英国／神学 | 1596–1680 | descartes-works | 音译（苏格兰教育家，哈特利布通信圈）；籍属/生卒联网查证：GND 规范标目 gnd 11868129X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dussel, Enrique | — | 恩里克·杜塞尔 | 阿根廷/墨西哥 | 1934–2023 | habermas | 学界通行汉译（解放哲学与反殖民批评文献）；凭证 2026-11-12 | 2026-11-12 |
-| Dutton, Denis | — | 丹尼斯·达顿 | — | — | erotic-art | 学界通行（进化美学） | 2026-11-08 |
+| Dutton, Denis | — | 丹尼斯·达顿 | 新西兰／美国 | 1944–2010 | erotic-art | 学界通行（进化美学）；籍属/生卒联网查证：GND 规范标目 gnd 138949484（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dworkin, Gerald | — | 杰拉尔德·德沃金 | 英国／美国 | 1937–2013 | informed-consent | 音译（法哲学家，自主性理论；与 Ronald Dworkin 分立） | 2026-11-12 |
 | Dworkin, Ronald / Ronald Dworkin | — | 罗纳德·德沃金 | — | — | hegel-social-political；justice-healthcareaccess | 学界通行汉译；2026-11-13 重复行合并（旧键 `Ronald Dworkin`） | 2026-11-13 |
 | d’Entrèves, Alessandro Passerin | — | 亚历山德罗·帕塞林·登特列夫 | 意大利／法哲学家 | 1902–1985 | grotius | 学界通行汉译（《自然法》作者，中译本作“登特列夫”）；凭证 2026-11-12 | 2026-11-12 |
@@ -1184,32 +1184,32 @@
 | Eudoxus | Εὔδοξος | 欧多克索斯 | 希腊（尼多斯）／数学家、天文学家 | c. 408–355 BC | umar-khayyam | 数学史千年通行汉译（比例论与穷竭法） | 2026-11-14 |
 | 原文 | 别名 | 译法 | 籍属 | 生卒 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| E.P. Thompson | — | E.P. 汤普森 | — | — | law-ideology | 学界通行汉译（马克思主义史学家）；待 specs/008 审定库复核 | 2026-11-03 |
-| Eagleton, Terry | — | 特里·伊格尔顿 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
-| Eaton, Anne | — | 伊顿 | — | — | erotic-art | 学界惯例音译（女性主义美学家；本词条正文以姓行文） | 2026-11-08 |
+| E.P. Thompson | — | E.P. 汤普森 | 英国／史学 | 1924–1993 | law-ideology | 学界通行汉译（马克思主义史学家）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 119192519（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Eagleton, Terry | — | 特里·伊格尔顿 | 英国／文学理论 | 1943– | bloch | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118687395（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Eaton, Anne | — | 伊顿 | 美国／文学 | 1881–1971 | erotic-art | 学界惯例音译（女性主义美学家；本词条正文以姓行文）；籍属/生卒联网查证：GND 规范标目 gnd 1184512353（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Ebbinghaus, Hermann | — | 赫尔曼·艾宾浩斯 | 德国 | 1850–1909 | dilthey | 学界通行汉译（记忆与感觉阈限实验心理学家，曾撰长评驳狄尔泰描述心理学）；凭证 2026-11-11 | 2026-11-11 |
 | Eberhard, Johann August | — | 约翰·奥古斯特·埃伯哈德 | 德国／沃尔夫派 | 1739–1809 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Ecker-Ehrhardt, Matthias | — | 马蒂亚斯·埃克-埃尔哈特 | 德国 | — | global-democracy | 音译（国际组织合法性研究） | 2026-11-12 |
 | Eckert, J. Presper | — | 普雷斯珀·埃克特 | 美国 | 1919–1995 | computing-history | 学界通行汉译（ENIAC、UNIVAC 共同设计者）；凭证 2026-11-10 | 2026-11-09 |
-| Eckhard, Arnold | — | 阿诺德·埃克哈德 | — | — | evil-kinds-origins | 音译（莱布尼茨通信对象） | 2026-11-12 |
-| Eckhart, Meister | — | 艾克哈特大师 | — | — | albert-great | 学界通行汉译（德国神秘主义） | 2026-11-06 |
+| Eckhard, Arnold | — | 阿诺德·埃克哈德 | 德国／物理学 | d. 1685 | evil-kinds-origins | 音译（莱布尼茨通信对象）；籍属/生卒联网查证：GND 规范标目 gnd 12855424X（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Eckhart, Meister | — | 艾克哈特大师 | 德国／神学 | 1260–1328 | albert-great | 学界通行汉译（德国神秘主义）；籍属/生卒联网查证：GND 规范标目 gnd 118528823（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Edgar Bauer | — | 埃德加·鲍威尔 | — | — | bauer | 鲍威尔之弟，名+姓并称 | 2026-11-08 |
-| Edgar Salin | — | 埃德加·萨林 | — | — | landmann-kalischer | 学界通行汉译（经济学家，格奥尔格圈成员）；待 specs/008 审定库复核 | 2026-11-04 |
+| Edgar Salin | — | 埃德加·萨林 | 德国／瑞士／政治学 | 1892–1974 | landmann-kalischer | 学界通行汉译（经济学家，格奥尔格圈成员）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118750925（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Edgeworth, Francis Ysidro | — | 弗朗西斯·伊西德罗·埃奇沃思 | 爱尔兰／经济学家 | 1845–1926 | ramsey-economics | 学界通行汉译（埃奇沃思盒）；凭证 2026-11-11 | 2026-11-11 |
-| Edith Landmann-Kalischer | — | 伊迪丝·兰德曼-卡利舍尔 | — | — | landmann-kalischer | SUMMARY 定名沿用（20 世纪女哲学家，美学/价值论） | 2026-11-04 |
+| Edith Landmann-Kalischer | — | 伊迪丝·兰德曼-卡利舍尔 | 德国／瑞士 | 1877–1951 | landmann-kalischer | SUMMARY 定名沿用（20 世纪女哲学家，美学/价值论）；籍属/生卒联网查证：GND 规范标目 gnd 118569120（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Edith Stein | — | 艾迪特·施泰因 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Edmonds, Jack | — | 杰克·埃德蒙兹 | 加拿大 | 1934– | computability | 学界通行音译（多项式时间算法与最大匹配算法）；凭证 2026-11-10 | 2026-11-09 |
-| Eduard Bernstein | — | 爱德华·伯恩施坦 | — | — | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Eduard Bernstein | — | 爱德华·伯恩施坦 | 德国／政治 | 1850–1932 | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118509993（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Eduard Steuermann | — | 爱德华·施托伊尔曼 | 奥匈生，美国／钢琴家与作曲家 | 1892–1964 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Edward Stillingfleet | — | 爱德华·斯蒂林弗利特 | — | — | lady-masham | 学界通行汉译（伍斯特主教）；待 specs/008 审定库复核 | 2026-11-03 |
 | Edwards, Jonathan | — | 乔纳森·爱德华兹 | 美国 | 1703–1758 | SUMMARY 定名（e/edwards.md） | 学界通行汉译（美国哲学史通行；SUMMARY 定名沿用）；凭证 2026-11-10 | 2026-11-10 |
 | Eeden, Frederik van | — | 弗雷德里克·范埃登 | 荷兰 | 1860–1932 | brouwer | 音译（荷兰文人，《小约翰》作者；意义学小组成员）；凭证 2026-11-12 | 2026-11-12 |
 | Egan, Frances | — | 弗兰西斯·伊根 | — | — | idiolects | 音译（认知科学哲学，表征内容）；凭证 2026-11-11 | 2026-11-11 |
 | Ehrenfels, Christian von | — | 克里斯蒂安·冯·厄棱费尔 | 奥地利 | 1859–1932 | ehrenfels | 家法定名（SUMMARY/mu-lu-s 既有定形沿用）；布伦塔诺学派（格式塔质、价值论、性伦理）；凭证 2026-11-13 | 2026-11-13 |
-| Ehrenfried Walther von Tschirnhaus | — | 埃伦弗里德·瓦尔特·冯·契恩豪斯 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Ehrenfried Walther von Tschirnhaus | — | 埃伦弗里德·瓦尔特·冯·契恩豪斯 | 德国／数学 | 1651–1708 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 118624369（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Ehrhard, Thomas | — | Thomas Ehrhard | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Eichmann, Adolf | — | 阿道夫·艾希曼 | 德国／纳粹官员 | 1906–1962 | evil-kinds-origins | 学界通行（耶路撒冷审判被告） | 2026-11-12 |
-| Einstein, Albert | — | 爱因斯坦 | — | — | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Einstein, Albert | — | 爱因斯坦 | 德国／瑞士／物理学 | 1879–1955 | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118529579（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Eisler, Rudolf | — | 鲁道夫·艾斯勒 | 奥地利 | 1873–1926 | ehrenfels | 音译（《哲学家人名辞典》编者；与 Hanns Eisler 汉斯·艾斯勒异人）；凭证 2026-11-13 | 2026-11-13 |
 | Ekbohm, G. | — | Ekbohm | — | — | fitness | 无通行汉名，保留英文原名（瑞典种群生物学家）；凭证 2026-11-13 | 2026-11-13 |
 | Ekert, Artur | — | 阿图尔·埃克特 | 波兰／英国 | 1961– | qt-entangle | 学界通行汉译（量子密码学 E91 协议）；凭证 2026-11-09 | 2026-11-09 |
@@ -1219,7 +1219,7 @@
 | Elias | — | 埃利亚斯 | — | — | olympiodorus | 6 世纪亚历山大里亚注疏家（与 David 并称）；学界音译；凭证 2026-11-08 | 2026-11-08 |
 | Elihu | — | 以利户 | — | — | gersonides | 《约伯记》人物；和合本通行译名 | 2026-11-09 |
 | Eliot, George | — | 乔治·艾略特（本名玛丽·安·埃文斯） | 英国 | 1819–1880 | george-eliot | 学界通行汉译（小说家、译者）；凭证 2026-11-12 | 2026-11-12 |
-| Eliot, T.S. | — | T.S. 艾略特 | — | — | bergson | 学界通行汉译（诗人；法兰西公学院听众） | 2026-11-08 |
+| Eliot, T.S. | — | T.S. 艾略特 | 美国／英国／文学 | 1888–1965 | bergson | 学界通行汉译（诗人；法兰西公学院听众）；籍属/生卒联网查证：GND 规范标目 gnd 118529854（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Eliphaz the Temanite | אֱלִיפַז | 提幔人以利法 | — | — | evil-kinds-origins | 圣经通行汉译（《约伯记》） | 2026-11-12 |
 | Elisabeth, Princess of Bohemia | — | 普法尔茨的伊丽莎白公主 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Ellentuck, Erik | — | Erik Ellentuck | — | — | logic-infinitary | 无通行汉名，保留英文原名（逻辑学家）；凭证 2026-11-10 | 2026-11-09 |
