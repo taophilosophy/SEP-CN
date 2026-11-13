@@ -24,7 +24,7 @@ from tools import parser  # noqa: E402
 from tools.common import load_json, read_text, repo_path  # noqa: E402
 
 MATH_RE = re.compile(r'(\$\$.*?\$\$|\\\[.*?\\\]|\\\(.*?\\\))', re.S)
-PLACEHOLDER_RE = re.compile(r'\x00\d+\x00')
+PLACEHOLDER_RE = re.compile(r'\x00T?\d+\x00')
 BLOCK_MARKUP_RE = re.compile(r'</(?:p|li|dd|dt|div|h\d)>')
 
 

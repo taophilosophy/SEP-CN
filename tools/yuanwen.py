@@ -282,6 +282,9 @@ def inline_to_md(html, slug=None):
         ref = re.sub('^note-', '', m.group('ref'))
         return '[^note-%s]' % ref
     s = NOTE_REF_RE.sub(_noteref, s)
+    # 嵌套表占位（消毒后原样 HTML 透传，2026-11-14 裁定）：书目列表项等
+    # 行内语境嵌着真表时不得被标签剥壳丢弃；表格语境由 table_to_md 先行
+    s, tstore = _stash_inline_tables(s, slug)
     # 用户 2026-10-27 指令：禁止 HTML 标签，保持洁净——sub/sup 一律转纯文本；
     # 2026-10-28 裁定升级：有原生 Unicode 字形直接用原生字符，否则保持
     # 下标 _{x}、上标 ^{x} 记号（站点渲染层兜底），不再保留 <sub>/<sup> 标签
@@ -364,32 +367,83 @@ def inline_to_md(html, slug=None):
         elif v.startswith('\\[') and v.endswith('\\]'):
             v = '$$' + v[2:-2] + '$$'
         s = s.replace('\x00%d\x00' % idx, v)
+    for idx, val in enumerate(tstore):
+        # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
+        s = s.replace('\x00T%d\x00' % idx, val)
     return s
 
 
-NESTED_TABLE_RE = re.compile(r'<table[^>]*>.*?</table>', re.S | re.I)
+TABLE_OPEN_RE = re.compile(r'<table[\s>]', re.I)
 
 
-def _flatten_nested_tables(html, slug, depth=0):
-    """最内层优先，把嵌套表展平为单元格内文本（markdown 不支持嵌套表；
-    非贪婪的 td 匹配会被内层 </td> 截断导致外层单元格内容丢失）。"""
-    if depth > 4:
-        return html
-    while True:
-        best = None
-        for m in NESTED_TABLE_RE.finditer(html):
-            if '<table' not in m.group(0)[6:]:
-                best = m
-                break
-        if best is None:
-            return html
-        flat = table_to_md(best.group(0), slug, depth + 1).replace('\n', ' ')
-        html = html[:best.start()] + '（嵌套表：' + flat + '）' + html[best.end():]
+def _split_tables(html):
+    """按配平的 <table>…</table> 切分 → [(is_table, chunk)]。
+
+    非贪婪正则会被内层 </table> 截断，故逐个开标签走 _find_close 配平；
+    外层表已吞掉的内层开标签由 pos 守卫跳过。"""
+    segs = []
+    pos = 0
+    for m in TABLE_OPEN_RE.finditer(html):
+        if m.start() < pos:
+            continue
+        end = _find_close(html, 'table', m.end())
+        segs.append((False, html[pos:m.start()]))
+        segs.append((True, html[m.start():end]))
+        pos = end
+    tail = html[pos:]
+    if tail:
+        segs.append((False, tail))
+    return segs
 
 
-def table_to_md(inner, slug, depth=0):
-    if depth == 0:
-        inner = _flatten_nested_tables(inner, slug)
+def _sanitize_table_html(seg, slug):
+    r"""嵌套表消毒（2026-11-14 裁定：原样 HTML 透传，取代「（嵌套表：…）」
+    降级文本）。markdown 管道表的单元格容纳不了子表结构，降级即丢结构，
+    且中文注记与转义管道以原文形态混入英文镜像（020 移交缺陷 16 件/128 处，
+    实为公式盒布局表——分数横线、∑ 布局、推理规则盒）。站点对平衡的 table
+    标签白名单放行（.vitepress/math-plugin.mjs computeSafeTags），公式盒照
+    上游形态渲染；实体不解码、空白不归一（HTML 段不参与 markdown 处理）。
+    消毒四步：font 剥壳保内容（站点白名单无 font，残留会被转义成字面文本）；
+    \(\)/\[\] 定界符转 $/$$（与全库行内约定一致，lookbehind 防 \\( 误伤）；
+    裸文件名 <img> 重写为 ../assets/<slug>/（否则镜像页相对解析断链）；
+    | 全转 &#124; 实体——外层 md 表行按字面 | 切列，HTML 段内的公式竖线
+    必须屏蔽，实体由浏览器解码后 MathJax/文本所见与源一致。"""
+    seg = re.sub(r'</?font\b[^>]*>', '', seg, flags=re.I)
+    seg = re.sub(r'(?<!\\)\\\(', '$', seg)
+    seg = re.sub(r'(?<!\\)\\\)', '$', seg)
+    seg = re.sub(r'(?<!\\)\\\[', '$$', seg)
+    seg = re.sub(r'(?<!\\)\\\]', '$$', seg)
+    if slug:
+        seg = re.sub(r'(<img\b[^>]*\ssrc=")([A-Za-z0-9._%+-]+)(")',
+                     lambda m: '%s../assets/%s/%s%s' % (
+                         m.group(1), slug, m.group(2), m.group(3)),
+                     seg, flags=re.I)
+    return seg.replace('|', '&#124;')
+
+
+def _stash_inline_tables(s, slug):
+    """行内语境的嵌套表整体占位 → (新文本, [消毒后 HTML])。
+
+    表格语境的占位在 table_to_md 行解析前先行（防非贪婪 td 匹配截断）；
+    此处兜底其余行内语境（书目列表项、题注等）。无表时原串返回零改动。"""
+    tstore = []
+    parts = _split_tables(s)
+    if not any(t for t, _ in parts):
+        return s, tstore
+    chunks = []
+    for is_t, chunk in parts:
+        if is_t:
+            tstore.append(_sanitize_table_html(chunk, slug))
+            chunks.append('\x00T%d\x00' % (len(tstore) - 1))
+        else:
+            chunks.append(chunk)
+    return ''.join(chunks), tstore
+
+
+def table_to_md(inner, slug):
+    # 嵌套表先整体占位再做行/列解析，否则非贪婪 td 匹配被内层 </td> 截断，
+    # 外层单元格内容丢失（2026-10-28 复核缺陷；占位在行解析前完成）
+    inner, tstash = _stash_inline_tables(inner, slug)
     cap = ''
     cm = re.search(r'<caption[^>]*>(.*?)</caption>', inner, re.S | re.I)
     if cm:
@@ -410,6 +464,8 @@ def table_to_md(inner, slug, depth=0):
     out = ['| ' + ' | '.join(r) + ' |' for r in rows]
     out.insert(1, '|' + ' --- |' * width)
     table = '\n'.join(out)
+    for i, v in enumerate(tstash):
+        table = table.replace('\x00T%d\x00' % i, v)
     return ('*%s*\n\n' % cap + table) if cap else table
 
 
@@ -444,7 +500,25 @@ def list_to_md(inner, ordered, slug, indent=0):
                                            count=1, flags=re.I),
                                     sub_o, slug, indent + 2)
         marker = ('%d. ' % idx) if ordered else '- '
-        out.append(('%s%s%s' % (pad, marker, inline_to_md(it, slug))) + sub)
+        segs = _split_tables(it)
+        if not any(t for t, _ in segs):
+            out.append(('%s%s%s' % (pad, marker, inline_to_md(it, slug))) + sub)
+            continue
+        # 列表项内嵌真表（020 移交缺陷：logic-dialogical 等 10 件 41 表曾被
+        # 行内剥壳降为裸文本）：文本行 + 内容列缩进的 md 表 + 续文本行；
+        # 缩进对齐 CommonMark 列表项内容列（marker 宽度 + 基础缩进）
+        content_pad = ' ' * (indent + len(marker))
+        lines = []
+        for is_t, chunk in segs:
+            if is_t:
+                tbl = table_to_md(chunk, slug)
+                lines.append('')
+                lines.extend(content_pad + ln for ln in tbl.split('\n'))
+            else:
+                t = inline_to_md(chunk, slug)
+                if t:
+                    lines.append(content_pad + t if lines else pad + marker + t)
+        out.append('\n'.join(lines) + sub)
     return '\n'.join(out)
 
 
@@ -552,7 +626,19 @@ def render_blocks(blocks, ctx):
                     dtext = inline_to_md(dm.group(1), ctx.slug).strip()
                     ctx.emit('', '**%s**' % dtext if dtext and '*' not in dtext else dtext)
                 else:
-                    ctx.emit('', inline_to_md(dm.group(2), ctx.slug))
+                    # dd 内嵌真表（020 移交缺陷：situations-semantics 等 2 件
+                    # 7 表曾被行内剥壳）：文本段与表段按序完整转出
+                    segs = _split_tables(dm.group(2))
+                    if not any(t for t, _ in segs):
+                        ctx.emit('', inline_to_md(dm.group(2), ctx.slug))
+                        continue
+                    for is_t, chunk in segs:
+                        if is_t:
+                            ctx.emit('', table_to_md(chunk, ctx.slug))
+                        else:
+                            txt = inline_to_md(chunk, ctx.slug)
+                            if txt:
+                                ctx.emit('', txt)
         elif t == 'pre':
             code = unescape(re.sub(r'<[^>]+>', '', inner))
             ctx.emit('', '```\n%s\n```' % code.strip('\n'))

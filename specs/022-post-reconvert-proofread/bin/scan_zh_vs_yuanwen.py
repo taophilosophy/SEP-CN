@@ -32,9 +32,24 @@ CJK = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
 WORD = re.compile(r"[A-Za-z][A-Za-z'\u2019\-\u02BC]*")
 MARKER = re.compile(r'\[\^([^\]\s]+)\](?!:)')
 DEF = re.compile(r'^\[\^([^\]\s]+)\]:', re.M)
-H2 = re.compile(r'^## ', re.M)
+H2 = re.compile(r'^## .*$', re.M)
 
 TAIL_MISSING_CANDIDATES = ('参考文献', '学术工具', '其他网络资源', '相关词条')
+# 尾节/注释节识别（两侧同名异语；命中即跳过段配对，键集已全文比对）
+TAIL_PAT = re.compile(
+    r'^(参考文献|References|Bibliography|Notes and References|学术工具|Academic Tools?|'
+    r'其他网络资源|Other Internet Resources|相关词条|Related Entries|脚注|Notes|'
+    r'Primary Literature|Secondary Literature|Acknowledg)', re.I)
+TAIL_PATTERNS = (
+    re.compile(r'^##\s*(参考文献|References|Bibliography)', re.I),
+    re.compile(r'^##\s*(学术工具|Academic Tools?)', re.I),
+    re.compile(r'^##\s*(其他网络资源|Other Internet Resources)', re.I),
+    re.compile(r'^##\s*(相关词条|Related Entries)', re.I),
+)
+TAIL_TITLE_PAT = re.compile(
+    r'(参考文献|References|Bibliography|学术工具|Academic Tools|其他网络资源|'
+    r'Other Internet Resources|相关词条|Related Entries|脚注|Notes|Literature|'
+    r'Acknowledg|Supplementary|延伸阅读|Further reading)', re.I)
 
 
 def read(p):
@@ -92,6 +107,7 @@ def sections_of(text):
     return secs
 
 
+
 def is_stub(zh):
     return len([ln for ln in zh.split('\n') if ln.strip()]) <= 10
 
@@ -109,8 +125,6 @@ def scan_entry(letter, slug, calib=False):
         return rec
     zh = read(zh_p)
     rec['kind'] = 'supplement' if '.supplement' in slug else ('stub' if is_stub(zh) else 'entry')
-    if rec['kind'] in ('stub',) or slug.endswith('.supplement') is False and False:
-        pass
     if rec['kind'] == 'stub':
         return rec
     if not os.path.exists(yw_p):
@@ -132,10 +146,12 @@ def scan_entry(letter, slug, calib=False):
                    'only_zh': sorted(d_zh - d_yw)[:12], 'only_yw': sorted(d_yw - d_zh)[:12],
                    'n_only_zh': len(d_zh - d_yw), 'n_only_yw': len(d_yw - d_zh)}
 
-    # ---- 尾节四件套 ----
+    # ---- 尾节四件套（双形态标题） ----
     if not slug.endswith('.supplement'):
-        rec['tail_missing'] = [t for t in TAIL_MISSING_CANDIDATES
-                               if ('## ' + t) not in zh]
+        h2s = [m.group(0) for m in re.finditer(r'^## .*$', zh, re.M)]
+        rec['tail_missing'] = [
+            t for t, pat in zip(TAIL_MISSING_CANDIDATES, TAIL_PATTERNS)
+            if not any(pat.search(h) for h in h2s)]
     else:
         rec['tail_missing'] = []
 
@@ -143,53 +159,88 @@ def scan_entry(letter, slug, calib=False):
     sz, sy = sections_of(zh), sections_of(yw)
     rec['sections_zh'] = len(sz)
     rec['sections_yw'] = len(sy)
-    if len(sz) != len(sy):
-        rec['section_count_diff'] = {'zh': [t for t, _ in sz], 'yw': [t for t, _ in sy]}
-    pairs = list(zip(sz, sy)) if not calib else list(zip(sz, sy))
+    # 节差只对正文节计（尾节形态差异合法：原生脚注型 zh 多 ## 脚注；引用注释型双语同构）
+    body_z = [t for t, _ in sz if not TAIL_TITLE_PAT.search(t or '')]
+    body_y = [t for t, _ in sy if not TAIL_TITLE_PAT.search(t or '')]
+    rec['body_sections'] = {'zh': len(body_z), 'yw': len(body_y)}
+    if len(body_z) != len(body_y):
+        rec['section_count_diff'] = {'zh': body_z, 'yw': body_y}
     mm, untranslated, ratio_flags = [], [], []
-    for si, ((zt, zb), (yt, yb)) in enumerate(pairs):
-        # 脚注/Notes 与参考文献类节：只比键集（上面全文已比），段落不配对
-        tl = zt or ''
-        if any(k in tl for k in ('脚注', '参考文献', '学术工具', '其他网络资源', '相关词条')) \
-                or any(k in (yt or '') for k in ('Notes', 'Literature', 'Academic', 'Internet', 'Related')):
+    unpaired_yw, unpaired_zh = [], []
+    import difflib
+    for si, ((zt, zb), (yt, yb)) in enumerate(zip(sz, sy)):
+        # 尾节/注释节（双形态标题）：只比键集（全文已比），段落不配对
+        if TAIL_TITLE_PAT.search(zt or '') or TAIL_TITLE_PAT.search(yt or ''):
             continue
         bz, by = blocks_of(zb), blocks_of(yb)
-        # 首节（导言）：剥 H1 与 pubinfo（前两块），yw 的 byline 短拉丁块跳过
-        if si == 0 or (zt == '' and yt == ''):
-            if bz and bz[0][0] == '#':
+        # 导言节（## 前）：剥 H1/pubinfo/byline 元块，其余按位配对
+        if zt == '' and yt == '':
+            def is_meta(ty, bt):
+                if ty == '#' or bt.startswith('#'):
+                    return True
+                if '首次发表于' in bt or 'First published' in bt:
+                    return True
+                if re.fullmatch(r'\*[^*]+\*', bt.strip()):
+                    return True  # byline（斜体作者行）
+                return False
+            while bz and is_meta(*bz[0]):
                 bz = bz[1:]
-            if by and by[0][0] == '#':
+            while by and is_meta(*by[0]):
                 by = by[1:]
-            if bz and bz[0][0] == 'plain' and '首次发表于' in bz[0][1]:
-                bz = bz[1:]
-            if by and by[0][0] == 'plain' and 'First published' in by[0][1]:
-                by = by[1:]
-            if by and by[0][0] == 'plain' and len(WORD.findall(by[0][1])) <= 12 \
-                    and not CJK.search(by[0][1]) and '*' in by[0][1]:
-                by = by[1:]  # byline 省略豁免
-        n = max(len(bz), len(by))
-        for i in range(n):
-            tz = bz[i][0] if i < len(bz) else None
-            ty = by[i][0] if i < len(by) else None
-            zt_ = bz[i][1] if i < len(bz) else ''
-            yt_ = by[i][1] if i < len(by) else ''
-            if tz != ty:
-                mm.append({'sec': si, 'yw_i': i, 'type_yw': ty, 'type_zh': tz,
-                           'yw_head': yt_[:50], 'zh_head': zt_[:50]})
-                continue
-            if ty == 'plain':
-                if not CJK.search(zt_):
-                    untranslated.append(yt_[:60])
-                    continue
-                words = len(WORD.findall(yt_))
-                if words >= 15:
-                    ratio = len(zt_) / float(words)
-                    if not (1.1 <= ratio <= 3.4):
-                        ratio_flags.append({'sec': si, 'i': i, 'ratio': round(ratio, 2),
-                                            'zh_head': zt_[:60], 'yw_head': yt_[:60]})
-    rec['para_mismatch'] = mm[:20]
+        # 节内 difflib 块型序列对齐（容插删），只对齐对做比率探针
+        tz_seq = [t for t, _ in bz]
+        ty_seq = [t for t, _ in by]
+        sm = difflib.SequenceMatcher(None, ty_seq, tz_seq, autojunk=False)
+        for tag, i1, i2, j1, j2 in sm.get_opcodes():
+            if tag == 'equal':
+                for k in range(i2 - i1):
+                    ty_, yt_ = by[i1 + k]
+                    tz_, zt_ = bz[j1 + k]
+                    if ty_ != 'plain':
+                        continue
+                    if not CJK.search(zt_):
+                        untranslated.append({'sec': si, 'yw': yt_[:70]})
+                        continue
+                    words = len(WORD.findall(yt_))
+                    if words >= 15:
+                        ratio = len(zt_) / float(words)
+                        if not (0.7 <= ratio <= 4.5):
+                            ratio_flags.append({'sec': si, 'ratio': round(ratio, 2),
+                                                'zh_head': zt_[:60], 'yw_head': yt_[:60]})
+            elif tag == 'replace':
+                for k in range(max(i2 - i1, j2 - j1)):
+                    ty_ = by[i1 + k][0] if i1 + k < i2 else None
+                    tz_ = bz[j1 + k][0] if j1 + k < j2 else None
+                    yt_ = by[i1 + k][1] if i1 + k < i2 else ''
+                    zt_ = bz[j1 + k][1] if j1 + k < j2 else ''
+                    if ty_ == 'plain' and tz_ == 'plain':
+                        if not CJK.search(zt_):
+                            untranslated.append({'sec': si, 'yw': yt_[:70]})
+                        else:
+                            words = len(WORD.findall(yt_))
+                            if words >= 15:
+                                ratio = len(zt_) / float(words)
+                                if not (0.7 <= ratio <= 4.5):
+                                    ratio_flags.append({'sec': si, 'ratio': round(ratio, 2),
+                                                        'zh_head': zt_[:60], 'yw_head': yt_[:60]})
+                    elif ty_ == 'plain' and tz_ is None:
+                        mm.append({'sec': si, 'kind': 'yw_only', 'type': ty_, 'head': yt_[:60]})
+                    elif tz_ == 'plain' and ty_ is None:
+                        mm.append({'sec': si, 'kind': 'zh_only', 'type': tz_, 'head': zt_[:60]})
+                    else:
+                        mm.append({'sec': si, 'kind': 'type', 'type_yw': ty_, 'type_zh': tz_,
+                                   'yw_head': yt_[:50], 'zh_head': zt_[:50]})
+            elif tag == 'delete':
+                for k in range(i1, i2):
+                    mm.append({'sec': si, 'kind': 'yw_only', 'type': by[k][0],
+                               'head': by[k][1][:60]})
+            elif tag == 'insert':
+                for k in range(j1, j2):
+                    mm.append({'sec': si, 'kind': 'zh_only', 'type': bz[k][0],
+                               'head': bz[k][1][:60]})
+    rec['para_mismatch'] = mm[:24]
     rec['n_para_mismatch'] = len(mm)
-    rec['untranslated'] = untranslated[:10]
+    rec['untranslated'] = [u['yw'] for u in untranslated[:8]]
     rec['n_untranslated'] = len(untranslated)
     rec['ratio_flags'] = ratio_flags[:20]
     rec['n_ratio_flags'] = len(ratio_flags)
@@ -236,8 +287,25 @@ def main(argv):
         except Exception as e:  # noqa
             rec = {'slug': slug, 'letter': letter, 'skip': 'error: %s' % e}
         recs.append(rec)
-        if calib:
-            print(json.dumps(rec, ensure_ascii=False, indent=1)[:3000])
+    if calib:
+        for o in recs:
+            flags = []
+            for k in ('n_para_mismatch', 'n_untranslated', 'n_ratio_flags'):
+                if o.get(k):
+                    flags.append('%s=%d' % (k[2:], o[k]))
+            m = o.get('markers') or {}
+            if m.get('n_only_yw') or m.get('n_only_zh'):
+                flags.append('mk(+%d/-%d)' % (m.get('n_only_yw', 0), m.get('n_only_zh', 0)))
+            d = o.get('defs') or {}
+            if d.get('n_only_yw') or d.get('n_only_zh'):
+                flags.append('defs(+%d/-%d)' % (d.get('n_only_yw', 0), d.get('n_only_zh', 0)))
+            if o.get('tail_missing'):
+                flags.append('tail:%s' % '|'.join(o['tail_missing']))
+            if o.get('section_count_diff'):
+                flags.append('SECS:%d/%d' % (o['sections_zh'], o['sections_yw']))
+            if o.get('skip'):
+                flags.append('SKIP:%s' % o['skip'])
+            print('%-22s %s' % (o.get('slug', '?'), ' '.join(flags) or 'CLEAN'))
     if not calib:
         out = out or os.path.join(ROOT, 'specs', '022-post-reconvert-proofread', 'results',
                                   'scan-latest.jsonl')
