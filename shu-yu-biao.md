@@ -329,7 +329,7 @@
 | anuśaya | अनुशय | 随眠 | yogacara 首译 | 汉传阿毗达磨与唯识学通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》anu-śaya 条（p. 39 col. 2，Cologne 词条页（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | anvaya | अन्वय | 同有 | early-modern-india | 因明“同品有”通行（agreement in presence；与 vyatireka 同无对举）；凭证 2026-11-10 | 2026-11-10 |
 | anvaya-vyatirekin | अन्वयव्यतिरेकिन् | 同有同无（推理） | early-modern-india | 印度逻辑三分推理之一（positive-and-negative）；凭证 2026-11-11 | 2026-11-11 |
-| anyāpoha（gzhan sel） | — | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| anyāpoha（gzhan sel） | གཞན་སེལ་ | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | anyatarābhāva | अन्यतराभाव | 任一皆无（任一非存在） | early-modern-india | 否定语义译（absence of either A or B）；凭证 2026-11-10；正文作“任一皆无”（校 2026-11-11）| 2026-11-10 |
 | anyathākhyāti | अन्यथाख्याति | 错置他相 | early-modern-india 首译 | 印度哲学史通行义译（错误论“误认作他物”说）；凭证 2026-11-10 | 2026-11-10 |
 | anyonyābhāva | अन्योन्याभाव | 互无（别异非存在） | early-modern-india | 胜论四种非存在义译（difference；相互否定）；凭证 2026-11-10 | 2026-11-10 |
@@ -1950,7 +1950,7 @@
 | --- | --- | --- | --- | --- | --- |
 | facet | — | 层面（人格子维度） | justice-moral-psych | 人格心理学层级模型通行译法（Costa & McCrae 1995）；凭证 2026-11-10 | 2026-11-10 |
 | factive | — | 事实性的 | aesthetic-testimony | 知识论通行（factive 态度/动词成真；Hills 2022 语境） | 2026-11-11 |
-| factive assessment（yid dpyod） | — | 伺察识（yid dpyod） | epistemology-language-tibetan | 藏传量论通行+英译对齐 | 2026-11-04 |
+| factive assessment（yid dpyod） | ཡིད་དཔྱོད་ | 伺察识（yid dpyod） | epistemology-language-tibetan | 藏传量论通行+英译对齐；原文列联网查证：Monlam 藏英词典 yid dpyod 条（“correct assumption; correctly a（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | factorization | — | 因式分解 | qt-entangle | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | factory council | — | 工厂委员会 | gramsci | 葛兰西工厂国家理论术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | faculty | — | 官能 | conscience 首译；亦见 grotius（格劳秀斯 ius 即 facultas，2026-11-12 并入） | 学界通行（faculty psychology 官能心理学）；凭证 2026-11-08 | 2026-11-08 |
@@ -2200,7 +2200,7 @@
 | generalized quantification | — | 广义量化 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | generalized quantifier | — | 广义量词 | lvov-warsaw；tarski-truth | 逻辑学通行（generalised quantifier）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | generic sentence | — | 类属句 | logic-massexpress | 语义学通行译法；凭证 2026-11-10 | 2026-11-09 |
-| generic word / generic object（sgra spyi / don spyi） | — | 声总／义共相 | epistemology-language-tibetan | 量论通行 | 2026-11-04 |
+| generic word / generic object（sgra spyi / don spyi） | དོན་སྤྱི་ | 声总／义共相 | epistemology-language-tibetan | 量论通行；原文列联网查证：Monlam 藏英词典 don spyi 条（“meaning generality; generic imag（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | generosity game | — | 慷慨博弈 | justice-moral-psych | Zhao 等 2016 实验范式名；凭证 2026-11-10 | 2026-11-10 |
 | Genesis | — | 《创世记》 | marsilius-padua | 圣经通行汉译（和合本）；凭证 2026-11-08 | 2026-11-08 |
 | genetic code | — | 遗传密码 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
@@ -2762,7 +2762,7 @@
 | intentional action | — | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | intentional agency | — | 意向性能动性 | innateness-cognition | 首译（Tomasello 2022）；凭证 2026-11-12 | 2026-11-12 |
 | intentional inexistence | — | 意向内的存在（布伦塔诺） | 语料回收（标题词） | 学界惯例（布伦塔诺现象学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| intentional object / conceived object（zhen yul） | — | 意向境（zhen yul，亦作"所执境"） | epistemology-language-tibetan | 量论通译+英译对齐（intentional object） | 2026-11-04 |
+| intentional object / conceived object（zhen yul） | ཞེན་ཡུལ་ | 意向境（zhen yul，亦作"所执境"） | epistemology-language-tibetan | 量论通译+英译对齐（intentional object）；原文列联网查证：Monlam 藏英词典 zhen yul 条（“conceived object; referent objec（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | intentional species | — | 意向种相 | henricus-regius | 学界通行（与 species 种相行配套，中世纪知觉论）；凭证 2026-11-08 | 2026-11-08 |
 | intentional states | — | 意向状态 | 语料回收 | 审定名词库（termonline-all·intentional state 单数形在案，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | intentionality | — | 意向性 | intentionality-ancient | 学界通行（布伦塔诺—胡塞尔术语；心灵的指向性） | 2026-11-07 |
@@ -3430,7 +3430,7 @@
 | Mirror of Production | — | 生产之镜 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Mishneh Torah | — | 《重述托拉》 | crescas | 学界通行（迈蒙尼德律法巨著）；凭证 2026-11-08 | 2026-11-08 |
 | mismatch | — | 失配 | cancer | 学界通行（演化医学，evolutionary mismatch）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| mistaken cognition（log shes） | — | 颠倒识（log shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
+| mistaken cognition（log shes） | ལོག་ཤེས་ | 颠倒识（log shes） | epistemology-language-tibetan | 藏传量论通行；原文列联网查证：Monlam 藏英词典 log shes 条（“a knower which is mistaken with （2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | Mitleid | — | 共受苦 | dilthey 首译 | 狄尔泰伦理学术语（同情、怜悯与恻隐的总名，德语字面即“同受苦”）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | mitzvot | — | 诫命 | albo-joseph 首译 | 犹太研究通行（单数 mitzvah） | 2026-11-07 |
 | mixed mathematics | — | 混合数学 | hobbes-science 首译 | 学界通行（mathematicae mixtae；与册内 scientiae mediae 中间科学分列）；凭证 2026-11-11 | 2026-11-11 |
@@ -4277,7 +4277,7 @@
 | post rem universals | — | 后于事物的共相 | 首现（porphyry） | 中世纪共相学说通行（post rem 与 ante rem／in re 对举）；凭证 2026-11-11 | 2026-11-11 |
 | post-colonial theory | — | 后殖民理论 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
 | post-critical period | — | 后批判时期 | kant-development | 康德研究通行分期；凭证 2026-11-11 | 2026-11-11 |
-| post-knowledge cognition（bcad shes） | — | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
+| post-knowledge cognition（bcad shes） | བཅད་ཤེས་ | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行；原文列联网查证：Monlam 藏英词典 bcad shes 条（“subsequent cognizer”，含 mngon su（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
 | Post-Newtonian | — | 后牛顿 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Posterior Analytics | — | 《后分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | postgenomic | — | 后基因组的 | genetics | 基因组学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
