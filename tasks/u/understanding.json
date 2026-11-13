@@ -1,0 +1,22 @@
+{
+  "slug": "understanding",
+  "kind": "retranslate",
+  "zh_doc": "u/understanding.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-13T19:10:16Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-13T19:10:15Z",
+  "version_pin": {
+    "pubinfo_date": "May 6, 2021",
+    "archive_edition": "Winter 2025",
+    "sha256": "e0e306d5a087b2b84033a5701fc2fb87c335d66b2e0fbd6052d03f1e6ffb4bff"
+  }
+}
