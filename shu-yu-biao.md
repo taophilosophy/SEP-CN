@@ -34,7 +34,7 @@
 | abhāva（胜论句义） | अभाव | 非存在（无） | early-modern-india 首译 | 胜论第七句义义译（玄奘句义通例；与 jayaraasi abhāva=无体量〔因明否定证义〕同键多义分工）；凭证 2026-11-10 | 2026-11-10 |
 | Abhidhamma | अभिधम्म | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Abhidharma | अभिधर्म | 阿毗达磨 | gorampa | 佛教论藏通行译名；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
-| Abhidharmakośa | — | 《阿毗达磨俱舍论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Abhidharmakośa | अभिधर्मकोश | 《阿毗达磨俱舍论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 11503（p. 63,2），csl-devanagari（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Abhidharmakośabhāṣya | — | 《阿毗达磨俱舍论》 | srigupta | 汉文古译（玄奘译《俱舍论》即此释论体；世亲造） | 2026-11-13 |
 | Abhidharmamahāvibhāṣā | — | 《大毗婆沙论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Abhidharmasamuccaya | — | 《大乘阿毗达磨集论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
@@ -204,7 +204,7 @@
 | al-uṣūl al-mawḍūʿa | — | 假设（hypotheses；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（hypothesis 对译） | 2026-11-08 |
 | al-uṣūl al-mutaʿārafa | — | 共同概念／公理（common notions/axioms；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（common notion 对译） | 2026-11-08 |
 | ālambana | आलम्बन | 所缘 | yogacara 首译 | 玄奘译“所缘”（《观所缘缘论》）（源页未给天城体配对）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ā-lambana 条（p. 153 col. 2，Cologne 词（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
-| Ālambanaparīkṣā | — | 《观所缘缘论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Ālambanaparīkṣā | आलम्बनपरीक्षा | 《观所缘缘论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 26745（p. 153,2），csl-devanagar（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | ālayavijñāna | आलयविज्ञान | 阿赖耶识 | yogacara 首译 | 汉传唯识学千年通行译名（玄奘译）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》ālaya-vijñāna 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | alethic properties | — | 真势属性 | reinach | 学界惯例（模态逻辑通行）；凭证 2026-11-09 | 2026-11-09 |
 | Alexandrists | — | 亚历山大派 | gomez-pereira | 学界通行（亚历山大派亚里士多德主义者）；凭证 2026-11-12 | 2026-11-12 |
@@ -408,7 +408,7 @@
 | aspect（rnam pa） | — | 行相（aspect） | epistemology-language-tibetan | 量论通行（rnam pa/ākāra=行相） | 2026-11-04 |
 | āsrava | आस्रव | 流入 | jaina-philosophy | 耆那教学界通行（业质流入；亦作“漏入”） | 2026-11-08 |
 | āśraya | आश्रय | 所依 | yogacara 首译 | 汉传唯识学通行（玄奘译“所依”）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》āśraya 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |
-| āśrayāsiddha | — | 所依不成 | srigupta | 汉传因明传统译名（似因过失之一） | 2026-11-13 |
+| āśrayāsiddha | आश्रयासिद्ध | 所依不成 | srigupta | 汉传因明传统译名（似因过失之一）；原文列联网查证：Monier-Williams《梵英辞典》 lnum 27673（p. 158,3），csl-devanagar（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | assertoric | — | 直言的 | 首现（william-sherwood） | 学界通行（与 modal 相对的断定语句）；凭证 2026-11-07 | 2026-11-07 |
 | assertoric force | — | 断言之力 | dynamic-semantics | 言语行为理论惯例（assertoric 断言的）；凭证 2026-11-12 | 2026-11-12 |
 | assignment | — | 指派 | tarski-truth | 模型论通行（对象对变元的指派）；亦作“赋值” | 2026-11-09 |
@@ -517,7 +517,7 @@
 | Baihutong | 白虎通 | 《白虎通》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Baihutong Delun | 白虎通德論 | 《白虎通德论》 | han-dynasty | 学界通行学名（全书名） | 2026-11-10 |
 | Baire space | — | 贝尔空间 | 首现（intuitionism） | 拓扑学通行译名；凭证 2026-11-10 | 2026-11-10 |
-| Bāla-gādādharī | — | 《童蒙迦达陀罗》 | early-modern-india | 源文自注“Beginners Guide to Gadādhara”义译（昵称书名）；凭证 2026-11-10 | 2026-11-10 |
+| Bāla-gādādharī | बालगादाधरी | 《童蒙迦达陀罗》 | early-modern-india | 源文自注“Beginners Guide to Gadādhara”义译（昵称书名）；凭证 2026-11-10；原文列联网查证：Monier-Williams《梵英辞典》 lnum 144526（p. 728,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | balance of evidence | — | 证据平衡 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行）；凭证 2026-11-08 | 2026-11-08 |
 | balance of nature | — | 自然平衡 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | balanced polymorphism | — | 平衡多态性 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
@@ -642,7 +642,7 @@
 | Bodenständigkeit | Bodenständigkeit | 扎根性 | yorck 首译 | 学界通行（海德格尔研究 Bodenständigkeit 扎根性；本册定“扎根性”一形）；凭证 2026-11-11 | 2026-11-11 |
 | bodhi | — | 菩提（觉） | yogacara 首译 | 汉传佛典千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Bodhisattva | बोधिसत्त्व | 菩萨 | yogacara 首译 | 汉传佛典千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》bodhi-sattva 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
-| Bodhisattvabhūmi | — | 《菩萨地》 | yogacara 首译 | 汉文古译（玄奘译《瑜伽师地论》一分）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Bodhisattvabhūmi | बोधिसत्त्वभूमि | 《菩萨地》 | yogacara 首译 | 汉文古译（玄奘译《瑜伽师地论》一分）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 145903.3（p. 734,3），csl-devana（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | bodily awareness | — | 身体意识 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | bodily experience | — | 身体经验 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | bodily integrity | — | 身体完整性 | organ-donation | 学界惯例（法学与生命伦理学通行；凭证 2026-11-06） | 2026-11-06 |
@@ -3210,8 +3210,8 @@
 | machine model | — | 机器模型 | la-forge | 笛卡儿研究通行（人体机器模型）；凭证 2026-11-09 | 2026-11-09 |
 | macrocosm | — | 大宇宙 | natphil-ren | 学界通行（与册内 microcosm 小宇宙对举）；凭证 2026-11-10 | 2026-11-10 |
 | madhyamaka | मध्यमक | 中观（亦作“中观派”） | gelukpa（yogacara 同条） | 佛学界通行译名；与权威哲学史译本一致；亦作记“中观派/中观学”随文并用形；凭证 2026-11-11；2026-11-13 合并 Madhyamaka/madhyamaka 同键异形两行 | 2026-11-13 |
-| Madhyamakālaṃkāra | — | 《中观庄严论》 | yogacara 首译 | 汉文古译（寂护造）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Madhyamakāloka | — | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Madhyamakālaṃkāra | मध्यमकालंकार | 《中观庄严论》 | yogacara 首译 | 汉文古译（寂护造）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 156566（p. 782,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
+| Madhyamakāloka | मध्यमकालोक | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 156567（p. 782,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Madhyamakāvatāra | — | 《入中论》 | gorampa | 月称入中观论书通行译名 | 2026-11-09 |
 | Madhyāntavibhāga | — | 《辩中边论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | magic | — | 魔法 | gianfrancesco-pico | 与 witchcraft 巫术分立（源文 magic 指仪式性法术实践） | 2026-11-09 |
@@ -3221,7 +3221,7 @@
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Mahāvairocana | महावैरोचन | 大毗卢遮那（大日如来） | kukai | 佛学界传统译名（真言宗称大日）；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
 | Mahāyāna | महायान | 大乘 | yogacara 首译 | 汉传佛典千年通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》mahā-yāna 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
-| Mahāyānasaṃgraha | — | 《摄大乘论》 | yogacara 首译 | 汉文古译（真谛、玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Mahāyānasaṃgraha | महायानसंग्रह | 《摄大乘论》 | yogacara 首译 | 汉文古译（真谛、玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 160508.1（p. 799,2），csl-devana（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Mahāyānasūtrālaṃkāra | — | 《大乘庄严经论》 | yogacara 首译 | 汉文古译（波罗颇蜜多罗译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | maieutic reflection | — | 助产式反思 | reflective-equilibrium | 学界惯例（Schroeter 2004 术语；苏格拉底助产术）；凭证 2026-11-11 | 2026-11-11 |
 | major premise | — | 大前提 | logical-consequence | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -3827,8 +3827,8 @@
 | Nyāya | न्याय | 正理派 | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-sūtra | न्यायसूत्र | 《逻辑经》 | early-modern-india | 本库家法（jaina-philosophy 先例；简称 NS 沿用）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-Vaiśeṣika | Nyāya-Vaiśeṣika | 正理-胜论派 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
-| Nyāyabindu | — | 《正理滴论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Nyāyasiddhāntamañjarī | — | 《宗义摩尼鬘》 | early-modern-india | Janakīnātha 著作（正文与 TS 等并列）；凭证 2026-11-11 | 2026-11-11 |
+| Nyāyabindu | न्यायबिन्दु | 《正理滴论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 112875（p. 572,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
+| Nyāyasiddhāntamañjarī | न्यायसिद्धान्तमञ्जरी | 《宗义摩尼鬘》 | early-modern-india | Janakīnātha 著作（正文与 TS 等并列）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 112930.25（p. 572,3），csl-devan（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 
 ## O
 
@@ -3999,7 +3999,7 @@
 | pakṣaṭā | पक्षता | 宗未决性 | early-modern-india | 新正理通行义译（推理者尚未知结论之条件；与宗法性分立）；凭证 2026-11-10 | 2026-11-10 |
 | palatine count | — | 宫廷伯爵（palatine count） | zabarella | 学界惯例（神圣罗马帝国头衔 comes palatinus 通译宫廷伯爵）；凭证 2026-11-09 | 2026-11-09 |
 | palliative care | — | 姑息治疗 | euthanasia-voluntary 首译 | 学界通行汉译（世界卫生组织中文文献） | 2026-11-11 |
-| Pañcaskandhaka | — | 《大乘五蕴论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Pañcaskandhaka | पञ्चस्कन्धक | 《大乘五蕴论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 113999（p. 577,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | panentheism | — | 万有在神论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | panhellenism | — | 泛希腊主义 | 首译（cosmopolitanism） | 学界通行（希腊史）；凭证 2026-11-09 | 2026-11-09 |
 | panpsychism | — | 泛心论 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -4318,12 +4318,12 @@
 | pragmatism | — | 实用主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Pragmatist | — | 实用主义者 | 语料回收（词汇表并网） | 名词指人；形容词“实用主义的”；词汇表并网（ADR-0036） | 2026-11-13 |
 | Prajñāpāramitā | प्रज्ञापारमिता | 《般若波罗蜜多经》 | yogacara 首译 | 汉文古译（般若经类通称）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》prajñā-pāramitā 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
-| Prajñāpradīpa | — | 《般若灯论》 | srigupta | 汉文古译（波罗颇蜜多罗译，清辨造） | 2026-11-13 |
+| Prajñāpradīpa | प्रज्ञाप्रदीप | 《般若灯论》 | srigupta | 汉文古译（波罗颇蜜多罗译，清辨造）；原文列联网查证：Edgerton《佛教混合梵语辞典》 lnum 9902（p. 359,1），csl-devanagari 官方（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | prajñapti | प्रज्ञप्ति | 假立（施设） | yogacara 首译 | 汉传佛典通行（假名／施设）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》prajñapti 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |
 | prakāra | प्रकार | 能别（特征） | early-modern-india | 新正理知觉论（qualifier；与 viśeṣaṇa 互用）；凭证 2026-11-11 | 2026-11-11 |
 | pramā | प्रमा | 真认知（正智） | early-modern-india | 因明“正智/量果”通行（true cognition；与 pramāṇa 量对举）；凭证 2026-11-10；正文作“真认知”，因明旧译“正智”备查（校 2026-11-11）| 2026-11-10 |
 | pramāṇa | प्रमाण | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
-| Pramāṇasamuccaya | — | 《集量论》 | yogacara 首译 | 汉文古译（法尊译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Pramāṇasamuccaya | प्रमाणसमुच्चय | 《集量论》 | yogacara 首译 | 汉文古译（法尊译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 135856（p. 686,1），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | pramāṇavāda | — | 量论 | yogacara 首译 | 学界通行（陈那—法称量论传统）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Pramāṇavārttika | प्रमाणवार्त्तिक | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | Pramāṇavārttikālaṃkāra | — | 《释量论庄严》 | srigupta | 因明研究通行（Prajñākaragupta 造） | 2026-11-13 |
@@ -4336,7 +4336,7 @@
 | pratyakṣa | प्रत्यक्ष | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | pratyakṣa（感官知觉义） | प्रत्यक्ष | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
 | pratyāsatti | प्रत्यासत्ति | 连接 | early-modern-india | 现量论义译（超常感知之连接方式；与 sannikarṣa 分工）；凭证 2026-11-10 | 2026-11-10 |
-| pravṛttivijñāna | — | 转识 | yogacara 首译 | 玄奘译“转识”（现行识）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| pravṛttivijñāna | प्रवृत्तिविज्ञान | 转识 | yogacara 首译 | 玄奘译“转识”（现行识）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 137320（p. 694,1），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | praxis / theôria / lexis | πρᾶξις / θεωρία / λέξις | 讲授次第／要义通观／文辞疏解（首现各括注原文） | olympiodorus | 亚历山大里亚注疏体三分的描述性译法（术语学界无统一汉译，Viano/Tarrant 英译作 class/overview/close reading）；凭证 2026-11-08 | 2026-11-08 |
 | pre-critical period | — | 前批判时期 | kant-development | 康德研究通行分期；凭证 2026-11-11 | 2026-11-11 |
 | predicative comprehension | — | 直谓概括 | axiom-choice | 学界通行（构造性数学；2026-11-13 册内归一取直谓系：predicative 直谓的、predicativity 直谓性已先行裁定） | 2026-11-13 |
@@ -4967,7 +4967,7 @@
 | samyak carita | सम्यक् चरित | 正行 | jaina-philosophy | 耆那教三宝（正见／正智／正行）通行译法 | 2026-11-08 |
 | saṃyoga | संयोग | 连合 | early-modern-india | 胜论性质/关系通行义译（conjunction；亦作“合”）；凭证 2026-11-10 | 2026-11-10 |
 | saṃyukta-samavāya | संयुक्तसमवाय | 连合者中的和合（连合中之和合） | early-modern-india | 正理六种感官连接义译（inherence-in-the-conjoined）；凭证 2026-11-10；六种感官连接之二（校 2026-11-11）| 2026-11-10 |
-| saṃyukta-samaveta-samavāya | — | 连合者中和合者中的和合 | early-modern-india | 同上系列（inherence-in-the-inherent-in-the-conjoined）；凭证 2026-11-10；六种感官连接之三（校 2026-11-11）| 2026-11-10 |
+| saṃyukta-samaveta-samavāya | संयुक्तसमवेतसमवाय | 连合者中和合者中的和合 | early-modern-india | 同上系列（inherence-in-the-inherent-in-the-conjoined）；凭证 2026-11-10；六种感官连接之三（校 2026-11-11）；原文列联网查证：Monier-Williams《梵英辞典》 lnum 225740（p. 1112,2），csl-devanag（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Sanbu-sho | 三部書 | 三部书 | kukai | 空海三部论著传统统称 | 2026-11-09 |
 | sanctified reason | — | 成圣的理性 | edwards 首译 | 自译裁定（sanctify 取教会用语“成圣”；词条 4.2 节题）；凭证 2026-11-10 | 2026-11-10 |
 | sanction | — | 制裁 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -5384,8 +5384,8 @@
 | squeezing argument | — | 挤压论证 | logical-consequence | Kreisel 论证通行译法；凭证 2026-11-09 | 2026-11-09 |
 | śramana | śramaṇa | 沙门 | 首现（buddha） | 汉文古译传统译名；凭证 2026-11-12 | 2026-11-12 |
 | śrāvaka | श्रावक | 声闻 | yogacara 首译 | 汉传佛典千年通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》śrāvaka 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
-| Śrāvakabhūmi | — | 《声闻地》 | yogacara 首译 | 汉文古译（玄奘译《瑜伽师地论》一分）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Śrāvakayāna | — | 声闻乘 | yogacara 首译 | 汉传佛典千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Śrāvakabhūmi | श्रावकभूमि | 《声闻地》 | yogacara 首译 | 汉文古译（玄奘译《瑜伽师地论》一分）；文献译名；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》 lnum 15260（p. 535,1），csl-devanagari 官（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
+| Śrāvakayāna | श्रावकयान | 声闻乘 | yogacara 首译 | 汉传佛典千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 222592（p. 1097,1），csl-devanag（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | St. Petersburg | — | 圣彼得堡（地名） | 语料回收（词汇表并网） | 学界通行（与圣彼得堡悖论 St. Petersburg paradox 分立）；词汇表并网（ADR-0036） | 2026-11-13 |
 | St. Petersburg paradox | — | 圣彼得堡悖论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | stability | — | 稳定性 | 首现（imprecise-probabilities） | 学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08 | 2026-11-08 |
@@ -5667,7 +5667,7 @@
 | tarakhê | ταραχή | 扰动 | epicurus | 本词条译名（与 ataraxia 心神宁静 对举） | 2026-11-12 |
 | targeted advertising | — | 定向广告 | 首现（it-moral-values） | 广告与信息伦理通行译名；凭证 2026-11-10 | 2026-11-10 |
 | tarka | तर्क | 保留原文（直观辨相） | jaina-philosophy | 源文自注不取“假设性推理”旧义，正文保留拉丁形 | 2026-11-08 |
-| Tarkajvālā | — | 《思择焰》 | srigupta 首译 | 本库自拟（tarka 思择、jvālā 焰；清辨《中观心论》自注） | 2026-11-13 |
+| Tarkajvālā | तर्कज्वाला | 《思择焰》 | srigupta 首译 | 本库自拟（tarka 思择、jvālā 焰；清辨《中观心论》自注）；原文列联网查证：Monier-Williams《梵英辞典》 lnum 83361（p. 440,1），csl-devanagar（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Tarkasaṃgraha | तर्कसंग्रह | 《理性手册》 | early-modern-india | 源文英文自题 The Manual of Reason 直译（梵名义“推理集要”，首现括注；简称 TS 沿用）；凭证 2026-11-10 | 2026-11-10 |
 | tarkīb | ترکیب | 综合（synthesis；图像构造语境亦作“组合”） | arabic-islamic-phil-math | 译名裁定（composition） | 2026-11-08 |
 | taṣawwur | تصور | 概念化 | ibn-taymiyya | 学界惯例（阿拉伯逻辑学；与 taṣdīq 断定对举） | 2026-11-12 |
@@ -5906,7 +5906,7 @@
 | triangular norm | — | 三角范数 | logic-fuzzy | 同 t-norm 既有行；凭证 2026-11-09 | 2026-11-09 |
 | triangulation | — | 三角测量 | davidson 首译 | 戴维森后期哲学通行（测绘隐喻术语）；凭证 2026-11-10 | 2026-11-10 |
 | triggering cause / structural cause | — | 触发原因／结构原因 | basing-epistemic 首译 | 学界通行汉译（因果作用区分）；凭证 2026-11-08 | 2026-11-08 |
-| Triṃśikā | — | 《唯识三十颂》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Triṃśikā | त्रिंशिका | 《唯识三十颂》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 88528（p. 461,2），csl-devanagar（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Trinity | — | 三位一体 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Trinity College (Cambridge) | — | 三一学院 | newton | 剑桥大学学院通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | tripartite analysis of knowledge | — | 知识的三元分析 | 首现（xenophanes） | 学界通行（JTB 三元分析）；凭证 2026-11-07 | 2026-11-07 |
@@ -6366,7 +6366,7 @@
 | yin-yang | 陰陽 | 阴阳 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Yishuv | — | 伊舒夫（巴勒斯坦犹太社群） | s/scholem 首译 | 犹太研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Yogācāra | योगाचार | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
-| Yogācārabhūmi | — | 《瑜伽师地论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Yogācārabhūmi | योगाचारभूमि | 《瑜伽师地论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》 lnum 12509（p. 448,2），csl-devanagari 官（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | yogyatā | योग्यता | 语义适切（义适） | early-modern-india | 弥曼差/正理语义学通行义译（semantic fitness）；凭证 2026-11-10；正文取“语义适切”，因明旧译“义适”备查（校 2026-11-11）| 2026-11-10 |
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
