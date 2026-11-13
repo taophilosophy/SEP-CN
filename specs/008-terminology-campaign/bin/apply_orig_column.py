@@ -21,7 +21,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(
 REG = os.path.join(ROOT, 'shu-yu-biao.md')
 DEFAULT_LEDGER = os.path.join(ROOT, 'specs', '008-terminology-campaign',
                               'results', 'orig-verify-2026-11-13.tsv')
-DATE = '2026-11-13'
+DATE = os.environ.get('LEDGER_DATE', '2026-11-14')
 OLD_TAG = '原文列待考'
 
 
