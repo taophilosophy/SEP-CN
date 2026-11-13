@@ -140,3 +140,13 @@ TL-main-20261112 续：凭证文件名缺陷修复、重复行归一与清扫收
   emit/audit 均按新名正常工作。**后续术语跑批一律以 `shu-yu-biao.md` 为准**。
 * 追加 10 项（前批降级词＋新登记行）跑完；审计 一致 1099 / 不一致 753 / 查无 4389 / 未查证 4235；
   新增不一致 1 条保留：affectedness「受影响」（审定命中为集体消费理论垃圾池）。
+
+### 十、登记册同键异译分立清零（9 组，2026-11-13）
+
+* 逐组处理，见 `check_terms` 告警清单：Cittamātra（唯心/唯识 → 唯心，亦作唯识；与 vijñaptimātra 分键，gelukpa 旧形待正文校订）、
+  fitra/fiṭra（天性，亦作自然禀赋）、genetic essentialism（基因本质主义，亦作遗传本质主义，正文 2:1）、
+  madhyamaka/Madhyamaka（中观，亦作中观派）、pudgala 双行**键加括注**分流（耆那教物质义＝质料；佛教补特伽罗义＝补特伽罗），
+  restoration of virginity（三行并一：恢复贞洁，亦作贞洁的恢复）、undo the done（三行并一：取消已成之事，亦作使已成之事未成）、
+  a-samavāyi-kāraṇa（非和合因，亦作非依处因）、samavāyi-kāraṇa（和合因，亦作依处因）。
+* 登记册 5943→5934 行；`check_terms` 同键异译告警与自洽违例皆清零，硬错误 0。
+* 新键补查：pudgala 两行新键已跑批落凭证；realism「实在论」与审定一致。
