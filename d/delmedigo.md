@@ -121,11 +121,11 @@
 
 [^engel-2017]: –––, 2017, *Elijah Del Medigo and Paduan Aristotelianism: Investigating the Human Intellect*, London: Bloomsbury.
 
-[^engel-2019]: –––, 2019, “The Academic Reception of Beḥinat ha-Dat: Criticizing Jewish Historiography” in *Zwischen Orient und Europa: Orientalismus in der deutsch-jüdischen Kultur im 19. und 20. Jahrhundert*, Chiara Adorisio and Lorella Bosco (eds.), Tübingen: Narr Francke Attempto Verlag, 53–61/
+[^engel-2019]: –––, 2019, “The Academic Reception of Beḥinat ha-Dat: Criticizing Jewish Historiography” in *Zwischen Orient und Europa: Orientalismus in der deutsch-jüdischen Kultur im 19. und 20. Jahrhundert*, Chiara Adorisio and Lorella Bosco (eds.), Tübingen: Narr Francke Attempto Verlag, 53–61.
 
 [^engel-2020]: –––, 2020, “Reconstructing Averroes’s Theory of Conjunction and Immortality in 15th-Century Padua: A Possible Source for Pico’s 900 Theses” in Giovanni Licata and Pasquale Terracciano (eds.), *La lama del sapiente. Saggi sulla filosofia do Giovanni Pico della Mirandola,* Giovanni Licata and Pasquale Terracciano (eds.), Pisa: Edizioni della Normale, 179–216.
 
-[^engel-2022]: –––, 2022, “The Two Hebrew-into-Latin Translations of Averroes’s Commentary on Plato’s Republic: Method, Motivation, and Context” in *Plato’s Republic in the Islamic Context: New Perspectives on Averroes’s Commentary*, Alexander Orwin (ed.), Rochester NY: University of Rochester Press [Rochester Studies in Medieval Political Thought],: 297–319.
+[^engel-2022]: –––, 2022, “The Two Hebrew-into-Latin Translations of Averroes’s Commentary on Plato’s Republic: Method, Motivation, and Context” in *Plato’s Republic in the Islamic Context: New Perspectives on Averroes’s Commentary*, Alexander Orwin (ed.), Rochester NY: University of Rochester Press [Rochester Studies in Medieval Political Thought], 297–319.
 
 [^fraenkel-2013]: Fraenkel, Carlos, 2013, “Considering the Case of Elijah Delmedigo’s Averroism and its Impact on Spinoza”, in *Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe*, Anna Akasoy and Guido Giglioni (ed.), Dordrecht: Springer, 213–236. doi:10.1007/978-94-007-5240-5_11
 
