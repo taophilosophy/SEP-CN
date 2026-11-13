@@ -70,7 +70,7 @@
 
 结果，麦克斯韦以“难以置信的鲁莽”颠倒了物理理论据以演化的自然次序——他在需要之前就与过去决裂了。
 
-迪昂以其对物理科学中使用模型的攻击而闻名。乍一看，他似乎试图把其对模型构建的攻击与其对物理科学的工具主义的拥护联系起来。他指控英国科学家相信“理解物理现象就是构造一个模型”（1914, 103; 1954, 71–72），以及“把模型与理论相混淆”（1913, 102; 1954, 71）。他具体指摘麦克斯韦的这些误解，指出在其 1855–56 年的文章中，麦克斯韦只提出 **例示** 电介质理论，而在其 1861–62 年的文章中则提出用力学模型来 **表示或解释** 电与磁的作用。迪昂甚至对麦克斯韦 interchangeably 使用“表示”与“解释”这两个动词似乎颇有不屑。他说：“对一个英国物理学家来说，这两个词意思相同”（1902, 9）。
+迪昂以其对物理科学中使用模型的攻击而闻名。乍一看，他似乎试图把其对模型构建的攻击与其对物理科学的工具主义的拥护联系起来。他指控英国科学家相信“理解物理现象就是构造一个模型”（1914, 103; 1954, 71–72），以及“把模型与理论相混淆”（1913, 102; 1954, 71）。他具体指摘麦克斯韦的这些误解，指出在其 1855–56 年的文章中，麦克斯韦只提出 **例示** 电介质理论，而在其 1861–62 年的文章中则提出用力学模型来 **表示或解释** 电与磁的作用。迪昂甚至对麦克斯韦不加区分地使用“表示”与“解释”这两个动词似乎颇有不屑。他说：“对一个英国物理学家来说，这两个词意思相同”（1902, 9）。
 
 对迪昂而言，表示与解释之间有一个关键的差别。他把理论分为两大类——解释性的与纯表征性的理论——并论证物理理论不应被看作解释性的，而应被看作纯表征性的或分类性的。论证如前所见：为使物理理论成为解释性的，它就必须从属于形而上学、而不自主。对麦克斯韦与英国科学家而言“两个词意思相同”的提法，因此指的是迪昂会认为的关于物理理论目的的混淆——它产生于把模型与理论相认同、以为理论所表示（且/或模型所示）的东西是实在的。
 
@@ -170,7 +170,7 @@
 | 1902 | *Les théories électriques de J. Clerk Maxwell: étude historique et critique*, Paris: Hermann. English translation, Alan Aversa, *The electric theories of J. Clerk Maxwell: A historical and critical study*, Dordrecht: Springer, 2015. |
 | 1902 | *Le mixte et la combinaison chimique*, Paris: C. Naud; 2nd. ed., Paris: Fayard, 1985. English translation, Paul Needham, *Mixture and chemical combination, and related essays*, Dordrecht: Kluwer Academic Publishers, 2002. |
 | 1902 | *Thermodynamique et chimie*, Paris, Gauthier-Villars. English translation, George K. Burgess, *Thermodynamics and Chemistry*, New York: Wiley, 1903. |
-| 1903 | *L’évolution de la mécanique*, Paris: A. Joanin. German translation, P. Frank, *Die Wandlungen der Mechanik und der mechanischen Naturerklärung*, Leipzig: J.A. Barth, 1912. English translation, Michael Cole, *The Evolution of Mechanics*, Alphen aan den Rijn: Sijthooff and Noordhoff, 1980. |
+| 1903 | *L’évolution de la mécanique*, Paris: A. Joanin. German translation, P. Frank, *Die Wandlungen der Mechanik und der mechanischen Naturerklärung*, Leipzig: J.A. Barth, 1912. English translation, Michael Cole, *The Evolution of Mechanics*, Alphen aan den Rijn: Sijthoff and Noordhoff, 1980. |
 | 1903 | “Analyse de l’ouvrage de Ernst Mach,” *Bulletin des Sciences Mathematiques*, 27: 261–83. English translation in Duhem [EHPS]. |
 | 1905 | “Physique de croyant,” *Annales de philosophie chrétienne*, 151: 44–67. Republished as an appendix of Duhem 1914. |
 | 1905–06 | *Les origines de la statique*, 2 vols., Paris: Hermann. English Translation Grant F. Leneaux, Victor N. Vagliente, and Guy H. Wagener, *The Origins of Statics*, Dordrecht: Kluwer, 1991. |
