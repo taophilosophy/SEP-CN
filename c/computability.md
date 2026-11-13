@@ -240,7 +240,7 @@ $$ \P \subseteq \NP \subseteq \PSPACE \subseteq \EXPTIME $$
 
 **可计算性与复杂性的世界**
 
-![descriptiveWorld](../assets/computability/descriptiveWorld2015.jpg)
+![可计算性与复杂性的世界](../assets/computability/descriptiveWorld2015.jpg)
 
 可计算性与复杂性的世界
 
@@ -270,11 +270,10 @@ NP 类在实践与哲学上都极为重要。它是这样一类问题 $S$：任�
 
 ## 学术工具
 
-> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computability). |
-> | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/computability/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=computability&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/computability/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computability)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/computability/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/computability/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=computability&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/computability/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

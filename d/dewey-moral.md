@@ -184,19 +184,19 @@
 
 #### 与杜威伦理学相关的主要著作缩写
 
-| [AE] | *Art as Experience*, in *Later Works*, vol. 10 (1934) |
+| [AE] | *Art as Experience*（《艺术即经验》）, in *Later Works*, vol. 10 (1934) |
 | --- | --- |
 | [CD] | “Creative Democracy: The Task before Us,” in *Later Works*, vol. 14 (1939). |
-| [DE] | *Democracy and Education*, in *Middle Works*, vol. 9 (1916) |
-| [EN] | *Experience and Nature*, in *Later Works*, vol. 1 (1925) |
-| [HNC] | *Human Nature and Conduct*, in *Middle Works*, vol. 14 (1922) |
+| [DE] | *Democracy and Education*（《民主主义与教育》）, in *Middle Works*, vol. 9 (1916) |
+| [EN] | *Experience and Nature*（《经验与自然》）, in *Later Works*, vol. 1 (1925) |
+| [HNC] | *Human Nature and Conduct*（《人性与行为》）, in *Middle Works*, vol. 14 (1922) |
 | [HWT] | *How We Think*, in *Middle Works*, vol. 6 (1910). |
 | [E] | *Ethics*, rev. ed.(John Dewey and James Tufts), in *Later Works*, vol. 7 (1932). |
 | [IDP] | “The Influence of Darwin on Philosophy,” in *Middle Works*, vol. 4 (1909). |
 | [LE] | *Lectures on Ethics, 1900–1901*, Ed. D. Koch, Carbondale: Southern Illinois University Press (1991). |
 | [LJP] | “The Logic of Judgments of Practice,” in *Middle Works*, vol. 8 (1915). |
 | [PP] | *The Public and Its Problems*, in *Later Works*, vol. 2 (1927). |
-| [RP] | *Reconstruction in Philosophy*, in *Middle Works*, vol. 12 (1920). |
+| [RP] | *Reconstruction in Philosophy*（《哲学的改造》）, in *Middle Works*, vol. 12 (1920). |
 | [TIF] | “Three Independent Factors in Morals,” in *Later Works*, vol. 5 (1930). |
 | [TV] | *Theory of Valuation*, in *Later Works*, vol. 13 (1939). |
 | [VEK] | “Valuation and Experimental Knowledge,” in *Middle Works*, vol. 13 (1922). |

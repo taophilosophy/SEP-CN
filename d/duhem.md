@@ -183,7 +183,7 @@
 | 1911 | *Traité d’énergétique ou de thermodynamique générale*, 2 vols., Paris: Gauthier-Villars. |
 | 1912 | “La nature du raisonnement mathématique,” *Revue de Philosophie*, 12: 531–543. English translation in Duhem [EHPS]. |
 | 1913–59 | *Le système du monde, histoire des doctrines cosmologiques de Platon à Copernic*, 10 vols, Paris: Hermann; partial translation of volumes 7–9 under the title *Medieval Cosmology*, Roger Ariew (trans.), Chicago: University of Chicago Press, 1985. |
-| 1914 | *La théorie physique son objet et sa structure*, 2nd ed., Paris: Chevalier et Rivière. English Translation Philip P. Wiener, *The Aim and Structure of Physical Theory*, Princeton: Princeton University Press, 1954. |
+| 1914 | *La théorie physique son objet et sa structure*（《物理学理论的目的与结构》）, 2nd ed., Paris: Chevalier et Rivière. English Translation Philip P. Wiener, *The Aim and Structure of Physical Theory*, Princeton: Princeton University Press, 1954. |
 | 1915 | *La science allemande*, Paris: Hermann. English translation John Lyon, *German Science*, La Salle, IL: Open Court, 1991. |
 | 1916 | *La chimie, est-elle une science française?* Paris: Hermann. |
 | 1917 | “Liste des Publications de P. Duhem” and “Notice sur les travaux scientifiques de Duhem,” *Mémoires de la Société des Sciences Physiques et naturelles de Bordeaux*, 7: 41–169. English translation of Parts 2 and 3 of “Notice” in Duhem [EHPS]. |

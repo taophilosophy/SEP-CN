@@ -62,7 +62,7 @@
 
 **图 1。**
 
-![图 1](../yuanwen/assets/risk/figure1.png)
+![图 1](../assets/risk/figure1.png)
 
 图 1. 科学数据用于政策目的。
 

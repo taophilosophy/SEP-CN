@@ -64,7 +64,7 @@
 
 *图 1.*
 
-![Figure 1](../assets/dynamic-choice/figure1.jpg)
+![一项奖励的折现价值随可领取时间的临近而增加](../assets/dynamic-choice/figure1.jpg)
 
 图 1. 一项奖励的折现价值随着 *t*（该奖励可供领取的时间）的临近而逐渐增加。
 
@@ -72,7 +72,7 @@
 
 *图 2.*
 
-![Figure 2](../assets/dynamic-choice/figure2.jpg)
+![两条相交的折现曲线](../assets/dynamic-choice/figure2.jpg)
 
 图 2. 两条相交的折现曲线，一条追踪将在 *t*₁ 可供领取的一笔小额奖励的折现价值，另一条追踪将在 *t*₂ 可供领取的一笔大额奖励的折现价值。
 
@@ -88,7 +88,7 @@
 
 *图 3.*
 
-![job A > job B > job C > ](../assets/dynamic-choice/preference-loop1.jpg)
+![职业偏好循环：甲 ＞ 乙 ＞ 丙 ＞ 甲](../assets/dynamic-choice/preference-loop1.jpg)
 
 图 3.
 
@@ -104,7 +104,7 @@
 
 *图 4.*
 
-![setting 0 < setting 1 < ... < setting 999 < setting 1000 < setting 0](../assets/dynamic-choice/preference-loop2.jpg)
+![偏好循环：设定 0 ＜ 设定 1 ＜ … ＜ 设定 999 ＜ 设定 1000 ＜ 设定 0](../assets/dynamic-choice/preference-loop2.jpg)
 
 图 4.
 

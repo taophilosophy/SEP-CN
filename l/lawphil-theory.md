@@ -69,10 +69,10 @@
 
 ### Primary Sources
 
-| [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
+| [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*（《纯粹法理论》）, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
 | --- | --- |
-| [PT2] | 1960/1967. *Pure Theory of Law*, M. Knight (trans.), Berkeley: University of California Press. |
-| [GT] | 1945/1961. *General Theory of Law and State*, A. Wedberg (trans.), New York: Russell & Russell. |
+| [PT2] | 1960/1967. *Pure Theory of Law*（《纯粹法学说（第二版）》）, M. Knight (trans.), Berkeley: University of California Press. |
+| [GT] | 1945/1961. *General Theory of Law and State*（《法与国家的一般理论》）, A. Wedberg (trans.), New York: Russell & Russell. |
 
 ### Secondary Sources
 

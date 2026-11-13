@@ -197,7 +197,7 @@
 | GA | *Grundzüge der Ästhetik* |
 | LW | *Meine letzten Wünsche für Österreich* |
 | ORW | *The Origin of the Knowledge of Right and Wrong* |
-| PES | *Psychology from an Empirical Standpoint / Psychologie vom empirischen Standpunkt* |
+| PES | *Psychology from an Empirical Standpoint / Psychologie vom empirischen Standpunkt*（《从经验立场出发的心理学》） |
 | USE | *Vom Ursprung sittlicher Erkenntnis* |
 | ZP | *Über die Zukunft der Philosophie* – quoted from the 1929 ed. |
 

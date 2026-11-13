@@ -2,7 +2,7 @@
 
 **首次发表于 1996 年 5 月 9 日；2021 年 2 月 23 日实质修订。**
 
-[![bradley](../assets/bradley/bradley.gif)](../assets/bradley/bradley-large.gif) (*经 T.J. 温尼弗里思博士惠允复制*)
+[![布拉德雷肖像](../assets/bradley/bradley.gif)](../assets/bradley/bradley-large.gif) (*经 T.J. 温尼弗里思博士惠允复制*)
 
 F. H. 布拉德雷（1846–1924）是英国唯心主义者中最著名、最富原创性且哲学上最具影响力的一位。这些哲学家在十九世纪最后几十年崭露头角，但他们对于英国哲学乃至整个社会——并且，通过其某些弟子在大英帝国机构中所占据的权力位置，对世界上许多地方——的影响，一直持续到二十世纪上半叶。他们之所以在同时代人当中显得突出，是因为他们有意识地拒斥了休谟、密尔等前辈同胞传统中的某些主要方面，并以一种既原创又批判的方式，转而回应康德与黑格尔的著作。
 
@@ -250,12 +250,10 @@ F. H. 布拉德雷（1846–1924）是英国唯心主义者中最著名、最富
 
 ## 学术工具
 
-| | |
-| :---: | :---: |
-| | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bradley)。 |
-| | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bradley/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。 |
-| | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=bradley&redirect=True)，见互联网哲学本体论项目（InPhO）。 |
-| | [本词条的增强文献目录](https://philpapers.org/sep/bradley/)，见 [PhilPapers](https://philpapers.org/)，附其数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bradley)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bradley/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/bradley/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=bradley&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/bradley/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

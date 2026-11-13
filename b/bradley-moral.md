@@ -344,11 +344,10 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bradley-moral)。 |
-> | --- | --- |
-> | | 在 [Friends of the SEP Society](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版](https://leibniz.stanford.edu/friends/preview/bradley-moral/)。 |
-> | | 在 Internet Philosophy Ontology Project (InPhO) [查找与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=bradley-moral&redirect=True)。 |
-> | | 在 [PhilPapers](https://philpapers.org/) 查阅本词条的[增强书目](https://philpapers.org/sep/bradley-moral/)，含数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bradley-moral)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bradley-moral/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=bradley-moral&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

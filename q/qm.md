@@ -30,7 +30,7 @@
 
 *Figure 1*
 
-![vector addition](../assets/qm/figure1.gif)
+![矢量加法](../assets/qm/figure1.gif)
 
 图 1：矢量加法
 
@@ -48,7 +48,7 @@ $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
 
 *Figure 2*
 
-![figure2](../assets/qm/figure2.gif)
+![用单位矢量相加表示 B 态](../assets/qm/figure2.gif)
 
 图 2：用单位矢量相加表示 $\ket{B}$
 
