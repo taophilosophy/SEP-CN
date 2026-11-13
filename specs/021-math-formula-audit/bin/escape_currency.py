@@ -47,8 +47,11 @@ def escape(file_text):
 
 def main():
     dry = '--dry' in sys.argv
-    log = open(os.path.join(RESULTS, 'currency-escape-log.jsonl'), 'w',
+    log = open(os.path.join(RESULTS, 'currency-escape-log.jsonl'), 'a',
                encoding='utf-8')
+    log.write(json.dumps({'session': '2026-11-14',
+                          'note': '昨日转义未随提交落盘（git log -S 零命中），本日重跑'}
+                         , ensure_ascii=False) + '\n')
     for rel in [a for a in sys.argv[1:] if not a.startswith('-')]:
         path = os.path.join(REPO, rel)
         text = open(path, encoding='utf-8').read()

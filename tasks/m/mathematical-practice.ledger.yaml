@@ -755,364 +755,488 @@ segments:
     kind: body
     source: |-
       In the next section, we include a brief survey of what we consider to be among the most important topics that have been investigated within PMP. They all fall under the umbrella heading of epistemic virtues in mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下一节我们简要综述我们认为 PMP 内部研究过的最重要的一些主题。它们都可以归入“数学中的认知德性”这把大伞之下。
+    step2: |-
+      下一节我们简要综述 PMP 内部研究过的最重要的一些主题。它们都可归入“数学中的认知德性”这把大伞之下。
   - id: 92
     kind: body
     source: |-
       ## 3. Epistemic Virtues in Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 数学中的认知德性
+    step2: |-
+      ## 3. 数学中的认知德性
   - id: 93
     kind: body
     source: |-
       At first, it might seem strange to appeal, in reference to mathematics, to a notion like virtue, which is traditionally associated with ethics or moral theory. Aristotle famously discussed moral and intellectual virtues, the former to be fostered through the development, by means of training, of the appropriate character traits and the latter through teaching and experience for developing the appropriate intellectual traits. The bearers of such virtues are human subjects and/or their actions although much recent work in virtue theory (Hursthouse and Pettigrove 2023)[^hursthouse-2023] has also considered extensions to groups (e.g., a just jury, a fair-minded committee) and institutions (honesty and generosity might be predicated of some such entities). Moreover, in connection with intellectual virtues, groups and institutions might display open-mindedness, originality, etc. It is thus not surprising that talk of moral and intellectual virtues can be applied to the more specific agents involved in scientific activities: we can certainly speak of honesty, courage, justice (the area of epistemic injustice is an important area of contemporary epistemology; see Fricker 2009; Turri, Alfano, and Greco 2021)[^fricker-2009], practical wisdom, understanding, open-mindedness etc. By now the original surprise originated by bringing together virtues with a scientific area such as mathematics might appear to weaken. However, things are more complex. Indeed, it is not clear that intellectual and moral virtues display the same features in all areas of human activity (and thus also in mathematical activity) as opposed to receiving specific inflections in different areas. For instance, one could reasonably think of the opposite of certain virtues as vices. And now we encounter the paradoxical situation that certain virtues might turn out to obstruct, in some circumstances, the *telos* of the discipline whereas certain vices might promote the *telos*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      初看之下，就数学而诉诸“德性”这种传统上与伦理学或道德理论相连的概念，似乎有些奇怪。亚里士多德著名地讨论过道德德性与理智德性：前者通过训练养成恰当的性格特质来培育，后者通过教学与经验发展恰当的理智特质。这类德性的承载者是人的主体和/或其行动，尽管德性理论的许多近期工作（Hursthouse and Pettigrove 2023）[^hursthouse-2023]也考虑了向群体（如公正的陪审团、公道的委员会）与建制（诚实、慷慨可以被述谓于某些此类实体）的扩展。此外，就理智德性而言，群体与建制也可能显示出开放心态、原创性等。因此，道德与理智德性之谈可以应用于科学活动中更具体的行动者，这并不奇怪：我们当然可以说诚实、勇气、正义（认知不正义是当代认识论的重要领域；见 Fricker 2009; Turri, Alfano, and Greco 2021）[^fricker-2009]、实践智慧、理解、开放心态等等。至此，把德性与数学这样的科学领域放在一起所引发的最初的惊奇似乎可以减弱。但事情更复杂。确实，尚不清楚理智与道德德性在人类活动的所有领域（因而也在数学活动中）是否显示同样的特征，还是在不同领域接受特定的变形。例如，人们可以合理地把某些德性的对立面想成恶德。于是我们遭遇一种悖论处境：某些德性在某些情形下可能反而妨碍学科的 *目的*（*telos*），而某些恶德却可能促进这一 *目的*。
+    step2: |-
+      初看之下，就数学而诉诸“德性”这种传统上与伦理学或道德理论相连的概念，似乎有些奇怪。亚里士多德著名地讨论过道德德性与理智德性：前者靠训练养成恰当的性格特质来培育，后者靠教学与经验发展恰当的理智特质。这类德性的承载者是人的主体和/或其行动，尽管德性理论的许多近期工作（Hursthouse and Pettigrove 2023）[^hursthouse-2023]也考虑向群体（如公正的陪审团、公道的委员会）与建制（诚实、慷慨可述谓于某些此类实体）扩展。此外，就理智德性而言，群体与建制也可能显示开放心态、原创性等。因此，道德与理智德性之谈可应用于科学活动中更具体的行动者，并不奇怪：我们当然可以谈诚实、勇气、正义（认知不正义是当代认识论的重要领域；见 Fricker 2009; Turri, Alfano, and Greco 2021）[^fricker-2009]、实践智慧、理解、开放心态等等。至此，把德性与数学这样的科学领域并置所引发的最初惊奇似乎可减弱。但事情更复杂。确实，尚不清楚理智与道德德性在人类活动的所有领域（因而也在数学活动中）是否显示同样的特征，还是在不同领域接受特定变形。例如，人们可合理地把某些德性的对立面想成恶德。于是我们遭遇一种悖论处境：某些德性在某些情形下可能反而妨碍学科的 *目的*（*telos*），某些恶德却可能促进这一 *目的*。
   - id: 94
     kind: body
     source: |-
       Consider the intellectual virtue of rigor in mathematics. The word “rigor” suffers from the process/product ambiguity we already discussed: it may mean that a mathematician proceeds rigorously in her investigation or that a product of the mathematical activity (e.g., a theorem or a theory) is rigorous. We embrace this ambiguity here because in general when speaking about mathematics we have to consider both the activities of the mathematicians as well as the products of their activities. So, rigor would seem a quintessential positive virtue in mathematics, both when attributed to the agent doing mathematics as well as to the product of that activity. And yet it turns out that rigor can be an obstructive virtue: the mathematicians of the seventeenth century (starting from Descartes and Fermat on to Leibniz and Newton) had to abandon the rigor characteristic of Greek mathematics, for it had become detrimental to the progress of the discipline. It also appears that certain vices can be productive with respect to the end-goals of the discipline. Cases of mathematical environments driven by lack of intellectual humility, epistemic injustice, and sheer aggressiveness have been known to stimulate the epistemic exposure of a mathematical community to a vast range of new mathematics. A famous case is that of the Gelfand seminar in Moscow (Tanswell and Kidd 2021; Gerovitch 2016)[^gerovitch-2016][^tanswell-2021] but it is by no means unique.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑数学中的严格性这一理智德性。“严格”一词患有我们已讨论过的过程/产物歧义：它可以指数学家在研究中行进得严格，也可以指数学活动的产物（如定理或理论）是严格的。我们在此接纳这一歧义，因为一般地谈论数学时，我们必须既考虑数学家的活动，也考虑其活动的产物。如此说来，无论归于做数学的行动者还是归于该活动的产物，严格性似乎都是数学中典型的正面德性。然而结果却是：严格性可以是妨碍性的德性——17 世纪的数学家（从笛卡尔、费马到莱布尼茨、牛顿）不得不放弃希腊数学特有的严格性，因为它已不利于学科的进步。同样，某些恶德似乎可以对该学科的最终目标富有成效。众所周知，缺乏理智谦逊、认知不正义与十足攻击性驱动的数学环境，曾刺激一个数学共同体在认识上暴露于大量新数学。著名的例子是莫斯科的盖尔范德讨论班（Tanswell and Kidd 2021; Gerovitch 2016）[^gerovitch-2016][^tanswell-2021]，但这绝非孤例。
+    step2: |-
+      考虑数学中的严格性这一理智德性。“严格”一词患有我们已讨论过的过程/产物歧义：可指数学家在研究中行进得严格，也可指数学活动的产物（如定理或理论）是严格的。我们在此接纳这一歧义，因为一般地谈论数学时，必须既考虑数学家的活动，也考虑其活动的产物。如此说来，无论归于做数学的行动者还是归于该活动的产物，严格性似乎都是数学中典型的正面德性。然而结果却是：严格性可以是妨碍性的德性——17 世纪的数学家（从笛卡尔、费马到莱布尼茨、牛顿）不得不放弃希腊数学特有的严格性，因为它已不利于学科进步。同样，某些恶德似乎可对学科的最终目标富有成效。众所周知，缺乏理智谦逊、认知不正义与十足攻击性驱动的数学环境，曾刺激一个数学共同体在认识上暴露于大量新数学。著名的例子是莫斯科的盖尔范德讨论班（Tanswell and Kidd 2021; Gerovitch 2016）[^gerovitch-2016][^tanswell-2021]，但这绝非孤例。
   - id: 95
     kind: body
     source: |-
       Thus far, we have discussed aspects of moral and intellectual virtues that apply to mathematicians and communities of mathematicians as agents who are the bearers of the ascription of such virtues (Aberdein, Rittberg, and Tanswell 2021; Tanswell 2017)[^tanswell-2017][^tanswell-2021]. While we think that this is an extremely interesting part of the story, our interest here is in epistemic virtues as they apply to the products of mathematical activities. Mathematicians prove theorems, create theories, provide definitions, make conjectures, and do many more things in their work. The products of these activities (proofs, theories, definitions, conjectures, etc.) have objective features that mathematicians themselves have characterized through reference to epistemic virtues. And it is the task of philosophers of mathematics to try to make sense of the objective properties that justify the ascription of such virtues to the relevant mathematical products/objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此，我们讨论的是把道德与理智德性归于数学家及数学家共同体——即作为此类德性之承载者的行动者——的方面（Aberdein, Rittberg, and Tanswell 2021; Tanswell 2017）[^tanswell-2017][^tanswell-2021]。我们认为这是整个故事中极其有趣的部分，但我们这里关心的是认知德性在数学活动产物上的应用。数学家证明定理、创立理论、给出定义、提出猜想，在工作中做更多别的事。这些活动的产物（证明、理论、定义、猜想等）具有客观特征，数学家自己曾参照认知德性来刻画它们。而数学哲学家的任务，正是尝试弄清那些使此类德性得以归于相关数学产物/对象的客观性质。
+    step2: |-
+      至此，我们讨论的是把道德与理智德性归于数学家及数学家共同体——即作为此类德性承载者的行动者——的方面（Aberdein, Rittberg, and Tanswell 2021; Tanswell 2017）[^tanswell-2017][^tanswell-2021]。我们认为这是整个故事中极有趣的部分，但这里关心的是认知德性在数学活动产物上的应用。数学家证明定理、创立理论、给出定义、提出猜想，在工作中做更多别的事。这些活动的产物（证明、理论、定义、猜想等）具有客观特征，数学家自己曾参照认知德性刻画它们。数学哲学家的任务，正是尝试弄清那些使此类德性得以归于相关数学产物/对象的客观性质。
   - id: 96
     kind: body
     source: |-
       In “The Philosophy of Mathematical Practice”, Mancosu wrote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《数学实践的哲学》中，马科苏写道：
+    step2: |-
+      在《数学实践的哲学》中，马科苏写道：
   - id: 97
     kind: body
     source: |-
       > If mathematicians cared only about the truth of certain results, it would be hard to understand why after discovering a certain mathematical truth they often go ahead to prove the result in several different ways. This happens because different proofs or different presentations of entire mathematical areas (complex analysis etc.) have different epistemic virtues. Explanation is among the most important virtues that mathematicians seek. Very often the proof of a mathematical result convinces us that the result is true but does not tell us why it is true. Alternative proofs, or alternative formulations of entire theories, are often given with this explanatory aim in mind. (2008a, 15)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果数学家只关心某些结果的真，就很难理解为什么在发现某个数学真理之后，他们往往还要用几种不同的方式证明它。原因在于，不同的证明、或对整个数学领域（复分析等）的不同呈现，具有不同的认知德性。解释是数学家所寻求的最重要德性之一。数学结果的证明常常让我们相信该结果为真，却不告诉我们它为何为真。给出另类证明、或整门理论的另类表述，往往正是出于这一解释目的。（2008a, 15）
+    step2: |-
+      > 如果数学家只关心某些结果的真，就很难理解为何在发现某个数学真理之后，他们往往还要用几种不同方式证明它。原因在于：不同的证明、或对整个数学领域（复分析等）的不同呈现，具有不同的认知德性。解释是数学家所寻求的最重要德性之一。数学结果的证明常让我们相信该结果为真，却不告诉我们它为何为真。给出另类证明、或整门理论的另类表述，往往正出于这一解释目的。（2008a, 15）
   - id: 98
     kind: body
     source: |-
       But explanatoriness is only one of the epistemic virtues that can be applied to the products of a mathematical activity (in this case proofs and theories). Another very important virtue is purity of methods, namely the idea that the proof of a certain mathematical statement should appeal only to concepts that appear in the statement itself and not make appeal to “remote” or “foreign” concepts. The notion of purity has played an important role in the history of mathematics – consider, for instance, the elimination of geometrical intuition from the development of analysis in the 19ᵗʰ century – and in a way it underlies all the investigations concerning issues of conservativity in contemporary proof theory. That purity is often cherished in mathematical practice is made obvious by the fact that Selberg was awarded the Fields Medal (the equivalent of the Nobel Prize in mathematics) for, among other things, the elementary proof of the prime number theorem (already demonstrated with analytical tools in the late 19ᵗʰ century).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但可解释性只是可用于数学活动产物（此处的证明与理论）的认知德性之一。另一个非常重要的德性是方法纯度，即这样的观念：某个数学命题的证明只应诉诸该命题本身中出现的概念，而不应诉诸“遥远的”或“外来的”概念。纯度观念在数学史上扮演过重要角色——例如 19 世纪分析学发展中几何直观的清除——且在某种意义上，它奠基于当代证明理论中有关保守性问题的全部研究。数学实践中纯度常受珍视，塞尔伯格获菲尔兹奖（数学界的诺贝尔奖等价物）一事就是明证：部分地正因为素数定理的初等证明（该定理 19 世纪晚期已用分析工具证明）。
+    step2: |-
+      但可解释性只是可用于数学活动产物（此处的证明与理论）的认知德性之一。另一非常重要的德性是方法纯度，即：某数学命题的证明只应诉诸命题本身出现的概念，不诉诸“遥远的”或“外来的”概念。纯度观念在数学史上扮演过重要角色——如 19 世纪分析学发展中几何直观的清除——且在某种意义上奠定当代证明理论中有关保守性问题的全部研究。数学实践中纯度常受珍视，塞尔伯格获菲尔兹奖（数学界的诺贝尔奖等价物）一事就是明证：部分地正因素数定理的初等证明（该定理 19 世纪晚期已用分析工具证明）。
   - id: 99
     kind: body
     source: |-
       Alongside purity and explanatoriness, two further epistemic virtues are particularly important in mathematical practice: rigor and visualizability. Mathematical rigor ensures the reliability of mathematical results and distinguishes genuine proofs from mere persuasive arguments. Yet, rigor is not a fixed notion – it evolves with mathematical methods and technologies. Visualizability concerns instead the cognitive accessibility of mathematical reasoning: the capacity to grasp a proof, concept, or structure through visual or spatial representations such as different kinds of diagrams. Far from being in tension with rigor, visualizability often supports our understanding of proofs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与纯度和可解释性并列，另有两个认知德性在数学实践中尤为重要：严格性与可视化性。数学严格性保证数学结果的可靠性，把真正的证明与仅仅有说服力的论证区分开来。但严格性不是固定概念——它随数学方法与技术而演化。可视化性则关乎数学推理的认知可达性：通过不同种类的图形等视觉或空间表征来把握证明、概念或结构的能力。可视化性与严格性非但不冲突，反而常常支持我们对证明的理解。
+    step2: |-
+      与纯度和可解释性并列，另有两个认知德性在数学实践中尤为重要：严格性与可视化性。数学严格性保证数学结果的可靠性，把真正的证明与仅具说服力的论证区分开。但严格性不是固定概念——它随数学方法与技术演化。可视化性则关乎数学推理的认知可达性：经不同种类的图形等视觉或空间表征把握证明、概念或结构的能力。可视化性与严格性非但不冲突，反常支持我们对证明的理解。
   - id: 100
     kind: body
     source: |-
       The list of epistemic virtues could be easily added to: depth, simplicity, ontological parsimony, epistemic economy, rigor, fruitfulness, beauty, generalizability, etc. (Morris 2024)[^morris-2024]. Rather than try to address all of them we will consider here purity of methods, explanation, rigor, and visualizability which are arguably the areas in which progress has been more substantial. For the other epistemic virtues, we will limit ourselves to some bibliographical references.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      认知德性的清单很容易再加长：深度、简单性、存在论节俭、认知经济、严格性、多产性、美、可推广性等（Morris 2024）[^morris-2024]。我们不打算逐一处理，而是考察方法纯度、解释、严格性与可视化性——可以说，这几个领域的进展最为可观。对其他认知德性，我们只限于提供一些文献线索。
+    step2: |-
+      认知德性清单很容易加长：深度、简单性、存在论节俭、认知经济、严格性、多产性、美、可推广性等（Morris 2024）[^morris-2024]。我们不逐一处理，而考察方法纯度、解释、严格性与可视化性——可以说这几个领域进展最为可观。对其他认知德性，只提供一些文献线索。
   - id: 101
     kind: body
     source: |-
       ### 3.1 Purity of Methods
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 方法纯度
+    step2: |-
+      ### 3.1 方法纯度
   - id: 102
     kind: body
     source: |-
       Purity of methods refers to a cluster of issues which emerge in mathematical practice and whose analysis leads to several issues of great philosophical relevance. It is not uncommon in mathematics to see efforts leading to the request that a certain problem (or theorem) should be solved (resp. proved) using only conceptual resources that belong to the mathematical discipline in which the problem (or theorem) is stated or only through conceptual resources that are somehow already mentioned or are implicit in the statement of the problem (resp. theorem). Examples abound but typical instances of the former type of purity are Bolzano’s (1817 [1996]) analytic proof of the intermediate value theorem which eschewed any appeal to geometry or mechanics in favor of a purely analytic proof or the number theoretic proof of Jacobi’s four square theorem which was first proved by Jacobi using elliptic integrals and only later received an elementary number theoretic proof (Arana 2024)[^arana-2024]. The type of purity that is relevant to Bolzano’s proof has been called *geographical purity*. Mathematical disciplines can be compared to countries on a map (whose boundaries can change with time) and the request is that one should not go beyond the (conceptual) boundaries of the discipline to find a solution or a proof for a certain problem or theorem. In the case of Bolzano’s intermediate value theorem, geometry and analysis were seen by Bolzano as two different mathematical disciplines with the principles of analysis not dependent on those of geometry (by contrast, Bolzano considered geometry as an applied area of analysis). Hence a purely analytic proof of the intermediate value theorem (or any other theorem of analysis) should not appeal to principles of geometry which are “foreign” to the disciplinary area to which the theorem belongs. Same reasoning for the use of transcendental techniques (elliptic integrals, complex analysis, Fourier series, etc.) that were deployed in Jacobi’s original proof of the four-square theorem (i.e., “the number of representations of *n* as a sum of four squares is 8 times the sum of the positive divisors of *n* that are not divisible by 4”). Elementary number theory as a discipline has its own disciplinary boundaries which concern properties of the integers and concepts from complex analysis, integrals, etc. are foreign to it. But the statement of Jacobi’s four-square theorem is a statement about elementary properties of the integers. Hence the request for a proof of the theorem that only uses concepts from elementary number theory. Such a proof was given by Jacobi himself in 1834 (seven years after he had published his “transcendental” proof) by “translating” the transcendental proof into a number theoretic proof; later, other mathematicians gave other number-theoretic proofs that were not mere translations of Jacobi’s original proof; see Arana 2024. Engel (1987) brings the request for purity in number theory clearly to the fore:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      方法纯度指数学实践中涌现的一簇问题，对其分析引出若干极具哲学分量的议题。在数学中，常见这样的努力，进而形成这样的要求：某个问题（或定理）应当只用该问题（或定理）所在数学学科的概念资源来求解（或证明），或只通过在问题（或定理）的陈述中以某种方式被提及或隐含的概念资源来处理。例子俯拾皆是：前一类型纯度的典型例子，有波尔查诺（1817 [1996]）对介值定理的分析证明——它回避对几何或力学的任何诉诸，而取纯分析的证明；也有雅可比四平方和定理的数论证明——雅可比最初用椭圆积分证明它，很久之后才得到初等的数论证明（Arana 2024）[^arana-2024]。与波尔查诺证明相关的那类纯度被称为 *地域纯度*（*geographical purity*）。数学学科可比作地图上的国家（其边界可随时间变化），要求是：求解或证明某个问题或定理时，不应越出该学科的（概念）边界。就波尔查诺的介值定理而言，几何与分析被波尔查诺视为两个不同的数学学科，分析的原则不依赖于几何的原则（相比之下，波尔查诺把几何视为分析的应用领域）。因此，介值定理（或任何其他分析定理）的纯分析证明不应诉诸对该定理所属学科领域“外来”的几何原则。对雅可比四平方和定理（即“把 *n* 表示为四个平方数之和的表示数，是 *n* 的不能被 4 整除的正因子之和的 8 倍”）原初证明中所用的超越技巧（椭圆积分、复分析、傅里叶级数等），道理相同。初等数论作为学科自有其学科边界，关乎整数的性质；复分析、积分等概念对它是外来的。而雅可比四平方和定理的陈述是关于整数初等性质的陈述。因此才有这样的要求：该定理的证明只用初等数论的概念。这样的证明雅可比本人在 1834 年给出（在他发表“超越”证明七年之后）：把超越证明“翻译”成数论证明；后来，其他数学家给出了别的数论证明，不再只是雅可比原证明的翻译；见 Arana 2024。恩格尔（Engel 1987）把数论中的纯度要求清晰地摆上台面：
+    step2: |-
+      方法纯度指数学实践中涌现的一簇问题，对其分析引出若干极具哲学分量的议题。数学中常见这样的努力并形成这样的要求：某问题（或定理）应当只用该问题（或定理）所在数学学科的概念资源求解（或证明），或只通过其陈述中以某种方式被提及或隐含的概念资源处理。例子俯拾皆是：前一类型纯度的典型例子，有波尔查诺（1817 [1996]）对介值定理的分析证明——回避对几何或力学的任何诉诸而取纯分析的证明；也有雅可比四平方和定理的数论证明——雅可比最初用椭圆积分证明它，很久之后才得到初等的数论证明（Arana 2024）[^arana-2024]。与波尔查诺证明相关的那类纯度称为 *地域纯度*（*geographical purity*）。数学学科可比作地图上的国家（边界可随时间变化），要求是：求解或证明某问题或定理时，不应越出该学科的（概念）边界。就波尔查诺的介值定理而言，几何与分析被波尔查诺视为两个不同的数学学科，分析的原则不依赖几何的原则（相比之下，波尔查诺把几何视为分析的应用领域）。因此，介值定理（或任何其他分析定理）的纯分析证明不应诉诸对该定理所属学科领域“外来”的几何原则。对雅可比四平方和定理（即“把 *n* 表示为四个平方数之和的表示数，是 *n* 的不能被 4 整除的正因子之和的 8 倍”）原初证明所用超越技巧（椭圆积分、复分析、傅里叶级数等），道理相同。初等数论作为学科自有其学科边界，关乎整数的性质；复分析、积分等概念对它是外来的。而雅可比四平方和定理的陈述是关于整数初等性质的陈述。因此才有这样的要求：该定理的证明只用初等数论的概念。这样的证明雅可比本人在 1834 年给出（在发表“超越”证明七年之后）：把超越证明“翻译”成数论证明；后来其他数学家给出了别的数论证明，不再只是雅可比原证明的翻译；见 Arana 2024。恩格尔（Engel 1987）把数论中的纯度要求清晰地摆上台面：
   - id: 103
     kind: body
     source: |-
       > Number theory deals with the properties of integers, so one should actually demand that it prove all of its theorems without leaving the realm of integers. But there is still a long way to go before she can do that. A good number of apparently extremely simple theorems have hitherto only been able to be proved with the use of an enormous apparatus of transcendent means, of theorems from the theory of elliptic functions, and the like. (cited in Arana 2024, 20)[^arana-2024]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 数论处理整数的性质，所以人们其实应当要求它证明自己的所有定理时不越出整数的领域。但她离做到这一点还有很长的路。大量看起来极其简单的定理，迄今仍只能借助庞大的超越手段、椭圆函数论中的定理之类才能证明。（转引自 Arana 2024, 20）[^arana-2024]
+    step2: |-
+      > 数论处理整数的性质，所以人们其实应当要求它证明自己的所有定理时不越出整数的领域。但她离做到这一点还有很长的路。大量看似极简单的定理，迄今仍只能借助庞大的超越手段、椭圆函数论的定理之类才能证明。（转引自 Arana 2024, 20）[^arana-2024]
   - id: 104
     kind: body
     source: |-
       The cases just discussed concern purity with respect to disciplinary boundaries. There are however issues of purity that emerge even within a given disciplinary area. For instance, one might focus on what is mentioned in a problem or theorem one is interested in and request that the concepts deployed in the solution or proof do not go beyond those mentioned in the problem or theorem at hand. Hilbert gives voice to such request in his discussion of Desargues’ theorem in projective geometry:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刚才讨论的例子关乎学科边界意义上的纯度。但也有在给定学科领域内部涌现的纯度问题。例如，可以聚焦于所关心的问题或定理中提及的东西，要求求解或证明中所用的概念不越出该问题或定理所提及者。希尔伯特在射影几何中讨论德萨格定理时，说出了这样的要求：
+    step2: |-
+      刚才讨论的例子关乎学科边界意义上的纯度。也有在给定学科领域内部涌现的纯度问题。例如，可聚焦所关心的问题或定理中提及的东西，要求求解或证明所用的概念不越出该问题或定理所提及者。希尔伯特在射影几何中讨论德萨格定理时，说出了这样的要求：
   - id: 105
     kind: body
     source: |-
       > This theorem gives us an opportunity now to discuss an important issue. The content [Inhalt] of Desargues’ theorem belongs completely to planar geometry; for its proof we needed to use space. Therefore we are for the first time in a position to put into practice a critique of means of proof. In modern mathematics such criticism is raised very often, where the aim is to preserve the purity of method [die Reinheit der Methode], i.e. to prove theorems if possible using means that are suggested by the content of the theorem. (Hilbert 2004 cited in Arana and Mancosu 2012, 315–316)[^arana-2012][^hilbert-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这条定理给了我们此刻讨论一个重要问题的机会。德萨格定理的内容〔Inhalt〕完全属于平面几何；为证明它我们却需要用到空间。因此我们第一次有条件把对证明手段的批判付诸实践。在现代数学中这类批评被频繁提出，其目标是保持方法的纯度〔die Reinheit der Methode〕，即尽可能使用由定理内容所提示的手段来证明定理。（Hilbert 2004，转引自 Arana and Mancosu 2012, 315–316）[^arana-2012][^hilbert-2004]
+    step2: |-
+      > 这条定理给我们此刻讨论一个重要问题的机会。德萨格定理的内容〔Inhalt〕完全属于平面几何；为证明它我们却需用到空间。因此我们第一次有条件把对证明手段的批判付诸实践。现代数学中这类批评被频繁提出，其目标是保持方法的纯度〔die Reinheit der Methode〕，即尽可能用定理内容所提示的手段证明定理。（Hilbert 2004，转引自 Arana and Mancosu 2012, 315–316）[^arana-2012][^hilbert-2004]
   - id: 106
     kind: body
     source: |-
       While Hilbert’s discussion concerns alternative proofs of the plane version of Desargues’ theorem in projective geometry, the request for purity here addresses finer boundary lines than mere disciplinary ones, namely the legitimacy of using spatial concepts or metric concepts for proving a statement which only appeals to plane projective concepts. One often refers to this phenomenon as *topical purity*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      希尔伯特的讨论虽关乎射影几何中德萨格定理平面版本的另类证明，这里对纯度的要求却指向比单纯学科边界更细的界线：只用平面射影概念陈述的命题，用空间概念或度量概念来证明是否合法。这一现象常被称为 *论题纯度*（*topical purity*）。
+    step2: |-
+      希尔伯特的讨论虽关乎射影几何中德萨格定理平面版本的另类证明，这里对纯度的要求却指向比单纯学科边界更细的界线：只用平面射影概念陈述的命题，用空间概念或度量概念来证明是否合法。这一现象常被称为 *论题纯度*（*topical purity*）。
   - id: 107
     kind: body
     source: |-
       The above examples are hopefully clear enough to bring out the kind of mathematical practice from which a philosophical analysis of purity emerges. In addition to the study of specific cases of purity in mathematical practice, philosophers of mathematical practice have addressed the following questions: what are the epistemic virtues of purity and those of impurity, respectively (on impurity as an epistemic virtue see Lehet 2021a; Ryan 2021; Blue 2025)[^blue-2025][^lehet-2021a][^ryan-2021]? Is it in general true that impurity leads to shorter proofs? How does purity relate to explanation? What is the proper notion of “content” of a statement needed to articulate a fruitful notion of purity? Should one look for more than one notion of “content” depending on different notions of purity? How does one articulate the major varieties of purity found in mathematical practice? For instance, Arana (2024) articulates the distinction corresponding to the examples we mentioned above by distinguishing “geographical” and “topical purity”, but other notions of purity are also brought to the fore in his book: “elemental” and “syntactic” purity, among others. The notion of “elemental” purity can be formulated as follows: the proof of a theorem is elementally pure if it only draws on what is more elementary than the theorem itself. But “more elementary” can be cashed out either in cognitive or metaphysical terms and this leads to issues in epistemology and metaphysics. This is not the place to enter into details but hopefully what has been said is sufficient to provide a sense of the area. The reader with find an up-to-date investigation of the topic in Arana 2024. Among other recent contributions see: Arana 2023; Arana and Mancosu 2012; Arana and Stafford 2023; Detlefsen 2008; Detlefsen and Arana 2011; Ferraro and Panza 2012; Giovannini, Haeusler, and Lassalle Casanave 2024; Hallett 2008.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述例子想必已足够清楚地展示了纯度之哲学分析所由出的那种数学实践。除研究数学实践中的具体纯度案例外，数学实践哲学家还处理了如下问题：纯度与不纯各自的认识论德性是什么（把不纯当作认识德性的讨论见 Lehet 2021a; Ryan 2021; Blue 2025）[^blue-2025][^lehet-2021a][^ryan-2021]？一般而言，不纯真的导致更短的证明吗？纯度与解释如何相关？要阐明一个富有成果的纯度概念，需要什么样的命题“内容”概念？是否应当依不同纯度概念寻找不止一种“内容”概念？如何阐明数学实践中所见纯度的主要变体？例如，Arana（2024）通过区分“地域纯度”与“论题纯度”，阐明了与我们上述例子相应的区分，但他的书还突出了其他纯度概念：“基本纯度”与“语法纯度”等。“基本纯度”可表述如下：如果一个定理的证明只取材于比该定理本身更基本的东西，它就是基本纯的。但“更基本”既可在认知意义上、也可在形而上学意义上兑现，这就引出认识论与形而上学的问题。这里不宜展开细节，但希望上述所说足以给出这一领域的轮廓。该专题的最新研究见 Arana 2024。其他近期贡献见：Arana 2023; Arana and Mancosu 2012; Arana and Stafford 2023; Detlefsen 2008; Detlefsen and Arana 2011; Ferraro and Panza 2012; Giovannini, Haeusler, and Lassalle Casanave 2024; Hallett 2008。
+    step2: |-
+      上述例子想必已足够清楚地展示纯度之哲学分析所由出的那种数学实践。除研究数学实践中的具体纯度案例外，数学实践哲学家还处理如下问题：纯度与不纯各自的认识论德性是什么（把不纯当作认识德性的讨论见 Lehet 2021a; Ryan 2021; Blue 2025）[^blue-2025][^lehet-2021a][^ryan-2021]？一般而言，不纯真导致更短的证明吗？纯度与解释如何相关？要阐明富有成果的纯度概念，需要什么样的命题“内容”概念？是否应依不同纯度概念寻找不止一种“内容”概念？如何阐明数学实践中所见纯度的主要变体？例如 Arana（2024）通过区分“地域纯度”与“论题纯度”，阐明与我们上述例子相应的区分，但其书还突出其他纯度概念：“基本纯度”与“语法纯度”等。“基本纯度”可表述如下：若定理的证明只取材于比该定理本身更基本的东西，它就是基本纯的。但“更基本”既可在认知意义上、也可在形而上学意义上兑现，这引出认识论与形而上学的问题。这里不宜展开细节，但希望以上所说足以给出该领域的轮廓。该专题的最新研究见 Arana 2024。其他近期贡献见：Arana 2023; Arana and Mancosu 2012; Arana and Stafford 2023; Detlefsen 2008; Detlefsen and Arana 2011; Ferraro and Panza 2012; Giovannini, Haeusler, and Lassalle Casanave 2024; Hallett 2008。
   - id: 108
     kind: body
     source: |-
       ### 3.2 Mathematical Explanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 数学解释
+    step2: |-
+      ### 3.2 数学解释
   - id: 109
     kind: body
     source: |-
       Just like purity of methods, the topic of mathematical explanation finds its roots in scientific and mathematical practice. On the one hand, mathematics is often appealed to in explanations provided in the natural or social sciences and this raises the question of the exact role of mathematics in the economy of such explanations. On the other hand, within mathematics one often distinguishes, for instance, between explanatory versus non explanatory theories or proofs. Of the many new areas studied in the philosophy of mathematical practice, mathematical explanation is arguably the one that has witnessed the most impressive development. Here we will limit ourselves to a presentation of some of the major areas of work and some essential bibliography. For a more comprehensive overview see (Mancosu, Poggiolesi, and Pincock 2023; Pincock 2023)[^pincock-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与方法纯度一样，数学解释这一专题也植根于科学与数学实践。一方面，自然科学或社会科学所提供的解释常诉诸数学，这就引出数学在这类解释格局中确切角色的问题。另一方面，数学内部也常作区分，例如有解释力的理论与证明 versus 无解释力的理论与证明。在数学实践的哲学所研究的众多新领域中，数学解释可以说是发展最令人瞩目的一个。这里我们只限于呈现若干主要工作领域与一些基本文献。更全面的综述见（Mancosu, Poggiolesi, and Pincock 2023; Pincock 2023）[^pincock-2023]。
+    step2: |-
+      与方法纯度一样，数学解释这一专题也植根于科学与数学实践。一方面，自然科学或社会科学提供的解释常诉诸数学，这引出数学在这类解释格局中确切角色的问题。另一方面，数学内部也常作区分，如解释性的理论与证明 versus 非解释性的理论与证明。在数学实践的哲学研究的众多新领域中，数学解释可说是发展最令人瞩目的一个。这里只限于呈现若干主要工作领域与一些基本文献。更全面的综述见（Mancosu, Poggiolesi, and Pincock 2023; Pincock 2023）[^pincock-2023]。
   - id: 110
     kind: body
     source: |-
       Mathematics plays a central role in our scientific picture of the world. How the connection between mathematics and the world is to be accounted for remains one of the most challenging problems in philosophy of science, philosophy of mathematics, and general philosophy. A very important aspect of this problem is that of accounting for the explanatory role mathematics seems to play in the account of physical phenomena. Consider the following example from evolutionary biology introduced in Baker 2005 and discussed extensively in the philosophical literature. It has to do with the life-cycle of the so-called ‘periodical’ cicada. It turns out that three species of such cicadas:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学在我们的世界科学图景中扮演中心角色。数学与世界之间的联系该如何说明，始终是科学哲学、数学哲学与一般哲学中最具挑战性的问题之一。该问题的一个非常重要的方面，是说明数学在物理现象的说明中所扮演的解释角色。考虑下面这个来自演化生物学的例子，它由 Baker 2005 引入，并在哲学文献中被广泛讨论。它与所谓“周期蝉”的生命周期有关。事实证明，这类蝉的三个物种：
+    step2: |-
+      数学在我们的世界科学图景中扮演中心角色。数学与世界之间的联系该如何说明，始终是科学哲学、数学哲学与一般哲学中最具挑战的问题之一。该问题非常重要的一个方面，是说明数学在物理现象的说明中所扮演的解释角色。考虑这个来自演化生物学的例子，由 Baker 2005 引入，并在哲学文献中被广泛讨论。它与所谓“周期蝉”的生命周期有关。事实证明，这类蝉的三个物种：
   - id: 111
     kind: body
     source: |-
       > …share the same unusual life-cycle. In each species the nymphal stage remains in the soil for a lengthy period, then the adult cicada emerges after 13 years or 17 years depending on the geographical area. Even more strikingly, this emergence is synchronized among the members of a cicada species in any given area. The adults all emerge within the same few days, they mate, die a few weeks later and then the cycle repeats itself. (Baker 2005, 229)[^baker-2005]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……共享同一种不寻常的生命周期。每个物种的若虫阶段都在土壤中滞留漫长时期，然后成蝉出土，时间依地理区域为 13 年或 17 年。更引人注目的是，在任何给定区域内，同一蝉种的成员出土是同步的。成蝉都在同样的几天内出土，交配，几周后死去，然后周期重演。（Baker 2005, 229）[^baker-2005]
+    step2: |-
+      > ……共享同一种不寻常的生命周期。每个物种的若虫阶段都在土壤中滞留漫长时期，然后成蝉出土，时间依地理区域为 13 年或 17 年。更引人注目的是，任何给定区域内同一蝉种的成员出土是同步的：成蝉都在同样的几天内出土、交配，几周后死去，周期重演。（Baker 2005, 229）[^baker-2005]
   - id: 112
     kind: body
     source: |-
       Several questions have been raised about this specific type of life cycle but one of them is why such periods are prime. One explanation appeals to the biological claim that cicadas that minimize intersection with other cicadas’ and predators’ life cycles have an evolutionary advantage over those that do not. The mathematical component of the explanation complements the biological claim by pointing out that prime periods minimize intersection. Baker concludes that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这种特定类型的生命周期，已有若干问题被提出，其中之一是：这些周期为何是素数。有一种解释诉诸生物学主张：与其他蝉类及捕食者生命周期之交叠最小化的蝉，比不做最小化的蝉更具演化优势。该解释的数学部分补充生物学主张，指出素数周期使交叠最小化。贝克的结论是：
+    step2: |-
+      关于这种特定类型的生命周期，已有若干问题被提出，其中之一是：这些周期为何是素数。有一种解释诉诸生物学主张：与其他蝉类及捕食者生命周期之交叠最小化的蝉，比不做最小化的蝉更具演化优势。该解释的数学部分补充生物学主张，指出素数周期使交叠最小化。贝克的结论是：
   - id: 113
     kind: body
     source: |-
       > The explanation makes use of specific ecological facts, general biological laws, and number theoretic result. My claim is that the purely mathematical component [prime periods minimize intersection (compared to non-prime periods)] is both essential to the overall explanation and genuinely explanatory on its own right. In particular it explains why prime periods are evolutionarily advantageous in this case. (2005, 233)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 该解释利用了具体的生态事实、一般的生物学定律，以及一个数论结果。我的主张是：纯数学的部分〔素数周期使交叠最小化（相对于非素数周期）〕既对整体解释必不可少，其自身也真正具有解释力。特别是，它解释了为什么素数周期在此情形下具有演化优势。（2005, 233）
+    step2: |-
+      > 该解释利用具体的生态事实、一般的生物学定律，以及一个数论结果。我的主张是：纯数学部分〔素数周期使交叠最小化（相对于非素数周期）〕既对整体解释必不可少，其自身也真正具有解释力。特别是，它解释了为何素数周期在此情形下具有演化优势。（2005, 233）
   - id: 114
     kind: body
     source: |-
       While not everyone agrees as to the role of mathematics in the above explanation, or whether it is an explanation, it is clear that one of the reasons why philosophers are especially interested in such explanations is that they appear to be counterexamples to the claim that all explanations in the natural sciences must be causal. The dominant accounts of scientific explanation in the natural sciences have been causal accounts: to provide an explanation of a scientific fact is to provide its cause or the mechanism yielding the fact. In the last two decades there have been major contributions in the study of non-causal explanations in the sciences (for a recent volume devoted to the issue see Reutlinger and Saatsi 2018)[^reutlinger-2018]. And since many of the non-causal explanations that have been discussed in the literature are mathematical explanations, this area of philosophy of science is fueled by concerns related to the nature of scientific explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管并非所有人都同意数学在上述解释中的角色、或它究竟是不是解释，但显然哲学家对这类解释特别感兴趣的一个原因是：它们似乎是“自然科学中的一切解释都必须是因果的”这一主张的反例。自然科学中科学解释的主导性说明一直是因果说明：对一个科学事实给出解释，就是给出其原因或产生该事实的机制。过去二十年，科学中非因果解释的研究有重大贡献（致力于此问题的近期文集见 Reutlinger and Saatsi 2018）[^reutlinger-2018]。既然文献中讨论的许多非因果解释是数学解释，科学哲学的这一领域就被与科学解释本性相关的关切所推动。
+    step2: |-
+      尽管并非所有人都同意数学在上述解释中的角色、或它究竟是不是解释，但显然哲学家对这类解释特别感兴趣的一个原因是：它们似乎是“自然科学中一切解释都必须是因果的”这一主张的反例。自然科学中科学解释的主导说明一直是因果说明：对一个科学事实给出解释，就是给出其原因或产生该事实的机制。过去二十年，科学中非因果解释的研究有重大贡献（致力于此问题的近期文集见 Reutlinger and Saatsi 2018）[^reutlinger-2018]。既然文献中讨论的许多非因果解释是数学解释，科学哲学的这一领域便被与科学解释本性相关的关切推动。
   - id: 115
     kind: body
     source: |-
       There are two major areas in which the discussion of whether mathematics can play an explanatory role in science makes itself felt. The first concerns issues of modeling and idealization in science and more generally, as pointed out above, the nature of scientific explanation. The second, concerns the nominalism-platonism debate. By and large the former area is a major concern to philosophers of science. The latter is the preoccupation of those philosophers of mathematics primarily concerned with issues of mathematical ontology. In the latter area one of the major focal points of the discussion have been on so-called ‘enhanced indispensability arguments’–for general accounts, see (Colyvan 2001, 2024; Panza and Sereni 2016; Paseau and Baker 2023)[^colyvan-2001][^panza-2016][^panza-2016-2][^paseau-2023]. There is actually a variety of classical indispensability arguments but the general structure of the argument runs as follows. One begins with the premise that mathematics is indispensable for our best science. But, second premise, we ought to believe our best theories. Thus, we ought to be committed to the kind of entities that our best theories quantify over. In general this is an argument in favor of Platonism, as our best science quantifies over mathematical entities. Several versions of the indispensability argument rely on a holistic conception of scientific theories according to which the ontological commitments of the theory is determined by looking at all the existential claims implied by the theory. However, no attention is paid to how the different parts of the theory might be responsible for different posits and to the different roles that the latter might play. Baker (2005) offers a version of the indispensability argument that does not depend on holism. Baker starts from a debate between Colyvan (2001, 2002) and Melia (2000, 2002) that saw both authors agreeing that the prospects for a successful platonist use of the indispensability argument rests on examples from scientific practice in which the postulation of mathematical objects results in an increase of those theoretical virtues which are provided by the postulation of theoretical entities. Both authors agree that among such theoretical virtues is explanatory power. Such explanations give a new twist to the indispensability argument. The argument now runs as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学能否在科学中扮演解释角色这一讨论，主要显现在两个领域。第一个关乎科学中的建模与理想化问题，以及如上所述更一般的科学解释的本性。第二个关乎唯名论—柏拉图主义之争。大体而言，前一领域是科学哲学家的主要关切；后者是主要关心数学存在论问题的数学哲学家的专注所在。在后一领域，讨论的主要焦点之一是所谓的“强化不可或缺性论证”——一般性说明见（Colyvan 2001, 2024; Panza and Sereni 2016; Paseau and Baker 2023）[^colyvan-2001][^panza-2016][^panza-2016-2][^paseau-2023]。经典的不可或缺性论证其实有多种，但其一般结构如下。前提一是：数学对我们的最佳科学不可或缺。前提二是：我们应当相信自己的最佳理论。于是，我们应当承诺于最佳理论所量谓的那类实体。一般而言，这是支持柏拉图主义的论证，因为我们的最佳科学量谓数学实体。不可或缺性论证的若干版本依赖整体论的科学理论观：理论的存在论承诺由考察理论所蕴涵的全部存在主张来确定。然而，理论的各个部分如何可能各自负责不同的设定物、这些设定物又可能扮演何种不同角色，却无人注意。Baker（2005）给出了一个不依赖整体论的不可或缺性论证版本。贝克从 Colyvan（2001, 2002）与梅利亚（Melia 2000, 2002）的论辩出发：两位作者都同意，柏拉图主义要成功使用不可或缺性论证，其希望系于这样一些来自科学实践的例子——数学对象的设定带来理论德性的增加，正如理论实体的设定所提供的那样。两位作者都同意，这类理论德性中有解释力。这类解释给不可或缺性论证带来新的转折。论证如今如下。
+    step2: |-
+      数学能否在科学中扮演解释角色这一讨论，主要显现在两个领域。第一个关乎科学中的建模与理想化问题，及如上所述更一般的科学解释本性。第二个关乎唯名论—柏拉图主义之争。大体而言，前一领域是科学哲学家的主要关切；后者是主要关心数学存在论问题的数学哲学家的专注所在。在后一领域，讨论的主要焦点之一是所谓“强化不可或缺性论证”——一般性说明见（Colyvan 2001, 2024; Panza and Sereni 2016; Paseau and Baker 2023）[^colyvan-2001][^panza-2016][^panza-2016-2][^paseau-2023]。经典的不可或缺性论证其实有多种，但其一般结构如下。前提一：数学对我们的最佳科学不可或缺。前提二：我们应当相信自己的最佳理论。于是，我们应当承诺于最佳理论所量谓的那类实体。一般而言，这是支持柏拉图主义的论证，因为我们的最佳科学量谓数学实体。不可或缺性论证的若干版本依赖整体论的科学理论观：理论的存在论承诺由考察理论所蕴涵的全部存在主张确定。然而，理论各部分如何可能各自负责不同设定物、这些设定物又可能扮演何种不同角色，却无人注意。Baker（2005）给出了一个不依赖整体论的版本。贝克从 Colyvan（2001, 2002）与梅利亚（Melia 2000, 2002）的论辩出发：两位作者都同意，柏拉图主义要成功使用不可或缺性论证，其希望系于这样一些来自科学实践的例子——数学对象的设定带来理论德性的增加，正如理论实体的设定所提供的那样。两位作者都同意，这类理论德性中有解释力。这类解释给不可或缺性论证带来新转折。论证如今如下。
   - id: 116
     kind: body
     source: |-
       1. There are genuinely mathematical explanations of empirical phenomena
       2. We ought to be committed to the theoretical posits postulated by such explanations; thus,
       3. We ought to be committed to the entities postulated by the mathematics in question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 存在关于经验现象的真正的数学解释
+      2. 我们应当承诺于此类解释所设定的理论设定物；因此，
+      3. 我们应当承诺于相关数学所设定的实体。
+    step2: |-
+      1. 存在关于经验现象的真正的数学解释
+      2. 我们应当承诺于此类解释所设定的理论设定物；因此，
+      3. 我们应当承诺于相关数学所设定的实体。
   - id: 117
     kind: body
     source: |-
       Baker (2005) provided the example of the prime period of the cicadas already introduced above, in an attempt to argue that in this particular case the role of the mathematics involved was clearly explanatory and not merely descriptive and thus that this type of explanation was exactly of the sort needed for an enhanced indispensability argument. The discussion since then has developed in many directions including attempts to characterize descriptive and explanatory roles of mathematics in the natural sciences, the discussion of many more cases of mathematical explanations (in physics, biology, medicine and the social sciences), the validity of the enhanced indispensability argument, the nature of inferences to the best explanation, and other issues. To provide the reader with a sense of the growth of the secondary literature in this area, it is enough to note that more than twenty articles discuss Baker’s cicada example directly.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Baker（2005）提供了上文已引入的蝉的素数周期例子，试图论证：在这个特定情形中，相关数学的角色显然是解释性的而不仅仅是描述性的，因此这类解释恰是强化不可或缺性论证所需要的那类。此后的讨论朝许多方向发展，包括刻画数学在自然科学中的描述与解释角色、讨论更多数学解释案例（物理学、生物学、医学与社会科学）、强化不可或缺性论证的有效性、最佳解释推理的本性，以及其他问题。为让读者感受这一领域二手文献的增长，只需指出：直接讨论贝克蝉例的文章超过二十篇。
+    step2: |-
+      Baker（2005）提供上文已引入的蝉素数周期例子，试图论证：在此特定情形中，相关数学的角色显然是解释性的而不仅是描述性的，因此这类解释恰是强化不可或缺性论证所需要的那类。此后讨论朝许多方向发展，包括刻画数学在自然科学中的描述与解释角色、讨论更多数学解释案例（物理学、生物学、医学与社会科学）、强化不可或缺性论证的有效性、最佳解释推理的本性等。为让读者感受这一领域二手文献的增长，只需指出：直接讨论贝克蝉例的文章超过二十篇。
   - id: 118
     kind: body
     source: |-
       Lyon and Colyvan 2008 also contains a much-discussed example from evolutionary biology. Why do hive-bee honeycombs have a hexagonal structure? The nature of the question is contrastive: why hexagonal as opposed to, say, any other polygonal figure or combination thereof? Part of the explanation depends on evolutionary facts. Bees that use less wax and thus spend less energy have a better chance at evolving via natural selection. The explanation is completed by pointing out that ‘any partition of the plane into regions of equal area has perimeter at least that of the regular hexagonal honeycomb tiling’. Thus, the hexagonal tiling is optimal with respect to dividing the plane into equal areas and minimizing the perimeter. This fact, known as the ‘honeycomb conjecture’ was proved in Hales 2001 (see also Hales 2000)[^hales-2000]. The explanation of the biological fact seems to depend essentially on a mathematical fact. Just like the cicada example, this case has been extensively discussed in the literature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Lyon and Colyvan 2008 还包含一个被广泛讨论的演化生物学例子。为什么蜜蜂的蜂巢呈六边形结构？这一问题的本性是比较性的：为什么是六边形，而不是比如说任何其他多边形图形或其组合？解释的一部分依赖演化事实：用蜡更少、耗能更少的蜜蜂，更有可能经自然选择演化出来。解释的完成，则靠指出“平面的任何等面积剖分，其周长至少不小于正六边形蜂窝铺砌”。因此，就等面积剖分平面并最小化周长而言，六边形铺砌是最优的。这一事实被称为“蜂巢猜想”，由 Hales 2001 证明（另见 Hales 2000）[^hales-2000]。对生物事实的解释似乎本质上依赖一个数学事实。与蝉例一样，这个案例也在文献中被广泛讨论。
+    step2: |-
+      Lyon and Colyvan 2008 还包含一个被广泛讨论的演化生物学例子。为什么蜜蜂的蜂巢呈六边形结构？这一问题的本性是比较性的：为什么是六边形，而非比如任何其他多边形图形或其组合？解释的一部分依赖演化事实：用蜡更少、耗能更少的蜜蜂，更有可能经自然选择演化出来。解释的完成则靠指出“平面的任何等面积剖分，其周长至少不小于正六边形蜂窝铺砌”。因此，就等面积剖分平面并最小化周长而言，六边形铺砌最优。这一事实称为“蜂巢猜想”，由 Hales 2001 证明（另见 Hales 2000）[^hales-2000]。对生物事实的解释似乎本质上依赖一个数学事实。与蝉例一样，此案例也在文献中被广泛讨论。
   - id: 119
     kind: body
     source: |-
       Let us now move to explanations within mathematics. Much mathematical activity is driven by factors other than justificatory aims such as establishing the truth of a mathematical fact. In many cases, mere knowledge that something is the case will be considered unsatisfactory and this will lead mathematicians to probe the situation further to look for better explanations of the facts. This might take the form of, just to give a few examples, providing alternative proofs for known results, giving an account for surprising analogies, or recasting an entire area of mathematics on a new basis in the pursuit of a more satisfactory ‘explanatory’ account of the area.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在转向数学内部的解释。许多数学活动的驱动因素并非确立某个数学事实为真这类辩护性目标。许多情形下，仅仅知道某事如此会被认为不令人满意，这会促使数学家进一步探查情形，寻找对事实的更好解释。这可能表现为：为已知结果提供另类证明、对出人意料的类比给出说明、或在新基础上重构整门数学以求对该领域更令人满意的“解释性”说明——仅举几例。
+    step2: |-
+      现在转向数学内部的解释。许多数学活动的驱动因素并非确立某数学事实为真这类辩护性目标。许多情形下，仅仅知道某事如此会被认为不满意，这促使数学家进一步探查情形，寻找对事实的更好解释。这可能表现为：为已知结果提供另类证明、对出人意料的类比给出说明、或在新基础上重构整门数学以求对该领域更满意的“解释性”说明——仅举几例。
   - id: 120
     kind: body
     source: |-
       An interesting case is that of Gregory Brumfiel, a real algebraic geometer. In his book “Partially ordered rings and semi-algebraic geometry” (1979), Brumfiel contrasts different methods for proving theorems about real closed fields. One method of proof consists in using a so-called transfer principle which allows one to infer the truth of a sentence for all real closed fields from its being true in one real closed field, say the real numbers. Despite the fact that the transfer principle is a very efficient tool, Brumfiel does not make any use of it, and he is very clear about this.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个有趣的案例是实代数几何学家格雷戈里·布鲁姆菲尔（Gregory Brumfiel）。在其著作《偏序环与半代数几何》（*Partially ordered rings and semi-algebraic geometry*，1979）中，布鲁姆菲尔对比了证明实闭域定理的不同方法。其中一种证明方法使用所谓的转移原理：从一个实闭域（比如实数）中某语句为真，推出它对所有实闭域为真。尽管转移原理是非常高效的工具，布鲁姆菲尔却完全不用它，对此他说得非常明白。
+    step2: |-
+      一个有趣的案例来自实代数几何学家格雷戈里·布鲁姆菲尔（Gregory Brumfiel）。在其著作《偏序环与半代数几何》（*Partially ordered rings and semi-algebraic geometry*，1979）中，布鲁姆菲尔对比证明实闭域定理的不同方法。其中一种证明方法使用所谓转移原理：从某语句在一个实闭域（比如实数）中为真，推出它对所有实闭域为真。尽管转移原理是非常高效的工具，布鲁姆菲尔却完全不用它，对此他说得非常明白。
   - id: 121
     kind: body
     source: |-
       > In this book we absolutely and unequivocally refuse to give proofs of this second type [the one relying on the transfer principle]. Every result is proved uniformly for all real closed ground fields. Our philosophical objection to transcendental proofs [those relying on the transfer principle] is that they may logically prove a result but they do not explain it, except for the special case of real numbers. (Brumfiel 1979, 166)[^brumfiel-1979]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在本书中，我们绝对而毫不含糊地拒绝给出第二类证明〔依赖转移原理的那类〕。每个结果都一致地对所有实闭基域加以证明。我们对超越证明〔依赖转移原理的那些〕的哲学异议是：它们或许在逻辑上证明了一个结果，却并不解释它——实数这个特殊情形除外。（Brumfiel 1979, 166）[^brumfiel-1979]
+    step2: |-
+      > 在本书中，我们绝对而毫不含糊地拒绝给出第二类证明〔依赖转移原理的那类〕。每个结果都一致地对所有实闭基域加以证明。我们对超越证明〔依赖转移原理的那些〕的哲学异议是：它们或许在逻辑上证明了一个结果，却不解释它——实数这个特殊情形除外。（Brumfiel 1979, 166）[^brumfiel-1979]
   - id: 122
     kind: body
     source: |-
       Brumfiel prefers a third proof method which aims at giving non transcendental proofs of purely algebraic results. This does not mean that he restricts himself to just elementary methods; he does use stronger tools but it is crucial that they apply uniformly to all real closed fields. For an analysis of Brumfiel’s explanatory program see (Hafner and Mancosu 2008)[^hafner-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布鲁姆菲尔偏爱第三种证明方法，它旨在给出纯代数结果的非超越证明。这并不意味着他把自己限制在初等方法上；他确实使用更强的工具，但关键是这些工具一致地适用于所有实闭域。对布鲁姆菲尔解释性纲领的分析，见（Hafner and Mancosu 2008）[^hafner-2008]。
+    step2: |-
+      布鲁姆菲尔偏爱第三种证明方法，旨在给出纯代数结果的非超越证明。这并不意味着他把自己限于初等方法；他确实使用更强的工具，但关键是这些工具一致地适用于所有实闭域。对布鲁姆菲尔解释性纲领的分析，见（Hafner and Mancosu 2008）[^hafner-2008]。
   - id: 123
     kind: body
     source: |-
       The above example is one in which an entire area of mathematics is organized favoring certain proofs (which, according to the author, possess explanatory virtue) over others (which lack explanatory virtue). One could easily provide myriads of statements by mathematicians contrasting explanatory and non-explanatory proofs of the same theorem or explanatory talk applied other aspects of mathematics that do not reduce to proofs. We will only provide one more example taken from a book by Mordell where dissatisfaction for the lack of explanatoriness of certain Euclidean proofs is at stake:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上面的例子中，数学的一个完整领域被组织得偏爱某些证明（按作者的看法，它们具有解释德性）而不偏爱另一些证明（缺乏解释德性）。数学家对比同一定理的解释性与非解释性证明、或把解释性谈论用于证明之外的其他数学面向的陈述，可以轻易举出无数条。我们只再提供一个例子，取自莫德尔的一本书，其中萦绕着对某些欧几里得证明缺乏解释性的不满：
+    step2: |-
+      上面的例子中，数学的一个完整领域被组织得偏爱某些证明（按作者的看法，它们具有解释德性）而不偏爱另一些（缺乏解释德性）。数学家对比同一定理的解释性与非解释性证明、或把解释性谈论用于证明之外的其他数学面向的陈述，可轻易举出无数条。我们只再提供一个例子，取自莫德尔的一本书，其中萦绕着对某些欧几里得证明缺乏解释性的不满：
   - id: 124
     kind: body
     source: |-
       > Even when a proof has been mastered, there may be a feeling of dissatisfaction with it, though it may be strictly logical and convincing; such as, for example, the proof of a proposition in Euclid. The reader may feel that something is missing. The argument may have been presented in such a way as to throw no light on the why and wherefore of the procedure or on the origin of the proof or why it succeeds. (1959, 11)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 即便一个证明已被掌握，人们仍可能对它有一种不满之感——尽管它可能严格合乎逻辑且有说服力；例如欧几里得某个命题的证明。读者可能觉得缺了点什么。论证的呈现方式，可能对这一做法的所以然、对证明的来历、或对它为何成功，都不予说明。（1959, 11）
+    step2: |-
+      > 即便一个证明已被掌握，人们仍可能对它有不满之感——尽管它可能严格合乎逻辑且有说服力；例如欧几里得某个命题的证明。读者可能觉得缺了点什么。论证的呈现方式，可能对这一做法的所以然、对证明的来历、或对它为何成功，都不予说明。（1959, 11）
   - id: 125
     kind: body
     source: |-
       This sense of dissatisfaction will often lead to a search for a more satisfactory proof. Mathematicians appeal to this phenomenon often enough. While early work in the area (see Sandborg 1997 and Hafner and Mancosu 2005)[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997] had attempted to sample the variety of mathematical explanations and the extent of their recognition in mathematical practice by limited search tools, a combination of experimental philosophy (Pease, Aberdein, and Martin 2019) and application of AI using large language models (D’Alessandro forthcoming; Meja-Ramos et al. 2019)[^meja-ramos-2019] have recently been deployed to map in more systematical ways the extent of explanatory talk both in the making of mathematics (the ‘back’ of mathematics) as well as in the final outcome of such research (the ‘front’ of mathematics).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种不满感常常引向对更令人满意的证明的追寻。数学家诉诸这一现象的次数足够多。该领域的早期工作（见 Sandborg 1997 与 Hafner and Mancosu 2005）[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997]曾尝试用有限的检索工具，抽样数学解释的多样性及其在数学实践中被认可的程度；近来则部署了实验哲学（Pease, Aberdein, and Martin 2019）与使用大语言模型的 AI 应用（D’Alessandro forthcoming; Meja-Ramos et al. 2019）[^meja-ramos-2019]的组合，以更系统的方式测绘解释性谈论的范围——既在数学的制作过程中（数学的“后台”），也在这类研究的最终产物中（数学的“前台”）。
+    step2: |-
+      这种不满感常引向对更令人满意的证明的追寻。数学家诉诸这一现象的次数足够多。该领域早期工作（见 Sandborg 1997 与 Hafner and Mancosu 2005）[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997]曾尝试用有限的检索工具，抽样数学解释的多样性及其在数学实践中被认可的程度；近来则部署了实验哲学（Pease, Aberdein, and Martin 2019）与使用大语言模型的 AI 应用（D’Alessandro forthcoming; Meja-Ramos et al. 2019）[^meja-ramos-2019]的组合，以更系统的方式测绘解释性谈论的范围——既在数学的制作过程中（数学的“后台”），也在其最终产物中（数学的“前台”）。
   - id: 126
     kind: body
     source: |-
       Mathematical explanations of mathematical facts have a distinguished pedigree as they are already singled out by Aristotle in his distinction between ‘proof of the fact’ and ‘proof of the reasoned fact’. The distinction played a role in the development of the philosophy of mathematics and is still at the core of the accounts of philosophy of mathematics propounded by Bolzano and Cournot, two major philosophers of mathematics in the nineteenth century. They construe the central problem of philosophy of mathematics as that of accounting for the distinction between explanatory and nonexplanatory demonstrations. In the case of Bolzano this takes the form of a theory of Grund (ground) and Folge (consequence). Kitcher (1975) was the first to read Bolzano as articulating a theory of mathematical explanation. In the case of Cournot this is spelled out in terms of the opposition between “ordre logique” and “ordre rationnel” (see Cournot 1851; Mancosu 1999)[^cournot-1851][^mancosu-1999]. In Bolzano’s case, the aim of providing a reconstruction of parts of analysis and geometry, so that the exposition would use only “explanatory” proofs, also led to major mathematical results, such as his purely analytic proof of the intermediate value theorem. There is another tradition of thinking of explanation in mathematics that includes Mill, Lakatos, Russell and Gödel. These authors are motivated by a conception of mathematics (and/or its foundations) as hypothetico-deductive in nature and this leads them to construe mathematical activity in analogy with how explanatory hypotheses occur in science (see Mancosu 2001 for more details)[^mancosu-2001].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学事实的数学解释有着显赫的谱系：亚里士多德在其“事实之证明”与“有理据之事实的证明”的区分中已把它们单独挑出。这一区分在数学哲学的发展中扮演过角色，至今仍是 19 世纪两位数学哲学大家——波尔查诺与古尔诺——所提数学哲学说明的核心。他们把数学哲学的中心问题构想为：说明解释性论证与非解释性论证之间的区分。就波尔查诺而言，这采取根据（Grund）与后承（Folge）的理论形态。基切尔（1975）第一个把波尔查诺读作在阐明一种数学解释理论。就古尔诺而言，这以“逻辑秩序”（ordre logique）与“理性秩序”（ordre rationnel）的对立来表述（见 Cournot 1851; Mancosu 1999）[^cournot-1851][^mancosu-1999]。就波尔查诺而言，重构部分分析与几何、使阐述只使用“解释性”证明的目标，也带来了重大数学成果，如他对介值定理的纯分析证明。还有另一个思考数学中解释的传统，包括密尔、拉卡托斯、罗素与哥德尔。这些作者的动机是一种把数学（和/或其基础）设想为假说演绎性质的概念，这使他们把数学活动类比为解释性假说在科学中出现的方式（更多细节见 Mancosu 2001）[^mancosu-2001]。
+    step2: |-
+      数学事实的数学解释有显赫谱系：亚里士多德在其“事实之证明”与“有理据之事实的证明”的区分中已把它们单独挑出。这一区分在数学哲学的发展中扮演过角色，至今仍是 19 世纪两位数学哲学大家——波尔查诺与古尔诺——所提数学哲学说明的核心。他们把数学哲学的中心问题构想为：说明解释性论证与非解释性论证之间的区分。就波尔查诺而言，这采取根据（Grund）与后承（Folge）的理论形态。基切尔（1975）第一个把波尔查诺读作在阐明数学解释理论。就古尔诺而言，这以“逻辑秩序”（ordre logique）与“理性秩序”（ordre rationnel）的对立来表述（见 Cournot 1851; Mancosu 1999）[^cournot-1851][^mancosu-1999]。就波尔查诺而言，重构部分分析与几何、使阐述只用“解释性”证明的目标，也带来重大数学成果，如他对介值定理的纯分析证明。另有思考数学中解释的另一传统，包括密尔、拉卡托斯、罗素与哥德尔。这些作者的动机是把数学（和/或其基础）设想为假说演绎性质，这使他们把数学活动类比为解释性假说在科学中出现的方式（更多细节见 Mancosu 2001）[^mancosu-2001]。
   - id: 127
     kind: body
     source: |-
       There are several accounts on offer of mathematical explanation and it is not possible here to list them all or in any detail. Various classification schemes can also be used to classify such accounts. For instance, Chris Pincock (2023) uses the opposition between monism (mathematical explanations can be reduced to a single explanatory relevance relation) and pluralism (mathematical explanations display a multiplicity of explanatory relevance relations) as the watershed for classifying the major accounts on offer, but other criteria are also possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现有的数学解释说明有多个，无法在此一一列举或详述。还可以用各种分类方案来给这些说明分类。例如，克里斯·平科克（Chris Pincock）（2023）以一元论（数学解释可还原为单一的解释性关联关系）与多元论（数学解释呈现多重解释性关联关系）的对立作为给现有主要说明分类的分水岭，但其他标准也是可能的。
+    step2: |-
+      现有的数学解释说明有多个，无法在此一一列举或详述。还可用各种分类方案给这些说明分类。例如克里斯·平科克（Chris Pincock）（2023）以一元论（数学解释可还原为单一解释性关联关系）与多元论（数学解释呈现多重解释性关联关系）的对立为分水岭给现有主要说明分类，但其他标准也可能。
   - id: 128
     kind: body
     source: |-
       Among the major accounts are those of Steiner (1978), Kitcher (1989), Lange (2017), and Pincock (2015a, 2015b, 2025). A variety of counterfactual accounts have also been proposed in the last decade (by, among others, Reutlinger, Baron, Colyvan, Ripley, and Povich; for a critical survey of the counterfactual accounts see the extended discussion in Chapter 1 of Pincock 2023)[^pincock-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主要说明中有斯坦纳（1978）、基切尔（1989）、兰格（Lange 2017）与平科克（2015a, 2015b, 2025）的方案。过去十年还提出了多种反事实说明（提出者除其他人外有 Reutlinger、Baron、Colyvan、Ripley 与 Povich；对反事实说明的批判性综述见 Pincock 2023 第 1 章的扩展讨论）[^pincock-2023]。
+    step2: |-
+      主要说明中有斯坦纳（1978）、基切尔（1989）、兰格（Lange 2017）与平科克（2015a, 2015b, 2025）的方案。过去十年还提出多种反事实说明（提出者有 Reutlinger、Baron、Colyvan、Ripley 与 Povich 等；对反事实说明的批判性综述见 Pincock 2023 第 1 章的扩展讨论）[^pincock-2023]。
   - id: 129
     kind: body
     source: |-
       Another point is the relationship between explanation and understanding. While nobody denies that explanation is connected to understanding, some scholars have been trying to characterize explanation in terms of understanding and have developed so-called *epistemic* accounts of mathematical explanation (see Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023; for a critique of such approaches, see Chudnoff and De Toffoli 2025. See also Lehet 2021b; D’Alessandro and Lehet 2024)[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一点是解释与理解的关系。虽然无人否认解释与理解相连，一些学者却试图用理解来刻画解释，并发展出所谓数学解释的 *认知* 说明（见 Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023；对此类进路的批评见 Chudnoff and De Toffoli 2025。另见 Lehet 2021b; D’Alessandro and Lehet 2024）[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b]。
+    step2: |-
+      另一点是解释与理解的关系。虽无人否认解释与理解相连，一些学者却试图用理解刻画解释，并发展出所谓数学解释的 *认知* 说明（见 Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023；对此类进路的批评见 Chudnoff and De Toffoli 2025。另见 Lehet 2021b; D’Alessandro and Lehet 2024）[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b]。
   - id: 130
     kind: body
     source: |-
       ### 3.3 Mathematical Rigor
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 数学的严格性
+    step2: |-
+      ### 3.3 数学的严格性
   - id: 131
     kind: body
     source: |-
       Rigor is perhaps the most paradigmatic of the epistemic virtues associated with mathematical proof. Proofs should be rigorous. More than that, a putative proof that is not rigorous is not a genuine proof, so proofs *must* be rigorous. To call a proof rigorous means that it successfully establishes that its conclusion follows from its premises through acceptable deductive steps. Rigorous proofs are contrasted with proof sketches, flawed arguments, and mere plausibility claims. As with other epistemic virtues, rigor admits of a process/product ambiguity: one may say that a mathematician proceeds rigorously, or that a proof or theory is itself rigorous. We will focus on the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格性也许是与数学证明相连的认知德性中最典范的一个。证明应当严格。不止于此：一个不严格的候选证明不是真正的证明，所以证明 *必须* 严格。称一个证明严格，意思是它成功地确立其结论经可接受的演绎步骤从前提推出。严格的证明与证明梗概、有缺陷的论证和单纯的可信性断言形成对照。与其他认知德性一样，严格性也有过程/产物歧义：可以说数学家行进得严格，也可以说证明或理论本身是严格的。我们聚焦后者。
+    step2: |-
+      严格性也许是与数学证明相连的认知德性中最典范的一个。证明应当严格。不止如此：不严格的候选证明不是真正的证明，所以证明 *必须* 严格。称一个证明严格，意思是它成功确立其结论经可接受的演绎步骤从前提推出。严格的证明与证明梗概、有缺陷的论证和单纯可信性断言相对照。与其他认知德性一样，严格性也有过程/产物歧义：可说数学家行进得严格，也可说证明或理论本身是严格的。我们聚焦后者。
   - id: 132
     kind: body
     source: |-
       While mathematicians are generally satisfied with being able to recognize rigorous proofs, the main philosophical challenge around rigor is to provide a clear characterization of it. Historically, rigor has been implemented in different ways. With its axiomatic structure, Euclidean geometry strived for an ideal of rigor where all primitive objects were defined in advance and all propositions were deduced from other propositions, going back to the postulates. A relaxation of this ideal was introduced with the development of the calculus in the 18ᵗʰ century. This relaxation involved the use of unreliable methods, such as those involving infinitesimals and infinite series. This gave rise to a counter-tendency, known as the “rigorization” or “arithmetization” of analysis, which implied, for instance, a ban on intuitive reasoning in analysis (Hahn 1980; Burgess 2015)[^burgess-2015][^hahn-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学家一般满足于能够识别严格的证明，而围绕严格性的主要哲学挑战，是给出它的清晰刻画。历史上，严格性曾以不同方式落实。凭借公理化结构，欧几里得几何追求一种严格性理想：所有原始对象预先定义，所有命题从其他命题推出，回溯到公设。这一理想在 18 世纪微积分的发展中出现了松弛。这种松弛涉及不可靠方法的使用，如涉及无穷小量与无穷级数的方法。由此产生了一个反向趋势，即分析的“严格化”或“算术化”，例如它意味着在分析中禁止直观推理（Hahn 1980; Burgess 2015）[^burgess-2015][^hahn-1980]。
+    step2: |-
+      数学家一般满足于能识别严格的证明，而围绕严格性的主要哲学挑战是给出其清晰刻画。历史上，严格性曾以不同方式落实。凭公理化结构，欧几里得几何追求一种严格性理想：所有原始对象预先定义，所有命题从其他命题推出，回溯到公设。这一理想在 18 世纪微积分发展中出现松弛。这种松弛涉及不可靠方法的使用，如涉及无穷小量与无穷级数的方法。由此产生反向趋势，即分析的“严格化”或“算术化”，例如它意味着在分析中禁止直观推理（Hahn 1980; Burgess 2015）[^burgess-2015][^hahn-1980]。
   - id: 133
     kind: body
     source: |-
       Even if we can talk about mathematical rigor before the rigorization of analysis that culminated at the beginning of the 20ᵗʰ century, the problem surrounding mathematical rigor that we face today has clearer contours than its historical counterparts and can only be stated with the aid of modern logic. From the standpoint of logic, rigor guarantees that the premises of an argument logically imply its conclusion. It is through breakthroughs in logic in the 1920s and 30s that the semantic conception of logical implication was linked to syntactic notions of deducibility. Gödel proved his completeness theorem in 1929. By the 1940s, it was widely accepted that any rigorously established modern mathematical result admits a formal derivation from the axioms of set theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便我们能在 20 世纪初达到顶点的分析严格化之前谈数学严格性，今天我们所面对的数学严格性问题也比其历史对应物轮廓更清晰，且只能借助现代逻辑来陈述。从逻辑的立场看，严格性保证论证的前提逻辑蕴涵其结论。正是通过 1920 与 1930 年代逻辑的突破，逻辑蕴涵的语义概念才与可演绎性的句法概念联系起来。哥德尔于 1929 年证明了完备性定理。到 1940 年代，人们已普遍接受：任何严格确立的现代数学结果都可以从集合论公理得到形式推导。
+    step2: |-
+      即便能在 20 世纪初达到顶点的分析严格化之前谈数学严格性，今天所面对的数学严格性问题也比其历史对应物轮廓更清晰，且只能借助现代逻辑陈述。从逻辑立场看，严格性保证论证的前提逻辑蕴涵其结论。正是通过 1920 与 1930 年代逻辑的突破，逻辑蕴涵的语义概念才与可演绎性的句法概念联系起来。哥德尔于 1929 年证明完备性定理。到 1940 年代，人们已普遍接受：任何严格确立的现代数学结果都可从集合论公理得到形式推导。
   - id: 134
     kind: body
     source: |-
       Through these results, one major aspect of the contemporary problem of rigor can be articulated as a problem about the relationship between informal proofs, which are the common currency among mathematicians, and formal proofs, or derivations in a specific formal system, that are the logicians’ ideal of proof. Or, even more precisely, about the relationship between informal and formal provability (Leitgeb 2009)[^leitgeb-2009]. The question is: how can informal proofs guarantee the existence of formal proofs without being one? That is: how can the perspective of the working mathematicians match that of logicians?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经由这些结果，当代严格性问题的一个重要面向可以被表述为：非形式证明（数学家之间的通用通货）与形式证明（特定形式系统中的推导，逻辑学家的证明理想）之间的关系问题。或者更准确地说，是非形式可证性与形式可证性之间的关系问题（Leitgeb 2009）[^leitgeb-2009]。问题是：非形式证明如何能保证形式证明存在而不必就是形式证明？也就是说：工作中的数学家的视角如何与逻辑学家的视角相匹配？
+    step2: |-
+      经由这些结果，当代严格性问题的一个重要面向可表述为：非形式证明（数学家间的通用通货）与形式证明（特定形式系统中的推导，逻辑学家的证明理想）之间的关系问题。或更准确说，是非形式可证性与形式可证性之间的关系问题（Leitgeb 2009）[^leitgeb-2009]。问题是：非形式证明如何能保证形式证明存在而不必就是形式证明？也即：工作中数学家的视角如何与逻辑学家的视角相匹配？
   - id: 135
     kind: body
     source: |-
       From the perspective of working mathematicians, informal proofs are sufficient to establish a mathematical proposition. This does not mean that mathematicians do not believe that a formal derivation of such a proposition does not exist, but simply that the criteria of acceptability for proofs often do not depend on formal proofs:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从工作数学家的视角看，非形式证明足以确立一个数学命题。这并不意味着数学家不相信此类命题的形式推导不存在，而只是说，证明的可接受性标准往往不依赖形式证明：
+    step2: |-
+      从工作数学家的视角看，非形式证明足以确立一个数学命题。这不是说数学家不相信此类命题的形式推导存在，而只是说，证明的可接受性标准往往不依赖形式证明：
   - id: 136
     kind: body
     source: |-
       > In some cases, mathematicians don’t accept a proof because it is formalizable; they accept a proof for other reasons (e.g., visualizations they know to be reliable), and then they infer that it is formalizable. (De Toffoli 2021b, 1787)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在某些情形下，数学家接受一个证明并不是因为它可形式化；他们因别的理由接受证明（例如他们知道可靠的 visualization），然后才推断它是可形式化的。（De Toffoli 2021b, 1787）
+    step2: |-
+      > 在某些情形下，数学家接受一个证明并不是因为它可形式化；他们因别的理由接受证明（例如他们知道可靠的 visualization），然后才推断它是可形式化的。（De Toffoli 2021b, 1787）
   - id: 137
     kind: body
     source: |-
       That is, correctness is equated to formalizability, but the latter is not used as evidence – it is rather a consequence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，正确性被等同于可形式化，但后者并不被当作证据——它反倒是结论：
+    step2: |-
+      也就是说，正确性被等同于可形式化，但后者并不被当作证据——它反倒是结论：
   - id: 138
     kind: body
     source: |-
       > [W]e do not need to invoke formal verification for empirical support. Mathematical disputes over the correctness of a proof generally hinge on the complexity of the argument and the difficulty of filling in the details, not on the correctness of any single, atomic inference. In practice, mathematicians generally expect that if a step in a proof is correct, it can be spelled out in detail, reducing it to inferences that are mathematically immediate. And we have seen enough logic by now to know that such inferences are generally amenable to formalization. (Avigad 2021, 3–4)[^avigad-2021]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们不需要为经验支持援引形式验证。关于证明正确性的数学争论，一般取决于论证的复杂性与补全细节的难度，而不取决于任何单个原子推理的正确性。实践中，数学家一般预期：证明中的一步若正确，就可以详细展开，把它还原为数学上直接的推理。我们如今已见过足够多的逻辑，知道这类推理一般是可以形式化的。（Avigad 2021, 3–4）[^avigad-2021]
+    step2: |-
+      > 我们不需要为经验支持援引形式验证。关于证明正确性的数学争论，一般取决于论证的复杂性与补全细节的难度，而非任何单个原子推理的正确性。实践中，数学家一般预期：证明中的一步若正确，就可详细展开，把它还原为数学上直接的推理。我们如今已见过足够多的逻辑，知道这类推理一般可形式化。（Avigad 2021, 3–4）[^avigad-2021]
   - id: 139
     kind: body
     source: |-
       Even if formalizability is not often used as support, evidence that formalization is impossible is generally taken as evidence that a result cannot be proven *tout court* (for a contrary opinion, see Weatherall and Wolfson forthcoming). Consider the independence results; everyone agrees that mathematicians would waste their time trying to prove the Continuum Hypothesis using conventional means. This holds more generally. Evidence of non-formalizability is evidence that something has gone awry:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便可形式化不常被用作支持，形式化不可能的证据一般也被当作一个结果根本无法证明的证据（相反意见见 Weatherall and Wolfson 即出）。考虑独立性结果：人人都同意，数学家用常规手段去证连续统假设是浪费时间。这一点可以推广。不可形式化的证据就是出了问题的证据：
+    step2: |-
+      即便可形式化不常被用作支持，形式化不可能的证据一般也被当作一个结果根本无法证明的证据（相反意见见 Weatherall and Wolfson 即出）。考虑独立性结果：人人都同意，数学家用常规手段证连续统假设是浪费时间。这一点可推广。不可形式化的证据就是出了问题的证据：
   - id: 140
     kind: body
     source: |-
       > should it become clear that the implications (of assumptions to conclusion) of an informal proof cannot be replicated by a formal analogue, the status of that informal proof as a successful proof will be rejected. (Azzouni 2009, 14)[^azzouni-2009]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一旦非形式证明的（从前提到结论的）蕴涵无法被形式对应物复现变得清楚，该非形式证明作为成功证明的地位就将被拒斥。（Azzouni 2009, 14）[^azzouni-2009]
+    step2: |-
+      > 一旦非形式证明的（从前提到结论的）蕴涵无法被形式对应物复现变得清楚，该非形式证明作为成功证明的地位就将被拒斥。（Azzouni 2009, 14）[^azzouni-2009]
   - id: 141
     kind: body
     source: |-
       And formalizability, or at least partial formalizability, has also been invoked to explain the extraordinary consensus that contemporary mathematicians enjoy. According to Wagner (2022), historically, mathematical consensus on the validity of proof was much less widespread. The current robust agreement is a modern development, consolidating around the turn of the 20ᵗʰ century. Wagner proposes that this modern consensus is best explained not by the ubiquitous use of full formalizations – which are rare – but by formalization acting as a sort of hierarchical court of appeal for resolving disputes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可形式化——至少部分可形式化——也被用来解释当代数学家所享有的非同寻常的共识。按瓦格纳（Wagner 2022），历史上关于证明有效性的数学共识远不那么普遍。眼下这种稳固一致是现代的发展，在 20 世纪之交前后定型。瓦格纳提出，这一现代共识的最佳解释，不是全形式化的普遍使用——那很罕见——而是形式化充当了一种解决争端的层级上诉法庭。
+    step2: |-
+      可形式化——至少部分可形式化——也被用来解释当代数学家享有的非同寻常的共识。按瓦格纳（Wagner 2022），历史上关于证明有效性的数学共识远不那么普遍。眼下这种稳固一致是现代的发展，在 20 世纪之交前后定型。瓦格纳提出，这一现代共识的最佳解释，不是全形式化的普遍使用——那很罕见——而是形式化充当一种解决争端的层级上诉法庭。
   - id: 142
     kind: body
     source: |-
       Let’s take stock. Mathematicians generally accept the perspective of logicians in thinking that a formal counterpart of their informal proof must exist, at least in principle. They also use partial formalizations to resolve disputes. The contemporary philosophical problem of rigor then concerns how to put together these two perspectives on proof: that of the working mathematicians and that offered by logicians. In other words, it is about the connection between traditional, or informal proofs, and derivations in formal systems, or formal proofs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      小结一下。数学家一般接受逻辑学家的视角，认为其非形式证明的形式对应物必然存在，至少原则上如此。他们也用部分形式化解决争端。当代严格性的哲学问题于是关乎如何把这两种证明视角放在一起：工作数学家的视角与逻辑学家给出的视角。换句话说，它关乎传统的即非形式的证明与形式系统中的推导即形式证明之间的联系。
+    step2: |-
+      小结。数学家一般接受逻辑学家的视角，认为其非形式证明的形式对应物必然存在，至少原则上如此。他们也用部分形式化解决争端。当代严格性的哲学问题于是关乎如何把两种证明视角放在一起：工作数学家的视角与逻辑学家的视角。换句话说，它关乎传统的即非形式的证明与形式系统中的推导即形式证明之间的联系。
   - id: 143
     kind: body
     source: |-
       According to what is often called the “Standard View,” a mathematical proof is rigorous if and only if it can be translated into a formal derivation in some canonical deductive system. This, however, is a family of views rather than a single position (see Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024)[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]. What does it mean exactly, “translated”? Philosophers of mathematical practice have often emphasized the distance between formal and informal proofs, thus challenging the Standard View or at least some of its strict interpretations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按常被称作“标准观点”的看法，一个数学证明是严格的，当且仅当它能被翻译成某个典范演绎系统中的形式推导。然而，这是一族观点而非单一立场（见 Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024）[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]。“翻译”究竟是什么意思？数学实践哲学家常常强调形式证明与非形式证明之间的距离，从而挑战标准观点、或至少挑战其某些严格的解读。
+    step2: |-
+      按常被称作“标准观点”的看法，一个数学证明是严格的，当且仅当它能被翻译成某个典范演绎系统中的形式推导。然而这是一族观点而非单一立场（见 Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024）[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]。“翻译”究竟是什么意思？数学实践哲学家常强调形式证明与非形式证明之间的距离，从而挑战标准观点、或至少其某些严格解读。
   - id: 144
     kind: body
     source: |-
       In the last century, the Standard View has been popularized by Bourbaki and was explicitly endorsed by Mac Lane:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上个世纪，标准观点经布尔巴基而流行，并得到麦克莱恩（Mac Lane）的明确背书：
+    step2: |-
+      上个世纪，标准观点经布尔巴基流行，并得到麦克莱恩（Mac Lane）的明确背书：
   - id: 145
     kind: body
     source: |-
       > A Mathematical proof is rigorous when it is (or could be) written out in the first order predicate language […] In practice, a proof is a sketch, in sufficient detail to make possible a routine translation of this sketch into a formal proof. (Mac Lane 1986, 377)[^mac-1986]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个数学证明是严格的，当它（或能够）用一阶谓词语言写出……在实践中，证明是一个梗概，其细节足够充分，使把这个梗概按例行程序翻译成形式证明成为可能。（Mac Lane 1986, 377）[^mac-1986]
+    step2: |-
+      > 一个数学证明是严格的，当它（或能够）用一阶谓词语言写出……实践中，证明是一个梗概，其细节足够充分，使把该梗概按例行程序翻译成形式证明成为可能。（Mac Lane 1986, 377）[^mac-1986]
   - id: 146
     kind: body
     source: |-
       Hamami (2022) critically assesses the origins of the Standard View and further develops the idea of “routine translation.” In his view, this can be decomposed into a three-stage algorithmic procedure: (i) make the informal argument explicit at a “higher-level,” (ii) unpack those higher-level moves into more basic steps, and (iii) formalize those basic steps in a suitable system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      哈马米（Hamami 2022）批判性地评估了标准观点的起源，并进一步发展“例行翻译”的观念。在他看来，它可以分解为三阶段的算法程序：（i）在“更高层次”上使非形式论证显明；（ii）把那些高层次动作拆解为更基本的步骤；（iii）在合适的系统中形式化那些基本步骤。
+    step2: |-
+      哈马米（Hamami 2022）批判性评估标准观点的起源，并进一步发展“例行翻译”观念。在他看来，它可分解为三阶段算法程序：（i）在“更高层次”上使非形式论证显明；（ii）把高层次动作拆解为更基本的步骤；（iii）在合适的系统中形式化那些基本步骤。
   - id: 147
     kind: body
     source: |-
       Recent concrete efforts towards the formalization of mathematics with the aid of *Interactive Theorem Provers* (e.g., Lean, Coq, Isabelle) align well with the Standard View. Interactive Theorem Provers are software that help mathematicians create formal proofs from their informal arguments. Some of the proponents of these tools are even thinking that mathematical practice is about to face a new rigorization trend driven by emerging technologies that are going to make formalization much easier than before (Avigad 2024; Buzzard 2024; see also De Toffoli 2024; Granville 2024; Harris 2024 for philosophical discussions)[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]. The dream of some scholars involved in the formalization of mathematics is to develop reliable auto-formalization systems that combine traditional symbolic methods with neural AI (Wu et al. 2022).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近来借助 *交互式定理证明器*（如 Lean、Coq、Isabelle）对数学进行形式化的具体努力，与标准观点颇为吻合。交互式定理证明器是帮助数学家从其非形式论证构造形式证明的软件。这些工具的一些支持者甚至认为，数学实践即将面对一场新的严格化潮流，由使形式化比以往容易得多的新兴技术驱动（Avigad 2024; Buzzard 2024；哲学讨论另见 De Toffoli 2024; Granville 2024; Harris 2024）[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]。参与数学形式化的部分学者的梦想，是发展可靠的自形式化系统，把传统符号方法与神经 AI 结合起来（Wu et al. 2022）。
+    step2: |-
+      近来借助 *交互式定理证明器*（如 Lean、Coq、Isabelle）对数学进行形式化的具体努力，与标准观点颇为吻合。交互式定理证明器是帮数学家从其非形式论证构造形式证明的软件。这些工具的一些支持者甚至认为，数学实践即将面对一场新的严格化潮流，由使形式化比以往容易得多的新兴技术驱动（Avigad 2024; Buzzard 2024；哲学讨论另见 De Toffoli 2024; Granville 2024; Harris 2024）[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]。参与数学形式化的部分学者的梦想，是发展可靠的自形式化系统，把传统符号方法与神经 AI 结合起来（Wu et al. 2022）。
   - id: 148
     kind: body
     source: |-
       An early proponent of the Standard View is Steiner (1975), who claims that to get to a formal proof we can start from an informal proof and proceed simply by “filling in the gaps.” This strict interpretation of the connection between formal and informal proofs, however, poses some problems with respect to the use of representations and diagrams (De Toffoli and Giardino 2016; Larvor 2012)[^larvor-2012], an issue we turn to in the next section. Burgess (2015) develops a more moderate version of the Standard View.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      标准观点的早期支持者是斯坦纳（1975），他主张要得到形式证明，我们可以从非形式证明出发，径直“填补空隙”。然而，形式证明与非形式证明之间联系的这一严格解读，在表征与图形的使用上带来一些问题（De Toffoli and Giardino 2016; Larvor 2012）[^larvor-2012]，这是下一节的话题。伯吉斯（Burgess 2015）发展了标准观点的一个较温和版本。
+    step2: |-
+      标准观点的早期支持者是斯坦纳（1975），他主张要得到形式证明，可从非形式证明出发，径直“填补空隙”。然而，形式证明与非形式证明之间联系的这一严格解读，在表征与图形的使用上带来一些问题（De Toffoli and Giardino 2016; Larvor 2012）[^larvor-2012]，此为下一节话题。伯吉斯（Burgess 2015）发展了标准观点的较温和版本。
   - id: 149
     kind: body
     source: |-
       Some philosophers of mathematical practice felt the need to oppose the Standard View because they thought that it threatened to *reduce* informal proofs to formal proof (in the same way that, according to some, mathematics was “reduced” to set theory). However, it is not clear whether proponents of the Standard View have this aim in mind. In any case, looking at the practice of mathematics, it is clear that informal proofs achieve much more than the justification of a particular result and cannot be reduced to derivations. This is an aspect that has been highlighted by philosophers of mathematical practice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些数学实践哲学家觉得有必要反对标准观点，因为他们认为它威胁把非形式证明 *还原* 为形式证明（如同在一些人看来数学被“还原”为集合论那样）。不过，标准观点的支持者是否有此意图并不清楚。无论如何，看看数学实践就会发现：非形式证明所达成的远不止对特定结果的辩护，也无法被还原为推导。数学实践哲学家突出了这一面向。
+    step2: |-
+      一些数学实践哲学家觉得有必要反对标准观点，因为他们认为它威胁把非形式证明 *还原* 为形式证明（如同在一些人看来数学被“还原”为集合论那样）。不过标准观点的支持者是否有此意图并不清楚。无论如何，看看数学实践就会发现：非形式证明所达成的远不止对特定结果的辩护，也无法被还原为推导。数学实践哲学家突出了这一面向。
   - id: 150
     kind: body
     source: |-
       It is in this context that, at the turn of the last century, a debate was carried out in a series of papers between Azzouni and Rav. By focusing on different functions of proofs, Rav (1999, 2007) put forward an account according to which proofs cannot be reduced to formal derivations. Contra Rav, Azzouni (2004a, 2006, 2009) argued that proofs *indicate* derivations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是在这样的语境中，上个世纪之交，阿祖尼与拉夫之间在一系列论文中展开了一场争论。通过聚焦证明的不同功能，拉夫（1999, 2007）提出一种说明：证明不能被还原为形式推导。与拉夫相反，阿祖尼（2004a, 2006, 2009）论证证明只是 *指示* 推导。
+    step2: |-
+      正是在这样的语境中，上个世纪之交，阿祖尼与拉夫在一系列论文中展开争论。聚焦证明的不同功能，拉夫（1999, 2007）提出一种说明：证明不能被还原为形式推导。与拉夫相反，阿祖尼（2004a, 2006, 2009）论证证明只是 *指示* 推导。
   - id: 151
     kind: body
     source: |-
