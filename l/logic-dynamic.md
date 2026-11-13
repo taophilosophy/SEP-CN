@@ -178,10 +178,10 @@ $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$
 
 再证 (A5) 在 $\vdash$ 中可推演：
 
-| 1. | $[\alpha^*](A \rightarrow [\alpha]A)\ \leftrightarrow\$ $(A \rightarrow [\alpha]A) \land [\alpha][\alpha^*](A \rightarrow [\alpha]A)$ | 公理模式 (A3) |
+| 1. | $[\alpha^*](A \rightarrow [\alpha]A)\ \leftrightarrow\ (A \rightarrow [\alpha]A) \land [\alpha][\alpha^*](A \rightarrow [\alpha]A)$ | 公理模式 (A3) |
 | --- | --- | --- |
-| 2. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\$ $[\alpha](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 1 用命题推理与 $[\alpha]$ 对 $\land$ 的分配律 |
-| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\$ $[\alpha^*](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 2 用 (I) |
+| 2. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ [\alpha](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 1 用命题推理与 $[\alpha]$ 对 $\land$ 的分配律 |
+| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ [\alpha^*](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 2 用 (I) |
 | 4. | $[\alpha^*](A \rightarrow [\alpha]A) \rightarrow (A \rightarrow [\alpha^*]A)$ | 由 3 用命题推理与 $[\alpha^*]$ 对 $\land$ 的分配律 |
 | 5. | $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$ | 由 4 用命题推理 |
 
@@ -302,9 +302,9 @@ $A \rightarrow [\alpha]B$。
 | 7. | $A \rightarrow [(B?;\alpha )^*]A$ | 由 6 用 (I) |
 | 8. | $A \rightarrow (\lnot B \rightarrow (\lnot B\land A))$ | 命题重言式 |
 | 9. | $A \rightarrow [(B?;\alpha )^*](\lnot B \rightarrow (\lnot B\land A))$ | 由 7、8 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
-| 10. | $[\lnot B?](\lnot B\land A)\ \leftrightarrow\$ $(\lnot B \rightarrow (\lnot B\land A))$ | 公理模式 (A4) |
+| 10. | $[\lnot B?](\lnot B\land A)\ \leftrightarrow\ (\lnot B \rightarrow (\lnot B\land A))$ | 公理模式 (A4) |
 | 11. | $A \rightarrow [(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 由 9、10 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
-| 12. | $[(B?;\alpha )^* ; \lnot B?](\lnot B\land A)\ \leftrightarrow\$ $[(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 公理模式 (A1) |
+| 12. | $[(B?;\alpha )^* ; \lnot B?](\lnot B\land A)\ \leftrightarrow\ [(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 公理模式 (A1) |
 | 13. | $A \rightarrow [(B?;\alpha )^* ; \lnot B?](\lnot B\land A)$ | 由 12 用命题推理 |
 | — | $\{A\}\mathsf{while}~ B ~\mathsf{do}~ \alpha \{\lnot B\land A\}$ |   |
 
