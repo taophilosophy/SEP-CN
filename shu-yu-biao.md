@@ -4338,7 +4338,7 @@
 | principle of sufficient reason | — | 充足理由律 | rationalism-early-modern | 学界通行（SUMMARY 词条定名；简称 PSR） | 2026-11-06 |
 | principle of transcendence | — | 超越原则 | 首现（truth-coherence） | 学界通行（真命题未必可知为真）；凭证 2026-11-07 | 2026-11-07 |
 | principles of number | — | 数的原则 | 首现（william-jevons） | 构词直译（Jevons 数之哲学）；凭证 2026-11-07 | 2026-11-07 |
-| principles of taste | — | 鉴赏原则 | aesthetic-testimony | 康德《判断力批判》§33–34 通行汉译（鉴赏的原则）；凭证 2026-11-11 |
+| principles of taste | — | 鉴赏原则 | aesthetic-testimony | 康德《判断力批判》§33–34 通行汉译（鉴赏的原则）；凭证 2026-11-11 | 2026-11-11 |
 | Prior Analytics | — | 《前分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | prior association / potential for generalization | — | 先行关联／概括潜力 | reasoning-analogy | 构词直译（Bartha 2010 术语） | 2026-11-05 |
 | prior theory | — | 先在理论 | idiolects | 戴维森术语；凭证 2026-11-11 | 2026-11-11 |

@@ -63,6 +63,13 @@ PERSON_FILE = 'ren-ming-biao.md'
 
 PERSON_DOC_PREFIXES = ('## 伊斯兰阿拉伯人物', '## 登记格式说明', '## 待裁定')
 
+# 每节表头与分隔行（2026-11-13，020 战役：登记册原为裸管道网格，站点渲染成竖线文字墙；
+# 表头由 render 统一生成、scan 跳过，数据行守恒门不受影响）
+TERM_HEADER = ('| 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |',
+               '| --- | --- | --- | --- | --- | --- |')
+PERSON_HEADER = ('| 原文 | 别名 | 译法 | 籍属 | 生卒 | 首现（slug 或书目） | 依据 | 裁定日期 |',
+                 '| --- | --- | --- | --- | --- | --- | --- | --- |')
+
 TERM_LEGEND = [
     '# 译者说明：术语对照表',
     '',
@@ -167,6 +174,9 @@ def scan(lines):
             doc = {'header': s, 'lines': [line]}
             idx += 1
             continue
+        if s.strip() in TERM_HEADER or s.strip() in PERSON_HEADER:
+            idx += 1
+            continue
         if s.startswith('|'):
             cells = check_terms.split_row(s)
             if is_registration(cells):
@@ -189,7 +199,7 @@ def scan(lines):
     return header, rows, docs
 
 
-def render(header, rows, docs):
+def render(header, rows, docs, person=False):
     buckets = {}
     for r in rows:
         b = bucket_of(r['key'])
@@ -207,6 +217,7 @@ def render(header, rows, docs):
             continue
         out.append('## %s' % b)
         out.append('')
+        out.extend(PERSON_HEADER if person else TERM_HEADER)
         out.extend(r['line'] for r in buckets[b])
         out.append('')
     for doc in docs:
@@ -248,7 +259,8 @@ def process(path, allow_dirty=False, apply=False):
         if MARKER not in text_before:
             header = [l + '\n' if not l.endswith('\n') else l for l in TERM_LEGEND]
 
-    content, buckets = render(header, rows, docs)
+    content, buckets = render(header, rows, docs,
+                               person=os.path.basename(path) == PERSON_FILE)
 
     # 守恒门：数据行字节多重集相等
     new_lines = content.splitlines(True)
