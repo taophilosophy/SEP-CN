@@ -1,0 +1,33 @@
+{
+ "key": "fukuba bisei",
+ "term": "Fukuba Bisei",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T23:21:59+00:00",
+ "status": "ok",
+ "note": "variant=Fukuba Bisei; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "富图纳板块",
+   "en": "Futuna Plate",
+   "code": "02.0186",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球动力学_板块构造"
+  },
+  {
+   "cn": "枣",
+   "en": "Chinese date; Ziziphus jujuba Mill.",
+   "code": "05.068",
+   "standard": "农学名词",
+   "subject": "园艺作物_果树作物"
+  },
+  {
+   "cn": "库巴王国",
+   "en": "Kingdom of Kuba",
+   "code": "02.1171",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_黑非洲和大洋洲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
