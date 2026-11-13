@@ -1,0 +1,26 @@
+{
+ "key": "biomedicine",
+ "term": "biomedicine",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T02:45:39+00:00",
+ "status": "ok",
+ "note": "variant=biomedicine; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "高等医学教育",
+   "en": "higher education inmedicine",
+   "code": "08.008",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_高等教育及高等教育学科"
+  },
+  {
+   "cn": "生物医学",
+   "en": "biomedicine",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

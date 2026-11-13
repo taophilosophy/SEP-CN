@@ -1,0 +1,54 @@
+{
+ "key": "byzantine",
+ "term": "Byzantine",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T02:50:10+00:00",
+ "status": "ok",
+ "note": "variant=Byzantine; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "拜占庭纪年",
+   "en": "Byzantine era",
+   "code": "05.068",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学史"
+  },
+  {
+   "cn": "拜占庭建筑",
+   "en": "Byzantine architecture",
+   "code": "03.0269",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19世纪末叶以前建筑"
+  },
+  {
+   "cn": "拜占庭帝国",
+   "en": "Byzantine Empire",
+   "code": "02.0636",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "拂菻",
+   "en": "Fu Lin;Byzantine Empire",
+   "code": "1.656",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_历史地理_域外"
+  },
+  {
+   "cn": "拜占庭弹回",
+   "en": "Byzantine resilience",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "爱琴文明",
+   "en": "Byzantine Greece",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "computing",
+ "term": "Computing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T02:53:10+00:00",
+ "status": "ok",
+ "note": "variant=Computing; 审定公布名词库=936; 海峡两岸名词对照库=356; 其他来源数据库=204; 预公布名词数据库=25; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "code": "3.0416",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": "02.0110",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "code": "02.0918",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": "01.0001",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算机系统组成"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": "06.118",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源信息学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": "02.0262",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "code": "02.0257",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "普适计算",
+   "en": "ubiquitous computing,pervasive computing",
+   "code": "01.0064",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算模式"
+  },
+  {
+   "cn": "计算科学",
+   "en": "computing science,computational science",
+   "code": "01.0069",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算机与社会"
+  },
+  {
+   "cn": "自然计算",
+   "en": "natural computing,natural computation",
+   "code": "07.205",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_仿生学"
+  },
+  {
+   "cn": "计算光刻",
+   "en": "computing lithography",
+   "code": "26.014",
+   "standard": "光学名词",
+   "subject": "光学_激光加工技术"
+  },
+  {
+   "cn": "计算能力",
+   "en": "computing power",
+   "code": "04.1408",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概算，初算",
+   "en": "field computation\",\"preliminary  computation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算系统",
+   "en": "computing system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "分布式计算",
+   "en": "distributed computing",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "工作组计算",
+   "en": "workgroup computing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "进化计算",
+   "en": "evolutionary computing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可信计算",
+   "en": "dependable computing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "软计算",
+   "en": "soft computing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "电子计算机",
+   "en": "computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算架构",
+   "en": "Computing Architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算能力",
+   "en": "computing power",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式计算",
+   "en": "Distributed computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "并发计算",
+   "en": "Concurrent computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "字节码",
+   "en": "Execution (computing)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "异常处理",
+   "en": "Execution (computing)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "移动计算",
+   "en": "Mobile computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "先进计算",
+   "en": "Advanced Computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "边缘计算",
+   "en": "edge computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "code": "9.3.1.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "code": "9.3.1.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "code": "6.4.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "code": "6.4.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "code": "6.5.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "code": "9.3.1.3.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "code": "9.3.1.3.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "code": "1.4.4.36",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "code": "6.4.3.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "code": "9.3.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "code": "5.3.3.3.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "code": "1.4.2.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
