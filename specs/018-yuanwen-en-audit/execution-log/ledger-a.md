@@ -26,7 +26,15 @@
 - 系统行为（实证确认，不改）：Bibliography→「References（引用注释）」+ 条目全量转文末脚注定义；三个文献子标题（Primary texts in Latin / English translation / Selected Secondary）在 md 中成为空壳，因条目已移入脚注定义，**顺序仍按原三分组排列**（29/13/55），信息不丢；中文侧 a/abelard.md 同形态（3 空壳 + 97 定义），两侧一致
 - 结论：本轮转换后 **零缺陷**；BR/em/b 三类历史缺陷在本词条未复现（验证转换器修复生效）。译文无需同步改动。
 
-<!-- 接力指针：下一词条 abhidharma（yuanwen/a/abhidharma.md；en/abhidharma/index.html） -->
+## abilities（正式；译文 a/abilities.md 存在）
+
+- 源：en/abilities/index.html（2247 行）↔ yuanwen/a/abilities.md（516 行）
+- 逐段核：preamble 2 段✓；§1（1 段）✓；§1.1（5 段）✓；§1.2（4 段）✓；§1.3（6 段）✓；§2（1 段）✓；§2.1（6 段）✓；§2.2（5 段）✓；§3（1 段）✓；§3.1（7 段 + (CA) dt/dd）✓；§3.2（8 段 + 2 引块）✓；§3.3（6 段 + 2 引块）✓；§3.4（9 段 + 4 引块 + (CD)）✓；§4（1 段）✓；§4.1（7 段 + (MA)/(CA_modal)）✓；§4.2（7 段）✓；§4.3（6 段 + (1)/(2) 公式 dt/dd + 1 引块）✓；§4.4（6 段）✓；§5（1 段）✓；§5.1（8 段 + 1 引块）✓；§5.2（5 段）✓；Acknowledgments✓；书目 79 条逐条✓；Academic Tools 4 行✓；OIR✓；Related Entries 8 条✓
+- 结构细节验证：`<strong>T</strong>`/`<strong>K</strong>`（模态逻辑系统名）已按 F3 修复转 `**T**`/`**K**` ✓（修复前会丢加粗）；`(CA_modal)` 的 `<sub>` 转 `_{modal}` ✓；`&nbsp;` 无；引块单行内容转 `>` 单行 ✓
+- 源文内部不一致忠实保留：正文「Martin (1994)」vs 书目「Martin, C.B., 1996」（源 html 同）；「theory of abilitiy」拼误（源同）；「Norman,and Wikler」「Glick, Ephraim. 2012」标点缺漏（源同）
+- 结论：零转换缺陷；译文无需同步。
+
+<!-- 接力指针：下一词条 abner-burgos（yuanwen/a/abner-burgos.md；en/abner-burgos/index.html） -->
 
 ## abhidharma（正式；译文 a/abhidharma.md 存在）
 
