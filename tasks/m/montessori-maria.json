@@ -2,7 +2,7 @@
   "slug": "montessori-maria",
   "kind": "retranslate",
   "zh_doc": "m/montessori-maria.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "M-main-20261111",
       "at": "2026-11-10T17:29:42Z",
       "evidence": "s3 体例：check_style 0 issue（引号/空格/标记全绿）；markdownlint 本文件 0 error；check_math 公式 0 缺失/失衡；check_summary H1 0 偏差；check_academic --strict 无硬错误；check_terms 硬错误 0（非英语缺原文与人名分立即登记册全局告警，非本词条缺陷）；check_render_artifacts 0 artifact。体例四检全绿，交评审线 r1–r3。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "M-main-20261113",
+      "at": "2026-11-13T00:14:53Z",
+      "evidence": "r1 初审(新会话独立复核,复核独立性满足):①五维对账 script/_m_parity.py 全绿——marker/defs/标题层级/年份序列全等,段落差 1 系 byline 省略(H1 括注)系统性豁免,粗体缩写键无缺;②残留扫描:长英文串全部落于书名英文括注/refs 照录区/H1 双语题,正文叙述区 0 残留;③对照抽读:mandeville 段29/44/59、marsilius 段18/28/37、model-organisms 段25/38/51、moral-learning 段40/60/81、music 段25/38/51、montessori 段51/77/103,逐段对照 yuanwen 忠实,marker 位置与引文照录准确,无漏译增译;④人名一致性:叙述处现代学者保留英文形,同条内一致;Dwyer=Susan Dwyer 用'她'经 refs 全名核实无误;登记行 mandeville 8/marsilius-padua 11/montessori-maria 2 行在册;⑤语体结论:现代汉语学术书面语,无文言半文半白;文言特征词少量且均属引文内或正常用法(music L101'未尝不能'一处可接受);破折号抽验 12 处全为真插入语(music 4.02/千字偏高但逐处核验属体例);⑥prose 71 条告警与 s2 豁免留痕单一一吻合,复核豁免合理(书名内/引文内/词形误报);⑦四检复跑:check_style 0、check_academic --strict OK、check_math 0、markdownlint 本六件 0 error"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "M-main-20261113",
+      "at": "2026-11-13T00:34:30Z",
+      "evidence": "r2 复审(逐句回核原文与逻辑):①逐句回核各条最长论证段(mandeville 段14/1968字符、marsilius 段48/2711、model-organisms 段37/2979、montessori 段9/3454、moral-learning 段48/1899、music 段25/2187)——译文逐句忠实,论证逻辑连贯,无漂移;②术语同条一致性:mandeville 蜜蜂的寓言×13、marsilius 保卫者×53、model-organisms 模式生物×196、montessori 蒙台梭利×243/具身×27、moral-learning 道德获得装置×8/暴力抑制机制、music 本真性×14/唤起论×6——主术语统一;③变体共现核查:mandeville'蜜蜂寓言之争'系 Hungermann 书名内独立译(合法)、model-organisms'模式物种'=model species 与'模式生物'=model organism 属两个概念用法正确;④标记对账复核:marker/defs 键集与次数全等(同 r1),引注位置无漂移;⑤四检复跑绿(check_style 0/check_academic OK/check_math 0/prose 与 s2 豁免单一致)。复核记录齐备"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "M-main-20261113",
+      "at": "2026-11-13T00:38:40Z",
+      "evidence": "r3 终审:check_all.py 9 项全绿(2026-11-13 CI 判据);五维对账全绿终态复核(r1/r2 凭证链完整:r1 对照抽读+语体结论+r2 逐句回核+变体核查);prose 余告警全部为 s2 豁免留痕类(书名内/引文内/词形误报),无 Critical/Major 问题带入;登记册/术语册一致性由 check_all 术语一致性门与 check_terms 复核背书;验收签字:M-main-20261113,终稿验收通过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "M-main-20261113",
+      "at": "2026-11-13T00:40:22Z",
+      "evidence": "收口 done:M 批 s3_checked 存量三审(r1 对照自审+语体、r2 逐句回核、r3 CI 验收)全部通过,check_all 9 项全绿,提交随批"
     }
   ],
   "blockers": [],
