@@ -1071,7 +1071,7 @@
 | contemplative sciences | — | 静观科学（speculative sciences 思辨科学） | zabarella | 学界惯例（theōria 行“静观”译法配套）；凭证 2026-11-09 | 2026-11-09 |
 | contemporaneity | — | 同时代性（亦作“共时性”） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
 | Content Determination Thesis | — | 内容决定论题 | justep-coherence | 学界惯例（Huemer 术语，直译） | 2026-11-02 |
-| Content Externalism | — | 内容外在主义 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Content Externalism | — | 内容外在主义（亦作“内容外在论”） | 语料回收（词汇表并网） | 学界惯例（正文 18:4 通行“内容外在主义”）；亦作记审定作“内容外在论”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036） | 2026-11-13 |
 | content-given-form | — | 被赋予形式的内容 | paradox-of-tragedy | 本词条首译（Lamarque 内容—形式论）；凭证 2026-11-10 | 2026-11-10 |
 | contentual | — | 内容性的 | hilbert-program 首译 | 学界惯例（Hilbert 的 inhaltlich；与 formal 形式的对举）；凭证 2026-11-11 | 2026-11-11 |
 | context | — | 语境 | dynamic-semantics | 语言哲学/语用学通行（技术义，与日常"上下文"别）；凭证 2026-11-12 | 2026-11-12 |
@@ -2626,7 +2626,7 @@
 | inequality aversion | — | 不平等厌恶 | justice-moral-psych | 行为经济学通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | inertia | — | 惯性 | newton-principia | 物理学通行；凭证 2026-11-11 | 2026-11-11 |
 | inertial frame | — | 惯性系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
-| Inertial Frames | — | 惯性系 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Inertial Frames | — | 惯性系（亦作“惯性参考系”） | 语料回收（词汇表并网） | 学界惯例（正文 25:3 通行“惯性系”）；亦作记审定作“惯性参考系”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036） | 2026-11-13 |
 | inertial observer | — | 惯性观察者 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | infallibility | — | 无误性 | omniscience | 学界通行译名（与 essential omniscience 分列）；凭证 2026-11-09 | 2026-11-09 |
 | infallible | — | 不会出错的 | prophecy | 构词直译（对上帝知识的不谬性描述，与 infallibility 不谬性相承）；凭证 2026-11-09 | 2026-11-09 |
@@ -5007,7 +5007,7 @@
 | self-positing | — | 自我设定 | novalis | 费希特研究通行（Selbstsetzung）；凭证 2026-11-11 | 2026-11-11 |
 | self-preservation | — | 自我保存 | grotius | 学界通行（近代自然法核心概念）；凭证 2026-11-12 | 2026-11-12 |
 | self-realization | — | 自我实现 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
-| Self-Reference | — | 自我指涉 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Self-Reference | — | 自我指涉（亦作“自我参照”） | 语料回收（词汇表并网） | 学界惯例（正文 22:0 通行“自我指涉”）；亦作记审定作“自我参照/自引用”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036） | 2026-11-13 |
 | self-reliance | — | 自立 | emerson | Emerson 篇名 Self-Reliance 通行汉译“自立”（亦作“自助”），本条锁定“自立” | 2026-11-07 |
 | self-renewal | — | 自我更新 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
 | self-renewing | — | 自我更新 | cancer | 学界通行（干细胞生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -5943,7 +5943,7 @@
 | units of selection | — | 选择的单位 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | unity of intellect | — | 理智统一性 | gersonides | 阿威罗伊主义论题通行译法（unity of the intellect） | 2026-11-09 |
 | unity of opposites | — | 对立统一 | heraclitus 首译 | 学界通行（亦作“对立面的统一”）；凭证 2026-11-09 | 2026-11-09 |
-| Unity of Science | — | 统一科学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Unity of Science | — | 统一科学（亦作“科学的统一性”） | 语料回收（词汇表并网） | 学界惯例（正文 13:0 通行“统一科学”）；亦作记审定作“科学的统一性”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036） | 2026-11-13 |
 | universal | — | 共相（中世纪-黑格尔传统） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | universal affirmative predication | — | 全称肯定谓述 | schema | 构词直译（亚里士多德逻辑） | 2026-11-06 |
 | universal benevolence | — | 普遍仁爱 | godwin | 道德哲学通行汉译（18 世纪英国道德哲学语境）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-10 |

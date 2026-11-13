@@ -1,0 +1,348 @@
+{
+ "key": "time machines",
+ "term": "Time Machines",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T04:30:53+00:00",
+ "status": "ok",
+ "note": "variant=Time Machines; 审定公布名词库=4895; 海峡两岸名词对照库=1405; 其他来源数据库=330; 预公布名词数据库=110; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "机器浪费时间",
+   "en": "machine-spoiled time",
+   "code": "04.1197",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机维护"
+  },
+  {
+   "cn": "设备停歇时间",
+   "en": "machine idle time",
+   "code": "05.1103",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "机器辅助时间",
+   "en": "machine attention time",
+   "code": "05.1100",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "机器掌控时间",
+   "en": "machine controlled time",
+   "code": "05.1101",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "同步电机时间常数",
+   "en": "time constant of synchronous machine",
+   "code": "04.107",
+   "standard": "电力名词",
+   "subject": "电力_电力系统"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "code": "04.025",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "code": "01.0003",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_一般名词"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "code": "05.0391",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "机器与机器互联",
+   "en": "machine to machine",
+   "code": "09.245",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "机械加工",
+   "en": "machining",
+   "code": "01.003",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_总论"
+  },
+  {
+   "cn": "光车",
+   "en": "machining",
+   "code": "12.288",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶工艺"
+  },
+  {
+   "cn": "木工钻床",
+   "en": "drilling machine,boring machine",
+   "code": "11.673",
+   "standard": "林学名词",
+   "subject": "林学_木材科学与技术_木材加工机械"
+  },
+  {
+   "cn": "机器浪费时间",
+   "en": "machine-spoiled time",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "时间有界图灵机",
+   "en": "time-bounded Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "机械加工",
+   "en": "machining",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "磨版机",
+   "en": "graining machine\",\"grinding machine",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "时值",
+   "en": "time",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "时刻",
+   "en": "time",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "定时，计时",
+   "en": "timing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "螺旋挤出机",
+   "en": "auger machine",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "浸染机",
+   "en": "padding machine",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "抛靶机",
+   "en": "throwing machine\",\"trap machine",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "code": "01.0027",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "消毒机",
+   "en": "disinfection machine",
+   "code": "3.1.2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "增长机器理论",
+   "en": "growth machine",
+   "code": "3.4.5.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_政治经济学学派"
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "code": "3.7.12.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "code": "2.2.2.19",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "code": "3.1.3.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "code": "3.1.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "code": "3.1.6.6.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "code": "3.1.6.6.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "崩解时间",
+   "en": "disintegration time",
+   "code": "6.1.14.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "code": "6.2.3.9.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "死时间",
+   "en": "dead time",
+   "code": "5.1.1.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "turing test",
+ "term": "Turing test",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T04:33:53+00:00",
+ "status": "ok",
+ "note": "variant=Turing test; 审定公布名词库=6292; 海峡两岸名词对照库=1394; 其他来源数据库=407; 预公布名词数据库=324; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "code": "03.665",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "code": "07.147",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_脑理论"
+  },
+  {
+   "cn": "图灵实验",
+   "en": "Turing test",
+   "code": "05.002",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "图灵斑图",
+   "en": "Turing pattern",
+   "code": "11.0708",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_非线性物理学"
+  },
+  {
+   "cn": "图灵可定义性",
+   "en": "Turing definability",
+   "code": "02.0253",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reducibility",
+   "code": "02.0202",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "图灵度",
+   "en": "Turing degree",
+   "code": "02.0235",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": "02.0564",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": "02.0254",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reduction",
+   "code": "02.0299",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": "05.001",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "code": "03.640",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "图灵测验",
+   "en": "Turing test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多带图灵机",
+   "en": "multitape Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多头图灵机",
+   "en": "multihead Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multidimensional Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "非确定型图灵机",
+   "en": "nondeterministic Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "离线图灵机",
+   "en": "offline Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "确定型图灵机",
+   "en": "deterministic Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "空间有界图灵机",
+   "en": "space-bounded Turing machine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "科目",
+   "en": "reprise\",\"test",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "梅尼埃病",
+   "en": "Hearing test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "测试方法",
+   "en": "Chemical test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "格里斯试验",
+   "en": "Griess test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "code": "1.7.1.15",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_防护"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "code": "3.1.3.10.13",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "code": "5.1.11",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "code": "6.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "code": "6.1.15",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "code": "6.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "code": "6.2.3.4",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "code": "6.2.26.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "定性试验",
+   "en": "qualitative test",
+   "code": "6.2.26.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "载体试验",
+   "en": "carrier test",
+   "code": "6.2.26.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "悬液试验",
+   "en": "suspension test",
+   "code": "6.2.26.4",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "细菌杀灭试验",
+   "en": "bactericidal test",
+   "code": "6.2.26.7",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

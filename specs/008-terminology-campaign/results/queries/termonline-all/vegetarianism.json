@@ -1,0 +1,33 @@
+{
+ "key": "vegetarianism",
+ "term": "Vegetarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T04:38:24+00:00",
+ "status": "ok",
+ "note": "variant=Vegetarianism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "素食者",
+   "en": "vegetarian",
+   "code": "05.081",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动营养_合理膳食"
+  },
+  {
+   "cn": "素食",
+   "en": "foods for vegetarians, vagan",
+   "code": "5.23.28",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "蛋奶素食者食品",
+   "en": "food for egg-lacto-vegetarians",
+   "code": "5.23.29",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

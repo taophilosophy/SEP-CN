@@ -150,3 +150,25 @@ TL-main-20261112 续：凭证文件名缺陷修复、重复行归一与清扫收
   a-samavāyi-kāraṇa（非和合因，亦作非依处因）、samavāyi-kāraṇa（和合因，亦作依处因）。
 * 登记册 5943→5934 行；`check_terms` 同键异译告警与自洽违例皆清零，硬错误 0。
 * 新键补查：pudgala 两行新键已跑批落凭证；realism「实在论」与审定一致。
+
+### 十一、ADR-0036 并网后首轮（280 项，2026-11-13）
+
+* 队列 `%TEMP%/az-term16.json` 280 项（并网迁移 263 行中未查证部分，依据列原标“待 008 审定库复核”），全部跑完；
+  终审计：一致 1169 / 不一致 799 / 查无 4536 / 未查证 4413（裁定前）；**补亦作后复跑：一致 1173 / 不一致 795**。
+* 新增不一致 44 条：**补亦作 4 条**——Content Externalism「内容外在主义」亦作“内容外在论”、
+  Inertial Frames「惯性系」亦作“惯性参考系”、Self-Reference「自我指涉」亦作“自我参照”、
+  Unity of Science「统一科学」亦作“科学的统一性”（四者正文用量均以现译为主，审定形记亦作）。
+* **保留 40 条**，统一理由类别：
+  * 短形/全称差异：Abduction（溯因 vs 审定“溯因推理/溯因法”）、coherence/correspondence theory（“真理的…论”全称）、
+    axiomatic、Post-Newtonian、Terrorism、statistical physics（“统计物理[学]”方括号记法）、EPR/Kochen-Specker/
+    Zermelo-Fraenkel（审定均为“…定理/集合论”全称）、Philosophy of Statistics、Truth（真理≠审定“真值”）、
+    truth values、Two-Dimensional、Justification（证成/辩护双情境已注）、Determinacy（审定“确定性”属量子语境）。
+  * 同形异义/假阳性：Coming of Age（波伏瓦书名《老年》，审定“成年礼”异义）、Commentators（评论员）、
+    constructive（“中场组织者”体育）、Fall（神学“堕落”vs“跌倒”）、Gravity（“引力”vs 审定“重力”物理量）、
+    Great Learning（王阳明《大学问》，非《大学》）、human good（“性善”儒家义）、identity theory（社会认同理论异义）、
+    restrictor（“节流器”工程）、Rigor（“僵直”医学）、Self-Defense（“日本自卫队”）、St. Petersburg（地名）、
+    Temporal Parts（“颞骨”医学）、Time Machines / Time Travel（“机器浪费/传播时间”）、Tractatus Politicus（垃圾池）、
+    Stranger（“陌生人”泛义，本行 Simmel 局外人）、Incommensurable（“不可公度的”数学义）。
+  * 体例/近义并存：Social Networking（“社交网”）、testimony（“证词”法学义；正文 221:47 取证言）、
+    Self-Deception（“自欺”与 bad faith 汉译相混风险，保留“自我欺骗”）、Territorial Justice（“区域公正”近义）、
+    Long March（“长征精神”为派生词）。

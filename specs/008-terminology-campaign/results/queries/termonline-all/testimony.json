@@ -1,0 +1,54 @@
+{
+ "key": "testimony",
+ "term": "testimony",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T04:23:22+00:00",
+ "status": "ok",
+ "note": "variant=testimony; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "目击证言",
+   "en": "eyewitness testimony",
+   "code": "13.059",
+   "standard": "心理学名词",
+   "subject": "心理学_法律心理学"
+  },
+  {
+   "cn": "证言广告策略",
+   "en": "testimony advertising strategy",
+   "code": "21.282",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_广告_广告作品"
+  },
+  {
+   "cn": "证言心理学",
+   "en": "psychology of testimony",
+   "code": "13.008",
+   "standard": "心理学名词",
+   "subject": "心理学_法律心理学"
+  },
+  {
+   "cn": "旌表",
+   "en": "jing biao;testimonial conferred by the emperor to honor the deceased",
+   "code": "1.178",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_政治_礼法"
+  },
+  {
+   "cn": "证词",
+   "en": "testimony",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目击证言,视觉证言",
+   "en": "eye witness testimony",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
