@@ -419,7 +419,7 @@ Jonathan Bennett formulates the problem as follows:
 
 > Any displayed token has countless features, and so it is of countless different kinds. Therefore, to say the inscription-types instantiated here: Sheep or what amounts to the same thing, the inscription-type each token of which is like this: Sheep is to leave things open to an intolerable degree. How do we narrow it down? That is what I call the problem of relevant features. It urgently confronts the demonstrative theory which must be amplified so as to meet it. (Bennett 1988, p. 403, see also Washington 1992, pp. 595–7.)[^bennett-1988][^washington-1992]
 
-A related worry is this: Read (4) out loud. It seems obvious that a spoken utterance says (makes) the same claim as a written utterance of (4). On the Demonstrative Theory it is unclear why this should be so: the spoken utterance demonstrates a vocal pattern, and the written utterance a graphemic pattern. They seem to be attributing properties to different objects. (Several suggestions are on offer for how to amend the Demonstrative Theory in this respect: cf., Garcia-Carpintero 1994, Cappelen and Lepore 1997b, 1999c, and Davidson 1999.)[^cappelen-1997b][^davidson-1999][^garcia-carpintero-1994]
+A related worry is this: Read (4) out loud. It seems obvious that a spoken utterance says (makes) the same claim as a written utterance of (4). On the Demonstrative Theory it is unclear why this should be so: the spoken utterance demonstrates a vocal pattern, and the written utterance a graphemic pattern. They seem to be attributing properties to different objects. (Several suggestions are on offer for how to amend the Demonstrative Theory in this respect: cf., Garcia-Carpintero 1994, Cappelen and Lepore 1997b, 1999c, and Davidson 1999.)[^cappelen-1997b][^cappelen-1999c][^davidson-1999][^garcia-carpintero-1994][^lepore-1999]
 
 **Objection 3**. *The Problem of Missing Quotation Marks*
 
@@ -435,7 +435,7 @@ Here, we have a case in which an expression is quoted—not by means of quotatio
 
 The same idea is expressed by Washington (1992):
 
-> In conversation, oral promptings (‘Quote-unquote’) or finger-dance quotes can often be omitted without impairing the intelligibility or well-formedness of the utterance. When I introduce myself, I do not say ‘My name is quote-unquote Corey,’ nor do I make little finger gestures or even use different intonation in order to show that it is my name and not myself that is being talked about. (Washington 1992, p. 588; Saka 1998, pp. 118–19; Recanati 2001; and Benbaji 2004a, 2004b.)[^benbaji-2004a][^recanati-2001][^saka-1998][^washington-1992]
+> In conversation, oral promptings (‘Quote-unquote’) or finger-dance quotes can often be omitted without impairing the intelligibility or well-formedness of the utterance. When I introduce myself, I do not say ‘My name is quote-unquote Corey,’ nor do I make little finger gestures or even use different intonation in order to show that it is my name and not myself that is being talked about. (Washington 1992, p. 588; Saka 1998, pp. 118–19; Recanati 2001; and Benbaji 2004a, 2004b.)[^benbaji-2004a][^benbaji-2004b][^recanati-2001][^saka-1998][^washington-1992]
 
 The Demonstrative Theory depends on the presence of quotation marks (inasmuch as they are what get used to do the referring), so if quotation can occur without quotation marks (as in the Reimer and Washington cases), it’s hard to see how the Demonstrative Theory is adequate.
 
@@ -527,9 +527,9 @@ DQR: For any expression $e$, the left quote (lq) followed by e followed by the r
 
 Ludwig and Ray write:
 
-> Its semantic function is given by the following reference clause in the theory: (ref$(\ulcorner$‘E’$\urcorner) =$ E (Ludwig and Ray, 1998, p.163, note 43)
+> Its semantic function is given by the following reference clause in the theory: (ref$(\ulcorner$‘E’$\urcorner) =$ E (Ludwig and Ray, 1998, p.163, note 43)[^ludwig-1998]
 
-where the ‘$\ulcorner$’ and ‘$\urcorner$’ are the left and right corner quotes. (See also Smullyan 1957, Mates 1972, p. 21; Wallace 1972, p. 237; Salmon 1986, p. 6, Gomez-Torrente 2001, Botteral and Stainton 2005. A nearby view is the minimalism of Cappelen and Lepore 2007; discussion of it can be found in Garcia-Carpintero 2011.)[^cappelen-2007][^gomez-torrente-2001][^mates-1972][^salmon-1986][^smullyan-1957][^wallace-1972]
+where the ‘$\ulcorner$’ and ‘$\urcorner$’ are the left and right corner quotes. (See also Smullyan 1957, Mates 1972, p. 21; Wallace 1972, p. 237; Salmon 1986, p. 6, Gomez-Torrente 2001, Botteral and Stainton 2005. A nearby view is the minimalism of Cappelen and Lepore 2007; discussion of it can be found in Garcia-Carpintero 2011.)[^cappelen-2007][^gomez-torrente-2001][^gomez-torrente-2005][^mates-1972][^salmon-1986][^smullyan-1957][^wallace-1972]
 
 On this account, quotations are not proper names, or descriptions or demonstratives but rather they are functors that take an expression as their argument and return it as value.
 
@@ -615,7 +615,7 @@ First, Saka (1998, 1999, 2003) has developed a theory that has much in common wi
 
 Cats is a noun.
 
-Even though Saka agrees with Washington that quotation marks ‘announce ‘I am not (merely) using expression X; I am also mentioning it’’ (Saka 1998, p. 127)[^saka-1998], he differs from Washington in that he assigns them a genuine syntactic and semantic function (Saka, 1998, p. 128). In this respect he incorporates components of what we above called the Disquotational Theory.[^note-14]^{,} [^note-15]
+Even though Saka agrees with Washington that quotation marks ‘announce ‘I am not (merely) using expression X; I am also mentioning it’’ (Saka 1998, p. 127)[^saka-1998], he differs from Washington in that he assigns them a genuine syntactic and semantic function (Saka, 1998, p. 128)[^saka-1998]. In this respect he incorporates components of what we above called the Disquotational Theory.[^note-14]^{,} [^note-15]
 
 Saka’s account also differs from Washington’s in that he emphasizes that quotations are ambiguous (or indeterminate) and that what they refer to depends on the speaker’s intentions (see Saka 1998, pp. 123–4)[^saka-1998]. For further discussion of this point, see Section 5 below.
 
@@ -660,7 +660,7 @@ Discussion of the Use/Identity Theories is not yet as extensive as discussion of
 
 ‘run’ is a verb in English
 
-The two ‘$a$’s in (35) could refer to different objects; the “run” in (36) might refer to, for example, a concept (see Cappelen and Lepore 1999b and Saka 1999, 2003, 2011)[^cappelen-1999b][^lepore-1999][^saka-1999].
+The two ‘$a$’s in (35) could refer to different objects; the “run” in (36) might refer to, for example, a concept (see Cappelen and Lepore 1999b and Saka 1999, 2003, 2011)[^cappelen-1999b][^cappelen-2003][^lepore-1999][^saka-1999][^saka-2003].
 
 *Over-generation Problems*: According to Use/Identity Theories, you can do a lot with quotation. The question is whether this results in such theories running into problems of over-generation. Take, for example, Saka’s claim that a quotation refers to an item *associated* with the expression. There’s only one restriction: This item cannot be the expression’s regular extension. If this is the *sole* restriction on what quotations can be used to refer to, we should be able to do things with quotation that there’s no evidence that we can. It could, for example, be the case that in a particular context, the (regular) extension of ‘love’, call it *love*, was associated with the expression ‘money’; maybe, for some reason, that association was contextually salient. Nonetheless, (37) cannot be used to say that *love* plays a central role in many peoples’ lives.
 
@@ -767,7 +767,7 @@ Quine wrote a couple of papers on quotation, the ‘anomalous feature’ of whic
 
 A: *The Godfather II* is a total snooze. B: Well, Pauline Kael said this ‘total snooze’ is a defining moment in American cinema. (Potts 2007, p 420)[^potts-2007]
 
-Should we include such phenomena in our theory of mixed quotation? The first sentence doesn’t contain a speech verb, while the second does, but the person to whom the mixed quotation is attributed isn’t the person who uttered the mixed quoted words. It’s unclear. Things get even more uncertain when we consider scare quotes (Predelli 2003a,b, Saka 2013, Gomez-Torrente 2017)[^gomez-torrente-2017][^saka-2013] and what are known euphemistically as grocers’ quotes:
+Should we include such phenomena in our theory of mixed quotation? The first sentence doesn’t contain a speech verb, while the second does, but the person to whom the mixed quotation is attributed isn’t the person who uttered the mixed quoted words. It’s unclear. Things get even more uncertain when we consider scare quotes (Predelli 2003a,b, Saka 2013, Gomez-Torrente 2017)[^gomez-torrente-2017][^saka-2013][^saka-2017][^saka-2017-2] and what are known euphemistically as grocers’ quotes:
 
 **(47)**
 
@@ -779,7 +779,7 @@ Teens are spending more and more time ‘sexting’, something of concern to par
 
 In the former case, there isn’t any one person who used ‘sexting’; rather, the writer is marking that it’s used in a community which they are not part of or disapprove of. In the latter case, the quotation marks are serving as emphasis. While we probably don’t want to spend a lot of time seriously theorizing about grocers’ quotes (although see Abbott 2003)[^abbott-2003], whether or not scare quotes should be treated as we treat mixed quotation (indeed, whether or not they’re one and the same) is an open question (see McCullagh 2017 for discussion and an affirmative answer to these questions; Gomez-Torrente 2017 demurs)[^gomez-torrente-2017][^mccullagh-2017].
 
-This isn’t even an exhaustive characterization. Thus it’s important to attend to cognate phenomena like dequotation (Shan 2010) and free indirect discourse (Maier 2015, 2017)[^maier-2015]. And the theorist of mixed quotation should at least be aware of the problem of mixed quoting non-constituent clauses (Abbott 2003, De Brabanter 2022)[^abbott-2003], and the possibility that one can mixed quote without quotation marks (De Brabanter 2010). The complexity of the data has inspired much interesting theorizing, and we expect that mixed quotation will continue to be a focal question in the theory of quotation.
+This isn’t even an exhaustive characterization. Thus it’s important to attend to cognate phenomena like dequotation (Shan 2010) and free indirect discourse (Maier 2015, 2017)[^maier-2015][^maier-2017]. And the theorist of mixed quotation should at least be aware of the problem of mixed quoting non-constituent clauses (Abbott 2003, De Brabanter 2022)[^abbott-2003], and the possibility that one can mixed quote without quotation marks (De Brabanter 2010). The complexity of the data has inspired much interesting theorizing, and we expect that mixed quotation will continue to be a focal question in the theory of quotation.
 
 ## 5. What Kinds of Entities do Quotations Refer to?
 

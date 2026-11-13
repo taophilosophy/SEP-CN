@@ -321,7 +321,7 @@ Russell argued that such definitions involve a subtle kind of vicious circle. Th
 
 Another formulation Russell gave of the Principle is this:
 
-**Vicious-Circle Principle (variant formulation)**. “If, provided a certain collection had a total, it would have members only definable in terms of that total, then the said collection has no total (Russell, 1908, 63).”
+**Vicious-Circle Principle (variant formulation)**. “If, provided a certain collection had a total, it would have members only definable in terms of that total, then the said collection has no total (Russell, 1908, 63)[^russell-1908].”
 
 In an appended footnote, Russell explained, “When I say that a collection has no total, I mean that statements about *all* its members are nonsense.”
 

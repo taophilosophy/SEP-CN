@@ -428,7 +428,7 @@ For example, Boole’s use of $v$ in the equational expression of propositions h
 
 We look at a different objection, namely at the Boole/Jevons dispute over adding $x + x = x$ as a law.
 
-[The following details are from *The development of the theories of mathematical logic and the principles of mathematics, William Stanley Jevons,* by Philip Jourdain, 1914.]
+[The following details are from *The development of the theories of mathematical logic and the principles of mathematics, William Stanley Jevons,* by Philip Jourdain, 1914.][^jourdain-1914]
 
 In an 1863 letter to Boole regarding a draft of a commentary on Boole’s system that Jevons was considering for his forthcoming book (*Pure Logic*, 1864), Jevons said:
 

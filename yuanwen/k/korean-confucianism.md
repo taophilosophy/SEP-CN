@@ -182,7 +182,7 @@ Thus, allegiance to T’oegye or Yulgok was never a matter of mere factional pol
 
 Though Yi Kan underscored the central role of *Principle*, Han posited the operation of the human mind as dependent on *ki*—both original *ki*, and corrupted *ki*. These ideas were related, not only to the emotions and how they affect the actualised mind (thoughts/actions), but led to other speculative questions:
 
-1. How should one describe the unaroused mind (*mibal*), in terms of *ki* or *Principle*, or a mixture? (see Yoo, W. 2017)
+1. How should one describe the unaroused mind (*mibal*), in terms of *ki* or *Principle*, or a mixture? (see Yoo, W. 2017)[^yoo-2017]
 2. Whether sages and ordinary people have the same nature?, and
 3. Is the nature of human beings and nonhuman animals identical? (Richard Kim 2017: 90; Choi Y. 2011)[^choi-2011][^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]
 

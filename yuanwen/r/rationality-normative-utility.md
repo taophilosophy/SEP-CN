@@ -406,7 +406,7 @@ It turns out that this sum diverges; the St Petersburg game has infinite expecte
 
 Nover and Hájek (2004) argue that in addition to the St. Petersburg game, which has infinite expected utility, there are other infinitary games whose expected utilities are undefined, even though rationality mandates certain preferences among them.
 
-One response to these problematic infinitary games is to argue that the decision problems themselves are ill-posed (Jeffrey (1983, 154); another is to adopt a modified version of expected utility theory that agrees with its verdicts in the ordinary case, but yields intuitively reasonable verdicts about the infinitary games (Thalos and Richardson 2013)[^thalos-2013] (Fine 2008)[^fine-2008] (Colyvan 2006, 2008)[^colyvan-2006] (Easwaran 2008)[^easwaran-2008].
+One response to these problematic infinitary games is to argue that the decision problems themselves are ill-posed (Jeffrey (1983, 154); another is to adopt a modified version of expected utility theory that agrees with its verdicts in the ordinary case, but yields intuitively reasonable verdicts about the infinitary games (Thalos and Richardson 2013)[^thalos-2013] (Fine 2008)[^fine-2008] (Colyvan 2006, 2008)[^colyvan-2006][^colyvan-2008] (Easwaran 2008)[^easwaran-2008].
 
 ## 4. Applications
 

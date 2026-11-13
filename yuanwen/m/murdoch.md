@@ -113,7 +113,7 @@ Murdoch’s form of moral realism has spurred important and influential secondar
 
 This view thus rejects a common moral non-cognitivist (but shared by some cognitivists) claim that moral properties always “supervene” on (that is, apply in virtue of) already-existing non-moral properties. Panizza and Setiya defend this implication of the existence of secondary moral terms (Panizza 2020; Setiya 2013)[^panizza-2020][^setiya-2013]. Panizza connects the rejection of supervenience with Murdoch’s view that our direct perception of moral properties is bound up with the ways that perception is deeply conceptual (Panizza 2020: 284–5; see also Setiya 2013)[^panizza-2020][^setiya-2013].
 
-Others have focused more distinctly on Murdoch’s view’s implications for practical reason. John McDowell developed a Murdochian-influenced moral realist view, in an influential 1979 paper “Virtue and Reason”, often also regarded as a founding essay in the contemporary virtue ethics tradition (and indeed McDowell sees his view [developed in other papers as well] as both Aristotelian and Murdochian) (McDowell 1979, 1998)[^mcdowell-1979]. (More on Murdoch and virtue below.)
+Others have focused more distinctly on Murdoch’s view’s implications for practical reason. John McDowell developed a Murdochian-influenced moral realist view, in an influential 1979 paper “Virtue and Reason”, often also regarded as a founding essay in the contemporary virtue ethics tradition (and indeed McDowell sees his view [developed in other papers as well] as both Aristotelian and Murdochian) (McDowell 1979, 1998)[^mcdowell-1979][^mcdowell-1998]. (More on Murdoch and virtue below.)
 
 McDowell says that to possess a virtue, such as kindness, is to possess “a reliable sensitivity to a certain sort of requirement which situations impose on behavior”. Its
 
@@ -359,7 +359,7 @@ I am extremely grateful to Megan Laverty, Vic Seidler, and Kieran Setiya for acu
 
 [^note-5]: For Weil’s influence on Murdoch, see Broackes 2012a: 19–21 and passim; and Lovibond 2011: ch. 2.
 
-[^note-6]: Murdoch does not clearly distinguish the “moral” from the “evaluative”. She never focuses on moral value as a distinct subset of value in general. “Morality is everywhere” is not the same as “value is everywhere”, and she says a version of both. (See discussions of this issue in Diamond 2010, 1996, and Lovibond 2020.)[^diamond-2010][^lovibond-2020] She also tends to use “moral” and “ethical” interchangeably, and would find Williams’s famous distinction between them problematic (Williams 1985: ch 10: “Morality, the Peculiar Institution”)[^williams-1985].
+[^note-6]: Murdoch does not clearly distinguish the “moral” from the “evaluative”. She never focuses on moral value as a distinct subset of value in general. “Morality is everywhere” is not the same as “value is everywhere”, and she says a version of both. (See discussions of this issue in Diamond 2010, 1996, and Lovibond 2020.)[^diamond-1996][^diamond-2010][^lovibond-2020] She also tends to use “moral” and “ethical” interchangeably, and would find Williams’s famous distinction between them problematic (Williams 1985: ch 10: “Morality, the Peculiar Institution”)[^williams-1985].
 
 [^note-7]: And a slightly different formulation:
 

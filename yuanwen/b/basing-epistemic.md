@@ -15,7 +15,7 @@ Analysis of the basing relation is relevant to a variety of fundamental epistemo
 
 Causal theories of the basing relation hold that for a belief to be based on a reason, the reason must cause the belief in an appropriate way. Causal theories of the basing relation must not be confused with causal theories of knowledge or justification. One might take a causal theory of the basing relation to explain how one has taken into account the reasons one possesses when forming or evaluating a belief, regardless of whether the reason actually contributes to the justification of the belief. Also, one might hold that a belief’s being justified requires not only being based on a good reason, but also requires, e.g., the fulfillment of various epistemic duties, coherence within an appropriate cognitive system, etc.
 
-Paul Moser offers the following example of a causal theory of the basing relation for propositional reasons (Moser, 1989, p. 157):
+Paul Moser offers the following example of a causal theory of the basing relation for propositional reasons (Moser, 1989, p. 157)[^moser-1989]:
 
 > *S*’s believing or assenting to *P* is based on his justifying propositional reason *Q* =_{df} *S*’s believing or assenting to *P* is causally sustained in a nondeviant manner by his believing or assenting to *Q*, and by his associating *P* and *Q*.
 

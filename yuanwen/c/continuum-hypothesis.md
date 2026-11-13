@@ -41,7 +41,7 @@ The cardinal 2^{ℵ₀} is important since it is the size of the continuum (the 
 
 Very little progress was made on CH and GCH. In fact, in the early era of set theory the only other piece of progress beyond Cantor's result that 2^{κ} > κ (and the trivial result that if κ ≤ λ then 2^{κ} ≤ 2^{λ}) was König's result that cf(2^{κ}) > κ. The explanation for the lack of progress was provided by the independence results in set theory:
 
-**Theorem 1.1** (Gödel 1938a, 1938b)[^gödel-1938a].
+**Theorem 1.1** (Gödel 1938a, 1938b)[^gödel-1938a][^gödel-1938b].
 
 *Assume that* ZFC *is consistent. Then* ZFC + CH *and* ZFC + GCH *are consistent.*
 

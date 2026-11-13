@@ -273,7 +273,7 @@ Let’s work a bit more to make the idea precise. We say that a *half-curve* is 
 
 Fig 2.2.1. The observational past of an event and a half-curve. A signal can be sent to $q$ from every point in $OP(q)$. No signal can be sent to $q$ from any point on the half-curve $\gamma$.
 
-We are now ready to define the class of models of general relativity which allow for the type of bifurcated supertask mentioned above (Hogarth 1992, 1994)[^hogarth-1992].
+We are now ready to define the class of models of general relativity which allow for the type of bifurcated supertask mentioned above (Hogarth 1992, 1994)[^hogarth-1992][^hogarth-1994].
 
 > **Definition**. A spacetime $(M,g)$ is *Malament-Hogarth* if there is an event $q$ in $M$ and a half-curve $\gamma$ in $M$ with infinite elapsed time such that $\gamma$ is contained in $OP(q)$.
 

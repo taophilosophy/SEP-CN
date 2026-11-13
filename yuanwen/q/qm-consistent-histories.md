@@ -411,7 +411,7 @@ The following discussion begins with the famous Einstein-Podolsky-Rosen paradox 
 
 #### 8.5.2 Einstein-Podolsky-Rosen-Bohm & Bell inequalities
 
-The Bohm version (Bohm 1951: ch. 22)[^bohm-1951] of the Einstein-Podolsky-Rosen paradox (Einstein, Podolsky, & Rosen 1935) is based on the spin singlet state
+The Bohm version (Bohm 1951: ch. 22)[^bohm-1951] of the Einstein-Podolsky-Rosen paradox (Einstein, Podolsky, & Rosen 1935)[^einstein-1935] is based on the spin singlet state
 
 $$|\Psi\rangle = \bigl(|z^+_a,z^-_b\rangle - |z^-_a,z^+_b\rangle \bigr)/\sqrt{2} \label{eqn42}$$
 

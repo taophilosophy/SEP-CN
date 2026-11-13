@@ -5,7 +5,7 @@
 
 This entry discusses the use of mathematical languages to express and analyze the formal properties of power in games. The mathematical languages discussed in this entry will be referred to as **logics**, and classified according to their ability to express game-related concepts.
 
-The material in this entry will be limited to the logical analysis of strategies and preferences of (groups of) individuals in cooperative and non-cooperative normal form games. It will not cover the use of game theory to study logical languages nor the role of epistemic concepts in strategic decisions. It will also not cover aspects of sequential decisions-making, typical of strategic reasoning in extensive games. An account of those can be found in the related entries logic and games, epistemic foundations of game theory (see also van Benthem, Pacuit, & Roy 2011 and van Benthem 2014)[^benthem-2014].
+The material in this entry will be limited to the logical analysis of strategies and preferences of (groups of) individuals in cooperative and non-cooperative normal form games. It will not cover the use of game theory to study logical languages nor the role of epistemic concepts in strategic decisions. It will also not cover aspects of sequential decisions-making, typical of strategic reasoning in extensive games. An account of those can be found in the related entries logic and games, epistemic foundations of game theory (see also van Benthem, Pacuit, & Roy 2011 and van Benthem 2014)[^benthem-2014][^benthem-2011].
 
 ## 1. The Logic Underneath Games
 
@@ -59,7 +59,7 @@ $$(\mathcal{N}, W, \succeq, E)$$
 
 where $\mathcal{N}$ is the set of players, typically finite, $W$ the set of outcomes, $\succeq$ the preference relation and $E$ the action relation.
 
-This mathematical structure is also known as a **relational structure** (Blackburn, Rijke, & Venema 2001), which (in a certain sense) is a set-theoretic equivalent of a so-called **modal logic** (Blackburn *et al*. 2001)[^blackburn-2001], a mathematical language that is well-suited to express the mathematical properties of relations. A relational structure will henceforth be denoted $F$, which stands for **frame**.
+This mathematical structure is also known as a **relational structure** (Blackburn, Rijke, & Venema 2001)[^blackburn-2001], which (in a certain sense) is a set-theoretic equivalent of a so-called **modal logic** (Blackburn *et al*. 2001)[^blackburn-2001], a mathematical language that is well-suited to express the mathematical properties of relations. A relational structure will henceforth be denoted $F$, which stands for **frame**.
 
 The last ingredient that we need, in order to link relational structures and modal logics, is the specification of a set of atomic propositions Atoms, which expresses the relevant properties of the outcomes we are interested in. This set is usually taken to be countable[^note-1] and is associated to outcomes by means of a **valuation function**, i.e., a function of the form
 
@@ -279,7 +279,7 @@ Intuitively, if $C$ is able to achieve $\varphi$ and we have that $\varphi$ impl
 - **coalition monotonicity**: i.e., $X \in E(C)$ implies that $X \in E(D)$, for each $C\subseteq D \subseteq N$, $X \subseteq W$;
 - **well-foundedness**: i.e., $X \in E(N)$ implies that $\{x\} \in E(N)$, for some $x \in X$, for each $X \subseteq W$.
 
-An effectivity function is called **playable** (Pauly 2001)[^pauly-2001] if it has liveness, safety, *N*-maximality and superadditivity. It is called **truly playable** (Goranko, Jamroga, & Turrini 2013) if it is playable and well-founded. Observe that if $W$ is finite, an effectivity function is playable if and only if it is truly playable (Goranko *et al*. 2013)[^goranko-2013].
+An effectivity function is called **playable** (Pauly 2001)[^pauly-2001] if it has liveness, safety, *N*-maximality and superadditivity. It is called **truly playable** (Goranko, Jamroga, & Turrini 2013)[^goranko-2013] if it is playable and well-founded. Observe that if $W$ is finite, an effectivity function is playable if and only if it is truly playable (Goranko *et al*. 2013)[^goranko-2013].
 
 True playability is a fundamental property of effectivity functions of games, and connects one-shot coalitional games to one-shot non-cooperative games, as will be clear later.
 
@@ -384,7 +384,7 @@ $$(F,V), w_k \models w_k \rightarrow \bigvee_{C\subseteq N} [C]\left(\bigwedge_{
 
 if and only if $w_k$ does not belong to the core.
 
-Yet another alternative is to have atoms for coalitional power (Ågotnes, van der Hoek and Wooldridge 2009): $(F,V), w \models p_C$ iff $w \in E_w(C)$. Then:
+Yet another alternative is to have atoms for coalitional power (Ågotnes, van der Hoek and Wooldridge 2009)[^ågotnes-2009]: $(F,V), w \models p_C$ iff $w \in E_w(C)$. Then:
 
 **Proposition 12.** Let $w_k$ an atomic proposition be true at outcome $w_k$ and only at outcome $w_k$.
 
@@ -507,7 +507,7 @@ It follows that $E(C)$ is completely determined by its non-monotonic core.
 
 Some logics exploit a more compact representation of those relational structures that correspond to non-cooperative games.
 
-Rather than using effectivity functions, each player $i$ is associated with an equivalence relation $\approx_i \subseteq W\times W$, whose induced partition represent the choices he or she can perform. These equivalence relations describe the exact set of choices that a group of players can perform and the originating models are referred to as *consequentialist* in the literature (see for instance Belnap, Perloff, & Ming 2001).
+Rather than using effectivity functions, each player $i$ is associated with an equivalence relation $\approx_i \subseteq W\times W$, whose induced partition represent the choices he or she can perform. These equivalence relations describe the exact set of choices that a group of players can perform and the originating models are referred to as *consequentialist* in the literature (see for instance Belnap, Perloff, & Ming 2001)[^belnap-2001].
 
 Now define an effectivity function $E^{*}$ for which it holds that
 
@@ -529,7 +529,7 @@ To reason about consequentialist models, we use so-called consequentialist logic
 
 $M,w \models [C]\varphi$ if and only if $M,w'\models \varphi$ for all $w'$ such that $w (\bigcap_{i \in C} \approx_i)w'$
 
-Consequentialist logics have been developed to reason about action and consequence, and have interesting applications in deontic logic, such as Kooi & Tamminga 2008; Tamminga 2013; Turrini 2012. They are moreover the basis of temporal logics of strategy such as STIT and strategic STIT, discussed later. A special case are the logics of propositional control (Hoek & Wooldridge 2005; Troquard, Hoek, & Wooldridge 2009)[^hoek-2005].
+Consequentialist logics have been developed to reason about action and consequence, and have interesting applications in deontic logic, such as Kooi & Tamminga 2008; Tamminga 2013; Turrini 2012. They are moreover the basis of temporal logics of strategy such as STIT and strategic STIT, discussed later. A special case are the logics of propositional control (Hoek & Wooldridge 2005; Troquard, Hoek, & Wooldridge 2009)[^hoek-2005][^troquard-2009].
 
 #### 3.2.3 Quantified and Higher-order Coalition Logic
 
@@ -587,7 +587,7 @@ Inspired by the model update semantics of dynamic epistemic logic, Coalition Log
 
 #### 3.2.7 Logic-Based Games
 
-In many situations agents have control over certain propositional variables (Hoek & Wooldridge 2005)[^hoek-2005], for instance they can be responsible for traffic flow or they can veto a certain issue. Variables can also be shared (Gerbrandy 2006)[^gerbrandy-2006], an example being voting, where players share control over a variable whose realization is determined by a certain aggregation function, e.g., majority (Troquard, Hoek, & Wooldridge 2011). These logics of *propositional control* specify what propositions agents have in their effectivity function. For instance, if agent $i$ controls $p$, then both $p^{M}$ and $\neg p^{M}$ are in his or her effectivity function. In a way these models are very special types of effectivity function, and what agents control can be seen as a choice, or a strategy, available to them.
+In many situations agents have control over certain propositional variables (Hoek & Wooldridge 2005)[^hoek-2005], for instance they can be responsible for traffic flow or they can veto a certain issue. Variables can also be shared (Gerbrandy 2006)[^gerbrandy-2006], an example being voting, where players share control over a variable whose realization is determined by a certain aggregation function, e.g., majority (Troquard, Hoek, & Wooldridge 2011)[^troquard-2011]. These logics of *propositional control* specify what propositions agents have in their effectivity function. For instance, if agent $i$ controls $p$, then both $p^{M}$ and $\neg p^{M}$ are in his or her effectivity function. In a way these models are very special types of effectivity function, and what agents control can be seen as a choice, or a strategy, available to them.
 
 Logics for propositional control have modalities of the type $[[i]]\varphi$, meaning that player $i$ has a “control” strategy to see to it that, no matter how the other agents choose their control strategies, then $\varphi$ holds in the end. But they also have modalities of the type $[[C]]\varphi$, meaning that players in $C$ have a joint control strategy ensuring $\varphi$ in the end. A strategy profile is thus equivalent to a valuation function, which assigns a truth value of every proposition available. In turn, a strategy of a player $i$ can thus be seen as a partial valuation function, that assigns a truth value only to the propositions controlled by $i$.
 
@@ -597,9 +597,9 @@ $(F,V) \models [[C]]\varphi$ if and only if for all $i \in C$, there exists $V'_
 
 So when $[[C]]\varphi$ holds, coalition $C$ can play a control strategy in such a way that no matter what the control strategy is that their opponents play, the resulting outcome satisfies $\varphi$.
 
-Logics for propositional control can be extended to goal-based formalisms, the so called Boolean games (Harrenstein, van der Hoek, Meyer, & Witteveen 2001): propositions are partitioned among the players, with each player controlling the set of propositions he or she is assigned to. On top of that each player is also assigned a formula of propositional logic which is meant to be his or her goal and whose realization might not only depend upon the choices he or she is able to make.
+Logics for propositional control can be extended to goal-based formalisms, the so called Boolean games (Harrenstein, van der Hoek, Meyer, & Witteveen 2001)[^harrenstein-2001]: propositions are partitioned among the players, with each player controlling the set of propositions he or she is assigned to. On top of that each player is also assigned a formula of propositional logic which is meant to be his or her goal and whose realization might not only depend upon the choices he or she is able to make.
 
-Boolean games have been extensively studied in the field of multi-agent systems, as simple and compact models to represent strategic interaction in a logic-based setting (Dunne & Hoek 2004; Dunne & Wooldridge 2012; Dunne, Hoek, Kraus, & Wooldridge 2008)[^dunne-2004][^dunne-2012].
+Boolean games have been extensively studied in the field of multi-agent systems, as simple and compact models to represent strategic interaction in a logic-based setting (Dunne & Hoek 2004; Dunne & Wooldridge 2012; Dunne, Hoek, Kraus, & Wooldridge 2008)[^dunne-2004][^dunne-2012][^dunne-2008].
 
 In their most general variants they are an extension of logics with propositional control, where each agent is assigned a goal formula. The goal formula is a satisfiable formula of the language and the important feature is that the goal of each agent does not need to be under his or her control.
 
@@ -613,7 +613,7 @@ $$(v_i,v_{-i}) \not\models\gamma_i \mbox{ implies that } (v'_i,v_{-i}) \not\mode
 
 So if $v$ does not satisfy $i$’s goal, there is nothing $i$ can do to satisfy it.
 
-The analysis of Nash equilibria in Boolean game shows a close correspondence between these games and propositional logic: using a reduction to the satisfiability problem of propositional logic formulas, the problem of checking whether an outcome $v$ is a Nash equilibrium of a Boolean game is co-NP complete (Wooldridge, Endriss, Kraus, & Lang 2013).
+The analysis of Nash equilibria in Boolean game shows a close correspondence between these games and propositional logic: using a reduction to the satisfiability problem of propositional logic formulas, the problem of checking whether an outcome $v$ is a Nash equilibrium of a Boolean game is co-NP complete (Wooldridge, Endriss, Kraus, & Lang 2013)[^wooldridge-2013].
 
 Another common approach to concisely representing certain classes of games, in addition to representing payoffs qualitatively, is to impose restrictions on the payoff functions. An approach combining the two is found in Das *et al*. 2023, in which Monadic Least Fixed Point logic is used to express the existence of pure strategy Nash equilibria for games with pairwise separable payoff functions.
 

@@ -83,7 +83,7 @@ In 1794, while Condorcet was in hiding, Grouchy advised him to work on the intro
 
 These passages were deleted in a later edition by François Arago who preferred to see them as inauthentic than as the product of a collaboration between Condorcet and Grouchy.
 
-Condorcet’s discussion of the importance of the family for human society in these first paragraphs does not lead, as one might expect, to further discussion of how the family develops, and how it influences the progress of humanity. But in Grouchy’s 1795 edition, the idea that studying families is important in order to understand human progress is reintroduced in the last pages (Condorcet, 1795, p.322):
+Condorcet’s discussion of the importance of the family for human society in these first paragraphs does not lead, as one might expect, to further discussion of how the family develops, and how it influences the progress of humanity. But in Grouchy’s 1795 edition, the idea that studying families is important in order to understand human progress is reintroduced in the last pages (Condorcet, 1795, p.322)[^condorcet-1795]:
 
 > Until now, political history, as indeed, the history of philosophy and of science has always been the history of a few men. But what the human species actually consists in, the families, subsisting nearly entirely from their labor, has been forgotten.(my translation)
 

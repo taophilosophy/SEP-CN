@@ -135,7 +135,7 @@ There is another oddity about the $\forall$-I rule. We initially introduced the 
 
 a universal quantification, $\forall x(A(x))$, may be asserted after a subproof, general with respect to a special term, $a$, having $E!(a)$ as its hypothesis, containing the instance of the quantification, $A(a)$ as a line.
 
-Existence hypotheses and premises get added to the other quantifier rules: $\forall$-E and $\exists$-I become two-premise rules, with $E!(t)$ as the second premise, and the subproof for $\exists$-E ends up with two hypotheses, $A(a)$ and $E!(a)$. Formulations of many-sorted quantificational logics (Hailperin 1957, 1960 for a classic statement; Freund 2019 for a philosophical application)[^freund-2019][^hailperin-1957] can follow the same pattern, with the extra hypotheses and premises saying that the relevant term or parameter stands for something in the range of a particular sort of variable.
+Existence hypotheses and premises get added to the other quantifier rules: $\forall$-E and $\exists$-I become two-premise rules, with $E!(t)$ as the second premise, and the subproof for $\exists$-E ends up with two hypotheses, $A(a)$ and $E!(a)$. Formulations of many-sorted quantificational logics (Hailperin 1957, 1960 for a classic statement; Freund 2019 for a philosophical application)[^freund-2019][^hailperin-1957][^hailperin-1960] can follow the same pattern, with the extra hypotheses and premises saying that the relevant term or parameter stands for something in the range of a particular sort of variable.
 
 ### 3.2 Issues with $\forall$-Generalization and $\exists$-Instantiation
 
@@ -341,7 +341,7 @@ It is equally possible to keep the elimination rule as initially stated—from $
 
 Figure 10 [An extended description of figure 10 is in the supplement.]
 
-The generalization of this feature is now called *Harmony* by most of the concerned theorists (see Read 2004; Steinberger 2011, among many others, for discussion)[^read-2004][^steinberger-2011]. As we have already remarked, many have claimed that this is the “proper” form of rules of logic: it is the key to describing what is “meant” by a logical connective and also what a restriction on The One True Logic is—namely, that all its connectives must exemplify this property. And hence many theorists have claimed that Intuitionistic Logic is The One True Logic. (For examples of forcefully articulated opinions on the matter, see Read 2006, 2008, 2010.)[^read-2006]
+The generalization of this feature is now called *Harmony* by most of the concerned theorists (see Read 2004; Steinberger 2011, among many others, for discussion)[^read-2004][^steinberger-2011]. As we have already remarked, many have claimed that this is the “proper” form of rules of logic: it is the key to describing what is “meant” by a logical connective and also what a restriction on The One True Logic is—namely, that all its connectives must exemplify this property. And hence many theorists have claimed that Intuitionistic Logic is The One True Logic. (For examples of forcefully articulated opinions on the matter, see Read 2006, 2008, 2010.)[^read-2006][^read-2008][^read-2010]
 
 A possibly serious challenge to the thought that Harmony is *the* central feature of an adequate logic comes from considerations on identity. The introduction and elimination rules for identity are usually seen as in figure 11.
 

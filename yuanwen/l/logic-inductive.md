@@ -314,7 +314,7 @@ Then, $$\begin{align} \Omega[\neg h_R \mid c \cdot e \cdot b] & \; \le \; K \tim
 
 In Bayesian statistics, interval hypotheses of this kind on which posterior probabilities are assessed are called *credible intervals*. The posterior probabilities of such intervals are usually calculated from prior probability distributions governed by explicitly known (or assumed) prior probability density functions. Often the assumed density function is given by $p[h_q \mid c \cdot b] = 1$ over all $h_q$ in $H$, in which case the prior is said to have a flat distribution. When the prior is flat, the value of $K=1$, and the precise value of the posterior probability for region (interval) $R$ is given by the formula, $$P[h_R \mid c \cdot e \cdot b] \; \; = \; \; \frac{\int_R p[e \mid h_q \cdot c \cdot b] \; \; dr}{\int_H p[e \mid h_q \cdot c \cdot b] \; \; dq}.$$
 
-*Rule BE-C* is closely related to the Bayesian *Principle of Stable Estimation* (Edwards, Lindman, Savage, 1963), but somewhat simpler and easier to apply. An example of its application is supplied in Section 2.5.
+*Rule BE-C* is closely related to the Bayesian *Principle of Stable Estimation* (Edwards, Lindman, Savage, 1963)[^edwards-1963], but somewhat simpler and easier to apply. An example of its application is supplied in Section 2.5.
 
 ### 1.7 On the Epistemic Status of Auxiliary Hypotheses
 

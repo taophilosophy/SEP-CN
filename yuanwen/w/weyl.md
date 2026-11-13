@@ -1510,7 +1510,7 @@ This problem is relatively simple in a Euclidean space because such a space sati
 
 $$\tag{63} v\,'(t) = \frac{dv(t)}{dt} = \lim_{h \rightarrow 0} \frac{[v(t+h)-v(t)]}{h}. $$
 
-It is clear that one is comparing a vector at one point, $x(t)$, with another vector at the second point, $x(t + h)$. This comparison is possible because $\mathbb{R}^{n}$, being an affine space, allows us to parallel translate a vector at a given point to any other point in $\mathbb{R}^{n}$. But this definition of the derivative cannot be carried over directly to a vector or tensor field defined over a general manifold. In such a situation, tangent vectors, or more generally, tensors at two different points $x^{i}$ and $x^{i} + dx^{i}$, obey different transformation laws; consequently, their difference is not a tensor. Tensorial quantities, such as vectors and other entities, can be algebraically combined and manipulated only when they are located at the same point on the manifold. If it is possible, however, to compare two tangent vectors which are located at two infinitesimally nearby points, *at one of the two points*, by means of an *appropriate* notion of infinitesimal parallel displacement of one tangent vector to the location of the other, then we can determine their difference; and their difference will itself be a vector, and therefore a tensorial quantity, provided the process of infinitesimal parallel transport employed, is coordinate independent. See for example (Frankel, 1997, 236).
+It is clear that one is comparing a vector at one point, $x(t)$, with another vector at the second point, $x(t + h)$. This comparison is possible because $\mathbb{R}^{n}$, being an affine space, allows us to parallel translate a vector at a given point to any other point in $\mathbb{R}^{n}$. But this definition of the derivative cannot be carried over directly to a vector or tensor field defined over a general manifold. In such a situation, tangent vectors, or more generally, tensors at two different points $x^{i}$ and $x^{i} + dx^{i}$, obey different transformation laws; consequently, their difference is not a tensor. Tensorial quantities, such as vectors and other entities, can be algebraically combined and manipulated only when they are located at the same point on the manifold. If it is possible, however, to compare two tangent vectors which are located at two infinitesimally nearby points, *at one of the two points*, by means of an *appropriate* notion of infinitesimal parallel displacement of one tangent vector to the location of the other, then we can determine their difference; and their difference will itself be a vector, and therefore a tensorial quantity, provided the process of infinitesimal parallel transport employed, is coordinate independent. See for example (Frankel, 1997, 236)[^frankel-1997].
 
 [^note-40]: Let $M$ and $N$ be manifolds. If $f : M \rightarrow N$ is $C^{\infty}$, one-to-one, onto, and has $C^{\infty}$ inverse, then $f$ is called a *diffeomorphism* and $M$ and $N$ are said to be *diffeomorphic*. Diffeomorphic manifolds have identical manifold structures. In the current context, $M$ and $N$ are replaced by $\mathbb{R}$. For further discussion of the notion of a diffeomorphism, see §4.4.2.
 
@@ -1616,7 +1616,7 @@ Weyl (2017) also includes an hitherto unpublished essay by Weyl (2017a), entitle
 
 [^note-77]: Thus formulated, the law of inertia is an empirical law. It is falsifiable, for if there exist at least two sets of particles each of which is governed by a distinct *geodesic* directing field $\Pi_{2}$ and $\Pi'_{2}$, then particles belonging to the two distinct directing-field sets may be identified and in turn may be used to measure in any chosen local neighbourhood of spacetime the two distinct projective structures. This discovery procedure is a non-circular, coordinate and frame independent epistemically effective procedure which makes use of a purely local differential topological criterion for geodesicity. (See Coleman and Korté (1980, 1982, 1984, 1987, 1989, 1990))
 
-[^note-78]: See, (Scholz, 2001, 83) and (Sigurdsson, 1991, 204).
+[^note-78]: See, (Scholz, 2001, 83)[^scholz-2001][^scholz-2001-2] and (Sigurdsson, 1991, 204)[^sigurdsson-1991].
 
 [^note-79]: See also Sieroka (2006) who looks in this context at the influence of Fichte on Weyl.
 
@@ -1662,7 +1662,7 @@ Weyl then points out that his own proof is more direct and elementary than Carta
 
 [^note-97]: For a discussion of Schrödinger’s paper see Yang (1987). For an interesting observation concerning the historical context of Schrödinger’s paper see Raman and Forman (1969).
 
-[^note-98]: On Weyl’s reaction to any of these proposals to reinterpret his 1918 gauge invariance see (Scholz, 2004, 185). A good discussion of the history of Weyl’s new gauge principle can be found in Jackson and Okun (2001).
+[^note-98]: On Weyl’s reaction to any of these proposals to reinterpret his 1918 gauge invariance see (Scholz, 2004, 185)[^scholz-2004]. A good discussion of the history of Weyl’s new gauge principle can be found in Jackson and Okun (2001).
 
 [^note-99]: It should be noted, however, that there were other prominent scientists such as, for example, Sommerfeld, Eddington, and Plank whose initial reaction to Weyl’s unified field theory was very positive.
 
@@ -1686,7 +1686,7 @@ Weyl then points out that his own proof is more direct and elementary than Carta
 
 [^note-108]: Noting Weyl’s strong association of gauge invariance with relativity theory in Weyl’s 1929 paper, Yang (1986) remarks: “Twenty years later, when Mills and I worked on non-Abelian gauge fields, our motivation was completely divorced from general relativity and we did not appreciate that gauge fields and general relativity are somehow related. Only in the late 1960’s did I recognize the structural similarity mathematically of non-Abelian gauge fields with general relativity and understand that they both were *connections* mathematically.”
 
-[^note-109]: For an elementary account of gauge theory and its history, including a discussion of the Aharonov-Bohm effect in this context, see (Moriyasu, 1983, 18, 55).
+[^note-109]: For an elementary account of gauge theory and its history, including a discussion of the Aharonov-Bohm effect in this context, see (Moriyasu, 1983, 18, 55)[^moriyasu-1983].
 
 [^note-110]: See also a 2020 collection of papers entitled *One Hundred Years of Gauge Theory*, edited by Silvia De Bianchi and Claus Kiefer. The papers “Hermann Weyl’s Space-Time Geometry and the Origin of Gauge Theory 100 Years Ago” by Norbert Straumann, and “Gauging the Spacetime Metric—Looking Back and Forth a Century Later” by Erhard Scholz, are particularly noteworthy in this context.
 

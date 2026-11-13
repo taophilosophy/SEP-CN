@@ -123,7 +123,7 @@ The problem is that, as we know (1.2), Spinoza *prohibits* cross-attribute expla
 
 Here is another interpretative problem that seems to plague Spinoza’s account of the human mind. How should we understand the relation between 1) the intentional or representational relation that human minds essentially bear to bodies, and 2) Spinoza’s claim that minds and bodies are “one and the same thing” (E2p7s)? The doctrine of mind-body identity seems to follow directly for Spinoza from *substance’s* identity under different attributes: since thinking substance and extended substance are in fact just a single substance considered or described in two different ways, so also all of substance’s *modifications* will be subject to that same sort of multiplicity of descriptions. Accordingly, the human mind and the human body are numerically “one and the same thing” (namely, a certain finite mode) but this mode can be veridically described as a mind *or* as a body. But when we pair this doctrine of mind-body identity with the thesis of an essential representational relation between the mind and the body, we are faced with the question, Why should a mind represent what it is numerically identical with, or be identical with what it represents? How do we make this twofold nature of the mind-body relation intelligible?
 
-(On mind-body identity, see e.g. Delahunty 1985; Della Rocca 1996; Jarrett 1991; C. Marshall 2009; on its relation to mind-body intentionality, Garrett 2018: ch.15; Hübner 2022; for solutions to the barrier violation, e.g. Della Rocca 1996, Hübner 2022, 2019.)[^della-1996][^delahunty-1985][^garrett-2018][^hübner-2022][^jarrett-1991][^marshall-2009]
+(On mind-body identity, see e.g. Delahunty 1985; Della Rocca 1996; Jarrett 1991; C. Marshall 2009; on its relation to mind-body intentionality, Garrett 2018: ch.15; Hübner 2022; for solutions to the barrier violation, e.g. Della Rocca 1996, Hübner 2022, 2019.)[^della-1996][^delahunty-1985][^garrett-2018][^hübner-2022][^hübner-2019][^jarrett-1991][^marshall-2009]
 
 ### 2.3 Consciousness and ideas of ideas
 
@@ -153,7 +153,7 @@ To fend off this objection Spinoza must find a way of explaining the possibility
 
 The obvious question this reconstruction of Spinoza’s account raises is why, in cases of mental conflict, in which certain ideas “exclude” other ideas, should one of these ideas ultimately prevail? As Diane Steinberg notes, Spinoza cannot have in mind a purely *logical* inconsistency or contradiction between ideas, since this doesn’t yet give us a reason to nonarbitrarily prefer one idea over another (2003). The psychology of “exclusion” must thus involve not merely logical incompatibility of contents, but something that would asymmetrically tip the scales in favor of one idea or another. Commentators have proposed that greater causal *power* as the best candidate for this role: the winning idea is the idea with more power to continue existing and to produce further ideas (in short, greater power to “strive” [E3p7]), or greater power to determine the mind’s activity or causal power as a whole (e.g. Della Rocca 2003; J. Steinberg 2018b)[^steinberg-2018b].
 
-(On affirmation, will and excluding ideas see also 3.2.2. On “fictions”, see e.g. Barry 2019, 2021, D. Garrett 2018: ch. 5, J. Steinberg 2018b; on striving, see e.g. Carriero 2011, Kisner 2011, LeBuffe 2010, Viljanen 2011, Youpa 2020 and entry on Spinoza’s psychological theory.)[^barry-2019][^carriero-2011][^garrett-2018][^kisner-2011][^lebuffe-2010][^steinberg-2018b][^viljanen-2011][^youpa-2020]
+(On affirmation, will and excluding ideas see also 3.2.2. On “fictions”, see e.g. Barry 2019, 2021, D. Garrett 2018: ch. 5, J. Steinberg 2018b; on striving, see e.g. Carriero 2011, Kisner 2011, LeBuffe 2010, Viljanen 2011, Youpa 2020 and entry on Spinoza’s psychological theory.)[^barry-2019][^barry-2021][^carriero-2011][^carriero-2020][^garrett-2018][^kisner-2011][^lebuffe-2010][^steinberg-2018b][^viljanen-2011][^youpa-2020]
 
 ## 3. Epistemology
 
@@ -199,7 +199,7 @@ A third interpretive puzzle concerns the meaning of the two terms – “depende
 
 Finally, to pick up a problem flagged in 3.1, since each finite thing depends on an “infinite” series of prior finite causes (E1p28), if “adequate” cognition of a thing requires a grasp of *all* its causes, this would put an implausible, “stratospherically high” (Bennett 1984)[^bennett-1984] requirement on cognition. Indeed it would presumably put such cognition outside the reach of minds like ours, since, as Spinoza admits, we simply cannot know the entire infinite series of finite things responsible for any given state of affairs in nature (TIE §100). Here Wilson’s insight about how Spinoza uses “involvement” is helpful: we *can* have adequate causal cognition of particular things, as long as we look to God (the first and universal cause of all things) and not to the infinite series of prior *finite* things as the relevant cause, and as long as we attempt to explain the *essences* of particulars, not their durational states. Spinoza’s doctrine of “common notions” (see 3.2.3) guarantees that we have adequate ideas of God under the attributes of extension and thought. And to know God as the cause of the essence of a particular thing is just to have what Spinoza calls “intuitive cognition” (see 3.2.5.)
 
-(On causal cognition, see e.g. Koistinen 1996, Morrison 2013, 2015, Nelson 2025; on reconciling it with mind-body account, Della Rocca 1996, Hübner 2021; on possibility of adequate cognition, e.g. G. Marshall 2013.)[^della-1996][^hübner-2021][^koistinen-1996][^marshall-2013][^morrison-2013]
+(On causal cognition, see e.g. Koistinen 1996, Morrison 2013, 2015, Nelson 2025; on reconciling it with mind-body account, Della Rocca 1996, Hübner 2021; on possibility of adequate cognition, e.g. G. Marshall 2013.)[^della-1996][^hübner-2021][^koistinen-1996][^marshall-2013][^morrison-2013][^morrison-2015]
 
 #### 3.2.2 Kinds of cognition I: Imagination and falsity
 
@@ -247,7 +247,7 @@ One interesting upshot of Spinoza allowing for this second, relative type of com
 
 Finally, once again, the fact that no common notion *on its own* can be a cause of falsity doesn’t mean that we cannot put common notions, of either kind, to bad use: we can still “join” adequate ideas to ideas of more dubious value, producing more complex *inadequate* representations (cf. 3.2.2). Hence even if we necessarily adequately conceive of God *as a thinking thing*, we still are in danger of joining this adequate idea to that of a benign or vengeful ruler as the referent of the name *God*.
 
-(On reason, see e.g. Kisner 2011; LeBuffe 2017, Malinowski-Charles 2010; on common notions, Donagan 1988; Primus 2017.)[^donagan-1988][^kisner-2011][^lebuffe-2017][^malinowski-charles-2010][^primus-2017]
+(On reason, see e.g. Kisner 2011; LeBuffe 2017, Malinowski-Charles 2010; on common notions, Donagan 1988; Primus 2017.)[^donagan-1988][^kisner-2011][^lebuffe-2010][^lebuffe-2017][^malinowski-charles-2010][^primus-2017]
 
 #### 3.2.4 Generality and abstraction
 

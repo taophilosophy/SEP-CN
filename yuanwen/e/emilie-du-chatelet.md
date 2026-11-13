@@ -194,7 +194,7 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^note-7]: Many thanks to Eileen O'Neill for suggesting various ways of interpreting the principle of contradiction, suggestions that helped clarify my thinking on this aspect of Du Châtelet's philosophy.
 
-[^note-8]: Voltaire to Maupertuis, 1 October 1738. In Voltaire, *Correspondence and related documents*, ed. Theodore Besterman. (Genève: Institut et Musée Voltaire, 1968–77), letter #1622. See Barber 1967, 220 for a detailed account of her rejection of Voltaire's extreme reaction against metaphysics.
+[^note-8]: Voltaire to Maupertuis, 1 October 1738. In Voltaire, *Correspondence and related documents*, ed. Theodore Besterman. (Genève: Institut et Musée Voltaire, 1968–77)[^voltaire-1968], letter #1622. See Barber 1967, 220 for a detailed account of her rejection of Voltaire's extreme reaction against metaphysics.
 
 [^note-9]: Janik notes this as one of Du Châtelet's central physico-theological interests with her opinion solidifying in favor of intellectualism by 1740. See Janik 1982, 101 and 104. See also Robert Locqueneux 1995, 866. For her disagreement with Voltaire's approach because of its disadvantage in science, see Hagengruber 2012, 1–59.
 

@@ -321,7 +321,7 @@ An important way of introducing abstract objects that has been discussed in the 
 
 ### 3.2 Intentional or Nonexistent Objects
 
-The view that there are nonexistent or intentional objects, Meinongianism, is a highly controversial philosophical view (van Inwagen 2003; entries on existence, nonexistent objects, fictional entities). But it is a view that is often motivated or defended by appeal to natural language (Fine 1982; van Inwagen 1977; Kripke 2013; McGinn 2000; Parsons 1980; Priest 2005; Salmon 1987, 1998; Thomasson 1999)[^fine-1982][^kripke-2013][^mcginn-2000][^parsons-1980][^salmon-1987][^thomasson-1999], namely sentences with existence predicates or intentional verbs such as *look for* or *think about*:
+The view that there are nonexistent or intentional objects, Meinongianism, is a highly controversial philosophical view (van Inwagen 2003; entries on existence, nonexistent objects, fictional entities). But it is a view that is often motivated or defended by appeal to natural language (Fine 1982; van Inwagen 1977; Kripke 2013; McGinn 2000; Parsons 1980; Priest 2005; Salmon 1987, 1998; Thomasson 1999)[^fine-1982][^kripke-2013][^mcginn-2000][^parsons-1980][^salmon-1987][^salmon-1998][^thomasson-1999], namely sentences with existence predicates or intentional verbs such as *look for* or *think about*:
 
 **(9)**
 

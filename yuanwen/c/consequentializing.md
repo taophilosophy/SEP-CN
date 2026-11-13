@@ -112,7 +112,7 @@ In any case, notational consequentializing aims to use the Footian Procedure, if
 
 ### 3.3 Pragmatic Consequentializing
 
-Most recently, some have consequentialized for purely pragmatic reasons (see Colyvan, Cox, & Steele 2010 and Lazar 2017)[^lazar-2017]. For instance, Seth Lazar tells us:
+Most recently, some have consequentialized for purely pragmatic reasons (see Colyvan, Cox, & Steele 2010 and Lazar 2017)[^colyvan-2010][^lazar-2017]. For instance, Seth Lazar tells us:
 
 > My interest in consequentializing is purely instrumental. It allows me to represent my moral theory in a way that makes it amenable to decision theory. …Consequentializing [my] deontological moral theory allows [me] to apply it to situations with imperfect information. It makes deontological decision theory possible. (2017: 586–87)
 

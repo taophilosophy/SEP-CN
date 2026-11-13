@@ -228,7 +228,7 @@ Research on preference logic has frequently been linked to understanding agent c
 
 A modal preference model $\mathcal{M}$ is a triple $(W, \succeq, V)$ where W is a set of possible worlds, $\succeq$ is a binary preference relation over these worlds, and V is a valuation assigning truth values to propositional letters in these worlds. Depending on the context, we assume the preference relation $\succeq$ has certain properties. For instance, it can be a (total) pre-order, or a partial order, etc. If we choose (total) pre-order, a strict preference relation “$w\succ v$” can then be defined as “$w\succeq v\land v \nsucceq w$”, and an indifference relation “$w\approx v$” can be defined as “$w\succeq v\land v\succeq w$”.
 
-On the syntactic side, a modal preference language is given to express the basic preference relations and their properties. The language is an extension of propositional logic, with two new operators $\lozenge^{\geq}\varphi$ and $\lozenge^{>}\varphi$ (Van Benthem, Girard, & Roy 2009). Their truth conditions are defined below:
+On the syntactic side, a modal preference language is given to express the basic preference relations and their properties. The language is an extension of propositional logic, with two new operators $\lozenge^{\geq}\varphi$ and $\lozenge^{>}\varphi$ (Van Benthem, Girard, & Roy 2009)[^van-2009]. Their truth conditions are defined below:
 
 $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
 
@@ -323,7 +323,7 @@ In formal models of extrinsic preference, a *two-layer structure* is typically a
 
 #### 4.2.1 Priorities and preference
 
-In the context of deciding between options, the notion of priorities was introduced (Liu 2008, 2010; De Jongh & Liu 2009)[^liu-2008]. Priorities represent important properties ordered according to an individual’s considerations, which in turn determine preference among choices.
+In the context of deciding between options, the notion of priorities was introduced (Liu 2008, 2010; De Jongh & Liu 2009)[^liu-2008][^liu-2010]. Priorities represent important properties ordered according to an individual’s considerations, which in turn determine preference among choices.
 
 A two-layer structure consists of a priority base and preferences. A *priority base* is a set of properties ranked according to an agent’s considerations. Consider the example of Alice, who is deciding which house to buy. She evaluates each house based on three criteria—cost, quality, and neighborhood—in that order of importance. For Alice, the cost of a house is good if it fits her budget; otherwise, it is bad. Her decision is thus guided by whether the house meets her prioritized criteria and the relative importance of those criteria.
 
@@ -343,7 +343,7 @@ where $C(x)$, $Q(x)$, and $N(x)$ represent that x has a low price (cost), high q
 
 The linearly-ordered priorities in the two-layer structure can also be generalized to partially ordered priority graphs (which allows certain priorities to be non-comparable) or even to unordered sets of properties (Kratzer 1981; Liu 2011b)[^kratzer-1981][^liu-2011b].
 
-In deontic logic, the two-layer structure (where priorities establish a preference or obligation ordering) has also been widely recognized, particularly in systems that prioritize commands (see the work of Hansen 2008 and Van Benthem, Grossi, & Liu 2010)[^hansen-2008][^liu-2010], which will be discussed in Section 7.
+In deontic logic, the two-layer structure (where priorities establish a preference or obligation ordering) has also been widely recognized, particularly in systems that prioritize commands (see the work of Hansen 2008 and Van Benthem, Grossi, & Liu 2010)[^hansen-2008][^liu-2010][^van-2010], which will be discussed in Section 7.
 
 Belief as reasons
 
@@ -429,7 +429,7 @@ where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation,
 
 $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
 
-More generally, in this framework, suggestion $\sharp(\varphi)$ can be understood as a relational program in propositional dynamic logic (PDL) (cf. Harel, Kozen, & Tiuryn 2000), with
+More generally, in this framework, suggestion $\sharp(\varphi)$ can be understood as a relational program in propositional dynamic logic (PDL) (cf. Harel, Kozen, & Tiuryn 2000)[^harel-2000], with
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 

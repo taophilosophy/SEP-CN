@@ -83,7 +83,7 @@ Still, using the notion of form in this way to characterize the substantiality o
 
 Here, the connection between Taurellus and his teacher Jacob Schegk becomes relevant. Schegk maintains that both inanimate forms and animate forms depend on the mixture of elements. As he points out, such a conception of the origin of animate forms has the consequence that “an animate form also is a physical form …” (PT). In fact, such a view of the origin of souls is found in Alexander of Aphrodisias (fl. ca. 200 CE), upon whose work Schegk has commented extensively. According to Alexander, the soul
 
-> is a power and form, which supervenes through such a mixture upon the temperament of bodies; and it is not a proportion or a composition of the temperament. (Alexander of Aphrodisias 1568: 78, 2008: 104)
+> is a power and form, which supervenes through such a mixture upon the temperament of bodies; and it is not a proportion or a composition of the temperament. (Alexander of Aphrodisias 1568: 78, 2008: 104)[^alexander-2008]
 
 As Victor Caston has argued, talk about supervenience should here be taken in the technical sense of a co-variation of mental states with bodily states (Caston 1997: 348–349)[^caston-1997]. Moreover, Caston emphasizes that, for Alexander, the soul possesses causal powers that are more than the aggregates of the causal powers of the elements (1997: 349–350). In the sense that Alexander ascribes distinct new powers to souls as well as to the forms of non-animate composites such as chemical blends, Caston characterizes Alexander as one of the ancient thinkers who were committed to emergentism (1997).
 

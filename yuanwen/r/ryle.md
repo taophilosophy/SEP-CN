@@ -436,7 +436,7 @@ Note also Stanley’s (2011a, 207-208) description of Ryle’s position, introdu
 
 > I exercise (or manifest) my knowledge that one can get the door open by turning the knob and pushing it (as well as my knowledge that there is a door there) by performing that operation quite automatically as I leave the room; and I may do this, of course, without formulating (in my mind or out loud) that proposition or any other relevant proposition.
 
-What is to count as manifesting knowledge-that? Is it that, for example, “[t]he intellectual state—a propositional attitude—is such that it is simply exercised, and its being exercised leads directly (non-Intelligently) to an Intelligent action” (Bengson and Moffett, 2012, p. 22)? It is not clear either what explanatory work this accomplishes, or what would count as evidence for it. Perhaps Ginet’s example is illustrative instead, as suggested here, of nothing more than the unremarkable interchangeability of these expressions in certain contexts.
+What is to count as manifesting knowledge-that? Is it that, for example, “[t]he intellectual state—a propositional attitude—is such that it is simply exercised, and its being exercised leads directly (non-Intelligently) to an Intelligent action” (Bengson and Moffett, 2012, p. 22)[^bengson-2012]? It is not clear either what explanatory work this accomplishes, or what would count as evidence for it. Perhaps Ginet’s example is illustrative instead, as suggested here, of nothing more than the unremarkable interchangeability of these expressions in certain contexts.
 
 [^here-nd]: Here is a list of Ryle’s works cited in this entry.
 

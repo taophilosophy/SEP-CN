@@ -39,7 +39,7 @@ Hazlitt famously described Godwin’s reputation in the 1790s in an essay in his
 
 Godwin himself confirms the view. When travelling in the Midlands in 1794 he found that
 
-> I was nowhere a stranger. The doctrines of that work, (his Enquiry Concerning Political Justice) coincided in a great degree with the sentiments then prevailing in English Society, and I was everywhere received with curiosity and kindness. (Marshall, *William Godwin*, 1984: 121)
+> I was nowhere a stranger. The doctrines of that work, (his Enquiry Concerning Political Justice) coincided in a great degree with the sentiments then prevailing in English Society, and I was everywhere received with curiosity and kindness. (Marshall, *William Godwin*, 1984: 121)[^marshall-1984]
 
 Only six years later, reflecting on his reputation, he wrote,
 

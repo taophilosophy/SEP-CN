@@ -225,7 +225,7 @@ Kent Greenwalt (2000: 191) echoes the same concern when he reminds us that,
 
 > those who decide whether to include amnesty as an adjunct to a truth commission must face two basic issues. Does granting amnesty to murderers and torturers involve doing injustice? What might justify the state's doing such an injustice?
 
-In what follows, we offer a critical survey of some of the most important philosophical justifications of the TRC. The discussion applies to any truth commission with comparable powers (this discussion is based on Eisikovits 2004, 2006)[^eisikovits-2004].
+In what follows, we offer a critical survey of some of the most important philosophical justifications of the TRC. The discussion applies to any truth commission with comparable powers (this discussion is based on Eisikovits 2004, 2006)[^eisikovits-2004][^eisikovits-2006].
 
 ### 3.2 Justifying Truth Commissions
 
@@ -297,7 +297,7 @@ Such a reaction suggests that demands for forgiveness might exacerbate rather th
 
 Finally, it is worth remembering that forgiveness is a deeply Christian notion. As J.G. Williams puts it: “forgiveness is at the religious, theological and ethical core of the Christian tradition” (Rye et al. 2000: 31)[^rye-2000]. The term does have an important role in both Judaism and Islam, but its status in these faiths is more ambivalent. Thus, for example, while Judaism does, under some conditions, impose a duty to forgive, it is not clear whether this duty must be exercised towards non-Jews. Furthermore, Judaism, unlike Christianity, discourages unconditional forgiveness. Islamic doctrine does state that forgiveness is superior to revenge, but permits retributive practices, and even feuding under some circumstances. Unlike the famous Christian teaching encouraging the turning of the other cheek, the Koran recommends a middle way between absolute vindictiveness and absolute forgiving. It reads:
 
-> let harm be requited by an equal harm, though anyone who forgives and puts things right will have his reward from God Himself--He does not like those who do wrong. (al-Shura 42:40) (Haleem, M., 2004))
+> let harm be requited by an equal harm, though anyone who forgives and puts things right will have his reward from God Himself--He does not like those who do wrong. (al-Shura 42:40) (Haleem, M., 2004)[^haleem-2004])
 
 The Koran also makes a division between forgivable and unforgivable sins, mentioning the trespass of *shirk*—the recognition of divinities other than Allah—as a prime example of the latter category. Finally, both Judaism and Islam allow for forgiveness without the resumption of relations between victim and offender, while Christianity insists that the possibility of full restoration of previous relations be left open.
 

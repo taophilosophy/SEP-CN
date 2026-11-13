@@ -198,7 +198,7 @@ This profound reasoning could nevertheless be questioned. Once we understand tha
 
 ### 3.3 Consequentialist Elements and Interpretations
 
-Several scholars have advanced consequentialist interpretations of the overall moral view expressed in Śāntideva’s works (see Siderits 2000; Clayton 2006: 112–18; Goodman 2008, 2009)[^clayton-2006][^goodman-2008][^siderits-2000]. One of the best pieces of textual evidence in favor of such interpretations occurs at *ŚS* 15, where Śāntideva writes in his own voice:
+Several scholars have advanced consequentialist interpretations of the overall moral view expressed in Śāntideva’s works (see Siderits 2000; Clayton 2006: 112–18; Goodman 2008, 2009)[^clayton-2006][^goodman-2008][^goodman-2009][^siderits-2000]. One of the best pieces of textual evidence in favor of such interpretations occurs at *ŚS* 15, where Śāntideva writes in his own voice:
 
 > On this topic, for those who have taken the vow, a universal characteristic of downfalls will be stated, so that whenever they perceive anything that has that characteristic, they should abandon it, and so that they will not become confused by merely apparent downfalls, or things that merely appear not to be downfalls.
 >

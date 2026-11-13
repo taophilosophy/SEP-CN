@@ -359,7 +359,7 @@ epistemology: Bayesian | probability, interpretations of
 
 ## Notes（原文脚注）
 
-[^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probabilty is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955), (Harper, 1976), (Sphon, 1986), (Hammond, 1994), (McGee, 1994) and (Joyce 1999, 201-213)[^joyce-1999].
+[^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probabilty is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955)[^renyi-1955], (Harper, 1976)[^harper-1976], (Sphon, 1986)[^sphon-1986], (Hammond, 1994)[^hammond-1994], (McGee, 1994)[^mcgee-1994] and (Joyce 1999, 201-213)[^joyce-1999].
 
 [^note-2]: **P***_{E}* must be a real-valued function, bounded between zero and one, that satisfies:
 
@@ -372,7 +372,7 @@ epistemology: Bayesian | probability, interpretations of
 
 [^note-5]: For an excellent general discussion of subjectivism see the entry interpretations of probability in this *Encyclopedia*.
 
-[^note-6]: When the person's opinions about *H* are not sufficiently definite to be measured by a single number, her belief state is represented by a family of probability functions. For useful discussions of indeterminate belief states see (Levi, 1985), (Jeffrey, 1987) and (Kaplan 1996, pp. 23-31)[^kaplan-1996].
+[^note-6]: When the person's opinions about *H* are not sufficiently definite to be measured by a single number, her belief state is represented by a family of probability functions. For useful discussions of indeterminate belief states see (Levi, 1985)[^levi-1985], (Jeffrey, 1987)[^jeffrey-1987] and (Kaplan 1996, pp. 23-31)[^kaplan-1996].
 
 [^note-7]: One can have a determinate subjective probability for *H* conditional on *E* even when one lacks determinate probabilities for *H* & *E* and *E*. Statistical evidence often justifies assignments of conditional probability without providing any information about underlying unconditional probabilities. For example, careful study of actuarial tables might convince me that my chances of living past eighty given that I have a serious heart attack in my fifties are between 0.04 and 0.02, but the same table might give me no information whatever about the chances that I will suffer a serious heart attack in my fifties, and so no information about my unconditional chances of living to eighty.
 

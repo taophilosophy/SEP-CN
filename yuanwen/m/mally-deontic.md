@@ -295,7 +295,7 @@ A relevant version **RD** of Mally’s deontic system may be defined as follows:
 
 Although most of Mally’s surprising theorems are not derivable in **RD**, this has nothing to do with Mally’s own reasons for regarding these theorems as surprising. They are not derivable in **RD** because they depend on fallacies of relevance. Mally never referred to such fallacies to explain his surprise. His considerations were quite different, as we have already described.
 
-**RD** is closely related to Anderson’s relevant deontic logic **ARD**, which is defined as **R** supplemented with the following two axioms (Anderson 1967, 1968, McArthur 1981; Anderson used the unary connective O instead of !)[^anderson-1967][^mcarthur-1981]:
+**RD** is closely related to Anderson’s relevant deontic logic **ARD**, which is defined as **R** supplemented with the following two axioms (Anderson 1967, 1968, McArthur 1981; Anderson used the unary connective O instead of !)[^anderson-1967][^anderson-1968][^mcarthur-1981]:
 
 | ARD1. | !A ↔ (¬A → ∩) |
 | --- | --- |
@@ -306,7 +306,7 @@ Although most of Mally’s surprising theorems are not derivable in **RD**, this
 - ARD2 is not a theorem of **RD**+ARD1.[^note-18] This formula does not occur in Mally’s book, but Mally endorsed the corresponding informal principle: “a person who wills correctly does not will (not even implicitly) the negation of what he wills; correct willing is free of contradictions.”[^note-19]
 - **RD** supplemented with ARD1( → ) and ARD2 has the same theorems as **ARD**.[^note-20]
 
-Anderson’s system has several problematical features (McArthur 1981, Goble 1999, 2001)[^goble-1999][^mcarthur-1981] and **RD** shares most of these features. But we will not go into this issue here. It is at any rate clear that **RD** is better than Mally’s original system.
+Anderson’s system has several problematical features (McArthur 1981, Goble 1999, 2001)[^goble-1999][^goble-2001][^mcarthur-1981] and **RD** shares most of these features. But we will not go into this issue here. It is at any rate clear that **RD** is better than Mally’s original system.
 
 ## 9. Alternative Non-Deontic Bases 2: Intuitionistic Logic
 
@@ -546,7 +546,7 @@ We owe this proof to John Slaney.
 
 (30) is proven as follows: we have ∩ → (V → ∩) by Ax. t, whence ∩ → (U → Λ) by Contraposition and Double Negation, whence ∩ → !Λ by (16).
 
-[^note-13]: In order to prove this claim, we first have to remove an obstacle: (2), (5), (15) and (27) do not belong to the language of **RD** because they contain propositional quantifiers. If such quantifiers were added in the usual way (Anderson, Belnap & Dunn 1992, sec. 32), then we could easily prove that (2), (5), (15) and (27) are deductively equivalent with (2′), (5′), (15′) and (27′), respectively:
+[^note-13]: In order to prove this claim, we first have to remove an obstacle: (2), (5), (15) and (27) do not belong to the language of **RD** because they contain propositional quantifiers. If such quantifiers were added in the usual way (Anderson, Belnap & Dunn 1992, sec. 32)[^anderson-1992], then we could easily prove that (2), (5), (15) and (27) are deductively equivalent with (2′), (5′), (15′) and (27′), respectively:
 
 | (2′) | (A f Λ) → (A f B) |
 | --- | --- |

@@ -161,7 +161,7 @@ In the next decade, reacting to the cogito argument in the *Discours de la Méth
 
 ### 4.2 Mitigated Skepticism and Probabilism
 
-Richard Popkin has remarked that the great originality of *La Vérité des sciences* resides not so much in its arguments against the skeptics, as in the fact that this defense of “the truth of the sciences” concedes so much to the skeptical outlook. Most of the skeptical claims that are propounded either by the skeptic or by the Christian philosopher are not really refuted in the book. They are integrated in a novel view of what one should expect of scientific enquiry, its true aims and prospects (Popkin 1956, 2003)[^popkin-1956].
+Richard Popkin has remarked that the great originality of *La Vérité des sciences* resides not so much in its arguments against the skeptics, as in the fact that this defense of “the truth of the sciences” concedes so much to the skeptical outlook. Most of the skeptical claims that are propounded either by the skeptic or by the Christian philosopher are not really refuted in the book. They are integrated in a novel view of what one should expect of scientific enquiry, its true aims and prospects (Popkin 1956, 2003)[^popkin-1956][^popkin-2003].
 
 Thus, the Christian philosopher has no qualm with the skeptical rebuttal of the alchemist’s claim to perfect knowledge in natural matters. He freely admits that we cannot know everything, and especially not the causes nor essences of physical things, that men’s capacity is limited by outward appearance and the surface of corporeal things. In the *Questions inouïes*, Mersenne went as far as to say that we cannot demonstrate the existence of the external world:
 

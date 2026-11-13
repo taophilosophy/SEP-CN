@@ -23,7 +23,7 @@ So, when reading English philosophical texts it is a tricky matter assigning a m
 
 ## 2. Descartes and the Cartesians
 
-A history of consciousness, in its modern sense, properly starts with Descartes. While it is true that some ancient and medieval philosophers prefigured some aspects of the modern concept of consciousness (see Heinämaa, *et al*. 2007), a significant shift took place in the seventeenth century, and starting with Descartes in particular, that corresponds with the linguistic shift describe above. So, it is worth asking what it is about Descartes’s project that gave rise to a new way of thinking about *conscientia*.
+A history of consciousness, in its modern sense, properly starts with Descartes. While it is true that some ancient and medieval philosophers prefigured some aspects of the modern concept of consciousness (see Heinämaa, *et al*. 2007)[^heinämaa-2007], a significant shift took place in the seventeenth century, and starting with Descartes in particular, that corresponds with the linguistic shift describe above. So, it is worth asking what it is about Descartes’s project that gave rise to a new way of thinking about *conscientia*.
 
 ### 2.1 Descartes on Consciousness
 

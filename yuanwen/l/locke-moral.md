@@ -153,7 +153,7 @@ Locke is clearly committed to the idea that hedonistically-construed outcomes ar
 
 The question that has plagued Locke scholarship has been how, if at all, the hedonistic elements of Locke’s moral philosophy can be reconciled with his rationalistic account, which suggests that reason can discern morality’s inherent righteousness and motivate accordingly. Some scholars have concluded that Locke effectively abandons the rationalism of his earlier writings by the time he is writing the *Essay*, and that any such elements found therein are mere holdovers of an earlier position. Von Leyden expresses this view when he writes,
 
-> the development of [Locke’s] hedonism and certain other views held by him in later years make it indeed difficult for him to adhere whole-heartedly to his doctrine of natural law. (von Leyden, 1954, 14)
+> the development of [Locke’s] hedonism and certain other views held by him in later years make it indeed difficult for him to adhere whole-heartedly to his doctrine of natural law. (von Leyden, 1954, 14)[^leyden-1954]
 
 But does it? What I earlier called the compatibilist thesis is held most prominently by scholars John Colman and Stephen Darwall, according to whom Locke’s hedonism does not supplant the rationalist account of natural law and moral obligation, but is, rather, intended to account for the motivational force of moral law. In this way, the two views work together for a complete moral picture. Darwall identifies the distinction between rationally-derived versus legalistically-construed moral obligation when he writes
 

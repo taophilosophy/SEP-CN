@@ -65,9 +65,9 @@ Ramon Llull left Naples when Pope Celestine V was elected in July 1294, and he t
 
 After his stay in Rome, Llull went to Paris, where he would live from August 1298 until July 1299. Although *De vita coetania* presents this period as unproductive, today we have other sources and testimonies that reveal an intense intellectual activity and a deep concern about what had occurred at the University ten years after his last visit.
 
-During that decade, the University of Paris took a direction that Llull considered mistaken, threatening to break the unity of the Christian faith. At the University, Aristotelian ideas flourished under the influence of a figure who had gained prestige: the master of the Faculty of Arts, now no longer subject to the authority of the Faculty of Theology (León Florido, 2007, 27).
+During that decade, the University of Paris took a direction that Llull considered mistaken, threatening to break the unity of the Christian faith. At the University, Aristotelian ideas flourished under the influence of a figure who had gained prestige: the master of the Faculty of Arts, now no longer subject to the authority of the Faculty of Theology (León Florido, 2007, 27)[^león-2007].
 
-According to the accusations of medieval detractors, particularly Bishop Étienne Tempier of Paris, some masters of the Faculty of Arts, such as Boethius of Dacia and Siger of Brabant, held ideas contrary to the truth of the faith and led personal lives that contravened Christian morality (Bianchi, 1990, 21). The accusations, synthesized into 219 articles collected and condemned by Bishop Tempier in 1277, mark the culmination of a process of debate and accusations between ecclesiastical and university authorities (Bordoy, 2013, 173), which closed one phase of the University and opened a new one.
+According to the accusations of medieval detractors, particularly Bishop Étienne Tempier of Paris, some masters of the Faculty of Arts, such as Boethius of Dacia and Siger of Brabant, held ideas contrary to the truth of the faith and led personal lives that contravened Christian morality (Bianchi, 1990, 21)[^bianchi-1990]. The accusations, synthesized into 219 articles collected and condemned by Bishop Tempier in 1277, mark the culmination of a process of debate and accusations between ecclesiastical and university authorities (Bordoy, 2013, 173), which closed one phase of the University and opened a new one.
 
 During his stay in Paris, Ramon Llull wrote several works reflecting his concerns about the state of the University. According to Bordoy (2016a, 48), these include four texts dedicated to the study of mathematics and various treatises focused on the contemplation of God. He also composed a work on *Peter Lombard’s Sentences*, another on the articles of the Catholic faith, and a commentary on the 219 articles condemned in 1277 by Étienne Tempier. Additionally, several writings emphasize the correctness and orthodoxy of Llull’s thought.
 
@@ -83,11 +83,11 @@ After this relatively quiet period, Llull set out on a new trip to Africa. This 
 
 ### 1.5 Philosophical and Political Success
 
-Ramon Llull traveled again to Paris in November 1309. This visit was different due to the increasing acceptance of Llullian thought at the University and the fight against an enemy that had already been present ten years earlier in the *Declaratio* Raimundi (López Alcalde, 2010, 352), but which had by then become the objective of his theological and philosophical concern: Averroes and Averroism.
+Ramon Llull traveled again to Paris in November 1309. This visit was different due to the increasing acceptance of Llullian thought at the University and the fight against an enemy that had already been present ten years earlier in the *Declaratio* Raimundi (López Alcalde, 2010, 352)[^lópez-2010], but which had by then become the objective of his theological and philosophical concern: Averroes and Averroism.
 
 Clear proof of this acceptance was the letter of approval signed by professors in the Faculties of Medicine and Theology after hearing a lecture on his *Art* on February 1310. In addition, Llull met King Philip IV and was awarded a letter of recommendation by the King. The following year, the chancellor of the University of Paris certified Llullian doctrine “in accordance with the Catholic faith.” (Dominguez Reboiras and Gayá 2008: 108).
 
-With this sanction, Llull undertook his last intellectual combat against Latin Averroism, writing at least 14 works between 1310 and 1312 (Bordoy, 2002, 31) to expose the errors of Aristotle’s commentators and followers.
+With this sanction, Llull undertook his last intellectual combat against Latin Averroism, writing at least 14 works between 1310 and 1312 (Bordoy, 2002, 31)[^bordoy-2002] to expose the errors of Aristotle’s commentators and followers.
 
 As ten years earlier, he faced an internal enemy, the masters of the Faculty of Art of the University of Paris, only in this case, they had imbued themselves with the doctrine of a thinker who was foreign to the Catholic faith and whom Llull even considered dangerous for believers in Islam (Brodoy, 2002, 22).
 

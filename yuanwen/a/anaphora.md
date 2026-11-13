@@ -527,7 +527,7 @@ Every man who has a wife is sitting next to her.
 
 **(46b)**
 
-#Every married man is sitting next to her. (Heim 1982, 1990)[^heim-1982]
+#Every married man is sitting next to her. (Heim 1982, 1990)[^heim-1982][^heim-1990]
 
 Since NP-deletion generally requires a linguistic antecedent, if pronouns are determiners that have undergone NP-deletion, this explains the contrast.
 
@@ -587,7 +587,7 @@ If a bishop meets a bishop, he blesses him.
 
 In the minimal situation that satisfies the antecedent, there are *two* bishops that have the same property (*meeting another bishop*). Thus descriptions like “the bishop” or “the bishop who meets a bishop” do not denote uniquely. DRT and dynamic theories don’t have any problem at all with these examples because pronouns are treated as dynamically bound variables, not definite descriptions, and each instance of “a bishop” in the antecedent of (50) is associated with a different variable, which prescribe the anaphoric links to the two pronouns in the consequent. For D-type solutions to this puzzle see Heim(1990), Ludlow (1994), Elbourne (2005, 2016), Lewis (forthcoming).
 
-Finally, it should be mentioned that there are some who propose *mixed* approaches, wherein some pronouns are treated as dynamically bound variables whereas others are treated as D-type (see Chierchia 1995; Kurafuji 1998, 1999)[^chierchia-1995][^kurafuji-1998]. On these views, some pronouns are ambiguous between the two readings, while others have only the dynamically bound variable or D-type reading. This type of theory avoids many of the problems raised for each type of account, since they use dynamic semantics for the examples most amenable to a dynamic explanation and d-type pronouns for example most amenable to that sort of explanation. However, the theory comes at a considerable theoretical cost in that it predicts a systematic ambiguity in pronouns that is (arguably) not explicitly marked in any language. (See Elbourne 2005 for further criticisms of these views.)[^elbourne-2005]
+Finally, it should be mentioned that there are some who propose *mixed* approaches, wherein some pronouns are treated as dynamically bound variables whereas others are treated as D-type (see Chierchia 1995; Kurafuji 1998, 1999)[^chierchia-1995][^kurafuji-1998][^kurafuji-1999]. On these views, some pronouns are ambiguous between the two readings, while others have only the dynamically bound variable or D-type reading. This type of theory avoids many of the problems raised for each type of account, since they use dynamic semantics for the examples most amenable to a dynamic explanation and d-type pronouns for example most amenable to that sort of explanation. However, the theory comes at a considerable theoretical cost in that it predicts a systematic ambiguity in pronouns that is (arguably) not explicitly marked in any language. (See Elbourne 2005 for further criticisms of these views.)[^elbourne-2005]
 
 ### 3.4 The Context Dependent Quantifier Approach
 

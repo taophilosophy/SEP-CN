@@ -424,7 +424,7 @@ the slope of the line being independent of $P(x_1)$ and $P(x_2)$.
 
 [^note-7]: It should be noted that this general pattern of fanning out that must be imposed by WU to accommodate the local pattern of fanning out characteristic of Allais preferences lands the model in trouble elsewhere. Indeed further data has been collected that is consistent with an additional local pattern of *fanning in* towards the northwest of the triangle (see for instance Camerer 1989)[^camerer-1989]. Other Betweenness-satisfying models of probabilistically sophisticated preferences can better accommodate this data by allowing for *mixed fanning* patterns. These include Chew’s *Implicit Utility* (Chew 1989)[^chew-1989], which generalises WU, and Gul’s *Disappointment Aversion* (Gul 1991)[^gul-1991].
 
-[^note-8]: Other models in this category include *Quadratic Utility* (Chew, Epstein, & Segal 1991) and *Lottery Dependent Utility* (Becker & Sarin 1987)[^becker-1987], which generalises WU.
+[^note-8]: Other models in this category include *Quadratic Utility* (Chew, Epstein, & Segal 1991)[^chew-1991] and *Lottery Dependent Utility* (Becker & Sarin 1987)[^becker-1987], which generalises WU.
 
 [^note-9]: In note 7 above, it was pointed out that WU is unable to accommodate certain mixed fanning patterns suggested by the data. This is not the case with RDU, which shares in this respect the flexibility noted in relation with Implicit Utility and Disappointment Aversion.
 

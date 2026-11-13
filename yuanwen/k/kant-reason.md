@@ -113,7 +113,7 @@ Kant assumes that we have a capacity to reason and that “to philosophize [is] 
 
 > how little cause have we to place trust in our reason if in one of the most important parts of our desire for knowledge it does not merely forsake us but even entices us with delusions and in the end betrays us! (Bxv)
 
-Kant’s question, then, is how we might *defend* reason from various doubts[^note-17] and how we might *discipline* reason without begging questions—for instance, by invoking claims that are themselves open to doubt (cf. O’Neill 1989: Ch. 1, 1992, 2004 & 2015)[^o’neill-1989]. This is the central task of *critique* (cf. Bxxxv): reason’s examination of itself. This should establish reason’s powers and limits. It should give an account of reason’s “common principle” and its authority.
+Kant’s question, then, is how we might *defend* reason from various doubts[^note-17] and how we might *discipline* reason without begging questions—for instance, by invoking claims that are themselves open to doubt (cf. O’Neill 1989: Ch. 1, 1992, 2004 & 2015)[^o’neill-1989][^o’neill-1992][^o’neill-2004][^o’neill-2015]. This is the central task of *critique* (cf. Bxxxv): reason’s examination of itself. This should establish reason’s powers and limits. It should give an account of reason’s “common principle” and its authority.
 
 ## 2. Practical reason: morality and the primacy of pure practical reason
 

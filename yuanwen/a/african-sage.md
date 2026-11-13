@@ -9,7 +9,7 @@
 
 The following two examples from this text illustrate the method and purpose of Oruka’s questioning. When asked what he thought of his own (Luo) community’s idea of communalism, Paul Mbuya Akoko responded as follows:
 
-> Now the sense in which we may justly say that the Luo in the traditional setting practiced communalism is not one in which people generously shared property or wealth. Their idea of communalism is, I think, of a co-operative nature. For example, where one person had cattle, everybody ‘ipso facto’ had cattle. For the owner of the cattle would distribute his cattle among people who did not have cattle [of their own] so that the less well-off people may take care of them…[but] never completely given away…The result is that everybody had cows to look after and so milk to drink. (Oruka, 1990: 141)
+> Now the sense in which we may justly say that the Luo in the traditional setting practiced communalism is not one in which people generously shared property or wealth. Their idea of communalism is, I think, of a co-operative nature. For example, where one person had cattle, everybody ‘ipso facto’ had cattle. For the owner of the cattle would distribute his cattle among people who did not have cattle [of their own] so that the less well-off people may take care of them…[but] never completely given away…The result is that everybody had cows to look after and so milk to drink. (Oruka, 1990: 141)[^oruka-1990]
 
 Another sage, Okemba Simiyu Chaungo from the Bukusu community, responded to the question, “What is truth?” as follows:
 

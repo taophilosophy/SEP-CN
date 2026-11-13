@@ -15,7 +15,7 @@ In the following sections, we will look at the many model-changing actions that 
 
 ### 2.1 Public Announcement Logic
 
-Public Announcement Logic (PAL) is the modal logic study of knowledge, belief, and public communication. PAL (pronounced “pal”) is used to reason about knowledge and belief and the changes brought about in knowledge and belief as per the occurrence of completely trustworthy, truthful announcements. PAL’s most common motivational examples include the *Muddy Children Puzzle* and the *Sum and Product Puzzle* (see, e.g., Plaza 1989, 2007)[^plaza-1989]. The *Cheryl’s Birthday* problem, which became a sensation on the Internet in April 2015, can also be addressed using PAL. Here we present a version of the Cheryl’s Birthday problem due to Chang (2015, 15 April) and a three-child version of the Muddy Children Puzzle (Fagin et al. 1995)[^fagin-1995]. Instead of presenting the traditional Sum and Product Puzzle (see Plaza (1989, 2007) for details), we present our own simplification that we call the *Sum and Least Common Multiple Problem*.
+Public Announcement Logic (PAL) is the modal logic study of knowledge, belief, and public communication. PAL (pronounced “pal”) is used to reason about knowledge and belief and the changes brought about in knowledge and belief as per the occurrence of completely trustworthy, truthful announcements. PAL’s most common motivational examples include the *Muddy Children Puzzle* and the *Sum and Product Puzzle* (see, e.g., Plaza 1989, 2007)[^plaza-1989][^plaza-2007]. The *Cheryl’s Birthday* problem, which became a sensation on the Internet in April 2015, can also be addressed using PAL. Here we present a version of the Cheryl’s Birthday problem due to Chang (2015, 15 April) and a three-child version of the Muddy Children Puzzle (Fagin et al. 1995)[^fagin-1995]. Instead of presenting the traditional Sum and Product Puzzle (see Plaza (1989, 2007) for details), we present our own simplification that we call the *Sum and Least Common Multiple Problem*.
 
 **Cheryl’s Birthday (version of Chang (2015, 15 April)).** Albert and Bernard just met Cheryl. “When’s your birthday?” Albert asked Cheryl.
 
@@ -189,11 +189,11 @@ We now examine the axiomatic theory of public announcement logic with common kno
 - CK Necessitation Rule: from *F*, infer $[B*]F$ “There is common knowledge of every validity.”
 - Announcement-CK Rule: from $H\to[F!]G$ and $(H\land F)\to[B]H$, infer $H\to[F!][B*]G$ “If *H* guarantees the truth of *G* after *F* is announced and the joint truth of *H* and *F* guarantees group knowledge of *H*, then *H* guarantees the announcement of *F* will lead to common knowledge of *G*.”
 
-**$\PALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^kooi-2007].** $\PALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying public announcement logic $\PAL$ is sound and complete. That is, for each \eqref{PAL+C}-formula *F*, we have that $\PALC\vdash F$ if and only if $\sC_*\models F$.
+**$\PALC$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** $\PALC$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying public announcement logic $\PAL$ is sound and complete. That is, for each \eqref{PAL+C}-formula *F*, we have that $\PALC\vdash F$ if and only if $\sC_*\models F$.
 
 Unlike the proof of completeness for the logic $\PAL$ without common knowledge, the proof for the logic $\PALC$ with common knowledge does not proceed by way of a reduction theorem. This is because adding common knowledge to the language strictly increases the expressivity.
 
-**Theorem (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^kooi-2007].** Over the class of all pointed Kripke models, the language \eqref{PAL+C} of public announcement logic with common knowledge is strictly more expressive than language \eqref{PAL} without common knowledge. In particular, the \eqref{PAL+C}-formula $[p!][C]q$ cannot be expressed in \eqref{PAL} with respect to the class of all pointed Kripke models: for every \eqref{PAL}-formula *F* there exists a pointed Kripke model $(M,w)$ such that $M,w\not\models F\leftrightarrow[p!][C]q$.
+**Theorem (Baltag, Moss, and Solecki 1998, 1999; see also van Ditmarsch, van der Hoek, and Kooi 2007)[^baltag-1998][^baltag-1999][^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].** Over the class of all pointed Kripke models, the language \eqref{PAL+C} of public announcement logic with common knowledge is strictly more expressive than language \eqref{PAL} without common knowledge. In particular, the \eqref{PAL+C}-formula $[p!][C]q$ cannot be expressed in \eqref{PAL} with respect to the class of all pointed Kripke models: for every \eqref{PAL}-formula *F* there exists a pointed Kripke model $(M,w)$ such that $M,w\not\models F\leftrightarrow[p!][C]q$.
 
 This result rules out the possibility of a reduction theorem for $\PALC$: we cannot find a public announcement-free equivalent of every \eqref{PAL+C}-formula. This led van Benthem, van Eijck, and Kooi (2006) to develop a common knowledge-like operator for which a reduction theorem does hold. The result is the binary *relativized common knowledge* operator $[B*](F|G)$, which is read, “*F* is common knowledge among group *B* relative to the information that *G* is true”. The language \eqref{RCK} of relativized common knowledge is given by the following grammar:
 
@@ -287,7 +287,7 @@ For more on Moore sentences, we refer the reader to Section 5.3 of the *Stanford
 
 ## 3. Complex epistemic interactions
 
-In the previous section, we focused on one kind of model-transforming action: the public announcement. In this section, we look at the popular “action model” generalization of public announcements due to Baltag, Moss, and Solecki (Baltag, Moss, and Solecki 1998), together referred to as “BMS”. Action models are simple relational structures that can be used to describe a variety of informational actions, from public announcements to more subtle communications that may contain degrees of privacy, misdirection, deception, and suspicion, to name just a few possibilities.
+In the previous section, we focused on one kind of model-transforming action: the public announcement. In this section, we look at the popular “action model” generalization of public announcements due to Baltag, Moss, and Solecki (Baltag, Moss, and Solecki 1998)[^baltag-1998], together referred to as “BMS”. Action models are simple relational structures that can be used to describe a variety of informational actions, from public announcements to more subtle communications that may contain degrees of privacy, misdirection, deception, and suspicion, to name just a few possibilities.
 
 ### 3.1 Action models describe complex informational scenarios
 
@@ -303,7 +303,7 @@ Figure 3: The pointed action model $(\Pri_a(p),e)$ for the completely private an
 
 In the figure, our two events *e* and *f* are pictured as rectangles (to distinguish these from the circled worlds of a Kripke model). The formula appearing inside an event’s rectangle is what is announced when the event occurs. So event *e* represents the announcement of *p*, and event *f* represents the announcement of $\top$. The event that actually occurs, called the “point”, is indicated using a double rectangle; in this case, the point is *e*. The only event that *a* considers possible is *e* because the only *a*-arrow leaving *e* loops right back to *e*. But all of the agents in our agent set $\sA$ other than *a* mistakenly consider the alternative event *f* as the only possibility: all non–*a*-arrows leaving *e* point to *f*. Furthermore, from the perspective of event *f*, it is common knowledge that event *f* (and its announcement of $\top$) is the only event that occurs: every agent has exactly one arrow leaving *f* and this arrow loops right back to *f*. Accordingly, the structure pictured above describes the following action: *p* is to be announced, agent *a* is to know this, and all other agents are to mistakenly believe it is common knowledge that $\top$ is announced. Structures like those pictured in Figure 3 are called *action models*.
 
-**Action model (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004].** Other names in the literature: “event model” or “update model”. Given a set of formulas $\Lang$ and a finite nonempty set $\sA$ of agents, an *action model* is a structure $$ A=(E,R,\pre) $$ consisting of
+**Action model (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** Other names in the literature: “event model” or “update model”. Given a set of formulas $\Lang$ and a finite nonempty set $\sA$ of agents, an *action model* is a structure $$ A=(E,R,\pre) $$ consisting of
 
 - a nonempty finite set *E* of the possible communicative *events* that might occur,
 - a function $R:\sA\to P(W\times W)$ that assigns to each agent $a\in\sA$ a binary possibility relation $R_a\subseteq E\times E$, and
@@ -313,7 +313,7 @@ Notation: if *A* is an action model, then adding a superscript *A* to a symbol i
 
 $(\Pri_a(p),e)$ is the action pictured in Figure 3. Given an initial pointed Kripke model $(M,w)$ at which *p* is true, we determine the model-transforming effect of the action $(\Pri_a(p),e)$ by constructing a new pointed Kripke model $$ (M[\Pri_a(p)],(w,e)). $$ The construction of the Kripke model $M[\Pri_a(p)]$ is given by the BMS “product update”.
 
-**Product update (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004].** Let $(M,w)$ be a pointed Kripke model and $(A,e)$ be a pointed action model. Let $\models$ be a binary satisfaction relation defined between $(M,w)$ and formulas in the language $\Lang$ of the precondition function $\pre^A:E^A\to\Lang$ of the action model *A*. If $M,w\models\pre^A(e)$, then the Kripke model $$ M[A]=(W[A],R[A],V[A]) $$ is defined via the *product update* operation $M\mapsto M[A]$ given as follows:
+**Product update (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** Let $(M,w)$ be a pointed Kripke model and $(A,e)$ be a pointed action model. Let $\models$ be a binary satisfaction relation defined between $(M,w)$ and formulas in the language $\Lang$ of the precondition function $\pre^A:E^A\to\Lang$ of the action model *A*. If $M,w\models\pre^A(e)$, then the Kripke model $$ M[A]=(W[A],R[A],V[A]) $$ is defined via the *product update* operation $M\mapsto M[A]$ given as follows:
 
 - $W[A] \coloneqq \{ (v,f)\in W\times E \mid M,v\models\pre^A(f) \}$ — pair worlds with events whose preconditions they satisfy,
 - $(v_1,f_1)R[A]_a(v_2,f_2)$ if and only if $v_1 R^M_a v_2$ and $f_1 R^A_a f_2$ — insert an *a*-arrow in $M[A]$ between a pair just in case there is an *a*-arrow in *M* between the worlds and an *a*-arrow in *A* between the events, and
@@ -402,7 +402,7 @@ To be clear: in the language \eqref{EAL}, the precondition $\pre^A(e)$ of an act
 
 For convenience, we let $\AM$ denote the set of all action models whose preconditions are all in the language \eqref{EAL}. As we saw in the previous two subsections, the set $\AM_*$ contains pointed action models for public announcements (Figure 4), private announcements (Figure 3), semi-private announcements (Figure 5), and misleading private announcements (Figure 6), along with many others. The satisfaction relation $\models$ between pointed Kripke models and formulas of \eqref{EAL} is the smallest extension of the relation $\models$ for \eqref{ML} (see [Appendix A](dynamic-epistemic.appendix-A-kripke.md)) satisfying the following:
 
-- $M,w\models[A,e]G$ holds if and only if $M,w\not\models\pre^A(e)$ or $M[A],(w,e)\models G$, where the Kripke model $M[A]$ is defined via the BMS product update (Baltag, Moss, and Solecki 1999).
+- $M,w\models[A,e]G$ holds if and only if $M,w\not\models\pre^A(e)$ or $M[A],(w,e)\models G$, where the Kripke model $M[A]$ is defined via the BMS product update (Baltag, Moss, and Solecki 1999)[^baltag-1999].
 
 Note that the formula $[A,e]G$ is vacuously true if the precondition $\pre(e)$ of event *e* is false. Accordingly, the action model semantics retains the assumption of truthfulness that we had for public announcements. That is, for an event to actually occur, its precondition must be true. As a consequence, the occurrence of an event *e* implies that its precondition $\pre(e)$ was true, and hence the occurrence of an event conveys its precondition formula as a message. If an event can occur at a given world, then we say that the event is *executable* at that world.
 
@@ -427,7 +427,7 @@ This theorem, like the analogous theorem for Public Announcement Logic, is used 
 
 The various axiomatic theories of modal logic with action models (without common knowledge) are obtained based on the choice of an underlying action-friendly logic $\L$.
 
-**The axiomatic theory $\EAL$.** Other names in the literature: $\DEL$ or $\AM$ (for “action model”; see van Ditmarsch, van der Hoek, and Kooi 2007)[^kooi-2007].
+**The axiomatic theory $\EAL$.** Other names in the literature: $\DEL$ or $\AM$ (for “action model”; see van Ditmarsch, van der Hoek, and Kooi 2007)[^kooi-2007][^ditmarsch-2007][^ditmarsch-2007-2].
 
 - Axiom schemes and rules for the action-friendly logic $\L$
 - Reduction axioms (each in the language $\LEAL$):
@@ -441,11 +441,11 @@ The first three reduction axioms are nearly identical to the corresponding reduc
 
 As was the case for $\PAL$, the $\EAL$ reduction axioms allow us to “reduce” each formula containing action models to a provably equivalent formula whose action model modalities appear before formulas of lesser complexity, allowing us to eliminate action model modalities completely via a sequence of provable equivalences. As a consequence, we have the following.
 
-**$\EAL$ Reduction Theorem (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004].** Given an action-friendly logic $\L$, every *F* in the language $\LEAL$ of Epistemic Action Logic (without common knowledge) is $\EAL$-provably equivalent to a formula $F^\circ$ coming from the action model-free modal language \eqref{ML}.
+**$\EAL$ Reduction Theorem (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** Given an action-friendly logic $\L$, every *F* in the language $\LEAL$ of Epistemic Action Logic (without common knowledge) is $\EAL$-provably equivalent to a formula $F^\circ$ coming from the action model-free modal language \eqref{ML}.
 
 Once we have proved $\EAL$ is sound, the Reduction Theorem leads us to axiomatic completeness via the known completeness of the underlying modal theory.
 
-**$\EAL$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004].** $\EAL$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying action-friendly logic $\L$ is sound and complete. That is, for each $\LEAL$-formula *F*, we have that $\EAL\vdash F$ if and only if $\sC_*\models F$.
+**$\EAL$ Soundness and Completeness (Baltag, Moss, and Solecki 1998, 1999; see also Baltag and Moss 2004)[^baltag-2004][^baltag-1998][^baltag-1999].** $\EAL$ is sound and complete with respect to the collection $\sC_*$ of pointed Kripke models for which the underlying action-friendly logic $\L$ is sound and complete. That is, for each $\LEAL$-formula *F*, we have that $\EAL\vdash F$ if and only if $\sC_*\models F$.
 
 We saw above that for $\PAL$ it was possible to combine two consecutive announcements into a single announcement via the schematic validity $$ [F!][G!]H\leftrightarrow[F\land[F!]G!]H. $$ Something similar is available for action models.
 

@@ -418,7 +418,7 @@ First, the romantic faith in the imaginative and emotive capacities associated w
 
 Second, in spite of the romantic stress on the fragmentary nature of human experience (embodied in their choice of the aphoristic style, which is emphasized by their post-modernist readers), the romantics never gave up the striving after unity and wholeness. Art was not meant as a replacement for unity, but exactly as the best way to strive after and approximate unity in our modern and fragmentary condition.
 
-> For the philosopher…art is supreme, for it opens to him the holiest of holies, where that which is separated in nature and history, and which can never be united either in life and action or in thought, burns as though in a single flame in eternal and primordial unity. (Schelling, *System of Transcendental Philosophy*, 1800, in Heath 1978: 231)
+> For the philosopher…art is supreme, for it opens to him the holiest of holies, where that which is separated in nature and history, and which can never be united either in life and action or in thought, burns as though in a single flame in eternal and primordial unity. (Schelling, *System of Transcendental Philosophy*, 1800, in Heath 1978: 231)[^schelling-1978]
 
 Third, the romantics’ desire for and search after the Absolute (discussed in 3) is another reason to reject the post-modernist interpretation. For such a desire is anathema to most post-modernist thinkers, who resist and shun the possibility (and desirability) of *any* absolute reality.
 

@@ -191,7 +191,7 @@ Aquinas’s ethics is difficult to study because it is so vast and multifaceted.
 - his framework for the moral law, grounded in a theory of natural law;
 - his understanding of the virtues as essential to human happiness.
 
-(For wide-ranging treatments of Aquinas’s ethics see McInerny 1997; MacDonald and Stump 1998; Pope 2002; Irwin 2007: chs 16–24; DeYoung, McCluskey, and Van Dyke 2009; McCluskey 2017.)[^irwin-2007][^macdonald-1998][^mccluskey-2017][^mcinerny-1997][^pope-2002]
+(For wide-ranging treatments of Aquinas’s ethics see McInerny 1997; MacDonald and Stump 1998; Pope 2002; Irwin 2007: chs 16–24; DeYoung, McCluskey, and Van Dyke 2009; McCluskey 2017.)[^deyoung-2009][^irwin-2007][^macdonald-1998][^mccluskey-2017][^mcinerny-1997][^pope-2002]
 
 ### 8.1 Happiness
 

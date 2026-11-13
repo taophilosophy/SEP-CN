@@ -37,7 +37,7 @@ In the first and loose statements of the incompleteness theorems given above, th
 
 #### 1.2.1 Arithmetical Theories
 
-The weakest standard system of arithmetic that is usually considered in connection with incompleteness and undecidability is so-called Robinson arithmetic (due to Raphael M. Robinson; see Tarski, Mostowski and Robinson 1953), standardly denoted as **Q**. As axioms, it has the following seven assumptions:
+The weakest standard system of arithmetic that is usually considered in connection with incompleteness and undecidability is so-called Robinson arithmetic (due to Raphael M. Robinson; see Tarski, Mostowski and Robinson 1953)[^tarski-1953], standardly denoted as **Q**. As axioms, it has the following seven assumptions:
 
 $$\begin{align} \tag{A1} &\neg(0 = x') \\ \tag{A2} &x' = y' \rightarrow x = y \\ \tag{A3} &\neg(x = 0) \rightarrow \exists y(x = y') \\ \tag{A4} &x + 0 = x \\ \tag{A5} &x + y' = (x + y)' \\ \tag{A6} &x \times 0 = 0 \\ \tag{A7} &x \times y' = (x \times y) + x \end{align}$$
 
@@ -311,7 +311,7 @@ But then a decision procedure for first-order logic would provide a decision met
 
 **Church’s Theorem** First-order predicate logic is undecidable.
 
-(This undecidability result was first established by Church 1936a, b; the method of deriving it via the undecidability of **Q** is due to Tarski, Mostowski and Robinson 1953.)[^church-1936a]
+(This undecidability result was first established by Church 1936a, b; the method of deriving it via the undecidability of **Q** is due to Tarski, Mostowski and Robinson 1953.)[^church-1936a][^tarski-1953]
 
 Subsequently, a number of theories and problems from different areas of mathematics have been shown to be undecidable (see, e.g., Davis 1977; Murawski 1999: Ch 3)[^davis-1977][^murawski-1999].
 
@@ -353,7 +353,7 @@ This also provides an elegant variant of the incompleteness theorems dealing wit
 
 **Corollary** For any 1-consistent axiomatizable formal system $F$ there are Diophantine equations which have no solutions but cannot be proved in $F$ to have no solutions.
 
-(The question of avoiding the requirement of 1-consistency here is tricky; see Dyson, Jones and Shepherson 1982.)
+(The question of avoiding the requirement of 1-consistency here is tricky; see Dyson, Jones and Shepherson 1982.)[^dyson-1982]
 
 ### 4.5 Concrete Cases of Unprovable Statements
 
@@ -369,9 +369,9 @@ There are some concrete examples of mathematical statements undecided even in st
 
 Harvey Friedman has established the following theorem: roughly, if $S$ is a Borel set, then there exists a Borel function $f$ such that the graph of $f$ is either included in or disjoint from $S$. Friedman showed that this simple-sounding theorem is not provable even in full second-order arithmetic **P$^2$**, but proving it necessarily requires the full power of **ZFC** (see Simpson 1999: 23)[^simpson-1999].
 
-Further, it was a traditional question of descriptive set theory (a question which can be formulated in the language of second order arithmetic) whether all projective sets (see above) are Lebesque measurable. This remained an open problem for many decades, and for a good reason: it turned out that the statement is independent even of the full **ZFC** set theory (see Solovay 1970)[^solovay-1970]. Only by postulating the existence of some extremely large cardinals (so-called Woodin cardinals) can the hypothesis that all projective sets are Lebesque measurable be proved (this was achieved as a consequence of their work on so-called projective determinacy by Woodin, Martin and Steel; see Woodin 1988; Martin & Steel 1988, 1989)[^martin-1988][^woodin-1988].
+Further, it was a traditional question of descriptive set theory (a question which can be formulated in the language of second order arithmetic) whether all projective sets (see above) are Lebesque measurable. This remained an open problem for many decades, and for a good reason: it turned out that the statement is independent even of the full **ZFC** set theory (see Solovay 1970)[^solovay-1970]. Only by postulating the existence of some extremely large cardinals (so-called Woodin cardinals) can the hypothesis that all projective sets are Lebesque measurable be proved (this was achieved as a consequence of their work on so-called projective determinacy by Woodin, Martin and Steel; see Woodin 1988; Martin & Steel 1988, 1989)[^martin-1988][^martin-1989][^woodin-1988].
 
-Sometimes Paul Cohen’s celebrated result, that the Continuum Hypothesis (CH) is independent of **ZFC** (Cohen 1963, 1964; and the entry on independence and large cardinals)[^cohen-1963], is mentioned in this connection. However, this case is very different. In all the above independence results the relevant statements are still theorems of mathematics, taken as shown to be true (the last case, which requires large cardinal axioms that go beyond **ZFC**, is more controversial; still, at least many set-theoreticians find such axioms plausible). And with the first incompleteness theorem itself, the truth of the unprovable statement easily follows, given that the assumption of the consistency of the system is indeed correct. However, in the case of Cohen’s result, there is absolutely no indication whether CH should be considered true, false, or perhaps lacking a truth-value.
+Sometimes Paul Cohen’s celebrated result, that the Continuum Hypothesis (CH) is independent of **ZFC** (Cohen 1963, 1964; and the entry on independence and large cardinals)[^cohen-1963][^cohen-1964], is mentioned in this connection. However, this case is very different. In all the above independence results the relevant statements are still theorems of mathematics, taken as shown to be true (the last case, which requires large cardinal axioms that go beyond **ZFC**, is more controversial; still, at least many set-theoreticians find such axioms plausible). And with the first incompleteness theorem itself, the truth of the unprovable statement easily follows, given that the assumption of the consistency of the system is indeed correct. However, in the case of Cohen’s result, there is absolutely no indication whether CH should be considered true, false, or perhaps lacking a truth-value.
 
 ## 5. The History and Early Reception of the Incompleteness Theorems
 
@@ -381,7 +381,7 @@ Be that as it may, it seems that Gödel actually arrived at the first exact obse
 
 However, the intellectual environment of Gödel was that of the Vienna Circle with its radically anti-metaphysical attitude. In particular, even the notion of truth was considered as suspicious or even nonsensical at the time, at least by some logical positivists (e.g., Neurath, Hempel). Therefore, Gödel worked hard to eliminate any appeal to the notion of truth and attempted to do without it. He therefore introduced the notion of $\omega$-consistency, which can be defined rigorously and purely syntactically. This led to the incompleteness theorems in the form that they are now known.
 
-As to *the Diagonalization Lemma*, actually Gödel himself originally demonstrated only a special case of it, that is, only for the provability predicate. The general lemma was apparently first discovered by Carnap 1934 (see Gödel 1934, 1935)[^gödel-1934]. Still more general versions, for formulas with free variables, were presented in Ehrenfeucht & Feferman 1960 and Montague 1962 (see Smoryński 1981)[^smoryński-1981].
+As to *the Diagonalization Lemma*, actually Gödel himself originally demonstrated only a special case of it, that is, only for the provability predicate. The general lemma was apparently first discovered by Carnap 1934 (see Gödel 1934, 1935)[^gödel-1934][^gödel-1935]. Still more general versions, for formulas with free variables, were presented in Ehrenfeucht & Feferman 1960 and Montague 1962 (see Smoryński 1981)[^smoryński-1981].
 
 The reception of Gödel’s results was mixed. Some important figures in the field of logic and the foundations of mathematics quite quickly assimilated the results and understood their relevance, but there was also quite a lot of misunderstanding and resistance (for detailed accounts of the reception, see Dawson 1985; Mancosu 1999)[^dawson-1985][^mancosu-1999].
 
@@ -399,7 +399,7 @@ The correctness of Gödel’s theorems remained the subject of lively debate thr
 
 ### 6.1 Philosophy of Mathematics
 
-Of the various fields of philosophy, Gödel’s theorems are obviously most immediately relevant for the philosophy of mathematics. To begin with, they pose, at least *prima facie*, serious problems for Hilbert’s program (this issue is discussed in some detail in the section on the impact of incompleteness in the entry on Hilbert’s Program and the supplement “Did the Incompleteness Theorems Refute Hilbert’s Program?” in the entry on Kurt Gödel.). Then again, they have important consequences for *intuitionism* (see the entry on intuitionism in the philosophy of mathematics) (see also Gödel 1933, 1941; Raatikainen 2005)[^gödel-1933][^raatikainen-2005].
+Of the various fields of philosophy, Gödel’s theorems are obviously most immediately relevant for the philosophy of mathematics. To begin with, they pose, at least *prima facie*, serious problems for Hilbert’s program (this issue is discussed in some detail in the section on the impact of incompleteness in the entry on Hilbert’s Program and the supplement “Did the Incompleteness Theorems Refute Hilbert’s Program?” in the entry on Kurt Gödel.). Then again, they have important consequences for *intuitionism* (see the entry on intuitionism in the philosophy of mathematics) (see also Gödel 1933, 1941; Raatikainen 2005)[^gödel-1933][^gödel-1941][^raatikainen-2005].
 
 There has been some dispute on the issue as to whether Gödel’s theorems conclusively refute *logicism* (see the entry on logicism). Henkin (1962) and Musgrave (1977), for example, argue it does; Sternfeld (1976) and Rodríguez-Consuegra (1993) disagree (see also Hellman 1981; Raatikainen 2005)[^hellman-1981][^raatikainen-2005].
 
@@ -421,7 +421,7 @@ He stated that
 
 More recently, very similar claims have been put forward by Roger Penrose (1989, 1994). John Searle (1997) has joined the discussion and partly defended Penrose against his critics. Crispin Wright (1994, 1995) has endorsed related ideas from an intuitionistic point of view (for criticism, see Detlefsen 1995)[^detlefsen-1995]. They all insist that Gödel’s theorems imply that the human mind infinitely surpasses the power of any finite machine or formal system.
 
-These Gödelian anti-mechanist arguments are, however, problematic, and there is wide consensus that they fail. The standard response to this argument goes along the following lines (this objection goes back to Putnam 1960; see also Boolos 1968, Shapiro 1998)[^boolos-1968][^putnam-1960][^shapiro-1998]: The argument assumes that for any formalized system, or a finite machine, there exists the Gödel sentence which is unprovable in that system, but which the human mind can see to be true. Yet Gödel’s theorem has in reality a conditional form, and the alleged truth of the Gödel sentence of a system depends on the assumption of the consistency of the system. The anti-mechanist’s argument thus also requires that the human mind can always see whether or not a given formalized theory is consistent. However, this is highly implausible (cf. Davis 1990)[^davis-1990]. Lucas, Penrose and others have attempted to reply to such criticism (see, e.g., Lucas 1996; Penrose 1995, 1997)[^lucas-1996][^penrose-1995]. For detailed criticism of Penrose, see Boolos 1990; Davis 1990, 1993; Feferman 1995; Lindström 2001; Pudlák 1999; Shapiro 2003; many of these considerations are also relevant for what Lucas says).
+These Gödelian anti-mechanist arguments are, however, problematic, and there is wide consensus that they fail. The standard response to this argument goes along the following lines (this objection goes back to Putnam 1960; see also Boolos 1968, Shapiro 1998)[^boolos-1968][^putnam-1960][^shapiro-1998]: The argument assumes that for any formalized system, or a finite machine, there exists the Gödel sentence which is unprovable in that system, but which the human mind can see to be true. Yet Gödel’s theorem has in reality a conditional form, and the alleged truth of the Gödel sentence of a system depends on the assumption of the consistency of the system. The anti-mechanist’s argument thus also requires that the human mind can always see whether or not a given formalized theory is consistent. However, this is highly implausible (cf. Davis 1990)[^davis-1990]. Lucas, Penrose and others have attempted to reply to such criticism (see, e.g., Lucas 1996; Penrose 1995, 1997)[^lucas-1996][^penrose-1995][^penrose-1997]. For detailed criticism of Penrose, see Boolos 1990; Davis 1990, 1993; Feferman 1995; Lindström 2001; Pudlák 1999; Shapiro 2003; many of these considerations are also relevant for what Lucas says).
 
 ### 6.4 Gödel and Benacerraf on Mechanism and Platonism
 

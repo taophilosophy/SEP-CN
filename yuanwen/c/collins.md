@@ -19,7 +19,7 @@ Anthony Collins was born in Heston, Middlesex on June 21, 1676 into a family of 
 
 > Believe it, my good friend, to love truth for truth’s sake is the principal part of human perfection in this world, and the seed bed of all other virtues; and if I mistake not, you have as much of it as I have ever met with in anybody.
 
-Collins was a lifelong bibliophile with a large private research library. In his entry on Collins in *A General Dictionary, Historical and Critical* (Bernard, Birch, & Lockman 1734–1741), Thomas Birch notes that his
+Collins was a lifelong bibliophile with a large private research library. In his entry on Collins in *A General Dictionary, Historical and Critical* (Bernard, Birch, & Lockman 1734–1741)[^bernard-1734], Thomas Birch notes that his
 
 > large and curious [library] was open to all men of letters, to whom he readily communicated all the lights and assistance in his power, and even furnished his antagonists with books to confute himself, and directed them how to give their arguments all the force of which they were capable. (Birch, quoted in Berman 1975: 50)[^berman-1975]
 
@@ -229,7 +229,7 @@ If one were truly indifferent one simply would not choose. But once there is a w
 
 Collins’ second argument is that man is a necessary agent because all his actions have a beginning. He holds that whatever has a beginning has a cause and all causes are necessary. Collins (as he had in the Clarke–Collins controversy) also rejects the proposition that the same causes could produce different effects. Thus Collins rejects the doctrine of free will because it violates the basic principle of causal explanations. The third argument claimed that liberty is an imperfection. Going back to judging propositions, Collins points out that if we were free, we would be able to judge probable what is improbable, and so on. This is the analog of moral determinism to the epistemic realm. Just as we are not free to knowingly choose the worse over the better, we cannot affirm that what seems improbable to us is probable. If we could we would be worse off than we are. The fourth argument is that liberty is inconsistent with God’s foreknowledge. This is again similar to the view that Hobbes held and repeats the assertions of Collins’ first book, *An Essay concerning the Use of Reason*. The fifth is that if man were not a necessary agent, and determined by pleasure and pain, there would be no foundation for rewards and punishments. The sixth is that if a man were not a necessary agent he would be ignorant of morality and have no motive to practice it. These last two arguments make the point that causality is necessary for the operation of morality in the world, and to introduce a causeless free will is to make the teaching of morality or its motivation by punishment or reward pointless (Collins 1717: 57–108 [1976: 82–108]).
 
-James Harris and Jacopo Agnesina have both argued that *An Inquiry Concerning Human Liberty* was in fact a response to Dr. Clarke and rational theology. They claim that Collins was attempting to demonstrate that determinism follows from Clarke’s first principles (Agnesina 2011, 2018: 105; Harris 2005: 58)[^agnesina-2011][^harris-2005]. Agnesina has also been at pains to argue that Collins’ determinism is a logical and not just a causal determinism.
+James Harris and Jacopo Agnesina have both argued that *An Inquiry Concerning Human Liberty* was in fact a response to Dr. Clarke and rational theology. They claim that Collins was attempting to demonstrate that determinism follows from Clarke’s first principles (Agnesina 2011, 2018: 105; Harris 2005: 58)[^agnesina-2011][^agnesina-2018][^harris-2005]. Agnesina has also been at pains to argue that Collins’ determinism is a logical and not just a causal determinism.
 
 Agnesina characterizes the distinction between these two kinds of determinism in this way. Causal determinists maintain:
 
@@ -289,7 +289,7 @@ Turning from analogy to theological doctrines, we find that Collins rejecting tr
 
 Given that Collins rejects mysteries and the claims that there are truths above reason why should we accept any part of Holy Scripture? Collins holds that it is on account of testimony. Collins writes:
 
-> There are ideas join’d in Propositions, which the Mind perceives to agree or disagree by the testimony of others. (Collins, 1707: 5)
+> There are ideas join’d in Propositions, which the Mind perceives to agree or disagree by the testimony of others. (Collins, 1707: 5)[^collins-1707][^collins-1707-2]
 
 Testimony gives rise to a particular kind of knowledge, faith. We learn about facts, current events, historical, scientific ones, and so on by having them communicated to us by others. But testimony itself is not enough to produce faith or assent unless the people and events themselves are credible. Collins, like Spinoza in the *Theological-Political Treatise* concludes that the writers of the Bible were not writing for philosophers, but adapted their expressions to the capacity of understanding of the bulk of mankind (Collins 1707: 14)[^collins-1707][^collins-1707-2]. Agnesina points out the similarity in Collins’ conclusions not only with Spinoza, but Locke, Le Clerc, Richard Simon, and Toland. He remarks that these similarities:
 

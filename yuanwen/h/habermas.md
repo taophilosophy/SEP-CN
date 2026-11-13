@@ -130,7 +130,7 @@ He also assumes that strategically acting agents achieve their means through inf
 
 Habermas also assumes that in acting strategically an agent adopts an objectivating attitude towards others. Strategic actors coordinate their actions with others by trying to influence them or manipulate them.
 
-However, many critics have pointed out that it is not the case that agents who act instrumentally or strategically must act selfishly, or monologically, such that they are incapable of stable forms of co-operation (Johnson 1991; Heath 2001; Steinhoff 2009; Blau, 2022)[^heath-2001][^johnson-1991][^steinhoff-2009]. These assumptions appear to be imported from the “traditional” action theories as Habermas understands them. Not only do these assumptions require independent justification, but they are also incidental to the basic distinction Habermas is attempting to draw.
+However, many critics have pointed out that it is not the case that agents who act instrumentally or strategically must act selfishly, or monologically, such that they are incapable of stable forms of co-operation (Johnson 1991; Heath 2001; Steinhoff 2009; Blau, 2022)[^blau-2022][^heath-2001][^johnson-1991][^steinhoff-2009]. These assumptions appear to be imported from the “traditional” action theories as Habermas understands them. Not only do these assumptions require independent justification, but they are also incidental to the basic distinction Habermas is attempting to draw.
 
 #### 2.2.1 The Unavoidability Thesis
 

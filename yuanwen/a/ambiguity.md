@@ -109,7 +109,7 @@ Thematic assignments can be similarly ambiguous at the level of LF with deleted 
 
 1. The chicken is ready to eat.
 
-(2) can mean that the chicken is ready to be fed or to be fed to someone depending on the thematic assignment. In a popular semantic framework, this is because ‘the chicken’ is assigned agent on one reading and patient on another. Arguably, these assignments is corresponds syntactic phenomenon assuming principles that align thematic role and syntactic position (see Baker 1988, 1997; Williams 1994; and Grimshaw 1990)[^williams-1994] but the semantic point stands either way. They result in a clear ambiguity that we may term ‘thematic ambiguity’ for present purposes.
+(2) can mean that the chicken is ready to be fed or to be fed to someone depending on the thematic assignment. In a popular semantic framework, this is because ‘the chicken’ is assigned agent on one reading and patient on another. Arguably, these assignments is corresponds syntactic phenomenon assuming principles that align thematic role and syntactic position (see Baker 1988, 1997; Williams 1994; and Grimshaw 1990)[^baker-1997][^williams-1994] but the semantic point stands either way. They result in a clear ambiguity that we may term ‘thematic ambiguity’ for present purposes.
 
 Multiple connectives present similar ambiguities. The following ambiguity, for example, is borne directly out of failure to tell which connective has widest scope:
 
@@ -207,7 +207,7 @@ One final note: even in the domain of scopal ambiguities, there are controversie
 
 #### 3.2.2 Pronouns
 
-Bound and unbound readings of pronouns give rise to similar problems, though whether this is a semantic, syntactic or pragmatic ambiguity has been the source of heated debate. If I tell you ‘everyone loves his mother’, the sentence may be interpreted with ‘his’ being co-indexed with ‘everyone’ and yielding different mothers (potentially) for different values of ‘everyone’ or it could be interpreted deictically saying that everyone loves that [appropriate demonstration] guy’s mother. Static semantics usually treats the distinction between bound and free pronouns as a fundamental ambiguity; dynamic semantics relegates the distinction to an ambiguity in variable choice (see Heim 1982, 1983, and Kamp 1981)[^kamp-1981].
+Bound and unbound readings of pronouns give rise to similar problems, though whether this is a semantic, syntactic or pragmatic ambiguity has been the source of heated debate. If I tell you ‘everyone loves his mother’, the sentence may be interpreted with ‘his’ being co-indexed with ‘everyone’ and yielding different mothers (potentially) for different values of ‘everyone’ or it could be interpreted deictically saying that everyone loves that [appropriate demonstration] guy’s mother. Static semantics usually treats the distinction between bound and free pronouns as a fundamental ambiguity; dynamic semantics relegates the distinction to an ambiguity in variable choice (see Heim 1982, 1983, and Kamp 1981)[^heim-1983][^kamp-1981].
 
 The phenomenon is subject to syntactic constraints. We have a good idea of the conditions under which we can fail to get bound readings, as characterized by binding theory. Thus, we know that binding is impossible in cross-over cases and cases where pronouns are ‘too close’ to their binder ((15) is a case of ‘weak crossover’, (16) is a case of ‘strong crossover’ and (17) is a violation of principle B of binding theory):
 
@@ -288,7 +288,7 @@ An interesting case of ambiguity comes from ellipsis. The following is clearly a
 
 1. John loves his mother and Bill does too.
 
-We’ve already discussed the bound/unbound ambiguity inherent in ‘John loves his mother’. Consider the bound reading of the first sentence. Now, on that reading, there are still two interpretations of the second sentence to deal with: one on which Bill loves John’s mother and one on which Bill loves his own. This ambiguity has been given the regrettable name ‘strict-sloppy identity’ and seems to be the result of what ‘does too’ is short form for. There is a long-standing debate over whether the mechanism is primarily one of copying over at LF (Fiengo and May 1994)[^fiengo-1994], the result of expressing a lambda-abstracted predicate (Sag, 1976; Williams, 1977) or the result of centering on a discourse referent (see Hardt and Stone 1997)[^stone-1997]. Ambiguities can arise from words that aren’t written or said as well as from ones that are.
+We’ve already discussed the bound/unbound ambiguity inherent in ‘John loves his mother’. Consider the bound reading of the first sentence. Now, on that reading, there are still two interpretations of the second sentence to deal with: one on which Bill loves John’s mother and one on which Bill loves his own. This ambiguity has been given the regrettable name ‘strict-sloppy identity’ and seems to be the result of what ‘does too’ is short form for. There is a long-standing debate over whether the mechanism is primarily one of copying over at LF (Fiengo and May 1994)[^fiengo-1994], the result of expressing a lambda-abstracted predicate (Sag, 1976; Williams, 1977)[^sag-1976][^williams-1977] or the result of centering on a discourse referent (see Hardt and Stone 1997)[^stone-1997]. Ambiguities can arise from words that aren’t written or said as well as from ones that are.
 
 Similar ambiguities come up in cases such as:
 
@@ -591,7 +591,7 @@ It is often claimed that:
 
 1. John loves his mother.
 
-is ambiguous between a deictic reading and a bound reading. Syntactic orthodoxy holds that either ‘his’ is co-indexed with John or it bears a different referential index. Various theories of anaphora, however, have claimed that we can dispense with the fundamental ambiguity between free and bound anaphora and unify the treatment of the two. Dynamic Semantics aspires to offer just such a unified account, taking all anaphora to always refer to discourse referents, or functions from information states to information states. This provides a unified treatment of the function of anaphora in natural language and dispenses with the need to think of anaphoric interpretation as ambiguous as opposed to merely context-sensitive. (See Heim 1982, 1983, and Kamp 1981)[^kamp-1981].
+is ambiguous between a deictic reading and a bound reading. Syntactic orthodoxy holds that either ‘his’ is co-indexed with John or it bears a different referential index. Various theories of anaphora, however, have claimed that we can dispense with the fundamental ambiguity between free and bound anaphora and unify the treatment of the two. Dynamic Semantics aspires to offer just such a unified account, taking all anaphora to always refer to discourse referents, or functions from information states to information states. This provides a unified treatment of the function of anaphora in natural language and dispenses with the need to think of anaphoric interpretation as ambiguous as opposed to merely context-sensitive. (See Heim 1982, 1983, and Kamp 1981)[^heim-1983][^kamp-1981].
 
 ### 6.2 The Scope of Indefinites
 

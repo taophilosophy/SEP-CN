@@ -431,7 +431,7 @@ Yet it might be questioned whether the above parallelism really works in favor o
 
 ### 4.2 Objective Bayesianism
 
-*Objective Bayesians* contend that, in addition to coherence, there is another epistemic virtue or ideal that needs to be codified into a norm for prior credences: freedom from bias and avoidance of overly strong opinions (Jeffreys 1939; Carnap 1945; Jaynes 1957, 1968; Rosenkrantz 1981; J. Williamson 2010)[^carnap-1945][^jaynes-1957][^jeffreys-1939][^rosenkrantz-1981][^williamson-2010]. This view is often motivated by a case like this:
+*Objective Bayesians* contend that, in addition to coherence, there is another epistemic virtue or ideal that needs to be codified into a norm for prior credences: freedom from bias and avoidance of overly strong opinions (Jeffreys 1939; Carnap 1945; Jaynes 1957, 1968; Rosenkrantz 1981; J. Williamson 2010)[^carnap-1945][^jaynes-1957][^jaynes-1968][^jeffreys-1939][^rosenkrantz-1981][^williamson-2010]. This view is often motivated by a case like this:
 
 - Example (Six-Faced Die). Suppose that there is a cubic die with six faces that look symmetric, and we are going to toss it. Suppose further that we have no other idea about this die. Now, what should our credence be that the die will come up 6?
 
@@ -588,7 +588,7 @@ $$\begin{multline} \Cr(\mathsf{win}) = \underbrace{\Cr(\mathsf{win} \mid \mathsf
 
 It seems natural to suppose that the first conditional credence is high and the second is low, by the description of the Mudrunner Case. The annotations in the above equation imply that $\Cr(\mathsf{win})$ must go up. This is how Jeffrey conditionalization accommodates the Mudrunner Case.
 
-Although Jeffrey conditionalization is more flexible than conditionalization, there is the worry that it is still too inflexible due to something it inherits from conditionalization: the preservation of certain credence ratios or conditional credences (Bacchus, Kyburg, & Thalos 1990; Weisberg 2009b)[^weisberg-2009b]. Here is an example due to Weisberg (2009b: sec. 5):
+Although Jeffrey conditionalization is more flexible than conditionalization, there is the worry that it is still too inflexible due to something it inherits from conditionalization: the preservation of certain credence ratios or conditional credences (Bacchus, Kyburg, & Thalos 1990; Weisberg 2009b)[^bacchus-1990][^weisberg-2009b]. Here is an example due to Weisberg (2009b: sec. 5):
 
 - Example (Red Jelly Bean). An agent with a prior $\Cr_\textrm{old}$ has a look at a jelly bean. The reddish appearance of that jelly bean has only one immediate effect on this agent’s credences: an increased credence in the proposition that $(\textsf{red})$ there is a red jelly bean. Then this agent comes to have a posterior $\Cr_\textrm{new}$. If this agent later learns that $(\textsf{tricky})$ the lighting is tricky, her credence in the redness of the jelly bean will drop. So, ($a$) $\Cr_\textrm{new}( \textsf{red} \mid \textsf{tricky} ) < \Cr_\textrm{new}( \textsf{red} )$. But if, instead, the tricky lighting had been learned *before* the look at the jelly bean, it would not have changed the credence in the jelly bean’s redness; that is: ($b$) $\Cr_\textrm{old}( \textsf{red} \mid \textsf{tricky} ) = \Cr_\textrm{old}( \textsf{red} ).$
 

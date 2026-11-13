@@ -443,7 +443,7 @@ $$\T(\hat{\Pi}x {:} a. b) = \Pi x {:} \T(a). \T(b)$$
 
 Note that the introduction rule for $\U$ refers to $\T$, and hence that $\U$ and $\T$ must be defined simultaneously.
 
-There are a number of other universe constructions which are defined inductive-recursively: universe hierarchies, superuniverses (Palmgren 1998; Rathjen, Griffor, and Palmgren 1998)[^palmgren-1998], and Mahlo universes (Setzer 2000)[^setzer-2000]. These universes are analogues of certain large cardinals in set theory: inaccessible, hyperinaccessible, and Mahlo cardinals.
+There are a number of other universe constructions which are defined inductive-recursively: universe hierarchies, superuniverses (Palmgren 1998; Rathjen, Griffor, and Palmgren 1998)[^palmgren-1998][^rathjen-1998], and Mahlo universes (Setzer 2000)[^setzer-2000]. These universes are analogues of certain large cardinals in set theory: inaccessible, hyperinaccessible, and Mahlo cardinals.
 
 Other examples of inductive-recursive definitions include an informal definition of computability predicates used by Martin-Löf in an early normalization proof of intuitionistic type theory (Martin-Löf 1998 [1972])[^martin-löf-1998]. There are also many natural examples of “small” inductive-recursive definitions, where the recursively defined (decoding) function returns an element of a type rather than a type.
 
@@ -597,7 +597,7 @@ $$\I(\U,A,B) \to A \simeq B$$
 
 is an equivalence. Equivalence ($\simeq$) here refers to a general notion of equivalence of higher dimensional objects, as in the sequence *equal elements, isomorphic sets, equivalent groupoids, biequivalent bigroupoids*, etc. The univalence axiom expresses that “everything is preserved by equivalence”, thereby realizing the informal categorical slogan that all categorical constructions are preserved by isomorphism, and its generalization, that all constructions of categories are preserved by equivalence of categories, etc.
 
-The axiom of univalence was originally justified by Voevodsky’s simplical set model. This model is however not constructive and (Bezem, Coquand and Huber 2014 [2013]) has instead proposed a model in Kan cubical sets. The construction of models that are both constructive and serve the purposes of homotopy theory is currently an active area of research.
+The axiom of univalence was originally justified by Voevodsky’s simplical set model. This model is however not constructive and (Bezem, Coquand and Huber 2014 [2013])[^bezem-2014] has instead proposed a model in Kan cubical sets. The construction of models that are both constructive and serve the purposes of homotopy theory is currently an active area of research.
 
 ## 7. Variants of the Theory
 
@@ -615,7 +615,7 @@ $$\vdash c {:} \I(A,a,a')$$
 
 is valid iff $c \Rightarrow \r$ and the judgment $\vdash a = a' {:} A$ is valid.
 
-However, these rules make it possible to define terms without normal forms. Since the type-checking algorithm relies on the computation of normal forms of types, it no longer works for extensional type theory, see (Castellan, Clairambault, and Dybjer 2015).
+However, these rules make it possible to define terms without normal forms. Since the type-checking algorithm relies on the computation of normal forms of types, it no longer works for extensional type theory, see (Castellan, Clairambault, and Dybjer 2015)[^castellan-2015].
 
 On the other hand, certain constructions which are not available in intensional type theory are possible in extensional type theory. For example, function extensionality
 
@@ -627,11 +627,11 @@ Another example is that $\W$-types can be used for encoding other inductively de
 
 ### 7.2 Univalent Foundations and Homotopy Type Theory
 
-Univalent foundations refer to Voevodsky’s programme for a new foundation of mathematics based on intuitionistic type theory with the univalence axiom as explained in section 6.5.3 about infinity groupoids. Voevodsky introduced the notion of h-level of a type. One defines an h-proposition as a type where all elements (proofs) are identified. Furthermore, one defines an h-set as a type A where the identity type $\I(A,a,b)$ is a proposition. An h-set is said to have h-level 0, and in general one defines a type A to have h-level $n+1$ provided $\I(A,a,b)$ has h-level $n$. Although univalent foundations concern preservation of mathematical structure in general, applications within homotopy theory are particularly actively investigated. Intensional type theory extended with the univalence axiom and so called higher inductive types is therefore also called “homotopy type theory”. We refer to the entry on type theory and the book on Homotopy type theory (The Univalent Foundations Program, 2013*)* for details.
+Univalent foundations refer to Voevodsky’s programme for a new foundation of mathematics based on intuitionistic type theory with the univalence axiom as explained in section 6.5.3 about infinity groupoids. Voevodsky introduced the notion of h-level of a type. One defines an h-proposition as a type where all elements (proofs) are identified. Furthermore, one defines an h-set as a type A where the identity type $\I(A,a,b)$ is a proposition. An h-set is said to have h-level 0, and in general one defines a type A to have h-level $n+1$ provided $\I(A,a,b)$ has h-level $n$. Although univalent foundations concern preservation of mathematical structure in general, applications within homotopy theory are particularly actively investigated. Intensional type theory extended with the univalence axiom and so called higher inductive types is therefore also called “homotopy type theory”. We refer to the entry on type theory and the book on Homotopy type theory (The Univalent Foundations Program, 2013*)[^univalent-2013]* for details.
 
 ### 7.3 Partial and Non-Standard Type Theory
 
-Intuitionistic type theory is not intended to model Brouwer’s notion of *free choice sequence*, although lawlike choice sequences can be modelled as functions from $\N$. However, there are extensions of the theory which incorporate such choice sequences: namely *partial type theory* and *non-standard type theory* (Martin-Löf 1990)[^martin-löf-1990]. The types in partial type theory can be interpreted as Scott domains (Martin-Löf 1986, Palmgren and Stoltenberg-Hansen 1990, Palmgren 1991)[^martin-löf-1986][^palmgren-1991][^palmgren-1990]. In this way a type $\N$ which contains an infinite number $\infty$ can be interpreted. However, in partial type theory all types are inhabited by a least element $\bot$, and thus the propositions as types principle is not maintained. Non-standard type theory incorporates non-standard elements, such as an infinite number $\infty {:} \N$ without inhabiting all types.
+Intuitionistic type theory is not intended to model Brouwer’s notion of *free choice sequence*, although lawlike choice sequences can be modelled as functions from $\N$. However, there are extensions of the theory which incorporate such choice sequences: namely *partial type theory* and *non-standard type theory* (Martin-Löf 1990)[^martin-löf-1990]. The types in partial type theory can be interpreted as Scott domains (Martin-Löf 1986, Palmgren and Stoltenberg-Hansen 1990, Palmgren 1991)[^martin-löf-1986][^martin-löf-1990][^palmgren-1991][^palmgren-1990]. In this way a type $\N$ which contains an infinite number $\infty$ can be interpreted. However, in partial type theory all types are inhabited by a least element $\bot$, and thus the propositions as types principle is not maintained. Non-standard type theory incorporates non-standard elements, such as an infinite number $\infty {:} \N$ without inhabiting all types.
 
 ### 7.4 Impredicative Type Theory
 

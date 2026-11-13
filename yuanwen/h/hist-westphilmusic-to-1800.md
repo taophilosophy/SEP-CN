@@ -29,7 +29,7 @@ The most notable opponent of the Pythagorean notion of celestial harmony was Ari
 
 ### 1.2 Mathematical and Empirical Harmonics
 
-‘Harmonics’ is the Ancient Greek discipline that studied musical entities, from intervals to scalar systems (Barker 1990: 3)[^barker-1990]. The Pythagorean tradition marked the start of an influential approach to harmonics, focused on the definition of musical entities in mathematical terms. Early contributors to this approach were Philolaus of Croton (c. 470–c. 385 BCE) and especially Archytas of Tarentum, a contemporary of Plato (Huffman 1993, 2005)[^huffman-1993].
+‘Harmonics’ is the Ancient Greek discipline that studied musical entities, from intervals to scalar systems (Barker 1990: 3)[^barker-1990]. The Pythagorean tradition marked the start of an influential approach to harmonics, focused on the definition of musical entities in mathematical terms. Early contributors to this approach were Philolaus of Croton (c. 470–c. 385 BCE) and especially Archytas of Tarentum, a contemporary of Plato (Huffman 1993, 2005)[^huffman-1993][^huffman-2005].
 
 A mathematical treatment of harmonics informed by Pythagorean principles is also given in the *Sectio Canonis*, a treatise of debated authorship, but often attributed to Euclid. Nicomachus (fl. c. 100 CE) wrote an influential introduction to harmonics from the Pythagorean standpoint (source texts with commentary are collected in Barker 1990; Barker 2007 reconstructs the development of Pythagorean harmonics.)[^barker-1990][^barker-2007]
 

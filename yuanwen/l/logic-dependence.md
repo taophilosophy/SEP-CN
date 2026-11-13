@@ -308,7 +308,7 @@ No complete answer to these questions is known at the moment. Some partial resul
 
 These are all partial results, however, and the general theory of dependencies and connectives in Team Semantics is still in its infancy.
 
-A related topic is the study of extensions of Dependence Logic via generalized quantifiers (Engström 2012)[^engström-2012]. An interesting result along these lines consists in axiomatization for the extension of Dependence Logic via the quantifier $Q$ “there exist uncountably many…”, which is sound and complete for the $\textbf{FO}(Q)$ consequences of a theory (Engström, Kontinen & Väänänen 2017)[^kontinen-2017].
+A related topic is the study of extensions of Dependence Logic via generalized quantifiers (Engström 2012)[^engström-2012]. An interesting result along these lines consists in axiomatization for the extension of Dependence Logic via the quantifier $Q$ “there exist uncountably many…”, which is sound and complete for the $\textbf{FO}(Q)$ consequences of a theory (Engström, Kontinen & Väänänen 2017)[^engström-2017][^kontinen-2017].
 
 Also worth pointing out in this context is the work of (Kontinen & Yang 2019)[^kontinen-2019], which found a logic based on Team Semantics (with different choices of connectives than the “standard” ones of Dependence Logic) whose formulas capture precisely the first-order-definable properties of teams; and (Hella et al. 2024)[^hella-2024], in which definability hierarchies are found for generalized dependencies.
 
@@ -336,7 +336,7 @@ Its satisfaction conditions can be defined through a variant of team semantics i
 
 Much research has investigated the complexity-theoretic properties of this logic, of its fragments, and its extensions (Ebbing, Lohmann, & Yang 2011; Ebbing & Lohmann 2012; Lohmann & Vollmer 2013)[^ebbing-2012][^lohmann-2013].
 
-Modal Independence Logic has also been investigated in (Kontinen et al, 2017); and a modal version of Inclusion Logic was axiomatized in (Anttila et al, 2025).
+Modal Independence Logic has also been investigated in (Kontinen et al, 2017)[^kontinen-2017]; and a modal version of Inclusion Logic was axiomatized in (Anttila et al, 2025)[^anttila-2025].
 
 ### 4.8 Linear Temporal Logic with Team Semantics
 
@@ -358,7 +358,7 @@ There is a straightforward connection between the teams of team semantics and th
 
 ### 5.2 Dependence logic and belief representation
 
-As discussed in (Yang 2014)[^yang-2014] and (Yang & Väänänen 2016)[^yang-2016], there exists a close connection between (propositional) intuitionistic dependence logic and *inquisitive logic* (Ciardelli & Roelofsen, 2011), a framework for the study of meaning and information exchange between agents. More in general, the dependency atoms and connectives of studied in team semantics admit natural interpretations in terms of *belief states* and *belief updates*, as discussed in (Galliani 2015)[^galliani-2015][^galliani-2015-2]. At this time, the exact nature of the relationship between such logics and dynamic-epistemic logic and its variants (Van Ditmarsch, van Der Hoek, & Kooi 2007) is largely unexplored, but there is ample reason to suspect further connections between these two areas of mathematical and philosophical logic.
+As discussed in (Yang 2014)[^yang-2014] and (Yang & Väänänen 2016)[^yang-2016], there exists a close connection between (propositional) intuitionistic dependence logic and *inquisitive logic* (Ciardelli & Roelofsen, 2011)[^ciardelli-2011], a framework for the study of meaning and information exchange between agents. More in general, the dependency atoms and connectives of studied in team semantics admit natural interpretations in terms of *belief states* and *belief updates*, as discussed in (Galliani 2015)[^galliani-2015][^galliani-2015-2]. At this time, the exact nature of the relationship between such logics and dynamic-epistemic logic and its variants (Van Ditmarsch, van Der Hoek, & Kooi 2007)[^ditmarsch-2007] is largely unexplored, but there is ample reason to suspect further connections between these two areas of mathematical and philosophical logic.
 
 ### 5.3 Dependence logic and Arrow’s theorem
 
@@ -372,7 +372,7 @@ As the wording itself suggests, the second and third conditions admit a natural 
 
 ### 5.4 Quantum team logic and Bell’s inequalities
 
-In (Hyttinen, Paolini, & Väänänen 2015) a variant of propositional team logic, called *quantum team logic*, is introduced. In this formalism, teams are replaced by *quantum teams*, which differ from the ordinary teams of propositional team logic in that they allow for the values of certain variables to be *indeterminate* with respect to certain valuations and in that they allow for multiple instances of the same valuation (thus adding a quantitative aspect to team semantics). A semantics is then defined over quantum teams for a language that allows for the specification of *inequalities* concerning the probabilities of events, and a sound and complete proof system is developed for it; and finally, it is shown that *Bell’s inequalities* admit counterexamples in this systems, as they do according to the predictions of quantum mechanics and according to experimental evidence (Einstein, Podolsky, & Rosen 1935; Bell 1964; Aspect, Grangier, & Roger 1981)[^bell-1964], while they do not so in the *classical* version of this framework.
+In (Hyttinen, Paolini, & Väänänen 2015)[^hyttinen-2015] a variant of propositional team logic, called *quantum team logic*, is introduced. In this formalism, teams are replaced by *quantum teams*, which differ from the ordinary teams of propositional team logic in that they allow for the values of certain variables to be *indeterminate* with respect to certain valuations and in that they allow for multiple instances of the same valuation (thus adding a quantitative aspect to team semantics). A semantics is then defined over quantum teams for a language that allows for the specification of *inequalities* concerning the probabilities of events, and a sound and complete proof system is developed for it; and finally, it is shown that *Bell’s inequalities* admit counterexamples in this systems, as they do according to the predictions of quantum mechanics and according to experimental evidence (Einstein, Podolsky, & Rosen 1935; Bell 1964; Aspect, Grangier, & Roger 1981)[^aspect-1981][^bell-1964][^einstein-1935], while they do not so in the *classical* version of this framework.
 
 ### 5.5 Team Semantics and Counterfactual Reasoning
 

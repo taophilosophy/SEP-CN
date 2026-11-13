@@ -169,7 +169,7 @@ Apart from that difficulty, the weaknesses of the positive polity are numerous. 
 
 However, considering only the weaknesses of the positive polity would not be fair. Even if Comte was often mistaken, his theory of consensus, as well as the seriousness with which he considered the question ‘What religion after the death of God?’ (to give but two examples) are likely to help us resolve certain problems confronting our society. Comte’s thought is resolutely oriented toward the future. The order of time, he said, is not past-present-future, but rather past-future-present. The latter, being only ‘a vague and fleeting span which fills the interval between two immensities of duration, and binds them together […], can only be properly conceived with the aid of the two extremes which it unites and separates’ (1851, v. 2, 364; E., v. 2, 296).
 
-A sound assessment of Comte’s philosophy must also take into account the work of his followers, a topic that has recently received renewed attention, especially for England (Wilson 2019, 2021)[^wilson-2019].
+A sound assessment of Comte’s philosophy must also take into account the work of his followers, a topic that has recently received renewed attention, especially for England (Wilson 2019, 2021)[^wilson-2019][^wilson-2021].
 
 ## References（引用注释）
 

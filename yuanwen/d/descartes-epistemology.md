@@ -67,7 +67,7 @@ Further comparisons arise with Plato’s doctrine of recollection. In the Fifth 
 
 The famous “wax” thought experiment of the Second Meditation is supposed to illustrate (among other things) a procedure to “dig out” what is innate. The thought experiment purports to help the meditator achieve a “purely mental scrutiny,” thereby apprehending more easily the innate idea of body (Med. 2, AT 7:30f, CSM 2:20f). According to Descartes, our minds come stocked with a variety of intellectual concepts – ideas whose content is independent of experience. This storehouse includes ideas in mathematics, logic, and metaphysics. Interestingly, Descartes holds that even our sensory ideas involve innate content. On his understanding of the new mechanical physics, bodies have no real properties resembling our sensory ideas of colors, sounds, tastes, and the like, thus implying that the content of such ideas draws from the mind itself. But if even these *sensory* ideas count as innate, how then are we to characterize the doctrine of innateness? Importantly, the formation of these sensory ideas – unlike purely intellectual concepts – depends on sensory stimulation. On one plausible understanding, Descartes’ official doctrine has it that ideas are innate *insofar as* their content derives from the nature of the mind alone, as opposed to deriving from sense experience (cf. Newman 2006)[^newman-2006]. This characterization allows that both intellectual and sensory concepts draw on native resources, though not to the same extent.
 
-Though the subject of *rationalism* or *nativism* in Descartes’ epistemology deserves careful attention, the present article generally focuses on Descartes’ efforts to achieve perfect knowledge. Relatively little attention is given to his doctrine of innateness, or, more generally, his ontology of thought. (For further discussion of his commitment to innateness, see Adams 1975, Jolley 1990, Newman 2006, and Nelson 2007.)[^adams-1975][^jolley-1990][^nelson-2007][^newman-2006]
+Though the subject of *rationalism* or *nativism* in Descartes’ epistemology deserves careful attention, the present article generally focuses on Descartes’ efforts to achieve perfect knowledge. Relatively little attention is given to his doctrine of innateness, or, more generally, his ontology of thought. (For further discussion of his commitment to innateness, see Adams 1975, Jolley 1990, Newman 2006, and Nelson 2007.)[^adams-1975][^jolley-1990][^nelson-2007][^newman-2006][^newman-2007]
 
 ## 2. The Methods: Foundationalism and Doubt
 
@@ -155,7 +155,7 @@ A related objection takes the method to require not merely doubt, but disbelief 
 
 Finally, a common objection has it that the universality of doubt undermines the method of doubt *itself*, since, for example, the sceptical hypotheses *themselves* are dubious. Descartes thinks this mistakes the intended scope of the method: namely, to extend doubt universally to *candidates for knowledge*, but not also to the very tools for founding knowledge. As he concedes: “there may be reasons which are strong enough to compel us to doubt, even though these reasons are themselves doubtful, and hence are not to be retained later on” (Replies 7, AT 7:473f, CSM 2:319).
 
-(For further discussion of Descartes’s method of doubt, see Frankfurt 1970, Garber 1986, Larmore 2014, Newman 2006, Williams 1983, and Wilson 1978.)[^frankfurt-1970][^garber-1986][^larmore-2014][^newman-2006][^williams-1983][^wilson-1978]
+(For further discussion of Descartes’s method of doubt, see Frankfurt 1970, Garber 1986, Larmore 2014, Newman 2006, Williams 1983, and Wilson 1978.)[^frankfurt-1970][^garber-1986][^larmore-2006][^larmore-2014][^newman-2006][^williams-1978][^williams-1983][^wilson-1978]
 
 ## 3. First Meditation Doubting Arguments
 
@@ -375,7 +375,7 @@ Defenders of an *unbounded* doubt interpretation would offer a different analysi
 
 How, then, do unbounded doubt interpreters deal with this passage? In context, the point of the natural light passage is not to draw a distinction between two grades of clear and distinct perception; it’s instead to clarify the distinction between the kind of probabilistic reasoning the meditator had invoked in prior remarks, and the irresistible evidentness accompanying our very best cognitions, such as the *cogito*. We can indeed take the point of the passage to apply to moments of careful attention: even while directly attending to the probabilistic matters (taught by nature), we recognize that there are grounds for doubt; whereas, when directly attending to our epistemically best cognitions (revealed by the natural light), we simply cannot doubt them. This reading renders the passage continuous with our reading of the other passages. Again, in the pivotal fourth paragraph of the Third Meditation: “when I turn to the things themselves which I think I perceive very clearly, I am so convinced by them that I spontaneously declare: let whoever can do so deceive me, he will never bring it about that I am nothing, so long as I continue to think I am something”; i.e., *while* directly attending to them, the matters revealed by the natural light “cannot in any way be open to doubt.” And yet, upon diverting attention, they fall prey to the Evil Genius Doubt.
 
-(For further discussion of the *cogito*, see Beyssade 1993, Broughton 2002, Carriero 2009, Cunning 2007, Curley 1978, Frankfurt 1966, Hintikka 1962, Kenny 1968, Markie 1992, Peacocke 2012, Sarkar 2003, Stroud 2008, Vendler 1984, Vinci 1998, Williams 1978, and Wilson 1978.)[^beyssade-1993][^broughton-2002][^carriero-2009][^cunning-2007][^curley-1978][^frankfurt-1966][^hintikka-1962][^kenny-1968][^markie-1992][^peacocke-2012][^sarkar-2003][^stroud-2008][^vendler-1984][^vinci-1998][^williams-1978][^wilson-1978]
+(For further discussion of the *cogito*, see Beyssade 1993, Broughton 2002, Carriero 2009, Cunning 2007, Curley 1978, Frankfurt 1966, Hintikka 1962, Kenny 1968, Markie 1992, Peacocke 2012, Sarkar 2003, Stroud 2008, Vendler 1984, Vinci 1998, Williams 1978, and Wilson 1978.)[^beyssade-1993][^broughton-2002][^carriero-2009][^cunning-2007][^curley-1978][^frankfurt-1966][^frankfurt-1968][^hintikka-1962][^kenny-1968][^markie-1992][^peacocke-2012][^sarkar-2003][^stroud-2008][^vendler-1984][^vinci-1998][^williams-1978][^wilson-1978]
 
 ## 5. C&D Rule and the Road to Perfect Knowledge
 
@@ -547,7 +547,7 @@ The other passage arises in the Fifth Meditation, in the concluding summary expl
 
 Absent a self-evident apprehension of God, the two passages appear inexplicable, with Descartes seeming to misunderstand the sceptical implications of his own Evil Genius Doubt. But on the self-evident God interpretation, both passages read as a summary of the anti-sceptical effects of it being impossible to conceive of God as a deceiver. As Descartes writes to Voetius, the very thought of God as a deceiver “implies a conceptual contradiction – that is, it cannot be conceived” (May 1643 letter, AT 8b:60, CSMK 222). The interpretation also makes sense of why the final victory over scepticism is announced not at the end of the Fourth Meditation, but at the end the Fifth – i.e., after the enhanced, self-evident apprehension of God is supposed to have been achieved.
 
-(For further discussion see Newman & Nelson 1999, Nolan 2005, and Nolan &and Nelson 2006.)[^newman-1999][^newman-1999-2][^nolan-2005][^nolan-2006][^nolan-2005-2]
+(For further discussion see Newman & Nelson 1999, Nolan 2005, and Nolan &and Nelson 2006.)[^newman-1999][^newman-2006][^newman-1999-2][^nolan-2005][^nolan-2006][^nolan-2005-2]
 
 ### 6.3 Another Cartesian Circle?
 
@@ -753,7 +753,7 @@ Indirect perception interpretations have figured prominently in the history of D
 
 > The argument (as I understand it) is not intended to get us from a realm of inner mental objects (“sensory ideas”) to some other realm of outer, physical objects (“bodies”); rather, it is to confirm our instinctive feeling that we have been receiving information (“directly”) from outer objects, bodies, all along. (2009, 26)
 
-(For further discussion of Descartes’ theory of ideas and perception, see Carriero 2009, Chappell 1986, Cunning 2010, Hoffman 1996 and 2009, Jolley 1990, Nadler 2006, Nelson 1997, Newman 2009, 2011, and Smith 2014.)[^carriero-2009][^chappell-1986][^cunning-2010][^hoffman-1996][^hoffman-2009][^jolley-1990][^nadler-2006][^nelson-1997][^newman-2009][^smith-2014]
+(For further discussion of Descartes’ theory of ideas and perception, see Carriero 2009, Chappell 1986, Cunning 2010, Hoffman 1996 and 2009, Jolley 1990, Nadler 2006, Nelson 1997, Newman 2009, 2011, and Smith 2014.)[^carriero-2009][^chappell-1986][^cunning-2010][^hoffman-1996][^hoffman-2009][^jolley-1990][^nadler-2006][^nelson-1997][^newman-2009][^newman-2011][^smith-2014]
 
 ### 9.2 Whether We Perfectly Know Our Own Minds
 

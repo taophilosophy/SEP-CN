@@ -193,7 +193,7 @@ Second, the analysis does nothing to prove that every argument from false to tru
 
 Unfortunately, neither al-Abharī nor al-Kātibī directly address these objections.
 
-Contemporary interpreters suggest reading al-Abharī and al-Kātibī through the lens of a cluster of 14th century Latin proposals defended by Thomas Bradwardine (d. 1349), John Buridan (d. 1358), and Albert of Saxony (d. 1390) (Alwishah & Sanson 2009, 2026; Zarepour 2021; Spade & Read 2009 [2021]: sec. 3.1)[^alwishah-2009][^spade-2009][^zarepour-2021]. On this reading, it is not just that the truth of the Liar *implies* that it is both true and false; it is that this is what the Liar *says* or *signifies*.
+Contemporary interpreters suggest reading al-Abharī and al-Kātibī through the lens of a cluster of 14th century Latin proposals defended by Thomas Bradwardine (d. 1349), John Buridan (d. 1358), and Albert of Saxony (d. 1390) (Alwishah & Sanson 2009, 2026; Zarepour 2021; Spade & Read 2009 [2021]: sec. 3.1)[^alwishah-2009][^alwishah-2026][^spade-2009][^zarepour-2021]. On this reading, it is not just that the truth of the Liar *implies* that it is both true and false; it is that this is what the Liar *says* or *signifies*.
 
 On its face, declarative, “All my sayings at this moment are false”, says that it is false. The claim that it *also* says or signifies that it is true, and so says or signifies that it is both true and false, requires some further non-obvious principle about what sayings say or signify. One such principle is the principle that every declarative signifies that it is true, in addition to whatever it says on its face. Another is the principle that, in addition to what it says on its face, every declarative signifies everything that logically follows from what it says on its face.
 
@@ -307,7 +307,7 @@ In the late fifteenth century, two scholars, Ṣadr al-Dīn al-Dashtakī (d. 149
 
 ### 4.1 Ḫaṭībzāde (?): States, Judgments, and Self-Contradiction
 
-A late 15th century work, attributed to both Ḫocazāde Muṣliḥuddīn Efendī (d. 1488) and Ḫaṭībzāde Muḥyiddīn Efendī (d. 1496), takes al-Taftāzānī as its jumping off point for a discussion of the Liar (Daşdemir 2023a, 2023b; Aydin 2014)[^aydin-2014][^daşdemir-2023a]. As with al-Taftāzānī, the context is once again theological rather than logical, focused on arguments against the view that good and evil and are not intrinsic.
+A late 15th century work, attributed to both Ḫocazāde Muṣliḥuddīn Efendī (d. 1488) and Ḫaṭībzāde Muḥyiddīn Efendī (d. 1496), takes al-Taftāzānī as its jumping off point for a discussion of the Liar (Daşdemir 2023a, 2023b; Aydin 2014)[^aydin-2014][^daşdemir-2023a][^daşdemir-2023b]. As with al-Taftāzānī, the context is once again theological rather than logical, focused on arguments against the view that good and evil and are not intrinsic.
 
 Following al-Taftāzānī, the author emphasizes the distinction between truth and falsehood as *judgments* versus truth and falsehood as *states* of judgments. He rejects al-Taftāzānī’s solution, and offers three different solutions of his own, all based on the idea that the Liar is not a declarative because it fails to have proper truth conditions.
 

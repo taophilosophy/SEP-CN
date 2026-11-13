@@ -374,7 +374,7 @@ Other critics deny that *What is Metaphysics?* suffers from an absence of meanin
 > The miser spends, the spendthrift saves,
 > And all men carry to their graves?
 >
-> (Leeming, 1953, 201)
+> (Leeming, 1953, 201)[^leeming-1953]
 
 The answer, *Nothing*, can only be seen through a kaleidoscope of equivocations.
 

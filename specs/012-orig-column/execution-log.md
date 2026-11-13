@@ -224,3 +224,17 @@
 **采信 7 行**：`ātmamāna`→आत्ममान、`mātra`→मात्र、`nirākāra`→निराकार、`nirodhasamāpatti`→निरोधसमापत्ति、`vāsanā`→वासना（MW 阴性词头，B4 留队项本轮解决）、`vijñānavāda`→विज्ञानवाद、`vipāka`→विपाक。凭证 `orig-verify-2026-11-14-b6.tsv`。
 
 **验收**：原文告警 127 → 120，硬错误 0。**通道进展**：`local-deva-feasibility-2026-11-14.md` 查明 `sanskrit-lexicon/csl-devanagari` 为辞书项目官方天城体镜像，MW＋BHS 74.7 MB 可离线覆盖 102 条梵文中的 27 条，回放 B3/B5 已采信字形 8 条逐字节全等；下一批可按 `lnum`＋`pc` 双键取形。
+
+## 2026-11-14 B7 联网查证批（Cologne 官方天城体镜像，20 行）
+
+**方法**：按 `local-deva-feasibility-2026-11-14.md` 的通道，从 `sanskrit-lexicon/csl-devanagari`（Cologne 项目自身发布的整书天城体镜像，commit 钉 `4e01fc2fbc53`）联网取 `mw`／`bhs` 两份文件，按 `lnum` 定点取条，逐条比对 `<k1>` 与预期字形，并读取释义确认所指概念。**未使用任何转写映射推算**：字形是项目发布的成品镜像，不是由 IAST 现场转换。
+
+**采信 20 行**（凭证 `results/orig-verify-2026-11-14-b7.tsv`，逐行含 lnum、页码栏、镜像 URL）：
+
+书名类 13：Abhidharmakośa、Ālambanaparīkṣā、Bāla-gādādharī（= Tarka-saṃgrahadīpikā）、Bodhisattvabhūmi、Madhyamakālaṃkāra、Madhyamakāloka、Mahāyānasaṃgraha、Nyāyabindu、Nyāyasiddhāntamañjarī、Pañcaskandhaka、Prajñāpradīpa、Pramāṇasamuccaya、Śrāvakabhūmi、Śrāvakayāna、Tarkajvālā、Triṃśikā、Yogācārabhūmi（其中 Edgerton 四条）。
+
+术语类 3：āśrayāsiddha（「宗有法不极成」之因过，MW 释 “an argument in which the existence of the subject is not established”）、pravṛttivijñāna（MW 释 “cognition of the things belonging to the external world, Buddh.”）、saṃyukta-samaveta-samavāya（MW 释 “inherence in that which inheres in the connected”）。
+
+**逐条校验结果**：k1 与预期字形 20／20 全等，无缺记录；释义与登记册所记概念逐条相符（书名类均作 “N. of wk.”）。
+
+**验收**：原文告警 120 → 100，硬错误 0。镜像文件仅作校验用，校验后即删，凭证保留 commit 钉与 lnum 以便复现。

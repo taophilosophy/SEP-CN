@@ -3,7 +3,7 @@
 
 *Bell, John L.*
 
-The principle of set theory known as the *Axiom of Choice* has been hailed as “probably the most interesting and, in spite of its late appearance, the most discussed axiom of mathematics, second only to Euclid’s axiom of parallels which was introduced more than two thousand years ago” (Fraenkel, Bar-Hillel & Levy 1973, §II.4). The fulsomeness of this description might lead those unfamiliar with the axiom to expect it to be as startling as, say, the Principle of the Constancy of the Velocity of Light or the Heisenberg Uncertainty Principle. But in fact the Axiom of Choice as it is usually stated appears humdrum, even self-evident. For it amounts to nothing more than the claim that, given any collection of mutually disjoint nonempty sets, it is possible to assemble a new set—a *transversal* or *choice set*—containing exactly one element from each member of the given collection. Nevertheless, this seemingly innocuous principle has far-reaching mathematical consequences—many indispensable, some startling—and has come to figure prominently in discussions on the foundations of mathematics. It (or its equivalents) have been employed in countless mathematical papers, and a number of monographs have been exclusively devoted to it.
+The principle of set theory known as the *Axiom of Choice* has been hailed as “probably the most interesting and, in spite of its late appearance, the most discussed axiom of mathematics, second only to Euclid’s axiom of parallels which was introduced more than two thousand years ago” (Fraenkel, Bar-Hillel & Levy 1973, §II.4)[^fraenkel-1973]. The fulsomeness of this description might lead those unfamiliar with the axiom to expect it to be as startling as, say, the Principle of the Constancy of the Velocity of Light or the Heisenberg Uncertainty Principle. But in fact the Axiom of Choice as it is usually stated appears humdrum, even self-evident. For it amounts to nothing more than the claim that, given any collection of mutually disjoint nonempty sets, it is possible to assemble a new set—a *transversal* or *choice set*—containing exactly one element from each member of the given collection. Nevertheless, this seemingly innocuous principle has far-reaching mathematical consequences—many indispensable, some startling—and has come to figure prominently in discussions on the foundations of mathematics. It (or its equivalents) have been employed in countless mathematical papers, and a number of monographs have been exclusively devoted to it.
 
 ## 1. Origins and Chronology of the Axiom of Choice
 
@@ -71,9 +71,9 @@ Here is a brief chronology of *AC*:[^note-6]
 | 1924 | Building on the work of Hausdorff, Banach and Tarski derive from *AC* their paradoxical decompositions of the sphere. |
 | 1926 | Hilbert introduces into his proof theory the “transfinite” or “epsilon” axiom as a version of *AC* . (Hilbert 1926)[^hilbert-1926]. |
 | 1936 | Lindenbaum and Mostowski extend and refine Fraenkel’s permutation method, and prove the independence of various statements of set theory weaker than *AC* . (Lindenbaum and Tarski 1938)[^lindenbaum-1938] |
-| 1935–38 | Gödel establishes relative consistency of *AC* with the axioms of set theory (Gödel 1938a, 1938b, 1939, 1940)[^gödel-1938a]. |
-| 1950s | Mendelson, Shoenfield and Specker, working independently, use the permutation method to establish the independence of various forms of *AC* from a system of set theory without atoms, but also lacking the axiom of foundation (Mendelson 1956, 1958, Shoenfield 1955, Specker 1957)[^mendelson-1956][^shoenfield-1955][^specker-1957]. |
-| 1963 | Paul Cohen proves independence of *AC* from the standard axioms of set theory (Cohen 1963, 1964)[^cohen-1963]. |
+| 1935–38 | Gödel establishes relative consistency of *AC* with the axioms of set theory (Gödel 1938a, 1938b, 1939, 1940)[^gödel-1938a][^gödel-1938b][^gödel-1940]. |
+| 1950s | Mendelson, Shoenfield and Specker, working independently, use the permutation method to establish the independence of various forms of *AC* from a system of set theory without atoms, but also lacking the axiom of foundation (Mendelson 1956, 1958, Shoenfield 1955, Specker 1957)[^mendelson-1956][^mendelson-1958][^shoenfield-1955][^specker-1957]. |
+| 1963 | Paul Cohen proves independence of *AC* from the standard axioms of set theory (Cohen 1963, 1964)[^cohen-1963][^cohen-1964]. |
 
 ## 2. Independence and Consistency of the Axiom of Choice
 
@@ -137,7 +137,7 @@ Here is a brief chronology of maximal principles.
 
 The Axiom of Choice has numerous applications in mathematics, a number of which have proved to be formally equivalent to it[^note-13]. Historically the most important application was the first, namely:
 
-**The Well-Ordering Theorem** (Zermelo 1904, 1908)[^zermelo-1904]. Every set can be well-ordered.
+**The Well-Ordering Theorem** (Zermelo 1904, 1908)[^zermelo-1904][^zermelo-1908]. Every set can be well-ordered.
 
 After Zermelo published his 1904 proof of the well-ordering theorem from *AC*, it was quickly seen that the two are equivalent.
 

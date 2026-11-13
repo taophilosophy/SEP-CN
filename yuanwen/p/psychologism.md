@@ -3,7 +3,7 @@
 
 *Kusch, Martin*
 
-Many authors use the term ‘psychologism’ for what they perceive as the mistake of identifying non-psychological with psychological entities. For instance, philosophers who think that logical laws are not psychological laws would view it as psychologism to identify the two. Other authors use the term in a neutral descriptive or even in a positive sense. ‘Psychologism’ then refers (approvingly) to positions that apply psychological techniques to traditional philosophical problems (e.g. Ellis 1979, 1990)[^ellis-1979].
+Many authors use the term ‘psychologism’ for what they perceive as the mistake of identifying non-psychological with psychological entities. For instance, philosophers who think that logical laws are not psychological laws would view it as psychologism to identify the two. Other authors use the term in a neutral descriptive or even in a positive sense. ‘Psychologism’ then refers (approvingly) to positions that apply psychological techniques to traditional philosophical problems (e.g. Ellis 1979, 1990)[^ellis-1979][^ellis-1990].
 
 ‘Psychologism’ entered the English language as a translation of the German word ‘*Psychologismus*’, a term coined by the Hegelian Johann Eduard Erdmann in 1870 to critically characterize the philosophical position of Eduard Beneke (Erdmann 1870)[^erdmann-1870].
 
