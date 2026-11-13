@@ -87,3 +87,13 @@
 
 
 <!-- 接力指针：下一词条 abu-bakr-al-razi（yuanwen/a/abu-bakr-al-razi.md；en/abu-bakr-al-razi/index.html） -->
+
+## abu-bakr-al-razi（正式；译文 a/abu-bakr-al-razi.md 存在）
+
+- 源：en/abu-bakr-al-razi/index.html（1345 行；无 notes.html——源文无脚注）↔ yuanwen/a/abu-bakr-al-razi.md（230 行）
+- 逐段核：preamble 1 段✓；作者行 = citation_author 单人✓；§1（7 段）✓；§2（6 段）✓；§3（5 段 + 2 引块，次序 段-引块-段-段-引块-段-段）✓；§4（4 段）✓；§5（4 段）✓；§6（2 段）✓；书目 Primary 两表（Works by Abū Bakr 5 行 [RF]/[SPR]/[SM]/[PWL]/[DG]；Works by other authors 10 行 [AHR]/•1989 Brion/[FDR]/[*In Phys.*]/[CPV]/[CTP]/[HDK]/[NK]/[GP]）逐行✓；Secondary Sources 49 条 `<li>` ↔ 脚注定义 49 条逐条✓；Academic Tools 4 行✓；OIR 1 条（外链转 md 链接）✓；Related Entries 6 条同序✓；md 无「Notes（原文脚注）」节 ✓（与源无脚注一致）
+- 结构细节：文内书目缩写锚点链接（`<a href="#bib-RF">RF</a>` 等 8 处）转纯文本缩写✓；`*Doubts about Galen.*`（句点含在 em 内）、`*nafsānī*`、`*ʿishq*`/`*ʿaql*`/`*imām*s`/`*taqlīd*`/`*iʿjāz*`、`§15.1-6` 连字符（非 en dash）均与源逐字一致✓；`Naṣīr`（§1/§2/§5/§6 与 NK 书目行）与 `Nāṣir`（§2 中段 NK 引）两种拼法、`Īrānshahri`（末处小写 i）、`Abū Hātim`（• 行，无 ṣ）与 `Abū Ḥātim` 并存——源文内部不一致全部忠实保留✓；正文「Güngür 2023」对书目「Güngör, Hüseyin」的元音不一致亦忠实保留✓
+- 系统行为（实证确认，不改）：Primary 两表为 `<table>`，md 保留为表格且首行（[RF] / [AHR]）被提为表头并加分隔行；`8<sup>th</sup>`→8ᵗʰ；`[available online]` 类外链保留为 md 链接
+- 结论：零转换缺陷；译文无需同步。
+
+<!-- 接力指针：下一词条 academic-freedom（yuanwen/a/academic-freedom.md；en/academic-freedom/index.html） -->
