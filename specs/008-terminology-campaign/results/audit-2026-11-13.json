@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 4747,
-  "不一致": 788,
+  "查无": 4807,
+  "不一致": 789,
   "一致": 1158,
-  "未查证": 4030
+  "未查证": 3969
  },
  "results": [
   {
@@ -140465,9 +140465,11 @@
    "term": "Bergson, Henri",
    "trans": "亨利·柏格森",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140475,9 +140477,11 @@
    "term": "Berkeley, George",
    "trans": "乔治·贝克莱",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作“巴克莱”）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140485,9 +140489,11 @@
    "term": "Berleant, Arnold",
    "trans": "阿诺德·伯林特",
    "basis": "学界通行汉译（《艺术与介入》中译本作“伯林特”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140495,9 +140501,11 @@
    "term": "Berman, Piotr",
    "trans": "Piotr Berman",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140505,9 +140513,11 @@
    "term": "Bernard Matege",
    "trans": "贝尔纳·马特赫",
    "basis": "学界通行中译（14 世纪加泰罗尼亚人文主义者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140515,9 +140525,11 @@
    "term": "Bernard of Arezzo",
    "trans": "阿雷佐的伯纳德",
    "basis": "学界通行（方济各会神学家，奥特古通信对手）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140525,9 +140537,11 @@
    "term": "Bernardino Telesio",
    "trans": "贝尔纳迪诺·特莱西奥",
    "basis": "学界通行汉译（文艺复兴自然哲学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140535,9 +140549,11 @@
    "term": "Berners-Lee, Tim",
    "trans": "蒂姆·伯纳斯-李",
    "basis": "学界与新闻通行汉译（万维网发明者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140545,9 +140561,11 @@
    "term": "Bernier of Nivelles",
    "trans": "尼维尔的贝尔尼耶",
    "basis": "依地名冠称（列日圣马丁教堂议事司铎）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140555,9 +140573,11 @@
    "term": "Bernoulli, Johan",
    "trans": "约翰·伯努利",
    "basis": "学界惯例（大数学家；通行音译）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140565,9 +140585,11 @@
    "term": "Berry, Clifford",
    "trans": "克利福德·贝里",
    "basis": "学界通行音译（ABC 计算机共同建造者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140575,9 +140597,11 @@
    "term": "Berthelot, Marcellin",
    "trans": "马塞兰·贝特洛",
    "basis": "学界通行汉译（化学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140585,9 +140609,11 @@
    "term": "Berthold of Moosburg",
    "trans": "穆斯堡的贝特霍尔德",
    "basis": "学界惯例（普罗克洛斯注疏者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140595,9 +140621,11 @@
    "term": "Bertoloni Meli, Domenico",
    "trans": "贝托洛尼·梅利",
    "basis": "科学史通行音译（《等价与优先》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140605,9 +140633,11 @@
    "term": "Bessarion",
    "trans": "贝萨里翁",
    "basis": "学界通行汉译（15 世纪希腊学者、枢机）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140615,9 +140645,11 @@
    "term": "Betegh, Gábor",
    "trans": "贝特格",
    "basis": "音译（古希腊哲学史学者，匈牙利人名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140625,9 +140657,11 @@
    "term": "Beth, Evert Willem",
    "trans": "贝斯",
    "basis": "逻辑学通行汉译（贝斯模型/贝斯定义）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140635,9 +140669,11 @@
    "term": "Betti, Emilio",
    "trans": "埃米利奥·贝蒂",
    "basis": "法学诠释学通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140645,9 +140681,11 @@
    "term": "Bettina Brentano-von Arnim",
    "trans": "贝蒂娜·布伦塔诺-冯·阿尼姆",
    "basis": "学界通行汉译（德意志浪漫派作家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140655,9 +140693,11 @@
    "term": "Bexell, Magdalena",
    "trans": "玛格达莱娜·贝克塞尔",
    "basis": "音译（全球治理研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140665,9 +140705,11 @@
    "term": "Bezos, Jeff",
    "trans": "杰夫·贝索斯",
    "basis": "学界通行音译（亚马逊创始人，分配正义举例）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140675,9 +140717,11 @@
    "term": "Bhai Gurdas",
    "trans": "巴伊·古尔达斯",
    "basis": "本库首译（早期锡克作者，GG 首抄本书记；旁遮普音自拟）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140685,9 +140729,11 @@
    "term": "Bhai Mani Singh",
    "trans": "巴伊·马尼·辛格",
    "basis": "本库首译（智识传承开创者之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140695,9 +140741,11 @@
    "term": "Bhai Vir Singh",
    "trans": "巴伊·维尔·辛格",
    "basis": "本库首译（锡克现代文学奠基者；旁遮普音自拟）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140705,9 +140753,11 @@
    "term": "Bhāsarvajña",
    "trans": "跋沙罗婆吉那",
    "basis": "梵音自拟（正理派论师）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140715,9 +140765,11 @@
    "term": "Bhāviveka",
    "trans": "清辨",
    "basis": "中观自续派论师通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140725,9 +140777,11 @@
    "term": "Biale, David",
    "trans": "戴维·比亚莱",
    "basis": "学界通行汉译（朔勒姆研究）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140735,9 +140789,11 @@
    "term": "Bialik, Chaim Nachman",
    "trans": "哈伊姆·纳赫曼·比亚利克",
    "basis": "学界通行汉译（希伯来民族诗人）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140745,9 +140801,11 @@
    "term": "Bianchi, Luca",
    "trans": "卢卡·比安基",
    "basis": "学界惯例（音译，都灵中世纪哲学史家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140755,9 +140813,11 @@
    "term": "Biard, Joël",
    "trans": "Joël Biard（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140765,9 +140825,11 @@
    "term": "Bias of Priene",
    "trans": "普里耶涅的比阿斯",
    "basis": "学界通行汉译（七贤之一）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140775,9 +140837,11 @@
    "term": "Bibago, Abraham",
    "trans": "亚伯拉罕·比巴戈",
    "basis": "犹太哲学史通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140785,9 +140849,18 @@
    "term": "Bieberbach, Ludwig",
    "trans": "路德维希·比伯巴赫",
    "basis": "数学界通行汉译（比伯巴赫猜想）；1933 年加入冲锋队；凭证 2026-11-12",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "空间群",
+     "en": "Ludwig Bieberbach",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140795,9 +140868,11 @@
    "term": "Biel, Gabriel",
    "trans": "加布里埃尔·比尔",
    "basis": "宗教改革研究通行汉译（近代之路晚辈）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140805,9 +140880,11 @@
    "term": "Bierstadt, Albert",
    "trans": "阿尔伯特·比尔斯塔特",
    "basis": "学界惯例音译（美国西部风景画家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140815,9 +140892,11 @@
    "term": "Bigelow, Julian",
    "trans": "朱利安·比奇洛",
    "basis": "学界通行音译（IAS 计算机工程负责人）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140825,9 +140904,11 @@
    "term": "Biggar, Nigel",
    "trans": "奈杰尔·比格",
    "basis": "音译（英语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140835,9 +140916,11 @@
    "term": "Bilkova, Marta",
    "trans": "Marta Bilkova",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140845,9 +140928,11 @@
    "term": "Bimbó, Katalin",
    "trans": "Katalin Bimbó",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140855,9 +140940,11 @@
    "term": "Birch, Thomas",
    "trans": "托马斯·伯奇",
    "basis": "学界通行汉译（18 世纪传记编纂者，考克本《著作集》编者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140865,9 +140952,11 @@
    "term": "Biringuccio, Vannoccio",
    "trans": "范诺乔·比林古乔",
    "basis": "科学史通行音译（《火法技艺》作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140875,9 +140964,11 @@
    "term": "Bishop, Elizabeth",
    "trans": "伊丽莎白·毕肖普",
    "basis": "学界通行汉译（诗人）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140885,9 +140976,11 @@
    "term": "Bishop, John",
    "trans": "约翰·毕晓普",
    "basis": "音译（faith 词条作者，信仰冒险模型）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140895,9 +140988,11 @@
    "term": "Bittner, Maria",
    "trans": "Bittner, Maria",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140905,9 +141000,11 @@
    "term": "Bizard, Renée",
    "trans": "勒内·比扎尔",
    "basis": "学界惯例音译（拉弗尔热之妻）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140915,9 +141012,11 @@
    "term": "Black, Duncan",
    "trans": "邓肯·布莱克",
    "basis": "学界通行汉译（社会选择理论文献，《委员会抉择的理论》作者；与 Max Black 异人）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140925,9 +141024,11 @@
    "term": "Black, Max",
    "trans": "马克斯·布莱克",
    "basis": "学界通行音译（分析哲学）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140935,9 +141036,11 @@
    "term": "Black, R. D. C.",
    "trans": "布莱克",
    "basis": "学界惯例（《杰文斯书信文集》主编 R. D. C. Black）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140945,9 +141048,11 @@
    "term": "Blackett, Patrick",
    "trans": "帕特里克·布莱克特",
    "basis": "学界通行汉译（物理学家，诺贝尔奖得主）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140955,9 +141060,11 @@
    "term": "Blake, Michael",
    "trans": "迈克尔·布莱克",
    "basis": "音译（移民伦理，管辖权理论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140975,9 +141082,11 @@
    "term": "Blanshard, Brand",
    "trans": "布兰夏德",
    "basis": "学界通行汉译（美国绝对唯心论者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140985,9 +141094,11 @@
    "term": "Blåsjö, Viktor",
    "trans": "维克托·布洛舍",
    "basis": "数学史通行音译；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140995,9 +141106,11 @@
    "term": "Blass, Andreas",
    "trans": "Andreas Blass",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141005,9 +141118,11 @@
    "term": "Bloch, Ernst",
    "trans": "恩斯特·布洛赫",
    "basis": "学界通行汉译（SUMMARY 定名沿用）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141015,9 +141130,11 @@
    "term": "Bloch, Karola",
    "trans": "卡罗拉·布洛赫",
    "basis": "学界通行音译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141025,9 +141142,11 @@
    "term": "Bloch-von Stritzki, Else",
    "trans": "埃尔斯·布洛赫-冯·施特里茨基",
    "basis": "学界通行音译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141035,9 +141154,11 @@
    "term": "Block, Ned",
    "trans": "内德·布洛克",
    "basis": "学界通行汉译（心灵哲学中译文献通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141045,9 +141166,11 @@
    "term": "Blondel, Maurice",
    "trans": "莫里斯·布隆代尔",
    "basis": "学界惯例（法国哲学家，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141055,9 +141178,11 @@
    "term": "Bloom, Paul",
    "trans": "保罗·布鲁姆",
    "basis": "音译（发展心理学）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141065,9 +141190,11 @@
    "term": "Bloomfield, Leonard",
    "trans": "伦纳德·布龙菲尔德",
    "basis": "学界通行汉译（结构主义语言学奠基者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -182462,9 +182589,11 @@
    "term": "Bertolt Brecht",
    "trans": "贝托尔特·布莱希特",
    "basis": "学界通行汉译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
