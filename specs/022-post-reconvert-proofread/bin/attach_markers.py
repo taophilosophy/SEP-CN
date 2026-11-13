@@ -91,6 +91,7 @@ def plan_entry(slug, letter):
     if cur:
         runs.append(cur)
     for run in runs:
+        seq = [om.group(1) for om in run]  # yw 链序（含 zh 已付键）
         todo = []
         for om in run:
             k = om.group(1)
@@ -148,13 +149,18 @@ def plan_entry(slug, letter):
             continue
         a, b = pick
         used_spans.add(pick)
-        # 位点级已付检查：该组后已有同键标记者跳过
-        window = zh[b:b + 140]
-        todo = [k for k in todo if ('[^' + k + ']') not in window]
+        # 位点级已付检查：zh 现链已含全部 yw 键则整点已付
+        chain = []
+        rest = zh[b:]
+        m0 = re.match(r'(?:\[\^[^\]\s]+\])+', rest)
+        if m0:
+            chain = re.findall(r'\[\^([^\]\s]+)\]', m0.group(0))
+        if set(seq) <= set(chain):
+            continue  # 整点已付（不消费 used_spans 也无妨）
+        plan.append({'key': '+'.join(todo), 'keys_todo': todo, 'seq': seq,
+                     'at': b, 'evidence': zh[max(0, a - 30):min(b + 10, a + 90)],
+                     'score': top, 'group_size': len(pairs)})
         for k in todo:
-            plan.append({'key': k, 'at': b,
-                         'evidence': zh[max(0, a - 30):min(b + 10, a + 90)],
-                         'score': top, 'group_size': len(pairs)})
             planned_count[k] += 1
     ins = {}
     for p in plan:
@@ -164,19 +170,28 @@ def plan_entry(slug, letter):
             'mk_zh': sum(mk_zh.values()), 'mk_yw': sum(mk_yw.values())}
 
 
+CHAIN = re.compile(r'(?:\[\^[^\]\s]+\])+')
+
+
 def apply_plan(pl):
     zh = read(pl['zh_p'])
-    # 从后往前插，防偏移；同一位置多键按 yw 顺序
-    edits = sorted(pl['inserts'].items(), key=lambda x: -x[0])
+    # 从后往前整链替换（防偏移）
+    sites = {}
+    for p in pl['plan']:
+        sites.setdefault(p['at'], []).append(p)
     applied = []
-    for at, items in edits:
-        seq = ''.join('[^%s]' % it['key'] for it in items)
-        # 幂等守卫：目标点之后若已是同串则跳过
-        if zh[at:at + len(seq)] == seq:
+    for at, items in sorted(sites.items(), key=lambda x: -x[0]):
+        seq = items[0]['seq']  # 同位点多 plan 共用同 run 序
+        m0 = CHAIN.match(zh[at:])
+        old = m0.group(0) if m0 else ''
+        old_keys = re.findall(r'\[\^([^\]\s]+)\]', old)
+        zh_only = [k for k in old_keys if k not in seq]
+        new = ''.join('[^%s]' % k for k in (list(seq) + zh_only))
+        if new == old:
             continue
-        zh = zh[:at] + seq + zh[at:]
-        applied.append({'at': at, 'keys': [it['key'] for it in items],
-                        'evidence': zh[max(0, at - 60):at]})
+        zh = zh[:at] + new + zh[at + len(old):]
+        applied.append({'at': at, 'was': old_keys, 'now': list(seq) + zh_only,
+                        'evidence': zh[max(0, at - 70):at]})
     write(pl['zh_p'], zh)
     return applied
 

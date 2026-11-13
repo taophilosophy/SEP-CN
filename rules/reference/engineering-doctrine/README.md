@@ -29,6 +29,7 @@
 | `06-ui-resources.md` | 极简 UI、主题、预算、i18n/RTL、可访问性、挂起 | 按需 |
 | `07-delivery.md` | 目录分类、编码卫生、PR 清单、版本与证据 | 是 |
 | `08-machine-translation.md` | 机器翻译辅助工程（MTPE）：对账协议、守恒校验族、双版留档、注入边界、批参数显式化 | 按需 |
+| `09-rework-lessons.md` | 返工理论：五类成因、成本律、防线设计、事故原则化（SEP-CN 回流） | 是 |
 | `templates/` | AGENTS、ADR、并发档案、哲学审查、PR、spec/tasks/checklist 模板 | 是 |
 
 ## 3. 最小采用步骤
