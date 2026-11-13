@@ -1,6 +1,6 @@
 # en 源头勘误清单（ADR-0038）
 
-范围：`en/<slug>/index.html` 就地改正的逐条凭证。只收「已核实」四类（排印/OCR 手误、同页自相矛盾、结构错位、占位符可自证）；可争议年份、命名选择、版本标记一律不改，另列「待考」。
+范围：`en/<slug>/index.html` 就地改正的逐条凭证。只收“已核实”四类（排印/OCR 手误、同页自相矛盾、结构错位、占位符可自证）；可争议年份、命名选择、版本标记一律不改，另列“待考”。
 
 改正后由 `python tools/yuanwen.py --all-baselined --summary` 全量重转，`baseline/entries.json` 的 `source_sha256` 与 `md` 哈希随重转重算；git 历史即勘误证据。
 

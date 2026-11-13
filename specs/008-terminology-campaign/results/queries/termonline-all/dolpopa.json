@@ -1,0 +1,40 @@
+{
+ "key": "dolpopa",
+ "term": "Dolpopa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T20:47:16+00:00",
+ "status": "ok",
+ "note": "variant=Dolpopa; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "白云石熟料",
+   "en": "doloma,dolomite clinker",
+   "code": "05.0235",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_耐火材料"
+  },
+  {
+   "cn": "白云石质耐火材料",
+   "en": "doloma refractory",
+   "code": "05.0307",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_耐火材料"
+  },
+  {
+   "cn": "镁白云石质耐火材料",
+   "en": "magnesia doloma refractory",
+   "code": "05.0308",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_耐火材料"
+  },
+  {
+   "cn": "镁白云石砖",
+   "en": "magnesia-doloma brick",
+   "code": "05.0291",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_耐火材料"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
