@@ -27,7 +27,7 @@ REG = os.path.join(ROOT, 'ren-ming-biao.md')
 DEFAULT_LEDGER = os.path.join(ROOT, 'specs', '013-person-attribution',
                               'results', 'verify-2026-11-13.tsv')
 OLD_TAG = '籍属/生卒据学界通行（2026-11-13 补）'
-DATE = '2026-11-13'
+DATE = os.environ.get('LEDGER_DATE', '2026-11-14')
 
 
 def load_ledger(path):
