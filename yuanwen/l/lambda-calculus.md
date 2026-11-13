@@ -170,7 +170,14 @@ Here are some examples of $\beta$-reduction:
 1. The variable $x$ does not $\beta$-reduce to anything. (It does not have the right shape: it is simply a variable, not an application term whose left-hand side is an abstraction term.)
 2. $(\lambda x[x])a \rhd_{\beta ,1} a$.
 3. If $x$ and $y$ are distinct variables, then $(\lambda x[y])a \rhd_{\beta ,1} y$.
-4. The $\lambda$-term $(\lambda x[(\lambda y[xy])a])b]$ $\beta$-reduces in one step to two different $\lambda$-terms: $$ (\lambda x[(\lambda y[xy])a])b \rhd_{\beta ,1} (\lambda y[by])a $$ and $$ (\lambda x[(\lambda y[xy])a])b \rhd_{\beta ,1} (\lambda x[xa])b $$ Moreover, one can check that these two terms $\beta$-reduce in one step to a common term: $ba$. We thus have: $(\lambda y[by])a$ $\nearrow$ $\searrow$ $(\lambda x[(\lambda y[xy])a])b$ $ba$ $\searrow$ $\nearrow$ $(\lambda x[xa])b$
+4. The $\lambda$-term $(\lambda x[(\lambda y[xy])a])b]$ $\beta$-reduces in one step to two different $\lambda$-terms: $$ (\lambda x[(\lambda y[xy])a])b \rhd_{\beta ,1} (\lambda y[by])a $$ and $$ (\lambda x[(\lambda y[xy])a])b \rhd_{\beta ,1} (\lambda x[xa])b $$ Moreover, one can check that these two terms $\beta$-reduce in one step to a common term: $ba$. We thus have:
+
+   |   |   | $(\lambda y[by])a$ |   |   |
+   | --- | --- | --- | --- | --- |
+   |   | $\nearrow$ |   | $\searrow$ |   |
+   | $(\lambda x[(\lambda y[xy])a])b$ |   |   |   | $ba$ |
+   |   | $\searrow$ |   | $\nearrow$ |   |
+   |   |   | $(\lambda x[xa])b$ |   |   |
 
 As with any binary relation, one can ask many questions about the relation $\rhd_{\beta ,1}$ holding between $\lambda$-terms, and one can define various derived notions in terms of $\rhd_{\beta ,1}$.
 

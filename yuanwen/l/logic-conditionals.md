@@ -236,7 +236,20 @@ In order to present some central logics of conditionals based on the possible-wo
 
 - As a first layer for all systems, we let **PC** consist of all tautologies of the classical propositional calculus.
 - We also assume the systems below to be closed under material Modus Ponens, but distinguish moreover the following inference rules (Left Logical Equivalence, Right Weakening, and Rule of Conditional K). Those mean that if the premises are theorems, then so is the conclusion. $$\tag*{LLE} \frac{B \equiv C}{(B >A) \equiv(C >A)} $$ $$\tag*{RW} \frac{B \supset C}{(A >B) \supset(A >C)} $$ $$\tag*{RCK} \frac{(B_1 \wedge \ldots \wedge B_n) \supset C} {(A >B_1) \wedge \ldots (A >B_n) \supset(A >C)\quad (n\geq 0)} $$
-- Axioms LT (Logical Truth) $A>\top$ ID (Identity) $A>A$ AND (And) $((A>B)\wedge (A>C))\supset(A>(B\wedge C))$ OR (Or) $((A>C)\wedge (B>C))\supset((A\vee B)>C)$ CCut (Cautious Transitivity) $((A>B)\wedge ((A\wedge B)>C))\supset(A>C)$ CMon (Cautious Monotonicity) $((A>B)\wedge (A>C))\supset((A\wedge B)>C)$ Rec (Reciprocity) $((A>B)\wedge (B>A)) \supset((A>C) \equiv(B>C))$ SM (Stronger-than-Material) $(B>C)\supset(B\supset C)$ CS (Conjunctive Sufficiency) $(B\wedge C)\supset(B>C)$ RMon (Rational Monotonicity) $((A>B)\wedge \neg(A>\neg C))\supset((A\wedge C)>B)$ CEM (Conditional Excluded Middle) $(A>B)\vee (A>\neg B)$
+- Axioms
+
+  | LT | (Logical Truth) $A>\top$ |
+  | --- | --- |
+  | ID | (Identity) $A>A$ |
+  | AND | (And) $((A>B)\wedge (A>C))\supset(A>(B\wedge C))$ |
+  | OR | (Or) $((A>C)\wedge (B>C))\supset((A\vee B)>C)$ |
+  | CCut | (Cautious Transitivity) $((A>B)\wedge ((A\wedge B)>C))\supset(A>C)$ |
+  | CMon | (Cautious Monotonicity) $((A>B)\wedge (A>C))\supset((A\wedge B)>C)$ |
+  | Rec | (Reciprocity) $((A>B)\wedge (B>A)) \supset((A>C) \equiv(B>C))$ |
+  | SM | (Stronger-than-Material) $(B>C)\supset(B\supset C)$ |
+  | CS | (Conjunctive Sufficiency) $(B\wedge C)\supset(B>C)$ |
+  | RMon | (Rational Monotonicity) $((A>B)\wedge \neg(A>\neg C))\supset((A\wedge C)>B)$ |
+  | CEM | (Conditional Excluded Middle) $(A>B)\vee (A>\neg B)$ |
 
 *Table 6:*
 

@@ -287,7 +287,12 @@ A relevant version **RD** of Mally’s deontic system may be defined as follows:
 
 **RD** has the following properties.
 
-- Axioms I, II and III may be replaced by the following three simpler axioms:[^note-11] I*. (A → B) → (!A → !B) II*. (!A & !B) → !(A & B) III*. !(!A → A)
+- Axioms I, II and III may be replaced by the following three simpler axioms:[^note-11]
+
+  | I*. | (A → B) → (!A → !B) |
+  | --- | --- |
+  | II*. | (!A & !B) → !(A & B) |
+  | III*. | !(!A → A) |
 - Formulas I–V, (3), (4), (6), (8)–(11), (14), (16)–(18), (23′) and (30) are theorems of **RD**.[^note-12]
 - Formulas (1), (2), (5), (7), (12), (13), (15), (19)–(23), (24)–(29), (31)–(35), A → !A and !A → A are not derivable.[^note-13]
 - There are 12 mismatches between **RD** and Mally’s expectations: (5), (12)–(13), (15), (19)–(21), (23) and (24)–(26) are not derivable even though Mally did not regard these formulas as surprising, and (30) is a theorem even though Mally viewed it as surprising.
@@ -556,7 +561,130 @@ We owe this proof to John Slaney.
 
 To avoid needless complications, we will not equip **RD** with quantifiers, but confine our attention to the unquantified versions of (2), (5), (15) and (27). We may now proceed with the actual proof. We use the following matrices:
 
-| （嵌套表：\| → \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| ¬ \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| \| 0 \| 5 \| 5 \| 5 \| 5 \| 5 \| 5 \| 5 \| \| 1 \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| 4 \| \| 2 \| 0 \| 0 \| 1 \| 1 \| 3 \| 5 \| 3 \| \| 3 \| 0 \| 0 \| 0 \| 1 \| 2 \| 5 \| 2 \| \| 4 \| 0 \| 0 \| 0 \| 0 \| 1 \| 5 \| 1 \| \| 5 \| 0 \| 0 \| 0 \| 0 \| 0 \| 5 \| 0 \|） |   | （嵌套表：\| & \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| \| 0 \| 0 \| 0 \| 0 \| 0 \| 0 \| 0 \| \| 1 \| 0 \| 1 \| 0 \| 1 \| 0 \| 1 \| \| 2 \| 0 \| 0 \| 2 \| 2 \| 2 \| 2 \| \| 3 \| 0 \| 1 \| 2 \| 3 \| 2 \| 3 \| \| 4 \| 0 \| 0 \| 2 \| 2 \| 4 \| 4 \| \| 5 \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \|） |
+| <table class="cellpad-small frame vert-top">
+<tbody>
+<tr>
+  <td>&rarr;  </td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>4</td>
+  <td>5</td>
+  <td>&not;</td> </tr>
+<tr>
+  <td>0</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td>
+  <td>5</td> </tr>
+<tr>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>4</td>
+  <td>5</td>
+  <td>4</td> </tr>
+<tr>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>1</td>
+  <td>3</td>
+  <td>5</td>
+  <td>3</td> </tr>
+<tr>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>5</td>
+  <td>2</td> </tr>
+<tr>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>5</td>
+  <td>1</td> </tr>
+<tr>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>5</td>
+  <td>0</td> </tr> </tbody>
+</table> |   | <table class="cellpad-small frame vert-top">
+<tbody>
+<tr>
+  <td>&amp;  </td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>4</td>
+  <td>5</td> </tr>
+<tr>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td> </tr>
+<tr>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td> </tr>
+<tr>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td>2</td>
+  <td>2</td>
+  <td>2</td> </tr>
+<tr>
+  <td>3</td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>2</td>
+  <td>3</td> </tr>
+<tr>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td>2</td>
+  <td>4</td>
+  <td>4</td> </tr>
+<tr>
+  <td>5</td>
+  <td>0</td>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>4</td>
+  <td>5</td> </tr> </tbody>
+</table> |
 | --- | --- | --- |
 
 Each theorem M of **RD** has the following property: v(M)∈{1, 3, 5} for every assignment v of values to the variables in M such that
