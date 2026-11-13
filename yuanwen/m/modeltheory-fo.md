@@ -68,17 +68,21 @@ The connection between model-completeness and elimination of quantifiers is as f
 
 To return to elementary embeddings: They have a number of properties that make them useful. We have space for four.
 
-> **The downward Löwenheim-Skolem theorem**: Suppose L is a first-order language which has κ formulas, *A* is an L-structure and λ is a cardinal which is at least κ but less than the cardinality of *A*. Suppose also that *X* is a set of at most λ elements of *A*. Then *A* has an elementary substructure which has cardinality exactly λ and contains all the elements in *X*.
+> **The downward Löwenheim-Skolem theorem**:
+> Suppose L is a first-order language which has κ formulas, *A* is an L-structure and λ is a cardinal which is at least κ but less than the cardinality of *A*. Suppose also that *X* is a set of at most λ elements of *A*. Then *A* has an elementary substructure which has cardinality exactly λ and contains all the elements in *X*.
 
 There is a proof of this in the entry on classical logic, using Skolem hulls. Note that λ must be infinite since every first-order language has infinitely many formulas.
 
-> **The elementary chain theorem**: Suppose that L is a first-order language and *A*₀, *A*₁, … is a sequence (of any length) of L-structures such that any structure in the sequence is an elementary substructure of all the later structures in the sequence. Then there is a unique smallest L-structure *B* which contains all the structures in the sequence as substructures; this structure *B* is an elementary extension of all the structures in the sequence.
+> **The elementary chain theorem**:
+> Suppose that L is a first-order language and *A*₀, *A*₁, … is a sequence (of any length) of L-structures such that any structure in the sequence is an elementary substructure of all the later structures in the sequence. Then there is a unique smallest L-structure *B* which contains all the structures in the sequence as substructures; this structure *B* is an elementary extension of all the structures in the sequence.
 >
-> **The elementary amalgamation theorem**: Suppose L is a first-order language, *A* is an L-structure and *B*, *C* are two elementary extensions of *A*. Then there are an elementary extension *D* of *B* and an elementary embedding *e* of *C* into *D* such that (i) for each element *a* of *A*, *e(a)* = *a*, and (ii) if *c* is an element of *C* but not of *A*, then *e(c)* is not in *B*.
+> **The elementary amalgamation theorem**:
+> Suppose L is a first-order language, *A* is an L-structure and *B*, *C* are two elementary extensions of *A*. Then there are an elementary extension *D* of *B* and an elementary embedding *e* of *C* into *D* such that (i) for each element *a* of *A*, *e(a)* = *a*, and (ii) if *c* is an element of *C* but not of *A*, then *e(c)* is not in *B*.
 
 The elementary amalgamation theorem is a consequence of the compactness theorem in the next section.
 
-> **The upward Löwenheim-Skolem theorem**: Suppose L is a first-order language which has κ formulas, *A* is an L-structure whose cardinality is an infinite cardinal μ, and λ is a cardinal which is at least as great as both κ and μ. Then *A* has an elementary extension whose cardinality is λ.
+> **The upward Löwenheim-Skolem theorem**:
+> Suppose L is a first-order language which has κ formulas, *A* is an L-structure whose cardinality is an infinite cardinal μ, and λ is a cardinal which is at least as great as both κ and μ. Then *A* has an elementary extension whose cardinality is λ.
 
 This also follows from the compactness theorem, as shown in the entry on classical logic. The name of the theorem is a little unfortunate, since the theorem was first proved by Tarski, and Skolem didn’t even believe it (because he didn’t believe in uncountable cardinals).
 

@@ -430,7 +430,7 @@ animal: cognition | animal: communication | animal: consciousness | animals: mor
 
 [^phillips-2019]: Phillips, Ben, 2019, “The Evolution and Development of Visual Perspective Taking”, *Mind & Language*, 34(2): 183–204. doi:10.1111/mila.12214
 
-[^porphyry-1823]: Porphyry, 1823, *Select Works of Porphyry: His Four Books On Abstinence from Animal Food,*Thomas Taylor (trans.), London: Thomas Rodd.
+[^porphyry-1823]: Porphyry, 1823, *Select Works of Porphyry: His Four Books On Abstinence from Animal Food,* Thomas Taylor (trans.), London: Thomas Rodd.
 
 [^povinelli-2020]: Povinelli, Daniel J., 2020, “Can Comparative Psychology Crack Its Toughest Nut?”, *Animal Behavior and Cognition*, 7(4): 589–652. doi:10.26451/abc.07.04.09.2020
 
@@ -480,7 +480,7 @@ animal: cognition | animal: communication | animal: consciousness | animals: mor
 
 [^spence-1937]: Spence, Kenneth W., 1937, “Experimental Studies of Learning and the Higher Mental Processes in Infra-Human Primates”, *Psychological Bulletin*, 34(10): 806–850. doi:10.1037/h0061498
 
-[^sripada-2006]: Sripada, Chandra and Stephen Stich, 2006, “A Framework for the Psychology of Norms”, in Peter Carruthers, Stephen Laurence and Stephen Stich (eds) *The Innate Mind: Culture and Cognition,*New York: Oxford University Press, pp. 280–301.
+[^sripada-2006]: Sripada, Chandra and Stephen Stich, 2006, “A Framework for the Psychology of Norms”, in Peter Carruthers, Stephen Laurence and Stephen Stich (eds) *The Innate Mind: Culture and Cognition,* New York: Oxford University Press, pp. 280–301.
 
 [^taylor-2022]: Taylor, Alex H., Amalia P.M. Bastos, Rachael L. Brown, and Colin Allen, 2022, “The Signature-Testing Approach to Mapping Biological and Artificial Intelligences”, *Trends in Cognitive Sciences*, 26(9): 738–750. doi:10.1016/j.tics.2022.06.002
 

@@ -554,7 +554,7 @@ Ayer, Alfred Jules | cognitivism vs. non-cognitivism, moral | Pseudo-Dionysius t
 
 [^spinoza-1677]: Spinoza, Baruch, 1677 [2002], *Theological-Political Treatise*, in S. Shirley (trans.) and M. L. Morgan (ed.), *Spinoza: Complete Works* Indianapolis: Hackett, 2002, pp. 383–583.
 
-[^stoljar-2014]: Stoljar, Daniel and Nic Damnjanovic, 2014, “The Deflationary Theory of Truth”, *The Stanford Encyclopedia of Philosophy*(Fall 2014 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2014/entries/truth-deflationary/](https://plato.stanford.edu/archives/fall2014/entries/truth-deflationary/)>.
+[^stoljar-2014]: Stoljar, Daniel and Nic Damnjanovic, 2014, “The Deflationary Theory of Truth”, *The Stanford Encyclopedia of Philosophy* (Fall 2014 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2014/entries/truth-deflationary/](https://plato.stanford.edu/archives/fall2014/entries/truth-deflationary/)>.
 
 [^sullivan-2012]: Sullivan, Meghan, 2012, “Semantics for Blasphemy”, in Jonathan L. Kvanvig (ed.), *Oxford Studies in Philosophy of Religion* (Volume 4), Oxford: Oxford University Press, pp. 159–72. doi:10.1093/acprof:oso/9780199656417.003.0009
 
@@ -580,7 +580,7 @@ Ayer, Alfred Jules | cognitivism vs. non-cognitivism, moral | Pseudo-Dionysius t
 
 [^inwagen-2006]: van Inwagen, Peter, 2006, *The Problem of Evil: The Gifford Lectures delivered in the University of St Andrews in 2003*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199245604.001.0001
 
-[^roojen-2016]: van Roojen, Mark, 2016, “Moral Cognitivism vs. Non-Cognitivism”, *The Stanford Encyclopedia of Philosophy*(Winter 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2016/entries/moral-cognitivism/](https://plato.stanford.edu/archives/win2016/entries/moral-cognitivism/)>.
+[^roojen-2016]: van Roojen, Mark, 2016, “Moral Cognitivism vs. Non-Cognitivism”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2016/entries/moral-cognitivism/](https://plato.stanford.edu/archives/win2016/entries/moral-cognitivism/)>.
 
 [^white-2010]: White, Roger M., 2010, *Talking about God: The Concept of Analogy and the Problem of Religious Language*, (Transcending boundaries in philosophy and theology), Aldershot: Ashgate.
 

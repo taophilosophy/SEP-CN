@@ -89,6 +89,7 @@ Indeed, while having a counterpart for assertoric judgements – the boolean tau
 
 **3.3.** Basic Law III, which Mally calls the “Principle of Selection (*Grundsatz der Aussonderung*),” states that any conditional requirement “A requires B” is equivalent to the unconditional statement “it ought to be the case that A implies B” (Mally 1926, p. 17)[^mally-1926]. Mally does not seem to recognize that there is something problematic about this Basic Law. He simply notes that its significance is mainly formal:
 
+>
 > For the purpose of the derivation of certain propositions it is formally important to allow substitution of the conditional requirement with the equivalent unconditional requirement. (Mally 1926, p. 248)[^mally-1926]
 
 It is worth noting that this issue goes far beyond mere formal convenience. The problem of correctly formalizing the notion of commitment would become a central topic among the “official” deontic logicians from the early 1960s onward, and each of the two most plausible candidates for such a formalization — !(A → B) and A →!B, whose equivalence is straightforwardly asserted by Basic Law III — would face serious paradoxes.[^note-4]
@@ -111,7 +112,7 @@ In other words, he understood this Law as a guarantee that the system of norms i
 
 This sounds intuitively correct, yet Mally’s formalization of the principle is somewhat odd, given that from ¬(U →!¬U) one immediately derives, by **PC**, that **U** is a theorem, and hence also **V ↔ U is a theorem**, contrary to the intended non-tautological status of **U**. At first sight, the simpler and weaker axiom **¬!¬U** might seem to capture Mally’s intuition just as well (see Morscher 1998, pp. 104–105)[^morscher-1998], while at the same time avoiding this drawback. Unfortunately, one can show that, given Basic Laws I and III (or I and IV), the weaker **¬!¬U** actually implies the stronger **¬(U →!¬U)** (see Centrone 2013, p. 4113 ff.)[^centrone-2013].
 
-In any case, note that if we read “!” as “O” (obligation) and “U” as “V” (or T, *verum*), then — given the rest of the system — Basic Law V is equivalent to PV (PV: it is permitted that V), that is an alternative formulation of the charcteristic Deontic Schema OA **→**PA of the “standard” deontic modal system **KD**.
+In any case, note that if we read “!” as “O” (obligation) and “U” as “V” (or T, *verum*), then — given the rest of the system — Basic Law V is equivalent to PV (PV: it is permitted that V), that is an alternative formulation of the charcteristic Deontic Schema OA **→** PA of the “standard” deontic modal system **KD**.
 
 ## 4. Mally’s Theorems
 
@@ -221,9 +222,9 @@ Second, the right-to-left direction !A → A (DCᵣₗ) is a theorem:
 
 Because A → !A and !A → A are theorems, A ↔ !A is a theorem as well.
 
-**Observe that a close inspection of the proof of the DC theorem**A ↔!A **given above shows the following:**
+**Observe that a close inspection of the proof of the DC theorem** A ↔!A **given above shows the following:**
 
-- **the DCₗᵣ implication**A →! A is derivable — indeed, even on the basis of *intuitionistic* propositional calculus (**IPC**) — using only axioms **I + IV**, or alternatively **I + III**;
+- **the DCₗᵣ implication** A →! A is derivable — indeed, even on the basis of *intuitionistic* propositional calculus (**IPC**) — using only axioms **I + IV**, or alternatively **I + III**;
 - **the DCᵣₗ implication**!A →, in turn, is derivable using only axioms **I + V** — but *not* on the basis of **IPC** in this case (this is proved in Centrone 2013, p. 4111)[^centrone-2013].
 
 **Hence the infamous deontic collapse DC is already derivable in the two subsystems of Mally’s system determined by the three axioms I, IV, V, and I, III, V, respectively. Since axioms IV and V, taken in isolation, are (at least formally) sound, this seems to place the blame, in particular, on axioms I and III.**

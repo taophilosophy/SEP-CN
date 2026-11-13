@@ -5,7 +5,7 @@
 
 Mary Astell (1666–1731) was an English philosopher. She was born in Newcastle, and lived her adult life in London. Her patrons were Lady Ann Coventry, Lady Elizabeth Hastings, and Catherine Jones, and among those in her intellectual circle were Lady Mary Chudleigh, Judith Drake, Elizabeth Elstob, Lady Mary Wortley Montagu, and John Norris. In addition to a number of pamphlets, she wrote the following books:
 
-- *A Serious Proposal to the Ladies, Parts I and II. Wherein a Method is offer’d for the Improvement of their Minds*(1694, 1697)
+- *A Serious Proposal to the Ladies, Parts I and II. Wherein a Method is offer’d for the Improvement of their Minds* (1694, 1697)
 - *Letters Concerning the Love of God Between the Author of the Proposal to the Ladies and Mr. John Norris: Wherein his late Discourse, shewing That it ought to be intire and exclusive of all other Loves, is further cleared and justified* (1695)
 - *Some Reflections upon Marriage, Occasion’d by the Duke and Duchess of Mazarine’s Case; which is also considered* (1700)
 - *The Christian Religion, As Profess’d by a Daughter Of the Church of England* (1705)

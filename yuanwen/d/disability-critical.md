@@ -617,7 +617,7 @@ colonialism | critical theory | disability: and justice | disability: definition
 
 [^mills-2011]: –––, 2011, *Futures of Reproduction: Bioethics and Biopolitics*, Dordrecht: Springer Netherlands.
 
-[^mills-2013]: –––, 2013, “Reproductive Autonomy as Self-Making: Procreative Liberty and the Practice of Ethical Subjectivity”, *Journal of Medicine and Philosophy*, 38(6): 639–656.
+[^mills-2013]: –––, 2013, “Reproductive Autonomy as Self-Making: Procreative Liberty and the Practice of Ethical Subjectivity”, *Journal of Medicine and Philosophy* , 38(6): 639–656.
 
 [^mills-2015]: –––, 2015, “The Case of the Missing Hand: Gender, Disability, and Bodily Norms in Selective Termination”, *Hypatia* 30(1): 82–96.
 

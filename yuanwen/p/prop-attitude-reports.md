@@ -47,7 +47,8 @@ We can get to the same conclusion by a different route. The trip, although somew
 
 It is plausible to link an agent’s sincere, reflective, and competent acceptance of a sentence with what she believes. The Disquotation principle, so-called by Saul Kripke in his 1979, does just that. (Our formulation of the principle differs from Kripke’s in providing missing time and context indices.)
 
-> **Disquotation**. If an agent *A* sincerely, reflectively, and competently accepts a sentence *s* (under circumstances properly related to a context *c*), then *A* believes, at the time of *c*, what *s* expresses in *c*.
+> **Disquotation**.
+> If an agent *A* sincerely, reflectively, and competently accepts a sentence *s* (under circumstances properly related to a context *c*), then *A* believes, at the time of *c*, what *s* expresses in *c*.
 
 (Why relativize to context and time? Suppose an agent accepts ‘I am hungry’ at t. It should not follow from this that she believes what is expressed by ‘I am hungry’ as uttered by you – unless you happen to be the agent in question. It also shouldn’t follow that she always persists in believing what she believes; she is free to change her mind on the matter.)
 
@@ -55,7 +56,8 @@ Given Disquotation, Lois’s acceptance of (5) and (7) entails that (1) and (2) 
 
 If it seems reasonable to infer agents’s beliefs from their acceptance patterns, thus leading us to Disquotation, it may seem equally plausible to infer what agents do not believe from what they withhold acceptance from, leading us to Converse Disquotation below.
 
-> **Converse Disquotation**. If an agent *A* sincerely, reflectively, and competently denies or withholds acceptance from a sentence *s* (in a context *c*), then *A* does not believe, at the time of *c*, what *s* expresses in *c*.
+> **Converse Disquotation**.
+> If an agent *A* sincerely, reflectively, and competently denies or withholds acceptance from a sentence *s* (in a context *c*), then *A* does not believe, at the time of *c*, what *s* expresses in *c*.
 
 Converse Disquotation and the fact that Lois denies (6) entail that (3) is true. But if both (1) and (3) are true, then, it would seem, we should not allow substitution of co-designating singular terms within the scope of propositional attitude verb, or the threat of contradiction we saw above will be brought home to us, the ascriber. For substitution of ‘Clark Kent’ for ‘Superman’ in (1) would commit us to (4), which contradicts (3).
 
@@ -167,17 +169,20 @@ Perry 1977 argues that once we accept the distinction between belief states and 
 
 These considerations lead the Naive Russellian to reject the following principle that the first Fregean argument above relies upon.
 
-> **Rationality**. An agent is irrational if she believes a proposition and its negation at the same time.
+> **Rationality**.
+> An agent is irrational if she believes a proposition and its negation at the same time.
 
 In its place, the Naive Russellian proposes the following principle.
 
-> Rationality*. An agent is irrational if she believes a proposition and its negation in the same way at the same time.
+> Rationality*.
+> An agent is irrational if she believes a proposition and its negation in the same way at the same time.
 
 If Rationality is rejected and Rationality* adopted in its place, then the truth of (2) (i.e., ‘Lois believes that Clark Kent is not strong’) and (4) (i.e., ‘Lois believes that Clark Kent is strong’) does not entail that Lois is irrational. The truth of (2) and (4) entails that Lois believes a proposition and its negation. Given Rationality, this entails that Lois is irrational, which is untenable, as Lois cannot correct her mistake through reflection alone. But the truth of (2) and (4) do not entail that the belief states she is in in virtue of which Lois believes a proposition and its negation are the same type. Thus, given Rationality*, nothing about Lois’s irrationality follows from the truth of (2) and (4). Naive Russellianism is thus compatible with Lois’s rationality.
 
 What about the second Fregean argument from above, which attempted to derive (3) (i.e., ‘Lois does not believe that Clark Kent is strong’) and (4) from the assumption that (5) (i.e., ‘Superman is strong’) and (6) (i.e., ‘Clark Kent is strong’) express the same proposition and the fact that Lois accepts the one while rejecting the other? The Naive Russellian can claim that we should similarly reject Converse Disquotation, according to which, roughly, an agent does not believe a proposition insofar as she sincerely, reflectively, and competently withholds assent from a sentence that expresses that proposition, in favor of the following weaker principle.
 
-> Converse Disquotation* If an agent A sincerely, reflectively, and competently denies or withholds acceptance from a sentence *s* (in a context *c*), then, where *p* is the proposition expressed by *s* in *c*, there is a way of believing *p* such that, under that way of believing, A does not, at the time of *c*, take a positive attitude towards *p*.
+> Converse Disquotation*
+> If an agent A sincerely, reflectively, and competently denies or withholds acceptance from a sentence *s* (in a context *c*), then, where *p* is the proposition expressed by *s* in *c*, there is a way of believing *p* such that, under that way of believing, A does not, at the time of *c*, take a positive attitude towards *p*.
 
 The original Converse Disquotation principle licenses inferring that one does not believe a given proposition from a single negative instance. That is, if there is one way in which an agent is presented with a proposition and rejects it, then the original Converse Disquotation principle allows us to infer that the agent does not believe that proposition and so that there is no way of grasping that proposition such that the agent affirms it. Given the Perry-inspired metaphysics of belief, however, that is implausibly strong, as it is rather like inferring that Sally didn’t walk to school from the fact that she didn’t walk to school naked.
 
@@ -205,7 +210,8 @@ There is a widespread conflation of belief contents and belief states. Because o
 >
 > then (13) and (14) must also be true.
 >
-> > (13) Lois believes that Superman is stronger than Superman. (14) Lois believes that Clark Kent is stronger than Superman.
+> > (13) Lois believes that Superman is stronger than Superman.
+> > (14) Lois believes that Clark Kent is stronger than Superman.
 
 Can it really be that (13) and (14) are true and that the typical strong feeling that they are false is really just a matter of pragmatic inappropriateness? The Naive Russellian seems to have little choice but to offer a positive answer.
 
@@ -305,11 +311,15 @@ But there are other entailment relations that are also problematic for the parat
 
 And consider the following entailment relations.
 
-> (C) Superman said something funny. (D) Lois believes what Superman said. So, (E) Lois believes something funny.
+> (C) Superman said something funny.
+> (D) Lois believes what Superman said.
+> So, (E) Lois believes something funny.
 
 and
 
-> (1) Lois believes that Superman is strong. (F) Superman exists. So, (G) There is someone such that Lois believes that he is strong.
+> (1) Lois believes that Superman is strong.
+> (F) Superman exists.
+> So, (G) There is someone such that Lois believes that he is strong.
 
 All of these are invalid if they are analyzed according to the paratactic analysis, whereas they are intuitively valid. This is strong evidence against the paratactic analysis, especially as that account is designed to respect our intuitive validity judgments.
 

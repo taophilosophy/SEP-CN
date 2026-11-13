@@ -1668,7 +1668,7 @@ One can detect in this passage from the late 1930s and early 1940s Heidegger’s
 
 [^vandevelde-2021]: Vandevelde, Pol, 2021, “Poetry (*Dichtung*)”, in Wrathall 2021a: 582–588. doi:10.1017/9780511843778.158
 
-[^inwagen-2023]: van Inwagen, Peter, Meghan Sullivan, and Sara Bernstein, "Metaphysics", *The Stanford Encyclopedia of Philosophy*(Summer 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2023/entries/metaphysics/>.
+[^inwagen-2023]: van Inwagen, Peter, Meghan Sullivan, and Sara Bernstein, "Metaphysics", *The Stanford Encyclopedia of Philosophy* (Summer 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2023/entries/metaphysics/>.
 
 [^watts-2021]: Watts, Daniel, 2021, “Repetition (*Wiederholung*)”, in Wrathall 2021a: 635–638. doi:10.1017/9780511843778.174
 

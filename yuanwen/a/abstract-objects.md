@@ -546,7 +546,7 @@ This entry was revised, updated, and expanded in 2021 by José L. Falguera and C
 
 [^inwagen-1983]: –––, 1983, “Fiction and Metaphysics,” *Philosophy and Literature*, 7(1): 67–77. doi:10.1353/phl.1983.0059
 
-[^inwagen-2024]: Inwagen Peter van, and Craig, William L., 2024, *Do Numbers Exist? A Debate About Abstract Objects*, New York and London: Routledge.
+[^inwagen-2024]: Inwagen Peter van, and Craig, William L., 2024, *Do Numbers Exist? A Debate About Abstract Objects* , New York and London: Routledge.
 
 [^jackson-1982]: Jackson, Frank, 1982, “Epiphenomenal Qualia,” *The Philosophical Quarterly*, 32(127): 127–136. doi:10.2307/2960077
 

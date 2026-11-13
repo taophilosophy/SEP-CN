@@ -587,55 +587,55 @@ When Peirce developed relational logic, the territory of formalization was vastl
 
 On the other hand, in the case of extension to non-symbolic languages, the logic itself stays the same, without addition or subtraction, but a new form of representation is introduced. That is, what to represent is not extended, but how to represent is. Some might not see the need for various forms of representation, and might not be convinced of the necessity of graphical systems. Nonetheless, at a theoretical level, Peirce’s EG does not demand lengthy theoretical justification. In some sense, the proof is in the pudding: Can this new graphical system carry out the same task as existing symbolic systems do? If so, which system is easier to use? Which system is more efficient? We might not arrive at a clean consensus, but the discussions are more or less predictable.
 
-However, when one more semantic value is added to T (true) and F (false), logic is not preserved any more. When semantics is extended or changed, the new logic is neither a monotonic expansion of the territory of logic nor an alternative syntactic form of representation to existing symbolic systems. Triadic logic, by introducing one more semantic value, departs from the standard logic which is based on bivalence. Here, the status of the principle of excluded middle (“*Q* or not-*Q*”) is shaken. So is the law of contradiction. It is the burden of any non-standard logic to justify its being non-standard: Why the third value? What is the third value? Unknown? If so, is it an epistemological issue? Indeterminate? If so, does this require a metaphysical explanation?
+However, when one more semantic value is added to **T** (true) and **F** (false), logic is not preserved any more. When semantics is extended or changed, the new logic is neither a monotonic expansion of the territory of logic nor an alternative syntactic form of representation to existing symbolic systems. Triadic logic, by introducing one more semantic value, departs from the standard logic which is based on bivalence. Here, the status of the principle of excluded middle (“*Q* or not-*Q*”) is shaken. So is the law of contradiction. It is the burden of any non-standard logic to justify its being non-standard: Why the third value? What is the third value? Unknown? If so, is it an epistemological issue? Indeterminate? If so, does this require a metaphysical explanation?
 
 The first subsection summarizes Peirce’s calculus of triadic logic and the second briefly discusses Peirce’s own motive for triadic logic.
 
 ### 3.1 Truth table of a three-valued system
 
-Three values, V, L, and F, are introduced, where V is true, L indeterminate, and F false. The traditional semantic domain for sentential logic, true and false, is extended to include “indeterminate”. Based on this extended semantic territory, Peirce presents the semantics of several sentential operators, one unary and the others binary. Modifying Peirce’s presentation slightly to make it more similar to our conventional truth table style without changing content, we present the three operators’ truth tables.
+Three values, **V**, **L**, and **F**, are introduced, where **V** is true, **L** indeterminate, and **F** false. The traditional semantic domain for sentential logic, true and false, is extended to include “indeterminate”. Based on this extended semantic territory, Peirce presents the semantics of several sentential operators, one unary and the others binary. Modifying Peirce’s presentation slightly to make it more similar to our conventional truth table style without changing content, we present the three operators’ truth tables.
 
 The semantics of a unary operator, which corresponds to negation:
 
 | $x$ | $\bar{x}$ |
 | --- | --- |
-| V | F |
-| L | L |
-| F | V |
+| **V** | **F** |
+| **L** | **L** |
+| **F** | **V** |
 
 The semantics for six binary connectives is presented:
 
 | $x$ | $y$ | $\Phi(x, y)$ | $\Theta(x, y)$ | $\Psi(x, y)$ | $Z(x, y)$ | $\Omega(x, y)$ | $\Gamma(x, y)$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| V | V | V | V | V | V | V | V |
-| L | V | V | V | V | L | L | L |
-| F | V | V | V | F | F | F | V |
-| V | L | V | V | V | L | L | L |
-| L | L | L | L | L | L | L | L |
-| F | L | F | L | F | F | L | L |
-| V | F | V | V | F | F | F | V |
-| L | F | F | L | F | F | L | L |
-| F | F | F | F | F | F | F | F |
+| **V** | **V** | **V** | **V** | **V** | **V** | **V** | **V** |
+| **L** | **V** | **V** | **V** | **V** | **L** | **L** | **L** |
+| **F** | **V** | **V** | **V** | **F** | **F** | **F** | **V** |
+| **V** | **L** | **V** | **V** | **V** | **L** | **L** | **L** |
+| **L** | **L** | **L** | **L** | **L** | **L** | **L** | **L** |
+| **F** | **L** | **F** | **L** | **F** | **F** | **L** | **L** |
+| **V** | **F** | **V** | **V** | **F** | **F** | **F** | **V** |
+| **L** | **F** | **F** | **L** | **F** | **F** | **L** | **L** |
+| **F** | **F** | **F** | **F** | **F** | **F** | **F** | **F** |
 
 Why six? What is the rationale behind the semantics of these connectives? One way to understand them is to figure out a dominance hierarchy among the three values.
 
 In the case of $\Phi$,
 
-1. if at least one is V, then $\Phi(x, y)$ is V,
-2. else if at least one is F, then $\Phi(x, y)$ is F, and
-3. else $\Phi(x, y)$ is L.
+1. if at least one is **V**, then $\Phi(x, y)$ is **V**,
+2. else if at least one is **F**, then $\Phi(x, y)$ is **F**, and
+3. else $\Phi(x, y)$ is **L**.
 
-That is, V is the most dominant, F next, and L is the least.
+That is, **V** is the most dominant, **F** next, and **L** is the least.
 
 Six patterns of hierarchy emerges:
 
-| $\Phi$ | V $>$ F $>$ L |
+| $\Phi$ | **V** $>$ **F** $>$ **L** |
 | --- | --- |
-| $\Theta$ | V $>$ L $>$ F |
-| $\Psi$ | F $>$ V $>$ L |
-| $Z$ | F $>$ L $>$ V |
-| $\Omega$ | L $>$ F $>$ V |
-| $\Gamma$ | L $>$ V $>$ F |
+| $\Theta$ | **V** $>$ **L** $>$ **F** |
+| $\Psi$ | **F** $>$ **V** $>$ **L** |
+| $Z$ | **F** $>$ **L** $>$ **V** |
+| $\Omega$ | **L** $>$ **F** $>$ **V** |
+| $\Gamma$ | **L** $>$ **V** $>$ **F** |
 
 Peirce’s $\Theta$ is our familiar disjunction and Peirce’s *Z* conjunction.
 
@@ -645,19 +645,19 @@ In Peirce’s own words:
 
 > Triadic Logic is that logic, which though not rejecting entirely the Principle of Excluded Middle, nevertheless recognizes that every proposition, *S* is *P*, is either true or false, or else has a lower mode of being such that it can neither be determinately *P*, nor determinately not-*P*, but is at the limit between *P* and not *P*. (Ms 339, copied from Fisch & Turquette 1966: 75)[^fisch-1966]
 
-When do we have value L (indeterminate) for the proposition “*S* is *P*”? Sometimes *S*, Peirce says, has a lower mode of being *P* and is at the limit between *P* and not *P*. The crux of the matter is how to interpret the two phrases—“lower mode of being *P*” and “being at the limit between *P* and not *P*”. Existing literature offers two different explanations—modality versus continuity.
+When do we have value **L** (indeterminate) for the proposition “*S* is *P*”? Sometimes *S*, Peirce says, has a lower mode of being *P* and is at the limit between *P* and not *P*. The crux of the matter is how to interpret the two phrases—“lower mode of being *P*” and “being at the limit between *P* and not *P*”. Existing literature offers two different explanations—modality versus continuity.
 
 Fisch and Turquette, upon the discovery of Peirce’s notes on triadic logic, locate the root of indeterminacy in potentiality. That is, indeterminacy is the semantic value assigned to an unrealized situation; hence, we can say neither “*S* is *P*” nor “*S* is not *P*” at this point. Potentiality, according to this view, cannot be captured by dyadic logic. If so, Peirce’s triadic logic is directly related to modality talk, which Fisch and Turquette conclude:
 
 > Essentially, Peirce seems to be saying that triadic logic may be interpreted as a modal logic which is designed to deal with the indeterminacies resulting from that mode of being which Peirce has called “Potentiality” and “Real Possibility”. Under such an interpretation, dyadic logic becomes a limiting case of triadic modal logic resulting from removing indeterminacy and being determined entirely by “Actuality”. (Fisch & Turquette 1966: 79)[^fisch-1966]
 
-According to the modality interpretation, Peirce’s “lower mode of being *P*” means *P* not being actual, and Peirce’s third value L, being potential, is “at the limit between *P* (i.e., T) and not *P* (i.e., F)”. Later in the paper, suggesting a possible relation between Peirce’s triadic logic and MacColl’s implication (as opposed to material implication), the authors make an interesting remark:
+According to the modality interpretation, Peirce’s “lower mode of being *P*” means *P* not being actual, and Peirce’s third value **L**, being potential, is “at the limit between *P* (i.e., **T**) and not *P* (i.e., **F**)”. Later in the paper, suggesting a possible relation between Peirce’s triadic logic and MacColl’s implication (as opposed to material implication), the authors make an interesting remark:
 
 > Considering MacColl’s rejection of Russell’s material implication, it is interesting to notice also that MacColl’s “Def. 13” gives what is now called “C. I. Lewis’s strict implication”. (Fisch & Turquette 1966: 83)[^fisch-1966]
 
 Even though the connection was not pursued further in their paper, one cannot help realizing that their modality interpretation is boosted by a relation to MacColl’s implication since C. I. Lewis’ strict implication is a beginning of modal logic. However, equating Peirce’s triadic logic with modal logic, the modality view needs to explain the relation between Peirce’s Gamma graph lecture in 1903c (which is about modality) and the triadic logic notes written in 1909 ([Ms 339] 340v, 341v, 344r). Modal logic explored in Gamma graphs is the extension of classical logic, which required new vocabulary, e.g., broken cuts and tincture. Modal logic does not have to be non-standard. On the other hand, triadic logic does not add any vocabulary, but brings in different interpretations, and becomes non-standard logic. On a slightly different note, Fisch and Turquette’s suggests Peirce’s tychism (the view that indeterminacy is part of the reality) as a motivation for Peirce’s invention of triadic logic. If so, Peirce’s triadic logic is a reflection of his own metaphysics.
 
-Challenging the modality view, Robert Lane proposes the continuity interpretation for Peirce’s triadic logic. According to Lane, Peirce’s indeterminate value L has nothing to do with modality, hence, Peirce’s development of triadic logic is not another mechanism for modal logic, but with Peirce’s synechism—the doctrine “that all that exists is continuous” (c. 1897b [CP 1.172])! How does Peirce’s philosophy of continuity justify the third value?
+Challenging the modality view, Robert Lane proposes the continuity interpretation for Peirce’s triadic logic. According to Lane, Peirce’s indeterminate value **L** has nothing to do with modality, hence, Peirce’s development of triadic logic is not another mechanism for modal logic, but with Peirce’s synechism—the doctrine “that all that exists is continuous” (c. 1897b [CP 1.172])! How does Peirce’s philosophy of continuity justify the third value?
 
 First, Lane makes a distinction between the principle of excluded middle (PEM, henceforth) *being false* with regard to a proposition and PEM *not being applied to* a proposition. If PEM is true or false, it means the principle is applied to it. And, Lane claims that PEM is applied to only non-general and non-modal propositions, citing the following passages from Peirce:
 
@@ -665,17 +665,17 @@ First, Lane makes a distinction between the principle of excluded middle (PEM, h
 >
 > an assertion is said to be made in “the mode of necessity” if, and only if, the affirmation and the denial that [sic] which is so asserted could conceivably be both alike *false*. Thus if a person says “It will *certainly* rain tomorrow”, it may be alike false that it is certain to rain and that it is certain not to rain. (1910b: 26–28, Ms 678)
 
-If a proposition is either general or expresses necessity, PEM is not false, but is not applied. Hence, focusing on individual and non-modal propositions, Lane draws our attention to a special nature of a predicate in L-propositions. Lane calls the kind of the property which results in L-propositions a “boundary-property”. Here is Peirce’s own example of a boundary-property:
+If a proposition is either general or expresses necessity, PEM is not false, but is not applied. Hence, focusing on individual and non-modal propositions, Lane draws our attention to a special nature of a predicate in **L**-propositions. Lane calls the kind of the property which results in **L**-propositions a “boundary-property”. Here is Peirce’s own example of a boundary-property:
 
 > Thus, a blot is made on the sheet. Then every point of the sheet is unblackened or blackened. But there are points on the boundary line, and those points are insusceptible of being unblackened or of being blackened, since these predicates refer to the area about S and a line has no area about any point of it. (Ms 339: 344r, quoted in Lane 1999: 294)[^lane-1999]
 
-Those points on the boundary line are neither black nor non-black. Consider the propositions “Point *O* is black” and “Point *O* is not black” (where point *O* is on the boundary line of a black blot). Neither of them is true, but false, either. These are prime examples of Peirce’s L-proposition. Using Peirce’s own truth-tables in the previous subsection, let’s compute the truth value of “Point *O* is black or point *O* is not black”.
+Those points on the boundary line are neither black nor non-black. Consider the propositions “Point *O* is black” and “Point *O* is not black” (where point *O* is on the boundary line of a black blot). Neither of them is true, but false, either. These are prime examples of Peirce’s **L**-proposition. Using Peirce’s own truth-tables in the previous subsection, let’s compute the truth value of “Point *O* is black or point *O* is not black”.
 
-Let $\alpha$ be the value of “Point *O* is black”, which is L.
+Let $\alpha$ be the value of “Point *O* is black”, which is **L**.
 
 | $\alpha$ | $\bar{\alpha}$ | $\Theta(\alpha, \bar{\alpha})$ |
 | --- | --- | --- |
-| L | L | L |
+| **L** | **L** | **L** |
 
 Note that PEM is applied, but not true, period.
 
@@ -691,7 +691,7 @@ The previous two sections showed that Peirce’s relational logic and graphical 
 >
 > I do not say that the Principle of Excluded Middle is downright *false*; (1909: 21–22 [NEM 3/2: 851], quoted in Fisch & Turquette 1966: 81)[^fisch-1966]
 
-For certain (not all) properties, because of the way things are, we find ourselves caught at limits between clearly *P* and clearly non-*P*. If we want to formalize those cases as well, the third value, L, is needed to express the indeterminacy of boundary cases. Hence, Peirce himself does not think triadic logic is a new logic, but an addition or extension of the existing dyadic logic:
+For certain (not all) properties, because of the way things are, we find ourselves caught at limits between clearly *P* and clearly non-*P*. If we want to formalize those cases as well, the third value, **L**, is needed to express the indeterminacy of boundary cases. Hence, Peirce himself does not think triadic logic is a new logic, but an addition or extension of the existing dyadic logic:
 
 > The recognition [that there is an intermediate ground between *positive assertion* and *positive negation* which is just as Real as they are] does not involve any denial of existing logic, but it involves a great addition to it. (1909: 21–22 [NEM 3/2: 851], quoted in Fisch & Turquette 1966: 81)[^fisch-1966]
 
@@ -741,7 +741,9 @@ algebra of logic tradition | Boole, George | diagrams: and diagrammatical reason
 
 [^note-8]: For more details, see Michael (1974) and Merrill (1978: 257–266). The following is one of Peirce’s first examples for relational arguments:
 
-> Everyone loves him whom he treats kindly. James treats John kindly. Therefore, James loves John.
+> Everyone loves him whom he treats kindly.
+> James treats John kindly.
+> Therefore, James loves John.
 
 (Peirce 1866: 10 and quoted in Merrill 1978: 258)[^merrill-1978]
 

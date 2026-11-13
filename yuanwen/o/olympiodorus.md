@@ -33,7 +33,8 @@ Even if the general worldview of paganism may have alienated some students, it i
 
 Being a pagan philosopher on the municipal payroll of the City of Alexandria—or worse, being dependent on voluntary student fees—must have been no enviable position. One can imagine that the act of playing the token philosopher in Alexandria and lecturing for decades on matters that no one in the audience anymore *really* cared about took its toll. The *Greek Anthology* attributes to Olympiodorus an at once artful and depressing epigram (Anth. Gr., Appendix 177):
 
-> Had the writing of Plato not checked my impulse, I would have loosened by now the grievous, baneful bond of life.
+> Had the writing of Plato not checked my impulse,
+> I would have loosened by now the grievous, baneful bond of life.
 
 ## 3. Commentaries on Aristotle
 

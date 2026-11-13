@@ -575,7 +575,7 @@ Archytas | Iamblichus | Philolaus | Porphyry | Pythagoras | Speusippus | Xenocra
 
 [^gemelli-2014]: Gemelli Marciano, L., 2014, ‘The Pythagorean Way of Life and Pythagorean Ethics’, in Huffman (ed.), 131–148.
 
-[^goldin-2015]: Goldin, O., 2015, ‘The Pythagorean Table of Opposites, Symbolic Classification, and Aristotle’,*Science in Context*, 28.2: 171–193.
+[^goldin-2015]: Goldin, O., 2015, ‘The Pythagorean Table of Opposites, Symbolic Classification, and Aristotle’, *Science in Context*, 28.2: 171–193.
 
 [^gottschalk-1980]: Gottschalk, H. B., 1980, *Heraclides of Pontus*, Oxford: Clarendon Press.
 
@@ -839,7 +839,7 @@ Archytas | Iamblichus | Philolaus | Porphyry | Pythagoras | Speusippus | Xenocra
 
 [^städele-1980]: Städele, A., 1980, *Die Briefe des Pythagoras und der Pythagoreer*, Meisenheim am Glan: Hain.
 
-[^steel-2012]: Steel, C. (ed.), 2012, *Aristotle’s*Metaphysics *Alpha*, Oxford: Oxford University Press.
+[^steel-2012]: Steel, C. (ed.), 2012, *Aristotle’s* Metaphysics *Alpha*, Oxford: Oxford University Press.
 
 [^suetonius-1998]: Suetonius, 1998, *Lives of the Caesars*, 2 volumes, J. C. Rolfe (trans.), Cambridge, Mass.: Harvard University Press.
 

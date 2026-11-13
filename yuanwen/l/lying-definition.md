@@ -49,7 +49,9 @@ If a person makes a truthful statement with the intention to deceive another per
 
 In addition to palters not being lies, a *double bluff* is not a lie either according to the untruthfulness condition. If one makes a truthful statement, intending one’s addressee to believe that the statement is false, then one is not lying. Consider the following joke about two travelers on a train from Moscow (reputed to be Sigmund Freud's favorite joke) (Cohen 2002, 328)[^cohen-2002]:
 
-> Trofim: Where are you going? Pavel: To Pinsk. Trofim: Liar! You say you are going to Pinsk in order to make me believe you are going to Minsk. But I know you are going to Pinsk.
+> Trofim: Where are you going?
+> Pavel: To Pinsk.
+> Trofim: Liar! You say you are going to Pinsk in order to make me believe you are going to Minsk. But I know you are going to Pinsk.
 
 Pavel does not lie to Trofim, since his statement to Trofim is truthful, even if he intends that Trofim be deceived by this double bluff.
 

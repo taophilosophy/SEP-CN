@@ -138,7 +138,8 @@ Hilbert-style calculi (Hilbert and Ackermann 1928)[^hilbert-1928] have been trad
 
 Although the application of the LK rules affect logic formulas, the rules are seen as manipulating not logic formulas themselves but sequents. **Sequents** are expressions of the form $\Gamma \rightarrow \Delta$, where both $\Gamma$ and $\Delta$ are (possibly empty) sets of formulas. $\Gamma$ is the sequent’s **antecedent** and $\Delta$ its **succedent**. Sequents can be interpreted thus: Let $\mathcal{I}$ be an interpretation. Then,
 
-> $\mathcal{I}$ satisfies the sequent $\Gamma \rightarrow \Delta$ (written as: $\mathcal{I} \vDash \Gamma \rightarrow \Delta)$ iff either $\mathcal{I} \not\vDash \alpha$ (for some $\alpha \in \Gamma)$ or $\mathcal{I} \vDash \beta$ (for some $\beta \in \Delta)$.
+> $\mathcal{I}$ satisfies the sequent $\Gamma \rightarrow \Delta$ (written as: $\mathcal{I} \vDash \Gamma \rightarrow \Delta)$ iff
+> either $\mathcal{I} \not\vDash \alpha$ (for some $\alpha \in \Gamma)$ or $\mathcal{I} \vDash \beta$ (for some $\beta \in \Delta)$.
 
 In other words,
 
@@ -329,7 +330,10 @@ There are different ways in which intuitionsitic logic can be automated. One is 
 
 Logic programming, particularly represented by the language **Prolog** (Colmerauer *et al*. 1973)[^colmerauer-1973], is probably the most important and widespread application of automated theorem proving. During the early 1970s, it was discovered that logic could be used as a programming language (Kowalski 1974)[^kowalski-1974]. What distinguishes logic programming from other traditional forms of programming is that logic programs, in order to solve a problem, do not explicitly state *how* a specific computation is to be performed; instead, a logic program states *what* the problem is and then delegates the task of actually solving it to an underlying theorem prover. In Prolog, the theorem prover is based on a refinement of resolution known as SLD-resolution. **SLD-resolution** is a variation of linear input resolution that incorporates a special rule for selecting the next literal to be resolved upon; SLD-resolution also takes into consideration the fact that, in the computer’s memory, the literals in a clause are actually ordered, that is, they form a sequence as opposed to a set. A Prolog **program** consists of clauses stating known facts and rules. For example, the following clauses make some assertions about flight connections:
 
-> flight(toronto, london). flight(london, rome). flight(chicago, london). flight$(X, Y)$ :– flight$(X, Z)$ , flight$(Z, Y)$.
+> flight(toronto, london).
+> flight(london, rome).
+> flight(chicago, london).
+> flight$(X, Y)$ :– flight$(X, Z)$ , flight$(Z, Y)$.
 
 The clause flight(toronto, london) is a fact while flight$(X, Y)$ :– flight$(X, Z)$ , flight$(Z,Y)$ is a rule, written by convention as a reversed conditional (the symbol “:–” means “if”; the comma means “and”; terms starting in uppercase are variables). The former states that there is flight connection between Toronto and London; the latter states that there is a flight between cities $X$ and $Y$ if, for some city $Z$, there is a flight between $X$ and $Z$ and one between $Z$ and $Y$. Clauses in Prolog programs are a special type of Horn clauses having precisely one positive literal: **Facts** are program clauses with no negative literals while **rules** have at least one negative literal. (Note that in standard clause notation the program rule in the previous example would be written as flight$(X,Y) \vee{\sim}$flight$(X,Z) \vee{\sim}$flight$(Z,Y)$.) The specific form of the program rules is to effectively express statements of the form: “*If these conditions over here are jointly met then this other fact will follow*”. Finally, a **goal** is a Horn clause with no positive literals. The idea is that, once a Prolog program $\Pi$ has been written, we can then try to determine if a new clause $\gamma$, the goal, is entailed by $\Pi , \Pi \vDash \gamma$; the Prolog prover does this by attempting to derive a contradiction from $\Pi \cup \{{\sim}\gamma \}$. We should remark that program facts and rules alone cannot produce a contradiction; a goal must enter into the process. Like input resolution, SLD-resolution is not refutation complete for first-order logic but it is complete for the Horn logic of Prolog programs. The fundamental theorem: If $\Pi$ is a Prolog program and $\gamma$ is the goal clause then $\Pi \vDash \gamma$ iff $\Pi \cup \{{\sim}\gamma \} \vdash [\,]$ by SLD-resolution (Lloyd 1984)[^lloyd-1984].
 
@@ -435,7 +439,8 @@ Essentially, the computer algebra system operates by taking the input expression
 
 Problem solving in mathematics involves the interplay of deduction and calculation, with decision procedures being a reminder of the fuzzy division between the two; hence, the integration of deductive and symbolic systems, which we coin here as **Deductive Computer Algebra (DCA)**, is bound to be a fruitful combination. Analytica (Bauer, Clarke & Zhao 1998) is a theorem prover built on top of Mathematica, a powerful and popular computer algebra system. Besides supplying the deductive engine, Analytica also extends Mathematica’s capabilities by defining a number of rewrite rules—more precisely, identities about summations and inequalities—that are missing in the system, as well as providing an implementation of Gosper’s algorithm for finding closed forms of indefinite hypergeometric summations. Equipped with this extended knowledge, Analytica can prove semi-automatically some nontrivial theorems from real analysis, including a series of lemmas directly leading to a proof of the Bernstein Approximation Theorem. Here is the statement of the theorem simply to give the reader a sense of the level of the mathematical richness we are dealing with:
 
-> **Bernstein Approximation Theorem**. Let $\text{I} = [0, 1]$ be the closed unit interval, $f$ a real continuous function on I, and $B_n (x,f)$ the *nth* Bernstein polynomial for $f$ defined as $$B_n(x, f)= \sum_{k=0}^n \binom{n}{k} f(k/n)x^k(1-x)^{n-k}$$ Then, on the interval I, the sequence of Bernstein polynomials for $f$ converges uniformly to $f$.
+> **Bernstein Approximation Theorem**.
+> Let $\text{I} = [0, 1]$ be the closed unit interval, $f$ a real continuous function on I, and $B_n (x,f)$ the *nth* Bernstein polynomial for $f$ defined as $$B_n(x, f)= \sum_{k=0}^n \binom{n}{k} f(k/n)x^k(1-x)^{n-k}$$ Then, on the interval I, the sequence of Bernstein polynomials for $f$ converges uniformly to $f$.
 
 To be frank, the program is supplied with key information to establish the lemmas that lead to this theorem but the amount and type of deductive work done by the program is certainly nontrivial. (Clarke & Zhao 1994)[^clarke-1994] provides examples of fully automated proofs using problems in Chapter 2 of *Ramanujan’s Notebooks* (Berndt 1985)[^berndt-1985] including the following example that the reader is invited to try. Show that:
 
@@ -751,17 +756,28 @@ that is, that God is flawless and that monotheism holds, respectively. At this p
 
 **Abstract object theory** (AOT) is a metaphysical theory of abstract objects (Zalta 1983)[^zalta-1983]. Abstract objects are the objects presupposed by scientific theories: numbers, natural laws, properties, states of affairs, possibilities, etc. AOT draws a fundamental distinction between ordinary objects defined as $O!x =_{df} \Diamond E!x$ and abstract objects defined as $A!x =_{df}\lnot\Diamond E!x$. AOT also provides two distinctive modes of predication: exemplification $(Fx$, more generally $Fx_1 ...x_n)$ and encoding $(xF$, ‘$x$ encodes $F$’, and more generally $x_1 ...x_n F)$. AOT adds encoding to 2ⁿᵈ-order S5 quantified modal logic without identity, extended with definite descriptions $\iota x \phi$, lambda expressions $\lambda x_1 ...x_n \phi^*$ (where $\phi^*$ means no encoding of subformulas), and a free logic for complex terms (Zalta 1983, Zalta 1988)[^zalta-1983]. The key axioms of AOT are comprehension for abstract objects, $$\exists x(A!x \amp \forall F(xF \equiv \phi))$$ with no free $x$’s in $\phi$, and classical $\lambda$-conversion, $$[\lambda y_1 ...y_n \phi^*]x_1 ...x_n \equiv \phi^* (x_1 /y_1,..., x_n /y_n)$$ with no descriptions in $\phi^*$. These imply comprehension for relations, $$\exists F^n \Box \forall x_1 ...x_n (F^n x_1 ...x_n \equiv \phi^*)$$ with no descriptions in $\phi^*$. Other principles include $$\begin{align} O!x &\rightarrow \Box \lnot\exists FxF\\ \Diamond xF &\rightarrow \Box xF\\ O!x \amp O!y & \rightarrow(x = y \rightarrow \Box \forall F(Fx \equiv Fy))\\ A!x \amp A!y & \rightarrow(x = y \rightarrow \Box \forall F(xF \equiv yF))\end{align}$$ and $\iota x(A!x \amp \forall F(xF \equiv \phi))$ always being well-defined. To give a sense of the expressive power and application of AOT, here are some examples of AOT’s ability to define metaphysical entities as abstract objects and derive interesting results (Zalta 2018)[^zalta-2018]:
 
-> **Plato’s Forms (e.g. triangle)** $\Phi_T =_{df}\iota x(A!x \amp \forall F(xF \equiv \Box \forall x(Tx \rightarrow Fx)))$
+> **Plato’s Forms (e.g. triangle)**
+> $\Phi_T =_{df}\iota x(A!x \amp \forall F(xF \equiv \Box \forall x(Tx \rightarrow Fx)))$
 >
-> **Leibniz’s Concepts (e.g. Alexander)** $c_a =_{df}\iota x(A!x \amp \forall F(xF \equiv Fa))$
+> **Leibniz’s Concepts (e.g. Alexander)**
+> $c_a =_{df}\iota x(A!x \amp \forall F(xF \equiv Fa))$
 >
-> **Frege Numbers** $0 =_{df}\iota x(A!x \amp \forall F(xF \equiv\lnot\exists yFy))$ $1 =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists y(Fy \amp \forall z(Fz \rightarrow z = y))))$ etc.
+> **Frege Numbers**
+> $0 =_{df}\iota x(A!x \amp \forall F(xF \equiv\lnot\exists yFy))$
+> $1 =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists y(Fy \amp \forall z(Fz \rightarrow z = y))))$
+> etc.
 >
-> **Truth Values** $\top =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists p(p \amp F = [\lambda y p])))$ $\bot =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists p(\lnot p \amp F = [\lambda y p])))$
+> **Truth Values**
+> $\top =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists p(p \amp F = [\lambda y p])))$
+> $\bot =_{df}\iota x(A!x \amp \forall F(xF \equiv \exists p(\lnot p \amp F = [\lambda y p])))$
 >
-> **Situations and Possible Worlds** $\textit{Situation}(x) =_{df} \forall F(xF \rightarrow \exists p(F = [\lambda y p]))$ $s \vDash p =_{df} s[\lambda y p]$ $\textit{PossibleWorld}(x) =_{df} \Diamond \forall p((s \vDash p) \equiv p)$, from which one can derive Leibniz’s Principle that $p$ is necessary if true in all worlds, $\vdash \Box p \equiv \forall w(w \vDash p)$, and also Lewis’ Principle that for every way the world might be, there is a world which is that way, $\vdash \Diamond p \equiv \exists w(w \vDash p)$
+> **Situations and Possible Worlds**
+> $\textit{Situation}(x) =_{df} \forall F(xF \rightarrow \exists p(F = [\lambda y p]))$
+> $s \vDash p =_{df} s[\lambda y p]$
+> $\textit{PossibleWorld}(x) =_{df} \Diamond \forall p((s \vDash p) \equiv p)$, from which one can derive Leibniz’s Principle that $p$ is necessary if true in all worlds, $\vdash \Box p \equiv \forall w(w \vDash p)$, and also Lewis’ Principle that for every way the world might be, there is a world which is that way, $\vdash \Diamond p \equiv \exists w(w \vDash p)$
 >
-> **Theoretical Mathematical Objects (e.g. null set in ZF)** $\varnothing_{ZF} =_{df}\iota x(A!x \amp \forall F(xF \equiv ZF \vDash F\varnothing))$
+> **Theoretical Mathematical Objects (e.g. null set in ZF)**
+> $\varnothing_{ZF} =_{df}\iota x(A!x \amp \forall F(xF \equiv ZF \vDash F\varnothing))$
 
 AOT is under continuous development and for further details of the theory the reader is referred to one of its latest formulations (Zalta 2022)[^zalta-2022]. The computational analysis of AOT was pioneered by Fitelson and Zalta (Fitelson & Zalta 2007)[^fitelson-2007] by using the first-order system Prover9. Conducting computational investigations of a higher-order theory like AOT using a first-order prover has inherent limitations and it would be preferable to work within the computational framework of a higher-order prover. AOT, however, is based on a logical foundation that is significantly different from classical higher-order logic and, ideally, one would want to work with a theorem prover for AOT itself. The downside to this is, of course, that one would need to build such a prover and this is no trivial task. But one can “approximate” such a system to a large extent by building instead a **shallow semantic embedding** (SSE) of AOT into an existing higher-order prover like e.g. Isabelle/HOL where the researcher can faithfully represent AOT’s axioms and deductive system (Benzmüller 2019, Kirchner 2021)[^benzmüller-2019][^kirchner-2021]. In this setting, Isabelle/HOL acts as the metalogical framework for the SSE that provides the “custom” theorem prover for AOT. But there is always a trade-off, and building the embedding brings its own set of challenges. Key among these is that there are aspects of AOT which can be easily formulated in relational type theory but present a challenge when being re-formulated in the underlying functional type theory of Isabelle/HOL. For example, not every formula in AOT can be converted to a $\lambda$-term unless one is willing to face a contradiction! With some ingenuity, one can use Isabelle/HOL’s functional calculus to define some complex types to help build an Aczel model of AOT, and then interpret those offending $\lambda$-expressions in terms of the complex types all in the context of a free logic. The bottom line: Every formula of AOT can then be expressed as a $\lambda$-term but not all these terms denote; hence, consistency is preserved.
 
@@ -804,15 +820,20 @@ An additional 1,000 lines of such computational derivations lead to the result t
 
 After establishing further results about basic logical objects, restricted variables, the extended relation comprehension, and possible worlds, the computational exploration can then be redirected to Dedekind-Peano arithmetic where its postulates for natural numbers are formally derived in a system free of mathematical primitive notions and mathematical axioms—Frege’s Theorem—and thereby supporting the claim that AOT can provide a philosophically grounded basis for objects of mathematics. The computational approach in Kirchner 2021 is guided by a proof outline that was previously given in Zalta 1999 but that now, being reconstructed in Isabelle/HOL, produces derivations of the postulates in full detail and formality.
 
-> *Postulate 1* **AOT_theorem** "0-n": ❬ [ℕ]0 ❭
+> *Postulate 1*
+>  **AOT_theorem** "0-n": ❬ [ℕ]0 ❭
 >
-> *Postulate 2* **AOT_theorem** "0-pred": ❬ ¬∃n [ℙ]n 0 ❭
+> *Postulate 2*
+>  **AOT_theorem** "0-pred": ❬ ¬∃n [ℙ]n 0 ❭
 >
-> *Postulate 3* **AOT_theorem** "no-same-succ": ❬ ∀n∀m∀k([ℙ]nk & [ℙ]mk → n = m) ❭
+> *Postulate 3*
+>  **AOT_theorem** "no-same-succ": ❬ ∀n∀m∀k([ℙ]nk & [ℙ]mk → n = m) ❭
 >
-> *Postulate 4* **AOT_theorem** "th-succ": ❬ ∀n∃!m [ℙ]nm ❭
+> *Postulate 4*
+>  **AOT_theorem** "th-succ": ❬ ∀n∃!m [ℙ]nm ❭
 >
-> *Postulate 5* **AOT_theorem** induction: ❬ ∀F([F]0 & ∀n∀m([ℙ]nm → ([F]n → [F]m)) → ∀n[F]n) ❭
+> *Postulate 5*
+>  **AOT_theorem** induction: ❬ ∀F([F]0 & ∀n∀m([ℙ]nm → ([F]n → [F]m)) → ∀n[F]n) ❭
 
 The computational explorations described above were done using the second-order fragment of AOT but the SSE could be extended to the full higher-order logic AOT (Kirchner 2021)[^kirchner-2021] where it could be applied to the analysis of theoretical mathematics. It is important to stress that embedding a target theory within the higher-order logic of an existing prover results in more than just a formalization of the theory: The SSE allows for the discovery of new results within the target theory, as exemplified above, as well as the study and further development of the target theory itself such as placing the theory on firmer foundations, e.g. avoiding known paradoxes (Zalta 2018, Kirchner 2021)[^kirchner-2021][^zalta-2018]. The computational analysis of AOT described in here can also be construed as yet another test of the concept of embedding theories, simple and complex alike, within the framework of a higher-order prover. It illustrates the power and convenience of the approach, and researchers in automated reasoning may want to seriously consider using an SSE in their theorem-proving efforts (Benzmüller 2019)[^benzmüller-2019].
 

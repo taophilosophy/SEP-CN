@@ -310,7 +310,7 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, historical and methodologi
 
 [^white-1800]: White, J., 1800, *Abdollatiphi historiae Aegypti compendium, ar. et lat. partim ipse vertit, partim a Pocockes versum edendum curavit notisque illustravit*, Oxford.
 
-[^yaqut-1993]: Yaqut al-Hamawi al-Rumi, *Mu‘jam al-udaba’.* *Irshad al-arib ila ma‘rifat al-adib*(*Dictionary of Learned Men*), I. Abbas (ed.), I-VII, Beirut: Dar al-Gharb al-Islami, 1993.
+[^yaqut-1993]: Yaqut al-Hamawi al-Rumi, *Mu‘jam al-udaba’.* *Irshad al-arib ila ma‘rifat al-adib* (*Dictionary of Learned Men*), I. Abbas (ed.), I-VII, Beirut: Dar al-Gharb al-Islami, 1993.
 
 [^zand-1965]: Zand, K.H., J.A. Videan, and I.E. Videan, 1965, *The Eastern key: Kitab al-Ifadah wa-l-i‘tibar of ‘Abd al-Latif al-Baghdadi (‘Abd al-Latif Ibn-Yusuf Ibn-Muhammad al-Baghdadi)*, London: George Allen and Unwin Ltd.
 

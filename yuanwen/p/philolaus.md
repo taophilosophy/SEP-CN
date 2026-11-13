@@ -311,7 +311,7 @@ Alcmaeon | Archytas | Aristotle | Plato | Pythagoras | Pythagoreanism
 
 [^renger-2016]: Renger, A-B. and Stavru, A., 2016, *Pythagorean Knowledge from the Ancient to the Modern World: Askesis, Religion, Science*, Wiesbaden: Harrassowitz.
 
-[^ricciardetto-2016]: Ricciardetto, A. (ed.), 2016, *L’Anonyme de Londres,*Paris: Les Belles Lettres.
+[^ricciardetto-2016]: Ricciardetto, A. (ed.), 2016, *L’Anonyme de Londres,* Paris: Les Belles Lettres.
 
 [^riedweg-2005]: Riedweg, Christoph, 2005, *Pythagoras: His Life, Teaching, and Influence*, Ithaca and London: Cornell University Press.
 

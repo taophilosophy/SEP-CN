@@ -438,7 +438,7 @@ One wonders exactly what King meant by “dignity.” But that is partly the poi
 
 [^canadian-2014]: Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of Canada, Social Sciences and Humanities Research Council of Canada [TCPS], 2014, “Tri-Council Policy Statement 2: Ethical Conduct for Research Involving Humans”. [[TCPS 2014 available online](https://www.mcgill.ca/skillsets/files/skillsets/tcps2updated_workshop4.pdf)]
 
-[^cancik-2002]: Cancik, Hubert, 2002, “‘Dignity of Man’ and ‘*Persona*’ in Stoic Anthropology: Some Remarks on Cicero, *De Officiis* I, 105–107”, in *The Concept of Human Dignity in Human Rights Discourse,*David Kretzmer and Eckart Klein (eds), The Hauge: Kluwer Law International, 19–39. doi:0.1163/9789004478190_003
+[^cancik-2002]: Cancik, Hubert, 2002, “‘Dignity of Man’ and ‘*Persona*’ in Stoic Anthropology: Some Remarks on Cicero, *De Officiis* I, 105–107”, in *The Concept of Human Dignity in Human Rights Discourse,* David Kretzmer and Eckart Klein (eds), The Hauge: Kluwer Law International, 19–39. doi:0.1163/9789004478190_003
 
 [^carozza-2008]: Carozza, Paolo, 2008, “Human Dignity and Judicial Interpretation of Human Rights: A Reply”, *European Journal of International Law*, 19(5): 931–944. doi:10.1093/ejil/chn059
 

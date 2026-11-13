@@ -79,7 +79,8 @@ Dominance is a very weak norm of rational choice, but there are stronger ones. A
 
 The expected utility of an option relative to your credences is obtained by taking its utility at each state, weighting that by your credence in that state, and summing up these credence-weighted utilities. For instance, suppose $p$ is your credence in a proposition and $1-p$ is your credence in its negation. Then the expected epistemic utility of believing that proposition from the point of view of your credences is
 
-> $p \times \text{epistemic utility of believing a truth} + (1-p)\ \times$ $ \text{epistemic utility of believing a falsehood} = pR + (1-p)(-W)$
+> $p \times \text{epistemic utility of believing a truth} + (1-p)\ \times$
+> $ \text{epistemic utility of believing a falsehood} = pR + (1-p)(-W)$
 
 Now we can ask when believing a proposition maximizes expected utility from the point of view of your credences.
 

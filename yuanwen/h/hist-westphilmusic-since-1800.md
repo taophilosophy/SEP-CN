@@ -571,7 +571,7 @@ Thanks to Stephen Davies, Andrew Kania, James O. Young, and an anonymous reviewe
 
 [^predelli-2001]: –––, 2001, “Musical Ontology and the Argument From Creation”, *The British Journal of Aesthetics*, 41(3): 279–292. doi:10.1093/bjaesthetics/41.3.279
 
-[^ravasio-nd]: Ravasio, Matteo, forthcoming, “Imagination and Creativity in Music”, in *Oxford Handbook of Philosophy of Imagination and Creativity,*Amy Kind and Julia Langkau (eds.), Oxford: Oxford University Press.
+[^ravasio-nd]: Ravasio, Matteo, forthcoming, “Imagination and Creativity in Music”, in *Oxford Handbook of Philosophy of Imagination and Creativity,* Amy Kind and Julia Langkau (eds.), Oxford: Oxford University Press.
 
 [^ravignani-2018]: Ravignani, Andrea, 2018, “Darwin, Sexual Selection, and the Origins of Music”, *Trends in Ecology & Evolution*, 33(10): 716–719. doi:10.1016/j.tree.2018.07.006
 

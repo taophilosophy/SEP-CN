@@ -336,7 +336,7 @@ See Rubenstein 2018 for a variety of pantheisms from Bruno to animisms.
 
 [^note-26]: Nicholson 2010. From Jeffery Long:
 
-> The six schools are “*Sāṃkhya*and *Yoga*[the relationship of these two could be seen as one of theory (*Sāṃkhya*) to practice (*Yoga*)]; *Nyāya*and *Vaiśeṣika*[the traditional Hindu systems of logic and cosmology, respectively, which eventually merged]; and *Mīmāṃsā*and *Vedānta*[systems of Vedic exegesis, with *Mīmāṃsā*being focused on the ritualistic, early Vedic texts and *Vedānta* being focused on ‘the end of the Veda’—the Upaniṣads and the philosophy taught therein]”. (Correspondence, 12 March 2020)
+> The six schools are “*Sāṃkhya* and *Yoga* [the relationship of these two could be seen as one of theory (*Sāṃkhya*) to practice (*Yoga*)]; *Nyāya* and *Vaiśeṣika* [the traditional Hindu systems of logic and cosmology, respectively, which eventually merged]; and *Mīmāṃsā* and *Vedānta* [systems of Vedic exegesis, with *Mīmāṃsā* being focused on the ritualistic, early Vedic texts and *Vedānta* being focused on ‘the end of the Veda’—the Upaniṣads and the philosophy taught therein]”. (Correspondence, 12 March 2020)
 
 Interestingly, the Samkhya school has a view of God reminiscent of Aristotle’s Unmoved Mover or deism: God is a *purusha* (a soul) that unlike most souls never got bound to the cycle of rebirth and thus is ever-free and not engaged with the world.
 

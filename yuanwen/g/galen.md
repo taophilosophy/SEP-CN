@@ -61,7 +61,9 @@ A central example of Galenic demonstration is the extended proof of the location
 
 In a passage late in the work (VIII.1, 484–6), summing up its central argument, the demonstration is formulated in the following syllogism:
 
-> where the source of the nerves is, there is the *hēgemonikon* but the source of the nerves is in the brain the *hēgemonikon*, then, is in the brain.
+> where the source of the nerves is, there is the *hēgemonikon*
+> but the source of the nerves is in the brain
+> the *hēgemonikon*, then, is in the brain.
 
 This formulation indicates not only Galen’s commitment to the demonstrative-syllogistic method of presentation, but also some of the problems that arise from that commitment. First, if we consider this syllogism in the light of the conceptual features outlined above, we would expect the first premiss to be, or to result from, a proposition evident to reason; that is to say, this premiss should be either self-evident or follow directly from the accepted nature, or definition, of *hēgemonikon*. The second premiss, then, contributes the results of some empirical observation—something evident to sense-perception. The conclusion will follow inescapably from the conjunction of the two. But can the first premiss here be regarded as definitional or analytic in the required sense? The nerves are not, surely, part of an accepted definition or common conception of what the *hēgemonikon* is in its very nature—or at least, could only become so after a considerable length of argument, itself involving empirical inputs and various forms of reasoning (for example from plausibility and from analogy). Nor could one say, conversely, that the statement is evident to the senses: that would be to conflate a statement of empirical information with a statement derived in abstract terms from one of our fundamental conceptions (the nature of the *hēgemonikon*), as well as to trespass on the domain of the second premiss in this particular syllogism, for it is this that contains the result of the anatomical and physiological observations in animals.
 
@@ -131,7 +133,9 @@ Galen’s commentary on Aristotle (in a way consistent with the approach conside
 
 No less interpretively challenging is the material concerning the other main areas of Galen’s contribution, those relating to hypothetical logic and to the “relational syllogism”. The subject again resists non-specialist summary; but it seems uncontroversial, at least, (a) that Galen engages in detail with Stoic hypothetical syllogistic; (b) that he attacks the Stoics for particular aspects of their use of it; and (c) that this attack is in some way related to his own insistence on the priority of “things” over “expressions” (a motto which runs through much of Galen’s other work, too, in the context of discussions of language). A final area of complexity and doubt concerns the relational syllogism, the introduction of which Galen claims as his innovation at *Inst. Log.* 16. What seems clear is that Galen brought this new type of syllogism forward in response to what he perceived as inadequacies in both Aristotelian and Stoic logic; also that he believed it to be of particular relevance for proofs in geometry and mathematics. An example of a relational syllogism—from which such relevance is indeed clear—is:
 
-> Theo has twice as many possessions as Dio; but Philo has twice as many possessions as Theo; therefore, Philo has four times as many possessions as Dio.
+> Theo has twice as many possessions as Dio;
+> but Philo has twice as many possessions as Theo;
+> therefore, Philo has four times as many possessions as Dio.
 
 (One puzzling feature of relational syllogisms as presented by Galen is that he apparently sometimes does and sometimes does not mention the relevant axiom on which the syllogism depends, as part of the syllogism.)
 
@@ -400,7 +404,7 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 
 [^hipp-1996]: [*Hipp. Elem.*] *Elements According to Hippocrates* (*De elementis ex Hippocrate*), ed. and English trans. P. de Lacy, CMG V 1.2, 1996.
 
-[^hnh-1914]: [*HNH*] *Commentary on Hippocrates’ “Nature of the Human Being”*(*In Hippocratis De natura hominis*), ed. J. Mewaldt, CMG V 9.1, 1914.
+[^hnh-1914]: [*HNH*] *Commentary on Hippocrates’ “Nature of the Human Being”* (*In Hippocratis De natura hominis*), ed. J. Mewaldt, CMG V 9.1, 1914.
 
 [^ind-2010]: [*Ind.*] *Avoiding Distress* (*De indolentia*), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, *Galien: Oeuvres*, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
 

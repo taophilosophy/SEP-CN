@@ -16,7 +16,7 @@ $x$ is identical to *the* object $y$ which is such that $\mathrm{\phi}$ if and o
 
 This abbreviation is employed below to simplify the definition of new relations. Given this new notation, we will use only the following simple consequence of this definition:
 
-Principle of Descriptions: $x\eqclose \mathit{\iota} y\mathrm{\phi}\rightarrow \mathrm{\phi}^x_y $
+**Principle of Descriptions**: $x\eqclose \mathit{\iota} y\mathrm{\phi}\rightarrow \mathrm{\phi}^x_y $
 
 In other words, if $x$ is *the* object $y$ such that $\mathrm{\phi} (y)$, then $x$ is such that $\mathrm{\phi}$. The use of this principle will be obvious in what follows.
 

@@ -480,7 +480,7 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^eribon-1991]: Eribon, Didier, 1991, *Michel Foucault*, trans. Betsy Wing, Cambridge, MA: Harvard University Press. [French original: Paris: Flammarion, 1989.]
 
-[^eshleman-2020]: Eshleman, Matthew C. and Constance L. Mui (eds.), 2020, *The Sartrean Mind,*London and New York: Routledge.
+[^eshleman-2020]: Eshleman, Matthew C. and Constance L. Mui (eds.), 2020, *The Sartrean Mind,* London and New York: Routledge.
 
 [^falcato-2023]: Falcato, Ana, 2023, “Shame in the Philosophical Narrative of the Pour-Soi: On Sartre’s Being and Nothingness”, *Research in Phenomenology*, 53(3): 359–378.
 
@@ -498,7 +498,7 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^flynn-2014]: –––, 2014, *Sartre: A Philosophical Biography*, Cambridge: Cambridge University Press.
 
-[^frank-2020]: Frank, Manfred and Preyer, Gerhard, 2020, “Sartre and Contemporary Philosophy of Consciousness”, in Matthew C. Eshleman and Constance L. Mui (eds.), *The Sartrean Mind,*London and New York: Routledge.
+[^frank-2020]: Frank, Manfred and Preyer, Gerhard, 2020, “Sartre and Contemporary Philosophy of Consciousness”, in Matthew C. Eshleman and Constance L. Mui (eds.), *The Sartrean Mind,* London and New York: Routledge.
 
 [^gallagher-2008]: Gallagher, Shaun and Dan Zahavi, 2008, *The Phenomenological Mind*, London: Routledge.
 

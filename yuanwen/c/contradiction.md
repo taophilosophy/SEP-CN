@@ -3,9 +3,13 @@
 
 *Horn, Laurence R.*
 
-> Do I contradict myself? Very well, then, I contradict myself. (I am large, I contain multitudes.)    —Walt Whitman, “Song of Myself”
+> Do I contradict myself?
+> Very well, then, I contradict myself.
+> (I am large, I contain multitudes.)
+>    —Walt Whitman, “Song of Myself”
 
-> *Vorrei e non vorrei.*    —Zerlina, “Là ci darem la mano”, *Don Giovanni*
+> *Vorrei e non vorrei.*
+>    —Zerlina, “Là ci darem la mano”, *Don Giovanni*
 
 This entry outlines the role of the Law of Non-Contradiction (LNC), or Principle of Non-Contradiction (PNC), as the foremost among the first (indemonstrable) principles of Aristotelian philosophy and its heirs, and depicts the relation between LNC and LEM (the law of excluded middle) in establishing the nature of contradictory and contrary opposition. §1 presents the classical treatment of LNC as an axiom in Aristotle’s “First Philosophy” and reviews the status of contradictory and contrary opposition as schematized on the Square of Opposition. §2 explores in further detail the possible characterizations of LNC and LEM, including the relevance of future contingent statements in which LEM (but not LNC) is sometimes held to fail. §3 addresses the mismatch between the logical status of contradictory negation as a propositional operator and the diverse realizations of contradictory negation within natural language. §4 deals with several challenges to LNC within Western philosophy, including the paradoxes, and the relation between systems with truth-value gaps (violating LEM) and those with truth-value gluts (violating LNC). In §5, the tetralemma of Buddhist logic is discussed within the context of gaps and gluts; it is suggested that apparent violations of LNC in this tradition (and others) can be attributed to either differing viewpoints of evaluation, as foreseen by Aristotle, or to intervening modal and epistemic operators. §6 focuses on the problem of “borderline contradictions”: the range of acceptability judgments for apparently contradictory sentences with vague predicates as surveyed in empirical studies, and the theoretical implications of these studies. Finally, §7 surveys the ways of contradiction and its exploitation in literature and popular culture from Shakespeare to social media.
 
@@ -170,7 +174,7 @@ $\dfrac{~p,~ \neg p~}{\therefore q~~}$
 
 Far from reduced to the silence of a vegetable, as Aristotle ordained, the proponents of true contradictions, including self-avowed dialetheists following the lead of Sylvan (né Routley) and Priest have been eloquent.
 
-Is the status of Aristotle’s “first principle” as obvious as he believed? Adherents of the dialetheist view that there are true contradictories (Priest 1987, 1998, 2002; see also the entries on dialetheism and paraconsistent logic)[^priest-1987] would answer firmly in the negative.[^note-6] In the Western tradition, the countenancing of true contradictions is typically—although not exclusively—motivated on the basis of such classic logical paradoxes as “This sentence is not true” and its analogues; such a statement is evidently true if and only if it is not true. The Liar, or really the family of Liar’s paradoxes (see Liar Paradox), and Russell’s paradox, its set-theoretic analogue (a set that is not a member of itself both is and is not a member of itself—see the entry on Russell’s Paradox), would no longer constitute immediate threats to logical coherence in the absence of LNC (see papers in Priest et al. for extended discussion). If we are indeed prepared to jettison LNC, we can regard “This sentence is not true” (or “This statement is false”) as simultaneously true and not true without deriving the resultant absurdity taken by Aristotle and his heirs to result from such a contradiction. As Smiley (1993: 19) has remarked, “Dialetheism stands to the classical idea of negation like special relativity to Newtonian mechanics: they agree in the familiar areas but diverge at the margins (notably the paradoxes).” Others have remained unpersuaded, among them Lewis (1982: 434): “No truth does have and no truth could have, a true negation. Nothing is, and nothing could be, literally both true and false. This we know for certain, and *a priori,*an without any exception for especially perplexing subject matters”.
+Is the status of Aristotle’s “first principle” as obvious as he believed? Adherents of the dialetheist view that there are true contradictories (Priest 1987, 1998, 2002; see also the entries on dialetheism and paraconsistent logic)[^priest-1987] would answer firmly in the negative.[^note-6] In the Western tradition, the countenancing of true contradictions is typically—although not exclusively—motivated on the basis of such classic logical paradoxes as “This sentence is not true” and its analogues; such a statement is evidently true if and only if it is not true. The Liar, or really the family of Liar’s paradoxes (see Liar Paradox), and Russell’s paradox, its set-theoretic analogue (a set that is not a member of itself both is and is not a member of itself—see the entry on Russell’s Paradox), would no longer constitute immediate threats to logical coherence in the absence of LNC (see papers in Priest et al. for extended discussion). If we are indeed prepared to jettison LNC, we can regard “This sentence is not true” (or “This statement is false”) as simultaneously true and not true without deriving the resultant absurdity taken by Aristotle and his heirs to result from such a contradiction. As Smiley (1993: 19) has remarked, “Dialetheism stands to the classical idea of negation like special relativity to Newtonian mechanics: they agree in the familiar areas but diverge at the margins (notably the paradoxes).” Others have remained unpersuaded, among them Lewis (1982: 434): “No truth does have and no truth could have, a true negation. Nothing is, and nothing could be, literally both true and false. This we know for certain, and *a priori,* an without any exception for especially perplexing subject matters”.
 
 Related to the classic paradoxes of logic and set theory is the Paradox of the Stone. One begins by granting the basic dilemma, as an evident instance of LEM: either God is omnipotent or God is not omnipotent. With omnipotence, He can do anything, and in particular He can create a stone, call it $s$, that is so heavy even He cannot lift it. But then there is something He cannot do, viz. (ex hypothesi) lift $s$. But this is a violation of LNC: God can lift $s$ and God cannot lift $s$. This paradox, and the potential challenge it offers to either LNC or the possibility of omnipotence, has been recognized since Aquinas, who opted for retaining the Aristotelian law by understanding omnipotence as the capacity to do only what is not logically impossible. (Others, including Augustine and Maimonides, have noted that in any case God is “unable” to do what is inconsistent with His nature, e.g. commit sin.) For Descartes, on the other hand, an omnipotent God is by definition capable of *any* task, even those yielding contradictions. Mavrodes (1963), Kenny, and others have sided with St. Thomas in taking omnipotence to extend only to those powers it is possible to possess; Frankfurt (1964), on the other hand, essentially adopts the Cartesian line: Yes, of course God can indeed construct a stone such that He cannot lift it—and what’s more, He can lift it! (See also Savage 1967 for a related solution.)[^savage-1967]
 
@@ -184,7 +188,8 @@ Given Aristotle’s observation (*Metaphysics* 1006a2) that “even some physici
 
 As we have seen, Aristotle himself anticipated many of the challenges that have since been raised against LNC. One more such challenge is posed by the ubiquity of doxastic inconsistency. Take the desires of Oedipus, for example. In seeking Jocasta as his mate, did he wish to marry his mother? Certainly he did on the de re reading: Oedipus’s mother (Jocasta) is such that he wanted to marry her, although he would not have assented to the claim that he wanted to marry his mother. In a sense, then, “Oedipus wanted to marry his mother” is true (de re) and false (de dicto), but no violation of LNC is incurred, since these represent different propositions, the semantic distinction neutralized within the sentential form. But what of the de dicto reading itself: it is *really* false? After all, as a young boy Oedipus can be assumed (by some) to have exhibited the eponymous complex, according to which the falsity of the (de dicto) proposition that he wanted to marry his mother on a *conscious* level belies the truth of this proposition on an *unconscious* level. But this does not entail that he both wished and did not wish to “marry” his mother at the same time *and in the same respect*. Whether it concerns the unacknowledged incestuous conflict of the Theban king, the indecision of Zerlina’s “Vorrei e non vorrei” response to Don Giovanni’s invitation, or the unspecified ambivalence of the respondent in Strawson’s exchange (1952: 7)
 
-> —Were you pleased? —Well, I was and I wasn’t.
+> —Were you pleased?
+> —Well, I was and I wasn’t.
 
 we have ample opportunity to reflect on the foresight of Aristotle’s rider: “a is $F$” and “a is not $F$” cannot both hold *in the same sense, at the same time, and in the same respect*.
 
@@ -210,13 +215,17 @@ $S$ is neither $P$ nor not-$P$
 
 For instances of the positive tetralemma, on Nāgārjuna’s account, all four statement types can or must be accepted:
 
-> Everything is real and not real. Both real and not real. Neither real nor not real. That is Lord Buddha’s teaching. —*Mūla-madhyamaka-kārikā* 18:8, quoted in Garfield (1995: 102)
+> Everything is real and not real.
+> Both real and not real.
+> Neither real nor not real.
+> That is Lord Buddha’s teaching.
+> —*Mūla-madhyamaka-kārikā* 18:8, quoted in Garfield (1995: 102)
 
 Such cases arise only when we are beyond the realm to which ordinary logic applies, when “the sphere of thought has ceased.” On the other hand, more use is made of the negative tetralemma, in which all four of the statements in (7) can or must be rejected, and thus one cannot assert either $\Phi , \neg \Phi$, both $\Phi$ and $\neg \Phi$, or neither $\Phi$ nor $\neg \Phi$. Is this tantamount, as it appears, to the renunciation of LEM and LNC, the countenancing of both gaps and gluts, and thus—in Aristotle’s view—the overthrow of all bounds of rational argument?
 
 It should first be noted that the axiomatic status of LNC and LEM is as well-established within the logical traditions of India as it is for the Greeks and their epigones.[^note-7] Garfield (1995) and Tillemans (1999) convincingly refute the claim that Nāgārjuna was simply an “irrationalist”.[^note-8] In the first place, if Nāgārjuna simply rejected LNC, there would be no possibility of *reductio* arguments, which hinge on the establishment of untenable contradictions, yet such arguments are standardly employed in his logic. In fact, he explicitly prohibits *virodha* (contradiction). Crucially, it is only in the realm of the Absolute or Transcendent, where we are contemplating the nature of the ultimate, that contradictions are embraced; in the realm of ordinary reality, LNC operates and classical logic holds. (Recall Freud’s dichotomy between the LNC-observant conscious mind and the LNC-free unconscious.) In this sense, the logic of Nāgārjuna and of the Buddhist tradition more generally can be seen not as inconsistent but paraconsistent. Indeed, just as Aristotle ridiculed LNC-skeptical sophists as no better than vegetables (see §1), the Buddhists dismissed the arch-skeptic Sanjaya and his followers, who refused to commit themselves to a definite position on any issue, as “eel-wrigglers” *(amarāvikkhepa)*. Sanjaya himself was notorious for his periodic lapses into the extended silence Aristotle described as the last refuge of the LNC-skeptic (see Raju 1954)[^raju-1954].
 
-One aspect of the apparent paradox is precisely parallel to that arising with some of the potential counterexamples to the LNC arising in Western thought. In various Buddhist and Jainist systems of thought, the apparent endorsement of $Fa \amp \neg Fa$ (or, in propositional terms, $\Phi \wedge \neg \Phi)$ is upon closer examination qualified in precisely the way foreseen by the codicils in Aristotle’s statement of the law: From a certain viewpoint, $\Phi$ (e.g. Nirvana exists); from a certain viewpoint, $\neg \Phi$ (e.g. Nirvana does not exist). (Compare the observation of Jainists two millennia ago that “$S$ is $P$” and “$S$ is not $P$” can both be true from different standpoints; cf. Raju 1954: 698–701; Balcerowicz 2003. Rahlwes 2022 offers another look at the *catuṣkoṭi* and Rahlwes 2023 provides a detailed analysis of the Jainists’ *saptabhangī*or seven-valued logic based on distinguishing the dimension of truth/falsity from that of (in)expressibility or (un)assertibility, leveraged as a way to dissolve contradictions$.)$
+One aspect of the apparent paradox is precisely parallel to that arising with some of the potential counterexamples to the LNC arising in Western thought. In various Buddhist and Jainist systems of thought, the apparent endorsement of $Fa \amp \neg Fa$ (or, in propositional terms, $\Phi \wedge \neg \Phi)$ is upon closer examination qualified in precisely the way foreseen by the codicils in Aristotle’s statement of the law: From a certain viewpoint, $\Phi$ (e.g. Nirvana exists); from a certain viewpoint, $\neg \Phi$ (e.g. Nirvana does not exist). (Compare the observation of Jainists two millennia ago that “$S$ is $P$” and “$S$ is not $P$” can both be true from different standpoints; cf. Raju 1954: 698–701; Balcerowicz 2003. Rahlwes 2022 offers another look at the *catuṣkoṭi* and Rahlwes 2023 provides a detailed analysis of the Jainists’ *saptabhangī* or seven-valued logic based on distinguishing the dimension of truth/falsity from that of (in)expressibility or (un)assertibility, leveraged as a way to dissolve contradictions$.)$
 
 To further explore the status of truth-value gluts, in which both classical values are simultaneously assigned to a given proposition (e.g. “$x$ is real”), let us consider the analogous cases involving gaps. Recall, for example, the case of future contingents as in (1a, b) above: we need not maintain that “Machines will surpass human-level cognition” is neither true nor false when uttered today, but only that neither this statement nor its contradictory ““Machines will not surpass human-level cognition”” is *assertible* today in the absence of foreknowledge. Similarly for past unknowables, such as (to adapt an example from Quine) the proposition that the number of blades of grass on the Old Campus lawn during the 2005 Yale commencement exercises was odd. This is again more plausibly viewed as unassertable than as truth-valueless, even though its truth-value will never be known. To take a third example, we can argue, with Grice (1989: 80ff.), that a negation outside the scope of a conditional is generally intended as a refusal (or hesitation) to assert “if $p$ then $q$” rather than as the contradictory negation of a conditional, whose truth value is determined in accord with the standard material equivalence:
 
@@ -252,7 +261,14 @@ $Y$’s rejoinder cannot be a contradictory of the content of $X$’s claim, sin
 
 Unassertability can be read as the key to the apparent paradox of the *catuṣkoṭi* as well. The venerable text in *Majjhima-nikāya* 72, relating the teachings of the historical Buddha, offers a precursor for Nāgārjuna’s doctrine of the negative tetralemma. Gotama is responding to a monk’s question concerning the doctrine of rebirth (quoted in Robinson 1967: 54)[^robinson-1967]:
 
-> Gotama, where is the monk reborn whose mind is thus freed?    Vaccha, it is not true to say that he is reborn. Then, Gotama, he is not reborn.    Vaccha, it is not true to say that he is not reborn. Then, Gotama, he is both reborn and not reborn.    Vaccha, it is not true to say that he is both reborn and not reborn. Then, Gotama, he is neither reborn nor not reborn.    Vaccha, it is not true to say that he is neither reborn nor not reborn.
+> Gotama, where is the monk reborn whose mind is thus freed?
+>    Vaccha, it is not true to say that he is reborn.
+> Then, Gotama, he is not reborn.
+>    Vaccha, it is not true to say that he is not reborn.
+> Then, Gotama, he is both reborn and not reborn.
+>    Vaccha, it is not true to say that he is both reborn and not reborn.
+> Then, Gotama, he is neither reborn nor not reborn.
+>    Vaccha, it is not true to say that he is neither reborn nor not reborn.
 
 Note the form of the translation here, or similarly that of the standard rendering of the negative *catuṣkoṭi* that “it profits not” to assert $\Phi$, to assert $\neg \Phi$, to assert both $\Phi$ and $\neg \Phi$, or to assert neither $\Phi$ nor $\neg \Phi$: the relevant negation can be taken to operate over an implicit modal, in particular an epistemic or assertability operator. If so, neither LEM nor LNC is directly at stake in the tetralemma: you can have your Aristotle and Buddha too.
 
@@ -286,15 +302,22 @@ Like Alxatib & Pelletier, Ripley (2011: §2) conducts his own survey of reaction
 
 ## 7. Contradiction in everyday life
 
-The logical incoherence of contradictions is the ground both for indecision (as with Zerlina’s ambivalent *Vorrei e non vorrei* in our epigraph) and for the pragmatic exploitation of apparent contradictions for communicative ends. One locus is the oxymoron, a phrasal contradiction exploited for millennia as a figure of speech. The dramatic effect of yoking contradictories is as old as the classical *festina lente* (‘make haste slowly’) adopted as a motto by Augustine and the Medicis. The German counterpart, deployed by Goethe and others, adds rhyme: *Eile mit Weile*. In the Catholic tradition, the fall of man is regarded as *felix culpa,*a happy fault or sin, leading as it does to redemption. On a more mundane level we have such one-word oxymorons as *agathokakological,* ‘both good and evil’, and more colloquially the *humblebrag,* in which an intended instance of self-promotion is concealed within false modesty or self-deprecation. Perhaps the most interesting instance is the *sophomore,* reconstructed as a partial folk etymology from *sophos*(‘wise’, as in *philosophy*) + *moros*(‘fool’, as in *moron—*or *oxymoron*).
+The logical incoherence of contradictions is the ground both for indecision (as with Zerlina’s ambivalent *Vorrei e non vorrei* in our epigraph) and for the pragmatic exploitation of apparent contradictions for communicative ends. One locus is the oxymoron, a phrasal contradiction exploited for millennia as a figure of speech. The dramatic effect of yoking contradictories is as old as the classical *festina lente* (‘make haste slowly’) adopted as a motto by Augustine and the Medicis. The German counterpart, deployed by Goethe and others, adds rhyme: *Eile mit Weile*. In the Catholic tradition, the fall of man is regarded as *felix culpa,* a happy fault or sin, leading as it does to redemption. On a more mundane level we have such one-word oxymorons as *agathokakological,* ‘both good and evil’, and more colloquially the *humblebrag,* in which an intended instance of self-promotion is concealed within false modesty or self-deprecation. Perhaps the most interesting instance is the *sophomore,* reconstructed as a partial folk etymology from *sophos* (‘wise’, as in *philosophy*) + *moros* (‘fool’, as in *moron—*or *oxymoron*).
 
 The use of actual or apparent contradiction to generate meanings via reconstrual may convey advice to seek the middle way, reminiscent of the function of borderline contradictions surveyed in §6, or may, in the case of an apparently incoherent phrasal structure, serve as a signal that the modifier constrains the denotation of the head. Thus *bittersweet* is not taken as a self-contradictory property, while a *tragicomedy* is a work or production that spans the two normally opposed genres—recall Walt Whitman’s “I am large; I contain multitudes”. Classic modifier–head oxymorons include *cruel kindness,* *living death,* and *true lies;* jocular ones are regularly proposed, from *military intelligence* and *congressional ethics* to *airplane food* and *open secrets*. A particularly transparent form is offered by those promoting *undesign design* or the *non-concept concept.*
 
 The oxymoron, and in particular the bard’s catalogue of oxymorons, may also be rcruited to signal the breakdown of logical coherence, given the explosive effect of *ex contradictione quodlibet*. In *Romeo and Juliet,* we ascend from the former’s risible inventory of battling binaries to the latter’s ardent valediction on her balcony:
 
-> Why, then, O brawling love! O loving hate! O anything, of nothing first create! O heavy lightness! Serious vanity! Misshapen chaos of well-seeming forms! Feather of lead, bright smoke, cold fire, sick health!    —*Romeo and Juliet*, I.i
+> Why, then, O brawling love! O loving hate!
+> O anything, of nothing first create!
+> O heavy lightness! Serious vanity!
+> Misshapen chaos of well-seeming forms!
+> Feather of lead, bright smoke, cold fire, sick health!
+>    —*Romeo and Juliet*, I.i
 >
-> Good night, good night. Parting is such sweet sorrow That I should say good night till it be morrow.    —*Romeo and Juliet*, II.ii
+> Good night, good night. Parting is such sweet sorrow
+> That I should say good night till it be morrow.
+>    —*Romeo and Juliet*, II.ii
 
 Expanding from the phrasal to the sentential level, we find self-contradictory propositions, whether in full or elliptical form, functioning in forums from high culture to social media to generate a variety of implicatures. In her recent study of the phenomenology of ambivalence, Razinsky takes the affirmation of conjoined contradictories “a is $v$ and a is not $v$” for a given value judgment $v,$ or the affirmation of “a is $v$ and a is *v´*” where *v, v´* are contraries (e.g. *a is good and a is bad*), to be “central to the logic of value and of value judgment” (2017: 229). Some apparent instances of ambivalence (and of any underlying violation of LNC) can be explained away. Citing Mill, Razinsky (2017: 201) accepts that there are instances in which *a is just and a is unjust* reflects only an apparent opposition, to be understood essentially as *a is just in some respects and a is unjust in other respects*. Such cases illustrate the prescience of the Aristotelian rider: “a is $F$” and “a is not $F$” cannot both hold *in the same sense, at the same time, and in the same respect*. Similarly, the imposition of the edict $a$ *ought to F and a ought not to F* results in difficulty for the unfortunate $a$, to be sure, but not necessarily in an LNC violation, given the availability of distinct sources of obligation. But other cases involve true ambivalence: “Meaningful contradictions are moored in the possibility of conceptual ambivalence” (Razinsky 2017: 44)[^razinsky-2017]. The analysis of such cases must preserve the dynamic tension in affirming that a is $v$ and a is *not-v* and at the same time acknowledge the speaker’s awareness of the violation of LNC, not an easy task: “Do people believe contradictions when it comes to value? I do not think there is a good answer to give here” (Razinsky 2017: 228)[^razinsky-2017]—they believe them and do not believe them.
 
@@ -314,16 +337,16 @@ While these may appear contradictory, that diagnosis relies on the status of *S 
 A less, or perhaps differently, mediated case of coherence in apparent contradictories involves prosody, such as “He isn’t rich, he’s RICH”, from Geurts (2010: 186). In this construction, the hearer/reader must directly reconcile LNC with the joint predication of $A$ and *not A* rather than the more complex *not A and not not A*. But on closer examination, the task is less daunting than it appears, as it’s really a matter of affirming $A$ while rejecting $\boldsymbol{A},$ or of metalinguistically rejecting $A$ in favor of $\boldsymbol{A}$:
 
 - “Rita”, he whispered. “I’m tired.” And the way he said the word, she understood. He wasn’t tired, he was *tired*$,$ a condition of the mind as well as the body. A state of the soul. [Lisa Gardner, 2008, *Say Goodbye*, p. 151]
-- “Walt Davies **doesn’t just have property. He has****property**.” [Lisa Gardner, 2020, *When You See Me*, p. 171]
+- “Walt Davies **doesn’t just have property. He has** **property**.” [Lisa Gardner, 2020, *When You See Me*, p. 171]
 - **It’s not hot, it’s HOT**. Dangerously and uncomfortably hot... (PhuketBigdaddy’s comment on TripAdvisor re July temperatures in Oman) [see PhuketBigdaddy, 2019 in Other Internet Resources]
 - I’m short. **Not SHORT, but short**. I’m $5'8''$ (on a good day) with a $30''$ inseam. [see Motorcycle Forum, 2007 in Other Internet Resources]
 
 The prosodic or orthographic focus in such cases invokes a scalar contrast in degrees or qualities of A-ness; the result is analogous to instances in which a descriptor is contrasted with a clone (Horn 2018)[^horn-2018] or contrastive focus reduplication (Ghomeshi et al. 2004) of the same descriptor, yielding variants of the true borderline contradictions discussed in §6.
 
 - They are rich, of course...but not RICH rich. Not New York City rich. [Michael Cunningham, *The Hours,* cited as ex. (5a) in Ghomeshi et al. (2004: 347)]
-- A: I’m sorry, your husband is brain dead. B: But not DEAD dead, right? [exchange on *The Good Wife*(CBS-TV) 23 May 2010, cited as ex. (24) in Horn (2018: 248)]
+- A: I’m sorry, your husband is brain dead. B: But not DEAD dead, right? [exchange on *The Good Wife* (CBS-TV) 23 May 2010, cited as ex. (24) in Horn (2018: 248)]
 
-Note the rhetorical if not truth-conditional contrast between a tycoon protesting that he is *not RICH rich* and acknowledging that he is *not NOT rich.*(See Stanton 2023 for more on the relation between clones and prosodic intensification.)[^stanton-2023]
+Note the rhetorical if not truth-conditional contrast between a tycoon protesting that he is *not RICH rich* and acknowledging that he is *not NOT rich.* (See Stanton 2023 for more on the relation between clones and prosodic intensification.)[^stanton-2023]
 
 Finally, it is worth noting the role contradiction plays as a lively source of ironic humor, especially for the highbrow reader. In one [New Yorker cartoon](https://condenaststore.com/featured/a-veterinarian-confronts-a-man-in-the-waiting-benjamin-schwartz.html) (Benjamin Schwartz, March 30, 2015), a veterinarian comes into the waiting room, places a comforting arm on the worried man’s shoulder, and breaks the news: “About your cat, Mr. Schrödinger—I have good news and bad news.” (See §4 above for more on the poor cat’s indeterminate prognosis.) In [another](https://web.archive.org/web/20250603225503/http://imgc.allpostersimages.com/images/P-473-488-90/60/6065/6YAD100Z/posters/j-b-handelsman-i-wish-you-would-make-up-your-mind-mr-dickens-was-it-the-best-of-time-new-yorker-cartoon.jpg) (J. B. Handelsman, March 9, 1987), a mutton-chopped publisher, seated at his Victorian office desk and riffling through an immense manuscript, explains to the dejected bearded author, “I wish you would make up your mind, Mr. Dickens. Was it the best of times or was it the worst of times? It could scarcely have both.” .
 
@@ -384,7 +407,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^alxatib-2011]: Alxatib, Sam and Francis Jeffry Pelletier, 2011. “The psychology of vagueness: Borderline cases and contradictions,” *Mind & Language*, 26(3): 287–326.
 
-[^anton-1957]: Anton, John Peter, 1957. *Aristotle’s Theory of Contrariety,*London, Routledge and Kegan Paul. See especially Chapter Six.
+[^anton-1957]: Anton, John Peter, 1957. *Aristotle’s Theory of Contrariety,* London, Routledge and Kegan Paul. See especially Chapter Six.
 
 [^aristotle-1963]: Aristotle, *Categories* and *De Interpretatione*, J. N. Ackrill (ed.), Oxford: Clarendon, 1963.
 
@@ -402,7 +425,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^barnes-1982]: –––, 1982. *The Presocratic Philosophers*, London: Routledge & Kegan Paul.
 
-[^béziau-2023]: Béziau, Jean-Yves, 2023. “Ex incompatibilitate sequitur quodlibet (The explosiveness of incompatibility and the compatibility of negation)”, in T. Madigan and J.-Y. Béziau (eds.), *Universal Logic, Ethics, and Truth - Essays in Honor of John Corcoran (1937-2021),*Birkhäuser, Cham, to appear. Downloadable at http://www.jyb-logic.org/papers.html.
+[^béziau-2023]: Béziau, Jean-Yves, 2023. “Ex incompatibilitate sequitur quodlibet (The explosiveness of incompatibility and the compatibility of negation)”, in T. Madigan and J.-Y. Béziau (eds.), *Universal Logic, Ethics, and Truth - Essays in Honor of John Corcoran (1937-2021),* Birkhäuser, Cham, to appear. Downloadable at http://www.jyb-logic.org/papers.html.
 
 [^benveniste-1956]: Benveniste, Émile, 1956. “Remarks on the function of language in Freudian theory,” reprinted in*Problems in General Linguistics*, M. E. Meek (trans.), Coral Gables: University of Miami Press, 1971, pp. 65–75.
 
@@ -442,7 +465,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^geach-1972]: Geach, P. T., 1972. *Logic Matters*, reprinted Berkeley: University of California Press, 1980.
 
-[^geurts-2010]: Geurts, Bart, 2010. *Quantity Implicatures.*Cambridge: Cambridge University Press.
+[^geurts-2010]: Geurts, Bart, 2010. *Quantity Implicatures.* Cambridge: Cambridge University Press.
 
 [^grice-1989]: Grice, H. P., 1989. *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
 
@@ -452,7 +475,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^horn-2017]: –––, 2017. “Lie-toe-tease: double negatives and excluded middles,” *Philosophical Studies*, 174: 79–103.
 
-[^horn-2018]: –––, 2018. “The lexical clone: Pragmatics, prototypes, and productivity,” in R. Finkbeiner and U. Freywald (eds.), *Exact Repetition in and Discourse,*233–264, Berlin: De Gruyter.
+[^horn-2018]: –––, 2018. “The lexical clone: Pragmatics, prototypes, and productivity,” in R. Finkbeiner and U. Freywald (eds.), *Exact Repetition in and Discourse,* 233–264, Berlin: De Gruyter.
 
 [^hyde-1997]: Hyde, Dominic, 1997. “From heaps and gaps to heaps of gluts,” *Mind*, 106: 641–660.
 
@@ -460,7 +483,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^kneale-1962]: Kneale, William and Martha Kneale, 1962. *The Development of Logic*, Oxford: Clarendon.
 
-[^krishnan-2022]: Krishnan, Nikhil, 2022. “How queer was Ludwig Wittgenstein?”, *New Yorker,*May 16, 2022,
+[^krishnan-2022]: Krishnan, Nikhil, 2022. “How queer was Ludwig Wittgenstein?”, *New Yorker,* May 16, 2022,
 
 [^kumārila-1899]: Kumārila Bhaṭṭa, *The Mīmāmsā-śloka-vārtika*, R. Talainga (ed.), Benares: Freeman & Co., 1899.
 
@@ -480,7 +503,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^mavrodes-1963]: Mavrodes, George, 1963. “Some puzzles concerning omnipotence,” *Philosophical Review*, 72: 221–23.
 
-[^meyer-2014]: Meyer, Matthew. 2014. “Aristotle’s defense of the Principle of Non-Contradiction in *Metaphyics*IV”, in *Reading Nietzsche Through the Ancient: An Analysis of Become, Perspectivism, and the Principle of Non-Contradiction,*55–115, Berlin: De Gruyter.
+[^meyer-2014]: Meyer, Matthew. 2014. “Aristotle’s defense of the Principle of Non-Contradiction in *Metaphyics* IV”, in *Reading Nietzsche Through the Ancient: An Analysis of Become, Perspectivism, and the Principle of Non-Contradiction,* 55–115, Berlin: De Gruyter.
 
 [^parsons-1990]: Parsons, Terence, 1990. “True contradictions,” *Canadian Journal Philosophy*, 20: 335–53.
 
@@ -524,7 +547,7 @@ I am indebted to SEP’s anonymous readers for their critiques of earlier versio
 
 [^sorensen-2001]: Sorensen, Roy, 2001. *Vagueness and Contradiction*, Oxford: Oxford University Press.
 
-[^stanton-2023]: Stanton, Kate, 2023. Composing words and non-words. *Synthese*202:179, online pre-publication.
+[^stanton-2023]: Stanton, Kate, 2023. Composing words and non-words. *Synthese* 202:179, online pre-publication.
 
 [^strawson-1952]: Strawson, P. F., 1952. *Introduction to Logical Theory*, London: Methuen.
 

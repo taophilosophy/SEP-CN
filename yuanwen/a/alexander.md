@@ -365,7 +365,7 @@ Anderson, John | Bradley, Francis Herbert | Collingwood, Robin George | emergent
 
 [^thomas-2021]: –––, 2021, “Samuel Alexander’s Place in British Philosophy: Realism and Naturalism from the 1880s Onwards”, in A. R. J. Fisher (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, Cham: Palgrave Macmillan, pp. 113–128.
 
-[^thomas-2026a]: –––, 2026a,*Letters of English Women Philosophers 1902–1951*, Oxford: Oxford University Press.
+[^thomas-2026a]: –––, 2026a, *Letters of English Women Philosophers 1902–1951*, Oxford: Oxford University Press.
 
 [^thomas-2026b]: –––, 2026b, *Real Time: A Reinvention in British Metaphysics 1883–1928*, Oxford: Oxford University Press.
 

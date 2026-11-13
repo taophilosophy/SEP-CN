@@ -2026,7 +2026,7 @@ The 2021 revision includes a chronological reordering of the philosophers includ
 - Gjesdal, Kristin and Dalia Nassar, 2024. *The Oxford Handbook of Nineteenth-Century Women Philosophers in the German Tradition*, Oxford UP.
 - Haynes, Carolyn, 1998. *Divine Destiny: Gender and Race in Nineteenth-Century Protestantism*, Mississippi: University Press of Mississippi.
 - Levine, Philippa, 1989. *Victorian Feminism, 1850 – 1900*, Cambridge UP.
-- Moland, Lydia and Alison Stone, 2025. *The Oxford Handbook of American and British Women Philosophers in the Nineteenth Century,*Oxford UP.
+- Moland, Lydia and Alison Stone, 2025. *The Oxford Handbook of American and British Women Philosophers in the Nineteenth Century,* Oxford UP.
 - Moses, Claire Goldberg, 1984. *French Feminism in the Nineteenth Century*. Albany: State University of New York Press.
 - O’Neill, William L, 1989. *Feminism in America: A History*, 2nd ed., New Brujiswick, NJ: Transaction Publishers.
 - Paletschek, Sylvia, and Bianka Pietrow-Ennker, 2004. *Women’s Emancipation Movements in the Nineteenth Century: A European Perspective*. Stanford: Stanford University Press.

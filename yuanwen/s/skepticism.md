@@ -37,7 +37,8 @@ The Humean Skeptic thinks that we may well have basically justified beliefs. For
 
 So, on the face of it, many of our everyday and scientific beliefs rest on a foundation of inductive inference. What is the argument that those beliefs therefore do not amount to knowledge? The argument that we can extract from Hume starts from the idea that inductive knowledge stands or falls with the following principle (Hume 1739, section 6)[^hume-1739]:
 
-> **Principle of the Uniformity of Nature** (PUN): Things we have not yet experienced will resemble those we have in the relevant respects.
+> **Principle of the Uniformity of Nature** (PUN):
+> Things we have not yet experienced will resemble those we have in the relevant respects.
 
 Thus, going back to the toy model of enumerative induction, if we have experienced the sun coming out every day (and we have not experienced any counterexample to this pattern), then whether we are justified in believing on that basis that the sun will come out tomorrow depends on whether or not PUN is true. And, according to Hume, we have no way of knowing whether PUN is true. This is so because we can know PUN in only one of two ways: by what is ultimately a demonstrative argument (i.e., by a deductive argument whose premises themselves are either known by direct experience or by deduction from what we know through direct experience), or by what is ultimately an inductive argument. Demonstrative arguments can only give us knowledge of necessary truths. But PUN is not a necessary truth. So we cannot know PUN on the basis of a demonstrative argument. But we cannot know it on the basis of an inductive argument either, because in order for an inductive argument to give us knowledge we would first have to know that PUN is true. Therefore, we cannot know PUN, and so we have no inductively based knowledge.
 
@@ -57,7 +58,8 @@ Letting “*h*” stand for any proposition about the external world we would or
 
 CP1 follows from the following Closure Principle (letting “*Jp*” stand for *the subject is justified in believing p*):
 
-> **Closure Principle** [**CP**]: For all propositions *p* and *q*, if *p* entails *q*, and *Jp*, then *Jq*.
+> **Closure Principle** [**CP**]:
+> For all propositions *p* and *q*, if *p* entails *q*, and *Jp*, then *Jq*.
 
 (In the argument above, $p = h$ and $q = {\sim}SH$.)
 
@@ -95,7 +97,8 @@ There are two other possibilities. First, one may hold that when *p* entails *q*
 
 It could also be argued that CP has unacceptable consequences. One of them is that it conflicts with the following principle:
 
-> **Entailment Principle**: If *p* entails *q*, then *q* cannot justify *S* in disbelieving *p*.
+> **Entailment Principle**:
+> If *p* entails *q*, then *q* cannot justify *S* in disbelieving *p*.
 
 For details on the argument for the conflict, see Comesaña 2020, Huemer 2001 and Sharon and Spectre 2017 (and cf. Comesaña 2017)[^comesaña-2017]. However, some authors have argued against the Entailment Principle itself—see Pryor 2014a, b, and Vogel 2014b.
 

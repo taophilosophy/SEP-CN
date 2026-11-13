@@ -497,7 +497,7 @@ authenticity | emotion: in the Christian tradition | existentialism | faith | fi
 
 [^luther-nd]: Luther, Martin, 1520, *Von der Freiheit eines Christenmenschen* (*On the Freedom of a Christian*), Wittenberg.
 
-[^løgstrup-1956]: Løgstrup, Knud Ejler, 1956 [1997], *Den etiske fordring,*København: Gyldendal. Translated as *The Ethical Demand*, Theodor I. Jensen, Gary Puckering, and Eric Watkins (trans.), Notre Dame, IN: University of Notre Dame Press, 1997.
+[^løgstrup-1956]: Løgstrup, Knud Ejler, 1956 [1997], *Den etiske fordring,* København: Gyldendal. Translated as *The Ethical Demand*, Theodor I. Jensen, Gary Puckering, and Eric Watkins (trans.), Notre Dame, IN: University of Notre Dame Press, 1997.
 
 [^macintyre-1981]: MacIntyre, Alasdair C., 1981 [1984], *After Virtue: A Study in Moral Theory*, Notre Dame, IN: University of Notre Dame Press. Second edition, 1984.
 
@@ -587,7 +587,7 @@ authenticity | emotion: in the Christian tradition | existentialism | faith | fi
 
 [^shakespeare-2013]: –––, 2013, “Kierkegaard and Postmodernism”, in Lippitt and Pattison 2013: 464–483 (ch. 24).
 
-[^shestov-1936]: Shestov, Lev, 1936 [1969], *Kierkegaard et la Philosophie Existentielle: “vox clamantie in deserto”.*Translated as *Kierkegaard and the Existential Philosophy*, Elinor Hewitt (trans.), Athens, OH: Ohio University Press, 1969. [The first published version of this work was the French translation of 1936. Both that version and the English translation of 1969 were based on the original Russian version which wasn’t published until after the French translation.]
+[^shestov-1936]: Shestov, Lev, 1936 [1969], *Kierkegaard et la Philosophie Existentielle: “vox clamantie in deserto”.* Translated as *Kierkegaard and the Existential Philosophy*, Elinor Hewitt (trans.), Athens, OH: Ohio University Press, 1969. [The first published version of this work was the French translation of 1936. Both that version and the English translation of 1969 were based on the original Russian version which wasn’t published until after the French translation.]
 
 [^simmons-2008]: Simmons, J. Aaron and David Wood (eds), 2008, *Kierkegaard and Levinas: Ethics, Politics, and Religion*, Bloomington, IN: Indiana University Press.
 

@@ -293,7 +293,7 @@ Chinese Philosophy: Chinese medicine | Chinese Philosophy: legalism in | Chinese
 
 [^lunyu-nd]: *Lunyu Jijie* (*Collected Explanations of the* Analects), He Yan (ed.)
 
-[^shuowen-nd]: [*Shuowen Jiezi*](https://ctext.org/shuo-wen-jie-zi)(Explanation of Written Characters), Xu Shen (ed.).
+[^shuowen-nd]: [*Shuowen Jiezi* ](https://ctext.org/shuo-wen-jie-zi)(Explanation of Written Characters), Xu Shen (ed.).
 
 [^baihutong-nd]: [*Baihutong Delun*](https://ctext.org/bai-hu-tong) (Virtuous Discussions at the White Tiger Hall), compiled by Ban Gu.
 

@@ -625,7 +625,7 @@ The author would like to thank Caroline Arruda, Christine M. Korsgaard, Luca Fer
 
 [^leffler-2024a]: –––, 2024a, “Rationality, Shmationality: Even Newer Shmagency Worries”, *Journal of Ethics and Social Philosophy*, 27(2): 371–404.
 
-[^leffler-2024b]: –––, 2024b, “Constitutivism’s Plight: Inescapability, Normativity, and Relativism”, *The Philosophical Quarterly,*[doi.org/10.1093/pq/pqae123](https://doi.org/10.1093/pq/pqae123).
+[^leffler-2024b]: –––, 2024b, “Constitutivism’s Plight: Inescapability, Normativity, and Relativism”, *The Philosophical Quarterly,* [doi.org/10.1093/pq/pqae123](https://doi.org/10.1093/pq/pqae123).
 
 [^lenman-1998]: Lenman, James, 1998, “Review of Korsgaard’s *Creating the Kingdom of Ends*”, *Ethical Theory and Moral Practice*, 1(4): 487–8.
 

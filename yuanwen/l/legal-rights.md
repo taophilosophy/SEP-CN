@@ -476,7 +476,7 @@ civil rights | communitarianism | conservatism | ethics: deontological | Marx, K
 
 [^golding-2005]: Golding, Martin P. and William A. Edmundson (eds.), 2005, *The Blackwell Guide to the Philosophy of Law and Legal Theory*, Oxford: Blackwell Publishing. doi:10.1002/9780470690116
 
-[^greenawalt-1982]: Greenawalt, Kent, 1982, “Utilitarian Justifications for Observance of Legal Rights”, *Nomos* (*Ethics, Economics, and the Law*), 24: 139–147.
+[^greenawalt-1982]: Greenawalt, Kent, 1982, “Utilitarian Justifications for Observance of Legal Rights”, *Nomos* (*Ethics, Economics, and the Law* ), 24: 139–147.
 
 [^griffin-2008]: Griffin, James, 2008, *On Human Rights*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199238781.001.0001
 
@@ -552,7 +552,7 @@ civil rights | communitarianism | conservatism | ethics: deontological | Marx, K
 
 [^lyons-1970]: –––, 1970, “The Correlativity of Rights and Duties”, *Noûs*, 4(1): 45–55. doi:10.2307/2214291
 
-[^lyons-1982]: –––, 1982, “Utility and Rights”, *Nomos* (*Ethics, Economics, and the Law*), 24: 107–138.
+[^lyons-1982]: –––, 1982, “Utility and Rights”, *Nomos* (*Ethics, Economics, and the Law* ), 24: 107–138.
 
 [^lyons-1994]: –––, 1994, *Rights, Welfare, and Mill’s Moral Theory*, New York: Oxford University Press.
 

@@ -3,7 +3,11 @@
 
 *Mousavian, Seyed N., Sumner, Suzanne, Aminrazavi, Mehdi, Van Brummelen, Glen*
 
-> Of knowledge naught remained I did not know, Of secrets, scarcely any, high or low; All day and night for three score and twelve years, I pondered, just to learn that naught I know.     (*Rubā‘iyyāt*, Sa‘idī 1991, 125)
+> Of knowledge naught remained I did not know,
+> Of secrets, scarcely any, high or low;
+> All day and night for three score and twelve years,
+> I pondered, just to learn that naught I know.
+>     (*Rubā‘iyyāt*, Sa‘idī 1991, 125)
 
 Umar Khayyam was a Persian polymath, scientist, philosopher, and poet of the 11ᵗʰ century CE. Whereas his mathematical works and poetry have been the subject of much discussion, his recently edited and published philosophical works have remained a largely neglected area of study. In what follows, we shall review and comment on the salient features of Khayyam’s poetry and philosophy, their relationship with one another, and Khayyam’s pioneering views on mathematics.
 
@@ -15,7 +19,11 @@ In his *Rubā‘iyyāt*, Khayyam challenged religious doctrines, alluded to the 
 
 Abu’l Fatḥ ʿUmar ibn Ibrāhīm Khayyām, commonly known as Umar Khayyām, is the best known Iranian poet-scientist in the West. He was born in the district of Shādyakh of Nayshābūr (originally “Nayshāpūr”) in the province of Khorāsān sometime around 439 AH/1048 CE,[^note-1] and died there between 515 and 520 AH/1124 and 1129 CE.[^note-2] The word “Khayyām,” means “tent maker,” and thus, it is likely that his father Ibrāhīm or forefathers were tent makers. Khayyām is said to have been quiet, reserved, and humble. His reluctance to accept students drew criticism from opponents, who claimed that he was impatient, bad tempered, and uninterested in sharing his knowledge. Given the radical nature of his views in the *Rubā‘iyyāt*, he may merely have wished to remain intellectually inconspicuous.
 
-> The secrets which my book of love has bred, Cannot be told for fear of loss of head; Since none is fit to learn, or cares to know, ‘Tis better all my thoughts remain unsaid.     (*Rubā‘iyyāt*, Tirtha 1941, 266)
+> The secrets which my book of love has bred,
+> Cannot be told for fear of loss of head;
+> Since none is fit to learn, or cares to know,
+> ‘Tis better all my thoughts remain unsaid.
+>     (*Rubā‘iyyāt*, Tirtha 1941, 266)
 
 Khayyam’s reference to Ibn Sīnā as “his teacher” has led some to speculate that he actually studied with Ibn Sīnā. Although this is incorrect, several traditional biographers indicate that Umar Khayyam may have studied with Bahmanyār, an outstanding student of Ibn Sīnā.[^note-3]
 
@@ -35,7 +43,11 @@ Khayyam wrote little, but his works—some fourteen treatises identified to date
 
 Except the first work mentioned above which is a free translation and commentary on a discourse by Ibn Sīnā, the other six philosophical treatises represent Khayyam’s own independent philosophical views. It is noteworthy that Khayyam’s philosophical treatises were written in the Peripatetic tradition at a time when philosophy in general and rationalism in particular were under attack by orthodox Muslim jurists—so much that Khayyam had to defend himself against the charge of “being a philosopher.”
 
-> “A philosopher I am,” my enemies falsely say, But God knows I am not what they say; While in this sorrow-laden nook, I reside Need to know who I am, and why Here stay     (translation by Aminrazavi)
+> “A philosopher I am,” my enemies falsely say,
+> But God knows I am not what they say;
+> While in this sorrow-laden nook, I reside
+> Need to know who I am, and why Here stay
+>     (translation by Aminrazavi)
 
 Khayyam identifies the main types of inquiry in “philosophy” along the Peripatetic line: “The essential and real inquiries that are discussed in philosophy are three inquiries, [first], ‘is it?’…second, ‘what is it?’…third, ‘why is it?’” (*On Being and Obligation*, Malik (ed.) 1998, 335). While these are standard Aristotelian questions, for Khayyam they have a wider range of philosophical implications, especially with regard to the following topics:
 
@@ -116,7 +128,11 @@ Aminrazavi (2007, 177–80), then, identifies and explains three types of “det
 
 In the universal and cosmic sense, our presence in this world and our entry and exit is predetermined, a condition that Khayyam bemoans throughout his *Rubā‘iyyāt*. The universal-cosmic determinism is the cause of our bewilderment and existential anxiety. Khayyam expresses this when he says:
 
-> With Earth’s first Clay They did the Last Man knead, And there of the Last Harvest sow’d the Seed: And the first Morning of Creation wrote What the Last Dawn of Reckoning shall read.     (*Rubā‘iyyāt*, FitzGerald 1859, 41)
+> With Earth’s first Clay They did the Last Man knead,
+> And there of the Last Harvest sow’d the Seed:
+> And the first Morning of Creation wrote
+> What the Last Dawn of Reckoning shall read.
+>     (*Rubā‘iyyāt*, FitzGerald 1859, 41)
 
 The second sense of determinism is Socio-economic, which is rarely addressed by Muslim philosophers. Khayyam incidentally refers to this notion, for example, in:
 
@@ -182,7 +198,11 @@ It is in light of the distinction between “is” and “ought,” the “ideal
 
 ## 3. The *Rubā‘iyyāt* (*Quatrains*)
 
-> Here with a Loaf of Bread beneath the Bough, A Flask of Wine, a Book of Verse—and Thou Beside me singing in the Wilderness— And Wilderness is Paradise enow.     (*Rubā‘iyyāt*, FitzGerald 1859, 30; 2009, 21)
+> Here with a Loaf of Bread beneath the Bough,
+> A Flask of Wine, a Book of Verse—and Thou
+> Beside me singing in the Wilderness—
+> And Wilderness is Paradise enow.
+>     (*Rubā‘iyyāt*, FitzGerald 1859, 30; 2009, 21)
 
 Although Umar Khayyam’s *Rubā‘iyyāt* have been admired in the Persian speaking world for many centuries, they have only been known in the West widely since the mid 19ᵗʰ century, when Edward FitzGerald rendered the *Rubā‘iyyāt* into English.
 
@@ -204,7 +224,11 @@ The *Rubā‘iyyāt*’s overarching theme is the temporality of human existence
 
 Using the imagery of a *kuzah* (“jug”) and clay throughout the *Rubā‘iyyāt*, Khayyam alludes to the temporality of life and its senselessness:[^note-8]
 
-> I saw the potter in the market yesterday Pounding and pounding upon a piece of clay “Behold,” said the clay to the potter Treat me gently for once like you, now I am clay     (translation by Aminrazavi)
+> I saw the potter in the market yesterday
+> Pounding and pounding upon a piece of clay
+> “Behold,” said the clay to the potter
+> Treat me gently for once like you, now I am clay
+>     (translation by Aminrazavi)
 
 The above verse, for example, may be read as suggesting that Khayyam does not see a profound meaning in human existence; his existential anxiety is compounded by the fact that we are subject to our daily share of suffering, a concept that runs contrary to that of the all merciful and compassionate God of Islam.
 
@@ -212,11 +236,19 @@ The above verse, for example, may be read as suggesting that Khayyam does not se
 
 The problem of suffering has an ominous presence in the *Rubā‘iyyāt*, which contains both Epicurean and Stoic themes. On theodicy, Khayyam remarks:
 
-> In what life yields in this Two-door monastery Your share in the pain of heart and death will tarry The one who does not bear a child is happy And he not born of a mother, merry     (translation by Aminrazavi)
+> In what life yields in this Two-door monastery
+> Your share in the pain of heart and death will tarry
+> The one who does not bear a child is happy
+> And he not born of a mother, merry
+>     (translation by Aminrazavi)
 
 And also:
 
-> Life is dark and maze-like, it is Suffering cast upon us and comfort in abyss Praise the Lord for all the means of evil Ask none other than He for malice     (translation by Aminrazavi)
+> Life is dark and maze-like, it is
+> Suffering cast upon us and comfort in abyss
+> Praise the Lord for all the means of evil
+> Ask none other than He for malice
+>     (translation by Aminrazavi)
 
 (It is an irony that while Khayyam complains about theodicy and human suffering throughout his *Rubā‘iyyāt*, in his philosophical works he offers a treatise almost entirely devoted to a philosophical justification of the problem of evil.) It might seem that theodicy as a theological and philosophical problem in Islam never received the attention it did in Western intellectual tradition; however, a series of problems associated with evil have been discussed under different names in this tradition. In the discussion of *Tawḥīd*, absolute oneness and unity of God in Islam, the problem of existence of evil, particularly the manner in which evil is created by God, is discussed (see section 2.4 above). In the debate over God’s attribute of justice, between the Asharites and the Muʿtazilites, some aspects of the problem of evil, e.g., whether our morally wrong actions are ultimately created by God or attributed to him, are carefully examined as well. Also, in the discussion of relative and negative (privative) attributes, the question of the nature of evil is raised again. Khayyam’s poem seems to acknowledge both the reality and malicious nature of evil and the ensuing suffering, on the one hand, and God’s role in allowing evil and his “answerability,” on the other hand. This makes questioning God on the existence of evil not illegitimate: “Ask none other than He for malice.”
 
@@ -224,11 +256,19 @@ And also:
 
 For Khayyam the poet, “the tale of the seventy-two nations,” by which he refers to organized branches of Islam, and of religions in general, and traditional metaphysical beliefs (mainly Platonic and neo-Platonic), are merely flight of fancy, for the human condition, which he describes as a “sorrow laden nest,” at least in part contradicts many such beliefs. The art of living in the present, a theme dealt with in Sufi literature, is a type of wisdom that must be acquired, since living for the hereafter and heavenly rewards is conventional wisdom, and more suitable for the masses. On this point, Khayyam asserts:
 
-> Today is thine to spend, but not to-morrow, Counting on morrow breedeth naught but sorrow; Oh! Squander not this breath that heaven hath lent thee, Nor make too sure another breath to borrow     (Whinfield 2001, 30; modified by Aminrazavi)
+> Today is thine to spend, but not to-morrow,
+> Counting on morrow breedeth naught but sorrow;
+> Oh! Squander not this breath that heaven hath lent thee,
+> Nor make too sure another breath to borrow
+>     (Whinfield 2001, 30; modified by Aminrazavi)
 
 And also:
 
-> What matters if I feast, or have to fast? What if my days in joy or grief are cast? Fill me with Thee, O Guide! I cannot ken If breath I draw returns or fails at last.     (Whinfield 2001, 144)
+> What matters if I feast, or have to fast?
+> What if my days in joy or grief are cast?
+> Fill me with Thee, O Guide! I cannot ken
+> If breath I draw returns or fails at last.
+>     (Whinfield 2001, 144)
 
 Khayyam’s emphasis on living in the present, or as Sufis say, “Sufi is the son of time,” along with his use of other Sufi metaphors such as wine, intoxication and love making, have been interpreted by some scholars as merely mystical allegories.[^note-9] Although a mystical interpretation of the *Rubā‘iyyāt* has been advocated by some, it remains the view of a minority of scholars.
 
@@ -238,21 +278,37 @@ The complexity of the world according to Khayyam the mathematician-astronomer ne
 
 Humans, Khayyam tells us, are thrown into an existence they cannot make sense of:
 
-> The sphere upon which mortals come and go, Has no end nor beginning that we know; And none there is to tell us in plain truth: Whence do we come and whither do we go.     (Whinfield 2001, 132)
+> The sphere upon which mortals come and go,
+> Has no end nor beginning that we know;
+> And none there is to tell us in plain truth:
+> Whence do we come and whither do we go.
+>     (Whinfield 2001, 132)
 
 Again, the vivid and apparent inconsistency between a seemingly senseless existence and a complex and orderly world leads to existential and philosophical doubt and bewilderment. The tension between Khayyam’s philosophical writings in which he embraces the Islamic Peripatetic philosophical tradition and his *Rubā‘iyyāt* where he expresses his profound skepticism stems from this paradox. In his *Rubā‘iyyāt* Khayyam embraces, or comes very close to embracing, humanism and agnosticism, leaving the individual human being disoriented, anxious and bewildered; whereas in his philosophical writings he operates within a theistic world where the most fundamental questions, like the existence of God and explanation of evil, find (relatively) decisive solutions. Lack of certainty with regard to religious truth leaves the individual in an epistemologically suspended state where one has to live in the here and now, irrespective of the question of truth:
 
-> Since neither truth nor certitude is at hand Do not waste your life in doubt for a fairyland O let us not refuse the goblet of wine For, sober or drunken, in ignorance we stand     (translation by Aminrazavi)
+> Since neither truth nor certitude is at hand
+> Do not waste your life in doubt for a fairyland
+> O let us not refuse the goblet of wine
+> For, sober or drunken, in ignorance we stand
+>     (translation by Aminrazavi)
 
 This skepticism towards organized religions runs deep in Khayyam’s quatrains; he explicitly questions the orthodoxy and how the final disclosure of ultimate truth might be surprising to all “believers,” and perhaps “nonbelievers” (note: your reward is neither *here* nor *there*):
 
-> Alike for those who for To-day prepare, And those that after a To-morrow stare, A Muezzín from the Tower of Darkness cries “Fools! your Reward is neither Here nor There!”     (*Rubā‘iyyāt*, FitzGerald 2009, 28)
+> Alike for those who for To-day prepare,
+> And those that after a To-morrow stare,
+> A Muezzín from the Tower of Darkness cries
+> “Fools! your Reward is neither Here nor There!”
+>     (*Rubā‘iyyāt*, FitzGerald 2009, 28)
 
 ### 3.5 Eschatology
 
 The *Rubā‘iyyāt* casts doubt on Islamic eschatological and soteriological views. Once again the tension between Khayyam’s poetic and philosophical modes of thought surfaces; experientially there is evidence to conclude that death is the end:
 
-> Behind the curtain none has found his way None came to know the secret as we could say And each repeats the dirge his fancy taught Which has no sense-but never ends the lay     (Whinfield 2001, 229)
+> Behind the curtain none has found his way
+> None came to know the secret as we could say
+> And each repeats the dirge his fancy taught
+> Which has no sense-but never ends the lay
+>     (Whinfield 2001, 229)
 
 In the *Rubā‘iyyāt*, Khayyam portrays the universe as a beautiful ode which reads “from dust we come and to dust we return,” and “every brick is made from the skull of a man.” While Khayyam does not explicitly deny the existence of life after death, perhaps for political reasons and fear of being labeled a heretic, there are subtle references throughout his *Rubā‘iyyāt* that the hereafter should be taken with a grain of salt. In contrast, in his philosophical writings we see him argue for the incorporeality of the soul, which paves the path for the existence of life after death. The irreconcilable conflict between Khayyam’s observation that death is the inevitable end for all beings, and his philosophical reflections in favor of the possibility of the existence of life after death, remains an insoluble riddle.[^note-10]
 
@@ -260,11 +316,19 @@ In the *Rubā‘iyyāt*, Khayyam portrays the universe as a beautiful ode which 
 
 Khayyam is known as a determinist in both the East and the West, and deterministic themes can be seen in much of the *Rubā‘iyyāt*. But if we read his *Rubā‘iyyāt* together with his philosophical writings, the picture that emerges may be more rightly called “soft determinism.” One of Khayyam’s best known quatrains in which determinism is clearly conveyed asserts:
 
-> The Moving Finger writes; and, having writ, Moves on: nor all your Piety nor Wit Shall lure it back to cancel half a Line, Nor all your Tears wash out a Word of it     (*Rubā‘iyyāt*, FitzGerald 1859, 20)
+> The Moving Finger writes; and, having writ,
+> Moves on: nor all your Piety nor Wit
+> Shall lure it back to cancel half a Line,
+> Nor all your Tears wash out a Word of it
+>     (*Rubā‘iyyāt*, FitzGerald 1859, 20)
 
 Again, in his philosophical treatise *The Necessity of Contrariety*, Khayyam adheres to three types of determinism. On a universal or cosmic level, our birth is determined in the sense that we had no choice in this matter. Ontologically speaking, our essence and our place on the overall hierarchy of beings appears also to be predetermined. However, the third category of determinism, socio-economic determinism, is man-made and thus changeable. Our attempt to face this determined end of our life, however, will again lead us to nowhere but bewilderment:
 
-> At first they brought me perplexed in this way Amazement still enhances day by day We all alike are tasked to go but Oh! Why are we brought and sent? This none can say     (*Rubā‘iyyāt*, Tirtha 1941, 18)
+> At first they brought me perplexed in this way
+> Amazement still enhances day by day
+> We all alike are tasked to go but Oh!
+> Why are we brought and sent? This none can say
+>     (*Rubā‘iyyāt*, Tirtha 1941, 18)
 
 Thus a reading of the *Rubā‘iyyāt* in conjunction with Khayyam’s philosophical reflections bring forward a more sophisticated view of free will and determinism, indicating that Khayyam believed in free will within a form of cosmic determinism and did not support a full-blown predeterminism.
 
@@ -280,11 +344,19 @@ The pedestrian use of wine in the *Rubā‘iyyāt*, devoid of any intellectual s
 
 Khayyam’s use of wine in the profound sense in his *Rubā‘iyyāt* is a type of Sophia that provides a sage with philosophical wisdom, allowing one to come to terms with the temporality of life and to live in the here and now:
 
-> Those imprisoned by the intellect’s need to decipher Humbled; knowing being from non-being, they proffer Seek ignorance and drink the juice of the grape Those fools acting as wise, scoffer.     (translation by Aminrazavi)
+> Those imprisoned by the intellect’s need to decipher
+> Humbled; knowing being from non-being, they proffer
+> Seek ignorance and drink the juice of the grape
+> Those fools acting as wise, scoffer.
+>     (translation by Aminrazavi)
 
 *Khirad* is the type of wisdom that brings about a rapprochement between the poetic and discursive modes of thought, one that sees the fundamental irony in what appears to be a senseless human existence within an orderly and complex physical universe. For Khayyam the mathematician-astronomer, the universe cannot be the result of a random chance; on the other hand, Khayyam the poet fails to find any purpose for an individual human existence in this orderly universe.
 
-> As Spring and Fall make their appointed turn, The leaves of life one aft another turn; Drink wine and brood not—as the Sage has said: “Life’s cares are poison, wine the cure in turn.”     (*Rubā‘iyyāt*, Sa‘idī 1994, 58)
+> As Spring and Fall make their appointed turn,
+> The leaves of life one aft another turn;
+> Drink wine and brood not—as the Sage has said:
+> “Life’s cares are poison, wine the cure in turn.”
+>     (*Rubā‘iyyāt*, Sa‘idī 1994, 58)
 
 ## 4. Khayyam the Mathematician and Scientist
 
@@ -426,7 +498,11 @@ al-Farabi | Arabic and Islamic Philosophy, special topics in: essence and existe
 
 [^note-8]: FitzGerald’s translation goes like this:
 
-> For in the Market-place, one Dusk of Day, I watch’d the Potter thumping his wet Clay: And with its all obliterated Tongue It murmur’d—“Gently, Brother, gently, pray!”     (*Rubā‘iyyāt*, FitzGerald 2009, 34)
+> For in the Market-place, one Dusk of Day,
+> I watch’d the Potter thumping his wet Clay:
+> And with its all obliterated Tongue
+> It murmur’d—“Gently, Brother, gently, pray!”
+>     (*Rubā‘iyyāt*, FitzGerald 2009, 34)
 
 [^note-9]: For information concerning a Sufi reading of Khayyām see: Nasr (2002).
 

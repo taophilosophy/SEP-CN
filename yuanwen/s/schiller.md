@@ -247,7 +247,12 @@ aesthetics: 19th Century Romantic | aesthetics: German, in the 18th century | be
 
 [^note-3]: Schiller immortalized a caricatured misreading of Kant’s moral philosophy in an ironic and oft-quoted epigram:
 
-> Gladly I serve my friends, but alas I do it with pleasure Hence I am plagued with doubt that I am not a virtuous person To this, this answer is given: Surely, your only resource is to try to despise them entirely And then with aversion do what your duty enjoins. (quoted in Baxley 2010: 1084–1085)[^baxley-2010]
+> Gladly I serve my friends, but alas I do it with pleasure
+> Hence I am plagued with doubt that I am not a virtuous person
+> To this, this answer is given:
+> Surely, your only resource is to try to despise them entirely
+> And then with aversion do what your duty enjoins.
+> (quoted in Baxley 2010: 1084–1085)[^baxley-2010]
 
 This epigram is sometimes used to suggest that Schiller himself interpreted Kant as claiming that duty and inclination were entirely incompatible, a view he almost certainly did not hold. For Schiller’s interpretation of Kant on this point, see Winegar 2013; Baxley 2010; Beiser 2005: ch. 5. On the question of duty and inclination in Kant’s theory of moral evaluation, see Baron 1993: ch.5; Allison 2011: ch. 4; Wood 2014: ch. 1.
 

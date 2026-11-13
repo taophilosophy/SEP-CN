@@ -275,7 +275,8 @@ Thanks to Elizabeth Hackett, Ann Garry, Heidi Grasswick, and the members of the 
 
 [^note-20]: Haslanger has characterised this view as follows: Social/Political Race (SPR): A group G is racialized relative to context C iff_{df} members of G are (all and only) those,
 
-> (i) who are observed or imagined to have certain bodily features presumed in C to be evidence of ancestral links to a certain geographical region (or regions)—call this “color”;
+> (i) who are observed or imagined to have certain bodily features presumed in C to be evidence of ancestral links to a certain geographical region
+> (or regions)—call this “color”;
 >
 > (ii) whose having (or being imagined to have) these features marks them within the context of the background ideology in C as appropriately occupying certain kinds of social position that are in fact either subordinate or privileged (and so motivates and justifies their occupying such a position); and
 >

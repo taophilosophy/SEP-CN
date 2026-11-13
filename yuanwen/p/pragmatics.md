@@ -3,7 +3,9 @@
 
 *Korta, Kepa, Perry, John*
 
-> When a diplomat says *yes*, he means ‘perhaps’; When he says *perhaps*, he means ‘no’; When he says *no*, he is not a diplomat. —*Voltaire* (Quoted, in Spanish, in Escandell 1993.)[^escandell-1993]
+> When a diplomat says *yes*, he means ‘perhaps’;
+> When he says *perhaps*, he means ‘no’;
+> When he says *no*, he is not a diplomat. —*Voltaire* (Quoted, in Spanish, in Escandell 1993.)[^escandell-1993]
 
 These lines — also attributed to H. L. Mencken and Carl Jung — may or may not be fair to diplomats, but are surely correct in reminding us that more is involved in what one communicates than what one literally says; more is involved in what one means than the standard, conventional meaning of the words one uses. The words ‘yes,’ ‘perhaps,’ and ‘no’ each has a perfectly identifiable meaning, known by every speaker of English (including not very competent ones). However, as those lines illustrate, it is possible for different speakers in different circumstances to mean different things using those words. How is this possible? What’s the relationship among the meaning of words, what speakers mean when uttering those words, the particular circumstances of their utterance, their intentions, their actions, and what they manage to communicate? These are some of the questions that pragmatics tries to answer; the sort of questions that, roughly speaking, serve to characterize the field of pragmatics.
 

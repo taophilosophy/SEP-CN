@@ -275,7 +275,7 @@ Fig 2.2.1. The observational past of an event and a half-curve. A signal can be 
 
 We are now ready to define the class of models of general relativity which allow for the type of bifurcated supertask mentioned above (Hogarth 1992, 1994)[^hogarth-1992].
 
-> Definition. A spacetime $(M,g)$ is *Malament-Hogarth* if there is an event $q$ in $M$ and a half-curve $\gamma$ in $M$ with infinite elapsed time such that $\gamma$ is contained in $OP(q)$.
+> **Definition**. A spacetime $(M,g)$ is *Malament-Hogarth* if there is an event $q$ in $M$ and a half-curve $\gamma$ in $M$ with infinite elapsed time such that $\gamma$ is contained in $OP(q)$.
 
 One can see how the definition corresponds to the story above. Bob travels along the half-curve $\gamma$ and records an infinite elapsed time. Moreover, at any event on Bob’s worldline, Bob can send a signal to the event $q$ where Alice finds the result of the computation; this follows from the fact that $\gamma$ is contained in $OP(q)$. Note that Alice’s worldline and the starting point $p$ mentioned in the story did not make it to the definition; they simply weren’t needed. The half curve $\gamma$ must start at some event – this event is our starting point $p$. Since $p$ is in $OP(q)$, there is a worldline from $p$ to $q$. Take this to be Alice’s worldline. One can show that this worldline must have a finite elapsed time.
 

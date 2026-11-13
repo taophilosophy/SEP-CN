@@ -173,7 +173,15 @@ On some versions of this view, the morally responsible agent can be someone othe
 
 Other versions insist that the fault lies with the victim of natural evil himself: Eliphaz the Temanite says to Job
 
-> Think now, who that was innocent ever perished? Or where were the upright cut off? As I have seen, those who plow iniquity and sow trouble reap the same. By the breath of God they perish, and by the blast of his anger they are consumed. The roar of the lion, the voice of the fierce lion, and the teeth of the young lions are broken. (*Job* 4: 7–10, NRSV)
+> Think now, who that was innocent ever perished?
+> Or where were the upright cut off?
+> As I have seen, those who plow iniquity
+> and sow trouble reap the same.
+> By the breath of God they perish,
+> and by the blast of his anger they are consumed.
+> The roar of the lion, the voice of the fierce lion,
+> and the teeth of the young lions are broken.
+> (*Job* 4: 7–10, NRSV)
 
 Eliphaz suggests that if Job continues to suffer, then there must be some explanation for these natural evils in Job’s own past behavior. The risk in this kind of doctrine will be obvious to less ancient sensibilities: to suggest that a victim of natural evil must be morally responsible for it seems like the very definition of adding insult to injury.
 
@@ -378,7 +386,7 @@ The author wishes to thank participants in a workshop at the Princeton Project i
 
 [^haybron-2002]: Haybron, Daniel, 2002, “Consistency of Character and the Character of Evil”, in *Earth’s Abominations: Philosophical Studies of Evil*, Daniel M. Haybron (ed.), Amsterdam: Rodopi, pp. 63–78.
 
-[^hill-1983]: Hill, Thomas E., 1983, “Ideals of Human Excellence and Preserving Natural Environments”, *Environmental Ethics*5(3): 211–224.
+[^hill-1983]: Hill, Thomas E., 1983, “Ideals of Human Excellence and Preserving Natural Environments”, *Environmental Ethics* 5(3): 211–224.
 
 [^jaspers-1947]: Jaspers, Karl, 1947 [1958], *Von der Wahrheit: Philosophische Logik*, Erster Band, Munich: R. Piper & Co.. Second edition, 1958.
 

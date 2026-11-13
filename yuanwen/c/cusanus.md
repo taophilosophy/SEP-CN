@@ -264,7 +264,7 @@ Albert the Great [= Albertus Magnus] | Bruno, Giordano | Eriugena, John Scottus 
 
 [^albertson-2008]: Albertson, D., 2008. “Mapping the Space of God: Mystical Weltbilder in Nicholas of Cusa and the Structure of De ludo globi (1463),” in *Weltbilder im Mittelalter: Perceptions of the World in the Middle Ages*, P.Billion(ed.), Bonn: Bernstein, pp. 61–81.
 
-[^albertson-2010]: –––, 2010. “A Learned Thief? Nicholas of Cusa and the Anonymous Fundamentum Naturae: Reassessing the Vorlage Theory,”*Recherches de Théologie et Philosophie Médiévales*, 64: 351–390.
+[^albertson-2010]: –––, 2010. “A Learned Thief? Nicholas of Cusa and the Anonymous Fundamentum Naturae: Reassessing the Vorlage Theory,” *Recherches de Théologie et Philosophie Médiévales*, 64: 351–390.
 
 [^albertson-2010-2]: –––, 2010. “Mystical Philosophy in the Fifteenth Century: New Directions in Research on Nicholas of Cusa,” *Religion Compass*, 4(8): 471–485.
 
@@ -390,7 +390,7 @@ Albert the Great [= Albertus Magnus] | Bruno, Giordano | Eriugena, John Scottus 
 
 [^flasch-2004]: –––, 2004. *Nikolaus von Kues in seiner Zeit. Ein Essay*, Stuttgart: Reclam.
 
-[^floss-2020]: Floss,P., 2020. *The Philosophy of Nicholas of Cusa:**An Introduction into His Thinking*, Basel: Schwabe.
+[^floss-2020]: Floss,P., 2020. *The Philosophy of Nicholas of Cusa:* *An Introduction into His Thinking*, Basel: Schwabe.
 
 [^gerlier-2018]: Gerlier, V., 2018. “Incomprehensible Praise: Wonder, Adoration and the Ground of Language in Nicholas of Cusa,” *Medieval Mystical Theology*, 27: 89–102.
 
@@ -412,7 +412,7 @@ Albert the Great [= Albertus Magnus] | Bruno, Giordano | Eriugena, John Scottus 
 
 [^hoff-2007]: Hoff, J., 2007. *Kontingenz, Berührung*,*Überschreitung: Zur philosophischen Propädeutik christlicher Mystik nach Nicholas von Kues*, Munich: Karl Alber.
 
-[^hoff-2013]: –––, 2013. *The Analogical Turn: Rethinking Modernity with Nicholas of Cusa, Grand Rapids, Mich.:*Eerdmans*.*
+[^hoff-2013]: –––, 2013. *The Analogical Turn: Rethinking Modernity with Nicholas of Cusa, Grand Rapids, Mich.:* Eerdmans*.*
 
 [^hoff-2013-2]: –––, 2013.“Mystagogy Beyond Onto-theology: Looking Back to Post-modernity with Nicholas of Cusa,” in *A Companion to Nicholas of Cusa*, ed. Arne Moritz, Leiden: Brill.
 

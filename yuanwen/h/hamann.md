@@ -293,7 +293,7 @@ Berkeley, George | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfried von
 
 [^italian-2024]: **Italian:** Raciti, Giuseppe, 2024, *Aesthetica in Nuce*, translation into Italian with introduction by G. Raciti, Italy: Aesthetica.
 
-[^french-2001]: **French:**Deygout, Romain and Stefan Majetschak, 2001, *Aesthetica in Nuce, Métacritique du Purisme de la Raison Pure et autres textes*, translation and notes by R. Deygout and preface by S. Majetschak, Paris: Librairie Philosophique J. Vrin.
+[^french-2001]: **French:** Deygout, Romain and Stefan Majetschak, 2001, *Aesthetica in Nuce, Métacritique du Purisme de la Raison Pure et autres textes*, translation and notes by R. Deygout and preface by S. Majetschak, Paris: Librairie Philosophique J. Vrin.
 
 [^international-nd]: The International Hamann-Colloquium meets every few years. Collections of its papers are some of the most important contributions to Hamann scholarship:
 

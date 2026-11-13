@@ -157,7 +157,7 @@ Zermelo's 1904 proof can be briefly described.
 
 **(1)**
 
-Let *M* be an arbitrarily given set, and let M be its power set. Assume given what Zermelo calls a ‘covering’ of M, i.e., a function γ from non-empty elements of M to *M* such that γ(*X*) ∈ *X*, in other words, what would now be called a choice function. The argument then shows that such a γ determines a unique well-ordering of *M*.[^note-23]
+Let *M* be an arbitrarily given set, and let **M** be its power set. Assume given what Zermelo calls a ‘covering’ of **M**, i.e., a function γ from non-empty elements of **M** to *M* such that γ(*X*) ∈ *X*, in other words, what would now be called a choice function. The argument then shows that such a γ determines a unique well-ordering of *M*.[^note-23]
 
 **(2)**
 
@@ -315,7 +315,7 @@ The problem was fully solved by von Neumann in his work on axiomatic set theory 
 
 According to von Neumann's idea, 1 is just {0}, 2 is just {0, 1}, 3 is just {0, 1, 2} and so on. On this conception, the first transfinite ordinal ω is just {0, 1, 2, 3, …, *n*, …}, and generally it's clear that the immediate successor of any ordinal α is just α ∪ {α}. If we identify 0 with ∅, as Zermelo did, then we have available a reduction of the general notion of ordinal to pure set theory, where the canonical well-ordering on the von Neumann ordinals is just the subset relation, i.e., α < β just in case α ⊂ β, which von Neumann later shows is itself equivalent to saying α ∈ β. (See von Neumann 1928, p. 328 of the reprinting.)[^neumann-1928] So again, inclusion orderings are fundamental.
 
-Von Neumann gives a general definition of his ordinals, namely that a set α is an ordinal number if and only if it is a set ordered by inclusion, the inclusion ordering is a well-ordering, and each element ξ in α equals the set of elements in the initial segment of the ordering determined by ξ. This connects directly with Kuratowski's work in the following way. Suppose *M* is a well-ordered set which is then mirrored by an inclusion chain M in the power set of *M*. Then the first few elements of the inclusion chain will be the sets ∅, {*a*}, {*a*, *b*}, {*a*, *b*, *c*}, …, where *a*, *b*, *c*, … are the first, second, third …elements in the well-ordering of *M*. The von Neumann ordinal corresponding to *M* will also be an inclusion ordering whose first elements will be
+Von Neumann gives a general definition of his ordinals, namely that a set α is an ordinal number if and only if it is a set ordered by inclusion, the inclusion ordering is a well-ordering, and each element ξ in α equals the set of elements in the initial segment of the ordering determined by ξ. This connects directly with Kuratowski's work in the following way. Suppose *M* is a well-ordered set which is then mirrored by an inclusion chain **M** in the power set of *M*. Then the first few elements of the inclusion chain will be the sets ∅, {*a*}, {*a*, *b*}, {*a*, *b*, *c*}, …, where *a*, *b*, *c*, … are the first, second, third …elements in the well-ordering of *M*. The von Neumann ordinal corresponding to *M* will also be an inclusion ordering whose first elements will be
 
 > ∅, {∅}, {∅, {∅}}, {∅, {∅}, {∅, {∅}}}, …
 

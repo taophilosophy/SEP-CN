@@ -320,7 +320,7 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [^russell-2017]: –––, 2017. *The Limits of Free Will: Selected Essays*, New York & Oxford: Oxford University Press.
 
-[^russell-2021]: ––– , 2021. *Recasting Hume and Early Modern Philosophy: Selected Essays*, New York & Oxford: Oxford University Press.
+[^russell-2021]: ––– , 2021. *Recasting Hume and Early Modern Philosophy: Selected Essays* , New York & Oxford: Oxford University Press.
 
 [^russell-2005]: Russell, Paul, and Anders Kraal, 2005 [2017]. “Hume on Religion”, *The Stanford Encyclopedia of Philosophy* , Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2017/entries/hume-religion/#RelMor/](https://plato.stanford.edu/archives/sum2017/entries/hume-religion/)>.
 

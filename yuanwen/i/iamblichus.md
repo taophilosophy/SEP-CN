@@ -411,7 +411,7 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^goulet-2014]: Goulet, Richard (ed.), 2014, *Eunape de Sardes: Vies de philosophes et de sophistes*, 2 vols. (Collection des Universités de France. Série grecque 508), Paris: Les Belles Lettres.
 
-[^baltussen-2023]: Baltussen, Han (ed.), 2023, *Eunapius. Lives of Philosophers and Sophists*(Loeb Classical Library 134), Cambridge MA: Harvard University Press, pp. 367–619.
+[^baltussen-2023]: Baltussen, Han (ed.), 2023, *Eunapius. Lives of Philosophers and Sophists* (Loeb Classical Library 134), Cambridge MA: Harvard University Press, pp. 367–619.
 
 [^lives-nd]: *Βίοι Φιλοσόϕων καὶ Σοϕιστων* (*Lives of Philosophers and Sophists*), [available online](http://www.tertullian.org/fathers/eunapius_02_text.htm#IAMBLICHUS)
 
@@ -539,7 +539,7 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^dillon-2010]: –––, 2010, “Iamblichus of Chalcis and His School”, in *The Cambridge History of Philosophy in Late Antiquity*, Lloyd P. Gerson (ed.), Cambridge: Cambridge University Press, vol. 1, pp. 358–374 (chap. 19). doi:10.1017/CHOL9780521764407.024
 
-[^lch--2022]: [LCH-2022] Lecerf, Adrien, G. Casas and P. Hoffmann, 2022, *Essence, puissance, activité dans la philosophie et les savoirs grecs*(Kaïnon – Anthropologie de la pensée ancienne 21), Paris: Classiques Garnier.
+[^lch--2022]: [LCH-2022] Lecerf, Adrien, G. Casas and P. Hoffmann, 2022, *Essence, puissance, activité dans la philosophie et les savoirs grecs* (Kaïnon – Anthropologie de la pensée ancienne 21), Paris: Classiques Garnier.
 
 [^lch--2022-2]: –––, and D.P. Taormina, 2022, “Iamblichus of Chalcis”, in *Brill Encyclopedia of Early Christianity Online*, URL = <http://dx.doi.org/10.1163/2589-7993_EECO_SIM_00002370>.
 
@@ -573,7 +573,7 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^deuse-1983]: Deuse, Werner, 1983, *Untersuchungen zur mittelplatonischen und neuplatonischen Seelenlehre*, Wiesbaden: Franz Steiner.
 
-[^de-2011]: De Vita, Maria Carmen, 2011, *Giuliano imperatore filosofo neoplatonico*(Temi metafisici e problemi del pensiero antico. Studi e testi 121), Milano: Vita e Pensiero.
+[^de-2011]: De Vita, Maria Carmen, 2011, *Giuliano imperatore filosofo neoplatonico* (Temi metafisici e problemi del pensiero antico. Studi e testi 121), Milano: Vita e Pensiero.
 
 [^dillon-1997]: Dillon, John M., 1997, “Iamblichus’ *Noera Theōria* of Aristotle’s *Categories*”, *Syllecta Classica*, 8: 65–77. doi:10.1353/syl.1997.0013
 

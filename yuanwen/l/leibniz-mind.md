@@ -158,9 +158,9 @@ Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: ethics | Leibniz, Gottf
 
 The editors would like to thank Sally Ferguson for noting and informing us about a number of typographical errors in this entry; we are grateful for her careful eye.
 
-[^carlin-2004]: Carlin, L., 2004. “Leibniz on Conatus, Causation, and Freedom,”*Pacific Philosophical Quarterly*, 85: 365–379.
+[^carlin-2004]: Carlin, L., 2004. “Leibniz on Conatus, Causation, and Freedom,” *Pacific Philosophical Quarterly*, 85: 365–379.
 
-[^carlin-2006]: –––, 2006. “ Leibniz on Final Causes,”*Journal of the History of Philosophy*, 44: 217–233.
+[^carlin-2006]: –––, 2006. “ Leibniz on Final Causes,” *Journal of the History of Philosophy*, 44: 217–233.
 
 [^churchland-1984]: Churchland, P., 1984. *Matter and Consciousness*, Cambridge: MIT Press.
 

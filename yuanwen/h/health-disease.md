@@ -273,7 +273,7 @@ The editors would like to thank Patrick S. O’Donnell for bringing several typo
 
 [^ereshefsky-2009]: Ereshefsky, M., 2009. “Defining ‘Health’ and ‘Disease’,” *Studies in the History and Philosophy of Biology and Biomedical Sciences*, 40: 221–227.
 
-[^fuller-2018]: Fuller, J., 2018. “What Are Chronic Diseases?” *Synthese*, 195: 3197–3220.
+[^fuller-2018]: Fuller, J., 2018. “What Are Chronic Diseases?” *Synthese* , 195: 3197–3220.
 
 [^gadamer-1996]: Gadamer, H-G., 1996. *The Enigma of Health*, Stanford: Stanford University Press.
 

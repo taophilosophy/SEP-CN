@@ -65,7 +65,7 @@ What can be said, in a parallel way, about the elements of understanding?
 
 ### 2.1 Objects of Understanding
 
-At least at first glance, the objects of understanding appear to be so varied that it is not obvious where one might find a common thread. Thus, we can understand fields of study, particular states of affairs, institutions, other people, and on and on****(cf. Elgin 1996: 123)[^elgin-1996].
+At least at first glance, the objects of understanding appear to be so varied that it is not obvious where one might find a common thread. Thus, we can understand fields of study, particular states of affairs, institutions, other people, and on and on (cf. Elgin 1996: 123)[^elgin-1996].
 
 In line with the discussion in Ancient philosophy, and setting aside for the moment special issues related to understanding other people (see Section 5), let us start with the generic view that the objects of understanding are something like “connections” or “relations”. Following a distinction from Kim (1994 [2010]), we can contrast two ways of thinking about these connections and relations—i.e., these plausible objects of understanding.
 
@@ -113,7 +113,7 @@ For instance, on the sort of view we find in Michael Strevens’s *Depth* (2008)
 
 On this view, by grasping or appreciating the necessitating force of an entailment relation one thereby grasps or appreciates the necessitating force of a causal relation—or, at least, something importantly like it.
 
-According to another hybrid approach, the internal logical or probabilistic relationships do not *mirror* the relationships out there in the world, but rather *provide evidence* for the existence of relationships out there in the world. Thus some hold that when things go well an appreciation or grasp of the probabilistic connections among the various things we believe allows us to infer the existence of real causal connections in the world (see**S**pirtes, Glymour, & Scheines 1993; Pearl 2000 [2009])[^pearl-2000]. As Wesley Salmon characterizes an earlier version of this idea,
+According to another hybrid approach, the internal logical or probabilistic relationships do not *mirror* the relationships out there in the world, but rather *provide evidence* for the existence of relationships out there in the world. Thus some hold that when things go well an appreciation or grasp of the probabilistic connections among the various things we believe allows us to infer the existence of real causal connections in the world (see **S**pirtes, Glymour, & Scheines 1993; Pearl 2000 [2009])[^pearl-2000]. As Wesley Salmon characterizes an earlier version of this idea,
 
 > The explanatory significance of statistical relations is indirect. Their fundamental import lies in the fact… that they constitute evidence for causal relations. (Salmon 1984: 192)[^salmon-1984]
 
@@ -251,7 +251,7 @@ To this point we have mainly focused on what it takes to understand phenomena in
 
 Moreover, a long string of influential thinkers—starting roughly with Giambattista Vico and continuing through figures such Wilhelm Dilthey and R. G. Collingwood—answer this question affirmatively. Distinctive abilities and perhaps methodologies *do* come on the scene when we try to understand human beings, at least when we try to understand them in a particular way. In broad strokes, the idea is that there is a kind of understanding of other human beings that we can only acquire by reconstructing their perspectives—in some sense, “from within” those perspectives and according to their own terms (cf. Ismael 2018)[^ismael-2018].
 
-Sometimes this approach has been referred to as “the *verstehen* tradition”—in honor of its special roots in the German tradition, and leaving untranslated the German word for understanding (Martin 2000; Feest 2010)[^feest-2010][^martin-2000]. Alternative labels for this approach include “the interpretative tradition”, “the historicist tradition”, “the hermeneutic tradition”, and “the humanistic tradition” (for overviews, see Hiley et al. 1992; Stueber 2012)[^hiley-1992][^stueber-2012]. For convenience, we will refer to this as “the *humanistic*tradition”. It is not an essential part of this tradition that human beings can *only* be understood by reconstructing their perspectives, but the tradition does characteristically claim that there is special value in trying to do so. It also typically claims that taking up perspectives “from within” requires distinctive cognitive resources and perhaps distinctive methods—resources and methods that are not clearly needed when we attempt to understand natural phenomena.
+Sometimes this approach has been referred to as “the *verstehen* tradition”—in honor of its special roots in the German tradition, and leaving untranslated the German word for understanding (Martin 2000; Feest 2010)[^feest-2010][^martin-2000]. Alternative labels for this approach include “the interpretative tradition”, “the historicist tradition”, “the hermeneutic tradition”, and “the humanistic tradition” (for overviews, see Hiley et al. 1992; Stueber 2012)[^hiley-1992][^stueber-2012]. For convenience, we will refer to this as “the *humanistic* tradition”. It is not an essential part of this tradition that human beings can *only* be understood by reconstructing their perspectives, but the tradition does characteristically claim that there is special value in trying to do so. It also typically claims that taking up perspectives “from within” requires distinctive cognitive resources and perhaps distinctive methods—resources and methods that are not clearly needed when we attempt to understand natural phenomena.
 
 Giambattista Vico (1668–1744) was among the first to try to articulate how exactly understanding human beings differs from understanding the natural world (see especially Vico 1725 [2002].)[^vico-1725] According to Vico, just as we have a special *scienza* (knowledge or understanding) of things we have made or produced ourselves, so too we can have special insight into things that other human beings have made or produced—where the things made or produced included not just physical artifacts but also human actions. Vico further postulated a special ability—*fantasia*, or reconstructive imagination—by which we can enter into the minds of others and see the world through their eyes and in terms of their categories of thought (Miller 1993: ch. 5)[^miller-1993].
 
@@ -369,7 +369,7 @@ I am grateful to the following for helpful comments and conversations regarding 
 
 [^camp-2007]: Camp, Elisabeth, 2007, “Thinking with Maps”, *Philosophical Perspectives*, 21: 145–182. doi:10.1111/j.1520-8583.2007.00124.x
 
-[^carter-2014]: Carter, J. Adam, and Emma Gordon, 2014, “Objectual Understanding and the Value Problem”, *American Philosophical Quarterly*51(1): 1–13.
+[^carter-2014]: Carter, J. Adam, and Emma Gordon, 2014, “Objectual Understanding and the Value Problem”, *American Philosophical Quarterly* 51(1): 1–13.
 
 [^carter-2019]: Carter, J. Adam, Duncan Pritchard, and Joshua Shepherd, 2019, “Knowledge-How, Understanding-Why and Epistemic Luck: An Experimental Study”, *Review of Philosophy and Psychology*, 10: 701–734. doi:10.1007/s13164-018-0429-9
 
@@ -389,7 +389,7 @@ I am grateful to the following for helpful comments and conversations regarding 
 
 [^regt-2005]: de Regt, Henk W. and Dennis Dieks, 2005, “A Contextual Approach to Scientific Understanding”, *Synthese* 144(1): 137–170. doi: 10.1007/s11229-005-5000-4
 
-[^regt-2009-2]: de Regt, Henk W., Sabine Leonelli, and Kai Eiger (eds.), 2009,*Scientific Understanding: Philosophical Perspectives*, Pittsburgh, PA: University of Pittsburgh Press.
+[^regt-2009-2]: de Regt, Henk W., Sabine Leonelli, and Kai Eiger (eds.), 2009, *Scientific Understanding: Philosophical Perspectives*, Pittsburgh, PA: University of Pittsburgh Press.
 
 [^dilthey-1883]: Dilthey, Wilhelm, 1883 [1989], *Einleitung in die Geisteswissenschaften*. Translated as *Introduction to the Human Sciences*, Rudolf A. Makkreel and Frithjof Rodi (eds.), Princeton, NJ: Princeton University Press.
 

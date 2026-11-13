@@ -407,7 +407,8 @@ These suggestive distinctions led Alston to believe that the meaning of a senten
 
 In “Intentions and Interpretations” (1982), he claims that in composing a poem the poet doesn’t perform a speech act, but rather represents the performance of a speech act or acts. When Wordsworth writes
 
-> Milton! Thou shouldst be living at this hour: England hath need of thee—
+> Milton! Thou shouldst be living at this hour:
+> England hath need of thee—
 
 his words are ostensibly addressed to a long-dead poet, but to perform an illocutionary, any illocutionary action, a person must believe that he can “secure uptake”, that is, secure understanding of his sentence and the speech act performed. Wordsworth, however, knew that Milton was long dead and had no such belief. He thus didn’t perform the illocutionary act of addressing Milton or stating that England needs him. He does represent the performance of those illocutionary acts, however. What poets and other authors of literary works do, Beardsley thinks, is represent the performance of illocutionary acts, not perform illocutionary acts themselves.
 

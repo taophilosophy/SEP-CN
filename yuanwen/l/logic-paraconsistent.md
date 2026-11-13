@@ -409,7 +409,7 @@ The editors and authors would like to thank Joy Britten for noticing an error in
 
 [^brown-2015]: –––, 2015, “Chunk and Permeate II: Bohr’s Hydrogen Atom”, *European Journal for Philosophy of Science*, 5(3): 297–314.
 
-[^cano-jorge-2025]: Cano-Jorge, Fernando, 2025, “Gates and circuits via Dunn semantics”, *Journal of Logic and Computation,*35(4).
+[^cano-jorge-2025]: Cano-Jorge, Fernando, 2025, “Gates and circuits via Dunn semantics”, *Journal of Logic and Computation,* 35(4).
 
 [^carnielli-2016]: Carnielli, Walter A. and Marcelo Esteban Coniglio, 2016, *Paraconsistent Logic: Consistency, Contradiction and Negation*, Dordrecht: Springer. doi:10.1007/978-3-319-33205-5
 

@@ -68,7 +68,7 @@ This section of the bibliography corresponds to Section 5 of the main entry, and
 - Günderrode, Karoline von, *GSW*, *Sämtliche Werke und Ausgewählte Studien*, ed. W. Morgenthaler, Frankfurt am Main: Stroemfeld Verlag
 - ––– *IE*, ‘The Idea of the Earth’, tr. A. Ezekiel, in Nassar and Gjesdal 2021, 82–4
 - Hegel, G. W. F., *PS*, *Phenomenology of Spirit*, 1807, tr. A. V. Miller, Oxford: Oxford University Press, 1977 [§32: analysis as destructive dissolution {Quotation}]
-- ––– *SL*, *The**Science of Logic*, 1812, ed. and tr. G. Giovanni, Cambridge: Cambridge University Press, 2010
+- ––– *SL*, *The* *Science of Logic*, 1812, ed. and tr. G. Giovanni, Cambridge: Cambridge University Press, 2010
 - ––– *SW*, *Sämtliche Werke: Jubiläumsausgabe in 20 Bänden*, ed. Hermann Glockner, Stuttgart: Frommann, 1927–30 [Vol. 8, 119, 449: analysis]
 - ––– *HR*, *The Hegel Reader*, ed. Stephen Houlgate, Oxford: Blackwell, 1998 [59: analysis as dissolution; 307–8: alphabetic writing vs. hieroglyphics]
 - Hylton, Peter, 1993, ‘Hegel and analytic philosophy’, in Beiser 1993, 445–85
@@ -146,7 +146,7 @@ This section of the bibliography corresponds to Section 5 of the main entry, and
 - Lotze, Hermann, *L*, *Logik*, Leipzig, 1874, 2nd edn. 1880, Books 1 and 3 repr. as *L1*, *Logik, Erstes Buch: Vom Denken (Reine Logik)*, ed. G. Gabriel, Hamburg: Felix Meiner, 1989, and *L3*, *Logik, Drittes Buch: Vom Erkennen (Methodologie)*, ed. G. Gabriel, Hamburg: Felix Meiner, 1989 [Book 3, §§ 297–301: analytic vs. synthetic method]
 - Luft, Sebastian, (ed.), 2015, *The Neo-Kantian Reader*, London: Routledge [contains Windelband 1883]
 - Natorp, Paul, 1910, *Die logischen Grundlagen der exakten Wissenschaften*, Leipzig: Tuebner
-- Natorp, Paul, 1912, ‘Kant und die Marburger Schule’, *Kant-Studien*17: 193–221; tr. in Luft 2015, 180–97
+- Natorp, Paul, 1912, ‘Kant und die Marburger Schule’, *Kant-Studien* 17: 193–221; tr. in Luft 2015, 180–97
 - Rickert, Heinrich, 1892, *Der Gegenstand der Erkenntnis*, Tübingen: Mohr, 2nd edn. 1904, 3rd edn. 1915, 5th edn. 1921
 - ––– 1902, *Die Grenzen der naturwissenschaftlichen Begriffsbildung*, Tübingen: Mohr, 3rd edn. 1921, 5th edn. 1929, tr. by G. Oakes as *The Limits of Concept Formation in Natural Science*, Cambridge: Cambridge University Press, 1986
 - Schmied-Kowarzik, Wolfdietrich, 1969, ‘Synthesis und Analysis: Eine Auseinandersetzung mit Hönigswalds Hegel-Kritik’, *Hegel-Studien* 5: 225–57

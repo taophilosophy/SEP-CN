@@ -1078,7 +1078,7 @@ But assuming that classes of properties are *entities* then “phenomena” and 
 
 [^kemp-1962]: Kemp Smith, N., 1962, *A Commentary on Kant’s Critique of Pure Reason*, New York: Humanities Press.
 
-[^köhnke-1986]: Köhnke, K., 1986, *Entstehung und Aufstieg des*Neukantianismus: *die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus*, Frankfurt am Main: Suhrkamp.
+[^köhnke-1986]: Köhnke, K., 1986, *Entstehung und Aufstieg des* Neukantianismus: *die deutsche Universitatsphilosophie zwischen Idealismus und Positivismus*, Frankfurt am Main: Suhrkamp.
 
 [^langton-1998]: Langton, R., 1998, *Kantian Humility*, Oxford: Oxford University Press.
 

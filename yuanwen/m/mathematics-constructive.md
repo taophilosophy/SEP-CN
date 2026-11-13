@@ -15,7 +15,7 @@ With this interpretation, however, we run into a serious problem in the special 
 
 Every even integer $\gt 2$ can be written as a sum of two primes,
 
-which remains neither proved nor disproved despite the best efforts of many of the leading mathematicians since it was first raised in a letter from Goldbach to Euler in 1742. We are forced to conclude that, *under the very natural decidability interpretation of P* $\vee Q$, only a stubborn optimist can retain a belief in the *law of excluded middle* (LEM):
+which remains neither proved nor disproved despite the best efforts of many of the leading mathematicians since it was first raised in a letter from Goldbach to Euler in 1742. We are forced to conclude that, *under the very natural decidability interpretation of P* $\vee Q$, only a stubborn optimist can retain a belief in the *law of excluded middle* (**LEM**):
 
 For every statement $P$, either $P$ or $\neg P$ holds.
 
@@ -48,7 +48,7 @@ If (*) holds under our computational interpretation, then we can decide between 
 
 In the latter case, by testing $a_1 ,\ldots ,a_N$, we can find $n \le N$ such that $a_n = 1$. Thus the computational interpretation of (*) enables us to decide whether there exists $n$ such that $a_n = 1$; in other words, it enables us to decide the status of the Goldbach Conjecture. An example of this type, showing that a constructive proof of some classical result $P$ would enable us to solve the Goldbach conjecture (and, by similar arguments, many other hitherto open problems, such as the Riemann hypothesis), is called a *Brouwerian example* for, or even a *Brouwerian counterexample* to, the statement $P$ (though it is not a counterexample in the normal sense of that word).
 
-The use of the Goldbach Conjecture here is purely dramatic. For, the argument of the preceding paragraph can be modified to show that, under our computational interpretation, (*) implies the *limited principle of omniscience* (LPO):
+The use of the Goldbach Conjecture here is purely dramatic. For, the argument of the preceding paragraph can be modified to show that, under our computational interpretation, (*) implies the *limited principle of omniscience* (**LPO**):
 
 For each binary sequence $(a_1 ,a_2, \ldots)$ either $a_n = 0$ for all $n$ or else there exists $n$ such that $a_n = 1$,
 
@@ -113,7 +113,7 @@ Each of statements (C) and (D), which are classically equivalent, is a version o
 - for each $\varepsilon \gt 0$ there exists $\delta \gt 0$ such that $(\varepsilon ,\delta) \in \Omega$
 - for each $(\varepsilon , \delta) \in \Omega$, and for all $x,y \in [0,1]$ with $\abs{x - y} \lt \delta$, we have $\abs{f(x) - f(y)} \lt \varepsilon$.
 
-Statement (C) entails another essentially nonconstructive principle, the *lesser limited principle of omniscience* (LLPO):
+Statement (C) entails another essentially nonconstructive principle, the *lesser limited principle of omniscience* (**LLPO**):
 
 For each binary sequence $(a_1,a_2,\ldots)$ with at most one term equal to 1, either $a_n = 0$ for all even $n$ or else $a_n = 0$ for all odd $n$.
 
@@ -123,7 +123,7 @@ Let $f$ be a continuous real-valued mapping on the closed interval $[0,1]$ such 
 
 The situation of the intermediate value theorem is typical of many in constructive analysis, where we find one classical theorem with several constructive versions, some or all of which may be equivalent under classical logic.
 
-There is one omniscience principle whose constructive status is less clear than that of LPO and LLPO—namely, *Markov’s principle* (MP):
+There is one omniscience principle whose constructive status is less clear than that of **LPO** and **LLPO**—namely, *Markov’s principle* (**MP**):
 
 For each binary sequence $(a_n)$, if it is contradictory that all the terms $a_n$ equal 0, then there exists a term equal to 1.
 
@@ -133,7 +133,7 @@ This principle is equivalent to a number of simple classical propositions, inclu
 - For each real number $x$, if it is contradictory that $x$ equal 0, then there exists $y \in \bR$ such that $xy = 1$.
 - For each one-one continuous mapping $f : [0,1] \rightarrow \bR$, if $x \ne y$, then $f(x) \ne f(y)$.
 
-Markov’s principle represents an unbounded search: if you have a proof that all terms $a_n$ being 0 leads to a contradiction, then, by testing the terms $a_1,a_2,a_3,\ldots$ in turn, you are guaranteed to come across a term equal to 1; but this guarantee does not extend to an assurance that you will find the desired term before the end of the universe. Most practitioners of constructive mathematics view Markov’s principle with at least suspicion, if not downright disbelief. Such views are reinforced by the observation that there is a Kripke Model showing that MP is not constructively derivable (Bridges & Richman [1987], 137–138.)
+Markov’s principle represents an unbounded search: if you have a proof that all terms $a_n$ being 0 leads to a contradiction, then, by testing the terms $a_1,a_2,a_3,\ldots$ in turn, you are guaranteed to come across a term equal to 1; but this guarantee does not extend to an assurance that you will find the desired term before the end of the universe. Most practitioners of constructive mathematics view Markov’s principle with at least suspicion, if not downright disbelief. Such views are reinforced by the observation that there is a Kripke Model showing that **MP** is not constructively derivable (Bridges & Richman [1987], 137–138.)
 
 ## 3. Varieties of Constructive Mathematics
 
@@ -159,7 +159,7 @@ In particular, this misuse of logic led to nonconstructive existence proofs whic
 
 In order to describe the logic used by the intuitionist mathematician, it was necessary first to analyse the mathematical processes of the mind, from which analysis the logic could be extracted. In 1930, Brouwer’s most famous pupil, Arend Heyting, published a set of formal axioms which so clearly characterise the logic used by the intuitionist that they have become universally known as the axioms for intuitionistic logic (Heyting [1930]). These axioms captured the informal BHK-interpretation of the connectives and quantifiers that we gave earlier.
 
-Intuitionistic mathematics, INT, diverges from other types of constructive mathematics in its interpretation of the term “sequence”. Normally, a sequence in constructive mathematics is given by a rule which determines, in advance, how to construct each of its terms; such a sequence may be said to be *lawlike* or *predeterminate*. Brouwer generalised this notion of a sequence to include the possibility of constructing the terms one-by-one, the choice of each term being made freely, or subject only to certain restrictions stipulated in advance. Most manipulations of sequences do not require that they be predeterminate, and can be performed on these more general *free choice sequences*.
+Intuitionistic mathematics, **INT**, diverges from other types of constructive mathematics in its interpretation of the term “sequence”. Normally, a sequence in constructive mathematics is given by a rule which determines, in advance, how to construct each of its terms; such a sequence may be said to be *lawlike* or *predeterminate*. Brouwer generalised this notion of a sequence to include the possibility of constructing the terms one-by-one, the choice of each term being made freely, or subject only to certain restrictions stipulated in advance. Most manipulations of sequences do not require that they be predeterminate, and can be performed on these more general *free choice sequences*.
 
 Thus, for the intuitionist, a real number $\bx = (x_1 ,x_2,\ldots)$—essentially, a Cauchy sequence of rational numbers—need not be given by a rule: its terms $x_1 ,x_2,\ldots$, are simply rational numbers, successively constructed, subject only to some kind of Cauchy restriction such as the following one used by Bishop [1967]:
 
@@ -171,9 +171,9 @@ $$ \varrho : (\ba,\bb) \rightsquigarrow \inf\{2^{-n} : a_k = b_k \text{ for } 0 
 
 We are therefore led to the following *principle of continuous choice*, which we divide into a continuity part and a choice part.
 
-CC1 : Any function from $\bN^{\bN}$ to $\bN$ is continuous.
+**CC1** : Any function from $\bN^{\bN}$ to $\bN$ is continuous.
 
-CC2 : If $P \subseteq \bN^{\bN} \times \bN$, and for each $\ba \in \bN^{\bN}$ there exists $n \in \bN$ such that $(\ba,n) \in P$, then there is a function $f : \bN^{\bN} \rightarrow \bN$ such that $(\ba,f(\ba)) \in P$ for all $\ba \in \bN^{\bN}$.
+**CC2** : If $P \subseteq \bN^{\bN} \times \bN$, and for each $\ba \in \bN^{\bN}$ there exists $n \in \bN$ such that $(\ba,n) \in P$, then there is a function $f : \bN^{\bN} \rightarrow \bN$ such that $(\ba,f(\ba)) \in P$ for all $\ba \in \bN^{\bN}$.
 
 If $P$ and $f$ are as in CC2, then we say that $f$ is a *choice function* for $P$.
 
@@ -219,17 +219,17 @@ Unfortunately — and perhaps inevitably, in the face of opposition from mathema
 
 ### 3.2 Recursive Constructive Mathematics
 
-In the late 1940s, the Russian mathematician A.A. Markov began the development of an alternative form of constructive mathematics, RUSS, which is, essentially, recursive function theory with intuitionistic logic (Markov [1954], Kushner [1985]). In this variety the objects are defined by means of Gödel-numberings, and the procedures are all recursive; the main distinction between RUSS and the classical recursive analysis developed after the work of Turing, Church, and others in 1936 clarified the nature of computable processes is that the logic used in RUSS is intuitionistic.
+In the late 1940s, the Russian mathematician A.A. Markov began the development of an alternative form of constructive mathematics, **RUSS**, which is, essentially, recursive function theory with intuitionistic logic (Markov [1954], Kushner [1985]). In this variety the objects are defined by means of Gödel-numberings, and the procedures are all recursive; the main distinction between RUSS and the classical recursive analysis developed after the work of Turing, Church, and others in 1936 clarified the nature of computable processes is that the logic used in RUSS is intuitionistic.
 
 One obstacle faced by the mathematician attempting to come to grips with RUSS is that, being expressed in the language of recursion theory, it is not easily readable; indeed, on opening a page of Kushner’s excellent lectures [1985], one might be forgiven for wondering whether this is analysis or logic. (This remark should be tempered with reference to the two relatively readable books on classical recursive analysis by Aberth [1980, 2001].) Fortunately, one can get to the heart of RUSS by an axiomatic approach due to Richman [1983] (see also Chapter 3 of Bridges & Richman [1987]).
 
 First, we define a set $S$ to be *countable* if there is a mapping from a detachable subset of $\bN$ onto $S$. With intuitionistic logic we cannot prove that every subset of $\bN$ is detachable (the reader is invited to provide a Brouwerian example to demonstrate this). Countable subsets of $\bN$ in Richman’s axiomatic approach are the counterparts of recursively enumerable sets in the normal development of RUSS.
 
-By a *partial function* on $\bN$ we mean a mapping whose domain is a subset of $\bN$; if the domain is $\bN$ itself, then we call the function a *total function* on $\bN$. Richman’s approach to RUSS is based on intuitionistic logic and a single axiom of *computable partial functions* (CPF):
+By a *partial function* on $\bN$ we mean a mapping whose domain is a subset of $\bN$; if the domain is $\bN$ itself, then we call the function a *total function* on $\bN$. Richman’s approach to RUSS is based on intuitionistic logic and a single axiom of *computable partial functions* (**CPF**):
 
 There is an enumeration $\phi_0 ,\phi_1,\ldots$ of the set of all partial functions from $\bN$ to $\bN$ with countable domains.
 
-It is remarkable what can be deduced cleanly and quickly using this principle. For example, we can prove the following result, which almost immediately shows that LLPO, and hence LPO, are false in the recursive setting.
+It is remarkable what can be deduced cleanly and quickly using this principle. For example, we can prove the following result, which almost immediately shows that **LLPO**, and hence **LPO**, are false in the recursive setting.
 
 > There is a total function $f : \bN \times \bN \rightarrow \{0,1\}$ such that
 >
@@ -251,7 +251,7 @@ Progress in all varieties of constructive mathematics was relatively slow throug
 
 > Taking the principle of excluded middle from the mathematician would be the same, say, as proscribing the telescope to the astronomer or to the boxer the use of his fists. (Hilbert [1928])
 
-Not only did Bishop’s mathematics, BISH, have the advantage of readability — if you open Bishop’s book at any page, what you see is clearly recognisable as analysis, even if, from time to time, his moves in the course of a proof may appear strange to one schooled in the use of the law of excluded middle — but, unlike intuitionistic or recursive mathematics, it admits many different interpretations. Intuitionistic mathematics, recursive constructive mathematics, and even classical mathematics all provide models of BISH. In fact, the results and proofs in BISH can be interpreted, with at most minor amendments, in any reasonable model of computable mathematics, such as, for example, Weihrauch’s Type Two Effectivity Theory (Weihrauch [2000]; Bauer [2005]).
+Not only did Bishop’s mathematics, **BISH**, have the advantage of readability — if you open Bishop’s book at any page, what you see is clearly recognisable as analysis, even if, from time to time, his moves in the course of a proof may appear strange to one schooled in the use of the law of excluded middle — but, unlike intuitionistic or recursive mathematics, it admits many different interpretations. Intuitionistic mathematics, recursive constructive mathematics, and even classical mathematics all provide models of BISH. In fact, the results and proofs in BISH can be interpreted, with at most minor amendments, in any reasonable model of computable mathematics, such as, for example, Weihrauch’s Type Two Effectivity Theory (Weihrauch [2000]; Bauer [2005]).
 
 How is this multiple interpretability achieved? At least in part by Bishop’s refusal to pin down his primitive notion of “algorithm” or, in his words, “finite routine”. This refusal has led to the criticism that his approach lacks the precision that a logician would normally expect of a foundational system. However, this criticism can be overcome by looking more closely at what practitioners of BISH actually do when they prove theorems: in practice, they are doing *mathematics with intuitionistic logic*. Experience shows that the restriction to intuitionistic logic always forces mathematicians to work in a manner that, at least informally, can be described as algorithmic; so *algorithmic mathematics appears to be equivalent to mathematics that uses only intuitionistic logic*. If that is the case, then we can practice constructive mathematics using intuitionistic logic on any reasonably defined mathematical objects, not just some class of “constructive objects”.
 
@@ -263,7 +263,7 @@ To do actual mathematics we need more than just intutionistic logic. For Bishop,
 
 ### 3.4 Martin-Löf’s Constructive Type Theory
 
-Before ending our tour of varieties of modern constructive mathematics, we visit a fourth variety, ML, based on Per Martin-Löf’s intuitionistic type theory. Martin-Löf published his *Notes on Constructive Mathematics* [1968], based on lectures he had given in Europe in 1966–68; so his involvement with constructivism in mathematics goes back at least to the period of Bishop’s writing of *Foundations of Constructive Analysis*. Martin-Löf’s book is in the spirit of RUSS, rather than BISH; indeed, its author did not have access to Bishop’s book until his own manuscript was finished. Martin-Löf later turned his attention to his theory of types as a foundation for Bishop-style constructive mathematics.
+Before ending our tour of varieties of modern constructive mathematics, we visit a fourth variety, **ML**, based on Per Martin-Löf’s intuitionistic type theory. Martin-Löf published his *Notes on Constructive Mathematics* [1968], based on lectures he had given in Europe in 1966–68; so his involvement with constructivism in mathematics goes back at least to the period of Bishop’s writing of *Foundations of Constructive Analysis*. Martin-Löf’s book is in the spirit of RUSS, rather than BISH; indeed, its author did not have access to Bishop’s book until his own manuscript was finished. Martin-Löf later turned his attention to his theory of types as a foundation for Bishop-style constructive mathematics.
 
 Here, in his own words, is an informal explanation of the ideas underlying ML:
 
@@ -329,7 +329,7 @@ A particular case of interest is the Fundamental Theorem of Algebra: every compl
 
 For further analysis of the axiom of choice in set theory and type theory see Martin-Löf [2006], and the SEP entries on category theory, type theory, and intuitionistic type theory.
 
-We now recall the *power set axiom* of classical set theory: if $X$ is a set, then so is its *power set* $$ \textrm{sb}(X)≡ \{S: S \subset X\}. $$ Since this definition is impredicative, most constructive mathematicians hesitate to regard $\textrm{sb}(X)$ as a set. What they normally use, and we shall adopt, as the constructive replacement for the power set axiom is the *axiom of exponentiation*: If $A$ and $B$ are sets, then so is the set of all mappings from $A$ into $B$. In particular, the class $2^{\bN}$ of all binary sequences is a set.
+We now recall the *power set axiom* of classical set theory: if $X$ is a set, then so is its *power set* $$ \textrm{sb}(X)≡ \{S: S \subset X\}. $$ Since this definition is impredicative, most constructive mathematicians hesitate to regard $\textrm{sb}(X)$ as a set. What they normally use, and we shall adopt, as the constructive replacement for the power set axiom is the *axiom of exponentiation* : If $A$ and $B$ are sets, then so is the set of all mappings from $A$ into $B$. In particular, the class $2^{\bN}$ of all binary sequences is a set.
 
 In order to discuss the Continuum Hypothesis, we need notions of comparative size for classes $A$ and $B$. We say that
 
@@ -458,7 +458,7 @@ The Julian-Richman results are as follows.
 
 The proofs of these two theorems are subtle and tricky; see Julian & Richman [1984].
 
-The two Julian-Richman theorems together reveal that, relative to BISH, the fan theorem FT$_D$ is equivalent to the *positivity principle*, POS:
+The two Julian-Richman theorems together reveal that, relative to BISH, the fan theorem FT$_D$ is equivalent to the *positivity principle*, **POS**:
 
 Each positive-valued, uniformly continuous function on $[0,1]$ has a positive infimum.
 
@@ -481,7 +481,7 @@ In, for example, the last of these, we say that a map $f$ of a metric space $(X,
 
 A major open problem in CRM is that of finding a form of the fan theorem that is equivalent, over BISH, to the *uniform continuity theorem for* $[0,1]$,
 
-UCT$_{[0,1]}$: Every pointwise continuous mapping of $[0,1]$ into $\bR$ is uniformly continuous,
+**UCT**$_{[0,1]}$: Every pointwise continuous mapping of $[0,1]$ into $\bR$ is uniformly continuous,
 
 the proposition for which Brouwer originally developed his proof of the fan theorem. (Note that UCT$_{[0,1]}$ is equivalent, relative to BISH, to the general uniform continuity theorem for metric spaces: Every pointwise continuous mapping of a complete, totally bounded metric space into a metric space is uniformly continuous. See, for example, Loeb [2005].)
 

@@ -11,7 +11,9 @@ The history of the medieval discussions can be divided into three main periods: 
 
 The Liar Paradox was well known to antiquity. Its discovery is often credited to Eubulides the Megarian (4th century BCE), on the basis of a remark by Diogenes Laertius (*Lives of the Philosophers* II.108), although in fact Diogenes says only that Eubulides discussed the paradox, not that he discovered it.[^note-2] A little later, the poet and grammarian Philetus (or Philitas) of Cos (c. 330–c. 270 BCE), if we are to believe the story in Athenaeus of Naucratis’s *Deipnosophists* IX.401e, worried so much over the Liar that he wasted away and died of insomnia, as, according to Athenaeus, his epitaph recorded:
 
-> Philetus of Cos am I ’Twas the Liar who made me die, And the bad nights caused thereby.[^note-3]
+> Philetus of Cos am I
+> ’Twas the Liar who made me die,
+> And the bad nights caused thereby.[^note-3]
 
 Diogenes Laertius also reports (VII.196–98) that, in addition to a huge number of other works on a variety of topics, the Stoic logician Chrysippus (c. 279–206 BCE) wrote:
 

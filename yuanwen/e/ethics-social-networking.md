@@ -340,7 +340,7 @@ Aristotle, General Topics: ethics | character, moral | computing: and moral resp
 
 [^ito-2009]: Ito, M., et al., 2009, *Hanging Out, Messing Around, Geeking Out: Living and Learning with New Medi*a, Cambridge, MA: MIT Press.
 
-[^johnson-1985]: Johnson, Deborah G., 1985, *Computer Ethics,*Englewood Cliffs, NJ: Prentice Hall.
+[^johnson-1985]: Johnson, Deborah G., 1985, *Computer Ethics,* Englewood Cliffs, NJ: Prentice Hall.
 
 [^kidd-2020]: Kidd, I.J., H. Battaly, and Q. Cassam, 2020, *Vice Epistemology*, New York : Routledge.
 

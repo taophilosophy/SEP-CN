@@ -4,7 +4,7 @@
 
 集合论中称为**选择公理**的原理，曾被誉为“也许是数学中最有趣、并且尽管出现较晚，却是讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”（Fraenkel, Bar-Hillel & Levy 1973, §II.4）。这番溢美之辞，或许会让不熟悉该公理的人期待它与光速不变原理或海森堡不确定性原理一样惊人。但事实上，选择公理按通常陈述方式看显得平淡无奇，甚至自明。因为它无非是断言：给定任意一族互不相交的非空集合，可以把它们合并成一个新集合——一个**横截**（*transversal*）或**选择集**——其中恰好含有该族每个成员中的一个元素。然而，这个看似无害的原理有着深远的数学后果——许多不可或缺，有些令人震惊——并且已在数学基础讨论中占据显著位置。它（或它的等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
 
-## 1. 选择公理的起源与年表
+## 1 选择公理的起源与年表
 
 1904 年，恩斯特·策梅洛以他所谓的**覆盖**（*coverings*）表述了选择公理（本文以下简记为 *AC*）（Zermelo 1904）[^zermelo-1904]。他从任意集合 $M$ 出发，用符号 $M'$ 表示 $M$ 的任意非空子集，并用 M 表示这些子集的汇集。他接着写道：
 
@@ -74,7 +74,7 @@ $$ {\forall x\inn A}\ \exists y\inn B[R(x,y)] \Rightarrow \exists f[f: A \righta
 | 1950s | 门德尔松、舍恩菲尔德与施佩克各自独立地使用置换方法，确立 *AC* 的各种形式相对于一个既无原子、又缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^shoenfield-1955][^specker-1957]。 |
 | 1963 | 保罗·科恩证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963]。 |
 
-## 2. 选择公理的独立性与一致性
+## 2 选择公理的独立性与一致性
 
 如上所述，1922 年弗兰克尔证明了 *AC* 相对于一个含“原子”的集合论系统的独立性。这里**原子**指纯粹个体，即没有成员却又不同于空集的实体（因此**原子**绝不可能是集合）。在带原子的集合论系统中，假定给出了一个无限原子集 $A$。可以从 $A$ 出发，加上 $A$ 的所有子集，再加上所得结果的所有子集，如此超限迭代，在 $A$ 上构造一个集合的宇宙 $V(A)$。$V(A)$ 于是就是带原子集合论的一个模型。弗兰克尔证明 *AC* 独立性方法的核心，是这样一种观察：既然原子不能在集合论上被区分，原子集 $A$ 的任一置换都诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个**自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$——一个**置换模型**或**对称模型**——在其中，由 $A$ 的元素组成的某个互不相交的对之集合没有选择函数。
 
@@ -100,7 +100,7 @@ $$ {\forall x\inn A}\ \exists y\inn B[R(x,y)] \Rightarrow \exists f[f: A \righta
 
 哥德尔（1964）还注意到（迈希尔与斯科特 1971、竹内外史 1963 与波斯特 1951 也独立注意到）[^myhill-1971]，*AC* 相对一致性的一个更简单证明可以用**序数可定义性**表述。若用 $\rD(X)$ 表示 $X$ 的所有在结构 $(X, \in)$ 中一阶可定义的子集之集，则**序数可定义集**的类 OD 定义为并 $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$。**遗传序数可定义集**的类 HOD 由所有这样的集合 $a$ 组成：$a$、$a$ 的成员、$a$ 的成员的成员……等等全是序数可定义的。于是可以证明结构 (HOD, $\in$) 是 **ZF** + *AC* 的模型，由此再次得到 *AC* 相对于 **ZF** 的一致性。[^note-8]
 
-## 3. 极大原理与佐恩引理
+## 3 极大原理与佐恩引理
 
 选择公理与一组统称为**极大原理**的数学命题密切相关。宽泛地说，这些命题断言：某些条件足以保证偏序集至少含有一个**极大元**，即相对于给定偏序没有元素严格超过它的元素。
 
@@ -132,7 +132,7 @@ $$ {\forall x\inn A}\ \exists y\inn B[R(x,y)] \Rightarrow \exists f[f: A \righta
 | 1935 | 马克斯·佐恩显然不了解此前对极大原理的表述，发表（Zorn 1935）[^zorn-1935]其定本，后来以他的名字闻名（**ZL**）。**ZL** 最早于 1933 年在汉堡被表述，舍瓦莱与阿廷很快“采纳”了它。似乎正是阿廷最先认识到 **ZL** 会推出 *AC*，从而使两者（在集合论其余公理之上）等价。佐恩更多把他的原理视为**公理**而非定理——他希望它能取代代数中超限归纳与良序的繁琐应用，而诺特学派的代数学家已开始把这些应用视为“超验”手段。 |
 | 1939–40 | 泰希米勒、布尔巴基与图基各自独立地用“有限特征的属性”重新表述 **ZL**（Bourbaki 1939, Teichmuller 1939, Tukey 1940）[^bourbaki-1939][^teichmuller-1939]。 |
 
-## 4. 选择公理的数学应用
+## 4 选择公理的数学应用
 
 选择公理在数学中有大量应用，其中若干已被证明与它形式等价[^note-13]。历史上最重要的应用是第一个，即：
 
@@ -185,7 +185,7 @@ $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in 
 
 这些定理中有许多在 Bell and Machover（1977）中得到了讨论。
 
-## 5. 选择公理与逻辑
+## 5 选择公理与逻辑
 
 *AC* 与逻辑的最初联系，可以通过回到它用关系表述的形式 **AC3** 来引出，即：任意二元关系都包含一个具有相同定义域的函数。**AC** 的这一版本可以自然地在二阶语言 $L$ 中表达，该语言有个体变元 $x$、$y$、$z$、……与函数变元 $f$、$g$、$h$、……。在 $L$ 中，二元关系由含两个自由个体变元 $x$、$y$ 的公式 $\phi(x, y)$ 表示。断言 **AC3** 在 $L$ 中的对应物于是是
 
@@ -203,7 +203,7 @@ $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in 
 
 **谓词性概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 $\phi$ 不含约束函数变元或谓词变元。
 
-**函数的外延性**：$\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$，其中 $X \approx Y$ 是 $\forall x[X(x) \leftrightarrow Y(x)]$ 的缩写，即 $X$ 与 $Y$ **外延等价**。
+**函数的外延性**：$\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$，其中 $X \approx Y$ 是 $\forall x[X(x) \leftrightarrow Y(x)]$ 的缩写，即 $X$ 与 $Y$ *外延等价*。
 
 **两个不同个体**：$\uO \ne \uI$，其中 $\uO$ 与 $\uI$ 是个体常元。
 
@@ -389,7 +389,7 @@ ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {
 
 ## References（引用注释）
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -431,7 +431,7 @@ ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {
 [^gödel-1938b]: Gödel, K., 1938b. “Consistency-proof for the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciemces*, 25: 220–4.
 [^gödel-1940]: Gödel, K., 1940. *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*, Annals of Mathematics Studies, No. 3, Princeton: Princeton University Press.
 [^gödel-1964]: Gödel, K., 1964. “Remarks before the Princeton Bicentennial Conference,” in *The Undecidable*, Martin Davis (ed.), CITY: Raven Press, pp. 84–88.
-[^goodman-1978]: Goodman, N. and Myhill, J., 1978. “Choice implies excluded middle,” *Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik*, 24(25–30): 461.
+[^goodman-1978]: Goodman, N. and Myhill, J., 1978. “Choice implies excluded middle,” *Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik* , 24(25–30): 461.
 [^grattan-guinness-2012]: Grattan-Guinness, I., 2012. “Jourdain, Russell and the axiom of choice: a new document,” *Russell: The Journal of the Bertrand Russell Archives*, 32(1): 69–74.
 [^grayson-1975]: Grayson, R.J., 1975. “A sheaf approach to models of set theory,” M.Sc. Thesis, Mathematics Department, Oxford University.
 [^halpern-1971]: Halpern, , J.D. and Levy, A., 1971. “The Boolean prime ideal theorem does not imply the axiom of choice,” *Axiomatic Set Theory*, Proceedings of Symposia in Pure Mathematics, Vol. XIII, Part I. American Mathematical Society, pp. 83–134.
@@ -446,7 +446,7 @@ ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {
 [^jacobs-1999]: Jacobs, B., 1999. *Categorical Logic and Type Theory*, Amsterdam: Elsevier.
 [^jech-1973]: Jech, T., 1973. *The Axiom of Choice*, Amsterdam: North-Holland.
 [^kelley-1950]: Kelley, J.L., 1950. “The Tychonoff product theorem implies the axiom of choice,” *Fundamenta Mathematicae*, 37: 75–76.
-[^klimovsky-1958]: Klimovsky, G., 1958. “El teorema de Zorn y la existencia de filtros a ideales maximales en los reticulados distributivos,” *Revista de la Union Matematica Argentina*, 18: 160–64.
+[^klimovsky-1958]: Klimovsky, G., 1958. “El teorema de Zorn y la existencia de filtros a ideales maximales en los reticulados distributivos,” *Revista de la Union Matematica Argentina* , 18: 160–64.
 [^kuratowski-1922]: Kuratowski, K., 1922. “Une méthode d’élimination des nombres transfinis des raissonements mathématiques,” *Fundamenta Mathematicae*, 3: 76–108.
 [^lawvere-2003]: Lawvere, F. W. and Rosebrugh, R., 2003. *Sets for Mathematics*, Cambridge: Cambridge University Press.
 [^lindenbaum-1938]: Lindenbaum, A., and Mostowski, A., 1938. “Über die Unabhängigkeit des Auswahlsaxioms und einiger seiner Folgerungen,” *Comptes Rendus des Séances de la Société des Sciences et des Lettres de Varsovie*, 31: 27–32.
@@ -497,7 +497,7 @@ ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {
 
 ## 相关词条
 
-范畴论 | 库尔特·哥德尔 | 直觉主义逻辑的发展 | 直觉主义逻辑 | 构造数学 | 集合论：构造主义和直觉主义 | 策梅洛的公理化集合论 | *建构主义——见类型论：直觉主义类型论
+范畴论 | 库尔特·哥德尔 | 直觉主义逻辑的发展 | 直觉主义逻辑 | 构造数学 | 集合论：构造主义和直觉主义 | 策梅洛的公理化集合论 | 直觉主义类型论
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 

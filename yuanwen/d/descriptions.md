@@ -37,7 +37,9 @@ and a sentence like (3) containing a definite description is understood to have 
 
 Boiled down to its simplest non-technical form, the idea is that an expression of the form in (3) is shorthand for the conjunction of three claims:
 
-> (3a) There is an *F*. (3b) At most one thing is *F*. (3c) Something that is *F* is *G*.
+> (3a) There is an *F*.
+> (3b) At most one thing is *F*.
+> (3c) Something that is *F* is *G*.
 
 (Following Neale (1990) we will find it useful to substitute (3c′) for (3c), which retains Russell’s truth conditions and (as we will see) allows us to extend the theory to plural descriptions in a natural way.)
 
@@ -177,7 +179,8 @@ Kripke discussed this possibility briefly in the Preface to (1980), holding that
 
 Another possibility (considered in Nelson (2002)) would be to argue that names are “rigidified descriptions” (i.e., descriptions like ‘The individual who actually was a student of Plato, taught Alexander, etc.’ or perhaps rigidified causal descriptions. This general strategy is criticized by Soames (2002; ch. 2), who argues that ‘the actual *F* is *G*’ and ‘*n* is *G*’, where *n* is a name, do not express the same proposition. The argument for this turns on cases where these expressions are embedded in propositional attitude environments, as in (14a) and (14b).
 
-> (14a) Smith believes that *n* is *G*. (14b) Smith believes that the actual *F* is *G*.
+> (14a) Smith believes that *n* is *G*.
+> (14b) Smith believes that the actual *F* is *G*.
 
 According to Soames, there are contexts of utterance and worlds of evaluation where (14a) is true but (14b) is false. Accordingly, ‘the actual *F* is *G*’ and ‘*n* is *G*’ cannot express the same proposition. Hence names cannot be rigidified descriptions. See Nelson (2002) for a response to this argument. (Accounts of rigidified descriptions have been offered elsewhere, see for example Zalta (1988; chapter 5), but typically not as a way to account for the behavior of descriptions in propositional attitude environments.)
 
@@ -267,7 +270,8 @@ Notice that the first sentence doesn’t introduce uniqueness, so the pronoun in
 
 Of course, none of this is to say that solving this problem will close the book on the analysis of descriptive pronouns. A number of other puzzles remain, including the problem of pronominal contradiction, which has been discussed by Strawson (1952), Davies (1981), Ludlow and Neale (1991), and van Rooy (2001) among many others. Consider the following brief dialogue.
 
-> A: A man fell in front of the train. B: He didn’t fall, he was pushed.
+> A: A man fell in front of the train.
+> B: He didn’t fall, he was pushed.
 
 The problem is that if the pronoun is to have its descriptive content recovered from previous discourse, the pronoun ‘He’ is going to stand proxy for a description like ‘the man who fell in front of the train’ or ‘a man who fell in front of the train’. Here, considerations about uniqueness implications are of little help. One possibility, advocated by Davies (1981) and Ludlow and Neale (1991) is to say that speaker B is engaged in a kind of pretense—playing along with speaker A, as if saying with scare quotes something like B′.
 

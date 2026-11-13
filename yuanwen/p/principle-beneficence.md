@@ -220,7 +220,7 @@ capability approach | consequentialism | cosmopolitanism | ethics, biomedical: j
 
 [^donaldson-1995]: Donaldson, Thomas J., and Preston, L. E., 1995, “The Stakeholder Theory of the Corporation: Concepts, Evidence, and Implications,”*Academy of Management Review*, 20: 65–91.
 
-[^dworkin-2017]: Dworkin, Gerald, “Paternalism,” *The Stanford Encyclopedia of Philosophy*(Winter 2017 Edition), Edward N. Zalta (ed.), URL <https://plato.stanford.edu/archives/win2017/entries/paternalism/>.
+[^dworkin-2017]: Dworkin, Gerald, “Paternalism,” *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL <https://plato.stanford.edu/archives/win2017/entries/paternalism/>.
 
 [^egonsson-1999]: Egonsson, Dan, 1999, “Local Solidarity,” *Ethical Theory and Moral Practice*, 2: 149–58.
 

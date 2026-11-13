@@ -41,7 +41,8 @@ C.D. Broad described McTaggart, who was his director of studies at Cambridge (Re
 
 He was on most accounts an unusual fellow, with a big head and a crab-like walk (Rochelle 1991, 97)[^rochelle-1991]. Peter Geach (1971, 10) reports that, “To the end of his days he walked down corridors with a curious shuffle, back to the wall, as if expecting a sudden kick from behind.” Unlike F.H. Bradley, whose feline-directed nocturnal activities were not so benign, McTaggart saluted cats whenever he met them (Dickinson 1931, 68; Rochelle 1991, 97)[^dickinson-1931][^rochelle-1991]. (F.H. Bradley preferred to shoot cats; see the entry on F. H. Bradley.) His preferred method of transportation was a tricycle, a fact which led a Cambridge paper to publish the following poem about him:
 
-> Philosopher, your head is all askew; your gait is not majestic in the least; you ride three wheels, where other men ride two; Philosopher, you are a funny beast.
+> Philosopher, your head is all askew; your gait is not majestic in the least;
+> you ride three wheels, where other men ride two; Philosopher, you are a funny beast.
 
 McTaggart was delighted by this poem.[^note-6]
 

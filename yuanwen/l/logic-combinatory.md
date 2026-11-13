@@ -199,7 +199,7 @@ Incidentally, the notion of free variables is straightforwardly definable now: $
 
 All terms are interpreted as functions, and combinators are functions too. Similarly, to some numerical and geometrical functions, that can be described and grasped easily, the combinators that are frequently encountered can be characterized as perspicuous transformations on terms. (Sans serif letters denote combinators and $\mathbin{\triangleright_1}$ denotes *one-step reduction*.)
 
-Definition. (Axioms of some well-known combinators)
+**Definition. (Axioms of some well-known combinators)**
 
 | $\textsf{S}xyz \mathbin{\triangleright_1} xz(yz)$ | $\textsf{K}xy \mathbin{\triangleright_1} x$ | $\textsf{I}x \mathbin{\triangleright_1} x$ |
 | --- | --- | --- |
@@ -211,7 +211,7 @@ These axioms tacitly specify the *arity* of a combinator as well as their *reduc
 
 These informal explications did not mention any restrictions on the sort of functions $x,y,z,f,g,\ldots$ may be. However, the axioms above limit the applicability of the combinators to variables. Intuitively, we would like to say that given any terms, that is, any functions $M$ and $N$, $\textsf{W}MN$ one-step reduces to $MNN$ (possibly, as a subterm of another term). For example, $M$ may be $\textsf{K}$ and $N$ may be $yy$, and then $\textsf{WK}(yy)\triangleright_1\textsf{K}(yy) (yy)$. The latter term suggests a further one-step reduction, and indeed we might be interested in successive one-step reductions—such as those leading from $\textsf{WK}(yy)$ to $yy$. A way to achieve these goals is to formalize (a theory of) CL starting with the standard *inequational logic* but to omit the anti-symmetry rule and to add certain other axioms and rules.
 
-Inequational Calculus for CL ($\text{CL}_\triangleright$).
+**Inequational Calculus for CL** ($\text{CL}_\triangleright$).
 
 | $M\triangleright M$ | $\textsf{S}MNP\triangleright MP(NP)$ | $\quad\textsf{K}MN\triangleright M$ |
 | --- | --- | --- |
@@ -227,7 +227,7 @@ The notion of reduction is a weaker relation than one-step reduction, and so it 
 
 Reduction is arguably an important relation between terms that denote functions. The typical steps in a program execution and in other concrete calculations are function applications rather than moves in the other direction, what is called *expansion*. However, the notion of the equality of functions is familiar to everybody from mathematics, and the analogous notion has been introduced in CL too. The transitive, reflexive, symmetric closure of the one-step reduction relation is called (weak) *equality*. A formalization of equational CL may be obtained by extending the standard equational logic with combinatory axioms and rules characterizing the combinatory constants and the application operation.
 
-Equational Calculus for CL ($\text{CL}_=$).
+**Equational Calculus for CL** ($\text{CL}_=$).
 
 | $M=M$ | $\textsf{K}MN=M$ | $\quad\textsf{S}MNP=MP(NP)\quad$ |   |
 | --- | --- | --- | --- |
@@ -247,7 +247,7 @@ $$ \frac{Mx\ddagger Nx}{M\ddagger N} \text{ where } x \text{ is not free in } MN
 
 The calculuses $\text{CL}_\triangleright$ and $\text{CL}_=$ of the previous section formalize reduction and equality. However, $\triangleright$ and $=$ have some further properties that are important when the terms are thought to stand for functions. The next theorem is one of the earliest and best-known results about CL.
 
-Church–Rosser theorem (I). If $M$ reduces to $N$ and $P$, then there is a term $Q$ to which both $N$ and $P$ reduce.
+**Church–Rosser theorem (I).** If $M$ reduces to $N$ and $P$, then there is a term $Q$ to which both $N$ and $P$ reduce.
 
 *Figure 1.*
 
@@ -263,7 +263,7 @@ The combinatory terms $\textsf{WWW}$ and $\textsf{WI}(\textsf{WI})$ are, perhaps
 
 The Church–Rosser theorem is often stated as follows.
 
-Church–Rosser theorem (II). If $N$ and $P$ are equal, then there is a term $Q$ to which both $N$ and $P$ reduces.
+**Church–Rosser theorem (II).** If $N$ and $P$ are equal, then there is a term $Q$ to which both $N$ and $P$ reduces.
 
 *Figure 2.*
 
@@ -303,13 +303,13 @@ $\triangleright_1^*\subseteq\triangleright^*\quad \textrm{ and }\quad\triangleri
 
 The central property of $\triangleright_\textrm{sr}$ that we need is the content of the following theorem.
 
-Theorem. (Diamond property for $\triangleright_\textrm{sr}$) If $M\triangleright_\textrm{sr}N$ and $M\triangleright_\textrm{sr}P$ then there is a term $Q$ such that both $N\triangleright_\textrm{sr}Q$ and $P\triangleright_\textrm{sr}Q$.
+**Theorem. (Diamond property for** $\triangleright_\textrm{sr}$) If $M\triangleright_\textrm{sr}N$ and $M\triangleright_\textrm{sr}P$ then there is a term $Q$ such that both $N\triangleright_\textrm{sr}Q$ and $P\triangleright_\textrm{sr}Q$.
 
 The proof of this theorem is an easy induction on the term $M$. The properties of $\triangleright_\textrm{sr}$ guarantee that one or more one-step reductions can be performed at once, but the reductions cannot interfere (or overlap) with each other.
 
 The *consistency* of CL follows from the Church–Rosser theorem together with the existence of (at least two) distinct normal forms.
 
-Theorem. (Consistency) CL is consistent, that is, there are terms that do not reduce to each other, hence they are not equal.
+**Theorem. (Consistency)** CL is consistent, that is, there are terms that do not reduce to each other, hence they are not equal.
 
 Not all terms have an nf, however, many do. Examples, first of all, include $\textsf{S}$ and $\textsf{K}$. (The variables, if included, of which there are $\aleph_0$ many, are all in nf.) None of these terms contains a redex, hence each reduces only to itself. By the Church–Rosser theorem, it is excluded that some term $M$ could reduce to both $x$ and $\textsf{S}$ (making $\textsf{S}$ equal to $x$).
 
@@ -352,7 +352,7 @@ The definitions are easily seen to imply that all these combinators depend on bo
 
 If the fixed point combinator $\textsf{Y}$ is not taken to be a primitive, then there are various ways to define it—so far, we have listed three.
 
-Fixed point theorem. For any function $M$, there is a term $N$ such that $MN = N$.
+**Fixed point theorem.** For any function $M$, there is a term $N$ such that $MN = N$.
 
 The proof of this theorem is easy using a fixed point combinator, because a term that can play the rôle of $N$ is $\textsf{Y}M$.
 
@@ -366,7 +366,7 @@ $$ \textsf{Y}_1=\textsf{BM}(\textsf{BWB}) \quad \textsf{Y}_2=\textsf{W}(\textsf{
 
 The fixed point theorem demonstrates—to some extent—the expressive power of CL. However, fixed point combinators may be defined from bases without a cancellator (as $\textsf{Y}_1$ and $\textsf{Y}_2$ show). The full power of CL (with the base $\{\textsf{S},\textsf{K}\}$) is enunciated by the following theorem.
 
-Theorem. (Combinatorial completeness) If $f(x_1,\ldots,x_n)= M$ (where $M$ is a term containing no other variables than those explicitly listed), then there is a combinator $\textsf{X}$ such that $\textsf{X} x_1\ldots x_n$ reduces to $M.$
+**Theorem. (Combinatorial completeness)** If $f(x_1,\ldots,x_n)= M$ (where $M$ is a term containing no other variables than those explicitly listed), then there is a combinator $\textsf{X}$ such that $\textsf{X} x_1\ldots x_n$ reduces to $M.$
 
 The theorem’s assumption may be strengthened to exclude the possibility that some occurrences of $x$ do not occur in $M$. Then the consequent may be strengthened by adding the qualification that $\textsf{X}$ is a relevant combinator, more specifically, $\textsf{X}$ is a combinator over $\{\textsf{B},\textsf{W}, \textsf{C},\textsf{I}\}$ (a base that does not contain a combinator with cancellative effect), or equivalently, $\textsf{X}$ is a combinator over $\{\textsf{I},\textsf{J}\}$. (These bases correspond to Church’s preferred $\lambda\textsf{I}$-calculus.)
 
@@ -413,13 +413,13 @@ The two styles of typing have quite a lot in common, but there are certain diffe
 
 There is no one-one correspondence between types and combinators in either style of typing: not all combinators can be assigned a type, and some implicational formulas cannot be assigned to any combinatory term. A combinator that can be assigned a type is said to be *typable*, and a type that can be assigned to a combinator is said to be *inhabited*. For instance, $\textsf{M}$ has no (simple) type, because an implicational formula is never identical to its own antecedent. On the other hand, Peirce’s law, $((A\rightarrow B)\rightarrow A) \rightarrow A$ is not the type of any combinator in the type assignment system TA$_\textrm{CL}$. Despite (or, indeed, due to) the discrepancy between implicational formulas and combinatory terms, classes of implicational formulas that can be assigned to certain sets of combinatory terms coincide with sets of theorems of some important logics.
 
-Theorem. $A\rightarrow B$ is a theorem of the intuitionistic implicational logic, denoted by $IPC_\rightarrow$ or $J_\rightarrow$, iff for some $M$, $M\colon A\rightarrow B$ is a provable type assignment in TA$_\textrm{CL}$, where the term $M$ is built from $\textsf{S}$ and $\textsf{K}$, that is, $M$ is a combinator over the base $\{\textsf{S},\textsf{K}\}$.
+**Theorem.** $A\rightarrow B$ is a theorem of the intuitionistic implicational logic, denoted by $IPC_\rightarrow$ or $J_\rightarrow$, iff for some $M$, $M\colon A\rightarrow B$ is a provable type assignment in TA$_\textrm{CL}$, where the term $M$ is built from $\textsf{S}$ and $\textsf{K}$, that is, $M$ is a combinator over the base $\{\textsf{S},\textsf{K}\}$.
 
 A combinator that inhabits an implicational theorem encodes a *proof* of that theorem in the deduction system TA$_\textrm{CL}$. There is an algorithm to recover the formulas that constitute a proof of the type of the combinator, moreover, the algorithm produces a proof that is minimal and well-structured. The correspondence between implicational theorems of intuitionistic logic (and their proofs) and typable closed $\lambda$-terms (or combinators) is called the *Curry–Howard isomorphism*. The usual notion of a proof in a Hilbert-style axiomatic system is quite lax, but it can be tidied up to obtain the notion of *traversing proofs*. In a traversing proof there is a one-one correspondence between subterms of a combinator and the formulas in the traversing proof as well as between applications and detachments therein (cf. Bimbó 2007)[^bimbó-2007].
 
 The above correspondence can be modified for other implicational logics and combinatory bases. The next theorem lists correspondences that obtain between the implicational fragments of the relevance logics $R$ and $T$ and some combinatory bases that are of interest in themselves.
 
-> Theorem. $A\rightarrow B$ is a theorem of $R_{\rightarrow}$ (or $T_{\rightarrow}$) iff for some $M$, $M\colon A\rightarrow B$ is a provable type assignment where $M$ is a combinator over $\{\textsf{B}, \textsf{I},\textsf{W},\textsf{C}\}$ (or over $\{\textsf{B},\textsf{B}^\prime, \textsf{I},\textsf{S},\textsf{S}^\prime\}$).
+> **Theorem.** $A\rightarrow B$ is a theorem of $R_{\rightarrow}$ (or $T_{\rightarrow}$) iff for some $M$, $M\colon A\rightarrow B$ is a provable type assignment where $M$ is a combinator over $\{\textsf{B}, \textsf{I},\textsf{W},\textsf{C}\}$ (or over $\{\textsf{B},\textsf{B}^\prime, \textsf{I},\textsf{S},\textsf{S}^\prime\}$).
 
 The calculus $\textrm{TA}_\textrm{CL}$ may be amended by adding axiom schemas for the combinators in the two bases. (The axiom schemas of the combinators that are not in these bases may be omitted from the calculus or simply may be neglected in proofs.) The *new axioms* are as follows.
 
@@ -429,7 +429,7 @@ The combinatory base $\{\textsf{B},\textsf{C},\textsf{W},\textsf{I}\}$ is especi
 
 A type assignment has two parts: a *term* and a *formula*. The questions whether some term can be assigned a type and whether some type can be assigned to a term are the problems of *typability* and of *inhabitation*, respectively. Although these questions may be posed about one and the same set of type assignments, the computational properties of these problems may differ widely.
 
-Theorem. It is decidable if a term $M$ can be assigned a type, that is, if $M$ is typable.
+**Theorem.** It is decidable if a term $M$ can be assigned a type, that is, if $M$ is typable.
 
 The theorem is stated in a rather general way without specifying exactly which combinatory base or which modification of TA$_\textrm{CL}$ is assumed, because the theorem holds for any combinatory base. Indeed, there is an algorithm that given a combinator decides if the combinator is typable, and for a typable combinator produces a type too. Of course, in the combinatorially complete base $\{\textsf{S},\textsf{K}\}$ all the combinators are expressible as terms consisting of these two combinators only. However, this assumption is not needed for a solution of typability, though it might provide an explanation for the existence of a general algorithm.
 
@@ -443,15 +443,15 @@ $$ p\rightarrow(q\rightarrow(q\rightarrow q\rightarrow q)\rightarrow(q \rightarr
 
 $\textsf{SKK}$ can be assigned the type $p\rightarrow p$. There is a proof in TA$_\textrm{CL}$ ending in $\textsf{SKK}\colon p\rightarrow p$ that does not contain the long formula above. However, there is a proof of $\textsf{SKK}\colon p\rightarrow p$ that contains the above formula the second antecedent of which is not a subformula of $p\rightarrow p$, indeed, the sets of the subformulas of the two formulas are disjoint. (We picked two different propositional variables, $p$ and $q$ to emphasize this point.) Some important cases of the problem of inhabitation, however, are decidable.
 
-Theorem. It is decidable if a type has an inhabitant over the base $\{\textsf{S},\textsf{K}\}$.
+**Theorem.** It is decidable if a type has an inhabitant over the base $\{\textsf{S},\textsf{K}\}$.
 
 This theorem amounts to the typed version of the decidability of the implicational fragment of *intuitionistic logic* that is part of Gentzen’s decidability result (dating from 1935).
 
-Theorem. It is decidable if a type has an inhabitant over the base $\{\textsf{I},\textsf{C},\textsf{B}^\prime,\textsf{W}\}$.
+**Theorem.** It is decidable if a type has an inhabitant over the base $\{\textsf{I},\textsf{C},\textsf{B}^\prime,\textsf{W}\}$.
 
 The theorem is the typed equivalent of the decidability of the implicational fragment of the logic of *relevant implication*. The decidability of $R_{\rightarrow}$ was proved by Saul A. Kripke in 1959 together with the decidability of the closely related $E_{\rightarrow}$ (the implicational fragment of the *logic of entailment*).
 
-Theorem. It is decidable if a type has an inhabitant over the base $\{\textsf{B},\textsf{B}^\prime,\textsf{I},\textsf{W}\}$.
+**Theorem.** It is decidable if a type has an inhabitant over the base $\{\textsf{B},\textsf{B}^\prime,\textsf{I},\textsf{W}\}$.
 
 the theorem is the typed version of the decidability of the implicational fragment of the logic of ticket entailment $T_\rightarrow$, that was proved—together with the decidability of $R_\rightarrow$ ($R_\rightarrow$ with the truth constant $t$) and $T_\rightarrow^\textbf{t}$ ($T_\rightarrow$ with the truth constant $t$)—in Bimbó and Dunn (2012) and Bimbó and Dunn (2013). An independent result (for $T_\rightarrow$ only) is in Padovani (2013), which extends Broda et al. (2004).
 
@@ -459,7 +459,7 @@ The decision procedures for $T_\rightarrow^\textbf{t}$ and $R_\rightarrow^\textb
 
 The rule of substitution is built-in into the formulation of $\textrm{TA}_\textrm{CL}$ via the rule *schema* called detachment and the axiom *schemas* for the basic combinators. It is obvious that there are formulas of *least complexity* that are types of $\textsf{S}$ and $\textsf{K}$, such that all the other types of $\textsf{S}$ and $\textsf{K}$ are their substitution instances. A formula that has this property is called a *principal type* of a combinator. Obviously, a combinator that has a principal type, has denumerably many principal types, which are all substitution instances of each other; hence, it is justified to talk about the *principal type schema* of a combinator. The existence of principal types for complex combinators is not obvious, nevertheless, obtains.
 
-Theorem. If the term $M$ is typable, then $M$ has a principal type and a principal type schema.
+**Theorem.** If the term $M$ is typable, then $M$ has a principal type and a principal type schema.
 
 Principal types and principal type schemas may seem now to be interchangeable everywhere. Thus we could take a slightly different approach and define $\textrm{TA}_\textrm{CL}$ to include axioms and the rule schema of detachment together with the *rule of substitution*. This version of $\textrm{TA}_\textrm{CL}$ would assume the following form.
 
@@ -487,7 +487,7 @@ Condensed detachment has been used extensively to refine axiomatizations of vari
 
 Simply typed systems have been extended in various directions. Logics often contain connectives beyond implication. It is a natural modification of a type assignment system to expand the set of types via including further *type constructors*. Conjunction and fusion are the easiest to explain or motivate as type constructors, however, disjunction and backward implication have been introduced into types too. Types are useful, because they allow us to get a grip on classes of terms from the point of view of their behavior with respect to reduction.
 
-Tait’s theorem. If a combinatory term $M$ is typable (with simple types) then $M$ strongly normalizes, that is, all reduction sequences of $M$ are finite (i.e., terminate).
+**Tait’s theorem.** If a combinatory term $M$ is typable (with simple types) then $M$ strongly normalizes, that is, all reduction sequences of $M$ are finite (i.e., terminate).
 
 The converse of this claim is, obviously, not true. For example, $\textsf{WI}$ strongly normalizes but untypable, because the antecedent of contraction cannot be unified with any instance of self-implication. The aim to extend the set of typable terms led to the introduction of $\land$ into types.
 
@@ -517,7 +517,7 @@ $$ \frac{\Delta\vdash M\colon A\quad\Delta\vdash M\colon B} {\Delta\vdash M\colo
 
 This type assignment system is equivalent to the intersection type assignment system for the $\lambda$-calculus, and it allows a more precise characterization of classes of terms with respect to the termination of reduction sequences.
 
-Theorem. (1) A term $M$ normalizes whenever $M$ is typable. (2) A term $M$ strongly normalizes whenever $M$ is typable and the proof does not contain $\top$.
+**Theorem.** (1) A term $M$ normalizes whenever $M$ is typable. (2) A term $M$ strongly normalizes whenever $M$ is typable and the proof does not contain $\top$.
 
 ## 4. Models
 
@@ -587,7 +587,7 @@ This semantics generalizes the possible worlds semantics for normal modal logics
 
 Relational semantics can be defined for $\text{CL}_=$ along similar lines. Then soundness and completeness—that is, the following theorem—obtains.
 
-Theorem. (1) An inequation $M\triangleright N$ is provable in $\text{CL}_\triangleright$ if and only if $v(M)\subseteq v(N)$ in any model for $\text{CL}_\triangleright.$ (2) An equation $M = N$ is provable in $\text{CL}_=$ if and only if $v(M)=v(N)$ in any model for $\text{CL}_=.$
+**Theorem.** (1) An inequation $M\triangleright N$ is provable in $\text{CL}_\triangleright$ if and only if $v(M)\subseteq v(N)$ in any model for $\text{CL}_\triangleright.$ (2) An equation $M = N$ is provable in $\text{CL}_=$ if and only if $v(M)=v(N)$ in any model for $\text{CL}_=.$
 
 Relational and operational semantics for systems of CL that include dual and symmetric combinators can be found in Bimbó (2004).
 

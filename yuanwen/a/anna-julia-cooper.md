@@ -187,7 +187,13 @@ In 1925, at the age of 66, Cooper earned a Ph.D. at the Sorbonne in Paris, Franc
 
 Cooper continued teaching at M Street High School until 1930. She also taught at Frelinghuysen University, holding the office of the president from 1930 to 1941. Over the decades various magazines and newspapers published several of her commentaries on the state of the race. Cooper lived to be 105 years old, residing in Washington D.C. until her death on February 27, 1964. Memorial services were held in Raleigh, North Carolina where she is buried. The cemetery gravestone reads:
 
-> Anna J. Cooper, Ph.D. 1859–1964 Educator, Author, Poet and School Administrator Early Advocate of Equal Rights For Blacks And Women A Graduate Of St. Augustine’s College Erected 1979.
+> Anna J. Cooper, Ph.D. 1859–1964
+> Educator, Author, Poet and
+> School Administrator
+> Early Advocate of Equal Rights
+> For Blacks And Women
+> A Graduate Of St. Augustine’s College
+> Erected 1979.
 
 ## References（引用注释）
 
@@ -428,7 +434,7 @@ Many thanks to Beverly Guy-Sheftall, Vivan M. May, Joycelyn Moody, Shirley Moody
 
 [^may-2008]: –––, 2008, “‘It Is Never A Question of the Slaves’: Anna Julia Cooper’s Challenge to History’s Silences in Her 1925 Sorbonne Thesis,” in *Callaloo*, 31 (3): 903–918.
 
-[^may-2012]: –––, 2012, “Historicizing Intersectionality as a Critical Lens: Returning to the Work of Anna Julia Cooper,” in *Interconnection: Gender and Race in American History,*Carol Faulkner and Alison Parker (eds.), Rochester, NY: University of Rochester Press, 17–48.
+[^may-2012]: –––, 2012, “Historicizing Intersectionality as a Critical Lens: Returning to the Work of Anna Julia Cooper,” in *Interconnection: Gender and Race in American History,* Carol Faulkner and Alison Parker (eds.), Rochester, NY: University of Rochester Press, 17–48.
 
 [^may-2014]: –––, 2014, “Anna Julia Cooper: Black Feminist Scholar, Educator, and Activist,” in *North Carolina Women: Their Lives and Times*, Michele Gillespie and Sally G. McMillen (eds.), Athens: University of Georgia Press, 192–212.
 

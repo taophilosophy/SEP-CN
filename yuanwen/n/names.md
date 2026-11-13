@@ -479,7 +479,7 @@ analytic/synthetic distinction | *a priori* justification and knowledge | extern
 
 [^gray-2017]: –––, 2017, “Names in Strange Places”, *Linguistics and Philosophy*, 40(5): 429–472. doi:10.1007/s10988-017-9205-z
 
-[^grice-1975]: Grice, H. Paul, 1975, “Logic and Conversation”, in*Syntax and Semantics, Volume 3: Speech Acts*, Peter Cole and Jerry L. Morgan (eds), New York: Academic Press, 41–58.
+[^grice-1975]: Grice, H. Paul, 1975, “Logic and Conversation”, in *Syntax and Semantics, Volume 3: Speech Acts*, Peter Cole and Jerry L. Morgan (eds), New York: Academic Press, 41–58.
 
 [^haas-spohn-1995]: Haas-Spohn, Ulrike, 1995, *Versteckte Indexikalität und subjektive Bedeutung*, Berlin: Akademie Verlag. doi:10.1515/9783050071695
 

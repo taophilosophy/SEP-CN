@@ -91,11 +91,15 @@ While one can present a definitive number of types of suggestion (Abhinavagupta 
 
 As an example of the first type, Ānandavardhana cites love poetry written by the Buddhist philosopher Dharmakīrti (ca 6ᵗʰ to 7ᵗʰ century CE, see the entry on Dharmakīrti). The poem describes images of birds and fruit which are meant to be taken literally. However, these images are juxtaposed in a way which suggests an additional sense consistent with the romantic tone of the poem. There is no explicit comparison between the images, but the comparison is suggested. This kind of suggestion is something like the phenomenon in Ezra Pound’s famous imagist poem, “In a Station of a Metro”
 
-> The apparition of these faces in the crowd; Petals on a wet, black bough. (Pound 1913)[^pound-1913]
+> The apparition of these faces in the crowd;
+> Petals on a wet, black bough. (Pound 1913)[^pound-1913]
 
 There is no linguistic *metaphor* in the sense of an explicit predication between two things, such as faces and petals. However, the reader understands an implicit comparisons between the two images. Thus there is both primary and suggested meaning. Other times, Ānandavardhana says, the speaker intends only to convey a suggested meaning, so the primary meaning may be entirely replaced or set aside in some manner. For example, in this passage from the *Rāmāyaṇa*, the phrase “blinded” is not being used in a primary sense, but in a suggestive manner:
 
-> The sun has stolen our affection for the moon, whose circle is now dull with frost and like a mirror blinded by breath, shines no more. (DL: 209)
+> The sun has stolen our affection for the moon,
+> whose circle is now dull with frost
+> and like a mirror blinded by breath,
+> shines no more. (DL: 209)
 
 Since a mirror cannot, strictly speaking, be made blind—breath merely fogs it—this is a case where the speaker intends what is suggested to replace the primary meaning.
 

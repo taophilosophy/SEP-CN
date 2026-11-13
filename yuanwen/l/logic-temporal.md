@@ -102,10 +102,10 @@ In this section, we discuss the language, semantics, and axiomatization of the b
 
 The basic language of Prior’s Tense Logic TL extends the standard propositional language (with atomic propositions and truth-functional connectives) by four temporal operators with intended meaning as follows:
 
-- $P$: “It was (at some point in the Past) the case that …”
-- $F$: “It will (at some point in the Future) be the case that …”
-- $H$: “It Has always been the case that …”
-- $G$: “It is always Going to be the case that …”
+- $P$: “It was (at some point in the **P**ast) the case that …”
+- $F$: “It will (at some point in the **F**uture) be the case that …”
+- $H$: “It **H**as always been the case that …”
+- $G$: “It is always **G**oing to be the case that …”
 
 For example, “It will always be the case that Prior invented Tense Logic” translates in TL as $GP(\mathsf{Prior\ invents\ TL})$, which can be glossed as “It is always going to be the case that it was the case that Prior invents Tense Logic”. Formulae not containing temporal operators are considered present tensed.
 

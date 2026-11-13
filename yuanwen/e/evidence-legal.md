@@ -620,7 +620,7 @@ When evidence is excluded under Rule 403, it is notwithstanding that it is legal
 
 [^roberts-2014]: Roberts, P. and C. Aitken, 2014, *The Logic of Forensic Proof: Inferential Reasoning in Criminal Evidence and Forensic Science*, London: Royal Statistical Society. [[Roberts and Aitken 2014 available online](http://www.rss.org.uk/Images/PDF/influencing-change/rss-inferential-reasoning-criminal-evidence-forensic-science.pdf)]
 
-[^roberts-2010]: Roberts, P. and A. Zuckerman, 2010, *Criminal Evidence*, Oxford: Oxford University Press, 2ⁿᵈ edition.
+[^roberts-2010]: Roberts, P. and A. Zuckerman, 2010, *Criminal Evidence* , Oxford: Oxford University Press, 2ⁿᵈ edition.
 
 [^robertson-1995]: Robertson, B. and G. Vignaux, 1995, *Interpreting Evidence: Evaluating Forensic Science in the Courtroom*, Chichester: John Wiley.
 

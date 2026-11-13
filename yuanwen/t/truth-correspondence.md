@@ -146,19 +146,23 @@ Some correspondence theories of truth are two-liner mini-theories, consisting of
 
 One can approach this by considering some general principles a correspondence theory might want to add to its central principle to flesh out her theory. The first such principle says that the correspondence relation must not collapse into identity—“It takes two to make a truth” (Austin 1950, p. 118)[^austin-1950]:
 
-> *Nonidentity:* No truth is identical with a fact correspondence to which is sufficient for its being a truth.
+> *Nonidentity:*
+> No truth is identical with a fact correspondence to which is sufficient for its being a truth.
 
 It would be much simpler to say that no truth is identical with a fact. However, some authors, e.g. Wittgenstein 1921, hold that a proposition (*Satz*, his truthbearer) is itself a fact, though not the same fact as the one that makes the proposition true (see also King 2007)[^king-2007]. Nonidentity is usually taken for granted by correspondence theorists as constitutive of the very idea of a correspondence theory—authors who advance contrary arguments to the effect that correspondence must collapse into identity regard their arguments as objections to any form of correspondence theory (cf. Moore 1901/02, Frege 1918-19, p. 60)[^frege-1918][^moore-1901].
 
 Concerning the correspondence relation, two aspects can be distinguished: *correspondence as correlation* and *correspondence as isomorphism* (cf. Pitcher 1964; Kirkham 1992, chap. 4)[^kirkham-1992][^pitcher-1964]. Pertaining to the first aspect, familiar from mathematical contexts, a correspondence theorist is likely to adopt claim (*a*), and some may in addition adopt claim (*b*), of:
 
-> *Correlation:* (*a*) Every truth corresponds to exactly one fact; (*b*) Different truths correspond to different facts.
+> *Correlation:*
+> (*a*) Every truth corresponds to exactly one fact;
+> (*b*) Different truths correspond to different facts.
 
 Together, (*a*) and (*b*) say that correspondence is a one-one relation. This seems needlessly strong, and it is not easy to find real-life correspondence theorists who explicitly embrace part (*b*): Why shouldn’t different truths correspond to the same fact, as long as they are not too different? Explicit commitment to (*a*) is also quite rare. However, correspondence theorists tend to move comfortably from talk about a given truth to talk about *the* fact it corresponds to—a move that signals commitment to (*a*).
 
 Correlation does not imply anything about the inner nature of the corresponding items. Contrast this with correspondence as *isomorphism*, which requires the corresponding items to have the same, or sufficiently similar, constituent structure. This aspect of correspondence, which is more prominent (and more notorious) than the previous one, is also much more difficult to make precise. Let us say, roughly, that a correspondence theorist may want to add a claim to her theory committing her to something like the following:
 
-> *Structure:* If an item of kind K corresponds to a certain fact, then they have the same or sufficiently similar structure: the overall correspondence between a true K and a fact is a matter of part-wise correspondences, i.e. of their having corresponding constituents in corresponding places in the same structure, or in sufficiently similar structures.
+> *Structure:*
+> If an item of kind K corresponds to a certain fact, then they have the same or sufficiently similar structure: the overall correspondence between a true K and a fact is a matter of part-wise correspondences, i.e. of their having corresponding constituents in corresponding places in the same structure, or in sufficiently similar structures.
 
 The basic idea is that truthbearers and facts are both complex structured entities: truthbearers are composed of (other truthbearers and ultimately of) words, or concepts; facts are composed of (other facts or states of affairs and ultimately of) things, properties, and relations. The aim is to show how the correspondence relation is generated from underlying relations between the ultimate constituents of truthbearers, on the one hand, and the ultimate constituents of their corresponding facts, on the other. One part of the project will be concerned with these correspondence-generating relations: it will lead into a theory that addresses the question how simple words, or concepts, can be *about* things, properties, and relations; i.e., it will merge with semantics or psycho-semantics (depending on what the truthbearers are taken to be). The other part of the project, the specifically ontological part, will have to provide identity criteria for facts and explain how their simple constituents combine into complex wholes. Putting all this together should yield an account of the conditions determining which truthbearers correspond to which facts.
 

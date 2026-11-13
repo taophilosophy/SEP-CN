@@ -36,7 +36,8 @@ The class of *measure polynomial functors* is the smallest class of functors on 
 
 This result is not quite what we want in the formalization of universal type spaces. For one thing, there are no “players” around. We'll discuss matters for the case of two players; the more general case is basically the same. We repeat our earlier definition of a two-player type space: it is a tuple (*M*, σ, N, τ), where *M* and *N* are measurable spaces, and
 
-> *σ*   :  *M* → Δ(*S* × *N*) *τ*   :  *N* → Δ(*S* × *M*)
+> *σ*   :  *M* → Δ(*S* × *N*)
+> *τ*   :  *N* → Δ(*S* × *M*)
 
 Now we first of all want to reformulate this in terms of coalgebras. We fix *S* and take as our category *C* the category of pairs (*M*, *C*) of measurable spaces, with a morphism from (*M*₁, *N*₁) to (*M*₂, *N*₂) just being a pair of morphisms (*f*, *g*), where *f*   :  *M*₁ → *M*₂ and *g*   :  *N*₁ → *N*₂ We have an endofunctor *Δ*   :  *C* → *C* given by
 

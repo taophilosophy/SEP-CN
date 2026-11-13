@@ -471,7 +471,7 @@ affirmative action | Arendt, Hannah | colonialism | democracy | Dewey, John: pol
 
 [^honig-1995]: ––– (ed.), 1995, *Feminist Interpretations of Hannah Arendt*, (Re-Reading the Canon), University Park, PA: Pennsylvania State University Press.
 
-[^honig-1995b]: –––, 1995b, “Toward an Agonistic Feminism: Hannah Arendt and the Politics of Identity”, in *Feminist Interpretations of Hannah Arendt,*Re-Reading the Canon), Bonnie Honig (ed.), University Park, PA: Pennsylvania State University Press.
+[^honig-1995b]: –––, 1995b, “Toward an Agonistic Feminism: Hannah Arendt and the Politics of Identity”, in *Feminist Interpretations of Hannah Arendt,* Re-Reading the Canon), Bonnie Honig (ed.), University Park, PA: Pennsylvania State University Press.
 
 [^honig-2001]: –––, 2001, *Democracy and the Foreigner*, Princeton, NJ: Princeton University Press.
 
@@ -635,7 +635,7 @@ affirmative action | Arendt, Hannah | colonialism | democracy | Dewey, John: pol
 
 [^narayan-2000]: Narayan, Uma and Sandra Harding (eds), 2000, *Decentering the Center: Philosophy for a Multicultural, Postcolonial, and Feminist World*, Bloomington, IN: Indiana University Press.
 
-[^nedelsky-2005]: Nedelsky, Jennifer, 2005, *Law, Autonomy, and the Relational Self: A Feminist Revisioning of the Foundations of Law,*Oxford: Oxford University Press.
+[^nedelsky-2005]: Nedelsky, Jennifer, 2005, *Law, Autonomy, and the Relational Self: A Feminist Revisioning of the Foundations of Law,* Oxford: Oxford University Press.
 
 [^nussbaum-1995]: Nussbaum, Martha C., 1995, “Human Capabilities, Female Human Beings”, in *Women, Culture, and Development: A Study of Human Capabilities*, Martha C. Nussbaum and Jonathan Glover (eds), Oxford: Clarendon Press, 61–104. doi:10.1093/0198289642.003.0003
 
@@ -739,7 +739,7 @@ affirmative action | Arendt, Hannah | colonialism | democracy | Dewey, John: pol
 
 [^taylor-2017]: ––– (ed.), 2017, *How We Get Free: Black Feminism and the Combahee River Collective*, Chicago, IL: Haymarket.
 
-[^threadcraft-2016]: Threadcraft, Shatema, 2016, *Intimate Justice: The Black Female Body and the Body Politic,*Oxford: Oxford University Press.
+[^threadcraft-2016]: Threadcraft, Shatema, 2016, *Intimate Justice: The Black Female Body and the Body Politic,* Oxford: Oxford University Press.
 
 [^tronto-1993]: Tronto, Joan C., 1993, *Moral Boundaries: A Political Argument for an Ethic of Care*, New York/London: Routledge. doi:10.4324/9781003070672
 

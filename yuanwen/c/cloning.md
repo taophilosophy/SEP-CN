@@ -188,7 +188,7 @@ donation of human organs | ethics, biomedical: stem cell research | eugenics | f
 
 [^american-1999]: American Medical Association, AMA, (1999), *Report of the Council on Ethical and Judicial Affairs*, American Medical Association.
 
-[^annas-1998]: Annas, G., 1998, “The prospect of human cloning: an opportunity for national and international cooperation,” in *Human Cloning: Biomedical Ethical Reviews*, J. Humber and R. Almeder (eds.), New Jersey: Humana Press.
+[^annas-1998]: Annas, G., 1998, “The prospect of human cloning: an opportunity for national and international cooperation,” in *Human Cloning: Biomedical Ethical Reviews* , J. Humber and R. Almeder (eds.), New Jersey: Humana Press.
 
 [^asch-2005]: Asch, A. and Wasserman, D., 2005, “Where is the sin in synecdoche,” in *Quality of life and human difference: genetic testing, health care*, *and disability*, D. Wasserman, R.S. Wachbroit, and J.E. Bickenbach (eds.), New York: Cambridge University Press.
 

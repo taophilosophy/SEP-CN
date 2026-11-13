@@ -133,7 +133,7 @@ Bentham, Jeremy | law: and language | legal obligation and authority | naturalis
 
 [^bentham-1970]: –––, 1970, *Of Laws in General*, H.L.A. Hart (ed.), London: Athlone Press.
 
-[^berman-1994]: Berman, Harold J., 1994, “The Origins of Historical Jurisprudence: Coke, Selden, Hale,” *Yale Law Journal,*103: 1651–1738.
+[^berman-1994]: Berman, Harold J., 1994, “The Origins of Historical Jurisprudence: Coke, Selden, Hale,” *Yale Law Journal,* 103: 1651–1738.
 
 [^bix-1999]: Bix, Brian H., 1999, “Positively Positivism,” *Virginia Law Review*, 75: 1613–1624.
 

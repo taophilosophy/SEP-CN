@@ -107,7 +107,7 @@ The Axiom of Choice is closely allied to a group of mathematical propositions co
 
 To see the connection between the idea of a maximal element and *AC*, let us return to the latter’s formulation **AC2** in terms of indexed sets. Accordingly suppose we are given an indexed family of nonempty sets $\sA = \{A_{i}:i \in I\}.$ Let us define a *potential choice function* on $\sA$ to be a function $f$ whose domain is a subset of $I$ such that $f(i) \in A_{i}$ for all $i\in J$. (Here the use of the qualifier *potential* is suggested by the fact that the domain is a subset of $I$; recall that a choice function $f$ on $\sA$ has the same properties as what we are now calling potential choice functions except that the domain of $f$ is required to be all of $I$, not just a subset.) The set $P$ of potential choice functions on $\sA$ can be partially ordered by inclusion: we agree that, for potential choice functions $f, g \in P$, the relation $f \le g$ holds provided that the domain of $f$ is included in that of $g$ and the value of $f$ at an element of its domain coincides with the value of $g$ there. It is now easy to see that the maximal elements of $P$ with respect to the partial ordering $\le$ are precisely the choice functions on $\sA$.
 
-*Zorn’s Lemma*is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
+*Zorn’s Lemma* is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
 
 **Zorn’s Lemma** (**ZL**): Every nonempty inductive partially ordered set has a maximal element.
 
@@ -190,13 +190,15 @@ Many of these theorems are discussed in Bell and Machover (1977).
 
 An initial connection between *AC* and logic emerges by returning to its formulation **AC3** in terms of relations, namely: any binary relation contains a function with the same domain. This version of **AC** is naturally expressible within a second-order language $L$ with individual variables $x$, $y$, $z$, … and function variables $f$, $g$, $h$, …. In $L$, binary relations are represented by formulas $\phi(x, y)$ with two free individual variables $x$, $y$. The counterpart in $L$ of the assertion **AC3** is then
 
-> **ACL**: $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+> **ACL**:
+> $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
 
 This scheme of sentences is the standard logical form of *AC*.
 
 Zermelo’s original form of the Axiom of Choice, **AC1**, can be expressed as a scheme of sentences within a suitably strengthened version of $L$. Accordingly we now suppose $L$ to contain in addition predicate variables $X$, $Y$, $Z$, … and second-order function variables $F$, $G$, $H$, …. Here a second-order function variable $F$ may be applied to a predicate variable $X$ to yield an individual term $FX$. The scheme of sentences
 
-> **AC1L**: $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+> **AC1L**:
+> $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
 
 is the direct counterpart of **AC1** in this strengthened second-order language. In words, **AC1L** asserts that, if each predicate having a certain property $\Phi$ has instances, then there is a function $F$ on predicates such that, for any predicate $X$ satisfying $\Phi$, $FX$ is an instance of $X$. Here predicates are playing the role of sets.
 
@@ -504,7 +506,7 @@ The author and editors would like to thank Jesse Alama for carefully reading thi
 
 [^gödel-1964]: Gödel, K., 1964. “Remarks before the Princeton Bicentennial Conference,” in *The Undecidable*, Martin Davis (ed.), CITY: Raven Press, pp. 84–88.
 
-[^goodman-1978]: Goodman, N. and Myhill, J., 1978. “Choice implies excluded middle,” *Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik*, 24(25–30): 461.
+[^goodman-1978]: Goodman, N. and Myhill, J., 1978. “Choice implies excluded middle,” *Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik* , 24(25–30): 461.
 
 [^grattan-guinness-2012]: Grattan-Guinness, I., 2012. “Jourdain, Russell and the axiom of choice: a new document,” *Russell: The Journal of the Bertrand Russell Archives*, 32(1): 69–74.
 
@@ -534,7 +536,7 @@ The author and editors would like to thank Jesse Alama for carefully reading thi
 
 [^kelley-1950]: Kelley, J.L., 1950. “The Tychonoff product theorem implies the axiom of choice,” *Fundamenta Mathematicae*, 37: 75–76.
 
-[^klimovsky-1958]: Klimovsky, G., 1958. “El teorema de Zorn y la existencia de filtros a ideales maximales en los reticulados distributivos,” *Revista de la Union Matematica Argentina*, 18: 160–64.
+[^klimovsky-1958]: Klimovsky, G., 1958. “El teorema de Zorn y la existencia de filtros a ideales maximales en los reticulados distributivos,” *Revista de la Union Matematica Argentina* , 18: 160–64.
 
 [^kuratowski-1922]: Kuratowski, K., 1922. “Une méthode d’élimination des nombres transfinis des raissonements mathématiques,” *Fundamenta Mathematicae*, 3: 76–108.
 

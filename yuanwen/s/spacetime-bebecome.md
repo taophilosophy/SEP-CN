@@ -221,7 +221,9 @@ Sellars also presents a distinction between what he calls (p. 586) *categorial e
 
 Non-categorial existence statements, on the other hand, assert the existence of individuals or less general kinds in a fully tensed fashion. Sellars would construe them in the following way (p. 592):
 
-> $a$ be existent $\{$ before *now*, *now*, after *now* $\} \equiv$ $\exists x(x$ be $\{$ before *now*, *now*, after *now* $\}$ *and* $x$ be $\Phi_1 ,\ldots ,\Phi_n$ *and* ‘$\Phi_1$’, …, ‘$\Phi_n$’ be our criteria *now* for [being] ‘$a$’)
+> $a$ be existent $\{$ before *now*, *now*, after *now* $\} \equiv$
+> $\exists x(x$ be $\{$ before *now*, *now*, after *now* $\}$ *and* $x$ be $\Phi_1 ,\ldots ,\Phi_n$ *and*
+> ‘$\Phi_1$’, …, ‘$\Phi_n$’ be our criteria *now* for [being] ‘$a$’)
 
 Leaving aside Sellars’ idiosyncratic way of construing existence statements, if a distinction between categorial and non-categorial existence claims can be made, then it would be perfectly coherent to indicate that one is adopting or working in the framework of ‘events’ by asserting that ‘events exist’ (tenselessly, in the categorial sense) without being committed to the “tenseless existence” of particular events which may be past, present, or future (in the non-categorial sense).
 
@@ -345,11 +347,11 @@ Although we are jumping ahead of our story, it is worth remarking here that the 
 
 Time, in the special theory of relativity, appears in two guises—coordinate time, which has held center stage thus far, and proper time. The histories of material objects, always moving with speeds less than that of light, are represented in Minkowski spacetime by timelike world lines (curves in Minkowski spacetime such that the tangent vector at each point is timelike). Timelike world lines can be parameterized by a quantity, *proper time,* which is measured by ideal clocks following such world lines.
 
-Proper time is*path-dependent*. If two distinct timelike worldlines connect point a to point b, they will in general indicate different proper times between these points. On the other hand, proper time is not frame-dependent. It is an invariant quantity (given a worldline and the specified points on it). (See pages 73–80 of Geroch (1978) for an illuminating discussion of the path-dependence of proper time.)
+Proper time is *path-dependent*. If two distinct timelike worldlines connect point a to point b, they will in general indicate different proper times between these points. On the other hand, proper time is not frame-dependent. It is an invariant quantity (given a worldline and the specified points on it). (See pages 73–80 of Geroch (1978) for an illuminating discussion of the path-dependence of proper time.)
 
 The potential philosophical importance of proper time was first pointed out, like so much else, in a footnote by Stein:
 
-Proper time is not a quantity attached to space-time points or to pairs of space-time points; it is in this respect a notion utterly different from the quantity “time” or “time interval” of pre-relativistic theory ... The fundamental physical role of proper time comes from the principle (here stated roughly) that whenever a process takes place along a well-defined line of space-time (“world-line”), the time rates in the dynamical principles that govern that process are to be understood in terms of the proper time along that line (and *not*in terms of a “time coordinate”...) (Stein, 1968, fn 6)
+Proper time is not a quantity attached to space-time points or to pairs of space-time points; it is in this respect a notion utterly different from the quantity “time” or “time interval” of pre-relativistic theory ... The fundamental physical role of proper time comes from the principle (here stated roughly) that whenever a process takes place along a well-defined line of space-time (“world-line”), the time rates in the dynamical principles that govern that process are to be understood in terms of the proper time along that line (and *not* in terms of a “time coordinate”...) (Stein, 1968, fn 6)
 
 This idea was adopted by Richard Arthur (1982, 107): “It is … proper time which is understood to measure *the* rate of becoming for the possible process following this timelike line (or *worldline*).” Arthur (2019) is an extended development of this view. The idea was also adopted by Dennis Dieks (1988, 456): “Only time *along worldlines* (proper time) has an immediate and absolute significance as an ordering parameter of physical processes.”
 
@@ -361,7 +363,7 @@ One could also allow a present that corresponds to some small length of time tha
 
 Taken literally, Robb-Stein-Dieks point presents cannot be shared, which some find an unattractive feature of that view. Causal diamonds, on the other hand, are surprisingly large. For a specious present of length three seconds, the corresponding causal diamond includes the moon (that is, a contemporaneous bit of the moon’s history). As the length of a specious present shrinks to zero as a limit, the corresponding causal diamond shrinks to a point, regaining the Robb-Stein-Dieks view as a limiting case.
 
-Dorato and Wittman (2015) take as their starting point “the indisputable fact that we *share* the ‘now; despite the fact we don’t share a ‘here’” (2015, 200), but they propose a different structure as a relativistic present at a point, a sphere around that point of at least 40 ms length. (According to them, 40 ms is*the temporal order threshhold*. That is, one cannot reliably determine the temporal order of event occurring less than 40 ms apart in time in one’s immediate vicinity. In their view, this sets a minimum bound on the length of the perceived or psychological present.) They add that “… passage physically correspond[s] to a succession of spheres…” (202)
+Dorato and Wittman (2015) take as their starting point “the indisputable fact that we *share* the ‘now; despite the fact we don’t share a ‘here’” (2015, 200), but they propose a different structure as a relativistic present at a point, a sphere around that point of at least 40 ms length. (According to them, 40 ms is *the temporal order threshhold*. That is, one cannot reliably determine the temporal order of event occurring less than 40 ms apart in time in one’s immediate vicinity. In their view, this sets a minimum bound on the length of the perceived or psychological present.) They add that “… passage physically correspond[s] to a succession of spheres…” (202)
 
 Rovelli (2019, 1330) contrasts “finite bubble presents” with “diamond presents”:
 

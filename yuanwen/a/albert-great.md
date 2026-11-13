@@ -169,7 +169,7 @@ The author is indebted to Sylvia Terzian for identifying the most egregious laps
 
 [^politica-nd]: *Politica* (Editio Parisiensis, volumen 8): literal commentary on Aristotle’s *Politics*
 
-[^metaphysica-nd]: *Metaphysica* (Editio Coloniensis, tomus XVI, partes I–II)**:**paraphrastic commentary on Aristotle’s *Metaphysics*
+[^metaphysica-nd]: *Metaphysica* (Editio Coloniensis, tomus XVI, partes I–II)**:** paraphrastic commentary on Aristotle’s *Metaphysics*
 
 [^libellus-nd]: *Libellus de unitate intellectus contra averroistas* (Editio Coloniensis, tomus XVII, pars I, pp.1–30): opusculum on the unity of the intellect
 

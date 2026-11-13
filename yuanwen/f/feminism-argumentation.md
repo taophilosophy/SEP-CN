@@ -441,7 +441,7 @@ Aristotle, General Topics: rhetoric | bias, implicit | consequentialism | critic
 
 [^henning-2018]: Henning, Tempest, 2018, “Bringing Wreck”, *Symposion*, 5(2): 197–211. doi:10.5840/symposion20185216
 
-[^henning-2021]: –––, 2021, “‘I Said What I Said’: Black Women and Argumentative Politeness Norms”, *Informal Logic*41(1).
+[^henning-2021]: –––, 2021, “‘I Said What I Said’: Black Women and Argumentative Politeness Norms”, *Informal Logic* 41(1).
 
 [^hitchcock-1995]: Hitchcock, David, 1995, “Do the Fallacies Have a Place in the Teaching of Reasoning Skills or Critical Thinking?” in Hansen and Pinto 1995: 319–227.
 
@@ -563,7 +563,7 @@ Aristotle, General Topics: rhetoric | bias, implicit | consequentialism | critic
 
 [^schiffrin-1984]: Schiffrin, Deborah, 1984, “Jewish Argument as Sociability”, *Language in Society*, 13(3): 311–335. doi:10.1017/S0047404500010526
 
-[^tanesini-2018]: Tanesini, Alessandra, 2018, “Arrogance, Anger and Debate”,*Symposion*, 5(2): 213–227. doi:10.5840/symposion20185217
+[^tanesini-2018]: Tanesini, Alessandra, 2018, “Arrogance, Anger and Debate”, *Symposion*, 5(2): 213–227. doi:10.5840/symposion20185217
 
 [^tindale-1999]: Tindale, Christopher W., 1999, *Acts of Arguing: A Rhetorical Model of Argument*, Albany, NY: State University of New York Press.
 

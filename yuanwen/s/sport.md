@@ -398,7 +398,7 @@ dance, philosophy of | human enhancement | nature of law: interpretivist theorie
 
 [^hawkins-2001]: Hawkins, B., 2001, *The New Plantation: The Internal Colonization of Black Student-Athletes*, Winterville GA: Sadiki.
 
-[^hemphill-2005]: Hemphill, D., 2005, “Cybersport,”*Journal of the Philosophy of Sport*, 32(2): 195–207,
+[^hemphill-2005]: Hemphill, D., 2005, “Cybersport,” *Journal of the Philosophy of Sport*, 32(2): 195–207,
 
 [^henne-2015]: Henne, K. E., 2015, *Testing for Athlete Citizenship: Regulating Doping and Sex in Sport*, New Brunswick (NJ): Rutgers University Press.
 

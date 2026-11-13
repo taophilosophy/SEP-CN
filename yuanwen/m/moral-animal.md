@@ -237,7 +237,7 @@ animal: cognition | animal: consciousness | Bentham, Jeremy | consequentialism |
 
 [^attenborough-1998]: Attenborough, David, 1998, *The Life of Birds*, Princeton: Princeton University Press. [Attenborough 1998 excerpts available online, PBS Online.]
 
-[^balcombe-2017]: Balcombe, Jonathan, 2017, *What a Fish Knows: The Inner Lives of Our Underwater Cousins,*Reprint edition, New York: Scientific American / Farrar, Straus and Giroux.
+[^balcombe-2017]: Balcombe, Jonathan, 2017, *What a Fish Knows: The Inner Lives of Our Underwater Cousins,* Reprint edition, New York: Scientific American / Farrar, Straus and Giroux.
 
 [^bekoff-2000]: Bekoff, Marc, 2000, *The Smile of a Dolphin: Remarkable Accounts of Animal Emotion*, New York: Discovery Books.
 

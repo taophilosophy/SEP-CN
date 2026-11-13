@@ -182,7 +182,7 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [^gomes-2019]: –––, 2019. “Meaning Preserving Contraposition of Natural Language Conditionals”, *Journal of Pragmatics* 152: 46–60.
 
-[^gomes-2020]: –––, 2020. “Concessive conditionals without *Even if*and non-concessive conditionals with *Even if*”, *Acta Analytica*, 35: 1–2. doi:10.1007/s12136-019-00396-y
+[^gomes-2020]: –––, 2020. “Concessive conditionals without *Even if* and non-concessive conditionals with *Even if*”, *Acta Analytica*, 35: 1–2. doi:10.1007/s12136-019-00396-y
 
 [^goldstein-2005]: Goldstein, Laurence, Brennan, Andrew, Deutsch, Max and Lau, Joe Y.F., 2005. *Logic: Key Concepts in Philosophy*, London: Continuum.
 

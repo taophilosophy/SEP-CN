@@ -55,11 +55,13 @@ Nevertheless, the very same common sense, although it points in that direction, 
 
 A quick thought experiment should confirm this. Suppose that we do in fact attribute a *physical* condition, call it *PC*, when we attribute pain to body parts, and that *PC* is the perceptual object of such experiences. So, for instance, John’s current excruciating experience (call this *E*) is caused by and represents a physical condition in his right thigh and our ordinary concept of pain applies in the first instance to this condition in his thigh. From this it would follow that
 
-> (a) John would *not* have any pain if he had *E*, but no *PC* in his thigh (as in the case of, for instance, phantom limb pains and centrally generated chronic pains such as sciatica),
+> (a) John would *not* have any pain if he had *E*, but no *PC* in his thigh
+> (as in the case of, for instance, phantom limb pains and centrally generated chronic pains such as sciatica),
 
 and, conversely,
 
-> (b) John would have pain if he had *PC* but no *E* (as would be the case, for instance, if he had taken absolutely effective painkillers or his thigh had been anesthetized).
+> (b) John would have pain if he had *PC* but no *E*
+> (as would be the case, for instance, if he had taken absolutely effective painkillers or his thigh had been anesthetized).
 
 But these statements are intuitively incorrect. They appear to clash with our ordinary or dominant concept of pain, which seems to track the feeling of pain (experience) rather than the physical condition. This resistance to identifying pains with localizable physical conditions comes from the second thread found in the very same common-sense conception of pain.
 
@@ -91,7 +93,8 @@ If there is no appearance/reality distinction applicable to pain, then it seems 
 
 Now that the two threads in our ordinary conception of pain are in full view, we can better appreciate why they are in tension. Experiences are in the head, if they are anywhere. Indeed, for most physicalists, they are in the head by being realized in the brain or in the central nervous system. So we can’t be locating pains *qua* experiences (or *qua* sensations, for that matter) in body parts when we correctly utter sentences such as (1) through (6) — discounting headaches perhaps. But then what are we locating when we seem to attribute pains to body parts? Recall that, although the first thread in our common-sense conception treats pains as spatiotemporally locatable particulars or particular conditions of body parts, it does not identify pains with them — it only exerts pressure towards such an identification in the light of the fact that there doesn’t seem to be any other credible alternative (but see below). We have already conducted a little thought-experiment to bring this out in Section 1.1. Comparing the following two sentences will help us understand the tension better:
 
-> (5) I feel a sharp pain in the back of my right hand. (9) I see a dark discoloration on the back of my right hand.
+> (5) I feel a sharp pain in the back of my right hand.
+> (9) I see a dark discoloration on the back of my right hand.
 
 It is reasonably clear that for (9) to be true, I have to stand in the seeing (perceiving) relation to a dark discoloration on the back of my right hand, i.e., to a certain surface region on the back of my hand marked by a darker shade of the usual color of my skin, a certain region that can be seen by others possibly in the same way in which I see it. Note that if I am hallucinating a dark discoloration on the back of my hand, then (9) is simply false. Also note that although the truth of (9) doesn’t require the possession of any concept by me expressed by the words making up the sentence, my uttering of (9) to *make a report* typically does — if we take such utterances as expressions of one’s thoughts and take thoughts to be composed of concepts. So my seeing would typically induce me to conceptually identify something on the back of my hand *as* a dark discoloration. This is a typical case of categorization of something extramental under a concept induced by an exteroceptive experience. Of course, my uttering of (9) does more than attribute a physical property to a bodily region: it also reports that I am seeing it.
 
@@ -161,7 +164,8 @@ It is primarily for this reason that most perceptual theorists identify feeling 
 
 There is thus an asymmetry in our spontaneous reaction to incoming stimuli in seeing and having pain; that is, our spontaneous interest and focus directly resulting from the perceptual experiences is different in each case. We can represent this asymmetry with a schematic (**Figure 1**).
 
-> ![Figure 1](../assets/pain/asymmetry.png) **Figure 1:** There is asymmetry in concept application even when it is assumed that the structure of information flow may be symmetrical in the contrast cases.
+> ![Figure 1](../assets/pain/asymmetry.png)
+> **Figure 1:** There is asymmetry in concept application even when it is assumed that the structure of information flow may be symmetrical in the contrast cases.
 
 Thus the incorrigibility mentioned before reduces to one’s incorrigibility about one’s occurrent experiences. To the extent to which we are incorrigible in discriminating and conceptually identifying our own experiences, to that extent we cannot be wrong about our own pains. Hence the locus of concept application is the pain experiences, even though it might seem to us as if we were applying the concept of pain to bodily locations (see below). It follows that hallucinations or illusions are possible, in one sense, not about feeling/experiencing pain, but about whether these experiences’ correctly represent some tissue damage, that is, the object of perception in feeling pain.
 
@@ -511,7 +515,7 @@ In personal communication, Donald Price has indicated an important feature of th
 
 [^bain-2007]: –––, 2007. “The Location of Pains,” *Philosophical Papers*, 36(2): 171–205.
 
-[^bain-2011]: –––, 2011. “The imperative view of pain,”*Journal of Consciousness Studies*, 18: 164–185.
+[^bain-2011]: –––, 2011. “The imperative view of pain,” *Journal of Consciousness Studies*, 18: 164–185.
 
 [^bain-2013]: –––, 2013. “What Makes Pains Unpleasant?” *Philosophical Studies* (Supplement), 166: 69–89.
 
@@ -561,7 +565,7 @@ In personal communication, Donald Price has indicated an important feature of th
 
 [^corns-2012]: Corns, J., 2012. “Pain Is Not a Natural Kind,” Ph.D. Dissertation, City University of New York.
 
-[^corns-2013]: –––, 2013. “The Inadequacy of Unitary Characterizations of Pain,”*Philosophical Studies*, 169 (3): 355–78.
+[^corns-2013]: –––, 2013. “The Inadequacy of Unitary Characterizations of Pain,” *Philosophical Studies*, 169 (3): 355–78.
 
 [^corns-2014]: –––, 2014. “Unpleasantness, Motivational Oomph, and Painfulness,” *Mind and Language*, 29(2): 238–54.
 
@@ -831,7 +835,7 @@ In personal communication, Donald Price has indicated an important feature of th
 
 [^taylor-1965]: Taylor, D. M., 1965. “The Location of Pain,” *The Philosophical Quarterly*, 15(58): 53–62.
 
-[^taylor-1966]: –––, 1966. “The Location of Pain: A Reply to Mr. Holborow,”*The Philosophical Quarterly*, 16(65): 359–360.
+[^taylor-1966]: –––, 1966. “The Location of Pain: A Reply to Mr. Holborow,” *The Philosophical Quarterly*, 16(65): 359–360.
 
 [^tye-1984a]: Tye, M., 1984a. “The Adverbial Approach to Visual Experience,” *The Philosophical Review*, 93(2): 195–225.
 
@@ -853,7 +857,7 @@ In personal communication, Donald Price has indicated an important feature of th
 
 [^vesey-1964b]: –––, 1964b. “Bodily Sensations,” *Australasian Journal of Philosophy*, 42: 232–247.
 
-[^vesey-1965]: –––, 1965. “Baier on Vesey on the Place of a Pain,”*The Philosophical Quarterly*, 15(58): 63–64.
+[^vesey-1965]: –––, 1965. “Baier on Vesey on the Place of a Pain,” *The Philosophical Quarterly*, 15(58): 63–64.
 
 [^vesey-1967]: –––, 1967. “Margolis on the Location of Bodily Sensations,” *Analysis*, 27: 174–176.
 

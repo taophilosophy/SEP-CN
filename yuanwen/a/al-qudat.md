@@ -177,9 +177,11 @@ It would not be an understatement to claim that “love” is the lens through w
 
 For ʿAyn al-Quḍāt, a person who sees these different religions as distinct is better described as a “separator” than a “seeker” (*Tamhīdāt*: 21). Indeed, each of these ways are simply “waystations on the path to God” (*Tamhīdāt*: 285), and the path to God is nothing other than religion. The “religion” in question is what is known in the Persian Sufi tradition as *madhhab-i ʿishq* or the “Religion of Love”. For ʿAyn al-Quḍāt, the religion of love emphasizes unity and oneness instead of divisions and factions, which cause people to veer into the direction of multiplicity, disunity, and dispersion. That is why he says that “The partisans of the seventy-two religions dispute with one another, are opposed to everyone else because of their creed, and kill one another”. But if only they had listened to his words, he advises, they would have realized “that everyone follows one religion and one creed”, which is the creed of the lovers (*Tamhīdāt*: 339). When it comes to these lovers of God, love is the only true religion, and nothing else will suffice:
 
-> Let me start a fire, setting aflame this religion and creed! I put love for You in place of religion.
+> Let me start a fire, setting aflame this religion and creed!
+> I put love for You in place of religion.
 >
-> How long shall I contain this hidden love in my wounded heart? The goal of the path is neither religion nor creed, but You. (*Tamhīdāt*: 23)
+> How long shall I contain this hidden love in my wounded heart?
+> The goal of the path is neither religion nor creed, but You. (*Tamhīdāt*: 23)
 
 ## 7. Reception, Influence, Legacy
 

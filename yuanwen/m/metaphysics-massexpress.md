@@ -338,9 +338,21 @@ But can the +MASS/+COUNT distinction do this much metaphysical work in a reliabl
 
 As an introductory example of the topic of interchangeability, consider these well-known lyrics from the musical *Sweeney* *Todd*:
 
-> TODD: (spoken) These are desperate times, Mrs. Lovett, and desperate measures are called for! LOVETT: Here we are, now! Hot out of the oven! TODD: What is that?
+> TODD: (spoken) These are desperate times,
+> Mrs. Lovett, and desperate measures are called for!
+> LOVETT: Here we are, now! Hot out of the oven!
+> TODD: What is that?
 >
-> LOVETT: It’s priest. Have a little priest. TODD: Is it really good? LOVETT: Sir, it’s too good, at least! Then again, they don’t commit sins of the flesh, So it’s pretty fresh. … TODD: Haven’t you got poet, or something like that? LOVETT: No, y’see, the trouble with poet is ’Ow do you know it’s deceased? Try the priest!
+> LOVETT: It’s priest. Have a little priest.
+> TODD: Is it really good?
+> LOVETT: Sir, it’s too good, at least!
+> Then again, they don’t commit sins of the flesh,
+> So it’s pretty fresh.
+> …
+> TODD: Haven’t you got poet, or something like that?
+> LOVETT: No, y’see, the trouble with poet is
+> ’Ow do you know it’s deceased?
+> Try the priest!
 >
 > (Lyrics from *Sweeney Todd: The Demon Barber of Fleet Street*)
 

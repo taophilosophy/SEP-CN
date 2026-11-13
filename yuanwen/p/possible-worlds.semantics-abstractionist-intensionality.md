@@ -18,24 +18,24 @@ The intensionality of possible world semantics under an abstractionist ontology 
 
 We assume there are appropriate abstractionist axioms for these primitives, e.g., that only SOAs can obtain — ◻∀*x*(*Ob*(*x*) → *SOA*(*x*)) — that anything that could be an SOA is an SOA, ◻∀*x* (◇*SOA*(*x*) → *SOA*(*x*)) — and so on. To formalize the abstractionist notion of a possible world and to pick out the actual world, four auxiliary definitions are needed:
 
-| • |   | *Poss*(*s*) =_{*def*} ◇*Ob*(*s*) |
+| **•** |   | *Poss*(*s*) =_{*def*} ◇*Ob*(*s*) |
 | --- | --- | --- |
 
-| • |   | *Inc*(*s*,*t*) =_{*def*} ◻(*Ob*(*s*) → *Ob*(*t*)) |
+| **•** |   | *Inc*(*s*,*t*) =_{*def*} ◻(*Ob*(*s*) → *Ob*(*t*)) |
 | --- | --- | --- |
 
-| • |   | *Pre*(*s*,*t*) =_{*def*} ◻(*Ob*(*s*) → ~*Ob*(*t*)) |
+| **•** |   | *Pre*(*s*,*t*) =_{*def*} ◻(*Ob*(*s*) → ~*Ob*(*t*)) |
 | --- | --- | --- |
 
-| • |   | *Max*(*s*) =_{*def*} ∀*t*(*Inc*(*s*,*t*) ∨ *Pre*(*s*,*t*)) |
+| **•** |   | *Max*(*s*) =_{*def*} ∀*t*(*Inc*(*s*,*t*) ∨ *Pre*(*s*,*t*)) |
 | --- | --- | --- |
 
 Given these we have:
 
-| • |   | *World*(*s*) =_{*def*} *Poss*(*s*) ∧ *Max*(*s*) |
+| **•** |   | *World*(*s*) =_{*def*} *Poss*(*s*) ∧ *Max*(*s*) |
 | --- | --- | --- |
 
-| • |   | @ =_{*def*} the *s*(*World*(*s*) ∧ *Ob*(*s*)) |
+| **•** |   | @ =_{*def*} the *s*(*World*(*s*) ∧ *Ob*(*s*)) |
 | --- | --- | --- |
 
 As before, truth can be defined as truth in the actual world:

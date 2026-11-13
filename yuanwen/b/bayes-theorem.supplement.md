@@ -32,15 +32,15 @@ Notice how incremental and total evidence make different uses of information abo
 
 |   | **Multiplicative** | **Additive** |
 | --- | --- | --- |
-| NET | **P**(*H*)**/****P**(~*H*) = **O**(*H*) | **P**(*H*) − **P**(~*H*) = 2[**P**(*H*) − 1/2] |
+| NET | **P**(*H*)**/****P**(~ *H*) = **O**(*H*) | **P**(*H*) − **P**(~*H*) = 2[**P**(*H*) − 1/2] |
 | BALANCE | **P**(*H*)**/****P**(*H**) = **B**(*H*, *H**) | **P**(*H*) − **P**(*H**) = **P**(*H* & ~*H**) − **P**(~*H* & *H**) |
 
 **O**(*H*) as total evidence for *H*
 
 |   | **Multiplicative** | **Additive** |
 | --- | --- | --- |
-| NET | **O**(*H*)**/****O**(~*H*) = **O**(*H*)² | **O**(*H*) − **O**(~*H*) = [**P**(*H*) − **P**(~*H*)]**/****P**(~*H*)**P**(*H*) |
-| BALANCE | **O**(*H*)**/****O**(*H**) = **B**(*H*, *H**)**/****B**(~*H*, ~*H**) | **O**(*H*) − **O**(*H**) = [**P**(*H*) − **P**(*H**)]**/****P**(~*H*)**P**(~*H**) |
+| NET | **O**(*H*)**/****O**(~ *H*) = **O**(*H*)² | **O**(*H*) − **O**(~*H*) = [**P**(*H*) − **P**(~*H*)]**/****P**(~ *H*)**P**(*H*) |
+| BALANCE | **O**(*H*)**/****O**(*H**) = **B**(*H*, *H**)**/****B**(~*H*, ~*H**) | **O**(*H*) − **O**(*H**) = [**P**(*H*) − **P**(*H**)]**/****P**(~ *H*)**P**(~*H**) |
 
 [Back to Text]
 
@@ -50,15 +50,15 @@ Notice how incremental and total evidence make different uses of information abo
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
-| Effective | *PR*(*H*, *E*)**/***PR*(*H*, ~*E*) = **P**_{*E*}(*H*)**/****P**_{~*E*}(*H*) = *LR*(*E*, *H*) | *PD*(*H*, *E*) − *PD*(*H*, ~*E*) = **P**_{*E*}(*H*) − **P**_{~*E*}(*H*) |
-| Differential | *PR*(*H*, *E*)**/***PR*(*H*, *E**) = **P**_{*E*}(*H*)**/****P**_{*E**}(*H*) = *LR*(*E*, *E**; *H*) | *PD*(*H*, *E*) − *PD*(*H*, *E**) = **P**_{*E*}(*H*) − **P**_{*E**}(*H*) |
+| Effective | *PR*(*H*, *E*)**/***PR*(*H*, ~*E*) = **P**_{*E*}(*H*)**/** **P**_{~*E*}(*H*) = *LR*(*E*, *H*) | *PD*(*H*, *E*) − *PD*(*H*, ~*E*) = **P**_{*E*}(*H*) − **P**_{~*E*}(*H*) |
+| Differential | *PR*(*H*, *E*)**/***PR*(*H*, *E**) = **P**_{*E*}(*H*)**/** **P**_{*E**}(*H*) = *LR*(*E*, *E**; *H*) | *PD*(*H*, *E*) − *PD*(*H*, *E**) = **P**_{*E*}(*H*) − **P**_{*E**}(*H*) |
 
 **O**(*H*) as total evidence for *H*
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
-| Effective | *OR*(*H*, *E*)**/***OR*(*H*, ~*E*) = **O**_{*E*}(*H*)**/****O**_{~*E*}(*H*) = [**P**(*E* & *H*)**P**(~*E* & ~*H*)]**/**[**P**(*E* & ~*H*)**P**(~*E* & *H*)] | *OD*(*H*, *E*) − *OD*(*H*, ~*E*) = [**P**(*E* & *H*)**/**[**P**(*E* & ~*H*)] − [**P**(~*E* & *H*)**/****P**(~*E* & ~*H*)] |
-| Differential | *OR*(*H*, *E*)**/***OR*(*H*, *E**) = **O**_{*E*}(*H*)**/****O**_{*E**}(*H*) = [**P**(*E* & *H*)**P**(*E** & ~*H*)]**/**[**P**(*E* & ~*H*)**P**(*E** & *H*)] | *PD*(*H*, *E*) − *PD*(*H*, *E**) = [**P**(*E* & *H*)**/**[**P**(*E* & ~*H*)] − [**P**(*E** & *H*)**/****P**(*E** & ~*H*)] |
+| Effective | *OR*(*H*, *E*)**/***OR*(*H*, ~*E*) = **O**_{*E*}(*H*)**/** **O**_{~*E*}(*H*) = [**P**(*E* & *H*)**P**(~*E* & ~*H*)]**/**[**P**(*E* & ~*H*)**P**(~*E* & *H*)] | *OD*(*H*, *E*) − *OD*(*H*, ~*E*) = [**P**(*E* & *H*)**/**[**P**(*E* & ~*H*)] − [**P**(~*E* & *H*)**/****P**(~*E* & ~*H*)] |
+| Differential | *OR*(*H*, *E*)**/***OR*(*H*, *E**) = **O**_{*E*}(*H*)**/** **O**_{*E**}(*H*) = [**P**(*E* & *H*)**P**(*E** & ~*H*)]**/**[**P**(*E* & ~*H*)**P**(*E** & *H*)] | *PD*(*H*, *E*) − *PD*(*H*, *E**) = [**P**(*E* & *H*)**/**[**P**(*E* & ~*H*)] − [**P**(*E** & *H*)**/****P**(*E** & ~*H*)] |
 
 [Back to Text]
 
@@ -94,7 +94,7 @@ The probability ratio and probability difference disagree about the relative deg
 > | *PR*(*H*, *E*) > *PR*(*H*, *E*) and *PD*(*H*, *E*) < *PD*(*H*, *E*) |
 > | --- |
 > | if and only if |
-> | 1 < (*PR*(*H*, *E*) − 1)**/**(*PR*(*H**, *E*) − 1) < **P**(*H**)**/****P**(*H*) |
+> | 1 < (*PR*(*H*, *E*) − 1)**/**(*PR*(*H**, *E*) − 1) < **P**(*H**)**/****P**( *H*) |
 
 To illustrate, suppose that a patient shows up in an emergency room with a severe headache, muscle aches and fatigue. These symptoms are consistent with both Lyme disease (= *H*), which is rare in the area, and influenza (= *H**), which is more common. We are about to learn whether the patient has a fever (= *E*). The known statistics for people exhibiting the patient's symptoms are as follows:
 
@@ -119,7 +119,7 @@ The odds ratio and probability difference yield disparate verdicts about the rel
 > | *PD*(*H*, *E*) >*PD*(*H*, *E*) and *OR*(*H*, *E*) < *OR*(*H*, *E*) |
 > | --- |
 > | if and only if |
-> | [**P**(~*H* & *E*)**P**(*H*)]**/**[**P**(~*H** & *E*)**P**(*H**)] >[**P**(*H* & *E*) − **P**(*H*)**P**(*E*)]**/**[**P**(*H** & *E*) − **P**(*H**)**P**(*E*)] >1 |
+> | [**P**(~*H* & *E*)**P**(*H*)]**/**[**P**(~ *H** & *E*)**P**(*H**)] >[**P**(*H* & *E*) − **P**(*H*)**P**(*E*)]**/**[ **P**(*H** & *E*) − **P**(*H**)**P**(*E*)] >1 |
 
 To get a sense of what this involves, imagine a corporation in which employees may or may not be highly paid (= *H*), and may or may not hold cushy jobs (= *H**). The distribution of jobs among men (= *E*) and women on the payroll is as follows:
 
@@ -144,14 +144,14 @@ The probability difference measure has *H* garnering a (slightly) greater increm
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
 | **P** as total | *PR*(*H*, *E*)**/***PR*(~*H*, *E*) = *LR*(*H*, *E*) | *PD*(*H*, *E*) − *PD*(~*H*, *E*) = 2*PD*(*H*, *E*) |
-| **O** as total | *OR*(*H*, *E*)**/***OR*(~*H*, *E*) = *LR*(*H*, *E*)² | *OD*(*H*, *E*) − *OD*(~*H*, *E*) = [**P**(*H*) − **P**(~*H*)]**/**[**P**(*H*)**P**(~*H*)**O**(*E*)] |
+| **O** as total | *OR*(*H*, *E*)**/***OR*(~*H*, *E*) = *LR*(*H*, *E*)² | *OD*(*H*, *E*) − *OD*(~*H*, *E*) = [**P**(*H*) − **P**(~*H*)]**/**[**P**( *H*)**P**(~*H*)**O**(*E*)] |
 
 **Four measures of incremental change in the BALANCE of TOTAL evidence**
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
 | **P** as total | *PR*(*H*, *E*)**/***PR*(*H**, *E*) = *LR*(*H*, *H**; *E*) | *PD*(*H*, *E*) − *PD*(*H**, *E*) = [**P**_{*E*}(*H*) − **P**_{*E*}(*H**)] − [**P**(*H*) − **P**(*H**)] |
-| **O** as total | *OR*(*H*, *E*)**/***OR*(*H**, *E*) = *LR*(*H*, *H**; *E*)**/***LR*(~*H*, ~*H**; *E*) | *OD*(*H*, *E*) − *OD*(~*H*, *E*) = [**P**(*H*) − **P**(*H**)]**/**[**P**(~*H*)**P**(~*H**)**O**(*E*)] |
+| **O** as total | *OR*(*H*, *E*)**/***OR*(*H**, *E*) = *LR*(*H*, *H**; *E*)**/***LR*(~*H*, ~*H**; *E*) | *OD*(*H*, *E*) − *OD*(~*H*, *E*) = [**P**(*H*) − **P**(*H**)]**/**[**P**(~ *H*)**P**(~*H**)**O**(*E*)] |
 
 [Back to Text]
 
@@ -163,10 +163,10 @@ The probability difference measure has *H* garnering a (slightly) greater increm
 **Sketch of Proof**: If *H* and *H** both entail *E*, then
 
 1. **P**_{*H*}(*E*) = **P**_{*H**}(*E*) = 1
-2. **P**_{~*H*}(~*E*) = **P**(~*E*)**/****P**(~*H*)
-3. **P**_{~*H**}(~*E*) = **P**(~*E*)**/****P**(~*H**)
+2. **P**_{~*H*}(~*E*) = **P**(~*E*)**/****P**(~ *H*)
+3. **P**_{~*H**}(~*E*) = **P**(~*E*)**/****P**(~ *H**)
 
-(a) entails that *LR*(*H*, *H**; *E*) = 1. (b) and (c) entail that *LR*(~*H*, ~*H**; ~*E*) >1 if and only if **P**(~*H**)**/****P**(~*H*) >1, which will always be so when **P**(*H*) >**P**(*H**).
+(a) entails that *LR*(*H*, *H**; *E*) = 1. (b) and (c) entail that *LR*(~*H*, ~*H**; ~*E*) >1 if and only if **P**(~*H**)**/****P**(~ *H*) >1, which will always be so when **P**(*H*) >**P**(*H**).
 
 [Back to Text]
 

@@ -587,7 +587,7 @@ I want to thank Arianna Betti, Will Bynoe, Chris Hughes, Fabrice Correia, Keith 
 
 [^künne-2003]: –––, 2003, *Conceptions of Truth*, Oxford: Oxford University Press.
 
-[^lemos-1994]: Lemos, Noah M., 1994, *Intrinsic Value: Concept and Warrant,*Cambridge: Cambridge University Press.
+[^lemos-1994]: Lemos, Noah M., 1994, *Intrinsic Value: Concept and Warrant,* Cambridge: Cambridge University Press.
 
 [^levinson-2006]: Levinson, Jerrold, 2006, “Why there are no tropes”, *Philosophy,* 81 (318): 563–79.
 

@@ -352,7 +352,7 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 [^hobbes-1651]: Hobbes, Thomas, 1651 [1998], *Leviathan, or the Matter, Forme, & Power of a Common-Wealth Ecclesiastical and Civil*, London. Reprinted J. C. A. Gaskin (ed.), Oxford: Oxford University Press, 1998.
 
-[^hunter-2023]: Hunter, Angela and Rebecca Wilkin (eds. and trans.), 2023, *Louise Dupin’s*Work on Women*: Selections*, Oxford: Oxford University Press. doi:10.1093/oso/9780190090098.001.0001
+[^hunter-2023]: Hunter, Angela and Rebecca Wilkin (eds. and trans.), 2023, *Louise Dupin’s* Work on Women*: Selections*, Oxford: Oxford University Press. doi:10.1093/oso/9780190090098.001.0001
 
 [^malebranche-1674]: Malebranche, Nicolas, 1674–75 [1997], *Recherche de la vérité*, two volumes, Paris. Translated as *The Search after Truth*, Thomas M. Lennon and Paul J. Olscamp (trans./eds), (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press.
 

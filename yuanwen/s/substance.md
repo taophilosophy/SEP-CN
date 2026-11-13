@@ -21,11 +21,13 @@ In addition to distinguishing substances from properties, Aristotle also disting
 
 In summary, we have inherited from Aristotle two main senses of “substance”:
 
-> i. those things that best merit the title “beings” ii. individual objects, in contrast with properties or events
+> i. those things that best merit the title “beings”
+> ii. individual objects, in contrast with properties or events
 
 In spelling out what exactly it is that makes something a substance in sense ii, philosophers tend to have focussed either on the contrast with properties or with events, leading to:
 
-> ii.a things that possess properties but do not belong to other things as properties ii.b things that are relatively permanent and persist through change
+> ii.a things that possess properties but do not belong to other things as properties
+> ii.b things that are relatively permanent and persist through change
 
 The following sections outline some landmark events in the history of the concept of substance and some of the main topics in contemporary discussions.
 
@@ -281,7 +283,8 @@ A second important issue in contemporary discussions of substance is whether sub
 
 Properties might be conceived of as universals, things that can be instantiated in multiple bearers at the same time, or as individuals, property-instances, which are sometimes called “tropes”. There are, therefore, two options for the bundle theorist.
 
-> i. Substances are in fact no more than bundles of properties conceived of as universals. ii. Substances are in fact no more than bundles of properties conceived of as individuals.
+> i. Substances are in fact no more than bundles of properties conceived of as universals.
+> ii. Substances are in fact no more than bundles of properties conceived of as individuals.
 
 On either view, the claim that substances are “no more than bundles of properties” might be regarded as a conceptual analysis of the concept of substance, or it might be regarded as a de facto, but not a conceptual truth. The claim that substances are “no more than bundles of properties” means, at minimum, that there is no further component or ingredient which goes to make up a substance, beyond its various properties. The term “bundle theory” is sometimes used to suggest a stronger view on which the properties are in some sense more fundamental than, and perhaps capable of existing separately from the substance to which they belong. Hume argues that what we usually think of as individual substances are really bundles of properties in this strong sense. As he acknowledges, it follows that the properties will themselves be substances according to definitions that make separability a criterion of substancehood.
 
@@ -372,7 +375,8 @@ Jaworski is particularly clear in emphasising that he is a **causal pluralist** 
 
 It seems that modern hylomorphism faces the following dilemma. The following argument has appeal.
 
-> 1. The concept of structure is essential to all or most natural sciences. 2. If something is essential to a valid mode of explanation or understanding, then it should be conceived realistically.
+> 1. The concept of structure is essential to all or most natural sciences.
+> 2. If something is essential to a valid mode of explanation or understanding, then it should be conceived realistically.
 >
 > therefore
 >

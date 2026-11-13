@@ -233,7 +233,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^casadevall-2011]: Casadevall, Arturo, Ferric C. Fang, and Liise-anne Pirofski, 2011, “Microbial Virulence as an Emergent Property: Consequences and Opportunities”, *PLoS Pathogens*, 7(7): e1002136. doi:10.1371/journal.ppat.1002136
 
-[^chatti-2021]: Chatti, Sami, 2021, “Military Framing of Health Threats: The Covid-19 Disease as a Case Study”,*Language, Discourse & Society*, 9(1): 33–44.
+[^chatti-2021]: Chatti, Sami, 2021, “Military Framing of Health Threats: The Covid-19 Disease as a Case Study”, *Language, Discourse & Society*, 9(1): 33–44.
 
 [^chiu-2015]: Chiu, Lynn and Scott F. Gilbert, 2015, “The Birth of the Holobiont: Multi-species Birthing Through Mutual Scaffolding and Niche Construction”, *Biosemiotics*, 8(2): 191–210. doi:10.1007/s12304-015-9232-5
 
@@ -251,15 +251,15 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^cohen-2000]: –––, 2000, *Tending Adam’s Garden: Evolving the Cognitive Immune Self*, New York: Academic Press.
 
-[^cohen-2007a]: –––, 2007a, “Biomarkers, Self-antigens, and the Immunological Homunculus”,*Journal of Autoimmunity*, 29(4): 246–249. doi:10.1016/j.jaut.2007.07.016
+[^cohen-2007a]: –––, 2007a, “Biomarkers, Self-antigens, and the Immunological Homunculus”, *Journal of Autoimmunity*, 29(4): 246–249. doi:10.1016/j.jaut.2007.07.016
 
 [^cohen-2007b]: –––, 2007b, “Real and Artificial Immune Systems: Computing the State of the Body”, *Nature Reviews Immunology*, 7(7): 569–574. doi:10.1038/nri2102
 
 [^cohen-2019]: Cohen, Irun R. and Sol Efroni, 2019, “The Immune System Computes the State of the Body: Crowd Wisdom, Machine Learning, and Immune Cell Reference Repertoires Help Manage Inflammation”, *Frontiers in Immunology*, 10: 10. doi:10.3389/fimmu.2019.00010
 
-[^colaço-2025]: Colaço, David, 2025, “On Consistently Assessing Alleged Mnemonic Systems (or, why isn’t Immune Memory ”really“ Memory?)”,*Review of Philosophy and Psychology*, 1–19. doi:10.1007/s13164-025-00768-x
+[^colaço-2025]: Colaço, David, 2025, “On Consistently Assessing Alleged Mnemonic Systems (or, why isn’t Immune Memory ”really“ Memory?)”, *Review of Philosophy and Psychology*, 1–19. doi:10.1007/s13164-025-00768-x
 
-[^crist-2000]: Crist, Eileen and Alfred I. Tauber, 2000, “Selfhood, Immunity, and the Biological Imagination: The Thought of Frank Macfarlane Burnet”,*Biology & Philosophy*, 15(4): 509–533. doi:10.1023/A:1006657124783
+[^crist-2000]: Crist, Eileen and Alfred I. Tauber, 2000, “Selfhood, Immunity, and the Biological Imagination: The Thought of Frank Macfarlane Burnet”, *Biology & Philosophy*, 15(4): 509–533. doi:10.1023/A:1006657124783
 
 [^dantzer-2018]: Dantzer, Robert, 2018, “Neuroimmune Interactions: From the Brain to the Immune System and Vice Versa”, *Physiological Reviews*, 98(1): 477–504. doi:10.1152/physrev.00039.2016
 
@@ -299,9 +299,9 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^esposito-2004]: Esposito, Roberto, 2004, *Bíos: Biopolitics and Philosophy*, Minneapolis: University of Minnesota Press.
 
-[^esposito-2011]: –––, 2011,*Immunitas: The Protection and Negation of Life*, Cambridge: Polity.
+[^esposito-2011]: –––, 2011, *Immunitas: The Protection and Negation of Life*, Cambridge: Polity.
 
-[^fagan-2007]: Fagan, Melinda Bonnie, 2007, “The Search for the Hematopoietic Stem Cell: Social Interaction and Epistemic Success in Immunology”,*Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 38(1): 217–237. doi:10.1016/j.shpsc.2006.12.010
+[^fagan-2007]: Fagan, Melinda Bonnie, 2007, “The Search for the Hematopoietic Stem Cell: Social Interaction and Epistemic Success in Immunology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 38(1): 217–237. doi:10.1016/j.shpsc.2006.12.010
 
 [^fagan-2023]: –––, 2023, “Immunology and Population Health: Collaboration Without Convergence”, *Philosophy of Science*, 90(5): 1265–1275.
 
@@ -381,15 +381,15 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^jerne-1974]: Jerne, Niels K., 1974, “Towards a Network Theory of the Immune System”, *Annales de l’Institut Pasteur / Immunologie*, 125C(1–2): 373–389.
 
-[^kamenshchikova-2023]: Kamenshchikova, Alena, Petra F.G. Wolffs, Christian J.P.A. Hoebe, John Penders, and Klasien Horstman, 2023, “Metaphors of Foreign Strangers: Antimicrobial Resistance in Biomedical Discourses”,*Science as Culture*, 32(2): 294–314. doi:10.1080/09505431.2023.2180628
+[^kamenshchikova-2023]: Kamenshchikova, Alena, Petra F.G. Wolffs, Christian J.P.A. Hoebe, John Penders, and Klasien Horstman, 2023, “Metaphors of Foreign Strangers: Antimicrobial Resistance in Biomedical Discourses”, *Science as Culture*, 32(2): 294–314. doi:10.1080/09505431.2023.2180628
 
-[^kamimura-2020]: Kamimura, Daisuke, Yuki Tanaka, Rie Hasebe, and Masaaki Murakami, 2020, “Bidirectional Communication between Neural and Immune Systems”,*International Immunology*, 32(11): 693–701. doi:10.1093/intimm/dxz083
+[^kamimura-2020]: Kamimura, Daisuke, Yuki Tanaka, Rie Hasebe, and Masaaki Murakami, 2020, “Bidirectional Communication between Neural and Immune Systems”, *International Immunology*, 32(11): 693–701. doi:10.1093/intimm/dxz083
 
 [^karasov-2011]: Karasov, William H., Carlos Martínez del Rio, and Enrique Caviedes-Vidal, 2011, “Ecological Physiology of Diet and Digestive Systems”, *Annual Review of Physiology*, 73: 69–93. doi:10.1146/annurev-physiol-012110-142152
 
 [^kingma-2019]: Kingma, Elselijn, 2019, “Were you a part of your mother?”, *Mind*, 128(511): 609–646. doi:10.1093/mind/fzy087
 
-[^koncz-2024]: Koncz, Balázs, Gergő Mihály Balogh, and Máté Manczinger, 2024, “A Journey to Your Self: The Vague Definition of Immune Self and Its Practical Implications”,*Proceedings of the National Academy of Sciences of the United States of America*, 121(23): e2309674121. doi:10.1073/pnas.2309674121
+[^koncz-2024]: Koncz, Balázs, Gergő Mihály Balogh, and Máté Manczinger, 2024, “A Journey to Your Self: The Vague Definition of Immune Self and Its Practical Implications”, *Proceedings of the National Academy of Sciences of the United States of America*, 121(23): e2309674121. doi:10.1073/pnas.2309674121
 
 [^koonin-2012]: Koonin, Eugene V., 2012, *The Logic of Chance: The Nature and Origin of Biological Evolution*, Upper Saddle River, NJ: FT Press Science Series.
 
@@ -401,11 +401,11 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^kurashima-2017]: Kurashima, Yosuke and Hiroshi Kiyono, 2017, “Mucosal Ecological Network of Epithelium and Immune Cells for Gut Homeostasis and Tissue Healing”, *Annual Review of Immunology*, 35: 119–147. doi:10.1146/annurev-immunol-051116-052424
 
-[^lau-2023]: Lau, Travis Chi Wing, 2023, “Toward an Immunological Turn in Nineteenth‐Century Studies”,*Literature Compass*, e12707. doi:10.1111/lic3.12707
+[^lau-2023]: Lau, Travis Chi Wing, 2023, “Toward an Immunological Turn in Nineteenth‐Century Studies”, *Literature Compass*, e12707. doi:10.1111/lic3.12707
 
 [^león-letelier-2019]: León-Letelier, Ricardo A., Laura C. Bonifaz, and Ezequiel M. Fuentes-Pananá, 2019, “OMIC Signatures to Understand Cancer Immunosurveillance and Immunoediting: Melanoma and Immune Cells Interplay in Immunotherapy”, *Journal of Leukocyte Biology*, 105(5): 915–933. doi:10.1002/JLB.MR0618-241RR
 
-[^levins-1985]: Levins, Richard and Richard Lewontin, 1985,*The Dialectical Biologist*, Cambridge, MA: Harvard University Press.
+[^levins-1985]: Levins, Richard and Richard Lewontin, 1985, *The Dialectical Biologist*, Cambridge, MA: Harvard University Press.
 
 [^loeb-1945]: Loeb, Leo W., 1945, *The Biological Basis of Individuality*, Springfield, IL: Charles C Thomas.
 
@@ -413,7 +413,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^love-2017]: Love, Alan C. and Ingo Brigandt, 2017, “Philosophical Dimensions of Individuality”, in Scott Lidgard and Lynn K. Nyhart (eds.), *Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives*, Chicago: University of Chicago Press, pp. 318–348.
 
-[^löwy-1991]: Löwy, Ilana, 1991, “The Immunological Construction of the Self”, in*Organism and the Origins of Self*, Alfred I. Tauber (ed.), Dordrecht: Kluwer Academic Publishers, pp. 43–75.
+[^löwy-1991]: Löwy, Ilana, 1991, “The Immunological Construction of the Self”, in *Organism and the Origins of Self*, Alfred I. Tauber (ed.), Dordrecht: Kluwer Academic Publishers, pp. 43–75.
 
 [^löwy-2008]: –––, 2008, “Immunology in the Clinics: Reductionism, Holism or Both?”, in Kroker, Keelan, and Mazumdar 2008: 165–176.
 
@@ -473,7 +473,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^nicholson-2018]: Nicholson, Daniel J., and John Dupré, (eds.). 2018, *Everything Flows: Towards a Processual Philosophy of Biology*, Oxford: Oxford University Press.
 
-[^nuño-2021]: Nuño de la Rosa, Laura, Mihaela Pavličev, and Arantza Etxeberria, 2021, “Pregnant Females as Historical Individuals: An Insight From the Philosophy of Evo-devo”,*Frontiers in Psychology*, 11: 572106. doi:10.3389/fpsyg.2020.572106
+[^nuño-2021]: Nuño de la Rosa, Laura, Mihaela Pavličev, and Arantza Etxeberria, 2021, “Pregnant Females as Historical Individuals: An Insight From the Philosophy of Evo-devo”, *Frontiers in Psychology*, 11: 572106. doi:10.3389/fpsyg.2020.572106
 
 [^odling-smee-2003]: Odling-Smee, John, Kevin Laland, and Marcus W. Feldman, 2003, *Niche Construction: The Neglected Process in Evolution*, Princeton: Princeton University Press.
 
@@ -549,7 +549,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^schneider-2020]: –––, 2020, “Can We Talk About Feminist Epistemic Values Beyond Gender? Lessons from the Gut Microbiome”, *Biological Theory*, 15: 25–38. doi:10.1007/s13752-019-00335-5
 
-[^schneider-2023]: –––, 2023, “The Microbiome Function in a Host Organism: A Medical Puzzle or an Essential Ecological Environment?”,*Biological Theory*: 1–12. doi:10.1007/s13752-023-00434-4
+[^schneider-2023]: –––, 2023, “The Microbiome Function in a Host Organism: A Medical Puzzle or an Essential Ecological Environment?”, *Biological Theory*: 1–12. doi:10.1007/s13752-023-00434-4
 
 [^schneider-2025]: –––, 2025, “Practicing Feminist Philosophy of Science: An Epistemic Perspective on Power Relations, Relationships, and Interactions”, in *Methods in the Philosophy of Science: A User’s Guide*, Adrian Currie and Sophie J. Veigl (eds.), Cambridge, MA: MIT Press, pp. 125–249
 
@@ -567,7 +567,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^soderqvist-2003]: Soderqvist, Thomas, 2003, *Science as Autobiography: The Troubled Life of Niels Jerne*, New Haven, CT: Yale University Press.
 
-[^sontag-1990]: Sontag, Susan, 1990,*Illness as Metaphor and AIDS and Its Metaphors*, New York: Anchor Books.
+[^sontag-1990]: Sontag, Susan, 1990, *Illness as Metaphor and AIDS and Its Metaphors*, New York: Anchor Books.
 
 [^swallow-2023]: Swallow, Julia, 2023, “Enrolling the Body as Active Agent in Cancer Treatment: Tracing Immunotherapy Metaphors and Materialities”, *Social Studies of Science*. doi:10.1177/03063127231199217
 
@@ -579,7 +579,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^swiatczak-2023]: –––, 2023, “Evolution Within the Body: The Rise and Fall of Somatic Darwinism in the Late Nineteenth Century”, *History and Philosophy of the Life Sciences*, 45(1): 8. doi:10.1007/s40656-023-00566-7
 
-[^tauber-1994]: Tauber, Alfred I., 1994,*The Immune Self: Theory or Metaphor?*, New York: Cambridge University Press.
+[^tauber-1994]: Tauber, Alfred I., 1994, *The Immune Self: Theory or Metaphor?*, New York: Cambridge University Press.
 
 [^tauber-1995]: –––, 1995, “Postmodernism and the Immune Self”, *Science in Contex*t, 8: 579–607.
 
@@ -601,11 +601,11 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^baalen-2014]: van Baalen, Minus and Philippe Huneman, 2014, “Organisms as Ecosystems/Ecosystems as Organisms”, *Biological Theor*y, 9(4): 357–360. doi:10.1007/s13752-014-0194-7
 
-[^regenmortel-2002]: van Regenmortel, Marc H. V., 2002, “Pitfalls of Reductionism in Immunology”, in*Promises and Limits of Reductionism in the Biomedical Sciences*, Marc van Regenmortel and David L. Hull (eds.), Chichester: John Wiley & Sons, pp. 47–66.
+[^regenmortel-2002]: van Regenmortel, Marc H. V., 2002, “Pitfalls of Reductionism in Immunology”, in *Promises and Limits of Reductionism in the Biomedical Sciences*, Marc van Regenmortel and David L. Hull (eds.), Chichester: John Wiley & Sons, pp. 47–66.
 
 [^varela-1988]: Varela, Francisco J., António Coutinho, B. Dupire, and Nelson M. Vaz, 1988, “Cognitive Networks: Immune, Neural, and Otherwise”, in *Theoretical Immunology, Part Two*, Alan S. Perelson (ed.), Redwood City, CA: Addison-Wesley Publishing Co., pp. 359–375.
 
-[^varela-1991]: Varela, Francisco J. and António Coutinho, 1991, “Second Generation Immune Networks”,*Immunology Today*, 12(5): 159–166.
+[^varela-1991]: Varela, Francisco J. and António Coutinho, 1991, “Second Generation Immune Networks”, *Immunology Today*, 12(5): 159–166.
 
 [^vaz-2011]: Vaz, Nelson M., 2011, “The Specificity of Immunological Observations”, *Constructivist Foundations*, 6: 334– 351.
 
@@ -627,7 +627,7 @@ animalism | biological individuals | biology: philosophy of | causation: probabi
 
 [^wiener-1961]: Wiener, Norbert, 1961, *Cybernetics or Control and Communication in the Animal and the Machine*, Cambridge, MA: MIT Press.
 
-[^wilce-2003]: Wilce, James M. (ed.), 2003,*Social and Cultural Lives of Immune Systems*, London and New York: Routledge.
+[^wilce-2003]: Wilce, James M. (ed.), 2003, *Social and Cultural Lives of Immune Systems*, London and New York: Routledge.
 
 [^woolley-2019]: Woolley, Sam, Emily C. Parke, David Kelley, Anthony M. Poole, and Austen R. D. Ganley, 2019, “Striving for Clarity About the ‘Lamarckian’ Nature of CRISPR–Cas Systems”, *Biology & Philosophy*, 34(1). doi:10.1007/s10539-018-9662-y
 

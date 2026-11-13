@@ -284,7 +284,7 @@ Archytas | Aristotle | Heraclitus | Philolaus | Plato | Pythagoreanism
 
 [^macris-2018]: Macris, C., 2018, ‘Pythagore de Samos’, in *Dictionnaire des philosophes antiques*, R. Goulet (ed.), Vol. VII, Paris: CNRS Éditions, 681–850.
 
-[^mansfeld-2020]: Mansfeld, J. and Runia, D., 2020, *Aëtiana V: An Edition of the Reconstructed Text of the*Placita*with a Commentary and a Collection of Related Texts*, 4 vols., Leiden: Brill.
+[^mansfeld-2020]: Mansfeld, J. and Runia, D., 2020, *Aëtiana V: An Edition of the Reconstructed Text of the* Placita *with a Commentary and a Collection of Related Texts*, 4 vols., Leiden: Brill.
 
 [^minar-1942]: Minar, Edwin L., 1942, *Early Pythagorean Politics in Practice and Theory*, Baltimore: Waverly Press.
 

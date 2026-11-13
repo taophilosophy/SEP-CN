@@ -161,7 +161,7 @@ Aristotle | Boethius, Anicius Manlius Severinus | Buridan, John [Jean] | medieva
 
 [^pinborg-1972]: Pinborg, Jan, 1972, *Logik und Semantik im Mittelalter. Ein Überblick*, Stuttgart-Bad Canstadt: Fromann-Holzboog.
 
-[^rijk-1962]: de Rijk, L.M., 1962–67, *Logica Modernorum: A Contribution to the History of Early Terminist Logic.*Vol. I: On the Twelfth Century Theories of Fallaciesl; Vol. II: The Origin and Early Development of the Theory of Supposition, Assen: Van Gorcum & Co.
+[^rijk-1962]: de Rijk, L.M., 1962–67, *Logica Modernorum: A Contribution to the History of Early Terminist Logic.* Vol. I: On the Twelfth Century Theories of Fallaciesl; Vol. II: The Origin and Early Development of the Theory of Supposition, Assen: Van Gorcum & Co.
 
 [^rijk-1968]: –––, 1968, “On the Genuine Text of Peter of Spain’s *Summule logicales* I: General problems concerning possible interpolations in the manuscripts,” *Vivarium*, 6: 1–34.
 

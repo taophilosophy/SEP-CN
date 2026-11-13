@@ -601,7 +601,7 @@ Bradley, Francis Herbert | Croce, Benedetto | Green, Thomas Hill | idealism | id
 
 [^sweet-1997]: –––, 1997, *Idealism and Rights*, Lanham, MD: University Press of America; paperback ed., 2005.
 
-[^sweet-1999]: –––, 1999, “Bosanquet and British Political Thought”, *Laval théologique et philosophique,*55: 99–114.
+[^sweet-1999]: –––, 1999, “Bosanquet and British Political Thought”, *Laval théologique et philosophique,* 55: 99–114.
 
 [^sweet-2005]: –––, 2005, “A.R. Lord and Later British Idealist Political Philosophy”, *British Journal of Politics & International Relations*, 7: 48–66.
 

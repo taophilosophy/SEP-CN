@@ -443,7 +443,7 @@ Table 2. Targeting, constructing, and planning transmitted variation
 
 [^kovaka-2019]: Kovaka, K. (2019). Underdetermination and Evidence in the Developmental Plasticity Debate. *The British Journal for the Philosophy of Science* 70 (1): 127–52.
 
-[^kronfeldner-2021]: Kronfeldner, Maria. (2021). Digging the Channels of Inheritance: On How to Distinguish between Cultural and Biological Inheritance.*Philosophical Transactions of the Royal Society B: Biological Sciences* 376 (1828): 20200042.
+[^kronfeldner-2021]: Kronfeldner, Maria. (2021). Digging the Channels of Inheritance: On How to Distinguish between Cultural and Biological Inheritance. *Philosophical Transactions of the Royal Society B: Biological Sciences* 376 (1828): 20200042.
 
 [^lachmann-2016]: Lachmann, M., & Libby, E. (2016). Epigenetic Inheritance Systems Contribute to the Evolution of a Germline. *Philosophical Transactions of the Royal Society B* (Biological Science), 371 (1701). doi:10.1098/rstb.2015.0445
 

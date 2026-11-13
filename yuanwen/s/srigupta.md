@@ -3,7 +3,7 @@
 
 *Aitken, Allison*
 
-Śrīgupta was a circa seventh–early eighth century Indian Buddhist philosopher who made notable contributions to the Madhyamaka Buddhist philosophical tradition in relation to metaphysics, epistemology, philosophy of mind, and the theory of two truths (*satyadvaya*). In his best-known work, the *Introduction to Reality* (*Tattvāvatāra*, abbreviated TA) and autocommentary (*Tattvāvatāravṛtti*, abbreviated TAV),[^note-1] Śrīgupta presents the first fully-developed Madhyamaka iteration of the influential “neither-one-nor-many argument” (*ekānekaviyogahetu*), which, in succeeding centuries, was to become one of the most important arguments for the Madhyamaka central commitment to “emptiness” (*śūnyatā*), i.e., the universal absence of an intrinsic nature (*niḥsvabhāvatā*) (§1). In late Buddhist India, the neither-one-nor-many argument occupied a central place in intra-Buddhist debates between Madhyamaka and Yogācāra philosophers concerning the ontological status of the mind and mental content. And in Tibetan Madhyamaka philosophical traditions, this line of reasoning would come to be championed as one of the so-called “four/five great arguments for emptiness” (*gtan tshigs chen po bzhi/lnga*). The *Introduction to Reality* also appears to be the earliest example of the influential synthesis of Nāgārjuna’s Madhyamaka metaphysics with Dignāga (c. fifth–sixth century) and Dharmakīrti’s (c. sixth–seventh century) tradition of logic and epistemology.
+Śrīgupta was a circa seventh–early eighth century Indian Buddhist philosopher who made notable contributions to the Madhyamaka Buddhist philosophical tradition in relation to metaphysics, epistemology, philosophy of mind, and the theory of two truths (*satyadvaya*). In his best-known work, the *Introduction to Reality* (*Tattvāvatāra*, abbreviated TA) and autocommentary (*Tattvāvatāravṛtti*, abbreviated TAV),[^note-1] Śrīgupta presents the first fully-developed Madhyamaka iteration of the influential “neither-one-nor-many argument” (*ekānekaviyogahetu*), which, in succeeding centuries, was to become one of the most important arguments for the Madhyamaka central commitment to “emptiness” (*śūnyatā*), i.e., the universal absence of an intrinsic nature (*niḥsvabhāvatā*) (§1). In late Buddhist India, the neither-one-nor-many argument occupied a central place in intra-Buddhist debates between Madhyamaka and Yogācāra philosophers concerning the ontological status of the mind and mental content. And in Tibetan Madhyamaka philosophical traditions, this line of reasoning would come to be championed as one of the so-called “four/five great arguments for emptiness” (gtan tshigs chen po bzhi/lnga). The *Introduction to Reality* also appears to be the earliest example of the influential synthesis of Nāgārjuna’s Madhyamaka metaphysics with Dignāga (c. fifth–sixth century) and Dharmakīrti’s (c. sixth–seventh century) tradition of logic and epistemology.
 
 Few of Śrīgupta’s biographical details survive, and his dates are uncertain, but a considerable number of Tibetan authors agree that Śrīgupta lived in Bengal and was the student of Bhāviveka (c. sixth century) and the teacher of Jñānagarbha (c. eighth century), which would situate him roughly in the seventh century.[^note-2] His *Introduction to Reality* reflects the influence of Bhāviveka’s interpretation of Madhyamaka, making him part of a tradition that would later come to be known as *Svātantrika-Madhyamaka.[^note-3] It is Bhāviveka’s interpretive tradition of Madhyamaka metaphysics that Śrīgupta integrates with the Dignāga-Dharmakīrti tradition of logic and epistemology, an approach that was adopted by subsequent prominent Mādhyamikas including Jñānagarbha, Śāntarakṣita, Kamalaśīla (late eighth century), and Haribhadra (late eighth century), and which was later institutionalized in Tibetan Buddhist scholasticism.[^note-4] This synthesis is exemplified by Śrīgupta’s influential presentation of conventional truth/reality (*saṃvṛtisatya*),[^note-5] which, together with the ultimate truth (*paramārthasatya*), constitute the two truths framework (§2). Śrīgupta’s account combines earlier Madhyamaka characterizations of conventional reality as that which is dependently originated (*pratītyasamutpanna*) with a repurposing of Dharmakīrti’s causal efficacy (*arthakriyāsamartha*) criterion for ultimate reality (PVin 2.55ab=PV 3.3ab). Śrīgupta adds a third criterion, which says that whatever is conventionally real is satisfactory only when not subjected to critical analysis (**avicāraikaramaṇīya*). This presentation of conventional reality was taken up by later Mādhyamikas including Jñānagarbha, Śāntarakṣita, Kamalaśīla, Haribhadra, Bhāviveka II (eighth century),[^note-6] and Atiśa (982–1054).
 
@@ -23,7 +23,9 @@ Importantly, Nāgārjuna’s Madhyamaka recognizes mereological dependence as a 
 
 Śrīgupta’s formulation of the neither-one-nor-many argument thus builds on a long and complex history in Indian philosophical thought and is anticipated in the work of Nāgārjuna, who, for example, states in his *Precious Garland* (*Ratnāvalī*, RĀ):
 
-> Something is not a unity if it has multiple [spatial or temporal] loci. There is nothing that lacks [multiple spatial or temporal] loci. Without any unity, there is no multiplicity.[^note-8] [RĀ 1.71abc]
+> Something is not a unity if it has multiple [spatial or temporal] loci.
+> There is nothing that lacks [multiple spatial or temporal] loci.
+> Without any unity, there is no multiplicity.[^note-8] [RĀ 1.71abc]
 
 Three premises might be extracted from Nāgārjuna’s RĀ 1.71 that form the backbone of Śrīgupta’s argument and clarify what he takes to be the nature of and relation between unity and multiplicity:
 
@@ -67,7 +69,10 @@ Nāgārjuna applies this argument to entities from both a spatial and temporal p
 
 The central inference of Śrīgupta’s neither-one-nor-many argument is laid out in the opening stanza of the *Introduction to Reality*:
 
-> In reality, [*s*] everything that exists externally and internally [*p*] does not have intrinsic nature, [*r*] due to lacking an intrinsic nature that is either unitary or non-unitary, [*e*] like a reflection.[^note-10] [TA 1]
+> In reality, [*s*] everything that exists externally and internally
+> [*p*] does not have intrinsic nature,
+> [*r*] due to lacking an intrinsic nature that is either unitary or non-unitary,
+> [*e*] like a reflection.[^note-10] [TA 1]
 
 Here, [*s*] denotes the subject (*pakṣa, dharmin*) of the inference, [*p*] denotes the predicate, or property to be proved (*sādhyadharma*) of the subject, [*r*] denotes the reason (*hetu*), or proving property (*sādhanadharma*), and [*e*] denotes the example (*dṛṣṭānta*) in which the co-presence of the property to be proved and the proving property is instantiated. Formulated in the standard three-part inference, the argument in TA 1 runs as follows:
 
@@ -75,7 +80,7 @@ Here, [*s*] denotes the subject (*pakṣa, dharmin*) of the inference, [*p*] den
 - Major premise: Entailment relation *(vyāpti)* between the reason property and the property to be proved: *Whatever is neither one nor many does not have an intrinsic nature.*
 - Minor premise: Predication of the reason property of the subject (*pakṣadharmatā*): *All that exists externally and internally is neither one nor many.*
 
-Although the inferential subject of Śrīgupta’s neither-one-nor-many argument may be translated as “all that *exists* externally and internally,” the term “exists” (*gnas*) here is ontologically innocent, merely signifying existence simpliciter, such that the subject might be paraphrased as “whatever there is internally and externally”. After all, the property to be proved of the subject—the absence of an intrinsic nature—is an ontological status. To exist with an intrinsic nature is to exist “ultimately” (*paramārthena*). So, if “exists” in the statement of the inferential subject *were* ontologically loaded, then the inference would either be contradictory (if it meant “exists *ultimately*”) or question-begging (if it meant “exists *conventionally*”). Instead, as Śrīgupta clarifies, the inferential subject is determined based on “conventional assessment” (*tha snyad ’jal ba*), i.e., whatever appearing objects are determined to exist by conventionally trustworthy sources of knowledge (TAV *ad* TA 17).[^note-11]
+Although the inferential subject of Śrīgupta’s neither-one-nor-many argument may be translated as “all that *exists* externally and internally,” the term “exists” (*gnas*) here is ontologically innocent, merely signifying existence simpliciter, such that the subject might be paraphrased as “whatever there is internally and externally”. After all, the property to be proved of the subject—the absence of an intrinsic nature—is an ontological status. To exist with an intrinsic nature is to exist “ultimately” (*paramārthena*). So, if “exists” in the statement of the inferential subject *were* ontologically loaded, then the inference would either be contradictory (if it meant “exists *ultimately*”) or question-begging (if it meant “exists *conventionally*”). Instead, as Śrīgupta clarifies, the inferential subject is determined based on “conventional assessment” (tha snyad ’jal ba), i.e., whatever appearing objects are determined to exist by conventionally trustworthy sources of knowledge (TAV *ad* TA 17).[^note-11]
 
 This argument turns on three features of the one-or-many disjunctive predicate pair, all of which were alluded to in Nāgārjuna’s *Precious Garland*. These features clarify the meaning of the major premise (*whatever is neither one nor many lacks an intrinsic nature*) while also helping to explain Śrīgupta’s strategy for establishing the minor premise (*all things are neither one nor many*).
 
@@ -97,7 +102,7 @@ The structure of Śrīgupta’s argument in support of the minor premise, *all t
 
 The common case against the Conjoined View runs as follows: each fundamental particle in a composite is in contact with neighboring particles either wholly or partially. If, in the first case, the entirety of a particle were in contact with each adjacent particle, then all the particles would merge with one another and the composite would collapse into the size of a single particle.[^note-16] In other words, no quantity of point-like, unextended particles could ever conjoin to yield an extended composite. On the other hand, if a particle were only partially in contact with adjacent particles—e.g., if particle *x* were in contact with particle *y* on its left side at a locus $l_1$ and in contact with particle *z* on its right side at $l_2$—then it follows that particle *x* would have spatially distinct parts, and would fail the simplicity criterion for being a fundamental particle.
 
-Śrīgupta’s argument echoes this line of reasoning, but it might be read as targeting all three views surveyed above since it does not explicitly center on the point of *contact* between particles, but rather on the point at which a given particle is facing (**adhimukha*, *mngon par phyogs pa*) neighboring particles:
+Śrīgupta’s argument echoes this line of reasoning, but it might be read as targeting all three views surveyed above since it does not explicitly center on the point of *contact* between particles, but rather on the point at which a given particle is facing (**adhimukha*, mngon par phyogs pa) neighboring particles:
 
 > A particle could not be unitary because a composite of [true unities] is impossible. [TA 2a]
 >
@@ -143,11 +148,12 @@ The Real-or-Unreal Dilemma and the Distinct-or-Identical Dilemma jointly yield t
 
 #### 1.2.1 Rejecting realist views about mental representations
 
-In tackling the first view—that (i) *consciousness is non-distinct from real representations*—Śrīgupta runs a version of the One-nor-Many Dilemma on consciousness, which says: the mereological structure of consciousness is either truly unitary or truly manifold. In other words, consciousness that is non-distinct from a real representation is either simple or a composite of simples. The first alternative, the Simple Consciousness Lemma, is exemplified by the so-called “variegated nonduality” view (*citrādvaita*, *sna tshogs gnyis med pa*), while the second alternative, the Complex Consciousness Lemma, is commonly referred to as the “numerical parity of consciousness and representations” view (*rnam shes grangs mnyam pa* or *gzung ’dzin grangs mnyam pa*).[^note-25]
+In tackling the first view—that (i) *consciousness is non-distinct from real representations*—Śrīgupta runs a version of the One-nor-Many Dilemma on consciousness, which says: the mereological structure of consciousness is either truly unitary or truly manifold. In other words, consciousness that is non-distinct from a real representation is either simple or a composite of simples. The first alternative, the Simple Consciousness Lemma, is exemplified by the so-called “variegated nonduality” view (*citrādvaita*, sna tshogs gnyis med pa), while the second alternative, the Complex Consciousness Lemma, is commonly referred to as the “numerical parity of consciousness and representations” view (rnam shes grangs mnyam pa or gzung ’dzin grangs mnyam pa).[^note-25]
 
 Śrīgupta’s argument against the Simple Consciousness Lemma turns on the datum that mental content, like the representation you might have of this page, is phenomenally variegated (*citra*, sna tshogs). And whatever is phenomenally variegated, being always conceptually divisible into proper parts (like the various subregions of your representation of this page—the top, the bottom, etc.), is not truly unitary. But if a non-unitary representation is non-distinct from consciousness, then given the Law of Non-Contradiction, consciousness too must be non-unitary:
 
-> Since representations that are non-distinct [from the mind] are multifaceted (*citra*), the mind cannot be unitary. [TA 4ab]
+> Since representations that are non-distinct [from the mind]
+> are multifaceted (*citra*), the mind cannot be unitary. [TA 4ab]
 >
 > Consciousness could not be unitary because [on your view] it is non-distinct from its non-unitary representations. Otherwise, on account of having contradictory properties, [consciousness and representations] would [absurdly] arise in two distinct loci.[^note-26]
 
@@ -170,13 +176,15 @@ The second alternative in the Distinct-or-Identical Dilemma available to realist
 
 Śrīgupta also argues that no coherent antirealist account of representations is on offer, whether consciousness is taken to be distinct or non-distinct from unreal representations. First, in rejecting the Non-Distinct Lemma, he argues that if (iii) *consciousness is non-distinct from unreal representations*, then given the Law of Non-Contradiction, the mind too would be unreal, which is an unacceptable consequence for his idealist opponents:
 
-> If representations were simply unreal, then absurd consequences would follow.[^note-28] [TA 5ab1]
+> If representations were simply unreal,
+> then absurd consequences would follow.[^note-28] [TA 5ab1]
 
 When there is an experience, then not only would these [representations] be simply unreal, but it follows that cognition too would have [this same unreal] nature.
 
 Turning to the Distinct Lemma on which (iv) *consciousness is distinct from unreal representations*, Śrīgupta runs yet another implicit dilemma, arguing that consciousness and an unreal representation as two distinct entities are either related or unrelated. First, in addressing the Unrelated Lemma, he argues that if consciousness stood in *no* relation to a given representation, then there is no explanation for why the objects of ordinary experience appear to us *at all*, much less why they do so with spatiotemporal determinacy and consistency:
 
-> Due to being unrelated [to consciousness], how could [representations] determinately appear?[^note-29] [TA 5b2c]
+> Due to being unrelated [to consciousness],
+> how could [representations] determinately appear?[^note-29] [TA 5b2c]
 
 Thus, consciousness and the unreal representation that is its intentional object must surely stand in *some* sort of relation with one another, perhaps a causal relation, in order to account for appearing objects in our experience. But, as Śrīgupta suggests, a real thing can only stand in a bona fide relation with another real thing. An actual forest fire clearly cannot stand in a bona fide causal relation with a fire-breathing chimera. Likewise, an unreal representation cannot cause a real cognition of it. Thus, he argues, the Related Lemma is no more viable than the Unrelated Lemma for the antirealist:
 
@@ -190,11 +198,15 @@ Having rejected both realists and antirealists about representations, Śrīgupta
 
 He begins this argument by asking rhetorically,
 
-> But if [awareness] were free from duality, then how could it be *aware*?[^note-31] [TA 6ab1]
+> But if [awareness] were free from duality,
+> then how could it be *aware*?[^note-31] [TA 6ab1]
 
 That is, if awareness were truly nondual, or simple, and thus not conceptually divisible into subjective and objective parts, or aspects, then how could it meet the definition of awareness as necessarily intentional? He supposes that an opponent may respond that, despite lacking a distinct object, nondual awareness nonetheless meets the definition of awareness insofar as it is *reflexively* aware; it takes itself as its intentional object. Yet Śrīgupta insists that reflexive awareness (*svasaṃvedana, svasaṃvitti*), too, instantiates a complex structure, smuggling in objective and subjective features, and thus fails to meet the simplicity criterion for nonduality. He sums up his argument as follows:
 
-> Due to lacking a cognitive object, [nondual awareness] could not cognize anything else. Due to being nondual, [awareness] could not cognize itself. Upon analysis, it cannot be correct [that awareness is nondual]. Tell me, what other option is there?[^note-32] [TAV AŚ 3]
+> Due to lacking a cognitive object, [nondual awareness] could not cognize anything else.
+> Due to being nondual, [awareness] could not cognize itself.
+> Upon analysis, it cannot be correct [that awareness is nondual].
+> Tell me, what other option is there?[^note-32] [TAV AŚ 3]
 
 Having ruled out nondual awareness as the last best candidate for a mental simple, given the metaphysical priority of true unities to a true multiplicity, Śrīgupta concludes that the mind, like matter, is neither one nor many, and thus lacks an intrinsic nature.
 
@@ -214,7 +226,8 @@ As noted above, Śrīgupta takes his case against fundamental particles to have 
 
 Śrīgupta reasons that whatever is all-pervasive, or omnipresent, is necessarily conceptually divisible into proper parts corresponding to the spatially or temporally distinct loci with which it is connected:
 
-> Due to being connected with distinct loci, how could there be a unitary omnipresent entity? [TA 9cd]
+> Due to being connected with distinct loci,
+> how could there be a unitary omnipresent entity? [TA 9cd]
 
 Nor is it admissible, by definition, that the Vaiśeṣika omnipresent substances could be manifold. And since localized material and mental entities have already been rejected together with whatever is purportedly founded in them, Śrīgupta concludes that nothing with an intrinsic nature could be either omnipresent or localized since their unity and multiplicity have both been rejected.
 
@@ -256,7 +269,8 @@ By the eighth century, this threefold criterion for conventional reality had bec
 
 As discussed above, Śrīgupta’s *Introduction to Reality* is noteworthy for being one of the earliest works—if not *the* earliest work—to synthesize Dharmakīrti’s tradition of logic and epistemology with Madhyamaka metaphysics. While Nāgārjuna is the only figure Śrīgupta mentions by name in this text, the only citations that appear come from Dharmakīrti.[^note-41] Śrīgupta’s repurposing of Dharmakīrti’s causal efficacy criterion for *ultimately* real particulars as the criterion for *conventionally* real things marks both an example of Dharmakīrti’s influence on Śrīgupta’s Madhyamaka as well as one respect in which Śrīgupta apparently subverts Dharmakīrti’s ontology. Dharmakīrti’s well-known use of the causal efficacy criterion to qualify ultimate reals reads:
 
-> Whatever has the capacity for causal efficacy is ultimately real. [Whatever is] otherwise is conventionally real. These two are [respectively] called the “particular” and the “universal”.[^note-42] [PV 3.3]
+> Whatever has the capacity for causal efficacy is ultimately real.
+> [Whatever is] otherwise is conventionally real. These two are [respectively] called the “particular” and the “universal”.[^note-42] [PV 3.3]
 
 Here, Dharmakīrti characterizes the objects of the two sources of knowledge (*pramāṇa*) that he accepts: perception (*pratyakṣa*) and inference (*anumāna*). Ultimately real particulars, which are distinguished by their capacity for causal efficacy, ^{[^note-43]} are known by perception, which is necessarily nonconceptual. By contrast, conventionally real universals (*sāmānya*) are known by means of inference, which is invariably conceptual.[^note-44] But since nothing is ultimately real according to Madhyamaka, Śrīgupta would take Dharmakīrti’s first ontological category (ultimately real particulars possessing causal efficacy) to be an empty one. Instead, as Śrīgupta and many subsequent Mādhyamikas claim, the capacity for causal efficacy is the mark of whatever is merely conventionally real, and it is only conventionally real things that are the objects of both perceptual and inferential cognitions.
 
@@ -264,7 +278,8 @@ Although Nāgārjuna does not employ the same expression for causal efficacy use
 
 Beginning with Śrīgupta’s student, Jñānagarbha, in his *Differentiating the Two Truths* (*Satyadvayavibhaṅga*, SDV), the causal efficacy criterion came to be standardly cited as the touchstone for distinguishing between conventional objects of veridical cognitions and those of non-veridical cognitions—i.e., correct vs. mistaken conventions (*tathyasaṃvṛti* vs. *mithyāsaṃvṛti*), or real vs. unreal conventional things (Eckel 1986: 53–54, 122–23, n. 36; Seitetsu Moriyama 1991)[^moriyama-1991]. Jñānagarbha states that a conventionally real thing is a “thing simpliciter” (**vastumātra*) that is dependently originated, and which is not confused with the superimposition of a mistaken or merely imagined concept (SDV 8). He then goes on to clarify that the way in which one determines whether an appearing object involves a mistaken conceptual superimposition is by verifying whether or not it is causally efficacious:
 
-> Despite being similar in appearance, real and unreal conventional [things] are differentiated based on whether or not they have the capacity for causal efficacy.[^note-45] [SDV 12]
+> Despite being similar in appearance, real and unreal conventional [things]
+> are differentiated based on whether or not they have the capacity for causal efficacy.[^note-45] [SDV 12]
 
 As Jñānagarbha explains in his commentary on this stanza, although things like actual water and the pseudo-water of a mirage are similar in their appearance, they can be differentiated and identified respectively as real and unreal conventional entities based on whether or not they have the capacity to slake one’s thirst (SDVV *ad* SDV 12).
 
@@ -278,7 +293,10 @@ After having set out his threefold criterion for conventional reality in TA 11, 
 
 > Thus, regarding these things that appear externally and internally, which cannot withstand the pressure of analysis and are produced from causes similar to themselves, if one has not analyzed the causal efficacy on account of which these conventional things arise, one will approach satisfaction here and there. [TAV *ad* TA 11]
 >
-> Ultimately, things are devoid of unity, multiplicity, and so forth. If one has not engaged in examination, then [things] appear to have a satisfactory nature. [TAV AŚ 8]
+> Ultimately, things are devoid of unity,
+> multiplicity, and so forth.
+> If one has not engaged in examination,
+> then [things] appear to have a satisfactory nature. [TAV AŚ 8]
 
 As mentioned above, the neither-one-nor-many argument became part of a canon of Madhyamaka arguments for emptiness, and while this argument critically analyzes the unity and ontological independence of things, the other arguments principally engage in critical analysis of anything that has an intrinsic nature possessing the capacity to participate in causation. In TAV *ad* TA 11, Śrīgupta gestures to these causal arguments, suggesting that, upon examination, causal efficacy itself is not a process that involves relata, a causal relation, or causal activity that bear these identities intrinsically.
 
@@ -286,23 +304,32 @@ A precursor to this “satisfies when not analyzed” criterion for conventional
 
 Śrīgupta characterizes both the standard sources of knowledge that he takes up from the Dignāga-Dharmakīrti epistemological tradition—perception and inference—as satisfying only when not analyzed, since our ordinary way of seeing is deceptive (**visaṃvādi*, slu ba):
 
-> An object of knowledge (*prameya*) is established by a source of knowledge (*pramāṇa*) that satisfies when not analyzed, due to seeing deceptively; that being so, the practices of the world are safeguarded.[^note-48] [TA 17]
+> An object of knowledge (*prameya*) is established
+> by a source of knowledge (*pramāṇa*)
+> that satisfies when not analyzed, due to seeing deceptively;
+> that being so, the practices of the world are safeguarded.[^note-48] [TA 17]
 
-This account of the ordinary sources of knowledge, which take conventional entities and truths as their objects, as “seeing deceptively” (*slu ba mthong*) accords with the etymology of *saṃvṛti* (translated as “conventional” here), which literally means “concealing” or “obscuring,” suggesting that conventional truths, and even our conventional ways of knowing, obscure the actual nature of things and are thus misleading. Yet this description of the standard sources of knowledge as deceptive also appears to allude to Dharmakīrti’s (first) definition of a source of knowledge as *non*-deceiving (*avisaṃvādi*, *bslu ba med pa*) in PV 2.1,[^note-49] serving as another instance in which Śrīgupta seems to subvert a Dharmakīrtian definition (see also §2.1). Śrīgupta goes on to describe the standard sources of knowledge as a kind of “conventional assessment” (*tha snyad ’jal ba*). He explains that conventional assessment can be used to reject characteristics of things that are fabricated by unreliable textual sources or by erroneous conceptual superimpositions, and in this way, he, like Bhāviveka, suggests that conventional assessment in the form of inferential reasoning can establish claims compatible with the ultimate truth of universal emptiness insofar as they may exclude whatever is contrary to insight into reality. Śrīgupta emphasizes, the fact that this conventional assessment—whether perceptual or inferential—is deceptive in one important respect does not undermine the conventional reality of mere appearances, which are the subject of the neither-one-nor-many inference.[^note-50] So, while conventional things and sources of knowledge that engage in conventional assessment do not withstand ultimate analysis that seeks to uncover an intrinsic nature, such analysis does not vitiate their status as conventionally real appearances or conventionally trustworthy sources of knowledge, and thus “the practices of the world are safeguarded”.
+This account of the ordinary sources of knowledge, which take conventional entities and truths as their objects, as “seeing deceptively” (slu ba mthong) accords with the etymology of *saṃvṛti* (translated as “conventional” here), which literally means “concealing” or “obscuring,” suggesting that conventional truths, and even our conventional ways of knowing, obscure the actual nature of things and are thus misleading. Yet this description of the standard sources of knowledge as deceptive also appears to allude to Dharmakīrti’s (first) definition of a source of knowledge as *non*-deceiving (*avisaṃvādi*, bslu ba med pa) in PV 2.1,[^note-49] serving as another instance in which Śrīgupta seems to subvert a Dharmakīrtian definition (see also §2.1). Śrīgupta goes on to describe the standard sources of knowledge as a kind of “conventional assessment” (tha snyad ’jal ba). He explains that conventional assessment can be used to reject characteristics of things that are fabricated by unreliable textual sources or by erroneous conceptual superimpositions, and in this way, he, like Bhāviveka, suggests that conventional assessment in the form of inferential reasoning can establish claims compatible with the ultimate truth of universal emptiness insofar as they may exclude whatever is contrary to insight into reality. Śrīgupta emphasizes, the fact that this conventional assessment—whether perceptual or inferential—is deceptive in one important respect does not undermine the conventional reality of mere appearances, which are the subject of the neither-one-nor-many inference.[^note-50] So, while conventional things and sources of knowledge that engage in conventional assessment do not withstand ultimate analysis that seeks to uncover an intrinsic nature, such analysis does not vitiate their status as conventionally real appearances or conventionally trustworthy sources of knowledge, and thus “the practices of the world are safeguarded”.
 
-Subsequently, Jñānagarbha characterizes (i) conventional truths as corresponding with appearance (*ji ltar snang ba*) and (ii) the ultimate truth as consistent with reasoning (*rigs pa ji lta ba bzhin*) (SDVV *ad* SDV 3cd),[^note-51] which is non-deceiving (**avisaṃvādi*, *slu ba med pa*) (SDV 3–4).[^note-52] With this, Jñānagarbha, too, appears to allude to—and once again subvert—Dharmakīrti’s definition of a source of knowledge as non-deceiving in PV 2.1 (Eckel 2009: 117)[^eckel-2009], yet he does so in a manner different from Śrīgupta. For Dharmakīrti, non-deceptiveness qualifies both perceptual and inferential types of knowledge-events, while Śrīgupta describes both as deceptive. Yet Jñānagarbha seems to suggest that perceptual cognitions—whose objects are conventional appearances—are deceptive insofar as they can be undermined by analysis, while at least certain instances of inferential reasoning are non-deceptive insofar as they are compatible with the ultimate truth.
+Subsequently, Jñānagarbha characterizes (i) conventional truths as corresponding with appearance (ji ltar snang ba) and (ii) the ultimate truth as consistent with reasoning (rigs pa ji lta ba bzhin) (SDVV *ad* SDV 3cd),[^note-51] which is non-deceiving (**avisaṃvādi*, slu ba med pa) (SDV 3–4).[^note-52] With this, Jñānagarbha, too, appears to allude to—and once again subvert—Dharmakīrti’s definition of a source of knowledge as non-deceiving in PV 2.1 (Eckel 2009: 117)[^eckel-2009], yet he does so in a manner different from Śrīgupta. For Dharmakīrti, non-deceptiveness qualifies both perceptual and inferential types of knowledge-events, while Śrīgupta describes both as deceptive. Yet Jñānagarbha seems to suggest that perceptual cognitions—whose objects are conventional appearances—are deceptive insofar as they can be undermined by analysis, while at least certain instances of inferential reasoning are non-deceptive insofar as they are compatible with the ultimate truth.
 
 When Jñānagarbha articulates his version of the “satisfies when not analyzed” criterion for the conventional, he does so in *normative* terms to the effect that one *ought not* analyze conventionally real things or the conventional truths concerning them. In this respect, his presentation again bears at least superficial similarities to that of Candrakīrti, who states in his *Introduction to the Middle Way*,
 
-> If one critically analyzes these things, one does not find any real nature behind them, Thus, one should not analyze the conventional truths of the world.[^note-53] [MAv 6.35]
+> If one critically analyzes these things,
+> one does not find any real nature behind them,
+> Thus, one should not analyze
+> the conventional truths of the world.[^note-53] [MAv 6.35]
 
 Similarly, in his *Differentiating the Two Truths*, Jñānagarbha states,
 
-> Since the nature [of a conventionally real thing] corresponds with how it appears, one should not analyze it. If one does analyze it, the object is undermined, having become something else.[^note-54] [SDV 21]
+> Since the nature [of a conventionally real thing] corresponds with how it appears,
+> one should not analyze it.
+> If one does analyze it, the object is undermined,
+> having become something else.[^note-54] [SDV 21]
 
 Here, Jñānagarbha explains that the conventional nature of a conventionally real object accords with its appearance, meaning, for instance, the device on which you are reading this article appears to be an independent and unitary object, and as such, these properties of independence and unity are part of its conventional nature. Yet the ontological independence and true unity of the device are undermined by critical examination such that it “becomes something else” qua cognitive object when analyzed insofar as it may be continually deconstructed into a plurality of more basic parts upon which it depends for its existence. Likewise, the participation of conventionally real things in causal processes does not stand up to ultimate analysis either. In *Differentiating the Two Truths*, Jñānagarbha demonstrates this point using the argument rejecting the four possible manners of causation (*catuṣkoṭyutpādapratiṣedhahetu*) (SDV 14 and SDVV *ad* 14). This argument aims to demonstrate that whatever participates in causation could not possess an intrinsic nature by showing that if cause and result *did* possess intrinsic natures, then (i) multiple results could not arise from a single cause, (ii) nor a single result from multiple causes, (iii) nor multiple results from multiple causes, (iv) nor a single result from a single cause.
 
-Unlike Candrakīrti and Jñānagarbha, Śrīgupta does not articulate this “satisfies when not analyzed” criterion in normative terms, and in this way his presentation looks closer to Bhāviveka’s claim that conventional dependent origination and causal processes are generally accepted when not critically analyzed (**avicāraprasiddha*). Significantly, however, the *Introduction to Reality* appears to be one of the earliest works featuring the phrase that conventional truths/conventionally real things “*satisfy only* when not analyzed” (**avicāraikaramaṇīya*, *ma brtags gcig pu nyams dga’ ba/ma brtags na nyams dga’ ba*), terminology that was standardly adopted by many subsequent Mādhyamikas beginning in the eighth century, including Śāntarakṣita, Kamalaśīla, and Haribhadra, as well as Dharmamitra’s (fl. c. 800) *Abhisamayālaṃkāraprasphuṭapadā*, Prajñākaramati’s (tenth century) *Bodhicaryāvatārapañjikā*, Jñānavajra’s *Āryalaṅkāvatāranāmamahāyāna-sūtravṛttitathāgatahṛdayālaṃkāra*, Jayānanda’s (twelfth century) *Madhyamakāvatāraṭīkā*, and Abhayākaragupta’s (twelfth century) *Munimatālaṃkāra* and *Marmakaumudī̄*. With the addition of this phrase, the criterion might be glossed as meaning that conventionally real objects *satisfy* our ordinary notions of independence and unity *only* so long as they are not subjected to critical analysis. Akahane (2003: 127) attributes the earliest use of the phrase “satisfies only when not analyzed” (*avicāraikaramaṇīya*) to Avalokitavrata’s (c. 700) voluminous commentary on Bhāviveka’s *Lamp of Wisdom* (*Prajñāpradīpaṭīkā*, PPṬ), though further research is required to determine the relative chronology of Śrīgupta and Avalokitavrata. Prajñākaragupta also uses the expression repeatedly to characterize the conventional in his *Ornament of the Explanation of the Sources of Knowledge*, though he argues for a Yogācāra view on which the ultimate—nondual awareness—*does* withstand critical analysis, as evidenced by its being impervious to the neither-one-nor-many argument (Inami 2011)[^inami-2011].[^note-55]
+Unlike Candrakīrti and Jñānagarbha, Śrīgupta does not articulate this “satisfies when not analyzed” criterion in normative terms, and in this way his presentation looks closer to Bhāviveka’s claim that conventional dependent origination and causal processes are generally accepted when not critically analyzed (**avicāraprasiddha*). Significantly, however, the *Introduction to Reality* appears to be one of the earliest works featuring the phrase that conventional truths/conventionally real things “*satisfy only* when not analyzed” (**avicāraikaramaṇīya*, ma brtags gcig pu nyams dga’ ba/ma brtags na nyams dga’ ba), terminology that was standardly adopted by many subsequent Mādhyamikas beginning in the eighth century, including Śāntarakṣita, Kamalaśīla, and Haribhadra, as well as Dharmamitra’s (fl. c. 800) *Abhisamayālaṃkāraprasphuṭapadā*, Prajñākaramati’s (tenth century) *Bodhicaryāvatārapañjikā*, Jñānavajra’s *Āryalaṅkāvatāranāmamahāyāna-sūtravṛttitathāgatahṛdayālaṃkāra*, Jayānanda’s (twelfth century) *Madhyamakāvatāraṭīkā*, and Abhayākaragupta’s (twelfth century) *Munimatālaṃkāra* and *Marmakaumudī̄*. With the addition of this phrase, the criterion might be glossed as meaning that conventionally real objects *satisfy* our ordinary notions of independence and unity *only* so long as they are not subjected to critical analysis. Akahane (2003: 127) attributes the earliest use of the phrase “satisfies only when not analyzed” (*avicāraikaramaṇīya*) to Avalokitavrata’s (c. 700) voluminous commentary on Bhāviveka’s *Lamp of Wisdom* (*Prajñāpradīpaṭīkā*, PPṬ), though further research is required to determine the relative chronology of Śrīgupta and Avalokitavrata. Prajñākaragupta also uses the expression repeatedly to characterize the conventional in his *Ornament of the Explanation of the Sources of Knowledge*, though he argues for a Yogācāra view on which the ultimate—nondual awareness—*does* withstand critical analysis, as evidenced by its being impervious to the neither-one-nor-many argument (Inami 2011)[^inami-2011].[^note-55]
 
 While Mādhyamikas like Śrīgupta claim that one may arrive at (at least a provisional, indirect, and conceptually mediated) understanding of the ultimate truth by way of analysis like the neither-one-nor-many argument, they do *not* claim that the ultimate itself *withstands* analysis. Emptiness, too, is empty of an intrinsic nature.
 
@@ -312,13 +339,19 @@ A final noteworthy contribution of Śrīgupta’s *Introduction to Reality*—si
 
 Dignāga influentially characterizes an enlightened being as an individual who has become a source of knowledge (*pramāṇabhūta*), i.e., an authoritative epistemic agent whose cognition is invariably veridical. In Buddhist writings in general, and in Madhyamaka in particular, it is standardly supposed that this veridical enlightened cognition is directly and *perceptually* acquainted with reality unmediated by concepts (*nirvikalpajñāna*),[^note-56] since, as Nāgārjuna emphasizes, reality (*tattva*) itself is nonconceptual (*nirvikalpam*) and free from fabrications (*niṣprapañca*) (MMK 18.9). Enlightened *conceptual* cognition, then, would seem to be a contradiction in terms. Yet a second common commitment says that only conceptual cognition is fit for linguistic expression (*abhilāpasaṃsargayogya*).[^note-57] This pair of claims leads to a puzzle: if enlightened cognition is exclusively nonconceptual, how can this be reconciled with the general Buddhist account on which an enlightened being guides sentient beings to liberation by teaching them the nature of reality and the means of realizing it? That is, how can an agent whose awareness has no conceptual content engage in discourse utilizing language that expresses concepts?
 
-One common answer is that an enlightened being’s activities of teaching and benefiting sentient beings are spontaneous, with no mental act of intention immediately preceding each speech act. On this view, an enlightened individual’s physical and verbal actions are the result of the past aspirations of the prior unenlightened agent whose mental continuum is causally connected in the right way with the present enlightened agent. To the contrary, Śrīgupta argues not only that enlightened conceptual gnosis (**vikalpajñāna*, *rnam par rtog pa’i ye shes/rnam rtog ye shes*) is possible, but also that it is necessary for an enlightened individual to linguistically communicate conventional truths, which are instrumentally useful for guiding beings to realize the ultimate truth of universal emptiness. He states:
+One common answer is that an enlightened being’s activities of teaching and benefiting sentient beings are spontaneous, with no mental act of intention immediately preceding each speech act. On this view, an enlightened individual’s physical and verbal actions are the result of the past aspirations of the prior unenlightened agent whose mental continuum is causally connected in the right way with the present enlightened agent. To the contrary, Śrīgupta argues not only that enlightened conceptual gnosis (**vikalpajñāna*, rnam par rtog pa’i ye shes/rnam rtog ye shes) is possible, but also that it is necessary for an enlightened individual to linguistically communicate conventional truths, which are instrumentally useful for guiding beings to realize the ultimate truth of universal emptiness. He states:
 
-> Given that possessing conceptual gnosis (**vikalpajñāna*) is a means of benefiting sentient beings, since it is for their sake that omniscience commences, there is no fault [with enlightened conceptual gnosis].[^note-58] [TA 15]
+> Given that possessing conceptual gnosis (**vikalpajñāna*)
+> is a means of benefiting sentient beings,
+> since it is for their sake that omniscience commences,
+> there is no fault [with enlightened conceptual gnosis].[^note-58] [TA 15]
 
 It is inappropriate to maintain that possessing conceptual gnosis—which is the cause of imparting instructions pertaining to liberation, and so forth—is based on an [epistemic] fault, since it has this [conceptual] character for the sake of benefiting sentient beings.
 
-> If a thing exists, that object will clearly appear to omniscient [cognition]. Because there is no basis for the slightest error [in such a case], who would consider whether or not [enlightened cognition] is clear (**spaṣṭa*)?[^note-59] [TAV AŚ 15]
+> If a thing exists, that object will
+> clearly appear to omniscient [cognition].
+> Because there is no basis for the slightest error [in such a case],
+> who would consider whether or not [enlightened cognition] is clear (**spaṣṭa*)?[^note-59] [TAV AŚ 15]
 
 Here, Śrīgupta addresses the implicit objection that conceptual gnosis is based on an epistemic fault. According to the epistemological tradition of Dignāga and Dharmakīrti, cognitions that are mediated by concepts are not endowed with a clear appearance of their object. It is only the non/pre-conceptual, non/pre-linguistic *perceptual* cognition that is non-erroneous in the strict sense, since it is only perception that is directly acquainted with ultimately real particulars. Inferential cognition, on the other hand, involves conceptual construction, that is, the superimposition of conventionally real concepts onto the world of ultimately real particulars. Thus, Dharmakīrti characterizes perception as non-erroneous precisely because it is nonconceptual,[^note-60] while inferential cognition is erroneous (*bhrānti*), despite the fact that inference is classified as one of the two sources of knowledge, and is thus non-deceptive (*avisaṃvādi*) insofar as actions taken on the basis of sound inferences can lead to practical success. ^{[^note-61]} Accordingly, in the Madhyamaka tradition following Dharmakīrti, Kamalaśīla, for example, identifies conceptual cognitive objects as the unreal/false conventional (MAP *ad* MA 64).
 
@@ -326,11 +359,13 @@ While Śrīgupta does not explicitly mention the real/unreal conventional distin
 
 In the next verse of his autocommentary, Śrīgupta cites Dharmakīrti’s claim that a conceptual cognition *cannot* have a vivid, or clear (*spaṣṭa*) appearance of its object:
 
-> [A cognition] involving concepts does not have a clear appearance of its object. [PV 3.283ab / PVin 1.32ab][^note-63] [TAV AŚ 16ab]
+> [A cognition] involving concepts
+> does not have a clear appearance of its object. [PV 3.283ab / PVin 1.32ab][^note-63] [TAV AŚ 16ab]
 
 Despite Śrīgupta’s citation of Dharmakīrti as an authority elsewhere in the *Introduction to Reality*, here Śrīgupta dismisses Dharmakīrti’s claim as the irrelevant perspective of those who reify external objects:
 
-> This claim by those with realist views about external objects is irrelevant in this context.[^note-64] [TAV AŚ 16cd]
+> This claim by those with realist views about external objects
+> is irrelevant in this context.[^note-64] [TAV AŚ 16cd]
 
 Śrīgupta’s terse response and apparent rejection of Dharmakīrti, whose claim he associates with external world realists, may be elucidated with the help of a more elaborate discussion of this topic in a seemingly unrelated text. While there is no obviously parallel treatment of omniscience in Śāntarakṣita’s *Ornament of the Middle Way*, Śrīgupta’s unusual position on conceptual gnosis finds support in another text contentiously attributed to Śāntarakṣita,[^note-65] the *Proof of Reality* (*Tattvasiddhi*). In this text—which aims to prove the efficacy of the tantric path in reliance on Dharmakīrti’s account of the causal inference—the author appears to argue for this same unusual position in support of the possibility of conceptual gnosis (*savikalpajñāna*).[^note-66] Here, the author claims that omniscient cognition (i) has a clear appearance of its object, (ii) determines its object just as it is, in accord with how it in fact exists (i.e., is necessarily veridical), and (iii) is nonetheless conceptual. The *Proof of Reality* even claims that Dharmakīrti is in agreement with this position that objects can appear clearly (*spaṣṭābha*) to conceptual cognition,[^note-67] pointing to Dharmakīrti’s differentiation between ordinary knowledge-events (*laukika-pramāṇaparīkṣā*) and transcendent ones, alluding to the distinction that Dharmakīrti draws between conventional (*sāṃvyavahārika*) and ultimate (*pāramārthika*) knowledge-events in PVin 1 *ad* k. 58 (Steinkellner 2001: 846; 2008: 301–02)[^steinkellner-2001].[^note-68] Indeed, Śrīgupta may be gesturing to this distinction in his response to his imagined interlocutor’s citation of PV 3.283ab/PVin 1.32ab in TAV AŚ 16ab. In this concluding section of PVin 1, Dharmakīrti assumes the Yogācāra idealist perspective and addresses an objection that, for an idealist, there can be no basis for distinguishing between erroneous and non-erroneous cognition, and thus nothing to uniquely characterize a knowledge-event.[^note-69] Dharmakīrti responds that even the idealist has recourse to pragmatic efficacy in order to differentiate deceptive from non-deceptive cognitions. Nevertheless, he clarifies that his foregoing presentation of the sources of knowledge concerns conventional knowledge-events (*sāṃvyavahārika-pramāṇa*), which should be contrasted with ultimate knowledge-events (*pāramārthika-pramāṇa*).[^note-70] Still, Dharmakīrti does *not* explicitly endorse an account of ultimate knowledge-events as conceptual, thus failing to provide a genuine precedent for Śrīgupta’s account of conceptual gnosis.
 
@@ -512,13 +547,13 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 ## Notes to Śrīgupta
 
-[^note-1]: The *Tattvāvatāra* and *Tattvāvatāravṛtti* are extant only in Tibetan translation (PD 3121; D 3892). The root text is not extant as an independent treatise, surviving only as embedded in the autocommentary. There is one additional text attributed to Śrīgupta in the Tengyur (Bstan ’gyur = canons of Indian Buddhist commentarial literature in Tibetan translation), which is a brief commentarial work in the Tantra (*rgyud*) section, titled *Śrīratnamañjarīnāmaṭīkā* (*Dpal rin po che snye ma zhes bya ba’i rgya cher ’grel pa,* PD 0112; D 1217).
+[^note-1]: The *Tattvāvatāra* and *Tattvāvatāravṛtti* are extant only in Tibetan translation (PD 3121; D 3892). The root text is not extant as an independent treatise, surviving only as embedded in the autocommentary. There is one additional text attributed to Śrīgupta in the Tengyur (Bstan ’gyur = canons of Indian Buddhist commentarial literature in Tibetan translation), which is a brief commentarial work in the Tantra (rgyud) section, titled *Śrīratnamañjarīnāmaṭīkā* (Dpal rin po che snye ma zhes bya ba’i rgya cher ’grel pa, PD 0112; D 1217).
 
 [^note-2]: Those endorsing this date based on the Tibetan relative chronology include Seyfort Ruegg (1981), Eckel (1986: 8), Rospatt (1995: 80), Blumenthal (2004: 61), Almogi (2009: 184), and Aitken (2021a). Matsumoto (1978), Kobayashi (1992: 37–42), and Akahane (2003: 127) have challenged Tibetan, suggesting that he postdates Śāntarakṣita. See Aitken (2025) for an analysis of this dispute and an argument that there is insufficient evidence to emend the received relative chronology.
 
 [^note-3]: The *Svātantrika label signifies (in part) a style of argumentation which, following Bhāviveka, deploys independent inferential arguments (*svatantrānumāna*) to establish theses rather than exclusively utilizing reductio ad absurdum arguments (*prasaṅga*) to undermine the theses of his opponents. For discussions on the disputed historical development of the *Svātantrika and *Prāsaṅgika doxographical labels, which are likely Tibetan innovations, see Dreyfus and McClintock (2003), Seyfort Ruegg (2006), and Vose (2009 & 2020).
 
-[^note-4]: Śrīgupta’s tradition of Madhyamaka was highly influential in early Tibetan scholasticism by way of the works of his successors—the so-called “[treatises of the] three Madhyamaka [scholars] of the East” (*dbu ma shar gsum*), referring to Jñānagarbha’s *Satyadvayavibhaṅga* (SDV), Śāntarakṣita’s MA, and Kamalaśīla’s *Madhyamakāloka*. Somewhat ironically, Candrakīrti’s (seventh century) Madhyamaka ultimately came to dominate Tibetan Madhyamaka alongside Dignāga and Dharmakīrti’s tradition of logic and epistemology, despite the fact that Candrakīrti was an outspoken critic of Dignāga’s epistemological project. See Vose (2009) on the historical development of Candrakīrti’s ascension in Tibetan Madhyamaka.
+[^note-4]: Śrīgupta’s tradition of Madhyamaka was highly influential in early Tibetan scholasticism by way of the works of his successors—the so-called “[treatises of the] three Madhyamaka [scholars] of the East” (dbu ma shar gsum), referring to Jñānagarbha’s *Satyadvayavibhaṅga* (SDV), Śāntarakṣita’s MA, and Kamalaśīla’s *Madhyamakāloka*. Somewhat ironically, Candrakīrti’s (seventh century) Madhyamaka ultimately came to dominate Tibetan Madhyamaka alongside Dignāga and Dharmakīrti’s tradition of logic and epistemology, despite the fact that Candrakīrti was an outspoken critic of Dignāga’s epistemological project. See Vose (2009) on the historical development of Candrakīrti’s ascension in Tibetan Madhyamaka.
 
 [^note-5]: As will be discussed below, *satya* has a semantic range inclusive of both “truth” and “reality” and, accordingly, the concept connoted by *saṃvṛtisatya* in this context is inclusive of both these meanings.
 
@@ -530,7 +565,7 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-9]: Śāntarakṣita uses this example to illustrate this point in MAV *ad* MA 61.
 
-[^note-10]: *phyi rol nang na gnas ’di kun // yang dag tu ni rang bzhin med // gcig dang du ma’i rang bzhin nyid // bral ba’i phyir na gzugs brnyan bzhin //.* As mentioned, Śāntarakṣita closely echoes TA 1 in MA 1: *niḥsvabhāvā amī bhāvās tattvataḥ svaparoditāḥ / ekānekasvabhāvena viyogāt pratibimbavat //* (Sanskrit preserved in BCAP *ad* 9.2); “In reality, [*s*] everything that our own and other [philosophical systems] propound [*p*] does not have intrinsic nature, [*r*] due to lacking an intrinsic nature that is either unitary or non-unitary, [*e*] like a reflection”.
+[^note-10]: phyi rol nang na gnas ’di kun // yang dag tu ni rang bzhin med // gcig dang du ma’i rang bzhin nyid // bral ba’i phyir na gzugs brnyan bzhin //. As mentioned, Śāntarakṣita closely echoes TA 1 in MA 1: *niḥsvabhāvā amī bhāvās tattvataḥ svaparoditāḥ / ekānekasvabhāvena viyogāt pratibimbavat //* (Sanskrit preserved in BCAP *ad* 9.2); “In reality, [*s*] everything that our own and other [philosophical systems] propound [*p*] does not have intrinsic nature, [*r*] due to lacking an intrinsic nature that is either unitary or non-unitary, [*e*] like a reflection”.
 
 [^note-11]: This point is central to Śrīgupta’s response to the objection that the neither-one-nor-many argument is guilty of the fallacy that the subject, or the “basis” of the inference is unestablished (*āśrayāsiddha-hetvābhāsa*), meaning either that the subject of the inference is *not* accepted by both parties or else that the subject does not exist *at all*. See Aitken (2025) for an analysis of Śrīgupta’s defense of the soundness of the neither-one-nor-many argument and how his responses to objections that the argument is guilty of a range of logical fallacies are both influenced by and deviate from strategies employed by Dignāga, Dharmakīrti, and some of their commentators.
 
@@ -544,7 +579,7 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-16]: See, e.g., AKBh *ad* 1.43d2: *kiṃ punaḥ paramāṇavaḥ spṛśantyanyonyamāhosvin na / na spṛśantīti kāśmīrakāḥ / kiṃ kāraṇam yadi tāvat sarvānmanā spṛśeyurmiśrībhaveyurdravyāṇi / athaikadeśena sāvayavāḥ prasajyeran / niravayavāśca paramāṇavaḥ /* [AKBh [Pradhan 1967: 32.12–15]). See also CŚ 9.15–17 and Vś 12.
 
-[^note-17]: *bsags mi rung phyir rdul gcig min // rdul phra rab ni gcig pa nyid ma yin te / rang bzhin gcig pu de la mngon par phyogs par yul gcig na gnas pas na bsags pa mi rung pa’i phyir ro / rang bzhin gzhan gyis mngon du phyogs pa yang ma yin te / du ma nyid du thal bar ’gyur ba’i phyir ro /.*
+[^note-17]: bsags mi rung phyir rdul gcig min // rdul phra rab ni gcig pa nyid ma yin te / rang bzhin gcig pu de la mngon par phyogs par yul gcig na gnas pas na bsags pa mi rung pa’i phyir ro / rang bzhin gzhan gyis mngon du phyogs pa yang ma yin te / du ma nyid du thal bar ’gyur ba’i phyir ro /.
 
 [^note-18]: Although these sorts of arguments do not feature a term that precisely translates “extended,” and although the property of having spatially differentiable loci may not be intensionally equivalent to being spatially extended, these properties look to be extensionally equivalent insofar as to occupy spatially distinct loci *just is* to be spatially extended. Since extension involves occupying spatially distinct loci, which are equivalent to spatially distinct *parts*, by Śrīgupta’s lights, an “extended simple” would be a contradiction in terms. For contemporary arguments defending the coherence of extended simples, see Markosian (1998, 2004a, 2004b) and McDaniel (2007). See McDaniel (2003) for an argument against extended simples.
 
@@ -562,19 +597,19 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-25]: The name “numerical parity of awareness and representations view” is taken from Tibetan doxographies, and although it is not an attested doxographical label in Indic writings, the view it refers to is.
 
-[^note-26]: *rnam pa tha dad ma yin rnams // sna tshogs phyir na sems gcig min // shes pa gcig pu ma yin te // rnam pa du ma dang tha mi dad pa’i phyir ro // gzhan du na chos ’gal bar gnas pa gnyis tha dad par ’gyur te /.*
+[^note-26]: rnam pa tha dad ma yin rnams // sna tshogs phyir na sems gcig min // shes pa gcig pu ma yin te // rnam pa du ma dang tha mi dad pa’i phyir ro // gzhan du na chos ’gal bar gnas pa gnyis tha dad par ’gyur te /.
 
-[^note-27]: *cig car du shes pa du ma khas len na / rnam pa rnams rdul phran bzhin du bsags par mi ’gyur te / ji ltar rtag tu bsgrubs pa bzhin no /.*
+[^note-27]: cig car du shes pa du ma khas len na / rnam pa rnams rdul phran bzhin du bsags par mi ’gyur te / ji ltar rtag tu bsgrubs pa bzhin no /.
 
-[^note-28]: *rnam rnams mi bden nyid yin na / ha cang thal ’gyur /.*
+[^note-28]: rnam rnams mi bden nyid yin na / ha cang thal ’gyur /.
 
-[^note-29]: *gzhan yang brdzun pa rnams dang shes par ma ’brel ba’i phyir snang ba nges pa dang ldan par mi ’gyur ro //.*
+[^note-29]: gzhan yang brdzun pa rnams dang shes par ma ’brel ba’i phyir snang ba nges pa dang ldan par mi ’gyur ro //.
 
-[^note-30]: *nges par snang ba’i dbang gis ’brel par khas len na ni bden pa kho nar ’gyur te / gzhan du na de’i bdag nyid dang de las byung ba mi srid pa’i phyir ro //*.
+[^note-30]: nges par snang ba’i dbang gis ’brel par khas len na ni bden pa kho nar ’gyur te / gzhan du na de’i bdag nyid dang de las byung ba mi srid pa’i phyir ro //.
 
-[^note-31]: *’on te gnyis las nges par grol ba yin na / de ni ji ltar na shes pa yin /*.
+[^note-31]: ’on te gnyis las nges par grol ba yin na / de ni ji ltar na shes pa yin /.
 
-[^note-32]: *rig bya med phyir gzhan mi rig // gnyis su med phyir bdag nyid min // brtags na yang dag nyid mi ’gyur // rnam pa gzhan gang yin pa smros //*.
+[^note-32]: rig bya med phyir gzhan mi rig // gnyis su med phyir bdag nyid min // brtags na yang dag nyid mi ’gyur // rnam pa gzhan gang yin pa smros //.
 
 [^note-33]: According to the *Vaiśeṣikasūtra*, the defining characteristics of substances include being an inhered-in cause (VS 1.1.15). Eternal substances may also be instrumental, or efficient, causes (*nimitta-kāraṇa*). Although ether, space, and time are all inactive, or without motion (*niṣkriya*), they nonetheless serve as efficient causes in various ways. For instance, time contributes to the production of the qualities of anteriority, posteriority, and simultaneity (VS 7.2.22); for a discussion of this, see, for instance, Halbfass (1992: 207–209).
 
@@ -582,7 +617,7 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-35]: On Gelukpa (Dge lugs pa) treatments of the neither-one-nor-many argument, see also Txillemans (1982, 1983, 1984, and 2021), Lopez (1987), and Tillemans and Lopez (1998).
 
-[^note-36]: *ma brtags gcig pu nyams dga’ ste // de ’dra las byung de bzhin no // dngos po de dag de lta bu’i // don bya de dang de byed do //*.
+[^note-36]: ma brtags gcig pu nyams dga’ ste // de ’dra las byung de bzhin no // dngos po de dag de lta bu’i // don bya de dang de byed do //.
 
 [^note-37]: One also finds related terms such as *avicāraramaṇīya*, *avicāramanohara*, and *avicāritaramaṇīya*.
 
@@ -600,25 +635,25 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-44]: In the succeeding stanza (PV 3.4), Dharmakīrti appears to concede that the capacity for causal efficacy itself is only admitted conventionally. The claim that causal efficacy itself is only conventionally real is in keeping with Dharmakīrti’s claim that all relations—including causal relations—are merely conceptual constructs superimposed onto a world of radically distinct particulars (see, e.g., SP 7–18). Still, according to Dharmakīrti’s epistemology, the sort of causal relation that underwrites a sound causal inference is a “natural relation” (*svabhāvapratibandha*), insofar as it is grounded in the intrinsic natures of the relata (see, e.g., *Pramāṇavārttikasvavṛtti*, PVSV 12.4). The intent of PV 3.4 is much disputed, both in historical commentaries as well as contemporary secondary scholarship. In particular, there is disagreement concerning what precisely Dharmakīrti is conceding with the final clause *astu yathā tathā,* translated here as, “Be that as it may”. According to some interpreters, PV 3.3 expresses the Sautrāntika perspective, while PV 3.4 articulates the Yogācāra perspective on the status of causal relations; see Tosaki (1979–85: 51–54) and Kyūma (1995: 47; 1996: 65–66). Commentators like Prajñākaragupta and Jñānaśrīmitra take PV 3.3 to articulate the criterion for what is ultimately real according to the world, rather than what is *in actual fact* ultimately real. Others—notably Prajñākaramati and Jitāri—even considered Dharmakīrti to be a Mādhyamika on the basis of PV 3.4; on Prajñākaramati, see Zwilling (1981: 313 n. 17); on Jitāri, see Shirasaki (1986) and Steinkellner (1990: 85 n. 22). Since Dharmakīrti argues for different ontologies in different contexts, discerning his considered position is no straightforward enterprise. See Franco and Notake (2014: 38–42) for an edition, translation, discussion, and overview of the relevant literature concerning PV 3.4.
 
-[^note-45]: *snang du ’dra yang don byed dag // nus pa’i phyir dang mi nus phyir // yang dag yang dag ma yin pas // kun rdzob kyi ni dbye ba byas //*; see also SDVV and SDVP *ad* SDV 12. Besides perceptual illusions, Jñānagarbha also mentions pseudo-objects maintained by other philosophical and religious systems (e.g., the Sāṃkhya account of prime matter, *pradhāna*) as another sort of example of unreal conventional things (SDVV *ad* SDV 8).
+[^note-45]: snang du ’dra yang don byed dag // nus pa’i phyir dang mi nus phyir // yang dag yang dag ma yin pas // kun rdzob kyi ni dbye ba byas //; see also SDVV and SDVP *ad* SDV 12. Besides perceptual illusions, Jñānagarbha also mentions pseudo-objects maintained by other philosophical and religious systems (e.g., the Sāṃkhya account of prime matter, *pradhāna*) as another sort of example of unreal conventional things (SDVV *ad* SDV 8).
 
 [^note-46]: For analyses of Candrakīrti’s presentation of the two truths, see, for instance, Cowherds (2011). On the influence of Candrakīrti on Jñānagarbha’s presentation of conventional truth, see Eckel (1986) and Akahane (2008).
 
 [^note-47]: For analysis of the use of the causal efficacy criterion by subsequent Mādhyamikas, see Aitken (2025: 45–51).
 
-[^note-48]: *slu ba mthong phyir ma brtags na // nyams dga’ ba yi tshad ma yis // de yi gzhal bya rnam gzhag na // ’jig rten spyod pa skyob par ’gyur //.*
+[^note-48]: slu ba mthong phyir ma brtags na // nyams dga’ ba yi tshad ma yis // de yi gzhal bya rnam gzhag na // ’jig rten spyod pa skyob par ’gyur //.
 
-[^note-49]: *pramāṇam avisaṃvādi jñānam arthakriyāsthitiḥ / avisaṃvādanaṃ śabde ’pi abhiprāyanivedanād //*; *tshad ma bslu med can shes pa // don byed nus par gnas pa ni // mi slu sgra las byung ba yang // mngon par ’dod pa ston phyir ro //.* For different perspectives on the status of PV2a and PV 2.5c as definitions of *pramāṇa*, see, for example, Katsura (1984), Dreyfus (1991, 1997), Franco (1997), Krasser (2001), and Taber (2003). For a helpful introduction to the secondary scholarship and commentarial literature on this topic, see Stoltz (2021: 23–36).
+[^note-49]: *pramāṇam avisaṃvādi jñānam arthakriyāsthitiḥ / avisaṃvādanaṃ śabde ’pi abhiprāyanivedanād //*; tshad ma bslu med can shes pa // don byed nus par gnas pa ni // mi slu sgra las byung ba yang // mngon par ’dod pa ston phyir ro //. For different perspectives on the status of PV2a and PV 2.5c as definitions of *pramāṇa*, see, for example, Katsura (1984), Dreyfus (1991, 1997), Franco (1997), Krasser (2001), and Taber (2003). For a helpful introduction to the secondary scholarship and commentarial literature on this topic, see Stoltz (2021: 23–36).
 
-[^note-50]: TAV AŚ 21: *lung gis bskyed pa’i ’dus byas pa’i // rtog pas bskyed pa’i bdag nyid nyid // rnam par bsal nas snang rnams la // ngo bo spyod par byed pa yin //*; “Having negated only the nature that is fabricated by textual sources or fabricated by conceptual constructs, it is with reference to appearances that things are engaged as the subject of the inference”.
+[^note-50]: TAV AŚ 21: lung gis bskyed pa’i ’dus byas pa’i // rtog pas bskyed pa’i bdag nyid nyid // rnam par bsal nas snang rnams la // ngo bo spyod par byed pa yin //; “Having negated only the nature that is fabricated by textual sources or fabricated by conceptual constructs, it is with reference to appearances that things are engaged as the subject of the inference”.
 
-[^note-51]: Jñānagarbha also describes the ultimate truth as *rigs pa’i rjes su ’gro ba*, **nyāyānusāra* (SDVV *ad* SDV 4ab).
+[^note-51]: Jñānagarbha also describes the ultimate truth as rigs pa’i rjes su ’gro ba, **nyāyānusāra* (SDVV *ad* SDV 4ab).
 
-[^note-52]: See SDV 3–4: *kun rdzob dang ni dam pa’i don // bden gnyis thub pas gsungs pa la // ji ltar snang ba ’di kho na // kun rdzob gzhan ni cig shos yin // slu ba med pas rigs pa ni // don dam yin te kun rdzob min // de ltar mi slu min phyir te // ji ltar snang ba de nyid bden //*; “The Sage taught the two truths: the conventional and the ultimate. The conventional simply corresponds with appearances, while the other is different. [SDV 3] Since it is non-deceptive, reasoning [accords with] the ultimate—not the conventional. Thus, since it is *not* non-deceptive, [the conventional] is true just insofar as it accords with appearance. [SDV 4]” (trans. Eckel 2009: 122)[^eckel-2009]. See also SDV 13.
+[^note-52]: See SDV 3–4: kun rdzob dang ni dam pa’i don // bden gnyis thub pas gsungs pa la // ji ltar snang ba ’di kho na // kun rdzob gzhan ni cig shos yin // slu ba med pas rigs pa ni // don dam yin te kun rdzob min // de ltar mi slu min phyir te // ji ltar snang ba de nyid bden //; “The Sage taught the two truths: the conventional and the ultimate. The conventional simply corresponds with appearances, while the other is different. [SDV 3] Since it is non-deceptive, reasoning [accords with] the ultimate—not the conventional. Thus, since it is *not* non-deceptive, [the conventional] is true just insofar as it accords with appearance. [SDV 4]” (trans. Eckel 2009: 122)[^eckel-2009]. See also SDV 13.
 
 [^note-53]: *arvāṅ na tattvātmakarūpato ’mī sthitiṃ labhante pravicāryamāṇāḥ / yataḥ padārthā na tato vicāraḥ kāryo hi lokavyavahārasatye //*.
 
-[^note-54]: ji ltar snang bzhin ngo bo’i phyir // ’di la dpyad pa mi ’jug go // rnam par dpyod pa byed na don // gzhan du song bas gnod par ’gyur //*. *The first line of this verse as rendered in the SDV reads instead *ji ltar rang bzhin ngo bo’i phyir,* while both the SDVV and Śāntarakṣita’s SDVP give the preferable reading: ji ltar snang.
+[^note-54]: ji ltar snang* bzhin ngo bo’i phyir // ’di la dpyad pa mi ’jug go // rnam par dpyod pa byed na don // gzhan du song bas gnod par ’gyur //. *The first line of this verse as rendered in the SDV reads instead ji ltar rang bzhin ngo bo’i phyir, while both the SDVV and Śāntarakṣita’s SDVP give the preferable reading: ji ltar snang.
 
 [^note-55]: The phrase appears frequently in the *pramāṇa* commentarial tradition beginning in the eighth century, often in expressing the opinion of an opponent, as in Dharmottara’s (c. 740–800) *Prāmāṇyaparīkṣā* (**Bṛhatprāmāṇyaparīkṣā*, PD 3479, 573). Ravigupta (c. 780–840) also uses the expression to characterize the conventional in his *Pramāṇavārttikavṛtti* (PD 3456, 27).
 
@@ -626,9 +661,9 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-57]: See, e.g., NB 1.5: *abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā*.
 
-[^note-58]: *sems can gyi ni don mdzad thabs // rnam rtog ye shes mnga’ ba na // de yi kun mkhyen rtsom pa ni // de don yin phyir nyes pa med //.*
+[^note-58]: sems can gyi ni don mdzad thabs // rnam rtog ye shes mnga’ ba na // de yi kun mkhyen rtsom pa ni // de don yin phyir nyes pa med //.
 
-[^note-59]: *dngos po yod na kun mkhyen la // don ni gsal bar snang bar ’gyur // nor pa tsam la gzhi med phyir // gsal dang mi gsal su zhig sems //.*
+[^note-59]: dngos po yod na kun mkhyen la // don ni gsal bar snang bar ’gyur // nor pa tsam la gzhi med phyir // gsal dang mi gsal su zhig sems //.
 
 [^note-60]: PVin 1.4ab *pratyakṣaṃ kalpanāpoḍham abhrāntam*.
 
@@ -636,11 +671,12 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 
 [^note-62]: Elsewhere, Śrīgupta claims that all that exists is mere error, without drawing a distinction between the conceptual and nonconceptual:
 
-> *’khrul pa tsam zhig yod zhes pa // ma ’khrul yin par nges par bzung //*; “Hold fast to the ascertainment that the understanding that error alone (**bhrāntimātra*) exists is non-erroneous” (TA 22cd).
+> ’khrul pa tsam zhig yod zhes pa // ma ’khrul yin par nges par bzung //;
+> “Hold fast to the ascertainment that the understanding that error alone (**bhrāntimātra*) exists is non-erroneous” (TA 22cd).
 
 [^note-63]: This translation follows the Sanskrit of PV 3.283ab/PVin 1.32ab: *na vikalpānubaddhasya spaṣṭārthapratibhāsitā /*.
 
-[^note-64]: *bya ba phyi rol lta bas gsungs // gang yin de ‘dir skabs med do //.*
+[^note-64]: bya ba phyi rol lta bas gsungs // gang yin de ‘dir skabs med do //.
 
 [^note-65]: Lindtner (1997: 195ff) defends the traditional ascription of the *Tattvasiddhi* to Śāntarakṣita, though this has been contested by Steinkellner (1999: 356ff; 2008: 292). Steinkellner has published a critical edition (2001) and English translation (2008) of the final section of the *Tattvasiddhi* which includes the relevant discussion of whether or not omniscience is conceptual.
 

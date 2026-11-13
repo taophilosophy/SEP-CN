@@ -401,7 +401,7 @@ Chinese Philosophy: Chan Buddhism | Chinese Philosophy: Huayan Buddhism | Chines
 
 [^choi-2005]: Choi Seonkyung [Ch’oe Sŏnggyŏng], 2005, “Samguk yusa Pulgyo sŏrhwa e tŭngjang hanŭn yŏsŏng inmul hyŏngsang kwa kinŭng e kwanhayŏ (삼국유사 불교 설화에 등장하는 여성인물 형상과 기능에 관하여)” [A Study on the Features and Roles of Female Characters in the Buddhistic Narratives of *Samgukyusa*], *In’gan yŏn’gu*, vol. 8.
 
-[^chŏn-1977]: Chŏn Chaesŏng, 1977, “Minjung Pulgyoron (민중불교론)” [The theory of minjung Buddhism], *Taehwa,*October.
+[^chŏn-1977]: Chŏn Chaesŏng, 1977, “Minjung Pulgyoron (민중불교론)” [The theory of minjung Buddhism], *Taehwa,* October.
 
 [^heo-2005]: Heo Namjin [Hŏ Namjin] (ed./trans.), 2005, *Samkuk kwa, t’ongil Silla ŭi Pulgyo sasang (삼국과* *통일신라의* *불교 사상)* [*Buddhism of Three Kingdoms and Unified Silla]*, Seoul: Seoul National University Press.
 

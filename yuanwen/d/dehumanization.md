@@ -761,7 +761,7 @@ bias, implicit | category mistakes | cognitive disability and moral status | col
 
 [^roberts-2018]: Roberts, Tomi-Ann, Rachel M. Calogero, and Sarah J. Gervais, 2018, “Objectification Theory: Continuing Contributions to Feminist Psychology”, in *APA Handbook of the Psychology of Women, Volume 1: History, Theory, and Battlegrounds*, Cheryl B. Travis, Jacquelyn W. White, Alexandra Rutherford, Wendi S. Williams, Sarah L. Cook, and Karen Fraser Wyche (eds), Washington, DC: American Psychological Association, 249–271. doi:10.1037/0000059-013
 
-[^rollo-2018]: Rollo, Toby, 2018, “The Color of Childhood: The Role of the Child/Human Binary in the Production of Anti-Black Racism”, *Journal of Black Studies,*49(4): 307–329.
+[^rollo-2018]: Rollo, Toby, 2018, “The Color of Childhood: The Role of the Child/Human Binary in the Production of Anti-Black Racism”, *Journal of Black Studies,* 49(4): 307–329.
 
 [^rousseau-2023]: Rousseau, David L., Brandon Gorman, and Lisa E. Baranik, 2023, “Crossing the Line: Disgust, Dehumanization, and Human Rights Violations”, *Socius: Sociological Research for a Dynamic World*, 9: article 23780231231157686. doi:10.1177/23780231231157686
 

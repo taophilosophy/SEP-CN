@@ -551,7 +551,7 @@ cognitive science | culture: and cognitive science | evolution | experimental mo
 
 [^maner-2017]: Maner, Jon K., 2017, “Dominance and Prestige: A Tale of Two Hierarchies”, *Current Directions in Psychological Science*, 26(6): 526–531. doi:10.1177/0963721417714323
 
-[^marcus-2007]: Marcus, G. 2007. *Kluge: The Haphazard Construction of the Human Mind,*Boston, MA: Houghton Mifflin.
+[^marcus-2007]: Marcus, G. 2007. *Kluge: The Haphazard Construction of the Human Mind,* Boston, MA: Houghton Mifflin.
 
 [^marwell-1981]: Marwell, Gerald and Ruth E. Ames, 1981, “Economists Free Ride, Does Anyone Else?”, *Journal of Public Economics*, 15(3): 295–310. doi:10.1016/0047-2727(81)90013-X
 

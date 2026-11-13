@@ -378,7 +378,7 @@ abortion, ethics of | decision-making capacity | feminist philosophy, topics: pe
 
 [^gates-1999]: Gates John J. and Bernard S. Arons, 1999, *Privacy and Confidentiality in Mental Health Care*, Baltimore: Paul H. Brookes Pub. Co.
 
-[^hall-2014]: Hall, Joseph and Deven McGraw, 2014, “For Telehealth to Succeed, Privacy and Security Risks Must be Identified and Addressed”, *Health Affairs*, 33(2): 216–221.
+[^hall-2014]: Hall, Joseph and Deven McGraw, 2014, “For Telehealth to Succeed, Privacy and Security Risks Must be Identified and Addressed”, *Health Affairs* , 33(2): 216–221.
 
 [^hare-1993]: Hare, R.M., 1993, *Essays on Bioethics*, Oxford: Clarendon Press.
 
@@ -544,7 +544,7 @@ abortion, ethics of | decision-making capacity | feminist philosophy, topics: pe
 
 [^sloot-2018]: van der Sloot, Bart, 2018, *Privacy as Virtue: Moving Beyond the Individual in the Age of Big Data*, Amsterdam: University of Amsterdam Press.
 
-[^veliz-2020]: Veliz, Carissa, 2020, *Privacy is Power: How and Why You Should Take Back Control of Your Data,*London: Penguin Random House*.*
+[^veliz-2020]: Veliz, Carissa, 2020, *Privacy is Power: How and Why You Should Take Back Control of Your Data,* London: Penguin Random House*.*
 
 [^waldman-2018]: Waldman, Ari E., 2018, *Privacy as Trust: Information Privacy for an Information Age*, Cambridge: Cambridge University Press.
 

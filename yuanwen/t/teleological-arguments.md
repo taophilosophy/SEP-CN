@@ -167,7 +167,8 @@ The measure of *C* being a ‘matter of course’ given *A* is frequently descri
 
 The likelihood of *h* is the probability of finding evidence *e* given that the hypothesis *h* is true. In cases of competing explanatory hypotheses $h_1$ and $h_2$ the comparative likelihoods on specified evidence can be taken to indicate which of the competitors the evidence better supports, i.e.:
 
-> *Likelihood Principle*: $ [P(e| h_1) > P(e|h_2)] \leftrightarrow$ ($e$ supports $h_1$ more than it does $h_2$)
+> *Likelihood Principle*:
+> $ [P(e| h_1) > P(e|h_2)] \leftrightarrow$ ($e$ supports $h_1$ more than it does $h_2$)
 
 Higher likelihood of $h_1$ than $h_2$ on specific evidence does not automatically imply that $h_1$ is likely to be true, or is better in some overall sense than is $h_2$. $h_1$ might, in fact, be a completely lunatic theory which nonetheless entails *e*, giving $h_1$ as high a likelihood as possible. Such maximal likelihood relative to *e* would not necessarily alter $h_1$’s lunacy. Likelihood thus does not automatically translate into a measure of how strongly some specific evidence *e* supports the hypothesis $h_1$ in question (Jantzen 2014a, Chap. 11)[^jantzen-2014a]. Given this limitation, some argue that only a full-blown Bayesian analysis should be used to assess competing hypotheses. For a contrast between IBE and Bayesianism, see the entry on abduction. For an important recent critique of theistic design arguments in Bayesian terms, see Sober 2009, the reply in Kotzen 2012, and the response in Jantzen 2014b.
 
@@ -287,11 +288,13 @@ Sober gives a related but stronger argument based on observational selection eff
 
 When it comes to fine-tuning, Sober considers $h_{\textrm{design}}$ = ‘the constants have been set in place by an intelligence, specifically God’, and $h_{\textrm{chance}}$ = ‘the constants are what they are as a matter of mindless random chance’. While intuitively
 
-> $P(\textrm{constants are just right for life} | h_{\textrm{design}}) >$ $\;\; P(\textrm{constants are just right for life} | h_{\textrm{chance}}) $
+> $P(\textrm{constants are just right for life} | h_{\textrm{design}}) >$
+> $\;\; P(\textrm{constants are just right for life} | h_{\textrm{chance}}) $
 
 one has to consider the role of the observer, who is analogous to the net in the fishing example. Since human observers could only detect constants in the life-permitting range, Sober argues, the correct probabilities are
 
-> $ P(\textrm{you observe that the constants are right} | h_{\textrm{design}} \amp \textrm{you exist}) =$ $\;\; P(\textrm{you observe that the constants are right} | h_{\textrm{chance}} \amp \textrm{you exist}) $
+> $ P(\textrm{you observe that the constants are right} | h_{\textrm{design}} \amp \textrm{you exist}) =$
+> $\;\; P(\textrm{you observe that the constants are right} | h_{\textrm{chance}} \amp \textrm{you exist}) $
 
 Given this equality, fine-tuning does not favor $h_{\textrm{design}}$ over $h_{\textrm{chance}}$. The selection effect prevents any confirmation of design.
 

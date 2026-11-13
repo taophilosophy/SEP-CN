@@ -437,9 +437,9 @@ Aristotle, General Topics: biology | Aristotle, General Topics: ethics | Aristot
 
 [^gallagher-2018]: Gallagher, Robert L., *Aristotle’s Critique of Political Economy with a Contemporary Application.* London: Routledge, 2018.
 
-[^hadreas-2002]: Hadreas, Peter, “Aristotle on the Vices and Virtue of Wealth,” *Journal of Business Ethics,*39 (2002), 361–76.
+[^hadreas-2002]: Hadreas, Peter, “Aristotle on the Vices and Virtue of Wealth,” *Journal of Business Ethics,* 39 (2002), 361–76.
 
-[^hartman-2011]: Hartman, Edwin M., “Virtue, Profit, and the Separation Thesis: An Aristotelian View,” *Journal of Business Ethics*,99 (2011), 5–17.
+[^hartman-2011]: Hartman, Edwin M., “Virtue, Profit, and the Separation Thesis: An Aristotelian View,” *Journal of Business Ethics* ,99 (2011), 5–17.
 
 [^hartman-2013]: –––, *Virtue in Business: Conversations with Aristotle*. Cambridge: Cambridge University Press, 2013.
 
@@ -475,7 +475,7 @@ Aristotle, General Topics: biology | Aristotle, General Topics: ethics | Aristot
 
 [^solomon-1992]: Solomon, Robert C., “Corporate Roles, Personal Virtues: An Aristotelian Approach to Business Ethics,” *Business Ethics Quarterly*, 2 (1992), 317–39.
 
-[^solomon-2004]: –––, “Aristotle, Ethics, and Business Organizations,” *Organization Studies,*25 (2004), 1021–43.
+[^solomon-2004]: –––, “Aristotle, Ethics, and Business Organizations,” *Organization Studies,* 25 (2004), 1021–43.
 
 [^brunschwig-nd]: Brunschwig, Jacques, “The Aristotelian Theory of Equity,” in Michael Frede and Gisela Striker (eds.), *Rationality in Greek Thought*, Oxford: Oxford University Press, pp. 115–55.
 

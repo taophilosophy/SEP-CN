@@ -533,13 +533,13 @@ In conclusion, priority dynamics and preference dynamics, though closely related
 
 ## 6. *Ceteris paribus* preference and CP-nets
 
-*Ceteris paribus* preference refers to a way of expressing preferences under the condition of “all else being equal”. It allows agents to state that one option is preferred over another while assuming that all other relevant factors remain constant. In AI systems for decision-making, a CP-net is a graphical model used to represent conditional preferences. It relies on the principle that comparisons between options are made under the assumption that other factors are unchanged, which aligns closely with the concept of ceteris paribus.
+*Ceteris paribus* preference refers to a way of expressing preferences under the condition of “all else being equal”. It allows agents to state that one option is preferred over another while assuming that all other relevant factors remain constant. In AI systems for decision-making, a CP-net is a graphical model used to represent conditional preferences. It relies on the principle that comparisons between options are made under the assumption that other factors are unchanged, which aligns closely with the concept of *ceteris paribus*.
 
-This section introduces results on the logic of ceteris paribus preferences along with the fundamentals of CP-nets.
+This section introduces results on the logic of *ceteris paribus* preferences along with the fundamentals of CP-nets.
 
-### 6.1 Formalizing ceteris paribus preferences in logic
+### 6.1 Formalizing *ceteris paribus* preferences in logic
 
-The core problem of ceteris paribus preference is how to interpret “all else being equal”. For example, one man may generally prefer red wine over white wine, ceteris paribus, but not if the red wine is poisonous and the white wine is not. So the challenge of formalizing a ceteris paribus proviso is how to determine whether the conditions are the same except for the color of the wine. This issue was discussed in the first studies of preference logic by Halldén (1957) and von Wright (1963). The difference between the equality reading of ceteris paribus and the normality reading “all else being normal” was also discussed by Van Benthem, Girard, and Roy (2009).
+The core problem of *ceteris paribus* preference is how to interpret “all else being equal”. For example, one man may generally prefer red wine over white wine, *ceteris paribus*, but not if the red wine is poisonous and the white wine is not. So the challenge of formalizing a *ceteris paribus* proviso is how to determine whether the conditions are the same except for the color of the wine. This issue was discussed in the first studies of preference logic by Halldén (1957) and von Wright (1963). The difference between the equality reading of *ceteris paribus* and the normality reading “all else being normal” was also discussed by Van Benthem, Girard, and Roy (2009).
 
 When interpreting the phrase “all else being equal”, a natural approach is to use equivalence classes of worlds. This approach has been taken by many researchers in the field. For instance, Doyle and Wellman (1994) defined context-dependent equivalence relations among individuals, which is called contextual equivalence. As a consequence, this means that the equivalence class may vary according to the context under consideration.
 
@@ -551,7 +551,7 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 
 where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
 
-A ceteris paribus preference model is a quadruple $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$ where:
+A *ceteris paribus* preference model is a quadruple $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$ where:
 
 - W is a set of states, $\succeq$ is a binary preference relation, V is an evaluation
 - $\trianglerighteq_{\Gamma}$ is the binary relation given by $w\trianglerighteq_{\Gamma}v$ iff $w\succeq v$ and $w \approx_{\Gamma} v$
@@ -563,34 +563,34 @@ The relation $\trianglerighteq_{\Gamma}$ is essentially an intersection of two r
 - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 
-For those cases where $\Gamma$ is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of ceteris paribus, the new set of axioms is found in Figure 8.
+For those cases where $\Gamma$ is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of *ceteris paribus*, the new set of axioms is found in Figure 8.
 
 *Figure 8:*
 
-Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
+Reflexivity axioms for *ceteris paribus* sets where $\varphi\in\Gamma$:
 
 1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
 2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
 
-Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
+Monotonicity axioms for *ceteris paribus* sets where $\Gamma \subseteq\Gamma^{\prime}$
 
 1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
 2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
 3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
 
-Axioms characterizing the changes to the ceteris paribus sets:
+Axioms characterizing the changes to the *ceteris paribus* sets:
 
 1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
 2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
 3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
 
-Figure 8: Axiomatization of ceteris paribus preferences by Van Benthem, Girard, and Roy (2009)
+Figure 8: Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
 
 In the full language, $\Gamma$ in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
 
 ### 6.2 Computational models of ceteris paribus preferences
 
-CP-nets, short for “conditional preference networks”, essentially embody the concept of ceteris paribus, which is the core principle underlying how the networks represent preferences. This section introduces the basics of CP-nets, highlighting their compact, intuitive, and structured way of representing agent preferences under the ceteris paribus assumption (all else being equal).
+CP-nets, short for “conditional preference networks”, essentially embody the concept of *ceteris paribus*, which is the core principle underlying how the networks represent preferences. This section introduces the basics of CP-nets, highlighting their compact, intuitive, and structured way of representing agent preferences under the *ceteris paribus* assumption (all else being equal).
 
 A conditional preference network (CP-net) is a graphical model defined as follows.
 
@@ -611,7 +611,7 @@ $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \t
 
 then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
 
-Following the ceteris paribus assumption, which means comparing outcomes while keeping all other variables constant, if we respect the conditional preferences specified in the CPTs of each variable, we can get preferences over outcomes.
+Following the *ceteris paribus* assumption, which means comparing outcomes while keeping all other variables constant, if we respect the conditional preferences specified in the CPTs of each variable, we can get preferences over outcomes.
 
 For example, if the CPT for $X_2$ specifies that $b_1 \succ b_2$ given $X_1 = a_1$, then:
 
@@ -661,7 +661,7 @@ In social choice theory, the core issue is how to aggregate individual preferenc
 
 Preference logic provides a versatile framework for understanding how agents compare situations and make decisions. This entry has reviewed key developments in the field, tracing its evolution from syntactic and algorithmic approaches to semantic frameworks. It has also highlighted recent research on two-layer structures, which stem from the distinction between intrinsic and extrinsic preferences, emphasizing the role of reasons in shaping preferences.
 
-The study of preference change and the concept of ceteris paribus preference highlight the dynamic and practical aspects of preference logic, particularly in decision-making contexts. These frameworks will remain a foundation for addressing future challenges and advancing research in the field.
+The study of preference change and the concept of *ceteris paribus* preference highlight the dynamic and practical aspects of preference logic, particularly in decision-making contexts. These frameworks will remain a foundation for addressing future challenges and advancing research in the field.
 
 ## References（引用注释）
 

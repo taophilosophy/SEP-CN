@@ -556,7 +556,7 @@ Addams, Jane | children, philosophy for | Dewey, John | Dewey, John: aesthetics 
 
 [^stuhr-1997]: Stuhr, J.J., 1997. *Genealogical Pragmatism: Philosophy, Experience and Community*, Albany: SUNY Press.
 
-[^suckiel-1982]: Suckiel, E.K., 1982.*The Pragmatic Philosophy of William James*, Notre Dame: University of Notre Dame Press.
+[^suckiel-1982]: Suckiel, E.K., 1982. *The Pragmatic Philosophy of William James*, Notre Dame: University of Notre Dame Press.
 
 [^suckiel-1996]: –––, 1996. *Heaven’s Champion: William James’ Philosophy of Religion*, Notre Dame: University of Notre Dame Press.
 

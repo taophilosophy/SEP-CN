@@ -227,7 +227,8 @@ An irony underscoring the *ex post facto* character of the Gricean calculation i
 
 > A is planning with B an itinerary for a holiday in France. Both know that A wants to see his friend C, if to do so would not involve too great a prolongation of his journey:
 >
-> A: Where does C live? B: Somewhere in the South of France.
+> A: Where does C live?
+> B: Somewhere in the South of France.
 >
 > (Gloss: There is no reason to suppose that B is opting out; his answer is, as he well knows, less informative than is required to meet A’s needs. This infringement of the first maxim of Quantity can be explained only by the supposition that B is aware that to be more informative would be to say something that infringed the second maxim of Quality. “Don’t say what you lack adequate evidence for”, so B implicates that he does not know in which town C lives.) (Grice 1975: 32–33; example number deleted)[^grice-1975][^note-43]
 

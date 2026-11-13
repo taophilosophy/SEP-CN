@@ -3,9 +3,11 @@
 
 *Kelly, Thomas*
 
-> For my own part, I think that if one were looking for a single phrase to capture the stage to which philosophy has progressed, ‘the study of evidence’ would be a better choice than ‘the study of language’.    —A.J. Ayer, *Philosophy in the Twentieth Century*
+> For my own part, I think that if one were looking for a single phrase to capture the stage to which philosophy has progressed, ‘the study of evidence’ would be a better choice than ‘the study of language’.
+>    —A.J. Ayer, *Philosophy in the Twentieth Century*
 
-> And when we try to define ‘evidence’ … we find it very difficult.    —R.G. Collingwood, *The Idea of History*
+> And when we try to define ‘evidence’ … we find it very difficult.
+>    —R.G. Collingwood, *The Idea of History*
 
 The concept of evidence is central to both epistemology and the philosophy of science. Of course, ‘evidence’ is hardly a philosopher's term of art: it is not only, or even primarily, philosophers who routinely speak of evidence, but also lawyers and judges, historians and scientists, investigative journalists and reporters, as well as the members of numerous other professions and ordinary folk in the course of everyday life. The concept of evidence would thus seem to be on firmer pre-theoretical ground than various other concepts which enjoy similarly central standing within philosophy. (Contrast, for example, the epistemologist's quasi-technical term ‘epistemic justification’.)
 
@@ -19,7 +21,8 @@ One possibility is the following. Both in and outside of philosophy, the concept
 
 ## 1. Evidence as That Which Justifies Belief
 
-> In any event, the concept of evidence is inseparable from that of justification. When we talk of ‘evidence’ in an epistemological sense we are talking about justification: one thing is ‘evidence’ for another just in case the first tends to enhance the reasonableness or justification of the second.… A strictly nonnormative concept of evidence is not our concept of evidence; it is something that we do not understand.    —Jaegwon Kim, ‘What is “Naturalized Epistemology”?’
+> In any event, the concept of evidence is inseparable from that of justification. When we talk of ‘evidence’ in an epistemological sense we are talking about justification: one thing is ‘evidence’ for another just in case the first tends to enhance the reasonableness or justification of the second.… A strictly nonnormative concept of evidence is not our concept of evidence; it is something that we do not understand.
+>    —Jaegwon Kim, ‘What is “Naturalized Epistemology”?’
 
 Evidence, whatever else it is, is the kind of thing which can make a difference to what one is *justified* in believing or (what is often, but not always, taken to be the same thing) what it is *reasonable* for one to believe. Some philosophers hold that what one is justified in believing is entirely determined by one's evidence. This view—which sometimes travels under the banner of ‘Evidentialism’—can be formulated as a supervenience thesis, according to which normative facts about what one is justified in believing supervene on facts about one's evidence (See especially Conee and Feldman 2004)[^conee-2004]. Thus, according to the Evidentialist, any two individuals who possessed exactly the same evidence would be exactly alike with respect to what they are justified in believing about any given question.
 
@@ -49,11 +52,14 @@ Notably, even views which tend to marginalize the role of a subject's evidence i
 
 ## 2. Rational Thinkers Respect Their Evidence
 
-> A rational man is one who makes a proper use of reason: and this implies, among other things, that he correctly estimates the strength of evidence.    —Ayer, *Probability and Evidence*
+> A rational man is one who makes a proper use of reason: and this implies, among other things, that he correctly estimates the strength of evidence.
+>    —Ayer, *Probability and Evidence*
 
-> Insofar as we are rational in our beliefs, the intensity of belief will tend to correspond to the firmness of the available evidence. Insofar as we are rational, we will drop a belief when we have tried in vain to find evidence for it.    —Quine and Ullian, *The Web of Belief*
+> Insofar as we are rational in our beliefs, the intensity of belief will tend to correspond to the firmness of the available evidence. Insofar as we are rational, we will drop a belief when we have tried in vain to find evidence for it.
+>    —Quine and Ullian, *The Web of Belief*
 
-> A wise man proportions his belief to the evidence.    —David Hume, *An Enquiry Concerning Human Understanding*
+> A wise man proportions his belief to the evidence.
+>    —David Hume, *An Enquiry Concerning Human Understanding*
 
 It is characteristic of rational thinkers to respect their evidence. Insofar as one is rational, one is disposed to respond appropriately to one's evidence: at any given time, one's views accurately reflect the character of one's evidence at that time, and one's views manifest a characteristic sensitivity or responsiveness to changes in one's evidence through time. Of course, rationality is no guarantee of correctness. Indeed, in a given case one might be led astray by following one's evidence, as when one's evidence is *misleading*. But being mistaken is not the same as being unreasonable. To the extent that one respects one's evidence, one is not unreasonable even when one is wrong.[^note-9]
 
@@ -87,9 +93,11 @@ Other cases, however, are less clear-cut. For example, suppose that a second tra
 
 ## 3. Evidence as a Guide to Truth: Evidence as Sign, Symptom, or Mark
 
-> The situation in which I would properly be said to have *evidence* for the statement that some animal is a pig is that, for example, in which the beast itself is not actually on view, but I can see plenty of pig-like marks on the ground outside its retreat. If I find a few buckets of pig-food, that's a bit more evidence, and the noises and the smell may provide better evidence still. But if the animal then emerges and stands there plainly in view, there is no longer any question of collecting evidence; its coming into view doesn't provide me with more *evidence* that it's a pig, I can now just *see* that it is.    —J.L. Austin, *Sense and Sensibilia*
+> The situation in which I would properly be said to have *evidence* for the statement that some animal is a pig is that, for example, in which the beast itself is not actually on view, but I can see plenty of pig-like marks on the ground outside its retreat. If I find a few buckets of pig-food, that's a bit more evidence, and the noises and the smell may provide better evidence still. But if the animal then emerges and stands there plainly in view, there is no longer any question of collecting evidence; its coming into view doesn't provide me with more *evidence* that it's a pig, I can now just *see* that it is.
+>    —J.L. Austin, *Sense and Sensibilia*
 
-> ‘Not enough evidence God! Not enough evidence!’    —Bertrand Russell, upon being asked what he would reply if, after dying, he were brought into the presence of God and asked why he had not been a believer
+> ‘Not enough evidence God! Not enough evidence!’
+>    —Bertrand Russell, upon being asked what he would reply if, after dying, he were brought into the presence of God and asked why he had not been a believer
 
 If *E* is evidence for some hypothesis *H*, then *E* makes it more likely that *H* is true: in such circumstances, *E* *confirms* *H*. On the other hand, if *E* is evidence against *H*, then *E* makes it less likely that *H* is true: *E* *disconfirms* *H*. *Verification* is the limiting case of confirmation: a piece of evidence verifies a hypothesis in this sense just in case it conclusively establishes that hypothesis as true. At the other end of the spectrum, *falsification* is the limiting case of disconfirmation: a piece of evidence falsifies a hypothesis just in case it conclusively establishes that the hypothesis is false. It is at least somewhat controversial whether full-fledged verification or falsification in this sense ever occurs.[^note-16]
 
@@ -153,7 +161,8 @@ In general, the idea that the probability calculus provides the key to understan
 
 ## 4. Objectivity, Publicity, and Intersubjectivity: Evidence as Neutral Arbiter
 
-> What is creditable … is not the mere belief in this or that, but the having arrived at it by a process which, had the evidence been different, would have carried one with equal readiness to a contrary belief.    —Blanshard, *Reason and Belief*
+> What is creditable … is not the mere belief in this or that, but the having arrived at it by a process which, had the evidence been different, would have carried one with equal readiness to a contrary belief.
+>    —Blanshard, *Reason and Belief*
 
 It is natural to suppose that the concept of evidence is intimately related to the cognitive desideratum of *objectivity*. According to this line of thought, individuals and institutions are objective to the extent that they allow their views about what is the case or what ought to be done to be guided by the evidence, as opposed to (say) the typically distorting influences of ideological dogma, prejudice in favor of one's kin, or texts whose claim to authority is exhausted by their being venerated by tradition. To the extent that individuals and institutions are objective in this sense, we should expect their views to increasingly converge over time: as shared evidence accumulates, consensus tends to emerge with respect to formerly disputed questions. Objective inquiry is evidence-driven inquiry, which makes for intersubjective agreement among inquirers.[^note-26] Thus, it is widely thought that the reason why the natural sciences exhibit a degree of consensus that is conspicuously absent from many others fields is that the former are evidence-driven—and therefore, objective—in ways that the latter are not.
 
@@ -311,7 +320,7 @@ For help in the preparation of this entry, I am grateful to Richard Feldman, Gil
 
 [^note-31]: A good discussion is Earman (1992, see especially Chapter 6).
 
-[^note-32]: The *loci classici*for the doctrine of theory-ladenness are Hanson (1961) and Kuhn (1962). A contemporary defender is Paul Churchland, see his (1979) and (1988).
+[^note-32]: The *loci classici* for the doctrine of theory-ladenness are Hanson (1961) and Kuhn (1962). A contemporary defender is Paul Churchland, see his (1979) and (1988).
 
 [^note-33]: Interestingly, Carnap himself was prepared to admit that this represented something of a departure from actual scientific practice:
 

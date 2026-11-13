@@ -27,17 +27,29 @@ This is formalized by the formula $\mathtt{@_a p}$ where the nominal $\mathtt{a}
 
 To sum up, we have now added further expressive power to ordinary modal logic in the form of nominals and satisfaction operators. Informally, the nominal $\mathtt{a}$ has the truth-condition
 
-> $\mathtt{a}$ is true relative to a point $w$     if and only if the reference of $\mathtt{a}$ is identical to $w$.
+> $\mathtt{a}$ is true relative to a point $w$
+>     if and only if
+> the reference of $\mathtt{a}$ is identical to $w$.
 
 and the satisfaction statement $\mathtt{@_a\phi}$ has the truth-condition
 
-> $\mathtt{@_a\phi}$ is true relative to a point $w$     if and only if $\mathtt{\phi}$ is true relative to the reference of $\mathtt{a}$.
+> $\mathtt{@_a\phi}$ is true relative to a point $w$
+>     if and only if
+> $\mathtt{\phi}$ is true relative to the reference of $\mathtt{a}$.
 
 Note that actually the point $w$ does not matter in the truth-condition for $\mathtt{@_a\phi}$ since the satisfaction operator $\mathtt{@_a}$ moves the point of evaluation to the reference of $\mathtt{a}$ whatever $w$ is.
 
 It is remarkable that nominals together with satisfaction operators allow us to express that two points are identical: If the nominals $\mathtt{a}$ and $\mathtt{b}$ refer to the points $w$ and $v$, then the formula $\mathtt{@_a b}$ expresses that $w$ and $v$ are identical. The following line of reasoning shows why.
 
-> $\mathtt{@_a b}$ is true relative to a point $w$     if and only if $\mathtt{b}$ is true relative to the reference of $\mathtt{a}$     if and only if $\mathtt{b}$ is true relative to $w$     if and only if the reference of $\mathtt{b}$ is identical to $w$     if and only if $v$ is identical to $w$.
+> $\mathtt{@_a b}$ is true relative to a point $w$
+>     if and only if
+> $\mathtt{b}$ is true relative to the reference of $\mathtt{a}$
+>     if and only if
+> $\mathtt{b}$ is true relative to $w$
+>     if and only if
+> the reference of $\mathtt{b}$ is identical to $w$
+>     if and only if
+> $v$ is identical to $w$.
 
 The identity relation on a set has the well-known properties reflexivity, symmetry, and transitivity, which is reflected in the fact that the formulas
 
@@ -59,7 +71,14 @@ We now define models and frames. A *model* for hybrid logic is a triple $(W, R, 
 
 An *assignment* for a model $M = (W, R, V)$ is a function $g$ that assigns an element of $W$ to each nominal. An assignment $g'$ is an $\mathtt{a}$*-variant* of $g$ if $g'$ agrees with $g$ on all nominals save possibly $\mathtt{a}$. The relation $M, g, w \vDash \phi$ is defined by induction, where $g$ is an assignment, $w$ is an element of $W$, and $\mathtt{\phi}$ is a formula.
 
-> $M, g, w \vDash \mathtt{p}$ iff $V(w, \mathtt{p})=1$ $M, g, w \vDash \mathtt{a}$ iff $w = g(\mathtt{a})$ $M, g, w \vDash \mathtt{\phi \wedge \psi}$ iff $M, g, w \vDash \mathtt{\phi}$ and $M, g, w \vDash \mathtt{\psi}$ $M, g, w \vDash \mathtt{\neg \phi}$ iff not $M, g, w \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{\Box} \phi$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{@_a \phi}$ iff $M, g, g(\mathtt{a}) \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{\forall a\phi}$ iff for any $\mathtt{a}$-variant $g'$ of $g$, it is the case that $M, g', w \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{{\downarrow} a\phi}$ iff $M, g', w \vDash \mathtt{\phi}$ where $g'$ is the $\mathtt{a}$-variant of $g$ such that $g'(\mathtt{a}) = w$.
+> $M, g, w \vDash \mathtt{p}$ iff $V(w, \mathtt{p})=1$
+> $M, g, w \vDash \mathtt{a}$ iff $w = g(\mathtt{a})$
+> $M, g, w \vDash \mathtt{\phi \wedge \psi}$ iff $M, g, w \vDash \mathtt{\phi}$ and $M, g, w \vDash \mathtt{\psi}$
+> $M, g, w \vDash \mathtt{\neg \phi}$ iff not $M, g, w \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{\Box} \phi$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{@_a \phi}$ iff $M, g, g(\mathtt{a}) \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{\forall a\phi}$ iff for any $\mathtt{a}$-variant $g'$ of $g$, it is the case that $M, g', w \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{{\downarrow} a\phi}$ iff $M, g', w \vDash \mathtt{\phi}$ where $g'$ is the $\mathtt{a}$-variant of $g$ such that $g'(\mathtt{a}) = w$.
 
 A formula $\mathtt{\phi}$ is said to be *true* at $w$ if $M, g, w \vDash \mathtt{\phi}$; otherwise it is said to be *false* at $w$. By convention $M, g \vDash \mathtt{\phi}$ means $M, g, w \vDash \mathtt{\phi}$ for every element $w$ of $W$ and $M \vDash \mathtt{\phi}$ means $M, g \vDash \mathtt{\phi}$ for every assignment $g$. A formula $\mathtt{\phi}$ is *valid* in a frame if and only if $M \vDash \mathtt{\phi}$ for any model $M$ that is based on the frame in question. A formula $\mathtt{\phi}$ is *valid* in a class of frames $F$ if and only if $ \mathtt{\phi}$ is valid in any frame in $F$. A formula $\mathtt{\phi}$ is *valid* if and only if $\mathtt{\phi}$ is valid in the class of all frames. The definition of satisfiability is left to the reader.
 
@@ -103,7 +122,8 @@ The translations above can be extended to first-order hybrid logic, in which cas
 
 The history of hybrid logic goes back to Arthur N. Prior’s hybrid tense logic, which is a hybridized version of ordinary tense logic. With the aim of investigating this further, we shall give a formal definition of hybrid tense logic. The language of hybrid tense logic is simply the language of hybrid logic defined above except that there are two modal operators, namely $\mathtt{G}$ and $\mathtt{H}$, instead of the single modal operator $\mathtt{\Box}$. The two new modal operators are called *tense operators*. The semantics of hybrid tense logic is the semantics of hybrid logic, cf. earlier, with the clause for $\mathtt{\Box}$ replaced by clauses for the tense operators $\mathtt{G}$ and $\mathtt{H}$.
 
-> $M, g, w \vDash \mathtt{G \phi}$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{H \phi}$ iff for any element $v$ of $W$ such that $vRw$, it is the case that $M, g, v \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{G \phi}$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$
+> $M, g, w \vDash \mathtt{H \phi}$ iff for any element $v$ of $W$ such that $vRw$, it is the case that $M, g, v \vDash \mathtt{\phi}$
 
 Thus, there are now two modal operators, namely one that “looks forwards” along the accessibility relation and one that “looks backwards”. In tense logic the elements of the set $W$ are called *moments* or *instants* and the relation $R$ is called the *earlier-later relation*.
 

@@ -57,7 +57,9 @@ While the remaining hundreds of pages of the *Fons Vitae* go on to offer highly 
 
 “And in this way, the soul returns to its higher world.” The ends of humanity (reached through the pursuit of truth and goodness) are imagined by Ibn Gabirol—as we find is the case among Neoplatonists more generally—through the evocative image of a “return” coupled with the image of a “higher world”:
 
-> Student: What is the purpose of man? Teacher: The inclination [*applicatio*] of his soul to the higher world in order that everyone might return to his like. (*Fons Vitae* 1.2, p. 4, lines 23–25)
+> Student: What is the purpose of man?
+> Teacher: The inclination [*applicatio*] of his soul to the higher world in order that everyone might return to his like.
+> (*Fons Vitae* 1.2, p. 4, lines 23–25)
 
 The joint imagery of a “return” and a “higher world” are themselves part of a conceptual framework in which all of existence is seen to follow a principle of similitude whereby lesser beings mirror higher beings. This idea, often expressed as the idea that “the microcosm mirrors the macrocosm”—a common Platonic, Pythagorean, and Neoplatonic trope—has a strongly prescriptive overtone: it's not simply that lesser things mirror greater things, but that in this mirroring, we find the purpose of the lesser things, viz. to be just like the greater things. Depending on the context, the “lesser things” and “greater things” might vary, but the most popular version of this “microcosm mirrors the macrocosm” idea, and the one at play in the above Ibn Gabirol passage, envisions the human being (sometimes human soul, sometimes human intellect) as the “lesser thing” and the wisely ordered cosmos (and sometimes, relatedly, the mind of God or, alternatively, the cosmic Intellect) as the “greater thing.” In this descriptive idea that humans mirror something greater there emerges the strongly prescriptive reminder that we ought to emulate that which is better than ourselves (viz. through the pursuit of knowledge and good deeds). This prescriptive call to human perfection through truth and goodness is the essence of the idea of Neoplatonic Return, and it is this idea which lies at the core of Ibn Gabirol's claim that we ought purge our souls of darkness and “return to our like[ness]”.
 
@@ -135,7 +137,10 @@ Hand in hand with the doctrine that all things (including spiritual simples) are
 
 Of this first pure matter we learn at the very start of the *Fons Vitae* that it is “…*per se existens, unius essentiae, sustinens diversitatem, dans omnibus essentiam suam et nomen*” (“…existent in and of itself, of a single essence, sustaining diversity, and giving to everything its essence and name”; *Fons Vitae* 1.10, p. 13, lines 15–17). And, in similar manner we learn at the very close of the *Fons Vitae* that it is: “…*substantia existens per se, sustentatrix diversitatis, una numero; et…est substantia receptibilis omnium formarum*” (“…a substance existent in and of itself, the sustainer of diversity, one in number; …it is a substance receptive to all forms”; *Fons Vitae* 5.22, p. 298, lines 13–7; compare with facing Arabic text at Pines 1958/77, p. 53, section 9:2)[^pines-1958]. Related to its status as the “sustainer of diversity,” pure matter is presented as the fundamental receiver that always seeks to receive its partner, viz. form. Pure universal matter is thus coupled—in a process overseen by Divine Will—with a pure universal form to yield the first fully existing substance, Universal Intellect. In their coupling, matter and form thus mark the permeating presence of Divine Will in the universe. Related to his vision of a matter-to-form coupling through Will, Ibn Gabirol envisions the Neoplatonic emanating chain of being as an ever-descending series of matter-to-form couplings, and so:
 
-> Intellect (matter + form)₁ Soul (matter + form)₂ Celestial Body (matter + form)₃ Terrestrial Body (mater + form)₄
+> Intellect (matter + form)₁
+> Soul (matter + form)₂
+> Celestial Body (matter + form)₃
+> Terrestrial Body (mater + form)₄
 
 Here, a hylomorphic lens is put onto the standard Neoplatonic hierarchy emphasizing the composition of all things (spiritual simples as well as bodies) in terms of matters and forms (and highlighting three kinds of matter: spiritual, celestial, and terrestrial).[^note-29] And with this hylomorphic lens emerges too the emphasis on Divine Will, the active presence of God responsible in some way for “mediating” between these matters and forms.
 
@@ -165,7 +170,18 @@ In the context of this analysis, we might also say a word about the doctrine of 
 
 Ibn Gabirol can be seen as offering us a revised version of the Neoplatonic great chain of being, adding an emphasis on Will, matter and form (and, in light of section 5, we might say a number of levels of matters and forms). With other Jewish Neoplatonists (see Isaac Israeli for example), Ibn Gabirol also envisions not one but three World Souls, and a Universal Intellect which he describes in his *Keter Malkhut* [*Kingdom's Crown*] as “the Sphere of Intellect” (in his Hebrew, *galgal ha-sâkhel*), an odd and creative locution which blurs astronomical and metaphysical conceptions: generally the languages of “sphere” and “intellect” do not mix, the former referring to the celestial realm, and the latter referring to something well beyond the celestial realm. To these Neoplatonic layers of Intellect and Souls, and following mostly in the spirit of astronomy of his day (with the exception, that is, of his positing Intellect as a so-called “10ᵗʰ sphere” in contrast to the more accepted Ptolemaic system of 9 spheres; see Tanenbaum 1996 and Loewe 1979)[^loewe-1979][^tanenbaum-1996], Ibn Gabirol also envisions a hierarchy of star fields and planetary orbs, a cosmic picture which he lays out in great detail in his *Keter Malkhut* poem. Moving from God outward, we find the layers as follows:
 
-> (God) 10. “Sphere of Intellect” (*galgal ha-sêkhel*) (cantos 24–25) 9. Encompassing Sphere (canto 23) 8. Zodiac / Fixed Stars (cantos 21–22) 7. Saturn (canto 20) 6. Jupiter (canto 19) 5. Mars (canto 18) 4. Sun (cantos 15–17) 3. Venus (canto 14) 2. Mercury (canto 13) 1. Moon (cantos 11–12) (Earth)
+> (God)
+> 10. “Sphere of Intellect” (*galgal ha-sêkhel*) (cantos 24–25)
+> 9. Encompassing Sphere (canto 23)
+> 8. Zodiac / Fixed Stars (cantos 21–22)
+> 7. Saturn (canto 20)
+> 6. Jupiter (canto 19)
+> 5. Mars (canto 18)
+> 4. Sun (cantos 15–17)
+> 3. Venus (canto 14)
+> 2. Mercury (canto 13)
+> 1. Moon (cantos 11–12)
+> (Earth)
 
 Above even the “Sphere of Intellect” is the Divine Throne, which we know from the *Fons Vitae* refers to pure universal matter “between” God and Intellect (on matter as Throne, see *Fons Vitae* 5.42, p. 335, lines 23–4; for a great diagram see Loewe 1989, p. 114)[^loewe-1989].
 
@@ -173,7 +189,9 @@ It should be noted that it is in reference to the above chart of the celestial l
 
 Returning full circle to our start (see section 3), Ibn Gabirol's emphasis even in his elaboration on a celestial hierarchy centers on the Neoplatonic concern with the cultivation of the human soul—its Return to its highest fullness in Intellect: from a series of planets, we immediately move to Intellect (“*galgal ha-sêkhel*”), the ground and goal of the virtuous human life.
 
-> Student: What is the purpose of man? Teacher: The inclination of his soul to the higher world in order that everyone might return to his like. (*Fons Vitae* 1.2, p. 4, lines 23–5)
+> Student: What is the purpose of man?
+> Teacher: The inclination of his soul to the higher world in order that everyone might return to his like.
+> (*Fons Vitae* 1.2, p. 4, lines 23–5)
 
 ## 7. The Poet
 
@@ -325,7 +343,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 [^note-2001]: (Note: For some editions of Ibn Gabirol's poetry in English translation, see main bibliography: Cole 2001, Gluck 2003, Lewis 1961, Scheindlin 1986 and 1991.)
 
-[^bialik-1924]: Bialik and Ravnitsky, eds. 1924/1925.*Shirei Shlomo ben Yehudah Ibn Gevirol*, Vol. I–II (*Shirei Hol*). Tel Aviv; Berlin: Dwir-Verlags-Gesellschaft.
+[^bialik-1924]: Bialik and Ravnitsky, eds. 1924/1925. *Shirei Shlomo ben Yehudah Ibn Gevirol*, Vol. I–II (*Shirei Hol*). Tel Aviv; Berlin: Dwir-Verlags-Gesellschaft.
 
 [^schirmann-1967]: Schirmann, Y., ed. 1967. *Ibn Gabirol: Shirim Nivharim*. Jerusalem; Tel Aviv: Schocken.
 

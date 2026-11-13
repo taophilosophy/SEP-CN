@@ -192,7 +192,7 @@ action | agency | anomalous monism | causation: counterfactual theories of | cau
 
 [^beardsley-1975]: Beardsley, M. C., 1975, ‘Actions and Events: The Problem of Individuation’, *American Philosophical Quarterly*, 12: 263–276.
 
-[^beebee-2004]: Beebee, H., 2004, ‘Causing and Nothingness’, in J. Collins *et al.*(eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 291–308.
+[^beebee-2004]: Beebee, H., 2004, ‘Causing and Nothingness’, in J. Collins *et al.* (eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 291–308.
 
 [^belnap-1988]: Belnap, N., and Perloff, M., 1988, ‘Seeing to It that: A Canonical Form for Agentives’, *Theoria*, 54: 175–199.
 
@@ -390,7 +390,7 @@ action | agency | anomalous monism | causation: counterfactual theories of | cau
 
 [^higginbotham-1983]: Higginbotham, J., 1983, ‘The Logic of Perceptual Reports: An Extensional Alternative to Situation Semantics’, *Journal of Philosophy*, 80: 100–127; reprinted in *Events*, pp. 19–46.
 
-[^higginbotham-2000]: –––, 2000, ‘On Events in Linguistic Semantics’, in J. Higginbotham *et al.*(eds.), 2000, pp. 49–79.
+[^higginbotham-2000]: –––, 2000, ‘On Events in Linguistic Semantics’, in J. Higginbotham *et al.* (eds.), 2000, pp. 49–79.
 
 [^higginbotham-2000-2]: Higginbotham, J., Pianesi, F., and Varzi, A. C. (eds.), 2000, *Speaking of Events*, Oxford: Oxford University Press.
 
@@ -468,7 +468,7 @@ action | agency | anomalous monism | causation: counterfactual theories of | cau
 
 [^lewis-1986c]: –––, 1986c, *On the Plurality of Worlds*, Oxford: Blackwell.
 
-[^lewis-2004]: –––, 2004, ‘Void and Object’, in J. Collins *et al.*(eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 277–290.
+[^lewis-2004]: –––, 2004, ‘Void and Object’, in J. Collins *et al.* (eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 277–290.
 
 [^link-1998]: Link, G., 1998, *Algebraic Semantics and in Language and Philosophy*, Stanford (CA): CSLI Publications.
 
@@ -520,7 +520,7 @@ action | agency | anomalous monism | causation: counterfactual theories of | cau
 
 [^mellor-1998]: –––, 1998, *Real Time II*, London: Routledge.
 
-[^menzies-2004]: Menzies, P., 2004, ‘Difference-Making in Context’, in J. Collins *et al.*(eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 139–180.
+[^menzies-2004]: Menzies, P., 2004, ‘Difference-Making in Context’, in J. Collins *et al.* (eds.), *Causation and Counterfactuals*, Cambridge (MA): MIT Press, pp. 139–180.
 
 [^mertz-1996]: Mertz, D. W., 1996, *Moderate Realism and Its Logic*, New Haven (CT): Yale University Press.
 
@@ -670,7 +670,7 @@ action | agency | anomalous monism | causation: counterfactual theories of | cau
 
 [^taylor-1965]: Taylor, C. C. W., 1965, ‘States, Activities and Performances’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 39: 85–102.
 
-[^tegtmeier-2000]: Tegtmeier, E., 2000, ‘Events as Facts’, in J. Faye *et al.*(eds.), *Things, Facts and Events*, Amsterdam: Rodopi, pp. 219–228.
+[^tegtmeier-2000]: Tegtmeier, E., 2000, ‘Events as Facts’, in J. Faye *et al.* (eds.), *Things, Facts and Events*, Amsterdam: Rodopi, pp. 219–228.
 
 [^teichmann-1967]: Teichmann, J., 1967, ‘The Contingent Identity of Minds and Brains’, *Mind*, 76: 404–415.
 

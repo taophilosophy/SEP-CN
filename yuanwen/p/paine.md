@@ -153,7 +153,7 @@ civil rights | common good | deism | democracy | property and ownership | repres
 
 [^bodleian-nd]: Bodleian Library, Petty MSS, letters to Lord Lansdowne
 
-[^foner-1945]: P. S. Foner (ed.), 1945, *The Complete Writings of Thomas Paine*, 2 vols., Secaucus, NJ: The Citadel Press. [This is referenced as CW in the text.]
+[^foner-1945]: P. S. Foner (ed.), 1945, *The Complete Writings of Thomas Paine*, 2 vols., Secaucus, NJ: The Citadel Press. [This is referenced as **CW** in the text.]
 
 [^conway-1894]: M. D. Conway (ed.), 1894, *The Writings of Thomas Paine*, 4 vols., New York: G.P. Putnam’s Sons.
 

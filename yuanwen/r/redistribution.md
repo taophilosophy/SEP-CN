@@ -253,7 +253,7 @@ This essay has benefited greatly from comments from Alejandra Mancilla, Joanna P
 
 [^scanlon-1982]: Scanlon, Thomas, 1982, “Nozick on Rights, Liberty, and Property,” in Jeffrey Paul (ed.), *Reading Nozick: Essays on ‘Anarchy State and Utopia’*, Oxford: Blackwell, pp. 206–231.
 
-[^scanlon-2017]: –––, 2017, *Why Inequality Matters*, Oxford: Oxford University Press.
+[^scanlon-2017]: –––, 2017, *Why Inequality Matters* , Oxford: Oxford University Press.
 
 [^scheffler-2003]: Scheffler, Samuel, 2003, “What is Egalitarianism?” *Philosophy and Public Affairs*, 31(1): 5–39.
 

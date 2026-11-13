@@ -53,7 +53,7 @@ There is no special problem posed by the claim that human social and linguistic 
 
 > *X* *constitutively constructs* *Y* if and only if *X*’s conceptual or social activity regarding an individual *y* is metaphysically necessary for *y* to be a *Y*.
 
-In this vein, most discussions of social construction have thus distinguished causal from constitutive forms of determination. However, it should be noted that, following a more general shift in philosophical metaphysics, some social ontologists have shifted away from thinking of noncausal determination by socio-conceptual activity in terms of constitution towards thinking of it in terms of *metaphysical grounding*(e.g. Epstein 2015; Schaffer 2017; Griffith 2017)[^epstein-2015][^griffith-2017][^schaffer-2017]. Here, I’ll continue to discuss such noncausal determination using the older notion of constitution.
+In this vein, most discussions of social construction have thus distinguished causal from constitutive forms of determination. However, it should be noted that, following a more general shift in philosophical metaphysics, some social ontologists have shifted away from thinking of noncausal determination by socio-conceptual activity in terms of constitution towards thinking of it in terms of *metaphysical grounding* (e.g. Epstein 2015; Schaffer 2017; Griffith 2017)[^epstein-2015][^griffith-2017][^schaffer-2017]. Here, I’ll continue to discuss such noncausal determination using the older notion of constitution.
 
 Consider the ways in which causal and constitutive claims might pull apart in a case of a socially produced artifact. Representations expressing the concept *watch* are normally causally necessary for some materials to come to have the intrinsic features of a watch, but they are not metaphysically necessary. It is metaphysically possible, however unlikely, that we could walk across a heath and find (something with the intrinsic features of) a watch that had “always been there.”
 
@@ -350,7 +350,7 @@ epistemology: social | evolution: cultural | feminist philosophy, topics: perspe
 
 [^kuorikoski-2012]: Kuorikoski, J. and S. Pöyhönen, 2012. “Looping Kinds and Social Mechanisms,” *Sociological Theory*, 30(3): 187–205.
 
-[^laimann-2020]: Laimann, Jessica, 2020. “Capricious Kinds,” *British Journal for the Philosophy of Science,*71 (3):1043–1068.
+[^laimann-2020]: Laimann, Jessica, 2020. “Capricious Kinds,” *British Journal for the Philosophy of Science,* 71 (3):1043–1068.
 
 [^laqueur-1990]: Laqueur, T. W., 1990. *Making sex: body and gender from the Greeks to Freud*, Cambridge, MA: Harvard University Press.
 

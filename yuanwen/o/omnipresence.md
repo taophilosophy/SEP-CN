@@ -5,7 +5,11 @@
 
 The psalmist asks God,
 
-> Where can I go from your spirit? Or where can I flee from your presence? If I ascend to heaven, you are there; If I make my bed in Sheol, you are there.                 (Psalms 139: 7–8, NRSV)
+> Where can I go from your spirit?
+> Or where can I flee from your presence?
+> If I ascend to heaven, you are there;
+> If I make my bed in Sheol, you are there.
+>                 (Psalms 139: 7–8, NRSV)
 
 Philosophers and theologians have taken such texts to affirm that God is present everywhere. This passage suggests, first, that God is really *present* at or *located* at various particular places. Second, it suggests that there is no place where God is not present, that is, that God is present *everywhere*. This is the claim that God is *omnipresent*. Divine omnipresence is thus one of the traditional divine attributes, although it has attracted less philosophical attention than such attributes as omnipotence, omniscience, or being eternal.
 

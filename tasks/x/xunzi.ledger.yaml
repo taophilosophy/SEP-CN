@@ -11,98 +11,130 @@ segments:
     kind: body
     source: |-
       Xunzi 荀子 (third century BCE) was a Confucian philosopher, sometimes reckoned as the third of the three great classical Confucians (after Confucius and Mencius). For most of imperial Chinese history, however, Xunzi was a *bête noire* who was typically cited as an example of a Confucian who went astray by rejecting Mencian convictions. Only in the last few decades has Xunzi been widely recognized as one of China’s greatest thinkers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子（Xunzi，公元前三世纪）是一位儒家哲学家，有时被列为三大古典儒者中的第三位（次于孔子与孟子）。然而，在中国帝制时代的大部分时间里，荀子都是一个招人反感的对象（*bête noire*），人们提起他，往往把他当作因拒绝孟子的信念而误入歧途的儒者的例证。只是到了最近几十年，荀子才被广泛公认为中国最伟大的思想家之一。
+    step2: |-
+      荀子（Xunzi，公元前三世纪）是儒家哲学家，有时被算作三大古典儒者中的第三位，排在孔子与孟子之后。然而，在帝制中国的绝大部分时间里，荀子却是一个招人厌忌的名字：人们援引他，多半是把他当作儒家队伍中误入歧途的典型——只因他拒绝了孟子的信念。直到最近几十年，荀子才被广泛承认为中国最伟大的思想家之一。
   - id: 2
     kind: body
     source: |-
       ## 1. Xunzi and *Xunzi*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 荀子与《荀子》
+    step2: |-
+      ## 1 荀子与《荀子》
   - id: 3
     kind: body
     source: |-
       The name Xunzi means Master Xun and refers to Xun Kuang 荀況, who was renowned in his day as “the most revered of teachers” (*zui wei laoshi* 最爲老師). His precise dates are unknown, and extant sources contradict one another: in particular, there is disagreement as to whether he journeyed to the philosophical center of Qi 齊 at the age of fifteen *sui* 歲 (i.e. thirteen or fourteen years of age) or fifty *sui* (forty-eight or forty-nine). The former figure is more plausible (Goldin 1999: 110n.13; Knoblock 1982–83: 33–34)[^goldin-1999][^knoblock-1982], and would indicate a year of birth sometime around 310 BCE All we can surmise of his death is that it must have been after 238 BCE, because he was alive when his patron, Lord Chunshen 春申君, was assassinated in that year. Virtually all available information about his life comes either from internal references in *Xunzi*, the posthumously edited collection of his works, or from his biography in *Records of the Historian* 史記, by Sima Qian 司馬遷 (145?–86? BCE), which is known to contain serious distortions, especially in its treatment of famous philosophers (Kern 2015)[^kern-2015]. Hence modern attempts to piece together Xun Kuang’s life (such as Knoblock 1988–94: I, 3–35; and Liao Mingchun 2005: 535–46)[^knoblock-1988][^liao-2005] are necessarily tentative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “荀子”这个名字意为“荀先生”，指的是荀况。荀况在他那个时代以“最为老师”（*zui wei laoshi*）著称，即公认最受尊崇的老师。他的确切生卒年不详，现存史料彼此矛盾：特别是，他究竟是十五岁（即十三四岁）还是五十岁（即四十八九岁）时前往学术中心齐国，历来有争论。前一说法更为可信（Goldin 1999: 110n.13；Knoblock 1982–83: 33–34）[^goldin-1999][^knoblock-1982]，据此推算，他大约生于前 310 年前后。关于他的死，我们所能推测的只是：必在前 238 年之后，因为他的庇主春申君在那一年遇刺时他还在世。关于他生平的几乎所有可得信息，要么来自《荀子》——他身后由人编辑成书的文集——中的内证，要么来自司马迁（前 145?–前 86? 年）《史记》中他的传记；而《史记》以包含严重失实著称，写著名哲学家时尤其如此（Kern 2015）[^kern-2015]。因此，现代拼接荀况生平的种种尝试（如 Knoblock 1988–94: I, 3–35；Liao Mingchun 2005: 535–46）[^knoblock-1988][^liao-2005]必然只能是尝试性的。
+    step2: |-
+      荀子之名，意为“荀先生”，其人即荀况。当时人以“最为老师”（*zui wei laoshi*）称之——意思是公认最受尊崇的老师。他的确切生卒年已不可考，现存史料又互相抵牾：尤其是，他究竟是十五岁（也就是十三四岁）便游学于学术中心齐国，还是五十岁（也就是四十八九岁）才去，向来聚讼纷纭。前者更为可信（Goldin 1999: 110n.13；Knoblock 1982–83: 33–34）[^goldin-1999][^knoblock-1982]，若从此说，其生年当在前 310 年前后。至于他的卒年，我们只能断定必在前 238 年之后——这一年他的庇主春申君遇刺身亡，而荀子当时尚在人世。其生平的几乎所有可得信息，或出自《荀子》这部身后由人纂辑的文集中的内证，或出自司马迁（前 145?–前 86? 年）《史记》中的本传；而《史记》以严重失实著称，写著名哲学家时尤其如此（Kern 2015）[^kern-2015]。因此，今人重组荀况生平的种种努力（如 Knoblock 1988–94: I, 3–35；Liao Mingchun 2005: 535–46）[^knoblock-1988][^liao-2005]必然只能是尝试性的。
   - id: 4
     kind: body
     source: |-
       Sima Qian relates that Xunzi polished his voluminous writings in his old age, but they do not survive in his own recension (Liu 2024: 342–43, Machle 1993: 57–58)[^liu-2024][^machle-1993]. All extant editions of *Xunzi* derive from a compilation by Liu Xiang 劉向 (79–8 BCE), a palace librarian who located 322 bamboo bundles of text (*pian* 篇) that he confidently attributed to Xunzi, of which he eliminated 290 as duplicates. These high numbers suggest that Xunzi’s essays had been circulating independently for about two centuries (Sato 2003: 27–36)[^sato-2003]. The general consensus today is that *Xunzi* is a collection of predominantly authentic essays, but certainly not organized in a manner that Xun Kuang himself had authorized (e.g., Knoblock 1988–94: I, 105–28)[^knoblock-1988]. One indication of the diversity of Liu Xiang’s sources is that a few chapters (notably “A Debate about Warfare” [“Yibing” 議兵]) refer to Xunzi as Sun Qingzi 孫卿子, “Master Chamberlain Sun”, a title that he himself would not have used.[^note-1] The chapter divisions, in particular, seem unreliable: whereas some chapters read like self-standing essays, others do not. In “Refutation of Physiognomy” (“Feixiang” 非相), for example, only the opening lines deal with physiognomy; the rest of the chapter seems to consist of stray passages that Liu Xiang did not quite know where to insert. There are also some chapters with generic instructional material, as well as poems and rhymed riddles that are rarely studied (Knechtges 1989)[^knechtges-1989]. One of the consequences of this arrangement is that reconstructing Xunzi’s arguments requires reading across chapter boundaries: taken as a whole, the book conveys a distinctive philosophical position, but individual chapters are inadequate, indeed sometimes incoherent, on their own (Kern 2016; Hutton 2014: xviii–xxiii)[^hutton-2014][^kern-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      司马迁说，荀子在晚年润饰了他卷帙浩繁的著述，但这些文字并没有以他本人的定本流传下来（Liu 2024: 342–43；Machle 1993: 57–58）[^liu-2024][^machle-1993]。现存一切版本的《荀子》都源自刘向（前 79–前 8 年）的编纂。刘向是一位宫廷藏书之官，他找到 322 束题名为荀子的竹书（*pian* 篇），自信地归诸荀子名下，并从中剔除重复的 290 篇。数目之巨表明，荀子的各篇文章已各自独立流传了约两个世纪（Sato 2003: 27–36）[^sato-2003]。今天的一般共识是：《荀子》是一部大体真实的文集，但其编排方式肯定不是荀况本人所认可的（如 Knoblock 1988–94: I, 105–28）[^knoblock-1988]。刘向所据材料之驳杂有一迹象可证：少数几篇（最著名的是《议兵》）称荀子为“孙卿子”（*Sun Qingzi* 孫卿子）——这一称呼他本人绝不会使用。[^note-1] 篇章的划分尤其可疑：有的篇章读来像独立成篇的文章，有的则不然。例如《非相》一篇，只有开头几句谈相术，其余部分似乎是刘向不知该插到何处的零散段落。还有一些篇章属于一般性的教诲材料，另有诗与押韵的谜语，很少被人研读（Knechtges 1989）[^knechtges-1989]。这种编排的一个后果是：要重构荀子的论证，就必须跨篇而读。全书合而观之，传达出一种独特的哲学立场；但孤立地看单篇，则不足以自立，有时甚至前后失据（Kern 2016; Hutton 2014: xviii–xxiii）[^hutton-2014][^kern-2016]。
+    step2: |-
+      司马迁说，荀子晚年润色了自己卷帙浩繁的著述；但这些文字并未以他亲手厘定的本子传世（Liu 2024: 342–43；Machle 1993: 57–58）[^liu-2024][^machle-1993]。现存所有版本的《荀子》，都出自刘向（前 79–前 8 年）的编纂。刘向官居宫廷藏书之职，搜得题为荀子的竹书 322 篇（*pian* 篇），自信地归入荀子名下，又剔除重复的 290 篇。篇数如此之巨，说明荀子的各篇文字已各自单行流传了约两个世纪（Sato 2003: 27–36）[^sato-2003]。今日的一般共识是：《荀子》大体收录真篇，但可以肯定，其编排绝非荀况本人亲手厘定（如 Knoblock 1988–94: I, 105–28）[^knoblock-1988]。刘向来历驳杂的取材有一处明证：有几篇（最显眼的是《议兵》）径称荀子为“孙卿子”（*Sun Qingzi* 孫卿子）——这样的称呼，他本人绝不会使用。[^note-1] 尤其可疑的是篇章的分合：有的篇章读起来像独立自足的论文，有的则不然。以《非相》为例，开篇数句谈相术，其余部分似乎是刘向不知该安插于何处的散段。此外还有些篇章是一般性的训诲材料，又有诗与押韵的谜语，历来少有人研读（Knechtges 1989）[^knechtges-1989]。如此编排的一个后果是：重构荀子的论证，必须跨篇而读。全书合观，传达出一种独特的哲学立场；但孤立地看单篇，则往往不足以自立，有时甚至自相矛盾（Kern 2016; Hutton 2014: xviii–xxiii）[^hutton-2014][^kern-2016]。
   - id: 5
     kind: body
     source: |-
       ## 2. Human Nature (*xing* 性)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 人性（*xing* 性）
+    step2: |-
+      ## 2 人性（*xing* 性）
   - id: 6
     kind: body
     source: |-
       Chapter 23,[^note-2] “Human Nature is Evil” (*Xing’e* 性惡), is a reasonable point of entry into Xunzi’s philosophy for multiple reasons: it exemplifies some of the textual problems mentioned above; it addresses one of the core themes of the collection; and it was, for centuries, the most frequently cited section of *Xunzi*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二十三章《性恶》（*Xing'e* 性惡）[^note-2]是进入荀子哲学的一个合理入口，理由有多端：它体现了上文提到的某些文本问题；它讨论了整部文集的核心主题之一；而且几个世纪以来，它一直是《荀子》中被引用最频繁的部分。
+    step2: |-
+      第二十三章《性恶》（*Xing'e* 性惡）[^note-2]是进入荀子哲学的合理门径，理由不止一端：它体现着上文说过的若干文本问题；它处理全书的核心主题之一；而且数百年来，它一直是《荀子》各篇中被征引最多的一篇。
   - id: 7
     kind: body
     source: |-
       First, the two keywords need to be unpacked. *Xing*, commonly translated as “human nature”, is a term of uncertain etymology that earlier philosophers had used in subtly dissimilar ways. Mencius (372–289 BCE?), for example, used it to refer to the ideal state than an organism is expected to attain under the right conditions, or perhaps an innate tendency toward that state (Graham 1989: 117–32; Graham 1990: 7–66)[^graham-1989][^graham-1990]. Famously, Mencius argued that the *xing* of human beings is good (*shan* 善), by which he meant that all human beings *have the capacity to become* good, even though, in reality, not all people are good, because they fail to exert themselves sufficiently—or even take the obligation seriously.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先要把两个关键词讲清楚。“性”（*xing*）通常英译作 human nature，词源不明，此前的哲学家以微有差别的方式使用它。例如孟子（前 372–前 289 年?）用它指一个有机体在适当条件下被期待达到的理想状态，或指朝向那一状态的某种天生倾向（Graham 1989: 117–32; Graham 1990: 7–66）[^graham-1989][^graham-1990]。孟子的名言是：人之性善（*shan* 善）。他的意思是，所有人都**有能力变好**，尽管现实中并非人人都善，因为他们没有充分努力——甚至没有认真对待这一义务。
+    step2: |-
+      先要把两个关键词解开。“性”（*xing*）通常英译为 human nature，此词词源不明，早先的哲学家对它的用法彼此微有不同。比如孟子（前 372–前 289 年?）用它指有机体在适当条件下被期待达致的理想状态，或指奔向那一状态的某种天赋倾向（Graham 1989: 117–32; Graham 1990: 7–66）[^graham-1989][^graham-1990]。孟子的名言是：人之性善（*shan* 善）。他的意思是，人人都**有能力变善**，尽管现实中并非人人皆善，因为人们不肯足够用力——甚至不肯把这份义务当回事。
   - id: 8
     kind: body
     source: |-
       In *Xunzi*, “Human Nature is Evil” is framed as an argument with Mencius (who was probably long dead), and takes the view that the *xing* of human beings is the very opposite of *shan*, namely *e*. The basic meaning of *e* is close to “detestable” (as a transitive verb, *wu* 惡 means “to hate”); the translation “evil” is acceptable only with the understanding that something like an Augustinian conception of evil is not intended. (Some scholars opt for “bad”, another standard antonym of “good” in English.) But in prosecuting this position, Xunzi uses *xing* in a fundamentally different sense: “What is so by birth is called *xing*” (*Xunzi* 22.1b).[^note-3] Thus *xing* refers to the basic faculties, capacities, and desires that we have from birth, which cannot be called “good” because following the impulses of our *xing*, without reflecting on them and moderating them, will lead us to act harmfully (Hutton 2000; Tang 2016: 51)[^hutton-2000][^tang-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《荀子》中，《性恶》被写成一篇与孟子的论辩（孟子当时大概早已去世），其主张是：人之性与善（*shan*）恰恰相反，即是恶（*e*）。*e* 的基本义近于“可憎”（作及物动词的“惡”读 *wu*，义为“憎恨”）；把 *e* 译作 evil 尚可接受，但须明白：这并不意味着某种奥古斯丁式的恶的观念。（也有学者选译 bad，即英文里“好”的另一个标准反义词。）但在展开这一立场时，荀子使用的“性”是一个根本不同的含义：“生之所以然者谓之性”（《荀子》22.1b）。[^note-3] 这样，“性”指的就是我们与生俱来的那些基本官能、能力与欲望；它们不能被称为“善”，因为若不加反思与节制地顺着我们本性的冲动走，就会引我们做出有害之事（Hutton 2000; Tang 2016: 51）[^hutton-2000][^tang-2016]。
+    step2: |-
+      在《荀子》里，《性恶》被写成一篇与孟子的论战文字——那时孟子多半早已不在人世——其立场是：人之性恰是善（*shan*）的反面，即恶（*e*）。*e* 的基本义近于“可憎”（“惡”作及物动词读 *wu*，义为憎恨）；译作 evil 固可接受，但须记住：这里并没有奥古斯丁式的“恶”的意思。（也有学者宁可译作 bad，即英文中“好”的另一个通行反义词。）不过在申说这一立场时，荀子对“性”的用法是另一回事，含义根本不同：“生之所以然者谓之性”（《荀子》22.1b）。[^note-3] 由此，“性”便指我们生而具有的基本官能、能力与欲望。这些东西不能叫“善”，因为顺着本性的冲动行事，不加省察与节制，就会使人做出有害之事（Hutton 2000; Tang 2016: 51）[^hutton-2000][^tang-2016]。
   - id: 9
     kind: body
     source: |-
       In effect, both Xunzi and Mencius argued that human beings all have the capacity to become good, even though some people develop this capacity and others do not (Graham 1989: 250; Shun 1997: 222–31)[^graham-1989][^shun-1997]. The main differences, only recently appreciated, are that they were not operating with the same implicit definitions of *xing*, and Xunzi’s recommendations for moral self-cultivation—that is, how to overcome one’s inherently detestable nature—were more complex than Mencius’s, as we shall see. Because of Mencius’s subsequent prestige, it was commonly supposed that Xunzi’s definition of *xing* was heterodox, if not deliberately subversive. But a collection of Confucian manuscripts recently excavated from a tomb near the modern town of Guodian 郭店 and dated to ca. 300 BCE suggests that it may have been *Mencius’s* usage of *xing*, not Xunzi’s, which was considered eccentric in ancient times.[^note-4] The Guodian text called *The Xing Emerges from the Endowment* (*Xing zi ming chu* 性自命出) defines *xing* in a manner very similar to Xunzi: the set of inborn characteristics shared by all members of a species (Goldin 2005: 38)[^goldin-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      实际上，荀子与孟子都主张人人都有变善的能力，只是有的人把这一能力发展出来，有的人没有（Graham 1989: 250; Shun 1997: 222–31）[^graham-1989][^shun-1997]。两人的主要差别——直到最近才被意识到——在于：他们心中隐含的“性”的定义并不相同；而且，正如我们将看到的，荀子为道德修养开出的办法——即如何克服自己生而可憎的本性——比孟子的更复杂。由于孟子后来的声望，人们通常认为荀子对“性”的定义是异端，即便不是有意颠覆。但郭店镇附近一座墓中新近出土的一批儒家文献，年代约在前 300 年，提示：古人视为怪异的，也许是**孟子**对“性”的用法，而不是荀子的。[^note-4] 郭店文献中题为《性自命出》（*Xing zi ming chu* 性自命出）的一篇，对“性”的界定与荀子非常接近：它指一物种全体成员共有的、与生俱来的特征之集合（Goldin 2005: 38）[^goldin-2005]。
+    step2: |-
+      说到底，荀子与孟子都主张人人有变善的能力，只是有人把这份能力养成了，有人没有（Graham 1989: 250; Shun 1997: 222–31）[^graham-1989][^shun-1997]。两人的主要分别——晚近才得到体会——有二：其一，两人心中隐含的“性”的定义并不同一；其二，正如后文所见，荀子就道德修养所开的方子——也就是如何克服那生而可憎的本性——比孟子的更为繁复。孟子后来声望日隆，于是人们惯于认定：荀子给“性”下的定义是异端，甚而是存心立异。可是郭店镇附近一座墓葬新近出土的一批儒家竹书，年代约在前 300 年，却提示：古人眼中不合常规的，或许恰是**孟子**对“性”的用法，而非荀子的用法。[^note-4] 郭店文献中题为《性自命出》（*Xing zi ming chu* 性自命出）的一篇，对“性”的界定与荀子极为接近：性即一物种全体成员共享的、与生俱来的特征之集合（Goldin 2005: 38）[^goldin-2005]。
   - id: 10
     kind: body
     source: |-
       Fixating on the title “Human Nature Is Evil” (which may or may not derive from Xunzi himself) can lead to an elision of the second half of the chapter’s credo: “what is good [in people] is their artifice” (*qi shan zhe wei ye* 其善者偽也). “Artifice” (*wei*)[^note-5] refers to all the traits and habits that we acquire through our own conscious actions. And if we achieve any goodness, it must be because of our artifice:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把眼光钉死在《性恶》这个篇名上（此名是否出自荀子本人，尚难断定），容易让人漏掉本章信条的后半：“其善者伪也”（*qi shan zhe wei ye*）——“人身上善的部分是人为”。“伪”（*wei*）[^note-5]指我们经由自己有意识的行动而习得的一切品质与习惯。而我们若成就了任何善，那必定是由于我们的伪：
+    step2: |-
+      若把眼光死死钉在《性恶》这个篇名上——它是否出自荀子本人尚难断定——便容易漏掉本章信条的后半句：“其善者伪也”（*qi shan zhe wei ye*）：人身上善的东西出自人为。“伪”（*wei*）[^note-5]指的是我们凭借自己有意识的行动养成的一切品质与习惯。而我们倘若成就了任何善，那必定出于伪：
   - id: 11
     kind: body
     source: |-
       > Human *xing* is evil; what is good is artifice. Now human *xing* is as follows. At birth there is fondness for profit in it. If one follows this, contention and robbery arise, and deference and courtesy are destroyed. … There must be the transformation [brought about by] the methods of a teacher and the Way of ritual and morality; this will result in deference and courtesy, converge on refinement and principles, and come to rest in order. Using these [considerations] to see it, human *xing* is clearly evil; what is good is artifice. (*Xunzi* 23.1a)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人之性恶，其善者伪也。今人之性，生而有好利焉，顺是，故争夺生而辞让亡焉。……故必将有师法之化，礼义之道，然后出于辞让，合于文理，而归于治。用此观之，然则人之性恶明矣，其善者伪也。（*Xunzi* 23.1a）
+    step2: |-
+      > 人之性恶，其善者伪也。今人之性，生而有好利焉，顺是，故争夺生而辞让亡焉。……故必将有师法之化，礼义之道，然后出于辞让，合于文理，而归于治。用此观之，然则人之性恶明矣，其善者伪也。（*Xunzi* 23.1a）
   - id: 12
     kind: body
     source: |-
       Thus the phrase that is used to denote moral self-cultivation is not to overcome or abandon the *xing*, but *to transform* it (*huaxing* 化性). For this reason, in addition to stylistic features that trouble some readers, the chapter is occasionally impugned as corrupt or inauthentic (Zhou Chicheng 2015, which argues that the chapter was not written by Xunzi and misrepresents his true position, is the most significant study; see also Ho 2024 and Robins 2001–02)[^robins-2001][^zhou-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，用来指称道德修养的说法，不是克服或抛弃“性”，而是**转化**它（*huaxing* 化性）。正因如此，除了令某些读者不安的文风特点之外，这一章还时时被人指为讹误或伪作（Zhou Chicheng 2015 是其中最重要的研究，认为本章非荀子所作，且歪曲了荀子的真实立场；另见 Ho 2024 与 Robins 2001–02）[^robins-2001][^zhou-2015]。
+    step2: |-
+      由此，指称道德修养的说法，不是克服或抛弃“性”，而是**转化**它，即“化性”（*huaxing*）。正因如此，本章除了让某些读者不安的文风之外，还不时被人指为文本讹坏、乃至出于伪托（其中最重要的研究是周炽成 2015，他论证本章并非荀子所作，且歪曲了荀子的真实立场；另见 Ho 2024 与 Robins 2001–02）[^robins-2001][^zhou-2015]。
   - id: 13
     kind: body
     source: |-
       ## 3. Modes of Moral Self-Cultivation: Ritual (*li* 禮) and Music (*yue* 樂)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 道德修养的诸形态：礼（*li* 禮）与乐（*yue* 樂）
+    step2: |-
+      ## 3 道德修养的诸形态：礼（*li* 禮）与乐（*yue* 樂）
   - id: 14
     kind: body
     source: |-
       What prompted Xunzi to dissent from Mencius’s characterization of *xing* as good if he ultimately agreed with Mencius’s larger view: that people can perfect themselves and that such an achievement requires great exertion and self-motivation? Perhaps Xunzi wished to highlight his conviction that the proper models for moral behavior lie outside the self, which is fundamentally opposed to a Mencian notion of Four Beginnings (*siduan* 四端) lodged within the human heart (e.g., *Mencius* 2A.6). Whereas Mencians have always emphasized looking inwards for moral direction—sometimes complicated by the acknowledgment that the heart can be corrupted—self-cultivation in the Xunzian style is inconceivable without looking *outwards*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果荀子最终同意孟子的更大主张——人能够完善自身，而这一成就需要巨大的努力与自我鞭策——那么是什么促使他在“性善”这一刻画上与孟子分道扬镳？也许荀子想突出他的一个信念：道德行为的正当典范在自我之外；这与孟子一系内在于人心的“四端”（*siduan* 四端）观念（如《孟子》2A.6）根本对立。孟子一系始终强调向内寻求道德方向——有时又因承认心可能败坏而使问题复杂化——而荀子式的修养，若不**向外**看，根本无从设想。
+    step2: |-
+      荀子若终究同意孟子的那个更大的主张——人能够自我完善，且这一成就需要极大的努力与自我激励——那么，他为何偏要在“性善”这一刻画上与孟子立异？或许，荀子有意彰显这样一个信念：道德行为的正当范型在自我之外。这与孟子一系把“四端”（*siduan* 四端）安放于人心之中的观念（如《孟子》2A.6）正相反对。孟子一系向来强调向内寻求道德指引——尽管有时也不得不承认心可能败坏，从而让问题复杂化——而荀子式的自我修养，若离开**向外**看，根本无从谈起。
   - id: 15
     kind: body
     source: |-
       Xunzi held that for most ordinary people, the best guide is the set of rituals (*li*) handed down by sages of yore (*sheng* 聖 or *shengren* 聖人). What are rituals and why did the sages institute them? In some passages, Xunzi attributes, in a manner superficially reminiscent of Hobbes or Rousseau, the genesis of the rituals to the sages’ recognition that unbridled competition produces a globally unsustainable situation:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子认为，对大多数普通人来说，最好的指南是古圣（*sheng* 聖，或 *shengren* 聖人）传下来的一套礼（*li*）。礼是什么？圣人为何要制定礼？在某些段落里，荀子把礼的起源归于圣人认识到：不受约束的竞争会造成全面的不可持续的局面——这种说法表面上令人想起霍布斯或卢梭：
+    step2: |-
+      荀子认为，对绝大多数普通人而言，最好的指南是往古圣人（*sheng* 聖，或 *shengren* 聖人）传下来的一套礼（*li*）。礼究竟是什么？圣人又为何要立礼？在某些段落里，荀子把礼的起源归结为圣人认识到：放任竞争，全局将不可维持——这层论证表面上令人想起霍布斯或卢梭：
   - id: 16
     kind: body
     source: |-
       > If people follow their desires, then boundaries cannot contain them and objects cannot satisfy them. Thus the Former Kings restrained them and established for them ritual and morality in order to divide them [into classes]. (*Xunzi* 4.12; cf. 19.1a)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 然则从人之欲则势不能容，物不能赡也。故先王案为之制礼义以分之，使有贵贱之等，长幼之差。（*Xunzi* 4.12；参 19.1a）
+    step2: |-
+      > 然则从人之欲则势不能容，物不能赡也。故先王案为之制礼义以分之，使有贵贱之等，长幼之差。（*Xunzi* 4.12；参 19.1a）
   - id: 17
     kind: body
     source: |-

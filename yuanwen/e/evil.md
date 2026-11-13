@@ -478,7 +478,8 @@ This objection, however, is open to the following reply. The reason that I am ju
 
 The conclusion, in short, is that the above parody of Rowe’s argument doesn’t work, since the parody violates the following requirement:
 
-> **The Total Evidence Requirement**: For any proposition that is not non-inferentially justified, the probability that one should assign to that proposition’s being true is the probability that the proposition has relative to one’s total evidence.
+> **The Total Evidence Requirement**:
+> For any proposition that is not non-inferentially justified, the probability that one should assign to that proposition’s being true is the probability that the proposition has relative to one’s total evidence.
 
 But this response to the above objection to the argument for the conclusion that
 

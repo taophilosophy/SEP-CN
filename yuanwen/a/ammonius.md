@@ -237,7 +237,7 @@ Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | Boethius, An
 
 [^gerson-2010]: Gerson, L.P., 2010. *The Cambridge History of Philosophy in Late Antiquity*, Cambridge.
 
-[^glucker-1978]: Glucker, J., 1978. *Antiochus and the Late Academy* (*Hypomnemata* 56), Göttingen.
+[^glucker-1978]: Glucker, J., 1978. *Antiochus and the Late Academy* ( *Hypomnemata* 56), Göttingen.
 
 [^golitsis-2008]: Golitsis, P., 2008. *Les Commentaires de Simplicius et de Jean Philopon à la* Physique *d’Aristote. Tradition et Innovation*, (*Commentaria in Aristotelem Graeca et Byzantina. Quellen und Studien* Band 3), Berlin.
 

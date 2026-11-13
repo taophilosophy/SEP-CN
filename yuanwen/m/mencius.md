@@ -77,7 +77,12 @@ The preceding discussion suggests that Kwong–loi Shun’s summary is correct: 
 
 The statement that “[human] nature is good [*xìng shàn*]” is often misquoted as “[human] nature is *fundamentally* good [*xìng bĕn shàn*].” The latter phrase actually derives from a gloss on Mencius’s view popularized by the seminal commentator Zhu Xi (1130–1200). Zhu Xi held that Mencius was simply explicating what was implicit in the sayings of Confucius. Confucius stated that “natures are close to one another, but become far from one another by practice” (*Analects* 17.2). In order to explain why Confucius described human natures as merely “close to” one another, while Mencius referred to them as identically “good,” Zhu Xi argued that Mencius was referring to the ultimate, underlying human nature in itself, whereas Confucius was referring to human nature as manifested in concrete embodiments.[^note-15] Zhu Xi’s view became orthodoxy, and was even written into the opening lines of the *Three Character Classic,* a primer for learning to read Chinese that was memorized by schoolchildren for centuries:
 
-> At its beginning, human nature is fundamentally good. Human natures are close to one another, but become far from one another by practice. It is only when there is not education, that their natures deviate.[^note-16]
+> At its beginning,
+> human nature is fundamentally good.
+> Human natures are close to one another,
+> but become far from one another by practice.
+> It is only when there is not education,
+> that their natures deviate.[^note-16]
 
 While ingenious, this interpretation of Mencius is unmotivated without the assumption that the *Analects* and *Mengzi* must be expressing the same view.
 

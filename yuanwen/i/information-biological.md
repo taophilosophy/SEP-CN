@@ -233,7 +233,7 @@ animal: cognition | game theory: evolutionary | gene | genetics: genotype/phenot
 
 [^bruner-2018]: Bruner, Justin, Cailin O’Connor, Hannah Rubin, and Simon M. Huttegger, 2018, “David Lewis in the Lab: Experimental Results on the Emergence of Meaning”, *Synthese*, 195(2): 603–621. doi:10.1007/s11229-014-0535-x
 
-[^calcott-2014]: Calcott, Brett, 2014, “The Creation and Reuse of Information in Gene Regulatory Networks”, *Philosophy of Science,*81(5): 879–890. doi: 10.1086/677687
+[^calcott-2014]: Calcott, Brett, 2014, “The Creation and Reuse of Information in Gene Regulatory Networks”, *Philosophy of Science,* 81(5): 879–890. doi: 10.1086/677687
 
 [^calcott-2020]: Calcott, Brett, Arnaud Pocheville, and Paul Griffiths, 2020, “Signals That Make a Difference”, *The British Journal for the Philosophy of Science*, 71(1): 233–258. doi:10.1093/bjps/axx022
 

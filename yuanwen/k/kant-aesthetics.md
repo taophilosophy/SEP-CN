@@ -475,7 +475,7 @@ Work on the original (2005) version of this article was supported by the America
 
 [^abaci-2008]: Abaci, Uygar, 2008, “Kant’s Justified Dismissal of Artistic Sublimity”, *Journal of Aesthetics and Art Criticism*, 66(3): 237–251. doi:10.1111/j.1540-6245.2008.00306.x
 
-[^abela-2006]: Abela, Paul, 2006, “The Demands of Systematicity: Rational Judgment and the Structure of Nature.” In *A Companion to Kant,*Graham Bird (ed.), Oxford: Blackwell, 408–422
+[^abela-2006]: Abela, Paul, 2006, “The Demands of Systematicity: Rational Judgment and the Structure of Nature.” In *A Companion to Kant,* Graham Bird (ed.), Oxford: Blackwell, 408–422
 
 [^allison-1992]: Allison, Henry E., 1992, “Kant’s Antinomy of Teleological Judgment”, *The Southern Journal of Philosophy*, 30(S1): 25–42. doi:10.1111/j.2041-6962.1992.tb00654.x
 
@@ -547,13 +547,13 @@ Work on the original (2005) version of this article was supported by the America
 
 [^cavell-1976]: Cavell, Stanley, 1976, *Must We Mean What We Say? A Book of Essays*, Cambridge: Cambridge University Press.
 
-[^cazeaux-2021]: Cazeaux, Clive (ed.), 2021, *Kant and Contemporary Art* (special issue), *Kantian Review,*26(4).
+[^cazeaux-2021]: Cazeaux, Clive (ed.), 2021, *Kant and Contemporary Art* (special issue), *Kantian Review,* 26(4).
 
 [^chaouli-2017]: Chaouli, Michel, 2017, *Thinking with Kant’s “Critique of Judgment”*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674973077
 
 [^chignell-2007]: Chignell, Andrew, 2007, “Kant on the Normativity of Taste: The Role of Aesthetic Ideas”, *Australasian Journal of Philosophy*, 85(3): 415–433. doi:10.1080/00048400701571677
 
-[^clewis-2009]: Clewis, Robert R., 2009, *The Kantian Sublime and the Revelation of Freedom,*Cambridge: Cambridge University Press.
+[^clewis-2009]: Clewis, Robert R., 2009, *The Kantian Sublime and the Revelation of Freedom,* Cambridge: Cambridge University Press.
 
 [^clewis-2010]: –––, 2010, “A Case for Kantian Artistic Sublimity: A Response to Abaci”, *The Journal of Aesthetics and Art Criticism*, 68(2): 167–170. doi:10.1111/j.1540-6245.2010.01401.x
 
@@ -799,7 +799,7 @@ Work on the original (2005) version of this article was supported by the America
 
 [^kreines-2005]: Kreines, James, 2005, “The Inexplicability of Kant’s *Naturzweck*: Kant on Teleology, Explanation and Biology”, *Archiv für Geschichte der Philosophie*, 87(3): 270–311. doi:10.1515/agph.2005.87.3.270
 
-[^kripke-1982]: Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language.*Cambridge, MA: Harvard University Press.
+[^kripke-1982]: Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language.* Cambridge, MA: Harvard University Press.
 
 [^kukla-2006]: Kukla, Rebecca (ed.), 2006, *Aesthetics and Cognition in Kant’s Critical Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498220
 

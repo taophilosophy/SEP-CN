@@ -453,7 +453,7 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 [^bronkhorst-2006]: Bronkhorst, Johannes, 2006. “Systematic Philosophy Between the Empires: Some Determining Features,” in Patrick Olivelle (ed.), *Between the Empires: Society in India 300 BCE to 400 CE*, New York: Oxford University Press, pp. 287–313.
 
-[^buescher-2013]: Buescher, Hartmut, 2013. “Distinguishing the Two Vasubandhus, the Bhāṣyakāra and the Kośakāra,” in Ulrich Timme Kragh (ed.), *The Foundation for Yoga Practitioners: The Buddhist* Yogācārabhūmi*Treatise and its Adaptation in India, East Asia, and Tibet*, Harvard Oriental Series 75, Cambridge, MA: Harvard University Department of South Asian Studies & Harvard University Press, pp. 368–396.
+[^buescher-2013]: Buescher, Hartmut, 2013. “Distinguishing the Two Vasubandhus, the Bhāṣyakāra and the Kośakāra,” in Ulrich Timme Kragh (ed.), *The Foundation for Yoga Practitioners: The Buddhist* Yogācārabhūmi *Treatise and its Adaptation in India, East Asia, and Tibet*, Harvard Oriental Series 75, Cambridge, MA: Harvard University Department of South Asian Studies & Harvard University Press, pp. 368–396.
 
 [^cabezón-1992]: Cabezón, Jose, 1992. “Vasubandhu’s *Vyākhyāyukti* on the Authenticity of the Mahāyāna Sūtras,” in Timm, Jeffrey R., ed., *Texts in Context: Traditional Hermeneutics in South Asia*, Albany, NY: State University of New York, pp. 221–243.
 
@@ -475,7 +475,7 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 [^garfield-2002]: Garfield, Jay, 2002. *Empty Words: Buddhist Philosophy and Cross-cultural Interpretation*, New York: Oxford University Press.
 
-[^garfield-2009]: –––, 2009. “Vasubandhu’s *Trisvabhāvanirdeśa* (*Treatise on the Three Natures*),” in William Edelglass & Jay Garfield (eds.),*Buddhist Philosophy: Essential Readings*, New York & Oxford: Oxford University Press, pp. 35–45.
+[^garfield-2009]: –––, 2009. “Vasubandhu’s *Trisvabhāvanirdeśa* (*Treatise on the Three Natures*),” in William Edelglass & Jay Garfield (eds.), *Buddhist Philosophy: Essential Readings*, New York & Oxford: Oxford University Press, pp. 35–45.
 
 [^gold-2006a]: Gold, Jonathan C., 2006a. “No Outside, No Inside: Duality, Reality and Vasubandhu’s Illusory Elephant,” *Asian Philosophy*, 16: 1–38.
 
@@ -525,7 +525,7 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 [^lusthaus-2002]: Lusthaus, Dan, 2002. *Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Philosophy and the* Ch’eng Wei-shih lun, New York: Routledge Curzon.
 
-[^meyers-2014]: Meyers, Karin, 2014. “Free Persons, Empty Selves: Freedom and Agency in Light of the Two Truths,” in Matthew R. Dasti & Edwin F. Bryant (eds.),*Free Will, Agency, and Selfhood in Indian Philosophy*, New York: Oxford University Press, pp. 41–67.
+[^meyers-2014]: Meyers, Karin, 2014. “Free Persons, Empty Selves: Freedom and Agency in Light of the Two Truths,” in Matthew R. Dasti & Edwin F. Bryant (eds.), *Free Will, Agency, and Selfhood in Indian Philosophy*, New York: Oxford University Press, pp. 41–67.
 
 [^mimaki-1989]: Mimaki Katsumi, Musashi Tachikawa and Akira Yuyama (eds.), 1989. *Three Works of* *Vasubandhu in Sanskrit Manuscript: The Trisvabhāvanirdeśa, the Viṃśatikā with* *its Vṛtti, and the Triṃśikā with Sthiramati’s Commentary*, Tokyo: The Centre for East Asian Cultural Studies.
 

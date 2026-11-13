@@ -27,7 +27,8 @@ The notion of nonconceptual content is fundamentally contrastive. In elucidating
 
 Different theories of content will respond to this question in different ways, but the following is widely held to impose a minimal constraint upon any such response.
 
-> **The conceptual constraint:** Specifications of the content of a sentence or propositional attitude should only employ concepts possessed by the utterer or thinker.
+> **The conceptual constraint:**
+> Specifications of the content of a sentence or propositional attitude should only employ concepts possessed by the utterer or thinker.
 
 Certain theories of content and concepts directly entail the conceptual constraint. Within a broadly Fregean tradition, for example, the contents of propositional attitudes (and the meanings of sentences) are taken to consist of concepts—and it is hard to see how one can have a propositional attitude whose content is a complex of concepts without possessing each of them.[^note-1]
 

@@ -318,7 +318,7 @@ abstract objects | Aristotle | Aristotle, General Topics: metaphysics | categori
 
 [^bennett-2021]: Bennett, Karen, 2021, “Why I am Not a Dualist” in *Oxford Studies in Philosophy of Mind*, 1: 208–231.
 
-[^bennett-2017]: –––, 2017, *Making Things Up,*New York: Oxford University Press.
+[^bennett-2017]: –––, 2017, *Making Things Up,* New York: Oxford University Press.
 
 [^bernstein-2014]: Bernstein, Sara, 2014, “Omissions as Possibilities”, *Philosophical Studies*, 167(1): 1–23.
 
@@ -340,7 +340,7 @@ abstract objects | Aristotle | Aristotle, General Topics: metaphysics | categori
 
 [^epstein-2019]: Epstein, Brian, 2019, “What are Social Groups? Their Metaphysics and How to Classify Them”, *Synthese*, 196 (12): 4899–4932.
 
-[^epstein-2021]: –––, “Social Ontology”, *The Stanford Encyclopedia of Philosophy*(Winter 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2021/entries/social-ontology/>
+[^epstein-2021]: –––, “Social Ontology”, *The Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2021/entries/social-ontology/>
 
 [^fine-2001]: Fine, Kit, 2001, “The Question of Realism”, *Philosopher’s Imprint*, 1: 1–30.
 

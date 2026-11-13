@@ -20,7 +20,7 @@ Were we to add the aforeintroduced discrete random variable $\PriceTChina$, we w
 
 $$ \P(\Guilty, \Weapon, \Intuition, \PriceTChina) $$
 
-Bayesian networks provide a economical way to represent the situation. Such networks are directed, acyclic graphs in which nodes correspond to random variables. When there is a directed link from node $N_i$ to node $N_j$, we say that $N_i$ is the parent of $N_j$. With each node $N_i$ there is a corresponding conditional probability distribution $$ P\left(N_i \ggiven Parents\left(N_i\right)\right) $$
+Bayesian networks provide a economical way to represent the situation. Such networks are directed, acyclic graphs in which nodes correspond to random variables. When there is a directed link from node $N_i$ to node $N_j$, we say that $N_i$ is the **parent** of $N_j$. With each node $N_i$ there is a corresponding conditional probability distribution $$ P\left(N_i \ggiven Parents\left(N_i\right)\right) $$
 
 where, of course, $Parents(N_i)$ denotes the parents of $N_i$. The following figure shows such a network for the case we have been considering. The specific probability information is omitted; readers should at this point be able to readily calculate it using the machinery provided above.
 
@@ -28,7 +28,7 @@ where, of course, $Parents(N_i)$ denotes the parents of $N_i$. The following fig
 
 *A Simple Bayesian Net*
 
-Notice the economy of the network, in striking contrast to the prospect, visited above, of listing all 40 possibilities. The price of tea in China is presumed to have no connection to the murder, and hence the relevant node is isolated. In addition, only some probability information is included, corresponding to the relevant tables shown in the figure (typically termed a conditional probability table). And yet from a Bayesian network, every entry in the full joint distribution can be easily calculated, as follows. First, for each node/variable $N_i$ we write $N_i = n_i$ to indicate an assignment to that node/variable. The conjunction of the specific assignments to every variable in the full joint probability distribution can then be written as
+Notice the economy of the network, in striking contrast to the prospect, visited above, of listing all 40 possibilities. The price of tea in China is presumed to have no connection to the murder, and hence the relevant node is isolated. In addition, only some probability information is included, corresponding to the relevant tables shown in the figure (typically termed a **conditional probability table**). And yet from a Bayesian network, every entry in the full joint distribution can be easily calculated, as follows. First, for each node/variable $N_i$ we write $N_i = n_i$ to indicate an assignment to that node/variable. The conjunction of the specific assignments to every variable in the full joint probability distribution can then be written as
 
 $$ P\left(N_1=n_1 \land \ldots \land N_n=n_n\right) $$
 

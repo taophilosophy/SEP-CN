@@ -35,7 +35,8 @@ Twardowski's main publication in the Vienna period is, next to his doctoral diss
 
 In *Content and Object*, Twardowski shares a number of Brentano's fundamental theses. Five of them are particularly relevant here. According to the first and most important thesis, the essential characteristic of mental phenomena, and what demarcates them from physical phenomena, is intentionality. We can sum it up as follows:
 
-> **Brentano's Thesis**: Every mental phenomenon has an object towards which it is directed.
+> **Brentano's Thesis**:
+> Every mental phenomenon has an object towards which it is directed.
 
 Mental phenomena, also called *mental acts*, fall into three separate classes (second thesis): presentations (*Vorstellungen*), judgments, and phenomena of love and hate. In the mental act of presentation, an object is presented; in a judgment, judged; in love and hate, loved or hated.[^note-3] Next (third thesis), mental phenomena are either presentations or are based on presentations. We need to present an object in order to judge it or appreciate it (though we do not need to judge or appreciate an object that we might just present). Importantly, however (fourth thesis), a judgment is not a combination of presentations, but a mental act *sui generis* that accepts or rejects the object given by the presentation at its basis (see Brentano's Theory of Judgment). In keeping with this idea, all judgments (fifth thesis) can be aptly expressed in the existential form ‘*A* is’ (positive judgment) or ‘*A* is not’ (negative judgment) (alternatively, ‘*A* exists’ or ‘*A* does not exist’). In both cases, the judgment has a so-called ‘immanent’ object, given by the presentation, which is simply *A*.
 
@@ -47,7 +48,8 @@ The distinction between content and object of a presentation was not new in Twar
 
 The aim of *Content and Object* is to distinguish “the presented, in one sense, where it means the content, from the presented in the other sense, where it is used to designate the object” (Twardowski 1894, 4). Its main thesis is that in every mental act a content (*Inhalt*) and an object (*Gegenstand*) must be distinguished. This distinction enables Twardowski to clarify that
 
-> **Twardowski's Thesis**: Every mental phenomenon has a content and an object, and it is directed towards its object, not towards its content.
+> **Twardowski's Thesis**:
+> Every mental phenomenon has a content and an object, and it is directed towards its object, not towards its content.
 
 On the basis of the distinction between content and object, Twardowski is in turn able to clarify Brentano's notion of ‘object immanent (*immanentes Objekt*) in a presentation’ by identifying it with the notion of content, and to clarify Brentano's notion of ‘object of a presentation’ by identifying it with the notion of object.
 
@@ -123,7 +125,8 @@ In *Relative Truths*, Twardowski opposes Brentano's ideas on the relationship be
 
 The main claim of *Relative Truths* is that every truth (falsity) is absolute, i.e. no judgment changes its truth-value relatively to circumstance, time, or place. Although Twardowski's treatment is general, and is not confined to the relation between truth and time, it is his ideas on the latter that were particularly important for later discussions. We can characterize Twardowski's view in this respect as the view that a judgment is true *for* ever and *since* ever, that is:
 
-> **Omnitemporal truth**: For any judgment *g*, if *g* is true at a time *t*, then it is true also at an arbitrary time *t*′ past or future with respect to *t* (the same applies, *mutatis mutandis*, to falsity).
+> **Omnitemporal truth**:
+> For any judgment *g*, if *g* is true at a time *t*, then it is true also at an arbitrary time *t*′ past or future with respect to *t* (the same applies, *mutatis mutandis*, to falsity).
 
 Twardowski's aim is to defend this claim against those who argue that truth is relative on the basis of examples of elliptical sentences (such as ‘I don't’), sentences with indexicals (‘my father is called Vincent’), sentences of general form (‘radioactivity is good for you’), and sentences about ethical principles (‘it is wrong to speak against one's own convictions’). Those who argue that truth is relative on this basis, says Twardowski, make a mistake. They confuse judgments, which are the real truth-bearers, with the (type) sentences expressing them. But sentences are merely the external expression of judgments, and often they do not express everything one has in mind when judging. For human speech has a purely practical task; it can perfectly serve its communicative purposes and yet be strictly speaking ambiguous or elliptic.
 
@@ -227,7 +230,7 @@ Twardowski's distinction between acts and products is presently being re-discove
 | (1912) | “O czynnościach i wytworach—Kilka uwag z pogranicza psychologii, gramatyki i logiki” in *Księga Pamiątkowa ku uczczeniu 250-tej rocznicy założenia Uniwersytetu lwowskiego przez króla Jana Kazimierza*. Tom II. Lwów, nakładem Uniwersytetu lwowskiego, 1912, S. 1–33 (also as extract, Krakow, 1911, p. 33.). Reprint in (1927a), pp. 96–128 and in (1965), pp. 217–240. German version: “Funktionen und Gebilde” (Johannes L. Brandl ed.), *Conceptus* XXIX (75), 1996, pp. 157–189. French version: “Fonctions et produits” (>1912), manuscript, Twardowski Archives, Biblioteka IFiS PAN, Warsaw. Engl. transl. on the basis of German and Polish (Art Szylewicz) in (1999), pp. 103–132. Italian translation: “Funzioni e prodotti” (Enrica Natalini) *Axiomathes* 3, 1998: 325–359. |
 | (1919/20) | “O jasnym i niejasnym stylu filozoficznym” (On Clear and Unclear Philosophical Style), *Ruch filozoficzny* V: 25–7; reprinted in (1965), pp. 203–5. Engl. transl. (Art Szylewicz) in (1999), pp. 103–132. |
 | (1921) | “Symbolomania i pragmatophobia” (Symbolomania and pragmatophobia), *Ruch filozoficzny* VI: 1–10; reprinted in (1965), pp.394–406. Engl. transl. (Art Szylewicz) in (1999), pp. 257–259. |
-| (1924) | *O istocie pojęć*(On the Essence of Concepts), Lwów: Nakładem PTF, (*Odczyty filozoficzne*, II.), pp. VI+38. Eng. transl. (Art Szylewicz) in (1999), pp. 73–97 |
+| (1924) | *O istocie pojęć* (On the Essence of Concepts), Lwów: Nakładem PTF, (*Odczyty filozoficzne*, II.), pp. VI+38. Eng. transl. (Art Szylewicz) in (1999), pp. 73–97 |
 | (1926) | “Kazimierz Twardowski: Selbstdarstellung”. (1926). (Woleński, J. and Binder, T., eds.) *Grazer Philosophische Studien* 39, 1991: 1–24. Engl. transl. (Art Szylewicz) in (1999), pp. 17–31. |
 | (1927a) | *Rozprawy i artykuły filozoficzne*, Lwów: Książnica-Atlas, 1927. |
 | (1927b) | “Z logiki przymiotników” (On the Logic of Adjectives), [*Przegląd Filozoficzny* XXX](http://www.wbc.poznan.pl/dlibra/publication/106933?tab=1), pp. 292–294; repr. in (1965), pp. 373–375; Eng. transl. (Art Szylewicz) in (1999), pp. 141–143. |

@@ -93,7 +93,8 @@ But problems remain. What about the person who made a certain moral judgment in 
 
 Cases like these have led some to move away from the idea that the necessary connection between moral judgment and motivation holds with respect to each individual moral judgment. Those who advance forms of what Bjorklund et al. (2012) (see also Bjornsson et al. 2015)[^bjornsson-2015] call “deferred internalism” hold that the necessary connection between moral judgment and motivation can be more attenuated.
 
-> Deferred internalism: Necessarily if a person judges that she morally ought to φ, then she is either (at least somewhat) motivated to φ or some relevantly connected moral judgments are accompanied by motivation. (Bjorklund et al. 2012: 128)[^bjorklund-2012]
+> **Deferred internalism**:
+> Necessarily if a person judges that she morally ought to φ, then she is either (at least somewhat) motivated to φ or some relevantly connected moral judgments are accompanied by motivation. (Bjorklund et al. 2012: 128)[^bjorklund-2012]
 
 So, in the example above, our aid worker who has ceased to be motivated but still judges that she morally ought to φ had some relevantly connected moral judgments that were accompanied by motivation, namely, her own past judgments. Others maintain that the amoralist is only intelligible relative to conditions in which moral motivation ordinarily holds, and this has led some to find the relevantly connected moral judgments in an agent’s community. Tresan (2009a and 2009b), for example, considers the possibility of a “communal” version of deferred internalism, which counts an individual’s beliefs as moral only when, in the believer’s community, beliefs with that content are motivating. (And see Blackburn 2001, 63.)[^blackburn-2001]
 

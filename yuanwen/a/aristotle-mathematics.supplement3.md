@@ -18,6 +18,7 @@ Note that unless *A* = *B*, *A* − *B* is a part of *A*. If *B* > *A*, then *A*
 
 > **Division/Addition series** (keep in mind that this way of defining a series is very modern):
 >
+>
 > > ![diagram4](../assets/aristotle-mathematics/Diagram4.gif) *e* < 1 (in the diagram, *e* = 1/3)
 > >
 > > *B*_{*0*} < *A*

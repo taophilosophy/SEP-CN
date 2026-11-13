@@ -455,7 +455,7 @@ I am very grateful to Tuukka Asplund, Jenny Saul, Alison Stone and Nancy Tuana f
 
 [^martin-1994]: Martin, J. R. 1994, “Methodological Essentialism, False Difference, and Other Dangerous Traps”, *Signs*, 19: 630–655.
 
-[^mckitrick-2015]: McKitrick, J., 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172:****2575–2589.
+[^mckitrick-2015]: McKitrick, J., 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172: 2575–2589.
 
 [^mikkola-2006]: Mikkola, M. 2006, “Elizabeth Spelman, Gender Realism, and Women”, *Hypatia*, 21: 77–96.
 

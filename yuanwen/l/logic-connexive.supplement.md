@@ -8,7 +8,10 @@
 
 Kapsner (2019) introduces the following restricted versions of Aristotle’s theses, Boethius’ theses, Unsat1, and Unsat2:
 
-> Plain humble AT and AT′: For any satisfiable ~*A*, ~(~*A* → *A*) is valid. For any satisfiable *A*, ~(*A* → *~A*) is valid. Plain humble BT and BT′: For any satisfiable *A* and satisfiable *A* → *B*, (*A* → *B*) *→* ~(*A →* ~*B*) is valid. For any satisfiable *A* and satisfiable *A* → ~*B*, (*A*→ ~*B*) → ~(*A* → *B*) is valid. Plain humble Unsat1: In no model, *A* → ~*A* is satisfiable (for any satisfiable *A*), and in no model, *~A* → *A* is satisfiable (for any satisfiable *A*). Plain humble Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any satisfiable *A*).
+> Plain humble AT and AT′: For any satisfiable ~*A*, ~(~*A* → *A*) is valid. For any satisfiable *A*, ~(*A* → *~A*) is valid.
+> Plain humble BT and BT′: For any satisfiable *A* and satisfiable *A* → *B*, (*A* → *B*) *→* ~(*A →* ~*B*) is valid. For any satisfiable *A* and satisfiable *A* → ~*B*, (*A*→ ~*B*) → ~(*A* → *B*) is valid.
+> Plain humble Unsat1: In no model, *A* → ~*A* is satisfiable (for any satisfiable *A*), and in no model, *~A* → *A* is satisfiable (for any satisfiable *A*).
+> Plain humble Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any satisfiable *A*).
 
 Logics that satisfy the restricted versions of Aristotle’s and Boethius’ theses are then *plainly weakly humbly connexive*. According to Lenzen (2019a) the idea of restricting Aristotle’s and Boethius’ theses to self-consistent propositions can be found in Leibniz already, see section 2. However, if a formula *A* is satisfiable in classical logic, then ⊬ *A* → ~ *A*, so that in this weak sense of connexivity, restricting AT′ to satisfiable antecedents makes the whole enterprise of connexive logic pointless from the standpoint of classical logic. Restrictions of connexive principles in terms of consistency or possibility requirements have been discussed also in Unterhuber 2016, whereas Vidal (2017) considers a restriction to contingent formulas *A* and *B* in Aristotle’s and Boethius’ theses. Kapsner 2019 discusses even more notions of connexivity, namely modal humble, glutty humble, and paraconsistent humble connexivity. Combinations of Kapsner’s defining properties gives rise to even further notions of connexivity such as the notion of a logic being *Kapsner strong* from Estrada-González & Ramirez-Cámara 2016.
 
@@ -55,12 +58,21 @@ One may assume that the non-symmetry of implication is tacitly assumed in many w
 
 In the above table, the conditions defining Kapsner’s notion of modal humble connexivity are as follows, cf. also the modalized versions of Aristotle’s and Boethius’ theses as entailment statements in Vidal 2017:
 
-> Modal humble AT, AT′: ◊*~A* ⊨ ~(~*A* → *A*), ◊ *A* ⊨ ~(*A* → ~*A*). Modal humble BT, BT′: ◊*A* ∧ ◊ (*A* → *B*) ⊨ (*A* → *B*) → ~(*A*→ ~*B*), ◊*A* ∧ ◊ (*A* → ~*B*) ⊨ (*A* → ~*B*) → ~(*A* → *B*). Modal humble UnSat1: In no model, ◊~*A* ∧ (~*A* → *A*) is satisfiable, and in no model, ◊*A* ∧ (*A* → ~*A*) is satisfiable. Modal humble Unsat2: In no model, ◊*A* ∧ (*A* → *B*) ∧ (*A* → ~*B*) is satisfiable.
+> Modal humble AT, AT′: ◊*~A* ⊨ ~(~*A* → *A*), ◊ *A* ⊨ ~(*A* → ~*A*).
+> Modal humble BT, BT′: ◊*A* ∧ ◊ (*A* → *B*) ⊨ (*A* → *B*) → ~(*A*→ ~*B*), ◊*A* ∧ ◊ (*A* → ~*B*) ⊨ (*A* → ~*B*) → ~(*A* → *B*).
+> Modal humble UnSat1: In no model, ◊~*A* ∧ (~*A* → *A*) is satisfiable, and in no model, ◊*A* ∧ (*A* → ~*A*) is satisfiable.
+> Modal humble Unsat2: In no model, ◊*A* ∧ (*A* → *B*) ∧ (*A* → ~*B*) is satisfiable.
 
 For glutty humble connexivity, Kapsner’s assumes a many-valued semantics with a designated glutty truth value **B**, “understood as “both true and false”, and a negation operator ~ such that ~*A* receives the value **B** if *A* does. Such a semantics gives a paraconsistent logic, where *ex contradcitione quodlibet*, *A* ∧ ~*A* ⊢ *B*, does not hold. The defining conditions are the following:
 
-> Glutty humble AT, AT′: For any satisfiable ~*A*, resp. *A* that does not take value **B**, ~(~*A* → *A*), resp. ~(*A* → ~*A*) takes a designated value. Glutty humble BT, BT′: For any satisfiable *A*, *B*, and *A* → *B*, reps. *A*, ~*B*, and *A* → ~*B* that do not take value **B**, (*A* → *B*) → ~(*A* → ~*B*), resp. (*A* → ~*B*) → ~(*A* → *B*) takes a designated value. Glutty humble UnSat1: In no model, ~*A* → *A*, resp. *A → ~**A* is satisfiable (for any satisfiable ~*A*, resp. *A* that does not take value **B**). Glutty humble Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any satisfiable *A*, *B* that do not take value **B**).
+> Glutty humble AT, AT′: For any satisfiable ~*A*, resp. *A* that does not take value **B**, ~(~*A* → *A*), resp. ~(*A* → ~*A*) takes a designated value.
+> Glutty humble BT, BT′: For any satisfiable *A*, *B*, and *A* → *B*, reps. *A*, ~*B*, and *A* → ~*B* that do not take value **B**, (*A* → *B*) → ~(*A* → ~*B*), resp. (*A* → ~*B*) → ~(*A* → *B*) takes a designated value.
+> Glutty humble UnSat1: In no model, ~*A* → *A*, resp. *A → ~**A* is satisfiable (for any satisfiable ~*A*, resp. *A* that does not take value **B**).
+> Glutty humble Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any satisfiable *A*, *B* that do not take value **B**).
 
 Kapsner’s conditions for paraconsistent humble connexivity make use of conjunction and disjunction in the object language:
 
-> Paraconsistent humble AT, AT′: For any satisfiable ~*A*, resp. *A*, (*A* ∧ ~*A*) ∨ ~(~*A* → *A*), reps. (*A* ∧ ~*A*) ∨ ~(*A* → ~*A*) is valid. Paraconsistent humble BT, BT′: For any satisfiable *A* and *A* → *B*, reps. *A* and *A* → ~*B*, (*A* ∧ ~*A*) ∨ ((*A* → *B*) ∧ ~(*A* → *B*)) ∨ ((*A* → *B*) → ~(*A* → ~*B*)), resp. (*A* ∧ ~*A*) ∨ ((*A* → *B*) ∧ ~(*A* → *B*)) ∨ ((*A* → ~*B*) → ~(*A* → *B*)) is valid. Paraconsistent humble UnSat1: ~*A* → *A* and *A →* ~*A* are satisfiable only in valuations in which *A* ∧ ~*A* is also satisfied. Paraconsistent humble Unsat2: *A* → *B* and *A* → ~*B* are simultaneously satisfiable only in valuations in which *A* ∧ ~*A* is satisfied or (*A* → *B*) ∧ (*A* → ~*B*) is satisfied.
+> Paraconsistent humble AT, AT′: For any satisfiable ~*A*, resp. *A*, (*A* ∧ ~*A*) ∨ ~(~*A* → *A*), reps. (*A* ∧ ~*A*) ∨ ~(*A* → ~*A*) is valid.
+> Paraconsistent humble BT, BT′: For any satisfiable *A* and *A* → *B*, reps. *A* and *A* → ~*B*, (*A* ∧ ~*A*) ∨ ((*A* → *B*) ∧ ~(*A* → *B*)) ∨ ((*A* → *B*) → ~(*A* → ~*B*)), resp. (*A* ∧ ~*A*) ∨ ((*A* → *B*) ∧ ~(*A* → *B*)) ∨ ((*A* → ~*B*) → ~(*A* → *B*)) is valid.
+> Paraconsistent humble UnSat1: ~*A* → *A* and *A →* ~*A* are satisfiable only in valuations in which *A* ∧ ~*A* is also satisfied.
+> Paraconsistent humble Unsat2: *A* → *B* and *A* → ~*B* are simultaneously satisfiable only in valuations in which *A* ∧ ~*A* is satisfied or (*A* → *B*) ∧ (*A* → ~*B*) is satisfied.

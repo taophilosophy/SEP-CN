@@ -19,7 +19,11 @@ In this context Syrianus probably received a basic education in rhetoric and phi
 
 Syrianus was buried in a two-place vault on the slopes of Mount Lycabettus (eastern suburb of Athens), where he also arranged for Proclus to be interred (cf. Marinus, *Proclus*, §36.24–34, p. 42 S.-S.). Proclus’ epitaph for Syrianus, later added to the vault, eloquently testifies to their bond and shared intellectual purpose:
 
-> I, Proclus, a Lycian by birth, Syrianus Here nurtured me to succeed him in his teaching; The common tomb here received our two bodies: May a single abode welcome our souls as well. (Marinus, *Proclus*, §36.37–42, p. 43 S.–S.; cf. Gelzer 1966; there is also an epigraphic epigram on Syrianus, discovered in 2003 on a reused stone not far from the Lycabettus, cf. Agosti 2008)[^gelzer-1966].
+> I, Proclus, a Lycian by birth, Syrianus
+> Here nurtured me to succeed him in his teaching;
+> The common tomb here received our two bodies:
+> May a single abode welcome our souls as well.
+> (Marinus, *Proclus*, §36.37–42, p. 43 S.–S.; cf. Gelzer 1966; there is also an epigraphic epigram on Syrianus, discovered in 2003 on a reused stone not far from the Lycabettus, cf. Agosti 2008)[^gelzer-1966].
 
 Evidence suggests Syrianus, depicted by Damascius as a strikingly handsome and tall man with impressive intellectual powers (fr. 47.1–9, p.138 A.), may have been married and had a son, Alexander, to whom Syrianus’ commentary on Hermogenes of Tarsus’ *On Types of Style* (assuming Syrianus’ authorship of it, see below) is dedicated (the information finds some support in a *Scholium* on John Tzetzes’ *Chiliades,* mentioning “the son of Syrianus”, cf. Goulet 2016)[^goulet-2016]. Damascius mentions two other (unspecified) kinship relations: with the grammarian Ammonianus (*Life of Isidore*, fr. 47, p. 138 A.) and one Aedesia (fr. 56, p. 156 A.), praised as “the most beautiful and noble of the Alexandrian women” (fr. 56.23, p. 156 A.; tr. A.). Syrianus would have liked to betroth Aedesia to Proclus. But the latter remained a bachelor, and she married Hermias of Alexandria instead.
 

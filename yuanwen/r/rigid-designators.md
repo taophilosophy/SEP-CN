@@ -574,9 +574,9 @@ By blurring the contrast between verbal and substantive differences, Quineans wo
 
 [^putnam-1975]: Putnam, Hilary, 1975, *Mind, Language and Reality*, New York: Cambridge University Press.
 
-[^quinn-1978]: Quinn, Philip L., 1978, “Some Problems about Resurrection,”*Religious Studies*, 14: 343–59.
+[^quinn-1978]: Quinn, Philip L., 1978, “Some Problems about Resurrection,” *Religious Studies*, 14: 343–59.
 
-[^rabern-2018]: Rabern, B., 2018, “Binding bound variables in epistemic contexts,”*Inquiry*, 10.1080/0020174X.2018.1470568.
+[^rabern-2018]: Rabern, B., 2018, “Binding bound variables in epistemic contexts,” *Inquiry*, 10.1080/0020174X.2018.1470568.
 
 [^rami-2019]: Rami, Dolf, 2019, “Names and Their Kind of Rigidity,”*Erkenntnis*, 84: 257–282.
 
@@ -612,7 +612,7 @@ By blurring the contrast between verbal and substantive differences, Quineans wo
 
 [^sidelle-1995]: –––, 1995, “A Semantic Account of Rigidity,” *Philosophical Studies*, 80: 69–105.
 
-[^sidelle-2002]: –––, 2002, “Is There a True Metaphysics of Material Objects?” *Philosophical Issues*, 12 (*Realism and Relativism*): 118–145.
+[^sidelle-2002]: –––, 2002, “Is There a True Metaphysics of Material Objects?” *Philosophical Issues*, 12 ( *Realism and Relativism*): 118–145.
 
 [^smith-1989]: Smith, Quentin, 1989, “The Multiple Uses of Indexicals,” *Synthese*, 78: 167–191.
 

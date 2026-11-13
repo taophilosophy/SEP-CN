@@ -567,7 +567,7 @@ We are grateful to István Bodnar for his help in clarifying and improving our p
 
 [^devereux-1992]: Devereux, Daniel, 1992, “Inherence and Primary Substance in Aristotle’s *Categories*,” *Ancient Philosophy*, 12: 113–131.
 
-[^devereux-2003]: –––, 2003, “The Relation between Books Zeta and Eta of Aristotle’s *Metaphysics*,”*Oxford Studies in Ancient Philosophy*, 25: 159–211.
+[^devereux-2003]: –––, 2003, “The Relation between Books Zeta and Eta of Aristotle’s *Metaphysics*,” *Oxford Studies in Ancient Philosophy*, 25: 159–211.
 
 [^devereux-2010]: –––, 2010, “Aristotle on the Form and Definition of a Human Being: Definitions and Their Parts in ‘Metaphysics Z’ 10 and 11,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 26: 167–196.
 
@@ -613,7 +613,7 @@ We are grateful to István Bodnar for his help in clarifying and improving our p
 
 [^frede-1994]: –––, 1994, “Aristotle’s Notion of Potentiality in *Metaphysics* Θ,” in Scaltsas, Charles, and Gill 1994, pp. 173–194.
 
-[^frede-1996]: –––, 1996, “La théorie aristotélicienne de l’intellect agent,” in G. Romeyer Dherbey and C. Viano (eds.), *Corps et âme. Sur le* De Anima *d’Aristote*, Paris: Vrin, pp. 377–390.
+[^frede-1996]: –––, 1996, “La théorie aristotélicienne de l’intellect agent,” in G. Romeyer Dherbey and C. Viano (eds.), *Corps et âme. Sur le* De Anima *d’Aristote* , Paris: Vrin, pp. 377–390.
 
 [^frede-2000]: Frede M. and D. Charles (eds.), 2000, *Aristotle’s* Metaphysics *Lambda*, Oxford: Oxford University Press.
 
@@ -1035,7 +1035,7 @@ We are grateful to István Bodnar for his help in clarifying and improving our p
 
 [^woods-1993]: –––, 1993, “Form, Species, and Predication in Aristotle,” *Synthèse*, 96: 399–415.
 
-[^woods-1994]: –––, 1994, “The Essence of a Human Being and the Individual Soul in *Metaphysics Ζ* and *Η*,” in Scaltsas, Charles, and Gill 1994, pp. 279–290.
+[^woods-1994]: –––, 1994, “The Essence of a Human Being and the Individual Soul in *Metaphysics Ζ* and *Η* ,” in Scaltsas, Charles, and Gill 1994, pp. 279–290.
 
 [^yu-1997]: Yu, Jiyuan, 1997, “Two Conceptions of Hylomorphism in Metaphysics ΖΗΘ,” *Oxford Studies in Ancient Philosophy*, 15: 119–45.
 

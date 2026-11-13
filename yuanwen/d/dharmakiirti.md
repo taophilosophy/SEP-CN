@@ -220,9 +220,15 @@ Abhidharma | Buddha | Indian Philosophy (Classical): perceptual experience and c
 
 [^note-1]: For introductions to Dharmakīrti’s life and thought, see Stcherbatsky (1930; 1932), Mookerjee (1935), Tosaki (1979; 1985), van Bijlert (1989), Dreyfus (1997), Steinkellner (1998; 2013), Tillemans (1999), Dunne (2004), Eltschinger (2010), Franco (2017), Eltschinger (2019). See also Hattori (1968) on Dignāga’s life and thought, and Siderits (2007, ch. 10) on “the school of Dignāga”, i.e., Buddhist Epistemology. The *Tarkabhāṣā* of Mokṣākaragupta, an 11ᵗʰ-12ᵗʰ century Indian Buddhist text introducing Dharmakīrti’s thought, is translated into English and extensively explained in Kajiyama (1966); see also Mimaki (1976) on later Dharmakīrtian philosophers. Steinkellner and Much (1995) gives an overview of the Sanskrit and Tibetan texts, critical editions, and modern translations of the works of Dharmakīrti and his commentators. A picture of current research on Dharmakīrti, Dignāga, their commentators and opponents is found in Kellner et al. (2020) and Matsuoka et al. (2023). For research on arguably the most independent and deep-thinking Indian Dharmakīrtian commentator, see the online journal *Prajñākaragupta Studies* by the Prajñākaragupta Research Group. On Tibetan developments of Dharmakīrti’s philosophy, see van der Kuijp (1983), Dreyfus (1997), Tillemans (1999), Hugon (2008), Hugon and Stoltz (2019), Tillemans (2022), as well as the entry on Tibetan epistemology and philosophy of language in this encyclopedia. See Eltschinger (2024) for elements of theology and “theological science” in Dharmakīrti’s Buddhism, and see Arnold (2005) and Siderits (2022) for in-depth philosophical discussions of main Dharmakīrtian issues.
 
-[^note-2]: See Sāṅkṛtyāyana (1938, p. vi). Ratié (2023) lays out in detail the commentarial strategies to explain how the opening and closing verses of *Pramāṇavārttika*do *not* show “haughty bitterness” but rather altruism. These commentarial attempts are (and I think Ratié agrees) largely unconvincing, even if they were predictable given the importance placed upon compassion in Buddhist religious discourse. There was, and there still is to this day, a concerted effort to fit Dharmakīrti’s troubling personality and original mind into the conventional Buddhist mould. Note, too, that it may be that the philosopher Dharmakīrti was also the Indian poet known as Dharmakīrti, in which case we would have a rather haunting poem by Dharmakīrti that showed the philosopher’s bitterness at being unrecognized :
+[^note-2]: See Sāṅkṛtyāyana (1938, p. vi). Ratié (2023) lays out in detail the commentarial strategies to explain how the opening and closing verses of *Pramāṇavārttika* do *not* show “haughty bitterness” but rather altruism. These commentarial attempts are (and I think Ratié agrees) largely unconvincing, even if they were predictable given the importance placed upon compassion in Buddhist religious discourse. There was, and there still is to this day, a concerted effort to fit Dharmakīrti’s troubling personality and original mind into the conventional Buddhist mould. Note, too, that it may be that the philosopher Dharmakīrti was also the Indian poet known as Dharmakīrti, in which case we would have a rather haunting poem by Dharmakīrti that showed the philosopher’s bitterness at being unrecognized :
 
-> Valmīki dammed the sea with rocks put into place by monkeys and Vyāsa filled it with arrows shot by Pārtha; yet neither is suspected of hyperbole. On the other hand, I weigh both word and sense and yet the public sneers and scorns my work. O Reputation, I salute thee!.
+> Valmīki dammed the sea with rocks
+> put into place by monkeys
+> and Vyāsa filled it with arrows shot by Pārtha;
+> yet neither is suspected of hyperbole.
+> On the other hand, I weigh both word and sense
+> and yet the public sneers and scorns my work.
+> O Reputation, I salute thee!.
 
 Translation of poem 1726 in D.H.H. Ingalls, *Sanskrit Poetry from Vidyākara’s Treasury.* Cambridge, MA: Harvard University Press, fourth printing, 2000.
 
@@ -260,7 +266,8 @@ Translation of poem 1726 in D.H.H. Ingalls, *Sanskrit Poetry from Vidyākara’s
 
 [^note-19]: There is little sympathy for such things in other Buddhist schools, too. We also find the common-sense empirical argument being used against “bare entities” in Nāgārjuna’s *Mūlamadhyamakakārikā* V.2.:
 
-> *alakṣaṇo na kaścic ca bhāvaḥ saṃvidyate kvacit* An entity without characteristics is nowhere to be found.
+> *alakṣaṇo na kaścic ca bhāvaḥ saṃvidyate kvacit*
+> An entity without characteristics is nowhere to be found.
 
 [^note-20]: On tropes see the entry in this encyclopedia. Goodman (2004) develops a trope-theory of the dharmas in the *Abhidharmakośa*. It looks applicable in the case of Dharmakīrti and Dignāga, too. See also Ganeri (2001, p. 101–102). For an interpretation of Dignāga as holding a theory of bare particulars, see Arnold (2003).
 
@@ -284,7 +291,8 @@ Translation of poem 1726 in D.H.H. Ingalls, *Sanskrit Poetry from Vidyākara’s
 
 [^note-28]: See Hattori (1968, p. 25). Dignāga’s own definition of conceptual thought is *nāmajātyādiyojanā* *kalpanā*: “conceptual thought is that which is linked to names, classes and other [linguistic forms].” Dharmakīrti in *Nyāyabindu* I.5 reformulates:
 
-> *abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā* Conceptual thought is a cognition in which there is a representation that can be associated with words.
+> *abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā*
+> Conceptual thought is a cognition in which there is a representation that can be associated with words.
 
 [^note-29]: A different requirement for understanding to be a genuine source of knowledge—indeed many would say a second criterion besides “reliability”—is that it be new. This figures in *Pramāṇavārttika* II.5: “Or, it illuminates what has not been previously known” (*ajñatārthaprakāśo vā*). Thus, memory, or even the second moment of a perception, is disqualified as a source of knowledge in that it is dependent on a previous understanding—the fundamental intuition seems to be that what is dependent in this way cannot itself be genuine knowledge but is only parasitical upon it. Cf. Katsura (1984, p. 224): “Furthermore, according to Dharmakīrti, the object of *pramāṇa* should be something new. This idea is probably derived from a sort of common sense belief that knowledge is meaningless unless it contains some new information.” The Buddhist scholastic literature exhibits considerable divergence on how these two Dharmakīrtian requirements should be taken. Should “reliability” and “newness” be conjoined (e.g., as the Tibetan dGe lugs scholastic maintains, see Dreyfus (1997)), or do they treat of different levels of understanding, conventional and ultimate (e.g., as in Prajñākaragupta’s commentary to *Pramāṇavārttika* II.5)? An historical explanation for the two is that of Krasser (2001), who argues that the second requirement,“newness,” is a direct borrowing from the non-Buddhist Mīmāṃsaka school and is not a specifically Buddhist philosophical position at all, being adopted essentially for strategic reasons. See also Kataoka (2003) on the newness requirement in the Mīmāṃsaka definition and the general acceptance of this requirement in the philosophical milieu in which Dharmakīrti lived.
 
@@ -300,7 +308,8 @@ Translation of poem 1726 in D.H.H. Ingalls, *Sanskrit Poetry from Vidyākara’s
 
 [^note-35]: *bhedo ‘yam eva sarvatra dravyabhāvābhidhāyinoḥ / śabdayor na tayor vācye viśeṣas tena kaścana* / . The central idea is already found in an early (and now lost) work attributable to Dignāga and cited by Dharmakīrti in his *Pramāṇavārttikasvavṛtti:*
 
-> *sarva evāyam anumānānumeyavyavahāro buddhyāruḍhenaiva dharmadharmibhedena na bahiḥ sadasattvam apekṣate*. Absolutely all these [practical and linguistic] conventions (*vyavahāra*) concerning inferring [reasons] and things to be inferred [and the like] are due to the distinction between property-possessors and properties, which [in turn] is just dependent upon our thought. [The convention] does not depend upon [this difference in fact] existing or not outside [of the mind].
+> *sarva evāyam anumānānumeyavyavahāro buddhyāruḍhenaiva dharmadharmibhedena na bahiḥ sadasattvam apekṣate*.
+> Absolutely all these [practical and linguistic] conventions (*vyavahāra*) concerning inferring [reasons] and things to be inferred [and the like] are due to the distinction between property-possessors and properties, which [in turn] is just dependent upon our thought. [The convention] does not depend upon [this difference in fact] existing or not outside [of the mind].
 
 See Steinkellner (1971, p. 199–200) and Tillemans (1999, p. 246, n. 37) on this passage.
 
@@ -316,11 +325,13 @@ See Steinkellner (1971, p. 199–200) and Tillemans (1999, p. 246, n. 37) on thi
 
 [^note-41]: Dharmakīrti when faced with the problem of “aboutness” says the following in *Pramāṇavārttika* III.53 (ed. H. Tosaki 1979, 1985)[^tosaki-1979]:
 
-> If it said that [quasi-universals, that is, *apoha*] will lose their status of being properties of [real] entities (*bhāvadharmatva*), this is not a fault, for the cognition of the [quasi-universal] was preceded by an apprehension of the entity. (*bhāvadharmatvahāniś ced bhāvagrahaṇapūrvakam / tajjñānam ity adoṣo ‘yam.*)
+> If it said that [quasi-universals, that is, *apoha*] will lose their status of being properties of [real] entities (*bhāvadharmatva*), this is not a fault, for the cognition of the [quasi-universal] was preceded by an apprehension of the entity.
+> (*bhāvadharmatvahāniś ced bhāvagrahaṇapūrvakam / tajjñānam ity adoṣo ‘yam.*)
 
 To this Devendrabuddhi comments in the *Pramāṇavārttikapañjikā* (Peking edition) 167b8–168a1:
 
-> When conceptual thought (*rnam par rtog pa* = *vikalpa*) arises in dependence upon tendencies (*bag chags* = *vāsanā*) that were instilled due to one’s having seen [particular] forms and so forth, it determines (*zhen pa* = *adhyavasāya*) apprehended images (*rnam pa* = *ākāra*) of its own as being the images of form and so forth and thus practically applies [to forms, etc.] In this way, [thought of form, etc., i.e., thought of the universal] arises [indirectly] due to the influence of seeing [particular] forms and so forth, and determines [its own images] to be those [i.e., real features of form], and therefore [for the combination of these two reasons] one does call [the apoha quasi-universal] a property of the [real] entity. (*gzugs la sogs pa mthong bas bsgos pa’i bag chags la brten nas rnam par rtog pa skye ba na / rang nyid kyi gzung ba’i rnam pa la gzugs la sogs pa’i rnam pa nyid du zhen pas ‘jug pa de ltar na gzugs la sogs pa mthong ba’i stobs kyis skye ba’i phyir dang / der zhen pa’i phyir dngos po’i chos yin no zhes tha snyad du byas pa yin pa yin no.*)
+> When conceptual thought (*rnam par rtog pa* = *vikalpa*) arises in dependence upon tendencies (*bag chags* = *vāsanā*) that were instilled due to one’s having seen [particular] forms and so forth, it determines (*zhen pa* = *adhyavasāya*) apprehended images (*rnam pa* = *ākāra*) of its own as being the images of form and so forth and thus practically applies [to forms, etc.] In this way, [thought of form, etc., i.e., thought of the universal] arises [indirectly] due to the influence of seeing [particular] forms and so forth, and determines [its own images] to be those [i.e., real features of form], and therefore [for the combination of these two reasons] one does call [the apoha quasi-universal] a property of the [real] entity.
+> (*gzugs la sogs pa mthong bas bsgos pa’i bag chags la brten nas rnam par rtog pa skye ba na / rang nyid kyi gzung ba’i rnam pa la gzugs la sogs pa’i rnam pa nyid du zhen pas ‘jug pa de ltar na gzugs la sogs pa mthong ba’i stobs kyis skye ba’i phyir dang / der zhen pa’i phyir dngos po’i chos yin no zhes tha snyad du byas pa yin pa yin no.*)
 
 The two passages are discussed in Tillemans (2011).
 
@@ -398,7 +409,7 @@ The two passages are discussed in Tillemans (2011).
 
 [^eltschinger-2019]: –––, 2019, “Dharmakīrti,” in Jonathan Silk, Richard Bowring, Vincent Eltschinger, Michael Radich (eds.), *Brill’s Encyclopedia of Buddhism* (Volume 2: “*Lives*”), Leiden/Boston: Brill, pp. 179–185.
 
-[^eltschinger-2024]: –––, 2024, “Quelle théologie pour le bouddhisme indien?” in Olivier Boulnois, Sylvio De Franceschi, Philippe Hoffmann (eds.),*Connaître Dieu. Métamorphoses de la théologie comme science dans les religions monothéistes*, Bibliothèque de l’École des Hautes Études, Sciences Religieuses (Volume 205), Turnhout: Brepols, pp. 675–695.
+[^eltschinger-2024]: –––, 2024, “Quelle théologie pour le bouddhisme indien?” in Olivier Boulnois, Sylvio De Franceschi, Philippe Hoffmann (eds.), *Connaître Dieu. Métamorphoses de la théologie comme science dans les religions monothéistes*, Bibliothèque de l’École des Hautes Études, Sciences Religieuses (Volume 205), Turnhout: Brepols, pp. 675–695.
 
 [^eltschinger-2012]: Eltschinger, Vincent, Helmut Krasser, John Taber, 2012, *Can the Veda Speak? Dharmakīrti against Mīmāṃsā Exegetics and Vedic Authority, An Annotated Translation of PVSV 164,24–176,16*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
 
@@ -486,7 +497,7 @@ The two passages are discussed in Tillemans (2011).
 
 [^kellner-2017]: –––, 2017, “Proving Idealism: Dharmakīrti,” in Jonardon Ganeri (ed.), *The Oxford Handbook of Indian Philosophy*, New York: Oxford University Press, pp. 307–326.
 
-[^kellner-2020]: Kellner, Birgit, Patrick McAllister, Horst Lasic, Sara McClintock (eds.), 2020, *Reverberations of Dharmakīrti’s Philosophy.*Proceedings of the Fifth International Dharmakīrti Conference, Heidelberg August 26 to 30, 2014 (Beiträge zur Kultur- und Geistesgeschichte Asiens, 104), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+[^kellner-2020]: Kellner, Birgit, Patrick McAllister, Horst Lasic, Sara McClintock (eds.), 2020, *Reverberations of Dharmakīrti’s Philosophy.* Proceedings of the Fifth International Dharmakīrti Conference, Heidelberg August 26 to 30, 2014 (Beiträge zur Kultur- und Geistesgeschichte Asiens, 104), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
 
 [^krasser-2001]: Krasser, Helmut, 2001, “On Dharmakīrti’s Understanding of *pramāṇabhūta* and His Definition of *pramāṇa*,” *Wiener Zeitschrift für die Kunde Südasiens*, 45: 173–199.
 

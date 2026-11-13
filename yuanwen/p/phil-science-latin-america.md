@@ -1224,7 +1224,7 @@ epistemology: in Latin America | feminist philosophy, approaches: Latin American
 
 [^krause-2022]: –––, 2022, “Quantifying Over Indiscernibles”, *Axiomathes*, 32(3): 931–946. doi:10.1007/s10516-022-09646-y
 
-[^krause-2023]: –––, 2023, “On Identity, Indiscernibility and (Non-)Individuality in the Quantum Domain”,*Philosophical Transactions of the Royal Society A*, 381(2255): #20220096. doi:10.1098/rsta.2022.0096
+[^krause-2023]: –––, 2023, “On Identity, Indiscernibility and (Non-)Individuality in the Quantum Domain”, *Philosophical Transactions of the Royal Society A*, 381(2255): #20220096. doi:10.1098/rsta.2022.0096
 
 [^krause-2012]: Krause, Décio and Jonas R. Becker Arenhart, 2012, “A Discussion on Quantum Non-Individuality”, *Journal of Applied Non-Classical Logics*, 22(1–2): 105–124. doi:10.1080/11663081.2012.682447
 

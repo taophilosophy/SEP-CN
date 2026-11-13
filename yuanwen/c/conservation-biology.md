@@ -313,7 +313,8 @@ $$\begin{aligned} \Pr(\text{Rejecting } H_0 \mid H_0 \text{ is true}) &= \alpha\
 
 Here is an example. The northern spotted owl was originally threatened by logging of old-growth temperate rainforest which is its preferred habitat (Noon and McKelvey 1996, Noon and Blakesley 2006)[^noon-2006][^noon-1996]. However, the most worrisome threat now is the barred owl, which is an invasive species that is outcompeting it (Wiens 2021)[^wiens-2021]. The United State Fish and Wildlife Service has implemented a strategy permitting the killing of 470, 900 barred owls over the next thirty years to try and save the northern spotted owl (U.S. Fish and Wildlife Service 2024). Thus, we have two hypotheses.
 
-> $H_0$: Removing barred owls will not reduce northern spotted owl populations $H_1$: Removing barred owls will reduce northern spotted owl populations
+> $H_0$: Removing barred owls will not reduce northern spotted owl populations
+> $H_1$: Removing barred owls will reduce northern spotted owl populations
 
 Thus there are two errors again. We reject $H_0$ and removing barred owls will not reduce northern spotted owl populations. We accept $H_0$ and removing barred owls will reduce northern spotted owl populations. For mathematical reasons, we cannot minimize both Type I and Type II errors, and thus we must minimize $\alpha$ or $\beta$. By custom, scientists attempt to minimize Type I errors; that is,
 
@@ -327,7 +328,8 @@ Whether one finds the argument from inductive risk persuasive, it is clear that 
 
 Some of these contextual values arise from individuals because of their own commitments. E. O. Wilson has written a great deal arguing that we should work against anthropogenic species extinction for example (Wilson 1992)[^wilson-1992]. Group contextual values include codes of ethics. For example, the Society for Conservation Biology has a Code of Ethics (see the Other Internet Resources). It includes obligations like,
 
-> Actively disseminate information to promote understanding of and appreciation for biodiversity and the science of conservation biology. Recognize that uncertainty is inherent in managing ecosystems and species and encourage application of the precautionary principle in management and policy decisions affecting biodiversity.
+> Actively disseminate information to promote understanding of and appreciation for biodiversity and the science of conservation biology.
+> Recognize that uncertainty is inherent in managing ecosystems and species and encourage application of the precautionary principle in management and policy decisions affecting biodiversity.
 
 Though one might argue about specific obligations included in the Code of Ethics, generally we the public agrees that one should act with integrity in one’s research and treat non-human animals with respect. Still, there are more controversial societal values that play a part in conservation biology. Conservation biologist Reed Noss writes,
 

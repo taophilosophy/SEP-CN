@@ -9,7 +9,8 @@ Many prominent systems of non-classical logic are subsystems of what is generall
 
 but usually the underlying intuitions are expressed by requiring that certain schematic formulas are theorems:
 
-> AT: ~(~*A* → *A*) and AT′: ~(*A* → ~*A*).
+> AT: ~(~*A* → *A*) and
+> AT′: ~(*A* → ~*A*).
 
 The first formula is often called *Aristotle’s Thesis*. If this non-theorem of classical logic is found plausible, then the second principle, AT′, would seem to enjoy the same degree of plausibility. Indeed, also AT′ is sometimes referred to as Aristotle’s Thesis, for example in Routley 1978, Mortensen 1984, Routley and Routley 1985, and Ferguson 2016. As McCall (1975, p. 435) explains,
 
@@ -19,7 +20,8 @@ The first formula is often called *Aristotle’s Thesis*. If this non-theorem of
 
 Using intuitionistically acceptable means only, the pair of theses AT and AT′ is equivalent in deductive power with another pair of schemata, which in established terminology are called *(Strong) Boethius’ Theses* (cf. Routley 1978)[^routley-1978] and which may be viewed, in addition with their converses, as capturing Chrysippus’ idea:
 
-> BT: (*A* → *B*) → ~(*A* → ~*B*) and BT′: (*A* → ~*B*) → ~(*A* → *B*).
+> BT: (*A* → *B*) → ~(*A* → ~*B*) and
+> BT′: (*A* → ~*B*) → ~(*A* → *B*).
 
 The names ‘Aristotle’s Theses’ and ‘Boethius’ Theses’ are, of course, not arbitrarily chosen. As to AT, it is argued in Aristotle’s *Prior Analytics* 57b14 that it is impossible that if not-*A*, then *A*, see Łukasiewicz 1957, p. 50. Note, however, that Łukasiewicz and Kneale (1957, p. 66) maintain that Aristotle is making a mistake here. Moreover, Boethius has been said to hold in *De Syllogismo Hypothetico* 843D that ‘if *A* then not-*B*’ is the negation of ‘if *A*, then *B*’, (“he said that the negative of *Si est A, est B* was *Si est A, non est B,*” Kneale and Kneale 1962, p. 191)[^kneale-1962]. If we look at *De Syllogismo Hypothetico* 843C-D, we find:
 
@@ -39,17 +41,20 @@ Further motivation for systems of connexive logic comes from more instrumental s
 
 There are several further and some diverging notions of a connexive logic. In particular, the second decade of the 21st century has (unfortunately) seen the introduction of confusingly many new notions of connexivity and non-uniform terminology. McCall (1966) introduced connexive logics as systems ranging from logics in which no proposition implies or is implied by its own negation to logics in which BT is provable (together with non-symmetry of implication), and, similarly, Mares and Paoli (2019) characterize connexive logics as systems having some or all of AT, AT′, BT, and BT′ among their theorems (without explicitly requiring non-symmetry of implication). In McCall 2012, AT′ and BT are said to be the distinguishing marks of connexive logic, but note that AT and BT′ are valid in the system **CC1** due to Angell (1962) and MacCall (1966) as well. Logics in which some but not all of AT, AT′, BT, and BT′ are provable (or valid) are called ‘demi-connexive’ in Wansing, Omori, and Ferguson 2016 (without explicitly requiring non-symmetry of implication), and are said to be *quasi-connexive* in Jarmużek and Malinowski 2019a. The identification of the negation of (*A* → *B*) with (*A* → ~*B*), ascribed to Boethius by Kneale and Kneale (1962), suggests a strengthening of BT and BT′ to the equivalences:
 
-> BTe: (*A* → *B*) *↔* ~(*A →* ~*B*), and BTe′: (*A* → ~*B*) ↔ ~(*A* → *B*).
+> BTe: (*A* → *B*) *↔* ~(*A →* ~*B*), and
+> BTe′: (*A* → ~*B*) ↔ ~(*A* → *B*).
 
 Sylvan 1989 refers to BTe as a principle of *hyperconnexive* logic. The principles BTe and BTe′ are characteristic of the connexive logics developed subsequent to the definition of the connexive logic **C** and its quantified version **QC** in Wansing 2005. According to McCall (2012), the converse of BT (the right-to-left direction of BTe) is highly unintuitive in light of what he takes to be counterexamples from English. For a rejoinder see Wansing and Skurt 2018.
 
 Kapsner (2012, 2019) refers to a logic that satisfies AT, AT′, BT, and BT′ and, moreover, satisfies the requirements
 
-> Unsat1: In no model, *A* → ~*A* is satisfiable (for any *A*), and in no model, *~A* → *A* is satisfiable (for any *A*), and Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any *A* and *B*)
+> Unsat1: In no model, *A* → ~*A* is satisfiable (for any *A*), and in no model, *~A* → *A* is satisfiable (for any *A*), and
+> Unsat2: In no model, *A* → *B* and *A* → ~*B* are simultaneously satisfiable (for any *A* and *B*)
 
 as *strongly connexive*, whereas if the conditions Unsat1 and Unsat2 are not both satisfied, the system is only called *weakly connexive*. Kapsner motivates the extra conditions by two intuitions, namely that it is not the case that a formula *A* should imply or be implied by its own negation, and that if *A* implies *B*, then *A* does not imply not-*B* (and if *A* implies not-*B*, then *A* does not imply *B*). These intuitions may, however, also be seen to motivate ⊬ ~*A* → *A* and ⊬ *A* → ~ *A*, respectively (*A* →*B*) ⊬ (*A* → ~*B*) and (*A* → ~*B*) ⊬ (*A* → *B*) instead of Unsat1 and Unsat2. Moreover, imposing Unsat1 and Unsat2 precludes systems that satisfy the variable sharing property (i.e., broadly relevant or *sociative* logics in Routley’s (1989) terminology, for which it holds that if *A* → *B* is a theorem, then *A* and *B* share at least one propositional variable) and satisfy the deduction theorem from being connexive. So far only few strongly connexive logics satisfying the non-symmetry of implication condition are known, namely the system **CC1**, which, however, “is an awkward system in many ways” (McCall 2012, p. 429)[^mccall-2012], see section 4.1, and the Boolean connexive relatedness logics from Jarmużek and Malinowski 2019a, see section 4.4. In Wansing and Unterhuber 2019, logics that validate Boethius’ theses only in rule form ((*A* → *B*) ⊢ ~(*A* → ~*B*) and (*A* → ~*B*) ⊢ ~(*A* → *B*)) are called *weakly connexive*. Weiss (2019) considers a language with classical negation, ¬, classical implication, ⊃, and another binary conditional, →, (notation adjusted). He calls a logic *half-connexive* if it validates the Weak Boethius’ Theses:
 
-> BTw: (*A* → *B*) ⊃ ¬(*A* → ¬*B*), and BTw′: (*A* → ¬*B*) ⊃ ¬(*A* → *B*),
+> BTw: (*A* → *B*) ⊃ ¬(*A* → ¬*B*), and
+> BTw′: (*A* → ¬*B*) ⊃ ¬(*A* → *B*),
 
 and refers to a logic as connexive if in addition it validates AT and AT′ for → and ¬. The Weak Boethius’ Thesis BTw was introduced in Pizzi 1977 as “conditional Boethius’ thesis” for the connexive implication seen as standing for a counterfactual conditional.
 
@@ -63,11 +68,12 @@ McCall (2012) emphasizes that there is a history of two thousand three hundred y
 
 One question arising from a historical point of view is that of exegetical correctness. Can Aristotle’s and Boethius’ theses indeed be traced back to Aristotle and Boethius? Lenzen (2020) believes that Aristotle and Boethius intended the theses named after them as “applicable only to ‘normal’ conditionals with antecedents which are not self-contradictory.” He states correspondingly restricted versions of Aristotle’s theses in the language of modal propositional logic, principles which according to Lenzen (2019) can be found in Leibniz’s writings (after a transformation from Leibniz’s term logic into a system of propositional logic) and where, notation adjusted, ↠ stands for strict implication:
 
-> LEIB1 ◊*A* ↠ ~(*A* ↠ ~*A*), and LEIB2 ◊~*A* ↠ ~(~*A* ↠ *A*),
+> LEIB1 ◊*A* ↠ ~(*A* ↠ ~*A*), and
+> LEIB2 ◊~*A* ↠ ~(~*A* ↠ *A*),
 
 cf. also the modalized versions of AT′ and BT in Unterhuber 2016. Lenzen remarks that LEIB1 and LEIB2 are theorems of almost all systems of normal modal logic and therefore do not lead to any non-classical system of connexive logic. A similar observation is made in Kapsner 2019. As to Boethius, the question has been raised whether it is adequate to render his term logic as a propositional logic (see Martin 1991, McCall 2012)[^martin-1991][^mccall-2012], and Bonevac and Dever (2012, p. 192) refer to Abelard’s First Principle as the most famous thesis attributed to Boethius but note that they fail to find it in Boethius. Irrespective of these exegetical issues, however, the challenge of connexive logic remains, namely to define nontrivial and well-motivated logical systems that validate both Aristotle’s and Boethius’ theses and satisfy non-symmetry of implication. Another question arising from the long history of connexive logic is in which sense the system nowadays called *classical logic* is indeed classical. A critical discussion of the classicality of classical logic from the point of view of paraconsistent and connexive logic can found in Wansing and Odintsov 2016.
 
-A monograph developing a system of connexive logic in the context of solving a broad range of paradoxes is Angell 2002. The first monograph devoted to connexive logic sice its revival in the first two decades of the 21st century, though not a comprehensive study of connexive logic, is Francez 2021. Starting from the connexive logics **C** and**QC**, Francez discuses topics such as the already mentioned idea of ``polyconnexivity'', certain variations of Boethius’ theses (cf. section 3.6), and a connexive theory of classes.
+A monograph developing a system of connexive logic in the context of solving a broad range of paradoxes is Angell 2002. The first monograph devoted to connexive logic sice its revival in the first two decades of the 21st century, though not a comprehensive study of connexive logic, is Francez 2021. Starting from the connexive logics **C** and **QC**, Francez discuses topics such as the already mentioned idea of ``polyconnexivity'', certain variations of Boethius’ theses (cf. section 3.6), and a connexive theory of classes.
 
 ### 3. Perspectives on connexive logic
 
@@ -113,7 +119,8 @@ Note that if a logic implements the cancellation view of negation, it will also 
 
 Accordingly then, for Routley (Routley *et al*. 1982, p. 82)[^routley-1982] connexivism has two leading theses, namely:
 
-> 1. Simplification (*A* ∧ *B* → *A*, *A* ∧ *B* → *B*) fails to hold, and its use ... is what is responsible for the paradoxes of implication ... 2. Every statement is self-consistent, symbolically *A* ◇ *A*, where the relation of consistency with, symbolised ◇, is interconnected with implication in the standard fashion: *A* ◇ *B* ↔. ~(*A* → ~*B*).
+> 1. Simplification (*A* ∧ *B* → *A*, *A* ∧ *B* → *B*) fails to hold, and its use ... is what is responsible for the paradoxes of implication ...
+> 2. Every statement is self-consistent, symbolically *A* ◇ *A*, where the relation of consistency with, symbolised ◇, is interconnected with implication in the standard fashion: *A* ◇ *B* ↔. ~(*A* → ~*B*).
 
 The cancellation view of negation has been heavily criticized in Wansing and Skurt 2018, where it is stressed that connexive logic can be detached from the notion of negation as erasure and the failure of Conjunctive Simplification.
 
@@ -159,7 +166,8 @@ Providing a sound and complete semantics for **NL** is an open problem in connex
 
 In proof-theoretic semantics, proof systems of a suitable form are seen as providing a meaning theory, see the entry proof-theoretic semantics. In that spirit, Francez (2016) presents two natural deduction proof systems for a propositional language with negation and implication, one in which AT, AT′, BT, and BT′ are provable, and another one in which AT, AT′, and the following variations of Boethius’ theses are provable:
 
-> B3: (*A* → *B*) → ~(~*A* → *B*) and B4: (*~A*→ *B*) → ~(*A* → *B*).
+> B3: (*A* → *B*) → ~(~*A* → *B*) and
+> B4: (*~A*→ *B*) → ~(*A* → *B*).
 
 Francez motivates these principles by certain natural language discourses and a “dual Ramsey Test” that modifies the Ramsey test by assuming that in the course of arguing “If *p* will *q*?,” ~*p* is hypothetically added to a stock of knowledge. Francez’ natural deduction rules are straightforwardly obtained by modifying the natural deduction rules for the negation and implications fragment of David Nelsons’s four-valued constructive logic **N4**, cf. Kamide and Wansing 2012, in the manner that leads from **N4** to the constructive connexive logic **C** from Wansing 2005, cf. section 4.5.1. In Francez 2019 the natural deduction system that gives AT, AT′, BT, and BT′ is relevantized as in the familiar natural deduction proof system for the implication fragment of the relevant logic **R** by introducing subscripts for book-keeping in order to avoid empty, irrelevant implication introductions. Omori (2016b) adds conjunction and disjunction to the language of Francez 2016, gives an axiomatization and a characterizing semantics for the natural deduction system that allows to prove B3 and B4, and observes that although AT and AT′ are valid, BT, and BT′ are invalid, which prompts him to call the provable equivalence ~(*A* → *B*) ↔ (~*A* → *B*) “half-connexive”.
 
@@ -235,7 +243,11 @@ McCall (2014) presents a cut-free sequent calculus for a system of connexive log
 
 In the late 1970s and the 1980s, connexive logic was subjected to semantical investigations based on ternary frames for relevance logics, making use of the Routley star negation that is distinctive of logics “on the Australian Plan,” cf. Meyer and Martin 1986. Routley (1978) obtained a semantic characterization of Aristotle’s Thesis AT′ and Boethius’ Thesis BT using a ‘generation relation’ *G* between a formula *A* and a possible world *s*. The semantics employs model structures F = <*T*, *K*, *R*, *S*, *U*, *G*, *>, where *K* is a non-empty set of possible worlds, *T* ∈ *K* is a distinguished world (the ‘real world’), *R*, *S*, and *U* are ternary relations on *K*, *G* is a generation relation, and * is a function on *K* mapping every world *s* to its ‘opposite’ or ‘reverse’ *s**. A valuation is a function *v* that sends pairs of worlds and propositional variables into {0,1}, satisfying the following heredity condition: if *R*(*T*, *s*, *u*) and *v*(*p*, *s*) = 1, then *v*(*p*, *u*) = 1. Intuitively, *G*(*A*, *t*) is supposed to mean that everything that holds in world *t* is implied by *A*. A model is a structure M = <F, *v*>. The relation M, *t* ⊨ *A* (“*A* is true at *t* in M”) is inductively defined as follows:
 
-> M, *t* ⊨ *p* iff *v*(*p*, *t*) = 1 M, *t* ⊨ ~*A* iff M, *t** ⊭ *A* M, *t* ⊨ (*A* ∧ *B*) iff there are *s*, *u* with *Stsu* M, *s* ⊨ *A* and M, *u* ⊨ *B* M, *t* ⊨ (*A* ∨ *B*) iff there are *s*, *u* with *Utsu* M, *s* ⊨ *A* or M, *u* ⊨ *B* M, *t* ⊨ (*A* → *B*) iff for all *s*, *u* if *Rtsu* and M, *s* ⊨ *A*, then M, *u* ⊨ *B*
+> M, *t* ⊨ *p* iff *v*(*p*, *t*) = 1
+> M, *t* ⊨ ~*A* iff M, *t** ⊭ *A*
+> M, *t* ⊨ (*A* ∧ *B*) iff there are *s*, *u* with *Stsu* M, *s* ⊨ *A* and M, *u* ⊨ *B*
+> M, *t* ⊨ (*A* ∨ *B*) iff there are *s*, *u* with *Utsu* M, *s* ⊨ *A* or M, *u* ⊨ *B*
+> M, *t* ⊨ (*A* → *B*) iff for all *s*, *u* if *Rtsu* and M, *s* ⊨ *A*, then M, *u* ⊨ *B*
 
 [Note: whenever there is little chance for ambiguity, we replace *R*(*x*, *y*, *z*) by *Rxyz*.]
 
@@ -255,17 +267,20 @@ Note that these clauses still are not purely structural conditions but condition
 
 Albeit according to Routley (1978), Routley *et al*. (1982) and Routley and Routley (1985) there is a close relation between connexive logic and the idea of negation as cancellation, Routley suggested a semantics using a generation relation and the star negation in ternary frames for relevance logics, whereas connexive logics based in a straightforward way on the cancellation view of negation have been worked out by Priest (1999). Priest (1999) directly translates a definition of entailment that enforces the null-content account of contradictions into evaluation clauses. A model is a structure M = <*W*, *g*, *v*>, where *W* is a non-empty set of possible worlds, *g* is a distinguished element from *W*, and *v* is a valuation function from the set of propositional variables into the set of classical truth values {1, 0}. Two clauses for evaluating implications at possible worlds are considered (notation adjusted):
 
-> (a) M, *s* ⊨ *A* → *B* iff (i) there is a world *u* with M, *u* ⊨ *A* and (ii) for every world *u*, M, *u* ⊨ *A* then M, *u* ⊨ *B*; (b) M, *s* ⊨ *A* → *B* iff (i) there is a world *u* with M, *u* ⊨ *A*, (ii) there is a world *u* with M, *u* ⊭ *B*, and (iii) for every world *u*, M, *u* ⊨ *A* then M, *u* ⊨ *B*.
+> (a) M, *s* ⊨ *A* → *B* iff (i) there is a world *u* with M, *u* ⊨ *A* and (ii) for every world *u*, M, *u* ⊨ *A* then M, *u* ⊨ *B*;
+> (b) M, *s* ⊨ *A* → *B* iff (i) there is a world *u* with M, *u* ⊨ *A*, (ii) there is a world *u* with M, *u* ⊭ *B*, and (iii) for every world *u*, M, *u* ⊨ *A* then M, *u* ⊨ *B*.
 
 Condition (i) ensures that nothing is implied by an unsatisfiable antecedent. The evaluation clauses for the other connectives are classical. A formula *A* is true in a model (M ⊨ *A*) iff M, *g* ⊨ *A*; and *A* is valid iff *A* is true in every model. Condition (ii) ensures that the law of contraposition is valid. A set Δ of formulas is true in a model iff every element of Δ is true in the model.
 
 There are two notions of entailment (Δ ⊨ *A*), one coming with clause (a) the other with clause (b):
 
-> (a) Δ⊨ *A* iff Δ is true in some model, and every model in which Δ is true is a model in which *A* is true; (b) Δ⊨ *A* iff Δ is true in some model, ~*A* is true in some model, and every model in which Δ is true is a model in which *A* is true.
+> (a) Δ⊨ *A* iff Δ is true in some model, and every model in which Δ is true is a model in which *A* is true;
+> (b) Δ⊨ *A* iff Δ is true in some model, ~*A* is true in some model, and every model in which Δ is true is a model in which *A* is true.
 
 These two connexive logics arise from the idea of negation as cancellation in a straightforward way. They are neither monotonic nor closed under uniform substitution. Proof systems and decision procedures for them can be obtained from a straightforward faithful translation τ into the modal logic **S5**, cf. the entry logic: modal. For implications *A* → *B* the translation is defined as follows, where ⊃ is material implication and ¬ is classical negation:
 
-> (a) ◊τ(*A*) ∧ □(τ(*A*) ⊃ τ(*B*)); (b) ◊τ(*A*) ∧ ◊¬τ(*B*) ∧ □(τ(*A*) ⊃ τ(*B*)).
+> (a) ◊τ(*A*) ∧ □(τ(*A*) ⊃ τ(*B*));
+> (b) ◊τ(*A*) ∧ ◊¬τ(*B*) ∧ □(τ(*A*) ⊃ τ(*B*)).
 
 Ferguson (2015) observes that the intersection of the semantical consequence relations of variant (a) of Priest’s logic and the negation, conjunction, disjunction fragment of Bochvar’s 3-valued logic (cf. the entry many-valued logic) results in a known system of containment logic, namely the system **RC** presented in Johnson 1976.
 
@@ -281,11 +296,16 @@ and a notion of validity with respect to a relation *R* is defined: *R* ⊨ *A* 
 
 In order to obtain connexive logics, Jarmużek and Malinowski introduce the following conditions on binary relations *R*:
 
-> (a1) *R* is (a1) iff for any *A*: not *R*(*A*, ~*A*) (a2) *R* is (a2) iff for any *A*: not *R*(~*A*, *A*) (b1) *R* is (b1) iff for arbitrary *A*, *B*: (i) if *R*(*A*, *B*) then not *R*(*A*, ~*B*) and (ii) R((*A* →ʷ *B*), ~(*A* →ʷ ~*B*)) (b2) *R* is (b2) iff for arbitrary *A*, *B*: (i) if *R*(*A*, *B*) then not *R*(*A*, ~*B*) and (ii) R((*A* →ʷ ~*B*), ~(*A* →ʷ *B*)).
+> (a1) *R* is (a1) iff for any *A*: not *R*(*A*, ~*A*)
+> (a2) *R* is (a2) iff for any *A*: not *R*(~*A*, *A*)
+> (b1) *R* is (b1) iff for arbitrary *A*, *B*: (i) if *R*(*A*, *B*) then not *R*(*A*, ~*B*) and (ii) R((*A* →ʷ *B*), ~(*A* →ʷ ~*B*)) (b2) *R* is (b2) iff for arbitrary *A*, *B*: (i) if *R*(*A*, *B*) then not *R*(*A*, ~*B*) and (ii) R((*A* →ʷ ~*B*), ~(*A* →ʷ *B*)).
 
 These conditions suffice to validate Aristotle’s and Boethius theses. A correspondence between Aristotle’s and Boethius theses and conditions on *R* is obtained if the relations *R* are required to be closed under negation, i.e., for all formulas *A* and *B*, *R*(*A*, *B*) implies *R*(~*A*, ~*B*). Then,
 
-> (a1) *R* is (a1) iff *R* ⊨ ~(*A* →ʷ ~*A*) (a2) *R* is (a2) iff *R* ⊨ ~(~*A* →ʷ *A*) (b1) *R* is (b1) iff *R* ⊨ (*A* →ʷ *B*) →ʷ ~(*A* →ʷ ~*B*) (b2) *R* is (b2) iff *R* ⊨ (*A* →ʷ ~*B*) →ʷ ~(*A* →ʷ *B*).
+> (a1) *R* is (a1) iff *R* ⊨ ~(*A* →ʷ ~*A*)
+> (a2) *R* is (a2) iff *R* ⊨ ~(~*A* →ʷ *A*)
+> (b1) *R* is (b1) iff *R* ⊨ (*A* →ʷ *B*) →ʷ ~(*A* →ʷ ~*B*)
+> (b2) *R* is (b2) iff *R* ⊨ (*A* →ʷ ~*B*) →ʷ ~(*A* →ʷ *B*).
 
 However, these correspondences come at a price. Jarmużek and Malinowski point out that imposing negation closure validates the otherwise refutable formula ~((*A* →ʷ *B*) ∧ ~*B* ∧ ~(~*A* →ʷ ~*B*)) with respect to any relation *R*. Jarmużek and Malinowski also show that these five conditions are independent of each other and therefore give rise to 2⁵ different logics. The two connexive ones (alias properly connexive ones in Jarmużek and Malinowski’s terminology), i.e., the logic defined by means of conditions (a1), (a2), (a3), and (4) and the logic defined by in addition requiring negation closure, are also Kapsner strong. Moreover, Jarmużek and Malinowski present sound and complete tableau calculi for these 2⁵ logics.
 
@@ -293,7 +313,10 @@ However, these correspondences come at a price. Jarmużek and Malinowski point o
 
 The basic paraconsistent logic **FDE** of first-degree entailment lacks a primitive implication connective and lends itself to adding an implication connective that validates Aristotle’s and Boethius’ theses by using the falsity conditions of implications as expressed by BTe′. This is possible because negation is treated according to “the American Plan,” i.e., by making use of four semantical values: **T** (“told true only”), **F** (“told false only”), **N** (“neither told true nor told false”), and **B** (“both told true and told false”), so that support of truth and support of falsity emerge as two independent semantical dimensions:
 
-> *A* receives the value **T** at state *t* iff *t* supports the truth of *A* but not the falsity of *A*; *A* receives the value **F** at *t* iff *t* supports the falsity of *A* but not the truth of *A*; *A* receives the value **N** at *t* iff *t* neither supports the truth of *A* nor supports the falsity of *A*; *A* receives the value **B** at *t* iff *t* supports both the truth and the falsity of *A*.
+> *A* receives the value **T** at state *t* iff *t* supports the truth of *A* but not the falsity of *A*;
+> *A* receives the value **F** at *t* iff *t* supports the falsity of *A* but not the truth of *A*;
+> *A* receives the value **N** at *t* iff *t* neither supports the truth of *A* nor supports the falsity of *A*;
+> *A* receives the value **B** at *t* iff *t* supports both the truth and the falsity of *A*.
 
 Negation is then understood as leading from support of truth to support of falsity, and vice versa. The method of tweaking the (support of) falsity conditions can be applied to a number of different conditionals, ranging from constructive, relevant, and material (Boolean) implication to very weak implications studied in conditional logic with the help of so-called *Segerberg frames*.
 
@@ -316,7 +339,16 @@ Consider the language *L* := {∧, ∨, →, ~} based on a denumerable set of pr
 
 Clearly, a5 is the only contra-classical axiom of **C**. The consequence relation ⊢_{**C**} (derivability in **C**) is defined as usual. A **C**-frame is a pair F = <*W*, ≤ >, where ≤ is a reflexive and transitive binary relation on the non-empty set *W*. Let <*W*, ≤ >⁺ be the set of all *X* ⊆ *W* such that if *u* ∈ *X* and *u* ≤ *w*, then *w* ∈ *X*. A **C**-model is a structure M = <*W*, ≤, *v*⁺, *v*^{−} >, where <*W*, ≤ > is a **C**-frame and *v*⁺ and *v*^{−} are valuation functions from the set of propositional variables into <*W*, ≤ >⁺. Intuitively, *W* is a set of information states. The function *v*⁺ sends a propositional variable *p* to the states in *W* that support the truth of *p*, whereas *v*^{−} sends *p* to the states that support the falsity of *p*. M = <*W*, ≤, *v*⁺, *v*^{−} > is said to be the model based on the frame <*W*, ≤ >. The relations M, *t* ⊨⁺ *A* (“M supports the truth of *A* at *t*”) and M, *t* ⊨^{−} *A* (“M supports the falsity of *A* at *t*”) are inductively defined as follows:
 
-> M, *t* ⊨⁺ *p* iff *t* ∈ *v*⁺(*p*) M, *t* ⊨^{−} *p* iff *t* ∈ *v*^{−}(*p*) M, *t* ⊨⁺ (*A* ∧ *B*) iff M, *t* ⊨⁺ *A* and M, *t* ⊨⁺ *B* M, *t* ⊨^{−} (*A* ∧ *B*) iff M, *t* ⊨^{−} *A* or M, *t* ⊨^{−} *B* M, *t* ⊨⁺ (*A* ∨ *B*) iff M, *t* ⊨⁺*A* or M, *t* ⊨⁺ *B* M, *t* ⊨^{−} (*A* ∨ *B*) iff M, *t* ⊨^{−} *A* and M, *t* ⊨^{−} *B* M, *t* ⊨⁺ (*A* → *B*) iff for all *u* ≥ *t* (M, *u* ⊨⁺ *A* implies M, *u* ⊨⁺ *B*) M, *t* ⊨^{−} (*A* → *B*) iff for all *u* ≥ *t* (M, *u* ⊨⁺ *A* implies M, *u* ⊨^{−} *B*) M, *t* ⊨⁺ ~*A* iff M, *t* ⊨^{−} *A* M, *t* ⊨^{−} ~*A* iff M, *t* ⊨⁺ *A*
+> M, *t* ⊨⁺ *p* iff *t* ∈ *v*⁺(*p*)
+> M, *t* ⊨^{−} *p* iff *t* ∈ *v*^{−}(*p*)
+> M, *t* ⊨⁺ (*A* ∧ *B*) iff M, *t* ⊨⁺ *A* and M, *t* ⊨⁺ *B*
+> M, *t* ⊨^{−} (*A* ∧ *B*) iff M, *t* ⊨^{−} *A* or M, *t* ⊨^{−} *B*
+> M, *t* ⊨⁺ (*A* ∨ *B*) iff M, *t* ⊨⁺*A* or M, *t* ⊨⁺ *B*
+> M, *t* ⊨^{−} (*A* ∨ *B*) iff M, *t* ⊨^{−} *A* and M, *t* ⊨^{−} *B*
+> M, *t* ⊨⁺ (*A* → *B*) iff for all *u* ≥ *t* (M, *u* ⊨⁺ *A* implies M, *u* ⊨⁺ *B*)
+> M, *t* ⊨^{−} (*A* → *B*) iff for all *u* ≥ *t* (M, *u* ⊨⁺ *A* implies M, *u* ⊨^{−} *B*)
+> M, *t* ⊨⁺ ~*A* iff M, *t* ⊨^{−} *A*
+> M, *t* ⊨^{−} ~*A* iff M, *t* ⊨⁺ *A*
 
 If M = <*W*, ≤, *v*⁺, *v*^{−} > is a **C**-model, then M ⊨ *A* (“*A* is valid in M”) iff for every *t* ∈ *W*, M, *t* ⊨⁺ *A*. F ⊨ *A* (“*A* is valid on F”) iff M ⊨ *A* for every model M based on F. A formula is **C**-valid iff it is valid on every frame. Support of truth and support of falsity for arbitrary formulas are persistent with respect to the relation ≤ of possible expansion of information states. That is, for any **C**-model M = <*W*, ≤, *v*⁺, *v*^{−} > and formula *A*, if *s* ≤ *t*, then M, *s* ⊨⁺ *A* implies M, *t* ⊨⁺ *A* and M, *s* ⊨^{−} *A* implies M, *t* ⊨^{−} *A*. It can easily be shown that a negation normal form theorem holds. The logic **C** is characterized by the class of all **C**-frames: for any *L*-formula *A*, ⊢_{**C**} *A* iff *A* is **C**-valid. Moreover, **C** satisfies the disjunction property and the constructible falsity property. If ⊢_{**C**} *A* ∨ *B*, then ⊢_{**C**} *A* or ⊢_{**C**} *B*. If ⊢_{**C**} ~(*A* ∧ *B*), then ⊢_{**C**} ~ *A* or ⊢_{**C**} ~*B*. Decidability of **C** follows from a faithful embedding into positive intuitionistic propositional logic.
 
@@ -346,7 +378,14 @@ The systems **C** and **QC** are connexive but not Kapsner strong. This is hardl
 
 The starting point for Hitoshi Omori’s (2016a) definition of a connexive extension of the basic relevance logic **BD** (see the entry logic: relevance) is to find a proof theory for extensions of **BD** with negation treated according to the American Plan. Priest and Sylvan (1992) posed this as an open problem, and Omori gives a partial solution by defining a connexive variant **BDW** of **BD**. The semantics uses models based on ternary frames. There is a base state *g*, the four truth values are represented as subsets of the set of classical truth values {0,1}, and interpretations are defined in the style of Dunn (cf. Omori and Wansing 2017)[^omori-2017][^wansing-2017]. A model is quadruple <*g*, *W*, *R*, *I*>, where *W* is a non-empty set (of states), *g*∈*W*, *R* is a three-place relation on *W* with *Rgxy* iff *x* = *y*, and *I* is a function that maps pairs consisting of a state and a propositional variable to subsets of {0,1}. The interpretation function *I* is then extended to an assignment of truth values at states for all formulas as follows:
 
-> 1 ∈ *I*(*w*, ~*A*) iff 0 ∈ *I*(*w*, *A*) 0 ∈ *I*(*w*, ~*A*) iff 1 ∈ *I*(*w*, *A*) 1 ∈ *I*(*w*, *A* ∧ *B*) iff [1 ∈ *I*(*w*, *A*) and 1 ∈ *I*(*w*, *B*)] 0 ∈ *I*(*w*, *A* ∧ *B*) iff [0 ∈ *I*(*w*, *A*) or 0 ∈ *I*(*w*, *B*)] 1 ∈ *I*(*w*, *A* ∨ *B*) iff [1 ∈ *I*(*w*, *A*) or 1 ∈ *I*(*w*, *B*)] 0 ∈ *I*(*w*, *A* ∨ *B*) iff [0 ∈ *I*(*w*, *A*) and 0 ∈ *I*(*w*, *B*)] 1 ∈ *I*(*w*, *A* → *B*) iff for all *x*, *y* ∈ *W*: if *Rwxy* and 1 ∈ *I*(*x*, *A*), then 1 ∈ *I*(*y*, *B*) 0 ∈ *I*(*w*, *A* → *B*) iff for all *x*, *y* ∈ *W*: if *Rwxy* and 1 ∈ *I*(*x*, *A*), then 0 ∈ *I*(*y*, *B*)
+> 1 ∈ *I*(*w*, ~*A*) iff 0 ∈ *I*(*w*, *A*)
+> 0 ∈ *I*(*w*, ~*A*) iff 1 ∈ *I*(*w*, *A*)
+> 1 ∈ *I*(*w*, *A* ∧ *B*) iff [1 ∈ *I*(*w*, *A*) and 1 ∈ *I*(*w*, *B*)]
+> 0 ∈ *I*(*w*, *A* ∧ *B*) iff [0 ∈ *I*(*w*, *A*) or 0 ∈ *I*(*w*, *B*)]
+> 1 ∈ *I*(*w*, *A* ∨ *B*) iff [1 ∈ *I*(*w*, *A*) or 1 ∈ *I*(*w*, *B*)]
+> 0 ∈ *I*(*w*, *A* ∨ *B*) iff [0 ∈ *I*(*w*, *A*) and 0 ∈ *I*(*w*, *B*)]
+> 1 ∈ *I*(*w*, *A* → *B*) iff for all *x*, *y* ∈ *W*: if *Rwxy* and 1 ∈ *I*(*x*, *A*), then 1 ∈ *I*(*y*, *B*)
+> 0 ∈ *I*(*w*, *A* → *B*) iff for all *x*, *y* ∈ *W*: if *Rwxy* and 1 ∈ *I*(*x*, *A*), then 0 ∈ *I*(*y*, *B*)
 
 An axiomatization of **BDW** is obtained from the axiom system for **BD** by adding BTe′. Like the constructive connexive logic **C**, the connexive relevance logic **BDW** is negation inconsistent but non-trivial.
 
@@ -354,7 +393,16 @@ An axiomatization of **BDW** is obtained from the axiom system for **BD** by add
 
 Adding *ex contradictione quodlibet* to system **C** has a trivializing effect, and adding the Law of Excluded Middle to **C** does not result in a logic that has positive classical propositional logic as a fragment. However, if implications *A* → *B* are understood as material, Boolean implications, then a separate treatment of falsity conditions again allows introducing a system of connexive logic. The resulting system **MC** may be called a system of material connexive logic. The semantics is quite obvious: a model M is just a function from the set of all literals, i.e., propositional variables or negated propositional variables, into the set of classical truth values {1, 0}. Truth of a formula *A* in a model M (M ⊨ *A*) is inductively defined as follows:
 
-> M ⊨ *p* iff *v*(*p*) = 1 M ⊨ (*A* ∧ *B*) iff M ⊨ *A* and M ⊨ *B* M ⊨ (*A* ∨ *B*) iff M ⊨ *A* or M ⊨ *B* M ⊨ (*A* → *B*) iff M ⊭ *A* or M ⊨ *B* M ⊨ ~*p* iff *v*(~*p*) = 1 M ⊨ ~~*A* iff M ⊨ *A* M ⊨ ~(*A* ∧ *B*) iff M ⊨ ~*A* or M ⊨ ~*B* M ⊨ ~(*A* ∨ *B*) iff M ⊨ ~*A* and M ⊨ ~*B* M ⊨ ~(*A* → *B*) iff M ⊭ *A* or M ⊨ ~*B*
+> M ⊨ *p* iff *v*(*p*) = 1
+> M ⊨ (*A* ∧ *B*) iff M ⊨ *A* and M ⊨ *B*
+> M ⊨ (*A* ∨ *B*) iff M ⊨ *A* or M ⊨ *B*
+> M ⊨ (*A* → *B*) iff M ⊭ *A* or M ⊨ *B*
+>
+> M ⊨ ~*p* iff *v*(~*p*) = 1
+> M ⊨ ~~*A* iff M ⊨ *A*
+> M ⊨ ~(*A* ∧ *B*) iff M ⊨ ~*A* or M ⊨ ~*B*
+> M ⊨ ~(*A* ∨ *B*) iff M ⊨ ~*A* and M ⊨ ~*B*
+> M ⊨ ~(*A* → *B*) iff M ⊭ *A* or M ⊨ ~*B*
 
 A formula is valid iff it is true in all models. (Alternatively, one could use the semantics of **C** and require the set of states of a frame to be a singleton.) The set of all valid formulas is axiomatized by the following set of axiom schemata and rules:
 
@@ -389,7 +437,8 @@ It is quite natural to obtain an **FDE**-based connexive logic by starting form 
 
 A pair <*W*, *R*> is a *Chellas frame* (or just a frame) iff *W* is a non-empty set, intuitively understood as a set of information states, and *R* ⊆ *W* × *W* × ℘(*W*), where ℘( *W*) is the powerset of *W*. Instead of *Rww*′ *X* one usually writes *wR*_{*X*}*w*′. Let *W*, *R* be a frame such that for all *X* ⊆ *W* and *w*, *w*′ ∈ *W*, *wR*_{*X*}*w*′ implies *w*′ ∈ *X*. Then M = <*W*, *R*, *v*⁺, *v*^{−}> is a model for the connexive conditional logic **CCL** iff *v*⁺ and *v*^{−} are valuation functions from the set of propositional variables into ℘( *W*), the support of truth and support of falsity conditions for propositional variables, negated formulas, conjunctions, and disjunctions are defined as in the case of **C**-models and, moreover,
 
-> M, *w* ⊨⁺ (*A* □→ *B*) iff for all *u* ∈ *W* such that *wR*_{[[*A*]]}*u* it holds that M, *u* ⊨⁺ *B* M, *w* ⊨^{−} (*A* □→ *B*) iff for all *u* ∈ *W* such that *wR*_{[[*A*]]}*u* it holds that M, *u* ⊨^{−} *B*,
+> M, *w* ⊨⁺ (*A* □→ *B*) iff for all *u* ∈ *W* such that *wR*_{[[*A*]]}*u* it holds that M, *u* ⊨⁺ *B*
+> M, *w* ⊨^{−} (*A* □→ *B*) iff for all *u* ∈ *W* such that *wR*_{[[*A*]]}*u* it holds that M, *u* ⊨^{−} *B*,
 
 where [[*A*]] is the set of states that support the truth of *A*.
 
@@ -423,7 +472,8 @@ Pizzi and Williamson (1997) show that **CI** can be faithfully embedded into the
 
 As Pizzi and Williamson (1997, p. 571) point out, their investigation is a “contribution to the modal treatment of logics intermediate between logics of consequential implication and connexive logics.” They emphasize a difficulty of regarding consequential implication as a genuine implication connective by showing that in any normal system of consequential logic that admits modus ponens for consequential implication and contains BT, the following formulas are provable:
 
-> (a) (*A* → *B*) ≡ (*B →* *A*), (b) (*A* → *B*) ≡ ¬(*A* → ¬*B*)
+> (a) (*A* → *B*) ≡ (*B →* *A*),
+> (b) (*A* → *B*) ≡ ¬(*A* → ¬*B*)
 
 where ≡ is classical equivalence. Since (*A* → *B*) ↔ ~(*A* → ~*B*) is a theorem of **C** and other connexive logics, the more problematic fact, from the point of view of this system, is the provability of (a). Pizzi and Williamson also show that in any normal system of consequential logic that contains BT, the formula (*A* → *B*) ≡ (*A* ≡ *B*) is provable if (*A* → *B*) ⊃ (*A* ⊃ *B*) is provable, in other words, consequential implication collapses into classical equivalence if (*A* → *B*) ⊃ (*A* ⊃ *B*) is provable. The construction of Aristotelian squares of opposition and their combination to Aristotelian cubes in systems of consequential implication is considered in Pizzi 2008. Two kinds of consequential implication are discussed and compared to each other in Pizzi 2018.
 

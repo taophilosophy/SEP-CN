@@ -51,7 +51,14 @@ Cicero says that Philodemus wrote very pleasant, elegant, clever verse to Piso a
 
 Philodemus’ epigrams are a varied lot. Most are mostly erotic poems, some addressed to a certain ‘Xanthippe’, whose name appears in various forms, and who he says marks the end, as does the *coronis* in a book, of the crazed or manic phase of his life (*AP* 11.41.7 = 4 Sider). The poems mention both Athens and Naples. A couple of them speak of banqueting or eating in moderation, one of which invites Piso to the feast in honor of Epicurus’ birthday, held on the twentieth of each month (*AP* 11.44 = 27 Sider):
 
-> Tomorrow, dearest Piso, your cultured companion drags you To his humble shack at three o’clock To feed you your annual dinner on the Twentieth. If you’ll miss Sow’s udders and Bromius’ Chian wine, Still you’ll see your faithful companions and hear Things far more sweet than the Phaeacians’ land. And if you ever turn your gaze on us too, Piso, We’ll have a richer Twentieth, instead of a humble one.
+> Tomorrow, dearest Piso, your cultured companion drags you
+> To his humble shack at three o’clock
+> To feed you your annual dinner on the Twentieth. If you’ll miss
+> Sow’s udders and Bromius’ Chian wine,
+> Still you’ll see your faithful companions and hear
+> Things far more sweet than the Phaeacians’ land.
+> And if you ever turn your gaze on us too, Piso,
+> We’ll have a richer Twentieth, instead of a humble one.
 
 This invitation to an Epicurean dinner raises the possibility that other epigrams of Philodemus might be viewed with an Epicurean eye, for example, when they portray conversations in which friends point out to the poet the need to avoid excessive grief at his own eventual death (*AP* 9.570 = 3 Sider) or the recent death of his friends (*AP* 9.412 = 29 Sider), though it is hard to think that all of them could or should be so interpreted (cf. Sider 1997: 32–39)[^sider-1997].
 

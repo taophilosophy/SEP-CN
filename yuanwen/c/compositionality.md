@@ -199,7 +199,7 @@ Montague (1970) suggested a perspicuous way to formally capture rule-to-rule com
 
 Compositionality concerns the relationship between the language (the syntactic algebra) and the set of meanings. A meaning-assignment *m* is a function that maps expressions in *E* to *M*, the set of available meanings for the expressions of *E*. On Montague’s implementation, compositionality demands that the meaning assignment *m* is a homomorphism.
 
-Consider a specific syntactic operation *F* which takes *k*expressions, $e_1 ,\ldots ,e_k$, as input and specifies a complex expression, $F(e_1 ,\ldots ,e_k)$. *m* is *a homomorphism* for operation F if and only if there is a *k*-ary partial function *G* on *M* such that whenever $F(e_1 ,\ldots ,e_k)$ is defined,
+Consider a specific syntactic operation *F* which takes *k* expressions, $e_1 ,\ldots ,e_k$, as input and specifies a complex expression, $F(e_1 ,\ldots ,e_k)$. *m* is *a homomorphism* for operation F if and only if there is a *k*-ary partial function *G* on *M* such that whenever $F(e_1 ,\ldots ,e_k)$ is defined,
 
 $$m(F(e_1 ,\ldots ,e_k)) = G(m(e_1),\ldots ,m(e_k)).$$
 

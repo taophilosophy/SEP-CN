@@ -121,7 +121,7 @@ knowledge: analysis of | realism: challenges to metaphysical | Russell, Bertrand
 
 [^bradley-1914]: Bradley, F., 1914, *Essays on Truth and Reality*, Oxford: Clarendon Press.
 
-[^candlish-2021]: Candlish, S. and Pierfrancesco B., 2021, “Francis Herbert Bradley”, *The Stanford Encyclopedia of Philosophy*(Spring 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2024/entries/bradley/>.
+[^candlish-2021]: Candlish, S. and Pierfrancesco B., 2021, “Francis Herbert Bradley”, *The Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2024/entries/bradley/>.
 
 [^davidson-1986]: Davidson, D., 1986, “A Coherence Theory of Truth and Knowledge,” *Truth And Interpretation, Perspectives on the Philosophy of Donald Davidson*, Ernest LePore (ed.), Oxford: Basil Blackwell, 307–19.
 
@@ -129,9 +129,9 @@ knowledge: analysis of | realism: challenges to metaphysical | Russell, Bertrand
 
 [^hempel-1935]: Hempel, C., 1935, “On the Logical Positivists’ Theory of Truth,” *Analysis*, 2: 49–59.
 
-[^iemhoff-2019]: Iemhoff, R., 2019, “Intuitionism in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy*(Summer 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2024/entries/intuitionism/>.
+[^iemhoff-2019]: Iemhoff, R., 2019, “Intuitionism in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy* (Summer 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2024/entries/intuitionism/>.
 
-[^knight-2024]: Knight, C., 2024, “Reflective Equilibrium”, *The Stanford Encyclopedia of Philosophy*(Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2025/entries/reflective-equilibrium/>.
+[^knight-2024]: Knight, C., 2024, “Reflective Equilibrium”, *The Stanford Encyclopedia of Philosophy* (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2025/entries/reflective-equilibrium/>.
 
 [^mcginn-2002]: McGinn, C., 2002, “The Truth about Truth”, in *What is Truth*?, Richard Schantz (ed.), Berlin: Walter de Gruyter, 194–204.
 

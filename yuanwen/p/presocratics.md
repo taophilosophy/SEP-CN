@@ -51,7 +51,8 @@ Living in the last years of the 6ᵗʰ c. and the beginning of the 5ᵗʰ, Xenop
 
 Xenophanes claims that all meteorological phenomena are clouds, colored, moving, incandescent: rainbow, St. Elmo’s Fire, the sun, the moon. Clouds are fed by exhalations from the land and sea (mixtures of earth and water). The motions of earth and water, and hence of clouds, account for all the things we find around us. His explanations of meteorological and heavenly phenomena lead to a naturalistic science:
 
-> She whom they call Iris, this too is by nature (*pephuke*) cloud purple, and red, and greeny-yellow to behold. (DK21B32/LM8D39)
+> She whom they call Iris, this too is by nature (*pephuke*) cloud
+> purple, and red, and greeny-yellow to behold. (DK21B32/LM8D39)
 >
 > Xenophanes says that the star-like phenomena seen when aboard ship, which some call the Dioscuri, are cloudlets, glimmering because of their kind of motion. (DkA39/LM8D38)
 
@@ -59,7 +60,13 @@ In the 1980’s Alexander Mourelatos argued that Xenophanes employs an important
 
 That meteorological phenomena are not divine is not all that Xenophanes has to say about the gods. He notes anthropomorphic tendencies in conceptions of the gods (DKB14/LMD12: “Mortals suppose that the gods are born, and have their own dress, voice, and body;” DKB16/LMD13: “Ethiopians say that their gods are snub-nosed and dark, Thracians, that theirs are grey-eyed and red-haired”). He also famously suggests that horses, oxen, and lions would have equine, bovine, and leonine gods (DKB15/LM14). Yet Xenophanes also makes positive claims about the nature of the divine, including the claim that there is a single greatest god:
 
-> One god greatest among gods and men, Resembling mortals neither in body nor in thought. … whole [he] sees, whole [he] thinks, and whole [he] hears, but completely without toil he agitates all things by the    thought of his mind. … always he remains in the same (state), agitated not at all, nor is it fitting that he come and go to different places at different times. (DK B23, B24, B25, B26 / LM D16, 17, 18, 19)
+> One god greatest among gods and men,
+> Resembling mortals neither in body nor in thought.
+> … whole [he] sees, whole [he] thinks, and whole [he] hears,
+> but completely without toil he agitates all things by the
+>    thought of his mind.
+> … always he remains in the same (state), agitated not at all,
+> nor is it fitting that he come and go to different places at different times. (DK B23, B24, B25, B26 / LM D16, 17, 18, 19)
 
 While indifferent to the affairs of human beings, Xenophanes’ divine being comprehends and controls a cosmos that is infused with thinking: it is understood, organized, and managed by divine intellection. Having removed the gods as bearers of knowledge to humans, and denied that the divine takes an active interest in what mortals can or cannot know, Xenophanes asserts the conclusion to be drawn from his naturalistic interpretation of phenomena: the gods are not going to reveal anything to us; we are epistemologically autonomous and must rely on our own capacity for inquiry. That way, we “discover better,” as he says in DKB18/LMD53, a fragment that is optimistic about the capacities of human intelligence (see Lesher 1991)[^lesher-1991]:
 
@@ -67,7 +74,10 @@ While indifferent to the affairs of human beings, Xenophanes’ divine being com
 
 This suggests that human thought can mimic divine understanding, at least to some degree. Xenophanes’ own practice seems consistent with the claims of DKB18/LMD53; his own inquiries and explanations led him to unified explanations of terrestrial and celestial phenomena. Yet DKB34/LMD49 suggests skepticism:
 
-> And of course the clear and certain truth no man has seen, nor will there be anyone who knows about the gods and what I say about all things; for even if, in the best case, he should chance to speak what is the case, all the same, he himself does not know; but opinion is found over all.
+> And of course the clear and certain truth no man has seen,
+> nor will there be anyone who knows about the gods and what I say about all things;
+> for even if, in the best case, he should chance to speak what is the case,
+> all the same, he himself does not know; but opinion is found over all.
 
 Whether this is global or limited skepticism is controversial (Lesher 1992 and 1994 argues for a limited interpretation)[^lesher-1992][^lesher-1994]. Xenophanes stresses the difficulty of coming to certainty, particularly about things beyond our direct experience. Nonetheless, in DKB35/LMD50 (a tantalizingly short fragment), Xenophanes says, “Let these thing be accepted to be like the truth” (see Bryan 2012 for a full discussion)[^bryan-2012].
 
@@ -89,21 +99,41 @@ Parmenides, born ca. 510 BCE in the Greek colony of Elea in southern Italy (sout
 
 Parmenides gives us a poem in Homeric hexameters, narrating the journey of a young man (a *kouros*, in Greek) who is taken to meet a goddess who promises to teach him “all things” (DK28B1/LM19D4). The content of the story the goddess tells is not the knowledge that will allow humans, by having it, to know. Rather, the goddess gives the *kouros* the tools to acquire that knowledge himself:
 
-> It is right that you learn all things, Both the unshaking heart of well-persuasive truth, and the beliefs of mortals, in which there is no true trust. But nevertheless, you shall learn these things too, how it were right that the things that seem be reliably, being indeed the whole of things. (DKB1.28–32/LMD4.28–32; the last two lines text are uncertain.)
+> It is right that you learn all things,
+> Both the unshaking heart of well-persuasive truth,
+> and the beliefs of mortals, in which there is no true trust.
+> But nevertheless, you shall learn these things too, how it were right that the things that seem be reliably, being indeed the whole of things. (DKB1.28–32/LMD4.28–32; the last two lines text are uncertain.)
 
 The goddess does not provide the *kouros* with a list of true propositions, as a body of knowledge for him to acquire, and false ones to be avoided. Rather, in teaching him how to evaluate claims about what-is, the goddess unleashes the *kouros’* own cognitive powers to know everything, by testing and evaluation, accepting or rejecting claims about the ultimate nature of things— for that alone is capable of being known. For Parmenides, the mark of what is known is that it is something that genuinely is, with no taint of what-is-not. That is why, for him, what-is not only is, but must be and cannot not-be. He sets this out in the key passages of DKB2 and B3/LM19D6:[^note-5]
 
-> Come now, and I will tell you, and you, hearing, preserve the story, the only routes of inquiry there are for thinking; the one that it is and that it cannot not be is the path of Persuasion (for it attends upon truth) the other, that it is not and that it is right that it not be, this I point out to you is a path wholly inscrutable for you could not know what is not (for it is not to be accomplished) nor could you point it out… For the same thing is for thinking and for being.
+> Come now, and I will tell you, and you, hearing, preserve the story,
+> the only routes of inquiry there are for thinking;
+> the one that it is and that it cannot not be
+> is the path of Persuasion (for it attends upon truth)
+> the other, that it is not and that it is right that it not be,
+> this I point out to you is a path wholly inscrutable
+> for you could not know what is not (for it is not to be accomplished)
+> nor could you point it out… For the same thing is for thinking and for being.
 
 The routes are methods of inquiry: keeping on the correct route will bring one to what-is, the real object of thought and understanding. Although what the goddess tells the *kouros* has divine sanction (hers), that is not why he should accept it. Rather, the truth she tells reveals a mark of its own truth: it is testable by reason or thought itself. In DKB7/LMD8 the goddess warns that we must control our thought in the face of the ever-present seductions of sense-experience:
 
-> For never shall this be forced through: that things that are not are; but restrain your thought from this route of inquiry, nor let much-experienced habit force you along this path, to ply an aimless eye and resounding ear and tongue, but judge by reasoning (*logos*) the much-battled testing spoken by me.
+> For never shall this be forced through: that things that are not are;
+> but restrain your thought from this route of inquiry,
+> nor let much-experienced habit force you along this path,
+> to ply an aimless eye and resounding ear
+> and tongue, but judge by reasoning (*logos*) the much-battled testing
+> spoken by me.
 
 The *kouros* himself can reach a decision or determination of the truth solely through use of his *logos*. *Logos* here means thinking or reasoning (Parmenides probably means the human capacity for thought in general). The test (restated at B8.15–16/LMD8.20–21, is “is or is not?” This is not just a question of non-contradiction (which would give us coherence), but an inquiry whether or not the supposition that something is would entail, on further examination, the reality of what-is-not (which is impossible).
 
 The arguments of DKB8/LMD8 demonstrate *how* what-is must be. In applying these arguments as tests against any suggested basic entity in the Presocratic search for ultimate causes or principles, the *kouros* can determine whether or not a proposed theory is acceptable. For Parmenides *noos* is not itself an infallible capacity. One can think well or badly; correct thinking is that which takes the correct route and so reaches what-is. The mortals on the incorrect route are thinking, but their thoughts have no real object (none that is real in the appropriate way), and so cannot be completed or perfected by reaching the truth. In B8 Parmenides sets out the criteria for the being of what-is, and then the arguments for those criteria:
 
-> … a single account still remains of the route that it is; and on this route there are very many signs, that what-is is ungenerable and imperishable, a whole of a single kind, and unshaking and complete; nor was it nor will it be, since it is now all together one, cohesive. (DKB8.1–6/LMD8.6–11)
+> … a single account still
+> remains of the route that it is; and on this route there are
+> very many signs, that what-is is ungenerable and imperishable,
+> a whole of a single kind, and unshaking and complete;
+> nor was it nor will it be, since it is now all together
+> one, cohesive. (DKB8.1–6/LMD8.6–11)
 
 Any thing that genuinely is cannot be subject to coming-to-be or passing-away, must be of a single nature, and must be complete, in the sense of being unchangeably and unalterably what it is. These are signs for what any ultimate cause or principle must be like, if it is to be satisfactory as a principle, as something that can be known. The signs are adverbial, showing how what-is is (Mourelatos 2008). Only an entity which is in the complete way can be grasped and understood in its entirety by thought. McKirahan (2008) provides a thorough analysis of the arguments of DKB8/LMD8, as do Palmer (2009) and Graham (2010).
 
@@ -143,7 +173,7 @@ Although Empedocles gives an account of the cosmos, cosmology is not his sole in
 
 The pluralism of Anaxagoras and Empedocles maintained the Eleatic strictures on metaphysically acceptable basic entities (things that are and must be just what they are) by adopting an irreducible pluralism of stuffs meeting these standards that could pass on their qualities to items constructed from them. Ancient atomism responded more radically: what is real is an infinite number of solid, uncuttable (*atomon*) units of matter. All atoms are made of the same stuff (solid matter, in itself otherwise indeterminate), differing from one another (according to Aristotle in *Metaphysics* 985b4-20=DK67A6/LM27D31 and R38) only in shape, position, arrangement. Later sources say that atoms differ in weight; some scholars have argued that, while this is certainly true for post-Aristotelian atomism, it is less likely for Presocratic atomism. Recent scholarship has questioned this view, and find no reason to deny weight to Presocratic atomism (Augustin 2015)[^augustin-2015]. In addition to the reality of atoms, the Presocratic atomists, Leucippus and Democritus (Democritus was born in about 460 BCE in Abdera in Northern Greece, shortly after Socrates was born in Athens), enthusiastically endorsed the reality of the empty (or void).[^note-11] The void is what separates atoms and allows for the differences noted above (except weight, which could not be accounted for by void, since void in an atom would make it divisible and, hence, not an atom) (Sedley 1982; see also Sedley 2008)[^sedley-1982][^sedley-2008].
 
-Like Anaxagoras, the atomists consider all phenomenal objects and characteristics as emerging from the background mixture; in the case of atomism, the mix of atoms and void (Wardy 1988)[^wardy-1988]. Everything is constructed of atoms and void: the shapes of the atoms and their arrangement with respect to each other (and the intervening void) give physical objects their apparent characteristics. As Democritus says: “By convention sweet and by convention bitter, by convention hot, by convention cold, by convention color: in reality atoms and void” (DK68B125/LM27D14, D13a = DK68B9/LM27D4, D14, D15, D23a, R108). For example, Theophrastus says that the flavors differ according to the shapes of the atoms that compose various objects; thus “Democritus makes sweet that which is round and quite large, astringent that which large, rough, polygonal and not rounded” (*Caus. Plant*. 6.1.6 = 68A129/LM27D60). Simplicius reports that things composed of sharp and very fine atoms in similar positions are hot and fiery; those composed of atoms with the opposite character come to be cold and watery (*in Phys.* 36.3–6 = 67A14). Moreover, Theophrastus reports that the atomists explain why iron is harder than lead but lighter; it is harder because of the uneven arrangements of the atoms that make it up, lighter because it contains more void than lead. Lead, on the other hand, has less void than iron, but the even arrangement of the atoms makes lead easier to cut or to bend (*de Sens.* 61–63 = 68A135/LM27D64, D65, D66, D67, D69, D134, D147, D157, D158, D159a).
+Like Anaxagoras, the atomists consider all phenomenal objects and characteristics as emerging from the background mixture; in the case of atomism, the mix of atoms and void (Wardy 1988)[^wardy-1988]. Everything is constructed of atoms and void: the shapes of the atoms and their arrangement with respect to each other (and the intervening void) give physical objects their apparent characteristics. As Democritus says: “By convention sweet and by convention bitter, by convention hot, by convention cold, by convention color: in reality atoms and void” (DK68B125/LM27D14, D13a = DK68B9/LM27D4, D14, D15, D23a, R108). For example, Theophrastus says that the flavors differ according to the shapes of the atoms that compose various objects; thus “Democritus makes sweet that which is round and quite large, astringent that which large, rough, polygonal and not rounded” ( *Caus. Plant*. 6.1.6 = 68A129/LM27D60). Simplicius reports that things composed of sharp and very fine atoms in similar positions are hot and fiery; those composed of atoms with the opposite character come to be cold and watery (*in Phys.* 36.3–6 = 67A14). Moreover, Theophrastus reports that the atomists explain why iron is harder than lead but lighter; it is harder because of the uneven arrangements of the atoms that make it up, lighter because it contains more void than lead. Lead, on the other hand, has less void than iron, but the even arrangement of the atoms makes lead easier to cut or to bend (*de Sens.* 61–63 = 68A135/LM27D64, D65, D66, D67, D69, D134, D147, D157, D158, D159a).
 
 Adopting a strong distinction between appearance and reality, and denying the accuracy of appearances, as we see him do in the above quotation, Democritus was seen by some ancient sources (especially Sextus Empiricus) as a sort of skeptic, yet the evidence is unclear. It is true that Democritus is quoted as saying, “In truth we know nothing; for truth is in the depths” (DK68B117/LM27D24). So for him, the truth is not given in the appearances. Yet, even Sextus seems to agree that Democritus allows for knowledge:
 

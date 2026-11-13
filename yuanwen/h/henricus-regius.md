@@ -131,9 +131,9 @@ This entry was originally written by the late Desmond Clarke, but since October 
 
 [^descartes-1648]: Descartes, René, 1648. *Notae in Programma quoddam, sub finem Anni 1647 in Belgio editum, cum hoc titulo: Explicatio Mentis humanae, sive Animae rationalis, ubi explicatur quid sit, & quid esse posset*, Amsterdam: L. Elzevier.
 
-[^descartes-1964]: Descartes, René, [AT]. *Oeuvres de Descartes*, revised edition., Ch. Adam and P. Tannery (eds.), 12 volumes. Paris: Vrin/CNRS, 1964–76.
+[^descartes-1964]: Descartes, René, [**AT**]. *Oeuvres de Descartes*, revised edition., Ch. Adam and P. Tannery (eds.), 12 volumes. Paris: Vrin/CNRS, 1964–76.
 
-[^descartes-1976]: Descartes, René, [CB]. *Descartes’ Conversation with Burman*, trans. J. Cottingham. Oxford: Clarendon Press, 1976.
+[^descartes-1976]: Descartes, René, [**CB**]. *Descartes’ Conversation with Burman*, trans. J. Cottingham. Oxford: Clarendon Press, 1976.
 
 [^descartes-1643]: Descartes, René, *The Correspondence of René Descartes 1643*, T. Verbeek, E.-J. Bos, and J. van de Ven (eds.), Utrecht: Zeno Institute of Philosophy, 2003. [[Descartes *Correspondence* available online](https://dspace.library.uu.nl/handle/1874/1723).]
 

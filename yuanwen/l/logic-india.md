@@ -220,7 +220,8 @@ This argument, like the one rejected in *Fāng biàn xīn lùn*, is deductively 
 
 Moreover, we know that the author is fully aware of the syllogism’s logical force, for he states the three conditions, or three forms (*tri-rūpa*), which a reason must satisfy for the argument in which it occurs to be sound.
 
-> three forms (T1633 30.3.18–26): The reason you set forth is not definite because eternality and non-eternality appear throughout it. The reason I set forth has the three marks. (1) The (reason) is a property of the subject, (2) it is included in things similar and (3) it is excluded from things dissimilar. Therefore, the reason I set forth succeeds in not deviating, your reason does not. Therefore, your objection is confused. If the reason you set forth were like my reason (in this respect), your objection would succeed in being a proper objection.
+> three forms (T1633 30.3.18–26):
+> The reason you set forth is not definite because eternality and non-eternality appear throughout it. The reason I set forth has the three marks. (1) The (reason) is a property of the subject, (2) it is included in things similar and (3) it is excluded from things dissimilar. Therefore, the reason I set forth succeeds in not deviating, your reason does not. Therefore, your objection is confused. If the reason you set forth were like my reason (in this respect), your objection would succeed in being a proper objection.
 
 As noted by H. Ui 1929 (reported in Katsura 1985 p. 166)[^katsura-1985], the earliest mention of the three forms appears in a brief passage in a non-logical text, *Shùn zhōng lùn* (T1565 42a12,22ff). However, the author of this text, said to be Asaṅga, rejects the criterion, a criterion thought to be of a non-Buddhist origin.
 

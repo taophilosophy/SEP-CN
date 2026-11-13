@@ -37,7 +37,7 @@ Focusing on Armstrong’s development of the view, here is a concise statement o
 
 This framework promises to address familiar puzzles and problems: Maybe the difference between the uranium-spheres generalization and the gold-spheres generalization is that being uranium does necessitate being less than one mile in diameter, but being gold does not. Worries about the subjective nature of simplicity, strength and best balance do not emerge; there is no threat of lawhood being mind-dependent so long as necessitation is not mind-dependent. Some think that the framework supports the idea that laws play a special explanatory role in inductive inferences, since a law is not just a universal generalization, but is an entirely different creature — a relation holding between two other universals (Armstrong 1991, Dretske 1977)[^armstrong-1991][^dretske-1977]. The framework is also consistent with lawhood not supervening on local matters of particular fact; the denial of Humean supervenience often accompanies acceptance of the universals approach.
 
-For there truly to be this payoff, however, more has to be said about what *N* is. This is a problem van Fraassen calls *the identification problem,*which he couples this with a second problem, what he calls *the inference problem* (1989, 96). The essence of this pair of problems was captured early on by Lewis with his usual flair:
+For there truly to be this payoff, however, more has to be said about what *N* is. This is a problem van Fraassen calls *the identification problem,* which he couples this with a second problem, what he calls *the inference problem* (1989, 96). The essence of this pair of problems was captured early on by Lewis with his usual flair:
 
 > Whatever *N* may be, I cannot see how it could be absolutely impossible to have *N*(*F*,*G*) and *Fa* without *Ga*. (Unless *N* just is constant conjunction, or constant conjunction plus something else, in which case Armstrong’s theory turns into a form of the regularity theory he rejects.) The mystery is somewhat hidden by Armstrong’s terminology. He uses ‘necessitates’ as a name for the lawmaking universal *N*; and who would be surprised to hear that if *F* ‘necessitates’ *G* and *a* has *F*, then *a* must have *G*? But I say that *N* deserves the name of ‘necessitation’ only if, somehow, it really can enter into the requisite necessary connections. It can’t enter into them just by bearing a name, any more than one can have mighty biceps just by being called ‘Armstrong’ (1983, 366).
 
@@ -359,7 +359,7 @@ Portions of the 2006 update to this entry were drawn directly from the introduct
 
 [^tweedale-1984]: Tweedale, M., 1984, “Armstrong on Determinable and Substantival Universals,” in *D.M. Armstrong*, R. Bogdan (ed.), Dordrecht: D. Reidel Publishing Company.
 
-[^unger-1971]: Unger, P., 1971, “A Defense of Skepticism” *The Philosophical Review*80, 198–219.
+[^unger-1971]: Unger, P., 1971, “A Defense of Skepticism” *The Philosophical Review* 80, 198–219.
 
 [^vetter-2012]: Vetter, B., 2012, “Dispositional Essentialism and the Laws of Nature,” *Properties, Powers and Structures*, A. Bird, B. Ellis, and H. Sankey (eds.), New York: Routledge.
 

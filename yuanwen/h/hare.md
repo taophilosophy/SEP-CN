@@ -21,7 +21,10 @@ After the war, Hare returned to Balliol to complete the four years of Greats. Ev
 
 There could be a complaint that Hare was most interested in his own ideas. John Lucas had from Tom Braun a Balliol rhyme (of which he cites a variant version in Lucas 2002: 31)[^lucas-2002] dating from soon after the publication of *The Language of Morals* (1952):
 
-> My pupils I have always taught You cannot get an “is” from “ought”. This is the burden of my song: “It’s in my book, or else it’s wrong.”
+> My pupils I have always taught
+> You cannot get an “is” from “ought”.
+> This is the burden of my song:
+> “It’s in my book, or else it’s wrong.”
 
 It is true that Hare was most appreciative of points helpful to his own reconsiderations; he could then be depended upon to be over-generous. He always disparaged his own scholarship, though from a demanding point of view. (Few writers of long books on Plato can have first re-read the whole of Plato in Greek, as Hare did before writing his very short one, 1982.) Yet his interests were wider in range than his publications, and extended through Frege, Chomsky, Davidson, and a fair range of contemporary philosophy of mind and language. Though he was keen to claim ancestry (in a late encyclopedia article he counts Socrates and Aristotle as, in part, the first prescriptivists; 1998: 20), his love of philosophy did not reduce at all to a love of his own philosophy.
 
@@ -102,11 +105,14 @@ One answer might be that one can’t. Another might be that one can, and by asse
 
 The logic is then essentially the same as that of (E) above (but with a disambiguation of its second premise):
 
-> Get drunk every evening. To get drunk every evening, you must work in a bar. So, work in a bar.
+> Get drunk every evening.
+> To get drunk every evening, you must work in a bar.
+> So, work in a bar.
 
 This then invites rewriting, by what Hare takes to be an analogue of a licit logical manoeuvre, as follows:
 
-> To get drunk every evening, you must work in a bar. So, if get drunk every evening, work in a bar.
+> To get drunk every evening, you must work in a bar.
+> So, if get drunk every evening, work in a bar.
 
 However, since grammar excludes following “if” by an imperative, it is replaced in the antecedent by a special use of “you want”.
 

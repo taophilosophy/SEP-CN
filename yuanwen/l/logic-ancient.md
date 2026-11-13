@@ -92,7 +92,9 @@ In *De Interpretatione* 12–13, Aristotle (i) concludes that modal operators mo
 
 Aristotle develops his modal syllogistic in *Prior Analytics* 1.8–22. He settles on two-sided possibility (contingency) and tests for syllogismhood all possible combinations of premise pairs of sentences with necessity (N), contingency (C) or no (U) modal operator: NN, CC, NU/UN, CU/UC and NC/CN. Syllogisms with the last three types of premise combinations are called mixed modal syllogisms. Apart from the NN category, which mirrors unmodalized syllogisms, all categories contain dubious cases. For instance, Aristotle accepts:
 
-> *A* necessarily holds of all *B*. *B* holds of all *C*. Therefore *A* necessarily holds of all *C*.
+> *A* necessarily holds of all *B*.
+> *B* holds of all *C*.
+> Therefore *A* necessarily holds of all *C*.
 
 This and other problematic cases were already disputed in antiquity, and more recently have sparked a host of complex formalized reconstructions of Aristotle’s modal syllogistic. As Aristotle’s theory is conceivably internally inconsistent, the formal models that have been suggested may all be unsuccessful.
 
@@ -123,7 +125,9 @@ Theophrastus considered such premises to contain three terms, two of which are d
 
 Prosleptic syllogisms then come about as follows: They are composed of a prosleptic premise and the categorical premise obtained by instantiating a term (*C*) in the antecedent ‘open categorical sentence’ as premises, and the categorical sentences one obtains by putting in the same term (*C*) in the consequent ‘open categorical sentence’ as conclusion. For example:
 
-> *A* [holds] of all of that of all of which *B* [holds]. *B* holds of all *C*. Therefore, *A* holds of all *C*.
+> *A* [holds] of all of that of all of which *B* [holds].
+> *B* holds of all *C*.
+> Therefore, *A* holds of all *C*.
 
 Theophrastus distinguished three figures of these syllogisms, depending on the position of the indefinite term (also called ‘middle term’) in the prosleptic premise; for example (1) produces a third figure syllogism, (2) a first figure syllogism. The number of prosleptic syllogisms was presumably equal to that of types of prosleptic sentences: with Theophrastus’ concept of the first figure these would be sixty-four (i.e. 32 + 16 + 16). Theophrastus held that certain prosleptic premises were equivalent to certain categorical sentences, e.g. (1) to ‘*A* is predicated of all *B*’. However, for many, including (2), no such equivalent can be found, and prosleptic syllogisms thus increased the inferential power of Peripatetic logic.
 
@@ -147,7 +151,9 @@ Theophrastus also recognized that the connective particle ‘or’ can be inclus
 
 Theophrastus is further credited with the invention of a system of the later so-called ‘wholly hypothetical syllogisms’ (Theophrastus fr. 113 Fortenbaugh). These syllogisms were originally abbreviated term-logical arguments of the kind
 
-> If [something is] *A*, [it is] *B*. If [something is] *B*, [it is] *C*. Therefore, if [something is] *A*, [it is] *C*.
+> If [something is] *A*, [it is] *B*.
+> If [something is] *B*, [it is] *C*.
+> Therefore, if [something is] *A*, [it is] *C*.
 
 and at least some of them were regarded as reducible to Aristotle’s categorical syllogisms, presumably by way of the equivalences to ‘Every *A* is *B*’, etc. In parallel to Aristotle’s syllogistic, Theophrastus distinguished three figures; each had sixteen modes. The first eight modes of the first figure are obtained by going through all permutations with ‘not *X*’ instead of ‘*X*’ (with *X* for *A*, *B*, *C*); the second eight modes are obtained by using a rule of contraposition on the conclusion:
 
@@ -157,15 +163,21 @@ From ‘if *X*, *Y*’ infer ‘if the contradictory of *Y* then the contradicto
 
 The sixteen modes of the second figure were obtained by using (CR) on the schema of the first premise of the first figure arguments, e.g.
 
-> If [something is] not *B*, [it is] not *A*. If [something is] *B*, [it is] *C*. Therefore, if [something is] *A*, [it is] *C*.
+> If [something is] not *B*, [it is] not *A*.
+> If [something is] *B*, [it is] *C*.
+> Therefore, if [something is] *A*, [it is] *C*.
 
 The sixteen modes of the third figure were obtained by using (CR) on the schema of the second premise of the first figure arguments, e.g.
 
-> If [something is] *A*, [it is] *B*. If [something is] not *C*, [it is] not *B*. Therefore, if [something is] *A*, [it is] *C*.
+> If [something is] *A*, [it is] *B*.
+> If [something is] not *C*, [it is] not *B*.
+> Therefore, if [something is] *A*, [it is] *C*.
 
 Theophrastus claimed that all second and third figure syllogisms could be reduced to first figure syllogisms. If Alexander of Aphrodisias (2ⁿᵈ c. CE Peripatetic) reports faithfully, any use of (CR) which transforms a syllogism into a first figure syllogism was such a reduction. The large number of modes and reductions can be explained by the fact that Theophrastus did not have the logical means for substituting negative for positive components in an argument. In later antiquity, after some intermediate stages, and possibly under Stoic influence, the wholly hypothetical syllogisms were interpreted as propositional-logical arguments of the kind
 
-> If *p*, then *q*. If *q*, then *r*. Therefore, if *p*, then *r*.
+> If *p*, then *q*.
+> If *q*, then *r*.
+> Therefore, if *p*, then *r*.
 
 ## 4. Diodorus Cronus and Philo the Logician
 
@@ -205,11 +217,15 @@ Like Philo and Diodorus, Chrysippus distinguished four modalities and considered
 
 Arguments are—normally—compounds of assertibles. They are defined as a system of at least two premises and a conclusion (D. L. 7.45). Syntactically, every premise but the first is introduced by ‘now’ or ‘but’, and the conclusion by ‘therefore’. An argument is valid if the (Chrysippean) conditional formed with the conjunction of its premises as antecedent and its conclusion as consequent is correct (S. E. *PH* 2.137; D. L. 7.77). An argument is ‘sound’ (literally: ‘true’), when in addition to being valid it has true premises. The Stoics defined so-called argument modes as a sort of schema of an argument (D. L. 7.76). The mode of an argument differs from the argument itself by having ordinal numbers taking the place of assertibles. The mode of the argument
 
-> If it is day, it is light. But it is not the case that it is light. Therefore it is not the case that it is day.
+> If it is day, it is light.
+> But it is not the case that it is light.
+> Therefore it is not the case that it is day.
 
 is
 
-> If the 1ˢᵗ, the 2ⁿᵈ. But not: the 2ⁿᵈ. Therefore not: the 1ˢᵗ.
+> If the 1ˢᵗ, the 2ⁿᵈ.
+> But not: the 2ⁿᵈ.
+> Therefore not: the 1ˢᵗ.
 
 The modes functioned first as abbreviations of arguments that brought out their logically relevant form; and second, it seems, as representatives of the form of a class of arguments.
 
@@ -227,17 +243,25 @@ All basic indemonstrables consist of a non-simple assertible as leading premiss 
 
 Whether an argument is an indemonstrable can be tested by comparing it with these meta-linguistic descriptions. For instance,
 
-> If it is day, it is not the case that it is night. But it is night. Therefore it is not the case that it is day.
+> If it is day, it is not the case that it is night.
+> But it is night.
+> Therefore it is not the case that it is day.
 
 comes out as a second indemonstrable, and
 
-> If five is a number, then either five is odd or five is even. But five is a number. Therefore either five is odd or five is even.
+> If five is a number, then either five is odd or five is even.
+> But five is a number.
+> Therefore either five is odd or five is even.
 
 as a first indemonstrable. For testing, a suitable mode of an argument can also be used as a stand-in. A mode is syllogistic, if a corresponding argument with the same form is a syllogism (because of that form). However in Stoic logic there are no five modes that can be used as inference schemata that represent the five types of indemonstrables. For example, the following are two of the many modes of fourth indemonstrables:
 
-> Either the 1ˢᵗ or the 2ⁿᵈ. But the 2ⁿᵈ. Therefore not the 1ˢᵗ.
+> Either the 1ˢᵗ or the 2ⁿᵈ.
+> But the 2ⁿᵈ.
+> Therefore not the 1ˢᵗ.
 >
-> Either the 1ˢᵗ or not the 2ⁿᵈ. But the 1ˢᵗ. Therefore the 2ⁿᵈ.
+> Either the 1ˢᵗ or not the 2ⁿᵈ.
+> But the 1ˢᵗ.
+> Therefore the 2ⁿᵈ.
 
 Although both are covered by the meta-linguistic description, neither could be singled out as *the* mode of the fourth indemonstrables: If we disregard complex arguments, there are thirty-two modes corresponding to the five meta-linguistic descriptions; the latter thus prove noticeably more economical. The almost universal assumption among historians of logic that the Stoics represented their five (types of) indemonstrables by five modes is false and not supported by textual evidence.[^note-4]
 
@@ -259,7 +283,10 @@ A possible reconstruction of the fourth *thema* is:
 
 A Stoic reduction shows the formal validity of an argument by applying to it the *themata* in one or more steps in such a way that all resultant arguments are indemonstrables. This can be done either with the arguments or their modes (S. E. *M* 8.230–8). For instance, the argument mode
 
-> If the 1ˢᵗ and the 2ⁿᵈ, the 3ʳᵈ. But not the 3ʳᵈ. Moreover, the 1ˢᵗ. Therefore not: the 2ⁿᵈ.
+> If the 1ˢᵗ and the 2ⁿᵈ, the 3ʳᵈ.
+> But not the 3ʳᵈ.
+> Moreover, the 1ˢᵗ.
+> Therefore not: the 2ⁿᵈ.
 
 can be reduced by the third *thema* to (the modes of) a second and a third indemonstrable as follows:
 
@@ -267,9 +294,13 @@ When from two assertibles (‘If the 1ˢᵗ and the 2ⁿᵈ, the 3ʳᵈ’ and �
 
 The second *thema* reduced, among others, arguments with the following modes (Alex. Aphr. *An. Pr.* 164.27–31):
 
-> Either the 1ˢᵗ or not the 1ˢᵗ. But the 1ˢᵗ. Therefore the 1ˢᵗ.
+> Either the 1ˢᵗ or not the 1ˢᵗ.
+> But the 1ˢᵗ.
+> Therefore the 1ˢᵗ.
 >
-> If the 1st, if the 1ˢᵗ, the 2ⁿᵈ. But the 1ˢᵗ. Therefore the 2ⁿᵈ.
+> If the 1st, if the 1ˢᵗ, the 2ⁿᵈ.
+> But the 1ˢᵗ.
+> Therefore the 2ⁿᵈ.
 
 The Peripatetics chided the Stoics for allowing such useless arguments. In agreement with contemporary logic, the Stoics insisted that, if the arguments can be reduced, they are valid.
 

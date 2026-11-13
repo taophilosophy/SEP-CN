@@ -189,7 +189,7 @@ Collingwood, Robin George | folk psychology: as mental simulation | hermeneutics
 
 [^batson-1995]: Batson, C.D., R.R. Klein, L. Highberger, and L.L. Shaw, 1995, “Immorality From Empathy-Induced Altruism: When Compassion and Justice Conflict”, *Journal of Personality and Social Psychology*, 68: 1042–1054.
 
-[^batson-1997a]: Batson, C.D., K. Sager, E. Garst, M. Kang, K. Rubchinsky, and K. Dawson, 1997a, “Is Empathy Induced Helping Due to Self-Other Merging?”, *Journal of Personality and Social Psychology,*73: 495–509.
+[^batson-1997a]: Batson, C.D., K. Sager, E. Garst, M. Kang, K. Rubchinsky, and K. Dawson, 1997a, “Is Empathy Induced Helping Due to Self-Other Merging?”, *Journal of Personality and Social Psychology,* 73: 495–509.
 
 [^batson-1997b]: Batson, C.D., S. Early, and G.Salvarini, 1997b, “Perspective Taking: Imagining how Another Feels versus Imagining how You Would Feel”, *Personality and Social Personality Bulletin*, 23: 751–758.
 

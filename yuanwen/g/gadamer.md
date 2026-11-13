@@ -260,7 +260,7 @@ Gadamer, Hans-Georg: aesthetics | Hartmann, Nicolai | Heidegger, Martin | hermen
 
 [^homan-2022]: Homan, Catherine, 2022, ‘Gadamer and feminism’, in George and van der Heiden (2022), pp. 487–500.
 
-[^keane-2015]: Keane, Niall and Chris Lawn (eds), 2015, *A Companion to Hermeneutics,*Oxford: Blackwell.
+[^keane-2015]: Keane, Niall and Chris Lawn (eds), 2015, *A Companion to Hermeneutics,* Oxford: Blackwell.
 
 [^keane-2021]: Keane, Niall, 2021,‘Hermeneutics in a Broader Horizon: Gadamer, Rorty, Davidson’, in Dostal (2021), pp. 374–405.
 

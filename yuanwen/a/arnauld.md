@@ -597,7 +597,7 @@ A translation of Arnauld’s Latin text, made by Pasquier Quesnel, is contained 
 
 [^note-42]: Arnauld takes up similar examples in his letters to Mackaire, Bossuet, adding examples of a highly just judge offered a bribe and an extremely chaste woman whom someone attempts to seduce.
 
-[^note-43]: Eric Stencil and Julie Walsh (2016) discuss our certainty about how the prince and the king will act, in the light of what Arnauld says about habit formation in his criticism of Nicole’s theory of *la gráce gßnßrale,*and his criticism of the Jesuit distinction between theological and philosophical sin.
+[^note-43]: Eric Stencil and Julie Walsh (2016) discuss our certainty about how the prince and the king will act, in the light of what Arnauld says about habit formation in his criticism of Nicole’s theory of *la gráce gßnßrale,* and his criticism of the Jesuit distinction between theological and philosophical sin.
 
 [^oa-nd]: The citations abbreviation *OA* is identified below, in the first reference of Principle Editions. The citations abbreviations *LA* and *OM* are identified in the section Related Early Modern Works below.
 

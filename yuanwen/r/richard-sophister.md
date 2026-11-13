@@ -11,7 +11,13 @@ The title “*Abstractiones*” was apparently meant to capture the “excerpted
 
 The seven known manuscripts of the *Abstractiones* date from the late thirteenth to the early fourteenth centuries:[^note-3]
 
-> Ms B = Brugge, Stedelike Bibliotheek, 497 Ms C = Oxford, Corpus Christi College, E 293B Ms D = Oxford, Bodleian Library, Digby 24 Ms K = København, Det Kongelige Bibliotek, Fragm.1075 Ms O = Oxford, Bodleian Library, Digby 2 Ms P = Paris, Bibliothèque Nationale lat. 14069 Ms R = London, British Library, Royal 12.F.xix
+> Ms B = Brugge, Stedelike Bibliotheek, 497
+> Ms C = Oxford, Corpus Christi College, E 293B
+> Ms D = Oxford, Bodleian Library, Digby 24
+> Ms K = København, Det Kongelige Bibliotek, Fragm.1075
+> Ms O = Oxford, Bodleian Library, Digby 2
+> Ms P = Paris, Bibliothèque Nationale lat. 14069
+> Ms R = London, British Library, Royal 12.F.xix
 
 Only two of these manuscripts (B, D) are complete; the remaining five are in varying degrees of fragmentation. Two manuscripts (O, R) appear to be derivative texts, or redactions, of the *Abstractiones*.
 
@@ -63,9 +69,16 @@ As noted, this sophism sentence is relatively uncomplicated and it is easy to sp
 
 There is still no certainty as to the identity of the Magister Abstractionum. Because of the colophon appended to the two complete manuscripts of the *Abstractiones*, we know, of course, that his name was “Richard”:
 
-> Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
+> *Expliciunt ista, quae tu, Ricarde Sophista,
+> fecesti, morum flos et doctor logicorum.
+> Dirige scribentis, Spiritus alme, manum.
+> Expliciunt Abstractiones*.
+> (Digby 24, f.90rb)
 >
-> (These [sophisms] are complete, which you, Richard the Sophister, Flower of virtue and teacher of logic, have produced. Turn the scribe’s hand [from its task], nurturing Spirit. The *Abstractiones* are complete.)
+> (These [sophisms] are complete, which you, Richard the Sophister,
+> Flower of virtue and teacher of logic, have produced.
+> Turn the scribe’s hand [from its task], nurturing Spirit.
+> The *Abstractiones* are complete.)
 
 De Rijk suggested the name Richard Fishacre, disagreeing with the suggestion of Richard Fitz-Ralph offered by Macray on the basis that the dating of the text within the second quarter of the thirteenth century is more consistent with Fishacre’s chronology.[^note-8] Jan Pinborg suggested the name Richard Rufus also on grounds that the dating of the *Abstractiones* is consistent with Rufus’ being at Oxford.[^note-9] It is generally assumed that the author is English. Pinborg offered one further bit of evidence for the name Richard Rufus in that there is some reason to think that certain doctrines of Richard Rufus, as criticised by Roger Bacon, are in the *Abstractiones*. The primary doctrine in question attributed to Richard Rufus and criticised by Roger Bacon is, in general terms, that the signification of a name can remain in the absence of any actual thing signified by that name, although, as Bacon suggests, the proponents of this view must supply some kind of “habitual being” for the lost actual significate of such names. It is this doctrine of the “*esse habituale*” that Bacon finds objectionable. That Richard Rufus does seem to have such a doctrine appears clear in his discussion of the question “Whether Christ while three days in the tomb was a man” (“*Utrum Christus in triduo mortis fuerit homo*”) in distinction 22, book III of his *Sentences Commentary*.[^note-10]
 

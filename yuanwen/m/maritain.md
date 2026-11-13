@@ -516,7 +516,7 @@ Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy o
 
 [^clark-2012]: Clark, Meghan J., 2012, “Reasoned Agreement versus Practical Reasonableness: Grounding Human Rights in Maritain and Rawls”, *Heythrop Journal*, 53(4): 637–648. doi:10.1111/j.1468-2265.2009.00557.x
 
-[^contat-2008]: Contat, Alain, 2008, “Le figure della differenza ontologica nel tomismo del Novecento (seconda parte)”, *Alpha Omega: Rivista di Filosofia e Teologia dell’Ateneo Pontificio Regina Apostolorum*, 11(2): 213–250.
+[^contat-2008]: Contat, Alain, 2008, “Le figure della differenza ontologica nel tomismo del Novecento (seconda parte)”, *Alpha Omega: Rivista di Filosofia e Teologia dell’Ateneo Pontificio Regina Apostolorum* , 11(2): 213–250.
 
 [^compagnon-2003]: Compagnon, Olivier, 2003, *Jacques Maritain et l’Amérique du Sud. Le modèle malgré lui*, Villeneuve d’Ascq: Presses universitaires du Septentrion.
 

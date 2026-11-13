@@ -21,11 +21,14 @@ A *sophisma* has several important characteristics. First of all, a *sophisma* p
 
 Here are some some examples of kind (1), sentences that are odd or have odd consequences:
 
-> This dog is your father. A chimaera is a chimaera.
+> This dog is your father.
+> A chimaera is a chimaera.
 
 As examples of kind (2), *ambiguous* sentences that can be true or false depending on how they are interpreted, consider:
 
-> All the apostles are twelve. The infinite are finite. Every man is of necessity an animal.
+> All the apostles are twelve.
+> The infinite are finite.
+> Every man is of necessity an animal.
 
 As an example of kind (3), sentences that are not puzzling in themselves but only when they occur in a definite context (“case,” *casus*), consider:
 
@@ -47,7 +50,8 @@ Once the odd, ambiguous or puzzling *sophisma*-sentence is put forward, one shou
 
 Our first example comes from Peter of Spain’s *Syncategoreumata*, chapter 4. The *sophisma* runs:
 
-> *Omne animal preter hominem est irrationale.* (Every animal but man is irrational.)
+> *Omne animal preter hominem est irrationale.*
+> (Every animal but man is irrational.)
 
 In accordance with step (1), the *pro* and *contra* arguments run:
 
@@ -65,7 +69,8 @@ The underlying logical problem in this *sophisma* according to Peter’s exposit
 
 Another relatively simple example comes from Albert of Saxony, *Sophismata*, *sophisma* xi. The *sophisma* runs:
 
-> *Omnes homines sunt asini vel homines et asini sunt asini.* (All men are donkeys or men and donkeys are donkeys.)
+> *Omnes homines sunt asini vel homines et asini sunt asini.*
+> (All men are donkeys or men and donkeys are donkeys.)
 
 In accordance with step (1), here are the *pro* and *contra* arguments:
 
@@ -213,7 +218,7 @@ Buridan, John [Jean] | Burley [Burleigh], Walter | Heytesbury, William | insolub
 
 [^ebbesen-2010]: Ebbesen, Sten, and Frédéric Goubier, 2010, *A Catalogue of 13th-Century Sophismata*, Part I: Introduction and Indices; Part II: Catalogue of Sophismata (Collection Sic et Non) Paris: Vrin
 
-[^grabmann-1940]: Grabmann, Martin, 1940, *Die Sophismatenliteratur des 12. und 13. Jahrhunderts mit Textausgabe eines Sophisma des Boetius von Dacien*(Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters*:* Texte und Untersuchungen, Band 36, Heft 1), Münster i. W.: Aschendorff.
+[^grabmann-1940]: Grabmann, Martin, 1940, *Die Sophismatenliteratur des 12. und 13. Jahrhunderts mit Textausgabe eines Sophisma des Boetius von Dacien* (Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters*:* Texte und Untersuchungen, Band 36, Heft 1), Münster i. W.: Aschendorff.
 
 [^kneepkens-2015]: Kneepkens, C.H., 2015, “The Collection of Grammatical Sophismata in MS London, BL, Burney 330. An Exploratory Study”, *Vivarium*, 53: 294–321.
 

@@ -217,7 +217,9 @@ Alan Turing's last postcards to Robin Gandy, in March 1954, headed ‘Messages f
 
 It is a pity that Turing did not write more about his ethical philosophy and world outlook. As a student he was an admirer of Bernard Shaw's plays of ideas, and to friends would openly voice both the hilarities and frustrations of his many difficult situations. Yet the nearest he came to serious personal writing, apart from occasional comments in private letters, was in penning a short story about his 1952 crisis (Hodges 1983, p. 448)[^hodges-1983]. His last two years were particularly full of Shavian drama and Wildean irony. In one letter (to his friend Norman Routledge; the letter is now in the Turing Archive at King's College, Cambridge) he wrote:
 
-> Turing believes machines think Turing lies with men Therefore machines do not think
+> Turing believes machines think
+> Turing lies with men
+> Therefore machines do not think
 
 The syllogistic allusion to Socrates is unmistakeable, and his demise, with cyanide rather than hemlock, may have signalled something similar. A parallel figure in World War II, Robert Oppenheimer, suffered the loss of his reputation during the same week that Turing died. Both combined the purest scientific work and the most effective application of science in war. Alan Turing was even more directly on the receiving end of science, when his sexual mind was treated as a machine, against his protesting consciousness and will. But amidst all this human drama, he left little to say about what he really thought of himself and his relationship to the world of human events.
 

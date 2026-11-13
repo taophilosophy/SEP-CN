@@ -340,7 +340,7 @@ egoism | ethics: natural law tradition | game theory | Hobbes, Thomas: moral and
 
 [^russell-1990]: Russell, Greg, 1990. *Hans J. Morgenthau and the Ethics of American Statecraft*, Baton Rouge: Louisiana State University Press.
 
-[^sleat-2010]: Sleat, Matt, 2010. “Bernard Williams and the possibility of a realist political theory,”*European Journal of Political Philosophy*, 9(4): 485–503.
+[^sleat-2010]: Sleat, Matt, 2010. “Bernard Williams and the possibility of a realist political theory,” *European Journal of Political Philosophy*, 9(4): 485–503.
 
 [^sleat-2013]: –––, 2013. *Liberal Realism: A Realist Theory of Liberal Politics*, Manchester: Manchester University Press.
 

@@ -46,9 +46,9 @@ Lost
 | [17] | *Commentary on the* Phaedrus |
 | [18] | *Commentary on the* Symposium *(on the Discourse of Diotima)* |
 | [19] | *Commentary on the* Philebus |
-| [20] | *On the three Monads (in the*Philebus*)* |
+| [20] | *On the three Monads (in the* Philebus*)* |
 | [21] | *Monograph* (gr. monobiblion, On the knowledge of the One [?]) |
-| [22] | *Collection of the mathematical theorems related to the*Timaeus |
+| [22] | *Collection of the mathematical theorems related to the* Timaeus |
 | [23] | (frag.) Examination of Aristotle’s arguments against the *Timaeus* |
 | [24] | (frag.) On Plato’s Three Proofs of the Immortality of the Soul (Latin / Arabic) |
 

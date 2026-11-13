@@ -120,7 +120,9 @@ In 1847 George Boole changed this arrangement. For example, to validate the argu
 
 Boole would interpret the symbols $P, Q, R$ as names of classes:
 
-> $P$ is the class of all monarchs. $Q$ is the class of all human beings. $R$ is the class of all infallible beings.
+> $P$ is the class of all monarchs.
+> $Q$ is the class of all human beings.
+> $R$ is the class of all infallible beings.
 
 Then he would point out that the original argument paraphrases into a set-theoretic consequence:
 

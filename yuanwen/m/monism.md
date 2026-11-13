@@ -278,9 +278,11 @@ Given these assumptions, the debate between the priority monist and the priority
 
 Under a certain natural picture about basic objects, *Priority monism* and *Priority pluralism* are exhaustive and exclusive doctrines. The picture is that the basic objects *tile the cosmos*, in the sense that they cover every portion of reality without overlap. More precisely, the tiling constraint (c.f. Schaffer 2010a: §1.3)[^schaffer-2010a] may be thought of as the conjunction of two conditions:
 
-> *No gaps*: Sum:$x(Bx)=u$, (Sum:$x(Bx)$ is the mereological sum of all things that are such that $Bx$.)
+> *No gaps*: Sum:$x(Bx)=u$,
+> (Sum:$x(Bx)$ is the mereological sum of all things that are such that $Bx$.)
 >
-> *No overlaps*: $\forall x\forall y((Bx \amp By \amp x\ne y) \rightarrow{\sim}\exists z(\text{PART}zx \amp \text{PART}zy))$
+> *No overlaps*:
+> $\forall x\forall y((Bx \amp By \amp x\ne y) \rightarrow{\sim}\exists z(\text{PART}zx \amp \text{PART}zy))$
 
 *No gaps* expresses the requirement that the sum of all the basic entities is the cosmos as a whole. No portion of the cosmos is left uncovered. *No overlaps* expresses the requirement that the basic entities be mereologically disjoint, having no common parts.
 

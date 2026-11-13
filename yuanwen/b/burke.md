@@ -91,7 +91,11 @@ His literary style is to argue clearly and concisely, but in doing so to include
 
 There was the contrast, too, between the breadth of view and of learning in the matured statements that Burke published, on the one hand, and, on the other, the ways of the parliamentary pugilist who was audible to fellow M.P.s and legible to others in the speeches reported by the daily newspapers. Burke’s manner was anything but ‘philosophical’ as the public understands the word. Partly this was, doubtless, because Burke was like that as a person, and not least because he had a weak voice that had to be raised if it was to be heard in the bear garden that was the House of Commons, but partly, too, because his *Philosophical Enquiry* had suggested that the best way to impart a mood to an audience was to display it oneself. So, for instance, if Burke needed to plead for moderation, he did so immoderately. Above all, perhaps, it was because this philosopher- turned-participant was not exempt from the need to win to his side enough minds to ensure that his side was not beaten (or, at any rate, demonstrated enough strength to remain in contention), and had at hand an exceptionally powerful range of persuasive tools. It is an evident fact, too, that the resources of Western civilization were sometimes invoked by Burke in order to produce votes in the House of Commons—votes, which, whatever else they were, were in the interests of his party. But, manifestly, these resources do not supply a rationale for only one policy, still less for only one party or for voting only one way on a given occasion. The roles of thinker and party spokesman consort ill: and there were bound to be doubts about one
 
-> Who born for the Universe, narrow’d his mind, And to party gave up, what was meant for mankind. Tho’ fraught with all learning, kept straining his throat, To persuade Tommy Townshend to lend him a vote. (Goldsmith, lines 31–34).
+> Who born for the Universe, narrow’d his mind,
+> And to party gave up, what was meant for mankind.
+> Tho’ fraught with all learning, kept straining his throat,
+> To persuade Tommy Townshend to lend him a vote.
+> (Goldsmith, lines 31–34).
 
 An apparent junction of this sort was always likely to suggest that Burke had profoundly personal motives for narrowing his mind, and when he was not being caricatured as an Irish Jesuit he was being satirized as a corrupt hack. [^note-7]Yet some sort of procedure of the type pursued by Burke was implied in his sense of practical reasoning. The ‘philosopher in action’ had the function of finding ‘proper means’ to ‘the proper ends of Government’ marked out by ‘the speculative philosopher’ (TCD, W & S, 1981–2015, ii. 45–51). Parliamentary votes, in the situation that Burke found himself, were amongst the proper means.
 
@@ -252,7 +256,7 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 
 [^wecter-1940]: Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, *Publications of the Modern Language Association*, 55: 167–181.
 
-[^more-nd]: More recently, other aspects of Burke’s thought that bear on his philosophy outside *Philosophical Enquiry*have attracted attention. See:
+[^more-nd]: More recently, other aspects of Burke’s thought that bear on his philosophy outside *Philosophical Enquiry* have attracted attention. See:
 
 [^fives-2022]: Fives, Allyn, 2022, ‘Edmund Burke’s Value Pluralism’, *The European Legacy*, 27(6): 583–600.
 

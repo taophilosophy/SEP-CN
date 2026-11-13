@@ -569,7 +569,7 @@ As of January 2012, Sungho Choi has taken over responsibility for maintaining an
 
 [^smith-1977]: Smith, A.D., 1977, ‘Dispositional Properties’, *Mind*, 86: 439–445.
 
-[^smith-1998]: Smith, M. & Stoljar, D., 1998, ‘Global Response-Dependence and Noumenal Realism’, *The Monist*81: 85–111.
+[^smith-1998]: Smith, M. & Stoljar, D., 1998, ‘Global Response-Dependence and Noumenal Realism’, *The Monist* 81: 85–111.
 
 [^steinberg-2010]: Steinberg, J., 2010, ‘Dispositions and Subjunctives’, *Philosophical Studies*, 148: 323–341.
 
@@ -591,7 +591,7 @@ As of January 2012, Sungho Choi has taken over responsibility for maintaining an
 
 [^tooley-1977]: Tooley, M., 1977, ‘The Nature of Laws’, *Canadian Journal of Philosophy*, 7: 667–698.
 
-[^tugby-2013]: Tugby, M., 2013, ‘Platonic Dispositionalism’, *Mind*122: 451–480.
+[^tugby-2013]: Tugby, M., 2013, ‘Platonic Dispositionalism’, *Mind* 122: 451–480.
 
 [^tugby-2014]: –––, 2014, ‘Categoricalism, Dispositionalism, and the Epistemology of Properties’, *Synthese*, 191: 1147–1162.
 

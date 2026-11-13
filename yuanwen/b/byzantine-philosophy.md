@@ -556,7 +556,7 @@ afterlife | Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | 
 
 [^ierodiakonou-2007b]: –––, 2007b, “John Italos on Universals”, *Documenti e Studi Sulla Tradizione Filosofica Medievale* 18: 231–47.
 
-[^ierodiakonou-2010-3]: –––, 2010, “Eustratius’ comments on *Posterior Analytics* II 19”, in *Interpreting Aristotle’s*Posterior Analytics*in Late Antiquity and Beyond*, F. de Haas, M. Leunissen and M. Martijn (eds.), Leiden: Brill, pp. 55–71.
+[^ierodiakonou-2010-3]: –––, 2010, “Eustratius’ comments on *Posterior Analytics* II 19”, in *Interpreting Aristotle’s* Posterior Analytics *in Late Antiquity and Beyond*, F. de Haas, M. Leunissen and M. Martijn (eds.), Leiden: Brill, pp. 55–71.
 
 [^ierodiakonou-2011]: –––, 2011, “The Western influence on Late Byzantine Aristotelian commentaries”, in *Greeks, Latins, and Intellectual History 1204-1500*, M. Hinterberger and Ch. Schabel(eds.), Leuven: Peeters, pp. 373–83.
 

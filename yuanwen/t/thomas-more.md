@@ -103,7 +103,8 @@ In 1516, More’s collection of epigrams was to be published with *Utopia* (*CW*
 
 *Utopia*, undoubtedly More’s most famous and most controversial dialogue, combines elements from the dialogue forms of Plato and Cicero, with dozens of allusions to each author, starting with the very title:
 
-> *DE OPTIMO REIPUBLICAE STATU DEQUE, nova insula UTOPIA libellus vere aureus nec minus salutaris quam festivus, clarissimi disertissimique viri THOMAE MORI inclutae civitatis Londinensis civis et Vicecomitis* (first published in English in 1551 as *On the Best State of a Commonwealth and on the new Island of Utopia A Truly Golden Handbook, No Less Beneficial than Entertaining by the Most Distinguished and Eloquent Author Thomas More Citizen and Undersheriff of the Famous City of London*).
+> *DE OPTIMO REIPUBLICAE STATU DEQUE, nova insula UTOPIA libellus vere aureus nec minus salutaris quam festivus, clarissimi disertissimique viri THOMAE MORI inclutae civitatis Londinensis civis et Vicecomitis*
+> (first published in English in 1551 as *On the Best State of a Commonwealth and on the new Island of Utopia A Truly Golden Handbook, No Less Beneficial than Entertaining by the Most Distinguished and Eloquent Author Thomas More Citizen and Undersheriff of the Famous City of London*).
 
 It was Cicero who translated Plato’s title *Politeia* as *Res Publicae* and who established, in his own *Republic* and *Laws,* the conversation with Plato that More continues in *Utopia*. More, however, adds comic elements from Lucian’s dialogues, and to miss the humor in *Utopia* is to miss his characteristic comic irony.
 

@@ -476,7 +476,7 @@ I am grateful to Holly Smith, Walter Sinnott-Armstrong, and an anonymous reviewe
 
 [^lee-2004]: Lee, K. and M. Ashton, 2004, “Psychometric Properties of the HEXACO Personality Inventory”, *Multivariate Behavioral Research*, 39: 329–358.
 
-[^li-2022]: Li, Y., J. Hu, C. Ruff, and X. Zhou, (2022), “Neurocomputational Evidence that Conflicting Prosocial Motives Guide Distributive Justice”, *Proceedings of the National Academy of Sciences*119: Article 2209078119.
+[^li-2022]: Li, Y., J. Hu, C. Ruff, and X. Zhou, (2022), “Neurocomputational Evidence that Conflicting Prosocial Motives Guide Distributive Justice”, *Proceedings of the National Academy of Sciences* 119: Article 2209078119.
 
 [^list-2007]: List, J., 2007, “On the Interpretation of Giving in Dictator Games”, *Journal of Political Economy*, 115: 482–493.
 
@@ -504,7 +504,7 @@ I am grateful to Holly Smith, Walter Sinnott-Armstrong, and an anonymous reviewe
 
 [^roth-1995]: Roth, A., 1995, “Bargaining Experiments,” in *The Handbook of Experimental Economics*, John H. Kagel and Alvin E. Roth (eds), Princeton: Princeton University Press, 253–348.
 
-[^ruch-2017]: Ruch, W., R. Bruntsch, and L. Wagner, 2017, “The Role of Character Traits in Economic Games”, *Personality and Individual Differences,*108: 186–190.
+[^ruch-2017]: Ruch, W., R. Bruntsch, and L. Wagner, 2017, “The Role of Character Traits in Economic Games”, *Personality and Individual Differences,* 108: 186–190.
 
 [^schlösser-2018]: Schlösser, T., T. Steiniger, D. Ehlebracht, and D. Fetchenhauer, 2018, “How Justice Sensitivity Predicts Equality Preferences in Simulated Democratic Systems”, *Journal of Research in Personality*, 73: 75–81.
 
@@ -518,7 +518,7 @@ I am grateful to Holly Smith, Walter Sinnott-Armstrong, and an anonymous reviewe
 
 [^thielmann-2020]: Thielmann, I., G. Spadaro, and D. Balliet, 2020, “Personality and Prosocial Behavior: A Theoretical Framework and Meta-Analysis”, *Psychological Bulletin*, 146: 30–90.
 
-[^umer-2022]: Umer, H., T. Kurosaki, and I. Iwasaki, 2022, “Unearned Endowment and Charity Recipient Lead to Higher Donations: A Meta-Analysis of the Dictator Game Lab Experiments”, *Journal of Behavioral and Experimental Economics,*97: Article 101827.
+[^umer-2022]: Umer, H., T. Kurosaki, and I. Iwasaki, 2022, “Unearned Endowment and Charity Recipient Lead to Higher Donations: A Meta-Analysis of the Dictator Game Lab Experiments”, *Journal of Behavioral and Experimental Economics,* 97: Article 101827.
 
 [^valdesolo-2007]: Valdesolo, P. and D. DeSteno, 2007, “Moral Hypocrisy: Social Groups and the Flexibility of Virtue”, *Psychological Science*, 18: 689–690.
 

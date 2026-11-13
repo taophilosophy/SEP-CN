@@ -78,11 +78,11 @@ $$P[h \mid (e \cdot c)] = \dfrac{P[e \mid (h \cdot c)] \times P[h \mid c]}{P[e \
 
 Thus, Bayes’ Theorem represents the way in which the strength of the evidential support for a hypothesis, $P[h \mid (e \cdot c)]$, can be calculated from the strengths of three other probabilistic arguments: $P[e \mid (h \cdot c)]$, $P[h \mid c]$, and $P[e \mid c]$. Stated this way, Bayes’ Theorem may not look much like an inference rule. So, let’s articulate more precisely how an equation like this may be construed as an inference rule. It represents a rule that draws on the strengths of three probabilistic arguments to infer the strength of a further argument. Thus, as an inference rule, Bayes’ Theorem may be expressed as follows:
 
-**if:**
+**if**:
 
 the strength of the argument from $c$ to $e$ is $q$, for $q \gt 0$   (i.e. $P[e \mid c] = q \gt 0$), and the strength of the argument from $(h \cdot c)$ to $e$ is $r$   (i.e. $P[e \mid (h \cdot c)] = r$), and the strength of the argument from $c$ to $h$ is $s$   (i.e. $P[h \mid c] = s$),
 
-**then:**
+**then**:
 
 the strength of the argument from $(e \cdot c)$ to $h$ is $t = r \times s / q$   (i.e. then $P[h \mid (e \cdot c)] = t$, where $t = r \times s / q$).
 
@@ -686,7 +686,7 @@ Thanks to Alan Hájek, Jim Joyce, and Edward Zalta for many valuable comments an
 
 [^field-1977]: Field, Hartry H., 1977, “Logic, Meaning, and Conceptual Role”, *Journal of Philosophy*, 74(7): 379–409. doi:10.2307/2025580
 
-[^fisher-1922]: Fisher, R.A., 1922, “On the Mathematical Foundations of Theoretical Statistics”, *Philosophical Transactions of the Royal Society, series A*, 222(594–604): 309–368. doi:10.1098/rsta.1922.0009
+[^fisher-1922]: Fisher, R.A., 1922, “On the Mathematical Foundations of Theoretical Statistics”, *Philosophical Transactions of the Royal Society, series A* , 222(594–604): 309–368. doi:10.1098/rsta.1922.0009
 
 [^fitelson-1999]: Fitelson, Branden, 1999, “The Plurality of Bayesian Measures of Confirmation and the Problem of Measure Sensitivity”, *Philosophy of Science*, 66: S362–S378. doi:10.1086/392738
 

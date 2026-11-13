@@ -282,7 +282,7 @@ cognitivism vs. non-cognitivism, moral | constructivism: in metaethics | metaeth
 
 [^lewis-1989]: Lewis, D.K., 1989. “Dispositional theories of value,” reprinted in his *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press, 2000, pp. 68–94.
 
-[^macintyre-1984]: MacIntyre, A., 1984.*After Virtue*, Indiana: University of Notre Dame Press.
+[^macintyre-1984]: MacIntyre, A., 1984. *After Virtue*, Indiana: University of Notre Dame Press.
 
 [^mackie-1977]: Mackie, J.L., 1977. *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin.
 

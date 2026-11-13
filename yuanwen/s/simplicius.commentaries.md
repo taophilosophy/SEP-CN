@@ -315,7 +315,8 @@ As we have seen, the entire commentary has an ethical purpose. Simplicius argues
 
 The human soul’s freedom manifests itself in its capacity to choose freely between alternatives (*prohairesis*). It possesses its “value in accordance with its free choice (*prohairesis*)” (*In Epict.* XIV 131). A possible danger is the so-called weakness of the will. Simplicius illustrates this with a well-known quote from Euripides, *Medea* 1078–9 (*In Epict.* XII 59–60):
 
-> I understand how bad what I am about to do is, but my spirit (*thumos*) is stronger than my deliberations (*bouleumata*).
+> I understand how bad what I am about to do is,
+> but my spirit (*thumos*) is stronger than my deliberations (*bouleumata*).
 
 Like Simplicius’ other works, the relatively short introduction to the *Commentary on Epictetus’ Handbook* follows the isagogical scheme mentioned in the main article, Section 4 (see also I. Hadot 2003, 1–5). He discusses (1) the author of the work, (2) its aim (*skopos*), (3) its title, (4) its usefulness, (5) the character of the work, (6) its place in the order of reading in the philosophical curriculum, and finally, (7) the premise from Plato’s *Alcibiades* I that the rational soul is our true self.
 

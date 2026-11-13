@@ -262,7 +262,7 @@ action | cognition: embodied | consciousness: representational theories of | emo
 
 [^ataria-2018]: Ataria, Yochai, 2018, *Body Disownership in Complex Posttraumatic Stress Disorder*, New York: Palgrave Macmillan US. doi:10.1057/978-1-349-95366-0
 
-[^ataria-2021]: Ataria, Yochai, Tanaka, Shogo, and Gallagher, Shaun, 2021 (eds).*Body schema and body image: New directions*. Oxford University Press.
+[^ataria-2021]: Ataria, Yochai, Tanaka, Shogo, and Gallagher, Shaun, 2021 (eds). *Body schema and body image: New directions*. Oxford University Press.
 
 [^aydede-2009]: Aydede, Murat, 2009, “Is Feeling Pain the Perception of Something?”, *Journal of Philosophy*, 106(10): 531–567. doi:10.5840/jphil20091061033
 

@@ -400,7 +400,7 @@ The authors would like to acknowledge Rioghnach Theakston, Prach Panchakunathorn
 
 [^khader-2011]: Khader, Serene J., 2011, *Adaptive Preferences and Women’s Empowerment* (Studies in Feminist Philosophy), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199777884.001.0001
 
-[^kim-2023]: Kim HY, Walton A, 2023, “Residential Integration on Fair Terms for the Disadvantaged”, *British Journal of Political Science,*53(2):613–628. doi:10.1017/S0007123422000412
+[^kim-2023]: Kim HY, Walton A, 2023, “Residential Integration on Fair Terms for the Disadvantaged”, *British Journal of Political Science,* 53(2):613–628. doi:10.1017/S0007123422000412
 
 [^knight-2022]: Knight, Carl, 2022, “Enough Is Too Much: The Excessiveness Objection to Sufficientarianism”, *Economics and Philosophy*, 38(2): 275–299. doi:10.1017/S0266267121000171
 

@@ -9,7 +9,7 @@ There is an extensive literature on time travel in both philosophy and physics. 
 
 There is a number of rather different scenarios which would seem, intuitively, to count as ‘time travel’—and a number of scenarios which, while sharing certain features with some of the time travel cases, seem nevertheless not to count as genuine time travel:[^note-1]
 
-> Time travel
+> **Time travel**
 >
 > - *Doctor*. Doctor Who steps into a machine in 2024. Observers outside the machine see it disappear. Inside the machine, time seems to Doctor Who to pass for ten minutes. Observers in 1984 (or 3072) see the machine appear out of nowhere. Doctor Who steps out.[^note-2]
 > - *Leap*. The time traveller takes hold of a special device (or steps into a machine) and suddenly disappears; she appears at an earlier (or later) time. Unlike in *Doctor*, the time traveller experiences no lapse of time between her departure and arrival: from her point of view, she instantaneously appears at the destination time.[^note-3]
@@ -17,7 +17,7 @@ There is a number of rather different scenarios which would seem, intuitively, t
 > - *Gödel*. The time traveller steps into an ordinary rocket ship (not a special time machine) and flies off on a certain course. At no point does she disappear (as in *Leap*) or ‘turn back in time’ (as in *Putnam*)—yet thanks to the overall structure of spacetime (as conceived in the General Theory of Relativity), the traveller arrives at a point in the past (or future) of her departure. (Compare the way in which someone can travel continuously westwards, and arrive to the east of her departure point, thanks to the overall curved structure of the surface of the earth.)[^note-5]
 > - *Einstein*. The time traveller steps into an ordinary rocket ship and flies off at high speed on a round trip. When he returns to Earth, thanks to certain effects predicted by the Special Theory of Relativity, only a very small amount of time has elapsed for him—he has aged only a few months—while a great deal of time has passed on Earth: it is now hundreds of years in the future of his time of departure.[^note-6]
 >
-> Not time travel
+> **Not time travel**
 >
 > - *Sleep*. One is very tired, and falls into a deep sleep. When one awakes twelve hours later, it seems from one’s own point of view that hardly any time has passed.
 > - *Coma*. One is in a coma for a number of years and then awakes, at which point it seems from one’s own point of view that hardly any time has passed.

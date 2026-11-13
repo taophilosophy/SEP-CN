@@ -1290,7 +1290,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^darwin-1859]: Darwin, Charles, 1859, *On the Origin of Species*, London: John Murray.
 
-[^davidson-2016]: Davidson, Diane W., Alexey Kopchinskiy, Kamariah Abu Salim, Marica Grujic, Linda Lim, Chan Chin Mei, Tappey H. Jones, Dale Casamatta, Lea Atanasova, and Irina S. Druzhinina, 2016, “Nutrition of Borneo’s ‘exploding’ Ants (Hymenoptera: Formicidae: Colobopsis) A Preliminary Assessment”, *Biotropica*48(4): 518–527.
+[^davidson-2016]: Davidson, Diane W., Alexey Kopchinskiy, Kamariah Abu Salim, Marica Grujic, Linda Lim, Chan Chin Mei, Tappey H. Jones, Dale Casamatta, Lea Atanasova, and Irina S. Druzhinina, 2016, “Nutrition of Borneo’s ‘exploding’ Ants (Hymenoptera: Formicidae: Colobopsis) A Preliminary Assessment”, *Biotropica* 48(4): 518–527.
 
 [^dawkins-1976]: Dawkins, Richard, 1976, *The Selfish Gene*, Oxford: Oxford University Press.
 
@@ -1502,7 +1502,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^grafen-2006]: –––, 2006, “Optimization of Inclusive Fitness”, *Journal of Theoretical Biology*, 238(3): 541–563. doi:10.1016/j.jtbi.2005.06.009
 
-[^grafen-2009]: –––, 2009, “Formalizing Darwinism and Inclusive Fitness Theory”, *Philosophical Transactions of the Royal Society B: Biological Sciences*364 (1533): 3135–3141.
+[^grafen-2009]: –––, 2009, “Formalizing Darwinism and Inclusive Fitness Theory”, *Philosophical Transactions of the Royal Society B: Biological Sciences* 364 (1533): 3135–3141.
 
 [^grant-1989]: Grant, B. Rosemary and Peter R. Grant, 1989, *Evolutionary Dynamics of a Natural Population: The Large Cactus Finch of the Galápagos*, Chicago, IL: University of Chicago Press.
 
@@ -2062,7 +2062,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^veelen-2009a]: van Veelen, Matthijs, 2009a, “Group Selection, Kin Selection, Altruism, and Cooperation: When Inclusive Fitness is Right and When it Can be Wrong”, *Journal of Theoretical Biology*, 259(3): 589–600. doi:10.1016/j.jtbi.2009.04.019
 
-[^veelen-2009b]: –––, 2009b, “Does it Pay to be Good? Competing Evolutionary Explanations of Pro-Social Behaviour”, *The Moral Brain: Essays on the Evolutionary and Neuroscientific Aspects of Morality,*185–200.
+[^veelen-2009b]: –––, 2009b, “Does it Pay to be Good? Competing Evolutionary Explanations of Pro-Social Behaviour”, *The Moral Brain: Essays on the Evolutionary and Neuroscientific Aspects of Morality,* 185–200.
 
 [^veelen-2012]: van Veelen, Matthijs, Julián García, Maurice W. Sabelis, and Martijn Egas, 2012, “Group Selection and Inclusive Fitness Are Not Equivalent; the Price Equation vs. Models and Statistics”, *Journal of Theoretical Biology*, 299(April): 64–80. doi:10.1016/j.jtbi.2011.07.025
 
@@ -2100,7 +2100,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^wade-1985]: –––, 1985, “Soft Selection, Hard Selection, Kin Selection, and Group Selection”, *The American Naturalist*, 125(1): 61–73. doi:10.1086/284328
 
-[^wade-1994]: –––, 1994, “The Biology of the Imported Willow Leaf Beetle, Plagiodera versicolora (Laicharting)”, *Novel Aspects of the Biology of Chrysomelidae:*541–547.
+[^wade-1994]: –––, 1994, “The Biology of the Imported Willow Leaf Beetle, Plagiodera versicolora (Laicharting)”, *Novel Aspects of the Biology of Chrysomelidae:* 541–547.
 
 [^wade-1995]: –––, 1995, “The Ecology of Sexual Selection: Mean Crowding of Females and Resource-Defence Polygyny”, *Evolutionary Ecology*, 9(1): 118–124. doi:10.1007/BF01237701
 
@@ -2138,7 +2138,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^walsh-2002]: Walsh, Denis M., Tim Lewens, and André Ariew, 2002, “The Trials of Life: Natural Selection and Random Drift”, *Philosophy of Science*, 69(3): 452–473. doi:10.1086/342454
 
-[^warrener-2023]: Warrener, Anna, 2023, “The Multifactor Pelvis: An Alternative to the Adaptationist Approach of the Obstetrical Dilemma”, *Evolutionary Anthropology: Issues, News, and Reviews*32 (5): 260–274.
+[^warrener-2023]: Warrener, Anna, 2023, “The Multifactor Pelvis: An Alternative to the Adaptationist Approach of the Obstetrical Dilemma”, *Evolutionary Anthropology: Issues, News, and Reviews* 32 (5): 260–274.
 
 [^waters-1986]: Waters, C. Kenneth, 1986, “Models of Natural Selection from Darwin to Dawkins”, Ph.D. dissertation, Indiana University.
 
@@ -2226,7 +2226,7 @@ It should be noted here that the introduction of this continuum leaves untouched
 
 [^wright-1980]: –––, 1980, “Genic and Organismic Selection”, *Evolution*, 34(5): 825–843. doi:10.1111/j.1558-5646.1980.tb04022.x
 
-[^wright-1984]: –––, 1984, *Evolution and the Genetics of Populations, Volume 4: Variability Within and Among Natural Populations,*Chicago: Chicago University Press.
+[^wright-1984]: –––, 1984, *Evolution and the Genetics of Populations, Volume 4: Variability Within and Among Natural Populations,* Chicago: Chicago University Press.
 
 [^wynne-edwards-1962]: Wynne-Edwards, Vero Copner, 1962, *Animal Dispersion in Relation to Social Behavior*, Edinburgh: Oliver and Boyd.
 

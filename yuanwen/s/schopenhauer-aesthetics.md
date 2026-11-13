@@ -309,7 +309,7 @@ aesthetics: aesthetic judgment | aesthetics: German, in the 18th century | Arist
 
 [^nietzsche-1967]: –––, 1967 [1872], *The Birth of Tragedy*, Walter Kaufmann (trans.), New York: Random House.
 
-[^nietzsche-1998]: –––, 1998, [1887], *On the Genealogy of Morality*, M. Clark & A. Swenson (trans.), Indianapolis: Hackett. [Cited as GM.]
+[^nietzsche-1998]: –––, 1998, [1887], *On the Genealogy of Morality*, M. Clark & A. Swenson (trans.), Indianapolis: Hackett. [Cited as **GM**.]
 
 [^norman-2017]: Norman, Judith, 2017, “Music and Pessimism,” in S. Shapshay (ed.) *The Palgrave Schopenhauer Handbook*, London: Palgrave Macmillan, 197-212.
 

@@ -229,13 +229,13 @@ Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval t
 
 [^card-2007]: Card, Robert F., 2007, “Conscientious Objection and Emergency Contraception”, *The American Journal of Bioethics*, 7(6): 8–14.
 
-[^card-2020]: –––, 2020, A*New Theory of Conscientious Objection in Medicine. Justification and Reasonability*, New York: Routledge.
+[^card-2020]: –––, 2020, A *New Theory of Conscientious Objection in Medicine. Justification and Reasonability*, New York: Routledge.
 
 [^childress-1979]: Childress, James F., 1979, “Appeals to conscience”, *Ethics*, 89(4): 315–355.
 
 [^clarke-2014]: Clarke, Steve, 2014, *The Justification of Religious Violence*, Chichester: Wiley Blackwell.
 
-[^cox-2013]: Cox, Damian, Marguerite La Caze, and Michael Levine, 2013, “Integrity”, *The Stanford Encyclopedia of Philosophy*(Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2013/entries/integrity/](https://plato.stanford.edu/archives/fall2013/entries/integrity/)>.
+[^cox-2013]: Cox, Damian, Marguerite La Caze, and Michael Levine, 2013, “Integrity”, *The Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2013/entries/integrity/](https://plato.stanford.edu/archives/fall2013/entries/integrity/)>.
 
 [^d’arcy-1961]: D’Arcy, Eric, 1961, *Conscience and its right to freedom*, New York: Sheed and Ward.
 
@@ -305,7 +305,7 @@ Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval t
 
 [^mcguire-1963]: McGuire, Martin C., 1963, “On conscience”, *Journal of Philosophy*, 60(10): 253–263.
 
-[^mcleod-2020]: McLeod, Carolyn, 2020, *Conscience in Reproductive Health Care. Prioritizing the Patient,*New York: Oxford University Press.
+[^mcleod-2020]: McLeod, Carolyn, 2020, *Conscience in Reproductive Health Care. Prioritizing the Patient,* New York: Oxford University Press.
 
 [^meyers-1996]: Meyers, Christopher and Robert D. Woods, 1996, “An obligation to provide abortion services: what happens when physicians refuse?”, *Journal of Medical Ethics*, 22(2): 115–120.
 

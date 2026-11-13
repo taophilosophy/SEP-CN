@@ -29,7 +29,7 @@ Some of William's later works have also been identified. Although no editions ha
 
 ## 2. Universals
 
-The history of philosophy remembers William for his two theories of universals, material essence realism and indifference realism. These theories emerge from the writings of Peter Abelard, where they are paired with Abelard's decisive arguments against them. Indeed, Abelard's critique was so powerful that when John of Salisbury wrote his famous catalogue of twelfth-century theories of universals, William is not even mentioned (*Metalogicon* II 17-20; Abelard LI Por.: 10-16, trans. Spade 1994: 29-37; see also John of Salisbury, Peter Abelard, and King 2004)[^king-2004][^spade-1994]
+The history of philosophy remembers William for his two theories of universals, **material essence realism** and **indifference realism**. These theories emerge from the writings of Peter Abelard, where they are paired with Abelard's decisive arguments against them. Indeed, Abelard's critique was so powerful that when John of Salisbury wrote his famous catalogue of twelfth-century theories of universals, William is not even mentioned (*Metalogicon* II 17-20; Abelard LI Por.: 10-16, trans. Spade 1994: 29-37; see also John of Salisbury, Peter Abelard, and King 2004)[^king-2004][^spade-1994]
 
 Material essence realism proposes that there are ten most general things or essences: one most general thing corresponding to each of Aristotle's ten categories. These essences are universal things:
 
@@ -49,7 +49,7 @@ The words ‘one’ and ‘same’ are ambiguous, William says: "when I say Plat
 
 > We call them the same in that they are men [*in hoc quod sunt homines*], [‘same’] pertaining with regard to humanity. Just as one is rational, so is the other; just as one is mortal, so is the other. But if we wanted to make a true confession, it is not the same humanity in each one, but a similar [humanity], since they are two men. (Sen 236.115-120)
 
-So, although Plato and Socrates have no common material—matter, form, or universal essence—they are still said to be the same because they do not differ. This leads to the claim that Abelard finds so disturbing. Each individual is both universal and particular:
+So, although Plato and Socrates have no common material—matter, form, or universal essence—they are still said to be the same because they do not differ. This leads to the claim that Abelard finds so disturbing. Each individual is both universal **and** particular:
 
 > Those things which *per se* are considered many and wholly diverse in essence are one considered in general or specific nature. That is, they do not differ in being man (*esse* *hominem*).
 >
@@ -131,7 +131,9 @@ In the Introductions, William calls loci "words" [*voces*], but they are words d
 
 In categorical syllogisms, William introduces the locus from subject, predicate, both subject and predicate, and from the whole (ISW II 2.2; IGP I 8ff; see Stump 1989: 117ff)[^stump-1989]. Thus, the argument
 
-> All men are animals No animal is a stone Therefore, no man is a stone
+> All men are animals
+> No animal is a stone
+> Therefore, no man is a stone
 
 is warranted by the locus from the predicate. The predicate of the first sentence is the link or medium between the extreme terms in the conclusion. In this case, *animal* (presumably the universal thing itself) is the locus or seat of the argument. The rule is, if something is predicated of some subject universally, then whatever is removed universally from the predicate is removed universally from the subject (William provides a lengthy set of rules describing the logical relations that hold between subjects and predicates). As described above, William holds that such maximal propositions contain the sense of those propositions that fall under them. The rule contains sentences signifying the relations between man and animal and between animal and stone (IGP I 8.4). The relations of *animal* to the extremes warrant the inference.
 

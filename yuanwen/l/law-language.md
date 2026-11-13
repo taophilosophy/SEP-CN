@@ -379,7 +379,7 @@ Thanks for research assistance by Mikolaj Barczentewicz, and for helpful comment
 
 [^marmor-2014]: –––, 2014, *The Language of Law*, Oxford: Oxford University Press.
 
-[^poggi-2011]: Poggi, Francesca, 2011, “Law and Conversational Implicatures,” *International Journal for the Semiotics of Law*, 24:21–40.
+[^poggi-2011]: Poggi, Francesca, 2011, “Law and Conversational Implicatures,” *International Journal for the Semiotics of Law* , 24:21–40.
 
 [^pintore-1997]: Pintore, Anna, and Jori, Mario, 1997, *Law and Language: the Italian Analytical School*, Liverpool: Deborah Charles.
 

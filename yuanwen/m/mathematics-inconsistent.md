@@ -51,7 +51,7 @@ More recently, inconsistent mathematical descriptions have been obtained for sev
 
 This raises another interesting issue. Ever since Euclid, the method of reductio ad absurdum has been thoroughly exploited in geometrical proofs (assume he opposite of what you want to prove and deduce a contradiction). But here we have a different technique (employ a contradiction to describe how inconsistent figures look, to demonstrate that the content is genuinely contradictory). If successful, this is a demonstration that human conceptualisation exceeds the merely possible (consistent). For discussion see Mortensen (2019, 2022).
 
-One more point: do these geometrical paradoxes lend support to full dialetheism? The answer is no. If you can draw a contradictory picture then *something*exists that is inconsistent. And, distinct inconsistent figures imply distinctions between types of contradictions which ECQ does not permit. But this should not be pushed too far. Nothing says that because a picture has a content, that content must somehow be *true*: many pictures are fictional in content. For more on this theme see Mortensen (2019a).
+One more point: do these geometrical paradoxes lend support to full dialetheism? The answer is no. If you can draw a contradictory picture then *something* exists that is inconsistent. And, distinct inconsistent figures imply distinctions between types of contradictions which ECQ does not permit. But this should not be pushed too far. Nothing says that because a picture has a content, that content must somehow be *true*: many pictures are fictional in content. For more on this theme see Mortensen (2019a).
 
 ## 5. Chunk and Permeate
 

@@ -751,7 +751,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^gold-1996]: Gold, M.R., J.E. Siegel, L.B. Russell, and M.C. Weinstein (eds.), 1996 *Cost-Effectiveness in Health and Medicine*, New York: Oxford University Press.
 
-[^goldberg-2013]: Goldberg, D., and Puhl, R, 2013, “Obesity Stigma: A Failed and Ethically Dubious Strategy,” *Hastings Center Report*(May-June) 2013, 43 (3): 5–6
+[^goldberg-2013]: Goldberg, D., and Puhl, R, 2013, “Obesity Stigma: A Failed and Ethically Dubious Strategy,” *Hastings Center Report* (May-June) 2013, 43 (3): 5–6
 
 [^goodin-1990]: Goodin, R., 1990, *No Smoking: The Ethical Issues*, Chicago: Chicago University Press.
 
@@ -829,7 +829,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^jones-2007]: Jones, M. M., and R. Bayer, 2007, “Paternalism & Its Discontents: Motorcycle Helmet Laws, Libertarian Values, and Public Health,” *American Journal of Public Health*, 97 (2):208–217.
 
-[^jonsen-1986]: Jonsen, A., 1986, “Bentham in a Box: Technology Assessment and Healthcare Allocation” *Law, Medicine, and Healthcare*Sep 14 (3–4): 172–174.
+[^jonsen-1986]: Jonsen, A., 1986, “Bentham in a Box: Technology Assessment and Healthcare Allocation” *Law, Medicine, and Healthcare* Sep 14 (3–4): 172–174.
 
 [^kamm-2007]: Kamm, F., 2007, *Intricate Ethics, Rights, Responsibilities, and Permissible Harms*, New York: Oxford University Press.
 
@@ -859,7 +859,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^latham-2016]: Latham, S.R., 2016, “Political Theory, Values, and Public Health,” *Public Health Ethics*, 9 (2): 139–149.
 
-[^lee-2012]: Lee, L., 2012, “Public Health Ethics Theory: Paths to Convergence,”*Journal of Law, Medicine and Ethics*Spring: 85–98.
+[^lee-2012]: Lee, L., 2012, “Public Health Ethics Theory: Paths to Convergence,” *Journal of Law, Medicine and Ethics* Spring: 85–98.
 
 [^lee-2012-2]: Lee, L., C. Heilig, and A. White, (2012), “Ethical Justification for Conducting Public Health Surveillance Without Patient Consent,” *American Journal of Public Health*, 102 (1): 38–44.
 
@@ -951,7 +951,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^omer-2009]: Omer, S. B., D. A. Salmon, W. A. Orenstein, M. P. deHart, and N. Halsey, 2009, “Vaccine Refusal, Mandatory Immunization, and the Risks of Vaccine-Preventable Diseases,” *The New England Journal of Medicine*, 360 (19): 1981–1988.
 
-[^o’neill-nd]: O’Neill, O., “Public Health or Clinical Ethics: Thinking Beyond Borders,” *Ethics and International Affairs*16 (2): 35–45.
+[^o’neill-nd]: O’Neill, O., “Public Health or Clinical Ethics: Thinking Beyond Borders,” *Ethics and International Affairs* 16 (2): 35–45.
 
 [^orenstein-1999]: Orenstein, W. A., and A. R. Hinman, 1999, “The Immunization System in the United States – The Role of School Immunization Laws,” *Vaccine*, 17 (Supplement 3): S19–S24.
 
@@ -1129,7 +1129,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^venkatapuram-2019]: –––, 2019, “Health Disparities and the Social Determinants of Health,” in *The Oxford Handbook of Public Health Ethics*, ed. Mastroianni, A.C., J.P. Kahn, N.E. Kass. New York: Oxford University Press.
 
-[^verweij-nd]: Verweij, M., “How (Not) to Argue for the Rule of Rescue: Claims of Individuals versus Group Solidarity,”*Identified versus Statistical Lives: An Interdisciplinary Perspective*, *Identified versus Statistical Lives: An Interdisciplinary Perspective*, Cohen, G., N. Daniels, and N. Eyal (eds.), New York: Oxford University Press: pp. 137–149.
+[^verweij-nd]: Verweij, M., “How (Not) to Argue for the Rule of Rescue: Claims of Individuals versus Group Solidarity,” *Identified versus Statistical Lives: An Interdisciplinary Perspective*, *Identified versus Statistical Lives: An Interdisciplinary Perspective*, Cohen, G., N. Daniels, and N. Eyal (eds.), New York: Oxford University Press: pp. 137–149.
 
 [^verweij-2007]: Verweij, M., and A. Dawson, 2007, “The Meaning of ‘Public’ in Public Health,” in Dawson, A. and M. Verweij, (eds.), *Ethics, Prevention and Public Health*, Oxford: Oxford University Press.
 

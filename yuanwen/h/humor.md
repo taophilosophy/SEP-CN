@@ -49,7 +49,10 @@ With these comments of Hobbes and Descartes, we have a sketchy psychological the
 
 In the 18ᵗʰ century, the dominance of the Superiority Theory began to weaken when Francis Hutcheson (1750) wrote a critique of Hobbes’ account of laughter. Feelings of superiority, Hutcheson argued, are neither necessary nor sufficient for laughter. In laughing, we may not be comparing ourselves with anyone, as when we laugh at odd figures of speech like those in this poem about a sunrise:
 
-> The sun, long since, had in the lap Of Thetis taken out his nap; And like a lobster boil’d, the morn From black to red began to turn.
+> The sun, long since, had in the lap
+> Of Thetis taken out his nap;
+> And like a lobster boil’d, the morn
+> From black to red began to turn.
 
 If self-comparison and sudden glory are not necessary for laughter, neither are they sufficient for laughter. Hutcheson says that we can feel superior to lower animals without laughing, and that “some ingenuity in dogs and monkeys, which comes near to some of our own arts, very often makes us merry; whereas their duller actions in which they are much below us, are no matter of jest at all.” He also cites cases of pity. A gentleman riding in a coach who sees ragged beggars in the street, for example, will feel that he is better off than they, but such feelings are unlikely to amuse him. In such situations, “we are in greater danger of weeping than laughing.”
 
@@ -77,7 +80,10 @@ Laughter releases nervous energy, too, Spencer says, but with this important dif
 
 The nervous energy relieved through laughter, according to Spencer, is the energy of emotions that have been found to be inappropriate. Consider this poem entitled “Waste” by Harry Graham (2009):
 
-> I had written to Aunt Maud Who was on a trip abroad When I heard she’d died of cramp, Just too late to save the stamp.
+> I had written to Aunt Maud
+> Who was on a trip abroad
+> When I heard she’d died of cramp,
+> Just too late to save the stamp.
 
 Reading the first three lines, we might feel pity for the bereaved nephew writing the poem. But the last line makes us reinterpret those lines. Far from being a loving nephew in mourning, he turns out to be an insensitive cheapskate. So the nervous energy of our pity, now superfluous, is released in laughter. That discharge occurs, Spencer says, first through the muscles “which feeling most habitually stimulates,” the muscles of the vocal tract. If still more energy needs to be relieved, it spills over to the muscles connected with breathing, and if the movements of those muscles do not release all the energy, the remainder moves the arms, legs, and other muscle groups (304).
 
@@ -97,7 +103,8 @@ Having sketched several versions of the Relief Theory, we can note that today al
 
 Funny things and situations may evoke emotions, but many seem not to. Consider P. G. Wodehouse’s line “If it’s feasible, let’s fease it.” Or the shortest poem in the English language, by Strickland Gillilan (1927), “Lines on the Antiquity of Microbes”:
 
-> Adam Had’em.
+> Adam
+> Had’em.
 
 These do not seem to vent emotions that had built up before we read them, and they do not seem to summon emotions and then render them superfluous. So whatever energy is expended in laughing at them does not seem to be superfluous energy being vented. In fact, the whole hydraulic model of the nervous system on which the Relief Theory is based seems outdated.
 

@@ -756,7 +756,7 @@ This entry has benefited from the help of a number of readers and correspondents
 
 [^frischmann-2019]: Frischmann, Brett, Alain Marciano, and Giovanni Ramello, 2019, “Retrospectives: Tragedy of the commons after 50 years,” *Journal of Economic Perspectives*, 33: 211–228.
 
-[^fudenberg-1986]: Fudenberg, Drew and David Levine, 1986, “Limit Games and Limit Equilibria,” *Journal of Economic Theory*, 261–279.
+[^fudenberg-1986]: Fudenberg, Drew and David Levine, 1986, “Limit Games and Limit Equilibria,” *Journal of Economic Theory* , 261–279.
 
 [^fudenberg-1986-2]: Fudenberg, Drew, and Eric Maskin, 1986, “The Folk Theorem in Repeated Games with Discounting or with Incomplete Information,” *Econometrica* 54, 533–554.
 
@@ -882,7 +882,7 @@ This entry has benefited from the help of a number of readers and correspondents
 
 [^rabinowicz-1998]: Rabinowicz, Wlodek, 1998, “Grappling with the Centipede: Defense of Backward Induction for BI-Terminating Games,” *Economics and Philosophy*, 14: 95–126.
 
-[^radner-1986]: Radner, Roy 1986, “Can Bounded Rationality Resolve the Prisoner’s Dilemma,” in *Essays in honor of Gerard Debreu*, Elsevier, 387–399.
+[^radner-1986]: Radner, Roy 1986, “Can Bounded Rationality Resolve the Prisoner’s Dilemma,” in *Essays in honor of Gerard Debreu* , Elsevier, 387–399.
 
 [^raiffa-1992]: Raiffa, Howard 1992, “Game Theory at the University of Michigan, 1948-1952,” *Toward a History of Game Theory*, (Annual Supplement to Volume 24, *History of Political Economy*), E. Roy Weintraub, editor, Duke University Press, Durham: 165–175.
 

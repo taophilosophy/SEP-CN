@@ -406,7 +406,8 @@ The proof of this version of de Jongh’s Theorem does not need realizability; c
 
 Without claiming that number-realizability coincides with intuitionistic arithmetical truth, Nelson observed that for each formula $A$ of $L(\mathbf{HA})$ the predicate “$y$ realizes $A$” can be expressed in $\mathbf{HA}$ by another formula (abbreviated “$y \realizesrel A$”), and the schema $A \leftrightarrow \exists y (y \realizesrel A)$ is consistent with $\mathbf{HA}.$ Troelstra [1973] showed that $(A \leftrightarrow \exists y (y \realizesrel A))$ is *equivalent* over $\mathbf{HA}$ to “extended Church’s Thesis” ECT, a stronger version of CT enabling recursive choice under assumptions which are “almost negative” (containing no $\vee,$ and with $\exists x$ only applied to prime formulas). While $\mathbf{HA}$ is sound but not complete for Kleene’s number-realizability, the next theorem shows that $\mathbf{HA}$ + ECT is both sound and complete for this interpretation.
 
-> **Troelstra’s Characterization Theorem (for number-realizability over $\mathbf{HA}$) [1973]** If $A$ is a closed formula of the language $L(\mathbf{HA}),$ then:
+> **Troelstra’s Characterization Theorem (for number-realizability over $\mathbf{HA}$) [1973]**
+> If $A$ is a closed formula of the language $L(\mathbf{HA}),$ then:
 >
 > 1. $\mathbf{HA}$ + ECT $\vdash$ $(A \leftrightarrow \exists y (y \realizesrel A)).$
 > 2. $\mathbf{HA}$ + ECT $\vdash$ $A$ if and only if $\mathbf{HA}$ $\vdash$ $\exists y (y \realizesrel A).$

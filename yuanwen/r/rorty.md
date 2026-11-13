@@ -282,7 +282,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^dieleman-2022]: Dieleman, S., D. E. McClean, and P. Showler (eds.), 2022, *The Ethics of Richard Rorty: Moral Communities, Self-Transformation, and Imagination*, New York and London: Routledge.
 
-[^goodson-2020]: Goodson, J. L., 2020, *The Dark Years? Philosophy, Politics, and the Problem of Predictions,*Eugene, OR: Cascade Books.
+[^goodson-2020]: Goodson, J. L., 2020, *The Dark Years? Philosophy, Politics, and the Problem of Predictions,* Eugene, OR: Cascade Books.
 
 [^goodson-2012]: Goodson, J. L., and B. E. Stone (eds.), 2012, *Rorty and the Religious: Christian Engagements with a Secular Philosopher*, Eugene, OR: Wipf and Stock Publishers.
 
@@ -294,7 +294,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^langsdorf-1995]: Langsdorf, L., and A. R. Smith (eds.), 1995, *Recovering Pragmatism’s Voice: The Classical Tradition, Rorty, and the Philosophy of Communication*, Albany: State University of New York Press.
 
-[^marchetti-2022]: Marchetti, G. (ed.), 2022, *The Ethics, Epistemology, and Politics of Richard Rorty.*New York and London: Routledge.
+[^marchetti-2022]: Marchetti, G. (ed.), 2022, *The Ethics, Epistemology, and Politics of Richard Rorty.* New York and London: Routledge.
 
 [^malachowski-1990]: Malachowski, A. R. (ed.), 1990, *Reading Rorty: Critical Responses to Philosophy and the Mirror of Nature and Beyond*, Oxford and Cambridge, MA: Blackwell.
 
@@ -306,7 +306,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^pettegrew-2000]: Pettegrew, J. (ed.), 2000, *A Pragmatist’s Progress?: Richard Rorty and American Intellectual History*, Lanham, MD: Roman & Littlefield.
 
-[^rondel-2021]: Rondel, D. (ed.), 2021, *The Cambridge Companion to Rorty.*New York: Cambridge University Press.
+[^rondel-2021]: Rondel, D. (ed.), 2021, *The Cambridge Companion to Rorty.* New York: Cambridge University Press.
 
 [^saatkamp-1995-2]: Saatkamp, H. J. (ed.), 1995, *Rorty and Pragmatism: The Philosopher Responds to His Critics*, Nashville, TN: Vanderbilt University Press.
 
@@ -314,7 +314,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^bacon-2007]: Bacon, M, 2007, *Richard Rorty: Pragmatism and Political Liberalism*, Lanham and Plymouth: Lexington Books.
 
-[^calcaterra-2019]: Calcaterra, R. M., 2019, *Contingency and Normativity: The Challenges of Richard Rorty,*Boston: Brill-Rodopi.
+[^calcaterra-2019]: Calcaterra, R. M., 2019, *Contingency and Normativity: The Challenges of Richard Rorty,* Boston: Brill-Rodopi.
 
 [^calder-2007]: Calder, G., 2007, *Rorty’s Politics of Redescription*, Cardiff: University of Wales Press.
 
@@ -348,7 +348,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^voparil-2006]: Voparil, C. J., 2006, *Richard Rorty: Politics and Vision*, Lanham: Rowman and Littlefield.
 
-[^voparil-2022]: –––, 2022, *Reconstructing Pragmatism: Richard Rorty and the Classical Pragmatists.*New York: Oxford University Press.
+[^voparil-2022]: –––, 2022, *Reconstructing Pragmatism: Richard Rorty and the Classical Pragmatists.* New York: Oxford University Press.
 
 [^alexander-1987]: Alexander, T. M., 1987, *John Dewey’s Theory of Art, Experience, and Nature: The Horizons of Feeling*, Albany: State University of New York Press.
 

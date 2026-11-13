@@ -26,7 +26,13 @@ One touchstone of Hobbes’s account is his materialist psychology. Criticizing 
 
 As in other areas of his thought, Hobbes puts great stock in definitions and taxonomy for the passions. Here, however, the texts differ somewhat (Pacchi 1987). For instance, the *Elements of Law* starts with the passion of “glory,” followed by a long list of passions divided (more or less) into contraries, in a way that seems indebted to Aristotle’s *Rhetoric*. To these, Hobbes adds such distinctively modern passions as “admiration” and its opposite, “contempt,” while allowing many passions to be compounds, e.g., of joy and grief. Hobbes also distinguishes between passions directed at past and present objects, and those directed at future ones; only the last are the passions of the mind. In general, Hobbes seems more interested in defining each passion, and placing it relative to its “opposite” than in generating a well-ordered taxonomy from the top down. But Chapter 9 of the *Elements* concludes with Hobbes’s famous list of passions, and related motions organized as moments in a footrace:
 
-> To endeavour is appetite To be remiss is sensuality. To consider them behind is glory. To consider them before is humility … Continually to be out-gone is misery. Continually to out-go the next before is felicity. And to forsake the course is to die. (*Elements of Law* 9.21)
+> To endeavour is appetite
+> To be remiss is sensuality.
+> To consider them behind is glory.
+> To consider them before is humility …
+> Continually to be out-gone is misery.
+> Continually to out-go the next before is felicity.
+> And to forsake the course is to die. (*Elements of Law* 9.21)
 
 On the other hand, chapter 6 of *Leviathan* shows many similarities to Descartes, particularly in its identification of six “simple” passions. These are not primary; appetite and aversion are the primary drives, to which Hobbes adds “contempt” as a neutral middle. The simples can be compounded in innumerable ways to produce new passions; Hobbes lists some thirty or so passions, which are just the simple passions modified by diverse considerations. The list is not exhaustive, but it does show how widely Hobbes tosses his nets: “passions” include everything from ephemeral states (e.g., “sudden glory” causing laughter), to moods (e.g., confidence and diffidence), to character traits and dispositions (e.g., good nature, covetousness and impudence).
 

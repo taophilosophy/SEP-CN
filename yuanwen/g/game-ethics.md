@@ -189,7 +189,7 @@ One might think that a natural solution to the Wine Problem is for Claudia and L
 | *M* | $(\frac{1}{2},0)$ | $(\frac{1}{2},\frac{1}{2})$ | $({-1},{-1})$ |   |
 | *H* | $(1,0)$ | $({-1},{-1})$ | $({-1},{-1})$ |   |
 
-*D*= dove (claim none), *M* = moderate (claim half), *H* = hawk (claim all)
+*D* = dove (claim none), *M* = moderate (claim half), *H* = hawk (claim all)
 
 Figure 8. Extended Wine Problem
 

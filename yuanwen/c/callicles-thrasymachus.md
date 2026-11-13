@@ -11,7 +11,12 @@ What exactly is it that both Thrasymachus and Callicles reject? Greek handily di
 
 Hesiod also sets out the origins, authority, and rewards of justice. Here he is explicit:[^note-4]
 
-> The son of Kronos [i.e., Zeus] has set down this law [*nomos*] for human beings: Fish and animals and winged birds Eat each other, since there is no justice [*dikê*] among them. But to humans he has given justice [*dikê*], which turns out the best By far. And if one knows and is willing to proclaim what is just [*ta dikaia*], Zeus far-sounding gives him wealth. (*Works and Days* 276–81)
+> The son of Kronos [i.e., Zeus] has set down this law [*nomos*] for human beings:
+> Fish and animals and winged birds
+> Eat each other, since there is no justice [*dikê*] among them.
+> But to humans he has given justice [*dikê*], which turns out the best
+> By far. And if one knows and is willing to proclaim what is just [*ta dikaia*],
+> Zeus far-sounding gives him wealth. (*Works and Days* 276–81)
 
 Justice derives from *nomos* in the sense of a divinely ordained Law; and Hesiod emphasises that Zeus’ laws are enforced. Punishment may not be visited directly on the unjust individual, however: rather, a whole city suffers for the injustice of its leaders, and retribution may fall on a man’s descendants. Moreover, Hesiod seems at one point to waver, and allows that if the wicked go unpunished, we would not have good reason to be just (270–3). Doubts about the reliability of divine rewards and punishments are later an important part of the motivation for the immoralist challenge; in *Republic* Book II, Adeimantus complains that the poets are inconsistent on this point, and anyway the rewards and punishments they promise do not show what is good and bad about justice and injustice in themselves (362d–367e).
 

@@ -41,7 +41,7 @@ To express the logic, a Tarskian *consequence operator* will be used. Intuitivel
 
 *Monotony*: If $A\subseteq B$, then $\Cn(A) \subseteq \Cn(B)$
 
-*Iteration (transitivity)*: $\Cn(A) = \Cn(\Cn(A))$
+*Iteration (transitivity)* : $\Cn(A) = \Cn(\Cn(A))$
 
 $\Cn$ is assumed to be supraclassical, i.e. if $p$ can be derived from $A$ by classical truth-functional logic, then $p \in \Cn(A)$. $A$ is a belief set if and only if $A = \Cn(A)$. In what follows, $K$ will denote a belief set. $X \vdash p$ is an alternative notation for $p \in \Cn(X)$, and $X \not\vdash p$ for $p \not\in \Cn(X)$. $\Cn(\varnothing)$ is the set of tautologies.
 

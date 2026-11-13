@@ -11,7 +11,7 @@
 | Unconditional Cooperator | **Cu** | Cooperates unconditionally. |
 | Unconditional Defector | **Du** | Defects unconditionally. |
 | Random | **Random** (=**C.5** or **R(.5,.5,.5)** or **S(.5,.5,.5,.5)** below) | Cooperates with probability one-half. |
-| Probability *p* Cooperator | Cp for $0\le$p$\le 1$ | Cooperates with fixed probably $p$. |
+| Probability *p* Cooperator | C**p** for $0\le$p$\le 1$ | Cooperates with fixed probably $p$. |
 | Tit for Tat | **TFT** (=**R(1,1,0)** or **S(1,0,1,0)** below) | Cooperates on the first round and imitates its opponent’s previous move thereafter. |
 | Suspicious Tit for Tat | **STFT** (=**R(0,1,0)** below) | Defects on the first round and imitates its opponent’s previous move thereafter. |
 | Generous Tit for Tat | **GTFT** (=**R(1,1,g(R,P,T,S))** below) | Cooprates on the first round and after its opponent cooperates. Following a defection, it cooperates with probability $g(R, P, T, S)= \min\{1-\frac{T-R}{R-S}, \frac{R-P}{T-P}\}$, where $R,$ $P,$ $T$ and $S$ are the reward, punishment, temptation and sucker payoffs. |

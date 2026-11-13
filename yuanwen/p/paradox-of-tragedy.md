@@ -95,7 +95,11 @@ In any case, it shouldn’t be disputed that sometimes we feel pleasure in virtu
 
 Other candidates for the hedonic return in enduring tragedy’s characteristic forms of distress include the pleasure of relief, once the unfolding of the story that sustains the distress has reached an end, and the pleasure of one’s sense of one’s comparative wellbeing in not being subject to the misfortunes of an aversive fiction’s protagonists (Lear 1988)[^lear-1988]. Lucretius identifies the general dynamic:
 
-> ’tis sweet To mark what evils we ourselves be spared; ’Tis sweet, again, to view the mighty strife Of armies battled yonder o’er the plains, Ourselves no sharers in the peril. (*De rerum natura* Book II, 5– 9).
+> ’tis sweet
+> To mark what evils we ourselves be spared;
+> ’Tis sweet, again, to view the mighty strife
+> Of armies battled yonder o’er the plains,
+> Ourselves no sharers in the peril. (*De rerum natura* Book II, 5– 9).
 
 See Dadlez (2004: 222) for the potentially broad scope of Hume’s reference to pleasure, where it is associated with a wide variety of distinct kinds of passions, including relief and hope.
 

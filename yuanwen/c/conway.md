@@ -91,7 +91,7 @@ Cambridge Platonists | Descartes, René | Hobbes, Thomas | Leibniz, Gottfried Wi
 
 [^becco-1975]: Becco, Anne, 1975, “AUX SOURCES DE LA MONADE: Paléographie Et Lexicographie Leibniziennes,” *Les Études Philosophiques*, 3, 279–294.
 
-[^bender-2022]: Bender, Sebastian, 2022, “Anne Conway’s Metaphysics of Change”, *History of Philosophy Quarterly,*39(1):21–44.
+[^bender-2022]: Bender, Sebastian, 2022, “Anne Conway’s Metaphysics of Change”, *History of Philosophy Quarterly,* 39(1):21–44.
 
 [^borcherding-2019a]: Borcherding, Julia, 2019a, “Nothing is Simply One Thing: Conway on Multiplicity in Causation and Cognition”, in *Causation and Cognition in Early Modern Philosophy*, Dominik Perler and Sebastian Bender (eds), (Routledge Studies in Seventeenth-Century Philosophy), London: Routledge, 123–144.
 

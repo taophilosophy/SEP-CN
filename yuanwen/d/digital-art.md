@@ -181,6 +181,7 @@ In each of these examples, users synchronize geographical locations with virtual
 
 On the playable nature of locative art, Miguel Sicart says,
 
+>
 > the data produced and used in smart cities should not necessarily be presented as a utility for citizens. It should be presented as a prop for play, as games but also as the source for toys and playgrounds. Data-rich cities can become playable cities, and, by becoming such, they can become more human, more inclusive spaces (Ackermann: 2016, 27)[^ackermann-2016].
 
 Once again, the process-oriented and performative nature of locative works is central to appreciating the spaces they create. In connection with the playability of locative media, locative projects are also modifiable and typically intended to be hackable by the public in the communities where they are displayed. While the terms “hacker” and “hacking” may carry negative connotations, in its original conception, the practice of hacking was meant to improve upon existing computer programs, acknowledging the achievements of both the original creator and subsequent revisionists (Levy:1984)[^levy-1984]. It is in this vein that locative projects are usually intended to change and improve over time given how users “play” with the data and inputs. In other words, local communities can play with these projects and even modify them, making locative works as relevant and reflective of the community as possible.

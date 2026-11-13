@@ -15,7 +15,8 @@ Much current work on the subject was sparked by a series of papers by JC Beall a
 
 How can two logics *which disagree about which arguments are valid* both be correct? One way would be if there were more than one property of validity (and so more than one interpretation of “valid”) where one of the logics captures validity in one sense, while its rival captures validity in another. Some pluralists elaborate on this by maintaining that natural language expressions like “follows from” are unsettled, vague, or ambiguous, and may be settled, made more precise, or disambiguated, in more than one way. The best-known version of this view is presented as the conjunction of two main theses (Beall & Restall 2006)[^beall-2006]. First, the Generalised Tarski Thesis:
 
-> **Generalised Tarski Thesis** (GTT): An argument is $\textrm{valid}_x$ if and only if in every $\textrm{case}_x$ in which the premises are true, so is the conclusion.
+> **Generalised Tarski Thesis** (GTT):
+> An argument is $\textrm{valid}_x$ if and only if in every $\textrm{case}_x$ in which the premises are true, so is the conclusion.
 
 Second, the thesis that the expression “$\textrm{case}_x$” in the GTT can be made more precise in at least two, equally acceptable, ways, resulting in different extensions for “valid”. For example, by “case” we might mean a first-order model of the kind used to define classical first-order consequence or instead we might mean a possible situation. Other alternatives include incomplete or inconsistent models, of the sort used in the model theory of intuitionistic and paraconsistent logics. Different choices for the interpretation of “case” will result in different precisifications of the GTT analysis of logical consequence, which may in turn result in different consequence relations (Beall & Restall 2006: 29–31)[^beall-2006]. Call this view “Case-Based Logical Pluralism”.
 

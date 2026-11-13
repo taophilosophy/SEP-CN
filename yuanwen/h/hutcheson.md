@@ -349,7 +349,7 @@ Large thanks are due to Si-won Song for invaluable research assistance. I would 
 
 [^essay-1728]: [*Essay*] 1728, *An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*, London; second edition 1730, London; third edition 1742, London. Page numbers are from the 2002, Aaron Garret (ed.), *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, Indianapolis: Liberty Fund. [[*Essay* 1742 [2002] available online](https://oll.libertyfund.org/title/garrett-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002)]
 
-[^essay-1730]: 1730, *De naturali hominum socialitate*, inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
+[^essay-1730]: 1730, *De naturali hominum socialitate* , inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
 
 [^essay-1742]: 1742, *Philosophiae Moralis Institutio Compendiaria*. Translated as *A Short Introduction to Moral Philosophy*, 1747.
 

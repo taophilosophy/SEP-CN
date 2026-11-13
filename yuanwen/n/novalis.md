@@ -161,25 +161,25 @@ The broader literary reception of Novalis’s fragments and poetical work across
 
 Fichte, Johann Gottlieb | Herder, Johann Gottfried von | hermeneutics | Kant, Immanuel | Schelling, Friedrich Wilhelm Joseph von | Schiller, Friedrich | Schlegel, August Wilhelm von | Schlegel, Friedrich | Schleiermacher, Friedrich Daniel Ernst
 
-[^hka-1960]: [HKA] *Novalis Schriften. Die Werke Friedrich von Hardenbergs* (*Historische-kritische Ausgabe*), second edition, 6 volumes (vol. 6 in 3 parts), Paul Kluckhohn, Richard Samuel, Gerhard Schulz, and Hans-Joachim Mähl (eds.), Stuttgart: Kohlhammer Verlag, 1960–2006.
+[^hka-1960]: [**HKA**] *Novalis Schriften. Die Werke Friedrich von Hardenbergs* (*Historische-kritische Ausgabe*), second edition, 6 volumes (vol. 6 in 3 parts), Paul Kluckhohn, Richard Samuel, Gerhard Schulz, and Hans-Joachim Mähl (eds.), Stuttgart: Kohlhammer Verlag, 1960–2006.
 
-[^ab-2007]: [AB] *Notes for a Romantic Encyclopaedia: Das Allgemeine Brouillon*, David W. Wood (ed. and trans.), Albany, NY: SUNY Press, 2007.
+[^ab-2007]: [**AB**] *Notes for a Romantic Encyclopaedia: Das Allgemeine Brouillon*, David W. Wood (ed. and trans.), Albany, NY: SUNY Press, 2007.
 
 [^donehower-1797]: Donehower, Bruce (ed. and trans.), *The Birth of Novalis: Friedrich von Hardenberg’s Journal of 1797, with Selected Letters and Documents*, Albany, NY: SUNY Press, 2007.
 
-[^fs-2003]: [FS] *Fichte Studies*, Jane Kneller (ed. and trans.), (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press, 2003. doi:10.1017/CBO9781139164382
+[^fs-2003]: [**FS**] *Fichte Studies*, Jane Kneller (ed. and trans.), (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press, 2003. doi:10.1017/CBO9781139164382
 
 [^bernstein-2003]: Bernstein, Jay M. (ed.), *Classic and Romantic German Aesthetics*, (Cambridge Texts in the History of Philosophy), Cambridge: Cambridge University Press, 2003. doi:10.1017/CBO9780511803734
 
-[^ks-1797]: [KS] “Novalis: Kant Studies (1797)”, David Wood (trans.), *The Philosophical Forum*, 32(4 [Winter 2001]): 323–338. doi:10.1111/0031-806X.00072
+[^ks-1797]: [**KS**] “Novalis: Kant Studies (1797)”, David Wood (trans.), *The Philosophical Forum*, 32(4 [Winter 2001]): 323–338. doi:10.1111/0031-806X.00072
 
 [^philosophical-1997]: *Philosophical Writings*, Margaret Mahony Stoljar (ed. and trans.), Albany, NY: SUNY Press, 1997. Includes
 
-[^mo-nd]: [MO] *Miscellaneous Observations*
+[^mo-nd]: [**MO**] *Miscellaneous Observations*
 
-[^lfi-nd]: [LFI] *Logological Fragments I*
+[^lfi-nd]: [**LFI**] *Logological Fragments I*
 
-[^lfii-nd]: [LFII] *Logological Fragments II*
+[^lfii-nd]: [**LFII**] *Logological Fragments II*
 
 [^teplitz-nd]: *Teplitz Fragments*
 

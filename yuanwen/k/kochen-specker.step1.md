@@ -12,7 +12,8 @@ We now show (see Kochen and Specker 1967: , Redhead 1987: 126):
 
 > If vectors u(a₀) and u(a₉), corresponding to points a₀ and a₉ of the following ten-point KS graph Γ₁ are separated by an angle θ with 0 ≤ θ ≤ sin^{−1}(1/3), then Γ₁ is realizable.
 >
-> ![fig1.gif](../assets/kochen-specker/fig1.gif) Figure 4: Ten-point KS graph Γ₁
+> ![fig1.gif](../assets/kochen-specker/fig1.gif)
+> Figure 4: Ten-point KS graph Γ₁
 
 Suppose that θ, the angle between u(a₀) and u(a₉), is any acute angle. Since u(a₈) is orthogonal to u(a₀) and u(a₉), and u(a₇) also is orthogonal to u(a₉), u(a₇) must lie in the plane defined by u(a₀) and u(a₉). Moreover, the direction of u(a₇) can be chosen such that, if φ is the angle between u(a₀) and u(a₇), then φ = π/2 − θ.
 

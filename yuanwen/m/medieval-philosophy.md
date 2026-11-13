@@ -441,7 +441,7 @@ and so maybe the suggestion is no longer *too* radical.
 
 [^byzantine-2022]: volume 6, *Byzantine and Renaissance Philosophy*, 2022
 
-[^arlig-2024]: Arlig, Andrew, 2024, *Medieval Philosophy. A Contemporary Introduction,*New York and London: Routledge. [Latin and Arabic philosophy, treated thematically, covering ethical and political, as well as metaphysical themes.]
+[^arlig-2024]: Arlig, Andrew, 2024, *Medieval Philosophy. A Contemporary Introduction,* New York and London: Routledge. [Latin and Arabic philosophy, treated thematically, covering ethical and political, as well as metaphysical themes.]
 
 [^de-1993]: De Libera, Alain, 1993, *La philosophie médiévale*, Paris: Presses universitaires de France. [This book pioneered the idea of presenting the four branches of medieval philosophy together: it begins c. 500 and ends with the fifteenth century.]
 
@@ -549,7 +549,7 @@ and so maybe the suggestion is no longer *too* radical.
 
 [^cesalli-2021]: Cesalli, Laurent, Ruedi Imbach, Alain de Libera, and Thomas Ricklin (eds.), 2021, *Die Philosophie des Mittelalters, Band 3: 12. Jahrhundert*, (Grundriss der Geschichte der Philosophie), Basel: Schwabe Verlag.
 
-[^christensen-2023]: Christensen, Anna, 2023, “Not Veiled in Silence. The Case for Macrina”, in *Ancient Women Philosophers: Recovered Ideas and New Perspectives,*Katherine O’Reilly and Caterina Pellò (eds.), Cambridge: Cambridge University Press, 170–189.
+[^christensen-2023]: Christensen, Anna, 2023, “Not Veiled in Silence. The Case for Macrina”, in *Ancient Women Philosophers: Recovered Ideas and New Perspectives,* Katherine O’Reilly and Caterina Pellò (eds.), Cambridge: Cambridge University Press, 170–189.
 
 [^coleman-1981]: Coleman, Janet, 1981, *Medieval Readers and Writers, 1350–1400*, (English Literature in History), London: Hutchinson.
 

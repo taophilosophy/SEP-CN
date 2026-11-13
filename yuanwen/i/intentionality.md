@@ -136,21 +136,30 @@ Sections 4, 5 and 6 described three moves made within the orthodox paradigm in a
 
 To see how the theory of intentional objects flows from Brentano’s characterization of intentionality, recall (from section 2) that it follows from the nature of intentionality (as described by Brentano’s first thesis) that nothing could exhibit intentionality unless there were objects – intentional objects – that satisfied the property Brentano called “intentional inexistence.” Consider the following inference schema licensed by the rule of existential generalization and instantiated by the non-intentional relation expressed by the English verb “kiss” in (11):
 
-> 11a. Cleopatra kissed Caesar. 11b. Cleopatra kissed something.
+> 11a. Cleopatra kissed Caesar.
+> 11b. Cleopatra kissed something.
 
 If (11a) is true, so is (11b). The question is: is this valid inference schema also instantiated by the following pairs (12)-(15) involving intentional relations?
 
-> 12a. Cleopatra loved Caesar. 12b. Cleopatra loved something.
+> 12a. Cleopatra loved Caesar.
+> 12b. Cleopatra loved something.
 >
-> 13a. The Ancient Greeks worshiped Zeus. 13b. The Ancient Greeks worshiped something.
+> 13a. The Ancient Greeks worshiped Zeus.
+> 13b. The Ancient Greeks worshiped something.
 >
-> 14a. Ponce de Leon searched for the fountain of youth. 14b. Ponce de Leon searched for something.
+> 14a. Ponce de Leon searched for the fountain of youth.
+> 14b. Ponce de Leon searched for something.
 >
-> 15a. Modern criminologists admire Sherlock Holmes. 15b. Modern criminologists admire something.
+> 15a. Modern criminologists admire Sherlock Holmes.
+> 15b. Modern criminologists admire something.
 
 On the one hand, unlike (11), (12)-(15) involve intentional relations. On the other hand, unlike the intentional relation in (12), the intentional relations in (13)-(15) seem to involve particulars which don’t exist (or haven’t existed) in space and time. Intentional-object theorists hold that the above inferences involving both non-intentional and intentional relations constitute data that call for a consistent explanation. In other words, the intentional-object theorist accepts, whereas his critic rejects, the validity of the rule of existential generalization for both intentional and non-intentional relations, whether the relata of the intentional relations are concrete particulars in space and time or not. On the non-orthodox assumption that the inference schema instantiated by (11) can be instantiated by (12)-(15) as well, then in logical notation, the second coordinate of every pair (11)-(15) should be symbolized thus:
 
-> 11c. ∃*x*(Cleopatra kissed *x*) 12c. ∃*x*(Cleopatra loved *x*) 13c. ∃*x*(Ancient Greeks worshiped *x*) 14c. ∃*x*(Ponce de Leon searched for *x*) 15c. ∃*x*(Modern criminologists admire *x*)
+> 11c. ∃*x*(Cleopatra kissed *x*)
+> 12c. ∃*x*(Cleopatra loved *x*)
+> 13c. ∃*x*(Ancient Greeks worshiped *x*)
+> 14c. ∃*x*(Ponce de Leon searched for *x*)
+> 15c. ∃*x*(Modern criminologists admire *x*)
 
 Thus, the issue between the intentional-object theorist and his critic is whether the variable bound by the standard existential quantifier of first-order logic should range not merely over concrete particulars existing in space and time but also over all sorts of other entities as well. Note that the issue is orthogonal to the contrast between the objectual and the substitutional interpretation of the existential quantifier since the dispute over the admission of intentional objects is wholly internal to the objectual interpretation of the quantifier. The question that arises for the intentional-object theorist is: what is the best theory of the objects over which (13c)-(15c) seem to quantify?
 

@@ -15,13 +15,22 @@ Diels-Kranz (DK) provides 45 fragments of his poetry (although B4, 13, 19, 20, 2
 
 Fragments B11 and B12 describe, and implicitly criticize, the stories about the gods told by Homer and Hesiod.
 
-> Homer and Hesiod have attributed to the gods all sorts of things that are matters of reproach and censure among men: theft, adultery, and mutual deception. (B11) …as they sang of numerous illicit divine deeds: theft, adultery, and mutual deceit. (B12)
+> Homer and Hesiod have attributed to the gods
+> all sorts of things that are matters of reproach and censure among men:
+> theft, adultery, and mutual deception. (B11)
+>
+> …as they sang of numerous illicit divine deeds:
+> theft, adultery, and mutual deceit. (B12)
 
 The basis for Xenophanes’ unhappiness with the poets’ accounts is not explained, but we may infer from the concluding call to pay due honor to the gods in Xenophanes’ B1 that an attribution of scandalous conduct would be incompatible with the goodness or perfection any divine being must be assumed to possess (cf. Aristotle *Meta*. 1072b; Plato, *Rep*. 379b.)
 
 In the well-known fragments B14–16, Xenophanes comments on the general tendency of human beings to conceive of divine beings in human form:
 
-> But mortals suppose that gods are born, wear their own clothers and have a voice and body. (B14) Ethiopians say that their gods are snub-nosed and black; Thracians that theirs are are blue-eyed and red-haired. (B16)
+> But mortals suppose that gods are born,
+> wear their own clothers and have a voice and body. (B14)
+>
+> Ethiopians say that their gods are snub-nosed and black;
+> Thracians that theirs are are blue-eyed and red-haired. (B16)
 
 B15 adds, probably in a satirical vein, that if horses and oxen had hands and could draw pictures, their gods would look remarkably like horses and oxen. B17, “…and bacchants of pine stand round the well-built house” may represent a criticism of the common ancient belief that a god could assume possession of a physical object so as to offer protection to its possessor. The ridiculing of Pythagoras’ claim to have recognized the soul of a departed friend in the voice of a barking dog (B7), together with the attacks on divination credited to Xenophanes in A52, reflect the broader denial of knowledge of divine attributes and operations set out in B34. Xenophanes is prepared to offer a positive account of the nature of the deity (see the following section) but his position appears to be that while no mortal being will ever know about the gods with any degree of certainty, we can at least avoid adopting beliefs and practices clearly at odds with the special nature any divine being must be assumed to possess.
 
@@ -29,7 +38,8 @@ B15 adds, probably in a satirical vein, that if horses and oxen had hands and co
 
 So far as is known, Xenophanes was the first Greek thinker to offer a complex and at least partially systematic account of the divine nature. We have already noted how an implicit assumption of divine perfection may underlie his criticisms of Homer, Hesiod, and the tendency to imagine the gods in human form. Of the positive characterizations of the divine made in B23–26, perhaps the most fundamental is B23:
 
-> One god greatest among gods and men, not at all like mortals in body or in thought.
+> One god greatest among gods and men,
+> not at all like mortals in body or in thought.
 
 Although the remark has often been read as a pioneering expression of monotheism, this reading is made problematic by the nearby reference to ‘gods’ in the plural in the first line and the possibility that Xenophanes sought to highlight not the *one* god but rather the one *greatest* god (cf. Homer, *Iliad* 12, 243 for the use of ‘one’ (Greek *heis*) reinforcing a superlative). The relevant measures of divine ‘greatness’ are not specified, but the two most obvious choices would be greatness in honor and power, with honor perhaps the more basic of the two (cf. *Iliad* 2, 350; 2, 412; 4, 515; *Od*. 3, 378; 5,4; Hesiod, *Theogony* 49, 534, 538, etc.). Greatness in power would in turn explain the characterizations of the divine as perceptive and conscious in all its parts (B24), able to shake all things by the exercise of his thought (B25), and able to accomplish everything while remaining forever in the same place or condition (B26). It is unclear, however, how far Xenophanes himself realized the interconnections among the different divine attributes or sought to exploit those connections for didactic purposes. At least as they have come down to us, none of the remarks on the divine nature (B23–26) contains any of the inferential particles (*gar, epei, oun, hoti*, etc.) one would normally expect to find in a piece of reasoned discourse.
 
@@ -51,7 +61,10 @@ Many *testimonia* credit Xenophanes with an interest in meteorological and astro
 
 B30 gives us essentially the same view in Xenophanes’ own words:
 
-> The sea is the source of water and of wind, For without the great sea, there would be no wind Nor streams of rivers, nor rainwater from on high But the great sea is the begetter of clouds, winds, and rivers.
+> The sea is the source of water and of wind,
+> For without the great sea, there would be no wind
+> Nor streams of rivers, nor rainwater from on high
+> But the great sea is the begetter of clouds, winds, and rivers.
 
 Having accounted for the formation of clouds in mechanistic terms through processes of vaporization and compression Xenophanes proceeds to make use of clouds to explain a large number of meteorological and astronomical phenomena. The general claim appears in the pseudo-Plutarch *Miscellanies*: “he says that the sun and the stars come into being from the clouds” (A32), and Aëtius gives us many specific applications:
 
@@ -71,7 +84,8 @@ As it happens, clouds are natural candidates for the *explanans* in a scientific
 
 Another important feature of Xenophanes’ cloud-based approach to understanding natural phenomena is the application of this theory to a set of phenomena closely linked with traditional religious belief. We have already seen this in the thoroughly naturalistic accounts given of the “great sea”, sun, moon, and stars, but nowhere is the contrast of the old and new ways of thinking more evident than in his comments on “Iris”--rainbow:
 
-> And she whom they call Iris, this too is by nature a cloud. Purple, red, and greenish-yellow to behold. (B32)
+> And she whom they call Iris, this too is by nature a cloud.
+> Purple, red, and greenish-yellow to behold. (B32)
 
 For the members of Xenophanes’ audience “Iris” referred to the messenger goddess of Homer’s *Iliad* (2, 686) and Hesiod’s *Theogony* (780) and a set of atmospheric phenomena (halos, coronae, and cloud iridescence) commonly considered portents or signs of the intentions of divine beings. As the daughter of Thaumas (“marvel”) Iris was the natural marvel *par* *excellence*. Yet for Xenophanes, ‘she’ is really an ‘it’ and a ‘this’ (the Greek neuter demonstrative *touto*), by nature a purple, red, and greenish-yellow cloud. It is, moreover, something that is there for us ‘to behold’ or ‘to look at’ (*idesthai*). Perhaps nowhere in presocratic philosophy can we find a clearer expression of the character of the Ionian ‘intellectual revolution’—a decision to put aside an older way of thinking about events grounded in a belief in divine beings in favor of an approach to understanding the world that employs wide-ranging inquiry and direct observation and resorts to strictly physical causes and forces. Having deprived the gods of human form and clothing and removed the divine to some permanent and distant location, Xenophanes proceeds to strip a wide range of natural phenomena of all vestiges of religious or spiritual significance. His de-mythologized account of natural phenomena is, in short, the logical complement to his thoroughly de-naturalized account of the divine nature.
 
@@ -83,7 +97,10 @@ Five surviving fragments and roughly a dozen *testimonia* address what might be 
 
 Xenophanes’ most extended comment on knowledge is B34:
 
-> …and of course the clear and certain truth no man has seen nor will there be anyone who knows about the gods and what I say about all things. For even if, in the best case, one happened to speak just of what has been brought to pass, still he himself would not know. But opinion is allotted to all.
+> …and of course the clear and certain truth no man has seen
+> nor will there be anyone who knows about the gods and what I say about all things.
+> For even if, in the best case, one happened to speak just of what has been brought to pass,
+> still he himself would not know. But opinion is allotted to all.
 
 Portions of these remarks were quoted, and thereby preserved for posterity, by the ancient skeptics who hailed Xenophanes as the founder of their particular variety of philosophical skepticism. Recent interpretations of B34 reject the skeptical interpretation in favor of other less extreme readings. On some accounts, B34 is concerned to deny only a direct perceptual awareness. Others find in his comments a distinction between natural science, where only probabilities can be achieved, and theology, where certainty is possible. Still others read Xenophanes’ remarks as a blanket endorsement of “fallibilism”—the view that while each individual is free to express his or her opinion, the possibility of error can never be completely excluded.
 

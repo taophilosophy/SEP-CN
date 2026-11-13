@@ -155,7 +155,7 @@ Abhidharma | Chinese Philosophy: Chan Buddhism | Chinese Philosophy: Huayan Budd
 
 [^collins-1982]: Collins, Stephen, 1982, *Selfless Persons*, Cambridge: Cambridge University Press.
 
-[^cousins-2022]: Cousins, L. S., 2022, *Meditations of the Pali Tradition: Illuminating Buddhist Doctrine, History, and Practice,*edited by Sarah Shaw, Boulder, CO: Shambala.
+[^cousins-2022]: Cousins, L. S., 2022, *Meditations of the Pali Tradition: Illuminating Buddhist Doctrine, History, and Practice,* edited by Sarah Shaw, Boulder, CO: Shambala.
 
 [^gethin-1998]: Gethin, Rupert, 1998, *The Foundations of Buddhism*, Oxford: Oxford University Press.
 
