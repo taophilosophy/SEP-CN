@@ -2,7 +2,7 @@
   "slug": "umar-khayyam",
   "kind": "retranslate",
   "zh_doc": "u/umar-khayyam.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "U-main-20261113",
       "at": "2026-11-13T19:01:06Z",
       "evidence": "对账六项：defs 键 85:85 集合一致；正文 marker 38:38 序列一致；H2 节 11:11；列表项 48:48；论证连接词 So/But/Thus/Therefore→所以/但是/于是/因此 4:4；年份 134:134（唯一序列差=Conway 1893 引用组随中文语序后移，语义无损留痕）；登记 ren-ming-biao 31 行新增+shu-yu-biao 18 行新增（Twain 重复行已删保留 conscience 旧行）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "U-main-20261113",
+      "at": "2026-11-13T19:02:56Z",
+      "evidence": "对照自审五回源：论证连接词 4:4；§2.7 三观点键 Jubā'ī 1:1、Suhrawardī/Mīr Dāmād 汉译形（苏赫拉瓦尔迪/米尔·达马德，登记在案）；aṣālat 带点形系学术规范化（源简化形 asalat，与术语册键一致，留痕）；学术工具区为 bullet 三行制模板（SOP 约定形态，链接文本中译）；OIR 2 条、相关词条 15:15 对齐 SUMMARY 定名。语体：叙述散文书面学术体，引块照英文韵译出、直引块剥包裹引号，无文言残留、无破折号切句滥用（破折号仅用于插入语与引文内原文破折号），术语首现括注原文、后文统一"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "U-main-20261113",
+      "at": "2026-11-13T19:02:56Z",
+      "evidence": "登记复核：check_terms 自洽违例 0（正文用词与 shu-yu-biao/ren-ming-biao 一致）；Thābit 沿用 2026-11-13 主形裁定「塔比·伊本·库拉」；al-Khāzin 赫津/al-Khāzinī 哈津尼异人分立；al-Fārābī 法拉比/Ibn Sīnā 伊本·西那（阿维森纳）/Mullā Ṣadrā 毛拉·萨德拉/Nasīr al-Dīn al-Ṭūsī 纳西尔丁·图西 均沿既有行；iʿtibārī 沿用「依赖心灵的」既有裁定未造同键异译；相关词条 15 条逐一对照 SUMMARY 定名（法拉比/阿拉伯和伊斯兰哲学中的本质与存在/无神论和不可知论/拉尔夫·沃尔多·爱默生/伊壁鸠鲁主义/认识论/存在/自由意志/伊本·西那（阿维森纳）/个体与个体化/新柏拉图主义/柏拉图/性质/斯多亚主义/亨利·大卫·梭罗）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "U-main-20261113",
+      "at": "2026-11-13T19:02:57Z",
+      "evidence": "终检：check_style --strict 0、check_academic --strict 0 硬错误（本词条）、check_math 21 公式平衡、check_prose 余 13 全豁免、check_terms 自洽 0；check_all 九项中七项绿，「哲学学术规范」2 硬错误均在 tasks/b/brouwer.json（B 批并行会话在途件 draft 缺 evidence/r1 缺语体结论，非本词条范围）；marker/defs/节/列表/年份对账五维全过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "U-main-20261113",
+      "at": "2026-11-13T19:02:57Z",
+      "evidence": "umar-khayyam 三校完成收口：全量重译 43502 字符（约 1.5 万汉字），段落账本对齐，defs 85:85/marker 38:38/节 11:11/列表 48:48，四检绿，prose 实修 61 豁免 13 留痕，登记人名 31 行+术语 18 行，pathspec 独立提交"
     }
   ],
   "blockers": [],
