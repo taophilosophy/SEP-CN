@@ -16,7 +16,7 @@
 
 > 克罗顿的阿尔克迈翁，佩里托奥斯之子，对布罗提努斯（Brotinus）、里昂（Leon）和巴提卢斯（Bathyllus）说了如下的话……（DK 12B1）
 
-关于里昂和巴提卢斯，我们一无所知。只知道扬布里柯在《论毕达哥拉斯式生活》（=VP）中列有两位毕达哥拉斯学派成员：一位来自梅塔蓬图姆，名里昂；一位来自波塞多尼亚（帕埃斯图姆），名巴提卢斯。这两座城市都是南意大利的希腊城市（VP 267）。布罗提努斯在有些文献中被认定为来自克罗顿的毕达哥拉斯学派成员（D.L. VIII. 42；Iamb. VP 132），在另一些文献中则来自梅塔蓬图姆（VP 194, 267）。他要么是 Theano 的父亲，要么是她的丈夫，而 Theano 又要么是毕达哥拉斯的妻子，要么是他的学生。把著作“题献”给毕达哥拉斯学派成员，是否表明阿尔克迈翁本人也是其中一员？即便这真是一条题献，也推不出阿尔克迈翁赞同受献者的观点。而且，与恩培多克勒对 Pausanias 的献辞相比较，可以提示我们：我们看到的不是题献，而是劝诫或试图施教（Vlastos 1953, 344, n. 25）[^vlastos-1953]。与其他早期希腊散文作家（如 Hecataeus 和赫拉克利特）的著作相比还可以看出：当时的书完全可以以批评他人观点开篇。因此，阿尔克迈翁对这几位毕达哥拉斯学派成员的致辞也可能是论战性的（Kouloumentas 2018）。
+关于里昂和巴提卢斯，我们一无所知。只知道扬布里柯在《论毕达哥拉斯式生活》（=VP）中列有两位毕达哥拉斯学派成员：一位来自梅塔蓬图姆，名里昂；一位来自波塞多尼亚（帕埃斯图姆），名巴提卢斯。这两座城市都是南意大利的希腊城市（VP 267）。布罗提努斯在有些文献中被认定为来自克罗顿的毕达哥拉斯学派成员（D.L. VIII. 42；Iamb. VP 132），在另一些文献中则来自梅塔蓬图姆（VP 194, 267）。他要么是 Theano 的父亲，要么是她的丈夫，而 Theano 又要么是毕达哥拉斯的妻子，要么是他的学生。把著作“题献”给毕达哥拉斯学派成员，是否表明阿尔克迈翁本人也是其中一员？即便这真是一条题献，也推不出阿尔克迈翁赞同受献者的观点。而且，与恩培多克勒对 Pausanias 的献辞相比较，可以提示我们：我们看到的不是题献，而是劝诫或试图施教（Vlastos 1953, 344, n. 25）[^vlastos-1953]。与其他早期希腊散文作家（如 Hecataeus 和赫拉克利特）的著作相比还可以看出：当时的书完全可以以批评他人观点开篇。因此，阿尔克迈翁对这几位毕达哥拉斯学派成员的致辞也可能是论战性的（Kouloumentas 2018）[^kouloumentas-2018a]。
 
 第欧根尼·拉尔修在《名哲言行录》（公元 3 世纪）中把阿尔克迈翁列入毕达哥拉斯学派，并说他曾随毕达哥拉斯学习（VIII. 83）。晚期作家如扬布里柯（VP 104, 267）、Philoponus（De An. p. 88）以及柏拉图注疏家（Alc. 121e）也称阿尔克迈翁为毕达哥拉斯学派成员。二十世纪中叶以前的多数学者沿袭了这一传统。然而，“古代传统众口一词地把他说成毕达哥拉斯学派成员”并不属实（Zhmud 2012a, 123）[^zhmud-2012a]。事实上，多数古代文献并没有这样描述他（如 Clement [DK 24A2]、盖伦 [DK24A2]、Aetius [DK 24A4, 6, 8–10, 13, 17–18]、Censorinus [DK 24A13–14] 和 Chalcidius [DK A10]）。把他视为毕达哥拉斯学派成员的最佳论据，是扬布里柯在《论毕达哥拉斯式生活》卷末的学派名录中收了他。但前提是我们能确定该名录的各部分都源自公元前四世纪的 Aristoxenus，因为 Aristoxenus 是毕达哥拉斯主义的可靠知情人（Zhmud 2012a, 122; 2012b, 241–43）[^zhmud-2012a]。然而，名录的某些部分几乎不可能出自 Aristoxenus，我们也无法确定收编阿尔克迈翁是出于他之手（Huffman 2005, 297–99）。撇开这一与 Aristoxenus 有关的可能不谈，在第欧根尼·拉尔修（约公元 200 年）之前没有人称阿尔克迈翁为毕达哥拉斯学派成员。亚里士多德写过两部关于毕达哥拉斯学派的书，却另写了一部专论阿尔克迈翁的书。亚里士多德和特奥弗拉斯托斯多次提到他，却从不把他称作毕达哥拉斯学派成员，学说汇编传统也是如此做法（见 DK 24 中的 A4, 6, 8–10, 13–14, 17–18）。辛普里丘（公元 6 世纪）报告说，有人传下阿尔克迈翁是毕达哥拉斯学派成员的说法，但指出亚里士多德否认这一点（De An. 32.3）。最有说服力的是亚里士多德在《形而上学》第一卷（986a22 以下）对阿尔克迈翁的讨论：他指出，阿尔克迈翁与一群毕达哥拉斯学派成员在把对立当作万物本原这点上相似；但他表示不确定是谁影响了谁。早先的学者把亚里士多德对阿尔克迈翁与毕达哥拉斯学派的这一比较当作他是学派成员的佐证。而近五十年的多数学者逐渐认识到，亚里士多德在这里的处理恰恰指向相反的结论。只有当阿尔克迈翁不是毕达哥拉斯学派成员时，把他与该学派比较并追问谁影响了谁，才有意义（如 Guthrie 1962, 341：“亚里士多德……明确把他与毕达哥拉斯学派区别开来”）[^guthrie-1962]。诚然，被说成对阿尔克迈翁至关重要的那些对立，大多并不见于毕达哥拉斯学派的对立表；而毕达哥拉斯学派关键的“限与无定”对立，在阿尔克迈翁那里也毫无踪迹。因此，1950 年以来绝大多数论者把阿尔克迈翁视为独立于毕达哥拉斯学派的人物（如 Guthrie 1962, 341；Burkert 1972, 289；KRS 1983, 339；Lloyd 1991, 167；Kahn 2001；Riedweg 2005, 115；Primavesi 2012, 447；Année 2019: 99–100。Zhmud [2012a, 121–124; 2014, 97–102] 是显著的例外）[^année-2019][^guthrie-1962][^kahn-2001][^kirk-1983][^lloyd-1991][^primavesi-2012][^riedweg-2005]，不过，作为克罗顿的同城人，他必定熟悉该学派的思想。
 
@@ -42,7 +42,7 @@
 
 这种对人类知识的明显怀疑态度，是早期希腊思想一个支脉的特征。阿尔克迈翁的前人（如色诺芬尼 B34）和后人（如菲洛劳斯 B6）都在神的知识与人的知识之间作过类似的对照，但与这些情形一样，我们掌握的证据不足以断定阿尔克迈翁的本意。阿尔克迈翁随后在书中讨论的多数论题，都无法靠诉诸感官知觉来解决（例如感官的机能、健康身体中对立的平衡、灵魂不朽）。在这个意义上，他处理的主要是“不可知觉的东西”（aphanes）。然而，阿尔克迈翁绝不是极端怀疑论者：他愿意把对这类事物的明晰认识归于诸神，并因此默认人类对直接可知觉的东西也有明晰认识。而且，虽然人无法对不可知觉的东西获得明晰认识，阿尔克迈翁认为人可以根据感觉呈现的征象合理推断（tekmairesthai）。因此他采取的是科学家的立场：从可知觉的东西出发作推理；同时也默默拒斥了那些把对世界的说明建立在神圣启示之确定性上的人的主张。阿尔克迈翁经验主义进路的这种认识论乐观态度，先由 Fausti（1973）强调，近来又由 Année（2019: 47–49，详见下文）强调。
 
-残篇 1 的文本有种种困难，使其解释成问题。一些学者把上文方括号里的材料删去，因为很难看出它如何与前文衔接（如 Wachtler 1896）[^wachtler-1896]；另一些学者保留该材料，认为应理解为有一个“和”字把方括号内的短语与前文并列起来（如 DK 1952）。还有学者主张在“不可知觉的东西”之后放分号或冒号：冒号之前，阿尔克迈翁在点明他的主题或他与受献者的分歧所在；冒号之后，他才开始自己的论述（Kouloumentas 2018 承 Gomperz；Wöhrle 2022）[^wöhrle-2022]。下面是 Wöhrle 的建议的英译：
+残篇 1 的文本有种种困难，使其解释成问题。一些学者把上文方括号里的材料删去，因为很难看出它如何与前文衔接（如 Wachtler 1896）[^wachtler-1896]；另一些学者保留该材料，认为应理解为有一个“和”字把方括号内的短语与前文并列起来（如 DK 1952）。还有学者主张在“不可知觉的东西”之后放分号或冒号：冒号之前，阿尔克迈翁在点明他的主题或他与受献者的分歧所在；冒号之后，他才开始自己的论述（Kouloumentas 2018 承 Gomperz；Wöhrle 2022）[^kouloumentas-2018a][^wöhrle-2022]。下面是 Wöhrle 的建议的英译：
 
 > 克罗顿的阿尔克迈翁，佩里托奥斯之子，就不可知觉的东西对布罗提努斯、里昂和巴提卢斯说了如下的话：关于会死的东西，诸神有确切的把握，而我们人[只能]凭征象推断。
 
@@ -126,7 +126,7 @@
 
 [^wachtler-1896]: Wachtler, J., 1896, *De Alcmaeone Crotoniata*, Leipzig: Teubner. (The only full-scale commentary devoted to Alcmaeon. Greek texts of the fragments and testimonia with commentary in Latin.)
 
-[^wöhrle-2022]: Wöhrle, G. (ed.), 2022, *Alkmaion von Kroton, Hippon von Metapont und Menestor von Sybaris*, Berlin/Boston: De Gruyter. (The most complete collection of the evidence for Alcmaeon including the Arabic tradtion.)
+[^wöhrle-2022]: Wöhrle, G. (ed.), 2022, *Alkmaion von Kroton, Hippon von Metapont und Menestor von Sybaris*, Berlin/Boston: De Gruyter. (The most complete collection of the evidence for Alcmaeon including the Arabic tradition.)
 
 [^barnes-1982]: Barnes, Jonathan, 1982, *The Presocratic Philosophers*, London: Routledge.
 
@@ -188,7 +188,7 @@
 
 [^laks-2018]: Laks, A., 2018, ‘How Preplatonic Worlds Became Ensouled’, *Oxford Studies in Ancient Philosophy*, 55: 1–34.
 
-[^lanza-1965]: Lanza, D., 1965, ‘Un nuovo frammento die Alcmeone’, *Maia*, 17: 278–80.
+[^lanza-1965]: Lanza, D., 1965, ‘Un nuovo frammento di Alcmeone’, *Maia*, 17: 278–80.
 
 [^lebedev-1993]: Lebedev, Andrei, 1993, ‘Alcmaeon on plants: a new fragment in Nicolaus Damascenus’, *La parola del passato*, 48: 456–60.
 
@@ -212,7 +212,7 @@
 
 [^mansfeld-1975]: Mansfeld, J., 1975, ‘Alcmaeon: “Physikos” or Physician? With some remarks on Calcidius’ “On Vision” compared to Galen, Plac. Hipp. Plat. VII’, in J. Mansfeld and L. M. de Rijk, (eds.), *Kephalaion: Studies in Greek Philosophy and its continuation offered to Professor C. J. de Vogel*, Assen: Van Gorcum, pp. 26–38.
 
-[^mansfeld-2014a]: –––, 2014a,‘The body politic: Aëtius on Alcmaeon on *isonomia* and *monarchia*’, in V. Harte and M. Lane, (eds.), Politeia *in Greek and Roman Philosophy*, Cambridge: Cambridge University Press: pp. 78–95.
+[^mansfeld-2014a]: –––, 2014a, ‘The body politic: Aëtius on Alcmaeon on *isonomia* and *monarchia*’, in V. Harte and M. Lane, (eds.), Politeia *in Greek and Roman Philosophy*, Cambridge: Cambridge University Press: pp. 78–95.
 
 [^mansfeld-2014b]: –––, 2014b, ‘Alcmaeon and Plato on Soul’, *Études platoniciennes*, 11 [available online](http://etudesplatoniciennes.revues.org/508). doi:10.4000/etudesplatoniciennes.508.
 
@@ -240,7 +240,7 @@
 
 [^solmsen-1961]: Solmsen, F., 1961, ‘Greek Philosophy and the Discovery of Nerves’, *Museum Helveticum*, 18: 150–97.
 
-[^stella-1939]: Stella, L. A., 1939, ‘Importanza di Alcmeone nella storia del pensiero greco’, *Memorie della Reale Accademia Nazionnale dei Lincei*, s. 6, 8(4): 233–87.
+[^stella-1939]: Stella, L. A., 1939, ‘Importanza di Alcmeone nella storia del pensiero greco’, *Memorie della Reale Accademia Nazionale dei Lincei*, s. 6, 8(4): 233–87.
 
 [^stratton-1917]: Stratton, G. M., 1917, *Theophrastus and the Greek Physiological Psychology before Aristotle*, London: George Allen & Unwin.
 
