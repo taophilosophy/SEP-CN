@@ -444,6 +444,12 @@ def _stash_inline_tables(s, slug):
 
 
 def table_to_md(inner, slug):
+    # 容错剥壳：列表项/定义项路径传入的是含外层标签的完整表 HTML，
+    # 行/列解析只认表内容；外层不剥，嵌套表占位会把整表吞成哨兵
+    m0 = re.match(r'\s*<table[^>]*>', inner, re.I)
+    if m0:
+        cm0 = re.search(r'</table>\s*$', inner, re.I)
+        inner = inner[m0.end():cm0.start()] if cm0 else inner[m0.end():]
     # 嵌套表先整体占位再做行/列解析，否则非贪婪 td 匹配被内层 </td> 截断，
     # 外层单元格内容丢失（2026-10-28 复核缺陷；占位在行解析前完成）
     inner, tstash = _stash_inline_tables(inner, slug)

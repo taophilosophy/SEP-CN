@@ -109,7 +109,12 @@ Pascal’s assumptions about utilities and probabilities are now in place. In an
 
 Let us now gather together all of these points into a single argument. We can think of Pascal’s Wager as having three premises: the first concerns the decision table of rewards, the second concerns the probability that you should give to God’s existence, and the third is a maxim about rational decision-making. Specifically:
 
-1. Either God exists or God does not exist, and you can either wager for God or wager against God. The utilities of the relevant possible outcomes are as follows, where $f_1, f_2$, and $f_3$ are numbers whose values are not specified beyond the requirement that they be finite:   *God exists* *God does not exist* *Wager for God* $\infty$ $f_1$ *Wager against God* $f_2$ $f_3$
+1. Either God exists or God does not exist, and you can either wager for God or wager against God. The utilities of the relevant possible outcomes are as follows, where $f_1, f_2$, and $f_3$ are numbers whose values are not specified beyond the requirement that they be finite:
+
+   |   | *God exists* | *God does not exist* |
+   | --- | --- | --- |
+   | *Wager for God* | $\infty$ | $f_1$ |
+   | *Wager against God* | $f_2$ | $f_3$ |
 2. Rationality requires the probability that you assign to God existing to be positive (and finite).
 3. Rationality requires you to perform the act of maximum expected utility (when there is one).
 4. Conclusion 1. Rationality requires you to wager for God.
