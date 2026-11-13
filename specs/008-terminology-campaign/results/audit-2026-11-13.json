@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 4536,
+  "查无": 4537,
   "不一致": 795,
-  "未查证": 4413,
-  "一致": 1173
+  "一致": 1179,
+  "未查证": 4406
  },
  "results": [
   {
@@ -176,9 +176,11 @@
    "term": "A Very Easy Death",
    "trans": "安详辞世",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -186,9 +188,11 @@
    "term": "A Week on the Concord and Merrimack Rivers",
    "trans": "河上一周",
    "basis": "梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》；词汇表并网（ADR-0036）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -220,8 +224,38 @@
    "term": "Abduction",
    "trans": "溯因",
    "basis": "学界通行（与 abductive reasoning 溯因推理 同义异形，键形分立）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "溯因",
+     "en": "abduction",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外展",
+     "en": "abduction",
+     "source": "运动医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "误判",
+     "en": "abduction",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    },
     {
      "provider": "youdao-aux",
      "cn": "外展",
@@ -284,6 +318,7 @@
     }
    ],
    "providers": [
+    "termonline-all",
     "youdao-aux"
    ]
   },
@@ -429,9 +464,11 @@
    "term": "Abhidharmakośabhāṣya",
    "trans": "《阿毗达磨俱舍论》",
    "basis": "汉文古译（玄奘译《俱舍论》即此释论体；世亲造）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -475,9 +512,11 @@
    "term": "Abhisamayālaṃkārālokā",
    "trans": "《现观庄严论光明》",
    "basis": "本库自拟（师子贤造；藏传通行题名式：现观庄严论＋光明）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -999,9 +1038,11 @@
    "term": "Academic Skepticism",
    "trans": "学园怀疑主义",
    "basis": "学界通行（Skepticism 两译并存：怀疑论／怀疑主义）；词汇表并网（ADR-0036）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -1325,9 +1366,72 @@
    "term": "accommodation",
    "trans": "顺应；调节",
    "basis": "按语境取义：科学哲学“顺应”、视觉生理学“调节”、语用学“顺应”；词汇表并网（ADR-0036）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "可容空间",
+     "en": "accommodation",
+     "source": "地质学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "顺应",
+     "en": "accommodation",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[眼]调焦",
+     "en": "accommodation",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "顺应",
+     "en": "accommodation",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "适应性留存",
+     "en": "accommodation",
+     "source": "免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "调节",
+     "en": "accommodation",
+     "source": "医学名词 第五分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "顺应",
+     "en": "accommodation",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "顺应",
+     "en": "accommodation",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "适应性留存",
+     "en": "accommodation",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "起居设备",
+     "en": "accommodation",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -1335,9 +1439,30 @@
    "term": "Account",
    "trans": "解释；说明；原理",
    "basis": "按语境取义（give an account of 译“对……给出说明/解释”）；词汇表并网（ADR-0036）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "账户",
+     "en": "account",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "账号",
+     "en": "account",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "账号",
+     "en": "account",
+     "source": "海峡两岸地理信息系统名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -68543,10 +68668,17 @@
    "table": "术语",
    "line": 3097,
    "term": "logical atomism",
-   "trans": "逻辑原子主义",
-   "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "查无",
-   "hits": [],
+   "trans": "逻辑原子主义（亦作“逻辑原子论”）",
+   "basis": "学界惯例（正文 19:6 通行“逻辑原子主义”）；亦作记审定作“逻辑原子论”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "逻辑原子论",
+     "en": "logical atomism",
+     "source": "自然辩证法名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -89704,8 +89836,45 @@
    "term": "Plague",
    "trans": "鼠疫",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "感染病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "地方病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "中医药学名词（2010）"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "鼠疫",
+     "en": "plague",
+     "source": "维基百科"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -107216,8 +107385,51 @@
    "term": "scope",
    "trans": "辖域",
    "basis": "逻辑学/语言学通行（quantifier scope）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "显示器",
+     "en": "scope",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "作用域",
+     "en": "scope",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "范围",
+     "en": "scope",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "辖域",
+     "en": "scope",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "辖域",
+     "en": "scope",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "范围",
+     "en": "scope",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "作用域",
+     "en": "scope",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -127555,8 +127767,63 @@
    "term": "type",
    "trans": "类型",
    "basis": "学界通行（type-token 类型—殊例之分；复数 Types 同）；词汇表并网（ADR-0036）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "模式",
+     "en": "type",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型",
+     "en": "type",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式",
+     "en": "type",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "型",
+     "en": "type",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "型",
+     "en": "type",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型",
+     "en": "type",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "型式",
+     "en": "type",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "型式",
+     "en": "type",
+     "source": "海峡两岸船舶工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型",
+     "en": "type",
+     "source": "维基百科"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]

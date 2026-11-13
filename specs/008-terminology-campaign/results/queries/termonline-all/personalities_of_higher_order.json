@@ -2,10 +2,347 @@
  "key": "personalities of higher order",
  "term": "personalities of higher order",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T03:36:43+00:00",
- "status": "error",
- "note": "variant=personalities of higher order; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "personalities of higher order: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T05:05:12+00:00",
+ "status": "ok",
+ "note": "variant=personalities of higher order; 审定公布名词库=10000; 海峡两岸名词对照库=8386; 其他来源数据库=2043; 预公布名词数据库=2879; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "高阶差分",
+   "en": "difference of higher order,higher difference",
+   "code": "010.0200",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值微分·数值积分"
+  },
+  {
+   "cn": "高阶导数",
+   "en": "derivative of higher order",
+   "code": "05.0086",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "高阶微分",
+   "en": "differential of higher order",
+   "code": "05.0087",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "高阶像差",
+   "en": "higher-order aberration",
+   "code": "14.226",
+   "standard": "光学名词",
+   "subject": "光学_成像技术"
+  },
+  {
+   "cn": "高阶模",
+   "en": "higher-order mode",
+   "code": "04.2088",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "上位功能",
+   "en": "higher order function",
+   "code": "09.0708",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_其他"
+  },
+  {
+   "cn": "高次模",
+   "en": "higher-order mode",
+   "code": "11.030",
+   "standard": "计量学名词",
+   "subject": "计量学_无线电_基础名词"
+  },
+  {
+   "cn": "再次条件反射",
+   "en": "higher order conditioning",
+   "code": "02.132",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "意识的高阶理论",
+   "en": "higher order theories of consciousness",
+   "code": "03.570",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "高阶等差数列",
+   "en": "arithmetic progression of higher order",
+   "code": "04.0140",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "高阶偏导数",
+   "en": "partial derivative of higher order",
+   "code": "05.0099",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "高阶微分方程",
+   "en": "differential equation of higher order",
+   "code": "06.0038",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_常微分方程"
+  },
+  {
+   "cn": "高阶闭合",
+   "en": "higher-order closure",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "高阶光孤子",
+   "en": "higher-order soliton",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "高阶逻辑",
+   "en": "higher order logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "高等植物",
+   "en": "higher plant",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "人格理论",
+   "en": "personality theory\",\"theory of personality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个人化",
+   "en": "personalization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "人格稳定性",
+   "en": "stability of personality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "高高潮",
+   "en": "higher high water",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "有胚植物（=高等植物）",
+   "en": "embryophyte (=higher plant)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "高核簇",
+   "en": "higher nuclearity cluster",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人格",
+   "en": "Personality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "贤人",
+   "en": "Person of Integrity",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "终点顺序",
+   "en": "order of arrival\",\"order of finish",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "出场顺序",
+   "en": "order of calling\",\"order of lifting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "人格同一性",
+   "en": "Personal identity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "个性化检索",
+   "en": "Personalized search",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法人",
+   "en": "juridical person",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "code": "5.12.5.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "code": "2.5.9.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": "3.0069999999999997",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": "2.5.10",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "个人崇拜",
+   "en": "cult of personality",
+   "code": "04.0012",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "个人剂量监测档案",
+   "en": "report of personal dose",
+   "code": "8.4.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_放射工作人员职业健康管理"
+  },
+  {
+   "cn": "禁止个人崇拜",
+   "en": "prohibition of personal worship",
+   "code": "03.0561",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "个人负责制",
+   "en": "system of personal responsibilities",
+   "code": "04.0077",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "code": "1.7.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_防护"
+  },
+  {
+   "cn": "个人剂量",
+   "en": "personal dose",
+   "code": "3.3.3.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_新的实用量"
+  },
+  {
+   "cn": "个人剂量计",
+   "en": "personal dosimeter",
+   "code": "5.2.5.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备"
+  },
+  {
+   "cn": "个人监测",
+   "en": "personal monitoring",
+   "code": "5.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  }
+ ],
+ "error": null,
  "raw": null
 }

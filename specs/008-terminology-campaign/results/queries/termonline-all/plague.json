@@ -2,10 +2,347 @@
  "key": "plague",
  "term": "Plague",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T03:39:43+00:00",
- "status": "error",
- "note": "variant=Plague; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Plague: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T05:05:12+00:00",
+ "status": "ok",
+ "note": "variant=Plague; 审定公布名词库=2272; 海峡两岸名词对照库=794; 其他来源数据库=38; 预公布名词数据库=48; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "02.125",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物传染病学"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "03.1034",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_细菌感染"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "07.001",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_概述"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "01.0337",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_内科学"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "010.032",
+   "standard": "中医药学名词",
+   "subject": "中医药学_内科疾病_热病"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague,pest",
+   "code": "05.162",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_传染病学"
+  },
+  {
+   "cn": "继发鼠疫",
+   "en": "secondary plague,plague supervention",
+   "code": "07.008",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_人类鼠疫流行病学"
+  },
+  {
+   "cn": "鼠疫骚动",
+   "en": "Plague Riot",
+   "code": "05.0054",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "鼠疫菌血症",
+   "en": "plague bacteremia",
+   "code": "07.226",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_临床表现与诊断"
+  },
+  {
+   "cn": "鼠疫预测",
+   "en": "plague prediction",
+   "code": "07.054",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_动物鼠疫流行病学"
+  },
+  {
+   "cn": "鼠疫流行病学",
+   "en": "plague epidemiology",
+   "code": "07.004",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_人类鼠疫流行病学"
+  },
+  {
+   "cn": "鼠疫流行",
+   "en": "plague epidemic",
+   "code": "07.006",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_人类鼠疫流行病学"
+  },
+  {
+   "cn": "鼠疫疫苗",
+   "en": "plague vaccine",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "斑点",
+   "en": "plaque",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "噬斑",
+   "en": "plaque",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "噬[菌]斑",
+   "en": "plaque",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基板",
+   "en": "plaque",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "谱斑",
+   "en": "flocculus\",\"plage",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "普拉蒂耶",
+   "en": "Platée",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "腹桥",
+   "en": "plagula",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "毛被",
+   "en": "pelage",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "黏着斑",
+   "en": "plaque\",\"focal adhesion\",\"focal contact",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "噬菌体",
+   "en": "phage",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "板块",
+   "en": "plate",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "鼠疫",
+   "en": "plague",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "联赛",
+   "en": "league",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "联赛",
+   "en": "league",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "分组预赛",
+   "en": "group competition\",\"league",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "精准球",
+   "en": "place",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "滑行",
+   "en": "plane",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "注意界外！",
+   "en": "Place!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "第三空间",
+   "en": "Third place",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "β平面",
+   "en": "f-plane",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "防鼠疫装备",
+   "en": "plague prevention equipment",
+   "code": "4.1.4.13.5.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "平板",
+   "en": "plate",
+   "code": "6.2.14.19",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "噬斑",
+   "en": "bacteriophage plaque",
+   "code": "6.2.26.8.10.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "布拉格之春",
+   "en": "Prague Spring",
+   "code": "05.0218",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "牙菌斑",
+   "en": "dental plaque",
+   "code": "3.2.6.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "噬斑形成单位",
+   "en": "plaque-forming unit, PFU",
+   "code": "6.2.26.8.10.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "共产主义者同盟",
+   "en": "communist league",
+   "code": "04.0394",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期"
+  },
+  {
+   "cn": "噬菌体杀菌",
+   "en": "phage bactericide",
+   "code": "2.3.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_生物消毒"
+  },
+  {
+   "cn": "抗菌板材",
+   "en": "antibacterial plate",
+   "code": "3.1.13.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "code": "4.1.4.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "人群聚集场所",
+   "en": "congregate place",
+   "code": "4.1.4.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "code": "4.1.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  }
+ ],
+ "error": null,
  "raw": null
 }

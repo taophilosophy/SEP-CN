@@ -2,10 +2,347 @@
  "key": "figural moment",
  "term": "figural moment",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T03:09:41+00:00",
- "status": "error",
- "note": "variant=figural moment; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "figural moment: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T05:05:12+00:00",
+ "status": "ok",
+ "note": "variant=figural moment; 审定公布名词库=1538; 海峡两岸名词对照库=396; 其他来源数据库=89; 预公布名词数据库=121; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "交叉表",
+   "en": "crosstab figures",
+   "code": "19.159",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "位似形",
+   "en": "homothetic figures",
+   "code": "08.0124",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "全等图形",
+   "en": "congruent figures",
+   "code": "08.0119",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "相似形",
+   "en": "similar figures",
+   "code": "08.0121",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "干涉图",
+   "en": "interference figure",
+   "code": "02.00.237",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "蚀象",
+   "en": "etch figure",
+   "code": "03.01.034",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_总论"
+  },
+  {
+   "cn": "地物符号",
+   "en": "figure symbol",
+   "code": "08.0046",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林工程测量"
+  },
+  {
+   "cn": "人物全宗",
+   "en": "figure fonds",
+   "code": "03.01.029",
+   "standard": "档案学名词",
+   "subject": "档案学_档案管理_档案收集与整理"
+  },
+  {
+   "cn": "公众人物",
+   "en": "public figure",
+   "code": "17.105",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_新闻传播与人格权"
+  },
+  {
+   "cn": "核分裂象",
+   "en": "mitotic figure",
+   "code": "6.017",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤病理学"
+  },
+  {
+   "cn": "面形误差",
+   "en": "figure error",
+   "code": "06.166",
+   "standard": "光学名词",
+   "subject": "光学_光学材料"
+  },
+  {
+   "cn": "图底关系",
+   "en": "figure-ground",
+   "code": "03.351",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划与设计_城市设计"
+  },
+  {
+   "cn": "音型",
+   "en": "figure",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "可逆图形,两可图形,双关图形",
+   "en": "reversible figure\",\"ambiguous figure",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "非染色质象",
+   "en": "achromatic figure",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "染色质象",
+   "en": "chromatic figure",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "[有丝]分裂象",
+   "en": "mitotic figure",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "数码",
+   "en": "code figure",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "指示器",
+   "en": "indicator figure",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "不可能图形",
+   "en": "impossible figure",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "极图",
+   "en": "pole figure",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "木材花纹",
+   "en": "wood figure",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "有效数字",
+   "en": "significant figure",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "顺差",
+   "en": "black figure",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "动作",
+   "en": "figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "动作",
+   "en": "figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "马匹动作",
+   "en": "figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "规定动作",
+   "en": "compulsory figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "规定动作比赛",
+   "en": "figure competition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "组合动作",
+   "en": "complex figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "一组动作",
+   "en": "group of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "规定动作裁判员",
+   "en": "jury of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "变换动作",
+   "en": "change of figure",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "形体健康",
+   "en": "figure health",
+   "code": "7.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_身体素养"
+  },
+  {
+   "cn": "《西域同文志》",
+   "en": "A survey of Geography and Figures of the Western Region",
+   "code": "3.0271",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "莫徭",
+   "en": "Mo Yao",
+   "code": "3.0126",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "昆莫",
+   "en": "Kum-mo",
+   "code": "3.0248",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "莫语",
+   "en": "Mo language",
+   "code": "5.0275",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "末昂语",
+   "en": "Mo'ang language",
+   "code": "5.0239",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "豆莫娄",
+   "en": "Dou Mo Lou",
+   "code": "3.003",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "《密宗道次第广论》",
+   "en": "Sngags rim chen mo",
+   "code": "3.0352",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "仲译钦莫",
+   "en": "Drung yig chen mo",
+   "code": "3.0539",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "吉祥天母",
+   "en": "Dpal ldan lha mo",
+   "code": "3.0456",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《菩提道次第广论》",
+   "en": "Sngags rim chen mo",
+   "code": "3.0353",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "小昭寺",
+   "en": "Rgya stag ra mo che",
+   "code": "3.0571",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

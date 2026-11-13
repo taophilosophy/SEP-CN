@@ -2,10 +2,347 @@
  "key": "biological development",
  "term": "biological development",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T02:45:39+00:00",
- "status": "error",
- "note": "variant=biological development; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "biological development: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T05:05:12+00:00",
+ "status": "ok",
+ "note": "variant=biological development; 审定公布名词库=1889; 海峡两岸名词对照库=649; 其他来源数据库=194; 预公布名词数据库=342; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "生物主义",
+   "en": "biologism",
+   "code": "04.031",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": "03.746",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_儿科学_基本概念"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "code": "03.04.107",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印刷技术_设备_材料"
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "code": "15.001",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播与社会发展_总论"
+  },
+  {
+   "cn": "发育",
+   "en": "development ",
+   "code": "6.0238",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草生产"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "code": "15.037",
+   "standard": "光学名词",
+   "subject": "光学_影像技术"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": "4.0007",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_概论"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "code": "02.190",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_普通X射线成像技术_X射线照片冲洗与增感屏"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": "06.080",
+   "standard": "运动医学名词",
+   "subject": "运动医学_医务监督_运动卫生"
+  },
+  {
+   "cn": "采准",
+   "en": "development",
+   "code": "02.0757",
+   "standard": "冶金学名词",
+   "subject": "冶金学_采矿_地下采矿"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": "08.0359",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "code": "04.0804",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "展开部",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "展开",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "生物膜",
+   "en": "biological film\",\"biological membrane",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "显影剂",
+   "en": "developer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "显影",
+   "en": "developing",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "开发者",
+   "en": "developer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "弓箭步刺",
+   "en": "development",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "污染",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物强化",
+   "en": "Biological augmentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物过程",
+   "en": "biological process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算生物学",
+   "en": "Biological computation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微塑料",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物性危害",
+   "en": "Biological hazard",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物武器",
+   "en": "Biological weapon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海洋污染",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "Sustainable development",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据开发",
+   "en": "data development",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件开发",
+   "en": "Software development",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "code": "01.0091",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "code": "9.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "code": "2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "code": "3.1.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "code": "4.1.4.13.5.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "code": "6.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "code": "7.1.8",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_生物安全"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "code": "7.1.10",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_生物安全"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "code": "5.4.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测"
+  },
+  {
+   "cn": "生物去污",
+   "en": "biological decontamination",
+   "code": "6.6.5.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "code": "3.14.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "code": "1.7.1.10",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物"
+  }
+ ],
+ "error": null,
  "raw": null
 }
