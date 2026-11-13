@@ -32,7 +32,7 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=elias)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elias/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/elias/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elias/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=elias&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/elias/) 查看本词条的增强文献目录及其数据库链接。
 
@@ -68,9 +68,9 @@
 
 [^westerink-1964]: –––, 1964. “Elias und Plotin,” *Byzantinische Zeitschrift*, 57: 26–32; reprinted in *Texts and Studies in Neoplatonism and Byzantine Literature*, Amsterdam, 1980, 93–99.
 
-[^westerink-1990]: –––, 1990. “The Alexandrian commentators and the introductions to their commentaries,” in Sorabji 1990, 325–48.
-
 [^westerink-1967]: –––, 1967. *Pseudo-Elias (Pseudo-David), Lectures on Porphyry’s Isagoge*, Amsterdam.
+
+[^westerink-1990]: –––, 1990. “The Alexandrian commentators and the introductions to their commentaries,” in Sorabji 1990, 325–48.
 
 [^van-2018]: Van der Meeren, S. 2018. “Protreptique et isagogique: les vestibules de la philosophie.” In O. Alieva, A. Kotzé, S. van der Meeren (eds.). *When Wisdom Calls: Philosophical Protreptic in Antiquity*, Turnhout: 407–455.
 
