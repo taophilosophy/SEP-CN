@@ -12,7 +12,7 @@
 
 在一本流行教科书中，Douglas Futuyma 给出了一个更宽泛的定义：
 
-> [生物进化]是生物群体性状在世代更迭过程中发生的变化……它涵盖一切，从种群内某一基因不同形式比例的微小变化，直到从最早的生物演变为恐龙、蜜蜂、橡树和人类的种种改变。(2005: 2)
+> [生物进化]是生物群体性状在世代更迭过程中发生的变化……它涵盖一切，从种群内某一基因不同形式比例的微小变化，直到从最早的生物演变为恐龙、蜜蜂、橡树和人类的种种改变。(2005: 2)[^futuyma-2005]
 
 还要注意，与群体遗传学的定义不同，Futuyma 的定义并不局限于等位基因层面的变化；John Endler 的定义在这方面与之类似：
 
@@ -58,26 +58,26 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=evolution)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/evolution/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/evolution/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/evolution/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=evolution&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/evolution/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
-* [Darwin Correspondence Project](https://www.darwinproject.ac.uk/)
-* [Darwin Manuscripts Project](https://www.amnh.org/our-research/darwin-manuscripts-project/)
-* [Darwin Online](http://darwin-online.org.uk/)
-* [The Alfred Russel Wallace Correspondence Project](https://wallaceletters.myspecies.info/content/homepage)
-* [History and Philosophy of Biology Resources](http://www.rlm.net/philbio.html)
-* [Evolution 101](http://evolution.berkeley.edu/evolibrary/article/evo_01)
-* [PBS: Evolution](http://www.pbs.org/wgbh/evolution/)
-* [National Academy of Sciences Evolution Resources](http://www.nas.edu/evolution/)
+* [达尔文通信项目](https://www.darwinproject.ac.uk/)
+* [达尔文手稿项目](https://www.amnh.org/our-research/darwin-manuscripts-project/)
+* [达尔文在线](http://darwin-online.org.uk/)
+* [阿尔弗雷德·拉塞尔·华莱士通信项目](https://wallaceletters.myspecies.info/content/homepage)
+* [生物学史与生物学哲学资源](http://www.rlm.net/philbio.html)
+* [进化论入门（Evolution 101）](http://evolution.berkeley.edu/evolibrary/article/evo_01)
+* [PBS：进化](http://www.pbs.org/wgbh/evolution/)
+* [美国国家科学院进化论资源](http://www.nas.edu/evolution/)
 
 ## 相关词条
 
 适应主义 | 利他主义 | 生物学发育：理论 | 生物学个体 | 生物学哲学 | 细胞生物学哲学 | 神创论 | 达尔文主义 | 发育生物学 | 发育生物学：进化与发育 | 生态学 | 进化认识论 | 进化：达尔文之前的观念 | 进化：文化的 | 进化：从《物种起源》到《人类的由来》 | 女性主义哲学介入：生物学哲学 | 适合度 | 博弈论：进化博弈论 | 基因 | 遗传漂变 | 遗传学 | 遗传学：生态遗传学 | 遗传学：基因型/表型区分 | 遗传学：群体遗传学 | 遗传力 | 信息：生物信息 | 遗传系统 | 先天/获得区分 | 宏进化哲学 | 微生物学哲学 | 分子生物学 | 道德：与进化生物学 | 自然选择 | 自然选择：单位与层级 | 系统发育推断 | 进化心理学 | 宗教：进化进路 | 复制与繁殖 | 社会生物学 | 物种
 
-### 致谢
+## 致谢
 
 感谢 Melinda Bonnie Fagan 与 Jim Tabery 提出有益意见。
 
