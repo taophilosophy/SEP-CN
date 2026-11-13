@@ -208,3 +208,13 @@
 **留队歧义 22 人**：Engels、Ebert、Simmel、Gentile、Gentzen、Garber、Harvey Friedman、Friedmann、Georg Forster、Georg Ernst Stahl、Bilfinger、Washington、Froben 两人、Gale 两人等。
 
 **验收**：硬错误 0；人名缺项 2947 → 2891。
+
+## 2026-11-14 GND J 段（44 行）
+
+**范围**：续取 120 行（Gillespie 至 Hallyn），命中 46（exact 39／variant 7）、歧义 25、查无 39，采信 44（跳过无地域码 10）。凭证 `results/verify-2026-11-14-gnd-j.tsv`。
+
+**拒采 2 条**：`Gillespie, John H.`（GND 作 1858–1924，与键所指进化生物学家不合）、`Gunter, Carl`（GND 作 1885–1951，身份不合）。
+**口径校正**：Gödel 取“奥地利／美国／逻辑学”；新增 Tibet→西藏 映射（Gorampa 条）。
+**留队歧义 25 人**：Goldman、Gramsci、Goya、Grant 三人、Glymour 类无地域码者、Hájek、Hale、Guo Xiang、Guyer、Lukács 等。
+
+**验收**：硬错误 0；人名缺项 2891 → 2847。
