@@ -1001,182 +1001,242 @@ segments:
     kind: body
     source: |-
       > In this book we absolutely and unequivocally refuse to give proofs of this second type [the one relying on the transfer principle]. Every result is proved uniformly for all real closed ground fields. Our philosophical objection to transcendental proofs [those relying on the transfer principle] is that they may logically prove a result but they do not explain it, except for the special case of real numbers. (Brumfiel 1979, 166)[^brumfiel-1979]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在本书中，我们绝对而毫不含糊地拒绝给出第二类证明〔依赖转移原理的那类〕。每个结果都一致地对所有实闭基域加以证明。我们对超越证明〔依赖转移原理的那些〕的哲学异议是：它们或许在逻辑上证明了一个结果，却并不解释它——实数这个特殊情形除外。（Brumfiel 1979, 166）[^brumfiel-1979]
+    step2: |-
+      > 在本书中，我们绝对而毫不含糊地拒绝给出第二类证明〔依赖转移原理的那类〕。每个结果都一致地对所有实闭基域加以证明。我们对超越证明〔依赖转移原理的那些〕的哲学异议是：它们或许在逻辑上证明了一个结果，却不解释它——实数这个特殊情形除外。（Brumfiel 1979, 166）[^brumfiel-1979]
   - id: 122
     kind: body
     source: |-
       Brumfiel prefers a third proof method which aims at giving non transcendental proofs of purely algebraic results. This does not mean that he restricts himself to just elementary methods; he does use stronger tools but it is crucial that they apply uniformly to all real closed fields. For an analysis of Brumfiel’s explanatory program see (Hafner and Mancosu 2008)[^hafner-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布鲁姆菲尔偏爱第三种证明方法，它旨在给出纯代数结果的非超越证明。这并不意味着他把自己限制在初等方法上；他确实使用更强的工具，但关键是这些工具一致地适用于所有实闭域。对布鲁姆菲尔解释性纲领的分析，见（Hafner and Mancosu 2008）[^hafner-2008]。
+    step2: |-
+      布鲁姆菲尔偏爱第三种证明方法，旨在给出纯代数结果的非超越证明。这并不意味着他把自己限于初等方法；他确实使用更强的工具，但关键是这些工具一致地适用于所有实闭域。对布鲁姆菲尔解释性纲领的分析，见（Hafner and Mancosu 2008）[^hafner-2008]。
   - id: 123
     kind: body
     source: |-
       The above example is one in which an entire area of mathematics is organized favoring certain proofs (which, according to the author, possess explanatory virtue) over others (which lack explanatory virtue). One could easily provide myriads of statements by mathematicians contrasting explanatory and non-explanatory proofs of the same theorem or explanatory talk applied other aspects of mathematics that do not reduce to proofs. We will only provide one more example taken from a book by Mordell where dissatisfaction for the lack of explanatoriness of certain Euclidean proofs is at stake:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上面的例子中，数学的一个完整领域被组织得偏爱某些证明（按作者的看法，它们具有解释德性）而不偏爱另一些证明（缺乏解释德性）。数学家对比同一定理的解释性与非解释性证明、或把解释性谈论用于证明之外的其他数学面向的陈述，可以轻易举出无数条。我们只再提供一个例子，取自莫德尔的一本书，其中萦绕着对某些欧几里得证明缺乏解释性的不满：
+    step2: |-
+      上面的例子中，数学的一个完整领域被组织得偏爱某些证明（按作者的看法，它们具有解释德性）而不偏爱另一些（缺乏解释德性）。数学家对比同一定理的解释性与非解释性证明、或把解释性谈论用于证明之外的其他数学面向的陈述，可轻易举出无数条。我们只再提供一个例子，取自莫德尔的一本书，其中萦绕着对某些欧几里得证明缺乏解释性的不满：
   - id: 124
     kind: body
     source: |-
       > Even when a proof has been mastered, there may be a feeling of dissatisfaction with it, though it may be strictly logical and convincing; such as, for example, the proof of a proposition in Euclid. The reader may feel that something is missing. The argument may have been presented in such a way as to throw no light on the why and wherefore of the procedure or on the origin of the proof or why it succeeds. (1959, 11)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 即便一个证明已被掌握，人们仍可能对它有一种不满之感——尽管它可能严格合乎逻辑且有说服力；例如欧几里得某个命题的证明。读者可能觉得缺了点什么。论证的呈现方式，可能对这一做法的所以然、对证明的来历、或对它为何成功，都不予说明。（1959, 11）
+    step2: |-
+      > 即便一个证明已被掌握，人们仍可能对它有不满之感——尽管它可能严格合乎逻辑且有说服力；例如欧几里得某个命题的证明。读者可能觉得缺了点什么。论证的呈现方式，可能对这一做法的所以然、对证明的来历、或对它为何成功，都不予说明。（1959, 11）
   - id: 125
     kind: body
     source: |-
       This sense of dissatisfaction will often lead to a search for a more satisfactory proof. Mathematicians appeal to this phenomenon often enough. While early work in the area (see Sandborg 1997 and Hafner and Mancosu 2005)[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997] had attempted to sample the variety of mathematical explanations and the extent of their recognition in mathematical practice by limited search tools, a combination of experimental philosophy (Pease, Aberdein, and Martin 2019) and application of AI using large language models (D’Alessandro forthcoming; Meja-Ramos et al. 2019)[^meja-ramos-2019] have recently been deployed to map in more systematical ways the extent of explanatory talk both in the making of mathematics (the ‘back’ of mathematics) as well as in the final outcome of such research (the ‘front’ of mathematics).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种不满感常常引向对更令人满意的证明的追寻。数学家诉诸这一现象的次数足够多。该领域的早期工作（见 Sandborg 1997 与 Hafner and Mancosu 2005）[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997]曾尝试用有限的检索工具，抽样数学解释的多样性及其在数学实践中被认可的程度；近来则部署了实验哲学（Pease, Aberdein, and Martin 2019）与使用大语言模型的 AI 应用（D’Alessandro forthcoming; Meja-Ramos et al. 2019）[^meja-ramos-2019]的组合，以更系统的方式测绘解释性谈论的范围——既在数学的制作过程中（数学的“后台”），也在这类研究的最终产物中（数学的“前台”）。
+    step2: |-
+      这种不满感常引向对更令人满意的证明的追寻。数学家诉诸这一现象的次数足够多。该领域早期工作（见 Sandborg 1997 与 Hafner and Mancosu 2005）[^hafner-2005][^mancosu-2005][^mancosu-2005-2][^sandborg-1997]曾尝试用有限的检索工具，抽样数学解释的多样性及其在数学实践中被认可的程度；近来则部署了实验哲学（Pease, Aberdein, and Martin 2019）与使用大语言模型的 AI 应用（D’Alessandro forthcoming; Meja-Ramos et al. 2019）[^meja-ramos-2019]的组合，以更系统的方式测绘解释性谈论的范围——既在数学的制作过程中（数学的“后台”），也在其最终产物中（数学的“前台”）。
   - id: 126
     kind: body
     source: |-
       Mathematical explanations of mathematical facts have a distinguished pedigree as they are already singled out by Aristotle in his distinction between ‘proof of the fact’ and ‘proof of the reasoned fact’. The distinction played a role in the development of the philosophy of mathematics and is still at the core of the accounts of philosophy of mathematics propounded by Bolzano and Cournot, two major philosophers of mathematics in the nineteenth century. They construe the central problem of philosophy of mathematics as that of accounting for the distinction between explanatory and nonexplanatory demonstrations. In the case of Bolzano this takes the form of a theory of Grund (ground) and Folge (consequence). Kitcher (1975) was the first to read Bolzano as articulating a theory of mathematical explanation. In the case of Cournot this is spelled out in terms of the opposition between “ordre logique” and “ordre rationnel” (see Cournot 1851; Mancosu 1999)[^cournot-1851][^mancosu-1999]. In Bolzano’s case, the aim of providing a reconstruction of parts of analysis and geometry, so that the exposition would use only “explanatory” proofs, also led to major mathematical results, such as his purely analytic proof of the intermediate value theorem. There is another tradition of thinking of explanation in mathematics that includes Mill, Lakatos, Russell and Gödel. These authors are motivated by a conception of mathematics (and/or its foundations) as hypothetico-deductive in nature and this leads them to construe mathematical activity in analogy with how explanatory hypotheses occur in science (see Mancosu 2001 for more details)[^mancosu-2001].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学事实的数学解释有着显赫的谱系：亚里士多德在其“事实之证明”与“有理据之事实的证明”的区分中已把它们单独挑出。这一区分在数学哲学的发展中扮演过角色，至今仍是 19 世纪两位数学哲学大家——波尔查诺与古尔诺——所提数学哲学说明的核心。他们把数学哲学的中心问题构想为：说明解释性论证与非解释性论证之间的区分。就波尔查诺而言，这采取根据（Grund）与后承（Folge）的理论形态。基切尔（1975）第一个把波尔查诺读作在阐明一种数学解释理论。就古尔诺而言，这以“逻辑秩序”（ordre logique）与“理性秩序”（ordre rationnel）的对立来表述（见 Cournot 1851; Mancosu 1999）[^cournot-1851][^mancosu-1999]。就波尔查诺而言，重构部分分析与几何、使阐述只使用“解释性”证明的目标，也带来了重大数学成果，如他对介值定理的纯分析证明。还有另一个思考数学中解释的传统，包括密尔、拉卡托斯、罗素与哥德尔。这些作者的动机是一种把数学（和/或其基础）设想为假说演绎性质的概念，这使他们把数学活动类比为解释性假说在科学中出现的方式（更多细节见 Mancosu 2001）[^mancosu-2001]。
+    step2: |-
+      数学事实的数学解释有显赫谱系：亚里士多德在其“事实之证明”与“有理据之事实的证明”的区分中已把它们单独挑出。这一区分在数学哲学的发展中扮演过角色，至今仍是 19 世纪两位数学哲学大家——波尔查诺与古尔诺——所提数学哲学说明的核心。他们把数学哲学的中心问题构想为：说明解释性论证与非解释性论证之间的区分。就波尔查诺而言，这采取根据（Grund）与后承（Folge）的理论形态。基切尔（1975）第一个把波尔查诺读作在阐明数学解释理论。就古尔诺而言，这以“逻辑秩序”（ordre logique）与“理性秩序”（ordre rationnel）的对立来表述（见 Cournot 1851; Mancosu 1999）[^cournot-1851][^mancosu-1999]。就波尔查诺而言，重构部分分析与几何、使阐述只用“解释性”证明的目标，也带来重大数学成果，如他对介值定理的纯分析证明。另有思考数学中解释的另一传统，包括密尔、拉卡托斯、罗素与哥德尔。这些作者的动机是把数学（和/或其基础）设想为假说演绎性质，这使他们把数学活动类比为解释性假说在科学中出现的方式（更多细节见 Mancosu 2001）[^mancosu-2001]。
   - id: 127
     kind: body
     source: |-
       There are several accounts on offer of mathematical explanation and it is not possible here to list them all or in any detail. Various classification schemes can also be used to classify such accounts. For instance, Chris Pincock (2023) uses the opposition between monism (mathematical explanations can be reduced to a single explanatory relevance relation) and pluralism (mathematical explanations display a multiplicity of explanatory relevance relations) as the watershed for classifying the major accounts on offer, but other criteria are also possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现有的数学解释说明有多个，无法在此一一列举或详述。还可以用各种分类方案来给这些说明分类。例如，克里斯·平科克（Chris Pincock）（2023）以一元论（数学解释可还原为单一的解释性关联关系）与多元论（数学解释呈现多重解释性关联关系）的对立作为给现有主要说明分类的分水岭，但其他标准也是可能的。
+    step2: |-
+      现有的数学解释说明有多个，无法在此一一列举或详述。还可用各种分类方案给这些说明分类。例如克里斯·平科克（Chris Pincock）（2023）以一元论（数学解释可还原为单一解释性关联关系）与多元论（数学解释呈现多重解释性关联关系）的对立为分水岭给现有主要说明分类，但其他标准也可能。
   - id: 128
     kind: body
     source: |-
       Among the major accounts are those of Steiner (1978), Kitcher (1989), Lange (2017), and Pincock (2015a, 2015b, 2025). A variety of counterfactual accounts have also been proposed in the last decade (by, among others, Reutlinger, Baron, Colyvan, Ripley, and Povich; for a critical survey of the counterfactual accounts see the extended discussion in Chapter 1 of Pincock 2023)[^pincock-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主要说明中有斯坦纳（1978）、基切尔（1989）、兰格（Lange 2017）与平科克（2015a, 2015b, 2025）的方案。过去十年还提出了多种反事实说明（提出者除其他人外有 Reutlinger、Baron、Colyvan、Ripley 与 Povich；对反事实说明的批判性综述见 Pincock 2023 第 1 章的扩展讨论）[^pincock-2023]。
+    step2: |-
+      主要说明中有斯坦纳（1978）、基切尔（1989）、兰格（Lange 2017）与平科克（2015a, 2015b, 2025）的方案。过去十年还提出多种反事实说明（提出者有 Reutlinger、Baron、Colyvan、Ripley 与 Povich 等；对反事实说明的批判性综述见 Pincock 2023 第 1 章的扩展讨论）[^pincock-2023]。
   - id: 129
     kind: body
     source: |-
       Another point is the relationship between explanation and understanding. While nobody denies that explanation is connected to understanding, some scholars have been trying to characterize explanation in terms of understanding and have developed so-called *epistemic* accounts of mathematical explanation (see Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023; for a critique of such approaches, see Chudnoff and De Toffoli 2025. See also Lehet 2021b; D’Alessandro and Lehet 2024)[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一点是解释与理解的关系。虽然无人否认解释与理解相连，一些学者却试图用理解来刻画解释，并发展出所谓数学解释的 *认知* 说明（见 Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023；对此类进路的批评见 Chudnoff and De Toffoli 2025。另见 Lehet 2021b; D’Alessandro and Lehet 2024）[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b]。
+    step2: |-
+      另一点是解释与理解的关系。虽无人否认解释与理解相连，一些学者却试图用理解刻画解释，并发展出所谓数学解释的 *认知* 说明（见 Inglis and Mejía Ramos 2021; Frans and Van Kerkhove 2023；对此类进路的批评见 Chudnoff and De Toffoli 2025。另见 Lehet 2021b; D’Alessandro and Lehet 2024）[^chudnoff-2025][^d’alessandro-2024][^frans-2023][^inglis-2021][^lehet-2021b]。
   - id: 130
     kind: body
     source: |-
       ### 3.3 Mathematical Rigor
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 数学的严格性
+    step2: |-
+      ### 3.3 数学的严格性
   - id: 131
     kind: body
     source: |-
       Rigor is perhaps the most paradigmatic of the epistemic virtues associated with mathematical proof. Proofs should be rigorous. More than that, a putative proof that is not rigorous is not a genuine proof, so proofs *must* be rigorous. To call a proof rigorous means that it successfully establishes that its conclusion follows from its premises through acceptable deductive steps. Rigorous proofs are contrasted with proof sketches, flawed arguments, and mere plausibility claims. As with other epistemic virtues, rigor admits of a process/product ambiguity: one may say that a mathematician proceeds rigorously, or that a proof or theory is itself rigorous. We will focus on the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格性也许是与数学证明相连的认知德性中最典范的一个。证明应当严格。不止于此：一个不严格的候选证明不是真正的证明，所以证明 *必须* 严格。称一个证明严格，意思是它成功地确立其结论经可接受的演绎步骤从前提推出。严格的证明与证明梗概、有缺陷的论证和单纯的可信性断言形成对照。与其他认知德性一样，严格性也有过程/产物歧义：可以说数学家行进得严格，也可以说证明或理论本身是严格的。我们聚焦后者。
+    step2: |-
+      严格性也许是与数学证明相连的认知德性中最典范的一个。证明应当严格。不止如此：不严格的候选证明不是真正的证明，所以证明 *必须* 严格。称一个证明严格，意思是它成功确立其结论经可接受的演绎步骤从前提推出。严格的证明与证明梗概、有缺陷的论证和单纯可信性断言相对照。与其他认知德性一样，严格性也有过程/产物歧义：可说数学家行进得严格，也可说证明或理论本身是严格的。我们聚焦后者。
   - id: 132
     kind: body
     source: |-
       While mathematicians are generally satisfied with being able to recognize rigorous proofs, the main philosophical challenge around rigor is to provide a clear characterization of it. Historically, rigor has been implemented in different ways. With its axiomatic structure, Euclidean geometry strived for an ideal of rigor where all primitive objects were defined in advance and all propositions were deduced from other propositions, going back to the postulates. A relaxation of this ideal was introduced with the development of the calculus in the 18ᵗʰ century. This relaxation involved the use of unreliable methods, such as those involving infinitesimals and infinite series. This gave rise to a counter-tendency, known as the “rigorization” or “arithmetization” of analysis, which implied, for instance, a ban on intuitive reasoning in analysis (Hahn 1980; Burgess 2015)[^burgess-2015][^hahn-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学家一般满足于能够识别严格的证明，而围绕严格性的主要哲学挑战，是给出它的清晰刻画。历史上，严格性曾以不同方式落实。凭借公理化结构，欧几里得几何追求一种严格性理想：所有原始对象预先定义，所有命题从其他命题推出，回溯到公设。这一理想在 18 世纪微积分的发展中出现了松弛。这种松弛涉及不可靠方法的使用，如涉及无穷小量与无穷级数的方法。由此产生了一个反向趋势，即分析的“严格化”或“算术化”，例如它意味着在分析中禁止直观推理（Hahn 1980; Burgess 2015）[^burgess-2015][^hahn-1980]。
+    step2: |-
+      数学家一般满足于能识别严格的证明，而围绕严格性的主要哲学挑战是给出其清晰刻画。历史上，严格性曾以不同方式落实。凭公理化结构，欧几里得几何追求一种严格性理想：所有原始对象预先定义，所有命题从其他命题推出，回溯到公设。这一理想在 18 世纪微积分发展中出现松弛。这种松弛涉及不可靠方法的使用，如涉及无穷小量与无穷级数的方法。由此产生反向趋势，即分析的“严格化”或“算术化”，例如它意味着在分析中禁止直观推理（Hahn 1980; Burgess 2015）[^burgess-2015][^hahn-1980]。
   - id: 133
     kind: body
     source: |-
       Even if we can talk about mathematical rigor before the rigorization of analysis that culminated at the beginning of the 20ᵗʰ century, the problem surrounding mathematical rigor that we face today has clearer contours than its historical counterparts and can only be stated with the aid of modern logic. From the standpoint of logic, rigor guarantees that the premises of an argument logically imply its conclusion. It is through breakthroughs in logic in the 1920s and 30s that the semantic conception of logical implication was linked to syntactic notions of deducibility. Gödel proved his completeness theorem in 1929. By the 1940s, it was widely accepted that any rigorously established modern mathematical result admits a formal derivation from the axioms of set theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便我们能在 20 世纪初达到顶点的分析严格化之前谈数学严格性，今天我们所面对的数学严格性问题也比其历史对应物轮廓更清晰，且只能借助现代逻辑来陈述。从逻辑的立场看，严格性保证论证的前提逻辑蕴涵其结论。正是通过 1920 与 1930 年代逻辑的突破，逻辑蕴涵的语义概念才与可演绎性的句法概念联系起来。哥德尔于 1929 年证明了完备性定理。到 1940 年代，人们已普遍接受：任何严格确立的现代数学结果都可以从集合论公理得到形式推导。
+    step2: |-
+      即便能在 20 世纪初达到顶点的分析严格化之前谈数学严格性，今天所面对的数学严格性问题也比其历史对应物轮廓更清晰，且只能借助现代逻辑陈述。从逻辑立场看，严格性保证论证的前提逻辑蕴涵其结论。正是通过 1920 与 1930 年代逻辑的突破，逻辑蕴涵的语义概念才与可演绎性的句法概念联系起来。哥德尔于 1929 年证明完备性定理。到 1940 年代，人们已普遍接受：任何严格确立的现代数学结果都可从集合论公理得到形式推导。
   - id: 134
     kind: body
     source: |-
       Through these results, one major aspect of the contemporary problem of rigor can be articulated as a problem about the relationship between informal proofs, which are the common currency among mathematicians, and formal proofs, or derivations in a specific formal system, that are the logicians’ ideal of proof. Or, even more precisely, about the relationship between informal and formal provability (Leitgeb 2009)[^leitgeb-2009]. The question is: how can informal proofs guarantee the existence of formal proofs without being one? That is: how can the perspective of the working mathematicians match that of logicians?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经由这些结果，当代严格性问题的一个重要面向可以被表述为：非形式证明（数学家之间的通用通货）与形式证明（特定形式系统中的推导，逻辑学家的证明理想）之间的关系问题。或者更准确地说，是非形式可证性与形式可证性之间的关系问题（Leitgeb 2009）[^leitgeb-2009]。问题是：非形式证明如何能保证形式证明存在而不必就是形式证明？也就是说：工作中的数学家的视角如何与逻辑学家的视角相匹配？
+    step2: |-
+      经由这些结果，当代严格性问题的一个重要面向可表述为：非形式证明（数学家间的通用通货）与形式证明（特定形式系统中的推导，逻辑学家的证明理想）之间的关系问题。或更准确说，是非形式可证性与形式可证性之间的关系问题（Leitgeb 2009）[^leitgeb-2009]。问题是：非形式证明如何能保证形式证明存在而不必就是形式证明？也即：工作中数学家的视角如何与逻辑学家的视角相匹配？
   - id: 135
     kind: body
     source: |-
       From the perspective of working mathematicians, informal proofs are sufficient to establish a mathematical proposition. This does not mean that mathematicians do not believe that a formal derivation of such a proposition does not exist, but simply that the criteria of acceptability for proofs often do not depend on formal proofs:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从工作数学家的视角看，非形式证明足以确立一个数学命题。这并不意味着数学家不相信此类命题的形式推导不存在，而只是说，证明的可接受性标准往往不依赖形式证明：
+    step2: |-
+      从工作数学家的视角看，非形式证明足以确立一个数学命题。这不是说数学家不相信此类命题的形式推导存在，而只是说，证明的可接受性标准往往不依赖形式证明：
   - id: 136
     kind: body
     source: |-
       > In some cases, mathematicians don’t accept a proof because it is formalizable; they accept a proof for other reasons (e.g., visualizations they know to be reliable), and then they infer that it is formalizable. (De Toffoli 2021b, 1787)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在某些情形下，数学家接受一个证明并不是因为它可形式化；他们因别的理由接受证明（例如他们知道可靠的 visualization），然后才推断它是可形式化的。（De Toffoli 2021b, 1787）
+    step2: |-
+      > 在某些情形下，数学家接受一个证明并不是因为它可形式化；他们因别的理由接受证明（例如他们知道可靠的 visualization），然后才推断它是可形式化的。（De Toffoli 2021b, 1787）
   - id: 137
     kind: body
     source: |-
       That is, correctness is equated to formalizability, but the latter is not used as evidence – it is rather a consequence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，正确性被等同于可形式化，但后者并不被当作证据——它反倒是结论：
+    step2: |-
+      也就是说，正确性被等同于可形式化，但后者并不被当作证据——它反倒是结论：
   - id: 138
     kind: body
     source: |-
       > [W]e do not need to invoke formal verification for empirical support. Mathematical disputes over the correctness of a proof generally hinge on the complexity of the argument and the difficulty of filling in the details, not on the correctness of any single, atomic inference. In practice, mathematicians generally expect that if a step in a proof is correct, it can be spelled out in detail, reducing it to inferences that are mathematically immediate. And we have seen enough logic by now to know that such inferences are generally amenable to formalization. (Avigad 2021, 3–4)[^avigad-2021]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们不需要为经验支持援引形式验证。关于证明正确性的数学争论，一般取决于论证的复杂性与补全细节的难度，而不取决于任何单个原子推理的正确性。实践中，数学家一般预期：证明中的一步若正确，就可以详细展开，把它还原为数学上直接的推理。我们如今已见过足够多的逻辑，知道这类推理一般是可以形式化的。（Avigad 2021, 3–4）[^avigad-2021]
+    step2: |-
+      > 我们不需要为经验支持援引形式验证。关于证明正确性的数学争论，一般取决于论证的复杂性与补全细节的难度，而非任何单个原子推理的正确性。实践中，数学家一般预期：证明中的一步若正确，就可详细展开，把它还原为数学上直接的推理。我们如今已见过足够多的逻辑，知道这类推理一般可形式化。（Avigad 2021, 3–4）[^avigad-2021]
   - id: 139
     kind: body
     source: |-
       Even if formalizability is not often used as support, evidence that formalization is impossible is generally taken as evidence that a result cannot be proven *tout court* (for a contrary opinion, see Weatherall and Wolfson forthcoming). Consider the independence results; everyone agrees that mathematicians would waste their time trying to prove the Continuum Hypothesis using conventional means. This holds more generally. Evidence of non-formalizability is evidence that something has gone awry:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便可形式化不常被用作支持，形式化不可能的证据一般也被当作一个结果根本无法证明的证据（相反意见见 Weatherall and Wolfson 即出）。考虑独立性结果：人人都同意，数学家用常规手段去证连续统假设是浪费时间。这一点可以推广。不可形式化的证据就是出了问题的证据：
+    step2: |-
+      即便可形式化不常被用作支持，形式化不可能的证据一般也被当作一个结果根本无法证明的证据（相反意见见 Weatherall and Wolfson 即出）。考虑独立性结果：人人都同意，数学家用常规手段证连续统假设是浪费时间。这一点可推广。不可形式化的证据就是出了问题的证据：
   - id: 140
     kind: body
     source: |-
       > should it become clear that the implications (of assumptions to conclusion) of an informal proof cannot be replicated by a formal analogue, the status of that informal proof as a successful proof will be rejected. (Azzouni 2009, 14)[^azzouni-2009]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一旦非形式证明的（从前提到结论的）蕴涵无法被形式对应物复现变得清楚，该非形式证明作为成功证明的地位就将被拒斥。（Azzouni 2009, 14）[^azzouni-2009]
+    step2: |-
+      > 一旦非形式证明的（从前提到结论的）蕴涵无法被形式对应物复现变得清楚，该非形式证明作为成功证明的地位就将被拒斥。（Azzouni 2009, 14）[^azzouni-2009]
   - id: 141
     kind: body
     source: |-
       And formalizability, or at least partial formalizability, has also been invoked to explain the extraordinary consensus that contemporary mathematicians enjoy. According to Wagner (2022), historically, mathematical consensus on the validity of proof was much less widespread. The current robust agreement is a modern development, consolidating around the turn of the 20ᵗʰ century. Wagner proposes that this modern consensus is best explained not by the ubiquitous use of full formalizations – which are rare – but by formalization acting as a sort of hierarchical court of appeal for resolving disputes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可形式化——至少部分可形式化——也被用来解释当代数学家所享有的非同寻常的共识。按瓦格纳（Wagner 2022），历史上关于证明有效性的数学共识远不那么普遍。眼下这种稳固一致是现代的发展，在 20 世纪之交前后定型。瓦格纳提出，这一现代共识的最佳解释，不是全形式化的普遍使用——那很罕见——而是形式化充当了一种解决争端的层级上诉法庭。
+    step2: |-
+      可形式化——至少部分可形式化——也被用来解释当代数学家享有的非同寻常的共识。按瓦格纳（Wagner 2022），历史上关于证明有效性的数学共识远不那么普遍。眼下这种稳固一致是现代的发展，在 20 世纪之交前后定型。瓦格纳提出，这一现代共识的最佳解释，不是全形式化的普遍使用——那很罕见——而是形式化充当一种解决争端的层级上诉法庭。
   - id: 142
     kind: body
     source: |-
       Let’s take stock. Mathematicians generally accept the perspective of logicians in thinking that a formal counterpart of their informal proof must exist, at least in principle. They also use partial formalizations to resolve disputes. The contemporary philosophical problem of rigor then concerns how to put together these two perspectives on proof: that of the working mathematicians and that offered by logicians. In other words, it is about the connection between traditional, or informal proofs, and derivations in formal systems, or formal proofs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      小结一下。数学家一般接受逻辑学家的视角，认为其非形式证明的形式对应物必然存在，至少原则上如此。他们也用部分形式化解决争端。当代严格性的哲学问题于是关乎如何把这两种证明视角放在一起：工作数学家的视角与逻辑学家给出的视角。换句话说，它关乎传统的即非形式的证明与形式系统中的推导即形式证明之间的联系。
+    step2: |-
+      小结。数学家一般接受逻辑学家的视角，认为其非形式证明的形式对应物必然存在，至少原则上如此。他们也用部分形式化解决争端。当代严格性的哲学问题于是关乎如何把两种证明视角放在一起：工作数学家的视角与逻辑学家的视角。换句话说，它关乎传统的即非形式的证明与形式系统中的推导即形式证明之间的联系。
   - id: 143
     kind: body
     source: |-
       According to what is often called the “Standard View,” a mathematical proof is rigorous if and only if it can be translated into a formal derivation in some canonical deductive system. This, however, is a family of views rather than a single position (see Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024)[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]. What does it mean exactly, “translated”? Philosophers of mathematical practice have often emphasized the distance between formal and informal proofs, thus challenging the Standard View or at least some of its strict interpretations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按常被称作“标准观点”的看法，一个数学证明是严格的，当且仅当它能被翻译成某个典范演绎系统中的形式推导。然而，这是一族观点而非单一立场（见 Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024）[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]。“翻译”究竟是什么意思？数学实践哲学家常常强调形式证明与非形式证明之间的距离，从而挑战标准观点、或至少挑战其某些严格的解读。
+    step2: |-
+      按常被称作“标准观点”的看法，一个数学证明是严格的，当且仅当它能被翻译成某个典范演绎系统中的形式推导。然而这是一族观点而非单一立场（见 Burgess and De Toffoli 2022; Hamami 2022; Tanswell 2024）[^burgess-2022][^hamami-2022][^tanswell-2024][^tanswell-2024-2]。“翻译”究竟是什么意思？数学实践哲学家常强调形式证明与非形式证明之间的距离，从而挑战标准观点、或至少其某些严格解读。
   - id: 144
     kind: body
     source: |-
       In the last century, the Standard View has been popularized by Bourbaki and was explicitly endorsed by Mac Lane:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上个世纪，标准观点经布尔巴基而流行，并得到麦克莱恩（Mac Lane）的明确背书：
+    step2: |-
+      上个世纪，标准观点经布尔巴基流行，并得到麦克莱恩（Mac Lane）的明确背书：
   - id: 145
     kind: body
     source: |-
       > A Mathematical proof is rigorous when it is (or could be) written out in the first order predicate language […] In practice, a proof is a sketch, in sufficient detail to make possible a routine translation of this sketch into a formal proof. (Mac Lane 1986, 377)[^mac-1986]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个数学证明是严格的，当它（或能够）用一阶谓词语言写出……在实践中，证明是一个梗概，其细节足够充分，使把这个梗概按例行程序翻译成形式证明成为可能。（Mac Lane 1986, 377）[^mac-1986]
+    step2: |-
+      > 一个数学证明是严格的，当它（或能够）用一阶谓词语言写出……实践中，证明是一个梗概，其细节足够充分，使把该梗概按例行程序翻译成形式证明成为可能。（Mac Lane 1986, 377）[^mac-1986]
   - id: 146
     kind: body
     source: |-
       Hamami (2022) critically assesses the origins of the Standard View and further develops the idea of “routine translation.” In his view, this can be decomposed into a three-stage algorithmic procedure: (i) make the informal argument explicit at a “higher-level,” (ii) unpack those higher-level moves into more basic steps, and (iii) formalize those basic steps in a suitable system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      哈马米（Hamami 2022）批判性地评估了标准观点的起源，并进一步发展“例行翻译”的观念。在他看来，它可以分解为三阶段的算法程序：（i）在“更高层次”上使非形式论证显明；（ii）把那些高层次动作拆解为更基本的步骤；（iii）在合适的系统中形式化那些基本步骤。
+    step2: |-
+      哈马米（Hamami 2022）批判性评估标准观点的起源，并进一步发展“例行翻译”观念。在他看来，它可分解为三阶段算法程序：（i）在“更高层次”上使非形式论证显明；（ii）把高层次动作拆解为更基本的步骤；（iii）在合适的系统中形式化那些基本步骤。
   - id: 147
     kind: body
     source: |-
       Recent concrete efforts towards the formalization of mathematics with the aid of *Interactive Theorem Provers* (e.g., Lean, Coq, Isabelle) align well with the Standard View. Interactive Theorem Provers are software that help mathematicians create formal proofs from their informal arguments. Some of the proponents of these tools are even thinking that mathematical practice is about to face a new rigorization trend driven by emerging technologies that are going to make formalization much easier than before (Avigad 2024; Buzzard 2024; see also De Toffoli 2024; Granville 2024; Harris 2024 for philosophical discussions)[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]. The dream of some scholars involved in the formalization of mathematics is to develop reliable auto-formalization systems that combine traditional symbolic methods with neural AI (Wu et al. 2022).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近来借助 *交互式定理证明器*（如 Lean、Coq、Isabelle）对数学进行形式化的具体努力，与标准观点颇为吻合。交互式定理证明器是帮助数学家从其非形式论证构造形式证明的软件。这些工具的一些支持者甚至认为，数学实践即将面对一场新的严格化潮流，由使形式化比以往容易得多的新兴技术驱动（Avigad 2024; Buzzard 2024；哲学讨论另见 De Toffoli 2024; Granville 2024; Harris 2024）[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]。参与数学形式化的部分学者的梦想，是发展可靠的自形式化系统，把传统符号方法与神经 AI 结合起来（Wu et al. 2022）。
+    step2: |-
+      近来借助 *交互式定理证明器*（如 Lean、Coq、Isabelle）对数学进行形式化的具体努力，与标准观点颇为吻合。交互式定理证明器是帮数学家从其非形式论证构造形式证明的软件。这些工具的一些支持者甚至认为，数学实践即将面对一场新的严格化潮流，由使形式化比以往容易得多的新兴技术驱动（Avigad 2024; Buzzard 2024；哲学讨论另见 De Toffoli 2024; Granville 2024; Harris 2024）[^avigad-2024][^buzzard-2024][^granville-2024][^harris-2024]。参与数学形式化的部分学者的梦想，是发展可靠的自形式化系统，把传统符号方法与神经 AI 结合起来（Wu et al. 2022）。
   - id: 148
     kind: body
     source: |-
       An early proponent of the Standard View is Steiner (1975), who claims that to get to a formal proof we can start from an informal proof and proceed simply by “filling in the gaps.” This strict interpretation of the connection between formal and informal proofs, however, poses some problems with respect to the use of representations and diagrams (De Toffoli and Giardino 2016; Larvor 2012)[^larvor-2012], an issue we turn to in the next section. Burgess (2015) develops a more moderate version of the Standard View.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      标准观点的早期支持者是斯坦纳（1975），他主张要得到形式证明，我们可以从非形式证明出发，径直“填补空隙”。然而，形式证明与非形式证明之间联系的这一严格解读，在表征与图形的使用上带来一些问题（De Toffoli and Giardino 2016; Larvor 2012）[^larvor-2012]，这是下一节的话题。伯吉斯（Burgess 2015）发展了标准观点的一个较温和版本。
+    step2: |-
+      标准观点的早期支持者是斯坦纳（1975），他主张要得到形式证明，可从非形式证明出发，径直“填补空隙”。然而，形式证明与非形式证明之间联系的这一严格解读，在表征与图形的使用上带来一些问题（De Toffoli and Giardino 2016; Larvor 2012）[^larvor-2012]，此为下一节话题。伯吉斯（Burgess 2015）发展了标准观点的较温和版本。
   - id: 149
     kind: body
     source: |-
       Some philosophers of mathematical practice felt the need to oppose the Standard View because they thought that it threatened to *reduce* informal proofs to formal proof (in the same way that, according to some, mathematics was “reduced” to set theory). However, it is not clear whether proponents of the Standard View have this aim in mind. In any case, looking at the practice of mathematics, it is clear that informal proofs achieve much more than the justification of a particular result and cannot be reduced to derivations. This is an aspect that has been highlighted by philosophers of mathematical practice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些数学实践哲学家觉得有必要反对标准观点，因为他们认为它威胁把非形式证明 *还原* 为形式证明（如同在一些人看来数学被“还原”为集合论那样）。不过，标准观点的支持者是否有此意图并不清楚。无论如何，看看数学实践就会发现：非形式证明所达成的远不止对特定结果的辩护，也无法被还原为推导。数学实践哲学家突出了这一面向。
+    step2: |-
+      一些数学实践哲学家觉得有必要反对标准观点，因为他们认为它威胁把非形式证明 *还原* 为形式证明（如同在一些人看来数学被“还原”为集合论那样）。不过标准观点的支持者是否有此意图并不清楚。无论如何，看看数学实践就会发现：非形式证明所达成的远不止对特定结果的辩护，也无法被还原为推导。数学实践哲学家突出了这一面向。
   - id: 150
     kind: body
     source: |-
       It is in this context that, at the turn of the last century, a debate was carried out in a series of papers between Azzouni and Rav. By focusing on different functions of proofs, Rav (1999, 2007) put forward an account according to which proofs cannot be reduced to formal derivations. Contra Rav, Azzouni (2004a, 2006, 2009) argued that proofs *indicate* derivations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是在这样的语境中，上个世纪之交，阿祖尼与拉夫之间在一系列论文中展开了一场争论。通过聚焦证明的不同功能，拉夫（1999, 2007）提出一种说明：证明不能被还原为形式推导。与拉夫相反，阿祖尼（2004a, 2006, 2009）论证证明只是 *指示* 推导。
+    step2: |-
+      正是在这样的语境中，上个世纪之交，阿祖尼与拉夫在一系列论文中展开争论。聚焦证明的不同功能，拉夫（1999, 2007）提出一种说明：证明不能被还原为形式推导。与拉夫相反，阿祖尼（2004a, 2006, 2009）论证证明只是 *指示* 推导。
   - id: 151
     kind: body
     source: |-
