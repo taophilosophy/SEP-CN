@@ -99,58 +99,80 @@ segments:
     kind: body
     source: |-
       ## 3. Brief Historical Remarks
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 历史概述
+    step2: |-
+      ## 3. 历史概述
   - id: 13
     kind: body
     source: |-
       Until recently, the timelessness view dominated in both philosophy and theology. For that reason, much of the historical discussion revolves around that view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直到晚近，无时间观在哲学与神学两界都占支配地位。因此，历史上的讨论大多围绕这一观点展开。
+    step2: |-
+      直到不久之前，无时间观在哲学、神学两边都是主流。历史上的讨论，也就多半围着它转。
   - id: 14
     kind: body
     source: |-
       ### 3.1 The *Loci Classici*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 经典出处（*Loci Classici*）
+    step2: |-
+      ### 3.1 经典出处（*Loci Classici*）
   - id: 15
     kind: body
     source: |-
       The *loci classici* are to be found in Book XI of the *Confessions* of Augustine (354–430) and Book V of Boethius’s (480–c.525) *The Consolation of Philosophy*. (The extent to which the Platonism of Philo of Alexandria [c. 25 BCE–CE 40], particularly as applied to the idea of creation [for example, in his *De opificio mundi*] was influential, is not clear.) However, the styles of these two thinkers are very different. Boethius presents the idea of timeless eternity as straightforward and relatively problem-free. Augustine wrestles with the idea and expresses continual puzzlement at the idea of time itself and with it the contrasting idea of timeless eternity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经典出处见于奥古斯丁（354–430）《忏悔录》第十一卷与波爱修斯（480–约 525）《哲学的慰藉》第五卷。（亚历山大的斐洛［约公元前 25–公元 40］的柏拉图主义——尤其是它施于创世观念者［例如在其《论创世》中］——影响所及有多大，并不清楚。）不过，这两位思想家的风格极为不同。波爱修斯把超时间的永恒观呈现为直截了当、相对无事。奥古斯丁则与这一观念角力，对时间本身的观念持续表示困惑，而与之相对的超时间永恒观也随之处于困惑之中。
+    step2: |-
+      所谓经典出处，就在奥古斯丁（354–430）《忏悔录》第十一卷和波爱修斯（480–约 525）《哲学的慰藉》第五卷。（亚历山大的斐洛［约公元前 25–公元 40］的柏拉图主义——尤其落到创世观念上［比如《论创世》一书］——究竟影响多深，学界并无定论。）两位文风迥异：波爱修斯把超时间的永恒讲得干净利落，仿佛无甚麻烦；奥古斯丁却缠斗不休，对时间本身充满持续的困惑，连带着那与之相对的超时间永恒观也一样。
   - id: 16
     kind: body
     source: |-
       In Boethius, the contrast is between timeless eternity, which only God enjoys, and everlastingness, which (following Plato) the world itself possesses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在波爱修斯那里，对照存在于唯上帝得享的超时间永恒，与（依柏拉图）世界自身拥有的永在之间。
+    step2: |-
+      在波爱修斯笔下，一对对照是：唯有上帝才享有的超时间永恒，与（承柏拉图之说）世界自己便拥有的永在。
   - id: 17
     kind: body
     source: |-
       > It is the common judgement, then, of all creatures that live by reason that God is eternal. So let us consider the nature of eternity, for this will make clear to us both the nature of God and his manner of knowing. Eternity, then, is the complete, simultaneous and perfect possession of everlasting life; this will be clear from a comparison with creatures that exist in time.
       >
       > …for it is one thing to progress like the world in Plato’s theory through everlasting life, and another thing to have embraced the whole of everlasting life in one simultaneous present. (Boethius *Consolation*, V.VI., transl. V. E. Watts 1969)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一切凭理性而活的受造物都共同判定：上帝是永恒的。那么，让我们考察永恒的本性，因为它将同时向我们澄清上帝的本性与他的认知方式。所谓永恒，就是对无尽生命完整、同时而完美的占有；把它与存在于时间中的受造物相比较，这一点即一目了然。
+      >
+      > ……因为在柏拉图的理论中，像世界一样穿过无尽的生命历程是一回事，而在一个同时的当下中把无尽生命的整体揽入怀中是另一回事。（波爱修斯《哲学的慰藉》V.VI.，Watts 1969 译）
+    step2: |-
+      > 凡以理性为生的受造物，有一共识：上帝永恒。让我们细看永恒的本性——上帝的本性如何、他认知万物的方式如何，都将由此显明。永恒者，就是对无尽生命的完整、同时而完满的占有；同时间中的受造物一比，便一目了然。
+      >
+      > ……在柏拉图学说里，世界穿过一段无尽的生命绵延是一回事；把无尽生命的整体一次性揽入同一个当下，是另一回事。（波爱修斯《哲学的慰藉》V.VI.，Watts 1969 译）
   - id: 18
     kind: body
     source: |-
       Boethius uses his view of eternity to address the problem of divine foreknowledge (see section 6.2). If God knows beforehand what we will do then how can we act freely? His answer is that this problem dissolves in the face of the fact that God does not know anything beforehand but has an immediate, atemporal knowledge of all things.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      波爱修斯用他的永恒观来处理神圣预知问题（见 6.2 节）。如果上帝预先知道我们将做什么，我们怎能自由行动？他的回答是：这一难题面对如下事实即告消解——上帝并不预知任何事，而是对万物拥有直接的、非时间的知识。
+    step2: |-
+      波爱修斯拿他的永恒观去拆神圣预知的困局（见 6.2 节）。上帝既已预先知道我们要做什么，我们还算自由行动吗？他的回答：难题碰到这个事实就散了架——上帝压根不“预先”知道什么，他对万物的知识是直接的、非时间的。
   - id: 19
     kind: body
     source: |-
       In Boethius, we find several analogies for timeless eternity. One is that between timeless eternity and the centre of a circle. The thought is that the centre bears the same relation to any point on the circumference of the circle, and in the same way timeless eternity bears the same relation to anything in time. (Aquinas develops this analogy later.) Another analogy is that between God’s timelessly eternal vision and someone at the summit of a hill taking in at a glance what is taking place beneath her.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在波爱修斯那里，我们找到超时间永恒的几个类比。其一是超时间永恒与圆心之间的类比。其想法是：圆心对圆周上任何一点保持同一关系；同样，超时间永恒对时间中的任何事物也保持同一关系。（阿奎那后来发展了这一类比。）另一类比介于上帝超时间的永恒视见与立于山顶之人之间：后者一眼尽收山下正在发生的一切。
+    step2: |-
+      波爱修斯给超时间永恒留了几个类比。一个是超时间永恒与圆心的类比：圆心之于圆周上任何一点，关系如一；超时间永恒之于时间中的任何事物，也一样。（阿奎那后来把这个类比接了过去。）另一个是：上帝超时间的永恒视见，好比站在山顶的人，山下发生的一切，一眼望尽。
   - id: 20
     kind: body
     source: |-
       Augustine connects God’s timeless eternity to God’s being the cause of all times and God’s immutability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥古斯丁把上帝的超时间永恒与上帝是诸时间之因、上帝的不变性联系起来。
+    step2: |-
+      奥古斯丁把上帝的超时间永恒，同两件事拴在一起：上帝是一切时间的原因；上帝不可改变。
   - id: 21
     kind: body
     source: |-
@@ -159,14 +181,26 @@ segments:
       > It is not in time that you precede times. Otherwise you would not precede all times. In the sublimity of an eternity which is always in the present, you are before all things past and transcend all things future, because they are still to come. (Augustine, *Confessions*, XI. xiii (16)).
       >
       > In you it is not one thing to be and another to live: the supreme degree of being and the supreme degree of life are one and the same thing. You are being in a supreme degree and are immutable. In you the present day has no ending, and yet in you it has its end: “all these things have their being in you” (Rom.11.36). They would have no way of passing away unless you set a limit to them. Because “your years do not fail” (Ps.101.28), your years are one Today. (Augustine, *Confessions*, I. vi (10))
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 什么时间不是由你所造？如果它们从不曾存在，又如何流逝？既然你是诸时间之因，若在你造天地之前有任何时间存在，谁还能说你曾停止工作？（奥古斯丁《忏悔录》XI. xiii (15)）
+      >
+      > 你并非在时间中先于诸时间。否则你就不会先于一切时间。在常处当下的永恒之崇高中，你先于一切过去之物，超越一切未来之物，因为它们尚待到来。（奥古斯丁《忏悔录》XI. xiii (16)）
+      >
+      > 在你，存在是一回事，生活是另一回事：存在的最高程度与生命的最高程度是同一件事。你在最高程度上存在，且不可改变。在你，当下之日没有终点，然而在你它有自己的终点：“这一切都在你之中”（罗 11:36）。若你不为它们设定界限，它们便无从流逝。因为“你的年数不会断绝”（诗 101:28），你的年数是一个“今天”。（奥古斯丁《忏悔录》I. vi (10)）
+    step2: |-
+      > 哪一段时间不是你造的？它们若从不曾存在，又怎能流逝？你既是一切时间之因，若你造天地之前已有一段时间存在，谁敢说你曾袖手不工作？（奥古斯丁《忏悔录》XI. xiii (15)）
+      >
+      > 你先于诸时间，却不靠时间。不然，你就不会先于一切时间。在常处当下的永恒崇高里，你先于一切过去，超越一切未来——它们还在来的路上。（奥古斯丁《忏悔录》XI. xiii (16)）
+      >
+      > 在你，存在与生活不是两回事：存在的极致与生命的极致本是同一。你在最高处存在，也永不改变。在你，今日没有终点，终点却也在你：“这一切都在你之中”（罗 11:36）。你不画界限，它们便无处流逝。“你的年数不会断绝”（诗 101:28），所以你的年数是同一个“今天”。（奥古斯丁《忏悔录》I. vi (10)）
   - id: 22
     kind: body
     source: |-
       ### 3.2 Sources in Antiquity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 古代的源头
+    step2: |-
+      ### 3.2 古代的源头
   - id: 23
     kind: body
     source: |-
