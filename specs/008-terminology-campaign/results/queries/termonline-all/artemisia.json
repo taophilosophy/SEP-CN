@@ -1,0 +1,47 @@
+{
+ "key": "artemisia",
+ "term": "Artemisia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T11:03:21+00:00",
+ "status": "ok",
+ "note": "variant=Artemisia; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "青蒿",
+   "en": "Herba Artemisiae Annuae (拉)，sweet wormwood herb",
+   "code": "19.340",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "艾叶",
+   "en": "Folium Artemisiae Argyi (拉)，argy wormwood leaf",
+   "code": "19.362",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "茵陈",
+   "en": "Herba Artemisiae Scopariae (拉)，virgate wormwood herb",
+   "code": "19.373",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "蒌蒿",
+   "en": "seleng wormwood; Artemisia selengensis Turcz. ex Bess.",
+   "code": "05.252",
+   "standard": "农学名词",
+   "subject": "园艺作物_蔬菜作物"
+  },
+  {
+   "cn": "阿尔忒弥斯行动",
+   "en": "Operation Artemis",
+   "code": "03.0911",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
