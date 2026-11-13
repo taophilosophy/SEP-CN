@@ -55,3 +55,29 @@
 4. 65 组「姓, 名 ↔ 名 姓」双形式**保留**（键分别匹配书目形与正文形，属登记册设计内别名链，relation 审计 2026-10-31 已定「良性同义形」）。
 
 **联网核查**：termonline-standard 对 al-Nayrīzī／Boyle／Melissus／Bismarck／Mulla Sadra／Hintikka／Bridgman／Eustachius 全部查无（人名不在标准库），故主形判定走 SUMMARY 定名与语料用形两档，逐条在案。
+
+## 2026-11-13 凭证化批（并网硬编码行的合规化与纠错）
+
+**方向声明**：用户三轮指令合观为“偿还术语表、人名表告警；SEP 原文 HTML 以本地 `en/` 与 `yuanwen/` 为准，不联网抓取；凡增补修订值必须联网查证且符合规范；批准按此推进”。目标是把无凭证的增补值逐行换成可回溯证据；非目标为不改译法、不改正文、不改门禁口径。验收判据：每行依据列含权威源与查证日期、`check_terms` 硬错误 0、`check_all` 9 项全绿、凭证入库。
+
+**取证链**：一级为本地来源页（`en/<slug>/index.html`，逐条记行号与原文片段）；二级为联网权威工具书与国家图书馆规范标目——LC NAF、BnF、GND／德国数字图书馆、Britannica、SEP 官网与镜像、Springer《Encyclopedia of Renaissance Philosophy》、ODNB／Jackson Bibliography、《中国大百科全书》第三版网络版。维基系只作线索，不作依据。逐行凭证见 `results/verify-2026-11-13.tsv`（18 行，含权威源 URL、本地页行号、判定备注）。
+
+**处置**：并行会话已入库的 `specs/008-terminology-campaign/bin/fill_person_meta.py` 以硬编码填了 17 行籍属／生卒，依据列仅写“据学界通行”，无凭证。本批不删该脚本，改为按凭证覆盖式写入 18 行（含 Fakhr 重复行合并留痕），清除无凭证措辞，逐行补权威源与查证日期。
+
+**联网查证发现的 5 处错值，已更正**：
+
+| 键 | 硬编码初值 | 更正与依据 |
+| ---- | ---- | ---- |
+| Allan Ramsay | 苏格兰，1686–1758 | 来源页 `en/scottish-18th/index.html:671` 指画家（与休谟、斯密共创 Select Society），Britannica 同名条目作 1713–1784；1686–1758 为其父诗人，属实体错配 |
+| Hermeias | 埃及，c. 410–c. 450 | 生卒仅见维基系，禁作依据；按 ADR-0031 改 `fl. 5 世纪中叶`，籍属取 `en/ammonius/index.html:147,223–234` |
+| Syrianus | 希腊（亚历山大里亚生，雅典卒），d. c. 437 | `en/syrianus/index.html:149,227,284` 明载生于亚历山大里亚、主要活动于雅典、约 437 年卒；籍属改埃及（亚历山大里亚），生年不可考只留卒年 |
+| Nicolaus Taurellus | 德国，1547–1606 | `en/taurellus/index.html:147` 与 Springer 条目作生于蒙贝利亚尔（时属符腾堡，今法国杜省），籍属按出生地政权归属写明 |
+| James Dunbar | 苏格兰，c. 1742–1798 | ODNB／Jackson Bibliography 标目作 1742–98，去 `c.`；精确月日仅见档案级来源，不入表 |
+
+另：Jean Baudrillard 生日存在 7 月 27 日（LC NAF）与 29 日（Britannica）异说，年份无争议，异说留痕；William of Champeaux 卒年取本地 SEP 来源页 1122，工具书多作 1121，异说留痕不臆改；Charles Leslie Stevenson 卒年按《中国大百科全书》取 1979（中文文献有作 1978 者）。
+
+**工具**：`bin/apply_person_meta.py`（凭证驱动，支持 `--ledger` 多批续跑）。护栏按 rules/05：只按“键”精确定位、逐行身份追踪、只写第 4／5／7／8 列、覆盖式清除旧措辞、依据列含本批凭证名即跳过（幂等）、未匹配／多匹配／列数异常残余为 0 才允许写回。干跑残余 0 后写回 18 行，复跑全部判“已回填，跳过”。
+
+**门禁**：`check_terms.py` 硬错误 0；`check_all.py` 9 项全绿。
+
+**规模事实**：本批是合规化而非净偿还——17 行在上一会话已被填入值，故不在缺项队列内；并行会话同期另补 2 行，队列由 3485 降至 3483。术语表另有 169 条“非英语缺原文”告警。按 ADR-0030／0031，工具书查无者须留 `—` 并注明，检查器告警口径不变，故两类告警在现行规则下不可全量归零；后续按批次偿还，需用户对“查无行的告警豁免”作规则层裁定（走 ADR），或持续多轮逐行补证。
