@@ -29,7 +29,7 @@
 
 * 用户裁定「软全局复核」= 覆盖不软、处置软：全量逐条通读照旧，但本轮**只写 verdicts＋证据句，不 reopen 不置空**，汇总后另行裁定处置。
 * 首批 5 条（M 批 done，兼补 s2 语体留痕）：mandeville、marsilius-padua、model-organisms、moral-learning、music，全部判 `modern`（`dash=ok`），`action=none`；证据句见 `verdicts.jsonl`。s2 evidence 已按 ADR-0033 追补「语体：」结论，`check_all` 9 项复绿。
-* 台账口径：`verdicts.jsonl` 累计 145 条（modern 134／classical 7／mixed 4）。按 done 时间升序推进，每 5 条一批提交；2026-11-13 当日已推进 90 条（第 1–18 批），全部判 modern。
+* 台账口径：`verdicts.jsonl` 累计 150 条（modern 139／classical 7／mixed 4）。按 done 时间升序推进，每 5 条一批提交；2026-11-13 当日已推进 95 条（第 1–19 批），全部判 modern。
 * 已登记的非语体瑕疵（只登记不处置）：aesthetics-existentialist「小説」异体字、aesthetics-race「现像学／交又性」错字、anselm 论证编号重排、aesthetics-18th-french 标记残缺、dynamic-choice L175 成分残缺、identity-personal「个人同一性／人格同一性」术语并存、incompatibilism-theories 参考文献 L233 年份占位 YEAR、incommensurability 脚注键缺空格、intellectual-property 两节同编 4.4、ibn-ezra 照录区 Crirical、ibn-sina L77 星号嵌套错乱、integrity 参考文献标题未译且清单与正文节次不一致、kant-leibniz「necessitates」未译＋两处空参考文献标题、kant-mind「先验证成」疑误＋三处空标题、kochen-specker 与 kant-metaphysics 正文多处英文虚词残留（moreover/purported/again/somewhat/therefore 等）、kant-metaphysics 4.2 标题层级不一致。
 
 
