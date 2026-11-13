@@ -783,9 +783,9 @@ segments:
     source: |-
       **Predicative Comprehension**: $\exists X \forall x[X(x) \leftrightarrow \phi(x)]$, where $\phi$ contains no bound function or predicate variables.
     step1: |-
-      **谓词性概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 $\phi$ 不含约束函数变元或谓词变元。
+      **直谓概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 $\phi$ 不含约束函数变元或谓词变元。
     step2: |-
-      **谓词性概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 $\phi$ 不含约束函数变元或谓词变元。
+      **直谓概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 $\phi$ 不含约束函数变元或谓词变元。
   - id: 86
     kind: body
     source: |-
@@ -807,9 +807,9 @@ segments:
     source: |-
       Now let $A$ be a given proposition. By Predicative Comprehension, we may introduce predicate constants $U$, $V$ together with the assertions
     step1: |-
-      现在令 $A$ 为给定命题。由谓词性概括，我们可以引入谓词常元 $U$、$V$ 以及断言
+      现在令 $A$ 为给定命题。由直谓概括，我们可以引入谓词常元 $U$、$V$ 以及断言
     step2: |-
-      现在令 $A$ 为给定命题。由谓词性概括，我们可以引入谓词常元 $U$、$V$ 以及断言
+      现在令 $A$ 为给定命题。由直谓概括，我们可以引入谓词常元 $U$、$V$ 以及断言
   - id: 89
     kind: body
     source: |-
@@ -909,17 +909,17 @@ segments:
     source: |-
       To resolve the difficulty, we note that in deriving Excluded Middle from **ACL1** essential use was made of the principles of Predicative Comprehension and Extensionality of Functions[^note-18]. It follows that, in systems of constructive mathematics affirming **AC** (but not Excluded Middle) *either the principle of Predicative Comprehension or the principle of Extensionality of Functions must fail*. While the principle of Predicative Comprehension can be given a constructive justification, no such justification can be provided for the principle of Extensionality of Functions. Functions on predicates are given intensionally, and satisfy just the corresponding principle of Intensionality $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$. The principle of Extensionality can easily be made to fail by considering, for example, the predicates $P$: *rational featherless biped* and $Q$: *human being* and the function $K$ on predicates which assigns to each predicate the number of words in its description. Then we can agree that $P \approx Q$ but $KP = 3$ and $KQ = 2$.
     step1: |-
-      为化解这一困难，我们注意到，从 **ACL1** 推出排中律时，本质地使用了谓词性概括与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**或者谓词性概括原理，或者函数的外延性原理必定失效**。谓词性概括原理可以给出构造性辩护，函数的外延性原理却无法获得这样的辩护。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易使外延性原理失效，例如考虑谓词 $P$：**理性无羽两足动物**与 $Q$：**人**，以及谓词上的函数 $K$，它给每个谓词指派其描述中的词数。那么我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+      为化解这一困难，我们注意到，从 **ACL1** 推出排中律时，本质地使用了直谓概括与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**或者直谓概括原理，或者函数的外延性原理必定失效**。直谓概括原理可以给出构造性辩护，函数的外延性原理却无法获得这样的辩护。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易使外延性原理失效，例如考虑谓词 $P$：**理性无羽两足动物**与 $Q$：**人**，以及谓词上的函数 $K$，它给每个谓词指派其描述中的词数。那么我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
     step2: |-
-      为化解这一困难，我们注意到，从 **ACL1** 推出排中律时，本质地使用了谓词性概括与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**或者谓词性概括原理，或者函数的外延性原理必定失效**。谓词性概括原理可以获得构造性辩护，函数的外延性原理却得不到这样的辩护。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易使外延性原理失效，例如考虑谓词 $P$：**理性无羽两足动物**与 $Q$：**人**，以及谓词上的函数 $K$，它给每个谓词指派其描述中的词数。那么我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+      为化解这一困难，我们注意到，从 **ACL1** 推出排中律时，本质地使用了直谓概括与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**或者直谓概括原理，或者函数的外延性原理必定失效**。直谓概括原理可以获得构造性辩护，函数的外延性原理却得不到这样的辩护。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易使外延性原理失效，例如考虑谓词 $P$：**理性无羽两足动物**与 $Q$：**人**，以及谓词上的函数 $K$，它给每个谓词指派其描述中的词数。那么我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
   - id: 98
     kind: body
     source: |-
       In intuitionistic set theory (that is, set theory based on intuitionistic as opposed to classical logic—we shall abbreviate this as **IST**) and in topos theory the principles of Predicative Comprehension and Extensionality of Functions (both appropriately construed) hold and so there **AC** implies Excluded Middle.[^note-19] ^{,} [^note-20]
     step1: |-
-      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们简记为 **IST**）与拓扑斯理论中，谓词性概括与函数的外延性原理（两者都经过适当解释）成立，因此其中 **AC** 蕴含排中律。[^note-19] ^{,} [^note-20]
+      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们简记为 **IST**）与拓扑斯理论中，直谓概括与函数的外延性原理（两者都经过适当解释）成立，因此其中 **AC** 蕴含排中律。[^note-19] ^{,} [^note-20]
     step2: |-
-      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们简记为 **IST**）与拓扑斯理论中，谓词性概括与函数的外延性原理（两者都经过适当解释）成立，因此其中 **AC** 蕴含排中律。[^note-19] ^{,} [^note-20]
+      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们简记为 **IST**）与拓扑斯理论中，直谓概括与函数的外延性原理（两者都经过适当解释）成立，因此其中 **AC** 蕴含排中律。[^note-19] ^{,} [^note-20]
   - id: 99
     kind: body
     source: |-
