@@ -125,7 +125,7 @@ $\exists n \Delta_{\textit{IC}} (E_1\sqcup E^{n}_{2}) \models\Delta_{\textit{IC}
 
 **(Arb)**
 
-设 IC1 与 IC2 逻辑独立。若 $$\begin{align} \Delta_{\textit{IC}_1}(K_1) &\equiv \Delta_{\textit{IC}_2}(K_{2}), \textrm{ and}\\ \Delta_{\textit{IC}_{1} \leftrightarrow \neg \textit{IC}_{2}} (\{K_1, K_{2}\}) &\equiv (\textit{IC}_1\leftrightarrow \neg \textit{IC}_{2}), \textrm{ then} \\ \Delta_{\textit{IC}_{1}\lor \textit{IC}_{2}} (\{K_1, K_{2}\}) &\equiv \Delta_{\textit{IC}_1}(K_1).\end{align}$$
+设 IC1 与 IC2 逻辑独立。若 $$\begin{align} \Delta_{\textit{IC}_1}(K_1) &\equiv \Delta_{\textit{IC}_2}(K_{2}), \textrm{ 且}\\ \Delta_{\textit{IC}_{1} \leftrightarrow \neg \textit{IC}_{2}} (\{K_1, K_{2}\}) &\equiv (\textit{IC}_1\leftrightarrow \neg \textit{IC}_{2}), \textrm{ 则} \\ \Delta_{\textit{IC}_{1}\lor \textit{IC}_{2}} (\{K_1, K_{2}\}) &\equiv \Delta_{\textit{IC}_1}(K_1).\end{align}$$
 
 此公理直观上说的是：仲裁算子择取那些与 *IC* 一致的中位结果。待下一节以模型论方式表述后，该算子的行止便更为显豁。
 
@@ -144,7 +144,7 @@ $$ \textit{mod}(\Delta_{\textit{IC}}(E)) = \textit{min} (\textit{mod} (\textit{I
 所谓解释之间的距离，是一个全函数 $d: W \times W \rightarrow R^{+}$，且对一切 $\omega, \omega'\in W$ 满足：
 
 1. $d(\omega ,\omega') = d(\omega',\omega )$
-2. $d(\omega ,\omega') = 0 \textrm{ iff } \omega =\omega'$。
+2. $d(\omega ,\omega') = 0 \textrm{ 当且仅当 } \omega =\omega'$。
 
 第一点说的就是距离的对称性。设有三个信念基：$K_1 = K_3 = \{a, b, \neg c, d\}$ 与 $K_2 = \{\neg a, b, c, d\}$。以 $\omega_i$ 记 $K_i$ 的解释，则 $\omega_1 = \omega_3 = (1,1,0,1)$、$\omega_2 = (0,1,1,1)$。第一点要求 $d(\omega_1 ,\omega_2) = d(\omega_2 ,\omega_1)$。第二点则说：两个解释若相同，距离即为 0，于是 $d(\omega_1 ,\omega_3) = 0$。[^note-2]
 

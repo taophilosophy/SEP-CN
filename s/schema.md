@@ -56,7 +56,7 @@ $$ \begin{align} & \textrm{Every circle is a polygon.}\\ & \textrm{Every triangl
 
 论证文本图式的一个例子，是推理规则 **肯定前件式**（*modus ponens*）：
 
-$$ \begin{align} & A\\ & \textrm{if } A \textrm{ then }B\\\hline & B \end{align} $$
+$$ \begin{align} & A\\ & \textrm{若 } A \textrm{ 则 }B\\\hline & B \end{align} $$
 
 附加条件规定：“$A$” 与 “$B$” 替换为英语陈述句；两处 “$A$”（以及两处 “$B$”）都替换为同一个句子或公式。
 

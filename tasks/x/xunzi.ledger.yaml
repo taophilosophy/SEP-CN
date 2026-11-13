@@ -139,146 +139,194 @@ segments:
     kind: body
     source: |-
       Sometimes these rituals are described as efficient social conventions (e.g., Perkins 2014: 189–97)[^perkins-2014], but this is inadequate for two reasons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些礼有时被描述为高效的社会约定（如 Perkins 2014: 189–97）[^perkins-2014]，但这一说法之不足有二。
+    step2: |-
+      这些礼有时被刻画为行之有效的社会约定（如 Perkins 2014: 189–97）[^perkins-2014]，但这样看并不充分，理由有二。
   - id: 18
     kind: body
     source: |-
       First, Xunzi elsewhere explicitly denies that an arbitrarily chosen set of rituals would be effective. Rather, the rituals of the sage kings are legitimate because they accord with “that which makes humans human” (*ren zhi suoyi wei ren zhe* 人之所以為人者); by implication, any competing ritual code would necessarily fail. Specifically, human beings, unlike any other species of animal,[^note-6] abide by certain distinctions (*bian* 辨)—male is distinguished from female, old from young, and so on—and it is altogether natural that we do so. The rituals of the sage kings confirm the distinctions that we are bound to make by nature (the core text is *Xunzi* 5.4; see also 10.3a and 19.1c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其一，荀子在别处明确否认：随意挑选的一套礼也能行之有效。相反，圣王之礼之所以正当，是因为它们符合“人之所以为人者”（*ren zhi suoyi wei ren zhe*）；言下之意，任何与之竞争的礼制都必然失败。具体而言，人与任何其他动物物种不同，[^note-6]遵守某些分别（*bian* 辨）——男与女有别，老与少有别，等等——我们这样做完全是自然的。圣王之礼确认了我们天然必定要作的分别（核心文本是《荀子》5.4；另见 10.3a 与 19.1c）。
+    step2: |-
+      其一，荀子在别处明确否认随手择定的一套礼也能奏效。毋宁说，圣王之礼的正当性在于它们与“人之所以为人者”（*ren zhi suoyi wei ren zhe*）相合；言下之意是，任何与之相竞争的礼制都注定失败。具体说，人与任何其他动物不同，[^note-6]恪守某些分别（*bian* 辨）：男女有别、长幼有别，等等——而我们这样去做，完全是自然而然的。圣王之礼，正是对那些我们天性必定要作的分别的确认（核心文本为《荀子》5.4；另见 10.3a 与 19.1c）。
   - id: 19
     kind: body
     source: |-
       Second, rituals, in Xunzi’s conception, not only facilitate social cohesion, but also foster moral and psychological development (Ivanhoe 2014; Yearley 2014: 92–101)[^ivanhoe-2014][^yearley-2014]. Indeed, if they did not, they would be mere instruments of expedience, not rituals. These dimensions become clear when Xunzi begins to discuss specific rituals and their purposes. We observe regulations concerning funerary ceremonies and grave goods, for example, in order to learn how to avoid incivility and miserliness (19.4a-b). Similarly, the mandatory three-year mourning period for deceased rulers and parents helps us conduct ourselves properly by providing suitable forms for us to express emotions that are so deep as to be potentially debilitating:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其二，在荀子的构想中，礼不仅促进社会凝聚，也促进道德与心理的发展（Ivanhoe 2014; Yearley 2014: 92–101）[^ivanhoe-2014][^yearley-2014]。确实，若非如此，它们就只是权宜的工具，而非礼。当荀子开始讨论具体的礼及其目的时，这些维度就变得清晰。例如，我们观察关于丧葬仪式与随葬品的种种规定，为的是学会如何避免失礼与吝啬（19.4a-b）。同样，为去世的君主与父母服三年之丧的规定，为我们提供了表达深到足以令人崩溃的情感的适当形式，从而帮助我们恰当地自处：
+    step2: |-
+      其二，在荀子的构想里，礼不只促成社会的凝聚，还滋养道德与心理的成长（Ivanhoe 2014; Yearley 2014: 92–101）[^ivanhoe-2014][^yearley-2014]。诚然，倘若不然，礼便只是权宜的工具，不成其为礼。荀子一旦开始讨论具体的礼及其用意，这些维度便显露出来。比如，我们观察丧葬仪式与随葬品的种种规定，是要学会如何避免失礼与吝啬（19.4a-b）。又如，为故去的君主与父母守三年之丧，其强制性的期限，为那种深到可能把人压垮的情感提供了适当的表达形式，使我们得以恰当地自持：
   - id: 20
     kind: body
     source: |-
       > When a wound is colossal, its duration is long; when pain is profound, the recovery is slow. The three-year mourning period is a form established with reference to emotions; it is the means by which one conveys the acme of one’s pain. (*Xunzi* 19.9a)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 创巨者其日久，痛甚者其愈迟，三年之丧，称情而立文，所以为至痛极也。（*Xunzi* 19.9a）
+    step2: |-
+      > 创巨者其日久，痛甚者其愈迟，三年之丧，称情而立文，所以为至痛极也。（*Xunzi* 19.9a）
   - id: 21
     kind: body
     source: |-
       One ritual discussed *in extenso* is the village wine-drinking ceremony (*xiang* 鄉). The fact that the host fetches the guest of honor himself, but expects the other guests to arrive on their own, underscores the distinctions that need to be drawn between noble and base. And the detail that each participant toasts the next, serially and according to their ages, demonstrates that one can align society according to seniority without excluding anyone. When the guest of honor retires, the host bows and escorts him out, and the formal occasion comes to an end: this is to make it known that one can feast at leisure without becoming disorderly. The clear implication is that by taking part in the rite, we can gradually comprehend the moral principles that the sages wished us to embody (*Xunzi* 20.5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一项礼得到详尽的讨论，即乡饮酒礼（*xiang* 鄉）。主人亲自去请贵宾，却让其他宾客自行到来，这一事实凸显了贵与贱之间需要作出的分别。而每位与会者按年龄为序依次向下一人敬酒这一细节，表明人可以按长幼来安排社会秩序，而不排斥任何人。宾退席时，主人拜而送之，正式的场合就此结束：这是要让人知道，人可以从容宴饮而不至于失序。其含义显然是：通过参与这一礼，我们能逐渐领会圣人希望我们体现的道德原则（《荀子》20.5）。
+    step2: |-
+      有一项礼得到淋漓尽致的处理，即乡饮酒礼（*xiang* 鄉）。主人亲自登门延请贵宾，其余宾客则各自赴会——这一安排凸显了贵贱之间必须划清的分别。与会者又各按年齿依次向下一人举杯——这一细节表明，社会尽可以按长幼排定次序，而无须排斥任何人。贵宾告退之际，主人拜而送之于门外，正式的聚会就此收束：这是要昭示，人可以从容宴乐而不失其序。其意甚明：参与这样的礼，我们便能渐渐领会圣人希望我们身体力行的道德原则（《荀子》20.5）。
   - id: 22
     kind: body
     source: |-
       Xunzi’s rituals have such an important role to play in our emotional and moral development that he spends an entire chapter limning what are essentially rituals of artistic expression. The term he uses is “music” (*yue*), which is distinct from ritual, but Xunzi’s conception of their origin and purpose is so similar that we can scarcely speak of one without the other. Thus “ritual and music” (*liyue*) can only be understood as two aspects of human artifice (*wei*): “ritual” refers to cultural forms that affect social cohesion, “music” to those involving the orderly expression of human emotions. The crucial point is that the sages created both.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子的礼在我们情感与道德的发展中作用如此重要，以致他花了一整章来描绘本质上是艺术表达的仪式。他用的术语是“乐”（*yue*），它与礼有别，但荀子对两者起源与目的的构想如此相似，以致我们几乎无法只谈其一而不及其二。因此，“礼乐”（*liyue*）只能被理解为人之伪（*wei*）的两个方面：“礼”指影响社会凝聚的文化形式，“乐”指涉及人类情感之有序表达的文化形式。关键在于：两者都是圣人创造的。
+    step2: |-
+      荀子的礼在我们的情感与道德成长中扮演着如此重要的角色，以致他花了一整章去描摹那本质上是艺术表达的种种仪节。他所用的术语是“乐”（*yue*）。乐与礼有别，但荀子对二者起源与用途的构想如此相近，以致言其一者几乎必及其二。因此，“礼乐”（*liyue*）只能被理解为人之伪（*wei*）的两个面向：“礼”关乎影响社会凝聚的文化形式，“乐”关乎人类情感的有序表达。关键在于：二者皆为圣人所创。
   - id: 23
     kind: body
     source: |-
       Like all Confucians, Xunzi accepts that human beings have certain irrepressible impulses (*Xunzi* 20.1), which are not objectionable in themselves. The problem is that unreflective outbursts driven solely by emotional responses may cause harm, and thus we are enjoined to be mindful of our impulses, rather than to extinguish them (compare *Xunzi* 22.5a). To aid us in this process, the Sages left behind appropriate musical compositions that we can use to channel our need to express ourselves. What Xunzi meant by this is the canonical collection of *Odes* (*Shi* 詩), which all Confucians seem to have regarded as a nonpareil repository of edifying literature (Goldin 2005: 35)[^goldin-2005]. Implicit in Xunzi’s argument is the claim that the *Odes* can be used to express any emotion that any human being will ever feel.[^note-7]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与所有儒者一样，荀子承认人有某些压抑不住的冲动（《荀子》20.1），它们本身并无可指责。问题在于：单纯由情绪反应驱动的、未经反思的发泄可能造成伤害，因此我们被告诫要省察自己的冲动，而非扑灭它们（比较《荀子》22.5a）。为帮助这一过程，圣人留下了适当的乐曲，我们可以借以疏导自我表达的需要。荀子所说的，就是《诗》（*Shi* 詩）这部正典文集——所有儒者似乎都视之为无可匹比的劝善文献宝库（Goldin 2005: 35）[^goldin-2005]。荀子论证中隐含的主张是：《诗》可以用来表达任何人将会感受到的任何情感。[^note-7]
+    step2: |-
+      同一切儒者一样，荀子承认人有某些按捺不住的冲动（《荀子》20.1），这些冲动本身并不可非议。问题在于：单凭情绪反应驱动的、未经省察的发泄，可能酿成伤害。因此，我们受命省察自己的冲动，而不是扑灭它们（比较《荀子》22.5a）。为助成这一过程，圣人留下了恰当的乐章，供我们疏导自我表达之需。荀子所意指的，便是《诗》（*Shi* 詩）这一正典文集——诸儒者似乎都把它奉为无可比拟的劝善文献宝库（Goldin 2005: 35）[^goldin-2005]。荀子论证中隐含着这样一个主张：任何人将来会感受的任何情感，都可以借《诗》来表达。[^note-7]
   - id: 24
     kind: body
     source: |-
       Xunzi’s immediate purpose in this section was to counter the Mohist view that music is wasteful. Xunzi counters that by focusing exclusively on the material costs, Mo Di 墨翟 (d. ca. 390 BCE) and his followers failed to recognize the psychological utility of music as an instrument of moral suasion (Cook 1997: 21–24; Graham 1989: 259–61)[^cook-1997][^graham-1989].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子在这一部分的直接目的，是反驳墨家“乐是浪费”的观点。荀子的反驳是：墨翟（卒于约前 390 年）及其门徒只盯着物质代价，因而没有认识到乐作为道德感化工具的心理效用（Cook 1997: 21–24; Graham 1989: 259–61）[^cook-1997][^graham-1989]。
+    step2: |-
+      荀子这一部分的直接目标，是回击墨家“乐为浪费”之说。他的反驳是：墨翟（卒于约前 390 年）及其后学只盯着物质耗费，而没有看到乐作为道德感化之器的心理效用（Cook 1997: 21–24; Graham 1989: 259–61）[^cook-1997][^graham-1989]。
   - id: 25
     kind: body
     source: |-
       > When music is centered and balanced, the people are harmonious and not dissipated. When music is stern and grave, the people are uniform and not disorderly. When the people are harmonious and uniform, the army is firm and the citadels secure; enemy states dare not invade. (*Xunzi* 20.2)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 乐中平则民和而不流，乐肃庄则民齐而不乱。民和齐则兵劲城固，敌国不敢婴也。（*Xunzi* 20.2）
+    step2: |-
+      > 乐中平则民和而不流，乐肃庄则民齐而不乱。民和齐则兵劲城固，敌国不敢婴也。（*Xunzi* 20.2）
   - id: 26
     kind: body
     source: |-
       As the last quote intimates, the proper implementation of ritual is also decisive in politics and international relations.[^note-8] In the “Debate about Warfare”, for example, Xunzi offers a distinctive variant of the old Confucian idea that a true king (*wang* 王—always a moral term in Confucian discourse) will succeed on the battlefield without even having to fight, because the populace will not support a tyrant or hegemon (*ba* 霸, a lord who rules by brute force). What is unique is Xunzi’s emphasis on ritual as the key to a well-ordered state. To be sure, earlier writings had also discussed the idea of ritual as the foundation of statecraft, and the *Zuo Commentary to the Springs and Autumns* (*Zuozhuan* 左傳), in particular, is famous for its scenes in which a ruler who is about to attack his neighbor publicly justifies his aggression on the grounds that he is merely “punishing” his enemy’s intolerable violations of ritual. But Xunzi raises the significance of ritual to a new level: in his view, the ruler’s ability to govern his state in accordance with ritual is the sole criterion that will determine success or failure on the battlefield (*Xunzi* 15.1c; see also *Xunzi* 16.1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如上一引文所暗示的，礼的正当实施在政治与国际关系中也起决定作用。[^note-8] 例如在《议兵》中，荀子为古老的儒家观念提供了一个独特的变体：真正的王（*wang* 王——在儒家话语中始终是一个道德词）无须开战就能在战场上取胜，因为民众不会支持暴君或霸（*ba* 霸，以暴力统治的主）。荀子的独特之处在于把礼强调为良好秩序国家的关键。诚然，更早的文献也讨论过以礼为治国之本的想法；《春秋左氏传》（*Zuozhuan* 左傳）尤以这样的场景著称：即将进攻邻国的君主公开为其侵略辩护，理由是他只是在“惩罚”敌人对礼的不可容忍的践踏。但荀子把礼的意义提到一个新的层次：在他看来，君主依礼治国的能力，是决定战场上成败的唯一标准（《荀子》15.1c；另见《荀子》16.1）。
+    step2: |-
+      上一引文已暗示：礼的妥善施行，在政治与国际关系上同样有决定性的分量。[^note-8] 以《议兵》为例，荀子给古老的儒家观念添了一个独特的版本：真正的王（*wang* 王——在儒家话语里这始终是个道德词）甚至不必开战，便能赢下战场，因为民众不会去支持暴君或霸（*ba* 霸，凭赤裸暴力行统治之主）。荀子的独特处，在于把礼抬到良序国家之锁钥的高度。诚然，更早的文献也谈过以礼为立国之本；《春秋左氏传》（*Zuozhuan* 左傳）尤其以这样的场面著称：将攻邻国的君主公开声辩，说自己的征伐不过是“讨伐”敌方对礼的不可容忍的破坏。但荀子把礼的意义又推上一层：依他所见，君主能否依礼治国，是战场上成败的唯一判准（《荀子》15.1c；另见《荀子》16.1）。
   - id: 27
     kind: body
     source: |-
       Having established that “exalting ritual” (*longli* 隆禮) is the true path to order and strength, Xunzi expatiates in characteristic language:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在确立“隆礼”（*longli* 隆禮）是通往秩序与强盛的正道之后，荀子以特有的语言展开论述：
+    step2: |-
+      确立了“隆礼”（*longli* 隆禮）乃秩序与强盛之正道后，荀子以其特有的语言铺陈开来：
   - id: 28
     kind: body
     source: |-
       > When kings and dukes follow [the rituals], that is how they obtain the world; when they do not follow them, that is how they bring about the perdition of their altars of soil and grain. (*Xunzi* 15.4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 礼者、治辨之极也，强固之本也，威行之道也，功名之总也，王公由之所以得天下也，不由所以陨社稷也。（*Xunzi* 15.4）
+    step2: |-
+      > 礼者、治辨之极也，强固之本也，威行之道也，功名之总也，王公由之所以得天下也，不由所以陨社稷也。（*Xunzi* 15.4）
   - id: 29
     kind: body
     source: |-
       Even advanced military technology is no match for a king who “exalts ritual and esteems morality”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便最先进的军事技术，也不是“隆礼贵义”之王的对手。
+    step2: |-
+      纵有最先进的军事技术，也敌不过“隆礼贵义”的君王。
   - id: 30
     kind: body
     source: |-
       Accordingly, in two passages assessing the mighty state of Qin 秦—which would go on to unify the Chinese world under the infamous First Emperor (r. 221–210 BCE)—Xunzi acknowledged its power but diagnosed a correctible weakness: it lacked schooled moral advisors (like himself) to guide the ruler and save him from self-defeating avarice and aggression. Such counselors, moreover, should have a Confucian orientation (*Xunzi* 8.2–10 and 16.4–6). The judgment of most ancient writers is that Qin never corrected this weakness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，在两处评骘强秦的段落中——秦此后将在那位声名狼藉的始皇帝（前 221–前 210 年在位）治下统一中国世界——荀子承认其力量，但诊断出一个可以纠正的弱点：它缺少受过学校训练的道德顾问（像他自己这样的人）来引导君主，把他从自我挫败的贪婪与侵略中拯救出来。而且，这样的谋臣应当有儒家的取向（《荀子》8.2–10 与 16.4–6）。多数古代作者的判断是：秦始终没有纠正这一弱点。
+    step2: |-
+      正因如此，荀子在两处品评强秦的文字里——秦后来正是在那位恶名昭著的始皇帝（前 221–前 210 年在位）治下完成了中国世界的统一——承认其国力，却也诊断出一个尚可矫正的弱点：秦国缺少学有素养的道德顾问（像他本人那样的人），无人引导君主、把他从自取败亡的贪欲与攻伐中拉回来。而且，这样的谋臣应当以儒家为取向（《荀子》8.2–10 与 16.4–6）。就多数古代作者的判断而言，秦始终没有矫正这个弱点。
   - id: 31
     kind: body
     source: |-
       ## 4. The Source of the Rituals: Heaven (*tian* 天) and the Way (*dao* 道)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 礼的源头：天（*tian* 天）与道（*dao* 道）
+    step2: |-
+      ## 4 礼的源头：天（*tian* 天）与道（*dao* 道）
   - id: 32
     kind: body
     source: |-
       Xunzi places so much emphasis on the role of the rituals in moral self-cultivation that one might ask how the sages managed to perfect themselves when they did not have such a model themselves. A glimpse of the answer was already afforded by Xunzi’s insistence that the rituals surpass any arbitrary code of conduct because they accord with fundamental human tendencies. But elsewhere the question is addressed more fully. The rituals, it turns out, are the equivalent of helpful signposts. Just as those who ford rivers “mark” (*biao* 表) treacherous spots, the sages “marked the Way” (*biao dao* 表道) by means of rituals, so that people would no longer stumble (*Xunzi* 17.11).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子如此强调礼在道德修养中的作用，以致人们可能要问：圣人在他们自己尚无这样一个范型时，是如何完善自身的？答案的一瞥，已见于荀子的坚持：礼胜过任何随意的行止准则，因为它们符合人类的基本倾向。但在别处，这个问题得到了更充分的回答。原来，礼就相当于有用的路标。正如渡河的人给险处做“表”（*biao* 表）记，圣人也用礼“表道”（*biao dao* 表道），使人不再跌跤（《荀子》17.11）。
+    step2: |-
+      荀子把礼在道德修养中的作用抬得这样高，人们难免要问：圣人在自己尚无这一范型可循时，靠什么完成了自身的完善？答案的一鳞半爪，已藏于荀子的那个坚持：礼之所以胜过任何随手拟定的行止准则，正因为它契合人类的基本倾向。不过在别处，这一问题得到了更完整的回答。原来，礼就相当于有用的路标：渡河的人在水险处立“表”（*biao* 表）为记，圣人则以礼“表道”（*biao dao* 表道），使人从此不再失足（《荀子》17.11）。
   - id: 33
     kind: body
     source: |-
       The Way that Xunzi invokes in this simile is sometimes called “constancy” (*chang* 常). Heaven’s processes (*tianxing* 天行) do not change from one epoch to the next;[^note-9] thus one must learn how to respond to them with “the right order” (*zhi* 治), whereafter it would be either ignorant or hypocritical to blame Heaven for one’s misfortune. When a ruler governs a state well, there are bound to be good results; when a ruler governs a state badly, there are bound to be bad results. Disasters can have no long-term consequences because a well governed state will prosper even in the face of disasters, and a poorly governed state will be vanquished even if it avoids disasters altogether. (Xunzi’s opinion of foreseeable natural disasters such as hurricanes would undoubtedly have been that they strike *all* states, but a well governed state will be prepared for such an event, whereas a poorly governed state will be in no position to respond to the crisis.) Consequently, Heaven plays a sure but indirect role in determining our fortune or misfortune. Heaven never intercedes directly in human affairs, but human affairs are certain to succeed or fail according to a timeless pattern that Heaven determined before human beings existed. “The revolutions of the sun, moon, and stars, and the cyclical calendar—these were the same under Yu 禹 and Jie 桀” (*Xunzi* 17.4), he notes, referring to a paradigmatic sage king and tyrant, respectively. The same is true of the regular and predictable sequence of the seasons—a particularly significant example, as we shall see.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      荀子在这一比喻中援引的道，有时被称作“常”（*chang* 常）。天的运行（*tianxing* 天行）不因世代而变；[^note-9] 因此，人必须学会以“治”（*zhi* 治）去回应它们；此后，再把自己的不幸归咎于天，就或是无知，或是虚伪。君主治理国家有方，必有好的结果；治理无方，必有坏的结果。灾难不可能有长远的后果，因为治理良好的国家即使面对灾难也会兴盛，而治理糟糕的国家即使全然避开灾难也终将被击败。（对于飓风这类可以预见的自然灾害，荀子的意见无疑是：它们打击**一切**国家，但治理良好的国家会为此类事件作好准备，而治理糟糕的国家则根本无力应对危机。）结果，天在决定我们的祸福中扮演的角色是确定的，却是间接的。天从不直接干预人事，但人事必然依照天在人类存在之前就已确定的永恒模式而成功或失败。“日月星辰瑞历，是禹、桀之所同也”（《荀子》17.4），他如此说，分别指一位典范的圣王与一位暴君。四季规则而可预测的循环也是如此——这是一个特别有分量的例子，我们将会看到。
+    step2: |-
+      荀子在这个比喻里援用的道，有时被称作“常”（*chang* 常）。天的运行（*tianxing* 天行）不随世代而改；[^note-9] 因此人必须学会以“治”（*zhi* 治）应之；做到这一步之后，再把自己的不幸诿过于天，就非蠢即伪。君主治国有方，必有善果；治国无方，必有恶果。灾难不可能造成长远的后果：治理良好的国家纵使直面灾难也能兴盛，治理糟糕的国家纵使一场灾难都躲过了，也终将覆亡。（对于飓风这类可以预见的自然灾害，荀子的看法想必是：它们袭击**一切**国家，但治理良好的国家对此类事件早有预备，治理糟糕的国家却根本无力应付危机。）于是，天在决定人间祸福上扮演的角色，确定无疑，却是间接的。天从不直接插手人事；但人事的成败，必然依循一套天在人类存在之前就已定下的万世不移的轨范。“日月星辰瑞历，是禹、桀之所同也”（《荀子》17.4），他如此写道，所指分别是典范的圣王与典型的暴君。四季之循环有常、可以预期，道理相同——如我们将看到的，这是一个分量特别重的例子。
   - id: 34
     kind: body
     source: |-
       Next, Xunzi makes a crucial distinction between knowing Heaven (*zhi tian* 知天) and knowing the Way (*zhi dao* 知道). The former is impossible, and therefore a waste of time to attempt, but the latter is open to all who try. To cite a modern parallel, it is not difficult to understand *how* the force of gravity works by carefully observing its effects in the phenomenal world, but to understand *why* gravity works is a different matter altogether. Xunzi would say that one should constrain one’s inquiries to learning how gravity works, and then think about how to apply this irresistible force of nature to improve the lives of humankind (Fraser 2016: 297–300)[^fraser-2016]. His attitude was not scientific in our sense. Speaking of “those who are enlightened about the distinction between Heaven and human beings”, he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接下来，荀子在“知天”（*zhi tian* 知天）与“知道”（*zhi dao* 知道）之间作出一个关键区分。前者不可能，因此尝试它是浪费时间；后者则向一切尝试者敞开。举一个现代的类比：通过在现象世界中仔细观察引力之效，理解引力**如何**起作用并不困难；但理解引力**为何**起作用，则完全是另一回事。荀子会说：人应当把自己的探问限定在学习引力如何起作用，然后思考如何把这一不可抗拒的自然力用于改善人类的生活（Fraser 2016: 297–300）[^fraser-2016]。他的态度并不符合我们意义上的“科学的”。说到“明于天人之分”的人时，他说：
+    step2: |-
+      再进一步，荀子在“知天”（*zhi tian* 知天）与“知道”（*zhi dao* 知道）之间划出一条关键的界线。知天不可能，尝试它只是枉费光阴；知道则向所有尝试者敞开。借一个现代的类比：细察引力在现象世界中的种种效应，理解引力**如何**运作并不难；可要理解引力**为何**运作，就完全是另一码事了。荀子会说：人应当把探问限定在弄清引力如何运作，再去想如何把这一无可抗拒的自然力用于改善人类的生活（Fraser 2016: 297–300）[^fraser-2016]。他的态度并不属于我们意义上的“科学的”。论及“明于天人之分”者时，他说：
   - id: 35
     kind: body
     source: |-
       > Their aspiration with respect to Heaven is no more than to observe the phenomena that can be taken as regular periods (e.g., the progression of the seasons or stars). Their aspiration with respect to Earth is no more than to observe the matters that yield (sc. crops). Their aspiration with respect to the four seasons is no more than to observe the data that can be made to serve [humanity]. Their aspiration with respect to *yin* 陰 and *yang* 陽 is no more than to observe their harmonious [interactions] that can bring about order. (*Xunzi* 17.3b)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 所志于天者，已其见象之可以期者矣；所志于地者，已其见宜之可以息者矣；所志于四时者，已其见数之可以事者矣；所志于阴阳者，已其见和之可以治者矣。（*Xunzi* 17.3b）
+    step2: |-
+      > 所志于天者，已其见象之可以期者矣；所志于地者，已其见宜之可以息者矣；所志于四时者，已其见数之可以事者矣；所志于阴阳者，已其见和之可以治者矣。（*Xunzi* 17.3b）
   - id: 36
     kind: body
     source: |-
       Thus rituals are not merely received practices or convenient social institutions; they are practicable forms in which the sages aimed to encapsulate the fundamental patterns of the universe. No human being, not even a sage, can know Heaven, but we can know Heaven’s Way, which is the surest path to a flourishing and blessed life. Because human beings have limited knowledge and abilities, it is difficult for us to attain this deep understanding, and therefore the sages handed down the rituals to help us follow in their footsteps.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，礼不只是承袭的实践或方便的社会建制；它们是可行的形式，圣人意在以之囊括宇宙的根本模式。没有人——哪怕是圣人——能知天；但我们可以知天道，而天道是通往兴盛与福祉生活的最可靠之路。因为人的知识与能力有限，我们难以达到这一深刻的理解，所以圣人把礼传下来，帮助我们追随他们的足迹。
+    step2: |-
+      由此，礼绝非单纯的祖传实践或便利的社会建制；它是一套可以践行的形式，圣人立礼，意在把宇宙的根本轨范收摄其中。没有人——纵是圣人——能够知天；但我们能知天道，而天道正是通往兴盛有福的生活最可靠的路径。人的知识与能力皆有涯，这种深邃的理解我们难以企及；于是圣人把礼传了下来，好让我们循着他们的足迹前行。
   - id: 37
     kind: body
     source: |-
       ## 5. Is the Way Discovered or Constructed?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 道是被发现的，还是被建构的？
+    step2: |-
+      ## 5 道是被发现的，还是被建构的？
   - id: 38
     kind: body
     source: |-
       Although this discussion has presented the Way as an unchanging cosmological reality to which we must conform (or suffer the consequences), it is sometimes understood, rather, as having been constructed by human beings. A.C. Graham first raised this issue by asking, “Is Xunzi saying that man imposes his own meaning on an otherwise meaningless universe?” (Graham 1989: 243)[^graham-1989]. Although Graham himself answered his question in the negative, others have since pressed the point further. This is probably the greatest controversy in Xunzi studies today.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管以上讨论把道呈现为一个我们必须遵从的不变的宇宙论实在（否则自食其果），它有时却被理解为人类建构的产物。葛瑞汉（A.C. Graham）最先提出这一问题：“荀子是不是在说：人把自身的意义强加于一个本无意义的宇宙？”（Graham 1989: 243）[^graham-1989]。葛瑞汉本人对这一问题的回答是否定的，但此后有人把这一点推进得更远。这大概是今日荀子研究中最大的争论。
+    step2: |-
+      上文的讨论固然把道呈现为一个不变易的宇宙论实在——我们必须与之相合，否则自食其果——但它有时反而被理解为人类建构出来的东西。葛瑞汉（A.C. Graham）最早提出这个问题：“荀子是不是在说：人把自身的意义强加于一个本无意义的宇宙？”（Graham 1989: 243）[^graham-1989]。葛瑞汉本人对此的回答是否定的；但自那以后，有人把这一点推得更远。这大概是今天荀子研究里最大的一场争论。
   - id: 39
     kind: body
     source: |-
       One passage, in particular, is frequently cited as support for a constructivist position (Hagen 2007: 11.n31; Tang 2016: 59, 75, 118)[^hagen-2007][^tang-2016]: “The Way is not the Way of Heaven, nor the Way of Earth; it is what people regard as the Way, what the noble man is guided by” (*Xunzi* 8.3). This seems to say, despite what we have seen about apprehending the constancy of Heaven and then applying it profitably to daily life, that we are supposed to disregard the Way of Heaven, and create our own Way instead. The basic problem is that the surviving text of *Xunzi* is vague enough to permit various interpretations, but the repeated references to the importance of observing and appropriately “responding” (*ying* 應) to the seasons would seem to rule out the interpretation that natural patterns are not to be taken as normative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一段文字尤其常被引作建构主义立场的根据（Hagen 2007: 11.n31; Tang 2016: 59, 75, 118）[^hagen-2007][^tang-2016]：“道者，非天之道，非地之道，人之所以道也，君子之所道也”（《荀子》8.3）。这似乎是说——尽管我们已见过关于把握天之常道并把它有益地应用于日常生活的论述——我们应当撇开天道，另行创造自己的道。根本的困难在于：《荀子》今本文义含糊，足以容许各种解释；但文中反复强调观察四时并恰当地“应”（*ying* 應）之的重要性，这似乎就排除了“自然模式不足为规范”的解释。
+    step2: |-
+      有一段文字尤其频繁地被引来支撑建构主义的立场（Hagen 2007: 11.n31; Tang 2016: 59, 75, 118）[^hagen-2007][^tang-2016]：“道者，非天之道，非地之道，人之所以道也，君子之所道也”（《荀子》8.3）。这话似乎在说——尽管我们前面刚见过把握天之常道并将其有益地施用于日常生活的论说——我们应当把天道撇在一边，另造自己的道。根本的困难在于：《荀子》今本文义含混，容得下各种解读；但全书反复申说观察四时并妥当“应”（*ying* 應）之的重要，这似乎已足以排除“自然模式不足为规范”的读法。
   - id: 40
     kind: body
     source: |-
       Yang Liang 楊倞 (fl. 818 CE), the author of the oldest extant commentary on *Xunzi*, evidently recognized this problem, and tried to soften the impact of *Xunzi* 8.3 by making it fit with the rest of the text:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      杨倞（*Yang Liang* 楊倞，约 818 年在世），现存最古的《荀子》注的作者，显然意识到了这一问题，并试图让《荀子》8.3 与全书其余部分相合，以缓和其冲击：
+    step2: |-
+      杨倞（*Yang Liang* 楊倞，约 818 年间在世）是现存最古老的《荀子》注本的作者。他显然看到了这一困难，于是设法让《荀子》8.3 与全书其余部分合拍，以缓解这段文字的冲击力：
   - id: 41
     kind: body
     source: |-

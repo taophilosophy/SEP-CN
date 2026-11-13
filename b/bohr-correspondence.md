@@ -50,7 +50,7 @@ $$\tag{3} x(t) = C_1\cos(\omega t) + C_2\cos(2\omega t) + C_3\cos(3\omega t) + \
 
 按照 **频率解释**，对应原理被定义如下。在量子数很大的极限下，从态 $n'$ 到 $n''$、量子数差为 $\tau$ 的量子跃迁所发射辐射的（量子）频率 $\nu_{n' \rightarrow n''}$，与第 $n'$ 定态中古典运动第 $\tau$ 个谐波的（古典）频率 $(\omega_{\tau})$ 之间，存在统计性的渐近一致，即
 
-$$\tag{4} \nu_{n' \rightarrow n''} = \omega_{\tau} = \tau \omega, \text{ for large } n, $$
+$$\tag{4} \nu_{n' \rightarrow n''} = \omega_{\tau} = \tau \omega, \text{ 对大 } n, $$
 
 其中 $n' - n'' = \tau$。
 
@@ -58,7 +58,7 @@ $$\tag{4} \nu_{n' \rightarrow n''} = \omega_{\tau} = \tau \omega, \text{ for lar
 
 按照 **强度解释**，对应原理被定义为：在大量子数极限下，相隔 $\tau$ 的两个定态之间跃迁的概率 $P_{n' \rightarrow n''}$，与古典运动第 $\tau$ 个谐波成分的振幅平方 $C_{\tau}$ 相一致：
 
-$$\tag{5} P_{n' \rightarrow n''} \propto |C_{\tau}(n)|^2 \text{ for large } n. $$
+$$\tag{5} P_{n' \rightarrow n''} \propto |C_{\tau}(n)|^2 \text{ 对大 } n. $$
 
 因此，在 $n$ 很大的极限下，电子古典轨道的谐波成分振幅可用来计算谱线的强度。古典地说，辐射强度由其振幅决定；而量子力学地说，一条谱线的强度由在该特定频率上发出多少光子决定。因此，某一量子跃迁越可能发生，发出的光子就越多，强度也就越大。请注意，与频率解释一样，这是一种只在统计意义上、且只在大量子数极限下成立的一致。[^note-4]
 

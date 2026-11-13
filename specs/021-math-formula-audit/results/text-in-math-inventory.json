@@ -1,0 +1,1585 @@
+{
+ "IC": {
+  "n": 71,
+  "kind": "acronym",
+  "files": [
+   "b/belief-merging.md"
+  ]
+ },
+ "Prov": {
+  "n": 46,
+  "kind": "name",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "PA": {
+  "n": 41,
+  "kind": "acronym",
+  "files": [
+   "d/deductivism-mathematics.md",
+   "h/hilbert-program.md",
+   "l/logic-provability.md"
+  ]
+ },
+ "and": {
+  "n": 22,
+  "kind": "connective",
+  "files": [
+   "a/axiom-choice.md",
+   "b/belief-merging.md",
+   "b/boolalg-math.md",
+   "d/dynamic-semantics.md",
+   "i/information-semantic.md",
+   "l/logic-preference.md",
+   "r/ramsey-economics.md",
+   "s/spacetime-holearg.md"
+  ]
+ },
+ "s": {
+  "n": 17,
+  "kind": "acronym",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "iff": {
+  "n": 15,
+  "kind": "connective",
+  "files": [
+   "b/belief-merging.md",
+   "d/dynamic-semantics.md",
+   "i/information-semantic.md",
+   "l/logic-preference.md"
+  ]
+ },
+ "’": {
+  "n": 13,
+  "kind": "phrase",
+  "files": [
+   "i/implicature-optimality-games.md",
+   "i/intrinsic-extrinsic.md",
+   "q/qm-relational.md",
+   "q/quine-nf.md"
+  ]
+ },
+ "then": {
+  "n": 11,
+  "kind": "connective",
+  "files": [
+   "b/belief-merging.md",
+   "d/dynamic-semantics.md",
+   "i/information-semantic.md",
+   "l/logic-preference.md",
+   "l/logic-provability.md",
+   "s/schema.md"
+  ]
+ },
+ "at": {
+  "n": 10,
+  "kind": "connective",
+  "files": [
+   "a/actualism-possibilism-ethics.md",
+   "i/intrinsic-extrinsic.md"
+  ]
+ },
+ "if": {
+  "n": 10,
+  "kind": "connective",
+  "files": [
+   "i/information-semantic.md",
+   "i/intuitionism.md",
+   "l/logic-preference.md",
+   "l/logic-provability.md",
+   "s/schema.md"
+  ]
+ },
+ "GL": {
+  "n": 10,
+  "kind": "acronym",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "MZ": {
+  "n": 9,
+  "kind": "acronym",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "Pr": {
+  "n": 8,
+  "kind": "acronym",
+  "files": [
+   "e/epistemology-evolutionary.md",
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "DZ": {
+  "n": 7,
+  "kind": "acronym",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "cont": {
+  "n": 7,
+  "kind": "name",
+  "files": [
+   "i/information-semantic.md"
+  ]
+ },
+ "mod": {
+  "n": 6,
+  "kind": "acronym",
+  "files": [
+   "b/belief-merging.md"
+  ]
+ },
+ "DPL": {
+  "n": 6,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "-": {
+  "n": 6,
+  "kind": "punct",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "Num": {
+  "n": 6,
+  "kind": "acronym",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "PA2": {
+  "n": 5,
+  "kind": "phrase",
+  "files": [
+   "d/deductivism-mathematics.md"
+  ]
+ },
+ "VAR": {
+  "n": 5,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "PRA": {
+  "n": 5,
+  "kind": "acronym",
+  "files": [
+   "h/hilbert-program.md"
+  ]
+ },
+ "if and only if": {
+  "n": 5,
+  "kind": "connective",
+  "files": [
+   "l/logic-fuzzy.md",
+   "l/logic-substructural.md",
+   "t/tarski-truth.md"
+  ]
+ },
+ "for all": {
+  "n": 5,
+  "kind": "connective",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "Dom": {
+  "n": 5,
+  "kind": "connective",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "ground state": {
+  "n": 5,
+  "kind": "connective",
+  "files": [
+   "q/qm.md"
+  ]
+ },
+ "Peter": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Buttering": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "Donald": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "toast": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "for": {
+  "n": 4,
+  "kind": "connective",
+  "files": [
+   "a/axiom-choice.md",
+   "l/logic-provability.md"
+  ]
+ },
+ "dom": {
+  "n": 4,
+  "kind": "connective",
+  "files": [
+   "b/boolalg-math.md"
+  ]
+ },
+ "met": {
+  "n": 4,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "need-help": {
+  "n": 4,
+  "kind": "phrase",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "ASSIGN": {
+  "n": 4,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "diag": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "not": {
+  "n": 4,
+  "kind": "connective",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "If": {
+  "n": 4,
+  "kind": "connective",
+  "files": [
+   "d/dynamic-semantics.md",
+   "i/information-semantic.md",
+   "l/logic-provability.md"
+  ]
+ },
+ "证明": {
+  "n": 4,
+  "kind": "cjk",
+  "files": [
+   "e/epsilon-calculus.md"
+  ]
+ },
+ "df": {
+  "n": 4,
+  "kind": "acronym",
+  "files": [
+   "o/omniscience.md"
+  ]
+ },
+ "Jones": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "o/omniscience.md"
+  ]
+ },
+ "Pregnancy": {
+  "n": 4,
+  "kind": "name",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "Paul": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "By": {
+  "n": 3,
+  "kind": "connective",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "Object": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "bathroom": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "min": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "b/belief-merging.md",
+   "i/intuitionism.md"
+  ]
+ },
+ "Max": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "b/belief-merging.md"
+  ]
+ },
+ "leximax": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "b/belief-merging.md"
+  ]
+ },
+ "Con": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "d/deductivism-mathematics.md"
+  ]
+ },
+ "student": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "farmer": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "donkey": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "own": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "beat": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "or": {
+  "n": 3,
+  "kind": "connective",
+  "files": [
+   "d/dynamic-semantics.md",
+   "i/intuitionism.md"
+  ]
+ },
+ "man": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "在": {
+  "n": 3,
+  "kind": "cjk",
+  "files": [
+   "i/impossible-worlds.md"
+  ]
+ },
+ "处：": {
+  "n": 3,
+  "kind": "cjk",
+  "files": [
+   "i/impossible-worlds.md"
+  ]
+ },
+ "Cont": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "i/information-semantic.md"
+  ]
+ },
+ "max": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "i/intuitionism.md",
+   "l/logic-preference.md",
+   "s/social-procedures.md"
+  ]
+ },
+ "Pa": {
+  "n": 3,
+  "kind": "acronym",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "Proof": {
+  "n": 3,
+  "kind": "name",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "belongs-to-every": {
+  "n": 3,
+  "kind": "phrase",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "Location": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "for large": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "b/bohr-correspondence.md"
+  ]
+ },
+ "range": {
+  "n": 2,
+  "kind": "connective",
+  "files": [
+   "b/boolalg-math.md"
+  ]
+ },
+ "EA": {
+  "n": 2,
+  "kind": "acronym",
+  "files": [
+   "h/hilbert-program.md"
+  ]
+ },
+ "Some": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "i/intrinsic-extrinsic.md"
+  ]
+ },
+ "init": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "其中": {
+  "n": 2,
+  "kind": "cjk",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "decide": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "(\\(>\\)-asymmetry)": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(>\\)-transitivity)": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(>\\)-expansion)": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "is true": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md",
+   "l/logic-provability.md"
+  ]
+ },
+ "has": {
+  "n": 2,
+  "kind": "acronym",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "if and only if for all realizations": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "unicorn": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "Organism": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "spin up": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "q/qm-relational.md"
+  ]
+ },
+ "paper with text": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "q/qm-relational.md"
+  ]
+ },
+ "‘": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "q/qm-relational.md"
+  ]
+ },
+ "spin down": {
+  "n": 2,
+  "kind": "phrase",
+  "files": [
+   "q/qm-relational.md"
+  ]
+ },
+ "explains": {
+  "n": 2,
+  "kind": "name",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "Joe Biden": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Aristotle": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "当且仅当": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Alfred": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Betty": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Charlie": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Deborah": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Plato": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Bob Dylan": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Socrates": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/abstract-objects.md"
+  ]
+ },
+ "Time": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "12am": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/action.md"
+  ]
+ },
+ "Law of Simplicity (p. 33)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "A Law of Commutativeness (p. 35)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "Law of Unity (p. 72)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "A Law of Commutativeness (p. 72)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "(no name given) (p. 76)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "Law of Identity (p. 74)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "Law of Contradiction (p. 74)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "Law of Duality (p. 74)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "a/algebra-logic-tradition.md"
+  ]
+ },
+ "It": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "b/belief-merging.md"
+  ]
+ },
+ "is an ultrafilter on": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "b/boolalg-math.md"
+  ]
+ },
+ "以及，": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "c/computability.md"
+  ]
+ },
+ "for some": {
+  "n": 1,
+  "kind": "connective",
+  "files": [
+   "c/computability.md"
+  ]
+ },
+ "that runs in time": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "c/computability.md"
+  ]
+ },
+ "boy": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "essay": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "wrote": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "d/dynamic-semantics.md"
+  ]
+ },
+ "Height results": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "from genes": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "from genes and environment": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "entirely from environment": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "h/heritability.md"
+  ]
+ },
+ "PV": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "h/hilbert-program.md"
+  ]
+ },
+ "'": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "EU": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "four": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "three": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "two": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "one": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "and, or": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "all, most, some": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/implicature-optimality-games.md"
+  ]
+ },
+ "i.e., maximal content": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/information-semantic.md"
+  ]
+ },
+ "for all sites": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/information-semantic.md"
+  ]
+ },
+ "s.t.": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/information-semantic.md"
+  ]
+ },
+ "is": {
+  "n": 1,
+  "kind": "connective",
+  "files": [
+   "i/intrinsic-extrinsic.md"
+  ]
+ },
+ "is a free variable in": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intrinsic-extrinsic.md"
+  ]
+ },
+ "that is not": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intrinsic-extrinsic.md"
+  ]
+ },
+ "from \\(A\\) and \\((A \\rightarrow B)\\) infer \\(B\\)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "implies": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(x\\) is a rational number": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(x\\) is an irrational number": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "(at time \\(n\\), it can be decided whether the Creating Subject": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "has a proof of A)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "(the Creating Subject never forgets what it has proven)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "(the Creating Subject only proves what is true and no": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "true statement can be impossible to prove for the": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "Creating Subject)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "(the Creating Subject only proves what is true and what": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "is true will be proved by the Creating Subject at some": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "point)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(\\neg \\Box_n A\\)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(\\Box_n A\\).": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(\\alpha_i(n)\\neq 1\\)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if for some \\(m\\leq n\\), \\(\\alpha_i(m)=1\\) and": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "for no \\(k \\lt m\\), \\(\\alpha_i(k)=1.\\)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if not \\(\\Box_m (n \\not\\in X)\\)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "if \\(\\Box_m (n \\not\\in X)\\).": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "i/intuitionism.md"
+  ]
+ },
+ "exists": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "k/kant-religion.md"
+  ]
+ },
+ "对所有世界": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "若": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "则": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "“": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "”": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "（合成规则）": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "（迭代规则）": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "（后承规则 1）": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "（后承规则 2）": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "与": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "为整数": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-dynamic.md"
+  ]
+ },
+ "cut": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "前提是 $F$ 非异步": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "前提是 $F$ 或为异步公式，或为原子": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "为原子": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "为正公式": {
+  "n": 1,
+  "kind": "cjk",
+  "files": [
+   "l/logic-linear.md"
+  ]
+ },
+ "(\\(\\equiv\\)-reflexivity)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(\\equiv\\)-symmetry)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(\\equiv\\)-transitivity)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(>\\equiv\\)-transitivity)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(\\equiv\\)-expansion)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(contraposition)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(connected)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(disjunctive distribution)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(amplification)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "There is no series": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "such that": {
+  "n": 1,
+  "kind": "connective",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(>\\)-acyclic)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(\\(\\equiv\\)\\(>\\)-trans)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(semi-trans)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "(interval order)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "for atomic": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "closest world in": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "to": {
+  "n": 1,
+  "kind": "connective",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "del": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "l/logic-preference.md"
+  ]
+ },
+ "iff for every": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "then for all realizations": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "S5": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "if one knows": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "l/logic-provability.md"
+  ]
+ },
+ "Smith": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "o/omniscience.md"
+  ]
+ },
+ "one month": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "o/omniscience.md"
+  ]
+ },
+ "horn": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "part": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "child-class": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "parent-class": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "Mortal": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "Man": {
+  "n": 1,
+  "kind": "acronym",
+  "files": [
+   "o/ontology-is.md"
+  ]
+ },
+ "(3% a year)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/ramsey-economics.md"
+  ]
+ },
+ "(0.1% a year)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/ramsey-economics.md"
+  ]
+ },
+ "a year (Cline)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/ramsey-economics.md"
+  ]
+ },
+ "a year (Nordhaus)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/ramsey-economics.md"
+  ]
+ },
+ "a year (Stern)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/ramsey-economics.md"
+  ]
+ },
+ "Augmented tabular representation": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "Source": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "Target": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "[positive analogy]": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "[negative analogy]": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "(plausibly)": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "r/reasoning-analogy.md"
+  ]
+ },
+ "Every circle is a polygon.": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "Every triangle is a circle.": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "Every square is a triangle.": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "Every square is a polygon.": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/schema.md"
+  ]
+ },
+ "Male.Takes birth control pills": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "Male": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "Female.Takes birth control pills": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "Female": {
+  "n": 1,
+  "kind": "name",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "not-": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "s/scientific-explanation-20th.md"
+  ]
+ },
+ "satisfies the formula": {
+  "n": 1,
+  "kind": "phrase",
+  "files": [
+   "t/tarski-truth.md"
+  ]
+ }
+}

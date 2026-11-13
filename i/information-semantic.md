@@ -150,13 +150,13 @@ $\iota$ 的值从 0 到 1，并被映射到笛卡尔图表的 y 轴上。图 1 �
 
 总的来说，该提议是：当我们通过说出*如果 $s_1$ 则 $s_2$* 来表达一个约束 $\phi\to\psi$ 时，我们是在提出一个主张，其要旨是 **存在一条支持该约束的信息通道**。对于一条信息通道支持一个约束，巴怀士的提议如下：
 
-$$\text{If }x\vDash\phi, \:x\mathbin{\overset{c}{\mapsto}} y,\text{ and } \phi\to\psi, \text{ then } y\vDash \psi$$
+$$\text{若 }x\vDash\phi, \:x\mathbin{\overset{c}{\mapsto}} y,\text{ 且 } \phi\to\psi, \text{ 则 } y\vDash \psi$$
 
 (11) 说的是：如果类型 $\phi$ 的信息在情境 $x$ 处为真，并且存在一条从情境 $x$ 到情境 $y$ 的信息通道 $c$，并且存在一个从类型 $\phi$ 的信息到类型 $\psi$ 的信息的约束，那么类型 $\psi$ 的信息在情境 $y$ 处为真。
 
 巴怀士把情境概念精炼为“场所”（site）——一个包含信息的结构化对象。我们现在有场所 $x,$ $y,$ $z,$… 与类型 $\phi,$ $\psi,$…，其中 $x:\phi$ 读作*信息场所 $x$ 属于类型* $\phi$。限定条件是：通道可能是也可能不是场所之一，而 $x\mathbin{\overset{c}{\mapsto}} y$ 是信息场所与通道之间的一个三目（三元）关系。巴怀士为通道理论表述了 **健全性公理** 如下：
 
-$$c: \phi\to\psi \text{ iff } \text{ for all sites } x, y, \text{ if } x\mathbin{\overset{c}{\mapsto}} y\text{ and } x:\phi, \text{ then } y:\psi.$$
+$$c: \phi\to\psi \text{ 当且仅当 } \text{ for all sites } x, y, \text{ 若 } x\mathbin{\overset{c}{\mapsto}} y\text{ 且 } x:\phi, \text{ 则 } y:\psi.$$
 
 在这个阶段，事物在精神上（如果不是在实践中）开始看起来明显是 **模态** 的。
 
@@ -168,7 +168,7 @@ $$c: \phi\to\psi \text{ iff } \text{ for all sites } x, y, \text{ if } x\mathbin
 
 雷斯塔尔（Restall）（1996）与马雷（Mares）（1996）如下展开这一联系。雷斯塔尔假定通道 **是** 信息场所之一（马雷则不这样假定）。不再谈论信息 **场所**，通行术语谈的是信息 **状态**。信息状态可能是不完全和/或不一致的，事实上它们可能完全是亚命题的。下文考察基于兰贝克演算（Lambek Calculi）的信息化版本的自然语言细粒度信息语义学时，我们将看到这一点。用克里普基/框架语义的术语，我们有 **三元信息框架** $\mathbf{F}:\langle S, \sqsubseteq, R\rangle$，其中 $S$ 是一个信息状态集合，$\sqsubseteq$ 是 $S$ 上的一个偏序，而 $R$ 是 $S$ 的成员上的一个三元可及关系。一个 **信息模型** 是一个信息框架 $\mathbf{F}$ 连同 $S$ 的成员与类型/命题 $\phi, \psi\ldots$ 之间的一个评价/支持关系 $\Vdash$。我们究竟如何读 $x\Vdash\phi$，将取决于 $x$ 碰巧是哪种信息状态，以及 $\phi$ 是哪类东西。最简单的情形将是 $x$ 是一个情境而 $\phi$ 是一个命题。在这种情况下，我们可以把 $x\Vdash\phi$ 读作*$\phi$ 在 $x$ 处为真*。鉴于此，(12) 被翻译如下：
 
-$$x\Vdash\phi\to\psi\text{ iff }\forall y, z \text{ s.t. } Rxyz, \text{ if }y\Vdash\phi\text{ then }z\Vdash\psi.$$
+$$x\Vdash\phi\to\psi\text{ 当且仅当 }\forall y, z \text{ s.t. } Rxyz, \text{ 若 }y\Vdash\phi\text{ 则 }z\Vdash\psi.$$
 
 在这种语境中，$Rxyz$ 被读作——如果你取在 $x$ 处为真的信息，并把它与在 $y$ 处为真的信息放在一起，那么你就得到在 $z$ 处为真的信息。然而，$Rxyz$ 一般不这样严格地读。尽管 $\Vdash$ 关系 **可以** 被读作一种与 $\vDash$ 一致的直接语义关系，但它要灵活得多。$x\Vdash\phi$ 的其他读法包括 *$x$ 携带 $\psi$ 这一信息*、*$x$ 携带类型 $\psi$ 的信息*、*$x$ 支持 $\psi$ 的信息/类型 $\psi$ 的信息*、*$x$ 是 $\psi$ 的信息/类型 $\psi$ 的信息的记录*，等等。作为这一点的后果，$Rxyz$ 在实践中读作什么，将取决于这些信息基础语义模型的应用对象——也就是说，取决于所讨论的信息通道的领域。
 
@@ -186,7 +186,7 @@ $$x\Vdash\phi\to\psi\text{ iff }\forall y, z \text{ s.t. } Rxyz, \text{ if }y\Vd
 
 巴怀士、加贝（Gabbay）与哈托纳斯（Hartonas）（1995, 1996）诉诸 **结合的** 兰贝克演算，以模型化——即为——**信息流本身** 提供语义。他们把 **信息网络** $\mathbf{N}$ 定义为一个四元组，使得 $\mathbf{N} := \langle S, C, \mapsto, \circ\rangle$。其中 $S$ 是一个信息状态集合（原作者称之为“场所”），$C$ 是一个信息通道集合，$\mapsto$ 是 $S \times C \times S$ 上的一个三元可及关系，而 $\circ$ 是 $C$ 上的一个结合二元复合算子。为了让信息流动，必须有某种通道复合的方式，使信息可以从一条通道流向另一条。他们对串行通道复合规定了如下约束。对于所有通道 $a$ 与 $b$：
 
-$$\forall x\; \forall y (x \overset{a\circ b}{\longmapsto} y\: \text{ iff }\ \exists z(x\overset{a}{\mapsto} z \text{ and } z\overset{b}{\mapsto} y))$$
+$$\forall x\; \forall y (x \overset{a\circ b}{\longmapsto} y\: \text{ 当且仅当 }\ \exists z(x\overset{a}{\mapsto} z \text{ 且 } z\overset{b}{\mapsto} y))$$
 
 他们主张通道结合，因此通道上的二元复合算子是结合的，即对于所有通道 $a,$ $b$, 与 $c$，如果 $a\circ(b\circ c)$，则 $(a\circ b)\circ c$）。那些熟悉 **范畴论** 的人会知道“通道结合！”这一口头禅。
 

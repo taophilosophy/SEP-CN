@@ -64,9 +64,14 @@ def main():
         up_dir = os.path.join(REPO, 'state', 'mathval', 'upstream')
         if os.path.isdir(up_dir):
             for name in sorted(os.listdir(up_dir)):
+                full = os.path.join(up_dir, name)
                 if name.endswith('.html'):
-                    up_total += scan(os.path.join(up_dir, name), 'upstream',
-                                     name[:-5], out)
+                    up_total += scan(full, 'upstream', name[:-5], out)
+                elif os.path.isdir(full):
+                    for sub in sorted(os.listdir(full)):
+                        if sub.endswith('.html'):
+                            up_total += scan(os.path.join(full, sub), 'upstream',
+                                             name, out)
     print(f'snapshot: {files} files, {total} formulas → {en_path}')
     print(f'upstream: {up_total} formulas → {up_path}')
 

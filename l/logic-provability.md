@@ -62,7 +62,7 @@ $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow
 
 $$ \mbox{GL} \vdash B \leftrightarrow A(B). $$
 
-这个公式 $B$ 称为 $A(p)$ 的一个 **不动点**。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $ \mbox{GL} \vdash C \leftrightarrow A(C)$，则必有 $ \mbox{GL} \vdash B \leftrightarrow C$。文献中的大多数证明都给出可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
+这个公式 $B$ 称为 $A(p)$ 的一个 **不动点**。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $\mbox{GL} \vdash C \leftrightarrow A(C)$，则必有 $\mbox{GL} \vdash B \leftrightarrow C$。文献中的大多数证明都给出可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
 
 例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可证
 
@@ -74,7 +74,7 @@ $$ \mbox{GL} \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $
 
 与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R,V \rangle$，其中 $W$ 是可能世界的非空集合，$R$ 是 $W$ 上的二元可及关系，$V$ 是为 $W$ 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 $M$ 中于世界 $W$ 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
 
-$$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then } M,w' \models A. $$
+$$ M,w \models \Box A \text{ iff for every } w', \text{ 若 } wRw', \text{ 则 } M,w' \models A. $$
 
 关于可能世界语义的一般信息，见模态逻辑词条。
 
@@ -138,7 +138,7 @@ $$\begin{align} \Gamma &= \{\unicode{x2B26} p_0, \Box(p_0 \rightarrow \unicode{x
 
 早在七十年代初就已清楚：GL 相对于 PA 是 **算术可靠的**，形式化地说：
 
-$$ \text{If } \mbox{GL} \vdash A, \text{then for all realizations } f, \mbox{PA} \vdash f(A).$$
+$$ \text{若 } \mbox{GL} \vdash A, \text{then for all realizations } f, \mbox{PA} \vdash f(A).$$
 
 为略尝元数学滋味，让我们概述可靠性证明。
 
@@ -148,7 +148,7 @@ $$ \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A \rightarrow B\urcorner ) \righta
 
 对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
 
-$$ \text{If } \mbox{PA} \vdash A, \text{then } \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A\urcorner ), $$
+$$ \text{若 } \mbox{PA} \vdash A, \text{则 } \mbox{PA} \vdash {\textsf{Prov}}(\ulcorner A\urcorner ), $$
 
 这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
 
@@ -198,7 +198,7 @@ $$ \mbox{PA} \vdash A, $$
 
 可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
 
-$$ \mbox{GL} \vdash A \text{ if and only if for all realizations } f, \mbox{PA} \vdash f(A). $$
+$$ \mbox{GL} \vdash A \text{ 当且仅当对所有实现 } f, \mbox{PA} \vdash f(A). $$
 
 这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个困难得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
 
@@ -231,7 +231,7 @@ $$ A(0) \wedge \forall x\, (A(x) \rightarrow A({\bf s} x)) \rightarrow \forall x
 
 对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 ${\textsf{Prov}}_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
 
-$$ \mbox{GL} \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
+$$ \mbox{GL} \vdash A \text{ 当且仅当对所有实现 } f,T \vdash f(A). $$
 
 尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
 
@@ -257,7 +257,7 @@ Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，
 
 Japaridze 的双模可证性逻辑 GLB 可由 GL 的公理与规则（见第 2 节）公理化，并分别为 [0] 与 [1] 表述。此外，GLB 还有两条混合公理： $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ 该逻辑可判定、有合理的 Kripke 语义，且相对于皮亚诺算术既算术可靠又完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
 
-Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\unicode{x2B26}$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
+Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\unicode{x2B26}$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ 对于 } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ 对于 } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ 对于 } m \leq n $$
 
 GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
 
@@ -317,11 +317,11 @@ $$ \Box\, \forall x \, A(x) \rightarrow \forall x \, \Box\, A(x) $$
 
 可证性逻辑的原理与其他模态逻辑——哪怕貌似目的相近者——大不相同。例如，可证性逻辑捕捉形式算术理论中的可证性，而认知逻辑力图描述知识——后者可视为一种非形式可证性。在认知逻辑的许多版本中，最重要的原理之一是真公理（5）：
 
-$$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then } A \text{ is true}). $$
+$$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{若知道 } A, \text{ 则 } A \text{ 为真}). $$
 
 类似的原理显然对 GL 不成立：毕竟，
 
-$$ \text{if } \mbox{GL} \vdash \Box A \rightarrow A, \text{ then } \mbox{GL} \vdash A. $$
+$$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vdash A. $$
 
 因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
 
@@ -335,19 +335,19 @@ $$ \text{if } \mbox{GL} \vdash \Box A \rightarrow A, \text{ then } \mbox{GL} \vd
 
 ## 脚注
 
-[^note-1]: 下文我们将给出 GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\unicode{x2B26} C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
+[^note-1]: 下文我们将给出 GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $C$，两个公式 $C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\unicode{x2B26} C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
 
 1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
 2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
 3. GL $\vdash \bot \rightarrow B$（命题逻辑重言式）
 4. GL $\vdash \Box\bot \rightarrow \Box B$（由第 3 行经上述导出规则）
-5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot $（公理 GL）
-6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B $（由第 4、5 行经假言三段论）
-7. GL $\vdash \unicode{x2B26} A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
-8. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
-9. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
+5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot$（公理 GL）
+6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B$（由第 4、5 行经假言三段论）
+7. GL $\vdash \unicode{x2B26} A \rightarrow (\Box \bot \rightarrow \bot)$（由第 2 行经逆否与上述等价）
+8. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box(\Box \bot \rightarrow \bot)$（由第 7 行经上述导出规则）
+9. GL $\vdash \Box\unicode{x2B26} A \rightarrow \Box B$（由第 6、8 行经假言三段论）。
 
-注意从语义上看，容易看出公式 $\Box\unicode{x2B26} A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\unicode{x2B26} A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
+注意从语义上看，容易看出公式 $\Box\unicode{x2B26} A \rightarrow \Box B$ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\unicode{x2B26} A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
 
 [^note-2]: 事实上，几乎同一个反例对直觉主义可证性逻辑同样有效，甚至对不带 $\unicode{x2B26}$ 的版本亦然——该结果由 Ian Shillito（2023，定理 13.2.1）证明。按 Rosalie Iemhoff 的建议，只需将上例中的每个 $\unicode{x2B26}$ 换成 $\neg\Box\neg$。
 

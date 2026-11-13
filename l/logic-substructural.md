@@ -18,7 +18,7 @@
 
 尽管如此，不同逻辑系统在支配特定概念的规则上各不相同：直觉主义逻辑的否定处理与经典逻辑不同，这很有名。结构规则是解释单个概念行为不可或缺的一环——我们正是借逻辑后承的环境语境刻画概念的行为。例如条件句 $p\rightarrow q$（“若 $p$ 则 $q$”）的行为可以这样刻画：
 
-$$ X, p \vdash q \text{ if and only if } X \vdash p \rightarrow q $$
+$$ X, p \vdash q \text{ 当且仅当 } X \vdash p \rightarrow q $$
 
 这说：$q$ 从 $X$ 加 $p$ 可推出，当且仅当 $p \rightarrow q$ 仅从 $X$ 可推出。给定 $X$，从 $p$ 到 $q$ 的转移之有效，由 $p \rightarrow q$ 记录。刻画条件句相关有效性时，我们用的是涉及条件句 **组成部分** 的有效性陈述。
 
@@ -63,7 +63,7 @@ $$ \cfrac{p \rightarrow q \vdash p \rightarrow q} { \cfrac{p \rightarrow q, p \v
 
 前提结合不可交换时，剩余化可走 **两条** 路。除给出 $\rightarrow$ 行为的剩余化条件外，还可定义新箭头 $\leftarrow$：
 
-$$ p, q \vdash r \text{ if and only if } q \vdash r \leftarrow p $$
+$$ p, q \vdash r \text{ 当且仅当 } q \vdash r \leftarrow p $$
 
 对左到右箭头，这个方向的肯定前件成立：
 
@@ -221,9 +221,9 @@ $$ (A \rightarrow B) \mathbin{\&}(A \rightarrow C) \vdash A \rightarrow (B \math
 
 子结构逻辑模型中量词处理相当困难，2000 年代初方有进展。难在量词的证明论与模型论似乎对不上号，而量词的公理或规则本身倒直接。全称消除公理 $$ \forall xA \rightarrow A[t/x] $$ 说实例从全称概括推出（在相干意义上）；引入规则 $$ \cfrac{\vdash A\rightarrow B} {\vdash A\rightarrow \forall xB} $$（附条件：$x$ 在 $A$ 中不自由）说：若能纯凭逻辑、从对该实例无所断言的某个假定证出概括 $\forall xB$ 的一个实例，则也能从该假定证出概括本身。这两条似乎与一系列子结构逻辑（从最弱系统到 $\mathbf{R}$ 这类强系统）对一阶量词的任何解释都相合。
 
-量词的证明论看来规矩，推广到模型论却困难。Richard Routley（1980）表明，把量词规则加到很弱的子结构逻辑 $\mathbf{B}$ 上，与三元关系语义恰相配合：量词在对象域上取值，该域在模型所有点上恒定。但这 **不** 适用于更强的逻辑，尤其 $\mathbf{R}$。Kit Fine（1989）表明，有个复杂公式在 $\mathbf{R}$ 的所有常域框架模型中成立，却不可从公理推出。细节不重要，根由却好说：常域语义中，$\forall x Fx$ 在每点的真值条件与实例族 $Fx_1$、$Fx_2$、$Fx_3,\ldots$、$Fx_\lambda,\ldots$（域中对象由 $x_i$ 的值枚举）完全相同；于是 $\forall x Fx$ 在语义上与（可能无穷的）合取 $Fx_1\land Fx_2\land Fx_3\land\cdots $ 无从区分。可任何实例合取（哪怕无穷）都不可能 **相干地** 等价于全称量化主张 $\forall x Fx$：这些实例可能在某情形中为真而概括不为真——若事物比那些更多的话。常域模型似乎不适合相干量化理论。
+量词的证明论看来规矩，推广到模型论却困难。Richard Routley（1980）表明，把量词规则加到很弱的子结构逻辑 $\mathbf{B}$ 上，与三元关系语义恰相配合：量词在对象域上取值，该域在模型所有点上恒定。但这 **不** 适用于更强的逻辑，尤其 $\mathbf{R}$。Kit Fine（1989）表明，有个复杂公式在 $\mathbf{R}$ 的所有常域框架模型中成立，却不可从公理推出。细节不重要，根由却好说：常域语义中，$\forall x Fx$ 在每点的真值条件与实例族 $Fx_1$、$Fx_2$、$Fx_3,\ldots$、$Fx_\lambda,\ldots$（域中对象由 $x_i$ 的值枚举）完全相同；于是 $\forall x Fx$ 在语义上与（可能无穷的）合取 $Fx_1\land Fx_2\land Fx_3\land\cdots$ 无从区分。可任何实例合取（哪怕无穷）都不可能 **相干地** 等价于全称量化主张 $\forall x Fx$：这些实例可能在某情形中为真而概括不为真——若事物比那些更多的话。常域模型似乎不适合相干量化理论。
 
-Robert Goldblatt 与 Edwin Mares（2006）表明，相干量化有自然的替代语义，优雅而相对直接。关键是把三元关系语义稍改：并非每个点集都算“命题”，即并非每个点集都是句子的可能语义值。于是，尽管 $\forall xFx$ 各实例的无穷合取 $Fx_1\land Fx_2\land Fx_3\land\cdots $ 确定了一个世界集，那个集合并未必要算作命题。（也许无法把那些特定对象单独挑出，在一个判断里收拢。）我们 **能说** 的是概括 $\forall xFx$：它是蕴涵每个实例的命题（全称消除公理）；而命题若蕴涵每个实例，就蕴涵概括（引入规则）。所以 $\forall xFx$ 表达的命题，是蕴涵每个实例 *Fa* 的 **语义上最弱** 的命题。这正是 Goldblatt–Mares 模型中全称量词的建模条件，与公理精确吻合。
+Robert Goldblatt 与 Edwin Mares（2006）表明，相干量化有自然的替代语义，优雅而相对直接。关键是把三元关系语义稍改：并非每个点集都算“命题”，即并非每个点集都是句子的可能语义值。于是，尽管 $\forall xFx$ 各实例的无穷合取 $Fx_1\land Fx_2\land Fx_3\land\cdots$ 确定了一个世界集，那个集合并未必要算作命题。（也许无法把那些特定对象单独挑出，在一个判断里收拢。）我们 **能说** 的是概括 $\forall xFx$：它是蕴涵每个实例的命题（全称消除公理）；而命题若蕴涵每个实例，就蕴涵概括（引入规则）。所以 $\forall xFx$ 表达的命题，是蕴涵每个实例 *Fa* 的 **语义上最弱** 的命题。这正是 Goldblatt–Mares 模型中全称量词的建模条件，与公理精确吻合。
 
 ## 6 无切或同一性的逻辑
 
@@ -231,7 +231,7 @@ Robert Goldblatt 与 Edwin Mares（2006）表明，相干量化有自然的替�
 
 无 **切** 的逻辑，后承关系不传递。哲学文献举了几条理由。其一，把焦点放在 **实质** 后承（见 Brandom 2000）[^brandom-2000] 或 **缺省** 后承（见 Reiter 1980 及 **非单调逻辑** 条目）[^reiter-1980]，而非必然的、形式的后承。（Tweety 是鸟，缺省推断它会飞是恰当的；它若是企鹅，可推断它是鸟。但切掉中间一步、径直推断它会飞并不恰当。）
 
-另一理由基于 **相干性**：Neil Tennant 因相干之故倡一种拒斥无限制 **切** 的相干逻辑（2017）。其 **核心逻辑** 中，$\neg p\vdash \neg p\lor q$ 与 $p,\neg p\lor q\vdash q$ 都成立，却不能用 **切** 推出 $p,\neg p\vdash q$——这里 $q$ 不相干，是逻辑上的搭便车者。核心逻辑中 $p,\neg p\vdash $ 成立（$p$ 与其否定联合不一致），但不能用弱化得 $p,\neg p\vdash q$。切规则在此不普遍成立，但有一个限制版 **成立**：若 $X\vdash A,Y$ 且 $X',A\vdash Y'$，则有 **子集** $X^*\subseteq X\cup X'$、$Y^*\subseteq Y\cup Y'$ 使 $X^*\vdash Y^*$。可是，出于核心逻辑理由限制 **切**，对想承认 $\vdash T\lambda$ 与 $\vdash T\lambda\vdash\bot$、同时拒斥 $\vdash\bot$ 以回应语义悖论的逻辑学家毫无帮助。
+另一理由基于 **相干性**：Neil Tennant 因相干之故倡一种拒斥无限制 **切** 的相干逻辑（2017）。其 **核心逻辑** 中，$\neg p\vdash \neg p\lor q$ 与 $p,\neg p\lor q\vdash q$ 都成立，却不能用 **切** 推出 $p,\neg p\vdash q$——这里 $q$ 不相干，是逻辑上的搭便车者。核心逻辑中 $p,\neg p\vdash$ 成立（$p$ 与其否定联合不一致），但不能用弱化得 $p,\neg p\vdash q$。切规则在此不普遍成立，但有一个限制版 **成立**：若 $X\vdash A,Y$ 且 $X',A\vdash Y'$，则有 **子集** $X^*\subseteq X\cup X'$、$Y^*\subseteq Y\cup Y'$ 使 $X^*\vdash Y^*$。可是，出于核心逻辑理由限制 **切**，对想承认 $\vdash T\lambda$ 与 $\vdash T\lambda\vdash\bot$、同时拒斥 $\vdash\bot$ 以回应语义悖论的逻辑学家毫无帮助。
 
 前述严格/宽容有效性的无切逻辑 **ST**，与实质推理、缺省推理或 Tennant 核心逻辑都大不相同。首先，就有效矢列而言，它 **就是** 经典逻辑：由不带 **切** 的 Gentzen 矢列演算给出，而 **切** 可消除（Gentzen 1935）。
 

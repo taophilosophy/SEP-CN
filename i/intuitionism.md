@@ -91,7 +91,7 @@ $$ \text{from \(A\) and \((A \rightarrow B)\) infer \(B\)}, $$
 
 作为唯一推理规则。自海廷表述以来，直觉主义逻辑一直是研究对象；仅命题层面便有许多异于经典逻辑的性质，析取性质即其一：
 
-$$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash A \text{ or } {\bf IQC} \vdash B. $$
+$$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash A \text{ 或 } {\bf IQC} \vdash B. $$
 
 此原则在经典逻辑中显然失效：经典逻辑对独立于该逻辑的公式（即 $A$ 与 $\neg A$ 皆非重言式的公式）也证明 $(A \vee \neg A)$。至于把“由假得全”（Ex Falso Sequitur Quodlibet）原则 $(\bot \rightarrow A)$ 纳入直觉主义逻辑，则是研究布劳威尔相关论述者的争议点；van Atten 2008 主张此原则在直觉主义中并不有效，按布劳威尔之见有效的逻辑原则乃相关逻辑的原则。布劳威尔与“由假得全”之关系，另见 van Dalen 2004。
 
@@ -115,7 +115,7 @@ $$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash 
 
 布劳威尔 1908 年提出的 **弱反例**，是其最早的例证，用以说明：由经典数学观转向直觉主义数学观，对所可确立的数学真理并非无后果。这类弱反例表明，某些经典陈述目前从直觉主义观点看不可接受。试看如下定义给出的实数序列：
 
-$$ r_n = \begin{cases} 2^{-n} \text{ if } \forall m \leq n A(m) \\ 2^{-m} \text{ if } \neg A(m) \wedge m \leq n \wedge \forall k \lt m A(k). \end{cases} $$
+$$ r_n = \begin{cases} 2^{-n} \text{ 若 } \forall m \leq n A(m) \\ 2^{-m} \text{ 若 } \neg A(m) \wedge m \leq n \wedge \forall k \lt m A(k). \end{cases} $$
 
 此处 $A(n)$ 是可判定性质，而 $\forall n A(n)$ 之真伪未知。“可判定”意为：目前对任一给定 $n$，都可构造出 $A(n)$ 或 $\neg A(n)$ 的证明。行文之际，可取 $A(n)$ 表达“$n$ 若大于 2，则为三素数之和”；于是 $\forall n A(n)$ 即表达（原初的）哥德巴赫猜想：凡大于 2 之数皆为三素数之和。序列 $\langle r_n \rangle$ 所定义的实数 $r$，使陈述 $r=0$ 与陈述 $\forall n A(n)$ 等价。由此可知陈述 $(r = 0 \vee r \neq 0)$ 不成立，故三分律 $\forall x(x \lt y \vee x=y \vee x \gt y)$ 在直觉主义连续统上不为真。
 
@@ -123,7 +123,7 @@ $$ r_n = \begin{cases} 2^{-n} \text{ if } \forall m \leq n A(m) \\ 2^{-m} \text{
 
 有些实数 $r$，直觉主义者无从判定其是否为正；可见某些经典意义上的全函数在直觉主义背景下不再是全函数，分段常函数即其一例：
 
-$$ f(r) = \begin{cases} 0 \text{ if } r \geq 0 \\ 1 \text{ if } r \lt 0. \end{cases} $$
+$$ f(r) = \begin{cases} 0 \text{ 若 } r \geq 0 \\ 1 \text{ 若 } r \lt 0. \end{cases} $$
 
 许多经典有效的陈述都有弱反例，其构造往往循上例模式。例如“介值定理并非直觉主义有效”的论证如下：取 [−1,1] 中的实数 $r$，使 $(r\leq 0 \vee 0 \lt r)$ 尚未判定（如上例）；在 $[0,3]$ 上定义一致连续函数 $f$：
 

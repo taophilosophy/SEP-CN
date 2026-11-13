@@ -259,7 +259,7 @@ $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ 
 
 现在应用 **AC4** 得到映射 $f: Q \rightarrow A + A$，满足对所有 $X \in Q$ 都有 $f(X) \in X$。于是容易证明：若用 $\pi_{1}$ 表示第一坐标投影，则
 
-$$ \tag{*} \mbox{for } n=0,1 \mbox{ and } x \in A, \pi_1(f(r(x,n))) = x; $$
+$$ \tag{*} \mbox{对于 } n=0,1 \mbox{ 且 } x \in A, \pi_1(f(r(x,n))) = x; $$
 
 并且
 

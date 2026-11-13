@@ -194,7 +194,7 @@ $$\begin{align} O {\lvert B \rangle} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21
 
 设我们有一个系统 $S$ 与一台装置 $S^*$，后者测量 $S$ 上取值为 $\{a_1, a_2, a_3, ...\}$ 的可观测量 $A$。那么，$S^*$ 会有某个态（“基态”），而 $S^*$ 上会有某个可观测量 $B$，取值为 $\{b_1, b_2, b_3, ...\}$（称为它的“指针可观测量”——因为正是它扮演示意图中测量仪器正面表盘上指针的角色，来登记实验结果）。而且：若 $S^*$ 从基态启动、以适当方式与 $S$ 相互作用，而相互作用前一刻 $A$ 的值是 $a_1$，则相互作用后 $B$ 的值就是 $b_1$。若相互作用前 $A$ 的值是 $a_2$，则其后 $B$ 的值是 $b_2$。若相互作用前 $A$ 的值是 $a_3$，则相互作用后 $B$ 的值是 $b_3$，依此类推。这正是“$S^*$ 测量 $A$”的含义。于是，设我们用矢量 ${\lvert A=a_i \rangle}_s {\lvert B=b_i \rangle}_{s^*}$ 表示 $S$ 与 $S^*$ 的联合部分态。这一部分态规定 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 如何取值；其值对应于给 $S$ 上被测可观测量与 $S^*$ 上指针可观测量所做的指派。再让“$\rightarrow$”代表对二者相互作用的动力学描述。那么，说 $S^*$ 是 $A$ 的一台测量仪器，就是说动力学定律蕴涵：
 
-$$\begin{align} {\lvert A=a_1 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_1 \rangle}_s {\lvert B=b_1 \rangle}_{s^*} \\ {\lvert A=a_2 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_2 \rangle}_s {\lvert B=b_2 \rangle}_{s^*} \\ {\lvert A=a_3 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} &\rightarrow {\lvert A=a_3 \rangle}_s {\lvert B=b_3 \rangle}_{s^*} \end{align}$$
+$$\begin{align} {\lvert A=a_1 \rangle}_s {\lvert B=\text{基态} \rangle}_{s^*} &\rightarrow {\lvert A=a_1 \rangle}_s {\lvert B=b_1 \rangle}_{s^*} \\ {\lvert A=a_2 \rangle}_s {\lvert B=\text{基态} \rangle}_{s^*} &\rightarrow {\lvert A=a_2 \rangle}_s {\lvert B=b_2 \rangle}_{s^*} \\ {\lvert A=a_3 \rangle}_s {\lvert B=\text{基态} \rangle}_{s^*} &\rightarrow {\lvert A=a_3 \rangle}_s {\lvert B=b_3 \rangle}_{s^*} \end{align}$$
 
 依此类推。[^note-12]
 
@@ -208,7 +208,7 @@ $$ \frac{1}{\sqrt{2}} {\lvert A = a_1 \rangle}_s + \frac{1}{\sqrt{2}} {\lvert A=
 
 由复合系统状态空间的构成规则可知，这一对系统的联合态是
 
-$$ \frac{1}{\sqrt{2}} {\lvert A=a_1 \rangle}_s {\lvert B=\text{ground state} \rangle}_{s^*} + \frac{1}{\sqrt{2}} {\lvert A = a_2 \rangle}_s {\lvert B = \text{ground state} \rangle}_{s^*} $$
+$$ \frac{1}{\sqrt{2}} {\lvert A=a_1 \rangle}_s {\lvert B=\text{基态} \rangle}_{s^*} + \frac{1}{\sqrt{2}} {\lvert A = a_2 \rangle}_s {\lvert B = \text{基态} \rangle}_{s^*} $$
 
 再由 $S^*$ 是 $A$ 的测量仪器这一事实以及 $U$ 的线性可知，它们在相互作用 **之后** 的联合态是
 

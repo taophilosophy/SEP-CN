@@ -178,10 +178,10 @@ $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$
 
 再证 (A5) 在 $\vdash$ 中可推演：
 
-| 1. | $[\alpha^*](A \rightarrow [\alpha]A)\ \leftrightarrow\ $ $(A \rightarrow [\alpha]A) \land [\alpha][\alpha^*](A \rightarrow [\alpha]A)$ | 公理模式 (A3) |
+| 1. | $[\alpha^*](A \rightarrow [\alpha]A)\ \leftrightarrow\$ $(A \rightarrow [\alpha]A) \land [\alpha][\alpha^*](A \rightarrow [\alpha]A)$ | 公理模式 (A3) |
 | --- | --- | --- |
-| 2. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ $ $[\alpha](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 1 用命题推理与 $[\alpha]$ 对 $\land$ 的分配律 |
-| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ $ $[\alpha^*](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 2 用 (I) |
+| 2. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\$ $[\alpha](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 1 用命题推理与 $[\alpha]$ 对 $\land$ 的分配律 |
+| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\$ $[\alpha^*](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 2 用 (I) |
 | 4. | $[\alpha^*](A \rightarrow [\alpha]A) \rightarrow (A \rightarrow [\alpha^*]A)$ | 由 3 用命题推理与 $[\alpha^*]$ 对 $\land$ 的分配律 |
 | 5. | $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$ | 由 4 用命题推理 |
 
@@ -302,9 +302,9 @@ $A \rightarrow [\alpha]B$。
 | 7. | $A \rightarrow [(B?;\alpha )^*]A$ | 由 6 用 (I) |
 | 8. | $A \rightarrow (\lnot B \rightarrow (\lnot B\land A))$ | 命题重言式 |
 | 9. | $A \rightarrow [(B?;\alpha )^*](\lnot B \rightarrow (\lnot B\land A))$ | 由 7、8 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
-| 10. | $[\lnot B?](\lnot B\land A)\ \leftrightarrow\ $ $(\lnot B \rightarrow (\lnot B\land A))$ | 公理模式 (A4) |
+| 10. | $[\lnot B?](\lnot B\land A)\ \leftrightarrow\$ $(\lnot B \rightarrow (\lnot B\land A))$ | 公理模式 (A4) |
 | 11. | $A \rightarrow [(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 由 9、10 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
-| 12. | $[(B?;\alpha )^* ; \lnot B?](\lnot B\land A)\ \leftrightarrow\ $ $[(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 公理模式 (A1) |
+| 12. | $[(B?;\alpha )^* ; \lnot B?](\lnot B\land A)\ \leftrightarrow\$ $[(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 公理模式 (A1) |
 | 13. | $A \rightarrow [(B?;\alpha )^* ; \lnot B?](\lnot B\land A)$ | 由 12 用命题推理 |
 | — | $\{A\}\mathsf{while}~ B ~\mathsf{do}~ \alpha \{\lnot B\land A\}$ |   |
 
@@ -322,7 +322,7 @@ $\langle\alpha\rangle B$ 意为：$\alpha$ 有一次执行终止于满足 $B$ �
 
 完全正确性问题的一般解法就在 PDL 领域里，只须稍作扩展。Pratt 在 Pratt [1980b] 已暗示 PDL 表达力不足以捕捉程序的无穷循环；Streett [1982] 于是引入带重复的 PDL（RPDL），对所有程序 $\alpha$ 加入表达式 $\Delta\alpha$，代表一个新命题，语义为：
 
-- $V(\Delta\alpha) = \{x: $ 存在状态无穷序列 $z_0, z_1, \ldots$，使 $z_0 = x$，且对任何 $n \geq 0, z_n R(\alpha) z_{n+1}\}$。
+- $V(\Delta\alpha) = \{x:$ 存在状态无穷序列 $z_0, z_1, \ldots$，使 $z_0 = x$，且对任何 $n \geq 0, z_n R(\alpha) z_{n+1}\}$。
 
 Streett [1982] 猜想，在 PDL 的证明系统上恰好添上下列公理模式，即可公理化 RPDL。
 

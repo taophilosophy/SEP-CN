@@ -97,7 +97,7 @@ $x$ 的最后一次出现未被约束——在经典谓词逻辑中，我们并�
 
 这有悖直觉。我们知道 (1) 中单个句子是什么意思，也想捕捉这些意义与其他意义组合成一个有意义整体的潜能——这个整体对应于一个句子序列。动态语义让我们能在句子与超句子两个层面给出完全组合性的意义分析。其做法是保证：与经典谓词逻辑相反，在经典谓词逻辑语法的*dynamic*（动态）解释下，(3) 与 (4) *are*（恰恰）等价。特别地，下式在动态谓词逻辑中有效：
 
-$$\exists x(\psi \wedge \phi) \textrm{ iff } \exists x(\psi)\wedge \phi$$
+$$\exists x(\psi \wedge \phi) \textrm{ 当且仅当 } \exists x(\psi)\wedge \phi$$
 
 在这种自然语言动态语义中，句子的意义不再对应一组真值条件，而对应于施加在语境上的行动。行动分两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是测试（*tests*）：它们只检查当前语境中每个状态/指派给 $x$ 的值是否满足相关谓词；当且仅当满足，测试便把未经改变的指派传递到输出语境。相比之下，存在量词不是测试——它有能力随机重置其相关变元的值，从而改变语境。于是，$\exists x(\psi)$ 取一个语境，随机改变其中每个指派上 $x$ 的值，若这些改动后的指派还满足测试 $\psi$ 所贡献的条件，便把它们传递到输出语境。
 
@@ -113,7 +113,7 @@ $$\exists x(\psi \wedge \phi) \textrm{ iff } \exists x(\psi)\wedge \phi$$
 
 令 $P(x)$ 这类原子公式的意义为集合 $F$：一切使 $\alpha(x)$ 为满足 $P$ 之对象的指派 $\alpha$ 的集合。
 
-现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“指派 $\beta$ 是（至多）重置指派 $\alpha$ 中变元 $x$ 之值的结果”。如前所述，这是变元指派上的等价关系。$\exists x P(x)$ 的意义 $G$ 便是：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ 也就是说，$G$ 是这样一些指派的集合：对 $x$ 重置成功，且经此重置得到 $F$ 中的指派。换个角度看，$G$ 恰是下述关系 $R$ 的定义域（*the domain of*）：$$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$
+现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“指派 $\beta$ 是（至多）重置指派 $\alpha$ 中变元 $x$ 之值的结果”。如前所述，这是变元指派上的等价关系。$\exists x P(x)$ 的意义 $G$ 便是：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ 也就是说，$G$ 是这样一些指派的集合：对 $x$ 重置成功，且经此重置得到 $F$ 中的指派。换个角度看，$G$ 恰是下述关系 $R$ 的定义域（*the domain of*）：$$\alpha R\beta := \alpha[x]\beta \textrm{ 且 } \beta \in F. $$
 
 可以说，$G$ 是重置行动 $R$ 的前置条件。$\textsf{DPL}$ 的想法在于：$\exists x P(x)$ 的意义不取前置条件 $G$（经典静态一阶逻辑的做法），而取重置行动 $R$。如此并不损失信息——$G$ 总能从 $R$ 重新得到。再者，关系 $R$ 的值域由这样一些指派 $\beta$ 组成：与前置条件 $G$ 中的指派相比，其差异至多在 $x$ 的值上，且也在 $F$ 中（即 $\beta(x)$ 属于 $P$ 的解释）。二元关系 $R$ 值域中存储的 $x$ 值，恰是满足 $P$ 的那些 $x$ 值——即我们要找的值。
 
@@ -140,7 +140,7 @@ $$\alpha \vDash \phi := \exists \beta\ \alpha[\phi]\beta.$$
 
 蕴涵 $\phi \rightarrow \psi$ 可定义为 ${\sim}(\phi \cdot {\sim}\psi)$。将真值定义应用于此，得：
 
-> $\alpha \vDash \phi \rightarrow \psi \textrm{ iff } \forall \beta(\alpha[\phi]\beta \Rightarrow \beta \vDash \psi)$：即任何由前件 $\phi$ 更新 $\alpha$ 而得的指派 $\beta$，都满足后件 $\psi$。
+> $\alpha \vDash \phi \rightarrow \psi \textrm{ 当且仅当 } \forall \beta(\alpha[\phi]\beta \Rightarrow \beta \vDash \psi)$：即任何由前件 $\phi$ 更新 $\alpha$ 而得的指派 $\beta$，都满足后件 $\psi$。
 
 关系意义还给出如下漂亮的动态衍推定义：
 
@@ -232,7 +232,7 @@ $$ \begin{array}{l} (\langle(\exists x \cdot Fx \cdot \exists y \cdot Dy \cdot H
 
 斯托尔内克（1973）把预设看作以假定的共同知识为基础。说出像 (13) 这样的句子，就是*takes for granted*（视之为当然）：“约翰迟到”已是共同知识。在此意义上，(13) 要求说话语境已然具备这一共同知识。相比之下，(14) 没有这种要求，原因很直白：(14) 的第一个合取支断言了第二个合取支所视之为当然的内容。斯托尔内克的关键假设是：解释是增量的——对形如 [$S$1 and $S$2] 的句子，$S$2 的解释发生在一个已被 $S$1 更新过的语境中。图式如下：
 
-- (15) ${C}[{S1 \textrm{ and } S2}] = ({C}[{S1}])({S2})$
+- (15) ${C}[{S1 \textrm{ 且 } S2}] = ({C}[{S1}])({S2})$
 
 斯托尔内克对 (15) 图式的解读是语用的：在话语中遇到一串小句时，我们*in light of*（根据）一个已被前述小句之解释所充实的语境来解释这些小句。这一增量解释思想简单却有力，对具有合取性解释的复杂话语（如带 *and* 的并列结构、陈述句的简单序列）完全适用。既然合取中的合取支具有断言之力（*assertoric force*），它们便可用来更新语境、创设一个新的局部语境。问题在于：预设并不只在合取环境中消失。与 (14) 一样，(16) 同样不要求“约翰迟到”是共同知识；但这里第一个析取支并不具有断言之力（讨论例如参见 Schlenker 2009）[^schlenker-2009]。何种语用规则能解释 (16) 中预设的缺失，并不显然。
 
@@ -244,11 +244,11 @@ $$ \begin{array}{l} (\langle(\exists x \cdot Fx \cdot \exists y \cdot Dy \cdot H
 
 为更具体起见，设语境是可能世界之集，用简单小句 $S$ 对 $C$ 的更新 $C[S]$ 为 $C\cap p$，其中 $p$ 是 $S$ 的命题内容：用小句更新 $C$，输出的就是 $C$ 中该小句为真的那些世界。(18) 中的规则展示了英语主要命题算子动态解释的一个海姆式片段。
 
-- (17) ${C}[{\textrm{not } S1}] = {C} \backslash {C}[{S1}]$ ${C}[{S1 \textrm{ and } S2}] = ({C}[{S1}])[{S2}]$ ${C}[{\textrm{If }S1, \textrm{ then } S2}] = ({C}[{\textrm{not }S1}]) \cup ({C}[{S1}])[{S2}]$ ${C}[{S1 \textrm{ or } S2}] = {C}[{S1}] \cup ({C}[{\textrm{not }S1}])[{S2}]$
+- (17) ${C}[{\textrm{非 } S1}] = {C} \backslash {C}[{S1}]$ ${C}[{S1 \textrm{ 且 } S2}] = ({C}[{S1}])[{S2}]$ ${C}[{\textrm{若 }S1, \textrm{ 则 } S2}] = ({C}[{\textrm{非 }S1}]) \cup ({C}[{S1}])[{S2}]$ ${C}[{S1 \textrm{ 或 } S2}] = {C}[{S1}] \cup ({C}[{\textrm{非 }S1}])[{S2}]$
 
-有人质疑这种动态解释的解释力：该框架无法说明，为什么表面上不存在任何自然语言表达来编码 (17) 的极小变体——比如第二个析取支 $S$2 的局部语境取 $C[S1]$ 而非 $C[\textrm{not }S1]$；比如 $S$1 的局部语境基于用 $S$2 所作的更新；再比如干脆没有任何局部语境，如 (18)（例如参见 Soames 1989）[^soames-1989]。
+有人质疑这种动态解释的解释力：该框架无法说明，为什么表面上不存在任何自然语言表达来编码 (17) 的极小变体——比如第二个析取支 $S$2 的局部语境取 $C[S1]$ 而非 $C[\textrm{非 }S1]$；比如 $S$1 的局部语境基于用 $S$2 所作的更新；再比如干脆没有任何局部语境，如 (18)（例如参见 Soames 1989）[^soames-1989]。
 
-- (18) ${C}[{S1 \textrm{ or } S2}] = {C}[{S1}] \cup {C}[{S2}]$
+- (18) ${C}[{S1 \textrm{ 或 } S2}] = {C}[{S1}] \cup {C}[{S2}]$
 
 面对这类批评，预设投射的静态进路近来有所复兴：施伦克的语用进路（Schlenker 2008, 2009）、Chemla 的语用进路（2008，其他网络资源），以及 George（2008）与 Fox（2008）的语义（三值）进路。不过，正如 Rothschild 指出的，仍有一条路让沿 (17) 路线的语义学获得解释力：为此必须证明，联结词的可许动态解释共享某些性质。Rothschild（2011）证明，只要假设语境变化潜能遵循某些有定义性（*definedness*）原则，一个有解释力且经验上充分的预设动态处理便是可能的。设 $C[S]$（对简单小句 $S$）仅在 $S$ 的任何预设于 $C$ 中所有世界皆为真时有定义。(17) 中的规则决定复杂语句的有定义性条件：例如按 (17)，[not S] 在 $C$ 中无定义，仅当 $S$ 在 $C$ 中无定义。Rothschild 的洞见是：约束所得的有定义性条件，便可约束动态解释。
 

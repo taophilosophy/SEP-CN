@@ -16,7 +16,7 @@ $$\begin{align*} x + (x \cdot y) &= x \\ x \cdot(x + y) &= x \\ x + (-x) &= 1 \\
 
 布尔代数的若干代数构造有显然的定义与简单性质：子代数、同态、同构与直积（甚至无限多个代数的直积）。另一些标准代数构造更特别地属于 BA。BA 中的理想是子集 $I$，对 + 封闭，以 0 为成员，并且若 $a \le b \in I$，则也有 $a \in I$。虽然并非一目了然，这与环论概念相同。存在滤子的对偶概念（在一般环中普遍没有对应物）。滤子是子集 $F$，对 $\cdot$ 封闭，以 1 为成员，并且若 $a \ge b \in F$，则也有 $a \in F$。$A$ 上的超滤子是滤子 $F$，具有以下性质：$0 \not\in F$，且对任意 $a \in A$，要么 $a \in F$，要么 $-a \in F$。对任意 $a \in A$，令
 
-$$ S(a)= \{F : F \text{ is an ultrafilter on } A \text{ and } a \in F\}. $$
+$$ S(a)= \{F : F \text{ is an ultrafilter on } A \text{ 且 } a \in F\}. $$
 
 于是 $S$ 是一个同构，映到 $A$ 上全体超滤子的集合 $X$ 的子集所成的 BA 上。这确立了基本的斯通（Stone）表示定理，并澄清了 BA 作为具体集合代数的起源。此外，集合 $S(a)$ 可取定为 $X$ 上拓扑的一个基，这使 $X$ 成为一个完全不连通紧豪斯多夫空间。这确立了 BA 类与这类空间之间的一一对应。其结果——在 BA 理论中被大量使用——是许多拓扑定理与概念对 BA 都有推论。若 $x$ 是 BA 的元素，我们令 $0x = -x$ 与 $1x = x$。若 $(x$(0), $\ldots x(m - 1))$ 是 BA $A$ 的元素的有穷序列，则由 $\{x(0), \ldots, x(m - 1)\}$ 生成的 $A$ 的子代数中每个元素都可写成单项式 $e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1)$ 之和，其中 $e$ 在某个把 $m = \{0,\ldots , m - 1\}$ 映到 $2 = \{0, 1\}$ 的函数集合中。这是命题逻辑析取范式定理的代数表达。若 $f$ 是从 BA $A$ 的生成元集合 $X$ 到 BA $B$ 的函数，则 $f$ 可扩张为同态当且仅当
 
@@ -76,11 +76,11 @@ $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\
 
 在模型论中，可以取任何完备 BA 中的值，而不只是两元素 BA。这种布尔值模型论约在 1950–1970 年间发展起来，但此后未受太多研究。但一个特殊情形——集合论的布尔值模型——非常处于当前集合论研究的前沿。它实际上构成看待科恩（Cohen）的力迫构造的一种等价方式，并有一些技术上的优点和缺点。在哲学上它似乎比力迫概念更令人满意。我们在此描述这个集合论情形；然后就会明白为什么只考虑完备 BA。设 B 是一个完备 BA。首先我们定义布尔值宇宙 $V(B)$。通常的集合论宇宙可与 $V$(2) 等同，其中 2 是两元素 BA。定义通过超穷递归进行，其中 $\alpha , \beta$ 是序数，$\lambda$ 是极限序数：
 
-$$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \text{dom}(f) \subset V(B, \alpha) \text{ and } \text{range}(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
+$$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \text{定义域}(f) \subset V(B, \alpha) \text{ 且 } \text{值域}(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
 
-其中 $\text{dom}(f)$ 是函数 $f$ 的定义域，$\text{range}(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变元被赋以布尔值宇宙的元素：
+其中 $\text{定义域}(f)$ 是函数 $f$ 的定义域，$\text{值域}(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变元被赋以布尔值宇宙的元素：
 
-$$\begin{align*} {\lVert x \in y \rVert} &= \sum_{t \in \text{dom}(y)} {\lVert x=t \rVert}\cdot y(t) \\ {\lVert x \subseteq y \rVert} &= \prod_{t \in \text{dom}(x)} -x(t) + {\lVert t \in y \rVert} \\ {\lVert x = y \rVert} &= {\lVert x \subseteq y \rVert} \cdot {\lVert y \subseteq x \rVert} \\ {\lVert \neg \phi \rVert} &= -{\lVert \phi \rVert} \\ {\lVert \phi \vee \psi \rVert} &= {\lVert \phi \rVert} + {\lVert \psi \rVert} \\ {\lVert \exists x\phi(x) \rVert} &= \sum_{a \in V(B)} {\lVert \phi(a) \rVert}. \end{align*}$$
+$$\begin{align*} {\lVert x \in y \rVert} &= \sum_{t \in \text{定义域}(y)} {\lVert x=t \rVert}\cdot y(t) \\ {\lVert x \subseteq y \rVert} &= \prod_{t \in \text{定义域}(x)} -x(t) + {\lVert t \in y \rVert} \\ {\lVert x = y \rVert} &= {\lVert x \subseteq y \rVert} \cdot {\lVert y \subseteq x \rVert} \\ {\lVert \neg \phi \rVert} &= -{\lVert \phi \rVert} \\ {\lVert \phi \vee \psi \rVert} &= {\lVert \phi \rVert} + {\lVert \psi \rVert} \\ {\lVert \exists x\phi(x) \rVert} &= \sum_{a \in V(B)} {\lVert \phi(a) \rVert}. \end{align*}$$
 
 ## 参考文献
 

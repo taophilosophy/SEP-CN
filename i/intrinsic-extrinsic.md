@@ -265,7 +265,7 @@ $F$ 是内在的，当且仅当：对任意 $x$ 与 $y$，以及对任意可能�
 
 在 $w_3$ 中，$x_4$ 是仅有的存在物，且 $x_4$ 是正电子。
 
-现在假设一种关于属性的可能世界理论：是 $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$ 的属性。在这一属性理论下：
+现在假设一种关于属性的可能世界理论：是 $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ 在 } w\}$ 的属性。在这一属性理论下：
 
 $q_1$ = 是电子 $= \{\langle x_1, w_1 \rangle, \langle x_3, w_2\rangle\}.$
 
@@ -349,7 +349,7 @@ $p$ 是质性属性，当且仅当 $p$ 是一个属性，且 $p$ 可以由一个
 
 **(18)**
 
-$\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
+$\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
 
 例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么“[Some $v \mid Fv](Gv)$”中的“some”只量化于 $d$ 的部分，当且仅当“是 $F$”这一属性必然化“是 $a$、$b$、$c$ 或 $d$ 的一部分”这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
 

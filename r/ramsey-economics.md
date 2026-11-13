@@ -255,13 +255,13 @@ $\mu$ 为每年 5%，意味着资本—产出比 $(1/\mu)$ 达 20 年，远高�
 
 今将注意力转向方程 (11b) 中两个伦理参数的取值——三位经济学者在研究气候变化经济学时所选定者。
 
-$$\begin{align} \tag*{Cline (1992)} \sigma = 1.5 \quad &\text{and} \quad \delta = 0 \\ \tag*{Nordhaus (1994)} \sigma = 1 \quad &\text{and} \quad \delta = 0.03 \text{ (3% a year)} \\ \tag*{Stern (2007)} \sigma = 1 \quad &\text{and} \quad \delta = 0.001 \text{ (0.1% a year)} \end{align}$$
+$$\begin{align} \tag*{Cline (1992)} \sigma = 1.5 \quad &\text{且} \quad \delta = 0 \\ \tag*{Nordhaus (1994)} \sigma = 1 \quad &\text{且} \quad \delta = 0.03 \text{（每年 3\%）} \\ \tag*{Stern (2007)} \sigma = 1 \quad &\text{且} \quad \delta = 0.001 \text{（每年 0.1\%）} \end{align}$$
 
 （按：$\sigma = 1$ 对应对数型福祉函数，即 $U(C) =$ log$C$，可由方程 (11b) 中 $U(C)$ 的函数形式令 $\sigma \rightarrow 1$ 取极限而得。）
 
 代入这些参数值，得最优储蓄率 $s^*$（方程 18）与最优消费增长率（方程 19）依次为：
 
-$$\begin{align} \tag{21a} s^* = 67\% \quad &\text{and} \quad g^* = 3.3\% \text{ a year (Cline)} \\ \tag{21b} s^* = 40\% \quad &\text{and} \quad g^* = 2.0\% \text{ a year (Nordhaus)} \\ \tag{21c} s^* = 98\% \quad &\text{and} \quad g^* = 4.9\% \text{ a year (Stern)} \end{align}$$
+$$\begin{align} \tag{21a} s^* = 67\% \quad &\text{且} \quad g^* = 3.3\% \text{ a year (Cline)} \\ \tag{21b} s^* = 40\% \quad &\text{且} \quad g^* = 2.0\% \text{ a year (Nordhaus)} \\ \tag{21c} s^* = 98\% \quad &\text{且} \quad g^* = 4.9\% \text{ a year (Stern)} \end{align}$$
 
 ### 4.5 评论
 

@@ -18,7 +18,7 @@
 
 通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 **t-范数**（**三角范数**），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）。著名 t-范数有：前文提过的 $\min$、实数标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 **序和**（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
 
-有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 **剩余条件**：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
+有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 **剩余条件**：$$ x \ast y \leq z\ \text{ 当且仅当 }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
 
 在一般的 t-范数设定里，否定靠剩余来解释：给定左连续 t-范数 $\ast$，令 $\neg_\ast x = x\Rightarrow_\ast 0$。Łukasiewicz t-范数给出否定 $\neg_{Ł} x = 1 - x$（即 Łukasiewicz 否定，或称标准对合否定）；最小与乘积 t-范数给出的否定相同，称为 Gödel 否定：$\neg_\mathrm{G} 0 = 1$，否则为 $0$。
 
@@ -160,7 +160,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 
 [^note-2]: 这个等价对于无限前提集不成立。不过也许出人意料，一般的后承关系仍是通常意义上的紧致：只要每个有限子集都可满足，无限公式集就可满足——也就是存在一个赋值，把其中所有公式都赋值为 $1$。
 
-[^note-3]: 这从剩余性质加上一个直觉推得：蕴涵为真，当且仅当其后续真值不低于前件。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y $ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
+[^note-3]: 这从剩余性质加上一个直觉推得：蕴涵为真，当且仅当其后续真值不低于前件。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y$ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
 
 [^note-4]: 设代数 $\mathbf A$ 的域为 [0,1]，$\wedge, \vee, \overline{0}, \overline{1}$ 分别是 $\min$, $\max$, $0$, $1$；则它是 MTL-代数，当且仅当 $\&$ 是左连续 t-范数、$\to$ 是其剩余。任取 MTL-代数 $\mathbf A$，把赋值定义为公式到 $\mathbf A$ 的同态，便可像对 MTL 那样引入后承关系 $\models_{\mathbf A}$，即保持指定值 $\overline{1}$。于是对每个 MTL-代数 $\mathbf A$，$\Gamma\vdash_\mathrm{MTL}\varphi$ 当且仅当 $\Gamma\models_{\mathbf A}\varphi$。
 

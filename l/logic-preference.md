@@ -114,7 +114,7 @@ $$ \begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg
 
 这个公式是重言式，可以如下解释。该公式为假，当且仅当头四个成分
 
-$$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ and} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
+$$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ 且} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
 
 都为真而 $(p\land \neg q>\neg p \land q)$ 为假。但这与传递性相冲突。
 
@@ -150,7 +150,7 @@ $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg
 
 *Figure 4:*
 
-$$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
+$$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{使得 } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
 
 图 4：更多偏好原理
 
@@ -174,7 +174,7 @@ Rescher（1966, 1967）引入了偏好逻辑的第一个语义学，其模型是
 
 对给定的公式集 $\Gamma$，满足关系定义如下：
 
-$$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
+$$\begin{align*} A, m, v \models p &\quad \textrm{ 当且仅当}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } v\\ A, v \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } m\\ A \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v\models \varphi \textrm{ 对所有 } m \textrm{ 且 } v\\ \models \varphi &\quad \textrm{ 当且仅当}\quad A \models \varphi \textrm{ 对所有 } A (\varphi \textrm{ 为真})\\ A, m, v \models \Gamma &\quad \textrm{ 当且仅当}\quad A, m, v \models \Gamma \textrm{ 对所有 } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ 当且仅当}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
 
 Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的命题可以导致不同的偏好。因此他考虑对测度 m 或偏序集 A 添加三个额外条件，以得到更具受限性的语义：
 
@@ -300,7 +300,7 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 
 Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
 
-$$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \mathopen{[\![}\varphi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\psi\mathclose{]\!]}_w : x \succeq_w y; \\ (2) \ \forall x \in \mathopen{[\![}\psi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\varphi\mathclose{]\!]}_w : y \succeq_w x \end{cases}$$
+$$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (1) \ \forall x \in \mathopen{[\![}\varphi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\psi\mathclose{]\!]}_w : x \succeq_w y; \\ (2) \ \forall x \in \mathopen{[\![}\psi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\varphi\mathclose{]\!]}_w : y \succeq_w x \end{cases}$$
 
 其中 $\mathopen{[\![}\varphi\mathclose{]\!]}_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
 
@@ -422,11 +422,11 @@ Sven Ove Hansson（1995）对偏好改变作了细致分析，在 AGM 框架内�
 
 Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
 
-$$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
+$$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ 当且仅当 }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
 
 其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的定义域、赋值与现实世界，唯偏好关系经更新，删去由 $\varphi$-世界指向 $\neg \varphi$-世界的偏好链接：
 
-$$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
+$$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ 且 } \mathfrak{M}, t \models \neg \varphi\}.$$
 
 更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
 
@@ -593,12 +593,12 @@ CP 网（“条件偏好网络”的缩写）实质上体现其余条件相同�
 
 条件偏好网络（CP 网）是一个图形模型，定义如下。
 
-设 $V = \{X_1, X_2, \ldots, X_n\}$ 为变量集合，每个 $X_i$ 有一个可能值的有穷域 $\text{Dom}(X_i)$。有一个有向图 G，其中：
+设 $V = \{X_1, X_2, \ldots, X_n\}$ 为变量集合，每个 $X_i$ 有一个可能值的有穷域 $\text{定义域}(X_i)$。有一个有向图 G，其中：
 
 * 每个变量 $X_i$ 对应一个节点。
 * $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
 
-CP 网不列举所有可能结果的偏好（其数量随变量数指数增长），而使用条件偏好表（CPT）只捕捉相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 配有一张 CPT：对 $\text{Pa}(X_i)$ 的每个可能实例化 u，它规定 $\text{Dom}(X_i)$ 上的一个全序 $\succ_{u}$。例如：
+CP 网不列举所有可能结果的偏好（其数量随变量数指数增长），而使用条件偏好表（CPT）只捕捉相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 配有一张 CPT：对 $\text{Pa}(X_i)$ 的每个可能实例化 u，它规定 $\text{定义域}(X_i)$ 上的一个全序 $\succ_{u}$。例如：
 
 > 若 $\text{Pa}(X_i) = \{A, B\},$ 则 $X_i$ 的 CPT 规定 A 与 B 的所有组合下的偏好。
 
@@ -606,7 +606,7 @@ CP 网的语义描述：如何基于各网络的结构与条件偏好表导出�
 
 结果（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
 
-$$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
+$$\text{定义域}(X_1) = \{a_1, a_2\}, \quad \text{定义域}(X_2) = \{b_1, b_2\}, \quad \text{定义域}(X_3) = \{c_1, c_2\},$$
 
 那么一个结果就是 $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$。
 
@@ -614,7 +614,7 @@ $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \t
 
 例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
 
-$$\begin{align*} \text{if } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ and }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{then } o_1 \succ o_2.\\ \end{align*}$$
+$$\begin{align*} \text{若 } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ 且 }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{则 } o_1 \succ o_2.\\ \end{align*}$$
 
 可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。
 
