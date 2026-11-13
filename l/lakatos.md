@@ -305,7 +305,7 @@
 
 如前所见，在《证明与反驳》里拉卡托什已经调侃过：“真实历史常常是其合理重构的漫画”。复数形式“重构*s*”在这里要紧：合理重构历史的路子不止一条，你选哪一条，取决于你把什么算作理性、什么不算；一句话，取决于你的合理性理论。并不存在唯一的“合理历史”（黑格尔或许那样想过），而是有几部相互竞争的。而且，在一次漂亮的辩证转折中，拉卡托什提出：评价相互竞争的合理性理论，可以看它们能把科学史（无论数学还是经验科学）重构得有多好。想法是：如果你的科学哲学或科学合理性理论把大部分“伟大科学”判为非理性，那它自身必有毛病；反过来，你的合理性理论把“伟大科学”的历史判为理性的部分越多，它就越好。
 
-明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学哲学，岂不成了“科学家做什么都合理、科学的力量就是正道”，最好的方法论岂不就是费耶阿本德的“怎么都行”？拉卡托什引康德的警句说：“没有科学史的科学哲学是空洞的；没有科学哲学的科学史是盲目的”）似乎要把科学哲学整个取消，代之以对科学共同体所作决策的历史-社会学考察。（我们中的一人在 Musgrave 1983 里讨论了这一问题，并试图拆除这枚炸弹。）[^musgrave-1983]
+明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学哲学，岂不成了“科学家做什么都合理、科学的力量就是正道”，最好的方法论岂不就是费耶阿本德的“怎么都行”？拉卡托什引康德的警句说：“没有科学史的科学哲学是空洞的；没有科学哲学的科学史是盲目的”——似乎要把科学哲学整个取消，代之以对科学共同体所作决策的历史-社会学考察。（我们中的一人在 Musgrave 1983 里讨论了这一问题，并试图拆除这枚炸弹。）[^musgrave-1983]
 
 另一个担忧不那么显眼：拉卡托什似乎在隐含地诉诸他在别处鄙夷的那类归纳原则。他难道不是在说：科学史上一连串把关键事件展示为理性的成功，会倾向于 **确证** 某个科学合理性理论？
 
@@ -383,7 +383,7 @@
 
 有时这相互捧场有点过火，令那些把波普尔式批判理性主义当作抵御纳粹借尸还魂之壁垒的严肃哲学家痛苦不安：
 
-> Hans Albert 濒临自杀［拉卡托什致信费耶阿本德］。据称有人告诉他，你将在基尔把批判理性主义说成一种“精神疾病”；他认为那将是理性在德国的末日。我告诉他：尽管你是个 AN EXTREMELY GREAT MAN（极其伟大的人），你也不会单枪匹马把纳粹主义带回来……。（F&AM: 291）
+> Hans Albert 濒临自杀［拉卡托什致信费耶阿本德］。据称有人告诉他，你将在基尔把批判理性主义说成一种“精神疾病”；他认为那将是理性在德国的末日。我告诉他：尽管你是个**极其伟大的人**，你也不会单枪匹马把纳粹主义带回来……。（F&AM: 291）
 
 不过，尽管两人有互相抬轿的切身动机，费耶阿本德与拉卡托什之间的相互钦佩显然相当真诚：每个人都真心把对方看作那个必须击败的人。
 
@@ -403,15 +403,15 @@
 
 结论是：倘若真有对费耶阿本德两难的拉卡托什式回答，那也只能是替他代拟的回答。我们中有人在 Musgrave 1976 里试过一手；但对科学研究纲领方法论而言，这仍是一个非常开放的问题。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Works by Lakatos
+### 拉卡托什著作
 
-### Secondary Literature
+### 二手文献
 
 [^haladó-nd]: 1947f: “‘Haladó tudós’ a demokráciában” (A “progressive scholar” in a democracy), *Tovább*, June 13.
 [^haladó-1956]: 1956: Speech at the Pedagogy Debate of the Petőfi Circle on September 28, 1956; transcript published in András B. Hegedűs (ed.), *A Petőfi Kör vitái* (The debates of the Petőfi Circle), Vol. VI, Budapest: Intézet and Múzsák Kiadó, 1992, 34–38. [English translation “On rearing scholars” in Motterlini 1999: 375–381.]
@@ -435,7 +435,7 @@
 [^haladó-1974a]: 1974a: “Discussion Remarks on Papers by Ne‘eman, Yahil, Beckler, Sambursky, Elkana, Agassi, Mendelsohn”, in Y. Elkana (ed.), *The Interaction Between Science and Philosophy*, Atlantic Highlands, New Jersey: Humanities Press, pp. 41, 155–6, 163, 165, 167, 280–3, 285–6, 288–9, 292, 294–6, 427–8, 430–1, 435.
 [^haladó-1974b]: 1974b [PDI]: “Popper on Demarcation and Induction”, in P.A. Schilpp (ed.), *The Philosophy of Karl Popper*, La Salle: Open Court, 241–73. [Republished as chapter 3 of Lakatos 1978a (PP1), cited pages from this version.]
 [^haladó-1974c]: 1974c: “The Role of Crucial Experiments in Science”, *Studies in the History and Philosophy of Science*, 4: 309–25.
-[^haladó-1974d]: 1974d [S&P]: “Science and Pseudoscience”, in Vesey, G. (ed.), *Philosophy in the Open*, Open University Press. [Republished as the introduction to Lakatos1978a (PP1), cited pages from this version.]
+[^haladó-1974d]: 1974d [S&P]: “Science and Pseudoscience”, in Vesey, G. (ed.), *Philosophy in the Open*, Open University Press. [Republished as the introduction to Lakatos 1978a (PP1), cited pages from this version.]
 [^haladó-1976a]: 1976a: [UT] “Understanding Toulmin”, *Minerva*, 14: 126–43. [Republished as chapter 11 of Lakatos 1978b.]
 [^haladó-1976b]: 1976b [**Renaissance**]: “A Renaissance of Empiricism in the Recent Philosophy of Mathematics?”, *British Journal for the Philosophy of Science*, 27: 201–23. [Republished as chapter 2 of Lakatos 1978b (PP2), cited pages from this version.]
 [^haladó-1976c]: 1976c [P&R]: *Proofs and Refutations: The Logic of Mathematical Discovery*, J. Worrall and E. Zahar (eds.), Cambridge: Cambridge University Press

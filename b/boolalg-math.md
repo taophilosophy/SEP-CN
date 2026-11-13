@@ -94,7 +94,7 @@ $$\begin{align*} {\lVert x \in y \rVert} &= \sum_{t \in \text{定义域}(y)} {\l
 
 [^monk-1989]: Monk, J. D., and R. Bonnet (eds.), 1989, *Handbook of Boolean algebras*, 3 volumes, Amsterdam: North-Holland.
 
-[^monk-2014]: Monk, J. D., 2014, *Cardinal Invariants on Boolean Algebras, Second Revised Edition*, Basel: Birkaüser
+[^monk-2014]: Monk, J. D., 2014, *Cardinal Invariants on Boolean Algebras, Second Revised Edition*, Basel: Birkhäuser
 
 ## 学术工具
 
