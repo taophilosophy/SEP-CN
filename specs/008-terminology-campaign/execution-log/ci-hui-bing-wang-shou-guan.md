@@ -58,4 +58,6 @@
 
 ## 五、门禁
 
-`check_terms.py` 硬错误 0（自洽 0）；`check_all.py` 九项中「哲学学术规范」红 5 处为 M1 翻译线在途产物（`tasks/m/{mandeville,marsilius-padua,model-organisms,moral-learning,music}.json` 缺语体核验结论，来源提交 f7670c6a1），非本批引入，按规则留痕不越权修复。
+`check_terms.py` 硬错误 0（自洽 0）；`check_all.py` 九项全绿。
+
+**并行会话审计注记**：① `qian-yan/ci-hui-biao.md` 的删除因共享暂存区被并行会话提交先行卷入（内容即本 ADR 预期删除，无副作用）；② ADR `0036` 编号与并行会话的《表格与图片体例》撞号，对方主动让号为 `0037` 并注明「原编 0036，让号于《词汇表并网》」；其纯改名（0 内容变更）被卷入本批裁定提交 9f7f8667f，净效果与本决策一致（同 ADR-0004 审计注记先例）。
