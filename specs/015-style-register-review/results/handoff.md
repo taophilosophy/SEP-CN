@@ -51,6 +51,8 @@
 | abduction | L167 拉丁语 a fortiori 未译 | 65a3070c5 |
 | al-khunaji | L40 两处斜体残缺、L223／L225 英文论题名未译、L262 阿语术语标记错乱 | d185ce435 |
 
+其后各条不再逐行列表，**以 `verdicts.jsonl` 中 `kind=repair` 记录为准**（只追加，一条一词条；`fixed` 为改动、`verified` 为经核判不改）。截至 2026-11-14T05:10Z 已偿还 40 条、改动 66 处、经核不改 9 处；经核不改的典型：doxography-ancient（长句属文风）、aesthetics-critical-theory／aesthetics-of-everyday（同上）、identity-personal（通俗义与哲学术语有意分译）、independence-large-cardinals（译者译注）、integrity（五分法漏项系 SEP 源文疏漏）、aesthetic-concept（两名并存系原文并列）、incompatibilism-theories（YEAR 占位系 SEP 缺陷，已按正文补 2003）。
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
