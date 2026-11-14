@@ -32,7 +32,7 @@ What were the beliefs and practices of the historical Pythagoras? This apparentl
 | 100 BCE | Alexander Polyhistor (b. 105 BCE) | his excerpts of the *Pythagorean Memoirs* are quoted by Diogenes Laertius |
 | 200 BCE | *Pythagorean Memoirs* (200 BCE) | a Pseudo-Pythagorean Text (sections quoted in Diogenes Laertius) |
 | 300 BCE | Timaeus of Tauromenium (350–260 BCE) | (historian of Sicily) |
-|   | （嵌套表：\| Academy \| Heraclides (ca. 380–310) Xenocrates (ca. 396–314) Speusippus (ca. 410–339) \| \| Lyceum \| Dicaearchus (ca.370–300) Aristoxenus (ca. 370–300) Eudemus (ca.370–300) Theophrastus (372–288) Aristotle (384–322) \| \| --- \| --- \| --- \| --- \| --- \|） |   |
+|   | <table class="cellpad-small vert-mid"> <tr> <td>Academy</td> <td>Heraclides <br /> (ca. 380&ndash;310) <br /> Xenocrates <br /> (ca. 396&ndash;314) <br /> Speusippus <br /> (ca. 410&ndash;339)</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Lyceum</td> <td>Dicaearchus <br /> (ca.370&ndash;300) <br /> Aristoxenus <br /> (ca. 370&ndash;300) <br /> Eudemus <br /> (ca.370&ndash;300) <br /> Theophrastus <br /> (372&ndash;288) <br /> <br /> Aristotle <br /> (384&ndash;322)</td> </tr> </table> |   |
 | 400 BCE | Plato (427–347 BCE) |   |
 | 500 BCE | Pythagoras (570–490 BCE) |   |
 

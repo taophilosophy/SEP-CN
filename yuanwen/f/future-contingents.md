@@ -341,7 +341,7 @@ A semantics introduced in this manner also fits with models defined in terms of 
 
 On the Leibnizian view $p \supset P(x)F(x)p$ holds, whereas $p \supset P(x)\Box F(x)p$ does not hold. This may be illustrated in the following way:
 
-| ![Figure 4](../assets/future-contingents/fc_figure_4.png) | （嵌套表：\| t$_1 ' =$ temp(m$_1$,c$')$ \| \| --- \| \| t$_1 =$ temp(m$_1$,c) \| \| t$_2 ' =$ temp(m$_2 '$,c$')$ \| \| t$_2 =$ temp(m$_2$,c) \|） |
+| ![Figure 4](../assets/future-contingents/fc_figure_4.png) | <table> <tbody> <tr> <td>t$_1 ' =$ temp(m$_1$,c$')$</td> </tr> <tr> <td>t$_1 =$ temp(m$_1$,c)</td> </tr> <tr> <td>t$_2 ' =$ temp(m$_2 '$,c$')$</td> </tr> <tr> <td>t$_2 =$ temp(m$_2$,c)</td> </tr> </tbody> </table> |
 | --- | --- |
 
 This diagram illustrates that chronicles may be represented as parallel lines up to a certain temporal instant (containing both $t_1 = \temp(m_1,c)$ and $t_1 ' =\temp(m_1,c'))$, from where they diverge. Until the “branching point” the chronicles are indistinguishable.

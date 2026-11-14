@@ -493,10 +493,12 @@ In each case and figure, Avicenna distinguishes the moods also according to the 
    | Hyp. Camestres $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CaB; $(\textrm{a-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AeC}$ |
    | Hyp. Festino $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CeB; $(\textrm{a-}\mathbb{C})p\textrm{-AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ |
    | Hyp. Baroco $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CaB; $(\textrm{a-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ |
+
    When the conditional is particular, Avicenna contends that there are four additional moods. Negative (universals) are treated in general terms: their criteria of productivity require the categorical major and the consequent of the conditional minor to be both affirmative or both negative, and the categorical to be universal. For example,
 
    | Hyp. Cesare* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | CeB; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ |
    | --- | --- |
+
    is valid in virtue of the familiar rules of transformation.[^note-22]
 
 **Third figure:** subject of the consequent of the conditional = subject of the categorical major
@@ -510,6 +512,7 @@ In each case and figure, Avicenna distinguishes the moods also according to the 
    | Hyp. Disamis $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | BiC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ |
    | Hyp. Bocardo $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | BoC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ |
    | Hyp. Ferison $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ | BeC; $(\textrm{a-}\mathbb{C})p\textrm{-BiA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ |
+
    When the conditional premises is quantified differently, the moods will be revised forms of the above, just as in the case of the first and second figure.
 
 **Case 2:** conditional major, categorical minor, sharing in the consequent of the conditional; in three figures (*Qiyās* VI.4, 331.10–336.8).
