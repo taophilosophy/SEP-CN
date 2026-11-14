@@ -8,8 +8,8 @@
  ],
  "counts": {
   "查无": 8458,
-  "一致": 1271,
-  "不一致": 822,
+  "一致": 1282,
+  "不一致": 811,
   "未查证": 331
  },
  "results": [
@@ -35447,8 +35447,8 @@
    "table": "术语",
    "line": 1638,
    "term": "elliptic geometry",
-   "trans": "椭圆几何",
-   "basis": "数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th）",
+   "trans": "椭圆几何（亦作“椭圆几何学”）",
+   "basis": "数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th）；2026-11-15 补亦作（审定形）",
    "status": "不一致",
    "hits": [
     {
@@ -35456,10 +35456,17 @@
      "cn": "椭圆几何[学]",
      "en": "elliptic geometry",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "椭圆几何[学]",
+     "en": "elliptic geometry",
+     "source": "审定形（括注可选后缀“学”）；通行“椭圆几何”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -35515,9 +35522,9 @@
    "table": "术语",
    "line": 1642,
    "term": "embryo twinning / embryo splitting",
-   "trans": "胚胎孪生／胚胎分裂",
-   "basis": "学界惯例（生殖医学通行）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "胚胎孪生／胚胎分裂（亦作“胚胎分割”）",
+   "basis": "学界惯例（生殖医学通行）；凭证 2026-11-07；2026-11-15 补亦作（审定技术名形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -35542,10 +35549,17 @@
      "cn": "胚胎分割",
      "en": "embryo splitting",
      "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "胚胎分割",
+     "en": "embryo splitting",
+     "source": "审定技术名形；通行“胚胎分裂/胚胎孪生”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36075,20 +36089,27 @@
    "table": "术语",
    "line": 1659,
    "term": "empirically equivalent",
-   "trans": "经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”）",
-   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
-   "status": "不一致",
+   "trans": "经验等价的（亦作“经验等价”“经验等价的理论”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）；2026-11-15 译法列格式归一（审定形入亦作）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "经验等价的理论",
      "en": "empirically equivalent theory",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "经验等价的理论",
+     "en": "empirically equivalent",
+     "source": "审定复合形；通行“经验等价的”"
     }
    ],
    "providers": [
     "termonline-all",
     "termonline-standard",
+    "web-authority",
     "youdao-aux"
    ]
   },
@@ -36915,9 +36936,9 @@
    "table": "术语",
    "line": 1699,
    "term": "environmental ethics",
-   "trans": "环境伦理学",
-   "basis": "学界通行（应用伦理学分支）",
-   "status": "不一致",
+   "trans": "环境伦理学（亦作“环境伦理”）",
+   "basis": "学界通行（应用伦理学分支）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -36936,10 +36957,17 @@
      "cn": "环境美德伦理",
      "en": "environmental virtue ethics",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "环境伦理",
+     "en": "environmental ethics",
+     "source": "审定形（学科名不带学）；通行“环境伦理学”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -38554,19 +38582,26 @@
    "table": "术语",
    "line": 1801,
    "term": "ethical intuitionism",
-   "trans": "伦理直觉主义",
-   "basis": "学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "伦理直觉主义（亦作“直觉主义伦理学”）",
+   "basis": "学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08；2026-11-15 补亦作（审定形，元伦理学文献两语序并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "直觉主义伦理学",
      "en": "ethical intuitionism",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "直觉主义伦理学",
+     "en": "ethical intuitionism",
+     "source": "审定形；元伦理学文献“伦理直觉主义”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -40880,19 +40915,26 @@
    "table": "术语",
    "line": 1897,
    "term": "explanans",
-   "trans": "解释项",
-   "basis": "学界通行（科学说明）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "解释项（亦作“说明项”）",
+   "basis": "学界通行（科学说明）；凭证 2026-11-07；2026-11-15 补亦作（审定形；亨佩尔说明理论文献“解释项/说明项”两形并行，与 explanandum 被说明项对举）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "说明项",
      "en": "explanans",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "说明项",
+     "en": "explanans",
+     "source": "审定形；亨佩尔说明理论文献“解释项/说明项”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -40985,19 +41027,26 @@
    "table": "术语",
    "line": 1903,
    "term": "explanatory power",
-   "trans": "说明力",
-   "basis": "科学哲学通行汉译；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "说明力（亦作“说明能力”）",
+   "basis": "科学哲学通行汉译；凭证 2026-11-08；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "说明能力",
      "en": "explanatory power",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "说明能力",
+     "en": "explanatory power",
+     "source": "审定形；通行“说明力/解释力”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -41059,19 +41108,26 @@
    "table": "术语",
    "line": 1908,
    "term": "explicit definition",
-   "trans": "显式定义",
-   "basis": "逻辑学通行（与隐定义相对）",
-   "status": "不一致",
+   "trans": "显式定义（亦作“显定义”）",
+   "basis": "逻辑学通行（与隐定义相对）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "显定义",
      "en": "explicit definition",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "显定义",
+     "en": "explicit definition",
+     "source": "审定形；逻辑学“显式定义/显定义”并行（与隐定义相对）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -41964,9 +42020,9 @@
    "table": "术语",
    "line": 1942,
    "term": "extraversion",
-   "trans": "外向性",
-   "basis": "大五特质通行汉译；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "外向性（亦作“外向”）",
+   "basis": "大五特质通行汉译；凭证 2026-11-10；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -41979,10 +42035,17 @@
      "cn": "外向",
      "en": "extraversion",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "外向",
+     "en": "extraversion",
+     "source": "审定短形；大五标准“外向性”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -44265,9 +44328,9 @@
    "table": "术语",
    "line": 2044,
    "term": "Five-Factor Model",
-   "trans": "五因素模型",
-   "basis": "人格心理学通行汉译（Costa & McCrae）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "五因素模型（亦作“人格五因素模型”）",
+   "basis": "人格心理学通行汉译（Costa & McCrae）；凭证 2026-11-10；2026-11-15 补亦作（审定全称形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -44286,10 +44349,17 @@
      "cn": "人格五因素模型",
      "en": "five factor personality model",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "人格五因素模型",
+     "en": "Five-Factor Model",
+     "source": "审定全称形；通行“五因素模型”（Costa & McCrae）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -46078,9 +46148,9 @@
    "table": "术语",
    "line": 2104,
    "term": "frame of reference",
-   "trans": "参照系",
-   "basis": "学界惯例（物理学通行）",
-   "status": "不一致",
+   "trans": "参照系（亦作“参照框架”）",
+   "basis": "学界惯例（物理学通行）；2026-11-15 补亦作（审定形；心理学/认知科学语境用“参照框架”，分义注记）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -46117,10 +46187,17 @@
      "cn": "内部参考系",
      "en": "internal frame of reference",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "参照框架",
+     "en": "frame of reference",
+     "source": "审定形；物理学“参照系”，心理学/认知科学“参照框架”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -47241,9 +47318,9 @@
    "table": "术语",
    "line": 2144,
    "term": "fundamentalism",
-   "trans": "基要主义",
-   "basis": "学界通行（宗教研究）；凭证 2026-11-11",
-   "status": "不一致",
+   "trans": "基要主义（亦作“基本教义主义”）",
+   "basis": "学界通行（宗教研究；基督教基要派专用义）；凭证 2026-11-11；2026-11-15 补亦作（审定形；泛宗教语境国内通行“原教旨主义”，分义注记不并）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -47256,10 +47333,17 @@
      "cn": "原教旨主义",
      "en": "fundamentalism",
      "source": "社会学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "基本教义主义",
+     "en": "fundamentalism",
+     "source": "审定形；基督教基要派专用“基要主义”，泛宗教语境“原教旨主义”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
