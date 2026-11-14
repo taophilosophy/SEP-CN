@@ -8,8 +8,8 @@
  ],
  "counts": {
   "查无": 8773,
-  "一致": 1315,
-  "不一致": 794
+  "一致": 1318,
+  "不一致": 791
  },
  "results": [
   {
@@ -124200,19 +124200,26 @@
    "table": "术语",
    "line": 5746,
    "term": "testimony",
-   "trans": "证言",
-   "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "trans": "证言（亦作“证词”）",
+   "basis": "学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形，知识论文献两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "证词",
      "en": "testimony",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "证词",
+     "en": "testimony",
+     "source": "审定形；知识论“证言/证词”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -126673,19 +126680,26 @@
    "table": "术语",
    "line": 5858,
    "term": "Torah",
-   "trans": "托拉",
-   "basis": "学界通行（犹太教经籍；亦作“妥拉”）",
-   "status": "不一致",
+   "trans": "托拉（亦作“妥拉”“律法”）",
+   "basis": "学界通行（犹太教经籍）；2026-11-15 补亦作（审定形“律法”，犹太学文献并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "律法",
      "en": "torah",
      "source": "社会学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "律法",
+     "en": "Torah",
+     "source": "审定形；犹太学“托拉/律法（书）”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -135132,19 +135146,26 @@
    "table": "术语",
    "line": 6287,
    "term": "winning strategy",
-   "trans": "制胜策略",
-   "basis": "博弈语义学通行",
-   "status": "不一致",
+   "trans": "制胜策略（亦作“赢取策略”）",
+   "basis": "博弈语义学通行；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "赢取策略",
      "en": "winning strategy",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "赢取策略",
+     "en": "winning strategy",
+     "source": "审定形；博弈语义学“制胜策略”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
