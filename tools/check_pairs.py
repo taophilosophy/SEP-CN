@@ -46,19 +46,20 @@ def check_brackets(path, lineno, line, issues):
     t = _mask(line)
     if not re.search(r"[%s（）〔〕【】《》]" % HAN, t):
         return
-    t = re.sub(r"(?:^|[：、。\s])([\d一二三四五六七八九十]{1,3})）",
-               lambda m: m.group(0)[:-1] + "\x01", t)  # 序次语 N）豁免（前导限冒号/顿号/句点/空白/行首；不得含（——（2）是括注数字）
     for lo, hi in PAIRS:
         depth = 0
-        for ch in t:
+        for i, ch in enumerate(t):
             if ch == lo:
                 depth += 1
             elif ch == hi:
-                depth -= 1
-                if depth < 0:
+                if depth == 0:
+                    prev = t[i - 1] if i else ""
+                    if re.match(r"[\d一二三四五六七八九十]", prev):
+                        continue  # 序次语 N）——零深度右括号前邻数字，GB/T 15834 序次语形态，放行
                     issues.append({"path": path, "line": lineno, "rule": "bracket-pair",
                                    "detail": "%s%s 右先于左：%s" % (lo, hi, t.strip()[:44])})
-                    depth = 0
+                    continue
+                depth -= 1
         if depth != 0:
             issues.append({"path": path, "line": lineno, "rule": "bracket-pair",
                            "detail": "%s%s 不配对（深度 %d）：%s" % (lo, hi, depth, t.strip()[:44])})
@@ -97,29 +98,40 @@ def check_links(path, lineno, line, issues, base_dir):
 
 
 def extract_bib_defs(text):
-    """返回 (键→行文本 dict, 重复键列表)。引用注释形态：书目 def 无需文内 marker。"""
-    defs, order = {}, []
+    """返回 (有序 (键, 行文本) 列表, 重复键列表)。引用注释形态：书目 def 无需文内 marker。"""
+    ordered, dups = [], []
     for m in re.finditer(r"^\[\^([^\]\n]+)\]:\s*(.+)$", text, re.M):
         k, v = m.group(1), m.group(2)
-        if k in defs:
-            order.append(k)
-        defs[k] = v
-    return defs, order
+        if any(k == kk for kk, _ in ordered):
+            dups.append(k)
+        ordered.append((k, v))
+    return ordered, dups
 
 
 def check_authoryear(path, lineno, line, issues, defs, en_text=None):
     t = _mask(line)
     for m in AY_RE.finditer(t):
         surname, year = m.group(1), m.group(2)
-        hit = any(surname in v and year in v for v in defs.values())
+        # 破折号承接链（–––, 2002, …＝同上作者）：dash 行继承上一条的作者命中
+        prev = False
+        hit = False
+        for _k, v in defs:
+            dash = bool(re.match(r"^[—–]{2,}", v.strip()))
+            cur = surname in v
+            if (cur or (dash and prev)) and year in v:
+                hit = True
+                break
+            prev = cur or (dash and prev)
         if hit:
             continue
-        if en_text and re.search(re.escape(surname) + r"[\s\S]{0,120}" + year, en_text):
-            continue  # en 书目亦含 → zh 掉条目才是真缺陷；en 亦无＝源风格提及
-        if defs:
-            issues.append({"path": path, "line": lineno, "rule": "cite-authoryear",
-                           "detail": "作者-年份引注（%s %s）未匹配书目条目（启发式；en 书目亦未见）：%s"
-                                     % (surname, year, t.strip()[:40])})
+        if en_text:
+            mb = re.search(r"<h2[^>]*>\s*(?:Bibliography|References[^<]*)</h2>([\s\S]*?)(?:<h2|$)", en_text)
+            en_bib = mb.group(1) if mb else ""
+            if en_bib and re.search(re.escape(surname) + r"[\s\S]{0,120}" + year, en_bib):
+                issues.append({"path": path, "line": lineno, "rule": "cite-authoryear",
+                               "detail": "文内引注（%s %s）在 en 书目有对应条目而 zh 书目缺失：%s"
+                                         % (surname, year, t.strip()[:40])})
+            # en 书目亦无＝源风格提及（SEP 正文可提及书目未列之作），不计
 
 
 def check_counts(path, slug, zh_text, issues, tol_head=2, tol_bib=2):

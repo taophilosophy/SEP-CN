@@ -64,7 +64,7 @@
 
 ### 4.1 异常分类（IEEE 1044 对齐）
 
-四方对照表钉死于 [specs/004 §五](../specs/004-engineering-doctrine/spec.md)（MQM 维 × A–D 类 × Critical/Major/Minor × R1–R5 成因）；任何会话不应再造新分类体系，跨体系换算以该表为准。返工按 ADR-0039 四元组登记，同一成因二次发案防线升级（约定→门禁→硬门禁）。
+四方对照表钉死于 [specs/004 §五](../specs/004-engineering-doctrine/spec.md)（MQM 维 × A–D 类 × Critical/Major/Minor × R1–R5 成因）；任何会话不应再造新分类体系，跨体系换算以该表为准。配对/方向/数量/引用一致性/悬空的机检由 `tools/check_pairs.py` 承载（告警级，ADR-0046）。返工按 ADR-0039 四元组登记，同一成因二次发案防线升级（约定→门禁→硬门禁）。
 
 ## 5. 度量与测量过程（ISO/IEC 15939）
 
