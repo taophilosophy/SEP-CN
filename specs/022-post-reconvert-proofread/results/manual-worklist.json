@@ -199,11 +199,19 @@
    {
     "key": "mele-1995",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
  {
   "slug": "aesthetics-of-everyday",
+<<<<<<< Updated upstream
   "unplanned": {
    "melchionne-2014": 1
   }
@@ -214,6 +222,23 @@
    "hume-1757": 1,
    "hume-1757-2": 1
   }
+=======
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "aesthetic-experience",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+>>>>>>> Stashed changes
  },
  {
   "slug": "davidson",
@@ -236,6 +261,18 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "biology-philosophy",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "computability",
   "manual": [
    {
@@ -359,6 +396,13 @@
   "slug": "abstract-objects",
   "manual": [
    {
+<<<<<<< Updated upstream
+=======
+    "key": "key",
+    "reason": "no-def"
+   },
+   {
+>>>>>>> Stashed changes
     "key": "inwagen-1983",
     "reason": "no-zh-group",
     "group": "(van Inwagen 1977, 1983; Kripke 1973 [2013])"
@@ -367,11 +411,29 @@
  },
  {
   "slug": "kant-mathematics",
+<<<<<<< Updated upstream
   "unplanned": {
    "friedman-1992": 1,
    "friedman-2010": 1,
    "friedman-2000": 1
   }
+=======
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "desgabets",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+>>>>>>> Stashed changes
  },
  {
   "slug": "music",
@@ -395,6 +457,22 @@
     "key": "rommevaux-tani-2018",
     "reason": "no-zh-group",
     "group": "(especially with his stereometrical investigations. For the medieval proportions"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "aesthetics-existentialist",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -452,14 +530,30 @@
    {
     "key": "black-2006",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
  {
   "slug": "aesthetics-race",
+<<<<<<< Updated upstream
   "unplanned": {
    "du-1926": 1
   }
+=======
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+>>>>>>> Stashed changes
  },
  {
   "slug": "action-perception",
@@ -479,6 +573,13 @@
    {
     "key": "o’regan-2001",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -558,6 +659,18 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "alberic-paris",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "action",
   "manual": [
    {
@@ -589,6 +702,13 @@
     "reason": "no-def"
    },
    {
+<<<<<<< Updated upstream
+=======
+    "key": "key",
+    "reason": "no-def"
+   },
+   {
+>>>>>>> Stashed changes
     "key": "o’shaughnessy-1980",
     "reason": "no-def"
    }
@@ -628,6 +748,13 @@
    {
     "key": "hoefer-1996",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -642,6 +769,45 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "bodily-awareness",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "aesthetic-concept",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "actualism-possibilism-ethics",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abduction",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "kumaarila",
   "manual": [
    {
@@ -679,9 +845,18 @@
  },
  {
   "slug": "austin-john",
+<<<<<<< Updated upstream
   "unplanned": {
    "hamburger-1985": 1
   }
+=======
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+>>>>>>> Stashed changes
  },
  {
   "slug": "al-farabi",
@@ -724,6 +899,54 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "kant-mind",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "identity-politics",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "identity-ethics",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "identity",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "blame",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "bayes-theorem",
   "manual": [
    {
@@ -765,6 +988,18 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "adaptationism",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "redistribution",
   "manual": [
    {
@@ -798,6 +1033,27 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "autrecourt",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "academic-freedom",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "justice-virtue",
   "manual": [
    {
@@ -824,6 +1080,67 @@
    {
     "key": "stump-1996",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "dynamic-choice",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "doxography-ancient",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "buridan",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "basing-epistemic",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abilities",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "intensional-trans-verbs",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -837,6 +1154,18 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "ibn-sina",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "egoism",
   "manual": [
    {
@@ -863,6 +1192,22 @@
     "key": "adorno-1968",
     "reason": "no-zh-group",
     "group": "(later commemorated in Adorno’s *Alban Berg: Master of the Smallest Link*, 1968 "
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abu-bakr-al-razi",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -877,6 +1222,36 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "kochen-specker",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "ibn-ezra",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "delmedigo",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "copernicus",
   "manual": [
    {
@@ -887,6 +1262,27 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "antiochus-ascalon",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "al-khunaji",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "obligationes",
   "manual": [
    {
@@ -922,6 +1318,18 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "kilvington",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "economic-democracy",
   "manual": [
    {
@@ -932,12 +1340,94 @@
   ]
  },
  {
+<<<<<<< Updated upstream
+=======
+  "slug": "descartes-physics",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "bradley-moral",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "bloch",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "alcmaeon",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "albalag",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "african-sage",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+>>>>>>> Stashed changes
   "slug": "aesthetics-18th-french",
   "manual": [
    {
     "key": "mariette-1851",
     "reason": "no-zh-group",
     "group": "(see, e.g., Pernéty’s *Dictionnaire portatif* [1757], Watelet and Lévesque’s *Di"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "aesthetics-18th-british",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "advance-directives",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -947,6 +1437,103 @@
    {
     "key": "gethin-1992b",
     "reason": "no-def"
+<<<<<<< Updated upstream
+=======
+   },
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "richard-sophister",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "reism",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "kokugaku-school",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "kaspi-joseph",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "karl-reinhold",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "kant-leibniz",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "james-ward",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "innateness-history",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "hartshorne",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "hare",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+>>>>>>> Stashed changes
    }
   ]
  },
@@ -969,5 +1556,179 @@
     "group": "(Genève: Institut et Musée Voltaire, 1968–77)"
    }
   ]
+<<<<<<< Updated upstream
+=======
+ },
+ {
+  "slug": "duns-scotus",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "dewey-political",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "david",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "boolalg-math",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "bohr-correspondence",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "binarium",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "antonio-rosmini",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "anselm",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "alyngton",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "albert-saxony",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "albert-great",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "al-kindi",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "akan-person",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "agrippa-nettesheim",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abraham-daud",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abrabanel",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abortion",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abner-burgos",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+ },
+ {
+  "slug": "abelard",
+  "manual": [
+   {
+    "key": "key",
+    "reason": "no-def"
+   }
+  ]
+>>>>>>> Stashed changes
  }
 ]
