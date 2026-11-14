@@ -3769,17 +3769,17 @@
       "files": [
         {
           "path": "en/albert-great/index.html",
-          "sha256": "8b5e093a10e4a4fb83e93a7d22e7d228840c578c03709abe79b24551461c0181",
-          "bytes": 97265,
+          "sha256": "46751ce67171aeb31e77f4bceaf183855eaa3ee43ab95a207a5b4daf6db6adb4",
+          "bytes": 97281,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/albert-great.md",
-        "sha256": "4a09063933f3541244cb62834e578735f661042ca0686744c327ae8f5bbfc6c1",
-        "source_sha256": "8b5e093a10e4a4fb83e93a7d22e7d228840c578c03709abe79b24551461c0181",
-        "converted_at": "2026-11-14T08:27:10Z",
+        "sha256": "1096948e33598810bad34692cd8dc7d63bde876f59c86af2c1f0011a839cb917",
+        "source_sha256": "46751ce67171aeb31e77f4bceaf183855eaa3ee43ab95a207a5b4daf6db6adb4",
+        "converted_at": "2026-11-14T09:02:30Z",
         "cite_markers": 18,
         "cite_defs": 85,
         "supplements": [],
@@ -41414,13 +41414,13 @@
       "files": [
         {
           "path": "en/envy/index.html",
-          "sha256": "05897e8966d98b6ca458997c2a7ddb9b197718dd12db7d34e002ea5b3f6c756c",
-          "bytes": 56837,
+          "sha256": "902392c40a60da4415f020e5fb827f529de5f8171225019b5cb866b2756d036f",
+          "bytes": 56840,
           "kind": "main"
         },
         {
           "path": "en/envy/notes.html",
-          "sha256": "8e1fa154068fa6d50995525e4d4b38ca68846d8a1b3ceb47115c0e1c38ccf834",
+          "sha256": "d9e64f8f6fcb55a968feb6dffa0612bf0e80a6e25c5c4120d9aa5427a16060f7",
           "bytes": 22066,
           "kind": "notes"
         }
@@ -41428,9 +41428,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/envy.md",
-        "sha256": "eeb56e31f93c29a26b317c3d15162c2998eb63f62c99120235ddaf498e0127cb",
-        "source_sha256": "05897e8966d98b6ca458997c2a7ddb9b197718dd12db7d34e002ea5b3f6c756c",
-        "converted_at": "2026-11-14T08:27:11Z",
+        "sha256": "ebd6e7b7c226fc3f760238eee2581867ff8f4cc40199cb8bac18176cf7ab8f05",
+        "source_sha256": "902392c40a60da4415f020e5fb827f529de5f8171225019b5cb866b2756d036f",
+        "converted_at": "2026-11-14T09:02:30Z",
         "cite_markers": 1,
         "cite_defs": 41,
         "supplements": [],
@@ -80220,8 +80220,8 @@
       "files": [
         {
           "path": "en/leucippus/index.html",
-          "sha256": "a35765e3d545787be7cb397f8dc85947f97fa84f38cdd807e26af88bf546c2b8",
-          "bytes": 24908,
+          "sha256": "f2645cbc4e1fce210c60fbe66dd45d97f5c86ecb607a349c50a68945a12f10ca",
+          "bytes": 24909,
           "kind": "main"
         }
       ],
@@ -86544,8 +86544,8 @@
       "files": [
         {
           "path": "en/logic-preference/index.html",
-          "sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b",
-          "bytes": 119258,
+          "sha256": "93eb5af83393791d87c8d01c39ce4483a2fa7c569b971f3c96eb89c556e00dc0",
+          "bytes": 119259,
           "kind": "main"
         },
         {
@@ -86564,9 +86564,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/l/logic-preference.md",
-        "sha256": "53a8459b19892a8279ef89be6f1536e53177cd9bf174c41f2e01538427476998",
-        "source_sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b",
-        "converted_at": "2026-11-14T08:44:57Z",
+        "sha256": "3cffa109c672f2d75194423e3323ce873e1b48717b6dd2f177ce563a1561abe9",
+        "source_sha256": "93eb5af83393791d87c8d01c39ce4483a2fa7c569b971f3c96eb89c556e00dc0",
+        "converted_at": "2026-11-14T08:59:11Z",
         "cite_markers": 24,
         "cite_defs": 67,
         "supplements": [
@@ -151398,5 +151398,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T08:45:13Z"
+  "updated_at": "2026-11-14T09:02:30Z"
 }

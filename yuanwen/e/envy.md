@@ -133,7 +133,7 @@ egalitarianism | equality | justice: distributive
 
 [^note-9]: This view of the characteristic motivation of envy is advanced in D'Arms and Jacobson, 2000, and further developed in D'Arms and Kerr, 2008.
 
-[^note-10]: See Smith; Smith, Parrott et al; and Ortony et al. Ben-Ze'ev suggests that envy is concerned with inferiority and desert, but urges that the notion of desert in play is not moral.
+[^note-10]: See Smith; Smith, Parrott et al; and Ortony et al. Ben Ze'ev suggests that envy is concerned with inferiority and desert, but urges that the notion of desert in play is not moral.
 
 [^note-11]: This gloss of the common supposition is intended to be neutral on the controversy between judgmentalists, who hold that emotions essentially involve beliefs or judgments, and their opponents. Note that evidence for claims about the content of the appraisal involved in a given type of emotion comes not only from beliefs a subject may be said to have, but from desires and feelings as well. It is in part because envy is a form of pain or distress at the rival's possession of the good that the subject can be said to regard it as bad in some way that rival has what he has.
 
@@ -205,7 +205,7 @@ egalitarianism | equality | justice: distributive
 
 [^frank-1985]: Frank, R., 1985, *Choosing the Right Pond*, New York: Oxford University Press.
 
-[^freud-1949]: Freud, S., 1949, *Group Psychology and the Analysis of the Ego*, J. Strachey (trans.), New York: Liveright.
+[^freud-1949]: Freud, S., 1949, *Group Psychology and the Analysis of the Ego*, J. Strachey (trans.), New York: Liverwright.
 
 [^greenspan-1998]: Greenspan, P., 1998, *Emotions and Reason: An Inquiry into Emotional Justification*, London: Routledge & Kegan Paul.
 
@@ -243,7 +243,7 @@ egalitarianism | equality | justice: distributive
 
 [^smith-1994]: Smith, Parrott, Ozer, and Moniz, 1994, “Subjective Injustice and Inferiority as Predictors of Hostile and Depressive Feelings in Envy,” *Personality and Social Psychology Bulletin*, 20(6): 705–711.
 
-[^sugden-1984]: Sugden, R., 1984, “Is Fairness Good? A Critique of Varian’s Theory of Fairness” *Noûs*, 18: 505–511.
+[^sugden-1984]: Sugden, R., 1984, “Is Fairness Good? A Critique of Varian’s Theory of Fairness” *Noús*, 18: 505–511.
 
 [^taylor-2006]: Taylor, G., 2006, *Deadly Vices*. New York, Oxford University Press.
 
