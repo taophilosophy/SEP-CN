@@ -219,7 +219,7 @@
 [^reina-2002]: –––, 2002, *Hoc Hic et Nunc: Buridano, Marsilio di Inghen e la Conoscenza del Singolare*, Florence: L.S. Olschki.
 [^ritter-1921]: Ritter, G., 1921, *Studien zur Spätscholastik I: Marsilius von Inghen und die okkamistische Schule in Deutschland*, Heidelberg: Winter.
 [^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. Le choix des questions relatives à la causalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
-[^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gr[special-character:uumlndungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
+[^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gründungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
 [^wielgus-1993]: Wielgus, S. (ed.), 1993, *Marsilius von Inghen: Werk und Wirkung: Akten des Zweiten Internationalen Marsilius-von-Inghen-Kongresses*, Lublin: Red. Wydawn. KUL [contains partial editions of works of Marsilius].
 [^winkelmann-1886]: Winkelmann, E., 1886, *Urkundenbuch der Universität Heidelberg*, Volume 1: Urkunden, Heidelberg: Winter.
 [^wood-2023]: Wood, A., 2023, “Temporal Origins Essentialism and Gappy Existence in Marsilius of Inghen’s *Quaestiones super libros De generatione et corruptione*,” in *Metaphysics Through Semantics. The Philosophical Recovery of the Medieval Mind*, J.P. Hochschild e.a. (eds.), International Archives of the History of Ideas: Volume 242, Cham: Springer, 359–375.

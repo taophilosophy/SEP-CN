@@ -43,3 +43,13 @@
 | aesthetics-18th-british | 正文 `Hutcheson 1747, 12–13 and 1744, 48`，文献区只有 1742／1747 | 1744 或为该书另一印次，页码 48 与之相联；中文侧按原文保留 1744 |
 | aesthetics-18th-british | 正文 `2005/389–391`，文献条作 `389–390 [2005]` | 页码区间互有小差，无可判据；中文侧照录 |
 | langer | 文献键五套前缀与内容错位（`eugene-1951a` 实为 Langer 1951a 等） | 属命名体系而非手误，改动面大，另案处理 |
+
+## 三、2026-11-14 续批（偿还途中新增）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| agrippa-nettesheim | `Fromman-Holzoobog` / `Memorie Doemicane` | `Frommann-Holzboog` / `Memorie Domenicane` | 出版社与期刊正名 |
+| agrippa-nettesheim | `Princenton University\nPress` / `bilioth&egrave;que` / `Geschchte der Kristlicher` / `edited and and\ntranslated` / `Bell,\n1893&ndash;1890` | `Princeton…` / `bibliothèque` / `Geschichte der christlichen` / `edited and translated` / `1890–1893` | 拼写与降序年份区间 |
+| marsilius-inghen | `Gr[special-character:uumlndungsrektors` | `Gr&uuml;ndungsrektors` | SEP 页自身坏实体 |
+| marsilius-inghen | `[ISA]<em>, Quaestiones…` | `[ISA], <em>Quaestiones…` | 斜体不该含前导逗号 |
+| marsilius-inghen | `J.-L- Sol&egrave;re` / `causasalit&eacute;` | `J.-L. Sol&egrave;re` / `causalit&eacute;` | 法语正字 |
