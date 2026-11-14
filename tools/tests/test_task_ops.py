@@ -18,17 +18,20 @@ class TestTaskOps(unittest.TestCase):
         self.old = task_ops.TASKS_DIR
         self.old_pin = task_ops._version_pin
         self.old_gate = task_ops._clear_gate
+        self.old_audit = task_ops._audit_gate
         task_ops.TASKS_DIR = self._dir.name
         # 测试打桩：版本钉与基线 gate 注入，生产 gate 不变
         task_ops._version_pin = lambda slug: {"pubinfo_date": "Aug 9, 2026",
                                               "archive_edition": "Fall 2026",
                                               "sha256": "0" * 64}
         task_ops._clear_gate = lambda slug: None
+        task_ops._audit_gate = lambda zh_doc: None
 
     def tearDown(self):
         task_ops.TASKS_DIR = self.old
         task_ops._version_pin = self.old_pin
         task_ops._clear_gate = self.old_gate
+        task_ops._audit_gate = self.old_audit
         self._dir.cleanup()
 
     def _md(self, name, body="# 测试标题\n\n旧正文。\n"):
@@ -61,7 +64,7 @@ class TestTaskOps(unittest.TestCase):
         md = self._md("r.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-r", "retranslate", zh_doc=md)
         task_ops.clear("test-r")
-        for step in ("draft", "s1", "s2", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
             task_ops.advance("test-r", step, actor="t", evidence="e")
         task_ops.advance("test-r", "r3", actor="t", evidence="冷置重读")  # 单会话形态留痕
         task_ops.advance("test-r", "done", actor="t", evidence="e")
@@ -96,7 +99,7 @@ class TestTaskOps(unittest.TestCase):
         # done 不得绕过 r3（2026-11-10 修 done 分支缺前置校验，实测重复 done 由并发撞出）
         task_ops.create("test-e", "retranslate", zh_doc=self._md("e.md"))
         task_ops.clear("test-e")
-        for step in ("draft", "s1", "s2", "s3"):
+        for step in ("draft", "s1", "s2", "audit", "s3"):
             task_ops.advance("test-e", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
@@ -112,7 +115,7 @@ class TestTaskOps(unittest.TestCase):
         # 复核独立性机检（rules/04、ADR-0020 裁定②）：单会话形态 r3 必须记明冷置
         task_ops.create("test-i1", "retranslate", zh_doc=self._md("i1.md"))
         task_ops.clear("test-i1")
-        for step in ("draft", "s1", "s2", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-i1", "r3", actor="t", evidence="看过了")
@@ -123,7 +126,7 @@ class TestTaskOps(unittest.TestCase):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
         task_ops.create("test-i2", "retranslate", zh_doc=self._md("i2.md"))
         task_ops.clear("test-i2")
-        for step in ("draft", "s1", "s2", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         t = task_ops.advance("test-i2", "r3", actor="rev", evidence="e")
         self.assertEqual(t["state"], "r3_reviewed")
@@ -135,7 +138,7 @@ class TestTaskOps(unittest.TestCase):
             write_text(cf, '{"items": []}')
             task_ops.create("test-i3", "update", change_file=cf)
             task_ops.advance("test-i3", "s1", actor="w", evidence="changes:#item3")
-            for step in ("s2", "s3", "r1", "r2"):
+            for step in ("s2", "audit", "s3", "r1", "r2"):
                 task_ops.advance("test-i3", step, actor="w", evidence="changes:#item3")
             with self.assertRaises(task_ops.PreconditionError):
                 task_ops.advance("test-i3", "r3", actor="w", evidence="changes:#item3")
@@ -161,6 +164,51 @@ class TestTaskOps(unittest.TestCase):
         task_ops.clear("test-d")
         t2 = task_ops.advance("test-d", "draft", actor="t", evidence="e")
         self.assertEqual(t2["state"], "drafted")
+
+
+    def test_audit_step_required_before_s3(self):
+        # 审计已译环节（ADR-0040）：s2_checked → s3 跳过 audited 即拒
+        task_ops.create("test-a1", "retranslate", zh_doc=self._md("a1.md"))
+        task_ops.clear("test-a1")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-a1", step, actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-a1", "s3", actor="t", evidence="跳过审计")
+        t = task_ops.advance("test-a1", "audit", actor="t", evidence="三向比对记录")
+        self.assertEqual(t["state"], "audited")
+        t = task_ops.advance("test-a1", "s3", actor="t", evidence="e")
+        self.assertEqual(t["state"], "s3_checked")
+
+    def test_audit_gate_blocks_bare_dollar(self):
+        # audited 挂钩：check_math_zh 默认档硬错误（裸 $）拦下审计（ADR-0040）
+        task_ops._audit_gate = self.old_audit  # 还原真 gate
+        bad = self._md("g-bad.md", "# 测试标题\n\n值 $x 未配对。\n")
+        task_ops.create("test-g1", "retranslate", zh_doc=bad)
+        task_ops.clear("test-g1")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-g1", step, actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-g1", "audit", actor="t", evidence="三向比对记录")
+        good = self._md("g-good.md", "# 测试标题\n\n值 $x$ 配对完好。\n")
+        task_ops.create("test-g2", "retranslate", zh_doc=good)
+        task_ops.clear("test-g2")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-g2", step, actor="t", evidence="e")
+        t = task_ops.advance("test-g2", "audit", actor="t", evidence="三向比对记录")
+        self.assertEqual(t["state"], "audited")
+
+    def test_update_audit_requires_change_evidence(self):
+        # update 任务 audit 与 s1/s2 同款：证据必须引用变更清单
+        with tempfile.TemporaryDirectory() as d:
+            cf = os.path.join(d, "change.json")
+            write_text(cf, '{"items": []}')
+            task_ops.create("test-u1", "update", change_file=cf)
+            task_ops.advance("test-u1", "s1", actor="t", evidence="changes:#item3")
+            task_ops.advance("test-u1", "s2", actor="t", evidence="changes:#item3")
+            with self.assertRaises(task_ops.PreconditionError):
+                task_ops.advance("test-u1", "audit", actor="t", evidence="口说无凭")
+            t = task_ops.advance("test-u1", "audit", actor="t", evidence="changes:#item3")
+            self.assertEqual(t["state"], "audited")
 
 
 if __name__ == "__main__":
