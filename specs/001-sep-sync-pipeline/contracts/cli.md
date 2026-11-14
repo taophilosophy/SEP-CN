@@ -68,12 +68,13 @@
 用法: python tools/task_ops.py <命令> <slug> [参数]
 命令: show <slug>                          查任务状态
       create <slug> --kind retranslate|update [--zh-doc <路径>] [--from <change 文件>]
-      advance <slug> --step draft|s1|s2|s3|r1|r2|r3|done --actor <名> --evidence <引用> [--unblock]
+      advance <slug> --step draft|s1|s2|audit|s3|r1|r2|r3|done --actor <名> --evidence <引用> [--unblock]
       clear <slug>                         清空正文置 cleared（gate: 基线哈希复算）
       block <slug> --reason <文>
 输出: 操作后的任务 JSON 全文
 行为: 任务文件 tasks/<首字母>/<slug>.json；状态迁移合法性由本工具校验，
-      禁止跳步（update 类 s1/s2 证据必须以 changes: 开头引用变更清单）；
+      禁止跳步（update 类 s1/s2/audit 证据必须以 changes: 开头引用变更清单；
+      audit 挂 check_math_zh 默认档 0 硬错误，ADR-0040）；
       blocked 任务冻结一切转移，仅 --unblock 可解。
 ```
 
@@ -162,5 +163,5 @@
 | 包内资产补齐 | `fetch_audit.py` | 只补缺件，**不写 baseline**（审计 JSON 即凭证，哈希由下次 fetch_entry 收敛） |
 | 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
-| 任务状态机 | `task_ops.py` | s3/r3 挂 check_academic；update 任务 s1/s2 证据必须 changes: 开头 |
+| 任务状态机 | `task_ops.py` | s3/r3 挂 check_academic；audit 挂 check_math_zh（默认档，ADR-0040）；update 任务 s1/s2/audit 证据必须 changes: 开头 |
 | H1 同步 | `check_summary.py --sync-headers`（本地）；CI 只读校验 | 本地只读 SUMMARY；别名行不覆盖条目标题；远端不写回（ADR-0024） |

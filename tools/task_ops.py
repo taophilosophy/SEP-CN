@@ -4,10 +4,11 @@
 用法: python tools/task_ops.py <命令> <slug> [参数]
 命令: show / create / advance / clear / reopen / block
 状态机（retranslate）:
-  pending → cleared → drafted → s1_checked → s2_checked → s3_checked
-          → r1_reviewed → r2_reviewed → r3_reviewed → done
+  pending → cleared → drafted → s1_checked → s2_checked → audited(审计已译)
+          → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
 状态机（update）: pending → s1_checked(仅变更段) → s2_checked(变更段所在节)
-          → s3_checked(全文档) → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
+          → audited(仅变更段) → s3_checked(全文档) → r1(仅变更段) → r2(变更段所在节)
+          → r3(全文档) → done
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
 退出码: 0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。
 """
@@ -25,17 +26,18 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import load_json, repo_path, utcnow_iso, write_json_verified
 
 STEPS = {"draft": "drafted", "s1": "s1_checked", "s2": "s2_checked",
-         "s3": "s3_checked", "r1": "r1_reviewed", "r2": "r2_reviewed",
-         "r3": "r3_reviewed", "done": "done"}
+         "audit": "audited", "s3": "s3_checked", "r1": "r1_reviewed",
+         "r2": "r2_reviewed", "r3": "r3_reviewed", "done": "done"}
 ORDER = {
     "retranslate": ["pending", "cleared", "drafted", "s1_checked", "s2_checked",
-                    "s3_checked", "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"],
-    "update": ["pending", "s1_checked", "s2_checked", "s3_checked",
+                    "audited", "s3_checked", "r1_reviewed", "r2_reviewed",
+                    "r3_reviewed", "done"],
+    "update": ["pending", "s1_checked", "s2_checked", "audited", "s3_checked",
                "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"],
 }
 STEP_EXPECT_PREV = {
     "draft": "cleared", "s1": ("drafted", "pending"), "s2": "s1_checked",
-    "s3": "s2_checked", "r1": "s3_checked", "r2": "r1_reviewed",
+    "audit": "s2_checked", "s3": "audited", "r1": "s3_checked", "r2": "r1_reviewed",
     "r3": "r2_reviewed", "done": "r3_reviewed",
 }
 
@@ -142,13 +144,15 @@ def advance(slug, step, actor, evidence, unblock=False):
         raise PreconditionError("step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, expect, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
-    if step != "done" and task["kind"] == "update" and step in ("s1", "s2") \
+    if step != "done" and task["kind"] == "update" and step in ("s1", "s2", "audit") \
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
     if step == "r3" and task.get("kind") != "glossary-maintenance":
         _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
+    if step == "audit" and task.get("kind") != "glossary-maintenance":
+        _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
     task["state"] = STEPS[step]
     task["steps"].append({"step": step, "status": "ok", "actor": actor,
                           "at": utcnow_iso(), "evidence": evidence})
@@ -161,6 +165,21 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+def _audit_gate(zh_doc):
+    """audited 校次门禁挂钩：check_math_zh 默认档 0 硬错误——公式完整性硬伤
+    （裸 $、宏残留、中文入公式等 C1–C6/C8）在审计即拦，strict 升档留 s3/r3
+    （rules/04 审计已译环节、ADR-0040）。词汇表维护任务与无 zh_doc 条目不设门。"""
+    if not zh_doc:
+        return
+    tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                              "tools")
+    r = subprocess.run([sys.executable, _os.path.join(tools_dir, "check_math_zh.py"), zh_doc],
+                       capture_output=True, text=True)
+    if r.returncode == 1:
+        raise PreconditionError("公式体例门禁未通过（audited 校次）：%s"
+                                % r.stdout.strip()[-800:])
 
 
 def _academic_gate(zh_doc, step):
