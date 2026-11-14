@@ -118,11 +118,11 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 **von Wright 的五条偏好原则**
 
-$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
+$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
 图 3
 
-von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上表 $V_4$ 所示例示的析取分配原理。
+von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上图 $V_4$ 所示例示的析取分配原理。
 
 在 $p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可失去 q（而保留 p），也不愿失去 p（而保留 q）。
 
@@ -514,7 +514,7 @@ $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了两种偏好改变之间的区别：其一是信念更新所引发，其二是优先性移动所引发——如前面的例子所示。
 
-总之，优先动态与偏好动态虽密切相关，却各有独特之处；总之，优先动态与偏好动态虽密切相关，却各有独特之处；这表明：为全面理解行动者如何决策，宜同时建模内在偏好与基于理由的偏好。
+总之，优先动态与偏好动态虽密切相关，却各有独特之处；这表明：为全面理解行动者如何决策，宜同时建模内在偏好与基于理由的偏好。
 
 ## 6 其余条件相同的偏好与 CP 网
 
@@ -693,8 +693,8 @@ Makinson（1999）强调两类东西的区分：规范（无真值的命令）�
 [^liu-2008]: Liu, Fenrong, 2008, *Changing for the Better: Preference Dynamics and Agent Diversity*, Ph.D. thesis, ILLC, University of Amsterdam.
 [^liu-2010]: –––, 2010, “Von Wright’s ‘The Logic of Preference’ Revisited”, *Synthese*, 175(1): 69–88. doi:10.1007/s11229-009-9530-z
 [^liu-2011a]: –––, 2011a, “A Two-Level Perspective on Preference”, *Journal of Philosophical Logic*, 40(3): 421–439. doi:10.1007/s10992-010-9168-9
-[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springerd. doi:10.1007/978-94-007-1344-4
-[^makinson-1993]: Makinson David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
+[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springer. doi:10.1007/978-94-007-1344-4
+[^makinson-1993]: Makinson, David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
 [^makinson-1999]: –––, 1999, “On a Fundamental Problem of Deontic Logic”, in *Norms, Logics and Information Systems. New Studies on Deontic Logic and Computer Science*, Paul McNamara and Henry Prakken (eds), Amsterdam: IOS Press, 29–53.
 [^menger-1939]: Menger, Karl, 1939, “A Logic of the Doubtful. On Optative and Imperative Logic”, *Reports of a Mathematical Colloquium*, Notre Dame, IN, series 2, 1: 53–64.
 [^osherson-2012]: Osherson, Daniel and Scott Weinstein, 2012, “Preference Based on Reasons”, *The Review of Symbolic Logic*, 5(1): 122–147. doi:10.1017/s1755020311000244
