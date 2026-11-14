@@ -2,7 +2,7 @@
   "slug": "genetics",
   "kind": "retranslate",
   "zh_doc": "g/genetics.md",
-  "state": "done",
+  "state": "pending",
   "steps": [
     {
       "step": "draft",
@@ -59,6 +59,13 @@
       "actor": "G-main-20261111",
       "at": "2026-11-11T15:15:39Z",
       "evidence": "全周期收口：69 段守恒、32934 字符、四检 0；G 批 done 12→13"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "adr0045-sync",
+      "at": "2026-11-14T21:48:08Z",
+      "evidence": "上游实质修订（2026-11-15 实际比较，compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"
     }
   ],
   "blockers": [],

@@ -641,7 +641,7 @@ Goodman, Nelson: aesthetics | imagination | mathematics, philosophy of | mathema
 
 [^sartori-2026]: –––, 2026, “Representation and Artefactualism: Towards a Synergic Understanding of Scientific Modelling,” *Synthese*, 207: 112.
 
-[^sartori-2026-2]: –––, forthcoming, “Smugglers of Reference: Expressivist-inferentialism and the Inevitability of Model Menotation,” *The British Journal for Philosophy of Science*. [[Sartori forthcoming preprint available online](https://lorenzosartori93.wordpress.com/wp-content/uploads/2026/04/smugglers_of_reference-4.pdf)]
+[^sartori-2026-2]: –––, forthcoming, “Smugglers of Reference: Expressivist-inferentialism and the Inevitability of Model Denotation,” *The British Journal for Philosophy of Science*. [[Sartori forthcoming preprint available online](https://lorenzosartori93.wordpress.com/wp-content/uploads/2026/04/smugglers_of_reference-4.pdf)]
 
 [^shapiro-1997]: Shapiro, Stewart, 1997, *Philosophy of Mathematics: Structure and Ontology*, Oxford: Oxford University Press.
 

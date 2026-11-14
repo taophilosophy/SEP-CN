@@ -215,7 +215,7 @@ If an incompatibilist theory of free will is correct, it thus appears to be an o
 
 ## Other Internet Resources
 
-- [The Determinism and Freedom Philosophy Website](http://www.ucl.ac.uk/%7Euctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London)
+- [The Determinism and Freedom Philosophy Website](https://www.homepages.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London)
 - [Flickers of Freedom](http://philosophycommons.typepad.com/flickers_of_freedom/): a blog about free will and moral responsibility
 - [Bibliography on Free Will](http://philpapers.org/browse/free-will/), edited by Justin Capes (Flagler College), at PhilPapers.org
 - [Philosophy of Action](https://philosophyofaction.com/), edited by Istvan Zoltan Zardai (Oxford Brookes University)

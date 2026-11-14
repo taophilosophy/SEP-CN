@@ -1551,6 +1551,7 @@
 | doxastic theory (of the basing relation) | — | 信念论 | basing-epistemic 首译 | 学界通行汉译（doxastic=信念的）；凭证 2026-11-08 | 2026-11-08 |
 | doxastic venture | — | 信念冒险 | faith | 学界通行（Bishop 术语，doxastic venture model 信念冒险模型）；凭证 2026-11-11 | 2026-11-11 |
 | doxographical tradition | — | 学说史传统 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；与 doxography 学说汇编 分列（2026-11-09 反向校对拆合键） | 2026-10-26 |
+| doxography | — | 学述（SUMMARY 词条题名作“古代哲学学说史”；研究文献通行“学述”） | SUMMARY 题名（d/doxography-ancient） | 古代哲学研究文献通行“学述”（日志 2024-05-12）；SUMMARY 题名“学说史”并存，定名候选上报；2026-11-15 日志增补 | 2026-11-15 |
 | doxographical tradition / doxography | — | 学说史传统；学说汇编 | 语料回收（词汇表并网） | 学界通行（doxography；阿尔克迈翁条术语）；词汇表并网（ADR-0036） | 2026-11-13 |
 | doxography | — | 学说汇编 | xenocrates | 学界通行（doxographical source 学说汇编性材料；“古代哲学学说史”为词条名） | 2026-11-08 |
 | drastic distance | — | 极端距离 | belief-merging | 学界通行（信念修正文献）；凭证 2026-11-10 | 2026-11-10 |
@@ -5903,6 +5904,7 @@
 | transversality condition | — | 横截条件 | ramsey-economics | 学界通行（最优控制论与增长理论）；凭证 2026-11-11 | 2026-11-11 |
 | transworld identity | — | 跨界同一性 | 语料回收（日志 2024-05-09 引） | 程平文《可能世界理论中的跨界同一性和跨界识别问题》（苏州大学 2010，日志引）；2026-11-15 日志增补 | 2026-11-15 |
 | cellular automata | — | 元胞自动机 | 语料回收（日志 2024-05-01） | 学界通行（计算哲学与数学基础文献）；2026-11-15 日志增补 | 2026-11-15 |
+| Church-Turing thesis | — | 邱奇-图灵论题 | SUMMARY 题名（c/church-turing） | SUMMARY 定名沿用（日志 2024-05-20 同名）；2026-11-15 日志增补 | 2026-11-15 |
 | Träume eines Geistersehers | Träume eines Geistersehers | 《视灵者的梦》（康德） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
 | Treasure of Reasoning（Tshad ma rigs gter） | — | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作） | 2026-11-04 |
 | treatment as an equal | — | 平等待人 | disability-care-rationing | 政治哲学通行（与 equal treatment 同等对待对举）；凭证 2026-11-08 | 2026-11-08 |

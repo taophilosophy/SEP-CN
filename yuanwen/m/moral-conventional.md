@@ -331,7 +331,7 @@ The take-home message of this section is that authors who invoke studies using t
 
 ## Other Internet Resources
 
-- [Moral Psychology Research Group](http://www.moralpsychology.net/group/)
+- [Moral Psychology Research Group](http://www.moralpsychology.net/)
 - [Social Domain Theory](https://www.socialdomaintheory.com/home). Website and Resource Hub for the Social Domain Theory International Colloquium (SDTIC).
 - [PhilPapers.org](https://philpapers.org/) collections
 - [Papers on Psychopathy and Moral Psychology](https://philpapers.org/browse/psychopathy-and-moral-psychology/)

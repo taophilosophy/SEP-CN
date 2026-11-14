@@ -829,8 +829,8 @@
       "files": [
         {
           "path": "en/academic-freedom/index.html",
-          "sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
-          "bytes": 137134,
+          "sha256": "02bc1b992c938168dbc935fe9967aad8ce308ccf7548f9d075a6eaa05d63e416",
+          "bytes": 136897,
           "kind": "main"
         },
         {
@@ -843,11 +843,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/academic-freedom.md",
-        "sha256": "dbaad1158c17f1fa5995460bb546a8255eb5a5a0fa57920bff69c02230ffcd3a",
-        "source_sha256": "6255c2996f187f0573826cf1c352580cb5572b9824ea3a17533219be5f05bd9f",
-        "converted_at": "2026-11-14T17:12:09Z",
+        "sha256": "1ad15e8d11fd1d56bd23a02e9b89d75d987a4ad91cecc0f6e320f247b357250c",
+        "source_sha256": "f535d1af6df3038adb5387f3071817682c64589f735a8d10b6837edae5073a3a",
+        "converted_at": "2026-11-14T21:45:22Z",
         "cite_markers": 89,
-        "cite_defs": 130,
+        "cite_defs": 129,
         "supplements": [],
         "images": [],
         "notes": 1
@@ -1301,7 +1301,7 @@
     },
     {
       "slug": "advance-directives",
-      "fetched_at": "2026-10-26T20:34:04Z",
+      "fetched_at": "2026-11-14T21:36:06Z",
       "source_url": "https://plato.stanford.edu/entries/advance-directives/",
       "title": "Advance Directives and Substitute Decision-Making",
       "authors": [
@@ -1327,17 +1327,17 @@
       "files": [
         {
           "path": "en/advance-directives/index.html",
-          "sha256": "b663ee735fa054a479ed07760bc15288b3a3e5c863c55a1a3996a9b41d79dcb6",
-          "bytes": 60372,
+          "sha256": "affe0d3e8f34940542390f30a757820a6dce279d477be27f9d253578a9d03f87",
+          "bytes": 60370,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/advance-directives.md",
-        "sha256": "c4152e59a2d102157d6d022aacff3ff2c6475395c4baf53c9b9472a8ad201e8f",
-        "source_sha256": "b663ee735fa054a479ed07760bc15288b3a3e5c863c55a1a3996a9b41d79dcb6",
-        "converted_at": "2026-11-14T17:12:10Z",
+        "sha256": "0fe7547bbdada3fe0b7dbd82720f87dbc09e5effd6751cfde4c47507133e93c8",
+        "source_sha256": "affe0d3e8f34940542390f30a757820a6dce279d477be27f9d253578a9d03f87",
+        "converted_at": "2026-11-14T21:45:22Z",
         "cite_markers": 17,
         "cite_defs": 12,
         "supplements": [],
@@ -4757,7 +4757,7 @@
     },
     {
       "slug": "altruism-empirical",
-      "fetched_at": "2026-10-26T20:34:04Z",
+      "fetched_at": "2026-11-14T21:36:09Z",
       "source_url": "https://plato.stanford.edu/entries/altruism-empirical/",
       "title": "Empirical Approaches to Altruism",
       "authors": [
@@ -4786,8 +4786,8 @@
       "files": [
         {
           "path": "en/altruism-empirical/index.html",
-          "sha256": "42be3fd575975c07b9eea8dd9bd82681375fcc1c2427492b3225d8fc572b587b",
-          "bytes": 125467,
+          "sha256": "8b721eb66892b444531484f2ce4dfb884dbdad699f7437edf9cc5dcd3d87e4cd",
+          "bytes": 125461,
           "kind": "main"
         },
         {
@@ -4800,9 +4800,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/altruism-empirical.md",
-        "sha256": "624a89449caf67416915d7be047420025bc17939f8e823bc9c0498036f6b8d0b",
-        "source_sha256": "42be3fd575975c07b9eea8dd9bd82681375fcc1c2427492b3225d8fc572b587b",
-        "converted_at": "2026-11-14T17:12:21Z",
+        "sha256": "c208c18ba59e4c646d82a4c008e54060af6467abcc67053af6625fa0b7f64594",
+        "source_sha256": "8b721eb66892b444531484f2ce4dfb884dbdad699f7437edf9cc5dcd3d87e4cd",
+        "converted_at": "2026-11-14T21:45:23Z",
         "cite_markers": 93,
         "cite_defs": 107,
         "supplements": [],
@@ -7913,7 +7913,7 @@
     },
     {
       "slug": "argument",
-      "fetched_at": "2026-10-26T20:34:23Z",
+      "fetched_at": "2026-11-14T21:36:12Z",
       "source_url": "https://plato.stanford.edu/entries/argument/",
       "title": "Argument and Argumentation",
       "authors": [
@@ -7926,21 +7926,25 @@
       "in_article_markers": true,
       "zh_doc": "a/argument.md",
       "archinfo": {
-        "latest_edition": "Fall 2022",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2022",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2021",
             "change_type": "first archived"
           }
         ]
       },
-      "archive_edition": "Fall 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/argument/index.html",
-          "sha256": "4ea18363951c1381cd10a2cc615f9509cd9297957f2e30b85e6ca067df9287d0",
-          "bytes": 162640,
+          "sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783",
+          "bytes": 162693,
           "kind": "main"
         },
         {
@@ -7959,9 +7963,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/argument.md",
-        "sha256": "8814845493b57da1808195bdf231970871ae96075596037b37490b2e6ba55144",
-        "source_sha256": "4ea18363951c1381cd10a2cc615f9509cd9297957f2e30b85e6ca067df9287d0",
-        "converted_at": "2026-11-14T17:12:30Z",
+        "sha256": "9c4a316f88b9a9496a4b89acb781e4b806cb94025de6c09bfda36eee3d6d5953",
+        "source_sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783",
+        "converted_at": "2026-11-14T21:45:23Z",
         "cite_markers": 244,
         "cite_defs": 230,
         "supplements": [
@@ -9363,7 +9367,7 @@
     },
     {
       "slug": "aristotle-psychology",
-      "fetched_at": "2026-10-26T20:34:31Z",
+      "fetched_at": "2026-11-14T21:36:17Z",
       "source_url": "https://plato.stanford.edu/entries/aristotle-psychology/",
       "title": "Aristotle’s Psychology",
       "authors": [
@@ -9371,14 +9375,18 @@
       ],
       "pubinfo": {
         "first_published": "Jan 11, 2000",
-        "substantive_revision": "Oct 12, 2020"
+        "substantive_revision": "Nov 9, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "a/aristotle-psychology.md",
       "archinfo": {
-        "latest_edition": "Winter 2020",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2020",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2016",
             "change_type": "minor correction"
@@ -9429,18 +9437,36 @@
           }
         ]
       },
-      "archive_edition": "Winter 2020",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/aristotle-psychology/index.html",
-          "sha256": "cd775fbfaa8a66af7e9522624ad622b69c77d6f59fc401a519a36def562365c1",
-          "bytes": 104453,
+          "sha256": "d00d9c9a178cd6ff98188c8fdef1036a48c83b0b84c0523e49adae65bfb5feeb",
+          "bytes": 106195,
           "kind": "main"
+        },
+        {
+          "path": "en/aristotle-psychology/notes.html",
+          "sha256": "cc2dfc3aef6e3cd0dc870ccd67629048acb2df4840f4a67051d0139043f716dd",
+          "bytes": 13642,
+          "kind": "notes"
         },
         {
           "path": "en/aristotle-psychology/active-mind.html",
           "sha256": "a4bbee9bed6fffd2cf6a9e90df610794e691964218340fe57a11f3b31dfede61",
           "bytes": 23269,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/aristotle-psychology/imagination.html",
+          "sha256": "66e0702b06244b9483bbce870ef5f6f4f2995ad275f9938e90316ec7c40a2e4b",
+          "bytes": 15571,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/aristotle-psychology/metaphysics-souls.html",
+          "sha256": "82f4058779ba6d14082e85d4c477c3e47267e0c877241a244db127c4963086bc",
+          "bytes": 18295,
           "kind": "supplement"
         },
         {
@@ -9450,41 +9476,40 @@
           "kind": "supplement"
         },
         {
-          "path": "en/aristotle-psychology/suppl1.html",
-          "sha256": "db799a6ac918827bef3fb5ab80ad2b5a6a0378db60b35f04a26cf33c6bcf4ecb",
-          "bytes": 22957,
+          "path": "en/aristotle-psychology/perception.html",
+          "sha256": "3014a984464c2ffb89ee5ba3de62a5c8864aed441d6a705a3be6b54ea1de2a77",
+          "bytes": 20080,
           "kind": "supplement"
         },
         {
-          "path": "en/aristotle-psychology/suppl2.html",
-          "sha256": "2c4e7e41c3a1d3ed96d10d42c644970739e8461d0591f289fe212b8dfdcd2edf",
-          "bytes": 18294,
+          "path": "en/aristotle-psychology/psychic-mereology.html",
+          "sha256": "c1ad93aa3562f5fc27f09f1700971a452bca2e531635112485a79af8b2298a5d",
+          "bytes": 22470,
           "kind": "supplement"
         },
         {
-          "path": "en/aristotle-psychology/suppl3.html",
-          "sha256": "d4f1702c15f50f6e9ff6b7693e78844dc65980287487ce1131bc9b5b4d60b2de",
-          "bytes": 20064,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/aristotle-psychology/suppl4.html",
-          "sha256": "2ea377034a2eb36208d9a1904fd2f5a244379d4e51dba8b5be0e2c34df9cff00",
-          "bytes": 15558,
+          "path": "en/aristotle-psychology/psychological-hylomorphism.html",
+          "sha256": "978c938246e7f2aa297ba63502204063e314b5d0e82491c49340bca357f9b00f",
+          "bytes": 22960,
           "kind": "supplement"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/aristotle-psychology.md",
-        "sha256": "33394f27b84936d133100106b418337ca9de66785205a180b26b7c8b5a20fc2e",
-        "source_sha256": "cd775fbfaa8a66af7e9522624ad622b69c77d6f59fc401a519a36def562365c1",
-        "converted_at": "2026-11-14T17:12:34Z",
+        "sha256": "e920e3efb0c8c816a0cc9c5167334b2d1ef18e4665999f09a627c95d1ee65b5a",
+        "source_sha256": "d00d9c9a178cd6ff98188c8fdef1036a48c83b0b84c0523e49adae65bfb5feeb",
+        "converted_at": "2026-11-14T21:45:23Z",
         "cite_markers": 2,
-        "cite_defs": 206,
+        "cite_defs": 200,
         "supplements": [
           "aristotle-psychology.active-mind.md",
+          "aristotle-psychology.imagination.md",
+          "aristotle-psychology.metaphysics-souls.md",
           "aristotle-psychology.method.md",
+          "aristotle-psychology.perception.md",
+          "aristotle-psychology.psychic-mereology.md",
+          "aristotle-psychology.psychological-hylomorphism.md",
           "aristotle-psychology.suppl1.md",
           "aristotle-psychology.suppl2.md",
           "aristotle-psychology.suppl3.md",
@@ -11678,7 +11703,7 @@
     },
     {
       "slug": "ayn-rand",
-      "fetched_at": "2026-10-26T20:34:46Z",
+      "fetched_at": "2026-11-14T21:36:27Z",
       "source_url": "https://plato.stanford.edu/entries/ayn-rand/",
       "title": "Ayn Rand",
       "authors": [
@@ -11687,14 +11712,18 @@
       ],
       "pubinfo": {
         "first_published": "Jun 8, 2010",
-        "substantive_revision": "Jul 13, 2020"
+        "substantive_revision": "Nov 4, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "a/ayn-rand.md",
       "archinfo": {
-        "latest_edition": "Spring 2025",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2025",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2023",
             "change_type": "minor correction"
@@ -11761,12 +11790,12 @@
           }
         ]
       },
-      "archive_edition": "Spring 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/ayn-rand/index.html",
-          "sha256": "e7401da3fe103ee4a0c1e636e7a25fa12feab730dd63499c30dc5434a3826d4a",
-          "bytes": 139777,
+          "sha256": "0393ae502a4bf65ff1556192c16b86245808b8bd9001d1f2945e01da497f1f15",
+          "bytes": 148026,
           "kind": "main"
         },
         {
@@ -11785,11 +11814,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/ayn-rand.md",
-        "sha256": "e588567f9b3a3c661f96011b7ef0c2360dffb27ad36ba8390b69fcd344cd38d7",
-        "source_sha256": "e7401da3fe103ee4a0c1e636e7a25fa12feab730dd63499c30dc5434a3826d4a",
-        "converted_at": "2026-11-14T17:12:40Z",
-        "cite_markers": 110,
-        "cite_defs": 194,
+        "sha256": "f2659f95f4f558b4a75d5a49d1ddfafb9b42a060aac119a125e0014f9e017362",
+        "source_sha256": "0393ae502a4bf65ff1556192c16b86245808b8bd9001d1f2945e01da497f1f15",
+        "converted_at": "2026-11-14T21:45:24Z",
+        "cite_markers": 129,
+        "cite_defs": 215,
         "supplements": [
           "ayn-rand.supplement.md"
         ],
@@ -12437,7 +12466,7 @@
     },
     {
       "slug": "behaviorism",
-      "fetched_at": "2026-11-09T16:58:49Z",
+      "fetched_at": "2026-11-14T21:36:33Z",
       "source_url": "https://plato.stanford.edu/entries/behaviorism/",
       "title": "Behaviorism",
       "authors": [
@@ -12450,9 +12479,13 @@
       "in_article_markers": true,
       "zh_doc": "b/behaviorism.md",
       "archinfo": {
-        "latest_edition": "Spring 2023",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2023",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Spring 2019",
             "change_type": "substantive content change"
@@ -12507,21 +12540,21 @@
           }
         ]
       },
-      "archive_edition": "Spring 2023",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/behaviorism/index.html",
-          "sha256": "0afe8ebb9ad8ab47d7ad007fd2a9993a0c3de1401b6cfcf4aac3d269c7598759",
-          "bytes": 79783,
+          "sha256": "72b7ca26a98801bfb12053302bc5ec1c944c5e96c695988b6d364cca9b05c6ab",
+          "bytes": 79784,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/behaviorism.md",
-        "sha256": "6a733933f09f3d8d0f80a0090bc3874ef4a9a124cef6ce8abea27159b841c317",
-        "source_sha256": "0afe8ebb9ad8ab47d7ad007fd2a9993a0c3de1401b6cfcf4aac3d269c7598759",
-        "converted_at": "2026-11-14T17:12:41Z",
+        "sha256": "834a7cb2be3c74c1f087b2e2d17f54876d02e41f8371991a2c38d2cfa25c49ca",
+        "source_sha256": "72b7ca26a98801bfb12053302bc5ec1c944c5e96c695988b6d364cca9b05c6ab",
+        "converted_at": "2026-11-14T21:45:24Z",
         "cite_markers": 71,
         "cite_defs": 82,
         "supplements": [],
@@ -12806,7 +12839,7 @@
     },
     {
       "slug": "benjamin",
-      "fetched_at": "2026-11-09T16:59:26Z",
+      "fetched_at": "2026-11-14T21:36:36Z",
       "source_url": "https://plato.stanford.edu/entries/benjamin/",
       "title": "Walter Benjamin",
       "authors": [
@@ -12865,17 +12898,17 @@
       "files": [
         {
           "path": "en/benjamin/index.html",
-          "sha256": "dbfebae6c02e6a77f79ea2d64be7b29b38a31c1b18ed6f8ad6b0666e16a3e7a0",
-          "bytes": 164652,
+          "sha256": "e4666184a79e67c3b26a56e3052a633ddab775b3dd420aac5028ac4c23cbb957",
+          "bytes": 164654,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/benjamin.md",
-        "sha256": "8c3c8fab4e2054da5db31f17e2c0ba6cedf5d4b4f252671d0c14656456585654",
-        "source_sha256": "dbfebae6c02e6a77f79ea2d64be7b29b38a31c1b18ed6f8ad6b0666e16a3e7a0",
-        "converted_at": "2026-11-14T17:12:42Z",
+        "sha256": "0700ff900501cb04a5b14fb7cbf73910a1a83758e4e62ceed791ba45fbcef678",
+        "source_sha256": "e4666184a79e67c3b26a56e3052a633ddab775b3dd420aac5028ac4c23cbb957",
+        "converted_at": "2026-11-14T21:45:24Z",
         "cite_markers": 72,
         "cite_defs": 125,
         "supplements": [],
@@ -13182,16 +13215,16 @@
     },
     {
       "slug": "berlin",
-      "fetched_at": "2026-11-09T16:59:58Z",
+      "fetched_at": "2026-11-14T21:36:38Z",
       "source_url": "https://plato.stanford.edu/entries/berlin/",
       "title": "Isaiah Berlin",
       "authors": [
-        "Cherniss, Joshua",
+        "Cherniss, Joshua L.",
         "Hardy, Henry"
       ],
       "pubinfo": {
         "first_published": "Oct 26, 2004",
-        "substantive_revision": "Feb 12, 2022"
+        "substantive_revision": "Nov 8, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "b/berlin.md",
@@ -13333,8 +13366,8 @@
       "files": [
         {
           "path": "en/berlin/index.html",
-          "sha256": "4ca8b1843f14fbfd90fd74579c636b3dc7255a192660ddab232e22ea11ff2f2d",
-          "bytes": 161230,
+          "sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080",
+          "bytes": 191310,
           "kind": "main"
         },
         {
@@ -13353,11 +13386,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/berlin.md",
-        "sha256": "d54e922709dfa5957aa9fd0570c9a21bf7184f68f53a6664ecbdbf10f4f58afd",
-        "source_sha256": "4ca8b1843f14fbfd90fd74579c636b3dc7255a192660ddab232e22ea11ff2f2d",
-        "converted_at": "2026-11-14T17:12:43Z",
-        "cite_markers": 107,
-        "cite_defs": 146,
+        "sha256": "61ff0d77abc3db7ad045631ac39a7661ee287d5cbdc9cdb90eae30e924416f02",
+        "source_sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080",
+        "converted_at": "2026-11-14T21:45:25Z",
+        "cite_markers": 97,
+        "cite_defs": 227,
         "supplements": [],
         "images": [
           "yuanwen/assets/berlin/berlin.png"
@@ -19301,7 +19334,7 @@
     },
     {
       "slug": "cellular-automata",
-      "fetched_at": "2026-10-26T20:35:20Z",
+      "fetched_at": "2026-11-14T21:36:44Z",
       "source_url": "https://plato.stanford.edu/entries/cellular-automata/",
       "title": "Cellular Automata",
       "authors": [
@@ -19315,9 +19348,13 @@
       "in_article_markers": true,
       "zh_doc": "c/cellular-automata.md",
       "archinfo": {
-        "latest_edition": "Summer 2025",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2025",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2023",
             "change_type": "substantive content change"
@@ -19344,12 +19381,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/cellular-automata/index.html",
-          "sha256": "12a7c70e9f516b023dd8b65d8a3896a11c16249f2a7eb74b6f03a61329a1e0a6",
-          "bytes": 148577,
+          "sha256": "981295e00b53e65fe1f7b271d53f6ab757ed3f3fd06cb39f535bc67ebf3f0d5c",
+          "bytes": 148855,
           "kind": "main"
         },
         {
@@ -19591,15 +19628,21 @@
           "sha256": "860a3030d68710a2fcade5164d37f4c45b20de380bd7c50b3843aad156744789",
           "bytes": 168065,
           "kind": "image"
+        },
+        {
+          "path": "en/cellular-automata/local.js",
+          "sha256": "1e11b476163878fc3a235c885171d3fa132ea2cba8a954159b235658dc59d959",
+          "bytes": 64,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/cellular-automata.md",
-        "sha256": "cb5a394059f8b9b20295137f65064948f2f546899bde14394c1caee429a67b47",
-        "source_sha256": "12a7c70e9f516b023dd8b65d8a3896a11c16249f2a7eb74b6f03a61329a1e0a6",
-        "converted_at": "2026-11-14T17:12:58Z",
-        "cite_markers": 166,
+        "sha256": "f415519a9b856458c3aa6322e39bb5eb5863bc0cefcba8b885fb3c73db274b15",
+        "source_sha256": "981295e00b53e65fe1f7b271d53f6ab757ed3f3fd06cb39f535bc67ebf3f0d5c",
+        "converted_at": "2026-11-14T21:45:25Z",
+        "cite_markers": 167,
         "cite_defs": 96,
         "supplements": [
           "cellular-automata.supplement.md"
@@ -22583,22 +22626,26 @@
     },
     {
       "slug": "closure-epistemic",
-      "fetched_at": "2026-10-26T20:35:38Z",
+      "fetched_at": "2026-11-14T21:37:27Z",
       "source_url": "https://plato.stanford.edu/entries/closure-epistemic/",
       "title": "Epistemic Closure",
       "authors": [
-        "Luper, Steven"
+        "Alspector-Kelly, Marc"
       ],
       "pubinfo": {
-        "first_published": "Dec 31, 2001",
-        "substantive_revision": "Feb 24, 2016"
+        "first_published": "Nov 4, 2026",
+        "substantive_revision": null
       },
       "in_article_markers": true,
       "zh_doc": "c/closure-epistemic.md",
       "archinfo": {
-        "latest_edition": "Summer 2020",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2020",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2018",
             "change_type": "minor correction"
@@ -22645,26 +22692,38 @@
           }
         ]
       },
-      "archive_edition": "Summer 2020",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/closure-epistemic/index.html",
-          "sha256": "fe2dbe49db6c7f3e633cee29eddd90e44477cc3d9998f3b7d5f1323497831b73",
-          "bytes": 97067,
+          "sha256": "ba74358a2a48eae73e2cf35532053ff6b9eb43bd22dd7e80f7930bc314ff6e47",
+          "bytes": 132828,
           "kind": "main"
+        },
+        {
+          "path": "en/closure-epistemic/notes.html",
+          "sha256": "86aa1a82f71877f6237315948253a4614fd7043d9b0b8dcd589d8c331c40234a",
+          "bytes": 49731,
+          "kind": "notes"
+        },
+        {
+          "path": "en/closure-epistemic/local.js",
+          "sha256": "282b943d6b343ec9f4038d067b31a7fb46fbad0dfe79f93000ac251ffbf42cdb",
+          "bytes": 87,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/closure-epistemic.md",
-        "sha256": "b38e8134f43031ff0c2f64af3e6ed155e09227cefafc6308f1450e81b99d8887",
-        "source_sha256": "fe2dbe49db6c7f3e633cee29eddd90e44477cc3d9998f3b7d5f1323497831b73",
-        "converted_at": "2026-11-14T17:13:05Z",
-        "cite_markers": 67,
-        "cite_defs": 77,
+        "sha256": "e28756dfe75105b372d79c3d4e67ccab518714da7058e813c7814314a13fc942",
+        "source_sha256": "ba74358a2a48eae73e2cf35532053ff6b9eb43bd22dd7e80f7930bc314ff6e47",
+        "converted_at": "2026-11-14T21:45:26Z",
+        "cite_markers": 159,
+        "cite_defs": 179,
         "supplements": [],
         "images": [],
-        "notes": 0
+        "notes": 70
       }
     },
     {
@@ -24324,7 +24383,7 @@
     },
     {
       "slug": "compatibilism",
-      "fetched_at": "2026-10-26T20:35:50Z",
+      "fetched_at": "2026-11-14T21:37:32Z",
       "source_url": "https://plato.stanford.edu/entries/compatibilism/",
       "title": "Compatibilism",
       "authors": [
@@ -24419,8 +24478,8 @@
       "files": [
         {
           "path": "en/compatibilism/index.html",
-          "sha256": "ae9d624dc964e7793cc49a0060e352f2775a4be4897a513ad3311f324ccc915b",
-          "bytes": 126925,
+          "sha256": "7dc61f888641a01ab980a40c81c358188da3323c64f19cac60354816bcbdd2aa",
+          "bytes": 126936,
           "kind": "main"
         },
         {
@@ -24433,9 +24492,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/compatibilism.md",
-        "sha256": "c20ea1335c6ba71a231974c57cb4aa5e353f39db37701008905b6e870a87e9f7",
-        "source_sha256": "ae9d624dc964e7793cc49a0060e352f2775a4be4897a513ad3311f324ccc915b",
-        "converted_at": "2026-11-14T17:13:09Z",
+        "sha256": "8fc9dff1b94fb43073aab34167f340f5b4cb38946d22359f9a2a32f541761fa3",
+        "source_sha256": "7dc61f888641a01ab980a40c81c358188da3323c64f19cac60354816bcbdd2aa",
+        "converted_at": "2026-11-14T21:45:26Z",
         "cite_markers": 78,
         "cite_defs": 189,
         "supplements": [
@@ -25889,7 +25948,7 @@
     },
     {
       "slug": "concepts",
-      "fetched_at": "2026-10-26T20:35:58Z",
+      "fetched_at": "2026-11-14T21:37:36Z",
       "source_url": "https://plato.stanford.edu/entries/concepts/",
       "title": "Concepts",
       "authors": [
@@ -25903,9 +25962,13 @@
       "in_article_markers": true,
       "zh_doc": "c/concepts.md",
       "archinfo": {
-        "latest_edition": "Fall 2023",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2023",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2022",
             "change_type": "minor correction"
@@ -25952,12 +26015,12 @@
           }
         ]
       },
-      "archive_edition": "Fall 2023",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/concepts/index.html",
-          "sha256": "f2e81a2de335c441c2d5a340eae65dd4689c58c5b9883059989b1fd102628f7f",
-          "bytes": 126940,
+          "sha256": "920d901cf5d341707946bda9e8ce7009bf701a18bcf4fb247a3eee9dcb131ddf",
+          "bytes": 126993,
           "kind": "main"
         },
         {
@@ -25970,10 +26033,10 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/concepts.md",
-        "sha256": "16dc0b7b216485e8c4ffbd2fb38f7aa8eef268de48a9564dfa8055d30e7be19d",
-        "source_sha256": "f2e81a2de335c441c2d5a340eae65dd4689c58c5b9883059989b1fd102628f7f",
-        "converted_at": "2026-11-14T17:13:12Z",
-        "cite_markers": 272,
+        "sha256": "66f333b8394c2f1122a6267053fcfbdaaf3a46cdca3d135a2dbb47eef8d5a176",
+        "source_sha256": "920d901cf5d341707946bda9e8ce7009bf701a18bcf4fb247a3eee9dcb131ddf",
+        "converted_at": "2026-11-14T21:45:26Z",
+        "cite_markers": 267,
         "cite_defs": 196,
         "supplements": [],
         "images": [],
@@ -28017,7 +28080,7 @@
     },
     {
       "slug": "consequentializing",
-      "fetched_at": "2026-10-26T20:36:10Z",
+      "fetched_at": "2026-11-14T21:37:39Z",
       "source_url": "https://plato.stanford.edu/entries/consequentializing/",
       "title": "Consequentializing",
       "authors": [
@@ -28025,32 +28088,37 @@
       ],
       "pubinfo": {
         "first_published": "Aug 22, 2022",
-        "substantive_revision": null
+        "substantive_revision": "Oct 30, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "c/consequentializing.md",
       "archinfo": {
-        "latest_edition": "Fall 2022",
-        "latest_change_type": "first archived",
-        "history": []
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": [
+          {
+            "edition": "Fall 2022",
+            "change_type": "first archived"
+          }
+        ]
       },
-      "archive_edition": "Fall 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/consequentializing/index.html",
-          "sha256": "7963e57a41e1d54785cb24dc883357f583f8c97acfbffc55ce1abf58b7fda612",
-          "bytes": 112387,
+          "sha256": "1ae5ac51b5c32d6437ead0849377a95e9dffe2153f51215f823221fccfa7951b",
+          "bytes": 125621,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/consequentializing.md",
-        "sha256": "8244155c7bc83441c7bff9a7de527ec52b02af19b840ac8a2967301590e58d69",
-        "source_sha256": "7963e57a41e1d54785cb24dc883357f583f8c97acfbffc55ce1abf58b7fda612",
-        "converted_at": "2026-11-14T17:13:18Z",
-        "cite_markers": 94,
-        "cite_defs": 64,
+        "sha256": "6d20d20bf2bd824b55c33ee74e40703e72a2b643a29ebc4797b6d1d2aa5ac9c5",
+        "source_sha256": "1ae5ac51b5c32d6437ead0849377a95e9dffe2153f51215f823221fccfa7951b",
+        "converted_at": "2026-11-14T21:45:26Z",
+        "cite_markers": 102,
+        "cite_defs": 70,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -28733,7 +28801,7 @@
     },
     {
       "slug": "content-narrow",
-      "fetched_at": "2026-10-26T20:36:20Z",
+      "fetched_at": "2026-11-14T21:37:43Z",
       "source_url": "https://plato.stanford.edu/entries/content-narrow/",
       "title": "Narrow Mental Content",
       "authors": [
@@ -28741,14 +28809,18 @@
       ],
       "pubinfo": {
         "first_published": "Nov 20, 2002",
-        "substantive_revision": "Apr 27, 2022"
+        "substantive_revision": "Oct 29, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "c/content-narrow.md",
       "archinfo": {
-        "latest_edition": "Summer 2022",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2022",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Summer 2016",
             "change_type": "substantive content change"
@@ -28775,23 +28847,23 @@
           }
         ]
       },
-      "archive_edition": "Summer 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/content-narrow/index.html",
-          "sha256": "c9a5c07a091c401e2ac0b56fc6392cb7192f7582ada27a13cd99ef790446b6b5",
-          "bytes": 138869,
+          "sha256": "034583384168ef9b537214bcc53fb3671b64b7c06e110c91cd369722013ad711",
+          "bytes": 125069,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/content-narrow.md",
-        "sha256": "95fe708a94cbda886c95393141eb00bffef7b66cc9bcfc5f41687881d6260088",
-        "source_sha256": "c9a5c07a091c401e2ac0b56fc6392cb7192f7582ada27a13cd99ef790446b6b5",
-        "converted_at": "2026-11-14T17:13:20Z",
-        "cite_markers": 114,
-        "cite_defs": 84,
+        "sha256": "1eb536735124ce3b4a64f6d12df6b388eb5e14f27b6502282794108a5afafc31",
+        "source_sha256": "034583384168ef9b537214bcc53fb3671b64b7c06e110c91cd369722013ad711",
+        "converted_at": "2026-11-14T21:45:26Z",
+        "cite_markers": 106,
+        "cite_defs": 85,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -32124,7 +32196,7 @@
     },
     {
       "slug": "david-lewis",
-      "fetched_at": "2026-10-26T20:36:38Z",
+      "fetched_at": "2026-11-14T21:37:46Z",
       "source_url": "https://plato.stanford.edu/entries/david-lewis/",
       "title": "David Lewis",
       "authors": [
@@ -32137,9 +32209,13 @@
       "in_article_markers": true,
       "zh_doc": "d/david-lewis.md",
       "archinfo": {
-        "latest_edition": "Spring 2026",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2026",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2021",
             "change_type": "substantive content change"
@@ -32178,21 +32254,27 @@
           }
         ]
       },
-      "archive_edition": "Spring 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/david-lewis/index.html",
-          "sha256": "88c6a9157f95d7095aa90ef5966bd3258de0bf0d1bdbf1f539b890b9ae841be2",
-          "bytes": 192104,
+          "sha256": "da11589bc6435de66f3363ca2fcf951c34e231a5e3b125db5e4c35464ab5e647",
+          "bytes": 192167,
           "kind": "main"
+        },
+        {
+          "path": "en/david-lewis/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/david-lewis.md",
         "sha256": "5eaa15121cf9afe46a7ff33f8676ab2feebcc0b7d075d073f7b5c7c72c8465f2",
-        "source_sha256": "88c6a9157f95d7095aa90ef5966bd3258de0bf0d1bdbf1f539b890b9ae841be2",
-        "converted_at": "2026-11-14T17:13:29Z",
+        "source_sha256": "da11589bc6435de66f3363ca2fcf951c34e231a5e3b125db5e4c35464ab5e647",
+        "converted_at": "2026-11-14T21:45:27Z",
         "cite_markers": 51,
         "cite_defs": 148,
         "supplements": [],
@@ -33815,7 +33897,7 @@
     },
     {
       "slug": "derrida",
-      "fetched_at": "2026-10-26T20:36:51Z",
+      "fetched_at": "2026-11-14T21:37:50Z",
       "source_url": "https://plato.stanford.edu/entries/derrida/",
       "title": "Jacques Derrida",
       "authors": [
@@ -33889,17 +33971,17 @@
       "files": [
         {
           "path": "en/derrida/index.html",
-          "sha256": "a594f29e9832ddc40425b05df8ebf7341e64e8fee2fb247c383b811c124ab342",
-          "bytes": 106693,
+          "sha256": "20a12f56413d88fd83aa2a7af44712fccdc55d4d0bcb8c4dd3db79344e14ca18",
+          "bytes": 106613,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/derrida.md",
-        "sha256": "61df78b24dfef928571f7bb2804a871b14778aca52cd3220951bd7e24fb39d84",
-        "source_sha256": "a594f29e9832ddc40425b05df8ebf7341e64e8fee2fb247c383b811c124ab342",
-        "converted_at": "2026-11-14T17:13:34Z",
+        "sha256": "33cb8ae31407065ff171754fba7ee635d48500ca503ef9b1eb7bd43d0861bd05",
+        "source_sha256": "20a12f56413d88fd83aa2a7af44712fccdc55d4d0bcb8c4dd3db79344e14ca18",
+        "converted_at": "2026-11-14T21:45:27Z",
         "cite_markers": 12,
         "cite_defs": 159,
         "supplements": [],
@@ -36162,7 +36244,7 @@
     },
     {
       "slug": "dialectical-school",
-      "fetched_at": "2026-10-26T20:37:01Z",
+      "fetched_at": "2026-11-14T21:37:54Z",
       "source_url": "https://plato.stanford.edu/entries/dialectical-school/",
       "title": "Dialectical School",
       "authors": [
@@ -36209,8 +36291,8 @@
       "files": [
         {
           "path": "en/dialectical-school/index.html",
-          "sha256": "debcc11864a9b5a139bd5e68e243953493b5350b9d4ec68b4cbc7bbbd92a9006",
-          "bytes": 76831,
+          "sha256": "2c0e52d715d5ec1261b12f6f262180120406e0dbf54320b0b8c5c6c6e2bf7f15",
+          "bytes": 76890,
           "kind": "main"
         },
         {
@@ -36224,8 +36306,8 @@
       "yuanwen": {
         "md": "yuanwen/d/dialectical-school.md",
         "sha256": "d324784e24fa920811cc5de2ab026f86b3c661b21013f7511957815889ef6778",
-        "source_sha256": "debcc11864a9b5a139bd5e68e243953493b5350b9d4ec68b4cbc7bbbd92a9006",
-        "converted_at": "2026-11-14T17:13:38Z",
+        "source_sha256": "2c0e52d715d5ec1261b12f6f262180120406e0dbf54320b0b8c5c6c6e2bf7f15",
+        "converted_at": "2026-11-14T21:45:27Z",
         "cite_markers": 45,
         "cite_defs": 66,
         "supplements": [],
@@ -39224,7 +39306,7 @@
     },
     {
       "slug": "early-modern-india",
-      "fetched_at": "2026-10-26T20:37:24Z",
+      "fetched_at": "2026-11-14T21:37:58Z",
       "source_url": "https://plato.stanford.edu/entries/early-modern-india/",
       "title": "Analytic Philosophy in Early Modern India",
       "authors": [
@@ -39270,17 +39352,17 @@
       "files": [
         {
           "path": "en/early-modern-india/index.html",
-          "sha256": "c3b66a9114eb3f6722428ed51b6948a55a0576d5914c3f05df16e96904f7f4b2",
-          "bytes": 186901,
+          "sha256": "db1f29e184d6dde4d365026fad4bd4133e49f3d1d0a393c77f84c24b4d90f263",
+          "bytes": 186889,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/early-modern-india.md",
-        "sha256": "d04a4838efd29b752fa9d319d7a262163aec3c869b4a4f6534df13400ac94ef9",
-        "source_sha256": "c3b66a9114eb3f6722428ed51b6948a55a0576d5914c3f05df16e96904f7f4b2",
-        "converted_at": "2026-11-14T17:13:47Z",
+        "sha256": "ad2bf20e143665f203ab47dd742cf2956c0cb1213efe437479125beb0a9744d8",
+        "source_sha256": "db1f29e184d6dde4d365026fad4bd4133e49f3d1d0a393c77f84c24b4d90f263",
+        "converted_at": "2026-11-14T21:45:28Z",
         "cite_markers": 27,
         "cite_defs": 58,
         "supplements": [],
@@ -40714,19 +40796,19 @@
       "files": [
         {
           "path": "en/emotion-Christian-tradition/index.html",
-          "sha256": "9dee7a3d14ed8a004d3588d5d1a074ae597973ff7186a1c3d6532b938d291457",
-          "bytes": 84894,
+          "sha256": "0a945aed13565ccdf12d00100ca08be28657b101abf87777c30c3b7d68d5e4bd",
+          "bytes": 94396,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/emotion-Christian-tradition.md",
-        "sha256": "d18f9b63d186e685381fa063f3c33db4d14be0f1595655d922fc1eed06e713f7",
-        "source_sha256": "957cf352d9a567db96bc7d230fc2db57437db99034ff330ec39ce39625bc2f68",
-        "converted_at": "2026-11-14T17:13:52Z",
-        "cite_markers": 9,
-        "cite_defs": 28,
+        "sha256": "2aea28ffa2f0b9ac0f5549db1623937e31ab557841f711438364bb0f53b6641e",
+        "source_sha256": "5798e63cd55eef8f88de32cf7c92ab9a77b32b90a60aeab24759f8278827d6e7",
+        "converted_at": "2026-11-14T21:45:28Z",
+        "cite_markers": 13,
+        "cite_defs": 36,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -41164,7 +41246,7 @@
     },
     {
       "slug": "enhancement",
-      "fetched_at": "2026-10-26T20:37:41Z",
+      "fetched_at": "2026-11-14T21:38:01Z",
       "source_url": "https://plato.stanford.edu/entries/enhancement/",
       "title": "Human Enhancement",
       "authors": [
@@ -41207,18 +41289,18 @@
       "files": [
         {
           "path": "en/enhancement/index.html",
-          "sha256": "cf347647c0026950f19ca0e28e29a288bd62b494ba356ab92397e1e088ca1f3f",
-          "bytes": 130674,
+          "sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8",
+          "bytes": 130821,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/enhancement.md",
-        "sha256": "8854f7299a8dcbb53448a027ac8d723869a8fe416865174dc22059574c95fb11",
-        "source_sha256": "cf347647c0026950f19ca0e28e29a288bd62b494ba356ab92397e1e088ca1f3f",
-        "converted_at": "2026-11-14T17:13:54Z",
-        "cite_markers": 201,
+        "sha256": "70636cfdc7ac690ad11ed5930f8542156520f956c47ec5c3d1b77d1c8cd5e480",
+        "source_sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8",
+        "converted_at": "2026-11-14T21:45:28Z",
+        "cite_markers": 209,
         "cite_defs": 179,
         "supplements": [],
         "images": [],
@@ -42029,7 +42111,7 @@
     },
     {
       "slug": "epistemic-utility",
-      "fetched_at": "2026-10-26T20:37:48Z",
+      "fetched_at": "2026-11-14T21:38:04Z",
       "source_url": "https://plato.stanford.edu/entries/epistemic-utility/",
       "title": "Epistemic Utility Arguments for Epistemic Norms",
       "authors": [
@@ -42071,8 +42153,8 @@
       "files": [
         {
           "path": "en/epistemic-utility/index.html",
-          "sha256": "e70ca6e491ce193df34a0c45373af78ed265806f2b87875c7b3a9874d68f3261",
-          "bytes": 164476,
+          "sha256": "36661960b08c0e076f7d7efd5d8e152d367bb6c492046a3bb1535ee1774c82a6",
+          "bytes": 164529,
           "kind": "main"
         },
         {
@@ -42080,14 +42162,20 @@
           "sha256": "61355247741fb7c1abaed9f13bf13348d44a5d0d59f5c3efd9c531b5439b050d",
           "bytes": 40370,
           "kind": "supplement"
+        },
+        {
+          "path": "en/epistemic-utility/local.js",
+          "sha256": "f0ddcfd36d1a03fd9ce3655bc0f4fe8a5102ed617911b0c00abfbe7a7fd151f3",
+          "bytes": 171,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/epistemic-utility.md",
         "sha256": "1ff873d79f9ee291429dc83d78f4398853f5c903a6eea0e66e4780c1ca813aa6",
-        "source_sha256": "e70ca6e491ce193df34a0c45373af78ed265806f2b87875c7b3a9874d68f3261",
-        "converted_at": "2026-11-14T17:13:56Z",
+        "source_sha256": "36661960b08c0e076f7d7efd5d8e152d367bb6c492046a3bb1535ee1774c82a6",
+        "converted_at": "2026-11-14T21:45:28Z",
         "cite_markers": 115,
         "cite_defs": 140,
         "supplements": [
@@ -44116,7 +44204,7 @@
     },
     {
       "slug": "essential-accidental",
-      "fetched_at": "2026-10-26T20:37:58Z",
+      "fetched_at": "2026-11-14T21:38:09Z",
       "source_url": "https://plato.stanford.edu/entries/essential-accidental/",
       "title": "Essential vs. Accidental Properties",
       "authors": [
@@ -44172,8 +44260,8 @@
       "files": [
         {
           "path": "en/essential-accidental/index.html",
-          "sha256": "10e1ba3d79b81b42c43938764b0de3bc5d65ab1db9d3a0f88d9e28b71c8074f5",
-          "bytes": 148784,
+          "sha256": "6c4f00b27009b81a614c292fe654ab499a13a735f1fdca06878ad1761e2962f2",
+          "bytes": 148783,
           "kind": "main"
         },
         {
@@ -44187,14 +44275,20 @@
           "sha256": "5c57b04e067f80cfcf6db745d55819808836969eeeeb62a8d9840b2650d33f85",
           "bytes": 44177,
           "kind": "supplement"
+        },
+        {
+          "path": "en/essential-accidental/local.js",
+          "sha256": "bfabbe2b05e74339896b226cf4e5bc1c8de795afc4267e406455f845a932d936",
+          "bytes": 207,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/essential-accidental.md",
-        "sha256": "263e9396f0ffd682255ae834e4977bb26245aee9aadae5dea7c89c0933bcd836",
-        "source_sha256": "10e1ba3d79b81b42c43938764b0de3bc5d65ab1db9d3a0f88d9e28b71c8074f5",
-        "converted_at": "2026-11-14T17:14:01Z",
+        "sha256": "f52615b0bed4eea10f1bc35577946ee6ee92fcd90dd2481ed2ece59db2e278ca",
+        "source_sha256": "6c4f00b27009b81a614c292fe654ab499a13a735f1fdca06878ad1761e2962f2",
+        "converted_at": "2026-11-14T21:45:29Z",
         "cite_markers": 118,
         "cite_defs": 174,
         "supplements": [
@@ -46709,7 +46803,7 @@
     },
     {
       "slug": "experimental-moral",
-      "fetched_at": "2026-10-26T20:38:10Z",
+      "fetched_at": "2026-11-14T21:38:15Z",
       "source_url": "https://plato.stanford.edu/entries/experimental-moral/",
       "title": "Experimental Moral Philosophy",
       "authors": [
@@ -46766,8 +46860,8 @@
       "files": [
         {
           "path": "en/experimental-moral/index.html",
-          "sha256": "cb482194897baeb043f139d5caf8f743bfa58cb10bf577c05c1fb12d476acfb7",
-          "bytes": 181080,
+          "sha256": "fc96ddf652b7ba1a32c52ae3155e373c967c1810b683618616e8e25a75eec1aa",
+          "bytes": 181074,
           "kind": "main"
         },
         {
@@ -46781,14 +46875,20 @@
           "sha256": "62bfb73e83922bf3bccc85df5fe8e72d1e0170214ed287e8aa8b800f5bd6b79d",
           "bytes": 182989,
           "kind": "image"
+        },
+        {
+          "path": "en/experimental-moral/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/experimental-moral.md",
-        "sha256": "33d1a96390feccfb0b7f74721a59772cc20b0a675ae29c54bbede1b75eb91cc1",
-        "source_sha256": "cb482194897baeb043f139d5caf8f743bfa58cb10bf577c05c1fb12d476acfb7",
-        "converted_at": "2026-11-14T17:14:09Z",
+        "sha256": "2caae1efff4fee423e40da6b888e2d704c52c73ddc6129833f66c0b080d351d6",
+        "source_sha256": "fc96ddf652b7ba1a32c52ae3155e373c967c1810b683618616e8e25a75eec1aa",
+        "converted_at": "2026-11-14T21:45:29Z",
         "cite_markers": 210,
         "cite_defs": 288,
         "supplements": [],
@@ -47956,7 +48056,7 @@
     },
     {
       "slug": "feminism-aesthetics",
-      "fetched_at": "2026-10-26T20:38:16Z",
+      "fetched_at": "2026-11-14T21:38:21Z",
       "source_url": "https://plato.stanford.edu/entries/feminism-aesthetics/",
       "title": "Feminist Aesthetics",
       "authors": [
@@ -48011,17 +48111,17 @@
       "files": [
         {
           "path": "en/feminism-aesthetics/index.html",
-          "sha256": "b6f4aa678537e44244878f3ce22d75c2148144f3ad9b2746c17d8c427b8bd493",
-          "bytes": 134535,
+          "sha256": "62727067fa88df9829e2902b6b1f92e7ae4181fa9cd3228c761bedad1e1b5c5d",
+          "bytes": 134539,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/feminism-aesthetics.md",
-        "sha256": "af4072aa5d9a659dc0f014d10304a24238717702593ac0b690485c18397bb9f0",
-        "source_sha256": "b6f4aa678537e44244878f3ce22d75c2148144f3ad9b2746c17d8c427b8bd493",
-        "converted_at": "2026-11-14T17:14:12Z",
+        "sha256": "8b45b8bf1d388f64d7d6612f49976004a050f32dcf76cc7ed47d6213379536b6",
+        "source_sha256": "62727067fa88df9829e2902b6b1f92e7ae4181fa9cd3228c761bedad1e1b5c5d",
+        "converted_at": "2026-11-14T21:45:30Z",
         "cite_markers": 217,
         "cite_defs": 218,
         "supplements": [],
@@ -49846,7 +49946,7 @@
     },
     {
       "slug": "feminist-bioethics",
-      "fetched_at": "2026-10-26T20:38:23Z",
+      "fetched_at": "2026-11-14T21:38:24Z",
       "source_url": "https://plato.stanford.edu/entries/feminist-bioethics/",
       "title": "Feminist Bioethics",
       "authors": [
@@ -49859,9 +49959,13 @@
       "in_article_markers": true,
       "zh_doc": "f/feminist-bioethics.md",
       "archinfo": {
-        "latest_edition": "Fall 2023",
-        "latest_change_type": "new, rewritten entry",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2023",
+            "change_type": "new, rewritten entry"
+          },
           {
             "edition": "Winter 2015",
             "change_type": "substantive content change"
@@ -49888,12 +49992,12 @@
           }
         ]
       },
-      "archive_edition": "Fall 2023",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/feminist-bioethics/index.html",
-          "sha256": "b988f7a699efd88c320d41021264d177bf3cc65a7e53eb6a00f181e489ea3f9d",
-          "bytes": 123903,
+          "sha256": "ac4cddd38d28e0f37ffc6fdcf9fb4b5fdfcfcf406a595e0202f5befe8019853e",
+          "bytes": 123937,
           "kind": "main"
         },
         {
@@ -49906,9 +50010,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/feminist-bioethics.md",
-        "sha256": "cf9fba586f0923c79c239c05dea575cb4b7c7a77ad9ca274728162e838c28080",
-        "source_sha256": "b988f7a699efd88c320d41021264d177bf3cc65a7e53eb6a00f181e489ea3f9d",
-        "converted_at": "2026-11-14T17:14:17Z",
+        "sha256": "d02409fd253d61de5470f617d0321176461d4743019966d31ffdecf68b8cba55",
+        "source_sha256": "ac4cddd38d28e0f37ffc6fdcf9fb4b5fdfcfcf406a595e0202f5befe8019853e",
+        "converted_at": "2026-11-14T21:45:30Z",
         "cite_markers": 197,
         "cite_defs": 186,
         "supplements": [],
@@ -51887,7 +51991,7 @@
     },
     {
       "slug": "form-matter",
-      "fetched_at": "2026-10-26T20:38:38Z",
+      "fetched_at": "2026-11-14T21:38:27Z",
       "source_url": "https://plato.stanford.edu/entries/form-matter/",
       "title": "Form vs. Matter",
       "authors": [
@@ -51917,17 +52021,23 @@
       "files": [
         {
           "path": "en/form-matter/index.html",
-          "sha256": "024fee3dd3ddd8a86ba4d1dc8a6a20deaa4b7978974b01d6958ef2d2368f250a",
-          "bytes": 89919,
+          "sha256": "f81569e7a28990815744ac4aafad93bc39166a814c6b2665531dbddd8072e871",
+          "bytes": 89939,
           "kind": "main"
+        },
+        {
+          "path": "en/form-matter/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/form-matter.md",
         "sha256": "ccc6ff81d80a841e1b93e8435edc178cfc6513f6be2c8c5c3d546c6bbeada0d1",
-        "source_sha256": "024fee3dd3ddd8a86ba4d1dc8a6a20deaa4b7978974b01d6958ef2d2368f250a",
-        "converted_at": "2026-11-14T17:14:23Z",
+        "source_sha256": "f81569e7a28990815744ac4aafad93bc39166a814c6b2665531dbddd8072e871",
+        "converted_at": "2026-11-14T21:45:30Z",
         "cite_markers": 33,
         "cite_defs": 58,
         "supplements": [],
@@ -53190,7 +53300,7 @@
     },
     {
       "slug": "freewill",
-      "fetched_at": "2026-10-27T18:33:00Z",
+      "fetched_at": "2026-11-14T21:38:31Z",
       "source_url": "https://plato.stanford.edu/entries/freewill/",
       "title": "Free Will",
       "authors": [
@@ -53281,17 +53391,23 @@
       "files": [
         {
           "path": "en/freewill/index.html",
-          "sha256": "97fe5912dbb0de3c8bf9adade1cbf3662de80e2ab781eb9e8cccfa8d72b74b35",
-          "bytes": 186081,
+          "sha256": "96d7f58dadac01da1ab6e3ba4dce4df62aec1b284b60a100c2774b8a825e0676",
+          "bytes": 186092,
           "kind": "main"
+        },
+        {
+          "path": "en/freewill/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/freewill.md",
-        "sha256": "32dbc16dc3402b3b67899d6704570057abb5d6191af575c98ee42a10ca5ae389",
-        "source_sha256": "97fe5912dbb0de3c8bf9adade1cbf3662de80e2ab781eb9e8cccfa8d72b74b35",
-        "converted_at": "2026-11-14T17:14:27Z",
+        "sha256": "e05bcb5abe352d5bd7e6f298040b0def198c1c540de1e48d1d54dea148efdf42",
+        "source_sha256": "96d7f58dadac01da1ab6e3ba4dce4df62aec1b284b60a100c2774b8a825e0676",
+        "converted_at": "2026-11-14T21:45:31Z",
         "cite_markers": 383,
         "cite_defs": 298,
         "supplements": [],
@@ -57005,7 +57121,7 @@
     },
     {
       "slug": "game-theory",
-      "fetched_at": "2026-10-26T20:38:56Z",
+      "fetched_at": "2026-11-14T21:38:34Z",
       "source_url": "https://plato.stanford.edu/entries/game-theory/",
       "title": "Game Theory",
       "authors": [
@@ -57127,8 +57243,8 @@
       "files": [
         {
           "path": "en/game-theory/index.html",
-          "sha256": "2d41ef74d843e8233c605126419094ac3fd7351e2916b8f34f1faf1b3292e4cc",
-          "bytes": 391652,
+          "sha256": "bd5285aabfcb515cd404223d4df45e28d9c0fd2a44567dafcd22bb1f633d7d00",
+          "bytes": 391654,
           "kind": "main"
         },
         {
@@ -57190,14 +57306,20 @@
           "sha256": "609cb53f1de3d40fc86d22b60303adf71b37db248e3336af4bf082b8a347548a",
           "bytes": 6566,
           "kind": "image"
+        },
+        {
+          "path": "en/game-theory/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/g/game-theory.md",
-        "sha256": "6efe2f70a4730e91c6f1cffdeaed87ef03dfffa81ac82cd03539fcbb62f1ee83",
-        "source_sha256": "2d41ef74d843e8233c605126419094ac3fd7351e2916b8f34f1faf1b3292e4cc",
-        "converted_at": "2026-11-14T17:14:32Z",
+        "sha256": "893d31fcef21d9bfa5b9c5eae769b11e48ca271cbab56ab1b937c91dfd59808c",
+        "source_sha256": "bd5285aabfcb515cd404223d4df45e28d9c0fd2a44567dafcd22bb1f633d7d00",
+        "converted_at": "2026-11-14T21:45:31Z",
         "cite_markers": 190,
         "cite_defs": 197,
         "supplements": [],
@@ -57961,7 +58083,7 @@
     },
     {
       "slug": "genetics",
-      "fetched_at": "2026-10-26T20:38:59Z",
+      "fetched_at": "2026-11-14T21:38:50Z",
       "source_url": "https://plato.stanford.edu/entries/genetics/",
       "title": "Genetics",
       "authors": [
@@ -57974,9 +58096,13 @@
       "in_article_markers": true,
       "zh_doc": "g/genetics.md",
       "archinfo": {
-        "latest_edition": "Spring 2026",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2026",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2023",
             "change_type": "substantive content change"
@@ -57995,21 +58121,21 @@
           }
         ]
       },
-      "archive_edition": "Spring 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/genetics/index.html",
-          "sha256": "d43c85524ec30190c99781e4900a4a65e67a1ff6351855693ed4d00e8aeecbdc",
-          "bytes": 97850,
+          "sha256": "c75688d89fcc43dc22c62a3df5ab1126a79949dadfe7245be02b83a61164dd5c",
+          "bytes": 97929,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/g/genetics.md",
-        "sha256": "862a48cac46facb2c4fac8006e5bb40425f8b25b40ea6f831c9e0dd08c3d2a80",
-        "source_sha256": "d43c85524ec30190c99781e4900a4a65e67a1ff6351855693ed4d00e8aeecbdc",
-        "converted_at": "2026-11-14T17:14:35Z",
+        "sha256": "6d9444cb468f79b721ca39bb60fef654b739d8a2ae38d48e51dc725a65d6cdee",
+        "source_sha256": "c75688d89fcc43dc22c62a3df5ab1126a79949dadfe7245be02b83a61164dd5c",
+        "converted_at": "2026-11-14T21:45:31Z",
         "cite_markers": 90,
         "cite_defs": 85,
         "supplements": [],
@@ -59769,7 +59895,7 @@
     },
     {
       "slug": "green",
-      "fetched_at": "2026-10-26T20:39:11Z",
+      "fetched_at": "2026-11-14T21:38:52Z",
       "source_url": "https://plato.stanford.edu/entries/green/",
       "title": "Thomas Hill Green",
       "authors": [
@@ -59777,14 +59903,18 @@
       ],
       "pubinfo": {
         "first_published": "Dec 29, 2021",
-        "substantive_revision": null
+        "substantive_revision": "Oct 28, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "g/green.md",
       "archinfo": {
-        "latest_edition": "Fall 2022",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2022",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Summer 2022",
             "change_type": "minor correction"
@@ -59831,12 +59961,12 @@
           }
         ]
       },
-      "archive_edition": "Fall 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/green/index.html",
-          "sha256": "16f8a075cdf4dc3f9a204951244eae38f4f70a6d8e9187aeb13ab3875a67d792",
-          "bytes": 122003,
+          "sha256": "374e4acddc26dcd083c77828c1db8c9bbc39ee7696dde80ef8990af6fc8e4164",
+          "bytes": 122281,
           "kind": "main"
         },
         {
@@ -59849,11 +59979,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/g/green.md",
-        "sha256": "44b982f1bf24046c323a4da0e10f3c5a376f01e8ef6ae507b34ac96ec527e9aa",
-        "source_sha256": "16f8a075cdf4dc3f9a204951244eae38f4f70a6d8e9187aeb13ab3875a67d792",
-        "converted_at": "2026-11-14T17:14:39Z",
-        "cite_markers": 26,
-        "cite_defs": 84,
+        "sha256": "0a3f4e02ec67dae92ac15edc3a3602d40b4813bca03ce9919048929590fbf3f0",
+        "source_sha256": "374e4acddc26dcd083c77828c1db8c9bbc39ee7696dde80ef8990af6fc8e4164",
+        "converted_at": "2026-11-14T21:45:32Z",
+        "cite_markers": 28,
+        "cite_defs": 85,
         "supplements": [],
         "images": [],
         "notes": 10
@@ -61784,7 +61914,7 @@
     },
     {
       "slug": "heidegger-aesthetics",
-      "fetched_at": "2026-10-27T18:23:56Z",
+      "fetched_at": "2026-11-14T21:38:56Z",
       "source_url": "https://plato.stanford.edu/entries/heidegger-aesthetics/",
       "title": "Heidegger’s Aesthetics",
       "authors": [
@@ -61838,8 +61968,8 @@
       "files": [
         {
           "path": "en/heidegger-aesthetics/index.html",
-          "sha256": "09dd5873942a8bd3b66e8ebc7e6cf2e680d7cccf88b3fb202e3e9ad5e3591468",
-          "bytes": 210136,
+          "sha256": "e1fe1015b35cae0ab854f77e6b2cb9c250c98401091c69dd1233387e5f00bc92",
+          "bytes": 210082,
           "kind": "main"
         },
         {
@@ -61858,9 +61988,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/h/heidegger-aesthetics.md",
-        "sha256": "dfae60358af6d5ce49e0102039c7c33b727f447e298de63edeb955102e7acf72",
-        "source_sha256": "09dd5873942a8bd3b66e8ebc7e6cf2e680d7cccf88b3fb202e3e9ad5e3591468",
-        "converted_at": "2026-11-14T17:14:44Z",
+        "sha256": "969c676c6d6918444053470d3d9b61ee6e088f8bc9af6708435210bf03738392",
+        "source_sha256": "e1fe1015b35cae0ab854f77e6b2cb9c250c98401091c69dd1233387e5f00bc92",
+        "converted_at": "2026-11-14T21:45:32Z",
         "cite_markers": 72,
         "cite_defs": 79,
         "supplements": [],
@@ -64966,7 +65096,7 @@
     },
     {
       "slug": "ibn-bajja",
-      "fetched_at": "2026-10-26T20:39:41Z",
+      "fetched_at": "2026-11-14T21:39:05Z",
       "source_url": "https://plato.stanford.edu/entries/ibn-bajja/",
       "title": "Ibn Bâjja [Avempace]",
       "authors": [
@@ -65016,8 +65146,8 @@
       "files": [
         {
           "path": "en/ibn-bajja/index.html",
-          "sha256": "15a7fcb6ec1a430cca44d33675d7de5fb73d9a430ced7ca615cf1689d8513a29",
-          "bytes": 172612,
+          "sha256": "374709d16cb8cad3f291bf7400115940e107fb411df8b5e5aeeef4dfe3a95300",
+          "bytes": 172613,
           "kind": "main"
         },
         {
@@ -65043,8 +65173,8 @@
       "yuanwen": {
         "md": "yuanwen/i/ibn-bajja.md",
         "sha256": "d0bad7d68ee069b2ed3869282509d3f291ef6fadc9476fb0190c38d82e529232",
-        "source_sha256": "15a7fcb6ec1a430cca44d33675d7de5fb73d9a430ced7ca615cf1689d8513a29",
-        "converted_at": "2026-11-14T17:14:52Z",
+        "source_sha256": "374709d16cb8cad3f291bf7400115940e107fb411df8b5e5aeeef4dfe3a95300",
+        "converted_at": "2026-11-14T21:45:32Z",
         "cite_markers": 60,
         "cite_defs": 166,
         "supplements": [
@@ -67780,17 +67910,17 @@
       "files": [
         {
           "path": "en/incompatibilism-theories/index.html",
-          "sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782",
-          "bytes": 101115,
+          "sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f",
+          "bytes": 101092,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/i/incompatibilism-theories.md",
-        "sha256": "44b41eee6bbb64c557a2fb301966ca78e39de2daf3eb5495dd2554dfce8ac8c9",
-        "source_sha256": "40c05cf8209af4cdd8be841c852940b891413b7849af4c79ed1f252795afe8bb",
-        "converted_at": "2026-11-14T17:15:01Z",
+        "sha256": "025bb91849cfbe3785c690c8af782825f6ecdad024bdae7a005417cd2f35e13d",
+        "source_sha256": "d6c62ed7dd62bb37185bb07cd82325ecf69df790ea7ec785b7653d5f2cdb2da7",
+        "converted_at": "2026-11-14T21:45:32Z",
         "cite_markers": 69,
         "cite_defs": 129,
         "supplements": [],
@@ -68049,7 +68179,7 @@
     },
     {
       "slug": "infinite-regress",
-      "fetched_at": "2026-10-26T20:40:05Z",
+      "fetched_at": "2026-11-14T21:39:11Z",
       "source_url": "https://plato.stanford.edu/entries/infinite-regress/",
       "title": "Infinite Regress Arguments",
       "authors": [
@@ -68079,8 +68209,8 @@
       "files": [
         {
           "path": "en/infinite-regress/index.html",
-          "sha256": "f9c96b97a3292b7d21ee9fc9e7d7e86aa19dc89d04c99b11f5b2bbba34a616c0",
-          "bytes": 117955,
+          "sha256": "f8ba5502b6caf2322d26ba56c06a24e087d3323e00a8d9dd74bcbccf11e3507d",
+          "bytes": 117957,
           "kind": "main"
         },
         {
@@ -68094,14 +68224,20 @@
           "sha256": "cdb840103871395bbffd9c7d8a6246357fdaba0e0348808d8f8e01e11d15bb3f",
           "bytes": 18550,
           "kind": "supplement"
+        },
+        {
+          "path": "en/infinite-regress/local.js",
+          "sha256": "ebbeb0cd69316ade79c3b7e9d8b0f9e1f6fee469b8ae7def1beb59db34ee34a4",
+          "bytes": 78,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/i/infinite-regress.md",
         "sha256": "c0a9d33ecdf6f4bf6bde64cce3c72acf675b834a9b95ce63120c3c8b439f5299",
-        "source_sha256": "f9c96b97a3292b7d21ee9fc9e7d7e86aa19dc89d04c99b11f5b2bbba34a616c0",
-        "converted_at": "2026-11-14T17:15:01Z",
+        "source_sha256": "f8ba5502b6caf2322d26ba56c06a24e087d3323e00a8d9dd74bcbccf11e3507d",
+        "converted_at": "2026-11-14T21:45:33Z",
         "cite_markers": 65,
         "cite_defs": 81,
         "supplements": [
@@ -70475,7 +70611,7 @@
     },
     {
       "slug": "it-moral-values",
-      "fetched_at": "2026-10-26T20:40:17Z",
+      "fetched_at": "2026-11-14T21:39:16Z",
       "source_url": "https://plato.stanford.edu/entries/it-moral-values/",
       "title": "Information Technology and Moral Values",
       "authors": [
@@ -70488,9 +70624,13 @@
       "in_article_markers": true,
       "zh_doc": "i/it-moral-values.md",
       "archinfo": {
-        "latest_edition": "Fall 2026",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2026",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2023",
             "change_type": "minor correction"
@@ -70537,12 +70677,12 @@
           }
         ]
       },
-      "archive_edition": "Fall 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/it-moral-values/index.html",
-          "sha256": "691f8514e2999d0d913c5fcada78aa141ace18c3f0f71afe00a86f5bb23d8ef3",
-          "bytes": 136274,
+          "sha256": "d5b4d54444e03eed266424ce02a18fb390bdca9a323d4b6bcb22d83e424e094e",
+          "bytes": 136106,
           "kind": "main"
         },
         {
@@ -70555,9 +70695,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/i/it-moral-values.md",
-        "sha256": "4b3a8b94604721436fc8feec04a94c98e4518782e2a2c7f7bc645717f9c725c3",
-        "source_sha256": "691f8514e2999d0d913c5fcada78aa141ace18c3f0f71afe00a86f5bb23d8ef3",
-        "converted_at": "2026-11-14T17:15:08Z",
+        "sha256": "977c896ae488f0ca2f81bffb37cf1e10ea498e51957462d5bdfbad95e0ecbbea",
+        "source_sha256": "d5b4d54444e03eed266424ce02a18fb390bdca9a323d4b6bcb22d83e424e094e",
+        "converted_at": "2026-11-14T21:45:33Z",
         "cite_markers": 173,
         "cite_defs": 155,
         "supplements": [],
@@ -72633,7 +72773,7 @@
     },
     {
       "slug": "justep-intext",
-      "fetched_at": "2026-10-26T20:40:32Z",
+      "fetched_at": "2026-11-14T21:39:22Z",
       "source_url": "https://plato.stanford.edu/entries/justep-intext/",
       "title": "Internalist vs. Externalist Conceptions of Epistemic Justification",
       "authors": [
@@ -72646,9 +72786,13 @@
       "in_article_markers": true,
       "zh_doc": "j/justep-intext.md",
       "archinfo": {
-        "latest_edition": "Winter 2025",
-        "latest_change_type": "new, rewritten entry",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2025",
+            "change_type": "new, rewritten entry"
+          },
           {
             "edition": "Spring 2023",
             "change_type": "minor correction"
@@ -72679,12 +72823,12 @@
           }
         ]
       },
-      "archive_edition": "Winter 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/justep-intext/index.html",
-          "sha256": "d3f1b28b5998995f29ff8402ee6d571e530b11516823a00463fc4dfca31a7387",
-          "bytes": 141741,
+          "sha256": "a8401630d51df46ff32fb4cc37047398829f6a0e7083da30d43ed9c4e932d94c",
+          "bytes": 141794,
           "kind": "main"
         },
         {
@@ -72697,9 +72841,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/j/justep-intext.md",
-        "sha256": "1c8bec6df0c28dd92e084f9c6b0d7c414be5af866585539d30cb342627a0cb58",
-        "source_sha256": "d3f1b28b5998995f29ff8402ee6d571e530b11516823a00463fc4dfca31a7387",
-        "converted_at": "2026-11-14T17:15:12Z",
+        "sha256": "10ea706a4cad79997f3dd5c43306fb3d32f6c9c2b43200aa11508290aea3560d",
+        "source_sha256": "a8401630d51df46ff32fb4cc37047398829f6a0e7083da30d43ed9c4e932d94c",
+        "converted_at": "2026-11-14T21:45:33Z",
         "cite_markers": 309,
         "cite_defs": 212,
         "supplements": [],
@@ -74281,7 +74425,7 @@
     },
     {
       "slug": "kant-leibniz",
-      "fetched_at": "2026-10-26T20:40:41Z",
+      "fetched_at": "2026-11-14T21:39:26Z",
       "source_url": "https://plato.stanford.edu/entries/kant-leibniz/",
       "title": "Leibniz’s Influence on Kant",
       "authors": [
@@ -74289,14 +74433,18 @@
       ],
       "pubinfo": {
         "first_published": "May 21, 2004",
-        "substantive_revision": "May 18, 2022"
+        "substantive_revision": "Nov 14, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "k/kant-leibniz.md",
       "archinfo": {
-        "latest_edition": "Summer 2022",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2022",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Spring 2018",
             "change_type": "substantive content change"
@@ -74327,23 +74475,23 @@
           }
         ]
       },
-      "archive_edition": "Summer 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/kant-leibniz/index.html",
-          "sha256": "5963a912972d1fd8c24a62de81a4cdb72aa31d3fbe054806c7df4b98471be6a0",
-          "bytes": 87878,
+          "sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e",
+          "bytes": 89398,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/k/kant-leibniz.md",
-        "sha256": "28f267096d1613428e3730a144aa30ae6638822e4569c930afed986da7318618",
-        "source_sha256": "5963a912972d1fd8c24a62de81a4cdb72aa31d3fbe054806c7df4b98471be6a0",
-        "converted_at": "2026-11-14T17:15:17Z",
-        "cite_markers": 0,
-        "cite_defs": 35,
+        "sha256": "62f87cdfec4d6a4f644942249d961936a5507a6dfd9c604a81acf64dc0ad8720",
+        "source_sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e",
+        "converted_at": "2026-11-14T21:45:33Z",
+        "cite_markers": 2,
+        "cite_defs": 38,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -76467,7 +76615,7 @@
     },
     {
       "slug": "kumaarila",
-      "fetched_at": "2026-10-26T20:41:01Z",
+      "fetched_at": "2026-11-14T21:39:29Z",
       "source_url": "https://plato.stanford.edu/entries/kumaarila/",
       "title": "Kumārila",
       "authors": [
@@ -76517,17 +76665,17 @@
       "files": [
         {
           "path": "en/kumaarila/index.html",
-          "sha256": "b52d28a6a609af987850f9f867fe65282847791d0cfb1e3df5f5189b6e912bfd",
-          "bytes": 129560,
+          "sha256": "8fc55268773c45be86b0454d835fadb9793577c406df3d5c80c4f54e04be9540",
+          "bytes": 129548,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/k/kumaarila.md",
-        "sha256": "076db79d79ac483dca91909f445e8c0e5c4a2c18d4ceecc649e132427f512046",
-        "source_sha256": "b52d28a6a609af987850f9f867fe65282847791d0cfb1e3df5f5189b6e912bfd",
-        "converted_at": "2026-11-14T17:15:22Z",
+        "sha256": "8b4f71fd3ee46e910479fbed682a91097ccfff1d1ea9c82818410108de0fcd43",
+        "source_sha256": "8fc55268773c45be86b0454d835fadb9793577c406df3d5c80c4f54e04be9540",
+        "converted_at": "2026-11-14T21:45:34Z",
         "cite_markers": 74,
         "cite_defs": 81,
         "supplements": [],
@@ -81243,7 +81391,7 @@
     },
     {
       "slug": "linguistics",
-      "fetched_at": "2026-10-26T20:41:30Z",
+      "fetched_at": "2026-11-14T21:39:32Z",
       "source_url": "https://plato.stanford.edu/entries/linguistics/",
       "title": "Philosophy of Linguistics",
       "authors": [
@@ -81254,14 +81402,18 @@
       ],
       "pubinfo": {
         "first_published": "Sep 21, 2011",
-        "substantive_revision": "Mar 7, 2024"
+        "substantive_revision": "Oct 30, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "l/linguistics.md",
       "archinfo": {
-        "latest_edition": "Summer 2025",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2025",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Spring 2024",
             "change_type": "substantive content change"
@@ -81308,12 +81460,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/linguistics/index.html",
-          "sha256": "6d66dc879891e98e77ebba96f92166b60ec407edef4cd175b7f4a29e870ea455",
-          "bytes": 269428,
+          "sha256": "c338046176035638271b802ccf9a72895ae6d4a096fa178051e0d2680a63d32e",
+          "bytes": 264959,
           "kind": "main"
         },
         {
@@ -81374,11 +81526,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/l/linguistics.md",
-        "sha256": "5c0c320c4d2b4a629b40179910933bbf75f0fd25eed10d3d5be8b025cdab8b83",
-        "source_sha256": "6d66dc879891e98e77ebba96f92166b60ec407edef4cd175b7f4a29e870ea455",
-        "converted_at": "2026-11-14T17:15:35Z",
-        "cite_markers": 265,
-        "cite_defs": 216,
+        "sha256": "634d5742ef448974dba368ad02e198121a8831f6fd77c5dc94189c8025abd09d",
+        "source_sha256": "c338046176035638271b802ccf9a72895ae6d4a096fa178051e0d2680a63d32e",
+        "converted_at": "2026-11-14T21:45:34Z",
+        "cite_markers": 263,
+        "cite_defs": 213,
         "supplements": [
           "linguistics.whorfianism.md"
         ],
@@ -82577,7 +82729,7 @@
     },
     {
       "slug": "logic-ancient",
-      "fetched_at": "2026-10-26T20:41:34Z",
+      "fetched_at": "2026-11-14T21:39:43Z",
       "source_url": "https://plato.stanford.edu/entries/logic-ancient/",
       "title": "Ancient Logic",
       "authors": [
@@ -82619,8 +82771,8 @@
       "files": [
         {
           "path": "en/logic-ancient/index.html",
-          "sha256": "e3e243167a9c9be14c73382b14ab3adb6080184d387068141dbef079b3447ea4",
-          "bytes": 119335,
+          "sha256": "77a6ef2a009497aac7ca5121871758fc51ea912efd881a8cf410ef4c9012bfc3",
+          "bytes": 119367,
           "kind": "main"
         },
         {
@@ -82634,8 +82786,8 @@
       "yuanwen": {
         "md": "yuanwen/l/logic-ancient.md",
         "sha256": "721f6ea39aa8ba5ac86af36669ec66d1f7b9e3bc601376e26c5debdf5c16b52d",
-        "source_sha256": "e3e243167a9c9be14c73382b14ab3adb6080184d387068141dbef079b3447ea4",
-        "converted_at": "2026-11-14T17:15:39Z",
+        "source_sha256": "77a6ef2a009497aac7ca5121871758fc51ea912efd881a8cf410ef4c9012bfc3",
+        "converted_at": "2026-11-14T21:45:35Z",
         "cite_markers": 9,
         "cite_defs": 143,
         "supplements": [],
@@ -86777,8 +86929,8 @@
       "files": [
         {
           "path": "en/logic-provability/index.html",
-          "sha256": "31ac09d95f06bd5c5b498c64f8da0825effc6f4ef2a442b050b730b00f838e37",
-          "bytes": 115408,
+          "sha256": "7fb4661215d94936e2c978dcf45799d821941cd8976d8c4b5fc53e05d7ec3801",
+          "bytes": 115458,
           "kind": "main"
         },
         {
@@ -86791,9 +86943,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/l/logic-provability.md",
-        "sha256": "5ef1d53c80af7d3cea4621e2d47d8d1c017d78447dfa1a2ef36ab473816f7b67",
-        "source_sha256": "45542443ce0a09f69ddcc79da353b48cd398154dab9be517c9dfa8dcd0a84283",
-        "converted_at": "2026-11-14T17:15:48Z",
+        "sha256": "9c23446531df9bc78108b1bc3aadb0d76b0507fda1ff492af6546f7d3b8ecda4",
+        "source_sha256": "8cfde687cf4bfe53ddd5b8829b8724b1d732976affe9d863bd1322ee4ac05122",
+        "converted_at": "2026-11-14T21:45:35Z",
         "cite_markers": 154,
         "cite_defs": 211,
         "supplements": [],
@@ -89285,7 +89437,7 @@
     },
     {
       "slug": "madhyamaka",
-      "fetched_at": "2026-10-26T20:42:20Z",
+      "fetched_at": "2026-11-14T21:39:47Z",
       "source_url": "https://plato.stanford.edu/entries/madhyamaka/",
       "title": "Madhyamaka",
       "authors": [
@@ -89339,17 +89491,17 @@
       "files": [
         {
           "path": "en/madhyamaka/index.html",
-          "sha256": "8ef0e228ea694cb05ad3c97d346b657e13ce51ba3c1720fc27b8375b560546fd",
-          "bytes": 84800,
+          "sha256": "b2c55ed13c818d194c87123909d2d7ee68cf3336bbad2352eb117c6ff06ccd96",
+          "bytes": 84808,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/madhyamaka.md",
-        "sha256": "a00dc0dff58ee0c9de8f5b9aafe1ab39dfe5386bb3df4c1805c354c634bbcce0",
-        "source_sha256": "8ef0e228ea694cb05ad3c97d346b657e13ce51ba3c1720fc27b8375b560546fd",
-        "converted_at": "2026-11-14T17:15:54Z",
+        "sha256": "b89401ae50d0b668d001e0b006e334e2bcbaee97fbb5b3b17dfaa266079960f8",
+        "source_sha256": "b2c55ed13c818d194c87123909d2d7ee68cf3336bbad2352eb117c6ff06ccd96",
+        "converted_at": "2026-11-14T21:45:35Z",
         "cite_markers": 0,
         "cite_defs": 38,
         "supplements": [],
@@ -92014,7 +92166,7 @@
     },
     {
       "slug": "meaning-holism",
-      "fetched_at": "2026-10-26T20:42:38Z",
+      "fetched_at": "2026-11-14T21:39:49Z",
       "source_url": "https://plato.stanford.edu/entries/meaning-holism/",
       "title": "Meaning Holism",
       "authors": [
@@ -92022,14 +92174,18 @@
       ],
       "pubinfo": {
         "first_published": "Sep 15, 2014",
-        "substantive_revision": "Sep 29, 2020"
+        "substantive_revision": "Oct 28, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "m/meaning-holism.md",
       "archinfo": {
-        "latest_edition": "Winter 2020",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2020",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Spring 2017",
             "change_type": "minor correction"
@@ -92044,12 +92200,12 @@
           }
         ]
       },
-      "archive_edition": "Winter 2020",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/meaning-holism/index.html",
-          "sha256": "e129411170412906e4d48ad6cce976fb3d920e89ad4338f2b212c077787c0672",
-          "bytes": 80015,
+          "sha256": "5785ef27715073267ab93b73630919ca4b69145aac8679002d63daf0969a7928",
+          "bytes": 82991,
           "kind": "main"
         },
         {
@@ -92057,16 +92213,22 @@
           "sha256": "83142da39f0f180dd0778484797c9728b10d31f9248afa74d23013b1b431c916",
           "bytes": 27812,
           "kind": "notes"
+        },
+        {
+          "path": "en/meaning-holism/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/meaning-holism.md",
-        "sha256": "7723c67fb110c2b5b8cf18acccc2ddba1b70aa005dc80feaee47a37638545b0d",
-        "source_sha256": "e129411170412906e4d48ad6cce976fb3d920e89ad4338f2b212c077787c0672",
-        "converted_at": "2026-11-14T17:16:00Z",
-        "cite_markers": 148,
-        "cite_defs": 104,
+        "sha256": "9ad6db6f4f2be5bb9ecfe7ed750d2486adeb4e82ddf9b68bb09f1e7ee6ccd489",
+        "source_sha256": "5785ef27715073267ab93b73630919ca4b69145aac8679002d63daf0969a7928",
+        "converted_at": "2026-11-14T21:45:35Z",
+        "cite_markers": 159,
+        "cite_defs": 111,
         "supplements": [],
         "images": [],
         "notes": 30
@@ -92224,7 +92386,7 @@
     },
     {
       "slug": "medicine",
-      "fetched_at": "2026-10-26T21:17:26Z",
+      "fetched_at": "2026-11-14T21:39:53Z",
       "source_url": "https://plato.stanford.edu/entries/medicine/",
       "title": "Philosophy of Medicine",
       "authors": [
@@ -92238,9 +92400,13 @@
       "in_article_markers": true,
       "zh_doc": "m/medicine.md",
       "archinfo": {
-        "latest_edition": "Winter 2025",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2025",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Spring 2022",
             "change_type": "minor correction"
@@ -92251,21 +92417,27 @@
           }
         ]
       },
-      "archive_edition": "Winter 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/medicine/index.html",
-          "sha256": "c4a1dccb946eaa8c120061e1ec717c0de9790b4fcfcf64e8a5cc37ed1a72d7ed",
-          "bytes": 165955,
+          "sha256": "56d06d49f3d4c6dae9b323bc4d093f15ee179fae3349a399cea98d19bff35cc0",
+          "bytes": 166060,
           "kind": "main"
+        },
+        {
+          "path": "en/medicine/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/medicine.md",
-        "sha256": "4c25f885aec267e3e0e40852e226810096a557e8b9e7d4ca8f242c57d75200ab",
-        "source_sha256": "c4a1dccb946eaa8c120061e1ec717c0de9790b4fcfcf64e8a5cc37ed1a72d7ed",
-        "converted_at": "2026-11-14T17:16:01Z",
+        "sha256": "ae8759246db3545ad3b419294ffed74d49439e9b597d74ea711ecab94abe12bf",
+        "source_sha256": "56d06d49f3d4c6dae9b323bc4d093f15ee179fae3349a399cea98d19bff35cc0",
+        "converted_at": "2026-11-14T21:45:35Z",
         "cite_markers": 205,
         "cite_defs": 178,
         "supplements": [],
@@ -94521,7 +94693,7 @@
     },
     {
       "slug": "metaphysical-explanation",
-      "fetched_at": "2026-10-26T20:42:52Z",
+      "fetched_at": "2026-11-14T21:39:57Z",
       "source_url": "https://plato.stanford.edu/entries/metaphysical-explanation/",
       "title": "Metaphysical Explanation",
       "authors": [
@@ -94559,8 +94731,8 @@
       "files": [
         {
           "path": "en/metaphysical-explanation/index.html",
-          "sha256": "1f4ae4c7a557ceccc1e8c5ad6b2b07a46ed419b16066d511d71037ff816981d2",
-          "bytes": 127350,
+          "sha256": "ffcb32defe76b0ccb498fec081817b27fc33bf336a08a4dc3227e3581b9acbc7",
+          "bytes": 127352,
           "kind": "main"
         }
       ],
@@ -94568,8 +94740,8 @@
       "yuanwen": {
         "md": "yuanwen/m/metaphysical-explanation.md",
         "sha256": "72bf8495e11e269683a6cf0796c8bbb7545c1097634b9db042335b53d0d95cd2",
-        "source_sha256": "1f4ae4c7a557ceccc1e8c5ad6b2b07a46ed419b16066d511d71037ff816981d2",
-        "converted_at": "2026-11-14T17:16:11Z",
+        "source_sha256": "ffcb32defe76b0ccb498fec081817b27fc33bf336a08a4dc3227e3581b9acbc7",
+        "converted_at": "2026-11-14T21:45:36Z",
         "cite_markers": 165,
         "cite_defs": 146,
         "supplements": [],
@@ -94579,7 +94751,7 @@
     },
     {
       "slug": "metaphysics",
-      "fetched_at": "2026-10-26T21:17:26Z",
+      "fetched_at": "2026-11-14T21:39:59Z",
       "source_url": "https://plato.stanford.edu/entries/metaphysics/",
       "title": "Metaphysics",
       "authors": [
@@ -94671,17 +94843,23 @@
       "files": [
         {
           "path": "en/metaphysics/index.html",
-          "sha256": "8c54df14ec33f891a1f37ae0ad1fbb58016f6ecc9e2f91e00d6cad7e7ea43c1c",
-          "bytes": 130804,
+          "sha256": "b2d09418377c62ffaf48c5b5fe4e406ef6a605a25774d8381114c4c31d76bbc6",
+          "bytes": 130815,
           "kind": "main"
+        },
+        {
+          "path": "en/metaphysics/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/metaphysics.md",
-        "sha256": "13fefca4e02b95a0b5dbbd8b3d28653d50753e53471bab54849611b25eaa676c",
-        "source_sha256": "8c54df14ec33f891a1f37ae0ad1fbb58016f6ecc9e2f91e00d6cad7e7ea43c1c",
-        "converted_at": "2026-11-14T17:16:11Z",
+        "sha256": "b544a2b18eadcdfa9e1369fb6f9acfa3a5efd5ca29e26b70fe33626be01a4c70",
+        "source_sha256": "b2d09418377c62ffaf48c5b5fe4e406ef6a605a25774d8381114c4c31d76bbc6",
+        "converted_at": "2026-11-14T21:45:36Z",
         "cite_markers": 50,
         "cite_defs": 73,
         "supplements": [],
@@ -96469,7 +96647,7 @@
     },
     {
       "slug": "molecular-genetics",
-      "fetched_at": "2026-10-26T21:17:44Z",
+      "fetched_at": "2026-11-14T21:40:03Z",
       "source_url": "https://plato.stanford.edu/entries/molecular-genetics/",
       "title": "Molecular Genetics",
       "authors": [
@@ -96504,17 +96682,23 @@
       "files": [
         {
           "path": "en/molecular-genetics/index.html",
-          "sha256": "57d75933a3475c01be35b82be381468374b045d8a4e8786431f02e4a99cac556",
-          "bytes": 122772,
+          "sha256": "4e4b462a99ee04e17344b314f50e588fe917fb018a1fb42ba7b83b4acdfff2aa",
+          "bytes": 122850,
           "kind": "main"
+        },
+        {
+          "path": "en/molecular-genetics/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/molecular-genetics.md",
         "sha256": "41f90122f9db63cb0316852da55f1c6d99674e4d9297fcdcc0a81451472dbec9",
-        "source_sha256": "57d75933a3475c01be35b82be381468374b045d8a4e8786431f02e4a99cac556",
-        "converted_at": "2026-11-14T17:16:18Z",
+        "source_sha256": "4e4b462a99ee04e17344b314f50e588fe917fb018a1fb42ba7b83b4acdfff2aa",
+        "converted_at": "2026-11-14T21:45:36Z",
         "cite_markers": 139,
         "cite_defs": 96,
         "supplements": [],
@@ -97684,7 +97868,7 @@
     },
     {
       "slug": "moral-conventional",
-      "fetched_at": "2026-10-26T20:43:12Z",
+      "fetched_at": "2026-11-14T21:40:06Z",
       "source_url": "https://plato.stanford.edu/entries/moral-conventional/",
       "title": "The Moral/Conventional Distinction",
       "authors": [
@@ -97706,8 +97890,8 @@
       "files": [
         {
           "path": "en/moral-conventional/index.html",
-          "sha256": "8a910e9694fae03dafbeb79bb71d8f6efc591d6a4e8cc91f80975005471cff79",
-          "bytes": 152880,
+          "sha256": "bfe9ccea9f178f8a0ae186e46c2bb435673c47c9452e218f979ff3bfadf9b516",
+          "bytes": 152874,
           "kind": "main"
         },
         {
@@ -97720,9 +97904,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/moral-conventional.md",
-        "sha256": "df02555cd94d9289810cdb5f1ca84e590f9d695febb8002f19714cf826b09254",
-        "source_sha256": "8a910e9694fae03dafbeb79bb71d8f6efc591d6a4e8cc91f80975005471cff79",
-        "converted_at": "2026-11-14T17:16:21Z",
+        "sha256": "b5cbe8de4e1c0f086e7c47cda46ad249c1d31f8bace891464d17115df1c9e6bc",
+        "source_sha256": "bfe9ccea9f178f8a0ae186e46c2bb435673c47c9452e218f979ff3bfadf9b516",
+        "converted_at": "2026-11-14T21:45:37Z",
         "cite_markers": 155,
         "cite_defs": 140,
         "supplements": [],
@@ -98755,7 +98939,7 @@
     },
     {
       "slug": "moral-responsibility",
-      "fetched_at": "2026-10-26T20:43:17Z",
+      "fetched_at": "2026-11-14T21:40:10Z",
       "source_url": "https://plato.stanford.edu/entries/moral-responsibility/",
       "title": "Moral Responsibility",
       "authors": [
@@ -98829,17 +99013,17 @@
       "files": [
         {
           "path": "en/moral-responsibility/index.html",
-          "sha256": "dcc81ed294d8586569512b9e504ddf67c09d294f78b509c2bf506b1279fc8ec6",
-          "bytes": 163854,
+          "sha256": "64ee9c99b3a78db534c4d58437d597a4e0cb9e323c1e9fcfa3f1cdfff45ab1aa",
+          "bytes": 163864,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/moral-responsibility.md",
-        "sha256": "09ae5099475dccfdb4311bc889f789993889425600a01295c523efbd61875727",
-        "source_sha256": "dcc81ed294d8586569512b9e504ddf67c09d294f78b509c2bf506b1279fc8ec6",
-        "converted_at": "2026-11-14T17:16:25Z",
+        "sha256": "0917d790a632b20a155b660a4654400dbe8991402fe600f2a204c222bfdabd1a",
+        "source_sha256": "64ee9c99b3a78db534c4d58437d597a4e0cb9e323c1e9fcfa3f1cdfff45ab1aa",
+        "converted_at": "2026-11-14T21:45:37Z",
         "cite_markers": 267,
         "cite_defs": 234,
         "supplements": [],
@@ -102869,7 +103053,7 @@
     },
     {
       "slug": "nominalism-mathematics",
-      "fetched_at": "2026-10-26T20:43:42Z",
+      "fetched_at": "2026-11-14T21:40:13Z",
       "source_url": "https://plato.stanford.edu/entries/nominalism-mathematics/",
       "title": "Nominalism in the Philosophy of Mathematics",
       "authors": [
@@ -102903,17 +103087,17 @@
       "files": [
         {
           "path": "en/nominalism-mathematics/index.html",
-          "sha256": "a033632fa853d192fe0871e34b7a8ca92b1acac865e6f916c42c98208304d9e2",
-          "bytes": 137992,
+          "sha256": "b9ba8676fc684151c02ca5dedc669c619ef13ee80e187bd1dd07170b8c446fd9",
+          "bytes": 137985,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/n/nominalism-mathematics.md",
-        "sha256": "232492860807f8f4d4ccb471bc74e86859c21afdcdaecc8027f93521b7d2d915",
-        "source_sha256": "a033632fa853d192fe0871e34b7a8ca92b1acac865e6f916c42c98208304d9e2",
-        "converted_at": "2026-11-14T17:16:35Z",
+        "sha256": "9442ac74e2ee487686b3d871a1dea0f51ffd20fabccc9ced3895dc3b463ba579",
+        "source_sha256": "b9ba8676fc684151c02ca5dedc669c619ef13ee80e187bd1dd07170b8c446fd9",
+        "converted_at": "2026-11-14T21:45:37Z",
         "cite_markers": 143,
         "cite_defs": 61,
         "supplements": [],
@@ -108055,7 +108239,7 @@
     },
     {
       "slug": "perception-india",
-      "fetched_at": "2026-10-26T20:44:19Z",
+      "fetched_at": "2026-11-14T21:40:16Z",
       "source_url": "https://plato.stanford.edu/entries/perception-india/",
       "title": "Perceptual Experience and Concepts in Classical Indian Philosophy",
       "authors": [
@@ -108097,17 +108281,17 @@
       "files": [
         {
           "path": "en/perception-india/index.html",
-          "sha256": "163fea827bab9eb2205fcbfed888ece666a93c79330941f3a3c9738f003038af",
-          "bytes": 134776,
+          "sha256": "1cef21d12c0c0504518d691fce47bc7186e9d6c973cc0d43eb74f830e5f12a54",
+          "bytes": 134764,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/perception-india.md",
-        "sha256": "858eded4f819bc274791d32ce5fdbe0c1a17b5d7968d9f5906b26fcfbf83b433",
-        "source_sha256": "163fea827bab9eb2205fcbfed888ece666a93c79330941f3a3c9738f003038af",
-        "converted_at": "2026-11-14T17:16:49Z",
+        "sha256": "331a6a998ca744c965ba37609b455581608b7c8bf23054ff11f18749f4d7ae95",
+        "source_sha256": "1cef21d12c0c0504518d691fce47bc7186e9d6c973cc0d43eb74f830e5f12a54",
+        "converted_at": "2026-11-14T21:45:37Z",
         "cite_markers": 44,
         "cite_defs": 52,
         "supplements": [],
@@ -109009,7 +109193,7 @@
     },
     {
       "slug": "phenomenal-intentionality",
-      "fetched_at": "2026-10-26T20:44:27Z",
+      "fetched_at": "2026-11-14T21:40:19Z",
       "source_url": "https://plato.stanford.edu/entries/phenomenal-intentionality/",
       "title": "Phenomenal Intentionality",
       "authors": [
@@ -109048,8 +109232,8 @@
       "files": [
         {
           "path": "en/phenomenal-intentionality/index.html",
-          "sha256": "77ca776e09f60e1d4797b352fa3e3d88ba05958fdbf6ce2cd0364d9966871981",
-          "bytes": 145408,
+          "sha256": "a2065174e03c8dc6cf6f84599b0cd8a62d1b77cd7af32bd6ed443aaba12d647d",
+          "bytes": 145411,
           "kind": "main"
         }
       ],
@@ -109057,8 +109241,8 @@
       "yuanwen": {
         "md": "yuanwen/p/phenomenal-intentionality.md",
         "sha256": "abd371e17115959ff037b2332850e312c417271a4354e35c5e2f44d7764313a0",
-        "source_sha256": "77ca776e09f60e1d4797b352fa3e3d88ba05958fdbf6ce2cd0364d9966871981",
-        "converted_at": "2026-11-14T17:16:52Z",
+        "source_sha256": "a2065174e03c8dc6cf6f84599b0cd8a62d1b77cd7af32bd6ed443aaba12d647d",
+        "converted_at": "2026-11-14T21:45:38Z",
         "cite_markers": 318,
         "cite_defs": 176,
         "supplements": [],
@@ -110033,7 +110217,7 @@
     },
     {
       "slug": "philosophy-mathematics",
-      "fetched_at": "2026-10-26T20:44:36Z",
+      "fetched_at": "2026-11-14T21:40:22Z",
       "source_url": "https://plato.stanford.edu/entries/philosophy-mathematics/",
       "title": "Philosophy of Mathematics",
       "authors": [
@@ -110119,17 +110303,23 @@
       "files": [
         {
           "path": "en/philosophy-mathematics/index.html",
-          "sha256": "6b1b069983c37c787df672085c952ed58e2800a12048e92d1725a6a0f25d03ab",
-          "bytes": 140184,
+          "sha256": "caa3ffdf84689af96be9883c626a3e3e1c76196efbf554ad2ec993d0db9d41e8",
+          "bytes": 140177,
           "kind": "main"
+        },
+        {
+          "path": "en/philosophy-mathematics/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/philosophy-mathematics.md",
-        "sha256": "44135c631df99f6c2be96511cea8a34e51358182d1c10c033e7217323d97e050",
-        "source_sha256": "6b1b069983c37c787df672085c952ed58e2800a12048e92d1725a6a0f25d03ab",
-        "converted_at": "2026-11-14T17:16:56Z",
+        "sha256": "9b1f4d985f0b8684e4e7e7a511faecff981768ad67a3d037112c49406fbd8ea5",
+        "source_sha256": "caa3ffdf84689af96be9883c626a3e3e1c76196efbf554ad2ec993d0db9d41e8",
+        "converted_at": "2026-11-14T21:45:38Z",
         "cite_markers": 138,
         "cite_defs": 130,
         "supplements": [],
@@ -110605,7 +110795,7 @@
     },
     {
       "slug": "physics-experiment",
-      "fetched_at": "2026-10-26T20:44:39Z",
+      "fetched_at": "2026-11-14T21:40:27Z",
       "source_url": "https://plato.stanford.edu/entries/physics-experiment/",
       "title": "Experiment in Physics",
       "authors": [
@@ -110696,8 +110886,8 @@
       "files": [
         {
           "path": "en/physics-experiment/index.html",
-          "sha256": "8c80defbb5e0ee0728c27fa0d570da62f44b0b0f979db44841ae5c2718ae24b5",
-          "bytes": 182238,
+          "sha256": "ef52c0ffb700e33fe989ee1812c7fc4fa0c2e9247b891a3b17fcc72d3f46b401",
+          "bytes": 182241,
           "kind": "main"
         },
         {
@@ -110777,14 +110967,20 @@
           "sha256": "70ff29ec6bef3e2f51a2a6d14b06f2ae47d17557a89c8c278074df92b697727b",
           "bytes": 314622,
           "kind": "image"
+        },
+        {
+          "path": "en/physics-experiment/local.js",
+          "sha256": "68ef6d305a3a85ecead8198a0e9bc816341b3c5fb5ac4f91fc1b8132d70f94fc",
+          "bytes": 418,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/physics-experiment.md",
         "sha256": "086f2620d5d5019a2012f9338ba612b093f1c30010268caf1d639452624b8246",
-        "source_sha256": "8c80defbb5e0ee0728c27fa0d570da62f44b0b0f979db44841ae5c2718ae24b5",
-        "converted_at": "2026-11-14T17:16:58Z",
+        "source_sha256": "ef52c0ffb700e33fe989ee1812c7fc4fa0c2e9247b891a3b17fcc72d3f46b401",
+        "converted_at": "2026-11-14T21:45:38Z",
         "cite_markers": 129,
         "cite_defs": 199,
         "supplements": [
@@ -113567,22 +113763,27 @@
     },
     {
       "slug": "porphyry",
-      "fetched_at": "2026-10-26T20:44:57Z",
+      "fetched_at": "2026-11-14T21:40:47Z",
       "source_url": "https://plato.stanford.edu/entries/porphyry/",
       "title": "Porphyry",
       "authors": [
+        "Chiaradonna, Riccardo",
         "Emilsson, Eyjólfur"
       ],
       "pubinfo": {
         "first_published": "Feb 18, 2005",
-        "substantive_revision": "Feb 17, 2021"
+        "substantive_revision": "Nov 10, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "p/porphyry.md",
       "archinfo": {
-        "latest_edition": "Summer 2024",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2024",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Spring 2022",
             "change_type": "minor correction"
@@ -113629,23 +113830,23 @@
           }
         ]
       },
-      "archive_edition": "Summer 2024",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/porphyry/index.html",
-          "sha256": "08029f760ac5e04d0d845eae698a5b4d15a60d3d5e174f38b04879bbb9012ca1",
-          "bytes": 64928,
+          "sha256": "ede262d9a72ad0c4cf72eb56f22b9373d1c975f74be9f4860ac5e739e8b2a6bf",
+          "bytes": 143686,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/porphyry.md",
-        "sha256": "1659ad302745b54375706fa43289995e2264d6ac02a6f79c1752777df58a528e",
-        "source_sha256": "08029f760ac5e04d0d845eae698a5b4d15a60d3d5e174f38b04879bbb9012ca1",
-        "converted_at": "2026-11-14T17:17:06Z",
-        "cite_markers": 42,
-        "cite_defs": 81,
+        "sha256": "644134ac19ed2d7f561d39b5bbfaf8b57ee31afbdbd8f188bd66eb055a8c5f9d",
+        "source_sha256": "ede262d9a72ad0c4cf72eb56f22b9373d1c975f74be9f4860ac5e739e8b2a6bf",
+        "converted_at": "2026-11-14T21:45:39Z",
+        "cite_markers": 183,
+        "cite_defs": 179,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -114260,7 +114461,7 @@
     },
     {
       "slug": "practical-reason-med",
-      "fetched_at": "2026-10-27T18:06:15Z",
+      "fetched_at": "2026-11-14T21:40:50Z",
       "source_url": "https://plato.stanford.edu/entries/practical-reason-med/",
       "title": "Medieval Theories of Practical Reason",
       "authors": [
@@ -114268,14 +114469,18 @@
       ],
       "pubinfo": {
         "first_published": "Oct 8, 1999",
-        "substantive_revision": "Nov 21, 2022"
+        "substantive_revision": "Nov 8, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "p/practical-reason-med.md",
       "archinfo": {
-        "latest_edition": "Winter 2022",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2022",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2018",
             "change_type": "substantive content change"
@@ -114306,23 +114511,23 @@
           }
         ]
       },
-      "archive_edition": "Winter 2022",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/practical-reason-med/index.html",
-          "sha256": "30de4fcf056ecf6c5a4de490a71787ebd12d73c9b7bd0559385f33eed8311266",
-          "bytes": 63640,
+          "sha256": "e245c6ec3f51575381c21d7d9ee1f655c9df4a9e63d0f2dea5455af8c4b47d4a",
+          "bytes": 68072,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/practical-reason-med.md",
-        "sha256": "912f453ab20d2be3ded5d6003cb7d96c2d746af43a91c20b6862576ce112e5c4",
-        "source_sha256": "30de4fcf056ecf6c5a4de490a71787ebd12d73c9b7bd0559385f33eed8311266",
-        "converted_at": "2026-11-14T17:17:08Z",
-        "cite_markers": 6,
-        "cite_defs": 32,
+        "sha256": "cba52abcdef025d06457e6d63776632d2917eebb330cfceeb2b205acfb80c8c8",
+        "source_sha256": "e245c6ec3f51575381c21d7d9ee1f655c9df4a9e63d0f2dea5455af8c4b47d4a",
+        "converted_at": "2026-11-14T21:45:39Z",
+        "cite_markers": 7,
+        "cite_defs": 40,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -114624,7 +114829,7 @@
     },
     {
       "slug": "preferences",
-      "fetched_at": "2026-10-27T18:06:19Z",
+      "fetched_at": "2026-11-14T21:40:52Z",
       "source_url": "https://plato.stanford.edu/entries/preferences/",
       "title": "Preferences",
       "authors": [
@@ -114683,8 +114888,8 @@
       "files": [
         {
           "path": "en/preferences/index.html",
-          "sha256": "fb9e26f00eb3c9d04da3f29915307d42fe2a07adfaea33d14e8e8228c5f6f111",
-          "bytes": 131486,
+          "sha256": "f2442e390f4f12bd11160eaeac5d37ab3099d07090a10e9a1947635ee2689ca8",
+          "bytes": 131498,
           "kind": "main"
         },
         {
@@ -114698,14 +114903,20 @@
           "sha256": "50537df62f7a9016c5548e68e0e5931775c43388701a6c355a37a608e8b28bfb",
           "bytes": 20266,
           "kind": "supplement"
+        },
+        {
+          "path": "en/preferences/local.js",
+          "sha256": "1a2fd4077ad6b56d491bcb7bacbe8ce5a3d442fc68bde7d2d863f760fd98f44a",
+          "bytes": 138,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/preferences.md",
         "sha256": "6f8bc30e7b61e6f02bb08e55416890653e479402baeb0a7689eeb15f11d11e5f",
-        "source_sha256": "fb9e26f00eb3c9d04da3f29915307d42fe2a07adfaea33d14e8e8228c5f6f111",
-        "converted_at": "2026-11-14T17:17:09Z",
+        "source_sha256": "f2442e390f4f12bd11160eaeac5d37ab3099d07090a10e9a1947635ee2689ca8",
+        "converted_at": "2026-11-14T21:45:39Z",
         "cite_markers": 94,
         "cite_defs": 108,
         "supplements": [
@@ -115248,7 +115459,7 @@
     },
     {
       "slug": "principle-beneficence",
-      "fetched_at": "2026-10-26T20:45:03Z",
+      "fetched_at": "2026-11-14T21:40:57Z",
       "source_url": "https://plato.stanford.edu/entries/principle-beneficence/",
       "title": "The Principle of Beneficence in Applied Ethics",
       "authors": [
@@ -115261,9 +115472,13 @@
       "in_article_markers": true,
       "zh_doc": "p/principle-beneficence.md",
       "archinfo": {
-        "latest_edition": "Spring 2019",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2019",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2016",
             "change_type": "minor correction"
@@ -115282,21 +115497,21 @@
           }
         ]
       },
-      "archive_edition": "Spring 2019",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/principle-beneficence/index.html",
-          "sha256": "fdc0987442c6ee476f630f9f6c1ca19c4eef52ddaa8061ac2848e69009432ac6",
-          "bytes": 91347,
+          "sha256": "5241836993796a584132eb124620ee8e5647d766847beef4d7cb6e266498368a",
+          "bytes": 91219,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/principle-beneficence.md",
-        "sha256": "0fcc6419aaec4d11ae55432ccc5b99898e0a40a85aab8cfb7666030787dad17d",
-        "source_sha256": "fdc0987442c6ee476f630f9f6c1ca19c4eef52ddaa8061ac2848e69009432ac6",
-        "converted_at": "2026-11-14T17:17:11Z",
+        "sha256": "fe528b8c1dd7350177d493301cdfaaeff4b2b4194f990e9c1d8dc5bab635dba6",
+        "source_sha256": "5241836993796a584132eb124620ee8e5647d766847beef4d7cb6e266498368a",
+        "converted_at": "2026-11-14T21:45:39Z",
         "cite_markers": 0,
         "cite_defs": 65,
         "supplements": [],
@@ -123433,7 +123648,7 @@
     },
     {
       "slug": "reasons-agent",
-      "fetched_at": "2026-10-26T20:46:06Z",
+      "fetched_at": "2026-11-14T21:41:00Z",
       "source_url": "https://plato.stanford.edu/entries/reasons-agent/",
       "title": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
       "authors": [
@@ -123446,9 +123661,13 @@
       "in_article_markers": true,
       "zh_doc": "r/reasons-agent.md",
       "archinfo": {
-        "latest_edition": "Spring 2023",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2023",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Fall 2017",
             "change_type": "substantive content change"
@@ -123475,12 +123694,12 @@
           }
         ]
       },
-      "archive_edition": "Spring 2023",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/reasons-agent/index.html",
-          "sha256": "bf6428dc4e4c0330ae3fddc79426176f44c570e78b64b845223595a81371dc46",
-          "bytes": 117404,
+          "sha256": "4b97d5229f14689572e7039f23a4b7697f9a282c8084313a5bb0f05e0642dce9",
+          "bytes": 117367,
           "kind": "main"
         },
         {
@@ -123493,9 +123712,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/reasons-agent.md",
-        "sha256": "0e89a482975008f94137d6a8f044c6b95116aa52b90ae1e0abf95f02295258c1",
-        "source_sha256": "bf6428dc4e4c0330ae3fddc79426176f44c570e78b64b845223595a81371dc46",
-        "converted_at": "2026-11-14T17:17:43Z",
+        "sha256": "ed296ad40d514701ff4f21a71dc800bccbf49831582c8a11ac6ed51db12e01f4",
+        "source_sha256": "4b97d5229f14689572e7039f23a4b7697f9a282c8084313a5bb0f05e0642dce9",
+        "converted_at": "2026-11-14T21:45:39Z",
         "cite_markers": 49,
         "cite_defs": 53,
         "supplements": [],
@@ -123505,7 +123724,7 @@
     },
     {
       "slug": "reasons-internal-external",
-      "fetched_at": "2026-10-26T20:46:06Z",
+      "fetched_at": "2026-11-14T21:41:06Z",
       "source_url": "https://plato.stanford.edu/entries/reasons-internal-external/",
       "title": "Reasons for Action: Internal vs. External",
       "authors": [
@@ -123519,9 +123738,13 @@
       "in_article_markers": true,
       "zh_doc": "r/reasons-internal-external.md",
       "archinfo": {
-        "latest_edition": "Fall 2017",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2017",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2015",
             "change_type": "minor correction"
@@ -123536,12 +123759,12 @@
           }
         ]
       },
-      "archive_edition": "Fall 2017",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/reasons-internal-external/index.html",
-          "sha256": "aefd28e4d25648d1529a005e2b9cc0e78e9b76a08a8fb1404b49525c3e38d2b0",
-          "bytes": 109903,
+          "sha256": "4ea8a6dd71ae5dabf680842a9b6812fcb83c7cc74b64666ac7207349b4e684b6",
+          "bytes": 109735,
           "kind": "main"
         },
         {
@@ -123554,9 +123777,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/reasons-internal-external.md",
-        "sha256": "ac09449c6dd05fb06af5482eef054b9e4ef590d359e64a46a3975b606bccfeea",
-        "source_sha256": "aefd28e4d25648d1529a005e2b9cc0e78e9b76a08a8fb1404b49525c3e38d2b0",
-        "converted_at": "2026-11-14T17:17:44Z",
+        "sha256": "d98ba18b94cbc98df80f19e7ed0a060d210d5fffddb896fe854e1f8c2a063f80",
+        "source_sha256": "4ea8a6dd71ae5dabf680842a9b6812fcb83c7cc74b64666ac7207349b4e684b6",
+        "converted_at": "2026-11-14T21:45:40Z",
         "cite_markers": 69,
         "cite_defs": 110,
         "supplements": [],
@@ -123742,7 +123965,7 @@
     },
     {
       "slug": "recursive-functions",
-      "fetched_at": "2026-10-26T20:46:08Z",
+      "fetched_at": "2026-11-14T21:41:09Z",
       "source_url": "https://plato.stanford.edu/entries/recursive-functions/",
       "title": "Recursive Functions",
       "authors": [
@@ -123833,8 +124056,8 @@
       "files": [
         {
           "path": "en/recursive-functions/index.html",
-          "sha256": "5fa44199c0133e1382ef9bd1dcc0ab8e447c0ebf9b33b39a75b129d1cd27a6d7",
-          "bytes": 299541,
+          "sha256": "e2bd0e7712b3aa9cadc0deee5789ed61fdb361f84de9d38ec74e1a0c264bd6db",
+          "bytes": 299597,
           "kind": "main"
         },
         {
@@ -123860,14 +124083,20 @@
           "sha256": "7a6c427b6182a914b52a947418068f230a8bc40d31657701228e31164c1a4635",
           "bytes": 57647,
           "kind": "image"
+        },
+        {
+          "path": "en/recursive-functions/local.js",
+          "sha256": "640f6aedecaf56c88d16b87ee4498701adad6457d83477a0c94f71b1ea2483b2",
+          "bytes": 657,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/recursive-functions.md",
         "sha256": "2018a02a4c30367796c8bf3e8c9cb8ce02963e496303ef2641637b7e63e86af5",
-        "source_sha256": "5fa44199c0133e1382ef9bd1dcc0ab8e447c0ebf9b33b39a75b129d1cd27a6d7",
-        "converted_at": "2026-11-14T17:17:46Z",
+        "source_sha256": "e2bd0e7712b3aa9cadc0deee5789ed61fdb361f84de9d38ec74e1a0c264bd6db",
+        "converted_at": "2026-11-14T21:45:40Z",
         "cite_markers": 180,
         "cite_defs": 150,
         "supplements": [
@@ -128263,51 +128492,49 @@
     },
     {
       "slug": "saadya",
-      "fetched_at": "2026-10-26T20:46:36Z",
+      "fetched_at": "2026-11-14T21:41:19Z",
       "source_url": "https://plato.stanford.edu/entries/saadya/",
       "title": "Saadya [Saadiah]",
       "authors": [
-        "Pessin, Sarah"
+        "Hegedus, Gyongyi"
       ],
       "pubinfo": {
-        "first_published": "May 6, 2003",
+        "first_published": "Nov 12, 2026",
         "substantive_revision": null
       },
       "in_article_markers": true,
       "zh_doc": "s/saadya.md",
       "archinfo": {
-        "latest_edition": "Fall 2008",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Summer 2003",
             "change_type": "first archived"
           }
         ]
       },
-      "archive_edition": "Fall 2008",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/saadya/index.html",
-          "sha256": "183eb98ccde9830753f0e8ad3d378fcd4d3e9b67344e01eba8e1001b7152e587",
-          "bytes": 68960,
+          "sha256": "fdbd11c385f344975d770f5419b3b6a49ff46c6664eec4161899eab5ae6dc605",
+          "bytes": 89114,
           "kind": "main"
-        },
-        {
-          "path": "en/saadya/notes.html",
-          "sha256": "f7ff969037ac8fd808c5febabdbd66016fd106a092a4ee1bff7acf17898eaf23",
-          "bytes": 12569,
-          "kind": "notes"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/saadya.md",
-        "sha256": "0428df0d018c1e48b12be5a466454062e1a3a623be6011da4369a8323c5c394f",
-        "source_sha256": "183eb98ccde9830753f0e8ad3d378fcd4d3e9b67344e01eba8e1001b7152e587",
-        "converted_at": "2026-11-14T17:18:04Z",
-        "cite_markers": 2,
-        "cite_defs": 22,
+        "sha256": "34a9194583e6fdd988761cb65dc6cd2f5834fb5550d4bab95cb7846fb47e5495",
+        "source_sha256": "fdbd11c385f344975d770f5419b3b6a49ff46c6664eec4161899eab5ae6dc605",
+        "converted_at": "2026-11-14T21:45:40Z",
+        "cite_markers": 14,
+        "cite_defs": 62,
         "supplements": [],
         "images": [],
         "notes": 2
@@ -129605,7 +129832,7 @@
     },
     {
       "slug": "schopenhauer-aesthetics",
-      "fetched_at": "2026-10-27T18:35:10Z",
+      "fetched_at": "2026-11-14T21:41:22Z",
       "source_url": "https://plato.stanford.edu/entries/schopenhauer-aesthetics/",
       "title": "Schopenhauer’s Aesthetics",
       "authors": [
@@ -129639,7 +129866,7 @@
       "files": [
         {
           "path": "en/schopenhauer-aesthetics/index.html",
-          "sha256": "0f711f8cf7ac90d0940c3de2d8f3f7b4daff2887b44b3be81a9479fb9308dbf2",
+          "sha256": "1f02616dff6b4540f1ad266e18a56632685645eae147ef6c63733df2131dbd8c",
           "bytes": 80360,
           "kind": "main"
         }
@@ -129647,9 +129874,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/schopenhauer-aesthetics.md",
-        "sha256": "99c4fc736659edd341869c2263e668bf4a24b14d48cecf328d51dafd8a923d56",
-        "source_sha256": "0f711f8cf7ac90d0940c3de2d8f3f7b4daff2887b44b3be81a9479fb9308dbf2",
-        "converted_at": "2026-11-14T17:18:08Z",
+        "sha256": "5a2d8ff9eff25c5c5496fa97b3a3ce9de029f5f357ba5bb12ff44dd7811966e5",
+        "source_sha256": "1f02616dff6b4540f1ad266e18a56632685645eae147ef6c63733df2131dbd8c",
+        "converted_at": "2026-11-14T21:45:41Z",
         "cite_markers": 42,
         "cite_defs": 59,
         "supplements": [],
@@ -130623,7 +130850,7 @@
     },
     {
       "slug": "scientific-representation",
-      "fetched_at": "2026-10-26T20:46:50Z",
+      "fetched_at": "2026-11-14T21:41:24Z",
       "source_url": "https://plato.stanford.edu/entries/scientific-representation/",
       "title": "Scientific Representation",
       "authors": [
@@ -130637,9 +130864,13 @@
       "in_article_markers": true,
       "zh_doc": "s/scientific-representation.md",
       "archinfo": {
-        "latest_edition": "Summer 2026",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2026",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2021",
             "change_type": "substantive content change"
@@ -130658,12 +130889,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/scientific-representation/index.html",
-          "sha256": "3d42565f846e684a34187a53cf0f08072ba78e9659c844e6ea3267993d14250e",
-          "bytes": 149958,
+          "sha256": "4f8a21a738f421468d2c384413bd89c9aa163839069294ca2123859ae22c77a1",
+          "bytes": 149971,
           "kind": "main"
         },
         {
@@ -130671,14 +130902,20 @@
           "sha256": "f56cdfab647fca2e9707c5b32f260a6bd7148eaf7490d2928672ac72a7d11f31",
           "bytes": 18220,
           "kind": "notes"
+        },
+        {
+          "path": "en/scientific-representation/local.js",
+          "sha256": "053be4559c5bbf1a892565e0ead5fb96efe391ad7b49751505b0e1f378b53bc8",
+          "bytes": 239,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/scientific-representation.md",
-        "sha256": "46e1b8f50afba97765ec35fb18bc5b0e5d125cc789a0eedff3d42c814e7d8e1a",
-        "source_sha256": "3d42565f846e684a34187a53cf0f08072ba78e9659c844e6ea3267993d14250e",
-        "converted_at": "2026-11-14T17:18:11Z",
+        "sha256": "73b417c58223318611f556d9eb345b5f9e0fb072e8aa5bb21ce31abbda096168",
+        "source_sha256": "4f8a21a738f421468d2c384413bd89c9aa163839069294ca2123859ae22c77a1",
+        "converted_at": "2026-11-14T21:45:41Z",
         "cite_markers": 223,
         "cite_defs": 181,
         "supplements": [],
@@ -131682,22 +131919,27 @@
     },
     {
       "slug": "self-knowledge",
-      "fetched_at": "2026-10-27T18:35:19Z",
+      "fetched_at": "2026-11-14T21:41:29Z",
       "source_url": "https://plato.stanford.edu/entries/self-knowledge/",
       "title": "Self-Knowledge",
       "authors": [
-        "Gertler, Brie"
+        "Gertler, Brie",
+        "Duncan, Matt"
       ],
       "pubinfo": {
         "first_published": "Feb 7, 2003",
-        "substantive_revision": "Nov 9, 2021"
+        "substantive_revision": "Nov 14, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "s/self-knowledge.md",
       "archinfo": {
-        "latest_edition": "Summer 2024",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2024",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2021",
             "change_type": "substantive content change"
@@ -131740,12 +131982,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2024",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/self-knowledge/index.html",
-          "sha256": "1aeea6797ada65f113e0029c5d0575b9977cc4b9b536a5b89e9577f2da86d1fc",
-          "bytes": 118734,
+          "sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b",
+          "bytes": 122464,
           "kind": "main"
         },
         {
@@ -131759,16 +132001,22 @@
           "sha256": "3139e1b734566c00559922cf8bd764eb766b3ade9a040bd27056ec1ad49283c8",
           "bytes": 32971,
           "kind": "supplement"
+        },
+        {
+          "path": "en/self-knowledge/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/self-knowledge.md",
-        "sha256": "4b01f3411fd183dff820ffa7f7cb2b71364cef05f54a9730998900c50b62f837",
-        "source_sha256": "1aeea6797ada65f113e0029c5d0575b9977cc4b9b536a5b89e9577f2da86d1fc",
-        "converted_at": "2026-11-14T17:18:16Z",
-        "cite_markers": 147,
-        "cite_defs": 135,
+        "sha256": "cf00e2899931030892c33ef3c61db670ce77babe601826773415951d228e369f",
+        "source_sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b",
+        "converted_at": "2026-11-14T21:45:41Z",
+        "cite_markers": 161,
+        "cite_defs": 168,
         "supplements": [
           "self-knowledge.supplement.md"
         ],
@@ -133171,7 +133419,7 @@
     },
     {
       "slug": "shared-agency",
-      "fetched_at": "2026-10-27T18:08:12Z",
+      "fetched_at": "2026-11-14T21:41:34Z",
       "source_url": "https://plato.stanford.edu/entries/shared-agency/",
       "title": "Shared Agency",
       "authors": [
@@ -133184,9 +133432,13 @@
       "in_article_markers": true,
       "zh_doc": "s/shared-agency.md",
       "archinfo": {
-        "latest_edition": "Summer 2017",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2017",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2016",
             "change_type": "minor correction"
@@ -133201,12 +133453,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2017",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/shared-agency/index.html",
-          "sha256": "149041862e77fa924e905a3869ad431f8f898687b84d9c09e7baab74ffeab636",
-          "bytes": 83408,
+          "sha256": "a4343fd8604165e9d9d2a753550bc5858a5971cd84dede526c0afee74513f211",
+          "bytes": 83465,
           "kind": "main"
         },
         {
@@ -133219,9 +133471,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/shared-agency.md",
-        "sha256": "97e1ef4ffb90f647fc303bc417f49f6e044d302519b93de74852e857fbb061e8",
-        "source_sha256": "149041862e77fa924e905a3869ad431f8f898687b84d9c09e7baab74ffeab636",
-        "converted_at": "2026-11-14T17:18:21Z",
+        "sha256": "36686d942c5c8b78a022989820d6aa533b646f094adb7231d4050cf44e3192e3",
+        "source_sha256": "a4343fd8604165e9d9d2a753550bc5858a5971cd84dede526c0afee74513f211",
+        "converted_at": "2026-11-14T21:45:41Z",
         "cite_markers": 47,
         "cite_defs": 104,
         "supplements": [],
@@ -134459,7 +134711,7 @@
     },
     {
       "slug": "skepticism",
-      "fetched_at": "2026-10-26T21:17:58Z",
+      "fetched_at": "2026-11-14T21:41:38Z",
       "source_url": "https://plato.stanford.edu/entries/skepticism/",
       "title": "Skepticism",
       "authors": [
@@ -134473,9 +134725,13 @@
       "in_article_markers": true,
       "zh_doc": "s/skepticism.md",
       "archinfo": {
-        "latest_edition": "Spring 2026",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Spring 2026",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Spring 2024",
             "change_type": "minor correction"
@@ -134534,12 +134790,12 @@
           }
         ]
       },
-      "archive_edition": "Spring 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/skepticism/index.html",
-          "sha256": "26e3b0c41fa165a1bde504ca83b0a6027e4495a1561423f8ffe56e24a8660925",
-          "bytes": 120441,
+          "sha256": "13be9d9704bf263509b07f844b8f944623a6713378f9c2cbe11065d3eb0fea8c",
+          "bytes": 120484,
           "kind": "main"
         },
         {
@@ -134547,14 +134803,20 @@
           "sha256": "127728c848f20cba931b36f7a7b5f6c76e51e9535c04ec1be1dcb7b608809e8d",
           "bytes": 16893,
           "kind": "notes"
+        },
+        {
+          "path": "en/skepticism/local.js",
+          "sha256": "90a7b0c2810d8b0d312a5c949d1823d6571e03c205bbb42ed09fe686f6babdbe",
+          "bytes": 21,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/skepticism.md",
-        "sha256": "b64fbb7dd7ede1750ba0a9a28e37048ca6acf5b60934f10d2cc48998667f0da0",
-        "source_sha256": "26e3b0c41fa165a1bde504ca83b0a6027e4495a1561423f8ffe56e24a8660925",
-        "converted_at": "2026-11-14T17:18:24Z",
+        "sha256": "bae65952febb9f7dbefd93b90d9b2cca9b980203a1136fb768e98fad2a82fda4",
+        "source_sha256": "13be9d9704bf263509b07f844b8f944623a6713378f9c2cbe11065d3eb0fea8c",
+        "converted_at": "2026-11-14T21:45:42Z",
         "cite_markers": 56,
         "cite_defs": 90,
         "supplements": [],
@@ -137685,7 +137947,7 @@
     },
     {
       "slug": "spencer",
-      "fetched_at": "2026-10-26T21:18:01Z",
+      "fetched_at": "2026-11-14T21:41:43Z",
       "source_url": "https://plato.stanford.edu/entries/spencer/",
       "title": "Herbert Spencer",
       "authors": [
@@ -137693,14 +137955,18 @@
       ],
       "pubinfo": {
         "first_published": "Dec 15, 2002",
-        "substantive_revision": "Mar 14, 2024"
+        "substantive_revision": "Nov 5, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "s/spencer.md",
       "archinfo": {
-        "latest_edition": "Summer 2024",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Summer 2024",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Spring 2024",
             "change_type": "substantive content change"
@@ -137747,12 +138013,12 @@
           }
         ]
       },
-      "archive_edition": "Summer 2024",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/spencer/index.html",
-          "sha256": "4fc3f89792493818a45b774f5493cbb87b1c2199f7e019e77e1a4001f1b9e232",
-          "bytes": 77619,
+          "sha256": "9420f60d4e4f55b1490649b0a327aa30fa2ba41bda6fff42fd2d264f83715604",
+          "bytes": 78503,
           "kind": "main"
         },
         {
@@ -137765,11 +138031,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/spencer.md",
-        "sha256": "c7e17f775bc8e17055d7c12249cd739e81eaef037a16a08a7bf20c1f0c56cb54",
-        "source_sha256": "4fc3f89792493818a45b774f5493cbb87b1c2199f7e019e77e1a4001f1b9e232",
-        "converted_at": "2026-11-14T17:18:35Z",
+        "sha256": "76f1bd5fc7a70c50a7976ada521dfa43e41f4bc43e2a7348c1ba835ae151f93d",
+        "source_sha256": "9420f60d4e4f55b1490649b0a327aa30fa2ba41bda6fff42fd2d264f83715604",
+        "converted_at": "2026-11-14T21:45:42Z",
         "cite_markers": 35,
-        "cite_defs": 68,
+        "cite_defs": 71,
         "supplements": [],
         "images": [],
         "notes": 23
@@ -147666,7 +147932,7 @@
     },
     {
       "slug": "voltaire",
-      "fetched_at": "2026-10-26T21:18:40Z",
+      "fetched_at": "2026-11-14T21:41:47Z",
       "source_url": "https://plato.stanford.edu/entries/voltaire/",
       "title": "Voltaire",
       "authors": [
@@ -147712,8 +147978,8 @@
       "files": [
         {
           "path": "en/voltaire/index.html",
-          "sha256": "d4f98254337009148764f58725cbcc862cd507c88aefd0da91653c55abf25642",
-          "bytes": 110828,
+          "sha256": "3423d64c45fa32218734d8e18ff0a5d837146d1df44248d1694780a79ceadd3a",
+          "bytes": 110836,
           "kind": "main"
         },
         {
@@ -147726,9 +147992,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/v/voltaire.md",
-        "sha256": "ce9b59a1c6d15f6d99bbe36586ab75dea0809eb0fad9b517ee2b9428cfccea1c",
-        "source_sha256": "d4f98254337009148764f58725cbcc862cd507c88aefd0da91653c55abf25642",
-        "converted_at": "2026-11-14T17:19:14Z",
+        "sha256": "7c416364c226a3221c7199ec0f278cb5c2a1446cb5a92f557f01130c5f001f75",
+        "source_sha256": "3423d64c45fa32218734d8e18ff0a5d837146d1df44248d1694780a79ceadd3a",
+        "converted_at": "2026-11-14T21:45:42Z",
         "cite_markers": 3,
         "cite_defs": 179,
         "supplements": [],
@@ -149734,7 +150000,7 @@
     },
     {
       "slug": "wittgenstein",
-      "fetched_at": "2026-10-26T21:18:49Z",
+      "fetched_at": "2026-11-14T21:41:50Z",
       "source_url": "https://plato.stanford.edu/entries/wittgenstein/",
       "title": "Ludwig Wittgenstein",
       "authors": [
@@ -149748,9 +150014,13 @@
       "in_article_markers": true,
       "zh_doc": "w/wittgenstein.md",
       "archinfo": {
-        "latest_edition": "Fall 2026",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2026",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Fall 2023",
             "change_type": "minor correction"
@@ -149817,21 +150087,27 @@
           }
         ]
       },
-      "archive_edition": "Fall 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/wittgenstein/index.html",
-          "sha256": "ec6822aad5090aa982e684002a921d14be7a70f6f9055f49898e260d88bf4b5c",
-          "bytes": 131475,
+          "sha256": "2032c8c66af0b239484410723310677bc5838d033aeee385079b440ee953c4e2",
+          "bytes": 131477,
           "kind": "main"
+        },
+        {
+          "path": "en/wittgenstein/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/w/wittgenstein.md",
-        "sha256": "2d4c97de62b0f76bfe5eef83640cc877038111811c063eb42f56cd25ccb21d3e",
-        "source_sha256": "ec6822aad5090aa982e684002a921d14be7a70f6f9055f49898e260d88bf4b5c",
-        "converted_at": "2026-11-14T17:19:21Z",
+        "sha256": "fb84e00f43f0b00e1d50b605dd0ebe174ab593e552c19a61d6287c3f217709bb",
+        "source_sha256": "2032c8c66af0b239484410723310677bc5838d033aeee385079b440ee953c4e2",
+        "converted_at": "2026-11-14T21:45:42Z",
         "cite_markers": 20,
         "cite_defs": 174,
         "supplements": [],
@@ -151398,5 +151674,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T21:36:03Z"
+  "updated_at": "2026-11-14T21:45:42Z"
 }

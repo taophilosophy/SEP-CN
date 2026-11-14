@@ -52,9 +52,11 @@ Many contemporary philosophers take the canonical argument for Cartesian Skeptic
 
 Letting “*h*” stand for any proposition about the external world we would ordinarily take ourselves to be justified in believing, for example, G. E. Moore’s famous “here’s a hand” (Moore 1939 [1993])[^moore-1939], and re-using “*SH*” for a skeptical hypothesis relative to *h* (we leave the subject tacit), we can state the contemporary canonical *CP-style argument for Cartesian Skepticism* as follows:
 
-- CP1. If I am justified in believing that *h*, then I am justified in believing that ${\sim}\textit{SH}$.
-- CP2. I am not justified in believing that ${\sim}\textit{SH}$.
-- Therefore, I am not justified in believing that *h*.
+CP1. If I am justified in believing that *h*, then I am justified in believing that ${\sim}\textit{SH}$.
+
+CP2. I am not justified in believing that ${\sim}\textit{SH}$.
+
+Therefore, I am not justified in believing that *h*.
 
 CP1 follows from the following Closure Principle (letting “*Jp*” stand for *the subject is justified in believing p*):
 

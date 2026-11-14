@@ -354,7 +354,7 @@ On the Davidsonian approach, the verb phrase is handled by existential quantific
 
 [^lewis-1983]: –––, 1983. *Philosophical Papers*, (Volume 1), New York: Oxford University Press.
 
-[^list-2006]: List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in *Southern Journal of Philosophy* (Spindel Conference 2005), 44: 85–105. [[Preprint available online](http://www.princeton.edu/~ppettit/papers/2006/Group%20Agency%20and%20Supervenience.pdf)]
+[^list-2006]: List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in *Southern Journal of Philosophy* (Spindel Conference 2005), 44: 85–105. [[List and Pettit 2006 Preprint available online](https://ppettit.scholar.princeton.edu/publications/group-agency-and-supervenience)]
 
 [^list-2002]: –––, 2002. “Aggregating Sets of Judgements: An Impossibility Result,” *Economics and Philosophy*, 18: 89–110
 
@@ -384,7 +384,7 @@ On the Davidsonian approach, the verb phrase is handled by existential quantific
 
 [^pettit-2011]: Pettit, Philip and Christian List, 2011. *Group Agency: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press.
 
-[^pettit-2006]: Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, *Philosophy of Social Sciences*, 36: 18–39. [[Preprint available online](http://www.princeton.edu/~ppettit/papers/2006/Joint%20Actions%20and%20Group%20Agents.pdf)]
+[^pettit-2006]: Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, *Philosophy of Social Sciences*, 36: 18–39. [[Pettit and Schweikard 2006 Preprint available online](https://ppettit.scholar.princeton.edu/publications/joint-actions-and-group-agents)]
 
 [^quinton-1975]: Quinton, Anthony, 1975–6. “Social Objects”, *Proceedings of the Aristotelian Society*, 75: 1–27.
 

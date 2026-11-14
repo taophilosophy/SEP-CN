@@ -198,7 +198,7 @@ Traditionally salespersons have not viewed their obligations of beneficence in t
 
 ## Related Entries
 
-capability approach | consequentialism | cosmopolitanism | ethics, biomedical: justice and access to health care | ethics, biomedical: theory | ethics: business | Hume, David | justice | justice: global | justice: international distributive | Kant, Immanuel | Mill, John Stuart | paternalism | public health: ethics | Rawls, John | responsibility: collective | well-being
+bioethics: and moral reasoning | capability approach | consequentialism | cosmopolitanism | ethics, biomedical: justice and access to health care | ethics: business | Hume, David | justice | justice: global | justice: international distributive | Kant, Immanuel | Mill, John Stuart | paternalism | public health: ethics | Rawls, John | responsibility: collective | well-being
 
 [^adler-2012]: Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York: Oxford University Press.
 

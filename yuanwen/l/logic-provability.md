@@ -388,7 +388,7 @@ All in all, formal provability is a precisely defined concept, much more so than
 ### Other Sites
 
 - [Open problems in Provability Logic](http://www.mi.ras.ru/~bekl/problems.html), maintained by Lev Beklemishev
-- [Mailing list Foundations of Mathematics](http://www.cs.nyu.edu/mailman/listinfo/fom/), New York University
+- [Mailing list Foundations of Mathematics (FOM)](https://mathweb.ucsd.edu/~sbuss/FOM/), maintained by Sam Buss
 
 ## Related Entries
 

@@ -302,7 +302,7 @@ And finally, perhaps the most detailed recent defense of Strawsonian compatibili
 
 ## Other Internet Resources
 
-- [The Determinism and Freedom Philosophy Website](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London).
+- [The Determinism and Freedom Philosophy Website](https://www.homepages.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London).
 - [Bibliography on Free Will](http://philpapers.org/browse/free-will), edited by Neil Levy at philpapers.org.
 
 ## Related Entries

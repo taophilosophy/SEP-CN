@@ -301,7 +301,7 @@ For more, see the entry on the epistemic condition for moral responsibility as w
 
 ## Other Internet Resources
 
-- [The Determinism and Freedom Philosophy Website](https://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich, University College London.
+- [The Determinism and Freedom Philosophy Website](https://www.homepages.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich, University College London.
 - [Flickers of Freedom](https://web.archive.org/web/20201130234922/https://philosophycommons.typepad.com/flickers_of_freedom/) (multiple contributors, coordinated by Thomas Nadelhoffer, closed 9 February 2017, archive version)
 - Eshleman, Andrew, “Moral Responsibility”, *Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2019/entries/moral-responsibility/](https://plato.stanford.edu/archives/fall2019/entries/moral-responsibility/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-responsibility).]
 

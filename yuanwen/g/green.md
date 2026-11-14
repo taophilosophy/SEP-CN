@@ -1,5 +1,5 @@
 # Thomas Hill Green
-**First published Wed Dec 29, 2021**
+**First published Wed Dec 29, 2021; substantive revision Wed Oct 28, 2026**
 
 *Brink, David*
 
@@ -89,7 +89,7 @@ In Book II Green picks up the theme from Book I about the role of self-conscious
 
 Green considers the apparent threat to responsibility resulting from the claim that agents necessarily act on their strongest desires (*PE* §§103–106, 139–42). He thinks that the threat is specious, because it rests on an ambiguity. Some desires are stronger because more intense, but desires can also be stronger when they are endorsed after deliberation. The action of non-rational animals is just the vector sum of the intensity of their desires; they do act on their strongest desires, in this first sense. But responsible agents—who have moral personality and can distinguish between the strength and authority of desire and act on these judgments—need not act on their strongest desire in this first sense. Instead, they can be moved by the strongest desire after deliberation. It’s only by failing to distinguish these two different kinds of strength, Green thinks, that one could see a threat to responsibility here.
 
-Green makes clear that the sort of moral personality that is required by responsibility is a *capacity* to recognize and be guided by reasons. This is clear from his defense of Kant’s conception of freedom against criticisms. As we have seen, Green does not think that freedom and responsibility require Kant’s doctrine of transcendental freedom. But Green is sympathetic with Kant’s claims about positive freedom and autonomy in the *Groundwork*. There, Kant identifies positive freedom or autonomy with a will determined by practical reason and the moral law (4: 447). Sidgwick criticizes this conception of freedom in his essay “The Kantian Conception of Free-Will,” reprinted in the Appendix to *The Methods of Ethics*, for being unable to show how someone might be free and responsible for making the wrong choices, as well as the right ones (*Methods* 511–16). The possibility of freely chosen wrongdoing shows that Kant’s conception of positive freedom, as conformity with practical reason, cannot be freedom of the kind required by moral responsibility. In his lectures on Kant’s ethics, Green recognizes the same problem for Kantian freedom that Sidgwick does (*Works* II 107).[^note-5] But Green thinks that this is a case where the essentials of the Kantian view can be defended, even if this requires amending Kant. Kant’s considered view, Green thinks, contrasts two kinds of positive freedom—(a) the *capacity* to conform to practical reason and (b) the *exercise* of this capacity. Freedom as responsibility requires (a), not (b) (*Works* II 136). On this capacitarian reading of moral personality and responsibility, the person who has the capacity to conform to practical reason and the moral law but fails to exercise it is just as responsible as the person who has the capacity and does exercise it (*Works* II 107–08, 119, 136).[^note-6]
+Green makes clear that the sort of moral personality that is required by responsibility is a *capacity* to recognize and be guided by reasons. This is clear from his defense of Kant’s conception of freedom against criticisms. As we have seen, Green does not think that freedom and responsibility require Kant’s doctrine of transcendental freedom. But Green is sympathetic with Kant’s claims about positive freedom and autonomy in the *Groundwork*. There, Kant identifies positive freedom or autonomy with a will determined by practical reason and the moral law (4: 447). Sidgwick criticizes this conception of freedom in his essay “The Kantian Conception of Free-Will,” reprinted in the Appendix to *The Methods of Ethics*, for being unable to show how someone might be free and responsible for making the wrong choices, as well as the right ones (*Methods* 511–16). The possibility of freely chosen wrongdoing shows that Kant’s conception of positive freedom, as conformity with practical reason, cannot be freedom of the kind required by moral responsibility. In his lectures on Kant’s ethics, Green recognizes the same problem for Kantian freedom that Sidgwick does (*Works* II 107).[^note-5] But Green thinks that this is a case where the essentials of the Kantian view can be defended, even if this requires amending Kant. Kant’s considered view, Green thinks, contrasts two kinds of positive freedom—(a) the *capacity* to conform to practical reason and (b) the *exercise* of this capacity. Freedom as responsibility requires (a), not (b) (*Works* II 136). On this capacitarian reading of moral personality and responsibility, the person who has the capacity to conform to practical reason and the moral law but fails to exercise it is just as responsible as the person who has the capacity and does exercise it (*Works* II 107–08, 119, 136; see Brink 2024)[^brink-2024].[^note-6]
 
 Green thinks that the process of forming and acting on a conception of what it is best for me on the whole to do is for me to form and act from a conception of my own overall good (*PE* §§91–92, 96, 128).
 
@@ -155,7 +155,7 @@ Because Green thinks that self-realization aims at the common good, a noncompeti
 
 ### 3.4 Self-Realization and Freedom
 
-Freedom is not a concept that looms large in Green’s perfectionism in the *Prolegomena*. However, Green focuses on freedom in the posthumously published essay “On the Different Senses of ‘Freedom’ as Applied to Will and the Moral Progress of Man” (*Works* II), where he defends a tripartite conception of freedom.
+Freedom is not a concept that looms large in Green’s perfectionism in the *Prolegomena*. However, Green focuses on freedom in the posthumously published essay “On the Different Senses of ‘Freedom’ as Applied to Will and the Moral Progress of Man” (*Works* II), where he defends a tripartite conception of freedom (see Brink 2024)[^brink-2024].
 
 1. Juridical Freedom
 2. Moral Freedom
@@ -169,7 +169,7 @@ In “Two Concepts of Liberty” Isaiah Berlin famously distinguishes between *n
 
 But Berlin’s criticisms misunderstand Green’s claims about freedom. For Green, negative liberty as noninterference is embodied in juridical freedom, and juridical freedom is an important and legitimate part of freedom. But juridical freedom does not exhaust freedom for Green, as it does for Berlin. He puts the point this way in “Liberal Legislation”
 
-> Thus, though of course there can be no freedom among men who act not willingly but under compulsion, yet on the other hand the mere removal of compulsion , the mere enabling a man to do as he likes, is in itself no contribution to true freedom. (*Works* III 371)
+> Thus, though of course there can be no freedom among men who act not willingly but under compulsion, yet on the other hand the mere removal of compulsion, the mere enabling a man to do as he likes, is in itself no contribution to true freedom. (*Works* III 371)
 
 Green also recognizes moral freedom and real or perfect freedom. Moral freedom is the capacity for reasons-responsive conduct, and real or perfect freedom is the proper exercise of this capacity, resulting in self-realization and its commitment to the common good. These forms of freedom involve positive freedom.
 
@@ -401,7 +401,7 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 [^berlin-1958]: Berlin, Isaiah, 1958, “Two Concepts of Liberty,” inaugural lecture, Oxford, 31 October, 1958, Oxford: Clarendon Press; reprinted in Isaiah Berlin, *Four Essays on Liberty*, Oxford: Clarendon Press, 1969, 118–172.
 
-[^bosanquet-1899]: Bosanquet, Bernard, 1899, *The Philosophical Theory of the State*, London: Macmillan; fouth edition, London: Macmillan, 1923.
+[^bosanquet-1899]: Bosanquet, Bernard, 1899, *The Philosophical Theory of the State*, London: Macmillan; fourth edition, London: Macmillan, 1923.
 
 [^brink-1997]: Brink, David O., 1997, “Self-Love and Altruism,” *Social Philosophy and Policy*, 14(1): 122–157. doi:10.1017/S0265052500001709
 
@@ -414,6 +414,8 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 [^brink-2018]: –––, 2018, “Eudaimonism and Cosmopolitan Concern,” in *Virtue, Happiness, and Knowledge: Themes from the Work of Gail Fine and Terence Irwin*, David O. Brink, Susan Sauvé Meyer, and Christopher Shields (eds.), Oxford: Clarendon Press, ch. 15, 270–292.
 
 [^brink-2019]: –––, 2019, “Normative Perfectionism and the Kantian Tradition,” *Philosopher’s Imprint*, 19: art. 45. [[Brink 2019 available online](http://hdl.handle.net/2027/spo.3521354.0019.045)]
+
+[^brink-2024]: –––, 2024, “Perfect Freedom: T.H. Green’s Kantian Conception,” *Journal of the History of Philosophy*, 62(2): 289–315. doi: 10.1353/hph.2024.a925521
 
 [^cohen-2010]: Cohen, Joshua, 2010, *Rousseau: A Free Community of Equals*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199581498.001.0001
 
@@ -463,7 +465,7 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 [^nicholson-2006]: –––, 2006, “Green’s ‘Eternal Consciousness’,” in Dimova-Cookson and Mander 2006: 139–159. doi:10.1093/acprof:oso/9780199271665.003.0006
 
-[^quinton-1971]: Quinton, Anthony M., 1971. “Absolute Idealism,” Dawes Hicks Lecture on Philosophy, read 27 October 1971, *Proceedings of the British Academy*, 57: 303–329.
+[^quinton-1971]: Quinton, Anthony M., 1971, “Absolute Idealism,” Dawes Hicks Lecture on Philosophy, read 27 October 1971, *Proceedings of the British Academy*, 57: 303–329.
 
 [^richter-1964]: Richter, Melvin, 1964, *The Politics of Conscience: T.H. Green and His Age*, Cambridge, MA: Harvard University Press.
 

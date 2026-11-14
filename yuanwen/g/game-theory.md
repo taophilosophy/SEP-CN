@@ -831,9 +831,9 @@ A range of further applications of both classical and evolutionary game theory h
 
 ## Other Internet Resources
 
-- Abbas, A., 2003, “[The Algebra of Utility Inference](http://arxiv.org/abs/cs/0310044),” Cornell University working paper.
+- Abbas, A., 2003, “[The Algebra of Utility Inference](https://arxiv.org/abs/cs/0310044),” Cornell University working paper.
 - [What is Game Theory?](http://www.dklevine.com/general/whatis.htm), David K. Levine, Economics, UCLA.
-- [Game Theory, Experimental Economics, and Market Design](http://www.stanford.edu/~alroth/alroth.html), page maintained by Al Roth (Economics, Stanford).
+- [Game Theory, Experimental Economics, and Market Design](https://web.stanford.edu/~alroth/alroth.html), page maintained by Al Roth (Economics, Stanford).
 - [ Mindshapring, Conditional Games, and the Harsanyi Doctrone, Don Ros and Wynn C. Stirling](https://cear.gsu.edu/files/2023/03/Mindshaping-Conditional-Games-and-the-Harsanyi-Doctrine-March-2.pdf). Center for the Economic Analysis of Risk (CEAR) Working Paper 2023–03.
 
 ## Related Entries

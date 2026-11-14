@@ -335,7 +335,7 @@ cognitivism vs. non-cognitivism, moral | Kant, Immanuel: moral philosophy | mora
 
 [^velleman-1996]: Velleman, J. D., 1996. “The Possibility of Practical Reason,” *Ethics*, 106: 694–726.
 
-[^velleman-2000]: –––, 2000. “On the Aim of Belief,” in *The Possibility of Practical Reason*, New York: Oxford University Press. [[Reprint available from the author](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1006990)]
+[^velleman-2000]: –––, 2000. “On the Aim of Belief,” in *The Possibility of Practical Reason*, New York: Oxford University Press.
 
 [^watson-1975]: Watson, G., 1975. “Free Agency,” *Journal of Philosophy*, 72: 205–20.
 

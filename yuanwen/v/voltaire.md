@@ -201,7 +201,7 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 
 [^oeuvres-1968]: *Oeuvres complètes de Voltaire*, edited by Theodore Besterman. 135 vols. (projected) Geneva, Banbury, and Oxford: Voltaire Foundation, 1968–.
 
-[^works-1901]: *The Works of Voltaire: A Contemporary Version*, William F. Fleming (ed. and tr.), 21 vols., New York: E.R. Du Mont, 1901. [Complete edition available at the [Online Library of Liberty](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php&title=351)]
+[^works-1901]: *The Works of Voltaire: A Contemporary Version*, William F. Fleming (ed. and tr.), 21 vols., New York: E.R. Du Mont, 1901. [Complete edition available at the [Online Library of Liberty](https://oll.libertyfund.org/titles/fleming-the-works-of-voltaire-a-contemporary-version-in-21-vols)]
 
 [^portable-1977]: *The Portable Voltaire*, Ben Ray Redman (ed.), New York: Penguin Books, 1977.
 
@@ -217,7 +217,7 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 
 [^voltaire-1989]: *Voltaire: Selections*, Paul Edwards (ed.), New York: Macmillan, 1989.
 
-[^translations-1901]: Translations of Voltaire’s major plays are found in: *The Works of Voltaire: A Contemporary Version*, William F. Fleming (ed. and tr.), New York: E.R. Du Mont, 1901. [Complete edition available at the [Online Library of Liberty](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php&title=351)]
+[^translations-1901]: Translations of Voltaire’s major plays are found in: *The Works of Voltaire: A Contemporary Version*, William F. Fleming (ed. and tr.), New York: E.R. Du Mont, 1901. [Complete edition available at the [Online Library of Liberty](https://oll.libertyfund.org/titles/fleming-the-works-of-voltaire-a-contemporary-version-in-21-vols)]
 
 [^seven-1737]: *Seven Plays (Mérope (1737), Olympia (1761), Alzire (1734), Orestes (1749), Oedipus (1718), Zaire, Caesar)*, William Fleming (tr.), New York: Howard Fertig, 1988.
 

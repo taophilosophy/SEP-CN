@@ -221,9 +221,9 @@ There is, of course, the other option: Affirmation of the will to life in light 
 
 ## Other Internet Resources
 
-- [Schopenhauer Gesellschaft](http://www.schopenhauer.de/)
-- [Schopenhauer Research Centre](http://www.schopenhauer.philosophie.uni-mainz.de/e-Start.htm), Philosophy Department, University of Mainz.
-- [Schopenhauer Archives](http://www.ub.uni-frankfurt.de/archive/schopenhauer_en.html), at the Goethe Universität Frankfurt am Main.
+- [Schopenhauer Gesellschaft](https://www.schopenhauer.de/)
+- [Schopenhauer Research Centre](https://www.philosophie.fb05.uni-mainz.de/fs_schopenhauer/), Philosophy Department, University of Mainz.
+- [Schopenhauer Archives](https://www.ub.uni-frankfurt.de/archive/schopenhauer_en.html), at the Goethe Universität Frankfurt am Main.
 
 ## Related Entries
 

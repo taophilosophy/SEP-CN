@@ -49,7 +49,7 @@ Cellular Automata (Stanford Encyclopedia of Philosophy)
 <div id="header-wrapper">
   <div id="header">
     <div id="branding">
-      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
       <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
     </div>
     <div id="navigation">
@@ -380,7 +380,7 @@ despite complete micro-knowledge. (Epstein 1999: 48) </p>
 </blockquote>
 
 <p>
-Since the notion of <em>emergence</em> and the micro-macro interplay
+Since the notion of <em>emergence</em> and the micro&ndash;macro interplay
 have such an important role in science and philosophy (see the entries
 on
  <a href="../supervenience/">supervenience</a>
@@ -448,7 +448,7 @@ Ilachinski 2001: 8), but apart from engineering issues,
  <a href="#CA1">(CA<sub>1</sub>)</a>
  also points to major conceptual questions, such as how exactly a
 universal Turing machine and an automaton can be rigorously compared
-(see Beraldo-de-Ara&uacute;jo &amp; Baravalle forthcoming) and what
+(see Beraldo-de-Ara&uacute;jo &amp; Baravalle 2017) and what
 are, if any, the philosophical implications of this comparison (see
 Wolfram 2002: Ch. 12). </p>
 
@@ -457,7 +457,7 @@ Wolfram 2002: Ch. 12). </p>
  <a href="#CA2">(CA<sub>2</sub>)</a>
  comprises scientific applications of CA to the modelling of specific
 problems&mdash;to mention just a few: urban evolution (Batty 2005),
-Ising models (Creutz 1986), neural networks (Franceschetti, et al.
+Ising models (Creutz 1986), neural networks (Franceschetti et al.
 1992: 124&ndash;128), lattice fluids (Barberousse &amp; Imbert 2013),
 security (Ray et al. 2023 [Other Internet Resources]), bioinformatics
 (Xiao et al. 2011), and
@@ -558,7 +558,7 @@ tuning the four parameters that define their structure: </p>
 <ol type="a">
 
 <li><em>Discrete n-dimensional lattice of cells</em>: We can have
-one-dimensional, two-dimensional, &hellip; , <i>n</i>-dimensional CA.
+one-dimensional, two-dimensional, &hellip;, <em>n</em>-dimensional CA.
 The atomic components of the lattice can be differently shaped: for
 example, a 2D lattice can be composed of triangles, squares, or
 hexagons. Usually <em>homogeneity</em> is assumed: all cells are
@@ -616,7 +616,7 @@ one-dimensional CA: </p>
 \]
 
 <p>
-Where \(\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}\) is the
+where \(\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}\) is the
 state of cell number <i>i</i> at time step <i>t</i>; <i>r</i>
 specifies the <em>range</em>, that is, how many cells on any side
 count as neighbors for a given cell; and \(\phi\) is defined
@@ -654,10 +654,10 @@ rule&rsquo;s name (in this case, <em>Rule 90</em>). Since rules for CA
 with \(r = 1\) and \(k = 2\) differ just in the bottom row of the
 diagram, this encoding scheme effectively identifies each possible
 rule in the class. One-dimensional CA with \(r = 1\) and \(k = 2\) are
-among the simplest CA one can define, yet their behavior is at time
+among the simplest CA one can define, yet their behavior is at times
 quite interesting. When Stephen Wolfram started to explore this field
 in the Eighties, that class seemed a perfect fit. With \(r = 1\),
-there are 8 possible neighbors (see
+there are 8 possible neighborhood configurations (see
  <a href="#fig4">Fig. 4</a>
  above) to be mapped to \({1, 0}\), giving a total of \(2^8 = 256\)
 rules. Starting with random initial conditions, Wolfram went on to
@@ -963,7 +963,7 @@ the entire class of rules for one-dimensional CA, Langton introduced a
 parameter, \(\lambda\), that applies to each \(\phi\): for \(k = 2\),
 \(r = 1\) (binary-state, unary-range) CA, \(\lambda(\phi)\) can be
 computed as the fraction of entries of the transition rule table that
-are mapped to a non-zero output (see Langton 1990: 14 for the general
+are mapped to a non-zero output (see Langton 1990: 14, for the general
 definition). In our case this means: \(\lambda(\phi)\) will be equal
 to the number of ones in the rule column&mdash;e.g., \(\lambda(\phi) =
 5/8\) for \(\phi\) = <em>Rule 110</em> and \(\lambda(\phi) = 1/2\) for
@@ -1085,7 +1085,7 @@ higher value. (Miller &amp; Page 2007: 135) </p>
 </blockquote>
 
 <p>
-Melanie Mitchell, Peter Hraber and James Crutchfield replicated
+Melanie Mitchell, Peter Hraber, and James Crutchfield replicated
 Langton and Packard&rsquo;s experiments, reporting very different
 results (Mitchell, Hraber, &amp; Crutchfield 1994). In particular,
 they report that serious computational phenomena take place much
@@ -1101,7 +1101,7 @@ if, instead, the hypotheses are concerned with generic, statistical
 properties of CA rule space&mdash;the &ldquo;average&rdquo; behavior
 of an &ldquo;average CA&rdquo; at a given \(\lambda\)&mdash;then the
 notion of &ldquo;average behavior&rdquo; must be better defined.
-(Mitchell, Hraber, &amp; Crutchfield 1994: 14). </p>
+(Mitchell, Hraber, &amp; Crutchfield 1994: 14) </p>
 </blockquote>
 
 <p>
@@ -1290,7 +1290,7 @@ abilities).</p>
 <p>
 A typical evolution of <em>Life</em> starting from random initial
 conditions may contain all of the above notable figures and much more.
-Some initial configuration may end up, even after few time steps, into
+Some initial configurations may end up, even after few time steps, into
 static or simple periodic structures. Other configurations, though,
 can produce non-periodic, increasingly complex environments whose
 development can be unpredictable (even in the computational sense we
@@ -1394,7 +1394,7 @@ computation can be emulated by appropriate patterns generated by
 <em>Life</em>&mdash;in particular: (a) data storage or memorization,
 (b) data transmission requiring wires and an internal clock, and (c)
 data processing requiring a universal set of logic gates, like
-negation, conjunction and disjunction&mdash;an actual Turing machine
+negation, conjunction, and disjunction&mdash;an actual Turing machine
 was later explicitly implemented in <em>Life</em> by Paul Rendell (see
  <a href="#Oth">Other Internet Resources</a>).</p>
  
@@ -1404,7 +1404,7 @@ spend their time translating &ldquo;\(24 + 26 / 13\)&rdquo; into
 <em>Life</em>). However, it raises a conceptual issue about any
 universe sharing the capacity of producing and hosting universal
 computers: because of the aforementioned Halting Theorem, no general
-algorithm is to decide whether, given some initial configuration as
+algorithm can decide whether, given some initial configuration as
 input, <em>Life</em> will eventually die out or halt. It is in this
 sense that the evolution of the automaton is unpredictable. Given that
 the development of CA that are computationally universal cannot be
@@ -1447,7 +1447,7 @@ can be relaxed by having the set of states be the set of <em>real
 numbers</em> (see Wolfram 2002: 155&ndash;157).</p>
 
 <p>
-CA are also being fruitfully used in connection to the issue of the
+CA are also being fruitfully used in connection with the issue of the
 thermodynamic limits of computation: is there a minimum amount of
 energy needed to perform a logical operation? Landauer (1961) argued
 that irreversible logical operations (i.e., operations that, not
@@ -1535,7 +1535,7 @@ that the system shows can nevertheless be highly complex. (Wolfram
 <p>
 Due to the local nature of a CA&rsquo;s operations, it is typically
 very hard, if not impossible, to understand the CA&rsquo;s global
-behavior (&hellip;) by directly examining either the bits in the
+behavior &hellip; by directly examining either the bits in the
 lookup table or the temporal sequence of raw 1&ndash;0 spatial
 configurations of the lattice. (Hordijk, Crutchfield, &amp; Mitchell
 1996: 2)</p>
@@ -1546,18 +1546,18 @@ Now the issue of detecting emergence is connected to the conceptual
 problems of defining what an emerging feature is: we need
 <em>some</em> idea of what we are looking for in order to scan the
 space-time evolution of a system and recognize its patterns. We may
-start with the fourfold characterization of emergence provided in
+start with the four characterizations of emergence provided in
 Clark 2013. Emergence may be taken: </p>
 
 <dl class="sentag tag3em">
 <dt id="E1">(E1)</dt>
-<dd>As collective self-organisation.</dd>
+<dd>as collective self-organisation,</dd>
 <dt id="E2">(E2)</dt>
-<dd>As unprogrammed functionality.</dd>
+<dd>as unprogrammed functionality,</dd>
 <dt id="E3">(E3)</dt>
-<dd>As interactive complexity.</dd>
+<dd>as interactive complexity, or</dd>
 <dt id="E4">(E4)</dt>
-<dd>As incompressible unfolding.</dd>
+<dd>as incompressible unfolding.</dd>
 </dl>
 
 <p>
@@ -1585,7 +1585,7 @@ sounds). According to the concept embodied in
 cyclic interactions give rise to stable and salient patterns of
 systemic behavior&rdquo; (Clark 2013: 134); in particular, the
 interactions are supposed to be nonlinear (a typical example are
-convection rolls in a fluid heated in a pan: see Kelso 1995: 5). </p>
+convection rolls in a fluid heated in a pan; see Kelso 1995: 5). </p>
 
 <p>
 Now the emergent properties attracting CA scholars&rsquo; attention,
@@ -1653,7 +1653,7 @@ however, CA with larger neighborhoods achieve better results in tasks
 of this kind, <em>genetic algorithms</em> are used to efficiently
 search the solution space (genetic algorithms are computational
 analogues of genetic evolution, in which a computational problem is
-addressed by producing, combining and selecting solutions to it; the
+addressed by producing, combining, and selecting solutions to it; the
 details of the procedure as applied to the classification problem are
 not important for our purpose, but, for an accessible presentation,
 see Mitchell 2009: 22; for a general introduction see Mitchell 1998).
@@ -1674,7 +1674,7 @@ At time step 250 (not shown in
  <a href="#fig5">Fig. 5</a>),
  the grey areas disappear and all cells end up white, i.e., the
 classification made by the automaton is correct. A high-level
-description of what is going on would have it that the white, black
+description of what is going on would have it that the white, black,
 and grey regions are &ldquo;expanding&rdquo;,
 &ldquo;contracting&rdquo;, &ldquo;moving&rdquo;, these being nonlinear
 effects of the low-level working of the cells computing their local
@@ -1706,9 +1706,9 @@ the domain becomes a &ldquo;particle&rdquo;: </p>
 
 <p>
 Embedded particles are a primary mechanism for carrying information
-(&hellip;) over long space-time distances. (&hellip;) Logical
-operations on the signals are performed when the particles interact.
-The collection of domains, domain walls, particles and particle
+&hellip; over long space-time distances. (&hellip;) Logical operations
+on the signals are performed when the particles interact.  The
+collection of domains, domain walls, particles and particle
 interactions for a CA represents the basic information processing
 elements embedded in the CA&rsquo;s behavior&mdash;the CA&rsquo;s
 &ldquo;intrinsic&rdquo; computation. (Crutchfield &amp; Mitchell 1995:
@@ -1745,12 +1745,11 @@ metaphysical, category. (O&rsquo;Connor &amp; Wong 2015: Sec. 2) </p>
 </blockquote>
 
 <p>
-But the Crutchfield-Mitchell approach suggests a different
+But the Crutchfield&ndash;Mitchell approach suggests a different
 perspective. Firstly, the emergent (both in the
  <a href="#E2">E2</a>-
  and in the
- <a href="#E3">E3</a>-
- sense) computational properties in CA can in an important sense be
+ <a href="#E3">E3</a>-sense) computational properties in CA can in an important sense be
 objectively defined (see Crutchfield 1994a and the more accessible
 Crutchfield 1994b): although it is customary in this setting to talk
 of emergent computation being &ldquo;in the eye of the
@@ -1764,15 +1763,15 @@ they are mathematically grounded on the basic features of the system,
 despite not being explicitly mentioned in the standard abstract
 characterization of the program, that is, the transition rule
 implemented in the CA cells (Crutchfield mentions as non-intrinsic
-emergent phenomena the patterns in the Belousov-Zhabotinsky reaction
-and the energy recurrence in an harmonic oscillator chains reported by
-Fermi, Pasta and Ulam&mdash;see Crutchfield 1994b). </p>
+emergent phenomena the patterns in the Belousov&ndash;Zhabotinsky reaction
+and the energy recurrence in harmonic oscillator chains reported by
+Fermi, Pasta, and Ulam&mdash;see Crutchfield 1994b). </p>
 
 <p>
 Crutchfield infers from this that many cases of emergence are indeed
 not reducible to some interaction with an observer. They are genuine
 instances of an intrinsic phenomenon, not the results of some
-human-biased discovery (Crutchfield 1994b: 2). If emergence was not
+human-biased discovery (Crutchfield 1994b: 2). If emergence were not
 intrinsic, scientific activity would indeed be a subjective enterprise
 of &ldquo;pattern discovery&rdquo;: </p>
 
@@ -1781,7 +1780,7 @@ of &ldquo;pattern discovery&rdquo;: </p>
 <p>
 Why? Simply because emergence defined without this closure leads to an
 infinite regress of observers detecting patterns of observers
-detecting patterns&hellip; (Crutchfield 1994b: 10)</p>
+detecting patterns &hellip; (Crutchfield 1994b: 10)</p>
 </blockquote>
 
 <p>
@@ -1808,7 +1807,7 @@ re-phrased in a philosophically sophisticated way, though, they may
 challenge standard definitions of <em>weakly emergent</em> properties
 (in the sense of Chalmers 2002). Teller 1992, Clark 1996, and Bedau
 1997, for instance, all run together instances of &ldquo;pattern
-discovery&rdquo;&mdash;, taken as a subjective, observer-dependent
+discovery&rdquo;&mdash;taken as a subjective, observer-dependent
 activity&mdash;with instances of intrinsic emergence&mdash;a
 phenomenon that, as we have just seen, can be characterized in the
 context of CA as objective and statistically significant (see the
@@ -1840,7 +1839,7 @@ at least some of the previous ones:
 <p>
 emergent phenomena are often <em>precisely</em> those phenomena in
 which complex interactions yield robust, salient patterns capable of
-supporting prediction. (ibid) </p>
+supporting prediction (ibid.), </p>
 </blockquote>
 
 <p>
@@ -1891,7 +1890,7 @@ fair to say that the CA literature so far has not significantly
 contributed to the ongoing philosophical debate on the purely
 ontological side of reductionism. CA patterns that are
 &ldquo;objectively&rdquo; detected via computation, as per the
-Mitchell-Crutchfield approach, are not <em>ipso facto</em> new
+Mitchell&ndash;Crutchfield approach, are not <em>ipso facto</em> new
 primitives to be included in an ontology. It may well be that features
 of a CA that are objective, in the sense of not depending on the
 interaction with an observer, are nevertheless ontologically reducible
@@ -1918,12 +1917,13 @@ A major obstacle to accepting compatibilism is our persuasion that
 determinism implies inevitability (Dennett 2003: 25). We may thus make
 compatibilism palatable by exhibiting an intuitive counterexample to
 that conviction: a deterministic world in which, however, not
-everything is inevitable, i.e., something is avoidable (Ibid: 56).
+everything is inevitable, i.e., some things are avoidable (ibid.: 56).
 Dennett maintains that CA can do this. He takes <em>Life</em> as a
 vivid illustration of how, in a deterministic but complex enough
 world, we can abstract away from the bottom level and the micro-laws
 deterministically governing it, and describe what is happening by
-taking the emergent level seriously. Recall the eater-glider dynamics:
+taking the emergent level seriously. Recall the eater&ndash;glider
+dynamics:
 </p>
 
 <div class="figure avoid-break center">
@@ -1967,14 +1967,14 @@ has already evolved (this is especially true of a <em>universal</em>
 CA&mdash;as we have already hinted at above, and shall expand on
 soon). The second option is much faster: you know without much
 calculation what is going to happen to a glider meeting an eater. The
-predictions though, cannot be 100% reliable: </p>
+predictions, though, cannot be 100% reliable: </p>
 
 <blockquote>
 
 <p>
 Whereas at the physical level, there are absolutely no exceptions to
 the general law, at the design level our generalizations have to be
-hedged: they require &ldquo;usually&rdquo; clauses (&hellip;). Stray
+hedged: they require &ldquo;usually&rdquo; clauses &hellip;&nbsp;. Stray
 bits of debris from earlier events can &ldquo;break&rdquo; or
 &ldquo;kill&rdquo; one of the objects in the ontology at this level.
 Their salience as real things is considerable, but not guaranteed.
@@ -1990,12 +1990,12 @@ description</em> and the <em>design description</em> of <em>Life</em>
 are different interpretations of the same basic ontology, namely, the
 sparse ontology of CA. While in theory we could avoid the introduction
 of emergent concepts, in practice it is only by speaking of gliders,
-movements and avoidance that we can make sense of the evolution of the
+movements, and avoidance that we can make sense of the evolution of the
 system (Dennett 2003: 43&ndash;44). Even without knowing
 <em>Life</em>&rsquo;s physics, we could do a good job if we predicted
-the future by mentioning only high level patterns. <em>Life</em> is
+the future by mentioning only high-level patterns. <em>Life</em> is
 just a toy universe but, Dennett claims, these new intuitions are
-sufficient to see that, in some deterministic worlds, something is
+sufficient to see that, in some deterministic worlds, someth things are
 avoidable. For instance, it is true at the design level that gliders
 actually avoid eaters. Thus, the inference from determinism to
 inevitability can be blocked. </p>
@@ -2019,7 +2019,7 @@ Rephrasing Dennett&rsquo;s example, we can identify an ambiguity in
 Conrad&rsquo;s argument. Imagine that a baseball is <em>going to</em>
 hit you in the face&mdash;but you dodge it: a clear case of
 <em>real</em> human avoidance. In what sense was the baseball
-&ldquo;going to&rdquo; hit you in the face? (Dennett 2003: 59) One
+&ldquo;going to&rdquo; hit you in the face? (Dennett 2003: 59)? One
 might say that it was <em>never</em> really going to hit you,
 precisely because it triggered the reaction of whatever
 &ldquo;avoidance system&rdquo; you have. What is the difference
@@ -2036,7 +2036,7 @@ first round: </p>
 <blockquote>
 
 <p>
-you agree that (&hellip;) I&rsquo;ve shifted the burden of proof:
+you agree that &hellip; I&rsquo;ve shifted the burden of proof:
 there shall be no inferring inevitability in any sense from
 determinism without mounting a supporting argument. (Dennett 2003: 61)
 </p>
@@ -2062,7 +2062,7 @@ universality proof for an automaton, namely that, although a system
 follows definite underlying laws, &ldquo;its overall behavior can
 still have aspects that fundamentally cannot be described by
 reasonable laws&rdquo; (Wolfram 2002: 750). This is again the issue of
-predictability via step by step micro-computations. In this
+predictability via step-by-step micro-computations. In this
 &ldquo;separation between the underlying rules for the system and its
 overall behavior&rdquo; (Wolfram 2002: 751) lies the secret of free
 will, since it seems that we attribute free will to a system just when
@@ -2249,7 +2249,7 @@ point, its main problem is that the interpretation of
 even assuming that universal computation is widespread, it does not
 seem to follow that all computation is equivalent in sophistication.
 Complexity scientists, even after having agreed with Wolfram on the
-importance of computation for social, biological and physical systems,
+importance of computation for social, biological, and physical systems,
 and even on the extent to which universal computation is supported in
 nature, are puzzled by his claim:</p>
 
@@ -2257,7 +2257,7 @@ nature, are puzzled by his claim:</p>
 
 <p>
 I find it plausible that my brain can support universal computation
-(&hellip;) and that the brain of the worm <em>C. elegans</em> is also
+&hellip; and that the brain of the worm <em>C. elegans</em> is also
 (approximately) universal, but I don&rsquo;t buy the idea that the
 actual computations we engage in, respectively, are equivalent in
 sophistication. (Mitchell 2009: 158)</p>
@@ -2294,7 +2294,7 @@ compiler can far exceed the complexity of the programs it produces.
 <p>
 Taking these objections ever further, the crucial consideration is
 that any system with a large enough state space could be shown to be
-(in Wolfram sense) equivalent to &ldquo;intelligent systems&rdquo;.
+(in Wolfram&rsquo; sense) equivalent to &ldquo;intelligent systems&rdquo;.
 Far from supporting some form of universality, Aaronson argues that
 this type of &ldquo;equivalence&rdquo; stems from a misunderstanding
 of the role of computational reductions: </p>
@@ -2321,11 +2321,11 @@ trading an infeasible search among programs for an infeasible search
 among input encoding schemes&rdquo; (Aaronson 2002: 413). Moreover, a
 rationale for studying CA (Ilachinski 2001: 8) is that their
 implementation can be massively optimized for specific problems with
-significant performance gain on standard computers (see for example
+significant performance gain on standard computers (see, e.g.,
 Zaheer et al. 2016). Unless Wolfram&rsquo;s notion of
 &ldquo;equivalent sophistication&rdquo; simply means &ldquo;they
-compute the same functions&rdquo;&mdash;in which case, the claim is a
-truism&mdash;, the Principle cannot explain this empirical difference.
+compute the same functions&rdquo;&mdash;in which case the claim is a
+truism&mdash;the Principle cannot explain this empirical difference.
 The Principle may have a more substantive reading if understood as a
 metaphysical thesis about the universe in general, not as a scientific
 generalization having merely heuristic value. Under this stronger
@@ -2344,7 +2344,7 @@ When discussing CA as models of reality we need to carefully
 distinguish the different meanings of <em>modelling</em>.
  <a href="#CA1">(CA<sub>1</sub>)</a>
  above
- (<a href="">section 1.2</a>)
+ (<a href="#OverCAsCapa">section 1.2</a>)
  discussed CA as &ldquo;models of computation&rdquo;: CA model
 parallel computations in the rather trivial sense that they
 <em>perform</em> them; for that is what their cells do: they associate
@@ -2355,7 +2355,7 @@ do (but, of course, with different underlying ideas). </p>
 <p>
 
  <a href="#CA2">(CA<sub>2</sub>)</a>
- introduced a different sense of <em>modelling</em> for CA, i.e., the
+ introduced a different sense of <em>modelling</em> for CA, viz., the
 idea that CA are fruitfully used in current scientific practices to
 study an incredible variety of phenomena: chemical systems (e.g.,
 Kier, Seybold, &amp; Cheng 2005), urban growth (e.g., Aburas et al.
@@ -2363,11 +2363,11 @@ Kier, Seybold, &amp; Cheng 2005), urban growth (e.g., Aburas et al.
 (e.g., Ilachinski 2004). According to the characterization of
 Barberousse, Franceschelli, and Imbert 2007
  (<a href="#Oth">Other Internet Resources</a>),
- a common technique is the &ldquo;phenomenological&rdquo; modelling.
+ a common technique is &ldquo;phenomenological&rdquo; modelling.
 Phenomenological modelling happens when one models in a direct way,
 that is, without making use of a previous explanatory theory: one
 looks at how traffic flows and tries to build a CA that reproduces a
-sufficiently similar behaviour and allows to make useful predictions.
+sufficiently similar behavior and allows to make useful predictions.
 The key question for modellers here is, </p>
 
 <blockquote>
@@ -2382,7 +2382,7 @@ Margolus 1990: 244) </p>
 <p>
 In this sense, CA modelling is a special case of &ldquo;agent-based
 modelling&rdquo; (Miller &amp; Page 2007): the modeller starts with
-micro-rules to explore macro-behavior: e.g. in social sciences, see
+micro-rules to explore macro-behavior: e.g., in social sciences, see
 the classic Schelling 1978, in decision theory see Grim et al. 1997,
 in political theory Grim et al. 2005. </p>
 
@@ -2390,11 +2390,11 @@ in political theory Grim et al. 2005. </p>
 Starting from
  <a href="#CA2">(CA<sub>2</sub>)</a>,
  it is natural to ask whether it is possible to push the boundaries
-even further, i.e., using CA to model more &ldquo;fundamental&rdquo;
-parts of reality. For example Toffoli 1984 conjectures that CA may
+even further, viz., using CA to model more &ldquo;fundamental&rdquo;
+parts of reality. For example, Toffoli 1984 conjectures that CA may
 allow us to <em>replace</em> physical modelling with differential
 equations (and related notions of real variables, continuity, etc.).
-Computations with differential equations, Toffoli claims, are:</p>
+Computations with differential equations, Toffoli claims, are</p>
 
 <blockquote>
 
@@ -2414,7 +2414,7 @@ isn&rsquo;t there a less roundabout way to make nature model itself?
 <p>
 Such a less roundabout way can be provided, so the proposal goes, by
 CA. We see here a path, from the view that CA are useful as a
-phenomenological heuristic to predict the behaviour of some aspects of
+phenomenological heuristic to predict the behavior of some aspects of
 reality, to the claim that CA modelling may, in a sense, be closer to
 the underlying physics than any non-discrete alternative, as
 anticipated in
@@ -2442,8 +2442,8 @@ reality, or &ldquo;modes of presentation of being&rdquo;. If one, on
 the contrary, thinks that there must be a fact of the matter about the
 discrete vs. continuous nature of the world (as argued in Berto &amp;
 Tagliabue 2014, on the basis of considerations from cardinality and
-general mereology [see entry on
- <a href="../mereology/">mereology</a>]),
+general mereology; see entry on
+ <a href="../mereology/">mereology</a>),
  then the next issue is: what does (the philosophy of) fundamental
 physics have to say about this? It is fair to claim that the issue is
 open. Scholars such as Nobel prize winner &rsquo;t Hooft (1997)
@@ -2451,8 +2451,8 @@ seriously explore discretist views, and approaches based on so-called
 causal set theory (see Dowker 2003; Malament 2006) take the geometry
 of real-world spacetime as such that at the Planck length
 (\(10^{-33}\) cm) it is discrete. Cognate strategies take spacetime as
-made of polysimplexes, usually polydimensional counterparts of
-tetrahedra (see Ambjorn et al. 2004) ; adding the claim that such
+made of polysimplexes, usually multidimensional counterparts of
+tetrahedra (see Ambjorn et al. 2004); adding the claim that such
 polysimplexes compute functions takes us already in the vicinity of
 CA. Other scholars, instead, are against the idea of a digital world.
 Deutsch (2005) and Hardy (2005) reject the view that quantum
@@ -2468,8 +2468,8 @@ existing metaphysical accounts. Let us take each point in turn. </p>
 
 <p>
 The picture of nature as a CA is supported by an epistemological
-<em>desideratum</em>, i.e., having exact computational models of the
-physical world (see for instance the discussion of <em>ontic
+<em>desideratum</em>, viz., having exact computational models of the
+physical world (see, e.g., the discussion of <em>ontic
 pancomputationalism</em> in the entry on
  <a href="../computation-physicalsystems/">computation in physical systems</a>).
  While this is certainly one of the arguments involved, it is not the
@@ -2499,13 +2499,13 @@ Ilachinski: </p>
 <p>
 Noticing that the figure consists of certain particle-like objects
 sprinkled on a more-or-less static background, the simplest (most
-natural?) thing for you to do (&hellip;) is to begin cataloging the
+natural?) thing for you to do &hellip; is to begin cataloging the
 various &ldquo;particles&rdquo; and their &ldquo;interactions.&rdquo;
-(&hellip;) What you almost assuredly will not have, is any idea that
-the underlying physics really consists of a single&mdash;very
-simple&mdash;local deterministic rule(&hellip;). <em>How different is
+&hellip; What you almost assuredly will not have, is any idea that the
+underlying physics really consists of a single&mdash;very
+simple&mdash;local deterministic rule &hellip;&nbsp;. <em>How different is
 this alien two-dimensional world from our own</em>? (Ilachinski 2001:
-662).</p>
+662)</p>
 </blockquote>
 
 <p>
@@ -2527,7 +2527,7 @@ the need for a transparent ontology, (<em>iii</em>) the physical role
 of information. </p> <!-- cites checked so far -->
 
 <p>
-As for complaint (<em>i</em>): while infinite and infinitesimal
+As for complaint (<em>i</em>): While infinite and infinitesimal
 quantities provide us with powerful tools to model and advance
 predictions on the physical world, it remains controversial what
 ontological conclusions should be drawn from this fact. Since the
@@ -2564,7 +2564,7 @@ Finite Nature is a hypothesis that ultimately every quantity of
 physics, including space and time, will turn out to be discrete and
 finite; that the amount of information in any small volume of
 space-time will be finite and equal to one of a small number of
-possibilities. (&hellip;) We take the position that Finite Nature
+possibilities. &hellip; We take the position that Finite Nature
 implies that the basic substrate of physics operates in a manner
 similar to the workings of certain specialized computers called
 cellular automata. (Fredkin 1993: 116)</p>
@@ -2574,7 +2574,7 @@ cellular automata. (Fredkin 1993: 116)</p>
 If a cellular automaton is a model satisfying this hypothesis, then
 &ldquo;underneath the laws of physics as we know them today it could
 be that there lies a simple program from which all the known laws
-(&hellip;) emerge&rdquo; (Wolfram 2002: 434). If, as we have seen
+&hellip; emerge&rdquo; (Wolfram 2002: 434). If, as we have seen
 above, currently there is no agreement on the issue whether physical
 reality is fundamentally continuous or discrete, at least the Finite
 Nature Hypothesis seems to be a no less falsifiable prediction (see
@@ -2586,13 +2586,13 @@ framework; it is therefore safe to say that no party has a clear
 advantage here.</p>
 
 <p>
-As for complaint (<em>ii</em>): one reason to adopt the view of CA as
+As for complaint (<em>ii</em>): One reason to adopt the view of CA as
 models of a fundamentally discrete world is the desire for a
 transparent ontology. Take a materialist philosopher for whom the task
 of physics is to provide an ultimate description of reality on the
 basis of a handful of basic physical properties and relations. As
-argued in Beraldo-de-Ara&uacute;jo &amp; Baravalle forthcoming, a
-digital ontology may take different models of computation at its
+argued in Beraldo-de-Ara&uacute;jo &amp; Baravalle 2017, a
+digital ontology may take different models of computation as its
 foundation: by analyzing the ontological commitments of CA (vs.
 traditional Turing machines), they conclude that CA are very close to
 supporting a traditional form of physicalism. In this perspective, a
@@ -2600,19 +2600,19 @@ CA-based physics may provide a neat and elegant ontological picture:
 one that would be describable in a first-order formal theory including
 the axioms of standard
  <a href="../mereology/">mereology (see entry)</a>
- (even of mereotopology, as presented, e.g., in Casati, Varzi 1999),
+ (even of mereotopology, as presented, e.g., in Casati &amp; Varzi 1999),
 and whose theorems would be computable in finite time (see Berto,
-Rossi, Tagliabue 2010: 73&ndash;87). Besides, CA make easier to
+Rossi &amp; Tagliabue 2010: 73&ndash;87). Besides, CA make easier to
 reconcile prima facie contradictory properties of different physical
 laws, such as the <em>reversibility</em> of micro-laws and the
-<em>irreversibility</em> of the Second Law of Thermodynamics (see for
-example Wolfram 2002: 441&ndash;457; Berto, Rossi, Tagliabue 2010:
+<em>irreversibility</em> of the Second Law of Thermodynamics (see, e.g.,
+Wolfram 2002: 441&ndash;457; Berto, Rossi &amp; Tagliabue 2010:
 43&ndash;46). There is no agreement on whether the Second Law gives us
-a fundamental feature of physical reality, or it is a spin-off of
+a fundamental feature of physical reality or is a spin-off of
 underlying principles which are time-reversal invariant and act on an
 initial state of the universe at low entropy (see Albert 2000). If the
 world is discrete and temporal reversibility is fundamental,
-reversible CA like, e.g., that of Berto, Rossi, Tagliabue (2016) may
+reversible CA like, e.g., that of Berto, Rossi &amp; Tagliabue (2016) may
 be more than mere computational tools achieving some degree of
 computational efficiency via their reversibility. </p>
 
@@ -2675,8 +2675,8 @@ because of its computational complexity. </p>
 A second philosophical topic is the connection between a CA-world and
 one of the most famous and controversial contemporary metaphysical
 theses, namely David Lewis&rsquo; <em>Humean Supervenience</em> (HS).
-Using Ned Hall&rsquo;s characterization (see section on
- <a href="../lewis-metaphysics/#HumSup">Humean supervenience in the entry on David Lewis&rsquo;s metaphysics</a>),
+Using Ned Hall&rsquo;s characterization (see the section on
+ <a href="../lewis-metaphysics/#HumSup">Humean supervenience in the entry on David Lewis&rsquo; metaphysics</a>),
  we can state HS as the collection of these four claims about the
 structure of our world:</p>
 
@@ -2698,7 +2698,7 @@ another.</dd>
 If we substitute &ldquo;space-time points&rdquo; with
 &ldquo;cells&rdquo;, HS gets very close to a CA ontology: cells are
 arranged in a lattice, have various spatiotemporal relations to one
-another (e.g., <em>being a neighborhood of</em>), and have monadic
+another (e.g., <em>being in a neighborhood of</em>), and have monadic
 properties (states) which can be considered <em>perfectly
 natural</em>, i.e., the basic properties out of which any other can be
 construed. A CA universe is thus a <em>prima facie</em> abstract model
@@ -2725,7 +2725,8 @@ on
  <a href="../temporal-parts/">temporal parts</a>
  for an introduction), while in a standard CA-driven ontology, it is
 not. Second, Lewis reduces laws of nature to particulars while, as we
-have seen in Section 2 above, CA rules are always included as a
+have seen in <a href="#SomeBasiNotiResu">Section 2</a> above, 
+CA rules are always included as a
 <em>further</em> specification of the model.</p>
 
 <p>
@@ -2781,9 +2782,9 @@ universe, as expected.</p>
 
 <p>
 Although some CA topics are still relatively untouched by philosophers
-(e.g., the nature of space and time (see Wolfram 2002: 481&ndash;496),
+(e.g., the nature of space and time [see Wolfram 2002: 481&ndash;496],
 the representation of knowledge in Artificial Intelligence (see Berto,
-Rossi, Tagliabue: 15&ndash;26), the relationship between information
+Rossi, &amp; Tagliabue: 15&ndash;26), the relationship between information
 and energy (see Fredkin &amp; Toffoli 1982)), there are many
 conceptual challenges raised in connection with CA. While in some
 cases the CA contribution was indeed overrated by practitioners, in
@@ -2834,7 +2835,7 @@ developments are still needed for
 Miller &amp; Page 2007 and Mitchell 2009 both contain a chapter
 devoted to CA: they are accessible introductions written by notable
 scholars. Ilachinski 2001 is an excellent starting point for the
-exploration of the CA literature: although not up-to-date on some
+exploration of the CA literature: although not up to date on some
 technical points, the volume nicely introduces the field and covers
 its most important applications. Wolfram 2002 took some twenty-years
 and 1200 pages to be finished and is a passionate journey including
@@ -2888,8 +2889,8 @@ J. Tomberlin (ed.), Oxford: Blackwell Publishers, pp. 375&ndash;399.
 doi:10.1111/0029-4624.31.s11.17</li>
 
 <li>Beraldo-de-Ara&uacute;jo, Anderson and Lorenzo Baravalle,
-forthcoming, &ldquo;The Ontology of Digital Physics&rdquo;,
-<em>Erkenntnis</em>, first published online 19 December 2016,
+2017, &ldquo;The Ontology of Digital Physics&rdquo;,
+<em>Erkenntnis</em>, 82: 1211&ndash;1231.
 doi:10.1007/s10670-016-9866-y</li>
 
 <li>Berto, Francesco, Gabriele Rossi, and Jacopo Tagliabue, 2010,
@@ -3363,7 +3364,10 @@ Aaronson, Anouk Barberousse, Matteo Colombo, Michele Di Francesco,
 Cyrille Imbert, Giulia Livio, Massimo Mastrangeli, Mattia Pavoni,
 Andrea Polonioli, Gabriele Rossi, Marta Rossi, Katherine Yoshida for
 helpful comments, discussions, suggestions, and references, and Dr.
-Robert Plant for checking our English. </p>
+Robert Plant for checking our English. The editors would like to thank
+Christopher von B&uuml;low for pointing out a number of infelicities,
+including typographical errors, formatting issues, etc..</p>
+
 </div>
 <script type="text/javascript" src="local.js"></script>
 <script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
@@ -3404,7 +3408,7 @@ Jacopo Tagliabue
 
       <div id="footer-menu">
         <div class="menu-block">
-          <h4><i class="icon-book"></i> Browse</h4>
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
           <ul role="menu">
             <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
             <li role="menuitem"><a href="../../new.html">What's New</a></li>
@@ -3414,7 +3418,7 @@ Jacopo Tagliabue
           </ul>
         </div>
         <div class="menu-block">
-          <h4><i class="icon-info-sign"></i> About</h4>
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
           <ul role="menu">
             <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
             <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
@@ -3427,7 +3431,7 @@ Jacopo Tagliabue
           </ul>
         </div>
         <div class="menu-block">
-          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
           <ul role="menu">
             <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
             <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
@@ -3439,7 +3443,7 @@ Jacopo Tagliabue
 
       <div id="mirrors">
         <div id="mirror-info">
-          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
           <p>View this site from another server:</p>
         </div>
         <div class="btn-group open">
@@ -3454,7 +3458,7 @@ Jacopo Tagliabue
       </div> <!-- End mirrors -->
       
       <div id="site-credits">
-        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
         <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
       </div> <!-- End site credits -->
 

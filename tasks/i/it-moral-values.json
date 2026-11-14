@@ -2,7 +2,7 @@
   "slug": "it-moral-values",
   "kind": "retranslate",
   "zh_doc": "i/it-moral-values.md",
-  "state": "done",
+  "state": "pending",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "I-main-20261110",
       "at": "2026-11-09T22:03:07Z",
       "evidence": "I 批在途件收口：账本 114 段守恒、成稿 55376 字符 415 行、六道留痕齐备；done"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "adr0045-sync",
+      "at": "2026-11-14T21:48:08Z",
+      "evidence": "上游实质修订（2026-11-15 实际比较，compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"
     }
   ],
   "blockers": [],

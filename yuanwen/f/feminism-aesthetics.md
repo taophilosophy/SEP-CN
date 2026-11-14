@@ -544,7 +544,7 @@ Aristotle, General Topics: aesthetics | feminist philosophy, interventions: hist
 
 [^roelofs-2005]: –––, 2005. “Racialization as an Aesthetic Production: What Does the Aesthetic Do for Whiteness and Blackness and Vice Versa?” *White on White/Black on Black*, George Yancy (ed.), Lanham, MD: Rowman and Littlefield, 83–124.
 
-[^roelofs-2009]: Roelofs, Monique (ed.), 2009. *Aesthetics and Race: New Philosophical Perspectives* (special issue of *Contemporary Aesthetics*: Volume 2). [[Roelofs (ed.) 2009 available online](http://www.contempaesthetics.org/newvolume/pages/journal.php?volume=41)]
+[^roelofs-2009]: Roelofs, Monique (ed.), 2009. *Aesthetics and Race: New Philosophical Perspectives* (special issue of *Contemporary Aesthetics*: Volume 2). [[Roelofs (ed.) 2009 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss2/)]
 
 [^ross-2016]: Ross, Sheryl Tuttle, 2016. “*(500) Days of Summer*: A Postmodern Romantic Comedy.” *Aesthetics and Gender* (special issue of *The Polish Journal of Aesthetics*), 41(2): 155–175.
 
@@ -560,7 +560,7 @@ Aristotle, General Topics: aesthetics | feminist philosophy, interventions: hist
 
 [^scheman-1993]: Scheman, Naomi, 1993. “Thinking about Quality in Women’s Visual Art,” *Engenderings: Constructions of Knowledge, Authority, and Privilege*, New York: Routledge.
 
-[^sheth-2009]: Sheth, Falguni A., 2009. “The Hijab and the Sari: The Strange and the Sexy between Colonialism and Global Capitalism,” *Contemporary Aesthetics* (special issue: Volume 2). [[Sheth 2009 available online.](http://www.contempaesthetics.org/newvolume/pages/journal.php?volume=41)
+[^sheth-2009]: Sheth, Falguni A., 2009. “The Hijab and the Sari: The Strange and the Sexy between Colonialism and Global Capitalism,” *Contemporary Aesthetics* (special issue: Volume 2). [[Sheth 2009 available online.](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss2/)
 
 [^sheth-2019]: –––, 2019. “The Production of Acceptable Muslim Women in the United States,” *Journal of Aesthetics and Art Criticism*, 77(4): 411–22.
 

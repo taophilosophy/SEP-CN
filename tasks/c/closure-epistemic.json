@@ -2,7 +2,7 @@
   "slug": "closure-epistemic",
   "kind": "retranslate",
   "zh_doc": "c/closure-epistemic.md",
-  "state": "done",
+  "state": "pending",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "R-main-20261110",
       "at": "2026-11-10T08:23:11Z",
       "evidence": "r1–r3 收口，四门禁绿、账本守恒；两处源缺陷（缺右括号、a-c 指称）照录登记"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "adr0045-sync",
+      "at": "2026-11-14T21:48:08Z",
+      "evidence": "上游实质修订（2026-11-15 实际比较，compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"
     }
   ],
   "blockers": [],

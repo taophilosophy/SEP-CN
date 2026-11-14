@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T21:38:59Z",
+  "updated_at": "2026-11-14T21:43:25Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -125,17 +125,27 @@
     {
       "slug": "emotion-Christian-tradition",
       "path": "en/emotion-Christian-tradition/index.html",
-      "upstream_sha256": "9dee7a3d14ed8a004d3588d5d1a074ae597973ff7186a1c3d6532b938d291457",
-      "local_sha256": "957cf352d9a567db96bc7d230fc2db57437db99034ff330ec39ce39625bc2f68",
+      "upstream_sha256": "0a945aed13565ccdf12d00100ca08be28657b101abf87777c30c3b7d68d5e4bd",
+      "local_sha256": "5798e63cd55eef8f88de32cf7c92ab9a77b32b90a60aeab24759f8278827d6e7",
       "bytes": {
-        "upstream": 84894,
-        "local": 84895
+        "upstream": 94396,
+        "local": 94141
       },
       "commit": "dfe3c7d9c91aef35643d36e476a741dad3c30dc5",
       "subject": "015 偿还 emotion-Christian-tradition：引称年份、书目体例与术语拼写（en 同改）",
-      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：引称年份、书目体例与术语拼写（en 同改）",
-      "registered_at": "2026-11-14T18:10:06Z"
+      "registered_at": "2026-11-14T18:10:06Z",
+      "base_snapshot": "specs/001-sep-sync-pipeline/results/upstream-snapshots/emotion-Christian-tradition-20261114T214324Z.html",
+      "history": [
+        {
+          "event": "carry",
+          "at": "2026-11-14T21:43:25Z",
+          "from_upstream_sha256": "9dee7a3d14ed8a004d3588d5d1a074ae597973ff7186a1c3d6532b938d291457",
+          "to_upstream_sha256": "0a945aed13565ccdf12d00100ca08be28657b101abf87777c30c3b7d68d5e4bd",
+          "conflicts": 0,
+          "merged": "manual"
+        }
+      ]
     },
     {
       "slug": "epictetus",
@@ -365,17 +375,27 @@
     {
       "slug": "academic-freedom",
       "path": "en/academic-freedom/index.html",
-      "upstream_sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
-      "local_sha256": "6255c2996f187f0573826cf1c352580cb5572b9824ea3a17533219be5f05bd9f",
+      "upstream_sha256": "02bc1b992c938168dbc935fe9967aad8ce308ccf7548f9d075a6eaa05d63e416",
+      "local_sha256": "f535d1af6df3038adb5387f3071817682c64589f735a8d10b6837edae5073a3a",
       "bytes": {
-        "upstream": 137134,
-        "local": 137134
+        "upstream": 136897,
+        "local": 136897
       },
       "commit": "1d927d559dd7ee0f3f71928897e4ce68b28d2166",
       "subject": "023 首条审校：academic-freedom 双轴逐行走查（en 勘误 3 处三层落位、镜像零缺陷、译文轴零缺陷），台账起记",
-      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "test",
-      "registered_at": "2026-11-14T19:37:47Z"
+      "registered_at": "2026-11-14T19:37:47Z",
+      "base_snapshot": "specs/001-sep-sync-pipeline/results/upstream-snapshots/academic-freedom-20261114T213701Z.html",
+      "history": [
+        {
+          "event": "carry",
+          "at": "2026-11-14T21:37:01Z",
+          "from_upstream_sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
+          "to_upstream_sha256": "02bc1b992c938168dbc935fe9967aad8ce308ccf7548f9d075a6eaa05d63e416",
+          "conflicts": 0,
+          "merged": "auto"
+        }
+      ]
     },
     {
       "slug": "action",
@@ -650,17 +670,27 @@
     {
       "slug": "incompatibilism-theories",
       "path": "en/incompatibilism-theories/index.html",
-      "upstream_sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782",
-      "local_sha256": "40c05cf8209af4cdd8be841c852940b891413b7849af4c79ed1f252795afe8bb",
+      "upstream_sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f",
+      "local_sha256": "d6c62ed7dd62bb37185bb07cd82325ecf69df790ea7ec785b7653d5f2cdb2da7",
       "bytes": {
-        "upstream": 101115,
-        "local": 101115
+        "upstream": 101092,
+        "local": 101092
       },
       "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
       "subject": "！",
-      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:58Z"
+      "registered_at": "2026-11-14T19:39:58Z",
+      "base_snapshot": "specs/001-sep-sync-pipeline/results/upstream-snapshots/incompatibilism-theories-20261114T213705Z.html",
+      "history": [
+        {
+          "event": "carry",
+          "at": "2026-11-14T21:37:05Z",
+          "from_upstream_sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782",
+          "to_upstream_sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f",
+          "conflicts": 0,
+          "merged": "auto"
+        }
+      ]
     },
     {
       "slug": "intellectual-property",
@@ -875,17 +905,27 @@
     {
       "slug": "logic-provability",
       "path": "en/logic-provability/index.html",
-      "upstream_sha256": "31ac09d95f06bd5c5b498c64f8da0825effc6f4ef2a442b050b730b00f838e37",
-      "local_sha256": "45542443ce0a09f69ddcc79da353b48cd398154dab9be517c9dfa8dcd0a84283",
+      "upstream_sha256": "7fb4661215d94936e2c978dcf45799d821941cd8976d8c4b5fc53e05d7ec3801",
+      "local_sha256": "8cfde687cf4bfe53ddd5b8829b8724b1d732976affe9d863bd1322ee4ac05122",
       "bytes": {
-        "upstream": 115408,
-        "local": 115408
+        "upstream": 115458,
+        "local": 115458
       },
       "commit": "a2b29aea572a89fcc07436c75fca80b12200a634",
       "subject": "！",
-      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:06Z"
+      "registered_at": "2026-11-14T19:40:06Z",
+      "base_snapshot": "specs/001-sep-sync-pipeline/results/upstream-snapshots/logic-provability-20261114T213708Z.html",
+      "history": [
+        {
+          "event": "carry",
+          "at": "2026-11-14T21:37:08Z",
+          "from_upstream_sha256": "31ac09d95f06bd5c5b498c64f8da0825effc6f4ef2a442b050b730b00f838e37",
+          "to_upstream_sha256": "7fb4661215d94936e2c978dcf45799d821941cd8976d8c4b5fc53e05d7ec3801",
+          "conflicts": 0,
+          "merged": "auto"
+        }
+      ]
     },
     {
       "slug": "lorenzo-valla",

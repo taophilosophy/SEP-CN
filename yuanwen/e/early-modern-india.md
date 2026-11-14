@@ -674,7 +674,7 @@ These are recognisably versions of De Morgan’s Laws, that ¬(*A* & *B*) ≡ ¬
 
 ## Other Internet Resources
 
-- [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
+- [Göttingen Register of Electronic Texts in Indian Languages](https://gretil.sub.uni-goettingen.de/gretil.html), including several in Nyāya and Vaiśeṣika.
 
 ## Related Entries
 

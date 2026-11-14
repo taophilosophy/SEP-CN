@@ -200,7 +200,7 @@ Feminist bioethics continues to develop in response to medical and life science 
 
 ## Related Entries
 
-ethics, biomedical: theory | ethics: virtue | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: moral psychology | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on autonomy | feminist philosophy, topics: perspectives on disability | feminist philosophy, topics: perspectives on power | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on the body | feminist philosophy, topics: perspectives on the self | parenthood and procreation | paternalism | public health: ethics | trust | well-being
+bioethics: and moral reasoning | ethics: virtue | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: moral psychology | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on autonomy | feminist philosophy, topics: perspectives on disability | feminist philosophy, topics: perspectives on power | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on the body | feminist philosophy, topics: perspectives on the self | parenthood and procreation | paternalism | public health: ethics | trust | well-being
 
 ### Acknowledgments
 

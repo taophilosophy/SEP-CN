@@ -481,7 +481,7 @@ analysis | Anscombe, Gertrude Elizabeth Margaret | certainty | empiricism: logic
 
 [^fogelin-2009]: –––, 2009, *Taking Wittgenstein at His Word: A Textual Study*, Princeton: Princeton University Press.
 
-[^frascola-1994]: Frascola, Pascola, 1994, *Wittgenstein’s Philosophy of Mathematics*, London: Routledge.
+[^frascolla-1994]: Frascolla, Pasquale, 1994, *Wittgenstein’s Philosophy of Mathematics*, London: Routledge.
 
 [^friedlander-2001]: Friedlander, Eli, 2001, *Signs of Sense – Reading Wittgenstein’s* Tractatus, Cambridge, MA: Harvard University Press.
 

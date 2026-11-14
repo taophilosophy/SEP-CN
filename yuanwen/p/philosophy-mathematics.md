@@ -382,7 +382,7 @@ For an example, let us briefy return to the subject of computer proofs (see sect
 - [Mathematics, Foundations of](https://www.rep.routledge.com/articles/overview/mathematics-foundations-of/v-1), by Detlefsen, M., Routledge Encyclopedia of Philosophy
 - [Category Archives: Philosophy of Mathematics](http://www.iep.utm.edu/category/s-l-m/math/), *Internet Encyclopedia of Philosophy*
 - [The Infinite](http://www.iep.utm.edu/infinite/), entry by Bradley Dowden, *Internet Encyclopedia of Philosophy*
-- [FOM – Foundations Of Mathematics](http://www.cs.nyu.edu/mailman/listinfo/fom/), e-mail discussion forum
+- [FOM – Foundations Of Mathematics](https://mathweb.ucsd.edu/~sbuss/FOM/), e-mail discussion forum
 
 ## Related Entries
 

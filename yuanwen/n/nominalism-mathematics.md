@@ -462,7 +462,7 @@ But are deflationary nominalists really changing the rules of the debate? If Qui
 
 ## Other Internet Resources
 
-- [FOM: Foundations of Mathematics](http://www.cs.nyu.edu/mailman/listinfo/fom/) mailing list
+- [FOM: Foundations of Mathematics](https://mathweb.ucsd.edu/~sbuss/FOM/) mailing list
 
 ## Related Entries
 
