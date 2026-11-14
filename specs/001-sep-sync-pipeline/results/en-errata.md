@@ -134,3 +134,9 @@
 | arabic-islamic-mysticism | `Nasir Khusraw:The Ruby of Badakhshan` | 冒号后补空格 | 排印（①） |
 | arabic-islamic-mysticism | `<i>Classical</i> <i>Persian Sufism…</i>` | 合为一处斜体 | 书名被切断（①） |
 | arabic-islamic-mysticism | `Hunsburger`（正文两处与书目） | `Hunsberger` | 作者正名 Alice C. Hunsberger（①） |
+| equal-ed-opportunity | `39(4): 137&ndash;1176`（doi 10.1257/jel.39.4.1137） | `1137&ndash;1176` | doi 自证起页（②③） |
+| equal-ed-opportunity | `Social Epigentics and Equality of Opportunity` | `Social Epigenetics` | 拼写（①） |
+| equal-ed-opportunity | `<em>Finnish lessons</em>` | `<em>Finnish Lessons</em>` | 书题大小写（①） |
+| equal-ed-opportunity | `Russel Sage Foundation`（reardon-2011 条） | `Russell Sage` | 出版者正名，同页另一条即作 Russell（②） |
+| equal-ed-opportunity | `Erica Weather,` | `Erica Weathers,` | 同页正文两处作 Weathers（②） |
+| equal-ed-opportunity | `Institute for Higher Education, 1998` | `Institute for Higher Education Policy` | 同页正文作全名，机构正名（②） |
