@@ -169,6 +169,7 @@ def map_zh(changes, zh_doc):
 
 def _divergence_for(path, pin):
     """该路径的批准分歧登记（upstream_sha256 须与原始钉相符才算有效）。"""
+    path = path.replace(os.sep, "/")  # Windows repo_path 为反斜杠，账内统一正斜杠
     for d in load_divergences().get("divergences", []):
         if d.get("path") == path and (pin is None or d.get("upstream_sha256") == pin):
             return d
