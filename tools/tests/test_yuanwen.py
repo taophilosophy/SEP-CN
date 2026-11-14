@@ -303,5 +303,92 @@ class TestGuardRails(unittest.TestCase):
         self.assertIn('section two body.', text)
 
 
+class TestNestedTables20261114(unittest.TestCase):
+    """specs/018 转换器战役：嵌套表原样 HTML 透传 + li/dd 内表真表渲染
+    （020 移交缺陷：嵌套降级 16 件/128 处、li/dd 吞表 10 件/41 表）。"""
+
+    def test_nested_table_html_passthrough(self):
+        # 单元格内嵌套公式盒：原样 HTML 透传，不再降级为「（嵌套表：…）」
+        html = ('<table><tr><td>outer</td>'
+                '<td>inner<table><tr><td>x</td><td>y</td></tr></table></td>'
+                '<td>\\(z\\)</td></tr></table>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('<table>', text)
+        self.assertIn('（嵌套表：', text + '（无降级标记）') or True
+        self.assertNotIn('（嵌套表：', text)
+        # 内层数学定界符随行内约定转 $（消毒三步之一）
+        self.assertIn('<td>\\(z\\)</td>', text) or self.assertIn('<td>$z$</td>', text)
+
+    def test_nested_table_sanitized(self):
+        # 消毒：font 剥壳保内容；\(\)→$；|→&#124;；压成单行
+        html = ('<table><tr><td>'
+                '<table><tr><td><font size="+2">|</font></td>'
+                '<td>\\(a &lt; b\\)</td></tr></table>'
+                '</td></tr></table>')
+        out = inline_to_md('<td>' + html + '</td>', slug='t')
+        self.assertNotIn('<font', out)
+        self.assertIn('&#124;', out)
+        self.assertNotIn(' <table', out.replace('&lt;', 'LT'))
+        # 单行化：段内无换行
+        self.assertNotIn('\n<table', out)
+
+    def test_nested_table_img_src_rewritten(self):
+        html = ('<table><tr><td><table><tr>'
+                '<td><img src="triangle-s-dagger.jpg" alt="x" /></td>'
+                '</tr></table></td></tr></table>')
+        out = inline_to_md(html, slug='t')
+        self.assertIn('../assets/t/triangle-s-dagger.jpg', out)
+
+    def test_li_table_indented_md_table(self):
+        # 列表项内嵌真表：内容列缩进的 md 表，不再剥壳降为裸文本
+        html = ('<ul><li>rule text'
+                '<table><tr><td>a</td><td>b</td></tr>'
+                '<tr><td>1</td><td>2</td></tr></table>'
+                'trailing</li></ul>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('- rule text', text)
+        self.assertIn('\n  | a | b |', text)
+        self.assertIn('\n  | --- | --- |', text)
+        self.assertIn('\n\n  trailing', text)
+        self.assertNotIn('<table', text)
+
+    def test_dd_table_emitted(self):
+        # dd 内嵌真表：文本段与表段按序完整转出
+        html = ('<dl><dt>term</dt><dd>def text'
+                '<table><tr><td>x</td></tr></table>'
+                'after</dd></dl>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('def text', text)
+        self.assertIn('| x |', text)
+        self.assertNotIn('<table', text)
+
+    def test_table_to_md_accepts_full_table_html(self):
+        # 容错剥壳：传入含外层 <table> 标签的完整表 HTML 不得自吞成哨兵
+        out = render_one_table('<table><tr><td>a</td></tr></table>')
+        self.assertIn('| a |', out)
+
+    def test_bib_li_table_kept(self):
+        # 书目列表项内嵌表：引用定义里原样保留（saadya 4 件实证）
+        from tools.yuanwen import build_cite_keys
+        bib_p = '<h2>References</h2><ul><li>Author, <i>Book</i>' \
+                '<table><tr><td>(a)</td><td>edition one</td></tr></table></li></ul>'
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(bib_p), ctx)
+        keys = build_cite_keys(ctx.bib_entries)
+        self.assertTrue(any('<table>' in k['text'] for k in keys),
+                        '书目条目内的表不得丢失')
+
+
+def render_one_table(full_html):
+    from tools.yuanwen import table_to_md
+    return table_to_md(full_html, 't')
+
+
 if __name__ == '__main__':
     unittest.main()

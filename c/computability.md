@@ -14,7 +14,7 @@
 
 作为这一判定问题的特例，希尔伯特考虑了一阶逻辑的有效性（判定）问题。一阶逻辑是一种数学语言，大多数数学陈述都可在其中表述。一阶逻辑的每个陈述在每个适当逻辑结构中都有精确意义：它在每个这样的结构中非真即假。凡在每个适当结构中为真的陈述，称为 **有效的**（valid）；凡在某个结构中为真的陈述，称为 **可满足的**（satisfiable）。注意，一个公式 $\varphi$ 是有效的，当且仅当其否定 $\neg \varphi$ 不可满足。
 
-希尔伯特把一阶逻辑的有效性（判定）问题称为*Entscheidungsproblem*（判定问题）。在希尔伯特与阿克曼合著的教科书《数理逻辑原理》（*Principles of Mathematical Logic*）中，作者写道：“当我们掌握了一种程序，它允许对任何给定的逻辑表达式经有限次运算判定其有效性或可满足性时，Entscheidungsproblem 即告解决。……*Entscheidungsproblem* 必须被视为数理逻辑的主要问题。”（Böerger, Grädel, & Gurevich 1997）。
+希尔伯特把一阶逻辑的有效性（判定）问题称为*Entscheidungsproblem*（判定问题）。在希尔伯特与阿克曼合著的教科书《数理逻辑原理》（*Principles of Mathematical Logic*）中，作者写道：“当我们掌握了一种程序，它允许对任何给定的逻辑表达式经有限次运算判定其有效性或可满足性时，Entscheidungsproblem 即告解决。……*Entscheidungsproblem* 必须被视为数理逻辑的主要问题。”（Böerger, Grädel, & Gurevich 1997）[^böerger-1997]。
 
 在其 1930 年的博士论文中，哥德尔给出了一阶逻辑的一个完全公理化，它基于怀特海（Alfred North Whitehead）与罗素（Bertrand Russell）的《数学原理》（*Principia Mathematica*）（Gödel 1930）[^gödel-1930]。哥德尔证明了他的完备性定理，即一个公式可由公理证明，当且仅当它是有效的。哥德尔的完备性定理，是迈向解决希尔伯特*Entscheidungsproblem*的一步。
 

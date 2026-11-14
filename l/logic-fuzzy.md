@@ -8,7 +8,7 @@
 
 “模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 **度** 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017。
 
-数学模糊逻辑关注以“部分真”的真值函项说明为基础的逻辑，并按经典数学逻辑的路子来研究：句法、模型论语义、证明系统、完全性等，命题层面和谓词层面都要管（见 Cintula, Fermüller, Hájek, & Noguera 2011、2015）。
+数学模糊逻辑关注以“部分真”的真值函项说明为基础的逻辑，并按经典数学逻辑的路子来研究：句法、模型论语义、证明系统、完全性等，命题层面和谓词层面都要管（见 Cintula, Fermüller, Hájek, & Noguera 2011、2015）[^cintula-2015][^cintula-2011][^fermüller-2015][^hájek-2011]。
 
 ## 1 基于 t-范数的模糊联结词
 
@@ -16,7 +16,7 @@
 
 这三个真值函项就是 Joseph Goguen（1975）最初提出的模糊逻辑语义，后来 Gehrke, Walker, & Walker（1997）等人对之作了形式研究。不少人仍把它称作“模糊逻辑”。但人们很快看出，这个语义框架太单薄：既编码不了推理的许多有趣方面，也撑不起一套完整的数学逻辑理论。
 
-通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 **t-范数**（**三角范数**），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）。著名 t-范数有：前文提过的 $\min$、实数标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 **序和**（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
+通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 **t-范数**（**三角范数**），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）[^klement-2000]。著名 t-范数有：前文提过的 $\min$、实数标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 **序和**（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
 
 有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 **剩余条件**：$$ x \ast y \leq z\ \text{ 当且仅当 }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
 
@@ -50,15 +50,15 @@ Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是�
 
 ## 5 其他值得注意的模糊逻辑
 
-除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 **诱导** 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 **连续** t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情况下，公理化刻画的是从 **有限** 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
+除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 **诱导** 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 **连续** t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^esteva-2003][^esteva-2003-2][^haniková-2014]；多数情况下，公理化刻画的是从 **有限** 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
 
 也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 **指定值**。[^note-3] 要引入有多个指定真值度的逻辑，办法之一是让 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
 
-同理，也有人反对 & 可交换，甚至反对它可结合。所得逻辑的公理化文献里有（见 Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003）；例外是非交换 uninorm 的逻辑，目前还没有已知的自然公理系统。
+同理，也有人反对 & 可交换，甚至反对它可结合。所得逻辑的公理化文献里有（见 Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003）[^cintula-2013]；例外是非交换 uninorm 的逻辑，目前还没有已知的自然公理系统。
 
-最后，模糊逻辑和经典逻辑不同，通常不是函项完全的，所以可以加新联结词来增强表达力。最常加的有：对每个有理数 $r\in (0,1)$ 的真常项 $\bar r$；一元联结词 $\sim$ 与 $\triangle$，前者解释为 ${\sim}x = 1-x$，后者在 $x=1$ 时取 $\triangle x = 1$、否则取 $0$；二元联结词 $\odot$，解释为通常的代数乘积；等等（Baaz 1996; Esteva, Gispert, Godo, & Noguera 2007; Esteva, Godo, & Montagna 2001; Esteva, Godo, Hájek, & Navara 2000）[^baaz-1996][^montagna-2001]。
+最后，模糊逻辑和经典逻辑不同，通常不是函项完全的，所以可以加新联结词来增强表达力。最常加的有：对每个有理数 $r\in (0,1)$ 的真常项 $\bar r$；一元联结词 $\sim$ 与 $\triangle$，前者解释为 ${\sim}x = 1-x$，后者在 $x=1$ 时取 $\triangle x = 1$、否则取 $0$；二元联结词 $\odot$，解释为通常的代数乘积；等等（Baaz 1996; Esteva, Gispert, Godo, & Noguera 2007; Esteva, Godo, & Montagna 2001; Esteva, Godo, Hájek, & Navara 2000）[^baaz-1996][^esteva-2007][^esteva-2001][^esteva-2000][^esteva-2001-2][^godo-2000][^hájek-2000][^montagna-2001]。
 
-本节提到的各类命题模糊逻辑（及其一般理论），详尽综述见 *Handbook of Mathematical Fuzzy Logic*（3 卷，Cintula et al. 2011a,b, 2015）[^cintula-2011a]。
+本节提到的各类命题模糊逻辑（及其一般理论），详尽综述见 *Handbook of Mathematical Fuzzy Logic*（3 卷，Cintula et al. 2011a,b, 2015）[^cintula-2015][^cintula-2011a]。
 
 ## 6 谓词逻辑
 

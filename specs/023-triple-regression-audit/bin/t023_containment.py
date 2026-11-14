@@ -34,6 +34,17 @@ def norm(s):
     return re.sub(r'[^0-9a-z\u4e00-\u9fff]+', '', s.lower())
 
 
+def norm_yw(s):
+    """yw 侧归一化：md 文件里有字面 `<`（数学 β<λ、x<y），裸 `<[^>]+>` 会
+    跨行吞内容——改剥「标签形」（`<` 后跟字母或 /）；再剥图片接线与引注
+    标记（转换器插入的 [^key] 会让行内连续性中断）。"""
+    s = re.sub(r'!\[[^\]]*\]\([^)]*\)', ' ', s)
+    s = re.sub(r'\[\^[^\]\s]+\](?!:)', ' ', s)
+    s = re.sub(r'</?[a-zA-Z][^>]*>', ' ', s)
+    s = htmllib.unescape(s).translate(SUBSUP)
+    return re.sub(r'[^0-9a-z\u4e00-\u9fff]+', '', s.lower())
+
+
 NOTE_REF_RE = re.compile(
     r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
 
@@ -71,10 +82,7 @@ def yw_norm(slug):
     p = os.path.join(ROOT, 'yuanwen', letter, slug + '.md')
     if not os.path.isfile(p):
         return None
-    text = open(p, encoding='utf-8', errors='replace').read()
-    # 图片接线 ![alt](path)：alt 文本插在行中间会破坏包含性判定，整段剥除
-    text = re.sub(r'!\[[^\]]*\]\([^)]*\)', ' ', text)
-    return norm(text)
+    return norm_yw(open(p, encoding='utf-8', errors='replace').read())
 
 
 def report(slug):

@@ -126,7 +126,7 @@ Physics needs some new computers soon（物理系很快需要一些新电脑）
 
 中，把‘soon’（很快）理解为修饰‘needs’（需要）没什么道理；它似乎反而修饰一个隐藏的‘get’（获得）或‘have’（拥有），正如在‘Physics needs to get some new computers soon’（物理系需要很快获得一些新电脑）中所明确的那样，即‘Physics needs it to be the case that, for some new computers, it gets them soon’（物理系需要这样：对一些新电脑，它很快获得它们）。（这里的‘get’是‘receives’（收到）的意义；关于‘get’与‘have’，见 Harley 2004。）[^harley-2004]
 
-其次，有命题照应现象（den Dikken, Larson, & Ludlow 2018, 52–3），用
+其次，有命题照应现象（den Dikken, Larson, & Ludlow 2018, 52–3）[^dikken-2018]，用
 
 **(8)**
 
@@ -172,11 +172,11 @@ Physics will seek more office space by noon（物理系将在中午前寻求更�
 
 ## 4 蒙太古语义学
 
-对 ITV 的主要非命题主义进路始于理查德·蒙太古的工作，尤其是他的论文《普通英语中量化的恰当处理》（“The Proper Treatment of Quantification in Ordinary English”，R. Montague 1973，文献中通常简称 PTQ）[^montague-1973]；蒙太古的条件（9）（1974, 264）把‘seek’定义为‘try to find’（试图找到），但这是可选的。蒙太古发展了一种基于 **高阶内涵类型论**的自然语言系统语义学；关于可读的导论，见（Dowty et al., 1981）。我们从右到左解释“高阶内涵类型论”这个术语。
+对 ITV 的主要非命题主义进路始于理查德·蒙太古的工作，尤其是他的论文《普通英语中量化的恰当处理》（“The Proper Treatment of Quantification in Ordinary English”，R. Montague 1973，文献中通常简称 PTQ）[^montague-1973]；蒙太古的条件（9）（1974, 264）把‘seek’定义为‘try to find’（试图找到），但这是可选的。蒙太古发展了一种基于 **高阶内涵类型论**的自然语言系统语义学；关于可读的导论，见（Dowty et al., 1981）[^dowty-1981]。我们从右到左解释“高阶内涵类型论”这个术语。
 
 类型论以 **函数应用**的方式体现了一种具体的语义组合性模型。根据这一模型，如果两个表达式 *x* 和 *y* 可以连接成一个有意义的表达式 *xy*，那么（i）其中一个表达式的意义被当作一个函数，（ii）另一个表达式的意义被当作该函数所定义的那种类型的一个项，（iii）** xy* 的意义是该函数应用到输入时的输出。这一意义的类型论表示写作 **x(y)**或**y(x)**，取决于哪个表达式被当作函数、哪个被当作输入或主目。像 **x(y)**这样的函数应用被称为**良类型的**，当且仅当 **y**所指称的输入是函数**x** 所定义的输入类型。
 
-例如，在 **简单类型论**中，像‘sweater’（毛衣）这样的普通名词被指派如下类型的意义：从**个体**到**真值** 的函数（简言之，类型 *ib* 的函数，其中 *b* 表示“布尔”；这一记号是 Carpenter 1997 中记号的压缩版）。对‘sweater’而言，所论函数是把所有毛衣映到真值 TRUE、把其他所有个体映到真值 FALSE 的那个函数。另一方面，一个（“交集性的”）形容词如‘woollen’（羊毛的）会被指派如下类型的意义：从（从个体到真值的函数）到（从个体到真值的函数）的函数，简言之类型 (*ib*)(*ib*) 的函数。于是‘woollen’的意义可以把‘sweater’的意义（一个 *ib*）作为输入，产生‘woollen sweater’（羊毛毛衣）的意义（另一个 *ib*）作为输出；这就是为什么‘woollen’的意义具有类型 (*ib*)(*ib*)。**woollen(sweater)** 是那种把羊毛制的毛衣映到 TRUE、把其他所有个体映到 FALSE 的具体 *ib* 类型函数。
+例如，在 **简单类型论**中，像‘sweater’（毛衣）这样的普通名词被指派如下类型的意义：从**个体**到**真值** 的函数（简言之，类型 *ib* 的函数，其中 *b* 表示“布尔”；这一记号是 Carpenter 1997 中记号的压缩版）[^carpenter-1997]。对‘sweater’而言，所论函数是把所有毛衣映到真值 TRUE、把其他所有个体映到真值 FALSE 的那个函数。另一方面，一个（“交集性的”）形容词如‘woollen’（羊毛的）会被指派如下类型的意义：从（从个体到真值的函数）到（从个体到真值的函数）的函数，简言之类型 (*ib*)(*ib*) 的函数。于是‘woollen’的意义可以把‘sweater’的意义（一个 *ib*）作为输入，产生‘woollen sweater’（羊毛毛衣）的意义（另一个 *ib*）作为输出；这就是为什么‘woollen’的意义具有类型 (*ib*)(*ib*)。**woollen(sweater)** 是那种把羊毛制的毛衣映到 TRUE、把其他所有个体映到 FALSE 的具体 *ib* 类型函数。
 
 在这一框架中，像‘every sweater’（每件毛衣）这样的量化 NP 具有这样的意义：它可以把一个不及物动词（如‘unravelled’（散开了））的意义，或更一般地说一个动词短语（VP）的意义，作为输入，并产生一个句子（如‘every sweater unravelled’（每件毛衣散开了））的意义（真值）作为输出。不及物动词和 VP 与普通名词一样，属于类型 *ib*。例如，VP **quickly(unravelled)** 属于类型 *ib*，把所有并且仅把迅速散开了的个体映到 TRUE。所以量化 NP 是从 *ib* 类型输入到 *b* 类型输出的函数，因而属于类型 (*ib*)*b*。‘Every sweater unravelled quickly’（每件毛衣迅速散开了）会被表示为 **(every(sweater))(quickly(unravelled))**，它会指称这样的真值：把类型 (*ib*)*b* 的意义，即 **every(sweater)** 的意义，应用到类型 *ib* 的意义，即 **quickly(unravelled)**的意义（副词**quickly**本身像形容词**woollen** 一样，属于类型 (*ib*)(*ib*)）。专门针对 **every**的规则保证：当且仅当无论**sweater** 映到 TRUE 的是什么，**quickly(unravelled)** 都映到 TRUE，**every(sweater)**才把**quickly(unravelled)** 映到 TRUE。
 
