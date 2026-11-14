@@ -32,19 +32,24 @@ class LoneGreekC10(unittest.TestCase):
         self.assertNotIn("C10", self._codes("即若 $\\varphi \\in A$，则 $\\neg\\varphi$ 亦在。\n"))
 
     def test_subscripted_not_flagged(self):
-        self.assertNotIn("C10", self._codes("第一条把 $\\alpha_1$ 换成 $\\alpha$。\n"))
+        self.assertNotIn("C10", self._codes("第一条把 $\\alpha_1$ 换成 $\\mathsf{skip}$。\n"))
 
     def test_upright_delta_not_flagged(self):
         self.assertNotIn("C10", self._codes("Δ 是 *IC* 融合算子。\n"))
 
     def test_c10_is_warn_level(self):
+        import io
+        from contextlib import redirect_stdout
         from tools.check_math_zh import main
         fd, path = tempfile.mkstemp(suffix=".md")
         try:
             with os.fdopen(fd, "w", encoding="utf-8") as f:
                 f.write("解释 $\\omega$ 与 *K* 之间。\n")
-            rc = main([path])
+            buf = io.StringIO()
+            with redirect_stdout(buf):
+                rc = main([path])
             self.assertEqual(rc, 0, "C10 是告警级，不得影响退出码")
+            self.assertIn("C10", buf.getvalue(), "告警级仍须逐条打印")
         finally:
             os.remove(path)
 

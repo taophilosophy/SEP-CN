@@ -256,6 +256,50 @@ class TestTaskOps(unittest.TestCase):
         t = task_ops.advance("test-n1", "audit", actor="rev", evidence="三向比对记录")
         self.assertEqual(t["state"], "s2.5_checked")
 
+    def test_reopen_upstream_sync_from_s25(self):
+        # R3（ADR-0051）：在途 s2.5_checked 遇上游实质修订——无 flag 拒绝（禁跳步），
+        # --upstream-sync 显式绕过打回 pending，step 留 bypass 标记
+        md = self._md("u.md", "# 测试标题\n\n旧译文。\n")
+        task_ops.create("test-u2", "retranslate", zh_doc=md)
+        task_ops.clear("test-u2")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-u2", step, actor="t", evidence="e")
+        task_ops.advance("test-u2", "s24", actor="t", evidence="e")
+        t = task_ops.advance("test-u2", "audit", actor="rev", evidence="e")
+        self.assertEqual(t["state"], "s2.5_checked")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.reopen("test-u2", "上游修订", actor="t")
+        t = task_ops.reopen("test-u2", "上游实质修订，compare/u.json 在案", actor="t",
+                            upstream_sync=True)
+        self.assertEqual(t["state"], "pending")
+        self.assertTrue(any(st.get("bypass", "").startswith("upstream-sync")
+                            for st in t["steps"]))
+
+    def test_reopen_upstream_sync_rejects_done_and_blocked(self):
+        # blocked 即使带 flag 也拒（先 --unblock）；done 走默认 R1/R2 语义（flag 不适用）
+        md = self._md("u3.md", "# 测试标题\n\n旧译文。\n")
+        task_ops.create("test-u3", "retranslate", zh_doc=md)
+        task_ops.clear("test-u3")
+        task_ops.advance("test-u3", "draft", actor="t", evidence="e")
+        task_ops.block("test-u3", "挂起核查")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.reopen("test-u3", "上游修订", actor="t", upstream_sync=True)
+        # done 件：flag 不适用（done 走默认 R1/R2），默认 reopen 照常
+        md2 = self._md("u4.md", "# 测试标题\n\n旧译文。\n")
+        task_ops.create("test-u4", "retranslate", zh_doc=md2)
+        task_ops.clear("test-u4")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-u4", step, actor="t", evidence="e")
+        task_ops.advance("test-u4", "s24", actor="t", evidence="e")
+        task_ops.advance("test-u4", "audit", actor="rev", evidence="e")
+        for step in ("s3", "r1", "r2", "r3"):
+            task_ops.advance("test-u4", step, actor="t", evidence="e")
+        task_ops.advance("test-u4", "done", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.reopen("test-u4", "上游修订", actor="t", upstream_sync=True)
+        t = task_ops.reopen("test-u4", "上游实质修订", actor="t")
+        self.assertEqual(t["state"], "pending")
+
 
 if __name__ == "__main__":
     unittest.main()

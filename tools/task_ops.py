@@ -432,7 +432,8 @@ def main(argv=None):
         if cmd == "reopen":
             args = _parse(["--actor", "--reason"], argv[2:])
             task = reopen(slug, args.get("reason") or "",
-                          args.get("actor") or "?")
+                          args.get("actor") or "?",
+                          upstream_sync="--upstream-sync" in argv)
             if "--clear" in argv:
                 # ADR-0050：上游更新引发的 reopen 前置置空（仅留 H1），原子两步防漏
                 task = clear(slug)
