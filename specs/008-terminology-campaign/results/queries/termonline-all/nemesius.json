@@ -1,0 +1,33 @@
+{
+ "key": "nemesius",
+ "term": "Nemesius",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T11:45:26+00:00",
+ "status": "ok",
+ "note": "variant=Nemesius; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "吐法",
+   "en": "emesis method",
+   "code": "19.228",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "吐法",
+   "en": "emesis method",
+   "code": "02.269",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医史文献其他"
+  },
+  {
+   "cn": "[涌]吐法",
+   "en": "emesis method",
+   "code": "05.043",
+   "standard": "中医药学名词",
+   "subject": "中医药学_治疗学_内治法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

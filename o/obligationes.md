@@ -8,7 +8,7 @@
 
 作为逻辑学的一个分支，义务论辩随 13 世纪以来的欧洲中世纪逻辑而兴盛；到近代早期，随着作为学科的“经院逻辑”退潮，它也慢慢消失。在 14 世纪鼎盛期，许多——或许大多数——欧洲逻辑学家都写过专论义务的著作（*de obligationibus*）：或是独立论著，或是逻辑通论中的章节。前一类中，瓦尔特·伯利的《义务理论》（约 1302 年；拉丁文本见 Green [1963]，英译见 Kretzmann and Stump [1988]）、罗杰·斯温舍德的论著（1330–35 年；Spade [1977]）与罗伯特·埃兰[^note-1]的论著（1335–1370 年；Spade [1980]），对塑造本主题的现代理解尤为重要。后一类可举威廉·奥卡姆的《逻辑大全》（约 1323 年；Boehner, Gál, & Brown [1974]）与威尼斯的保罗的《大逻辑》（1397–98 年；Ashworth [1988]）。
 
-义务论辩的技术假定一种对话情境，甚至像两人之间的游戏，而文本对情境的描述通常极为简略。简言之，义务论辩中，一人（提问者）提出命题（*propositiones*）[^note-2]，另一人（应答者）须随即对其作直接评价。答案主要有两种：承认或否认。只有在极少数情况下，文本才允许其他答案，如对命题存疑（如见 Uckelman, Maat and Rybalko 2018）。提出与回答的命题序列被视为时间序列，但多数作者认为，命题的真值在论辩过程中不应改变。
+义务论辩的技术假定一种对话情境，甚至像两人之间的游戏，而文本对情境的描述通常极为简略。简言之，义务论辩中，一人（提问者）提出命题（*propositiones*）[^note-2]，另一人（应答者）须随即对其作直接评价。答案主要有两种：承认或否认。只有在极少数情况下，文本才允许其他答案，如对命题存疑（如见 Uckelman, Maat and Rybalko 2008）。提出与回答的命题序列被视为时间序列，但多数作者认为，命题的真值在论辩过程中不应改变。
 
 这样评价的命题序列，由提问者向应答者给出某项特定义务而启动，典范情形是要求承认显然为假的命题。这项特定义务在整个序列中都必须遵守，无论序列变得多复杂。其基本想法是：特定义务虽使应答者在评价中不必始终服从真理，但某种逻辑融贯的要求并未因此中止。
 
@@ -48,7 +48,7 @@
 
 义务理论的核心术语围绕“必须承认”（*est concedendum*）与“必须否认”（*est negandum*）展开。这些表达在中世纪欧洲学术文本中广泛使用，甚至见于逻辑之外，但通常隐含：必须承认者真，反之为真者必须承认。在义务理论的论著中，这些表达与真理的联系及对照都特别重要：为真者与必须承认者常常并不相同，因为命题是因从假 *positio* 推出、或依某项特殊义务而被承认的。“必须承认”“必须否认”二词在义务理论之外的学术语境中也通行，这大概因为中世纪学术界主要在对话语境中思考论证，使用这些词时义务理论本身未必是议题。但至少在 14 世纪，作为逻辑学分支的义务理论似乎确实在讨论：论证情境中某物必须被承认，究竟意味着什么的核心方面。
 
-中世纪逻辑文类“诡辩题”（sophismata，见本《百科》“诡辩题”词条）似与义务理论尤为相关。典型的诡辩包括一个案例（*casus*）、一句诡辩命题、基于该案例为该命题所作的正反论证，以及一个解答。案例往往出于想象，未必真实，甚至未必真正可能。于是，思考诡辩的一个较自然方式，是把案例（*casus*）看作义务论辩意义上的 *positio*。事实上，理查德·基尔文顿在《诡辩题》中对义务规则的评论表明，他认为义务规则规定着：诡辩中应如何基于案例（*casus*）评价句子。（见 Kretzmann & Kretzmann 1990a and 1990b。）[^kretzmann-1990a][^kretzmann-1990b]
+中世纪逻辑文类“诡辩题”（sophismata，见本《百科》“诡辩题”词条）似与义务理论尤为相关。典型的诡辩包括一个案例（*casus*）、一句诡辩命题、基于该案例为该命题所作的正反论证，以及一个解答。案例往往出于想象，未必真实，甚至未必真正可能。于是，思考诡辩的一个较自然方式，是把案例（*casus*）看作义务论辩意义上的 *positio*。事实上，理查德·基尔文顿在《诡辩题》中对义务规则的评论表明，他认为义务规则规定着：诡辩中应如何基于案例（*casus*）评价句子。（见 Kretzmann & Kretzmann 1990a 与 1990b）。[^kretzmann-1990a][^kretzmann-1990b]
 
 ## 2 亚里士多德逻辑中的背景
 
@@ -61,7 +61,7 @@
 
 两者的主要差异在开端：苏格拉底通常挑战对话者的某个实质性哲学论题，其真假值得知道；义务论辩中却没有真正受审视的争点。驳诘所研究的论题从不显然为假，而这恰是义务论辩的标准开场。
 
-众所周知，亚里士多德在《论题篇》中以严格理论化的方式发展了对话交锋。义务理论研究中一个至今悬而未决的问题，是说明亚里士多德《论题篇》在中世纪义务理论文类形成中的作用。中世纪对《论题篇》的注疏并不常系统讨论义务理论（见 Green-Pedersen 1984）[^green-pedersen-1984]。有趣的例外是达西亚的波爱修斯所作注疏（1270 年代；Breen-Pedersen & Pinborg 1976），但他为义务论辩提出的规则，与该文类主流作者（伯利、斯温舍德、埃兰）的规则看来相当不同。无论如何，即便以波爱修注疏中的处理为准，这门技术似乎也不直接出自逻辑中所谓的“论题学”传统。
+众所周知，亚里士多德在《论题篇》中以严格理论化的方式发展了对话交锋。义务理论研究中一个至今悬而未决的问题，是说明亚里士多德《论题篇》在中世纪义务理论文类形成中的作用。中世纪对《论题篇》的注疏并不常系统讨论义务理论（见 Green-Pedersen 1984）[^green-pedersen-1984]。有趣的例外是达西亚的波爱修斯所作注疏（1270 年代；Green-Pedersen & Pinborg 1976），但他为义务论辩提出的规则，与该文类主流作者（伯利、斯温舍德、埃兰）的规则看来相当不同。无论如何，即便以波爱修注疏中的处理为准，这门技术似乎也不直接出自逻辑中所谓的“论题学”传统。
 
 苏格拉底式驳诘的结构还有另一个中世纪后裔，更直接地出自亚里士多德《论题篇》对这门技术的处理：13 世纪出现了若干《论反驳与应答的方式》的论著（参 De Rijk 1980, Pérez-Ilzarbe 2011）[^pérez-ilzarbe-2011]。它们讨论并发展论辩取胜之术：提问者如何迫使或诱使应答者承认争论论题的反面，或应答者如何避免此类矛盾。它们与义务理论的技术构成有趣的平行，但即便在它们那里，也找不到义务理论的核心特征——讨论一个显然为假的论题。
 
@@ -195,11 +195,11 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献
 
-### Modern Editions and Translations
+### 现代版本与译本
 
-### Secondary Literature
+### 二手文献
 
 [^anonymous-1974]: Anonymous (early 13ᵗʰ century), “The Emmeran treatise on false Positio”. Edited in De Rijk 1974, 103–117. Translation in Yrjönsuuri 2001, 199–215.
 [^anonymous-1974-2]: Anonymous (early 13ᵗʰ century), “The Emmeran treatise on impossible Positio”. Edited in De Rijk 1974, 117–123. Translation in Yrjönsuuri 2001, 217–223.
@@ -233,7 +233,7 @@
 [^de-1976]: –––, 1976. “Some Thirteenth Century Tracts on the Game of Obligation. III,” *Vivarium*, 14: 26–42.
 [^de-1980]: –––, 1980. *Die mittelalterlichen Tractate De modo opponendi et respondendi. Einleitung und Ausgabe der einschlägigen Texte*. (Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, Neue Folge, 17.) Münster: Aschendorff.
 [^green-1963]: Green, Romuald, 1963. “An Introduction to the Logical Treatise *De obligationibus*, with Critical Texts of William of Sherwood [?] and Walter Burley,” 2 vols. Doctoral dissertation. Katholieke Universiteit Leuven. A revised version of this essential but unpublished dissertation has been widely circulated in manuscript form under the title *The Logical Treatise ‘De obligationibus’: An Introduction with Critical Texts of William of Sherwood and Walter Burley*.
-[^green-pedersen-1976]: Green-Pedersen, N.J. and J. Pinbord (eds.), 1976. *Questiones super librum Topicorum*, (Boethius of Dacia), Corpus Danicorum Medii Aevi, 6, Copenhagen: Gad.
+[^green-pedersen-1976]: Green-Pedersen, N.J. and J. Pinborg (eds.), 1976. *Questiones super librum Topicorum*, (Boethius of Dacia), Corpus Danicorum Medii Aevi, 6, Copenhagen: Gad.
 [^kretzmann-1990a]: Kretzmann, Norman and Barbara Ensign Kretzmann (eds.), 1990a. *The Sophismata of Richard Kilvington*, Oxford: Oxford University Press. (“Auctores Britannici Medii Aevi,” vol. 12.) Latin edition. Translated in Kretzmann & Kretzmann 1990b.
 [^kretzmann-1990b]: ––– (eds. and trans.), 1990b. *The Sophismata of Richard Kilvington*, Cambridge: Cambridge University Press; this is a translation of Kilvington 1990a, with commentary.
 [^kretzmann-1985]: Kretzmann, Norman, and Eleonore Stump, 1985. “The Anonymous *De arte obligatoria* in Merton College MS. 306,” in E. P. Bos (ed.), *Medieval Semantics and Metaphysics: Studies Dedicated to L. M. de Rijk, Ph.D., Professor of Ancient and Mediaeval Philosophy at the University of Leiden on the Occasion of His 60th Birthday*, Nijmegen: Ingenium, pp. 239–80. (“Artistarium,” Supplementa, vol. 2.)
@@ -252,7 +252,7 @@
 [^dutilh-2011]: –––, 2011. “Medieval Obligationes as a Theory of Discursive Commitment Management,” *Vivarium*, 49: 240–257.
 [^dutilh-2016]: Dutilh Novaes, Catarina, and Uckelman, Sara, 2016. “Obligationes”, in Catarina Dutilh Novaes and Stephen Read (eds.), *Cambridge Companion to Medieval Logic*, Cambridge: Cambridge University Press, pp. 370–395.
 [^green-pedersen-1984]: Green-Pedersen, Niels Jørgen, 1984. *The Tradition of Topics in the Middle Ages. The Commentaries on Aristotle’s and Boethius’ ‘Topics’*, München: Philosophia Verlag.
-[^keffer-2001]: Keffer, Hajo, 2001. *De obligationibus: Rekonstruktion einer spätmittelalterlichen Disputationstheorie*, Leiden: Brill
+[^keffer-2001]: Keffer, Hajo, 2001. *De obligationibus: Rekonstruktion einer spätmittelalterlichen Disputationstheorie*, Leiden: Brill.
 [^kukkonen-2002]: Kukkonen, Taneli, 2002. “Alternatives to Alternatives: Approaches to Aristotle’s Arguments per impossibile,” *Vivarium*, 40: 137–173.
 [^kukkonen-2005]: –––, 2005. “The Impossible, insofar as it is possible: Ibn Rushd and Buridan on Logic and Natural Theology,” in D. Perler & U. Rudolph (eds.), *Logik und Theologie: Das Organon im Arabischen und im Lateinischen Mittelalter*, Leiden: Brill, pp. 447–467.
 [^martin-1993]: Martin, Christopher J., 1993. “Obligations and Liars,” in S. Read (ed.), *Sophisms in Mediaeval Logic and Grammar: Acts of the Ninth European Symposium for Medieval Logic and Semantics, held at St Andrews, June 1990* (Nijhoff International Philosophy Series: Volume 48), Dordrecht: Kluwer, pp. 357–81; revised version in Martin 1999.
@@ -260,7 +260,7 @@
 [^martin-1999]: –––, 1999. *Theories of Inference and Entailment in the Middle Ages* (Volume I), Ph.D. dissertation, Princeton University (UMI #9948627); includes revised versions of Martin 1993 and 1997.
 [^martin-2007]: –––, 2007. “Disputing about Disputing: The Medieval Procedure of Impossible Position and the Debate over the Nature of Logic and the Foundations of Metaphysics” in M. Dascal, H. Chang (eds.), *Traditions of Controversy*, Amsterdam: John Benjamins, pp. 151–164.
 [^pérez-ilzarbe-2011]: Pérez-Ilzarbe, Paloma, 2011. “Disputation and Logic in the Medieval Treatises De Modo Opponendi et Respondendi,” *Vivarium*, 49: 127–149.
-[^read-2020]: Read, Stephen, 2020. “Swyneshed, Paradox and the Rule of Contradictory Pairs,” *Logica Universalis*, 14: 27–50
+[^read-2020]: Read, Stephen, 2020. “Swyneshed, Paradox and the Rule of Contradictory Pairs,” *Logica Universalis*, 14: 27–50.
 [^robinson-1953]: Robinson, Richard, 1953. *Plato’s Earlier Dialectic*, Oxford: Oxford University Press.
 [^spade-1982]: Spade, Paul Vincent, 1982. “Three Theories of *Obligationes*: Burley, Kilvington and Swyneshed on Counterfactual Reasoning,” *History and Philosophy of Logic*, 3: 1–32; reprinted with the same pagination in Spade 1988, item XVII.
 [^spade-1988]: –––, 1988. *Lies, Language and Logic in the Late Middle Ages*, London: Variorum Reprints.
@@ -269,7 +269,7 @@
 [^spade-1994]: –––, 1994–97. “The Logic of ‘*Sit verum*’ in Richard Brinkley and William of Ockham,” *Franciscan Studies*, 54: 227–50.
 [^spade-1983]: Spade, Paul Vincent, and Stump, Eleonore, 1983. “Walter Burley and the *Obligationes* Attributed to William of Sherwood,” *History and Philosophy of Logic*, 4: 9–26.
 [^strobino-2011]: Strobino, Riccardo, 2011. “Contexts of Utterance and Evaluation in Peter of Mantua’s Obligationes,” *Vivarium*, 49(1–3): 275–299.
-[^stump-1981]: Stump, Eleonore, 1981. “Rober Swyneshed’s Theory of Obligations,” *Medioevo: Rivista di storia della filosofia medievale*, 7: 135–74; reprinted in Stump [1989], pp. 215–49.
+[^stump-1981]: Stump, Eleonore, 1981. “Robert Swyneshed’s Theory of Obligations,” *Medioevo: Rivista di storia della filosofia medievale*, 7: 135–74; reprinted in Stump [1989], pp. 215–49.
 [^stump-1982]: –––, 1982. “Obligations: From the Beginning to the Early Fourteenth Century,” in N. Kretzmann, *et al.* (eds.) 1982 (Part A, Chap. 16), pp. 315–34.
 [^stump-1985]: –––, 1985. “The Logic of Disputation in Walter Burley’s Treatise on Obligations,” *Synthese*, 63: 335–74; reprinted under the title “Walter Burley on Obligations” in Stump 1989, pp. 195–213.
 [^stump-1989]: –––, 1989. *Dialectic and Its Place in the Development of Medieval Logic*, Ithaca: Cornell University Press.
@@ -280,7 +280,7 @@
 [^yrjönsuuri-1998]: –––, 1998. “The Compossibility of Impossibilities and Ars obligatoria,” *History and Philosophy of Logic*, 19: 235–48.
 [^yrjönsuuri-2000]: –––, 2000. “Disputations, Obligations and Logical Coherence,” *Theoria*, 66: 205–23.
 [^yrjönsuuri-2009]: –––, 2009. “Commitment to Consistency,” in Sintonen (ed.), *The Socratic Tradition: Questioning as Philosophy and as Method* (Texts in Philosophy: Volume 10), London: College Publications.
-[^yrjönsuuri-2015]: –––, 2015. “Obligations and Conditionals,” *Vivarium*, 53(2–4): 322–335
+[^yrjönsuuri-2015]: –––, 2015. “Obligations and Conditionals,” *Vivarium*, 53(2–4): 322–335.
 
 ## 学术工具
 
@@ -296,6 +296,6 @@
 
 ## 相关词条
 
-沃尔特·伯利 | 中世纪结果理论 | 威廉·海特斯伯里 | 不可解命题 | 逻辑与游戏 | 因根的马西利乌斯 | 中世纪哲学的文学形式 | 中世纪的模态理论 | 奥卡姆的威廉 | 威尼斯的保罗 | 命题 | 诡辩家理查德 | *sophismata* [= sophisms] | 舍伍德的威廉
+沃尔特·伯利 | 中世纪结果理论 | 威廉·海特斯伯里 | 不可解命题 | 逻辑与游戏 | 因根的马西利乌斯 | 中世纪哲学的文学形式 | 中世纪的模态理论 | 奥卡姆的威廉 | 威尼斯的保罗 | 命题 | 诡辩家理查德 | 诡辩句（*sophismata*） | 舍伍德的威廉
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

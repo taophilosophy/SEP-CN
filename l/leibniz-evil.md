@@ -50,7 +50,7 @@
 
 长时间的停顿之后，哲学家提出一个新颖论证：上帝尽可以充当罪的根据，而不必充当罪的作者，前提是其意志不卷入这个根据性的故事。上帝不是通过愿意数学真理为真而使它们为真；毋宁说，它们为真，仅因上帝理解它们；而上帝理解它们，仅因上帝存在（CP, 43）。同样，上帝经由神圣理智而是罪的根据，但绝不愿意有罪。“罪”，哲学家解释说，“不是由于神圣的 **意志** ，而是由于神圣的 **理智**，或者（这是一回事）由于永恒观念或事物的本性”（CP, 41）。
 
-这一论证至少起初令人困惑：数学真理必然、永恒而抽象，罪却似乎偶然、时间性而具体。莱布尼茨让神学家回答说：“我明白了，但我热切而惊奇地等待你的答复：罪能在什么光线下被看待”（CP, 41）。结果，这一解法之新颖，在于主张关于罪的真理本身即准数学，恰如支配音乐和声的必然关系。正如一部乐曲可以包含不协和和弦，后者在得到恰当解决时为作品之美增色。罪的存在也是一种局部不协和，有助于“事物的普遍和谐，从而借阴影区分光明”（CP, 43–-45）。罪的时间性与具体实在性，就这样以某种方式被同化于和声学的永恒而抽象的领域。如神学家所总结：“普遍和谐并非上帝意志的结果，而是上帝理智亦即观念、亦即事物本性的结果。故罪也应归于同一来源；据此，罪来自上帝的存在，而非上帝的意志”（CP, 45）。
+这一论证至少起初令人困惑：数学真理必然、永恒而抽象，罪却似乎偶然、时间性而具体。莱布尼茨让神学家回答说：“我明白了，但我热切而惊奇地等待你的答复：罪能在什么光线下被看待”（CP, 41）。结果，这一解法之新颖，在于主张关于罪的真理本身即准数学，恰如支配音乐和声的必然关系。正如一部乐曲可以包含不协和和弦，后者在得到恰当解决时为作品之美增色。罪的存在也是一种局部不协和，有助于“事物的普遍和谐，从而借阴影区分光明”（CP, 43–45）。罪的时间性与具体实在性，就这样以某种方式被同化于和声学的永恒而抽象的领域。如神学家所总结：“普遍和谐并非上帝意志的结果，而是上帝理智亦即观念、亦即事物本性的结果。故罪也应归于同一来源；据此，罪来自上帝的存在，而非上帝的意志”（CP, 45）。
 
 回到第 1 节概述的原初问题，我们可以理解这一解法。只要罪与惩罚并非上帝作品中的瑕疵，而是更大和谐中彼此互补的部分，创造（连罪与惩罚在内）就仍在表现上帝的善。以创造为起点的上帝存在论证，仍将导向一个全善上帝的存在。此外，若上帝从不愿意罪发生，上帝便解除对罪的直接道德责任；而若普遍和谐仅从上帝的存在而来，上帝就绝不需要愿意罪发生。意志的活动，位于奠立有限事物之存在的神圣理智之后（Rateau 2019, 65–67; Feeney 2020, 11）[^feeney-2020][^rateau-2019]；因此意志可以有选择地回应：为普遍和谐及其和谐的部分而喜悦，却不为单独来看的不协和部分而喜悦：“赞成某物而愿意，就是为它的存在而喜悦”（CP 55）。也就是说，上帝仅凭认识普遍和谐便奠定一切，却不作者任何东西；因为“**成为作者** ，就是凭自己的意志成为他物的根据”（CP, 55）。
 
@@ -142,7 +142,7 @@
 
 在论证人的道德能动性与上帝那不可回避的后行意志相容之后，莱布尼茨剩下的任务是表明：人如何能对使一个行动成为罪的缺乏或缺失负道德责任。困难在于：解释上帝 **为何不** 对恶负责，关键正落在这一缺失性质上：上帝实现实在者，仅容许缺乏者（见第 3.2.2 节）。若上帝不能为一个缺乏负责，人的道德行动者怎能负责？
 
-为处理这一点，莱布尼茨引入 **缺失** 因的概念（见 Schmalz 2014, 149–152; Jorati 2017, 98–108; Rateau 2019, 117–9 & 265–270）[^jorati-2017][^rateau-2019]。如他解释的：“恶的形式特征没有 **动力** 因，因为它在于缺乏[……]，在于动力因不带来的东西。这就是为什么经院学者习惯称恶的原因为 **缺失的**”（H, 139）。为例示这一概念，莱布尼茨举出缺失因的例子：河流载重驳船行驶更慢（H, 386）；“冻结中的水能够撑破禁锢它的枪管；然而冷是力量的某种缺乏”（H, 222–3）。照莱布尼茨对第二例的理解，热的退场允许另一种力量比原本更强大地起作用。这一缺乏“偶然地”有一个肯定的效果。类似地，无知、错误、恶意与恶的意志“形式上在于某种缺乏”，其效果也是偶然的。例如，无知可能让不充分的证据承载不相称的分量；恶意可能让较低级的激情占上风（H, 145）。罪的这些缺失因，是人类道德能动性中固有的缺失，所以它们依赖“原初就在受造物之中的先前限定”（H, 356）；莱布尼茨早已把这种限定认定为形而上学恶（见第 3.1 节）。人的道德行动者为一个缺乏负责或有罪责，因为他们成为它的缺失因。
+为处理这一点，莱布尼茨引入 **缺失** 因的概念（见 Schmaltz 2014, 149–152; Jorati 2017, 98–108; Rateau 2019, 117–9 & 265–270）[^jorati-2017][^rateau-2019]。如他解释的：“恶的形式特征没有 **动力** 因，因为它在于缺乏[……]，在于动力因不带来的东西。这就是为什么经院学者习惯称恶的原因为 **缺失的**”（H, 139）。为例示这一概念，莱布尼茨举出缺失因的例子：河流载重驳船行驶更慢（H, 386）；“冻结中的水能够撑破禁锢它的枪管；然而冷是力量的某种缺乏”（H, 222–3）。照莱布尼茨对第二例的理解，热的退场允许另一种力量比原本更强大地起作用。这一缺乏“偶然地”有一个肯定的效果。类似地，无知、错误、恶意与恶的意志“形式上在于某种缺乏”，其效果也是偶然的。例如，无知可能让不充分的证据承载不相称的分量；恶意可能让较低级的激情占上风（H, 145）。罪的这些缺失因，是人类道德能动性中固有的缺失，所以它们依赖“原初就在受造物之中的先前限定”（H, 356）；莱布尼茨早已把这种限定认定为形而上学恶（见第 3.1 节）。人的道德行动者为一个缺乏负责或有罪责，因为他们成为它的缺失因。
 
 形而上学恶与道德恶（如恶意）之间仍有一个解释缝隙。可不可能有内在有限的道德行动者，却并未成为罪的缺失因？填补这一缝隙会牵涉莱布尼茨对原罪与恩典的处理；他在《神义论》中确实长篇讨论了这些主题（H, 172–185；另见 Rutherford 2014, 78–86）[^rutherford-2014]。关键在此：有限的道德行动者由于其内在限定，倾向于在道德上要紧的方面受限，从而成为罪的缺失因。上帝容许罪，仅因他知情地把物理协作延伸给这些道德上受损的行动者，因为它们对最好的可能世界有所贡献。因此，尽管有上帝涵括性的天意，受造者对罪的罪责依然完好，奠基于作为内在缺失因的受造者。
 
@@ -166,7 +166,7 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Leibniz Texts
+### 莱布尼茨文本
 
 **A**
 
@@ -216,12 +216,12 @@ P. Schrecker and Anne Martin Schrecker (eds.), 1965, *Monadology, and Other Phil
 
 L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 
-### Other Sources
+### 其他文献
 
 [^adams-1972]: Adams, Robert Merrihew, 1972, “Must God Create the Best?”, *Philosophical Review*, 81(3): 317–332.
 [^antognazza-2009]: Antognazza, Maria Rosa, 2009, *Leibniz: An Intellectual Biography*, Cambridge/New York: Cambridge University Press.
 [^antognazza-2014]: –––, 2014, “Leibniz’s Metaphysical Evil Revisited” in Larry Jorgensen and Samuel Newlands (eds.), *New Essays on Leibniz’s Theodicy*, Oxford: Oxford University Press, pp. 112–134.
-[^aquinas-1911]: Aquinas, 1267–73, *Summa Theologiae*, Fathers of the English Dominican Province (trans.), London: Burns, Oates, and Washbourne, 1911; now available from Christian Classics, 1981 and online at URL = <[http://www.newadvent.org/summa](http://www.newadvent.org/summa)>. [See, also the [Alfred Freddoso translation](https://www.freddoso.com/summa-translation/TOC.htm).]
+[^aquinas-1911]: Aquinas, 1267–73, *Summa Theologiae*, Fathers of the English Dominican Province (trans.), London: Burns, Oates, and Washbourne, 1911; now available from Christian Classics, 1981 and online at URL = <[http://www.newadvent.org/summa](http://www.newadvent.org/summa)>. ［另见 Alfred Freddoso 译本：[链接](https://www.freddoso.com/summa-translation/TOC.htm)。］
 [^carlin-2000]: Carlin, Laurence, 2000, “On the Very Concept of Harmony in Leibniz”, *Review of Metaphysics*, 54(1): 99–125.
 [^echavarría-2014]: Echavarría, Agustín, 2014, “Leibniz’s Dilemma on Predestination” in Larry Jorgensen and Samuel Newlands, *New Essays on Leibniz’s Theodicy*, Oxford: Oxford University Press, pp. 172–196.
 [^feeney-2016]: Feeney, Thomas, 2016, “Leibniz, Acosmism, and Incompossibility” in Gregory Brown and Yual Chiek, *Leibniz on Compossibility and Possible Worlds*, Cham, Switzerland: Springer, pp. 145–174.
@@ -236,7 +236,7 @@ L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 [^lodge-2020]: Lodge, Paul, 2020, “The *Theodicy*”, in Paul Lodge and Lloyd Strickland (eds.), *Leibniz’s Key Philosophical Writings: A Guide*, Oxford: Oxford University Press, pp. 173–205.
 [^mcdonough-2007]: McDonough, Jeffrey, 2007, “Leibniz: Creation *and* Conservation *and* Concurrence”, *Leibniz Review* 17: 31–60.
 [^mcdonough-2022]: –––, 2022, *A Miracle Creed: The Principle of Optimality in Leibniz’s Physics and Philosophy*, New York: Oxford University Press.
-[^mcdonough-2018]: McDonough, Jeffrey and Zeynep Soysal, 2018, “Leibniz’s Formal Theory of Contingency” *History of Philosophy & Logical Analysis*, 21(1):17–43.
+[^mcdonough-2018]: McDonough, Jeffrey and Zeynep Soysal, 2018, “Leibniz’s Formal Theory of Contingency” *History of Philosophy & Logical Analysis*, 21(1): 17–43.
 [^mercer-2008]: Mercer, Christia, 2008, “The Platonism at the Core of Leibniz’s Metaphysics: God and Knowledge” in Douglas Hedley and Sarah Hutton (eds.), *Platonism and the Origins of Modernity: The Platonic Tradition and the Rise of Modern Philosophy*. Cham, Switzerland: Springer.
 [^mercer-2012]: –––, 2012, “Knowledge and Suffering in Early Modern Philosophy: G.W. Leibniz and Anne Conway” in Sabrina Ebbersmeyer (ed.), *Emotional Minds: The Passions and the Limits of Pure Inquiry in Early Modern Philosophy*, Boston: De Gruyter, pp. 179.
 [^messina-2009]: Messina, James and Donald Rutherford, 2009, “Leibniz on Compossibility”, *Philosophy Compass*, 4(6): 962–977.
@@ -267,7 +267,7 @@ L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 
 ## 其他网络资源
 
-* Murray, Michael 与 Sean Greenberg，“莱布尼茨论恶的问题”，《斯坦福哲学百科全书》（2025 年冬季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/](https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/)>。[这是《斯坦福哲学百科全书》中该主题的前一个词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-evil)。]
+* Murray, Michael 与 Sean Greenberg，“莱布尼茨论恶的问题”，《斯坦福哲学百科全书》（2016 年冬季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/win2016/entries/leibniz-evil/](https://plato.stanford.edu/archives/win2016/entries/leibniz-evil/)>。[这是《斯坦福哲学百科全书》中该主题的前一个词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-evil)。]
 * [莱布尼茨数字资源目录](https://leibniz-katalog.bbaw.de/en)
 * [莱布尼茨研究站明斯特（LFS）](https://www.uni-muenster.de/Leibniz/seite2.html)
 * [莱布尼茨档案馆，戈特弗里德·威廉·莱布尼茨图书馆（GWLB）](https://www.gwlb.de/leibniz/leibniz-archiv)
