@@ -71,7 +71,7 @@ class PairsNormalization(unittest.TestCase):
             shutil.rmtree(tmp)
 
     SPANS = " ".join("$x_{%d}$" % i for i in range(30))
-    LONE = " ".join("$\\omega$", "$\\varphi$", "$\\alpha$", "$\\beta$", "$\\pi$")
+    LONE = " ".join(["$\\omega$", "$\\varphi$", "$\\alpha$", "$\\beta$", "$\\pi$"])
 
     def test_unconverted_parity(self):
         # 两侧同形（回改前）：30 段（含 5 孤立）对 30 段，对称剔除后仍平

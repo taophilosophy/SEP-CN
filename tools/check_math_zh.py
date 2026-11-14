@@ -31,7 +31,11 @@ import sys
 # 已是 UTF-8 时不重包：多检查器被单测进程导入时，重复 TextIOWrapper 包装会因
 # 旧包装器 GC 关闭底层 buffer 而炸（specs/032 试金石实测）。
 if getattr(sys.stdout, "encoding", "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    try:
+        _orig_stdout = sys.stdout  # 持有旧包装器引用，防其被 GC 关闭底层 buffer
+        sys.stdout = io.TextIOWrapper(_orig_stdout.buffer, encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass  # 被单测替换为 StringIO 或底层 buffer 已关闭时按原样继续
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "tools", "data")
 
