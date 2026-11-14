@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 1564,
-  "查无": 7284,
-  "不一致": 848,
-  "一致": 1186
+  "未查证": 1413,
+  "一致": 1192,
+  "查无": 7427,
+  "不一致": 850
  },
  "results": [
   {
@@ -48,10 +48,19 @@
    "line": 15,
    "term": "aṣālat al-wujūd",
    "trans": "存在的实在性（principality of existence）",
-   "basis": "伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）；2026-11-14 联网复核保留（萨德拉研究文献另见“存在优先/存在的优先性”形（SEP Rizvi 作 ontological primacy of existence），中文学界译名未统一，实在性义译在列）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "存在的实在性",
+     "en": "aṣālat al-wujūd",
+     "source": "萨德拉研究文献通行义译之一（另见“存在优先/存在的优先性”形；SEP Mulla Sadra 条 Rizvi 作 ontological primacy of existence）；中文学界译名未统一"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -44507,10 +44516,19 @@
    "line": 2060,
    "term": "forcing",
    "trans": "力迫",
-   "basis": "学界通行（科恩力迫法）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行（科恩力迫法）；2026-11-14 联网复核保留（Kunen/Jech 中译脉络与汉语集合论文献均用“力迫/力迫法”；佐恩引理、力迫法同批锚定）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "力迫",
+     "en": "forcing",
+     "source": "Kunen/Jech 集合论中译脉络；汉语集合论文献通行“力迫/力迫法”（科恩力迫法）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -63697,10 +63715,19 @@
    "line": 2857,
    "term": "jabr",
    "trans": "前定论（jabrī 前定论者）",
-   "basis": "译名裁定（本条作者英译 predeterminism；伊斯兰教义学语境与“决定论”相区分）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "译名裁定（本条作者英译 predeterminism；伊斯兰教义学语境与“决定论”相区分）；2026-11-14 联网复核保留（教义学通行做法为音译“贾卜里耶”加注意译，前定/宿命论派义见《中国伊斯兰百科全书》、吴云贵《伊斯兰教义学》概念对举）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "前定论",
+     "en": "jabr",
+     "source": "《中国伊斯兰百科全书》jabriyya/qadariyya 概念对举；吴云贵《伊斯兰教义学》；通行做法为音译“贾卜里耶”加注意译"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -97623,10 +97650,19 @@
    "line": 4575,
    "term": "qadariyya",
    "trans": "自由意志论（qadarī 自由意志论者）",
-   "basis": "译名裁定（早期凯拉姆派别名，与前定论 jabr 对举；本条作者语境）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "译名裁定（早期凯拉姆派别名，与前定论 jabr 对举；本条作者语境）；2026-11-14 联网复核保留（通行做法为音译“盖德里耶”加注意译，“自由意志论”派义在列，与 jabr 前定论成对举，参见《中国伊斯兰百科全书》）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "自由意志论",
+     "en": "qadariyya",
+     "source": "《中国伊斯兰百科全书》盖德里耶（自由意志论派）与贾卜里耶（宿命论派）对举；吴云贵《伊斯兰教义学》"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -127222,12 +127258,20 @@
    "table": "术语",
    "line": 5930,
    "term": "truth definition / truth definitions",
-   "trans": "真理定义",
-   "basis": "逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）",
-   "status": "查无",
-   "hits": [],
+   "trans": "真理定义（亦作“真之定义”）",
+   "basis": "逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（与“真之理论”“真谓词”系连），主译随 SUMMARY 词条定名暂留旧形，**定名变更候选已上报**（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "真之定义",
+     "en": "truth definitions",
+     "source": "当代逻辑学/分析哲学文献通行（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》；戴维森真值条件语义学脉络）；主译“真理定义”随 SUMMARY 词条定名暂留，定名变更候选已上报"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -135775,10 +135819,19 @@
    "line": 6396,
    "term": "Zorn's lemma",
    "trans": "佐恩引理",
-   "basis": "学界通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行；2026-11-14 联网复核保留（汉语集合论教材与选择公理等价形式文献通行“佐恩引理”；Kunen《集合论》中译脉络）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "佐恩引理",
+     "en": "Zorn's lemma",
+     "source": "汉语集合论教材与选择公理等价形式文献通行“佐恩引理”；Kunen《集合论》中译脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -177360,9 +177413,11 @@
    "term": "Prajñākaragupta",
    "trans": "Prajñākaragupta（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文；《释量论庄严》作者；与 Prajñākaramati 别为二人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177370,9 +177425,11 @@
    "term": "Prajñākaramati",
    "trans": "Prajñākaramati（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文；《入菩萨行论疏》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177380,9 +177437,11 @@
    "term": "Praśastapāda",
    "trans": "普拉夏斯塔帕达",
    "basis": "梵音自拟（《句义法集论》作者，胜论动力学源头）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177390,9 +177449,11 @@
    "term": "Pratt, John W.",
    "trans": "约翰·普拉特",
    "basis": "学界惯例音译（阿罗—普拉特度量）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177400,9 +177461,11 @@
    "term": "Pratt, Vaughan",
    "trans": "Vaughan Pratt",
    "basis": "无通行汉名，保留英文原名（动态逻辑创始人；与经济学家 John W. Pratt 分列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177410,9 +177473,11 @@
    "term": "Prawitz, Dag",
    "trans": "Prawitz",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177420,9 +177485,11 @@
    "term": "Presburger, Moses",
    "trans": "Moses Presburger",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177430,9 +177497,11 @@
    "term": "Prezzolini, Giuseppe",
    "trans": "普雷佐利尼",
    "basis": "意大利文化评论家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177440,9 +177509,11 @@
    "term": "Price, Henry Habberley",
    "trans": "H. H. 普莱斯",
    "basis": "学界通行汉译（正文作“H. H. 普莱斯”）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177450,9 +177521,11 @@
    "term": "Price, Uvedale",
    "trans": "尤维代尔·普赖斯",
    "basis": "学界通行（《如画之美》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177460,9 +177533,11 @@
    "term": "Prichard, H. A.",
    "trans": "H. A. 普里查德",
    "basis": "学界通行汉译（《道德哲学基于错误吗？》作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177470,9 +177545,11 @@
    "term": "Prierias, Sylvester Mazzolini",
    "trans": "西尔维斯特·马佐里尼·普里埃里亚斯",
    "basis": "宗教改革史通行音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177480,9 +177557,11 @@
    "term": "Priest, Graham",
    "trans": "Graham Priest",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177490,9 +177569,11 @@
    "term": "Prinz, Dietrich",
    "trans": "迪特里希·普林茨",
    "basis": "学界通行音译（首个国际象棋程序作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177500,9 +177581,11 @@
    "term": "Prinz, Jesse",
    "trans": "杰西·普林茨",
    "basis": "音译（激进经验论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177510,9 +177593,11 @@
    "term": "Prior, Arthur",
    "trans": "阿瑟·普赖尔",
    "basis": "SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177520,9 +177605,11 @@
    "term": "Priscian",
    "trans": "普里西安",
    "basis": "语法学界通行汉译（晚期罗马语法学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177530,9 +177617,11 @@
    "term": "Pritchard, Duncan",
    "trans": "邓肯·普里查德",
    "basis": "学界通行音译（安全条件、知识论）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177540,9 +177629,11 @@
    "term": "Proast, Jonas",
    "trans": "乔纳斯·普罗阿斯特",
    "basis": "学界通行音译（17 世纪圣公会牧师，洛克论宽容的论辩对手）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177550,9 +177641,11 @@
    "term": "Proclus",
    "trans": "普罗克洛斯",
    "basis": "学界通行汉译（新柏拉图主义哲学家）；补登：joane-petrizi 已定稿而本表无行；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177560,9 +177653,11 @@
    "term": "Profiat Duran",
    "trans": "普罗菲亚特·杜兰",
    "basis": "学界通行中译（笔名 Efodi）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177582,9 +177677,11 @@
    "term": "Prost, Joseph",
    "trans": "Joseph Prost（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（1907 论文作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177592,9 +177689,11 @@
    "term": "Protagoras",
    "trans": "普罗塔戈拉",
    "basis": "千年通行译名（古希腊智者；哲学史工具书通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177602,9 +177701,18 @@
    "term": "Proudhon, Pierre-Joseph",
    "trans": "蒲鲁东",
    "basis": "学界通行汉译（《什么是所有权》作者）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "皮埃尔·约瑟夫·蒲鲁东",
+     "en": "Pierre-Joseph Proudhon（1809—1865）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177612,9 +177720,11 @@
    "term": "Provine, William",
    "trans": "威廉·普罗文",
    "basis": "群体遗传学史家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177622,9 +177732,11 @@
    "term": "Pruss, Alexander R.",
    "trans": "Alexander R. Pruss（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177632,9 +177744,11 @@
    "term": "Pseudo-Empedocles",
    "trans": "伪恩培多克勒",
    "basis": "学界通行译法（伪托恩培多克勒的阿拉伯新柏拉图文献）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177642,9 +177756,11 @@
    "term": "Ptolemy",
    "trans": "托勒密",
    "basis": "学界千年通行译名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177652,9 +177768,11 @@
    "term": "Ptolemy I Soter",
    "trans": "托勒密一世·救主",
    "basis": "学界通行汉译（埃及托勒密王朝创立者，招致希腊知识分子至亚历山大里亚）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177662,9 +177780,11 @@
    "term": "Puett, Michael",
    "trans": "普鸣",
    "basis": "学界通行（汉名普鸣，《作与不作》作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177672,9 +177792,11 @@
    "term": "Pūjyapāda",
    "trans": "菩阇耶波陀",
    "basis": "梵音自拟（《一切义成就》作者；本名 Devanandin）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177682,9 +177804,11 @@
    "term": "Punčochář, Vít",
    "trans": "Punčochář",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177692,9 +177816,11 @@
    "term": "Purcell, M.",
    "trans": "珀塞尔",
    "basis": "学界通行音译（虚拟社群研究）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177702,9 +177828,11 @@
    "term": "Putin, Vladimir",
    "trans": "弗拉基米尔·普京",
    "basis": "学界惯例（国际政要通译）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177712,9 +177840,11 @@
    "term": "Putnam, Hilary / Hilary Putnam",
    "trans": "普特南",
    "basis": "学界通行汉译（分析哲学；真理与实在论）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Hilary Putnam`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177722,9 +177852,11 @@
    "term": "Pyle, Andrew",
    "trans": "Andrew Pyle（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（《马勒伯朗士》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177732,9 +177864,11 @@
    "term": "Pylyshyn, Zenon W.",
    "trans": "泽农·派利夏恩",
    "basis": "心灵认知学界通行汉译（《心智的计算》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177742,9 +177876,11 @@
    "term": "Pyrrho",
    "trans": "皮浪",
    "basis": "学界通行汉译（伊利斯人，古希腊怀疑论开创者）；SUMMARY 定名；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177791,9 +177927,11 @@
    "term": "Pythodorus",
    "trans": "皮托多鲁斯",
    "basis": "学界惯例音译（《巴门尼德篇》对话人物、柏拉图报告来源）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177821,9 +177959,11 @@
    "term": "Qayṣarī, Dāwūd al-",
    "trans": "凯萨里",
    "basis": "学界惯例（伊本·阿拉比后学，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177831,9 +177971,11 @@
    "term": "Qian Daxin",
    "trans": "钱大昕",
    "basis": "上游自带汉字；学界通行（乾嘉考据名家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177841,9 +177983,11 @@
    "term": "Qin Shi Huang",
    "trans": "秦始皇",
    "basis": "上游自带汉字（秦朝建立者嬴政，上游作 Qin Shi Huang秦始皇）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177851,9 +177995,11 @@
    "term": "Qu Yuan",
    "trans": "屈原",
    "basis": "上游自带汉字（战国诗人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177861,9 +178007,11 @@
    "term": "Quattromani, Sertorio",
    "trans": "塞尔托里奥·夸特罗马尼",
    "basis": "学界惯例（特莱西奥在科森扎学院的继任者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177871,9 +178019,11 @@
    "term": "Quetelet, Adolphe",
    "trans": "阿道夫·凯特勒",
    "basis": "学界通行（统计物理学派创始者通译）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177914,9 +178064,11 @@
    "term": "Quine, W. V.",
    "trans": "威拉德·范·奥曼·蒯因",
    "basis": "学界通行汉译；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177924,9 +178076,11 @@
    "term": "Quine, W.V.O.",
    "trans": "Quine",
    "basis": "本库惯例保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177934,9 +178088,11 @@
    "term": "Quinn, Warren",
    "trans": "沃伦·奎因",
    "basis": "学界通行汉译（义务论伦理学家；与逻辑学家 Quine 蒯因异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177944,9 +178100,11 @@
    "term": "Quintilian",
    "trans": "昆体良",
    "basis": "学界惯例（《演说术原理》作者千年通行译名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177954,9 +178112,11 @@
    "term": "Qummī, Qāḍī Saʿīd",
    "trans": "卡迪·赛义德·库米",
    "basis": "萨德拉学派通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177964,9 +178124,11 @@
    "term": "Qummī, Saʿīd",
    "trans": "赛义德·库米",
    "basis": "照文音译（十七世纪萨法维注释者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177974,9 +178136,11 @@
    "term": "Qūnawī, Ṣadr al-Dīn",
    "trans": "库纳维",
    "basis": "学界惯例（伊本·阿拉比后学，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177984,9 +178148,11 @@
    "term": "Qusta Ibn Luqa",
    "trans": "库斯塔·伊本·卢卡",
    "basis": "阿拉伯医学史通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178004,9 +178170,11 @@
    "term": "Raatikainen, Panu",
    "trans": "Raatikainen",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178014,9 +178182,11 @@
    "term": "Rabelais",
    "trans": "拉伯雷",
    "basis": "学界通行汉译（法国文艺复兴作家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178024,9 +178194,11 @@
    "term": "Rachels, James",
    "trans": "詹姆斯·雷切尔斯",
    "basis": "音译（英语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178044,9 +178216,11 @@
    "term": "Radder, Hans",
    "trans": "汉斯·拉德",
    "basis": "学界通行汉译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178054,9 +178228,11 @@
    "term": "Ragaz, Emil",
    "trans": "Emil Ragaz",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178064,9 +178240,11 @@
    "term": "Ragep, F. Jamil",
    "trans": "F. J. 拉杰普",
    "basis": "伊斯兰天文学史通行音译；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178074,9 +178252,11 @@
    "term": "Raghunātha",
    "trans": "罗怙那陀",
    "basis": "梵音自拟（raghu 从“罗怙罗”古译通例；号“宝顶”śiromaṇi，圆足关系论者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178084,9 +178264,11 @@
    "term": "Rahel Levin",
    "trans": "拉赫尔·莱温",
    "basis": "学界惯例（柏林沙龙主人）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178094,9 +178276,11 @@
    "term": "Raidl, Eric",
    "trans": "Eric Raidl（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178104,9 +178288,11 @@
    "term": "Railton, Peter",
    "trans": "彼得·雷尔顿",
    "basis": "学界通行音译（密歇根大学伦理学家）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178114,9 +178300,11 @@
    "term": "Rainer Maria Rilke",
    "trans": "赖纳·马利亚·里尔克",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178124,9 +178312,11 @@
    "term": "Rákosi, Mátyás",
    "trans": "拉科西",
    "basis": "学界通行汉译（匈牙利共产党领袖）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178134,9 +178324,11 @@
    "term": "Ralph Strode",
    "trans": "拉尔夫·斯特罗德",
    "basis": "学界通行汉译（14 世纪牛津逻辑学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178144,9 +178336,18 @@
    "term": "Rāma",
    "trans": "罗摩",
    "basis": "通行汉译（《罗摩衍那》主人公）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "拉马人",
+     "en": "Rama",
+     "source": "民族学与文化学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178154,9 +178355,11 @@
    "term": "Ramelli, Ilaria",
    "trans": "伊拉里娅·拉梅利",
    "basis": "音译（教父学与古典学）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178164,9 +178367,11 @@
    "term": "Ramírez, Mario Teodoro",
    "trans": "马里奥·特奥多罗·拉米雷斯",
    "basis": "音译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178174,9 +178379,11 @@
    "term": "Ramirez, Richard",
    "trans": "理查德·拉米雷斯",
    "basis": "音译（“夜行者”连环杀手）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178184,9 +178391,11 @@
    "term": "Ramos, Samuel",
    "trans": "萨穆埃尔·拉莫斯",
    "basis": "学界通行汉译（《墨西哥人与墨西哥文化》作者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178194,9 +178403,11 @@
    "term": "Ramsay, Michael",
    "trans": "迈克尔·拉姆齐",
    "basis": "学界通行音译（休谟 1737 年通信对象）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178204,9 +178415,11 @@
    "term": "Ramsey, Frank",
    "trans": "弗兰克·拉姆齐",
    "basis": "学界通行汉译（《真理与概率》）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178214,9 +178427,11 @@
    "term": "Ramsey, Grant",
    "trans": "格兰特·拉姆齐",
    "basis": "音译（生物学哲学家；与 closure-epistemic 的弗兰克·拉姆齐异人）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178224,9 +178439,11 @@
    "term": "Ramus, Petrus (La Ramée, Pierre de)",
    "trans": "皮埃尔·德·拉梅（拉米斯）",
    "basis": "学界通行汉译（拉丁名 Petrus Ramus）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178234,9 +178451,11 @@
    "term": "Randall, John Herman",
    "trans": "约翰·赫尔曼·兰德尔",
    "basis": "学界通行音译（哲学史家，“帕多瓦学派”论题提出者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178244,9 +178463,11 @@
    "term": "Randell, Brian",
    "trans": "布赖恩·兰德尔",
    "basis": "学界通行音译（计算机史家，纽卡斯尔大学）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178254,9 +178475,11 @@
    "term": "Ranke, Leopold von",
    "trans": "利奥波德·冯·兰克",
    "basis": "史学史通行汉译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178264,9 +178487,11 @@
    "term": "Ranulph of Houblonnire",
    "trans": "乌布隆尼尔的拉努尔夫",
    "basis": "依地名冠称（源文作 Houblonnire，后继唐皮耶任巴黎主教）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178274,9 +178499,11 @@
    "term": "Raphals, Lisa",
    "trans": "瑞丽",
    "basis": "学界通行（汉名瑞丽，本词条作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178284,9 +178511,11 @@
    "term": "Rashdall, Hastings",
    "trans": "黑斯廷斯·拉什达尔",
    "basis": "学界通行（中世纪大学史家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178294,9 +178523,11 @@
    "term": "Rashīd al-Dīn Hamadānī",
    "trans": "拉施德丁·哈马丹尼",
    "basis": "学界通行（《史集》作者；由犹太家庭归信伊斯兰教）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178304,9 +178535,11 @@
    "term": "Ratnākaraśānti",
    "trans": "Ratnākaraśānti（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178314,9 +178547,11 @@
    "term": "Ratnakīrti",
    "trans": "Ratnakīrti（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178324,9 +178559,11 @@
    "term": "Ratzinger, Joseph",
    "trans": "约瑟夫·拉青格",
    "basis": "学界通行音译（本笃十六世本名）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178334,9 +178571,11 @@
    "term": "Ravaisson, Félix",
    "trans": "费利克斯·拉维松",
    "basis": "法国唯灵论哲学家，柏格森之师；学界通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178344,9 +178583,11 @@
    "term": "Ravigupta",
    "trans": "Ravigupta（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文；仅见脚注）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178354,9 +178595,11 @@
    "term": "Ravitzky, Aviezer",
    "trans": "阿维泽·拉维茨基",
    "basis": "学界通行中译（克雷斯卡斯研究专家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178364,9 +178607,11 @@
    "term": "Rawls, John / John Rawls",
    "trans": "约翰·罗尔斯",
    "basis": "学界通行汉译（《正义论》作者）；2026-11-13 重复行合并（旧键 `John Rawls`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178374,9 +178619,11 @@
    "term": "Ray, John",
    "trans": "约翰·雷",
    "basis": "学界通行汉译（博物学家，《上帝在造物中的智慧》作者，承续塑形自然说）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178384,9 +178631,11 @@
    "term": "Ray, Man",
    "trans": "曼·雷",
    "basis": "学界通行（达达/超现实主义摄影）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178394,9 +178643,11 @@
    "term": "Raymundus Lullus",
    "trans": "拉蒙·卢尔",
    "basis": "学界通行汉译（中世纪加泰罗尼亚哲人，通行“卢尔”）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -178404,9 +178655,11 @@
    "term": "Raynal, Guillaume-Thomas",
    "trans": "雷纳尔",
    "basis": "学界通行汉译（法国启蒙史家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -183866,9 +184119,11 @@
    "term": "Swain, Marshall",
    "trans": "马歇尔·斯温",
    "basis": "学界惯例（音译，反事实论代表）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183876,9 +184131,11 @@
    "term": "Swartz, Norman",
    "trans": "Norman Swartz（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183886,9 +184143,11 @@
    "term": "Swerdlow, Noel",
    "trans": "诺埃尔·斯韦德洛",
    "basis": "科学史通行音译（《天体运行论》数学研究）；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183896,9 +184155,11 @@
    "term": "Swinburne, Richard",
    "trans": "理查德·斯温伯恩",
    "basis": "学界通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183906,9 +184167,11 @@
    "term": "Swoyer, Chris",
    "trans": "Swoyer（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183916,9 +184179,11 @@
    "term": "Sylla, Edith",
    "trans": "Edith Sylla（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183926,9 +184191,11 @@
    "term": "Sylvester of Ferrara, Francis",
    "trans": "费拉拉的弗朗西斯·西尔维斯特",
    "basis": "托马斯主义研究通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183936,9 +184203,11 @@
    "term": "Sylvester, J. J.",
    "trans": "J. J. 西尔维斯特",
    "basis": "数学史通行音译（《美国数学杂志》创办人；与费拉拉的弗朗西斯·西尔维斯特异人）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183946,9 +184215,11 @@
    "term": "Syrianus",
    "trans": "西里阿努斯",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：SEP Syrianus 词条（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183968,9 +184239,11 @@
    "term": "Sztejnbarg, Dina",
    "trans": "Dina Sztejnbarg",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -183978,9 +184251,11 @@
    "term": "Słupecki, Jerzy",
    "trans": "Jerzy Słupecki",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184008,9 +184283,11 @@
    "term": "Ṭabāṭabāʾī",
    "trans": "塔巴塔巴伊",
    "basis": "伊朗哲学通行音译（ʿAllāma Ṭabāṭabāʾī）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184018,9 +184295,11 @@
    "term": "Tacitus",
    "trans": "塔西佗",
    "basis": "古典学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184028,9 +184307,11 @@
    "term": "Taehyŏn",
    "trans": "大贤",
    "basis": "汉文传统写法（源文汉字 大賢；新罗唯识）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184038,9 +184319,11 @@
    "term": "Taftazānī",
    "trans": "塔夫塔扎尼",
    "basis": "伊斯兰神学通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184048,9 +184331,11 @@
    "term": "Takeno Jōō",
    "trans": "武野绍鸥",
    "basis": "学界惯例（日本茶道史通行汉名；源文自注“武野 紹鴎”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184058,9 +184343,11 @@
    "term": "Takeuti, Gaisi",
    "trans": "竹内外史",
    "basis": "日本数学家本名汉字（本名为汉字名而非音译，径用原名）；凭证 2026-11-12（2026-11-13 撤维基措辞，ADR-0012）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184068,9 +184355,11 @@
    "term": "Taktsang Lotsawa Shérap Rinchen",
    "trans": "达仓译师·喜饶仁钦",
    "basis": "佛学界通行（sTag tshang Lo tsā ba）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184078,9 +184367,11 @@
    "term": "Taliaferro, Charles",
    "trans": "Charles Taliaferro（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184088,9 +184379,11 @@
    "term": "Tallberg, Jonas",
    "trans": "约纳斯·塔尔贝里",
    "basis": "音译（国际组织研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184098,9 +184391,11 @@
    "term": "Tamamatsu Misao",
    "trans": "玉松操",
    "basis": "学界通行汉译；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184108,9 +184403,11 @@
    "term": "Tamir, Yael",
    "trans": "雅埃尔·塔米尔",
    "basis": "学界通行汉译（《自由主义的民族主义》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184118,9 +184415,11 @@
    "term": "Tammelleo, Scott",
    "trans": "斯科特·塔梅莱奥",
    "basis": "音译（正文作“塔梅莱奥”）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184148,9 +184447,11 @@
    "term": "Tanizaki Jun'ichirō",
    "trans": "谷崎润一郎",
    "basis": "学界惯例（日本文学史通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184158,9 +184459,11 @@
    "term": "Tanner, Michael",
    "trans": "迈克尔·坦纳",
    "basis": "音译（与 Williams 合评安斯康姆避孕论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184168,9 +184471,11 @@
    "term": "Tännsjö, Torbjörn",
    "trans": "托比约恩·滕舍",
    "basis": "音译（世界政府论者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184178,9 +184483,11 @@
    "term": "Tao Hongjing",
    "trans": "陶弘景",
    "basis": "学界千年通行（南朝道教思想家、本草学家，《本草经集注》作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184188,9 +184495,11 @@
    "term": "Tāranātha",
    "trans": "多罗那他",
    "basis": "藏学界通行汉译（1575–1634，觉囊派史家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184198,9 +184507,11 @@
    "term": "Tarski, Alfred / Alfred Tarski",
    "trans": "塔尔斯基",
    "basis": "塔尔斯基（2026-11-13 同键异译修弱势方归一：tarski-truth 成稿 62 处、reism 及学界通行均为塔尔斯基，原“保留英文”裁定与本库实践冲突）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Alfred Tarski`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184208,9 +184519,11 @@
    "term": "Tartaglia",
    "trans": "塔尔塔利亚",
    "basis": "学界千年通行（文艺复兴数学家，三次方程解法）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184218,9 +184531,11 @@
    "term": "Tarteys, John",
    "trans": "约翰·塔蒂斯",
    "basis": "本词条首译（牛津实在论者，无通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184228,9 +184543,11 @@
    "term": "Tate, Nahum",
    "trans": "纳胡姆·泰特",
    "basis": "通行音译（《李尔王》改写本作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184238,9 +184555,11 @@
    "term": "Taurek, John",
    "trans": "约翰·陶雷克",
    "basis": "学界惯例（\"数字不算数\"论文作者，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184248,9 +184567,11 @@
    "term": "Tavani, Herman",
    "trans": "赫尔曼·塔瓦尼",
    "basis": "学界通行音译（信息伦理学）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184258,9 +184579,11 @@
    "term": "Tayasu Munetake",
    "trans": "田安宗武",
    "basis": "学界通行汉译；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184268,9 +184591,11 @@
    "term": "Taylor, Alan D.",
    "trans": "艾伦·泰勒",
    "basis": "构词直译（公平分配研究者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184278,9 +184603,11 @@
    "term": "Taylor, C.C.W.",
    "trans": "C.C.W. 泰勒",
    "basis": "学界惯例（原子论译注名家；名缩写保留）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184288,9 +184615,11 @@
    "term": "Taylor, Charles",
    "trans": "查尔斯·泰勒",
    "basis": "学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184298,9 +184627,11 @@
    "term": "Taylor, Harriet A. / Harriet Taylor",
    "trans": "哈丽雅特·泰勒",
    "basis": "学界惯例（杰文斯之妻）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Harriet Taylor`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -184308,9 +184639,11 @@
    "term": "Taylor, Jacqueline",
    "trans": "泰勒",
    "basis": "学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189578,9 +189911,11 @@
    "term": "Zhiyan",
    "trans": "智俨",
    "basis": "汉文传统写法（华严二祖，义湘之师）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189588,9 +189923,11 @@
    "term": "Zhiyi",
    "trans": "智顗",
    "basis": "佛学界通行汉译（天台智者大师）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189598,9 +189935,11 @@
    "term": "Zhong, Lei",
    "trans": "钟磊",
    "basis": "本人通行汉名（香港中文大学哲学系）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189620,9 +189959,11 @@
    "term": "Zhu Xi",
    "trans": "朱熹",
    "basis": "学界千年通行译名（朱子，朝鲜性理学之源）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189630,9 +189971,11 @@
    "term": "Zhu Yun",
    "trans": "朱筠",
    "basis": "上游自带汉字；学界通行（乾隆朝士大夫，戴震知交）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189667,9 +190010,11 @@
    "term": "Zimmer, Alfred",
    "trans": "阿尔弗雷德·齐默",
    "basis": "音译（格式塔心理学家；与 Zimmerman 齐默曼异人）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189677,9 +190022,11 @@
    "term": "Zimmerman, Michael",
    "trans": "迈克尔·齐默曼",
    "basis": "学界惯例（规范伦理学家，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189687,9 +190034,11 @@
    "term": "Zola, Emile",
    "trans": "埃米尔·左拉",
    "basis": "千年通行（法国作家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189697,9 +190046,11 @@
    "term": "Zora Neale Hurston",
    "trans": "佐拉·尼尔·赫斯顿",
    "basis": "学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189717,9 +190068,11 @@
    "term": "Zoroaster",
    "trans": "琐罗亚斯德",
    "basis": "学界通行汉译（波斯宗教创始人；培尔虚构化对话者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189933,9 +190286,11 @@
    "term": "Qushjī, ʿAlāʾ al-Dīn ʿAlī",
    "trans": "阿里·库什吉",
    "basis": "学界通行音译（兀鲁伯天文台学派；正文作 ali Qushji 照源）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -190171,9 +190526,11 @@
    "term": "Zimmermann, Robert",
    "trans": "Robert Zimmermann",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -190303,9 +190660,11 @@
    "term": "Zhuk, Dmitriy",
    "trans": "德米特里·茹克",
    "basis": "学界通行音译（CSP 二分猜想共同证明者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",

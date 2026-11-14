@@ -12,7 +12,7 @@
 | alternation of quantifiers | — | 量词交替 | axiom-choice（补充材料） | 数理逻辑通行（量词交错层级） | 2026-11-13 |
 | anthyphairetic | — | 辗转相除的（anthyphairetic ratio theory 辗转相除比率理论） | umar-khayyam | 数学史通行义译（连分数定义比率；欧几里得算法辗转相除） | 2026-11-14 |
 | aṣālat al-māhiyyah | اصالة الماهية | 本质的实在性（principality of essence） | umar-khayyam | 伊斯兰哲学通行（asāla 实在性义；伊斯法罕学派论争术语；与 aṣālat al-wujūd 对举） | 2026-11-14 |
-| aṣālat al-wujūd | اصالة الوجود | 存在的实在性（principality of existence） | umar-khayyam | 伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举） | 2026-11-14 |
+| aṣālat al-wujūd | اصالة الوجود | 存在的实在性（principality of existence） | umar-khayyam | 伊斯兰哲学通行（毛拉·萨德拉立场；与 aṣālat al-māhiyyah 对举）；2026-11-14 联网复核保留（萨德拉研究文献另见“存在优先/存在的优先性”形（SEP Rizvi 作 ontological primacy of existence），中文学界译名未统一，实在性义译在列） | 2026-11-14 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
 | a fortiori argument | — | 强化论证 | ibn-taymiyya | 首译（qiyās al-awlā 之英译；与类比、三段论对举） | 2026-11-12 |
@@ -2057,7 +2057,7 @@
 | footprint of selection | — | 选择足迹 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
 | force field | — | 力场 | kant-development | 物理学通行；康德前批判力论文献；凭证 2026-11-11 | 2026-11-11 |
 | forced loan | — | 强制借款 | gregory-rimini | 经济史通行（意大利公社强制公债）；凭证 2026-11-10 | 2026-11-10 |
-| forcing | — | 力迫 | axiom-choice | 学界通行（科恩力迫法） | 2026-11-13 |
+| forcing | — | 力迫 | axiom-choice | 学界通行（科恩力迫法）；2026-11-14 联网复核保留（Kunen/Jech 中译脉络与汉语集合论文献均用“力迫/力迫法”；佐恩引理、力迫法同批锚定） | 2026-11-14 |
 | fore-structure | Vorstruktur | 前结构 | gadamer | 海德格尔《存在与时间》术语，学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | foreknowledge | — | 预知 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | forgiveness | — | 宽恕 | ricoeur | 学界惯例（利科晚期主题）；凭证 2026-11-11 | 2026-11-11 |
@@ -2854,7 +2854,7 @@
 
 ## J
 
-| jabr | جبر | 前定论（jabrī 前定论者） | umar-khayyam | 译名裁定（本条作者英译 predeterminism；伊斯兰教义学语境与“决定论”相区分） | 2026-11-14 |
+| jabr | جبر | 前定论（jabrī 前定论者） | umar-khayyam | 译名裁定（本条作者英译 predeterminism；伊斯兰教义学语境与“决定论”相区分）；2026-11-14 联网复核保留（教义学通行做法为音译“贾卜里耶”加注意译，前定/宿命论派义见《中国伊斯兰百科全书》、吴云贵《伊斯兰教义学》概念对举） | 2026-11-14 |
 | Jalali calendar | — | 贾拉利历 | umar-khayyam | 伊斯兰天文学史通行（贾拉勒丁·马利克沙朝所颁；Malikī 或作马利基历） | 2026-11-14 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
@@ -4572,7 +4572,7 @@
 
 ## Q
 
-| qadariyya | قدرية | 自由意志论（qadarī 自由意志论者） | umar-khayyam | 译名裁定（早期凯拉姆派别名，与前定论 jabr 对举；本条作者语境） | 2026-11-14 |
+| qadariyya | قدرية | 自由意志论（qadarī 自由意志论者） | umar-khayyam | 译名裁定（早期凯拉姆派别名，与前定论 jabr 对举；本条作者语境）；2026-11-14 联网复核保留（通行做法为音译“盖德里耶”加注意译，“自由意志论”派义在列，与 jabr 前定论成对举，参见《中国伊斯兰百科全书》） | 2026-11-14 |
 | quiddative | — | 什么性的 | umar-khayyam | 本条作者自铸（随本册 quiddity=什么性 并置行；区别于 essential 本质的） | 2026-11-14 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
@@ -5927,7 +5927,7 @@
 | truth condition / truth conditions | — | 真值条件 | logic-relevance；语料回收 | 逻辑学通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `truth conditions`） | 2026-11-13 |
 | truth conducive | — | 导向真理的（亦作“真理导向的”） | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
 | truth content | Wahrheitsgehalt | 真理内容 | adorno | 学界通行汉译（《美学理论》中译本通行）；凭证 2026-11-10 | 2026-11-10 |
-| truth definition / truth definitions | — | 真理定义 | tarski-truth；语料回收（词汇表并网） | 逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`） | 2026-11-13 |
+| truth definition / truth definitions | — | 真理定义（亦作“真之定义”） | tarski-truth；语料回收（词汇表并网） | 逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（与“真之理论”“真谓词”系连），主译随 SUMMARY 词条定名暂留旧形，**定名变更候选已上报**（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》） | 2026-11-14 |
 | truth in a model | — | 模型中的真 | logical-consequence | 模型论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | truth predicate | — | 真谓词 | logic-substructural | 真理论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | truth value / truth values | — | 真值（亦作"真假值"） | logic-relevance；语料回收；语料回收（词汇表并网） | 审定名词库（termonline-all·数学·数理逻辑；审定 truth value=真假值、truth=真值 并立，2026-11-08 浏览器通道凭证；主译从逻辑学通行形，审定自身真值表=truth-table 并存）；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-13 重复行合并（旧键 `truth values`） | 2026-11-13 |
@@ -6393,7 +6393,7 @@
 | zombie | philosophical zombie | 哲学僵尸 | 首现（zombies） | 学界惯例（心灵哲学意识文献通行）；凭证 2026-11-10 | 2026-11-10 |
 | zombie twin | — | 僵尸孪生者 | 首现（zombies） | 本词条语境，直译；凭证 2026-11-10 | 2026-11-10 |
 | zombie world | — | 僵尸世界 | 首现（zombies） | 本词条主题词，直译；凭证 2026-11-10 | 2026-11-10 |
-| Zorn's lemma | — | 佐恩引理 | axiom-choice | 学界通行 | 2026-11-13 |
+| Zorn's lemma | — | 佐恩引理 | axiom-choice | 学界通行；2026-11-14 联网复核保留（汉语集合论教材与选择公理等价形式文献通行“佐恩引理”；Kunen《集合论》中译脉络） | 2026-11-14 |
 | zozobra | — | 保留原文（忧悬） | existentialism-mexican | 西班牙语情感术语，源文保留原文；源自诗人 López Velarde 诗集名；凭证 2026-11-12 | 2026-11-12 |
 | zuo | 作 | 作 | han-dynasty | 王充（creation）；汉代视为消极之事 | 2026-11-10 |
 | Zuo Zhuan | 左傳 | 《左氏传》 | han-dynasty | 上游作 Zuo（左氏）；学界通行亦作《左传》 | 2026-11-10 |
