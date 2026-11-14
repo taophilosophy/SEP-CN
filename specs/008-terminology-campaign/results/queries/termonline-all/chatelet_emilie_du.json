@@ -2,10 +2,256 @@
  "key": "chatelet, emilie du",
  "term": "Châtelet, Émilie du",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T18:07:39+00:00",
- "status": "error",
- "note": "variant=Châtelet, Émilie du; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Châtelet, Émilie du: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:11:54+00:00",
+ "status": "ok",
+ "note": "variant=Châtelet, Émilie du; 审定公布名词库=162; 海峡两岸名词对照库=40; 其他来源数据库=6; 预公布名词数据库=5; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "兑端",
+   "en": "duìduān,GV27,DU27",
+   "code": "08.374",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "都督",
+   "en": "du du;governor-general",
+   "code": "1.066",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_政治_中央及地方职官"
+  },
+  {
+   "cn": "都",
+   "en": "du,capital",
+   "code": "06.003",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史"
+  },
+  {
+   "cn": "度牒",
+   "en": "du die",
+   "code": "07.01.140",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "都事",
+   "en": "du shi",
+   "code": "08.03.028",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "脱氧尿苷",
+   "en": "deoxyuridine;dU",
+   "code": "4.0051",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_核酸_核酸化学组成_核苷"
+  },
+  {
+   "cn": "督穴",
+   "en": "du point",
+   "code": "19.743",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "都江堰",
+   "en": "Du Jiang Yan;Du Jiang Weir",
+   "code": "2.511",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_历史地理"
+  },
+  {
+   "cn": "贫化铀",
+   "en": "depleted uranium,DU",
+   "code": "06.0569",
+   "standard": "化学名词",
+   "subject": "化学_放射化学_核燃料循环化学"
+  },
+  {
+   "cn": "多布森单位",
+   "en": "Dobson unit,DU",
+   "code": "04.032",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气化学"
+  },
+  {
+   "cn": "文牍员",
+   "en": "wen du yuan",
+   "code": "08.03.049",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "督催所",
+   "en": "du cui suo",
+   "code": "08.04.056",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档机构"
+  },
+  {
+   "cn": "脱氧尿苷",
+   "en": "deoxyuridine\",\"dU",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "陶普生单位",
+   "en": "Dobson unit\",\"DU",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数据单元",
+   "en": "data unit\",\"DU",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "照相天图",
+   "en": "Carte du Ciel (法)",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "迪·普雷，杰克林",
+   "en": "Du Pré\",\"Jacqueline(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "复层积云",
+   "en": "stratocumulus duplicatus\",\"Sc du",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "复高层云",
+   "en": "altostratus duplicatus\",\"As du",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "复高积云",
+   "en": "altocumulus duplicatus\",\"Ac du",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "复卷云",
+   "en": "cirrus duplicatus\",\"Ci du",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "乡村占卜师",
+   "en": "Devin du village\",\"Le",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "士兵的故事",
+   "en": "Histoire du Soldat\",\"L’",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "北方之星",
+   "en": "Etoile du Nord\",\"L’",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "缘督以为经",
+   "en": "Following the Du Meridian as the Law",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "国际海洋法法庭",
+   "en": "International Tribunal for the Law of the Sea：Tribunal international du droit de la mer：：：21• ·",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阿马加定律",
+   "en": "Émile Amagat",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海里",
+   "en": "Nautical mile",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海里",
+   "en": "nautical mile",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "“最后一公里”（脱贫）",
+   "en": "the last-mile” (in poverty alleviation)",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "时轮金刚",
+   "en": "Dus vkhor rdo rje",
+   "code": "3.0493",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《青史》",
+   "en": "Bod-kyi yul-du chos-dang chos-smra-ba ji-ltarbyung-bavi rim-pa Deb-ther sngon-po",
+   "code": "3.0297",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "code": "2.1.3.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "code": "3.3",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  },
+  {
+   "cn": "三哩岛核事故",
+   "en": "Three Mile Island nuclear accident",
+   "code": "10.2.3.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故"
+  }
+ ],
+ "error": null,
  "raw": null
 }
