@@ -179,6 +179,29 @@ def _academic_gate(zh_doc, step):
                                 % (step, r.stdout.strip()[-800:]))
 
 
+def _independence_gate(task, actor, evidence):
+    """复核独立性机检（rules/04"复核独立性"、ADR-0020 裁定②混合制）。
+
+    r1–r3 的 actor 全部同于初译 actor（retranslate 取 draft、update 取 s1）时，
+    属单会话形态，须在 r3 evidence 记明"冷置"（先做其他任务再回读）；
+    正常形态由评审线交叉满足（specs/005 §6 评审线接管）。
+    旧任务缺首写步则跳过（不强溯）。
+    """
+    first = "draft" if task.get("kind") == "retranslate" else "s1"
+    writer = next((s.get("actor") or "" for s in task.get("steps", [])
+                   if s.get("step") == first), None)
+    if not writer:
+        return
+    actors = [s.get("actor") or "" for s in task.get("steps", [])
+              if s.get("step") in ("r1", "r2")]
+    actors.append(actor or "")
+    if all(a == writer for a in actors) and "冷置" not in (evidence or ""):
+        raise PreconditionError(
+            "复核独立性未满足：r1–r3 与初译 actor（%s）全部相同，单会话形态须在 r3 "
+            "evidence 记明冷置（rules/04 复核独立性；或交评审线交叉 r1–r3，specs/005 §6）"
+            % writer)
+
+
 def reopen(slug, reason, actor):
     """把 done 的 retranslate 任务打回 pending（返工入口，ADR-0033 置空处置）。
 
