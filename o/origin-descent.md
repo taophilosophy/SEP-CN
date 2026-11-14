@@ -280,8 +280,8 @@
 [^darwin-1866]: –––, 1866, fourth edition, [[*Origin* fourth edition available online](http://darwin-online.org.uk/content/frameset?itemID=F385&viewtype=side&pageseq=1)]
 [^darwin-1869]: –––, 1869, fifth edition, [[*Origin* fifth edition available online](http://darwin-online.org.uk/content/frameset?itemID=F387&viewtype=side&pageseq=1)]
 [^darwin-1872]: –––, 1872, sixth edition, [[*Origin* sixth edition available online](http://darwin-online.org.uk/content/frameset?pageseq=100&itemID=F391&viewtype=side)
-[^darwin-1868]: –––, 1868, The Variation of Animals and Plants Under Domestication, two volumes, London: John Murray. First edition available online
-[^darwin-1871]: –––, 1871 [1981], The Descent of Man, and Selection in Relation to Sex, two volumes, London: John Murray. Reprinted, ed John T. Bonner and Robert May, Princeton: Princeton University Press [[*Descent* 1871 available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html)]
+[^darwin-1868]: –––, 1868, *The Variation of Animals and Plants Under Domestication*, two volumes, London: John Murray. First edition available online
+[^darwin-1871]: –––, 1871 [1981], *The Descent of Man, and Selection in Relation to Sex*, two volumes, London: John Murray. Reprinted, ed John T. Bonner and Robert May, Princeton: Princeton University Press [[*Descent* 1871 available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html)]
 [^darwin-1872-2]: –––, 1872, *Expression of the Emotions in Man and the Animals*, London: John Murray. [[*Expression* available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheExpressionoftheEmotions.html)]
 [^depew-2009]: Depew, David J., 2009, “The Rhetoric of the Origin of Species”, in Ruse and Richards 2009: 237–255. doi:10.1017/CCOL9780521870795.015
 [^depew-1995]: Depew, David J. and Bruce H. Weber, 1995, *Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection*, Cambridge, MA: MIT Press.
@@ -412,7 +412,7 @@
 [^todes-1989]: Todes, Daniel Philip, 1989, *Darwin Without Malthus: the Struggle for Existence in Russian Evolutionary Thought*, New York and Oxford: Oxford University Press.
 [^vorzimmer-1970]: Vorzimmer, Peter J., 1970, *Charles Darwin, The Years of Controversy: The Origin of Species and Its Critics, 1859–1882*, Philadelphia: Temple University Press.
 [^wallace-1858]: Wallace, Alfred R., 1858, “On the Tendency of Varieties to Depart Indefinitely from the Original Type”, in Glick and Kohn 1996, 335–345.
-[^wallace-nd]: –––,“The Origin of Human Races and the Antiquity of Man Deduced from the Theory of ‘Natural Selection’”, *Journal of the Anthropological Society of London*, 2: clviii–clxxxvii. doi:10.2307/3025211
+[^wallace-nd]: –––, “The Origin of Human Races and the Antiquity of Man Deduced from the Theory of ‘Natural Selection’”, *Journal of the Anthropological Society of London*, 2: clviii–clxxxvii. doi:10.2307/3025211
 [^waters-2009]: Waters, C. Kenneth, 2009, “The Arguments in the *Origin of Species*”, in Hodge and Radick 2009: 120–144, doi:10.1017/CCOL9780521884754.006
 [^whewell-1837]: Whewell, William, 1837, *History of the Inductive Sciences, from the Earliest to the Present Times*, three volumes, London: Parker.
 [^whewell-1840]: –––, 1840, *The Philosophy of the Inductive Sciences*, London: Parker. [[Whewell 1840 available online](https://archive.org/details/philosofindu01whewrich/page/n8)]
