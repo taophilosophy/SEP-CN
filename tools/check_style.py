@@ -160,11 +160,20 @@ def check_line(path, lineno, line, issues):
                 issues.append({"path": path, "line": lineno, "rule": "curly-quotes",
                                "detail": "非法引号字符 %r: %s" % (ch, seg.strip()[:40])})
         # quote-spacing（2026-11-15 O2，rules/02 引号条款：引号与西文/数字之间须有半角空格）。
-        # 遮蔽前判定＋引用域跨度启发：letter+‘ 后方 >2 字符处存在配对 ’（引用域）才判，
+        # 先等长遮蔽脚注键 `[^o’regan-2003]`、链接目标与链接文字（其内撇号非引号，
+        # 2026-11-15 全库实测：未遮蔽时 397 处命中约九成为此误报），
+        # 再以「引用域跨度启发」判定：letter+‘ 后方 >2 字符处存在配对 ’（引用域）才判，
         # 以区分 O‘Brien/Shi‘ur 类词内转写撇号（词内遮蔽规则后续照常生效）。
-        for m in re.finditer(r"[A-Za-z0-9][‘“]|[’”][A-Za-z0-9]", seg):
-            _close = seg.find("’", m.end())
-            _open = seg.rfind("‘", 0, m.start())
+        _qs = list(seg)
+        for _m in re.finditer(r"\[\^[^\]]*\]|\]\([^)]*\)|\[[^\]\n]*\]\[[^\]\n]*\]", seg):
+            for _k in range(_m.start(), _m.end()):
+                _qs[_k] = "\x00"
+        _qs = "".join(_qs)
+        # 词内转写/所有格撇号（O’Connor、d’Ariste、Kant’s、Shi‘ur）不是引号：等长遮蔽
+        _qs = re.sub(r"(?<=[^\W\d_\u4e00-\u9fff])[’'](?=[^\W\d_\u4e00-\u9fff])", "\x00", _qs)
+        for m in re.finditer(r"[A-Za-z0-9][‘“]|[’”][A-Za-z0-9]", _qs):
+            _close = _qs.find("’", m.end())
+            _open = _qs.rfind("‘", 0, m.start())
             _span = (_close - m.end() > 2) if m.group(0)[1] == "‘" else (m.start() - _open > 2)
             if _span:
                 issues.append({"path": path, "line": lineno, "rule": "quote-spacing",
