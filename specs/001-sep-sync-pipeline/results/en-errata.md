@@ -158,3 +158,11 @@
 | gelukpa | `<em>The Great Treatise on the States of the Path…</em>` | `Stages of the Path` | 通行英译书名（《菩提道次第广论》）（①） |
 | gelukpa | `lam byi gtso bo rnam gsum` | `lam gtso rnam gsum` | 威利转写多一词（《三主要道》）（①） |
 | gelukpa | `<em>Tsongkhapa&rsquo;s</em> <em>Collected Works</em>` | 合为一处斜体 | 同页另两条书目未断（②） |
+| emerson | `the Confucian <em>junxi</em>` | `junzi` | 儒家“君子”通行拼音（①） |
+| emerson | `(Wirzrbicki, 95…` | `Wirzbicki` | 同页另处作 Wirzbicki（②） |
+| emerson | `<em>Emerson&rsquo;s Antislavery Writings, </em>31` | `</em>, 31` | 逗号误入斜体、缺空格（①） |
+| emerson | `<em>…Racial Anglo-Saxonism, </em>Cambridge` | `</em>, Cambridge` | 同上（①） |
+| emerson | `<em>Individuality and Beyond: Nietzsche Reads Emerson, trans. Alexander Reynolds</em>` | 译者移出斜体 | 译者名误入书名斜体（①） |
+| emerson | `<em>Handbook of American Romanticism,</em>` | `</em>,` | 逗号误入斜体（①） |
+| emerson | `Clemens Spahr, Jan Stievermann (ed.)` | `(eds.)` | 三编者（①） |
+| emerson | `Boston: A. Williams and Co., 1882)` | `A. Williams and Co.` | 年份重复、括号不配对（①） |
