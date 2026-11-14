@@ -137,19 +137,15 @@ It has also been suggested, in view of Boltzmann’s later habit of discretising
 
 Instead, the context of his (1871b) makes clear enough how he intended the hypothesis, as has already been argued by (Brush 1976)[^brush-1976]. Immediately preceding the section in which the hypothesis is introduced, Boltzmann discusses trajectories for a simple example: a two-dimensional harmonic oscillator with potential $V(x,y) = ax^2 + by^2$. For this system, the configuration point $(x, y)$ moves through the surface of a rectangle. See Figure 1 below. (See also Cercignani 1998, 148.)[^cercignani-1998]
 
-*Figure 1.*
-
 ![An X-Y coordinate plane funning from -1 to 1 in the x-axis and from -1 to 1 in they y-axis. A closed curve weaves a loose curved mesh over the entire displayed section of the plane. There are large, wide gaps in the mesh.](../assets/statphys-Boltzmann/figure1.jpg)
 
-Figure 1. $\sqrt{a/b}$ is rational $( = 4/7 )$.
+*Figure 1.* $\sqrt{a/b}$ is rational $( = 4/7 )$.
 
 He then notes that if $a/b$ is rational (actually: if $\sqrt{a/b}$ is rational) this motion is periodic. However, if this value is irrational, the trajectory will, in the course of time, traverse “almählich die ganze Fläche” (WA I, 271) of the rectangle. See Figure 2:
 
-*Figure 2.*
-
 ![An X-Y coordinate plane funning from -1 to 1 in the x-axis and from -1 to 1 in they y-axis. A closed curve weaves a dense curved mesh over the entire displayed section of the plane. The are lots of very small gaps in the mesh so that the plane looks almost entirely colored in.](../assets/statphys-Boltzmann/figure2.jpg)
 
-Figure 2. $\sqrt{a/b}$ is irrational $( = 1/e )$.
+*Figure 2.* $\sqrt{a/b}$ is irrational $( = 1/e )$.
 
 He says in this case that $x$ and $y$ are *independent*, since for each values of $x$ an infinity of values for $y$ in any interval in its range are possible. The very fact that Boltzmann considers intervals for the values of $x$ and $y$ of arbitrary small sizes, and stressed the distinction between rational and irrational values of the ratio $a/b$, indicates that he did *not* silently presuppose that phase space was essentially discrete, where those distinctions would make no sense.
 

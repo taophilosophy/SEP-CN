@@ -8,7 +8,7 @@
 
 1. 器官移植，尤其是肾移植，在许多情况下是治疗器官衰竭的成功手段。
 2. 与其他器官衰竭疗法相比，器官移植具有成本效益（Axelrod et al. 2018；Persad 2018 则主张，与器官衰竭之外其他疾病的救命疗法相比，移植并不具有成本效益）[^axelrod-2018]。
-3. 如今大多数器官移植都属常规手术，而非实验性手术（Veatch and Ross 2015）[^veatch-2015]。这里说的器官是肾、肝、心、肺、胰腺与肠。本词条只讨论“常规”病例，不涉及子宫移植、面部移植这类罕见或实验性病例。实验性移植会引出更多问题，但更适合放到临床研究伦理的词条里处理。（Bayefsky & Berman 2016; Freeman and Jaoudé 2007; Lotz 2018; O’Donovan, Williams, & S. Wilkinson 2019; Robertson 2016; Sandman 2018; S. Wilkinson & Williams 2015; Williams 2016）[^bayefsky-2016][^freeman-2007][^lotz-2018][^o’donovan-2019][^robertson-2016][^sandman-2018][^williams-2016]。
+3. 如今大多数器官移植都属常规手术，而非实验性手术（Veatch and Ross 2015）[^veatch-2015]。这里说的器官是肾、肝、心、肺、胰腺与肠。本词条只讨论“常规”病例，不涉及子宫移植、面部移植这类罕见或实验性病例。实验性移植会引出更多问题，但更适合放到临床研究伦理的词条里处理。（Bayefsky & Berkman 2016; Freeman and Jaoudé 2007; Lotz 2018; O’Donovan, Williams, & S. Wilkinson 2019; Robertson 2016; Sandman 2018; S. Wilkinson & Williams 2015; Williams 2016）[^bayefsky-2016][^freeman-2007][^lotz-2018][^o’donovan-2019][^robertson-2016][^sandman-2018][^williams-2016]。
 4. 移植器官常常短缺。许多本可因接受移植而获益的人，最终排不上移植。也许移植他人器官终将被取代——比如用干细胞培育新器官、制造人工器官，或使用经改造的其他动物器官（异种移植）。这些办法都还没准备好进入常规临床使用；不过截至本文写作时，异种移植看来颇有希望（*Economist* 2025）[^tiihonen-2012][^wilkinson-2025][^economist-2025]。
 
 器官来自死者，也来自生者。这两类来源各有各的问题，我们先从已故器官捐献者谈起。
@@ -51,7 +51,7 @@
 
 即便承认人可以有身后利益，这些利益的内容也往往未知或不确定。许多人不曾想过器官捐献，这相当合理：他们以允许器官获取的方式死去的几率本来就低。既然他们没想过，或没表露过想法，似乎就可以说：决定是否获取器官时，并没有需要纳入考量的利益。
 
-有些时候，死者的主张会同家属、乃至潜在接受者的主张彼此冲突。这就产生了如何权衡死者主张的问题。一些论者承认死者可以有身后利益，但认为这种利益分量很轻，尤其比不上器官衰竭者对器官的需要（Harris 2002, 2003）[^harris-2002][^harris-2003]。他们或认为身后利益受挫并不影响人，或认为对器官被取走的恐惧无关紧要。在他们看来，任何大致上的后果主义计算都足以证明，可以搁置死者对器官获取的反对。另一些论者则主张：只要接受身后利益，又接受生者对自己的身体有强有力的主张，我们就有理由把生者对其死后身体的权利归于生者（T.M. Wilkinson 2011）[^wilkinson-2011]。这种观点需要解释身后权利何以可能，因为政治与法律理论中的一些论者认为，出于权利性质方面的技术性理由，权利保护不了身后利益（Steiner 1994; Fabre 2008）[^fabre-2008][^steiner-1994][^steiner-1994-2]。
+有些时候，死者的主张会同家属、乃至潜在接受者的主张彼此冲突。这就产生了如何权衡死者主张的问题。一些论者承认死者可以有身后利益，但认为这种利益分量很轻，尤其比不上器官衰竭者对器官的需要（Harris 2002, 2003）[^harris-2002][^harris-2003]。他们或认为身后利益受挫并不影响人，或认为对器官被取走的恐惧无关紧要。在他们看来，任何大致上的后果主义计算都足以证明，可以搁置死者对器官获取的反对。另一些论者则主张：只要接受身后利益，又接受生者对自己的身体有强有力的主张，我们就有理由把生者对其死后身体的权利归于生者（T.M. Wilkinson 2011）[^wilkinson-2011]。这种观点需要解释身后权利何以可能，因为政治与法律理论中的一些论者认为，出于权利性质方面的技术性理由，权利保护不了身后利益（Steiner 1994; Fabre 2008）[^fabre-2008][^steiner-1994][^steiner-1994]。
 
 **家属**。如果承认死者有主张，家属便可能通过移转获得主张。也就是说，死者可以把决策权委托给家属，某些法域允许这样做。有些作者甚至提出，死者的器官应被视为类似可继承财产的东西（Voo and Holm 2014）[^voo-2014]。不过，通过移转获得主张，并不比死者本人一开始就有主张更具争议。真正的争议在于：家属是否应当凭自身资格拥有一项主张，并能以此与死者或潜在接受者的主张相抗衡。
 
@@ -192,7 +192,7 @@
 
 为这种观点辩护的论证中，有一个“非伦理”论证，称为医学论证。按照它：
 
-> ……患有自致疾病的患者……在获得医疗方面应享有较低的优先级，因为他们更可能遭遇不良的医疗结局。（Sharkley and Gillam 2010: 661）
+> ……患有自致疾病的患者……在获得医疗方面应享有较低的优先级，因为他们更可能遭遇不良的医疗结局。（Sharkey and Gillam 2010: 661）
 
 就事实前提而言，“自致”疾病患者整体上结果会差到该被降级，这看来是假的（Munson 2002）[^munson-2002]；不过移植系统确实常常设法筛掉那些会继续危及新器官的人。无论如何，医学论证本质上只是把更一般的成本效益标准拿来应用，并不需要专门的伦理辩护。相比之下，下文讨论的论证主张，（例如）酗酒者和吸烟者在获取器官方面应享有较低的优先级，**即便** 他们遭遇不良移植结局的可能性并不比别人高。支持这一主张的主要伦理论证有三个，其中两个明显相当弱；第三个即恢复论证，值得更认真地对待。
 
@@ -251,14 +251,14 @@ Wilkinson 的结论是：这一反对意见严重削弱了恢复论证。它要�
 
 **儿童优先**。几乎所有法域在分配死者捐献的肾脏时都让儿童优先。一个后果似乎是器官总供应量减少，至少在美国如此（Axelrod et al. 2010）[^axelrod-2010]。当儿童迅速得到死者捐献肾脏时，本来会成为儿童活体捐献者的人就不捐了。也许潜在活体捐献者宁愿孩子得到死者器官，也不愿自己承担风险；也许他们想把肾脏留着备用，以备孩子需要再次移植或其他孩子需要。有人可能想：儿童优先减少了捐给儿童的活体捐献者，该会增加捐给成人的活体捐献者吧。然而总体效果仍是负面的。与前面一样，赞同儿童优先原则的人得做些选择：为了这一原则，他们愿意舍弃多少器官？这个答案与他们愿意接受指定活体器官捐献是否一致（T.M. Wilkinson and Dittmer 2016）[^wilkinson-2016][^wilkinson-2016-2]？假如 **歧视** 儿童反而能通过活体捐献产生更多器官，那就会出现更令人为难的选择。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 [^abc-2012]: ABC, 2012. “NSW Govt to Scrap License Organ Donor Scheme”, Australian Broadcasting Corporation, 7 August 2012. [[ABC 2012](https://www.abc.net.au/news/2012-08-07/nsw-donation/4183090) available online]
-[^kaoruko-2011]: Kaoruko, A., 2011, “New Organ Transplant Policies in Japan, including the Family-Oriented Priority Donation Clause”, *Transplantation*, 91(5): 489–491.
+[^aita-2011]: Aita, K., 2011, “New Organ Transplant Policies in Japan, including the Family-Oriented Priority Donation Clause”, *Transplantation*, 91(5): 489–491.
 [^alexander-1962]: Alexander, S., 1962, “They Decide Who Lives, Who Dies”, *Life*, 53: 102–25.
 [^axelrod-2010]: Axelrod, D.A., K.P. McCullough, E.D. Brewer, B.N. Becker, D.L.Segev, and P.S. Rao, 2010, “Kidney and Pancreas Transplantation in the United States, 1999–2008: The Changing Face of Living Donation”, *American Journal of Transplantation* 10 (Part 2) (4): 987–1002. doi:10.1111/j.1600-6143.2010.03022.x
 [^axelrod-2018]: Axelrod, D.A., M. Schnitzler, X. Huiling, W. Irish, E. Tuttle-Newhall, S. Chang, B.L. Kasiske, T. Alhamad, K. Lentine, 2018, “An Economic Assessment of Contemporary Kidney Transplant Practice”, *American Journal of Transplantation*, 18(5): 1168–1176. doi:10.1111/ajt.14702.
@@ -320,12 +320,12 @@ Wilkinson 的结论是：这一反对意见严重削弱了恢复论证。它要�
 [^radcliffe-2012]: –––, 2012, *The Ethics of Transplants: Why Careless Thought Costs Lives*, Oxford: Oxford University Press.
 [^rakowski-1991]: Rakowski, E., 1991, *Equal Justice*, Oxford: Clarendon Press.
 [^raz-1986]: Raz, J., 1986, *The Morality of Freedom*, Oxford: Clarendon Press.
-[^robertson-2016]: Robertson, J., 2016, “Other Women’s Wombs: Uterus Transplanation and Gestational Surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi:10.1093/jlb/lsw011
+[^robertson-2016]: Robertson, J., 2016, “Other Women’s Wombs: Uterus Transplantation and Gestational Surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi:10.1093/jlb/lsw011
 [^ross-2023]: Ross, L.F., 2023, “Misleading Statements About Children as Living Organ Donors”, *Pediatrics* 152 (6): e2023064004A. doi:10.1542/peds.2023-064004A
-[^sandman-2018]: Sandman, L., 2018, “The Importance of Being Pregnant: On the Healthcare Need for Uterus Transplanation”, *Bioethics*, 32: 519–526. doi:10.1111/bioe.12525
+[^sandman-2018]: Sandman, L., 2018, “The Importance of Being Pregnant: On the Healthcare Need for Uterus Transplantation”, *Bioethics*, 32: 519–526. doi:10.1111/bioe.12525
 [^scott-2004]: Scott, Sophie, 2004, “Cult Organ Donations Under Investigation”, ABC News 6 July 2004 [[Scott 2004 available online](https://www.abc.net.au/news/2004-07-06/cult-organ-donations-under-investigation/2004876)].
 [^sharif-2018]: Sharif, A. and G. Moorlock, 2018, “Influencing Relatives to Respect Donor Autonomy: Should We Nudge Families to Consent to Organ Donation?”, *Bioethics*, 32: 155–163. doi:10.1111/bioe.12420
-[^sharkey-2010]: Sharkey, K. and L. Gillam, 2010, “Should Patients with Self-inflicted Illness Receive Lower Priority in Access to Healthcare Resources? Mapping out the Debate”, *Journal of Medical Ethics*, 20: 661–665. doi:10.1136/jme.2009.032102
+[^sharkey-2010]: Sharkey, K. and L. Gillam, 2010, “Should Patients with Self-inflicted Illness Receive Lower Priority in Access to Healthcare Resources? Mapping out the Debate”, *Journal of Medical Ethics*, 36: 661–665. doi:10.1136/jme.2009.032102
 [^smart-1994]: Smart, B., 1994, “Fault and the Allocation of Spare Organs”, *Journal of Medical Ethics*, 20: 26–30. doi:10.1136/jme.20.1.26
 [^spital-2004]: Spital, A., 2004, “Donor Benefit is Key to Justified Organ Donation”, *Cambridge Quarterly of Healthcare Ethics*, 13(1): 105–109. doi:10.1017/S0963180104131174
 [^steiner-1994]: Steiner, H., 1994, *An Essay on Rights*, Oxford: Basil Blackwell.
@@ -333,7 +333,6 @@ Wilkinson 的结论是：这一反对意见严重削弱了恢复论证。它要�
 [^tiihonen-2012]: J. Tiihonen, K. Ronkainen, A. Kangasharju, and J. Kauhanen, 2012, “The Net Effect of Smoking on Healthcare and Welfare Costs: A Cohort Study”, *BMJ Open*, 2:e001678. doi:10.1136/bmjopen-2012-001678
 [^tilney-2003]: Tilney, N., 2003, *Transplant: From Myth to Reality*, New Haven: Yale University Press.
 [^van-2016]: Van Assche, K., K. Thys, T. Vansweevelt, G. Genicot, P. Borry, S. Sterckx, 2016, “Living Tissue and Organ Donation by Minors: Suggestions to Improve the Regulatory Framework in Europe”, *Medical Law International*, 16(1–2): 58–93. doi:10.1177/0968533216660877
-[^steiner-1994-2]: Steiner, H., 1994, *An Essay on Rights*, Oxford: Basil Blackwell.
 [^veatch-2015]: Veatch, R. and L. Ross, 2015, *Transplantation Ethics* (2ⁿᵈ edition), Washington DC: Georgetown University Press.
 [^volk-2008]: Volk, M and Ubel, P., 2008, “The Impracticality of Overriding Family Rejection of Donation”, *Transplantation*, 86: 1631–2.
 [^voo-2014]: Voo, T.C. and S. Holm, 2014, “Organs as Inheritable Property?”, *Journal of Medical Ethics*, 40:57–61. doi:10.1136/medethics-2013-101336

@@ -63,19 +63,15 @@ The moral, in general terms, is that in cases of incommensurability (or cases in
 
 Another source of dynamic choice problems is present-biased preferences. Like other animals, humans give more weight to present satisfaction than to future satisfaction. In other words, we discount future utility. Insofar as one discounts future utility, one prefers, other things equal, to get a reward sooner rather than later; relatedly, the closer one gets to a future reward, the more the reward is valued. If we map the value (to a particular agent) of a given future reward as a function of time, we get a discount curve, such as in Figure 1:
 
-*Figure 1.*
-
 ![Figure 1](../assets/dynamic-choice/figure1.jpg)
 
-Figure 1. The discounted value of a reward gradually increases as *t*, the time at which the reward will be available, approaches.
+*Figure 1.* The discounted value of a reward gradually increases as *t*, the time at which the reward will be available, approaches.
 
 Research in experimental psychology (see, for example, Kirby & Herrnstein 1995, Millar & Navarick 1984, Solnick et al. 1980, and Ainslie 2001)[^ainslie-2001][^kirby-1995][^millar-1984] suggests that, given how animals, including humans, discount future utility, there are plenty of cases in which the discount curves from two rewards, one a small reward and the other a larger later reward, cross, as in Figure 2:
 
-*Figure 2.*
-
 ![Figure 2](../assets/dynamic-choice/figure2.jpg)
 
-Figure 2. Two crossing discount curves, one tracking the discounted value of a small reward that will be available at *t*₁ and the other tracking the discounted value of a large reward that will be available at *t*₂.
+*Figure 2.* Two crossing discount curves, one tracking the discounted value of a small reward that will be available at *t*₁ and the other tracking the discounted value of a large reward that will be available at *t*₂.
 
 In such cases, the agent’s discounting of future utility induces a preference reversal with respect to the two possible rewards. When neither reward is imminent, before the discount curves cross, the agent consistently prefers the larger later reward over the smaller earlier reward. But when the opportunity to accept the small reward is sufficiently close, the discounted value of the small reward catches up with and then overtakes the discounted value of the larger later reward. As the discount curves cross, the agent’s preferences reverse and she prefers the small reward over the larger later reward.
 
@@ -87,11 +83,9 @@ Interestingly, in addition to giving more weight to present satisfaction than to
 
 An agent’s preference structure need not be changing over time for it to prompt dynamic choice problems. Such problems can also be prompted by preferences that are stable but intransitive. One’s preferences count as transitive if they satisfy the following condition: for all *x*, *y*, and *z*, if one prefers *x* to *y*, and *y* to *z*, then one also prefers *x* to *z*. If one’s preferences over a set of options do not satisfy this condition, then these preferences count as intransitive. When one’s preferences over a set of options are intransitive, then one cannot rank the options from most preferred to least preferred. This holds even if one’s preferences over the options are complete, in the sense that all the options are ranked with respect to one another. Suppose, for example, that one prefers job *A* to job *B*, job *B* to job *C*, but job *C* to job *A*. In this case, one’s complete preferences over the set {job *A*, job *B*, job *C*} form a preference loop, which can be represented as follows:
 
-*Figure 3.*
-
 ![job A > job B > job C > ](../assets/dynamic-choice/preference-loop1.jpg)
 
-Figure 3.
+*Figure 3.*
 
 where *x* > *y* is to be read as *x* is preferred to *y*.
 
@@ -103,11 +97,9 @@ Even if he does not serve as a money pump, an agent with intransitive preference
 
 Given his preferences, the self-torturer cannot rank the setting options he faces from most preferred to least preferred. More specifically, his preferences incorporate the following preference loop:
 
-*Figure 4.*
-
 ![setting 0 < setting 1 < ... < setting 999 < setting 1000 < setting 0](../assets/dynamic-choice/preference-loop2.jpg)
 
-Figure 4.
+*Figure 4.*
 
 Relatedly, the self-torturer’s preferences over the available setting options are intransitive. If his preferences were transitive, then, given that he prefers setting 2 to setting 1 and setting 1 to setting 0, he would prefer setting 2 to setting 0. Given that he also prefers setting 3 to setting 2, he would (assuming transitivity) prefer setting 3 to setting 0. Given that he also prefers setting 4 to setting 3, he would (assuming transitivity) prefer setting 4 to setting 0. Continuing with this line of reasoning leads to the conclusion that he would, if his preferences were transitive, prefer setting 1000 to setting 0. Since he does not prefer setting 1000 to setting 0, his preferences are intransitive. And this intransitivity can lead the self-torturer down a terrible path. In particular, if, each week, the self-torturer follows his preference over the pair of settings he must choose between, he will end up in a situation that he finds completely unacceptable. This is quite disturbing, particularly once one realizes that, although the situation of the self-torturer is pure science fiction, the self-torturer is not really alone in his predicament. As Quinn stresses, “most of us are like him in one way or another. [For example, most of us] like to eat but also care about our appearance. Just one more bite will give us pleasure and won’t make us look fatter; but very many bites will” (Quinn 1993, 199)[^quinn-1993].
 

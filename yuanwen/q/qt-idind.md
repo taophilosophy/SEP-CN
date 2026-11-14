@@ -27,11 +27,9 @@ This is just a sketch of some of the various positions that have been adopted. T
 
 The argument for the above conclusion – that the fundamental objects of physics cannot be regarded as individuals – can be summed up as follows: First of all, both ‘classical’ and ‘quantal’ objects of the same kind (e.g. electrons) can be regarded as indistinguishable in the sense of possessing the same intrinsic (that is, state-independent) properties, such as rest mass, charge, spin etc. Consider now the distribution of two such indistinguishable particles over two boxes, or two states in general:
 
-*Figures*
-
 ![two boxes side by side, two circles in the first box](../assets/qt-idind/image1.gif) (1) ![two boxes side by side, two circles in the second box](../assets/qt-idind/image2.gif) (2) ![two boxes side by side, one circle in each box](../assets/qt-idind/image3.gif) (3)
 
-Figures
+*Figures*
 
 In classical physics, (3) is given a weight of twice that of (1) or (2), corresponding to the two ways the former can be achieved by permuting the particles. This gives us four combinations or complexions in total and hence we can conclude that the probability of finding one particle in each state, for example, is 1/2. (Note that it is assumed that none of the four combinations is regarded as privileged in any way, so each is just as likely to occur.) This is an example of the well-known ‘Maxwell-Boltzmann’ statistics to which, it is claimed, thermodynamics was reduced at the turn of the twentieth century.
 

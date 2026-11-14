@@ -277,7 +277,7 @@ The SEP Editors would like to thank Sally Ferguson for her editorial work on ear
 
 [^hull-1974]: –––, 1974. *Philosophy of Biological Science*, Englewood Cliffs: Prentice-Hall.
 
-[^hull-1975]: –––, 1975. “Informal Aspects of Theory Reduction,” in R. S. Cohen and A. Michalos (eds.), *Proceedings of the Biennial Meeting of the Philosopy of Science Association, 1974*, Dordrecht: D. Reidel, 653–670.
+[^hull-1975]: –––, 1975. “Informal Aspects of Theory Reduction,” in R. S. Cohen and A. Michalos (eds.), *Proceedings of the Biennial Meeting of the Philosophy of Science Association, 1974*, Dordrecht: D. Reidel, 653–670.
 
 [^hull-1976]: –––, 1976. “Are species really individuals?” *Systematic zoology*, 25(2): 174–191.
 
@@ -465,7 +465,7 @@ The SEP Editors would like to thank Sally Ferguson for her editorial work on ear
 
 [^potochnik-2009]: Potochnik, A., 2009. “Optimality modeling in a suboptimal world,” *Biology and Philosophy*, 24: 183–197.
 
-[^ramsey-2013]: Ramsey, G., 2013. “Human nature in a post-essentialist world,” *Philosophy of Science*, 80(5): 983–993. Chicago
+[^ramsey-2013]: Ramsey, G., 2013. “Human nature in a post-essentialist world,” *Philosophy of Science*, 80(5): 983–993.
 
 [^richardson-2010]: Richardson, R. C., 2010. *Evolutionary psychology as maladapted psychology*, Cambridge, MA: MIT Press.
 

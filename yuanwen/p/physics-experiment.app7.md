@@ -24,21 +24,17 @@ Thomson’s first order of business was to show that the cathode rays carried ne
 
 Thomson repeated the experiment, but in a form that was not open to that objection. The apparatus is shown in Figure 14. The two coaxial cylinders with holes are shown. The outer cylinder was grounded and the inner one attached to an electrometer to detect any charge. The cathode rays from A pass into the bulb, but would not enter the holes in the cylinders unless deflected by a magnetic field.
 
-*Figure 14.*
-
 ![Figure 14](../assets/physics-experiment/figure14.jpg)
 
-Figure 14. Thomson’s apparatus for demonstrating that cathode rays have negative charge. The slits in the cylinders are shown. From Thomson (1897).
+*Figure 14.* Thomson’s apparatus for demonstrating that cathode rays have negative charge. The slits in the cylinders are shown. From Thomson (1897).
 
 When the cathode rays (whose path was traced by the phosphorescence on the glass) did not fall on the slit, the electrical charge sent to the electrometer when the induction coil producing the rays was set in action was small and irregular; when, however, the rays were bent by a magnet so as to fall on the slit there was a large charge of negative electricity sent to the electrometer…. If the rays were so much bent by the magnet that they overshot the slits in the cylinder, the charge passing into the cylinder fell again to a very small fraction of its value when the aim was true. *Thus this experiment shows that however we twist and deflect the cathode rays by magnetic forces, the negative electrification follows the same path as the rays, and that this negative electrification is indissolubly connected with the cathode rays* (Thomson 1897, p. 294–295, emphasis added).
 
 This experiment also demonstrated that cathode rays were deflected by a magnetic field in exactly the way one would expect if they were negatively charged material particles.[^note-A7-4]
 
-*Figure 15.*
-
 ![Figure 15](../assets/physics-experiment/figure15.jpg)
 
-Figure 15. Thomson’s apparatus for demonstrating that cathode rays are deflected by an electric field. It was also used to measure $\bfrac{m}{e}$. From Thomson (1897).
+*Figure 15.* Thomson’s apparatus for demonstrating that cathode rays are deflected by an electric field. It was also used to measure $\bfrac{m}{e}$. From Thomson (1897).
 
 There was, however, a problem for the view that cathode rays were negatively charged particles. Several experiments, in particular those of Hertz, had failed to observe the deflection of cathode rays by an electrostatic field. Thomson proceeded to answer this objection. His apparatus is shown in Figure 15. Cathode rays from C pass through a slit in the anode A, and through another slit at B. They then passed between plates D and E and produced a narrow well-defined phosphorescent patch at the end of the tube, which also had a scale attached to measure any deflection. When Hertz had performed the experiment he had found no deflection when a potential difference was applied across D and E. He concluded that the electrostatic properties of the cathode ray are either *nil* or very feeble. Thomson admitted that when he first performed the experiment he also saw no effect. “on repeating this experiment [that of Hertz] I at first got the same result [no deflection], but subsequent experiments showed that the absence of deflexion is due to the conductivity conferred on the rarefied gas by the cathode rays”.[^note-A7-5] On measuring this conductivity it was found that it diminished very rapidly as the exhaustion increased; it seemed that on trying Hertz’s experiment at very high exhaustion there might be a chance of detecting the deflexion of the cathode rays by an electrostatic force (Thomson 1897, p. 296). Thomson did perform the experiment at lower pressure [higher exhaustion] and observed the deflection.[^note-A7-6]
 

@@ -1,0 +1,33 @@
+{
+ "key": "kobayashi, naoki",
+ "term": "Kobayashi, Naoki",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T06:09:04+00:00",
+ "status": "ok",
+ "note": "variant=Kobayashi, Naoki; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "小林[昭七]度量",
+   "en": "Kobayashi metric",
+   "code": "05.0577",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "小林-益川混合矩阵",
+   "en": "Kobayashi-Maskawa mixing matrix",
+   "code": "09.1367",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "卡比博-小林-益川矩阵",
+   "en": "Cabibbo-Kobayashi-Maskawa matrix,CKM matrix",
+   "code": "09.1503",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

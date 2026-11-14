@@ -101,25 +101,19 @@ We notice in Descartes’ remarks concerning geometry in particular that the “
 
 In his 26 March 1619 letter to Beeckman, Descartes does not elaborate on the “new types of compasses” to which he refers; he simply reports to Beeckman in the early portions of the letter that he has, in a short time, “discovered four conspicuous and entirely new demonstrations with the help of my compasses” (AT X, 154). Fortunately, more details about these compasses and Descartes’ demonstrations are included in *Cogitationes privatae*, or *Private Reflections* (ca. 1619–1620), a text in which Descartes applies three different “new compasses” (often referred to by commentators as “proportional compasses”) to the problems of (1) dividing a given angle into any number of equal parts, (2) constructing the roots of three types of cubic equations, and (3) describing a conic section. In the first two cases, as Descartes treats the angular section and mean proportional problems, the compasses on which he relies are used to generate a curve that will solve the problem at hand.
 
-*Figure 1.*
-
 ![Figure 1: As described in the text, four rulers (OA, OB, OC, OD), which are hinged at point O with OA horizontal and OD at about 60 degrees, the others between in order. Four rods of equal length a (HJ, FJ, GI, EI) are attached to the rulers such that E, F, G, and H are a distance a from O on rulers (OA, OB, OC, OD) respectively.](../assets/descartes-mathematics/fig1.png)
 
-Figure 1.
-
-*Figure 2.*
+*Figure 1.*
 
 ![Figure 2: Same as figure 1 except a curve, KLM, starting at K on ruler OA, intersecting J on ruler OC and ending at M beyond ruler OD.](../assets/descartes-mathematics/fig2.png)
 
-Figure 2.
+*Figure 2.*
 
 For instance, to solve the angular section problem, Descartes begins by presenting an instrument that includes four rulers (OA, OB, OC, OD), which are hinged at point O (figure 1). We then take four rods (HJ, FJ, GI, EI), which are of equal length $a$, and attach them to the arms of the instrument such that they are a distance $a$ from O and are pair-wise hinged at points J and I. Leaving OA stationary, we now move OD so as to vary the measure of angle DOA, and following the path of point J, we generate the curve KLM (figure 2). As Descartes has it, we can construct the curve KLM on *any* given angle by means of the instrument described above, because the angle we are trisecting plays no role in the construction of KLM. And once the curve KLM is constructed, the given angle can be trisected by means of some basic constructions with straight lines and circles. In this respect, the curve KLM is, for Descartes, the means for solving the angle trisection problem, and moreover, his treatment suggests that the construction can be generalized further so that, by means of his “new compass,” an angle can also be divided into 4, 5, or more equal parts. (I borrow my treatment of this construction from Domski 2009, 121, which is itself indebted to the presentation in Bos 2001, 237–239.)[^bos-2001][^domski-2009]
 
-*Figure 3.*
-
 ![Figure 3: demonstration of a mesolabe. The mesolabe consists of a set of rulers. rulers YX and YZ are hinged at Y to form an adjustable angle XYZ. Ruler BC is perpendicular to YX and fixed at point B, C is on YZ and movable. Ruler CD is perpendicular to YZ and intersects YX at movable point D. DE is perpendicular to YX and intersect YZ at movable point E. EF is perpendicular to YZ and intersects YX at movable point F. FG is perpendicular to YX and intersects YZ at movable point G. GH is perpendicular to YZ and intersects YX at movable point H. Points D, F, and H trace out dotted lines. As the XYZ angle closes, all three points converge on A.](../assets/descartes-mathematics/fig3.png)
 
-Figure 3. Mesolabe
+*Figure 3.* Mesolabe
 
 A similar approach is taken by Descartes when he treats the problem of constructing mean proportionals, where in this case, he appeals to his famous mesolabe compass, an instrument that is used in Book Three of the *La Géométrie* to solve the same problem. As in 1637, this compass is used to construct curves (the dotted lines in figure 3) that allow us to identify the mean proportionals between any number of given line segments. And as Viète before him, in the *Private Reflections* Descartes uses this construction of mean proportionals to identify the roots of standard-form cubic equations (see Bos 2001, 240–45)[^bos-2001].
 
@@ -135,21 +129,17 @@ While some of the results from this period are connected with the problem-solvin
 
 In late 1631, the Dutch mathematician Golius urged Descartes to consider the solution to the Pappus problem. Unlike the geometrical problems that occupied Descartes’ early researches, the Pappus problem is a locus problem, i.e., a problem whose solution requires constructing a curve—the “Pappus curve” according to Bos’s terminology—that includes all the points that satisfy the relationship stated in the problem. Generally speaking, the Pappus Problem begins with a given number of lines, a given number of angles, a given ratio, and a given segment, and the task is identify a curve such that all the points on the curve satisfy a specified relation to the given ratio. For instance, in the most basic two-line Pappus Problem (figure 4), we are given two lines $(L_1, L_2)$, two angles $(\theta_1 , \theta_2)$, and a ratio $\beta$. We designate $d_1$ to be the oblique distance between a point $P$ and $L_1$ such that $P$ creates $\theta_1$ with $L_1$, and we designate $d_2$ to be the oblique distance between a point $P$ in the plane and $L_2$ such that $P$ creates $\theta_2$ with $L_2$. The problem is to find all points $P$ such that $d_1 : d_2 = \beta$. In this case, all the sought after points $P$ will lie along two straight lines, one line to the right of $L_1$ and the other to the left of $L_1$. (See figure 5 for Bos’s presentation of the general problem.)
 
-*Figure 4.*
-
 ![Figure 4: A Two-line Pappus problem. Lines L1 (from upper left to lower left) and L2 (almost horizontal) intersect. Point P is in the first quadrant and a line from L1 to Point P is distance d1 and a line from L2 to Point P is distance d2. The interior angles are theta1 and theta2.](../assets/descartes-mathematics/fig4.png)
 
-Figure 4. A Two line Pappus problem
+*Figure 4.* A Two line Pappus problem
 
 In the *Collection*, Pappus presents a solution to the three and four line versions of the problem (i.e., the versions of the problem in which we begin with three or four given lines and angles) as well as Apollonius’s solution to the six-line case, which relies on his theory of conics and the transformation of areas to construct the locus of points (Pappus, 118–123). However, Pappus does not treat the general $(n$-line) case, and this is the advance of the solution Descartes achieves in 1632, a solution published in *La Géométrie*, where he claims that, unlike the ancients, he has found a method to successfully “determine, describe, [and] explain the nature of the line required when the question [of the Pappus Problem] involves a greater number of lines” (G, 22). And as Descartes reports to Mersenne in 1632, he could not have found his general solution without the help of algebra:
 
 > I must admit that I took five or six weeks to find the solution [to the Pappus Problem]; and if anyone else discovers it, I will not believe that he is ignorant of algebra (To Mersenne 5 April 1632; AT I, 244; CSMK, 37).
 >
-> *Figure 5.*
->
 > ![Figure 5: horizontal Line L1 intersecting non-parallel lines L2, L3, L4 (converging to a non-visible point above the figure). From point P (below L1 and between L3 and L4 in the figure) lines intersect L1 at point A and theta1 and distance d1=x; L4 at angle theta4 and distance d4, L3 at angle theta3 and distance d3 and L2 at angle theta2 and distance d2. Point O is the intersection of L3 and L1 and the distance OA is x.](../assets/descartes-mathematics/fig5.png)
 >
-> Figure 5. The General Pappus Problem (from Bos 2001,Fig. 19.1, 273)[^bos-2001]
+> *Figure 5.* The General Pappus Problem (from Bos 2001,Fig. 19.1, 273)[^bos-2001]
 >
 > Given: a Line $L_i$ in the plane, $n$ angles $\theta_i$, a ratio $\beta$, a line segment $a$. For an point $P$ in plane, let $d$ be the oblique distance between $P$ and $L_i$ such that $P$ creates $\theta_i$ with $L_i$.
 >
@@ -183,19 +173,15 @@ We notice that the key to Descartes’ analysis is to make no distinction betwee
 
 > Given a line segment AB containing point C (see figure 6), the problem is to produce AB to D such that the product AD$\times$DB is equal to the square of CD. Let AC $= a$, CB $= b$, and BD $= x$, which yields AD $= a + b + x$ and CD $= b + x$. Thus, the problem to find BD such that AD$\times$DB = (CD)$^2$ is algebraically equivalent to finding $x$ such that: $(a + b + x)\times(x) = (b + x)^2$. Or, solving for $x$, the problem is to find $x$ such that, given $a$ and $b, x = b^2 / (a$—$b)$.
 
-*Figure 6.*
-
 ![A horizontal line with points A, C, B, and D marked on it in that order. Distance a is from point A to C. Distance b from point C to B, distance x from B to D.](../assets/descartes-mathematics/fig6.png)
 
-Figure 6.
+*Figure 6.*
 
 In this example, we are dealing with a determinate problem, i.e., a problem to which there are a finite number of solutions, and we can therefore reduce the problem to a single equation that expresses the unknown quantity in terms of the known quantities. However, as Descartes points out, there are also indeterminate problems that involve an infinite number of solutions. (Locus problems, such as the Pappus Problem, are of this sort, because the solution includes the infinitely many points that lie along a curve.) When dealing with an indeterminate problem, Descartes instructs us that “we may arbitrarily choose lines of known length for each unknown line to which there corresponds no equation” (G, 9), i.e., we are to set the unknown lines as oblique coordinates that have a stated value. We then generate several equations that express the unknown quantities in terms of one or more known quantities, and solve the equations simultaneously. This is precisely the approach that Descartes takes as he treats the Pappus Problem in Book One.
 
-*Figure 7.*
-
 ![Three solid, straight lines, FES which goes from the lower left to mid top, EABG which goes from left to right, and TGH which goes from upper left to mid right. Point C is below all three lines and from it dotted, straight lines, CBRST (which intersects all three solid lines at points B, S, and T), CF, CH, and CD which is a dotted line to point D to the left and down of C. There is also a dotted, straight line DAR.](../assets/descartes-mathematics/fig7.png)
 
-Figure 7. The Four-Line Pappus Problem in Book One (G, 27)
+*Figure 7.* The Four-Line Pappus Problem in Book One (G, 27)
 
 Descartes begins with consideration of the problem when we are given three or four lines, which, borrowing from Guicciardini (2009), can be stated as follows (see figure 7):
 
@@ -233,11 +219,9 @@ We see in these remarks that the precision and exactness of geometry is intimate
 >
 > Now as the angle XYZ is increased, the point B describes the curve AB, which is a circle; while the intersections of the other rulers, namely, the points D, F, H describe the other curves, AD, AF, AH, of which the latter are more complex than the first and this more complex than the circle. Nevertheless I see no reason why the description of the first cannot be conceived as clearly and distinctly as that of the circle, or at least as that of the conic sections; or why that of the second, third, or any other that can be thus described, cannot be as clearly conceived of as the first: and therefore I see no reason why they should not be used in the same way in the solution of geometric problems (G, 44–47).[^note-7]
 
-*Figure 8.*
-
 ![A mesolabe same as Figure 3.](../assets/descartes-mathematics/fig3.png)
 
-Figure 8. Mesolabe
+*Figure 8.* Mesolabe
 
 A couple points are worth emphasizing. First, Descartes presents the more complex curves generated by his compass as described by motions that can be as “conceived as clearly and distinctly” as the motions required to construct the more simple circle. And because of the clear and distinct motions needed for their construction, these curves are legitimately geometrical. That is, consistent with Descartes’ general criterion for constructing geometrical curves, these complex curves can be used in the solution of geometric problems. Second, we see that although Descartes takes care to distinguish the concerns of geometry from those of mechanics, he does not steer away from the construction of curves by means of instruments. Although instrumental constructions are mechanical constructions, they can nonetheless give rise to geometrical curves precisely because the *motions* of the instruments are “clearly and distinctly” conceived. That the motions are generated by instruments does not render the resultant curve non-geometrical. (For more on the use of instruments in *La Géométrie*, see Bos 1981.)[^bos-1981]
 
@@ -285,11 +269,9 @@ The suggestion from Descartes is that when we pointwise construct a geometric cu
 
 This distinction between the pointwise construction of “geometric” and “mechanical” curves serves two rather important purposes in the program of *La Géométrie*: (1) Descartes can establish that the Pappus curves he has pointwise constructed are in fact “geometrical” and thereby complete his synthesis (or demonstration) of the general Pappus Problem, and (2) he can maintain a boundary between intelligible “geometric” curves and unintelligible “mechanical” curves. Without a clear indication of why the pointwise construction of a Pappus curve is “geometric,” Descartes would have to allow “mechanical” curves such as the spiral and quadratrix into the domain of geometrical curves, since these curves can also be pointwise constructed. Recall for instance Clavius’s pointwise construction of the quadratrix. According to Clavius’s description, we begin with a quadrant of a circle and then identify the points of intersection between segments that bisect the quadrant and segments that bisect the arc of the quadrant (see figure 9). That is, we identify the several intersecting points of segments which are constructible by straightedge and compass, and then, to generate the quadratrix, we connect the intersecting points, which are evenly spaced along the sought after curve. Why is such a pointwise construction not “geometric”? Because, according to Descartes, if we proceed as Clavius does, “not any point of the required curve may be found at pleasure.” Specifically, given the restrictions of Euclidean construction, we are only able to divide the given arc into $2^n$ parts. As such, what Descartes suggests is that it is not possible to divide the arc any way we please, and we cannot therefore locate any arbitrary point along the curve by use of pointwise construction. In the case of the “geometric” curves, however, we can find any arbitrary point on the curve by appeal to the equations corresponding to the problem; or borrowing Bos’s terminology, Descartes is claiming that “geometric” curves, and the Pappus curves in particular, can be generated by “generic” pointwise constructions.
 
-*Figure 9.*
-
 ![A vertical line AC and horizontal line AGB (going to the right). Three horizontal parallel lines above AGB, (not labelled but consider them L1, L2, L3 from top to bottom). Three lines AE, AD, AF radiate from A between AC and AGB. AE intersects L1 at point p1, AD with L2 at point p2, AF with L3 at point p3 . Curve CG connects p1, p2, p3. Curve CB intersects L1 where AD also intersects L1.](../assets/descartes-mathematics/fig9.png)
 
-Figure 9.
+*Figure 9.*
 
 While consideration of Clavius’s construction of the quadratrix offers some reason to accept Descartes’ distinction between the different sorts of pointwise constructions, there remains the controversial claim that curves described by “generic” pointwise constructions are curves that can be constructed by continuous motion. This identification allows Descartes to establish Pappus curves as “geometric” curves, but he offers no proof of the identity, and thus, there is question of whether Descartes has in fact demonstrated that the Pappus curves are “geometric” by his own standards. (See Grosholz 1991 and Domski 2009 for alternative ways of addressing this tension.)[^domski-2009][^grosholz-1991]
 

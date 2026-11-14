@@ -80,11 +80,9 @@ Lavoisier’s list of elements was corrected and elaborated with the discovery o
 
 Later, Lothar Meyer (1830–95) and Dmitrij Mendeleev (1834–1907) independently presented periodic tables covering all 63 elements known in 1869. In 1871, Mendeleev published his periodic table in the form it was subsequently acclaimed. This table was organized on the idea of periodically recurring general features as the elements are followed when sequentially ordered by relative atomic weight. The periodically recurring similarities of chemical behavior provided the basis of organizing elements into groups. He identified 8 such groups across 12 horizontal periods, which, given that he was working with just 63 elements, meant there were several holes.
 
-*Figure 1.*
-
 ![periodic table](../assets/chemistry/periodic-table.png)
 
-Figure 1. The International Union of Pure and Applied Chemistry’s Periodic Table of the Elements.
+*Figure 1.* The International Union of Pure and Applied Chemistry’s Periodic Table of the Elements.
 
 The modern Periodic Table depicted in Figure 1 is based on Mendeleev’s table, but now includes 92 naturally occurring elements and some dozen artificial elements (see Scerri 2006)[^scerri-2006]. The lightest element, hydrogen, is difficult to place, but is generally placed at the top of the first group. Next comes helium, the lightest of the noble gases, which were not discovered until the end of the 19ᵗʰ century. Then the second period begins with lithium, the first of the group 1 (alkali metal) elements. As we cross the second period, successively heavier elements are first members of other groups until we reach neon, which is a noble gas like helium. Then with the next heaviest element sodium we return to the group 1 alkali metals and begin the third period, and so on.
 
@@ -156,11 +154,9 @@ The situation was made more complex when chemists realized that elemental compos
 
 Isomers may differ radically in “physical” properties such as melting points and boiling points as well as patterns of chemical reactivity. This is the case with dimethyl ether and ethyl alcohol, which have the *compositional formula* C₂H₆O in common, but are represented by two distinct *structural formulas*: (CH₃)₂O and C₂H₅OH. These formulas identify different *functional groups,* which govern patterns of chemical reactivity. The notion of a structural formula was further elaborated to accommodate other isomers that are even more similar. This was the case with a subgroup of *stereoisomers* called *optical* isomers, which are alike in many of their physical properties such as melting points and boiling points and (when first discovered) seemed to be alike in chemical reactivity too. Pasteur famously separated *enantiomers* (stereoisomers of one another) of tartaric acid by preparing a solution of the sodium ammonium salt and allowing relatively large crystals to form by slow evaporation. Using tweezers, he assembled the crystals into two piles, members of the one having shapes which are mirror images of the shapes of those in the other pile. Optical isomers are so called because they have the distinguishing feature of rotating the plane of plane polarized light in opposite directions, a phenomenon first observed in quartz crystals at the beginning of the 19ᵗʰ century. These isomers are represented by three-dimensional structural formulas which are mirror images of one another as we show in Figure 2.
 
-*Figure 2.*
-
 ![tartaric acid](../assets/chemistry/tartaric-acid.png)
 
-Figure 2. The enantiomers of tartaric acid. D-tartaric acid is on the left and L-tartaric acid is on the right. The dotted vertical line represents a mirror plane. The solid wedges represent bonds coming out of the plane, while the dashed wedges represent bonds going behind the plane. These molecular structures are mirror images of one another.
+*Figure 2.* The enantiomers of tartaric acid. D-tartaric acid is on the left and L-tartaric acid is on the right. The dotted vertical line represents a mirror plane. The solid wedges represent bonds coming out of the plane, while the dashed wedges represent bonds going behind the plane. These molecular structures are mirror images of one another.
 
 Although these discoveries are often presented as having been explained by the atomic or molecular hypothesis, skepticism about the status of atomism persisted throughout the 19th century. Late 19th century skeptics such as Ernst Mach, Georg Helm, Wilhelm Ostwald, and Pierre Duhem did not see atomism as an adequate explanation of these phenomena, nor did they believe that there was sufficient evidence to accept the existence of atoms. Instead, they advocated non-atomistic theories of chemical change grounded in thermodynamics (on Helm and Ostwald, see the introduction to Deltete 2000)[^deltete-2000].
 
@@ -210,11 +206,9 @@ In the first half of the nineteenth century there was no general agreement about
 
 Kekulé’s ideas about bonding between atoms were important steps toward understanding isomerism. Yet his presentations of structure theory lacked a clear system of diagrammatic representation so most modern systems of structural representation originate with Alexander Crum Brown’s (1838–1932) paper about isomerism among organic acids (1864 [1865]). Here, structure was shown as linkages between atoms (see Figure 3).
 
-*Figure 3.*
-
 ![Ethane and Formic Acid](../assets/chemistry/ethane-formic-acid.png)
 
-Figure 3. Depictions of ethane and formic acid in Crum Brown’s graphic notation. (1864 [1865], 232)
+*Figure 3.* Depictions of ethane and formic acid in Crum Brown’s graphic notation. (1864 [1865], 232)
 
 Edward Frankland (1825–1899) simplified and popularized Crum Brown’s notation in successive editions of his *Lecture Notes for Chemical Students* (Russell 1971; Ritter 2001)[^ritter-2001][^russell-1971]. Frankland was also the first to introduce the term ‘bond’ for the linkages between atoms (Ramberg 2003)[^ramberg-2003].
 
@@ -230,11 +224,9 @@ The move towards a fully spatial interpretation was advanced by the simultaneous
 
 van ’t Hoff and Le Bel provided no account of the mechanism by which chiral molecules affect the rotation of plane polarized light (Needham 2004)[^needham-2004]. But by the end of the century, spatial structure was being put to use in explaining the aspects of the reactivity and stability of organic compounds with Viktor Meyer’s (1848–1897) conception of steric hindrance and Adolf von Baeyer’s (1835–1917) conception of internal molecular strain (Ramberg 2003)[^ramberg-2003].
 
-*Figure 4.*
-
 ![tetrahedral carbon diagram](../assets/chemistry/tetrahedracarbon.png)
 
-Figure 4. A schematic representation of the tetrahedral arrangement of substituents around the carbon atom. Compare the positions of substituents Y and Z.
+*Figure 4.* A schematic representation of the tetrahedral arrangement of substituents around the carbon atom. Compare the positions of substituents Y and Z.
 
 Given that these theories were intrinsically spatial, traditional questions about chemical combination and valency took a new direction: What is it that holds the atoms together in a particular spatial arrangement? The answer, of course, is the *chemical bond*.
 
@@ -272,11 +264,9 @@ Another line of objection comes from Berson (2008), who discusses the significan
 
 Finally, the “Atoms in Molecules” program (Bader 1991; see Gillespie and Popelier 2001, Chs. 6 & 7 for an exposition)[^bader-1991][^gillespie-2001] suggests that we can hold on to the structural conception of the bond understood functionally, but reject Lewis’ ideas about how electrons realize this relationship. Bader, for example, argues that we can define ‘bond paths’ in terms of topological features of the molecule-wide electron density. Such bond paths have physical locations, and generally correspond closely to classical covalent bonds. Moreover they partially vindicate the idea that bonding involves an increase in electron density between atoms: a bond path is an axis of maximal electron density (leaving a bond path in a direction perpendicular to it involves a decrease in electron density). There are also many technical advantages to this approach. Molecule-wide electron density exists within the ontology of quantum mechanics, so no quantum-mechanical model could exclude it. Further, electron density is considerably easier to calculate than other quantum mechanical properties, and it can be measured empirically using X-ray diffraction techniques.
 
-*Figure 5.*
-
 ![Argon in Buckyball diagram](../assets/chemistry/ArC60.png)
 
-Figure 5. Too many bonds? 60 bond paths from each carbon atom in C₆₀ to a trapped Ar atom in the interior.
+*Figure 5.* Too many bonds? 60 bond paths from each carbon atom in C₆₀ to a trapped Ar atom in the interior.
 
 Unfortunately, Bader’s approach does not necessarily save the day for the structural conception of the bond. His critics point out that his account is extremely permissive and puts bond paths in places that seem chemically suspect. For example, his account says that when you take the soccer-ball shaped buckminster fullerene molecule (C₆₀) and trap an argon atom inside it, there are 60 bonds between the carbon atoms and the argon atom as depicted in Figure 5 (Cerpa et al. 2008)[^cerpa-2008]. Most chemists would think this implausible because one of the most basic principles of chemical combination is the fact that argon almost never forms bonds (see Bader 2009 for a response)[^bader-2009].
 
@@ -330,11 +320,9 @@ Goodwin (2012) identifies two notions of chemical mechanism at play in chemistry
 
 In contrast, the *thin* notion of a reaction mechanism focuses on a discrete set of steps. In each step, a set of reactive intermediates are generated. These intermediates are quasi-stable molecular species that will ultimately yield the products of the reaction. For example, the much studied biomolecular nucleophilic substitution (S_{N}2) reaction is said to have a single reactive intermediate with the incoming nucleophile and outgoing leaving group both partially bonded to the reactive carbon center (see Figure 6). Such a description of the reaction mechanism is not only abstract in that it leaves out much detail, but it is also highly idealized. Reactions do not take actually place as a series of discrete steps, each of which generates a quasi-stable reaction intermediate.
 
-*Figure 6.*
-
 ![Broman SN2 reaction](../assets/chemistry/BromoethaneSN2reaction.png)
 
-Figure 6. Thin reaction mechanism for the S_{N}2 reaction.
+*Figure 6.* Thin reaction mechanism for the S_{N}2 reaction.
 
 While most textbook treatments of reaction mechanisms begin by mentioning the thick notion, the details nearly always turn to thin notions of mechanism. At the same time, formal theoretical treatments of reaction mechanisms deal exclusively with the thick notion. Such treatments often attempt to calculate the potential energy function for the reaction from quantum mechanics. Given the importance of the thick notion to formal chemical theorizing, why does the thin notion dominate the practice of chemistry and find expression in textbooks and research articles?
 

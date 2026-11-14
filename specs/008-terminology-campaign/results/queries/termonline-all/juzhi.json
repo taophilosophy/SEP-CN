@@ -1,0 +1,47 @@
+{
+ "key": "juzhi",
+ "term": "Juzhi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T05:18:01+00:00",
+ "status": "ok",
+ "note": "variant=Juzhi; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "亲兵",
+   "en": "Muzhi",
+   "code": "02.0663",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_东欧"
+  },
+  {
+   "cn": "举折",
+   "en": "folding-the-roof [method],juzhe",
+   "code": "03.0025",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "急支糖浆",
+   "en": "jizhi syrup,jizhi tangjiang",
+   "code": "07.501",
+   "standard": "中医药学名词",
+   "subject": "中医药学_方剂学_中成药"
+  },
+  {
+   "cn": "素质教育",
+   "en": "suzhi jiaoyu,quality education",
+   "code": "01.062",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "大学素质教育",
+   "en": "suzhi jiaoyu at college level,college quality-oriented education",
+   "code": "08.022",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_高等教育及高等教育学科"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

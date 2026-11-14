@@ -105,27 +105,23 @@ Lewis (1969) develops a broadly Humean perspective by employing game theory, the
 
 Suppose $A$ and $B$ want to meet for dinner. They can choose between two restaurants, Luigi’s and Fabio’s. Each agent is indifferent between the two restaurants, and each agent prefers meeting the other one to not meeting. We represent this situation through a *payoff matrix*:
 
-*Restaurant Rendezvous Payoff Matrix*
-
 |   | Luigi’s | Fabio’s |
 | --- | --- | --- |
 | Luigi’s | 1, 1 | 0, 0 |
 | Fabio’s | 0, 0 | 1, 1 |
 
-Restaurant Rendezvous Payoff Matrix
+*Restaurant Rendezvous Payoff Matrix*
 
 The rows (respectively, columns) represent $A$’s (respectively, $B$’s) possible *strategies*: in this case, their two restaurant options. Each cell contains the respective *payoffs* for $A$ and $B$ for a given strategy combination. Since there are two incompatible ways that $A$ and $B$ might achieve a mutually desirable result, the two “players” must coordinate their actions.
 
 In several respects, Restaurant Rendezvous is an unrepresentative coordination problem. First, $A$ and $B$ must perform the *same* action in order to achieve the desired result. Second, $A$ and $B$ achieve identical payoffs in each circumstance. The following payoff matrix represents a coordination problem lacking these two properties:
-
-*Telephone Tag Payoff Matrix*
 
 |   | Call back | Wait |
 | --- | --- | --- |
 | Call back | 0, 0 | 1, 2 |
 | Wait | 2, 1 | 0, 0 |
 
-Telephone Tag Payoff Matrix
+*Telephone Tag Payoff Matrix*
 
 As an intuitive interpretation, imagine that $A$ and $B$ are speaking on the phone but that they are disconnected. Who should call back? Each would prefer that the other call back, so as to avoid paying for the call. However, each prefers paying for the call to not talking at all. If both try to call back, then both will receive a busy signal. The payoff matrix summarizes this situation. This kind of case is sometimes called an *impure coordination problem*, since it enshrines a partial conflict of interest between players.
 
@@ -179,14 +175,12 @@ Even if one sympathizes with this objection, how to elucidate more systematicall
 
 Seumas Miller (2001) deploys an example of Jean-Jacques Rousseau to question whether a convention must have a conventional alternative. In Rousseau’s example, agents stationed throughout a forest must decide whether to hunt stag or hunt hares. Hunting stag yields a higher pay-off for everyone, but only if all other players hunt stag as well. We can represent a two-person stag hunt through the following pay-off matrix:
 
-*The Stag Hunt Payoff Matrix*
-
 |   | Hunt Stag | Hunt Hare |
 | --- | --- | --- |
 | Hunt Stag | 2, 2 | 0, 1 |
 | Hunt Hare | 1, 0 | 1, 1 |
 
-The Stag Hunt Payoff Matrix
+*The Stag Hunt Payoff Matrix*
 
 Miller argues that, on Lewis’s definition of “convention,” hunting hares is not a possible convention, since a player who chooses to hunt rabbits does not prefer that the other player do likewise. Miller argues that this result accords with intuition. He furthermore argues that hunting stag $is$, intuitively speaking, a possible convention. He concludes that Lewis errs by requiring convention to have a conventional alternative.
 
@@ -202,14 +196,12 @@ The game-theoretic literature contains numerous solution concepts that either ge
 
 Another widely discussed solution concept is *correlated equilibrium*, introduced by Robert Aumann (1974, 1987). To illustrate this generalized concept, consider a modified version of Restaurant Rendezvous. In the new version (sometimes called “Battle of the Sexes”), each agent prefers a different restaurant, although both agents prefer meeting to not meeting. We represent this situation with the following payoff matrix:
 
-*Battle of the Sexes Payoff Matrix*
-
 |   | Luigi’s | Fabio’s |
 | --- | --- | --- |
 | Luigi’s | 2, 1 | 0, 0 |
 | Fabio’s | 0, 0 | 1, 2 |
 
-Battle of the Sexes Payoff Matrix
+*Battle of the Sexes Payoff Matrix*
 
 This game has two “pure” Nash equilibria: one in which both players go to Luigi’s, the other in which both go to Fabio’s. Intuitively, neither equilibrium is fair, since one player achieves a higher payoff than the other. The game also has a “mixed-strategy” Nash equilibrium: that is, an equilibrium in which each agent chooses his strategy based upon the outcome of a randomizing device. Specifically, the game has a mixed-strategy equilibrium in which $A$ goes to Luigi’s with probability $\bfrac{2}{3}$ and $B$ goes to Luigi’s with probability $\bfrac{1}{3}$. $A$’s expected payoff from this equilibrium is given as follows, where “$Prob(x, y)$” denotes the probability that $A$ goes to $x$ and $B$ goes to $y$:
 
@@ -229,27 +221,23 @@ Wayne Davis (2003), Andrei Marmor (1996, 2009), Seumas Miller (2001), Robert Sug
 
 To develop this objection, Sugden introduces *conventions of property* and *conventions of reciprocity*, neither of which solves coordination problems. He illustrates the former with the Hawk-Dove game (also sometimes called “Chicken”):
 
-*Hawk-Dove Payoff Matrix*
-
 |   | Dove | Hawk |
 | --- | --- | --- |
 | Dove | 1, 1 | 0, 2 |
 | Hawk | 2, 0 | $\bfrac{1}{2},$ $\bfrac{1}{2}$ |
 
-Hawk-Dove Payoff Matrix
+*Hawk-Dove Payoff Matrix*
 
 The intuitive interpretation here is that two people faced with an item of value 2 must decide whether to fight for it (Hawk) or share it (Dove). If both play Dove, then they split it. If one plays Hawk and the other Dove, then the Hawk gets the entire good. If they both play Hawk, then they again split it, but its value is reduced by half to reflect the cost of fighting. This game has no coordination equilibrium. However, consider the following strategy for recurring instances of the game: “If you are already in possession of the relevant item, then play *Hawk*; otherwise, play *Dove*.” It is an equilibrium for both players to play this strategy. (More technically, following Skyrms (1996), we might regard this strategy combination as a correlated equilibrium.) Sugden argues that such an equilibrium might emerge as a convention among agents who repeatedly play Hawk-Dove. But the equilibrium is not a convention according to Lewis’s definition. If I play my end of it, I do not prefer that other people do likewise. I prefer that others play Dove. Thus, the equilibrium lacks one of the main characteristics emphasized by Lewis: a preference for general conformity over slight-less-than-general conformity.
 
 Sugden illustrates conventions of reciprocity with the Prisoner’s Dilemma, which has the following payoff matrix:
-
-*Prisoner’s Dilemma Payoff Matrix*
 
 |   | Cooperate | Defect |
 | --- | --- | --- |
 | Cooperate | 2, 2 | 0, 3 |
 | Defect | 3, 0 | 0, 0 |
 
-Prisoner’s Dilemma Payoff Matrix
+*Prisoner’s Dilemma Payoff Matrix*
 
 The original intuitive interpretation of this payoff matrix is that the police are separately interrogating two prisoners, each of whom must decide whether to cooperate with the other prisoner by remaining silent or whether to “defect” by confessing. If both cooperate, then both receive very light sentences. If both defect, then both receive very harsh sentences. If one defects and the other cooperates, then the defector goes free while the cooperator receives a harsh sentence. Although this scenario may seem rather contrived, we can model many common social interactions as instances of Prisoner’s Dilemma. Sugden offers as an example two academics who exchange houses for their sabbaticals. Each academic must decide whether to maintain the other’s house in good condition, even though leaving it a mess would be easier.
 

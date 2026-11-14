@@ -161,11 +161,9 @@ These questions as to what holds structured propositions together and gives them
 
 In order to explain what complex relation King claims binds the constituents together, consider the sentence ‘Dara swims’ and, idealizing considerably for the sake of exposition, assume that its syntactic structure at LF is as follows:
 
-*Figure 1.*
-
 ![tree diagram with an unlabeled parent node and two child nodes labeled 'Dara' and 'swims'](../assets/propositions-structured/fig1.png)
 
-Figure 1.
+*Figure 1.*
 
 Call the syntactic relation between ‘Dara’ and ‘swims’ here R. King sometimes calls *R* the sentential relation of the sentence ‘Dara swims’. Among the reasons that the English sentence in Figure 1 is true iff Dara swims is that the sentential relation *R* is interpreted by English speakers in a certain way. We interpret it as *ascribing* the semantic value of ‘swims’ to the semantic value of ‘Dara’. As King points out, this is a contingent matter. There might have been a language containing the sentence ‘Dara swims’ the speakers of which took the sentence to be true iff Dara fails to possess the property of swimming.[^note-9] The difference in truth conditions of the sentence ‘Dara swims’ in these two languages is due to the speakers of the languages interpreting the syntactic concatenation in the sentence differently. And of course we English speakers interpreting *R* in the way we do (described above) is not an isolated matter. In general we interpret syntactic concatenation by composing semantic values of the concatenated lexical items in certain ways.[^note-10] King sometimes puts this by saying that we interpret syntactic concatenation as instructing us to compose semantic values in certain ways. The fact that *R* in Figure 1 is interpreted by English speakers as ascribing the semantic value of ‘swims’ to the semantic value of ‘Dara’ is expressed by saying that in English, *R* encodes ascription.[^note-11] It is the fact that *R* encodes ascription in English that makes the English sentence ‘Dara swims’ have truth conditions rather than being a list of Dara and the property of swimming.[^note-12]
 

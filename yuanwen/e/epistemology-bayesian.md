@@ -23,31 +23,25 @@ The above case makes a general point:
 
 This intuition about how credences ought to change can be vindicated in Bayesian epistemology by appeal to two norms. But before turning to them, we need a setting. Divide the space of possibilities into four, according to whether hypothesis *H* is true or false and whether evidence *E* is true or false. Since *H* logically implies *E*, there are only three distinct possibilities on the table, which are depicted as the three dots in figure 1.
 
-*Figure 1:*
-
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/poss.png)
 
-Figure 1: A Space of Three Possibilities. [An extended description of figure 1.]
+*Figure 1:* A Space of Three Possibilities. [An extended description of figure 1.]
 
 Those possibilities are *mutually exclusive* in the sense that no two of them can hold together; and they are *jointly exhaustive* in the sense that at least one of them must hold. A person can be more or less confident that a given possibility holds. Suppose that it makes sense to say of a person that she is, say, 80% confident that a certain possibility holds. In this case, say that this person’s degree of belief, or credence, in that possibility is equal to 0.8. A credence might be any other real number. (How to make sense of real-valued credences is a major topic for Bayesians, to be discussed in §1.6 and §1.7 below.)
 
 Now I can sketch the two core norms in Bayesian epistemology. According to the first norm, called *Probabilism*, one’s credences in the three possibilities in figure 1 ought to fit together so nicely that they are non-negative and sum to 1. Such a distribution of credences can be represented by a bar chart, as depicted on the left of figure 2.
 
-*Figure 2:*
-
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/condi-1.png)
 
-Figure 2: Conditionalization on Evidence. [An extended description of figure 2.]
+*Figure 2:* Conditionalization on Evidence. [An extended description of figure 2.]
 
 Now, suppose that a person with this credence distribution receives *E* as new evidence. It seems that as a result, there should be some change in credences. But how should they change? According to the second norm, called the *Principle of Conditionalization*, the possibility incompatible with *E* (i.e., the rightmost possibility) should have its credence dropped down to 0, and to satisfy Probabilism, the remaining credences should be scaled up—rescaled to sum to 1. So this person’s credence in hypothesis *H* has to rise in a way such as that depicted in figure 2.
 
 Moreover, suppose that new evidence *E* is very surprising. It means that the person starts out being highly confident in the falsity of *E*, as depicted on the left of figure 3.
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/epistemology-bayesian/condi-2.png)
 
-Figure 3: Conditionalization on Surprising Evidence. [An extended description of figure 3.]
+*Figure 3:* Conditionalization on Surprising Evidence. [An extended description of figure 3.]
 
 Then conditionalization on *E* requires a total credence collapse followed by a dramatic scaling-up of the other credences. In particular, the credence in *H* is raised significantly, unless it is zero to begin with. This vindicates the intuition reported in the case of Eddington’s Observation.
 

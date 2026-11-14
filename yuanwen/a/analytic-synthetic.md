@@ -527,7 +527,7 @@ are fine, but not:
 
 **(49)**
 
-**That wall hits easily*/**This wire touches easily.*
+\**That wall hits easily*/\**This wire touches easily.*
 
 Apparently the order of the verb’s modifiers seems to depend upon the kind of motion or contact involved.
 

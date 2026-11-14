@@ -36,7 +36,7 @@
 
 兰德曼-卡利舍尔的个人生活充满悲剧，尤其在《认识的超越》出版后的十年。1925 年，她的女儿在十几岁时死于一种罕见的结核病；1931 年，她的丈夫自杀身亡。无论她是否因对格奥尔格的爱未获回报而痛苦，她都经历了格奥尔格圈的拒斥——在她看来，这显然出于德国日益高涨的反犹主义。至此，她个人生活的悲剧与政治悲剧开始合流。她抗议格奥尔格对一场运动的同情——那场运动对待犹太人的残暴一如国家社会主义；她记录下他敷衍的答复：“当我想到德国在未来五十年要面对什么，这整个犹太人的问题对我来说尤其不那么重要”（Norton 2002: 726; Karlauf 2007: 604f）[^karlauf-2007][^norton-2002]。当她终于认识到犹太人不可能继续留在德国时，她梦想过纳米比亚的一个犹太人聚居区，最后才转而认同犹太复国主义者的道路。
 
-希特勒上台后，兰德曼-卡利舍尔在 1930 年代大部分时间居于巴塞尔，与画家格特鲁德·康托洛维茨结为好友，并与语文学家雷娜特·冯·谢利哈同住（直到后者 1948 年移居美国）。这段时期她在巴塞尔的成人业余大学（*Volkshochschule*）讲课，探讨对古典作品的多种解释。但她也回到美学的核心主题，于 1940 年完成《美之学说的基本特征》（*Grundzüge einer Lehre vom Schönen*）——此书以誊写版副本流通，身后于 1952 年出版为《美之学说》（*Die Lehre vom Schönen*）（Schuster, 35）。1951 年她短暂探望谢利哈之后，因手术并发症去世。
+希特勒上台后，兰德曼-卡利舍尔在 1930 年代大部分时间居于巴塞尔，与画家格特鲁德·康托洛维茨结为好友，并与语文学家雷娜特·冯·谢利哈同住（直到后者 1948 年移居美国）。这段时期她在巴塞尔的成人业余大学（*Volkshochschule*）讲课，探讨对古典作品的多种解释。但她也回到美学的核心主题，于 1940 年完成《美之学说的基本特征》（*Grundzüge einer Lehre vom Schönen*）——此书以誊写版副本流通，身后于 1952 年出版为《美之学说》（*Die Lehre vom Schönen*）（Schuster 1955: 35）。1951 年她短暂探望谢利哈之后，因手术并发症去世。
 
 ## 2 审美判断的认知价值
 
@@ -180,21 +180,21 @@
 
 > 正是着眼于美，一切其他价值才首次得到正确的理解、正确的运用、正确的调配、掌控与限制等等。一切其他价值都是抽象物，只是种种属性的价值；它们唯有通过依附于整体的价值——即通过美——才成为具体的。（*LS* 349）
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### A. Works by Landmann-Kalischer
+### A. 兰德曼-卡利舍尔著作
 
-#### A.1 Abbreviations
+#### A.1 缩写
 
-#### A.2 Works (in German)
+#### A.2 著作（德文）
 
-#### A.3 Works (English translation)
+#### A.3 著作（英译）
 
-### B. Secondary Sources
+### B. 二手文献
 
 [^essays-2024]: [*Essays*] *Essays on Art, Aesthetics, and Value* (Oxford New Histories of Philosophy), Samantha Matherne (ed.). Daniel O. Dahlstrom (trans.), New York: Oxford University Press, 2024. doi:10.1093/oso/9780197682043.001.0001
 [^ls-1952]: [*LS*] *Die Lehre vom Schönen* [*The Doctrine of the Beautiful*], Vienna: Amandus, 1952.
@@ -239,14 +239,14 @@
 [^dahlstrom-2024]: Dahlstrom, Daniel O., 2024, “Edith Landmann-Kalischer (1877–1951)”, in Gjesdal and Nassar 2024: 242–259 (ch. 11). doi:10.1093/oxfordhb/9780190066239.013.12
 [^dutt-2010]: Dutt, Carsten, 2010, “Edith Landmann—oder der poetologische Essentialismus des George-Kults”, in *Frauen um Stefan George*, Ute Oelmann and Ulrich Raulff (eds), Göttingen: Wallstein Verlag, 233–251.
 [^egypten-2006]: Egypten, Jürgen, 2006, “Schwester, Huldin, Ritterin. Ida Coblenz, Gertrud Kantorowicz, and Edith Landmann. Jüdische Frauen im Dienste Stefan Georges”, in *Zions Töchter. Jüdische Frauen in Literatur, Kunst und Politik*, Andrea M. Lauritsch (ed.), Wien: Edition Mnemosyne, 149–184.
-[^gjesdal-2024]: Gjesdal, Kristin and Nassar Nassar (eds.), 2024, *The Oxford Handbook of Nineteenth-Century Women Philosophers in the German Tradition* (Oxford Handbooks), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190066239.001.0001
+[^gjesdal-2024]: Gjesdal, Kristin and Nassar (eds.), 2024, *The Oxford Handbook of Nineteenth-Century Women Philosophers in the German Tradition* (Oxford Handbooks), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190066239.001.0001
 [^harada-2009]: Harada, Tetsushi, 2009, “Die Anschauliche Theorie als Fortsetzung der historischen Schule im George-Kreis: Edgar Salin unter dem Einfluss Edith Landmanns”, in Köster, Plumpe, Schefold, and Schönhärl 2009: 195–210. doi:10.1524/9783050061757.195
 [^hartung-2021]: Hartung, Gerald, 2021, “Edith Kalischer”, in *Simmel-Handbuch: Leben – Werk – Wirkung*, Jörn Bohr, Gerald Hartung, Heike Koenig, and Tim-Florian Steinbach (eds), Stuttgart: J.B. Metzler, 441–442. doi:10.1007/978-3-476-05760-0_48
 [^heidegger-1967]: Heidegger, Martin, *SZ* 1967, *Sein und Zeit*, Tübingen: Niemeyer. [Originally published 1927.]
 [^hillman-2011]: Hillman, Susanne, 2011, “Wandering Jews: Existential Quests Between Berlin, Zurich, and Zion”, PhD thesis, University of California, San Diego.
 [^karlauf-2007]: Karlauf, Thomas, 2007, *Stefan George: die Entdeckung des Charisma: Biographie*, München: Blessing.
 [^köster-2009]: Köster, Roman, Werner Plumpe, Bertram Schefold, and Korinna Schönhärl (eds), 2009, *Das Ideal des schönen Lebens und die Wirklichkeit der Weimarer Republik: Vorstellungen von Staat und Gemeinschaft im George-Kreis* (Wissenskultur und gesellschaftlicher Wandel, Bd. 33), Berlin: Akademie Verlag. doi:10.1524/9783050061757
-[^landmann-1955-2]: Landmann, Michael (ed.), 1955, *Edith Landmann*, Amsterdam: Castrum Peregini.
+[^landmann-1955-2]: Landmann, Michael (ed.), 1955, *Edith Landmann*, Amsterdam: Castrum Peregrini.
 [^landmann-1980]: ––– (ed.), 1980, *Erinnerungen an Stefan George. Seine Freundschaft mit Julius und Edith Landmann*, Amsterdam: Castrum Peregrini.
 [^lewin-1955]: Lewin, Wera, 1955, “Edith Landmann in Memoriam”, in M. Landmann 1955: 64–68.
 [^matherne-2020]: Matherne, Samantha, 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity”, *The British Journal of Aesthetics*, 60(3): 315–334. doi:10.1093/aesthj/ayaa007
@@ -267,7 +267,7 @@
 [^riedner-2002]: Riedner, Johannes, 2002, “Edith Landmann als philosophische Interpretin und Zeugin Stefan Georges. Zu Problemen der Assimilation im George-Kreis”, *Marburger Forum*, 3(4): 1–14.
 [^schiewer-2009]: Schiewer, Gesine Lenore, 2009, “Das Problem des Politischen in der Philosophie Edith Landmanns. Diskussionen im Umfeld von Wertphilosophie, Gestalttheorie und Wissenssoziologie”, in Köster, Plumpe, Schefold, and Schönhärl 2009: 77–94. doi:10.1524/9783050061757.77
 [^schönhärl-2009]: Schönhärl, Korinna, 2009, “Transcendenz des Erkennens: Erkenntnistheoretische Grundlagen der wissenschaftlichen Methodendiskussion im George-Kreis”, *Archiv für Kulturgeschichte*, 91(2): 445–476. doi:10.7788/akg.2009.91.2.445
-[^schönhärl-2010]: –––, 2010, “‘Wie eine Blume die erforen ist ’—Edith Landmann als Jüngerin Stefan Georges”, in *Stefan George. Dichtung—Ethos—Staat. Denkbilder für ein geheimes europäisches Deutschland*, Bruno Pieger und Bertram Wschefold (eds), Berlin: Verlag für Berlin-Brandenburg, 207–242.
+[^schönhärl-2010]: –––, 2010, “‘Wie eine Blume die erfroren ist ’—Edith Landmann als Jüngerin Stefan Georges”, in *Stefan George. Dichtung—Ethos—Staat. Denkbilder für ein geheimes europäisches Deutschland*, Bruno Pieger und Bertram Schefold (eds), Berlin: Verlag für Berlin-Brandenburg, 207–242.
 [^schuster-1955]: Schuster, Margaret, 1955, “Edith Landmann als Philosophin”, in M. Landmann 1955: 34–48.
 [^singer-1955]: Singer, Kurt, 1955, “Erinnerung an die Georgika”, in M. Landmann 1955: 50–57.
 [^vendrell-2014]: Vendrell Ferran, Íngrid, 2014, “Tatsache, Wert und menschliche Sensibilität: Die Brentanoschule und die Gestaltpsychologie”, in *Feeling and Value, Willing and Action: Essays in the Context of a Phenomenological Psychology* (Phaenomenologica 216), Marta Ubiali and Maren Wehrle (eds), Cham: Springer, 141–162. doi:10.1007/978-3-319-10326-6_9

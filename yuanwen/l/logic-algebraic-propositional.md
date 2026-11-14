@@ -697,11 +697,9 @@ The classes of logics we have considered so far are the main classes in what has
 
 The relations between the classes of the Leibniz hierarchy considered in this entry are summarized in the following diagram:
 
-*Figure.*
-
 ![A diagram of four levels level 1: 'finitely algebraizable' with arrows pointing to level 2 objects: 'finitely equivalential' and 'algebraizable'; both of these have arrows pointing to level 3 object 'equivalential' and the latter also has an arrow pointing to level 3 object 'weakly algebraizable' both level 3 objects have arrows to level 4 object: 'protoalgebraic' and the second also points to 'truth-equational'](../assets/logic-algebraic-propositional/leibniz-hierarchy.svg)
 
-Figure. The Leibniz Hierarchy
+*Figure.* The Leibniz Hierarchy
 
 Recently, the Leibniz hierarchy has been refined in Cintula & Noguera 2010, 2016. The idea is to consider instead of a set of equivalence formulas $\Delta$ (that corresponds to the biconditional) a set of formulas $[p\Rightarrow q]$ that has several properties of the usual conditional $(\rightarrow)$. Among these properties we have $(\tR_{\Rightarrow})$ and $(\tMP_{\Rightarrow})$ in the definition of protoalgebraic logic. The set $[p\Rightarrow q]$ should be such that its symetrization $[p\Rightarrow q] \cup[q\Rightarrow p]$ is a set of equivalence formulas. New classes arise when the set $[p\Rightarrow q]$ has a single element. Extensive information can be found in the recent book Cintula & Noguera 2021. This book can also be taken as an introduction to abstract algebraic logic written from the perspective of the implication.
 
@@ -858,11 +856,9 @@ Examples of fully Fregean logics are classical and intuitionistic logic an also 
 
 We address the reader to Chapter 7 of Font 2016a for an introduction to the main facts of the Frege hierarchy and for examples of logic systems in the families of the Frege hierarchy. A discussion of the Frege and Leibniz hierarchies related to assertional logics can be found in Albuquerque et al. 2018 where also several examples of logic systems are discussed and classified.
 
-*Figure.*
-
 ![A diagram of three levels level 1: 'fully Fregean' with arrows pointing to level 2 objects: 'Fregean logics' and 'fully selfextensional'; both of these have arrows pointing to level 1 object 'selfextensional' ](../assets/logic-algebraic-propositional/frege-hierarchy.svg)
 
-Figure. The Frege Hierarchy
+*Figure.* The Frege Hierarchy
 
 The reader can find a discussion of several natural examples of logics classified in the Leibniz and Frege hierarchies in Albuquerque et alt. 2017.
 

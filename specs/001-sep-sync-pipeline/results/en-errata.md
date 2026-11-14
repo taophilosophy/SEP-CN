@@ -54,7 +54,22 @@
 | marsilius-inghen | `[ISA]<em>, Quaestiones…` | `[ISA], <em>Quaestiones…` | 斜体不该含前导逗号 |
 | marsilius-inghen | `J.-L- Sol&egrave;re` / `causasalit&eacute;` | `J.-L. Sol&egrave;re` / `causalit&eacute;` | 法语正字 |
 | epistemology-evolutionary | `w_i \frasl \overline{w}` / `Kim, Jagwon., 1988` / `”blind-variation…“` / `“ Social learning` | `\frac{p_i\cdot w_i}{\overline{w}}` / `Kim, Jaegwon, 1988` / 引号方向改正 / 去空格 | MathJax 无 \frasl；Jaegwon Kim 通行拼写；引号体例 |
+| albert-great | `“’Mathematics…` / `Super</em> <em>Ethica` | 去多余单引号 / 合为一段斜体 | 题名与书名 |
+| envy | `Liverwright` / `No&uacute;s` / `Ben Ze'ev`（含 notes.html） | `Liveright` / `No&ucirc;s` / `Ben-Ze'ev` | 出版社、期刊、作者姓氏正名 |
+| leibniz-modal | `Dordrect` / `the Freedom on Man` / `( ed.)` / `1978/9` | `Dordrecht` / `the Freedom of Man` / `(ed.)` / `1978/79` | 同页他条式样、书名介词 |
+| leibniz-logic-influence | `1849&ndash;1963` / `Publicatons of the Heinri` / `Thomas Ballet` | `1849&ndash;1863` / `Publications of the Henri` / `Thomas Bassett` | Gerhardt 编数学文集实为 1849–1863；OCR 截断与人名手误 |
+| leibniz-logic-influence | 正文 `(Erdmann 1840, p. 130)`，文献区无 1840 条（1840 条实为 Trendelenburg《Logische Untersuchungen》） | `(Leibniz 1839/40, p. 130)` | 埃尔德曼版著录作 Leibniz 1839/40，同页自相矛盾（②） |
+| scholz | Neurath 1981 条被拆成两条（一条缺篇名与编者） | 合并为 `Gesammelte philosophische und methodologische Schriften, Vol. 2, ed. by R. Haller and H. Rutte` | 结构错位（③） |
+| scholz | `Wissenschaften</em>d,; 106` | `Wissenschaften</em>, 106` | HTML 实体错位（①） |
 | academic-freedom | `akedemische Freiheit` | `akademische Freiheit` | 德语正字（023 首条审校实证，类①） |
 | academic-freedom | `David\nOwewn and Tracy Strong (eds.)` | `David\nOwen and Tracy Strong (eds.)` | David Owen 为韦伯《Vocation Lectures》Hackett 2004 版合编者，Owewn 非词（类①） |
 | academic-freedom | `Enyidi Zsolt, 2018` | `Enyedi, Zsolt, 2018` | 已核实：Zsolt Enyedi, *Perspectives on Politics* 16(4) 2018, 1067–74, doi:10.1017/S1537592718002165（类①） |
 | action | `Harman 198;1997`（§4.4 引证组） | `Harman 1986;1997` | 同页 §4.5 引 (Harman 1986; 1997)、书目唯一 1980s 条目为 1986，198 为缺位年手误（类①） |
+| sophismata | `An Annoted Translation` / `&lsquo;Sophsimata&rsquo;` | `An Annotated Translation` / `&lsquo;Sophismata&rsquo;` | 拼写（①） |
+| sophismata | `with E.J, Ashworth` / `Ingenium Publishers,.` / `1977 im Bonn` | `E.J.` / `Publishers.` / `in Bonn` | 标点与介词手误（①） |
+| sophismata | `(Acta Philosophica Fennica, 48-2<em>)</em>` | `(Acta Philosophica Fennica, 48-2)` | 斜体标签错位（①） |
+| leucippus | `Taylor, C.C.W, 1999a` / `Diels, H and W. Kranz` | `C.C.W.` / `H. and W.` | 缺句点（①） |
+| leucippus | `<em>Apeiron</em>, 46 (4)`（同页 `47(3)`） | `46(4)` | 卷期空格体例不一（①） |
+| logic-preference | 图 3 `(V_2) (p>q) ∧ (q>r) → q>r` | `→ p>r` | 标签作 transitivity，$A_2$ 同为传递式，同页自相矛盾（②） |
+| logic-preference | `Berlin: Springerd.` / `Makinson David, 1993` | `Berlin: Springer.` / `Makinson, David, 1993` | 出版社拼写与姓名倒置（①） |
+| logic-preference | `illustrated by \(V_4\) in the table above` | `in the figure above` | $V_4$ 实见于图 3，表图混称（②） |

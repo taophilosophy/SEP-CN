@@ -154,7 +154,7 @@ Aristotle, General Topics: ethics | Erasmus, Desiderius | free will | hedonism |
 
 [^fubini-1999]: Fubini, R., 1999. “Contributo per l’interpretazione della *Dialectica* di Lorenzo Valla,” in G. F. Vescovini, ed., *Filosofia e scienza classica, arabo-latina medievale e l’età moderna*, Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales, 289–316.
 
-[^gavinelli-1991]: Gavinelli, S., 1991. “Teorie grammaticali nelle *Elegantie* e la tradizione scolastica del tardo umanesimo,” *Rinascimento*, 31: 155–181
+[^gavinelli-1991]: Gavinelli, S., 1991. “Teorie grammaticali nelle *Elegantie* e la tradizione scolastica del tardo umanesimo,” *Rinascimento*, 31: 155–181.
 
 [^gerl-1974]: Gerl, H.-B., 1974. *Rhetorik als Philosophie. Lorenzo Valla*, Munich: Fink.
 
@@ -194,11 +194,11 @@ Aristotle, General Topics: ethics | Erasmus, Desiderius | free will | hedonism |
 
 [^nauta-2003-2]: –––, 2003. “Lorenzo Valla’s Critique of Aristotelian Psychology,” *Vivarium*, 41: 120–143.
 
-[^nauta-2006]: –––, 2006. “Lorenzo Valla and Quattrocento Scepticism,” *Vivarium*, 44: 375–395
+[^nauta-2006]: –––, 2006. “Lorenzo Valla and Quattrocento Scepticism,” *Vivarium*, 44: 375–395.
 
 [^nauta-2007]: –––, 2007. “Lorenzo Valla and the Rise of Humanist Dialectic,” in J. Hankins (ed.), *The Cambridge Companion to Renaissance Philosophy*, Cambridge: Cambridge University Press, 193–210.
 
-[^nauta-2009]: –––, 2009. *In Defense of Common Sense. Lorenzo Valla’s Humanist Critique of Scholastic Philosophy*, Cambridge, Mass., Harvard University Press
+[^nauta-2009]: –––, 2009. *In Defense of Common Sense. Lorenzo Valla’s Humanist Critique of Scholastic Philosophy*, Cambridge, Mass., Harvard University Press.
 
 [^nauta-2018]: –––, 2018. “Latin as a Common Language: The Coherence of Lorenzo Valla’s Humanist Program,” *Renaissance Quarterly*, 71: 1–32.
 
@@ -216,7 +216,7 @@ Aristotle, General Topics: ethics | Erasmus, Desiderius | free will | hedonism |
 
 [^regoliosi-2010]: Regoliosi, M. (ed.), 2010. *Lorenzo Valla: la riforma della lingua e della logica. Atti del convegno del Comitato Nazionale VI centenario della nascita di Lorenzo Valla, Prato, 4–7 giugno 2008*, 2 vols., Florence: Polistampa.
 
-[^regoliosi-2000]: –––, 2000. “Le *Elegantie* del Valla come ‘grammatica’ antinormativa,” *Studi di grammatica italiana*,w 19: 315–336.
+[^regoliosi-2000]: –––, 2000. “Le *Elegantie* del Valla come ‘grammatica’ antinormativa,” *Studi di grammatica italiana*, 19: 315–336.
 
 [^rizzo-2002]: Rizzo, S., 2002. *Ricerche sul latino umanistico*, Rome: Studi di Storia e letteratura.
 

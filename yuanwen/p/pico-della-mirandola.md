@@ -126,11 +126,9 @@ While Pico tried half-heartedly to harmonize all of Europe’s philosophies, Chr
 
 Books of Kabbalah were being read by the twelfth century, but Christians knew almost nothing about them before Pico. The Kabbalah that he revealed to Latin Europe was a theory as well as a practice—biblical hermeneutics with devotional intent. For some Kabbalists, then as now, textual studies underwrote a spiritual practice whose aim was mystical ascent and prophetic ecstasy achieved by ritual techniques, including magic and theurgy. Kabbalists believed that the Hidden God, the No-End, revealed himself not only in the Bible but also through ten aspects, attributes or emanations, the *sefirot* or ‘numberings’ of God’s myriad faces. Personalized in myths, visualized in images and symbolized by letters and numbers, the *sefirot* acted in theosophical dramas that framed devotional practices. Names of God that resonated in scripture were the other main focus of Kabbalah.
 
-*Figure 1:*
-
 ![link to extended description below](../assets/pico-della-mirandola/sefirot.svg)
 
-Figure 1: *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* *Sefirot* in the Standard Array. [An extended description of figure 1 is in the supplement.]
 
 The Bible’s Hebrew text was God’s speech, infinite in meaning. Kabbalists took their bearings even from its smallest particles—not only the sacred words but also their letters (which were also numbers) and even the shapes of letters. God’s names were the most potent words; the holiest of them, the Tetragrammaton, could not be spoken. Written as יהוה (yhwh), the unutterable Name was read aloud as *Adonai*, a speakable name like *Elohim*, *Ehyeh*, *El Shaddai*, and others used of God in the Hebrew Bible. Names of the *sefirot*, unknown as such to scripture, were also words of power. They were names not of God, however, but of God’s manifestations, some more remote than others.
 

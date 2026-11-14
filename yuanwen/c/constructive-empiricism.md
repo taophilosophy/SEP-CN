@@ -64,11 +64,9 @@ To understand that account, one needs first to appreciate the difference between
 
 A theory is empirically adequate, then, if appearances—“the structures which can be described in experimental and measurement reports” (1980, 64)—are isomorphic to the empirical substructures of some model of the theory. Roughly speaking, the theory is empirically adequate if the observable phenomena can “find a home” within the structures described by the theory—that is to say, the observable phenomena can be “embedded” in the theory. See Figure 1 for a graphical illustration of the relations that make a theory empirically adequate on van Fraassen’s view, with the cloud shapes representing the relata of the isomorphism relation.
 
-*Figure 1.*
-
 ![A cloud shape labelled 'Appearances' connected to a network of shapes by an arrow labelled 'isomorphic'. The network of shapes has squares, a plus sign, a star, a half-circle, and a cloud shape labelled 'Empirical substructures'. The network of shapes is labelled 'A Model of a Theory'.](../assets/constructive-empiricism/image002.jpg)
 
-Figure 1. A Theory’s Empirical Adequacy
+*Figure 1.* A Theory’s Empirical Adequacy
 
 This conception of a theory’s empirical adequacy is arguably what allows a constructive empiricist to avoid the kind of doxastic commitment Friedman (1982, 278) and Rochefort-Maranda (2011, 61–62) describe as posing a problem for the constructive empiricist (a problem that Rochefort-Maranda subsequently attempts to solve). Here is that problem:
 

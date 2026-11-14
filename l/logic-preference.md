@@ -30,8 +30,6 @@ Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻�
 
 **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1–A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”两概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
 
-图 1
-
 **理论 A**
 
 命题演算的一切定理都是理论 A 的公设。
@@ -57,8 +55,6 @@ Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否�
 **理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 $\varphi$ 与 $\psi$ 不含合取或析取符号。
 
 理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
-
-图 2
 
 **理论 B**
 
@@ -120,15 +116,13 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 考察这五条关于偏好的原理时须加小心，因为它们在代入下不封闭。这一限制背后的推理在下文说明。
 
-*Figure 3.*
-
 **von Wright 的五条偏好原则**
 
-$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
+$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
 图 3
 
-von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上表 $V_4$ 所示例示的析取分配原理。
+von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上图 $V_4$ 所示例示的析取分配原理。
 
 在 $p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可失去 q（而保留 p），也不愿失去 p（而保留 q）。
 
@@ -147,8 +141,6 @@ $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg
 虽然 $V_1$、$V_2$、$V_3$ 与 $V_4$ 出现于许多公理化偏好逻辑中，$V_5$ 却不然。原因是 $V_5$ 不能与代入相结合。
 
 自 Halldén 以来，文献中已探索了大量原理。全面的综述见 S. O. Hansson（2001）关于该主题的章节，其中包含如下例子：
-
-*Figure 4:*
 
 $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{使得 } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
 
@@ -183,8 +175,6 @@ Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的�
 3. A 为实数集，且 $m(\neg \varphi)=-m(\varphi)$。
 
 Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR**——概述于图 5。他证明：**PREFIR** 对非理性语义完全，**PREF** 对带条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对 Rescher 语义完全。
-
-*Figure 5.*
 
 Van Dalen 的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
 
@@ -237,8 +227,6 @@ $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    当且仅当有 v 满足 
 
 $\mathcal{M}, w \models E\varphi$    当且仅当有 $v, \mathcal{M}, v \models \varphi$。
 
-*Figure 6.*
-
 **模态偏好逻辑**
 
 * $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
@@ -284,8 +272,6 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 其中 u 支配 V，当且仅当不存在 $v' \in V$ 使 $v'\succ u$。
 
 当 $\succeq$ 是偏序时，Halpern（1997）的完全公理化由图 7 所列的公理与规则构成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形，还须添加公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
-
-*Figure 7.*
 
 **系统 AX**
 
@@ -528,7 +514,7 @@ $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了两种偏好改变之间的区别：其一是信念更新所引发，其二是优先性移动所引发——如前面的例子所示。
 
-总之，优先动态与偏好动态虽密切相关，却各有独特之处；总之，优先动态与偏好动态虽密切相关，却各有独特之处；这表明：为全面理解行动者如何决策，宜同时建模内在偏好与基于理由的偏好。
+总之，优先动态与偏好动态虽密切相关，却各有独特之处；这表明：为全面理解行动者如何决策，宜同时建模内在偏好与基于理由的偏好。
 
 ## 6 其余条件相同的偏好与 CP 网
 
@@ -563,8 +549,6 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 * $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 
 对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
-
-*Figure 8:*
 
 其余条件相同集在 $\varphi\in\Gamma$ 情形下的自反性公理：
 
@@ -662,7 +646,7 @@ Makinson（1999）强调两类东西的区分：规范（无真值的命令）�
 
 偏好改变的研究与其余条件相同之偏好概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -709,8 +693,8 @@ Makinson（1999）强调两类东西的区分：规范（无真值的命令）�
 [^liu-2008]: Liu, Fenrong, 2008, *Changing for the Better: Preference Dynamics and Agent Diversity*, Ph.D. thesis, ILLC, University of Amsterdam.
 [^liu-2010]: –––, 2010, “Von Wright’s ‘The Logic of Preference’ Revisited”, *Synthese*, 175(1): 69–88. doi:10.1007/s11229-009-9530-z
 [^liu-2011a]: –––, 2011a, “A Two-Level Perspective on Preference”, *Journal of Philosophical Logic*, 40(3): 421–439. doi:10.1007/s10992-010-9168-9
-[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springerd. doi:10.1007/978-94-007-1344-4
-[^makinson-1993]: Makinson David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
+[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springer. doi:10.1007/978-94-007-1344-4
+[^makinson-1993]: Makinson, David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
 [^makinson-1999]: –––, 1999, “On a Fundamental Problem of Deontic Logic”, in *Norms, Logics and Information Systems. New Studies on Deontic Logic and Computer Science*, Paul McNamara and Henry Prakken (eds), Amsterdam: IOS Press, 29–53.
 [^menger-1939]: Menger, Karl, 1939, “A Logic of the Doubtful. On Optative and Imperative Logic”, *Reports of a Mathematical Colloquium*, Notre Dame, IN, series 2, 1: 53–64.
 [^osherson-2012]: Osherson, Daniel and Scott Weinstein, 2012, “Preference Based on Reasons”, *The Review of Symbolic Logic*, 5(1): 122–147. doi:10.1017/s1755020311000244

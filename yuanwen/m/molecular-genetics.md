@@ -25,8 +25,6 @@ To see how the classical theory explains trait transmission, consider a cross of
 
 The first stage accounts for the transmission of genes and goes as follows (Figure 1): each offspring received one copy of chromosome II from each parent. The maternally derived chromosomes must have contained the wild-type allele (since both second-chromosomes of every female parent used in the experiment contained the wild-type allele—this was known on the basis of previous experiments). The paternally derived chromosomes must have contained the purple allele (since both second-chromosomes of every male parent contained the purple allele—this was inferred from the knowledge that purple is recessive to red eye-color). Hence, all offspring were heterozygous (*pr* / *+*). Having explained the genetic makeup of the progeny by tracing the transmission of genes from parents to offspring, we can proceed to the second stage of the explanation: drawing an inference about phenotypic appearances. Since all offspring were heterozygous (*pr* / *+*), and since purple is recessive to wild-type, all offspring had red eye-color (the wild-type character). See Figure 1.
 
-*Figure 1.*
-
 |   | female | male |   |
 | --- | --- | --- | --- |
 | parental phenotypes | red eyes | purple eyes |   |
@@ -37,7 +35,7 @@ The first stage accounts for the transmission of genes and goes as follows (Figu
 | offspring genotype | + / *pr* |   |   |
 | offspring phenotype | red eyes |   |   |
 
-Figure 1. Cross of true breeding red-eyed females and purple-eyed males
+*Figure 1.* Cross of true breeding red-eyed females and purple-eyed males
 
 Notice that the reasoning here does not depend on identifying the material make-up, mode of action, or general function of the underlying gene. It depends only on the ideas that copies of the gene are distributed from generation to generation and that the difference in the gene (i.e., the difference between *pr* and *+*), whatever this difference is, causes the phenotypic difference. The idea that the gene is the difference maker needs to be qualified: differences in the gene cause phenotypic differences in particular genetic and environmental contexts. This idea is so crucial and so often overlooked that it merits articulation as a principle (Waters 1994)[^waters-1994]:
 

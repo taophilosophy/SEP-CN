@@ -27,19 +27,19 @@ An important feature of Chomsky’s work has been its focus on data that are imm
 
 **(1)**
 
-**Who did John and kiss Mary?* (cf. John and **who** kissed Mary?).
+\**Who did John and kiss Mary?* (cf. John and **who** kissed Mary?).
 
 **(2)**
 
-**Who did stories about terrify Mary?* (cf. Stories about **who** terrified Mary?)
+\**Who did stories about terrify Mary?* (cf. Stories about **who** terrified Mary?)
 
 **(3)**
 
-**She’s as likely as he’s to get ill* (cf. She is as likely as **he is** to get ill)
+\**She’s as likely as he’s to get ill* (cf. She is as likely as **he is** to get ill)
 
 **(4)**
 
-**I recommended the Brie without tasting* (cf. *Which cheese did you recommend without tasting?*)[^note-20]
+\**I recommended the Brie without tasting* (cf. *Which cheese did you recommend without tasting?*)[^note-20]
 
 Much of Chomskyan linguistics has been devoted to determining the surprisingly complex principles and constraints needed to account for a virtual infinity of such examples (available in most any linguistics text).
 
@@ -129,7 +129,7 @@ Such cases are presumably like the linguistic treatments of “gender,” which 
 
 **(27)**
 
-**A very walking/hitting person appeared.*
+\**A very walking/hitting person appeared.*
 
 vs.
 
@@ -255,13 +255,13 @@ or denials that *ancestor* is transitive or *marriage* symmetric (see ASD §1), 
 
 **(33)**
 
-**Who did John and kiss Mary*
+\**Who did John and kiss Mary*
 
 and
 
 **(34)**
 
-**She’s as likely as he’s to get ill.*
+\**She’s as likely as he’s to get ill.*
 
 Indeed, for starters, what are in fact (non-formally) contradictory sentences, e.g.,
 
@@ -285,11 +285,11 @@ are perfectly acceptable, unlike
 
 **(38)**
 
-**Sue wondered who did John and kiss Mary.*
+\**Sue wondered who did John and kiss Mary.*
 
 **(39)**
 
-**John asked who stories about frightened Ann.*
+\**John asked who stories about frightened Ann.*
 
 So it’s not clear that the I-language always cares about semantic anomalies. Perhaps in cases where it doesn't they really aren’t always phenomena of *language* at all, but rather, features of our conceptual and/or belief systems, the (unembedded anmalous) sentences being simply silly and false –precisely as Quine (1960 [2013[, p. 210) proposed.
 
@@ -307,21 +307,21 @@ are fine, but not:
 
 **(42)**
 
-**Sue knows Tom has ever flown.*
+\**Sue knows Tom has ever flown.*
 
 **(43)**
 
-**Sue likes pistachios at all.*
+\**Sue likes pistachios at all.*
 
 Here the semantic features seem to have a kind of syntactic reflex, prohibiting material that, in contrast to mere “category mistakes,” *cannot* in general be acceptably embedded:
 
 **(44)**
 
-**John thinks Sue knows he has ever flown.*
+\**John thinks Sue knows he has ever flown.*
 
 **(45)**
 
-**It is widely believed that Sue likes pistachios at all.*
+\**It is widely believed that Sue likes pistachios at all.*
 
 So here we have what would seem to be some serious linguistic evidence for the reality of what seems to be a semantic phenomenon.[^note-33] Until we find analogous data that show some such syntactic reflexes to category mistakes and other of the analytic data, it’s going to be hard to claim that these latter “analytic” cases are due to some genuine property of the *language system*, as opposed to merely something about our belief systems, in the way Quinean sceptics suspect (cf. ASD §3.5) – and, as we will now see, as *sometimes* Chomsky himself does!
 
@@ -444,7 +444,7 @@ are fine, but not:
 
 **(49)**
 
-**That wall hits easily*/**This wire touches easily.*
+\**That wall hits easily*/\**This wire touches easily.*
 
 Apparently the order of the verb’s modifiers seems to depend upon the kind of motion or contact involved.
 

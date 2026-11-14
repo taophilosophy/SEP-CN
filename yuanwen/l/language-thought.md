@@ -37,11 +37,11 @@ Fodor (1981: 177–203; 1987: 16–26) proposes a theory of propositional attitu
 
 More generally:
 
-- (1) Each propositional attitude *A* corresponds to a unique psychological relation *A**, where the following biconditional is true no matter what sentence one substitutes for “*p*”: *X* *As* that *p* iff there is a mental representation *S* such that *X* bears *A** to *S* and *S* means that *p*.
+- (1) Each propositional attitude *A* corresponds to a unique psychological relation *A\**, where the following biconditional is true no matter what sentence one substitutes for “*p*”: *X* *As* that *p* iff there is a mental representation *S* such that *X* bears *A*\* to *S* and *S* means that *p*.
 
 On this analysis, mental representations are the most direct objects of propositional attitudes. A propositional attitude inherits its semantic properties, including its truth-condition, from the mental representation that is its object.
 
-Proponents of (1) typically invoke functionalism to analyze *A**. Each psychological relation *A** is associated with a distinctive *functional role*: a role that *S* plays within your mental activity just in case you bear *A** to *S*. When specifying what it is to believe* *S*, for example, we might mention how *S* serves as a basis for inferential reasoning, how it interacts with desires to produce actions, and so on. Precise functional roles are to be discovered by scientific psychology. Following Schiffer (1981), it is common to use the term “belief-box” as a placeholder for the functional role corresponding to belief*: to believe* *S* is to place *S* in your belief box. Similarly for “desire-box”, etc.
+Proponents of (1) typically invoke functionalism to analyze *A*\*. Each psychological relation *A*\* is associated with a distinctive *functional role*: a role that *S* plays within your mental activity just in case you bear *A*\* to *S*. When specifying what it is to believe* *S*, for example, we might mention how *S* serves as a basis for inferential reasoning, how it interacts with desires to produce actions, and so on. Precise functional roles are to be discovered by scientific psychology. Following Schiffer (1981), it is common to use the term “belief-box” as a placeholder for the functional role corresponding to belief*: to believe* *S* is to place *S* in your belief box. Similarly for “desire-box”, etc.
 
 (1) is compatible with the view that propositional attitudes are relations to propositions. One might analyze the locution “*S* means that *p*” as involving a relation between *S* and a proposition expressed by *S*. It would then follow that someone who believes* *S* stands in a psychologically important relation to the proposition expressed by *S*. Fodor (1987: 17) adopts this approach. He combines a commitment to mental representations with a commitment to propositions. In contrast, Field (2001: 30–82) declines to postulate propositions when analyzing “*S* means that *p*”. He posits mental representations with semantic properties, but he does not posit propositions expressed by the mental representations.
 
@@ -189,7 +189,7 @@ Fodor and Pylyshyn (1988) argue that, since RTT+COMP provides a satisfying expla
 
 There are systematic interrelations among the thoughts a thinker can entertain. For example, if you can entertain the thought that John loves Mary, then you can also entertain the thought that Mary loves John. Systematicity looks like a crucial property of human thought and so demands a principled explanation.
 
-RTT+COMP gives a compelling explanation. According to RTT+COMP, your ability to entertain the thought that *p* hinges upon your ability to bear appropriate psychological relations to a Mentalese sentence *S* whose meaning is that *p*. If you are able to think that John loves Mary, then your internal system of mental representations includes a mental sentence John loves Mary, composed of mental words John, loves, and Mary combined in the right way. If you have the capacity to stand in psychological relation *A** to John loves Mary, then you also have the capacity to stand in relation *A** to a distinct mental sentence Mary loves John. The constituent words John, loves, and Mary make the same semantic contribution to both mental sentences (John denotes John, loves denotes the loving relation, and Mary denotes Mary), but the words are arranged in different constituency structures so that the sentences have different meanings. Whereas John loves Mary means that John loves Mary, Mary loves John means that Mary loves John. By standing in relation *A** to the sentence Mary loves John, you entertain the thought that Mary loves John. Thus, an ability to think that John loves Mary entails an ability to think that John loves Mary. By comparison, an ability to think that John loves Mary does not entail an ability to think that whales are mammals or an ability to think that $56 + 138 = 194$.
+RTT+COMP gives a compelling explanation. According to RTT+COMP, your ability to entertain the thought that *p* hinges upon your ability to bear appropriate psychological relations to a Mentalese sentence *S* whose meaning is that *p*. If you are able to think that John loves Mary, then your internal system of mental representations includes a mental sentence John loves Mary, composed of mental words John, loves, and Mary combined in the right way. If you have the capacity to stand in psychological relation *A*\* to John loves Mary, then you also have the capacity to stand in relation *A\** to a distinct mental sentence Mary loves John. The constituent words John, loves, and Mary make the same semantic contribution to both mental sentences (John denotes John, loves denotes the loving relation, and Mary denotes Mary), but the words are arranged in different constituency structures so that the sentences have different meanings. Whereas John loves Mary means that John loves Mary, Mary loves John means that Mary loves John. By standing in relation *A*\* to the sentence Mary loves John, you entertain the thought that Mary loves John. Thus, an ability to think that John loves Mary entails an ability to think that John loves Mary. By comparison, an ability to think that John loves Mary does not entail an ability to think that whales are mammals or an ability to think that $56 + 138 = 194$.
 
 Fodor (1987: 148–153) supports RTT+COMP by citing its ability to explain systematicity. In contrast with the productivity argument, the systematicity argument does not depend upon infinitary idealizations that outstrip finite performance. Note that neither argument provides any direct support for CTM. Neither argument even mentions computation.
 
@@ -302,11 +302,11 @@ Even the best developed attempts at naturalizing intentionality, such as Fodor�
 
 LOTH is neutral as to the naturalization of intentionality. An LOT theorist might attempt to reduce the intentional to the non-intentional. Alternatively, she might dismiss the reductive project as impossible or pointless. Assuming she chooses the reductive route, LOTH provides guidance regarding how she might proceed. According to RTT,
 
-*X* *A*’s that *p* iff there is a mental representation *S* such that *X* bears *A** to *S* and *S* means that *p*.
+*X* *A*’s that *p* iff there is a mental representation *S* such that *X* bears *A*\* to *S* and *S* means that *p*.
 
 The task of elucidating “*X* *A*’s that *p*” in naturalistically acceptable terms factors into two sub-tasks (Field 2001: 33)[^field-2001]:
 
-1. Explain in naturalistically acceptable terms what it is to bear psychological relation *A** to mental representation *S*.
+1. Explain in naturalistically acceptable terms what it is to bear psychological relation *A*\* to mental representation *S*.
 2. Explain in naturalistically acceptable terms what it is for mental representation *S* to mean that *p*.
 
 As we have seen, functionalism helps with (a). Moreover, COMP provides a blueprint for tackling (b). We can first delineate a compositional semantics describing how *S*’s meaning depends upon semantic properties of its component words and upon the compositional import of the constituency structure into which those words are arranged. We can then explain in naturalistically acceptable terms why the component words have the semantic properties that they have and why the constituency structure has the compositional import that it has.
@@ -317,29 +317,29 @@ How much does LOTH advance the naturalization of intentionality? Our composition
 
 How are Mentalese expressions individuated? Since Mentalese expressions are types, answering this question requires us to consider the type/token relation for Mentalese. We want to fill in the schema
 
-*e* and *e** are tokens of the same Mentalese type iff *R*(*e*, *e**).
+*e* and *e*\* are tokens of the same Mentalese type iff *R*(*e*, *e*\*).
 
-What should we substitute for *R*(*e*, *e**)? The literature typically focuses on *primitive* symbol types, and we will follow suit here.
+What should we substitute for *R*(*e*, *e*\*)? The literature typically focuses on *primitive* symbol types, and we will follow suit here.
 
-It is almost universally agreed among contemporary LOT theorists that Mentalese tokens are neurophysiological entities of some sort. One might therefore hope to individuate Mentalese types by citing neural properties of the tokens. Drawing *R*(*e*, *e**) from the language of neuroscience induces a theory along the following lines:
+It is almost universally agreed among contemporary LOT theorists that Mentalese tokens are neurophysiological entities of some sort. One might therefore hope to individuate Mentalese types by citing neural properties of the tokens. Drawing *R*(*e*, *e*\*) from the language of neuroscience induces a theory along the following lines:
 
-*Neural individuation*: *e* and *e** are tokens of the same primitive Mentalese type iff *e* and *e** are tokens of the same neural type.
+*Neural individuation*: *e* and *e*\* are tokens of the same primitive Mentalese type iff *e* and *e*\* are tokens of the same neural type.
 
 This schema leaves open how neural types are individuated. We may bypass that question here, because neural individuation of Mentalese types finds no proponents in the contemporary literature. The main reason is that it conflicts with multiple realizability: the doctrine that a single mental state type can be realized by physical systems that are wildly heterogeneous when described in physical, biological, or neuroscientific terms. Putnam (1967) introduced multiple realizability as evidence against the mind/brain identity theory, which asserts that mental state types are brain state types. Fodor (1975: 13–25) further developed the multiple realizability argument, presenting it as foundational to LOTH. Although the multiple realizability argument has subsequently been challenged (Polger 2004)[^polger-2004], LOT theorists widely agree that we should not individuate Mentalese types in neural terms.
 
 The most popular strategy is to individuate Mentalese types functionally:
 
-*Functional individuation*: *e* and *e** are tokens of the same primitive Mentalese type iff *e* and *e** have the same functional role.
+*Functional individuation*: *e* and *e*\* are tokens of the same primitive Mentalese type iff *e* and *e*\* have the same functional role.
 
 Field (2001: 56–67), Fodor (1994: 105–109), and Stich (1983: 149–151) pursue functional individuation. They specify functional roles using a Turing-style computationalism formalism, so that “functional role” becomes something like “computational role”, i.e., role within mental computation.
 
 Functional roles theories divide into two categories: *molecular* and *holist*. Molecular theories isolate privileged canonical relations that a symbol bears to other symbols. Canonical relations individuate the symbol, but non-canonical relations do not. For example, one might individuate Mentalese conjunction solely through the introduction and elimination rules governing conjunction while ignoring any other computational rules. If we say that a symbol’s “canonical functional role” is constituted by its canonical relations to other symbols, then we can offer the following theory:
 
-*Molecular functional individuation*: *e* and *e** are tokens of the same primitive Mentalese type iff *e* and *e** have the same canonical functional role.
+*Molecular functional individuation*: *e* and *e*\* are tokens of the same primitive Mentalese type iff *e* and *e*\* have the same canonical functional role.
 
 One problem facing molecular individuation is that, aside from logical connectives and a few other special cases, it is difficult to draw any principled demarcation between canonical and non-canonical relations (Schneider 2011: 106)[^schneider-2011]. Which relations are canonical for SOFA?[^note-9] Citing the demarcation problem, Schneider espouses a holist approach that individuates mental symbols through *total functional role*, i.e., every single aspect of the role that a symbol plays within mental activity:
 
-*Holist functional individuation*: *e* and *e** are tokens of the same primitive Mentalese type iff *e* and *e** have the same total functional role.
+*Holist functional individuation*: *e* and *e*\* are tokens of the same primitive Mentalese type iff *e* and *e*\* have the same total functional role.
 
 Holist individuation is very fine-grained: the slightest difference in total functional role entails that different types are tokened. Since different thinkers will always differ somewhat in their mental computations, it now looks like two thinkers will never share the same mental language. This consequence is worrisome, for two reasons emphasized by Aydede (1998). First, it violates the plausible *publicity* constraint that propositional attitudes are in principle shareable. Second, it apparently precludes interpersonal psychological explanations that cite Mentalese expressions. Schneider (2011: 111–158) addresses both concerns, arguing that they are misdirected.
 
@@ -351,7 +351,7 @@ A recurring complaint about the semantically permeated approach is that inherent
 
 A simplistic implementation of the semantically permeated approach individuates symbol tokens *solely* through their denotations:
 
-*Denotational individuation*: *e* and *e** are tokens of the same primitive Mentalese type iff *e* and *e** have the same denotation.
+*Denotational individuation*: *e* and *e*\* are tokens of the same primitive Mentalese type iff *e* and *e*\* have the same denotation.
 
 As Aydede (2000) and Schneider (2011) emphasize, denotational individuation is unsatisfying. Co-referring words may play significantly different roles in mental activity. Frege’s (1892 [1997]) famous Hesperus-Phosphorus example illustrates: one can believe that Hesperus is Hesperus without believing that Hesperus is Phosphorus. As Frege put it, one can think about the same denotation “in different ways”, or “under different modes of presentation”. Different modes of presentation have different roles within mental activity, implicating different psychological explanations. Thus, a semantically permeated individuative scheme adequate for psychological explanation must be finer-grained than denotational individuation allows. It must take mode of presentation into account. But what it is to think about a denotation “under the same mode of presentation”? How are “modes of presentation” individuated? Ultimately, semantically permeated theorists must grapple with these questions. Rescorla (2020) offers some suggestions about how to proceed.[^note-11]
 

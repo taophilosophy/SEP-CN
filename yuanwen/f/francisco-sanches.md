@@ -76,19 +76,15 @@ And from here, Sanches, with more than a touch irony, similar to that exhibited 
 
 > Suppose I said that the eminent Clavius with his own head is a Janus with two heads, would anyone believe me? Suppose that a father common to you and me, were to leave you in his testament two parcels of arable lands, the ones that are two right angles, and made me the executor, would you be satisfied if I gave you the equivalent of the land represented by angle ACF [figure 1], which according to Proclus’ demonstration equals two right angles? But on the other hand, we would have to consider this, for the question is one of geometry, which is to say, of *measuring the land*. (LC: 301: #12, my emphasis)
 
-*Figure 1*
-
 ![a diagram consisting of an origin, C, with lines to B at -90 degrees, to A at 90 degrees, D at 0 degrees, E at 45 degrees, and F at -45 degrees](../assets/francisco-sanches/figure1.svg)
 
-Figure 1
+*Figure 1*
 
 Here we witness Sanches turning to the etymology of *geometry* (*γεω μετρία*), meaning: the measurement of the land or earth (*terrae mensura*), followed by a second example, which much like the first is based on a pragmatist view of mathematics [figure 2].
 
-*Figure 2*
-
 ![a diagram consisting of two lines, one above the other. The top line is labeled A on the left and B on the right. The bottom line is two thirds the length of the top line and is labeled C on the left and D on the right and the midpoint is labeled E.](../assets/francisco-sanches/figure2.svg)
 
-Figure 2
+*Figure 2*
 
 > If you were to purchase a piece of cloth of the length AB, in order to make a jacket, and the merchant were to give you a piece of cloth of size CD alleging that that CD and CE were equivalent to AB, don’t you think the jacket would come out too short? (LC: 301: #12, my translation).
 

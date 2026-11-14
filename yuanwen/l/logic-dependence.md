@@ -75,11 +75,9 @@ The condition for the new dependence atoms $\eqord(x_1 \ldots x_n, y)$, which co
 
 For example, suppose that $X$ is a set of assignments over the three variables $x_1$, $x_2$ and $y$, where $x_1$ represents the nationality of a candidate to a position, $x_2$ represents their score (according to a suitable evaluation method) and $y$ represents whether they were accepted or rejected. Then the atom $\eqord(x_2, y)$ corresponds to the statement that the offer is determined by the score alone: if two candidates have the same score they will receive exactly the same offer, regardless of any other factor. A special case of dependence atom is given by the *constancy atoms* $\eqord(y)$, which—as per the above semantics—are satisfied by a team if and only if all of its assignments agree over the value of $y$.
 
-*Table 1:*
-
 $$\begin{array}{l | c c c} \textbf{assignment}& \mathbf{x_1} & \mathbf{x_2} & \mathbf{y}\\ \hline s_0 & 0 & 0 & 0 \\ s_1 & 0 & 1 & 1 \\ s_2 & 1 & 0 & 1 \\ s_3 & 1 & 1 & 2 \end{array}$$
 
-Table 1: A team $X$ in which $y = x_1 + x_2$. Here $y$ is a function of $x_1$ and $x_2$, and hence $=\!\!(x_1 x_2, y)$ holds; however, $y$ is not a function of $x_1$ alone, so $=\!\!(x_1, y)$ does not hold.
+*Table 1:* A team $X$ in which $y = x_1 + x_2$. Here $y$ is a function of $x_1$ and $x_2$, and hence $=\!\!(x_1 x_2, y)$ holds; however, $y$ is not a function of $x_1$ alone, so $=\!\!(x_1, y)$ does not hold.
 
 Under the same interpretation, the rules for first-order literals and conjunctions (for simplicity, we will assume that our expressions are in negation normal form; and, as is customary, we will assume that the negations of dependence atoms are never satisfied) are easy to derive:
 
@@ -95,11 +93,9 @@ What about universal quantification? In which circumstances should a universally
 
 where $s' \sim_v s$ means that the two assignments $s$ and $s'$ differ from each other at most with respect to the value of the variable $v$.
 
-*Table 2:*
-
 $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \end{array} \Rightarrow X[M/y]= \begin{array}{l | c | c} \textbf{assignment} & x & y\\ \hline s'_0 & 0 & 0\\ s'_1 & 0 & 1\\ s'_2 & 1 & 0\\ s'_3 & 1 & 1 \end{array}$$
 
-Table 2: $X$ and $X[M/y]$ in a model with two elements $0$ and $1$.
+*Table 2:* $X$ and $X[M/y]$ in a model with two elements $0$ and $1$.
 
 Let us now consider disjunction. When should $\phi \lor \psi$ hold? To answer this, let us recall—once again—that teams can be understood as sets of possible states of things, and that therefore the union of two teams $Y$ and $Z$ represents all states of things which may occur if $Y$ or $Z$ is the case. Therefore, if the two formulas $\phi$ and $\psi$ are satisfied by the set of teams $\{Y_1 \ldots Y_n, \ldots\}$ and $\{Z_1 \ldots Z_n, \ldots\}$ respectively, their disjunction $\phi \lor \psi$ should be satisfied by the set of teams $\{Y_i \cup Z_j : i,j \in 1, \ldots\}$, or, equivalently,
 
@@ -117,11 +113,9 @@ It is straightforward to verify that this is the case if and only if $Y$ is of t
 
 It is worth pointing out here that it is not in general required by the above definition that $X$ and $Y$ contain the same number of assignments: a single assignment in $X$ may well correspond to multiple assignments in $Y$, and—if $v$ is already a variable occurring in the assignments of $X$—a single assignment in $Y$ may also correspond to multiple assignments in $X$.
 
-*Table 3:*
-
 $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \end{array} \Rightarrow X[F/y]= \begin{array}{l | c | c} \textbf{assignment} & x & y\\ \hline s'_0 & 0 & 0\\ s'_1 & 0 & 1\\ s'_2 & 1 & 0 \end{array}$$
 
-Table 3: $X$ and $X[F/y]$ for $F(s_0) = \{0,1\}$, $F(s_1) = \{0\}$
+*Table 3:* $X$ and $X[F/y]$ for $F(s_0) = \{0,1\}$, $F(s_1) = \{0\}$
 
 We will postpone an in-depth discussion of the properties of dependence logic to after the specification of its game-theoretic semantics. However, we conclude this section with the following three important consequences of the above-given rules:
 

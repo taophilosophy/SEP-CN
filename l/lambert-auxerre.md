@@ -115,7 +115,7 @@ Maloney 的译本遵循 Alessio 的版本（Maloney 2015: xlvii）[^maloney-2015
 
 确定兰伯特对后世著作的影响，取决于确定其专著的精确日期；因此这些问题在某种程度上只能得到部分回答。不过，虽然例如托马斯·阿奎那是否知道兰伯特的著作尚有不确定性（Goris 2002: 307）[^goris-2002]，我们确实知道：兰伯特的《大全》到十三世纪末已广为人知（Lagerlund 2000: fn. 15）[^lagerlund-2000]。一份 1280 年的《大全》手稿抄本（特鲁瓦大地传媒图书馆 MS 2402）由利摩日的彼得（卒于 1306）去世时捐赠给索邦（Read 2017: 363）[^read-2017]；它在索邦被用作教科书，至少到 1334 年（Maloney 2015: xliii）[^maloney-2015]。
 
-Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔·培根在《辩证小论》中对同一主题的讨论，后者是“他试图更详细地改进兰伯特关于组合/分割歧义之本性的说明”（Sinkler 1985: 146）[^sinkler-1985]。同样，Grabmann 鉴定出一份十三世纪末的匿名文本，在其中看到不仅兰伯特、还有舍伍德的威廉与西班牙彼得的影响（Grabmann 1916: 40–41）[^grabmann-1916]。Marmo 在司各脱的《旧逻辑》中识别出兰伯特“扩展了的指代概念”，但未走到说兰伯特是司各脱在此题上观点之来源的地步（Marmo 1989: 172）[^marmo-1989]；Buckner 与 Zupko 提供了充分的间接证据，表明司各脱相当熟悉兰伯特的著作（Bucker & Zupko 2014）。
+Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔·培根在《辩证小论》中对同一主题的讨论，后者是“他试图更详细地改进兰伯特关于组合/分割歧义之本性的说明”（Sinkler 1985: 146）[^sinkler-1985]。同样，Grabmann 鉴定出一份十三世纪末的匿名文本，在其中看到不仅兰伯特、还有舍伍德的威廉与西班牙彼得的影响（Grabmann 1916: 40–41）[^grabmann-1916]。Marmo 在司各脱的《旧逻辑》中识别出兰伯特“扩展了的指代概念”，但未走到说兰伯特是司各脱在此题上观点之来源的地步（Marmo 1989: 172）[^marmo-1989]；Buckner 与 Zupko 提供了充分的间接证据，表明司各脱相当熟悉兰伯特的著作（Buckner & Zupko 2014）。
 
 另一方面，兰伯特的著作与西班牙的彼得《逻辑概要》之间，似乎没有双向影响（Maloney 2015: xvi–xvii；Copenhaver 在其《概要》译本导言中只提到兰伯特一次，2014: 13；另参见 de Rijk 1971: 72）[^maloney-2015][^rijk-1971]。Alessio 结论说：这两部文本反而依赖“一个（未具名的）共同的[巴黎]来源”（Maloney 2015: xvii）[^maloney-2015]；Braakhuis 注意到：
 
@@ -123,7 +123,7 @@ Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔
 
 这些十二世纪与更早十三世纪的来源，可能解释了兰伯特与彼得观点相合之处，如他们对“关系”的定义（参见上文）与关于扩展的观点（Lagerlund 2000: fn. 90）[^lagerlund-2000]。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -140,7 +140,7 @@ Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔
 [^ashworth-1991]: Ashworth, E. Jennifer, 1991, “A Thirteenth-Century Interpretation of Aristotle on Equivocation and Analogy”, *Canadian Journal of Philosophy Supplementary Volume*, 17: 85–101. doi:10.1080/00455091.1991.10717263
 [^ashworth-2002]: –––, 2002, “Review of Egbert Bos and Stephen Read, *Concepts. The Treatises of Thomas of Cleves and Paul of Gelria. An Edition of the Texts with a Systematic Introduction*. Éditions de l’Institut Supérieur de Philosophie, Louvain-la-Neuve; Éditions Peeters, Louvain-Paris 2001, pp. xii + 147. ISBN 90 429 0901 3 (Philosophes médiévaux, t. XLII)”, *Vivarium*, 40(2): 312–313.
 [^ashworth-2007]: –––, 2007, “Metaphor and the Logicians from Aristotle to Cajetan”, *Vivarium*, 45(2): 311–327. doi:10.1163/156853407X217795
-[^braakhuis-1977]: Braakhuis, H.A.G., 1977, “The Views of 舍伍德的威廉 on Some Semantical Topics and Their Relation to Those of Roger Bacon”, *Vivarium*, 15(2): 111–142. doi:10.1163/156853477X00077
+[^braakhuis-1977]: Braakhuis, H.A.G., 1977, “The Views of William of Sherwood on Some Semantical Topics and Their Relation to Those of Roger Bacon”, *Vivarium*, 15(2): 111–142. doi:10.1163/156853477X00077
 [^brumberg-chaumont-2013]: Brumberg-Chaumont, Julie, 2013, “The Role of Discrete Terms in the Theory of the Properties of Terms”, *Vivarium*, 51(1–4): 169–204. doi:10.1163/15685349-12341246
 [^buckner-2014]: Buckner, Edward and Jack Zupko, 2014, *Duns Scotus on Time and Existence: The Questions on Aristotle’s “De interpretatione”*, translated, with an introduction and commentary, Washington, D.C.: The Catholic University of America.
 [^cesalli-2013]: Cesalli, Laurent, 2013, “Richard Brinkley on Supposition”, *Vivarium*, 51(1–4): 275–303. doi:10.1163/15685349-12341250
@@ -153,15 +153,15 @@ Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔
 [^grabmann-1916]: Grabmann, Martin, 1916, “Forschungen über die lateinischen Aristotelesübersetzungen des XIII. Jahrhunderts”, *Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters*, XVII(5–6), Münster i.W.: Aschendorff. [[Grabmann 1916 available online](https://archive.org/details/forschungenber00grab/page/n13/mode/2up)]
 [^kann-2016]: Kann, Christoph, 2016, “Supposition and Properties of Terms”, in *The Cambridge Companion to Medieval Logic* (Cambridge Companions to Philosophy), Catarina Dutilh Novaes and Stephen Read (eds), Cambridge: Cambridge University Press, 220–244 (ch. 9). doi:10.1017/CBO9781107449862.010
 [^kneepkens-1977]: Kneepkens, C.H., 1977, “The *Relatio simplex* in the Grammatical Tracts of the Late Twelfth and Early Thirteenth Century”, *Vivarium*, 15(1): 1–30. doi:10.1163/156853477X00013
-[^kretzmann-1966]: Kretzmann, Norman (trans.), 1966, 舍伍德的威廉’s Introduction to Logic, Translated with an Introduction and Notes, Minneapolis, MN: University of Minnesota Press.
+[^kretzmann-1966]: Kretzmann, Norman (trans.), 1966, William of Sherwood’s Introduction to Logic, Translated with an Introduction and Notes, Minneapolis, MN: University of Minnesota Press.
 [^lagerlund-2000]: Lagerlund, Henrik, 2000, *Modal Syllogistics in the Middle Ages* (Studien und Texte zur Geistesgeschichte des Mittelalters, 70), Leiden/Boston: Brill.
-[^libera-1981]: de Libera, Alain, 1981, “Le traité *De appellatione* de Lambert de Lagny (Lambert d’Auxerre)”, *Archives d’Histoire Doctrinale et Litéraire du Moyen Âge*, 48: 227–285.
+[^libera-1981]: de Libera, Alain, 1981, “Le traité *De appellatione* de Lambert de Lagny (Lambert d’Auxerre)”, *Archives d’Histoire Doctrinale et Littéraire du Moyen Âge*, 48: 227–285.
 [^maloney-2009]: Maloney, Thomas S., 2009, “Who Is the Author of the *Summa Lamberti*?”:, *International Philosophical Quarterly*, 49(1): 89–106. doi:10.5840/ipq20094917
 [^maloney-2015]: –––, 2015, “Introduction” to [Logica/Maloney], pp. xv–xlix.
 [^marmo-1989]: Marmo, Costantino, 1989. “Ontology and Semantics in the Logic of Duns Scotus”, in *On the Medieval Theory of Signs* (Foundations of Semiotics, 21), Umberto Eco and Costantino Marmo (eds), Philadelphia/Amsterdam: John Benjamins, 143–193 (ch. 8).
 [^mendelsohn-2017]: Mendelsohn, Joshua, 2017, “Term Kinds and the Formality of Aristotelian Modal Logic”, *History and Philosophy of Logic*, 38(2): 99–126. doi:10.1080/01445340.2016.1247321
 [^murè-2013]: Murè, Dafne, 2013, “Suppositum between Logic and Metaphysics: Simon of Faversham and His Contemporaries(1270–1290)”, *Vivarium*, 51(1–4): 205–229. doi:10.1163/15685349-12341247
-[^pignon-1936]: Pignon, Larentii, 1936, *Catalogi et Chronica* (Monumenta Ordinis Fratrum Praedicatorum Historica 18), Rome: Institutum Historicum Fratrum Praedicatorum.
+[^pignon-1936]: Pignon, Laurentii, 1936, *Catalogi et Chronica* (Monumenta Ordinis Fratrum Praedicatorum Historica 18), Rome: Institutum Historicum Fratrum Praedicatorum.
 [^prantl-1867]: Prantl, Carl, 1867, *Geschichte der Logik im Abendlande*, volume 3, B, Leipzig: S. Hirzel.
 [^read-2017]: Read, Stephen, 2017, “Review of *Logica or Summa Lamberti, with Notes and Introduction*, by Lambert of Auxerre, Thomas S. Maloney (trans.)”, *Vivarium*, 55(4): 361–365. doi:10.1163/15685349-12341347
 [^rijk-1969]: de Rijk, L. M., 1969, “On the Genuine Text of Peter of Spain’s *Summule logicales*: IV. The *lectura tractatuum* by Guillelmus Arnaldi, Master of Arts at Toulouse (1235–1244). With a Note on the Date of Lambertus of Auxerre’s *Summule*”, *Vivarium*, 7: 120–162. doi:10.1163/156853469X00085

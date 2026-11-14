@@ -169,17 +169,15 @@ Feature diversity raises measurement challenges. Not only do we not know, in gen
 
 The phylogenetic diversity measure illustrates how the pattern—process framework differs from the objects and differences approach. For PD, the objects are species (or other taxa) and the units that we would like to count-up are features (or characters). The use of phylogeny (the “tree of life”) to make inferences about the relative feature diversity of different sets of species is a way to overcome our lack of knowledge about all the features of different species. Maclaurin and Sterelny (2008: 20) incorrectly interpreted PD as an application of the objects and differences approach, with species as objects and differences given by “genealogical depth”. Instead, a pattern (phylogeny) among the species is used. This pattern allows inferences about the biodiversity units of interest—here, features or characters of species.
 
-*(a)*
-
 ![a diagram: link to extended description below.](../assets/biodiversity/figa.svg)
 
-(a)
+*(a)*
 
 ![a diagram: link to extended description below.](../assets/biodiversity/figb.svg)
 
-(b)
+*(b)*
 
-Figure. A general biodiversity model linking relationships among objects to measures of biodiversity based on the indirect counting-up of units. In each case, relationships among the three objects represented by solid dots provides information about their representation, as a set, of underlying units. The ovals highlight the idea that their degree of similarity within the pattern indicates degree of shared units.
+*Figure.* A general biodiversity model linking relationships among objects to measures of biodiversity based on the indirect counting-up of units. In each case, relationships among the three objects represented by solid dots provides information about their representation, as a set, of underlying units. The ovals highlight the idea that their degree of similarity within the pattern indicates degree of shared units.
 
 1. for phylogenetic diversity, the objects are species, the units are evolutionary features and the phylogenetic/feature diversity of the 3 (solid dots) species is indicated by the summed lengths of the blue branches on the phylogenetic tree. Note that this set of 3 species has greater phylogenetic diversity / feature diversity than the set of two hollow-dot species (red branches). [An extended description of figure (a) is in the supplement.]
 2. another kind of pattern for species-as-objects is a Euclidean space representing key environmental gradients. The inferred biodiversity may be functional trait diversity. [An extended description of figure (b) is in the supplement.]

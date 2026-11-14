@@ -33,11 +33,9 @@ Third, because later determinations “sublate” earlier determinations, the ea
 
 The concept of “apple”, for example, as a Being-for-itself, would be defined by gathering up individual “somethings” that are the same as one another (as apples). Each individual apple can be what it is (as an apple) only in relation to an “other” that is the same “something” that it is (i.e., an apple). That is the one-sidedness or restrictedness that leads each “something” to pass into its “other” or opposite. The “somethings” are thus both “something-others”. Moreover, their defining processes lead to an endless process of passing back and forth into one another: one “something” can be what it is (as an apple) only in relation to another “something” that is the same as it is, which, in turn, can be what it is (an apple) only in relation to the other “something” that is the same as it is, and so on, back and forth, endlessly (cf. EL §95). The concept of “apple”, as a Being-for-itself, stops that endless, passing-over process by embracing or including the individual something-others (the apples) in its content. It grasps or captures their character or quality *as apples*. But the “something-others” must do their work of picking out and separating those individual items (the apples) *before* the concept of “apple”—as the Being-for-itself—can gather them up for its own definition. We can picture the concept of Being-for-itself like this:
 
-*Figure 1*
-
 ![an oval enclosing two circles, left and right; an arrow goes from the interior of each circle to the interior of the other. The oval has the statement 'Being-for-itself embraces the something-others in its content'. The circles have the statement 'the something-others'. The arrows have the statement 'the process of passing back-and-forth between the something-others'.](../assets/hegel-dialectics/1_Being-for-itself.png)
 
-Figure 1
+*Figure 1*
 
 Later concepts thus replace, but also preserve, earlier concepts.
 
@@ -51,19 +49,15 @@ Like Being-for-itself, later concepts are more universal because they unify or a
 
 Finally, because the dialectical process leads to increasing comprehensiveness and universality, it ultimately produces a complete series, or drives “to completion” (SL-dG 33; cf. SL-M 54; PhG §79). Dialectics drives to the “Absolute”, to use Hegel’s term, which is the last, final, and completely all-encompassing or unconditioned concept or form in the relevant subject matter under discussion (logic, phenomenology, ethics/politics and so on). The “Absolute” concept or form is unconditioned because its definition or determination contains all the other concepts or forms that were developed earlier in the dialectical process for that subject matter. Moreover, because the process develops necessarily and comprehensively through each concept, form or determination, there are no determinations that are left out of the process. There are therefore no left-over concepts or forms—concepts or forms outside of the “Absolute”—that might “condition” or define it. The “Absolute” is thus unconditioned because it contains all of the conditions in its content, and is not conditioned by anything else outside of it. This Absolute is the highest concept or form of universality for that subject matter. It is the thought or concept of the whole conceptual system for the relevant subject matter. We can picture the Absolute Idea (EL §236), for instance—which is the “Absolute” for logic—as an oval that is filled up with and surrounds numerous, embedded rings of smaller ovals and circles, which represent all of the earlier and less universal determinations from the logical development (cf. Maybee 2009: 30, 600)[^maybee-2009]:
 
-*Figure 2*
-
 ![Five concentric ovals; the outermost one is labeled 'The Absolute Idea'.](../assets/hegel-dialectics/2_The_Absolute.png)
 
-Figure 2
+*Figure 2*
 
 Since the “Absolute” concepts for each subject matter lead into one another, when they are taken together, they constitute Hegel’s entire philosophical system, which, as Hegel says, “presents itself therefore as a circle of circles” (EL-GSH §15). We can picture the entire system like this (cf. Maybee 2009: 29)[^maybee-2009]:
 
-*Figure 3*
-
 ![A circle enclosing enclosing 10 ovals. One oval is labeled 'Phenomenology', another 'Logic', and two others 'Other philosophical subject matters'. The enclosing circle is labeled: the whole philosophical system as a 'circle of circles'](../assets/hegel-dialectics/3_Phil_System.png)
 
-Figure 3
+*Figure 3*
 
 Together, Hegel believes, these characteristics make his dialectical method genuinely scientific. As he says, “the dialectical constitutes the moving soul of scientific progression” (EL-GSH Remark to §81). He acknowledges that a description of the method can be more or less complete and detailed, but because the method or progression is driven only by the subject matter itself, this dialectical method is the “only true method” (SL-M 54; SL-dG 33).
 
@@ -101,45 +95,35 @@ For the concept of Being, for example, its moment of understanding is its moment
 
 The concept of Nothing also has all three moments. When it is asserted to be the speculative result of the concept of Being, it has its moment of understanding or stability: it is Nothing, defined as pure absence, as the absence of determination. But Nothing’s moment of understanding is also one-sided or restricted: like Being, Nothing is also an undefined content, which is its determination in its dialectical moment. Nothing thus sublates *itself*: since it is an undefined *content*, it is not pure absence after all, but has the same *presence* that Being did. It is *present* as an undefined *content*. Nothing thus *sublates* Being: it replaces (cancels) Being, but also preserves Being insofar as it has the same definition (as an undefined content) and presence that Being had. We can picture Being and Nothing like this (the circles have dashed outlines to indicate that, as concepts, they are each undefined; cf. Maybee 2009: 51)[^maybee-2009]:
 
-*Figure 4*
-
 ![two circles with dashed outlines, one labeled 'Being' and one 'Nothing'.](../assets/hegel-dialectics/4_Being_and_Nothing.png)
 
-Figure 4
+*Figure 4*
 
 In its speculative moment, then, Nothing implies presence or Being, which is the “unity of the determinations in their comparison [*Entgegensetzung*]” (EL §82; alternative translation), since it both *includes* but—as a process from one to the other—also *compares* the two earlier determinations of Nothing, first, as pure absence and, second, as just as much presence.
 
 The dialectical process is driven to the next concept or form—Becoming—not by a triadic, thesis-antithesis-synthesis pattern, but by the one-sidedness of Nothing—which leads Nothing to sublate itself—and by the implications of the process so far. Since Being and Nothing have each been exhaustively analyzed as separate concepts, and since they are the only concepts in play, there is only one way for the dialectical process to move forward: whatever concept comes next will have to take account of both Being and Nothing at the same time. Moreover, the process revealed that an undefined content taken to be presence (i.e., Being) implies Nothing (or absence), and that an undefined content taken to be absence (i.e., Nothing) implies presence (i.e., Being). The next concept, then, takes Being and Nothing together and draws out those implications—namely, that Being implies Nothing, and that Nothing implies Being. It is therefore Becoming, defined as two separate processes: one in which Being becomes Nothing, and one in which Nothing becomes Being. We can picture Becoming this way (cf. Maybee 2009: 53)[^maybee-2009]:
 
-*Figure 5*
-
 ![Same as the previous figure except arched arrows from the Nothing circle to the Being circle and vice versa. The arrows are labeled 'Becoming'. ](../assets/hegel-dialectics/5_Becoming.png)
 
-Figure 5
+*Figure 5*
 
 In a similar way, a one-sidedness or restrictedness in the determination of Finite Purpose together with the implications of earlier stages leads to Realized Purpose. In its moment of understanding, Finite Purpose particularizes into (or presents) its content as “*something-presupposed*” or as a pre-given object (EL §205). I go to a restaurant for the purpose of having dinner, for instance, and order a salad. My purpose of having dinner particularizes as a pre-given object—the salad. But this object or particularity—e.g. the salad—is “inwardly reflected” (EL §205): it has its own content—developed in earlier stages—which the definition of Finite Purpose ignores. We can picture Finite Purpose this way:
 
-*Figure 6*
-
 ![4 concentric ovals with the innermost one enclosing an oval and a circle; an arrow points inward from the outermost oval and is labeled 'Presents into or particularizes as'. The outermost oval is labeled 'Finite Purpose (the universality; e.g. 'dinner')'. The next most oval is labeled 'A pre-given object (e.g., 'salad')'. The next oval and the circle and oval in the center are labeled 'The content of the object, developed in earlier stages, that Finite Purpose is ignoring'.](../assets/hegel-dialectics/6_Finite_Purpose.png)
 
-Figure 6
+*Figure 6*
 
 In the dialectical moment, Finite Purpose is determined by the previously ignored content, or by that other content. The one-sidedness of Finite Purpose requires the dialectical process to continue through a series of syllogisms that determines Finite Purpose in relation to the ignored content. The first syllogism links the Finite Purpose to the first layer of content in the object: the Purpose or universality (e.g., dinner) goes through the particularity (e.g., the salad) to its content, the singularity (e.g., lettuce as a type of thing)—the syllogism U-P-S (EL §206). But the particularity (e.g., the salad) is itself a universality or purpose, “which at the same time is a syllogism within itself [*in sich*]” (EL Remark to §208; alternative translation), in relation to its own content. The salad is a universality/purpose that particularizes as lettuce (as a type of thing) and has its singularity in this lettuce here—a second syllogism, U-P-S. Thus, the first singularity (e.g., “lettuce” as a type of thing)—which, in this second syllogism, is the particularity or *P*—“*judges*” (EL §207) or asserts that “*U* is *S*”: it says that “lettuce” as a universality (*U*) or type of thing is a singularity (*S*), or is “this lettuce here”, for instance. This new singularity (e.g. “this lettuce here”) is itself a combination of subjectivity and objectivity (EL §207): it is an Inner or identifying concept (“lettuce”) that is in a mutually-defining relationship (the circular arrow) with an Outer or out-thereness (“this here”) as its content. In the speculative moment, Finite Purpose is determined by the whole process of development from the moment of understanding—when it is defined by particularizing into a pre-given object with a content that it ignores—to its dialectical moment—when it is also defined by the previously ignored content. We can picture the speculative moment of Finite Purpose this way:
 
-*Figure 7*
-
 ![4 concentric ovals with the innermost one enclosing an oval and a circle; arrows point inward from the outermost 3 ovals to the next one in. The outermost oval is labeled 'Finite Purpose (the universality; e.g. 'dinner')'. The nextmost oval is labeled both 'The Particularity or object (e.g., 'salad')' and 'The object (e.g., 'salad') is also a Purpose or universality with its own syllogism'. The next oval is labeled both 'The Singularity (e.g., 'lettuce' as a type)' and 'The Particularity (e.g., 'lettuce' as type)'. And the 4th oval is labeled both 'Inner' and 'The Singularity (e.g., 'this lettuce is here')'. The circle in the middle is labeled 'Outer' and the oval in the middle 'Mutually-defining relationship'. The 3 interior ovals (not including the innermost) are also labeled 'The second syllogism U-P-S'. The 3 outer ovals are also labeled 'The first syllogism U-P-S'.](../assets/hegel-dialectics/7_Finite_Purpose_Realizing_Itself.png)
 
-Figure 7
+*Figure 7*
 
 Finite Purpose’s speculative moment leads to Realized Purpose. As soon as Finite Purpose presents all the content, there is a return process (a series of return arrows) that establishes each layer and redefines Finite Purpose as Realized Purpose. The presence of “this lettuce here” establishes the actuality of “lettuce” as a type of thing (an Actuality is a concept that captures a mutually-defining relationship between an Inner and an Outer [EL §142]), which establishes the “salad”, which establishes “dinner” as the Realized Purpose over the whole process. We can picture Realized Purpose this way:
 
-*Figure 8*
-
 ![4 concentric ovals with the innermost one enclosing an oval and a circle; arrows point inward from the outermost 3 ovals to the next one in and arrows also point in the reverse direction. The outermost oval is labeled 'Realized Purpose: the Purpose (e.g., 'dinner') is established as the Purpose or universality over the whole content'. The outward pointing arrows are labeled 'The return process established the Purpose (e.g., 'dinner') as the Purpose or universality over the whole content'. The nextmost oval is labeled 'The object and second Purpose (e.g., 'salad')'. The one next in is labeled 'The Singularity/Particularity (e.g., 'lettuce' as a type)'. The 3rd inward oval is labeled 'The second Singularity (e.g., 'this lettuce is here')'.](../assets/hegel-dialectics/8_Realized_Purpose.png)
 
-Figure 8
+*Figure 8*
 
 If Hegel’s account of dialectics is a general description of the life of each concept or form, then any section can include as many or as few stages as the development requires. Instead of trying to squeeze the stages into a triadic form (cf. Solomon 1983: 22)[^solomon-1983]—a technique Hegel himself rejects (PhG §50; cf. section 3)—we can see the process as driven by each determination on its own account: what it succeeds in grasping (which allows it to be stable, for a moment of understanding), what it fails to grasp or capture (in its dialectical moment), and how it leads (in its speculative moment) to a new concept or form that tries to correct for the one-sidedness of the moment of understanding. This sort of process might reveal a kind of argument that, as Hegel had promised, might produce a comprehensive and exhaustive exploration of every concept, form or determination in each subject matter, as well as raise dialectics above a haphazard analysis of various philosophical views to the level of a genuine science.
 
@@ -229,11 +213,9 @@ We should also be careful not to exaggerate the “necessity” of formal, symbo
 
 Although Hegel’s dialectics is driven by syntax, semantics and considerations specific to the different subject matters (section 4 above), several important syntactic patterns appear repeatedly throughout his works. In many places, the dialectical process is driven by a syntactic necessity that is really a kind of exhaustion: when the current strategy has been exhausted, the process is forced, necessarily, to employ a new strategy. As we saw (section 2), once the strategy of treating Being and Nothing as separate concepts is exhausted, the dialectical process must, necessarily, adopt a different strategy, namely, one that takes the two concepts together. The concept of Becoming captures the first way in which Being and Nothing are taken together. In the stages of Quantum through Number, the concepts of One and Many take turns defining the whole quantity as well as the quantitative bits inside that make it up: first, the One is the whole, while the Many are the bits; then the whole and the bits are all Ones; then the Many is the whole, while the bits are each a One; and finally the whole and the bits are all a Many. We can picture the development like this (cf. Maybee 2009, xviii–xix)[^maybee-2009]:
 
-*Figure 9*
-
 ![4 figures each contains a rounded corner rectangle bisected by a vertical rod. In #1 the rectangle boundary is labeled 'One' and each half is labeled 'Many'; the caption reads:'Quantum: 'one' refers to the outer boundary, 'many' within. #2 has the boundary also labeled 'One' but the halves labeled 'ones'; the caption reads: Number: 'one' on all sides. #3 has the boundary labeled 'Many' and the halves labeled 'Each a one'; the caption reads: Extensive and Intensive Magnitude: 'many' on the outer boundary, 'one' within'. #4 the rounded rectangle is enclosed by a box; the two halves are labeled 'Many (within)' and the space between the rectangle and the box is labeled 'Many (without)'; the caption reads: Degree: 'many' on all sides. ](../assets/hegel-dialectics/9_Intro_Quick_Sketches_copy.png)
 
-Figure 9
+*Figure 9*
 
 Since One and Many have been exhausted, the next stage, Ratio, must, necessarily, employ a different strategy to grasp the elements in play. Just as Being-for-itself is a concept of universality for Quality and captures the character of a set of something-others in its content (see section 1), so Ratio (the whole rectangle with rounded corners) is a concept of universality for Quantity and captures the character of a set of quantities in its content (EL §105–6; cf. Maybee 2009, xviii–xix, 95–7)[^maybee-2009]. In another version of syntactic necessity driven by exhaustion, the dialectical development will take account of every aspect or layer, so to speak, of a concept or form—as we saw in the stages of Purpose outlined above, for instance (section 2). Once all the aspects or layers of a concept or form have been taken account of and so exhausted, the dialectical development must also, necessarily, employ a different strategy in the next stage to grasp the elements in play.
 

@@ -20,7 +20,7 @@
 
 另一些作者则把关键角色派给莱布尼茨。例如 Eric J. Aiton 写道：莱布尼茨的普遍文字方案及由此产生的逻辑演算，“在逻辑史上发挥了重要作用”（1985, ix）。Franz Schupp 从前引库蒂拉的评价出发，认为“莱布尼茨逻辑可能对现代逻辑的进一步发展有意义，而不止于‘天才预见’这一历史上有趣的方面”（Schupp 1988, 42）[^schupp-1988]。Schupp 写道：现代逻辑发展的每一步，都带来对莱布尼茨逻辑的新洞见；但有时，处理莱布尼茨反过来影响了发展本身。
 
-现代逻辑的先驱们自己也援引莱布尼茨，这似与第二种立场相合。例如，乔治·布尔的遗孀玛丽·埃弗雷斯特·布尔写道：她的丈夫在得知莱布尼茨预见了其自己的逻辑之后，感觉“仿佛莱布尼茨跨过几个世纪走来，与他握了握手”（M. E. Boole 1905，转引自 Laita 1976, 243）[^boole-1905][^laita-1976]。继布尔之后在英国推动现代逻辑赢得巨大公众声誉的威廉·斯坦利·杰文斯主张：“莱布尼茨的逻辑论著……是其惊人洞察力的证据”（Jevons 1883 [1874], xix）。恩斯特·施罗德则认为：莱布尼茨的逻辑演算理想，已由乔治·布尔臻于完善（Schröder 1877, III）[^schröder-1877]。恩斯特·施罗德与戈特洛布·弗雷格之间有一场特殊论战，日后现代逻辑两种形态（逻辑代数与弗雷格式数学逻辑）之分野即植根于此。论战正围绕莱布尼茨遗产在各自逻辑变体中体现到何种程度而展开。弗雷格在《概念文字》中曾写道：普遍文字的观念，即 *calculus philosophicus*（哲学演算）或 *ratiocinator*（推理演算），对莱布尼茨一人而言过于宏大，难以实现。弗雷格自己的《概念文字》提供了迈向这一目标的第一步，这一目标可见于算术与化学的公式语言（Frege 1879, VI）[^frege-1879]。在评弗雷格《概念文字》时，施罗德（Schröder 1880, 82）[^schröder-1880]提出异议：“概念文字”这一标题许诺过多。照施罗德之见，弗雷格的体系与其说是“普遍文字”，不如说是 **推理演算**（*calculus ratiocinator*）；它的发展本会意义重大，倘若它不曾已被他人（尤其是布尔）达成。弗雷格答复（Frege 1883, 1）[^frege-1883]：他并不打算像布尔那样以公式呈现一种抽象逻辑，而是要以书面符号表达内容，比词语所能做到的更精确、更清晰。因此《概念文字》不只是一个 **推理演算** ，而是莱布尼茨意义上的 **特征语言**（*lingua characteristica*），尽管他也承认，推论计算（*schlussfolgernde Rechnung*）是《概念文字》的必要成分。
+现代逻辑的先驱们自己也援引莱布尼茨，这似与第二种立场相合。例如，乔治·布尔的遗孀玛丽·埃弗雷斯特·布尔写道：她的丈夫在得知莱布尼茨预见了其自己的逻辑之后，感觉“仿佛莱布尼茨跨过几个世纪走来，与他握了握手”（M. E. Boole 1905，转引自 Laita 1976, 243）[^boole-1905][^laita-1976]。继布尔之后在英国推动现代逻辑赢得巨大公众声誉的威廉·斯坦利·杰文斯主张：“莱布尼茨的逻辑论著……是其惊人洞察力的证据”（Jevons 1883 [1874], xix）[^jevons-1874]。恩斯特·施罗德则认为：莱布尼茨的逻辑演算理想，已由乔治·布尔臻于完善（Schröder 1877, III）[^schröder-1877]。恩斯特·施罗德与戈特洛布·弗雷格之间有一场特殊论战，日后现代逻辑两种形态（逻辑代数与弗雷格式数学逻辑）之分野即植根于此。论战正围绕莱布尼茨遗产在各自逻辑变体中体现到何种程度而展开。弗雷格在《概念文字》中曾写道：普遍文字的观念，即 *calculus philosophicus*（哲学演算）或 *ratiocinator*（推理演算），对莱布尼茨一人而言过于宏大，难以实现。弗雷格自己的《概念文字》提供了迈向这一目标的第一步，这一目标可见于算术与化学的公式语言（Frege 1879, VI）[^frege-1879]。在评弗雷格《概念文字》时，施罗德（Schröder 1880, 82）[^schröder-1880]提出异议：“概念文字”这一标题许诺过多。照施罗德之见，弗雷格的体系与其说是“普遍文字”，不如说是 **推理演算**（*calculus ratiocinator*）；它的发展本会意义重大，倘若它不曾已被他人（尤其是布尔）达成。弗雷格答复（Frege 1883, 1）[^frege-1883]：他并不打算像布尔那样以公式呈现一种抽象逻辑，而是要以书面符号表达内容，比词语所能做到的更精确、更清晰。因此《概念文字》不只是一个 **推理演算** ，而是莱布尼茨意义上的 **特征语言**（*lingua characteristica*），尽管他也承认，推论计算（*schlussfolgernde Rechnung*）是《概念文字》的必要成分。
 
 ## 2 莱布尼茨著作早期版本中的逻辑
 
@@ -82,7 +82,7 @@
 
 *A* = *AA*
 
-这些与莱布尼茨逻辑的联系是什么？莱布尼茨的著作中有没有布尔演算的预见？寻找预见者之一是罗伯特·莱斯利·埃利斯（1817–1859），他在《弗朗西斯·培根全集》（1858–1874；第 1 卷：1858）中编辑培根的《新工具》（*Novum Organon*）。编辑期间，他发现了布尔律的一个平行（第 281 页脚注 1）：“布尔先生的《思维规律》包含这些观念的第一个发展，其萌芽见于培根与莱布尼茨；对后者而言，逻辑中的基本原理 *a*² = *a* 已是已知。”他给出的出处是埃尔德曼的版本（Erdmann 1840, p. 130）。布尔的第一位传记作者罗伯特·哈利（1828–1910）在一篇题为“布尔《逻辑的数学分析》评注”（1867）的文章中讨论了这一信息。他没有在埃利斯指示之处找到恰当的引文，但找到了其他相关文本。关于埃利斯评论的意义，他写道：“直到《思维规律》出版十二个多月之后，当 R. 莱斯利·埃利斯向他指出时，布尔才意识到莱布尼茨的这些预见”（第 5 页）。
+这些与莱布尼茨逻辑的联系是什么？莱布尼茨的著作中有没有布尔演算的预见？寻找预见者之一是罗伯特·莱斯利·埃利斯（1817–1859），他在《弗朗西斯·培根全集》（1858–1874；第 1 卷：1858）中编辑培根的《新工具》（*Novum Organon*）。编辑期间，他发现了布尔律的一个平行（第 281 页脚注 1）：“布尔先生的《思维规律》包含这些观念的第一个发展，其萌芽见于培根与莱布尼茨；对后者而言，逻辑中的基本原理 *a*² = *a* 已是已知。”他给出的出处是埃尔德曼的版本（Leibniz 1839/40, p. 130）[^leibniz-1839]。布尔的第一位传记作者罗伯特·哈利（1828–1910）在一篇题为“布尔《逻辑的数学分析》评注”（1867）的文章中讨论了这一信息。他没有在埃利斯指示之处找到恰当的引文，但找到了其他相关文本。关于埃利斯评论的意义，他写道：“直到《思维规律》出版十二个多月之后，当 R. 莱斯利·埃利斯向他指出时，布尔才意识到莱布尼茨的这些预见”（第 5 页）。
 
 哈利的研究，被曼彻斯特的经济学家兼哲学家威廉·斯坦利·杰文斯（1825–1882）接续。杰文斯在《科学原理》（1874）中阐述其科学哲学，以对抗约翰·斯图亚特·穆勒占主导地位的归纳逻辑。他替代归纳逻辑的方案，是“替换原理”。他收入一节“替换原理的预见”，后者在后来的版本中被扩充，加入对莱布尼茨预见的冗长讨论。在那里他向罗伯特·亚当森致谢，感谢他提供替换原理可追溯至莱布尼茨的信息。杰文斯问：对莱布尼茨预见的长期忽视，原因何在？在曼彻斯特欧文斯学院图书馆，只有迪唐版可用。他对忽视埃尔德曼版表示遗憾，但指出其他“最有学问的逻辑学家”亦曾如此。
 
@@ -92,7 +92,7 @@
 
 毫无疑问，十九世纪下半叶兴起的新逻辑，是在一种莱布尼茨精神中创造的。莱布尼茨逻辑与形而上学方案的要点，及其关于逻辑演算的观念，至少自十九世纪四十年代起已可得。埃尔德曼的哲学著作版本与特伦德伦堡对莱布尼茨符号学的呈现，是十九世纪末数学逻辑学家进一步接受莱布尼茨观念的最重要步骤。这些逻辑学家一旦意识到莱布尼茨的观念，便认出其亲缘性并接受其优先性。但逻辑系统基本上已然确立。因此，在十九世纪下半叶现代逻辑的兴起中，莱布尼茨并无初始影响。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -125,20 +125,20 @@
 [^jevons-1874]: Jevons, W. S., 1874, *The Principles of Science. A Treatise on Logic and Scientific Method*, 2 vols., London: Macmillan and Co. [New York 1875]; 2nd ed. London/New York: Macmillan, 1877; 3rd ed. 1879; “stereotyped edition” 1883.
 [^kneale-1962]: Kneale, W. and M. Kneale, 1962, *The Development of Logic*, Oxford: Clarendon Press.
 [^květ-1857]: Květ, F. B., 1857, *Leibnitz’ens Logik. Nach den Quellen dargestellt*, F. Prag: Tempsky.
-[^krömer-2012]: Krömer, R. and Y. Chin-Drian (eds.), 2012, *New Essays on Leibniz Reception. In Science and Philosophy of Science 1800–2000* (*Publicatons of the Heinri Poincaré Archives*), Basel: Birkhäuser/Springer.
+[^krömer-2012]: Krömer, R. and Y. Chin-Drian (eds.), 2012, *New Essays on Leibniz Reception. In Science and Philosophy of Science 1800–2000* (*Publications of the Henri Poincaré Archives*), Basel: Birkhäuser/Springer.
 [^laita-1976]: Laita, L. M., 1976, *A Study of the Genesis of Boolean Logic*, Ph.D. Notre Dame.
 [^leibniz-1765]: Leibniz, G. W., 1765, *Œuvres philosophiques latines et françaises de feu Mr de Leibnitz, tirées des ses Manuscrits qui se conservant dans la Bibliothèque royale à Hanovre et publiées par M. Rud. Eric Raspe*, Amsterdam/Leipzig: Jean Schreuder.
 [^leibniz-1768]: –––, 1768, *Opera omnia nunc primum collecta in Classes distributa praefationibus & indicibus exornata*, studio Ludovici Dutens, 6 vols., Geneva: Fratres de Tournes.
 [^leibniz-1838]: –––, 1838/40, *Deutsche Schriften*, ed. by G.E. Guhrauer, Berlin: Veit und Comp., reprinted Hildesheim: Olms 1966.
 [^leibniz-1839]: –––, 1839/40, *God.* *Guil. Leibnitii opera philosophica quae extant Latina Gallica Germanica omnia*, 2 vols., ed. by J. E. Erdmann, Berlin: Eichler.
 [^leibniz-1843]: –––, 1843–1846, *Annales imperii occidentis Brunsvicenses*, ed. by G.H. Pertz, Hahn: Hannover 1843–1846.
-[^leibniz-1849]: –––, 1849–1963, *Mathematische Schriften* (*Werke aus den Handschriften der Königlichen Bibliothek zu Hannover*), C. I. Gerhardt (ed.), 7 volumes, Berlin: Asher et Comp.
+[^leibniz-1849]: –––, 1849–1863, *Mathematische Schriften* (*Werke aus den Handschriften der Königlichen Bibliothek zu Hannover*), C. I. Gerhardt (ed.), 7 volumes, Berlin: Asher et Comp.
 [^leibniz-1903]: –––, 1903, *Opuscules et fragments inédits de Leibniz.* *Extraits des manuscrits de la Bibliothèque royale de Hanovre*, ed. by Louis Couturat, Paris: Félix Alcan.
 [^leibniz-1962]: –––, [NE] 1962, *Sämtliche Schriften und Briefe*, ser. 6: *Philosophische Schriften*, vol. 6: *Nouveaux Essais*, A. Robinet/H. Schepers (eds.), Berlin: Akademie Verlag.
 [^leibniz-1999]: –––, 1999, *Philosophische Schriften*, ser. 6: *Philosophische Schriften* vol. 4: 1677–Juni 1690, Leibniz-Forschungsstelle der Universität Münster (ed.), 4 parts, Berlin 1999.
 [^lenzen-2004a]: Lenzen, W., 2004a, “Leibniz und die (Entwicklung der) moderne(n) Logik,” in W. Lenzen, *Calculus Universalis. Studien zur Logik von G.W. Leibniz*, Paderborn: Mentis, pp. 15–22.
 [^lenzen-2004b]: Lenzen, W., 2004b, “Leibniz’s Logic,” in *Handbook of the History of Logic* (Volume 3: *The Rise of Modern Logic: From Leibniz to Frege*), D. M. Gabbay and J. Woods (eds.), Amsterdam: Elsevier-North-Holland, pp. 1–83.
-[^locke-1690]: Locke, J., 1690, *An Essay Concerning Human Understanding*, London: Thomas Ballet.
+[^locke-1690]: Locke, J., 1690, *An Essay Concerning Human Understanding*, London: Thomas Bassett.
 [^mugnai-2011]: Mugnai, M., 2011, “Bolzano e Leibniz”, *Discipline Filosofiche* 21: 93–108.
 [^peckhaus-1997]: Peckhaus, V., 1997, *Logik, Mathesis universalis und allgemeine Wissenschaft. Leibniz und die Wiederentdeckung der formalen Logik im 19. Jahrhundert*, Berlin: Akademie-Verlag (*Logica Nova*).
 [^peckhaus-1999]: –––, 1999, “19th Century Logic Between Philosophy and Mathematics,” *Bulletin of Symbolic Logic* 5: pp. 433–450.

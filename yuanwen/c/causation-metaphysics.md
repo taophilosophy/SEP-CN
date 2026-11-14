@@ -72,7 +72,7 @@ As Dretske notes, while 5 sounds false, 6 sounds true. Dretske uses this to argu
 
 #### 1.1.4 Fineness of Grain and Causal Differences
 
-We’ve now twice encountered arguments of the following form: “*c* caused *e*” is true, but “*c** caused *e*” is false, so it must be that “*c*” and “*c**” denote two different causal relata. In short: where there are differences in causation, there must be differences in the causal relata. Call this the *causal differences* argument. This argument was used to show that token causes cannot just be regions of spacetime—for then, the ball’s rotation and its heating would be one and the same event, but the ball’s rotation differs causally from its heating. It was again used to show that “Susan’s stealing the bike” must be a different token cause than “Susan’s stealing the bike”. This second example shows us that the style of argument can lead to a *very* fine-grained view of the causal relata. It is, after all, necessary that Susan steals the bike if and only if Susan steals the bike, so it looks like this style of argument leads us to draw hyperintensional distinctions between causal relata. Some may see hyperintensional distinctions between causal relata as a *reductio*, and conclude that something must be wrong with the causal differences argument.
+We’ve now twice encountered arguments of the following form: “*c* caused *e*” is true, but “*c\** caused *e*” is false, so it must be that “*c*” and “*c*\*” denote two different causal relata. In short: where there are differences in causation, there must be differences in the causal relata. Call this the *causal differences* argument. This argument was used to show that token causes cannot just be regions of spacetime—for then, the ball’s rotation and its heating would be one and the same event, but the ball’s rotation differs causally from its heating. It was again used to show that “Susan’s stealing the bike” must be a different token cause than “Susan’s stealing the bike”. This second example shows us that the style of argument can lead to a *very* fine-grained view of the causal relata. It is, after all, necessary that Susan steals the bike if and only if Susan steals the bike, so it looks like this style of argument leads us to draw hyperintensional distinctions between causal relata. Some may see hyperintensional distinctions between causal relata as a *reductio*, and conclude that something must be wrong with the causal differences argument.
 
 We could resist the argument in at least three different ways. Firstly, we could contend that causal claims like 5 and 6 are not in fact *causal* claims. Strevens (2008) proposes that apparently causal claims like 5 and 6 are in fact *causal-explanatory* claims. As Strevens puts it:
 
@@ -82,7 +82,7 @@ We could resist the argument in at least three different ways. Firstly, we could
 
 Secondly, we could claim that “…causes…” is an *intensional* context, which does not allow the substitution of co-referring terms without a change of truth-value (see Anscombe 1975; Achinstein 1975, 1983; and McDermott 1995)[^achinstein-1975][^achinstein-1983][^anscombe-1975][^mcdermott-1995]. By way of explanation: names of events are uncontroversially not intersubstitutable within quotation marks. From “‘Caesar’s crossing the Rubicon’ has four words” and “Caesar’s crossing the Rubicon = The start of the Roman Civil War”, we cannot conclude “‘The start of the Roman Civil War’ has four words”. If we think that flanking the verb “to cause” is like appearing within quotation marks in this way, then we can likewise reject the inference from “Turning on the hotplate caused the ball’s heating” and “The ball’s heating = the ball’s rotation” to “Turning on the hotplate caused the ball’s rotation”.
 
-Thirdly, we could appeal to a kind of contrastivism on which the causal relation is four-place, rather than two-place (Schaffer 2005: §4)[^schaffer-2005]. On this view, causal claims have the logical form “*c*, rather than *c**, caused *e*, rather than *e**” (where *c** and *e** are contrast causes and effects, or perhaps sets thereof). Then, we could suggest that claims like 5 and 6 suggest different contrasts, which make a causal difference without requiring any difference in the first or third argument places. In short: there are causal differences without differences in causes or effects; some causal differences are due to different *contrasts*. This kind of view would allow us to retain even the very coarse theory of events from Quine (1985), according to which an event is just a region of spacetime. The entry discusses contrastivism further in §1.2.2 below.
+Thirdly, we could appeal to a kind of contrastivism on which the causal relation is four-place, rather than two-place (Schaffer 2005: §4)[^schaffer-2005]. On this view, causal claims have the logical form “*c*, rather than *c\**, caused *e*, rather than *e\**” (where *c\** and *e\** are contrast causes and effects, or perhaps sets thereof). Then, we could suggest that claims like 5 and 6 suggest different contrasts, which make a causal difference without requiring any difference in the first or third argument places. In short: there are causal differences without differences in causes or effects; some causal differences are due to different *contrasts*. This kind of view would allow us to retain even the very coarse theory of events from Quine (1985), according to which an event is just a region of spacetime. The entry discusses contrastivism further in §1.2.2 below.
 
 ### 1.2 Relation
 
@@ -99,21 +99,17 @@ In cases of preemption, the nearly universally shared judgment is that the “pr
 
 The first of these vignettes is a case of what’s come to be known as *early* preemption, whereas the second is a case of what’s come to be known as *late* preemption. Cases of early preemption have roughly the same structure as the following “neuron diagram”:
 
-*Figure 1:*
-
 ![neuron diagram: link to extended description below, also see following paragraph](../assets/causation-metaphysics/figure1.svg)
 
-Figure 1: Early preemption neuron diagram 1. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Early preemption neuron diagram 1. [An extended description of figure 1 is in the supplement.]
 
 Here’s how to read this diagram: every circle represents a *neuron*. Associated with each neuron is a certain time—here, the time written beneath that neuron. A neuron can either fire or not fire at its designated time. If the circle is colored grey, this indicates that the neuron fired. If it is colored white, this indicates that the neuron did not fire. So, in the diagram above, *b*, *c*, *d*, and *e* fired, and *a* did not fire. Arrows represent *stimulatory* connections between neurons. If the neuron at the base of an arrow fires, then the neuron at its head will fire so long as that neuron is not inhibited. The circle-headed lines represent *inhibitory* connections between neurons. If the neuron at the base of one of these connections fires, then the neuron at its head will *not* fire. So, in the diagram above, *a* doesn’t fire, even though *b* did, because *c* inhibited *a*.
 
 Here, “*c*” stands both for the neuron *c* and for the event of the neuron *c* firing (or the fact that *c* fired, or whatever), and likewise for the other letters. Then, this neuron diagram has the structure of preemption: *b* is a backup, would-be cause of *e*’s firing. Had *c* not fired, the neuron system would have looked like this:
 
-*Figure 2:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure2.svg)
 
-Figure 2: Early preemption neuron diagram 2. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Early preemption neuron diagram 2. [An extended description of figure 2 is in the supplement.]
 
 Here, *b* is a cause of *e*. So, in the original neuron system, *b* is a backup, would-be cause of *e*; had *c* not fired, *b* would have been a cause of *e*, but *c* preempts *b* and causes *e* itself.
 
@@ -140,11 +136,9 @@ Some deny that cases of prevention are genuinely causal (see Aronson 1971; Dowe 
 
 Cases of double prevention have roughly the structure of this neuron diagram:
 
-*Figure 3:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure3.svg)
 
-Figure 3: Double prevention neuron diagram. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Double prevention neuron diagram. [An extended description of figure 3 is in the supplement.]
 
 As Schaffer (2000c, 2012b) argues, many paradigm cases of causation turn out, on closer inspection, to be instances of double prevention. Pam uses a catapult to hurl a rock through the window. It seems clear that Pam’s actions caused the window to shatter. But suppose the catapult works like this: a catch prevents the catapult from launching, and Pam’s releasing the catch prevents it from preventing the launch. Thus, the relationship between Pam’s releasing the catch and the shattering of the window is one of double prevention. Here, it is less comfortable to deny that Pam caused the window to shatter, though not all agree. Aronson denies that there is any causation in a similar case:
 
@@ -161,19 +155,15 @@ By analogy with ordinary preemption, we can call the first case an instance of *
 
 The first case has a structure similar to this neuron system,
 
-*Figure 4:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure4.svg)
 
-Figure 4: Early preemptive prevention neuron diagram. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Early preemptive prevention neuron diagram. [An extended description of figure 4 is in the supplement.]
 
 Whereas the second case has a structure similar to this neuron system,
 
-*Figure 5:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure5.svg)
 
-Figure 5: Late preemptive prevention neuron diagram. [An extended description of figure 5 is in the supplement.]
+*Figure 5:* Late preemptive prevention neuron diagram. [An extended description of figure 5 is in the supplement.]
 
 There seems to be more of an inclination to attribute causation in cases of early preemptive prevention than in cases of late preemptive prevention. As McDermott (1995) puts it: in case (2), many are initially inclined to deny that Bond prevented the compound’s destruction; but, when they are asked “Of Bond and the missile defense system, which prevented the compound’s destruction?”, it feels very natural to answer with “Bond”. (As Collins 2000 notes, things begin to feel different if we suppose that the anti-missile defense system is less than perfectly reliable.)[^collins-2000]
 
@@ -183,37 +173,29 @@ Cases like these are discussed by Hall (2000) and Sartorio (2005, 2013), among o
 
 Switching cases have roughly the same structure as the following neuron diagram:
 
-*Figure 6:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure6.svg)
 
-Figure 6: Switch neuron diagram 1. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Switch neuron diagram 1. [An extended description of figure 6 is in the supplement.]
 
 Here, the neuron *s* (the switch) is special. It can either be set to the left or to the right, indicated by the direction the arrow is pointing. Likewise, the connection between *f* and *s* is special. If *f* fires, then *s* will be set to the right. If *f* does not fire, then *s* will be set to the left. On the other hand, the connection between *p* and *s* is normal. If *p* fires, then *s* will fire. If *s* fires while set to the left, then *l* will fire. If *s* fires while set to the right, then *r* will fire. If either *l* or *r* fires, then *e* will fire.
 
 If *f* hadn’t fired, *s* would have fired while set to the left, so *l* would have fired, and *e* would have fired.
 
-*Figure 7:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure7.svg)
 
-Figure 7: Switch neuron diagram 2. [An extended description of figure 7 is in the supplement.]
+*Figure 7:* Switch neuron diagram 2. [An extended description of figure 7 is in the supplement.]
 
 On the other hand, if *p* hadn’t fired, *s* would still have been set to the right, but it would not have fired, so neither *r* nor *e* would have fired:
 
-*Figure 8:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure8.svg)
 
-Figure 8: Switch neuron diagram 3. [An extended description of figure 8 is in the supplement.]
+*Figure 8:* Switch neuron diagram 3. [An extended description of figure 8 is in the supplement.]
 
 Reflection on switches can lead to the conclusion that token causation cannot be merely a matter of the intrinsic nature of the process leading from cause to effect. Consider the following variant: while the right bulb is functional, the left bulb is not. If the power had been turned on while the switch was set to the left, the left bulb would not have turned on, and the room would have remained dark. Given *this* setup, Filipa’s flipping the switch to the right *does* appear to be a cause of the room’s being illuminated. After all, with this setup, had Filipa not flipped the switch, the room would have remained dark. But, if we just look at the intrinsic features of the process leading from Filipa’s flipping the switch to the room’s illumination, there will be no difference. Or consider the following system of neurons:
 
-*Figure 9:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure9.svg)
 
-Figure 9: Switch neuron diagram 4. [An extended description of figure 9 is in the supplement.]
+*Figure 9:* Switch neuron diagram 4. [An extended description of figure 9 is in the supplement.]
 
 Here, *f*’s firing appears to be a cause of *e*’s firing (along with *p*). If *f* hadn’t fired, then the switch *s* would have been set to the left, so *e* would not have fired. So *f*’s firing was needed for *e* to fire. However, there doesn’t seem to be any difference between the process leading from *f*’s firing to *e*’s firing in *this* system of neurons and the process leading from *f*’s firing to *e*’s firing in the *original* system of neurons.
 
@@ -223,11 +205,11 @@ Switches also pose a problem for the view that causation is transitive—that is
 
 #### 1.2.2 Arity
 
-The standard view is that causation is a binary relation between two relata: cause and effect. However, some suggest that causation may be a ternary or a quaternary relation. Inspired by van Fraassen (1980)’s work on contrastive explanation, we could take causation to be a ternary, or 3-place, relation between a cause, an effect, and a contrast for the effect. On this view, the logical form of the causal relation is: *c* is a cause of *e*, rather than *e**. For instance, it seems correct to say that Adam’s being hungry caused him to eat the apple, rather than toss it aside. But it seems wrong to say that Adam’s being hungry caused him to eat the apple, rather than the pear. So changing the contrast for the effect seems to makes a difference to causation. Hitchcock (1993, 1995a, 1996) gives a contrastive probabilistic theory of causation, according to which causation is a ternary relation between a cause, a contrast for the cause, and an effect. On this view, the logical form of the causal relation is: *c*, rather than *c**, is a cause of *e*. For instance, it can seem that Paul’s smoking a pack a day, rather than not at all, is a cause of his lung cancer. But it seems wrong that Paul’s smoking a pack a day, rather than two packs a day, is a cause of his lung cancer. Schaffer (2005) combines these two views, arguing that causation is a quaternary relation between a cause, a contrast for the cause, an effect, and a contrast for the effect. On this view, the logical form of the causal relation is: *c*, rather than *c**, is a cause of *e*, rather than *e**.
+The standard view is that causation is a binary relation between two relata: cause and effect. However, some suggest that causation may be a ternary or a quaternary relation. Inspired by van Fraassen (1980)’s work on contrastive explanation, we could take causation to be a ternary, or 3-place, relation between a cause, an effect, and a contrast for the effect. On this view, the logical form of the causal relation is: *c* is a cause of *e*, rather than *e\**. For instance, it seems correct to say that Adam’s being hungry caused him to eat the apple, rather than toss it aside. But it seems wrong to say that Adam’s being hungry caused him to eat the apple, rather than the pear. So changing the contrast for the effect seems to makes a difference to causation. Hitchcock (1993, 1995a, 1996) gives a contrastive probabilistic theory of causation, according to which causation is a ternary relation between a cause, a contrast for the cause, and an effect. On this view, the logical form of the causal relation is: *c*, rather than *c\**, is a cause of *e*. For instance, it can seem that Paul’s smoking a pack a day, rather than not at all, is a cause of his lung cancer. But it seems wrong that Paul’s smoking a pack a day, rather than two packs a day, is a cause of his lung cancer. Schaffer (2005) combines these two views, arguing that causation is a quaternary relation between a cause, a contrast for the cause, an effect, and a contrast for the effect. On this view, the logical form of the causal relation is: *c*, rather than *c\**, is a cause of *e*, rather than *e\**.
 
 If we think that the causal relation is ternary or quaternary, then some of the arguments we considered earlier can look weaker. For instance, consider what we called the *causal differences* argument from §1.1.4. We argued that we must distinguish the cause “Susan’s stealing *the bike*” from “Susan’s *stealing* the bike”, since the latter, but not the former, caused her to be arrested. If we are contrastivists about causation, then we could insist that the differences in focal stress serve to make salient different contrasts for one and the same event: Susan’s stealing of the bike. When we emphasize “the bike”, we suggests a contrast event in which Susan steals something else. And Susan’s stealing the bike, rather than the canoe, didn’t cause her to be arrested. On the other hand, when we emphasize “stealing”, we suggest a contrast event in which Susan does something else to the bike—purchasing it, let’s say. And Susan’s stealing the bike, rather than purchasing it, *is* a cause of her arrest. Schaffer (2005) even suggests that, if causation is 4-place, then we could take the incredibly coarse-grained Quinean view of events.
 
-Schaffer (2005) additionally suggests that, if we say that causation is quaternary, we can defend a version of transitivity. Of course, transitivity is a property of a binary relation, but Schaffer proposes that the quaternary relation satisfies the following constraint: if *c*, rather than *c**, is a cause of *d*, rather than *d**, and *d*, rather than *d** is a cause of *e*, rather than *e**, then *c*, rather than *c** is a cause of *e*, rather than *e**. Think of it like this: corresponding to the 4-place causal relation is a two-place relation between event-contrast *pairs*; and Schaffer maintains that this two-place relation between pairs of events and their contrasts is a transitive relation. It’s not immediately obvious how this helps with switches like the one we saw in §1.2.1 above. For it seems that Filipa’s flipping the switch to the right, rather than not flipping it, caused the right bulb to be on, rather than off. And it seems that the right bulb being on, rather than off, caused the room to be illuminated, rather than dark. But it doesn’t appear that Filipa’s flipping the switch to the right, rather than not flipping it, caused the room to be illuminated, rather than dark. The trick is that Schaffer has a view of events on which they are *world-bound*. So, in order to make the first causal claim true, the contrast “the right bulb’s being off” must be an event which only occurs in the world in which Filipa does not flip the switch to the right, and the left bulb is on. Therefore, the second causal claim will turn out to be false; the right bulb’s being on, rather than off *in a world in which the left bulb is on*, is not a cause of the room’s being illuminated, rather than dark.
+Schaffer (2005) additionally suggests that, if we say that causation is quaternary, we can defend a version of transitivity. Of course, transitivity is a property of a binary relation, but Schaffer proposes that the quaternary relation satisfies the following constraint: if *c*, rather than *c\**, is a cause of *d*, rather than *d\**, and *d*, rather than *d\** is a cause of *e*, rather than *e\**, then *c*, rather than *c\** is a cause of *e*, rather than *e\**. Think of it like this: corresponding to the 4-place causal relation is a two-place relation between event-contrast *pairs*; and Schaffer maintains that this two-place relation between pairs of events and their contrasts is a transitive relation. It’s not immediately obvious how this helps with switches like the one we saw in §1.2.1 above. For it seems that Filipa’s flipping the switch to the right, rather than not flipping it, caused the right bulb to be on, rather than off. And it seems that the right bulb being on, rather than off, caused the room to be illuminated, rather than dark. But it doesn’t appear that Filipa’s flipping the switch to the right, rather than not flipping it, caused the room to be illuminated, rather than dark. The trick is that Schaffer has a view of events on which they are *world-bound*. So, in order to make the first causal claim true, the contrast “the right bulb’s being off” must be an event which only occurs in the world in which Filipa does not flip the switch to the right, and the left bulb is on. Therefore, the second causal claim will turn out to be false; the right bulb’s being on, rather than off *in a world in which the left bulb is on*, is not a cause of the room’s being illuminated, rather than dark.
 
 #### 1.2.3 Normality
 
@@ -237,8 +219,6 @@ Hart and Honoré (1959 [1985]) suggest that conditions which are *normal*, or *d
 
 Considering just these kinds of cases, it’s not unnatural to see the phenomenon as just more “selection effects”. Perhaps both Byron and Chris caused the plant to die, but for pragmatic reasons we find it more natural to cite the person who broke a promise as a cause. Hall (2007) presents a more challenging argument for the view that normality and defaults should figure in our theory of causation. He asks us to consider the following pair of neuron systems:
 
-*Figure 10:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure10a.svg)
 
 (a)
@@ -247,13 +227,13 @@ Considering just these kinds of cases, it’s not unnatural to see the phenomeno
 
 (b)
 
-Figure 10: Pair of neuron diagrams. [An extended description of figure 10 is in the supplement.]
+*Figure 10:* Pair of neuron diagrams. [An extended description of figure 10 is in the supplement.]
 
 In figure 10(a), we have the case of *early preemption* from §1.2.1. Here, *c*’s firing is a cause of *e*’s firing. In figure 10(b), we have a case of what Hall calls a “short circuit”. When *c* fires, it both initiates a threat to *e*’s dormancy (by making *a* fire) and neutralizes that very threat (by making *d* fire). Here’s a vignette with a similar structure (see Hall 2004, and Hitchcock 2001a)[^hall-2004][^hitchcock-2001a]: a boulder becomes dislodged and careens down the hill towards Hiker. Seeing the boulder coming, Hiker jumps out of the way, narrowly averting death. In this case, the boulder’s fall both initiates a threat to Hiker’s life and neutralizes that very threat (by alerting them to its presence). Hall contends that the boulder’s becoming dislodged did not cause Hiker to survive; and, in the case of the short circuit, *c*’s firing did not cause *e* to not fire. Intuitively, *c* accomplished nothing *vis-a-vis* *e*. But Hall notes that these two neuron systems are isomorphic to each other. We can make the point with systems of structural equations (see the entry on causal models, and §3.2 below). Start with the case of early preemption, and use binary variables, *A*, *B*, *C*, *D*, and *E* for whether *a*, *b*, *c*, *d*, and *e* fire, respectively. These variables takes on the value 1 if their paired neuron fires, and they take on the value 0 if they do not. Then, we can represent the causal structure of early preemption with this system of equations:
 
 $$\begin{aligned} A & \coloneqq B \wedge \neg C \\ D & \coloneqq C\\ E & \coloneqq A \vee D \\ \end{aligned}$$
 
-Turning to the short circuit, notice that we can use *A**, *B**, and *E** as binary variables for whether the neurons *a*, *b*, and *e* *do not* fire. These variables take on the values 1 if their paired neuron *doesn’t* fire, and they take on the value 0 if it *does*. And, again, we can use *C* and *D* as variables for whether the neurons *c* and *d* fire; these non-asterisked variables take on the value 1 if their paired neuron *does* fire, and 0 if it *doesn’t*. With these conventions in place, we can then write down the following *isomorphic* system of equations for the neuron system of short circuit:
+Turning to the short circuit, notice that we can use *A\**, *B\**, and *E\** as binary variables for whether the neurons *a*, *b*, and *e* *do not* fire. These variables take on the values 1 if their paired neuron *doesn’t* fire, and they take on the value 0 if it *does*. And, again, we can use *C* and *D* as variables for whether the neurons *c* and *d* fire; these non-asterisked variables take on the value 1 if their paired neuron *does* fire, and 0 if it *doesn’t*. With these conventions in place, we can then write down the following *isomorphic* system of equations for the neuron system of short circuit:
 
 $$\begin{aligned} A^{*} & \coloneqq B^{*} \wedge \neg C \\ D & \coloneqq C \\ E^{*} & \coloneqq A^{*} \vee D \end{aligned}$$
 
@@ -281,11 +261,9 @@ For more on the relationship between token and type causation, particularly with
 
 Consider the following case, adopted from Hesslow (1976): suppose that birth control pills (*B*) prevent pregnancy (*P*). However, they can also have the unintended side-effect of thrombosis (*T*). So we might be inclined to accept the type causal claim “birth control pills cause thrombosis”. But wait: *another* potential cause of thrombosis is pregnancy. And birth control pills inhibit pregnancy. The general structure of the case is as shown below.
 
-*Figure 11:*
-
 ![diagram but not neuron: link to extended description below](../assets/causation-metaphysics/figure11.svg)
 
-Figure 11: Hesslow’s birth control case [An extended description of figure 11 is in the supplement.]
+*Figure 11:* Hesslow’s birth control case [An extended description of figure 11 is in the supplement.]
 
 Birth control pills *directly* promote thrombosis, but at the same time, they prevent pregnancy, which itself promotes thrombosis. By adjusting the probabilities, we can make it so that, overall, taking birth control makes no difference to the probability of thrombosis. Then, we might be inclined to accept the type causal claim “birth control pills have no effect on thrombosis”—after all, your chances of getting thrombosis are exactly the same, whether or not you take birth control. Hitchcock (2001b) argues that cases like this require us to distinguish two different kinds of effects which type causes can have: what he calls a *net effect*, on the one hand, and what he calls *component effect*, on the other. In Hesslow’s case, birth control pills have no *net* effect on thrombosis. This is the sense in which it’s true to say “birth control pills have no effect on thrombosis”. At the same time, birth control pills have a *component*—or *path-specific*—effect on thrombosis. Along the path *B* → *T*, birth control promotes thrombosis. This is the sense in which it’s true to say “birth control pills cause thrombosis”. For further discussion, see Woodward (2003: §2.3) and Weinberger (2019).
 

@@ -2,13 +2,13 @@
 
 *首次发表于 2002 年 11 月 18 日；2026 年 3 月 13 日实质修订。*
 
-纯粹法理论之构想，出自这位声名卓著的奥地利法学家兼哲学家汉斯·凯尔森（Hans Kelsen，1881–1973）（参见文献说明）。凯尔森作为法律理论家的漫长生涯，始于二十世纪初。依他之见，当时的各派传统法律哲学，或则无可救药地沾染政治意识形态与道德说教，或则力图把法律还原为自然科学或社会科学。在他看来，这两种还原论努力皆有严重缺陷。有鉴于此，凯尔森倡导一种“纯粹的”法理论，以避免任何形式的还原论。他所倡立的法理学“自命为一种‘纯粹的’法理论，因为它旨在认识法律自身”；这种纯粹性正是其“基本的方法论原则”（PT1, 7）。
+纯粹法理论之构想，出自这位声名卓著的奥地利法学家兼哲学家汉斯·凯尔森（Hans Kelsen，1881–1973）（参见文献说明）。凯尔森作为法律理论家的漫长生涯，始于二十世纪初。在他看来，当时的各派传统法律哲学，或者无可救药地沾染政治意识形态与道德说教，或者力图把法律还原为自然科学或社会科学。在他看来，这两种还原论努力皆有严重缺陷。有鉴于此，凯尔森倡导一种“纯粹的”法理论，以避免任何形式的还原论。他所倡立的法理学“自命为一种‘纯粹的’法理论，因为它旨在认识法律自身”；这种纯粹性正是其“基本的方法论原则”（PT1, 7）。
 
 ## 1 基本规范
 
 在凯尔森看来，法理论面临的主要挑战是：如何说明合法性与法律的规范性，而不把法理学或“法律科学”还原为别的领域。凯尔森坚持认为，法律基本上是一种解释图式；其实在性或客观性居于意义领域之中；我们给世界上某些行动与事件附加法律-规范的含义（PT1, 10）。试举一例：假设加利福尼亚州立法机关颁布了一部新法律。这是如何做到的？大致如此：一些人聚于议事大厅，辩论议题，最终就是否批准某份文件举手表决，清点答“是”者的人数，继而颁布一串字句，如此等等。当然，此处描述的行动与事件并非法律本身。说这段描述是关于一部新法律的颁布，就是以某种方式解释这些行动与事件。但由此而来的问题自然是：何以某些行为或事件具有这种法律含义，另一些却没有？
 
-凯尔森对此的回答简单得出奇：一个行为或事件之所以获得其法律-规范含义，是因为另一个法律规范把这种规范含义赋予了它。一个行为能够创制或修改法律，仅当它是依照另一个“更高”的法律规范、并以该规范授权的方式作出的。而这个“更高”的法律规范，反过来，又当且仅当它是依照再一个“更高”的规范、并以该规范授权的方式制定的，才具有法律效力。换言之：加州立法机关可以制定某些类型的法律，这是美国法律的规定。然而，什么使这成为法律？是加州宪法把这项权力授予州立法机关，使其得以在特定划定的内容与管辖权边界内制定法律。那么，又是什么使加州宪法具有法律效力？答案是：加州宪法的法律效力，来自美国宪法所授予的授权。什么使美国宪法具有法律效力？断乎不是美国宪法自称“国家最高法律”这一事实。任何文件都可以如此自命，唯有美国宪法这份特定文件，才实际是美国的最高法律。
+凯尔森对此的回答简单得出奇：一个行为或事件之所以获得其法律-规范含义，是因为另一个法律规范把这种规范含义赋予了它。一个行为能够创制或修改法律，仅当它是依照另一个“更高”的法律规范、并以该规范授权的方式作出的。而这个“更高”的法律规范，反过来，又当且仅当它是依照再一个“更高”的规范、并以该规范授权的方式制定的，才具有法律效力。换言之：加州立法机关可以制定某些类型的法律，这是美国法律的规定。然而，什么使这成为法律？是加州宪法把这项权力授予州立法机关，使其得以在特定划定的内容与管辖权边界内制定法律。那么，又是什么使加州宪法具有法律效力？答案是：加州宪法的法律效力，来自美国宪法所授予的授权。什么使美国宪法具有法律效力？绝不是美国宪法自称“国家最高法律”这一事实。任何文件都可以如此自命，唯有美国宪法这份特定文件，才实际是美国的最高法律。
 
 问题在于，授权之链至此走到尽头：并没有更高的法律规范来授权制定（最初的）美国宪法。凯尔森的名论是：在这一点上，人们必须预设宪法的法律效力。在任何一个法律体系中，我们总会在某个阶段碰到一个未经其他法律规范授权的授权规范，于是不得不预设它在法律上有效。这一预设的规范内容，就是凯尔森所谓的基本规范。基本规范，即如下预设的规范内容：相关法律体系（最初、历史上首部）宪法在法律上有效（GT, 110–111）。
 
@@ -49,7 +49,7 @@
 
 凯尔森在此是否恰好违背了他自己恪守的休谟诫命（不得从“实然”推出“应然”）？人们得到清晰的印象：凯尔森意识到其立场中有一处严重的困难。在《纯粹法理论》的两个版本中，凯尔森都在玩味这样的想法：国内法律体系之基本规范的变更，或许在法律上源自国际公法的基本规范。国际法的一条基本原理是：国家主权取决于对领土/人口的实际控制（PT1, 61–62；不过在 PT2, 214–215 中，此想法表述得更为犹疑；值得注意的是，有评论者认为，凯尔森对“普遍法律秩序”观念的认真程度远超此处所示——见 Green 2016）[^green-2016]。但这样一来，凯尔森便被引向一个相当尴尬的结论：普天之下只有一个基本规范，即国际公法的基本规范。尽管如此，主要的担忧仍在别处。它源于这样一个事实：对于给定的规范领域，很难（甚至不可能）既持彻底的相对主义，又持反还原论。倘若你认为某类规范的效力完全相对于某个视角——换言之，涉及的只是人们如何实际行事、持何种信念/预设与态度——那么，就很难撇开构成该视角的事实来解释这种效力。后者即关于人们行动、信念、态度等等的事实。这基本就是前文所说“凯尔森别无选择，只能承认基本规范之效力以其实效为条件”的意思。凯尔森概念中固有的规范相对主义，迫使他将基本规范的内容奠基于构成该内容的社会事实，即相关人群实际持有的行动、信念与态度诸事实。于是，“还原论可以避免”这一点就大可怀疑了。事实上，凯尔森在此真正提供给我们的，是一份邀请：请以某组社会事实（即构成任何给定基本规范之内容的事实）来对法律效力概念作还原解释。（这恰恰是 H.L.A. 哈特（H.L.A. Hart）后来在把承认规则作为社会规则来处理时给出的那类还原[见 Hart 1961, 第 105 页，哈特于该处论及他的承认规则观念与凯尔森基本规范观念之别]。）[^hart-1961]
 
-凯尔森在这里的麻烦，并不在于他对每一个规范体系（道德、宗教等等）都持相对主义；与还原问题相关的，也不是其相对主义的范围。麻烦源于：凯尔森关于法律的看法是对的。法律效力本质上就相对于那些构成每个法律秩序之基本规范内容的社会事实。请注意，法律效力总是相对于时间与地点：加州立法机关制定的法律，只在加州范围内适用，且只在一定时期内适用，自颁布起，至其被修改或废止时止。个中缘由不难看清：法律效力由特定社会中实际被遵循的基本规范的内容决定。例如，英国法不同于美国法，因为人们（主要是法官与其他官员）在其各自法域中，实际遵循着关于什么算作法律的不同规则；用凯尔森的术语说，即不同的基本规范。一旦凯尔森承认（他确实承认）基本规范的内容完全由实践决定，他所给出的法律效力解释如何还能是非还原的，就变得殊难理解了。
+凯尔森在这里的麻烦，并不在于他对每一个规范体系（道德、宗教等等）都持相对主义；与还原问题相关的，也不是其相对主义的范围。麻烦源于：凯尔森关于法律的看法是对的。法律效力本质上就相对于那些构成每个法律秩序之基本规范内容的社会事实。请注意，法律效力总是相对于时间与地点：加州立法机关制定的法律，只在加州范围内适用，且只在一定时期内适用，自颁布起，至其被修改或废止时止。个中缘由不难看清：法律效力由特定社会中实际被遵循的基本规范的内容决定。例如，英国法不同于美国法，因为人们（主要是法官与其他官员）在其各自法域中，实际遵循着关于什么算作法律的不同规则；用凯尔森的术语说，即不同的基本规范。一旦凯尔森承认（他确实承认）基本规范的内容完全由实践决定，他所给出的法律效力解释如何还能是非还原的，就很难理解了。
 
 ## 3 法律的规范性
 
@@ -61,24 +61,24 @@
 
 这种观点在道德方面引起的困难，我们可以暂且搁置。显然，许多哲学家会拒绝凯尔森的下述看法：道德上的行动理由只适用于那些选择赞同道德基本规范（无论它是什么）的人。即便凯尔森把道德命令的这种条件性质看错了，他也可能在法律问题上看对了。然而，仍然可疑的是：鉴于他的法律效力说明最终被证明是还原的，凯尔森是否当真给出了法律规范性的非还原解释。麻烦不只在“相对于视角”这一点；更在于凯尔森未能把相关视角的选择奠基于理性或任何种类的理由。由于刻意回避解释“是什么使一个主体选择赞同法律视角或任何给定的基本规范”，凯尔森把关于法律规范性的最紧迫问题搁置未答。他没有说明预设法律视角何以合理、把法律的要求视为有约束力者又何以合理，反倒邀请我们别再问了。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Sources
+### 原始文献
 
 | [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*（《纯粹法理论》）, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
 | --- | --- |
 | [PT2] | 1960/1967. *Pure Theory of Law*（《纯粹法学说（第二版）》）, M. Knight (trans.), Berkeley: University of California Press. |
 | [GT] | 1945/1961. *General Theory of Law and State*（《法与国家的一般理论》）, A. Wedberg (trans.), New York: Russell & Russell. |
 
-### Secondary Sources
+### 二手文献
 
-### Contemporary Discussions and Further Reading
+### 当代讨论与延伸阅读
 
-[^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
+[^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelsen published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
 [^other-nd]: Other relevant publications in English include:
 [^other-1957]: 1957, *What is Justice?*, Berkeley: University of California Press.
 [^other-1941]: 1941, ‘The Pure Theory of Law and Analytical Jurisprudence’, *Harvard Law Review*, 55: 44–70.
@@ -102,11 +102,11 @@
 [^gragl-2017]: Gragl, P., 2017, “In Defence of Kelsenian Monism: Countering Hart and Raz”, *Jurisprudence*, 8(2): 287–318.
 [^green-2021]: Green, S. M., 2021, “Hans Kelsen’s Non-Reductive Positivism”, in T. Spaak & P. Mindus (eds.), *The Cambridge Companion to Legal Positivism*, Cambridge: Cambridge University Press, pp. 272–300.
 [^guastini-2016]: Guastini, R., 2016, “Kelsen on Validity (Once More)”, *Ratio Juris*, 29: 402–409.
-[^heidemann-2022]: Heidemann C., 2022, *Hans Kelsen’s Normativism* (Cambridge Elements in Philosophy of Law), Cambridge: Cambridge University Press .
+[^heidemann-2022]: Heidemann C., 2022, *Hans Kelsen’s Normativism* (Cambridge Elements in Philosophy of Law), Cambridge: Cambridge University Press.
 [^langford-2017]: Langford, P., Bryan, I., & McGarry, J. (eds.), 2017, *Kelsenian Legal Science and the Nature of Law*, Cham: Springer.
 [^orakhelashvili-2019]: Orakhelashvili, A., 2019, *Domesticating Kelsen: Towards the Pure Theory of English Law*, Cheltenham: Edward Elgar Publishing
 [^paulson-2019]: Paulson, S. L., 2019, “Hans Kelsen on Legal Interpretation, Legal Cognition, and Legal Science”, *Jurisprudence*, 10(2): 188–221.
-[^paulson-2017]: ––– 2017, “Metamorphosis in Hans Kelsen’s Legal Philosophy”, *Moderna Law Review*, 80(5): 860–894.
+[^paulson-2017]: ––– 2017, “Metamorphosis in Hans Kelsen’s Legal Philosophy”, *Modern Law Review*, 80(5): 860–894.
 [^paulson-2018]: ––– 2018, “The Purity Thesis”, *Ratio Juris*, 31(3): 276–306.
 [^paulson-2025]: –––, 2025, “On Eugenio Bulygin’s Kelsen.”, in G. Villa-Rosas, J.L. Fabra-Zamora, & J.E. Núñez (eds.), *Kelsen’s Legacy: Legal Normativity, International Law and Democracy*, Oxford, Dublin: Hart Publishing.
 [^pavlakos-2018]: Pavlakos, G., 2018, “Non-naturalism, Normativity and the Meaning of Ought: Some Lessons from Kelsen”, in K. E. Himma, M. Jovanovic & B. Spaic (eds.), *Unpacking Normativity Conceptual, Normative, and Descriptive Issues*, Oxford, Dublin: Hart Publishing, pp. 77–94.

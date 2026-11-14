@@ -149,7 +149,7 @@ Is the reverse possible? Can two sentences express the same proposition, but dif
 
 In general, then, it seems plausible that two sentences with the same content—i.e., which express the same proposition—must always have the same reference, though two expressions with the same reference can differ in content. This is the view stated by the Fregean slogan that sense determines reference (“sense” being the conventional translation of Frege’s *Sinn*, which was his word for what we are calling “content”).
 
-If this holds for sentences, does it also hold for subsentential expressions? It seems that it must. Suppose for reductio that two subsentential expressions, *e* and *e**, have the same content but differ in reference. It seems plausible that two sentences which differ only by the substitution of expressions with the same content must have the same content.[^note-4] But if this is true, then sentences which differ only in the substitution of *e* and *e** would have the same content. But such a pair of sentences could differ in truth-value, since, for any pair of expressions which differ in reference, there is some pair of sentences which differ only by the substitution of those expressions and differ in truth-value. So if there could be a pair of expressions like *e* and *e**, which differ in their reference but not in their content, there could be a pair of sentences which have the same content—which express the same proposition—but differ in truth-value. But this is what we argued above to be impossible; hence there could be no pair of expressions like *e* and *e**, and content must determine reference for subsentential expressions as well as sentences.
+If this holds for sentences, does it also hold for subsentential expressions? It seems that it must. Suppose for reductio that two subsentential expressions, *e* and *e\**, have the same content but differ in reference. It seems plausible that two sentences which differ only by the substitution of expressions with the same content must have the same content.[^note-4] But if this is true, then sentences which differ only in the substitution of *e* and *e\** would have the same content. But such a pair of sentences could differ in truth-value, since, for any pair of expressions which differ in reference, there is some pair of sentences which differ only by the substitution of those expressions and differ in truth-value. So if there could be a pair of expressions like *e* and *e\**, which differ in their reference but not in their content, there could be a pair of sentences which have the same content—which express the same proposition—but differ in truth-value. But this is what we argued above to be impossible; hence there could be no pair of expressions like *e* and *e\**, and content must determine reference for subsentential expressions as well as sentences.
 
 This result—that content determines reference—explains one thing we should, plausibly, want a semantic theory to do: it should assign to each expression some value—a content—which determines a reference for that expression.
 
@@ -159,11 +159,9 @@ However, there is an obvious problem with the idea that we can assign a content,
 
 The existence of such expressions shows that a semantic theory must do more than simply assign contents to every expression of the language. Expressions like “I” must also be associated with rules which determine the content of the expression, given a context of utterance. These rules, which are (or determine) functions from contexts to contents, are called *characters*. (The terminology here, as well as the view of the relationship between context, content, and reference, is due to Kaplan 1989a.)[^kaplan-1989a] So the character of “I” must be some function from contexts to contents which, in a context in which I am the speaker, delivers a content which determines me as reference; in a context in which Barack Obama is the speaker, delivers a content which determines Barack Obama as reference; and so on. (See figure 1.)
 
-*Figure 1.*
-
 ![diagram with text: link to extended description below](../assets/meaning/character-content.gif)
 
-Figure 1. [An extended description of figure 1 is in the supplement.]
+*Figure 1.* [An extended description of figure 1 is in the supplement.]
 
 Here we face another potentially misleading ambiguity in “meaning”. What is the real *meaning* of an expression—its character, or its content (in the relevant context)? The best answer here is a pluralist one. Expressions have characters which, given a context, determine a content. We can talk about either character or content, and both are important. The important thing is to be clear on the distinction, and to see the reasons for thinking that expressions have both a character and (relative to a context) a content.
 
@@ -201,11 +199,9 @@ Let’s suppose that this sentence, as uttered by me, is true. Then, if what we 
 
 What examples like (12) are often taken to show is that the reference of an expression must be relativized, not just to a context of utterance, but also to a *circumstance of evaluation*—at a first pass, the possible state of the world relevant to the determination of the truth or falsity of the sentence. In the case of many simple sentences, context and circumstance coincide; details aside, they both just are the state of the world at the time of the utterance, with a designated speaker and place. But sentences like (12) show that they can come apart. Phrases like “If my parents had never met” shift the circumstance of evaluation—they change the state of the world relevant to the evaluation of the truth or falsity of the sentence—but don’t change the context of utterance. That’s why when I utter (12), “I” refers to me—despite the fact that I would not have existed to utter it in if my parents had never met.
 
-*Figure 2.*
-
 ![diagram with text: link to extended description below](../assets/meaning/2-index.gif)
 
-Figure 2. [An extended description of figure 2 is in the supplement.]
+*Figure 2.* [An extended description of figure 2 is in the supplement.]
 
 The kind of theory which results is sometimes called a *double-indexing semantics*—the two indices being contexts of utterance and circumstances of evaluation. (See figure 2.)
 
@@ -221,11 +217,9 @@ This view sounds abstract but is, in a way, quite intuitive. The idea is that th
 
 These functions, or rules, are called (following Carnap (1947)) *intensions*. Possible worlds semantics is the view that contents are intensions (and hence that characters are functions from contexts to intensions, i.e. functions from contexts to functions from circumstances of evaluation to a reference). (See figure 3.)
 
-*Figure 3.*
-
 ![diagram with text: link to extended description below](../assets/meaning/pws.gif)
 
-Figure 3. [An extended description of figure 3 is in the supplement.]
+*Figure 3.* [An extended description of figure 3 is in the supplement.]
 
 The intension of a sentence—i.e., the proposition that sentence expresses, on the present view—will then be a function from worlds to truth-values. In particular, it will be that function which returns the truth-value true for every world with respect to which that sentence is true, and false otherwise. The intension of a simple predicate like “is red” will be a function from worlds to the function from objects to truth-values which, for each world, returns the truth-value true if the thing in question is red, and returns the truth-value false otherwise. In effect, possible worlds semantics takes the meanings of expressions to be functions from worlds to the values which would be assigned by a theory of reference to those expressions at the relevant world: in that sense, intensions are a kind of “extra layer” on top of the theory of reference. A classic discussion of the application of the framework of possible world semantics to natural language is Lewis (1970); see also von Fintel & Heim (2020 [Other Internet Resources]).
 
@@ -321,11 +315,9 @@ Senses are then objective, in that more than one person can express thoughts wit
 
 Indeed, we can think of our three classical semantic theories, along with the theory of reference, as related by this kind of many-one relation, as illustrated by the chart below:
 
-*Figure 4.*
-
 ![diagram: link to extended description below](../assets/meaning/levels.jpg)
 
-Figure 4. [An extended description of figure 4 is in the supplement.]
+*Figure 4.* [An extended description of figure 4 is in the supplement.]
 
 The principal argument for Fregean semantics (which also motivated Frege himself) is the neat solution the view offers to Frege’s puzzle: the view says that, in cases like (19) and (20) in which there seems to be a difference in content, there really is a difference in content: the names share a reference, but differ in their sense, because they differ in their mode of presentation of their shared reference.
 
@@ -334,7 +326,7 @@ A first challenge for Fregeanism is the challenge of giving a non-metaphorical e
 A first step toward answering this challenge is provided by a criterion for telling when two expressions differ in meaning, which might be stated as follows. In his 1906 paper, “A Brief Survey of My Logical Doctrines”, Frege seems to endorse the following criterion:
 
 > *Frege’s criterion of difference for senses*
-> Two sentences *S* and *S** differ in sense if and only if some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S** is true.
+> Two sentences *S* and *S\** differ in sense if and only if some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S\** is true.
 
 Consider (17) and (18), which we saw make trouble for Millian-Russellian views of content. Someone could clearly understand both and, on reflection, judge that (17) is true and (18) false. (Lois Lane is such a person.) Frege’s criterion would then imply that the sentences have different senses, which is what we want.[^note-8]
 
@@ -819,7 +811,7 @@ action | compositionality | conditionals | contextualism, epistemic | convention
 
 [^note-8]: One worry about this formulation concerns the apparent existence of pairs of sentences, like “If Obama exists, then Obama=Obama” and “If McCain exists, McCain=McCain” which are such that any rational person who understands both will take both to be true. These sentences seem intuitively to differ in content—but this is ruled out by the criterion above. One idea for getting around this problem would be to state our criterion of difference for senses of expressions in terms of differences which result from substituting one expression for another:
 
-> Two expressions *e* and *e** differ in sense if and only if there are a pair of sentences, *S* and *S** which (i) differ only in the substitution of *e* for *e** and (ii) are such that some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S** is true.
+> Two expressions *e* and *e\** differ in sense if and only if there are a pair of sentences, *S* and *S\** which (i) differ only in the substitution of *e* for *e*\* and (ii) are such that some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S\** is true.
 
 This version of the criterion has Frege’s formulation as a special case, since sentences are, of course, expressions; and it solves the problem with obvious truths, since it seems that substitution of sentences of this sort can change the truth value of a propositional attitude ascription. Furthermore, the criterion delivers the wanted result that coreferential names like “Superman” and “Clark Kent” differ in sense, since a rational, reflective agent like Lois Lane could think that (17) is true while withholding assent from (18). For more discussion of Frege’s criterion of difference for senses, see Schellenberg (2012).
 

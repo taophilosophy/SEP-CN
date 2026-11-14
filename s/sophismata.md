@@ -140,30 +140,30 @@ Ebbesen 指认出一个堪称“神学”的诡辩句，视之为“诡辩句非
 
 纵有技术性的区分，这些论著发挥的作用却一仍上文所述：为学生养成一套可施于任何学科的逻辑功夫。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献
 
-### Secondary Literature
+### 二手文献
 
-[^many-nd]: The medieval *sophismata*-literature is a vast and complex area of research. Many questions are still unsolved, especially about its historical origins and development. It is of importance for people interested in medieval logic, grammar, and physics, but also for those interested in the history of universities.
-[^many-1940]: The study of “sophismatic works” began around 1940 with Grabmann’s *Die Sophismatalitteratur des 12. und 13. Jahrhunderts*, and much research has been done in the last two decades. In 2010 *The Catalogue of 13th Century ‘sophismata’* (Ebbesen and Goubier) became available, which contains a host of information about recent scholarship in the field of *sophismata* (Ebbesen and Goubier 2010, vol. I, pp. 7–9). It also lists all the editions of *sophismata* literature available up to that date, as well as all the manuscripts the compilers had managed to investigate. It is an invaluable source of information for those wishing to continue the research of *sophismata*. There are still many texts to read, edit, and analyze.
-[^most-nd]: The bibliography for this entry is far from exhaustive. Most of the logical and grammatical texts on *sophismata* have been edited by S. Ebbesen and his collaborators in the journal [*Cahiers de l’Institut du Moyen Age Grec et Latin*](https://cimagl.saxo.ku.dk), University of Copenhagen. The primary literature mentions books only.
+[^many-nd]: 中世纪的 *sophismata* 文献是一个庞大而复杂的研究领域，许多问题——尤其是其历史起源与演变——仍未解决。它不仅对研究中世纪逻辑、语法与物理学的人重要，对研究大学史的人也同样重要。
+[^many-1940]: 对“诡辩句文献”的研究始于 1940 年前后格拉布曼的《十二与十三世纪的诡辩句文献》（*Die Sophismatalitteratur des 12. und 13. Jahrhunderts*），近二十年来已有大量研究。2010 年，《十三世纪“诡辩句”目录》（*The Catalogue of 13th Century ‘sophismata’*，Ebbesen and Goubier）问世，其中载有大量关于 *sophismata* 领域近期研究的资料（Ebbesen and Goubier 2010, vol. I, pp. 7–9）。该书还列出了截至当时已刊行的全部 *sophismata* 文献版本，以及编者得以调查的全部手稿。对希望继续研究 *sophismata* 的人来说，这是一份极为宝贵的资料。仍有大量文本有待阅读、校勘与分析。
+[^most-nd]: 本词条的参考文献远非详尽。关于 *sophismata* 的逻辑与语法文本，大多由 S. 埃贝森及其合作者在哥本哈根大学主办的期刊 [*Cahiers de l’Institut du Moyen Age Grec et Latin*](https://cimagl.saxo.ku.dk) 上校勘刊行。原始文献部分只列专著。
 [^boethius-2021]: Boethius of Dacia, *Boethii Daci aliorumque sophismata*, ed. Sten Ebbesen and Irène Rosier-Catach (Corpus philosophorum danicorum medii aevi, IX), Copenhague: Det danske sprog- og litteraturselskab – University Press of Southern Denmark, 2021.
-[^john-2001]: John Buridan, *Summulae de Dialectica.* An Annoted Translation with a Philosophical Introduction, tr. Gyula Klima, New Haven: Yale University Press, 2001.; tr. Joël Biard, *Jean Buridan, Sophismes: Introduction, traduction et notes* (Collection Sic et Non), Paris: Vrin, 1993; ch. 8, tr. G. Hughes, *John Buridan on Self-Reference*, Cambridge: Cambridge University Press 1982.
+[^john-2001]: John Buridan, *Summulae de Dialectica.* An Annotated Translation with a Philosophical Introduction, tr. Gyula Klima, New Haven: Yale University Press, 2001.; tr. Joël Biard, *Jean Buridan, Sophismes: Introduction, traduction et notes* (Collection Sic et Non), Paris: Vrin, 1993; ch. 8, tr. G. Hughes, *John Buridan on Self-Reference*, Cambridge: Cambridge University Press 1982.
 [^john-2005]: –––, *Iohanni Buridani Summularum Tractatus nonus: De practica sophismatum (Sophismata)*, ed. Fabienne Pironet (Artistarium 10-9), Turnhout: Brépols, 2005.
 [^matthew-2001]: Matthew of Orléans, *Sophistaria sive summa communium distinctionum circa sophismata accidentium*, ed. Joke Spruyt (Studien und Texte zur Geistesgeschichte des Mittelalters, 74), Leiden: Brill, 2001.
-[^richard-1990]: Richard Kilvington, *The ‘Sophismata’ of Richard Kilvington*, ed. Norman Kretzmann & Barbara Ensign Kretzmann, Oxford: University Press for The British Academy, 1990; tr. Norman Kretzmann & Barbara Ensign Kretzmann, *The ‘Sophsimata’ of Richard Kilvington*. Introduction, Translation, and Commentary, Cambridge: Cambridge University Press, 1990.
-[^richard-2016]: Richard Sophista, *Master Richard Sophista: “Abstractiones”*, eds. Mary Sirridge & Sten Ebbesen, with E.J, Ashworth (Auctores Britannici Medii Aevi, 25), Oxford: Oxford University Press for the British Academy, 2016.
+[^richard-1990]: Richard Kilvington, *The ‘Sophismata’ of Richard Kilvington*, ed. Norman Kretzmann & Barbara Ensign Kretzmann, Oxford: University Press for The British Academy, 1990; tr. Norman Kretzmann & Barbara Ensign Kretzmann, *The ‘Sophismata’ of Richard Kilvington*. Introduction, Translation, and Commentary, Cambridge: Cambridge University Press, 1990.
+[^richard-2016]: Richard Sophista, *Master Richard Sophista: “Abstractiones”*, eds. Mary Sirridge & Sten Ebbesen, with E.J. Ashworth (Auctores Britannici Medii Aevi, 25), Oxford: Oxford University Press for the British Academy, 2016.
 [^siger-1977]: Siger of Courtrai, *Sigerus de Cortraco: ‘Summa modorum significandi sophismata’*, ed. Jan Pinborg (new edition on the basis of G. Wallerand’s *editio prima*), Amsterdam: J. Benjamins, 1977.
 [^william-1984]: William Heytesbury, *On Maxima and Minima. Chapter 5 of ‘Rules for Solving Sophismata’ with an Anonymous Fourteenth Century Discussion*, ed. & tr. John Longeway (Synthese Historical Library, 26), Dordrecht: D. Reidel, 1984.
 [^william-1994]: –––, *Guillaume Heytesbury: Sophismata asinina. Une introduction aux disputes médiévales*, ed. Fabienne Pironet (Collection Sic et Non), Paris: Vrin, 1994. (With texts from the *Libelli sophistarum ad usum Oxoniensis*.)
 [^biard-1989]: Biard, Joël, 1989, “Les sophismes du savoir: Albert de Saxe entre Jean Buridan et Guillaume Heytesbury”, *Vivarium*, 27: 36–50.
-[^biard-1990]: –––, 1990, “Verbes cognitifs et appellation de la forme selon Albert de Saxe”, in Simo Knuuttila, Reijo Työrinoja, and Sten Ebbesen, (eds.), *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.), Helsinki, 24–29 August 1987* (Acta Philosophica Fennica, 48-2*)*, Helsinki: Yliopistopaino, pp. 427–35.
+[^biard-1990]: –––, 1990, “Verbes cognitifs et appellation de la forme selon Albert de Saxe”, in Simo Knuuttila, Reijo Työrinoja, and Sten Ebbesen, (eds.), *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.), Helsinki, 24–29 August 1987* (Acta Philosophica Fennica, 48-2), Helsinki: Yliopistopaino, pp. 427–35.
 [^braakhuis-1979]: Braakhuis, H.A.G., 1979, *De 13de Eeuwse Tractaten over Syncategorematische Termen*. Inleidende Studie en Uitgave van Nicolaas van Parijs’ *Syncategoremata*, Nijmegen (diss.).
 [^ebbesen-1979]: Ebbesen, Sten, 1979, “The Dead Man is Alive”, *Synthese* 40: 43–70.
 [^ebbesen-1997]: –––, 1997, “Doing Theology with Sophismata”, in C. Marmo (ed.), *Vestigia, imagines, verba: Semiotics and Logic in Medieval Theological Texts (XIIth-XIVth Century).* *Acts of the XIth Symposium on Medieval Logic and Semantics, San Marino, 24-28 May 1994* (Semiotic and Cognitive Studies, 4), Turnhout: Brepols, pp. 151–169.
@@ -184,10 +184,10 @@ Ebbesen 指认出一个堪称“神学”的诡辩句，视之为“诡辩句非
 [^murdoch-1982-2]: –––, 1982, “Infinity and Continuity,” in Norman Kretzmann, Anthony Kenny, and Jan Pinborg (eds.), *The Cambridge History of Later Medieval Philosophy from the Rediscovery of Aristotle to the Disintegration of Scholasticism, 1100–1600*, Cambridge: Cambridge University Press, pp. 564–91.
 [^ors-2015]: d’Ors, Angel, 2015, “*Tu scis an de meniente sit falsum esse illum.* On the Syncategorema ‘an’”, *Vivarium*, 53: 269–293.
 [^stephen-1990]: Stephen Read (ed.), *Sophisms in Medieval Logic and Grammar* (Acts of the Ninth European Symposium for Medieval Logic and Semantics, St. Andrews, June 1990), Dordrecht: Kluwer Academic Publishers, 1993.
-[^rijk-1988]: Rijk, L. M. de, 1988, *Some Earlier Parisian Tracts on Distinctiones sophismatum* (Artistarium, 7), Nijmegen: Ingenium Publishers,.
+[^rijk-1988]: Rijk, L. M. de, 1988, *Some Earlier Parisian Tracts on Distinctiones sophismatum* (Artistarium, 7), Nijmegen: Ingenium Publishers.
 [^rosier-1991]: Rosier, I., 1991, “Les sophismes grammaticaux au XIIIe siècle”, *Medioevo*, 17: 175–230.
 [^rosier-1990]: Rosier, Iréne, and Bruno Roy, 1990, “Grammaire et liturgie dans les sophismes du XIIIe siècle”, *Vivarium*, 28: 118–35.
-[^sylla-1981]: Sylla, Edith D., 1981, “William Heytesbury on the Sophism ‘*Infinita sunt finita*’”, in Wolfgang Kluxen (ed.), *Sprache und Erkenntnis im Mittelalter*.*Akten des 6. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’étude de la philosophie médiévale, 29. August-3. September 1977 im Bonn* (Miscellanea Mediaevalia, 13.1–2), Berlin: W. de Gruyter, 1981, Vol. 2, pp. 628–36.
+[^sylla-1981]: Sylla, Edith D., 1981, “William Heytesbury on the Sophism ‘*Infinita sunt finita*’”, in Wolfgang Kluxen (ed.), *Sprache und Erkenntnis im Mittelalter*.*Akten des 6. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’étude de la philosophie médiévale, 29. August-3. September 1977 in Bonn* (Miscellanea Mediaevalia, 13.1–2), Berlin: W. de Gruyter, 1981, Vol. 2, pp. 628–36.
 
 ## 学术工具
 

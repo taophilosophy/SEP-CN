@@ -45,11 +45,9 @@ $$m^\textit{prior}(x) = g(w_1 (x)) + \ldots + g(w_N (x)),$$
 
 with $g(\cdot)$ a strictly increasing and strictly concave function (see Figure 1), and ranks outcomes according to *these* scores. To say that this function is “strictly increasing” means that it assigns greater values to greater inputs. To say that it is “strictly concave” means that it bends over: more precisely, that the $g(\cdot)$ value it assigns to any mixture of input values exceeds the mixture of their $g(\cdot)$ values.[^note-4]
 
-*Figure 1*
-
 ![A graph of Transformed well-being g(w) in the y-axis against Well-being w in the x-axis. There is a solid concave curve beginning at (0,0) and arcing up. Four points on the curve are distinguished, given here in increasing order of x-axis value: (w_L, g(w_L)), (w_L+Delta_w, g(w_L+Delta_w), (w_H-Delta_w,g(w_H-Delta_w), (w_H,g(w_H)). The x-axis distance between w_L and w_L+Delta_w is the same as the x-axis distance between w_H-Delta_w and w_H. But the transformed well-being distance on the y-axis between the first pair g(w_L) and g(w_L+Delta_w) is greater than that between g(w_H-Delta_w) and g(w_H).](../assets/prioritarianism/figure1.png)
 
-Figure 1
+*Figure 1*
 
 In a nutshell, utilitarian betterness is the sum of well-being, while prioritarian betterness is the sum of concavely transformed well-being. It is the concave transformation function, $g(\cdot)$, that allows prioritarianism to give priority to the worse off. (We use “concave” in reference to this transformation function as shorthand for strictly increasing and strictly concave.) Utilitarianism is a single ranking, while prioritarianism is a whole *family* of rankings—each member of this family defined by a specific transformation function. (See Adler 2022a regarding the choice of function.)[^adler-2022a][^adler-2022a-2]
 
@@ -77,8 +75,6 @@ To illustrate, assume a population of four individuals. Let a list of four numbe
 
 Table 1 states how the various betterness rankings fare with respect to these three axioms.
 
-*Table 1.*
-
 |   | *Pigou-Dalton* | *Separability* | *Continuity* |
 | --- | --- | --- | --- |
 | Utilitarianism | No | Yes | Yes |
@@ -88,7 +84,7 @@ Table 1 states how the various betterness rankings fare with respect to these th
 | Sufficientism | No^{†} | Yes | No |
 | PLT | Yes | Yes | No |
 
-Table 1. ^{†} Pigou-Dalton not satisfied for transfers between above-threshold individuals
+*Table 1.* ^{†} Pigou-Dalton not satisfied for transfers between above-threshold individuals
 
 Several important points emerge from Table 1. First, Pigou-Dalton is the axiom that differentiates utilitarianism and prioritarianism. Utilitarianism fails Pigou-Dalton: if we reduce a better-off person’s well-being by $\Delta w$, and increase a worse-off person’s well-being by the same amount, the sum total of well-being is unchanged—and thus utilitarianism sees the transfer as a matter of moral indifference. Figure 1 illustrates why prioritarianism *satisfies* Pigou-Dalton: the increase in *concavely transformed* well-being of the worse-off individual (at well-being level $w_L)$ exceeds the loss in concavely transformed well-being of the better-off one (at $w_H)$.
 
@@ -118,14 +114,12 @@ Prioritarianism comes to prominence in the philosophical literature with Derek P
 
 In the lecture, Parfit introduces prioritarianism by discussing a hypothetical case previously described by the philosopher Thomas Nagel (1979, pp. 123-24). In this case, Nagel has to choose between living in the suburb, which is better for one of his children, who is healthy; and living in the city, thereby providing access to treatment for a second child, who has a serious health condition. The gain to the first child from living in the suburb is greater than the gain to the second child from living in the city. Parfit represents the interests of the two children using the numbers displayed in Table 2 (everyone else is unaffected).
 
-*Table 2.*
-
 |   | *First Child* | *Second Child* |
 | --- | --- | --- |
 | Move to the city | 20 | 10 |
 | Move to the suburb | 25 | 9 |
 
-Table 2.
+*Table 2.*
 
 Utilitarianism recommends moving to the suburb. The sum total of the children’s well-being in the suburb $(25 + 9)$ is greater than the sum total of their well-being in the city $(20 + 10)$. Nagel supposes that, if he decides instead to move to the city, “it would be an egalitarian decision” (Parfit 2000, p. 81)[^parfit-2000]. Parfit uses the case to explore the content of egalitarianism and to propose an alternative rationale for moving to the city: “the Priority View” (or, as it’s come to be known, “prioritarianism”). Parfit discusses both axiological (“Telic”) and deontic egalitarianism. Because our interest here is axiology, we leave aside Parfit’s analysis of deontic egalitarianism and focus on the contrast he draws between axiological egalitarianism and prioritarianism. In what follows, “axiological” is implicit.
 
@@ -199,8 +193,6 @@ The prioritarian betterness ranking satisfies Pigou-Dalton *and* Separability *a
 
 This has come to be known as the “Egyptology” argument for Separability. It also applies in the fixed-population context. In a nutshell, the argument is this. Let $x$ and $y$ differ with respect to the well-being of one or more individuals, the affected individuals. If the betterness ranking violates Separability, it is possible that how $x$ morally compares to $y$ depends upon the well-being levels of unaffected individuals who are temporally remote from all of the affected individuals (e.g., some unaffected individuals lived in ancient Egypt, while the affected individuals were born after 1900), or spatially remote from all of the affected individuals (some unaffected individuals live on Mars, while the affected individuals live on Earth). And this is counterintuitive. See Table 3, showing specifically how generalized-Gini moral betterness (which violates Separability) runs afoul of the Egyptology objection.
 
-*Table 3.*
-
 |   | *Outcome $x$* | *Outcome $y$* | *Outcome $x^*$* | *Outcome $y^*$* |
 | --- | --- | --- | --- | --- |
 | Able | 50 | 54 | 50 | 54 |
@@ -208,7 +200,7 @@ This has come to be known as the “Egyptology” argument for Separability. It 
 | Rick | 70 | 70 | 10 | 10 |
 | Generalized-Gini outcome score (integer weights) | 390 | 392 | 230 | 228 |
 
-Table 3. *Explanation*: Assume that Rick is remote from Able and Baker. Rick’s well-being is the same in each outcome pair $(x/y)$ and $(x^*/y^*)$, i.e. only Able and Baker are affected in each outcome pair. However, because Rick’s position relative to Able and Baker is different in the two pairs, the generalized-Gini ranking of the first pair is not the same as its ranking of the second, in violation of Separability.
+*Table 3.* *Explanation*: Assume that Rick is remote from Able and Baker. Rick’s well-being is the same in each outcome pair $(x/y)$ and $(x^*/y^*)$, i.e. only Able and Baker are affected in each outcome pair. However, because Rick’s position relative to Able and Baker is different in the two pairs, the generalized-Gini ranking of the first pair is not the same as its ranking of the second, in violation of Separability.
 
 (2) *Tractability*. A betterness ranking of outcomes is (plausibly) associated with a betterness ranking of *prospects*. This prospect ranking encapsulates how the outcome ranking provides guidance with respect to moral deliberation. Separability at the level of the outcome ranking is a necessary condition for the prospect ranking to satisfy the axiom of *Prospect Separability*. (See Section 4.2.) Prospect Separability, in turn, substantially facilitates moral deliberation. It means that the decisionmaker can ignore individuals who are *sure to be unaffected* by the decisionmaker’s choice.
 
@@ -230,15 +222,13 @@ The substantive attractiveness of such non-absolutist extended-prioritarian rank
 
 In decision theory, a standard set-up for representing choice under uncertainty is the *prospect* framework. There is a collection of mutually exclusive “states of nature,” each assigned a fixed probability. A given prospect $P$ associates each state-of-nature with some outcome. See Table 4.
 
-*Table 4.*
-
 |   | A prospect $P$ |   |   |   |
 | --- | --- | --- | --- | --- |
 | State | $s^*$ | $s^{**}$ | $s^{***}$ | $s^{****}$ |
 | Probability | $\pi(s^*)$ | $\pi(s^{**})$ | $\pi(s^{***})$ | $\pi(s^{****})$ |
 | Outcome | $x$ | $y$ | $z$ | $zz$ |
 
-Table 4. *Explanation*: $\pi(s)$ is the probability of a given state s.
+*Table 4.* *Explanation*: $\pi(s)$ is the probability of a given state s.
 
 The set of prospects (for a given group of states-of-nature) is an abstract representation of a decisionmaker’s choice situation. The decisionmaker (Dolores) is *uncertain* about the features of the world that determine which outcome would result, for any given choice available to her. Dolores’ uncertainty is represented in the assignment of probabilities to the states-of-nature; the probability of a state-of-nature represents her degree of belief that this is the actual state-of-nature. Each choice available to Dolores corresponds to one or another prospect; the prospect says what the outcome would be, for each of the states-of-nature to which Dolores assigns some (nonzero) degree of belief.
 
@@ -286,19 +276,15 @@ A betterness ranking of outcomes has a corresponding prospect-ranking rule that 
 
 Table 5 shows how EPP, EAP, and EEDEP fare with respect to these axioms. As the table shows, none of these three approaches satisfy all of the axioms.
 
-*Table 5.*
-
 |   | Expected Utility Decisionmaking | State Dominance | Ex Ante Pareto | Prospect Separability |
 | --- | --- | --- | --- | --- |
 | EPP | Yes | Yes | No | Yes |
 | EAP | No | No | Yes | Yes |
 | EEDEP | Yes | Yes | No^{†} | No |
 
-Table 5. ^{†}No, but yes if individuals are identically situated: in each state, all individuals have the same well-being level.
+*Table 5.* ^{†}No, but yes if individuals are identically situated: in each state, all individuals have the same well-being level.
 
 One striking pattern in Table 5 is that none of these three approaches satisfy both State Dominance and Ex Ante Pareto. EPP and EEDEP satisfy State Dominance, at the expense of Ex Ante Pareto; EAP satisfies Ex Ante Pareto, at the expense of State Dominance. This is not a coincidence. As Table 6 illustrates, no prospect-ranking rule for prioritarianism can satisfy both State Dominance and Ex Ante Pareto.
-
-*Table 6.*
 
 | Prospect | $P$ |   | $P^+$ |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -316,7 +302,7 @@ One striking pattern in Table 5 is that none of these three approaches satisfy b
 
 (b)
 
-Table 6. *Explanation*: In both Table 6a and 6b, the probability of state *s* and of state *s** is .5.
+*Table 6.* *Explanation*: In both Table 6a and 6b, the probability of state *s* and of state *s\** is .5.
 
 Table 6a shows the conflict between State Dominance and Ex Ante Pareto Indifference given prioritarian outcome betterness. By Pigou-Dalton, the outcome in which both individuals receive 50 is better than an outcome in which one receives 80 and the other 20. Thus, by State Dominance, prospect $P+$ is better than prospect $P$. But Ex Ante Pareto Indifference requires that the prospects be ranked equally good.
 
@@ -366,13 +352,11 @@ We’ll assume, for now, that the Bernoulli premise is adopted: the ranking of p
 
 The axiomatic properties of SU are stated in Table 7. This table (a companion to Table 5) clarifies why SU is the dominant prospect-ranking rule for utilitarianism. It satisfies *all* of the uncertainty axioms mentioned above, while EPP, EAP, and EEDEP each succeed in only satisfying some of them.
 
-*Table 7.*
-
 |   | Expected Utility Decisionmaking | State Dominance | Ex Ante Pareto | Prospect Separability |
 | --- | --- | --- | --- | --- |
 | SU | Yes | Yes | Yes | Yes |
 
-Table 7.
+*Table 7.*
 
 The reader may be puzzled that SU satisfies both State Dominance and Ex Ante Pareto. Didn’t Table 6 demonstrate that these axioms can’t both be satisfied by a prospect-ranking rule? The answer is that what State Dominance requires *depends* on the outcome-ranking rule. Imagine that there are two states-of-nature and two individuals, Ya and Zeke. In one state, prospect $P$ leads to an outcome in which Ya has well-being 81 and Zeke 25; in the other state, prospect $P$ leads to an outcome in which Ya has well-being 25 and Zeke 81. The outcome of prospect $P^*$ in both states is an outcome in which Ya has well-being 50 and Zeke has well-being 50. State Dominance given the utilitarian outcome-ranking rule requires that $P$ be preferred to $P^* (81 + 25 = 25 + 81 \gt 50 + 50)$. By contrast, consider a prioritarian outcome-ranking rule using the square root transformation function. State Dominance given this *prioritarian* outcome-ranking rule requires that $P^*$ be preferred to $P$ $(\sqrt{81} + \sqrt{25} \lt \sqrt{50} + \sqrt{50})$.
 
@@ -424,14 +408,12 @@ Note also that the claims-across-outcomes framework (see Section 3.1) aims to ma
 
 A further egalitarian challenge to prioritarianism is due to Michael Otsuka and Alex Voorhoeve (Otsuka and Voorhoeve 2009, 2018; Otsuka 2015)[^otsuka-2015][^otsuka-2009][^otsuka-2018]. More specifically, they raise two objections, namely the prudential justification objection and the competing claims objection. Consider first the prudential justification objection. Suppose Anandi will (equiprobably) develop a slight or a severe impairment and she needs to be treated before we know which. The treatment for the slight impairment is a bit more efficient as regards Anandi’s well-being, where her well-being levels are represented in Table 8.
 
-*Table 8.*
-
 |   | Anandi develops severe impairment | Anandi develops slight impairment |
 | --- | --- | --- |
 | A. Treatment for severe impairment | 4 | 7 |
 | B. Treatment for slight impairment | 2 | 10 |
 
-Table 8.
+*Table 8.*
 
 Assume again square root as the prioritarian transformation function. Then, according to EPP, we should ascribe the following values to the two possible treatments:
 

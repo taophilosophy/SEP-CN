@@ -43,21 +43,17 @@ Forget time travel for the moment. Suppose that you and I each have a watch with
 
 Let us now give the positive result that with such dials there will always be fixed point solutions, as long as the dynamics is continuous. Let us call the state of the dial before it interacts with its older self the initial state of the dial. And let us call the state of the dial after it emerges from the time machine the final state of the dial. There is also an intermediate state of the dial, after it interacts with its older self and before it is put into the time machine. We can represent the initial or intermediate states of the dial, before it goes into the time machine, as an angle $x$ in the horizontal plane and the final state of the dial, after it comes out of the time machine, as an angle $y$ in the vertical plane. All possible $\langle x,y\rangle$ pairs can thus be visualized as a torus with each $x$ value picking out a vertical circular cross-section and each $y$ picking out a point on that cross-section. See figure 1.
 
-*Figure 1*
-
 ![a torus diagram: link to extended description below](../assets/time-travel-phys/figure-1.svg)
 
-Figure 1 [An extended description of figure 1 is in the supplement.]
+*Figure 1* [An extended description of figure 1 is in the supplement.]
 
 Suppose that the dial starts at angle $i$ which picks out vertical circle $I$ on the torus. The initial angle $i$ that the dial is at before it encounters its older self, and the set of all possible final angles that the dial can have when it emerges from the time machine is represented by the circle $I$ on the torus (see figure 1). Given any possible angle of the emerging dial, the dial initially at angle $i$ will develop to some other angle. One can picture this development by rotating each point on $I$ in the horizontal direction by the relevant amount. Since the rotation has to depend continuously on the angle of the emerging dial, circle $I$ during this development will deform into some loop $L$ on the torus. Loop $L$ thus represents all possible intermediate angles $x$ that the dial is at when it is thrown into the time machine, given that it started at angle $i$ and then encountered a dial (its older self) which was at angle $y$ when it emerged from the time machine. We therefore have consistency if $x=y$ for some $x$ and $y$ on loop $L$. Now, let loop $C$ be the loop which consists of all the points on the torus for which $x=y$. Ring $I$ intersects $C$ at point $\langle i,i\rangle$. Obviously any continuous deformation of $I$ must still intersect $C$ somewhere. So $L$ must intersect $C$ somewhere, say at $\langle j,j\rangle$. But that means that no matter how the development of the dial starting at $I$ depends on the angle of the emerging dial, there will be some angle for the emerging dial such that the dial will develop exactly into that angle (by the time it enters the time machine) under the influence of that emerging dial. This is so no matter what angle one starts with, and no matter how the development depends on the angle of the emerging dial. Thus even for a circular state-space there are no constraints needed other than continuity.
 
 Unfortunately there are state-spaces that escape even this argument. Consider for instance a pointer that can be set to all values between 0 and 1, where 0 and 1 are not possible values. That is, suppose that we have a state-space that is isomorphic to an open set of real numbers. Now suppose that we have a machine that sets the pointer to half the value that the pointer is set at when it emerges from the time machine.
 
-*Figure 2*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-2.svg)
 
-Figure 2 [An extended description of figure 2 is in the supplement.]
+*Figure 2* [An extended description of figure 2 is in the supplement.]
 
 Suppose the pointer starts at value $I$. As before we can represent the combination of this initial position and all possible final positions by the line $I$. Under the influence of the pointer coming out of the time machine the pointer value will develop to a value that equals half the value of the final value that it encountered. We can represent this development as the continuous deformation of line $I$ into line $L$, which is indicated by the arrows in figure 2. This development is fully continuous. Points $\langle x,y\rangle$ on line $I$ represent the initial position $x=I$ of the (young) pointer, and the position $y$ of the older pointer as it emerges from the time machine. Points $\langle x,y\rangle$ on line $L$ represent the position $x$ that the younger pointer should develop into, given that it encountered the older pointer emerging from the time machine set at position $y$. Since the pointer is designed to develop to half the value of the pointer that it encounters, the line $L$ corresponds to $x=1/2 y$. We have consistency if there is some point such that it develops into that point, if it encounters that point. Thus, we have consistency if there is some point $\langle x,y\rangle$ on line $L$ such that $x=y$. However, there is no such point: lines $L$ and $C$ do not intersect. Thus there is no consistent solution, despite the fact that the dynamics is fully continuous.
 
@@ -94,31 +90,25 @@ The simplest possible example is the Newtonian theory of perfectly elastic colli
 
 What happens if we change the topology of the space-time by hand to produce CTCs? The simplest way to do this is depicted in figure 3: we cut and paste the space-time so it is no longer simply connected by identifying the line $L-$ with the line $L+$. Particles “going in” to $L+$ from below “emerge” from $L-$ , and particles “going in” to $L-$ from below “emerge” from $L+$.
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-3.svg)
 
-Figure 3: Inserting CTCs by Cut and Paste. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Inserting CTCs by Cut and Paste. [An extended description of figure 3 is in the supplement.]
 
 How is the boundary-value problem changed by this alteration in the space-time? Before the cut and paste, we can put arbitrary data on the simultaneity slice $S$ and continue it to a unique solution. After the change in topology, $S$ is no longer a Cauchy surface, since a CTC will never intersect it, but it is a partial Cauchy surface. So we can ask two questions. First, can arbitrary data on $S$ always be continued to a global solution? Second, is that solution unique? If the answer to the first question is $no$, then we have a backward-temporal constraint: the existence of the region with CTCs places constraints on what can happen on $S$ even though that region lies completely to the future of $S$. If the answer to the second question is $no$, then we have an odd sort of indeterminism, analogous to the unwritten book: the complete physical state on $S$ does not determine the physical state in the future, even though the local dynamics is perfectly deterministic and even though there is no other past edge to the space-time region in $S$’s future (i.e., there is nowhere *else* for boundary values to come from which could influence the state of the region).
 
 In this case the answer to the first question is *yes* and to the second is *no*: there are no constraints on the data which can be put on $S$, but those data are always consistent with an infinitude of different global solutions. The easy way to see that there always is a solution is to construct the minimal solution in the following way. Start drawing straight lines from $S$ as required by the initial data. If a line hits $L-$ from the bottom, just continue it coming out of the top of $L+$ in the appropriate place, and if a line hits $L+$ from the bottom, continue it emerging from $L-$ at the appropriate place. Figure 4 represents the minimal solution for a single particle which enters the time-travel region from the left:
 
-*Figure 4:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-4.svg)
 
-Figure 4: The Minimal Solution. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* The Minimal Solution. [An extended description of figure 4 is in the supplement.]
 
 The particle “travels back in time” three times. It is obvious that this minimal solution is a global solution, since the particle always travels inertially.
 
 But the same initial state on $S$ is also consistent with other global solutions. The new requirement imposed by the topology is just that the data going into $L+$ from the bottom match the data coming out of $L-$ from the top, and the data going into $L-$ from the bottom match the data coming out of $L+$ from the top. So we can add any number of vertical lines connecting $L-$ and $L+$ to a solution and still have a solution. For example, adding a few such lines to the minimal solution yields:
 
-*Figure 5:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-5.svg)
 
-Figure 5: A Non-Minimal Solution. [An extended description of figure 5 is in the supplement.]
+*Figure 5:* A Non-Minimal Solution. [An extended description of figure 5 is in the supplement.]
 
 The particle now collides with itself twice: first before it reaches $L+$ for the first time, and again shortly before it exits the CTC region. From the particle’s point of view, it is traveling to the right at a constant speed until it hits an older version of itself and comes to rest. It remains at rest until it is hit from the right by a younger version of itself, and then continues moving off, and the same process repeats later. It is clear that this is a global model of the dynamics, and that any number of distinct models could be generating by varying the number and placement of vertical lines.
 
@@ -132,11 +122,9 @@ Carrying on our reflection in this way, we further realize that if the particle 
 
 But at least one solution to the supposed paradox is easy to construct: just follow the recipe for constructing the minimal solution, continuing the initial trajectory of the particle (reflecting it the mirror in the obvious way) and then read of the number and trajectories of the particles from the resulting diagram. We get the result of figure 6:
 
-*Figure 6:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-6.svg)
 
-Figure 6: Resolving the “Paradox”. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Resolving the “Paradox”. [An extended description of figure 6 is in the supplement.]
 
 As we can see, the particle approaching from the left never reaches $L+$: it is deflected first by a particle which emerges from $L-$. But it is not deflected *by itself*, as the paradox suggests, it is deflected by another particle. Indeed, there are now *four* particles in the diagram: the original particle and three particles which are confined to closed time-like curves. It is not the leftmost particle which is reflected by the mirror, nor even the particle which deflects the leftmost particle; it is another particle altogether.
 
@@ -146,21 +134,17 @@ So when the freedom to put data on $L-$ outweighs the constraint that the same d
 
 Suppose that the graph of the space-time lattice is *acyclic*, as in figure 7. (A graph is *Acyclic* if one can not travel in the direction of the arrows and go in a loop.)
 
-*Figure 7:*
-
 ![an acyclic graph: link to extended description below](../assets/time-travel-phys/figure-7.svg)
 
-Figure 7: An Acyclic Lattice. [An extended description of figure 7 is in the supplement.]
+*Figure 7:* An Acyclic Lattice. [An extended description of figure 7 is in the supplement.]
 
 It is easy to regard a set of nodes as the analog of a Cauchy surface, e.g., the set $\{a, b, c\}$, and it is obvious if arbitrary data are put on those nodes the data will generate a unique solution in the future.[^note-3] If the value of the field at node $a$ is 3 and at node $b$ is 7, then its value at node $d$ will be $3W_{ad}$ and its value at node $e$ will be $3W_{ae} + 7W_{be}$. By varying the weighting factors we can adjust the dynamics, but in an acyclic graph the future evolution of the field will always be unique.
 
 Let us now again artificially alter the topology of the lattice to admit CTCs, so that the graph now is cyclic. One of the simplest such graphs is depicted in figure 8: there are now paths which lead from $z$ back to itself, e.g., $z$ to $y$ to $z$.
 
-*Figure 8:*
-
 ![cyclic graph: link to extended description below](../assets/time-travel-phys/figure-8.svg)
 
-Figure 8: Time Travel on a Lattice. [An extended description of figure 8 is in the supplement.]
+*Figure 8:* Time Travel on a Lattice. [An extended description of figure 8 is in the supplement.]
 
 Can we now put arbitrary data on $v$ and $w$, and continue that data to a global solution? Will the solution be unique?
 
@@ -190,11 +174,9 @@ It is ironic that time travel should lead generically not to contradictions or t
 
 Echeverria, Klinkhammer, and Thorne (1991) considered the case of 3-dimensional single hard spherical ball that can go through a single time travel wormhole so as to collide with its younger self.
 
-*Figure 9*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-9.svg)
 
-Figure 9 [An extended description of figure 9 is in the supplement.]
+*Figure 9* [An extended description of figure 9 is in the supplement.]
 
 The threat of paradox in this case arises in the following form. Consider the initial trajectory of a ball as it approaches the time travel region. For some initial trajectories, the ball does not undergo a collision before reaching mouth 1, but upon exiting mouth 2 it will collide with its earlier self. This leads to a contradiction if the collision is strong enough to knock the ball off its trajectory and deflect it from entering mouth 1. Of course, the Wheeler-Feynman strategy is to look for a “glancing blow” solution: a collision which will produce exactly the (small) deviation in trajectory of the earlier ball that produces exactly that collision. Are there always such solutions?[^note-4]
 
@@ -269,11 +251,9 @@ We now turn to the application of the computational approach to the quantum phys
 
 A quantum system starts in state $S_1$, interacts with its older self, after the interaction is in state $S_2$, time travels while developing into state $S_3$, then interacts with its younger self, and ends in state $S_4$ (see figure 10).
 
-*Figure 10*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-10.svg)
 
-Figure 10 [An extended description of figure 10 is in the supplement.]
+*Figure 10* [An extended description of figure 10 is in the supplement.]
 
 Deutsch assumes that the set of possible states of this system are the mixed states, i.e., are represented by the density matrices over the Hilbert space of that system. Deutsch then shows that for any initial state $S_1$, any unitary interaction between the older and younger self, and any unitary development during time travel, there is a consistent solution, i.e., there is at least one pair of states $S_2$ and $S_3$ such that when $S_1$ interacts with $S_3$ it will change to state $S_2$ and $S_2$ will then develop into $S_3$. The states $S_2, S_3$ and $S_4$ will typically be not be pure states, i.e., will be non-trivial mixed states, even if $S_1$ is pure. In order to understand how this leads to interpretational problems let us give an example. Consider a system that has a two dimensional Hilbert space with as a basis the states $\vc{+}$ and $\vc{-}$. Let us suppose that when state $\vc{+}$ of the young system encounters state $\vc{+}$ of the older system, they interact and the young system develops into state $\vc{-}$ and the old system remains in state $\vc{+}$. In obvious notation:
 

@@ -143,7 +143,7 @@ Does second-order physicalism entail supervenience physicalism? The usual assump
 
 #### 2.3.2 Subset Physicalism
 
-The second realization definition of physicalism has been developed by Wilson 1999, 2011 and Shoemaker 2007. On this view, a property *F* realizes a property *G* if and only if (a) *G* has some set of causal powers or features *S*; (b) *F* has some set of causal powers or features *S**; and (c) *S* is a subset of *S**. (We may call this notion ‘subset realization’ to distinguish it from the different notion of realization just considered.) This suggests:
+The second realization definition of physicalism has been developed by Wilson 1999, 2011 and Shoemaker 2007. On this view, a property *F* realizes a property *G* if and only if (a) *G* has some set of causal powers or features *S*; (b) *F* has some set of causal powers or features *S\**; and (c) *S* is a subset of *S\**. (We may call this notion ‘subset realization’ to distinguish it from the different notion of realization just considered.) This suggests:
 
 **(6)**
 
@@ -223,17 +223,17 @@ We have been assuming that supervenience is necessary for physicalism, even if i
 
 The physical truths entail all the truths.
 
-Now suppose that *S* is a statement which specifies the physical nature of the actual world and *S** is a statement which specifies the total nature of the world. (It might be that neither *S* nor *S** are expressible in languages we can understand, but let us set this aside.) Then physicalism tells us in addition that that:
+Now suppose that *S* is a statement which specifies the physical nature of the actual world and *S\** is a statement which specifies the total nature of the world. (It might be that neither *S* nor *S\** are expressible in languages we can understand, but let us set this aside.) Then physicalism tells us in addition that that:
 
 **(13)**
 
-*S* entails *S**
+*S* entails *S\**
 
 Another way to say this is to say that if supervenience physicalism is true, the following conditional is necessarily true:
 
 **(14)**
 
-If *S* then *S**
+If *S* then *S\**
 
 Indeed, this is a general feature of supervenience physicalism: if it is true then there will always be a necessary truth of the form of (14).
 
@@ -243,7 +243,7 @@ The appeal to the necessary *a posteriori* is on the surface an attractive one, 
 
 **(15)**
 
-If *S* & *S#* then *S**.
+If *S* & *S#* then *S\**.
 
 One the other hand, if physicalism is true, and *S* summarizes the total nature of the world then *S#* *is already implicitly included in S*. In other words, (15) is simply an expansion of (14). But if (15) is just an expansion of (14), then if (15) is *a priori*, (14) must also be *a priori*. But that means our initial assumption is false: (14) is not a necessary *a posteriori* truth after all (see Jackson 1998)[^jackson-1998].
 
@@ -361,7 +361,7 @@ Clearly this conclusion entails that physicalism is false: for if there are trut
 
 There are many possible responses to this argument, but here I will briefly mention only three. The first is *the ability hypothesis* due to Lawrence Nemerow (1988) and developed and defended by David Lewis (1994). The ability hypothesis follows Ryle (1949) in drawing a sharp distinction between propositional knowledge or knowledge-that (such as ‘Mary knows that snow is white’) and knowledge-how (such as ‘Mary knows how to ride a bike’), and then suggests that all Mary gains is the latter. On the other hand, P2 would only be true if Mary gained propositional knowledge.
 
-A second response appeals to the distinction between *a priori* and *a posteriori* physicalism. As we saw above, the crucial claim of *a posteriori* physicalism is that (13) — i.e. the claim that *S* entails *S** — is *a posteriori*. Since (13) is *a posteriori*, you would need certain experience to know it. But, it is argued, Mary has not had (and cannot have) the relevant experience. Hence she does not know (13). On the other hand, the mere fact that Mary has not had (and cannot have) the experience to know (13) does not remove the possibility that (13) is true. Hence *a posteriori* physicalism can avoid the knowledge argument. (It is an interesting question which premise of the knowledge argument is being attacked by this response. The answer depends on whether (13) is physical or not: if (13) is physical, then the response attacks P1. But if (13) is not physical, the response is that the argument is invalid.).
+A second response appeals to the distinction between *a priori* and *a posteriori* physicalism. As we saw above, the crucial claim of *a posteriori* physicalism is that (13) — i.e. the claim that *S* entails *S\** — is *a posteriori*. Since (13) is *a posteriori*, you would need certain experience to know it. But, it is argued, Mary has not had (and cannot have) the relevant experience. Hence she does not know (13). On the other hand, the mere fact that Mary has not had (and cannot have) the experience to know (13) does not remove the possibility that (13) is true. Hence *a posteriori* physicalism can avoid the knowledge argument. (It is an interesting question which premise of the knowledge argument is being attacked by this response. The answer depends on whether (13) is physical or not: if (13) is physical, then the response attacks P1. But if (13) is not physical, the response is that the argument is invalid.).
 
 A third response is to distinguish between various conceptions of the physical. We saw above that potentially the class of properties defined by the theory-conception of the physical was distinct from the class of properties defined by the object-conception. But that suggests that the first premise of the argument is open to interpretation in either of two ways. On the other hand, Jackson’s thought experiment only seems to support the premise if it is interpreted in the one way, since Mary learns by learning all that physical *theory* can teach her. But leaves open the possibility that one might appeal to the object-conception of the physical to define a version of physicalism which evades the knowledge argument.
 
@@ -459,7 +459,7 @@ However, while it might be difficult to assess dispassionately the arguments for
 
 The first argument is (what I will call) *The Argument from Causal Closure*. The first premise of this argument is the thesis of the Causal Closure of the Physical — that is, the thesis that every event which has a cause has a physical cause. The second premise is that mental events cause physical events — for example we normally think that events such as wanting to raise your arm (a mental event) cause events such as the raising of your arm (a physical event). The third premise of the argument is a principle of causation that is often called the exclusion principle (Kim 1993, Yablo 1992, Bennett 2003)[^bennett-2003][^kim-1993][^yablo-1992]. The correct formulation of the exclusion principle is a matter of some controversy but a formulation that is both simple and plausible is the following:
 
-**Exclusion Principle** If an event *e* causes event *e**, then there is no event *e#* such that *e#* is non-supervenient on *e* and *e#* causes *e**.
+**Exclusion Principle** If an event *e* causes event *e\**, then there is no event *e#* such that *e#* is non-supervenient on *e* and *e#* causes *e\**.
 
 The conclusion of the argument is the mental events are supervenient on physical events, or more briefly that physicalism is true. For of course, if the thesis of Causal Closure is true then behavioral events have physical causes, and if mental events also cause behavioral events, then they must supervene on the physical if the exclusion principle is true.
 

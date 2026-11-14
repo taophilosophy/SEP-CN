@@ -9,15 +9,13 @@ This article provides a survey of classic and recent work in conditional logic. 
 
 Logics of conditionals deal with inferences involving sentences of the form “if *A*, (then) *B*” of natural language. Despite the overwhelming presence of such sentences in everyday discourse and reasoning, there is surprisingly little agreement about what the right logic of conditionals might be, or even about whether a unified theory can be given for all kinds of conditionals. The problem is not new, but can be traced back to debates between Megarian and Stoic logicians (see Sextus Empiricus, *Outlines of Scepticism* II, 110–112; Kneale & Kneale 1962; Sanford 1989; Weiss 2019)[^kneale-1962][^sanford-1989][^weiss-2019]. Famously, Philo of Megara proposed that a conditional of the form “if *A* then *B*” is true exactly when it is not the case that *A* is true and *B* is false. The same definition is at the core of the modern treatment of the conditional as so-called “material implication” in the two-valued propositional framework of Frege (1879) and Whitehead and Russell (1910).
 
-*Table 1:*
-
 |   | $B$ |   |   |
 | --- | --- | --- | --- |
 | $A \supset B$ | 1 | 0 |   |
 | $A$ | 1 | 1 | 0 |
 | 0 | 1 | 1 |   |
 
-Table 1: The material conditional
+*Table 1:* The material conditional
 
 This understanding of the conditional has considerable virtues of simplicity, and in that regard the material conditional analysis provides a benchmark for other theories. Probably its main virtue is that it lends itself to a truth-functional treatment (the truth value of a conditional is a function of the truth values of antecedent and consequent). A related one is that it makes the conditional interdefinable with Boolean negation, disjunction, and conjunction. A third, among the driving motivations for Frege, Russell and Whitehead, is that it appears adequate to regiment mathematical proofs involving conditional sentences. Despite that, as granted by Frege himself in the *Begriffsschrift*, it fails to do justice to some of the ways in which conditionals are ordinarily understood and used in natural language.
 
@@ -47,8 +45,6 @@ Logics of indicative conditionals, in so far as they are based on truth evaluati
 
 C. I. Lewis’s (1912) response to the paradoxes of the material conditional is his proposal of a strict conditional (aka “strict implication”, section 3). The strict conditional is no longer truth-functional, however. A closer kin to standard two-valued logic in this regard is the family of three-valued logics originating from the work of Łukasiewicz (1920), which retain truth-functionality. Łukasiewicz’s main motivation was not to deal specifically with conditionals, however, but with the notion of possibility. Łukasiewicz’s conditional is shown in Table 2. Łukasiewicz defines validity to be the preservation of the value 1 from premises to conclusion, as in two-valued logic. His operator retains the law of Identity $A>A$ and various classic schemata (such as Modus Ponens), but it also fails some classical properties (it is non-contractive, for example, failing the inference from $A>(A>B)$ to $A>B$). It agrees with the two-valued conditional on classical input, and it does not block the paradoxes of the material conditional.
 
-*Table 2:*
-
 |   | $B$ |   |   |   |
 | --- | --- | --- | --- | --- |
 | $A > B$ | 1 | ½ | 0 |   |
@@ -56,11 +52,9 @@ C. I. Lewis’s (1912) response to the paradoxes of the material conditional is 
 | $A$ | ½ | 1 | 1 | ½ |
 |   | 0 | 1 | 1 | 1 |
 
-Table 2: Łukasiewicz’s conditional
+*Table 2:* Łukasiewicz’s conditional
 
 Łukasiewicz’s work was a source of inspiration to Reichenbach, and subsequently to de Finetti, both of whom put forward the idea expressed earlier by Ramsey that a conditional must be indeterminate when its antecedent is false (see Reichenbach 1935, 1944; de Finetti 1936)[^finetti-1936][^reichenbach-1935][^reichenbach-1944]. Reichenbach deems *meaningless* the evaluation of a conditional $A>B$ when $A$ concerns some measurement rendered impossible by some other measurement (as predicted in quantum physics). For de Finetti, the idea is that a conditional sentence is like a bet. When someone bets that the card will be a king if it is a club, the bet should simply be called off if the card turns out to be of a different suit. On that basis, de Finetti proposed a table (sometimes called the “defective” conditional, see Baratgin et al. 2013, Over & Baratgin 2017)[^baratgin-2013][^over-2017] for what he calls the logic of tri-events, where a tri-event refers to “the event $B$ conditional upon event $A$”. The tri-event is true when both events are true, false when $A$ is true and $B$ false, and *null* otherwise (e.g., when $A$ is false).
-
-*Table 3:*
 
 |   | $B$ |   |   |   |
 | --- | --- | --- | --- | --- |
@@ -69,15 +63,13 @@ Table 2: Łukasiewicz’s conditional
 | $A$ | ½ | ½ | ½ | ½ |
 |   | 0 | ½ | ½ | ½ |
 
-Table 3: De Finetti’s conditional
+*Table 3:* De Finetti’s conditional
 
 As Table 3 shows, there is now a third truth value ½ (for “null” or “void” or “indeterminate”) beyond the classical values 1 (for “true”) and 0 (for “false”). This is why these logics are called *trivalent*. The conditional is no longer classically valued for classical input. Although Reichenbach and de Finetti considered the interplay of this conditional with other trivalent connectives, they did not investigate the logics resulting from that choice. Investigations of logics resulting from de Finetti’s table spread in a scattered way, often oblivious of the work of Reichenbach and de Finetti. One path was paved by remarks due to Quine (1950), crediting the work of Ph. Rhinelander on the idea that the assertion of a sentence of the form “if $A$ then $C$” is commonly felt “less as the assertion of a conditional than as a conditional assertion of the consequent” (see Jeffrey 1963; Cooper 1968; Belnap 1970, 1973; Manor 1975; Farrell 1979, 1986; Olkhovikov 2002; Huitink 2008)[^belnap-1970][^belnap-1973][^cooper-1968][^farrell-1979][^farrell-1986][^huitink-2008][^jeffrey-1963][^manor-1975][^olkhovikov-2002]. This view is known more broadly as the suppositional view (Adams 1975; Edgington 1995)[^adams-1975][^edgington-1995]. Another line of work was pursued in connection with algebraic treatments of probability, much in the spirit of de Finetti’s original work, who viewed trivalence as a way of representing the notion of conditional probability more qualitatively (see Schay 1968; Calabrese 1991; Dubois & Prade 1994; McDermott 1996; Milne 1997; Cantwell 2008; Rothschild 2014; Lassiter 2020)[^calabrese-1991][^cantwell-2008][^dubois-1994][^lassiter-2020][^mcdermott-1996][^milne-1997][^rothschild-2014][^schay-1968].
 
 ### 2.2 Some trivalent logics
 
 Amongst trivalent logics based on variations of de Finetti’s table, some systems stand out. First, there is Cooper’s logic **OL** and a close variant of it, Cantwell’s logic **CC/TT** (as named in Égré, Rossi, & Sprenger 2021, after Cooper and Cantwell)[^égré-2021], itself a fragment of the logic **LImp** of Olkhovikov (2002), which also incorporates a modal necessity operator. **OL** and **CC/TT **are defined for $L_2$, the full language allowing nested conditionals. Like de Finetti, Cooper (1968) handles the conditional as indeterminate when the antecedent is false (0). However, the conditional takes the value of the consequent when the antecedent is *not false* (either 1 or ½). Hence, instead of grouping ½ with 0, as de Finetti does, it groups ½ with 1. Table 4 was rediscovered independently by Olkhovikov (2002) and by Cantwell (2008), with very similar motivations in mind. It was also proposed by Belnap (1973), who presents it as a suitable modification from Belnap (1970), who first used the same table as De Finetti’s.
-
-*Table 4:*
 
 |   | $B$ |   |   |   |
 | --- | --- | --- | --- | --- |
@@ -86,7 +78,7 @@ Amongst trivalent logics based on variations of de Finetti’s table, some syste
 | $A$ | ½ | 1 | ½ | 0 |
 |   | 0 | ½ | ½ | ½ |
 
-Table 4: Cooper’s conditional
+*Table 4:* Cooper’s conditional
 
 Cooper, Olkhovikov, and Cantwell define an inference to be valid if the conclusion is not false whenever all the premises are not false, for all trivalent valuations of the language. A central feature of their systems is that the full deduction theorem holds (a feature also stressed by Jeffrey 1963 and Belnap 1973)[^belnap-1973][^jeffrey-1963]:
 
@@ -218,15 +210,13 @@ These preferences “rationalize” the selections made by $f$. This, however, w
 
 For each semantics, specific conditions can be imposed on frames in order to secure the validity of particular axioms or argument schemata. Their effects on the logic of conditionals have been studied in detail. For illustration we give the examples of two specific axioms and their correspondence properties in the three frameworks. Identity requires that every $A$-closest world be indeed an $A$-world. Conditional excluded middle corresponds to a uniqueness condition: there is at most one closest $A$-world.
 
-*Table 5:*
-
 |   | $A>A$ | $(A>B) \vee (A >\neg B)$ |
 | --- | --- | --- |
 | rm | $R_Avw \supset w\in A$ | $wR_Aw_1 \wedge wR_Aw_2 \supset w_1=w_2$ |
 | sf | $f(w,A)\subseteq A$ | $card(f(w,A))\leq 1$ |
 | o | $\forall x\,\forall y\,(\exists z(x\preceq_y z) \supset x\preceq_y x)$ | $\forall y\,\forall y'\,\forall w\,((y\in \lvert A\rvert^M_w \wedge \forall z(z\prec_{w}y \supset z\notin \lvert A\rvert^M_w))\supset {}$ $((y'\in \lvert A\rvert^M_w \wedge \forall z(z\prec_{w}y' \supset z\notin \lvert A\rvert^M_w))\supset y=y'))$ |
 
-Table 5: Some frame correspondence properties
+*Table 5:* Some frame correspondence properties
 
 We refer to Unterhuber and Schurz (2014) for a systematic presentation of frame correspondence properties for rm-frames, to Nute (1980), Girard (2007), and Raidl (2021) on the correspondence properties of sf-frames, and to Friedman and Halpern (1994) and Herzig (1996) on the correspondence properties of o-frames.
 
@@ -251,8 +241,6 @@ In order to present some central logics of conditionals based on the possible-wo
   | RMon | (Rational Monotonicity) $((A>B)\wedge \neg(A>\neg C))\supset((A\wedge C)>B)$ |
   | CEM | (Conditional Excluded Middle) $(A>B)\vee (A>\neg B)$ |
 
-*Table 6:*
-
 | Rules and axioms | Systems |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ck | CK | B | SS | NP | V | VW | VC | C2 |   |
@@ -271,7 +259,7 @@ In order to present some central logics of conditionals based on the possible-wo
 | CS |   |   |   | ✓ |   |   |   | ✓ | ✓ |
 | CEM |   |   |   | ✓ |   |   |   |   | ✓ |
 
-Table 6: Salient logics of conditionals. **Ck** and **CK** correspond to basic conditional logics; System **B** is due to Burgess; system **SS** to Pollock; system **NP** to Delgrande; systems **V**, **VW** and **VC** to D. Lewis; system **C2** to Stalnaker.
+*Table 6:* Salient logics of conditionals. **Ck** and **CK** correspond to basic conditional logics; System **B** is due to Burgess; system **SS** to Pollock; system **NP** to Delgrande; systems **V**, **VW** and **VC** to D. Lewis; system **C2** to Stalnaker.
 
 We highlight nine systems of conditional logic that have drawn particular attention.
 
@@ -409,11 +397,9 @@ $$\Gamma(w) = \{A\supset B,\, A\supset\neg C,\, \neg A\wedge(B\supset C)\},$$
 
 then we get that both $A>B$ and $B>C$ are true, but $A>C$ is false at $w$ (in fact, $A>\neg C$ is true; see Fig. 2). There are similar counterexamples to Monotonicity and Contraposition.
 
-*Figure 2:*
-
 ![a diagram: link to extended description below](../assets/logic-conditionals/figure2.svg)
 
-Figure 2: Counterexample against Transitivity in a premise model [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Counterexample against Transitivity in a premise model [An extended description of figure 2 is in the supplement.]
 
 ### 4.3 Correspondence with ordering semantics
 
@@ -481,11 +467,9 @@ Probabilistic validity and $p$-validity can be shown to coincide (Adams 1975: Th
 
 As in the semantics considered in sections 3 and 4, Monotonicity, Transitivity, and Contraposition fail in Adams’ semantics. Consider Transitivity: it is easy to construct models in which $\Pr(B\mkern2mu|\mkern2muA)=1$, $\Pr(C\mkern2mu|\mkern2muB)>1-\delta$ for positive, but arbitrarily small $\delta$, and yet $\Pr(C\mkern2mu|\mkern2muA)=0$ (see Fig. 3).
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/logic-conditionals/figure3.svg)
 
-Figure 3: Counterexample against Transitivity in an Adams model [An extended description of Figure 3 is in the supplement.]
+*Figure 3:* Counterexample against Transitivity in an Adams model [An extended description of Figure 3 is in the supplement.]
 
 This yields a counterexample according to either definition of probabilistic validity. Similar examples can be constructed for Monotonicity, Contraposition, and the paradoxes of the material conditional.
 
@@ -538,8 +522,6 @@ This result, however, is compatible with the idea that if-clauses fundamentally 
 
 Consider now $\Pr(A>C)$. Assume Stalnaker’s semantics for $A>C$; what does the probability of that conditional correspond to, if not the conditional probability? D. Lewis (1976) identifies a revision rule he calls *imaging*. Given $\Pr$, he defines $\Pr\mkern.1mu'_A$ to be the imaging under the antecedent, where $\Pr\mkern.1mu'_A(w)=0$ if $w$ is not an $A$-world; and if $w$ is an $A$-world, then $\Pr\mkern.1mu'_A(w)$ equals $\Pr(w)$ augmented by the sum of the non-$A$ worlds to which $w$ comes closest according to Stalnaker’s selection function. Lewis shows that the probability of Stalnaker’s conditional is the probability of the consequent under imaging by the antecedent. Whereas conditioning upon $A$ kills off the non-$A$ worlds and spreads their mass uniformly over the $A$-worlds, imaging upon $A$ is a different operation, which shifts the weight of non-$A$ worlds non-uniformly to the $A$-worlds depending on the selection function (see Fig. 4).
 
-*Figure 4:*
-
 ![a diagram: link to extended description below](../assets/logic-conditionals/figure4a.svg)
 
 (a) Conditionalization on $A$ results in posterior probabilities $\Pr'(u)=\frac{p}{p+q}$, $\Pr'(v)=\frac{q}{p+q}$ and $\Pr'(w)=0$.
@@ -548,7 +530,7 @@ Consider now $\Pr(A>C)$. Assume Stalnaker’s semantics for $A>C$; what does the
 
 (b) Imaging on $A$ results in posterior probabilities $\Pr'(u)=p+r$, $\Pr'(v)=q$ and $\Pr'(w)=0$.
 
-Figure 4: Example with $W=\{u,v,w\}$ and prior probabilities $\Pr(u)=p$, $\Pr(v)=q$ and $\Pr(w)=r$. In the figure a red dashed arrow from $x$ to $y$ represents that $y$ is the closest $A$-world to $x$ [An extended description of Figure 4 is in the supplement.]
+*Figure 4:* Example with $W=\{u,v,w\}$ and prior probabilities $\Pr(u)=p$, $\Pr(v)=q$ and $\Pr(w)=r$. In the figure a red dashed arrow from $x$ to $y$ represents that $y$ is the closest $A$-world to $x$ [An extended description of Figure 4 is in the supplement.]
 
 An example from Edgington (2020) can help to figure out the difference. Assume a stack of 100 straws, out of which 90 are 10 cm long, 1 is 11 cm long, and 9 are 20 cm long. Consider the conditional “if the straw is longer than 10 cm, then it is shorter than 15 cm”. Assume similarity between worlds is set by the closeness in lengths between straws. The probability of the set of worlds in which Stalnaker’s conditional is true is $\nicefrac{91}{100}$, since the 10-cm-straw worlds and the 11-cm-straw world are such that the closest world in which the straw is longer than 10 cm is indeed a world where it is less than 15 cm. But the conditional probability for the conditional is $\nicefrac{1}{10}$, since only one of the straws that are 11 cm or 20 cm long is less than 15 cm.
 

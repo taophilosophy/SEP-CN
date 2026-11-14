@@ -488,9 +488,9 @@ Appearances are *F* = *F* is among the extrinsic properties of substances
 
 In particular, this allows Langton to interpret (*Existence*) and (*Humility*) as:
 
-(*Existence**) Substances with intrinsic properties exist.
+(*Existence*\*) Substances with intrinsic properties exist.
 
-(*Humility**) We cannot cognize the intrinsic properties of substances.
+(*Humility\**) We cannot cognize the intrinsic properties of substances.
 
 The apparent tension between these doctrines has vanished. Langton’s interpretation also allows her to explain why the apparent tension between *Humility* and
 
@@ -498,7 +498,7 @@ The apparent tension between these doctrines has vanished. Langton’s interpret
 
 is merely apparent because, on her reading (Non-spatiality) is equivalent to:
 
-(*Non-spatiality**) Being spatial is not an intrinsic property of substances.
+(*Non-spatiality*\*) Being spatial is not an intrinsic property of substances.
 
 This is compatible with (Humility*) because we can know it merely by knowing that being spatial is an extrinsic property in general (thus is not an intrinsic property had by substances), and to know this we do not need to know anything about the intrinsic properties of substances. Langton thus offers a consistent, elegant interpretation of transcendental idealism that solves several of the oldest and hardest problems in the interpretation of Kant’s philosophy.[^note-48]
 
@@ -646,15 +646,13 @@ But the conjunction of this and (P2) does not entail (C); they are compatible wi
 
 We have seen some reasons to think that the resolutely anti-phenomenalist reading of Langton (1998) and the phenomenalist reading can be re-interpreted as, respectively, a non-identity reading and an identity reading. One reaction would be to conclude that the interpretive options are simply more complex than is usually appreciated:
 
-*Table 1*
-
 |   | **Non-Identity** | **Identity** |   |
 | --- | --- | --- | --- |
 | **Epistemic** | **Metaphysical** |   |   |
 | **Phenomenalist** | Aquila (1983), Van Cleve (1999), cf. section 3 | N/A | Adickes (1924), Westphal (1968) |
 | **Anti-phenomenalist** | Alternate version of Langton | Allison (1983/2004), Bird (1962), Prauss (1974) | Langton (1998), Allais (2006) |
 
-Table 1
+*Table 1*
 
 But the distinction between the two different versions of Langton, and between the non-identity version of phenomenalism (Aquila 1983; Van Cleve 1999)[^aquila-1983][^van-1999] and the identity version of phenomenalism (Adickes 1924; Westphal 1968)[^adickes-1924][^westphal-1968] is relatively recondite. It depends on the controversial assumption that assertions of identity between appearances and things in themselves, outside of practical contexts, have a content.
 
@@ -664,28 +662,24 @@ Furthermore, Henry Allison has recently argued that even his view is neutral on 
 
 Allison’s idea is that the distinction between the empirical and the transcendental standpoint is a distinction between how they consider objects *as a whole*, not how they consider particular objects. The Epistemic reading is not committed to Identity, but neither is it committed to Non-Identity. So an Identity version of the Epistemic reading is possible (according to which we can consider each object individually from either standpoint), as is an Epistemic reading that is neither an Identity nor a Non-Identity reading (on which we remain agnostic as to whether objects considered from one standpoint are numerically identical to objects considered from another).[^note-62] So we might conclude that our interpretive options are even more numerous than we initially thought:
 
-*Table 2*
-
 |   | **Neither Identity nor Non-Identity** | **Non-Identity** | **Identity** |   |
 | --- | --- | --- | --- | --- |
 | **Epistemic** | **Metaphysical** |   |   |   |
 | **Phenomenalist** | N/A | Aquila (1983), Van Cleve (1999), cf. section 3 | N/A | Adickes (1924), Westphal (1968) |
 | **Anti-phenomenalist** | Allison (1983/2004) | Alternate version of Langton | Bird (1962), Prauss (1974), alternate version of Allison (1983/2004), | Langton (1998), Allais (2006) |
 
-Table 2
+*Table 2*
 
 But notice we now have doubling of interpretations: identity and non-identity versions of Langton (1998), identity and non-identity versions of phenomenalist views, and identity and “neither identity nor non-identity” versions of Allison.
 
 However, if one thinks that claims of identity between appearances and things in themselves are contentless (see section 5.1), at least outside of the context of practical philosophy, then the menu of interpretive options will appear as:
-
-*Table 3*
 
 | **Phenomenalist** | **Anti-Phenomenalist** |   |
 | --- | --- | --- |
 | **Epistemic** | **Metaphysical** |   |
 | Aquila (1983), Van Cleve (1999), Adickes (1924), Westphal (1968), cf. section 3 | Allison (1983/2004), Bird (1962), Prauss (1974) | Langton (1998), Allais (2006) |
 
-Table 3
+*Table 3*
 
 On such a reading, there is no substance, outside of the practical context, to the question of whether an appearance is *numerically identical* to a thing in itself, so the identity and non-identity versions of, e.g., phenomenalism, are equivalent.[^note-63] If one holds instead that these identity claims have a content but that we cannot know them on theoretical grounds alone (see section 5.1) then one will likewise see these interpretive options as so constrained, because, although there is a difference in content between, say, the identity and non-identity versions of phenomenalism, Kant must be agnostic as to which is true.
 
@@ -884,15 +878,15 @@ Kant points to the distinction between “mere imagination” of objects (dreams
 
 requires her to slightly amend the “translation” rules from above, though, because otherwise *Affection* would entail that “affecting us” is an intrinsic property of substances, which she would deny. Langton’s reconstruction of Kant’s argument for Humility rests on the premise that the causal powers of substances by which they affect us do not supervene on their intrinsic properties. Consequently, *affect us* is not an intrinsic property of substances. Nonetheless, Langton can reinterpret *Affection* as:
 
-(*Affection**) Substances causally affect us in virtue of their powers, which do not supervene on their intrinsic properties.
+(*Affection*\*) Substances causally affect us in virtue of their powers, which do not supervene on their intrinsic properties.
 
 consistent with the spirit of her interpretation.
 
 [^note-49]: This requires a slight tweak in her definition of things in themselves and appearances:
 
-(*Things in themselves**) Things in themselves are substances with intrinsic properties, and extrinsic properties that supervene on intrinsic properties.
+(*Things in themselves*\*) Things in themselves are substances with intrinsic properties, and extrinsic properties that supervene on intrinsic properties.
 
-(*Appearances**) Appearances are non-supervenient extrinsic properties of substances.
+(*Appearances*\*) Appearances are non-supervenient extrinsic properties of substances.
 
 However, this is consistent with Langton’s overall reading because we can now say: our ignorance of things in themselves is ignorance of their intrinsic properties and the extrinsic properties that supervene on them. Since causal powers (on Langton’s reading) are non-supervenient extrinsic properties, we retain the result that things in themselves do not affect us.
 

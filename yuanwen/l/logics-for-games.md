@@ -19,11 +19,9 @@ Specific games stand for significant recurrent patterns of social interaction. I
 
 Consider the following game tree for two players *A*, *E*, with turns marked, and with pay-offs written with the value for *A* first. Alternatively, these values can be interpreted as encoding players’ qualitative (or ordinal) preferences between outcomes.
 
-*Figure 1.*
-
 ![This is a game tree diagram illustrating what is described in the paragraph following the figure. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig1.svg)
 
-Figure 1. ⓘ
+*Figure 1.* ⓘ
 
 Here is how players might reason. At her turn, *E* faces a standard decision problem, with two available actions and the outcome of action *left* better for her than that of *right*. So she will choose left. Knowing this, *A* expects that his choosing *right* will give him outcome 0, while going *left* gives him outcome 1, so he chooses left. As a result, both players are worse off than they would have been, had they played *right*/*right*. The reasoning in this scenario, in short, leads to an outcome that is not Pareto-optimal.
 
@@ -45,11 +43,9 @@ In this way, the usual logical techniques can be brought to bear. For instance, 
 
 Consider the following game tree, with move relations for both players, and propositional letters $\win_{i}$ marking winning positions for player *i*.
 
-*Figure 2.*
-
 ![A game tree with extended description in the link in the caption below](../assets/logics-for-games/fig2.svg)
 
-Figure 2. ⓘ
+*Figure 2.* ⓘ
 
 Clearly, player *E* has a winning strategy against player *A*, i.e., a recipe that guarantees her to win, no matter what *A* does. This is expressed by a modal formula capturing exactly the right dynamics:
 
@@ -127,11 +123,9 @@ The starting point of any logical analysis is to fix its perspective on games. T
 
 **Example** A two-player extensive form game.
 
-*Figure 3.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig3.svg)
 
-Figure 3. ⓘ
+*Figure 3.* ⓘ
 
 A game in *extensive form* is a tree where each non-terminal node or *state* specifies which player is to move next, while edges correspond to the players’ possible moves. The leaves of the tree, finally, denote the possible outcomes *O* of game play. There are many possible variations on these stipulations for states and moves, but they do not affect the essentials of a logical analysis.
 
@@ -155,11 +149,9 @@ With different ways of representing a game at hand, there is a natural follow up
 
 **Example** The same game, or not?
 
-*Figure 4.*
-
 ![This has two game tree diagrams illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig4.svg)
 
-Figure 4. ⓘ
+*Figure 4.* ⓘ
 
 Consider the two game forms above. If one cares about exact sequences of moves or the choices players have along the way, these games are different. The game to the left has *A* move first, while *E* begins in the game on the right. In the game on the right, *A* may face a choice between *p* and *q*. This cannot happen on the left.
 
@@ -171,11 +163,9 @@ As this example illustrates, there are several legitimate ways of comparing game
 
 **Example** A bisimulation between games.
 
-*Figure 5.*
-
 ![This has two game tree diagrams illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig5.svg)
 
-Figure 5. ⓘ
+*Figure 5.* ⓘ
 
 This particular notion of bisimulation is not the only invariance that makes sense for games. A more coarse-grained perspective, for instance, might not distinguish moves by their particular action types, but merely by which player is to perform them. A corresponding bisimulation can be defined by omitting references to particular action types in conditions (*iii*a) and (*iii*b) above.
 
@@ -193,11 +183,9 @@ For a start, if one is interested in the properties a player can bring about thr
 
 **Example** Modal game language.
 
-*Figure 6.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig6.svg)
 
-Figure 6. ⓘ
+*Figure 6.* ⓘ
 
 The modal formula $[\move_A]\langle \move_E\rangle \win_E$, true at root *r*, expresses that *E* has a strategy that ensures her a win in two steps: whatever *A* does, *E* can react in such a way that she ends up in a node where she wins. In a more fine-grained perspective, the modal language could add expressions $[a],[b]\ldots$ for specific move types $a,b,\ldots$. In this language, the coarse-grained modality $\langle \move_i\rangle \varphi$ is definable by the disjunction $\bigvee_{a\text{ is a move for }i}\langle a \rangle\varphi$, making the new language a refinement of the old.
 
@@ -235,11 +223,9 @@ Besides extensive form games, standard modal logic is also suitable for the powe
 
 **Example** Powers in extensive games.
 
-*Figure 7.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig7.svg)
 
-Figure 7. ⓘ
+*Figure 7.* ⓘ
 
 Notably, forcing powers are not closed under conjunction. In the game above, agent *A* can force *p* and *q* individually without being able to force $p \land q$. In modal logic terms, forcing powers give rise to a *neighborhood logic* (Pacuit 2017)[^pacuit-2017][^pacuit-2017-2], where the neighborhood functions list the set of outcomes players can enforce from a given state. Reasoning about forcing powers can then employ a logical language with forcing modalities $\{i\}$ for each player:
 
@@ -377,11 +363,9 @@ In the classical picture, player *i*’s preferences on a game tree are represen
 
 **Example** A game tree with preferences.
 
-*Figure 8.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig8.svg)
 
-Figure 8. ⓘ
+*Figure 8.* ⓘ
 
 Just as with the earlier modal logics for game forms, a relatively simple logical formalism can already express relevant aspects of agency in games. It offers a low-complexity language for stating basic features of action and information, without going into details of the underlying quantitative mechanisms. More precisely, games with preferences naturally support a logic with modal operators $[\preceq_i]$ interpreted as:
 
@@ -421,11 +405,9 @@ Here is how this bottom-up procedure works in practice.
 
 **Example** Backward Induction.
 
-*Figure 9.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig9.svg)
 
-Figure 9. ⓘ
+*Figure 9.* ⓘ
 
 This procedure is a qualitative version of classic game theory’s Backward Induction, which is based on utility values rather than preference relations (Leyton-Brown & Shoham 2008)[^leyton-brown-2008][^shoham-2008].
 
@@ -480,11 +462,9 @@ Within *extensive games with imperfect information*, all such cases are represen
 
 **Example** A game with imperfect information.
 
-*Figure 10.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig10.svg)
 
-Figure 10. ⓘ
+*Figure 10.* ⓘ
 
 While allowing agents to lack information of various kinds, the above analysis makes one structural assumption about players: they always know which moves are available to them at a given node. In extensive games with imperfect information, this translates to the requirement that whenever two states are indistinguishable to some agent, they coincide on the set of her possible actions.
 
@@ -506,11 +486,9 @@ In light of these considerations, many logics for defining strategies involve ep
 
 The epistemic action language can express many further phenomena in imperfect information games. The following game is an illustration.
 
-*Figure 11.*
-
 ![This is a game tree diagram. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig11.svg)
 
-Figure 11. ⓘ
+*Figure 11.* ⓘ
 
 Once player *E* arrives at node *n*, she cannot discern that actual situation from node $n'$. However, *E* must have possessed information earlier on that distinguishes *n* from $n'$: to arrive at *n*, she must have played *a* as her first choice, while $n'$ can only be reached after playing *b*. Thus, *E* can only be uncertain between these two nodes if she forgot about her own previous actions.
 
@@ -534,19 +512,15 @@ In more general settings, uncertainty does not stop at the opponents’ informat
 
 In a first pass, this type of uncertainty can be expressed by introducing nature as hypothetical player, with a first move that determines the preferences and available options for all players. A simple example is the game depicted below. At the start, *A* is uncertain whether *E* can reply to *A*’s move *f* by playing *e*. Likewise, she lacks information on whether *E* prefers $O_3$ over $O_4$, or vice versa.
 
-*Figure 12.*
-
 ![This is a game tree diagram for the previous paragraph. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig12.svg)
 
-Figure 12. ⓘ
+*Figure 12.* ⓘ
 
 From a logical point of view, this miraculous initial move by Nature is not needed. Standard epistemic models can represent the above scenario, and many more complex ones, by means of the indistinguishability relations introduced above. Technically, this requires to move beyond standard imperfect information trees to so-called *epistemic forests* (van Benthem, Gerbrandy, Hoshi, & Pacuit 2009)[^benthem-2009][^benthem-2009-2][^benthem-2009-3], sets of trees linked by epistemic relations. In particular, the above game tree transforms into
 
-*Figure 13.*
-
 ![This has two game tree diagrams. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig13.svg)
 
-Figure 13. ⓘ
+*Figure 13.* ⓘ
 
 The epistemic action language for trees works just as well on epistemic forests. However, in suitably expressive languages, the logic of forests is weaker than that of trees, as the set of validities on the class of *n*-player trees is a strict superset of the validities on *n*-player forests.
 
@@ -556,11 +530,9 @@ Further enrichments of the logical framework add semantic structure to the agent
 
 In the preceding example, plausibility order might work as follows:
 
-*Figure 14.*
-
 ![This has two game tree diagrams. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig14.svg)
 
-Figure 14. ⓘ
+*Figure 14.* ⓘ
 
 This richer structure is reflected by introducing new modalities for agents’ beliefs, determined by the most plausible states:
 
@@ -654,11 +626,9 @@ The semantics of announcement updates works by trimming models. $!\varphi$ trans
 
 Consider the following game, already introduced in Section 1.1. Iterated announcements of $!\rat $ removes nodes that can only be reached by dominated moves as long as this can be done. The trace of this procedure is:
 
-*Figure 15.*
-
 ![This has three game tree diagrams illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig15.svg)
 
-Figure 15. ⓘ
+*Figure 15.* ⓘ
 
 Here, the Backward Induction solution emerges step by step. Stage 1 of the procedure rules out the leaf labeled with ($2,2$) as the only point where $\rat $ fails. Stage 2 then rules out *E*’s choice node as new node where $\rat$ fails. In the resulting game tree, $\rat $ holds throughout.
 
@@ -688,11 +658,9 @@ If *y* is dominated in belief by *x*, make all end nodes following *x* more plau
 
 Here are the stages for the new procedure in the preceding example, where the letters $x, y, z$ stand for end nodes or histories of the game:
 
-*Figure 16.*
-
 ![This has three game tree diagrams illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig16.svg)
 
-Figure 16. ⓘ
+*Figure 16.* ⓘ
 
 In the top node of the leftmost tree, going right is not dominated in beliefs for player *A* by going left. So, $\rat ^*$ only affects *E*’s turn, and radical upgrade with $\Uparrow\rat ^*$ makes $(0, 3)$ more plausible than $(2,2)$ . After this change, going right has become dominated in beliefs in the top node, and a new upgrade takes place, making *A*’s going left most plausible.
 
@@ -780,11 +748,9 @@ It should be noted, that there are also more deductive takes on solution concept
 
 Consider the following game. *E* has no preferences between any outcomes, but *A* does, as marked by the utility values.
 
-*Figure 17.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig17.svg)
 
-Figure 17. ⓘ
+*Figure 17.* ⓘ
 
 In the earlier BI analysis, neither move for *A* dominates the other in beliefs, so no move is eliminated. Now consider the two possible strategy profiles of each player and compute Nash equilibria:
 
@@ -808,27 +774,21 @@ In a first approximation, every move triggers a public announcement, informing a
 
 The left-hand side of the following diagram displays the game’s bare action structure, without any information on observability. However, when moving, players can distinguish their own actions, but not all moves of their opponents. Their precise observational powers are described by *event models* for the individual moves (cf. van Ditmarsch, van der Hoek, & Kooi 2007)[^ditmarsch-2007][^hoek-2007].
 
-*Figure 18.*
-
 ![This is a game tree diagram and an Event Model illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig18.svg)
 
-Figure 18. ⓘ
+*Figure 18.* ⓘ
 
 The observational structure on possible moves is encoded by relations between the corresponding nodes, as described for games of imperfect information (Section 3.6). Here are the successive updates that create the uncertainty links in the tree:
 
-*Figure 19.*
-
 ![This three diagrams representing the updates. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig19.svg)
 
-Figure 19. ⓘ
+*Figure 19.* ⓘ
 
 The resulting annotated tree is the following imperfect information game:
 
-*Figure 20.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig20.svg)
 
-Figure 20. ⓘ
+*Figure 20.* ⓘ
 
 A similar analysis applies to infinite trees as well as to epistemic forests (cf. Section 3.6). More generally, any imperfect information structure can arise from information updates, provided players satisfy perfect recall and no miracles, and moves in the game have logically definable preconditions governing their availability. Precise formulations and proofs can be found in van Benthem, Gerbrandy, Hoshi, and Pacuit (2009). A generalization to game play without assumption of synchronicity is provided in Dégremont, Löwe, and Witzel (2011).
 
@@ -846,11 +806,9 @@ These results refer to but one aspect of belief in games. There are others. A fu
 
 More explicitly, the situation has the following aspects. At any stage of a game, players have several types of information, including their prior expectations of how the game would proceed and the perhaps surprising observations made along the way. If the game is to continue further, as in the state marked below, agents need to integrate both into expectations about the future course of the game.
 
-*Figure 21.*
-
 ![This is a game tree diagram illustrating the previous paragraph. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig21.svg)
 
-Figure 21. ⓘ
+*Figure 21.* ⓘ
 
 **Rationalizing** There is no unique best way of integrating information of the various kinds. Yet, a natural option is to maintain the assumption of opponents’ rationality, taken in the earlier sense. Assuming preferences to be common knowledge, observed moves hence provide new information about the opponent’s belief. More specifically, these beliefs have two components: expectations about what other players will do, and intentions about their own future actions. The driving principle will then be
 
@@ -862,11 +820,9 @@ Reasoning policies of the above type are called *Forward Induction*. Battigalli 
 
 **Example** A Forward Induction scenario.
 
-*Figure 22.*
-
 ![This is a game tree diagram illustrating the example. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig22.svg)
 
-Figure 22. ⓘ
+*Figure 22.* ⓘ
 
 In the matrix game, no move dominates any other. Hence *E* should consider all outcomes possible. In this case, going *left* is safer for her than going *right*, and hence *A* should play *Left* at the start. However, if *E* rationalizes, and observes *A* going *Right*, she has extra information available at her choice node. Following the rationality assumption, *A* expects to do better than 3, which is only possible if he intends to play *Up* in the matrix game. Now this tells *E* to proceed to the matrix and play the *left* column therein. *E*’s results in a better payoff than the 2 of her original safe option.
 
@@ -888,11 +844,9 @@ Assuming an extended infinite temporal perspective raises additional questions a
 
 **Temporal logics** While infinite game forms were briefly alluded to in Section 2.10, infinite play focuses on agency over time. A host of temporal logics for this end have been put forward, including interpreted systems (Fagin, Halpern et al. 1995)[^fagin-1995], epistemic-temporal logic (Parikh & Ramanujam 2003)[^parikh-2003], STIT (Belnap & Perloff 1988; Horty & Belnap 1995)[^belnap-1988][^horty-1995], ATL (Alur, Henzinger, & Kupferman 2002; van der Hoek & Wooldridge 2003)[^alur-2002][^hoek-2003], and others. Many of these systems combine multiple modalities. Consequentially, their complexity can be very high (undecidable, non-axiomatizable, or even non-arithmetical), as Halpern & Vardi (1986) show in a pioneering study for the case of combining time and knowledge. Surveying this area is beyond the scope of this entry, cf. the entry on temporal logics. A unifying view of connections between the various paradigms is presented in van Benthem and Pacuit (2006).
 
-*Figure 23.*
-
 ![This is a tree diagram. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig23.svg)
 
-Figure 23. ⓘ
+*Figure 23.* ⓘ
 
 Just as with finite games, players’ preferences must be specified for studying equilibria in potentially infinite games. In lack of outcome nodes or final moments to attach preferences to, these are naturally thought of in terms of players’ goals, expressed as properties the game’s histories should satisfy. Such goals can be local propositional facts true at some particular moment. But goals can also concern global properties of histories such as avoiding or reaching the same position some specified number of times, or more abstractly, achieving safety or fairness in some appropriate sense. All such properties can be specified in temporal logics. For the case of Linear Temporal Logic (*LTL*), the ‘Boolean games’ of Gutierrez, Harrenstein, and Wooldridge (2015) have developed the temporal goal based approach in depth. Notably, this framework validates a logical version of the ‘folk theorem’ for iterated games, cf. Osborne & Rubinstein (1994): Under natural conditions on goals, iterated games can have novel equilibria not supervenient on the base game’s Nash equilibria. Further significant uses of temporal logics connect game theory with belief revision theory (Battigalli & Bonanno 1999; Perea 2012; Stalnaker 1998)[^battigalli-1999][^perea-2012][^stalnaker-1998].
 
@@ -1049,11 +1003,9 @@ The distinction between game logics and logic games is not always sharp. Recent 
 
 Sabotage games were proposed to analyze algorithmic tasks in adverse circumstances. Consider the below network between some European cities:
 
-*Figure 24.*
-
 ![This is a diagram of four cities in a ring around the fifth. The extended description (link in figure caption) will describe the tree.](../assets/logics-for-games/fig24.svg)
 
-Figure 24. ⓘ
+*Figure 24.* ⓘ
 
 It is easy to travel either way between Amsterdam and the German town of Saarbruecken. Now, let a malevolent Demon start canceling connections in the network. At every stage, let the Demon take out one link, while the Traveler can afterwards follow one of the remaining links. This turns a one-agent planning problem into a two-player sabotage game. Zermelo-style reasoning shows that, from Saarbruecken, a German Traveler still has a winning strategy, while in Amsterdam, the Demon has the winning strategy against the Dutch Traveler, by first cutting a link close to Saarbruecken. The symmetry of the original search problem is broken.
 

@@ -101,11 +101,9 @@ Let’s see how intuition, deduction, and enumeration work in practice. Descarte
 
 A clear example of the application of the method can be found in Rule 8, where Descartes discusses how to deduce the shape of the anaclastic line, i.e., the shape of the lens from which parallel rays of light are refracted towards a common point, as they are in eyeglasses or telescopes (see Fig. 1).
 
-*Figure 1:*
-
 ![Result for anaclastic lens: 3 straight rays heading into and through the flat side of the lens but bend when reaching the curved side to then intersect beyond the curved side and continue](../assets/descartes-method/fg-anaclastic.png)
 
-Figure 1: Anaclastic Lens.
+*Figure 1:* Anaclastic Lens.
 
 The problem of the anaclastic is a complex, imperfectly understood problem. It needs to be reduced to a ordered series of simpler problems by means of enumeration₂. Once the problem has been reduced to its simplest component parts, the simplest problem in the series must be solved by means of intuition, and the more complex problems in the series must be solved by means of deduction.
 
@@ -179,11 +177,9 @@ Just as the motion of a ball can be affected by the bodies it encounters, so too
 
 > so thin and finely woven that the ball has enough force to puncture it and pass right through, losing only some of its speed (say, a half) in doing so. (AT 7: 97, CSM 1: 158; see Fig. 2)
 
-*Figure 2:*
-
 ![illustration from Descartes’ work showing a man hitting a tennis ball which hits the ground and deflects. Link to extended description and SVG diagram below](../assets/descartes-method/fg-tennis.png)
 
-Figure 2: Descartes’ tennis-ball model of refraction (AT 6: 98, CSM 1: 159, D1637: 11 (view 95)). [An extended description and SVG diagram of figure 2 is in the supplement.]
+*Figure 2:* Descartes’ tennis-ball model of refraction (AT 6: 98, CSM 1: 159, D1637: 11 (view 95)). [An extended description and SVG diagram of figure 2 is in the supplement.]
 
 Not every property of the tennis-ball model is relevant to the action of light, and those that are not relevant can be excluded from consideration. We can leave aside
 
@@ -225,11 +221,9 @@ He designs a *model* that will enable him to acquire more observations about of 
 
 > discovered that, for example, when the sun came from the section of the sky marked AFZ, and my eye was at point E, then when I put this ball in the location BCD, its part D appeared to me completely red and incomparably more brilliant than the rest […]. (AT 6: 325–326, MOGM: 332; see Fig. 3).
 
-*Figure 3:*
-
 ![link to extended description below](../assets/descartes-method/fg-flask.png)
 
-Figure 3: Descartes’ flask model of sunlight acting on water droplets (MOGM: 333). [An extended description and SVG diagram of figure 3 is in the supplement.]
+*Figure 3:* Descartes’ flask model of sunlight acting on water droplets (MOGM: 333). [An extended description and SVG diagram of figure 3 is in the supplement.]
 
 As Descartes surely knew from experience, red is the last color of the primary rainbow (located in the uppermost section of the bow) and the first color of the secondary rainbow (located in the lowermost section of the bow). As he also must have known from experience, the red in the primary rainbow is much brighter than the red in the secondary rainbow. Consequently, Descartes’ observation that D appeared completely red and more brilliant than all other parts of the flask must have immediately struck him as significant and promising. He therefore proceeded to explore the relation between the rays of the sun, the position of his eyes, and the brightness of the red at D by varying the conditions, observing what changes and what remains the same in order to more precisely determine the relevant factors. The brightness of the red at D is not affected by placing the flask to the right or to the left of the observer, nor by the observer turning round the flask, so long as the angle DEM remains the same. When Descartes measures it, the angle DEM is 42º. Therefore, it is the 42º angle the eye makes with D and M at DEM alone that plays a role in the appearance of the brighter red at D. Having identified the measure of angle DEM, Descartes then varies the angle in order to determine what other changes, if any, occur. This enables him to correlate the decrease in the angle to the appearance of other colors in the flask:
 
@@ -259,11 +253,9 @@ Descartes next examines what he describes as the “principal difficulty”. Sup
 
 The principal function of the comparison is to determine whether the factors that produce the colors of the rainbow in water can be found in other media. Descartes decides to examine the production of these colors in a prism (see Fig. 4). Prisms are differently shaped than water, produce the colors of the rainbow without any reflections, and with only one refraction. These conditions are rather different than the conditions in which the colors of the rainbow are produced in a flask. Clearly, then, the true cause of the rainbow has not yet been fully determined.
 
-*Figure 4:*
-
 ![Image of Descartes prism. link to extended description below](../assets/descartes-method/fg-sun.png)
 
-Figure 4: Descartes’ prism model (AT 6: 330, MOGM: 335, D1637: 255). [An extended description and SVG diagram of figure 4 is in the supplement.]
+*Figure 4:* Descartes’ prism model (AT 6: 330, MOGM: 335, D1637: 255). [An extended description and SVG diagram of figure 4 is in the supplement.]
 
 In the prism model, the rays emanating from the sun at ABC “cross MN at right angles, or nearly so, so that they do not undergo any noticeable refraction there”, but “suffer a fairly great refraction in coming out through NP” (AT 6: 329–330, MOGM: 335). Furthermore, it is only when the two sides of the bottom of the prism NP are covered by a dark body of some sort, so that the rays could only exit through the narrow opening at DE, that the rays paint all the colors of the rainbow on the cloth or white paper FGH, always producing red at F, and blue or violet at H (ibid.). By comparing differences between the flask and the prism, Descartes learns “that the surfaces of the drops of water need not be curved in order to produce these colors, for those of this crystal are completely flat”. He also learns that “the angle under which they appear need not be any particular size, for it can be changed here without their changing” (ibid.). Here, Descartes is referring to the angle of refraction (e.g., HEP), which can vary between the flask and the prism and yet produce the same effect, and which can also be the same for rays ABC in the prism at DE and yet produce different colors at FGH. He further learns that
 
@@ -295,21 +287,17 @@ The balls that compose the ray EH have a weaker tendency to rotate, while those 
 
 The rays coming toward the eye at E are clustered at definite angles in the flask, and these angles determine which rays reach our eyes and which rays do not (see Fig. 5).
 
-*Figure 5*
-
 ![Image from Descartes’ book; link to extended description and SVG diagram below](../assets/descartes-method/fg-rainbow.png)
 
-Figure 5 (AT 6: 328, D1637: 251). [An extended description and SVG diagram of figure 5 is in the supplement.]
+*Figure 5* (AT 6: 328, D1637: 251). [An extended description and SVG diagram of figure 5 is in the supplement.]
 
 At DEM, which has an angle of 42º, the red of the primary rainbow appears, and below it, at slightly smaller angles, appear the remaining colors of the primary rainbow (orange, yellow, green, blue, violet). At KEM, which has an angle of about 52º, the fainter red of the secondary rainbow appears, and above it, at slightly larger angles, appear the remaining colors of the secondary rainbow (orange, yellow, green, blue, violet). The neighborhood of the two principal angles DEM and KEM alone receive a sufficient number of rays to produce all the colors of the primary and secondary rainbows. Beyond them, there lies only “shadow”, i.e., light rays that, due to their small number, produce no color. The conditions under which colors are produced in the prism do indeed faithfully reproduce those in which the colors of the rainbow are naturally produced, and together the flask, the prism, and Descartes’ physics of light deduce all of the effects of the rainbow.
 
 The structure of the deduction is exhibited in Figure 6.
 
-*Figure 6:*
-
 ![a diagram: link to extended description below](../assets/descartes-method/fg-rainbow-deduction.svg)
 
-Figure 6: Descartes’ deduction of the rainbow (Garber 2001: 100)[^garber-2001]. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Descartes’ deduction of the rainbow (Garber 2001: 100)[^garber-2001]. [An extended description of figure 6 is in the supplement.]
 
 ## 8. The Method in Mathematics
 
@@ -325,8 +313,6 @@ These lines can only be found by means of the addition, subtraction, multiplicat
 
 A very elementary example of how multiplication may be performed on lines can be seen in the problem of squaring a line. Let line *a* be the given line, and let it be required to multiply *a* by itself $(x=a^2).$ To find the value of *x*, I simply construct the square $a^2$ below (see Fig. 7):
 
-*Figure 7:*
-
 ![a line ](../assets/descartes-method/fg-lsc-a-line.svg)
 
 $a$
@@ -339,17 +325,15 @@ $a^2$
 
 $a^3$
 
-Figure 7: Line, square, and cube. The problem of dimensionality.
+*Figure 7:* Line, square, and cube. The problem of dimensionality.
 
 This example clearly illustrates how multiplication may be performed on lines, but its simplicity conceals a problem. Descartes’ predecessors regarded geometrical constructions of arithmetical operations in an extremely limited way: due to the fact that in geometry there are only three spatial dimensions, multiplication beyond the cube proved difficult. A number can be represented by a line, the square of a number by a surface (a square), and the cube of a number by a solid (a cube), but beyond the solid, there are no more dimensions in which to represent the multiplication of $n > 3$ lines (see Mancosu 2008: 112)[^mancosu-2008] (see Fig. 7). The “problem of dimensionality”, as it has since come to be known, constituted a serious obstacle to the use of algebra in geometry (ibid.). Suppose the problem is to raise a line to the fourth power $(x=a^4).$ For Descartes’ predecessors, this made absolutely no geometrical sense.
 
 Descartes solved the problem of dimensionality by showing how arithmetical operations performed on lines never transcend the line. For example, if line AB is the unit (see Fig. 8), and I want to multiply line BD by BC, “I have only to join the points A and C, then to draw DE parallel CA, and BE is the product of this multiplication” (AT 6: 370, MOGM: 177–178). Descartes’ procedure is modeled on similar triangles (two or more triangles whose sides may have different lengths but whose angles are equal). The sides of all similar triangles are proportional to one another (e.g., triangle ACB is similar to triangle DEB, such that BC is proportional to BE and BA is proportional to BD, etc.) (see Euclid’s [*Elements* VI.4–5](https://mathcs.clarku.edu/~djoyce/java/elements/bookVI/propVI4.html) [1908: [2] 200–204]). By exploiting the theory of proportions, Descartes could easily show that BA:BD=BC:BE, or $1:a=b:c$ (e.g., $1:2=2:4,$ so that $2•2=4,$ etc.), in which case $a•b=c$ or $\textrm{BD}•\textrm{BC}=\textrm{BE}.$ The multiplication of two or more lines never produces a square or a solid, but only another line segment that bears a definite (proportional) relation to the other line segments. All magnitudes can easily be compared to one another as lines related to one another by some measure or proportion, effectively opening the door to the unrestricted use of algebra in geometry.
 
-*Figure 8*
-
 ![Image from Descartes work. Two lines meet at point B to form an acute angle; points D and A with D further from B are on the lower line and points E and C with point E further from B are on the upper line; a line segment connects D and E and also A and C. Link to SVG diagram and extended description below](../assets/descartes-method/fg-two-lines.png)
 
-Figure 8 (AT 6: 370, MOGM: 178, D1637: 298). [An extended description and SVG diagram of figure 8 is in the supplement.]
+*Figure 8* (AT 6: 370, MOGM: 178, D1637: 298). [An extended description and SVG diagram of figure 8 is in the supplement.]
 
 Having explained how multiplication and other arithmetical operations can be employed in geometry (AT 6: 369–370, MOGM: 177–178), Descartes proceeds to describe how the method should be applied to problems in geometry:
 
@@ -359,11 +343,9 @@ This is the method of analysis, which will also find some application in metaphy
 
 Descartes provides an easy example in *Geometry* I. The line segments *a* and *b* are given, and I must construct a line *x* such that $x^2 = ax+b^2.$ The construction proceeds as follows (see Fig. 9).
 
-*Figure 9*
-
 ![Image from Descartes. A circle (dotted) with a center of N and bisected by the line segment OP (with O at approximately 160 degrees and P at -20 degrees). Point L is on the circle at -90 degrees from N. The line segment OP extends beyond the circle to intersect at point M with a horizontal line extending from L. Link to SVG diagram and description below](../assets/descartes-method/fg-circle.png)
 
-Figure 9 (AT 6: 375, MOGM: 181, D1637: 302). [An extended description and SVG diagram of figure 9 is in the supplement.]
+*Figure 9* (AT 6: 375, MOGM: 181, D1637: 302). [An extended description and SVG diagram of figure 9 is in the supplement.]
 
 First, I draw a right-angled triangle NLM, such that $\textrm{LN} = 1/2 a$, $\textrm{LM} = b$ and the angle $\textrm{NLM} = 90º.$
 

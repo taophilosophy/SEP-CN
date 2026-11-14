@@ -85,7 +85,7 @@ On the other hand, the criterion of identity for sets given by the Axiom of Exte
 
 Not all criteria of identity can be two-level (on pain of infinite regress), and it is tempting to think that the distinction between objects for which a two-level criterion is possible and those for which only a one-level criterion is possible coincides with that between abstract and concrete objects (and so, that a two-level criterion for sets must be possible).
 
-However, a more general application of the two-level notion is possible. In fact, it can be applied to any type of object *K*, such that the criterion of identity for *K*s can be thought of as an equivalence relation between a distinct type of object, *K**s, but some such objects may intuitively be regarded as concrete.
+However, a more general application of the two-level notion is possible. In fact, it can be applied to any type of object *K*, such that the criterion of identity for *K*s can be thought of as an equivalence relation between a distinct type of object, *K*\*s, but some such objects may intuitively be regarded as concrete.
 
 How general this makes its application is a matter of controversy. In particular, if persisting things are thought of as composed of (instantaneous) temporal parts (see discussion below), the problem of supplying a diachronic criterion of identity for persisting concrete objects can be regarded as the problem of providing a two-level criterion. But if persisting things are not thought of in this way then not all persisting things can be provided with two-level criteria. (Though some can. For example, it is quite plausible that the criterion of identity over time for persons should be thought of as given by a relation between bodies.)
 

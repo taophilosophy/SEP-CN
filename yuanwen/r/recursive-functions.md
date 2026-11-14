@@ -948,11 +948,9 @@ The Recursion Theorem is sometimes also referred to as the *Fixed Point Theorem*
 
 As it may at first appear such an $n$ is defined in a circular manner, it is also *prima facie* unclear why such a program must exist. Indeed Soare (2016: 28–29) remarks that the foregoing proof of the Recursion Theorem is “very short but mysterious” and is “best visualized as a diagonal argument that fails”. In order to clarify both this comment and the proof, consider the matrix depicted in Figure 1 whose rows $R_i$ enumerate not the values of partial computable functions but rather the functions themselves—i.e., the row $R_i$ will contain the functions $\phi_{\phi_i(0)}, \phi_{\phi_i(1)}, \ldots$ with the understanding that if $\phi_i(j) \uarrow$, then $\phi_{\phi_i(j)}$ denotes the totally undefined function. (Such a depiction is originally due to Owings 1973.)[^owings-1973]
 
-*Figure 1:*
-
 $$\begin{matrix} \phi_{\phi_{0}(0)} & \phi_{\phi_{0}(1)} & \ldots & \phi_{\phi_{0}(i)} & \ldots& \phi_{\phi_{0}(d)} & \ldots& \phi_{\phi_{0}(h_{f}(i))}& \ldots\\ \phi_{\phi_{1}(0)} & \phi_{\phi_{1}(1)} & \ldots & \phi_{\phi_{1}(i)} & \ldots& \phi_{\phi_{1}(d)} & \ldots& \phi_{\phi_{1}(h_{f}(i))}& \ldots\\ ⋮&& ⋱ &&&&&⋮\\ \phi_{\phi_{i}(0)} & \ldots & \ldots & \phi_{\phi_{i}(i)} & \ldots & \phi_{\phi_{i}(d)} & \ldots& \phi_{\phi_{i}(h_{f}(i))} & \ldots \\ ⋮& & & & ⋱ & &&⋮\\ \phi_{\phi_{d}(0)} & \ldots& \ldots& \phi_{\phi_{d}(i)} & \ldots& \phi_{\phi_{d}(d)} & \ldots& \phi_{\phi_{d}(h_{f}(i))}& \ldots& \phi_{\phi_{d}(h_{f}(d))} \ldots\\ ⋮& & & & & & ⋱ & &&\uarrow\\ \phi_{\phi_{h_{f}(i)}(0)}& \ldots & \ldots& \phi_{\phi_{h_{f}(i)}(i)}& \ldots& \phi_{\phi_{h_{f}(i)}(d)}& \ldots& \phi_{\phi_{h_{f}(i)}(h_{f}(i))}& \ldots & \simeq \\ ⋮& & & & & && & ⋱ &\darrow\\ \phi_{\phi_{h_{f}(d)}(0)}& \ldots& \ldots& \phi_{\phi_{h_{f}(d)}(i)}& \ldots& \phi_{\phi_{h_{f}(d)}(d)}& \ldots& \phi_{\phi_{h_{f}(d)}(h_{f}(i))}& \ldots& \phi_{\phi_{h_{f}(d)}(h_{f}(d))} \ldots\\ ⋮\\ \end{matrix}$$
 
-Figure 1: The matrix of partial computable functions employed in the proof of the Recursion Theorem (3.5)
+*Figure 1:* The matrix of partial computable functions employed in the proof of the Recursion Theorem (3.5)
 
 We may think of the function $f(x)$ given in Theorem 3.5 as inducing a transformation on the rows so that $R_i$ is mapped to $R_{f(i)}$. To this end, let $h_f(x)$ be an index to the total computable function which composes $f$ with $\phi_x$ so that we have
 
@@ -1204,11 +1202,9 @@ and the degrees $\mathbf{0}^{(n)} = \textrm{deg}_T(\emptyset^{(n)})$. Note that 
 
 $$ \mathbf{0} <_T \mathbf{0}' < _T\mathbf{0}'' <_T \ldots <_T \mathbf{0}^{(n)} <_T \ldots $$
 
-*Figure 2:*
-
 ![diagram: link to extended description below](../assets/recursive-functions/fig2.svg)
 
-Figure 2: The Turing degrees $\mathcal{D}_T$. [An extended text-based description of figure 2 is available.]
+*Figure 2:* The Turing degrees $\mathcal{D}_T$. [An extended text-based description of figure 2 is available.]
 
 As depicted in Figure 2, it is possible to use this sequence to classify many of the problems defined in Section 3.2:
 
@@ -1339,11 +1335,9 @@ We may also define a notion of completeness with respect to the levels of the ar
 
 The various parts of Theorem 3.11 follow from prior definitions together with Propositions 3.2 and 3.7. Note in particular that it follows from parts ii and iv of Theorem 3.11 together with part vii of Proposition 3.7 that $\emptyset^{(n)}$ is an example of a set in the class $\Sigma^0_n - \Pi^0_n$ from which it also follows that $\overline{\emptyset^{(n)}} \in \Pi^0_n - \Sigma^0_n$. This observation in turn strengthens the Hierarchy Theorem (3.10) by showing that $\Delta^0_n \subsetneq \Sigma^0_n$ and $\Delta^0_n \subsetneq \Pi^0_n$ as depicted in Figure 3.
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/recursive-functions/fig3.svg)
 
-Figure 3: The Arithmetical Hierarchy. [An extended text-based description of figure 3 is available.]
+*Figure 3:* The Arithmetical Hierarchy. [An extended text-based description of figure 3 is available.]
 
 Part iv of Theorem 3.11 can also be understood as generalizing Proposition 3.4 (i.e., Post’s Theorem). In particular, it characterizes the $\Delta^0_{n+1}$-definable sets as those sets $B$ such that both $B$ and $\overline{B}$ are computably enumerable in some $\Sigma^0_n$-complete set such as $\emptyset^{(n)}$. Restricting to the case $n = 1$, this observation can also be used to provide an independent computational characterization of the $\Delta^0_2$-definable sets, extending those given for the $\Sigma^0_1$-definable and $\Delta^0_1$-definable sets by Proposition 3.8.
 

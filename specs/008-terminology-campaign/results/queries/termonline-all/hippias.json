@@ -1,0 +1,33 @@
+{
+ "key": "hippias",
+ "term": "Hippias",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T02:43:21+00:00",
+ "status": "ok",
+ "note": "variant=Hippias; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "嬉皮士",
+   "en": "Hippies",
+   "code": "03.0235",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "嬉皮士",
+   "en": "hippie,hippy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "嬉皮士文化",
+   "en": "hippie culture",
+   "code": "3.16.6.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青年文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

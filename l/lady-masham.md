@@ -12,7 +12,7 @@
 
 同样是在伦敦，1682 年之前的某个时候，她经由两人共同的朋友爱德华·克拉克（Edward Clarke）结识了约翰·洛克（John Locke）。众所皆知，洛克极为推重她的哲学才具；她后来也成为洛克哲学最早的拥护者之一。两人的交谊，至少在早期，并不止于思想上的友谊：他们最早的书信里，有一组以笔名（*noms de plume*）“菲洛克勒娅”（Philoclea）与“菲兰德”（Philander）往还唱和的田园牧歌式爱情诗。洛克旅居荷兰期间，两人继续就各类哲学题目通信。1688 年洛克归国后，先是在她埃塞克斯奥茨（Oates）的家宅做客，继而长住于此。
 
-她对哲学的兴趣，是在研读剑桥柏拉图主义者（拉尔夫·库德沃斯、亨利·莫尔与约翰·史密斯）的著作中滋养起来的；结识洛克时，她对这些人的著作已然烂熟。结识洛克是她的幸运：他无疑鼓励了她对哲学的兴趣。因此，与其同时代的大多数女性不同，达玛里斯·库德沃斯坐拥家庭与友谊两重相对优势，得以发展其哲学志趣。然而另一方面，她 1685 年与弗朗西斯·马沙姆爵士（埃塞克斯乡绅、膝下九子的鳏夫）的婚姻却几乎无益于她追求哲学的机会。她育有一子，即弗朗西斯·库德沃斯·马沙姆（Francis Cudworth Masham）。达玛里斯·马沙姆的文字著述只占其哲学活动的一小部分。她存世的通信，尤其是与洛克、莱布尼茨往还者，表明她对哲学的兴趣远超刊行之作。她的两部著作《论上帝之爱》（1696）与《关于德性或基督徒生活的偶思》（1705），都是在洛克的鼓励下匿名印行的。她还撰有一部洛克传记，正是洛克最早一批刊行传记的底本。
+她对哲学的兴趣，是在研读剑桥柏拉图主义者（拉尔夫·库德沃斯、亨利·莫尔与约翰·史密斯）的著作中滋养起来的；结识洛克时，她对这些人的著作已然烂熟。结识洛克是她的幸运：他无疑鼓励了她对哲学的兴趣。因此，与其同时代的大多数女性不同，达玛里斯·库德沃斯坐拥家庭与友谊两重相对优势，得以发展其哲学志趣。然而另一方面，她 1685 年与弗朗西斯·马沙姆爵士（埃塞克斯乡绅、膝下九子的鳏夫）的婚姻却几乎无益于她追求哲学的机会。她育有一子，即弗朗西斯·库德沃斯·马沙姆（Francis Cudworth Masham）。达玛里斯·马沙姆的文字著述只占其哲学活动的一小部分。她存世的通信，尤其是与洛克、莱布尼茨往还者，表明她对哲学的兴趣远超刊行之作。她的两部著作《论上帝之爱》（1696）与《关于德性与基督徒生活的偶思》（1705），都是在洛克的鼓励下匿名印行的。她还撰有一部洛克传记，正是洛克最早一批刊行传记的底本。
 
 凭现有的少量证据，我们无法确切重建她的早期哲学观点。她刊行的著作中有明显的洛克回声，以至于有人将其中部分内容归于洛克。尽管如此，她的剑桥柏拉图主义底色依然醒目，尤其在宗教与伦理观点上，正是这些观点把她的两部著作联结起来，二者皆关注实践伦理。这些著作表明：她在认识论上更贴近洛克，在伦理学上却更贴近库德沃斯。后者特别体现在道德可归责性、道德原则作为事物本性之一部分而独立实存的主张，以及她的反唯意志论等方面。事实上，她之亲近洛克，或许正可归因于其剑桥柏拉图主义背景，这折射出洛克与剑桥柏拉图主义者之间的共同地基比通常所设想的更为深厚。她与洛克最相契合之处，并不以牺牲库德沃斯的原则为代价：尤其是她认定道德奠基于理性与行动自由，伦理学以求幸福为鹄的，且践行德性需要正当的心灵意向。与洛克和剑桥柏拉图主义者一样，她也是宗教宽容的坚定拥护者。
 
@@ -28,7 +28,7 @@
 
 ## 3 《偶思》（*Occasional Thoughts*）
 
-《关于德性或基督徒生活的偶思》（1705）发展了马沙姆夫人在《论上帝之爱》中申说的实践道德观。此书在某种程度上也是对玛丽·阿斯特尔《一个教会之女所信奉的基督教》的回应，后者正是作为对《论上帝之爱》的答复而刊行的。在关于理性于宗教事务中的作用、以及宗教与德行之关系的讨论中，马沙姆夫人力图捍卫合乎理性的基督教，使其既免于自然神论，亦免于迷信。针对自然神论者，马沙姆坚持启示与信仰之重要，否认纯粹基于理性的自然宗教为可能。另一方面，罔顾理性在宗教中之作用的信仰只是迷信，终将沦为偏执与无神论，因为“一个非理性的宗教，永远不能被理性地设想为来自上帝”（*Occasional Thoughts*，第 36 页）。（在马沙姆看来，强调宗教外在仪文的罗马天主教，大体就是迷信。）就自身立场而言，马沙姆夫人强调宗教的道德面向，即其实践应用，而非教义内容。她与洛克一样认为：有德的生活重于宗教仪节。如同《论宽容》（*Epistola de tolerantia*）中的洛克，她主张道德行为是宗教实践的核心；并据此论证：在宗教教导中，道德与宗教不应分开。此外，公民自由与宗教自由，是践行德性所必需。
+《关于德性与基督徒生活的偶思》（1705）发展了马沙姆夫人在《论上帝之爱》中申说的实践道德观。此书在某种程度上也是对玛丽·阿斯特尔《一个教会之女所信奉的基督教》的回应，后者正是作为对《论上帝之爱》的答复而刊行的。在关于理性于宗教事务中的作用、以及宗教与德行之关系的讨论中，马沙姆夫人力图捍卫合乎理性的基督教，使其既免于自然神论，亦免于迷信。针对自然神论者，马沙姆坚持启示与信仰之重要，否认纯粹基于理性的自然宗教为可能。另一方面，罔顾理性在宗教中之作用的信仰只是迷信，终将沦为偏执与无神论，因为“一个非理性的宗教，永远不能被理性地设想为来自上帝”（*Occasional Thoughts*，第 36 页）。（在马沙姆看来，强调宗教外在仪文的罗马天主教，大体就是迷信。）就自身立场而言，马沙姆夫人强调宗教的道德面向，即其实践应用，而非教义内容。她与洛克一样认为：有德的生活重于宗教仪节。如同《论宽容》（*Epistola de tolerantia*）中的洛克，她主张道德行为是宗教实践的核心；并据此论证：在宗教教导中，道德与宗教不应分开。此外，公民自由与宗教自由，是践行德性所必需。
 
 在展开实践道德的论证时，她主张：德性的践行植根于公民自由与宗教自由。“行动的自由或自由权”，她坚称，是“一个受造物所能拥有的最伟大禀赋”（*Occasional Thoughts*，第 68–78 页）。教育是熏陶德性的关键手段；而德性之习得，不在训诫，而在养成对道德原则的理性理解。教育的缺乏与低劣，在社会、道德与灵性上皆有破坏性；她由此发展出一项支持女性受教育的女性主义论证。这一论证围绕母亲在子女道德教育中的传统角色而展开。女孩所受的教育既有限又扭曲，对此她批评甚力：母亲若自身无受教育机会，便无法给子女有意义的道德教育。
 
@@ -44,15 +44,15 @@
 
 她与让·勒克莱尔的通信，为了解其宗教宽容观提供了若干洞见。其中还包括她为其父《宇宙的真正理智体系》辩护、回击培尔对库德沃斯的批评，这场论战是借让·勒克莱尔代为进行的。这些书信在多个方面颇具启示。它表明她愿意与父亲意见相左（例如关于是否存在无广延实体的问题），同时仍保持对他的敬意，并准备挺身为他回击贬损者（此处即皮埃尔·培尔）。这也表明：她并未抛弃自己在结识洛克之前信奉的全部柏拉图主义信条。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Sources
+### 原始文献
 
-### Studies
+### 研究文献
 
 [^astell-1705]: Astell, Mary, 1705, *The Christian Religion as Professed by a Daughter of the Church*, London: R. Wilkin.
 [^ballard-1752]: Ballard, George, 1752, *Memoirs of Several Ladies of Great Britain, who have been celebrated for their writings or skill in the learned languages, arts, and sciences*, Oxford: W. Jackson, pp. 379–388.
@@ -65,7 +65,7 @@
 [^locke-1689]: Locke, John, 1689, *Epistola de tolerantia* (A Letter Concerning Toleration), English version, London: Awnsham Churchill, 1689.
 [^locke-1693]: –––, 1693, *Some Thoughts Concerning Education*, London: A. and J. Churchill.
 [^locke-1976]: –––, 1976–1989, *The Correspondence of John Locke*, E.S. de Beer (ed.), 8 volumes, Oxford: Clarendon Press. (Correspondence with Locke)
-[^masham-1696]: Masham, Damaris, 1696 [1705], *A Discourse Concerning the Love of God*, London: Awsnsham and John Churchill, 1696. French translation, *Discours sur l’Amour Divin*, Pierre Coste (trans.), Amsterdam: Pierre de Coup, 1705.
+[^masham-1696]: Masham, Damaris, 1696 [1705], *A Discourse Concerning the Love of God*, London: Awnsham and John Churchill, 1696. French translation, *Discours sur l’Amour Divin*, Pierre Coste (trans.), Amsterdam: Pierre de Coup, 1705.
 [^masham-1705]: –––, 1705 [1747], *Occasional Thoughts in Reference to a Vertuous or Christian Life*, London: A. and J. Churchil, 1705. Second printing, misattributed to Locke, with title, *Thoughts on a Christian Life*, London, T. Waller, 1747.
 [^masham-2004]: –––, 2004, *The Philosophical Works of Damaris, Lady Masham*. Introduction by James G. Buickerood. Bristol: Thoemmes Press.
 [^masham-nd]: –––, ms, Three letters to Philip van Limborch, Amsterdam University Library, MS M31c.
@@ -80,7 +80,7 @@
 [^broad-2003]: –––, 2003, “Adversaries or Allies? Occasional Thoughts on the Masham-Astell Exchange”, *Eighteenth Century Thought*, 1: 123–49.
 [^broad-2006]: –––, 2006, “A Woman’s Influence? John Locke and Damaris Masham on Moral Accountability”, *Journal of the History of Ideas*, 67: 489–510.
 [^broad-2019]: –––, 2019, “Damaris Masham on Women and Liberty of Conscience”, in *A Feminist History of Philosophy*, Eileen O’Neill and Mary Lascano (eds.), Dordrecht: Springer, 319–36.
-[^buickerood-2005]: Buickerood, James G., 2005. “What Is it With Damaris, Lady Masham? The Historiography of One Early Modern Woman Philosopherspecial-character”, *Locke Studies*, 5: 179–214.
+[^buickerood-2005]: Buickerood, James G., 2005. “What Is it With Damaris, Lady Masham? The Historiography of One Early Modern Woman Philosophers”, *Locke Studies*, 5: 179–214.
 [^frankel-1989]: Frankel, Lois, 1989, “Damaris Cudworth Masham, a Seventeenth-Century Feminist Philosopher”, *Hypatia*, 4: 80–90.
 [^frankel-1991]: –––, 1991, “Damaris Cudworth Masham”, in *A History of Women Philosophers: Modern Women Philosophers, 1600–1900* (Volume 3), Mary Ellen Waithe (ed.), Dordrecht, Boston: Kluwer Academic Publishers, pp. 73–85.
 [^goldie-2004]: Goldie, Mark, 2004, *John Locke and the Mashams at Oates*, Churchill College: University of Cambridge.

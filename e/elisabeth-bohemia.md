@@ -2,7 +2,7 @@
 
 **首次发表于 2013 年 8 月 20 日；2021 年 8 月 17 日实质修订。**
 
-普法尔茨的波希米亚公主伊丽莎白（1618–1680）最广为人知的，是她与勒内·笛卡尔的长期通信；事实上，这些书信构成了我们目前所知她现存哲学著作的全部。在这场通信中，伊丽莎白就心灵与身体这两种实在不同的实体之间的关系追问笛卡尔，尤其是二者因果互动的可能性与其联合的本性。他们就笛卡尔的物理学、激情及其调控、德性本性与至善、人类意志自由及其与神圣因果决定是否相容，以及政治哲学等问题，也有书信往还。笛卡尔把《哲学原理》题献给伊丽莎白，并应她的请求写作了《灵魂的激情》。虽然阅读这一往来通信能让我们了解许多笛卡尔的哲学观点，但本词条并不聚焦于它对理解笛卡尔的意义，而是概述伊丽莎白本人的哲学观点。我们如今还知道她与同时代其他科学家的通信，以及大量的家族通信。。伊丽莎白似乎参与了围绕威斯特伐利亚和约的谈判，并参与了英国内战后恢复英格兰君主制的种种努力。作为（德国）赫尔福德女修道院的院长，她管理了这座受战争重创社区的重建，并为边缘化的新教教派——包括拉巴迪派与贵格会——提供庇护。
+普法尔茨的波希米亚公主伊丽莎白（1618–1680）最广为人知的，是她与勒内·笛卡尔的长期通信；事实上，这些书信构成了我们目前所知她现存哲学著作的全部。在这场通信中，伊丽莎白就心灵与身体这两种实在不同的实体之间的关系追问笛卡尔，尤其是二者因果互动的可能性与其联合的本性。他们就笛卡尔的物理学、激情及其调控、德性本性与至善、人类意志自由及其与神圣因果决定是否相容，以及政治哲学等问题，也有书信往还。笛卡尔把《哲学原理》题献给伊丽莎白，并应她的请求写作了《灵魂的激情》。虽然阅读这一往来通信能让我们了解许多笛卡尔的哲学观点，但本词条并不聚焦于它对理解笛卡尔的意义，而是概述伊丽莎白本人的哲学观点。我们如今还知道她与同时代其他科学家的通信，以及大量的家族通信。伊丽莎白似乎参与了围绕威斯特伐利亚和约的谈判，并参与了英国内战后恢复英格兰君主制的种种努力。作为（德国）赫尔福德女修道院的院长，她管理了这座受战争重创社区的重建，并为边缘化的新教教派——包括拉巴迪派与贵格会——提供庇护。
 
 ## 1 生平
 
@@ -74,7 +74,7 @@ Shapiro（2019）论证，就自然哲学而言，伊丽莎白应被理解为一
 
 ### 4.5 政治哲学
 
-伊丽莎白对正确评价行动及其后果的兴趣，显然与她作为一位流亡公主的地位有关——她怀着家族重新获得部分政治权力的希望。她特别关切的，是统治者在信息不完整时面临的问题：如何作出影响一大群人的决定。。为此，她请笛卡尔陈述关于“公民生活”的核心准则（AT 4:406, 1646 年 4 月 25 日），并请他就马基雅维利的《君主论》发表看法。笛卡尔对前者礼貌地婉拒，但在 1646 年 9 月的信中就后者给出了他的想法。伊丽莎白在 1646 年 10 月 10 日的信中给出了她自己的解读。在她看来，马基雅维利聚焦于最难统治的国家，这确实为达成稳定提供了有用的指导，但对于如何治理一个稳定的国家却所助甚少。Paganini（2021）把这场往还置于更广阔的 17 世纪语境之中——既包括政治现实也包括政治哲学，尤其是霍布斯。他论证：伊丽莎白以马基雅维利的实在论为出发点，着手形成自己的方案。这一方案要化解的冲突是：各自受欲望与激情驱动的自利行动者竞争价值评价；同时要确保相互的安全、和平与尽可能的个人福祉。伊丽莎白拒绝笛卡尔对神圣担保的诉诸，而偏爱一种务实的、可操作的方法来应对严峻的政治现实——这或许植根于她自己的实际实践与公共角色。他论证，她就道德行动的政治学提出了一个独特的立场，尤其是关于自然法如何应用于一个邪恶世界的问题。
+伊丽莎白对正确评价行动及其后果的兴趣，显然与她作为一位流亡公主的地位有关——她怀着家族重新获得部分政治权力的希望。她特别关切的，是统治者在信息不完整时面临的问题：如何作出影响一大群人的决定。为此，她请笛卡尔陈述关于“公民生活”的核心准则（AT 4:406, 1646 年 4 月 25 日），并请他就马基雅维利的《君主论》发表看法。笛卡尔对前者礼貌地婉拒，但在 1646 年 9 月的信中就后者给出了他的想法。伊丽莎白在 1646 年 10 月 10 日的信中给出了她自己的解读。在她看来，马基雅维利聚焦于最难统治的国家，这确实为达成稳定提供了有用的指导，但对于如何治理一个稳定的国家却所助甚少。Paganini（2021）把这场往还置于更广阔的 17 世纪语境之中——既包括政治现实也包括政治哲学，尤其是霍布斯。他论证：伊丽莎白以马基雅维利的实在论为出发点，着手形成自己的方案。这一方案要化解的冲突是：各自受欲望与激情驱动的自利行动者竞争价值评价；同时要确保相互的安全、和平与尽可能的个人福祉。伊丽莎白拒绝笛卡尔对神圣担保的诉诸，而偏爱一种务实的、可操作的方法来应对严峻的政治现实——这或许植根于她自己的实际实践与公共角色。他论证，她就道德行动的政治学提出了一个独特的立场，尤其是关于自然法如何应用于一个邪恶世界的问题。
 
 Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的信中关于统治与哲学表面上不相容的评论（AT 5:452），并论证伊丽莎白认识到：拥有激情的不只是臣民，统治者同样不可避免；而按其职责的要求，他们必须调控这些激情。这些实践要求——尤其是其决策的时间约束——会使统治者的情感面貌与哲学家很不一样。
 
@@ -85,14 +85,14 @@ Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的�
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-### 主要文献
+### 原始文献
 
-### 次要文献
+### 二手文献
 
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=elisabeth-bohemia)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elisabeth-bohemia/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/elisabeth-bohemia/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elisabeth-bohemia/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=elisabeth-bohemia&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/elisabeth-bohemia/) 查看本词条的增强文献目录及其数据库链接。
 
@@ -116,11 +116,11 @@ Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的�
 
 [^descartes-2013]: –––, 2013, *Der Briefwechsel zwischen René Descartes und Elisabeth von der Pfalz*, Benno Wirz, Isabelle Wienand and Olivier Ribordy (eds.), Hamburg: Meiner.
 
-[^descartes-1935]: –––, 1935, *Lettres sur la morale: corréspondence avec la princesse Elisabeth, Chanut et la reine Christine*, Jacques Chevalier (ed.), Paris: Hatier-Boivin.
+[^descartes-1935]: –––, 1935, *Lettres sur la morale: correspondance avec la princesse Elisabeth, Chanut et la reine Christine*, Jacques Chevalier (ed.), Paris: Hatier-Boivin.
 
 [^descartes-1657]: –––, 1657–67, *Lettres de Monsieur Descartes*, Claude Clerselier (ed.), 3 vols. Paris:Angot.
 
-[^elisabeth-2015]: Elisabeth van der Pfalz and René Descartes, *Der Briefeschel zwischen Elisabeth van der Pfalz und René Descartes*, Sabrina Ebbersmeyer (ed. and transl), Paderborn: Verlag Wilhelm Fink, 2015.
+[^elisabeth-2015]: Elisabeth van der Pfalz and René Descartes, *Der Briefwechsel zwischen Elisabeth van der Pfalz und René Descartes*, Sabrina Ebbersmeyer (ed. and transl), Paderborn: Verlag Wilhelm Fink, 2015.
 
 [^foucher-1879]: Foucher de Careil, Alexandre, 1879, *Descartes, la Princesse Elisabeth et la Reine Christine*, Paris: Felix Alcan.
 
@@ -168,7 +168,7 @@ Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的�
 
 [^ebbersmeyer-2021-2]: Ebbersmeyer, Sabrina and Sarah Hutton (eds.), 2021, *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*, Dordrecht: Springer.
 
-[^foucher-1862]: Foucher de Careil, Alexandre, 1862, *Descartes et la Princesse Palatine, ou de l’influence du cartésianisme sur les femmes au XVIIe siécle*, Paris: Auguste Durand.
+[^foucher-1862]: Foucher de Careil, Alexandre, 1862, *Descartes et la Princesse Palatine, ou de l’influence du cartésianisme sur les femmes au XVIIe siècle*, Paris: Auguste Durand.
 
 [^gabbey-1990]: Gabbey, Alan, 1990, “The Case of Mechanics: One revolution or many?” in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (eds.), Cambridge: Cambridge University Press.
 
@@ -232,7 +232,7 @@ Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的�
 
 [^richardson-1982]: Richardson, RC, 1982, “The ‘Scandal’ of Cartesian Interactionism,” *Mind*, 92: 20–37.
 
-[^rodis-lewis-1999]: Rodis-Lewis, Genevieve, 1999, “Descartes et les femmes: l’exceptionnel rapport de la princesse Elisabeth” in *Donna Filosofia e cultura nel seicento*, Pina Totaro (ed.), Rome: Consiglio Nazionale delle ricerca, 155–72.
+[^rodis-lewis-1999]: Rodis-Lewis, Genevieve, 1999, “Descartes et les femmes: l’exceptionnel rapport de la princesse Elisabeth” in *Donna Filosofia e cultura nel seicento*, Pina Totaro (ed.), Rome: Consiglio Nazionale delle Ricerche, 155–72.
 
 [^rodis-lewis-1957]: –––, 1957, *La morale de Descartes*, Paris: PUF.
 

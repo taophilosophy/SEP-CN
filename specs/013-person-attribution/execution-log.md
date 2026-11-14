@@ -236,3 +236,23 @@
 **留队歧义 18 人**：Hu Shi、Husserl、Hutcheson、Huygens 两人、Jackson、Hooke、Horthy 等。
 
 **验收**：硬错误 0；人名缺项 2806 → 2760。
+
+## 2026-11-14 GND M 段（44 行）
+
+**范围**：续取 120 行（Jäger 至 Kaegi），命中 48（exact 43／variant 5）、歧义 20、查无 51，采信 44（跳过无地域码 1）。凭证 `results/verify-2026-11-14-gnd-m.tsv`。
+
+**拒采 4 条（年代明显不合）**：`Ji Yun`（GND 作 1992 年生，键所指为清人纪昀）、`Johann Heinrich Lambert`（GND 作 1801–1862，键所指为 1728–1777）、`John Pollock`（GND 作 1878–1963，键所指为 1940–2012）、`José Ortega`（GND 作 1921–1990，键所指为 Ortega y Gasset 1883–1955）。
+**口径校正**：Gottsched 取“德国／文学与哲学”、Borges 取“阿根廷／文学”；新增特立尼达和多巴哥映射。
+**留队歧义 20 人**：William James、Habermas、Joseph Priestley、Hutcheson 类、Joyce、Toland、John Sergeant、Jonathan Bennett 等。
+
+**验收**：硬错误 0；人名缺项 2760 → 2716。
+
+## 2026-11-14 GND N 段（45 行）
+
+**范围**：续取 120 行（Kahane 至 Kwŏn Kŭn），命中 47（exact 42／variant 5）、歧义 18、查无 40，采信 45（跳过无地域码或生年残缺者 15）。凭证 `results/verify-2026-11-14-gnd-n.tsv`。
+
+**拒采 2 条**：`Komnene, Anna`（GND 命中 1899–1990 现代同名者，键所指为 1083–1153 的安娜·科穆宁娜）、`Koslicki, Kathrin`（GND 生年作 “[19X-”，残缺不可用）。
+**口径校正**：Kepler 取“德国／天文学”、Kwŏn Kŭn 取“朝鲜／儒学”、Koffka 取“德国／美国／心理学”；新增捷克斯洛伐克、马来西亚映射。
+**留队歧义 18 人**：Karl Kautsky、Liebknecht、Klein 两人、King, Peter、Kirk、Köhler、Kramers 等。
+
+**验收**：硬错误 0；人名缺项 2716 → 2671。

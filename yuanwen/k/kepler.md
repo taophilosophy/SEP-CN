@@ -29,11 +29,9 @@ This kind of speculation also belongs to the basic principles of Kepler’s phil
 
 Philosophical, geometrical and even theological speculations related to the five regular polyhedra, the cube or hexahedron, the tetrahedron, the octahedron, the icosahedron and the dodecahedron, were known at least from the time of the ancient Pythagoreans. Since Plato’s *Timaeus*, these five geometrical solids played a leading role, and for the later tradition they became known as the “five Platonic solids”.
 
-*Figure 1.*
-
 ![figure 1](../assets/kepler/figure1.jpg)
 
-Figure 1. Table 3 in *Mysterium Cosmographicum*, with Kepler’s model illustrating the intercalation of the five regular solids between the imaginary spheres of the planets (cf. KGW 1, pp. 26–27).
+*Figure 1.* Table 3 in *Mysterium Cosmographicum*, with Kepler’s model illustrating the intercalation of the five regular solids between the imaginary spheres of the planets (cf. KGW 1, pp. 26–27).
 
 Plato establishes at the physical and chemical level a correspondence between them and the five elements—earth, water, air, fire and ether—and tries to provide this correspondence with geometrical grounds. A further source of historically decisive importance is the fact that the five regular polyhedra are treated in Euclid’s *Elements of Geometry*, a work that for Kepler, especially in the Platonic approach of Proclus, has a central position (Claessens 2011)[^claessens-2011]. At the very beginning of HM Kepler complains about the fact that the modern philosophical and mathematical school of Peter Ramus (1515–1572) had not been able to understand the architectonic structure of the *Elements*, which are crowned with the treatment of the five regular polyhedra. In addition, a revival of Platonic philosophy was taking place in Kepler’s time and inspired not only philosophers and mathematicians but also architects, artists and illustrators (see Field 1997)[^field-1997].
 
@@ -99,11 +97,9 @@ If cosmology is the main framework of Kepler’s interest, there is no doubt tha
 
 Today Kepler is remembered in the history of sciences above all for his three planetary laws, which he produced in very specific contexts and at different times. While it is questionable whether he would have understood these scientific statements as “laws”—and it is even arguable that he used this term with a different meaning than we do today—it seems to be clear that all three laws (as a linguistic convention, we may continue to use the term) suppose some fundamentals of Kepler’s philosophy: (a) realism, (b) causality, (c) the geometric structure of the cosmos. Besides this, it should be remarked that the common denominator of all three laws is Kepler’s defense of the Copernican worldview, a cosmological system which he was not able to defend without reforming it radically (see Goldstein and Hon, 2005)[^goldstein-2005]. It took, of course, more than ten years of sustained work to establish the new astronomy on a physical basis, as Kepler had always intended. However, he was convinced early on of the central, both positional and physical, role that must be attributed to the Sun (see Granada 2022)[^granada-2022]. It is noteworthy that already at the very beginning of his career Kepler vehemently defended the reality of the Copernican worldview in a way that he characterized, taking over the terminology from the standard Aristotelian epistemology, as “a priori” (see above Section 3 above and Di Liscia 2009)[^di-2009].
 
-*Figure 2.*
-
 ![figure 2](../assets/kepler/figure2.jpg)
 
-Figure 2. Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).
+*Figure 2.* Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).
 
 The first two laws were published initially in AN (1609), although it is known that Kepler had arrived at these results much earlier. His first law establishes that the orbit of a planet is an ellipse with the Sun in one of the foci (see Figure 2). According to the second law, the radius vector from the Sun to a planet P sweeps out equal areas, for instance $SP_1P_2$ and $SP_3P_4$, in equal times. The planet *P* is therefore faster at perihelion, where it is closer to the Sun, and slower at aphelion, where it is farther from the Sun. In accordance with his dynamical approach, Kepler first found the second law and, then, as a further result because of the effect produced by the supposed force, the elliptical path of the planets (for the two first planetary laws see especially Aiton 1973, 1975a, Davis 1992a–e, and 1998a; Donahue 1994; Wilson 1968 and 1972; for Kepler’s system of conics in connection with his optics see the recent study by Del Centina, 2016)[^aiton-1973][^aiton-1975a][^davis-1992a][^davis-1998a][^del-2016][^donahue-1994][^wilson-1968][^wilson-1972].
 

@@ -2251,23 +2251,23 @@
 | Kamalaśīla | कमलशील | 莲花戒 | — | — | jayaraasi | 佛典古译传统译名（约 740–795，寂护弟子） | 2026-11-07 |
 | Kamei Koremi | — | 龟井兹监 | — | — | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Kamm, F.M. | — | F.M.卡姆 | — | — | ethics-deontological | 学界通行汉译（《义务伦理学》作者） | 2026-11-04 |
-| Kamo no Chōmei | 鴨長明 | 鸭长明 | — | — | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Kamo no Chōmei | 鴨長明 | 鸭长明 | 日本／文学理论 | 1153–1216 | japanese-aesthetics | 学界惯例（日本文学史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 118959883（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kamo no Mabuchi | — | 贺茂真渊 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kamp, Hans | — | 汉斯·坎普 | 荷兰 | 1940– | dynamic-semantics | 学界通行音译（DRT 创始者）；凭证 2026-11-12 | 2026-11-12 |
 | Kaṇāda | कणाद | 迦那陀 | 古印度／胜论派 | — | early-modern-india | 学界通行音译（《胜论经》托名作者；亦作“羯那陀”）；凭证 2026-11-10 | 2026-11-10 |
 | Kang Chŏngildang | 姜靜一堂 | 姜静一堂 | — | — | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
 | Kanizsa, Gaetano | — | 加埃塔诺·卡尼扎 | 意大利 | 1913–1993 | idiolects | 学界通行音译（卡尼扎三角形错觉）；凭证 2026-11-11 | 2026-11-11 |
-| Kann, Christoph | — | Christoph Kann（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德校勘本编者） | 2026-11-09 |
+| Kann, Christoph | — | Christoph Kann（现代学者，保留英文） | 德国 | 1956– | william-sherwood | ADR-0022（舍伍德校勘本编者）；籍属/生卒联网查证：GND 规范标目 gnd 122846699（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kanovich, Max | — | Max Kanovich | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Kant, Immanuel / Immanuel Kant | — | 伊曼努尔·康德 | — | — | leibniz-modal；descartes-works | 学界千年通行（德国观念论创立者）；2026-11-13 重复行合并（旧键 `Immanuel Kant`） | 2026-11-13 |
+| Kant, Immanuel / Immanuel Kant | — | 伊曼努尔·康德 | 德国／文学 | 1724–1804 | leibniz-modal；descartes-works | 学界千年通行（德国观念论创立者）；2026-11-13 重复行合并（旧键 `Immanuel Kant`）；籍属/生卒联网查证：GND 规范标目 gnd 118559796（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kantorowicz, Ernst | — | 恩斯特·康托洛维茨 | — | — | sovereignty | 学界通行汉译（《国王的两个身体》中译本，与既有 Gertrud Kantorowicz 行同姓译法）；凭证 2026-11-07 | 2026-11-07 |
 | Kaplan, David | — | 戴维·卡普兰 | 美国 | 1933– | omniscience | 学界通行音译（索引词理论）；凭证 2026-11-09 | 2026-11-09 |
-| Kaplan, David M. | — | 戴维·M·卡普兰 | — | — | fitness | 音译（生物学哲学文献；与 omniscience 的戴维·卡普兰异人）；凭证 2026-11-13 | 2026-11-13 |
+| Kaplan, David M. | — | 戴维·M·卡普兰 | 美国 | 1966– | fitness | 音译（生物学哲学文献；与 omniscience 的戴维·卡普兰异人）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 138145857（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Karl Kautsky | — | 卡尔·考茨基 | — | — | luxemburg；亦见 bauer | 学界通行汉译；待 specs/008 审定库复核；2026-11-08 并行会话重复行合并 | 2026-11-03 |
 | Karl Liebknecht | — | 卡尔·李卜克内西 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Karl Schröter | Karl Schröter | 保留英文（无通行汉名） | — | — | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Karl Welcker | — | 卡尔·韦尔克 | — | — | bauer | 学界通行音译（南德自由派政治家） | 2026-11-08 |
-| Karp, Carol | — | Carol Karp | — | — | logic-infinitary | 无通行汉名，保留英文原名（美国逻辑学家，1936–1970）；凭证 2026-11-10 | 2026-11-09 |
+| Karp, Carol | — | Carol Karp | 美国 | 1926–1972 | logic-infinitary | 无通行汉名，保留英文原名（美国逻辑学家，1936–1970）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 118560301（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Karttunen, Lauri | — | 劳里·卡尔图宁 | 芬兰／美国 | — | dynamic-semantics | 语用学界通行音译（预设投射研究）；凭证 2026-11-12 | 2026-11-12 |
 | Kāshānī, Afḍal al-Dīn | — | 阿夫达勒丁·卡沙尼 | — | — | arabic-islamic-mysticism | 波斯哲学通行音译 | 2026-11-07 |
 | Kāshānī, Mullā Muḥsin Fayḍ | — | 费兹·卡沙尼 | — | — | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
@@ -2284,20 +2284,20 @@
 | Keichū | 契沖 | 契沖 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Keil, Frank | — | 弗兰克·凯尔 | 美国 | 1952– | innateness-cognition | 音译（概念发展）；凭证 2026-11-12 | 2026-11-12 |
 | Keill, John | — | 约翰·凯尔 | — | — | emilie-du-chatelet | 学界惯例（牛顿派数学家，通行音译） | 2026-11-04 |
-| Keisler, H. Jerome | — | H. Jerome Keisler | — | — | logic-infinitary | 无通行汉名，保留英文原名（美国模型论学家，1936– ）；凭证 2026-11-10 | 2026-11-09 |
+| Keisler, H. Jerome | — | H. Jerome Keisler | 美国／数学 | 1936– | logic-infinitary | 无通行汉名，保留英文原名（美国模型论学家，1936– ）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 121701972（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Keith, George | — | 乔治·基思 | — | — | john-norris | 贵格会改宗者；音译 | 2026-11-07 |
-| Keller, Evelyn Fox | — | 伊芙琳·福克斯·凯勒 | — | — | genetics | 基因世纪论者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
-| Kelley, Anne | — | 安妮·凯利 | — | — | cockburn | 学界通行汉译（《Catharine Trotter》作者，考克本研究者）；凭证 2026-11-07 | 2026-11-07 |
+| Keller, Evelyn Fox | — | 伊芙琳·福克斯·凯勒 | 美国 | 1936–2023 | genetics | 基因世纪论者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 120148137（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kelley, Anne | — | 安妮·凯利 | 美国 | 1958– | cockburn | 学界通行汉译（《Catharine Trotter》作者，考克本研究者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1273280415（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kelly, Grace | — | 格蕾丝·凯利 | 美国 | 1929–1982 | paradox-suspense | 影史通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Kelvin, Lord | — | 开尔文勋爵 | 英国 | 1824–1907 | computing-history | 学界千年通行汉译（本名 William Thomson，潮汐预测机设计者）；凭证 2026-11-10 | 2026-11-09 |
-| Kemeny, John G. | — | 约翰·凯梅尼 | — | — | belief-merging | 学界通行汉译（社会选择文献凯梅尼规则命名者，数学家）；凭证 2026-11-13 | 2026-11-13 |
+| Kemeny, John G. | — | 约翰·凯梅尼 | 匈牙利／美国／数学 | 1926–1992 | belief-merging | 学界通行汉译（社会选择文献凯梅尼规则命名者，数学家）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 123385865（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kemp Smith, Norman | — | 诺曼·肯普·史密斯 | 英国 | 1872–1956 | vaihinger | 学界通行汉译（《纯粹理性批判》通行英译者；音译）；凭证 2026-11-14 | 2026-11-14 |
-| Kennedy, Hubert C. | — | Hubert C. Kennedy（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
-| Kennedy, Juliette | — | Kennedy | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Kennedy, Hubert C. | — | Hubert C. Kennedy（现代学者，保留英文） | 美国 | 1931– | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1089959680（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kennedy, Juliette | — | Kennedy | 美国 | 1955– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1023532948（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kenny, Anthony | — | 安东尼·肯尼 | 英国 | 1931–2023 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
-| Keohane, Robert O. | — | 罗伯特·基欧汉 | — | — | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Keohane, Robert O. | — | 罗伯特·基欧汉 | 美国／政治学 | 1941– | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 129194328（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Keown, John | — | 约翰·基翁 | 英国 | — | euthanasia-voluntary | 音译（英语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
-| Kepler, Johannes / Johannes Kepler | — | 开普勒 | — | — | 语料回收（全目录） | 学界惯例（通行汉译）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Johannes Kepler`） | 2026-11-13 |
+| Kepler, Johannes / Johannes Kepler | — | 开普勒 | 德国／天文学 | 1571–1630 | 语料回收（全目录） | 学界惯例（通行汉译）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Johannes Kepler`）；籍属/生卒联网查证：GND 规范标目 gnd 118561448（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kerferd, George | — | 乔治·克尔弗德 | 英国 | — | zeno-elea | 学界惯例音译（《智术师运动》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Kerger | — | 克尔格 | — | — | locke-on-medicine | 医史通行音译（赫尔蒙特传统医家） | 2026-11-05 |
 | Kesner, Delia | — | Delia Kesner | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2309,16 +2309,16 @@
 | Khomskii, Yurii | — | Yurii Khomskii（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（对当六角形研究） | 2026-11-09 |
 | Ki Chŏngjin | 奇正鎭 | 奇正镇 | 1798–1879 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号芦沙，理先气后） | 2026-11-08 |
 | Ki Taesŭng, Kobong | 奇大升（高峰） | 奇大升（高峰） | — | — | korean-philosophy | 汉文传统写法（与退溪论辩四端七情） | 2026-11-05 |
-| Kieran, Matthew | — | 马修·基兰 | — | — | erotic-art | 学界惯例音译（美学） | 2026-11-08 |
+| Kieran, Matthew | — | 马修·基兰 | 英国 | 1968– | erotic-art | 学界惯例音译（美学）；籍属/生卒联网查证：GND 规范标目 gnd 133325369（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kierkegaard, Søren | Søren Kierkegaard | 索伦·克尔凯郭尔 | 丹麦 | 1813–1855 | scholem；habermas（2026-11-12 并重复行） | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Kilburn, Tom | — | 汤姆·基尔伯恩 | 英国 | 1921–2001 | computing-history | 学界通行音译（曼彻斯特“婴儿机”共同建造者）；凭证 2026-11-10 | 2026-11-09 |
 | Kilcher, Andreas B. | — | 安德烈亚斯·基尔歇 | 瑞士 | 1963– | scholem | 德语名音译；凭证 2026-11-08 | 2026-11-08 |
 | Kilpatrick, William Heard | William Heard Kilpatrick | 威廉·赫德·克伯屈 | 美国 | 1871–1965 | montessori-maria | 中国教育学界通行汉译（《蒙台梭利体系检视》作者）；凭证 2026-11-10 | 2026-11-10 |
-| Kilwardby, Robert | — | 罗伯特·基尔沃德比 | — | — | albert-great | 学界惯例（音译；13 世纪逻辑学家） | 2026-11-06 |
-| Kim Il-sŏng | 金日成 | 金日成 | — | — | korean-philosophy | 学界通行汉译（朝鲜主体思想创始人） | 2026-11-05 |
-| Kim Iryŏp | 김일엽（金一葉） | 金一叶 | — | — | korean-buddhism | 学界通行汉译（韩文 김일엽，汉字 金一葉；新女性作家，后出家） | 2026-11-05 |
+| Kilwardby, Robert | — | 罗伯特·基尔沃德比 | 英国 | 1200–1279 | albert-great | 学界惯例（音译；13 世纪逻辑学家）；籍属/生卒联网查证：GND 规范标目 gnd 119235196（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kim Il-sŏng | 金日成 | 金日成 | 朝鲜／政治 | 1912–1994 | korean-philosophy | 学界通行汉译（朝鲜主体思想创始人）；籍属/生卒联网查证：GND 规范标目 gnd 118562126（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kim Iryŏp | 김일엽（金一葉） | 金一叶 | 韩国／文学 | 1896–1971 | korean-buddhism | 学界通行汉译（韩文 김일엽，汉字 金一葉；新女性作家，后出家）；籍属/生卒联网查证：GND 规范标目 gnd 1064993877（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kim, Jaegwon / Jaegwon Kim | — | 金在权 | 韩国／美国 | 1934– | 语料回收（全目录）；epiphenomenalism | 学界通行汉名（心灵因果与排除论证提出者）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Jaegwon Kim`） | 2026-11-13 |
-| Kimhi, David | — | 大卫·金希 | — | — | f/falaquera | 音译（普罗旺斯释经家，迈蒙尼德之争一方）；凭证 2026-11-11 | 2026-11-11 |
+| Kimhi, David | — | 大卫·金希 | 犹太／法国 | 1160–1235 | f/falaquera | 音译（普罗旺斯释经家，迈蒙尼德之争一方）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 10096673X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kimura, Motoo | — | 木村资生 | 日本 | 1924–1994 | ecological-genetics | 上游自带汉字（木村資生）；学界通行；凭证 2026-11-09 | 2026-11-09 |
 | King Milinda | — | 弥兰陀王（亦作“米兰达王”） | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | King, Hayden | — | 海登·金 | — | — | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
@@ -2329,27 +2329,27 @@
 | Kirchhoff, Raina | — | Raina Kirchhoff（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德校勘本与评注者） | 2026-11-09 |
 | Kirk, Robert | — | 罗伯特·柯克 | — | — | zombies | 学界惯例（心灵哲学文献通译；本词条作者）；凭证 2026-11-10 | 2026-11-10 |
 | Kirmānī, Ḥamīd al-Dīn | — | 哈米德丁·基尔马尼 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行音译 | 2026-11-07 |
-| Kitcher, Philip | — | 菲利普·基切尔 | — | — | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| Kleene, Stephen | — | Kleene | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Kitcher, Philip | — | 菲利普·基切尔 | 美国 | 1947– | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 120509970（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kleene, Stephen | — | Kleene | 美国／数学 | 1909–1994 | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 136329632（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Klein, Felix | — | 费利克斯·克莱因 | — | — | geometry-19th | 埃尔朗根纲领提出者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Klein, Peter | — | 彼得·克莱因 | — | — | closure-epistemic | 学界通行音译（证据可传递性）；凭证 2026-11-08 | 2026-11-08 |
-| Klement, Erich Peter | — | Klement | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Klement, Erich Peter | — | Klement | 奥地利 | 1949– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 122930649（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Klima, Gyula | — | Gyula Klima（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
-| Klir, George J. | — | Klir | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Kneale, Martha | — | 玛尔塔·涅尔 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07 | 2026-11-07 |
-| Kneale, William | — | 威廉·涅尔 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07 | 2026-11-07 |
+| Klir, George J. | — | Klir | 美国／捷克斯洛伐克／计算机科学 | 1932–2016 | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 174097999（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kneale, Martha | — | 玛尔塔·涅尔 | 英国 | 1909–2001 | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 13860312X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kneale, William | — | 威廉·涅尔 | 英国 | 1906–1990 | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 138602875（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Knight, Carl | — | 卡尔·奈特 | — | — | truth-coherence | 学界惯例（反思平衡研究者，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Knobe, Joshua | — | 乔舒亚·诺布 | 美国 | — | double-effect | 学界通行汉译（实验哲学“诺布效应”提出者）；凭证 2026-11-11 | 2026-11-11 |
 | Knorr von Rosenroth, Christian | — | 克诺尔·冯·罗森罗特 | 德意志 | 1636–1689 | cambridge-platonists | 学界通行音译（《卡巴拉解蔽》编译者）；凭证 2026-11-09 | 2026-11-09 |
-| Knuuttila, Simo | — | Simo Knuuttila（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（中世纪模态理论研究） | 2026-11-09 |
+| Knuuttila, Simo | — | Simo Knuuttila（现代学者，保留英文） | 芬兰／神学 | 1946–2022 | william-sherwood | ADR-0022（中世纪模态理论研究）；籍属/生卒联网查证：GND 规范标目 gnd 131766058（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kobayashi, Naoki | — | Naoki Kobayashi | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Koenig, Samuel | — | 塞缪尔·柯尼希 | — | — | emilie-du-chatelet | 学界惯例（沃尔夫派数学家，通行音译） | 2026-11-04 |
+| Koenig, Samuel | — | 塞缪尔·柯尼希 | 瑞士／德国／数学 | 1712–1757 | emilie-du-chatelet | 学界惯例（沃尔夫派数学家，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 117528854（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Koestler, Arthur | — | 阿瑟·库斯勒 | 匈牙利/英国 | 1905–1983 | copernicus | 学界通行汉译（《梦游者》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
-| Koffka, Kurt | — | 考夫卡 | — | — | langer | 德裔美国格式塔心理学家（学界惯用“考夫卡”）；凭证 2026-11-08 | 2026-11-08 |
-| Kohler, Kaufmann | — | 考夫曼·科勒 | — | — | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
+| Koffka, Kurt | — | 考夫卡 | 德国／美国／心理学 | 1886–1941 | langer | 德裔美国格式塔心理学家（学界惯用“考夫卡”）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 124635628（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kohler, Kaufmann | — | 考夫曼·科勒 | 美国 | 1843–1926 | albo-joseph | JewishEncyclopedia.com 条目作者音译；籍属/生卒联网查证：GND 规范标目 gnd 118963775（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Köhler, Wolfgang | Wolfgang Köhler | 沃尔夫冈·柯勒 | — | — | langer | 学界通行汉译（格式塔心理学；与 Kaufmann Kohler 考夫曼·科勒异人）；凭证 2026-11-08 | 2026-11-08 |
-| Kohlhase, Michael | — | Kohlhase, Michael | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
-| Kokoszyńska, Maria | — | Maria Kokoszyńska | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Kohlhase, Michael | — | Kohlhase, Michael | 德国／计算机科学 | 1964– | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 1129482057（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kokoszyńska, Maria | — | Maria Kokoszyńska | 波兰 | 1905–1981 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1314965492（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kolb, Brendan | — | 布伦丹·科尔布 | — | — | evil-kinds-origins | 音译（本词条致谢） | 2026-11-12 |
 | Kolmogorov, Andrey | — | 安德烈·柯尔莫哥洛夫 | 苏联 | 1903–1987 | intuitionism | 学界通行汉译（BHK 解释）；凭证 2026-11-10 | 2026-11-10 |
 | Kolodny, Niko | — | 尼科·科洛德尼 | — | — | intention | 音译（理性与意图）；凭证 2026-11-12 | 2026-11-12 |
@@ -2358,33 +2358,33 @@
 | Konstan, David | — | 戴维·康斯坦 | 美国 | — | epicurus | 学界通行（本词条作者，古代哲学与情感研究） | 2026-11-12 |
 | Kooi, Barteld | — | Barteld Kooi | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Koopmans, Tjalling | — | 恰林·科普曼斯 | 荷兰／美国／经济学家 | 1910–1985 | ramsey-economics | 学界通行音译（诺贝尔经济学奖）；凭证 2026-11-11 | 2026-11-11 |
-| Koppelman, Jacob | — | 雅各布·科佩尔曼 | — | — | albo-joseph | 16 世纪注家音译 | 2026-11-07 |
+| Koppelman, Jacob | — | 雅各布·科佩尔曼 | 犹太／德国 | 1555–1594 | albo-joseph | 16 世纪注家音译；籍属/生卒联网查证：GND 规范标目 gnd 17387973X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kopylov, Alexei | — | Alexei Kopylov | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Korcz, Keith Allen | — | 基思·艾伦·科尔奇 | — | — | basing-epistemic | 学界惯例（音译，本词条作者）；凭证 2026-11-08 | 2026-11-08 |
 | Kornhauser, Lewis A. | — | Lewis A. Kornhauser（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（法理学家，教义悖论提出者，与 Sager 合作）；凭证 2026-11-13 | 2026-11-13 |
-| Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | 美国 | 1950– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 173230733（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Korteweg, Diederik | — | 迪德里克·科特韦格 | 荷兰 | 1848–1941 | brouwer | 数学界通行汉译（KdV 方程以 Korteweg–de Vries 命名）；凭证 2026-11-12 | 2026-11-12 |
 | Koslicki, Kathrin | — | Kathrin Koslicki | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Kotarbiński, Tadeusz | — | Tadeusz Kotarbiński | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Kotarbiński, Tadeusz | — | Tadeusz Kotarbiński | 波兰 | 1886–1981 | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 11898764X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kowalewski, Gerhard | — | 格哈德·科瓦莱夫斯基 | 德国 | 1876–1950 | ehrenfels | 音译（数学家，《素数定律》同行）；凭证 2026-11-13 | 2026-11-13 |
 | Koyré, Alexander / Alexandre Koyré / Koyré, Alexandre | Alexandre Koyré | 亚历山大·柯瓦雷 | 法国／科学史与现象学 | 1892–1964 | 语料回收（全目录）；reinach；cambridge-platonists | 学界通行汉译（科学史与现象学）；旧译“科伊雷”已弃，2026-11-10 裁定主形柯瓦雷（与语料回收行、词汇表、cassirer/duhem 一致）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Alexandre Koyré`、`Koyré, Alexandre`） | 2026-11-13 |
-| Kozen, Dexter | — | Dexter Kozen | — | — | logic-dynamic | 无通行汉名，保留英文原名（μ-演算）；凭证 2026-11-10 | 2026-11-09 |
+| Kozen, Dexter | — | Dexter Kozen | 美国／计算机科学 | 1951– | logic-dynamic | 无通行汉名，保留英文原名（μ-演算）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 135740436（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kraal, Anders | — | Anders Kraal（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
-| Kraft, Victor | — | 维克托·克拉夫特 | — | — | langer | 奥地利哲学家（维也纳学派成员；学界惯用“克拉夫特”）；凭证 2026-11-08 | 2026-11-08 |
+| Kraft, Victor | — | 维克托·克拉夫特 | 奥地利 | 1880–1975 | langer | 奥地利哲学家（维也纳学派成员；学界惯用“克拉夫特”）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118715410（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Krahmer, Emiel | — | Krahmer, Emiel | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Kramer, Amit | — | Amit Kramer（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（独裁者博弈实验）；凭证 2026-11-10 | 2026-11-10 |
 | Kramer, Heinrich | — | 海因里希·克雷默 | — | — | gianfrancesco-pico | 学界通行音译（《女巫之锤》合著者） | 2026-11-09 |
 | Kramers, Hendrik | — | 亨德里克·克拉默斯 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
-| Krasner, Stephen D. | — | 斯蒂芬·克拉斯纳 | — | — | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Krasner, Stephen D. | — | 斯蒂芬·克拉斯纳 | 美国／政治学 | 1942– | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 115030085（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kratz, Frida | — | 弗里达·克拉茨 | 德国 | — | gadamer | 伽达默尔首任妻子，音译；凭证 2026-11-10 | 2026-11-10 |
 | Krebs, John | — | 约翰·克雷布斯 | 英国 | 1945– | information-biological | 音译（动物行为学）；凭证 2026-11-12 | 2026-11-12 |
-| Kreisel, Georg | — | Kreisel | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Kretzmann, Norman | — | Norman Kretzmann（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德著作校订与英译者） | 2026-11-09 |
-| Krifka, Manfred | — | Manfred Krifka | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Kreisel, Georg | — | Kreisel | 美国／英国／数学 | 1923–2015 | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 119528592（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kretzmann, Norman | — | Norman Kretzmann（现代学者，保留英文） | 美国 | 1928–1998 | william-sherwood | ADR-0022（舍伍德著作校订与英译者）；籍属/生卒联网查证：GND 规范标目 gnd 123011388（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Krifka, Manfred | — | Manfred Krifka | 德国 | 1956– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 136334121（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Krige, E. J. | — | E. J. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究合著者）；凭证 2026-11-09 | 2026-11-09 |
 | Krige, J. D. | — | J. D. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究合著者）；凭证 2026-11-09 | 2026-11-09 |
 | Krika, Manfred | — | Manfred Krika | — | — | logic-massexpress | 源文拼作 Krika（1989），保留英文；凭证 2026-11-10 | 2026-11-09 |
-| Kripke, Saul / Saul Kripke | — | 索尔·克里普克 | — | — | closure-epistemic；knowledge-analysis | 学界通行汉译（《命名与必然性》）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Saul Kripke`） | 2026-11-13 |
+| Kripke, Saul / Saul Kripke | — | 索尔·克里普克 | 美国 | 1940–2022 | closure-epistemic；knowledge-analysis | 学界通行汉译（《命名与必然性》）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Saul Kripke`）；籍属/生卒联网查证：GND 规范标目 gnd 118813455（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Krisch, Nico | — | 尼科·克里施 | 德国 | — | global-democracy | 音译（国际法学者） | 2026-11-12 |
 | Kroon, Fred | — | Fred Kroon（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Kropotkin, Peter | — | 克鲁泡特金 | — | —；godwin | godwin | 学界通行汉译（无政府主义者） | 2026-11-10 合并（同键变体，来源列并双 slug） |
@@ -2396,13 +2396,13 @@
 | Kuhse, Helga | — | 赫尔加·库塞 | 德国／澳大利亚 | — | euthanasia-voluntary | 音译（德语姓名英语转写惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Kuiji | — | 窥基 | — | — | korean-philosophy | 佛学界千年传统译名（玄奘弟子，唯识宗二祖） | 2026-11-05 |
 | Kūkai | 空海 | 空海 | 日本 | 774–835 | kukai | 学界千年通行汉写（真言宗开祖；日本佛教史通称） | 2026-11-09 |
-| Kukathas, Chandran | — | 钱德兰·库卡萨斯 | — | — | immigration | 音译（《移民与自由》作者）；凭证 2026-11-12 | 2026-11-12 |
-| Kuki Shūzō | 九鬼周造 | 九鬼周造 | — | — | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
-| Kulenkampff, Jens | — | 库伦坎普夫 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Kukathas, Chandran | — | 钱德兰·库卡萨斯 | 马来西亚／澳大利亚／政治学 | 1957– | immigration | 音译（《移民与自由》作者）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 12466864X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kuki Shūzō | 九鬼周造 | 九鬼周造 | 日本／文学 | 1888–1941 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 119422840（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
+| Kulenkampff, Jens | — | 库伦坎普夫 | 德国 | 1946– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118006746（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kumārajīva | — | 鸠摩罗什 | 龟兹（今新疆库车）／佛教译经 | 344–413 | buddhism-chan | 学界千年通行译名（译经大师） | 2026-11-05 |
 | Kumārila Bhaṭṭa | कुमारिल भट्ट | 鸠摩利罗·跋陀 | 印度（弥曼差学派） | c. 700 | kumaarila | SUMMARY 定名（印度哲学史学界通行；约 660 年，前弥曼差） | 2026-11-05 |
 | Kundakunda | कुण्डकुण्ड | 昆达昆达 | 古印度（卡纳塔克）／耆那教 | 约 3–8 世纪 | jaina-philosophy | 梵音自拟（集体作者名；《自我之精髓》传统） | 2026-11-08 |
-| Künzang Sönam | — | Künzang Sönam（kun bzang bsod nams，1823–1905） | — | — | gelukpa | 无通行汉名，保留英文（ADR-0022 判据；2026-11-11 待裁定收口） | 2026-11-01 |
+| Künzang Sönam | — | Künzang Sönam（kun bzang bsod nams，1823–1905） | 西藏 | 1823–1905 | gelukpa | 无通行汉名，保留英文（ADR-0022 判据；2026-11-11 待裁定收口）；籍属/生卒联网查证：GND 规范标目 gnd 129804215（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kuokkanen, Rauna | — | 劳娜·库奥卡宁 | — | — | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | Kuper, Andrew | — | 安德鲁·库珀 | 美国 | — | global-democracy | 音译（世界政府论者） | 2026-11-12 |
 | Kuratowski, Kazimierz | — | 卡齐米日·库拉托夫斯基 | 1896–1980 | 数学通行译名（库拉托夫斯基引理）；凭证 2026-11-09 | quine-nf | 波兰 | 2026-11-09 |
@@ -2414,7 +2414,7 @@
 | Kuyper, Jonathan | — | 乔纳森·凯珀 | — | — | global-democracy | 音译（本词条作者，全球民主研究） | 2026-11-12 |
 | Kvanvig, Jonathan | — | 乔纳森·克万维格 | 美国 | 1954– | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |
 | Kwŏn Ilsin | 權日身 | 权日身 | 1736–1791 | — | korean-confucianism | 汉文传统写法（朝鲜早期天主教徒，安鼎福女婿） | 2026-11-08 |
-| Kwŏn Kŭn | 權近 | 权近 | — | — | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村） | 2026-11-05 |
+| Kwŏn Kŭn | 權近 | 权近 | 朝鲜／儒学 | 1352–1409 | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村）；籍属/生卒联网查证：GND 规范标目 gnd 1055691723（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kyburg, Henry | — | 亨利·基伯格 | — | — | closure-epistemic | 学界通行音译（彩票悖论）；凭证 2026-11-08 | 2026-11-08 |
 | Kydones, Demetrios | Demetrios Kydones | 德米特里奥斯·基多内斯 | 拜占庭 | c. 1324–1397 | bessarion | 本词条首译（拜占庭政治家、翻译家，阿奎那两部《大全》希腊译者；学界通行音译） | 2026-11-10 |
 | Kymlicka, Will | — | 威尔·金里卡 | 加拿大 | 1962– | cosmopolitanism | 学界通行汉译（《多元文化的公民身份》作者）；凭证 2026-11-09 | 2026-11-09 |

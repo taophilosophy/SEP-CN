@@ -20,11 +20,9 @@ The square of opposition is a group of theses embodied in a diagram. The diagram
 
 The diagram for the traditional square of opposition is:
 
-*Figure: The Traditional Square of Opposition*
-
 ![A square: upper-left corner has 'A'/'Every S is P', upper-right corner has 'E'/'No S is P', lower-left corner has 'I'/'Some S is P', lower-right corner has 'O'/'Some S is not P'. Lines from A to I and E to O is labelled 'subalterns'; line from A to E is labelled 'contraries'; line from I to O is labelled 'subcontraries'; lines from A to O and E to I are labelled 'contradictories'.](../assets/square/image-a.jpg)
 
-Figure: The Traditional Square of Opposition
+*Figure: The Traditional Square of Opposition*
 
 The theses embodied in this diagram I call ‘SQUARE’. They are:
 
@@ -74,11 +72,9 @@ Most contemporary logic texts symbolize the traditional forms as follows:
 
 If this symbolization is adopted along with standard views about the logic of connectives and quantifiers, the relations embodied in the traditional square mostly disappear. The modern diagram looks like this:
 
-*Figure: The Modern Revised Square*
-
 ![A square: upper-left corner has 'A'/'Every S is P', upper-right corner has 'E'/'No S is P', lower-left corner has 'I'/'Some S is P', lower-right corner has 'O'/'Some S is not P'. Lines crossing from A to O and from E to I are labelled 'contradictories'.](../assets/square/image-b.jpg)
 
-Figure: The Modern Revised Square
+*Figure: The Modern Revised Square*
 
 This has too little structure to be particularly useful, and so it is not commonly used. According to Alonzo Church, this modern view probably originated sometime in the late nineteenth century.[^note-1] This representation of the four forms is now generally accepted, except for qualms about the loss of subalternation in the left-hand column. Most English speakers tend to understand ‘Every *S* is *P*’ as requiring for its truth that there be some *S*s, and if that requirement is imposed, then subalternation holds for affirmative propositions. Every modern logic text must address the apparent implausibility of letting ‘Every *S* is *P*’ be true when there are no *S*s. The common defense of this is usually that this is a logical notation devised for purposes of logic, and it does not claim to capture every nuance of the natural language forms that the symbols resemble. So perhaps ‘∀*x*(*Sx* → *Px*)’ does fail to do complete justice to ordinary usage of ‘Every *S* is *P*’, but this is not a problem with the logic. If you think that ‘Every *S* is *P*’ requires for its truth that there be *S*s, then you can have that result simply and easily: just represent the recalcitrant uses of ‘Every *S* is *P*’ in symbolic notation by adding an extra conjunct to the symbolization, like this: ∀*x*(*Sx* → *Px*) & ∃*xSx*.
 
@@ -108,11 +104,9 @@ The *doctrine* that I call [SQUARE] can be traced to Aristotle. It begins in *De
 
 This gives us the following fragment of the square:
 
-*Figure: Fragment of the Square*
-
 ![A square: upper-left corner has 'A'/'Every S is P', upper-right corner has 'E'/'No S is P', lower-left corner has 'I'/'Some S is P', lower-right corner has 'O'/'Some S is not P'. Lines crossing from A to O and from E to I are labelled 'contradictories'. Line from A to E is labelled 'contraries'.](../assets/square/image-c.jpg)
 
-Figure: Fragment of the Square
+*Figure: Fragment of the Square*
 
 But the rest is there by implication. For example, there is enough to show that **I** and **O** are subcontraries: they cannot both be false. For suppose that **I** is false. Then its contradictory, **E**, is true. So **E**’s contrary, **A**, is false. So **A**’s contradictory, **O**, is true. This refutes the possibility that **I** and **O** are both false, and thus fills in the bottom relation of subcontraries. Subalternation also follows. Suppose that the **A** form is true. Then its contrary **E** form must be false. But then the **E** form’s contradictory, **I**, must be true. Thus if the **A** form is true, so must be the **I** form. A parallel argument establishes subalternation from **E** to **O** as well. The result is SQUARE.
 

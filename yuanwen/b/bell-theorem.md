@@ -143,11 +143,9 @@ $$\tag{15} \ket{\Phi} = \frac{1}{\sqrt{2}}\left(\ket{x}_1 \ket{x}_2 + \ket{y}_1 
 
 which is invariant under rotation of the $x$ and $y$ axes in the plane perpendicular to $z$. The total quantum state of the pair of photons 1 and 2 is invariant under the exchange of the two photons, as required by the fact that photons are integral spin particles. Suppose now that photons 1 and 2 impinge respectively on the faces of birefringent crystal polarization analyzers I and II, with the entrance face of each analyzer perpendicular to $z$. Each analyzer has the property of separating light incident upon its face into two outgoing non-parallel rays, the *ordinary ray* and the *extraordinary ray*. The transmission axis of the analyzer is a direction with the property that a photon polarized along it will emerge in the ordinary ray (with certainty if the crystals are assumed to be ideal), while a photon polarized in a direction perpendicular to $z$ and to the transmission axis will emerge in the extraordinary ray. See Figure 1:
 
-*Figure 1*
-
 ![Schematic diagram of the experimental set-up, indicating particle pairs emitted at a source, and impinging on analyzers, from which they are deflected into one of two outgoing rays.](../assets/bell-theorem/image1.jpg)
 
-Figure 1 (*reprinted with permission*)
+*Figure 1* (*reprinted with permission*)
 
 Photon pairs are emitted from the source, each pair quantum mechanically described by $\ket{\Phi}$ of Eq. (15). I and II are polarization analyzers, with outcomes $s=1$ and $t=1$ designating emergence in the ordinary ray, while $s = -1$ and $t = -1$ designate emergence in the extraordinary ray. The crystals are also idealized by assuming that no incident photon is absorbed, but each emerges in either the ordinary or the extraordinary ray.
 
@@ -207,11 +205,9 @@ This, says Bell, is “not yet sufficiently sharp and clean for mathematics.” 
 
 A theory will be said to be locally causal if the probabilities attached to values of local beables in a space-time region 1 are unaltered by specification of values of local beables in a space-like separated region 2, when what happens in the backward light cone of 1 is already sufficiently specified, for example by a full specification of local beables in a spacetime region 3.
 
-*Figure 2*
-
 ![Spacetime diagram depicting two regions, labelled 1 and 2, at spacelike separation from each other, and a third region, labelled 3, which is such that any timelike path that goes from the intersection of the past light cones of 1 and 2 to region 1 must go through region 3.](../assets/bell-theorem/image2.jpg)
 
-Figure 2
+*Figure 2*
 
 In Bell’s terminology, a *beable* is any element of a physical theory that is taken to correspond to something physically real, and *local beables* pertaining to a space-time region are those contained within that region.
 

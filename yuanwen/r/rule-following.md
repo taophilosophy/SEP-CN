@@ -148,7 +148,7 @@ and
 
 (b*)
 
-‘Let’s write a fugue!’, as uttered by Glenn, is correct iff either (a) it is time *t* earlier than *t** and Glenn plans to write a fugue or (b) it is time *t* later than or equal to *t** and Glenn plans to write a novel.
+‘Let’s write a fugue!’, as uttered by Glenn, is correct iff either (a) it is time *t* earlier than *t*\* and Glenn plans to write a fugue or (b) it is time *t* later than or equal to *t*\* and Glenn plans to write a novel.
 
 Glenn’s finite nature together with the infinitude of the temporal sequence ensures that the sceptic will always be able to argue that no fact about Glenn is capable of ruling in something like (a*) and ruling out something like (b*) as the relevant correctness condition. The non-factualist is entitled to regard “Let’s write a fugue!” as having a determinate meaning only if she can provide some fact about Glenn or his speech community that determines that that sentence is governed by (a*) rather than (b*). The same argument can be pressed against the suggestion that “Jones means addition by ‘+’” should be regarded as having some non-descriptive semantic function. The non-factualist will be able to regard “Jones means addition by ‘+’” as having a determinate meaning only if she can provide some fact about Jones or his speech community that determines that that sentence is governed by one rule or correctness condition rather than another.
 

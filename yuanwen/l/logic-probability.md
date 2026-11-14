@@ -225,11 +225,9 @@ The first generalization, which is most common in applications of modal probabil
 
 We depict this example with the following diagram. Inside each circle is a labeling of the truth of each proposition letter for the world whose name is labelled right outside the circle. The arrows indicate the probabilities. For example, an arrow from world $x$ to world $z$ labeled by $(b,3/4)$ indicates that from $x$, the probably of $z$ under label $b$ is $3/4$. Probabilities of 0 are not labelled.
 
-*Figure*
-
 ![Four circles each with a possible state of p,q and probability arrows between them](../assets/logic-probability/figure1.svg)
 
-Figure
+*Figure*
 
 **Stochastic Interpretation:** Consider the elements $a$ and $b$ of $A$ to be actions, for example, pressing buttons on a machine. In this case, pressing a button does not have a certain outcome. For instance, if the machine is in state $x$, there is a $1/2$ probability it will remain in the same state after pressing $a$, but a $1/4$ probability of remaining in the same state after pressing $b$. That is,
 

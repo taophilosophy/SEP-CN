@@ -222,17 +222,17 @@ What the difference between individual and global supervenience really comes to 
 
 It is clear that strong individual supervenience entails global supervenience (see Kim 1984)[^kim-1984]. The question that has attracted attention is the converse—whether global supervenience entails strong individual supervenience. In this section, we describe the initial stages of this debate, which took place when the going notion of global supervenience was that outlined just above. In Section 4.3.2, we explain how that notion has been replaced by a family of more precise notions, and explore how it affects the question of whether global supervenience entails strong individual supervenience. (Most of the reminder of this section paraphrases McLaughlin 1995, 55–56.)[^mclaughlin-1995]
 
-The debate began when Kim purported to show that “global supervenience is nothing but strong supervenience” (1984, 168). In response, Brad Petrie (1987) argued that global supervenience does not entail strong supervenience. His strategy was to try to provide a counterexample to a strong supervenience thesis that is not a counterexample to the corresponding global supervenience thesis. Here is his case. Let set *A* = {*S*} and that *B* = {*P*}. Consider two worlds *w*_{1} and *w*_{2} that are as follows: world *w*_{1} contains exactly two objects, *x* and *y*. And world *w*_{2} contains exactly two objects, *x** and *y**. The following purports to be a complete depiction of the contents of those worlds:
+The debate began when Kim purported to show that “global supervenience is nothing but strong supervenience” (1984, 168). In response, Brad Petrie (1987) argued that global supervenience does not entail strong supervenience. His strategy was to try to provide a counterexample to a strong supervenience thesis that is not a counterexample to the corresponding global supervenience thesis. Here is his case. Let set *A* = {*S*} and that *B* = {*P*}. Consider two worlds *w*_{1} and *w*_{2} that are as follows: world *w*_{1} contains exactly two objects, *x* and *y*. And world *w*_{2} contains exactly two objects, *x*\* and *y*\*. The following purports to be a complete depiction of the contents of those worlds:
 
 | *W*_{1} |   | *W*_{2} |
 | --- | --- | --- |
 |   |   |   |
-| *Px* |   | *Px** |
-| *Sx* |   | ~*Sx** |
-| *Py* |   | ~*Py** |
-| ~*Sy* |   | ~*Sy** |
+| *Px* |   | *Px*\* |
+| *Sx* |   | ~*Sx*\* |
+| *Py* |   | ~*Py*\* |
+| ~*Sy* |   | ~*Sy*\* |
 
-The existence of *w*_{1} and *w*_{2} is incompatible with the thesis that *A* strongly individually supervenes on *B* because *x* in w_{1} is *B*-indiscernible but *A*-discernible from *x** in *w*_{2}. But the existence of these worlds is not itself a counterexample to the *global* supervenience of *A* on *B*. Since w_{1} and *w*_{2} do not have the same global pattern of distribution of *B*-properties, it seems not to matter that the worlds do not have the same global pattern of distribution of *A*-properties. Thus Petrie claimed that “since global supervenience is, and strong supervenience is not, consistent with this example, the two concepts of supervenience are not equivalent” (1987, 121).
+The existence of *w*_{1} and *w*_{2} is incompatible with the thesis that *A* strongly individually supervenes on *B* because *x* in w_{1} is *B*-indiscernible but *A*-discernible from *x*\* in *w*_{2}. But the existence of these worlds is not itself a counterexample to the *global* supervenience of *A* on *B*. Since w_{1} and *w*_{2} do not have the same global pattern of distribution of *B*-properties, it seems not to matter that the worlds do not have the same global pattern of distribution of *A*-properties. Thus Petrie claimed that “since global supervenience is, and strong supervenience is not, consistent with this example, the two concepts of supervenience are not equivalent” (1987, 121).
 
 In response, Kim conceded that global supervenience fails to entail strong supervenience (1987, 318), and went on to claim that Petrie’s example also shows that global supervenience fails to entail weak. Notice that *w*_{1} alone violates the weak supervenience of *A* on *B*, but also fails to be a counterexample to the global supervenience of *A* on *B*. Kim thus concluded that global supervenience fails to entail weak or strong individual supervenience.
 
@@ -240,19 +240,19 @@ Paull and Sider pointed out that these argument strategies are no good (1992). T
 
 Paull and Sider appeal to a plausible principle to show that the existence of Petrie’s *w*_{1} and *w*_{2} entail the existence of a pair of worlds that constitutes a counterexample to the global supervenience of *A*-properties on *B*-properties (1992, 838). The basic idea is that for any object in any possible world, there is another world containing an “isolated duplicate” of it. Intuitively, the duplicate exists all alone in its world; more precisely, an object y is isolated in a world “if and only if that world contains only (i) *y*, (ii) *y*’s parts, and (iii) objects whose existence is entail by any of the objects mentioned in (i) and (ii)” (1992, 838–9). Crucially, isolated duplicates share the intrinsic properties of the things with which they are duplicates. (Two caveats. First, this is not intended to be a *definition* of ‘intrinsic’. For some attempts to do so, see e.g., Lewis 1983a, Langton and Lewis 1998, and a variety of articles in *Philosophy and Phenomenological Research* 63)[^langton-1998][^lewis-1983a]. Second, notice that the principle does not say that each thing can itself exist in isolation; it simply says that each thing has a duplicate that does. It consequently does not entail that nothing has any essential extrinsic properties.)
 
-Paull and Sider’s isolation principle does the job. Consider again the worlds *w*_{1} and *w*_{2} that Petrie described. Petrie purported to describe the worlds in full. Thus, *P* and *S* are presumably supposed to be intrinsic properties. It follows from the isolation principle that there is a world *w*_{3} that contains an isolated duplicate of *x*—call it “*z*”—and a world *w*_{4} that contains an isolated duplicate of *x**—call it “*z**.” As Paull and Sider note, these worlds will be as follows:
+Paull and Sider’s isolation principle does the job. Consider again the worlds *w*_{1} and *w*_{2} that Petrie described. Petrie purported to describe the worlds in full. Thus, *P* and *S* are presumably supposed to be intrinsic properties. It follows from the isolation principle that there is a world *w*_{3} that contains an isolated duplicate of *x*—call it “*z*”—and a world *w*_{4} that contains an isolated duplicate of *x*\*—call it “*z*\*.” As Paull and Sider note, these worlds will be as follows:
 
 | *W*_{3} |   | *W*_{4} |
 | --- | --- | --- |
 |   |   |   |
-| *Pz* |   | *Pz** |
-| *Sz* |   | ~*Sz** |
+| *Pz* |   | *Pz*\* |
+| *Sz* |   | ~*Sz*\* |
 
 Unlike *w*_{1} and *w*_{2}, *w*_{3} and *w*_{4} constitute a counterexample to the global supervenience of *A*-properties on *B*-properties. They have the same pattern of distribution of *B*-properties, but different patterns of distribution of *A*-properties. So, Paull and Sider claim that Petrie failed to show that global supervenience does not entail strong supervenience.
 
 But Paull and Sider went on to provide a new argument for that claim. They appealed to a set *B* containing just two properties, *P* and *Q*, and a set *A* containing only one property, *M*. An object has *M* just in case it has *P*, and some other object is *Q*. That is to say, *Mx* =_{*df*} *Px* & ∃*yQy*. This definition guarantees that *A* globally supervenes on *B*. They then described the following two worlds:
 
-| *W* |   | *W** |
+| *W* |   | *W*\* |
 | --- | --- | --- |
 |   |   |   |
 | *Ma* |   | ~*Mc* |
@@ -262,7 +262,7 @@ But Paull and Sider went on to provide a new argument for that claim. They appea
 
 This pair of worlds shows that *A* does not strongly supervene on *B*. And the principle of isolation cannot be applied to generate a counterexample to global supervenience. An isolated duplicate of a would be both *A*- and *B*-indiscernible from c (an isolated duplicate of a would *not have M*). Consequently, Paull and Sider concluded that global and strong supervenience are not equivalent. (1992, 841).
 
-Klagge (1995) objected to this line of argument. He pointed out that Paull and Sider include an extrinsic property *M* in the supervenient set *A*, but only intrinsic properties *P* and *Q* in the subvenient or base set *B*. And, he claimed, if we allow that there are the sorts of property-forming operations required to construct extrinsic property *M*, then Paull and Sider have not exhaustively characterized worlds *w* and *w**. For, given those property-forming operations, it is plausible that there will, for instance, be a property *P*# that can be defined as follows: *P*# =_{*df*} *Px* & ∃*y*(*y*≠*x*). (Basically, a thing is *P*# just in case something else is *P*.) *a* in *w* and *c* in *w** differ on this property; *a* has *P*# while *c* does not. That is right. But Klagge took that to show that *w* and *w** do not provide a counterexample to the strong supervenience of *A* on *B* after all. That, however, does not follow. It would follow only if *a* and *c* thereby counted as *B*-discernible, and they do not. Paull and Sider stipulate that *B* contains only *P* and *Q*. Thus, *a* and *c* are *B*-indiscernible, despite the fact that *a* has *P*# and *c* does not.
+Klagge (1995) objected to this line of argument. He pointed out that Paull and Sider include an extrinsic property *M* in the supervenient set *A*, but only intrinsic properties *P* and *Q* in the subvenient or base set *B*. And, he claimed, if we allow that there are the sorts of property-forming operations required to construct extrinsic property *M*, then Paull and Sider have not exhaustively characterized worlds *w* and *w*\*. For, given those property-forming operations, it is plausible that there will, for instance, be a property *P*# that can be defined as follows: *P*# =_{*df*} *Px* & ∃*y*(*y*≠*x*). (Basically, a thing is *P*# just in case something else is *P*.) *a* in *w* and *c* in *w*\* differ on this property; *a* has *P*# while *c* does not. That is right. But Klagge took that to show that *w* and *w*\* do not provide a counterexample to the strong supervenience of *A* on *B* after all. That, however, does not follow. It would follow only if *a* and *c* thereby counted as *B*-discernible, and they do not. Paull and Sider stipulate that *B* contains only *P* and *Q*. Thus, *a* and *c* are *B*-indiscernible, despite the fact that *a* has *P*# and *c* does not.
 
 But Klagge was clearly right that Paull and Sider’s example involves a supervenient set *A* that contains an extrinsic property and a subvenient set *B* that contains only intrinsic properties, and he was right that this is important. It invites the question whether global supervenience might entail strong supervenience when *A* and *B* are sets of intrinsic properties. And it invites the question whether global supervenience might entail strong supervenience when *A* and *B* both include extrinsic properties of certain sorts. Indeed, in response to Paull and Sider, Kim suggests that “equivalence seems to fail, through the failure of implication from global to strong supervenience, only when extrinsic properties are present in the supervenient set but disallowed from the subvenient base” (1993, 170; see also McLaughlin 1997a, 215)[^mclaughlin-1997a]. We will return to these questions in the next several sections. Answering them requires getting clearer about global supervenience; to this we now turn.
 
@@ -364,11 +364,11 @@ When *R* is identity, these are equivalent, respectively, to single domain weak 
 
 Coincidence-friendly supervenience is another kind of multiple-domain supervenience (proposed by Dean Zimmerman 1995, 88)[^zimmerman-1995]). It can be formulated as follows (see Bennett 2004, 520):
 
-> *Coincidence-Friendly Supervenience* : For all *x* and *y*, and all worlds *w*_{1} and *w*_{2}, if *x* in *w*_{1} is *B*-indiscernible from *y* in *w*_{2}, then for each thing *x** in *w*_{1} to which *x* is *R*-related, there is something *y** in *w*_{2} that is *R*-related to *y* and that is *A*-indiscernible from *x**.
+> *Coincidence-Friendly Supervenience* : For all *x* and *y*, and all worlds *w*_{1} and *w*_{2}, if *x* in *w*_{1} is *B*-indiscernible from *y* in *w*_{2}, then for each thing *x*\* in *w*_{1} to which *x* is *R*-related, there is something *y*\* in *w*_{2} that is *R*-related to *y* and that is *A*-indiscernible from *x*\*.
 
 That is a strong version, but a weak version can be formulated as follows:
 
-> *Weak Coincidence-Friendly Supervenience:* For any world *w* and any *x* and *y* in *w*, if *x* in *w* is *B*-indiscernible from *y* in *w*, then for each thing *x** to which *x* is *R*-related in *w*, there is something y* that *y* is *R*-related in *w* and *x** is *A*-indiscernible from *y**.
+> *Weak Coincidence-Friendly Supervenience:* For any world *w* and any *x* and *y* in *w*, if *x* in *w* is *B*-indiscernible from *y* in *w*, then for each thing *x*\* to which *x* is *R*-related in *w*, there is something y* that *y* is *R*-related in *w* and *x*\* is *A*-indiscernible from *y*\*.
 
 Here again, when *R* is identity, these forms of supervenience are equivalent, respectively, to weak and strong individual supervenience. And here again, the weak and strong versions are equivalent when *A* is a set of only intrinsic properties.
 

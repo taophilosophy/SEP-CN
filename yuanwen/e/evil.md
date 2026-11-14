@@ -499,7 +499,7 @@ where $P^*$ is the proposition that Rowe sets out in footnote 8 of his article, 
 
 Once this is noticed, it is clear that Rowe’s argument is open to precisely the same response as that used against the objection to the parody argument just considered, since the justification that one can offer for $\negt G$ or $P^*$ is in fact just a justification of the second disjunct—that is, $P^*$. This means that in appealing to $P$ (i.e., to $(\negt G)$ or $P^*$) one is not making use of one’s total evidence. So Rowe’s argument, if it is to be sound, must instead be formulated in terms of $P^*$.
 
-But while $\negt G$ entails $P$, it does not entail $P^*$. So the result of replacing ‘*P*’ by ‘*P**’ in statement (1)—that is
+But while $\negt G$ entails $P$, it does not entail $P^*$. So the result of replacing ‘*P*’ by ‘*P*\*’ in statement (1)—that is
 
 $$ \tag{\(1^*\)} \Pr(P^* \mid \negt G \amp k) = 1 $$
 

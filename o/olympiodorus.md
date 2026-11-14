@@ -75,7 +75,7 @@
 
 《论佐西摩斯〈论活动〉：赫尔墨斯与诸哲学家所言之一切》一书，一般被视为伪作（但参 Viano 2021 的细致解读）[^viano-2021]。版本见 Bertholet, M. 与 Ruelle, C.-M.（1888）*Collection des anciens alchemistes grecs,* vol. III，巴黎：Steinheil，pp. 69–104；法译见 vol. II，pp. 75–113。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 

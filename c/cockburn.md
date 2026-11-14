@@ -40,7 +40,7 @@
 
 [^note-1]: 近来关于考克本的生卒年出现了一些争议。根据玛格丽特·康纳（Margaret Connor）在其题为《凯瑟琳·特洛特：一个未知的孩子？》的文章中的说法，考克本在 1707 年 12 月 13 日的一封信中提及她儿子即将到来的婚事 [ANQ, vol. 8, #4, 1995: 11–14]。基于这一证据，康纳得出结论：考克本的生卒年似乎已被她自己或伯奇改动，因为她若要有一个成年的儿子，很可能已年过 28。然而，作为回应，安妮·凯利（Anne Kelley）在其著作《凯瑟琳·特洛特》（*Catharine Trotter*）中指出，这封信的稿本是一件抄本，并非出自考克本的手笔。她写道，很可能在转录中存在错误，而非康纳文章《凯瑟琳·特洛特：一位处于女权主义先锋地位的近代早期作家》所暗示的关于生卒年的任何掩饰（Hampshire, Eng., Ashgate, 2002, p.39）。我将继续采用托马斯·伯奇（Thomas Birch）收入《著作集》（*Works*）的传记所提供的日期，因为以我们目前有限的信息，无法判定她的生卒年是否正确。
 
-## References（引用注释）
+## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -51,7 +51,7 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cockburn)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cockburn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/cockburn/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cockburn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=cockburn&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/cockburn/) 查看本词条的增强文献目录及其数据库链接。
 

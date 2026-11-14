@@ -216,11 +216,9 @@ This may not be the only problematic assumption of the Wheeler and Feynman theor
 
 When the discussion of tachyons began to appear in physics in the 1960s, it was soon noticed that such particles according to some frames of reference were associated with negative energies going backwards in time. To understand how, consider the trajectory of the same tachyon in relation of three different reference frames, $S, S^*$, and $S^{**}$ in the Minkowski-space. Now assume that $A$ is, in relation to $S$, the emission of a tachyon at $t_{1}$ and $B$ is the absorption of the tachyon at $t_{2}$. According to an observer in $S, A$ will be earlier than $B$ and the tachyon will carry positive energy forward in time. Nevertheless it is always possible to select a reference frame $S^*$ in relation to which an observer will see $A$ happen simultaneously with $B$ and yet another reference frame $S^{**}$ in relation to which an observer sees $A$ happens at $t_{2}^{**}$ whereas $B$ happens at $t_{1}^{**}$. According to the observer in $S^{*}$, $A$ will take place later than $B$ and the tachyon carries negative energy backwards in time (See Figure 1).
 
-*Figure 1:*
-
 ![[Three diagrams each with a vertical axis labelled ‘time’ and an arrow pointing up and two horizontal perpendicular axes labelled ‘space’]](../assets/causation-backwards/tachyon.svg)
 
-Figure 1: Spacetime diagram of tachyon
+*Figure 1:* Spacetime diagram of tachyon
 
 In Figure 1 the planes represent the hypersurfaces of simultaneity. In relation to frame $S$ the tachyon source is at rest, and a tachyon is emitted at event $A$, with a superluminal but finite velocity. The absorption of the tachyon, event $B$, will accordingly occur later than $A$ in relation to the observer in $S$, and the arrow of trajectory is for that reason pointing into the future above the hypersurface passing through $A$ and standing perpendicular to the world-line of the source. But neither with respect to the frame $S^*$ nor $S^{**}$ is the tachyon source at rest and the hypersurfaces are therefore tilted in relation to the arrow of trajectory. An observer in $S^*$ observes the tachyon to have infinite speed, and therefore the hypersurface is tilted so much that it coincides with the arrow. The observer in $S^{**}$ is moving so fast with respect to the tachyon source that the hypersurface becomes titled so much that the arrow points into the past below the hypersurface.
 

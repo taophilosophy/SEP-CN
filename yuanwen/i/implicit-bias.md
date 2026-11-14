@@ -25,29 +25,21 @@ Implicit measures, then, might be thought of as instruments that assess people�
 
 In the literature, “implicit” is used to refer to at least four distinct things (Gawronski & Brannon 2017)[^gawronski-2017][^gawronski-2017-2]: (1) a distinctive psychological construct, such as an “implicit attitude,” which is assessed by a variety of instruments; (2) a family of instruments, called “implicit measures,” that assess people’s thoughts and feelings in a specific way (e.g., in a way that minimizes subjects’ reliance on introspection and their ability to respond strategically); (3) a set of cognitive and affective processes—“implicit processes”—that affect responses on a variety of measures; and (4) a kind of evaluative behavior—e.g., a categorization judgment—elicited by specific circumstances, such as cognitive load. In this entry, I will use “implicit” in the senses of (2) and (4), unless otherwise noted. One virtue of this approach is that it allows one to remain agnostic about the nature of the phenomena implicit measures assess.[^note-4] Consider Frank again. His implicit gender bias may be assessed by several different instruments, such as sequential priming or the “Implicit Association Test” (IAT; Greenwald et al. 1998)[^greenwald-1998]. The IAT—the most well-known implicit test—is a reaction time measure. In a standard IAT, the subject attempts to sort words or pictures into categories as fast as possible while making as few errors as possible. In the images below, the correct answers would be left, right, left, right.
 
-*Image 1*
-
 ![[a black box in the center is the word 'Michelle' in white, on the top left are the words 'Female or [in white] Family [in green]', on the top right are the words 'Male or [in white] Career [in green]']](../assets/implicit-bias/image1.png)
 
-Image 1
-
-*Image 2*
+*Image 1*
 
 ![[a black box in the center is the word 'Michelle' in white, on the top left are the words 'Male or [in white] Family [in green]', on the top right are the words 'Female or [in white] Career [in green]']](../assets/implicit-bias/image2.png)
 
-Image 2
-
-*Image 3*
+*Image 2*
 
 ![[a black box in the center is the word 'Business' in green, on the top left are the words 'Male or [in white] Career [in green]', on the top right are the words 'Female or [in white] Family [in green]']](../assets/implicit-bias/image3.png)
 
-Image 3
-
-*Image 4*
+*Image 3*
 
 ![[a black box in the center is the word 'Business' in green, on the top left are the words 'Male or [in white] Family [in green]', on the top right are the words 'Female or [in white] Career [in green]']](../assets/implicit-bias/image4.png)
 
-Image 4
+*Image 4*
 
 All images are copyright of [Project Implicit](http://projectimplicit.net/) and reproduced here with permission.
 

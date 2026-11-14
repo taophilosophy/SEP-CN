@@ -27,11 +27,9 @@ In his *Treatise on Probability* Keynes argued that “probabilities” needn’
 
 Keynes’ *Theory of Probability* contains the diagram reproduced in Figure H1, and it’s clear from this that he thought there could be degrees of belief that were not numerically comparable. Keynes interprets the *O* and *I* as the contradiction and tautology respectively and *A* is a proposition with a numerically measurable probability. The lines connect those propositions (denoted by letters) that can be compared. So *V* and *W* can be compared and *W* is more likely that *V* (since it is closer to *I*). Those propositions without lines between them (for example *X* and *Y*) are incomparable. Keynes’ own discussion of the diagram is on page 42 of Keynes (1921).
 
-*Figure H1:*
-
 ![[A line with endpoints 'O' and 'I' and a point about two-thirds of the way from 'O' to 'I' labeled 'A'. A wide curve above the line goes from 'O' to 'I' with a point partway labeled 'U'. A second curve below the first also goes from 'O' to 'I' and has points 'V', 'W', and 'X' marked on it. A third curve initial starts between the first and second curves at 'O' but intersects the second curve at 'W' and goes below before ending also at 'I'; a point 'Z' is marked on the first part of this curve and a point 'X' on the second part. A last curve connects points 'V' on the second curve and point 'A' on the line.]](../assets/imprecise-probabilities/keynes.png)
 
-Figure H1: Keynes’ view of probability
+*Figure H1:* Keynes’ view of probability
 
 Weatherson (2002) interprets Keynes as favouring some sort of IP view since sets of functions (or intervals of values) naturally give rise to the sorts of incomparabilities that Keynes takes to be features of belief. Keynes took (conditional) probability to be a sort of logical relationship that held between propositions (Hájek 2011: 3.2), rather than as strength of belief. So whether Keynes would have approved of IP models is unclear. See Kyburg (2003) for a discussion of Keynes’ view by someone sympathetic to IP, and see Brady and Arthmar (2012) for further discussion of Kaynes’ view.
 
@@ -129,10 +127,8 @@ Gärdenfors and Sahlin (1982) introduce a theory that they term *Unreliable Prob
 
 Gärdenfors and Sahlin (1982) don’t really discuss this measure of reliability a great deal. Presumably reliability increases as evidence comes in that supports that probability function. Gärdenfors and Sahlin offer an example to illustrate how reliability is supposed to work. They consider three tennis matches. In match $A$, you know that the two tennis players are of roughly the same level and that it will be a tight match. In match $B$, you have never even heard of either player and so cannot judge whether or not they are well matched. In match $C$ you have heard that the players are really unevenly matched: one player is much better than the other, but you do not know which of the players is significantly better. If we graphed reliability of a probability against how likely that probability thinks it is that the player serving first will win, the graphs would be as follows: graph $A$ would be very sharply peaked about $0.5$; graph $B$ would be quite spread out; graph $C$ would be a sort of “U” shape with high reliability at both ends, lower in the middle. See Figure H2. Graph $A$ is peaked because you know that the match will be close. You have reliable information that the player serving has about a 50% chance of winning. Graph $B$ is spread out because you have no such information in this case. In case $C$, you know that the probability functions that put the chances at near 50-50 are unreliable: all you know is that the match will be one-sided.
 
-*Figure H2:*
-
 ![[three graphs each showing just the first quadrant. The first labeled 'A' has a dotted line depicting a bell curve, the second labeled 'B' has a dotted straight horizontal line, and the third labeled 'C' has an upside down bell curve.]](../assets/imprecise-probabilities/unreliable-graphs.png)
 
-Figure H2: Graphs of reliability against probability server wins point
+*Figure H2:* Graphs of reliability against probability server wins point
 
 In summary, the unreliable probabilities approach enriches a credal set with a *reliability index*. See Levi (1982) for a critical discussion of unreliable probabilities. Cattaneo (2008) gives some content to the reliability index of a probability by interpreting it in terms of the likelihood of the evidence given by that probability. Another formal theory that seems inspired by the reliability approach is that of Brian Hill (2013).

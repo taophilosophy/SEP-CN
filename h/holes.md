@@ -40,7 +40,7 @@
 
 一如既往，在所有这些备选方案之间如何取舍——洞该受奥卡姆剃刀裁剪、该还原为其他实体，还是该按字面接受——取决于一个人总体的形而上学倾向（Lewis & Lewis 1996）[^lewis-1996]。它也可能取决于关于空间与时空本性的争议性细节，例如二者是关系性的还是实体性的（Braddon-Mitchell & Miller 2015）[^braddon-mitchell-2015]。更一般地说，哲学家审视常识世界图景所固有的本体论，考察描述与理解这一图景所用的概念、词语与目的，总得就此拿定主意；上述取舍正是这类决定的一个实例。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -52,7 +52,7 @@
 [^bertamini-2003]: Bertamini, M., and Croucher, C. J., 2003, ‘The Shape of Holes’, *Cognition*, 87: 33–54.
 [^bertamini-2012]: Bertamini, M., and Helmy, M. S., 2012, ‘The Shape of a Hole and that of the Surface-with-hole Cannot be Analysed Separately’, *Psychonomic Bulletin and Review*, 19: 608–616.
 [^bozzi-1975]: Bozzi, P., 1975, ‘Osservazioni su alcuni casi di trasparenza fenomica realizzabili con figure a tratto’, in G. B. Flores d’Arcais (ed.), *Studies in Perception: Festschrift for Fabio Metelli*, Milan/Florence: Martelli-Giunti, pp. 88–110; English translation by R. Davies and I. Bianchi: ‘Observations on Some Cases of Phenomenal Transparency Obtained with Line Drawings’, in I. Bianchi and R. Davies (eds.), *Paolo Bozzi’s Experimental Phenomenology*, London: Routledge, 2019, pp. 305–321.
-[^braddon-mitchell-2015]: Braddon-Mitchell, D., and Miller, K., 2015 ‘On Metaphysical Analysis’, in B. Loewer and J. Schaffer (eds.), *A Companion to David Lewis*, London: Wiley-Blackwell, pp. 40–59.
+[^braddon-mitchell-2015]: Braddon-Mitchell, D., and Miller, K., 2015, ‘On Metaphysical Analysis’, in B. Loewer and J. Schaffer (eds.), *A Companion to David Lewis*, London: Wiley-Blackwell, pp. 40–59.
 [^calabi-2019]: Calabi, C., 2019, ‘The Eye of the Needle: Seeing Holes’, in R. Davies (ed.), *Natural and Artifactual Objects in Contemporary Metaphysics*, London: Bloomsbury, pp. 93–102.
 [^casati-1994]: Casati, R., and Varzi, A. C., 1994, *Holes and Other Superficialities*, Cambridge, MA: MIT Press.
 [^casati-2004]: –––, 2004, ‘Counting the Holes’, *Australasian Journal of Philosophy*, 82: 23–27.
@@ -89,7 +89,7 @@
 [^siegel-2009]: Siegel, S., 2009, ‘The Visual Experience of Causation’, *The Philosophical Quarterly*, 59: 519–540.
 [^simons-1987]: Simons, P. M., 1987, *Parts. A Study in Ontology*, Oxford: Clarendon Press.
 [^sorensen-2008]: Sorensen, R., 2008, *Seeing Dark Things. The Philosophy of Shadows*, Oxford: Oxford University Press.
-[^sorensen-2015]: –––, 2015, ‘Perceiving Nothings’, in M. Matthen (ed.), *The Oxford Handbook of Philosophy of Perception*, Oxford: Oxford University Press, pp. 542–563
+[^sorensen-2015]: –––, 2015, ‘Perceiving Nothings’, in M. Matthen (ed.), *The Oxford Handbook of Philosophy of Perception*, Oxford: Oxford University Press, pp. 542–563.
 [^spröte-2013]: Spröte, P., and Fleming, R. W., 2013, ‘Concavities, Negative Parts, and the Perception that Shapes Are Complete’, *Journal of Vision*, 13(14). doi:10.1167/13.14.3
 [^tucholsky-1931]: Tucholsky, K., 1931, ‘Zur soziologischen Psychologie der Löcher’ (signed Kaspar Hauser), *Die Weltbühne*, March 17, p. 389; reprinted in K. Tucholsky, *Gesammelte Werke* (ed. by M. Gerold-Tucholsky and F. J. Raddatz), Reinbek: Rowohlt Verlag, 1960, Vol. 3, pp. 804–805; English translation by H. Zohn: ‘The Social Psychology of Holes’, in H. Zohn (ed.), *Germany? Germany! The Kurt Tucholsky Reader*, Manchester: Carcanet Press, 1990, pp. 100–101.
 [^inwagen-2014]: van Inwagen, P., 2014, ‘Alston on Ontological Commitment’, in his *Existence. Essays in Ontology*, Cambridge: Cambridge University Press, pp. 137–152.

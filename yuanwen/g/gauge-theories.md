@@ -123,11 +123,9 @@ One major challenge for scaffolding interpretations of gauge potentials arises f
 
 The Aharonov–Bohm experiment is a variation on the double-slit experiment exhibiting quantum interference. In the original double-slit experiment, a point source of particles is separated from a detector screen by a perfect shield in which is cut two infinitesimal slits. Particles emitted from the source and passing through the slits are registered on the screen, and the result is a banded pattern with the brightest band directly between the slits. Aharonov and Bohm consider a variation of this setup in which the particles are charged and there is an infinitely long, perfectly shielded solenoidal electromagnet between the slits (Figure 1).
 
-*Figure 1:*
-
 ![A diagram of what is described in the previous paragraph](../assets/gauge-theories/ab-plain.svg)
 
-Figure 1: The Aharonov–Bohm experiment
+*Figure 1:* The Aharonov–Bohm experiment
 
 Running a current through the solenoid creates an electromagnetic field configuration in which, outside the solenoid, the field strength $F_{\mu\nu}$ is zero but the potential $A_{\mu}$ is neither zero nor gauge equivalent to zero. That is, if we call the region outside the solenoid $U$, then $F_{\mu\nu} = 0$ on $U$, but there is no smooth function $\alpha$ on $U$ such that $A_{\mu} = \partial_{\mu}\alpha$. The standard treatment of charged particles in quantum mechanics predicts that the interference pattern on the detector screen will differ when different amounts of current are run through the solenoid; in particular, the position of the brightest band will shift. If this prediction is correct, it should be possible to vary the interference pattern in a controlled way by varying the amount of current set to run through the solenoid.
 
@@ -194,11 +192,9 @@ In debates over gauge theories, it is taken for granted that the state of some r
 
 On the standard philosophical interpretation of field theories described in §1, a theory containing only field quantities is usually separable. In the Heaviside–Hertz formulation of electrodynamics, for example, the electromagnetic state of a region is given by the value of the field $F_{\mu\nu}$ in that region. Consider the region $X$ in Figure 2,
 
-*Figure 2:*
-
 ![As described in the caption](../assets/gauge-theories/van_kampen-color.svg)
 
-Figure 2: Two simply connected regions $U$ and $V$ whose union $X = U \cup V$ is not simply connected
+*Figure 2:* Two simply connected regions $U$ and $V$ whose union $X = U \cup V$ is not simply connected
 
 which is the union of regions $U$ and $V$. A value of $F_{\mu\nu}$ in region $X$ is an assignment of a value of $F_{\mu\nu}$ to each point of $X$, which is *eo ipso* an assignment of a value of $F_{\mu\nu}$ to each point of $U$ and each point of $V$ such that these assignments agree on the overlap of $U$ and $V$. Similar reasoning shows that Maxwell electrodynamics is separable.
 

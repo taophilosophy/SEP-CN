@@ -311,27 +311,21 @@ Consider a module $S$ with four channels labeled $a_\textrm{in},a_\textrm{out},r
 
 (This pattern of interaction is formally identical to the *handshake protocol* which is used in hardware design to synchronize components in order to avoid hazards caused by interference of signals.) This behavior can be mapped on the channels as follows:
 
-*Figure 1:*
-
 ![[a rectangular box with the letter S inside, on the upper left a line ending in a white circle is labeled '?_in', on the lower left a line ending in a black circle is labeled 'n+1_out', on the upper right a lined ending in a black circle is labeled '?_out', and on the lower right a line ending in a white circle is labeled 'n_in']](../assets/games-abstraction/fig1.svg)
 
-Figure 1: A module for the successor function.
+*Figure 1:* A module for the successor function.
 
 where $\circ$ means input or, more generally, a *passive* involvement of the module in the corresponding action, whereas $\bullet$ means output, or *active* involvement in the action. We can describe the behavior of $S$ using *traces* (Hoare 1985)[^hoare-1985], i.e., finite sequences of symbols from the infinite alphabet $ \alpha S = {\{ \mathbf{?}_\textrm{in},\mathbf{?}_\textrm{out},n_\textrm{in},m_\textrm{out} \}}: $ $$\tau S = {\{ \varepsilon,\mathbf{?}_\textrm{in},\mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out}, \mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out} n_\textrm{in},\mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out} n_\textrm{in} n+1_\textrm{out},\ldots \}}$$ If we consider another instance $S'$ of $S$ with alphabet $ \alpha S' = {\{ \mathbf{?}_\textrm{in}',\mathbf{?}_\textrm{out}',n_\textrm{in}',m_\textrm{out}' \}} $ we can compose $S$ and $S'$ by identifying (= connecting) channels $r_\textrm{out},r_\textrm{in}'$, and $a_\textrm{in} , a_\textrm{out}'$, and the signals passing through them, as shown: $$\begin{aligned} \mathbf{?}_\textrm{out} , \mathbf{?}_\textrm{in}' &\leadsto x\\ n+1_\textrm{in} , n+1_\textrm{out}' &\leadsto y\end{aligned}$$ This represents the parallel composition of the modules, $S \| S'$:
 
-*Figure 2*
-
 ![[two rectangles, the one on the left containing 'S' and the one on the right 'S\prime'. The upper left of the left one has a line ending in a white circle labeled '?_in', on the lower left a line ending in a black circle labeled 'n+2_out'. The upper right of the right rectangle has a line ending in a black circle labeled '?\prime_out' and the lower right a line labeled 'n\prime_in'. The two rectangles are connected by two lines. The upper with a black circle on the left and a white circle on the right labeled 'x'. The lower with a white circle on the left and at black circle on the right labeled 'y'.]](../assets/games-abstraction/fig2.svg)
 
-Figure 2
+*Figure 2*
 
 The behavior of the compound module is described by the set of traces $${\{ \varepsilon, \mathbf{?}_\textrm{in}, \mathbf{?}_\textrm{in} x, \mathbf{?}_\textrm{in} x \mathbf{?}_\textrm{out}', \mathbf{?}_\textrm{in} x \mathbf{?}_\textrm{out}' n_\textrm{in}', \mathbf{?}_\textrm{in} x \mathbf{?}_\textrm{out}' n_\textrm{in}' y, \mathbf{?}_\textrm{in} x \mathbf{?}_\textrm{out}' n_\textrm{in}' y n+2_\textrm{out}, \ldots \}}$$ The symbols $x,y$ can now be hidden, representing the behavior of the final system
 
-*Figure 3*
-
 ![[two rectangles with dashed lines for sides, the one on the left containing 'S' and the one on the right 'S\prime'. The upper left of the left one has a line ending in a white circle labeled '?_in', on the lower left a line ending in a black circle labeled 'n+2_out'. The upper right of the right rectangle has a line ending in a black circle labeled '?\prime_out' and the lower right a line labeled 'n\prime_in'. The two rectangles are connected by two dashed lines. The upper with a black circle on the left and a white circle on the right and not labeled. The lower with a white circle on the left and at black circle on the right and not labeled. A larger rectangle with solid sides encloses the two rectangles so that the left side of the left rectangle and the right side of the right rectangle are on the left and right sides of the enclosing rectangle]](../assets/games-abstraction/fig3.svg)
 
-Figure 3
+*Figure 3*
 
 whose traces have the required form $${\{ \varepsilon, \mathbf{?}_\textrm{in}, \mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out}', \mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out}' n_\textrm{in}', \mathbf{?}_\textrm{in} \mathbf{?}_\textrm{out}' n_\textrm{in}' n+2_\textrm{out}, \ldots \}}.$$ This example contains many of the ingredients on which game semantics is based. There is the idea of a System, whose behavior is triggered by an incoming request from its Environment: in a game formalism these are the roles of Proponent and Opponent in a two-person game. The behavior of each module is described as the trace of its possible interactions with other agents, and the behaviors can be composed by a peculiar change of role whereby the module who plays as System (in the above example, $S$ emitting a request signal on channel $r_\textrm{out}$) is made to behave as Environment with respect to $S'$ when this signal is received in input on channel $r_\textrm{in}'$. Let us see how this example can be generalized.
 

@@ -183,11 +183,9 @@ But Bohmian mechanics is just such a deeper explanation. It resolves in a rather
 
 Here we have a family of Bohmian trajectories for the two-slit experiment.
 
-*Figure 1:*
-
 ![[line drawing, a vertical bar on the left with two openings, multiple lines angle out to the right from each]](../assets/qm-bohm/figure1.gif)
 
-Figure 1: An ensemble of trajectories for the two-slit experiment, uniform in the slits. (adapted by Gernot Bauer from Philippidis, Dewdney, & Hiley 1979: 23, fig. 3)[^philippidis-1979]
+*Figure 1:* An ensemble of trajectories for the two-slit experiment, uniform in the slits. (adapted by Gernot Bauer from Philippidis, Dewdney, & Hiley 1979: 23, fig. 3)[^philippidis-1979]
 
 While each trajectory passes through only one slit, the wave passes through both; the interference profile that therefore develops in the wave generates a similar pattern in the trajectories guided by the wave.
 

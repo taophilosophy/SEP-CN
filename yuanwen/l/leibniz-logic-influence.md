@@ -83,7 +83,7 @@ The discovery of Leibniz in mathematical logic can be shown by example in the ca
 
 *A* = *AA*
 
-What are the connections to Leibniz’s logic? Are there anticipations of the Boolean calculus in the work of Leibniz? One of those authors looking for anticipations was Robert Leslie Ellis (1817–1859), who edited Francis Bacon’s *Novum Organon* in *The Works of Francis Bacon* (1858–1874; vol. 1: 1858). During his editorial works he found a parallel to Boole’s Law (p. 281, footnote 1): “Mr. Boole’s *Laws of Thought* contain the first development of ideas of which the germ is to be found in Bacon and Leibnitz; to the latter of whom the fundamental principle in logic *a*² = *a* was known.” As reference he gave Erdmann’s edition (Erdmann 1840, p. 130). Robert Harley (1828–1910), Boole’s first biographer, discussed this information in a paper entitled “Remarks on Boole’s Mathematical Analysis of Logic” (1867). He did not find the proper quote at the place indicated by Ellis, but he found other relevant texts. About the significance of Ellis’ remark he wrote: “Boole did not become aware of these anticipations by Leibnitz until more than twelve months after the publication of the ‘Laws of Thought,’ when they were pointed out to him by R. Leslie Ellis” (p. 5).
+What are the connections to Leibniz’s logic? Are there anticipations of the Boolean calculus in the work of Leibniz? One of those authors looking for anticipations was Robert Leslie Ellis (1817–1859), who edited Francis Bacon’s *Novum Organon* in *The Works of Francis Bacon* (1858–1874; vol. 1: 1858). During his editorial works he found a parallel to Boole’s Law (p. 281, footnote 1): “Mr. Boole’s *Laws of Thought* contain the first development of ideas of which the germ is to be found in Bacon and Leibnitz; to the latter of whom the fundamental principle in logic *a*² = *a* was known.” As reference he gave Erdmann’s edition (Leibniz 1839/40, p. 130)[^leibniz-1839]. Robert Harley (1828–1910), Boole’s first biographer, discussed this information in a paper entitled “Remarks on Boole’s Mathematical Analysis of Logic” (1867). He did not find the proper quote at the place indicated by Ellis, but he found other relevant texts. About the significance of Ellis’ remark he wrote: “Boole did not become aware of these anticipations by Leibnitz until more than twelve months after the publication of the ‘Laws of Thought,’ when they were pointed out to him by R. Leslie Ellis” (p. 5).
 
 Harley’s research was taken up by the Manchester economist and philosopher William Stanley Jevons (1825–1882). Jevons formulated his philosophy of science, as found in the *Principles of Science* (1874), against John Stuart Mill’s predominant inductive logic. His alternative to inductive logic was the “Principle of Substitution”. He included a section “Anticipations of the Principle of Substitution”, which was enlarged in the later edition with a long discussion of Leibniz’s anticipations. There he expressed his thanks to Robert Adamson for the information that the Principle of Substitution can be traced back to Leibniz. Jevons asked what were the reasons for the long ignorance of Leibniz’s anticipations. Only Dutens’ edition was available in Owens College Library, Manchester. He regretted having overlooked Erdmann’s edition, but noted that this was also done by other “most learned logicians”.
 
@@ -167,7 +167,7 @@ algebra of logic tradition | Boole, George | Frege, Gottlob | Leibniz, Gottfried
 
 [^květ-1857]: Květ, F. B., 1857, *Leibnitz’ens Logik. Nach den Quellen dargestellt*, F. Prag: Tempsky.
 
-[^krömer-2012]: Krömer, R. and Y. Chin-Drian (eds.), 2012, *New Essays on Leibniz Reception. In Science and Philosophy of Science 1800–2000* (*Publicatons of the Heinri Poincaré Archives*), Basel: Birkhäuser/Springer.
+[^krömer-2012]: Krömer, R. and Y. Chin-Drian (eds.), 2012, *New Essays on Leibniz Reception. In Science and Philosophy of Science 1800–2000* (*Publications of the Henri Poincaré Archives*), Basel: Birkhäuser/Springer.
 
 [^laita-1976]: Laita, L. M., 1976, *A Study of the Genesis of Boolean Logic*, Ph.D. Notre Dame.
 
@@ -181,7 +181,7 @@ algebra of logic tradition | Boole, George | Frege, Gottlob | Leibniz, Gottfried
 
 [^leibniz-1843]: –––, 1843–1846, *Annales imperii occidentis Brunsvicenses*, ed. by G.H. Pertz, Hahn: Hannover 1843–1846.
 
-[^leibniz-1849]: –––, 1849–1963, *Mathematische Schriften* (*Werke aus den Handschriften der Königlichen Bibliothek zu Hannover*), C. I. Gerhardt (ed.), 7 volumes, Berlin: Asher et Comp.
+[^leibniz-1849]: –––, 1849–1863, *Mathematische Schriften* (*Werke aus den Handschriften der Königlichen Bibliothek zu Hannover*), C. I. Gerhardt (ed.), 7 volumes, Berlin: Asher et Comp.
 
 [^leibniz-1903]: –––, 1903, *Opuscules et fragments inédits de Leibniz.* *Extraits des manuscrits de la Bibliothèque royale de Hanovre*, ed. by Louis Couturat, Paris: Félix Alcan.
 
@@ -193,7 +193,7 @@ algebra of logic tradition | Boole, George | Frege, Gottlob | Leibniz, Gottfried
 
 [^lenzen-2004b]: Lenzen, W., 2004b, “Leibniz’s Logic,” in *Handbook of the History of Logic* (Volume 3: *The Rise of Modern Logic: From Leibniz to Frege*), D. M. Gabbay and J. Woods (eds.), Amsterdam: Elsevier-North-Holland, pp. 1–83.
 
-[^locke-1690]: Locke, J., 1690, *An Essay Concerning Human Understanding*, London: Thomas Ballet.
+[^locke-1690]: Locke, J., 1690, *An Essay Concerning Human Understanding*, London: Thomas Bassett.
 
 [^mugnai-2011]: Mugnai, M., 2011, “Bolzano e Leibniz”, *Discipline Filosofiche* 21: 93–108.
 

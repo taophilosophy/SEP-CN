@@ -377,7 +377,7 @@
 
 [^note-50]: *Opus nonaginta dierum*, c. 65（*OPol* II, pp. 573–80）。此章经 Kilcullen 译出，收入《致小兄弟会士书》（*Letter to the Friars Minor*）pp. 48–59。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 

@@ -1,0 +1,26 @@
+{
+ "key": "leucippus",
+ "term": "Leucippus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T07:37:39+00:00",
+ "status": "ok",
+ "note": "variant=Leucippus; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "白足鼠",
+   "en": "white-footed mouse, Peromyscus leucopus",
+   "code": "04.0225",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_动物传染病"
+  },
+  {
+   "cn": "白足鼠",
+   "en": "Peromyscus leucopus；white-footed mouse、woodmouse",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

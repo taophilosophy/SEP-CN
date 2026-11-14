@@ -164,7 +164,7 @@
 
 这种尴尬的家长主义，令当代读者难以接受。但必须读出它的语境：他尊重一切群体——包括他自己的黑人同胞——的本土智力。他同意密尔（Mill）的告诫：对本地人动用的武力，应当是使其适于成为一个民族的武力。据此，克鲁梅尔坚持，这武力应是恢复与进步的武力（《我们民族的过失》，185n）。在“本地人的道德构造”中，有一种“巨大的切身需要与巨大的欲望对象[即]和平、秩序与保护”；而获取的原则，是“他们一切忍耐与劳苦之中的[推动性]动机力量”（191）。他明白：若没有非洲本土的文明能力，根本就没有什么事业可言。
 
-## 参考文献（引用注释）
+## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -213,7 +213,7 @@
 
 [^pahissa-2018]: Pahissa, Laura Gimeno, 2018, “‘WE NEED CHARACTER!’: Remembering Alexander Crummell’s Appeal to Postbellum African Americans,” *ES Review: Spanish Journal of English Studies*, 6(6): 143–163.
 
-[^peterson-2011]: Peterson, Carla L., 2011, “Untangliong Genealogy’s Tangled Skeins: Alexander Crummell, James McCune Smith, and Nineteenth-Century Black Literary Traditions,” in Caroline F. Levander and Robert S. Levine (eds.), *A Companion to American Literary Studies*, Oxford: Wiley-Blackwell, pp. 500–516.
+[^peterson-2011]: Peterson, Carla L., 2011, “Untangling Genealogy’s Tangled Skeins: Alexander Crummell, James McCune Smith, and Nineteenth-Century Black Literary Traditions,” in Caroline F. Levander and Robert S. Levine (eds.), *A Companion to American Literary Studies*, Oxford: Wiley-Blackwell, pp. 500–516.
 
 [^ruwe-2019]: Ruwe, Dalitso, 2019, “Between Africa and America: Alexander Crummell’s Moral and Political Philosophy,” *APA Newsletter: Philosophy and the Black Experience*, 18(2): 23–30.
 

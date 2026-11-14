@@ -283,8 +283,6 @@ The distinction between functional and nonfunctional causes of dehumanization is
 
 Dehumanization and objectification are usually seen as closely related. This section focuses on whether they are equivalent, overlap, or are completely distinct. The range of possibilities is depicted in Figure 1.
 
-*Figure 1.*
-
 ![Dehumanization and Objectification are equivalent](../assets/dehumanization/FigA.svg)
 
 (a)
@@ -305,7 +303,7 @@ Dehumanization and objectification are usually seen as closely related. This sec
 
 (e)
 
-Figure 1. Venn diagrams representing different views on the relation between dehumanization and objectification.
+*Figure 1.* Venn diagrams representing different views on the relation between dehumanization and objectification.
 
 ### 7.1 Are dehumanization and objectification equivalent?
 

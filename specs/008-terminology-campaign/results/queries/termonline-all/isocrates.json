@@ -1,0 +1,54 @@
+{
+ "key": "isocrates",
+ "term": "Isocrates",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T04:01:26+00:00",
+ "status": "ok",
+ "note": "variant=Isocrates; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "等度洗脱",
+   "en": "isocratic elution",
+   "code": "03.2141",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_色谱分析"
+  },
+  {
+   "cn": "等度洗脱",
+   "en": "isocratic elution",
+   "code": "06.389",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "苏格拉底的审判",
+   "en": "Trial of Socrates",
+   "code": "02.0346",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "苏格拉底论管理",
+   "en": "Socrates’ view on management",
+   "code": "01.0236",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_管理思想史"
+  },
+  {
+   "cn": "等度洗脱",
+   "en": "isocratic elution",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "苏格拉底",
+   "en": "Socrate",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

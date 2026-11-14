@@ -67,7 +67,7 @@ Arguments by analogy are based on the idea that, if two things are similar, what
 
 1. *S* is similar to *T* in certain (known) respects.
 2. *S* has some further feature *Q*.
-3. Therefore, *T* also has the feature *Q*, or some feature *Q** similar to *Q*.
+3. Therefore, *T* also has the feature *Q*, or some feature *Q*\* similar to *Q*.
 
 The first premise establishes the analogy between two situations, objects, phenomena etc. The second premise states that the source domain has a given property. The conclusion is then that the target domain also has this property, or a suitable counterpart thereof. While informative, this schema does not differentiate between good and bad analogical arguments, and so does not offer much by way of explaining what grounds (good) analogical arguments. Indeed, contentious cases usually pertain to premise 1, and in particular to whether *S* and *T* are sufficiently similar in a way that is relevant for having or not having feature *Q*.
 

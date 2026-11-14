@@ -76,7 +76,7 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-[^useful-1999]: Useful textbooks include Elliott Sober’s *Philosophy of Biology* (Sober 1999), Kim Sterelny and Paul Griffiths’s *Sex and Death: An Introduction to Philosophy of Biology* (1999), Marjorie Greene and David Depew’s *The Philosophy of Biology: An Episodic History* (2004), Brian Gavey’s *Philosophy of Biology* (2007), Alexander Rosenberg and Daniel McShea’s *Philosophy of Biology: A contemporary introduction* (2008), Peter Godfrey-Smith’s *Philosophy of Biology* (2014), and Samir Okasha (2019). Valuable edited collections designed to supplement such a text are Elliott Sober’s *Conceptual Issues in Evolutionary Biology* (Sober 2006) which collects some classic papers on core debates, David Hull and Michael Ruse’s *The Philosophy of Biology* which aims at a comprehensive survey using recent papers (1998), and the *Cambridge Companion to the Philosophy of Biology* (Hull and Ruse 2007), *The Handbook of Philosophy of Biology* (Matthen and Stephens 2007), and *Blackwell Companion to the Philosophy of Biology* (Sarkar and Plutynski 2008) which all consist of essays on key topics by leading authors.
+[^useful-1999]: 有用的教科书包括：Elliott Sober《生物学哲学》（Sober 1999）、Kim Sterelny 与 Paul Griffiths《性与死亡：生物学哲学导论》（1999）、Marjorie Greene 与 David Depew《生物学哲学：一部片段史》（2004）、Brian Gavey《生物学哲学》（2007）、Alexander Rosenberg 与 Daniel McShea《生物学哲学：当代导论》（2008）、Peter Godfrey-Smith《生物学哲学》（2014）以及 Samir Okasha（2019）。为配合此类教材而编的有价值的文集有：Elliott Sober《进化生物学中的概念问题》（Sober 2006，收录核心争论的经典论文）、David Hull 与 Michael Ruse《生物学哲学》（1998，以近期论文作综合考察），以及《剑桥生物学哲学指南》（Hull and Ruse 2007）、《生物学哲学手册》（Matthen and Stephens 2007）与《布莱克韦尔生物学哲学指南》（Sarkar and Plutynski 2008）——三者均由名家就关键议题撰写论文。
 
 [^allmon-2009]: Allmon, W. D., P. Kelley, & R. Ross (eds.), 2009. *Stephen Jay Gould: Reflections on his view of life*, Oxford: Oxford University Press.
 
@@ -226,7 +226,7 @@
 
 [^grene-2004]: Grene, Marjorie G., and David Depew, 2004. *The Philosophy of Biology: An Episodic History*, Cambridge: Cambridge University Press.
 
-[^griesemer-2015]: Griesemer, J., 2015. “The enduring value of Gánti׳s chemoton model and life criteria: Heuristic pursuit of exact theoretical biology,” *Journal of Theoretical Biology*, 381: 23–28
+[^griesemer-2015]: Griesemer, J., 2015. “The enduring value of Gánti’s chemoton model and life criteria: Heuristic pursuit of exact theoretical biology,” *Journal of Theoretical Biology*, 381: 23–28
 
 [^griffiths-1999]: Griffiths, Paul E., 1999. “Squaring the circle: Natural kinds with historical essences,” in *Species, New interdisciplinary essays*, edited by R. A. Wilson, Cambridge, MA: Bradford/MIT Press:209–228.
 
@@ -254,7 +254,7 @@
 
 [^hull-1974]: –––, 1974. *Philosophy of Biological Science*, Englewood Cliffs: Prentice-Hall.
 
-[^hull-1975]: –––, 1975. “Informal Aspects of Theory Reduction,” in R. S. Cohen and A. Michalos (eds.), *Proceedings of the Biennial Meeting of the Philosopy of Science Association, 1974*, Dordrecht: D. Reidel, 653–670.
+[^hull-1975]: –––, 1975. “Informal Aspects of Theory Reduction,” in R. S. Cohen and A. Michalos (eds.), *Proceedings of the Biennial Meeting of the Philosophy of Science Association, 1974*, Dordrecht: D. Reidel, 653–670.
 
 [^hull-1976]: –––, 1976. “Are species really individuals?” *Systematic zoology*, 25(2): 174–191.
 
@@ -442,7 +442,7 @@
 
 [^potochnik-2009]: Potochnik, A., 2009. “Optimality modeling in a suboptimal world,” *Biology and Philosophy*, 24: 183–197.
 
-[^ramsey-2013]: Ramsey, G., 2013. “Human nature in a post-essentialist world,” *Philosophy of Science*, 80(5): 983–993. Chicago
+[^ramsey-2013]: Ramsey, G., 2013. “Human nature in a post-essentialist world,” *Philosophy of Science*, 80(5): 983–993.
 
 [^richardson-2010]: Richardson, R. C., 2010. *Evolutionary psychology as maladapted psychology*, Cambridge, MA: MIT Press.
 
@@ -594,7 +594,7 @@
 
 [^wilson-1999]: Wilson, R. A. (ed.), 1999. *Species: New Interdisciplinary Essays*, Cambridge, MA: MIT Press.
 
-[^wilson-2007]: Wilson, R. A., M. J. Barker, & I. Brigandt, 2007. &llquo;When traditional essentialism fails: biological natural kinds,” *Philosophical Topics*, 35(1/2): 189–215.
+[^wilson-2007]: Wilson, R. A., M. J. Barker, & I. Brigandt, 2007. “When traditional essentialism fails: biological natural kinds,” *Philosophical Topics*, 35(1/2): 189–215.
 
 [^wimsatt-1972]: Wimsatt, W. C., 1972. “Teleology and the Logical Structure of Function Statements,” *Studies in History and Philosophy of Science*, 3: 1–80.
 

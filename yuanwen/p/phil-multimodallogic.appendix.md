@@ -8,11 +8,9 @@
 
 As mentioned in section 2.4, the distributed knowledge modality *D* is not syntactically definable in $\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}$. This is because, in the standard modal language, an intersection modality is not definable in terms of the modalities of the intersected relations. A simple counter-example showing this is given by the two pointed models below (reflexive edges omitted, undirected edges indicating symmetry, and evaluation point double-circled). They are bisimilar with respect to the relations $R_1, \ldots, R_n$, and therefore modally equivalent within $\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}$. Nevertheless, take ${\ohD \varphi} := \lnot {D\lnot\varphi}$: while ${\ohD p}$ holds in the first (i.e., $(M, w) \Vdash {\ohD p}$: there is a world reachable from *w* via the intersection of $R_1$ and $R_2$, namely *u*, where *p* holds), it fails in the second (i.e., $(M', w') \not\Vdash {\ohD p}$: there is no world reachable from $w'$ via the intersection of $R'_1$ and $R'_2$).
 
-*Figure 3*
-
 ![a diagram: link to extended description below](../assets/phil-multimodallogic/figure3.svg)
 
-Figure 3 [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 Similarly, the common knowledge modality *C* is not syntactically definable in $\cL_{\left\{ \oK{1}, \ldots, \oK{n} \right\}}$. Intuitively, this is because, even when the set of agents is finite, its intuitive definition requires an *infinite* sequence
 

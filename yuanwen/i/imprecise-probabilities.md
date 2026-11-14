@@ -92,8 +92,6 @@ There are a number of examples of decision problems where we are intuitively dra
 
 Consider the indicator gambles for various events in this scenario. Consider a choice between a bet that wins if the marble drawn is red (I), versus a bet that wins if the marble drawn is blue (II). You might prefer I to II since I involves *risk* while II involves *ambiguity*. A prospect is risky if its outcome is uncertain but its outcomes occur with known probability. A prospect is ambiguous if the outcomes occur with unknown or only partially known probabilities. Now consider a choice between a bet that wins if the marble drawn is not blue (III) versus a bet that wins if the marble drawn is not red (IV). Now it is III that is ambiguous, while IV is unambiguous but risky, and thus IV might seem better to you if you preferred risky to ambiguous prospects. Such a pattern of preferences (I preferred to II but IV preferred to III) cannot be rationalised as the choices of a precise expected utility maximiser. The gambles are summarised in the table.
 
-*Table 1:*
-
 |   | R | B | Y |
 | --- | --- | --- | --- |
 | I | 1 | 0 | 0 |
@@ -101,7 +99,7 @@ Consider the indicator gambles for various events in this scenario. Consider a c
 | III | 1 | 0 | 1 |
 | IV | 0 | 1 | 1 |
 
-Table 1: The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
+*Table 1:* The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
 
 Let the probabilities for red, blue and yellow marbles be $r$, $b$ and $y$ respectively. If you were an expected utility maximiser and preferred I to II, then $r > b$ and a preference for IV over III entails that $r+y < y +b$. No numbers can jointly satisfy these two constraints. Therefore, no probability function is such that an expected utility maximiser with that probability would choose in the way described above. While by no means universal, these preferences are a robust feature of many experimental subjects’ response to this sort of example (Camerer and Weber 1992; Fox and Tversky 1995)[^camerer-1992][^fox-1995]. Some experiments suggest that Ellsberg-type patterns of preference are rarer than normally recognised (Binmore et al. 2012; Voorhoeve et al. 2016)[^binmore-2012][^voorhoeve-2016]. For more on ambiguity attitudes, see Trautmann and van der Kuilen (2016).
 
@@ -231,11 +229,9 @@ This section collects some problems for IP noted in the literature.
 
 Consider two logically unrelated propositions $H$ and $X$. Now consider the four “state descriptions” of this simple model as set out in Figure 1. So $a=H\cap X$ and so on. Now define $Y=a \cup d$. Alternatively, consider three propositions related in the following way: $Y$ is defined as “$H$ if and only if $X$”.
 
-*Figure 1:*
-
 ![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
 
-Figure 1: A diagram of the relationships after Seidenfeld (1994); $Y$ is the shaded area
+*Figure 1:* A diagram of the relationships after Seidenfeld (1994); $Y$ is the shaded area
 
 Further imagine that $p(H\mid X) = p(H) = 1/2$. No other relationships between the propositions hold except those required by logic and probability theory. It is straightforward to verify that the above constraints require that $p(Y) = 1/2$. The probability for $X$, however, is unconstrained.
 
@@ -249,11 +245,9 @@ Since you are in a state of ignorance with respect to $X$, your representor cont
 
 White considers dilation to be a problem since learning $Y$ doesn’t *seem* to be relevant to $H$. That is, since you are ignorant about $X$, learning whether or not the coin landed $X$ up doesn’t seem to tell you anything about whether the coin landed heads up. It seems strange to argue that your belief in $H$ should *dilate* from $1/2$ to $[0,1]$ upon learning $Y$. It feels as if this should just be irrelevant to $H$. However, $Y$ is only really irrelevant to $H$ when $p(X)=1/2$. Any other precise belief you might have in $X$ is such that $Y$ now affects your posterior belief in $H$. Figure 2 shows the situation for one particular belief about how likely $X$ is; for one particular $p\in P$. The horizontal line can shift up or down, depending on what the committee member we focus on believes about $X$. $p(H\mid Y)$ is a half only if the prior in $X$ is also a half. However, the imprecise probabilist takes into account *all the ways $Y$ might affect belief in $H$*.
 
-*Figure 2:*
-
 ![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
 
-Figure 2: A member of the credal committee (after Joyce (2011))
+*Figure 2:* A member of the credal committee (after Joyce (2011))
 
 Consider a group of agents who each had precise credences in the above coin case and differed in their priors on $X$. They would all start out with prior of a half in $H$. After learning $Y$, these agents would differ in their posterior opinions about $H$ based on their differing dispositions to update. The group belief would dilate. However, no agent in the group has acted in any way unreasonably. If we take Levi’s suggestion that individuals can be conflicted just like groups can, then it seems that individual agents can have their beliefs dilate just like groups can.
 

@@ -242,7 +242,7 @@ To see how this applies to the Problem of the Many, let’s simplify the case a 
 Hudson defines “*x* exactly occupies *s*” as follows:
 
 - *x* has a part at *s*,
-- there is no region of space-time, *s**, such that *s** has *s* as a subregion, while *x* has a part at *s**, and
+- there is no region of space-time, *s*\*, such that *s*\* has *s* as a subregion, while *x* has a part at *s*\*, and
 - for every subregion of *s*, *s′*, *x* has a part at *s′*. (Hudson 2001: 63)[^hudson-2001]
 
 At first, it might look like not much has been accomplished here. All that we did was turn a Problem of 4 clouds into a Problem of 3 clouds, replacing the fusions *a* + *w*₁ and *a* + *w*₂ with the new, and oddly behaved, *c*. But that is to overlook a rather important feature of the remaining proto-clouds. The three remaining proto-clouds can be strictly ordered by the ‘part of’ relation. This was not previously possible, since neither *a* + *w*₁ nor *a* + *w*₂ were part of the other. If we adopt the principle that ‘cloud’ is a maximal predicate, so no cloud can be a proper part of another cloud, we now get the conclusion that exactly one of the proto-clouds is a cloud, as desired.

@@ -166,12 +166,12 @@ where ∨*E* is the sum (or join) of the elements of *E*.
 
 With this in hand, the meanings of *little*, *much* and *most* can be specified as follows, the numerical values *p*, *q*, *r* and *s* being specified contextually when a sentence is uttered:
 
-*Little*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *p* *Little*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *r**μ([*M*]) *Much*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *q* *Much*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*]) *Most M P* is true iff μ([*M*] ∩ [*P*]) ≥ μ([*M*]) / 2 *Two liters of M P* is true iff μ([*M*] ∩ [*P*]) = 2 with a function μ measuring in liters
+*Little*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *p* *Little*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *r*\*μ([*M*]) *Much*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *q* *Much*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *s*\*μ([*M*]) *Most M P* is true iff μ([*M*] ∩ [*P*]) ≥ μ([*M*]) / 2 *Two liters of M P* is true iff μ([*M*] ∩ [*P*]) = 2 with a function μ measuring in liters
 
 Above, *little* and *much* are given two meanings, an “absolute” one and a “proportional” one. Thus, a sentence like *Much gold was stolen* may mean that:
 
 - The stolen gold was a large quantity of gold (absolute interpretation): μ([*M*] ∩ [*P*]) ≥ *q*, where *q* is specified contextually.
-- The stolen gold was a great proportion of the gold (proportional interpretation):[^note-17] μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*]), where *s* is specified contextually.
+- The stolen gold was a great proportion of the gold (proportional interpretation):[^note-17] μ([*M*] ∩ [*P*]) ≥ *s*\*μ([*M*]), where *s* is specified contextually.
 
 **Remark 1:** What precedes allows one to characterize the meaning(s) of the various mass quantifiers. But of course, it leaves room for improvement concerning the specific meanings attributed. For instance, Solt (2009) argues in favor of a different condition for the quantifier *most*.
 

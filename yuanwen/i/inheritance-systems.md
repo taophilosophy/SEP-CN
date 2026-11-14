@@ -291,8 +291,6 @@ The author thanks Adam Krashniak for help with the 2018 revision. The editors wo
 
 [^note-2]: The tables below provide a detailed comparison of the inheritance systems of Jablonka and Lamb. These tables are reproduced with permission from Eva Jablonka and Marion J. Lamb (2005/2014).
 
-*Table 1.*
-
 | Inheritance system | Organizations of information | Dedicated copying system? | Transmits latent (nonexpressed) information? | Directions of transmission | Range of variation |
 | --- | --- | --- | --- | --- | --- |
 | Genetic | Modular | Yes | Yes | Mostly vertical | Unlimited |
@@ -308,9 +306,7 @@ The author thanks Adam Krashniak for help with the 2018 revision. The editors wo
 | *Imitation* | Modular | Probably | No | Both vertical and horizontal | Unlimited |
 | Symbolic | Modular and holistic | Yes, several | Yes | Both vertical and horizontal | Unlimited |
 
-Table 1. The reproduction of information
-
-*Table 2.*
+*Table 1.* The reproduction of information
 
 | Inheritance system | Variation is targeted (biased generation)? | Variation subject to developmental filtering and modification? | Variation constructed through direct planning? | Variation can change the selective environment? |
 | --- | --- | --- | --- | --- |
@@ -319,7 +315,7 @@ Table 1. The reproduction of information
 | Behavioral | Yes, because of emotional, cognitive, and perceptual biases | Yes, behavior is selected and modified during the animal’s lifetime | No | Yes, new social behavior and traditions alter the social and sometimes also the physical conditions in which an animal lives |
 | Symbolic | Yes, because of emotional, cognitive, and perceptual biases | Yes, at many levels, in many ways | Yes, at many levels, in many ways | Yes, very extensively, by affecting many aspects of the social and physical conditions of life |
 
-Table 2. Targeting, constructing, and planning transmitted variation
+*Table 2.* Targeting, constructing, and planning transmitted variation
 
 [^ancel-1999]: Ancel, L. W. (1999). A Quantitative Model of the Simpson–Baldwin Effect. *Journal of Theoretical Biology* 196 (2): 197–209.
 

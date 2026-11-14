@@ -24,28 +24,28 @@
 
 亚里士多德的记载中，留基伯与德谟克利特常常并提，包括他关于为何要设定原子与虚空的叙述。尤其值得注意的是，亚里士多德把留基伯同德谟克利特一道，与那句有意悖理的断言相连：“存在不多于非存在”——也就是说，虚空与充实坚实之物同样存在（DK 67A6）。Schofield（2002）论证，辛普里丘（Simplicius）笔下更审慎的叙述表明，*ou mallon*（“不多于”）学说实应归于德谟克利特。循此线索，Graham（2008）提出一种关于留基伯的新读法：原子与虚空之别，实际上源自对巴门尼德《意见》（Doxa，其宇宙论部分）的解读。如此，留基伯的原子在本质上便不是“存在”与“非存在”这类逻辑抽象，而是以巴门尼德宇宙论中的一对对立面——夜与光——为根基。若取这条解释路线，留基伯的原子与虚空观念或许与德谟克利特大异其趣，亚里士多德动辄将二人并称，也就未免有误导之嫌。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Texts
+### 原始文献
 
-### Secondary Sources
+### 二手文献
 
-[^diels-1951]: Diels, H and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
+[^diels-1951]: Diels, H. and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
 [^graham-2010]: Graham, Daniel W., 2010, *The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Cambridge: Cambridge University Press.
 [^laks-2016]: Laks, André and Most, Glenn W. (eds.), 2016. *Early Greek Philosophy* (Volumes 6 and 7), Loeb Classical Library, Cambridge, MA: Harvard University Press.
 [^luria-1970]: Luria, Solomon, 1970, *Demokrit*, Leningrad.
-[^taylor-1999a]: Taylor, C.C.W, 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
+[^taylor-1999a]: Taylor, C.C.W., 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
 [^bailey-1928]: Bailey, Cyril, 1928, *The Greek Atomists and Epicurus*, Oxford: Clarendon.
 [^barnes-1982]: Barnes, Jonathan, 1982, *The Presocratic Philosophers*, revised edition, London and New York: Routledge.
 [^barnes-1984]: –––, 1984, ‘Reason and Necessity in Leucippus,’ in Linos G. Benakis (ed.), *Proceedings of the First International Congress on Democritus* (Volume 1), Xanthi: International Democritean Foundation, pp. 141–58.
 [^furley-1967]: Furley, David J., 1967, *Two Studies in the Greek Atomists*, Princeton: Princeton University Press.
 [^furley-1987]: –––, 1987, *The Greek Cosmologists* (Volume 1: *The Formation of the Atomic Theory and its Earliest Critics*), Cambridge: Cambridge University Press.
 [^graham-2008]: Graham, Daniel, 2008, ‘Leucippus’ Atomism,’ in Patricia Curd and Daniel W. Graham (eds.), *The Oxford Handbook of Presocratic Philosophy*, Oxford: Oxford University Press, pp. 333–352.
-[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46 (4): 446–68.
+[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46(4): 446–68.
 [^kirk-1957]: Kirk, G.S., J.E. Raven and Malcolm Schofield, 1957, *The Presocratic Philosophers*, second edition, Cambridge: Cambridge University Press.
 [^leszl-2009]: Leszl, Walter (ed.), 2009, *I primi atomisti. Raccolta dei testi che riguardano Leucippo e Democrito*, Florence: Olschki.
 [^mckirahan-1994]: McKirahan, Jr., Richard D., 1994, *Philosophy Before Socrates: An Introduction with texts and Commentary*, Indianapolis: Hackett.

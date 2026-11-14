@@ -11,8 +11,6 @@ Statistical Mechanics (SM) is the third pillar of modern physics, next to quantu
 
 Let us illustrate the core questions concerning equilibrium with a standard example. Consider a gas confined to the left half of a container with a dividing wall (see Figure 1a). The gas is in *equilibrium* and there is no manifest change in any of its macro properties like pressure, temperature, and volume. Now you suddenly remove the dividing wall (see Figure 1b), and, as result, the gas starts spreading through the entire available volume. The gas is now no longer in equilibrium (see Figure 1c). The spreading of the gas comes to an end when the entire available space is filled evenly (see Figure 1d). At this point, the gas has reached a new equilibrium. Since the process of spreading culminates in a new equilibrium, this process is an *approach to equilibrium*. A key characteristic of the approach to equilibrium is that it seems to be *irreversible*: systems move from non-equilibrium to equilibrium, but not *vice versa*; gases spread to fill the container evenly, but they do not spontaneously concentrate in the left half of the container. Since an irreversible approach to equilibrium is often associated with thermodynamics, this is referred to as *thermodynamic behaviour*. Characterising the state of equilibrium and accounting for why, and how, a system approaches equilibrium is the core task for SM. Sometimes these two problems are assigned to separate theories (or separate parts of a larger theory), which are then referred to as *equilibrium SM* and *non-equilibrium SM*, respectively.
 
-*Figure 1*
-
 ![a rectangle one half blue and one half white with a solid black line between the two halves](../assets/statphys-statmech/figure1a.svg)
 
 (a)
@@ -29,7 +27,7 @@ Let us illustrate the core questions concerning equilibrium with a standard exam
 
 (d)
 
-Figure 1 [An extended description of figure 1 is in the supplement.]
+*Figure 1* [An extended description of figure 1 is in the supplement.]
 
 While equilibrium occupies centre stage, SM of course also deals with other issues such as phase transitions, the entropy costs of computation, and the process of mixing substances, and in philosophical contexts SM has also been employed to shed light on the nature of the direction of time, the interpretation of probabilities in deterministic theories, the state of the universe shortly after the big bang, and the possibility of knowledge about the past. We will touch on all these below, but in keeping with the centrality of equilibrium in SM, the bulk of this entry is concerned with an analysis of the conceptual underpinnings of both equilibrium and non-equilibrium SM.
 
@@ -45,11 +43,9 @@ Classifying and labelling approaches raises its own issues, and different routes
 
 Before delving into the discussion of SM, some attention needs to be paid to the “M” in SM. The mechanical background theory against which SM is formulated can be either classical mechanics or quantum mechanics, resulting in either classical SM or quantum SM. Foundational debates are by and large conducted in the context of classical SM. We follow this practice in the current entry, but we briefly draw attention to problems and issues that occur when moving from a classical to a quantum framework (§4.8). From the point of view of classical mechanics, the systems of interest in SM have the structure of *dynamical system*, a triple $(X,$ $\phi,$ $\mu).$ $X$ is the state space of the system (and from a mathematical point of view is a set). In the case of a gas with $n$ molecules this space has $6n$ dimensions: three coordinates specifying the position and three coordinates specifying the momentum of each molecule. $\phi$ is the time evolution function, which specifies how a system’s state changes over time, and we write $\phi_{t}(x)$ to denote the state into which $x$ evolves after time $t$. If the dynamic of the system is specified by an equation of motion like Newton’s or Hamilton’s, then $\phi$ is the solution of that equation. If we let time evolve, $\phi_{t}(x)$ draws a “line” in $X$ that represents the time evolution of a system that was initially in state $x$; this “line” is called a *trajectory*. Finally, $\mu$ is a measure on $X$, roughly a means to say how large a part of $X$ is. This is illustrated schematically in Figure 2. For a more extensive introductory discussion of dynamical systems see the entry on the ergodic hierarchy, section on dynamical systems, and for mathematical discussions see, for instance, Arnold and Avez (1967 [1968]) and Katok and Hasselblatt (1995).
 
-*Figure 2*
-
 ![A green rectangle, link to extended description below](../assets/statphys-statmech/figure2.svg)
 
-Figure 2 [An extended description of figure 2 is in the supplement.]
+*Figure 2* [An extended description of figure 2 is in the supplement.]
 
 It is standard to assume that $\phi$ is deterministic, meaning, that every state $x$ has exactly one past and exactly one future, or, in geometrical terms, that trajectories cannot intersect (for a discussion of determinism see Earman (1986)). The systems studied in BSM are such that the volume of “blobs” in the state space is conserved: if we follow the time evolution of a “blob” in state space, this blob can change its shape but not its volume. From a mathematical point of view, this amounts to saying that the dynamics is *measure-preserving*: $\mu(A) = \mu(\phi_{t}(A))$ for all subsets $A$ of $X$ and for all times $t$. Systems in SM are often assumed to be governed by Hamilton’s equations of motion, and it is a consequence of Liouville’s theorem that the time evolution of a Hamiltonian system is measure-preserving.
 
@@ -69,11 +65,9 @@ $X_{M}$ is the *macro-region* of $M$.
 
 Now consider a complete set of macro-states (i.e., a set that contains every macro-state that the system can be in), and assume that there are exactly $m$ such states. This complete set is $\{ M_{1},\ldots,M_{m}\}$. It is then the case that the corresponding set of macro-regions, $\{ X_{M_{1}},\ldots,X_{M_{m}}\}$, forms a partition of $X$, meaning that the elements of the set do not overlap and jointly cover $X$. This is illustrated in Figure 3.
 
-*Figure 3*
-
 ![A more complex diagram containing elements of figures 1 and 2, link to extended description below](../assets/statphys-statmech/figure3.svg)
 
-Figure 3 [An extended description of figure 3 is in the supplement.]
+*Figure 3* [An extended description of figure 3 is in the supplement.]
 
 The figure also indicates that if the system under study is a gas, then the macro-states correspond to different states of the gas we have seen in Section 1. Specifically, one of the macro-states corresponds to the initial state of the gas, and another one corresponds to its final equilibrium state.
 

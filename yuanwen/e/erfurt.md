@@ -173,7 +173,7 @@ Buridan, John [Jean] | categories: medieval theories of | Duns Scotus, John | He
 
 [^ebbesen-1998]: Ebbesen, Sten, 1998, “The Paris Arts Faculty: Siger of Brabant, Boethius of Dacia, Radulphus Brito,” in *Medieval Philosophy*, John Marenbon (ed.), *The Routledge History of Philosophy* (Volume III), London, New York: Routledge, 269–90.
 
-[^fredborg-1980]: Fredborg, Karin Margareta, 1980, “Universal Grammar According to Some 12th-Century Grammarians,” in Konrad Koerner et al. (eds.), *Studies in Medieval Linguistic Thought*, Historiagraphia Linguistica, VII.1/2, Amsterdam: John Benjamins, 69–84.
+[^fredborg-1980]: Fredborg, Karin Margareta, 1980, “Universal Grammar According to Some 12th-Century Grammarians,” in Konrad Koerner et al. (eds.), *Studies in Medieval Linguistic Thought*, Historiographia Linguistica, VII.1/2, Amsterdam: John Benjamins, 69–84.
 
 [^fredborg-1988]: –––, 1988, “Speculative Grammar,” in *A History of Twelfth-Century Philosophy*, Peter Dronke (ed.), Cambridge, New York: Cambridge University Press, 177–95.
 
@@ -181,7 +181,7 @@ Buridan, John [Jean] | categories: medieval theories of | Duns Scotus, John | He
 
 [^grabmann-1922]: Grabmann, Martin, 1922, “De Thomas Erfordiensi auctore Grammaticae quae Ioanni Duns Scoto adscribitur speculativae,” *Archivum Franciscanum Historicum*, 15: 273–7.
 
-[^grabmann-1926]: –––, 1926, *Mittelalterliches Geistesleben. Abhandlung zur Geschichte der Scholastik und Mystic*, Bd. 1, München: Max Heuber, 116–25.
+[^grabmann-1926]: –––, 1926, *Mittelalterliches Geistesleben. Abhandlung zur Geschichte der Scholastik und Mystik*, Bd. 1, München: Max Heuber, 116–25.
 
 [^grabmann-1943]: –––, 1943, *Thomas von Erfurt und die Sprachlogik des mittelalterlichen Aristotelismus*, (Sitzungsberichte der Bayerischen Akademie der Wissenschaft, Heft 2), München: Heuber.
 

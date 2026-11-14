@@ -48,11 +48,9 @@ The following list of sequents are valid on a *Bi*N-frame just in case the first
 
 Whereas the first six of the above sequents correspond with the listed purely structural sequent rules, for double negation elimination it is not clear whether there exists a corresponding structural rule. From the point of view of proof-theoretic semantics (see the entry on proof-theoretic semantics) these correspondences are appealing for it may be held that the above introduction rules of the four negations once and for all fix their meaning, so that variations of meaning can be spelled out in purely structural terms. The emerging kite of negations as impossibility is shown in Figure 5.
 
-*Figure 5*
-
 ![[A kite diagram, upper vertex is 'classical'; lines down to 'De Morgan' on the left and 'intuitionistic' on the right; from 'De Morgan', line straight down to 'Ockham'; then to bottom vertex 'preminimal'; from 'intuitionistic', line straight down to 'minimal', then 'quasi-minimal', and finally to the bottom vertex 'preminimal'.]](../assets/negation/figure5.png)
 
-Figure 5
+*Figure 5*
 
 Onishi then defines a dualization function, $(\cdot )^t$ (notation adjusted), that maps formulas from the language with $\rhd$ and $\lhd$ into formulas from the language with $\blacktriangleright$ and $\blacktriangleleft$, and vice versa. In particular,
 
@@ -64,11 +62,9 @@ $$ \begin{array}{ccc} \rhd A \vdash \blacktriangleright A & \forall x \exists y 
 
 With the identification of negation as impossibility and negation as unnecessity we are led to the united kite of negations shown in Figure 6.
 
-*Figure 6*
-
 ![[A kite digram: upper vertex 'classical' line down-left to 'dual int.', down to 'De Morgan', and down-right to 'intuitionistic'; from 'dual int.', line down to 'dual min.' then down to 'dual quasi-min' then down to left bottom vertex 'dual premin.'; from 'De Morgan' line down to 'Ockham' then lines to the left bottom vertex 'dual premin.' and to the right bottom vertex 'preminimal'; from 'intuitionistic', line down to 'minimal' then line down to 'quasi-minimal' then down to right bottom vertex 'preminimal']](../assets/negation/figure6.png)
 
-Figure 6
+*Figure 6*
 
 Note that in the presence of the axioms for identifying negation as impossibility and negation as unnecessity and their frame conditions, every negation from the united kite emerges as substructural because both double negation elimination for $\blacktriangleright$ and double negation introduction for $\rhd$ do correspond with a structural sequent rule.
 

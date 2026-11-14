@@ -57,15 +57,15 @@
 
 海因里希·肖尔兹的重要性，在于他是 20 世纪上半叶逻辑发展中一位起整合作用的人物。他让数理逻辑与哲学始终声气相通；又以其对语义学的专注，为第二次世界大战之后的发展定下议程。德国战后逻辑的重要学者，如 Gisbert Hasenjaeger 与 Hans Hermes，皆出自其门下。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献
 
-### Secondary Literature
+### 二手文献
 
 [^hermes-1952]: Hermes, H., and Scholz, H. 1952, *Mathematische Logik*, Leipzig: Teubner (*Enzyklopädie der mathematischen Wissenschaften*, 2nd edition, Volume 1, Part 1, Number 1).
 [^scholz-1921]: Scholz, H., 1921, *Religionsphilosophie*, Berlin: Reuther & Reichard; 2nd revised edition 1922.
@@ -80,7 +80,7 @@
 [^scholz-1961]: –––, 1961, *Mathesis Universalis. Abhandlungen zur Philosophie als strenger Wissenschaft*, ed. by H. Hermes, F. Kambartel, and J. Ritter, Basel and Stuttgart: Benno Schwabe & Co.
 [^scholz-1970]: Scholz, H. (ed.), 1970, *Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften*, n.s., nos. 1–8, Hildesheim: Gerstenberg.
 [^scholz-1936]: Scholz, H. and Bachmann, F., 1936, “Der wissenschaftliche Nachlass von Gottlob Frege”, in *Actes du congrès international de philosophie scientifique Sorbonne, Paris 1935*, Vol. VIII: *Histoire de la logique et de la philosophie scientifique*, Paris: Hermann, 24–30.
-[^scholz-1961-2]: Scholz, H., and Hasenjaeger, G., 1961, *Grundzüge der mathematischen Logik*, Berlin/Göttingen/Heidelberg: Springer (*Grundlehren der mathematischen Wissenschaften*d,; 106).
+[^scholz-1961-2]: Scholz, H., and Hasenjaeger, G., 1961, *Grundzüge der mathematischen Logik*, Berlin/Göttingen/Heidelberg: Springer (*Grundlehren der mathematischen Wissenschaften*, 106).
 [^scholz-1935]: Scholz, H., and Schweitzer, H., 1935, *Die sogenannten Definitionen durch Abstraktion. Eine Theorie der Definitionen durch Bildung von Gleichheitsverwandtschaften*, Leipzig: Kommission bei Felix Meiner (*Forschungen zur Logistik und zur Grundlegung der exakten Wissenschaften*, 3).
 [^behmann-1937]: Behmann, H., P. Bernays, and H. Scholz, 1937/38, “Bericht des Komitees zur Vereinheitlichung der logischen Symbolik”, *Erkenntnis*, 7(1): 386–390.
 [^bolewski-1989]: Bolewski, A., and Pierzchała, H., 1989, *Losy polskich pracowników nauki w latach 1939–1945. Straty osobowe*, Wrocław: Zakład narodowy imienia ossolińskich wydawnictwo.
@@ -92,8 +92,8 @@
 [^molendijk-1991]: Molendijk, A.L., 1991, *Aus dem Dunklen ins Helle. Wissenschaft und Theologie im Denken von Heinrich Scholz. Mit unveröffentlichten Thesenreihen von Heinrich Scholz und Karl Barth*, Amsterdam/Atlanta: Rodopi (*Amsterdam Studies in Theology*; 8).
 [^molendijk-2005]: –––, 2005, “Ein standfester Mensch. Bemerkungen zum Werdegang von Heinrich Scholz,” in Schmidt am Busch and Wehmeier (eds.) 2005, 13–45.
 [^neurath-1937]: Neurath, O., 1937, “Die neue Enzyklopädie des wissenschaftlichen Empirismus”, *Scientia* (Milan), Dec. 1937, 309–320, reprinted in Neurath 1981, 801–811.
-[^neurath-1981]: –––, 1981, *Gesammelte philosophische und methodologische*
-[^schriften-nd]: *Schriften*, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
+[^neurath-1981]: –––, 1981, *Gesammelte philosophische und methodologische Schriften*, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
+
 [^peckhaus-1993]: Peckhaus, V., 1993, Review of Molendijk 1991, *History and Philosophy of Logic*, 14: 101–107.
 [^peckhaus-1998]: –––, 1998/99, “Moral Integrity During a Difficult Period: Beth and Scholz”, *Philosophia Scientiae*, 3(4): 151–173.
 [^peckhaus-2005]: –––, 2005, “Heinrich Scholz als Metaphysiker,” in Schmidt am Busch and Wehmeier (eds.) 2005, 69–83.

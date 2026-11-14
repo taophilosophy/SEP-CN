@@ -96,11 +96,9 @@ Suppes considers two basic operations: the operation $B$, that corresponds with 
 
 Example: consider the construction $((d, ac, B), (e, bd, D))$ consisting of two steps. The first step says to start with $ac$ and construct the mid-point $d$, and in the second step we take the segment $bd$ and double it. A diagrammatic representation makes clear what is happening:
 
-*Figure 1*
-
 ![[Points a, b, and c form a triangle, line segments ab and bc are solid lines, line segment bc is dashed. Point d lies midway on the line segment bc. The dashed line segment bd extends further to point e.]](../assets/geometry-finitism/figure1.png)
 
-Figure 1
+*Figure 1*
 
 Starting from the triple $a, b$, and $c$, we have constructed the parallelogram *abce*.
 
@@ -134,11 +132,9 @@ At least three solutions to this problem have been formulated.
 
 Van Bendegem (1987) argued that in a finite geometry it should be a basic fact that lines and points have extensions. In particular, lines are supposed to have a constant width (independent of the orientation of the line) $N_{D}$ Thus $N_{D}$ represents a large (finite) number, corresponding to the number of squares that form $N_{D}$. Given a line, the width is always defined as perpendicular to that line. Now suppose that the line has an orientation corresponding to an angle $\alpha$ between the line and the $x$-axis. Then the width $N_{D}$ of that line, when projected on the $x$-axis will be $\left[\frac{N_{D}}{\sin \alpha}\right]$ where the expression $[x]$ indicates the greatest integer less than or equal to $x$.
 
-*Figure 2*
-
 ![[a grid with two parallel lines going from upper left to lower right, near the bottom is a horizontal line crossing both lines (its angle with the left parallel line is labelled with an alpha symbol). Above a horizontal line segment connects the two parallel lines and another line segment (N_D/sin(alpha) has an arrow pointing to this) goes from its intersection with the right parallel line to a point on the left parallel line below (N_D has an arrow pointing to this line segment. The angle between the first line segment and the left parallel line is labelled with an alpha symbol.]](../assets/geometry-finitism/figure2.jpg)
 
-Figure 2
+*Figure 2*
 
 The distance $d$ between two points $p$ and $q$ is then defined as the number of squares in the rectangle formed by the line from $p$ to $q$ and the width $N_{D}$, divided by $N_{D}$. The idea is that, although in a discrete geometry lines must necessarily have a width, this is not an essential feature, so it can be divided out. Hence:
 
@@ -148,11 +144,9 @@ $N_{L}$ here corresponds to the number of layers parallel to the $x$-axis betwee
 
 As an illustration, consider the Weyl problem.
 
-*Figure 3.*
-
 ![[a grid with two long rectangles, one oriented top (labelled 'p')/bottom (labelled 'q') on the long axis and one oriented left (labelled 'q')/right (labelled 'r') on the long axis; they overlap on the bottom side of one and the left side of the other. A long parallelgram overlaps on the top side of one and the right side of the other. The long sides of both the rectangles are labelled N_L and the short sides, N_D. A horizontal line segment from one side of the parallelgram to the other is labelled '[sqrt(2)N_d]'. The angle of intersection between the parallelgram and the left/right rectangle is labelled 'alpha=pi/4.]](../assets/geometry-finitism/figure3.jpg)
 
-Figure 3.
+*Figure 3.*
 
 We have a right-angled triangle *pqr* such that for simplicity the right sides $pq$ and $qr$ are equal to one another and are aligned with the axes of the grid. Suppose that the number of squares in the right sides is $N_{L}$. Then
 
@@ -193,11 +187,9 @@ which sounds perfectly acceptable. Example: the trajectory such that $f_{n} = (n
 
 Two approaches are possible, that do not fall under the Fritz no-go theorem. Either the hodons have a definite shape or they do not. In the first case it has been suggested that instead of a regular periodic tiling of the plane, one should look for an irregular aperiodic tiling, such as the Penrose tiling.
 
-*Figure 4*
-
 ![[penrose tile patter, a large number of several different types of parallelgrams which mesh together in groups of 10 to form multiple 10-sided figures and groups of 3 to form multiple interlacing 6-sided figures]](../assets/geometry-finitism/figure4.jpg)
 
-Figure 4
+*Figure 4*
 
 Although no worked-out examples are available, it seems a promising line of attack. In the case of the Penrose tiling it is interesting to see that there are no classically straight lines anymore, precisely because of the aperiodicity. In the second case vagueness is a possible way out. As Peter Forrest in his (1995), and Crouse and Skufca in their (2019) defend, the whole idea of a specific representation of a discrete space, e.g., as built up from tiny squares is fundamentally mistaken. If a hodon has a specific form, then one cannot avoid asking questions about parts of a hodon, such as its border, but that does not make sense if hodons are the smallest spatial entities possible. An intermediate position defended in Van Bendegem (1997) is to consider a series of discrete geometries $G_{i}$, each with a hodon of a particular size, $h_{i}$, such that $h_{i}\ne h_{j}$, for $i\ne j$ and, in addition, there are $M$ and $N$ such that $M \lt h_{i} \lt N$, for all $i$. One can then apply a supervaluation technique to the series. This means that a statement will be True (False) if it is true (false) in every geometry $G_{i}$. In all other cases it is Undecided, i.e., true in some and false in some others. Now if $A$ is the statement “hodons have size $\alpha$” (where $\alpha$ is a specific number), this will be Undecided, if a corresponds to at least one of the $h_{i}$. Such an approach however introduces all problems connected with vagueness into the discussion, which is not necessarily an encouraging situation. For this problem too, an original answer can be given from within the framework of graph theory.
 

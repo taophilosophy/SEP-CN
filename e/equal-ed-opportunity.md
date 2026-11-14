@@ -201,14 +201,14 @@
 本词条分析了教育机会均等争论中的关键立场。我们首先描述了关切这一领域平等的原因，然后考察了关于这些机会的价值与分配的争论。如上述讨论所凸显的，教育机会均等理想的实现，可能受到关于平等本身蕴含何物的竞争性观念、以及与其他重要价值（如尊重家庭自主）的紧张关系的阻碍。近年来的社会科学进展，阐明了我们对儿童不平等地获得教育机会背后机制的理解，以及这些不平等对社会流动的后果（例如 Chetty et al. 2014; Duncan & Murnane 2011）[^chetty-2014][^duncan-2011]。这一知识使决策者能够把干预措施瞄准最具影响力的领域（例如，对早期儿童教育重要性的日益认识）。但本词条所凸显的这类价值紧张将持续存在；随着我们对教育不平等原因与后果的理解日益敏锐，它们值得哲学家持续关注。
 
 
-## References（引用注释）
+## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=equal-ed-opportunity)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/equal-ed-opportunity/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/equal-ed-opportunity/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/equal-ed-opportunity/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=equal-ed-opportunity&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/equal-ed-opportunity/) 查看本词条的增强文献目录及其数据库链接。
 

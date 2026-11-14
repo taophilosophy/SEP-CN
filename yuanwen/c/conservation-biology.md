@@ -53,11 +53,9 @@ The second way in which we might augment species richness is through disparity, 
 
 Maclaurin and Sternly suggest that one way to operationalize such variation is through the notion of a *morphospace* (Maclaurin & Sterelny 2008: Section 4.4)[^maclaurin-2008]. Suppose we have a $n$-dimensional hyperspace where each dimension $i$ is a variable concerning the $i$th phenotype. Thus, a point in the space represents a specific organism and their phenotype trait. Associated with any given species would be a hypervolume representing the phenotypic variation of that species. Though there are not many “worked out” hyperspaces of this sort, a famous one is paleontologist David Raup’s analysis of the coiling patterns in mollusks that includes variables for whorl expansion rate, uncoiling rate, translation of the generating curve, and shape of the growing edge (Raup 1966)[^raup-1966].
 
-*Figure 1:*
-
 ![A line drawing of a cube with 14 different pictures of mollusk shells around it, lines connect each picture to a particular part of the cube. Axes are labeled 'Expansion rate (w)' , 'Translation (t)', and 'Distance (d) of Generation Curve from Axis' ](../assets/conservation-biology/Raup.png)
 
-Figure 1: Raup’s coiling patterns in mollusks morphospace (Raup 1966)[^raup-1966]
+*Figure 1:* Raup’s coiling patterns in mollusks morphospace (Raup 1966)[^raup-1966]
 
 The morphospace describes actual coiling patterns and merely possible ones, and raises *explananda* for evolutionary biologists. Why did certain coiling patterns evolve and not others? Maclaurin and Sterelny claim morphospaces will be of low dimensionality and specifically limited to lineages or clades (Maclaurin & Sterelny 2008: 75–9)[^maclaurin-2008]. Thus, biologists must be assured that the variables included are representative of the phenotypic traits of the organisms and hence species under study. They hypothesize that the variables will correspond to developmental modules or mosaics, which are a relatively independent developmental system that contributes to fitness (G. P. Wagner 2014; P. J. Wagner 1995)[^wagner-2014][^wagner-1995]. This approach of course assumes that there exist independent developmental systems, and ideally it would help articulate how a lineage would fare over time as a function of its plasticity.
 
@@ -69,11 +67,9 @@ Finally, we can consider how to include phylogenetic information in our measure 
 
 Consider the following cladogram.
 
-*Figure 2:*
-
 ![a diagram with a diagonal line going from bottom left to upper right, labeled at the end with '2'. Along the line are 12 evenly placed tic marks. From this line and going to the left are 6 perpendicular lines, each also with evenly placed tic marks. The first, before the first tic mark on the main line, has 4 tic marks and is labeled '10'; between its second and third tic mars is another perpendicular line going to the right with one tic mark. The second, between the third and fourth tic marks on the main line, has only one tic mark. The third, between the fourth and fifth tic marks, has 7 tic marks and is labeled '8'. The fourth, between the fifth and sixth tic marks of the main line, has 5 tic marks and is labeled '6'. On it are two perpendicular lines with one tic mark each going to the right between the second and third and third and fourth tic marks. The fifth line, between the seventh and eighth tic marks on the main line, has 3 tic marks. The last line, between the eighth and ninth tic marks on the main line, has 1 tic mark. ](../assets/conservation-biology/Faith.jpeg)
 
-Figure 2: The phylogenetic diversity represented in a cladogram (Faith 1992: 3)[^faith-1992]
+*Figure 2:* The phylogenetic diversity represented in a cladogram (Faith 1992: 3)[^faith-1992]
 
 In Figure 2, we have taxa 2, 6, 8, 10. The minimum spanning path connecting each taxa requires 28 character changes and thus its PD is 28. Here each hash mark represents a character change and there are 28 of those marks. As Maclaurin and Sterelny note, this assumes that we have an adequate sample of character traits and given that many are molecular they do not tell us much about phenotypes (Maclaurin & Sterelny 2008: 141)[^maclaurin-2008]. Thus, they suggest we stick with local morphospaces. For an interesting exploration examing whether we should conserve phylogenetic diversity, see (Palmer and Fischer 2022)[^palmer-2022].
 
@@ -187,8 +183,6 @@ $$ t_{0.9} = \frac{2.3}{\lambda_{A} + \mu_{A}} $$
 
 Finally, let us assume that each species $S_i$’s size is proportional to the island’s area and the probability that a species goes extinct decreases as island size becomes smaller.
 
-*Figure 3:*
-
 ![[3a: a first quadrant graph with the y-axis labeled 'rate' and the x-axis labeled 's'. Two diagonal lines go from the upper left and the mid-upper left to the same point on the x-axis at the lower right. The upper left one is labeled 'near' and the mid-upper left is labeled 'far'. Two lines go from the origin at approximately 60 and 30 degrees. The 60 degree line is labeled 'small' and the 30 degree line is labeled 'large'. At the intersection of 'small' and 'near' lines a diagonal line drops to the x-axis. Another diagonal line goes from the intersection of 'large' and 'near'. Solid lines drop from the intersection of 'far' and 'small' and 'far' and 'large'.]](../assets/conservation-biology/fig3a.png)
 
 A
@@ -197,7 +191,7 @@ A
 
 B
 
-Figure 3: Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)[^macarthur-1967]
+*Figure 3:* Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)[^macarthur-1967]
 
 Where the immigration rate $I$ and extinction rate $E$ cross is the species equilibrium $S^*$ (Figure 3B). Moreover, the island whose immigration rate is $I_\text{near}$ and whose extinction rate is $E_\text{large}$ has the largest species equilibrium. The one with the smallest is the one with $I_\text{far}$ and $E_\text{small}$ (Figure 3A).
 
@@ -209,11 +203,9 @@ But conservation biologists quickly embraced the model and began to apply it to 
 
 Several conservation biologists, but especially Jared Diamond, argued that single large reserves were better than several small ones (SLOSS) (Diamond 1975a,b; May 1975; Terborgh 1975; Wilson & Willis 1975)[^diamond-1975a][^may-1975][^terborgh-1975][^wilson-1975].
 
-*Figure 4:*
-
 ![[6 rows, in the center of each row is a letter, A through F descending. In the A row is a large circle on the left and a medium circles on the right. The B row has a medium circle on the left and 4 small circles in a compact 2x2 array. The C row has the compact 2x2 array of small circles on the left and a far less compact 2x2 array of small circles on the right. The D row has 3 small circles in a compact triangular formation on the left and 3 small circles in a row on the right. The E row has 3 small circles in a row connected by corridors on the left and 3 unconnected circles in a row on the right (same as D's right). The F row has a small circle on the left and a wide but vertically narrow blob on the right]](../assets/conservation-biology/Diamond.jpeg)
 
-Figure 4: Principles as depicted in the SLOSS debate (Diamond 1975b: 174)[^diamond-1975b]
+*Figure 4:* Principles as depicted in the SLOSS debate (Diamond 1975b: 174)[^diamond-1975b]
 
 The principles debated included (A) larger reserves are better than smaller ones, (B) a large reserve is better than a few small ones of the same total area, (C) several reserves close to one another are better than several further apart, (D) when there are several reserves they should be grouped equidistantly rather then linearly, (E) reserves connected by corridors are better than unconnected ones, and (F) compact shapes are better for minimizing boundary length (1975b: 143–5).
 
@@ -251,11 +243,9 @@ $$ \begin{aligned} \exists p, k_p \in K \textrm{ such that } \ w_{pn} \lt w_{pm}
 
 This implies that $\alpha_n$ is strictly better than $\alpha_m$ by at least one criterion in $k_p \in K$, and it is not worse than $\alpha_m$ by any criterion $k_i \in K$. An alternative $\alpha_i \in A$ is *non-dominated* if, and only if, it is not dominated by any other element of $A$. Thus, using multi-criteria analysis, we attempt to find a non-dominated set of alternatives from which to design conservation area networks. An example from Sarkar (2012: 204–6) is briefly considered. We begin with place prioritization with 100 attempts to create a prioritized lists of hexagons for a target of 10 representatives for each vertebrate species present in Texas. There were thirty-two feasible solutions—ones that satisfied the conservation target. However, two other criteria were used for multi-criteria analysis, economic cost and social cost. The first was estimated by the cost of the conservation plan per hexagon and the second was estimated by the human population size of each hexagon included. From the thirty-two feasible solutions, there were only two non-dominated solutions selected by the multi-criteria analysis.
 
-*Figure 5:*
-
 ![[A graph captioned with 'Feasible and Non-Dominated Solutions', the y-axis is labeled 'Social Cost' and marked from 0.00E+00 to 8.00E+06 and the x-axis is labeled 'Economic Cost' and marked from 1.45E+08 to 1.80E+08. The legend has solid squares labeled 'Feasible Solutions' and solid circles labeled 'Non-Dominated Solutions'. The graph itself has the 28 or so squares scattered between 3.00E+06 and 6.00E+06 (on the y) and 1.50E+08 and 1.65E+08 (on the x). 2 squares are outliers, one at 7.00E+06 and 1.63E+08 (y,x) and the other at 6.00E+06 and 1.75E+08. The two circles are at 3.00E+06 and 1.46E+08 (y,x) and at 2.50E+06 and 1.55E+08.]](../assets/conservation-biology/Sarkar.jpeg)
 
-Figure 5: Place prioritization and multi-criteria analysis in Texas (Sarkar 2012: 206)[^sarkar-2012]
+*Figure 5:* Place prioritization and multi-criteria analysis in Texas (Sarkar 2012: 206)[^sarkar-2012]
 
 Next we reflect on the case studies and then ask what exactly is conservation biology?
 
@@ -298,14 +288,12 @@ Scientific decision-making involves values. Some however have argued that the va
 
 Let’s consider an argument from inductive risk (Douglas 2000; Hempel 1965; Rudner 1953, and in the context of conservation biology see Shrader-Frechette & McCoy 1993: Ch. 6)[^douglas-2000][^hempel-1965][^rudner-1953][^shrader-frechette-1993]. In standard Neyman-Pearson hypothesis testing we formulate a null hypothesis $H_0$ and an alternate $H_1$ (Gotelli & Ellison 2013)[^gotelli-2013]. The null states that, “$C$ does not have an effect $E$”. The alternate is the negation, which states that “$C$ has an effect $E$”. Thus there are two relevant probabilities of error.
 
-*Table 1:*
-
 |   | $H_0$ is true | $H_0$ is false |
 | --- | --- | --- |
 | Accept $H_0$ | Correct | Type II error |
 | Reject $H_0$ | Type I error | Correct |
 
-Table 1: Type I and Type II errors
+*Table 1:* Type I and Type II errors
 
 We can also represent them as,
 

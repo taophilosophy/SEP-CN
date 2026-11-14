@@ -9,7 +9,7 @@ In summary form, the following empirical claims about organ transplantation are 
 
 1. Organ transplantation, particularly kidney transplantation, is a successful treatment for organ failure in many cases.
 2. Organ transplantation is cost-effective compared with other treatments for organ failure (Axelrod et al. 2018; Persad 2018 claims that transplantation is not cost-effective compared with life-saving treatments for other conditions besides organ failure)[^axelrod-2018].
-3. Most organ transplantation nowadays is routine, not experimental (Veatch and Ross 2015)[^veatch-2015]. The organs in question are the kidney, liver, heart, lung, pancreas, and intestine. This entry discusses only the “routine” cases, rather than ones which are unusual or experimental, such as transplantation of uteri or faces. Experimental ones raise additional questions, but these are more properly dealt with as part of the entry on the ethics of clinical research. (Bayefsky & Berman 2016; Freeman and Jaoudé 2007; Lotz 2018; O’Donovan, Williams, & S. Wilkinson 2019; Robertson 2016; Sandman 2018; S. Wilkinson & Williams 2015; Williams 2016)[^bayefsky-2016][^freeman-2007][^lotz-2018][^o’donovan-2019][^robertson-2016][^sandman-2018][^williams-2016].
+3. Most organ transplantation nowadays is routine, not experimental (Veatch and Ross 2015)[^veatch-2015]. The organs in question are the kidney, liver, heart, lung, pancreas, and intestine. This entry discusses only the “routine” cases, rather than ones which are unusual or experimental, such as transplantation of uteri or faces. Experimental ones raise additional questions, but these are more properly dealt with as part of the entry on the ethics of clinical research. (Bayefsky & Berkman 2016; Freeman and Jaoudé 2007; Lotz 2018; O’Donovan, Williams, & S. Wilkinson 2019; Robertson 2016; Sandman 2018; S. Wilkinson & Williams 2015; Williams 2016)[^bayefsky-2016][^freeman-2007][^lotz-2018][^o’donovan-2019][^robertson-2016][^sandman-2018][^williams-2016].
 4. Transplant organs are often scarce. Many people who would benefit from receiving a transplant do not get one. Perhaps transplantation of other people’s organs will be superseded, for instance by growing new organs from stem cells, or making artificial organs, or using modified organs from other animals (xenotransplantation). None of these are yet ready for routine clinical use, although at the time of writing, xenotransplantation looks promising (*Economist* 2025)[^economist-2025].
 
 Organs are taken from the dead and the living. Each category raises separate problems and we begin with dead organ donors.
@@ -34,7 +34,7 @@ The first point to make from this description is that nearly all countries have,
 
 A lesson in method follows: when describing the practice of organ retrieval, looking at the law alone is inadequate.
 
-A vital second point is that the consent of the deceased is not required before organs may be taken. (Japan was the last major exception to this and permitted retrieval without the deceased’s consent only from 2010 – Aita, 2011). When the deceased has not refused, the family’s agreement is enough to permit retrieval.
+A vital second point is that the consent of the deceased is not required before organs may be taken. (Japan was the last major exception to this and permitted retrieval without the deceased’s consent only from 2010 – Aita, 2011)[^aita-2011]. When the deceased has not refused, the family’s agreement is enough to permit retrieval.
 
 ### 1.2 Proposals for reform
 
@@ -52,7 +52,7 @@ The persistent scarcity of organs has given rise to several proposals to reform 
 
 Even if we accept that people may have posthumous interests, the content of those interests will often be unknown or indeterminate. Many people do not think about organ donation, which is quite reasonable given the low chance that they will die in such a way as to permit organ retrieval. In cases where they have not thought or not revealed their thoughts, it seems plausible to say that they have no interest to be taken into account in deciding whether to proceed with retrieval.
 
-In some cases, the claims of the deceased will be in conflict with those of their families and/or the claims of potential recipients. The question arises of how to weigh the claims of the deceased. Some writers accept that the deceased can have posthumous interests, but believe them to be of little weight, particularly compared with the needs for organs of those with organ failure (Harris 2002, 2003)[^harris-2002][^harris-2003]. They may believe that people are not affected by their posthumous interests being set back or they may think the fear of retrieval is of little weight. In their view, any roughly consequentialist calculation would justify setting aside the objections of the deceased to organ retrieval. Other writers argue that if we accept posthumous interests and accept that people have strong claims over their bodies while alive, we have grounds to attribute rights to the living over their post-mortem bodies (T.M. Wilkinson 2011)[^wilkinson-2011]. Such a view needs to explain how posthumous rights are possible, since some writers in political and legal theory believe that rights could not protect posthumous interests for technical reasons to do with the nature of rights (Steiner 1994; Fabre 2008)[^fabre-2008][^steiner-1994][^steiner-1994-2].
+In some cases, the claims of the deceased will be in conflict with those of their families and/or the claims of potential recipients. The question arises of how to weigh the claims of the deceased. Some writers accept that the deceased can have posthumous interests, but believe them to be of little weight, particularly compared with the needs for organs of those with organ failure (Harris 2002, 2003)[^harris-2002][^harris-2003]. They may believe that people are not affected by their posthumous interests being set back or they may think the fear of retrieval is of little weight. In their view, any roughly consequentialist calculation would justify setting aside the objections of the deceased to organ retrieval. Other writers argue that if we accept posthumous interests and accept that people have strong claims over their bodies while alive, we have grounds to attribute rights to the living over their post-mortem bodies (T.M. Wilkinson 2011)[^wilkinson-2011]. Such a view needs to explain how posthumous rights are possible, since some writers in political and legal theory believe that rights could not protect posthumous interests for technical reasons to do with the nature of rights (Steiner 1994; Fabre 2008)[^fabre-2008][^steiner-1994].
 
 *The family*. If one accepts that the deceased have a claim, then families may acquire a claim by transfer. That is, the deceased may delegate decision-making power to their families, as is possible in some jurisdictions. Some authors have even suggested that the organs of the dead should be treated as something akin to inheritable property (Voo and Holm 2014)[^voo-2014]. Acquiring a claim by transfer however is no more controversial than the deceased’s having a claim in the first place. What is the subject of dispute is whether the family should have a claim in their own right which could be set against the claims of the deceased or potential recipients.
 
@@ -193,7 +193,7 @@ Some people increase their chances of needing a transplant organ by leading what
 
 There is one “non-ethical” argument for this view, called the Medical Argument. According to this:
 
-> … patients with self-inflicted illness … should have lower priority in access to health care because they are more likely to experience poor medical outcomes. (Sharkley and Gillam 2010: 661)
+> … patients with self-inflicted illness … should have lower priority in access to health care because they are more likely to experience poor medical outcomes. (Sharkey and Gillam 2010: 661)[^sharkey-2010]
 
 On the factual premise, it seems false that as a class those with “self-inflicted” illness would do so badly they should be deprioritized (Munson 2002)[^munson-2002], although transplant systems often do try to screen out those who would continue to act in ways that jeopardize their new organs. In any case, the Medical Argument is essentially just an application of more general cost-effectiveness criteria and not something that requires a special ethical justification. The arguments considered below, in contrast, are ones which claim that (for example) heavy drinkers and smokers should have lower priority access to organs *even if* they are no more likely than others to experience poor transplant outcomes. There are three main ethical arguments for this claim, two of which are clearly quite weak; a third, the Restoration Argument, is worth taking more seriously.
 
@@ -287,7 +287,7 @@ The authors would like to thank Dr. Laura O’Donovan and Dr. Nicola Williams fo
 
 [^abc-2012]: ABC, 2012. “NSW Govt to Scrap License Organ Donor Scheme”, Australian Broadcasting Corporation, 7 August 2012. [[ABC 2012](https://www.abc.net.au/news/2012-08-07/nsw-donation/4183090) available online]
 
-[^kaoruko-2011]: Kaoruko, A., 2011, “New Organ Transplant Policies in Japan, including the Family-Oriented Priority Donation Clause”, *Transplantation*, 91(5): 489–491.
+[^aita-2011]: Aita, K., 2011, “New Organ Transplant Policies in Japan, including the Family-Oriented Priority Donation Clause”, *Transplantation*, 91(5): 489–491.
 
 [^alexander-1962]: Alexander, S., 1962, “They Decide Who Lives, Who Dies”, *Life*, 53: 102–25.
 
@@ -297,7 +297,7 @@ The authors would like to thank Dr. Laura O’Donovan and Dr. Nicola Williams fo
 
 [^bailey-2020]: Bailey, P., Wong, K., Robb, M., Burnapp, L., Rogers, A., Courtney, A., Wroe, C., 2020, “Has the UK Living Kidney Donor Population Changed over Time? A Cross-sectional Descriptive Analysis of the UK Living Donor Registry between 2006 and 2017”, *BMJ Open*, 10:e033906. doi:10.1136/bmjopen-2019-033906
 
-[^bayefsky-2016]: Bayefsky, M., and B. Berkman, 2016, “The Ethics of Allocating Uterine Transplants”, *Bioethics*, 25(3): 350–365. doi:10.1017/S0963180115000687
+[^bayefsky-2016]: Bayefsky, M., and B. Berkman, 2016, “The Ethics of Allocating Uterine Transplants”, *Cambridge Quarterly of Healthcare Ethics*, 25(3): 350–365. doi:10.1017/S0963180115000687
 
 [^boddington-1998]: Boddington, P., 1998, “Organ Donation After Death—Should I Decide, or Should My Family?”, *Journal of Applied Philosophy*, 15(1): 69–81. doi:10.1111/1468-5930.00074
 
@@ -411,17 +411,17 @@ The authors would like to thank Dr. Laura O’Donovan and Dr. Nicola Williams fo
 
 [^raz-1986]: Raz, J., 1986, *The Morality of Freedom*, Oxford: Clarendon Press.
 
-[^robertson-2016]: Robertson, J., 2016, “Other Women’s Wombs: Uterus Transplanation and Gestational Surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi:10.1093/jlb/lsw011
+[^robertson-2016]: Robertson, J., 2016, “Other Women’s Wombs: Uterus Transplantation and Gestational Surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi:10.1093/jlb/lsw011
 
 [^ross-2023]: Ross, L.F., 2023, “Misleading Statements About Children as Living Organ Donors”, *Pediatrics* 152 (6): e2023064004A. doi:10.1542/peds.2023-064004A
 
-[^sandman-2018]: Sandman, L., 2018, “The Importance of Being Pregnant: On the Healthcare Need for Uterus Transplanation”, *Bioethics*, 32: 519–526. doi:10.1111/bioe.12525
+[^sandman-2018]: Sandman, L., 2018, “The Importance of Being Pregnant: On the Healthcare Need for Uterus Transplantation”, *Bioethics*, 32: 519–526. doi:10.1111/bioe.12525
 
 [^scott-2004]: Scott, Sophie, 2004, “Cult Organ Donations Under Investigation”, ABC News 6 July 2004 [[Scott 2004 available online](https://www.abc.net.au/news/2004-07-06/cult-organ-donations-under-investigation/2004876)].
 
 [^sharif-2018]: Sharif, A. and G. Moorlock, 2018, “Influencing Relatives to Respect Donor Autonomy: Should We Nudge Families to Consent to Organ Donation?”, *Bioethics*, 32: 155–163. doi:10.1111/bioe.12420
 
-[^sharkey-2010]: Sharkey, K. and L. Gillam, 2010, “Should Patients with Self-inflicted Illness Receive Lower Priority in Access to Healthcare Resources? Mapping out the Debate”, *Journal of Medical Ethics*, 20: 661–665. doi:10.1136/jme.2009.032102
+[^sharkey-2010]: Sharkey, K. and L. Gillam, 2010, “Should Patients with Self-inflicted Illness Receive Lower Priority in Access to Healthcare Resources? Mapping out the Debate”, *Journal of Medical Ethics*, 36: 661–665. doi:10.1136/jme.2009.032102
 
 [^smart-1994]: Smart, B., 1994, “Fault and the Allocation of Spare Organs”, *Journal of Medical Ethics*, 20: 26–30. doi:10.1136/jme.20.1.26
 
@@ -436,8 +436,6 @@ The authors would like to thank Dr. Laura O’Donovan and Dr. Nicola Williams fo
 [^tilney-2003]: Tilney, N., 2003, *Transplant: From Myth to Reality*, New Haven: Yale University Press.
 
 [^van-2016]: Van Assche, K., K. Thys, T. Vansweevelt, G. Genicot, P. Borry, S. Sterckx, 2016, “Living Tissue and Organ Donation by Minors: Suggestions to Improve the Regulatory Framework in Europe”, *Medical Law International*, 16(1–2): 58–93. doi:10.1177/0968533216660877
-
-[^steiner-1994-2]: Steiner, H., 1994, *An Essay on Rights*, Oxford: Basil Blackwell.
 
 [^veatch-2015]: Veatch, R. and L. Ross, 2015, *Transplantation Ethics* (2ⁿᵈ edition), Washington DC: Georgetown University Press.
 

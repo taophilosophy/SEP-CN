@@ -279,11 +279,9 @@ Suppose three bears get together to decide how hot their common pot of porridge 
 
 Or else they can be pictured like this:
 
-*Figure 1*
-
 ![[A graph, y-axis labeled 'preference' and x-axis having 'Cold', 'Warm', and 'Hot' in that order. First line, labeled 'Mama', goes from Cold/preference high to Hot/preference low. Second line, labeled 'Papa', goes from Cold/preference low to Hot/preference high. Third line, labeled 'Baby', goes from Cold/preference low to Warm/preference high to Hot/preference medium ]](../assets/arrows-theorem/fig1.png)
 
-Figure 1
+*Figure 1*
 
 This preference profile is *single peaked*. Each bear has a “bliss point” somewhere along the ordering of the options by their temperature, and each bear likes options less and less as we move along this common ordering away from the bliss point, on either side. Single peaked *preferences* arise with respect to the left-right orientation of political candidates, the cost of alternative public projects, and other salient attributes of options. Single peaked *profiles*, in which everybody’s preferences are single peaked with respect to a common ordering, arise naturally when everybody cares about the same thing in the options under consideration—temperature, left-right orientation, cost, or what have you—even if, as with the bears, there is no further consensus about which options are better than which.
 
@@ -298,11 +296,9 @@ With an even number of voters, single peakedness does not ensure satisfaction of
 
 Pairwise majority decision derives from this profile a weak social preference for $A$ to $B$, since there is one who weakly prefers $A$ to $B$, and one who weakly prefers $B$ to $A$. Similarly, it derives a weak social preference for $B$ to $C$. Transitivity requires a weak social preference for $A$ to $C$, but there is none. On the contrary, there is a strict social preference for $C$ above $A$, since that is the unanimous preference of the voters. Still, this profile is single peaked with respect to the common ordering $BCA$:
 
-*Figure 2*
-
 ![[A graph, y-axis labeled 'preference' and x-axis having 'B', 'C', and 'A' in that order. First line, labeled '1' goes from B/low preference to C/high preference to A/medium preference. Second line, labeled '2', goes from B/high preference to A/low preference.]](../assets/arrows-theorem/fig2.png)
 
-Figure 2
+*Figure 2*
 
 Majority decision with “phantom” voters can be used to establish Arrow consistency when the number of people is even. Let there be $2n$ people, and let each profile in the domain be single peaked with respect to one and the same ordering of the alternatives. Let $R_{2n+1}$ be an ordering that also is single peaked with respect to this common ordering. $R_{2n+1}$ represents the preferences of a “phantom” voter. Now take each profile $\langle R_{1},\ldots, R_{2n}\rangle$ in the domain and expand it into $\langle R_{1},\ldots, R_{2n}, R_{2n+1}\rangle$, by adding $R_{2n+1}$. The set of all the expanded profiles is a single peaked domain and, because the real voters together with the phantom are odd in number, Black’s result applies to it. Let $g$ be pairwise majority decision for the expanded domain. We obtain a social welfare function $f$ for the original domain by assigning to each profile the ordering that $g$ assigns to its expansion. That is, we put:
 

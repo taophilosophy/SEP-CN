@@ -124,7 +124,7 @@ $$ \forall F \{[F (0) \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} F (
 
 图式模板是一个字符串类型；按皮尔士（Charles Sanders Peirce）意义上的“殊例”来说，它拥有不定多的殊例（Peirce 1906; Corcoran et al. 1974: 638 n. 5）[^corcoran-1974][^peirce-1906]。但图式模板的任何殊例，都不是该图式的实例。事实上，图式的每个实例都是一个字符串类型，各有自己的殊例。“实例”是关系名词，表示某些字符串类型与某些图式之间的某种关系。“殊例”也是关系名词，表示某些宏观物理对象与某些抽象对象之间的某种关系。图式与图式模板，都不是指称实例的通名，也都不是某组实例的专名。
 
-有些哲学家强调，用图式而不用二阶公理，可以在本体论上节省（例如 Quine 1970/1986）[^quine-1970]。但这些哲学家几乎从未完整而客观地讨论过使用图式所带来的“本体论承诺”。例如，数论 **本身** 预设了数的存在，也许还预设了数函数与数属性的存在，但并不预设数学记号的存在；它 **更不必说** 并不预设有我们称为数论语言的那套庞大而精细的记号系统。有时，使用图式会减少对象语言的本体论承诺，却增加元语言的本体论承诺，或者至少没有实现任何净节省。
+有些哲学家强调，用图式而不用二阶公理，可以在本体论上节省（例如 Quine 1970/1986）[^quine-1970]。但这些哲学家几乎从未完整而客观地讨论过使用图式所带来的“本体论承诺”。例如，数论 **本身** 预设了数的存在，也许还预设了数函数与数属性的存在，但并不预设数学记号的存在；它 **更不必说** 会预设有我们称为数论语言的那套庞大而精细的记号系统。有时，使用图式会减少对象语言的本体论承诺，却增加元语言的本体论承诺，或者至少没有实现任何净节省。
 
 ## 4 逻辑史中的图式
 
@@ -138,13 +138,13 @@ $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-eve
 
 > 命题函项……不妨看作一个纯粹的图式、一个空壳、一个盛放意义的空容器，而不是某种已经有意义的东西。（1919: 157）
 
-但命题函项并不是现代意义上的句法图式。塔尔斯基 1933 年那篇定义真之的论文（Tarski 1933/1983: 157, 160, 172）[^tarski-1933][^tarski-1983] 是最早以接近本文所论含义使用“scheme”一词的著名出版物之一（Tarski 1933/1983: 155, 156）[^tarski-1933][^tarski-1983]。第二次世界大战前，塔尔斯基也使用“schema”一词及其复数“schemata”（1983: 63–64, 114, 310, 386, 423）。
+但命题函项并不是现代意义上的句法图式。塔尔斯基 1933 年那篇定义真的论文（Tarski 1933/1983: 157, 160, 172）[^tarski-1933][^tarski-1983] 是最早以接近本文所论含义使用“scheme”一词的著名出版物之一（Tarski 1933/1983: 155, 156）[^tarski-1933][^tarski-1983]。第二次世界大战前，塔尔斯基也使用“schema”一词及其复数“schemata”（1983: 63–64, 114, 310, 386, 423）。
 
 20 世纪初的逻辑形式化，采用所谓“代入规则”配合有穷多公理，而不是用图式指定无穷多条公理。这些“代入规则”并非人们熟悉的“以相等者替换相等者”规则，而更接近今天所说的例示规则。“代入规则”的直观动机非常简单，实现它的句法细节却“复杂得难以忍受”——这是 Paul Rosenbloom（1950: 109）的说法。事实上，好几位一流逻辑学家因此犯下令人尴尬的错误，Rosenbloom 在上引之处记录了这些错误。邱奇（1956: 158）把“使用公理图式这一设计”归功于冯·诺伊曼（John von Neumann），正是它使那条（出了名地难以陈述的）代入规则成为多余。
 
-正如邱奇所强调的（如 1956: 59），对图式作元数学处理，需要使用形式化语言或逻辑上完善的语言，以及一套公理化的字符串理论——后者首次出现于塔尔斯基 1933 年定义真之的论文（1933/1983: 152–256）。关于这个重要却在某种程度上被忽视的领域的历史、哲学与数学，详见 Corcoran *et al*. 1974；Corcoran 2006。
+正如邱奇所强调的（如 1956: 59），对图式作元数学处理，需要使用形式化语言或逻辑上完善的语言，以及一套公理化的字符串理论——后者首次出现于塔尔斯基 1933 年定义真的论文（1933/1983: 152–256）。关于这个重要却在某种程度上被忽视的领域的历史、哲学与数学，详见 Corcoran *et al*. 1974；Corcoran 2006。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -153,7 +153,7 @@ $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-eve
 [^church-1956]: Church, A., 1956, *Introduction to Mathematical Logic*, Princeton: Princeton University Press.
 [^corcoran-1998]: Corcoran, J., 1998, “Second-order Logic”, in C.S. Anderson and M. Zeleny (eds.), *Logic, Meaning, and Computation: Essays in Memory of Alonzo Church*, Dordrecht: Kluwer.
 [^corcoran-2006]: –––, 2006, “Schemata: the Concept of Schema in the History of Logic”, *Bulletin of Symbolic Logic*, 12(2): 219–40. doi:10.2178/bsl/1146620060
-[^corcoran-2009]: –––, 2009, “Aristotle’s Demonstrative Logic”, *History and Philosophy of Logic*, 30:1–20. doi:10.1080/01445340802228362
+[^corcoran-2009]: –––, 2009, “Aristotle’s Demonstrative Logic”, *History and Philosophy of Logic*, 30: 1–20. doi:10.1080/01445340802228362
 [^corcoran-1974]: Corcoran, J., W. Frank, & M. Maloney, 1974, “String theory”, *Journal of Symbolic Logic*, 39(4): 625–637. doi:10.2307/2272846
 [^feferman-2004]: Feferman, A. and S. Feferman, 2004, *Alfred Tarski: Life and Logic*, Cambridge: Cambridge University Press.
 [^feferman-1983]: Feferman, S. and G. Jäger, 1983, “Choice principles, the bar rule and autonomously iterated comprehension schemes in analysis”, *Journal of Symbolic Logic*, 48: 63–70.

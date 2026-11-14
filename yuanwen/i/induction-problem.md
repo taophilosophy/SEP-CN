@@ -347,7 +347,7 @@ But this argument itself depends on the UP, which is the very supposition which 
 
 As we have seen in section 2, some reject Hume’s claim that all inductive inferences presuppose the UP. However, the argument that basing the justification of the inductive inference on a probable argument would result in circularity need not rely on this claim. The circularity concern can be framed more generally. If argument *S* relies on *something* which is already presupposed in inference *X*, then argument *S* cannot be used to justify inference *X*. The question though is what precisely the something is.
 
-Some authors have argued that in fact *S* does not rely on any premise or even presupposition that would require us to already know the conclusion of *X*. *S* is then not a “premise circular” argument. Rather, they claim, it is “rule-circular”—it relies on a rule of inference in order to reach the conclusion that that very rule is reliable. Suppose we adopt the rule *R* which says that when it is observed that most *F*s are *G*s, we should infer that most *F*s are *G*s. Then inference *X* relies on rule *R*. We want to show that rule *R* is reliable. We could appeal to the fact that *R* worked in the past, and so, by an inductive argument, it will also work in the future. Call this argument *S**:
+Some authors have argued that in fact *S* does not rely on any premise or even presupposition that would require us to already know the conclusion of *X*. *S* is then not a “premise circular” argument. Rather, they claim, it is “rule-circular”—it relies on a rule of inference in order to reach the conclusion that that very rule is reliable. Suppose we adopt the rule *R* which says that when it is observed that most *F*s are *G*s, we should infer that most *F*s are *G*s. Then inference *X* relies on rule *R*. We want to show that rule *R* is reliable. We could appeal to the fact that *R* worked in the past, and so, by an inductive argument, it will also work in the future. Call this argument *S*\*:
 
 Most inferences following rule *R* have been successful
 
@@ -365,7 +365,7 @@ Proponents of this point of view point out that even deductive inference cannot 
 
 It might seem odd if premise circularity were vicious, and rule circularity were not, given that there appears to be an easy interchange between rules and premises. After all, a rule can always, as in the Lewis Carroll story, be added as a premise to the argument. But what the Carroll story also appears to indicate is that there is indeed a fundamental difference between being prepared to accept a premise stating a rule (the Tortoise is happy to do this), and being prepared to use that rule (this is what the Tortoise refuses to do).
 
-Suppose that we grant that an inductive argument such as *S* (or *S**) can support an inductive inference *X* without vicious circularity. Still, a possible objection is that the argument simply does not provide a full justification of *X*. After all, less sane inference rules such as counterinduction can support themselves in a similar fashion. The counterinductive rule is CI:
+Suppose that we grant that an inductive argument such as *S* (or *S*\*) can support an inductive inference *X* without vicious circularity. Still, a possible objection is that the argument simply does not provide a full justification of *X*. After all, less sane inference rules such as counterinduction can support themselves in a similar fashion. The counterinductive rule is CI:
 
 Most observed *A*s are *B*s.
 

@@ -29,11 +29,9 @@ How much of this kind of knowledge is needed to approach the philosophical probl
 
 A **vector** $A$, written ‘$\ket{A}$’, is a mathematical object characterized by a length, $|A|$, and a direction. A normalized vector is a vector of length 1; i.e., $|A| = 1$. Vectors can be added together, multiplied by constants (including complex numbers), and multiplied together. Vector addition maps any pair of vectors onto another vector, specifically, the one you get by moving the second vector so that its tail coincides with the tip of the first, without altering the length or direction of either, and then joining the tail of the first to the tip of the second. This addition rule is known as the parallelogram law. So, for example, adding vectors $\ket{A}$ and $\ket{B}$ yields vector $\ket{C} (= \ket{A} + \ket{B})$ as in Figure 1:
 
-*Figure 1*
-
 ![vector addition](../assets/qm/figure1.gif)
 
-Figure 1. Vector Addition
+*Figure 1*. Vector Addition
 
 Multiplying a vector $\ket{A}$ by $n$, where $n$ is a constant, gives a vector which is the same direction as $\ket{A}$ but whose length is $n$ times $\ket{A}$’s length.
 
@@ -47,11 +45,9 @@ $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
 
 For example, here is a graph which shows how $\ket{B}$ can be represented as the sum of the two unit vectors $\ket{A_1}$ and $\ket{A_2}$:
 
-*Figure 2*
-
 ![figure2](../assets/qm/figure2.gif)
 
-Figure 2. Representing $\ket{B}$ by Vector Addition of Unit Vectors
+*Figure 2*. Representing $\ket{B}$ by Vector Addition of Unit Vectors
 
 Now the definition of the inner product $\braket{A}{B}$ has to be modified to apply to complex spaces. Let $c^*$ be the complex conjugate of $c$. (When $c$ is a complex number of the form $a \pm bi$, then the complex conjugate $c^*$ of $c$ is defined as follows:
 

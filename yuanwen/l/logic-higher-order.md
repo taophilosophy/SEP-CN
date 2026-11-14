@@ -117,8 +117,6 @@ $$\tag{4}\label{qqq} Q_1X_1\ldots Q_nX_n\phi, $$
 
 where each $Q_i$ is either $\exists$ or $\forall$ and $\phi$ is first order. That is, all second order quantifiers of the formula are in the front.
 
-*Table 1:*
-
 | Notation | The $Q_i$ in (\ref{qqq}) are: |
 | --- | --- |
 | $\Sigma^1_1$ | All existential |
@@ -133,7 +131,7 @@ where each $Q_i$ is either $\exists$ or $\forall$ and $\phi$ is first order. Tha
 | $\Delta^1_2$ | Both $\Sigma^1_2$ and $\Pi^1_2$ formulas |
 | $\vdots$ | $\vdots$ |
 
-Table 1: The hierarchy of second-order formulas.
+*Table 1:* The hierarchy of second-order formulas.
 
 By restricting what kind of quantifiers the sequence $Q_1X_1\ldots Q_nX_n$ of the Prenex Normal Form (\ref{qqq}) can contain we obtain the classes of $\Sigma^1_n$-, $\Pi^1_n$- and $\Delta^1_n$-formulas, as indicated in Table 1. For example, the second-order formulas (1) and (2) are $\Pi^1_1$-formulas.
 

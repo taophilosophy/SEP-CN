@@ -135,17 +135,17 @@ Having dismissed these two older forms of antipsychologism, Husserl moves on to 
 
 Husserl also claims that psychologism fails to do justice to the idea that truths are eternal. It is precisely because truths are eternal that logical laws cannot be laws about states of affairs (be they mental or physical). Husserl attempts to prove this claim by showing that the opposite assumption leads to paradoxes.
 
-Take a logical law like (***).
+Take a logical law like (*\**).
 
-> (***) For every truth *t*, its contradictory opposite ~*t* is no truth.
+> (*\**) For every truth *t*, its contradictory opposite ~*t* is no truth.
 
 And then assume (*a*)–(*d*):
 
 > (*a*) Laws about states of affairs are laws about the coming to be and passing away of states of affairs.
 >
-> (*b*) (***) is a truth.
+> (*b*) (*\**) is a truth.
 >
-> (*c*) (***) is a law about truths.
+> (*c*) (*\**) is a law about truths.
 >
 > (*d*) Laws about truths are laws about state of affairs.
 

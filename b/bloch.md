@@ -2,7 +2,7 @@
 
 *首次发表于 2023 年 1 月 25 日。*
 
-恩斯特·布洛赫（1885–1977）是德国哲学家与文化批评家。他的声名主要来自两件事：重新唤起人们对乌托邦的兴趣；以及在解放的激进哲学、非教条的宗教思想、大众文化分析与新的美学形式（尤其是表现主义）之间充当中介。他的著作，尤其是《希望的原理》（1954–1959）*The Principle of Hope*，促成了批判理论的一种特殊形态；由于采用独特的随笔式写法，这些著作在学界与学界之外都颇受欢迎。布洛赫是魏玛德国知识分子群体中的重要声音；第二次世界大战结束后的一小段时间里，他又成为东德的首席哲学家。然而他很快就被马克思主义意识形态家看作“异端”。在东欧阵营之外，他对上个世纪的乌托邦研究、神学与美学，乃至一般而言的政治哲学与批判理论，都产生了深远影响。布洛赫的左翼取向与对希望的乐观论述，使他成为存在主义思想的批评者，尽管他与存在主义在谱系与风格上多有亲缘。布洛赫以黑格尔与马克思为基础，同时汲取许多其他思想传统，力求为不确定的、开放的世界构建一种本体论与政治哲学。这一点体现在他的“乌托邦诠释学”中——它试图揭示自然或文化任一现象中的未完成性、其中的“尚未”；体现在他对人之存在的直接性（部分受现象学运动启发）与大众文化诸形式的敏感中；也体现在他把马克思主义重构为“自然的人化/人的自然化”这一乌托邦纲领的努力中。乌托邦式非同一性的经验被提升到本体论原则的高度：“*S* 尚未是 *P*”；而人对解放的追求，则奠基于存在本身尚未获得实现的状态。
+恩斯特·布洛赫（1885–1977）是德国哲学家与文化批评家。他的声名主要来自两件事：重新唤起人们对乌托邦的兴趣；以及在解放的激进哲学、非教条的宗教思想、大众文化分析与新的美学形式（尤其是表现主义）之间充当中介。他的著作，尤其是《希望的原理》（*The Principle of Hope*，1954–1959），促成了批判理论的一种特殊形态；由于采用独特的随笔式写法，这些著作在学界与学界之外都颇受欢迎。布洛赫是魏玛德国知识分子群体中的重要声音；第二次世界大战结束后的一小段时间里，他又成为东德的首席哲学家。然而他很快就被马克思主义意识形态家看作“异端”。在东欧阵营之外，他对上个世纪的乌托邦研究、神学与美学，乃至一般而言的政治哲学与批判理论，都产生了深远影响。布洛赫的左翼取向与对希望的乐观论述，使他成为存在主义思想的批评者，尽管他与存在主义在谱系与风格上多有亲缘。布洛赫以黑格尔与马克思为基础，同时汲取许多其他思想传统，力求为不确定的、开放的世界构建一种本体论与政治哲学。这一点体现在他的“乌托邦诠释学”中——它试图揭示自然或文化任一现象中的未完成性、其中的“尚未”；体现在他对人之存在的直接性（部分受现象学运动启发）与大众文化诸形式的敏感中；也体现在他把马克思主义重构为“自然的人化/人的自然化”这一乌托邦纲领的努力中。乌托邦式非同一性的经验被提升到本体论原则的高度：“*S* 尚未是 *P*”；而人对解放的追求，则奠基于存在本身尚未获得实现的状态。
 
 ## 1 小传
 
@@ -170,16 +170,16 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-[^bloch’s-nd]: Bloch’s most extensive and comprehensive biography to date is
+[^bloch’s-nd]: 迄今最详尽、最全面的布洛赫传记是
 [^zudeick-1985]: Zudeick, Peter, 1985, *Der Hintern des Teufels: Ernst Bloch, Leben und Werk*, Baden-Baden, Moos: Elster.
-[^zudeick-nd]: The two books of interviews also cover many biographical details:
+[^zudeick-nd]: 两部访谈集也涵盖了许多传记细节：
 [^traub-1975]: Traub, Rainer and Harald Wiesner (eds.), 1975, *Gespräche mit Ernst Bloch*, Frankfurt am Main: Suhrkamp.
 [^münster-1977]: Münster, Arno (ed.), 1977, *Tagträume vom aufrechten Gang: sechs Interviews mit Ernst Bloch*, Frankfurt am Main: Suhrkamp.
-[^bloch’s-nd-2]: A more recent, psychoanalytically informed perspective on Bloch’s life and thought is developed in:
+[^bloch’s-nd-2]: 从精神分析角度切入的、关于布洛赫生平与思想的较新研究，见
 [^gekle-2019]: Gekle, Hanna, 2019, *Der Fall des Philosophen: eine Archäologie des Denkens am Beispiel von Ernst Bloch*, Frankfurt am Main: Vittorio Klostermann GmbH.
-[^bloch’s-nd-3]: The standard edition of Bloch’s work in German is:
+[^bloch’s-nd-3]: 布洛赫德文著作的标准版本是
 [^ga-1959]: [GA] Bloch, Ernst, 1959–1978, *Gesamtausgabe in 16 Bänden + 1 Ergänzungsband*, Frankfurt am Main: Suhrkamp (cited as GA).
-[^english-nd]: English translations and other primary sources cited in the text (here listed by year of publication):
+[^english-nd]: 正文所引英译本及其他一手文献（按出版年排列）：
 [^english-1905]: 1905/1906 [1992], “Gedanken über religiöse Dinge”, *Das Freie Wort*, 5: 690–694; reprinted, 1992, *Bloch-Almanach*, 12: 9–13.
 [^english-1909]: 1909, *Kritische Erörterungen über Rickert und das Problem der modernen Erkenntnistheorie*, Ludwigshafen am Rhein: Baur.
 [^english-1918]: 1918 [2000], *Geist der Utopie*, München: Duncker & Humblot [GA 16]; 2nd revised edition, 1923; 3rd edition, 1964 [GA 3]; translated as *The Spirit of Utopia*, Anthony A. Nassar (trans.), Stanford, CA: Stanford University Press, 2000.
@@ -235,14 +235,14 @@
 [^honneth-2017]: Honneth, Axel, 2017, “Hoffnung in hoffnungslosen Zeiten. Rede anlässlich der Verleihung des Ernst-Bloch-Preises”, *Bloch-Almanach*, 34: 15–28.
 [^hudson-1982]: Hudson, Wayne, 1982, *The Marxist Philosophy of Ernst Bloch*, London: Macmillan.
 [^jameson-1971]: Jameson, Fredric, 1971, *Marxism and Form: Twentieth Century Dialectical Theories of Literature*, Princeton, NJ: Princeton University Press.
-[^jay-1984]: Jay, Martin, 1984, *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, LA: University of California Press.
+[^jay-1984]: Jay, Martin, 1984, *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, CA: University of California Press.
 [^kosnoski-2011]: Kosnoski, Jason, 2011, “Specter and Spirit: Ernst Bloch, Jacques Derrida, and the Work of Utopia”, *Rethinking Marxism*, 23(4): 507–523. doi:10.1080/08935696.2011.605282
 [^korstvedt-2010]: Korstvedt, Benjamin M., 2010, *Listening for Utopia in Ernst Bloch’s Musical Philosophy*, Cambridge/New York: Cambridge University Press.
 [^levinas-1976]: Levinas, Emmanuel, 1976, “Sur la mort dans la pensée de Ernst Bloch”, in Raulet 1976: 318–326.
 [^levitas-1990]: Levitas, Ruth, 1990, “Educated Hope: Ernst Bloch on Abstract and Concrete Utopia”, *Utopian Studies*, 1(2): 13–26.
 [^levitas-2012]: –––, 2012, “Secularism and Post-Secularism in Roberto Unger and Ernst Bloch: Toward a Utopian Ontology”, in *Existential Utopia: New Perspectives on Utopian Thought*, Patricia Vieira and Michael Marder (eds), New York: Continuum, pp. 97–112.
 [^levitas-2013]: –––, 2013, “Singing Summons the Existence of the Fountain: Bloch, Music, and Utopia” in Thompson and Žižek 2013: 219–45
-[^löwy-1988]: Löwy, Michael, 1988 [1992], *Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective*, (Sociologie d’aujourd’hui), Paris: Presses universitaies de France. Translated as *Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
+[^löwy-1988]: Löwy, Michael, 1988 [1992], *Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective*, (Sociologie d’aujourd’hui), Paris: Presses universitaires de France. Translated as *Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
 [^lyotard-1976]: Lyotard, Jean-François, 1976, “Puissance de Traces, ou contribution de Bloch à une histoire païenne”, in Raulet 1976: 57–67.
 [^marchesoni-2014]: Marchesoni, Stefano, 2014, “Zur Vorgeschichte des Eingedenkens: Über Ernst Blochs »motorisch-phantastische Erkenntnistheorie« in Geist der Utopie und ihre »Umfunktionierung« bei Benjamin”, in *Benjamin-Studien 3*, Daniel Weidner and Sigrid Weigel (eds.), München: Brill/Fink, 13–29. doi:10.30965/9783846757826_003
 [^mendes-flohr-1983]: Mendes-Flohr, Paul R., 1983, “‘To Brush History Against the Grain’: The Eschatology of the Frankfurt School and Ernst Bloch”, *Journal of the American Academy of Religion*, LI(4): 631–650. doi:10.1093/jaarel/LI.4.631

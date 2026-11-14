@@ -188,15 +188,15 @@ A bit later, he continues:
 
 > If we are to say, as Miss Jones does, that ‘Scott is the author of *Waverley*’ asserts an identity of denotation, we must regard the denotation of ‘the author of *Waverley*’ as the denotation of what is *meant* by ‘the author of *Waverley*’. Let us call the meaning of ‘the author of *Waverley*’ *M*. Thus *M* is what ‘the author of *Waverley*’ means. Then we are to suppose that ‘Scott is the author of *Waverley*’ means ‘Scott is the denotation of *M*’. But here we are explaining our proposition by another of the same form, and thus have made no progress towards a real explanation. ‘The denotation of *M*’, like ‘the author of *Waverley*’¸ has both meaning and denotation, on the theory we are examining. If we call its meaning *M*′, our proposition becomes ‘Scott is the denotation of *M*′’. But this leads to an endless regress. Thus the attempt to regard our proposition as asserting identity of denotation breaks down, and it becomes imperative to find some other analysis. When this analysis has been completed, we shall be able to reinterpret the phrase ‘identity of denotation’, which remains obscure so long as it is taken as fundamental. (Russell 1910–11, 28–29)[^russell-1910]
 
-Let’s unpack this. Russell is here evaluating a hypothesis according to which a description such as ‘the author of *Waverley*’ is, contrary to his own view, meaningful in isolation.[^note-5] To assume that this description is meaningful in isolation is to assume that, for some *M*, ‘the author of *Waverley*’ means *M*. Let’s call this meaning *M**. Since we accept the following:
+Let’s unpack this. Russell is here evaluating a hypothesis according to which a description such as ‘the author of *Waverley*’ is, contrary to his own view, meaningful in isolation.[^note-5] To assume that this description is meaningful in isolation is to assume that, for some *M*, ‘the author of *Waverley*’ means *M*. Let’s call this meaning *M\**. Since we accept the following:
 
 > The denotation of ‘the author of *Waverley*’ = the denotation of what is *meant* by ‘the author of *Waverley*’
 
 we also accept
 
-> The denotation of ‘the author of *Waverley*’ = the denotation of *M**
+> The denotation of ‘the author of *Waverley*’ = the denotation of *M\**
 
-Now the meaning-in-isolation theorist might suggest that our original sentence, ‘Scott is the author of *Waverley*’, means that Scott is the denotation of *M**. But, as Russell observes, all this does is to replace one description with another. Since the theorist fails to tell us what ‘the author of *Waverley*’ means in terms that don’t involve an expression equally in need of analysis, we have been given no evidence that this, or any, description is meaningful in isolation.
+Now the meaning-in-isolation theorist might suggest that our original sentence, ‘Scott is the author of *Waverley*’, means that Scott is the denotation of *M*\*. But, as Russell observes, all this does is to replace one description with another. Since the theorist fails to tell us what ‘the author of *Waverley*’ means in terms that don’t involve an expression equally in need of analysis, we have been given no evidence that this, or any, description is meaningful in isolation.
 
 Jones responds:
 

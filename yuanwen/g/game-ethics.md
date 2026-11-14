@@ -32,8 +32,6 @@ One of the most widespread uses of game theory in ethics has been to postulate v
 
 The scenario Ullmann-Margalit presents is an example of a *prisoner’s dilemma* and is illustrated in Figure 1 below. In this *strategic form game*, each soldier acts without observing the other’s action. Each soldier has the choice between the strategies of *fleeing* (*F*) or *staying* (*S*). The cells in the matrix correspond to the outcome of each possible pair of choices, with the numbers in the cells representing the utilities of the outcomes for the soldiers. Specifically, higher numbers correspond to a more preferred outcome, and the first number represents the payoff of Soldier 1 who chooses between the actions corresponding to the rows, while the second number represents the payoff of Soldier 2 who chooses between the actions corresponding to the columns.
 
-*Figure 1.*
-
 |   |   | Soldier 2 |   |
 | --- | --- | --- | --- |
 |   |   | S | F |
@@ -42,7 +40,7 @@ The scenario Ullmann-Margalit presents is an example of a *prisoner’s dilemma*
 
 S = stay, F = flee
 
-Figure 1. Ullmann-Margalit’s Mortarmen’s Dilemma
+*Figure 1.* Ullmann-Margalit’s Mortarmen’s Dilemma
 
 In this situation each soldier has a reason to flee. This is because fleeing provides the only chance of escaping unharmed, which is the outcome each most prefers. However, the situation is a dilemma, because if each soldier pursues this course of action, then they will both end up worse off than if neither had. Furthermore, the dilemma is magnified by the fact that for each soldier, F is his unique best response to any strategy the other soldier might choose. That is, F is each soldier’s *strictly dominant strategy*, and $(F,F)$ is the unique *Nash equilibrium* of this game even though both soldiers would fare better is they could somehow follow $(S,S).$
 
@@ -62,21 +60,17 @@ Kavka (1984) dubs the body of attempts to establish that compliance with moral r
 
 The challenge presented by Hobbes’ Foole in *Leviathan* (Hobbes 1651: chapter 15)[^hobbes-1651] nicely characterizes the core issue at stake in the Reconciliation Project. The Foole maintains that under certain circumstances one’s “most reasonable” course of action is to commit an injustice. Specifically, the Foole claims one should sometimes break a promise she has made as part of a covenant if the other parties to the covenant have already kept (or will be compelled to keep) their promises (Hobbes 1651: 15:5)[^hobbes-1651]. This is because performing as a covenant requires can be costly and rationality plausibly requires that such costs should be avoided if one doesn’t stand to gain anything further by incurring them. This challenge is illustrated in the decision tree in Figure 2 below.
 
-*Figure 2.*
-
 ![a decision tree: link to extended description below](../assets/game-ethics/Figure2.svg)
 
-Figure 2. Foole’s Opportunity Game [An extended description of figure 2 is in the supplement.]
+*Figure 2.* Foole’s Opportunity Game [An extended description of figure 2 is in the supplement.]
 
 Here Claudia and Laura have created a bilateral covenant by exchanging promises. But because Claudia has already performed her part of the covenant, and Laura knows this, Laura stands in the position of the Foole and can either *perform* (*P*) as the covenant requires of her or *aggress* (*A*) by breaking her promise and exploiting Claudia’s earlier performance. As the Foole contends, given this payoff structure, *A* is Laura’s unique Bayesian rational choice.
 
 Importantly, though, the Foole does not just present a challenge to those who endorse her reasoning. This is because in order to avoid being taken advantage of by individuals who reason like the Foole, individuals who might otherwise be inclined to keep their promises can sometimes find themselves with reason to break their promises. We see this in Figure 3 below which depicts the *sequential prisoner’s dilemma* that results from extending the decision tree from Figure 2 to include Claudia’s initial move.
 
-*Figure 3.*
-
 ![a decision tree: link to extended description below](../assets/game-ethics/Figure3.svg)
 
-Figure 3. Sequential Prisoner’s Dilemma [An extended description of figure 3 is in the supplement.]
+*Figure 3.* Sequential Prisoner’s Dilemma [An extended description of figure 3 is in the supplement.]
 
 In this *extensive form game*, which makes explicit the sequential order of the agents’ actions, the *i*ᵗʰ component of each payoff vector is the payoff of the *i*ᵗʰ agent who moves in the game (so Claudia’s payoff is depicted first, since she acts first). Here we can suppose that Claudia does not agree with the Foole that one should break her promise if one’s partner in a covenant has kept her promise, but a dilemma nevertheless arises if Claudia suspects that Laura might agree with the Foole. This is because Claudia might reason that if she performs, then Laura, having already benefited and not standing to gain anything further, will not reciprocate. Consequently, Claudia, *anticipating* (*A*) Laura’s aggression, decides not to perform, leading Laura, now understandably, not to perform either, so that each ultimately does worse than if they had both performed.
 
@@ -86,11 +80,9 @@ To take up the Reconciliation Project is to argue alongside Hobbes that the Fool
 
 The *inseparable goods strategy* appeals to certain benefits one can gain or preserve only by acting morally, that the Foole apparently fails to consider. Plato’s account of the benefits of justice in the *Gorgias* and *Republic* is one example of this approach. Plato maintains that if one commits an injustice, then one’s soul will consequently be corrupted, and he further maintains that to have a corrupt soul is the worst of all possible misfortunes (*Gorgias* 478c3–478e5, *Republic* 353d3–354a7). Alternatively, one might follow Aquinas in arguing that an injustice like stealing is a mortal sin which will bring about terrible consequences in the afterlife (Aquinas 1271: II.II Q. 66 A. 6). Or Sidgwick, who emphasizes the *internal sanctions* of duty one is likely to suffer on account of their immoral conduct (Sidgwick 1874 [2011: 164])[^sidgwick-1874]. Viewed through the lens of game theory, the inseparable goods approach recommends that those who doubt the prudential rationality of acting morally should reevaluate their preferences in light of the totality of goods at stake. For example, Figure 4 below illustrates how the scenario depicted in Figure 3 would change if Laura becomes persuaded that she would suffer a cost $\gamma > 1$ as a result of breaking her covenant with Claudia, perhaps owing to the guilt she might feel for committing an injustice.
 
-*Figure 4.*
-
 ![a decision tree: link to extended description below](../assets/game-ethics/Figure4.svg)
 
-Figure 4. Sequential Exchange Game with Revised Payoffs, [An extended description of figure 4 is in the supplement.]
+*Figure 4.* Sequential Exchange Game with Revised Payoffs, [An extended description of figure 4 is in the supplement.]
 
 This extensive form game depicts Laura’s true payoffs, including the cost of guilt that Sidgwick would call an internal sanction. In this game if Claudia performs as promised, then to follow *P* as justice requires is now Laura’s best response. However, this isn’t because we’ve simply assumed that one couldn’t ever stand to gain by breaking a promise. To see why, note that if Claudia breaks her promise first, then *A* continues to be Laura’s best response. As we saw in our discussion of the evolution of cooperation, morality can’t require us to be suckers. Or, to use Kavka’s helpful terminology, justice may forbid violating a covenant *offensively* by breaking one’s promise unexpectedly, while permitting *defensive* violations of covenants that others can no longer reasonably expect us to honor (Kavka 1986: 139)[^kavka-1986]. Accordingly, if Claudia offensively violates her covenant with Laura by following *A*, then if Laura responds in kind, Laura’s violation should not give rise to the internal sanctions associated with having committed an injustice. Furthermore, note that the presence of internal sanctions can change things even when these aren’t universally felt. For instance, even if Claudia herself would feel negligible guilt for offensively violating their covenant, if Claudia knows that Laura would suffer the internal sanction cost $\gamma > 1$ of offensive violation, then Claudia can expect Laura to perform when she does as well, and in this case she fares best by following *P* at the outset.
 
@@ -102,8 +94,6 @@ When agents engage in a sequence of interactions, each of which can be character
 
 To illustrate how the folk theorem might support the social sanctions strategy, suppose that Laura and Claudia are interested in exchanging with one another and that their situation has the structure of the prisoner’s dilemma depicted in Figure 5 below.
 
-*Figure 5.*
-
 |   |   | Party 2 (Laura) |   |
 | --- | --- | --- | --- |
 |   |   | P | A |
@@ -112,7 +102,7 @@ To illustrate how the folk theorem might support the social sanctions strategy, 
 
 P = perform, A = anticipate
 
-Figure 5. Prisoner’s Dilemma
+*Figure 5.* Prisoner’s Dilemma
 
 This prisoner’s dilemma is structurally identical to the Mortarmen’s Dilemma of Figure 1, but here we interpret the parties’ strategies rather differently. (*A*, *A*) is the unique equilibrium of this game that characterizes Laura and Claudia’s particular interaction with one another. However, if we suppose that their interaction is one of an indefinite sequence of similar interactions that they will enter into with each other and other members of their community, then they can follow history-dependent strategies. One such strategy, formulated by Sugden (1986), is the *Humean strategy*:
 
@@ -130,8 +120,6 @@ In *Morals by Agreement* Gauthier distinguishes between *straightforward maximiz
 
 For example, if Claudia is a constrained maximizer, then in the prisoner’s dilemma depicted in Figure 5 Claudia will perform if she believes Laura is also a constrained maximizer, but will anticipate if she believes Laura is a straightforward maximizer. One way to understand how constrained maximization modifies an agent’s behavior is to regard adopting one’s principle of rationality as a meta-strategy for engaging in prisoner’s dilemma-like games. If Claudia and Laura each adopt either the straightforward maximizer (*SM*) or the constrained maximizer (*CM*) meta-strategy, then the prisoner’s dilemma depicted in Figure 5 is transformed into the game depicted in Figure 6 below.
 
-*Figure 6.*
-
 |   |   | Party 2 (Laura) |   |
 | --- | --- | --- | --- |
 |   |   | *CM* | *SM* |
@@ -140,7 +128,7 @@ For example, if Claudia is a constrained maximizer, then in the prisoner’s dil
 
 *CM*= constrained maximization, *SM* = straightforward maximization
 
-Figure 6. Meta-Strategy Game for Prisoner’s Dilemma
+*Figure 6.* Meta-Strategy Game for Prisoner’s Dilemma
 
 Here, whatever strategy the other party follows, one always does at least as well and sometimes better by following *CM* as opposed to *SM*. That is, *CM* is a *weakly dominant* strategy for both Claudia and Laura, and (*CM*, *CM*) is the unique Pareto-optimal Nash equilibrium. Gauthier argues that there are a wide variety of social dilemmas where constrained maximizers fare at least as well as straightforward maximizers, and can often fare strictly better, so long as agents’ dispositions towards constrained or straightforward maximization are sufficiently clear to each other. Accordingly, Gauthier concludes that agents should adopt the constrained maximization principle, and that, when they do, compliance with the requirements of morality coincides with rational choice.
 
@@ -164,8 +152,6 @@ As Gauthier (1986) argues, the bargaining problem provides a framework for a *co
 
 Nash characterized the bargaining problem as a combination of (i) a *feasible set* of payoffs that a group of agents might achieve each of which is associated with a respective set of actions the agents must jointly agree to follow, and (ii) a *nonagreement point* that specifies what each agent receives in case they fail to follow any of these joint action sets. An example of Nash’s bargaining problem is the 2-agent *Wine Problem* depicted in Figure 7 below.
 
-*Figure 7.*
-
 |   |   | Agent 2 (Laura) |   |
 | --- | --- | --- | --- |
 |   |   | *D* | *H* |
@@ -174,13 +160,11 @@ Nash characterized the bargaining problem as a combination of (i) a *feasible se
 
 *D*= dove (claim none), *H* = hawk (claim all)
 
-Figure 7. Wine Problem
+*Figure 7.* Wine Problem
 
 In this game Claudia and Laura each have two pure strategies: *hawk* (*H*), which is to claim an available bottle of wine, or *dove* (*D*), which is to leave the bottle for the other. The game has two Nash equilibria in pure strategies: (*H*,*D*), the outcome most favorable to Claudia, and (*D*,*H*), the outcome most favorable to Laura. If both try to claim the bottle, at the resulting (*H*,*H*) outcome they fight and neither gets any wine, the worst outcome for them both. The Wine Problem is an example of a *conflictual coordination game* (Vanderschraaf & Richards 1997)[^vanderschraaf-1997], so-called because it has multiple equilibria, any of which the agents achieve only by coordinating their actions, and where coordination is complicated by the conflicting preferences of the agents over the different available equilibria.[^note-1]
 
 One might think that a natural solution to the Wine Problem is for Claudia and Laura to each claim half of the bottle. Figure 8 below thus illustrates an extended version of the Wine Problem in which each agent now has a third pure strategy, *M*, in which she claims half the bottle.
-
-*Figure 8.*
 
 |   |   | Agent 2 (Laura) |   |   |
 | --- | --- | --- | --- | --- |
@@ -191,25 +175,21 @@ One might think that a natural solution to the Wine Problem is for Claudia and L
 
 *D* = dove (claim none), *M* = moderate (claim half), *H* = hawk (claim all)
 
-Figure 8. Extended Wine Problem
+*Figure 8.* Extended Wine Problem
 
 In this game, Laura and Claudia each receives the amount of wine she claims if their claims are *compatible*, that is, if there is enough wine to satisfy each claim. However, if their claims are *incompatible*, they fight. There is now a new Nash equilibrium in pure strategies, $(M,M)$, where Laura and Claudia each receive half the bottle. It’s not a foregone conclusion that they will settle into $(M,M)$, though, for $(H,D)$ and $(D,H)$ remain equilibria, and the former continues to be most preferred by Claudia, and the latter most preferred by Laura.
 
 Furthermore, if each can claim half the bottle why should they not be able to claim other shares? Figure 9 below summarizes the bargaining problem that arises when Claudia can claim any share $x_1$ of the wine and Laura can similarly claim any share $x_2$.
 
-*Figure 9.*
-
 ![a graph: link to extended description below](../assets/game-ethics/Figure9.jpg)
 
-Figure 9. Wine Bargaining Problem [An extended description of figure 9 is in the supplement.]
+*Figure 9.* Wine Bargaining Problem [An extended description of figure 9 is in the supplement.]
 
 Here Claudia’s payoffs are depicted on the horizontal axis, and Laura’s payoffs are depicted in the vertical axis. The green shaded region represents the feasible set of payoff vectors $\Lambda$ where Laura and Claudia make compatible claims, that is where $x_1 +x_2 \le 1.$ While the payoff vector $\bu_0 = ({-1},{-1})$ corresponding to the (*H*,*H*) outcome represents their nonagreement point.
 
 In the social contract context we can think of the nonagreement point $\bu_0$ as representing the State of Nature, and the feasible set $\Lambda$ as representative of the various contracts parties might agree to. Each point $\bu \in \Lambda$ that is weakly Pareto superior to $\bu_0$ thus characterizes a social contract with a *cooperative surplus* (Gauthier 1986: 141)[^gauthier-1986].[^note-2] And, when a set of claims constitutes an equilibrium solution to the associated bargaining problem, this allows us to say that the parties to a contract all have good reason to comply with its terms. As we will see below, though, there are various approaches to identifying the most attractive equilibrium from a normative point of view. An advantage of using the Nash bargaining approach to modeling the social contract, then, is that this formalization helps to clarify the differences between these approaches.[^note-3]
 
 The Basis Game that Braithwaite analyzed in his Cambridge lecture is ideal for illustrating the axiomatic approach to the bargaining problem. In this game two agents, Luke and Matthew, vie for shares of a limited resource. Like the Wine Problem, the Braithwaite Basis Game is a conflictual coordination game in which each agent has two pure strategies available, *H* in which the agent claims all of the good at stake, and *D* in which he claims none. Here (*H*,*D*) is the Nash equilibrium most favorable to Luke and (*D*,*H*) is the equilibrium most favorable to Matthew. As Figure 10 illustrates, though, this game has asymmetries not present in the Wine Problem.[^note-4]
-
-*Figure 10.*
 
 |   |   | Agent 2 (Matthew) |   |
 | --- | --- | --- | --- |
@@ -219,15 +199,13 @@ The Basis Game that Braithwaite analyzed in his Cambridge lecture is ideal for i
 
 *D*= dove (claim none), *H* = hawk (claim all)
 
-Figure 10. Braithwaite Basis Game
+*Figure 10.* Braithwaite Basis Game
 
 Again, as before, this game can be extended to accommodate the case where agents can claim shares of the good. And if the nonagreement point again results in the payoffs generated by the conflict outcome (*H*, *H*), as Braithwaite supposed, then Matthew and Luke are in a Nash bargaining problem with feasible set $\Lambda$ and nonagreement point $\bu_0 = \left(0,\frac{1}{9}\right)$. Figure 11 depicts the feasible set $\Lambda$ for such a game (again shaded in green). This time, though, the figure also identifies the payoff vectors associated with three solutions concepts that have been especially influential in in game theoretic analyses of the social contract (namely the *Nash*, *proportional*, and *maximin proportionate gain* solutions).
 
-*Figure 11.*
-
 ![a graph: link to extended description below](../assets/game-ethics/Figure11.jpg)
 
-Figure 11. Braithwaite Bargaining Problem [An extended description of figure 11 is in the supplement.]
+*Figure 11.* Braithwaite Bargaining Problem [An extended description of figure 11 is in the supplement.]
 
 Here Luke’s payoffs are depicted on the horizontal axis, while Matthew’s are on the vertical axis. As we can see, although the solutions differ, each leaves Matthew with a higher payoff than Luke receives. This is because each solution allocates Matthew a larger share of the good,[^note-5] and is due to the asymmetry in the nonagreement point that characterizes the Braithwaite Problem. Specifically, (*H*, *H*) is Luke’s worst possible outcome, but not Matthew’s, so Matthew has a *threat advantage*. In less technical terms, because failing to agree is less bad for Matthew he can use the threat of nonagreement to press for an agreement that is more favorable to him. And this asymmetry distinguishes the Braithwaite Bargaining Problem from the Wine Division Problem depicted in Figure 9 where the three solutions coincide with the point $\bu^{*} = \left(\frac{1}{2}, \frac{1}{2}\right)$ in which the agents involved each receive equal shares.
 
@@ -259,31 +237,25 @@ To gain traction on this problem Skyrms considers a simple but nontrivial 3-piec
 
 One answer to this question is that when agents repeatedly have to come to agreements with one another over the division of a good, but can only obtain a share of the good when they agree on a feasible division, agents who restrain themselves from pressing maximal claims are more likely to encounter other agents with whom feasible bargains are possible. In other words, as we saw in a slightly different context in section 2, in the long run the benefits from successfully coming to terms with like-minded agents outweigh the foregone gains that can occasionally be gotten by pressing for less equitable divisions. Skyrms tests this rationale by applying a dynamic model of evolution, the *replicator dynamic*, to his Nash Demand Game. Figure 12 illustrates a *simplex* that one can use to summarize this dynamic.
 
-*Figure 12.*
-
 ![a triangle: link to extended description below](../assets/game-ethics/Figure12.png)
 
-Figure 12. Strategy Simplex for Skyrms’s Nash Demand Game [An extended description of figure 12 is in the supplement.]
+*Figure 12.* Strategy Simplex for Skyrms’s Nash Demand Game [An extended description of figure 12 is in the supplement.]
 
 Each point in the simplex corresponds to a particular mix of types of agents in the population that can represented by an ordered triplet $(z_1,z_2,z_3),$ where $z_1$ is the fraction of the population that follows *D*, $z_2$ the fraction that follow *M*, and $z_3$ the fraction that follow *H*. Points closer to a vertex of the simplex thus represent mixes where more agents follow the strategy associated with that vertex. The replicator dynamic then summarizes the evolution of population states where the fractions of represented strategies change over time in proportion to their *average reproductive fitness*. Here a strategy’s average reproductive fitness corresponds to its average payoff relative to the average payoff of other strategies represented in the population at a given time.[^note-15] To illustrate, in Figure 12, the point $z_0 = \left(\frac{1}{6}, \frac{1}{3}, \frac{1}{2}\right)$ represents an initial state where $\frac{1}{6}$ of the population follow *D*, $\frac{1}{3}$ follow *M*, and $\frac{1}{2}$ follow *H*. Given this starting point, the replicator dynamic then traces an *orbit* starting at $z_0$ that converges to $\be_2 = (0,1,0),$ the vertex point where the entire population follows the pure strategy *M*.
 
 By applying the replicator dynamic across a wide swath of initial states in the Figure 12 simplex, Skyrms then showed that the fair outcome, $\be_2,$ where everyone presses equal claims, is the most likely to evolve. We replicate Skyrms’ experiment here. Figure 13 depicts 200 orbits of the replicator dynamic starting from initial population states chosen at random from the Figure 12 simplex.
 
-*Figure 13.*
-
 ![a triangle: link to extended description below](../assets/game-ethics/Figure13.png)
 
-Figure 13. Replicator Dynamic Orbits of Skyrms’s Nash Demand Game [An extended description of figure 13 is in the supplement.]
+*Figure 13.* Replicator Dynamic Orbits of Skyrms’s Nash Demand Game [An extended description of figure 13 is in the supplement.]
 
 As this figure illustrates most initial distributions of claimant types eventually converge to an equilibrium where all agents follow *M* and press claims of 1/2. To use a technical term, we can say that $\be_2$ has the largest *basin of attraction*.[^note-16] To see why this is the case, we can consider how different pure strategy types fare when agents of a population meet at random and engage in the Nash Demand Game. Agents who press claims of *D* always arrive at feasible bargains, but in particular interactions they never do as well as partners who press claims of *M* or *H*. On the other hand, agents who press claims of *H* only arrive at feasible bargains when matched with agents who press minimal claims of *D* and can thus be exploited. Meanwhile, agents who press claims of *M* arrive at feasible bargains when matched against either *D*-following partners or other *M*-following partners. On average, then, *M*-followers do better than both *D*-followers and *H*-followers unless there are so many *H*-followers and so few *M*-followers in the population that in an individual encounter an *M*-follower is more likely to meet an *H*-follower than either another *M*-follower or a *D*-follower.[^note-17] Indeed, *M* is an *evolutionarily stable strategy* (Maynard Smith 1982)[^maynard-1982] of this game. What this means is that, if $\be_2$ is the current population state so that *M* is the sole *incumbent strategy*, then $\be_2$ can repel any limited invasion of some different *mutant* strategy.[^note-18]
 
 In some respects Skyrms’ observation shows how Gauthier’s argument for constrained maximization might have been strengthened by drawing on resources from outside the confines of rational choice theory. Indeed, Skyrms shows that the basin of attraction for the equitable equilibrium where all agents press claims of 1/2 expands when agents become more likely to interact with agents of their own strategy type, as they might if they are somewhat able to recognize agents like themselves. For example, Figure 14 depicts a series of orbits of a *correlated replicator dynamic* Skyrms uses to model such situations. In this dynamic, an agent meets a counterpart of the same pure strategy type with probability .2 greater than the random chance probability of the ordinary replicator dynamic.[^note-19] And, as we can see, even with this relatively minor increase in the likelihood of same type interactions, *all* of the modified replicator dynamic orbits now converge to $\be_2$ .[^note-20]
 
-*Figure 14.*
-
 ![a triangle: link to extended description below](../assets/game-ethics/Figure14.png)
 
-Figure 14. Correlated Replicator Dynamic Orbits of Skyrms’s Nash Demand Game [An extended description of figure 14 is in the supplement.]
+*Figure 14.* Correlated Replicator Dynamic Orbits of Skyrms’s Nash Demand Game [An extended description of figure 14 is in the supplement.]
 
 Alternatively, Skyrms showed how evolved attachments to particular places or things, and more importantly the ability to *signal* these attachments can help solve conflictual coordination problems like the Nash Demand Game. In particular, Skyrms (1996 [2014]: chap. 4) showed that by developing a primitive notion of property rights, agents involved in such games could correlate their behavior by playing Hawk at home and Dove away from home, and thereby avoid the sorts of interactions that lead to conflict or to both agents abandoning a resource. At the end of the day, though, the evolutionary game theory utilized by Skyrms can only lend so much support to a view like Gauthier’s. For one thing, the game Skyrms models assumes that agents have fixed types and cannot revise their claims in light of the claims made by others. Furthermore, it is one thing to offer an explanation of why a trait like fair division or constrained maximization would evolve, or to show why this might be beneficial to both individual agents and groups, but to show either of these is not necessarily to show that constraining one’s behavior is the rational course of action.
 
@@ -317,8 +289,6 @@ Alternatively, game theoretic analysis can also help us understand practices lik
 
 The analysis of bad norms isn’t just limited to cases where the norms in question are clearly the culprit in bringing about bad outcomes, though. Game theory can also tell us about the ways in which seemingly innocent norms and preferences can give rise to bad outcomes. Perhaps the most famous example of this is Schelling’s (1971) model of segregation which helps illustrate why segregation can be so difficult to combat. Schelling showed that even when agents don’t mind living alongside members of other groups, even very minimal preferences for having some neighbors like oneself can lead to individuals sorting themselves into relatively segregated communities over time. For example, Figure 15 below shows how a group of individual agents randomly distributed around a grid will segregate themselves over time when individual agents have preferences for being surrounded by certain thresholds of neighbors like them.[^note-21] Here Figure 15a depicts a random initial distribution on a $20\times 20$ grid, where 10% of squares are empty in order to facilitate movement, and there are two types of agent in equal proportion to one another. Figure 15b depicts the sorting that occurs if agents prefer to be surrounded by neighbors of whom at least 20% are like them. Figure 15c shows how things change when the threshold is increased to just 30%. And Figure 15d shows what things are like when the threshold is 50%.
 
-*Figure 15.*
-
 ![model 1 of 4: link to extended description below](../assets/game-ethics/Figure15.png)
 
 a. Initial Distribution
@@ -335,7 +305,7 @@ c. 30% Threshold
 
 d. 50% Threshold
 
-Figure 15. Schelling Segregation Models [An extended description of figure 15 is in the supplement.]
+*Figure 15.* Schelling Segregation Models [An extended description of figure 15 is in the supplement.]
 
 If we compare Figures 15a and 15b we see that when agents have a preference to have at least 1 out of every 5 of their neighbors be like them, the distribution isn’t substantially impacted. However, if we compare Figures 15a and 15b to Figure 15c we see that when that threshold is increased from 20% to 30% the agents become significantly segregated. And by the time the threshold reaches 50% agents have been sorted into almost completely homogeneous neighborhoods. In other words, even when agents have no objection to the vast majority of their neighbors being different from them (in the case of Figure 15c, as many as 70%), a preference to have just some neighbors like oneself can have massive distributional consequences, and in addition to being unintended these may be undesirable. However, while we might criticize the underlying preferences in light of these consequences, and there may be thresholds for neighborhood composition that seem obviously discriminatory, when the preference in question is to have just 30% of one’s neighbors be like oneself (in a world with only two groups) it’s far from obvious that this preference is objectionable.
 
@@ -419,8 +389,6 @@ for each agent j and all $\bu \ne \bu'',$ that is, it selects the point where th
 
 [^note-14]: The 3-Piece Nash Demand Game game is illustrated in Figure N1 below. It is equivalent to the game illustrated in Figure 8 because one obtains that game by applying the transformation $T(u_{ij}) = 3 \cdot u_{ij} - 1$ to each payoff $u_{ij}$ in the 3-piece Nash demand game depicted here.
 
-*Figure N1.*
-
 |   |   | Agent 2 |   |   |
 | --- | --- | --- | --- | --- |
 |   |   | *D* | *M* | *H* |
@@ -430,7 +398,7 @@ for each agent j and all $\bu \ne \bu'',$ that is, it selects the point where th
 
 *D*= claim none, *M* = claim half, *H* = claim all
 
-Figure N1. 3-Piece Nash Demand Game
+*Figure N1.* 3-Piece Nash Demand Game
 
 [^note-15]: For an $n \times n$ game with a symmetric payoff structure the law of motion of the one-population discrete replicator dynamic is defined by the function:
 

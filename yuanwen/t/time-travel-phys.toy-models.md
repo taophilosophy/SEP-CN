@@ -10,11 +10,9 @@ The two toy models presented above have the virtue of being mathematically tract
 
 Consider a slight modification of the first simple model proposed to us by Adam Elga. Let the particles have an *electric charge*, which produces forces according to Coulomb’s law. Then set up a situation like that depicted in figure S1:
 
-*Figure S1:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s1.svg)
 
-Figure S1: Set-up for Elga’s Paradox. [An extended description of figure S1 is in the supplement.]
+*Figure S1:* Set-up for Elga’s Paradox. [An extended description of figure S1 is in the supplement.]
 
 The dotted line indicates the path the particle will follow if no forces act upon it. The point labeled *P* is the left edge of the time-travel region; the two labels are a reminder that the point at the bottom and the point at the top are one and the same.
 
@@ -30,21 +28,17 @@ The continuity assumption breaks down because of two features of the example: th
 
 Suppose that, instead of being concentrated at a point, the incoming object is a little stick, with electric charge distributed even across it (figure S2).
 
-*Figure S2:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s2.svg)
 
-Figure S2: Elga’s Paradox with a Charged Bar. [An extended description of figure S2 is in the supplement.]
+*Figure S2:* Elga’s Paradox with a Charged Bar. [An extended description of figure S2 is in the supplement.]
 
 Once again, we set things up so that if there are no forces on the bar, it will be completely absorbed at $L+$. But we now postulate that if the bar should *hit* the point *P*, it will fracture: part of it (the part that hits $L+)$ will be sent back in time and the rest will continue on above $L+$. So continuity of a sort is restored: now we have not just the possibility of the whole charge being sent back or nothing, we have the continuum degrees of charge in between.
 
 It is not hard to see that the restoration of continuity restores the existence of a consistent solution. If no charge is sent back through time, then the bar is not deflected and all of it hits $L+$ (and hence is sent back through time). If all the charge is sent back through time, then is incoming bar is deflected to an extent that it misses $L+$ completely, and so no charge is sent back. But if just the right amount of charge is sent back through time, then the bar will be only partially deflected, deflected so that it hits the edge point *P*, and is split into a bit that goes back and a bit that does not, with the bit that goes back being just the right amount of charge to produce just that deflection (figure 11).
 
-*Figure S3:*
-
 ![a diagram: link to extended description below](../assets/time-travel-phys/figure-s3.svg)
 
-Figure S3: Solution to Elga’s Paradox with a Charged Bar. [An extended description of figure S3 is in the supplement.]
+*Figure S3:* Solution to Elga’s Paradox with a Charged Bar. [An extended description of figure S3 is in the supplement.]
 
 Our problem about conservation of momentum is also solved: the piece of the bar that does not time travel has lower momentum to the right at the end than it had initially, but the piece that does time travel has a higher momentum (due to the Coulomb forces), and everything balances out.
 

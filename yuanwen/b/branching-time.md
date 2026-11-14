@@ -7,11 +7,9 @@
 
 In very general terms, a *BT representation* is a complex of *histories* (or *chronicles*, or *possible worlds*) and *moments* (or *nodes*), which purports to represent all possible temporal developments of a given system. Intuitively, histories stand for temporally complete (possible) developments of the system, and moments, for their minimal temporal “slices”. Unlike non-branching modal structures, BT representations allow different histories to *overlap* or *coincide* over a certain stretch of time and then *divide* or *branch*.[^note-1] *BT frames* are mathematical structures that purport to provide BT representations, i.e., they are formally defined BT representations. In this entry, we shall primarily focus on *standard* BT frames or *trees* (see Fig. 1).
 
-*Figure 1:*
-
 ![A tree diagram where the nodes are moments and the lines connecting the nodes are histories. Link to extended description below](../assets/branching-time/Tree_intro.svg)
 
-Figure 1: A tree, where $h_0$–$h_3$ are histories and $m_0$–$m_6$ are moments. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* A tree, where $h_0$–$h_3$ are histories and $m_0$–$m_6$ are moments. [An extended description of figure 1 is in the supplement.]
 
 Standard BT frames are formal tools that can be applied to a variety of different purposes, but two of their applications play a central role in philosophy and deserve to be called *canonical*. They are also the applications in view of which the frames were initially introduced and developed, by Saul Kripke and Arthur Prior.
 
@@ -25,11 +23,9 @@ Section 1 introduces the main ideas behind branching time and BT representations
 
 Branching time (BT) frames are formally defined BT representations, and are endowed with both structural and representational features. From a structural viewpoint, BT frames are *branching structures*, that is, intuitively, networks of interconnected paths, where each path can be thought of as a chain of nodes. Branching structures are ubiquitous in our experience, appearing for instance in trees, in rivers, in circulatory systems, and in road systems. What makes BT frames special, with respect to other branching structures, is their representational function: BT frames aim to represent all the possible temporal developments of a given system, which in philosophy is generally identified with the whole universe. More specifically, in BT frames, paths are called *histories* and represent complete courses of events, while nodes are called *moments* and represent instantaneous or temporally minimal events. Histories are usually defined as maximal chains of moments ordered by a relation of *temporal* (or *causal*, or *temporal-modal*) *precedence* $\prec$. Histories are all connected: by moving backward and/or forward along histories, we can reach any moment in the frame from any other. Histories can branch out in both temporal direction, that is, we can have both future-directed or *forward* branching and past-directed or *backward* branching (see Fig. 2). We shall speak of *standard* BT frames or (BT) *trees*[^note-2] to indicate BT frames in which only forward branching is admitted and backward branching is not. In this entry, we shall focus on trees and devote only a few passing comments to backward-branching BT frames.
 
-*Figure 2:*
-
 ![A diagram showing both a forward branching and a backward branching tree. Link to extended description below](../assets/branching-time/Branching.svg)
 
-Figure 2: Forward branching and backward branching. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Forward branching and backward branching. [An extended description of figure 2 is in the supplement.]
 
 In short, standard BT frames or trees are *abstract representations* that are understood to represent our universe (or some other system) along with all its possible developments; trees are complexes of *moments* and *histories*, where histories are maximal chains of temporally ordered moments; histories are all *connected* and *do not branch towards the past*. Let us expand on this characterization by delving a little deeper into each of these italicized notions.
 
@@ -90,11 +86,9 @@ Connection entails that we can get from any moment to any other at most in two (
 
 If No backward branching is omitted, then the only condition imposed on the relation $\prec$ is that it is an irreflexive connected partial order. Thus, at any moment, time may branch out also in the past and a BT structure can be viewed as a set of crossroads (see Fig. 3). So conceived, crossroads are temporally directed, as we can divide them into a forward-branching fork and a backward branching one. The forward-branching fork departing from $m$ is naturally understood to represent the historical possibilities open at $m$, and the backward-branching fork, the *epistemic* possibilities open at $m$, i.e., the possibilities consistent with the knowledge available at $m$. However, other interpretations are also possible (e.g., we can understand both forks as representing epistemic possibilities). Backward branching structures have potential applications that are largely unexplored to date, for instance, concerning the treatment of knowledge and other propositional attitudes in a branching reality.[^note-4] We expect that in future iterations of this entry they will receive a widest share of attention.
 
-*Figure 3:*
-
 ![Link to extended description below](../assets/branching-time/Crossroad.svg)
 
-Figure 3: A temporally directed crossroad centered at moment $m$. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* A temporally directed crossroad centered at moment $m$. [An extended description of figure 3 is in the supplement.]
 
 In many applications of BT frames, it is of crucial importance that some kind of synchronism is imposed between moments belonging to different histories. For instance, counterfactual assertions seem to involve a trans-history identification of moments: “Were I in London *now*, I would go straight to the British Museum” (see, e.g., Thomason & Gupta 1980; Di Maio & Zanardo 1994)[^thomason-1980]. But it must be noticed that not every tree can be endowed with synchronisms. The definition of tree does not impose any topological structure on histories. We can have histories that are dense in some parts and discrete in others. In particular, two different histories may have different topological structures in the parts where they do not overlap.
 
@@ -104,11 +98,9 @@ Formally, we say that the tree ${\mathcal{T}}$ is *synchronizable* if there exis
 
 In a synchronized tree, the set $\Sigma$ of bijections determines a relation on $T$: we can write $m \leftrightarrow_\Sigma m'$ iff $m' = \sigma_{h,h'}(m)$ for some $h, h'$. It can be readily verified that, by the properties of the functions in $\Sigma$, the relation $\leftrightarrow_\Sigma$ is well defined and is an equivalence relation (see Di Maio & Zanardo 1994), which is naturally understood as a kind of simultaneity. The trees considered in Belnap’s Logic of Agency (in particular for achievement stit) are synchronized trees, but the synchronism is determined by means of the primitive notion of *instant* (Belnap, Perloff, & Xu 2001: 7A.5)[^belnap-2001]. The set of moments in a tree is “horizontally” partitioned into instants. Every instant is also assumed to have a unique intersection with each history, and instants preserve the temporal relations between moments (see Fig. 4). It turns out that the equivalence relation determined by the partition into instants has the same properties as $\leftrightarrow_\Sigma$. So, considering instants is the same as considering a synchronism.
 
-*Figure 4:*
-
 ![A diagram showing instances. Link to extended description below](../assets/branching-time/Instants.svg)
 
-Figure 4: Instants. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Instants. [An extended description of figure 4 is in the supplement.]
 
 Another way for defining synchronisms is to consider metric trees (Burgess 1979: 577)[^burgess-1979]. That is, to assume that there exists a function $d$ from $T \times T$ into $\mathbb{R}$ such that $d(m,m')$ can be viewed as the *distance* between $m$ and $m'$. If a reference moment $m_0$ is given, the function $d$ can be seen as a clock: $d(m_0,m)$ is the (possibly negative) time of $m$ with respect to $m_0$. Of course, some further technicalities are needed in order to have a satisfactory definition of “the time of the moment $m$”. For instance, we have to define this notion for moments that are not comparable with $m_0$. But eventually we can reach a reasonable definition of synchronism.
 
@@ -140,11 +132,9 @@ $$[(w,t)] \prec_{\mathcal{K}} [(w',t')] \hbox{ iff } w \approx_{t'} w' \hbox{ an
 
 Trees generate Kamp frames in a natural way. Given a tree ${\mathcal{T}}$, we let $W_{\mathcal{T}}$ be the set of all histories in ${\mathcal{T}}$ and let $\approx_{\mathcal{T}}$ be the identity function (Fig. 5). For all histories $h, h'\in W_{\mathcal{T}}$ and all moments $m \in T$, we set $h \approx_{{\mathcal{T}}m} h'$ iff $m \in h \cap h'$. The proof that $\mathcal{K}_{\mathcal{T}}= ({\mathsf{K}}_{\mathcal{T}}, W_{\mathcal{T}}, \approx_{\mathcal{T}})$ is a Kamp frame is straightforward.
 
-*Figure 5:*
-
 ![Tree with corresponding Kamp frame. Link to extended description below](../assets/branching-time/Tree-Kamp.svg)
 
-Figure 5: A tree with the corresponding Kamp frame. [An extended description of figure 5 is in the supplement.]
+*Figure 5:* A tree with the corresponding Kamp frame. [An extended description of figure 5 is in the supplement.]
 
 Despite the close relationship between trees and Kamp frames, the correspondences $\mathcal{K} \to {\mathcal{T}}_{\mathcal{K}}$ and ${\mathcal{T}}\to \mathcal{K}_{\mathcal{T}}$ are not the inverse (modulo isomorphisms) of each other. In general, the structure $\mathcal{K}_{({\mathcal{T}}_{\mathcal{K}})}$ is not isomorphic to $\mathcal{K}$ because ${\mathcal{T}}_{\mathcal{K}}$ might have histories that do not correspond to any world in $\mathcal{K}$ (cf. Zanardo 2006b)[^zanardo-2006b]. The set of histories of the form $h_w$ in ${\mathcal{T}}_{\mathcal{K}}$ constitute a possibly proper bundle in this tree. It is true, instead, that ${\mathcal{T}}_{(\mathcal{K}_{\mathcal{T}})}$ is isomorphic to ${\mathcal{T}}$.
 
@@ -154,11 +144,9 @@ The **Ockhamist frames** have been introduced in Zanardo (1985) and further inve
 
 The set of pairs $(m,h)$ with $m \in h$ in a tree ${\mathcal{T}}$ can be given an Ockhamist frame structure by setting $(m,h) \lt (m', h')$ if $h=h'$ and $m \prec m'$, and $(m,h) \sim (m', h')$ if $m=m'$. The frame defined in this way will be denoted by $\mathcal{O}_{\mathcal{T}}$ (Fig. 6).
 
-*Figure 6:*
-
 ![Tree with corresponding Ockhamist frame. Link to extended description below](../assets/branching-time/Tree-Ock.svg)
 
-Figure 6: A tree with the corresponding Ockhamist frame. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* A tree with the corresponding Ockhamist frame. [An extended description of figure 6 is in the supplement.]
 
 Conversely, given an Ockhamist frame $\mathcal{O} =(W, \lt, \sim)$ we can define a tree ${\mathcal{T}}_{\mathcal{O}}$ in a natural way. The moments in this tree are equivalence classes $[w]_\sim$ and the tree relation $\prec$ is defined by: $[w]_\sim\prec [w']_\sim$ if $w'' \lt w'$ for some $w'' \in [w] _\sim$. Property (4) above guarantees that $\prec$ is (well defined and) a tree relation. Every $\lt$-connected component $C$ of $W$, that is, every maximal subset $C$ of $W$ such that, for all $w, w' \in C$, $w \leq w'$ or $w' \leq w$, determines a history $h_C = \{ [w]_\sim : w \in C\}$. Like in the case of Kamp frames, the set of all $h_C$ is a bundle ${\mathcal{B}}$ in ${\mathcal{T}}_{\mathcal{O}}$, so that, in general, $\mathcal{O}_{{\mathcal{T}}_{\mathcal{O}}}$ and $\mathcal{O}$ are not isomorphic structures (while ${\mathcal{T}}_{\mathcal{O}_{\mathcal{T}}}$ and ${\mathcal{T}}$ are).
 
@@ -170,11 +158,9 @@ The main goal of Branching Space-Times (BST) theory is to represent possibilitie
 
 A BST structure (*Our World*, in Belnap’s terminology) is then a pair $\mathcal{W} = (W, \lt)$ in which $W$ is a non-empty set (of point events) and $\lt$ is a strict partial order on $W$ ($\leqslant$, $\gt$, and $\geqslant$ are defined in the obvious way). If $e_1 \leqslant e_2$ or $e_2 \leqslant e_1$, we say that $e_1$ and $e_2$ are *comparable*. The axioms for BST do not include the linearity towards the past (while they imply density and continuity of the causal order relation). Thus, unlike in BT, three point events may constitute a *causal confluence* diagram: $e_1 \lt e_2 \gt e_3$ with $e_1 \not\leqslant e_3$ and $e_3 \not\leqslant e_1$. A consequence of this is that we can consider two different kinds of *up-forks* $e'_1 \gt e'_2 \lt e'_3$, according to whether $e'_1$ and $e'_3$ are followed by causal confluence or not.
 
-*Figure 7:*
-
 ![Two diagrams, one each for causal dispersion and branching dispersion. Link to extended description below](../assets/branching-time/BST_2.svg)
 
-Figure 7: Causal dispersion and branching dispersion. [An extended description of figure 7 is in the supplement.]
+*Figure 7:* Causal dispersion and branching dispersion. [An extended description of figure 7 is in the supplement.]
 
 The branching of possibilities represented via BT does not allow for backward branching, while relativistic space-time does. Then, in the diagrams of the first kind (that Belnap calls *causal dispersion*) the point events $e'_1 , e'_2$ and $e'_3$ must belong to the same space-time, while the forks of the second kind (*branching dispersion*) are given a strictly modal meaning.
 
@@ -364,8 +350,6 @@ From an ontological viewpoint, modal orientation is consistent with two views: *
 
 To summarize, there are two opposite stances concerning time, modality, and possible futures in the debate on branching time: oriented and neutral approaches. In general, oriented approaches can be further classified on the basis of their ontology. To illustrate these distinctions, consider the contrast between the two tree diagrams in Fig. 8.
 
-*Figure 8:*
-
 ![Legend for the next two diagrams. Link to extended description below](../assets/branching-time/Legenda.svg)
 
 Legend
@@ -378,15 +362,13 @@ Legend
 
 (b) right tree
 
-Figure 8: Two possible views (modal BT realism and “pruning”). [An extended description of figure 8 is in the supplement.]
+*Figure 8:* Two possible views (modal BT realism and “pruning”). [An extended description of figure 8 is in the supplement.]
 
 The diagram on the left represents a view consistent with temporal, modal and forward neutrality: all moments in the tree are metaphysically on a par, and what we can call present, or actual, entirely depends on our “local” experiential perspective. The diagram on the right represents a view consistent with modal orientation, temporal orientation, and forward neutrality, in which past actuality and presentness are absolute (not only perspectival), and all future branches exist and are on a par, but past branches go out of existence as time goes by. We shall discuss both views in a few lines.
 
 #### 4.1.1 Branching time realism and Branching Space-Times realism
 
 We shall speak of *branching time realism* (BT realism) to indicate modally neutral variants of the BT conception. BT realism is consistent with the idea that all futures departing from the present moment obtain (i.e., are absolutely actual) and each single thing, including ourselves, is constantly splitting into countless duplicates of itself. Conceptions of this sort are popularly associated with the Everettian or *many-worlds* interpretation of quantum mechanics (on Everettian quantum mechanics, see the entries on Everettian quantum mechanics and the many-worlds interpretation of quantum mechanics). We collectively refer to them as *strong* BT realisms. Strong BT realisms have never been rigorously developed or seriously defended by analytic philosophers. In the literature on BT, strong BT realism is generally discussed in connection with the B-theory, under different labels: *B-theoretic branching* (Barnes & Cameron 2011: 10)[^barnes-2011][^barnes-2011-2]; *‘block multiverse’* (Pooley 2013: 339)[^pooley-2013]; *realism about many futures* (Meyer 2016: 206)[^meyer-2016]; *naïve BT realism* (Wawer 2016: 8)[^wawer-2016]; *many worlds view* (Spolaore & Gallina 2020: 108)[^spolaore-2020]; *actual branching* (Ninan 2023: 478)[^ninan-2023]. However, strong BT realism can also be joined with temporal orientation (A-theory), resulting in a tensed variant of strong BT realism (this is, arguably, the position outlined in Abruzzese 2001)[^abruzzese-2001]. In strong tensed BT realism, each history is actual and is endowed with a privileged, “locally present” moment. If we think of all these “locally present” moments as lying on the same instant (see above, §2.1), we can illustrate this view as in Fig. 9.
-
-*Figure 9:*
 
 ![First moment tree diagram. Link to extended description below](../assets/branching-time/Tensed_branching_realism.svg)
 
@@ -396,7 +378,7 @@ We shall speak of *branching time realism* (BT realism) to indicate modally neut
 
 (b) next moment
 
-Figure 9: Strong tensed BT realism (at successive moments). [An extended description of figure 9 is in the supplement.]
+*Figure 9:* Strong tensed BT realism (at successive moments). [An extended description of figure 9 is in the supplement.]
 
 The only version of BT realism that has been clearly defined and defended so far in the literature is due to Belnap and his co-authors. We may call it *modal* BT realism (Fig. 8, left diagram). One of its key assumptions is the Aristotelian notion that “talk of possibilities only makes sense before a contrast between possibility and actuality” (Belnap, Müller, & Placek 2022: 3)[^belnap-2022]. By modal neutrality, this means that we can only speak of possibility and actuality in a *perspectival* sense, that is, from a perspective internal to the tree. More precisely, talk of (historical) possibility only makes sense when a *moment* is fixed, and talk of actuality, when both a moment *and* a history are fixed. What is possible is *temporally* local (it is relative to a moment) and what is actual is also *historically* local (it is relative to a moment/history pair). If we identify actuality with the realm of what *obtains* (as opposed to what *can possibly* obtain), we can also say that there is no absolute obtainment: facts and events obtain only relative to moment-history pairs. From a global or “external” perspective, it makes no sense to distinguish actuality and possibility, that is, the things that *do* obtain from those that *can* obtain. Again from a global perspective, we can also say that all moments in the tree are equally concrete, for all play similar causal roles and there is no intrinsic difference between those that are (perspectivally) actual and those that are merely possible.
 
@@ -424,8 +406,6 @@ Let us speak of *actual futurism* to indicate modally and forwardly oriented var
 
 Actual futurism is the most common B-theoretical position (see Fig. 10). B-theoretical actual futurism is usually combined with actualism: only the course of events corresponding to the actual history exists (Wawer 2014; Wawer & Malpass 2020)[^wawer-2014][^wawer-2020][^wawer-2020-2]. Actual futurists who subscribe to actualism regard BT frames as useful tools for representing the modal properties of actual individuals and events, but do not regard them as literal representations of reality. In their view, thinking of the actual history and merely possible histories as entities of the same kind is a little like taking Sherlock Holmes for a real person. Alternatively, one can subscribe to a possibilist version of actual futurism, modeled on Bricker (2006)’s position in the metaphysics of modality: all courses of events represented in the tree exist, but some of them, those corresponding to the actual history, are metaphysically privileged (Borghini & Torrengo 2013)[^borghini-2013]. Let us emphasize that all these actual futurists regard the actual history as unique or privileged only from a tenseless, “end of time” perspective, and they agree that, *as of the present time*, many futures are possible and are all on a par. B-theoretical actual futurism is by far the most debated variant of actual futurism. Its critics from both the A-theoretical and the BT realist camp often content that it does not capture a deeper, metaphysical sense in which the future is indeterminate or “open” (see, e.g., Barnes & Williams 2011; Barnes & Cameron 2011; Cameron 2015; and Belnap, Perloff, & Xu 2001: 6)[^barnes-2011][^barnes-2011-2][^belnap-2001][^cameron-2015].
 
-*Figure 10:*
-
 ![Actualism tree. Link to extended description below](../assets/branching-time/Actualist_actual_futurism.svg)
 
 (a) actualist
@@ -434,7 +414,7 @@ Actual futurism is the most common B-theoretical position (see Fig. 10). B-theor
 
 (b) possibilist
 
-Figure 10: B-theoretical actual futurism: actualist (left) and possibilist (right) variants. [An extended description of figure 10 is in the supplement.]
+*Figure 10:* B-theoretical actual futurism: actualist (left) and possibilist (right) variants. [An extended description of figure 10 is in the supplement.]
 
 Forward orientation can also be joined with temporal orientation, resulting in a *tensed* version of actual futurism. According to tensed actual futurism, one history (the actual one) is *presently* privileged over all the others, or it is the only one that exists. This view is internally consistent, but is in tension with indeterminism, and it has never been extensively defended in the literature (see De Florio & Frigerio 2022 for a discussion). Tensed actual futurism also admits of a “dynamic” variant, known as *mutable futurism*, in which the privileged future can *change* across time. Mutable futurism is clearly consistent with indeterminism, but it requires us to make sense of the puzzling idea of a changing future (for discussions, see Todd 2016b and Andreoletti & Spolaore 2021)[^andreoletti-2021][^todd-2016b][^todd-2021].
 
@@ -444,8 +424,6 @@ Let us speak of *asymmetry views* to indicate the variants of the BT conception 
 
 In *no-futurist* asymmetry views, possible futures are conceived as abstract or general entities (e.g., Briggs & Forbes 2012; Todd 2021; Rosenkranz 2012; Rumberg 2016b)[^briggs-2012][^rosenkranz-2012][^rumberg-2016b][^todd-2021]. This was arguably Prior’s (1967a) own position (see, e.g., Hasle & Øhrstrøm 2016: 3411)[^hasle-2016]. Like actual futurists, no-futurists tend not to regard BT frames as literal representations of reality. A growing-block variant of this view is represented in Fig. 11.
 
-*Figure 11:*
-
 ![First moment tree. Link to extended description below](../assets/branching-time/GB.svg)
 
 (a) first moment
@@ -454,13 +432,11 @@ In *no-futurist* asymmetry views, possible futures are conceived as abstract or 
 
 (b) next moment
 
-Figure 11: A growing-block asymmetry view (at successive moments). [An extended description of figure 11 is in the supplement.]
+*Figure 11:* A growing-block asymmetry view (at successive moments). [An extended description of figure 11 is in the supplement.]
 
 In *eternalist* asymmetry views, futures are concrete courses of events. The most debated eternalist asymmetry view is the so-called *pruning* conception of branching time (McCall 1994, see Fig. 12)[^mccall-1994]. In the pruning conception, the only moments representing existing events are the unique present moment and those that are $\prec$-connected with it. Intuitively, the idea is that the whole tree changes over time: as presentness “moves” towards the future, all the moments that do not lie on its path go out of existence:
 
 > Of all the possible futures […] one and only one becomes “actual”, i.e. becomes part of the past. The other branches vanish. The universe model is a tree that “grows” or ages by losing branches. (McCall 1994: 3)[^mccall-1994]
-
-*Figure 12:*
 
 ![first moment tree. Link to extended description below](../assets/branching-time/Pruning.svg)
 
@@ -470,7 +446,7 @@ In *eternalist* asymmetry views, futures are concrete courses of events. The mos
 
 (a) next moment
 
-Figure 12: Pruning (at successive moments). [An extended description of figure 12 is in the supplement.]
+*Figure 12:* Pruning (at successive moments). [An extended description of figure 12 is in the supplement.]
 
 In *possibilist* asymmetry views, all possible moments exist, all past moments are actual, but only the unique present moment and its past are absolutely actual. Intuitively, the idea is that of a ‘moving dot’ of presentness that travels along the tree towards the future, leaving a trace of actuality (for discussions, see Barnes & Cameron 2011; MacFarlane 2014: 212)[^barnes-2011][^barnes-2011-2][^macfarlane-2014]; Wawer 2016: 170–172).
 

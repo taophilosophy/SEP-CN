@@ -86,9 +86,9 @@
 
 尽管如此，对程序主义之意识形态影响的忧虑，并不否定法治本身应当发挥的宝贵作用——即便在最雄心勃勃的平等主义共同体中亦然。对法律持一种轻慢态度的潜在可能，或许再加上马克思主义影响力的普遍式微——尽管当代哲学中出现了令人振奋的兴趣迹象。凡此可以解释：晚近一些文献为何回避“意识形态”一词，转而选用“话语”或“叙事”之类的说法。这些术语同样暗示法律应在政治语境中理解，但对该语境的性质或其影响，便笼统得多。这似乎是一种损失。理解得当的话，意识形态概念为合法性提供了一条精细而有启发性的进路，能精确刻画法律与政治的关系，而无须堕入虚无主义或还原论。毕竟，对法律之意识形态角色的恰当理解，与其他关于如何定义或理解法律的概念是相容的——倘若我们认识到，意识形态式的理解模式根本无法尽数消除，就尤其如此。
 
-法律有一个道德渊源，或有一个体系制度中的渊源——这样一种法律观，可以独立于对法律之意识形态功能的现实主义评估，也独立于对法律制定之意识形态过程的认识。事实上，西方政府发动“反恐战争”的激进批评者，一面指出人权与法治等自由主义法律理想的价值，一面注意到这些理想被赋予的意识形态目的（见 Bartholomew 2007, Steger, 2007）[^bartholomew-2007][^steger-2007]。只要实证主义者与自然法学家不坚持其法律概念已穷尽法律的实在，他们便可容许意识形态的影响——哪怕是其更激进的解释。法律可以既是意识形态，又是其他道德的或制度的现象；的确，法律若非在这个意义上多维并存，恐怕难以作为意识形态而奏效。
+法律有一个道德渊源，或有一个体系制度中的渊源——这样一种法律观，可以独立于对法律之意识形态功能的现实主义评估，也独立于对法律制定之意识形态过程的认识。事实上，西方政府发动“反恐战争”的激进批评者，一面指出人权与法治等自由主义法律理想的价值，一面注意到这些理想被赋予的意识形态目的（见 Bartholomew 2007; Steger 2007）[^bartholomew-2007][^steger-2007]。只要实证主义者与自然法学家不坚持其法律概念已穷尽法律的实在，他们便可容许意识形态的影响——哪怕是其更激进的解释。法律可以既是意识形态，又是其他道德的或制度的现象；的确，法律若非在这个意义上多维并存，恐怕难以作为意识形态而奏效。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -113,9 +113,9 @@
 [^mannheim-1936]: Mannheim, K., 1936, *Ideology and Utopia*, New York: Harcourt, Brace and World.
 [^marx-1976]: Marx, K. and Engels, F., [TGI], *The German Ideology* (Collected Works, Volume 6), London: Lawrence and Wishart, 1976.
 [^mills-1997]: Mills, Charles, 1997, *The Racial Contract* Ithaca: Cornell University Press.
-[^mills-2018]: –––, 2018, ‘Rethinking Propaganda and Ideology’, Philosophical and Phenomenological Research, 96, 2, March, 490–496
+[^mills-2018]: –––, 2018, ‘Rethinking Propaganda and Ideology’, *Philosophical and Phenomenological Research*, 96(2): 490–496.
 [^okin-1989]: Okin, Susan M., 1989, *Justice, Gender and the Family*, New York: Basic Books.
-[^okin-1993]: –––, 1993, “Review of John Rawls” *Political Liberalism*, *American Political Science Review*, 87(4): 1010–1011.
+[^okin-1993]: –––, 1993, “Review of John Rawls’s *Political Liberalism*”, *American Political Science Review*, 87(4): 1010–1011.
 [^rawls-2001]: Rawls, John, 2001, *Justice as Fairness: A Restatement*, Cambridge, Mass.: Harvard.
 [^rawls-2007]: –––, 2007, *Lectures on the History of Political Philosophy*, Samuel Freeman (ed.), Cambridge, Mass.: Harvard University Press.
 [^raz-1979]: Raz, Joseph, 1979, ‘The Rule of Law and its Virtue’, *The Authority of Law*, Oxford: Clarendon.

@@ -25,14 +25,12 @@ There are also goods that are rivalrous and non-excludable and goods that are no
 
 Table 1 provides an overview of the different types of goods that have been distinguished so far.
 
-*Table 1:*
-
 | *Characteristic* | **Rivalrous** | **Non-rivalrous** |
 | --- | --- | --- |
 | *Excludable* | Private goods (homesteads, bathroom cleaner) | Club goods (Sports clubs, movie theatres) |
 | *Non-excludable* | Common resource goods (fish stocks) | Public goods: local (fire protection), national (national defence), global (climate mitigation measures), partial (parades) |
 
-Table 1: Different kinds of economic goods
+*Table 1:* Different kinds of economic goods
 
 ### 1.2 Porous Boundaries
 

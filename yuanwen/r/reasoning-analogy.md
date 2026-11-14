@@ -95,8 +95,6 @@ Formally, an *analogy* between $S$ and $T$ is a one-to-one mapping between objec
 
 We can improve on this preliminary characterization of the argument from analogy by introducing the *tabular representation* found in Hesse (1966). We place corresponding objects, properties, relations and propositions side-by-side in a table of two columns, one for each domain. For instance, Reid’s argument (*Example 2*) can be represented as follows (using $\Rightarrow$ for the analogical inference):
 
-*Figure 1.*
-
 |   | Earth $(S)$ |   | Mars $(T)$ |
 | --- | --- | --- | --- |
 | **$\leftarrow$vertical$ \rightarrow$** | Known similarities: |   |   |
@@ -107,7 +105,7 @@ We can improve on this preliminary characterization of the argument from analogy
 | Inferred similarity: |   |   |   |
 |   | supports life | $\Rightarrow$ | *may* support life |
 
-Figure 1.
+*Figure 1.*
 
 Hesse introduced useful terminology based on this tabular representation. The *horizontal relations* in an analogy are the relations of similarity (and difference) in the mapping between domains, while the *vertical relations* are those between the objects, relations and properties within each domain. The correspondence (similarity) between earth’s having a moon and Mars’ having moons is a horizontal relation; the causal relation between having a moon and supporting life is a vertical relation within the source domain (with the possibility of a distinct such relation existing in the target as well).
 
@@ -251,11 +249,9 @@ The *argument from example* (*paradeigma*) is described in the *Rhetoric* and th
 
 Aristotle notes two differences between this argument form and induction (69a15ff.): it “does not draw its proof from all the particular cases” (i.e., it is not a “complete” induction), and it requires an additional (deductively valid) syllogism as the final step. The argument from example thus amounts to single-case induction followed by deductive inference. It has the following structure (using $\supset$ for the conditional):
 
-*Figure 2.*
-
 ![[a tree diagram where S is source domain and T is target domain. First node is P(S)&Q(S) in the lower left corner. It is connected by a dashed arrow to (x)(P(x) superset Q(x)) in the top middle which in turn connects by a solid arrow to P(T) and on the next line P(T) superset Q(T) in the lower right. It in turn is connected by a solid arrow to Q(T) below it.]](../assets/reasoning-analogy/example.png)
 
-Figure 2.
+*Figure 2.*
 
 In the terminology of §2.2, $P$ is the positive analogy and $Q$ is the hypothetical analogy. In Aristotle’s example, $S$ (the source) is war between Phocians and Thebans, $T$ (the target) is war between Athenians and Thebans, $P$ is war between neighbours, and $Q$ is evil. The first inference (dashed arrow) is inductive; the second and third (solid arrows) are deductively valid.
 

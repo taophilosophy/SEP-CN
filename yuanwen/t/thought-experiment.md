@@ -23,11 +23,9 @@ Theorizing about thought experiments usually turns on the details or the pattern
 
 This example nicely illustrates many of the most common features of what it means to engage in the conduct of thought experiments: we visualize some situation that we have set up in the imagination; we let it run or we carry out an operation; we see what happens; finally, we draw a conclusion. The example also illustrates the fallibility of thought experiments. Since the time of Lucretius, we’ve learned how to conceptualize space so that it could be both finite and unbounded. Imagine a circle, which is a one-dimensional space. As we move around, there is no edge, but it is nevertheless finite. The universe might be a three-dimensional version of this topology. It is, therefore, true that we must try to be mindful of unexpected limitations due to “physical scale effects” (Klee 2008)[^klee-2008], or other such things, when imagining counterfactual scenarios.
 
-*Figure 1.*
-
 ![A person is about to throw a spear at a wall of stones floating in the clouds. Above the clouds are two winged figures holding a banner that reads 'Welcome to the edge of the Universe'.](../assets/thought-experiment/figure1.jpg)
 
-Figure 1. “Welcome to the edge of the Universe”
+*Figure 1.* “Welcome to the edge of the Universe”
 
 Often a real experiment that is meant to be the analogue of a thought experiment is impossible to be carried out as such due to physical, technological, ethical, or financial limitations (see, e.g., Sorensen 1992, pp. 200–202)[^sorensen-1992]; but physical unrealizability needn’t be a defining condition of thought experiments. Rather, the main point is that we seem able to get a grip on nature just by thinking, and therein lies the great interest for philosophy. That was the position of Ernst Mach (see Mach, 1897 and 1905; for a most instructive assessment of his views see Kühne 2006, pp. 165–202, and Sorensen 1992, pp. 51–75)[^mach-1897][^mach-1905][^sorensen-1992]. Thought experiments are on a spectrum of different kinds of experiments. They allow us to tap into a great store of “instinctive knowledge” picked up from past experience. We will get back to Mach’s theory further down. His account of thought experiments remains one of the major theories of how thought experiments work. One of Mach’s favourite examples is due to Simon Stevin (see Mach, 1883, pp. 48–58)[^mach-1883]. When a chain is draped over a double frictionless plane, as in Fig. 2a, how will it move? Add some links as in Fig. 2b. Now it is obvious. The initial setup must have been in static equilibrium. Otherwise, we would have a perpetual motion machine; and according to our experience-based “instinctive knowledge,” says Mach, this is impossible. We do not have to perform the experiment in the real world, which we could not do, anyway, since it would require a perfectly frictionless plane. Nevertheless the outcome seems compelling.
 
@@ -61,27 +59,21 @@ Among *destructive thought experiments*, the following subtypes can be identifie
 
 A fourth sub-type of negative thought experiments are “counter thought experiments” (see Brown 2007)[^brown-2007]. Norton very usefully introduces a related idea: “thought-experiment/anti-thought-experiment pairs” (see Norton 2004, pp. 45–49). Above, we have already encountered this subtype in our discussion of Lucretius’ spear thought experiment, and with Dennett’s reply to Jackson’s much discussed Mary the colour scientist thought experiment. Here we would like to add one more example, namely Mach’s counter thought experiment against absolute space. In his *Principia Mathematica*, Newton offers a pair of thought experiments as evidence for absolute space. One is the bucket thought experiment with water climbing the wall (see Fig. 3), the other is about a pair of spheres joined by a cord that maintained its tension in otherwise empty space (see Fig. 4). The explanation for these phenomena, argues Newton, is absolute space: the bucket and the joined spheres are rotating with respect to space itself. In response, Mach modifies the scenario and argues, contra Newton, that the two spheres would move toward one another thanks to the tension in the cord, and if we rotated a very thick, massive ring around a stationary bucket, we would see the water climb the bucket wall. (For further discussion of Mach’s counter thought experiment to Newton’s see Kühne 2006, pp. 191–202). In short, the point of Mach’s counter thought experiment is to describe the phenomena of the thought experiments’ scenarios differently, that is, to declare that different things would happen. Mach’s counter thought experiment undermines our confidence in Newton’s thought experiments. Absolute space might be a plausible explanation of the phenomena in Newton’s thought experiments, but now, in light of Mach’s counter thought experiment, we’re not so sure of the phenomena itself and thus of the idea of absolute space.
 
-*Figure 3.*
-
 ![Three successive figures: (I) a pail half-full of water is suspended by a rope tied to its handle; (II) arrows show the pail half-full of water is in motion counterclockwise and the water in the pail is in motion clockwise; (III) the surface of the water in the rotating pail is shown higher at the edge of the pail and lower at the center.](../assets/thought-experiment/figure3.jpg)
 
-Figure 3. Stages in the bucket experiment
-
-*Figure 4.*
+*Figure 3.* Stages in the bucket experiment
 
 ![Two grey spheres joined by a black line. The line is labeled 'tension in cord'.](../assets/thought-experiment/figure4.jpg)
 
-Figure 4. Two spheres held by a cord in otherwise empty space
+*Figure 4.* Two spheres held by a cord in otherwise empty space
 
 To be effective, counter thought experiments needn’t be very plausible at all. In a court of law a jury would convict provided guilt is established “beyond a reasonable doubt.” A common defence strategy is to provide an alternative account of the evidence that has just enough plausibility to put the prosecution’s case into some measure of doubt. That is sufficient to undermine it. A counter thought experiment need only do that much to be effective, and in this sense it operates like a “necessity refuter” in Sorensen’s sense.
 
 In addition to destructive ones, there is a second type, the *constructive thought experiments*. Unsurprisingly, there are many ways they could provide positive support for a theory. One of these is to provide a kind of illustration that makes a theory’s claims clear and evident. In such cases thought experiments serve as a kind of heuristic aid. A result may already be well established, but the thought experiment can lead to a very satisfying sense of understanding. In his *Principia Mathematica*, Newton provides a wonderful example showing how the moon is kept in its orbit in just the same way as an object falls to the earth (see Ducheyne 2006, pp. 435–437)[^ducheyne-2006]. He illustrates this by means of a cannon shooting a cannon ball further and further (see Fig. 5). In the limit, the earth curves away as fast as the ball falls, with the eventual result being that the cannon ball will return to the spot where it was fired, and, if not impeded, will go around again and again. This is what the moon is doing. We could arrive at the same conclusion through calculation. But Newton’s thought experiment provides that elusive sense of understanding. It’s a wonderful example of the “aha effect” that is typical of many powerful thought experiments.
 
-*Figure 5.*
-
 ![A globe with a hill at the top and a cannon. Lines show a sequence of cannon-ball tracks; each track is longer until a track goes all the way around the globe. There are two larger concentric circles around the globe and the cannon-ball tracks.](../assets/thought-experiment/figure5.jpg)
 
-Figure 5. “The shot heard around the world”
+*Figure 5.* “The shot heard around the world”
 
 Thomson’s violinist showed that abortion could be morally permissible even when the fetus has a right to life. Similarly, Einstein’s elevator showed that light will bend in a gravitational field, because according to the principle of equivalence, there is no difference between such a frame of reference and one that is accelerating in free space; the laws of physics are the same in all. Suppose then, an observer is inside an elevator sealed off from the outside so that the observer cannot tell whether he is in a gravitational field or accelerating. If it were accelerating, and if a light beam were to enter one side, then, due to the elevator’s motion, the beam would appear to drop or curve down as it crossed the elevator. Consequently, it would have to do the same thing if the elevator was in a gravitational field. Therefore, gravity ‘bends’ light.
 
@@ -123,11 +115,9 @@ The recent discussion of intuitions in epistemology has barely made an impact on
 
 What we term the “intuition–based account” of thought experiments comes in a naturalistic version (see Brendel 2004; Gendler 2007)[^brendel-2004][^gendler-2007], and in a Platonic version (see Brown 1991a [2011]). We begin with a discussion of the latter. Brown holds that in a few special cases we do go well beyond the old empirical data to acquire a priori knowledge of nature (see also Koyré 1968)[^koyré-1968]. Galileo showed that all bodies fall at the same speed with a brilliant thought experiment that started by destroying the then reigning Aristotelian account. The latter holds that heavy bodies fall faster than light ones (*H* > *L*). But consider Figure 6, in which a heavy cannon ball (*H*) and light musket ball (*L*) are attached together to form a compound object (*H*+*L*); the latter must fall faster than the cannon ball alone. Yet the compound object must also fall slower, since the light part will act as a drag on the heavy part. Now we have a contradiction: *H*+*L* > *H* and *H* > *H*+*L*. That’s the end of Aristotle’s theory. But there is a bonus, since the right account is now obvious: they all fall at the same speed (*H* = *L* = *H*+*L*).
 
-*Figure 6.*
-
 ![A human stands on one leg atop the leaning Tower of Pisa. The human's outstretched hand appears to have dropped a small black ball, a large white ball, and a small ball attached to a large ball with a cord. The human has a thought bubble which reads, 'I don't even have to look'.](../assets/thought-experiment/figure6.jpg)
 
-Figure 6. Galileo: “I don’t even have to look”
+*Figure 6.* Galileo: “I don’t even have to look”
 
 Brown claims this is a priori (though still fallible) knowledge of nature, since there are no new data involved, nor is the conclusion derived from old data. Moreover, is it some sort of logical truth (for a technical challenge of this claim see Urbaniak 2012)[^urbaniak-2012]. This account of thought experiments can be further developed by linking the a priori epistemology to accounts of laws of nature that hold that laws are relations among objectively existing abstract entities. It is thus a form of Platonism, not unlike Platonic accounts of mathematics such as that urged by Kurt Gödel.
 
@@ -173,11 +163,9 @@ Finally, sixth, mention could be made of visual reasoning in mathematics, which 
 >
 > Proof: See Figure 7.
 
-*Figure 7.*
-
 ![A stack of white squares forms the bottom-left half of a five-by-five grid cut diagonally. The five white squares along the diagonal are cut in half and the remainder of each cut square shown in black.](../assets/thought-experiment/figure7.jpg)
 
-Figure 7. Picture proof.
+*Figure 7.* Picture proof.
 
 The proof works like this: Start at the top and work down, letting the little squares represent numbers, *1 + 2 + 3 + 4 + 5*. The total number of squares in the picture is equal to this sum. Notice also that the number of squares is equal to a large square with sides of length 5 that is cut in half along the diagonal, i.e., *5²/2*, plus the shaded bits that were cut off by the diagonal cut, i.e., *5/2*. It is plausible to claim that the diagram is a perfectly good proof of the theorem. One can “see” complete generality in the picture. Even though it only illustrates the theorem for *n = 5*, somehow we can see that it works for every number, all infinitely many of them. The diagram does not implicitly suggest a “rigorous” verbal or symbolic proof. The regular proof of this theorem is by mathematical induction, but the diagram does not correspond to an inductive proof at all, since the key element in an inductive proof is the passage from *n* to *n + 1*. The simple moral we could draw from the example is just this: We can in special cases correctly infer theorems from pictures, that is, from visualizable situations. There is an intuition and from this intuition we can grasp the truth of the theorem (see Brown 1999 [2008])[^brown-1999].
 

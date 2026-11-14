@@ -185,7 +185,7 @@ For each truth there is exactly one thing that makes it true and for each truthm
 
 There’s clear blue water between these claims because if we combine maximalism with (*Entailment*)—that whatever makes a truth *p* true makes what *p* entails true too. So *p* and all of its consequences are not only all made true (as maximalism demands) but they also share a truthmaker (as *Correspondence* denies). This takes us halfway to appreciating that so far from being an inevitably profligate doctrine—as its name suggests—maximalism is compatible with denying that some logically complex claims have their own bespoke truthmakers. (The inspiration for thinking this way comes from the logical atomism of Russell (1918–19) that admitted some logically complex facts but not others—it is to be contrasted with Wittgenstein’s version of the doctrine (1921) which admitted only atomic facts.)
 
-Suppose, for the sake of expounding the view, that some truthbearers are atomic. Also suppose that *P* and *Q* are atomic and *t* makes *P* true. Then, by *Entailment*, *t* makes *P* ∨ *Q* true too. Similarly, if *s* makes *P* true and *s** makes *Q* true then, by *Entailment*, *s* and *s** together make *P* & *Q* true. Since the task of making *P* ∨ *Q* and *P* & *Q* true has already been discharged by the truthmakers for the atomic truth bearers, there is no need to posit additional truthmakers for making these disjunctive and conjunctive truths true. Similar reasoning suggests that there is no need to posit bespoke truthmakers for existential generalisations or truths of identity either (Mulligan, Simons, & Smith 1984: 313; Simons 1992: 161–3; Armstrong 2004: 54–5)[^armstrong-2004][^mulligan-1984][^simons-1992]. But maximalism is not thereby compromised: even though disjunctive and conjunctive truths lack specific truthmakers of their own, they’re still made true by the truthmakers of the basic or atomic claims from which they’re compounded by the logical operations of disjunction and conjunction.
+Suppose, for the sake of expounding the view, that some truthbearers are atomic. Also suppose that *P* and *Q* are atomic and *t* makes *P* true. Then, by *Entailment*, *t* makes *P* ∨ *Q* true too. Similarly, if *s* makes *P* true and *s*\* makes *Q* true then, by *Entailment*, *s* and *s\** together make *P* & *Q* true. Since the task of making *P* ∨ *Q* and *P* & *Q* true has already been discharged by the truthmakers for the atomic truth bearers, there is no need to posit additional truthmakers for making these disjunctive and conjunctive truths true. Similar reasoning suggests that there is no need to posit bespoke truthmakers for existential generalisations or truths of identity either (Mulligan, Simons, & Smith 1984: 313; Simons 1992: 161–3; Armstrong 2004: 54–5)[^armstrong-2004][^mulligan-1984][^simons-1992]. But maximalism is not thereby compromised: even though disjunctive and conjunctive truths lack specific truthmakers of their own, they’re still made true by the truthmakers of the basic or atomic claims from which they’re compounded by the logical operations of disjunction and conjunction.
 
 But positing truthmakers for atomic truths doesn’t obviate the need—supposing maximalism—to posit additional truthmakers for negative and universal truths. This becomes apparent in the case of negative truths when we compare the truthtables for conjunction and disjunction with the truthtable for negation. The former tell us that the truth of a disjunctive formula is determined by the truth of one or other of its disjuncts, whilst the truth of a conjunctive formula is determined by the truth of both its conjuncts. But the truthtable for negation doesn’t tell us how the truth of ~*P* is determined by the truth of some other atomic formula *Q* from which ~*P* follows; it only tells us that ~*P* is true iff *P* is *false*. The strategy for avoiding bespoke truthmakers for logically complex truths can’t get a grip in this case: there’s no *Q* such that supplying a truthmaker for it obviates the necessity of positing an additional truthmaker for ~*P* (Russell 1918–19: 209–11; Hochberg 1969: 325–7)[^hochberg-1969][^russell-1918].
 
@@ -325,11 +325,11 @@ He is a child of a sibling of one of your parents, which makes him your first co
 
 and,
 
-(*R**)
+(*R\**)
 
 He is your first cousin because he is a child of a sibling of one of your parents.
 
-Künne tells us that the “because” in (*R**) is the “because” of “conceptual explanation”. Since (*R*) and (*R**) are equivalent, he concludes that the “makes” construction in (*R*) is just a cumbersome way of expressing the “because” of conceptual explanation in (*R*)*. Künne then invites us take the use of “makes” in (*R*) as a model for understanding the truthmaking construction,
+Künne tells us that the “because” in (*R\**) is the “because” of “conceptual explanation”. Since (*R*) and (*R\**) are equivalent, he concludes that the “makes” construction in (*R*) is just a cumbersome way of expressing the “because” of conceptual explanation in (*R\*)*. Künne then invites us take the use of “makes” in (*R*) as a model for understanding the truthmaking construction,
 
 (*S*)
 
@@ -337,7 +337,7 @@ The fact that snow is white makes the statement that snow is white true.
 
 This enables us to see that (*S*) does “not affirm a relation of any kind between a truth vehicle and something in the world” (Künne 2003: 155)[^künne-2003]. Why? Because it is equivalent to,
 
-(*S**)
+(*S\**)
 
 The statement that snow is white is true because snow is white.
 

@@ -59,15 +59,13 @@ Furthermore, there are conceptual reasons why both Einstein and many contemporar
 
 Henceforth, we will adopt the accepted convention, though it is admittedly not universally followed especially in older sources, of using the following symbols with their stated meanings (see Table 1):
 
-*Table 1.*
-
 | *Symbol* | *Meaning* |
 | --- | --- |
 | $E$ | The total energy of a physical system, unless otherwise indicated |
 | $E_o$ | The rest energy of a physical system or an amount of energy as measured in the rest frame of an object (typically energy that is emitted or absorbed by an object) |
 | $m$ | The mass (i.e., rest-mass) of a physical system |
 
-Table 1. Notation used in this entry
+*Table 1.* Notation used in this entry
 
 We will first focus on the mechanics of idealized point particles in special relativity. Regardless of the macroscopic objects they represent, we shall treat such particles, and by extension the corresponding physical objects, as un-analyzable wholes. We will then separately discuss “composite systems” or systems composed of such particles. Physicists use composite systems to approximate physical objects when they are interested in examining the “inner workings” of such objects, such as when they treat a gas as a collection of idealized particles.
 
@@ -223,14 +221,12 @@ Interpretations of mass-energy equivalence can be organized according to how the
 
 The only combination of answers to questions (1) and (2) that is inconsistent is to say that mass and energy are the same property of physical systems but that the conversion of mass into energy (or vice versa) is a genuine physical process. All the other three combinations of answers to questions (1) and (2) are viable and have been held, at one time or another, by physicists or philosophers as indicated by the examples given in Table 2.
 
-*Table 2.*
-
 |   | *Conversion* | *No Conversion* |
 | --- | --- | --- |
 | *Same Property* | X | Torretti (1996), Eddington (1929) |
 | *Different Properties* | Rindler (1977) (conversion is *possible*) | Bondi & Spurgin (1987) |
 
-Table 2. Interpretations of mass-energy equivalence
+*Table 2.* Interpretations of mass-energy equivalence
 
 In this section, we will describe the merits and demerits of each of the interpretations in Table 2. Beyond these interpretations, we will also discuss two other types of interpretations of mass-energy equivalence that do not fit neatly in Table 2. First, we will discuss Lange’s (2001, 2002) interpretation, which holds that only mass is a *real* property of physical systems and that *we* convert mass into energy when we shift the level at which we analyze physical systems. Second, we will discuss two interpretations (one by Einstein and Infeld, 1938 and the other by Zahar, 1989)[^einstein-1989][^einstein-1938][^zahar-1989], which we will call *ontological* interpretations, that attempt to answer question (3) above affirmatively. However, we begin this section by addressing what has formerly been a fairly common misconception concerning mass-energy equivalence.
 

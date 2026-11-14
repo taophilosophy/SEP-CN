@@ -154,33 +154,33 @@ This case is typical. Moore had an unparalleled ability for identifying philosop
 
 analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | consequentialism | Kant, Immanuel | metaethics | Moore, George Edward: moral philosophy | moral non-naturalism | naturalism: moral | perception: epistemological problems of | perception: the problem of | propositions | reasons for action: justification, motivation, explanation | Reid, Thomas | Russell, Bertrand | sense data | skepticism | supervenience | truth: identity theory of | value: intrinsic vs. extrinsic | Wittgenstein, Ludwig
 
-[^nature-1899]: ‘The Nature of Judgment’ *Mind* 8 (1899) 176-93. Reprinted in **G. E. Moore: Selected Writings*1-19.
+[^nature-1899]: ‘The Nature of Judgment’ *Mind* 8 (1899) 176-93. Reprinted in \**G. E. Moore: Selected Writings*1-19.
 
-[^truth’-1901]: ‘Truth’ in J. Baldwin (ed.) *Dictionary of Philosophy and Psychology* Macmillan, London: 1901-2. Reprinted in **G. E. Moore: Selected Writings* 20-2.
+[^truth’-1901]: ‘Truth’ in J. Baldwin (ed.) *Dictionary of Philosophy and Psychology* Macmillan, London: 1901-2. Reprinted in \**G. E. Moore: Selected Writings* 20-2.
 
-[^refutation-1903]: ‘The Refutation of Idealism’ *Mind* 12 (1903) 433-53. Reprinted in *Philosophical Studies* and in **G. E. Moore: Selected Writings*23-44.
+[^refutation-1903]: ‘The Refutation of Idealism’ *Mind* 12 (1903) 433-53. Reprinted in *Philosophical Studies* and in \**G. E. Moore: Selected Writings*23-44.
 
 [^principia-1903]: *Principia Ethica* Cambridge University Press, Cambridge: 1903. *Revised edition with ‘Preface to the second edition’ and other papers, ed. T. Baldwin, Cambridge University Press, Cambridge: 1993.
 
 [^ethics-1912]: *Ethics* Williams & Norgate, London: 1912.
 
-[^external-1919]: ‘External and Internal Relations’ *Proceedings of the Aristotelian Society*20 (1919-20) 40-62. Reprinted in *Philosophical Studies* and in **G. E. Moore: Selected Writings* 79-105.
+[^external-1919]: ‘External and Internal Relations’ *Proceedings of the Aristotelian Society*20 (1919-20) 40-62. Reprinted in *Philosophical Studies* and in \**G. E. Moore: Selected Writings* 79-105.
 
 [^conception-nd]: ‘The Conception of Intrinsic Value’ in *Philosophical Studies*. Reprinted in *Revised edition of *Principia Ethica*, 280-98.
 
 [^philosophical-1922]: *Philosophical Studies* K. Paul, Trench, Trubner & Co, London: 1922.
 
-[^defence-1925]: ‘A Defence of Common Sense’ in J. H. Muirhead (ed.) *Contemporary British Philosophy* (2nd series), Allen and Unwin, London: 1925, 193-223. Reprinted in *Philosophical Papers* and in **G. E. Moore: Selected Writings*106-33.
+[^defence-1925]: ‘A Defence of Common Sense’ in J. H. Muirhead (ed.) *Contemporary British Philosophy* (2nd series), Allen and Unwin, London: 1925, 193-223. Reprinted in *Philosophical Papers* and in \**G. E. Moore: Selected Writings*106-33.
 
-[^is-1936]: ‘Is Existence a Predicate?’ *Aristotelian Society Supplementary volume* 15 (1936) 154-88. Reprinted in *Philosophical Papers* and in **G. E. Moore: Selected Writings* 134-46.
+[^is-1936]: ‘Is Existence a Predicate?’ *Aristotelian Society Supplementary volume* 15 (1936) 154-88. Reprinted in *Philosophical Papers* and in \**G. E. Moore: Selected Writings* 134-46.
 
-[^proof-1939]: ‘Proof of an External World’ *Proceedings of the British Academy* 25 (1939) 273-300. Reprinted in *Philosophical Papers* and in **G. E. Moore: Selected Writings* 147-70.
+[^proof-1939]: ‘Proof of an External World’ *Proceedings of the British Academy* 25 (1939) 273-300. Reprinted in *Philosophical Papers* and in \**G. E. Moore: Selected Writings* 147-70.
 
 [^reply-1942]: ‘A Reply to My Critics’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore* Northwestern University Press, Evanston ILL: 1942, 535-677.
 
 [^some-1953]: *Some Main Problems of Philosophy* George, Allen and Unwin, London: 1953.
 
-[^certainty’-nd]: ‘Certainty’ in *Philosophical Papers* 226-251. Reprinted in **G. E. Moore: Selected Writings* 171-96.
+[^certainty’-nd]: ‘Certainty’ in *Philosophical Papers* 226-251. Reprinted in \**G. E. Moore: Selected Writings* 171-96.
 
 [^philosophical-1959]: *Philosophical Papers* George, Allen and Unwin, London: 1959.
 

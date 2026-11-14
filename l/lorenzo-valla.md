@@ -20,7 +20,7 @@
 
 在把范畴还原为实体、品质与行动这三要素时，瓦拉心里想的似乎不是接受诸如关系与数量之类在个别事物之外独立存在的“实在论”哲学家。毋宁说，其目的是表明：传统上置于其他范畴中的许多词项实际上指向品质或行动。语言用法（*loquendi consuetudo*）教给我们例如品质是统摄性的范畴。因此对“何种类型”这一问题，我们常给出含数量表达的回答。举例来说：我该买什么样的马？回答可能是：昂首、高大、胸宽，等等。瓦拉在还原范畴时，常对某组与特定范畴相关联的词作语法考察：讨论时间，便研究“日”“年”与许多其他词；讨论数量词，则处理线、点、圆等数学术语。当然瓦拉不否认我们可以谈数量、时间或位置。但丰富的拉丁语词汇归根结底意谓事物之品质或行动；具体事物之外，没有任何东西存在。（实体对瓦拉来说是一个含混的范畴，他说他举不出它的例子，正如洛克后来主张“实体是某种我不知道是什么的东西”。）
 
-人们很容易把这种精简的本体论与奥卡姆的威廉（约 1287–1347）的本体论联系起来。然而这两位思想家的兴趣、进路与论证差异相当大。与瓦拉不同，奥卡姆并不想抛弃范畴体系。奥卡姆说：只要人们意识到，范畴并非描述世界中的事物，而是把我们借以意谓实在实体或实在固有品质的种种词项按不同方式归类，范畴就可以维持下去；关系词项或数量词项各有何特定特征，也可据此探究。因此，奥卡姆拒斥范畴的实在论解释，同时希望 维护 范畴作为不同词项群体。瓦拉则把范畴看作概括事物的实在面向：因此只有实体、品质与行动；其还原方案在于表明我们有丰富而庞大的拉丁语词汇可用于指称这些东西。他关于词与词类的问题与普里西安（Priscian，活跃于 500–530）及其他语法学家相仿。（普里西安例如曾主张名词意谓实体加品质，代词意谓无品质的实体。）
+人们很容易把这种精简的本体论与奥卡姆的威廉（约 1287–1347）的本体论联系起来。然而这两位思想家的兴趣、进路与论证差异相当大。与瓦拉不同，奥卡姆并不想抛弃范畴体系。奥卡姆说：只要人们意识到，范畴并非描述世界中的事物，而是把我们借以意谓实在实体或实在固有品质的种种词项按不同方式归类，范畴就可以维持下去；关系词项或数量词项各有何特定特征，也可据此探究。因此，奥卡姆拒斥范畴的实在论解释，同时希望**维护**范畴作为不同词项群体。瓦拉则把范畴看作概括事物的实在面向：因此只有实体、品质与行动；其还原方案在于表明我们有丰富而庞大的拉丁语词汇可用于指称这些东西。他关于词与词类的问题与普里西安（Priscian，活跃于 500–530）及其他语法学家相仿。（普里西安例如曾主张名词意谓实体加品质，代词意谓无品质的实体。）
 
 瓦拉还原经院术语、区分与概念的另一个好例子，是他对超越词项的批评（*Repastinatio* 1:11–21; *DD* 1:18–36）。照瓦拉之说，传统六个词项（“存在”“事物”“某物”“一”“真”与“善”）应还原为“事物”（拉丁 *res*）：凡存在的东西，包括一个事物的品质或行动（也称为“事物”），都是事物。例如一个善的东西是事物，真的东西也是。从语法观点看，“善”“真”这类词是形容词；当用作实体词（善者、一者）时，它们指品质；因此它们没有任何“超越的”之处。瓦拉的语法进路在其对经院术语 *ens* 的拒斥中显而易见。正如“跑着的”（*currens*）可分解为“那跑的人”（*is qui currit*），“存在”（*ens*）也可分解为“那存在的东西”（*id quod est*）。但“那个”不过是“那个东西”（*ea res*）；于是我们得到那个费力的公式：“那个存在的东西”。（*Repastinatio* 1:14; *DD* 1:23–25。）然而我们不需要“那存在的东西”（*ea que est*）这个短语：“石头是存在”（*lapis est ens*），或其可分解出的等价短语“石头是那个存在的东西”（*lapis est res que est*），是含混、笨拙且荒谬的说法，说穿了不过是“石头是东西”（*lapis est res*）。瓦拉还以语法理由拒斥其他经院术语如 *entitas*（“实体性”）、*hecceitas*（“此性”）与 *quidditas*（“本质性”）：这些词不符合拉丁语构词规则。虽然他不反对为古人不知的事物引入新词（如 *bombarda* 指炮弹），但经院学者铸造的术语完全是另一回事。
 
@@ -86,15 +86,15 @@
 
 第二点与第一点相关。在把自己置于他所认为的亚里士多德范式的对立面时，瓦拉常以这些学说并非为其设计的方式解释某些学说，如三段论、假言三段论、模态命题与对立方阵。在这类情形中，瓦拉仿佛从亚里士多德范式内部出发，自对手的某些基本假定与观念起步，以便用归谬法驳斥它们，或把它们提交给范式之外的己方判准。这种在亚里士多德范式内外的进出，可以解释（或许也可以开脱）瓦拉的不一贯：这种不一贯与其策略和议程紧密相连。他不想保持一贯，倘若所谓一贯只是服从经院学者的规则。照他的看法：那些规则无非是严格定义术语，再把它们压进三段论论证的紧身衣，全然不顾常识与语言习惯昭示什么。因此，在这种不一贯背后，有一个一贯的方案：用一种基于通常语言实践与常识的进路取代哲学思辨与理论化。但可以说它也有哲学上的相关性；因为在整个哲学史上，可以听到一种针对抽象、思辨与形式化的警告。人们无需认同这一警示，也能看到：哲学靠两种倾向间的创造性张力而繁荣。一方面是抽象、思辨与形式化的倾向；另一方面是这样一种关切：哲学分析的对象不应逸出视野，哲学不应沦为自娱的游戏。所谓游戏，就是一种抽象而理论的事情：把它自命要分析和解释的世界远远抛在身后，用一种只有从业者才懂的语言说话。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Sources: Selected Works by Valla
+### 原始文献：瓦拉主要著作
 
-### Selected Secondary Literature
+### 二手文献选编
 
 [^opera-1962]: *Opera omnia*, Basel 1540; repr. with a second volume, Turin: Bottega d’Erasmo, 1962.
 [^repastinatio-1982]: *Repastinatio dialectice et philosophie*, G. Zippel (ed.), 2 vols., Padua: Antenore, 1982. [vol. 1 contains the third version; vol. 2 the first.]
@@ -117,7 +117,7 @@
 [^copenhaver-1992]: Copenhaver, B. P. and C. B. Schmitt, 1992. *Renaissance Philosophy*, Oxford: Oxford University Press.
 [^fois-1969]: Fois, M., 1969. *Il pensiero cristiano di Lorenzo Valla nel quadro storico-culturale del suo ambiente*, Rome: Libreria editrice dell’Univ. Gregoriana.
 [^fubini-1999]: Fubini, R., 1999. “Contributo per l’interpretazione della *Dialectica* di Lorenzo Valla,” in G. F. Vescovini, ed., *Filosofia e scienza classica, arabo-latina medievale e l’età moderna*, Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales, 289–316.
-[^gavinelli-1991]: Gavinelli, S., 1991. “Teorie grammaticali nelle *Elegantie* e la tradizione scolastica del tardo umanesimo,” *Rinascimento*, 31: 155–181
+[^gavinelli-1991]: Gavinelli, S., 1991. “Teorie grammaticali nelle *Elegantie* e la tradizione scolastica del tardo umanesimo,” *Rinascimento*, 31: 155–181.
 [^gerl-1974]: Gerl, H.-B., 1974. *Rhetorik als Philosophie. Lorenzo Valla*, Munich: Fink.
 [^gray-1965]: Gray, H., 1965. “Valla’s *Encomium of St. Thomas Aquinas* and the Humanist Conception of Christian Antiquity,” in H. Bluhm (ed.), *Essays in History and Literature presented by Fellows of the Newberry Library to Stanley Pargellis*, Chicago: Newberry Library, 37–51.
 [^izbicki-1993]: Izbicki, T. M., 1993. “Lorenzo Valla: The Scholarship in English Through 1992,” in J. W. O’Malley et al. (eds.), *Humanity and Divinity in Renaissance and Reformation: Essays in Honor of Charles Trinkaus*, Leiden: Brill, 287–301. [Bibliography on Valla scholarship in English.]
@@ -137,9 +137,9 @@
 [^moss-2003]: Moss, A., 2003. *Renaissance Truth and the Latin Language Turn*, Oxford: Oxford University Press.
 [^nauta-2003]: Nauta, L., 2003. “William of Ockham and Lorenzo Valla: False Friends. Semantics and Ontological Reduction,” *Renaissance Quarterly*, 56: 613–651.
 [^nauta-2003-2]: –––, 2003. “Lorenzo Valla’s Critique of Aristotelian Psychology,” *Vivarium*, 41: 120–143.
-[^nauta-2006]: –––, 2006. “Lorenzo Valla and Quattrocento Scepticism,” *Vivarium*, 44: 375–395
+[^nauta-2006]: –––, 2006. “Lorenzo Valla and Quattrocento Scepticism,” *Vivarium*, 44: 375–395.
 [^nauta-2007]: –––, 2007. “Lorenzo Valla and the Rise of Humanist Dialectic,” in J. Hankins (ed.), *The Cambridge Companion to Renaissance Philosophy*, Cambridge: Cambridge University Press, 193–210.
-[^nauta-2009]: –––, 2009. *In Defense of Common Sense. Lorenzo Valla’s Humanist Critique of Scholastic Philosophy*, Cambridge, Mass., Harvard University Press
+[^nauta-2009]: –––, 2009. *In Defense of Common Sense. Lorenzo Valla’s Humanist Critique of Scholastic Philosophy*, Cambridge, Mass., Harvard University Press.
 [^nauta-2018]: –––, 2018. “Latin as a Common Language: The Coherence of Lorenzo Valla’s Humanist Program,” *Renaissance Quarterly*, 71: 1–32.
 [^nauta-2021]: –––, 2021. *Philosophy and the Language of the People. The Claims of Common Speech from Petrarch to Locke*, Cambridge: Cambridge University Press.
 [^paganini-2003]: Paganini, G., 2003. “Hobbes, Valla and the Trinity,” *British Journal for the History of Philosophy*, 11: 183–218.
@@ -148,7 +148,7 @@
 [^perreiah-1982]: Perreiah, A. R., 1982. “Humanist Critiques of Scholastic Dialectic,” *Sixteenth-Century Journal*, 13: 3–22.
 [^regoliosi-2013]: Regoliosi, M. and Marsico, C. (eds), 2013. *La diffusione europea del pensiero del Valla: atti del convegno del Comitato nazionale VI centenario della nascita di Lorenzo Valla, Prato, 3–6 dicembre 2008*, 2 vols., Florence: Polistampa.
 [^regoliosi-2010]: Regoliosi, M. (ed.), 2010. *Lorenzo Valla: la riforma della lingua e della logica. Atti del convegno del Comitato Nazionale VI centenario della nascita di Lorenzo Valla, Prato, 4–7 giugno 2008*, 2 vols., Florence: Polistampa.
-[^regoliosi-2000]: –––, 2000. “Le *Elegantie* del Valla come ‘grammatica’ antinormativa,” *Studi di grammatica italiana*,w 19: 315–336.
+[^regoliosi-2000]: –––, 2000. “Le *Elegantie* del Valla come ‘grammatica’ antinormativa,” *Studi di grammatica italiana*, 19: 315–336.
 [^rizzo-2002]: Rizzo, S., 2002. *Ricerche sul latino umanistico*, Rome: Studi di Storia e letteratura.
 [^rizzo-1994]: ––– (ed.), 1994. *Lorenzo Valla, Orazione per l’inaugurazione dell’anno accademico 1455–1456: Atti di un seminario di filologia umanistica*, Rome: Roma nel Rinascimento.
 [^tavoni-1984]: Tavoni, M., 1984. *Latino, grammatica, volgare: Storia di una questione umanistica*, Padua: Antenore.

@@ -179,11 +179,9 @@ These novel conclusions were first presented in the *Muséum* lectures of 1800, 
 
 The complex arrangement and ordering of groups envisioned by Lamarck was a branching image of group development illustrated by the following diagram added to his *Zoological Philosophy*. Possibly responding to the analyses by his younger colleague Georges Cuvier directed at the concept of linear relationships of groups (see below), Lamarck admitted a more complex branching pattern of group relations, with some showing independent lineages and even different points of origin:
 
-*Figure 1:*
-
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/lamarck-tableau-2-crop.jpg)
 
-Figure 1: Lamarck Diagram from “Additions” to the *Philosophie zoologique*, first edition (1809), (page 463). [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Lamarck Diagram from “Additions” to the *Philosophie zoologique*, first edition (1809), (page 463). [An extended description of figure 1 is in the supplement.]
 
 This issue was not, however, developed in any theoretical elaboration by Lamarck himself. The complexity of these issues in the subsequent interpretations of Lamarck by his successors is an area of active research (Corsi, 2021, 2012; Jenkins 2019)[^corsi-2012][^corsi-2021][^jenkins-2019].
 
@@ -221,29 +219,23 @@ In examining these issues, Lyell concludes that empirical evidence only supports
 
 In addition to French-inspired developments of transformism that Lyell focused on in his critique of Lamarck, a lesser-studied introduction of German philosophy of nature and German reflections on anatomical resemblance formed a different current of reflection with significant consequences for the mid-nineteenth century discussions of the transformist question in the British Isles. The cessation of the Napoleonic hostilities was accompanied by the introduction into British discussions of German scientific thought along with expositions of the systematic philosophies of Kant, Fichte, Hegel and Schelling (Sloan 2003)[^sloan-2003]. With relevance to species transformism, Schelling-inspired themes in the philosophy of nature were expounded in the Hunterian Lectures in Comparative Anatomy at the Royal College of Surgeons in London, delivered by the British surgeon Joseph Henry Green (1791–1863). Green utilized dimensions of Schelling’s *Naturphilosophie* to develop in his lectures between 1820–27 a dynamic theory of group relations which synthesized the work of Lamarck, Cuvier, and the University of Göttingen medical theorist Johann Blumenbach (1752–1840 (Sloan, 1992b, 2007)[^sloan-1992b][^sloan-2007], relations which he even depicted in tree-like branchings of relationship that went beyond those of Lamarck.
 
-*Figure 2:*
-
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/Green27-scale.jpg)
 
-Figure 2: Joseph Henry Green’s diagram of the relations of the invertebrate and vertebrate groups in 1827 as represented in the notes of Richard Owen. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Joseph Henry Green’s diagram of the relations of the invertebrate and vertebrate groups in 1827 as represented in the notes of Richard Owen. [An extended description of figure 2 is in the supplement.]
 
 These themes would be continued in the major series of lectures delivered by Green’s protégé at the College of Surgeons, the comparative anatomist, Richard Owen (1804–92), who was named to the prestigious Hunterian Chair in Comparative Anatomy 1837 and remained in that position until 1856 (Rupke 1994, 1993; Sloan 1992b)[^rupke-1993][^rupke-1994][^sloan-1992b]
 
 Owen’s widely-attended London lectures delivered between 1837 and 1856 brought many of the issues of comparative anatomy, classication, fossil evidence, and embryology to bear on the questions of species relationship and change. In these lectures, presented against the backdrop of the massive anatomical collections of the Hunterian Museum in London, Owen developed a reinterpretation of the significance of the Cuvier-Geoffroy dispute and developed its implications for issues surrounding the historical development of the vertebrates as represented in this diagram he made in 1837.
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/evolution-before-darwin/Owen27-scale.jpg)
 
-Figure 3: Richard Owen’s representation of the relation of the main animal groups in February, 1837. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Richard Owen’s representation of the relation of the main animal groups in February, 1837. [An extended description of figure 3 is in the supplement.]
 
 As a solution to the Cuvier-Geoffroy issues, Owen subsequently developed in his Hunterian lectures in 1845 the theory of the archetypal vertebrate that connected the anatomical relations of all the vertebrates, a theme he then elaborated in an important set of publications in 1847 and 1849 (Owen, 1847, 1849 [2007])[^owen-1849]. Employing aspects of William Whewell’s philosophy of science to develop these arguments, Owen expounded the theory of the unity of type in relation to the Cuvierian analysis of the relation of form and function. In his argument, the archetype, functioning both as a transcendental ideal form and also as an immanent law working in the material history of life, explained the progression and differentiation of the vertebrates in historical time ((Sloan 2003; R. J. Richards 2002: chp. 14; Rupke 1993)[^richards-2002][^rupke-1993][^sloan-2003].
 
-*Figure 4:*
-
 ![line drawing: link to extended description below](../assets/evolution-before-darwin/archetype.jpg)
 
-Figure 4: Richard Owen’s depiction of the Archetypal Vertebrate, composed of a series of ideal vertebrae as in his *On the Nature of the Limbs* (1849), “Appendix”. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Richard Owen’s depiction of the Archetypal Vertebrate, composed of a series of ideal vertebrae as in his *On the Nature of the Limbs* (1849), “Appendix”. [An extended description of figure 4 is in the supplement.]
 
 By means of this theory, Owen claimed he could coherently explain both the deep resemblance of forms in their internal anatomy—the theme emphasized by Geoffroy St. Hilaire—, and also the close fitting of structure and function to the organism’s “conditions of existence”, the insight emphasized by Cuvier.
 

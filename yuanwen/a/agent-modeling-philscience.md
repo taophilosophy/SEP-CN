@@ -125,11 +125,9 @@ The idea of *epistemic* landscapes entered philosophy of science with the work o
 
 ABMs of science have utilized two-dimensional and three-dimensional landscapes, as well as the generalized framework of NK-landscapes, in which the number of dimensions and the ruggedness of the landscape are parameters of the model.[^note-1] Scientists are modeled as agents who explore the landscape, trying to find its peak(s), that is, the epistemically most significant points. The framework allows for different ways of measuring the success and efficiency of inquiry: in terms of the success of the community in discovering the peak(s) of the landscape (rather than getting stuck in local maxima), the success in discovering any of the areas of non-zero vicinity, the time required for such discoveries, and so forth.
 
-*Figure 2:*
-
 ![two pictures mostly described in the caption. The three-dimensional one has two cones rising from the plain with the upper right one seemingly a bit higher while the two-dimensional one has two circular regions on a black surface gradually getting lighter gray towards their respective centers with the upper right region having a whiter center.](../assets/agent-modeling-philscience/ep_landscape-wm.png)
 
-Figure 2: Two representations of Weisberg and Muldoon’s epistemic landscape: a three-dimensional representation on the left and a two-dimensional representation of the same landscape on the right, where the height of the landscape is represented by different shades of gray: the lighter the shade, the more significant the point on the landscape (adapted from Weisberg & Muldoon 2009)[^weisberg-2009].
+*Figure 2:* Two representations of Weisberg and Muldoon’s epistemic landscape: a three-dimensional representation on the left and a two-dimensional representation of the same landscape on the right, where the height of the landscape is represented by different shades of gray: the lighter the shade, the more significant the point on the landscape (adapted from Weisberg & Muldoon 2009)[^weisberg-2009].
 
 #### 3.1.1 Application to the problem of cognitive diversity
 
@@ -157,13 +155,11 @@ Another application domain of the epistemic landscape framework is the communica
 
 (b)
 
-*Figure 3:*
-
 ![Similar to the previous graph except the y-axis ranges from -11 to 100. The curve is no longer smooth. Starts at about (0,20) down to a point (15,-9) straight line up to a point at (17,100) straight line down to a point at (20,-11) then curve up to (40,20) ambles along more or less horizontally to (60,20) then up to (85,75) then down to (100,50). ](../assets/agent-modeling-philscience/grim3.png)
 
 (c)
 
-Figure 3: Epistemic landscapes with an increasing degree of fiendishness (adapted from Grim, Singer, Fisher, et al. 2013: 443)[^grim-2013]
+*Figure 3:* Epistemic landscapes with an increasing degree of fiendishness (adapted from Grim, Singer, Fisher, et al. 2013: 443)[^grim-2013]
 
 #### 3.1.3 Other applications
 
@@ -171,11 +167,9 @@ Beside the above themes, the framework of epistemic landscapes has appeared in m
 
 Finally, epistemic landscape modeling has inspired related landscape models. The argumentation-based model of scientific inquiry by Borg, Frey, Šešelja, and Straßer (2018, 2019) is one such example. The model, inspired by abstract argumentation frameworks (Dung 1995)[^dung-1995], employs an “argumentation landscape”. The landscape is composed of “argumentation trees” that represent rival research programs (see Figure 4). Each program is a rooted tree, with nodes as arguments and edges as a “discovery relation”, representing a path agents take to move from one argument to another. Arguments in one theory may attack arguments in another theory. In contrast to epistemic landscapes, argumentation landscapes aim to capture the dialectic dimension of inquiry where some points on the landscape, assumed to be acceptable arguments, may subsequently be rejected as undefendable. This allows for an explicit representation of false positives (accepting a false hypothesis) as an argument on the landscape an agent accepts without knowing there exists an attack on it, and false negatives (rejecting a true hypothesis) as an argument an agent rejects, without knowing that it can be defended. The model has been used to study how argumentative dynamics among scientists, pursuing rival research programs, impacts their efficiency in acquiring knowledge under various conditions of inquiry (such as different social networks, different degrees of cautiousness in decision making, and so on).
 
-*Figure 4:*
-
 ![two collections of nodes with one collection colored orange (bright and dark nodes) and the other blue (bright and dark). The largest node in each collection is titled 'Research Program 1' and 'Research Program 2' respectively. 2 arrows point from dark orange nodes to dark blue nodes; 1 arrow points from a dark blue node to a dark orange node. ](../assets/agent-modeling-philscience/arg-abm.png)
 
-Figure 4: Argumentation-based ABM by Borg, Frey, Šešelja, and Straßer (2019) employing an argumentative landscape. The landscape represents two rival research programs (RP), with darker shaded nodes standing for arguments that have been explored by agents and are thus visible to them; brighter shaded nodes stand for arguments that are not visible to agents. The biggest node in each RP is the root argument, from which agents start their exploration via the discovery relation, connecting arguments within one RP. Arrows stand for attacks from an argument in one RP to an argument in another RP.
+*Figure 4:* Argumentation-based ABM by Borg, Frey, Šešelja, and Straßer (2019) employing an argumentative landscape. The landscape represents two rival research programs (RP), with darker shaded nodes standing for arguments that have been explored by agents and are thus visible to them; brighter shaded nodes stand for arguments that are not visible to agents. The biggest node in each RP is the root argument, from which agents start their exploration via the discovery relation, connecting arguments within one RP. Arrows stand for attacks from an argument in one RP to an argument in another RP.
 
 ### 3.2 Bandit models
 
@@ -207,13 +201,11 @@ Applied to the context of scientific inquiry, scientists are usually represented
 
 (b)
 
-*Figure 5:*
-
 ![Half truth seekers: The 100 agents' opinions also collapses but takes a bit longer to reach 1; however, that 1 is also near the truth.](../assets/agent-modeling-philscience/HK06_3.png)
 
 (c)
 
-Figure 5: Examples of runs of Hegselmann and Krause’s model, with the *x*-axis representing time steps in the simulation and the *y*-axis opinions of 100 agents. The change of each agent’s opinion is represented with a colored line. The value of $\tau$ (the assumed position of the truth) is represented as a black dotted line. Figure (a) shows opinion dynamics in a community without any truth-seeking agents, resulting in a plurality of diverging views. Figure (b) shows the opinion dynamics in a community in which all agents are truth-seekers, which achieves a consensus close to the truth. Figure (c) shows the opinion dynamics in a community in which only half of the population are truth-seekers, which also achieves a consensus close to the truth (adapted from Hegselmann & Krause 2006; for other parameters used in the simulations see the original article)[^hegselmann-2006].
+*Figure 5:* Examples of runs of Hegselmann and Krause’s model, with the *x*-axis representing time steps in the simulation and the *y*-axis opinions of 100 agents. The change of each agent’s opinion is represented with a colored line. The value of $\tau$ (the assumed position of the truth) is represented as a black dotted line. Figure (a) shows opinion dynamics in a community without any truth-seeking agents, resulting in a plurality of diverging views. Figure (b) shows the opinion dynamics in a community in which all agents are truth-seekers, which achieves a consensus close to the truth. Figure (c) shows the opinion dynamics in a community in which only half of the population are truth-seekers, which also achieves a consensus close to the truth (adapted from Hegselmann & Krause 2006; for other parameters used in the simulations see the original article)[^hegselmann-2006].
 
 An early application of the bounded confidence model was the problem of the division of cognitive labor (Hegselmann & Krause 2006)[^hegselmann-2006]. Since agents can be modeled as updating their beliefs only on the basis of social information (that is, by averaging over opinions of others who fall in one’s confidence interval) or on the basis of both social information and the signal from the world, the model can be used to study the opinion dynamics in a community in which not everyone is a “truth-seeker”. The model then examines what kind of division of labor between truth-seekers and agents who only receive social information allows the community to converge to the truth.
 
@@ -233,15 +225,13 @@ Evolutionary game-theoretic models have been used to study these and related que
 
 The game, originating in the work of John Nash (1950), is called the “Nash demand game” (or the “mini-Nash demand game”). Each player in the game makes their demand (Low, Med or High). If the demands do not jointly exceed a given resource, each player gets what they asked for. If they do exceed the available resource, no-one gets anything. In the example above, High can be interpreted as demanding to work less than the other on the organization of the conference, or demanding the first authorship in a joint paper while putting relatively lower effort into it. Similarly, Low corresponds to the willingness to take on a larger portion of the work (relative to the order of authors in case of the joint paper), while Med corresponds to demanding a fair distribution of labor. Table 1 displays the payoffs in such a game. Any combination of demands that gives a joint payoff of 10 is a Nash equilibrium, which means that either player’s strategy is the best response to the other player’s one. While a Nash equilibrium may correspond to a fair distribution of resources (if both players demand Med), it may also correspond to an unfair one (if one player demands Low and the other one High). This raises the question: which equilibrium will the community achieve if agents learn from their previous interactions? In particular, if the individuals are divided into sub-groups (which may be of different sizes), where their membership can be identified by means of markers visible to other agents, they can develop strategies conditional on the group membership of their co-players. Which equilibrium state will such a community evolve to? To study such questions, evolutionary models employ rules or dynamics that determine how players update their strategies and how the distribution of strategies across the community changes over time.[^note-6]
 
-*Table 1:*
-
 |   | Low | Med | High |
 | --- | --- | --- | --- |
 | Low | L,L | L,5 | L,H |
 | Med | 5,L | 5,5 | 0,0 |
 | High | H,L | 0,0 | 0,0 |
 
-Table 1: A payoff table in the Nash demand game. The rows show the strategic options of Player1 and the columns the options of Player2. Each cell shows the payoff Player1 gets for the given combination of options, followed by the payoff for Player2. Players can make three demands: Low, Med and High for the total resource of 10. The payoffs are represented as L, M and H, where $\mathrm{M}= 5$, $\mathrm{L} < 5 < \mathrm{H}$, and $\mathrm{L} + \mathrm{H} = 10$. (cf. O’Connor & Bruner 2019; Rubin & O’Connor 2018)[^bruner-2019][^o’connor-2019][^o’connor-2019-2][^o’connor-2018][^rubin-2018]
+*Table 1:* A payoff table in the Nash demand game. The rows show the strategic options of Player1 and the columns the options of Player2. Each cell shows the payoff Player1 gets for the given combination of options, followed by the payoff for Player2. Players can make three demands: Low, Med and High for the total resource of 10. The payoffs are represented as L, M and H, where $\mathrm{M}= 5$, $\mathrm{L} < 5 < \mathrm{H}$, and $\mathrm{L} + \mathrm{H} = 10$. (cf. O’Connor & Bruner 2019; Rubin & O’Connor 2018)[^bruner-2019][^o’connor-2019][^o’connor-2019-2][^o’connor-2018][^rubin-2018]
 
 The modeling framework based on bargaining has been used to study norms in scientific collaborations and inequalities that may emerge through them. For example, O’Connor and Bruner (2019) investigate the emergence of discriminatory norms in academic interactions between minority and majority members. Rubin and O’Connor (2018) study the emergence of discriminatory patterns and their effects on diversity in collaboration networks, while Ventura (2023) examines the impact of the structure of collaborative networks on the emergence of discriminatory norms even if there are no visible markers of an agent’s membership to a sub-group. Moreover, Klein, Marx, and Scheller (2020) use a similar framework to study the relationship between rationality and inequality, that is, the success of different strategies for bargaining (such as maximizing expected utility) and their impact on the emergence of inequality.
 

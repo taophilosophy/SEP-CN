@@ -8,11 +8,9 @@
 
 The purpose of this supplement is a concise, formal development of the basic notions of learning theory so as to make mathematical treatments of the subject more accessible to the reader. The supplement develops some of the concepts discussed in the main entry in formal language. For the most part I follow Kelly’s [1996] treatment which is at once more general and simpler than other approaches. The discussion below illustrates concepts by reference to the Goodmanian Riddle of Induction; the figure illustrating this inductive problem is reproduced here.
 
-*Figure 3*
-
 ![natural projection rule: link to extended description below](../assets/learning-formal/natural.jpg)
 
-Figure 3 [An extended description of figure 3 is in a supplement.]
+*Figure 3* [An extended description of figure 3 is in a supplement.]
 
 ### Evidence, Hypotheses and Discovery Problems
 

@@ -20,7 +20,7 @@
 
 > 我认为，按照上帝能够形成的不同设计，创造世界有无限多种可能的方式；而每一个可能世界，都依赖其专属的主要设计或目的——即某些原初的自由法令（以 **可能性之理** 来设想），或这个可能宇宙之 **普遍秩序** 的某些法则。那些设计或目的与这些法则相符合，并决定其概念；同样也决定必须进入这同一个宇宙的一切个体实体的概念。（G II 51/L 333）
 
-莱布尼茨这里的基本想法，应当与我们的直觉密切相符。设想上帝考虑一组个体 {*a, b, c, d*}。从上帝的观点看，他可以选择用一组自然律 `L*` 使这个世界现实化，或者用另一组自然律 `L**`。这一选择，代表在两个可能世界之间的选择。这类似于我们说：若引力常数不同，我们就会有一个 **不同的** 世界。不过，这种说话方式并不完全正确：照莱布尼茨的看法，不同的定律组最终会在个体实体那里产生不同的属性与知觉。结果，受 `L*` 与 `L**` 各自支配的两个世界，其中个体严格说来彼此不同。
+莱布尼茨这里的基本想法，应当与我们的直觉密切相符。设想上帝考虑一组个体 {*a, b, c, d*}。从上帝的观点看，他可以选择用一组自然律 *L*\* 使这个世界现实化，或者用另一组自然律 `L**`。这一选择，代表在两个可能世界之间的选择。这类似于我们说：若引力常数不同，我们就会有一个 **不同的** 世界。不过，这种说话方式并不完全正确：照莱布尼茨的看法，不同的定律组最终会在个体实体那里产生不同的属性与知觉。结果，受 *L*\* 与 `L**` 各自支配的两个世界，其中个体严格说来彼此不同。
 
 莱布尼茨之所以提到支配不同可能世界的不同定律，是因为：诸定律系统及其效果，充当上帝选择世界的判据。我们知道，对莱布尼茨而言，上帝选择“一切可能世界中最好的世界”。然而《形而上学谈话》第 6 节告诉我们：这意味着上帝选择在假设（或定律）上最简单、在现象上最丰富的世界。因此，尽管人们可能倾向于把自然律看作个体实体之现实属性与知觉的派生物，事实上它们是上帝选择的对象。
 
@@ -85,7 +85,7 @@
 
 > 因为人们会发现：恺撒的这个谓词之证明，不像数字或几何学的证明那样绝对，而是预设上帝自由选择的事物序列。这个序列基于上帝的首要自由法令——永远做最完善的事——也基于上帝关于人性的法令（从首要法令引申而出）：人将总是做（尽管是自由地）在他看来最好的事。但基于此类法令的真理皆是偶然的，即使它确定；因为这些法令不改变事物之可能性。而且，如我已说过的：上帝总是选择最好的，这一点确定；但这并不妨碍某件较不完善的东西在自身中保持可能——尽管它不会发生。因为它被拒斥，不是由于其不可能性，而是由于其不完善性。凡其反面可能者，皆非必然。（A VI iv 1548/AG 46）
 
-这里的关键观念是：一个命题在这个世界中偶然为真，当它在某种意义上依赖上帝的首要自由法令。也就是说，这个命题之真理的 **理由** ，定位于 **这个** 特定世界的现实化之中。还有另一个世界 `W*`，存在于世界之书的无限图书馆中，且具有如下性质：**倘若** 上帝使的是 **那个** 世界 `W*`，P 就会为假。换言之，一个命题偶然为真，当它在此世为真而在某彼世为假。不过，如上所述，莱布尼茨在这一时期的另一个文本中把可能的命题定义为：其分析中永不会产生矛盾的命题；而鉴于他对世界的说明，这恰恰意味着：该命题在某个世界中为真。此外，既然必然真理 **不** 依赖上帝的首要自由法令，而是经分析显示为同一式，它们实际上是 **一切** 可能世界中都为真的命题。因此，虽然我们的基本模态概念是借真理的 **在其中** 学说（即谓词在概念之中原则）与无穷分析的观念（就偶然性而言）来解释的，但由此到可能世界语义学并非一大步。
+这里的关键观念是：一个命题在这个世界中偶然为真，当它在某种意义上依赖上帝的首要自由法令。也就是说，这个命题之真理的 **理由** ，定位于 **这个** 特定世界的现实化之中。还有另一个世界 *W*\*，存在于世界之书的无限图书馆中，且具有如下性质：**倘若** 上帝使的是 **那个** 世界 *W*\*，P 就会为假。换言之，一个命题偶然为真，当它在此世为真而在某彼世为假。不过，如上所述，莱布尼茨在这一时期的另一个文本中把可能的命题定义为：其分析中永不会产生矛盾的命题；而鉴于他对世界的说明，这恰恰意味着：该命题在某个世界中为真。此外，既然必然真理 **不** 依赖上帝的首要自由法令，而是经分析显示为同一式，它们实际上是 **一切** 可能世界中都为真的命题。因此，虽然我们的基本模态概念是借真理的 **在其中** 学说（即谓词在概念之中原则）与无穷分析的观念（就偶然性而言）来解释的，但由此到可能世界语义学并非一大步。
 
 莱布尼茨对必然与偶然真理之区分的本性所作的阐明，能够翻译成当代可能世界语义学的术语——这或许不值得惊讶。因为莱布尼茨在《论自由》（*De libertate...*，1689?）中告诉我们：他 **首先** 是借虚构世界——那种在某种脆弱意义上具有存在的世界——来思考 **可能者** 之本性的。“但对那些不在、过去不在、将来也不在的可能者的考虑，把我从这个悬崖[斯宾诺莎的必然主义]边上拉了回来。因为如果有一些可能者永不存在，那么无论如何，存在的东西并不总是必然的；否则其他东西就不可能取代它们而存在，于是一切永不存在的东西都会是不可能的。”（A VI iv 1653–54/AG 94）只是到了后来，他才开始以有限分析与无限分析设想必然真理与偶然真理之别。归根结底，我们可以说：无穷分析学说依赖于可能世界无限学说。
 
@@ -139,7 +139,7 @@
 
 总之，本文自始至终主张：莱布尼茨提出他关于模态的独特观点，以对抗霍布斯与斯宾诺莎的观点。简言之，我们在莱布尼茨体系中发现的模态形而上学，是把一种机械论的（从而决定论的）世界观之洞见与正统基督教的要求结合起来的尝试之结果。这里有若干重要的具体之点要提出来。第一，照斯宾诺莎的观点：凡可能的东西皆现实；也就是说，不存在未现实化的可能性。主张某个特定事物或事件本可以是别的样子，或主张世界本身本可以是别的样子——这只是没有充分知识而妄下断言。确实，斯宾诺莎哲学的基石之一是这样一种观点：如果一个人拥有第三种知识，他就会认识到 **一切** 都出于神圣本性的必然而发生。第二，如果神圣选择理论是关于这个现实世界起源的首选说明，那么莱布尼茨就与斯宾诺莎相对立。其一，神圣选择理论蕴涵未现实化可能世界的存在；其二，它明显蕴涵一个拟人化的、超越的上帝。换言之，神圣选择理论要求一个理智与意志有别的上帝。第三，莱布尼茨关于必然与偶然的说明，显然服务于他对人之实在自由的信守——而这发生在他所坚持的机械论世界观面前。这绝不应当令人惊讶。莱布尼茨与霍布斯、斯宾诺莎不同。他坚持基督教的基本信条，因而必须解释自由与责任如何能归于一个个体。照莱布尼茨对真理的说明，个体本性蕴涵过去、现在与未来的全部属性。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -151,14 +151,14 @@
 | --- | --- |
 | [RB] | *New Essays on Human Understanding*（《人类理智新论》）. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
 | [AG] | *Philosophical Essays*. Translated and edited by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
-| [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969. |
+| [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrecht: D. Reidel, 1969. |
 | [G] | *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. Cited by volume and page number |
 | [A] | *Sämtliche Schriften und Briefe*. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe), Volume (Band), and page number. |
-| [H] | *Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
+| [H] | *Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
 
 ### Secondary Sources
 
-[^see-nd]: See also the main entry on Leibniz.
+[^see-nd]: 另见本百科莱布尼茨主条目。
 [^adams-1974]: Adams, Robert Merrihew, 1974. “Theories of Actuality,” *Noûs*, 8(3): 211–31.
 [^adams-1994]: Adams, Robert Merrihew, 1994 *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
 [^blumenfeld-1973]: Blumenfeld, D., 1973. “Leibniz's Theory of Striving Possibles,” *Studia Leibnitiana*, 5: 163–77.
@@ -167,7 +167,7 @@
 [^burkhardt-1988]: Burkhardt, Hans, 1988. “Modalities in language, thought and reality in Leibniz, Descartes and Crusius,” *Synthese*, 75(2): 183–215.
 [^carnap-1956]: Carnap, Rudolf, 1956. *Meaning and Necessity: A Study in Semantics and Modal Logic*, second edition, Chicago: University of Chicago Press.
 [^cover-1999]: Cover, J.A. and O'Leary-Hawthorne, John, 1999. *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
-[^curley-1972]: Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt ( ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, pp. 69–97.
+[^curley-1972]: Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt (ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, pp. 69–97.
 [^fitch-1979]: Fitch, Gregory, 1979. “Analyticity and Necessity in Leibniz,” *Journal of the History of Philosophy*, 17: 29–42.
 [^hooker-1982]: Hooker, Michael (ed.), 1982. *Leibniz: Critical and Interpretive Essays*, Minneapolis: University of Minnesota Press.
 [^ishiguro-1990]: Ishiguro, Hidé, 1990. *Leibniz's Philosophy of Logic and Language*, 2nd ed., Cambridge: Cambridge University Press.
@@ -192,7 +192,7 @@
 [^sleigh-1990]: Sleigh, R. C., Jr., 1990. *Leibniz and Arnauld: A Commentary on Their Correspondence*, New Haven: Yale University Press.
 [^wilson-1989]: Wilson, Catherine, 1989. *Leibniz's Metaphysics: A Historical and Comparative Study*, Manchester: Manchester University Press.
 [^wilson-2000]: Wilson, Catherine, 2000. “Plenitude and Compossibility in Leibniz,” *The Leibniz Review*, 10: 1–20.
-[^wilson-1978]: Wilson, Margaret D., 1978/9. “Possible Gods,” *Review of Metaphysics*, 32: 717–33. Reprinted in M. Wilson 1999.
+[^wilson-1978]: Wilson, Margaret D., 1978/79. “Possible Gods,” *Review of Metaphysics*, 32: 717–33. Reprinted in M. Wilson 1999.
 [^wilson-1999]: Wilson, Margaret D., 1999. *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton: Princeton University Press.
 [^zalta-2000]: Zalta, Edward, 2000. “A (Leibnizian) Theory of Concepts,” *Philosophiegeschichte und logische Analyse* / *Logical Analysis and History of Philosophy*, 3: 137–183.
 

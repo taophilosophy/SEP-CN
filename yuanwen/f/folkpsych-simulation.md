@@ -47,18 +47,18 @@ Needless to say, this intuitive characterization of “mental simulation” is l
 
 The simplest interpretation of “mental simulation” in terms of resemblance goes like this:
 
-(RES-1) Token state *M** is a mental simulation of token state *M* if and only if:
+(RES-1) Token state *M*\* is a mental simulation of token state *M* if and only if:
 
-1. Both *M* and *M** are mental states
-2. *M** resembles *M* in some significant respects
+1. Both *M* and *M*\* are mental states
+2. *M*\* resembles *M* in some significant respects
 
-Two clarifications are in order. First, we will elaborate on the “significant respects” in which a mental state has to resemble another mental state in due course (see, in particular, section 3). For the moment, it will suffice to mention some relevant dimensions of resemblance: similar functional role; similar content; similar phenomenology; similar neural basis (an important discussion of this topic is Fisher 2006)[^fisher-2006]. Second, RES-1 defines “mental simulation” as a *dyadic* *relation* between mental states (the relation *being a mental simulation of*). However, the expression “mental simulation” is also often used to pick out a *monadic property* of mental states —the property *being a simulated mental state* (as will become clear soon, “simulated mental state” does not refer here to the state which is simulated, but to the state that does the simulating). For example, it is common to find in the literature sentences like “*M** is a mental simulation”. To avoid ambiguities, we shall adopt the following terminological conventions:
+Two clarifications are in order. First, we will elaborate on the “significant respects” in which a mental state has to resemble another mental state in due course (see, in particular, section 3). For the moment, it will suffice to mention some relevant dimensions of resemblance: similar functional role; similar content; similar phenomenology; similar neural basis (an important discussion of this topic is Fisher 2006)[^fisher-2006]. Second, RES-1 defines “mental simulation” as a *dyadic* *relation* between mental states (the relation *being a mental simulation of*). However, the expression “mental simulation” is also often used to pick out a *monadic property* of mental states —the property *being a simulated mental state* (as will become clear soon, “simulated mental state” does not refer here to the state which is simulated, but to the state that does the simulating). For example, it is common to find in the literature sentences like “*M*\* is a mental simulation”. To avoid ambiguities, we shall adopt the following terminological conventions:
 
 - We shall use the expression “mental simulation of” to express the relation *being a mental simulation of*.
 - We shall use the expression “simulated mental state” to express the property *being a simulated mental state*.
 - We shall use the expression “mental simulation” in a way that is deliberately ambiguous between “mental simulation of” and “simulated mental state”.
 
-It follows from this that, strictly speaking, RES-1 is a definition of “mental simulation of”. Throughout this entry, we shall characterize “simulated mental state” in terms of “mental simulation of”: we shall say that if *M** is *a mental simulation* *of* *M*, then *M** is a *simulated mental state*.[^note-1]
+It follows from this that, strictly speaking, RES-1 is a definition of “mental simulation of”. Throughout this entry, we shall characterize “simulated mental state” in terms of “mental simulation of”: we shall say that if *M*\* is *a mental simulation* *of* *M*, then *M*\* is a *simulated mental state*.[^note-1]
 
 With these clarifications in place, we will consider the strengths and weaknesses of RES-1. Suppose that Lisa is seeing a yellow banana. At the present moment, there is no yellow banana in my own surroundings; thus, I cannot have that (type of) visual experience. Still, I can *visualize* what Lisa is seeing. Intuitively, my visual imagery of a yellow banana is a mental simulation of Lisa’s visual experience. RES-1 captures this, given that both my visual imagery and Lisa’s visual experience are mental states and the former resembles the latter.
 
@@ -66,27 +66,27 @@ RES-1, however, faces an obvious problem (Goldman 2006)[^goldman-2006]. The rese
 
 In order to solve this problem, Goldman (2006) proposes the following resemblance-based definition of “mental simulation of”:
 
-(RES-2) Token state *M** is a mental simulation of token state *M* if and only if:
+(RES-2) Token state *M*\* is a mental simulation of token state *M* if and only if:
 
-1. Both *M* and *M** are mental states
-2. *M** resembles *M* in some significant respects
-3. In resembling *M*, *M** fulfils at least one of its functions
+1. Both *M* and *M*\* are mental states
+2. *M*\* resembles *M* in some significant respects
+3. In resembling *M*, *M*\* fulfils at least one of its functions
 
 Under the plausible assumption that one of the functions of visual imagery is to resemble visual experiences, RES-2 correctly predicts that my visual imagery of a yellow banana counts as a mental simulation of Lisa’s visual experience. At the same time, since visual experiences do not have the function of resembling visual images, RES-2 does not run into the trouble of categorizing the former as a mental simulation of the latter.
 
 ### 2.2 Mental Simulation as Reuse
 
-Clearly, RES-2 is a better definition of “mental simulation of” than RES-1. Hurley (2008), however, argued that it won’t do either, since it fails to distinguish ST from its main competitor, i.e., the Theory-Theory (TT), according to which mindreading depends on a body of information about mental states and processes (section 5). The crux of Hurley’s argument is this. Suppose that a token visual image *V** resembles a token visual experience *V* and, in doing so, fulfils one of its functions. In this case, RES-2 is satisfied. But now suppose further that visualization works like a computer simulation: it generates its outputs on the basis of a body of information about vision. On this assumption, RES-2 still categorizes *V** as a mental simulation of *V*, even though *V** has been generated by exactly the kind of process described by TT: a theory-driven and information-rich process.
+Clearly, RES-2 is a better definition of “mental simulation of” than RES-1. Hurley (2008), however, argued that it won’t do either, since it fails to distinguish ST from its main competitor, i.e., the Theory-Theory (TT), according to which mindreading depends on a body of information about mental states and processes (section 5). The crux of Hurley’s argument is this. Suppose that a token visual image *V*\* resembles a token visual experience *V* and, in doing so, fulfils one of its functions. In this case, RES-2 is satisfied. But now suppose further that visualization works like a computer simulation: it generates its outputs on the basis of a body of information about vision. On this assumption, RES-2 still categorizes *V*\* as a mental simulation of *V*, even though *V*\* has been generated by exactly the kind of process described by TT: a theory-driven and information-rich process.
 
 According to Hurley (who follows here a suggestion by Currie & Ravenscroft 2002)[^currie-2002][^currie-2002-2], the solution to this difficulty lies in the realization that “the fundamental … concept of simulation is *reuse*, not resemblance” (Hurley 2008: 758, emphasis added)[^hurley-2008]. Hurley’s reuse-based definition of “mental simulation of” can be articulated as follows:
 
-(REU) Token state *M** is a mental simulation of token state *M* if and only if:
+(REU) Token state *M*\* is a mental simulation of token state *M* if and only if:
 
-1. Both *M* and *M** are mental states
+1. Both *M* and *M*\* are mental states
 2. *M* is generated by token cognitive process *P*
-3. *M** is generated by token cognitive process *P**
+3. *M*\* is generated by token cognitive process *P*\*
 4. *P* is implemented by the *use* of a token cognitive mechanism of type *C*
-5. *P** is implemented by the *reuse* of a token cognitive mechanism of type *C*
+5. *P*\* is implemented by the *reuse* of a token cognitive mechanism of type *C*
 
 To have a full understanding of REU, we need to answer three questions: (a) What is a cognitive *process*? (b) What is a cognitive *mechanism*? (c) What is the difference between *using* and *reusing* a certain cognitive mechanism? Let’s do it!
 
@@ -96,7 +96,7 @@ With these distinctions at hand, we can answer questions (a) and (b). A *cogniti
 
 We now turn to question (c), which concerns the distinction between use and reuse of a cognitive mechanism. At a first approximation, a cognitive mechanism is *used* when it performs its primary function, while it is *reused* when it is activated to perform a different, non-primary function. For example, one is *using* one’s visual mechanism when one employs it to see, while one is *reusing* it when one employs it to conjure up a visual image (see Anderson 2008, 2015 for further discussion of the notion of reuse)[^anderson-2008][^anderson-2015]. All this is a bit sketchy, but it will do.
 
-Let’s now go back to REU. The main idea behind it is that whether a mental state is a mental simulation of another mental state depends on the *cognitive processes* generating these two mental states, and on the *cognitive mechanisms* implementing such cognitive processes. More precisely, in order for mental state *M** to be a mental simulation of mental state *M*, it has to be case that: (*i*) cognitive processes *P** and *P*, which respectively generate *M** and *M*, are both implemented by the same (type of) cognitive mechanism *C*; (ii) *P* is implemented by the *use* of *C*, while *P** is implemented by the *reuse* of *C*.
+Let’s now go back to REU. The main idea behind it is that whether a mental state is a mental simulation of another mental state depends on the *cognitive processes* generating these two mental states, and on the *cognitive mechanisms* implementing such cognitive processes. More precisely, in order for mental state *M*\* to be a mental simulation of mental state *M*, it has to be case that: (*i*) cognitive processes *P*\* and *P*, which respectively generate *M*\* and *M*, are both implemented by the same (type of) cognitive mechanism *C*; (ii) *P* is implemented by the *use* of *C*, while *P*\* is implemented by the *reuse* of *C*.
 
 Now that we know what REU means, we can consider whether it fares better than RES-2 in capturing the nature of the relation of mental simulation. It would seem so. Consider this hypothetical scenario. Lisa is seeing a yellow banana, and her visual experience has been generated by cognitive process *V*¹, which has been implemented by the use of her visual mechanism. I am visualizing a yellow banana, and my visual image has been generated by cognitive process *V*², which has been implemented by the reuse of my visual mechanism. Rosanna-the-Super-Reasoner is also visualizing a yellow banana, but her visual image has been generated by an information-rich cognitive process: a process drawing upon Rosanna’s detailed knowledge of vision and implemented by her incredibly powerful reasoning mechanism. REU correctly predicts that my visual image is a mental simulation of Lisa’s visual experience, but not vice versa. More importantly, it also predicts that Rosanna’s visual image does not count as a mental simulation of Lisa’s visual experience, given that Rosanna’s cognitive process was not implemented by the reuse of the visual mechanism. In this way, REU solves the problem faced by RES-2 in distinguishing ST from TT.
 
@@ -106,14 +106,14 @@ Should we then conclude that “mental simulation of” has to be defined in ter
 
 In order to overcome the difficulties faced by trying to define “mental simulation of” in terms of *either* replication *or* reuse, philosophers have built on the insights of both RES and REU and have proposed definitions that combine replication and reuse elements (Currie & Ravenscroft 2002; in recent years, Goldman himself seems to have favoured a mixed account; see Goldman 2012a)[^currie-2002][^currie-2002-2][^goldman-2012a]. Here is one plausible definition:
 
-(RES+REU) Token state *M** is a mental simulation of token state *M* if and only if:
+(RES+REU) Token state *M*\* is a mental simulation of token state *M* if and only if:
 
-1. Both *M* and *M** are mental states
-2. *M** resembles *M* in some significant respects
+1. Both *M* and *M*\* are mental states
+2. *M*\* resembles *M* in some significant respects
 3. *M* is generated by token cognitive process *P*
-4. *M** is generated by token cognitive process *P**
+4. *M*\* is generated by token cognitive process *P*\*
 5. *P* is implemented by the *use* of a token cognitive mechanism of type *C*
-6. *P** is implemented by the *reuse* of a token cognitive mechanism of type *C*
+6. *P*\* is implemented by the *reuse* of a token cognitive mechanism of type *C*
 
 RES+REU has at least three important virtues. The *first* is that it solves all the aforementioned problems for RES and REU—we leave to the reader the exercise of showing that this is indeed the case.
 
@@ -121,27 +121,25 @@ The *second* is that it fits nicely with an idea that loomed large in the simula
 
 And here is RES+REU’s *third* virtue. So far, we have said that “mental simulation” can either pick out a dyadic relation between mental states or a monadic property of mental states. In fact, its ambiguity runs deeper than this, since philosophers and cognitive scientists also use “mental simulation” to refer to a monadic property of *cognitive processes*, namely, the property *being a (mental) simulation process* (or: “process of mental simulation”, “simulational process”, “simulative process”, etc.) As a first stab, a (mental) simulation process is a cognitive process generating simulated mental states. RES+REU has the resources to capture this usage of “mental simulation” too. Indeed, RES+REU *implicitly* contains the following definition of “simulation process”:
 
-(PROC): Token process *P** is a (mental) simulation process if and only if:
+(PROC): Token process *P*\* is a (mental) simulation process if and only if:
 
-1. *P** generates token state *M**
-2. *M** resembles another token state, *M*, in some significant respects
-3. Both *M* and *M** are mental states
+1. *P*\* generates token state *M*\*
+2. *M*\* resembles another token state, *M*, in some significant respects
+3. Both *M* and *M*\* are mental states
 4. *M* is generated by token process *P*
-5. Both *P* and *P** are cognitive processes
+5. Both *P* and *P*\* are cognitive processes
 6. *P* is implemented by the *use* of a token cognitive mechanism of type *C*
-7. *P** is implemented by the *reuse* of a token cognitive mechanism of type *C*
+7. *P*\* is implemented by the *reuse* of a token cognitive mechanism of type *C*
 
 Go back to the case in which Lisa was having a visual experience of a yellow banana, while I was having a visual image of a yellow banana. Our two mental states resembled one another, but different cognitive processes generated them: *seeing* in Lisa’s case, and *visualizing* in my case. Moreover, Lisa’s *seeing* was implemented by the use of the visual mechanism, while my *visualizing* was implemented by its reuse. According to PROC, the latter cognitive process, but not the former, was thus a simulation process.
 
 To sum up, RES+REU captures many of the crucial features that Simulation Theorists ascribe to mental simulation. For this reason, we shall adopt it as our working definition of “mental simulation of”—consequently, we shall adopt PROC as a definition of “simulated mental state”.[^note-2] We can put this into a diagram.
 
-*Figure 1*
-
 ![[a diagram consisting of a hexagon labelled 'C' with an arrow labeled 'use' pointing to a diamond labeled 'P' on the upper left, an arrow points from this diamond up to a rectangle labeled 'M'. From the hexagon is also an arrow labeled 're-use' pointing to a diamond labeled 'P*' on the upper right, an arrow points from this diamond up to a rectangle labeled 'M*'. The two rectangles are connected by a dashed double-headed arrow labeled 'resemblance']](../assets/folkpsych-simulation/figure1.svg)
 
-Figure 1
+*Figure 1*
 
-The hexagon at the bottom depicts a cognitive mechanism *C* (it could be, say, the visual mechanism). When *C* is used (arrow on the left), it implements cognitive process *P* (say, seeing); when it is re-used (arrow on the right), it implements cognitive process *P** (say, visualizing). *P* generates mental state *M* (say, a visual experience of a red tomato), while *P** generates mental state *M** (say, a visual image of a red tomato). These two mental states (*M* and *M**) resemble one another. Given this: *M** is a *mental simulation of* *M*; *M** is a *simulated mental state*; and *P** is a *simulation process*.[^note-3]
+The hexagon at the bottom depicts a cognitive mechanism *C* (it could be, say, the visual mechanism). When *C* is used (arrow on the left), it implements cognitive process *P* (say, seeing); when it is re-used (arrow on the right), it implements cognitive process *P*\* (say, visualizing). *P* generates mental state *M* (say, a visual experience of a red tomato), while *P*\* generates mental state *M*\* (say, a visual image of a red tomato). These two mental states (*M* and *M*\*) resemble one another. Given this: *M*\* is a *mental simulation of* *M*; *M*\* is a *simulated mental state*; and *P*\* is a *simulation process*.[^note-3]
 
 ### 2.4 Final Worries
 
@@ -261,9 +259,9 @@ We shall elaborate on the details of the Constitution View in section 4.3. Befor
 
 In section 4.3, we will discuss how the defenders of the Constitution View have responded to this argument. Suppose for the moment that the Anti-Constitution argument is sound. What alternative pictures of simulation-based mindreading are available? Those Simulation Theorists who reject the Constitution View tend to endorse the *Causation View*, according to which mental simulation events never constitute mindreading events, but only *causally contribute* to them. The best developed version of this view is Goldman’s (2006) *Three-Stage Model* (again, this is our label, not his), whose basic structure is as follows:
 
-STAGE 1. *Mental simulation*: Subject *S* undergoes a simulation process, which outputs a token simulated mental state *m**.
+STAGE 1. *Mental simulation*: Subject *S* undergoes a simulation process, which outputs a token simulated mental state *m\**.
 
-STAGE 2. *Introspection*: *S* introspects *m** and categorizes/conceptualizes it *as* (a state of type) *M*.
+STAGE 2. *Introspection*: *S* introspects *m\** and categorizes/conceptualizes it *as* (a state of type) *M*.
 
 STAGE 3. *Judgment*: *S* attributes (a state of type) *M* to another subject, *Q*, through the judgment *Q* is in *M*.
 
@@ -346,7 +344,7 @@ On the face of it, ST and TT could not be more different from one another. Some 
 
 Dennett’s point is clear. If I imagine being, say, a bridge, what I imagine will depend on my theory of bridges. Suppose that I have a folk theory of bridges that contains the following principle: “A bridge cannot sustain a weight superior to its own weight”. In this case, if I imagine an elephant weighing three tons walking over a bridge weighing two tons, I will imagine the bridge collapsing. Since my “bridge-simulation” is entirely *theory-driven*, “simulation” is a misnomer. The same carries over to “simulating other people”s mental states’, Dennett says. If I try to imagine your mental states, what I imagine will depend entirely on my Theory of Mind. Therefore, the label “mental simulation” is misleading.
 
-Heal (1986) and Goldman (1989) promptly replied to Dennett. Fair enough, if a system *S* tries to simulate the state of a radically different system *Q* (e.g., if a human being tries to simulate the state of a bridge), then *S*’s simulation must be guided by a theory. However, if a system *S* tries to simulate the state of a *relevantly similar* system *S**, then *S*’s simulation can be entirely *process-driven*: to simulate the state which *S** is in, *S* simply has to run in itself a process similar to the one *S** underwent. Given that, for all intents and purposes, human beings are relevantly similar to each other, a human being can mentally simulate what follows from having another human being’s mental states without resorting to a body of theoretical knowledge about the mind’s inner workings. She will just need to reuse her own cognitive mechanisms to implement a simulation process.
+Heal (1986) and Goldman (1989) promptly replied to Dennett. Fair enough, if a system *S* tries to simulate the state of a radically different system *Q* (e.g., if a human being tries to simulate the state of a bridge), then *S*’s simulation must be guided by a theory. However, if a system *S* tries to simulate the state of a *relevantly similar* system *S*\*, then *S*’s simulation can be entirely *process-driven*: to simulate the state which *S*\* is in, *S* simply has to run in itself a process similar to the one *S*\* underwent. Given that, for all intents and purposes, human beings are relevantly similar to each other, a human being can mentally simulate what follows from having another human being’s mental states without resorting to a body of theoretical knowledge about the mind’s inner workings. She will just need to reuse her own cognitive mechanisms to implement a simulation process.
 
 This reply invited the following response (Jackson 1999)[^jackson-1999]. If the possibility of process-driven simulation is grounded in the similarity between the simulator and the simulated, then I have to assume that you are relevantly similar to me, when I mentally simulate your mental states. This particular assumption, in turn, will be derived from a *general principle*—something like “Human beings are psychologically similar”. Therefore, mental simulation is grounded in the possession of a theory. The threat of collapse is back! One reply to Jackson’s arguments is as follows (for other replies see Goldman 2006)[^goldman-2006]: the fact that process-driven simulation is *grounded* in the similarity among human beings does not entail that, in order to run a simulation, a simulator must know (or believe, or assume) that such similarity obtains; no more, indeed, than the fact that the solubility of salt is *grounded* in the molecular structure of salt entails that a pinch of salt needs to know chemistry to dissolve in water.
 
@@ -434,25 +432,25 @@ The authors would like to thank Tom Cochrane, Jeremy Dunham, Steve Laurence, and
 
 [^note-1]: More precisely, we shall adopt the following general rule to define “simulated mental state” in terms of “mental simulation of”:
 
-(RULE) A token state *M** is a simulated mental state if and only if there is another token state *M* such that: *M** is a mental simulation of M.
+(RULE) A token state *M*\* is a simulated mental state if and only if there is another token state *M* such that: *M*\* is a mental simulation of M.
 
 For example, by applying RULE to RES-1, we obtain the following definition of “simulated mental state”:
 
-(SIM) Token state *M** is a simulated mental state if and only if:
+(SIM) Token state *M*\* is a simulated mental state if and only if:
 
-1. (1) *M** resembles another token state, *M*, in some significant respects
-2. (2) Both *M* and *M** are mental states
+1. (1) *M*\* resembles another token state, *M*, in some significant respects
+2. (2) Both *M* and *M*\* are mental states
 
 [^note-2]: By applying RULE (see footnote 1) to RES+REU, we also obtain the following explicit definition of “simulated mental state”:
 
-(SIM+) Token state *M** is a simulated mental state if and only if:
+(SIM+) Token state *M*\* is a simulated mental state if and only if:
 
-1. *M** resembles another token state, *M*, in some significant respects
-2. Both *M* and *M** are mental states
+1. *M*\* resembles another token state, *M*, in some significant respects
+2. Both *M* and *M*\* are mental states
 3. *M* is generated by token cognitive process *P*
-4. *M** is generated by token cognitive process *P**
+4. *M*\* is generated by token cognitive process *P*\*
 5. *P* is implemented by the *use* of a token cognitive mechanism of type *C*
-6. *P** is implemented by the *reuse* of a token cognitive mechanism of type *C*
+6. *P*\* is implemented by the *reuse* of a token cognitive mechanism of type *C*
 
 Please notice that the relations among RES+REU, PROC, and SIM+ are such that:
 
@@ -462,7 +460,7 @@ Please notice that the relations among RES+REU, PROC, and SIM+ are such that:
 
 For this reason, we shall often swiftly move from one category to the other. When there is no need to draw any fine-grained distinction among these different notions, we shall use the expression “mental simulation” as a generic umbrella term. In section 4, we shall also use the expression “mental simulation events” to pick out *simulated mental states-or-simulation processes*.
 
-[^note-3]: Moreover, both *M** and *P** are *mental simulation events*.
+[^note-3]: Moreover, both *M*\* and *P*\* are *mental simulation events*.
 
 [^note-4]: To be precise, it is instances of higher-level simulation processes that have features (a) and (b). However, in order to simplify the exposition, we shall put the token/type distinction aside.
 

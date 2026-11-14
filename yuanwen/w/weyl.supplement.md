@@ -80,11 +80,9 @@ $$\begin{align} u_{q} - v_{q} &= v^{\,i}_{p} + \delta v^{\,i}_{p} - [v^{\,i}_{p}
 
 *is* a vector and is therefore a tensorial entity.
 
-*Figure 16:*
-
 ![figure](../assets/weyl/fig16.png)
 
-Figure 16: Covariant differentiation
+*Figure 16:* Covariant differentiation
 
 The covariant derivative can now be defined by the limiting process
 
@@ -96,11 +94,9 @@ $$\tag{56} \nabla_{k}v^{\,i} = \partial_{k}v^{\,i} + \Gamma^{i}_{jk}v^{\,j}. $$
 
 Weyl (1918b, §3.I.B) also provided a more synthetic argument to establish the symmetry of the affine connection. He considers two infinitesimal vectors $\overline{PP}_{1}$ and $\overline{PP}_{2}$ at a point $P$. The vector $\overline{PP}_{1}$ under parallel transport along $\overline{PP}_{2}$ goes into $\overline{P_{2}P}_{21}$. Similarly, the vector $\overline{PP}_{2}$ under parallel transport along $\overline{PP}_{1}$ goes into $\overline{P_{1}P}_{12}$. These relationships are illustrated in figure 17.
 
-*Figure 17:*
-
 ![figure](../assets/weyl/fig17.png)
 
-Figure 17: Symmetry of Parallel Transport
+*Figure 17:* Symmetry of Parallel Transport
 
 The condition imposed on parallel transport is that the four vectors $\overline{PP}_{1}$, $\overline{P_{1}P}_{12}$, $\overline{PP}_{2}$ and $\overline{P_{2}P}_{21}$ form a closed parallelogram; that is, the points $P_{12}$ and $P_{21}$ coincide. It follows that
 

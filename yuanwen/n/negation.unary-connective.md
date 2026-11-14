@@ -56,8 +56,6 @@ The subsequent table (notation adjusted) is taken from Wansing 2006 and lists se
 
 In Lenzen 1996 a certain non-derivability condition is suggested as a necessary property of any “real” negation $\neg$, namely that there exists a formula $A$ with $A \not \vdash \neg A$. This condition may be seen as a meta-level counterpart of a classically invalid principle characteristic of connexive logic, viz. Aristotle’s Thesis $\neg (A \rightarrow \neg A)$. A systematic study of negation in the context of multiple-conclusion consequence relations that takes into account non-derivability rules is Marcos 2005, where Lenzen’s condition is supplemented by also requiring that there exists a formula $A$ with $\neg A \not \vdash A$.
 
-*Table 1*
-
 |   | $\mathit \{ A, \neg A\}$ *is contradictory iff* | **CPL** | **IPL** | **N3** | **N4** | **MIN** |
 | --- | --- | --- | --- | --- | --- | --- |
 | [1] | $\vdash \neg (A \wedge \neg A )$, $\vdash A \vee \neg A $ | ✓ | – | – | – | – |
@@ -74,7 +72,7 @@ In Lenzen 1996 a certain non-derivability condition is suggested as a necessary 
 |   | $\neg \neg A \vdash A $, $\vdash \neg A \vee \neg \neg A $ | ✓ | – | – | – | – |
 |   | $\neg \neg A \vdash A$, $\vdash \neg (\neg A \wedge \neg \neg A )$ | ✓ | – | – | – | – |
 
-Table 1
+*Table 1*
 
 ### 4. Negation as falsity
 
