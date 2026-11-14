@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 2005,
-  "查无": 6865,
-  "不一致": 841,
-  "一致": 1171
+  "未查证": 1874,
+  "查无": 6993,
+  "不一致": 843,
+  "一致": 1172
  },
  "results": [
   {
@@ -171718,9 +171718,11 @@
    "term": "Moss, Lawrence S.",
    "trans": "Moss, Lawrence S.",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171728,9 +171730,11 @@
    "term": "Moss, Lenny",
    "trans": "莱尼·莫斯",
    "basis": "基因概念哲学家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171738,9 +171742,11 @@
    "term": "Mostert, Paul",
    "trans": "Mostert",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171748,9 +171754,11 @@
    "term": "Mostowski, Andrzej",
    "trans": "安杰伊·莫斯托夫斯基",
    "basis": "波兰",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171758,9 +171766,11 @@
    "term": "Mothersill, Mary",
    "trans": "马瑟希尔",
    "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171768,9 +171778,11 @@
    "term": "Motoori Haruniwa",
    "trans": "本居春庭",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171802,9 +171814,11 @@
    "term": "Mouffe, Chantal",
    "trans": "尚塔尔·墨菲",
    "basis": "后马克思主义理论家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171812,9 +171826,11 @@
    "term": "Mounier, Emmanuel",
    "trans": "埃马纽埃尔·穆尼耶",
    "basis": "法国人格主义哲学家；学界通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171822,9 +171838,11 @@
    "term": "Mourelatos, Alexander P.D.",
    "trans": "穆雷拉托斯",
    "basis": "学界通行（前苏格拉底研究名家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171832,9 +171850,11 @@
    "term": "Moutier, Jules",
    "trans": "朱尔·穆捷",
    "basis": "学界惯例（迪昂之师，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171842,9 +171862,11 @@
    "term": "Mozart",
    "trans": "莫扎特",
    "basis": "学界千年通行译名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171852,9 +171874,18 @@
    "term": "Mozart, Wolfgang Amadeus",
    "trans": "莫扎特（沃尔夫冈·阿马德乌斯·莫扎特）",
    "basis": "学界通行汉译（音乐史标准译名）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "莫扎特",
+     "en": "Mozart\",\"Wolfgang Amadeus(奥地利)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171876,9 +171907,11 @@
    "term": "Muir, John",
    "trans": "约翰·缪尔",
    "basis": "学界通行（美国自然保护运动）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171886,9 +171919,11 @@
    "term": "Muirhead, J. H.",
    "trans": "J. H. 缪尔黑德",
    "basis": "学界通行音译（英国观念论者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171910,9 +171945,11 @@
    "term": "Müller, Adam",
    "trans": "亚当·米勒",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171920,9 +171957,11 @@
    "term": "Muller, Hermann Joseph",
    "trans": "赫尔曼·约瑟夫·穆勒",
    "basis": "学界通行汉译（H. J. 穆勒）；与 John Stuart Mill 之“穆勒”异人并存；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171930,9 +171969,11 @@
    "term": "Müller, Johannes",
    "trans": "约翰内斯·缪勒（亦作“米勒”）",
    "basis": "学界通行汉译（德国生理学家，神经特殊能量定律提出者）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171940,9 +171981,11 @@
    "term": "Müller-Doohm, Stephan",
    "trans": "斯特凡·米勒-多姆",
    "basis": "学界通行汉译（《哈贝马斯传》作者，中译本沿用）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171950,9 +171993,11 @@
    "term": "Mulligan, Kevin",
    "trans": "凯文·马利根",
    "basis": "学界惯例音译（现象学与分析哲学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171960,9 +172005,11 @@
    "term": "Mullinger, James Bass",
    "trans": "James Bass Mullinger（现代学者，保留英文）",
    "basis": "ADR-0022（剑桥大学史作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171970,9 +172017,11 @@
    "term": "Munro, Thomas",
    "trans": "托马斯·芒罗",
    "basis": "学界通行（美国美学学会创始人；美学文献亦作“门罗”备查）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171980,9 +172029,11 @@
    "term": "Müntzer, Thomas",
    "trans": "托马斯·闵采尔",
    "basis": "学界通行汉译（德国农民战争）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171990,9 +172041,11 @@
    "term": "Murasaki Shikibu",
    "trans": "紫式部",
    "basis": "学界惯例（日本文学史通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172000,9 +172053,11 @@
    "term": "Murata Harukado",
    "trans": "村田春门",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172010,9 +172065,11 @@
    "term": "Murata Shukō",
    "trans": "村田珠光",
    "basis": "学界惯例（日本茶道史通行汉名；源文自注“村田珠光”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172020,9 +172077,11 @@
    "term": "Murdoch, Iris",
    "trans": "艾丽丝·默多克",
    "basis": "学界通行汉译（《善的至尊性》作者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172030,9 +172089,11 @@
    "term": "Murnighan, J. Keith",
    "trans": "J. Keith Murnighan（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（讨价还价实验）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172040,9 +172101,11 @@
    "term": "Murphy, Peter",
    "trans": "彼得·墨菲",
    "basis": "学界通行音译（安全说明批评）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172050,9 +172113,11 @@
    "term": "Murray, Sarah E.",
    "trans": "Murray, Sarah E.",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172060,9 +172125,11 @@
    "term": "Murris, Karen",
    "trans": "卡伦·穆里斯",
    "basis": "学界通行音译（图画书哲学研究者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172070,9 +172137,11 @@
    "term": "Murzi, Julien",
    "trans": "Murzi",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172080,9 +172149,11 @@
    "term": "Muskens, Reinhard",
    "trans": "Muskens, Reinhard",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172090,9 +172161,11 @@
    "term": "Muslim ibn al-Ḥajjāj",
    "trans": "穆斯林·本·哈贾吉",
    "basis": "学界通行（《穆斯林圣训实录》编者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172100,9 +172173,11 @@
    "term": "Mussato, Albertino",
    "trans": "阿尔贝蒂诺·穆萨托",
    "basis": "学界通行音译（前人文主义诗人、帕多瓦史家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172110,9 +172185,11 @@
    "term": "Mussolini, Benito",
    "trans": "贝尼托·墨索里尼",
    "basis": "法西斯主义领袖，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172120,9 +172197,11 @@
    "term": "Muyskens, James L.",
    "trans": "詹姆斯·缪斯肯斯",
    "basis": "音译（《希望的充足性》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172130,9 +172209,11 @@
    "term": "Myers, David N.",
    "trans": "戴维·迈尔斯",
    "basis": "构词直译（犹太史学史）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172140,9 +172221,11 @@
    "term": "Myhill, John",
    "trans": "Myhill（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（构造集合论）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172160,9 +172243,11 @@
    "term": "Nadler, Steven",
    "trans": "Steven Nadler（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（SDD 译本导论者，正文引 2005）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172170,9 +172255,11 @@
    "term": "Nāgārjuna",
    "trans": "龙树",
    "basis": "佛学界千年传统译名（汉译佛典古译，非新造）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172180,9 +172267,11 @@
    "term": "Nagasawa, Yujin",
    "trans": "Yujin Nagasawa（现代学者，保留英文）",
    "basis": "ADR-0022：亚洲姓氏直译非学界用名，保留英文（maximal God 论者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172190,9 +172279,11 @@
    "term": "Nagel, Ernest",
    "trans": "欧内斯特·内格尔",
    "basis": "学界通行汉译（《科学的结构》作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172200,9 +172291,11 @@
    "term": "Nagel, Thomas",
    "trans": "托马斯·内格尔",
    "basis": "学界通行汉译（《本然的观点》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172210,9 +172303,11 @@
    "term": "Nahmanides",
    "trans": "纳赫马尼德",
    "basis": "犹太思想史通行（摩西·本·纳赫曼）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172220,9 +172315,11 @@
    "term": "Namdev",
    "trans": "纳姆德夫",
    "basis": "学界通行（马拉地虔信诗人，GG 收录）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172230,9 +172327,11 @@
    "term": "Nanay, Bence",
    "trans": "本斯·纳奈",
    "basis": "音译（美学与心智）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172240,9 +172339,11 @@
    "term": "Nanyue Huairang",
    "trans": "南岳怀让",
    "basis": "佛学界通行汉译（马祖之师）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172250,9 +172351,11 @@
    "term": "Nardin, Terry",
    "trans": "特里·纳丁",
    "basis": "体例：现当代学者作者署名保留原文（ADR-0022）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172260,9 +172363,11 @@
    "term": "Narveson, Jan",
    "trans": "简·纳维森",
    "basis": "学界通行汉译（自由至上主义与契约主义，The Libertarian Idea 作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172270,9 +172375,11 @@
    "term": "Nasafī, ʿAzīz al-Dīn",
    "trans": "纳萨菲",
    "basis": "学界惯例（波斯苏菲作者，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172280,9 +172387,11 @@
    "term": "Nāṣir-i Khusraw",
    "trans": "纳赛尔·霍斯鲁",
    "basis": "伊斯玛仪哲学通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172290,9 +172399,11 @@
    "term": "Natorp, Paul",
    "trans": "保罗·那托普",
    "basis": "SUMMARY 定名沿用（n/natorp.md 作“那托普”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172300,9 +172411,11 @@
    "term": "Nausiphanes",
    "trans": "瑙西芬尼",
    "basis": "音译（伊壁鸠鲁早年之师，学界通行形）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172310,9 +172423,11 @@
    "term": "Neander, Karen",
    "trans": "卡伦·尼安德",
    "basis": "音译（目的论信息）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172320,9 +172435,11 @@
    "term": "Nebel, Jacob",
    "trans": "Jacob Nebel（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172330,9 +172447,11 @@
    "term": "Needham, Joseph",
    "trans": "李约瑟",
    "basis": "学界通行（《中国科学技术史》作者，汉名李约瑟）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172340,9 +172459,11 @@
    "term": "Negri, Sara",
    "trans": "Negri",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172350,9 +172471,11 @@
    "term": "Nehamas, Alexander",
    "trans": "亚历山大·内哈马斯",
    "basis": "学界惯例音译（美学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172360,9 +172483,11 @@
    "term": "Nel Noddings",
    "trans": "内尔·诺丁斯",
    "basis": "学界通行汉译（关怀伦理，《关心》中译本）；凭证 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172370,9 +172495,11 @@
    "term": "Nelkin, Dorothy",
    "trans": "多萝西·内尔金",
    "basis": "遗传本质主义批评者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172380,9 +172507,11 @@
    "term": "Nellie",
    "trans": "奈莉",
    "basis": "示例人名音译（词条例子）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172390,9 +172519,11 @@
    "term": "Nelson, Alan",
    "trans": "艾伦·纳尔逊",
    "basis": "学界通行（理性主义研究者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172400,9 +172531,11 @@
    "term": "Nelson, Leonard",
    "trans": "伦纳德·纳尔逊",
    "basis": "学界通行（新弗里斯学派代表，纳尔逊学派）；册内 Nelson 姓译名一致优先；凭证 2026-11-12（2026-11-13 撤维基措辞，ADR-0012）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": [],
+   "providers": [
+    "termonline-all"
+   ],
    "wiki": true
   },
   {
@@ -172411,9 +172544,11 @@
    "term": "Nemesius",
    "trans": "涅梅西乌斯",
    "basis": "学界通行汉译（《论人性》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172421,9 +172556,11 @@
    "term": "Nemicandra",
    "trans": "尼弥旃陀罗",
    "basis": "梵音自拟（《大雄教法之精髓》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172431,9 +172568,11 @@
    "term": "Neocles",
    "trans": "尼奥克勒斯",
    "basis": "音译（伊壁鸠鲁之父）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172441,9 +172580,11 @@
    "term": "Nerburn, Kent",
    "trans": "肯特·纳伯恩",
    "basis": "构词直译（北美原住民文化作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172451,9 +172592,11 @@
    "term": "Nero",
    "trans": "尼禄",
    "basis": "学界通行汉译（罗马皇帝）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172461,9 +172604,11 @@
    "term": "Neruda, Pablo",
    "trans": "巴勃罗·聂鲁达",
    "basis": "学界通行汉译（智利诗人，诺奖得主）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172471,9 +172616,11 @@
    "term": "Nestorius",
    "trans": "聂斯脱利",
    "basis": "教父学通行汉译（君士坦丁堡宗主教，二性二位论，《神学论著》V 批判对象）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172481,9 +172628,11 @@
    "term": "Neugebauer, Otto",
    "trans": "奥托·诺伊格鲍尔",
    "basis": "数学史与天文学史通行汉译；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172491,9 +172640,11 @@
    "term": "Neumann, John von / John von Neumann",
    "trans": "约翰·冯·诺伊曼",
    "basis": "学界千年通行汉译（冯·诺伊曼）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `John von Neumann`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172501,9 +172652,11 @@
    "term": "Neumann-Held, Eva",
    "trans": "伊娃·诺伊曼-黑尔德",
    "basis": "过程分子基因概念提出者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172511,9 +172664,11 @@
    "term": "Nevo, Eviatar",
    "trans": "埃维亚塔尔·内沃",
    "basis": "学界通行汉译（进化遗传学家，Haifa 大学）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172521,9 +172676,11 @@
    "term": "Newman, John Henry",
    "trans": "约翰·亨利·纽曼",
    "basis": "学界通行汉译（《大学的理念》中译本）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172531,9 +172688,30 @@
    "term": "Newton, Isaac",
    "trans": "艾萨克·牛顿",
    "basis": "学界千年通行译名",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "牛顿望远镜",
+     "en": "(1)Isaac Newton telescope; INT; (2)Newtonian telescope",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "牛顿望远镜Hα测光巡天",
+     "en": "Isaac Newton telescope photometric H-alpha survey",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "牛顿望远镜",
+     "en": "Isaac Newton Telescope\",\"INT",
+     "source": "海峡两岸天文学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172541,9 +172719,11 @@
    "term": "Ng, On-cho",
    "trans": "伍安祖",
    "basis": "本人汉名（宾夕法尼亚州立大学亚洲研究系与哲学系教授；豆瓣人物页、海外中国研究学者英汉名对照表）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172551,9 +172731,11 @@
    "term": "Ng, Yew-Kwang",
    "trans": "黄有光",
    "basis": "华裔经济学家本人汉名（Yew-Kwang Ng）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172561,9 +172743,11 @@
    "term": "Ngawang Chödrak",
    "trans": "阿旺却扎",
    "basis": "佛学界通行（Ngag dbang chos grags）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172571,9 +172755,11 @@
    "term": "Ngok Loden Shérap",
    "trans": "俄·罗丹喜饶",
    "basis": "佛学界通行（rNgog Blo ldan shes rab）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172581,9 +172767,11 @@
    "term": "Nguyen, Hung T.",
    "trans": "Nguyen",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172591,9 +172779,11 @@
    "term": "Niaoke",
    "trans": "鸟窠",
    "basis": "佛学界通行汉译（鸟窠道林禅师）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172601,9 +172791,11 @@
    "term": "Nicanor",
    "trans": "尼卡诺尔",
    "basis": "学界通行音译（据培尔记载的古代无神论者之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172611,9 +172803,18 @@
    "term": "Nicholas III",
    "trans": "尼古拉三世",
    "basis": "教皇名通译（约翰二十二世同系）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "RNA聚合酶III",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172621,9 +172822,11 @@
    "term": "Nicholas of Autrecourt",
    "trans": "奥特勒库尔的尼古拉",
    "basis": "学界惯例（14 世纪牛津）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172631,9 +172834,11 @@
    "term": "Nicholas of Cusa",
    "trans": "库萨的尼古拉",
    "basis": "学界通行汉译（《论有学识的无知》通行译名；corpus 既存多形择主）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172641,9 +172846,11 @@
    "term": "Nicholas of Otranto",
    "trans": "奥特朗托的尼古拉",
    "basis": "学界通行汉译（13 世纪抄手）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172651,9 +172858,11 @@
    "term": "Nicholas of Paris",
    "trans": "巴黎的尼古拉",
    "basis": "中世纪逻辑研究通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172661,9 +172870,11 @@
    "term": "Nicholas V / Nicholas V (antipope)",
    "trans": "尼古拉五世",
    "basis": "教宗名通译惯例（1447–1455 在位；与 1328 年对立教皇尼古拉五世别为一人，见上）；2026-11-13 重复行合并（旧键 `Nicholas V (antipope)`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172671,9 +172882,11 @@
    "term": "Nichols, Shaun / Shaun Nichols",
    "trans": "肖恩·尼科尔斯",
    "basis": "音译（想象与信念）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Shaun Nichols`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172681,9 +172894,11 @@
    "term": "Nicolas Bonet",
    "trans": "尼古拉·博内",
    "basis": "学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172691,9 +172906,11 @@
    "term": "Nicolas Dessaux",
    "trans": "尼古拉·德索",
    "basis": "学界通行音译（法方编者，正文方括号原文照录）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172701,9 +172918,11 @@
    "term": "Nicolas of Autrecourt",
    "trans": "奥特雷库尔的尼古拉",
    "basis": "学界惯例（巴黎艺学院硕士，地名+人名式）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172711,9 +172930,11 @@
    "term": "Nicolas Steno",
    "trans": "尼古拉·斯滕诺",
    "basis": "学界通行汉译（丹麦科学家-主教，亦作斯特诺）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172721,9 +172942,11 @@
    "term": "Nicolas, David",
    "trans": "David Nicolas",
    "basis": "无通行汉名，保留英文原名（该词条作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172731,9 +172954,11 @@
    "term": "Nicolaus Taurellus",
    "trans": "尼古拉斯·塔雷路斯",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：Springer《Encyclopedia of Renaissance Philosophy》“Taurellus, Nikolaus”条（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172741,9 +172966,11 @@
    "term": "Nicolovius",
    "trans": "尼科洛维乌斯",
    "basis": "学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172751,9 +172978,11 @@
    "term": "Nicomachus",
    "trans": "尼科马霍斯",
    "basis": "学界通行汉译（《算术引论》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172761,9 +172990,11 @@
    "term": "Nielsen, Kai",
    "trans": "凯·尼尔森",
    "basis": "学界通行音译（马克思主义与全球正义）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172771,9 +173002,11 @@
    "term": "Niethammer, Friedrich Immanuel",
    "trans": "弗里德里希·伊曼努埃尔·尼特哈默尔",
    "basis": "本词条首译（耶拿哲学家、教育官员）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172781,9 +173014,11 @@
    "term": "Nietzsche, Friedrich / Friedrich Nietzsche",
    "trans": "弗里德里希·尼采",
    "basis": "学界千年通行；2026-11-13 重复行合并（旧键 `Friedrich Nietzsche`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172791,9 +173026,11 @@
    "term": "Nifo, Agostino",
    "trans": "阿戈斯蒂诺·尼福",
    "basis": "学界通行音译（亚里士多德注释家）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172801,9 +173038,11 @@
    "term": "Nigam, Vivek",
    "trans": "Vivek Nigam",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172811,9 +173050,11 @@
    "term": "Niketas Choniates",
    "trans": "尼基塔斯·霍尼亚提斯",
    "basis": "学界通行汉译（拜占庭史家）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172821,9 +173062,11 @@
    "term": "Nisbett, Richard E.",
    "trans": "理查德·尼斯贝特",
    "basis": "学界通行汉译（正文作“尼斯贝特”）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172831,9 +173074,11 @@
    "term": "Nishida Kitarō",
    "trans": "西田几多郎",
    "basis": "学界惯例（日本哲学史通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172841,9 +173086,11 @@
    "term": "Nishimura",
    "trans": "Nishimura",
    "basis": "源文仅称姓（Nishimura 1979），保留英文；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172851,9 +173098,11 @@
    "term": "Nishitani Keiji",
    "trans": "西谷启治",
    "basis": "学界惯例（日本哲学史通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172861,9 +173110,11 @@
    "term": "Nissenbaum, Helen",
    "trans": "海伦·尼森鲍姆",
    "basis": "学界通行音译（语境完整性理论）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172871,9 +173122,11 @@
    "term": "Nissim ben Solomon",
    "trans": "尼西姆·本·所罗门",
    "basis": "音译（中世纪希伯来译者，无通行汉名）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172881,9 +173134,11 @@
    "term": "Nissim of Gerona",
    "trans": "赫罗纳的尼西姆",
    "basis": "犹太哲学史通行（依地名冠称）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172891,9 +173146,11 @@
    "term": "Nissim of Gerondi",
    "trans": "赫罗纳的尼西姆",
    "basis": "学界通行中译（14 世纪拉比，克雷斯卡斯之师）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172901,9 +173158,11 @@
    "term": "Nixon, Richard",
    "trans": "理查德·尼克松",
    "basis": "学界通行汉译（1972 年访华，司各脱节 Boler 之喻）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172911,9 +173170,11 @@
    "term": "Noble, C.",
    "trans": "Noble, C.（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（Phronesis 2024 波爱修斯预知论文作者，源文仅具 C.）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172921,9 +173182,11 @@
    "term": "Nodelman, Uri",
    "trans": "Uri Nodelman（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172931,9 +173194,11 @@
    "term": "Noether, Emmy",
    "trans": "埃米·诺特",
    "basis": "数学界通行汉译（抽象代数奠基人）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172941,9 +173206,11 @@
    "term": "Noguera, Carles",
    "trans": "Carles Noguera",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172951,9 +173218,11 @@
    "term": "Nohl, Herman",
    "trans": "赫尔曼·诺尔",
    "basis": "学界通行音译（狄尔泰学生与遗著编者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172961,9 +173230,11 @@
    "term": "Nolan, Daniel",
    "trans": "丹尼尔·诺兰",
    "basis": "音译（模态认识论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172971,9 +173242,11 @@
    "term": "Nordhaus, William",
    "trans": "威廉·诺德豪斯",
    "basis": "学界通行汉译（DICE 模型，诺贝尔经济学奖）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172993,9 +173266,11 @@
    "term": "Normore, Calvin",
    "trans": "卡尔文·诺莫尔",
    "basis": "学界惯例（加州大学洛杉矶分校中世纪哲学家，音译）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173003,9 +173278,11 @@
    "term": "Norris, John / John Norris",
    "trans": "约翰·诺里斯",
    "basis": "学界通行汉译（英格兰马勒布朗士派哲人）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `John Norris`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173013,9 +173290,11 @@
    "term": "Nouwen, Rick",
    "trans": "Nouwen, Rick",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173023,9 +173302,11 @@
    "term": "Novák, Vilém",
    "trans": "Novák",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173033,9 +173314,11 @@
    "term": "Novalis",
    "trans": "诺瓦利斯",
    "basis": "学界通行汉译（本名哈登贝格）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173043,9 +173326,11 @@
    "term": "Novalis (Friedrich von Hardenberg)",
    "trans": "诺瓦利斯（弗里德里希·冯·哈登贝格）",
    "basis": "补注本名；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173053,9 +173338,11 @@
    "term": "Novara, Domenico Maria",
    "trans": "多梅尼科·马里亚·诺瓦拉",
    "basis": "学界通行音译（博洛尼亚天文学教授，哥白尼之师）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173063,9 +173350,11 @@
    "term": "Noxon, James",
    "trans": "诺克森",
    "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173073,9 +173362,11 @@
    "term": "Nozick, Robert",
    "trans": "罗伯特·诺齐克",
    "basis": "学界通行汉译（《无政府、国家与乌托邦》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173083,9 +173374,11 @@
    "term": "Numenius",
    "trans": "努梅尼乌斯",
    "basis": "学界通行汉译（阿帕梅亚的努梅尼乌斯，2 世纪中期柏拉图主义者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -173093,9 +173386,11 @@
    "term": "Nurī, Mullā ʿAlī",
    "trans": "穆拉·阿里·努里",
    "basis": "德黑兰学派通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

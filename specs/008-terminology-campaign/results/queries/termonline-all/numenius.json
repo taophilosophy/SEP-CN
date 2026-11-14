@@ -1,0 +1,26 @@
+{
+ "key": "numenius",
+ "term": "Numenius",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T12:19:59+00:00",
+ "status": "ok",
+ "note": "variant=Numenius; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "灵台",
+   "en": "numinous observatory",
+   "code": "05.278",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学史"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "code": "05.0125",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
