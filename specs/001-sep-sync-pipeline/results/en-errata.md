@@ -274,3 +274,6 @@
 | kant-hume-morality | robinson-2017 `2017 (eds.), 2017` | `(eds.), 2017` | 年份重复（①） |
 | kant-hume-morality | `Suprenant`（5 处） | `Surprenant` | 拼写（①） |
 | kant-hume-morality | [H]/[C]/[M]/[V] 说明段起 `(` 未闭 | 补 `)` | 括号未闭合（①） |
+| kant-reason | møller-2020 `…in the</em> Critique of Pure Reason.` | `…in the Critique of Pure Reason</em>,` | 斜体提前收束（①） |
+| kant-reason | rescher-2000 `Reach of Reason:</em> <em>Studies in…` | 合为一处斜体 | 题名被拆成两段斜体（①） |
+| kant-reason | notes 注 35 `simply (?) as considerations` | `simply as considerations` | 作者遗留问号占位（①） |
