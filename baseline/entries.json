@@ -13651,6 +13651,53 @@
       }
     },
     {
+      "slug": "bioethics-moral-reasoning",
+      "fetched_at": "2026-11-14T23:34:38Z",
+      "source_url": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
+      "title": "Bioethics and Moral Reasoning",
+      "authors": [
+        "Flynn, Jennifer"
+      ],
+      "pubinfo": {
+        "first_published": "Nov 5, 2026",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "b/bioethics-moral-reasoning.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/bioethics-moral-reasoning/index.html",
+          "sha256": "b39ced063f4a8d4a0efc7ea31fda0c393e536f1bbb76cff4269cce6aaa170a10",
+          "bytes": 89026,
+          "kind": "main"
+        },
+        {
+          "path": "en/bioethics-moral-reasoning/notes.html",
+          "sha256": "829675180e231755cc5de3661a4023d7113bbaba04bf38f57fd0c45199850c71",
+          "bytes": 14749,
+          "kind": "notes"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/b/bioethics-moral-reasoning.md",
+        "sha256": "cd2c5bbc51e12ade3a92a4310ac736aa20eab901fc8eb703377192d8dd22c128",
+        "source_sha256": "b39ced063f4a8d4a0efc7ea31fda0c393e536f1bbb76cff4269cce6aaa170a10",
+        "converted_at": "2026-11-14T23:35:23Z",
+        "cite_markers": 143,
+        "cite_defs": 97,
+        "supplements": [],
+        "images": [],
+        "notes": 4
+      }
+    },
+    {
       "slug": "biology-developmental",
       "fetched_at": "2026-10-26T20:34:52Z",
       "source_url": "https://plato.stanford.edu/entries/biology-developmental/",
@@ -151674,5 +151721,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T23:17:13Z"
+  "updated_at": "2026-11-14T23:35:23Z"
 }

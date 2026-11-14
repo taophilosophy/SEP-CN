@@ -299,6 +299,7 @@
 * [\*生物多样性——见生态学：生物多样性 biodiversity — see ecology: biodiversity](b/biodiversity.md)
 * [\*生命伦理学 bioethics](README.md)
   * [拉丁美洲的生命伦理学 Bioethics in Latin America (Gustavo Ortiz Millán、Florencia Luna、Eduardo Rivera López)](b/bioethics-latin-america.md)
+  * [生命伦理学与道德推理 Bioethics and Moral Reasoning (Jennifer Flynn)](b/bioethics-moral-reasoning.md)
 * [发育生物学 Developmental Biology (Alan Love、Yoshinari Yoshida)](b/biology-developmental.md)
   * [生物发育的理论 Theories of Biological Development (Melinda Bonnie Fagan、Jane Maienschein)](t/theories-biological-development.md)
 * [生物学个体 Biological Individuals (Robert A. Wilson、Matthew J. Barker)](b/biology-individual.md)

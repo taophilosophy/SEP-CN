@@ -169,6 +169,19 @@ def report():
 
 # -------------------------------------------------------------- apply-add ---
 
+def _display_authors(authors):
+    """entries.json 存倒置形（Last, First），SUMMARY 显示惯例为自然序 + 顿号连接
+    （2026-11-15：Flynn, Jennifer 误渲染实证，倒序显示为工具缺陷）。"""
+    out = []
+    for a in authors or []:
+        if ',' in a:
+            last, _, first = a.partition(',')
+            out.append('%s %s' % (first.strip(), last.strip()))
+        else:
+            out.append(a)
+    return '、'.join(out)
+
+
 def apply_add(slug, title_zh, file_name=None):
     rec = entry_from_baseline(slug)
     if rec is None:
@@ -181,7 +194,7 @@ def apply_add(slug, title_zh, file_name=None):
     if os.path.exists(full):
         raise Precondition('目标文件已存在: %s' % rel)
     title_en = rec['title']
-    authors = ', '.join(rec.get('authors') or [])
+    authors = _display_authors(rec.get('authors'))
     link_text = ('%s %s (%s)' % (title_zh, title_en, authors)) if authors \
         else ('%s %s' % (title_zh, title_en))
 
