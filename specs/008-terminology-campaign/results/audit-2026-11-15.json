@@ -7,10 +7,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8772,
+  "查无": 8773,
   "一致": 1325,
-  "不一致": 790,
-  "未查证": 1
+  "不一致": 790
  },
  "results": [
   {
@@ -178004,9 +178003,11 @@
    "term": "Peter of Spain",
    "trans": "西班牙的彼得（彼得·希斯帕努斯）",
    "basis": "学界通行汉译；作者真实身份为源文考据难题（长期认作后为教皇约翰二十一世之葡萄牙人，另有西班牙多明我会士说与 Petrus Ferrandi Hispanus 说，源文并陈）；日志 2024-05-20 考据",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "人名",
