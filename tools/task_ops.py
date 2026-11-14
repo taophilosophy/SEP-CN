@@ -7,7 +7,7 @@
   pending → cleared → drafted → s1_checked → s2_checked → s3_checked
           → r1_reviewed → r2_reviewed → r3_reviewed → done
 状态机（update）: pending → s1_checked(仅变更段) → s2_checked(变更段所在节)
-          → s3_checked(全文档) → r1 → r2 → r3 → done
+          → s3_checked(全文档) → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
 退出码: 0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。
 """
@@ -164,19 +164,24 @@ def _clear_gate(slug):
 
 
 def _academic_gate(zh_doc, step):
-    """学术规范门禁挂钩（rules/07 衔接表、specs/003）：s3/r3 校次须 0 硬错误。
+    """s3/r3 校次门禁挂钩：check_academic --strict 0 硬错误（rules/07、specs/003）
+    ＋ check_math_zh --strict 0 硬错误（021 九类公式体例，D26 接线）。
 
     词汇表维护任务（glossary-maintenance）与无 zh_doc 的 intake 条目不设门。
     """
     if not zh_doc:
         return
-    tool = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
-                         "tools", "check_academic.py")
-    r = subprocess.run([sys.executable, tool, "--docs", zh_doc, "--strict"],
-                       capture_output=True, text=True)
-    if r.returncode == 1:
-        raise PreconditionError("学术规范门禁未通过（%s 校次）：%s"
-                                % (step, r.stdout.strip()[-800:]))
+    tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                              "tools")
+    for script, args, label in (
+            ("check_academic.py", ["--docs", zh_doc, "--strict"], "学术规范"),
+            ("check_math_zh.py", [zh_doc, "--strict"], "公式体例"),
+    ):
+        r = subprocess.run([sys.executable, _os.path.join(tools_dir, script)] + args,
+                           capture_output=True, text=True)
+        if r.returncode == 1:
+            raise PreconditionError("%s门禁未通过（%s 校次）：%s"
+                                    % (label, step, r.stdout.strip()[-800:]))
 
 
 def _independence_gate(task, actor, evidence):
