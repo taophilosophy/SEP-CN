@@ -7,9 +7,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 1272,
-  "一致": 1192,
-  "查无": 7568,
+  "查无": 7567,
+  "未查证": 1238,
+  "一致": 1227,
   "不一致": 850
  },
  "results": [
@@ -19,9 +19,11 @@
    "term": "alternation of quantifiers",
    "trans": "量词交替",
    "basis": "数理逻辑通行（量词交错层级）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -39,9 +41,18 @@
    "term": "aṣālat al-māhiyyah",
    "trans": "本质的实在性（principality of essence）",
    "basis": "伊斯兰哲学通行（asāla 实在性义；伊斯法罕学派论争术语；与 aṣālat al-wujūd 对举）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "本质的实在性",
+     "en": "aṣālat al-māhiyyah",
+     "source": "萨德拉研究文献对举形“本质优先”亦通行（与 aṣālat al-wujūd 批一证据同源）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -13993,9 +14004,18 @@
    "term": "Boolean prime ideal theorem",
    "trans": "布尔素理想定理",
    "basis": "学界通行（布尔代数）；缩写 BPI 照录",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "布尔素理想定理",
+     "en": "Boolean prime ideal theorem",
+     "source": "中文布尔代数文献与 BPI 等价性证明材料通行"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -17897,9 +17917,18 @@
    "term": "choice function",
    "trans": "选择函数",
    "basis": "学界通行（集合论）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "选择函数",
+     "en": "choice function",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -17941,9 +17970,18 @@
    "term": "choice set",
    "trans": "选择集",
    "basis": "学界通行（与 transversal 横截同指异名，照源并用）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "选择集",
+     "en": "choice set",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -23653,19 +23691,37 @@
    "term": "constructible hierarchy",
    "trans": "可构造分层",
    "basis": "学界通行（哥德尔可构造宇宙；可构造集）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "可构造分层",
+     "en": "constructible hierarchy",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络（哥德尔可构造宇宙 L 语境）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
    "line": 1079,
    "term": "constructible universe",
-   "trans": "可构造宇宙",
-   "basis": "学界通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "可构造宇宙（亦作“可构成集”）",
+   "basis": "学界通行；2026-11-15 联网复核（Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译脉络；Jech 译本作“可构成集”，降为亦作）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "可构造宇宙",
+     "en": "constructible universe",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络；Jech 译本作“可构成集”"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -23741,9 +23797,18 @@
    "term": "constructive dependent type theory",
    "trans": "构造性依赖类型论",
    "basis": "学界通行（依赖类型论；Martin-Löf 构造性）；缩写 CDTT 照录",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "构造性依赖类型论",
+     "en": "constructive dependent type theory",
+     "source": "Martin-Löf 构造性依赖类型论中文文献构词"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -27835,11 +27900,20 @@
    "table": "术语",
    "line": 1280,
    "term": "dependent choice, principle of",
-   "trans": "依赖性选择原理",
-   "basis": "学界通行（依赖选择；Bernays 1942、Tarski 1948 语境）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "依赖性选择原理（亦作“依赖选择公理”）",
+   "basis": "学界通行（依赖选择；Bernays 1942、Tarski 1948 语境）；2026-11-15 联网复核补亦作（DC 通行名“依赖选择公理”，照源 principle 取原理形为主）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "依赖选择公理",
+     "en": "principle of dependent choice",
+     "source": "DC 通行名“依赖选择公理”；照源 principle 取原理形"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -27847,9 +27921,18 @@
    "term": "dependent product",
    "trans": "依赖积",
    "basis": "类型论通行（Π 型）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "依赖积",
+     "en": "dependent product",
+     "source": "国内类型论文献通行（Π 型；亦作“依赖乘积类型”）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -27857,9 +27940,18 @@
    "term": "dependent sum",
    "trans": "依赖和",
    "basis": "类型论通行（Σ 型；与 coproduct 余积对举）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "依赖和",
+     "en": "dependent sum",
+     "source": "国内类型论文献通行（Σ 型；亦作“依赖和类型”）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -27867,9 +27959,18 @@
    "term": "dependent type",
    "trans": "依赖类型",
    "basis": "类型论通行（依值类型）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "依赖类型",
+     "en": "dependent type",
+     "source": "国内类型论文献与教学资料通行（Π/Σ 依值系）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -31397,11 +31498,20 @@
    "table": "术语",
    "line": 1472,
    "term": "disjoint union",
-   "trans": "无交并",
-   "basis": "数学通行（与 coproduct 余积同指）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "无交并（亦作“不交并”）",
+   "basis": "数学通行（与 coproduct 余积同指）；2026-11-15 联网复核补亦作（中文两形并行，无完全统一）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "无交并",
+     "en": "disjoint union",
+     "source": "中文两形并行：无交并（社区/文献）与不交并（维基系）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -33467,11 +33577,20 @@
    "table": "术语",
    "line": 1581,
    "term": "estimative faculty",
-   "trans": "估算官能",
-   "basis": "译名裁定（伊本·西那 wahm 之通行英译，学界义译）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "估算官能（亦作“估计官能”）",
+   "basis": "译名裁定（伊本·西那 wahm 之通行英译，学界义译）；2026-11-15 联网复核补亦作（中译本《治疗论》作“估计（官能）”，与“臆想/评价能力”并见）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "估计官能",
+     "en": "estimative faculty (wahm)",
+     "source": "中译本《治疗论》作“估计（官能）”；亦见“臆想/评价能力”"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -52526,9 +52645,18 @@
    "term": "hereditarily ordinal definable sets",
    "trans": "遗传序数可定义集",
    "basis": "学界通行（HOD）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "遗传序数可定义集",
+     "en": "hereditarily ordinal definable sets",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络（HOD）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -57893,9 +58021,18 @@
    "term": "indexed family",
    "trans": "索引集族",
    "basis": "学界通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "索引集族",
+     "en": "indexed family",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -57903,9 +58040,18 @@
    "term": "index set",
    "trans": "索引集",
    "basis": "学界通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "索引集",
+     "en": "index set",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -57913,9 +58059,18 @@
    "term": "intensionality",
    "trans": "内涵性",
    "basis": "学界通行（与外延性对举）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "内涵性",
+     "en": "intensionality",
+     "source": "逻辑学通行（与外延性对举）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -63735,9 +63890,18 @@
    "term": "Jalali calendar",
    "trans": "贾拉利历",
    "basis": "伊斯兰天文学史通行（贾拉勒丁·马利克沙朝所颁；Malikī 或作马利基历）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "贾拉利历",
+     "en": "Jalali calendar",
+     "source": "天文学史文献通行“贾拉利历”（亦作贾拉勒历/杰拉里历，又称波斯历/太阳历）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -66099,10 +66263,19 @@
    "line": 3004,
    "term": "Krein–Milman theorem",
    "trans": "克莱因—米尔曼定理",
-   "basis": "学界通行（凸分析；Krein 汉名与 Klein 同形克莱因，定理名整体登记）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行（凸分析；Krein 汉名与 Klein 同形克莱因，定理名整体登记）；2026-11-15 联网复核（夏道行《泛函分析》、Rudin 中译脉络；亦见“克赖因-米尔曼”形， Krein 音译用字差异保留现行）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "克莱因—米尔曼定理",
+     "en": "Krein–Milman theorem",
+     "source": "夏道行《泛函分析》、Rudin《Functional Analysis》中译、熊金城《点集拓扑讲义》脉络（亦见“克赖因-米尔曼”形）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -69584,10 +69757,19 @@
    "line": 3182,
    "term": "Löwenheim–Skolem–Tarski theorem",
    "trans": "勒文海姆—斯科伦—塔斯基定理",
-   "basis": "学界通行（模型论）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行（模型论）；2026-11-15 联网复核（全称通行，文献常用简称 LST 定理；Skolem 亦作“司寇伦”，保留现行斯科伦形）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "勒文海姆—斯科伦—塔斯基定理",
+     "en": "Löwenheim–Skolem–Tarski theorem",
+     "source": "模型论文献全称通行，简称 LST 定理；Skolem 亦作“司寇伦”"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -78116,9 +78298,18 @@
    "term": "Necessary Existent / Necessary Existence",
    "trans": "必然存在者／必然存在",
    "basis": "伊斯兰哲学通行（=wājib al-wujūd 必然存在者；-ence 形指存在本身）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "必然存在者",
+     "en": "Necessary Existent (wājib al-wujūd)",
+     "source": "伊本·西纳《治疗之书》区分必然存在者/可能存在者，中文学界通行“必然存在者”（亦作“必然者”）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -84415,9 +84606,18 @@
    "term": "ordinal definable sets",
    "trans": "序数可定义集",
    "basis": "学界通行（OD）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "序数可定义集",
+     "en": "ordinal definable sets",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -85622,7 +85822,7 @@
    "line": 3988,
    "term": "per se accidents",
    "trans": "自身偶性",
-   "basis": "亚里士多德研究通行义译（kath’ hauto 偶性）",
+   "basis": "义译（2026-11-15 依据列更正：原记“通行义译”失实——中文学界 kath’ hauto 译法未统一，见“依自身/就其自身/因自身/本质地”诸形，per se/per accidens 亦常保留拉丁；本条取义译并与 lawāzim 伴随项行对举）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -85633,9 +85833,18 @@
    "term": "permutation model",
    "trans": "置换模型",
    "basis": "学界通行（Fraenkel 置换方法）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "置换模型",
+     "en": "permutation model",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络（Fraenkel 置换方法）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -93108,9 +93317,18 @@
    "term": "predicative comprehension",
    "trans": "直谓概括",
    "basis": "学界通行（构造性数学；2026-11-13 册内归一取直谓系：predicative 直谓的、predicativity 直谓性已先行裁定）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "直谓概括",
+     "en": "predicative comprehension",
+     "source": "国内类型论/构造性数学文献通行（直谓的 predicative 系）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -94997,9 +95215,18 @@
    "term": "propositions-as-types",
    "trans": "命题即类型",
    "basis": "学界通行（Curry–Howard 对应语境）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "命题即类型",
+     "en": "propositions as types",
+     "source": "国内类型论社区与文献通行（Curry–Howard 对应）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -97079,9 +97306,18 @@
    "term": "psuchê (ψυχή)",
    "trans": "灵魂（保留希腊原词括注）",
    "basis": "学界惯例（古希腊哲学研究通行；与 soul“灵魂”同形分条留痕）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "灵魂",
+     "en": "psuchê",
+     "source": "商务印书馆吴寿彭译《灵魂论及其他》等以“灵魂”对应 ψυχή，通行（保留希腊原词括注为古典学惯例）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -103994,9 +104230,18 @@
    "term": "right inverse",
    "trans": "右逆",
    "basis": "数学通行（与满射 surjection 对举）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "右逆",
+     "en": "right inverse",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络（与满射对举）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -111802,10 +112047,19 @@
    "line": 5203,
    "term": "Sikorski extension theorem",
    "trans": "西科尔斯基扩张定理",
-   "basis": "学界通行（布尔代数）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行（布尔代数）；2026-11-15 联网复核（姓氏形“西科尔斯基”通行（Rasiowa–Sikorski 引理中文词条同）；完整定理名中文文献亦常保留英文形，照源登记）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "西科尔斯基扩张定理",
+     "en": "Sikorski extension theorem",
+     "source": "姓氏形“西科尔斯基”通行（Rasiowa–Sikorski 引理中文词条同）；完整定理名中文文献亦常保留英文形，照源登记"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -112103,11 +112357,20 @@
    "table": "术语",
    "line": 5225,
    "term": "singleton",
-   "trans": "单元素集",
-   "basis": "学界通行（与 singleton set 同形并入）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "单元素集（亦作“单点集”）",
+   "basis": "学界通行（与 singleton set 同形并入）；2026-11-15 联网复核补亦作（集合论文献两形并用）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "单元素集",
+     "en": "singleton",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络；亦作“单点集”两形并行"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -118041,10 +118304,18 @@
    "term": "structural rule / structural rules",
    "trans": "结构规则",
    "basis": "子结构逻辑通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `structural rules`）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "结构规则",
+     "en": "structural rules",
+     "source": "子结构逻辑文献通译“结构规则”（交换/弱化/收缩），无竞争译名"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -120663,9 +120934,18 @@
    "term": "symmetric model",
    "trans": "对称模型",
    "basis": "学界通行（有限支撑对称性）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "对称模型",
+     "en": "symmetric model",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络（有限支撑对称性）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -121378,9 +121658,18 @@
    "term": "tanāsukh",
    "trans": "灵魂转世",
    "basis": "伊斯兰研究通行义译（与 metemsomatosis 灵魂转生 行同义异键）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "灵魂转世",
+     "en": "tanāsukh",
+     "source": "伊斯兰研究通行义译“灵魂转世/转世说”"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -121400,9 +121689,18 @@
    "term": "true class",
    "trans": "真类",
    "basis": "学界通行（proper class）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "真类",
+     "en": "proper class / true class",
+     "source": "Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译、郝兆宽杨跃《集合论》（复旦）脉络"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",
@@ -127224,10 +127522,18 @@
    "term": "truth condition / truth conditions",
    "trans": "真值条件",
    "basis": "逻辑学通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `truth conditions`）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "真值条件",
+     "en": "truth conditions",
+     "source": "语义学/逻辑学标准译名"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -128120,9 +128426,18 @@
    "term": "Tychonoff theorem",
    "trans": "吉洪诺夫定理",
    "basis": "学界通行（拓扑学）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "吉洪诺夫定理",
+     "en": "Tychonoff theorem",
+     "source": "夏道行《泛函分析》、Rudin《Functional Analysis》中译、熊金城《点集拓扑讲义》脉络（亦见“吉洪洛夫”形）"
+    }
+   ],
+   "providers": [
+    "web-authority"
+   ]
   },
   {
    "table": "术语",

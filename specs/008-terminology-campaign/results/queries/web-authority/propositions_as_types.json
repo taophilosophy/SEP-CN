@@ -1,0 +1,15 @@
+{
+ "key": "propositions-as-types",
+ "term": "propositions-as-types",
+ "provider": "web-authority",
+ "queried_at": "2026-11-15T00:30:00+08:00",
+ "status": "ok",
+ "note": "2026-11-15 联网复核（档③）；保留现译；非术语在线通道（ADR-0012 档②③）",
+ "hits": [
+  {
+   "cn": "命题即类型",
+   "en": "propositions as types",
+   "standard": "国内类型论社区与文献通行（Curry–Howard 对应）"
+  }
+ ]
+}

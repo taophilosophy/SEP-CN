@@ -36,6 +36,23 @@
 * **费英格词条 4 行**（as if/genuine fiction/half-fiction/idealistic positivism）：凭证注记 2026-11-14，归词条在途线落凭证；
 * **可联网复核类**（约 38 行）：数学/逻辑标准词（choice function 选择函数、singleton 单元素集、constructible universe 可构造宇宙等）与本批同法逐批锚定，后续批次续作。
 
+## 裁定批次二（2026-11-15，36 行联网锚定 + 9 行登记编辑）
+
+按主题合并检索（集合论/定理名/类型论/数理逻辑/伊斯兰与古典五组），36 份 web-authority 凭证落库；审计 一致 1192→1227。登记编辑九处：
+
+* **补亦作五处**：constructible universe（可构成集，Jech 中译形）、singleton（单点集）、dependent choice, principle of（依赖选择公理，DC 通行名）、estimative faculty（估计官能，《治疗论》中译本形）、disjoint union（不交并，中文两形并行）；
+* **依据列更正一处**：per se accidents「通行义译」失实——kath’ hauto 中文学界译法未统一（依自身/就其自身/因自身/本质地，per se/per accidens 常保留拉丁），改为义译注记（零信任自查出的一处依据失实）；
+* **依据列补注三处**：Krein–Milman（克赖因变体）、Löwenheim–Skolem–Tarski（LST 简称/司寇伦变体）、Sikorski（完整名常保留英文形）；
+* Banach–Tarski paradox（球体悖论分解）与自铸/义译类 ~21 行**不落凭证**：本词条译名或译法未统一，登记裁定即证据，凭证只录实证（不造相符假象）。
+
+## 未查证余量分类（2026-11-15 00:3x，术语侧）
+
+* 已联网锚定：批一 10 + 批二 36 行；费英格 4 行归词条在途线；
+* 自铸/义译无外源类 ~21 行：登记裁定即证据（含 kuzah、monotype、nest、WESP 等），**挂起不再复核**；
+* wujūb 必然化、taklīf 义务、lawāzim 伴随项、concomitant、quiddative：作者语境义译，同上挂起；
+* ψ-ontic：凭证注记在案（Harrigan & Spekkens 2010），归词条线核对。
+
 ## 上报事项
 
 1. **SUMMARY 定名变更候选**：「塔尔斯基的真理定义」→「塔尔斯基的真之定义」（当代通行转移，见第 5930 行裁定）；改名涟漪：SUMMARY 两处互见 + 词条题名 + 登记册主译。
+2. **依据失实整改示例**：per se accidents 行原「通行义译」表述与检索结果不符，已更正——建议后续对存量「学界通行」类依据列做同类抽验（本批抽验 36 行，另见 1 处失实：无）。

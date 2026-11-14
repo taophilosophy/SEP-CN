@@ -1076,7 +1076,7 @@
 | constitutive subjectivity | — | 构成性主体性 | adorno | 学界通行汉译（阿多诺/观念论研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | construal | — | 构解（罗伯茨情感哲学：依关切把处境“看作”的领会方式） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学文献直译+括注）；凭证 2026-11-04 | 2026-11-04 |
 | constructible hierarchy | — | 可构造分层 | axiom-choice | 学界通行（哥德尔可构造宇宙；可构造集） | 2026-11-13 |
-| constructible universe | — | 可构造宇宙 | axiom-choice | 学界通行 | 2026-11-13 |
+| constructible universe | — | 可构造宇宙（亦作“可构成集”） | axiom-choice | 学界通行；2026-11-15 联网复核（Jech《集合论——对无穷概念的探索》高等教育出版社中译、Kunen《集合论：独立性证明导引》中译脉络；Jech 译本作“可构成集”，降为亦作） | 2026-11-15 |
 | construction | — | 构式 | innateness-cognition | 学界通行（构式语法）；凭证 2026-11-12 | 2026-11-12 |
 | construction grammar | — | 构式语法 | innateness-cognition | 学界通行（Tomasello）；凭证 2026-11-12 | 2026-11-12 |
 | constructive | — | 构造性的 | 语料回收（词汇表并网） | 数学哲学语境；constructivism 才是“构造主义”（亦译“建构主义”）；词汇表并网（ADR-0036） | 2026-11-13 |
@@ -1277,7 +1277,7 @@
 | De methodis | — | 《论方法》（*De methodis*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
 | De natura logicae | — | 《论逻辑的本性》（*De natura logicae*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
 | De naturalis scientiae constitutione | — | 《论自然科学的构造》（*De naturalis scientiae constitutione*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
-| dependent choice, principle of | — | 依赖性选择原理 | axiom-choice | 学界通行（依赖选择；Bernays 1942、Tarski 1948 语境） | 2026-11-13 |
+| dependent choice, principle of | — | 依赖性选择原理（亦作“依赖选择公理”） | axiom-choice | 学界通行（依赖选择；Bernays 1942、Tarski 1948 语境）；2026-11-15 联网复核补亦作（DC 通行名“依赖选择公理”，照源 principle 取原理形为主） | 2026-11-15 |
 | dependent product | — | 依赖积 | axiom-choice（补充材料） | 类型论通行（Π 型） | 2026-11-13 |
 | dependent sum | — | 依赖和 | axiom-choice（补充材料） | 类型论通行（Σ 型；与 coproduct 余积对举） | 2026-11-13 |
 | dependent type | — | 依赖类型 | axiom-choice（补充材料） | 类型论通行（依值类型） | 2026-11-13 |
@@ -1469,7 +1469,7 @@
 | disinformation | — | 虚假信息 | risk | 学界惯例（传播学与科学政策通行）；凭证 2026-11-09 | 2026-11-09 |
 | disinterested pleasure | — | 无利害的愉悦 | 首现（erotic-art；与 disinterestedness 无利害性 同族） | 康德美学通行（亦作“无利害愉悦”） | 2026-11-08 |
 | disinterestedness | — | 无利害性 | landmann-kalischer | 康德美学通行（亦作“无兴趣”备查） | 2026-11-04 |
-| disjoint union | — | 无交并 | axiom-choice（补充材料） | 数学通行（与 coproduct 余积同指） | 2026-11-13 |
+| disjoint union | — | 无交并（亦作“不交并”） | axiom-choice（补充材料） | 数学通行（与 coproduct 余积同指）；2026-11-15 联网复核补亦作（中文两形并行，无完全统一） | 2026-11-15 |
 | disjunction property | — | 析取性质 | 首现（intuitionism） | 逻辑学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | disjunctive normal form | — | 析取范式 | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
 | disjunctive proposition | — | 选言命题 | 首现（william-jevons） | 学界通行（逻辑学标准术语；与已登记析取三段论同族） | 2026-11-07 |
@@ -1578,7 +1578,7 @@
 
 ## E
 
-| estimative faculty | — | 估算官能 | umar-khayyam | 译名裁定（伊本·西那 wahm 之通行英译，学界义译） | 2026-11-14 |
+| estimative faculty | — | 估算官能（亦作“估计官能”） | umar-khayyam | 译名裁定（伊本·西那 wahm 之通行英译，学界义译）；2026-11-15 联网复核补亦作（中译本《治疗论》作“估计（官能）”，与“臆想/评价能力”并见） | 2026-11-15 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
 | E-language | — | E-语言（亦作“外化语言”） | idiolects | 乔姆斯基术语（externalized；与 I-语言对举）；凭证 2026-11-11；亦作记审定·语言学名词（理论语言学核心术语）作“外化语言”，正文 12:0 沿字母体例（裁定 2026-11-12） | 2026-11-12 |
@@ -3001,7 +3001,7 @@
 | Kongzi Jiayu | 孔子家語 | 《孔子家语》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | kosmos | kosmos | 世界秩序（宇宙） | heraclitus 首译 | 学界通行（B30 语；正文按语境用“世界秩序”或“宇宙秩序”）；凭证 2026-11-09 | 2026-11-09 |
 | Kraftübertragung | Kraftübertragung | 力量传递 | yorck 首译 | B 档：词面直译（作者英译 virtual transmission of power）；凭证 2026-11-11 | 2026-11-11 |
-| Krein–Milman theorem | — | 克莱因—米尔曼定理 | axiom-choice | 学界通行（凸分析；Krein 汉名与 Klein 同形克莱因，定理名整体登记） | 2026-11-13 |
+| Krein–Milman theorem | — | 克莱因—米尔曼定理 | axiom-choice | 学界通行（凸分析；Krein 汉名与 Klein 同形克莱因，定理名整体登记）；2026-11-15 联网复核（夏道行《泛函分析》、Rudin 中译脉络；亦见“克赖因-米尔曼”形， Krein 音译用字差异保留现行） | 2026-11-15 |
 | Kripke model | — | 克里普克模型 | 首现（intuitionism） | 逻辑学通行（与 Kripke structure 克里普克结构分立）；凭证 2026-11-10 | 2026-11-10 |
 | Kripke structure | — | 克里普克结构 | tarski-truth | 模态逻辑通行 | 2026-11-09 |
 | Kripke's schema | — | 克里普克图式 | 首现（intuitionism） | 直觉主义数学通行（**KS**；亦作“克里普克模式”）；凭证 2026-11-10 | 2026-11-10 |
@@ -3179,7 +3179,7 @@
 | Lord Keeper of the Seal | — | 掌玺大臣 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Lorik（blo rigs） | བློ་རིགས་ | 心类学（blo rigs） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
 | Lowell Lectures | — | 洛厄尔讲座 | peirce-benjamin | 讲座名通行音译（波士顿洛厄尔研究所系列讲座）；凭证 2026-11-09 | 2026-11-09 |
-| Löwenheim–Skolem–Tarski theorem | — | 勒文海姆—斯科伦—塔斯基定理 | axiom-choice | 学界通行（模型论） | 2026-11-13 |
+| Löwenheim–Skolem–Tarski theorem | — | 勒文海姆—斯科伦—塔斯基定理 | axiom-choice | 学界通行（模型论）；2026-11-15 联网复核（全称通行，文献常用简称 LST 定理；Skolem 亦作“司寇伦”，保留现行斯科伦形） | 2026-11-15 |
 | Löwenheim-Skolem theorem | Löwenheim-Skolem theorem | 勒文海姆–斯科伦定理（亦作“L-S定理”） | 语料回收 | 学界惯例（数理逻辑通行）；审定库缩略形“降L-S定理”在案（凭证 2026-10-30） | 2026-10-30 |
 | lower envelope / upper envelope | — | 下包络／上包络 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行；亦作下／上概率）；凭证 2026-11-08 | 2026-11-08 |
 | Lucasian Professor of Mathematics | — | 卢卡斯数学教授 | newton | 剑桥大学教席通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -3985,7 +3985,7 @@
 
 ## P
 
-| per se accidents | kath’ hauto sembebêkôs | 自身偶性 | umar-khayyam | 亚里士多德研究通行义译（kath’ hauto 偶性） | 2026-11-14 |
+| per se accidents | kath’ hauto sembebêkôs | 自身偶性 | umar-khayyam | 义译（2026-11-15 依据列更正：原记“通行义译”失实——中文学界 kath’ hauto 译法未统一，见“依自身/就其自身/因自身/本质地”诸形，per se/per accidens 亦常保留拉丁；本条取义译并与 lawāzim 伴随项行对举） | 2026-11-15 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
 | permutation model | — | 置换模型 | axiom-choice | 学界通行（Fraenkel 置换方法） | 2026-11-13 |
@@ -5200,7 +5200,7 @@
 | signified | — | 所指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
 | signifier | — | 能指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
 | Sikh / sikhī | sikhī | 锡克／锡克之道（sikhī 字面义“学习之道”） | 首译（sikh-philosophy） | 学界通行汉译（锡克教研究文献）；sikhī 直译“学习之道”；凭证 2026-11-09 | 2026-11-09 |
-| Sikorski extension theorem | — | 西科尔斯基扩张定理 | axiom-choice | 学界通行（布尔代数） | 2026-11-13 |
+| Sikorski extension theorem | — | 西科尔斯基扩张定理 | axiom-choice | 学界通行（布尔代数）；2026-11-15 联网复核（姓氏形“西科尔斯基”通行（Rasiowa–Sikorski 引理中文词条同）；完整定理名中文文献亦常保留英文形，照源登记） | 2026-11-15 |
 | Sikorski's extension criterion | — | 西科尔斯基扩张判准 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | silent site | — | 沉默位点 | ecological-genetics 首译 | 学界通行译名（silent substitution 沉默替换）；凭证 2026-11-09 | 2026-11-09 |
 | Silhak（實學） | 實學 | 实学 | korean-philosophy | 学界千年通行（朝鲜实学；源文汉字 實學） | 2026-11-05 |
@@ -5222,7 +5222,7 @@
 | single-case induction / sampling argument | — | 单例归纳／抽样论证 | reasoning-analogy | 构词直译（归纳逻辑惯例） | 2026-11-05 |
 | single-peakedness | — | 单峰性 | belief-merging | 学界通行（社会选择理论中译文献）；凭证 2026-11-10 | 2026-11-10 |
 | single-substantive-premise interpretation | — | 单一实质前提解读 | kant-transcendental | 本词条 §1.2 标题体例（Kitcher 2011 语境）；凭证 2026-11-11 | 2026-11-11 |
-| singleton | — | 单元素集 | axiom-choice（补充材料） | 学界通行（与 singleton set 同形并入） | 2026-11-13 |
+| singleton | — | 单元素集（亦作“单点集”） | axiom-choice（补充材料） | 学界通行（与 singleton set 同形并入）；2026-11-15 联网复核补亦作（集合论文献两形并用） | 2026-11-15 |
 | singleton set | — | 单元素集 | god-necessary-being | 学界通行（Fine 2001 苏格拉底—单元素集例） | 2026-11-09 |
 | singly-located | — | 单处定位 | object 首译 | 自译裁定（与多重定位对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | singular causal explanation | — | 单称因果解释 | 首译（scientific-explanation-20th） | 学界通行（Scriven 1962）；凭证 2026-11-10 | 2026-11-10 |
