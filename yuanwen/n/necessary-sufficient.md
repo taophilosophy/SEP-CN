@@ -192,7 +192,7 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [^mackie-1965]: Mackie, J. L., 1965. “Causes and Conditions”, *American Philosophical Quarterly*, 12: 245–65.
 
-[^mccawley-1993]: McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic** (Subtitle: **But Were Ashamed to Ask*), Chicago: Chicago University Press.
+[^mccawley-1993]: McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic*\* (Subtitle: \**But Were Ashamed to Ask*), Chicago: Chicago University Press.
 
 [^moore-2009]: Moore, Brooke N., and Parker, Richard 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
 

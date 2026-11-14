@@ -287,7 +287,7 @@ Every non-empty set* is characterized by some non-empty set of facts;
 
 Every non-empty set* is characterized by some fact.
 
-A *set** is a set of worlds which contains all twins of its members $(\varnothing$ and $W$ are then sets*), and a *singleton** is a set* whose members are all twins. Notice that all existence-sets, conjunctive existence-sets and disjunctive existence-sets, as well as their complements in $W$, are sets*.
+A *set\** is a set of worlds which contains all twins of its members $(\varnothing$ and $W$ are then sets*), and a *singleton*\* is a set* whose members are all twins. Notice that all existence-sets, conjunctive existence-sets and disjunctive existence-sets, as well as their complements in $W$, are sets*.
 
 W4 entails both W2 and W3, and in turn each of them entails W1. All the same, W$4'$ entails both W$2'$ and W$3'$, and in turn each of them entails W$1'$. *No Twins* is a consequence of W1. Under the assumption that *No Twins* is true, each W$i$ is equivalent to W$i'$. So each W$i$ entails W$i'$. W$4'$ entails all the Bs. W$1'$ entails *Plenitude*. W4 is thus an extremely strong principle, since it entails all the principles we have met so far. See Figure 2.
 
@@ -402,15 +402,15 @@ Here is a table indicating, for some theories, which operations they allow $(+$ 
 |   | *negation* | *conjunction* | *disjunction* |
 | --- | --- | --- | --- |
 | *Armstrong 1997* | − | + | − |
-| *Fine 1982 ** | + for theory F(A)-Cond − for theory C-Cond | + for F(A)-Cond + for C-Cond | + for F(A)-Cond − for C-Cond |
+| *Fine 1982 \** | + for theory F(A)-Cond − for theory C-Cond | + for F(A)-Cond + for C-Cond | + for F(A)-Cond − for C-Cond |
 | *Restall 2004* | + | + | + |
 | *Russell PLA* | neither + nor − | − | − |
-| *Suszko 1968 ** | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
+| *Suszko 1968 \** | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
 | *Taylor 1985* | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
-| *Van Fraassen 1969 (modalized version) ** | + for a distinguished class of “atomic” facts only | + | − |
+| *Van Fraassen 1969 (modalized version) \** | + for a distinguished class of “atomic” facts only | + | − |
 | *Wittgenstein* TLP | − | − | − |
-| *Zalta 1991 first interpretation ** | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
-| *Zalta 1991 second interpretation ** | − | + restricted to finite collections of facts | − |
+| *Zalta 1991 first interpretation \** | + | + restricted to finite collections of facts | + restricted to finite collections of facts |
+| *Zalta 1991 second interpretation \** | − | + restricted to finite collections of facts | − |
 
 (On the entries containing a *, see the supplementary document [Some Formal Theories in the Literature](facts.formal-theories.md).) In the case of Restall, commitment to all three operations directly follows from the fact that his theory validates W4 and *Modal Criterion*. Taylor in fact has no modal theory of facts, but it seems that in a natural modal extension of his theory the previously mentioned acceptance claims should be correct. The restrictions in Taylor’s case are due to the fact that he works with standard first-order languages. Taylor is concerned with giving a theory of the facts “posited” by standard first-order languages, i.e., of the facts which play a role in determining the truth-values of the sentences of that language. Standard first-order languages admit of conjunction and disjunction only on finite collections of sentences, hence the restrictions relative to facts. But clearly, moving to languages in which infinite conjunctions and disjunctions are freely allowed, the restrictions would vanish.
 
@@ -524,7 +524,7 @@ In the presence of *No Twins*, $\textrm{T}_4$ entails all the Ws.
 
 $\textrm{T}_1$ is a component of Wittgenstein’s logical atomism in Wittgenstein *TLP*. It also appears in Cresswell 1972. Suszko 1968 has something very close to $\textrm{T}_4$ (cf. the supplementary document [Some Formal Theories in the Literature](facts.formal-theories.md)).
 
-Armstrong (1997) works with a different notion of independency, which we may call *independency**. A set of facts is independent* iff given any of it subsets $G$ and any of its member $x$ not in $G$, it is possible that the members of $G$ exist without $x$, and it is also possible that they exist with $x$. Independency is strictly stronger than independency*: The independency*, but not the independency, of a set is compatible with there being a member of that set existing in every world (not the same member each time, of course). Armstrong expresses the hope that the set of atomic facts he countenances is independent*, though he recognizes that there may be difficulties to defend the view. We do not know whether he would express the hope that the set of atomic facts he countenances is independent *tout court*. Anyway, even if he held the view he would not endorse $\textrm{T}_3$, since he recognizes “totality facts” (cf. section 2.4.2), which are not conjunctions of atomic facts.
+Armstrong (1997) works with a different notion of independency, which we may call *independency\**. A set of facts is independent* iff given any of it subsets $G$ and any of its member $x$ not in $G$, it is possible that the members of $G$ exist without $x$, and it is also possible that they exist with $x$. Independency is strictly stronger than independency*: The independency*, but not the independency, of a set is compatible with there being a member of that set existing in every world (not the same member each time, of course). Armstrong expresses the hope that the set of atomic facts he countenances is independent*, though he recognizes that there may be difficulties to defend the view. We do not know whether he would express the hope that the set of atomic facts he countenances is independent *tout court*. Anyway, even if he held the view he would not endorse $\textrm{T}_3$, since he recognizes “totality facts” (cf. section 2.4.2), which are not conjunctions of atomic facts.
 
 ### 2.4 Facts and Propositions
 

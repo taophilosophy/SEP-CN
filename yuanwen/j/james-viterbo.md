@@ -20,17 +20,17 @@ James is not the author of two works that have been regularly attributed to him 
 The following table provides the list of James’ authentic works with approximate dates of composition. Single asterisks mark those which have been fully edited; double asterisks indicate those for which there exist only partial editions:
 
 1. *Lectura super IV libros Sententiarum* (1286–1288)
-2. *Quaestiones Parisius disputatae De praedicamentis in divinis*** (1293–1295)
+2. *Quaestiones Parisius disputatae De praedicamentis in divinis*\*\* (1293–1295)
 3. *Quaestio de animatione caelorum* (1293–1296)
 4. *Expositio primae philosophiae* (1293–1295)
-5. *Quodlibeta quattuor** (1293–1298)
-6. *Abbreviatio In Sententiarum Aegidii Romani*** (1286–1288 or 1300–1302)
-7. *De regimine christiano** (1302)
-8. *Summa de peccatorum distinctione*** (1300–1308)
-9. *Sermones diversarum rerum*** (1303–1308)
+5. *Quodlibeta quattuor*\* (1293–1298)
+6. *Abbreviatio In Sententiarum Aegidii Romani*\*\* (1286–1288 or 1300–1302)
+7. *De regimine christiano*\* (1302)
+8. *Summa de peccatorum distinctione*\*\* (1300–1308)
+9. *Sermones diversarum rerum*\*\* (1303–1308)
 10. *Concordantia psalmorum David* (1302–1308)
 11. *De confessione* (1302–1308)
-12. *De episcopali officio** (1302–1308)
+12. *De episcopali officio*\* (1302–1308)
 
 ## 2. Philosophical Theology
 

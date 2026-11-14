@@ -67,6 +67,17 @@ class TestInline(unittest.TestCase):
         out = inline_to_md('<a href="../other/">o</a>')
         self.assertEqual(out, 'o')
 
+    def test_em_with_trailing_star_escaped(self):
+        # 2026-11-14 全量回归：记号 <em>W*</em> / <em>L**</em> 旧式直包产出
+        # *W** / *L***，斜体不闭合、末星被吃（40 词条 183 处）
+        self.assertEqual(inline_to_md('<em>W*</em>'), '*W\\**')
+        self.assertEqual(inline_to_md('<em>L**</em>'), '*L\\*\\**')
+        self.assertEqual(inline_to_md('laws, <em>L*</em>, of nature'),
+                         'laws, *L\\**, of nature')
+        # 不含星号时行为不变
+        self.assertEqual(inline_to_md('<em>abductive </em>ones'),
+                         '*abductive* ones')
+
 
 class TestBlocks(unittest.TestCase):
     def test_preamble_rendered(self):

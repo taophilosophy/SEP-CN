@@ -174,15 +174,15 @@ Versions of the ontological argument discussed by Leibniz and Kant have been ela
 The argument then proceeds as follows:
 
 1. It’s possible that God exists. [premise]
-2. Therefore, God exists in some possible world (call it *w**). [by (1), (Assumption 1)]
+2. Therefore, God exists in some possible world (call it *w*\*). [by (1), (Assumption 1)]
 3. If God exists, then God necessarily exists. [by definition of “God”]
-4. Therefore, in *w** God necessarily exists. [by (2), (3)]
-5. Therefore, in *w** God is such that God exists in every possible world [by (4), (Assumption 2)]
+4. Therefore, in *w*\* God necessarily exists. [by (2), (3)]
+5. Therefore, in *w*\* God is such that God exists in every possible world [by (4), (Assumption 2)]
 6. The actual world is one of the possible worlds [premise]
-7. Therefore, in *w** God is such that God exists in the actual world [by (5), (6)]
+7. Therefore, in *w*\* God is such that God exists in the actual world [by (5), (6)]
 8. Therefore, God exists in the actual world [by (7)]
 
-Critics have resisted numerous aspects of the argument (for comprehensive discussion, see Oppy 1995)[^oppy-1995]. The inference to (7), for instance, assumes that the actual world is possible *relative* to *w**. But that assumption is only legitimate on some models of how talk of modality (i.e. of possibility and necessity) works. Thus, the critic claims, it hasn’t been shown that *w** has the relation to the actual world that licenses the conclusion that God actually exists.
+Critics have resisted numerous aspects of the argument (for comprehensive discussion, see Oppy 1995)[^oppy-1995]. The inference to (7), for instance, assumes that the actual world is possible *relative* to *w*\*. But that assumption is only legitimate on some models of how talk of modality (i.e. of possibility and necessity) works. Thus, the critic claims, it hasn’t been shown that *w*\* has the relation to the actual world that licenses the conclusion that God actually exists.
 
 The most significant disagreement, however, is again the one that Mersenne raised against Descartes. How can the claim about metaphysical possibility in (1) be justified? Adams (1994: ch.8), following Leibniz, claims that we are rationally permitted, in the absence of strong reasons to the contrary, to *presume* the real possibility of most things, including God. Others argue that no such presumption of metaphysical possibility is justified, especially regarding supersensible things.
 

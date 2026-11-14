@@ -934,7 +934,7 @@ The discourse function of the French imparfait is different. Example (79-a) show
 
 **79.**
 
-(a) **Il faisait chaud.* It was hot.
+(a) \**Il faisait chaud.* It was hot.
 
 **(b)**
 

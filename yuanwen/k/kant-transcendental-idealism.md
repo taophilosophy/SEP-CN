@@ -488,9 +488,9 @@ Appearances are *F* = *F* is among the extrinsic properties of substances
 
 In particular, this allows Langton to interpret (*Existence*) and (*Humility*) as:
 
-(*Existence**) Substances with intrinsic properties exist.
+(*Existence*\*) Substances with intrinsic properties exist.
 
-(*Humility**) We cannot cognize the intrinsic properties of substances.
+(*Humility\**) We cannot cognize the intrinsic properties of substances.
 
 The apparent tension between these doctrines has vanished. Langton’s interpretation also allows her to explain why the apparent tension between *Humility* and
 
@@ -498,7 +498,7 @@ The apparent tension between these doctrines has vanished. Langton’s interpret
 
 is merely apparent because, on her reading (Non-spatiality) is equivalent to:
 
-(*Non-spatiality**) Being spatial is not an intrinsic property of substances.
+(*Non-spatiality*\*) Being spatial is not an intrinsic property of substances.
 
 This is compatible with (Humility*) because we can know it merely by knowing that being spatial is an extrinsic property in general (thus is not an intrinsic property had by substances), and to know this we do not need to know anything about the intrinsic properties of substances. Langton thus offers a consistent, elegant interpretation of transcendental idealism that solves several of the oldest and hardest problems in the interpretation of Kant’s philosophy.[^note-48]
 
@@ -884,15 +884,15 @@ Kant points to the distinction between “mere imagination” of objects (dreams
 
 requires her to slightly amend the “translation” rules from above, though, because otherwise *Affection* would entail that “affecting us” is an intrinsic property of substances, which she would deny. Langton’s reconstruction of Kant’s argument for Humility rests on the premise that the causal powers of substances by which they affect us do not supervene on their intrinsic properties. Consequently, *affect us* is not an intrinsic property of substances. Nonetheless, Langton can reinterpret *Affection* as:
 
-(*Affection**) Substances causally affect us in virtue of their powers, which do not supervene on their intrinsic properties.
+(*Affection*\*) Substances causally affect us in virtue of their powers, which do not supervene on their intrinsic properties.
 
 consistent with the spirit of her interpretation.
 
 [^note-49]: This requires a slight tweak in her definition of things in themselves and appearances:
 
-(*Things in themselves**) Things in themselves are substances with intrinsic properties, and extrinsic properties that supervene on intrinsic properties.
+(*Things in themselves*\*) Things in themselves are substances with intrinsic properties, and extrinsic properties that supervene on intrinsic properties.
 
-(*Appearances**) Appearances are non-supervenient extrinsic properties of substances.
+(*Appearances*\*) Appearances are non-supervenient extrinsic properties of substances.
 
 However, this is consistent with Langton’s overall reading because we can now say: our ignorance of things in themselves is ignorance of their intrinsic properties and the extrinsic properties that supervene on them. Since causal powers (on Langton’s reading) are non-supervenient extrinsic properties, we retain the result that things in themselves do not affect us.
 

@@ -227,9 +227,9 @@ Now, the modal fictionalist holds, the objection goes, that for every modal sent
 
 (*M*)
 
-‘*A*’ is true iff according to the modal fiction, *A**,
+‘*A*’ is true iff according to the modal fiction, *A*\*,
 
-where ‘*A**’ is the translation of ‘*A*’ into possible worlds talk.
+where ‘*A*\*’ is the translation of ‘*A*’ into possible worlds talk.
 
 An instance of (*M*) is then
 

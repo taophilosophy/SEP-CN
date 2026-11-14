@@ -994,7 +994,7 @@ A number of philosophers who are at least sympathetic to strict actualism have p
 
 On this take, then, Adams fails to fully embrace his distinction between truth in a world and truth at a world. He evaluates negated propositions at worlds where they fail to exist from our perspective in the actual world, but does not extend the idea to modal propositions; instead, to evaluate a modal proposition $\Box\varphi$/$\Diamond\varphi$ at a world $w,$ he switches back to an internal perspective that requires the existence of $\varphi$ in $w,$ i.e., the evaluative perspective that Prior adopted across the board. It is unsurprising, then, that Adams’ logic *A* restores only some of the logical truths that were lost in Prior’s $Q$. But, as Turner notes, a broader embrace of Adams’ perspectivalism would have us evaluate *all* propositions from our standpoint in the actual world. So “situated”, a modal proposition $\Box\varphi$/$\Diamond\varphi$ can then be considered true at a world $w$ simply if $\varphi$ is (from our standpoint, not $w$)’s) true at all/some worlds. As in the shift from Prior to Adams, then, there is no change to the metaphysics of strict actualism but only a shift in the underlying (intuitive) semantics.[^note-94]
 
-The logical implications of maintaining this fixed perspective in the actual world are quite dramatic. First and foremost, it undermines the motivation for **MSA** entirely and, with it, the arguments against the validity of the principles $\Box\Diamond$, **4**, **B**, **5**, and the rule of necessitation **Nec***. All of those can therefore be embraced without the existence qualifications of $\Box\Diamond_A$, **4**$_A$, **B**$_A$, **5**$_A$, and $\textbf{Nec}_A$. Substituting the unqualified principles and the rule **Nec*** in their place results in what might be called a *fully* perspectivalist modal logic *A** for the strict actualist that restores everything that was lost in Prior’s *Q*, and does so without the expressive restrictions of Kripke’s *KQML*.
+The logical implications of maintaining this fixed perspective in the actual world are quite dramatic. First and foremost, it undermines the motivation for **MSA** entirely and, with it, the arguments against the validity of the principles $\Box\Diamond$, **4**, **B**, **5**, and the rule of necessitation **Nec***. All of those can therefore be embraced without the existence qualifications of $\Box\Diamond_A$, **4**$_A$, **B**$_A$, **5**$_A$, and $\textbf{Nec}_A$. Substituting the unqualified principles and the rule **Nec*** in their place results in what might be called a *fully* perspectivalist modal logic *A*\* for the strict actualist that restores everything that was lost in Prior’s *Q*, and does so without the expressive restrictions of Kripke’s *KQML*.
 
 - *Propositional Axiom Schemas* **P1**, **P2**, **P2**
 - *Modal Axiom Schemas* **K**, **T**, **5**, $\Box\Diamond$
@@ -1004,7 +1004,7 @@ The logical implications of maintaining this fixed perspective in the actual wor
 - *Identity Axiom Schemas* **∀Id1**, **Id2**
 - *Rules of Inference* **MP**, **Gen**, **Nec***
 
-*A** (under the name “*A*”) is proved sound and complete in Menzel 1991.
+*A*\* (under the name “*A*”) is proved sound and complete in Menzel 1991.
 
 ## References（引用注释）
 

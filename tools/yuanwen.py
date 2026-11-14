@@ -229,12 +229,18 @@ def _md_emphasis(inner):
     em 内尾随空格常是词间分隔（<em>abductive </em>ones），strip 后粘字成
     *abductive*ones（2026-11-13 逐段审计实证，abduction §1.1 等 3 处）；
     移出后的空白由 inline_to_md 尾部折叠归一，星内不留空白（CommonMark
-    翼规则下星内空白永不渲染）。空内容降级为纯空白，不产空星对。"""
+    翼规则下星内空白永不渲染）。空内容降级为纯空白，不产空星对。
+
+    2026-11-14 全量回归：em 内容自带星号（记号 <em>W*</em>、<em>L**</em>）
+    时旧式直包产出 *W** / *L***，斜体不闭合且末星被吃（40 词条 183 处，
+    leibniz-modal 自然律记号实证）。改后星号逐字转义，渲染时仍是字面星。"""
     core = inner.strip()
     if not core:
         return ' ' if inner else ''
     pre = ' ' if inner[:1].isspace() else ''
     post = ' ' if inner[-1:].isspace() else ''
+    if '*' in core:
+        core = core.replace('*', '\\*')
     return '%s*%s*%s' % (pre, core, post)
 
 
@@ -333,6 +339,13 @@ def inline_to_md(html, slug=None):
     # <b> 保结构稳定（_md_bold_tag 维持该降级路径）。2026-11-13 审计修正：
     # em/strong 标签内空白移到星号外侧；纯 <b> 转 md 粗体（旧无规则，被
     # 行末兜底剥标签丢加粗）
+    # 2026-11-14 全量回归（缺陷二）：em 紧贴的字面星号（<em>singleton</em>*、
+    # *<em>set</em>）直通后与斜体星连缀成 *singleton**，破配对且末星被吃；
+    # 在 em 转换前逐字转义，渲染仍是字面星（数学已在上一行整体暂存，不涉）
+    s = re.sub(r'(</(?:em|i)>)(\*+)',
+               lambda m: m.group(1) + '\\*' * len(m.group(2)), s, flags=re.I)
+    s = re.sub(r'(\*+)(<(?:em|i)>)',
+               lambda m: '\\*' * len(m.group(1)) + m.group(2), s, flags=re.I)
     s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', lambda m: _md_emphasis(m.group(1)), s, flags=re.I)
     s = re.sub(r'<strong>([^<]*)</strong>', _md_bold_tag, s, flags=re.I)
     s = re.sub(r'<b(?:\s[^>]*)?>([^<]*)</b>', _md_bold_tag, s, flags=re.I)

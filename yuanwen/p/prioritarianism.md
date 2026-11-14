@@ -316,7 +316,7 @@ One striking pattern in Table 5 is that none of these three approaches satisfy b
 
 (b)
 
-Table 6. *Explanation*: In both Table 6a and 6b, the probability of state *s* and of state *s** is .5.
+Table 6. *Explanation*: In both Table 6a and 6b, the probability of state *s* and of state *s\** is .5.
 
 Table 6a shows the conflict between State Dominance and Ex Ante Pareto Indifference given prioritarian outcome betterness. By Pigou-Dalton, the outcome in which both individuals receive 50 is better than an outcome in which one receives 80 and the other 20. Thus, by State Dominance, prospect $P+$ is better than prospect $P$. But Ex Ante Pareto Indifference requires that the prospects be ranked equally good.
 

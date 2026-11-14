@@ -72,21 +72,21 @@ The quantity *LR*(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{~*H*}(*E*) that appears in
 
 In our running J. Doe example, *LR*(*H*, *E*) is obtained by comparing the predictability of senior status given that J. Doe died in 2000 to its predictability given that he or she lived out the year. Dividing the former "prediction term" by the latter yields *LR*(*H*, *E*) = **P**_{*H*}(*E*)/**P**_{~*H*}(*E*) = 0.57/0.056 = 10.12. Thus, as a predictor of senior status in 2000, knowing that J. Doe died is more than ten times better than knowing that he or she lived.
 
-The similarities between the "probability ratio" and "odds ratio" versions of Bayes' Theorem can be developed further if we express *H*'s probability as a multiple of the probability of some other hypothesis *H** using the *relative probability* function **B**(*H*, *H**) = **P**(*H*)**/P**(*H**). It should be clear that **B** generalizes both **P** and **O** since **P**(*H*) = **B**(*H*, *T*) and **O**(*H*) = **B**(*H*, ~*H*). By comparing the conditional and unconditional values of **B** we obtain the *Bayes' Factor*:
+The similarities between the "probability ratio" and "odds ratio" versions of Bayes' Theorem can be developed further if we express *H*'s probability as a multiple of the probability of some other hypothesis *H\** using the *relative probability* function **B**(*H*, *H*\*) = **P**(*H*)**/P**(*H*\*). It should be clear that **B** generalizes both **P** and **O** since **P**(*H*) = **B**(*H*, *T*) and **O**(*H*) = **B**(*H*, ~*H*). By comparing the conditional and unconditional values of **B** we obtain the *Bayes' Factor*:
 
-> *BR*(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**)**/B**(*H*, *H**) = [**P**_{*E*}(*H*)**/P**_{*E*}(*H**)]**/** [**P**(*H*)**/P**(*H**)].
+> *BR*(*H*, *H*\*; *E*) = **B**_{*E*}(*H*, *H*\*)**/B**(*H*, *H*\*) = [**P**_{*E*}(*H*)**/P**_{*E*}(*H*\*)]**/** [**P**(*H*)**/P**(*H*\*)].
 
-We can also generalize the likelihood ratio by setting *LR*(*H*, *H**; *E*) = **P**_{*H*}(*E*)**/P**_{*H**}(*E*). This compares *E*'s predictability on the basis of *H* with its predictability on the basis of *H**. We can use these two quantities to formulate an even more general form of Bayes' Theorem.
+We can also generalize the likelihood ratio by setting *LR*(*H*, *H*\*; *E*) = **P**_{*H*}(*E*)**/P**_{*H*\*}(*E*). This compares *E*'s predictability on the basis of *H* with its predictability on the basis of *H\**. We can use these two quantities to formulate an even more general form of Bayes' Theorem.
 
 > | **(1.6)** | **Bayes' Theorem** (General Form) |
 > | --- | --- |
-> |   | *BR*(*H*, *H**; *E*) = *LR*(*H*, *H**; *E*) |
+> |   | *BR*(*H*, *H*\*; *E*) = *LR*(*H*, *H*\*; *E*) |
 
 The message of (1.6) is this:
 
 > *The ratio of probabilities for two hypotheses conditional on a body of data is equal to the ratio their unconditional probabilities multiplied by the degree to which the first hypothesis surpasses the second as a predictor of the data.*
 
-The various versions of Bayes' Theorem differ only with respect to the functions used to express unconditional probabilities (**P**(*H*), **O**(*H*), **B**(*H*)) and in the likelihood term used to represent predictive power (*PR*(*E*, *H*), *LR*(*H*, *E*), *LR*(*H*, *H**; *E*)). In each case, though, the underlying message is the same:
+The various versions of Bayes' Theorem differ only with respect to the functions used to express unconditional probabilities (**P**(*H*), **O**(*H*), **B**(*H*)) and in the likelihood term used to represent predictive power (*PR*(*E*, *H*), *LR*(*H*, *E*), *LR*(*H*, *H*\*; *E*)). In each case, though, the underlying message is the same:
 
 > *conditional probability = unconditional probability × predictive power*
 
@@ -98,7 +98,7 @@ The various versions of Bayes' Theorem differ only with respect to the functions
 | --- | --- |
 | *Probability Ratio*  *PR*(*H*, *E*) = **P**_{*E*}(*H*)**/P**(*H*) | *Probability Difference* *PD*(*H*, *E*) = **P**_{*E*}(*H*) − **P**(*H*) |
 | *Odds Ratio*  *OR*(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*) | *Odds Difference*  *OD*(*H*, *E*) = **O**_{*E*}(*H*) − **O**(*H*) |
-| *Bayes' Factor*  *BR*(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**)**/B**(*H*, *H**) | *Bayes' Difference*  *BD*(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**) − **B**(*H*, *H**) |
+| *Bayes' Factor*  *BR*(*H*, *H*\*; *E*) = **B**_{*E*}(*H*, *H*\*)**/B**(*H*, *H*\*) | *Bayes' Difference*  *BD*(*H*, *H*\*; *E*) = **B**_{*E*}(*H*, *H*\*) − **B**(*H*, *H*\*) |
 
 We can use Bayes' theorem to obtain additive analogues of (1.4) – (1.6), which are here displayed along with their multiplicative counterparts:
 
@@ -108,7 +108,7 @@ We can use Bayes' theorem to obtain additive analogues of (1.4) – (1.6), which
 | --- | --- | --- |
 | (1.4) | *PR*(*H*, *E*) = *PR*(*E*, *H*) = **P**_{*H*}(*E*)**/P**(*E*) | *PD*(*H*, *E*) = **P**(*H*) [*PR*(*E*, *H*) − 1] |
 | (1.5) | *OR*(*H*, *E*) = *LR*(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{*~H*}(*E*) | *OD*(*H*, *E*) = **O**(*H*) [*OR*(*H*, *E*) − 1] |
-| (1.6) | *BR*(*H*, *H**; *E*) = *LR*(*H*, *H**; *E*) = **P**_{*H*}(*E*)**/P**_{*H**}(*E*) | *BD*(*H*, *H**; *E*) = **B**(*H*, *H**) [*BR*(*H*, *H**; *E*) − 1] |
+| (1.6) | *BR*(*H*, *H*\*; *E*) = *LR*(*H*, *H*\*; *E*) = **P**_{*H*}(*E*)**/P**_{*H\**}(*E*) | *BD*(*H*, *H*\*; *E*) = **B**(*H*, *H*\*) [*BR*(*H*, *H*\*; *E*) − 1] |
 
 Notice how each additive measure is obtained by multiplying *H*'s unconditional probability, expressed on the relevant scale, **P**, **O** or **B**, by the associated multiplicative measure diminished by 1.
 
@@ -133,7 +133,7 @@ An item of data provides a subject with *incremental* evidence for or against a 
 It will be useful to distinguish two subsidiary concepts related to total evidence.
 
 - The *net evidence in favor of H* is the degree to which a subject's total evidence in favor of *H* exceeds her total evidence in favor of ~*H*.
-- The *balance of total evidence for H over H** is the degree to which a subject's total evidence in favor of *H* exceeds her total evidence in favor of *H**.
+- The *balance of total evidence for H over H*\* is the degree to which a subject's total evidence in favor of *H* exceeds her total evidence in favor of *H*\*.
 
 The precise content of these notions will depend on how total evidence is understood and measured, and on how disparities in total evidence are characterized. For example, if total evidence is given in terms of probabilities and disparities are treated as ratios, then the net evidence for *H* is **P**(*H*)**/P**(~*H*). If total evidence is expressed in terms of odds and differences are used to express disparities, then the net evidence for *H* will be **O**(*H*) − **O**(~*H*). Readers may consult Table 3 (in the supplementary document) for a complete list of the possibilities.
 
@@ -143,7 +143,7 @@ Philosophers interested in characterizing correct patterns of inductive reasonin
 
 > | **(2.1)** | **A Comparative Account of Incremental Evidence**. |
 > | --- | --- |
-> |   | Relative to a subjective probability function **P**, *E* incrementally confirms (disconfirms, is irrelevant to) *H* if and only if **P**_{*E*}(*H*) is greater than (less than, equal to) **P**(*H*). *H* receives a greater increment (or lesser decrement) of evidential support from *E* than from *E** if and only if **P**_{*E*}(*H*) exceeds **P**_{*E**}(*H*). |
+> |   | Relative to a subjective probability function **P**, *E* incrementally confirms (disconfirms, is irrelevant to) *H* if and only if **P**_{*E*}(*H*) is greater than (less than, equal to) **P**(*H*). *H* receives a greater increment (or lesser decrement) of evidential support from *E* than from *E\** if and only if **P**_{*E*}(*H*) exceeds **P**_{*E\**}(*H*). |
 
 Both these equivalences continue to hold with probabilities replaced by odds. So, this part of the subjectivist theory of evidence does not depend on how total evidence is measured.
 
@@ -153,8 +153,8 @@ Bayes' Theorem helps to illuminate the content of (2.1) by making it clear that 
 > | --- | --- |
 > | **(2.1b)** | If *E* incrementally confirms *H*, then *E* incrementally disconfirms ~*H*. |
 > | **(2.1c)** | If *H* entails *E*, then *E* incrementally confirms *H*. |
-> | **(2.1d)** | If **P**_{*H*}(*E*) = **P**_{*H*}(*E**), then *H* receives more incremental support from *E* than from *E** if and only if *E* is unconditionally less probable than *E**. |
-> | **(2.1e)** | *Weak Likelihood Principle*. *E* provides incremental evidence for *H* if and only if **P**_{*H*}(*E*) > **P**_{~*H*}(*E*). More generally, if **P**_{*H*}(*E*) > **P**_{*H**}(*E*) and **P**_{~*H*}(~*E*) ≥ **P**_{~*H**}(~*E*), then *E* provides more incremental evidence for *H* than for *H**. |
+> | **(2.1d)** | If **P**_{*H*}(*E*) = **P**_{*H*}(*E\**), then *H* receives more incremental support from *E* than from *E\** if and only if *E* is unconditionally less probable than *E*\*. |
+> | **(2.1e)** | *Weak Likelihood Principle*. *E* provides incremental evidence for *H* if and only if **P**_{*H*}(*E*) > **P**_{~*H*}(*E*). More generally, if **P**_{*H*}(*E*) > **P**_{*H*\*}(*E*) and **P**_{~*H*}(~*E*) ≥ **P**_{~*H*\*}(~*E*), then *E* provides more incremental evidence for *H* than for *H*\*. |
 
 (2.1a) tells us that incremental confirmation is a matter of *mutual reinforcement*: a person who sees *E* as evidence for *H* invests more confidence in the possibility that both propositions are true than in either possibility in which only one obtains.
 
@@ -162,9 +162,9 @@ Bayes' Theorem helps to illuminate the content of (2.1) by making it clear that 
 
 (2.1c) provides a subjectivist rationale for the *hypothetico-deductive model of confirmation*. According to this model, hypotheses are incrementally confirmed by any evidence they entail. While subjectivists reject the idea that evidentiary relations can be characterized in a belief-independent manner — Bayesian confirmation is *always* relativized to a person and her subjective probabilities — they seek to preserve the basic insight of the H-D model by pointing out that hypotheses are incrementally supported by evidence they entail *for anyone who has not already made up her mind about the hypothesis or the evidence*. More precisely, if *H* entails *E*, then **P**_{*E*}(*H*) = **P**(*H*)**/P**(*E*), which exceeds **P**(*H*) whenever 1 > **P**(*E*), **P**(*H*) > 0. This explains why scientists so often seek to design experiments that fit the H-D paradigm. Even when evidentiary relations are relativized to subjective probabilities, experiments in which the hypothesis under test entails the data will be regarded as evidentially relevant by *anyone* who has not yet made up his mind about the hypothesis or the data. The *degree* of incremental confirmation will vary among people depending on their prior levels of confidence in *H* and *E* , but everyone will agree that the data incrementally supports the hypothesis to at least some degree.
 
-Subjectivists invoke (2.1d) to explain why scientists so often regard improbable or surprising evidence as having more confirmatory potential than evidence that is antecedently known. While it is not true *in general* that improbable evidence has more confirming potential, it is true that *E*'s incremental confirming power relative to *H* varies inversely with *E*'s unconditional probability *when the value of the inverse probability* **P**_{*H*}(*E*) *is held fixed*. If *H* entails both *E* and *E**, say, then Bayes' Theorem entails that the least probable of the two supports *H* more strongly. For example, even if heart attacks are invariably accompanied by severe chest pain and shortness of breath, the former symptom is far better evidence for a heart attack than the latter simply because severe chest pain is so much less common than shortness of breath.
+Subjectivists invoke (2.1d) to explain why scientists so often regard improbable or surprising evidence as having more confirmatory potential than evidence that is antecedently known. While it is not true *in general* that improbable evidence has more confirming potential, it is true that *E*'s incremental confirming power relative to *H* varies inversely with *E*'s unconditional probability *when the value of the inverse probability* **P**_{*H*}(*E*) *is held fixed*. If *H* entails both *E* and *E*\*, say, then Bayes' Theorem entails that the least probable of the two supports *H* more strongly. For example, even if heart attacks are invariably accompanied by severe chest pain and shortness of breath, the former symptom is far better evidence for a heart attack than the latter simply because severe chest pain is so much less common than shortness of breath.
 
-(2.1e) captures one core message of Bayes' Theorem for theories of confirmation. Let's say that *H* is *uniformly better* than *H** as predictor of *E*'s truth-value when (a) *H* predicts *E* more strongly than *H** does, and (b) ~*H* predicts ~*E* more strongly than ~*H** does. According to the weak likelihood principle, hypotheses that are uniformly better predictors of the data are better supported by the data. For example, the fact that little Johnny is a Christian is better evidence for thinking that his parents are Christian than for thinking that they are Hindu because (a) a far higher proportion of Christian parents than Hindu have Christian children, and (b) a far higher proportion of non-Christian parents than non-Hindu parents have non-Christian children.
+(2.1e) captures one core message of Bayes' Theorem for theories of confirmation. Let's say that *H* is *uniformly better* than *H*\* as predictor of *E*'s truth-value when (a) *H* predicts *E* more strongly than *H*\* does, and (b) ~*H* predicts ~*E* more strongly than ~*H*\* does. According to the weak likelihood principle, hypotheses that are uniformly better predictors of the data are better supported by the data. For example, the fact that little Johnny is a Christian is better evidence for thinking that his parents are Christian than for thinking that they are Hindu because (a) a far higher proportion of Christian parents than Hindu have Christian children, and (b) a far higher proportion of non-Christian parents than non-Hindu parents have non-Christian children.
 
 Bayes' Theorem can also be used as the basis for developing and evaluating *quantitative* measures of evidential support. The results listed in Table 2 entail that all four of the functions *PR*, *OR*, *PD* and *OD* agree with one another on the simplest question of confirmation: Does *E* provide incremental evidence for *H*?
 
@@ -179,15 +179,15 @@ Given all this agreement it should not be surprising that *PR*(*H*, *E*), *OR*(*
 All four measures agree in their conclusions about the *comparative* amount of incremental evidence that different items of data provide for a *fixed* hypothesis. In particular, they agree ordinally about the following concepts derived from incremental evidence:
 
 - The *effective increment of evidence*[^note-12] that *E* provides for *H* is the amount by which the incremental evidence that *E* provides for *H* exceeds the incremental evidence that ~*E* provides for *H*.
-- The *differential* in the incremental evidence that *E* and *E** provide for *H* is the amount by which the incremental evidence that *E* provides for *H* exceeds the incremental evidence that *E** provides for *H*.
+- The *differential* in the incremental evidence that *E* and *E*\* provide for *H* is the amount by which the incremental evidence that *E* provides for *H* exceeds the incremental evidence that *E*\* provides for *H*.
 
-Effective evidence is a matter of the degree to which a person's total evidence for *H* depends on her opinion about *E*. When **P**_{*E*}(*H*) and **P**_{~*E*}(*H*) (or **O**_{*E*}(*H*) and **O**_{~*E*}(*H*)) are far apart the person's belief about *E* has a great effect on her belief about *H*: from her point of view, a great deal hangs on *E*'s truth-value when it comes to questions about *H*'s truth-value. A large differential in incremental evidence between *E* and *E** tells us that learning *E* increases the subject's total evidence for *H* by a larger amount than learning *E** does. Readers may consult Table 4 (in the supplement) for quantitative measures of effective and differential evidence.
+Effective evidence is a matter of the degree to which a person's total evidence for *H* depends on her opinion about *E*. When **P**_{*E*}(*H*) and **P**_{~*E*}(*H*) (or **O**_{*E*}(*H*) and **O**_{~*E*}(*H*)) are far apart the person's belief about *E* has a great effect on her belief about *H*: from her point of view, a great deal hangs on *E*'s truth-value when it comes to questions about *H*'s truth-value. A large differential in incremental evidence between *E* and *E*\* tells us that learning *E* increases the subject's total evidence for *H* by a larger amount than learning *E*\* does. Readers may consult Table 4 (in the supplement) for quantitative measures of effective and differential evidence.
 
-The second clause of (2.1) tells us that *E* provides more incremental evidence than *E** does for *H* just in case the probability of *H* conditional on *E* exceeds the probability of *H* conditional on *E**. It is then a simple step to show that all four measures of incremental support agree ordinally on questions of effective evidence and of differentials in incremental evidence.
+The second clause of (2.1) tells us that *E* provides more incremental evidence than *E*\* does for *H* just in case the probability of *H* conditional on *E* exceeds the probability of *H* conditional on *E*\*. It is then a simple step to show that all four measures of incremental support agree ordinally on questions of effective evidence and of differentials in incremental evidence.
 
 > | **(2.3)** | **Corollary**. |
 > | --- | --- |
-> |   | For any *H*, *E** and *E* with positive probability, the following are equivalent: *E* provides more incremental evidence than *E** does for *H* *PR*(*H*, *E*) > *PR*(*H*, *E**) *OR*(*H*, *E*) > *OR*(*H*, *E**) *PD*(*H*, *E*) > *PD*(*H*, *E**) *OD*(*H*, *E*) > *OD*(*H*, *E**) |
+> |   | For any *H*, *E*\* and *E* with positive probability, the following are equivalent: *E* provides more incremental evidence than *E*\* does for *H* *PR*(*H*, *E*) > *PR*(*H*, *E*\*) *OR*(*H*, *E*) > *OR*(*H*, *E*\*) *PD*(*H*, *E*) > *PD*(*H*, *E*\*) *OD*(*H*, *E*) > *OD*(*H*, *E*\*) |
 
 The four measures of incremental support can disagree over the *comparative* degree to which a single item of data incrementally confirms two distinct hypotheses. Example 3, Example 4, and Example 5 (in the supplement) show the various ways in which this can happen.
 
@@ -225,14 +225,14 @@ The central issue here concerns the status of the likelihood ratio. While everyo
 
 ***Table 7**: Three interpretations of the likelihood ratio*
 
-| Probability as total evidence reading | *PR*(*H*, *E*) measures incremental change in total evidence. *LR*(*H*, *E*) measures incremental change in *net* evidence. *LR*(*H*, *H**, *E*) measures incremental change in the balance of evidence that *E* provides for *H* over *H** |
+| Probability as total evidence reading | *PR*(*H*, *E*) measures incremental change in total evidence. *LR*(*H*, *E*) measures incremental change in *net* evidence. *LR*(*H*, *H*\*, *E*) measures incremental change in the balance of evidence that *E* provides for *H* over *H*\* |
 | --- | --- |
-| Odds as total evidence reading | *LR*(*H*, *E*) measures incremental changes in total evidence. *LR*(*H*, *E*)² measures incremental change in net evidence. *LR*(*H*, *H**; *E*)/*LR*(~*H*, ~*H**; *E*) measures incremental change in the balance of evidence that *E* provides for *H* over *H**. |
-| "Likelihoodist" reading | Neither **P** nor **O** measures total evidence because evidential relations are essentially *comparative*; they always involve the balance of evidence. *LR*(*H*, *E*) measures the balance of evidence that *E* provides for *H* over *H**. *LR*(*H*, *H**; *E*) measures the balance of evidence that *E* provides for *H* over *H**. |
+| Odds as total evidence reading | *LR*(*H*, *E*) measures incremental changes in total evidence. *LR*(*H*, *E*)² measures incremental change in net evidence. *LR*(*H*, *H*\*; *E*)/*LR*(~*H*, ~*H*\*; *E*) measures incremental change in the balance of evidence that *E* provides for *H* over *H*\*. |
+| "Likelihoodist" reading | Neither **P** nor **O** measures total evidence because evidential relations are essentially *comparative*; they always involve the balance of evidence. *LR*(*H*, *E*) measures the balance of evidence that *E* provides for *H* over *H*\*. *LR*(*H*, *H*\*; *E*) measures the balance of evidence that *E* provides for *H* over *H*\*. |
 
-On the first reading there is no conflict whatsoever between using probability ratios and using likelihood ratios to measure evidence. Once we get clear on the distinctions between total evidence, net evidence and the balance of evidence, we see that each of *PR*(*H*, *E*), *LR*(*H*, *E*) and *LR*(*H*, *H**; *E*) measures an important evidential relationship, but that the relationships they measure are importantly different.
+On the first reading there is no conflict whatsoever between using probability ratios and using likelihood ratios to measure evidence. Once we get clear on the distinctions between total evidence, net evidence and the balance of evidence, we see that each of *PR*(*H*, *E*), *LR*(*H*, *E*) and *LR*(*H*, *H*\*; *E*) measures an important evidential relationship, but that the relationships they measure are importantly different.
 
-When odds measure total evidence neither *PR*(*H*, *E*) nor *LR*(*H*, *H**; *E*) plays a fundamental role in the theory of evidence. Changes in the probability ratio for *H* given *E* only indicate changes in incremental evidence in the presence of information about changes in the probability ratio for ~*H* given *E*. Likewise, changes in the likelihood ratio for *H* and *H** given *E* only indicate changes in the balance of evidence in light of information about changes in the likelihood ratio for ~*H* and ~*H** given *E*. Thus, while each of the two functions can figure as one component in a meaningful measure of confirmation, neither tells us anything about incremental evidence when taken by itself.
+When odds measure total evidence neither *PR*(*H*, *E*) nor *LR*(*H*, *H*\*; *E*) plays a fundamental role in the theory of evidence. Changes in the probability ratio for *H* given *E* only indicate changes in incremental evidence in the presence of information about changes in the probability ratio for ~*H* given *E*. Likewise, changes in the likelihood ratio for *H* and *H*\* given *E* only indicate changes in the balance of evidence in light of information about changes in the likelihood ratio for ~*H* and ~*H*\* given *E*. Thus, while each of the two functions can figure as one component in a meaningful measure of confirmation, neither tells us anything about incremental evidence when taken by itself.
 
 The third view, "likelihoodism," is popular among non-Bayesian statisticians. Its proponents deny evidence proportionism. They maintain that a person's subjective probability for a hypothesis merely reflects her degree of uncertainty about its truth; it need not be tied in any way to the amount of evidence she has in its favor.[^note-15] It is likelihood ratios, not subjective probabilities, which capture the "scientifically meaningful" evidential relations. Here are two classic statements of the position.
 
@@ -242,11 +242,11 @@ The third view, "likelihoodism," is popular among non-Bayesian statisticians. It
 
 On this view, everything that can be said about the evidential import of *E* for *H* is embodied in the following generalization of the weak likelihood principle:
 
-> *The* "*Law of Likelihood*". If *H* implies that the probability of *E* is *x*, while *H** implies that the probability of *E* is *x**, then *E* is evidence supporting *H* over *H** if and only if *x* exceeds *x**, and the likelihood ratio, *x***/***x**, measures the strength of this support. (Hacking 1965, 106-109)[^hacking-1965], (Royall 1997, 3)[^royall-1997]
+> *The* "*Law of Likelihood*". If *H* implies that the probability of *E* is *x*, while *H*\* implies that the probability of *E* is *x*\*, then *E* is evidence supporting *H* over *H*\* if and only if *x* exceeds *x*\*, and the likelihood ratio, *x***/***x*\*, measures the strength of this support. (Hacking 1965, 106-109)[^hacking-1965], (Royall 1997, 3)[^royall-1997]
 
 The biostatistician Richard Royall is a particularly lucid defender of likelihoodism (Royall 1997)[^royall-1997]. He maintains that any scientifically respectable concept of evidence must analyze the evidential impact of *E* on *H* solely in terms of likelihoods; it should not advert to anyone's unconditional probabilities for *E* or *H*. This is supposed to be because likelihoods are both better known and more objective than unconditional probabilities. Royall argues strenuously against the idea that incremental evidence can be measured in terms of the disparity between unconditional and conditional probabilities. Here is the gist of his complaint:
 
-> Whereas [*LR*(*H*, *H**; *E*)] measures the support for one hypothesis *H* relative to a specific alternative *H**, without regard either to the prior probabilities of the two hypotheses or to what other hypotheses might also be considered, the law of changing probability [as measured by *PR*(*H*, *E*)] measures support for *H* relative to a specific prior distribution over *H* and its alternatives... The law of changing probability is of limited usefulness in scientific discourse because of its dependence on the prior probability distribution, which is generally unknown and/or personal. Although you and I agree (on the basis of the law of likelihood) that given evidence supports *H* over *H**, and *H*** over both *H* and *H**, we might disagree about whether it is evidence supporting *H* (on the basis of the law of changing probability) purely on the basis of our different judgments of the priori probability of *H*, *H**, and *H***. (Royall 1997, 10-11, with slight changes in notation)[^royall-1997]
+> Whereas [*LR*(*H*, *H*\*; *E*)] measures the support for one hypothesis *H* relative to a specific alternative *H*\*, without regard either to the prior probabilities of the two hypotheses or to what other hypotheses might also be considered, the law of changing probability [as measured by *PR*(*H*, *E*)] measures support for *H* relative to a specific prior distribution over *H* and its alternatives... The law of changing probability is of limited usefulness in scientific discourse because of its dependence on the prior probability distribution, which is generally unknown and/or personal. Although you and I agree (on the basis of the law of likelihood) that given evidence supports *H* over *H*\*, and *H*\*\* over both *H* and *H*\*, we might disagree about whether it is evidence supporting *H* (on the basis of the law of changing probability) purely on the basis of our different judgments of the priori probability of *H*, *H*\*, and *H*\*\*. (Royall 1997, 10-11, with slight changes in notation)[^royall-1997]
 
 Royall's point is that neither the probability ratio nor probability difference will capture the sort of objective evidence required by science because their values depend on the "subjective" terms **P**(*E*) and **P**(*H*), and not just on the "objective" likelihoods **P**_{*H*}(*E*) and **P**_{~*H*}(*E*).
 
@@ -256,9 +256,9 @@ In fact, the weak likelihood principle (2.1e) encapsulates a minimal form of Bay
 
 > | **(2.1e)** | **The Weak Likelihood Principle**. (expressed in terms of likelihood ratios) |
 > | --- | --- |
-> |   | If *LR*(*H*, *H**; *E*) ≥ 1 and *LR*(~*H*, ~*H**; ~*E*) ≥ 1, with one inequality strict, then *E* provides more incremental evidence for *H* than for *H** and ~*E* provides more incremental evidence for ~*H* than for ~*H**. |
+> |   | If *LR*(*H*, *H*\*; *E*) ≥ 1 and *LR*(~*H*, ~*H*\*; ~*E*) ≥ 1, with one inequality strict, then *E* provides more incremental evidence for *H* than for *H*\* and ~*E* provides more incremental evidence for ~*H* than for ~*H*\*. |
 
-Likelihoodists will endorse (2.1e) because the relationships described in its antecedent depend only on inverse probabilities. Proponents of both the "probability" and "odds" interpretations of total evidence will accept (2.1e) because satisfaction of its antecedent ensures that conditioning on *E* increases *H*'s probability and its odds strictly more than those of *H**. Indeed, the weak likelihood principle must be an integral part of any account of evidential relevance that deserves the title "Bayesian". To deny it is to misunderstand the central message of Bayes' Theorem for questions of evidence: namely, that hypotheses are confirmed by data they predict. As we shall see in the next section, this "minimal" form of Bayesianism figures importantly into subjectivist models of learning from experience.
+Likelihoodists will endorse (2.1e) because the relationships described in its antecedent depend only on inverse probabilities. Proponents of both the "probability" and "odds" interpretations of total evidence will accept (2.1e) because satisfaction of its antecedent ensures that conditioning on *E* increases *H*'s probability and its odds strictly more than those of *H*\*. Indeed, the weak likelihood principle must be an integral part of any account of evidential relevance that deserves the title "Bayesian". To deny it is to misunderstand the central message of Bayes' Theorem for questions of evidence: namely, that hypotheses are confirmed by data they predict. As we shall see in the next section, this "minimal" form of Bayesianism figures importantly into subjectivist models of learning from experience.
 
 ## 4. The Role of Bayes' Theorem in Subjectivist Models of Learning
 
@@ -290,7 +290,7 @@ The key to the argument lies in marrying the "minimal" version of Bayesian expre
 
 > | **(3.3)** | **The Weak Evidence Principle** |
 > | --- | --- |
-> |   | If, relative to a prior **P**, *E* provides at least as much incremental evidence for *H* as for *H**, and if *H* is antecedently more probable than *H**, then *H* should remain more probable than *H** after any learning experience whose sole immediate effect is to increase the probability of *E*. |
+> |   | If, relative to a prior **P**, *E* provides at least as much incremental evidence for *H* as for *H*\*, and if *H* is antecedently more probable than *H*\*, then *H* should remain more probable than *H*\* after any learning experience whose sole immediate effect is to increase the probability of *E*. |
 
 This requires an agent to retain his views about the relative probability of two hypotheses when he acquires evidence that supports the more probable hypothesis more strongly. It rules out obviously irrational belief revisions such as this: George is more confident that the New York Yankees will win the American League Pennant than he is that the Boston Rex Sox will win it, but he reverses himself when he learns (only) that the Yankees beat the Red Sox in last night's game.
 
@@ -298,28 +298,28 @@ Combining (3.3) with minimal Bayesianism yields the following:
 
 > | **(3.4)** | **Consequence** |
 > | --- | --- |
-> |   | If a person's prior is such that *LR*(*H*, *H**; *E*) ≥ 1, *LR*(~*H*, ~*H**; ~*E*) ≥ 1, and **P**(*H*) > **P**(*H**), then any learning experience whose sole immediate effect is to raise her subjective probability for *E* should result in a posterior such that **Q**(*H*) > **Q**(*H**). |
+> |   | If a person's prior is such that *LR*(*H*, *H*\*; *E*) ≥ 1, *LR*(~*H*, ~*H*\*; ~*E*) ≥ 1, and **P**(*H*) > **P**(*H*\*), then any learning experience whose sole immediate effect is to raise her subjective probability for *E* should result in a posterior such that **Q**(*H*) > **Q**(*H*\*). |
 
 On the reasonable assumption that **Q** is defined on the same set of propositions over which **P** is defined, this condition suffices to pick out simple conditioning as the *unique* correct method of belief revision for learning experiences that make *E* certain. It picks out Jeffrey conditioning as the *unique* correct method when learning merely alters one's subjective probability for *E*. The argument for these conclusions makes use of the following two facts about probabilities.
 
 > | **(3.5)** | **Lemma** |
 > | --- | --- |
-> |   | If *H* and *H** both entail *E* when **P**(*H*) > **P**(*H**), then *LR*(*H*, *H**; *E*) = 1 and *LR*(~*H*, ~*H**; ~*E*) > 1. |
+> |   | If *H* and *H*\* both entail *E* when **P**(*H*) > **P**(*H*\*), then *LR*(*H*, *H*\*; *E*) = 1 and *LR*(~*H*, ~*H*\*; ~*E*) > 1. |
 > |   | Proof Sketch |
 >
 > | **(3.6)** | **Lemma** |
 > | --- | --- |
-> |   | Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) > 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H** both entail *E*, then **P**(*H*) ≥ **P**(*H**) if and only if **Q**(*H*) ≥ **Q**(*H**). |
+> |   | Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) > 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H*\* both entail *E*, then **P**(*H*) ≥ **P**(*H*\*) if and only if **Q**(*H*) ≥ **Q**(*H*\*). |
 > |   | Proof Sketch |
 
-From here the argument for simple conditioning is a matter of using (3.4) and (3.5) to establish ordinal similarity. Suppose that *H* and *H** entail *E* and that **P**(*H*) > **P**(*H**). It follows from (3.5) that *LR*(*H*, *H**; *E*) = 1 and *LR*(~*H*, ~*H**; ~*E*) > 1. (3.4) then entails that any learning experience that raises *E*'s probability must result in a posterior with **Q**(*H*) > **Q**(*H**). Thus, **Q** and **P** are ordinally similar with respect to hypotheses that entail *H*. If we go on to suppose that the learning experience raises *E*'s probability to 1, then (3.6) then guarantees that **Q** arises from **P** by simple conditioning on *E*.
+From here the argument for simple conditioning is a matter of using (3.4) and (3.5) to establish ordinal similarity. Suppose that *H* and *H*\* entail *E* and that **P**(*H*) > **P**(*H*\*). It follows from (3.5) that *LR*(*H*, *H*\*; *E*) = 1 and *LR*(~*H*, ~*H*\*; ~*E*) > 1. (3.4) then entails that any learning experience that raises *E*'s probability must result in a posterior with **Q**(*H*) > **Q**(*H*\*). Thus, **Q** and **P** are ordinally similar with respect to hypotheses that entail *H*. If we go on to suppose that the learning experience raises *E*'s probability to 1, then (3.6) then guarantees that **Q** arises from **P** by simple conditioning on *E*.
 
 The case for Jeffrey conditioning is similarly direct. Since the argument for ordinal similarity did not depend at all on the assumption that **Q**(*E*) = 1, we have really established
 
 > | **(3.7)** | **Corollary** |
 > | --- | --- |
-> |   | • If *H* and *H** entail *E*, then **P**(*H*) > **P**(*H**) if and only if **Q**(*H*) > **Q**(*H**). |
-> |   | • If *H* and *H** entail ~*E*, then **P**(*H*) > **P**(*H**) if and only if **Q**(*H*) > **Q**(*H**). |
+> |   | • If *H* and *H*\* entail *E*, then **P**(*H*) > **P**(*H*\*) if and only if **Q**(*H*) > **Q**(*H*\*). |
+> |   | • If *H* and *H*\* entail ~*E*, then **P**(*H*) > **P**(*H*\*) if and only if **Q**(*H*) > **Q**(*H*\*). |
 
 So, **Q** is ordinally similar to **P** both when restricted to hypotheses that entail *E* and when restricted to hypotheses than entail ~*E*. Moreover, since dividing by positive numbers does not disturb ordinal relationships, it also follows that that **Q**_{*E*} is ordinally similar to **P** when restricted to hypotheses that entail *E*, and that **Q**_{~*E*} is ordinally similar to **P** when restricted to hypotheses than entail ~*E*. Since **Q**_{*E*}(*E*) = 1 = **Q**_{~*E*}(*E*), (3.6) then entails:
 

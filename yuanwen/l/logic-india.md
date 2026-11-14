@@ -551,7 +551,7 @@ I am grateful to Shoryu Katsura for comments on two previous versions of this en
 
 [^gillon-2008]: Gillon, Brendan S. and Richard P. Hayes (trans.), 2008, “Dharmakīrti on the role of causation in inference as presented in *Pramāṇavārttika Svopajñavṛtti* 11–38”, *Journal of Indian Philosophy*, 36: 335–404.
 
-[^gillon-2017]: Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the **Upāyahṛdaya* (pt. 1)”, *Journal of Indian and Tibetan Studies* (*Indogaku Chibettogaku Kenkyu*), 20: 195–232. URL:http://www.jits-ryukoku.net/.
+[^gillon-2017]: Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the \**Upāyahṛdaya* (pt. 1)”, *Journal of Indian and Tibetan Studies* (*Indogaku Chibettogaku Kenkyu*), 20: 195–232. URL:http://www.jits-ryukoku.net/.
 
 [^gillon-1980]: Gillon, Brendan S. and Martha Lyle Love (trs), 1980, “Indian logic revisited: *Nyāyapraveśa* reviewed”, *Journal of Indian Philosophy*, 8:349–384.
 
