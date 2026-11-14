@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T22:30:27Z",
+  "updated_at": "2026-11-14T23:18:56Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1241,6 +1241,51 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：doi 0.1093、Bricke 题名窜名、Benthem、Föster→Förster、radcliffe 斜体跨引号、robinson 年份重出与 Surprenant、H 段括注（ADR-0038 ①）",
       "registered_at": "2026-11-14T22:30:27Z"
+    },
+    {
+      "slug": "kant-reason",
+      "path": "en/kant-reason/index.html",
+      "upstream_sha256": "7acafcd15a4a24f271c0cbbb2fcb8b4650dea2eb8d1f36b2534bc642658b9105",
+      "local_sha256": "3c4cb35b7ba30d818f6a2694f49286f8a47f116176e2fbbcaa7514addad5967c",
+      "bytes": {
+        "upstream": 125839,
+        "local": 125830
+      },
+      "commit": "17e83d126",
+      "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：møller 斜体提前收束、rescher 题名拆斜体（ADR-0038 ①）",
+      "registered_at": "2026-11-14T22:59:03Z"
+    },
+    {
+      "slug": "kant-reason",
+      "path": "en/kant-reason/notes.html",
+      "upstream_sha256": "94e45360f8385de210b402fb486780ecc311a3a0ba09416e803ca6e7a555ab25",
+      "local_sha256": "80066e3169661c9ff280562cfe38f7be394e5cd785fbfcd365d7c242d6a8aff2",
+      "bytes": {
+        "upstream": 30739,
+        "local": 30735
+      },
+      "commit": "17e83d126",
+      "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：注 35 作者遗留 (?) 占位（ADR-0038 ①）",
+      "registered_at": "2026-11-14T22:59:04Z"
+    },
+    {
+      "slug": "kant-social-political",
+      "path": "en/kant-social-political/index.html",
+      "upstream_sha256": "c7f154eedad8910c0d9afe887ca69a728921e4a3901543337a1d7b9fcecd7215",
+      "local_sha256": "de6677b516448cecc4c62c9c2f44a4d35a97fac5a5345488e903a73341f42a6e",
+      "bytes": {
+        "upstream": 109301,
+        "local": 109309
+      },
+      "commit": "1b433498e",
+      "subject": "015 偿还 kant-social-political：引称挂键、括号句号与书目勘误（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：O’Neill/Waldron 逗号、Yovel 姓名重、Stone 双冒号脱 the、Willaschek-1997 期刊斜体、Fleischacker 句点、Korsgaard/Wilson In→in、Doyle 页码 and（ADR-0038 ①）",
+      "registered_at": "2026-11-14T23:18:56Z"
     }
   ],
   "tombstones": [

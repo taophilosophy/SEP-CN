@@ -195,7 +195,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^denis-2010]: Denis, Lara (ed.), 2010, *Kant’s ‘Metaphysics of Morals’: A Critical Guide*, New York: Cambridge University Press.
 
-[^doyle-1983]: Doyle, Michael, 1983, “Kant, Liberal Legacies, and Foreign Affairs”, in two parts. *Philosophy and Public Affairs*, 12: 205–235 and 323–353.
+[^doyle-1983]: Doyle, Michael, 1983, “Kant, Liberal Legacies, and Foreign Affairs”, in two parts. *Philosophy and Public Affairs*, 12: 205–235, 323–353.
 
 [^ellis-2005]: Ellis, Elizabeth, 2005, *Kant’s Politics: Provisional Theory for an Uncertain World*, New Haven: Yale University Press.
 
@@ -205,7 +205,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^faggion-2016]: Faggion, Andrea, Nuria Sanchez Madrid, and Alessandro Pinzani (eds.), 2016, *Kant and Social Policies*, New York: Palgrave Macmillan.
 
-[^fleischacker-1999]: Fleischacker, Samuel, 1999, *A Third Concept of Liberty: Judgment and Freedom in Kant and Adam Smith*, Princeton: Princeton University Press
+[^fleischacker-1999]: Fleischacker, Samuel, 1999, *A Third Concept of Liberty: Judgment and Freedom in Kant and Adam Smith*, Princeton: Princeton University Press.
 
 [^fleischacker-2013]: –––, 2013, *What is Enlightenment?*, New York: Routledge.
 
@@ -253,7 +253,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^kneller-1998]: Kneller, Jane and Sidney Axinn (eds.), 1998, *Autonomy and Community: Readings in Contemporary Kantian Social Philosophy*, Albany: SUNY Press.
 
-[^korsgaard-1997]: Korsgaard, Christine, 1997, “Taking the Law into Our Own Hands: Kant on the Right to Revolution”, In Andrews Reath, Barbara Herman, and Christine Korsgaard (eds.), *Reclaiming the History of Ethics: Essays in Honor of John Rawls*, Cambridge: Cambridge University Press.
+[^korsgaard-1997]: Korsgaard, Christine, 1997, “Taking the Law into Our Own Hands: Kant on the Right to Revolution”, in Andrews Reath, Barbara Herman, and Christine Korsgaard (eds.), *Reclaiming the History of Ethics: Essays in Honor of John Rawls*, Cambridge: Cambridge University Press.
 
 [^krasnoff-2018]: Krasnoff, Larry, Nuria Sanchez Madrid, and Paula Satne (eds.), 2018, *Kant’s Doctrine of Right in the 21st Century*, Cardiff: University of Wales Press.
 
@@ -271,7 +271,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^nance-2012]: Nance, Michael, 2012, “Kantian Right and the Categorical Imperative: Response to Willaschek”, *International Journal of Philosophical Studies*, 20: 541–556.
 
-[^o’neill-2016]: O’Neill, Onora 2016, “Enactable and Enforceable: Kant’s Criteria for Right and Virtue”, *Kantstudien*, 107: 111–124.
+[^o’neill-2016]: O’Neill, Onora, 2016, “Enactable and Enforceable: Kant’s Criteria for Right and Virtue”, *Kantstudien*, 107: 111–124.
 
 [^pascoe-2022]: Pascoe, Jordan, 2022, *Kant’s Theory of Labour*, Cambridge: Cambridge University Press.
 
@@ -299,7 +299,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^shell-1980]: –––, 1980, *The Rights of Reason: A Study of Kant’s Philosophy and Politics*, Toronto: University of Toronto Press.
 
-[^stone-2018]: Stone Sweet, Alec, and Clare Ryan, 2018, *A Cosmopolitan Legal Order: Kant: Constitutional Justice, and European Convention on Human Rights*, Oxford: Oxford University Press.
+[^stone-2018]: Stone Sweet, Alec, and Clare Ryan, 2018, *A Cosmopolitan Legal Order: Kant, Constitutional Justice, and the European Convention on Human Rights*, Oxford: Oxford University Press.
 
 [^timmons-2002]: Timmons, Mark (ed.), 2002, *Kant’s Metaphysics of Morals: Interpretive Essays*, Oxford: Oxford University Press.
 
@@ -311,7 +311,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^varden-2020]: Varden, Helga, 2020, *Sex, Love, and Gender: A Kantian Theory*, Oxford: Oxford University Press.
 
-[^waldron-1996]: Waldron, Jeremy 1996, “Kant’s Legal Positivism”, *Harvard Law Review*, 109: 1535–1566.
+[^waldron-1996]: Waldron, Jeremy, 1996, “Kant’s Legal Positivism”, *Harvard Law Review*, 109: 1535–1566.
 
 [^walla-2020]: Walla, Alice Pinheiro, and Mehmet Ruhi Demiray (eds.), 2020, *Reason, Normativity, and Law: New Essays in Kantian Philosophy*, Cardiff: University of Wales Press.
 
@@ -323,7 +323,7 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^willaschek-2009]: Willaschek, Marcus, 2009, “Right and Coercion: Can Kant’s Conception of Right be Derived from his Moral Theory?”, *International Journal of Philosophical Studies*, 17: 49–70.
 
-[^willaschek-1997]: –––, 1997, “Why the *Doctrine of Right* does not belong in the *Metaphysics of Morals*”, Jahrbuch für Recht und Ethik 5, 205–227.
+[^willaschek-1997]: –––, 1997, “Why the *Doctrine of Right* does not belong in the *Metaphysics of Morals*”, *Jahrbuch für Recht und Ethik*, 5: 205–227.
 
 [^williams-2025]: Williams, Garrath, 2025, *Kant Incorporated*, Cambridge: Cambridge University Press.
 
@@ -335,8 +335,8 @@ contractarianism | cosmopolitanism | democracy | Hobbes, Thomas | Kant, Immanuel
 
 [^williams-1992]: Williams, Howard (ed.), 1992, *Essays on Kant’s Political Philosophy*, Chicago: University of Chicago Press.
 
-[^wilson-1998]: Wilson, Holly, 1998, “Kant’s Evolutionary Theory of Marriage”, In Kneller, Jane, and Sidney Axinn (eds.), *Autonomy and Community: Readings in Contemporary Kantian Social Philosophy*, Albany: SUNY Press.
+[^wilson-1998]: Wilson, Holly, 1998, “Kant’s Evolutionary Theory of Marriage”, in Kneller, Jane, and Sidney Axinn (eds.), *Autonomy and Community: Readings in Contemporary Kantian Social Philosophy*, Albany: SUNY Press.
 
 [^wood-2002]: Wood, Allen, 2002, “The Final Form of Kant’s Practical Philosophy”, in Timmons, Mark (ed.), *Kant’s Metaphysics of Morals: Interpretive Essays*, Oxford: Oxford University Press, 1–21.
 
-[^yovel-1980]: Yovel, Yirmiyahu Yovel, 1980, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
+[^yovel-1980]: Yovel, Yirmiyahu, 1980, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
