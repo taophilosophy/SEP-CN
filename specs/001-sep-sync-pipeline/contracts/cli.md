@@ -72,6 +72,7 @@
       revert-state <slug> --to s2.5_checked --reason <因> --actor <名>   # 受控回退（仅 s3_checked 及其后；ADR-0043）
       clear <slug>                         清空正文置 cleared（gate: 基线哈希复算）
       block <slug> --reason <文>
+      reopen <slug> --actor <名> --reason <原因>      # done→pending 返工打回（ADR-0033；旧 steps 留史）
 输出: 操作后的任务 JSON 全文
 行为: 任务文件 tasks/<首字母>/<slug>.json；状态迁移合法性由本工具校验，
       禁止跳步（update 类 s1/s2/s24/s25 证据必须以 changes: 开头引用变更清单；

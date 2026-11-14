@@ -6,6 +6,7 @@
 
 * 一词条一文件：`tasks/<slug 首字母>/<slug>.json`，slug 为 SEP 词条标识（如 `tasks/a/alcmaeon.json`）。
 * 例外：`tasks/term-candidates.json` 为 **术语候选清单** （词汇表复核流程的中间记录，无 slug/state），不属于文档任务；`tools/progress.py` 统计时自动跳过。
+* 例外：`tasks/manifests/<日期>-batch<N>.json` 为 **批量裁定 manifest**（fang-fa-lun S2：顶层 JSON 数组，逐条人工译法清单，登记工具消费），不属于词条任务；
 * 例外：`tasks/term-pool.json` 为 **术语工作池** 数据文件（`tools/term_harvest.py`、`term_flow.py`、`cnki_query.py` 硬编码路径读取），非任务记录，不迁移。
 * 例外：`tasks/ci-hui-biao.json` 为 **词汇表维护任务** （kind=glossary-maintenance），历史路径被 fang-fa-lun 文档引用，豁免字母目录规则（2026-11-13 随发布表并网收官，ADR-0036，留档）；例行任务（kind=daily-check，zh_doc 为空）同属非词条任务，`progress.py` 与 `check_academic.py` 按此豁免、不计入词条状态机（2026-11-04 登记，D22）。
 * 翻译账本：`tasks/<slug 首字母>/<slug>.ledger.yaml`（LLM 辅助初译的段落账本，[ADR-0021](../rules/adr/0021-LLM辅助初译协议.md)；格式见 `specs/005-translation-campaign/fan-yi-mu-ban.md` §6）。由执行会话随 draft 创建并入库；`task_ops.py`、`progress.py` 按 `*.json` 寻址，不读取账本。
