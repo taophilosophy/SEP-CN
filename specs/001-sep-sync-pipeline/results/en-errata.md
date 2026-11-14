@@ -78,3 +78,4 @@
 | leibniz-mind | `Searle, J., 1990. &ldquo;Minds, Brains, and Programs,&rdquo; … 3: 417&ndash;457` | `1980` | BBS 第 3 卷（1980）与正文 Searle 1980 相合，同页自相矛盾（②） |
 | leibniz-mind | `Toronto University Press..` | `Toronto University Press.` | 双句点（①） |
 | leibniz-mind | `&rdquo;<em>Pacific` / `&rdquo;<em>Journal` / `&rdquo;<em>Causation` / `&ldquo; Leibniz` | 补空格、去引号内前导空格 | 排版（①） |
+| publichealth-ethics | notes.html `(Omerand et al. 2009; …)` | `(Omer et al. 2009; …)` | OCR 拼合（①）；不修则 omer-2009 引注静默丢失 |
