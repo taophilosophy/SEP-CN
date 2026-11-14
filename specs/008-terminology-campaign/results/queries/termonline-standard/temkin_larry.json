@@ -1,0 +1,19 @@
+{
+ "key": "temkin, larry",
+ "term": "Temkin, Larry",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:45:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "装煤车",
+   "en": "larry car",
+   "code": "GB/T 32818—2016",
+   "standard": "冶炼设备  术语",
+   "subject": "冶金"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1}, \"sourceStats\": {\"冶金\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"266028f6a9f24f2fa8b0aa0eab47af33\", \"databaseId\": null, \"standardId\": \"74d1aff349d04d6196df67bdda6cfec8\", \"standardCode\": \"GB/T 32818—2016\", \"standardName\": \"冶炼设备  术语\", \"standardEnName\": \"Metallurgical equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.2.1.1\", \"cnName\": \"装煤车\", \"enName\": \"larry car\", \"publishTime\": \"2016-08-29\", \"publishYear\": \"2016\", \"implementTime\": \"2017-03-01\", \"ics\": \"77.180\", \"ccs\": \"H92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118665, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"装煤车\", \"cnNameSearch\": \"装煤车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"larry car\", \"wordSearch\": \"larry car\"}, {\"languageType\": 1, \"word\": \"charging car\", \"wordSearch\": \"charging car\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由带操作室的钢结构车体、走行机构、煤斗、下煤机构、启闭装煤孔盖及炉顶清扫机构、集尘机构，以及气动系统、液压系统、电气系统、自动化系统等构成，完成由煤塔取煤经计量后向焦炉炭化室装煤的焦炉机械。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671115324}"
+}

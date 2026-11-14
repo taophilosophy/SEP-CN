@@ -1,0 +1,152 @@
+{
+ "key": "tobey, mark",
+ "term": "Tobey, Mark",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:53:11+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=249",
+ "hits": [
+  {
+   "cn": "打标",
+   "en": "mark",
+   "code": "GB/T 39790—2021",
+   "standard": "数控回转头压力机数据处理软件及接口要求",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "标志",
+   "en": "mark",
+   "code": "GB/T 13297—2021",
+   "standard": "精密合金包装、标志和质量证明书的一般规定",
+   "subject": "冶金"
+  },
+  {
+   "cn": "标示",
+   "en": "mark",
+   "code": "GB/T 38155—2019",
+   "standard": "重要产品追溯 追溯术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "标识",
+   "en": "mark",
+   "code": "GB/T 33290.1—2016",
+   "standard": "文物出境审核规范 第1部分：总则",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "标识",
+   "en": "mark",
+   "code": "GB/T 31912—2015",
+   "standard": "饰品  标识",
+   "subject": "精密机械、珠宝"
+  },
+  {
+   "cn": "标注",
+   "en": "mark",
+   "code": "GB/T 32215—2015",
+   "standard": "气动  控制阀和其他元件的气口和控制机构的标识",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "标记",
+   "en": "mark",
+   "code": "GB/T 17704.1—1999",
+   "standard": "信息技术信息交换用130mm一次写入盒式光盘第1部分:未记录盒式光盘",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "标记",
+   "en": "mark",
+   "code": "GB/T 17234—1998",
+   "standard": "信息技术 数据交换用90 mm 可重写和只读盒式光盘",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "测标",
+   "en": "measuring mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "搭头印",
+   "en": "decating mark",
+   "code": "GB/T 5706—2018",
+   "standard": "纺织品 毛纺织产品 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "模型痕迹",
+   "en": "mould mark",
+   "code": "GB/T 5756—2009",
+   "standard": "输送带术语及其定义",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "符号检验",
+   "en": "mark test",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "洪痕",
+   "en": "flood mark",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "水准点",
+   "en": "bench mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "测量标志",
+   "en": "surveying mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "框标",
+   "en": "fiducial mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "里程桩",
+   "en": "chainage mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "定位标记",
+   "en": "positioning mark",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "安全标识",
+   "en": "safety mark",
+   "code": "GB 50838—2015",
+   "standard": "城市综合管廊工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "小数点",
+   "en": "decimal mark",
+   "code": "GB/T 5261—94",
+   "standard": "信息处理 七位和八位编码字符信息处理集用的控制功能",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 7, \"2022\": 11, \"2021\": 59, \"2020\": 19, \"2019\": 3, \"2018\": 15, \"2017\": 8, \"2016\": 9, \"2015\": 14, \"2014\": 22, \"2013\": 6, \"2011\": 22, \"2009\": 7, \"2008\": 8, \"2007\": 1, \"2006\": 6, \"2003\": 6, \"2002\": 1, \"2000\": 2, \"1999\": 1, \"1998\": 5, \"1995\": 1, \"暂无年份\": 16}, \"sourceStats\": {\"食品技术\": 3, \"道路车辆工程\": 3, \"造船和海上构筑物\": 2, \"造纸技术\": 1, \"航空器和航天器工程\": 1, \"综合、术语学、标准化、文献\": 72, \"纺织和皮革技术\": 4, \"精密机械、珠宝\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 64, \"石油及相关技术\": 5, \"玻璃和陶瓷工业\": 10, \"环保、保健和安全\": 9, \"涂料和颜料工业\": 3, \"流体系统和通用件\": 2, \"橡胶和塑料工业\": 6, \"材料储运设备\": 3, \"机械系统和通用件\": 1, \"机械制造\": 4, \"木材技术\": 6, \"服装工业\": 5, \"家用和商用设备、文娱、体育\": 3, \"化工技术\": 2, \"冶金\": 10, \"农业\": 6, \"其它\": 17, \"信息技术、办公机械\": 6}, \"typeStats\": {\"7\": 249}, \"totalRecords\": 249, \"tmWordList\": [{\"id\": \"0afcbfea6d2f4aef85a987a0f7f1ec2e\", \"databaseId\": null, \"standardId\": \"9b0769e839a94e38892987b5a37c70b2\", \"standardCode\": \"GB/T 39790—2021\", \"standardName\": \"数控回转头压力机数据处理软件及接口要求\", \"standardEnName\": \"Specification for data processing software and interface of CNC turret punch press\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.6\", \"cnName\": \"打标\", \"enName\": \"mark\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"ICS 25.120.10\", \"ccs\": \"CCS J 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 161514, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"打标\", \"cnNameSearch\": \"打标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用打标模具按照图形轨迹保持快速冲压打点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4c880934f31e4088ad10515a69ede2df\", \"databaseId\": null, \"standardId\": \"c4dde8954cde4d27970df11e18c39917\", \"standardCode\": \"GB/T 13297—2021\", \"standardName\": \"精密合金包装、标志和质量证明书的一般规定\", \"standardEnName\": \"General rules of packaging, marking and qualitycertification for precision alloys\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.4\", \"cnName\": \"标志\", \"enName\": \"mark\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"77.140.99\", \"ccs\": \"H 58\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196877, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标志\", \"cnNameSearch\": \"标志\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于表明产品信息的各种表述和指示的统称。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"注：常用的方法有喷印、盖印、滚印、打印、粘贴印记或贴（挂）标签、标牌。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eee175f83e6643119ee7c16ecacc9d7b\", \"databaseId\": null, \"standardId\": \"d120eda0dd094861bc70d8583c9ff7df\", \"standardCode\": \"GB/T 38155—2019\", \"standardName\": \"重要产品追溯 追溯术语\", \"standardEnName\": \"Important product traceability-Traceability terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.9\", \"cnName\": \"标示\", \"enName\": \"mark\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-18\", \"ics\": \"01.02001\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 208810, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标示\", \"cnNameSearch\": \"标示\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将代码转换成为标志的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"74330722dfa745ab8cb6f9c88bf404a2\", \"databaseId\": null, \"standardId\": \"71b98d89e0eb4f148ea35280eee5f476\", \"standardCode\": \"GB/T 33290.1—2016\", \"standardName\": \"文物出境审核规范 第1部分：总则\", \"standardEnName\": \"Specification for inspecting exit cultural relics—Part 1: General rules\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.8\", \"cnName\": \"标识\", \"enName\": \"mark\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"01.140.30\", \"ccs\": \"A01\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114585, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标识\", \"cnNameSearch\": \"标识\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"审核机构对许可出境物品所作的附着于物品上的不可转移的标识。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>标识分文物出境许可标识、文物复仿制品标识。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4bf49a46d4c74b148f3419557eeaacf6\", \"databaseId\": null, \"standardId\": \"7d02fc7b30ca4409b0d2803820fca50d\", \"standardCode\": \"GB/T 31912—2015\", \"standardName\": \"饰品  标识\", \"standardEnName\": \"Adornment—Mark\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"精密机械、珠宝\", \"termCode\": \"3.6\", \"cnName\": \"标识\", \"enName\": \"mark\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-05-04\", \"ics\": \"39.060\", \"ccs\": \"Y88\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133236, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标识\", \"cnNameSearch\": \"标识\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于识别饰品及其质量、数量、特征、特性、用途和使用方法所做的各种表示的统称，可以用文字、符号、数字、图案以及其他说明物表示。饰品的标识可分为印记、标签和其他标识物等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"05df5860023b4aa4844956959a4269c5\", \"databaseId\": null, \"standardId\": \"fcf2f2d74c6044009e3419c1414c1978\", \"standardCode\": \"GB/T 32215—2015\", \"standardName\": \"气动  控制阀和其他元件的气口和控制机构的标识\", \"standardEnName\": \"Pneumatic fluid power—Identification of ports and control mechanisms of control valves and other components\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.13\", \"cnName\": \"标注\", \"enName\": \"mark\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"23.100.50\", \"ccs\": \"J20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245657, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标注\", \"cnNameSearch\": \"标注\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"直接在元件上作标记的识别方法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d1a89a433aac443b816cb545ec423631\", \"databaseId\": null, \"standardId\": \"35c15af838b24e81abe210a2fc2512cd\", \"standardCode\": \"GB/T 17704.1—1999\", \"standardName\": \"信息技术信息交换用130mm一次写入盒式光盘第1部分:未记录盒式光盘\", \"standardEnName\": \"Information technology-130 mm optical disk cartridge,write once, for information interchangePart 1: Unrecorded optical disk cartridge\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.14 \", \"cnName\": \"标记\", \"enName\": \"mark\", \"publishTime\": \"1999-03-23\", \"publishYear\": \"1999\", \"implementTime\": \"1999-10-01\", \"ics\": \"35. 220. 30\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 57446, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标记\", \"cnNameSearch\": \"标记\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"记录层上由能被光学系统探测到的孔、坑、泡或任何类型的其他形式组成的形状特征。标记图样代表盘上的数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fec47ab56f4444d3af4157c0ffec7f8b\", \"databaseId\": null, \"standardId\": \"593f537a32ec412da718c4e204b9625b\", \"standardCode\": \"GB/T 17234—1998\", \"standardName\": \"信息技术 数据交换用90 mm 可重写和只读盒式光盘\", \"standardEnName\": \"Information technology-90 mm optical disk cartridges,rewritable and read only , for data interchange\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.12\", \"cnName\": \"标记\", \"enName\": \"mark\", \"publishTime\": \"1998-04-10\", \"publishYear\": \"1998\", \"implementTime\": \"1998-10-01\", \"ics\": \"35.220.30\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91173, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标记\", \"cnNameSearch\": \"标记\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"记录层上的磁畴、凹坑,或其他任何能被光学系统检测到的标记,它的图样代表了光盘上的数据。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>本定义中的标记并不是扇区中称为“标记”的子部分。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f475b2e190da4ffabd727f765e2c457f\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"10.1.21\", \"cnName\": \"测标\", \"enName\": \"measuring mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117682, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测标\", \"cnNameSearch\": \"测标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"measuring mark\", \"wordSearch\": \"measuring mark\"}, {\"languageType\": 1, \"word\": \"mark\", \"wordSearch\": \"mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在摄影测量平台上，对像点和模型点进行观察和量测的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e90fe95b39c47a8ae194aa6fde41c60\", \"databaseId\": null, \"standardId\": \"98f6afaa6067495ea8968191b35d82ef\", \"standardCode\": \"GB/T 5706—2018\", \"standardName\": \"纺织品 毛纺织产品 术语\", \"standardEnName\": \"Textiles—Wool textile products—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"6.26\", \"cnName\": \"搭头印\", \"enName\": \"decating mark\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"59.080.01\", \"ccs\": \"W 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159918, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"搭头印\", \"cnNameSearch\": \"搭头印\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"decating mark\", \"wordSearch\": \"decating mark\"}, {\"languageType\": 1, \"word\": \"apron mark\", \"wordSearch\": \"apron mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"煮呢、蒸呢过程中处理不当，织物表面呈现明显的分界线。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca95d35a7b28452f8480ad48d1ebd905\", \"databaseId\": null, \"standardId\": \"18374c9ac83b47d39f1afbc36acb9e7d\", \"standardCode\": \"GB/T 5756—2009\", \"standardName\": \"输送带术语及其定义\", \"standardEnName\": \"Conveyor belts — Terms and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.3.10\", \"cnName\": \"模型痕迹\", \"enName\": \"mould mark\", \"publishTime\": \"2009-04-24\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"53.040.20\", \"ccs\": \"G 42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23470, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模型痕迹\", \"cnNameSearch\": \"模型痕迹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mould mark\", \"wordSearch\": \"mould mark\"}, {\"languageType\": 1, \"word\": \"press mark\", \"wordSearch\": \"press mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"带表面由于硫化模具上有伤痕而造成的不平整缺陷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fb5bfdec61dc47c0864918daacfcbbf0\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.39\", \"cnName\": \"符号检验\", \"enName\": \"mark test\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41580, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"符号检验\", \"cnNameSearch\": \"符号检验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mark test\", \"wordSearch\": \"mark test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在水文测验中，用以检验所定水位流量关系曲线两侧测点数目分配是否均衡合理的一种统计检验方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6239cfea79c445e5a366d0de17759fa8\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.15.5.1\", \"cnName\": \"洪痕\", \"enName\": \"flood mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42853, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"洪痕\", \"cnNameSearch\": \"洪痕\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flood mark\", \"wordSearch\": \"flood mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一次洪水的最高洪水位在岸边或浸水建筑物上所遗留的泥印、水迹、人工刻记以及一切能够代表最高洪水到达位置的痕迹。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ede586c96ef14aa9b598ec856c835f44\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.9.12\", \"cnName\": \"水准点\", \"enName\": \"bench mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117649, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水准点\", \"cnNameSearch\": \"水准点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bench mark\", \"wordSearch\": \"bench mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用水准测量方法测定的高程控制点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1f3587611c264bd0a16efbee54fd8c54\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.9\", \"cnName\": \"测量标志\", \"enName\": \"surveying mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118165, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测量标志\", \"cnNameSearch\": \"测量标志\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"surveying mark\", \"wordSearch\": \"surveying mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"标定地面控制点或观测目标位置，有明确中心或顶面位置的标石、觇标及其他标记的通称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"263d3f03414a4080ac81923b8f753192\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"10.4.13\", \"cnName\": \"框标\", \"enName\": \"fiducial mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118175, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"框标\", \"cnNameSearch\": \"框标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fiducial mark\", \"wordSearch\": \"fiducial mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"摄影机承片框上用于标定录影面中心位置的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5dbb39d868d5462cafed8fbbc113d7cc\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.11\", \"cnName\": \"里程桩\", \"enName\": \"chainage mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118195, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"里程桩\", \"cnNameSearch\": \"里程桩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chainage mark\", \"wordSearch\": \"chainage mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用以标明线路上某点至起点距离的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"99d1302ce5b74d65a992bdf7438e644f\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.24\", \"cnName\": \"定位标记\", \"enName\": \"positioning mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118211, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"定位标记\", \"cnNameSearch\": \"定位标记\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"positioning mark\", \"wordSearch\": \"positioning mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为使定位和测深同步而发送并记录在测深仪存储介质上的标记信号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7a8b3ffafe884b39a4cfb2605a9801da\", \"databaseId\": null, \"standardId\": \"8e8762bb9f8240f08ccd75e9fcae1050\", \"standardCode\": \"GB 50838—2015\", \"standardName\": \"城市综合管廊工程技术规范\", \"standardEnName\": \"Technical code for urban utility tunnel engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.11\", \"cnName\": \"安全标识\", \"enName\": \"safety mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 150647, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"安全标识\", \"cnNameSearch\": \"安全标识\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"safety mark\", \"wordSearch\": \"safety mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为便于综合管廊内部管线分类管理、安全引导、警告示等而设置的铭牌或颜色标识。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d5b6bdf15c504ce89fc7c9b5cdd7ddbb\", \"databaseId\": null, \"standardId\": \"e648ed9284e74a89b16bac5a30947c24\", \"standardCode\": \"GB/T 5261—94\", \"standardName\": \"信息处理 七位和八位编码字符信息处理集用的控制功能\", \"standardEnName\": \"Information processing-Control functions for7-bit and 8-bit coded character sets\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.25 \", \"cnName\": \"小数点\", \"enName\": \"decimal mark\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 226344, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"小数点\", \"cnNameSearch\": \"小数点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"decimal mark\", \"wordSearch\": \"decimal mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个图形符号,通常是一个点,用于分隔十进制数的整数部分和小数部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 13}}, \"timestamp\": 1794671587409}"
+}

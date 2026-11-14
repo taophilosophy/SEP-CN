@@ -1,0 +1,19 @@
+{
+ "key": "tian pian",
+ "term": "Tian Pian",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:51:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "天部、人部、地部",
+   "en": "tian-ren-di needling depths",
+   "code": "GB/T 21709.16—2013",
+   "standard": "针灸技术操作规范 第16部分:腹针",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1}, \"sourceStats\": {\"医药卫生技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"059934855c7b4c9eb6fdae5340c84ead\", \"databaseId\": null, \"standardId\": \"ac8d0bb5f87d46f796cef37d3c3f20b7\", \"standardCode\": \"GB/T 21709.16—2013\", \"standardName\": \"针灸技术操作规范 第16部分:腹针\", \"standardEnName\": \"Standardized manipulations of acupuncture and moxibustion-Part 16: Abdominal acupuncture\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.2\", \"cnName\": \"天部、人部、地部\", \"enName\": \"tian-ren-di needling depths\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-12-01\", \"ics\": \"11.020\", \"ccs\": \"C 05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179304, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"天部、人部、地部\", \"cnNameSearch\": \"天部、人部、地部\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tian-ren-di needling depths\", \"wordSearch\": \"tian-ren-di needling depths\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"腹针将在腹壁的进针深度分为天、人、地三个层次，天部是指刺至腹部真皮层和皮下；人部是指刺至腹部浅筋膜和脂肪层，位于天部与地部之间：地部是指刺至腹部肌层。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671515374}"
+}

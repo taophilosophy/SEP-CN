@@ -1,0 +1,26 @@
+{
+ "key": "thabit ibn qurra",
+ "term": "Thābit ibn Qurra",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:46:30+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "热时间常数<i>τ</i><sub>th</sub>",
+   "en": "thermal time constant <i>τ</i><sub>th</sub>",
+   "code": "GB/T 4475—1995",
+   "standard": "敏感元器件术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "热容量",
+   "en": "heat capacity",
+   "code": "GB/T 6663.1—2007",
+   "standard": "直热式负温度系数热敏电阻器 第 1 部分:总规范",
+   "subject": "电子学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2007\": 1, \"1995\": 1}, \"sourceStats\": {\"电子学\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"1cbb200e093b49838388d2298bd52d11\", \"databaseId\": null, \"standardId\": \"2c6f82b1922e4f149471681b0d22baa2\", \"standardCode\": \"GB/T 4475—1995\", \"standardName\": \"敏感元器件术语\", \"standardEnName\": \"Terms of sensor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.2.17\", \"cnName\": \"热时间常数<i>τ</i><sub>th</sub>\", \"enName\": \"thermal time constant <i>τ</i><sub>th</sub>\", \"publishTime\": \"1995-07-24\", \"publishYear\": \"1995\", \"implementTime\": \"1996-04-01\", \"ics\": \"621.38:621.316.8:001.4\", \"ccs\": \"L15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 46442, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"热时间常数<i>τ</i><sub>th</sub>\", \"cnNameSearch\": \"热时间常数<i>τ</i><sub>th</sub>\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thermal time constant <i>τ</i><sub>th</sub>\", \"wordSearch\": \"thermal time constant <i>τ</i><sub>th</sub>\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在零功率条件下，当温度发生突变时，热敏电阻体的温度变化了始末两个温度差的 63.2% 所需的时间。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"869961c58abd461b88153737efea70d4\", \"databaseId\": null, \"standardId\": \"db53d60e2db44253858f8062e7dbda03\", \"standardCode\": \"GB/T 6663.1—2007\", \"standardName\": \"直热式负温度系数热敏电阻器 第 1 部分:总规范\", \"standardEnName\": \"Directly heated negative temperature coefficient thermistors—Part 1: Generic specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.2.35\", \"cnName\": \"热容量\", \"enName\": \"heat capacity\", \"publishTime\": \"2007-02-09\", \"publishYear\": \"2007\", \"implementTime\": \"2007-09-01\", \"ics\": \"31.040.30\", \"ccs\": \"L 15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215531, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"热容量\", \"cnNameSearch\": \"热容量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"heat capacity\", \"wordSearch\": \"heat capacity\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"<em>C</em><sub>th</sub>\", \"cnNameSearch\": \"<em>C</em><sub>th</sub>\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"热敏电阻器的温度升高 1 K 所需的能量（单位为 J）。热容量完全取决于元件设计。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>热容量可以通过以下公式计算：<em>C</em><sub>th =</sub> <em>δ</em> × <em>τ</em><sub><em>c</em></sub></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671187028}"
+}
