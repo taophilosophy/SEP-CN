@@ -1,6 +1,6 @@
 # 翻译与三审三校流程
 
-本规则展开宪法第 IV 条（流程先行）与第 VI 条（体例即契约），落地 `specs/001-sep-sync-pipeline/spec.md` 的 FR-011/012/013。任务状态的机器可判定载体是 `tasks/` 下的 JSON 文档任务（协议见 `tasks/README.md`，操作用 `python tools/task_ops.py`）。
+本规则展开宪法第 IV 条（流程先行）与第 VI 条（体例即契约），落地 `specs/001-sep-sync-pipeline/spec.md` 的 FR-011/012/013。全流程的过程架构、信息项五属性与符合性自检见 [09](09-process-standard.md)（ADR-0044）。任务状态的机器可判定载体是 `tasks/` 下的 JSON 文档任务（协议见 `tasks/README.md`，操作用 `python tools/task_ops.py`）。
 
 ## 任务方向声明（宪法 VII）
 

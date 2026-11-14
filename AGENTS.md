@@ -21,6 +21,7 @@
 | 改目录、标题、结构 | `rules/01-repository-structure.md`：`SUMMARY.md` 唯一数据源；词条为 `<letter>/<slug>.md`（ADR-0009）；`mu-lu-s.md` 为手编分类目录 |
 | 接入新词条、更新任务 | `specs/001-sep-sync-pipeline/contracts/cli.md` 职责权属表：`apply-add` 唯一入口；`compare` 产出变更文件后转 update 任务 |
 | 提交、用工具、CI | `rules/05-ci-and-tools.md` |
+| 过程符合性、信息项凭证、评审与度量 | `rules/09-process-standard.md`（ADR-0044） |
 | 修订规则、批量与破坏性动作、多会话协作 | `rules/06-governance.md`、`rules/adr/` |
 
 ## 开工与收工

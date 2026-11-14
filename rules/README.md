@@ -31,7 +31,7 @@
 | 类别 | 存放位置 | 内容 | 权属 |
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
-| 约束性规则 | `rules/01-08` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
+| 约束性规则 | `rules/01-09` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
 | 站点实现文档 | [`.vitepress/README.md`](../.vitepress/README.md) | 阅读站构建、主题、搜索、双语配对的实现说明（**非规则**，冲突以 rules/ 为准；ADR-0015） | 站点会话 |
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
@@ -85,6 +85,7 @@
 * 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。
 * 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。
 * 批量或破坏性动作 → 先满足宪法附加约束（可信基线 + 可回溯），见 [06](06-governance.md)。
+* 批次/阶段符合性自检、信息项凭证规格、评审与度量口径 → 按 [09](09-process-standard.md) 三张自检单与字段表（ADR-0044）。
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
 * 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
 * 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05-ci-and-tools.md) 为准。
