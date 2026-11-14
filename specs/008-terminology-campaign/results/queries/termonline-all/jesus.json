@@ -1,0 +1,40 @@
+{
+ "key": "jesus",
+ "term": "Jesus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T04:35:58+00:00",
+ "status": "ok",
+ "note": "variant=Jesus; 审定公布名词库=1; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "耶稣会",
+   "en": "Society of Jesus",
+   "code": "02.1208",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革"
+  },
+  {
+   "cn": "耶稣之死",
+   "en": "Der Tod Jesu",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "托马斯，杰斯",
+   "en": "Thomas\",\"Jess(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "桑罗马",
+   "en": "Sanromá\",\"Jesús María(波多黎各)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

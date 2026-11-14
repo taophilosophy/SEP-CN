@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 2664,
-  "查无": 6234,
-  "不一致": 817,
-  "一致": 1167
+  "未查证": 2545,
+  "查无": 6344,
+  "不一致": 825,
+  "一致": 1168
  },
  "results": [
   {
@@ -161596,9 +161596,11 @@
    "term": "Jean Fernel",
    "trans": "让·费尔内尔",
    "basis": "医史通行音译（盖伦传统医家）；籍属/生卒联网查证：GND 规范标目 gnd 119220903（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161618,9 +161620,11 @@
    "term": "Jeans, James",
    "trans": "詹姆斯·金斯",
    "basis": "学界通行汉译（《神秘宇宙》作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161628,9 +161632,11 @@
    "term": "Jeffreys, Harold",
    "trans": "哈罗德·杰弗里斯",
    "basis": "学界通行音译（《科学推理》作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11709384X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161638,9 +161644,11 @@
    "term": "Jenei, Sándor",
    "trans": "Jenei",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161648,9 +161656,11 @@
    "term": "Jenkin, Henry Fleeming",
    "trans": "亨利·弗莱明·詹金",
    "basis": "学界惯例（工程学家，1867 年书评作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161658,9 +161668,11 @@
    "term": "Jenkins",
    "trans": "Jenkins（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（Jenkins & Webster 2021“边缘化功能”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161668,9 +161680,11 @@
    "term": "Jennie Simpson",
    "trans": "珍妮·辛普森",
    "basis": "克鲁梅尔继室，史料人物音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161678,9 +161692,11 @@
    "term": "Jennifer Tsien",
    "trans": "詹妮弗·齐恩",
    "basis": "学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 1017989117（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161688,9 +161704,11 @@
    "term": "Jensen, Ronald",
    "trans": "罗纳德·詹森",
    "basis": "美国",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161698,9 +161716,11 @@
    "term": "Jerome (St.)",
    "trans": "圣哲罗姆（哲罗姆）",
    "basis": "学界惯例（教父通译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161708,9 +161728,11 @@
    "term": "Jessica Benjamin",
    "trans": "杰西卡·本雅明",
    "basis": "学界通行音译（关系精神分析）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161718,9 +161740,11 @@
    "term": "Jessop, Bob",
    "trans": "鲍勃·杰索普",
    "basis": "国家理论家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118961292（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161728,9 +161752,11 @@
    "term": "Jesus",
    "trans": "耶稣",
    "basis": "学界千年通行译名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161738,9 +161764,11 @@
    "term": "Jesus of Nazareth",
    "trans": "拿撒勒人耶稣",
    "basis": "《圣经》和合本通行译名（非历史年表人物，经文引文语境）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161748,9 +161776,11 @@
    "term": "Jevons, Thomas",
    "trans": "托马斯·杰文斯",
    "basis": "构词直译（杰文斯之父，铁商）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161758,9 +161788,18 @@
    "term": "Jevons, William Stanley / William Stanley Jevons",
    "trans": "Jevons",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `William Stanley Jevons`）；籍属/生卒联网查证：GND 规范标目 gnd 118984357（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "威廉·斯坦利·杰文斯",
+     "en": "William Stanley Jevons（1835—1882）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161768,9 +161807,11 @@
    "term": "Jha, Ganganatha",
    "trans": "Ganganatha Jha（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（《正理经》英译者）；凭证 2026-11-12 concept-emotion-india r2；籍属/生卒联网查证：GND 规范标目 gnd 119221748（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161788,9 +161829,11 @@
    "term": "Ji Yun",
    "trans": "纪昀",
    "basis": "上游自带汉字；学界通行（四库馆总纂官）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161798,9 +161841,24 @@
    "term": "Jia Yi",
    "trans": "贾谊",
    "basis": "上游自带汉字（西汉政论家）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "仪驾",
+     "en": "yi jia;ceremonial carriage and guard",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "嘉定和议",
+     "en": "Jia Ding he yi;Jiading peace negotiation",
+     "source": "中国古代史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161808,9 +161866,11 @@
    "term": "Jiang Yong",
    "trans": "江永",
    "basis": "上游自带汉字；学界通行（三礼与历算名家，戴震之师）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161818,9 +161878,11 @@
    "term": "Jiao Xun",
    "trans": "焦循",
    "basis": "上游自带汉字；学界通行（《孟子正义》作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 172169135（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161828,9 +161890,11 @@
    "term": "Jitāri",
    "trans": "Jitāri（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161838,9 +161902,11 @@
    "term": "Jñānaśrīmitra",
    "trans": "Jñānaśrīmitra（保留梵文）",
    "basis": "无汉文古译与通行今译（ADR-0022 类推，保留梵文）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161848,9 +161914,11 @@
    "term": "Joachim Lange",
    "trans": "约阿希姆·朗格",
    "basis": "学界通行汉译（哈勒虔敬派）；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 103154124（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161858,9 +161926,11 @@
    "term": "Joachim, Harold Henry",
    "trans": "哈罗德·亨利·约阿希姆",
    "basis": "学界通行音译（英国唯心论者，《斯宾诺莎伦理学研究》作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161868,9 +161938,11 @@
    "term": "Joan Baptista van Helmont",
    "trans": "让·巴普蒂斯塔·范·赫尔蒙特",
    "basis": "医史/化学史通行汉译（《医学之源》作者）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161878,9 +161950,11 @@
    "term": "Joas, Hans",
    "trans": "汉斯·约阿斯",
    "basis": "学界通行汉译（社会理论；中译全集行世）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161888,9 +161962,11 @@
    "term": "Johann Adolf Schlegel",
    "trans": "约翰·阿道夫·施莱格尔",
    "basis": "学界惯例（施莱格尔之父，牧师与文人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118607995（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161898,9 +161974,11 @@
    "term": "Johann Benjamin Erhard",
    "trans": "约翰·本雅明·埃尔哈德",
    "basis": "音译（德国观念论同代人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119024241（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161908,9 +161986,11 @@
    "term": "Johann Christoph Gottsched",
    "trans": "约翰·克里斯托弗·戈特舍德",
    "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 118541013（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161918,9 +161998,11 @@
    "term": "Johann Eck",
    "trans": "约翰·埃克",
    "basis": "学界通行汉译（神学家、路德论敌）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161928,9 +162010,11 @@
    "term": "Johann Elias Schlegel",
    "trans": "约翰·埃利亚斯·施莱格尔",
    "basis": "学界惯例（施莱格尔叔父，剧作家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161938,9 +162022,11 @@
    "term": "Johann Franz Budde",
    "trans": "约翰·弗朗茨·布德",
    "basis": "学界通行汉译（Buddeus）；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161948,9 +162034,24 @@
    "term": "Johann Friedrich",
    "trans": "约翰·弗里德里希",
    "basis": "学界通行汉译（汉诺威公爵）；待 specs/008 审定库复核",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "布格缪勒，约翰",
+     "en": "Burgmüller\",\"Johann Friedrich(德国)",
+     "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "巴赫，约翰· 克利斯托弗·弗里德里希",
+     "en": "Bach\",\"Johann Christoph Friedrich(德国)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161958,9 +162059,11 @@
    "term": "Johann Gottlob Krüger",
    "trans": "约翰·戈特洛布·克吕格",
    "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161968,9 +162071,11 @@
    "term": "Johann Heinrich Lambert",
    "trans": "约翰·海因里希·兰伯特",
    "basis": "学界通行汉译；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161978,9 +162083,11 @@
    "term": "Johann Wolfgang von Goethe",
    "trans": "歌德",
    "basis": "千年通行译名（德国古典时代文学宗师；本表从简式通称）；籍属/生卒联网查证：GND 规范标目 gnd 118540238（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161988,9 +162095,11 @@
    "term": "Johanna Charlotte Unzer (née Ziegler)",
    "trans": "约翰娜·夏洛特·翁策尔（娘家姓齐格勒）",
    "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -161998,9 +162107,11 @@
    "term": "Johannes Pagus",
    "trans": "约翰内斯·帕古斯",
    "basis": "本词条首译（中世纪逻辑家，无通行汉名）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162008,9 +162119,11 @@
    "term": "Johansson, Marcus",
    "trans": "马库斯·约翰松",
    "basis": "学界通行音译（虚拟行为伦理）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162018,9 +162131,11 @@
    "term": "Johansson, Scarlett",
    "trans": "斯嘉丽·约翰逊",
    "basis": "学界惯例（影视界通行译名，词条作假设例）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 129616214（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162028,9 +162143,11 @@
    "term": "John Calvin",
    "trans": "约翰·加尔文",
    "basis": "学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162038,9 +162155,11 @@
    "term": "John Cook Wilson",
    "trans": "约翰·库克·威尔逊",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：LCNAF n80109962（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162048,9 +162167,11 @@
    "term": "John Corcoran",
    "trans": "保留英文（无通行汉名）",
    "basis": "ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 172034353（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162058,9 +162179,18 @@
    "term": "John Donne",
    "trans": "约翰·多恩",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·多恩的圣十四行",
+     "en": "Holy Sonnets of John Donne",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162092,9 +162222,18 @@
    "term": "John Hick",
    "trans": "约翰·希克",
    "basis": "学界通行汉译（宗教多元论）；籍属/生卒联网查证：GND 规范标目 gnd 119231344（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·希克斯",
+     "en": "John Richard Hicks（1904—1989）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162102,9 +162241,11 @@
    "term": "John Italos",
    "trans": "约翰·伊塔洛斯（正文简作“伊塔洛斯”）",
    "basis": "SUMMARY 定名沿用（11 世纪拜占庭哲学家）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162112,9 +162253,11 @@
    "term": "John L. Wilson",
    "trans": "约翰·L·威尔逊",
    "basis": "19 世纪传教士人种志学者，音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162122,9 +162265,11 @@
    "term": "John Lutterell",
    "trans": "约翰·拉特雷尔",
    "basis": "前牛津大学校长；学界音译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 102547165（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162132,9 +162277,18 @@
    "term": "John Maynard Keynes",
    "trans": "约翰·梅纳德·凯恩斯",
    "basis": "学界通行汉译；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118561804（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·梅纳德·凯恩斯",
+     "en": "John Maynard Keynes(1883—1946)",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162154,9 +162308,11 @@
    "term": "John of Alleux",
    "trans": "阿勒的约翰",
    "basis": "依地名冠称（1277 年巴黎大学校监）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162164,9 +162320,11 @@
    "term": "John of Cornwall",
    "trans": "康沃尔的约翰",
    "basis": "中世纪牛津学者（《〈后分析篇〉问题》作者）；音译，凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162174,9 +162332,11 @@
    "term": "John of Dacia",
    "trans": "达西亚的约翰",
    "basis": "学界惯例（13 世纪丹麦语文学家，《语法大全》作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162184,9 +162344,11 @@
    "term": "John of Damascus",
    "trans": "大马士革的约翰",
    "basis": "教父学界通行汉译；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162194,9 +162356,11 @@
    "term": "John of Naples",
    "trans": "那不勒斯的约翰",
    "basis": "依地名冠称（多明我会神学家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162204,9 +162368,11 @@
    "term": "John of Paris",
    "trans": "巴黎的约翰",
    "basis": "学界通行（同时代政论作者，近奥卡姆立场）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162214,9 +162380,11 @@
    "term": "John of Pouilly",
    "trans": "普伊的约翰",
    "basis": "经院学者通行（John of Pouilly，神学硕士）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162224,9 +162392,11 @@
    "term": "John of Salisbury",
    "trans": "索尔兹伯里的约翰",
    "basis": "学界通行汉译（12 世纪人文主义者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162234,9 +162404,11 @@
    "term": "John of St. Thomas",
    "trans": "圣托马斯的约翰（若昂·波因索特）",
    "basis": "托马斯主义研究通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162244,9 +162416,11 @@
    "term": "John Paul II",
    "trans": "若望·保禄二世",
    "basis": "天主教中文通名（教廷文献署名；世俗文献亦作“约翰·保罗二世”，本词条锁定教会通行形）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162254,9 +162428,11 @@
    "term": "John Pecham",
    "trans": "约翰·佩卡姆",
    "basis": "中世纪哲学通行汉译（牛津方济各会，后任坎特伯雷大主教）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118557939（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162276,9 +162452,11 @@
    "term": "John Scotus Eriugena",
    "trans": "约翰·司各脱·爱留根纳",
    "basis": "中世纪哲学通行汉译（9 世纪爱尔兰神学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162286,9 +162464,11 @@
    "term": "John Sergeant",
    "trans": "约翰·萨金特",
    "basis": "学界通行汉译（17 世纪英格兰哲人）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162308,9 +162488,11 @@
    "term": "John Venn",
    "trans": "约翰·文恩",
    "basis": "学界通行汉译（《符号逻辑》作者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 1143124758（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162318,9 +162500,11 @@
    "term": "John Winnie",
    "trans": "保留英文（无通行汉名）",
    "basis": "ADR-0022：无通行汉名者保留英文",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162340,9 +162524,11 @@
    "term": "John XXI",
    "trans": "教皇约翰二十一世",
    "basis": "中世纪教皇通行汉译（彼得·西班牙人）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162362,9 +162548,11 @@
    "term": "Johnson, Samuel",
    "trans": "塞缪尔·约翰逊",
    "basis": "学界通行汉译（Dr. Johnson，莎士比亚剧本序言作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162372,9 +162560,11 @@
    "term": "Johnston, Charlotte",
    "trans": "夏洛特·约翰斯顿",
    "basis": "洛克研究者；音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162382,9 +162572,11 @@
    "term": "Jonah",
    "trans": "约拿",
    "basis": "圣经典故人名通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162392,9 +162584,11 @@
    "term": "Jonas, Hans",
    "trans": "汉斯·约纳斯",
    "basis": "学界通行汉译（诺斯替研究）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162414,9 +162608,18 @@
    "term": "Jones, Peter",
    "trans": "琼斯",
    "basis": "学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "费舍曼－琼斯－豪瑟假设 Featherman-Jones-Hauser Hypothesis",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162424,9 +162627,11 @@
    "term": "Jordan of Saxony",
    "trans": "萨克森的乔丹",
    "basis": "学界通行汉译（多明我会总会长）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162434,9 +162639,11 @@
    "term": "Jordanus de Nemore",
    "trans": "内莫尔的约尔丹努斯",
    "basis": "学界惯例（中世纪数学家，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 11917121X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162444,9 +162651,11 @@
    "term": "Jorge Luis Borges",
    "trans": "豪尔赫·路易斯·博尔赫斯",
    "basis": "学界通行汉译（作家，《巴别图书馆》作者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118513532（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162454,9 +162663,11 @@
    "term": "Jorn, Asger",
    "trans": "阿斯格·约恩",
    "basis": "丹麦画家、理论家（CoBrA 运动；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11871306X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162464,9 +162675,11 @@
    "term": "Joscelin of Soissons",
    "trans": "苏瓦松的若斯兰",
    "basis": "学界惯例（12 世纪苏瓦松主教）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162486,9 +162699,11 @@
    "term": "Josef Ibn Haviva",
    "trans": "约瑟夫·伊本·哈维瓦",
    "basis": "学界通行中译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162496,9 +162711,11 @@
    "term": "Josef Ibn Shem Tov",
    "trans": "约瑟夫·伊本·谢姆·托夫",
    "basis": "学界通行中译（《驳基督教诸原理》希伯来译者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162506,9 +162723,11 @@
    "term": "Joseph Priestley",
    "trans": "约瑟夫·普里斯特利",
    "basis": "学界通行汉译（化学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162516,9 +162735,11 @@
    "term": "Joseph Story",
    "trans": "约瑟夫·斯托里",
    "basis": "美国最高法院大法官通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 119079275（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162526,9 +162747,11 @@
    "term": "Jospe, Raphael",
    "trans": "拉斐尔·约斯佩",
    "basis": "音译（当代犹太哲学史家）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 152068449（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162536,9 +162759,11 @@
    "term": "Joyce, James",
    "trans": "James Joyce",
    "basis": "现代学者保留英文（ADR-0022；决策论与贝叶斯认识论，本词条作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162546,9 +162771,11 @@
    "term": "Joyce, James Augustine Aloysius",
    "trans": "詹姆斯·乔伊斯",
    "basis": "文学界千年通行（《尤利西斯》作者）；与决策论者 James M. Joyce（bayes-theorem 词条作者，保留英文）同姓异人；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162556,9 +162783,11 @@
    "term": "Juan Luis Vives",
    "trans": "胡安·路易斯·比韦斯（亦作“维夫斯”）",
    "basis": "学界通行汉译（西班牙人文主义者；正文 22:8 通行“比韦斯”）；亦作记词汇表旧形“维夫斯”；生卒通行作 1493–1540",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162566,9 +162795,11 @@
    "term": "Judah ben Solomon ha-Cohen",
    "trans": "犹大·本·所罗门·哈科恩",
    "basis": "音译（13 世纪犹太哲学家）；ha-Cohen 译“哈科恩”",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162588,9 +162819,11 @@
    "term": "Julian",
    "trans": "尤利安（罗马皇帝，背教者）",
    "basis": "古典学界通行汉译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162598,9 +162831,11 @@
    "term": "Julius II",
    "trans": "尤利乌斯二世",
    "basis": "教宗通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162608,9 +162843,11 @@
    "term": "Julius Landmann",
    "trans": "尤利乌斯·兰德曼",
    "basis": "学界通行汉译（瑞士经济学家，兰德曼-卡利舍尔之夫）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118569139（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162618,9 +162855,11 @@
    "term": "Jung, Carl Gustav",
    "trans": "卡尔·古斯塔夫·荣格",
    "basis": "学界千年通行汉译（分析心理学）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118558749（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162628,9 +162867,11 @@
    "term": "Jürgen Habermas",
    "trans": "于尔根·哈贝马斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162638,9 +162879,11 @@
    "term": "Jurieu, Pierre",
    "trans": "皮埃尔·朱里厄",
    "basis": "学界通行音译（培尔论敌，鹿特丹墙外神学家）；籍属/生卒联网查证：GND 规范标目 gnd 118558900（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162648,9 +162891,11 @@
    "term": "Jurjānī",
    "trans": "朱尔贾尼",
    "basis": "伊斯兰哲学通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162658,9 +162903,11 @@
    "term": "Justin Martyr",
    "trans": "殉道者查士丁",
    "basis": "教父学通行汉译；与登记册 Justinian 查士丁尼异人",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162668,9 +162915,11 @@
    "term": "Justinian",
    "trans": "查士丁尼",
    "basis": "史学界通行汉译（东罗马皇帝，529 年立法关闭雅典学园）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162678,9 +162927,11 @@
    "term": "Justinian the Great",
    "trans": "查士丁尼大帝",
    "basis": "沿本册 Justinian=查士丁尼；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162688,9 +162939,11 @@
    "term": "Jutla, Charanjit S.",
    "trans": "Charanjit S. Jutla",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162698,9 +162951,11 @@
    "term": "Juzhi",
    "trans": "俱胝",
    "basis": "佛学界通行汉译（俱胝和尚，一指禅）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162728,9 +162983,11 @@
    "term": "K. Ladin",
    "trans": "K. 拉丁",
    "basis": "学界惯例（生物伦理通行译法）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162738,9 +162995,11 @@
    "term": "Kabir",
    "trans": "卡比尔",
    "basis": "学界通行汉译（印度虔信诗人，GG 收录）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162748,9 +163007,11 @@
    "term": "Kada Arimaro",
    "trans": "荷田在满",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162758,9 +163019,11 @@
    "term": "Kada no Azumamaro",
    "trans": "荷田春满",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162768,9 +163031,11 @@
    "term": "Kaegi, Dominic",
    "trans": "Dominic Kaegi（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 140812172（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162778,9 +163043,11 @@
    "term": "Kafka, Franz",
    "trans": "弗朗茨·卡夫卡",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162788,9 +163055,11 @@
    "term": "Kagan, Shelly",
    "trans": "谢利·卡根",
    "basis": "学界通行汉译（《道德的限度》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162798,9 +163067,11 @@
    "term": "Kahane, Guy",
    "trans": "盖伊·卡哈内",
    "basis": "学界惯例音译（残疾的福利主义定义进路，与 Savulescu 合著；正文首现括注）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162808,9 +163079,11 @@
    "term": "Kahn Singh Nabha",
    "trans": "卡恩·辛格·纳巴",
    "basis": "本库首译（《古鲁词汇大词典》作者；旁遮普音自拟）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162818,9 +163091,18 @@
    "term": "Kahneman, Daniel",
    "trans": "丹尼尔·卡尼曼",
    "basis": "学界通行汉译（前景理论）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "丹尼尔·卡内曼",
+     "en": "Daniel Kahneman (1934—)",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162828,9 +163110,11 @@
    "term": "Kalicki, Jan",
    "trans": "Jan Kalicki",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162838,9 +163122,11 @@
    "term": "Kalinowski, Marc",
    "trans": "马克",
    "basis": "学界通行（汉名马克，数术与占卜研究）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162848,9 +163134,11 @@
    "term": "Kamalaśīla",
    "trans": "莲花戒",
    "basis": "佛典古译传统译名（约 740–795，寂护弟子）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162858,9 +163146,11 @@
    "term": "Kamei Koremi",
    "trans": "龟井兹监",
    "basis": "学界通行汉译；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162868,9 +163158,11 @@
    "term": "Kamm, F.M.",
    "trans": "F.M.卡姆",
    "basis": "学界通行汉译（《义务伦理学》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162878,9 +163170,11 @@
    "term": "Kamo no Chōmei",
    "trans": "鸭长明",
    "basis": "学界惯例（日本文学史通行汉名）；籍属/生卒联网查证：GND 规范标目 gnd 118959883（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162888,9 +163182,11 @@
    "term": "Kamo no Mabuchi",
    "trans": "贺茂真渊",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162898,9 +163194,11 @@
    "term": "Kamp, Hans",
    "trans": "汉斯·坎普",
    "basis": "学界通行音译（DRT 创始者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162908,9 +163206,18 @@
    "term": "Kaṇāda",
    "trans": "迦那陀",
    "basis": "学界通行音译（《胜论经》托名作者；亦作“羯那陀”）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "坎纳达人",
+     "en": "Kanada",
+     "source": "民族学与文化学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162918,9 +163225,11 @@
    "term": "Kang Chŏngildang",
    "trans": "姜静一堂",
    "basis": "汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162928,9 +163237,11 @@
    "term": "Kanizsa, Gaetano",
    "trans": "加埃塔诺·卡尼扎",
    "basis": "学界通行音译（卡尼扎三角形错觉）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -162938,9 +163249,11 @@
    "term": "Kann, Christoph",
    "trans": "Christoph Kann（现代学者，保留英文）",
    "basis": "ADR-0022（舍伍德校勘本编者）；籍属/生卒联网查证：GND 规范标目 gnd 122846699（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

@@ -1,0 +1,54 @@
+{
+ "key": "jenkins",
+ "term": "Jenkins",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T04:31:28+00:00",
+ "status": "ok",
+ "note": "variant=Jenkins; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "博克斯–詹金斯方法",
+   "en": "Box-Jenkins method",
+   "code": "02.0613",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_数量经济的理论与方法"
+  },
+  {
+   "cn": "詹金斯睡眠量表",
+   "en": "Jenkins sleep scale;JSS",
+   "code": "4.461",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病诊断学_睡眠相关量表和问卷"
+  },
+  {
+   "cn": "詹金斯之耳战争",
+   "en": "War of Jenkin's Ear",
+   "code": "03.0011",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "溜放调车",
+   "en": "fly-shunting,coasting,jerking",
+   "code": "06.0260",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道运输管理与运输经济"
+  },
+  {
+   "cn": "眼球震颤样跳动",
+   "en": "nystagmoid jerking",
+   "code": "04.732",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼科疾病"
+  },
+  {
+   "cn": "贾金斯冠状动脉导管",
+   "en": "Judkins coronary catheter",
+   "code": "01.566",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
