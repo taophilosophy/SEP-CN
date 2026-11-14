@@ -2,10 +2,347 @@
  "key": "menger, karl",
  "term": "Menger, Karl",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:24+00:00",
- "status": "error",
- "note": "variant=Menger, Karl; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Menger, Karl: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:31:32+00:00",
+ "status": "ok",
+ "note": "variant=Menger, Karl; 审定公布名词库=1405; 海峡两岸名词对照库=465; 其他来源数据库=165; 预公布名词数据库=84; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卡尔·门格尔",
+   "en": "Carl Menger（1840—1921）",
+   "code": "16.027",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "卡尔·费歇尔滴定法",
+   "en": "Karl Fischer titration",
+   "code": "03.0404",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学分析"
+  },
+  {
+   "cn": "卡尔·费歇尔试剂",
+   "en": "Karl Fischer reagent",
+   "code": "03.0405",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学分析"
+  },
+  {
+   "cn": "半微量水分测定法",
+   "en": "semi-micro determination of water,Karl Fischer method",
+   "code": "06.141",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "央斯基甚大阵",
+   "en": "Karl G. Jansky Very Large Array; Jansky VLA",
+   "code": "06.487",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "泥灰岩",
+   "en": "marl",
+   "code": "05.04.084",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型"
+  },
+  {
+   "cn": "泥灰肥",
+   "en": "marl",
+   "code": "02.0161",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "泥灰岩",
+   "en": "marl",
+   "code": "07.0208",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_天然材料_矿物"
+  },
+  {
+   "cn": "泥灰岩",
+   "en": "marl",
+   "code": "02.0180",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_含油气盆地沉积学"
+  },
+  {
+   "cn": "饥饿中枢",
+   "en": "hunger center",
+   "code": "03.632",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "code": "02.0324",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "卡普线",
+   "en": "Karp line",
+   "code": "10.181",
+   "standard": "电子学名词",
+   "subject": "电子学_真空电子学"
+  },
+  {
+   "cn": "克鲁格",
+   "en": "Krueger\",\"Karl(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "霍夫曼，卡尔",
+   "en": "Hoffmann\",\"Karl(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "里德布施",
+   "en": "Ridderbusch\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "盖林格",
+   "en": "Geiringer\",\"Karl(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "勒韦",
+   "en": "Loewe\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马克思，卡尔",
+   "en": "Marx\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "埃尔门多夫",
+   "en": "Elmendorff\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克林德沃特",
+   "en": "Klindworth\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "穆克",
+   "en": "Muck\",\"Karl(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "本德尔",
+   "en": "Bendl\",\"Karl(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "普罗哈斯卡，卡尔",
+   "en": "Prohaska\",\"Karl(奥地利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "戈德马克，卡尔",
+   "en": "Goldmark\",\"Karl(匈牙利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "香蒲",
+   "en": "Carl Borivoj Presl",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "静电感应",
+   "en": "Johan Carl Wilcke",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "埃德蒙兹-卡普算法",
+   "en": "Edmonds–Karp algorithm",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中后卫",
+   "en": "center\",\"center back",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "回到中心区!",
+   "en": "Center!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "危险动作！",
+   "en": "Danger!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "京格尔",
+   "en": "Gienger",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "击剑运动员",
+   "en": "fencer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "喀喇汗王朝",
+   "en": "Kara Khanate",
+   "code": "3.0181",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "卡尔·罗杰斯",
+   "en": "Carl R.Rogers",
+   "code": "4.4.7.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作理论"
+  },
+  {
+   "cn": "雅尔湖千佛洞",
+   "en": "Yarl Lake grottoes",
+   "code": "3.0621",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "兼并",
+   "en": "merger",
+   "code": "02.0165",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "医院合并",
+   "en": "hospital merger",
+   "code": "14.2.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "举止",
+   "en": "manner",
+   "code": "4.2.9.39",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "5.1.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "1.0218",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "并购",
+   "en": "merger and acquisition",
+   "code": "8.1.2.5.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生资源配置_卫生资源配置"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "code": "1.0219",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "安全限值",
+   "en": "danger threshold",
+   "code": "6.3.1.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "code": "3.2.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  }
+ ],
+ "error": null,
  "raw": null
 }

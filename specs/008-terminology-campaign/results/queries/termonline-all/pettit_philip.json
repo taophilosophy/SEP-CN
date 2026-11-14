@@ -2,10 +2,277 @@
  "key": "pettit, philip",
  "term": "Pettit, Philip",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:25+00:00",
- "status": "error",
- "note": "variant=Pettit, Philip; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Pettit, Philip: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:34:33+00:00",
+ "status": "ok",
+ "note": "variant=Pettit, Philip; 审定公布名词库=138; 海峡两岸名词对照库=71; 其他来源数据库=9; 预公布名词数据库=5; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "菲利普王之战",
+   "en": "King Philip's War",
+   "code": "03.0004",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "腓力二世改革",
+   "en": "Reforms of Philip II of Macedonia",
+   "code": "02.0362",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "菲莱号彗星着陆器",
+   "en": "Philae",
+   "code": "06.566",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "小发作",
+   "en": "petit mal",
+   "code": "07.320",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": "2.0847",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": "05.023",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物生理生化"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": "6.0195",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_多糖_单糖衍生物"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": "02.0709",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品添加剂与配料_食品添加剂"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": "02.058",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础营养_糖类"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": "03.319",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞结构与细胞外基质"
+  },
+  {
+   "cn": "菲利普斯曲线",
+   "en": "Phillips curve",
+   "code": "07.033",
+   "standard": "经济学名词",
+   "subject": "经济学_劳动经济学"
+  },
+  {
+   "cn": "菲力普斯曲线",
+   "en": "Phillips curve",
+   "code": "21.228",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_人力资源学"
+  },
+  {
+   "cn": "拉德克利夫",
+   "en": "Radcliffe\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格拉斯",
+   "en": "Glass\",\"Philip(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克兰默",
+   "en": "Cranmer\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "坎农",
+   "en": "Cannon\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "苏萨",
+   "en": "Sousa\",\"John Philip(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "施皮塔",
+   "en": "Spitta\",\"Philipp(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "播娘蒿",
+   "en": "Philip Barker-Webb",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "培养皿",
+   "en": "Petri dish, Petrie dish, Petri plate, cell-culture dish",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "果胶",
+   "en": "pectin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "菲利普斯曲线",
+   "en": "Phillips Curve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "杜隆-珀蒂定律",
+   "en": "Dulong-Petit law",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "小人",
+   "en": "Petty Man",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "威廉·配第",
+   "en": "William Petty",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "证照电子化",
+   "en": "electronic license and permit",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "宜水则水、宜山则山，宜粮则粮、宜农则农，宜工则工、宜商则商",
+   "en": "to make use of the water and mountain resources, grow crops, and develop agriculture, industry or business where conditions permit",
+   "code": null,
+   "standard": "重大国家战略常用关键词英文译法",
+   "subject": "其他"
+  },
+  {
+   "cn": "小资产阶级",
+   "en": "petite bourgeoisie",
+   "code": "2.6.5.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_阶级"
+  },
+  {
+   "cn": "鼠疫耶尔森菌",
+   "en": "Yersinia pestis",
+   "code": "9.1.1.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物武器"
+  },
+  {
+   "cn": "小资产阶级",
+   "en": "petty bourgeoisie",
+   "code": "03.0211",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "小资产阶级革命性",
+   "en": "petty bourgeois revolutionary nature",
+   "code": "03.0212",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "小资产阶级民主派",
+   "en": "petty bourgeois democratic faction",
+   "code": "04.0322",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
