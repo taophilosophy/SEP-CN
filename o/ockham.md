@@ -22,7 +22,7 @@
 
 ### 1.2 阿维尼翁（1324—28）
 
-在阿维尼翁，奥卡姆住在方济各会会院。有人说他实际上处于软禁之中，这恐怕言过其实；实情恰恰相反，逗留该城期间他似乎相当自由，大体可以随心行事。审查想必没有占用他太多精力：在阿维尼翁，他照样推进多项其他工作，包括完成最后一部重要神学著作《自由论题》。应当指出：审查固然产出过一些严厉声明，但他的观点从未被正式判为异端。
+在阿维尼翁，奥卡姆住在方济各会会院。有人说他实际上处于软禁之中，这恐怕言过其实；实情恰恰相反，逗留该城期间他似乎相当自由，大体可以随心行事。审查想必没有占用他太多精力：在阿维尼翁，他照样推进多项其他工作，包括完成最后一部重要神学著作《七个自由论题》。应当指出：审查固然产出过一些严厉声明，但他的观点从未被正式判为异端。
 
 1327 年，方济各会总会长（修会最高行政长官）切塞纳的迈克尔也来到阿维尼翁。他此行同样事出争论：方济各会与时任教皇约翰二十二世在“使徒贫困”观念上针锋相对。这一观念认为，耶稣与使徒没有任何私产，靠乞讨并仰仗他人慷慨过活；托钵的方济各会士也拒绝一切财产占有，主张自己的做法正是“效法基督”的一种特殊形式。约翰二十二世拒不接受这套学说，而这正是迈克尔身在阿维尼翁的缘由。
 
@@ -39,23 +39,23 @@
 按年代先后排列，奥卡姆最重要的著作有：
 
 * 学术著作
-* 神学著作
-* 《箴言四书注》（1317—18）。第一卷以 *ordinatio* 或 *scriptum* 的形式流传，即一部经作者本人核准分发的修订定本；第二至四卷仅存 *reportatio*，即由“记录者”笔录的课堂讲授实录，未及经作者事后修订校正。
-* 《七个自由论题》（据 1322—24 年伦敦论辩编成，1324—25 年在阿维尼翁修订定稿）。
-* 哲学著作
-* 逻辑著作
-* 波菲利《导论》与亚里士多德《范畴篇》《解释篇》《辩谬篇》诸诠注（1321—24）。
-* 《论预定与上帝对未来偶然事项的预知》（1321—24）。
-* 《逻辑大全》（约 1323–25）。一部规模宏大、自成一体、系统论述逻辑与语义学的著作。
-* 自然哲学著作
-* 《亚里士多德〈物理学〉诠注》（1322—24）。细致的逐句评注。未完成。
-* 《亚里士多德〈物理学〉诸卷问题》（始撰于 1324 年之前）。严格说并非评注，却逐一讨论了由亚里士多德《物理学》引出的一长串问题。
+  * 神学著作
+    * 《箴言四书注》（1317—18）。第一卷以 *ordinatio* 或 *scriptum* 的形式流传，即一部经作者本人核准分发的修订定本；第二至四卷仅存 *reportatio*，即由“记录者”笔录的课堂讲授实录，未及经作者事后修订校正。
+    * 《七个自由论题》（据 1322—24 年伦敦论辩编成，1324—25 年在阿维尼翁修订定稿）。
+  * 哲学著作
+    * 逻辑著作
+      * 波菲利《导论》与亚里士多德《范畴篇》《解释篇》《辩谬篇》诸诠注（1321—24）。
+      * 《论预定与上帝对未来偶然事项的预知》（1321—24）。
+      * 《逻辑大全》（约 1323–25）。一部规模宏大、自成一体、系统论述逻辑与语义学的著作。
+    * 自然哲学著作
+      * 《亚里士多德〈物理学〉诠注》（1322—24）。细致的逐句评注。未完成。
+      * 《亚里士多德〈物理学〉诸卷问题》（始撰于 1324 年之前）。严格说并非评注，却逐一讨论了由亚里士多德《物理学》引出的一长串问题。
 * 政治著作
-* 《九十日之作》（1332—34）。
-* 《致小兄弟会士书》（1334）。
-* 《对话》（约 1334–46）。未完成。
-* 《论教皇权力八问》（1340—41）。
-* 《短论》（1341—42）。
+  * 《九十日之作》（1332—34）。
+  * 《致小兄弟会士书》（1334）。
+  * 《对话》（约 1334–46）。未完成。
+  * 《论教皇权力八问》（1340—41）。
+  * 《短论》（1341—42）。
 
 ## 3 逻辑学与语义学
 
@@ -65,7 +65,7 @@
 
 > 逻辑是一切技艺中最有用的工具。没有它，任何科学都无法被完整认识。它不像有形的工具那样用久必损，反倒随其他科学的勤加研习而不断长进。正如对工具欠熟稔的工匠会因使用而获得更完整的[知识]，受过逻辑坚实原理训练的人，在苦心经营其他科学之际，于这门技艺本身也日趋娴熟。（*SL*, Epist. Prooem., *OPh* I, p. 6. Translation by Spade）
 
-奥卡姆的主要逻辑著作，是一系列评注亚里士多德与波菲利逻辑作品的文字，外加他本人的代表作《逻辑大全》。《论预定》里有一套影响深远的未来偶然命题逻辑理论；其他著作也偶有逻辑专题的讨论，尤以《自由论题》为著。
+奥卡姆的主要逻辑著作，是一系列评注亚里士多德与波菲利逻辑作品的文字，外加他本人的代表作《逻辑大全》。《论预定》里有一套影响深远的未来偶然命题逻辑理论；其他著作也偶有逻辑专题的讨论，尤以《七个自由论题》为著。
 
 ### 3.1 《逻辑大全》
 
@@ -277,7 +277,7 @@
 
 ## 脚注
 
-[^note-1]: 关于奥卡姆生平的叙述，包括这些年代在奥卡姆情形中如何推算的讨论，见 Wood 1997, Chap. 1；其生平的更多细节，见 Courtenay 1999。
+[^note-1]: 关于奥卡姆生平的叙述，包括这些年代在奥卡姆情形中如何推算的讨论，见 Wood 1997，第 1 章；其生平的更多细节，见 Courtenay 1999。
 
 [^note-2]: 此时的拉丁语实际上已不是任何人的母语；奥卡姆的第一语言大概是中古英语。拉丁语纯然是一门第二语言，主要活在非常专门的语境里：学术、教会、法律、外交。这一事实提示：在这个时期的拉丁哲学著述中，无论出自奥卡姆还是任何人之手，去寻找“日常语言”式的考量，多半是找错了地方。
 
@@ -305,27 +305,27 @@
 
 [^note-14]: 心理语言这一观念从柏拉图到奥卡姆的历史，见 Panaccio 1999。
 
-[^note-15]: 奥卡姆那里，因果性与相似性在自然意谓中各扮演什么角色，是二手文献中长期争论的问题。例如见 Adams 1987: Chap. 4；Panaccio 2004: Chap. 7 与 2015。
+[^note-15]: 奥卡姆那里，因果性与相似性在自然意谓中各扮演什么角色，是二手文献中长期争论的问题。例如见 Adams 1987：第 4 章；Panaccio 2004：第 7 章与 2015。
 
 [^note-16]: 此说发端于 Trentman (1970)，Spade (1980) 等人继而推展。
 
 [^note-17]: 见 Panaccio 1990 与 2004、Tweedale 1992、Chalmers 1999：前两家立论以文本为主，后者则以理论为主。
 
-[^note-18]: 本段以下讨论的细节，见 Spade 1975、Panaccio 1990 与 2004: Chap. 4–6。
+[^note-18]: 本段以下讨论的细节，见 Spade 1975、Panaccio 1990 与 2004：第 4–6 章。
 
 [^note-19]: 例如个体的专名、亚里士多德诸范畴的名称。个中缘由，此处无须细究。
 
 [^note-20]: 例中“被赋予”一语不可当作指称某种特殊东西：它属于奥卡姆所谓的“非范畴词”，其功能只是把各指称词项（或范畴词项）以正确方式连结起来。
 
-[^note-21]: 此论在 Panaccio 1990 与 2004: Chap. 4 有详细论证。
+[^note-21]: 此论在 Panaccio 1990 与 2004：第 4 章有详细论证。
 
 [^note-22]: 相关讨论见 Panaccio 2004: 86 与 2016。
 
-[^note-23]: 转写时沿用其术语。详情见 Panaccio 2023，尤其 Chap. 1。
+[^note-23]: 转写时沿用其术语。详情见 Panaccio 2023，尤其第 1 章。
 
 [^note-24]: 剃刀之于奥卡姆的历史沿革，有趣讨论见 Brampton 1964、Maurer 1978 与 1984；结合沃尔特·查顿评剃刀，见 Keele 2002 与 Brower-Toland 2023a；剃刀与宗教权威，见 Hagedorn 2022。
 
-[^note-25]: 如《论基督之体》Chapt. 29（*OTh* X, pp. 157–8）；《箴言四书注》I, d. 30, q. 1（*OTh* IV, p. 290）。
+[^note-25]: 如《论基督之体》第 29 章（*OTh* X, pp. 157–8）；《箴言四书注》I, d. 30, q. 1（*OTh* IV, p. 290）。
 
 [^note-26]: 这段演变见 Boehner 1946；奥卡姆何以改变看法的讨论，见 Panaccio 2004: 23–27。
 
@@ -341,7 +341,7 @@
 
 [^note-32]: 两处讨论都更繁复，但足见其观点：《自然哲学小结》I, cc. 19–20（*OPh* VI, pp. 205–13）。物质实体之构成，见 Cross 1999；人工物，见 Pelletier 2022 与 Majcherek 2022。
 
-[^note-33]: Boehner 1957 [1990: Chap. 1] 有英译。奥卡姆亦在《箴言四书注》I, d. 2, q. 4 处理此问，译文见 Spade 1994: 114–48。在那里，他反驳沃尔特·伯利；后者的明确主张是：本体论中须有共相，理由之一是使亚里士多德意义上的科学成为可能。
+[^note-33]: Boehner 1957 [1990：第 1 章] 有英译。奥卡姆亦在《箴言四书注》I, d. 2, q. 4 处理此问，译文见 Spade 1994: 114–48。在那里，他反驳沃尔特·伯利；后者的明确主张是：本体论中须有共相，理由之一是使亚里士多德意义上的科学成为可能。
 
 [^note-34]: 本节内容与奥卡姆物理学的更多细节，见 Goddu 1984 与 1999。
 
@@ -351,7 +351,7 @@
 
 [^note-37]: 如《箴言四书注》II, q. 12–13（*OTh* V, pp. 268–9）。奥卡姆对理智认知中种相理论的拒斥，见 Panaccio 2004: 27–31。
 
-[^note-38]: 奥卡姆的直观／抽象认识理论，见 Karger 1999、Panaccio 2004: Chap. 1 与 Panaccio 2014。另一方面，论者已多着墨于其独特论题：（超自然地）直观*不存在的*存在者之可能（他认为此时相关直观认识将引发被直观者*不*存在这一*真*判断）；尤见 Panaccio and Piché 2010。
+[^note-38]: 奥卡姆的直观／抽象认识理论，见 Karger 1999、Panaccio 2004：第 1 章与 Panaccio 2014。另一方面，论者已多着墨于其独特论题：（超自然地）直观*不存在的*存在者之可能（他认为此时相关直观认识将引发被直观者*不*存在这一*真*判断）；尤见 Panaccio and Piché 2010。
 
 [^note-39]: 参 Adams 1986、Freppert 1988、Wood 1997、King 1999。
 
@@ -379,21 +379,9 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
-
-#### In Latin
-
-#### In English
-
-### Secondary Literature
-
-### Other Bibliographies
-
-[^guillelmi-1967]: *Guillelmi de Ockham Opera Philosophica et Theologica. Opera Theologica*, 18 volumes, St. Bonaventure, NY: St. Bonaventure University, 1967–1988.
+[^guillelmi-1967]: *Guillelmi de Ockham Opera Philosophica et Theologica. Opera Theologica*, 10 volumes, St. Bonaventure, NY: St. Bonaventure University, 1967–1988.
 [^oph-nd]: [*OPh*] Opera Philosophica, 7 volumes
 [^sl-nd]: [*SL*] Vol. I: *Summa Logicae* [*Summa of Logic*]
 [^vol-nd]: Vol. II: *Expositionis in Libros Artis Logicae Prooemium et Expositio in Librum Porphyrii de Praedicabilibus*
@@ -405,36 +393,36 @@
 [^oth-nd]: [*OTh*] Opera Theologica, 10 volumes
 [^vols-nd]: Vols. I-IV: *Scriptum in Librum Primum Sententiarum. Ordinatio* (Prol. Et Dist. I-XLVIII)
 [^vol-nd-7]: Vol. V: *Quaestiones in Secundum Librum Sententiarum. Reportatio*
-[^vol-nd-8]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportio*
+[^vol-nd-8]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportatio*
 [^vol-nd-9]: Vol. VII: *Quaestiones in Quartum Librum Sententiarum. Reportatio*
 [^vol-nd-10]: Vol. VIII: *Quaestiones Variae in Libros Sententiarum*
 [^quodl-nd]: [*Quodl*] Vol. IX: *Quodlibeta Septem* [*Seven Quodlibets*]
 [^vol-nd-11]: Vol. X: *Tractatus de Quantitate* [*Treatise on Quantity*] et *Tractatus de Corpore Christi* [*On the Body of Christ*].
 [^opol-nd]: [*OPol*] *Opera politica*
-[^vol-1940]: Vol. 1: J. G. Sikes, B. L. Manning, H. S. Offler, R. F. Bennett, and R. H. Snape (eds.), Manchester: University of Manchester, 1940; second edition 1974. Contains:
+[^vol-1940]: Vol. 1: J. G. Sikes, B. L. Manning, H. S. Offler, R. F. Bennett, and R. H. Snape (eds.), Manchester: University of Manchester, 1940; second edition 1974. 收录：
 [^octo-nd]: *Octo quaestiones de potestate papae* [*Eight Questions on the Power of the Pope*];
 [^an-nd]: *An princeps pro suo succursu, scilicet guerrae, possit recipere bona ecclesiarum, etiam invito papa*;
 [^consultatio-nd]: *Consultatio de causa matrimoniali*;
 [^opus-nd]: *Opus nonaginta dierum, capitula 1–6* [*The Work of Ninety Days*, chapters 1–6];
-[^vol-1963]: Vol. 2: J. G. Sikes (ed.), H. S. Offler (reviser), Manchester: University of Manchester, 1963. Contains:
+[^vol-1963]: Vol. 2: J. G. Sikes (ed.), H. S. Offler (reviser), Manchester: University of Manchester, 1963. 收录：
 [^opus-nd-2]: *Opus nonaginta dierum* [*The Work of Ninety Days*, chapters 7 to 124].
-[^vol-1956]: Vol. 3: H. S. Offler (ed.), Manchester: University of Manchester, 1956. Contains:
-[^epistola-nd]: *Epistola ad Fratres Minores* [*A Letter to the Friars Minor*]);
+[^vol-1956]: Vol. 3: H. S. Offler (ed.), Manchester: University of Manchester, 1956. 收录：
+[^epistola-nd]: *Epistola ad Fratres Minores* [*A Letter to the Friars Minor*];
 [^tractatus-nd]: *Tractatus contra Ioannem*;
 [^tractatus-nd-2]: *Tractatus contra Benedictum*,
-[^vol-1997]: Vol. 4: H. S. Offler (ed.), Oxford: Oxford University Press for the British Academy, 1997. Contains:
+[^vol-1997]: Vol. 4: H. S. Offler (ed.), Oxford: Oxford University Press for the British Academy, 1997. 收录：
 [^compendium-nd]: *Compendium errorum Ioannis Papae XXII*;
 [^breviloquium-nd]: *Breviloquium de principatu tyrannico* [*Short Discourse*];
 [^de-nd]: *De imperatorum et pontificum potestate*;
 [^allegationes-nd]: *Allegationes de potestate imperiali*;
-[^de-nd-2]: *De election Caroli Quarti*,
+[^de-nd-2]: *De electione Caroli Quarti*,
 [^dialogus-2015]: *Dialogus* [Dialogue], 5 volumes, Oxford: Oxford University Press for the British Academy, 2015 edition. [[*Dialogus* available online](https://publications.thebritishacademy.ac.uk/pubs/dialogus/ockdial.html)]
 [^part-2020]: *Part 1, Books 1–5*, John Kilcullen and John Scott (eds.), 2020.
 [^part-2023]: *Part 1, Book 6*, George Knysh (ed.), 2023.
 [^part-2023-2]: *Part 1, Book 7*, George Knysh (ed.), 2023.
 [^part-2011]: *Part 2 and Part 3, Tract 1*, Jan Ballweg, John Kilcullen, Volker Leppin, and John Scott (eds.), 2011.
 [^part-2019]: *Part 3, Tract 2*, Semih Heinen and Karl Ubl (eds.), 2019.
-[^ockham’s-1999]: A fair number of Ockham’s writings are available in English, in whole or in part. For a list of translations to 1999, see Spade (1999b: 5–11). The following major items deserve particular mention:
+[^ockham-translations-nd]: 奥卡姆相当多的著作已有英译，或全译或节译。截至 1999 年的译本清单见 Spade（1999b: 5–11）。以下重要条目尤值一提：
 [^adams-1983]: Adams, Marilyn McCord, and Norman Kretzmann (trans.), 1983, *William of Ockham: Predestination, God’s Foreknowledge, and Future Contingents*, second edition, Indianapolis: Hackett. (Includes Ockham’s *Treatise on Predestination and God’s Foreknowledge with Respect to Future Contingents*, with introduction and commentary, and translations of related passages from other works of Ockham.)
 [^birch-1930]: Birch, T. Bruce (ed./trans.), 1930, *The De sacramento altaris of William of Ockham*, Burlington, Iowa: Lutheran Literary Board. (Translation of Ockham’s *Treatise on Quantity* and *On the Body of Christ*. Despite Birch’s title, these two are *not* parts of a larger single work *De sacramento altaris*.)
 [^boehner-1957]: Boehner, Philotheus (ed./trans.), 1957 [1990], *William of Ockham: Philosophical Writings*, Latin texts and English translations, London: Thomas Nelson. English translations revised by Stephen F. Brown, Indianapolis, IN.: Hackett, 1990. (Selections from several texts.)
@@ -452,7 +440,7 @@
 [^mcgrade-1995]: McGrade, Arthur Stephen (ed.) and John Kilcullen (ed./trans.), 1995, *A Letter to the Friars Minor, and Other Writings* (Cambridge Texts in the History of Political Thought), Cambridge/New York: Cambridge University Press. (Translation of several of Ockham’s political writings, including the *Letter to the Friars Minor, Eight Questions on the Power of the Pope* and *The Work of Ninety Days*.)
 [^spade-1994]: Spade, Paul Vincent (ed./trans.), 1994, *Five Texts on the Mediaeval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham*, Indianapolis, IN: Hackett. (Includes a complete translation of Ockham’s discussion of universals from *Sent*, I.2.4–8.)
 [^wood-1997]: Wood, Rega (ed./trans.), 1997, *Ockham on the Virtues* (Purdue University Press Series in the History of Philosophy), West Lafayette, IN: Purdue University Press. (Contains a translation of Ockham’s *On the Connection of the Virtues*, with the original Latin text, introduction and commentary.)
-[^wood-nd]: The following list includes all works cited in this article, plus several other noteworthy items:
+[^wood-nd]: 以下清单涵盖本文引用过的一切著作，另附若干值得注意的条目：
 [^adams-1986]: Adams, Marilyn McCord, 1986, “The Structure of Ockham’s Moral Theory”, *Franciscan Studies*, 46: 1–35. doi:10.1353/frc.1986.0005
 [^adams-1987]: –––, 1987, *William Ockham* (Publications in Medieval Studies 26), 2 volumes, Notre Dame, IN: University of Notre Dame Press. Second revised edition, 1989.
 [^adams-1999]: –––, 1999, “Ockham on Will, Nature, and Morality”, in Spade 1999a: 245–272 (ch. 11). doi:10.1017/CCOL052158244X.012
@@ -474,14 +462,14 @@
 [^hirvonen-2004]: Hirvonen, Vesa, 2004, *Passions in William Ockham’s Philosophical Psychology*, Dordrecht: Kluwer. doi:10.1007/978-1-4020-2119-0
 [^karger-1976]: Karger, Elizabeth Christian, 1976, *A Study of William of Ockham’s Modal Logic*, Ph.D. dissertation, University of California, Berkeley.
 [^karger-1999]: –––, 1999, “Ockham’s Misunderstood Theory of Intuitive and Abstractive Cognition”, in Spade 1999a: 204–226 (ch. 9). doi:10.1017/CCOL052158244X.010
-[^keele-2002]: Keele, Rondo, 2002, *Formal Ontology in the Fourteenth Century: The Chatton Principle and Ockham’s Razor,* Ph.D. dissertation, Indiana University, Bloomington.
+[^keele-2002]: Keele, Rondo, 2002, *Formal Ontology in the Fourteenth Century: The Chatton Principle and Ockham’s Razor*, Ph.D. dissertation, Indiana University, Bloomington.
 [^keele-2010]: –––, 2010, *Ockham Explained: From Razor to Rebellion* (Ideas Explained Series 7), Chicago: Open Court.
 [^king-1999]: King, Peter, 1999, “Ockham’s Ethical Theory”, in Spade 1999a: 227–244 (ch. 10). doi:10.1017/CCOL052158244X.011
 [^kilcullen-1999]: Kilcullen, John, 1999, “The Political Writings”, in Spade 1999a: 302–325 (ch. 13). doi:10.1017/CCOL052158244X.014
 [^leppin-2003]: Leppin, Volker, 2003, *Wilhelm von Ockham: Gelehrter, Streiter, Bettelmönch*, Darmstadt: Primus.
 [^majcherek-2022]: Majcherek, Kamil, 2022, “Why Is a House Nothing More than Stones and Pieces of Wood?”, *Recherches de Théologie et Philosophie Médiévales*, 89(1): 109–144. doi:10.2143/RTPM.89.1.3290730
 [^maurer-1962]: Maurer, Armand A., 1962, *Medieval Philosophy* (Gilson’s A History of Philosophy), New York: Random House.
-[^maurer-1978]: –––, 1978, “Method in Ockham’s Nominalism:”, *The Monist*, 61(3): 426–443. doi:10.5840/monist197861334
+[^maurer-1978]: –––, 1978, “Method in Ockham’s Nominalism”, *The Monist*, 61(3): 426–443. doi:10.5840/monist197861334
 [^maurer-1984]: –––, 1984, “Ockham’s Razor and Chatton’s Anti-Razor”, *Mediaeval Studies*, 46: 463–475. doi:10.1484/J.MS.2.306670
 [^maurer-1999]: –––, 1999, *The Philosophy of William of Ockham in the Light of Its Principles* (Studies and Texts 133), Toronto: Pontifical Institute of Mediaeval Studies.
 [^mcgrade-1974]: McGrade, Arthur Stephen, 1974, *The Political Thought of William of Ockham: Personal and Institutional Principles* (Cambridge Studies in Medieval Life and Thought, third series, 7), London/New York: Cambridge University Press. Paperback edition, 2002. doi:10.1017/CBO9780511561238
@@ -513,13 +501,13 @@
 [^spade-1998]: –––, 1998, “Three Versions of Ockham’s Reductionist Program”, *Franciscan Studies*, 56: 347–358. doi:10.1353/frc.1998.0015
 [^spade-1999a]: ––– (ed.), 1999a, *The Cambridge Companion to Ockham* (Cambridge Companions to Philosophy), Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL052158244X
 [^spade-1999b]: –––, 1999b, “Introduction”, in Spade 1999a: 1–16. doi:10.1017/CCOL052158244X.001
-[^spade-1999c]: –––, 1999c, “Ockhams’ Nominalist Metaphysics: Some Main Themes”, in Spade 1999a: 100–117 (ch. 5). doi:10.1017/CCOL052158244X.006
+[^spade-1999c]: –––, 1999c, “Ockham’s Nominalist Metaphysics: Some Main Themes”, in Spade 1999a: 100–117 (ch. 5). doi:10.1017/CCOL052158244X.006
 [^stump-1999]: Stump, Eleonore, 1999, “The Mechanisms of Cognition: Ockham on Mediating Species”, in Spade 1999a: 168–203 (ch. 8). doi:10.1017/CCOL052158244X.009
 [^tachau-1988]: Tachau, Katherine H., 1988, *Vision and Certitude in the Age of Ockham: Optics, Epistemology, and the Foundations of Semantics, 1250–1345* (Studien und Texte zur Geistesgeschichte des Mittelalters, 22), Leiden/New York: E. J. Brill. doi:10.1163/9789004451728
 [^trentman-1970]: Trentman, John, 1970, “Ockham on Mental”, *Mind*, 79(316): 586–590. doi:10.1093/mind/LXXIX.316.586
 [^tweedale-1992]: Tweedale, Martin M., 1992, “Ockham’s Supposed Elimination of Connotative Terms and His Ontological Parsimony”, *Dialogue*, 31(3): 431–444. doi:10.1017/S0012217300012075
 [^wood-1999]: Wood, Rega, 1999, “Ockham’s Repudiation of Pelagianism”, in Spade 1999a: 350–374 (ch. 15). doi:10.1017/CCOL052158244X.016
-[^ample-1990]: Ample bibliographies of the secondary literature up to 1990 may be found in:
+[^ample-1990]: 截至 1990 年二手文献的详尽书目，见下列诸种：
 [^beckmann-1992]: Beckmann, Jan P., 1992, *Ockham—Bibliographie: 1900–1990*, Hamburg: Felix Meiner.
 [^heynick-1950]: Heynick, Valens, 1950, “Ockham-Literatur: 1919-1949”, *Franziskanische Studien*, 32: 164–83.
 [^reilly-1968]: Reilly, James P., 1968, “Ockham Bibliography: 1950–1967”, *Franciscan Studies*, 28: 197–214.
