@@ -28,7 +28,10 @@ import os
 import re
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+# 已是 UTF-8 时不重包：多检查器被单测进程导入时，重复 TextIOWrapper 包装会因
+# 旧包装器 GC 关闭底层 buffer 而炸（specs/032 试金石实测）。
+if getattr(sys.stdout, "encoding", "").lower().replace("-", "") != "utf8":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "tools", "data")
 

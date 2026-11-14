@@ -17,7 +17,9 @@
 | logic-provability | `compare/logic-provability.json` | 是 | 页框/站点套版（正文区外）×6、正文/书名文字×1 |
 | saadya | `compare/saadya.json` | 否 | 正文/书名文字×66、页框/站点套版（正文区外）×12、属性/链接级（规范化文本等价）×12、结构增删×5、文献与工具区文字×2 |
 
-### A1. state=done——5 件，走变更段（先例：qa-rework-open 模式，不 reopen 重走三审）
+### A1. state=done——5 件，已按 ADR-0050 置空重译（2026-11-15 用户裁定，取代本单原「变更段」建议）
+
+academic-freedom、closure-epistemic、genetics、it-moral-values、saadya——已 reopen→clear（正文仅留 H1，state=cleared），按新源全量重译；`compare/<slug>.json` 降级为审读辅助。
 
 academic-freedom、closure-epistemic、genetics、it-moral-values、saadya
 

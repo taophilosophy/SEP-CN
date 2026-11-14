@@ -224,3 +224,10 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **过程**：他会（M2）已在 0045 语义上自行作业——修正我方误回修的假分歧（abhidharma 等 11-09 合法重抓件钉复位、假登记清理）并新登记 bradley-moral/hutcheson 等；本轮 fetch/yuanwen/reopen 成果照例被其合并提交收编，逐件核验完好。
 * **验收**：divergence verify --deep 全绿（78 件）；baseline_audit ok 4445+divergent 78+fail 0；check_all 11 项全绿。
 * **移交**：9 件 reopen 任务按 compare/ 变更文件作业（4 件重译/更新级中 closure-epistemic、saadya 为重译级）；72 件中 30 件存根随翻译战役自带。
+
+## 2026-11-15（ADR-0050：上游更新引发的置空返工，批准即执行）
+
+* **裁定**：用户提出「reopen 的除了 H1 全部置空」并批准即刻执行。与 FR-013 全量重译、ADR-0033 语体置空返工同构；实证支撑＝actual-compare 数据（847 个属性/链接级 hunk 为文本补丁流程系统性漏损项）。
+* **落地**：ADR-0050＋rules/04 新小节＋specs/001 契约 reopen 行（--clear）＋ADR README 行；task_ops `reopen --clear` 原子两步（append-only 历史完整）。
+* **执行**：5 件 done-reopened（academic-freedom/closure-epistemic/genetics/it-moral-values/saadya）全部 clear → state=cleared、正文仅留 H1；compare 变更文件降级为审读辅助；s2.5_checked 4 件不适用（状态机边界，继续 A2 挂流水）；换血件 H1 作者行留待 SUMMARY↔H1 同步。
+* **验收**：5 任务 state=cleared；check_all 全绿见收工记录。
