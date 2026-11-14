@@ -30,22 +30,22 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Texts
+### 原始文献
 
-### Secondary Sources
+### 二手文献
 
-[^diels-1951]: Diels, H and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
+[^diels-1951]: Diels, H. and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
 [^graham-2010]: Graham, Daniel W., 2010, *The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Cambridge: Cambridge University Press.
 [^laks-2016]: Laks, André and Most, Glenn W. (eds.), 2016. *Early Greek Philosophy* (Volumes 6 and 7), Loeb Classical Library, Cambridge, MA: Harvard University Press.
 [^luria-1970]: Luria, Solomon, 1970, *Demokrit*, Leningrad.
-[^taylor-1999a]: Taylor, C.C.W, 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
+[^taylor-1999a]: Taylor, C.C.W., 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
 [^bailey-1928]: Bailey, Cyril, 1928, *The Greek Atomists and Epicurus*, Oxford: Clarendon.
 [^barnes-1982]: Barnes, Jonathan, 1982, *The Presocratic Philosophers*, revised edition, London and New York: Routledge.
 [^barnes-1984]: –––, 1984, ‘Reason and Necessity in Leucippus,’ in Linos G. Benakis (ed.), *Proceedings of the First International Congress on Democritus* (Volume 1), Xanthi: International Democritean Foundation, pp. 141–58.
 [^furley-1967]: Furley, David J., 1967, *Two Studies in the Greek Atomists*, Princeton: Princeton University Press.
 [^furley-1987]: –––, 1987, *The Greek Cosmologists* (Volume 1: *The Formation of the Atomic Theory and its Earliest Critics*), Cambridge: Cambridge University Press.
 [^graham-2008]: Graham, Daniel, 2008, ‘Leucippus’ Atomism,’ in Patricia Curd and Daniel W. Graham (eds.), *The Oxford Handbook of Presocratic Philosophy*, Oxford: Oxford University Press, pp. 333–352.
-[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46 (4): 446–68.
+[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46(4): 446–68.
 [^kirk-1957]: Kirk, G.S., J.E. Raven and Malcolm Schofield, 1957, *The Presocratic Philosophers*, second edition, Cambridge: Cambridge University Press.
 [^leszl-2009]: Leszl, Walter (ed.), 2009, *I primi atomisti. Raccolta dei testi che riguardano Leucippo e Democrito*, Florence: Olschki.
 [^mckirahan-1994]: McKirahan, Jr., Richard D., 1994, *Philosophy Before Socrates: An Introduction with texts and Commentary*, Indianapolis: Hackett.

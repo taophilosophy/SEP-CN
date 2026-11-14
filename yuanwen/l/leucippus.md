@@ -53,7 +53,7 @@ atomism: ancient | Democritus | Epicurus | Lucretius | Melissus | Parmenides | Z
 
 I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos, Tim O’Keefe and anonymous referees for helpful comments and suggestions.
 
-[^diels-1951]: Diels, H and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
+[^diels-1951]: Diels, H. and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
 
 [^graham-2010]: Graham, Daniel W., 2010, *The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Cambridge: Cambridge University Press.
 
@@ -61,7 +61,7 @@ I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos, Ti
 
 [^luria-1970]: Luria, Solomon, 1970, *Demokrit*, Leningrad.
 
-[^taylor-1999a]: Taylor, C.C.W, 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
+[^taylor-1999a]: Taylor, C.C.W., 1999a, *The Atomists: Leucippus and Democritus. Fragments, A Text and Translation with Commentary*, Toronto: University of Toronto Press.
 
 [^bailey-1928]: Bailey, Cyril, 1928, *The Greek Atomists and Epicurus*, Oxford: Clarendon.
 
@@ -75,7 +75,7 @@ I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos, Ti
 
 [^graham-2008]: Graham, Daniel, 2008, ‘Leucippus’ Atomism,’ in Patricia Curd and Daniel W. Graham (eds.), *The Oxford Handbook of Presocratic Philosophy*, Oxford: Oxford University Press, pp. 333–352.
 
-[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46 (4): 446–68.
+[^gregory-2013]: Gregory, Andrew, 2013, ‘Leucippus and Democritus on Like to Like and *ou mallon*,’ *Apeiron*, 46(4): 446–68.
 
 [^kirk-1957]: Kirk, G.S., J.E. Raven and Malcolm Schofield, 1957, *The Presocratic Philosophers*, second edition, Cambridge: Cambridge University Press.
 

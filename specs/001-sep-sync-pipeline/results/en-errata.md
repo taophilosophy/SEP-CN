@@ -67,3 +67,5 @@
 | sophismata | `An Annoted Translation` / `&lsquo;Sophsimata&rsquo;` | `An Annotated Translation` / `&lsquo;Sophismata&rsquo;` | 拼写（①） |
 | sophismata | `with E.J, Ashworth` / `Ingenium Publishers,.` / `1977 im Bonn` | `E.J.` / `Publishers.` / `in Bonn` | 标点与介词手误（①） |
 | sophismata | `(Acta Philosophica Fennica, 48-2<em>)</em>` | `(Acta Philosophica Fennica, 48-2)` | 斜体标签错位（①） |
+| leucippus | `Taylor, C.C.W, 1999a` / `Diels, H and W. Kranz` | `C.C.W.` / `H. and W.` | 缺句点（①） |
+| leucippus | `<em>Apeiron</em>, 46 (4)`（同页 `47(3)`） | `46(4)` | 卷期空格体例不一（①） |
