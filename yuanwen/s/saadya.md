@@ -187,7 +187,7 @@ faith | Plato
 
 [^les-1893]: *Les Ouvres complètes de Saadia b. Josef al Fayyoumi*. Ed. J. and H. Derenbourh. Paris, 1893 —. <table> <tr> <td>[5 volumes of Biblical commentaries; contrary to the name of the series, it is not the complete set of Saadya's Biblical commentaries; originally planned as a 13 volume set, only volumes 1, 3, 5, 6 and 9 were compiled.] [The Arabic texts (in Hebrew characters) with Hebrew translations are available for the Song of Songs, Ruth, Ecclesiastes, Esther, Lamentations, Psalms, Job, and Proverbs in various Jerusalem published editions by J. Kafih, ranging from 1962 to 1976).]</td> </tr> </table>
 
-[^saadia's-1915]: *Saadia's Polemic Against Hiwi al-Balkhî*, edited by I. Davidson. New York, 1915. <table> <tr> <td>[Saadya's polemic against Karaism.]</td> </tr> </table>
+[^saadia’s-1915]: *Saadia's Polemic Against Hiwi al-Balkhî*, edited by I. Davidson. New York, 1915. <table> <tr> <td>[Saadya's polemic against Karaism.]</td> </tr> </table>
 
 [^altmann-1969-2]: Altmann, Alexander. “Saadya's Theory of Revelation: Its Origin and Background,” in *Studies in Religious Philosophy and Mysticism* by Alexander Altmann. Ithaca: Cornell University Press, 1969.
 

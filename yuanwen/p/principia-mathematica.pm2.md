@@ -4,7 +4,7 @@
 
 #### Supplement to *Principia Mathematica*
 
-## Cover of the first edition of *Principia Mathematica to *56* (1962)
+## Cover of the first edition of *Principia Mathematica to \*56* (1962)
 
 ![Cover of the 1st edition of Principia Mathematica to *56](../assets/principia-mathematica/pm2.jpg)
 

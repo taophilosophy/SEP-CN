@@ -337,7 +337,7 @@ Recently, Carl Gillet (2016) has offered an account of reduction and emergence u
 
 ### 4.7 Mechanisms
 
-One solution to this problem would be to connect reductive explanation to mechanistic explanation, even though mechanistic explanation is often described by its proponents as non-reductivist in spirit (Kauffmann 1970; Cummins 1975, 1983, 2000; Bechtel & Richardson 1993; Bechtel 1994; Glennan 1996; Machamer et al. 2000; Craver 2005, 2007)[^bechtel-1994][^bechtel-1993][^craver-2005][^craver-2007][^cummins-1975][^cummins-1983][^cummins-2000][^glennan-1996][^kauffman-1970][^machamer-2000].
+One solution to this problem would be to connect reductive explanation to mechanistic explanation, even though mechanistic explanation is often described by its proponents as non-reductivist in spirit (Kauffmann 1970; Cummins 1975, 1983, 2000; Bechtel & Richardson 1993; Bechtel 1994; Glennan 1996; Machamer et al. 2000; Craver 2005, 2007)[^bechtel-1994][^bechtel-1993][^craver-2005][^craver-2007][^cummins-1975][^cummins-1983][^cummins-2000][^glennan-1996][^machamer-2000].
 
 The proposal would be to define a phenomenon $a$ as reductively explained by a phenomenon $b$ *iff* $a$ is mechanistically explained by $b$. Mechanistic dependence might be distinguished from a mereological relation, if mechanisms are not the sorts of things that have parts in the ordinary sense of the term as some have claimed (Craver 2005)[^craver-2005].
 

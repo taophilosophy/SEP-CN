@@ -105,7 +105,7 @@ There are at least a few arguments for a duty to vote that do not depend on the 
 1. *The Generalization/Public Goods/Debt to Society Argument*: Claims that citizens who abstain from voting thereby free ride on the provision of good government, or fail to pay their “debts to society”.
 2. *The Civic Virtue Argument*: Claims that citizens have a duty to exercise civic virtue, and thus to vote.
 3. *The Complicity Argument*: Claims that citizens have a duty to vote (for just outcomes) in order to avoid being complicit in the injustice their governments commit.
-4. *The Role Morality Argument*: Claims that citizens have a duty to fulfill their roles as members of a democratic order (Elliott 2023)[^elliot-2023].
+4. *The Role Morality Argument*: Claims that citizens have a duty to fulfill their roles as members of a democratic order (Elliott 2023).
 
 However, there is a general challenge to these arguments in support of a duty to vote. Call this the *particularity problem*: To show that there is a duty to vote, it is not enough to appeal to some goal *G* that citizens plausibly have a duty to support, and then to argue that voting is one way they can support or help achieve *G*. Instead, proponents of a duty to vote need to show specifically that voting is the only way, or the required way, to support *G* (J. Brennan 2011a)[^brennan-2011a]. The worry is that the four arguments above might only show that voting is one way among many to discharge the duty in question. Indeed, it might not be even be an especially good way, let alone the only or obligatory way to discharge the duty.
 

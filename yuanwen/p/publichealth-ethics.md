@@ -489,7 +489,7 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^note-18]: In this entry, we typically use ‘liberty’ and ‘freedom’ as rough synonyms, although at certain places we specify different senses of these concepts, especially when discussing republican challenges to freedom as non-interference, or what Isaiah Berlin influentially dubbed ‘negative liberty’ (Berlin 1958). For work that brings to bear notions of relational autonomy to public health ethics, see esp., (Baylis et al. 2008)[^baylis-2008].
 
-[^note-19]: A classic example is when an outbreak of measles can be traced to the intentional under-vaccination of children by their parents (Omerand et al. 2009; Thompson et al. 2007; Sugarman et al. 2010)[^omer-2009][^thompson-2007].
+[^note-19]: A classic example is when an outbreak of measles can be traced to the intentional under-vaccination of children by their parents (Omerand et al. 2009; Thompson et al. 2007; Sugarman et al. 2010)[^thompson-2007].
 
 [^note-20]: Again, this is similar to the case of the free market: by and large it is preferable to have free markets than not to have them, but this does not render specific aspects of its operations immune to criticism and reform from an ethical point of view.
 

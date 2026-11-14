@@ -223,13 +223,13 @@ Abelard [Abailard], Peter | John of Salisbury | syllogism: medieval theories of 
 
 [^several-1993]: Several of William's commentaries have been identified, although in some cases the attribution is tentative. (Numbers P*, C*, H* and B*, are those assigned in the list of commentaries in Marenbon 1993 and 2000, and Green-Pedersen 1984.)
 
-[^porphyry's-nd]: Porphyry's *Isagoge*, P3, P14, P29
+[^porphyry’s-nd]: Porphyry's *Isagoge*, P3, P14, P29
 
-[^aristotle's-nd]: Aristotle's *Categories*, C8, C14
+[^aristotle’s-nd]: Aristotle's *Categories*, C8, C14
 
-[^aristotle's-nd-2]: Aristotle's *De Interpretatione*, H3, H9, H11
+[^aristotle’s-nd-2]: Aristotle's *De Interpretatione*, H3, H9, H11
 
-[^boethius'-nd]: Boethius' *De Differentiis Topicis*, B8
+[^boethius’-nd]: Boethius' *De Differentiis Topicis*, B8
 
 [^shorter-2004b]: Shorter excerpts from some of William's commentaries can be found in Iwakuma 2004b, 1999, 1992, forthcoming A, forthcoming B; Marenbon 1997; Marenbon 1992.
 

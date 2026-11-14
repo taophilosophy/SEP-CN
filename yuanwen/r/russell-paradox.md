@@ -680,6 +680,6 @@ We’d like to thank the following people, who provided feedback on various iter
 
 [^weber-2012]: –––, 2012. “Transfinite Cardinals in Paraconsistent Set Theory,” *Review of Symbolic Logic*, 5: 269–293.
 
-[^whitehead-1910]: Whitehead, Alfred North, and Bertrand Russell, 1910, 1912, 1913. *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; second edition, 1925 (Volume 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to *56*, Cambridge: Cambridge University Press, 1962.
+[^whitehead-1910]: Whitehead, Alfred North, and Bertrand Russell, 1910, 1912, 1913. *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; second edition, 1925 (Volume 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to \*56*, Cambridge: Cambridge University Press, 1962.
 
 [^whittle-2015]: Whittle, Bruno, 2015. “On Infinite Size,” in Karen Bennett and Dean Zimmerman (eds.), *Oxford Studies in Metaphysics* (Volume 9), New York, Oxford University Press.

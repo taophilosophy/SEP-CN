@@ -706,7 +706,7 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 
 [^nichols-2011]: Nichols, Ryan, & Callergård, Robert, 2011, “Thomas Reid on Reidian Religious Belief Forming Faculties,” *Modern Schoolman*, 88: 317–335.
 
-[^o'connor-1994]: O'Connor, Timothy, 1994, “Thomas Reid on Free Agency,” *Journal of the History of Philosophy*, 32 (4): 605–622.
+[^o’connor-1994]: O'Connor, Timothy, 1994, “Thomas Reid on Free Agency,” *Journal of the History of Philosophy*, 32 (4): 605–622.
 
 [^pappas-1989]: Pappas, George S., 1989, “Sensation and Perception in Reid,” *Nous*, 23: 155–167.
 

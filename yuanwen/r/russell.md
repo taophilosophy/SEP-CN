@@ -510,7 +510,7 @@ Thanks are due to Jimmy Altham, Erik Banks, Kenneth Blackwell, Francisco Rodríg
 
 [^collected-1908]: 1908, “Mathematical Logic as Based on the Theory of Types”, *American Journal of Mathematics*, 30: 222–262; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 59–102; also appearing in *Collected Papers*, Volume 5.
 
-[^collected-1910]: 1910, 1912, 1913 (with Alfred North Whitehead), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to *56*, Cambridge: Cambridge University Press, 1962.
+[^collected-1910]: 1910, 1912, 1913 (with Alfred North Whitehead), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to \*56*, Cambridge: Cambridge University Press, 1962.
 
 [^collected-1911]: 1911, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–128; reprinted in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 209–232; also appearing in *Collected Papers*, Volume 6.
 
