@@ -186,15 +186,15 @@ Buridan, John [Jean] | Burley [Burleigh], Walter | Heytesbury, William | insolub
 
 [^boethius-2021]: Boethius of Dacia, *Boethii Daci aliorumque sophismata*, ed. Sten Ebbesen and Irène Rosier-Catach (Corpus philosophorum danicorum medii aevi, IX), Copenhague: Det danske sprog- og litteraturselskab – University Press of Southern Denmark, 2021.
 
-[^john-2001]: John Buridan, *Summulae de Dialectica.* An Annoted Translation with a Philosophical Introduction, tr. Gyula Klima, New Haven: Yale University Press, 2001.; tr. Joël Biard, *Jean Buridan, Sophismes: Introduction, traduction et notes* (Collection Sic et Non), Paris: Vrin, 1993; ch. 8, tr. G. Hughes, *John Buridan on Self-Reference*, Cambridge: Cambridge University Press 1982.
+[^john-2001]: John Buridan, *Summulae de Dialectica.* An Annotated Translation with a Philosophical Introduction, tr. Gyula Klima, New Haven: Yale University Press, 2001.; tr. Joël Biard, *Jean Buridan, Sophismes: Introduction, traduction et notes* (Collection Sic et Non), Paris: Vrin, 1993; ch. 8, tr. G. Hughes, *John Buridan on Self-Reference*, Cambridge: Cambridge University Press 1982.
 
 [^john-2005]: –––, *Iohanni Buridani Summularum Tractatus nonus: De practica sophismatum (Sophismata)*, ed. Fabienne Pironet (Artistarium 10-9), Turnhout: Brépols, 2005.
 
 [^matthew-2001]: Matthew of Orléans, *Sophistaria sive summa communium distinctionum circa sophismata accidentium*, ed. Joke Spruyt (Studien und Texte zur Geistesgeschichte des Mittelalters, 74), Leiden: Brill, 2001.
 
-[^richard-1990]: Richard Kilvington, *The ‘Sophismata’ of Richard Kilvington*, ed. Norman Kretzmann & Barbara Ensign Kretzmann, Oxford: University Press for The British Academy, 1990; tr. Norman Kretzmann & Barbara Ensign Kretzmann, *The ‘Sophsimata’ of Richard Kilvington*. Introduction, Translation, and Commentary, Cambridge: Cambridge University Press, 1990.
+[^richard-1990]: Richard Kilvington, *The ‘Sophismata’ of Richard Kilvington*, ed. Norman Kretzmann & Barbara Ensign Kretzmann, Oxford: University Press for The British Academy, 1990; tr. Norman Kretzmann & Barbara Ensign Kretzmann, *The ‘Sophismata’ of Richard Kilvington*. Introduction, Translation, and Commentary, Cambridge: Cambridge University Press, 1990.
 
-[^richard-2016]: Richard Sophista, *Master Richard Sophista: “Abstractiones”*, eds. Mary Sirridge & Sten Ebbesen, with E.J, Ashworth (Auctores Britannici Medii Aevi, 25), Oxford: Oxford University Press for the British Academy, 2016.
+[^richard-2016]: Richard Sophista, *Master Richard Sophista: “Abstractiones”*, eds. Mary Sirridge & Sten Ebbesen, with E.J. Ashworth (Auctores Britannici Medii Aevi, 25), Oxford: Oxford University Press for the British Academy, 2016.
 
 [^siger-1977]: Siger of Courtrai, *Sigerus de Cortraco: ‘Summa modorum significandi sophismata’*, ed. Jan Pinborg (new edition on the basis of G. Wallerand’s *editio prima*), Amsterdam: J. Benjamins, 1977.
 
@@ -204,7 +204,7 @@ Buridan, John [Jean] | Burley [Burleigh], Walter | Heytesbury, William | insolub
 
 [^biard-1989]: Biard, Joël, 1989, “Les sophismes du savoir: Albert de Saxe entre Jean Buridan et Guillaume Heytesbury”, *Vivarium*, 27: 36–50.
 
-[^biard-1990]: –––, 1990, “Verbes cognitifs et appellation de la forme selon Albert de Saxe”, in Simo Knuuttila, Reijo Työrinoja, and Sten Ebbesen, (eds.), *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.), Helsinki, 24–29 August 1987* (Acta Philosophica Fennica, 48-2*)*, Helsinki: Yliopistopaino, pp. 427–35.
+[^biard-1990]: –––, 1990, “Verbes cognitifs et appellation de la forme selon Albert de Saxe”, in Simo Knuuttila, Reijo Työrinoja, and Sten Ebbesen, (eds.), *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.), Helsinki, 24–29 August 1987* (Acta Philosophica Fennica, 48-2), Helsinki: Yliopistopaino, pp. 427–35.
 
 [^braakhuis-1979]: Braakhuis, H.A.G., 1979, *De 13de Eeuwse Tractaten over Syncategorematische Termen*. Inleidende Studie en Uitgave van Nicolaas van Parijs’ *Syncategoremata*, Nijmegen (diss.).
 
@@ -246,10 +246,10 @@ Buridan, John [Jean] | Burley [Burleigh], Walter | Heytesbury, William | insolub
 
 [^stephen-1990]: Stephen Read (ed.), *Sophisms in Medieval Logic and Grammar* (Acts of the Ninth European Symposium for Medieval Logic and Semantics, St. Andrews, June 1990), Dordrecht: Kluwer Academic Publishers, 1993.
 
-[^rijk-1988]: Rijk, L. M. de, 1988, *Some Earlier Parisian Tracts on Distinctiones sophismatum* (Artistarium, 7), Nijmegen: Ingenium Publishers,.
+[^rijk-1988]: Rijk, L. M. de, 1988, *Some Earlier Parisian Tracts on Distinctiones sophismatum* (Artistarium, 7), Nijmegen: Ingenium Publishers.
 
 [^rosier-1991]: Rosier, I., 1991, “Les sophismes grammaticaux au XIIIe siècle”, *Medioevo*, 17: 175–230.
 
 [^rosier-1990]: Rosier, Iréne, and Bruno Roy, 1990, “Grammaire et liturgie dans les sophismes du XIIIe siècle”, *Vivarium*, 28: 118–35.
 
-[^sylla-1981]: Sylla, Edith D., 1981, “William Heytesbury on the Sophism ‘*Infinita sunt finita*’”, in Wolfgang Kluxen (ed.), *Sprache und Erkenntnis im Mittelalter*.*Akten des 6. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’étude de la philosophie médiévale, 29. August-3. September 1977 im Bonn* (Miscellanea Mediaevalia, 13.1–2), Berlin: W. de Gruyter, 1981, Vol. 2, pp. 628–36.
+[^sylla-1981]: Sylla, Edith D., 1981, “William Heytesbury on the Sophism ‘*Infinita sunt finita*’”, in Wolfgang Kluxen (ed.), *Sprache und Erkenntnis im Mittelalter*.*Akten des 6. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’étude de la philosophie médiévale, 29. August-3. September 1977 in Bonn* (Miscellanea Mediaevalia, 13.1–2), Berlin: W. de Gruyter, 1981, Vol. 2, pp. 628–36.
