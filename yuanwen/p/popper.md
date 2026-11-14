@@ -267,7 +267,7 @@ Yet Lakatos flatly denies that there are critical tests, in the Popperian sense,
 
 Third, Popper’s critique of Marxism has not, of course, gone unchallenged. The debate arising from, however, has in many cases tended to revolve around ideological rather than philosophical issues, which will be passed over here. However, there have also been some trenchant philosophical responses. Cornforth sees Marxism as a rational scientific discipline and Marxian thinking as “a rational and scientific approach to social problems” (Cornforth 1968: 6)[^cornforth-1968] of the kind which both Marx and Popper consider important. Consequently, he takes Popper to task for representing Marxism as a system of dogmas designed to close minds or pre-empt the operation of our rational faculties in addressing social issues. Against that view, he argues that it constitutes a way of thinking designed to open minds to the real possibilities of human life, and sees it as the philosophy best calculated to promote the ideals of the open society to which he, like Popper, subscribes. Hudelson (1980)[^hudelson-1980] argues that Marxian economics survives the Popperian critique of historicism and that, in any case, Marx did not hold many of the tenets of historicism identified by Popper. He also contends that Popper fails to show that there cannot be, and that we cannot know, laws of social development and that Marx did not in fact confuse trends and laws in the way that Popper suggests.
 
-Fourth, In the case of Freudian psychoanalysis, the adequacy of Popper’s critique has been challenged on philosophical grounds by a number of commentators, particularly Adolf Grünbaum (1984)[^grünbaum-1984]. Grünbaum is highly critical, indeed scornful, of Popper’s dismissal of the claims of psychoanalysis to be scientific and argues that Freud showed “a keen appreciation of methodological pitfalls that are commonly laid at his door by critics” (Grünbaum 1984: 168)[^grünbaum-1984] such as Popper. He argues that Freud was sensitive to the question of the logic of the confirmation and disconfirmation of psychoanalytic interpretations and cites Freud’s use of the concept of consilience, the convergence of evidence from disparate sources, as a serious and explicit attempt to meet the requirements of that logic. For Grünbaum, Popper’s critique of Freud amounts a veritable parody of the pioneering thinker who established the discipline of psychoanalysis, and he attributes that to Popper’s “obliviousness to Freud’s actual writings” (1984: 124). He points out, for example, that the case of the drowning child which Popper uses in *Conjectures and Refutations* (Popper 1963: 35), upon which he rests part of his case against psychoanalysis, is contrived and not in any way derived from Freud’s actual clinical texts.
+Fourth, In the case of Freudian psychoanalysis, the adequacy of Popper’s critique has been challenged on philosophical grounds by a number of commentators, particularly Adolf Grünbaum (1984)[^grünbaum-1984]. Grünbaum is highly critical, indeed scornful, of Popper’s dismissal of the claims of psychoanalysis to be scientific and argues that Freud showed “a keen appreciation of methodological pitfalls that are commonly laid at his door by critics” (Grünbaum 1984: 168)[^grünbaum-1984] such as Popper. He argues that Freud was sensitive to the question of the logic of the confirmation and disconfirmation of psychoanalytic interpretations and cites Freud’s use of the concept of consilience, the convergence of evidence from disparate sources, as a serious and explicit attempt to meet the requirements of that logic. For Grünbaum, Popper’s critique of Freud amounts a veritable parody of the pioneering thinker who established the discipline of psychoanalysis, and he attributes that to Popper’s “obliviousness to Freud’s actual writings” (1984: 124). He points out, for example, that the case of the drowning child which Popper uses in *Conjectures and Refutations* (Popper 1963: 35)[^popper-1963], upon which he rests part of his case against psychoanalysis, is contrived and not in any way derived from Freud’s actual clinical texts.
 
 Grünbaum contends that there are instances in Freud’s writings where he shows himself to be “a sophisticated scientific methodologist” (Grünbaum 1984: 128)[^grünbaum-1984], keenly aware of the need for his theoretical system to meet the requirement of testability. One such occurs when Freud, in his assessment that anxiety neuroses are due to disturbances in sexual life, explicitly refers to the notion of falsifiability: “My theory can only be refuted when I have been shown phobias where sexual life is normal” (Freud 1895 [1962: 134])[^freud-1895]. Another occurs in Freud’s 1915 paper “A Case of Paranoia Running Counter to the Psycho-Analytic Theory of the Disease”, in which, as the title suggests, he saw the patient’s collection of symptoms as potentially falsifying the theory. Moreover, Freud’s entire account of paranoia as being due to an underlying repressed homosexuality is open to empirical refutation, Grünbaum argues, since it has the testable implication that a reduction in rates of paranoia should result from a removal or loosening of social sanctions against same-sex relationships (1984: 111).
 
@@ -313,6 +313,52 @@ Popper’s final position is that he acknowledges that it is impossible to discr
 ## Related Entries
 
 confirmation | convention | Feyerabend, Paul | Hume, David | induction: problem of | Kuhn, Thomas | Lakatos, Imre | science: and pseudo-science | scientific method | scientific progress | scientific realism | truthlikeness | Vienna Circle
+
+[^popper-1928]: 1928, *Zur Methodenfrage der Denkpsychologie*, Ph.D. Dissertation, University of Vienna, unpublished.
+
+[^popper-1935]: 1935, *Logik der Forschung*, Vienna: Julius Springer Verlag.
+
+[^popper-1944]: 1944–45, “The Poverty of Historicism”, *Economica*, Part 1, 11(42): 86–103; Part II, 11(43): 119–137; Part III, 12(46): 69–89. doi:10.2307/2549642 doi:10.2307/2550285 doi:10.2307/2549898
+
+[^popper-1945]: 1945, *The Open Society and Its Enemies*, 2 volumes, London: Routledge; republished, Princeton, NJ: Princeton University Press, 1966.
+
+[^popper-1957]: 1957, *The Poverty of Historicism*, London: Routledge. Revised version of Popper 1944–5.
+
+[^popper-1959]: 1959 [2002], *The Logic of Scientific Discovery*, translation by the author of *Logik der Forschung* (1935), London: Hutchinson; republished, London & New York: Routledge Classics, 2002.
+
+[^popper-1963]: 1963, *Conjectures and Refutations: The Growth of Scientific Knowledge*, London: Routledge.
+
+[^popper-1966]: 1966, *Of Clouds and Clocks: An Approach to the Problem of Rationality and the Freedom of Man*. Washington, DC: Washington University Press.
+
+[^popper-1967]: 1967 [1972], “Epistemology Without a Knowing Subject”, in *Logic, Methodology and Philosophy of Science III*, B. Van Rootselaar and J. F. Staal (eds.), (Studies in Logic and the Foundations of Mathematics 52), Amsterdam: Elsevier, 333–373. Reprinted in Popper 1972a: 106–152. doi:10.1016/S0049-237X(08)71204-7
+
+[^popper-1968]: 1968 [1972], “On the Theory of the Objective Mind”, *Akten des XIV. Internationalen Kongresses für Philosophie*, vol. i, Vienna, 25–53. Translated and expanded in 1972a: 153–190.
+
+[^popper-1970]: 1970 [1972], “A Realist View of Logic, Physics, and History”, in *Physics, Logic and History*, W. Yougrau and A. D. Breck (eds), Plenum Press, 1–30; reprinted in Popper 1972a: 285–318.
+
+[^popper-1972]: 1972 [1979], *Objective Knowledge: An Evolutionary Approach*, Oxford: Clarendon Press; republished, with an introduction by Jeremy Shearmur, London, New York: Routledge, 2026.
+
+[^popper-1972b]: 1972b, “Two Faces of Common Sense: An Argument for Commonsense Realism and Against the commonsense Theory of Knowledge”, in 1972a: 32–105.
+
+[^popper-1974]: 1974, “Replies to My Critics”, in Schilpp 1974: vol. 2, 961–1197.
+
+[^popper-1976]: 1976, *Unended Quest; An Intellectual Autobiography*, London: Fontana.
+
+[^popper-1976-2]: 1976, “A Note on Verisimilitude”, *The British Journal for the Philosophy of Science*, 27: 147–159.
+
+[^popper-1977]: 1977, *The Self and Its Brain: An Argument for Interactionism*, with John C. Eccles, London: Springer International. doi:10.4324/9780203537480
+
+[^popper-1979]: 1979 [2007], *Die Beiden Grundprobleme der Erkenntnistheorie*, Tübingen: Routledge. Based on manuscripts written in the early 1930s. Translated as *The Two Fundamental Problems of the Theory of Knowledge*, Troels Eggers Hansen (ed.), Andreas Pickel (trans.), London: Routledge, 2007.
+
+[^popper-1980]: 1980, “Three Worlds”, in *The Tanner Lectures on Human Values*, volume 1, S.M. McMurrin (ed.), Salt Lake City, UT: University of Utah Press, 141–167.
+
+[^popper-1982]: 1982, *The Open Universe: An Argument for Indeterminism*, W.W. Bartley III (ed.), London: Hutchinson.
+
+[^popper-1983]: 1983, *Realism and the Aim of Science*, W.W. Bartley III (ed.), London: Hutchinson.
+
+[^popper-1994]: 1994, *The Myth of the Framework: In Defence of Science and Rationality*, M.A. Notturno, (ed.), London: Routledge.
+
+[^popper-1994-2]: 1994, *Knowledge and the Mind-Body Problem: In Defence of Interactionism*, M.A. Notturno (ed.), London: Routledge.
 
 [^after-2012]: *After the Open Society: Selected Social and Political Writings*, Jeremy Shearmur and Piers Norris Turner (eds.), London and New York: Routledge, 2012.
 
