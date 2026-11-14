@@ -29,7 +29,6 @@ import re
 import subprocess
 import sys
 import tempfile
-import unicodedata
 from collections import Counter
 
 _enc = getattr(sys.stdout, 'encoding', None)
@@ -42,24 +41,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
-from tools import check_terms  # noqa: E402
+from tools.register_lib import (PERSON_FILE, TERM_FILE, HEADER_WORDS,  # noqa: E402,F401
+                                bucket_of, fold_nfd as norm_key, is_data_row,
+                                person_path, split_row, term_path)
 
 MARKER = '<!-- az-sort:v1 -->'
 DATE_RE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
 LETTER_HEAD_RE = re.compile(r'^## ([A-Z#])$')
-
-# 前置装饰符：书名号/引号/括号/星号/反引号等；ʿʾ 等转写修饰符按约定并入地名首字母
-DECOR = set('《》〈〉「」『』“”‘’"\'`*\\_~([{（【［〔 \t\u02bf\u02be\u02bb\u02bc\u2018\u2019\u0060')
-FOLD = {'Ł': 'L', 'ł': 'l', 'Ø': 'O', 'ø': 'o', 'Đ': 'D', 'đ': 'd',
-        'Æ': 'A', 'æ': 'a', 'Œ': 'O', 'œ': 'o', 'ß': 'S', 'Þ': 'T', 'þ': 't',
-        'Ð': 'D', 'ð': 'd', 'ı': 'i'}
-GREEK = {'α': 'a', 'β': 'b', 'γ': 'g', 'δ': 'd', 'ε': 'e', 'ζ': 'z', 'η': 'e',
-         'θ': 't', 'ι': 'i', 'κ': 'k', 'λ': 'l', 'μ': 'm', 'ν': 'n', 'ξ': 'x',
-         'ο': 'o', 'π': 'p', 'ρ': 'r', 'σ': 's', 'ς': 's', 'τ': 't', 'υ': 'u',
-         'φ': 'f', 'χ': 'c', 'ψ': 'y', 'ω': 'o'}
-
-TERM_FILE = 'shu-yu-biao.md'
-PERSON_FILE = 'ren-ming-biao.md'
 
 PERSON_DOC_PREFIXES = ('## 伊斯兰阿拉伯人物', '## 登记格式说明', '## 待裁定')
 
@@ -91,46 +79,21 @@ PERSON_ORDER_NOTE = (
     'ADR-0013 伊斯兰阿拉伯人名体例不变，其词条已并入同一 A–Z 索引（体例注见文末）。')
 
 
-def norm_key(text):
-    """折叠键：NFD 去组合符 → casefold → 空白归一。"""
-    s = unicodedata.normalize('NFD', text or '')
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).strip().casefold()
-
-
-def bucket_of(key):
-    """首字母分节桶：A–Z 或 '#'。"""
-    s = (key or '').strip()
-    while s and s[0] in DECOR:
-        s = s[1:].lstrip()
-    if not s:
-        return '#'
-    c = s[0]
-    base = unicodedata.normalize('NFD', c)[0]
-    if base.isascii() and base.isalpha():
-        return base.upper()
-    if c in FOLD:
-        return FOLD[c].upper()
-    if c in GREEK:
-        return GREEK[c].upper()
-    return '#'
-
-
 def is_registration(cells):
     """数据行判定：常规数据行，或首列撞 HEADER_WORDS 但末列是日期的真实登记行。"""
-    if check_terms.is_data_row(cells):
+    if is_data_row(cells):
         return True
     return (len(cells) >= 4 and DATE_RE.match(cells[-1] or '') is not None)
 
 
 def _is_dropped_header(line):
     """历史遗留表头/分隔行（术语表 4 行、人名表 2 行）：全由表头词/短横组成。"""
-    cells = check_terms.split_row(line)
+    cells = split_row(line)
     if not cells:
         return False
     if all(set(c) <= set(':-— ') for c in cells if c):
         return True  # 分隔行 | --- | --- |
-    return cells[0].casefold() in check_terms.HEADER_WORDS and not DATE_RE.match(cells[-1] or '')
+    return cells[0].casefold() in HEADER_WORDS and not DATE_RE.match(cells[-1] or '')
 
 
 def scan(lines):
@@ -158,9 +121,9 @@ def scan(lines):
             if s.startswith('## ') and not s.startswith(tuple(PERSON_DOC_PREFIXES)):
                 docs.append(doc)
                 doc = None
-            elif s.startswith('|') and is_registration(check_terms.split_row(s)):
+            elif s.startswith('|') and is_registration(split_row(s)):
                 # 说明段后追加的登记行：并入字母节，说明文字原位保留
-                rows.append({'line': line, 'key': check_terms.split_row(s)[0], 'idx': idx})
+                rows.append({'line': line, 'key': split_row(s)[0], 'idx': idx})
                 idx += 1
                 continue
             elif s.startswith('|') and _is_dropped_header(s):
@@ -178,7 +141,7 @@ def scan(lines):
             idx += 1
             continue
         if s.startswith('|'):
-            cells = check_terms.split_row(s)
+            cells = split_row(s)
             if is_registration(cells):
                 rows.append({'line': line, 'key': cells[0], 'idx': idx})
             elif not _is_dropped_header(s):
