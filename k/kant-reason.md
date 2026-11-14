@@ -214,7 +214,7 @@
 
 康德把道德与幸福合起来的重要性表述为“至善”：[^note-25]
 
-> **德性**（作为配得幸福的资格）是甚至在我们看来可欲的一切东西的 **至上条件**，因而是我们全部幸福追求的至上条件……因而是 **至上的** 善。但它对有限的理性存在者而言并不是完满的善；为此还 **需要幸福**，而且这不只是在把自己当作目的的那个人的偏私眼光中，甚至是在不偏不倚的理性［换言之，这不是关于我想要幸福的主观愿望，而是一个客观判断：幸福是人的自然目的，正如善是我们的道德目的——GW］的判断中……按与道德（作为一个人的价值及其配得幸福的资格）的精确比例而分配的幸福，构成一个可能世界的 **至善**。（5:110）
+> **德性**（作为配得幸福的资格）是甚至在我们看来可欲的一切东西的 **至上条件**，因而是我们全部幸福追求的至上条件……因而是 **至上的** 善。但它对有限的理性存在者而言并不是完满的善；为此还 **需要幸福**，而且这不只是在把自己当作目的的那个人的偏私眼光中，甚至是在不偏不倚的理性［换言之，这不是关于我想要幸福的主观愿望，而是一个客观判断：幸福是人的自然目的，正如善是我们的道德目的——GW（原作者插语）］的判断中……按与道德（作为一个人的价值及其配得幸福的资格）的精确比例而分配的幸福，构成一个可能世界的 **至善**。（5:110）
 
 这里的论证大胆但可疑。我们必须设想道德活动将导致幸福。然而人的能动性不能达成这一点：“我［甚至我们所有人一起行动——GW］不能指望产生这［至善］，除非靠我的意志与一位神圣而仁慈的世界作者的意志的和谐”（5:129）。于是康德论证：我们必须“公设”上帝存在。我们还必须公设不朽。唯有如此，我们才能希望自己终将接近德性、从而配得幸福。
 
@@ -308,7 +308,7 @@
 
 用几位当代康德主义者的术语说，这一程序 **构成** 了理性。（见 Herman 2007: Ch. 10, Korsgaard 2008, Reath 2013, Bagnoli 2017；Møller 2020 聚焦于康德的法律隐喻。）[^bagnoli-2017][^herman-2007][^korsgaard-2008][^møller-2020][^reath-2013] 理性是思维与行动的唯一无条件（即非他律的）权威。
 
-### 4 结语
+## 4 结语
 
 没有人怀疑信念与行动受合理性要求的约束。理论推理以认识我们周围的世界为目标（或许也认识我们自己）。实践推理以在世界中造成改变为目标（或许也改变我们自己）。
 
@@ -360,7 +360,7 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
   * *Critique of the Power of Judgment*（《判断力批判》），P. Guyer 与 E. Matthews 译/编，剑桥：剑桥大学出版社，2000。
 
 
-### Secondary literature
+### 研究文献
 
 ## 脚注
 
@@ -432,7 +432,7 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 [^note-34]: 康德对国家的义务作过类似的主张。统治者不得越出现存边界——也就是说，不得发动侵略性、惩罚性或殖民性的战争。与此同时，只要行动和平，各国可以提出争端并就领土或其他共同安排进行谈判。见 Ripstein 2021: Ch. 9。
 
-[^note-35]: Hieronymi 2021 给出了把推理与理性行动性紧密相连的富有洞见的说明。她的说明回应了那些把理由简单地（？）框定为“支持”某一行动或结论的考量的其他当代说明。
+[^note-35]: Hieronymi 2021 给出了把推理与理性行动性紧密相连的富有洞见的说明。她的说明回应了那些把理由简单地框定为“支持”某一行动或结论的考量的其他当代说明。
 
 [^note-36]: Schadow 2022 强调“实践三段论”在康德的准则观念与行动哲学中的作用。准则代表一个总体政策——实践推理的“大前提”。具体处境提供“小前提”。行动应被理解为从这些前提作出的一个逻辑（“三段论式”）推断。如果这些前提之间有矛盾，那么三段论无效——或者更直白地说，我们推理得很糟。
 [^kant’s-1902]: Kant’s works are cited by volume and page numbers of the *Akademie* edition of *Kants gesammelte Schriften* (Berlin, 1902–). The only exception is the *Critique of Pure Reason*, cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. The *Groundwork* is printed in *Akademie* volume 4 and the *Critique of Practical Reason* in volume 5; unless otherwise noted, references beginning with “4:” are to the *Groundwork* and those beginning with “5:” to the second *Critique*. The *Akademie* pagination is found in the margins of all modern translations. Apart from the 2011 edition of the *Groundwork*, translations are from the standard Cambridge Edition of the Works of Immanuel Kant:
@@ -538,13 +538,13 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 [^lenczewska-2021]: Lenczewska, O., 2021, “Becoming Pluralists: Kant on the Normative Features of Pluralistic Thinking,” *Kant Yearbook*, 13(1): 107–28.
 
-[^ów-1993]: Łuków, P., 1993, “The Fact of Reason: Kant’s Passage to Ordinary Moral Knowledge,” *Kant-Studien*, 84(2): 204–221.
+[^lukow-1993]: Łuków, P., 1993, “The Fact of Reason: Kant’s Passage to Ordinary Moral Knowledge,” *Kant-Studien*, 84(2): 204–221.
 
 [^macintyre-1988]: MacIntyre, A., 1988, *Whose Justice? Which Rationality?*, London: Duckworth.
 
 [^mikalsen-2010]: Mikalsen, K. K., 2010, “Testimony and Kant’s Idea of Public Reason,” *Res Publica*, 16(1): 23–40.
 
-[^møller-2020]: Møller, S., 2020, *Kant’s Tribunal of Reason: Legal Metaphor and Normativity in the* Critique of Pure Reason. Cambridge: Cambridge University Press.
+[^møller-2020]: Møller, S., 2020, *Kant’s Tribunal of Reason: Legal Metaphor and Normativity in the Critique of Pure Reason*, Cambridge: Cambridge University Press.
 
 [^mudd-2016]: Mudd, S., 2016, “Rethinking the Priority of Practical Reason in Kant,” *European Journal of Philosophy*, 24(1): 78–102.
 
@@ -586,7 +586,7 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 [^reath-2013]: –––, 2013, “Formal Approaches to Kant’s Formula of Humanity,” in *Kant on Practical Justification: Interpretive Essays*, S. Baiasu & M. Timmons (eds.), Oxford: Oxford University Press, pp. 201–228.
 
-[^rescher-2000]: Rescher, N., 2000, *Kant and the Reach of Reason:* *Studies in Kant’s Theory of Rational Systemization*, Cambridge: Cambridge University Press.
+[^rescher-2000]: Rescher, N., 2000, *Kant and the Reach of Reason: Studies in Kant’s Theory of Rational Systemization*, Cambridge: Cambridge University Press.
 
 [^ripstein-2021]: Ripstein, A., 2021, *Kant and the Law of War*, New York: Oxford University Press.
 
@@ -641,6 +641,6 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
-### 致谢
+## 致谢
 
 多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。
