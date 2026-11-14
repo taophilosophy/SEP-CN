@@ -252,22 +252,6 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 #### A.2 Kierkegaard’s Works in English
 ### B. Selected Secondary Literature and Other Works Referred To
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kierkegaard&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kierkegaard/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* McDonald, William，“索伦·克尔凯郭尔”，**斯坦福哲学百科全书**（Spring 2023 Edition），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2023/entries/kierkegaard/](https://plato.stanford.edu/archives/spr2023/entries/kierkegaard/)>。［这是本百科全书关于此主题的前一条目——见[版本史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard)。］
-
-## 相关词条
-
-本真性 | 基督教传统中的情感 | 存在主义 | 信仰 | 信仰主义 | 格奥尔格·威廉·弗里德里希·黑格尔 | 希望 | 伊曼努尔·康德 | 爱 | 路德的哲学影响 | 西方哲学中的宗教与道德 | 让-保罗·萨特
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^kierkegaard’s-nd]: The now definitive critical edition of Kierkegaard’s writings is:
 
 [^sks-1997]: [SKS] Kierkegaard, Søren, *Søren Kierkegaard’s Skrifter*, N. J. Cappelørn et al. (eds), Copenhagen: Gad, 1997–2013, 55 volumes. Also available online at: [http://www.sks.dk/](http://www.sks.dk)
@@ -655,3 +639,19 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 [^westphal-1996]: –––, 1996, *Becoming a Self: A Reading of Kierkegaard’s Concluding Unscientific Postscript*, West Lafayette, IN: Purdue University Press.
 
 [^westphal-2014]: –––, 2014, *Kierkegaard’s Concept of Faith*, Grand Rapids, MI: Eerdmans.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kierkegaard&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kierkegaard/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* McDonald, William，“索伦·克尔凯郭尔”，**斯坦福哲学百科全书**（Spring 2023 Edition），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2023/entries/kierkegaard/](https://plato.stanford.edu/archives/spr2023/entries/kierkegaard/)>。［这是本百科全书关于此主题的前一条目——见[版本史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard)。］
+
+## 相关词条
+
+本真性 | 基督教传统中的情感 | 存在主义 | 信仰 | 信仰主义 | 格奥尔格·威廉·弗里德里希·黑格尔 | 希望 | 伊曼努尔·康德 | 爱 | 路德的哲学影响 | 西方哲学中的宗教与道德 | 让-保罗·萨特
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

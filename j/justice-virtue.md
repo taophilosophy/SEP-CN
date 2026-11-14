@@ -141,23 +141,6 @@ John Hacker-Wright 论证说，要取代对道德地位（如现代自由主义�
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justice-virtue)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/justice-virtue/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/justice-virtue/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=justice-virtue&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/justice-virtue/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-托马斯·阿奎那 | 可行能力 | 应得 | 古代伦理学思想 | 德性伦理学 | 正义 | 分配正义 | 代际正义 | 全球分配正义 | 约翰·罗尔斯
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 注释
 
 [^anderson-2010]: Anderson, Elizabeth, 2010, “The Fundamental Disagreement between Luck Egalitarians and Relational Egalitarians,” *Canadian Journal of Philosophy* (Supplemental Volume), 36: 1–24.
@@ -327,3 +310,20 @@ John Hacker-Wright 论证说，要取代对道德地位（如现代自由主义�
 [^woodruff-2012]: Woodruff, Paul, 2012, “Justice as the Virtue of the Soul,” in R. Kamtekar (ed.) *Virtue and Happiness: Essays in Honour of Julia Annas*, Oxford: Oxford University Press, 89–101.
 
 [^woodruff-2018]: –––, 2018, “Growing toward Justice,” in LeBar 2018, 13–38.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justice-virtue)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/justice-virtue/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/justice-virtue/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=justice-virtue&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/justice-virtue/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+托马斯·阿奎那 | 可行能力 | 应得 | 古代伦理学思想 | 德性伦理学 | 正义 | 分配正义 | 代际正义 | 全球分配正义 | 约翰·罗尔斯
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

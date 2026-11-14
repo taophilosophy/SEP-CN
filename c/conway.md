@@ -58,23 +58,6 @@
 
 ### 二手文献（Secondary Sources）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
-
-## 相关词条
-
-剑桥柏拉图学派 | 勒内·笛卡尔 | 托马斯·霍布斯 | 戈特弗里德·威廉·莱布尼茨 | 亨利·莫尔 | 巴鲁赫·斯宾诺莎
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^conway-1690]: Conway, Anne, *Principia philosophiae antiquissimae et recentissimae de Deo, Christo et Creatura id est de materia et spiritu in genere*. Amsterdam, 1690.
 
 [^conway-1692]: –––, *The Principles of the Most Ancient and Modern Philosophy*. London, 1692. [[*Principles* 1692 available online](https://digital.library.upenn.edu/women/conway/principles/principles.html)]
@@ -172,3 +155,20 @@
 [^thomas-2018a]: –––, 2018a, “Anne Conway on the Identity of Creatures over Time”, in Thomas (ed.), *Early Modern Women on Metaphysics*, Cambridge: Cambridge University Press. doi:10.1017/9781316827192
 
 [^thomas-2020]: –––, 2020, “Anne Conway as a Priority Monist: A Reply to Gordon-Roth”, *Journal of the American Philosophical Association*. [[Thomas 2020 available online](http://dro.dur.ac.uk/27123/)]
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
+
+## 相关词条
+
+剑桥柏拉图学派 | 勒内·笛卡尔 | 托马斯·霍布斯 | 戈特弗里德·威廉·莱布尼茨 | 亨利·莫尔 | 巴鲁赫·斯宾诺莎
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

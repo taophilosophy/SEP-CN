@@ -146,27 +146,6 @@
 
 ### 第二手文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=harriet-mill)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/harriet-mill/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/harriet-mill/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=harriet-mill&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/harriet-mill/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* “[论劳动阶级之可能的未来](http://socserv.socsci.mcmaster.ca/~econ/ugcm/3ll3/mill/prin/book4/bk4ch07)”，《政治经济学原理》（*Principles of Political Economy*），第 4 卷第 7 章
-* [海伦·泰勒的文章《英国妇女依法申请选举权考》（1867）](http://www.indiana.edu/~letrs/vwwp/taylor/suffrage.html)
-* [哈丽雅特·泰勒](http://spartacus-educational.com/Wtaylor.htm)，斯巴达克斯教育网页面。
-
-## 相关词条
-
-自由主义女性主义 | 自由主义 | 约翰·斯图亚特·穆勒 | 穆勒的伦理学和政治哲学
-
-## 致谢
-
-作者衷心感谢马修·蒙托亚、阿什莉·阿科斯塔、库尔特·高巴茨、罗德里克·朗与海伦·麦凯布所给予我的帮助。
-
 ## 注释
 
 [^note-1]: 弗里德里希·哈耶克给出的日期为 10 月 10 日（2015, 19）；雅各布斯在《哈丽雅特·泰勒·密尔全集》（*The Complete Works of Harriet Taylor Mill*）的导论性材料中给出的是 10 月 8 日（[CW] 1998, xli）。
@@ -276,3 +255,24 @@
 [^trilling-1952]: Trilling, D., 1952, “Mill’s Intellectual Beacon,” *Partisan Review*, 19: 115–20.
 
 [^warnock-1996]: Warnock, M., 1996, “Introduction,” *Women Philosophers*, M. Warnock (ed.), London: Dent, xxix–xlvii.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=harriet-mill)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/harriet-mill/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/harriet-mill/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=harriet-mill&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/harriet-mill/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* “[论劳动阶级之可能的未来](http://socserv.socsci.mcmaster.ca/~econ/ugcm/3ll3/mill/prin/book4/bk4ch07)”，《政治经济学原理》（*Principles of Political Economy*），第 4 卷第 7 章
+* [海伦·泰勒的文章《英国妇女依法申请选举权考》（1867）](http://www.indiana.edu/~letrs/vwwp/taylor/suffrage.html)
+* [哈丽雅特·泰勒](http://spartacus-educational.com/Wtaylor.htm)，斯巴达克斯教育网页面。
+
+## 相关词条
+
+自由主义女性主义 | 自由主义 | 约翰·斯图亚特·穆勒 | 穆勒的伦理学和政治哲学
+
+## 致谢
+
+作者衷心感谢马修·蒙托亚、阿什莉·阿科斯塔、库尔特·高巴茨、罗德里克·朗与海伦·麦凯布所给予我的帮助。

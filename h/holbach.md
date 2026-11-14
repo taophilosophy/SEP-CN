@@ -104,27 +104,6 @@
 
 ### Secondary Literature
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=holbach)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/holbach/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=holbach&redirect=True) 查找与本词条相关的话题与思想家。
-
-* 在 [PhilPapers](https://philpapers.org/sep/holbach/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [霍尔巴赫若干著作的英译本](https://www.gutenberg.org/browse/authors/h#a2420)，来自古腾堡计划。
-
-* [数字版霍尔巴赫：一个出色且快速发展的资源集](https://www.voltaire.ox.ac.uk/digital-enlightenment/digital-dholbach)，来自伏尔泰基金会。
-
-## 相关词条
-
-约翰·洛克 | 斯宾诺莎
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^le-1761]: *Le Christianisme dévoilé*, Nancy, 1761.
 [^système-1770]: *Système de la nature*, 2 volumes, London, 1770.
 [^system-1970]: *System of Nature*, translated by H.D. Robinson, New York: Burt Franklin, 1970.
@@ -166,3 +145,24 @@
 [^topazio-1956]: Topazio, Virgil W., 1956, *D’Holbach’s Moral Philosophy: Its Background and Development*, Geneva: Institut et musée Voltaire.
 [^treuherz-2016]: Treuherz, Nick, 2016 “The diffusion and impact of Baron d’Holbach’s texts in Great Britain, 1765–1800,” in *Radical Voices, Radical Ways*, Laurent Curelly and Nigel Smith (eds.), Manchester: Manchester University Press, pp. 125–148.
 [^vercruysse-1971]: Vercruysse, J., 1971, *Bibliographie descriptive des écrits du baron d’Holbach*, Paris: Lettres modernes.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=holbach)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/holbach/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=holbach&redirect=True) 查找与本词条相关的话题与思想家。
+
+* 在 [PhilPapers](https://philpapers.org/sep/holbach/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [霍尔巴赫若干著作的英译本](https://www.gutenberg.org/browse/authors/h#a2420)，来自古腾堡计划。
+
+* [数字版霍尔巴赫：一个出色且快速发展的资源集](https://www.voltaire.ox.ac.uk/digital-enlightenment/digital-dholbach)，来自伏尔泰基金会。
+
+## 相关词条
+
+约翰·洛克 | 斯宾诺莎
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

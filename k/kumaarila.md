@@ -157,23 +157,6 @@
 ### Translations of primary texts
 ### Secondary literature
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kumaarila)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kumaarila&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kumaarila/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [哥廷根印度语言电子文本登记库（GRETIL）](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)。
-* [印度哲学书目](https://web.archive.org/web/20211113104439/http://faculty.washington.edu/kpotter/ckeyt/home.htm)，Karl Potter 编，Christine Keyt 维护［存档］。
-
-## 相关词条
-
-抽象对象 | 法称 | 早期现代印度的分析哲学 | 古典印度哲学中的语言与证言 | 古典印度哲学中的逻辑学 | 古典印度哲学中的知觉经验与概念 | 古典印度哲学中的自我认识 | 知识证成的内在主义与外在主义观念 | 意义理论 | 托马斯·里德 | 可靠主义认识论 | 寂护
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^tantravārttika-1970]: *Tantravārttika*. Edited by Kashinath Vasudev Abhyankar, et al, 1970, ff., in *Śrīmajjaiminipraṇīte Mīmāṃsādarśane…: (Mīmāṃsākaṇṭīravakumārilabhaṭṭapraṇītatantravārttika sahitaśābarabhāṣyopetaḥ)* [7 volumes, comprising Kumārila’s *Tantravārttika*], Pune: Ānandāśrama Sanskrit Series.
 
 [^edited-1990]: *Ślokavārttika*. Edited by K. Sāmbaśiva Śāstrī, 1990, in *Mīmāṃsāślokavārtika with the Commentary Kāśikā of Sucaritamiśra* (Parts I & II), Trivandrum: CBH Publications (reprint of Trivandrum Sanskrit Series, Nos. 23, 29, 31; 1913).
@@ -335,3 +318,20 @@
 [^volosinov-1986]: Volosinov, V. N., 1986, *Marxism and the Philosophy of Language*, Ladislav Matejka and I. R. Titunik (translators), Cambridge, MA: Harvard University Press.
 
 [^wittgenstein-1958]: Wittgenstein, Ludwig, 1958, *Philosophical Investigations*, G. E. M. Anscombe (trans.), New York: Macmillan.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kumaarila)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kumaarila&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kumaarila/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [哥廷根印度语言电子文本登记库（GRETIL）](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)。
+* [印度哲学书目](https://web.archive.org/web/20211113104439/http://faculty.washington.edu/kpotter/ckeyt/home.htm)，Karl Potter 编，Christine Keyt 维护［存档］。
+
+## 相关词条
+
+抽象对象 | 法称 | 早期现代印度的分析哲学 | 古典印度哲学中的语言与证言 | 古典印度哲学中的逻辑学 | 古典印度哲学中的知觉经验与概念 | 古典印度哲学中的自我认识 | 知识证成的内在主义与外在主义观念 | 意义理论 | 托马斯·里德 | 可靠主义认识论 | 寂护
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

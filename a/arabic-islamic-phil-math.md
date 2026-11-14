@@ -167,23 +167,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-phil-math)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-phil-math/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-phil-math&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提供补充建议。]
-
-## 相关词条
-
-法拉比 | 肯迪 | 阿拉伯和伊斯兰形而上学 | 阿拉伯和伊斯兰自然哲学与自然科学 | 亚里士多德论数学 | 连续性与无穷小 | 伊本·海赛姆 | 伊本·西那（阿维森纳） | 无限 | 数学哲学 | 数学哲学中的柏拉图主义
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^abū-1939]: Abū al-Barakāt, *Al-Muʿtabar fī al-ḥikma*, ʿAbdallāh al-ʿAlawī al-Ḥaḍramī (ed.), Hyderabad: Dāʾira al-maʿārif al-ʿuthmānīya, 1939.
 
 [^avicenna-1956]: Avicenna, [*al-Burhān*], *al-Shifāʾ, al-Manṭiq, al-Burhān* (*Healing. Logic. Book of Demonstration*), Abū l-ʿAlā ʿAfīfī (ed.), Cairo: al-Maṭbaʿa al-amīrīya, 1956.
@@ -455,3 +438,20 @@
 [^zhmud’-1989]: Zhmud’, Leonid Ja., 1989, “‘All Is Number’? ‘Basic Doctrine’ of Pythagoreanism Reconsidered”, *Phronesis*, 34(1–3): 270–292. doi:10.1163/156852889X00189
 
 [^ziai-1990]: Ziai, Hossein, 1990, *Knowledge and Illumination: A Study of Suhrawardī’s Ḥikmat al-Ishrāq*, Atlanta, GA: Scholars Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-phil-math)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-phil-math/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-phil-math&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提供补充建议。]
+
+## 相关词条
+
+法拉比 | 肯迪 | 阿拉伯和伊斯兰形而上学 | 阿拉伯和伊斯兰自然哲学与自然科学 | 亚里士多德论数学 | 连续性与无穷小 | 伊本·海赛姆 | 伊本·西那（阿维森纳） | 无限 | 数学哲学 | 数学哲学中的柏拉图主义
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

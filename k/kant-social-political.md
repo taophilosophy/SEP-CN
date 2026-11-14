@@ -138,22 +138,6 @@
 
 ### Secondary Sources.
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-social-political)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-social-political&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kant-social-political/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [北美康德学会](http://www.sandiego.edu/naks/)。
-
-## 相关词条
-
-自利契约论 | 世界主义 | 民主 | 托马斯·霍布斯 | 伊曼努尔·康德 | 康德对理性的论述 | 康德的道德哲学 | 自由主义 | 积极自由和消极自由 | 约翰·洛克 | 自然法理论 | 财产和所有权 | 法律惩罚 | 让-雅克·卢梭
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^kant’s-1900]: Kant’s original German and Latin writings are collected in *Kants Gesammelte Schriften*, Berlin: Walter de Gruyter, 1900–. Most translations provide the pagination to this edition in the margins, often using volume and page number. All citations in this article use this method.
 [^english-nd]: English translations of Kant’s primary works are numerous. *The Cambridge Edition of the Works of Immanuel Kant in English* includes critical translations of all of Kant’s published works and large selections of his correspondence, lectures, and literary remains. The following volumes of that series contain relevant material, some of which is also issued separately:
 [^practical-1996]: *Practical Philosophy*, Mary Gregor (trans.), 1996. Relevant contents: “An Answer to the Question: What is Enlightenment?,” *Groundwork of the Metaphysics of Morals*, “On the Common Saying: That May Be Correct in Theory, But it is of No Use in Practice,” “Toward Perpetual Peace”, and the *Metaphysics of Morals*.
@@ -341,3 +325,19 @@
 [^wood-2002]: Wood, Allen, 2002, “The Final Form of Kant’s Practical Philosophy”, in Timmons, Mark (ed.), *Kant’s Metaphysics of Morals: Interpretive Essays*, Oxford: Oxford University Press, 1–21.
 
 [^yovel-1980]: Yovel, Yirmiyahu Yovel, 1980, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-social-political)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-social-political&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kant-social-political/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [北美康德学会](http://www.sandiego.edu/naks/)。
+
+## 相关词条
+
+自利契约论 | 世界主义 | 民主 | 托马斯·霍布斯 | 伊曼努尔·康德 | 康德对理性的论述 | 康德的道德哲学 | 自由主义 | 积极自由和消极自由 | 约翰·洛克 | 自然法理论 | 财产和所有权 | 法律惩罚 | 让-雅克·卢梭
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

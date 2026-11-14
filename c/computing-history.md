@@ -169,28 +169,6 @@ EDVAC 与 ACE 的方案都主张用充满水银的管子——叫做“延迟线
 
 ### 延伸阅读
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computing-history)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/computing-history/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/computing-history/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=computing-history&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/computing-history/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [艾伦·图灵主页](http://www.turing.org.uk/turing/)
-* [澳大利亚计算机博物馆学会](https://www.acms.org.au/)
-* [布莱切利园主页](https://bletchleypark.org.uk/)
-* [查尔斯·巴贝奇研究所](http://www.cbi.umn.edu/)
-* [弗罗德·韦埃鲁德的密码地窖](http://cryptocellar.org/)
-* [宾夕法尼亚大学逻辑与计算小组](http://www.cis.upenn.edu/~lc/home.html)
-* [国家计算史档案馆](http://www.chstm.manchester.ac.uk/research/nahc/)
-* [国家密码博物馆](https://www.nsa.gov/about/cryptologic-heritage/museum/)
-
-## 相关词条
-
-可计算性与复杂度 | 递归函数 | 艾伦·图灵 | 图灵机
-
 [^babbage-1994]: Babbage, C. (ed. by Campbell-Kelly, M.), 1994, *Passages from the Life of a Philosopher*, New Brunswick: Rutgers University Press
 [^bennett-1976]: Bennett, S., 1976, ‘F.C. Williams: his contribution to the development of automatic control’, National Archive for the History of Computing, University of Manchester, England. (This is a typescript based on interviews with Williams in 1976.)
 [^bowker-1993]: Bowker, G., and Giordano, R., 1993, ‘Interview with Tom Kilburn’, *Annals of the History of Computing*, **15**: 17–32.
@@ -218,3 +196,25 @@ EDVAC 与 ACE 的方案都主张用充满水银的管子——叫做“延迟线
 [^metropolis-1980]: Metropolis, N., Howlett, J., Rota, G.C. (eds), 1980, *A History of Computing in the Twentieth Century* New York: Academic Press
 [^randell-1982]: Randell, B. (ed.), 1982, *The Origins of Digital Computers: Selected Papers* Berlin: Springer-Verlag
 [^williams-1997]: Williams, M.R., 1997, *A History of Computing Technology* Los Alamitos: IEEE Computer Society Press
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computing-history)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/computing-history/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/computing-history/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=computing-history&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/computing-history/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [艾伦·图灵主页](http://www.turing.org.uk/turing/)
+* [澳大利亚计算机博物馆学会](https://www.acms.org.au/)
+* [布莱切利园主页](https://bletchleypark.org.uk/)
+* [查尔斯·巴贝奇研究所](http://www.cbi.umn.edu/)
+* [弗罗德·韦埃鲁德的密码地窖](http://cryptocellar.org/)
+* [宾夕法尼亚大学逻辑与计算小组](http://www.cis.upenn.edu/~lc/home.html)
+* [国家计算史档案馆](http://www.chstm.manchester.ac.uk/research/nahc/)
+* [国家密码博物馆](https://www.nsa.gov/about/cryptologic-heritage/museum/)
+
+## 相关词条
+
+可计算性与复杂度 | 递归函数 | 艾伦·图灵 | 图灵机

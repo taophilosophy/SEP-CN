@@ -98,21 +98,6 @@
 
 ### 二手文献与其他相关资料
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cassirer)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cassirer/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=cassirer&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/cassirer/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [W. Sellars 对 S. Langer 所译卡西尔《语言与神话》（*Language and Myth*）的书评](http://www.ditext.com/sellars/rc.html)，载 *Philosophy and Phenomenological Research*，9（1948）。
-
-## 相关词条
-
-爱因斯坦：科学哲学 | 广义相对论：早期哲学诠释 | 马丁·海德格尔 | 伊曼努尔·康德 | 保罗·那托普 | 莫里茨·石里克 | 维也纳学派
-
 [^fuller-1949]: (Fuller bibliographies may be found in [Schilpp 1949], [Krois 1987]; many of Cassirer's German writings are reprinted by the Wissenschaftliche Buchgesellschaft, Darmstadt.)
 
 [^fuller-1902]: (1902) *Leibniz' System in seinen wissenschaftlichen Grundlagen*. Marburg: Elwert.
@@ -218,3 +203,18 @@
 [^schwemmer-1997]: Schwemmer, O. (1997) *Ernst Cassirer. Ein Philosoph der europäischen Moderne*. Berlin: Akademie.
 
 [^skidelsky-2008]: Skidelsky, E. (2008) *Ernst Cassirer: The Last Philosopher of Culture*. Princeton: Princeton University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cassirer)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cassirer/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cassirer&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/cassirer/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [W. Sellars 对 S. Langer 所译卡西尔《语言与神话》（*Language and Myth*）的书评](http://www.ditext.com/sellars/rc.html)，载 *Philosophy and Phenomenological Research*，9（1948）。
+
+## 相关词条
+
+爱因斯坦：科学哲学 | 广义相对论：早期哲学诠释 | 马丁·海德格尔 | 伊曼努尔·康德 | 保罗·那托普 | 莫里茨·石里克 | 维也纳学派

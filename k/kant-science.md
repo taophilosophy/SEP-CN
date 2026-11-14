@@ -178,24 +178,6 @@ Yovel（1980）以及更晚近的 Kleingeld（1995 与 1999）讨论了康德关
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-science)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-science&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kant-science/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [北美康德学会](http://www.northamericankantsociety.org/)。
-* [康德研究站（Kant Forschungstelle）](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)，美因茨大学。
-* [康德自然理论诸概念](https://knb.mpiwg-berlin.mpg.de/kant/info/index_en.html)（德语），一个收录其显式与隐式关联的数据库。
-
-## 相关词条
-
-伊曼努尔·康德 | 康德：美学与目的论 | 康德：哲学发展 | 康德：心灵与自我意识的观点 | 自然法则
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^adickes-1911]: Adickes, E., 1911, *Untersuchungen zu Kants Physischer Geographie*, Tübingen: Mohr.
 
 [^adickes-1920]: –––, 1920, *Kants Opus postumum, dargestellt und beurteilt*, Berlin: Reuther & Reichard.
@@ -415,3 +397,21 @@ Yovel（1980）以及更晚近的 Kleingeld（1995 与 1999）讨论了康德关
 [^zumbach-1984]: Zumbach, C., 1984, *The Transcendent Science*, The Hague: Martinus Nijhoff.
 
 [^yovel-1980]: Yovel, Y., 1980, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-science)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-science&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kant-science/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [北美康德学会](http://www.northamericankantsociety.org/)。
+* [康德研究站（Kant Forschungstelle）](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)，美因茨大学。
+* [康德自然理论诸概念](https://knb.mpiwg-berlin.mpg.de/kant/info/index_en.html)（德语），一个收录其显式与隐式关联的数据库。
+
+## 相关词条
+
+伊曼努尔·康德 | 康德：美学与目的论 | 康德：哲学发展 | 康德：心灵与自我意识的观点 | 自然法则
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

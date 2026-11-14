@@ -102,21 +102,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=homosexuality)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/homosexuality/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/homosexuality/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=homosexuality&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/homosexuality/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [酷儿理论阅读书单](https://www.brown.edu/campus-life/support/lgbtq/graduate-student-resources/queer-theory-reading-list)，由布朗大学 LGBTQ 中心编纂
-
-## 相关词条
-
-托马斯·阿奎那 | 伦理学中的自然法传统 | 女性主义对自我的观点 | 米歇尔·福柯
-
 [^alderson-2016]: Alderson, David, 2016, *Sex, Needs & Queer Culture: From liberation to the Postgay*, London: Zed Books.
 [^bawer-1993]: Bawer, Bruce, 1993, *A Place at the Table: The Gay Individual in American Society*, New York: Poseidon Press.
 [^bawer-1996]: –––, 1996. *Beyond Queer: Challenging Gay Left Orthodoxy*, New York: The Free Press.
@@ -165,3 +150,18 @@
 [^sullivan-1995]: Sullivan, Andrew, 1995, *Virtually Normal: An Argument about Homosexuality*, New York: Knopf.
 [^weitham-1997]: Weitham, Paul J., 1997, “Natural Law, Morality, and Sexual Complementarity,” in *Sex, Preference, and Family: Essay on Law and Nature*, David M. Estlund and Martha C. Nussbaum (eds.), New York: Oxford University Press.
 [^wilson-1996]: Wilson, James Q., 1996, “Against Homosexual Marriage,” *Commentary*, 101(3): 34–39.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=homosexuality)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/homosexuality/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/homosexuality/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=homosexuality&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/homosexuality/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [酷儿理论阅读书单](https://www.brown.edu/campus-life/support/lgbtq/graduate-student-resources/queer-theory-reading-list)，由布朗大学 LGBTQ 中心编纂
+
+## 相关词条
+
+托马斯·阿奎那 | 伦理学中的自然法传统 | 女性主义对自我的观点 | 米歇尔·福柯

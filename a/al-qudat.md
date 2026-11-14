@@ -192,23 +192,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-qudat)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=al-qudat&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/al-qudat/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-［请向作者提出建议。］
-
-## 相关词条
-
-法拉比 | 安萨里 | 法赫尔丁·拉齐 | 阿拉伯和伊斯兰宗教哲学 | 阿拉伯和伊斯兰哲学中的神秘主义 | 伊本·阿拉比 | 伊本·西那（阿维森纳） | 穆拉·萨德拉 | 柏拉图中期的形而上学和认识论 | 柏拉图的《巴门尼德篇》 | 普罗提诺 | 苏哈拉瓦迪 | 欧玛尔·海亚姆
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^for-nd]: For a full bibliography, see:
 [^rustom-2023]: Rustom, Mohammed, 2023, *Inrushes of the Heart: The Sufi Philosophy of ʿAyn al-Quḍāt*, Albany, NY: State University of New York Press.
 
@@ -325,3 +308,20 @@
 [^zekavati-2001]: Zekavati Gharagozlou, Alireza, 2001, *ʿIrfāniyyāt: majmūʿa-yi maqālāt-i ʿirfānī*, Tehran: Ḥaqīqat.
 
 [^zargar-2017]: Zargar, Cyrus Ali, 2017, *The Polished Mirror: Storytelling and the Pursuit of Virtue in Islamic Philosophy and Sufism*, London: Oneworld.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-qudat)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=al-qudat&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/al-qudat/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+［请向作者提出建议。］
+
+## 相关词条
+
+法拉比 | 安萨里 | 法赫尔丁·拉齐 | 阿拉伯和伊斯兰宗教哲学 | 阿拉伯和伊斯兰哲学中的神秘主义 | 伊本·阿拉比 | 伊本·西那（阿维森纳） | 穆拉·萨德拉 | 柏拉图中期的形而上学和认识论 | 柏拉图的《巴门尼德篇》 | 普罗提诺 | 苏哈拉瓦迪 | 欧玛尔·海亚姆
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

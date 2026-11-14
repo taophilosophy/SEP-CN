@@ -383,26 +383,6 @@ Stanley 论证，这类案例的寓意在于：一般而言，P 是否成立的�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-analysis)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=knowledge-analysis&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/knowledge-analysis/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [知识论研究指南](http://www.ucs.louisiana.edu/~kak7409/EpistemologicalResearch.htm)。
-
-## 相关词条
-
-认识语境论 | 认知闭合 | 自然主义认识论 | 社会认识论 | 美德认识论 | 知识证成的融贯论 | 知识证成的基础主义理论 | 知识证成的内在主义与外在主义观念 | 怀疑论：怀疑论和内容外在主义
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-自 2026 年更新起，Jonathan Ichikawa 单独负责本词条的更新与维护。他特别感谢 Kurt Sylvan 提供实质性的建议与文献，感谢 Ashley Lindsley-Kim 的编辑帮助与研究协助。2012 年与 2017 年的版本由 Jonathan Ichikawa 与 Matthias Steup 合作完成。就 2012 年版而言，作者们感谢 Kurt Sylvan 对本词条多轮草稿提出的极为详尽而富有建设性的意见。也感谢一位匿名审稿人提出的其他有益建议。就 2017 年修订版而言，作者们感谢 Clayton Littlejohn、Jennifer Nagel 与 Scott Sturgeon 提供的有益而有建设性的反馈与建议。感谢 Ben Bayer、Kenneth Ehrenberg 与 Mark Young 提请我们注意上一版中的错误。
-
 ## 脚注
 
 [^note-1]: 关于这些区分的更多细节，见 Ichikawa and Jenkins 2017: 116。
@@ -718,3 +698,23 @@ Stanley 论证，这类案例的寓意在于：一般而言，P 是否成立的�
 [^wright-2004]: Wright, Crispin, 2004, “Warrant for Nothing (And Foundations for Free)?” *Aristotelian Society Supplementary Volume*, 78(1): 167–212. doi:10.1111/j.0309-7013.2004.00121.x
 
 [^zagzebski-1994]: Zagzebski, Linda, 1994, “The Inescapability of Gettier Problems”, *The Philosophical Quarterly*, 44(174): 65–73. doi:10.2307/2220147
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-analysis)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=knowledge-analysis&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/knowledge-analysis/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [知识论研究指南](http://www.ucs.louisiana.edu/~kak7409/EpistemologicalResearch.htm)。
+
+## 相关词条
+
+认识语境论 | 认知闭合 | 自然主义认识论 | 社会认识论 | 美德认识论 | 知识证成的融贯论 | 知识证成的基础主义理论 | 知识证成的内在主义与外在主义观念 | 怀疑论：怀疑论和内容外在主义
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+自 2026 年更新起，Jonathan Ichikawa 单独负责本词条的更新与维护。他特别感谢 Kurt Sylvan 提供实质性的建议与文献，感谢 Ashley Lindsley-Kim 的编辑帮助与研究协助。2012 年与 2017 年的版本由 Jonathan Ichikawa 与 Matthias Steup 合作完成。就 2012 年版而言，作者们感谢 Kurt Sylvan 对本词条多轮草稿提出的极为详尽而富有建设性的意见。也感谢一位匿名审稿人提出的其他有益建议。就 2017 年修订版而言，作者们感谢 Clayton Littlejohn、Jennifer Nagel 与 Scott Sturgeon 提供的有益而有建设性的反馈与建议。感谢 Ben Bayer、Kenneth Ehrenberg 与 Mark Young 提请我们注意上一版中的错误。

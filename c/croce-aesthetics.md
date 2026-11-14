@@ -170,25 +170,6 @@
 
 ### 第二手文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=croce-aesthetics)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=croce-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/croce-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [贝内德托·克罗齐档案](http://www.marxists.org/reference/archive/croce/)
-
-## 相关词条
-
-艺术的定义 | 罗宾·乔治·柯林武德的美学 | 杜威的美学 | 黑格尔的美学 | 唯心主义 | 直觉 | 隐私 | 詹巴蒂斯塔·维柯
-
-### 致谢
-
-感谢根特学院应用语言学系的玛蒂娜·勒热纳博士（Dr. Martine Lejeune）在文献方面的协助，并指出原词条中的若干错误。SEP 编辑部谨感谢菲利波·孔泰西（Filippo Contesi）告知本词条中的若干排版瑕疵。
-
 ## 脚注
 
 [^works-nd]: Works by Croce:
@@ -258,3 +239,22 @@
 [^tilghman-1970]: Tilghman B., 1970. *The Expression of Emotion in the Visual Arts: A Philosophical Inquiry*, The Hague: Martinus Nijhoff.
 
 [^vittorio-2012]: Vittorio M., 2012. ‘Reflections on the Croce–Dewey exchange’, *Modern Italy*, 17(1): 31–49. [[Vittorio 2012 available online](http://www.tandfonline.com/doi/pdf/10.1080/13532944.2012.633345)].
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=croce-aesthetics)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=croce-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/croce-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [贝内德托·克罗齐档案](http://www.marxists.org/reference/archive/croce/)
+
+## 相关词条
+
+艺术的定义 | 罗宾·乔治·柯林武德的美学 | 杜威的美学 | 黑格尔的美学 | 唯心主义 | 直觉 | 隐私 | 詹巴蒂斯塔·维柯
+
+### 致谢
+
+感谢根特学院应用语言学系的玛蒂娜·勒热纳博士（Dr. Martine Lejeune）在文献方面的协助，并指出原词条中的若干错误。SEP 编辑部谨感谢菲利波·孔泰西（Filippo Contesi）告知本词条中的若干排版瑕疵。

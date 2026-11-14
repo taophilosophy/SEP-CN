@@ -166,24 +166,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=behaviorism)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=behaviorism&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/behaviorism/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [国际行为分析学会](http://www.abainternational.org/)
-* [弗吉尼亚双子橡树共同体](http://www.twinoaks.org/)
-
-## 相关词条
-
-认知科学 | 联结主义 | 功能主义 | 先天和当代认知理论 | 感质 | 僵尸
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^ainslie-2001]: Ainslie, G., 2001. *Breakdown of Will*, Cambridge: Cambridge University Press.
 
 [^arnold-1990]: Arnold, N. S., 1990. *Marx’s Radical Critique of Capitalist Society*, Oxford: Oxford University Press.
@@ -347,3 +329,21 @@
 [^wittgenstein-1953]: Wittgenstein, L., 1953/1968. *Philosophical Investigations*, trans. G. E. M. Anscombe, Oxford: Basil Blackwell.
 
 [^zuriff-1985]: Zuriff, G., 1985. *Behaviorism: A Conceptual Reconstruction*, New York: Columbia University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=behaviorism)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=behaviorism&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/behaviorism/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [国际行为分析学会](http://www.abainternational.org/)
+* [弗吉尼亚双子橡树共同体](http://www.twinoaks.org/)
+
+## 相关词条
+
+认知科学 | 联结主义 | 功能主义 | 先天和当代认知理论 | 感质 | 僵尸
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

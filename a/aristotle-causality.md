@@ -123,27 +123,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aristotle-causality)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/aristotle-causality/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=aristotle-causality&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [形式与功能：亚里士多德的四因](http://www.historyofphilosophy.net/aristotle-four-causes)，播客节目：《哲学史——不留空白》（*The History of Philosophy ... without any gaps*），Peter Adamson 主讲。
-
-## 相关词条
-
-亚里士多德的逻辑学 | 亚里士多德的形而上学 | 亚里士多德的心理学 | 中世纪的因果理论 | 科学与技术（即科学知识与专门技能）
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-感谢 Christopher Shields、Greg Salmieri、István Bodnár 与 Mark Goodwin 对本词条草稿的评论。
-
 ## 脚注
 
 [^frede-1980]: Frede, M., 1980, “The Original Notion of Cause,” in J. Barnes, M. F. Burnyeat, M. Schofield (eds.), *Doubt and Dogmatism: Studies in Hellenistic Epistemology*, Oxford: Oxford University Press, 217–249; reprinted in M. Frede, *Essays in Ancient Philosophy*, Oxford: Oxford University Press, 1989, 125–150.
@@ -317,3 +296,24 @@
 [^turnbull-1958]: Turnbull, R. G., 1958, “Aristotle’s Debt to the ‘Natural Philosophy’ of the *Phaedo*,” *Philosophical Quarterly*, 8: 131–143.
 
 [^wardy-1993]: Wardy, R., 1993,“Aristotelian Rainfall or the Lore of Averages,” *Phronesis*, 38, 18–30.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aristotle-causality)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/aristotle-causality/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=aristotle-causality&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [形式与功能：亚里士多德的四因](http://www.historyofphilosophy.net/aristotle-four-causes)，播客节目：《哲学史——不留空白》（*The History of Philosophy ... without any gaps*），Peter Adamson 主讲。
+
+## 相关词条
+
+亚里士多德的逻辑学 | 亚里士多德的形而上学 | 亚里士多德的心理学 | 中世纪的因果理论 | 科学与技术（即科学知识与专门技能）
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+感谢 Christopher Shields、Greg Salmieri、István Bodnár 与 Mark Goodwin 对本词条草稿的评论。

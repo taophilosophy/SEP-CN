@@ -48,21 +48,6 @@
 
 ### 二手文献（Secondary Sources）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cockburn)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cockburn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=cockburn&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/cockburn/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
-
-## 相关词条
-
-塞缪尔·克拉克 | 约翰·洛克 | 18 世纪苏格兰哲学
-
 [^works-1751]: *The Works of Mrs. Catharine Cockburn, Theological, Moral, Dramatic, and Poetical In Two Volumes. (1751)*, 1992, Thomas Birch (ed.); reprinted, London: Routledge/Thoemmes.
 
 [^catharine-2006]: *Catharine Trotter Cockburn: Philosophical Writings*, 2006, Patricia Sheridan (ed.), Peterborough, ON: Broadview Press.
@@ -132,3 +117,18 @@
 [^waithe-1991]: Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in *Modern Women Philosophers, 1600–1900*, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
 
 [^walmsley-2016]: Walmsley, J.C., H. Craig, and J. Burrows, 2016, “The authorship of the *Remarks upon an Essay Concerning Human Understanding*,” *Eighteenth-Century Thought*, 6: 205–243.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cockburn)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cockburn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cockburn&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/cockburn/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
+
+## 相关词条
+
+塞缪尔·克拉克 | 约翰·洛克 | 18 世纪苏格兰哲学

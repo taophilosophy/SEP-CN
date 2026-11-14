@@ -224,28 +224,6 @@ Lynch 从这类思想实验得出的一个结论是：理解拥有单纯知识�
 ### Works Cited
 ### Other Important Works
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-value)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=knowledge-value&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/knowledge-value/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Brogaard, Berit, 2005, “[I Know. Therefore, I Understand](https://philpapers.org/rec/BROIKT)”，手稿，可得于 philpapers.org。
-* [认知价值](http://epistemicvaluestirling.blogspot.com/)，一个致力于认知价值话题的博客。
-* [认知价值](https://www.iep.utm.edu/ep-value/)，Patrick Bondy 撰，《互联网哲学百科全书》词条（2015）。
-
-## 相关词条
-
-美德认识论 | 关于心灵的外在主义 | 知识证成的融贯论 | 知识的分析 | 关于如何做某事的知识 | 柏拉图 | 可靠主义认识论
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-感谢 Earl Conee、Alan Millar 以及《斯坦福哲学百科全书》的几位审稿人对本词条早期版本提出有益的意见。
-
 [^abath-2025]: Abath, André J., 2025, “What’s Going On? Disinformation, Understanding, and Ignorance”, *Episteme*, first online 19 June 2025. doi:10.1017/epi.2025.10048
 
 [^adams-2008]: Adams, Frederick and Kenneth Aizawa, 2008, *The Bounds of Cognition*, Malden, MA: Blackwell.
@@ -685,3 +663,25 @@ Lynch 从这类思想实验得出的一个结论是：理解拥有单纯知识�
 [^zagzebski-2003b]: –––, 2003b, “Intellectual Motivation and the Good of Truth”, in DePaul & Zagzebski 2003: 135–154.
 
 [^zagzebski-2004]: –––, 2004, “Epistemic Value Monism”, in Greco 2004: 190–198.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-value)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=knowledge-value&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/knowledge-value/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Brogaard, Berit, 2005, “[I Know. Therefore, I Understand](https://philpapers.org/rec/BROIKT)”，手稿，可得于 philpapers.org。
+* [认知价值](http://epistemicvaluestirling.blogspot.com/)，一个致力于认知价值话题的博客。
+* [认知价值](https://www.iep.utm.edu/ep-value/)，Patrick Bondy 撰，《互联网哲学百科全书》词条（2015）。
+
+## 相关词条
+
+美德认识论 | 关于心灵的外在主义 | 知识证成的融贯论 | 知识的分析 | 关于如何做某事的知识 | 柏拉图 | 可靠主义认识论
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+感谢 Earl Conee、Alan Millar 以及《斯坦福哲学百科全书》的几位审稿人对本词条早期版本提出有益的意见。

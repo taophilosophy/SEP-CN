@@ -151,21 +151,6 @@
 
 ### Secondary sources
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=concept-emotion-india)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=concept-emotion-india&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/concept-emotion-india/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [Göttingen Register of Electronic Texts in Indian Languages (GRETIL)](http://gretil.sub.uni-goettingen.de/gretil.html)
-
-## 相关词条
-
-早期中国哲学中的情 | 法称 | 早期现代印度的分析哲学 | 情感 | 情感：17 世纪和 18 世纪的情感理论 | 情感：中世纪情感理论 | 爱 | 印度佛教哲学中的心灵 | 快乐 | 寂护
-
 [^ahn-2003]: Ahn, S., 2003, *Die Lehre von den Kleśas in der Yogācārabhūmi*, Alt- und Neu-Indische Studien, herausgegeben von der Abteilung für Kultur und Geschichte Indiens und Tibets des Asien-Afrika-Institutes an der Universität Hamburg, Band 55, Stuttgart: Franz Steiner Verlag.
 
 [^bilimoria-2015a]: Bilimoria, P. and A. Wenta (eds.), 2015a, *Emotions in Indian Thought-Systems*, New Delhi: Routledge.
@@ -215,3 +200,18 @@
 [^tripathi-2015]: Tripathi, V. K., 2015, “The Buddhist Psychology of Emotions”, in Bilmoria and Wenta (eds.) 2015a, pp. 185–198.
 
 [^wright-2021]: Wright, S., 2021, *A Time of Novelty: Logic, Emotion and Intellectual Life in Early Modern India, 1500–1700 C.E.*, New York: Oxford University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=concept-emotion-india)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=concept-emotion-india&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/concept-emotion-india/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [Göttingen Register of Electronic Texts in Indian Languages (GRETIL)](http://gretil.sub.uni-goettingen.de/gretil.html)
+
+## 相关词条
+
+早期中国哲学中的情 | 法称 | 早期现代印度的分析哲学 | 情感 | 情感：17 世纪和 18 世纪的情感理论 | 情感：中世纪情感理论 | 爱 | 印度佛教哲学中的心灵 | 快乐 | 寂护

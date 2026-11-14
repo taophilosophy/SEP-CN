@@ -95,22 +95,6 @@ Marwan Rashed（2009）通过严肃地质疑法拉比《两位圣贤观点之调
 
 ### 二手文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-farabi)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/al-farabi/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=al-farabi&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/al-farabi/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [muslimphilosophy.com 上的法拉比专页](https://www.muslimphilosophy.com/farabi/)。该页收录若干法拉比完整文本链接，部分为阿拉伯语、部分为英译。
-* [thegreatthinkers.org 上的法拉比专页](https://thegreatthinkers.org/al-farabi/)。
-
-## 相关词条
-
-法拉比：形而上学 | 法拉比：逻辑与语言哲学 | 法拉比：社会与宗教哲学 | 法拉比：心理学与知识论 | 阿拉伯与伊斯兰哲学诸学科：形而上学 | 音乐哲学
-
 [^al-mawrid-1975]: *Al-Mawrid* (Special Issue on Al-Farabi), 4(3), 1975.
 
 [^chavooshi-1976]: Chavooshi, Jafar Aghayani, *Al-Fārābī: An Annotated Bibliography*, Tehran, 1976.
@@ -318,3 +302,19 @@ Marwan Rashed（2009）通过严肃地质疑法拉比《两位圣贤观点之调
 [^woerther-2018]: Woerther, Frederique, 2018, “Al-Farabi commentateur d’Aristote dans les Didascalia in Rethoricam Aristotelis ex glosa Alpharabii,” in *Commenting on Aristotle’s Rhetoric from Antiquity to the Present*, F. Woerther (ed.), Leiden: Brill, pp. 41–63.
 
 [^zonta-2006]: Zonta, Mauro, 2006, “Al-Fārābī’s *Long Commentary* on Aristotle’s *Categories* in Hebrew and Arabic. A Critical Edition and English Translation of the Newly-found Fragments”, in *Studies in Arabic and Islamic Culture, II*, B. Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press , pp. 185–254.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-farabi)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/al-farabi/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=al-farabi&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/al-farabi/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [muslimphilosophy.com 上的法拉比专页](https://www.muslimphilosophy.com/farabi/)。该页收录若干法拉比完整文本链接，部分为阿拉伯语、部分为英译。
+* [thegreatthinkers.org 上的法拉比专页](https://thegreatthinkers.org/al-farabi/)。
+
+## 相关词条
+
+法拉比：形而上学 | 法拉比：逻辑与语言哲学 | 法拉比：社会与宗教哲学 | 法拉比：心理学与知识论 | 阿拉伯与伊斯兰哲学诸学科：形而上学 | 音乐哲学

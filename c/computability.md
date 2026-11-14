@@ -268,22 +268,6 @@ NP 类在实践与哲学上都极为重要。它是这样一类问题 $S$：任�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computability)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/computability/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/computability/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=computability&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/computability/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [描述复杂性（Descriptive Complexity）](http://people.cs.umass.edu/~immerman/descriptive_complexity.html)：介绍描述复杂性研究的网页；描述复杂性即从逻辑观点看的计算复杂性（附“可计算性与复杂性的世界”示意图）。由麻省大学阿默斯特分校的 Neil Immerman 维护。
-* [宇宙的质量、大小与密度（Mass, Size, and Density of the Universe）](http://www.cs.umass.edu/~immerman/stanford/universe.html)，来自国家太阳天文台／萨克拉门托峰。
-
-## 相关词条
-
-阿隆佐·邱奇 | 邱奇-图灵论题 | 计算复杂性理论 | 库尔特·哥德尔 | 量子计算 | 递归函数 | 集合论 | 艾伦·图灵 | 图灵机
-
 [^allender-2009]: Allender, E., M. Bauland, N. Immerman, H. Schnoor and H. Vollmer, 2009, “The Complexity of Satisfiability Problems: Refining Schaefer’s Theorem”, *Journal of Computer and System Science* 75(4): 245–254.
 
 [^arora-2009]: Arora, Sanjeev and Boaz Barak, 2009, *Computational Complexity: A Modern Approach*, New York: Cambridge University Press.
@@ -373,3 +357,19 @@ NP 类在实践与哲学上都极为重要。它是这样一类问题 $S$：任�
 [^whitehead-1910]: Whitehead, Alfred North and Bertrand Russell, 1910–1913, *Principia Mathematica*, first edition, Cambridge: Cambridge University Press.
 
 [^zhuk-2020]: Zhuk, Dmitriy, 2020, “A Proof of CSP Dichotomy Conjecture”,*Journal of the ASM*, 30: 1–78.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computability)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/computability/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/computability/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=computability&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/computability/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [描述复杂性（Descriptive Complexity）](http://people.cs.umass.edu/~immerman/descriptive_complexity.html)：介绍描述复杂性研究的网页；描述复杂性即从逻辑观点看的计算复杂性（附“可计算性与复杂性的世界”示意图）。由麻省大学阿默斯特分校的 Neil Immerman 维护。
+* [宇宙的质量、大小与密度（Mass, Size, and Density of the Universe）](http://www.cs.umass.edu/~immerman/stanford/universe.html)，来自国家太阳天文台／萨克拉门托峰。
+
+## 相关词条
+
+阿隆佐·邱奇 | 邱奇-图灵论题 | 计算复杂性理论 | 库尔特·哥德尔 | 量子计算 | 递归函数 | 集合论 | 艾伦·图灵 | 图灵机

@@ -180,24 +180,6 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 >
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](http://philpapers.org/sep/chinese-phil-medicine/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [道教与道教研究（Daoism and Daoist Studies）](http://www.daoiststudies.org/)，James Miller，杜克大学。
-* [金丹（Golden Elixirs）](http://www.goldenelixir.com/)（中国炼丹术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
-* [研究指南：中国科学与医学（Guides to Research: Chinese Science and Medicine）](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学史与社会学系。
-* [李约瑟研究所（Needham Research Institute）](http://www.nri.org.uk/)，东亚科学技术与医学史研究中心。
-
-## 相关词条
-
-中国哲学与科学 | 道家/道教
-
 [^baopuzi-1996]: Wang Ming 王明（编）, 1996, 《抱朴子内篇校释》（*Baopuzi neipian jiao shi*）, 北京：中华书局。
 
 [^campany-2002]: Campany, R., 2002, *To Live as Long as Heaven and Earth: A Translation and Study of Ge Hong’s Traditions of Divine Transcendents*, Berkeley and Los Angeles: University of California Press.
@@ -351,3 +333,21 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 [^zhou-1994]: Zhou Yimou 周一谋（编）, 1994, 《马王堆医学文化》（*Mawangdui yi xue wenhua*）, 上海：文汇出版社。
 
 [^zhuangzi-1961]: Guo Qingfan 郭庆藩（编）, 1961, 《庄子集释》（*Zhuangzi ji shi*）, 北京：中华书局。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](http://philpapers.org/sep/chinese-phil-medicine/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [道教与道教研究（Daoism and Daoist Studies）](http://www.daoiststudies.org/)，James Miller，杜克大学。
+* [金丹（Golden Elixirs）](http://www.goldenelixir.com/)（中国炼丹术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
+* [研究指南：中国科学与医学（Guides to Research: Chinese Science and Medicine）](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学史与社会学系。
+* [李约瑟研究所（Needham Research Institute）](http://www.nri.org.uk/)，东亚科学技术与医学史研究中心。
+
+## 相关词条
+
+中国哲学与科学 | 道家/道教

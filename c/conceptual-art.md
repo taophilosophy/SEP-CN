@@ -160,24 +160,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conceptual-art)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conceptual-art/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/conceptual-art/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=conceptual-art&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/conceptual-art/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
-* [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
-* [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
-* [泰特在线（Tate Online）](https://www.tate.org.uk/)
-
-## 相关词条
-
-美学的概念 | 审美体验 | 审美判断 | 艺术的定义 | 比厄斯利的美学 | 康德的美学与目的论 | 维特根斯坦的美学
-
 ## 脚注
 
 [^note-1]: 然而，这一术语似乎早在 1961 年就在纽约被艺术家亨利·弗林特用于指称激浪派的一些作品与表演（Wood, 2002: 8）。
@@ -307,3 +289,21 @@
 [^wollheim-1980]: Wollheim, Richard, 1980. *Art and Its Objects*, Cambridge: Cambridge University Press.
 
 [^wood-2002]: Wood, Paul, 2002. *Conceptual Art*, London: Tate Publishing. Series: Movements in Modern Art.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conceptual-art)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conceptual-art/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/conceptual-art/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=conceptual-art&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/conceptual-art/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
+* [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
+* [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
+* [泰特在线（Tate Online）](https://www.tate.org.uk/)
+
+## 相关词条
+
+美学的概念 | 审美体验 | 审美判断 | 艺术的定义 | 比厄斯利的美学 | 康德的美学与目的论 | 维特根斯坦的美学

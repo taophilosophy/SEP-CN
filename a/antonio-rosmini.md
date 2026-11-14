@@ -211,6 +211,10 @@
 - Davidson, Thomas, 1882, *The Philosophical System of Antonio Rosmini Serbati*, London.
 - Pozzo, Riccardo, 1999, *The Philosophical Works of Antonio Rosmini in Translation* in *American Catholic Philosophical Quarterly*, LXXIII no. 4.
 
+[^references-nd]: References in this article to Rosmini’s works use the following abbreviations:
+
+[^other-nd]: Other abbreviations:
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=antonio-rosmini)。
@@ -229,7 +233,3 @@
 ### 致谢
 
 本词条由 SEP 编辑于 2015 年更新。
-
-[^references-nd]: References in this article to Rosmini’s works use the following abbreviations:
-
-[^other-nd]: Other abbreviations:

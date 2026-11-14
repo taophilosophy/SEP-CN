@@ -112,21 +112,6 @@ $$ [\![ `\text{four}{\text{’}} ]\!] \subset [\![ `\text{three}{\text{’}} ]\!
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=implicature-optimality-games)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=implicature-optimality-games&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/implicature-optimality-games/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [概率语言理解：理性言语行为框架导论](http://www.problang.org/)，由格雷戈里·斯孔特拉斯（Gregory Scontras）、迈克尔·亨利·泰斯勒（Michael Henry Tessler）与迈克尔·弗兰克（Michael Franke）所著的互动式网络读本，介绍概率语用推理模型。
-
-## 相关词条
-
-语义和语用中的默认 | 博弈论 | 保罗·格莱斯 | 含义 | 逻辑与游戏 | 语用学
-
 ## Notes（原文脚注）
 
 ## Notes to Optimality-Theoretic and Game-Theoretic Approaches to Implicature
@@ -266,3 +251,18 @@ $$ [\![ `\text{four}{\text{’}} ]\!] \subset [\![ `\text{three}{\text{’}} ]\!
 [^yoon-2020]: Yoon, E., M. Tessler, N. Goodman and M. Frank, 2020, ‘Polite Speech Emerges From Competing Social Goals’, *Open Mind*, 4: 71–87.
 
 [^vogel-2014]: Vogel, A., M.C. Frank, D. Jurafsky, and C. Potts, 2014, ‘Learning to Reason Pragmatically with Cognitive Limitations’, *Proceedings of the 36th Annual Meeting of the Cognitive Science Society*, Paul Bello, Marcello Guarini, Marjorie McShane, and Brian Scassellati (eds.), Cognitive Science Society and Curran Associates, Inc., 3055–3060.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=implicature-optimality-games)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=implicature-optimality-games&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/implicature-optimality-games/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [概率语言理解：理性言语行为框架导论](http://www.problang.org/)，由格雷戈里·斯孔特拉斯（Gregory Scontras）、迈克尔·亨利·泰斯勒（Michael Henry Tessler）与迈克尔·弗兰克（Michael Franke）所著的互动式网络读本，介绍概率语用推理模型。
+
+## 相关词条
+
+语义和语用中的默认 | 博弈论 | 保罗·格莱斯 | 含义 | 逻辑与游戏 | 语用学

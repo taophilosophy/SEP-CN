@@ -86,21 +86,6 @@
 
 
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bauer/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=bauer&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/bauer/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [美国黑格尔学会](http://www.hegel.org/)
-
-## 相关词条
-
-路德维希·安德列斯·费尔巴哈 | 格奥尔格·威廉·弗里德里希·黑格尔 | 唯心主义 | 伊曼努尔·康德 | 康德的社会与政治哲学 | 卡尔·马克思 | 麦克斯·施蒂纳
-
 [^de-1996]: *De pulchri principiis*. Prussian royal prize manuscript, first published as *Prinzipien des Schönen. De pulchri principiis. Eine Preisschrift*, hrsg. Douglas Moggach und Winfried Schultze, mit einem Vorwort von Volker Gerhardt, Berlin: Akademie Verlag, 1996. Italian-Latin edition: Douglas Moggach and Gabriele Schimmenti, eds., *Sui principi del bello*, Palermo University Press, Palermo, 2019
 
 [^rezension-1835]: “Rezension: *Das Leben Jesu, kritisch bearbeitet* von David Friedrich Strauss,” *Jahrbücher für wissenschaftliche Kritik*, Dec. 1835, no. 109, 879–880; no. 111, 891; no. 113, 905–912. May 1836, no. 86, 681–688; no. 88, 697–704.
@@ -312,3 +297,18 @@
 [^waser-1994]: Waser, Ruedi, 1994, *Autonomie des Selbstbewußtseins. Eine Untersuchung zum Verhältnis von Bruno Bauer und Karl Marx (1835–1843)*, Tübingen: Francke Verlag.
 
 [^zanardo-1966]: Zanardo, Aldo, 1966, “Bruno Bauer hegeliano e giovane hegeliano,” *Rivista critica di storia della filosofia*, 189–210, 293–327.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bauer/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=bauer&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/bauer/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [美国黑格尔学会](http://www.hegel.org/)
+
+## 相关词条
+
+路德维希·安德列斯·费尔巴哈 | 格奥尔格·威廉·弗里德里希·黑格尔 | 唯心主义 | 伊曼努尔·康德 | 康德的社会与政治哲学 | 卡尔·马克思 | 麦克斯·施蒂纳

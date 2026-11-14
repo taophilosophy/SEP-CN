@@ -104,23 +104,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=albo-joseph)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/albo-joseph/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=albo-joseph&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [约瑟夫·阿尔博](http://www.jewishencyclopedia.com/view.jsp?artid=1084&letter=A)，考夫曼·科勒（Kaufmann Kohler）与埃米尔·赫希（Emil Hirsch）撰，见 JewishEncyclopedia.com。
-
-## 相关词条
-
-托马斯·阿奎那 | 哈斯代·克雷斯卡斯 | 恶的问题 | 犹大·哈列维 | 伊本·鲁世德［阿威罗伊］ | 迈蒙尼德 | 摩西·门德尔松 | 自然法理论 | 预言 | 神意 | 巴鲁赫·斯宾诺莎 | 时间
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^albo-1929]: Albo, Joseph, 1929, *Sefer ha-‘Ikkarim* [Book of Principles], I. Husik (trans. and ed.), Philadelphia: The Jewish Publication Society of America.
 
 [^ackerman-2013]: Ackerman, A., 2013, “Zerahia Halevi Saladin and Joseph Albo on Natural, Conventional and Divine Law”, *Jewish Studies Quarterly*, 20: 315–339.
@@ -244,3 +227,20 @@
 [^weiss-2024]: –––, 2024, “Averroes’ Influence upon Theological Responses to Skepticism in Late Medieval Jewish Philosophy,” *Averroes and Averroism in Medieval Jewish Thought*, R. Haliva, Y. Meyrav, & D. Davies (eds.), Boston: Brill, pp. 219–231.
 
 [^wolfson-1916]: Wolfson, H. A., 1916–17, “Crescas on the Problem of Divine Attributes”, *Jewish Quarterly Review*, 7: 1–44, 175–221.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=albo-joseph)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/albo-joseph/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=albo-joseph&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [约瑟夫·阿尔博](http://www.jewishencyclopedia.com/view.jsp?artid=1084&letter=A)，考夫曼·科勒（Kaufmann Kohler）与埃米尔·赫希（Emil Hirsch）撰，见 JewishEncyclopedia.com。
+
+## 相关词条
+
+托马斯·阿奎那 | 哈斯代·克雷斯卡斯 | 恶的问题 | 犹大·哈列维 | 伊本·鲁世德［阿威罗伊］ | 迈蒙尼德 | 摩西·门德尔松 | 自然法理论 | 预言 | 神意 | 巴鲁赫·斯宾诺莎 | 时间
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

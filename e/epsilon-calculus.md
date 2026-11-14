@@ -201,23 +201,6 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/epsilon-calculus/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
-
-如有补充建议，请与作者联系。
-
-## 相关词条
-
-回指 | 有限主义 | 大卫·希尔伯特 | 大卫·希尔伯特：数学基础纲领 | 经典逻辑 | 数学哲学 | 证明论 | 量词与量化 | 科学中的理论词项
-
 [^aguilera-2019]: Aguilera, J.P., and M. Baaz, 2019, ‘Unsound inferences make proofs shorter’. *Journal of Symbolic Logic*, 84: 102–122.
 
 [^ackermann-1924]: Ackermann, W., 1924, ‘Begründung des ’’tertium non datur’’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit’, *Mathematische Annalen*, 93: 1–36.
@@ -395,3 +378,20 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 [^zach-2004]: –––, 2004, ‘Hilbert’s “*Verunglückter Beweis*”, the first epsilon theorem, and consistency proofs’. *History and Philosophy of Logic*, 25: 79–94.
 
 [^zach-2017]: –––, 2017, ‘Semantics and proof theory of the epsilon calculus’, in: Ghosh, S., Prasad, S. (Eds.), *Logic and Its Applications. ICLA 2017*, LNCS. Springer, Berlin, Heidelberg, pp. 27–47.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/epsilon-calculus/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
+
+如有补充建议，请与作者联系。
+
+## 相关词条
+
+回指 | 有限主义 | 大卫·希尔伯特 | 大卫·希尔伯特：数学基础纲领 | 经典逻辑 | 数学哲学 | 证明论 | 量词与量化 | 科学中的理论词项

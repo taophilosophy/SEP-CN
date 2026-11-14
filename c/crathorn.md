@@ -66,21 +66,6 @@
 
 ### 二手文献（Secondary Literature）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=crathorn)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/crathorn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=crathorn&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/crathorn/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[请与作者联系以提出建议。]
-
-## 相关词条
-
-亚里士多德 | 古代原子论 | 罗吉尔·培根 | 让·布里丹 | 沃尔特·查顿 | 罗伯特·霍尔科特 | 奥卡姆的威廉
-
 [^quaestiones-1988]: *Quaestiones super librum sententiarum*, ed. F. Hoffmann in *Quästionen Zum ersten Sentenzenbuch*, Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, Band 29, Aschendorff: Münster, 1988.
 
 [^sent-2003]: I *Sent*., q. 1, tr. R. Pasnau in Pasnau (ed.), *The Cambridge Translations of Medieval Philosophical Texts*, Vol. III: Mind and Knowledge, Cambridge: Cambridge University Press, 2003.
@@ -140,3 +125,18 @@
 [^wood-1988]: Wood, R., 1988, *Adam Wodeham, Tractatus de indivisibilibus. Introduction, translation, and notes* (Synthese Historical Library), Dordrecht: Kluwer, 1988.
 
 [^wood-1989]: –––, 1989, “Crathorn versus Ockham,” *Franciscan Studies*, 49: 347–353.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=crathorn)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/crathorn/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=crathorn&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/crathorn/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[请与作者联系以提出建议。]
+
+## 相关词条
+
+亚里士多德 | 古代原子论 | 罗吉尔·培根 | 让·布里丹 | 沃尔特·查顿 | 罗伯特·霍尔科特 | 奥卡姆的威廉

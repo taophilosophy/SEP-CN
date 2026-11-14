@@ -196,27 +196,6 @@ deontology 一词源自希腊语的“义务”（*deon*）与“……之学（
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-deontological)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=ethics-deontological&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/ethics-deontological/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-［请向作者提出建议。］
-
-## 相关词条
-
-规则后果主义 | 造成伤害与允许伤害 | 双重效应原则 | 德性伦理学 | 康德的道德哲学 | 摩尔的伦理学 | 道德困境
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-作者感谢 Robert James Vanderbeek 在本版词条的准备过程中所做的研究。
-
 [^aboodi-2008]: Aboodi, R., A. Borer, and D. Enoch, 2008, “Deontology, Individualism, and Uncertainty: A Reply to Jackson and Smith,” *Journal of Philosophy*, 105: 259–272.
 
 [^alexander-1985]: Alexander, L., 1985, “Pursuing the Good—Indirectly,” *Ethics*, 95(2): 315–332.
@@ -474,3 +453,24 @@ deontology 一词源自希腊语的“义务”（*deon*）与“……之学（
 [^zach-2023]: Zach, N., 2023, *Ethics for Disasters*, London: Rowman and Littlefield.
 
 [^zimmerman-2002]: Zimmerman, M., 2002, “Taking Moral Luck Seriously,” *Journal of Philosophy*, 99(11): 553–576.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-deontological)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=ethics-deontological&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/ethics-deontological/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+［请向作者提出建议。］
+
+## 相关词条
+
+规则后果主义 | 造成伤害与允许伤害 | 双重效应原则 | 德性伦理学 | 康德的道德哲学 | 摩尔的伦理学 | 道德困境
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+作者感谢 Robert James Vanderbeek 在本版词条的准备过程中所做的研究。

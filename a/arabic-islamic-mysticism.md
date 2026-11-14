@@ -156,23 +156,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [伊斯兰哲学在线](http://www.muslimphilosophy.com/)，《伊斯兰哲学杂志》的主办网站。
-
-## 相关词条
-
-法拉比 | 安萨里 | 伊本·阿拉比 | 伊本·西那（阿维森纳） | 精诚兄弟社 | 穆拉·萨德拉 | 神秘主义 | 苏哈拉瓦迪
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^ashtiyānī-1973]: Ashtiyānī, Mehdi, 1973. *Commentary on Sabzawārī’s “Sharḥ-i manẓumah”*, A. Falaturi and M. Mohaghegh (eds.), Tehran.
 
 [^sabzavārī-1969]: Sabzavārī, M. H., 1969. *Sharḥ-i manẓumah*, Toshihiko Izutsu and Mehdi Mohaghegh (eds.), Tehran: Tehran University Press.
@@ -234,3 +217,20 @@
 [^nasr-1996-2]: Nasr, S.H. and Leaman, O., 1996. *History of Islamic Philosophy*, London and New York: Routledge.
 
 [^schimmel-1975]: Schimmel, A., 1975. *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [伊斯兰哲学在线](http://www.muslimphilosophy.com/)，《伊斯兰哲学杂志》的主办网站。
+
+## 相关词条
+
+法拉比 | 安萨里 | 伊本·阿拉比 | 伊本·西那（阿维森纳） | 精诚兄弟社 | 穆拉·萨德拉 | 神秘主义 | 苏哈拉瓦迪
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

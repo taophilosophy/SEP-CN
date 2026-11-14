@@ -55,6 +55,20 @@
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
+[^darwin-1859]: Darwin, Charles R., 1859, *The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*, first edition, London: John Murray. [[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)]
+
+[^darwin-1874]: –––, 1874, *The Descent of Man, and Selection in Relation to Sex*, second edition, London: John Murray. [[Darwin 1874 available online](http://darwin-online.org.uk/content/frameset?pageseq=1&itemID=F944&viewtype=side)]
+
+[^dobzhansky-1973]: Dobzhansky, Theodosius, 1973, “Nothing in Biology Makes Sense Except in the Light of Evolution”, *American Biology Teacher*, 35(3): 125–129. doi:10.2307/4444260
+
+[^endler-1986]: Endler, John, 1986, *Natural Selection in the Wild*, Princeton, NJ: Princeton University Press.
+
+[^futuyma-2005]: Futuyma, Douglas J., 2005, *Evolution*, Sunderland, MA: Sinauer Associates.
+
+[^hull-1970]: Hull, David L., 1970, “Contemporary Systematic Philosophies”, *Annual Review of Ecology and Systematics*, 1(1): 19–54. doi:10.1146/annurev.es.01.110170.000315
+
+[^van-1973]: Van Valen, Leigh, 1973, “Book Review: Festschrift for George Gaylord Simpson” *Science*, 180(4085): 488. doi:10.1126/science.180.4085.486
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=evolution)。
@@ -80,17 +94,3 @@
 ## 致谢
 
 感谢 Melinda Bonnie Fagan 与 Jim Tabery 提出有益意见。
-
-[^darwin-1859]: Darwin, Charles R., 1859, *The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*, first edition, London: John Murray. [[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)]
-
-[^darwin-1874]: –––, 1874, *The Descent of Man, and Selection in Relation to Sex*, second edition, London: John Murray. [[Darwin 1874 available online](http://darwin-online.org.uk/content/frameset?pageseq=1&itemID=F944&viewtype=side)]
-
-[^dobzhansky-1973]: Dobzhansky, Theodosius, 1973, “Nothing in Biology Makes Sense Except in the Light of Evolution”, *American Biology Teacher*, 35(3): 125–129. doi:10.2307/4444260
-
-[^endler-1986]: Endler, John, 1986, *Natural Selection in the Wild*, Princeton, NJ: Princeton University Press.
-
-[^futuyma-2005]: Futuyma, Douglas J., 2005, *Evolution*, Sunderland, MA: Sinauer Associates.
-
-[^hull-1970]: Hull, David L., 1970, “Contemporary Systematic Philosophies”, *Annual Review of Ecology and Systematics*, 1(1): 19–54. doi:10.1146/annurev.es.01.110170.000315
-
-[^van-1973]: Van Valen, Leigh, 1973, “Book Review: Festschrift for George Gaylord Simpson” *Science*, 180(4085): 488. doi:10.1126/science.180.4085.486

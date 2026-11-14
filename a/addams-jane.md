@@ -208,28 +208,6 @@ Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 1
 
 ### 传记（Biographies）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=addams-jane)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/addams-jane/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=addams-jane&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [简·亚当斯赫尔馆博物馆](http://www.uic.edu/jaddams/hull/hull_house.html)
-* [简·亚当斯诺贝尔和平奖页面](http://www.nobelprize.org/nobel_prizes/peace/laureates/1931/addams-bio.html)
-* [简·亚当斯文献项目](http://janeaddams.ramapo.edu/)
-* [美国哲学促进会](http://www.american-philosophy.org)
-* [斯沃斯莫尔学院和平文献馆](http://www.swarthmore.edu/library/peace/)
-* [城市经验：赫尔馆照片集 1900–1950，伊利诺伊大学芝加哥分校](https://explore.chicagocollections.org/ead/uic/25/nk66/)
-* [赫尔馆口述史文献，伊利诺伊大学芝加哥分校](https://archivesspace.uic.edu/repositories/2/resources/1237)
-* [国际妇女和平与自由联盟](http://www.wilpf.org/)
-
-## 相关词条
-
-约翰·杜威 | 杜威的政治哲学 | 实用主义女性主义 | 女性主义伦理学 | 女性主义哲学史 | 女性主义社会认识论 | 女性主义对阶级和工作的观点 | 威廉·詹姆斯 | 乔治·赫伯特·米德 | 查尔斯·桑德斯·皮尔士 | 乔赛亚·罗伊斯
-
 ## 脚注
 
 [^note-1]: 伊利诺伊大学出版社近年重印的亚当斯著作包括：《民主与社会伦理》（2002）、《女性记忆的长路》（2002）、《新的良心与古老的罪恶》（2002）、《我的朋友朱莉娅·拉斯罗普》（2004）、《和平的新理想》（2007）、《战时的和平与面包》（2002），以及与 Emily G. Balch 和 Alice Hamilton 合著的《海牙的妇女：国际妇女大会及其成果》（2003）。
@@ -369,3 +347,25 @@ Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 1
 [^knight-2010]: –––. 2010. *Jane Addams: Spirit in Action for Democracy*, New York: W.W. Norton.
 
 [^linn-2000]: Linn, James Weber, 2000. *Jane Addams: A Biography*, Urbana, IL: University of Illinois Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=addams-jane)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/addams-jane/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=addams-jane&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [简·亚当斯赫尔馆博物馆](http://www.uic.edu/jaddams/hull/hull_house.html)
+* [简·亚当斯诺贝尔和平奖页面](http://www.nobelprize.org/nobel_prizes/peace/laureates/1931/addams-bio.html)
+* [简·亚当斯文献项目](http://janeaddams.ramapo.edu/)
+* [美国哲学促进会](http://www.american-philosophy.org)
+* [斯沃斯莫尔学院和平文献馆](http://www.swarthmore.edu/library/peace/)
+* [城市经验：赫尔馆照片集 1900–1950，伊利诺伊大学芝加哥分校](https://explore.chicagocollections.org/ead/uic/25/nk66/)
+* [赫尔馆口述史文献，伊利诺伊大学芝加哥分校](https://archivesspace.uic.edu/repositories/2/resources/1237)
+* [国际妇女和平与自由联盟](http://www.wilpf.org/)
+
+## 相关词条
+
+约翰·杜威 | 杜威的政治哲学 | 实用主义女性主义 | 女性主义伦理学 | 女性主义哲学史 | 女性主义社会认识论 | 女性主义对阶级和工作的观点 | 威廉·詹姆斯 | 乔治·赫伯特·米德 | 查尔斯·桑德斯·皮尔士 | 乔赛亚·罗伊斯

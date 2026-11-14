@@ -184,26 +184,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；CWE（Collected Works of Erasmus 多伦多英译本）、ASD（阿姆斯特丹 Opera Omnia 批判版）、LB（莱顿 1703–1706 版）、Ep.（Allen 书信编号）等缩写词表亦见脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=erasmus&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/erasmus/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Nauert, Charles, “Desiderius Erasmus”，*The Stanford Encyclopedia of Philosophy*（2017 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/)>。［这是《斯坦福哲学百科全书》此前关于伊拉斯谟的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。］
-* “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”，Eric MacPhail 撰，*Internet Encyclopedia of Philosophy* 词条。
-* [伊拉斯谟近代早期研究中心](https://www.erasmus.org/)，鹿特丹伊拉斯谟大学与鹿特丹市立图书馆联合创办。
-* [鹿特丹伊拉斯谟学会](https://erasmussociety.org)，附惠更斯研究所及其《箴言集》数字化版本的链接。
-
-## 相关词条
-
-托马斯·阿奎那 | 亚里士多德 | 亚里士多德的修辞学 | 希波的奥古斯丁 | 西塞罗 | 古代伦理学思想 | 马尔西利奥·费奇诺 | 自由意志 | 人文主义：文艺复兴中的 | 和平主义 | 乔瓦尼·皮科·德拉·米兰多拉 | 柏拉图 | 普罗提诺 | 普鲁塔克 | 塞涅卡 | 怀疑论 | 古代怀疑论 | 苏格拉底 | 劳伦佐·瓦拉
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^for-1897]: For a repertory of individual works and their early editions, see Ferdinand Van der Haeghen, *Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme* (first published 1897, most recent reprinted Würzburg: Osthoff, 2005).
 
 [^erasmus’-nd]: Erasmus’ *Opera Omnia* were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
@@ -355,3 +335,23 @@
 [^walter-1991]: Walter, Peter, 1991, *Theologie aus dem Geist der Rhetorik zur Schriftauslegung des Erasmus von Rotterdam*, Mainz: Mathias-Grünewald-Verlag.
 
 [^woodward-1904]: Woodward, William, 1904 [1971], *. Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=erasmus&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/erasmus/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Nauert, Charles, “Desiderius Erasmus”，*The Stanford Encyclopedia of Philosophy*（2017 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/)>。［这是《斯坦福哲学百科全书》此前关于伊拉斯谟的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。］
+* “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”，Eric MacPhail 撰，*Internet Encyclopedia of Philosophy* 词条。
+* [伊拉斯谟近代早期研究中心](https://www.erasmus.org/)，鹿特丹伊拉斯谟大学与鹿特丹市立图书馆联合创办。
+* [鹿特丹伊拉斯谟学会](https://erasmussociety.org)，附惠更斯研究所及其《箴言集》数字化版本的链接。
+
+## 相关词条
+
+托马斯·阿奎那 | 亚里士多德 | 亚里士多德的修辞学 | 希波的奥古斯丁 | 西塞罗 | 古代伦理学思想 | 马尔西利奥·费奇诺 | 自由意志 | 人文主义：文艺复兴中的 | 和平主义 | 乔瓦尼·皮科·德拉·米兰多拉 | 柏拉图 | 普罗提诺 | 普鲁塔克 | 塞涅卡 | 怀疑论 | 古代怀疑论 | 苏格拉底 | 劳伦佐·瓦拉
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

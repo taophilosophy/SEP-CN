@@ -130,27 +130,6 @@ PR 在笛卡尔对一切原初观念的分析中起作用，这包括一切天�
 
 ### Secondary Sources
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=descartes-ideas&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/descartes-ideas/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Pessin, Andrew, “Descartesʼ Theory of Ideas”，*Stanford Encyclopedia of Philosophy*（2008 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/](https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/)>。［这是《斯坦福哲学百科全书》此前关于笛卡尔观念论的词条——见[版本历史](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。］
-
-## 相关词条
-
-亚里士多德的心理学 | 笛卡尔的认识论 | 笛卡尔的模态形而上学 | 属性 | 中世纪的“普遍性”问题
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-笔者感谢 Alan Nelson 对本词条早期草稿提出的有益意见，并感谢 Andrew Pessin 就这部分材料所写的原始词条——它为本书目奠定了舞台。
-
 ## 脚注
 
 [^note-1]: 本词条引用 Adam 与 Tannery 编《笛卡尔全集》（*Oeuvres De Descartes*，11 卷）；此类引用缩写为 AT，后接相应卷次与页码。笔者尽可能采用 Cottingham、Stoothoff 与 Murdoch 的译本《笛卡尔哲学著作》（*The Philosophical Writings Of Descartes*，3 卷），缩写为 CSM；第 3 卷的译者还包括 Anthony Kenny，缩写为 CSMK，后接相应卷次与页码。AT 与 CSM/CSMK 的编号并列引用，以分号隔开。例如致吉比厄夫信的引用为：AT III 474; CSMK III 201。
@@ -353,3 +332,24 @@ PR 在笛卡尔对一切原初观念的分析中起作用，这包括一切天�
 [^yolton-1975]: Yolton, John, 1975. “On Being Present to the Mind: A Sketch for the History of an Idea,” *Dialogue*, 14: 373–88.
 
 [^yolton-1984]: –––, 1984. *Perceptual Acquaintance from Descartes to Reid*, Minneapolis: University of Minnesota Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=descartes-ideas&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/descartes-ideas/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Pessin, Andrew, “Descartesʼ Theory of Ideas”，*Stanford Encyclopedia of Philosophy*（2008 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/](https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/)>。［这是《斯坦福哲学百科全书》此前关于笛卡尔观念论的词条——见[版本历史](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。］
+
+## 相关词条
+
+亚里士多德的心理学 | 笛卡尔的认识论 | 笛卡尔的模态形而上学 | 属性 | 中世纪的“普遍性”问题
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+笔者感谢 Alan Nelson 对本词条早期草稿提出的有益意见，并感谢 Andrew Pessin 就这部分材料所写的原始词条——它为本书目奠定了舞台。

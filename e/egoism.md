@@ -178,22 +178,6 @@ Parfit 可以回答说，连续性可能不足以构成特殊关怀。不清楚 
 
 ### Rational Egoism
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=egoism)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/egoism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=egoism&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/egoism/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ʼThe Objectivity of Ethics and the Unity of Practical Reasonʼ](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
-* [Papers on altruism and psychological egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org.
-
-## 相关词条
-
-Aristotle, General Topics: ethics | Hobbes, Thomas | Hume, David | Moore, George Edward: moral philosophy | moral psychology: empirical approaches | personal identity: and ethics | Plato: shorter ethical works | Prichard, Harold Arthur | prisoner’s dilemma | Rand, Ayn | Sidgwick, Henry | Stoicism | well-being
-
 [^batson-1991]: Batson, C. D., 1991, *The Altruism Question*, Hillsdale, N. J.: Lawrence Erlbaum Associates, part III.
 
 [^batson-2011]: –––, 2011, *Altruism in Humans*, Oxford: Oxford University Press, part II.
@@ -341,3 +325,19 @@ Aristotle, General Topics: ethics | Hobbes, Thomas | Hume, David | Moore, George
 [^sterba-2013]: Sterba, J., 2013, *From Rationality to Equality*, Oxford: Oxford University Press, ch. 3.
 
 [^tersman-2008]: Tersman, F., 2008, “The Reliability of Moral Intuitions: A Challenge from Neuroscience,” *Australasian Journal of Philosophy*, 86: 389–405.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=egoism)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/egoism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=egoism&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/egoism/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ʼThe Objectivity of Ethics and the Unity of Practical Reasonʼ](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
+* [Papers on altruism and psychological egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org.
+
+## 相关词条
+
+Aristotle, General Topics: ethics | Hobbes, Thomas | Hume, David | Moore, George Edward: moral philosophy | moral psychology: empirical approaches | personal identity: and ethics | Plato: shorter ethical works | Prichard, Harold Arthur | prisoner’s dilemma | Rand, Ayn | Sidgwick, Henry | Stoicism | well-being

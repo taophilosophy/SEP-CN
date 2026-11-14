@@ -254,25 +254,6 @@
 
 ### Secondary Sources
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-hume-morality)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-hume-morality&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kant-hume-morality/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- Wood, Allen W., 2005b, “[康德的伦理学史](http://web.stanford.edu/~allenw/webpapers/KantsHistory.doc)”，可得于作者斯坦福大学主页（Word 文档）。
-- [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Steve Palmquist 维护。
-- [伊曼努尔·康德链接](http://comp.uark.edu/~rlee/semiau96/kantlink.html)，Richard Lee 维护。
-- [大卫·休谟链接](http://comp.uark.edu/~rlee/semiau98/humelink.html)，Richard Lee 维护。
-
-## 相关词条
-
-休谟的伦理学 | 休谟论宗教 | 苏格兰哲学：18 世纪苏格兰哲学 | 作为美德的正义 | 康德的道德哲学 | 康德：哲学发展 | 康德的宗教哲学 | 康德的社会与政治哲学
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^hume’s-nd]: Hume’s main works of moral philosophy are the following.
 
 [^many-nd]: Many of Hume’s other works are also relevant to his moral philosophy. We cite or discuss the following.
@@ -492,3 +473,22 @@
 [^wood-2008]: –––, 2008, *Kantian Ethics*, New York: Cambridge University Press. doi:10.1017/CBO9780511809651
 
 [^wuerth-2014]: Wuerth, Julian, 2014, *Kant on Mind, Action, and Ethics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199587629.001.0001
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-hume-morality)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-hume-morality&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kant-hume-morality/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- Wood, Allen W., 2005b, “[康德的伦理学史](http://web.stanford.edu/~allenw/webpapers/KantsHistory.doc)”，可得于作者斯坦福大学主页（Word 文档）。
+- [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Steve Palmquist 维护。
+- [伊曼努尔·康德链接](http://comp.uark.edu/~rlee/semiau96/kantlink.html)，Richard Lee 维护。
+- [大卫·休谟链接](http://comp.uark.edu/~rlee/semiau98/humelink.html)，Richard Lee 维护。
+
+## 相关词条
+
+休谟的伦理学 | 休谟论宗教 | 苏格兰哲学：18 世纪苏格兰哲学 | 作为美德的正义 | 康德的道德哲学 | 康德：哲学发展 | 康德的宗教哲学 | 康德的社会与政治哲学
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

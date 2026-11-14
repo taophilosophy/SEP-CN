@@ -390,22 +390,6 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 
 ### Secondary Works
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=umar-khayyam)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=umar-khayyam&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/umar-khayyam/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/*-COM_12113)”，《伊朗百科全书在线》（*Encyclopaedia Iranica Online*）。作者：Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O'Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari 等。© Trustees of Columbia University in the City of New York.
-- [《欧玛尔·海亚姆鲁拜集》古腾堡计划电子书](https://www.gutenberg.org/files/35260/35260-h/35260-h.htm)（菲茨杰拉德译本）。
-
-## 相关词条
-
-法拉比 | 阿拉伯和伊斯兰哲学中的本质与存在 | 无神论和不可知论 | 拉尔夫·沃尔多·爱默生 | 伊壁鸠鲁主义 | 认识论 | 存在 | 自由意志 | 伊本·西那（阿维森纳） | 个体与个体化 | 新柏拉图主义 | 柏拉图 | 性质 | 斯多亚主义 | 亨利·大卫·梭罗
-
 ## 脚注
 
 [^note-1]: 其确切出生日期虽不可考，斯瓦米·戈文达·蒂尔塔（Swami Govinda Tirtha）提及伊历 439 年，而塔布里齐（Tabrizī）在其《塔拉布哈纳》（*Tarabkhānah*）中提及伊历 455 年为可能的日期。多数学者似乎接受伊历 439 年为较可能的日期。见 Tirtha (1941)。
@@ -579,3 +563,19 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 [^youschkevitch-1973]: Youschkevitch, A., and B. Rosenfeld, 1973, “al-Khayyāmī,” in *Dictionary of Scientific Biography* (Volume 7), C. Gillispie (ed.), New York: Charles Scribner’s Sons, pp. 323–334.
 
 [^zhukovski-1898]: Zhukovski, V. A., 1898, “ ‘Umar Khayyām and the ‘Wandering’ Quatrains,” E.D. Ross (trans.), *Journal of the Royal Asiatic Society*, 30: 349–366.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=umar-khayyam)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=umar-khayyam&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/umar-khayyam/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/*-COM_12113)”，《伊朗百科全书在线》（*Encyclopaedia Iranica Online*）。作者：Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O'Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari 等。© Trustees of Columbia University in the City of New York.
+- [《欧玛尔·海亚姆鲁拜集》古腾堡计划电子书](https://www.gutenberg.org/files/35260/35260-h/35260-h.htm)（菲茨杰拉德译本）。
+
+## 相关词条
+
+法拉比 | 阿拉伯和伊斯兰哲学中的本质与存在 | 无神论和不可知论 | 拉尔夫·沃尔多·爱默生 | 伊壁鸠鲁主义 | 认识论 | 存在 | 自由意志 | 伊本·西那（阿维森纳） | 个体与个体化 | 新柏拉图主义 | 柏拉图 | 性质 | 斯多亚主义 | 亨利·大卫·梭罗

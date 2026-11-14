@@ -262,25 +262,6 @@ b. 三分类型学及对五分类型学的批评
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；藏文原典书目（A 类）条目保留威利转写原样。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-language-tibetan)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=epistemology-language-tibetan&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/epistemology-language-tibetan/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [EAST——南亚与西藏的认识论与论辩学](https://east.ikga.oeaw.ac.at)。提供印度量论文献及其藏译的书目信息。
-* [早期藏族经院哲学之门径](https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/gateway/)。《噶当文集》（*bKaʼ gdams gsung ʼbum*）所收著作的叙录目录。
-* [恰巴·却吉僧格（1109–1169）研究资料](https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/phyapa/)。汇编恰巴生平与著作的信息及数字资源。
-
-## 相关词条
-
-法称 | 古典印度哲学中的认识论 | 古典印度哲学中的语言与证言 | 中观 | 感知的析取理论 | 属性 | 实在论 | 可靠主义认识论 | 寂护 | 萨迦·班智达·贡噶坚赞 | 宗喀巴 | 印度的“二谛”理论
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^bibliography-nd]: In this section of the Bibliography, the order of the works listed is based on the alphabetical order of the root Tibetan letter of the first syllable of the author’s name.
 
 [^kaʼ-2006]: The available resources for the pre-classical period currently consist of about 40 works. The majority of them were published as facsimile in the series *bKaʼ gdams gsung ʼbum* (4 sets of 30 volumes each), dPal brtsegs bod yig dpe rnying zhib ʼjug khang, Chengdu, 2006, 2007, 2009, 2015: Si khron mi rigs dpe skrun khang. A few additional ones appeared as typeset editions or are available as facsimile via the Buddhist Digital Resource Center (www.bdrc.io). These resources include the works by Ngok Loden Shérap, Chapa, Tsang Nakpa, Tsurtön Shönnu Senggé (*mTshur ston gZhon nu seng ge*, ca. 1150–1210) and Chumikpa, as well as several summaries and commentaries on Dharmakīrti’s *Pramāṇaviniścaya*. These available works are surveyed in Hugon (2021) (see B below). The translations currently available are limited to individual chapters and passages analyzed in the studies mentioned under B. This entry relied in particular on the following works:
@@ -388,3 +369,22 @@ b. 三分类型学及对五分类型学的批评
 [^kuijp-2014]: –––, 2014. “Studies in Btsun pa Ston gzhon’s *Pramāṇavārttika* Commentary of ?1297,” *Revue d’Etudes Tibétaines*, 30.4: 111–198.
 
 [^kuijp-2022]: –––, 2022. “Studies in Btsun pa Ston gzhon’s *Pramāṇavārttika* Commentary of 1297, Part Two(a): ’U yug pa Rigs pa’i seng ge (ca. 1195–after 1267)” *Revue d’Etudes Tibétaines*, 64: 307–343.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-language-tibetan)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=epistemology-language-tibetan&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/epistemology-language-tibetan/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [EAST——南亚与西藏的认识论与论辩学](https://east.ikga.oeaw.ac.at)。提供印度量论文献及其藏译的书目信息。
+* [早期藏族经院哲学之门径](https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/gateway/)。《噶当文集》（*bKaʼ gdams gsung ʼbum*）所收著作的叙录目录。
+* [恰巴·却吉僧格（1109–1169）研究资料](https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/phyapa/)。汇编恰巴生平与著作的信息及数字资源。
+
+## 相关词条
+
+法称 | 古典印度哲学中的认识论 | 古典印度哲学中的语言与证言 | 中观 | 感知的析取理论 | 属性 | 实在论 | 可靠主义认识论 | 寂护 | 萨迦·班智达·贡噶坚赞 | 宗喀巴 | 印度的“二谛”理论
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
