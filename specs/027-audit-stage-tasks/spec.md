@@ -1,6 +1,14 @@
 # 任务书：审计已译环节增项与存量撤销（audit-stage-tasks）
 
-**版本**：v1.0 | **日期**：2026-11-14 | **状态**：任务书交付（本会话仅出任务书，不执行具体任务——用户指令「你仅出任务书。具体任务交付给 s3_checked 之前的阶段，既有 s3_checked 完成的也撤销到该任务之前」）
+**版本**：v1.1 | **日期**：2026-11-14 | **状态**：任务书交付（本会话仅出任务书，不执行具体任务——用户指令「你仅出任务书。具体任务交付给 s3_checked 之前的阶段，既有 s3_checked 完成的也撤销到该任务之前」）
+
+## 0. 双任务书协同说明（2026-11-14 补记）
+
+本轮同指令下 specs/026 已签发双书（[ren-wu-shu.md](../026-standards-tier3-rollout/ren-wu-shu.md)＋[ren-wu-shu-a2.md](../026-standards-tier3-rollout/ren-wu-shu-a2.md)），其执行-log 协同说明裁定「执行路由以 a2 为准」。**本书分工与让位**：
+
+* **本书专责**：T1 审计环节增项执行卡（ADR-0040/0041 增项的逐词条作业——026 双书不覆盖此面）＋T3/T4 预研卡。
+* **T2 让位**：存量撤销的路由与口径以 specs/026 ren-wu-shu.md T1（185 条＝done 170＋r1 3＋s3 12，读法「撤到 A1 改动落地前」）与 a2 §2 口径对表为准（**185 vs 24 及 r1_reviewed 是否同口径，待用户一句话裁定**；回退一律走 026 T0 受控原语，禁手改状态字段）。本书原「在途回滚到 s2_checked＋rollback CLI」条目**降为备选口径**，仅在用户裁定需要不同目标态或原语时启用。
+* **done 词条**：两书一致归 specs/023 回炉承接 T1 增项（禁 reopen，ADR-0040 决策 5）。
 
 ## 1. 方向声明（rules/08 §1）
 
@@ -28,12 +36,12 @@
 
 **验收**：上述六项 0 未处置或逐条豁免留痕；audited 凭证形态＝「三向比对记录＋密度统计＋新规则处置」三段齐备。
 
-## 4. T2 存量撤销卡（交付：治理/管线会话）
+## 4. T2 存量撤销卡（**路由让位 specs/026 双书**，本卡降为备选口径）
 
-* **范围**：`tasks/` 下 state ∈ {s3_checked, r1_reviewed, r2_reviewed, r3_reviewed} 的**在途任务**，逐条回滚到 **s2_checked**（重过 audited＋s3）。执行前逐条 `task_ops show` 快照存本 spec `results/rollback-baseline.json`。
-* **done 词条不回滚**：由 specs/023 回炉承接 T1 同款作业（023 范围即 drafted 及其后含 done），承 ADR-0040 决策 5「不走 reopen」；cleared/pending/drafted/s1/s2 任务本就未到审计点，不在范围。
-* **工具前置（本任务书内的工具任务）**：`task_ops.py` 现无状态回滚命令（`reopen` 仅 done→pending；tasks/README 禁手改状态字段）——实现 `rollback <slug> --to s2_checked --reason <因>`：仅允许 T2 范围内的状态迁移，steps 追加 `{"step": "rollback", ...}` 留史，旧 steps 不删；单测锁定（回滚后 advance audit 须带补偿 evidence）。
-* **验收**：回滚清单与快照逐条对账 0 差异；回滚后任务推进 audited 必须走 T1 增项。
+* **执行路由**：以 specs/026 ren-wu-shu.md T1（185 条清单：done 170＋r1_reviewed 3＋s3_checked 12，读法＝撤销到 A1 连接号改动落地前）与 ren-wu-shu-a2 §2 口径对表为权威；**185 vs 24 与 r1_reviewed 同口径与否，待用户一句话裁定**。回退操作一律走 026 T0 受控回退原语（tasks/README 禁手改状态字段）。
+* **审计增项的衔接**：无论 185 或 24 口径，被撤销词条回到 audited/s2 后，其 audited 步重做时按本书 T1 增项执行卡作业；done 词条的增项由 specs/023 回炉按 T1 执行（两书一致）。
+* **备选口径（冻结，不启用）**：本卡原设计——在途 state ∈ {s3_checked, r1_reviewed, r2_reviewed, r3_reviewed} 回滚到 s2_checked＋`task_ops rollback` 原语——仅在用户裁定需要不同目标态或独立原语时经 ADR 启用。
+* **验收**（随 026 T5 合并验收）：回滚清单与快照逐条对账 0 差异；被撤销词条重过 audited 时 T1 增项凭证齐备。
 
 ## 5. T3 PPL 通道预研卡（P12；交付：管线会话）
 
