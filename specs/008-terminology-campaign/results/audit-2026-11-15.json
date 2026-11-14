@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8343,
-  "一致": 1258,
-  "不一致": 832,
-  "未查证": 449
+  "查无": 8458,
+  "一致": 1260,
+  "不一致": 833,
+  "未查证": 331
  },
  "results": [
   {
@@ -133790,9 +133790,11 @@
    "term": "wujūb",
    "trans": "必然化",
    "basis": "本条作者英译 necessitation；逻辑学通行义译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "术语",
@@ -133800,9 +133802,11 @@
    "term": "wujūdī",
    "trans": "实在的（属性义，in re）",
    "basis": "译名裁定（与 iʿtibārī 依赖心灵的 对举；实存于事物中）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "术语",
@@ -136439,6 +136443,7 @@
     }
    ],
    "providers": [
+    "termonline-standard",
     "web-authority"
    ]
   },
@@ -184306,9 +184311,11 @@
    "term": "Soncinas, Paulus",
    "trans": "保卢斯·松奇纳斯",
    "basis": "文艺复兴托马斯主义研究通行音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184316,9 +184323,11 @@
    "term": "Sŏng Hon, Ugye",
    "trans": "成浑（牛溪）",
    "basis": "汉文传统写法（栗谷论友，续四端七情之辩）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184326,9 +184335,11 @@
    "term": "Song Xiaozong",
    "trans": "宋孝宗",
    "basis": "学界千年通行译名（谥号+庙号体例）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184336,9 +184347,18 @@
    "term": "Song Xing",
    "trans": "宋钘",
    "basis": "上游自带汉字（墨家哲学家，稷下）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "宋尹学派",
+     "en": "Song Yin Xue Pai;School of Song Xing and Yin Wen",
+     "source": "中国古代史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184346,9 +184366,11 @@
    "term": "Sophie Charlotte",
    "trans": "索菲·夏洛特",
    "basis": "学界通行汉译（普鲁士王后）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184356,9 +184378,11 @@
    "term": "Sophie de Grouchy",
    "trans": "索菲·德·格鲁希",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：LCNAF nr89016450（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184366,9 +184390,11 @@
    "term": "Sor Juana Inés de la Cruz",
    "trans": "索尔·胡安娜·伊内斯·德·拉·克鲁斯",
    "basis": "学界通行汉译（墨西哥女哲学家；行文简称“索尔·胡安娜”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184376,9 +184402,11 @@
    "term": "Sorell, Tom",
    "trans": "索雷尔",
    "basis": "学界通行（笛卡尔研究名家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184386,9 +184414,11 @@
    "term": "Sosa, Ernest / Ernest Sosa",
    "trans": "欧内斯特·索萨",
    "basis": "学界通行音译（德性知识论、安全条件）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Ernest Sosa`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184396,9 +184426,11 @@
    "term": "Sosa, Francisco",
    "trans": "弗朗西斯科·索萨",
    "basis": "音译（佩雷拉同城同行，《反安东尼娅十诫》作者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184406,9 +184438,11 @@
    "term": "Sotion",
    "trans": "索提翁",
    "basis": "音译（哲学史家；其节本由赫拉克利德编定）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184416,9 +184450,11 @@
    "term": "Soukup, C.",
    "trans": "苏库普",
    "basis": "学界通行音译（游戏研究）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184426,9 +184462,11 @@
    "term": "Southworth, Jason",
    "trans": "Southworth（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184436,9 +184474,11 @@
    "term": "Spade, Paul",
    "trans": "Paul Spade（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184446,9 +184486,11 @@
    "term": "Spafford, Eugene",
    "trans": "尤金·斯帕福德",
    "basis": "学界通行音译（计算机安全）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184456,9 +184498,11 @@
    "term": "Specker, Ernst",
    "trans": "恩斯特·斯佩克",
    "basis": "瑞士",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184466,9 +184510,11 @@
    "term": "Spelke, Elizabeth",
    "trans": "伊丽莎白·斯佩尔克",
    "basis": "音译（核心知识论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184476,9 +184522,11 @@
    "term": "Spencer, Herbert",
    "trans": "赫伯特·斯宾塞",
    "basis": "学界通行汉译（《社会学原理》中译本通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184486,9 +184534,11 @@
    "term": "Sperber, Dan",
    "trans": "丹·斯珀伯",
    "basis": "音译（认知人类学、模块性）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184496,9 +184546,11 @@
    "term": "Sperling, Johann",
    "trans": "约翰·施佩林",
    "basis": "学界通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184506,9 +184558,11 @@
    "term": "Spero, Nancy",
    "trans": "南希·斯佩罗",
    "basis": "学界惯例音译（女性主义艺术家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184516,9 +184570,11 @@
    "term": "Speusippus",
    "trans": "斯彪西波",
    "basis": "学界通行汉译（柏拉图外甥、学园第二任园长）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184526,9 +184582,11 @@
    "term": "Spiegelberg, Herbert",
    "trans": "赫伯特·施皮格伯格",
    "basis": "学界通行汉译（《现象学运动》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184536,9 +184594,11 @@
    "term": "Spiekermann, Kai",
    "trans": "Kai Spiekermann",
    "basis": "现代学者无通行汉名，保留英文（ADR-0021）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184546,9 +184606,11 @@
    "term": "Spigelius, Adrianus",
    "trans": "阿德里安·斯皮格利乌斯",
    "basis": "音译（帕多瓦解剖学家，1578–1625）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184556,9 +184618,11 @@
    "term": "Spina, Bartolomeo",
    "trans": "巴尔托洛梅奥·斯皮纳",
    "basis": "学界通行音译（比萨教省总代理）；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184566,9 +184630,11 @@
    "term": "Spinoza",
    "trans": "斯宾诺莎",
    "basis": "学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184576,9 +184642,11 @@
    "term": "Spittler, Ludwig Timotheus",
    "trans": "L. T. 施皮特勒",
    "basis": "学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184586,9 +184654,11 @@
    "term": "Spivak, Gayatri Chakravorty",
    "trans": "佳亚特里·斯皮瓦克",
    "basis": "学界通行汉译（中译文献通译）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184596,9 +184666,11 @@
    "term": "Splitter, Laurance J.",
    "trans": "劳伦斯·J. 斯普利特",
    "basis": "学界通行音译（探究共同体理论家）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184606,9 +184678,11 @@
    "term": "Sprenger, Jacob",
    "trans": "雅各布·施普伦格",
    "basis": "学界通行音译（《女巫之锤》合著者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184616,9 +184690,11 @@
    "term": "Squatrito, Theresa",
    "trans": "特蕾莎·斯夸特里托",
    "basis": "音译（国际法院研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184626,9 +184702,18 @@
    "term": "Sraffa, Piero",
    "trans": "皮耶罗·斯拉法",
    "basis": "意大利经济学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "皮耶罗·斯拉法",
+     "en": "Piero Sraffa（1898—1983）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184636,9 +184721,11 @@
    "term": "Sri Chand",
    "trans": "室利·昌德",
    "basis": "本库首译（那纳克长子，乌达西派创立者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184658,9 +184745,11 @@
    "term": "Śrīharṣa",
    "trans": "室利诃奢",
    "basis": "沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184668,9 +184757,11 @@
    "term": "Stahl",
    "trans": "施塔尔",
    "basis": "学界通行音译（保守派法学家 F.J. Stahl）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184678,9 +184769,11 @@
    "term": "Stalin, Joseph",
    "trans": "斯大林",
    "basis": "苏联领导人，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184688,9 +184781,11 @@
    "term": "Stalnaker, Robert",
    "trans": "罗伯特·斯托尔内克",
    "basis": "学界通行音译（条件句语义学）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184698,9 +184793,11 @@
    "term": "Stamos, David",
    "trans": "戴维·斯塔莫斯",
    "basis": "音译（生物学哲学文献）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184708,9 +184805,11 @@
    "term": "Standefer, Shawn",
    "trans": "Shawn Standefer",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184718,9 +184817,11 @@
    "term": "Stanhope, Philip",
    "trans": "菲利普·斯坦霍普",
    "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184728,9 +184829,11 @@
    "term": "Stanley Cavell",
    "trans": "Stanley Cavell",
    "basis": "现代学者无通行汉名，保留英文",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184750,9 +184853,11 @@
    "term": "Stanton, Elizabeth Cady",
    "trans": "伊丽莎白·卡迪·斯坦顿",
    "basis": "学界通行汉译（美国女权运动领袖）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184760,9 +184865,11 @@
    "term": "Stapp, Henry",
    "trans": "亨利·斯塔普",
    "basis": "学界通行音译（伯克利、哥本哈根诠释与心灵物理研究）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184770,9 +184877,11 @@
    "term": "Staudacher, Alexander",
    "trans": "亚历山大·施陶达赫",
    "basis": "音译（正文同）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184780,9 +184889,11 @@
    "term": "Stavenhagen, Kurt",
    "trans": "库尔特·施塔文哈根",
    "basis": "学界惯例音译（社会学与现象学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184790,9 +184901,11 @@
    "term": "Stear, Nils-Hennes",
    "trans": "尼尔斯-亨内斯·施泰尔",
    "basis": "音译（虚构与想象）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184800,9 +184913,11 @@
    "term": "Stebbing, Susan",
    "trans": "苏珊·斯特宾",
    "basis": "英国哲学家（《分析哲学》作者；学界惯用“斯特宾”）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184810,9 +184925,11 @@
    "term": "Steele, Richard",
    "trans": "理查德·斯梯尔",
    "basis": "学界通行汉译（《闲谈者》《旁观者》创办人）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184820,9 +184937,11 @@
    "term": "Steen, Mark",
    "trans": "Mark Steen",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184830,9 +184949,11 @@
    "term": "Stefan George",
    "trans": "斯特凡·格奥尔格",
    "basis": "学界通行汉译（德国诗人，格奥尔格圈核心）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184840,9 +184961,11 @@
    "term": "Stefan Müller-Doohm",
    "trans": "施特凡·米勒-多姆",
    "basis": "学界通行音译（《阿多诺传》中译本通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184850,9 +184973,11 @@
    "term": "Steglich-Petersen, Asbjørn",
    "trans": "阿斯比约恩·斯特格利希-彼得森",
    "basis": "音译（《哲学辞典》编者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184860,9 +184985,11 @@
    "term": "Stegmann, Ulrich",
    "trans": "乌尔里希·施特格曼",
    "basis": "音译（遗传信息）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184870,9 +184997,11 @@
    "term": "Stein, Howard",
    "trans": "霍华德·斯坦",
    "basis": "学界惯例音译（科学哲学家，牛顿时空研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184880,9 +185009,11 @@
    "term": "Stein, Karl von",
    "trans": "卡尔·冯·施泰因",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184890,9 +185021,11 @@
    "term": "Stein, Michael",
    "trans": "迈克尔·斯坦",
    "basis": "学界通行汉译（法学与分配正义，功利主义辩护）；首现括注；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184900,9 +185033,11 @@
    "term": "Steinem, Gloria",
    "trans": "格洛丽亚·斯泰纳姆",
    "basis": "学界通行（女性主义作家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184910,9 +185045,11 @@
    "term": "Steinhaus, Hugo",
    "trans": "胡戈·施泰因豪斯",
    "basis": "学界通行汉译（波兰数学家，公平分配研究先驱）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184920,9 +185057,11 @@
    "term": "Steinheim, Salomon",
    "trans": "萨洛蒙·施泰因海姆",
    "basis": "德语名音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184930,9 +185069,11 @@
    "term": "Steinschneider, Moritz",
    "trans": "莫里茨·施泰因施奈德",
    "basis": "学界通行音译（希伯来书目学奠基者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184940,9 +185081,11 @@
    "term": "Sten Ebbesen",
    "trans": "斯滕·埃布森",
    "basis": "学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184950,9 +185093,11 @@
    "term": "Stendhal",
    "trans": "司汤达",
    "basis": "千年通行（法国作家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184960,9 +185105,11 @@
    "term": "Stepanenko, Pedro",
    "trans": "佩德罗·斯捷潘年科",
    "basis": "音译（西班牙语转写斯拉夫姓氏惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184970,9 +185117,11 @@
    "term": "Stephanus of Alexandria",
    "trans": "亚历山大的斯特凡努斯",
    "basis": "学界通行汉译（7 世纪亚历山大里亚哲学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184980,9 +185129,11 @@
    "term": "Stephen of Rieti",
    "trans": "列蒂的斯蒂芬",
    "basis": "本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185002,9 +185153,11 @@
    "term": "Stephen, Matthew",
    "trans": "马修·斯蒂芬",
    "basis": "音译（国际组织研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185012,9 +185165,11 @@
    "term": "Stephens, Chris",
    "trans": "克里斯·斯蒂芬斯",
    "basis": "音译（生物学哲学文献）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185022,9 +185177,11 @@
    "term": "Sterelny, Kim",
    "trans": "金·斯特雷尔尼",
    "basis": "音译（演化认识论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185032,9 +185189,11 @@
    "term": "Stern, Alexandra",
    "trans": "亚历山德拉·斯特恩",
    "basis": "优生学史家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185042,9 +185201,11 @@
    "term": "Stern, Nicholas",
    "trans": "尼古拉斯·斯特恩",
    "basis": "学界通行音译（《斯特恩报告》）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185052,9 +185213,11 @@
    "term": "Sternberger, Dolf",
    "trans": "多尔夫·施特恩贝格尔",
    "basis": "学界通行汉译（宪法爱国主义概念提出者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185062,9 +185225,11 @@
    "term": "Sterry, Peter",
    "trans": "彼得·斯特里",
    "basis": "学界通行音译（《论意志自由》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185072,9 +185237,11 @@
    "term": "Steuco, Agostino",
    "trans": "阿戈斯蒂诺·斯图科",
    "basis": "学界通行音译（《论永恒哲学》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185082,9 +185249,11 @@
    "term": "Stevens, Wallace",
    "trans": "华莱士·史蒂文斯",
    "basis": "学界通行汉译（美国诗人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185092,9 +185261,11 @@
    "term": "Stewart, Dugald",
    "trans": "杜格尔德·斯图尔特",
    "basis": "苏格兰常识学派通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185102,9 +185273,11 @@
    "term": "Stewart, James",
    "trans": "詹姆斯·斯图尔特",
    "basis": "影史通行汉译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185112,9 +185285,11 @@
    "term": "Sthiramati",
    "trans": "安慧",
    "basis": "汉传佛典通行译名（《唯识三十颂释》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185122,9 +185297,11 @@
    "term": "Stibitz, George",
    "trans": "乔治·斯蒂比茨",
    "basis": "学界通行音译（贝尔实验室继电器计算机）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185132,9 +185309,11 @@
    "term": "Stich, Stephen / Stephen Stich",
    "trans": "斯蒂芬·斯蒂奇",
    "basis": "音译（认知科学哲学）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Stephen Stich`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185142,9 +185321,18 @@
    "term": "Stiglitz, Joseph",
    "trans": "约瑟夫·斯蒂格利茨",
    "basis": "学界通行汉译（信息经济学）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约瑟夫·斯蒂格利茨",
+     "en": "Joseph E. Stiglitz（1943—）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185152,9 +185340,11 @@
    "term": "Stigt, Walter van",
    "trans": "Walter van Stigt",
    "basis": "ADR-0022：无通行汉名保留英文（布劳威尔传记研究者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185162,9 +185352,11 @@
    "term": "Stillingfleet, Elizabeth",
    "trans": "伊丽莎白·斯蒂林弗利特",
    "basis": "学界通行音译（爱德华·斯蒂林弗利特之妻）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185172,9 +185364,11 @@
    "term": "Stilpo",
    "trans": "斯提尔波",
    "basis": "学界通行汉译（麦加拉学派哲学家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185182,9 +185376,11 @@
    "term": "Stobaeus",
    "trans": "斯托拜乌斯",
    "basis": "学界通行（希腊化选集编纂者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185192,9 +185388,11 @@
    "term": "Stock, Kathleen",
    "trans": "斯托克",
    "basis": "学界惯例音译（美学）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185202,9 +185400,11 @@
    "term": "Stockmeyer, Larry",
    "trans": "Larry Stockmeyer",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185212,9 +185412,11 @@
    "term": "Stoddard, Solomon",
    "trans": "所罗门·斯托达德",
    "basis": "学界通行汉译（爱德华兹研究）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185222,9 +185424,11 @@
    "term": "Stokes, Dustin",
    "trans": "达斯汀·斯托克斯",
    "basis": "音译（美学与认知）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185232,9 +185436,11 @@
    "term": "Stokhof, Martin",
    "trans": "Martin Stokhof",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185242,9 +185448,11 @@
    "term": "Stone, Marshall Harvey",
    "trans": "马歇尔·哈维·斯通",
    "basis": "学界通行音译（斯通表示定理）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185252,9 +185460,11 @@
    "term": "Stotz, Karola",
    "trans": "卡罗拉·施托茨",
    "basis": "基因概念哲学研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185262,9 +185472,11 @@
    "term": "Stout, G. F.",
    "trans": "G. F. 斯托特",
    "basis": "学界通行汉译（《心灵》主编、心理哲学文献通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185272,9 +185484,11 @@
    "term": "Stout, G.F.",
    "trans": "斯托特",
    "basis": "学界惯例（英国心理学与哲学）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185282,9 +185496,11 @@
    "term": "Stowe, Harriet Beecher",
    "trans": "哈丽雅特·比彻·斯托",
    "basis": "学界通行汉译（《汤姆叔叔的小屋》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185292,9 +185508,11 @@
    "term": "Strabo",
    "trans": "斯特拉波",
    "basis": "学界通行汉译（古希腊地理学家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185302,9 +185520,11 @@
    "term": "Strachey, Christopher",
    "trans": "克里斯托弗·斯特雷奇",
    "basis": "学界通行音译（首个可运行 AI 程序作者，编程语言先驱）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185312,9 +185532,11 @@
    "term": "Strasbourg, Thomas of",
    "trans": "斯特拉斯堡的托马斯",
    "basis": "中世纪神学研究通行汉译（奥古斯丁会）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185322,9 +185544,11 @@
    "term": "Straßburger, Lutz",
    "trans": "Lutz Straßburger",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185332,9 +185556,11 @@
    "term": "Straub, Paul",
    "trans": "Paul Straub（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（信息条件实验）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185342,9 +185568,11 @@
    "term": "Strauss, David Friedrich / David Friedrich Strauss",
    "trans": "大卫·弗里德里希·施特劳斯",
    "basis": "学界通行汉译（《耶稣传》作者）；2026-11-13 重复行合并（旧键 `David Friedrich Strauss`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185352,9 +185580,11 @@
    "term": "Strauss, Leo",
    "trans": "列奥·施特劳斯",
    "basis": "学界通行汉译（《自然权利与历史》中译本）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185362,9 +185592,11 @@
    "term": "Strawson, P.F.",
    "trans": "斯特劳森",
    "basis": "学界通行汉译（《个体》中译本通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185372,9 +185604,11 @@
    "term": "Strayer, Joseph R.",
    "trans": "J. R. 斯特雷耶",
    "basis": "学界通行汉译（《现代国家的起源》中译本“斯特雷耶”）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185382,9 +185616,11 @@
    "term": "Streete, Thomas",
    "trans": "托马斯·斯特里特",
    "basis": "天文学史通行音译；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185392,9 +185628,11 @@
    "term": "Streett, Robert S.",
    "trans": "Robert S. Streett",
    "basis": "无通行汉名，保留英文原名（RPDL）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185402,9 +185640,11 @@
    "term": "Stroud, Barry",
    "trans": "巴里·斯特劳德",
    "basis": "音译（英语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185412,9 +185652,11 @@
    "term": "Stump, Eleonore",
    "trans": "Eleonore Stump（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185422,9 +185664,11 @@
    "term": "Sturgeon, Scott",
    "trans": "斯科特·斯特金",
    "basis": "学界惯例（知识论文献通译）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185432,9 +185676,11 @@
    "term": "Sturm, Johann Christoph / Johann Sturm",
    "trans": "约翰·克里斯托夫·施图尔姆",
    "basis": "SUMMARY 定名更正（原译“约翰内斯·施图尔姆”，据源文 Johann Christoph 正名）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185442,9 +185688,11 @@
    "term": "Suárez, Francisco",
    "trans": "弗朗西斯科·苏亚雷斯",
    "basis": "学界通行汉译（晚期经院哲学集大成者）；合并 gregory-rimini 行（2026-11-10）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185478,9 +185726,11 @@
    "term": "Suhrawardī, Shihāb al-Dīn",
    "trans": "苏哈拉瓦迪",
    "basis": "学界惯例（SUMMARY 定名沿用；光照学派）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185488,9 +185738,11 @@
    "term": "Sully, James",
    "trans": "詹姆斯·萨利",
    "basis": "音译（心理学家，1881 年论艾略特之艺术）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185498,9 +185750,11 @@
    "term": "Sulpiz Boisserée",
    "trans": "苏尔皮茨·博伊瑟雷",
    "basis": "音译（艺术收藏家）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185508,9 +185762,11 @@
    "term": "Sumner, L. W.",
    "trans": "L. W. 萨姆纳",
    "basis": "音译（英语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -193001,9 +193257,11 @@
    "term": "Sophocles",
    "trans": "索福克勒斯",
    "basis": "学界通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
