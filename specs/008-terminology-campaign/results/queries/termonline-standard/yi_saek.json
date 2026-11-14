@@ -1,0 +1,33 @@
+{
+ "key": "yi saek",
+ "term": "Yi Saek",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:46:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "黄色指数",
+   "en": "yellowness index YI",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "黄色指数变化值",
+   "en": "change of yellowness index",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "黄变指数",
+   "en": "yellowness index difference",
+   "code": "GB/T 41203—2021",
+   "standard": "光伏组件封装材料加速老化试验方法",
+   "subject": "电子学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 3}, \"sourceStats\": {\"电子学\": 1, \"橡胶和塑料工业\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"71330138b6f24cc1adc87f38f1f1ef2c\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1\", \"cnName\": \"黄色指数\", \"enName\": \"yellowness index YI\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194992, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数\", \"cnNameSearch\": \"黄色指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index YI\", \"wordSearch\": \"yellowness index YI\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"YI\", \"cnNameSearch\": \"YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"偏离白色或无色，倾向于黄色的程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"366c47047d04495abbaa0219e9e8bcb3\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.2\", \"cnName\": \"黄色指数变化值\", \"enName\": \"change of yellowness index\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194991, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数变化值\", \"cnNameSearch\": \"黄色指数变化值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"change of yellowness index\", \"wordSearch\": \"change of yellowness index\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"△YI\", \"cnNameSearch\": \"△YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"老化前样品的黄色指数与老化后样品的黄色指数之间的差值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如，暴露于指定条件之前和之后。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a99d6bcd96034454b4bf7bc6f579f879\", \"databaseId\": null, \"standardId\": \"7807dbd45ca641b38c3ad05c86e6a0c2\", \"standardCode\": \"GB/T 41203—2021\", \"standardName\": \"光伏组件封装材料加速老化试验方法\", \"standardEnName\": \"Method for accelerated aging test of PV module encapsulating material\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2\", \"cnName\": \"黄变指数\", \"enName\": \"yellowness index difference\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"31.030\", \"ccs\": \"L 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124145, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄变指数\", \"cnNameSearch\": \"黄变指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index difference\", \"wordSearch\": \"yellowness index difference\"}, {\"languageType\": 1, \"word\": \"△YI\", \"wordSearch\": \"△YI\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"试验后黄度指数YI与试验前黄度指数YI的差值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674763068}"
+}

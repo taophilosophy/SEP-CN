@@ -1,0 +1,33 @@
+{
+ "key": "wilson jeremiah moses",
+ "term": "Wilson Jeremiah Moses",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:34:54+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "威尔逊云室",
+   "en": "Wilson cloud chamber",
+   "code": "GB/T 4960.6—2008",
+   "standard": "核科学技术术语  核仪器仪表",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "威尔逊中心端子",
+   "en": "central terminal according to wilson",
+   "code": "GB 9706.225-—2021",
+   "standard": "医用电气设备 第2-25部分:心电图机的基本安全和基本性能专用要求",
+   "subject": "其它"
+  },
+  {
+   "cn": "威尔逊中心端子",
+   "en": "central terminal according to wilson",
+   "code": "GB 9706.225—2021",
+   "standard": "医用电气设备 第2-25部分：心电图机的基本安全和基本性能专用要求",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2008\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1, \"医药卫生技术\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"4d7b4f2d4aa045009abfceea1a9e17b6\", \"databaseId\": null, \"standardId\": \"608c3b6b17ba4f30ae9dca8fae99a285\", \"standardCode\": \"GB/T 4960.6—2008\", \"standardName\": \"核科学技术术语  核仪器仪表\", \"standardEnName\": \"Glossary of terms: nuclear science and technology — Nuclear instrumentation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.5.7\", \"cnName\": \"威尔逊云室\", \"enName\": \"Wilson cloud chamber\", \"publishTime\": \"2008-09-19\", \"publishYear\": \"2008\", \"implementTime\": \"2009-08-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 96791, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"威尔逊云室\", \"cnNameSearch\": \"威尔逊云室\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Wilson cloud chamber\", \"wordSearch\": \"Wilson cloud chamber\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由于快速膨胀，在短时间内产生过饱和蒸汽的云室。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"IEV 394-26-05\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"36e7cdccd59144f4b98969090eeabbbe\", \"databaseId\": null, \"standardId\": \"735148fc9b7b465295299173d4be2f64\", \"standardCode\": \"GB 9706.225-—2021\", \"standardName\": \"医用电气设备 第2-25部分:心电图机的基本安全和基本性能专用要求\", \"standardEnName\": \"Medical electrical equipment—Part 2-25 : Particular requirements for the basic safety and essential performance of electrocardiographs\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"201.3.201\", \"cnName\": \"威尔逊中心端子\", \"enName\": \"central terminal according to wilson\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116248, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"威尔逊中心端子\", \"cnNameSearch\": \"威尔逊中心端子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"central terminal according to wilson\", \"wordSearch\": \"central terminal according to wilson\"}, {\"languageType\": 1, \"word\": \"CT\", \"wordSearch\": \"CT\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"R（RA），L（LA）和F（LL）电极的平均电位的端子。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"048cb1b5499f4dddae6b4dc315149485\", \"databaseId\": null, \"standardId\": \"f1fdde95adc74b5cb87d1529be34cc4f\", \"standardCode\": \"GB 9706.225—2021\", \"standardName\": \"医用电气设备 第2-25部分：心电图机的基本安全和基本性能专用要求\", \"standardEnName\": \"Medical electrical equipment—Part 2-25: Particular requirements for the basic safety and essential performance of electrocardiographs\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"201.3.201\", \"cnName\": \"威尔逊中心端子\", \"enName\": \"central terminal according to wilson\", \"publishTime\": \"2021-12-01\", \"publishYear\": \"2021\", \"implementTime\": \"2023-05-01\", \"ics\": \"11.040.50\", \"ccs\": \"C 39\", \"parentTermId\": null, \"titleId\": null, \"oid\": 237580, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"威尔逊中心端子\", \"cnNameSearch\": \"威尔逊中心端子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"central terminal according to wilson\", \"wordSearch\": \"central terminal according to wilson\"}, {\"languageType\": 1, \"word\": \"CT\", \"wordSearch\": \"CT\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"R （RA），L（LA）和 F（LL）<strong>电极</strong>的平均电位的端子。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674091036}"
+}

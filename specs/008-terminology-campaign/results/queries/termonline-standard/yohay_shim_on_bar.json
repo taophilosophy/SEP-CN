@@ -1,0 +1,152 @@
+{
+ "key": "yohay, shim'on bar",
+ "term": "Yohay, Shim'on Bar",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:46:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=372",
+ "hits": [
+  {
+   "cn": "棒料",
+   "en": "bar",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "棒料",
+   "en": "bar",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "拦门沙",
+   "en": "bar",
+   "code": "GB/T 50186—2013",
+   "standard": "港口工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "条材",
+   "en": "bar",
+   "code": "GB/T 43569—2023",
+   "standard": "首饰和贵金属 贵金属及其合金的取样",
+   "subject": "精密机械、珠宝"
+  },
+  {
+   "cn": "杆",
+   "en": "bar",
+   "code": "GB/T 33582—2017",
+   "standard": "机械产品结构有限元力学分析通用规则 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "线棒",
+   "en": "bar",
+   "code": "GB/T 17948.7—2016",
+   "standard": "旋转电机 绝缘结构功能 性评定总则 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "杆",
+   "en": "bar",
+   "code": "GB/T 31054—2014",
+   "standard": "机械产品计算机辅助工程  有限元数值计算  术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "沙坝",
+   "en": "bar",
+   "code": "GB/T 29633.1—2013",
+   "standard": "南极地名 第1部分:通名",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "棒料",
+   "en": "bar",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "刀板",
+   "en": "bar",
+   "code": "GB/T 8873—2008",
+   "standard": "粮油名词术语  油脂工业",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "棒材",
+   "en": "bar",
+   "code": "GB/T 21220—2007",
+   "standard": "软磁金属材料",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "吧台",
+   "en": "bar",
+   "code": "GB/T 4549.10—2004",
+   "standard": "铁道车辆词汇 第 10 部分: 客车附属设备",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "棒材",
+   "en": "bar",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "擀棒",
+   "en": "forming bar",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "箱带",
+   "en": "cross bar",
+   "code": "GB/T 5611—2017",
+   "standard": "铸造术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "水下沙坝",
+   "en": "submarine bar；subaqueous bar",
+   "code": "GB/T 18190—2017",
+   "standard": "海洋学术语 海洋地质学 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "擀棒",
+   "en": "forming bar",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "选单条",
+   "en": "menu bar",
+   "code": "GB/T 5271.13—2008",
+   "standard": "信息技术 词汇 第13部分：计算机图形",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "打印杆",
+   "en": "type bar",
+   "code": "GB/T 5271.12—2000",
+   "standard": "信息技术  词汇  第12部分:外围设备",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "接头档",
+   "en": "terminal bar",
+   "code": "GB/T 30557—2014",
+   "standard": "丝绸  机织物疵点术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 19, \"2023\": 21, \"2022\": 15, \"2021\": 18, \"2020\": 17, \"2019\": 18, \"2018\": 3, \"2017\": 15, \"2016\": 25, \"2015\": 3, \"2014\": 30, \"2013\": 17, \"2012\": 19, \"2011\": 21, \"2010\": 18, \"2009\": 3, \"2008\": 33, \"2007\": 1, \"2005\": 2, \"2004\": 3, \"2003\": 5, \"2001\": 8, \"2000\": 3, \"1996\": 1, \"1986\": 1, \"1984\": 14, \"暂无年份\": 39}, \"sourceStats\": {\"食品技术\": 7, \"采矿和矿产品\": 1, \"道路车辆工程\": 2, \"造船和海上构筑物\": 3, \"试验\": 1, \"计量学和测量、物理现象\": 3, \"航空器和航天器工程\": 2, \"能源和热传导工程\": 11, \"综合、术语学、标准化、文献\": 59, \"纺织和皮革技术\": 12, \"精密机械、珠宝\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"石油及相关技术\": 1, \"电气工程\": 23, \"电子学\": 9, \"电信、音频和视频工程\": 1, \"玻璃和陶瓷工业\": 1, \"环保、保健和安全\": 6, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 5, \"材料储运设备\": 5, \"机械系统和通用件\": 3, \"机械制造\": 29, \"木材技术\": 3, \"服装工业\": 10, \"数学、自然科学\": 2, \"成像技术\": 3, \"建筑材料和建筑物\": 18, \"家用和商用设备、文娱、体育\": 2, \"土木工程\": 1, \"医药卫生技术\": 3, \"化工技术\": 2, \"冶金\": 45, \"农业\": 7, \"其它\": 59, \"信息技术、办公机械\": 23}, \"typeStats\": {\"7\": 372}, \"totalRecords\": 372, \"tmWordList\": [{\"id\": \"671b6a57b6b64daa84434cd4d804afd1\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.6\", \"cnName\": \"棒料\", \"enName\": \"bar\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 178209, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"棒料\", \"cnNameSearch\": \"棒料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种截面均匀的轧材，其截面为圆形、矩形或六边形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0028271ad63747aba3f28c2227eed6ec\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.1\", \"cnName\": \"棒料\", \"enName\": \"bar\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 222504, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"棒料\", \"cnNameSearch\": \"棒料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种截面均匀的轧材，其截面为圆形或多边形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"92b3537b33344505ae5dea546827050e\", \"databaseId\": null, \"standardId\": \"ef4aacf7265548ea83407ee864c80c05\", \"standardCode\": \"GB/T 50186—2013\", \"standardName\": \"港口工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of port engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.10\", \"cnName\": \"拦门沙\", \"enName\": \"bar\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 234537, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"拦门沙\", \"cnNameSearch\": \"拦门沙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"河口口门河床上，由于泥沙淤积而隆起的地貌形态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e63b7eea8ff1406b98a2d4153855fdd8\", \"databaseId\": null, \"standardId\": \"03d270904bcb4987adaccc72ffa81941\", \"standardCode\": \"GB/T 43569—2023\", \"standardName\": \"首饰和贵金属 贵金属及其合金的取样\", \"standardEnName\": \"Jewellery and precious metals—Sampling of precious metals and precious metal alloys\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"精密机械、珠宝\", \"termCode\": \"3.4.2\", \"cnName\": \"条材\", \"enName\": \"bar\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"39.060\", \"ccs\": \"Y88\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2440, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"条材\", \"cnNameSearch\": \"条材\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"铸币产品，或拟精炼的铸件。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [\"<p>注：这些产品通常用于投资。</p>\"], \"notes\": [\"<p>这些产品通常用于投资。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e16ea656f1a469a9a8b8fcc75009c37\", \"databaseId\": null, \"standardId\": \"432496624c4c4420909f91ebb0492460\", \"standardCode\": \"GB/T 33582—2017\", \"standardName\": \"机械产品结构有限元力学分析通用规则 \", \"standardEnName\": \"General principles of structural finite element analysis for mechanical products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.13\", \"cnName\": \"杆\", \"enName\": \"bar\", \"publishTime\": \"2017-05-12\", \"publishYear\": \"2017\", \"implementTime\": \"2017-09-01\", \"ics\": \"ICS 01.100.01\", \"ccs\": \"J 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 71997, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"杆\", \"cnNameSearch\": \"杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一类长度远大于其他方向尺寸的构件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 31054—2014\", \"sourceCode\": \"4.1.4\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0b446bd290874f6ba37688147861daad\", \"databaseId\": null, \"standardId\": \"f8688f5bf36f413bb89037af06a80663\", \"standardCode\": \"GB/T 17948.7—2016\", \"standardName\": \"旋转电机 绝缘结构功能 性评定总则 \", \"standardEnName\": \"Rotating electrical machines—Functional evaluation of insulation systemsGeneral guidelines evaluation of insulation systems—General guidelines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.1.6\", \"cnName\": \"线棒\", \"enName\": \"bar\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-09-01\", \"ics\": \"29.160.01\", \"ccs\": \"K 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 242794, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"线棒\", \"cnNameSearch\": \"线棒\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"半线圈，两个线棒嵌入槽中后连接在一起形成完整成型绕组线圈。由线圈边和恰当的线圈\\n端部构成。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"大型交流电机通常（但也不总是）使用线棒，在双层绕组中形成单匝线圈。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c7f8c76cf2a6458ab600279a33bb3076\", \"databaseId\": null, \"standardId\": \"6486137a7065469f808802075e94dd7b\", \"standardCode\": \"GB/T 31054—2014\", \"standardName\": \"机械产品计算机辅助工程  有限元数值计算  术语\", \"standardEnName\": \"Computer aided engineering for mechanical products—Finite element numerical calculation—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1.1\", \"cnName\": \"杆\", \"enName\": \"bar\", \"publishTime\": \"2014-12-22\", \"publishYear\": \"2014\", \"implementTime\": \"2015-10-01\", \"ics\": \"01.100.010\", \"ccs\": \"J04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100082, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"杆\", \"cnNameSearch\": \"杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"长度远大于其他方向尺寸的构件。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e5cdf03e898a4cdfabba14296e655151\", \"databaseId\": null, \"standardId\": \"84868e1ba64f40569c303c2c8260aa89\", \"standardCode\": \"GB/T 29633.1—2013\", \"standardName\": \"南极地名 第1部分:通名\", \"standardEnName\": \"Antarctic geographical names—Part 1: Generic terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.170\", \"cnName\": \"沙坝\", \"enName\": \"bar\", \"publishTime\": \"2013-07-19\", \"publishYear\": \"2013\", \"implementTime\": \"2013-11-01\", \"ics\": \"07.040\", \"ccs\": \"A44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140625, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"沙坝\", \"cnNameSearch\": \"沙坝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"海滨外侧海中所有长条形沙质堤状堆积地貌的统称。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>主要由沿岸流沙堆积而成，常被高潮面淹没。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5a5666c358a64811adee7e0d83a47031\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2.1\", \"cnName\": \"棒料\", \"enName\": \"bar\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"棒料\", \"cnNameSearch\": \"棒料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种截面均匀的轧材，其截面为圆形或多边形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dbc5f546df1b4396b61f4a77215de5b9\", \"databaseId\": null, \"standardId\": \"b9c0676d6b814fad93d08a9be9d6b11c\", \"standardCode\": \"GB/T 8873—2008\", \"standardName\": \"粮油名词术语  油脂工业\", \"standardEnName\": \"Terminology of grain and oils - Oils and fats industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.1.3.7\", \"cnName\": \"刀板\", \"enName\": \"bar\", \"publishTime\": \"2008-11-04\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-20\", \"ics\": \"67.040\", \"ccs\": \"X04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 188928, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"刀板\", \"cnNameSearch\": \"刀板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"截面近似矩形，具有一定长度的钢条。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1b9412c02cc6487a9df0b22eca1b972a\", \"databaseId\": null, \"standardId\": \"98c57ad027cb4c258f3f3232efac3f0d\", \"standardCode\": \"GB/T 21220—2007\", \"standardName\": \"软磁金属材料\", \"standardEnName\": \"Soft magnetic metallic materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.2\", \"cnName\": \"棒材\", \"enName\": \"bar\", \"publishTime\": \"2007-12-03\", \"publishYear\": \"2007\", \"implementTime\": \"2008-05-20\", \"ics\": \"29.030\", \"ccs\": \"K 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159683, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"棒材\", \"cnNameSearch\": \"棒材\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以直的一段段供货的横截面均匀的实体产品,该横截面可以是圆形、正方形、矩形或规则的多边形。##扁平形:由四面轧制而成,其厚度通常为5mm或更大、宽度不超过150mm的矩形横截面的棒。##圆形:其横截面直径大于或等于8mm的棒。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cbeb6409c40e4b77808c27147f37c73a\", \"databaseId\": null, \"standardId\": \"5ec4b4257d6a482995d06bd80eb9e2be\", \"standardCode\": \"GB/T 4549.10—2004\", \"standardName\": \"铁道车辆词汇 第 10 部分: 客车附属设备\", \"standardEnName\": \"Railway vehicle vocabulary—Part 10: Equipments attached to the passenger car\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.3\", \"cnName\": \"吧台\", \"enName\": \"bar\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95254, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"吧台\", \"cnNameSearch\": \"吧台\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"设有简易餐饮设备，供旅客使用的区域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f65037b0eb8341e297feec0f950cf29c\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.2.6\", \"cnName\": \"棒材\", \"enName\": \"bar\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51912, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"棒材\", \"cnNameSearch\": \"棒材\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bar\", \"wordSearch\": \"bar\"}, {\"languageType\": 1, \"word\": \"rod\", \"wordSearch\": \"rod\"}, {\"languageType\": 1, \"word\": \"round bar\", \"wordSearch\": \"round bar\"}, {\"languageType\": 1, \"word\": \"steel bar\", \"wordSearch\": \"steel bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以直条交货的断面为实心的圆形或其他几何形状的轧材。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c229fec5b6744a0caa46870601a8261e\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"14.4.1  \", \"cnName\": \"擀棒\", \"enName\": \"forming bar\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 222829, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"擀棒\", \"cnNameSearch\": \"擀棒\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"forming bar\", \"wordSearch\": \"forming bar\"}, {\"languageType\": 1, \"word\": \"pry bar\", \"wordSearch\": \"pry bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"手工普通旋压时用于对坯料加压的金属或木质棒式旋压工具。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9156b736d12f4f25bf81cea979aedf4e\", \"databaseId\": null, \"standardId\": \"3b2753f437ab40d8832e36d6929f47c0\", \"standardCode\": \"GB/T 5611—2017\", \"standardName\": \"铸造术语\", \"standardEnName\": \"Foundry terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"5.4.30\", \"cnName\": \"箱带\", \"enName\": \"cross bar\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-29\", \"ics\": \"25.020\", \"ccs\": \"J 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63998, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"箱带\", \"cnNameSearch\": \"箱带\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cross bar\", \"wordSearch\": \"cross bar\"}, {\"languageType\": 1, \"word\": \"flask bar\", \"wordSearch\": \"flask bar\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"箱挡\", \"cnNameSearch\": \"箱挡\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为加强砂型强度和砂箱的刚度，连接砂箱边框，通常为梯形断面的筋条。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>筋条多时相互交叉，其高度随型腔高度变化。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9ca49ad24c8e4788b57857e7bbc61059\", \"databaseId\": null, \"standardId\": \"fd2cf755d8d640a89225dda758e9ff98\", \"standardCode\": \"GB/T 18190—2017\", \"standardName\": \"海洋学术语 海洋地质学 \", \"standardEnName\": \"Oceanological terminologyMarine geology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.3.15\", \"cnName\": \"水下沙坝\", \"enName\": \"submarine bar；subaqueous bar\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"01.040.07 \", \"ccs\": \"A 45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245797, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水下沙坝\", \"cnNameSearch\": \"水下沙坝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"submarine bar；subaqueous bar\", \"wordSearch\": \"submarine bar；subaqueous bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在破波带内形成的与海岸平行的水下脊状堆积体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2538d14909214392af5ea7fe26cd81e5\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"14.4.1\", \"cnName\": \"擀棒\", \"enName\": \"forming bar\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36310, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"擀棒\", \"cnNameSearch\": \"擀棒\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"forming bar\", \"wordSearch\": \"forming bar\"}, {\"languageType\": 1, \"word\": \"pry bar\", \"wordSearch\": \"pry bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"手工普通旋压时用于对坏料加压的金属或木质棒式旋压工具。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6dcc8c0788fb460899ba00f12d2cb974\", \"databaseId\": null, \"standardId\": \"c9563aa26d8f43cea06260ecce7358f0\", \"standardCode\": \"GB/T 5271.13—2008\", \"standardName\": \"信息技术 词汇 第13部分：计算机图形\", \"standardEnName\": \"Information technology — Vocabulary Part 13: Computer graphics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"13.05.42\", \"cnName\": \"选单条\", \"enName\": \"menu bar\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.140\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202241, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"选单条\", \"cnNameSearch\": \"选单条\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"menu bar\", \"wordSearch\": \"menu bar\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"动作条\", \"cnNameSearch\": \"动作条\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"action bar\", \"wordSearch\": \"action bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种用于显示各选单所用的名称或图符，通常沿窗口(1)边缘的区域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0fab15266835495686c677356691ca7d\", \"databaseId\": null, \"standardId\": \"72e327eb81bc46d5943cd308653f6215\", \"standardCode\": \"GB/T 5271.12—2000\", \"standardName\": \"信息技术  词汇  第12部分:外围设备\", \"standardEnName\": \"Information technology——Vocabulary——Part 12:Peripheral equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"12.07.09\", \"cnName\": \"打印杆\", \"enName\": \"type bar\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 115504, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"打印杆\", \"cnNameSearch\": \"打印杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"type bar\", \"wordSearch\": \"type bar\"}, {\"languageType\": 1, \"word\": \"print bar\", \"wordSearch\": \"print bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安装在击打式打印机上带有字块的一个杆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7460d02b2eed454abb6d3b00ff2ac9d7\", \"databaseId\": null, \"standardId\": \"2bf3b2b0ab314a1dbf094e66210d5017\", \"standardCode\": \"GB/T 30557—2014\", \"standardName\": \"丝绸  机织物疵点术语\", \"standardEnName\": \"Silk―Terminology for defects of woven fabrics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2.37\", \"cnName\": \"接头档\", \"enName\": \"terminal bar\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2015-03-01\", \"ics\": \"01.040.59\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45409, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"接头档\", \"cnNameSearch\": \"接头档\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"terminal bar\", \"wordSearch\": \"terminal bar\"}], \"allowableWord\": [{\"languageType\": 1, \"word\": \"joint bar\", \"wordSearch\": \"joint bar\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"织物尾端 1m 左右处，呈现经丝宽急不匀的横档。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 19}}, \"timestamp\": 1794674803087}"
+}

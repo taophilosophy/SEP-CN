@@ -1,0 +1,152 @@
+{
+ "key": "woodger, j. h.",
+ "term": "Woodger, J. H.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:39:42+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=105",
+ "hits": [
+  {
+   "cn": "ITU-T H. 323 互通网关",
+   "en": "interworking gateWay for ITU-T H. 323 video conferencing system",
+   "code": "GB/T 21641—2008",
+   "standard": "基于不同技术的应急视讯会议系统互通技术要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "J 环",
+   "en": "J-Ring",
+   "code": "GB/T 50080—2016",
+   "standard": "普通混凝土拌合物性能试验方法标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "J形管",
+   "en": "J-tube",
+   "code": "GB/T 40788—2021",
+   "standard": "船舶与海上技术  海上风能  港口与海上作业",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "J 型铺管法",
+   "en": "J-Lay",
+   "code": "GB/T 8423.3—2018",
+   "standard": "石油天然气工业术语第 3 部分:油气地面工程",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "赋形剂",
+   "en": "J excipient",
+   "code": "GB/T 33414—2016",
+   "standard": "穴位贴敷用药规范",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "水平式声学多普勒剖面流速仪",
+   "en": "H-ADCP",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H杆",
+   "en": "H-pole",
+   "code": "GB/T 51421—2020",
+   "standard": "架空光(电)缆通信杆路工程技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "谐波次数",
+   "en": "harmonicorder(H)",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H管",
+   "en": "H pipe",
+   "code": "GB 50015—2019",
+   "standard": "建筑给水排水设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H管",
+   "en": "H pipe",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "doseequivalent\nH",
+   "code": "GB/T 32452—2025",
+   "standard": "航天术语 空间环境",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "红斑剂量",
+   "en": "erythemaldose\nH",
+   "code": "GB/T 20150—2023",
+   "standard": "红斑基准作用光谱及标准红斑剂量",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "气",
+   "en": "deuterium *H",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "氛",
+   "en": "tritium *H",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "H点",
+   "en": "H-point",
+   "code": "GB/T 40887.2—2022",
+   "standard": "无障碍客车的轮椅车及乘坐者限位系统 第2部分: 前向式轮椅车乘坐者系统",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "H-点",
+   "en": "H-point",
+   "code": "GB/Z 30661.4—2021",
+   "standard": "轮椅车座椅 第4部分：机动车中使用的座椅系统",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "扬程损失",
+   "en": "lossofhead H",
+   "code": "GB/T 6490—2021",
+   "standard": "水轮泵",
+   "subject": "农业"
+  },
+  {
+   "cn": "速度水头",
+   "en": "velocityhead H",
+   "code": "GB/T 6490—2021",
+   "standard": "水轮泵",
+   "subject": "农业"
+  },
+  {
+   "cn": "静吸出水头（吸出高度）",
+   "en": "staticsuctionhead\nH",
+   "code": "GB/T 6490—2021",
+   "standard": "水轮泵",
+   "subject": "农业"
+  },
+  {
+   "cn": "设计扬程",
+   "en": "ratedhead h",
+   "code": "GB/T 6490—2021",
+   "standard": "水轮泵",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 2, \"2024\": 1, \"2023\": 4, \"2022\": 2, \"2021\": 18, \"2020\": 1, \"2019\": 3, \"2018\": 3, \"2017\": 3, \"2016\": 5, \"2015\": 2, \"2014\": 9, \"2013\": 5, \"2012\": 2, \"2011\": 1, \"2009\": 1, \"2008\": 4, \"2006\": 1, \"2005\": 12, \"2003\": 2, \"1999\": 1, \"1996\": 11, \"1988\": 1, \"暂无年份\": 11}, \"sourceStats\": {\"铁路工程\": 1, \"道路车辆工程\": 3, \"造船和海上构筑物\": 2, \"计量学和测量、物理现象\": 4, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 14, \"综合、术语学、标准化、文献\": 1, \"纺织和皮革技术\": 11, \"精密机械、珠宝\": 2, \"石油及相关技术\": 2, \"电气工程\": 3, \"电子学\": 2, \"电信、音频和视频工程\": 3, \"环保、保健和安全\": 4, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 2, \"材料储运设备\": 3, \"机械系统和通用件\": 2, \"机械制造\": 3, \"数学、自然科学\": 8, \"建筑材料和建筑物\": 3, \"医药卫生技术\": 4, \"农业\": 13, \"其它\": 12, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 105}, \"totalRecords\": 105, \"tmWordList\": [{\"id\": \"b8397ae85ff14589bde63f7634423fbc\", \"databaseId\": null, \"standardId\": \"3267b5e4b0934297876c8483367863f0\", \"standardCode\": \"GB/T 21641—2008\", \"standardName\": \"基于不同技术的应急视讯会议系统互通技术要求\", \"standardEnName\": \"Technique requirements of video conferencing system interworking between different technologies\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.5\", \"cnName\": \"ITU-T H. 323 互通网关\", \"enName\": \"interworking gateWay for ITU-T H. 323 video conferencing system\", \"publishTime\": \"2008-04-10\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"33.040\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55103, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"ITU-T H. 323 互通网关\", \"cnNameSearch\": \"ITU-T H. 323 互通网关\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"interworking gateWay for ITU-T H. 323 video conferencing system\", \"wordSearch\": \"interworking gateWay for ITU-T H. 323 video conferencing system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"ITU-T H.323 视讯会议系统的互通功能实体,用于实现与PSTN、ISDN或其他网络上的GB/T 15845.4—2003、ITU-T H.324P、ITU-T H.324M、ITU-T H.324I视频会议终端等终端的互通。ITU-T H.323互通网关应完成媒体流格式的转化和传送,呼叫控制信令和系统控制信令映射等功能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6d357f45a3324d24b29bb35655b0d46a\", \"databaseId\": null, \"standardId\": \"37fdbca102ac43238be35f41b490df49\", \"standardCode\": \"GB/T 50080—2016\", \"standardName\": \"普通混凝土拌合物性能试验方法标准\", \"standardEnName\": \"Standard for test method of performance on ordinary fresh concrete\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.5 \", \"cnName\": \"J 环\", \"enName\": \"J-Ring\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 61988, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J 环\", \"cnNameSearch\": \"J 环\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-Ring\", \"wordSearch\": \"J-Ring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测定混凝土拌合物间隙通过性的环形仪器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"058839d977824b74942d7815e4cc68ef\", \"databaseId\": null, \"standardId\": \"2e4cc7df2233488cae1e709d004b2a3c\", \"standardCode\": \"GB/T 40788—2021\", \"standardName\": \"船舶与海上技术  海上风能  港口与海上作业\", \"standardEnName\": \"Ships and marine technology—Offshore wind energy—Port and marine operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.74\", \"cnName\": \"J形管\", \"enName\": \"J-tube\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"47.020.20\", \"ccs\": \"U 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49731, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形管\", \"cnNameSearch\": \"J形管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-tube\", \"wordSearch\": \"J-tube\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基础附件的一部分，用于支撑和保护从海床到过渡段或上部模块的阵列电缆或输出电缆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c17537e985564375a540d226c386ebfd\", \"databaseId\": null, \"standardId\": \"3e419c96eaa04b88934439f0c823efc3\", \"standardCode\": \"GB/T 8423.3—2018\", \"standardName\": \"石油天然气工业术语第 3 部分:油气地面工程\", \"standardEnName\": \"Petroleum and natural gas industries terminology—Part 3:Oil-gas surface engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"4.3.11\", \"cnName\": \"J 型铺管法\", \"enName\": \"J-Lay\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"75.200\", \"ccs\": \"E 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67121, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J 型铺管法\", \"cnNameSearch\": \"J 型铺管法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-Lay\", \"wordSearch\": \"J-Lay\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铺管时管道在船上保持竖直，通过张紧器、托管架入水，将其铺设到海底的铺设方法，在下水过程中整体呈J型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"90a216757aa74a7199c3e3eb3bde3e3c\", \"databaseId\": null, \"standardId\": \"6846c4d2487145598dde7bba585b4768\", \"standardCode\": \"GB/T 33414—2016\", \"standardName\": \"穴位贴敷用药规范\", \"standardEnName\": \"Specification on Chinese herbal application of acupoint paste\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.3\", \"cnName\": \"赋形剂\", \"enName\": \"J excipient\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"11.020\", \"ccs\": \"00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103283, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"赋形剂\", \"cnNameSearch\": \"赋形剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J excipient\", \"wordSearch\": \"J excipient\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"赋予药物以适当的形态和体积的物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"291246c0ad8245debf259c37074a6174\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.6.1.5.(3)\", \"cnName\": \"水平式声学多普勒剖面流速仪\", \"enName\": \"H-ADCP\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42371, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水平式声学多普勒剖面流速仪\", \"cnNameSearch\": \"水平式声学多普勒剖面流速仪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-ADCP\", \"wordSearch\": \"H-ADCP\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"固定安装在岸边，测量此水深处水层上一定距离内流速分布的声学剖面流速仪。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d18c660d42794c6d8ce8075f36f4d9bd\", \"databaseId\": null, \"standardId\": \"57706a57a685424c811053df34fcc79e\", \"standardCode\": \"GB/T 51421—2020\", \"standardName\": \"架空光(电)缆通信杆路工程技术标准\", \"standardEnName\": \"Technical standard of communication pole line engineering for aerial optical ( copper) cable\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.15\", \"cnName\": \"H杆\", \"enName\": \"H-pole\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H杆\", \"cnNameSearch\": \"H杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-pole\", \"wordSearch\": \"H-pole\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"杆塔设施中需要特别加强电杆杆身强度而采用双电杆且两杆间隔似英文字母\\\"H\\\"的电杆组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9cc6d041907940e0973cfa49f0ec8cce\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.4.51\", \"cnName\": \"谐波次数\", \"enName\": \"harmonicorder(H)\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 128689, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谐波次数\", \"cnNameSearch\": \"谐波次数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"harmonicorder(H)\", \"wordSearch\": \"harmonicorder(H)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"谐波频率与基波频率的整数比\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"21edcbef594a4d1a957ea58ad6d236c1\", \"databaseId\": null, \"standardId\": \"e3905b8e040149a78731ea090d6c902d\", \"standardCode\": \"GB 50015—2019\", \"standardName\": \"建筑给水排水设计标准\", \"standardEnName\": \"Standard for design of building water supply and drainage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.50\", \"cnName\": \"H管\", \"enName\": \"H pipe\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 224294, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H管\", \"cnNameSearch\": \"H管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H pipe\", \"wordSearch\": \"H pipe\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接非水立管与通气立管形如H的专用配件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dba7ee0887774d32b407db30e87207d6\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.58\", \"cnName\": \"H管\", \"enName\": \"H pipe\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 233231, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H管\", \"cnNameSearch\": \"H管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H pipe\", \"wordSearch\": \"H pipe\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接排水立管与通气立管形如H 的专用配件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1bba9418561948aeb3f06c79608a217d\", \"databaseId\": null, \"standardId\": \"733d6c9636a4476aa97a0a3445ff0e40\", \"standardCode\": \"GB/T 32452—2025\", \"standardName\": \"航天术语 空间环境\", \"standardEnName\": \"Space terminology—Space environment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"6.10.4\", \"cnName\": \"剂量当量\", \"enName\": \"doseequivalent\\nH\", \"publishTime\": \"2025-10-05\", \"publishYear\": \"2025\", \"implementTime\": \"2025-10-05\", \"ics\": \"49.02049\", \"ccs\": \"V04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剂量当量\", \"cnNameSearch\": \"剂量当量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"doseequivalent\\nH\", \"wordSearch\": \"doseequivalent\\nH\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"反映各种射线或粒子被吸收后引起的生物效应强弱的电离辐射剂量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"通常表示为组织或器官中某点处吸收剂量D、品质因素Q和其他一切修正因素N的乘积，即H=DQN。单位\\n是雷姆（rem），国际单位制是希沃特(Sv)，1Sv=1J/kg,1Sv=100rem。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c5f88a439be647d19d1f166a71bf17da\", \"databaseId\": null, \"standardId\": \"186a84a40d6c4f96b8c9abd1085b8c1f\", \"standardCode\": \"GB/T 20150—2023\", \"standardName\": \"红斑基准作用光谱及标准红斑剂量\", \"standardEnName\": \"Erythema reference action spectrum and standard erythema dose\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.3\", \"cnName\": \"红斑剂量\", \"enName\": \"erythemaldose\\nH\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"29.140.01\", \"ccs\": \"K70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24350, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"红斑剂量\", \"cnNameSearch\": \"红斑剂量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"erythemaldose\\nH\", \"wordSearch\": \"erythemaldose\\nH\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"红斑曝辐射量erythemalradiantexposure\\n红斑辐照度的时间积分。\\nH=\\nE（a，t)s（a）dadt\\n式中：\\nE（入，t）一光谱辐照度；\\ns。（a）一红斑光谱加权函数，在其最大值处归一化为1。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"这一定义假设所考虑的光化效应采用一个作用光谱，其最大值为1。\", \"需明确使用哪种光化作用光谱，因为任何作用光谱的单位都是相同的。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8459324c619340be9576c6c1b9985ef6\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.5.1.6\", \"cnName\": \"气\", \"enName\": \"deuterium *H\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121490, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"气\", \"cnNameSearch\": \"气\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"deuterium *H\", \"wordSearch\": \"deuterium *H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原子由一个质子和一个中子组成的，氢的一种天然稳定同位素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2c3c622ea85f46b2a822492ace0a498f\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.5.1.7\", \"cnName\": \"氛\", \"enName\": \"tritium *H\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121878, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"氛\", \"cnNameSearch\": \"氛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tritium *H\", \"wordSearch\": \"tritium *H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"氢元素的一种半衰期为12.4年的放射性同位素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"abcf8ff10c024aaca8780cace71c7128\", \"databaseId\": null, \"standardId\": \"c37f399c331140b6a9d11bb87c10940c\", \"standardCode\": \"GB/T 40887.2—2022\", \"standardName\": \"无障碍客车的轮椅车及乘坐者限位系统 第2部分: 前向式轮椅车乘坐者系统\", \"standardEnName\": \"Wheelchair containment and occupant retention systems for accessible transport vehicles designed for use by both sitting and standing passengers—Part 2: Systems for forward-facing wheelchair seated passengers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.9\", \"cnName\": \"H点\", \"enName\": \"H-point\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"11.180\", \"ccs\": \"C 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196246, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H点\", \"cnNameSearch\": \"H点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-point\", \"wordSearch\": \"H-point\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"侧视图中代表人体臀部关节中心大概位置，由拟人试验装置制造商规定的，位于拟人试验装置骨盆区左右两侧点中的一个点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1274d6344ff242259a2a09e505a4f0e2\", \"databaseId\": null, \"standardId\": \"595a0d6c29ec425c84776105864b53ca\", \"standardCode\": \"GB/Z 30661.4—2021\", \"standardName\": \"轮椅车座椅 第4部分：机动车中使用的座椅系统\", \"standardEnName\": \"Wheelchair seating—Part 4: Seating systems for use in motor vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.16\", \"cnName\": \"H-点\", \"enName\": \"H-point\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2024-10-11\", \"ics\": \"11.180\", \"ccs\": \"Y 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H-点\", \"cnNameSearch\": \"H-点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-point\", \"wordSearch\": \"H-point\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由ATD制造商指定的一对位于拟人试验装置骨盆区域两侧的点，在侧视图中接近人体髋关节中心。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7c71562f65ce42608c349058e1efbe25\", \"databaseId\": null, \"standardId\": \"8786e8a8c6a44058a80a5d69ae1e68cf\", \"standardCode\": \"GB/T 6490—2021\", \"standardName\": \"水轮泵\", \"standardEnName\": \"Water-turbine pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.6.4\", \"cnName\": \"扬程损失\", \"enName\": \"lossofhead H\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"65.060.3565\", \"ccs\": \"B91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143020, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扬程损失\", \"cnNameSearch\": \"扬程损失\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lossofhead H\", \"wordSearch\": \"lossofhead H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在任意两个过水断面之间的扬程损失。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c583862a947640d088ca1988edcd5e59\", \"databaseId\": null, \"standardId\": \"8786e8a8c6a44058a80a5d69ae1e68cf\", \"standardCode\": \"GB/T 6490—2021\", \"standardName\": \"水轮泵\", \"standardEnName\": \"Water-turbine pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.5.2\", \"cnName\": \"速度水头\", \"enName\": \"velocityhead H\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"65.060.3565\", \"ccs\": \"B91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143052, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"速度水头\", \"cnNameSearch\": \"速度水头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"velocityhead H\", \"wordSearch\": \"velocityhead H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"每单位质量运动液体的动能除以重力加速度（即相当于平均速度的平方除以两倍重力加速度的水\\n头）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"23d8ee83271f45afadfc028e9d11c875\", \"databaseId\": null, \"standardId\": \"8786e8a8c6a44058a80a5d69ae1e68cf\", \"standardCode\": \"GB/T 6490—2021\", \"standardName\": \"水轮泵\", \"standardEnName\": \"Water-turbine pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.12\", \"cnName\": \"静吸出水头（吸出高度）\", \"enName\": \"staticsuctionhead\\nH\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"65.060.3565\", \"ccs\": \"B91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143064, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"静吸出水头（吸出高度）\", \"cnNameSearch\": \"静吸出水头（吸出高度）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"staticsuctionhead\\nH\", \"wordSearch\": \"staticsuctionhead\\nH\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"转轮叶片低压面（背面）的压力达到最低值的点相对于下游自由水面的高度。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"单位为米（m）。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"433b770be232418cbfc18319dcb7dad5\", \"databaseId\": null, \"standardId\": \"8786e8a8c6a44058a80a5d69ae1e68cf\", \"standardCode\": \"GB/T 6490—2021\", \"standardName\": \"水轮泵\", \"standardEnName\": \"Water-turbine pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.6.1\", \"cnName\": \"设计扬程\", \"enName\": \"ratedhead h\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"65.060.3565\", \"ccs\": \"B91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143094, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计扬程\", \"cnNameSearch\": \"设计扬程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ratedhead h\", \"wordSearch\": \"ratedhead h\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在设计水头和设计出水量下的总扬程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 6}}, \"timestamp\": 1794674379073}"
+}

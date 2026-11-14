@@ -1,0 +1,68 @@
+{
+ "key": "yi chin-sang",
+ "term": "Yi Chin-sang",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:45:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=8",
+ "hits": [
+  {
+   "cn": "黄色指数",
+   "en": "yellowness index YI",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "黄色指数变化值",
+   "en": "change of yellowness index",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "颏痈",
+   "en": "chin abscess",
+   "code": "GB/T 42467.2—2023",
+   "standard": "中医临床名词术语 第2部分：外科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "下颌扣",
+   "en": "chin buckle",
+   "code": "GB/T 41526.1—2022",
+   "standard": "运动护具 冰雪运动护具 第 1 部分：滑雪运动头盔的安全要求和试验方法",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "护颜",
+   "en": "chin cup",
+   "code": "GB/T 40926.3—2021",
+   "standard": "冰球运动护具 第3部分：面部护具",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "黄变指数",
+   "en": "yellowness index difference",
+   "code": "GB/T 41203—2021",
+   "standard": "光伏组件封装材料加速老化试验方法",
+   "subject": "电子学"
+  },
+  {
+   "cn": "承浆疔",
+   "en": "chengjiang（CV 24）ding",
+   "code": "GB/T 42467.2—2023",
+   "standard": "中医临床名词术语 第2部分：外科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "肘、嗉、鬃毛",
+   "en": "mane on upper legs, neck-to-chin and shoulders",
+   "code": "GB/T 21977—2022",
+   "standard": "骆驼绒",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2022\": 2, \"2021\": 4}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2, \"纺织和皮革技术\": 1, \"电子学\": 1, \"环保、保健和安全\": 2, \"橡胶和塑料工业\": 2}, \"typeStats\": {\"7\": 8}, \"totalRecords\": 8, \"tmWordList\": [{\"id\": \"71330138b6f24cc1adc87f38f1f1ef2c\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1\", \"cnName\": \"黄色指数\", \"enName\": \"yellowness index YI\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194992, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数\", \"cnNameSearch\": \"黄色指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index YI\", \"wordSearch\": \"yellowness index YI\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"YI\", \"cnNameSearch\": \"YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"偏离白色或无色，倾向于黄色的程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"366c47047d04495abbaa0219e9e8bcb3\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.2\", \"cnName\": \"黄色指数变化值\", \"enName\": \"change of yellowness index\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194991, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数变化值\", \"cnNameSearch\": \"黄色指数变化值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"change of yellowness index\", \"wordSearch\": \"change of yellowness index\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"△YI\", \"cnNameSearch\": \"△YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"老化前样品的黄色指数与老化后样品的黄色指数之间的差值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如，暴露于指定条件之前和之后。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f0063d0e5931440ba7ab199f5c12c5ac\", \"databaseId\": null, \"standardId\": \"9194344f388344eaa806596da294fcde\", \"standardCode\": \"GB/T 42467.2—2023\", \"standardName\": \"中医临床名词术语 第2部分：外科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 2：External medicine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.5.3\", \"cnName\": \"颏痈\", \"enName\": \"chin abscess\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154200, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"颏痈\", \"cnNameSearch\": \"颏痈\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chin abscess\", \"wordSearch\": \"chin abscess\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"生于颏部的痈。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3e1f8731fd44409d98aecf3a135bddd3\", \"databaseId\": null, \"standardId\": \"8c663753750742f6a69038ddb797be6e\", \"standardCode\": \"GB/T 41526.1—2022\", \"standardName\": \"运动护具 冰雪运动护具 第 1 部分：滑雪运动头盔的安全要求和试验方法\", \"standardEnName\": \"Protective equipment for sports—Protective equipment for winter sports—Part 1:Safety requirements and testing methods for helmets of alpineskiers and snowboarders\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.3.2\", \"cnName\": \"下颌扣\", \"enName\": \"chin buckle\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 13.340.20;97.220.20 \", \"ccs\": \"CCS Y 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149451, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"下颌扣\", \"cnNameSearch\": \"下颌扣\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chin buckle\", \"wordSearch\": \"chin buckle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"位于下颌附近，用来调节系带松紧程度的装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3f6be58954b545c3b25beea1c21d4552\", \"databaseId\": null, \"standardId\": \"fdbb961ff8174c3ca36c3dc63fffe0c0\", \"standardCode\": \"GB/T 40926.3—2021\", \"standardName\": \"冰球运动护具 第3部分：面部护具\", \"standardEnName\": \"Protective equipment for use in ice hockey—Part 3: Face protectors for skaters\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.2\", \"cnName\": \"护颜\", \"enName\": \"chin cup\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"13.340.20;97.220.20\", \"ccs\": \"Y 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 246158, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"护颜\", \"cnNameSearch\": \"护颜\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chin cup\", \"wordSearch\": \"chin cup\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"覆盖负荷承受区域的防护组件。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图5。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a99d6bcd96034454b4bf7bc6f579f879\", \"databaseId\": null, \"standardId\": \"7807dbd45ca641b38c3ad05c86e6a0c2\", \"standardCode\": \"GB/T 41203—2021\", \"standardName\": \"光伏组件封装材料加速老化试验方法\", \"standardEnName\": \"Method for accelerated aging test of PV module encapsulating material\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2\", \"cnName\": \"黄变指数\", \"enName\": \"yellowness index difference\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"31.030\", \"ccs\": \"L 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124145, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄变指数\", \"cnNameSearch\": \"黄变指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index difference\", \"wordSearch\": \"yellowness index difference\"}, {\"languageType\": 1, \"word\": \"△YI\", \"wordSearch\": \"△YI\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"试验后黄度指数YI与试验前黄度指数YI的差值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"10668c1063014b019860b1a40e249fef\", \"databaseId\": null, \"standardId\": \"9194344f388344eaa806596da294fcde\", \"standardCode\": \"GB/T 42467.2—2023\", \"standardName\": \"中医临床名词术语 第2部分：外科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 2：External medicine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.3.1.9\", \"cnName\": \"承浆疔\", \"enName\": \"chengjiang（CV 24）ding\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154026, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承浆疔\", \"cnNameSearch\": \"承浆疔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chengjiang（CV 24）ding\", \"wordSearch\": \"chengjiang（CV 24）ding\"}, {\"languageType\": 1, \"word\": \"chin boil\", \"wordSearch\": \"chin boil\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"生于颏唇沟正中凹陷处承浆穴部位的疔疮。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"91a3e3f1574547e29aadaa8c8b85433b\", \"databaseId\": null, \"standardId\": \"dc496c97831d43e3af9088b0790b5de3\", \"standardCode\": \"GB/T 21977—2022\", \"standardName\": \"骆驼绒\", \"standardEnName\": \"Camel hair\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.7\", \"cnName\": \"肘、嗉、鬃毛\", \"enName\": \"mane on upper legs, neck-to-chin and shoulders\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"59.060.10\", \"ccs\": \"W 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216085, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"肘、嗉、鬃毛\", \"cnNameSearch\": \"肘、嗉、鬃毛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mane on upper legs, neck-to-chin and shoulders\", \"wordSearch\": \"mane on upper legs, neck-to-chin and shoulders\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从骆驼肘部、颈上下缘、峰部采集的粗长毛纤维。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674699103}"
+}

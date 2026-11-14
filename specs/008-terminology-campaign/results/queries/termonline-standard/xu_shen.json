@@ -1,0 +1,19 @@
+{
+ "key": "xu shen",
+ "term": "Xu Shen",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:42:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "罐壳",
+   "en": "shen",
+   "code": "GB/T 21595—2008",
+   "standard": "危险品便携式罐体撞击试验方法",
+   "subject": "环保、保健和安全"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 1}, \"sourceStats\": {\"环保、保健和安全\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"a8e65a2b002e4d1098d4bad65a2ebd99\", \"databaseId\": null, \"standardId\": \"2973fcd82a5a430a8abf04ad5735c55b\", \"standardCode\": \"GB/T 21595—2008\", \"standardName\": \"危险品便携式罐体撞击试验方法\", \"standardEnName\": \"Dangerous goods-Impact test method for portable tank\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.2\", \"cnName\": \"罐壳\", \"enName\": \"shen\", \"publishTime\": \"2008-04-01\", \"publishYear\": \"2008\", \"implementTime\": \"2008-09-01\", \"ics\": \"13.300\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 39520, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"罐壳\", \"cnNameSearch\": \"罐壳\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"shen\", \"wordSearch\": \"shen\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"便携式罐体承装所运物质的部分(罐体本身),包括开口及其封闭装置，但不包括辅助设备或外部结构装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674555069}"
+}

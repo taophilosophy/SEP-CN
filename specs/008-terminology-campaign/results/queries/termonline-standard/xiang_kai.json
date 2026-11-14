@@ -1,0 +1,26 @@
+{
+ "key": "xiang kai",
+ "term": "Xiang Kai",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:42:22+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "永春篾香",
+   "en": "Yongchun Mie Xiang",
+   "code": "GB/T 21262—2007",
+   "standard": "地理标志产品 永春篾香",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "湘绣",
+   "en": "<em>Xiang</em> embroidery",
+   "code": "GB/T 26380—2022",
+   "standard": "纺织品  丝绸术语",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2007\": 1}, \"sourceStats\": {\"纺织和皮革技术\": 1, \"家用和商用设备、文娱、体育\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"4198e3aa09ca45ef9948ac95fa34665c\", \"databaseId\": null, \"standardId\": \"7b8c2bf6d823460eb602ab24f9c93fc0\", \"standardCode\": \"GB/T 21262—2007\", \"standardName\": \"地理标志产品 永春篾香\", \"standardEnName\": \"Product of geographical indication-Yongchun Mie Xiang\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.1\", \"cnName\": \"永春篾香\", \"enName\": \"Yongchun Mie Xiang\", \"publishTime\": \"2007-12-13\", \"publishYear\": \"2007\", \"implementTime\": \"2008-05-01\", \"ics\": \"97.020\", \"ccs\": \"Y 89\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131971, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"永春篾香\", \"cnNameSearch\": \"永春篾香\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Yongchun Mie Xiang\", \"wordSearch\": \"Yongchun Mie Xiang\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"俗称汉口神香,是以传统配方的芳香植物和中草药或香料研成粉末,制成香料,以毛、麻竹加工成的细小竹枝为篾骨,把天然粘粉加水涂上篾骨,然后粘上香料,经传统手工方法加工制作而成的一种供点燃用的香料(以下简称香)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3fad84b6f3584048bfabe03cb9bee168\", \"databaseId\": null, \"standardId\": \"7d0c8a57d70c4912849ca37e99555815\", \"standardCode\": \"GB/T 26380—2022\", \"standardName\": \"纺织品  丝绸术语\", \"standardEnName\": \"Textiles—Terminology for silk\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.3.13\", \"cnName\": \"湘绣\", \"enName\": \"<em>Xiang</em> embroidery\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"59.080.01\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133300, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湘绣\", \"cnNameSearch\": \"湘绣\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Xiang</em> embroidery\", \"wordSearch\": \"<em>Xiang</em> embroidery\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以湖南长沙地区为中心产区，以蚕丝、绸缎、透明纱和各种颜色的丝线、绒线绣制而成的构图严谨、色彩鲜明的绣品。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674539054}"
+}

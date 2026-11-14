@@ -1,0 +1,33 @@
+{
+ "key": "ye, ru",
+ "term": "Ye, Ru",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:44:30+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "流注",
+   "en": "ru",
+   "code": "GB/T 5206—2015",
+   "standard": "色漆和清漆 术语和定义",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "汝瓷",
+   "en": "Ru ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "花楼拽花",
+   "en": "hualou ye hua",
+   "code": "GB/T 21930—2008",
+   "standard": "地理标志产品 云锦",
+   "subject": "家用和商用设备、文娱、体育"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2018\": 1, \"2015\": 1, \"2008\": 1}, \"sourceStats\": {\"玻璃和陶瓷工业\": 1, \"涂料和颜料工业\": 1, \"家用和商用设备、文娱、体育\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"db2c884b4d4f49b8acd2279c0d7a25dd\", \"databaseId\": null, \"standardId\": \"e68d53063f944787b2fa93a0bcb599a7\", \"standardCode\": \"GB/T 5206—2015\", \"standardName\": \"色漆和清漆 术语和定义\", \"standardEnName\": \"Paints and varnishes—Terms and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"2.217\", \"cnName\": \"流注\", \"enName\": \"ru\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2016-02-01\", \"ics\": \"87.01087\", \"ccs\": \"G50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227652, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"流注\", \"cnNameSearch\": \"流注\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ru\", \"wordSearch\": \"ru\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"小型的流挂。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8a318ca28ab247889f815c58a971f3bc\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.22\", \"cnName\": \"汝瓷\", \"enName\": \"Ru ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181318, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"汝瓷\", \"cnNameSearch\": \"汝瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Ru ware\", \"wordSearch\": \"Ru ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用产自河南省汝州市现辖行政区域和宝丰县大营镇、肖旗乡、商酒务镇、赵庄乡、城关镇、杨庄镇、石桥镇、张八桥镇等8个乡镇现辖行政区域内的主要原料生产的，釉料以氧化铁为主要着色剂，经高温还原气氛烧成后，釉面成色呈现以天青色为基调、质地如玉的陶瓷产品。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 23397—2009\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b09587f917b742148517ba97c695c3ca\", \"databaseId\": null, \"standardId\": \"b29556f79c68463f8c05c661dd85a8e8\", \"standardCode\": \"GB/T 21930—2008\", \"standardName\": \"地理标志产品 云锦\", \"standardEnName\": \"Product of geographical indication-Yunjin\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"4.2\", \"cnName\": \"花楼拽花\", \"enName\": \"hualou ye hua\", \"publishTime\": \"2008-06-03\", \"publishYear\": \"2008\", \"implementTime\": \"2008-10-01\", \"ics\": \"97.195\", \"ccs\": \"Y 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183171, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花楼拽花\", \"cnNameSearch\": \"花楼拽花\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hualou ye hua\", \"wordSearch\": \"hualou ye hua\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"花楼为提花机的上部结构,用以承载花本及提花工进行提花操作。花楼拽花为云锦织造的提花工艺,通过提拽实现提花开口。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674667076}"
+}

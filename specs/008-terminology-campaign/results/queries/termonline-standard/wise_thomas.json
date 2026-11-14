@@ -1,0 +1,68 @@
+{
+ "key": "wise, thomas",
+ "term": "Wise, Thomas",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:36:54+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=8",
+ "hits": [
+  {
+   "cn": "托马斯型回旋加速器",
+   "en": "Thomas cyclotron",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "湿地合理利用",
+   "en": "wise use of wetland",
+   "code": "GB/T 43624—2023",
+   "standard": "湿地术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "侧压强度",
+   "en": "edge wise compressive strength",
+   "code": "GB/T 3961—2009",
+   "standard": "纤维增强塑料术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "平拉强度",
+   "en": "flat wise tensile strength",
+   "code": "GB/T 3961—2009",
+   "standard": "纤维增强塑料术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "分区非相干光扩散函数",
+   "en": "block-wise incoherent light spread function",
+   "code": "GB/T 43864.1—2024",
+   "standard": "显示光源组件 第 1-2 部分:术语和文字符号",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "分区光学信噪比",
+   "en": "block-wise optical signal-to-noise ratio",
+   "code": "GB/T 43864.1—2024",
+   "standard": "显示光源组件 第 1-2 部分:术语和文字符号",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "分区最佳信噪比",
+   "en": "block-wise optimum signal-to-noise ratio",
+   "code": "GB/T 43864.1—2024",
+   "standard": "显示光源组件 第 1-2 部分:术语和文字符号",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "扇形聚焦",
+   "en": "sector focusing",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 1, \"2021\": 2, \"2009\": 2}, \"sourceStats\": {\"能源和热传导工程\": 2, \"电气工程\": 3, \"橡胶和塑料工业\": 2, \"农业\": 1}, \"typeStats\": {\"7\": 8}, \"totalRecords\": 8, \"tmWordList\": [{\"id\": \"4fb2c217f7f045febd45db9b2688a98d\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2.5\", \"cnName\": \"托马斯型回旋加速器\", \"enName\": \"Thomas cyclotron\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10842, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"托马斯型回旋加速器\", \"cnNameSearch\": \"托马斯型回旋加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Thomas cyclotron\", \"wordSearch\": \"Thomas cyclotron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用直边扇形磁极垫片产生磁场的方位角调变的扇形聚焦回旋加速器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"393cf860d52d4a889e2d595dc7622c22\", \"databaseId\": null, \"standardId\": \"6ccf70cc84034346a79fbb9476d13b9a\", \"standardCode\": \"GB/T 43624—2023\", \"standardName\": \"湿地术语\", \"standardEnName\": \"Wetland vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"7.5\", \"cnName\": \"湿地合理利用\", \"enName\": \"wise use of wetland\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-28\", \"ics\": \"65.020.0165\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 110377, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿地合理利用\", \"cnNameSearch\": \"湿地合理利用\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wise use of wetland\", \"wordSearch\": \"wise use of wetland\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在维持湿地生态系统自然属性的前提下，使湿地能持续地为人类提供福利的利用方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e62cc377c3dd4b97b1552fe2abcb63b9\", \"databaseId\": null, \"standardId\": \"c777f7918b5640c8bebe72dd652045f8\", \"standardCode\": \"GB/T 3961—2009\", \"standardName\": \"纤维增强塑料术语\", \"standardEnName\": \"Terms for fibre reinforce plastics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.5.6\", \"cnName\": \"侧压强度\", \"enName\": \"edge wise compressive strength\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"ICS 83.120\", \"ccs\": \"Q 23\", \"parentTermId\": null, \"titleId\": null, \"oid\": 199971, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"侧压强度\", \"cnNameSearch\": \"侧压强度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"edge wise compressive strength\", \"wordSearch\": \"edge wise compressive strength\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"沿平行于夹层结构材料蒙皮平面的方向单位面积上所承受的最大压缩载荷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b870a857b4374ff29b35cd350e9d6808\", \"databaseId\": null, \"standardId\": \"c777f7918b5640c8bebe72dd652045f8\", \"standardCode\": \"GB/T 3961—2009\", \"standardName\": \"纤维增强塑料术语\", \"standardEnName\": \"Terms for fibre reinforce plastics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.5.43\", \"cnName\": \"平拉强度\", \"enName\": \"flat wise tensile strength\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"ICS 83.120\", \"ccs\": \"Q 23\", \"parentTermId\": null, \"titleId\": null, \"oid\": 200147, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"平拉强度\", \"cnNameSearch\": \"平拉强度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flat wise tensile strength\", \"wordSearch\": \"flat wise tensile strength\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"沿垂直于夹层结构材料面板平面的方向单位面积上所能承受的最大拉伸载荷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4c4de947c98448889e12bd845501b7dc\", \"databaseId\": null, \"standardId\": \"783cd47485584bd9a019d0eada92df21\", \"standardCode\": \"GB/T 43864.1—2024\", \"standardName\": \"显示光源组件 第 1-2 部分:术语和文字符号\", \"standardEnName\": \"Display lighting unit—Part 1-2: Terminology and letter symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.6.18\", \"cnName\": \"分区非相干光扩散函数\", \"enName\": \"block-wise incoherent light spread function\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-08-01\", \"ics\": \"29.140\", \"ccs\": \"L53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124763, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分区非相干光扩散函数\", \"cnNameSearch\": \"分区非相干光扩散函数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"block-wise incoherent light spread function\", \"wordSearch\": \"block-wise incoherent light spread function\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"〈背光组件〉在一个或多个非相干光源(如 LED 或 LD 的漫射光)照亮下，分区背光组件某一区块的空间亮度轮廓。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>示例见图 A.9、图 A.10。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c2c4b6502ef04bef9e5f14d0e79eb1da\", \"databaseId\": null, \"standardId\": \"783cd47485584bd9a019d0eada92df21\", \"standardCode\": \"GB/T 43864.1—2024\", \"standardName\": \"显示光源组件 第 1-2 部分:术语和文字符号\", \"standardEnName\": \"Display lighting unit—Part 1-2: Terminology and letter symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.7.9\", \"cnName\": \"分区光学信噪比\", \"enName\": \"block-wise optical signal-to-noise ratio\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-08-01\", \"ics\": \"29.140\", \"ccs\": \"L53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124759, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分区光学信噪比\", \"cnNameSearch\": \"分区光学信噪比\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"block-wise optical signal-to-noise ratio\", \"wordSearch\": \"block-wise optical signal-to-noise ratio\"}, {\"languageType\": 1, \"word\": \"block-wise optical S/N ratio\", \"wordSearch\": \"block-wise optical S/N ratio\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"背光组件中一个或多个相邻分区与待评估分区的角亮度比值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>示例见图 A.11。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9cf59cf4686541bb857df4e2d07de6d2\", \"databaseId\": null, \"standardId\": \"783cd47485584bd9a019d0eada92df21\", \"standardCode\": \"GB/T 43864.1—2024\", \"standardName\": \"显示光源组件 第 1-2 部分:术语和文字符号\", \"standardEnName\": \"Display lighting unit—Part 1-2: Terminology and letter symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.7.10\", \"cnName\": \"分区最佳信噪比\", \"enName\": \"block-wise optimum signal-to-noise ratio\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-08-01\", \"ics\": \"29.140\", \"ccs\": \"L53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124831, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分区最佳信噪比\", \"cnNameSearch\": \"分区最佳信噪比\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"block-wise optimum signal-to-noise ratio\", \"wordSearch\": \"block-wise optimum signal-to-noise ratio\"}, {\"languageType\": 1, \"word\": \"block-wise optimum S/N ratio\", \"wordSearch\": \"block-wise optimum S/N ratio\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为使 1-D 或 2-D 分区背光组件显示屏前光均匀且符合规范要求，而从一个分区传输到相邻分区的最佳出光量(对漏光光量而言)与待评估分区或分块的出光量的比值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12062aa29c5e4b9581d02cd0f7f84fb9\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.3.5\", \"cnName\": \"扇形聚焦\", \"enName\": \"sector focusing\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10965, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扇形聚焦\", \"cnNameSearch\": \"扇形聚焦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sector focusing\", \"wordSearch\": \"sector focusing\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"托马斯聚焦\", \"cnNameSearch\": \"托马斯聚焦\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"Thomas focusing\", \"wordSearch\": \"Thomas focusing\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用扇形磁极结构产生沿方位角调变的磁场提供轴向聚焦力的聚焦方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674211056}"
+}

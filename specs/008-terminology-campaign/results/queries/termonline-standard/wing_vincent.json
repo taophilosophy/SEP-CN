@@ -1,0 +1,152 @@
+{
+ "key": "wing, vincent",
+ "term": "Wing, Vincent",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:36:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=21",
+ "hits": [
+  {
+   "cn": "转子凸棱",
+   "en": "wing",
+   "code": "GB/T 36587—2018",
+   "standard": "橡胶塑料机械 术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "配楼",
+   "en": "wing",
+   "code": "GB/T 30881—2014",
+   "standard": "信息技术 元数据注册系统（MDR）模块",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "翼板",
+   "en": "wing",
+   "code": "GB/T 4774—2013",
+   "standard": "过滤与分离 名词术语",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "望板",
+   "en": "wing plate",
+   "code": "GB/T 17765—2021",
+   "standard": "航标术语 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "冀片钻头",
+   "en": "wing bit",
+   "code": "GB 50734—2012",
+   "standard": "冶金工业建设钻探技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "翼墙",
+   "en": "wing wall",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "翅中折断",
+   "en": "broken wing",
+   "code": "GB/T 41830—2022",
+   "standard": "畜禽屠宰加工设备 家禽脱毛设备 ",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "翼墙",
+   "en": "wing wall",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "侧底座",
+   "en": "wing base",
+   "code": "GB/T 6477—2008",
+   "standard": "金属切削机床 术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "翼墙",
+   "en": "wing &nbsp;wall",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "翅根折断",
+   "en": "broken wing root",
+   "code": "GB/T 41830—2022",
+   "standard": "畜禽屠宰加工设备 家禽脱毛设备 ",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "翅尖折断",
+   "en": "broken wing tip",
+   "code": "GB/T 41830—2022",
+   "standard": "畜禽屠宰加工设备 家禽脱毛设备 ",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "翅露白骨",
+   "en": "bone expesed wing",
+   "code": "GB/T 41830—2022",
+   "standard": "畜禽屠宰加工设备 家禽脱毛设备 ",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "机翼型量水槽",
+   "en": "wing-shaped flume",
+   "code": "GB/T 21303—2017",
+   "standard": "灌溉渠道系统量水规范",
+   "subject": "土木工程"
+  },
+  {
+   "cn": "翼面安装误差",
+   "en": "wing assembly deviation",
+   "code": "GB/T 32455—2015",
+   "standard": "运载火箭术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "航空器翼轮轮胎",
+   "en": "wing aircraft tyre",
+   "code": "GB/T 6326—2014",
+   "standard": "轮胎术语及其定义",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "地效飞行器",
+   "en": "wing-in-ground craft",
+   "code": "GB/T 38033—2019",
+   "standard": "水面飞行器水动力专业术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "翼形试样",
+   "en": "wing-shaped test specimen",
+   "code": "GB/T 3917.5—2009",
+   "standard": "纺织品织物撕破性能第5部分:翼形试样(单缝)撕破强力的测定",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "翼形试样",
+   "en": "wing shaped test specimen",
+   "code": "GB/T 3291.2—1997",
+   "standard": "纺织 纺织材料性能和试验术语 第2部分：织物",
+   "subject": null
+  },
+  {
+   "cn": "鞋头",
+   "en": "cap",
+   "code": "GB/T 2703—2017",
+   "standard": "鞋类 术语",
+   "subject": "服装工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 4, \"2021\": 2, \"2020\": 1, \"2019\": 1, \"2018\": 1, \"2017\": 2, \"2015\": 1, \"2014\": 2, \"2013\": 1, \"2009\": 1, \"2008\": 1, \"1997\": 1, \"暂无年份\": 3}, \"sourceStats\": {\"食品技术\": 4, \"采矿和矿产品\": 1, \"航空器和航天器工程\": 2, \"能源和热传导工程\": 1, \"纺织和皮革技术\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"橡胶和塑料工业\": 1, \"机械制造\": 1, \"服装工业\": 1, \"土木工程\": 1, \"化工技术\": 1, \"农业\": 1, \"其它\": 3, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 21}, \"totalRecords\": 21, \"tmWordList\": [{\"id\": \"ce1591e389764763a0901cec7e0aaf4b\", \"databaseId\": null, \"standardId\": \"a8a6d4ccf7144dd4bce042fa90f3014a\", \"standardCode\": \"GB/T 36587—2018\", \"standardName\": \"橡胶塑料机械 术语\", \"standardEnName\": \"Rubber and plastics machinery—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1.21\", \"cnName\": \"转子凸棱\", \"enName\": \"wing\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"71.120\", \"ccs\": \"G95\", \"parentTermId\": null, \"titleId\": null, \"oid\": 172124, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"转子凸棱\", \"cnNameSearch\": \"转子凸棱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing\", \"wordSearch\": \"wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"转子工作部分凸出的棱，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0398582e10754aaea2b6c018a652addf\", \"databaseId\": null, \"standardId\": \"98b2e7bed3e942d98959fc513641527c\", \"standardCode\": \"GB/T 30881—2014\", \"standardName\": \"信息技术 元数据注册系统（MDR）模块\", \"standardEnName\": \"Information technology—Metadata registries (MDR)Modules\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.16.4.35\", \"cnName\": \"配楼\", \"enName\": \"wing\", \"publishTime\": \"2014-09-03\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"35.040\", \"ccs\": \"L72\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159633, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"配楼\", \"cnNameSearch\": \"配楼\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing\", \"wordSearch\": \"wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"标识投递点所位于的建筑物/建筑物的某一段，并且有时会通过它进入正门的邮政地址元素。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"UPU S42a-6\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3db587aeb6cf417caf48be61264116ee\", \"databaseId\": null, \"standardId\": \"b5e06b3dcc6b49bcb208ff1a2db991ea\", \"standardCode\": \"GB/T 4774—2013\", \"standardName\": \"过滤与分离 名词术语\", \"standardEnName\": \"Terminology of filtration and separation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"8.5.39\", \"cnName\": \"翼板\", \"enName\": \"wing\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-10-01\", \"ics\": \"73.12073\", \"ccs\": \"J77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185747, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼板\", \"cnNameSearch\": \"翼板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing\", \"wordSearch\": \"wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"管式分离机转鼓中沿周向均布的、使物料与转鼓同步旋转的儿片长筋板，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b28ee73714b04dcaa1532c8a212e6cc8\", \"databaseId\": null, \"standardId\": \"198907ade20f489c8eae6d3670e63e1d\", \"standardCode\": \"GB/T 17765—2021\", \"standardName\": \"航标术语 \", \"standardEnName\": \"Terminology of aids to navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.8.10\", \"cnName\": \"望板\", \"enName\": \"wing plate\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"03.220.40\", \"ccs\": \"R 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 25277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"望板\", \"cnNameSearch\": \"望板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing plate\", \"wordSearch\": \"wing plate\"}, {\"languageType\": 1, \"word\": \"bat wing\", \"wordSearch\": \"bat wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安装在浮标灯架上用于显示浮标外形的附加装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f23f96160bb0424cad8b479735bae777\", \"databaseId\": null, \"standardId\": \"2fd4341062c84847ac755c7173f867c2\", \"standardCode\": \"GB 50734—2012\", \"standardName\": \"冶金工业建设钻探技术规范\", \"standardEnName\": \"Technical code for drilling of metallurgical industry construction\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.31\", \"cnName\": \"冀片钻头\", \"enName\": \"wing bit\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50887, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"冀片钻头\", \"cnNameSearch\": \"冀片钻头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing bit\", \"wordSearch\": \"wing bit\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由镶焊刀具的若干翼片构成的破碎岩土的钻头，也称刮刀钻头。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"777869eb799349c3a1bbc9c2b5ba0bf2\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.8.111\", \"cnName\": \"翼墙\", \"enName\": \"wing wall\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126374, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼墙\", \"cnNameSearch\": \"翼墙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing wall\", \"wordSearch\": \"wing wall\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建在闸、坝等水工建筑物上下游的两侧，用以引导水流并兼有挡土及侧向防渗作用的建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0d0ad0e22a2840738de7cc784994bf49\", \"databaseId\": null, \"standardId\": \"5788d9de31d14fc29f576d34911b9b20\", \"standardCode\": \"GB/T 41830—2022\", \"standardName\": \"畜禽屠宰加工设备 家禽脱毛设备 \", \"standardEnName\": \"Livestock and poultry slaughtering and processing equipment— Poultry plucking equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.6\", \"cnName\": \"翅中折断\", \"enName\": \"broken wing\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 67.120.10\", \"ccs\": \"CCS X 99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90060, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翅中折断\", \"cnNameSearch\": \"翅中折断\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"broken wing\", \"wordSearch\": \"broken wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"家禽翅的肱骨与尺骨折断或结合部脱臼的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0a36238c3d74459a56711f4a2939735\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.5.3.20\", \"cnName\": \"翼墙\", \"enName\": \"wing wall\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58808, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼墙\", \"cnNameSearch\": \"翼墙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing wall\", \"wordSearch\": \"wing wall\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建在闸、坝等水工建筑物上下游的两侧，用以引导水流并兼有挡土及侧向防渗作用的建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9b83bc9a76d842d2a4ea7ab72b9d2f44\", \"databaseId\": null, \"standardId\": \"31bc0af341bf48c58cc48bdb1ba8dd0f\", \"standardCode\": \"GB/T 6477—2008\", \"standardName\": \"金属切削机床 术语\", \"standardEnName\": \"Metal-cutting machine tools—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"13.4.1.2.1\", \"cnName\": \"侧底座\", \"enName\": \"wing base\", \"publishTime\": \"2008-08-11\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"25.080.01\", \"ccs\": \"J 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 53608, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"侧底座\", \"cnNameSearch\": \"侧底座\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing base\", \"wordSearch\": \"wing base\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与中间底座连接，用于安装动力部件、立柱等的支承部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e38c50f864ba44d3b48501744d9072b4\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.32\", \"cnName\": \"翼墙\", \"enName\": \"wing &nbsp;wall\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4419, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼墙\", \"cnNameSearch\": \"翼墙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing &nbsp;wall\", \"wordSearch\": \"wing &nbsp;wall\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"闸、坝等水工建筑物上下游的两侧用以引导水流并兼有挡土及侧向防渗作用的建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f14e00996994ea7932851e3fef88a73\", \"databaseId\": null, \"standardId\": \"5788d9de31d14fc29f576d34911b9b20\", \"standardCode\": \"GB/T 41830—2022\", \"standardName\": \"畜禽屠宰加工设备 家禽脱毛设备 \", \"standardEnName\": \"Livestock and poultry slaughtering and processing equipment— Poultry plucking equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.7\", \"cnName\": \"翅根折断\", \"enName\": \"broken wing root\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 67.120.10\", \"ccs\": \"CCS X 99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90051, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翅根折断\", \"cnNameSearch\": \"翅根折断\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"broken wing root\", \"wordSearch\": \"broken wing root\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"家禽翅的肱骨与肩胛骨折断或结合部脱臼的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fee59e733cc448e9b9f7e8004d87d952\", \"databaseId\": null, \"standardId\": \"5788d9de31d14fc29f576d34911b9b20\", \"standardCode\": \"GB/T 41830—2022\", \"standardName\": \"畜禽屠宰加工设备 家禽脱毛设备 \", \"standardEnName\": \"Livestock and poultry slaughtering and processing equipment— Poultry plucking equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.8\", \"cnName\": \"翅尖折断\", \"enName\": \"broken wing tip\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 67.120.10\", \"ccs\": \"CCS X 99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90059, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翅尖折断\", \"cnNameSearch\": \"翅尖折断\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"broken wing tip\", \"wordSearch\": \"broken wing tip\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"家禽翅的尺骨与掌骨折断或结合部脱臼的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84bdde1dca0c40d7b73742163a84ac94\", \"databaseId\": null, \"standardId\": \"5788d9de31d14fc29f576d34911b9b20\", \"standardCode\": \"GB/T 41830—2022\", \"standardName\": \"畜禽屠宰加工设备 家禽脱毛设备 \", \"standardEnName\": \"Livestock and poultry slaughtering and processing equipment— Poultry plucking equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.12\", \"cnName\": \"翅露白骨\", \"enName\": \"bone expesed wing\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 67.120.10\", \"ccs\": \"CCS X 99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90063, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翅露白骨\", \"cnNameSearch\": \"翅露白骨\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bone expesed wing\", \"wordSearch\": \"bone expesed wing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"肱骨与尺骨表皮破损露出骨节的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad13fa0406a44e3a8f3170e8ead1a5f4\", \"databaseId\": null, \"standardId\": \"88b102a9deb64212b93cb784bb9aaa67\", \"standardCode\": \"GB/T 21303—2017\", \"standardName\": \"灌溉渠道系统量水规范\", \"standardEnName\": \"Specifications for water measurement of irrigation canal system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"土木工程\", \"termCode\": \"3.30\", \"cnName\": \"机翼型量水槽\", \"enName\": \"wing-shaped flume\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"93.160\", \"ccs\": \"P 57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144141, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机翼型量水槽\", \"cnNameSearch\": \"机翼型量水槽\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing-shaped flume\", \"wordSearch\": \"wing-shaped flume\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"机翼形量水槽是在渠道两侧修筑仿机翼形槽壁,使水流通过时产生临界流,用以量测流量的量水设施。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"125fc259002141fdaf1757699acdc692\", \"databaseId\": null, \"standardId\": \"7709ae732ead402d9ce4732f6a0c5961\", \"standardCode\": \"GB/T 32455—2015\", \"standardName\": \"运载火箭术语\", \"standardEnName\": \"Terminology of launch vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"12.25\", \"cnName\": \"翼面安装误差\", \"enName\": \"wing assembly deviation\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 122592, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼面安装误差\", \"cnNameSearch\": \"翼面安装误差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing assembly deviation\", \"wordSearch\": \"wing assembly deviation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"翼面相对于设计基准的安装偏差。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"71deba90127a4921929773b0abbbc4c5\", \"databaseId\": null, \"standardId\": \"c2621949a6bd4b4e97fdbe020afa3213\", \"standardCode\": \"GB/T 6326—2014\", \"standardName\": \"轮胎术语及其定义\", \"standardEnName\": \"Tyre terms and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.4.17\", \"cnName\": \"航空器翼轮轮胎\", \"enName\": \"wing aircraft tyre\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2015-10-01\", \"ics\": \"83.160.0183\", \"ccs\": \"G41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 195412, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"航空器翼轮轮胎\", \"cnNameSearch\": \"航空器翼轮轮胎\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing aircraft tyre\", \"wordSearch\": \"wing aircraft tyre\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于航空器左右两机翼支撑架上的轮胎。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dc6ea92754f2419ea17d50bdf17d8902\", \"databaseId\": null, \"standardId\": \"2c7f7adf04714cddb731090bc0181f7c\", \"standardCode\": \"GB/T 38033—2019\", \"standardName\": \"水面飞行器水动力专业术语\", \"standardEnName\": \"Hydrodynamics terminology of water-based aircraft\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"2.3\", \"cnName\": \"地效飞行器\", \"enName\": \"wing-in-ground craft\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"49.02049\", \"ccs\": \"V04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 46753, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地效飞行器\", \"cnNameSearch\": \"地效飞行器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing-in-ground craft\", \"wordSearch\": \"wing-in-ground craft\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地效翼船\\n利用地面效应获得升力而飞行的水面飞行器\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a8d55f1499c84e8fa08781ba5e9ef71c\", \"databaseId\": null, \"standardId\": \"302a1f4e026449f188a11c2227e84a0a\", \"standardCode\": \"GB/T 3917.5—2009\", \"standardName\": \"纺织品织物撕破性能第5部分:翼形试样(单缝)撕破强力的测定\", \"standardEnName\": \"Textiles-Tear properties of fabrics—Part 5: Determination of tear force of wing—shaped test specimens (Single tear method)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.6\", \"cnName\": \"翼形试样\", \"enName\": \"wing-shaped test specimen\", \"publishTime\": \"2009-03-19\", \"publishYear\": \"2009\", \"implementTime\": \"2010-01-01\", \"ics\": \"59.080.3059\", \"ccs\": \"W04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51124, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼形试样\", \"cnNameSearch\": \"翼形试样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing-shaped test specimen\", \"wordSearch\": \"wing-shaped test specimen\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一端按规定角度是三角形的条形试样，按规定长度沿三角形顶角等分线剪开形成翼状的织物撕裂试验试样。（见图1和图2）\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dca2ae8fe41f46eaaeef851bc3ba3ae7\", \"databaseId\": null, \"standardId\": \"1486129688d34efaa1f24fafb955f354\", \"standardCode\": \"GB/T 3291.2—1997\", \"standardName\": \"纺织 纺织材料性能和试验术语 第2部分：织物\", \"standardEnName\": \"Textiles—Terms of textile material properties and test—Part 2: Fabric\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"2.21\", \"cnName\": \"翼形试样\", \"enName\": \"wing shaped test specimen\", \"publishTime\": \"1997-10-09\", \"publishYear\": \"1997\", \"implementTime\": \"1998-05-01\", \"ics\": \"59\", \"ccs\": \"W04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19650, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翼形试样\", \"cnNameSearch\": \"翼形试样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wing shaped test specimen\", \"wordSearch\": \"wing shaped test specimen\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一端按规定角度呈三角形的条形试样，按规定长度沿三角形顶角等分线剪开形成翼状的织物撕裂试验试样。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f35ceba8000343aaae2be1787e333eff\", \"databaseId\": null, \"standardId\": \"4be25068b3a241d0a5bffa58d9f6264f\", \"standardCode\": \"GB/T 2703—2017\", \"standardName\": \"鞋类 术语\", \"standardEnName\": \"Footwear—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.1.66\", \"cnName\": \"鞋头\", \"enName\": \"cap\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2018-07-01\", \"ics\": \"61.060\", \"ccs\": \"Y78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78963, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"鞋头\", \"cnNameSearch\": \"鞋头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cap\", \"wordSearch\": \"cap\"}, {\"languageType\": 1, \"word\": \"toe cap\", \"wordSearch\": \"toe cap\"}, {\"languageType\": 1, \"word\": \"wing cap\", \"wordSearch\": \"wing cap\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"覆盖脚趾部位的帮面。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794674163049}"
+}
