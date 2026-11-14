@@ -194,3 +194,6 @@
 | auriol | `doi.org:10.1007/…`（martin-2026） | `doi:10.1007/…` | doi 前缀格式（①） |
 | auriol | `The Stanford Encyclopedia Philosophy`（两条） | `…of Philosophy` | 缺 of（②） |
 | auriol | pasnau-2008 `P. Kärkkäin` | `Kärkkäinen` | 编者正名（①） |
+| moral-responsibility-empirical | 两个 `<h3>` 均编号 3.1（另一为 3.2） | 依次改 3.1／3.2／3.3 | 同页章节编号自相矛盾（②） |
+| moral-responsibility-empirical | hofmann-2012 `102(6): 1318&ndash;133OB5` | `1318&ndash;1335` | OCR 混入大写字母，起止页自证（①） |
+| moral-responsibility-empirical | sinnott-armstrong-2013 `<em>…Psychiatry</em>. pp. 851` | `</em>, pp. 851` | 句点误作逗号（①） |
