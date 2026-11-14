@@ -81,3 +81,5 @@
 | publichealth-ethics | notes.html `(Omerand et al. 2009; …)` | `(Omer et al. 2009; …)` | OCR 拼合（①）；不修则 omer-2009 引注静默丢失 |
 | schlegel | `Lacoue-Labarthe and J.-L. Nancy, 1978` | `Lacoue-Labarthe, P., and J.-L. Nancy` | 缺第一作者名首字母（①） |
 | schlegel | `deMan, P., 1996` | `de Man, P., 1996` | 姓氏分写（①） |
+| cockburn | `Eigtheenth Century` / `Eurpoean Philosophy`（×2） | `Eighteenth` / `European` | 拼写（①） |
+| cockburn | notes.html `grown son.In response` | `son. In response` | 缺空格（①） |

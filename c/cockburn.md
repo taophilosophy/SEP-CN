@@ -38,7 +38,7 @@
 
 ## 脚注
 
-[^note-1]: 近来关于考克本的生卒年出现了一些争议。根据玛格丽特·康纳（Margaret Connor）在其题为《凯瑟琳·特洛特：一个未知的孩子？》的文章中的说法，考克本在 1707 年 12 月 13 日的一封信中提及她儿子即将到来的婚事 [ANQ, vol. 8, #4, 1995: 11–14]。基于这一证据，康纳得出结论：考克本的生卒年似乎已被她自己或伯奇改动，因为她若要有一个成年的儿子，很可能已年过 28。然而，作为回应，安妮·凯利（Anne Kelley）在其著作《凯瑟琳·特洛特》（*Catharine Trotter*）中指出，这封信的稿本是一件抄本，并非出自考克本的手笔。她写道，很可能在转录中存在错误，而非康纳文章《凯瑟琳·特洛特：一位处于女权主义先锋地位的近代早期作家》所暗示的关于生卒年的任何掩饰（Hampshire, Eng., Ashgate, 2002, p.39）。我将继续采用托马斯·伯奇（Thomas Birch）收入《著作集》（*Works*）的传记所提供的日期，因为以我们目前有限的信息，无法判定她的生卒年是否正确。
+[^note-1]: 近来关于考克本的生卒年出现了一些争议。根据玛格丽特·康纳（Margaret Connor）在其题为《凯瑟琳·特洛特：一个未知的孩子？》的文章中的说法，考克本在 1707 年 12 月 13 日的一封信中提及她儿子即将到来的婚事 [ANQ, vol. 8, #4, 1995: 11–14]。基于这一证据，康纳得出结论：考克本的生卒年似乎已被她自己或伯奇改动，因为若要有一个成年的儿子，她很可能已年过 28。然而，作为回应，安妮·凯利（Anne Kelley）在其著作《凯瑟琳·特洛特》（*Catharine Trotter*）中指出，这封信的稿本是一件抄本，并非出自考克本的手笔。她写道，很可能在转录中存在错误，而非康纳文章《凯瑟琳·特洛特：一位处于女权主义先锋地位的近代早期作家》所暗示的关于生卒年的任何掩饰（Hampshire, Eng., Ashgate, 2002, p.39）。我将继续采用托马斯·伯奇（Thomas Birch）收入《著作集》（*Works*）的传记所提供的日期，因为以我们目前有限的信息，无法判定她的生卒年是否正确。
 
 ## 参考文献
 
@@ -54,7 +54,7 @@
 
 [^atherton-1994]: Atherton, Margaret, 1994, *Women Philosophers of the Early Modern Period*, Indianapolis: Hackett Publishing.
 
-[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eigtheenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
+[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eighteenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
 
 [^boeker-2022]: Boeker, Ruth, 2022, “Hutcheson and His Critics and Opponents of the Moral Sense,” in *The Journal of Scottish Philosophy*, 20 (2): 143–161.
 
@@ -104,7 +104,7 @@
 
 [^sheridan-2022]: –––, 2022, “Locke and Catharine Trotter Cockburn,” in *The Lockean Mind*, Jessica Gordon-Roth and Shelley Weinberg (eds.), New York: Routledge, 27–32.
 
-[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
+[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
 
 [^thomas-2013]: Thomas, Emily, 2013, “Catharine Trotter Cockburn on Substantival Space,” in *History of Philosophy Quarterly*, 30 (30): 195–214.
 
@@ -112,7 +112,7 @@
 
 [^thomas-2017]: –––, 2017, “Creation, Divine Freedom, and Catharine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws,” in *Women and Liberty, 1600–1800*, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, 206–220.
 
-[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
+[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
 
 [^waithe-1991]: Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in *Modern Women Philosophers, 1600–1900*, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
 
@@ -127,7 +127,7 @@
 
 ## 其他网络资源
 
-* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
+* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”，载《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*）。
 
 ## 相关词条
 
