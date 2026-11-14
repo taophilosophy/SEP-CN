@@ -31,18 +31,12 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
-from tools import check_terms  # noqa: E402
+from tools.register_lib import norm_key as fold, person_path, term_path  # noqa: E402
 
-REG = os.path.join(ROOT, 'shu-yu-biao.md')
-REN = os.path.join(ROOT, 'ren-ming-biao.md')
+REG = term_path()
+REN = person_path()
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
-
-
-def fold(text):
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
 
 
 def main_forms(trans):
