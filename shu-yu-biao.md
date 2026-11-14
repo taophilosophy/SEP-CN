@@ -339,7 +339,7 @@
 | apoha | अपोह | 遮诠（apoha，字面义"排除"） | epistemology-language-tibetan | 佛学界通译（遮诠说） | 2026-11-04 |
 | apologetics | — | 护教学 | gianfrancesco-pico | 基督教研究通行；正文用“基督教护教学”“护教意图” | 2026-11-09 |
 | apoptosis | — | 细胞凋亡 | model-organisms 首译 | 细胞生物学通行译名；凭证 2026-11-09 | 2026-11-09 |
-| Apostolic poverty | — | 使徒贫困 | ockham | 中国社会科学网教会史文献通行（亦作使徒贫穷）；凭证 2026-11-07 | 2026-11-07 |
+| Apostolic poverty | — | 使徒贫困（亦作“使徒贫穷”） | ockham | 中国社会科学网教会史文献通行（亦作使徒贫穷）；凭证 2026-11-07 | 2026-11-07 |
 | apparentia | apparentia | 显现（事物呈现自身的方式） | 首现（simon-faversham） | 学界（模态主义者认识论，保留拉丁首现括注）；凭证 2026-11-08 | 2026-11-08 |
 | appearing object（snang yul） | སྣང་ཡུལ་ | 显现境（snang yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
 | appellation | — | 称谓 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -1825,7 +1825,7 @@
 | evection | — | 出差 | newton-principia | 月球运动理论通行（月球不等项之一）；凭证 2026-11-11 | 2026-11-11 |
 | Everettian | — | 埃弗雷特（形容词用法作“埃弗雷特式的”） | qm-relational | 词汇表主形对齐（qian-yan/ci-hui-biao.md 行 865；亦作“埃弗雷特式的”）；凭证 2026-11-11 | 2026-11-11 |
 | everyday aesthetics | — | 日常美学 | 首现（environmental-aesthetics） | 学界通行（与 aesthetics-of-everyday 同族） | 2026-11-08 |
-| evidence (Evidenz) | Evidenz | 明证性 | brentano-judgement 首译 | 布伦塔诺/现象学通行译法（亦作自明性，本词条取明证性）；凭证 2026-11-09 | 2026-11-09 |
+| evidence (Evidenz) | Evidenz | 明证性（亦作“自明性”） | brentano-judgement 首译 | 布伦塔诺/现象学通行译法（亦作自明性，本词条取明证性）；凭证 2026-11-09 | 2026-11-09 |
 | evidence-transcending | — | 越出证据的 | faith | 学界通行（宗教哲学）；凭证 2026-11-11 | 2026-11-11 |
 | evidential (linguistics) | — | 示证语 | dynamic-semantics | 语言学通行（evidentiality 示证范畴）；凭证 2026-11-12 | 2026-11-12 |
 | evidential ambiguity | — | 证据模糊 | faith | 学界通行（Hick 论题）；凭证 2026-11-11 | 2026-11-11 |
@@ -2990,7 +2990,7 @@
 | knowledge-that | — | 知识-那 | knowledge-value | 知识论通行（与 knowledge-how 对举的直译体例；命题知识之特称）；凭证 2026-11-08 | 2026-11-08 |
 | Kochen-Specker | — | 科亨-施佩克尔 | 语料回收（词汇表并网） | 学界通行（Kochen–Specker 定理语境，双人名连用）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Kochen-Specker theorem | — | 科亨-施佩克尔定理 | quantum-bayesian | 沿词条 k/kochen-specker 定名（H1 同形）；凭证 2026-11-12 | 2026-11-12 |
-| koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08 | 2026-11-08 |
+| koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文）（亦作“常识”） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08 | 2026-11-08 |
 | kokugaku | 国学 | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kokutai | 国体 | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
@@ -3181,7 +3181,7 @@
 | Lowell Lectures | — | 洛厄尔讲座 | peirce-benjamin | 讲座名通行音译（波士顿洛厄尔研究所系列讲座）；凭证 2026-11-09 | 2026-11-09 |
 | Löwenheim–Skolem–Tarski theorem | — |勒文海姆—斯科伦—塔斯基定理（亦作“司寇伦”）| axiom-choice | 学界通行（模型论）；2026-11-15 联网复核（全称通行，文献常用简称 LST 定理；Skolem 亦作“司寇伦”，保留现行斯科伦形） | 2026-11-15 |
 | Löwenheim-Skolem theorem | Löwenheim-Skolem theorem | 勒文海姆–斯科伦定理（亦作“L-S定理”） | 语料回收 | 学界惯例（数理逻辑通行）；审定库缩略形“降L-S定理”在案（凭证 2026-10-30） | 2026-10-30 |
-| lower envelope / upper envelope | — | 下包络／上包络 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行；亦作下／上概率）；凭证 2026-11-08 | 2026-11-08 |
+| lower envelope / upper envelope | — | 下包络／上包络（亦作“下／上概率”） | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行；亦作下／上概率）；凭证 2026-11-08 | 2026-11-08 |
 | Lucasian Professor of Mathematics | — | 卢卡斯数学教授 | newton | 剑桥大学教席通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | luck egalitarianism | — | 运气平等主义 | disability-care-rationing | 政治哲学通行（Arneson 等）；凭证 2026-11-08 | 2026-11-08 |
 | luminosity (nitzutz) | — | 发光性 | gersonides | 源文 Gersonides 术语 *nitzutz* 的英译；正文随文括注原词 | 2026-11-09 |
@@ -3993,7 +3993,7 @@
 | pacifism | — | 和平主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | pada | पद | 词 | early-modern-india | 胜论句义词源分析（word；padārtha 之 pada）；凭证 2026-11-11 | 2026-11-11 |
 | padārtha | पदार्थ | 句义 | early-modern-india 首译 | 玄奘《胜宗十句义论》古译通行（胜论范畴；“范畴”随文并用）；凭证 2026-11-10 | 2026-11-10 |
-| paideia | παιδεία | 文化教养（首现括注 *paideia*） | olympiodorus | 古典学通行译法（亦作教化/人文教育）；凭证 2026-11-08 | 2026-11-08 |
+| paideia | παιδεία | 文化教养（首现括注 *paideia*）（亦作“教化/人文教育”） | olympiodorus | 古典学通行译法（亦作教化/人文教育）；凭证 2026-11-08 | 2026-11-08 |
 | pakṣa | पक्ष | 处所（所别） | early-modern-india | 因明传统译“所别”，源文作 locus 随文作“处所”；凭证 2026-11-10 | 2026-11-10 |
 | pakṣadharmatā | पक्षधर्मता | 宗法性 | early-modern-india | 因明传统译名（三相当中第一相“遍是宗法性”）；凭证 2026-11-10 | 2026-11-10 |
 | pakṣaṭā | पक्षता | 宗未决性 | early-modern-india | 新正理通行义译（推理者尚未知结论之条件；与宗法性分立）；凭证 2026-11-10 | 2026-11-10 |
@@ -4410,7 +4410,7 @@
 | principle of duality | — | 对偶原理 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | principle of identity of indiscernibles | — |不可分辨者同一律（亦作“不可分辨者的同一性原理”）| rationalism-early-modern | 学界通行（莱布尼茨 PII；亦作“不可分辨者的同一性原理”） | 2026-11-06 |
 | principle of incombinability | — | 不可组合原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
-| principle of indifference | — | 无差别原则 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
+| principle of indifference | — | 无差别原则（亦作“不充分理由原则”） | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
 | principle of individuation | principium individuationis | 个体化原理（亦作“个体化原则”） | 首现（simon-faversham） | 学界通行；凭证 2026-11-08；2026-11-15 补亦作（审定形，原理/原则两形并行） | 2026-11-15 |
 | publicity | — | 公开性 | journal 2024-05-28 | 学界通行（Gosseries & Parr 词条语境，民主与透明）；2026-11-15 日志增补 | 2026-11-15 |
 | archdeacon | — | 总执事 | journal 2024-05-23 | 中世纪教职史文献（日志 2024-05-25 考据：黄旭华李盛兵 2018、高露 2021、黄梦婉 2017 等，与 Chancellor 总务长行族配套） | 2026-11-15 |
@@ -5369,7 +5369,7 @@
 | spiritual matter / corporeal matter | — | 精神的质料／有形的质料 | binarium 首译 | 构词直译（materia spiritualis）；凭证 2026-11-08 | 2026-11-08 |
 | spiritual sense | — | 灵性感官 | edwards 首译 | 学界惯例（基督教灵修传统 spiritual senses；本文统一“灵性感官”，不混用“属灵感官”）；凭证 2026-11-10 | 2026-11-10 |
 | spiritualism | — | 唯灵论（≠唯心论 idealism；hartshorne 实抓误译） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
-| Spirituals | — | 属灵派 | ockham | 方济各会史通译（亦作灵修派；勿与 15 世纪 Observants 守规派混同）；凭证 2026-11-07 | 2026-11-07 |
+| Spirituals | — | 属灵派（亦作“灵修派”） | ockham | 方济各会史通译（亦作灵修派；勿与 15 世纪 Observants 守规派混同）；凭证 2026-11-07 | 2026-11-07 |
 | spiritus | — | 精气 | 首现（telesio） | 学界惯例（文艺复兴自然主义 spiritus 通译精气/元气，取精气）；凭证 2026-11-08 | 2026-11-08 |
 | spiritus e semine eductus | — | 由种子导出的精气 | 首现（telesio） | 照文直译（特莱西奥《论物性》卷五术语）；凭证 2026-11-08 | 2026-11-08 |
 | spiritus naturalis / vitalis / animalis | — | 自然精气／活力精气／动物精气 | 首现（telesio） | 学界通行（盖伦三精气通译）；凭证 2026-11-08 | 2026-11-08 |
@@ -5944,7 +5944,7 @@
 | truth-functional | — | 真值函项的 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
 | truth-functionality | — | 真值函项性 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | truth-maker | — | 真值制造者（亦作“真理制造者”） | reinach；首现（truth-coherence）；首现（simon-faversham） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker；与 truthmaker theory 真值制造理论 同族）；simon-faversham 等篇用“真理制造者”，待三校对齐；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| truth-tracking properties | — | 求真性质 | belief-merging | 直译（Hartmann et al. 语境；知识论亦作追踪真理）；凭证 2026-11-10 | 2026-11-10 |
+| truth-tracking properties | — | 求真性质（亦作“追踪真理”） | belief-merging | 直译（Hartmann et al. 语境；知识论亦作追踪真理）；凭证 2026-11-10 | 2026-11-10 |
 | Truthlikeness | — |似真性（亦作“逼真性”）| 语料回收（词汇表并网） | 波普尔 verisimilitude，中译亦作“逼真性”；词汇表并网（ADR-0036） | 2026-11-13 |
 | truthmaker theory | — | 真值制造理论 | necessary-sufficient | 与 truth-maker 真值制造者（truth-coherence 既有行）同族；凭证 2026-11-08 | 2026-11-08 |
 | truthmakers | — | 使真者 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
