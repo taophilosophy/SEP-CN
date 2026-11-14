@@ -2,10 +2,347 @@
  "key": "pelczynski, z. a.",
  "term": "Pelczynski, Z. A.",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:25+00:00",
- "status": "error",
- "note": "variant=Pelczynski, Z. A.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Pelczynski, Z. A.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:34:33+00:00",
+ "status": "ok",
+ "note": "variant=Pelczynski, Z. A.; 审定公布名词库=1486; 海峡两岸名词对照库=312; 其他来源数据库=366; 预公布名词数据库=69; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "Z型传动",
+   "en": "Z transmission,Z drive",
+   "code": "15.0884",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_轮机管理"
+  },
+  {
+   "cn": "Z箍缩",
+   "en": "Z-pinch",
+   "code": "3.423",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_惯性约束聚变"
+  },
+  {
+   "cn": "Z形腭咽成形术",
+   "en": "Z-palatoplasty",
+   "code": "5.123",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病治疗学_外科治疗"
+  },
+  {
+   "cn": "蛋白Z",
+   "en": "protein Z",
+   "code": "2.158",
+   "standard": "血液学名词",
+   "subject": "血液学_基础_血浆成分_抗凝系统"
+  },
+  {
+   "cn": "z变换",
+   "en": "z-transform",
+   "code": "01.2683",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震信号处理"
+  },
+  {
+   "cn": "Z染色体",
+   "en": "Z chromosome",
+   "code": "2.204",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "Z线",
+   "en": "Z line",
+   "code": "3.0231",
+   "standard": "动物学名词",
+   "subject": "动物学_动物组织学_肌肉组织"
+  },
+  {
+   "cn": "Z染色体",
+   "en": "Z chromosome",
+   "code": "04.183",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_细胞遗传学"
+  },
+  {
+   "cn": "Z成形术",
+   "en": "Z-plasty",
+   "code": "04.0046",
+   "standard": "手外科学名词",
+   "subject": "手外科学_上肢损伤"
+  },
+  {
+   "cn": "Z线",
+   "en": "Z-line",
+   "code": "02.436",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "Z分数",
+   "en": "Z score",
+   "code": "10.127",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_肝移植_肝移植适应证与受者评估"
+  },
+  {
+   "cn": "Z值",
+   "en": "Z value",
+   "code": "02.0258",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品微生物学_食品微生物污染"
+  },
+  {
+   "cn": "起止[脉冲]比",
+   "en": "A/Z ratio",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "Z线，Z膜",
+   "en": "Z line\",\"Z membrane",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "Z型传动",
+   "en": "Z transmission\",\"Z drive",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "Z带",
+   "en": "Z band",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "Z膜",
+   "en": "Z membrane",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "Z盘",
+   "en": "Z disc",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "Z丝",
+   "en": "Z filament",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "Z线",
+   "en": "Z line",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "z坐标",
+   "en": "z coordinate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "Z转换",
+   "en": "Z transformation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "Z 检验",
+   "en": "Z test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "Z理论",
+   "en": "theory Z",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "依法执政",
+   "en": "z",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "C5a受体",
+   "en": "C5a receptor5a1",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超核",
+   "en": "W′_and_Z′_bosons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无质量粒子",
+   "en": "W′_and_Z′_bosons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "染色体倒位",
+   "en": "hemophilia A",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "辅酶A",
+   "en": "coenzyme A",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维生素A过多症",
+   "en": "Hypervitaminosis A",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "免疫球蛋白A",
+   "en": "Immunoglobulin A",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "石杉碱甲",
+   "en": "Huperzine A",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "A组难度",
+   "en": "A difficulty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "A组裁判",
+   "en": "A-jury",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "A 阶段",
+   "en": "phase A",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "z值",
+   "en": "z value",
+   "code": "1.4.4.114",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "A波段紫外线",
+   "en": "ultraviolet A, UV-A",
+   "code": "2.2.7.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "安多",
+   "en": "A mdo",
+   "code": "3.0544",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "日本原子弹爆炸",
+   "en": "A-bombing",
+   "code": "10.2.2.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件"
+  },
+  {
+   "cn": "甲型肝炎",
+   "en": "hepatitis A",
+   "code": "3.1.2.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_感染型食源性疾病"
+  },
+  {
+   "cn": "双酚A",
+   "en": "bisphenol A",
+   "code": "2.2.3.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "安普里纳人",
+   "en": "Apuriña",
+   "code": "6.0326",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "code": "2.2.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "3A",
+   "en": "3A model",
+   "code": "17.1.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  },
+  {
+   "cn": "免疫球蛋白A",
+   "en": "immunoglobulin A， IgA",
+   "code": "1.3.4.30",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "A类毒剂",
+   "en": "A-series agent",
+   "code": "10.5.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "甲型肝炎病毒",
+   "en": "hepatitis A virus",
+   "code": "2.1.1.116",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  }
+ ],
+ "error": null,
  "raw": null
 }

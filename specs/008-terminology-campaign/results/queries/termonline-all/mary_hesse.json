@@ -2,10 +2,319 @@
  "key": "mary hesse",
  "term": "Mary Hesse",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:23+00:00",
- "status": "error",
- "note": "variant=Mary Hesse; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Mary Hesse: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:31:32+00:00",
+ "status": "ok",
+ "note": "variant=Mary Hesse; 审定公布名词库=322; 海峡两岸名词对照库=199; 其他来源数据库=57; 预公布名词数据库=8; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "赫斯定律",
+   "en": "Hess law",
+   "code": "02.0047",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess law",
+   "code": "04.0126",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_化学热力学"
+  },
+  {
+   "cn": "盖斯定律",
+   "en": "Hess law",
+   "code": "03.0006",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_无机非金属材料_无机非金属材料基础"
+  },
+  {
+   "cn": "亨特-赫斯分级",
+   "en": "Hunt-Hess grade",
+   "code": "8.008",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_脑血管疾病_概述"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess's law",
+   "code": "01.601",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess’s law",
+   "code": "04.0116",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess's law",
+   "code": "02.048",
+   "standard": "化学工程名词",
+   "subject": "化学工程_化工热力学_化工热力学基本概念"
+  },
+  {
+   "cn": "马里城学校",
+   "en": "mari's school",
+   "code": "04.012",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "乳房下皱襞紧缩",
+   "en": "constricted inframam-mary fold",
+   "code": "18.071",
+   "standard": "整形外科名词",
+   "subject": "整形外科_乳房整形_乳房形态异常"
+  },
+  {
+   "cn": "夏科-马里-图思病",
+   "en": "Charcot-Marie-Tooth disease",
+   "code": "07.413",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "乳腺后脓肿",
+   "en": "retromammary abscess,postmam- mary abscess",
+   "code": "01.013",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_普通外科学"
+  },
+  {
+   "cn": "强直性脊柱炎",
+   "en": "ankylosing spondylitis,Marie- Stru&4&mpell disease",
+   "code": "05.107",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_骨科学"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess law",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess law",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "海斯隆起",
+   "en": "Hess Rise",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "赫斯",
+   "en": "Hess\",\"Myra(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "索尔达特",
+   "en": "Soldat\",\"Marie(奥地利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "赫斯定律",
+   "en": "Hess’s law",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "维多尔",
+   "en": "Widor\",\"Charles-Marie(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪朗，玛丽-奥古斯特",
+   "en": "Durand\",\"Marie Auguste(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马松",
+   "en": "Mason\",\"Paul Marie(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "布多什",
+   "en": "Budoš\",\"Marián(斯洛伐克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "勒克莱尔",
+   "en": "Leclair\",\"Jean-Marie(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "玛丽王后的葬礼音乐",
+   "en": "Queen Mary’s Funeral Music",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "念珠菌属",
+   "en": "Christine Marie Berkhout",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "进行性神经性腓骨肌萎缩症",
+   "en": "Charcot-Marie-Tooth disease",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "着地痕迹",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "落地痕迹",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "助跑标记",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "标记！",
+   "en": "Mark!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "母马",
+   "en": "mare",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "航标",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "母马",
+   "en": "mare",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "报分",
+   "en": "mark\",\"signal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "马里人",
+   "en": "Mari",
+   "code": "6.0271",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_欧洲地区"
+  },
+  {
+   "cn": "玛尔巴",
+   "en": "Mar pa",
+   "code": "3.0405",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "五月风暴",
+   "en": "May storm",
+   "code": "05.0217",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "国际马克思大会",
+   "en": "international Marx convention",
+   "code": "05.0280",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "马奶节",
+   "en": "Mare Milk Festival",
+   "code": "4.0215",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "马克思学说研究会",
+   "en": "Marx Theory Research Association",
+   "code": "04.0446",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期"
+  },
+  {
+   "cn": "五四运动",
+   "en": "May th Movement of",
+   "code": "04.0255",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_中国化的马克思主义时期"
+  },
+  {
+   "cn": "从新民主主义革命到社会主义革命转变的标志",
+   "en": "mark of a shift from new democratic revolution to socialist revolution",
+   "code": "03.0381",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

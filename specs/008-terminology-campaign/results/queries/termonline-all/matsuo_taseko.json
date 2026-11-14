@@ -2,10 +2,319 @@
  "key": "matsuo taseko",
  "term": "Matsuo Taseko",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:23+00:00",
- "status": "error",
- "note": "variant=Matsuo Taseko; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Matsuo Taseko: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:31:32+00:00",
+ "status": "ok",
+ "note": "variant=Matsuo Taseko; 审定公布名词库=96; 海峡两岸名词对照库=74; 其他来源数据库=8; 预公布名词数据库=15; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "俣野面",
+   "en": "Matano surface",
+   "code": "04.0670",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金物理化学研究方法"
+  },
+  {
+   "cn": "三井财阀",
+   "en": "Mitsui Zaibatsu",
+   "code": "04.0064",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚"
+  },
+  {
+   "cn": "马头山羊",
+   "en": "Matou goat",
+   "code": "03.401",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_家畜家禽品种_山羊品种_地方山羊品种"
+  },
+  {
+   "cn": "西瓜",
+   "en": "watermelon; Citrullus lanatus (Thunb.) Matsum & Nakai",
+   "code": "05.172",
+   "standard": "农学名词",
+   "subject": "园艺作物_蔬菜作物"
+  },
+  {
+   "cn": "淋巴瘤性乳头状囊腺瘤",
+   "en": "papillary cystadenoma lympho- matosum",
+   "code": "04.305",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔病理学"
+  },
+  {
+   "cn": "糯稻",
+   "en": "glutinous rice; Oryza sativa var. glutinosa Matsum.",
+   "code": "02.022",
+   "standard": "农学名词",
+   "subject": "粮食作物_谷类作物"
+  },
+  {
+   "cn": "家族性腺瘤性息肉病",
+   "en": "familial adeno-matous polyposis;FAP",
+   "code": "5.262",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "播散性盘状红斑狼疮",
+   "en": "disseminated discoid lupus erythe-matosus",
+   "code": "03.0458",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "小贯小绿叶蝉",
+   "en": "green tea leafhopper; Empoasca onukii Matsuda",
+   "code": "10.184",
+   "standard": "农学名词",
+   "subject": "植物保护_作物虫害"
+  },
+  {
+   "cn": "儿童慢性肉芽肿病",
+   "en": "chronic granulo-matous disease in children",
+   "code": "14.10.7.2",
+   "standard": "肝病学名词",
+   "subject": "肝病学_小儿肝病_儿童系统疾病肝脏受累"
+  },
+  {
+   "cn": "双任务",
+   "en": "dual tasks",
+   "code": "04.262",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_学习与记忆"
+  },
+  {
+   "cn": "任务",
+   "en": "task",
+   "code": "05.0405",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "松野格式",
+   "en": "Matsuno scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "内田光子",
+   "en": "Uchida\",\"Mitsuko(日本)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马祖尔，库尔特",
+   "en": "Masur\",\"Kurt(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "忒西奥",
+   "en": "Teseo",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "阿列科",
+   "en": "Aleko",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "马里奥",
+   "en": "Mario\",\"Giovanni Matteo(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "任务",
+   "en": "task",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "任务管理程序",
+   "en": "task supervisor\",\"task manager",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "任务分析",
+   "en": "task analysis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "任务绩效",
+   "en": "task performance",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "任务定向",
+   "en": "task orientation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "发展任务",
+   "en": "developmental task",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保护人员垫",
+   "en": "spotter mats",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "底线任务",
+   "en": "bottom-line tasks",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "任务调度",
+   "en": "task scheduling",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "通用信息模型",
+   "en": "Distributed Management Task Force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际互联网工程任务组",
+   "en": "Internet Engineering Task Force (IETF)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "互联网研究专门工作组",
+   "en": "Internet Research Task Force (IRTF)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "反洗钱金融行动特别工作组",
+   "en": "Financial Action Task Force on Money Laundering (FATF)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "马塔科人",
+   "en": "Mataco",
+   "code": "6.0313",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "code": "03.0105",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "第巴桑结嘉措",
+   "en": "Sde pa sangs rgyas rgya mtsho",
+   "code": "3.0388",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "code": "03.0824",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "code": "5.4.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  },
+  {
+   "cn": "任务中心模式",
+   "en": "task-centered model",
+   "code": "4.4.8.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式"
+  },
+  {
+   "cn": "最大的政治",
+   "en": "biggest political task",
+   "code": "04.0182",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "社会主义的根本任务",
+   "en": "fundamental task of socialism",
+   "code": "03.0586",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的历史任务",
+   "en": "historical task of the Party",
+   "code": "03.0716",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "民族工作主线",
+   "en": "central task in ethnic work",
+   "code": "2.0155",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "code": "03.0409",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "code": "03.0626",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
