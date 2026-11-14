@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8458,
-  "一致": 1282,
+  "查无": 8534,
+  "一致": 1284,
   "不一致": 811,
-  "未查证": 331
+  "未查证": 253
  },
  "results": [
   {
@@ -35447,8 +35447,8 @@
    "table": "术语",
    "line": 1638,
    "term": "elliptic geometry",
-   "trans": "椭圆几何（亦作“椭圆几何学”）",
-   "basis": "数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th）；2026-11-15 补亦作（审定形）",
+   "trans": "椭圆几何",
+   "basis": "数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th）",
    "status": "不一致",
    "hits": [
     {
@@ -35456,17 +35456,10 @@
      "cn": "椭圆几何[学]",
      "en": "elliptic geometry",
      "source": "数学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "椭圆几何[学]",
-     "en": "elliptic geometry",
-     "source": "审定形（括注可选后缀“学”）；通行“椭圆几何”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -35522,9 +35515,9 @@
    "table": "术语",
    "line": 1642,
    "term": "embryo twinning / embryo splitting",
-   "trans": "胚胎孪生／胚胎分裂（亦作“胚胎分割”）",
-   "basis": "学界惯例（生殖医学通行）；凭证 2026-11-07；2026-11-15 补亦作（审定技术名形）",
-   "status": "一致",
+   "trans": "胚胎孪生／胚胎分裂",
+   "basis": "学界惯例（生殖医学通行）；凭证 2026-11-07",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -35549,17 +35542,10 @@
      "cn": "胚胎分割",
      "en": "embryo splitting",
      "source": "组织学与胚胎学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "胚胎分割",
-     "en": "embryo splitting",
-     "source": "审定技术名形；通行“胚胎分裂/胚胎孪生”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -36089,27 +36075,20 @@
    "table": "术语",
    "line": 1659,
    "term": "empirically equivalent",
-   "trans": "经验等价的（亦作“经验等价”“经验等价的理论”）",
-   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）；2026-11-15 译法列格式归一（审定形入亦作）",
-   "status": "一致",
+   "trans": "经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "经验等价的理论",
      "en": "empirically equivalent theory",
      "source": "自然辩证法名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "经验等价的理论",
-     "en": "empirically equivalent",
-     "source": "审定复合形；通行“经验等价的”"
     }
    ],
    "providers": [
     "termonline-all",
     "termonline-standard",
-    "web-authority",
     "youdao-aux"
    ]
   },
@@ -36936,9 +36915,9 @@
    "table": "术语",
    "line": 1699,
    "term": "environmental ethics",
-   "trans": "环境伦理学（亦作“环境伦理”）",
-   "basis": "学界通行（应用伦理学分支）；2026-11-15 补亦作（审定形）",
-   "status": "一致",
+   "trans": "环境伦理学",
+   "basis": "学界通行（应用伦理学分支）",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -36957,17 +36936,10 @@
      "cn": "环境美德伦理",
      "en": "environmental virtue ethics",
      "source": "自然辩证法名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "环境伦理",
-     "en": "environmental ethics",
-     "source": "审定形（学科名不带学）；通行“环境伦理学”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -38582,26 +38554,19 @@
    "table": "术语",
    "line": 1801,
    "term": "ethical intuitionism",
-   "trans": "伦理直觉主义（亦作“直觉主义伦理学”）",
-   "basis": "学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08；2026-11-15 补亦作（审定形，元伦理学文献两语序并行）",
-   "status": "一致",
+   "trans": "伦理直觉主义",
+   "basis": "学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "直觉主义伦理学",
      "en": "ethical intuitionism",
      "source": "医学伦理学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "直觉主义伦理学",
-     "en": "ethical intuitionism",
-     "source": "审定形；元伦理学文献“伦理直觉主义”并行"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -40915,26 +40880,19 @@
    "table": "术语",
    "line": 1897,
    "term": "explanans",
-   "trans": "解释项（亦作“说明项”）",
-   "basis": "学界通行（科学说明）；凭证 2026-11-07；2026-11-15 补亦作（审定形；亨佩尔说明理论文献“解释项/说明项”两形并行，与 explanandum 被说明项对举）",
-   "status": "一致",
+   "trans": "解释项",
+   "basis": "学界通行（科学说明）；凭证 2026-11-07",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "说明项",
      "en": "explanans",
      "source": "自然辩证法名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "说明项",
-     "en": "explanans",
-     "source": "审定形；亨佩尔说明理论文献“解释项/说明项”并行"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -41027,26 +40985,19 @@
    "table": "术语",
    "line": 1903,
    "term": "explanatory power",
-   "trans": "说明力（亦作“说明能力”）",
-   "basis": "科学哲学通行汉译；凭证 2026-11-08；2026-11-15 补亦作（审定形）",
-   "status": "一致",
+   "trans": "说明力",
+   "basis": "科学哲学通行汉译；凭证 2026-11-08",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "说明能力",
      "en": "explanatory power",
      "source": "自然辩证法名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "说明能力",
-     "en": "explanatory power",
-     "source": "审定形；通行“说明力/解释力”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -41108,26 +41059,19 @@
    "table": "术语",
    "line": 1908,
    "term": "explicit definition",
-   "trans": "显式定义（亦作“显定义”）",
-   "basis": "逻辑学通行（与隐定义相对）；2026-11-15 补亦作（审定形）",
-   "status": "一致",
+   "trans": "显式定义",
+   "basis": "逻辑学通行（与隐定义相对）",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "显定义",
      "en": "explicit definition",
      "source": "自然辩证法名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "显定义",
-     "en": "explicit definition",
-     "source": "审定形；逻辑学“显式定义/显定义”并行（与隐定义相对）"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -42020,9 +41964,9 @@
    "table": "术语",
    "line": 1942,
    "term": "extraversion",
-   "trans": "外向性（亦作“外向”）",
-   "basis": "大五特质通行汉译；凭证 2026-11-10；2026-11-15 补亦作（审定短形）",
-   "status": "一致",
+   "trans": "外向性",
+   "basis": "大五特质通行汉译；凭证 2026-11-10",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -42035,17 +41979,10 @@
      "cn": "外向",
      "en": "extraversion",
      "source": "海峡两岸心理学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "外向",
-     "en": "extraversion",
-     "source": "审定短形；大五标准“外向性”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -44328,9 +44265,9 @@
    "table": "术语",
    "line": 2044,
    "term": "Five-Factor Model",
-   "trans": "五因素模型（亦作“人格五因素模型”）",
-   "basis": "人格心理学通行汉译（Costa & McCrae）；凭证 2026-11-10；2026-11-15 补亦作（审定全称形）",
-   "status": "一致",
+   "trans": "五因素模型",
+   "basis": "人格心理学通行汉译（Costa & McCrae）；凭证 2026-11-10",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -44349,17 +44286,10 @@
      "cn": "人格五因素模型",
      "en": "five factor personality model",
      "source": "海峡两岸心理学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "人格五因素模型",
-     "en": "Five-Factor Model",
-     "source": "审定全称形；通行“五因素模型”（Costa & McCrae）"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -46148,9 +46078,9 @@
    "table": "术语",
    "line": 2104,
    "term": "frame of reference",
-   "trans": "参照系（亦作“参照框架”）",
-   "basis": "学界惯例（物理学通行）；2026-11-15 补亦作（审定形；心理学/认知科学语境用“参照框架”，分义注记）",
-   "status": "一致",
+   "trans": "参照系",
+   "basis": "学界惯例（物理学通行）",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -46187,17 +46117,10 @@
      "cn": "内部参考系",
      "en": "internal frame of reference",
      "source": "海峡两岸心理学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "参照框架",
-     "en": "frame of reference",
-     "source": "审定形；物理学“参照系”，心理学/认知科学“参照框架”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -47318,9 +47241,9 @@
    "table": "术语",
    "line": 2144,
    "term": "fundamentalism",
-   "trans": "基要主义（亦作“基本教义主义”）",
-   "basis": "学界通行（宗教研究；基督教基要派专用义）；凭证 2026-11-11；2026-11-15 补亦作（审定形；泛宗教语境国内通行“原教旨主义”，分义注记不并）",
-   "status": "一致",
+   "trans": "基要主义",
+   "basis": "学界通行（宗教研究）；凭证 2026-11-11",
+   "status": "不一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -47333,17 +47256,10 @@
      "cn": "原教旨主义",
      "en": "fundamentalism",
      "source": "社会学名词"
-    },
-    {
-     "provider": "web-authority",
-     "cn": "基本教义主义",
-     "en": "fundamentalism",
-     "source": "审定形；基督教基要派专用“基要主义”，泛宗教语境“原教旨主义”"
     }
    ],
    "providers": [
-    "termonline-all",
-    "web-authority"
+    "termonline-all"
    ]
   },
   {
@@ -61766,9 +61682,9 @@
    "table": "术语",
    "line": 2747,
    "term": "intelligent design",
-   "trans": "智能设计论",
-   "basis": "学界惯例（科学哲学与宗教哲学文献通行译法，亦作“智能设计”）；审定命中“智能设计”为机械工程域不采（termonline-all 浏览器通道凭证 2026-10-31）",
-   "status": "不一致",
+   "trans": "智能设计论（亦作“智能设计”）",
+   "basis": "学界惯例（科学哲学与宗教哲学文献通行译法）；审定命中“智能设计”为机械工程域不采（termonline-all 浏览器通道凭证 2026-10-31）；2026-11-15 亦作自依据列移入译法列",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -61787,10 +61703,17 @@
      "cn": "智能建筑设计标准",
      "en": "standard for design of intelligent buildings",
      "source": "大数据百科术语辞典"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "智能设计",
+     "en": "intelligent design",
+     "source": "审定/通用形“智能设计”；通行“智能设计论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -62816,19 +62739,26 @@
    "table": "术语",
    "line": 2800,
    "term": "intrinsic property",
-   "trans": "内在属性",
-   "basis": "哲学通行译法；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "内在属性（亦作“内禀属性”）",
+   "basis": "哲学通行译法；凭证 2026-11-09；2026-11-15 补亦作（审定形，物理学语境“内禀”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "内禀属性",
      "en": "intrinsic property",
      "source": "物理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "内禀属性",
+     "en": "intrinsic property",
+     "source": "审定形（物理学语境“内禀”）；形而上学“内在属性”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -63708,9 +63638,9 @@
    "table": "术语",
    "line": 2837,
    "term": "isometry",
-   "trans": "等距（映射）",
-   "basis": "学界惯例（几何学通行）",
-   "status": "不一致",
+   "trans": "等距（映射）（亦作“等度规”）",
+   "basis": "学界惯例（几何学通行）；2026-11-15 补亦作（审定形，广义相对论语境）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -63723,10 +63653,17 @@
      "cn": "等距同构",
      "en": "isometry",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "等度规",
+     "en": "isometry",
+     "source": "审定形（广义相对论语境）；几何学“等距（映射）”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -64305,19 +64242,26 @@
    "table": "术语",
    "line": 2862,
    "term": "Jacobin",
-   "trans": "雅各宾",
-   "basis": "法国大革命派别，学界千年通行译名；凭证 2026-11-11（主会话直译 g/gramsci）",
-   "status": "不一致",
+   "trans": "雅各宾（亦作“雅各宾派”）",
+   "basis": "法国大革命派别，学界千年通行译名；凭证 2026-11-11（主会话直译 g/gramsci）；2026-11-15 补亦作（审定集团名义形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "雅各宾派",
      "en": "Jacobins",
      "source": "世界历史名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "雅各宾派",
+     "en": "Jacobin",
+     "source": "审定集团名义形；通行“雅各宾”（人/形客单数）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -67603,9 +67547,9 @@
    "table": "术语",
    "line": 3053,
    "term": "laws of nature",
-   "trans": "自然法",
-   "basis": "学界通行（霍布斯“自然法”，与 natural law 同形归一）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "自然法（亦作“自然律”）",
+   "basis": "学界通行（霍布斯“自然法”，与 natural law 同形归一）；凭证 2026-11-09；2026-11-15 补亦作（审定形；科学哲学语境“自然律”并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -67630,10 +67574,17 @@
      "cn": "公法性",
      "en": "nature of public law",
      "source": "大数据百科术语辞典"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "自然律",
+     "en": "laws of nature",
+     "source": "审定形；科学哲学“自然律”与霍布斯语境“自然法”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -68967,9 +68918,9 @@
    "table": "术语",
    "line": 3128,
    "term": "living donor",
-   "trans": "活体捐献者",
-   "basis": "学界惯例（《人体器官移植条例》“活体器官捐献”；凭证 2026-11-06）",
-   "status": "不一致",
+   "trans": "活体捐献者（亦作“活体供者”）",
+   "basis": "学界惯例（《人体器官移植条例》“活体器官捐献”；凭证 2026-11-06）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -69066,10 +69017,17 @@
      "cn": "活体器官移植",
      "en": "living-donor organ transplantation",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "活体供者",
+     "en": "living donor",
+     "source": "审定形；《人体器官移植条例》“活体器官捐献”法定形"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -69611,9 +69569,9 @@
    "table": "术语",
    "line": 3155,
    "term": "logical empiricism",
-   "trans": "逻辑经验主义",
-   "basis": "学界通行",
-   "status": "不一致",
+   "trans": "逻辑经验主义（亦作“逻辑经验论”）",
+   "basis": "学界通行；2026-11-15 补亦作（审定形，两形并用）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -69626,10 +69584,17 @@
      "cn": "逻辑经验论",
      "en": "logical empiricism",
      "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "逻辑经验论",
+     "en": "logical empiricism",
+     "source": "审定形；通行“逻辑经验主义”两形并用"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -69722,9 +69687,9 @@
    "table": "术语",
    "line": 3162,
    "term": "logical positivism",
-   "trans": "逻辑实证主义",
-   "basis": "学界通行（维也纳学派；与逻辑经验论 logical empiricism 并用）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "逻辑实证主义（亦作“逻辑实证论”）",
+   "basis": "学界通行（维也纳学派；与逻辑经验论 logical empiricism 并用）；凭证 2026-11-09；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -69749,10 +69714,17 @@
      "cn": "逻辑新实证主义",
      "en": "logical neo-positivism",
      "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "逻辑实证论",
+     "en": "logical positivism",
+     "source": "审定形；通行“逻辑实证主义”（维也纳学派）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -70323,19 +70295,26 @@
    "table": "术语",
    "line": 3195,
    "term": "Lvov-Warsaw School",
-   "trans": "利沃夫—华沙学派",
-   "basis": "学界通行译法（LWS）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "利沃夫—华沙学派（亦作“华沙学派”）",
+   "basis": "学界通行译法（LWS）；凭证 2026-11-09；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "华沙学派",
      "en": "The Lvov-Warsaw School; LWS",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "华沙学派",
+     "en": "Lvov-Warsaw School",
+     "source": "审定短形；通行“利沃夫—华沙学派”（LWS）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -72644,19 +72623,26 @@
    "table": "术语",
    "line": 3320,
    "term": "mechanical philosophy",
-   "trans": "机械哲学",
-   "basis": "科学史通行",
-   "status": "不一致",
+   "trans": "机械哲学（亦作“机械论哲学”）",
+   "basis": "科学史通行；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "机械论哲学",
      "en": "mechanical philosophy",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "机械论哲学",
+     "en": "mechanical philosophy",
+     "source": "审定形；科学史“机械哲学/机械论哲学”两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -72792,19 +72778,26 @@
    "table": "术语",
    "line": 3323,
    "term": "mechanistic explanation",
-   "trans": "机械论解释",
-   "basis": "学界通行（科学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "机械论解释（亦作“机制说明”）",
+   "basis": "学界通行（科学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定形；机制说明文献并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "机制说明",
      "en": "mechanistic explanation",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "机制说明",
+     "en": "mechanistic explanation",
+     "source": "审定形；科学哲学“机械论解释/机制说明”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -136771,9 +136764,11 @@
    "term": "Abū Hāshim Jubā'ī",
    "trans": "阿布·哈希姆·朱巴伊",
    "basis": "学界惯例（本质实在性说先驱，音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136781,9 +136776,11 @@
    "term": "Abu'l-Ḥasan Baṣrī",
    "trans": "阿布·哈桑·巴斯里",
    "basis": "学界惯例（穆尔太齐赖派巴斯里支开创者，音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136791,9 +136788,11 @@
    "term": "al-Karajī, Abū Bakr",
    "trans": "阿布·贝克尔·卡拉吉",
    "basis": "数学史通行音译（二项式定理先声；与波斯地理学家 al-Maqdisī 异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136801,9 +136800,11 @@
    "term": "al-Khāzin",
    "trans": "赫津",
    "basis": "数学史通行音译（《代数学评注》作者；与哈津尼 al-Khāzinī 异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136811,9 +136812,11 @@
    "term": "al-Layth",
    "trans": "莱斯",
    "basis": "音译（三次方程早期研究者，学界无统一汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136821,9 +136824,11 @@
    "term": "al-Māhānī",
    "trans": "马哈尼",
    "basis": "数学史通行音译（阿基米德难题化三次方程者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136843,9 +136848,11 @@
    "term": "Aas, Sean",
    "trans": "Sean Aas（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136853,9 +136860,11 @@
    "term": "Abd al-Latif",
    "trans": "阿卜杜勒·拉蒂夫",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：SEP 词条 ‘Abd al-Latif al-Baghdadi（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -136863,9 +136872,11 @@
    "term": "Abel, Theodor",
    "trans": "西奥多·阿贝尔",
    "basis": "学界通行汉译（《理解的概念》作者，把 Verstehen 还原为“共情性认同”者之一）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -137402,9 +137413,11 @@
    "term": "Adickes, Erich",
    "trans": "埃里希·阿迪克斯",
    "basis": "学界通行汉译（德国康德研究者；音译）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -139778,9 +139791,11 @@
    "term": "Appiah, Anthony / Anthony Appiah",
    "trans": "安东尼·阿皮亚",
    "basis": "学界通行汉译（《世界主义》等中译本通行“阿皮亚”）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140398,9 +140413,11 @@
    "term": "Artin, Emil",
    "trans": "埃米尔·阿廷",
    "basis": "学界通行汉译（类域论、阿廷环）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140844,9 +140861,11 @@
    "term": "ʿAbd al-Laṭīf al-Baghdādī",
    "trans": "阿卜杜勒·拉蒂夫·巴格达迪",
    "basis": "学界惯例（12–13 世纪巴格达学者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140868,9 +140887,11 @@
    "term": "Bahmanyār",
    "trans": "巴赫曼亚尔",
    "basis": "学界通行音译（《知识之书》作者，伊本·西那衣钵传人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -140962,9 +140983,11 @@
    "term": "Bacon, Francis / Francis Bacon",
    "trans": "弗朗西斯·培根",
    "basis": "学界千年通行译名；2026-11-13 重复行合并（旧键 `Francis Bacon`）；籍属/生卒联网查证：GND 规范标目 gnd 118505696（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141020,9 +141043,11 @@
    "term": "Baier, Annette / Annette Baier",
    "trans": "安妮特·拜尔",
    "basis": "学界通行音译；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Annette Baier`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141066,9 +141091,11 @@
    "term": "Bain, Alexander / Alexander Bain",
    "trans": "亚历山大·贝恩",
    "basis": "学界通行汉译（苏格兰哲学家，《感觉与理智》作者）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Alexander Bain`）；籍属/生卒联网查证：GND 规范标目 gnd 116040793（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141232,9 +141259,11 @@
    "term": "Banach, Stefan",
    "trans": "斯特凡·巴拿赫",
    "basis": "学界通行汉译（巴拿赫空间）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141494,9 +141523,11 @@
    "term": "Barth, Karl / Karl Barth",
    "trans": "卡尔·巴特",
    "basis": "学界通行汉译（危机神学）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Karl Barth`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -141775,9 +141806,11 @@
    "term": "Bayle, Pierre / Pierre Bayle",
    "trans": "皮埃尔·培尔",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `Pierre Bayle`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -142274,9 +142307,11 @@
    "term": "Beneke, Friedrich",
    "trans": "弗里德里希·贝内克",
    "basis": "学界通行汉译（德国心理学家、哲学家；音译）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -142308,9 +142343,11 @@
    "term": "Benjamin, Walter / Walter Benjamin",
    "trans": "瓦尔特·本雅明",
    "basis": "学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Walter Benjamin`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -142944,9 +142981,11 @@
    "term": "Bishop, Errett",
    "trans": "埃雷特·比肖普",
    "basis": "学界通行汉译（构造分析奠基者）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143050,9 +143089,11 @@
    "term": "Blanchot, Maurice / Maurice Blanchot",
    "trans": "莫里斯·布朗肖",
    "basis": "学界通行汉译；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Maurice Blanchot`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143180,9 +143221,11 @@
    "term": "Blount, William (Lord Mountjoy)",
    "trans": "威廉·布朗特（蒙乔伊勋爵）",
    "basis": "学界惯例（伊拉斯谟研究通行汉译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143190,9 +143233,11 @@
    "term": "Blumberg, Albert E.",
    "trans": "Blumberg（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143200,9 +143245,11 @@
    "term": "Blumenberg, Hans",
    "trans": "汉斯·布卢门贝格",
    "basis": "学界通行汉译（《哥白尼世界的起源》）；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143210,9 +143257,11 @@
    "term": "Blumenthal, Otto",
    "trans": "奥托·布卢门塔尔",
    "basis": "学界通行音译（《数学年刊》编辑、希尔伯特传记作者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143220,9 +143269,11 @@
    "term": "Blund, John",
    "trans": "约翰·布伦德",
    "basis": "学界惯例（13 世纪初牛津人，音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 100948499（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143230,9 +143281,11 @@
    "term": "Boas, Marie",
    "trans": "玛丽·博厄斯",
    "basis": "学界惯例音译（科学史家 Marie Boas Hall）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143240,9 +143293,11 @@
    "term": "Bob",
    "trans": "鲍勃",
    "basis": "学界通行（量子信息协议假想参与者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -149563,9 +149618,11 @@
    "term": "Kang Youwei",
    "trans": "康有为",
    "basis": "上游自带汉字（戊戌变法领袖）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -157593,9 +157650,11 @@
    "term": "Hyde, Thomas",
    "trans": "托马斯·海德",
    "basis": "学界通行汉译（牛津东方学教授，最早刊布海亚姆四行诗拉丁译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158620,9 +158679,11 @@
    "term": "Heim, Irene",
    "trans": "艾琳·海姆",
    "basis": "学界通行音译（FCS 提出者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158630,9 +158691,11 @@
    "term": "Heine, Heinrich",
    "trans": "海因里希·海涅",
    "basis": "学界通行汉译（德国诗人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158640,9 +158703,11 @@
    "term": "Heinrich Scholz",
    "trans": "海因里希·肖尔兹（亦作“肖尔茨”）",
    "basis": "SUMMARY 定名沿用；学界通行汉译（《逻辑学史》作者）；2026-11-09 反向校对合并同人异形行；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158650,9 +158715,11 @@
    "term": "Heisenberg, Werner",
    "trans": "维尔纳·海森堡",
    "basis": "学界通行汉译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158660,9 +158727,11 @@
    "term": "Heizer, Michael",
    "trans": "迈克尔·海泽",
    "basis": "学界惯例音译（大地艺术）；籍属/生卒联网查证：GND 规范标目 gnd 119112531（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158670,9 +158739,11 @@
    "term": "Held, Carsten",
    "trans": "Carsten Held（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1016978278（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158680,9 +158751,11 @@
    "term": "Held, David",
    "trans": "戴维·赫尔德",
    "basis": "音译（世界主义民主主要倡导者）；学界亦作“赫尔德”",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158690,9 +158763,11 @@
    "term": "Helen of Troy",
    "trans": "海伦",
    "basis": "学界千年通行汉译（史诗人物；“海伦曾有三个丈夫”为过去时命题反例）；与 Helene 行异人；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158700,9 +158775,11 @@
    "term": "Helene",
    "trans": "海伦",
    "basis": "音译（笛卡尔家仆，弗朗辛之母）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158710,9 +158787,11 @@
    "term": "Helias, Peter",
    "trans": "彼得·赫利亚斯",
    "basis": "学界通行音译（12 世纪语法学家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158720,9 +158799,11 @@
    "term": "Hellman, Geoffrey",
    "trans": "Geoffrey Hellman（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158730,9 +158811,11 @@
    "term": "Helm, Georg",
    "trans": "黑尔姆",
    "basis": "全名汉译“格奥尔格·黑尔姆”，正文简名首现括注；学界惯例（能量主义者通行汉译）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158740,9 +158823,11 @@
    "term": "Helm, Paul",
    "trans": "保罗·黑尔姆",
    "basis": "音译对齐既有 Helm, Georg“黑尔姆”行；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158750,9 +158835,11 @@
    "term": "Helmholtz, Hermann von",
    "trans": "赫尔曼·冯·亥姆霍兹",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 11854893X（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158760,9 +158847,11 @@
    "term": "Helvétius, Claude-Adrien",
    "trans": "爱尔维修",
    "basis": "学界通行汉译（法国启蒙思想家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158770,9 +158859,11 @@
    "term": "Hemacandra",
    "trans": "诃摩旃陀罗",
    "basis": "梵音自拟（《瑜伽论》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158780,9 +158871,11 @@
    "term": "Hempel, Carl G.",
    "trans": "卡尔·G. 亨佩尔",
    "basis": "学界通行汉译（《自然科学哲学》作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118549065（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158790,9 +158883,11 @@
    "term": "Hemsterhuis, Franz",
    "trans": "弗朗茨·赫姆斯特赫斯",
    "basis": "学界通行音译（18 世纪哲学家，诺瓦利斯研读对象）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158800,9 +158895,11 @@
    "term": "Hendrik Lorentz",
    "trans": "洛伦兹（H. A. Lorentz）",
    "basis": "学界惯例（物理学通行汉译）；籍属/生卒联网查证：GND 规范标目 gnd 118780484（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158810,9 +158907,11 @@
    "term": "Hengstenberg",
    "trans": "亨格斯坦贝格",
    "basis": "学界通行音译（柏林神学家 E.W. Hengstenberg）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158820,9 +158919,11 @@
    "term": "Hennig, Willi",
    "trans": "威利·亨尼希",
    "basis": "学界通行汉译（系统学文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158830,9 +158931,11 @@
    "term": "Henrich, Joseph",
    "trans": "约瑟夫·亨里奇",
    "basis": "音译（文化演化）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158840,9 +158943,11 @@
    "term": "Henriette Herz",
    "trans": "亨丽埃特·赫茨",
    "basis": "学界惯例（柏林沙龙主人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118550152（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158850,9 +158955,11 @@
    "term": "Henry David Thoreau",
    "trans": "亨利·大卫·梭罗",
    "basis": "学界通行汉译（美国超验主义）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118622293（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158860,9 +158967,11 @@
    "term": "Henry IV",
    "trans": "亨利四世",
    "basis": "学界通行汉译（波旁王朝首王）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158870,9 +158979,11 @@
    "term": "Henry of Ghent",
    "trans": "根特的亨利",
    "basis": "学界通行汉译（SUMMARY 定名沿用）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158880,9 +158991,11 @@
    "term": "Henry of Langenstein",
    "trans": "朗根施泰因的亨利",
    "basis": "学界通行汉译（14 世纪维也纳大学神学家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -158965,9 +159078,11 @@
    "term": "Herbart, Johann Friedrich",
    "trans": "约翰·弗里德里希·赫尔巴特",
    "basis": "学界千年通行汉译（形而上学与教育学奠基人，J.F. 赫尔巴特）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -159617,7 +159732,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -159797,7 +159913,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -159965,7 +160082,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160061,7 +160179,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160145,7 +160264,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160178,9 +160298,11 @@
    "term": "Horwicz, Adolf",
    "trans": "阿道夫·霍尔维茨",
    "basis": "学界通行汉译（德国心理学家，马格德堡；音译）；生卒联网核验（尼采手册与心理学史文献 1831–1894）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -160251,7 +160373,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160378,7 +160501,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160474,7 +160598,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160555,9 +160680,11 @@
    "term": "Hurewicz, Witold",
    "trans": "维托尔德·胡雷维奇",
    "basis": "学界通行音译（拓扑学家，布劳威尔助手）；r2 复核补登（s2 凭证称补 16 行，实缺此行）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -160629,7 +160756,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160708,7 +160836,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160804,7 +160933,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160888,7 +161018,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -160984,7 +161115,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161082,7 +161214,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161306,7 +161439,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161402,7 +161536,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161498,7 +161633,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161673,7 +161809,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161706,9 +161843,11 @@
    "term": "Jia Xian",
    "trans": "贾宪",
    "basis": "中国数学史通名（增乘开方法、开方作法本源图）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -161767,7 +161906,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161875,7 +162015,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -161971,7 +162112,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -162067,7 +162209,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -162151,7 +162294,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -162247,7 +162391,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -162355,7 +162500,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -162575,9 +162721,11 @@
    "term": "Ji Kang",
    "trans": "嵇康",
    "basis": "上游自带汉字（竹林七贤之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -162878,7 +163026,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163012,7 +163161,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163127,7 +163277,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163247,7 +163398,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163386,7 +163538,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163494,7 +163647,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163602,7 +163756,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163698,7 +163853,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163719,9 +163875,11 @@
    "term": "’Jam mgon ’Ju Mi pham",
    "trans": "蒋贡·米滂·嘉措",
    "basis": "藏传通行音译（亦作麦彭）；源文 mgya mtsho 为 rgya mtsho 误植，译名从正字",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -163729,9 +163887,11 @@
    "term": "Khāzinī, Abd al-Raḥmān",
    "trans": "阿卜杜勒·拉赫曼·哈津尼",
    "basis": "学界惯例音译（《智慧之衡》作者；与 al-Khāzin 异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -163814,7 +163974,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -163917,7 +164078,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164020,7 +164182,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164104,7 +164267,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164173,9 +164337,11 @@
    "term": "Kastil, Alfred",
    "trans": "阿尔弗雷德·卡斯蒂尔",
    "basis": "音译（布伦塔诺遗稿编者之一，马蒂在布拉格的学生）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -164198,7 +164364,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164294,7 +164461,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164390,7 +164558,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164411,9 +164580,11 @@
    "term": "Kemp Smith, Norman",
    "trans": "诺曼·肯普·史密斯",
    "basis": "学界通行汉译（《纯粹理性批判》通行英译者；音译）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -164484,7 +164655,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164580,7 +164752,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164676,7 +164849,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164772,7 +164946,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -164868,7 +165043,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -166618,7 +166794,8 @@
    "status": "查无",
    "hits": [],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "termonline-standard"
    ]
   },
   {
@@ -185929,9 +186106,11 @@
    "term": "Sun Quan",
    "trans": "孙权",
    "basis": "上游自带汉字（吴大帝）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185939,9 +186118,24 @@
    "term": "Sun Simiao",
    "trans": "孙思邈",
    "basis": "学界千年通行（唐代医家，“药王”，《千金方》作者）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "孙思邈",
+     "en": "Sun Simiao",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "孙思邈",
+     "en": "Sun Simiao",
+     "source": "海峡两岸药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185949,9 +186143,11 @@
    "term": "Sundholm, Göran",
    "trans": "Sundholm（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185959,9 +186155,11 @@
    "term": "Susan Buck-Morss",
    "trans": "苏珊·巴克-莫尔斯",
    "basis": "学界通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185969,9 +186167,11 @@
    "term": "Susan Moller Okin",
    "trans": "苏珊·莫勒·奥金",
    "basis": "学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185989,9 +186189,11 @@
    "term": "Sutton, Peter",
    "trans": "Peter Sutton",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185999,9 +186201,11 @@
    "term": "Sutton, Thomas",
    "trans": "托马斯·萨顿",
    "basis": "中世纪哲学研究通行音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -186009,9 +186213,11 @@
    "term": "Swain, John",
    "trans": "约翰·斯温",
    "basis": "学界惯例音译（残疾肯定性模型提出者；须与 Marshall Swain“马歇尔·斯温”异人分立）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -186022,6 +186228,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186034,6 +186241,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186046,6 +186254,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186058,6 +186267,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186070,6 +186280,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186082,6 +186293,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186094,6 +186306,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186106,6 +186319,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186118,6 +186332,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186142,6 +186357,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186154,6 +186370,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186186,6 +186403,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186198,6 +186416,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186210,6 +186429,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186222,6 +186442,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186234,6 +186455,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186246,6 +186468,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186258,6 +186481,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186270,6 +186494,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186282,6 +186507,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186294,6 +186520,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186306,6 +186533,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186318,6 +186546,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186350,6 +186579,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186362,6 +186592,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186374,6 +186605,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186383,9 +186615,23 @@
    "term": "Tao Hongjing",
    "trans": "陶弘景",
    "basis": "学界千年通行（南朝道教思想家、本草学家，《本草经集注》作者）；凭证 2026-11-10",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "陶弘景",
+     "en": "Tao Hongjing",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "陶弘景",
+     "en": "Tao Hongjing",
+     "source": "海峡两岸药学名词"
+    }
+   ],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186398,6 +186644,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186410,6 +186657,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186422,6 +186670,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -186434,6 +186683,7 @@
    "status": "查无",
    "hits": [],
    "providers": [
+    "termonline-all",
     "termonline-standard"
    ]
   },
@@ -193192,9 +193442,11 @@
    "term": "ʿAlī ibn Abī l-Rijāl",
    "trans": "阿里·伊本·阿比尔-里贾勒",
    "basis": "上游自带形（占星家，拉丁名 Abenragel）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

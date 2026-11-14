@@ -1,0 +1,321 @@
+{
+  "schema": "sep-cn-divergences/1",
+  "updated_at": "2026-11-14T18:10:19Z",
+  "divergences": [
+    {
+      "slug": "albo-joseph",
+      "path": "en/albo-joseph/index.html",
+      "upstream_sha256": "9a09b6620b636136da0e11923006104dca5578c06edea734b72d454110dee1df",
+      "local_sha256": "f36e436f814e0600ed9ff88fa18f72328567fa7710a41bc134272c4b7e781da0",
+      "bytes": {
+        "upstream": 66736,
+        "local": 66734
+      },
+      "commit": "b36b19d87ed57017e1b914e7e3cc6920a3ba0003",
+      "subject": "015 偿还 albo-joseph：书目拼写与标点勘误",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目拼写与标点勘误（en 同改，ADR-0038 ①）",
+      "registered_at": "2026-11-14T18:10:01Z"
+    },
+    {
+      "slug": "antonio-rosmini",
+      "path": "en/antonio-rosmini/index.html",
+      "upstream_sha256": "843bc06d2272cc1f79ca687d3f3b2955ec3618841b321fdd5539296bf07f7663",
+      "local_sha256": "91c266c77ab9e2e9a4e2212725a02e0def316cea1876cec166f7a4ca39993e3e",
+      "bytes": {
+        "upstream": 74790,
+        "local": 74796
+      },
+      "commit": "877763ac7cbe1746d4157e77c44c115b42ead41a",
+      "subject": "015 偿还 antonio-rosmini：书目区重建、缩写表与正文语病（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目区重建、缩写表与正文语病（en 同改）",
+      "registered_at": "2026-11-14T18:10:02Z"
+    },
+    {
+      "slug": "arabic-islamic-mysticism",
+      "path": "en/arabic-islamic-mysticism/index.html",
+      "upstream_sha256": "7e7571a174d51c9644fb08c689b45dce5d750966b71b7108b9afa6e56cb7e588",
+      "local_sha256": "dbe33dc5520f41fd2c4f6a309410109033e944a6c553f51334ed04bc4808775c",
+      "bytes": {
+        "upstream": 71793,
+        "local": 71786
+      },
+      "commit": "17c8b5a3045a7b08370ea7758ec040a558ea56e8",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "年份勘误：Sabziwarī 卒年 1797→1873（1797 为生年，同页自相矛盾 ②）",
+      "registered_at": "2026-11-14T18:10:03Z"
+    },
+    {
+      "slug": "blame",
+      "path": "en/blame/index.html",
+      "upstream_sha256": "72948a8185228a62021105140876e3cf5dafdaa1f8e6235e21e04d353a082844",
+      "local_sha256": "b64a08ec21f3fb0ce570159a4e19497a9b348bd952f3907c665ca09914f97e67",
+      "bytes": {
+        "upstream": 105364,
+        "local": 105354
+      },
+      "commit": "361cdc4541297fb43f13957e6d8926666a75b3e0",
+      "subject": "015 偿还 blame：列表标记、致谢层级、书目标点与斜体",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：列表标记、致谢层级、书目标点与斜体",
+      "registered_at": "2026-11-14T18:10:03Z"
+    },
+    {
+      "slug": "bohr-correspondence",
+      "path": "en/bohr-correspondence/index.html",
+      "upstream_sha256": "310c74ea24d63c6663cceff2854455010f82b1f89450c9c2ee091cd24010ae58",
+      "local_sha256": "407b2221822456cef6f4720deadc2a090a3836ed707979c45f7822e49f2395a4",
+      "bytes": {
+        "upstream": 100749,
+        "local": 100750
+      },
+      "commit": "19e4cf84b72c867c821d528d08d2c4ff82d1cd7d",
+      "subject": "……",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "quantentheoretische 拼写与书目标点（ADR-0038 ①；en-errata.md 本轮补登）",
+      "registered_at": "2026-11-14T18:10:04Z"
+    },
+    {
+      "slug": "egoism",
+      "path": "en/egoism/index.html",
+      "upstream_sha256": "4c2fe573c1206065afe39661162b7430da6de43304bed8cce6d7e1ba983145b5",
+      "local_sha256": "aa50eb19b27249461100fc2e4d6a6f3543e9c1963bc56dd7d8f01fa76442c004",
+      "bytes": {
+        "upstream": 78491,
+        "local": 78492
+      },
+      "commit": "6ede3c9a267c0eb81a452b66d14713460ccf8bf5",
+      "subject": "egoism：en 同步 Korsgaard 缩写与双标点",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "en 同步 Korsgaard 缩写与双标点",
+      "registered_at": "2026-11-14T18:10:05Z"
+    },
+    {
+      "slug": "emerson",
+      "path": "en/emerson/index.html",
+      "upstream_sha256": "1f50f123c975c90768b811cf9f26c85dad34a6799cc46c8c4c6466d37fbe2d68",
+      "local_sha256": "c18acb3b350a5581c4e5cb4d7007ca006c2a8b208bd3ffe6a76ef25001e87771",
+      "bytes": {
+        "upstream": 73380,
+        "local": 73371
+      },
+      "commit": "f1371f48c1828146dfa10e21ee99282d26a646ab",
+      "subject": "……",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "书目标点与斜体跨度、(ed.) 复数（ADR-0038 ①）",
+      "registered_at": "2026-11-14T18:10:05Z"
+    },
+    {
+      "slug": "emilie-du-chatelet",
+      "path": "en/emilie-du-chatelet/index.html",
+      "upstream_sha256": "43362ec9760ba126776a4f9394575fd53dc56e5c87cec76e990126abe35563c3",
+      "local_sha256": "2ff7e155cf4f1ee1a7e5e359d508e9aacfa696cf25d1267c8dabdd223963d84a",
+      "bytes": {
+        "upstream": 112255,
+        "local": 112266
+      },
+      "commit": "b5aa3826273e0998b4347668ef47a38fa502bdd5",
+      "subject": "015 偿还 emilie-du-chatelet：书目拼写、编者标记与年份（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目拼写、编者标记与年份（en 同改）",
+      "registered_at": "2026-11-14T18:10:06Z"
+    },
+    {
+      "slug": "emotion-Christian-tradition",
+      "path": "en/emotion-Christian-tradition/index.html",
+      "upstream_sha256": "9dee7a3d14ed8a004d3588d5d1a074ae597973ff7186a1c3d6532b938d291457",
+      "local_sha256": "957cf352d9a567db96bc7d230fc2db57437db99034ff330ec39ce39625bc2f68",
+      "bytes": {
+        "upstream": 84894,
+        "local": 84895
+      },
+      "commit": "dfe3c7d9c91aef35643d36e476a741dad3c30dc5",
+      "subject": "015 偿还 emotion-Christian-tradition：引称年份、书目体例与术语拼写（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：引称年份、书目体例与术语拼写（en 同改）",
+      "registered_at": "2026-11-14T18:10:06Z"
+    },
+    {
+      "slug": "epictetus",
+      "path": "en/epictetus/index.html",
+      "upstream_sha256": "ecd01d482e1aeac1e1c49fc9555cb406aae08fe3479426e044fc45e60cc0f183",
+      "local_sha256": "f4df328efac6d0629076ae6c2db95606c0414602288698901d51de24ede5d0b7",
+      "bytes": {
+        "upstream": 62629,
+        "local": 62522
+      },
+      "commit": "0114f1724020d63f53debda2ff16a8c41eaeb51e",
+      "subject": "015 偿还 epictetus：重复条目、实体拼写、斜体与空格",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：重复条目、实体拼写、斜体与空格",
+      "registered_at": "2026-11-14T18:10:07Z"
+    },
+    {
+      "slug": "epistemology-language-tibetan",
+      "path": "en/epistemology-language-tibetan/index.html",
+      "upstream_sha256": "f78949d3bd2f5ef35473515292acccef75ccf37b4882b4b45e8750f19beb6863",
+      "local_sha256": "98dede67d72f9956b3f0ba6369d92714df4728a68ba5481e8c36349a6b66d4bf",
+      "bytes": {
+        "upstream": 101102,
+        "local": 101109
+      },
+      "commit": "cdbab77ebd907855e4d2217621bc9e1d479d282f",
+      "subject": "1",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "拼写与期刊名重音（Studi/Études/Blackwell，ADR-0038 ①）",
+      "registered_at": "2026-11-14T18:10:09Z"
+    },
+    {
+      "slug": "equal-ed-opportunity",
+      "path": "en/equal-ed-opportunity/index.html",
+      "upstream_sha256": "ef401f34d03ac3df82bdf86c6617b47d83eccba526b3c27726627c1a223b06be",
+      "local_sha256": "68628e5c545f8c7af9c403d8e1790d9492b897eee063a0421267060a1fb7d2dc",
+      "bytes": {
+        "upstream": 110903,
+        "local": 110914
+      },
+      "commit": "d1bde664e42038fa1093d58eb87dfc51871755d2",
+      "subject": "……",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "页码区间 1137–1176、机构名、Epigenetics 拼写（ADR-0038 ①②）",
+      "registered_at": "2026-11-14T18:10:10Z"
+    },
+    {
+      "slug": "erasmus",
+      "path": "en/erasmus/index.html",
+      "upstream_sha256": "0544c32a33cbd159c91238b8a191b0e0a2676745964403a63c918ce62bcb3aae",
+      "local_sha256": "dea392caadc0ecdf60e5e8b62e71871e04791d77bed7d988d8ce87ee19881249",
+      "bytes": {
+        "upstream": 94058,
+        "local": 94058
+      },
+      "commit": "561562a3898deec2cffb9ff92f4492d8595f8f55",
+      "subject": "015 偿还 erasmus：三条说明脚注译出、haecceities 等勘误",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：三条说明脚注译出、haecceities 等勘误",
+      "registered_at": "2026-11-14T18:10:11Z"
+    },
+    {
+      "slug": "ethics-deontological",
+      "path": "en/ethics-deontological/index.html",
+      "upstream_sha256": "396508a5334e186580c287d9d5a6cf83de3959761f19f1e1ef9446b883d7ba82",
+      "local_sha256": "22e79a7b5c5d6e26cbbbb1f9ec5370b1cefae8a5ef87e97a2c0fa0139d715390",
+      "bytes": {
+        "upstream": 112361,
+        "local": 112357
+      },
+      "commit": "fe1e45e8656e4ba8cb6240975942dbe8e683b425",
+      "subject": "015 偿还 ethics-deontological：作者拼写与键名、致谢层级、虚词",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：作者拼写与键名、致谢层级、虚词",
+      "registered_at": "2026-11-14T18:10:12Z"
+    },
+    {
+      "slug": "film",
+      "path": "en/film/index.html",
+      "upstream_sha256": "958f84b3e3d157b05f0306b21bd31d1c5aa2b20b6e38500506e2f9d810f25587",
+      "local_sha256": "d980f20e5ba4cae5fc0c7a8fc9f989a7b4eca659fd2a53a05ebed4f26fba54d7",
+      "bytes": {
+        "upstream": 64249,
+        "local": 64257
+      },
+      "commit": "051b736539130fe0a4ca2577ee5485426d87060a",
+      "subject": "015 偿还 film：书目人名拼写、键标与书名（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目人名拼写、键标与书名（en 同改）",
+      "registered_at": "2026-11-14T18:10:12Z"
+    },
+    {
+      "slug": "gelukpa",
+      "path": "en/gelukpa/index.html",
+      "upstream_sha256": "2012bf0844a3dca9d11c6021d8397a119f15792f476088df433d9038544fcfe9",
+      "local_sha256": "0c10a79fadc49e330cfcf72e74b9691bf8e6ccbfaf4738632581f9c52f6a35ea",
+      "bytes": {
+        "upstream": 53491,
+        "local": 53475
+      },
+      "commit": "52ab831f08616786065a45323001c883fd7e0beb",
+      "subject": "？",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "书名 Stages of the Path、转写 lam gtso rnam gsum、斜体合并（ADR-0038 ①）",
+      "registered_at": "2026-11-14T18:10:13Z"
+    },
+    {
+      "slug": "oakeshott",
+      "path": "en/oakeshott/index.html",
+      "upstream_sha256": "65696e41506d41b56cc56e8229d4e170c006489b6bf8ca85637461a10205cddf",
+      "local_sha256": "0031079bff13b9abb3d71c20a0cc58edeaa13d8774ed7b5c24b978d9224dd15d",
+      "bytes": {
+        "upstream": 88871,
+        "local": 88870
+      },
+      "commit": "31d849255c9548f6e682e0e234f3264b8231d4e3",
+      "subject": "015 偿还 oakeshott：小标题、Nicomachean 拼写、条末句点",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：小标题、Nicomachean 拼写、条末句点",
+      "registered_at": "2026-11-14T18:10:14Z"
+    },
+    {
+      "slug": "object",
+      "path": "en/object/index.html",
+      "upstream_sha256": "8000607b8cf52a0c1423c7fc11c5121f88f3410b6d3868443213ee4247745acc",
+      "local_sha256": "10e33345e93a26092545283aa5fca5d038bb0822f5893c3bfde8280d0439eb46",
+      "bytes": {
+        "upstream": 132498,
+        "local": 132492
+      },
+      "commit": "fe85469ce52f8e019dba8ac8ecd877ed4047eb71",
+      "subject": "015 偿还 object：末级小节标题、页码勘误、出版社与斜体",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：末级小节标题、页码勘误、出版社与斜体",
+      "registered_at": "2026-11-14T18:10:15Z"
+    },
+    {
+      "slug": "object",
+      "path": "en/object/notes.html",
+      "upstream_sha256": "c2855e875f1fbaa4128b176c8d1ca3226bc58c7032fe08bae983229d940ef761",
+      "local_sha256": "de7f2f55a1a54aa19d9d02f72dd18f61cc28bb4d69e96eae386ba3d33244eb6e",
+      "bytes": {
+        "upstream": 25585,
+        "local": 25584
+      },
+      "commit": "fe85469ce52f8e019dba8ac8ecd877ed4047eb71",
+      "subject": "015 偿还 object：末级小节标题、页码勘误、出版社与斜体",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：末级小节标题、页码勘误、出版社与斜体（notes 同批）",
+      "registered_at": "2026-11-14T18:10:16Z"
+    },
+    {
+      "slug": "occasionalism",
+      "path": "en/occasionalism/index.html",
+      "upstream_sha256": "125ea37f6d47781a423cc74eaffc9528b95d5179e700ff7fc642b0ed951b6ce7",
+      "local_sha256": "703cf7938296b48cbc6e1a7cf7786adfa2478cfb39b5673c40fe626948481aa9",
+      "bytes": {
+        "upstream": 138285,
+        "local": 138284
+      },
+      "commit": "f854c648b70eba08ffeb87c61150824067edd33d",
+      "subject": "015 偿还 occasionalism：译名统一、斜体残留、书目勘误",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：译名统一、斜体残留、书目勘误",
+      "registered_at": "2026-11-14T18:10:18Z"
+    },
+    {
+      "slug": "sovereignty",
+      "path": "en/sovereignty/index.html",
+      "upstream_sha256": "cfa8350dcd20bfcebe10874862fb1513060498fd8d229f14bdd03a2f45fca0a4",
+      "local_sha256": "855d991c503e45da40279a1ad270b8e79bcdd806fb362cca0f67a87e65cca703",
+      "bytes": {
+        "upstream": 65459,
+        "local": 65439
+      },
+      "commit": "94ef8f75d94adf5199c530a2aa9d339d46f8af40",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：强标签包裹页码、年份 1999→1998 同页矛盾（②）",
+      "registered_at": "2026-11-14T18:10:19Z"
+    }
+  ]
+}

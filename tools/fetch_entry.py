@@ -22,7 +22,9 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import fetch, parser
 from tools.common import (ensure_dirs, find_zh_doc, load_json, repo_path,
-                          sha256_file, utcnow_iso, write_json_verified)
+                          sha256_bytes, sha256_file, utcnow_iso,
+                          write_json_verified)
+from tools.divergence import load_divergences
 
 BASE = fetch.BASE
 ARCHINFO = BASE + "/cgi-bin/encyclopedia/archinfo.cgi?entry=%s"
@@ -34,6 +36,24 @@ SOFT404_RE = re.compile(r"<title>\s*(?:Document Not Found|Update Your Link)", re
 def is_soft404(head_html):
     """SEP 对不存在/已撤稿 URL 返回 HTTP 200 + 错误页正文（软 404）。"""
     return bool(SOFT404_RE.search(head_html))
+
+
+def ledger_main_sha(slug):
+    """台账原始网页钉（files[] 中 kind=main 的 sha256）；无登记返回 None。"""
+    path = repo_path("baseline", "entries.json")
+    if not os.path.exists(path):
+        return None
+    rec = next((r for r in load_json(path)["entries"] if r["slug"] == slug), None)
+    if not rec:
+        return None
+    return next((f["sha256"] for f in rec.get("files", []) if f.get("kind") == "main"),
+                None)
+
+
+def has_active_divergence(slug):
+    """该词条在分歧账有登记（ADR-0045）：上游变更时须先搬运再重抓。"""
+    return any(d.get("slug") == slug
+               for d in load_divergences().get("divergences", []))
 
 
 def entry_base(slug, archive_edition=None):
@@ -59,7 +79,19 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
         return {"slug": slug,
                 "error": "soft 404（SEP 错误页，词条不在或已撤稿）: %s" % base}
     idx_path = os.path.join(edir, "index.html")
-    if force or not os.path.exists(idx_path):
+    # 双账语义（ADR-0045）：仅当上游真变才动本地——
+    #   上游与原始钉一致 → 不写盘不动台账；有未搬运分歧而上游已变 → 拒抓待搬运。
+    old_main_sha = ledger_main_sha(slug)
+    new_main_sha = sha256_bytes(data)
+    if old_main_sha and old_main_sha == new_main_sha:
+        return {"slug": slug, "result": "unchanged",
+                "note": "上游与原始网页钉一致，未写盘未动台账（ADR-0045）"}
+    if old_main_sha and old_main_sha != new_main_sha and not force \
+            and has_active_divergence(slug):
+        return {"slug": slug,
+                "error": "上游已变且该词条存在未搬运分歧（baseline/divergences.json）："
+                         "先 compare.py 差异裁定并搬运勘误层（divergence.py patch），再重抓"}
+    if force or not os.path.exists(idx_path) or old_main_sha != new_main_sha:
         with open(idx_path, "wb") as f:
             f.write(data)
     entry = parser.parse_entry(open(idx_path, "rb").read().decode("utf-8", "replace"))
@@ -172,6 +204,10 @@ def main(argv=None):
             continue
         if "error" in rec:
             failures.append(rec)
+            continue
+        if rec.get("result") == "unchanged":
+            fetched.append({"slug": slug, "result": "unchanged"})
+            sys.stderr.write("[fetch_entry] %s unchanged（上游未变，跳过）\n" % slug)
             continue
         upsert_baseline(rec)
         fetched.append({"slug": slug, "files": len(rec["files"]),

@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """段落级变更比较（spec 001 US-3，用户 2026-10-27 指令实现）。
 
-对任一词条：抓取英文源最新快照（不覆盖 en/ 不可变原始物），与基线快照
-en/<slug>/index.html 比较，产出段落级变更清单（新增/删除/修改/移动），
-每条变更标注英文节号（锚 id + 标题）并映射到中文仓库对应 md 文档与节。
+对任一词条：抓取英文源最新快照（不覆盖 en/ 不可变原始物），与**原始网页字节**
+比较，产出段落级变更清单（新增/删除/修改/移动），每条变更标注英文节号（锚 id + 标题）
+并映射到中文仓库对应 md 文档与节。比较基准＝原始网页钉（ADR-0045）：本地件与
+files[].sha256 一致直接用；有批准分歧（baseline/divergences.json）经 base_commit
+回溯 git 原始字节——本地勘误不会伪装成上游变更。
 
 流程（FR-007/US-3）：
-  1. 读 baseline 记录（zh_doc 映射与 source_sha256）；
+  1. 读 baseline 记录（zh_doc 映射与 files[].sha256 原始钉）；
   2. 抓取最新 HTML 到 script/tmp/compare-<slug>.html（礼貌 5 秒，不覆盖基线）；
   3. 节级拆分（h2 锚 id + 标题；首 h2 前为"导言"伪节）→ 段落规范化文本；
   4. 节集合 diff：added / removed / moved（同标题异锚）→ modified（同锚内容变）；
@@ -27,12 +29,14 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import fetch
 from tools.common import load_json, repo_path, sha256_file, utcnow_iso
+from tools.divergence import load_divergences
 
 # stdout 重包守卫：CI/unittest 下可能已是被别的模块重包过的流，重复包会关闭底层 buffer
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
@@ -163,15 +167,45 @@ def map_zh(changes, zh_doc):
     return changes
 
 
+def _divergence_for(path, pin):
+    """该路径的批准分歧登记（upstream_sha256 须与原始钉相符才算有效）。"""
+    for d in load_divergences().get("divergences", []):
+        if d.get("path") == path and (pin is None or d.get("upstream_sha256") == pin):
+            return d
+    return None
+
+
+def _pristine_html(slug, rec):
+    """比较基准=原始网页字节（ADR-0045 双账语义）。
+
+    本地件与原始钉一致 → 直接用；有批准分歧 → 经分歧账 base_commit 回溯 git
+    原始字节；二者皆无 → 返回错误说明（静默改原文会被 divergence.py verify 拦）。
+    返回 (text, None) 或 (None, error_dict)。"""
+    old_path = repo_path("en", slug, "index.html")
+    main = next((f for f in rec.get("files", []) if f.get("kind") == "main"), None)
+    pin = main["sha256"] if main else None
+    if pin and sha256_file(old_path) == pin:
+        return open(old_path, encoding="utf-8", errors="replace").read(), None
+    d = _divergence_for(old_path, pin)
+    if d is None:
+        return None, {"slug": slug,
+                      "error": "本地 en/ 副本与原始钉不符且未登记分歧："
+                               "先 tools/divergence.py verify/register（ADR-0045）"}
+    r = subprocess.run(["git", "show", "%s:%s" % (d["base_commit"], old_path)],
+                       cwd=repo_path("."), capture_output=True)
+    if r.returncode != 0:
+        return None, {"slug": slug,
+                      "error": "原始字节不可取（base_commit %s，需完整 git 历史）"
+                               % d["base_commit"][:10]}
+    return r.stdout.decode("utf-8", "replace"), None
+
+
 def compare_slug(slug, new_html_path=None):
     base = load_json(repo_path("baseline", "entries.json"))
     rec = next((r for r in base["entries"] if r["slug"] == slug), None)
     if rec is None:
         return {"slug": slug, "error": "词条不在 baseline，先 fetch_entry.py %s" % slug}, 2
     zh_doc = rec.get("zh_doc")
-    old_path = repo_path("en", slug, "index.html")
-    if not os.path.isfile(old_path):
-        return {"slug": slug, "error": "基线快照缺失 en/%s/index.html" % slug}, 2
     if new_html_path:
         tmp = new_html_path
     else:
@@ -181,10 +215,16 @@ def compare_slug(slug, new_html_path=None):
         status, data = fetch.get(url, dest=tmp, delay=fetch.MIN_DELAY)
         if status != 200:
             return {"slug": slug, "error": "抓取 HTTP %s" % status}, 2
-    if sha256_file(tmp) == rec.get("yuanwen", {}).get("source_sha256"):
+    # 快速「无变更」判定用原始网页钉（ADR-0045：files[].sha256 只记上游字节，
+    # 本地勘误分歧不影响判定；旧 yuanwen.source_sha256 随重转会漂移，弃用）
+    main = next((f for f in rec.get("files", []) if f.get("kind") == "main"), None)
+    if main and sha256_file(tmp) == main["sha256"]:
         return {"slug": slug, "changed": False,
-                "note": "英文源与基线一致（source_sha256 相同），无变更"}, 0
-    old_secs = parse_sections(open(old_path, encoding="utf-8", errors="replace").read())
+                "note": "英文源与原始网页钉一致（files[].sha256），无变更"}, 0
+    pristine_text, err = _pristine_html(slug, rec)
+    if err:
+        return err, 2
+    old_secs = parse_sections(pristine_text)
     new_secs = parse_sections(open(tmp, encoding="utf-8", errors="replace").read())
     changes = map_zh(diff_sections(old_secs, new_secs), zh_doc)
     sys.stderr.write("[compare] %s: %d 处变更\n" % (slug, len(changes)))

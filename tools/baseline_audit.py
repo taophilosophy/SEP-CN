@@ -2,8 +2,11 @@
 """基线完整性审计（宪法门 I 的机器实现，FR-002/017）。
 
 用法: python tools/baseline_audit.py [slug...]
-输出: stdout JSON {audited, hash_ok, hash_fail, missing_files}
+输出: stdout JSON {audited, hash_ok, divergent_registered, hash_fail, missing_files}
 行为: 对 baseline/entries.json 登记的每件抓取物复算 SHA-256 并核对存在；
+      双账语义（ADR-0045）：文件与原始钉不一致但已按批准勘误登记于
+      baseline/divergences.json（且账目相符）者计入 divergent_registered，
+      不作 hash_fail；未登记或账目不符仍为 hash_fail。
       task_ops.py clear 的 gate 直接调用本模块。
 """
 import json
@@ -16,6 +19,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools.common import load_json, repo_path, utcnow_iso
+from tools.divergence import load_divergences
 
 
 def audit_slugs(slugs=None):
@@ -31,7 +35,8 @@ def audit_slugs(slugs=None):
         absent = want - {r["slug"] for r in recs}
     else:
         absent = set()
-    ok, fail, missing = 0, [], []
+    div_map = {d["path"]: d for d in load_divergences().get("divergences", [])}
+    ok, fail, missing, divergent = 0, [], [], 0
     for r in recs:
         for f in r.get("files", []):
             rel = f["path"]  # 形如 en/<slug>/index.html
@@ -46,11 +51,16 @@ def audit_slugs(slugs=None):
                     h.update(chunk)
             if h.hexdigest() == f["sha256"]:
                 ok += 1
+            elif rel in div_map and div_map[rel].get("local_sha256") == h.hexdigest() \
+                    and div_map[rel].get("upstream_sha256") == f["sha256"]:
+                divergent += 1  # 批准勘误已登记且账目相符（ADR-0045）
             else:
                 fail.append({"slug": r["slug"], "path": rel,
-                             "recorded": f["sha256"], "actual": h.hexdigest()})
-    out = {"audited": len(recs), "hash_ok": ok, "hash_fail": fail,
-           "missing_files": missing, "at": utcnow_iso()}
+                             "recorded": f["sha256"], "actual": h.hexdigest(),
+                             "note": "已登记分歧但账目不符（须修账/搬运）" if rel in div_map
+                                     else "与原始钉不符且未登记分歧（ADR-0045）"})
+    out = {"audited": len(recs), "hash_ok": ok, "divergent_registered": divergent,
+           "hash_fail": fail, "missing_files": missing, "at": utcnow_iso()}
     if absent:
         out["not_in_baseline"] = sorted(absent)
     return out
