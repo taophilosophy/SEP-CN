@@ -1,7 +1,7 @@
 # 新柏拉图主义 Neoplatonism (Christian Wildberg)
 *首次发表于 2016 年 1 月 11 日。*
 
-“新柏拉图主义”指晚古时期希腊—罗马世界兴起并繁盛的一个哲学学派，时间大致从罗马帝国危机沿至阿拉伯征服，即公元 3 世纪中叶到 7 世纪中叶。随着伊壁鸠鲁主义、斯多葛主义等古代唯物主义或物体论思想衰落，新柏拉图主义成为该时期占主导的哲学意识形态。宇宙以及个体人在宇宙中的位置，它都给出整全的理解。不过，与“斯多葛派”“逍遥派”“柏拉图派”一类标签不同，“新柏拉图主义的”之名系现代铸造，某种程度上属于误称。今天被归入“新柏拉图主义者”的晚古哲学家，并不认为自己专以复兴柏拉图对话的精神与字句为业。他们固然自称“柏拉图主义者”，也确实把柏拉图观点（在他们看来是一套实证的哲学学说）置于前苏格拉底派、亚里士多德及任何后继思想家之上；但更要紧的是，其标志性事业更宜称为对一份当时已极丰厚的思想遗产的伟大综合。事实上，他们吸收、挪用并创造性调和了几乎整个希腊哲学、宗教乃至文学传统，只有伊壁鸠鲁主义（遭其断然拒斥）与斯多葛派彻底的物体主义除外。由此形成的是一个宏阔而极具说服力的思想体系。它反思千年智识文化，让柏拉图、亚里士多德的科学理论与道德学说，以及斯多葛派伦理学，同文学、神话和宗教实践展开富有成果的对话。出于对众多前辈著作的内在敬意，新柏拉图主义者合力提供了一种元话语，反思数百年持续探究人类境况所积累的全部观念。
+“新柏拉图主义”指晚古时期希腊—罗马世界兴起并繁盛的一个哲学学派，时间大致从罗马帝国危机沿至阿拉伯征服，即公元 3 世纪中叶到 7 世纪中叶。随着伊壁鸠鲁主义、斯多葛主义等古代唯物主义或物体主义思想衰落，新柏拉图主义成为该时期占主导的哲学意识形态。宇宙以及个体人在宇宙中的位置，它都给出整全的理解。不过，与“斯多葛派”“逍遥派”“柏拉图派”一类标签不同，“新柏拉图主义的”之名系现代铸造，某种程度上属于误称。今天被归入“新柏拉图主义者”的晚古哲学家，并不认为自己专以复兴柏拉图对话的精神与字句为业。他们固然自称“柏拉图主义者”，也确实把柏拉图观点（在他们看来是一套实证的哲学学说）置于前苏格拉底派、亚里士多德及任何后继思想家之上；但更要紧的是，其标志性事业更宜称为对一份当时已极丰厚的思想遗产的伟大综合。事实上，他们吸收、挪用并创造性调和了几乎整个希腊哲学、宗教乃至文学传统，只有伊壁鸠鲁主义（遭其断然拒斥）与斯多葛派彻底的物体主义除外。由此形成的是一个宏阔而极具说服力的思想体系。它反思千年智识文化，让柏拉图、亚里士多德的科学理论与道德学说，以及斯多葛派伦理学，同文学、神话和宗教实践展开富有成果的对话。出于对众多前辈著作的内在敬意，新柏拉图主义者合力提供了一种元话语，反思数百年持续探究人类境况所积累的全部观念。
 
 新柏拉图主义者坚信过去并未减损其相关性，由此自然发展出一种独具特色的思辨哲学：经验事实在其中多充当例证，而非启发性起点或检验案例。今天看来，新柏拉图主义体系或显得高远、反直觉、难以置信；但要想一概弃之，却并不容易——尤其当你愿意认真对待若干根本假定，它们至少并非显然错误，而且有可能成立。
 
@@ -59,7 +59,7 @@
 
 若无光，谈论黑暗便毫无意义；黑暗其实根本不成其为东西——它若算是个东西，也只是光的缺失与反题。新柏拉图主义者据此推论：正如黑暗是光的附带产物，质料也不过是第一者动态流溢的附带产物。确切地说，它是这样一个界限：实在各层次内外活动的链条所传递的能量，到此耗尽、就此收束。黑暗无力使自身可见，质料也不再有任何能引出进一步外在活动的内在活动。因而它只是纯然被动，而那接连产出更低实在层次的永恒过程，也到此必然终止。但对我们紧要的是：正是在这个领域，接受意识赋形的灵魂活动才成为可显现、可感知的东西。说质料根本不存在、等于无，并不妥当。至少按这一理论，质料存在，却并非一个同太一分离、自有其效果的本体论本原。毋宁说，它是灵魂生命的边缘现象，是较高存在领域之活动的附带产物；就此而言它不成其为事物，是全然非形体、无形式的非存在。这一普罗提诺学说注定要在后世新柏拉图主义者中激起争论——有人提出，质料至少该有“无规定的三维性”这一属性。
 
-与质料相连、争议更大的学说，是对恶的解释。普罗提诺力图维护一个同他整套本体论相称的看法：在自上而来的存在大链条上，任何一点都不生出可被视为恶、或可视为恶之原因的东西。然而恶——尤其道德上的恶——显然是我们世界经验的一部分，总得交代它从何而来。普罗提诺的答复是：恶生于下方而非上方，且与质料紧密相关。但要紧的是，质料并不是任何摩尼教或诺斯替意义上的独立恶本原，因为它自身并无主动力量。毋宁说，恶之生起，在于高级存在者、尤其是人，把注意力转向下面的物质世界而非上面的理知世界，并对 **它** 怀有一种全盘关切的时分。可以说，正是这种向下看、而不是向上望着意识与神圣本质的顾盼，污染了灵魂，使之在道德上成恶。这一学说对道德恶的本性与存在竟有这般解释力，虽令人惊讶，它却即便在新柏拉图主义者中间也始终有争议。5 世纪的普罗克洛斯专撰一整篇论著，在这一点上反驳普罗提诺。他放弃了人性本善这一令人宽慰的观念；就此而言，他与先行的奥古斯丁不无相似：人的灵魂，**就其为灵魂而言**，确有可能在道德上彻底败坏。
+与质料相连、争议更大的学说，是对恶的解释。普罗提诺力图维护一个同他整套本体论相称的看法：在自上而来的存在大链条上，任何一点都不生出可被视为恶、或可视为恶之原因的东西。然而恶——尤其道德上的恶——显然是我们世界经验的一部分，总得交代它从何而来。普罗提诺的答复是：恶生于下方而非上方，且与质料紧密相关。但要紧的是，质料并不是任何摩尼教或诺斯替意义上的独立恶本原，因为它自身并无主动力量。毋宁说，恶之生起，在于高级存在者、尤其是人，把注意力转向下面的物质世界而非上面的理知世界，并对 **它** 怀有一种全盘关切之时。可以说，正是这种向下看、而不是向上望着意识与神圣本质的顾盼，污染了灵魂，使之在道德上成恶。这一学说对道德恶的本性与存在竟有这般解释力，虽令人惊讶，它却即便在新柏拉图主义者中间也始终有争议。5 世纪的普罗克洛斯专撰一整篇论著，在这一点上反驳普罗提诺。他放弃了人性本善这一令人宽慰的观念；就此而言，他与先行的奥古斯丁不无相似：人的灵魂，**就其为灵魂而言**，确有可能在道德上彻底败坏。
 
 ## 6 伦理学
 
@@ -87,62 +87,91 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；古代著作按篇目引称、无出版年，书目条目照录原文。
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### Essential readings of late-antique Neoplatonic Works
-
-### Selected Introductory Secondary Literature
+### 晚期古代新柏拉图主义著作要目
 
 [^plotinus-nd]: Plotinus, *Enneads*
+
 [^plotinus-nd-2]: ––– I 1 (*What is the Living Being and what is Man?*)
+
 [^plotinus-nd-3]: ––– I 2 (*On Virtues*)
+
 [^plotinus-nd-4]: ––– I 4 (*On Well-Being*)
+
 [^plotinus-nd-5]: ––– I 6 (*On Beauty*)
+
 [^plotinus-nd-6]: ––– I 8 (*What is Evil and Where Does it Come From?*)
+
 [^plotinus-nd-7]: ––– II 4 (*On Matter*)
+
 [^plotinus-nd-8]: ––– III 8 (*On Nature and Contemplation*)
+
 [^plotinus-nd-9]: ––– IV 8 (*On the Descent of the Soul in Bodies*)
+
 [^plotinus-nd-10]: ––– V 1 (*On the Three Primary Hypostases*)
+
 [^plotinus-nd-11]: ––– V 9 (*On Intellect, The Forms, and Being*)
+
 [^plotinus-nd-12]: ––– VI 8 (*On Free Will and the Will of the One*)
+
 [^porphyry-nd]: Porphyry, *Life of Plotinus*
+
 [^porphyry-nd-2]: –––, *Isagoge*
+
 [^porphyry-nd-3]: –––, *On Abstinence*
+
 [^iamblichus-nd]: Iamblichus, *On the Egyptian Mysteries*
+
 [^proclus-nd]: Proclus, *Elements of Theology*
+
 [^marinus-nd]: Marinus, *Life of Proclus*
+
 [^damascius-nd]: Damascius, *Life of Isidore*
+
 [^simplicius-nd]: Simplicius, *Commentary on Epictetus’ Handbook*
+
 [^john-nd]: John Philoponus, *On the Eternity of the World against Proclus*
-[^for-nd]: For further and more detailed information on the development of Neoplatonism in the history of Western philosophy, or on specific Neoplatonic doctrines, refer to the Related Entries section below.
+关于新柏拉图主义在西方哲学史上的发展、以及诸具体的新柏拉图主义学说，更详细的资料请参见下文的“相关词条”。
+
+### 导论性二手文献选目
+
 [^chiaradonna-2009]: Chiaradonna, Riccardo and Franco Trabattoni (eds.), 2009, *Physics and Philosophy of Nature in Greek Neoplatonism*, Leiden and Boston: Brill.
+
 [^cooper-2012]: Cooper, John M., 2012, *Pursuits of Wisdom: Six Ways of Life in Ancient Philosophy from Socrates to Plotinus*, Princeton NJ: Princeton University Press, Ch. 6.
+
 [^emilsson-1988]: Emilsson, Eyjolfur Kjalar, 1988, *Plotinus on Sense-Perception: A Philosophical Study*, Cambridge (England) and New York, NY: Cambridge University Press.
+
 [^gerson-1994]: Gerson, Lloyd P., 1994, *Plotinus*, London and New York: Routledge.
+
 [^gerson-1996]: ––– (ed.), 1996, *The Cambridge Companion to Plotinus*, Cambridge (England) and New York, NY: Cambridge University Press.
+
 [^gerson-2010]: Gerson, Lloyd P. (ed.), 2010, *The Cambridge History of Philosophy in Late Antiquity*, 2 vols., Cambridge (England) and New York, NY: Cambridge University Press.
+
 [^o’meara-1993]: O’Meara, Dominic J., 1993, *Plotinus: An Introduction to the Enneads*, Oxford and New York: Oxford University Press.
+
 [^remes-2014]: Remes, Pauliina and Svetla Slaveva-Griffin (eds.), 2014, *The Routledge Handbook of Neoplatonism*, London and New York: Routledge.
+
 [^smith-2004]: Smith, Andrew, 2004, *Philosophy in Late Antiquity*, London and New York: Routledge.
-[^wallis-1995]: Wallis, Richard T., 1995, *Neoplatonism*, with a foreword and bibliography by Lloyd P. Gerson, 2ⁿᵈ edition, London: Duckworth and Indianapolis: Hackett Publishing Company.
+
+[^wallis-1995]: Wallis, Richard T., 1995, *Neoplatonism*, with a foreword and bibliography by Lloyd P. Gerson, 2nd edition, London: Duckworth and Indianapolis: Hackett Publishing Company.
+
 [^wilberding-2012]: Wilberding, James and Christoph Horn (eds.), 2012, *Neoplatonism and the Philosophy of Nature*, Oxford: Oxford University Press.
 
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=neoplatonism)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/neoplatonism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/neoplatonism/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=neoplatonism&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/neoplatonism/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
 - [《九章集》](http://classics.mit.edu/Plotinus/enneads.html)，Stephen Mackenna、B. S. Page 译。
-- [波菲利的《导论》（*Isagoge*）](http://www.tertullian.org/fathers/porphyry_isagogue_02_translation.htm)，Octavius Freire Owen 译，特尔图良项目（The Tertulian Project）托管。
+- [波菲利的《导论》（*Isagoge*）](http://www.tertullian.org/fathers/porphyry_isagogue_02_translation.htm)，Octavius Freire Owen 译，特尔图良项目（The Tertullian Project）托管。
 
 ## 相关词条
 
-法拉比 | 肯迪 | 赫尔米亚的阿莫尼俄斯 | 希波的奥古斯丁 | 达马斯基乌斯 | 杨布里科斯 | 伊本·西那（阿维森纳） | 迈蒙尼德 | 文艺复兴时期的亚里士多德主义 | 奥林匹奥多罗斯 | 奥利金 | 约翰·菲洛波诺斯 | 普罗提诺 | 普鲁塔克 | 波菲利 | 普罗克洛斯 | 伪狄奥尼修斯 | 辛普利修斯 | 亚历山大的斯特凡努斯 | 西里阿努斯 | 亚里士多德的神学
+法拉比 | 肯迪 | 赫尔米亚的阿莫尼俄斯 | 希波的奥古斯丁 | 达马斯基乌斯 | 杨布里科斯 | 伊本·西那（阿维森纳） | 迈蒙尼德 | 文艺复兴时期的亚里士多德主义 | 奥林匹奥多罗斯 | 奥利金 | 约翰·菲洛波诺斯 | 普罗提诺 | 普鲁塔克 | 波菲利 | 普罗克洛斯 | 亚略巴古的狄奥尼修斯 | 辛普里丘 | 亚历山大的斯特凡努斯 | 西里阿努斯 | 亚里士多德的神学
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
