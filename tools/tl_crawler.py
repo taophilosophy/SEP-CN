@@ -48,6 +48,10 @@ STATE = os.path.join(ROOT, 'state', 'tl-crawl-state.json')
 TOKEN_KEY = 'TERMONLINE__PRODUCTION__3.1.7__TOKEN__'
 API = ('https://api.termonline.cn/main-serve/business/tm/tmWord/allSearch'
        '?term={term}&match=2&sources=&pubYears=&pageSize=20&pageNo=1&baseId=1')
+# 会话窗口激活器（2026-11-14 捕获实验证实）：重放这个 GET 即可让过期窗口立即复活，
+# 无需整页导航。失效机制=窗口 TTL≈120s（静置 130s 必降级，与请求频率无关），
+# 2026-11-09 的「18 请求/5 分钟限流」结论系 8s 校准间隔下的巧合，已废。
+ACTIVATE_URL = ('https://api.termonline.cn/main-serve/business/tm/tmDatabase/listFront')
 WARM = 'https://www.termonline.cn/search?searchText={q}'
 KEY = b'_11111000001111@'
 IV = b'@11111000001001_'
@@ -76,7 +80,8 @@ def _classify(srs):
 
 
 class Crawler:
-    def __init__(self, headless=True, interval=8.0, batch_gap=20.0, adapt=True):
+    def __init__(self, headless=True, interval=8.0, batch_gap=20.0, adapt=True,
+                 warm_every=90.0):
         from playwright.sync_api import sync_playwright
         self.interval = interval          # 运行时实际间隔（自适应会在 base 与 max 之间浮动）
         self.base_interval = interval     # 下限：恢复调速不会低于它
@@ -84,6 +89,8 @@ class Crawler:
         self.adapt = adapt
         self.ok_streak = 0
         self.batch_gap = batch_gap
+        self.warm_every = warm_every      # 主动续窗周期（须 < 窗口 TTL≈120s）
+        self.last_activate = 0.0
         self._pw = sync_playwright().start()
         kwargs = dict(headless=headless, viewport={'width': 1280, 'height': 900},
                       args=['--disable-blink-features=AutomationControlled'])

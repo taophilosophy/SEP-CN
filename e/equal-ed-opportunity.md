@@ -30,7 +30,7 @@
 
 第三个凸显教育机会分配之重要性的考量是：在大多数发达社会中，这类机会绝大多数由国家提供并受国家监管。所有发达社会都有法律规定，要求儿童在校学习若干年。这意味着，与其他政策杠杆不同，教育通常由国家机构掌控，并有可能触及全国绝大多数儿童，跨越种族、宗教、阶级与性别的界限。而鉴于教育带来的无数好处，它可以说是国家影响其成员生活的最有力机制。因此，教育或许是政府最重要的职能。
 
-由于教育是政府不可或缺的职能，又因为它大体上由政府提供，其分配便受到特殊约束。正义——即使别无他求——也要求政府以平等的关切与尊重对待其公民。例如，国家不能公正地以种族或性别等因素为由，向儿童提供不平等的利益。的确，这类歧视即使源于间接的国家措施（如以财产税资助学校），对儿童也可能特别有害，而且儿童对此并非毫无察觉。例如，当贫困与少数族裔儿童看到他们更优势的同龄人就读于资源更好的公立学校——在许多情况下，只需比较学校设施的样貌即可得出这一结论——他们可能会内化这样一种看法：国家不太关心培养他们的兴趣与技能。处于这种境况的儿童会遭受一种尊严上的伤害，感到自己在该国眼中不如同龄人平等（Kozol 1991, 2005）[^kozol-1991][^kozol-2005]。这种伤害对一个人的自尊尤为不利，因为它危及的正是个人才能的发展；一个人是否有机会获得技能与自信去追求其善观念，对罗尔斯所称“自尊的社会基础”至关重要（Rawls 1999: sections 65 and 67; Satz 2007: 639）[^rawls-1999][^satz-2007]。
+由于教育是政府不可或缺的职能，又因为它大体上由政府提供，其分配便受到特殊约束。正义——即使别无他求——也要求政府以平等的关切与尊重对待其公民。例如，国家不能公正地以种族或性别等因素为由，向儿童提供不平等的利益。的确，这类歧视即使源于间接的国家措施（如以财产税资助学校），对儿童也可能特别有害，而且儿童对此并非毫无察觉。例如，当贫困与少数族裔儿童看到他们更优势的同龄人就读于资源更好的公立学校——在许多情况下，只需比较学校设施的样貌即可得出这一结论——他们可能会内化这样一种看法：国家不太关心培养他们的兴趣与技能。处于这种境况的儿童会遭受一种尊严上的伤害，感到自己在该国眼中不如同龄人平等（Kozol 1991, 2005）[^kozol-1991][^kozol-2005]。这种伤害对一个人的自尊尤为不利，因为它危及的正是个人才能的发展；一个人是否有机会获得技能与自信去追求其善观念，对罗尔斯所称“自尊的社会基础”至关重要（Rawls 1999: 第 65、67 节; Satz 2007: 639）[^rawls-1999][^satz-2007]。
 
 ## 2 教育机会均等在美国的简史
 
@@ -82,7 +82,7 @@
 
 形式机会均等是这样一种观点：凡提及个人特征或归因性特征（ascriptive characteristics）的形式规则，都不应成为达成某些目标的障碍。这类特征包括种族、社会经济阶级、性别、宗教与性取向。它本质上是法律面前平等的概念，常被理解为一种反歧视原则（更多讨论见机会均等词条）。
 
-就教育机会而言，形式机会均等要求移除那些以法律或教育机构入学标准形式存在、且提及归因性特征的形式障碍。例如，形式机会均等反对依法隔离的学校——其招生政策规定学生须为白人、男性或属于某一宗教。这一观念同样反对认可或要求学校隔离的法律。布朗案至少与形式机会均等相一致。同时值得注意的是，形式机会均等与许多社会对按性别和宗教隔离的学校与学院所持的宽容态度相抵触。使这些做法与教育机会均等相调和的一个可能方式，是主张这一原则仅适用于公立教育机构，而不适用于私立学校与学院。有些人接受形式机会均等是指导教育机会分配的充分规范，但大多数政治与道德哲学家只把它视为必要条件而非充分条件。一项不歧视原则留下如下问题未决：国家是否以及任何种程度上需要提供教育所需的资源，或这些资源应如何分配（见 Gutmann 1999: 127ff）[^gutmann-1999]。由于资源对教育是必要的——无论是书籍和材料、教师、设施等形式——形式机会均等与一些儿童实际未能接受教育是相容的。形式机会均等未能提供有效的机会均等。
+就教育机会而言，形式机会均等要求移除那些以法律或教育机构入学标准形式存在、且提及归因性特征的形式障碍。例如，形式机会均等反对依法隔离的学校——其招生政策规定学生须为白人、男性或属于某一宗教。这一观念同样反对认可或要求学校隔离的法律。布朗案至少与形式机会均等相一致。同时值得注意的是，形式机会均等与许多社会对按性别和宗教隔离的学校与学院所持的宽容态度相抵触。使这些做法与教育机会均等相调和的一个可能方式，是主张这一原则仅适用于公立教育机构，而不适用于私立学校与学院。有些人接受形式机会均等是指导教育机会分配的充分规范，但大多数政治与道德哲学家只把它视为必要条件而非充分条件。一项不歧视原则留下如下问题未决：国家是否以及在何种程度上需要提供教育所需的资源，或这些资源应如何分配（见 Gutmann 1999: 127ff）[^gutmann-1999]。由于资源对教育是必要的——无论是书籍和材料、教师、设施等形式——形式机会均等与一些儿童实际未能接受教育是相容的。形式机会均等未能提供有效的机会均等。
 
 此外，形式教育机会均等并不关注社会中人们所面对的非正式规则、社会规范或私人歧视，而这些对儿童的教育机会可能产生深远影响。试想：如果学校入学区域由居住地决定，而居住地又按种族和社会阶级隔离（美国通常如此），那么形式机会均等便与学校隔离相容。如果融合是一项道德律令，形式机会均等就无法实现这一目标（Anderson 2010）[^anderson-2010]。许多人认为，只要非正式歧视构成教育机会的不公平障碍，它就是一个需要政策关注的严重问题。
 
@@ -154,7 +154,7 @@
 
 关于公民教育领域平等的持续争论的另一个维度，涉及我们教育学生所要成为其成员的那个共同体的范围。恰当的分析单位是某一特定民族国家，还是全球共同体？如果它是某一特定民族国家，我们如何培养学生对其民族认同的感知，以及尊重其国家制度与法律（并在必要时倡导改革）的倾向，同时使他们敏锐意识到，作为正义问题，他们对非公民所欠为何？这一争论的关键组成部分，是学生是否应当接受爱国主义公民教育——即那种优先巩固其对国家的忠诚、而非批判性反思其潜在缺陷之能力的教育。加尔维斯顿（Galston，1989）显著地主张，学生需要一种重修辞甚于理性的公民教育，而许多自由理论家则基于民主正当性、其现状偏见、以及相关的固化既有不平等的可能性，批评他的观点（例如 Brighouse 1998; Callan 1997; 另见公民教育相关词条）[^brighouse-1998][^callan-1997]。另一方面，如果我们转而采取世界主义的公民教育观，旨在培养“世界公民”（例如 Nussbaum & Cohen 1996）[^nussbaum-1996]，那么哪些相关能力需要被有效化？并没有世界国家供学生参与。
 
-无论人们相信公民教育的恰当范围与内容为何，一个紧迫的问题是：学生获得为其参与性公民身份做准备的教育机会的机会极不均匀。梅拉·莱文森（Meira Levinson）关于“公民成就差距”的研究，凸显了这一与讨论更多的成就差距相关的推论，并强调了学生群体之间在青年人对政府如何运作了解多少、以及他们有效参与公民生活的能力方面存在的巨大不平等（Levinson 2012）[^levin-2012][^levinson-2012]。这些低参与率与低投入率，也对穷人的利益如何被对待产生影响。的确，即使人们在这一领域拒绝机会均等，仍有充分证据表明，许多社会在使较贫困、受教育较少的公民有效而胜任地参与公共生活方面做得不够。
+无论人们相信公民教育的恰当范围与内容为何，一个紧迫的问题是：学生获得为其参与性公民身份做准备的教育机会的机会极不均匀。梅拉·莱文森（Meira Levinson）关于“公民成就差距”的研究，凸显了这一与讨论更多的成就差距相关的推论，并强调了学生群体之间在青年人对政府如何运作了解多少、以及他们有效参与公民生活的能力方面存在的巨大不平等（Levinson 2012）[^levinson-2012]。这些低参与率与低投入率，也对穷人的利益如何被对待产生影响。的确，即使人们在这一领域拒绝机会均等，仍有充分证据表明，许多社会在使较贫困、受教育较少的公民有效而胜任地参与公共生活方面做得不够。
 
 ### 3.9 教育机会分配中的平等与充足
 
@@ -174,7 +174,7 @@
 
 尽管其中一些不平等可能由处理就业实践、性别与种族不平等、财富不平等的社会政策所补救，但我们有理由认为，一个公正社会中仍会存在一些机会不平等，仅仅因为父母应当能够以对其子女有利的方式，区别对待自己的子女与他人的子女。例如，父母可以给自己的孩子读睡前故事，但若如此，他并不需要也给其他孩子读，即使不给所有人读会加剧不平等。国家在不侵扰家庭生活的前提下所能做的，是有限度的。同时，对缓解植根于家庭关系的不平等的关切，必须面对这样一个事实：不同的养育风格既有价值也有缺点，而中产阶级尽力最大化儿童潜能的规范（“协作培养”；Lareau 2011）[^lareau-2011]，在给儿童带来某些劣势方面也不例外。
 
-对于平等教育机会与家庭之间的冲突，有几种可能的进路。一种进路，是把我们对教育机会均等的关切置于对家庭的关切之下。为支持这一观点，我们或许会主张，家庭生活的善尤其沉重；或者，作为价值多元主义的问题，国家不能对养育实践强加完全的统一。反之，我们也可以把对家庭的关切置于对教育机会均等的关切之下。然而，若如此，我们最终可能会废除我们所知的家庭，因为家庭与偏私有悖于机会均等。人们似乎不能既拥有家庭，又拥有完美的机会均等。柏拉图在《理想国》中著名地主张，应在社群内共同养育儿童（尽管并非出于对平等的关切）。但大多数哲学家，包括罗尔斯，都相信废除家庭是为一等化所付出的过高代价（此点在 Munoz-Dardé 1999、Brighouse & Swift 2009、Schoeman 1980、Schrag 1976 中有讨论；另见 Miller 2009 关于机会均等的不同观念以及家庭如何嵌入其中）[^brighouse-2009][^miller-2009][^munoz-dardé-1999][^schoeman-1980][^schrag-1976]。
+对于平等教育机会与家庭之间的冲突，有几种可能的进路。一种进路，是把我们对教育机会均等的关切置于对家庭的关切之下。为支持这一观点，我们或许会主张，家庭生活的善尤其沉重；或者，作为价值多元主义的问题，国家不能对养育实践强加完全的统一。反之，我们也可以把对家庭的关切置于对教育机会均等的关切之下。然而，若如此，我们最终可能会废除我们所知的家庭，因为家庭与偏私有悖于机会均等。人们似乎不能既拥有家庭，又拥有完美的机会均等。柏拉图在《理想国》中著名地主张，应在社群内共同养育儿童（尽管并非出于对平等的关切）。但大多数哲学家，包括罗尔斯，都相信废除家庭是为平等付出的过高代价（此点在 Munoz-Dardé 1999、Brighouse & Swift 2009、Schoeman 1980、Schrag 1976 中有讨论；另见 Miller 2009 关于机会均等的不同观念以及家庭如何嵌入其中）[^brighouse-2009][^miller-2009][^munoz-dardé-1999][^schoeman-1980][^schrag-1976]。
 
 或者，我们或许认为需要对所涉价值进行谨慎的权衡。例如，我们或许认为，只有家庭偏私的某些要求——那些与亲密关系相关的要求，如读睡前故事——才足以压倒对教育机会均等的关切。家庭偏私中看似与亲密无关的其他方面，如为私立学校支付学费，则不会被证明为正当。这一观点将要求我们，在能够做到的时候，平等化儿童的教育机会，而不牺牲家庭的核心之善（Brighouse & Swift 2014）[^brighouse-2014]。然而，在实践中，要确定父母为子女提供的某种优势是否构成家庭的一部分，可能非常困难。
 
@@ -219,7 +219,7 @@
 
 [^barnes-2016]: Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press.
 
-[^bowles-2001]: Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 137–1176. doi:10.1257/jel.39.4.1137
+[^bowles-2001]: Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 1137–1176. doi:10.1257/jel.39.4.1137
 
 [^brighouse-1998]: Brighouse, Harry, 1998, “Civic Education and Liberal Legitimacy”, *Ethics*, 108(4): 719–745. doi:10.1086/233849
 
@@ -261,7 +261,7 @@
 
 [^hutton-2015]: Hutton, John S., Tzipi Horowitz-Kraus, Alan L. Mendelsohn, Tom DeWitt, Scott K. Holland, & C-MIND Authorship Consortium, 2015, “Home Reading Environment and Brain Activation in Preschool Children Listening to Stories”, *Pediatrics*, 136(3): 466–478. doi:10.1542/peds.2015-0359
 
-[^institute-1998]: Institute for Higher Education, 1998, *Reaping the Benefits: Defining the Public and Private Value of Going to College*, Washington, DC: Institute for Higher Education.
+[^institute-1998]: Institute for Higher Education Policy, 1998, *Reaping the Benefits: Defining the Public and Private Value of Going to College*, Washington, DC: Institute for Higher Education.
 
 [^jacobs-2004]: Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: the Theory and Practice of Egalitarian Justice*, Cambridge: Cambridge University Press.
 
@@ -289,7 +289,7 @@
 
 [^liu-2006]: Liu, Goodwin, 2006, “Interstate Inequality in Educational Opportunity”, *New York University Law Review*, 81(6): 2044–2128.
 
-[^loi-2013]: Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigentics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
+[^loi-2013]: Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigenetics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
 
 [^loury-1987]: Loury, Glenn C., 1987, “Why Should We Care About Group Inequality”, *Social Philosophy and Policy* 5(1): 249–271. doi:10.1017/S0265052500001345
 
@@ -318,7 +318,7 @@
 
 [^rawls-2005]: –––, 2005, *Political Liberalism*, New York: Columbia University Press.
 
-[^reardon-2011]: Reardon, Sean F., 2011, “The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations”, in Greg J. Duncan and Richard J. Murnane (eds.), *Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances*, New York, NY: Russel Sage Foundation, pp. 91–116.
+[^reardon-2011]: Reardon, Sean F., 2011, “The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations”, in Greg J. Duncan and Richard J. Murnane (eds.), *Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances*, New York, NY: Russell Sage Foundation, pp. 91–116.
 
 [^reardon-2011-2]: Reardon, Sean F. and Kendra Bischoff, 2011, “Income Inequality and Income Segregation”, *American Journal of Sociology*, 116(4): 1092–1153. doi:10.1086/657114
 
@@ -340,7 +340,7 @@
 
 [^saez-2014]: Saez, Emmanuel and Gabriel Zucman, 2014, *Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data* (NBER Working Paper no. 20625), Cambridge, MA: National Bureau of Economic Research. doi:10.3386/w20625
 
-[^sahlberg-2011]: Sahlberg, Pasi, 2011, *Finnish lessons*, New York: Teachers College Press.
+[^sahlberg-2011]: Sahlberg, Pasi, 2011, *Finnish Lessons*, New York: Teachers College Press.
 
 [^sandel-2020]: Sandel, Michael, 2020, *The Tyranny of Merit: What’s Become of the Common Good?* New York: Farrar, Straus and Giroux.
 
@@ -405,9 +405,9 @@
 ### 其他资源
 
 * [《教育状况》](https://nces.ed.gov/programs/coe/)，国家教育统计中心
-* Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
-* Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
-* Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
+* Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). 取自斯坦福大学教育政策分析中心。
+* Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). 取自斯坦福大学教育政策分析中心。
+* Reardon, Sean F., Erica Weathers, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). 取自斯坦福大学教育政策分析中心。
 * [国家公平地图集](http://www.nationalequityatlas.org)，PolicyLink 与南加州大学股权研究所。特别是[学校贫困](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)条目
 * [2022 年美国劳工统计局](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
 * 美国一些选拔性大学近期新生班级的在线简介

@@ -229,7 +229,7 @@ This entry has provided analysis of key positions in debates about equality of e
 - [“The Condition of Education”](https://nces.ed.gov/programs/coe/), National Center for Education Statistics
 - Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
 - Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
-- Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
+- Reardon, Sean F., Erica Weathers, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
 - [National Equity Atlas](http://www.nationalequityatlas.org), PolicyLink and the USC Equity Research Institute. In particular the entry on [School Poverty](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
 - [2022 US Bureau of Labor Statistics](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
 - Online Profiles of the recent Freshman Class at Some Selective American Universities
@@ -254,7 +254,7 @@ affirmative action | childhood, the philosophy of | citizenship | civic educatio
 
 [^barnes-2016]: Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press.
 
-[^bowles-2001]: Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 137–1176. doi:10.1257/jel.39.4.1137
+[^bowles-2001]: Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 1137–1176. doi:10.1257/jel.39.4.1137
 
 [^brighouse-1998]: Brighouse, Harry, 1998, “Civic Education and Liberal Legitimacy”, *Ethics*, 108(4): 719–745. doi:10.1086/233849
 
@@ -296,7 +296,7 @@ affirmative action | childhood, the philosophy of | citizenship | civic educatio
 
 [^hutton-2015]: Hutton, John S., Tzipi Horowitz-Kraus, Alan L. Mendelsohn, Tom DeWitt, Scott K. Holland, & C-MIND Authorship Consortium, 2015, “Home Reading Environment and Brain Activation in Preschool Children Listening to Stories”, *Pediatrics*, 136(3): 466–478. doi:10.1542/peds.2015-0359
 
-[^institute-1998]: Institute for Higher Education, 1998, *Reaping the Benefits: Defining the Public and Private Value of Going to College*, Washington, DC: Institute for Higher Education.
+[^institute-1998]: Institute for Higher Education Policy, 1998, *Reaping the Benefits: Defining the Public and Private Value of Going to College*, Washington, DC: Institute for Higher Education.
 
 [^jacobs-2004]: Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: the Theory and Practice of Egalitarian Justice*, Cambridge: Cambridge University Press.
 
@@ -324,7 +324,7 @@ affirmative action | childhood, the philosophy of | citizenship | civic educatio
 
 [^liu-2006]: Liu, Goodwin, 2006, “Interstate Inequality in Educational Opportunity”, *New York University Law Review*, 81(6): 2044–2128.
 
-[^loi-2013]: Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigentics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
+[^loi-2013]: Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigenetics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
 
 [^loury-1987]: Loury, Glenn C., 1987, “Why Should We Care About Group Inequality”, *Social Philosophy and Policy* 5(1): 249–271. doi:10.1017/S0265052500001345
 
@@ -354,7 +354,7 @@ affirmative action | childhood, the philosophy of | citizenship | civic educatio
 
 [^rawls-2005]: –––, 2005, *Political Liberalism*, New York: Columbia University Press.
 
-[^reardon-2011]: Reardon, Sean F., 2011, “The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations”, in Greg J. Duncan and Richard J. Murnane (eds.), *Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances*, New York, NY: Russel Sage Foundation, pp. 91–116.
+[^reardon-2011]: Reardon, Sean F., 2011, “The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations”, in Greg J. Duncan and Richard J. Murnane (eds.), *Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances*, New York, NY: Russell Sage Foundation, pp. 91–116.
 
 [^reardon-2011-2]: Reardon, Sean F. and Kendra Bischoff, 2011, “Income Inequality and Income Segregation”, *American Journal of Sociology*, 116(4): 1092–1153. doi:10.1086/657114
 
@@ -376,7 +376,7 @@ affirmative action | childhood, the philosophy of | citizenship | civic educatio
 
 [^saez-2014]: Saez, Emmanuel and Gabriel Zucman, 2014, *Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data* (NBER Working Paper no. 20625), Cambridge, MA: National Bureau of Economic Research. doi:10.3386/w20625
 
-[^sahlberg-2011]: Sahlberg, Pasi, 2011, *Finnish lessons*, New York: Teachers College Press.
+[^sahlberg-2011]: Sahlberg, Pasi, 2011, *Finnish Lessons*, New York: Teachers College Press.
 
 [^sandel-2020]: Sandel, Michael, 2020, *The Tyranny of Merit: What’s Become of the Common Good?* New York: Farrar, Straus and Giroux.
 
