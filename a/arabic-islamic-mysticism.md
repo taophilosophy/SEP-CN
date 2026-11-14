@@ -44,7 +44,7 @@
 
 > 在知者与所知之间，横着一道由从疏忽之梦中觉醒者所立的区别。
 
-纳赛尔·霍斯鲁就初学者应如何依特定苦修实践走精神之路，给出了具体指导。与圣奥古斯丁、亚西西的圣方济各相似，纳赛尔·霍斯鲁早年过享乐生活，后经历精神蜕变，献身苏非之道。其生平两个阶段的回声，贯穿其全部著作（Hunsburger 2000）[^hunsburger-2000]。
+纳赛尔·霍斯鲁就初学者应如何依特定苦修实践走精神之路，给出了具体指导。与圣奥古斯丁、亚西西的圣方济各相似，纳赛尔·霍斯鲁早年过享乐生活，后经历精神蜕变，献身苏非之道。其生平两个阶段的回声，贯穿其全部著作（Hunsberger 2000）[^hunsburger-2000]。
 
 伊斯玛仪传统还有一些作者不详的百科全书式著作，其中许多涉及神秘主义与苏非观念。在传播灵知观念上颇有影响的著作，包括《精诚兄弟社》（*Ikhwān al-ṣafā*）与《诸书之母》（*Umm al-kitāb*）这类论著（Daftary 1990; Nasr & Aminrazavi 1999/2001）[^daftary-1990][^nasr-1999]。
 
@@ -54,7 +54,7 @@
 
 出自西班牙的哲学神秘主义大师中，伊本·马萨拉（Ibn Masarrah，883—931 年）尤为突出。他是一位苦修者，其关于灵魂与神神秘合一之追求的看法，构成其哲学神秘主义的主题。其他人包括：强调神秘之爱的伊本·哈兹姆（Ibn Ḥazm，994—1064 年）；把智识与神秘直观当作体验神圣实在之官能的伊本·巴哲（Ibn-Bājjah，1095—1138 年）；发展出所谓数学神秘主义的巴达霍斯的伊本·西德（Ibn Al-Sid of Badajoz，1052—1127 年）；以及伊本·图斐利（Ibn-Ṭufayl，约 1105—1185 年）——其神秘寓言《醒着者的儿子》（*Ḥayy ibn Yaqẓān*）与主动理智概念，使他成为伊斯兰哲学传统中神秘主义的主要代表。最后是苏非哲学家伊本·萨宾（Ibn Sabʼīn，1217—1268 年）：他系统处理神秘主题，努力促成哲学与苏非主义的和解。
 
-尽管上述人物都很重要，却无人企及灵知与哲学苏非主义最伟大的大师——谢赫穆希丁·伊本·阿拉比（Shaykh Muḥyī al-Dīn Ibn ʼArabī，1165—1240 年），常称“大谢赫”（Shaykh al-Akbar）。伊本·阿拉比的百科全书式著作《智慧珍宝》（*Fuṣūṣ al-ḥakam*）与《麦加之启》（*Futuḥāt al-Makkiyah*），为伊斯兰神秘主义类型提供了最复杂的范式之一。其哲学神秘主义常被称为“存在单一论”（*wahdat al-wūjūd*），对灵知与苏非观念作了宏大综合，并包含一种哲学话语——它第一次把苏非学说系统表述出来。在伊本·阿拉比那里，可以看到一项浩大努力：就灵知论的形而上学、宇宙论与心理学诸方面作全面注疏，从而提供一幅实在图景，而要达至它须践行苏非之道。伊本·阿拉比的哲学-神秘大厦，是一套精神释经（*taʼwīl*）的过程；它依凭象征语言，引导初学者从外在（*ẓāhir*）走向内在（*bāṭin*）。对伊本·阿拉比而言，整个宇宙都呈现为符号（*ayāt*），可供象征解经；这一过程的顶点是完人（*al-insān al-kāmil*）。伊本·阿拉比的存在单一论（*waḥdat al-wūjūd*）被许多人解释为泛神论，但他谨慎地主张：即便神寓于万物，世界也“不在”神之中。对伊本·阿拉比而言，人是微观宇宙，宇宙是宏观宇宙；完人则是实现其全部固有潜能者——其中包括神在创世之初吹入人身的圣息，如《古兰经》所言。对伊本·阿拉比而言，正是灵魂之内对神的精神实现，导向与神的合一（见 Nasr 1964; Chittick 1989 and 2007）[^chittick-2007][^chittick-1989][^nasr-1964]。
+尽管上述人物都很重要，却无人企及灵知与哲学苏非主义最伟大的大师——谢赫穆希丁·伊本·阿拉比（Shaykh Muḥyī al-Dīn Ibn ʼArabī，1165—1240 年），常称“大谢赫”（Shaykh al-Akbar）。伊本·阿拉比的百科全书式著作《智慧珍宝》（*Fuṣūṣ al-ḥikam*）与《麦加之启》（*Futuḥāt al-Makkiyah*），为伊斯兰神秘主义类型提供了最复杂的范式之一。其哲学神秘主义常被称为“存在单一论”（*wahdat al-wūjūd*），对灵知与苏非观念作了宏大综合，并包含一种哲学话语——它第一次把苏非学说系统表述出来。在伊本·阿拉比那里，可以看到一项浩大努力：就灵知论的形而上学、宇宙论与心理学诸方面作全面注疏，从而提供一幅实在图景，而要达至它须践行苏非之道。伊本·阿拉比的哲学-神秘大厦，是一套精神释经（*taʼwīl*）的过程；它依凭象征语言，引导初学者从外在（*ẓāhir*）走向内在（*bāṭin*）。对伊本·阿拉比而言，整个宇宙都呈现为符号（*ayāt*），可供象征解经；这一过程的顶点是完人（*al-insān al-kāmil*）。伊本·阿拉比的存在单一论（*waḥdat al-wūjūd*）被许多人解释为泛神论，但他谨慎地主张：即便神寓于万物，世界也“不在”神之中。对伊本·阿拉比而言，人是微观宇宙，宇宙是宏观宇宙；完人则是实现其全部固有潜能者——其中包括神在创世之初吹入人身的圣息，如《古兰经》所言。对伊本·阿拉比而言，正是灵魂之内对神的精神实现，导向与神的合一（见 Nasr 1964; Chittick 1989 and 2007）[^chittick-2007][^chittick-1989][^nasr-1964]。
 
 12 世纪，在所谓的哲学活动“衰微期”，最显要的人物是哲学家-苏非谢赫希哈布丁·苏哈拉瓦迪，照明学派（*Ishrāq*）的创立者。苏哈拉瓦迪原属逍遥学派，写了四部主要著作，大体属于亚里士多德传统。他还以一套独特的隐微传统写了若干著作，使用他所谓的“照明语言”（*lisān al-ishrāq*）。在其照明论著作中，苏哈拉瓦迪依凭新柏拉图主义，却以光与照明取代存在与实有这类概念，从而提供了一种可称为灵知-照明论版本的伊本·西那哲学（Aminrazavi 2003）[^aminrazavi-2003][^aminrazavi-2003-2]。他在其主要著作《照明哲学》（*Ḥikmat al-ishrāq*）中提出照明学说。
 
@@ -120,7 +120,7 @@
 
 鲁米又断言：
 
-> 凭欺诈与机巧通晓……几何学、天文学、医学与哲学之精微的动物人，这些学问都关乎此世，他被挡在通往第七重天的路之外。那些学问都适于搭一间厩棚；它们不过是骆驼与牛之居所的柱子。其目的只是让动物多活一两天，而这些蠢材却把那些学问称为“奥秘”（Nicholson, IV: 1519–1516）
+> 凭欺诈与机巧通晓……几何学、天文学、医学与哲学之精微的动物人，这些学问都关乎此世，他被挡在通往第七重天的路之外。那些学问都适于搭一间厩棚；它们不过是骆驼与牛之居所的柱子。其目的只是让动物多活一两天，而这些蠢材却把那些学问称为“奥秘”（Nicholson, IV: 1516–1519）
 
 批判了符合论、权威与推理的真理理论之后，鲁米倡导一种更具存在性的真理理解；他与许多伊斯兰哲学家一样，称之为普遍理智。他告诉我们：
 
@@ -142,7 +142,7 @@
 
 伊斯兰传统中的萨德拉之后哲学，虽未达到萨法维时期大师的成就水平，萨德拉的形而上学学派却在随后时代于波斯内外都找到追随者。穆拉·萨德拉的影响在阿拉伯世界颇为边缘——那里总体上似乎与传统形而上学议题保持距离——但在印度，萨德拉哲学颇受欢迎，至今仍在传统学校中讲授。
 
-18 世纪初伊朗卡扎尔王朝兴起，萨德拉哲学再度成为哲学活动的焦点。这一时期灵知与哲学神秘主义最伟大的代表，后来被称为“德黑兰学派”。该学派包括穆拉·阿里·努里（Mullā ʼAlī Nurī，卒于 1830—1 年），其《经文之秘注》是对《古兰经》某些经文的隐微注疏；穆拉·伊斯玛仪·哈朱伊（Mullā Ismāʼīl Khājuʼī，卒于 1759 年），在灵知语境中论时间概念；以及此期最著名的人物哈吉·穆拉·哈迪·萨布扎瓦里（Ḥājj Mullā Hādī Sabziwārī，1797—1873 年），其《论著注》（*Sharḥ-i manẓumah*）是哲学灵知学的汇编。萨布扎瓦里还以笔名 *Asrār*（《秘密》）写神秘诗；他促成了神秘哲学众多支脉之间的和解，并视苦修为过哲学生活的中心部分。萨布扎瓦里 1797 年去世后，德黑兰成为哲学活动的中心，其中大部分围绕穆拉·萨德拉与萨布扎瓦里的哲学。德黑兰学派的显著特征是：知识本质上是层级性的；推理性哲学虽有用，终究有限。在这一传统中，人唯有凭智识直观、照明与内心净化，才能体验存在之实在（Sabzavārī 1969; Ashtiyānī 1973）[^ashtiyānī-1973][^sabzavārī-1969]。此期其他大师还有穆拉·阿卜杜拉·祖努齐（Mullā ʼAbdallāh Zunuzī，卒于 1841—42 年），《神圣闪光》（*al-Lamaʼāt al-ilāhiyyah*）的作者；及其子穆拉·阿里·祖努齐（Mullā ʼAlī Zunuzī，卒于 1889—1900 年），著有《智慧奇观》（*Badāyiʼ al-ḥikam*）。父子二人的著作都是就广泛哲学问题所作的灵知与神秘注疏。德黑兰学派由兼为教法学家的大学者主导，故延续萨德拉与萨布扎瓦里的传统。但它与民间苏非主义保持距离——后者在他们看来对伊斯兰教法（*Shariʼah*）态度宽松，甚至有反律法倾向。强调虔敬、苦修与在教法（*Shariʼah*）规定限度内净化灵魂——或许部分是对现代性的回应——是德黑兰学派的显著特征。
+18 世纪初伊朗卡扎尔王朝兴起，萨德拉哲学再度成为哲学活动的焦点。这一时期灵知与哲学神秘主义最伟大的代表，后来被称为“德黑兰学派”。该学派包括穆拉·阿里·努里（Mullā ʼAlī Nurī，卒于 1830—1 年），其《经文之秘注》是对《古兰经》某些经文的隐微注疏；穆拉·伊斯玛仪·哈朱伊（Mullā Ismāʼīl Khājuʼī，卒于 1759 年），在灵知语境中论时间概念；以及此期最著名的人物哈吉·穆拉·哈迪·萨布扎瓦里（Ḥājj Mullā Hādī Sabziwārī，1797—1873 年），其《论著注》（*Sharḥ-i manẓumah*）是哲学灵知学的汇编。萨布扎瓦里还以笔名 *Asrār*（《秘密》）写神秘诗；他促成了神秘哲学众多支脉之间的和解，并视苦修为过哲学生活的中心部分。萨布扎瓦里 1873 年去世后，德黑兰成为哲学活动的中心，其中大部分围绕穆拉·萨德拉与萨布扎瓦里的哲学。德黑兰学派的显著特征是：知识本质上是层级性的；推理性哲学虽有用，终究有限。在这一传统中，人唯有凭智识直观、照明与内心净化，才能体验存在之实在（Sabzavārī 1969; Ashtiyānī 1973）[^ashtiyānī-1973][^sabzavārī-1969]。此期其他大师还有穆拉·阿卜杜拉·祖努齐（Mullā ʼAbdallāh Zunuzī，卒于 1841—42 年），《神圣闪光》（*al-Lamaʼāt al-ilāhiyyah*）的作者；及其子穆拉·阿里·祖努齐（Mullā ʼAlī Zunuzī，卒于 1889—1900 年），著有《智慧奇观》（*Badāyiʼ al-ḥikam*）。父子二人的著作都是就广泛哲学问题所作的灵知与神秘注疏。德黑兰学派由兼为教法学家的大学者主导，故延续萨德拉与萨布扎瓦里的传统。但它与民间苏非主义保持距离——后者在他们看来对伊斯兰教法（*Shariʼah*）态度宽松，甚至有反律法倾向。强调虔敬、苦修与在教法（*Shariʼah*）规定限度内净化灵魂——或许部分是对现代性的回应——是德黑兰学派的显著特征。
 
 伊斯兰世界中成为神秘哲学代表的穆斯林哲学家多得无法在此尽举；但显然，神秘主义是一种活的传统，持续占据穆斯林世界哲学的中心舞台。要完整交代伊斯兰哲学传统中的全部神秘主义传统，几乎不可能；然而这类传统今日几乎存在于每个穆斯林国家（见 Kiliç 1996）[^kiliç-1996]。
 
@@ -164,7 +164,7 @@
 
 [^afifi-1951]: Afifi, A.E., 1951. “The Influence of Hermetic Literature on Moslem Thought.” *Bulletin of the School of Oriental and African Studies*, 13 (4): 840–855.
 
-[^aminrazavi-1994]: Aminrazavi, M., 1994. “The Significance of Suhrawardī’s Persian Sufi Writings in the Philosophy of Illumination.” in *Classical* *Persian Sufism: From Its Origin to Rumi*, ed. L. Lewisohn, London: KNP Press, pp. 259–283.
+[^aminrazavi-1994]: Aminrazavi, M., 1994. “The Significance of Suhrawardī’s Persian Sufi Writings in the Philosophy of Illumination.” in *Classical Persian Sufism: From Its Origin to Rumi*, ed. L. Lewisohn, London: KNP Press, pp. 259–283.
 
 [^aminrazavi-1996]: –––, 1996. *Suhrawardī and the School of Illumination*, London: Curzon Press.
 
@@ -174,7 +174,7 @@
 
 [^baumstark-1932]: Baumstark, A., 1932. “Zu den Schriftzitaten al-Kirmānīs”, in *Der Islam*, 20: 308–13; in C. Brockelmann, *Geschichte der Arabischen Litteratur*, Volume I, Leiden: Brill, 1943, pp. 325–6.
 
-[^chittick-2007]: Chittick, W. C., 2007. Ibn Arabī, *Ibn Arabī’s Metaphysics of Imagination*, Oxford: Oneworld Press.
+[^chittick-2007]: Chittick, W. C., 2007. *Ibn Arabī’s Metaphysics of Imagination*, Oxford: Oneworld Press.
 
 [^chittick-1989]: –––, 1989. *The Sufi Path of Knowledge*, Albany, NY: SUNY Press.
 
@@ -198,7 +198,7 @@
 
 [^hunzai-1986]: Hunzai, F. M., 1986. *The Concept of Tawḥid in the Thought of Ḥamid al-Dīn al-Kirmānī*, Ph.D. Dissertation, McGill University.
 
-[^hunsburger-2000]: Hunsburger, A.C., 2000. *Nasir Khusraw:The Ruby of Badakhshan*, London: I.B. Tauris.
+[^hunsburger-2000]: Hunsberger, A.C., 2000. *Nasir Khusraw: The Ruby of Badakhshan*, London: I.B. Tauris.
 
 [^inati-1996]: Inati, Sh., 1996. *Ibn Sina and Mysticism*, New York, London: Kegan Paul International.
 
@@ -223,7 +223,7 @@
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism)。
 * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/sep/arabic-islamic-mysticism/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
