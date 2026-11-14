@@ -10,26 +10,33 @@ baseline/entries.json 的 files[].sha256 永远只记「原始网页 sha」（�
 
 verify 门禁：任何 en/ 文件 sha ≠ 原始钉而未登记分歧 → 红灯（堵「静默改原文」）；
 已登记而三账不符（钉被改、本地又被改）→ 同样红灯，须先搬运或修正账目。
-上游真变时的搬运：patch 输出 原始字节→本地 的 unified diff，人工裁定后向
-新上游搬运（逆向补丁），再更新本账（流程见 specs/001 contracts/cli.md）。
+上游真变时的搬运（逆向补丁，ADR-0045 决策 5）：carry 以 原始钉 为基做三方合并
+（基→本地勘误 × 基→新上游；git merge-file 实现）——hunk 不相交自动随迁，相交出
+冲突件转人工；随迁成功即归档新上游快照（results/upstream-snapshots/）、前移原始钉、
+更新账目（base_snapshot 锚新原始字节）。patch 输出 原始字节→本地 的 unified diff。
 
 子命令:
-  verify [--deep]      三账一致性核验（--deep 加核 base_commit 的 git blob
-                       sha256 == 原始钉；浅克隆下不可核作失败报告，仅本地跑）
+  verify [--deep]      三账一致性核验（--deep 加核锚点字节==原始钉：base_commit
+                       的 git blob 或 base_snapshot 快照文件；浅克隆下 blob 不可核
+                       如实报告，仅本地跑）
   register <path>...   登记批准分歧（--commit 勘误提交，缺省取该路径最新提交；
                        --reason 勘误定性说明）
+  carry <path>         逆向补丁搬运：--new <新上游快照>；干净合并直接落盘并移钉；
+                       冲突退出码 3 并出冲突件，人工解决后 --merged <文件> 复跑
   patch <path>         输出 原始→本地 unified diff（搬运用，diff 走 stdout）
   list                 概览
 输出: JSON 走 stdout（patch 除外）；人读进度走 stderr。
-退出码: 0 成功/全绿；1 有失败；2 用法/前置不满足。
+退出码: 0 成功/全绿；1 有失败；2 用法/前置不满足；3 搬运冲突待人工。
 """
 import argparse
 import difflib
 import io
 import json
 import os
+import shutil
 import subprocess
 import sys
+import tempfile
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -41,6 +48,7 @@ if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 DIV_PATH = ("baseline", "divergences.json")
+SNAP_DIR = ("specs", "001-sep-sync-pipeline", "results", "upstream-snapshots")
 SCHEMA = "sep-cn-divergences/1"
 
 
