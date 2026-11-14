@@ -308,7 +308,7 @@ Aristotle, General Topics: ethics | Hobbes, Thomas | Hume, David | Moore, George
 
 [^kahane-2014]: –––, 2014, “Evolution and Impartiality,” *Ethics*, 124: 327–41.
 
-[^korsgaard-2005]: Korsgaard, C, 2005, “The Myth of Egoism,”, in *Practical Conflicts: New Philosophical Essays*, ed. P. Baumann and M. Betzler, Cambridge: Cambridge University Press, 59–91.
+[^korsgaard-2005]: Korsgaard, C., 2005, “The Myth of Egoism,”, in *Practical Conflicts: New Philosophical Essays*, ed. P. Baumann and M. Betzler, Cambridge: Cambridge University Press, 59–91.
 
 [^lazari-radek-2014]: Lazari-Radek, K. de, and Singer, P., 2014, *The Point of View of the Universe: Sidgwick and Contemporary Ethics*, Oxford: Oxford University Press, chapter 7.
 
