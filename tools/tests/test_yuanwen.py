@@ -179,6 +179,26 @@ class TestCitations(unittest.TestCase):
         new, n, _ = link_citations('He wrote in (1990) that Smith agreed', keys)
         self.assertEqual(n, 0)
 
+    def test_year_leading_entry_uses_section_author(self):
+        # 2026-11-15：文献节内「Works by X」组的条目只写年份，无姓可扫，
+        # 旧式整条丢弃（bohr-correspondence 整节蒸发，全库 2867 条受影响）
+        keys = build_cite_keys([("1913, “On the constitution of atoms and molecules,”",
+                                 "Works by Bohr")])
+        self.assertEqual(len(keys), 1)
+        self.assertEqual(keys[0]['key'], 'bohr-1913')
+        new, n, _ = link_citations('(Bohr 1913, p. 4)', keys)
+        self.assertIn('[^bohr-1913]', new)
+        self.assertEqual(n, 1)
+
+    def test_year_leading_entry_section_possessive(self):
+        keys = build_cite_keys([("1946, “A Functional Calculus of First Order”",
+                                 "Ruth Barcan Marcus’s Works")])
+        self.assertEqual(keys[0]['key'], 'marcus-1946')
+
+    def test_year_leading_entry_without_section_still_dropped(self):
+        keys = build_cite_keys([("1913, “On the constitution of atoms and molecules,”")])
+        self.assertEqual(keys, [])
+
     def test_name_outside_parens_with_page(self):
         keys = build_cite_keys(['Lazarus, R. S., 1991, Emotion and Adaptation.'])
         new, n, _ = link_citations('(see Lazarus (1991, 122) for the list)', keys)
