@@ -63,8 +63,8 @@
 
 ## 质量门与完成定义
 
-* **一键全量复核**：`python tools/check_all.py`（八项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范 + 管线单元测试，共 9 项；`--all` 另加基线审计与英文镜像复核，共 11 项）——收工前与推审前必跑。
-* **文档任务 done** = 六道全部完成（状态机 `r3_reviewed → done`）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
+* **一键全量复核**：`python tools/check_all.py`（九项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范/公式体例 + 管线单元测试，共 10 项；`--all` 另加基线审计与英文镜像复核，共 12 项）——收工前与推审前必跑。
+* **文档任务 done** = 六道与审计已译环节全部完成（状态机 `r3_reviewed → done`，含 `audited`，ADR-0040）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
 * **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致；`rebuild_dir.py check` 镜像无缺口。
 * **术语改动 done** = 登记册新行有首现与裁定日期（ADR-0036：发布词汇表已并网删除，无同步步骤）。
 * **更新任务输入** = `tools/compare.py <slug>` 的段落级变更清单（spec 001 US-3），evidence 以 `changes:` 开头引用。

@@ -29,13 +29,14 @@
 ## 状态机
 
 ```
-retranslate: pending → cleared → drafted → s1_checked → s2_checked → s3_checked
-             → r1_reviewed → r2_reviewed → r3_reviewed → done
+retranslate: pending → cleared → drafted → s1_checked → s2_checked → audited
+             → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
 update:      pending → s1_checked（仅变更段）→ s2_checked（变更段所在节）
-             → s3_checked（全文档）→ r1_reviewed → r2_reviewed → r3_reviewed → done
+             → audited（仅变更段）→ s3_checked（全文档）→ r1_reviewed → r2_reviewed
+             → r3_reviewed → done
 ```
 
-* 六道与三审三校的对应、各步合格凭证：见 `rules/04-translation-workflow.md`。
+* 六道与三审三校的对应、审计已译环节（`audited`，ADR-0040）与各步合格凭证：见 `rules/04-translation-workflow.md`。
 * **禁止跳步**；`blocked` 标志独立于状态，解除用 `advance --unblock`。
 
 ## 操作（`python tools/task_ops.py`）
