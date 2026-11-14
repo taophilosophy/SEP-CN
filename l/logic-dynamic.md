@@ -2,7 +2,7 @@
 
 *首次发表于 2007 年 2 月 1 日；2023 年 2 月 16 日实质修订。*
 
-程序逻辑是这样一类模态逻辑：给编程语言的每个计算机程序 $\alpha$ 配一个模态词 $[\alpha]$，公式 $[\alpha]A$ 读作“程序 $\alpha$ 执行完之后 $A$ 为真”。想法出自 Engeler [1967]、Hoare [1969]、Yanov [1959] 等人，他们构造并研究了可表达程序联结词性质的逻辑语言。Salwicki [1970] 的算法逻辑（AL）与 Pratt [1976] 的动态逻辑（DL）是这些工作的直接延续。本文只讲 DL。围绕 DL 及其变体的众多论文，加上它在程序验证、数据结构上的应用，表明它是研究程序性质的有用工具。Pratt 选择在所谓一阶层面上刻画 DL；几年后 Fischer 与 Ladner [1979] 受其激发，定义了 DL 的命题变体。本文介绍的正是这个命题变体 PDL。
+程序逻辑是这样一类模态逻辑：给编程语言的每个计算机程序 *α* 配一个模态词 $[\alpha]$，公式 $[\alpha]A$ 读作“程序 *α* 执行完之后 $A$ 为真”。想法出自 Engeler [1967]、Hoare [1969]、Yanov [1959] 等人，他们构造并研究了可表达程序联结词性质的逻辑语言。Salwicki [1970] 的算法逻辑（AL）与 Pratt [1976] 的动态逻辑（DL）是这些工作的直接延续。本文只讲 DL。围绕 DL 及其变体的众多论文，加上它在程序验证、数据结构上的应用，表明它是研究程序性质的有用工具。Pratt 选择在所谓一阶层面上刻画 DL；几年后 Fischer 与 Ladner [1979] 受其激发，定义了 DL 的命题变体。本文介绍的正是这个命题变体 PDL。
 
 ## 1 引论
 
@@ -10,15 +10,15 @@
 
 Pratt 最初的程序动态逻辑是 **一阶** 模态逻辑；**命题动态逻辑**（PDL）是它的命题对应物，由 Fischer 与 Ladner [1979] 作为独立逻辑提出。既然是命题的，PDL 语言就不用词项、谓词或函数，只有两个句法范畴：命题与程序。
 
-要给 PDL 的陈述赋予意义，通常用标记转移系统（LTS）给出抽象语义。LTS 可视为 Kripke 模型的一种推广：世界（状态）之间的转移，用 **原子** 程序名作“标记”。赋值则指明每个状态里哪些 **命题** 为真。从状态 $x$ 到 $y$、标记为 $\pi$ 的转移——记作 $xR(\pi)y$ 或 $(x,y) \in R(\pi)$——表示：从 $x$ 出发，程序 $\pi$ 有一次可能执行，终于 $y$。若命题 $A$ 在 $y$ 为真，公式 $\langle\pi\rangle A$ 就在 $x$ 为真，即状态 $x$ 处程序 $\pi$ 有一次可能执行，终于满足 $A$ 的状态。从 $\langle\pi\rangle$ 里看得出一个模态词，让人想到模态逻辑的可能性模态词（常记作 $\Diamond$）。相应地也有必然性概念（模态词常记作 $\Box$），并不意外。公式 $[\pi]A$ 在状态 $x$ 为真，当且仅当从 $x$ 经 $\pi$ 标记的转移可达的每个状态里，$A$ 都真。
+要给 PDL 的陈述赋予意义，通常用标记转移系统（LTS）给出抽象语义。LTS 可视为 Kripke 模型的一种推广：世界（状态）之间的转移，用 **原子** 程序名作“标记”。赋值则指明每个状态里哪些 **命题** 为真。从状态 $x$ 到 $y$、标记为 *π* 的转移——记作 $xR(\pi)y$ 或 $(x,y) \in R(\pi)$——表示：从 $x$ 出发，程序 *π* 有一次可能执行，终于 $y$。若命题 $A$ 在 $y$ 为真，公式 $\langle\pi\rangle A$ 就在 $x$ 为真，即状态 $x$ 处程序 *π* 有一次可能执行，终于满足 $A$ 的状态。从 $\langle\pi\rangle$ 里看得出一个模态词，让人想到模态逻辑的可能性模态词（常记作 $\Diamond$）。相应地也有必然性概念（模态词常记作 $\Box$），并不意外。公式 $[\pi]A$ 在状态 $x$ 为真，当且仅当从 $x$ 经 *π* 标记的转移可达的每个状态里，$A$ 都真。
 
-复杂程序的可能执行，接着按组合方式定义。比如“先 $\alpha$、后 $\beta$”是复杂程序，更确切说是 **序列**。一次可能执行可在 LTS 里表示为两段转移的复合——记作 $R(\alpha;\beta)$——把状态 $x$ 与 $y$ 连起来：状态 $x$ 处程序 $\alpha$ 有一次可能执行，终于状态 $z$；$z$ 处程序 $\beta$ 又有一次可能执行，终于状态 $y$。命题 $A$ 若在 $y$ 为真，公式 $\langle \alpha;\beta\rangle A$ 就在 $x$ 为真。$\alpha$、$\beta$ 自身也可为复杂程序；再多讲些构造，还能表达更多程序，这些留到适当处。
+复杂程序的可能执行，接着按组合方式定义。比如“先 *α*、后 *β*”是复杂程序，更确切说是 **序列**。一次可能执行可在 LTS 里表示为两段转移的复合——记作 $R(\alpha;\beta)$——把状态 $x$ 与 $y$ 连起来：状态 $x$ 处程序 *α* 有一次可能执行，终于状态 $z$；$z$ 处程序 *β* 又有一次可能执行，终于状态 $y$。命题 $A$ 若在 $y$ 为真，公式 $\langle \alpha;\beta\rangle A$ 就在 $x$ 为真。*α*、*β* 自身也可为复杂程序；再多讲些构造，还能表达更多程序，这些留到适当处。
 
 于是程序被看成一个外延对象：LTS 状态对之间的二元关系。确切说，它是形如 $(x,y)$ 的状态对之集，程序能在 $x$ 执行并走到 $y$。命题则是关于状态的陈述，在状态中非真即假；同样可作外延看待，即使其为真的状态之集。
 
 本文所谓 PDL，专指带有下列程序构造的命题动态逻辑：序列、非确定选择、无界迭代、测试。第 2 节介绍 PDL 及若干性质与基本结果，重点在公理化与可判定性。
 
-Hoare [1969] 的 Hoare 演算是程序逻辑的一座里程碑。它处理形如 $\{A\}\alpha\{B\}$ 的陈述之真——以前提条件 $A$ 运行程序 $\alpha$，后置条件 $B$ 必成立——并以公理化方式定义。它来自一种需要：用严格方法推理程序性质，好让编程在科学中占一席之地。Burstall [1974] 看出了模态逻辑与程序推理的类似，但实际工作始于 Pratt [1976]，是由他课上专讲程序逻辑的学生提起的。PDL 源于 Pratt 用模态逻辑形式系统解释 Hoare 演算；起源导论见 Pratt [1980b]。Hoare 三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 刻画，字面意思是：$A$ 若真，$\alpha$ 每次成功终止的执行结束时 $B$ 都真。看出这层联系，只用 PDL 公理化证明 Hoare 演算的初始规则便是例行公事；第 3 节专讲结构化程序的正确性推理，会详细展开。
+Hoare [1969] 的 Hoare 演算是程序逻辑的一座里程碑。它处理形如 $\{A\}\alpha\{B\}$ 的陈述之真——以前提条件 $A$ 运行程序 *α*，后置条件 $B$ 必成立——并以公理化方式定义。它来自一种需要：用严格方法推理程序性质，好让编程在科学中占一席之地。Burstall [1974] 看出了模态逻辑与程序推理的类似，但实际工作始于 Pratt [1976]，是由他课上专讲程序逻辑的学生提起的。PDL 源于 Pratt 用模态逻辑形式系统解释 Hoare 演算；起源导论见 Pratt [1980b]。Hoare 三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 刻画，字面意思是：$A$ 若真，*α* 每次成功终止的执行结束时 $B$ 都真。看出这层联系，只用 PDL 公理化证明 Hoare 演算的初始规则便是例行公事；第 3 节专讲结构化程序的正确性推理，会详细展开。
 
 与 PDL 相关的课题还有：表达力的比较、可判定性、复杂性，以及把 PDL 按各种方式扩展或限制所得的若干有趣变体之完全性。PDL 问世以来，变体众多，涉及确定性程序、受限测试、非正则程序、作为自动机的程序、程序的补与交、逆与无穷计算等。第 4 节择要介绍，并提示其相对表达力、公理化与计算复杂性。
 
@@ -36,14 +36,14 @@ Hoare [1969] 的 Hoare 演算是程序逻辑的一座里程碑。它处理形如
 - $0$（“假”）是公式。
 - 若 $A$ 是公式，则 $\lnot A$（“非 $A$”）是公式。
 - 若 $A$、$B$ 是公式，则 $(A\lor B)$（“$A$ 或 $B$”）是公式。
-- 若 $\alpha$ 是程序、*A* 是公式，则 $[\alpha]A$（“从当前状态出发，$\alpha$ 的每次执行都导致 $A$ 为真的状态”）是公式。
+- 若 *α* 是程序、*A* 是公式，则 $[\alpha]A$（“从当前状态出发，*α* 的每次执行都导致 $A$ 为真的状态”）是公式。
 - 每个原子程序都是程序。
-- 若 $\alpha$、$\beta$ 是程序，则 $(\alpha;\beta)$（“先做 $\alpha$，再做 $\beta$”）是程序。
-- 若 $\alpha$、$\beta$ 是程序，则 $(\alpha\cup\beta)$（“非确定地做 $\alpha$ 或 $\beta$”）是程序。
-- 若 $\alpha$ 是程序，则 $\alpha^*$（“把 $\alpha$ 重复有穷但非确定地确定的次数”）是程序。
+- 若 *α*、*β* 是程序，则 $(\alpha;\beta)$（“先做 *α*，再做 *β*”）是程序。
+- 若 *α*、*β* 是程序，则 $(\alpha\cup\beta)$（“非确定地做 *α* 或 *β*”）是程序。
+- 若 *α* 是程序，则 $\alpha^*$（“把 *α* 重复有穷但非确定地确定的次数”）是程序。
 - 若 $A$ 是公式，则 $A?$（“若 $A$ 真则继续，否则失败”）是程序。
 
-其余布尔联结词 $1$、$\land$、$\to$、$\leftrightarrow$ 按标准方式作缩写。仿模态逻辑，把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发，$\alpha$ 的某次执行导致 $A$ 为真的状态”）；把 $n$ 个 $\alpha$ 相继而成的 $\alpha;\ldots ;\alpha$ 写作 $\alpha^n$。更形式地：
+其余布尔联结词 $1$、$\land$、$\to$、$\leftrightarrow$ 按标准方式作缩写。仿模态逻辑，把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发，*α* 的某次执行导致 $A$ 为真的状态”）；把 $n$ 个 *α* 相继而成的 $\alpha;\ldots ;\alpha$ 写作 $\alpha^n$。更形式地：
 
 - $\alpha^0 := 1?$
 - $\alpha^{n+1} := \alpha;\alpha^n$
@@ -54,9 +54,9 @@ Hoare [1969] 的 Hoare 演算是程序逻辑的一座里程碑。它处理形如
 
 常用来表示无界、但至少发生一次的迭代。最后，括号省略沿用标准规则。
 
-公式可描述程序成功执行后成立的性质。比如 $[\alpha\cup\beta]A$ 意为：无论 $\alpha$ 还是 $\beta$ 成功执行，都到达 $A$ 成立的状态；$\langle (\alpha;\beta)^*\rangle A$ 意为：存在一串 $\alpha$ 与 $\beta$ 交替执行的序列，最终到达 $A$ 成立的状态。语义上，公式由状态集解释，程序由状态上二元关系解释。确切说，PDL 公式与程序的意义在标记转移系统（LTS）$M = (W,R,V)$ 上解释：$W$ 为非空世界（状态）集，$R$ 把原子程序集 $\Pi_0$ 映到 $W$ 上二元关系，$V$ 把原子公式集 $\Phi_0$ 映到 $W$ 的子集。
+公式可描述程序成功执行后成立的性质。比如 $[\alpha\cup\beta]A$ 意为：无论 *α* 还是 *β* 成功执行，都到达 $A$ 成立的状态；$\langle (\alpha;\beta)^*\rangle A$ 意为：存在一串 *α* 与 *β* 交替执行的序列，最终到达 $A$ 成立的状态。语义上，公式由状态集解释，程序由状态上二元关系解释。确切说，PDL 公式与程序的意义在标记转移系统（LTS）$M = (W,R,V)$ 上解释：$W$ 为非空世界（状态）集，$R$ 把原子程序集 $\Pi_0$ 映到 $W$ 上二元关系，$V$ 把原子公式集 $\Phi_0$ 映到 $W$ 的子集。
 
-直观上，$R$ 给每个原子程序 $\pi\in\Pi_0$ 指派 $W$ 上某个二元关系 $R(\pi)$，意为 $xR(\pi)y$ 当且仅当从 $x$ 有 $\pi$ 的一次执行到达 $y$；$V$ 给每个原子公式 $p\in\Phi_0$ 指派 $W$ 的某个子集 $V(p)$，意为 $x \in V(p)$ 当且仅当 $p$ 在状态 $x$ 为真。按上述对 $0$、$\lnot A$、$A\lor B$、$[\alpha]A$、$\alpha;\beta$、$\alpha\cup\beta$、$\alpha^*$、$A?$ 的读法，$R$ 与 $V$ 自然要归纳扩展如下，才能给出复杂程序与公式的预期意义：
+直观上，$R$ 给每个原子程序 $\pi\in\Pi_0$ 指派 $W$ 上某个二元关系 $R(\pi)$，意为 $xR(\pi)y$ 当且仅当从 $x$ 有 *π* 的一次执行到达 $y$；$V$ 给每个原子公式 $p\in\Phi_0$ 指派 $W$ 的某个子集 $V(p)$，意为 $x \in V(p)$ 当且仅当 $p$ 在状态 $x$ 为真。按上述对 $0$、$\lnot A$、$A\lor B$、$[\alpha]A$、$\alpha;\beta$、$\alpha\cup\beta$、$\alpha^*$、$A?$ 的读法，$R$ 与 $V$ 自然要归纳扩展如下，才能给出复杂程序与公式的预期意义：
 
 - $xR(\alpha;\beta)y$ 当且仅当存在世界 $z$，使 $xR(\alpha)z$ 且 $zR(\beta)y$
 - $xR(\alpha\cup\beta)y$ 当且仅当 $xR(\alpha)y$ 或 $xR(\beta)y$
@@ -110,8 +110,8 @@ $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta
 
 事实是：两个互模拟的 LTS $M = (W,R,V)$ 与 $M' = (W',R',V')$ 中，对 $W$ 中每个世界 $x$、$W'$ 中每个世界 $x'$，若 $xZx'$，则对每个 PDL 公式 $A$ 都有 $x \in V(A)$ 当且仅当 $x' \in V'(A)$。所以，两个 LTS 按上述定义互模拟时，若 $xZx'$，则
 
-- 对每个程序 $\alpha$ 与每个世界 $y \in W$，若 $x R(\alpha)y$，则存在世界 $y' \in W'$，使 $yZy'$ 且 $x' R'(\alpha)y'$；
-- 对每个程序 $\alpha$ 与每个世界 $y' \in W'$，若 $x' R'(\alpha)y'$，则存在世界 $y \in W$，使 $yZy'$ 且 $x R(\alpha)y$。
+- 对每个程序 *α* 与每个世界 $y \in W$，若 $x R(\alpha)y$，则存在世界 $y' \in W'$，使 $yZy'$ 且 $x' R'(\alpha)y'$；
+- 对每个程序 *α* 与每个世界 $y' \in W'$，若 $x' R'(\alpha)y'$，则存在世界 $y \in W$，使 $yZy'$ 且 $x R(\alpha)y$。
 
 所以，只查看原子程序，就能比较两个 LTS 的行为，并对二者在复杂程序上的行为比较作安全外推。我们说 PDL 的程序构造 **对互模拟安全**。精确刻画见 Van Benthem [1998]。
 
@@ -123,7 +123,7 @@ $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta
 
 $\vdash A$ 当且仅当 $\models A$。
 
-PDL 当然是经典命题逻辑的扩张：所有命题重言式成立，一切命题推理都允许。特别是肯定前件有效：由 $A$ 与 $A \rightarrow B$ 推出 $B$。对任何程序 $\alpha$，把 LTS 限制到 $R(\alpha)$，得到 Kripke 模型，其中 $[\alpha]$ 的逻辑是最弱的命题正规模态逻辑 K。因此 PDL 含有分配公理模式的每个实例
+PDL 当然是经典命题逻辑的扩张：所有命题重言式成立，一切命题推理都允许。特别是肯定前件有效：由 $A$ 与 $A \rightarrow B$ 推出 $B$。对任何程序 *α*，把 LTS 限制到 $R(\alpha)$，得到 Kripke 模型，其中 $[\alpha]$ 的逻辑是最弱的命题正规模态逻辑 K。因此 PDL 含有分配公理模式的每个实例
 
 **(K)**
 
@@ -241,7 +241,7 @@ PDL 的完全公理化，是有效 PDL 公式集（也就是否定不可满足�
 
 ## 3 结构化程序与程序的正确性
 
-从历史上看，程序逻辑源于 1960 年代末计算机科学家的工作：他们想给编程语言赋予意义，为关于程序的证明找严格标准。这类证明可关乎程序是否合乎预期行为，也可关乎程序是否终止。开创性论文是 Floyd [1967]，它用 **流程图** 分析结构化计算机程序的性质。Yanov [1959]、Engeler [1967] 等早期工作，已提出并研究过可表达程序联结词性质的形式语言。Hoare [1969] 的形式系统是 PDL 诞生途中的里程碑，被作为 Floyd 流程图的严格公理化解释提出。谈这套形式系统，常说 Hoare 逻辑、Floyd–Hoare 逻辑或 Hoare 演算。它关心陈述（“Hoare 三元组”）之真，如 $\{A\}\alpha\{B\}$：在前提条件 $A$、程序 $\alpha$ 与后置条件 $B$ 之间建立联系，意思是 $A$ 作为执行 $\alpha$ 的前提条件成立时，$\alpha$ 成功执行之后 $B$ 作为后置条件成立。
+从历史上看，程序逻辑源于 1960 年代末计算机科学家的工作：他们想给编程语言赋予意义，为关于程序的证明找严格标准。这类证明可关乎程序是否合乎预期行为，也可关乎程序是否终止。开创性论文是 Floyd [1967]，它用 **流程图** 分析结构化计算机程序的性质。Yanov [1959]、Engeler [1967] 等早期工作，已提出并研究过可表达程序联结词性质的形式语言。Hoare [1969] 的形式系统是 PDL 诞生途中的里程碑，被作为 Floyd 流程图的严格公理化解释提出。谈这套形式系统，常说 Hoare 逻辑、Floyd–Hoare 逻辑或 Hoare 演算。它关心陈述（“Hoare 三元组”）之真，如 $\{A\}\alpha\{B\}$：在前提条件 $A$、程序 *α* 与后置条件 $B$ 之间建立联系，意思是 $A$ 作为执行 *α* 的前提条件成立时，*α* 成功执行之后 $B$ 作为后置条件成立。
 
 几十年前如此，如今依然如此：验证程序，多半靠拿各式合理的输入去测。某个输入得不到预期输出，就修“bug”；等测过的输入都给出预期输出，人便有理由相信程序没错。可这方法费时，还总留下未测的输入可能出错。程序已实现、已投入使用之后再找错误，资源代价更高。对关键系统来说，用形式方法推理正确性至关重要，因为它能穷尽地证明程序无错。
 
@@ -265,7 +265,7 @@ Hoare [1969] 的形式系统里，公理模式略去不提，因为那需要一�
 
 ### 3.2 Hoare 演算与 PDL
 
-动态逻辑来自 Pratt 用模态逻辑形式系统解释 Hoare 三元组与 Hoare 演算。借模态词 $[\alpha]$ 可形式地表达：执行程序 $\alpha$ 可达的一切状态都满足 $A$，写作 $[\alpha]A$。Hoare 三元组 $\{A\}\alpha\{B\}$ 也就直接由 PDL 公式刻画：
+动态逻辑来自 Pratt 用模态逻辑形式系统解释 Hoare 三元组与 Hoare 演算。借模态词 $[\alpha]$ 可形式地表达：执行程序 *α* 可达的一切状态都满足 $A$，写作 $[\alpha]A$。Hoare 三元组 $\{A\}\alpha\{B\}$ 也就直接由 PDL 公式刻画：
 
 $A \rightarrow [\alpha]B$。
 
@@ -308,19 +308,19 @@ $A \rightarrow [\alpha]B$。
 | 13. | $A \rightarrow [(B?;\alpha )^* ; \lnot B?](\lnot B\land A)$ | 由 12 用命题推理 |
 | — | $\{A\}\mathsf{while}~ B ~\mathsf{do}~ \alpha \{\lnot B\land A\}$ |   |
 
-在 PDL 里，两条后承规则其实是合成规则的特例。第一条把 $\alpha_1$ 换成 $\alpha$、$\alpha_2$ 换成 $\mathsf{skip}$；第二条把 $\alpha_1$ 换成 $\mathsf{skip}$、$\alpha_2$ 换成 $\alpha$。再用公理模式 (A4)，并注意对所有 $A$ 与 $\alpha$，$[\alpha;\mathsf{skip}]A \leftrightarrow [\alpha]A$ 与 $[\mathsf{skip};\alpha]A \leftrightarrow [\alpha]A$ 也 $\vdash$-可推演，就成了。
+在 PDL 里，两条后承规则其实是合成规则的特例。第一条把 $\alpha_1$ 换成 *α*、$\alpha_2$ 换成 $\mathsf{skip}$；第二条把 $\alpha_1$ 换成 $\mathsf{skip}$、$\alpha_2$ 换成 *α*。再用公理模式 (A4)，并注意对所有 $A$ 与 *α*，$[\alpha;\mathsf{skip}]A \leftrightarrow [\alpha]A$ 与 $[\mathsf{skip};\alpha]A \leftrightarrow [\alpha]A$ 也 $\vdash$-可推演，就成了。
 
 ### 3.3 完全正确性
 
-Hoare 自己在 Hoare [1979] 中承认，最初那套演算只是个起点，局限不少：它只能推理 **部分** 正确性。$\{A\}\alpha\{B\}$ 为真，只保证从满足 $A$ 的状态出发的一切 $\alpha$ 执行都终于满足 $B$ 的状态，**或者不停机**。也就是说，部分正确的程序可能有不终止的执行。（事实上，根本没有终止执行的程序总是部分正确，例如 $\mathsf{while}~ 1 ~\mathsf{do}~ \mathsf{skip}$：对所有 $A$、$B$，$A \rightarrow [\mathsf{while}~1 ~\mathsf{do} ~\mathsf{skip}] B$ 都可推演。）该演算没法证明程序终止。略加修改，便可顾及 **完全** 正确性——部分正确性加终止性，办法是修订迭代规则。此处从略，读者可参看 Apt [1981]。
+Hoare 自己在 Hoare [1979] 中承认，最初那套演算只是个起点，局限不少：它只能推理 **部分** 正确性。$\{A\}\alpha\{B\}$ 为真，只保证从满足 $A$ 的状态出发的一切 *α* 执行都终于满足 $B$ 的状态，**或者不停机**。也就是说，部分正确的程序可能有不终止的执行。（事实上，根本没有终止执行的程序总是部分正确，例如 $\mathsf{while}~ 1 ~\mathsf{do}~ \mathsf{skip}$：对所有 $A$、$B$，$A \rightarrow [\mathsf{while}~1 ~\mathsf{do} ~\mathsf{skip}] B$ 都可推演。）该演算没法证明程序终止。略加修改，便可顾及 **完全** 正确性——部分正确性加终止性，办法是修订迭代规则。此处从略，读者可参看 Apt [1981]。
 
 先看 **确定性** 程序：用下列公式，已能刻画完全正确性：
 
 $A \rightarrow \langle\alpha\rangle B$。
 
-$\langle\alpha\rangle B$ 意为：$\alpha$ 有一次执行终止于满足 $B$ 的状态。$\alpha$ 若确定，这次可能的终止执行就是 $\alpha$ 唯一的执行。所以，只要先证明程序确定，这招就足以证其完全正确性。
+$\langle\alpha\rangle B$ 意为：*α* 有一次执行终止于满足 $B$ 的状态。*α* 若确定，这次可能的终止执行就是 *α* 唯一的执行。所以，只要先证明程序确定，这招就足以证其完全正确性。
 
-完全正确性问题的一般解法就在 PDL 领域里，只须稍作扩展。Pratt 在 Pratt [1980b] 已暗示 PDL 表达力不足以捕捉程序的无穷循环；Streett [1982] 于是引入带重复的 PDL（RPDL），对所有程序 $\alpha$ 加入表达式 $\Delta\alpha$，代表一个新命题，语义为：
+完全正确性问题的一般解法就在 PDL 领域里，只须稍作扩展。Pratt 在 Pratt [1980b] 已暗示 PDL 表达力不足以捕捉程序的无穷循环；Streett [1982] 于是引入带重复的 PDL（RPDL），对所有程序 *α* 加入表达式 $\Delta\alpha$，代表一个新命题，语义为：
 
 - $V(\Delta\alpha) = \{x:$ 存在状态无穷序列 $z_0, z_1, \ldots$，使 $z_0 = x$，且对任何 $n \geq 0, z_n R(\alpha) z_{n+1}\}$。
 
@@ -336,7 +336,7 @@ $[\alpha^*](A \rightarrow \langle\alpha\rangle A) \rightarrow (A \rightarrow \De
 
 猜想的证明见 Sakalauskaite 与 Valiev [1990]。（组合式 PDL 变体中该猜想的一个版本，也由 Gargov 与 Passy [1988] 证明。）
 
-容易看出，上面的 Hoare 演算里，不终止只能来自迭代规则；PDL 程序的不终止，也只能来自无界迭代的使用。$\Delta\alpha$ 表示 $\alpha^*$ 可能发散，正合需要。于是可归纳定义谓词 $\infty$：对程序 $\alpha$，$\infty(\alpha)$ 恰在 $\alpha$ 能进入不终止计算时为真。
+容易看出，上面的 Hoare 演算里，不终止只能来自迭代规则；PDL 程序的不终止，也只能来自无界迭代的使用。$\Delta\alpha$ 表示 $\alpha^*$ 可能发散，正合需要。于是可归纳定义谓词 $\infty$：对程序 *α*，$\infty(\alpha)$ 恰在 *α* 能进入不终止计算时为真。
 
 $\infty(\pi) := 0$，其中 $\pi\in\Pi_0$；$\infty(A?) := 0$；$\infty(\alpha \cup \beta) := \infty(\alpha)\ \lor \infty(\beta)$；$\infty(\alpha ; \beta) := \infty(\alpha) \lor \langle\alpha\rangle \infty(\beta)$；$\infty(\alpha^*) := \Delta\alpha \lor \langle\alpha^*\rangle \infty(\alpha)$
 
@@ -344,7 +344,7 @@ $\infty(\pi) := 0$，其中 $\pi\in\Pi_0$；$\infty(A?) := 0$；$\infty(\alpha \
 
 $A \rightarrow (\lnot \infty(\alpha) \land [\alpha]B)$，
 
-字面意思：$A$ 成立时，程序 $\alpha$ 不会永远运行，且 $\alpha$ 每次成功执行都终于满足 $B$ 的状态。
+字面意思：$A$ 成立时，程序 *α* 不会永远运行，且 *α* 每次成功执行都终于满足 $B$ 的状态。
 
 ## 4 若干变体
 
@@ -364,11 +364,11 @@ $\langle \mathsf{while}~ A_n~ \mathsf{do}~ \pi_n\rangle \langle \pi_n\rangle A_n
 
 ### 4.2 带逆的 PDL
 
-CPDL 是 PDL 加上逆构造的扩展，这构造自 PDL 诞生之初就有人考虑。对每个程序 $\alpha$，令 $\alpha^{-1}$ 代表一个新程序，语义为
+CPDL 是 PDL 加上逆构造的扩展，这构造自 PDL 诞生之初就有人考虑。对每个程序 *α*，令 $\alpha^{-1}$ 代表一个新程序，语义为
 
 $xR(\alpha^{-1})y$ 当且仅当 $yR(\alpha)x$。
 
-有了逆构造，可表达当前状态之前各状态的事实，并反向推理程序。比如 $[\alpha^{-1}]A$ 意为：执行 $\alpha$ 之前 $A$ 必定成立。有
+有了逆构造，可表达当前状态之前各状态的事实，并反向推理程序。比如 $[\alpha^{-1}]A$ 意为：执行 *α* 之前 $A$ 必定成立。有
 
 $\models A \rightarrow [\alpha]\langle \alpha ^{-1}\rangle A$ $\models A \rightarrow [\alpha ^{-1}]\langle \alpha \rangle A$
 
@@ -390,9 +390,9 @@ $A \rightarrow [\alpha^{-1}]\langle \alpha \rangle A$
 
 3.3 节引入 RPDL 时已见过重复的力量。这里再汇总若干 RPDL 的结果，及其与“重复程序”概念其他变体的关联。
 
-RPDL 的复杂性理论方面，Streett [1982] 已确立它有有穷模型性质：每个 RPDL 可满足公式 *A*，都在大小至多对 *A* 的长度为三重指数的模型中可满足。一个自动机论论证由此断定，(RPDL-SAT) 可在确定性三重指数时间（3-EXPTIME）内解决。这样，(RPDL-SAT) 的这个上界与 (PDL-SAT) 的简单指数时间下界之间，就留了空隙。该问题与计算机科学家对时态逻辑复杂性的兴趣紧密相关，尤其关乎 Kozen [1983] 的（命题）模态 $\mu$-演算（MMC），因为 RPDL 到 MMC 有线性膨胀的翻译。Vardi 与 Stockmeyer [1985] 给出非确定指数时间的上界；Emerson 与 Jutla [1988] 及最终形式 Emerson 与 Jutla [1999] 证明 (MMC-SAT) 与 (RPDL-SAT) 都是 EXPTIME-完全的。加上 4.2 节的逆算子，便得 CRPDL；(CRPDL-SAT) 的复杂性悬了几年，但也可证为 EXPTIME-完全，办法是合并 Emerson 与 Jutla [1988]、Vardi [1985] 的技巧，见 Vardi [1998]。
+RPDL 的复杂性理论方面，Streett [1982] 已确立它有有穷模型性质：每个 RPDL 可满足公式 *A*，都在大小至多对 *A* 的长度为三重指数的模型中可满足。一个自动机论论证由此断定，(RPDL-SAT) 可在确定性三重指数时间（3-EXPTIME）内解决。这样，(RPDL-SAT) 的这个上界与 (PDL-SAT) 的简单指数时间下界之间，就留了空隙。该问题与计算机科学家对时态逻辑复杂性的兴趣紧密相关，尤其关乎 Kozen [1983] 的（命题）模态 μ-演算（MMC），因为 RPDL 到 MMC 有线性膨胀的翻译。Vardi 与 Stockmeyer [1985] 给出非确定指数时间的上界；Emerson 与 Jutla [1988] 及最终形式 Emerson 与 Jutla [1999] 证明 (MMC-SAT) 与 (RPDL-SAT) 都是 EXPTIME-完全的。加上 4.2 节的逆算子，便得 CRPDL；(CRPDL-SAT) 的复杂性悬了几年，但也可证为 EXPTIME-完全，办法是合并 Emerson 与 Jutla [1988]、Vardi [1985] 的技巧，见 Vardi [1998]。
 
-3.3 节定义了谓词 $\infty$，$\infty(\alpha)$ 表示程序 $\alpha$ 可能有非终止计算。把 PDL 加上 $\infty$ 所得逻辑叫 LPDL。显然 RPDL 表达力至少不弱于 LPDL，$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证；其实 RPDL 严格更强，见 Harel 与 Sherman [1982]。可以想见，RPDL 与 LPDL 都强于 PDL，证明办法是举出它们的某些公式，示其在 PDL 中无等价表述。证明用到 **滤化** 技巧：把 LTS 塌缩成有穷模型，同时保持某些公式的真假不变。给定 PDL 公式集 $X$，做法是把 LTS 中在 $X$ 里满足完全相同公式的状态并成等价类；这些等价类构成滤化模型的状态集，再在其上适当构造转移。
+3.3 节定义了谓词 $\infty$，$\infty(\alpha)$ 表示程序 *α* 可能有非终止计算。把 PDL 加上 $\infty$ 所得逻辑叫 LPDL。显然 RPDL 表达力至少不弱于 LPDL，$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证；其实 RPDL 严格更强，见 Harel 与 Sherman [1982]。可以想见，RPDL 与 LPDL 都强于 PDL，证明办法是举出它们的某些公式，示其在 PDL 中无等价表述。证明用到 **滤化** 技巧：把 LTS 塌缩成有穷模型，同时保持某些公式的真假不变。给定 PDL 公式集 $X$，做法是把 LTS 中在 $X$ 里满足完全相同公式的状态并成等价类；这些等价类构成滤化模型的状态集，再在其上适当构造转移。
 
 取一个依 PDL 公式 $A$ 仔细选定的集合 $FL(A)$（即 $A$ 的子公式集之所谓 Fischer–Ladner 闭包），对 LTS $M$ 作滤化，便得有穷滤化模型 $M'$：$A$ 在 $M$ 中世界 $u$ 处可满足，当且仅当它在滤化模型中含 $u$ 的等价类里可满足。（见 Fischer 与 Ladner [1979]。）
 
@@ -403,13 +403,13 @@ RPDL 的复杂性理论方面，Streett [1982] 已确立它有有穷模型性质
 - 对每个 $i$，$uR(\pi )(i,i)$
 - 对每个 $p \in \Phi_0$，$V(p) = \emptyset$
 
-一句话：$M$ 里发生的事，就是从世界 $u$ 出发有无穷多条长度递增的有穷 $\pi$-路径。既有 $M, u$ sat $\lnot\Delta\pi$，又有 $M, u$ sat $\lnot\infty(\pi^*)$。可对每个 PDL 公式 $A$，按 $FL(A)$ 对 $M$ 滤化后，$\Delta\pi$ 与 $\infty(\pi^*)$ 都会在 $u$ 的等价类处被满足——滤化必然塌缩 $M$ 的某些状态，造出循环。所以，既没有 PDL 公式能表达 $\Delta\pi$，也没有 PDL 公式能表达 $\infty(\pi^*)$。
+一句话：$M$ 里发生的事，就是从世界 $u$ 出发有无穷多条长度递增的有穷 *π*-路径。既有 $M, u$ sat $\lnot\Delta\pi$，又有 $M, u$ sat $\lnot\infty(\pi^*)$。可对每个 PDL 公式 $A$，按 $FL(A)$ 对 $M$ 滤化后，$\Delta\pi$ 与 $\infty(\pi^*)$ 都会在 $u$ 的等价类处被满足——滤化必然塌缩 $M$ 的某些状态，造出循环。所以，既没有 PDL 公式能表达 $\Delta\pi$，也没有 PDL 公式能表达 $\infty(\pi^*)$。
 
 要说一个程序能永远执行，还有别的办法。比如 Danecki [1984a] 提出谓词 $\mathsf{sloop}$，刻画能进入强循环的程序，即：
 
 $V(\mathsf{sloop}(\alpha)) = \{x: xR(\alpha)x\}$。
 
-把 PDL 加上公式 $\mathsf{sloop}(\alpha)$ 所得逻辑称 SLPDL。RPDL 与 SLPDL 基本不可比：$\Delta$ 在 SLPDL 中不可定义，$\mathsf{sloop}$ 在 RPDL 中不可定义。SLPDL 没有有穷模型性质。例如公式
+把 PDL 加上公式 $\mathsf{sloop}(\alpha)$ 所得逻辑称 SLPDL。RPDL 与 SLPDL 基本不可比：Δ 在 SLPDL 中不可定义，$\mathsf{sloop}$ 在 RPDL 中不可定义。SLPDL 没有有穷模型性质。例如公式
 
 $[\pi^*](\langle\pi\rangle 1 \land \lnot\mathsf{sloop}(\pi^+))$
 
@@ -417,11 +417,11 @@ $[\pi^*](\langle\pi\rangle 1 \land \lnot\mathsf{sloop}(\pi^+))$
 
 ### 4.4 带交的 PDL
 
-另一个被研究过的构造，是程序的交。把交加入 PDL 得逻辑 IPDL：对每对程序 $\alpha$、$\beta$，表达式 $\alpha \cap \beta$ 代表新程序，语义为
+另一个被研究过的构造，是程序的交。把交加入 PDL 得逻辑 IPDL：对每对程序 *α*、*β*，表达式 $\alpha \cap \beta$ 代表新程序，语义为
 
 $xR(\alpha \cap \beta )y$ 当且仅当 $xR(\alpha)y$ 且 $xR(\beta)y$。
 
-比如 $\langle \alpha \cap \beta \rangle A$ 的预期读法是：在当前状态执行 $\alpha$ 与 $\beta$，存在一个二者都可达的状态满足 $A$。由此
+比如 $\langle \alpha \cap \beta \rangle A$ 的预期读法是：在当前状态执行 *α* 与 *β*，存在一个二者都可达的状态满足 $A$。由此
 
 $\models \langle \alpha \cap \beta \rangle A \rightarrow \langle \alpha \rangle A \land \langle \beta \rangle A$，
 
@@ -437,7 +437,7 @@ $[\pi^*](\langle \pi \rangle 1 \land [\pi^+ \cap 1?]0)$
 
 至于证明论，困难在于：带交 PDL 的语言里，没有哪条公理模式“对应”于程序 $\alpha \cap \beta$ 的语义 $xR(\alpha \cap \beta)y$ 当且仅当 $xR(\alpha)y$ 且 $xR(\beta)y$——至少不像 (A1)、(A2) 分别对应 $\alpha;\beta$、$\alpha \cup \beta$ 的语义那样。因此带交 PDL 的公理化一直悬着，直到 Balbiani 与 Vakarelov [2003] 发展出完全证明系统。
 
-另有一个变体，Peleg [1987] 提出、Goldblatt [1992b] 进一步研究：其中 $\alpha \cap \beta$ 解释为“并行地做 $\alpha$ 与 $\beta$”。此时二元关系 $R(\alpha)$、$R(\beta)$ 不再是 $(x,y)$（$x$、$y$ 为世界）的对之集，而是 $(x, Y)$（$x$ 为世界，$Y$ 为世界集）的对之集。它受 Parikh [1985] 博弈逻辑启发，后者是“程序即博弈”的 PDL 解释。博弈逻辑多提供一种程序构造，使程序对偶化，于是程序的交可定义为程序间非确定选择的对偶。
+另有一个变体，Peleg [1987] 提出、Goldblatt [1992b] 进一步研究：其中 $\alpha \cap \beta$ 解释为“并行地做 *α* 与 *β*”。此时二元关系 $R(\alpha)$、$R(\beta)$ 不再是 $(x,y)$（$x$、$y$ 为世界）的对之集，而是 $(x, Y)$（$x$ 为世界，$Y$ 为世界集）的对之集。它受 Parikh [1985] 博弈逻辑启发，后者是“程序即博弈”的 PDL 解释。博弈逻辑多提供一种程序构造，使程序对偶化，于是程序的交可定义为程序间非确定选择的对偶。
 
 ## 5 结论
 

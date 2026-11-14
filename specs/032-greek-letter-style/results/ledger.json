@@ -1,0 +1,839 @@
+{
+ "schema": "sep-cn-greek-ledger/1",
+ "date": "2026-11-15",
+ "basis": "ADR-0049 proposed",
+ "rows": [
+  {
+   "file": "b/belief-merging.md",
+   "line": 34,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 34,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 66,
+   "cls": "A",
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 72,
+   "cls": "C",
+   "old": "$\\Delta$",
+   "new": "Δ",
+   "cmd": "Delta"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 138,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 153,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 153,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 153,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 155,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 167,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 167,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 167,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 167,
+   "cls": "A",
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 246,
+   "cls": "C",
+   "old": "$\\Delta$",
+   "new": "Δ",
+   "cmd": "Delta"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 81,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 83,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 85,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 85,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 85,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 85,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 87,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 87,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 91,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 91,
+   "cls": "A",
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 168,
+   "cls": "A",
+   "old": "$\\kappa$",
+   "new": "*κ*",
+   "cmd": "kappa"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 168,
+   "cls": "A",
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cmd": "mu"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 200,
+   "cls": "A",
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 200,
+   "cls": "A",
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 204,
+   "cls": "A",
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 278,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 280,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 280,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 281,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 284,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 5,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 5,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 13,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 13,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 13,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 13,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 15,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 21,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 21,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 39,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 39,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 41,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 41,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 41,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 41,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 42,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 42,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 42,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 42,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 43,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 43,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 46,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 46,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 57,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 57,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 57,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 57,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 59,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 113,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 114,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 126,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 244,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 244,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 244,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 268,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 311,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 311,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 311,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 315,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 321,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 321,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 321,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 323,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 339,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 339,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 347,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 347,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 367,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 371,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 393,
+   "cls": "C",
+   "old": "$\\mu$",
+   "new": "μ",
+   "cmd": "mu"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 395,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 406,
+   "cls": "A",
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 412,
+   "cls": "C",
+   "old": "$\\Delta$",
+   "new": "Δ",
+   "cmd": "Delta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 420,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 420,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 424,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 424,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 440,
+   "cls": "A",
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l/logic-dynamic.md",
+   "line": 440,
+   "cls": "A",
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  }
+ ]
+}

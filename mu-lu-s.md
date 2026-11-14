@@ -27,7 +27,7 @@ outline: [1, 6]
 #### 伊奥尼亚哲学
 
 * [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/presocratics.md)
-* [古代哲学学说史 Doxography of Ancient Philosophy (Jaap Mansfeld、David Runia)](d/doxography-ancient.md)
+* [古代哲学学述 Doxography of Ancient Philosophy (Jaap Mansfeld、David Runia)](d/doxography-ancient.md)
 * [赫拉克利特 Heraclitus (Daniel W. Graham)](h/heraclitus.md)
 
 #### 南意大利哲学
