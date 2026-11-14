@@ -75,3 +75,6 @@
 | logic-preference | `illustrated by \(V_4\) in the table above` | `in the figure above` | $V_4$ 实见于图 3，表图混称（②） |
 | lorenzo-valla | `Studi di grammatica italiana</em>,w 19` | `italiana</em>, 19` | OCR 残字（①） |
 | lorenzo-valla | 三条书目缺句末句点（`Rinascimento</em>, 31: 155&ndash;181`、`Vivarium</em>, 44: 375&ndash;395`、`Cambridge, Mass., Harvard University Press`） | 各补 `.` | 句读（①） |
+| leibniz-mind | `Searle, J., 1990. &ldquo;Minds, Brains, and Programs,&rdquo; … 3: 417&ndash;457` | `1980` | BBS 第 3 卷（1980）与正文 Searle 1980 相合，同页自相矛盾（②） |
+| leibniz-mind | `Toronto University Press..` | `Toronto University Press.` | 双句点（①） |
+| leibniz-mind | `&rdquo;<em>Pacific` / `&rdquo;<em>Journal` / `&rdquo;<em>Causation` / `&ldquo; Leibniz` | 补空格、去引号内前导空格 | 排版（①） |
