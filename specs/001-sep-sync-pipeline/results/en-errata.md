@@ -83,3 +83,7 @@
 | schlegel | `deMan, P., 1996` | `de Man, P., 1996` | 姓氏分写（①） |
 | cockburn | `Eigtheenth Century` / `Eurpoean Philosophy`（×2） | `Eighteenth` / `European` | 拼写（①） |
 | cockburn | notes.html `grown son.In response` | `son. In response` | 缺空格（①） |
+| conway | `Principia philosophiae antiquissimae ac recentissimae`（首见） | `… et recentissimae` | 同书前后两写，同页自相矛盾（②） |
+| conway | `<em>apocotastasis</em>` | `<em>apokatastasis</em>` | 拼写（①） |
+| conway | `<em>History of Philosophy Quarterly, </em>39(1):21&ndash;44.` | `<em>History of Philosophy Quarterly</em>, 39(1): 21&ndash;44.` | 标点入斜体、缺空格（①） |
+| conway | `(by Loptson, Conway1998)` / `Mercer 2012 and 2019 ,` | `Conway 1998` / `2019,` | 缺空格、逗号前空格（①） |
