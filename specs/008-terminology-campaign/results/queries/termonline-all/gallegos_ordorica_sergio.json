@@ -2,10 +2,228 @@
  "key": "gallegos-ordorica, sergio",
  "term": "Gallegos-Ordorica, Sergio",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T23:33:59+00:00",
- "status": "error",
- "note": "variant=Gallegos-Ordorica, Sergio; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Gallegos-Ordorica, Sergio: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:22:26+00:00",
+ "status": "ok",
+ "note": "variant=Gallegos-Ordorica, Sergio; 审定公布名词库=83; 海峡两岸名词对照库=51; 其他来源数据库=7; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "大帆船贸易",
+   "en": "Galleon Trade",
+   "code": "04.0309",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚"
+  },
+  {
+   "cn": "晴空雨",
+   "en": "serein",
+   "code": "01.293",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气"
+  },
+  {
+   "cn": "伺服式传感器",
+   "en": "servo transducer,servo sensor",
+   "code": "06.0043",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械测量与控制_机械传感器"
+  },
+  {
+   "cn": "塞西克轮廓",
+   "en": "Sersic profile",
+   "code": "07.128",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "瑞吉欧幼儿教育方案",
+   "en": "Reggio emiliaapproach",
+   "code": "06.045",
+   "standard": "教育学名词",
+   "subject": "教育学_学前教育"
+  },
+  {
+   "cn": "冻疮样狼疮",
+   "en": "lupus pernio",
+   "code": "09.155",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_结核病学"
+  },
+  {
+   "cn": "伺服压力机",
+   "en": "servo press,mechanical servo press",
+   "code": "03.318",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_锻压_锻压机器及机械化、自动化_压力机"
+  },
+  {
+   "cn": "圆顶随动",
+   "en": "dome servo",
+   "code": "06.130",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "伺服阀",
+   "en": "servo-valve",
+   "code": "08.1094",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_液压传动_控制阀"
+  },
+  {
+   "cn": "伺服执行器",
+   "en": "servo-actuator",
+   "code": "08.1167",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_液压传动_执行元件"
+  },
+  {
+   "cn": "伺服缸",
+   "en": "servo-cylinder",
+   "code": "08.1168",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_液压传动_执行元件"
+  },
+  {
+   "cn": "伺服阀",
+   "en": "servo-valve",
+   "code": "08.1094",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_气压传动"
+  },
+  {
+   "cn": "晴空雨",
+   "en": "serein",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "丝酶抑制蛋白",
+   "en": "serpin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "伺服，随动",
+   "en": "servo",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "科米西奥纳",
+   "en": "Comissiona\",\"Sergiu(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "伺服机构",
+   "en": "servo mechanism",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "伺服控制",
+   "en": "servo control",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "正歌剧",
+   "en": "opera seria",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "伺服系统",
+   "en": "servo-system",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "圆顶随动",
+   "en": "dome servo",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "交流伺服系统",
+   "en": "A.C. servo",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "径向伺服",
+   "en": "radial servo",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "聚焦伺服",
+   "en": "focus servo",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "丝氨酸蛋白酶抑制剂",
+   "en": "serpin；serineproteaseinhibitors",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "站姿",
+   "en": "seogi\",\"stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "鹤姿",
+   "en": "crane stance\",\"haktari seogi",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "弓步",
+   "en": "ap seogi\",\"forward stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "虎步",
+   "en": "beom seogi\",\"tiger stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "交叉站法",
+   "en": "cross legged stance\",\"koa seogi",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  }
+ ],
+ "error": null,
  "raw": null
 }
