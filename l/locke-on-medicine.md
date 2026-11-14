@@ -258,13 +258,7 @@
 
 > 因为这些改变由如此微小、细微的微粒作出，以致它们不在我的感官的观察范围之内；我无法获得它们如何运作的知识，只能由感官得知改变确实发生了。由此我们也可以稍微看出：在构成我们的理解方面，我们在多大程度上受惠于感官。（Draft A, §15, 31）
 
-这意味着我们无法判定几种理论描述中哪一种正确。如下命题
-
-> 既然关乎感官够不着的事情，便既不容观察，因而也不容见证
-
-有两类：其一关乎精神世界；其二，
-
-> 关乎不可感的质料事物的存在、修饰及其运作方式。（Draft A, §38, 65）
+这意味着我们无法判定几种理论描述中哪一种正确。如下命题——“既然关乎感官够不着的事情，便既不容观察，因而也不容见证”——有两类：其一关乎精神世界，其二关乎不可感的质料事物的存在、修饰及其运作方式（Draft A, §38, 65）。
 
 洛克举例说明其所指：
 
@@ -374,16 +368,16 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Sources
+### 原始文献
 
-### Secondary sources
+### 二手文献
 
 [^boyle-1660]: Boyle, Robert, 1660, *New Experiments Physico-Mechanicall, Touching the Spring of the Air and its Effects*, Oxford: Printed … for Tho. Robinson.
 [^boyle-1661]: –––, 1661, *The Sceptical Chymist*, London: Printed for … J. Crooke.
 [^boyle-2001]: –––, 2001, *The Correspondence of Robert Boyle*, Michael Hunter, Antonio Clericuzio, and Lawrence Principe (eds), London/Burlington, VT: Pickering & Chatto.
-[^le-1705]: Le Clerc, Jean, 1705, “Eloge de feu Mr. Locke.”, *Bibliothèque Choisie, pour servir de suite à la Bibliothèque Universelle*, 6: 342–411.
+[^le-1705]: Le Clerc, Jean, 1705, “Eloge de feu Mr. Locke”, *Bibliothèque Choisie, pour servir de suite à la Bibliothèque Universelle*, 6: 342–411.
 [^le-1713]: –––, 1713. *The Life and Character of Mr. Locke*, London: printed for John Clarke, and E. Curll. A translation of Le Clerc 1705.
-[^locke-1662a]: Locke, John, c. 1662a, “Vaccuum”, British Library, shelfmark Additional MS 32554 folios 75r & 95r.
+[^locke-1662a]: Locke, John, c. 1662a, “Vacuum”, British Library, shelfmark Additional MS 32554 folios 75r & 95r.
 [^locke-1662b]: –––, c. 1662b [2001], “Elasticus Motus”, British Library, shelfmark Additional MS 32554 folios 70r–71v; transcription in Milton 2001: 221–2.
 [^locke-1664]: –––, 1664–6 [2007], various notes on respiration; page references are to the transcriptions printed in Jonathan Walmsley, 2007, “John Locke on Respiration”, *Medical History*, 51(4): 453–476. doi:10.1017/S0025727300001769
 [^locke-1666a]: –––, 1666a [2009], “Respirationis Usus”, manuscript; transcribed and translated in Locke [RU]: 14–28.
@@ -401,7 +395,7 @@
 [^sydenham-1666]: Sydenham, Thomas, 1666 & 1668 [1987], *Methodus Curandi Febres*, London: Impensis J. Crook, second edition 1668. Reprinted and translated in *Methodus Curandi Febres Propriis Observationibus Superstructura [i.e. Superstructa]: The Latin Text of the 1666 and 1668 Editions with English Translation from R. G. Latham (1848)*, Geoffrey Guy Meynell (ed.). Robert Gordon Latham (trans.), Folkestone: Winterdown books, 1987.
 [^sydenham-1667]: –––, 1667–74 [1991], *Medical Observations*, manuscript; collected in *Thomas Sydenham’s “Observationes Medicae” (London, 1676) and his “Medical Observations” (Manuscript 572 of the Royal College of Physicians of London); with new transcripts of related Locke MSS, in the Bodleian Library*, G. G. Meynell (ed.), Folkestone: Winterdown, 1991.
 [^sydenham-1676]: –––, 1676 [1848], *Observationes Medicae*, London: Kettilby. Page references are to Sydenham 1848–50.
-[^sydenham-1848]: –––, 1848–50, *The Works of Thomas Sydenham, M.D. Ranslated from the Latin Edition of Dr. Greenhill, with a Life of the Author, by R.G. Latham*, R. G. Latham (ed.), 2 volumes, London: Printed for the Sydenham Society.
+[^sydenham-1848]: –––, 1848–50, *The Works of Thomas Sydenham, M.D. Translated from the Latin Edition of Dr. Greenhill, with a Life of the Author, by R.G. Latham*, R. G. Latham (ed.), 2 volumes, London: Printed for the Sydenham Society.
 [^tyrrell-1718]: Tyrrell, James, 1718–19 [2021], his memoir of Locke. Printed in Felix Waldmann, 2021, “John Locke as a Reader of Thomas Hobbes’s Leviathan : A New Manuscript”, *The Journal of Modern History*, 93(2): 245–282. doi:10.1086/714068
 [^willis-1662]: Willis, Thomas, c. 1662 [1980], “Lectures”. Printed in Kenneth Dewhurst (ed./trans.), *Thomas Willis’s Oxford Lectures*, Oxford: Sandford publications, 1980.
 [^wood-1672]: Wood, Anthony, c. 1672 [1891–95], his diary, Bodleian Library, MS Tanner 102, part 1. Printed in Anthony Wood, *The Life and Times of Anthony Wood, Antiquary of Oxford, 1632–1695*, Andrew Clark (ed.), 4 volumes, Oxford: Printed for the Oxford Historical Society at the Clarendon Press, 1891–95.
@@ -422,7 +416,7 @@
 [^pagel-1982]: Pagel, Walter, 1982, *Joan Baptista van Helmont: Reformer of Science and Medicine* (Cambridge Monographs on the History of Medicine), Cambridge/New York: Cambridge University Press.
 [^romanell-1984]: Romanell, Patrick, 1984, *John Locke and Medicine: A New Key to Locke*, Buffalo, NY: Prometheus Books.
 [^walmsley-2000]: Walmsley, Jonathan Craig, 2000, “Morbus-Locke’s Early Essay On Disease”, *Early Science and Medicine*, 5(4): 367–393. doi:10.1163/157338200X00353
-[^walmsley-2012]: –––, 2012, “Review Article: Anstey, *John Locke and Natural Philosophy*”, *Locke Studies*, 12: 243–284,
+[^walmsley-2012]: –––, 2012, “Review Article: Anstey, *John Locke and Natural Philosophy*”, *Locke Studies*, 12: 243–284.
 [^walmsley-2016]: –––, 2016, “Peter Anstey on Locke’s Natural Philosophy”, *Locke Studies*, 16: 167–194. doi:10.5206/ls.2016.657
 [^walmsley-1999]: Walmsley, Jonathan Craig and John R. Milton, 1999, “Locke’s Notebook ‘Adversaria 4’ and His Early Training in Chemistry”, *The Locke Newsletter*, 30: 85–191.
 
