@@ -70,7 +70,7 @@ $$ \frac{\text{Pr}(R_2 \mid S_2)}{1-\text{Pr}(R_1 \mid S_1)} \gt \frac{\text{Pr}
 
 种群动力学为种群演化建模。种群是个体的集合，个体按类型分类。在遗传学中，类型是基因；在进化博弈论中，类型是策略。认识论模型中关涉的类型，是认知装置的类型或认知策略——回应环境线索的方式、操控表征的方式等等。粗略地说，EEM 模型聚焦于遗传的，EET 模型聚焦于习得的。种群的进化由种群内各类型相对频率的变化构成。选择——以差别的繁殖成功为典型——表述如下。每个类型有一个增长率或“适合度”，记作 $w$，还有一个频率，记作 $p$。类型 $i$ 在下一代的频率 $p'_i$，就是旧频率乘以其适合度、再除以种群的平均适合度“$\overline{w}$”。
 
-$$p'_i = p_i \cdot w_i \unicode{x2044} \overline{w} $$
+$$p'_i = \frac{p_i \cdot w_i}{\overline{w}}$$
 
 除以 $\overline{w}$ 起到“归一化”频率的作用，使每个频率乘以其适合度后加起来仍等于 1。它也清楚地表明：只要某类型的适合度高于当前种群平均值，其频率就会上升。
 
@@ -104,7 +104,7 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 
 把认知行为理解为进化的产物之所以困难，部分在于其中至少涉及三种很不一样的进化过程。第一，是经由遗传继承的认知与知觉机制的生物进化。第二，是语言与概念的文化进化。第三，是个体一生中发生的试错学习过程。此外，我们有理由同意唐纳德·坎贝尔的观点：要完整地理解人类知识，需要理解这些过程之间的互动。这就要求我们能够为生物进化与文化进化两种过程建模。生物进化已有许多成熟的模型。文化进化则更新颖。
 
-理解文化进化的最流行的尝试，也许是理查德·道金斯（1976）发明的“模因”。道金斯观察到，生物进化的核心在于差别的繁殖。于是，一般的进化就是自我复制实体诸谱系之间的竞争动态。按这一观点，文化若要进化，就必须有文化“复制者”，即那些差别复制构成文化进化过程的实体。道金斯把这些实体称为“模因”，并把它们刻画为感染我们大脑的信息实体，经由我们通常所谓的模仿“从一个头脑跳到另一个头脑”。常见的例子包括传染性的曲调与宗教意识形态。这一进路的主要困难在于如何为基本实体提供界定。基因的同一性条件在理论上可以由染色体上的碱基对序列给出；文化传递的诸项似乎不存在这样一套基本的“字母表”。因此，“模因学”作为进化认识论的候选基础这一事业被搁置，有待对其基本本体论的充分理解。在线期刊 [*Journal of Memetics*](https://web.archive.org/web/20160303201613/http://cfpm.org/jom-emit/) 收有一些关于模因学的早期论文。该刊虽已停刊，既有论文仍可在线获取。对模因式文化进化模型可行性的保留意见，见 Atran (2001) 与 Sperber (2001)。。对这一进路的近期辩护，见 Dennett (2017)。
+理解文化进化的最流行的尝试，也许是理查德·道金斯（1976）发明的“模因”。道金斯观察到，生物进化的核心在于差别的繁殖。于是，一般的进化就是自我复制实体诸谱系之间的竞争动态。按这一观点，文化若要进化，就必须有文化“复制者”，即那些差别复制构成文化进化过程的实体。道金斯把这些实体称为“模因”，并把它们刻画为感染我们大脑的信息实体，经由我们通常所谓的模仿“从一个头脑跳到另一个头脑”。常见的例子包括传染性的曲调与宗教意识形态。这一进路的主要困难在于如何为基本实体提供界定。基因的同一性条件在理论上可以由染色体上的碱基对序列给出；文化传递的诸项似乎不存在这样一套基本的“字母表”。因此，“模因学”作为进化认识论的候选基础这一事业被搁置，有待对其基本本体论的充分理解。在线期刊 [*Journal of Memetics*](https://web.archive.org/web/20160303201613/http://cfpm.org/jom-emit/) 收有一些关于模因学的早期论文。该刊虽已停刊，既有论文仍可在线获取。对模因式文化进化模型可行性的保留意见，见 Atran (2001) 与 Sperber (2001)。对这一进路的近期辩护，见 Dennett (2017)。
 
 种群模型已被有效地用于为文化传递过程建模。人们常主张，进化博弈论模型同时涵盖策略的遗传与策略的模仿。这一应用之所以可能，是因为无须具体规定策略的底层性质，例如，策略究竟是供复制的“东西”，还是策略所属个体的属性或状态。这有时被称为“流行病学进路”，不过与传染病的类比源于分析所用的定量工具，而非源于关于文化传递底层本体论的任何预设（Sperber 1996, Sperber and Hirschfield 2004）[^sperber-1996][^sperber-2004]。
 
@@ -205,7 +205,7 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 
 [^campbell-1974b]: –––, 1974b, “Unjustified Variation and Selective Retention in Scientific Discovery,” in *Studies in the Philosophy of Biology: Reduction and Related Problems*, edited by F J. Ayala and T. Dobzhansky, London: Macmillan, pp. 139–161.
 
-[^campbell-1982]: –––, 1982, “The ”blind-variation-and-selective-retention“ Theme,” in *The Cognitive Developmental Psychology of James Mark Baldwin: Current Theory and Research in Genetic Epistemology*, edited by J. M. Broughton and D. J. Freeman-Moir, Norwood, NJ: Ablex, pp. 87–97.
+[^campbell-1982]: –––, 1982, “The blind-variation-and-selective-retention Theme，” in *The Cognitive Developmental Psychology of James Mark Baldwin: Current Theory and Research in Genetic Epistemology*, edited by J. M. Broughton and D. J. Freeman-Moir, Norwood, NJ: Ablex, pp. 87–97.
 
 [^campbell-1985]: –––, 1985, “Pattern Matching as an Essential in Distal Knowing,” in *Naturalizing Epistemology*, edited by H. Kornblith, Cambridge, MA: MIT Press, 49–70.
 
@@ -245,7 +245,7 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 
 [^hull-2001]: –––, 2001, “In search of epistemological warrant” in *Selection Theory and Social Construction: The Evolutionary Naturalistic Epistemology of Donald T. Campbell*, Cecilia Heyes and David Hull (eds.), Albany, NY: SUNY Press, pp. 155–167.
 
-[^kim-1988]: Kim, Jagwon., 1988 “What is ‘Naturalized Epistemology’?,” *Philosophical Perspectives 2. Epistemology*, Atascadero: Ridgeview, pp. 381–405.
+[^kim-1988]: Kim, Jaegwon, 1988, “What is ‘Naturalized Epistemology’?,” *Philosophical Perspectives 2. Epistemology*, Atascadero: Ridgeview, pp. 381–405.
 
 [^kuhn-1962]: Kuhn, Thomas, 1962, *The Structure of Scientific Revolutions*, Chicago: The University of Chicago Press.
 
@@ -325,7 +325,7 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 
 [^toulmin-1972]: –––, 1972, *Human Understanding: The Collective Use and Evolution of Concepts*, Princeton: Princeton University Press.
 
-[^schaik-2010]: van Schaik, C. P., 2010, “ Social learning and culture in animals,” in *Animal Behavior: evolution and Mechanisms*, P. Kappeler (ed.), New York: Springer–Verlag, pp. 623–653.
+[^schaik-2010]: van Schaik, C. P., 2010, “Social learning and culture in animals,” in *Animal Behavior: evolution and Mechanisms*, P. Kappeler (ed.), New York: Springer–Verlag, pp. 623–653.
 
 [^vollmer-2005]: Vollmer, Gerhard, 2005, “How is it that we can know this world? New arguments in evolutionary epistemology”, in *Darwinism & Philosophy*, V. Hösle and Christian Illies (eds.), Notre Dame, IN: University of Notre Dame Press, pp. 259–274.
 
