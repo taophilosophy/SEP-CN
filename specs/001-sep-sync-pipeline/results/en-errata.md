@@ -228,3 +228,10 @@
 | social-procedures | top-2018 `9(3),44;` | `9(3): 44.` | 卷期页码标点（①） |
 | social-procedures | bulling-2015 `Strategic Abiliies` | `Abilities` | 拼写（①） |
 | social-procedures | cechlérová-2005 `Cechl&eacute;rov&aacute;` | `Cechl&aacute;rov&aacute;` | 姓氏正拼（①） |
+| bradley-moral | hegel-1807 `Bamberg und W&uuml;rzburg: Goebbardt` | `Goebhardt` | 出版者正名 J. A. Goebhardt（①） |
+| bradley-moral | krook-1959 `Cambridge::` | `Cambridge:` | 双冒号（①） |
+| bradley-moral | santayana-1933 `Santayana George, 1933` | `Santayana, George, 1933` | 姓与名未分隔（①） |
+| bradley-moral | wollheim-1969 `fFirst published, 1959` | `First published, 1959` | 衍字（①） |
+| bradley-moral | ethical-1951 `(Note: This volume omits Essays I, VI, VII.]` | `…VII.)` | 括号不配对（①） |
+| bradley-moral | collected-1999 `Appearance ana Reality` / `Volume11:` | `and` / `Volume 11:` | 拼写与缺空格（①） |
+| bradley-moral | ce-1901 `CE II.387&ndash;407 doi:` | 补句点 | 排印（①） |
