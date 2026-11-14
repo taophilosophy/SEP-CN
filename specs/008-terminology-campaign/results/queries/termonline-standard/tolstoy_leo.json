@@ -1,0 +1,33 @@
+{
+ "key": "tolstoy, leo",
+ "term": "Tolstoy, Leo",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:54:30+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "低地球轨道",
+   "en": "lowearth orbit",
+   "code": "GB/T 32455—2015",
+   "standard": "运载火箭术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "近地轨道",
+   "en": "low earth orbit",
+   "code": "GB/T 41542—2022",
+   "standard": "地球卫星轨道空间环境探测要素通用规范",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "低地球轨道",
+   "en": "low Earth orbit",
+   "code": "GB/T 41543—2022",
+   "standard": "空间环境 航天材料空间环境效应 模拟试验通用规范",
+   "subject": "试验"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 2, \"2015\": 1}, \"sourceStats\": {\"试验\": 1, \"航空器和航天器工程\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"fcbcb7d6e39a43f988e6c754d316b140\", \"databaseId\": null, \"standardId\": \"7709ae732ead402d9ce4732f6a0c5961\", \"standardCode\": \"GB/T 32455—2015\", \"standardName\": \"运载火箭术语\", \"standardEnName\": \"Terminology of launch vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"4.54\", \"cnName\": \"低地球轨道\", \"enName\": \"lowearth orbit\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 122897, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"低地球轨道\", \"cnNameSearch\": \"低地球轨道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lowearth orbit\", \"wordSearch\": \"lowearth orbit\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"低地球轨道\", \"cnNameSearch\": \"低地球轨道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"LEO\", \"wordSearch\": \"LEO\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"高度低于2000 km 轨道。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e25f847d4d27449fbcefdd4c74d889be\", \"databaseId\": null, \"standardId\": \"31524e20b25948238b874f227a7f6c42\", \"standardCode\": \"GB/T 41542—2022\", \"standardName\": \"地球卫星轨道空间环境探测要素通用规范\", \"standardEnName\": \"General specification of observation elements for Earth orbit environment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.1\", \"cnName\": \"近地轨道\", \"enName\": \"low earth orbit\", \"publishTime\": \"2022-07-01\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 49.090\", \"ccs\": \"CCS V 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52369, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近地轨道\", \"cnNameSearch\": \"近地轨道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"low earth orbit\", \"wordSearch\": \"low earth orbit\"}, {\"languageType\": 1, \"word\": \"LEO\", \"wordSearch\": \"LEO\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"轨道高度在距离地球表面2000km以下的卫星轨道。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"247f730aaa574897b7895c2e046c746a\", \"databaseId\": null, \"standardId\": \"efcf1f43da514a5aa9d3a5850bcf174f\", \"standardCode\": \"GB/T 41543—2022\", \"standardName\": \"空间环境 航天材料空间环境效应 模拟试验通用规范\", \"standardEnName\": \"Space environment—General principles and criteria of space environmental effect simulation test for space materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"3.5\", \"cnName\": \"低地球轨道\", \"enName\": \"low Earth orbit\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 19.060\", \"ccs\": \"CCS V 06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235334, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"低地球轨道\", \"cnNameSearch\": \"低地球轨道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"low Earth orbit\", \"wordSearch\": \"low Earth orbit\"}, {\"languageType\": 1, \"word\": \"LEO\", \"wordSearch\": \"LEO\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"轨道高度低于2000km的轨道。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671667376}"
+}
