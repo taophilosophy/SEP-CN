@@ -259,3 +259,10 @@
 | hutcheson | 正文 `consists in ‘having … Affections.`（单引号且未收束） | 改双引号 `“…”` 并补收束 | 引号体例与未闭合（①） |
 | hutcheson | smart-nd `19743`；正文 `Smart & Williams 1974` | `1973`（两处） | 年份误录、正文与书目矛盾（①②） |
 | hutcheson | 正文 `not published until after Hutcheson’s death in 1755` | `not published until 1755, nine years after Hutcheson’s death` | 卒年与出版年相混（②；首段 1694–1746 自证） |
+| ockham | guillelmi-1967 条 `Opera Theologica, 18 volumes` | `10 volumes` | 与列目自相矛盾（②；OTh 10 卷＋OPh 7 卷） |
+| ockham | vol-nd-8 `Reportio` | `Reportatio` | 拼写（①） |
+| ockham | epistola 条 `Friars Minor]);` | `Friars Minor];` | 多余反括号（①） |
+| ockham | de-nd-2 `De election Caroli Quarti` | `De electione Caroli Quarti` | 拼写（①） |
+| ockham | keele-2002 `Razor,</em>` | `Razor</em>,` | 逗号入斜体（①） |
+| ockham | maurer-1978 `Nominalism:”` | `Nominalism”` | 题名内多余冒号（①） |
+| ockham | spade-1999c `Ockhams’` | `Ockham’s` | 撇号错位（①） |
