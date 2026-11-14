@@ -1,6 +1,6 @@
 # 安妮·康威 Lady Anne Conway (Sarah Hutton)
 
-**首次发表于 2003 年 2 月 13 日；2025 年 8 月 4 日实质修订。**
+> *首次发表于 2003 年 2 月 13 日；2025 年 8 月 4 日实质修订。*
 
 安妮·康威夫人（娘家姓芬奇）是十七世纪极少数得以追求哲学志趣的女性之一。她与剑桥柏拉图主义群体交往密切，尤其与亨利·莫尔（Henry More，1614–1687）相善。她唯一留存的论著《最古老与现代哲学的原理》（*Principia philosophiae antiquissimae et recentissimae*，英译 *The Principles of the Most Ancient and Modern Philosophy*）于 1690 年在她身后匿名出版。此书提出一种源自上帝属性的精神活力论本体论，她是在与莫尔、笛卡尔、霍布斯及斯宾诺莎的对立中提出这一学说的。她的哲学得到莱布尼茨的好评。
 
