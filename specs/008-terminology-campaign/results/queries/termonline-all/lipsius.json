@@ -1,0 +1,54 @@
+{
+ "key": "lipsius",
+ "term": "Lipsius",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T08:00:10+00:00",
+ "status": "ok",
+ "note": "variant=Lipsius; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "脂类",
+   "en": "lipids",
+   "code": "06.014",
+   "standard": "水产名词",
+   "subject": "水产_饲料和肥料"
+  },
+  {
+   "cn": "脂类",
+   "en": "lipids",
+   "code": "12.014",
+   "standard": "水产名词",
+   "subject": "水产_水产饲料与肥料"
+  },
+  {
+   "cn": "关联词组标引系统",
+   "en": "linked phrase indexing system,LIPHIS",
+   "code": "04.838",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_索引"
+  },
+  {
+   "cn": "油脂的稳定性",
+   "en": "stability of lipids",
+   "code": "05.0468",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品营养_食品营养与功能评价"
+  },
+  {
+   "cn": "脂过多症",
+   "en": "lipomatosis\",\"liposis",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "学名笔误",
+   "en": "lapsus calami",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
