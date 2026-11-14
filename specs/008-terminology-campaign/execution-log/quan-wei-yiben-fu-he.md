@@ -167,6 +167,16 @@
 * 工具与凭证面：term_audit 两项修复（希腊字母键名、维基排查假阳性），web-authority provider 投产，凭证累计 **131 份**；
 * 通道：全程未用术语在线新查询（存量凭证）与 CNKI（用户裁定），证据一律 ADR-0012 档②③。
 
+## 裁定批次十五（2026-11-15，日志 qian-yan/ri-zhi-yu-bian-ji-gui-hua.md 增补修订）
+
+用户指令：以 2024 年纠错期日志增补修订两登记册，冲突联网查证。全文件通读策展 45 组映射对，与两登记册对账结果：
+
+* **一致性确认 13 组**（日志纠错早已落册）：Berkeley 贝克莱、Kant 伊曼努尔、Whitehead 怀特海、Leibniz 莱布尼茨、Dilthey 狄尔泰、Kierkegaard 克尔凯郭尔、Ammonius 赫尔米亚的阿莫尼俄斯、Chancellor 总务长（五文献考据已入）、empirical 经验的；实证的（汤茂林黄展 2020 同源）、desert 应得、nominalism 唯名论、pyrrhonism 皮浪主义、social minimum/supertasks/substructural realism 等引文译名；
+* **冲突联网查证 3 处（皆登记册形正确，日志形降为亦作/误记）**：Oresme 奥雷斯姆/奥雷姆两形并行（补亦作）；Philoponus 菲洛波努斯（日志"菲洛劳斯"系 Philolaus 异人误记；补亦作费罗普勒斯）；Sextus 恩披里柯（商务崔延强译本形；日志"恩披里克"补为亦作）；
+* **增补 6 行**：术语 transworld identity 跨界同一性（程平文 2010）、cellular automata 元胞自动机、publicity 公开性、Port-Royal Logic 《波尔-罗亚尔逻辑》（王港逻辑，书名行）、archdeacon 总执事；人名 Peter of Spain 西班牙的彼得（身份归属源文存疑三说并陈，日志考据）；
+* **补亦作 5 处**：accommodation（容纳，日志纠"住宿"）、Duns Scotus（约翰·邓·司各脱）、Oresme、Philoponus、Sextus；
+* **日志余量说明**：大批"需要重译"注记属词条级任务（015 偿还线处置）；量子家族/伊斯兰哲学家族/评注者家族等批量映射已随 008 前期批次落册；admin 备查类（总务长考据五文献）已为 Chancellor 行与 archdeacon 行采纳。
+
 ## 上报事项
 
 3. ~~**converse（行 1133）分义候选**~~ **已裁定执行（2026-11-15，用户裁定「待裁条目按前沿哲学论文定」）**：主译改「逆命题」（当代逻辑文献通行：A→B 之 converse 为 B→A），旧形「换位（互为换位）」降为传统逻辑换位操作义注记（见 conversion 行）；词条 n/necessary-sufficient 正文两处看齐；凭证 converse.json 入 web-authority。

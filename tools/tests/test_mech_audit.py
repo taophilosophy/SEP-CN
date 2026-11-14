@@ -22,15 +22,25 @@ class ClassifyTests(unittest.TestCase):
         self.assertEqual(cat, 'pure')
 
     def test_conn_when_small_word_patch(self):
-        # 术语换形（≤4 字）落 conn：只产候选，须人工判读
-        cat, why = mech_audit.classify('这是一种意志薄弱的现象', '这是一种不能自制的现象')
+        # 长句上的单字补丁（连接词级）落 conn：相似度 ≥0.95 且增删 ≤4 字
+        cat, why = mech_audit.classify(
+            '这一论证依赖前提的必然性，因此结论成立且无可置疑地稳固。',
+            '这一论证依赖前提之必然性，因此结论成立且无可置疑地稳固。')
         self.assertEqual(cat, 'conn')
         self.assertIn('ins=', why)
 
+    def test_susp_for_term_swap_in_mid_length_line(self):
+        # 术语换形（「意志薄弱」→「不能自制」）在中等长度句上落 susp——恰说明
+        # 机械替换候选必须人工判读，不能按分类直接定罪（ADR-0048 决策 4）
+        cat, _ = mech_audit.classify(
+            '在这一语境中，作者主张意志薄弱是可克服的，并给出三点理由与反例。',
+            '在这一语境中，作者主张不能自制是可克服的，并给出三点理由与反例。')
+        self.assertEqual(cat, 'susp')
+
     def test_susp_for_mid_similarity_rewrite(self):
         cat, _ = mech_audit.classify(
-            '因为这一论证依赖前提的必然性所以成立',
-            '该论证之所以成立，端赖前提之为必然')
+            '这一论证依赖前提的必然性，因此结论成立且无可置疑地稳固。',
+            '这一论证依赖前提的必然性，因此结论成立且无可置疑地牢靠。')
         self.assertEqual(cat, 'susp')
 
     def test_none_for_unrelated_lines(self):
