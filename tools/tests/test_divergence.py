@@ -85,6 +85,28 @@ class TestCheckConsistency(unittest.TestCase):
                                  deep=True, blob_sha=lambda c, p: None)
         self.assertTrue(any("不可核" in x["reason"] for x in f))
 
+    def test_deep_snapshot_anchor_ok(self):
+        d = dict(DIV_OK, base_commit=None, base_snapshot="specs/001-sep-sync-pipeline/results/upstream-snapshots/x-1.html")
+        s, f = check_consistency(IDX, [d],
+                                 sha_of_factory({"en/x/index.html": b"upstream-bytes + errata"}),
+                                 deep=True,
+                                 snapshot_sha=lambda sp: PIN)
+        self.assertEqual(f, [])
+
+    def test_deep_snapshot_missing(self):
+        d = dict(DIV_OK, base_commit=None, base_snapshot="specs/001-sep-sync-pipeline/results/upstream-snapshots/x-1.html")
+        s, f = check_consistency(IDX, [d],
+                                 sha_of_factory({"en/x/index.html": b"upstream-bytes + errata"}),
+                                 deep=True,
+                                 snapshot_sha=lambda sp: None)
+        self.assertTrue(any("快照缺失" in x["reason"] for x in f))
+
+    def test_missing_anchor(self):
+        d = dict(DIV_OK, base_commit=None)
+        s, f = check_consistency(IDX, [d],
+                                 sha_of_factory({"en/x/index.html": b"upstream-bytes + errata"}))
+        self.assertTrue(any("缺 base_commit/base_snapshot" in x["reason"] for x in f))
+
     def test_unknown_divergence_path(self):
         d = dict(DIV_OK, path="en/ghost/index.html")
         s, f = check_consistency(IDX, [d], sha_of_factory({"en/x/index.html": b"upstream-bytes"}))
