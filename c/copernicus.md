@@ -108,21 +108,6 @@
 
 ### D. 二手文献（Secondary Sources）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/copernicus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
-
-## 相关词条
-
-亚里士多德 | 乔尔丹诺·布鲁诺 | 伽利略·伽利莱 | 约翰内斯·开普勒 | 托马斯·库恩
-
 ## 脚注
 
 [^note-1]: 斯韦德洛与诺伊格鲍尔（4）借助装帧确证：哥白尼获得 1492 年威尼斯版《阿尔方索表》与 1490 年奥格斯堡版雷吉奥蒙塔努斯《方位表》——两本对天文计算极为重要的书——是在这一时期。它们与其他天文学著作的散页装订在一起。第二卷则含 1482 年威尼斯版欧几里得《几何原本》（坎帕努斯注）与 1485 年威尼斯版阿拉伯作者阿里·伊本·阿比尔-里贾勒的占星论著《星辰判断》。
@@ -260,3 +245,18 @@
 [^westman-2011]: –––, 2011, *The Copernican Question: Prognostication, Skepticism, and Celestial Order*, Berkeley: University of California Press.
 
 [^yates-1979]: Yates, F., 1979, *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, reprint of 1964 edition.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/copernicus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
+
+## 相关词条
+
+亚里士多德 | 乔尔丹诺·布鲁诺 | 伽利略·伽利莱 | 约翰内斯·开普勒 | 托马斯·库恩

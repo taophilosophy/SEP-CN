@@ -168,23 +168,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=alexander-crummell)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/alexander-crummell/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=alexander-crummell&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-非裔哲学 | 库珀，安娜·朱莉娅 | 道格拉斯，弗雷德里克 | 道德认识论 | 种族 | 意志薄弱 | 惠威尔，威廉
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^crummell-nd]: Crummell, Alexander, [*AC*], Papers, Schomburg Center for Research in Black Culture, The New York Public Library.
 
 [^crummell-1840]: –––, [1840] 1979, “New York State Convention of Negroes, 1840,” in *A Documentary History of the Negro People in the United States* (Volume 1: From the Colonial Times through the Civil War), H. Aptheker (ed.), New York: Citadel, 198–205.
@@ -230,3 +213,20 @@
 [^moses-1989]: Moses, Wilson Jeremiah, 1989, Alexander *Crummell: A Study of Civilization and Discontent*, Amherst: University of Massachusetts Press.
 
 [^oldfield-1990]: Oldfield, J. R., 1990, *Alexander Crummell (1819–1898) and the Creation of an African-American Church in Liberia*, Lewiston, NY: Edwin Mellen Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=alexander-crummell)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/alexander-crummell/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=alexander-crummell&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+非裔哲学 | 库珀，安娜·朱莉娅 | 道格拉斯，弗雷德里克 | 道德认识论 | 种族 | 意志薄弱 | 惠威尔，威廉
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

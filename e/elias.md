@@ -29,21 +29,6 @@
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=elias)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elias/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=elias&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/elias/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[请联系作者提出建议。]
-
-## 相关词条
-
-阿摩尼乌斯 | 亚里士多德 | 大卫 | 奥林匹奥多罗斯 | 菲洛波努斯 | 波菲利
-
 [^blumenthal-1981]: Blumenthal, H.J., 1981. “Pseudo-Elias and the Isagoge commentaries again,” *Rheinisches Museum*, 124: 188–92.
 
 [^busse-1892]: Busse, A., 1892. “Die neuplatonischen Ausleger der Isagoge des Porphyrius,” *Wissenschaftliche Beilage zum Programme des Friedrichs-Gymnasiums*, Berlin
@@ -77,3 +62,18 @@
 [^wildberg-1990]: Wildberg, C., 1990. “Three Neoplatonic Introductions to Philosophy: Ammonius, David, Elias.” *Hermathena*, 149: 33–51.
 
 [^wilson-1983]: Wilson, N.G., 1983. *Scholars of Byzantium*. London.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=elias)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/elias/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=elias&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/elias/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[请联系作者提出建议。]
+
+## 相关词条
+
+阿摩尼乌斯 | 亚里士多德 | 大卫 | 奥林匹奥多罗斯 | 菲洛波努斯 | 波菲利

@@ -1,4 +1,4 @@
-# 夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)
+# 夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)
 *首次发表于 2003 年 7 月 18 日；2014 年 4 月 2 日实质修订。*
 
 孟德斯鸠（Montesquieu）是启蒙运动最伟大的政治哲学家之一。他求知欲不知餍足，讽刺尖刻，为各种政体构建了一套自然主义的解释，也说明了这些政体何以呈现各自的面貌、其发展何以得到推进或受到限制。他借这套解释来说明政府如何免于腐化。在他看来，专制尤其是一切尚未沦为专制的政府都长期面临的危险；防止专制的最佳办法，是让不同机构分别行使立法权、行政权和司法权，并让所有这些机构都服从法治。这一分权理论深刻影响了自由主义政治理论，也影响了美国宪法的制定者。
@@ -7,7 +7,7 @@
 
 夏尔·路易·德·塞贡达，即拉布雷德与孟德斯鸠男爵（Charles-Louis de Secondat, Baron de La Brède et de Montesquieu），1689 年 1 月 19 日生于波尔多附近的拉布雷德，出身高贵，家道殷实。他早年在奥拉托利会的瑞伊学院（Collège de Juilly）就读，1708 年在波尔多大学取得法学学位，随后赴巴黎继续研习法律。1713 年父亲去世，他回到拉布雷德管理继承的田产；1715 年与虔诚的新教徒让娜·德·拉尔蒂格（Jeanne de Lartigue）成婚，育有一子二女。1716 年，他从叔父手中继承拉布雷德与孟德斯鸠男爵的爵位，以及波尔多巴列门（Parlement）的庭长（Président à Mortier）一职。当时的巴列门主要行使司法与行政职能。此后十一年，他主持巴列门刑事庭（Tournelle），审理诉讼、监督监狱，并执行包括酷刑在内的各种刑罚。这段时间他还活跃于波尔多学院（Academy of Bordeaux），密切关注科学进展，宣读的论文从回声的成因一直谈到我们为何应当从事科学。
 
-1721 年，孟德斯鸠出版《波斯人信札》。此书一问世便大获成功，也使他成了文坛名人。（《波斯人信札》虽匿名出版，作者身份却是公开的秘密。）此后他在巴黎逗留的时间越来越长，出入沙龙，并替巴列门和波尔多学院办事。这一时期，他写了几部次要作品：*Dialogue de Sylla et d'Eucrate*（1724）、*Réflexions sur la Monarchie Universelle*（1724）和 *Le Temple de Gnide*（1725）。1725 年，他卖掉了职位的终身收益权，辞去巴列门的职务。1728 年，尽管遭到一些宗教人士反对，他仍当选法兰西学术院院士，不久便离开法国，远游海外。他先后访问意大利、德国、奥地利等国，随后前往英国，在那里住了两年。英国的政治制度令他印象深刻，他后来的著作便利用了这些观察。
+1721 年，孟德斯鸠出版《波斯人信札》。此书一问世便大获成功，也使他成了文坛名人。（《波斯人信札》虽匿名出版，作者身份却是公开的秘密。）此后他在巴黎逗留的时间越来越长，出入沙龙，并替巴列门和波尔多学院办事。这一时期，他写了几部次要作品：《苏拉与欧克拉底对话》（*Dialogue de Sylla et d'Eucrate*，1724）、《论普遍君主制之反思》（*Réflexions sur la Monarchie Universelle*，1724）与《克尼德神庙》（*Le Temple de Gnide*，1725）。1725 年，他卖掉了职位的终身收益权，辞去巴列门的职务。1728 年，尽管遭到一些宗教人士反对，他仍当选法兰西学术院院士，不久便离开法国，远游海外。他先后访问意大利、德国、奥地利等国，随后前往英国，在那里住了两年。英国的政治制度令他印象深刻，他后来的著作便利用了这些观察。
 
 1731 年，孟德斯鸠返回法国。由于视力日渐衰退，他回到拉布雷德，着手撰写代表作《论法的精神》。在此期间，他还写了《罗马盛衰原因论》，1734 年匿名出版。书中，他试图把自己的观点用于罗马这一具体个案，并借此劝阻人们以罗马为当代政府的典范。《罗马盛衰原因论》的部分内容后来并入 1748 年出版的《论法的精神》。与《波斯人信札》一样，《论法的精神》既有争议，又极为成功。两年后，他出版《为〈论法的精神〉辩护》，回应各方批评。尽管如此，罗马天主教会还是在 1751 年把《论法的精神》列入《禁书目录》。1755 年，孟德斯鸠在巴黎因热病去世；他为狄德罗与达朗贝尔主编的《百科全书》写一篇论趣味的文章，未能完稿。
 
@@ -119,11 +119,11 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Works by Montesquieu
+### 孟德斯鸠著作
 
-### Life
+### 生平
 
-### Selected Secondary Literature
+### 二手文献选编
 
 [^complètes-1949]: *Œuvres Complètes*, 2 volumes, Roger Callois (ed.), Paris: Editions Gallimard, 1949.
 [^persian-1973]: *Persian Letters*, C. J. Betts (trans.), Harmondsworth, UK: Penguin Books, 1973.
@@ -137,10 +137,10 @@
 [^cohler-1988]: Cohler, Anne, 1988, *Montesquieu's Comparative Politics and the Spirit of American Constitutionalism*, Lawrence KS: University of Kansas Press.
 [^conroy-1992]: Conroy, Peter, 1992, *Montesquieu Revisited*, New York: Twayne Publishers.
 [^cox-1983]: Cox, Iris, 1983, *Montesquieu and the History of French Laws*, Oxford: Voltaire Foundation at the Taylor Institution.
-[^durkheim-1960]: Durkheim, Emile, 1960, *Montesquieu and Rouseau: Forerunners of Sociology*, Ann Arbor: University of Michign Press.
-[^hulliung-1976]: Hulliung, Mark, 1976, *Montesquieu and the Old Régime*, Berkeley: University of California Press
+[^durkheim-1960]: Durkheim, Emile, 1960, *Montesquieu and Rousseau: Forerunners of Sociology*, Ann Arbor: University of Michigan Press.
+[^hulliung-1976]: Hulliung, Mark, 1976, *Montesquieu and the Old Régime*, Berkeley: University of California Press.
 [^keohane-1980]: Keohane, Nannerl, 1980, *Philosophy and the State in France: The Renaissance to the Enlightenment*, Princeton: Princeton University Press.
-[^krause-1999]: Krause, Sharon, 1999, “The Politics of Distinction and Disobedience: Honor and the Defense of Liberty in Montesquieu”, *Polity*, 31 (3): 469-499.
+[^krause-1999]: Krause, Sharon, 1999, “The Politics of Distinction and Disobedience: Honor and the Defense of Liberty in Montesquieu”, *Polity*, 31(3): 469–499.
 [^oakeshott-1993]: Oakeshott, Michael, 1993, “The Investigation of the ‘Character’ of Modern Politics”, in *Morality and Politics in Modern Europe: The Harvard Lectures*, Shirley Letwin (ed.), New Haven: Yale University Press.
 [^pangle-1973]: Pangle, Thomas, 1973, *Montesquieu's Philosophy of Liberalism: A Commentary on* The Spirit of the Laws, Chicago: University of Chicago Press.
 [^rahe-2009]: Rahe, Paul, 2009, *Montesquieu and the Logic of Liberty*, New Haven: Yale University Press.

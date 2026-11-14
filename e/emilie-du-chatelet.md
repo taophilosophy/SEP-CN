@@ -157,23 +157,6 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；内容性注释已译出（见“脚注”节），书目条目保留原样。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=emilie-du-chatelet)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=emilie-du-chatelet&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/emilie-du-chatelet/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Barbara Becker 撰：[Émilie du Châtelet](https://eee.uci.edu/clients/bjbecker/RevoltingIdeas/emilie.html)。
-
-## 相关词条
-
-艾蒂安·博诺·德·孔狄亚克 | 勒内·笛卡尔 | 女性主义哲学史 | 女性主义对科学的观点 | 戈特弗里德·威廉·莱布尼茨 | 艾萨克·牛顿 | 可能世界 | 充足理由律 | 科学方法 | 伏尔泰 | 神学意志主义
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 脚注
 
 [^note-1]: 感谢 Andrew Janiak 向笔者提示这一事实。
@@ -392,3 +375,20 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 [^zinsser-2005]: Zinsser, Judith P., 2005, “The Many Representations of the Marquise Du Châtelet”, in *Men, Women, and the Birthing of Modern Science*, Judith P. Zinsser (ed.), DeKalb: Northern Illinois University Press, 48–67.
 
 [^zinsser-2006]: –––, 2006, *La Dame d'Esprit: A Biography of The Marquise Du Châtelet*, New York: Viking.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=emilie-du-chatelet)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=emilie-du-chatelet&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/emilie-du-chatelet/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Barbara Becker 撰：[Émilie du Châtelet](https://eee.uci.edu/clients/bjbecker/RevoltingIdeas/emilie.html)。
+
+## 相关词条
+
+艾蒂安·博诺·德·孔狄亚克 | 勒内·笛卡尔 | 女性主义哲学史 | 女性主义对科学的观点 | 戈特弗里德·威廉·莱布尼茨 | 艾萨克·牛顿 | 可能世界 | 充足理由律 | 科学方法 | 伏尔泰 | 神学意志主义
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

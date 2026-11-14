@@ -98,7 +98,7 @@
 
 深入这一问题的一条路径，是考察一切可能世界中最好的世界应当例示的各种完善。莱布尼茨区分三种完善（《神义论》，T: 258）：**形而上学完善**（和谐、本质的量、知识等）、**物理完善**（幸福）与 **道德完善**（德性）。莱布尼茨有时不清楚：上帝在评价并在最好的可能世界中例示这些完善时，其判准为何。所有这些完善都被最大化吗？抑或一些优先于另一些？也就是说，上帝在选择一切可能世界中最好的世界时，面临诸善的冲突吗？
 
-在一些文本中，莱布尼茨于上帝的选择中强调形而上学完善：“上帝选择了最完善的世界，即同时在假设上最简单、在现象上最丰富的世界”（PE, *Discourse* § 6, p. 39）。照这种观点，我们的世界是最好的，因为它在形而上学上以最优方式被构造（Couturat 1901, p. 237）[^couturat-1901]。然而在另一些文本中，莱布尼茨提示：上帝创造世界的主要目的，是为理性心灵最大化物理与道德完善（幸福与德性）。例如莱布尼茨写道：“整个宇宙是为心灵而造的，使它能尽可能多地促进其幸福”（PW, *Memoir for Enlightened Persons of Good Intention*, p. 105；另见 *Discourse*§ 36；另见 Grua 1953, pp. 338–9）[^grua-1953]。
+在一些文本中，莱布尼茨于上帝的选择中强调形而上学完善：“上帝选择了最完善的世界，即同时在假设上最简单、在现象上最丰富的世界”（PE, *Discourse* § 6, p. 39）。照这种观点，我们的世界是最好的，因为它在形而上学上以最优方式被构造（Couturat 1901, p. 237）[^couturat-1901]。然而在另一些文本中，莱布尼茨提示：上帝创造世界的主要目的，是为理性心灵最大化物理与道德完善（幸福与德性）。例如莱布尼茨写道：“整个宇宙是为心灵而造的，使它能尽可能多地促进其幸福”（PW, *Memoir for Enlightened Persons of Good Intention*, p. 105；另见 *Discourse* § 36；另见 Grua 1953, pp. 338–9）[^grua-1953]。
 
 Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典国度中进步的观点。莱布尼茨在《论事物的终极起源》中写道：
 
@@ -114,7 +114,7 @@ Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典
 
 照 Rutherford 的说法，这些文本表明：世界必须 **随时间** 实现最大程度的物理与道德完善。确实，就理性心灵的物理与道德完善而言，世界不可能一开始就实现最大程度的幸福与德性。因为这些完善依赖理性心灵的行动，而后者并非从世界开端起就都有意识且活跃。因此上帝选择这样一个世界：理性心灵在其中自由地、集体地选择实现其幸福与德性。
 
-对一个理性心灵而言，其道德与物理完善之增长，依赖形而上学完善之增长，即 **知识** ，或对世界的清楚分明表现。“受造物拥有更大的道德完善，仅当它们拥有更大的形而上学完善——特别是更发展的理智；它是德性与幸福二者的基础”（1995: 47）。因此 Rutherford 写道，上帝把“它们[理性心灵]的最终启蒙与宇宙整体的最终完善，留给某个遥远的未来”（1995, p. 52）
+对一个理性心灵而言，其道德与物理完善之增长，依赖形而上学完善之增长，即 **知识** ，或对世界的清楚分明表现。“受造物拥有更大的道德完善，仅当它们拥有更大的形而上学完善——特别是更发展的理智；它是德性与幸福二者的基础”（1995: 47）。因此 Rutherford 写道，上帝把“它们[理性心灵]的最终启蒙与宇宙整体的最终完善，留给某个遥远的未来”（1995: 52）
 
 然而另一些评注者主张：莱布尼茨接受世界在完善上是 **静态的**，即不在任何完善上随时刻增长（Look 2007; Strickland 2006a and 2006b；参见 Phemister 2006）[^look-2007][^phemister-2006][^strickland-2006a][^strickland-2006b]。确实，有一些文本中莱布尼茨提示了这样的观点。例如：
 
@@ -128,7 +128,7 @@ Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典
 
 类似地，莱布尼茨在《单子论》§52 写道：“受造物之间的行动与受动是相互的”（PE, p. 219）。照 Look（2007）之说，莱布尼茨在这类文本中根本表达的是一条 **完善守恒律** ：对行动者-承受者域中的任何实体 *x* 与 *y*，若实体 *x* 行动并因此增加完善，实体 *y* 就必须相应地减少完善。照 Look 对莱布尼茨观念论的解读，宇宙中的一切都由同一种东西构成（单纯的心灵样实体或单子）；因而一切存在者都必须服从同样的定律。于是理性实体的道德与物理完善，不能免于支配实体的诸一般定律，其中包括守恒律。
 
-虽然莱布尼茨关于进步的观点中确实存在张力（这些观点的调和见 Phemister 2006）[^phemister-2006]，但清楚的是：莱布尼茨在其著述中对世界的进步持不同看法。实际上，他关于进步的最后一次陈述暗示对此题的不确定。在 1715 年致布尔盖的信中，莱布尼茨关于进步写道：“可以形成两个假设，其一自然是总同样完善的，其二它总在增加完善”；但他不能“看出一种方式，以纯理性论证地表明我们应当选择哪一项”（SLT: 198）。然而照 Strickland 的说法，莱布尼茨的犹豫其实毫不奇怪。要把无限多受造物的命运考虑在内，连莱布尼茨这样的卓越数学家也难以算清：少数受造物取得的无限收益，究竟平衡了还是超过了多数其他受造物遭受的有限损失。（2006a: 135；参见 Futch 2008）[^futch-2008]
+虽然莱布尼茨关于进步的观点中确实存在张力（这些观点的调和见 Phemister 2006）[^phemister-2006]，但清楚的是：莱布尼茨在其著述中对世界的进步持不同看法。实际上，他关于进步的最后一次陈述暗示对此题的不确定。在 1715 年致布尔盖的信中，莱布尼茨关于进步写道：“可以形成两个假设，其一自然是总同样完善的，其二它总在增加完善”；但他不能“看出一种方式，以纯理性论证地表明我们应当选择哪一项”（SLT: 198）。然而照 Strickland 的说法，莱布尼茨的犹豫其实毫不奇怪。要把无限多受造物的命运考虑在内，连莱布尼茨这样的卓越数学家也难以算清：少数受造物取得的无限收益，究竟平衡了还是超过了多数其他受造物遭受的有限损失。（2006a: 135；参见 Futch 2008）[^futch-2008]。
 
 ## 5 对笛卡尔伦理学的批评
 
@@ -170,7 +170,7 @@ Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典
 4. 笛卡尔式的灵魂不会记得其过去的行动，因此不能负道德责任。
 5. 因此，笛卡尔的灵魂不朽说明与正义不一致。
 
-笛卡尔对灵魂不朽的说明也导致没有希望的耐心：如果道德行动者不能在来世为其行动负道德责任，他们便无法指望自己将因德性得到回报。再一次，莱布尼茨认为其伦理体系避免了这一问题。因为在恩典国度中“将没有不受回报的善行，没有不受惩罚的恶行，一切都必然导向善者的福祉”（PE, *Monadology* § 90, p. 224；另见 PE, *Discourse* § 37, p. 68；莱布尼茨奖惩理论之更多讨论，见 Carlin 2002 与 Strickland 2009）[^carlin-2002][^strickland-2009]
+笛卡尔对灵魂不朽的说明也导致没有希望的耐心：如果道德行动者不能在来世为其行动负道德责任，他们便无法指望自己将因德性得到回报。再一次，莱布尼茨认为其伦理体系避免了这一问题。因为在恩典国度中“将没有不受回报的善行，没有不受惩罚的恶行，一切都必然导向善者的福祉”（PE, *Monadology* § 90, p. 224；另见 PE, *Discourse* § 37, p. 68；莱布尼茨奖惩理论之更多讨论，见 Carlin 2002 与 Strickland 2009）[^carlin-2002][^strickland-2009]。
 
 ## 参考文献
 
@@ -178,15 +178,13 @@ Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Sources
+### 原始文献
 
-### Secondary Sources
+### 二手文献
 
 [^butler-1650]: Butler, Joseph, *Fifteen Sermons*, in *British Moralists: 1650–1800* (Volume I), edited by D. D. Raphael, Indianapolis: Hackett Publishing Company, 1991.
-[^descartes-nd]: Descartes, René
 [^csm-1985]: [**CSM I**] *The Philosophical Writings of Descartes,*translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge: Cambridge University Press, 1985. [**CSMK**] *The Philosophical Writings of Descartes: The Correspondence* (Vol III), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1991.
-[^leibniz-nd]: Leibniz, G. W.
-[^philospohical-1969]: [**L**] *Philospohical Papers and Letters,* translated by Leroy E. Loemker, Dordrecht: D. Reidel, 1969. [**W**] *Leibniz: Selections*, edited by Philip P. Wiener, New York: Charles Scribner’s Sons, 1951. [**M**] *Leibniz: The Monadology and Other Philosophical Writings*, translated with introduction and notes by Robert Latta, Oxford: Oxford University Press, 1898. [**NE**] *New Essays on Human Understanding*, translated and edited by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. [**PE**] *G. W. Leibniz: Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Company, 1989. [**PW**] *Leibniz: Political Writings* (second edition), translated and edited by Patrick Riley, Cambridge: Cambridge University Press, 1988. [**SLT**] *The Shorter Leibniz Texts*, translated by Lloyd Strickland, New York: Continuum, 2006. [**T**] *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, translated by E. M. Huggard, edited by Austin Farrer, Chicago/La Salle: Open Court, 1951
+[^philosophical-1969]: [**L**] *Philosophical Papers and Letters*, translated by Leroy E. Loemker, Dordrecht: D. Reidel, 1969. [**W**] *Leibniz: Selections*, edited by Philip P. Wiener, New York: Charles Scribner’s Sons, 1951. [**M**] *Leibniz: The Monadology and Other Philosophical Writings*, translated with introduction and notes by Robert Latta, Oxford: Oxford University Press, 1898. [**NE**] *New Essays on Human Understanding*, translated and edited by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. [**PE**] *G. W. Leibniz: Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Company, 1989. [**PW**] *Leibniz: Political Writings* (second edition), translated and edited by Patrick Riley, Cambridge: Cambridge University Press, 1988. [**SLT**] *The Shorter Leibniz Texts*, translated by Lloyd Strickland, New York: Continuum, 2006. [**T**] *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, translated by E. M. Huggard, edited by Austin Farrer, Chicago/La Salle: Open Court, 1951
 [^plato-1961]: Plato, *The Collected Dialogues of Plato*, edited by Edith Hamilton and Huntington Cairns, Princeton: Princeton University Press, 1961.
 [^adams-2007]: Adams, Robert, 2007, “The Priority of the Perfect in the Philosophical Theology of the Continental Rationalists,” in *Rationalism, Platonism and God*, Michael Ayers (ed.), Oxford: Oxford University Press.
 [^adams-2014]: –––, 2014, “Justice, Happiness, and Perfection in Leibniz’s City of God,” in *New Essays on Leibniz’s* Theodicy, Larry M. Jorgensen, and Samuel Newlands (eds.), Oxford: Oxford University Press.

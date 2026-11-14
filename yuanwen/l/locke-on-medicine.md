@@ -399,11 +399,11 @@ Boyle, Robert | Descartes, René | Galen | health | Locke, John | medicine, phil
 
 [^boyle-2001]: –––, 2001, *The Correspondence of Robert Boyle*, Michael Hunter, Antonio Clericuzio, and Lawrence Principe (eds), London/Burlington, VT: Pickering & Chatto.
 
-[^le-1705]: Le Clerc, Jean, 1705, “Eloge de feu Mr. Locke.”, *Bibliothèque Choisie, pour servir de suite à la Bibliothèque Universelle*, 6: 342–411.
+[^le-1705]: Le Clerc, Jean, 1705, “Eloge de feu Mr. Locke”, *Bibliothèque Choisie, pour servir de suite à la Bibliothèque Universelle*, 6: 342–411.
 
 [^le-1713]: –––, 1713. *The Life and Character of Mr. Locke*, London: printed for John Clarke, and E. Curll. A translation of Le Clerc 1705.
 
-[^locke-1662a]: Locke, John, c. 1662a, “Vaccuum”, British Library, shelfmark Additional MS 32554 folios 75r & 95r.
+[^locke-1662a]: Locke, John, c. 1662a, “Vacuum”, British Library, shelfmark Additional MS 32554 folios 75r & 95r.
 
 [^locke-1662b]: –––, c. 1662b [2001], “Elasticus Motus”, British Library, shelfmark Additional MS 32554 folios 70r–71v; transcription in Milton 2001: 221–2.
 
@@ -439,7 +439,7 @@ Boyle, Robert | Descartes, René | Galen | health | Locke, John | medicine, phil
 
 [^sydenham-1676]: –––, 1676 [1848], *Observationes Medicae*, London: Kettilby. Page references are to Sydenham 1848–50.
 
-[^sydenham-1848]: –––, 1848–50, *The Works of Thomas Sydenham, M.D. Ranslated from the Latin Edition of Dr. Greenhill, with a Life of the Author, by R.G. Latham*, R. G. Latham (ed.), 2 volumes, London: Printed for the Sydenham Society.
+[^sydenham-1848]: –––, 1848–50, *The Works of Thomas Sydenham, M.D. Translated from the Latin Edition of Dr. Greenhill, with a Life of the Author, by R.G. Latham*, R. G. Latham (ed.), 2 volumes, London: Printed for the Sydenham Society.
 
 [^tyrrell-1718]: Tyrrell, James, 1718–19 [2021], his memoir of Locke. Printed in Felix Waldmann, 2021, “John Locke as a Reader of Thomas Hobbes’s Leviathan : A New Manuscript”, *The Journal of Modern History*, 93(2): 245–282. doi:10.1086/714068
 
@@ -481,7 +481,7 @@ Boyle, Robert | Descartes, René | Galen | health | Locke, John | medicine, phil
 
 [^walmsley-2000]: Walmsley, Jonathan Craig, 2000, “Morbus-Locke’s Early Essay On Disease”, *Early Science and Medicine*, 5(4): 367–393. doi:10.1163/157338200X00353
 
-[^walmsley-2012]: –––, 2012, “Review Article: Anstey, *John Locke and Natural Philosophy*”, *Locke Studies*, 12: 243–284,
+[^walmsley-2012]: –––, 2012, “Review Article: Anstey, *John Locke and Natural Philosophy*”, *Locke Studies*, 12: 243–284.
 
 [^walmsley-2016]: –––, 2016, “Peter Anstey on Locke’s Natural Philosophy”, *Locke Studies*, 16: 167–194. doi:10.5206/ls.2016.657
 

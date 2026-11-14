@@ -172,26 +172,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=korean-philosophy)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=korean-philosophy&redirect=True) 查找本词条话题。
-* 在 [PhilPapers](https://philpapers.org/sep/korean-philosophy/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-［欢迎读者向作者提出建议。］
-
-## 相关词条
-
-阿毗达磨 | 佛陀 | 宋明理学 | 韩国儒学 | 孟子
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-作者谨向 Don Baker、In Bang、Robert E. Buswell, Jr.、P.J. Ivanhoe、A. Charles Muller、Sumi Lee 以及诸位匿名审稿人致以最深切的谢意，感谢他们对本文早期草稿的意见。
-
 [^back-2016]: Back, Youngsun and Philip J. Ivanhoe (eds.), 2016, *Traditional Korean Philosophy: Problems and Debates*, (East Asian Comparative Ethics, Politics and Philosophy of Law), London/New York: Rowman & Littlefield International.
 
 [^bang-2013]: Bang, In, 2013, *Tasan Chŏng Yagyongŭi chuyŏksajŏn, kihohakŭro ilda* (A Semiotic Investigation into Chŏng Yag-yong’s System of Yi), Seoul: Yemunsŏwŏn.
@@ -359,3 +339,23 @@
 [^yulgok-cw-1956]: [Yulgok-CW] Yi I [Yulgok], *Yulgok Chŏnsŏ* (Complete Works of Yulgok), Seoul: Sungkyunkwan University Press, 1956, 2 volumes.
 
 [^xuanzang-2019]: Xuanzang, Cheng wei xi lun, Johnson, Peter Lunde (trans.), *On Realizing There is Only The Virtual Nature of Consciousness*, An Lac Publications, 2019.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=korean-philosophy)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=korean-philosophy&redirect=True) 查找本词条话题。
+* 在 [PhilPapers](https://philpapers.org/sep/korean-philosophy/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+［欢迎读者向作者提出建议。］
+
+## 相关词条
+
+阿毗达磨 | 佛陀 | 宋明理学 | 韩国儒学 | 孟子
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+作者谨向 Don Baker、In Bang、Robert E. Buswell, Jr.、P.J. Ivanhoe、A. Charles Muller、Sumi Lee 以及诸位匿名审稿人致以最深切的谢意，感谢他们对本文早期草稿的意见。

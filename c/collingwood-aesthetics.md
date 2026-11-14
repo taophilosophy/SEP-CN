@@ -144,21 +144,6 @@ Sensa 是偶发现象，因而转瞬即逝（222）：如果我听到钟敲四�
 
 ### 二手文献（Secondary Literature）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=collingwood-aesthetics)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版本](https://leibniz.stanford.edu/friends/preview/collingwood-aesthetics/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=collingwood-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/collingwood-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-亚里士多德的美学 | 罗宾·乔治·柯林武德 | 克罗齐的美学 | 唐纳德·戴维森 | 路德维希·维特根斯坦 | 维特根斯坦的美学
-
 ## 脚注
 
 ## 柯林武德美学之注释
@@ -230,3 +215,18 @@ Sensa 是偶发现象，因而转瞬即逝（222）：如果我听到钟敲四�
 [^wollheim-1972]: Wollheim, R., 1972, “On on Alleged Inconsistency in Collingwood’s Aesthetics”, in *Critical Essays on the Philosophy of R.G. Collingwood*, M. Krausz (ed.), Oxford: Oxford University Press.
 
 [^wollheim-1980]: –––, 1980, *Art and Its Objects*, 2ⁿᵈ edition, Cambridge: Cambridge University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=collingwood-aesthetics)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版本](https://leibniz.stanford.edu/friends/preview/collingwood-aesthetics/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=collingwood-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/collingwood-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+亚里士多德的美学 | 罗宾·乔治·柯林武德 | 克罗齐的美学 | 唐纳德·戴维森 | 路德维希·维特根斯坦 | 维特根斯坦的美学

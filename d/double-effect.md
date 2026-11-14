@@ -175,28 +175,6 @@ Timothy E. Quill 医学博士、Rebecca Dresser 法学博士和 Dan W. Brock 哲
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=double-effect)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/double-effect/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/double-effect/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=double-effect&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/double-effect/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [双重效应原理参考文献列表 [PDF]](http://www.ethikseite.de/bib/bpdw.pdf)，由 Jörg Schroth 维护。
-* [在自卫中杀死一个人是否合法？](https://www.newadvent.org/summa/3064.htm#article7)，圣托马斯·阿奎那，*Summa Theologica*，第二部分之二，第 64 题，第 7 条。
-* [正义战争理论](https://iep.utm.edu/justwar/)，互联网哲学百科全书。
-* [《习惯国际人道法规则》](https://ihl-databases.icrc.org/en/customary-ihl)，红十字国际委员会。
-* [美国最高法院判决 *Vacco v. Quill*](https://www.law.cornell.edu/supct/html/95-1858.ZO.html)，关于奎尔（Quill）等人对禁止协助自杀法律提出的质疑，法律信息研究所，最高法院判例汇编。
-* [国际临终关怀与姑息治疗协会](https://www.hospicecare.com/)。
-
-## 相关词条
-
-托马斯·阿奎那 | 后果主义 | 造成伤害与允许伤害 | 自愿安乐死 | 自杀
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^allmark-2010]: Allmark, Peter; Cobb, Mark; Liddle, Jane B.; and Tod, Angela M., 2010. “Is the doctrine of double effect irrelevant in end-of-life decision making?” *Nursing Philosophy*, 11: 170–7.
 
 [^anscombe-1982]: Anscombe, Elizabeth, 1982. “Medallist’s Address: Action, Intention and ‘Double Effect’”, in *Proceedings of the American Catholic Philosophical Association*, 56, Washington, D.C.: American Catholic Philosophical Association: 12–25; reprinted in Woodward (ed.): 50–66.
@@ -318,3 +296,25 @@ Timothy E. Quill 医学博士、Rebecca Dresser 法学博士和 Dan W. Brock 哲
 [^walzer-1977]: Walzer, Michael, 1977. *Just and Unjust Wars*, New York: Basic Books: 151–9; reprinted in Woodward (ed.): 261–269.
 
 [^woodward-2001]: Woodward, P. A. (ed.), 2001. *The Doctrine of Double Effect: Philosophers Debate a Controversial Moral Principle*, Notre Dame, IN: University of Notre Dame Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=double-effect)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/double-effect/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/double-effect/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=double-effect&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/double-effect/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [双重效应原理参考文献列表 [PDF]](http://www.ethikseite.de/bib/bpdw.pdf)，由 Jörg Schroth 维护。
+* [在自卫中杀死一个人是否合法？](https://www.newadvent.org/summa/3064.htm#article7)，圣托马斯·阿奎那，*Summa Theologica*，第二部分之二，第 64 题，第 7 条。
+* [正义战争理论](https://iep.utm.edu/justwar/)，互联网哲学百科全书。
+* [《习惯国际人道法规则》](https://ihl-databases.icrc.org/en/customary-ihl)，红十字国际委员会。
+* [美国最高法院判决 *Vacco v. Quill*](https://www.law.cornell.edu/supct/html/95-1858.ZO.html)，关于奎尔（Quill）等人对禁止协助自杀法律提出的质疑，法律信息研究所，最高法院判例汇编。
+* [国际临终关怀与姑息治疗协会](https://www.hospicecare.com/)。
+
+## 相关词条
+
+托马斯·阿奎那 | 后果主义 | 造成伤害与允许伤害 | 自愿安乐死 | 自杀
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

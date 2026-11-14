@@ -338,25 +338,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；内容性注已译出（见“脚注”节），书目条目保留原样。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bayes-theorem)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=bayes-theorem&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/bayes-theorem/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Fitelson, B. 2001. *Studies in Bayesian Confirmation Theory*, Ph.D. Dissertation, University of Wisconsin. [[PDF 预印本可在线获取](http://fitelson.org/thesis.pdf)]（750K 下载）
-* [托马斯·贝叶斯小传](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Mathematicians/Bayes.html)（圣安德鲁斯大学 MacTutor 数学史档案）
-* [国际贝叶斯分析学会（ISBA）](http://www.bayesian.org/)
-
-## 相关词条
-
-认识论：贝叶斯认识论 | 概率的诸种解释
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 脚注
 
 [^note-1]: 虽然可以把条件概率当作基本的，甚至可以理解对概率为零的事件取条件的情形，此处我们仍坚持标准定义。凡出现 P*_{E}* 处，均假定 *E* 的概率为正。关于广义条件概率的讨论与有用的参考文献，见（Renyi, 1955）、（Harper, 1976）、（Sphon, 1986）、（Hammond, 1994）、（McGee, 1994）与（Joyce 1999, 201-213）[^joyce-1999]。
@@ -478,3 +459,22 @@
 [^williamson-2000]: Williamson, T. 2000. *Knowledge and its Limits*. Oxford: Oxford University Press.
 
 [^van-1999]: Van Fraassen, B. 1999. "A New Argument for Conditionalization". *Topoi* 18, 93-96.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bayes-theorem)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=bayes-theorem&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/bayes-theorem/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Fitelson, B. 2001. *Studies in Bayesian Confirmation Theory*, Ph.D. Dissertation, University of Wisconsin. [[PDF 预印本可在线获取](http://fitelson.org/thesis.pdf)]（750K 下载）
+* [托马斯·贝叶斯小传](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Mathematicians/Bayes.html)（圣安德鲁斯大学 MacTutor 数学史档案）
+* [国际贝叶斯分析学会（ISBA）](http://www.bayesian.org/)
+
+## 相关词条
+
+认识论：贝叶斯认识论 | 概率的诸种解释
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

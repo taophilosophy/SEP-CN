@@ -543,7 +543,7 @@ outline: [1, 6]
 
 * [皮埃尔·伽桑狄 Pierre Gassendi (Saul Fisher)](g/gassendi.md)
 * [皮埃尔·培尔 Pierre Bayle (Michael Hickson)](b/bayle.md)
-* [夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)](m/montesquieu.md)
+* [夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)](m/montesquieu.md)
 * [伏尔泰 Voltaire (J.B. Shank)](v/voltaire.md)
 * [让-雅克·卢梭 Jean Jacques Rousseau (Christopher Bertram)](r/rousseau.md)
 * [德尼·狄德罗 Denis Diderot (Charles T. Wolfe、J.B. Shank)](d/diderot.md)

@@ -182,23 +182,6 @@
 
 ### Secondary Works
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=descartes-ethics&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/descartes-ethics/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Rutherford, Donald, “Descartesʼ Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年春季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/](https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/)>。［这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。］
-
-## 相关词条
-
-勒内·笛卡尔 | 笛卡尔的生平及著作 | 笛卡尔的方法 | 普法尔茨的伊丽莎白公主 | 伊壁鸠鲁 | 德性伦理学 | 斯多葛主义
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 脚注
 
 [^note-nd]: 注：本词条引用笛卡尔著作时使用 CSM(K) 版的页码，但全部译文为两位作者所译或经其修订。
@@ -377,3 +360,20 @@
 [^vuillemin-1981]: Vuillemin, Jules, 1981. “Trois philosophes intuitionnistes: Épicure, Descartes et Kant,” *Dialectica*, 35: 21–41.
 
 [^wee-2002]: Wee, Cecilia, 2002. “Self, Other, and Community in Cartesian Ethics,” *History of Philosophy Quarterly*, 19: 255–273.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=descartes-ethics&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/descartes-ethics/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Rutherford, Donald, “Descartesʼ Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年春季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/](https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/)>。［这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。］
+
+## 相关词条
+
+勒内·笛卡尔 | 笛卡尔的生平及著作 | 笛卡尔的方法 | 普法尔茨的伊丽莎白公主 | 伊壁鸠鲁 | 德性伦理学 | 斯多葛主义
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

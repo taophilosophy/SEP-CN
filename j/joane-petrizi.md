@@ -72,26 +72,6 @@
 
 ### B. Secondary Literature
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=joane-petrizi)。
-
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/joane-petrizi/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
-
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=joane-petrizi&redirect=True) 查找与本词条相关的话题与思想家。
-
-* 在 [PhilPapers](https://philpapers.org/sep/joane-petrizi/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-新柏拉图主义 | 普罗克洛斯
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^joane-1937]: Joane Petrizi, *Interpretation of the “Elementatio theologica” of Proclus*, ed. and with a study by Sh. Nutsubidze and S. Kaukhchishvili (Opera II), Tbilisi 1937 (in Old Georgian).
 
 [^joane-1940]: –––, *The “Elementatio theologica” of the Platonic Philosopher Proclus*, trans. from the Greek, ed. and with a study and a vocabulary by S. Kaukhchishvili, with an introduction by M. Gogiberidze (Opera I), Tbilisi 1940 (in Old Georgian).
@@ -207,3 +187,23 @@
 [^zakaradze-2020]: –––, 2020, “Christian Philosophy in Medieval Georgian and Byzantine Philosophy (Ioane Petritsi – Gregory Palamas),” in N. Makaradze and T. Dolidze (eds.), *Byzantine Studies in Georgia*, 4: 181–193 (in Georgian).
 
 [^zakaradze-2025]: –––, 2025, “On the Question of the Historical Grounding of Caucasian Philosophy,” in *Proceedings of Georgian National Academy of Sciences* (Series of History, Archaeology, Ethnology and Art History), 3: 200–218 (in Georgian).
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=joane-petrizi)。
+
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/joane-petrizi/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
+
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=joane-petrizi&redirect=True) 查找与本词条相关的话题与思想家。
+
+* 在 [PhilPapers](https://philpapers.org/sep/joane-petrizi/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+新柏拉图主义 | 普罗克洛斯
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

@@ -1,0 +1,334 @@
+{
+ "key": "namdev",
+ "term": "Namdev",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T11:37:54+00:00",
+ "status": "ok",
+ "note": "variant=Namdev; 审定公布名词库=183; 海峡两岸名词对照库=114; 其他来源数据库=18; 预公布名词数据库=10; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命名实体",
+   "en": "named entity",
+   "code": "08.0505",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "有名管道",
+   "en": "named pipe",
+   "code": "05.0417",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "命名实体",
+   "en": "named entity",
+   "code": "11.212",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_应用系统"
+  },
+  {
+   "cn": "地名译写",
+   "en": "names conversion",
+   "code": "28.014",
+   "standard": "地理学名词",
+   "subject": "地理学_地名学"
+  },
+  {
+   "cn": "地名雅化",
+   "en": "names refinement",
+   "code": "28.013",
+   "standard": "地理学名词",
+   "subject": "地理学_地名学"
+  },
+  {
+   "cn": "地名调查",
+   "en": "names survey",
+   "code": "28.010",
+   "standard": "地理学名词",
+   "subject": "地理学_地名学"
+  },
+  {
+   "cn": "记名背书",
+   "en": "named endorsement",
+   "code": "13.0083",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "俗名",
+   "en": "common name,vernacular name",
+   "code": "02.102",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "俗名",
+   "en": "colloquial name;common name;vernacular name",
+   "code": "2.0089",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "替代学名",
+   "en": "substitute name;replacement name",
+   "code": "2.009",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "人名词典",
+   "en": "dictionary of names",
+   "code": "03.114",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "命名实体抽取",
+   "en": "named entity extraction",
+   "code": "07.0462",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "名称",
+   "en": "name",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "互用名[称]",
+   "en": "alternative names",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "地名调查",
+   "en": "names survey",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地名雅化",
+   "en": "names refinement",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地名译写",
+   "en": "names conversion",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "注记透明片",
+   "en": "names overlay",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "名字抽取",
+   "en": "names extraction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "记名背书",
+   "en": "named endorsement",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "俗名",
+   "en": "colloquial name\",\"common name\",\"vernacular name",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "地名",
+   "en": "geographical name\",\"place name",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "替代学名",
+   "en": "substitute name\",\"replacement name",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "俗名",
+   "en": "common name\",\"vernacular name",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "正名",
+   "en": "Rectification of Names",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "达名",
+   "en": "Unrestricted Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "类名",
+   "en": "Classified Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "域名",
+   "en": "Domain Name",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模式属",
+   "en": "Name-bearing type",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "形名",
+   "en": "Form and Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "根域名服务器",
+   "en": "root name server",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "布洛芬",
+   "en": "List of ibuprofen brand names",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "code": "5.2.5.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "code": "5.2.5.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "code": "4.3.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "商号",
+   "en": "trade name",
+   "code": "1.018",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "父子连名制",
+   "en": "father and son consecutive names",
+   "code": "1.0386",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "母女连名制",
+   "en": "mother and daughter consecutive names",
+   "code": "1.0387",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "消毒产品名称",
+   "en": "name of disinfection product",
+   "code": "5.2.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "code": "1.1.2.44",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "国际非专利药名",
+   "en": "international non-proprietary names for pharmaceutical substance,INN",
+   "code": "16.1.6.2.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生系统改革_中国卫生系统改革"
+  },
+  {
+   "cn": "中央人民政府政务院关于处理带有歧视或侮辱少数民族性质的称谓、地名、碑碣、匾联的指示",
+   "en": "Instructions on Handling Titles, Place Names, Steles and Plaques Discriminating \nor Insulting Ethnic Minorities",
+   "code": "2.0091",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

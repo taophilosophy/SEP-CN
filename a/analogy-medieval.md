@@ -98,24 +98,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analogy-medieval)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/analogy-medieval/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=analogy-medieval&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [保罗·文森特·斯佩德的中世纪逻辑与哲学页面](http://pvspade.com/Logic/)
-- [宗教改革后数字图书馆](https://www.prdl.org/)。PRDL（prdl.org）是研究晚期中世纪与近代早期哲学、神学文本的优质资源。
-
-## 相关词条
-
-托马斯·阿奎那 | 亚里士多德的范畴论 | 亚里士多德的逻辑学 | 波爱修斯 | 约翰·邓斯·司各脱 | 罗伯特·格罗斯泰斯特 | 西班牙的彼得（彼得·希斯帕努斯） | 中世纪符号学 | 弗朗西斯科·苏亚雷斯
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^aertsen-2012]: Aertsen, Jan A., 2012. *Medieval Philosophy As Transcendental Thought: From Philip the Chancellor (ca. 1225) to Francisco Suárez*, Leiden: Brill.
 
 [^andersen-2016]: Andersen, Claus A., 2016, *Metaphysik im Barockscotismus: Unterschungen zum Metaphysikwerk Des Bartholmaeus Mastrius: Mit Dokumentation der Metaphysik in der scotistischen Tradition ca. 1620–1750*, Amsterdam/ Philadelphia: John Benjamin’s Publishing Company.
@@ -265,3 +247,21 @@
 [^wippel-2000]: Wippel, John F., 2000, *The Metaphysical Thought of Thomas Aquinas: From Finite Being to Uncreated Being*, Washington, D.C.: The Catholic University of America Press.
 
 [^wolfson-1938]: Wolfson, H. A., 1938, “The Amphibolous Terms in Aristotle, Arabic Philosophy and Maimonides,” *Harvard Theological Review*, 31: 151–73; reprinted in idem, *Studies in the History of Philosophy and Religion*, I. Twersky and G. H. Williams (eds.), Cambridge, MA and London: Harvard University Press, 1973. Volume 1, pp. 455–77.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analogy-medieval)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/analogy-medieval/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=analogy-medieval&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [保罗·文森特·斯佩德的中世纪逻辑与哲学页面](http://pvspade.com/Logic/)
+- [宗教改革后数字图书馆](https://www.prdl.org/)。PRDL（prdl.org）是研究晚期中世纪与近代早期哲学、神学文本的优质资源。
+
+## 相关词条
+
+托马斯·阿奎那 | 亚里士多德的范畴论 | 亚里士多德的逻辑学 | 波爱修斯 | 约翰·邓斯·司各脱 | 罗伯特·格罗斯泰斯特 | 西班牙的彼得（彼得·希斯帕努斯） | 中世纪符号学 | 弗朗西斯科·苏亚雷斯
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

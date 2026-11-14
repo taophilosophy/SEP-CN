@@ -166,23 +166,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=emotion-Christian-tradition)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=emotion-Christian-tradition&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/emotion-Christian-tradition/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [鲁道夫·奥托的相关信息](http://www.answers.com/topic/rudolf-otto)，由 Gregory D. Alles 维护。
-
-## 相关词条
-
-希波的奥古斯丁 | 乔纳森·爱德华兹 | 情感 | 威廉·詹姆斯 | 索伦·克尔凯郭尔 | 弗里德里希·丹尼尔·恩斯特·施莱尔马赫
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^aristotle-1934]: Aristotle, *Nicomachean Ethics*, translated by H. Rackham, Cambridge, MA: Harvard University Press, 1934.
 
 [^aristotle-1926]: –––, *The Art of Rhetoric*, translated by J. H. Freese, Cambridge, MA: Harvard University Press, 1926.
@@ -238,3 +221,20 @@
 [^wynn-2004]: Wynn, Mark, 2004, *Emotional Experience and Religious Understanding*, Cambridge: Cambridge University Press.
 
 [^wynn-2013]: –––, 2013, *Renewing the Senses*, Oxford: Oxford University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=emotion-Christian-tradition)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=emotion-Christian-tradition&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/emotion-Christian-tradition/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [鲁道夫·奥托的相关信息](http://www.answers.com/topic/rudolf-otto)，由 Gregory D. Alles 维护。
+
+## 相关词条
+
+希波的奥古斯丁 | 乔纳森·爱德华兹 | 情感 | 威廉·詹姆斯 | 索伦·克尔凯郭尔 | 弗里德里希·丹尼尔·恩斯特·施莱尔马赫
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

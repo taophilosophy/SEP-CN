@@ -258,27 +258,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cognitive-science)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cognitive-science/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/cognitive-science/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=cognitive-science&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/cognitive-science/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [网络上的人工智能](http://aima.cs.berkeley.edu/books.html)
-* [认知科学主要贡献者传记](http://mechanism.ucsd.edu/%7Ebill/research/ANAUT.html)
-* [阿尔伯塔大学认知科学词典](http://www.bcp.psych.ualberta.ca/%7emike/Pearl_Street/Dictionary/dictionary.html)
-* [认知科学学会](http://www.cognitivesciencesociety.org/)
-* [心灵哲学词典](https://sites.google.com/site/minddict/)
-* [认知科学术语表](http://cogsci.uwaterloo.ca/courses/Phil256/glossary.htm)
-* [《科学日报》心智与大脑新闻](http://www.sciencedaily.com/news/mind_brain/)
-
-## 相关词条
-
-人工智能 | 基于逻辑的人工智能 | 行为主义 | 具身认知 | 计算哲学 | 概念 | 联结主义 | 意识 | 意识的神经科学 | 情感 | 实验哲学 | 作为理论的民间心理学 | 作为心理模拟的民间心理学 | 自由意志 | 先天性特征与后天获得性特征的区别 | 先天和当代认知理论 | 意向性 | 思维语言假说 | 知觉学习 | 意义理论 | 记忆 | 心理内容的因果理论 | 精神障碍（精神疾病） | 心理意象 | 心理表征 | 心脑同一论 | 心灵计算理论 | 心理模块性 | 道德心理学的经验主义研究 | 神经科学哲学 | 感知的内容
-
 [^anderson-2007]: Anderson, J. R., 2007. *How Can the Mind Occur in the Physical Universe?*, Oxford: Oxford University Press.
 
 [^anderson-2010]: –––, 2010. *Cognitive Psychology and its Implications*, 7th edition, New York: Worth.
@@ -412,3 +391,24 @@
 [^varela-2016]: Varela, F. J., Thompson, E., & Rosch, E., 2016. *The Embodied Mind: Cognitive Science and Human Experience*, revised edition, Cambridge, MA: MIT Press.
 
 [^wilson-1999]: Wilson, R. A., & Keil, F. C. (eds.), 1999. *The MIT Encyclopedia of the Cognitive Sciences*, Cambridge, MA: MIT Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cognitive-science)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cognitive-science/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/cognitive-science/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cognitive-science&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/cognitive-science/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [网络上的人工智能](http://aima.cs.berkeley.edu/books.html)
+* [认知科学主要贡献者传记](http://mechanism.ucsd.edu/%7Ebill/research/ANAUT.html)
+* [阿尔伯塔大学认知科学词典](http://www.bcp.psych.ualberta.ca/%7emike/Pearl_Street/Dictionary/dictionary.html)
+* [认知科学学会](http://www.cognitivesciencesociety.org/)
+* [心灵哲学词典](https://sites.google.com/site/minddict/)
+* [认知科学术语表](http://cogsci.uwaterloo.ca/courses/Phil256/glossary.htm)
+* [《科学日报》心智与大脑新闻](http://www.sciencedaily.com/news/mind_brain/)
+
+## 相关词条
+
+人工智能 | 基于逻辑的人工智能 | 行为主义 | 具身认知 | 计算哲学 | 概念 | 联结主义 | 意识 | 意识的神经科学 | 情感 | 实验哲学 | 作为理论的民间心理学 | 作为心理模拟的民间心理学 | 自由意志 | 先天性特征与后天获得性特征的区别 | 先天和当代认知理论 | 意向性 | 思维语言假说 | 知觉学习 | 意义理论 | 记忆 | 心理内容的因果理论 | 精神障碍（精神疾病） | 心理意象 | 心理表征 | 心脑同一论 | 心灵计算理论 | 心理模块性 | 道德心理学的经验主义研究 | 神经科学哲学 | 感知的内容

@@ -2,7 +2,7 @@
 
 **首次发表于 2003 年 2 月 13 日；2025 年 8 月 4 日实质修订。**
 
-安妮·康威夫人（娘家姓芬奇）是十七世纪极少数得以追求哲学志趣的女性之一。她与剑桥柏拉图主义群体交往密切，尤其与亨利·莫尔（Henry More，1614–1687）相善。她唯一留存的论著《最古老与现代哲学的原理》（*Principia philosophiae antiquissimae ac recentissimae*，英译 *The Principles of the Most Ancient and Modern Philosophy*）于 1690 年在她身后匿名出版。此书提出一种源自上帝属性的精神活力论本体论，她是在与莫尔、笛卡尔、霍布斯及斯宾诺莎的对立中提出这一学说的。她的哲学得到莱布尼茨的好评。
+安妮·康威夫人（娘家姓芬奇）是十七世纪极少数得以追求哲学志趣的女性之一。她与剑桥柏拉图主义群体交往密切，尤其与亨利·莫尔（Henry More，1614–1687）相善。她唯一留存的论著《最古老与现代哲学的原理》（*Principia philosophiae antiquissimae et recentissimae*，英译 *The Principles of the Most Ancient and Modern Philosophy*）于 1690 年在她身后匿名出版。此书提出一种源自上帝属性的精神活力论本体论，她是在与莫尔、笛卡尔、霍布斯及斯宾诺莎的对立中提出这一学说的。她的哲学得到莱布尼茨的好评。
 
 ## 1 生平
 
@@ -44,11 +44,11 @@
 
 然而，受造物状况的可变性意味着它们可能向坏处变化。这并非不可避免：受造物道德败坏，要么源于意志的蓄意行为，要么源于意志的漠然，即未能追求善（Lascano 2018）[^lascano-2018]。受造物的道德退化由于这样一个事实而得到缓和：没有一个受造物会变得如此腐败，以至于完全丧失上帝所赐的善。（一个彻底缺乏善的受造物会与上帝如此不相像，以至于无法存在。）受造物所余的善，使它有可能从其退化状态中恢复。为理解这一过程，先回想一点：受造物之变化既是物理的，也是道德的；故其退化时会变得更具体形性（“硬化”）。再者，正如一个受造物永远不会变得彻底邪恶，它也永远不会被还原为纯粹的形体性，因为那将是一种无生命的状态，与上帝如此不相像，以至于不能存在。
 
-再生过程的第二个因素是罪的惩罚：在这里痛苦起着关键作用。康威主张，形体性与精神之间的失衡，即受造物变得更具形体性，是一种痛苦的状况。所经受的痛苦，是对导致它陷入这一状况的罪的惩罚（就此而言，罪即是其自身的惩罚）。但康威进一步主张，惩罚并不只是报应性的；痛苦对退化中的受造物具有净化作用，使之摆脱其过分形体化、不活动的状况，并使之能够重新踏上恢复其原初神似的轨迹。在这一过程中，其体质构成变得越来越精微（越来越精神化），与其增进之善同步。退化与改善这两种轨迹，呼应了柏拉图在《斐多篇》80d–84b 中对灵魂不朽的论述。在康威的版本中，痛苦与受苦之所以有益，是因为它们具有恢复功能，从而在维系其形而上学体系中走向可完善性的总体动力上起着关键作用。这样，康威就维护了上帝的公义。康威的体系因此是一种神义论，它把痛苦与受苦解释为一种暂时的状况，有助于受造物的改善与恢复。就宗教信念而言，其结果是：康威否认地狱惩罚的永恒性，并维护普世救赎或*apocotastasis*（万有复原）的教义。
+再生过程的第二个因素是罪的惩罚：在这里痛苦起着关键作用。康威主张，形体性与精神之间的失衡，即受造物变得更具形体性，是一种痛苦的状况。所经受的痛苦，是对导致它陷入这一状况的罪的惩罚（就此而言，罪即是其自身的惩罚）。但康威进一步主张，惩罚并不只是报应性的；痛苦对退化中的受造物具有净化作用，使之摆脱其过分形体化、不活动的状况，并使之能够重新踏上恢复其原初神似的轨迹。在这一过程中，其体质构成变得越来越精微（越来越精神化），与其增进之善同步。退化与改善这两种轨迹，呼应了柏拉图在《斐多篇》80d–84b 中对灵魂不朽的论述。在康威的版本中，痛苦与受苦之所以有益，是因为它们具有恢复功能，从而在维系其形而上学体系中走向可完善性的总体动力上起着关键作用。这样，康威就维护了上帝的公义。康威的体系因此是一种神义论，它把痛苦与受苦解释为一种暂时的状况，有助于受造物的改善与恢复。就宗教信念而言，其结果是：康威否认地狱惩罚的永恒性，并维护普世救赎或*apokatastasis*（万有复原）的教义。
 
 ## 6 接受与影响
 
-作为十七世纪的一位女性哲学家，安妮·康威因其哲学得以出版而显得不同寻常。据知，她的哲学深受莱布尼茨好评（他实际上拥有一部她的论著——很可能是他们的共同朋友范·赫尔蒙特所赠）。但是，尽管有莱布尼茨的赞许，康威著作的匿名性仍使她遭遇大多数前现代女性哲学家所共同遭受的那种忽视。然而，这种情况在二十世纪后期随着人们对女性哲学家的兴趣日增而改变。在现代版本（Loptson，Conway 1998）与新译本（Corse 与 Coudert，Conway 1996）[^conway-1996]，连同她书信集的修订版（《康威书信集》1992）出版之后，康威的哲学命运发生了戏剧性的转变。除少数例外（Broad 2003、Hutton 2004、Head 2020）[^broad-2003][^head-2020][^hutton-2004][^hutton-2020]，关于她哲学的日益增多的研究，在很大程度上聚焦于其与经典哲学家的关系。这也许反映了教学经典的主导地位：她的柏拉图主义（新柏拉图主义）仍相对被忽视（但见 Hutton 2018 与 2022、Mercer 2012 与 2019，以及 Branscum 2023）[^branscum-2023][^hutton-2018][^hutton-2019][^mercer-2019][^mercer-2023]。关于研究她哲学之各种进路的概述，见 Rodriguez 2024。
+作为十七世纪的一位女性哲学家，安妮·康威因其哲学得以出版而显得不同寻常。据知，她的哲学深受莱布尼茨好评（他实际上拥有一部她的论著——很可能是他们的共同朋友范·赫尔蒙特所赠）。但是，尽管有莱布尼茨的赞许，康威著作的匿名性仍使她遭遇大多数前现代女性哲学家所共同遭受的那种忽视。然而，这种情况在二十世纪后期随着人们对女性哲学家的兴趣日增而改变。随着现代版本（Loptson 编，Conway 1998）与新译本（Corse 与 Coudert 译，Conway 1996）[^conway-1996]连同其书信集修订版（《康威书信集》1992）相继出版，康威的哲学命运发生了戏剧性的转变。除少数例外（Broad 2003、Hutton 2004、Head 2020）[^broad-2003][^head-2020][^hutton-2004][^hutton-2020]，关于她哲学的日益增多的研究，在很大程度上聚焦于其与经典哲学家的关系。这也许反映了教学经典的主导地位：她的柏拉图主义（新柏拉图主义）仍相对被忽视（但见 Hutton 2018 与 2022、Mercer 2012 与 2019，以及 Branscum 2023）[^branscum-2023][^hutton-2018][^hutton-2019][^mercer-2019][^mercer-2023]。关于研究她哲学之各种进路的概述，见 Rodríguez 2024。
 
 ## 参考文献
 
@@ -57,23 +57,6 @@
 ### 原始文献（Primary Sources）
 
 ### 二手文献（Secondary Sources）
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
-
-## 相关词条
-
-剑桥柏拉图学派 | 勒内·笛卡尔 | 托马斯·霍布斯 | 戈特弗里德·威廉·莱布尼茨 | 亨利·莫尔 | 巴鲁赫·斯宾诺莎
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
 [^conway-1690]: Conway, Anne, *Principia philosophiae antiquissimae et recentissimae de Deo, Christo et Creatura id est de materia et spiritu in genere*. Amsterdam, 1690.
 
@@ -91,7 +74,7 @@
 
 [^becco-1975]: Becco, Anne, 1975, “AUX SOURCES DE LA MONADE: Paléographie Et Lexicographie Leibniziennes,” *Les Études Philosophiques*, 3, 279–294.
 
-[^bender-2022]: Bender, Sebastian, 2022, “Anne Conway’s Metaphysics of Change”, *History of Philosophy Quarterly,*39(1):21–44.
+[^bender-2022]: Bender, Sebastian, 2022, “Anne Conway’s Metaphysics of Change”, *History of Philosophy Quarterly*, 39(1): 21–44.
 
 [^borcherding-2019a]: Borcherding, Julia, 2019a, “Nothing is Simply One Thing: Conway on Multiplicity in Causation and Cognition”, in *Causation and Cognition in Early Modern Philosophy*, Dominik Perler and Sebastian Bender (eds), (Routledge Studies in Seventeenth-Century Philosophy), London: Routledge, 123–144.
 
@@ -172,3 +155,20 @@
 [^thomas-2018a]: –––, 2018a, “Anne Conway on the Identity of Creatures over Time”, in Thomas (ed.), *Early Modern Women on Metaphysics*, Cambridge: Cambridge University Press. doi:10.1017/9781316827192
 
 [^thomas-2020]: –––, 2020, “Anne Conway as a Priority Monist: A Reply to Gordon-Roth”, *Journal of the American Philosophical Association*. [[Thomas 2020 available online](http://dro.dur.ac.uk/27123/)]
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
+
+## 相关词条
+
+剑桥柏拉图学派 | 勒内·笛卡尔 | 托马斯·霍布斯 | 戈特弗里德·威廉·莱布尼茨 | 亨利·莫尔 | 巴鲁赫·斯宾诺莎
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

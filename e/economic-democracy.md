@@ -193,24 +193,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；内容性注释已译出（见“脚注”节），书目条目保留英文原样。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=economic-democracy)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=economic-democracy&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/economic-democracy/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Mondragon, 2023, “[Humanity at Work: Annual Report 2023](https://www.mondragon-corporation.com/people/site/assets/files/103207/annual-report-2023-ext.pdf)”。
-* Pérotin, Virginie, 2016, “[What Do We Really Know About Worker Co-operatives?](https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf)”。
-
-## 相关词条
-
-民主 | 货币与金融哲学 | 社会主义 | 工作和劳动的哲学方法
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 脚注
 
 [^note-1]: 本词条的多数讨论——一如政治哲学中的许多讨论——把全球北方工业化国家的境况当作给定前提。本词条呈现这些讨论，但不宣称其普适性。与来自全球南方的研究者就其对经济制度与实践、以及民主化之潜能的理解展开更多对话，是未来研究所亟需的（另见 §5.3）。
@@ -545,3 +527,21 @@
 [^yeoman-2014]: Yeoman, Ruth, 2014, *Meaningful Work and Workplace Democracy: A Philosophy of Work and a Politics of Meaningfulness*, New York: Palgrave Macmillan.
 
 [^zamagni-2010]: Zamagni, Stefano, and Vera Zamagni, 2010, *Cooperative Enterprise: Facing the Challenge of Globalisation*, Cheltenham: Edward Elgar.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=economic-democracy)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=economic-democracy&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/economic-democracy/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Mondragon, 2023, “[Humanity at Work: Annual Report 2023](https://www.mondragon-corporation.com/people/site/assets/files/103207/annual-report-2023-ext.pdf)”。
+* Pérotin, Virginie, 2016, “[What Do We Really Know About Worker Co-operatives?](https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf)”。
+
+## 相关词条
+
+民主 | 货币与金融哲学 | 社会主义 | 工作和劳动的哲学方法
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

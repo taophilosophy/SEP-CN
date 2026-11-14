@@ -97,21 +97,6 @@ Sara Protasi（2016）提供了一个更复杂的嫉妒分类学，其中包括�
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=envy)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/envy/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=envy&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](http://philpapers.org/sep/envy/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [伦理与情感的网络内容链接](http://web.archive.org/web/20101230191437/http://philosophyofmind.net/)（Michael Speer 维护）
-
-## 相关词条
-
-平等主义 | 平等 | 正义：分配的
-
 ## 注释
 
 [^note-1]: 尽管该词用得足够广泛，以至于各种非情感性的行为与动机模式也可以在语言上无不当地被称为“嫉妒的”，但显然它们之所以被这样称呼，是因为其与该情感综合征的相似。
@@ -253,3 +238,18 @@ Sara Protasi（2016）提供了一个更复杂的嫉妒分类学，其中包括�
 [^varian-1975]: –––, 1975, “Distributive Justice, Welfare Economics, and the Theory of Fairness” *Philosophy and Public Affairs*, 4: 223–47.
 
 [^young-1987]: Young, R., 1987, “Egalitarianism and Envy,” *Philosophical Studies*, 52: 261–276.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=envy)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/envy/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=envy&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](http://philpapers.org/sep/envy/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [伦理与情感的网络内容链接](http://web.archive.org/web/20101230191437/http://philosophyofmind.net/)（Michael Speer 维护）
+
+## 相关词条
+
+平等主义 | 平等 | 正义：分配的

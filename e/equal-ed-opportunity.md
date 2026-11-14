@@ -205,40 +205,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=equal-ed-opportunity)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/equal-ed-opportunity/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=equal-ed-opportunity&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/equal-ed-opportunity/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-### 被引法院案件
-
-* [布朗诉教育委员会案](https://www.law.cornell.edu/supremecourt/text/347/483#writing-USSC_CR_0347_0483_ZO)（1954）。
-* [米利肯诉布拉德利案](https://www.law.cornell.edu/supremecourt/text/433/267)（1974）。
-* [家长参与社区学校诉西雅图学区案](https://www.law.cornell.edu/supct/html/05-908.ZS.html)（2006）。
-* [圣安东尼奥独立学区诉罗德里格斯案](https://www.law.cornell.edu/supremecourt/text/411/1)（1973）。
-* [斯旺诉夏洛特-梅克伦堡教育委员会案](https://www.law.cornell.edu/supremecourt/text/402/1)（1970）。
-* [约德诉威斯康星州案](https://www.law.cornell.edu/supremecourt/text/406/205)（1972）。
-
-### 其他资源
-
-* [《教育状况》](https://nces.ed.gov/programs/coe/)，国家教育统计中心
-* Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
-* Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
-* Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
-* [国家公平地图集](http://www.nationalequityatlas.org)，PolicyLink 与南加州大学股权研究所。特别是[学校贫困](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)条目
-* [2022 年美国劳工统计局](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
-* 美国一些选拔性大学近期新生班级的在线简介
-* [哈佛](https://features.thecrimson.com/2018/freshman-survey/makeup/)
-* [耶鲁](https://admissions.yale.edu/sites/default/files/2026profileweb.pdf)
-
-## 相关词条
-
-肯定性行动 | 童年哲学 | 公民 | 公民教育 | 残疾与正义 | 歧视 | 规范经济学与经济正义 | 平等主义 | 平等 | 机会平等 | 分配正义 | 正义与厄运 | 儿童权利
-
 [^alexander-1985]: Alexander, Larry A., 1985, “Fair Equality of Opportunity: John Rawls’ (Best) Forgotten Principle”, *Philosophy Research Archives*, 11: 197–208. doi:10.5840/pra19851111
 
 [^anderson-1999]: Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
@@ -417,3 +383,37 @@
 [^wolff-1998]: Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi:10.1111/j.1088-4963.1998.tb00063.x
 
 [^young-1958]: Young, Michael, 1958, *The Rise of the Meritocracy,* New Brunswick, NJ: Thames and Hudson.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=equal-ed-opportunity)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/equal-ed-opportunity/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=equal-ed-opportunity&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/equal-ed-opportunity/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+### 被引法院案件
+
+* [布朗诉教育委员会案](https://www.law.cornell.edu/supremecourt/text/347/483#writing-USSC_CR_0347_0483_ZO)（1954）。
+* [米利肯诉布拉德利案](https://www.law.cornell.edu/supremecourt/text/433/267)（1974）。
+* [家长参与社区学校诉西雅图学区案](https://www.law.cornell.edu/supct/html/05-908.ZS.html)（2006）。
+* [圣安东尼奥独立学区诉罗德里格斯案](https://www.law.cornell.edu/supremecourt/text/411/1)（1973）。
+* [斯旺诉夏洛特-梅克伦堡教育委员会案](https://www.law.cornell.edu/supremecourt/text/402/1)（1970）。
+* [约德诉威斯康星州案](https://www.law.cornell.edu/supremecourt/text/406/205)（1972）。
+
+### 其他资源
+
+* [《教育状况》](https://nces.ed.gov/programs/coe/)，国家教育统计中心
+* Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
+* Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
+* Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
+* [国家公平地图集](http://www.nationalequityatlas.org)，PolicyLink 与南加州大学股权研究所。特别是[学校贫困](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)条目
+* [2022 年美国劳工统计局](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
+* 美国一些选拔性大学近期新生班级的在线简介
+* [哈佛](https://features.thecrimson.com/2018/freshman-survey/makeup/)
+* [耶鲁](https://admissions.yale.edu/sites/default/files/2026profileweb.pdf)
+
+## 相关词条
+
+肯定性行动 | 童年哲学 | 公民 | 公民教育 | 残疾与正义 | 歧视 | 规范经济学与经济正义 | 平等主义 | 平等 | 机会平等 | 分配正义 | 正义与厄运 | 儿童权利

@@ -63,7 +63,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 ## Notes（原文脚注）
 
-[^note-1]: There has recently been some controversy raised regarding Cockburn’s dates. According to Margaret Connor in her article entitled “Catharine Trotter: An Unknown Child?,” Cockburn makes reference to her son’s approaching marriage in a letter of December 13, 1707 [ANQ, vol. 8, #4, 1995: 11–14]. On the basis of this evidence, Connor concludes that Cockburn’s dates would seem to have been altered by herself or Birch, as she would very likely have been older than 28 in order to have a grown son.In response to this, however, Anne Kelley, in her book *Catharine Trotter* points out that the manuscript version of this letter is a copy, not written in Cockburn’s handwriting. It is very possible, she writes, that there was a mistake in the transcription, rather than any of the dissembling about birth dates suggested by Connor’s article, “Catharine Trotter: An early modern writer in the vanguard of feminism” (Hampshire, Eng., Ashgate, 2002, p.39). I will continue to refer to the dates provided in the biography Thomas Birch included in the *Works*, as it is impossible with the limited information we currently have to determine whether or not her dates are correct.
+[^note-1]: There has recently been some controversy raised regarding Cockburn’s dates. According to Margaret Connor in her article entitled “Catharine Trotter: An Unknown Child?,” Cockburn makes reference to her son’s approaching marriage in a letter of December 13, 1707 [ANQ, vol. 8, #4, 1995: 11–14]. On the basis of this evidence, Connor concludes that Cockburn’s dates would seem to have been altered by herself or Birch, as she would very likely have been older than 28 in order to have a grown son. In response to this, however, Anne Kelley, in her book *Catharine Trotter* points out that the manuscript version of this letter is a copy, not written in Cockburn’s handwriting. It is very possible, she writes, that there was a mistake in the transcription, rather than any of the dissembling about birth dates suggested by Connor’s article, “Catharine Trotter: An early modern writer in the vanguard of feminism” (Hampshire, Eng., Ashgate, 2002, p.39). I will continue to refer to the dates provided in the biography Thomas Birch included in the *Works*, as it is impossible with the limited information we currently have to determine whether or not her dates are correct.
 
 [^works-1751]: *The Works of Mrs. Catharine Cockburn, Theological, Moral, Dramatic, and Poetical In Two Volumes. (1751)*, 1992, Thomas Birch (ed.); reprinted, London: Routledge/Thoemmes.
 
@@ -71,7 +71,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^atherton-1994]: Atherton, Margaret, 1994, *Women Philosophers of the Early Modern Period*, Indianapolis: Hackett Publishing.
 
-[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eigtheenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
+[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eighteenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
 
 [^boeker-2022]: Boeker, Ruth, 2022, “Hutcheson and His Critics and Opponents of the Moral Sense,” in *The Journal of Scottish Philosophy*, 20 (2): 143–161.
 
@@ -121,7 +121,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^sheridan-2022]: –––, 2022, “Locke and Catharine Trotter Cockburn,” in *The Lockean Mind*, Jessica Gordon-Roth and Shelley Weinberg (eds.), New York: Routledge, 27–32.
 
-[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
+[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
 
 [^thomas-2013]: Thomas, Emily, 2013, “Catharine Trotter Cockburn on Substantival Space,” in *History of Philosophy Quarterly*, 30 (30): 195–214.
 
@@ -129,7 +129,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^thomas-2017]: –––, 2017, “Creation, Divine Freedom, and Catharine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws,” in *Women and Liberty, 1600–1800*, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, 206–220.
 
-[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
+[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
 
 [^waithe-1991]: Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in *Modern Women Philosophers, 1600–1900*, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
 

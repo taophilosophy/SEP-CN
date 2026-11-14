@@ -96,24 +96,6 @@
 
 > 原文参考文献已转为脚注引用：杜威著作按三套全集的缩写标注卷页（EW 早期著作/MW 中期著作/LW 后期著作，见本文末脚注定义）；内容性注已译出（见“脚注”节），书目条目保留原样。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dewey-political)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=dewey-political&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/dewey-political/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [杜威研究中心](http://deweycenter.siu.edu/)，南伊利诺伊大学卡本代尔分校。
-* [实用主义网络书馆](http://www.pragmatism.org/)，John Shook（俄克拉何马州立大学）维护。
-
-## 相关词条
-
-简·亚当斯 | 民主 | 约翰·杜威 | 杜威的伦理学 | 自由主义 | 实用主义 | 理查德·罗蒂
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 ## 脚注
 
 [^as-nd]: 本文献目录除标示杜威原始文本的出处、列出本文所引著作之外，还包含一些可供研读以补充本文的书籍、文章与书章。
@@ -282,3 +264,21 @@
 [^wolin-2004]: Wolin, Sheldon, 2004, *Politics and Vision*, revised edition, Princeton: Princeton University Press.
 
 [^zamora-2021]: Zamora, Justo Serrano, 2021, *Democratization and Struggles Against Injustice: A Pragmatist Approach to the Epistemic Practices of Social Movements*, London: Rowman and Littlefield International.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dewey-political)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=dewey-political&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/dewey-political/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [杜威研究中心](http://deweycenter.siu.edu/)，南伊利诺伊大学卡本代尔分校。
+* [实用主义网络书馆](http://www.pragmatism.org/)，John Shook（俄克拉何马州立大学）维护。
+
+## 相关词条
+
+简·亚当斯 | 民主 | 约翰·杜威 | 杜威的伦理学 | 自由主义 | 实用主义 | 理查德·罗蒂
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

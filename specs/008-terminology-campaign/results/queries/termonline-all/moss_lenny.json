@@ -1,0 +1,348 @@
+{
+ "key": "moss, lenny",
+ "term": "Moss, Lenny",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T11:18:22+00:00",
+ "status": "ok",
+ "note": "variant=Moss, Lenny; 审定公布名词库=1834; 海峡两岸名词对照库=658; 其他来源数据库=68; 预公布名词数据库=63; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "苔藓",
+   "en": "moss",
+   "code": "09.0002",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物类型"
+  },
+  {
+   "cn": "藓类[植物]",
+   "en": "mosses",
+   "code": "07.0001",
+   "standard": "植物学名词",
+   "subject": "植物学_苔藓植物学"
+  },
+  {
+   "cn": "苔藓植物专类园",
+   "en": "moss garden",
+   "code": "09.0349",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物规划设计"
+  },
+  {
+   "cn": "冕苔区",
+   "en": "moss region",
+   "code": "09.339",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "驯鹿[石]蕊",
+   "en": "reindeer moss",
+   "code": "06.0081",
+   "standard": "植物学名词",
+   "subject": "植物学_地衣学"
+  },
+  {
+   "cn": "鹿苔",
+   "en": "reindeer moss",
+   "code": "03.558",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物形态与结构"
+  },
+  {
+   "cn": "苔藓类植物资源",
+   "en": "moss resources",
+   "code": "09.028",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_植物资源学"
+  },
+  {
+   "cn": "藓类湿地",
+   "en": "moss wetland",
+   "code": "14.041",
+   "standard": "地理学名词",
+   "subject": "地理学_湿地学"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog",
+   "code": "14.068",
+   "standard": "地理学名词",
+   "subject": "地理学_湿地学"
+  },
+  {
+   "cn": "苔藓动物",
+   "en": "bryozoan;moss animal",
+   "code": "1.011",
+   "standard": "动物学名词",
+   "subject": "动物学_总论"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog,sphagnum bog",
+   "code": "13.0432",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物群落与植被"
+  },
+  {
+   "cn": "高位沼泽",
+   "en": "high moor,raised moss",
+   "code": "03.340",
+   "standard": "林学名词",
+   "subject": "林学_森林生态、湿地与自然保护区_湿地"
+  },
+  {
+   "cn": "藓类[植物]",
+   "en": "moss",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "藓类[植物]",
+   "en": "moss",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "垫藓",
+   "en": "cushion moss",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "驯鹿[石]蕊，[驯]鹿苔",
+   "en": "reindeer moss",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "[驯]鹿苔（=驯鹿[石]蕊）",
+   "en": "reindeer moss",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "垫藓",
+   "en": "cushion moss",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss-moor",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "藓类湿地",
+   "en": "moss wetland",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "藓类沼泽",
+   "en": "moss bog\",\"sphagnum bog",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "苔藓动物,外肛动物",
+   "en": "moss animal\",\"bryozoan\",\"ectoproct",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "贫营养沼泽（=藓类沼泽）",
+   "en": "oligotrophic mire (=moss bog)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "掷币选择",
+   "en": "toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "掷币选择",
+   "en": "toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "掷币选择",
+   "en": "toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "掷币选择",
+   "en": "toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "失败",
+   "en": "loss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "漏球",
+   "en": "miss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "抽签",
+   "en": "toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"toss",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "孟人",
+   "en": "Mons",
+   "code": "6.0102",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "code": "03.186",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "质量过剩",
+   "en": "mass excess",
+   "code": "3.2.1.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "复合损失",
+   "en": "recombination loss",
+   "code": "5.1.2.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理"
+  },
+  {
+   "cn": "大众社会",
+   "en": "mass society",
+   "code": "2.1.2.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "民间组织",
+   "en": "mass organization",
+   "code": "2.5.7.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "社会团体",
+   "en": "mass organizations",
+   "code": "2.5.8.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_社团组织"
+  },
+  {
+   "cn": "群众路线",
+   "en": "mass line",
+   "code": "01.0246",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "群众观点",
+   "en": "mass viewpoint",
+   "code": "01.0250",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "code": "03.0723",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "腹部包块",
+   "en": "abdominal mass",
+   "code": "1.4.2.3.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_症状"
+  },
+  {
+   "cn": "体脂量",
+   "en": "fat mass",
+   "code": "2.4.2.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

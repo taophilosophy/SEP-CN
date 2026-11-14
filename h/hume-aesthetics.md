@@ -207,26 +207,6 @@
 ### Works on Hume’s Aesthetics
 
 ### Related Works on Hume and His Context
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hume-aesthetics)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/hume-aesthetics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=hume-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/hume-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [美国美学学会：美学在线](https://www.aesthetics-online.org/)（American Society for Aesthetics: Aesthetics On-line）
-- [大卫·休谟：链接](http://comp.uark.edu/~rlee/semiau98/humelink.html)（David Hume: Links）
-- [休谟：《道德、政治与文学论文集》](http://www.econlib.org/library/LFBooks/Hume/hmMPL.html)（Hume: Essays, Moral, Political, and Literary，全文在线）
-- [休谟学会](http://humesociety.org/)（The Hume Society）
-
-## 相关词条
-
-审美判断 | 18 世纪的英国美学 | 亚里士多德的美学 | 美 | 大卫·休谟 | 休谟的伦理学 | 道德情感主义 | 18 世纪苏格兰哲学 | 沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏）
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^baceski-2013]: Baceski, Tina, 2013. “Hume on Art Critics, Wise Men, and the Virtues of Taste,” *Hume Studies*, 39: 233–56.
 [^baxter-1990]: Baxter, Donald L. M., 1990. “Hume on Virtue, Beauty, Composites, and Secondary Qualities,” *Pacific Philosophical Quarterly*, 71: 103–18.
 [^brown-1938]: Brown, Stuart Gerry, 1938. “Observations on Hume’s Theory of Taste,” *English Studies*, 20: 193–98.
@@ -321,3 +301,23 @@
 [^shelley-2001]: Shelley, James, 2001. “Empiricism: Hutcheson and Hume,” in Berys Gaut and Dominic M. Lopes (eds.), *Routledge Companion to Aesthetics*, 3ʳᵈ edition, London and New York: Routledge: 36–45.
 [^townsend-1987]: Townsend, Dabney, 1987. “From Shaftesbury to Kant: The Development of the Concept of Aesthetic Experience,” *Journal of the History of Ideas*, 48: 287–305.
 [^townsend-2003]: –––, 2003. “Art and the Aesthetic: Hume, Kant, and the Essence of Art,” in Stephen Davies and Ananta Ch. Sukla (eds.), *Art and Essences*, Westport, CT: Praeger, 75–93.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hume-aesthetics)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/hume-aesthetics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=hume-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/hume-aesthetics/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [美国美学学会：美学在线](https://www.aesthetics-online.org/)（American Society for Aesthetics: Aesthetics On-line）
+- [大卫·休谟：链接](http://comp.uark.edu/~rlee/semiau98/humelink.html)（David Hume: Links）
+- [休谟：《道德、政治与文学论文集》](http://www.econlib.org/library/LFBooks/Hume/hmMPL.html)（Hume: Essays, Moral, Political, and Literary，全文在线）
+- [休谟学会](http://humesociety.org/)（The Hume Society）
+
+## 相关词条
+
+审美判断 | 18 世纪的英国美学 | 亚里士多德的美学 | 美 | 大卫·休谟 | 休谟的伦理学 | 道德情感主义 | 18 世纪苏格兰哲学 | 沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏）
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

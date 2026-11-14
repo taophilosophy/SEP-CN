@@ -312,24 +312,6 @@ Paek Yongsŏng 与韩龙云不只是理论家，还是积极参与朝鲜独立�
 
 ### 韩文文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=korean-buddhism)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=korean-buddhism&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/korean-buddhism/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [《觉海日云》（*Gakhae illyun*，英译 The Sun over the Sea of Enlightenment）](https://www.jokb.org/bbs/board.php?bo_table=7010&wr_id=40&page=2)，Paek, Yongseong，Suh Junghyung 译。
-* [《韩国佛教全书》（한국불교전서，*Han'guk Pulgkyo Chŏnsŏ*，英译 Collected Works of Korean Buddhism）](http://kabc.dongguk.edu/content/list?itemId=ABC_BJ)，东国大学出版部。
-* [《近代佛教杂志》（근대불교잡지，*Kŭntae Pulgyo Chapchi*，英译 Buddhist Journals in modern Korea）](http://kabc.dongguk.edu/content/list?itemId=ABC_BM)，东国大学出版部。
-
-## 相关词条
-
-中国哲学：禅宗 | 中国哲学：华严宗 | 中国哲学：天台宗 | 日本禅宗哲学 | 韩国哲学 | 韩国儒学 | 中观 | 瑜伽行派
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^baek-2017]: Baek, Yongseong [Paek, Yongsŏng], 2017, *The Sun over the Sea of Enlightenment* [Kak’hae illyun] (Collected Works of Modern Korean Buddhism), Junghyung Suh (trans.), Paju, Korea: Jogye Order of Korean Buddhism.
 
 [^buswell-1991]: Buswell, Robert E. Jr, 1991, *Tracing Back the Radiance: Chinul’s Korean Way of Zen* (Classics in East Asian Buddhism), Honolulu: University of Hawaii Press.
@@ -429,3 +411,21 @@ Paek Yongsŏng 与韩龙云不只是理论家，还是积极参与朝鲜独立�
 [^wŏnhyo-1844]: Wŏnhyo, [T1844], *Kisillon so (起信論疏)* [*The Commentary on the Awakening of Faith in the Mahāyāna*], in *Taishō Tripiṭaka*, vol. 44, No. 1844.
 
 [^wŏnhyo-1845]: –––, [T1845], *Taesŭng kishillon pyŏlgi (大乘起信論別記)* [*The Separate Comment on the Awakening of Faith in the Mahāyāna*], in *Taishō Tripiṭaka*, vol. 44, no. 1845.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=korean-buddhism)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=korean-buddhism&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/korean-buddhism/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [《觉海日云》（*Gakhae illyun*，英译 The Sun over the Sea of Enlightenment）](https://www.jokb.org/bbs/board.php?bo_table=7010&wr_id=40&page=2)，Paek, Yongseong，Suh Junghyung 译。
+* [《韩国佛教全书》（한국불교전서，*Han'guk Pulgkyo Chŏnsŏ*，英译 Collected Works of Korean Buddhism）](http://kabc.dongguk.edu/content/list?itemId=ABC_BJ)，东国大学出版部。
+* [《近代佛教杂志》（근대불교잡지，*Kŭntae Pulgyo Chapchi*，英译 Buddhist Journals in modern Korea）](http://kabc.dongguk.edu/content/list?itemId=ABC_BM)，东国大学出版部。
+
+## 相关词条
+
+中国哲学：禅宗 | 中国哲学：华严宗 | 中国哲学：天台宗 | 日本禅宗哲学 | 韩国哲学 | 韩国儒学 | 中观 | 瑜伽行派
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

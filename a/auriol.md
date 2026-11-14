@@ -92,23 +92,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=auriol)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/auriol/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=auriol&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [彼得·奥雷奥利主页](http://www.peterauriol.net)（由作者维护），内含奥雷奥利校勘工程说明、奥雷奥利研究书目（编制中），以及奥雷奥利文本与译文。
-
-## 相关词条
-
-约翰·邓·司各脱 | 里米尼的格里高利 | 奥卡姆的威廉 | 关系：中世纪关系理论
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^peter-nd]: Peter Auriol, *Commentariorum in primum librum Sententiarum Pars Prima*, Rome: Ex typographia Vaticana, 1596.
 
 [^peter-1952]: Peter Auriol, *Scriptum super primum sententiarum*, E.M. Buytaert (ed.), 2 volumes, St. Bonaventure, NY: Franciscan Institute, 1952–56.
@@ -250,3 +233,20 @@
 [^wood-1982]: Wood, R., 1982, ‘Adam Wodeham on Sensory Illusions’, *Traditio*, 38: 213–52.
 
 [^zupko-1993]: Zupko, J., 1993, ‘Buridan and Skepticism’, in *Journal of the History of Philosophy*, 31(2): 191–221.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=auriol)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/auriol/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=auriol&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [彼得·奥雷奥利主页](http://www.peterauriol.net)（由作者维护），内含奥雷奥利校勘工程说明、奥雷奥利研究书目（编制中），以及奥雷奥利文本与译文。
+
+## 相关词条
+
+约翰·邓·司各脱 | 里米尼的格里高利 | 奥卡姆的威廉 | 关系：中世纪关系理论
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

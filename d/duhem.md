@@ -191,24 +191,6 @@
 ### Secondary Sources
 
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=duhem)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=duhem&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/duhem/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [迪昂《物理理论：其对象与结构》（1906）电子文本](http://abu.cnam.fr/BIB/auteurs/duhemp.html)
-* [迪昂 1911 年《天主教百科全书》诸文章电子链接](http://branemrys.blogspot.com/2006/11/pierre-duhem-online.html)：“物理学史”“马里古的皮埃尔”“内莫尔的约尔丹努斯”“妮可·奥雷斯姆”“萨克森的阿尔伯特”“弗赖堡的蒂埃里”“让·德·萨克斯”；亦含迪昂“一个信仰者的物理学”及其他摘录的链接。
-
-## 相关词条
-
-萨克森的阿尔伯特 | 分析/综合的区别 | 17 至 20 世纪的原子论 | 罗吉尔·培根 | 让·布里丹 | 1277 年巴黎谴责 | 爱因斯坦的科学哲学 | 虚构主义 | 伽利略·伽利莱 | 威廉·詹姆斯 | 托马斯·库恩 | 归纳逻辑 | 恩斯特·马赫 | 布莱士·帕斯卡 | 物理实验 | 亨利·庞加莱 | 威拉德·冯·奥曼·蒯因 | 科学进步 | 统计力学哲学 | 思想实验 | 科学理论的非充分决定性 | 维也纳学派 | 威廉·惠威尔
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^duhem-nd]: Duhem often first published his main works, such as *Les théories électriques de J. Clerk Maxwell*, *L’évolution de la mécanique*, *Les origines de la statique*, *La théorie physique*, *son objet et sa structure*, serially as articles in such journals as *Annales de la de la Société scientifique de Bruxelles*, *Revue Générale des Sciences pures et appliquées*, *Revue des Questions Scientifiques*, *Revue de Philosophie*, respectively.
 
 [^ariew-1984]: Ariew, Roger, 1984, “The Duhem Thesis,” *British Journal for the Philosophy of Science*, 35: 313–25.
@@ -340,3 +322,21 @@
 [^stoffel-2002]: –––, 2002, *Le phénoménalisme problématique de Pierre Duhem*, Brussels: Académie royale de Belgique.
 
 [^whewell-1857]: Whewell, William, 1857, *History of the Inductive Sciences*, third edition (new impression with index), London: Cass, 1967.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=duhem)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=duhem&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/duhem/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [迪昂《物理理论：其对象与结构》（1906）电子文本](http://abu.cnam.fr/BIB/auteurs/duhemp.html)
+* [迪昂 1911 年《天主教百科全书》诸文章电子链接](http://branemrys.blogspot.com/2006/11/pierre-duhem-online.html)：“物理学史”“马里古的皮埃尔”“内莫尔的约尔丹努斯”“妮可·奥雷斯姆”“萨克森的阿尔伯特”“弗赖堡的蒂埃里”“让·德·萨克斯”；亦含迪昂“一个信仰者的物理学”及其他摘录的链接。
+
+## 相关词条
+
+萨克森的阿尔伯特 | 分析/综合的区别 | 17 至 20 世纪的原子论 | 罗吉尔·培根 | 让·布里丹 | 1277 年巴黎谴责 | 爱因斯坦的科学哲学 | 虚构主义 | 伽利略·伽利莱 | 威廉·詹姆斯 | 托马斯·库恩 | 归纳逻辑 | 恩斯特·马赫 | 布莱士·帕斯卡 | 物理实验 | 亨利·庞加莱 | 威拉德·冯·奥曼·蒯因 | 科学进步 | 统计力学哲学 | 思想实验 | 科学理论的非充分决定性 | 维也纳学派 | 威廉·惠威尔
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

@@ -73,21 +73,6 @@
 
 ### 次要文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erfurt)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/erfurt/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=erfurt&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/erfurt/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[请联系作者提出建议。]
-
-## 相关词条
-
-布里丹，让 | 范畴：中世纪理论 | 邓斯·司各脱，约翰 | 海德格尔，马丁 | 埃克哈特大师 | 皮尔士，查尔斯·桑德斯 | 拉杜尔弗斯·布里托 | 符号学：中世纪 | 法弗沙姆的西蒙 | 单称词项：中世纪理论
-
 ## 注释
 
 [^note-1]: 本节与下一节中的事实性信息取自 Lorenz 1989，它至今仍是关于埃尔福特的托马斯生平与著作的权威来源。
@@ -235,3 +220,18 @@
 [^rosier-1983]: Rosier, Irène, 1983, *La grammaire spéculative des Modistes*, Paris: PUF.
 
 [^rosier-1995]: –––, 1995, “*Res significata et modus significandi*: Les implications d’une distinction médiévale,” in *Sprachtheorien in Spätantike und Mittelalter*, Sten Ebbesen (ed.), Tübingen: Gunter Narr Verlag, 135–68.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erfurt)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/erfurt/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=erfurt&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/erfurt/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[请联系作者提出建议。]
+
+## 相关词条
+
+布里丹，让 | 范畴：中世纪理论 | 邓斯·司各脱，约翰 | 海德格尔，马丁 | 埃克哈特大师 | 皮尔士，查尔斯·桑德斯 | 拉杜尔弗斯·布里托 | 符号学：中世纪 | 法弗沙姆的西蒙 | 单称词项：中世纪理论

@@ -70,22 +70,6 @@
 
 ### 第二手文献
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cambridge-platonists)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cambridge-platonists/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/cambridge-platonists/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=cambridge-platonists&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/cambridge-platonists/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [剑桥柏拉图学派研究小组](https://cprg.hypotheses.org/)博客。
-* [剑桥柏拉图主义原始资料集](https://www.cambridge-platonism.divinity.cam.ac.uk)，剑桥柏拉图学派项目。
-
-## 相关词条
-
-17 世纪的意识理论 | 安妮·康威 | 拉尔夫·库德沃斯 | 达玛里斯·库德沃斯·马沙姆 | 亨利·莫尔 | 约翰·诺里斯 | 理查德·普莱斯 | 沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏）
-
 [^anfray-1648]: Anfray, Jean-Pascal (ed.), *Descartes-More. Correspondance 1648–1655*. Paris: Elliot, 2023.
 
 [^conway-1692]: Conway, Anne, *The Principles of the Most Ancient and Modern Philosophy*, London, 1692; modern translation by T. Corse and A. Coudert, Cambridge: Cambridge University Press, 1996.
@@ -219,3 +203,19 @@
 [^saveson-1959]: Saveson, J.E., 1959, ‘Descartes’ Influence on John Smith’, *Journal of the History of Ideas*, 20: 258–63.
 
 [^scott-1990]: Scott, Dominic, 1990, *Recollection and Explanation. Plato’s Theory of Learning and its Successors*, Cambridge: Cambridge University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cambridge-platonists)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cambridge-platonists/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/cambridge-platonists/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cambridge-platonists&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/cambridge-platonists/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [剑桥柏拉图学派研究小组](https://cprg.hypotheses.org/)博客。
+* [剑桥柏拉图主义原始资料集](https://www.cambridge-platonism.divinity.cam.ac.uk)，剑桥柏拉图学派项目。
+
+## 相关词条
+
+17 世纪的意识理论 | 安妮·康威 | 拉尔夫·库德沃斯 | 达玛里斯·库德沃斯·马沙姆 | 亨利·莫尔 | 约翰·诺里斯 | 理查德·普莱斯 | 沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏）

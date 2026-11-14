@@ -1780,7 +1780,7 @@
   * [罗素一元论 Russellian Monism (Torin Alter、Derk Pereboom)](r/russellian-monism.md)
 * [一神论 Monotheism (William Wainwright)](m/monotheism.md)
 * [米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)](m/montaigne.md)
-* [夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)](m/montesquieu.md)
+* [夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵 Baron de Montesquieu, Charles-Louis de Secondat (Hilary Bok)](m/montesquieu.md)
 * [玛丽亚·蒙台梭利 Maria Montessori (Patrick Frierson)](m/montessori-maria.md)
 * [乔治·爱德华·摩尔 George Edward Moore (Tom Baldwin)](m/moore.md)
   * [摩尔的伦理学 Moore’s Moral Philosophy (Thomas Hurka)](m/moore-moral.md)

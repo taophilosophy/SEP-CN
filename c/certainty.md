@@ -116,23 +116,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=certainty)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/certainty/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=certainty&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/certainty/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-笛卡尔的认识论 | 认识论 | 知识的分析 | 亲知与摹状知识
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^albertini-2005]: Albertini, Tamara, 2005. “Crisis and Certainty of Knowledge in Al-Ghazālī (1058–1111) and Descartes (1596–1650),” *Philosophy East and West*, 55: 1–14.
 
 [^alston-1980]: Alston, William, 1980. “Level Confusions in Epistemology,” *Midwest Studies in Philosophy*, 5: 135–50.
@@ -288,3 +271,20 @@
 [^wright-2003]: Wright, Crispin, 2003. “Wittgensteinian Certainties,” in *Wittgenstein and Scepticism*, D. McManus (ed.), London: Routledge, 22–55.
 
 [^wright-2004]: –––, 2004. “On Epistemic Entitlement: Warrant for Nothing (and Foundations for Free)?” *Proceedings of the Aristotelian Society* (Supplement), 78: 167–212.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=certainty)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/certainty/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=certainty&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/certainty/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+笛卡尔的认识论 | 认识论 | 知识的分析 | 亲知与摹状知识
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

@@ -362,29 +362,6 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 ### Secondary literature
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-reason)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-reason&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kant-reason/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
-* [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
-* [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
-* [英国康德学会](https://www.ukks.co.uk/)。
-
-## 相关词条
-
-伦理学和政治哲学中的自主权 | 元伦理学中的建构主义 | 康德的美学与目的论 | 康德和休谟论因果关系 | 康德和休谟论道德 | 莱布尼茨对康德的影响 | 康德对形而上学的批判 | 康德的道德哲学 | 康德的数学哲学 | 康德的宗教哲学 | 康德的科学哲学 | 康德的社会与政治哲学 | 道德动机 | 实践理性 | 实践理性与行动结构 | 理性主义与经验主义 | 理性：工具理性 | 道德推理 | 行动的原因：行动者中立与行动者相关 | 行动的理由：内在或外在 | 行动的理由：正当性、动机、解释
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### 致谢
-
-多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。
-
 ## 脚注
 
 [^note-1]: 另见理性主义与经验主义词条。
@@ -644,3 +621,26 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 [^wood-1992]: –––, 1992, Review of Onora O’Neill, *Constructions of Reason*, *Philosophical Review*, 101(3): 647–650.
 
 [^ypi-2021]: Ypi, L., 2021, *The Architectonic of Reason: Purposiveness and Systematic Unity in Kant’s Critique of Pure Reason*, Oxford: Oxford University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-reason)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-reason&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kant-reason/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
+* [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
+* [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
+* [英国康德学会](https://www.ukks.co.uk/)。
+
+## 相关词条
+
+伦理学和政治哲学中的自主权 | 元伦理学中的建构主义 | 康德的美学与目的论 | 康德和休谟论因果关系 | 康德和休谟论道德 | 莱布尼茨对康德的影响 | 康德对形而上学的批判 | 康德的道德哲学 | 康德的数学哲学 | 康德的宗教哲学 | 康德的科学哲学 | 康德的社会与政治哲学 | 道德动机 | 实践理性 | 实践理性与行动结构 | 理性主义与经验主义 | 理性：工具理性 | 道德推理 | 行动的原因：行动者中立与行动者相关 | 行动的理由：内在或外在 | 行动的理由：正当性、动机、解释
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### 致谢
+
+多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。

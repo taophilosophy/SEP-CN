@@ -81,3 +81,21 @@
 | publichealth-ethics | notes.html `(Omerand et al. 2009; …)` | `(Omer et al. 2009; …)` | OCR 拼合（①）；不修则 omer-2009 引注静默丢失 |
 | schlegel | `Lacoue-Labarthe and J.-L. Nancy, 1978` | `Lacoue-Labarthe, P., and J.-L. Nancy` | 缺第一作者名首字母（①） |
 | schlegel | `deMan, P., 1996` | `de Man, P., 1996` | 姓氏分写（①） |
+| cockburn | `Eigtheenth Century` / `Eurpoean Philosophy`（×2） | `Eighteenth` / `European` | 拼写（①） |
+| cockburn | notes.html `grown son.In response` | `son. In response` | 缺空格（①） |
+| conway | `Principia philosophiae antiquissimae ac recentissimae`（首见） | `… et recentissimae` | 同书前后两写，同页自相矛盾（②） |
+| conway | `<em>apocotastasis</em>` | `<em>apokatastasis</em>` | 拼写（①） |
+| conway | `<em>History of Philosophy Quarterly, </em>39(1):21&ndash;44.` | `<em>History of Philosophy Quarterly</em>, 39(1): 21&ndash;44.` | 标点入斜体、缺空格（①） |
+| conway | `(by Loptson, Conway1998)` / `Mercer 2012 and 2019 ,` | `Conway 1998` / `2019,` | 缺空格、逗号前空格（①） |
+| leibniz-ethics | `<em>Philospohical Papers and Letters,</em>` | `<em>Philosophical Papers and Letters</em>,` | 拼写与逗号入斜体（①） |
+| locke-on-medicine | `M.D. Ranslated from` / `&ldquo;Vaccuum&rdquo;` | `Translated` / `Vacuum` | 拼写（①） |
+| locke-on-medicine | `&ldquo;Eloge de feu Mr. Locke.&rdquo;,` / `12: 243&ndash;284,` | 去引号内句点、末逗号改句点 | 标点（①） |
+| montesquieu | `Montesquieu and Rouseau` / `University of Michign Press` | `Rousseau` / `Michigan` | 拼写（①） |
+| montesquieu | `31 (3): 469-499` | `31(3): 469–499` | 卷期空格与半字线（①） |
+| montesquieu | hulliung-1976 条末缺句点 | 补 `.` | 句读（①） |
+| modesty-humility | 7 条书目期刊名前缺逗号 | 补 `,` | 书目标点（①） |
+| modesty-humility | `&ldquo;Aidws in Epictetus&rdquo;` / `&ldquo;&rsquo;A Monkish Virtue?&rsquo;` | `Aid&#333;s` / `&lsquo;…&rsquo;` | 希腊转写与引号方向（①） |
+| modesty-humility | kelly-2010 `Disagreement` 缺斜体；aquinas-1981 链接后缺句点 | 补斜体、补句点 | 书目体例（①） |
+| obligationes | `Breen-Pedersen &amp; Pinborg 1976` / `Uckelman, Maat and Rybalko 2018` | `Green-Pedersen` / `2008` | 与书目条目不符（②） |
+| obligationes | `J. Pinbord` / `Rober Swyneshed` | `Pinborg` / `Robert` | 拼写（①） |
+| obligationes | keffer-2001／read-2020／yrjönsuuri-2015 条末缺句点 | 补 `.` | 句读（①） |

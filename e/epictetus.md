@@ -137,22 +137,6 @@
 
 ### 接受与影响
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epictetus)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epictetus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=epictetus&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/epictetus/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [爱比克泰德](http://www.iep.utm.edu/e/epictetu.htm)，互联网哲学百科全书词条
-* [爱比克泰德著作英译](http://classics.mit.edu/Browse/browse-Epictetus.html)，见互联网经典文献档案
-
-## 相关词条
-
-品格，道德的 | 伦理学：古代的 | 伦理学：自然法传统 | 自由：古代理论 | 逻辑：古代的 | 马可·奥勒留 | 知耻与谦卑 | 斯多葛主义
-
 [^epicteti-1916]: *Epicteti Dissertationes ab Arriano Digestae* (Greek text), H. Schenkl (ed.), Leipzig: Teubner, 2ⁿᵈ ed., 1916.
 
 [^all-1759]: *All the works of Epictetus*, translated by Elizabeth Carter, Dublin: Hulton Bradley, 1759 (= Carter 1759). [[Scan available at archive.org](https://archive.org/details/allworksofepicte00epic).]
@@ -308,3 +292,19 @@
 [^strange-2004]: Strange, S. and J. Zupko (eds.), 2004, *Stoicism: Traditions and Transformations*, Cambridge: Cambridge University Press.
 
 [^wright-2007]: Wright, Gillian, 2007, “Women Reading Epictetus,” *Women’s Writing*, 14(2): 321–37.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epictetus)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epictetus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=epictetus&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/epictetus/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [爱比克泰德](http://www.iep.utm.edu/e/epictetu.htm)，互联网哲学百科全书词条
+* [爱比克泰德著作英译](http://classics.mit.edu/Browse/browse-Epictetus.html)，见互联网经典文献档案
+
+## 相关词条
+
+品格，道德的 | 伦理学：古代的 | 伦理学：自然法传统 | 自由：古代理论 | 逻辑：古代的 | 马可·奥勒留 | 知耻与谦卑 | 斯多葛主义

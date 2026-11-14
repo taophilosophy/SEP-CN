@@ -88,21 +88,6 @@
 
 ### 研究文献（Studies）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=condemnation)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/condemnation/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=condemnation&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/condemnation/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出改进建议。]
-
-## 相关词条
-
-托马斯·阿奎那 | 信仰 | 罗马的吉尔斯 | 布拉班特的西格尔
-
 [^anzulewicz-1992]: Anzulewicz, Henryk. “*Eine weitere Überlieferung der Collectio errorum in Anglia et Parisius condemnatorum* im *Ms. lat. fol. 456 der Staatsbibliothek Preussischer Kulturbesitz zu Berlin*,” *Franziskanische Studien*, 74 (1992): 375–99.
 
 [^denifle-1889]: Denifle, H. and E. Châtelain (eds.), *Chartularium Universitatis Parisiensis*, vol. 1, Paris 1889, 543–558.
@@ -190,3 +175,18 @@
 [^wippel-1997]: –––, 1997. “Bishop Stephen Tempier and Thomas Aquinas: A Separate Process Against Aquinas?” *Freiburger Zeitschrift für Philosophie und Theologie*, 44: 117–36.
 
 [^zupko-2004]: Zupko, J., 2004, “John Buridan and the Origins of Secular Philosophical Culture,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle*, ed. Stefano Caroti and Jean Celeyrette, Firenze, 33–48.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=condemnation)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/condemnation/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=condemnation&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/condemnation/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出改进建议。]
+
+## 相关词条
+
+托马斯·阿奎那 | 信仰 | 罗马的吉尔斯 | 布拉班特的西格尔

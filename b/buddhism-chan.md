@@ -160,23 +160,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddhism-chan)。
-* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=buddhism-chan&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/buddhism-chan/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-［请向作者提出建议。］
-
-## 相关词条
-
-佛陀 | 中国哲学：华严宗 | 中国哲学：天台宗 | 日本哲学：日本禅宗
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
 [^majjhima-1995]: *Majjhima Nikāya* (The Middle Length Discourses of the Buddha), Bhikkhu Nanamoli and Bhikkhu Bodhi (trans), 1995, Boston: Wisdom Publications.
 
 [^platform-1969]: *The Platform Sutra of the Sixth Patriarch*, Philip Yampolsky (trans. and ed.), 1969, New York: Columbia University Press.
@@ -236,3 +219,20 @@
 [^welter-2006]: Welter, Albert, 2006, *Monks, Rulers, and Literati: The Political Ascendancy of Chan Buddhism*, New York: Oxford University Press.
 
 [^wu-2008]: Wu, Jiang, 2008, *Enlightenment in Dispute: The Reinvention of Chan Buddhism in Seventeenth-Century China*, Oxford: Oxford University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddhism-chan)。
+* 在 [SEP 之友学会](https://leibniz.stanford.edu/friends/) 预览本词条的 PDF 版本。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=buddhism-chan&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/buddhism-chan/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+［请向作者提出建议。］
+
+## 相关词条
+
+佛陀 | 中国哲学：华严宗 | 中国哲学：天台宗 | 日本哲学：日本禅宗
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

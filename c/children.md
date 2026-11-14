@@ -198,29 +198,6 @@ IAPC 的儿童哲学方法对许多教师来说更具吸引力的特点之一，
 
 ### 期刊（Periodicals）
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=children)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/children/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/children/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=children&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/children/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6_Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
-* [ICPIC: International Council for Philosophical Inquiry with Children](http://www.icpic.org/).
-* [IAPC: Institute for the Advancement of Philosophy for Children](https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/).
-* [SAPERE: Society for the Advancement of Philosophical Enquiry and Reflection in Education](http://www.sapere.org.uk/).
-* [Uehiro Academy for Philosophy and Ethics in Education](http://www.p4chawaii.org/), University of Hawai‘i.
-* [PLATO: Philosophy, Learning and Teaching Organization](http://plato-philosophy.org/).
-* [The P4C Cooperative](http://p4c.com/).
-* [The Philosophy Foundation](https://www.philosophy-foundation.org)
-* [University of Washington Center for Philosophy for Children](https://depts.washington.edu/nwcenter/)
-
-## 相关词条
-
-childhood, the philosophy of | critical thinking | rights: of children
-
 [^astington-1993]: Astington, Janet Wilde, 1993, *The Child’s Discovery of the Mind* Cambridge, MA: Harvard University Press.
 
 [^burgh-2016]: Burgh, Gilbert and Simone Thornton, 2016, “Philosophy Goes to School in Australia: A History 1982–2016,” *Journal of Philosophy in Schools*, 3(1): 59–83.
@@ -420,3 +397,26 @@ childhood, the philosophy of | critical thinking | rights: of children
 [^questions-2001]: *Questions: Philosophy for Young People*, published by the Philosophy Documentation Center, Bowling Green State University. Inaugurated in Spring 2001 with the support of the American Philosophical Association and is now sponsored by PLATO.
 
 [^precollege-nd]: *Precollege Philosophy and Public Practice* (online periodical sponsored by PLATO).
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=children)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/children/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/children/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=children&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/children/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6_Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
+* [ICPIC: International Council for Philosophical Inquiry with Children](http://www.icpic.org/).
+* [IAPC: Institute for the Advancement of Philosophy for Children](https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/).
+* [SAPERE: Society for the Advancement of Philosophical Enquiry and Reflection in Education](http://www.sapere.org.uk/).
+* [Uehiro Academy for Philosophy and Ethics in Education](http://www.p4chawaii.org/), University of Hawai‘i.
+* [PLATO: Philosophy, Learning and Teaching Organization](http://plato-philosophy.org/).
+* [The P4C Cooperative](http://p4c.com/).
+* [The Philosophy Foundation](https://www.philosophy-foundation.org)
+* [University of Washington Center for Philosophy for Children](https://depts.washington.edu/nwcenter/)
+
+## 相关词条
+
+childhood, the philosophy of | critical thinking | rights: of children

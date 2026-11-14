@@ -161,22 +161,6 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 > 非中文文献从原文照录，不作翻译；中国文献译为中文。
 
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-evolutionary)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epistemology-evolutionary/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=epistemology-evolutionary&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/epistemology-evolutionary/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [演化的道德生态学](http://www.ethics.ubc.ca/eame/)，不列颠哥伦比亚大学应用伦理学中心
-* [进化认识论](http://www.iep.utm.edu/evo-epis/)，《互联网哲学百科全书》词条
-
-## 相关词条
-
-认识论：自然主义 | 进化：文化的 | 博弈论：进化博弈论 | 信息：生物信息 | 目的论：生物学中的目的论观念
-
 [^atran-2001]: Atran, S., 2001, “The trouble with memes: inference versus imitation in cultural creation,” *Human Nature*, 12(4):351–381.
 
 [^barham-1990]: Barham, James, 1990, “A poincaréan approach to evolutionary epistemology,” *Journal of Social and Biological Structures*, 13(3): 193–258.
@@ -334,3 +318,19 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 [^whiten-2007]: Whiten, A. and van Schaik, C. P., 2007, “The evolution of animal ‘cultures’ and social intelligence”, *Philosophical Transactions of the Royal Society* (B), 362: 603–620.
 
 [^wuketits-1990]: Wuketits, Franz, 1990, *Evolutionary Epistemology and Its Implications for Humankind*, Albany: State University of New York Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-evolutionary)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epistemology-evolutionary/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=epistemology-evolutionary&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/epistemology-evolutionary/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [演化的道德生态学](http://www.ethics.ubc.ca/eame/)，不列颠哥伦比亚大学应用伦理学中心
+* [进化认识论](http://www.iep.utm.edu/evo-epis/)，《互联网哲学百科全书》词条
+
+## 相关词条
+
+认识论：自然主义 | 进化：文化的 | 博弈论：进化博弈论 | 信息：生物信息 | 目的论：生物学中的目的论观念
