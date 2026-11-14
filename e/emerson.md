@@ -280,7 +280,7 @@ Cavell 之所以投入至善论，缘于他对同事约翰·罗尔斯的回应�
 
 [^emerson-2008]: *Emerson: Political Writings (Cambridge Texts in the History of Political Thought)*, ed. Kenneth Sacks, Cambridge: Cambridge University Press, 2008.
 
-[^see-nd]: （各著作初版年份见上文「爱默生生平年表」。）
+[^see-nd]: （各著作初版年份见上文“爱默生生平年表”。）
 
 [^alcott-1882]: Alcott, Amos Bronson, 1882, *Ralph Waldo Emerson: An Estimate of His Character and Genius: In Prose and in Verse*, Boston: A. Williams and Co.
 

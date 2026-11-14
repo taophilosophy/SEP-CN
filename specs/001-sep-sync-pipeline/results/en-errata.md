@@ -166,3 +166,5 @@
 | emerson | `<em>Handbook of American Romanticism,</em>` | `</em>,` | 逗号误入斜体（①） |
 | emerson | `Clemens Spahr, Jan Stievermann (ed.)` | `(eds.)` | 三编者（①） |
 | emerson | `Boston: A. Williams and Co., 1882)` | `A. Williams and Co.` | 年份重复、括号不配对（①） |
+| antonio-rosmini | `another ten are deduced`（其后只列九条） | `another nine` | 同页自相矛盾（②） |
+| antonio-rosmini | `Theodicy (theou dike)` | `theou dik&#275;` | 希腊语转写缺长音符（①） |

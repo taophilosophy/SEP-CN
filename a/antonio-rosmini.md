@@ -60,7 +60,7 @@
 
 前文已清楚显示：罗斯米尼解决知识的基本问题时，提供了把人的尊严置于超越层次的视野。他会主张，人之所以为人，是因为自其存在的第一刻起便伴随着对存在的直观。借这一直观，人分有存在自身的终极性，并以某种有限的方式分有其无限特性。不过，属于人的主观要素既不能、也不应被否认。事实上，若要为人类本性的本质统一构造给出理性说明，就必须彻底考察它。这一考察最初见于罗斯米尼的《关于观念起源的新论》，是其所谓“不纯”观念之解释的一部分——这类观念因为是知觉性的（而非纯智识性的），其起源需要某些感觉经验。他在《作为道德科学辅助的人类学》与《心理学》中继续这一探究；后者四卷，题为《人类灵魂的本质》、《人类灵魂的发展》、《动物性的规律》与《关于人类灵魂的诸意见》，长篇观察并讨论了人性中动物性的一面以及智识的一面。
 
-对我们自身所作观察呈现的第一个事实，是人身上“感觉者”与“被感觉者”的本质区别。按罗斯米尼的看法，这是差异极大、不可混淆的两个要素，特性相反。感觉者是不具质料的原则（灵魂）；被感觉者则是这一原则的终端（身体）。感觉者与被感觉者合而构成感觉，即注意力集中于“我自己”及构成“我自己”的那些要素时，反思的底层主体。身体的主要作用，是产生一种未规定的、无定形的广延，使感觉者得以经验各类已规定的感觉。这一“基本感觉”连同其对无限空间的恒常知觉，是一切其他感觉被感知于其中的场所，与一切其他观念被直观于其中的存在观念平行。对所感知感觉的反应，构成生命本能（相对于基本感觉）与感性本能（相对于外来感觉）。按罗斯米尼的看法，一切感觉与本能本身都是未知的，须通过认知主体内部观念与知觉的形成才被认知，而这些观念与知觉依赖于存在观念所提供的光照。因此在罗斯米尼看来，人是一个认知着、感觉着的主体：其内部有一原则，借存在之光而成形。这一原则通过理智与意志的官能认知其所知并对之反应，通过感官与本能的官能感觉其所感并对之反应。在人类主体内部，意志——回应所知者者——是至高的主动原则，并因此构成个体中的“位格”。人的尊严，首先就在意志本身，其次在意志选择去支持理智所知者。这也是人类主体内真正自由的基础。人自由地坚持或拒斥所知者，故不能因外在压力而受强迫，也不能被他人用作手段，而不损害那不可侵犯的真理。他们借分有存在之光而天生共享此真理，并借直接知觉而在后天达至它；那知觉把已规定的真理展开于其智识目光之前。
+对我们自身所作观察呈现的第一个事实，是人身上“感觉者”与“被感觉者”的本质区别。按罗斯米尼的看法，这是差异极大、不可混淆的两个要素，特性相反。感觉者是不具质料的原则（灵魂）；被感觉者则是这一原则的终端（身体）。感觉者与被感觉者合而构成感觉，即注意力集中于“我自己”及构成“我自己”的那些要素时，反思的底层主体。身体的主要作用，是产生一种未规定的、无定形的广延，使感觉者得以经验各类已规定的感觉。这一“基本感觉”连同其对无限空间的恒常知觉，是一切其他感觉被感知于其中的场所，与一切其他观念被直观于其中的存在观念平行。对所感知感觉的反应，构成生命本能（相对于基本感觉）与感性本能（相对于外来感觉）。按罗斯米尼的看法，一切感觉与本能本身都是未知的，须通过认知主体内部观念与知觉的形成才被认知，而这些观念与知觉依赖于存在观念所提供的光照。因此在罗斯米尼看来，人是一个认知着、感觉着的主体：其内部有一原则，借存在之光而成形。这一原则通过理智与意志的官能认知其所知并对之反应，通过感官与本能的官能感觉其所感并对之反应。在人类主体内部，意志——回应所知者——是至高的主动原则，并因此构成个体中的“位格”。人的尊严，首先就在意志本身，其次在意志选择去支持理智所知者。这也是人类主体内真正自由的基础。人自由地坚持或拒斥所知者，故不能因外在压力而受强迫，也不能被他人用作手段，而不损害那不可侵犯的真理。他们借分有存在之光而天生共享此真理，并借直接知觉而在后天达至它；那知觉把已规定的真理展开于其智识目光之前。
 
 ## 5 道德
 
@@ -76,7 +76,7 @@
 
 ### 5.3 良知
 
-处理了道德的本性与道德义务之后，罗斯米尼转向良知。他自己承认，这类论著几乎普遍为哲学家所忽视，并感到必须为这种研究作辩护；他做这一研究时，几乎不可避免地掺入宗教与神学要素。不过，从其职业信仰所特有的因素中滤出其著作中的哲学原则，并不困难。这一点尤其见于他处理良知本性的方式——正是在这一领域，他的观点首次引起他与一些同教者之间的分歧，这些分歧将持续到他生命终结。罗斯米尼把良知界定为“一个人就其实践判断之道德性所作的思辨判断”（*C*19），即个体借以认知其行为道德价值、却不必据此行动的判断。
+处理了道德的本性与道德义务之后，罗斯米尼转向良知。他自己承认，这类论著几乎普遍为哲学家所忽视，并感到必须为这种研究作辩护；他做这一研究时，几乎不可避免地掺入宗教与神学要素。不过，从其职业信仰所特有的因素中滤出其著作中的哲学原则，并不困难。这一点尤其见于他处理良知本性的方式——正是在这一领域，他的观点首次引起他与一些同教者之间的分歧，这些分歧将持续到他生命终结。罗斯米尼把良知界定为“一个人就其实践判断之道德性所作的思辨判断”（*C* 19），即个体借以认知其行为道德价值、却不必据此行动的判断。
 
 由此可引出若干推论。第一，个体中的道德先于良知，且可以在无良知时存在；第二，良知可能出错（人可能对自己行为的道德价值形成不正确观念）；第三，良知一旦形成，并不必然在形成者身上引起行动；第四，良知若判断有误，须尽可能改正。因此，良知唯有在准确报告主体过去、现在或未来行为的道德状况时，才是道德的充分向导。由此可以看见，罗斯米尼如何为克服下述问题所造的困境奠定基础：良知是否总须遵从？良知的指令在道德上绝不可轻视，这固然确定；但故意误导的良知行为在道德上也不可遵从，这同样确定。因此，有时在道德上必须纠正良知；而只要恰当反思个体已做或将做的人类行为之道德价值，纠正总是可能的。罗斯米尼进而区分关于良知的问题与关于良知之形成的问题。事实上，按他的看法，只要对个体自身行为道德价值的判断悬而未决，良知便不存在。此处的困难与判断的形成有关，而与判断本身无关。
 
@@ -116,13 +116,13 @@
 
 ### 8.1 上帝的存在
 
-在其自然神学中，罗斯米尼提出的考量与其哲学教导的基本原则相一致。他虽不否认上帝存在的后天证明之有效，却肯定先天的进路更令人满意，因为它从存在观念——其哲学的基础——出发，论证上帝存在的必然性。不过，他先在纯粹人性的自然层次上，为对上帝的知觉设下一道根本屏障。对罗斯米尼而言，实在者只能通过感觉被知觉；感觉确属人类存在的一部分，却只在有限的层次上，不能充当知觉上帝无限实在的载体。而观念性存在虽只表达事物的可能性而非其实在性，经分析却显示以必然性、永恒性与非物质性为特征——这些是可能性的内在标记。因此，存在观念连同其神圣特征，充当神与人之间的桥梁，使我们能在不借知觉、不借实在接触而认知他的情况下，提出上帝存在的证明。此处可举一例后天证明。若无限而可理解的存在临于人心——罗斯米尼会坚持它确然如此——则必存在一个能把这观念给予人的无限心智。而这样的心智不可能不是神。在此类证明中，有一种共同的程序：上帝的存在是可理解存在之存在的必要条件；可理解存在确实存在；故上帝的存在是必然的。确定上帝存在之后，罗斯米尼便以神圣启示的真理为基础，就他所证明存在者的本性提出若干思考。他会主张，这些思考属于哲学范围，因为它们在方法上只依赖理性，并以理性的、而非权威的断言作结。不过，其启示基础使他无法在此考察。
+在其自然神学中，罗斯米尼提出的考量与其哲学教导的基本原则相一致。他虽不否认上帝存在的后天证明之有效，却肯定先天的进路更令人满意，因为它从存在观念——其哲学的基础——出发，论证上帝存在的必然性。不过，他先在纯粹人性的自然层次上，为对上帝的知觉设下一道根本屏障。对罗斯米尼而言，实在者只能通过感觉被知觉；感觉确属人类存在的一部分，却只在有限的层次上，不能充当知觉上帝无限实在的载体。而观念性存在虽只表达事物的可能性而非其实在性，经分析却显示以必然性、永恒性与非物质性为特征——这些是可能性的内在标记。因此，存在观念连同其神圣特征，充当神与人之间的桥梁，使我们能在不借知觉、不借实在接触而认知他的情况下，提出上帝存在的证明。此处可举一例后天证明。若无限而可理解的存在临于人心——罗斯米尼会坚持它确然如此——则必存在一个能把这观念给予人的无限心智。而这样的心智不可能不是神。在此类证明中，有一种共同的程序：上帝的存在是可理解存在之存在的必要条件；可理解存在确实存在；故上帝的存在是必然的。确定上帝存在之后，罗斯米尼便以神圣启示的真理为基础，就他所证明存在者的本性提出若干思考。他会主张，这些思考属于哲学范围，因为它们在方法上只依赖理性，并以理性的、而非权威的断言作结。不过，这些思考以启示为基础，本词条无法在此加以考察。
 
 ### 8.2 神义论
 
-罗斯米尼在其神义论著作中确切描述了自己的目标。“神义论（theou dike）意为‘神的正义’。因此，本书的意图简单说来就是：为神在世上分配善恶时的公平与善作辩护。”（《神义论》序）
+罗斯米尼在其神义论著作中确切描述了自己的目标。“神义论（theou dikē）意为‘神的正义’。因此，本书的意图简单说来就是：为神在世上分配善恶时的公平与善作辩护。”（《神义论》序）
 
-他还清楚说明《神义论》三卷所循的方法。第一卷规定：若要避免错误，判断神意安排时应遵循哪些规范；第二卷考察自然律、受造物的必然限制，以及宇宙中起作用的因果链条；第三卷专论神在其所造世界中行动所依的规律。这些规律都出自同一条规范，即最小手段律；罗斯米尼依循阿奎那，将其表述为：“智慧的工匠以尽可能简短的途径完成其工作”（*Sapiens operator perficit opus suum breviori via qua potest*。*ST*，III，q.4，art.5，ad 3um）。由此定律又推出另外十条；其标题有助于显示可能的用途。这些定律是：排除冗余律、容许恶律、排除等同律、神工中的统一律、英雄主义律、对抗律、工作迅捷律、善的累积律、胚芽律。按罗斯米尼的看法，这些规律关乎神相对于普遍善的神意。同时，相对于特殊善，所循的规律是：至高正义、公平、适宜性，以及与神之神圣属性的符合。神的治理在于如此行动，使普遍善与特殊善的诸方面得以协调。
+他还清楚说明《神义论》三卷所循的方法。第一卷规定：若要避免错误，判断神意安排时应遵循哪些规范；第二卷考察自然律、受造物的必然限制，以及宇宙中起作用的因果链条；第三卷专论神在其所造世界中行动所依的规律。这些规律都出自同一条规范，即最小手段律；罗斯米尼依循阿奎那，将其表述为：“智慧的工匠以尽可能简短的途径完成其工作”（*Sapiens operator perficit opus suum breviori via qua potest*。*ST*，III，q.4，art.5，ad 3um）。由此定律又推出另外九条；其标题有助于显示可能的用途。这些定律是：排除冗余律、容许恶律、排除等同律、神工中的统一律、英雄主义律、对抗律、工作迅捷律、善的累积律、胚芽律。按罗斯米尼的看法，这些规律关乎神相对于普遍善的神意。同时，相对于特殊善，所循的规律是：至高正义、公平、适宜性，以及与神之神圣属性的符合。神的治理在于如此行动，使普遍善与特殊善的诸方面得以协调。
 
 ## 9 存在
 
@@ -134,7 +134,7 @@
 
 > 神智学不会浪费时间来证明：在这一构想精妙而巧妙的错误［黑格尔的］背后，藏着一个伟大的真理——那些勇敢的思辨心智［谢林与黑格尔］徒然试图把握却未能把握。这真理正是我说过的那种必然性：必定存在“某种可理解而永恒、包含一切的东西”……不过，尽管绝对知识属于神而不属于我们，我们确实拥有相对于形式、而非相对于质料的绝对知识（参 *NE*，第 1 卷，325，474–476）。人类知识的这种绝对性在德国学派中造成了错误，我已讨论过。神智学必须详论人的绝对知识，事实上必须运用它，更重要的是必须成为它。神智学就是存在者之学（这一界定虽只两个词，却不可轻视）。因为存在者首先是无限而绝对的，只是后来才被封闭、在界限内作为有限者而存在；所以除非思想本身以某种方式成为绝对的，否则任何思想都不能达至它。由以某种方式为绝对的对象所塑造的思想，本身也以某种方式被绝对化。因此柏拉图恰当地把论最伟大者的论著称为论存在者的论著。宇宙中或我们心中，没有任何东西先于存在者或存在。当我们在事物的秩序中移除存在，除了认知秩序中的黑暗，便一无所存。因此，我称为“神智学”的存在者之学，与古人的哲学概念相符。在他们看来，哲学区别于其他科学之处在于：其他一切科学都预设未经证明的原则，而哲学不从任何地方借取，只用自己的材料建构自身。它不从任何无端的假设或设定出发——相反，它寻求并确立不可证明者，这给它不可动摇的基础，并且只承认必然者（同上，10–12）。
 
-对罗斯米尼而言，存在的问题最终在神智学这门科学的三个部门下考察：存在论、理性神学与宇宙论；三者若要构成完整的科学，必须彼此进入。事实上他主张：谈论存在在其全部普遍本质中（存在论），不可能不顾存在的无限性与绝对性（理性神学）；正如从哲学上考察世界（宇宙论），不可能不顾及其原因。神智学的三个部门对整体而言都同样本质，正如按他的比喻，各种生命器官对动物的存在都属必要。但整部论著的中心与实质是关于神的教导；无此，则存在或世界都无最终解释。因此，神智学是一门单一科学，经其三分为三部分，既是一，又是三。这样的论断是罗斯米尼神智学主旨的范例；它最终使他能把这一理性科学与三位一体的教义对置。
+对罗斯米尼而言，存在的问题最终在神智学这门科学的三个部门下考察：存在论、理性神学与宇宙论；三者若要构成完整的科学，必须彼此进入。事实上他主张：谈论存在在其全部普遍本质中（存在论），不可能不顾存在的无限性与绝对性（理性神学）；正如从哲学上考察世界（宇宙论），不可能不顾及其原因。神智学的三个部门对整体而言都同样本质，正如按他的比喻，各种生命器官对动物的存在都属必要。但整部论著的中心与实质是关于神的教导；无此，则存在或世界都无最终解释。因此，神智学是一门单一科学，经其三分为三部分，既是一，又是三。这样的论断是罗斯米尼神智学主旨的范例；它最终使他能将这一理性科学与三位一体的教义相互对照。
 
 ### 9.1 存在论
 
@@ -150,77 +150,59 @@
 
 ## 参考文献
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 本词条正文按缩写引用罗斯米尼著作（如 *NE*、*PR*、*ER*），随原文不附 [^key] 键标；下列书目为照录条目。
 
-*NE*
+本文引用罗斯米尼著作时使用下列缩写：
 
-*A New Essay concerning the Origin of Ideas*
+* *NE*：*A New Essay concerning the Origin of Ideas*
+* *IP*：*Introduction to Philosophy*
+* *PR*：*The Philosophy of Right*
+* *PP*：*The Philosophy of Politics*
+* *TH*：*Theosophy*
 
-*IP*
+其他缩写：
 
-*Introduction to Philosophy*
-
-*PR*
-
-*The Philosophy of Right*
-
-*PP*
-
-*The Philosophy of Politics*
-
-*TH*
-
-*Theosophy*
-
-*Life*
-
-*Antonio Rosmini: Introduction to his Life and Teaching*
-
-*CFD*
-
-*Congregation for the Doctrine of the Faith* *COD* *Concise Oxford Dictionary*
+* *Life*：*Antonio Rosmini: Introduction to his Life and Teaching*
+* *CFD*：*Congregation for the Doctrine of the Faith*
+* *COD*：*Concise Oxford Dictionary*
 
 ### 校勘本
 
-- *Opere edite e inedite di Antonio Rosmini*. Rome-Stresa. 1966–. Città Nuova Editrice (80 projected volumes —including 19 of correspondence — of which approximately 40 have been published [2001])
+* *Opere edite e inedite di Antonio Rosmini*. Rome–Stresa. 1966–. Città Nuova Editrice（计划出 80 卷——其中书信 19 卷——截至 2001 年已出约 40 卷）
 
 ### 其他版本
 
-- For a complete list of editions of all Rosmini’s published works in Italian or in translations, cf. Bergamaschi, Cirillo. *Bibliografia degli scritti editi di Antonio Rosmini Serbati*, 1815–1998, 4 vols., Milan-Stresa, 1970–98.
+* 罗斯米尼已刊著作（意大利文及各种译本）的完整版次目录，见 Bergamaschi, Cirillo. *Bibliografia degli scritti editi di Antonio Rosmini Serbati*, 1815–1998, 4 vols., Milan–Stresa, 1970–98.
 
 ### 译本
 
-- Cleary, D., Watson, T., and Murphy, R. (trans.), 2001, *A New Essay concerning the Origin of Ideas*. 3 vols. Durham: Rosmini House.
-- Cleary, D., and Watson, T. (trans.), Durham: Rosmini House.
-- *Principles of Ethics*. 1988.
-- *Conscience*. 1989.
-- *Anthropology as an Aid to Moral Science*. 1991.
-- *The Philosophy of Politics*. 1994. vol. 1 *The Summary Cause for the Stability or Downfall of Human Societies*. vol. 2 *Society and Its Purpose*.
-- *The Philosophy of Right*. vol. 1 *The Essence of Right*. 1993. vol. 2 *Rights of the Individual*. 1993. vol. 3 *Universal Social Right*. 1995. vol. 4 *Rights in God’s Church*. 1995. vol. 5 *Rights in the Family*. 1995. vol. 6 *Rights in Civil Society*. 1996.
-- *Psychology*. 1999. vol. 1 *Essence of the Human Soul*. vol. 2 *Development of the Human Soul*. vol. 3 *Laws of Animality*. vol. 4 *Opinions about the Human Soul*.
-- *Theosophy*. 2007. vol. 1 The Problem of Ontology Being-as-one vol. 2 Trine Being vol. 3 Trine Being Continued
-- Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
-- Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
-- Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London
+* Cleary, D., Watson, T., and Murphy, R. (trans.), 2001, *A New Essay concerning the Origin of Ideas*. 3 vols. Durham: Rosmini House.
+* Cleary, D., and Watson, T. (trans.), Durham: Rosmini House：
+  * *Principles of Ethics*. 1988.
+  * *Conscience*. 1989.
+  * *Anthropology as an Aid to Moral Science*. 1991.
+  * *The Philosophy of Politics*. 1994. vol. 1 *The Summary Cause for the Stability or Downfall of Human Societies*. vol. 2 *Society and Its Purpose*.
+  * *The Philosophy of Right*. vol. 1 *The Essence of Right*. 1993. vol. 2 *Rights of the Individual*. 1993. vol. 3 *Universal Social Right*. 1995. vol. 4 *Rights in God’s Church*. 1995. vol. 5 *Rights in the Family*. 1995. vol. 6 *Rights in Civil Society*. 1996.
+  * *Psychology*. 1999. vol. 1 *Essence of the Human Soul*. vol. 2 *Development of the Human Soul*. vol. 3 *Laws of Animality*. vol. 4 *Opinions about the Human Soul*.
+  * *Theosophy*. 2007. vol. 1 The Problem of Ontology Being-as-one. vol. 2 Trine Being. vol. 3 Trine Being Continued.
+* Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
+* Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
+* Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London.
 
 ### 二手文献
 
-- Bergamaschi, Cirillo, 2001, *Grande dizionario antologico del pensiero di Antonio Rosmini*, (4 vols of explanations of words and phrases from Rosmini’s works in Rosmini’s own words), Rome: Città Nuova Editrice. [CD version available.]
-- Bergamaschi, Cirillo, 1967–96, *Bibliografia Rosminiana*, 8 vols, Milan-Stresa, (covers Rosminian bibliography in all languages from 1814–1995).
-- Cleary, Denis, 1992, *Antonio Rosmini: Introduction to his Life and Teaching*. Durham: Rosmini House.
-- Davidson, Thomas, 1882, *The Philosophical System of Antonio Rosmini Serbati*, London.
-- Pozzo, Riccardo, 1999, *The Philosophical Works of Antonio Rosmini in Translation* in *American Catholic Philosophical Quarterly*, LXXIII no. 4.
-
-[^references-nd]: References in this article to Rosmini’s works use the following abbreviations:
-
-[^other-nd]: Other abbreviations:
+* Bergamaschi, Cirillo, 2001, *Grande dizionario antologico del pensiero di Antonio Rosmini*（4 卷，以罗斯米尼本人用语解释其著作中的词语与短语）, Rome: Città Nuova Editrice. [另有 CD 版。]
+* Bergamaschi, Cirillo, 1967–96, *Bibliografia Rosminiana*, 8 vols, Milan–Stresa（收 1814–1995 年各国罗斯米尼研究书目）。
+* Cleary, Denis, 1992, *Antonio Rosmini: Introduction to his Life and Teaching*. Durham: Rosmini House.
+* Davidson, Thomas, 1882, *The Philosophical System of Antonio Rosmini Serbati*, London.
+* Pozzo, Riccardo, 1999, *The Philosophical Works of Antonio Rosmini in Translation*, in *American Catholic Philosophical Quarterly*, LXXIII no. 4.
 
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=antonio-rosmini)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/antonio-rosmini/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/antonio-rosmini/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=antonio-rosmini&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/sep/antonio-rosmini/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
@@ -228,7 +210,7 @@
 
 ## 相关词条
 
-托马斯·阿奎那 | 希波的奥古斯丁 | 黑格尔，格奥尔格·威廉·弗里德里希 | 康德，伊曼努尔 | 洛克，约翰 | 柏拉图 | 谢林，弗里德里希·威廉·约瑟夫·冯
+托马斯·阿奎那 | 希波的奥古斯丁 | 格奥尔格·威廉·弗里德里希·黑格尔 | 伊曼努尔·康德 | 约翰·洛克 | 柏拉图 | 弗里德里希·威廉·约瑟夫·冯·谢林
 
 ### 致谢
 
