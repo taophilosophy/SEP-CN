@@ -1,0 +1,19 @@
+{
+ "key": "wiener, norbert",
+ "term": "Wiener, Norbert",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:30:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "维纳滤波",
+   "en": "wiener friltering",
+   "code": "GB/T 41864—2022",
+   "standard": "信息技术 计算机视觉 术语 ",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1}, \"sourceStats\": {\"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"9c89ff7e449b48659e8bfa29c0b4dbd9\", \"databaseId\": null, \"standardId\": \"4ae591d535014d39a40449007f1de2db\", \"standardCode\": \"GB/T 41864—2022\", \"standardName\": \"信息技术 计算机视觉 术语 \", \"standardEnName\": \"Information technology—Computer vision—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.3.11\", \"cnName\": \"维纳滤波\", \"enName\": \"wiener friltering\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 35.240.01\", \"ccs\": \"CCS L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 77864, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"维纳滤波\", \"cnNameSearch\": \"维纳滤波\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wiener friltering\", \"wordSearch\": \"wiener friltering\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种在频域由降质图像、降质函数、图像功率谱和噪声功率谱，基于最小均方误差准则来估计原始图像的图像复原方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673803022}"
+}
