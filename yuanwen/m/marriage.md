@@ -543,8 +543,6 @@ Thanks to Eric Cave, Laurence Houlgate, Ann Levey, Mark Migotti, and Nicole Wyat
 
 [^young-1995]: Young, Iris Marion, 1995, “Mothers, Citizenship, and Independence: A Critique of Pure Family Values,” *Ethics*, 105: 535–556.
 
-[^young-1950]: The following works were first published prior to 1950.
-
 [^abelard-2003]: Abelard and Heloise, 2003, *The Letters of Abelard and Heloise*, Betty Radice (trans.), M. T. Clanchy (rev.), London: Penguin, revised edition.
 
 [^aquinas-1981]: Aquinas, Thomas, 1981, *Summa Theologiae*, English Dominicans (trans.), New York: Christian Classics (reprint of London: Burns, Oates, and Washbourne 1912–36).

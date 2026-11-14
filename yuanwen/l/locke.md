@@ -450,9 +450,9 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 
 [^paraphrase-nd]: *A Paraphrase and Notes on the Epistles of St Paul to the Galatians, 1 and 2 Corinthians, Romans, Ephesians*, 2 volumes, Arthur W. Wainwright (ed.)
 
-[^paraphrase-1987]: volume 1, 1987. doi:10.1093/actrade/9780198248019.book.1
+[^locke-1987]: volume 1, 1987. doi:10.1093/actrade/9780198248019.book.1
 
-[^paraphrase-1987-2]: volume 2, 1987. doi:10.1093/actrade/9780198248064.book.1
+[^locke-1987-2]: volume 2, 1987. doi:10.1093/actrade/9780198248064.book.1
 
 [^locke-nd]: *Locke on Money*, 2 volumes, Patrick Hyde Kelly (ed.)
 
@@ -492,7 +492,7 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 
 [^epistola-1968]: *Epistola de Tolerantia: A Letter on Toleration*, Latin text edited with a preface by Raymond Klibansky; English translation with an introduction and notes by J. W. Gough, Oxford: Oxford University Press, 1968.
 
-[^epistola-1996]: [G&T 1996] *“Some Thoughts Concerning Education”* and *“The Conduct of the Understanding”*, Ruth W. Grant and Nathan Tarcov (eds), Indianapolis: Hackett Publishing Co., 1996.
+[^locke-1996]: [G&T 1996] *“Some Thoughts Concerning Education”* and *“The Conduct of the Understanding”*, Ruth W. Grant and Nathan Tarcov (eds), Indianapolis: Hackett Publishing Co., 1996.
 
 [^laslett-1960]: [Laslett 1960] *Locke’s Two Treatises of Government*, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1960.
 

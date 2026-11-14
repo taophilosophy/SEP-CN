@@ -11,15 +11,15 @@ Like his younger contemporary, Ernst Cassirer, Natorp initially focused on the e
 
 ## 1. Natorp and Marburg neo-Kantianism
 
-Neo-Kantianism, it is often said, was the dominant current of late nineteenth-century German academic philosophy. While true, this statement is uninformative, since the label conveys no clear doctrinal content. Given the widespread perception that philosophy had become discredited by the untenable claims of the German Idealists, the various neo-Kantian schools shared a conviction that Kant—on some interpretation of his sobriety—could give philosophy a respectable and genuine task again, now that it had awakened from its long post-Hegelian hangover (cf. Natorp 1918a: 4–6; Dussort 1963; Schnädelbach 1983a, 1983b; Köhnke 1986; Philonenko 1989; Sluga 1976: 28)[^dussort-1963][^köhnke-1986][^philonenko-1989][^schnädelbach-1983b][^sluga-1976][^schnädelbach-1983a]. The label therefore does not necessarily signify a revival of Kant’s doctrines (much less of Kant-scholarship for its own sake[^note-6] ), but rather, as Natorp himself puts it, philosophizing in the spirit of Kant (Natorp 1918a: 7). But what does that mean? For the Marburg School, Kant’s great idea, “the central notion with respect to which one must relate, understand, and evaluate everything else in Kant” is the *transcendental method* (Natorp 1912c: 194; cf. Cassirer 1925: 288)[^cassirer-1925]. This method constitutes “the unshakeable guideline of our whole philosophizing” (Natorp 1912c: 196). Why? Because the transcendental method anchors philosophy in facts (eminently the fact of mathematical physics), *of which* philosophy is to establish the conditions of possibility or justification (*Rechtsgrund*) (Natorp 1912c: 197; 196). By limiting itself to this task of justification, philosophical reason keeps itself from ascending into the aether of speculation. At the same time, by discovering the source of scientific objectivity (and thus of rational objectivity generally), i.e., by “clearly exhibiting the law [of objectivity] in its purity”, philosophy “secures science [and rational activity generally] in its autonomy and preserves it from alien distraction” (Natorp 1912c: 197–198). Transcendental philosophy in the Kantian spirit, then, is doubly “critical”, checking itself against metaphysical excesses, on the one hand, but also rigorously formulating the ideal grounds of the sciences, on the other (Natorp 1912c: 198; cf. Poma 1997, ch. 3, 4)[^poma-1997]. At the same time, the Marburg School finds in the critical philosophy an idealistic bulwark against the empiricism epitomized by Mill.
+Neo-Kantianism, it is often said, was the dominant current of late nineteenth-century German academic philosophy. While true, this statement is uninformative, since the label conveys no clear doctrinal content. Given the widespread perception that philosophy had become discredited by the untenable claims of the German Idealists, the various neo-Kantian schools shared a conviction that Kant—on some interpretation of his sobriety—could give philosophy a respectable and genuine task again, now that it had awakened from its long post-Hegelian hangover (cf. Natorp 1918a: 4–6; Dussort 1963; Schnädelbach 1983a, 1983b; Köhnke 1986; Philonenko 1989; Sluga 1976: 28)[^natorp-1918a][^dussort-1963][^köhnke-1986][^philonenko-1989][^schnädelbach-1983b][^sluga-1976][^schnädelbach-1983a]. The label therefore does not necessarily signify a revival of Kant’s doctrines (much less of Kant-scholarship for its own sake[^note-6] ), but rather, as Natorp himself puts it, philosophizing in the spirit of Kant (Natorp 1918a: 7)[^natorp-1918a]. But what does that mean? For the Marburg School, Kant’s great idea, “the central notion with respect to which one must relate, understand, and evaluate everything else in Kant” is the *transcendental method* (Natorp 1912c: 194; cf. Cassirer 1925: 288)[^natorp-1912c][^cassirer-1925]. This method constitutes “the unshakeable guideline of our whole philosophizing” (Natorp 1912c: 196)[^natorp-1912c]. Why? Because the transcendental method anchors philosophy in facts (eminently the fact of mathematical physics), *of which* philosophy is to establish the conditions of possibility or justification (*Rechtsgrund*) (Natorp 1912c: 197; 196)[^natorp-1912c]. By limiting itself to this task of justification, philosophical reason keeps itself from ascending into the aether of speculation. At the same time, by discovering the source of scientific objectivity (and thus of rational objectivity generally), i.e., by “clearly exhibiting the law [of objectivity] in its purity”, philosophy “secures science [and rational activity generally] in its autonomy and preserves it from alien distraction” (Natorp 1912c: 197–198)[^natorp-1912c]. Transcendental philosophy in the Kantian spirit, then, is doubly “critical”, checking itself against metaphysical excesses, on the one hand, but also rigorously formulating the ideal grounds of the sciences, on the other (Natorp 1912c: 198; cf. Poma 1997, ch. 3, 4)[^natorp-1912c][^poma-1997]. At the same time, the Marburg School finds in the critical philosophy an idealistic bulwark against the empiricism epitomized by Mill.
 
 Moreover, the Marburgers endorsed Kant’s view that philosophy should adopt an approach to the other domains of human culture—morality, art, and religion—that was “critical” in just the transcendental sense described above. This approach, then, takes the critique of science as the paradigm of philosophy’s relation to culture in general. Just as the critical theory of science begins from the concrete theories developed by the special sciences, so philosophy in general should begin from the achievements of culture (e.g., works of art, moral action or institutions), and investigate the basis of their claims. This is one reason Cohen and Natorp call their critical philosophy “idealism”, because its task vis-à-vis culture is to lay out the system of rational principles that make possible the “facts” of science, morality, and art. At the same time, their idealism aims at making explicit the “ideas” that guide, or ought to guide, the continuous development of culture. Finally, the Marburgers’ very theory of transcendental principles is itself “idealistic” in the radical sense that all objects of experience are held to be the products solely of the activity of thinking. Nevertheless, Marburg theory denies philosophy any “speculative” task of seeing or knowing things that are beyond experience, of constructing systems of ideas that are not immanent in the facts of human knowledge, action, or production. Like Cassirer, Natorp makes this view of philosophy in the Kantian spirit the basis of his own philosophy of science and of his historical interpretations.
 
-One main reason why neo-Kantians of all stripes see the essence of philosophy in critique is that it guarantees philosophy’s autonomy (cf. Natorp 1887: 266–269, 285, *et passim*). Of all rational activities, philosophy alone has the task of discovering the conditions and regulative ideals that make such activities at all possible. While the problem of philosophy’s identity as a discipline of course goes back to Plato, we are faced, in the nineteenth-century German context, with the particular problem of philosophy’s relation to the positive sciences, which had completely repudiated and replaced the knowledge-claims of the speculative systems of German Idealism. For the Marburgers, the issue of philosophy’s disciplinary integrity becomes intertwined with the question of the autonomy of reason itself. Cohen and Natorp faced a difficult task. Having turned their backs on speculative philosophy, they could not define reason’s autonomy by falling back upon the discredited *Geist* of German Idealism.[^note-7] But they also could not let reason (or as they prefer to call it, “thinking”) be conceived as a set of psychological operations, since that would subject reason’s laws (logic) to more basic psychological or psychophysical laws. Already in his (1887), Natorp objects to such psychologism (though he does not use the term) on the grounds that science and knowledge, and the very notion of objective truth these presuppose, would be rendered senseless if grounded in the *subjective* experience of the thinking or knowing psyche (see esp. Section 4). The chief task for any account of Natorp’s philosophy, then, is to make sense of his notion of rational autonomy.
+One main reason why neo-Kantians of all stripes see the essence of philosophy in critique is that it guarantees philosophy’s autonomy (cf. Natorp 1887: 266–269, 285, *et passim*)[^natorp-1887]. Of all rational activities, philosophy alone has the task of discovering the conditions and regulative ideals that make such activities at all possible. While the problem of philosophy’s identity as a discipline of course goes back to Plato, we are faced, in the nineteenth-century German context, with the particular problem of philosophy’s relation to the positive sciences, which had completely repudiated and replaced the knowledge-claims of the speculative systems of German Idealism. For the Marburgers, the issue of philosophy’s disciplinary integrity becomes intertwined with the question of the autonomy of reason itself. Cohen and Natorp faced a difficult task. Having turned their backs on speculative philosophy, they could not define reason’s autonomy by falling back upon the discredited *Geist* of German Idealism.[^note-7] But they also could not let reason (or as they prefer to call it, “thinking”) be conceived as a set of psychological operations, since that would subject reason’s laws (logic) to more basic psychological or psychophysical laws. Already in his (1887), Natorp objects to such psychologism (though he does not use the term) on the grounds that science and knowledge, and the very notion of objective truth these presuppose, would be rendered senseless if grounded in the *subjective* experience of the thinking or knowing psyche (see esp. Section 4). The chief task for any account of Natorp’s philosophy, then, is to make sense of his notion of rational autonomy.
 
 Beyond the issue of reason’s autonomy or priority, another central issue for Natorp is reason’s history; again, this is a concern typical of the Marburg School generally; one of its peculiarities is the quasi-Hegelian insistence upon the integration of the systematic and historical moments of philosophy. Cohen wrote major essays on Plato (Cohen 1866, 1878)[^cohen-1878][^cohen-1866], and Natorp’s early work concentrated on what the Marburgers considered ancient and early modern anticipations of the critical philosophy. Then there is Natorp’s *magnum opus*, *Platos Ideenlehre* of 1903, in which he simultaneously develops a “critical” interpretation of the theory of forms and an argument for the order of the dialogues, all conceived as an “Introduction to Idealism” (cf. Laks 1994, 2003)[^laks-1994][^laks-2003].
 
-During his life, Paul Natorp was overshadowed by his mentor, Cohen, and after his death, by the more glamorous Cassirer. For decades, if he was mentioned at all, one remembered his controversial Plato book, or, perhaps, his other contributions to the study of Greek thought (cf., e.g., Stewart 1909; Owens 1978; Gaiser 1969)[^gaiser-1969][^owens-1978][^stewart-1909]. But Natorp has been further obscured by the general eclipse of neo-Kantianism for most of the twentieth century.[^note-8] It has only been since the late 1970’s, with the revival of European interest in the Marburg School, and especially through the work of Helmut Holzhey since the 1980’s,[^note-9] that Natorp has reappeared on the philosophical scene and the unique features of his thought have become more plainly distinguished from Cohen’s.[^note-10] Holzhey’s unearthing of several heterodox, critical texts (Holzhey 1986: vol. 2)[^holzhey-1986] from the *Nachlass* suggests that Natorp himself had suppressed them, either “for the sake of maintaining the unity of the ‘Marburg School,’” or because he did not always think himself able to provide an alternative to a particular Cohenian thesis.[^note-11] Yet, despite the Marburgers’ loud assertion of the centrality to their philosophy of science and its history, most recent interest in Cohen has focused on his late works in the philosophy of religion; and despite Natorp’s allegiance to Cohen’s generally scientistic program, much ado is made of his purported “ontological turn” (cf., e.g., Brach 1996: 190, ff.; Stolzenberg 1995, ch. 5)[^brach-1996][^stolzenberg-1995] away from epistemology. By contrast, this article focuses on Natorp’s thought in the areas to which he after all devoted most of his career as a member of the Marburg School: philosophy of science, history of philosophy, and philosophical psychology; it does not deal with his politics or pedagogical theories (see esp. Willey 1978; Jegelka 1992; Natorp 1905)[^jegelka-1992][^willey-1978], philosophically informed though they are (Cohen 1914: 470)[^cohen-1914].
+During his life, Paul Natorp was overshadowed by his mentor, Cohen, and after his death, by the more glamorous Cassirer. For decades, if he was mentioned at all, one remembered his controversial Plato book, or, perhaps, his other contributions to the study of Greek thought (cf., e.g., Stewart 1909; Owens 1978; Gaiser 1969)[^gaiser-1969][^owens-1978][^stewart-1909]. But Natorp has been further obscured by the general eclipse of neo-Kantianism for most of the twentieth century.[^note-8] It has only been since the late 1970’s, with the revival of European interest in the Marburg School, and especially through the work of Helmut Holzhey since the 1980’s,[^note-9] that Natorp has reappeared on the philosophical scene and the unique features of his thought have become more plainly distinguished from Cohen’s.[^note-10] Holzhey’s unearthing of several heterodox, critical texts (Holzhey 1986: vol. 2)[^holzhey-1986] from the *Nachlass* suggests that Natorp himself had suppressed them, either “for the sake of maintaining the unity of the ‘Marburg School,’” or because he did not always think himself able to provide an alternative to a particular Cohenian thesis.[^note-11] Yet, despite the Marburgers’ loud assertion of the centrality to their philosophy of science and its history, most recent interest in Cohen has focused on his late works in the philosophy of religion; and despite Natorp’s allegiance to Cohen’s generally scientistic program, much ado is made of his purported “ontological turn” (cf., e.g., Brach 1996: 190, ff.; Stolzenberg 1995, ch. 5)[^brach-1996][^stolzenberg-1995] away from epistemology. By contrast, this article focuses on Natorp’s thought in the areas to which he after all devoted most of his career as a member of the Marburg School: philosophy of science, history of philosophy, and philosophical psychology; it does not deal with his politics or pedagogical theories (see esp. Willey 1978; Jegelka 1992; Natorp 1905)[^natorp-1905][^jegelka-1992][^willey-1978], philosophically informed though they are (Cohen 1914: 470)[^cohen-1914].
 
 ## 2. Transcendental method in the philosophy of science
 
@@ -35,65 +35,65 @@ If Natorp often seems to embrace the troubling thesis that science is not of the
 
 The point is that the scientific or epistemic value of, say, astronomy, is not to be found in what is given and observable by the senses, but rather in the mathematical exactness of its equations. These alone constitute and underwrite the truth-value of astronomy’s propositions, and they are solely the achievements of reason’s activity. As noted above, the essential characteristic of science lies in its objectivity, and that objectivity is rooted in its lawfulness. It is this formal feature of objectivity that constitutes the philosophical interest in science, not the material content of a particular science’s theorems; in other words, the philosophical question is: “How is this lawfulness possible?” This question is distinct from the psychological question, “What are the psychological laws that make it possible for me (as a psychophysical being) to observe a star?” or the astronomical question, “What are the laws governing the ’being’ of this star in its states and properties?”
 
-Hence, it is not so much the case that science on the Marburgers’ conception loses all traction on the phenomenal or “actual” world, as that they are asking an entirely different question. While for Kant himself such traction is the only warrant that we are cognizing a genuine object, for Natorp the nexus of science and apparent reality is irrelevant to the spontaneous, legislating factor of science that is the activity of reason alone and therefore of paramount interest to philosophy. How such essentially subjective application of categories to sensible phenomena in fact happens is a problem of psychology, not philosophy, to investigate. Thus we must be very careful in interpreting the Marburg talk of “scientific experience”: it is not experience in general or psychological (subjective) experience (*Erlebnis*), but scientific (objective) experience (*Erfahrung*) which is the “fact” whose transcendental sources philosophy is to seek (cf. Natorp 1910c: 13). Yet we must *not* in turn take this scientific “experience” to mean “experience cleansed by experiment” (to paraphrase Helmholtz[^note-16] ): experiment by definition obviously remains empirical. Rather, by “scientific experience” Natorp just means the “legislative” act of categorial “Grundlegung”, of “hypothesis”.[^note-17]
+Hence, it is not so much the case that science on the Marburgers’ conception loses all traction on the phenomenal or “actual” world, as that they are asking an entirely different question. While for Kant himself such traction is the only warrant that we are cognizing a genuine object, for Natorp the nexus of science and apparent reality is irrelevant to the spontaneous, legislating factor of science that is the activity of reason alone and therefore of paramount interest to philosophy. How such essentially subjective application of categories to sensible phenomena in fact happens is a problem of psychology, not philosophy, to investigate. Thus we must be very careful in interpreting the Marburg talk of “scientific experience”: it is not experience in general or psychological (subjective) experience (*Erlebnis*), but scientific (objective) experience (*Erfahrung*) which is the “fact” whose transcendental sources philosophy is to seek (cf. Natorp 1910c: 13)[^natorp-1910c]. Yet we must *not* in turn take this scientific “experience” to mean “experience cleansed by experiment” (to paraphrase Helmholtz[^note-16] ): experiment by definition obviously remains empirical. Rather, by “scientific experience” Natorp just means the “legislative” act of categorial “Grundlegung”, of “hypothesis”.[^note-17]
 
-By the end of the nineteenth century, it was obvious to any informed observer of science that its categorial structures were in fact hypothetical and dynamic: the fact of scientific experience could no longer be taken as the essentially complete edifice of Newtonian physics, as Kant had done. In Natorp’s rewording of Kant, science is not a *factum* at all, but a *fieri*, i.e., not an accomplished deed, but an ongoing doing (cf. Natorp 1910c: 14). Hence, what makes science scientific—i.e., productive of genuine knowledge—cannot possibly be founded on a set of fixed (physical) principles, analogous to mathematical axioms, the certainty of which permanently grounds its theorems. Instead, the Marburgers argue, the essence of science can only reside in its *method*, i.e., in the regular and regulated manner of its progress. And since this scientificity is equivalent to objectivity or lawfulness, transcendental critique must determine the relation of lawfulness to method.
+By the end of the nineteenth century, it was obvious to any informed observer of science that its categorial structures were in fact hypothetical and dynamic: the fact of scientific experience could no longer be taken as the essentially complete edifice of Newtonian physics, as Kant had done. In Natorp’s rewording of Kant, science is not a *factum* at all, but a *fieri*, i.e., not an accomplished deed, but an ongoing doing (cf. Natorp 1910c: 14)[^natorp-1910c]. Hence, what makes science scientific—i.e., productive of genuine knowledge—cannot possibly be founded on a set of fixed (physical) principles, analogous to mathematical axioms, the certainty of which permanently grounds its theorems. Instead, the Marburgers argue, the essence of science can only reside in its *method*, i.e., in the regular and regulated manner of its progress. And since this scientificity is equivalent to objectivity or lawfulness, transcendental critique must determine the relation of lawfulness to method.
 
 ## 3. Method and hypothesis
 
 In his memoirs, Hans-Georg Gadamer calls Natorp, his doctoral supervisor, a “*Methodenfanatiker*” (Gadamer 1977: 62)[^gadamer-1977]. By this Gadamer means that Natorp, for most of his career, focused on the methodical aspect of thinking to the point of reducing thinking to method. To understand this riddling statement, one must take into account Natorp’s interpretation of the word, “method”. He writes:
 
-> The word “method”, *metienai*, implies not a mere “going” or movement in general; nor, as Hegel believes, a mere accompanying [going-with]; rather, method means a going towards a goal, or at any rate in a secured direction: it means “going-after” [pursuit].[^note-18] (Natorp 1912c: 199–200)
+> The word “method”, *metienai*, implies not a mere “going” or movement in general; nor, as Hegel believes, a mere accompanying [going-with]; rather, method means a going towards a goal, or at any rate in a secured direction: it means “going-after” [pursuit].[^note-18] (Natorp 1912c: 199–200)[^natorp-1912c]
 
 The directedness towards a goal which Natorp claims is implied by “method” illuminates one of two senses[^note-19] in which his philosophy is idealistic, namely that science (and the other activities of culture) are guided by regulative ideas or limit-concepts (*Grenzbegriffe*). Ideas, as Kant argues in the Transcendental Dialectic, are *a priori* concepts whose source lies in pure reason alone. Their only legitimate—though indispensable—theoretical use is to regulate the understanding’s cognition of objects: reason sets down the conditions under which the understanding’s activity will have achieved its ideal completion in the systematic interconnection of its cognitions, i.e., in an ultimate science. Reason thereby offers the understanding a rule—viz. maximal scope and maximal internal systematicity—against which any actually achieved system of science must be measured; and because human finitude makes it impossible in principle for any actual system to attain the ideal maximum, reason also spurs the understanding on towards ever new discoveries and reorganizations.[^note-20]
 
-While Natorp often seems to blur the distinction between Kantian categories and ideas, collapsing them both into “hypotheses” (see below), there is one notion that does function as an ideal: the *Ding an sich*. According to Natorp, the thing in itself, properly conceived, is a “pure limit-concept [*Grenzbegriff*], which merely delimits [*begrenzt*] experience in its own creative legislation” (Natorp 1912c: 199); more precisely, the thing in itself is not some mind-independent *X*, but rather an *X* necessarily implied by the fact of scientific progress, namely the “comprehensive sum total [*Inbegriff*] of scientific knowledge” (Natorp 1918a: 19). Because science is an activity of reason alone, and the thing in itself is a rational posit necessary for that activity, it is no longer in conflict with the postulate of reason’s autonomy. Given an object of scientific cognition, the cognition is conceived as a process never “definitively concluded”, as Cohen says; rather, “every true concept is a new question; none is a final answer” (Cohen 1885, cited at Natorp 1918a: 19)[^cohen-1885]. Natorp comments: “Just this is the meaning of the thing in itself as *X*: the infinite task” (Natorp 1918a: 19). In other words, the thing in itself is the ideal of an object exhaustively determined by concepts, that is, completely known. As with Kant, however, our cognitive finitude means that the process of conceptual determination can only approach this ideal asymptotically.[^note-21] This pursuit of total determination is what Natorp calls “method”, the pursuit of science.
+While Natorp often seems to blur the distinction between Kantian categories and ideas, collapsing them both into “hypotheses” (see below), there is one notion that does function as an ideal: the *Ding an sich*. According to Natorp, the thing in itself, properly conceived, is a “pure limit-concept [*Grenzbegriff*], which merely delimits [*begrenzt*] experience in its own creative legislation” (Natorp 1912c: 199)[^natorp-1912c]; more precisely, the thing in itself is not some mind-independent *X*, but rather an *X* necessarily implied by the fact of scientific progress, namely the “comprehensive sum total [*Inbegriff*] of scientific knowledge” (Natorp 1918a: 19)[^natorp-1918a]. Because science is an activity of reason alone, and the thing in itself is a rational posit necessary for that activity, it is no longer in conflict with the postulate of reason’s autonomy. Given an object of scientific cognition, the cognition is conceived as a process never “definitively concluded”, as Cohen says; rather, “every true concept is a new question; none is a final answer” (Cohen 1885, cited at Natorp 1918a: 19)[^natorp-1918a][^cohen-1885]. Natorp comments: “Just this is the meaning of the thing in itself as *X*: the infinite task” (Natorp 1918a: 19)[^natorp-1918a]. In other words, the thing in itself is the ideal of an object exhaustively determined by concepts, that is, completely known. As with Kant, however, our cognitive finitude means that the process of conceptual determination can only approach this ideal asymptotically.[^note-21] This pursuit of total determination is what Natorp calls “method”, the pursuit of science.
 
-This brings us to the key notion of “hypothesis”. The pursuit of science—its “method” in Natorp’s special sense—proceeds by hypothesis. Sometimes he puts it more pointedly: hypothesis *is* method. Since method is for him a “going-after” or pursuit of the “perpetually distant goal” (Natorp 1910c: 97) or *focus imaginarius* of complete objective determination, Natorp interprets “hypothesis” in a correspondingly active sense. He takes the term “hypo-thesis” quite literally as a “setting-down” or “laying-under”, or as he puts it, a “*Ge-setz*” or “*Grund-legung*” (cf. Cohen 1902: 449; 1916: 308, ff.)[^cohen-1902]. These glosses all emphasize the activity of hypothesis: it is less a posit than a positing, an act by which thinking proceeds and becomes experience. Natorp writes:
+This brings us to the key notion of “hypothesis”. The pursuit of science—its “method” in Natorp’s special sense—proceeds by hypothesis. Sometimes he puts it more pointedly: hypothesis *is* method. Since method is for him a “going-after” or pursuit of the “perpetually distant goal” (Natorp 1910c: 97)[^natorp-1910c] or *focus imaginarius* of complete objective determination, Natorp interprets “hypothesis” in a correspondingly active sense. He takes the term “hypo-thesis” quite literally as a “setting-down” or “laying-under”, or as he puts it, a “*Ge-setz*” or “*Grund-legung*” (cf. Cohen 1902: 449; 1916: 308, ff.)[^cohen-1902]. These glosses all emphasize the activity of hypothesis: it is less a posit than a positing, an act by which thinking proceeds and becomes experience. Natorp writes:
 
-> The risk [*Wagnis*] [of hypothesizing] is inevitable if the process of experience should begin and continue moving: just as my foot must take a stand if it is to be able to walk. This taking a stand is necessary, but the stand must in turn always be left behind. (Natorp 1912c: 203)
+> The risk [*Wagnis*] [of hypothesizing] is inevitable if the process of experience should begin and continue moving: just as my foot must take a stand if it is to be able to walk. This taking a stand is necessary, but the stand must in turn always be left behind. (Natorp 1912c: 203)[^natorp-1912c]
 
 The act of hypothesis has two aspects.[^note-22] First, hypothesis as law (*Gesetz*) or groundwork (*Grundlegung*) is the transcendental foundation for scientific experience, i.e., for the activity of legislating and thus rationally understanding the phenomena. The “phenomena” in question are not however the sensible phenomena of subjective, psychic experience (*Erlebnis*), but are instead themselves already constructions or interpretations. These constructions in turn are founded on hypotheses of a lower order, viz. on specific concepts formulated to transmute particular subjective experiences into objective knowledge. To take up our earlier example, when the astronomer speaks of planets and their laws of motion, he is speaking *objectively* of *scientific* phenomena, as opposed to the *subjective* appearance of *sensible* phenomena to you or me. Therefore, on Natorp’s view, strange as it may sound, the phenomenon “Mars” is an hypothesis, an object certainly, but for all that an ideal and never fully determined *thought*-object; moreover, the motion of this object, too, is ideal: it can be calculated with the utmost exactitude. It is these two hypotheses—the concept, “Mars”, and the laws governing its motion—that alone are objective, and susceptible to knowledge; the reddish speck in the sky is merely a subjective appearance, of which there can be no genuine (astronomical) science.
 
-To pull our strands together, thinking in the strict sense is scientific thinking, for it alone is generative of knowledge, i.e., objective truth. Science (and therefore knowledge) as a matter of fact evolves through time: science is a *fieri*. However, this evolution or *fieri* is not unregulated, but moves in a continuous pursuit of ever more precise determinations of experience: this pursuit is literally called “method”. These determinations of experience just are the objects of science. The philosophical task therefore is to analyze the condition of possibility of the *regularity* of this methodical determination of experience. Natorp (like Cohen; 1902: 449) identifies this condition as hypothesis, interpreted as law (*Ge-setz*, posit); experience in the strict sense is only possible given a law (*Gesetz*) that functions as its interpretational groundwork or foundation (*Grundlegung*). The first hypothesis or primal posit then must be the law of lawfulness, viz., the rational postulate that experience, in order to be *Erfahrung*, and not mere *Erlebnis*, must accord with law, i.e., be grounded on a rational foundation (cf. Natorp 1887: 285; 1911e; 1917: 246). This categorical imperative, that all its experience fall under law, is the originary act of reason wherein lies its ultimate autonomy; it is the regulative principle of the continuous, orderly flow of experience.[^note-23] As a general, purely formal law it regulates the particular hypotheses, which in turn generate or ground particular objects of *Erfahrung* (such as “Mars”, “electricity”, “atom”, or “gravity”) in the regulated process of their ever wider and ever more rigorous determination. *How* it does this is a separate problem, one that Natorp attempts to solve through his system of categories, treated in the next section.
+To pull our strands together, thinking in the strict sense is scientific thinking, for it alone is generative of knowledge, i.e., objective truth. Science (and therefore knowledge) as a matter of fact evolves through time: science is a *fieri*. However, this evolution or *fieri* is not unregulated, but moves in a continuous pursuit of ever more precise determinations of experience: this pursuit is literally called “method”. These determinations of experience just are the objects of science. The philosophical task therefore is to analyze the condition of possibility of the *regularity* of this methodical determination of experience. Natorp (like Cohen; 1902: 449) identifies this condition as hypothesis, interpreted as law (*Ge-setz*, posit); experience in the strict sense is only possible given a law (*Gesetz*) that functions as its interpretational groundwork or foundation (*Grundlegung*). The first hypothesis or primal posit then must be the law of lawfulness, viz., the rational postulate that experience, in order to be *Erfahrung*, and not mere *Erlebnis*, must accord with law, i.e., be grounded on a rational foundation (cf. Natorp 1887: 285; 1911e; 1917: 246)[^natorp-1887]. This categorical imperative, that all its experience fall under law, is the originary act of reason wherein lies its ultimate autonomy; it is the regulative principle of the continuous, orderly flow of experience.[^note-23] As a general, purely formal law it regulates the particular hypotheses, which in turn generate or ground particular objects of *Erfahrung* (such as “Mars”, “electricity”, “atom”, or “gravity”) in the regulated process of their ever wider and ever more rigorous determination. *How* it does this is a separate problem, one that Natorp attempts to solve through his system of categories, treated in the next section.
 
 ## 4. Thinking
 
-Just as “experience” for the neo-Kantians is restricted to “scientific experience”, so too is “thinking” restricted to “scientific thinking;” in fact, Natorp virtually conflates experience and thinking. His view of science as the progress (*Gang*) of method via hypotheses regulated by an ideal of complete objective determination leaves the problem of what exactly these hypotheses do and how they do it: the problem of Marburg “logic”. As Cassirer points out, Natorp’s conception of logic presses the traditional “analytic” doctrines of concept, judgement, and syllogistic into the background in favor of the “synthetic” logic of the genesis of mathematical and physical objectivity.[^note-24] Natorp’s logic is therefore called “genetic;” it tells how thinking lawfully generates or synthesizes the unities that are its objects of knowledge. As such however it amounts to an analytic reconstruction of thinking’s synthetic construction of its objects (Natorp 1887: 283). He writes:
+Just as “experience” for the neo-Kantians is restricted to “scientific experience”, so too is “thinking” restricted to “scientific thinking;” in fact, Natorp virtually conflates experience and thinking. His view of science as the progress (*Gang*) of method via hypotheses regulated by an ideal of complete objective determination leaves the problem of what exactly these hypotheses do and how they do it: the problem of Marburg “logic”. As Cassirer points out, Natorp’s conception of logic presses the traditional “analytic” doctrines of concept, judgement, and syllogistic into the background in favor of the “synthetic” logic of the genesis of mathematical and physical objectivity.[^note-24] Natorp’s logic is therefore called “genetic;” it tells how thinking lawfully generates or synthesizes the unities that are its objects of knowledge. As such however it amounts to an analytic reconstruction of thinking’s synthetic construction of its objects (Natorp 1887: 283)[^natorp-1887]. He writes:
 
-> It is true that thinking operates [*schafft*] (in the sciences) in accord with secure laws of synthesis, although to a large extent it is at the same time unconscious of these laws. [As science] its interest is not primarily these laws, but rather the scientific content which is generated in virtue of them. Thinking is in each case focused upon its particular object. An entirely new level of reflection is required to investigate, not the particular object, but the laws in accordance with which this and any scientific object in general first constitutes itself as an object. This new kind of reflection we call “logic”. (Natorp 1910c: 10–11)
+> It is true that thinking operates [*schafft*] (in the sciences) in accord with secure laws of synthesis, although to a large extent it is at the same time unconscious of these laws. [As science] its interest is not primarily these laws, but rather the scientific content which is generated in virtue of them. Thinking is in each case focused upon its particular object. An entirely new level of reflection is required to investigate, not the particular object, but the laws in accordance with which this and any scientific object in general first constitutes itself as an object. This new kind of reflection we call “logic”. (Natorp 1910c: 10–11)[^natorp-1910c]
 
 In other words, the scientific hypotheses or laws (*Ge-setze*) by which science methodically, synthetically progresses are not transparent to rationality *qua* scientific; instead, they must be analogically retraced by a critical “logic”.
 
 This is because the scientist is, and should be, solely concerned with the laws in accordance with which the phenomena (objectively, not psychologically conceived, see Section 2) may be coherently ordered, and thus objectively determined. Scientific thinking is the “legislating” (hypothesizing) of these laws; logic—philosophy—lays bare the laws in accordance with which this legislation occurs: reason’s constitution as opposed to its statutes.
 
-For Natorp, as for Kant, thinking is activity, doing: the technical term is “function”. This word, however, is as ambiguous as it is central to the Marburg account of thinking.[^note-25] Occasionally, “function” seems to mean something like subjective, psychic act, and as such is excluded from epistemological consideration (Natorp 1887: 266); usually, however, it signifies the spontaneity of thinking, not in psychological terms, but as the rational act of hypothetical legislation discussed earlier. In this second signification it is sometimes connected with “function” in the mathematical sense, or else mathematical functions are adduced as paradigmatic of the functional conception of thinking.[^note-26] The standard sense of “function” for Natorp, then, is that of an act or “operation” of thinking, where this means laying down a hypothesis. Since the hypothesis is always a concept, a generality that imposes a unity upon a phenomenal manifold, we can understand “function” more precisely as the act of unification or synthesis.
+For Natorp, as for Kant, thinking is activity, doing: the technical term is “function”. This word, however, is as ambiguous as it is central to the Marburg account of thinking.[^note-25] Occasionally, “function” seems to mean something like subjective, psychic act, and as such is excluded from epistemological consideration (Natorp 1887: 266)[^natorp-1887]; usually, however, it signifies the spontaneity of thinking, not in psychological terms, but as the rational act of hypothetical legislation discussed earlier. In this second signification it is sometimes connected with “function” in the mathematical sense, or else mathematical functions are adduced as paradigmatic of the functional conception of thinking.[^note-26] The standard sense of “function” for Natorp, then, is that of an act or “operation” of thinking, where this means laying down a hypothesis. Since the hypothesis is always a concept, a generality that imposes a unity upon a phenomenal manifold, we can understand “function” more precisely as the act of unification or synthesis.
 
-For Kant, too, the term, “function”, is always connected to the categories’ spontaneity and their synthetic activity; further, he holds that true *cognition* (*Erkenntnis*) can only occur if the synthesis in question “schematizes” representations given in intuition (cf. Young 1992; Friedman 1992, 2000)[^friedman-2000][^friedman-1992][^young-1992]. By contrast, Natorp understands *all concepts* as functional, i.e., as categorial, since all of them, including the concepts of space and time, are thought-operations serving to unify a manifold.[^note-27] As we saw above, Natorp rejects any notion of intuition as a passive faculty receptive of a given sensible manifold (cf. Natorp 1912c: 201). Instead, he interprets intuition as itself an act of synthesis, i.e., as a generation of unity. He argues that a critical account of knowledge is not justified in presupposing some object conceived as existing radically independent of mind, and which then somehow affects it via intuition: to do so would be tantamount to an intolerable “metaphysicism” (Natorp 1912c: 202). Rather, Natorp claims to find in the first *Critique* itself the basis for his view that intuition is not a factor “alien to thought [*denkfremd*]”, but that it merely signifies a different *aspect* of thinking, viz. that aspect in which a fully spatio-temporally determined object, rather than merely a law, is thought (Natorp 1912c: 204; Natorp 1910c: 2–3). This “fulfillment [*Vollzug*]” of objective thought
+For Kant, too, the term, “function”, is always connected to the categories’ spontaneity and their synthetic activity; further, he holds that true *cognition* (*Erkenntnis*) can only occur if the synthesis in question “schematizes” representations given in intuition (cf. Young 1992; Friedman 1992, 2000)[^friedman-2000][^friedman-1992][^young-1992]. By contrast, Natorp understands *all concepts* as functional, i.e., as categorial, since all of them, including the concepts of space and time, are thought-operations serving to unify a manifold.[^note-27] As we saw above, Natorp rejects any notion of intuition as a passive faculty receptive of a given sensible manifold (cf. Natorp 1912c: 201)[^natorp-1912c]. Instead, he interprets intuition as itself an act of synthesis, i.e., as a generation of unity. He argues that a critical account of knowledge is not justified in presupposing some object conceived as existing radically independent of mind, and which then somehow affects it via intuition: to do so would be tantamount to an intolerable “metaphysicism” (Natorp 1912c: 202)[^natorp-1912c]. Rather, Natorp claims to find in the first *Critique* itself the basis for his view that intuition is not a factor “alien to thought [*denkfremd*]”, but that it merely signifies a different *aspect* of thinking, viz. that aspect in which a fully spatio-temporally determined object, rather than merely a law, is thought (Natorp 1912c: 204; Natorp 1910c: 2–3)[^natorp-1912c][^natorp-1910c]. This “fulfillment [*Vollzug*]” of objective thought
 
-> in each of its stages requires rigorously unambiguous determination, but determination always with respect to the lawful functions of thinking itself: determination of the particular, of quantity, of quality, in accord with the relation of causality and its laws. (Natorp 1912c: 204; Natorp 1887: 280)
+> in each of its stages requires rigorously unambiguous determination, but determination always with respect to the lawful functions of thinking itself: determination of the particular, of quantity, of quality, in accord with the relation of causality and its laws. (Natorp 1912c: 204; Natorp 1887: 280)[^natorp-1912c][^natorp-1887]
 
-On this view, far from being separate from and opposed to thinking as they seem to be in the first *Critique*, space and time, as the forms of intuition, are originary thought-acts that make possible the determination of any object whatsoever. They are hypothesized, synthetic manifolds, or—more precisely—unified, ordered manifolds of points or “positions” (*Stellen*) into which any object must first be integrated if it is to undergo any further determination as to quantity, quality, etc. (Natorp 1912c: 203; 1887: 280. Cf. esp. 1911e: 76–77; *PI*, 159, ff; 366, ff.). Thus, only in virtue of these various synthetic procedures of progressive determination, which Natorp calls “objectivation” (i.e., object-formation), can a phenomenon even appear. But how does it appear? Since intuition and thinking are being analyzed here entirely at the “functional” level, the phenomenon evidently does *not* appear as a sensible object, i.e., one that may be assigned a unique set of spatio-temporal loci, and that then may serve as a carrier (*Träger*) of all further determinations of quality, quantity, or relation.
+On this view, far from being separate from and opposed to thinking as they seem to be in the first *Critique*, space and time, as the forms of intuition, are originary thought-acts that make possible the determination of any object whatsoever. They are hypothesized, synthetic manifolds, or—more precisely—unified, ordered manifolds of points or “positions” (*Stellen*) into which any object must first be integrated if it is to undergo any further determination as to quantity, quality, etc. (Natorp 1912c: 203; 1887: 280. Cf. esp. 1911e: 76–77; *PI*, 159, ff; 366, ff.)[^natorp-1912c]. Thus, only in virtue of these various synthetic procedures of progressive determination, which Natorp calls “objectivation” (i.e., object-formation), can a phenomenon even appear. But how does it appear? Since intuition and thinking are being analyzed here entirely at the “functional” level, the phenomenon evidently does *not* appear as a sensible object, i.e., one that may be assigned a unique set of spatio-temporal loci, and that then may serve as a carrier (*Träger*) of all further determinations of quality, quantity, or relation.
 
-This then raises the following pressing question: if, as he argues, intuition is itself a synthetic activity, what “matter” does it synthesize, if not the sensible manifold? Natorp is distressingly elusive on this point, even in his explicit discussions of the status of time and space in science (cf. Natorp 1910c: Chapter 7). The following is clear, however. Like Kant, Natorp understands thinking always to be thinking an object. For Natorp, however, this means “constituting”, “constructing”, or “objectivating” the object. But since he (re)interprets these objects as non-sensible phenomena, he also interprets space and time non-psychologically, i.e., as non-sensible. They are not the forms of sensible intuition, but the ideal system of dimensions (three spatial dimensions plus time (cf. Natorp 1910c: 303, ff.; 397–398), conceived as
+This then raises the following pressing question: if, as he argues, intuition is itself a synthetic activity, what “matter” does it synthesize, if not the sensible manifold? Natorp is distressingly elusive on this point, even in his explicit discussions of the status of time and space in science (cf. Natorp 1910c: Chapter 7)[^natorp-1910c]. The following is clear, however. Like Kant, Natorp understands thinking always to be thinking an object. For Natorp, however, this means “constituting”, “constructing”, or “objectivating” the object. But since he (re)interprets these objects as non-sensible phenomena, he also interprets space and time non-psychologically, i.e., as non-sensible. They are not the forms of sensible intuition, but the ideal system of dimensions (three spatial dimensions plus time (cf. Natorp 1910c: 303, ff.; 397–398)[^natorp-1910c], conceived as
 
-> structures of a purely mathematical kind, which nonetheless go beyond mere number, in virtue of the general relation to existence [that is] contained in their very concepts. (Natorp 1910c: 341)[^note-28]
+> structures of a purely mathematical kind, which nonetheless go beyond mere number, in virtue of the general relation to existence [that is] contained in their very concepts. (Natorp 1910c: 341)[^natorp-1910c][^note-28]
 
-Thus a very crucial distinction must be made between two levels of phenomenality and of objectivity, which for the purposes of this article shall be called “first-order” and “second-order” (cf. Stolzenberg 1995: 25)[^stolzenberg-1995]. A first-order phenomenon is the psychic, *subjective* appearance that Natorp tacitly acknowledge has a basis in sensibility, and which he calls the “*Phänomen letzter Instanz*” or the “phenomenon of final authority” (Natorp 1887: 273, 274; 1913b: 192);[^note-29] this first-order phenomenon is a “*Vorstellung*”, or “representation”, i.e., a doxic phenomenon (Natorp 1887: 266, 267; esp. 273). Hence it cannot be the referent of knowledge or science, since science does not concern itself with doxic appearances *as such*, but the *objects* (or objectivities) which appear in or through the appearances (Natorp 1913b: 193).
+Thus a very crucial distinction must be made between two levels of phenomenality and of objectivity, which for the purposes of this article shall be called “first-order” and “second-order” (cf. Stolzenberg 1995: 25)[^stolzenberg-1995]. A first-order phenomenon is the psychic, *subjective* appearance that Natorp tacitly acknowledge has a basis in sensibility, and which he calls the “*Phänomen letzter Instanz*” or the “phenomenon of final authority” (Natorp 1887: 273, 274; 1913b: 192)[^natorp-1887];[^note-29] this first-order phenomenon is a “*Vorstellung*”, or “representation”, i.e., a doxic phenomenon (Natorp 1887: 266, 267; esp. 273)[^natorp-1887]. Hence it cannot be the referent of knowledge or science, since science does not concern itself with doxic appearances *as such*, but the *objects* (or objectivities) which appear in or through the appearances (Natorp 1913b: 193)[^natorp-1913b].
 
-But how are we to understand this “appearing” of an object “through” the doxic appearances? What, precisely, is the relation between the first-order and second-order “phenomena”? In the places where he explicitly mentions sensibility in the concrete, psychological sense (Natorp 1913b: 193), Natorp conceives it as never conveying or “giving” the mind an object, ready-made. Rather, “what” sensibility gives is so entirely indeterminate and uncoordinated that it cannot even be called a manifold; whatever the chaos of sensibility may be, Natorp conceives it as nothing more than a *task* (*Aufgabe*), *problem*, or *demand* (*Forderung*) for objectivity, that is, objectivation.[^note-30] Since no thing (no object) is ever given in sensibility, any object is only ever constructed, and can only be known *qua* construction, viz. as an instance of its constituting law.
+But how are we to understand this “appearing” of an object “through” the doxic appearances? What, precisely, is the relation between the first-order and second-order “phenomena”? In the places where he explicitly mentions sensibility in the concrete, psychological sense (Natorp 1913b: 193)[^natorp-1913b], Natorp conceives it as never conveying or “giving” the mind an object, ready-made. Rather, “what” sensibility gives is so entirely indeterminate and uncoordinated that it cannot even be called a manifold; whatever the chaos of sensibility may be, Natorp conceives it as nothing more than a *task* (*Aufgabe*), *problem*, or *demand* (*Forderung*) for objectivity, that is, objectivation.[^note-30] Since no thing (no object) is ever given in sensibility, any object is only ever constructed, and can only be known *qua* construction, viz. as an instance of its constituting law.
 
-Natorp likens this problematic relation of first-order phenomenality and second-order objectivity to solving for *X* in an equation (Natorp 1887: 258, 262). If the solution(-set) of *X* is the object for which thinking is to solve, then the sensible appearance is analogous to the notational cipher, “*X*”, itself, since what-has-not-yet-been-experienced is simply what-has-not-yet-been-constructed. Moreover, just as in solving an equation one can only determine the *X* in light of other known quantities assumed in the equation, one must in the same way establish the determinations of the problematic object in light of other objectivities (laws) that are assumed (*ge-setzt*). No such objectivities are ever granted absolutely, of course, but only relatively, namely with respect to the particular problem. They, too, are always susceptible to becoming problems in their turn. Therefore no complete solution—no total determination of the object—can be achieved for any *X*, except asymptotically. While the fully determinate object itself thus remains a forever unreachable *focus imaginarius* (see Section 3), it is, by the same token, always at least partially determined. And it is this *partially determined objectivity* as itself a (non-sensible) object of thinking that Natorp considers the second-order phenomenon, even though he will usually just call it a “phenomenon”, *simpliciter*. This *scientific* phenomenon, as an objectivity that is progressively constituted by a dialectic between hypothesis and calculation, entirely loses any sense of “appearance”. This reconception of the phenomenon of mathematical physics finds an analogue in geometry’s replacement of constructions “in intuition” by purely logical deductions from *Grundlagen* (or “functions” in the sense of “hypothetical act”) as epitomized by Hilbert’s *Grundlagen der Geometrie* (cf. Friedman 1992, Chapter 1; Hilbert 1999)[^friedman-1992][^hilbert-1999], a book cited with approval by Natorp (1910c: 4) and Cassirer (2000: 99, f.).
+Natorp likens this problematic relation of first-order phenomenality and second-order objectivity to solving for *X* in an equation (Natorp 1887: 258, 262)[^natorp-1887]. If the solution(-set) of *X* is the object for which thinking is to solve, then the sensible appearance is analogous to the notational cipher, “*X*”, itself, since what-has-not-yet-been-experienced is simply what-has-not-yet-been-constructed. Moreover, just as in solving an equation one can only determine the *X* in light of other known quantities assumed in the equation, one must in the same way establish the determinations of the problematic object in light of other objectivities (laws) that are assumed (*ge-setzt*). No such objectivities are ever granted absolutely, of course, but only relatively, namely with respect to the particular problem. They, too, are always susceptible to becoming problems in their turn. Therefore no complete solution—no total determination of the object—can be achieved for any *X*, except asymptotically. While the fully determinate object itself thus remains a forever unreachable *focus imaginarius* (see Section 3), it is, by the same token, always at least partially determined. And it is this *partially determined objectivity* as itself a (non-sensible) object of thinking that Natorp considers the second-order phenomenon, even though he will usually just call it a “phenomenon”, *simpliciter*. This *scientific* phenomenon, as an objectivity that is progressively constituted by a dialectic between hypothesis and calculation, entirely loses any sense of “appearance”. This reconception of the phenomenon of mathematical physics finds an analogue in geometry’s replacement of constructions “in intuition” by purely logical deductions from *Grundlagen* (or “functions” in the sense of “hypothetical act”) as epitomized by Hilbert’s *Grundlagen der Geometrie* (cf. Friedman 1992, Chapter 1; Hilbert 1999)[^friedman-1992][^hilbert-1999], a book cited with approval by Natorp (1910c: 4)[^natorp-1910c] and Cassirer (2000: 99, f.).
 
-The question now is: what makes the second-order phenomenon a bona fide objectivity, in contrast to the first-order phenomenon? Whereas the first-order phenomena constitute private, lived subjectivity, not open to prediction or even adequate description, Natorp’s answer is that the second-order object is constructed in accordance with laws of thinking, which as laws are in their very nature objective, i.e., universally valid for any thinker. Therefore objects (*Gegenstände*) lawfully determined will in principle be rationally transparent to any other thinker, i.e., “objective” (*objektiv*, *gegenständlich*). Any such lawful objectivation or object-formation just is knowledge or science, in the sense of being objectively think*able*. These laws of constitution are in turn hierarchically arranged: the highest, most general laws are those governing all possible thinking, and thus the generation of all experience. These are followed by mathematics, and by all the mathematically “exact” sciences. As was shown in Section 3, Natorp conceives these laws (*Ge-setze*) as *essentially* “hypothetical”, that is, as categorial posits. With the apparent exception of the basic logical laws (e.g., the indispensable “law of laws”), *all* such laws are in principle revisable (which is chiefly why the determination of objectivities must be conceived as asymptotic) (Natorp 1887: 274; 276–277).
+The question now is: what makes the second-order phenomenon a bona fide objectivity, in contrast to the first-order phenomenon? Whereas the first-order phenomena constitute private, lived subjectivity, not open to prediction or even adequate description, Natorp’s answer is that the second-order object is constructed in accordance with laws of thinking, which as laws are in their very nature objective, i.e., universally valid for any thinker. Therefore objects (*Gegenstände*) lawfully determined will in principle be rationally transparent to any other thinker, i.e., “objective” (*objektiv*, *gegenständlich*). Any such lawful objectivation or object-formation just is knowledge or science, in the sense of being objectively think*able*. These laws of constitution are in turn hierarchically arranged: the highest, most general laws are those governing all possible thinking, and thus the generation of all experience. These are followed by mathematics, and by all the mathematically “exact” sciences. As was shown in Section 3, Natorp conceives these laws (*Ge-setze*) as *essentially* “hypothetical”, that is, as categorial posits. With the apparent exception of the basic logical laws (e.g., the indispensable “law of laws”), *all* such laws are in principle revisable (which is chiefly why the determination of objectivities must be conceived as asymptotic) (Natorp 1887: 274; 276–277)[^natorp-1887].
 
-Hence, philosophy, as transcendental critique (see Section 1), is “sharply distinguished from any kind of ‘psychologism’” and “maintains its rigorously *objective* character” (Natorp 1912c: 198).[^note-31] Why? Because its point of departure is the *objective* “formations” [*Gestaltungen*] of human culture, *as objectivities*, not as products of subjective psychological operations (Natorp 1912c: 198). In other words, philosophy always begins from the second-order phenomena.
+Hence, philosophy, as transcendental critique (see Section 1), is “sharply distinguished from any kind of ‘psychologism’” and “maintains its rigorously *objective* character” (Natorp 1912c: 198)[^natorp-1912c].[^note-31] Why? Because its point of departure is the *objective* “formations” [*Gestaltungen*] of human culture, *as objectivities*, not as products of subjective psychological operations (Natorp 1912c: 198)[^natorp-1912c]. In other words, philosophy always begins from the second-order phenomena.
 
 ## 5. ‘Critical’ Psychology
 
-Although on Natorp’s view, the first-order phenomena of subjective psychological experience (*Erlebnis*) elude scientific understanding altogether, he wrote two significant works on what he calls “critical” psychology. Pure, unconceptualized subjectivity is the immediate condition of the psyche; but the “*logos*” of science just means “objectivity”. Hence, Natorp argues, there can be no “psycho-logy” in the strict sense of the term, for it would amount to the objectivation of subjectivity, and hence to the annihilation of the very thing a psychology would want to study: the psyche in its “natural” state (cf. Natorp, 1887: 283). Although there is no
+Although on Natorp’s view, the first-order phenomena of subjective psychological experience (*Erlebnis*) elude scientific understanding altogether, he wrote two significant works on what he calls “critical” psychology. Pure, unconceptualized subjectivity is the immediate condition of the psyche; but the “*logos*” of science just means “objectivity”. Hence, Natorp argues, there can be no “psycho-logy” in the strict sense of the term, for it would amount to the objectivation of subjectivity, and hence to the annihilation of the very thing a psychology would want to study: the psyche in its “natural” state (cf. Natorp, 1887: 283)[^natorp-1887]. Although there is no
 
-> immediate access to the immediacy of psychic experience, [yet] it can … be approached by a [methodical] regression from its objectivations, which must therefore [first] be secured in their own purely objective justification. (Natorp 1912c: 198)
+> immediate access to the immediacy of psychic experience, [yet] it can … be approached by a [methodical] regression from its objectivations, which must therefore [first] be secured in their own purely objective justification. (Natorp 1912c: 198)[^natorp-1912c]
 
 This is “critical” psychology in a nutshell. What Natorp means is this: there can be no *objective* “access” to immediate psychic experience, which is absolute subjectivity. Nonetheless, we can gain access to a *mediated* subjectivity, namely through the objects that have already been objectivated in (scientific) thinking.
 
@@ -111,7 +111,7 @@ Still, the common view, if one-sided, is not wrong, for the Marburg theory of hi
 
 The Marburg conception of genuine philosophy as *in the first place* a transcendental logic of natural science (cf. Cohen 1902: 445)[^cohen-1902] therefore restricts history to a history of “scientific idealism”.[^note-34] In rejecting the view that scientific progress is better understood exclusively from a “systematic” perspective, “detache[d] … from its historical bonds”, (Cohen 1902: 439)[^cohen-1902] Cohen remarks that the “very value and security of science is rooted in its own history, connected, as it were, with the general history of mind [*Geist*]” (Cohen 1916: 310)[^cohen-1916]. This sounds odd since we have heard again and again that science is rooted in its *method*, but now are told it is rooted in its history. Perhaps the paradox is only seeming, for there is an intimate connection between the Marburg School’s notion of hypothesis as the active posit of mind, on the one hand, and its notion of science as essentially historical, on the other. Their conception of the logic of science as the dynamic *Gang* of categorial hypotheses implies that science can only be grasped developmentally, i.e., historically.
 
-The Marburg view of that history differs in two important respects from Hegel’s, with which it might otherwise seem to have much in common: first, it is not based upon a sequence of conceptual contradiction and resolution; second, the history of science’s development is relativistic, that is, in principle incapable of achieving an “absolute” resolution (Natorp 1912c: 211, ff.). Let me focus on the first of these differences. For Hegel, history is the *linear* evolution of *Geist*’s self-knowledge through time; the further to the right you go, the more advanced the stage of (self-)consciousness. These stages—the “phenomena”—of *Geist* are inseparable from, indeed just are their cultural manifestations. Cohen and Natorp, too, take genuine history to be the history of rational self-consciousness, but for them this simply means reason’s transcendental, reflective consciousness of the basis of science, that is, method. This principle of lawfulness is in itself unchanging, eternal, atemporal; it is not expressed “in” phenomena, but instead makes possible and generates phenomena as such; and indeed (as we saw above) generates time itself as a condition of the possibilty of phenomena. Because its object—this rational insight into reason’s own principle—is essentially detached from time, history for the Marburg School is not conceived with respect to time. Of course science develops in time, and may be tracked diachronically along a time-line, yet its innermost core is the self-same atemporal idea, around which science *circles*, its progression represented by ever wider, but concentric orbits.[^note-35] Thus the history of science is itself *ideal*, in the sense of focusing solely upon those moments of reflective illumination when science becomes self-conscious—through philosophy—of its rational foundation or transcendental nucleus. Cohen writes: “In the history of every science the history of scientific reason in general always fulfills itself concentrically” (Cohen 1916: 310)[^cohen-1916]. He considers the fact that each of these moments of self-consciousness must occur in concrete circumstances and have a unique point on a real time-line to be as obvious as it is irrelevant.[^note-36]
+The Marburg view of that history differs in two important respects from Hegel’s, with which it might otherwise seem to have much in common: first, it is not based upon a sequence of conceptual contradiction and resolution; second, the history of science’s development is relativistic, that is, in principle incapable of achieving an “absolute” resolution (Natorp 1912c: 211, ff.)[^natorp-1912c]. Let me focus on the first of these differences. For Hegel, history is the *linear* evolution of *Geist*’s self-knowledge through time; the further to the right you go, the more advanced the stage of (self-)consciousness. These stages—the “phenomena”—of *Geist* are inseparable from, indeed just are their cultural manifestations. Cohen and Natorp, too, take genuine history to be the history of rational self-consciousness, but for them this simply means reason’s transcendental, reflective consciousness of the basis of science, that is, method. This principle of lawfulness is in itself unchanging, eternal, atemporal; it is not expressed “in” phenomena, but instead makes possible and generates phenomena as such; and indeed (as we saw above) generates time itself as a condition of the possibilty of phenomena. Because its object—this rational insight into reason’s own principle—is essentially detached from time, history for the Marburg School is not conceived with respect to time. Of course science develops in time, and may be tracked diachronically along a time-line, yet its innermost core is the self-same atemporal idea, around which science *circles*, its progression represented by ever wider, but concentric orbits.[^note-35] Thus the history of science is itself *ideal*, in the sense of focusing solely upon those moments of reflective illumination when science becomes self-conscious—through philosophy—of its rational foundation or transcendental nucleus. Cohen writes: “In the history of every science the history of scientific reason in general always fulfills itself concentrically” (Cohen 1916: 310)[^cohen-1916]. He considers the fact that each of these moments of self-consciousness must occur in concrete circumstances and have a unique point on a real time-line to be as obvious as it is irrelevant.[^note-36]
 
 The transcendental nucleus is method, and method is the meaning of idealism; hence, idealism is born when reason becomes self-conscious of its thinking as methodical and scientific.[^note-37] Since this birth has a historical locus, Cohen argues, “idealism’s historical origin … conditions idealism through its connection with the methodological foundation of science no less than its material origin in methodology” (Cohen 1916: 309)[^cohen-1916].[^note-38] Put another way, idealism connects with its methodological foundation *by* connecting with its historical origin (cf. Cohen 1902: 450)[^cohen-1902]. It follows that idealism has two related historical tasks: the primary task is to open and maintain a direct avenue to its origin. This involves the secondary task of retracing previous scientific connections to that same primal idealism, which alone can serve as the criterion of the “relatedness [*Verwandtheit*] of different phases of science” (cf. Cohen 1916: 310)[^cohen-1916]. The history of idealism is therefore not of its evolution (as is the history of science) but of its rebirths.
 
@@ -177,7 +177,7 @@ Cassirer, Ernst | Cohen, Hermann | Lotze, Hermann | Rickert, Heinrich | Windelba
 
 [^note-5]: This exchange is most strikingly exemplified by the debate at Davos between Heidegger and Cassirer in 1929, which some scholars have recently come to interpret as a referendum on the continued viability of Cohen’s philosophy. See esp. Friedman 2000; Kaegi and Rudolph 2000.
 
-[^note-6]: Of course, one of the complicating features of Cohen’s writing is that he expounded his own system in the form of an interpretation and “rational reconstruction” of Kant’s philosophy—a peculiar problem that also faces the reader of Natorp’s *Platos Ideenlehre* (=Natorp 1903b; 1921g; =*PI*). See Stolzenberg 1995: 21, ff. Cf. Poma 1997: Chs. 1; 3–6.
+[^note-6]: Of course, one of the complicating features of Cohen’s writing is that he expounded his own system in the form of an interpretation and “rational reconstruction” of Kant’s philosophy—a peculiar problem that also faces the reader of Natorp’s *Platos Ideenlehre* (=Natorp 1903b; 1921g; =*PI*)[^natorp-1903b]. See Stolzenberg 1995: 21, ff. Cf. Poma 1997: Chs. 1; 3–6.
 
 [^note-7]: The question of the Marburg School’s real, as opposed to its rhetorical, relationship to Hegel and especially Fichte is a separate issue. Much of Cohen’s and Natorp’s talk of *Ge-setz* and *Setzung* clearly owes a debt to Fichte. Cf. Natorp 1921f: 167; Laks 1994: 27 et passim.
 
@@ -223,11 +223,11 @@ Cassirer, Ernst | Cohen, Hermann | Lotze, Hermann | Rickert, Heinrich | Windelba
 
 [^note-28]: In this, Natorp anticipates Carnap’s later distinction between formal, intuitive, and physical space; cf. Carnap 1922; Friedman 2000: 64, et passim.
 
-[^note-29]: Phillips and Kolb (Natorp 1981) translate this term as “phenomenon of final appeal”.
+[^note-29]: Phillips and Kolb (Natorp 1981)[^natorp-1981] translate this term as “phenomenon of final appeal”.
 
-[^note-30]: Natorp 1887: 276–277. Because for Natorp no object is ever given in sensibility, but is constructed by thinking, it follows that subject and object are not separate, independent entities that may enter into a special relation called cognition; rather, they are essentially correlative concepts (Natorp 1912c: 208, ff.) This holds for both orders of objectivity. The correlate to doxic phenomenality is subjectivity in the standard sense: the sensible representations are bound to an “I”. The correlate to scientific or true cognitive objectivity is what one might call the scientific or transcendental subject. This subject is not an “I”, but is anonymous, to be identified with the method itself. The common element in both orders of subjectivity is that, because the objectivities are in constant though regulated flux and evolution, the subject, as the correlate, must also continuously change. Hence Natorp’s philosophy introduces a radical fluidity into the notions of subject and object (cf. Natorp 1912c: 208). At the same time, because the objectivities are in constant flux, their hypothetical groundworks are as well: Kant’s categorial “system” becomes fluid, but not chaotic, for it is strictly bound by correlation to the concrete sciences (Natorp 1912c: 209. Cf. esp. Cassirer 1925: 291, ff.)[^cassirer-1925].
+[^note-30]: Natorp 1887: 276–277. Because for Natorp no object is ever given in sensibility, but is constructed by thinking, it follows that subject and object are not separate, independent entities that may enter into a special relation called cognition; rather, they are essentially correlative concepts (Natorp 1912c: 208, ff.)[^natorp-1912c] This holds for both orders of objectivity. The correlate to doxic phenomenality is subjectivity in the standard sense: the sensible representations are bound to an “I”. The correlate to scientific or true cognitive objectivity is what one might call the scientific or transcendental subject. This subject is not an “I”, but is anonymous, to be identified with the method itself. The common element in both orders of subjectivity is that, because the objectivities are in constant though regulated flux and evolution, the subject, as the correlate, must also continuously change. Hence Natorp’s philosophy introduces a radical fluidity into the notions of subject and object (cf. Natorp 1912c: 208)[^natorp-1912c]. At the same time, because the objectivities are in constant flux, their hypothetical groundworks are as well: Kant’s categorial “system” becomes fluid, but not chaotic, for it is strictly bound by correlation to the concrete sciences (Natorp 1912c: 209. Cf. esp. Cassirer 1925: 291, ff.)[^natorp-1912c][^cassirer-1925].
 
-[^note-31]: Natorp’s (1887) is the *locus classicus* of Marburg anti-psychologism; the secondary literature, which traditionally begins with Frege and Husserl, has overlooked this text.
+[^note-31]: Natorp’s (1887)[^natorp-1887] is the *locus classicus* of Marburg anti-psychologism; the secondary literature, which traditionally begins with Frege and Husserl, has overlooked this text.
 
 [^note-32]: For more detailed discussion, see Kim 2007; Dahlstrom 2015; and Kim forthcoming.
 
@@ -259,17 +259,17 @@ This quotation should be read as a reproach of the Southwest neo-Kantians.
 
 [^this-1994]: This bibliography is based substantially on that of Lembeck’s (1994), with various corrections and additions.
 
-[^this-2013]: 2013, *Allgemeine Psychologie nach kritischer Methode*, Darmstadt: Wissenschaftliche Buchgesellschaft. With new introduction and notes by S. Luft.
+[^natorp-2013]: 2013, *Allgemeine Psychologie nach kritischer Methode*, Darmstadt: Wissenschaftliche Buchgesellschaft. With new introduction and notes by S. Luft.
 
-[^this-2004a]: 2004a, *Platos Ideenlehre: Eine Einführung in den Idealismus* (=*PI*), Hamburg: Meiner. Reprint of second edition (1921g/1994).
+[^natorp-2004a]: 2004a, *Platos Ideenlehre: Eine Einführung in den Idealismus* (=*PI*), Hamburg: Meiner. Reprint of second edition (1921g/1994).
 
-[^this-2004b]: 2004b, *Plato’s Theory of Ideas: An Introduction to Idealism*, Vasilis Politis (ed.), Vasilis Politis and John Connolly (trans.), Sankt Augustin: Akademia Verlag.
+[^natorp-2004b]: 2004b, *Plato’s Theory of Ideas: An Introduction to Idealism*, Vasilis Politis (ed.), Vasilis Politis and John Connolly (trans.), Sankt Augustin: Akademia Verlag.
 
-[^this-1994-2]: 1994, *Platos Ideenlehre: Eine Einführung in den Idealismus*, Hamburg: Meiner. Reprint of second edition (1921g).
+[^natorp-1994]: 1994, *Platos Ideenlehre: Eine Einführung in den Idealismus*, Hamburg: Meiner. Reprint of second edition (1921g).
 
-[^this-1986a]: 1986a, Letters from and to Natorp (1883–1921), as well as other documents, in Holzhey 1986: vol. 2, pp. 141–496.
+[^natorp-1986a]: 1986a, Letters from and to Natorp (1883–1921), as well as other documents, in Holzhey 1986: vol. 2, pp. 141–496.
 
-[^this-1986b]: 1986b, Manuscripts from the *Nachlass*, in Holzhey 1986: vol. 2, pp. 5–140. They include:
+[^natorp-1986b]: 1986b, Manuscripts from the *Nachlass*, in Holzhey 1986: vol. 2, pp. 5–140. They include:
 
 [^zu-nd]: “Zu Cohens Logik”
 
@@ -281,37 +281,37 @@ This quotation should be read as a reproach of the Southwest neo-Kantians.
 
 [^zu-nd-3]: “Zu Cohens Religionsphilosophie”
 
-[^zu-1985]: 1985, *Pädagogik und Philosophie. Drei pädagogische Abhandlungen*, W. Fischer (ed.), Paderborn: Schöningh.
+[^natorp-1985]: 1985, *Pädagogik und Philosophie. Drei pädagogische Abhandlungen*, W. Fischer (ed.), Paderborn: Schöningh.
 
-[^zu-1981]: 1981, “On the Objective and Subjective Grounding of Knowledge”, L. Phillips and D. Kolb (trans.), *Journal of the British Society for Phenomenology*, 12(3): 245–266.
+[^natorp-1981]: 1981, “On the Objective and Subjective Grounding of Knowledge”, L. Phillips and D. Kolb (trans.), *Journal of the British Society for Phenomenology*, 12(3): 245–266.
 
-[^zu-1973]: 1973, “Über die Ideen E. Husserls”, in Hermann Noack (ed.), *Husserl*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+[^natorp-1973]: 1973, “Über die Ideen E. Husserls”, in Hermann Noack (ed.), *Husserl*, Darmstadt: Wissenschaftliche Buchgesellschaft.
 
-[^zu-1965]: 1965, *Allgemeine Psychologie*, Amsterdam: Bonset. Reprint of 1912e
+[^natorp-1965]: 1965, *Allgemeine Psychologie*, Amsterdam: Bonset. Reprint of 1912e
 
-[^zu-1958]: 1958, *Philosophische Systematik*, Hans Natorp (ed.), Hamburg: Felix Meiner Verlag. Reissued 2000.
+[^natorp-1958]: 1958, *Philosophische Systematik*, Hans Natorp (ed.), Hamburg: Felix Meiner Verlag. Reissued 2000.
 
-[^zu-1947]: 1947, “Geist und Gewalt in der Erziehung”, Bad Pyrmont: Friedrich Verlag.
+[^natorp-1947]: 1947, “Geist und Gewalt in der Erziehung”, Bad Pyrmont: Friedrich Verlag.
 
-[^zu-1925a]: 1925a, *Praktische Philosophie*, Erlangen: Verlag der philosophischen Akademie.
+[^natorp-1925a]: 1925a, *Praktische Philosophie*, Erlangen: Verlag der philosophischen Akademie.
 
-[^zu-1925b]: 1925b, *Vorlesungen über Praktische Philosophie*, Erlangen: Verlag der philosophischen Akademie.
+[^natorp-1925b]: 1925b, *Vorlesungen über Praktische Philosophie*, Erlangen: Verlag der philosophischen Akademie.
 
-[^zu-1925c]: 1925c, “Brief an Hans Prager, Frühjahr 1924”, in “Hans Prager, Paul Natorp und das Problem der Religionsphilosophie”, *Logos*, 13: 186–190.
+[^natorp-1925c]: 1925c, “Brief an Hans Prager, Frühjahr 1924”, in “Hans Prager, Paul Natorp und das Problem der Religionsphilosophie”, *Logos*, 13: 186–190.
 
-[^zu-1923]: 1923, “Fjedor Dostojewskis Bedeutung für die gegenwärtige Kulturkrisis”, Jena: Diederichs.
+[^natorp-1923]: 1923, “Fjedor Dostojewskis Bedeutung für die gegenwärtige Kulturkrisis”, Jena: Diederichs.
 
-[^zu-1922]: 1922, Expanded edition of Natorp 1907c. Stuttgart: Frommann.
+[^natorp-1922]: 1922, Expanded edition of Natorp 1907c. Stuttgart: Frommann.
 
-[^zu-1921a]: 1921a, *Individuum und Gemeinschaft. Mit einem Anhang, ‘Vom echten Tode’*, Jena: E. Diederichs.
+[^natorp-1921a]: 1921a, *Individuum und Gemeinschaft. Mit einem Anhang, ‘Vom echten Tode’*, Jena: E. Diederichs.
 
-[^zu-1921b]: 1921b, “Stunden mit Rabindranath Thakkur [Tagore]”, Jena: Diederichs.
+[^natorp-1921b]: 1921b, “Stunden mit Rabindranath Thakkur [Tagore]”, Jena: Diederichs.
 
-[^zu-1921c]: 1921c, “Beethoven und Wir”, Marburg: Elwert.
+[^natorp-1921c]: 1921c, “Beethoven und Wir”, Marburg: Elwert.
 
-[^zu-1921d]: 1921d, Review of U. Wilamowitz-Moellendorff’s *Platon* (Berlin, 1921), *Frankfurter Zeitung*, 26 June 1921.
+[^natorp-1921d]: 1921d, Review of U. Wilamowitz-Moellendorff’s *Platon* (Berlin, 1921), *Frankfurter Zeitung*, 26 June 1921.
 
-[^zu-1921e]: 1921e, Review of C. Siegel’s *Platon und Sokrates*, *Frankfurter Zeitung*, 13 March 1921.
+[^natorp-1921e]: 1921e, Review of C. Siegel’s *Platon und Sokrates*, *Frankfurter Zeitung*, 13 March 1921.
 
 [^natorp-1921]: 1921f, “Natorp, Paul”, in Schmidt 1921: 151–176.
 
@@ -319,163 +319,163 @@ This quotation should be read as a reproach of the Southwest neo-Kantians.
 
 [^second-1910c]: 1921h, Second edition of Natorp 1910c; reissued, 1969: Wiesbaden: Sändig.
 
-[^second-1920a]: 1920a, *Sozialidealismus. Neue Richtlinien sozialer Erziehung*, Berlin: Springer.
+[^natorp-1920a]: 1920a, *Sozialidealismus. Neue Richtlinien sozialer Erziehung*, Berlin: Springer.
 
-[^second-1920b]: 1920b, *Genossenschaftliche Erziehung als Grundlage zum Neubau des Volkstums und des Menschentums. Thesen nebst Einleitung*, Berlin: Springer.
+[^natorp-1920b]: 1920b, *Genossenschaftliche Erziehung als Grundlage zum Neubau des Volkstums und des Menschentums. Thesen nebst Einleitung*, Berlin: Springer.
 
-[^second-1920c]: 1920c, “Was sollen wir denn tun?” *Der Kunstwart*, 242–249.
+[^natorp-1920c]: 1920c, “Was sollen wir denn tun?” *Der Kunstwart*, 242–249.
 
-[^second-1919a]: 1919a, *Der Idealismus Pestalozzis. Eine Neuuntersuchung der philosophischen Grundlagen seiner Erziehungslehre*, Leipzig: Meiner.
+[^natorp-1919a]: 1919a, *Der Idealismus Pestalozzis. Eine Neuuntersuchung der philosophischen Grundlagen seiner Erziehungslehre*, Leipzig: Meiner.
 
-[^second-1919b]: 1919b, *Die Einheitsschule. Eine Auseinandersetzung mit Herrn Prof. Ferdinand Jakob Schmidt*, Berlin: Union Deutsche Verlags-Gesellschaft.
+[^natorp-1919b]: 1919b, *Die Einheitsschule. Eine Auseinandersetzung mit Herrn Prof. Ferdinand Jakob Schmidt*, Berlin: Union Deutsche Verlags-Gesellschaft.
 
-[^second-1918a]: 1918a, “Hermann Cohens philosophische Leistung unter dem Gesichtspunkte des Systems”, *Philosophische Vorträge veröffentlicht von der Kant-Gesellschaft*, 21, A. Liebert (ed.), Berlin: Reuther & Reichard.
+[^natorp-1918a]: 1918a, “Hermann Cohens philosophische Leistung unter dem Gesichtspunkte des Systems”, *Philosophische Vorträge veröffentlicht von der Kant-Gesellschaft*, 21, A. Liebert (ed.), Berlin: Reuther & Reichard.
 
-[^second-1918b]: 1918b, “Hermann Cohen als Mensch, Lehrer und Forscher”, Marburg: Elwert.
+[^natorp-1918b]: 1918b, “Hermann Cohen als Mensch, Lehrer und Forscher”, Marburg: Elwert.
 
-[^second-1918c]: 1918c, *Deutscher Weltberuf. Geschichtsphilosophische Richtlinien*, Vol. 1: “Die Weltalter des Geistes”, Vol. 2: “Die Seele des Deutschen”, Jena: Diederichs.
+[^natorp-1918c]: 1918c, *Deutscher Weltberuf. Geschichtsphilosophische Richtlinien*, Vol. 1: “Die Weltalter des Geistes”, Vol. 2: “Die Seele des Deutschen”, Jena: Diederichs.
 
-[^second-1918d]: 1918d, “Student und Weltanschauung”, Jena: Diederichs.
+[^natorp-1918d]: 1918d, “Student und Weltanschauung”, Jena: Diederichs.
 
-[^second-1918e]: 1918e, “Bruno Bauchs ‘Immanuel Kant’ und die Fortbildung des Systems des Kritischen Idealismus”, *Kant-Studien*, 22: 426–459.
+[^natorp-1918e]: 1918e, “Bruno Bauchs ‘Immanuel Kant’ und die Fortbildung des Systems des Kritischen Idealismus”, *Kant-Studien*, 22: 426–459.
 
-[^second-1915a]: 1915a, *Der Tag der Deutschen. Vier Kriegsaufsätze*, Hagen: O Rippel.
+[^natorp-1915a]: 1915a, *Der Tag der Deutschen. Vier Kriegsaufsätze*, Hagen: O Rippel.
 
-[^second-1915b]: 1915b, *Krieg und Friede. Drei Reden*, Munich: Dürerbund.
+[^natorp-1915b]: 1915b, *Krieg und Friede. Drei Reden*, Munich: Dürerbund.
 
-[^second-1915c]: 1915c, Review of H. V. Arnim’s *Platos Jugendjahre und die Entstehungszeit des Phaidros* (Leipzig, 1914), *Literarisches Zentralblatt für Deutschland*, columns 486–488.
+[^natorp-1915c]: 1915c, Review of H. V. Arnim’s *Platos Jugendjahre und die Entstehungszeit des Phaidros* (Leipzig, 1914), *Literarisches Zentralblatt für Deutschland*, columns 486–488.
 
-[^second-1915d]: 1915d, “Geschichtsphilosophische Grundlegung für das Verständnis unserer Zeit”, *Der Kunstwart*: 98–102.
+[^natorp-1915d]: 1915d, “Geschichtsphilosophische Grundlegung für das Verständnis unserer Zeit”, *Der Kunstwart*: 98–102.
 
-[^second-1915e]: 1915e, “Zu Cohens Religionsphilosophie”, in Holzhey 1986: vol. 2, pp. 105–140.
+[^natorp-1915e]: 1915e, “Zu Cohens Religionsphilosophie”, in Holzhey 1986: vol. 2, pp. 105–140.
 
-[^second-1914a]: 1914a, Review of M. Wundt’s *Platons Leben und Werk* (Jena 1914), *Literarisches Zentralblatt für Deutschland*, columns 1315–1317.
+[^natorp-1914a]: 1914a, Review of M. Wundt’s *Platons Leben und Werk* (Jena 1914), *Literarisches Zentralblatt für Deutschland*, columns 1315–1317.
 
-[^second-1914b]: 1914b, Review of M. Pohlenz’s *Aus Platos Werdezeit. Philosophische Untersuchungen* (Berlin 1913), *Literarisches Zentralblatt für Deutschland*, 4: columns 140–142.
+[^natorp-1914b]: 1914b, Review of M. Pohlenz’s *Aus Platos Werdezeit. Philosophische Untersuchungen* (Berlin 1913), *Literarisches Zentralblatt für Deutschland*, 4: columns 140–142.
 
-[^second-1914c]: 1914c, “Über Platos Ideenlehre”, Berlin: Reuther und Reichard.
+[^natorp-1914c]: 1914c, “Über Platos Ideenlehre”, Berlin: Reuther und Reichard.
 
-[^second-1914d]: 1914d, “Hoffnungen und Gefahren unserer Jugendbewegung”, Jena: Diederichs.
+[^natorp-1914d]: 1914d, “Hoffnungen und Gefahren unserer Jugendbewegung”, Jena: Diederichs.
 
-[^second-1913a]: 1913a, “Recht und Sittlichkeit. Ein Beitrag zur kategorialen Begründung der praktischen Philosophie”, *Kant-Studien*, 18: 1–79.
+[^natorp-1913a]: 1913a, “Recht und Sittlichkeit. Ein Beitrag zur kategorialen Begründung der praktischen Philosophie”, *Kant-Studien*, 18: 1–79.
 
-[^second-1913b]: 1913b, “Philosophie und Psychologie”, *Logos*, 4(2): 176–202.
+[^natorp-1913b]: 1913b, “Philosophie und Psychologie”, *Logos*, 4(2): 176–202.
 
-[^second-1912a]: 1912a, “Willensfreiheit und Verantwortlichkeit”, in Natorp 1912b: 203–222.
+[^natorp-1912a]: 1912a, “Willensfreiheit und Verantwortlichkeit”, in Natorp 1912b: 203–222.
 
-[^second-1912b]: 1912b, (ed.) *Philosophische Abhandlungen. H. Cohen zum 70. Geburtstag*, Berlin.
+[^natorp-1912b]: 1912b, (ed.) *Philosophische Abhandlungen. H. Cohen zum 70. Geburtstag*, Berlin.
 
-[^second-1912c]: 1912c, “Kant und die Marburger Schule”, in *Kant-Studien*, 17: 193–221. Reprinted by Reuther & Reichard, Berlin, as a separate offprint from *Kant-Studien*.
+[^natorp-1912c]: 1912c, “Kant und die Marburger Schule”, in *Kant-Studien*, 17: 193–221. Reprinted by Reuther & Reichard, Berlin, as a separate offprint from *Kant-Studien*.
 
-[^second-1912d]: 1912d, “Allgemeine Logik”, in Holzhey and Flach 1980: 227–264.[^note-43]
+[^natorp-1912d]: 1912d, “Allgemeine Logik”, in Holzhey and Flach 1980: 227–264.[^note-43]
 
-[^second-1912e]: 1912e, *Allgemeine Psychologie nach kritischer Methode*, Tübingen: Mohr (Siebeck).
+[^natorp-1912e]: 1912e, *Allgemeine Psychologie nach kritischer Methode*, Tübingen: Mohr (Siebeck).
 
-[^second-1911a]: 1911a, *Philosophie. Ihr Problem und ihre Probleme*, Göttingen: Vandenhoeck & Ruprecht. 1918 second edition; 1921 reprint of 1918.
+[^natorp-1911a]: 1911a, *Philosophie. Ihr Problem und ihre Probleme*, Göttingen: Vandenhoeck & Ruprecht. 1918 second edition; 1921 reprint of 1918.
 
-[^second-1911b]: 1911b, *Volkskultur und Persönlichkeitskultur*, Sechs Vorträge, Leipzig: Quelle und Meyer.
+[^natorp-1911b]: 1911b, *Volkskultur und Persönlichkeitskultur*, Sechs Vorträge, Leipzig: Quelle und Meyer.
 
-[^second-1911c]: 1911c, “Platon”, in *Große Denker*, vol. 1: 93–152, E.V. Aster (ed.), Leipzig: Quelle und Meyer; 1921: 107–169.
+[^natorp-1911c]: 1911c, “Platon”, in *Große Denker*, vol. 1: 93–152, E.V. Aster (ed.), Leipzig: Quelle und Meyer; 1921: 107–169.
 
-[^second-1911d]: 1911d, “Zur platonischen Frage”, Reviews in *Deutsche Literaturzeitung*, 32: columns 1669–1677.
+[^natorp-1911d]: 1911d, “Zur platonischen Frage”, Reviews in *Deutsche Literaturzeitung*, 32: columns 1669–1677.
 
-[^second-1911e]: 1911e, “*Genesis der platonischen Philosophie*”, in Gaiser 1969: 58–95.
+[^natorp-1911e]: 1911e, “*Genesis der platonischen Philosophie*”, in Gaiser 1969: 58–95.
 
-[^second-1910a]: 1910a, Review of L. Robin’s *La théorie platonicienne de l’amour* (Paris, 1908), *Deutsche Literaturzeitung*, columns 1748–1750.
+[^natorp-1910a]: 1910a, Review of L. Robin’s *La théorie platonicienne de l’amour* (Paris, 1908), *Deutsche Literaturzeitung*, columns 1748–1750.
 
-[^second-1910b]: 1910b, “Neue französische und englische Schriften zur platonischen Ideenlehre”, *Deutsche Literaturzeitung*, columns 1285–1295; 1349–1356.
+[^natorp-1910b]: 1910b, “Neue französische und englische Schriften zur platonischen Ideenlehre”, *Deutsche Literaturzeitung*, columns 1285–1295; 1349–1356.
 
-[^second-1910c-2]: 1910c, *Die logischen Grundlagen der exakten Wissenschaften*, Leipzig: Teubner. 1921.
+[^natorp-1910c]: 1910c, *Die logischen Grundlagen der exakten Wissenschaften*, Leipzig: Teubner. 1921.
 
-[^second-1909a]: 1909a, *Philosophie und Pädagogik. Untersuchungen auf ihrem Grenzgebiet*, Marburg: Elwert.
+[^natorp-1909a]: 1909a, *Philosophie und Pädagogik. Untersuchungen auf ihrem Grenzgebiet*, Marburg: Elwert.
 
-[^second-1909b]: 1909b, *Pestalozzi. Sein Leben und seine Ideen*, Leipzig: Teubner. 1919.
+[^natorp-1909b]: 1909b, *Pestalozzi. Sein Leben und seine Ideen*, Leipzig: Teubner. 1919.
 
-[^second-1908a]: 1908a, “Volk und Schule Preußens vor 100 Jahren. Eine Rede”, Gießen: Töpelmann.
+[^natorp-1908a]: 1908a, “Volk und Schule Preußens vor 100 Jahren. Eine Rede”, Gießen: Töpelmann.
 
-[^second-1908b]: 1908b, “Über Philosophie, Geschichte und Philosophie der Geschichte”, *Historische Zeitschrift*, 100: 564–584.
+[^natorp-1908b]: 1908b, “Über Philosophie, Geschichte und Philosophie der Geschichte”, *Historische Zeitschrift*, 100: 564–584.
 
-[^second-1908]: 1908, “Religion innerhalb der Grenzen der Humanität”, Tübingen: Mohr.
+[^natorp-1908]: 1908, “Religion innerhalb der Grenzen der Humanität”, Tübingen: Mohr.
 
-[^second-1907a]: 1907a, Review of S. Sabbadini’s *Epoca del Gorgia di Platone* (Trieste, 1903), *Deutsche Literaturzeitung*, 3, column 149, f.
+[^natorp-1907a]: 1907a, Review of S. Sabbadini’s *Epoca del Gorgia di Platone* (Trieste, 1903), *Deutsche Literaturzeitung*, 3, column 149, f.
 
-[^second-1907b]: 1907b, “Platos Erziehungslehre”, *Reins Enzyklopädisches Handbuch der Pädagogik*, vol. 5: 884–902.
+[^natorp-1907b]: 1907b, “Platos Erziehungslehre”, *Reins Enzyklopädisches Handbuch der Pädagogik*, vol. 5: 884–902.
 
-[^second-1907c]: 1907c, *Gesammelte Abhandlungen zur Sozialpädagogik*, Stuttgart: Frommann. 1922.
+[^natorp-1907c]: 1907c, *Gesammelte Abhandlungen zur Sozialpädagogik*, Stuttgart: Frommann. 1922.
 
-[^second-1906]: 1906, “Jemand und Ich. Ein Gespräch über Monismus, Ethik und Christentum”, Stuttgart: Frommann.
+[^natorp-1906]: 1906, “Jemand und Ich. Ein Gespräch über Monismus, Ethik und Christentum”, Stuttgart: Frommann.
 
-[^second-1905]: 1905, *Allgemeine Pädagogik in Leitsätzen zu akademischen Vorlesungen*, Marburg: Elwert. 1913. 1927. Partially reprinted as “Philosophische Grundlegung der Pädagogik” in Ollig 1982: 97–126.
+[^natorp-1905]: 1905, *Allgemeine Pädagogik in Leitsätzen zu akademischen Vorlesungen*, Marburg: Elwert. 1913. 1927. Partially reprinted as “Philosophische Grundlegung der Pädagogik” in Ollig 1982: 97–126.
 
-[^second-1904a]: 1904a, *Zum Gedächtnis Kants*, Leipzig: Klinkhardt.
+[^natorp-1904a]: 1904a, *Zum Gedächtnis Kants*, Leipzig: Klinkhardt.
 
-[^second-1904b]: 1904b, *Logik. Grundlegung und logischer Aufbau der Mathematik und mathematischen Naturwissenschaften in Leitsätzen zu akademischen Vorlesungen*, Marburg: Elwert. 1910.
+[^natorp-1904b]: 1904b, *Logik. Grundlegung und logischer Aufbau der Mathematik und mathematischen Naturwissenschaften in Leitsätzen zu akademischen Vorlesungen*, Marburg: Elwert. 1910.
 
-[^second-1903a]: 1903a, *Philosophische Propädeutik*, Marburg: Elwert. 1909. 1914.
+[^natorp-1903a]: 1903a, *Philosophische Propädeutik*, Marburg: Elwert. 1909. 1914.
 
-[^second-1903b]: 1903b, *Platos Ideenlehre: Eine Einführung in den Idealismus*, Leipzig: Dürr.
+[^natorp-1903b]: 1903b, *Platos Ideenlehre: Eine Einführung in den Idealismus*, Leipzig: Dürr.
 
-[^second-1902a]: 1902a, “Zu Cohens Logik (1902–1909)”, in Holzhey 1986, vol. 2: 43–78.
+[^natorp-1902a]: 1902a, “Zu Cohens Logik (1902–1909)”, in Holzhey 1986, vol. 2: 43–78.
 
-[^second-1902b]: 1902b, “Zu Cohens Logik”, in Holzhey 1986, vol. 2: 6–40.
+[^natorp-1902b]: 1902b, “Zu Cohens Logik”, in Holzhey 1986, vol. 2: 6–40.
 
-[^second-1902c]: 1902c, Review of Wecklein’s *Platonische Studien* (Munich, 1900), *Berliner philologische Wochenschrift*, 5, columns 129–132.
+[^natorp-1902c]: 1902c, Review of Wecklein’s *Platonische Studien* (Munich, 1900), *Berliner philologische Wochenschrift*, 5, columns 129–132.
 
-[^second-1901a]: 1901a, “Was uns die Griechen sind. Akademische Festrede zur Feier des 200-jährigen Bestehens des Königreiches Preußen, gehalten am 18. Jan. 1901, Marburg”, Reprinted in 1909a (327–351, first edition only), Marburg: Elwert.
+[^natorp-1901a]: 1901a, “Was uns die Griechen sind. Akademische Festrede zur Feier des 200-jährigen Bestehens des Königreiches Preußen, gehalten am 18. Jan. 1901, Marburg”, Reprinted in 1909a (327–351, first edition only), Marburg: Elwert.
 
-[^second-1901b]: 1901b, “Zur Frage der logischen Methode. Mit Beziehung auf Edm. Husserls ‘Prolegomena zur reinen Logik’”, *Kant-Studien*, 6: 270–283.
+[^natorp-1901b]: 1901b, “Zur Frage der logischen Methode. Mit Beziehung auf Edm. Husserls ‘Prolegomena zur reinen Logik’”, *Kant-Studien*, 6: 270–283.
 
-[^second-1901c]: 1901c, “Zu den logischen Grundlagen der neueren Mathematik”, *Archiv für systematische Philosophie*: 177, ff., 372, ff.
+[^natorp-1901c]: 1901c, “Zu den logischen Grundlagen der neueren Mathematik”, *Archiv für systematische Philosophie*: 177, ff., 372, ff.
 
-[^second-1901d]: 1901d, Review of G. Finsler’s *Platon und die Aristotelische Poetik* (Leipzig, 1900), *Berliner philologische Wochenschrift*, 30, columns 929–935.
+[^natorp-1901d]: 1901d, Review of G. Finsler’s *Platon und die Aristotelische Poetik* (Leipzig, 1900), *Berliner philologische Wochenschrift*, 30, columns 929–935.
 
-[^second-1901e]: 1901e, *Pädagogische Psychologie in Leitsätzen zu Vorträgen*, Marburg: Elwert.
+[^natorp-1901e]: 1901e, *Pädagogische Psychologie in Leitsätzen zu Vorträgen*, Marburg: Elwert.
 
-[^second-1900]: 1900, “Platos *Phädrus*”, *Hermes*, 35: 385–436.
+[^natorp-1900]: 1900, “Platos *Phädrus*”, *Hermes*, 35: 385–436.
 
-[^second-1899a]: 1899a, “Untersuchungen über Platos Phaedrus und Theaetet”, *Archiv für Geschichte der Philosophie*, NS 5: 1–49; 159–186. NS 6 (1900): 1–22.
+[^natorp-1899a]: 1899a, “Untersuchungen über Platos Phaedrus und Theaetet”, *Archiv für Geschichte der Philosophie*, NS 5: 1–49; 159–186. NS 6 (1900): 1–22.
 
-[^second-1899b]: 1899b, *Sozialpädagogik. Theorie der Willensbildung auf der Grundlage der Gemeinschaft*, Stuttgart: Frommann. 1922.
+[^natorp-1899b]: 1899b, *Sozialpädagogik. Theorie der Willensbildung auf der Grundlage der Gemeinschaft*, Stuttgart: Frommann. 1922.
 
-[^second-1899c]: 1899c, *Herbart, Pestalozzi und die heutigen Aufgaben der Erziehungslehre*, Stuttgart: Frommann.
+[^natorp-1899c]: 1899c, *Herbart, Pestalozzi und die heutigen Aufgaben der Erziehungslehre*, Stuttgart: Frommann.
 
-[^second-1898]: 1898, “Über die Methode der Chronologie platonischer Schriften nach sprachlichen Kriterien”, *Archiv für Geschichte der Philosophie*, NS 4: 461–464.
+[^natorp-1898]: 1898, “Über die Methode der Chronologie platonischer Schriften nach sprachlichen Kriterien”, *Archiv für Geschichte der Philosophie*, NS 4: 461–464.
 
-[^second-1897]: 1897, “Die Entwicklung Descartes’ von den ‘Regeln’ bis zu den ‘Meditationen’”, *Archiv für Geschichte der Philosophie*, NS 3: 10–28.
+[^natorp-1897]: 1897, “Die Entwicklung Descartes’ von den ‘Regeln’ bis zu den ‘Meditationen’”, *Archiv für Geschichte der Philosophie*, NS 3: 10–28.
 
-[^second-1896]: 1896, “Ist das Sittengesetz ein Naturgesetz?” *Archiv für systematische Philosophie*, 2: 235–253.
+[^natorp-1896]: 1896, “Ist das Sittengesetz ein Naturgesetz?” *Archiv für systematische Philosophie*, 2: 235–253.
 
-[^second-1895]: 1895., “Platons Staat und die Idee der Sozialpädagogik”, *Archiv für soziale Gesetzgebung und Statistik*, 8: 140, ff. Reprinted in Natorp 1922: 7–42.
+[^natorp-1895]: 1895., “Platons Staat und die Idee der Sozialpädagogik”, *Archiv für soziale Gesetzgebung und Statistik*, 8: 140, ff. Reprinted in Natorp 1922: 7–42.
 
-[^second-1894a]: 1894a, Review of O. Apelt’s *Beiträge zur Geschichte der griechischen Philosophie* (Leipzig, 1891), *Philosophische Monatshefte*, 30: 62–81.
+[^natorp-1894a]: 1894a, Review of O. Apelt’s *Beiträge zur Geschichte der griechischen Philosophie* (Leipzig, 1891), *Philosophische Monatshefte*, 30: 62–81.
 
-[^second-1894b]: 1894b, “Über Sokrates”, *Philosophische Monatshefte*, 30: 337–370.
+[^natorp-1894b]: 1894b, “Über Sokrates”, *Philosophische Monatshefte*, 30: 337–370.
 
-[^second-1894c]: 1894c, *Religion innerhalb der Grenzen der Humanität*, Tübingen: Mohr. 1908.
+[^natorp-1894c]: 1894c, *Religion innerhalb der Grenzen der Humanität*, Tübingen: Mohr. 1908.
 
-[^second-1893a]: 1893a, “Zu den Vorfragen der Psychologie”, *Philosophische Monatshefte*, 29: 581–611.
+[^natorp-1893a]: 1893a, “Zu den Vorfragen der Psychologie”, *Philosophische Monatshefte*, 29: 581–611.
 
-[^second-1893b]: 1893b, *Die Ethika des Demokritos*, Marburg: Elwert.
+[^natorp-1893b]: 1893b, *Die Ethika des Demokritos*, Marburg: Elwert.
 
-[^second-1891a]: 1891a, “Literaturbericht (zur Geschichte der alten Philosophie)”, *Philosophische Monatshefte*, 27: 476–489; 615–621.
+[^natorp-1891a]: 1891a, “Literaturbericht (zur Geschichte der alten Philosophie)”, *Philosophische Monatshefte*, 27: 476–489; 615–621.
 
-[^second-1891b]: 1891b, Review of C. Baeumker’s *Das Problem der Materie in der griechischen Philosophie* (Münster, 1890), *Philosophische Monatshefte*, 27: 458–475.
+[^natorp-1891b]: 1891b, Review of C. Baeumker’s *Das Problem der Materie in der griechischen Philosophie* (Münster, 1890), *Philosophische Monatshefte*, 27: 458–475.
 
-[^second-1891c]: 1891c, Review of K. Lasswitz’s *Geschichte der Atomistik vom Mittelalter bis Newton* (2 vols., Leipzig, 1890). *Philosophische Monatshefte* 27: 334.
+[^natorp-1891c]: 1891c, Review of K. Lasswitz’s *Geschichte der Atomistik vom Mittelalter bis Newton* (2 vols., Leipzig, 1890). *Philosophische Monatshefte* 27: 334.
 
-[^second-1891d]: 1891d, “Protagoras und sein ‘Doppelgänger’”, *Philologus*, NS 4: 262–287.
+[^natorp-1891d]: 1891d, “Protagoras und sein ‘Doppelgänger’”, *Philologus*, NS 4: 262–287.
 
-[^second-1891e]: 1891e, “Quantität und Qualität in Begriff, Urteil und gegenständlicher Erkenntnis”, *Philosophische Monatshefte*, 27: 1–32; 129–160.
+[^natorp-1891e]: 1891e, “Quantität und Qualität in Begriff, Urteil und gegenständlicher Erkenntnis”, *Philosophische Monatshefte*, 27: 1–32; 129–160.
 
-[^second-1890a]: 1890a, “Literaturbericht (zu Windelband, Zeller, Siebeck)”, *Philosophische Monatshefte*, 26: 356–366. See below.
+[^natorp-1890a]: 1890a, “Literaturbericht (zu Windelband, Zeller, Siebeck)”, *Philosophische Monatshefte*, 26: 356–366. See below.
 
-[^second-1890b]: 1890b, Review of F. Dümmler’s *Akademika. Beiträge zur Literaturgeschichte der sokratischen Schulen* (Gießen, 1889), *Philosophische Monatshefte*, 26: 458–468.
+[^natorp-1890b]: 1890b, Review of F. Dümmler’s *Akademika. Beiträge zur Literaturgeschichte der sokratischen Schulen* (Gießen, 1889), *Philosophische Monatshefte*, 26: 458–468.
 
-[^second-1890c]: 1890c, “Neue Schriften zur platonischen Frage”, *Philosophische Monatshefte*, 26: 449–457.
+[^natorp-1890c]: 1890c, “Neue Schriften zur platonischen Frage”, *Philosophische Monatshefte*, 26: 449–457.
 
-[^second-1890d]: 1890d, Review of H. Siebeck’s *Untersuchungen zur Philosophie der Griechen* (Freiburg, 1888), *Philosophische Monatshefte*, 26: 363–366.
+[^natorp-1890d]: 1890d, Review of H. Siebeck’s *Untersuchungen zur Philosophie der Griechen* (Freiburg, 1888), *Philosophische Monatshefte*, 26: 363–366.
 
-[^second-1890e]: 1890e, Review of E. Zeller’s *Grundriss der griechischen Philosophie* (Leipzig, 1889), *Philosophische Monatshefte*, 26: 362–363.
+[^natorp-1890e]: 1890e, Review of E. Zeller’s *Grundriss der griechischen Philosophie* (Leipzig, 1889), *Philosophische Monatshefte*, 26: 362–363.
 
 [^windelband’s-1888]: 1890f, Review of W. Windelband’s *Geschichte der alten Philosophie* (Nördlingen, 1888) and *Geschichte der Philosophie*(Freiburg, 1890), *Philosophische Monatshefte*, 26: 356–362.
 
@@ -487,27 +487,27 @@ This quotation should be read as a reproach of the Southwest neo-Kantians.
 
 [^aristoteles-nd]: 1890j, “Aristoteles und die Eleaten”, *Philosophische Monatshefte*, 26: 1–16; 147–169.
 
-[^aristoteles-1889a]: 1889a, Review of L.v.Sybel’s *Platons Symposion. Ein Programm der Akademie Marburg* (1888), *Philosophische Monatshefte*, 25: 235–240.
+[^natorp-1889a]: 1889a, Review of L.v.Sybel’s *Platons Symposion. Ein Programm der Akademie Marburg* (1888), *Philosophische Monatshefte*, 25: 235–240.
 
-[^aristoteles-1889b]: 1889b, Review of K. Joel’s *Zur Erkenntnis der geistigen Entwicklung und der schriftstellerischen Motive Platos* (Berlin, 1887), *Philosophische Monatshefte*, 25: 232–235.
+[^natorp-1889b]: 1889b, Review of K. Joel’s *Zur Erkenntnis der geistigen Entwicklung und der schriftstellerischen Motive Platos* (Berlin, 1887), *Philosophische Monatshefte*, 25: 232–235.
 
-[^aristoteles-1889c]: 1889c, “Über Grundabsicht und Entstehungszeit von Platons Gorgias”, *Archiv für Geschichte der Philosophie*, 2: 394–413.
+[^natorp-1889c]: 1889c, “Über Grundabsicht und Entstehungszeit von Platons Gorgias”, *Archiv für Geschichte der Philosophie*, 2: 394–413.
 
-[^aristoteles-1889d]: 1889d, “Neue Schriften zur platonischen Frage”, *Philosophische Monatshefte*, 25: 340–359.
+[^natorp-1889d]: 1889d, “Neue Schriften zur platonischen Frage”, *Philosophische Monatshefte*, 25: 340–359.
 
-[^aristoteles-1889e]: 1889e, “Philosophie und Wissenschaft der Vorsokratiker”, *Philosophische Monatshefte*, 25: 204–223.
+[^natorp-1889e]: 1889e, “Philosophie und Wissenschaft der Vorsokratiker”, *Philosophische Monatshefte*, 25: 204–223.
 
 [^platos-nd]: 1889f, “Platos *Phädros*”, *Philologus*, NS 428–449; 583–628.
 
-[^platos-1888a]: 1888a, “Neue Heraklit-Forschungen”, *Philosophische Monatshefte*, 24: 88–102.
+[^natorp-1888a]: 1888a, “Neue Heraklit-Forschungen”, *Philosophische Monatshefte*, 24: 88–102.
 
-[^platos-1888b]: 1888b, Review of T. Gomperz’s *Platonische Aufsätze* (Vienna, 1887), *Philosophische Monatshefte*, 24: 485–488.
+[^natorp-1888b]: 1888b, Review of T. Gomperz’s *Platonische Aufsätze* (Vienna, 1887), *Philosophische Monatshefte*, 24: 485–488.
 
-[^platos-1888c]: 1888c, Review of E. Zeller’s *Über die Unterscheidung einer doppelten Gestalt der Ideenlehre in den platonischen Schriften* (Berlin, 1887), *Philosophische Monatshefte*, 24: 481–485.
+[^natorp-1888c]: 1888c, Review of E. Zeller’s *Über die Unterscheidung einer doppelten Gestalt der Ideenlehre in den platonischen Schriften* (Berlin, 1887), *Philosophische Monatshefte*, 24: 481–485.
 
-[^platos-1888d]: 1888d, “Ueber Demokrits gnêsiê gnômê”, *Archiv für Geschichte der Philosophie*, 1: 348–356.
+[^natorp-1888d]: 1888d, “Ueber Demokrits gnêsiê gnômê”, *Archiv für Geschichte der Philosophie*, 1: 348–356.
 
-[^platos-1888e]: 1888e, “Aristoteles’ *Metaphysik* K 1–8, 1065a26”, *Archiv für Geschichte der Philosophie*, 1: 178–193.
+[^natorp-1888e]: 1888e, “Aristoteles’ *Metaphysik* K 1–8, 1065a26”, *Archiv für Geschichte der Philosophie*, 1: 178–193.
 
 [^thema-nd]: 1888f, “Thema und Disposition der aristotelischen Metaphysik”, *Philosophische Monatshefte*, 24: 37–65; 540–574.
 
@@ -515,33 +515,33 @@ This quotation should be read as a reproach of the Southwest neo-Kantians.
 
 [^einleitung-nd]: 1888h, *Einleitung in die Psychologie nach kritischer Methode*, Freiburg: Mohr.
 
-[^einleitung-1887]: 1887, “Ueber objektive und subjektive Begründung der Erkenntniss (Erster Aufsatz)”, *Philosophische Monatshefte*, 23: 257–286.
+[^natorp-1887]: 1887, “Ueber objektive und subjektive Begründung der Erkenntniss (Erster Aufsatz)”, *Philosophische Monatshefte*, 23: 257–286.
 
-[^einleitung-1886]: 1886, Review of M. Guggenheim’s *Die Lehre vom apriorischen Wissen in ihrer Bedeutung für die Entwicklung der Ethik und Erkenntnistheorie in der Sokratisch-Platonischen Philosophie* (Berlin, 1885), *Philosophische Monatshefte*, 23: 236–239.
+[^natorp-1886]: 1886, Review of M. Guggenheim’s *Die Lehre vom apriorischen Wissen in ihrer Bedeutung für die Entwicklung der Ethik und Erkenntnistheorie in der Sokratisch-Platonischen Philosophie* (Berlin, 1885), *Philosophische Monatshefte*, 23: 236–239.
 
-[^einleitung-1885a]: 1885a, Review of E. Hardy’s *Der Begriff der Physis in der griechischen Philosophie* (Berlin, 1884), *Philosophische Monatshefte*, 21: 572–593.
+[^natorp-1885a]: 1885a, Review of E. Hardy’s *Der Begriff der Physis in der griechischen Philosophie* (Berlin, 1884), *Philosophische Monatshefte*, 21: 572–593.
 
-[^einleitung-1885b]: 1885b, Review of H. Siebeck’s *Geschichte der Psychologie* (2 vols., Gotha, 1880, 1884), *Philosophische Monatshefte*, 21: 384–96.
+[^natorp-1885b]: 1885b, Review of H. Siebeck’s *Geschichte der Psychologie* (2 vols., Gotha, 1880, 1884), *Philosophische Monatshefte*, 21: 384–96.
 
-[^einleitung-1885c]: 1885c, Review of E. Hardy’s *Der Begriff der Physis in der griechischen Philosophie*, *Philosophische Monatshefte*, 21: 572–93.
+[^natorp-1885c]: 1885c, Review of E. Hardy’s *Der Begriff der Physis in der griechischen Philosophie*, *Philosophische Monatshefte*, 21: 572–93.
 
-[^einleitung-1884a]: 1884a, Review of A. Harpf’s *Die Ethik des Protagoras und deren zweifache Moralbegründung, kritisch untersucht* (Heidelberg, 1884), *Göttinger gelehrte Anzeigen* 19: 784–795.
+[^natorp-1884a]: 1884a, Review of A. Harpf’s *Die Ethik des Protagoras und deren zweifache Moralbegründung, kritisch untersucht* (Heidelberg, 1884), *Göttinger gelehrte Anzeigen* 19: 784–795.
 
-[^einleitung-1884b]: 1884b, *Forschungen zur Geschichte des Erkenntnisproblems im Altertum: Protagoras, Demokrit, Epikur und die Skepsis*, Berlin: Hertz. Reprinted 1965: Hildesheim: G. Olms.
+[^natorp-1884b]: 1884b, *Forschungen zur Geschichte des Erkenntnisproblems im Altertum: Protagoras, Demokrit, Epikur und die Skepsis*, Berlin: Hertz. Reprinted 1965: Hildesheim: G. Olms.
 
-[^einleitung-1883]: 1883, “Untersuchungen über die Skepsis im Altertum: Aenesidem”, *Rheinisches Museum für Philologie*, NS 38: 28–91.
+[^natorp-1883]: 1883, “Untersuchungen über die Skepsis im Altertum: Aenesidem”, *Rheinisches Museum für Philologie*, NS 38: 28–91.
 
-[^einleitung-1882a]: 1882a, “Die kosmologische Reform des Kopernikus in ihrer Bedeutung für die Philosophie”, *Preußische Jahrbücher*, 49: 355–375.
+[^natorp-1882a]: 1882a, “Die kosmologische Reform des Kopernikus in ihrer Bedeutung für die Philosophie”, *Preußische Jahrbücher*, 49: 355–375.
 
-[^einleitung-1882b]: 1882b, “Analekten zur Geschichte der Philosophie”, *Philosophische Monatshefte*, 18: 567–577.
+[^natorp-1882b]: 1882b, “Analekten zur Geschichte der Philosophie”, *Philosophische Monatshefte*, 18: 567–577.
 
-[^einleitung-1882c]: 1882c, “Galilei als Philosoph. Eine Skizze”, *Philosophische Monatshefte*, 18: 193–229.
+[^natorp-1882c]: 1882c, “Galilei als Philosoph. Eine Skizze”, *Philosophische Monatshefte*, 18: 193–229.
 
-[^einleitung-1882d]: 1882d, “Descartes’ Erkenntnistheorie. Eine Studie zur Vorgeschichte des Kritizismus”, Habilitationsschrift (1881), Marburg: Elwert.
+[^natorp-1882d]: 1882d, “Descartes’ Erkenntnistheorie. Eine Studie zur Vorgeschichte des Kritizismus”, Habilitationsschrift (1881), Marburg: Elwert.
 
-[^einleitung-1881a]: 1881a, “Leibniz und der Materialismus”, in Helmut Holzhey (ed.), *Studia Leibnitiana*, 17 (1985): 1–14.
+[^natorp-1881a]: 1881a, “Leibniz und der Materialismus”, in Helmut Holzhey (ed.), *Studia Leibnitiana*, 17 (1985): 1–14.
 
-[^einleitung-1881b]: 1881b, “Über das Verhältniß des theoretischen und praktischen Erkennens zur Begründung einer nichtempirischen Realität. Mit Bezug auf W. Herrmann, *Die Religion im Verhältniß zum Welterkennen und zur Sittlichkeit*”, *Zeitschrift für Philosophie und philosophische Kritik*, 79: 242–259.
+[^natorp-1881b]: 1881b, “Über das Verhältniß des theoretischen und praktischen Erkennens zur Begründung einer nichtempirischen Realität. Mit Bezug auf W. Herrmann, *Die Religion im Verhältniß zum Welterkennen und zur Sittlichkeit*”, *Zeitschrift für Philosophie und philosophische Kritik*, 79: 242–259.
 
 [^aars-1905]: Aars, A., 1905, “Review of Natorp’s *Platos Ideenlehre*”, *Vierteljahresschrift für wissenschaftliche Philosophie und Soziologie*, 29: 520–526.
 

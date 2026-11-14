@@ -227,8 +227,6 @@ Burke, Edmund | feminist philosophy, interventions: ethics | feminist philosophy
 
 [^wollstonecraft-1977]: *A Wollstonecraft Anthology*, Janet Todd (ed.), Bloomington, Indiana: Indiana University Press, 1977, 1989.
 
-[^wollstonecraft-nd]: A selection:
-
 [^todd-nd]: Todd, Janet and Marilyn Butler, eds., *Works*, cited above.
 
 [^wardle-1979]: Wardle, Ralph, M, ed. 1979, *Collected Letters of Mary Wollstonecraft, .* Ithaca: Cornell University Press.

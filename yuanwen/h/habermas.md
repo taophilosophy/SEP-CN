@@ -15,7 +15,7 @@ Habermas was born in June 1929 and brought up in provincial North-Rhine Westphal
 
 Two moments exemplify Habermas’s complex position in-between the generations of 1945 and 1968. In 1953, when Habermas was a student at Göttingen University, he published a critical essay in the *Frankfurter Allgemeine Zeitung* concerning Heidegger’s remark about “the inner truth and greatness of the Nazi movement” that Heidegger had written in his lectures on metaphysics in 1935, and then failed to retract or alter in 1953 when republishing those lectures. (1971c [1977]) In 1968, at the height of the student protests in Germany, Habermas, who had been critical of the policing that had resulted in the killing of Benno Ohnesorg at a student demonstration the year before, directly criticized the students for acting out revolutionary fantasies, and for provoking the authorities into violence. He used the phrase “left-wing fascism”, a term he later admitted was too harsh (Müller-Doohm 2016: 141)[^müller-doohm-2016]. Instead, he urged them to put the latitude granted to them by liberal democratic institutions to work in the service of a “radical reformism” (Specter 2010: 111–115)[^specter-2010].
 
-Habermas studied German philosophy and literature at Bonn, and wrote his doctoral dissertation on “The Absolute and History: the Ambivalence of Schelling’s Thought”. He came to Frankfurt in 1956, where he was Theodor Adorno’s *Assistent* at the Institute for Social Research for three years. In 1959 he left for Marburg, having effectively been shouldered out by Max Horkheimer, who considered him a dangerous Marxist, and who tried to have him dismissed (Müller-Doohm 2016: 84–86; Habermas 1992a: interview 8, 218)[^müller-doohm-2016]. In Marburg, he wrote his habilitation dissertation, *The Structural Transformation of the Public Sphere*, under Wolfgang Abendroth, one of the few Marxist academic philosophers in the post-war Federal Republic. Habermas, though often deemed a member of the Frankfurt School, was, in reality, at the institute for a very brief period. Whilst there, he recalls, “Critical Theory, at Frankfurt School—there was no such thing … no coherent doctrine” (Habermas 1992a: interview 4, 98). So it is misleading to say that he was or became a “member” of the Frankfurt School. In truth, he arrived there as an outsider, and while there, briefly, ploughed his own furrow.
+Habermas studied German philosophy and literature at Bonn, and wrote his doctoral dissertation on “The Absolute and History: the Ambivalence of Schelling’s Thought”. He came to Frankfurt in 1956, where he was Theodor Adorno’s *Assistent* at the Institute for Social Research for three years. In 1959 he left for Marburg, having effectively been shouldered out by Max Horkheimer, who considered him a dangerous Marxist, and who tried to have him dismissed (Müller-Doohm 2016: 84–86; Habermas 1992a: interview 8, 218)[^habermas-1992a][^müller-doohm-2016]. In Marburg, he wrote his habilitation dissertation, *The Structural Transformation of the Public Sphere*, under Wolfgang Abendroth, one of the few Marxist academic philosophers in the post-war Federal Republic. Habermas, though often deemed a member of the Frankfurt School, was, in reality, at the institute for a very brief period. Whilst there, he recalls, “Critical Theory, at Frankfurt School—there was no such thing … no coherent doctrine” (Habermas 1992a: interview 4, 98)[^habermas-1992a]. So it is misleading to say that he was or became a “member” of the Frankfurt School. In truth, he arrived there as an outsider, and while there, briefly, ploughed his own furrow.
 
 Habermas returned to Frankfurt, after a short period at the University of Heidelberg, where he succeeded Horkheimer, with whom he soon reconciled, as Professor of Philosophy and Sociology. He declined to become director of the institute. In Frankfurt, Habermas spent the latter half of the 1960s teaching in febrile and tumultuous political circumstances not conducive to research. In 1971 he became director of the Max Planck Institute for the Study of Living Conditions in the Scientific and Technical World in Starnberg, Bavaria, where he conducted the research which led to his magnum opus, the two-volume *Theory of Communicative Action*. The year his magnum opus was published, 1981, Habermas resigned from the Max Planck Institute under unhappy circumstances, and again returned to Frankfurt. There he would remain, but for various visiting professorships in the US, until his retirement in 1994. Landmark publications during these years include many essays on moral philosophy, and *Between Facts and Norms* in 1992, Habermas’s major work in political and legal philosophy. Throughout his life Habermas has enthusiastically played the role of the public intellectual, taking part in disputes about positivism in the social sciences, the historical uniqueness of the Holocaust, German reunification, genetic engineering, and secularism and religion. He is the recipient of numerous honorary doctorates and prizes, including the Adorno Prize of the city of Frankfurt and the Kyoto Prize of the Inamori Foundation (Müller-Doohm 2016: 340)[^müller-doohm-2016].
 
@@ -144,7 +144,7 @@ Habermas claims that in societies like ours, there is *no functional equivalent*
 
 If Habermas’s pragmatic theory of meaning is correct, then a weak transcendental necessity transmits from the premises, that communication and discourse are necessary to social reproduction, to features of his reconstruction thereof, such as validity claims, rules of argumentation, etc. The transcendental necessity in question is weak since the premises are contingent and empirical: they are not themselves logically or even physically necessary. And the reconstruction is itself defeasible. Nonetheless, the reconstructed features, Habermas contends, are socially necessary for agents like us—roughly agents of modern societies. Language exists, and language use is not optional for human beings. Linguistic practice presupposes the structures and rules of communication and discourse that alone enable communication. So there is no feasible alternative to speaking, making one’s utterances understood to interlocutors, and so of raising validity claims, and also, as we will see below, invoking the rules of discourse (Heath 2001: 295–98)[^heath-2001]. Validity claims, and the rules of discourse that govern the practice of argumentation, are what Habermas calls “pragmatic preconditions” of communication. This means that
 
-> *from the performative perspective of the participants in interaction*, these presuppositions *must* be undertaken. (Fultner 2019; Habermas 1999a [2003a: 85–86; 17–18])[^fultner-2019]
+> *from the performative perspective of the participants in interaction*, these presuppositions *must* be undertaken. (Fultner 2019; Habermas 1999a [2003a: 85–86; 17–18])[^habermas-1999a][^fultner-2019]
 
 This is the “universality” expressed in the label “universal pragmatics” which Habermas originally gave to his research programme (1976b [1979: 1–68]).
 
@@ -307,7 +307,7 @@ Only those action norms are valid to which all possibly affected persons could a
 
 > a norm is valid *if and only if* the foreseeable consequences and side effects of its general observance for the interests and value-orientations of *each individual* could be freely accepted *jointly* by *all* concerned. (1996a essay 1: 60 [1998a: 42 translation amended])
 
-Neither Habermas’s followers, with the possible exception of Rehg (1991 & 1994), nor any of his critics, think that this logical derivation of (U) goes through. Gradually, Habermas backs away from the claim that (U) can be given a logical or formal derivation. He presents discourse ethics as a “programme” of philosophical justification and keeps adding stronger premises to that programme (Lumer 1997: 53; Habermas 1983 [1990: 43])[^lumer-1997]. According to Kettner the fact that in phase two (D) is no longer the principle of discourse ethics, but construed as “still neutral” with regard to morality and law, together with the fact that (U) is now the *moral principle*, means that the grounding of discourse ethics is normatively incomplete, and this effectively amounts to the “disappearance” of the original project, which was supposed to show that the moral principle and the moral point of view fall out of the success conditions for communicative action (Kettner 2002: 207, 211–12)[^kettner-2002].
+Neither Habermas’s followers, with the possible exception of Rehg (1991 & 1994), nor any of his critics, think that this logical derivation of (U) goes through. Gradually, Habermas backs away from the claim that (U) can be given a logical or formal derivation. He presents discourse ethics as a “programme” of philosophical justification and keeps adding stronger premises to that programme (Lumer 1997: 53; Habermas 1983 [1990: 43])[^habermas-1983][^lumer-1997]. According to Kettner the fact that in phase two (D) is no longer the principle of discourse ethics, but construed as “still neutral” with regard to morality and law, together with the fact that (U) is now the *moral principle*, means that the grounding of discourse ethics is normatively incomplete, and this effectively amounts to the “disappearance” of the original project, which was supposed to show that the moral principle and the moral point of view fall out of the success conditions for communicative action (Kettner 2002: 207, 211–12)[^kettner-2002].
 
 To sidestep the absence (or failure) of a logical derivation of (U), Habermas presents (U) provisionally as an abductive hypothesis (1996a essay 1: 60 [1998a: 42]) where abduction is an inference to the best explanation. Ott makes an attempt to justify (D) and (U) as a conjunction of pragmatic implications (Ott 1996: 42–45)[^ott-1996], while Finlayson claims that U is best thought of as an inference to the best explanation, and both agree that it rests on supplementary premises drawn from Habermas’s modernization theory (Finlayson 2000; Ott 1996)[^finlayson-2000][^ott-1996]. This raises the question of what kind of justification of the moral standpoint Habermas has in mind. In *Moral Consciousness and Communicative Action* he presents discourse ethics as a defence of a cognitivist account of morality against the moral sceptic on grounds that even the sceptic must accept (1983 [1990: 76ff]). The philosophical programme of justification looks like a constructivist—and what Gunnarsson calls a “rationalist”—argument, invoking slender premises and reaching thick normative conclusions, albeit the said normative conclusions are not substantial moral norms, but a moral principle of universalization, and an account of the moral point of view, in which moral agents (participants in discourse) collectively validate substantial moral norms (Gunnarsson 2000: 99, see also Rees 2020: 678–81, 689–91)[^gunnarsson-2000][^rees-2020]. Gunnarsson argues that all Habermas’s rationalist arguments for (U) fail. Benhabib is also of this view. In an early critique she argued that (U) was redundant, and that (D) should be given a “weak justification programme” which adduced supplementary moral premises of “universal respect” and “egalitarian reciprocity” (Benhabib 1986: 308; 1992: 31)[^benhabib-1986]. Habermas’s tendency to add ever stronger supplementary premises for his justification of (U) is a tacit acknowledgement of his failure to provide either a formal derivation or a “rationalist” justification of (U). In doing so he moves away from his original idea of providing a philosophical justification of (U), towards a more modest explication and reconstruction of the moral point of view, which can be corroborated by insights drawn from an array of disciplines, including the moral psychology of Lawrence Kohlberg.
 
@@ -325,7 +325,7 @@ Habermas thus develops a distinctively social and intersubjective version of eth
 
 It is primarily Habermas’s introduction of a tripartite typology of practical reason—the ethical, moral, and pragmatic employments of practical reason—that drives his return to Kant in *Between Facts and Norms*. In particular Habermas introduces a notion of ethical discourse that differs from moral discourse in that it addresses clinical questions such as “What is the good life (for me, or for us)?” and that is restricted in scope to communities with shared values. Ethical discourses differ, he claims, from moral discourses which deal with questions of justice, understood as what is equally in the interests of all (1983 [1990: 180]; 1991a chapter 5, 101–105 [1993: chapter 1, 3–8]; 1996a essay 1: 39–40 [1998a: 26–7]). He understands “justice” not as a political value, as the later Rawls does, but as the supreme moral value, and the designated value of moral discourse, on analogy with truth for theoretical discourse. Although he allows that many questions can be addressed by both ethical and moral discourses, he draws a sharp distinction between them and accords priority to morality over ethics (1983 [1990: 104]; 1991a chapter 5, 100–119 [1993: chapter 1, 1–17]). Ethical discourses always take place within the bounds of moral permissibility, and on Habermas’s account no moral norm can be weighed against, or trumped by, any ethical value. Along with various communitarians, Charles Taylor and Martin Seel both criticize Habermas on this point and defend the idea that the good (albeit construed in different ways) has priority over the morally right (Taylor 1989 [1992]; Seel 1995)[^seel-1995][^taylor-1989].
 
-The ethics/morality distinction has also been a target of much criticism. Benhabib (1986)[^benhabib-1986], McCarthy (1991; chapter 7: 181–200); Putnam (2002)[^putnam-2002]; and Kettner (2002)[^kettner-2002], among others have shown that Habermas cannot and does not maintain a sharp distinction between the two. The main reason they give is that the notion of value that Habermas associates with ethics bleeds into his conception of a valid moral norm. Indeed, Habermas himself acknowledges the existence of what he calls a “hidden link” between justice and the common good (1983 [1990: 202]), and “the remnant of the good at the core of the right” (“das Gute im Gerechten”) (1996a essay 1: 43 [1998a: 29]). And he appears to think of this relation, not as threat to his conception of morality but as a feature of it, namely that it rests on an underlying web of solidary relations between human beings. Habermas claims that morality arose from this web of solidarity as a process of generalization and universalization in the course of modernization, and, he claims, although solidarity remains as the other side of justice (*qua* moral rightness) this does not smudge the bright line between ethics and morality (Habermas 1986a [1990b]).
+The ethics/morality distinction has also been a target of much criticism. Benhabib (1986)[^benhabib-1986], McCarthy (1991; chapter 7: 181–200); Putnam (2002)[^putnam-2002]; and Kettner (2002)[^kettner-2002], among others have shown that Habermas cannot and does not maintain a sharp distinction between the two. The main reason they give is that the notion of value that Habermas associates with ethics bleeds into his conception of a valid moral norm. Indeed, Habermas himself acknowledges the existence of what he calls a “hidden link” between justice and the common good (1983 [1990: 202]), and “the remnant of the good at the core of the right” (“das Gute im Gerechten”) (1996a essay 1: 43 [1998a: 29]). And he appears to think of this relation, not as threat to his conception of morality but as a feature of it, namely that it rests on an underlying web of solidary relations between human beings. Habermas claims that morality arose from this web of solidarity as a process of generalization and universalization in the course of modernization, and, he claims, although solidarity remains as the other side of justice (*qua* moral rightness) this does not smudge the bright line between ethics and morality (Habermas 1986a [1990b])[^habermas-1986a].
 
 Kettner objects that Habermas’s typology is dogmatic, established by “terminological fiat” and that it should not be seen as an insight into the nature of practical reason (Kettner 2002: 208)[^kettner-2002]. Few critics are prepared to defend Habermas’s distinction with the notable exception of Rainer Forst (Forst 2007 [2011: 60–79])[^forst-2007]. In the final analysis, Habermas settles on the view of discourse ethics in general, and (U) in particular, as a reconstruction of an alternative to Kant’s first formula of the Categorical Imperative that is allegedly superior to the latter in virtue of being dialogical rather than monological and the reconstruction of an actual practice involving real moral agents.
 
@@ -405,7 +405,7 @@ Habermas argues that, alongside the principle of democracy, what he calls a “l
 4. Basic rights to the equal opportunity to participate in the processes of political will formation and the production of legitimate law.
 5. Basic rights to living conditions that are socially, technologically, and ecologically safeguarded, insofar as this is necessary for citizens to exercise their civil rights 1–4 (1996b: 123–4).
 
-The first three rights are supposed to arise theoretically from the application of the discourse principle to the form of law. These are rights that citizens must grant to one another if they are “legitimately to regulate their living together by means of positive law” (1992b [1996b: 126; 82; 118]). The next two—political and social rights—are practical and material enabling conditions that ensure the effectiveness of the first three rights. The first three rights, Habermas claims, are not specific rights, but what he calls “unsaturated placeholders” for specific rights that have to “be interpreted and given concrete shape” by actual citizens in response to determinate historical conditions (1992b [1996b: 125–6]). This is crucial to Habermas’s theory, because it purports to reconstruct the ability of citizens, from their perspective, to reciprocally grant one another the rights necessary for their common existence as consociates under law. That’s why he claims that he, unlike Rawls, doesn’t design “the basic norms of a well-ordered society on the drafting table”, and then apply them to society (1990d [1994: 101]). In that sense, just as discourse ethics leaves the validation of moral norms to participants in discourse, the discourse theory of law and democracy has to leave the political process of establishing a system of rights up to citizens themselves as much as possible. This is the sense in which Habermas claims the discourse theory of democratic legitimacy is “strictly procedural” and more modest than “normative political theory” à la Rawls (Habermas 1995: 117 & 132; Rawls 1995: 175–177)[^rawls-1995]. For all that, unlike in discourse ethics where neither (U) nor (D) have the status of valid moral norms, Habermas nonetheless derives a system of rights that for all the world resembles T. H. Marshall’s Whiggish account of civic, political, and social rights, in his classic work of political sociology (Marshall 1950)[^marshall-1950].
+The first three rights are supposed to arise theoretically from the application of the discourse principle to the form of law. These are rights that citizens must grant to one another if they are “legitimately to regulate their living together by means of positive law” (1992b [1996b: 126; 82; 118]). The next two—political and social rights—are practical and material enabling conditions that ensure the effectiveness of the first three rights. The first three rights, Habermas claims, are not specific rights, but what he calls “unsaturated placeholders” for specific rights that have to “be interpreted and given concrete shape” by actual citizens in response to determinate historical conditions (1992b [1996b: 125–6]). This is crucial to Habermas’s theory, because it purports to reconstruct the ability of citizens, from their perspective, to reciprocally grant one another the rights necessary for their common existence as consociates under law. That’s why he claims that he, unlike Rawls, doesn’t design “the basic norms of a well-ordered society on the drafting table”, and then apply them to society (1990d [1994: 101]). In that sense, just as discourse ethics leaves the validation of moral norms to participants in discourse, the discourse theory of law and democracy has to leave the political process of establishing a system of rights up to citizens themselves as much as possible. This is the sense in which Habermas claims the discourse theory of democratic legitimacy is “strictly procedural” and more modest than “normative political theory” à la Rawls (Habermas 1995: 117 & 132; Rawls 1995: 175–177)[^habermas-1995][^rawls-1995]. For all that, unlike in discourse ethics where neither (U) nor (D) have the status of valid moral norms, Habermas nonetheless derives a system of rights that for all the world resembles T. H. Marshall’s Whiggish account of civic, political, and social rights, in his classic work of political sociology (Marshall 1950)[^marshall-1950].
 
 ### 4.5 Objections to *Between Facts and Norms*
 
@@ -435,7 +435,7 @@ In terms of his own work, formal pragmatics rationally reconstructs the communic
 
 Whether or not formal pragmatics accurately describes the practice of human communication can only be decided *a posteriori*, by the future “success” or “failure” of the theory as an input in further empirical investigations (1976b [1998b: 39]; 1983 [1990: 32]), with Habermas suggesting coherence between theories as the criterion of success (1981 [1987: 399–400]; 1983 [1990a: chapter 2, 39]). Jørgen Pedersen has argued that it is still not clear what constitutes success and failure in this context, and thus not fully clear how rationally reconstructed theories can be tested (Pedersen 2008: 478–1)[^pedersen-2008]. Karl-Otto Apel, similarly, questions what it would mean to falsify the “unavoidable presuppositions of argumentation” itself (Apel 2002: 19)[^apel-2002].
 
-Habermas claims that knowledge of the underlying structures and competences acquired through rational reconstruction can then be used for the purposes of social critique. Supposedly, a version of a practice can be identified as pathological, or not fully rationalized, if it does not meet the counterfactual idealization which the practice presupposes (1983 [1990: 31–2]). Habermas thus identifies systematically distorted communication, invalid moral norms, and illegitimate laws as deficits in communicative action, moral discourse, and democratic lawmaking, respectively. Rational reconstruction allows us to critique these actual practices according to their own internal standards, rather than the critic’s arbitrarily chosen standards or the philosopher’s supposedly transcendental standards (1992b [1996b: 5]). Similarly, the developmental logic revealed by rational reconstruction can be used to evaluate processes of historical development as progressive examples of collective learning, or as regressive and pathological. As a method for explaining social phenomena, rational reconstruction is neither merely empirical nor hermeneutic; the principles it produces are supposed to ground a kind of social and political theory which is neither “ideal” nor “real”, but somewhere in between. Habermas’s claim that philosophy can find within traditions construed as learning processes a “standpoint of critical evaluation” (1996a essay 3 [1998a: 97]; 1992b [1996b: 5]) is certainly in the spirit of critical theory, but arguably in tension with his other claims that that philosophy should “limit itself to the clarification of the moral point of view and the procedure of democratic legitimation” (Habermas 1995: 131; Finlayson 2019: 205)[^finlayson-2019].
+Habermas claims that knowledge of the underlying structures and competences acquired through rational reconstruction can then be used for the purposes of social critique. Supposedly, a version of a practice can be identified as pathological, or not fully rationalized, if it does not meet the counterfactual idealization which the practice presupposes (1983 [1990: 31–2]). Habermas thus identifies systematically distorted communication, invalid moral norms, and illegitimate laws as deficits in communicative action, moral discourse, and democratic lawmaking, respectively. Rational reconstruction allows us to critique these actual practices according to their own internal standards, rather than the critic’s arbitrarily chosen standards or the philosopher’s supposedly transcendental standards (1992b [1996b: 5]). Similarly, the developmental logic revealed by rational reconstruction can be used to evaluate processes of historical development as progressive examples of collective learning, or as regressive and pathological. As a method for explaining social phenomena, rational reconstruction is neither merely empirical nor hermeneutic; the principles it produces are supposed to ground a kind of social and political theory which is neither “ideal” nor “real”, but somewhere in between. Habermas’s claim that philosophy can find within traditions construed as learning processes a “standpoint of critical evaluation” (1996a essay 3 [1998a: 97]; 1992b [1996b: 5]) is certainly in the spirit of critical theory, but arguably in tension with his other claims that that philosophy should “limit itself to the clarification of the moral point of view and the procedure of democratic legitimation” (Habermas 1995: 131; Finlayson 2019: 205)[^habermas-1995][^finlayson-2019].
 
 ### 5.2 Postmetaphysical Thinking
 
@@ -582,6 +582,20 @@ Habermas’s theory has come in for criticism from all sides. On the one hand cr
 
 Adorno, Theodor W. | argument and argumentation | citizenship | common good | cosmopolitanism | critical theory | democracy | hermeneutics | Horkheimer, Max | justification, political: public | legitimacy, political | patriotism | pragmatism | public reason | religion: and morality in western philosophy
 
+[^habermas-1962]: 1962 [1989], *Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft*, (Politica ; Abhandlungen und Texte zur politischen Wissenschaft 4), Neuwied, Berlin: Luchterhand. Translated as *The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society*, Thomas Burger and Frederick Lawrence (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1989.
+
+[^habermas-1964]: 1964 [1974], “Offentlichkeit”, in *Staat und Politik*, (Das Fischer Lexikon 2), Frankfurt am Main: Fischer Bücherei, 220–226. Translated, 1974, as “The Public Sphere: An Encyclopedia Article (1964)”, Sara Lennox and Frank Lennox (trans.), *New German Critique*, 3: 49–55. doi:10.2307/487737
+
+[^habermas-1967]: 1967, *Zur Logik der Sozialwissenschaften*, special issue of *Philosophische Rundschau*, 14(Beiheft 5). Reprinted *Zur Logik der Sozialwissenschaften.* Frankfurt am Main: Suhrkamp, 1970. [English, 1988c]
+
+[^habermas-1968a]: 1968a [1970], *Technik und Wissenschaft als “Ideologie”* (Edition Suhrkamp 287), Frankfurt am Main: Suhrkamp; translated in Habermas 1970: chaps 4–6.
+
+[^habermas-1968b]: 1968b [1971a], *Erkenntnis und Interesse*, (Theorie 2), Frankfurt am Main: Suhrkamp. Translated as *Knowledge and Human Interests*, Jeremy J. Shapiro (trans.), Boston: Beacon Press, 1971.
+
+[^habermas-1969]: 1969 [1970], *Protestbewegung und Hochschulreform*, (Edition Suhrkamp 354), Frankfurt am Main: Suhrkamp. Translated in Habermas 1970: chaps 1–3 though 1 and 3 are abridged.
+
+[^habermas-1970]: 1970, *Toward a Rational Society: Student Protest, Science, and Politics*, Jeremy J. Shapiro (trans.), Boston: Beacon Press. Chapters 1‐3 are an abridged translation of 1969. Chapters 4–6 are a translation of 1968a.
+
 [^university-nd]: chapter 1, “The University in a Democracy: Democratization of the University”
 
 [^student-nd]: chapter 2, “Student Protest in the Federal Republic of Germany”
@@ -594,17 +608,17 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^technology-nd]: chapter 6, “Technology and Science as ‘Ideology’”
 
-[^technology-1971b]: 1971b [1973b], *Theorie und Praxis: sozialphilosophische studien*, new and extended edition, (Suhrkamp Taschenbuch 9), Frankfurt am Main: Suhrkamp. Translated as *Theory and Practice*, John Viertel (trans.), Boston: Beacon Press, 1973. [First edition 1963, Herman Luchterhand, Neuwied am Rhein and Berlin.]
+[^habermas-1971b]: 1971b [1973b], *Theorie und Praxis: sozialphilosophische studien*, new and extended edition, (Suhrkamp Taschenbuch 9), Frankfurt am Main: Suhrkamp. Translated as *Theory and Practice*, John Viertel (trans.), Boston: Beacon Press, 1973. [First edition 1963, Herman Luchterhand, Neuwied am Rhein and Berlin.]
 
-[^technology-1971c]: 1971c [1977], “Martin Heidegger: Zur Veröffentlichung von Vorlesungen aus dem Jahre 1935 (1953)”, in *Philosophisch-poltische Profile*, Frankfurt am Main: Suhrkamp, 65–72. Translated from the 1953 newspaper article as “Martin Heidegger: On the Publication of Lectures from the Year 1935”, *Graduate Faculty Philosophy Journal*, 6 (2): 155–180. doi:10.5840/gfpj1977621
+[^habermas-1971c]: 1971c [1977], “Martin Heidegger: Zur Veröffentlichung von Vorlesungen aus dem Jahre 1935 (1953)”, in *Philosophisch-poltische Profile*, Frankfurt am Main: Suhrkamp, 65–72. Translated from the 1953 newspaper article as “Martin Heidegger: On the Publication of Lectures from the Year 1935”, *Graduate Faculty Philosophy Journal*, 6 (2): 155–180. doi:10.5840/gfpj1977621
 
-[^technology-1973a]: 1973a [1975], *Legitimationsprobleme im Spätkapitalismus*, (Edition Suhrkamp 623), Frankfurt am Main: Suhrkamp. Translated as *Legitimation Crisis*, Thomas McCarthy (trans.), Boston: Beacon Press, 1975.
+[^habermas-1973a]: 1973a [1975], *Legitimationsprobleme im Spätkapitalismus*, (Edition Suhrkamp 623), Frankfurt am Main: Suhrkamp. Translated as *Legitimation Crisis*, Thomas McCarthy (trans.), Boston: Beacon Press, 1975.
 
-[^technology-1976a]: 1976a [1979], *Zur Rekonstruktion des historischen Materialismus*, (Suhrkamp-Taschenbuch Wissenschaft 154), Frankfurt am Main: Suhrkamp. Translated in 1979: chaps 2–5.
+[^habermas-1976a]: 1976a [1979], *Zur Rekonstruktion des historischen Materialismus*, (Suhrkamp-Taschenbuch Wissenschaft 154), Frankfurt am Main: Suhrkamp. Translated in 1979: chaps 2–5.
 
-[^technology-1976b]: 1976b [1979/1998b], “Was heißt Universalpragmatik?”, in *Sprachpragmatik und Philosophie: Theorie-Diskussion*, Karl-Otto Apel (ed.), (Theorie), Frankfurt am Main: Suhrkamp, 174–272. Translated as “What is Universal Pragmatics?” in 1979: chap. 1. Also in 1998b: chap. 1.
+[^habermas-1976b]: 1976b [1979/1998b], “Was heißt Universalpragmatik?”, in *Sprachpragmatik und Philosophie: Theorie-Diskussion*, Karl-Otto Apel (ed.), (Theorie), Frankfurt am Main: Suhrkamp, 174–272. Translated as “What is Universal Pragmatics?” in 1979: chap. 1. Also in 1998b: chap. 1.
 
-[^technology-1979]: 1979, *Communication and the Evolution of Society*, Thomas McCarthy (trans.), Boston: Beacon Press. Includes
+[^habermas-1979]: 1979, *Communication and the Evolution of Society*, Thomas McCarthy (trans.), Boston: Beacon Press. Includes
 
 [^what-1976b]: chapter 1, “What is Universal Pragmatics?”, 1–68, translation of 1976b.
 
@@ -616,7 +630,7 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^legitimation-1976a]: chapter 5, “Legitimation Problems in the Modern State”, 178–206, translation of “Legitimationsprobleme im modernen Staat”, in 1976a.
 
-[^legitimation-1981]: 1981 [1984a/1987/1998b], *Theorie des kommunikativen Handelns*, 2 vols., Frankfurt am Main: Suhrkamp. Translated as *The Theory of Communicative Action*, Thomas McCarthy (trans.), Boston: Beacon Press, 1984a [TCAI].
+[^habermas-1981]: 1981 [1984a/1987/1998b], *Theorie des kommunikativen Handelns*, 2 vols., Frankfurt am Main: Suhrkamp. Translated as *The Theory of Communicative Action*, Thomas McCarthy (trans.), Boston: Beacon Press, 1984a [TCAI].
 
 [^volume-nd]: Volume 1: *Handlungsrationalität und gesellschaftliche Rationalisierung*, including
 
@@ -628,9 +642,9 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^volume-1987]: Volume 2: *Lifeworld and System : A Critique of Functionalist Reason*, 1987
 
-[^volume-1982]: 1982, “A Reply to my Critics”, in Thompson and Held 1982: 219–283. doi:10.1007/978-1-349-16763-0_13
+[^habermas-1982]: 1982, “A Reply to my Critics”, in Thompson and Held 1982: 219–283. doi:10.1007/978-1-349-16763-0_13
 
-[^volume-1983]: 1983 [1990a], *Moralbewusstsein und kommunikatives Handeln*, (Suhrkamp Taschenbüch Wissenschaft 422), Frankfurt am main: Suhrkamp. Translated as *Moral Consciousness and Communicative Action*, Christian Lenhardt and Shierry Weber Nicholsen (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1990. Includes:
+[^habermas-1983]: 1983 [1990a], *Moralbewusstsein und kommunikatives Handeln*, (Suhrkamp Taschenbüch Wissenschaft 422), Frankfurt am main: Suhrkamp. Translated as *Moral Consciousness and Communicative Action*, Christian Lenhardt and Shierry Weber Nicholsen (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1990. Includes:
 
 [^die-nd]: chapter 1, “Die Philosophie als Platzhalter und Interpret”, 9–28; translated as “Philosophy as Stand-In and Interpreter”, 1–20.
 
@@ -638,17 +652,17 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^moralbewußtsein-nd]: chapter 4, “Moralbewußtsein und kommunikatives Handeln”, 127–205; translated as “Moral Consciousness and Communicative Action”, 116–194.
 
-[^moralbewußtsein-1984a]: 1984a *The Theory of Communicative Action*, Thomas McCarthy (trans.), Boston: Beacon Press, [TCAI].
+[^habermas-1984a]: 1984a *The Theory of Communicative Action*, Thomas McCarthy (trans.), Boston: Beacon Press, [TCAI].
 
-[^moralbewußtsein-1984b]: 1984b [2001d], *Vorstudien und Ergänzungen zur Theorie des kommunikativen Handelns*, Frankfurt am Main: Suhrkamp. Translated as *On the Pragmatics of Social Interaction: Preliminary Studies in the Theory of Communicative Action*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2001a.
+[^habermas-1984b]: 1984b [2001d], *Vorstudien und Ergänzungen zur Theorie des kommunikativen Handelns*, Frankfurt am Main: Suhrkamp. Translated as *On the Pragmatics of Social Interaction: Preliminary Studies in the Theory of Communicative Action*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2001a.
 
-[^moralbewußtsein-1986a]: 1986a [1990b], “Gerechtigkeit und Solidarität: Eine Stellungnahme zur Diskussion über ‘Stufe 6’”, in *Zur Bestimmung der Moral*, Wolfgang Edelstein and Gertrud Nunner-Winkler (eds), Frankfurt am Main: Suhrkamp. 291–318. Reprinted in 1991a: chap. 3. Translated as “Justice and Solidarity: On the Discussion Concerning Stage 6”, S. W. Nicholsen (trans.), in *The Moral Domain: Essays in the Ongoing Discussion between Philosophy and the Social Sciences*, Thomas E. Wren, Wolfgang Edelstein, and Gertrud Nunner-Winkler (eds.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1990, 224–251.
+[^habermas-1986a]: 1986a [1990b], “Gerechtigkeit und Solidarität: Eine Stellungnahme zur Diskussion über ‘Stufe 6’”, in *Zur Bestimmung der Moral*, Wolfgang Edelstein and Gertrud Nunner-Winkler (eds), Frankfurt am Main: Suhrkamp. 291–318. Reprinted in 1991a: chap. 3. Translated as “Justice and Solidarity: On the Discussion Concerning Stage 6”, S. W. Nicholsen (trans.), in *The Moral Domain: Essays in the Ongoing Discussion between Philosophy and the Social Sciences*, Thomas E. Wren, Wolfgang Edelstein, and Gertrud Nunner-Winkler (eds.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1990, 224–251.
 
-[^moralbewußtsein-1986b]: 1986b [1998b], “Entgegnung”, in Honneth and Joas 1986: 327–405. Translated as “A Reply”, in Honneth and Joas 1986 [1991: 214–264]. Translation of pages 328–337 and 353–360 make up 1998b chapter 3.
+[^habermas-1986b]: 1986b [1998b], “Entgegnung”, in Honneth and Joas 1986: 327–405. Translated as “A Reply”, in Honneth and Joas 1986 [1991: 214–264]. Translation of pages 328–337 and 353–360 make up 1998b chapter 3.
 
-[^moralbewußtsein-1988a]: 1988a, “Historical Consciousness and Post-Traditional Identity: Remarks on the Federal Republic’s Orientation to the West”, *Acta Sociologica*, 31(1): 3–13. Speech delivered on being presented with the Sonning Prize, University of Copenhagen, 14 May 1987.
+[^habermas-1988a]: 1988a, “Historical Consciousness and Post-Traditional Identity: Remarks on the Federal Republic’s Orientation to the West”, *Acta Sociologica*, 31(1): 3–13. Speech delivered on being presented with the Sonning Prize, University of Copenhagen, 14 May 1987.
 
-[^moralbewußtsein-1988b]: 1988b [1998b], *Nachmetaphysisches Denken: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Postmetaphysical Thinking*, William Mark Hohengarten (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1992. Includes
+[^habermas-1988b]: 1988b [1998b], *Nachmetaphysisches Denken: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Postmetaphysical Thinking*, William Mark Hohengarten (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1992. Includes
 
 [^metaphysik-nd]: essay 2, “Metaphysik nach Kant”, 16–32; translated as “Metaphysics after Kant”, 10–27 (ch. 2).
 
@@ -662,29 +676,29 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^individuierung-nd]: essay 8, “Individuierung durch Vergesellschaftung. Zu G.H. Meads Theorie der Subjektivitat”, 185–239; translated as “Individuation through Socialization: On George Herbert Mead’s Theory of Subjectivity”, 149–204 (ch. 7).
 
-[^individuierung-1988c]: 1988c, *On the Logic of the Social Sciences,* Shierry Weber Nicholsen and Jerry A. Stark (trans.), Cambridge, MA: MIT Press.
+[^habermas-1988c]: 1988c, *On the Logic of the Social Sciences,* Shierry Weber Nicholsen and Jerry A. Stark (trans.), Cambridge, MA: MIT Press.
 
-[^individuierung-1988d]: 1988d, “Moralitäat und Sittlichkeit: Treffen Hegels Einwände gegen Kant auch auf die Diskursethik Zu?” *Revue Internationale de Philosophie,* 42(166): 320–40; translated as “Morality and Ethical Life: Does Hegel’s Critique of Kant Apply to Discourse Ethics?” in 1990a, chapter 5 195–216.
+[^habermas-1988d]: 1988d, “Moralitäat und Sittlichkeit: Treffen Hegels Einwände gegen Kant auch auf die Diskursethik Zu?” *Revue Internationale de Philosophie,* 42(166): 320–40; translated as “Morality and Ethical Life: Does Hegel’s Critique of Kant Apply to Discourse Ethics?” in 1990a, chapter 5 195–216.
 
-[^individuierung-1990c]: 1990c, *Die nachholende Revolution: kleine politische Schriften VII*, (Edition Suhrkamp 633), Frankfurt am Main: Suhrkamp.
+[^habermas-1990c]: 1990c, *Die nachholende Revolution: kleine politische Schriften VII*, (Edition Suhrkamp 633), Frankfurt am Main: Suhrkamp.
 
-[^individuierung-1990d]: 1990d [1994], *Vergangenheit als Zukunft*, (Pendo-Profile), Zürich: Pendo-Verlag. Translated as *The Past as Future: Vergangenheit als Zukunft*, Max Pensky (trans.), (Modern German Culture and Literature Series), Lincoln, NE: University of Nebraska Press, 1994. Interview with Michael Haller.
+[^habermas-1990d]: 1990d [1994], *Vergangenheit als Zukunft*, (Pendo-Profile), Zürich: Pendo-Verlag. Translated as *The Past as Future: Vergangenheit als Zukunft*, Max Pensky (trans.), (Modern German Culture and Literature Series), Lincoln, NE: University of Nebraska Press, 1994. Interview with Michael Haller.
 
-[^individuierung-1991a]: 1991a [1993], *Erläuterungen zur Diskursethik*, (Suhrkamp Taschenbuch Wissenschaft 975), Frankfurt am Main: Suhrkamp.
+[^habermas-1991a]: 1991a [1993], *Erläuterungen zur Diskursethik*, (Suhrkamp Taschenbuch Wissenschaft 975), Frankfurt am Main: Suhrkamp.
 
 [^vom-1993]: chapter 5, “Vom pragmatischen, ethischen und moralischen Gebrauch der praktischen Vernunft”, 96–116, translated as “On the Pragmatic, the Ethical, and the Moral Employments of Practical Reason”, in Habermas 1993: chap. 1.
 
 [^erläuterungen-1993]: chapter 6, “Erläuterungen zur Diskursethik”, 117–224, translated as “Remarks on Discourse Ethics”, in Habermas 1993: chap. 2.
 
-[^erläuterungen-1991c]: 1991c [1993], “Einen unbedingten Sinn zu retten ohne Gott, ist eitel: Reflexionen über einen Satz von Max Horkheimer”, in *Kritischer Materialismus: zur Diskussion eines Materialismus der Praxis: für Alfred Schmidt zum 60. Geburtstag*, Matthias Lutz-Bachmann and Gunzelin Schmid Noerr (eds.), (Edition Akzente), München: C. Hanser, 125–142. Translated as “To Seek to Salvage an Unconditional Meaning Without God Is a Futile Undertaking: Reflections on a Remark of Max Horkheimer”, in Habermas 1993: chap. 4.
+[^habermas-1991c]: 1991c [1993], “Einen unbedingten Sinn zu retten ohne Gott, ist eitel: Reflexionen über einen Satz von Max Horkheimer”, in *Kritischer Materialismus: zur Diskussion eines Materialismus der Praxis: für Alfred Schmidt zum 60. Geburtstag*, Matthias Lutz-Bachmann and Gunzelin Schmid Noerr (eds.), (Edition Akzente), München: C. Hanser, 125–142. Translated as “To Seek to Salvage an Unconditional Meaning Without God Is a Futile Undertaking: Reflections on a Remark of Max Horkheimer”, in Habermas 1993: chap. 4.
 
-[^erläuterungen-1992a]: 1992a, *Autonomy and Solidarity: Interviews with Jürgen Habermas*, expanded edition, Peter Dews (ed.), London/New York: Verso.
+[^habermas-1992a]: 1992a, *Autonomy and Solidarity: Interviews with Jürgen Habermas*, expanded edition, Peter Dews (ed.), London/New York: Verso.
 
-[^erläuterungen-1992b]: 1992b [1996b], *Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt am Main: Suhrkamp. Translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
+[^habermas-1992b]: 1992b [1996b], *Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt am Main: Suhrkamp. Translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
 
-[^erläuterungen-1992c]: 1992c, “Further Reflections on the Public Sphere”, Thomas Burger (trans.), in Calhoun 1992: 421–461.
+[^habermas-1992c]: 1992c, “Further Reflections on the Public Sphere”, Thomas Burger (trans.), in Calhoun 1992: 421–461.
 
-[^erläuterungen-1993-2]: 1993, *Justification and Application: Remarks on Discourse Ethics*, Ciaran Cronin (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. [German, mostly from 1991a]
+[^habermas-1993]: 1993, *Justification and Application: Remarks on Discourse Ethics*, Ciaran Cronin (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. [German, mostly from 1991a]
 
 [^pragmatic-1991a]: chapter 1, “On the Pragmatic, the Ethical, and the Moral Employments of Practical Reason”, 1–17, translation of Chapter 5 in 1991a.
 
@@ -696,9 +710,9 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^morality-nd]: chapter 5, “Morality, Society, and Ethics: An Interview with Torben Hviid Nielsen”, 147–176.
 
-[^morality-1995]: 1995, “Reconciliation Through the Public Use of Reason: Remarks on John Rawls’s Political Liberalism”, *Journal of Philosophy*, 92(3): 109–131. Reprinted in Habermas 1996a essay 2 [1998a]. Also in Finlayson and Freyenhagen 2011: 25–45 (ch. 1). doi:10.5840/jphil199592335
+[^habermas-1995]: 1995, “Reconciliation Through the Public Use of Reason: Remarks on John Rawls’s Political Liberalism”, *Journal of Philosophy*, 92(3): 109–131. Reprinted in Habermas 1996a essay 2 [1998a]. Also in Finlayson and Freyenhagen 2011: 25–45 (ch. 1). doi:10.5840/jphil199592335
 
-[^morality-1996a]: 1996a [1998a], *Die Einbeziehung des Anderen: Studien zur politischen Theorie*, Frankfurt am Main: Suhrkamp. Translated as *The Inclusion of the Other: Studies in Political Theory*, Ciaran Cronin and Pablo De Greiff (eds.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1998. Includes
+[^habermas-1996a]: 1996a [1998a], *Die Einbeziehung des Anderen: Studien zur politischen Theorie*, Frankfurt am Main: Suhrkamp. Translated as *The Inclusion of the Other: Studies in Political Theory*, Ciaran Cronin and Pablo De Greiff (eds.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1998. Includes
 
 [^eine-nd]: essay 1, “Eine genealogische Betrachtung zum kognitiven Gehalt der Moral”, translated as “A Genealogical Analysis of the Cognitive Content of Morality”, 3–47.
 
@@ -716,7 +730,7 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^kampf-nd]: essay 8, “Kampf um Anerkennung im demokratischen Rechtsstaat”, translated as “Struggles for Recognition in the Democratic Constitutional State”, 203–236 (ch. 8).
 
-[^kampf-1998b]: 1998b, *On the Pragmatics of Communication*, Maeve Cooke (ed.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. Collected from various German sources including:
+[^habermas-1998b]: 1998b, *On the Pragmatics of Communication*, Maeve Cooke (ed.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. Collected from various German sources including:
 
 [^what-1976b-2]: chapter 1, “What is Universal Pragmatics?”, 21–103, translated from 1976b.
 
@@ -730,33 +744,33 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^some-1999a]: chapter 7, “Some Further Clarifications of the Concept of Communicative Rationality”, 307–342, translated from “Sprechakttheoretisch Erläuterungen zum Bergriff der kommunikativen Rationalität”, 1999a: 102–137.
 
-[^some-1998d]: 1998d [2001a], “Remarks on Legitimation through Human Rights”, William Rehg (trans.), *The Modern Schoolman*, 75(2): 87–100. Collected in 1998c as “Zur Legitimation durch Menschenrechte”, 168–192 [2001a: 113–129]. doi:10.5840/schoolman199875218 (en)
+[^habermas-1998d]: 1998d [2001a], “Remarks on Legitimation through Human Rights”, William Rehg (trans.), *The Modern Schoolman*, 75(2): 87–100. Collected in 1998c as “Zur Legitimation durch Menschenrechte”, 168–192 [2001a: 113–129]. doi:10.5840/schoolman199875218 (en)
 
-[^some-1998c]: 1998c [2001a], *Die postnationale Konstellation: politische Essays*, (Edition Suhrkamp 2095), Frankfurt am Main: Suhrkamp. Translated as *The Postnational Constellation: Political Essays*, Max Pensky (ed./tran.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2001.
+[^habermas-1998c]: 1998c [2001a], *Die postnationale Konstellation: politische Essays*, (Edition Suhrkamp 2095), Frankfurt am Main: Suhrkamp. Translated as *The Postnational Constellation: Political Essays*, Max Pensky (ed./tran.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2001.
 
-[^some-1999a-2]: 1999a [2003a], *Wahrheit und Rechtfertigung: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Truth and Justification*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2003. Includes
+[^habermas-1999a]: 1999a [2003a], *Wahrheit und Rechtfertigung: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Truth and Justification*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 2003. Includes
 
 [^rationalität-1998b]: “Rationalität und Verständigung. Sprechakttheoretische Erläuterungen zum Begriff der kommunikativen Rationalität”, chap. 2. Also translated in 1998b: chap. 7.
 
-[^rationalität-2001a]: 2001a *On the Pragmatics of Social Interaction: Preliminary Studies in the Theory of Communicative Action*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
+[^habermas-2001a]: 2001a *On the Pragmatics of Social Interaction: Preliminary Studies in the Theory of Communicative Action*, Barbara Fultner (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
 
 [^truth-nd]: chapter 5, “Truth and Society: the Discursive Redemption of Factual Claims to Validity”, 85–105.
 
-[^truth-2001b]: 2001b [2003b], *Die Zukunft der menschlichen Natur: Auf dem Weg zu einer liberalen Eugenik?*, Frankfurt: Suhrkamp. Translated as *The Future of Human Nature*, Hella Beister, Max Pensky, and William Rehg (trans.), Cambridge, UK : Malden, MA: Polity. Including
+[^habermas-2001b]: 2001b [2003b], *Die Zukunft der menschlichen Natur: Auf dem Weg zu einer liberalen Eugenik?*, Frankfurt: Suhrkamp. Translated as *The Future of Human Nature*, Hella Beister, Max Pensky, and William Rehg (trans.), Cambridge, UK : Malden, MA: Polity. Including
 
 [^begründete-nd]: chapter 1, “Begründete Enthaltsamkeit. Gibt es postmetaphysische Antworten auf die Frage nach dem ‘richtigen Leben’?”, translated as “Are There Postmetaphysical Answers to the Question: What is the ‘Good Life’?”, William Rehg (trans.), 1–15.
 
 [^auf-nd]: chapter 2, “Auf dem Weg zu einer liberalen Eugenik? Der Streit um das ethische Selbstverständnis der Gattung”, translated as “Faith and Knowledge”. Hella Beister and Max Pensky (trans.), 101–115.
 
-[^auf-2001c]: 2001c [2006g], “Braucht Europa eine Verfassung?”, in his *Zeit der Übergänge: kleine politische Schriften IX*, (Edition Suhrkamp 2262), Frankfurt am Main: Suhrkamp. Translated as “Does Europe Need a Constitution?” in *Time of Transitions*, Ciaran Cronin and Max Pensky (eds/trans), Cambridge/Malden, MA: Polity, 89–109.
+[^habermas-2001c]: 2001c [2006g], “Braucht Europa eine Verfassung?”, in his *Zeit der Übergänge: kleine politische Schriften IX*, (Edition Suhrkamp 2262), Frankfurt am Main: Suhrkamp. Translated as “Does Europe Need a Constitution?” in *Time of Transitions*, Ciaran Cronin and Max Pensky (eds/trans), Cambridge/Malden, MA: Polity, 89–109.
 
-[^auf-2002]: 2002, *Religion and Rationality: Essays on Reason, God, and Modernity*, Eduardo Mendieta (ed.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. Collected from various German sources including
+[^habermas-2002]: 2002, *Religion and Rationality: Essays on Reason, God, and Modernity*, Eduardo Mendieta (ed.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press. Collected from various German sources including
 
 [^conversation-nd]: chapter 8, “A Conversation about God and the World: Interview with Eduardo Mendieta”, Max Pensky (trans.), 147–167.
 
-[^conversation-2003c]: 2003c, “From Kant’s ‘Ideas’ of Pure Reason to the ‘Idealizing’ Presuppositions of Communicative Action: Reflections on the Detranscendentalized ‘Use of Reason’”, in *Truth and Justification,* B. Fultner (trans.), Cambridge, MA: MIT Press, 83–130 (chap. 2).
+[^habermas-2003c]: 2003c, “From Kant’s ‘Ideas’ of Pure Reason to the ‘Idealizing’ Presuppositions of Communicative Action: Reflections on the Detranscendentalized ‘Use of Reason’”, in *Truth and Justification,* B. Fultner (trans.), Cambridge, MA: MIT Press, 83–130 (chap. 2).
 
-[^conversation-2004]: 2004 [2006c], *Der gespaltene Westen*, Frankfurt am Main: Suhrkamp. Translated as *The Divided West*, Ciaran Cronin (trans.), Cambridge: Polity. Includes:
+[^habermas-2004]: 2004 [2006c], *Der gespaltene Westen*, Frankfurt am Main: Suhrkamp. Translated as *The Divided West*, Ciaran Cronin (trans.), Cambridge: Polity. Includes:
 
 [^der-nd-2]: chapter 3, “Der 15. Februar - oder: Was die Europäer verindet”, translated as “February 15, or: What Binds Europeans”, 39–48.
 
@@ -764,9 +778,9 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^hat-nd]: chapter 8, “Hat die Konstitutionalisierung des Völkerrechts noch eine Chance?”, translated as “Does the Constitutionalization of International Law Still Have a Chance?” 113–193.
 
-[^hat-2005a]: 2005a [2006b], “Vorpolitische Grundlagen des demokratischen Rechtsstaates?”, in Jürgen Habermas and Joseph Ratzinger, *Dialetik der Säkularisierung: Über Vernunft und Religion*, Florian Schuller (ed.), Freiburg: Herder, 15–37. Reprint: 2005b [2008a]: chap. 4. Translated as “Pre-Political Foundations of the Democratic Constitutional State?”, in Habermas and Ratzinger, *The Dialectics of Secularization: On Reason and Religion*, Brian McNeil (trans.), San Francisco: Ignatius, 19–52.
+[^habermas-2005a]: 2005a [2006b], “Vorpolitische Grundlagen des demokratischen Rechtsstaates?”, in Jürgen Habermas and Joseph Ratzinger, *Dialetik der Säkularisierung: Über Vernunft und Religion*, Florian Schuller (ed.), Freiburg: Herder, 15–37. Reprint: 2005b [2008a]: chap. 4. Translated as “Pre-Political Foundations of the Democratic Constitutional State?”, in Habermas and Ratzinger, *The Dialectics of Secularization: On Reason and Religion*, Brian McNeil (trans.), San Francisco: Ignatius, 19–52.
 
-[^hat-2005b]: 2005b [2008a], *Zwischen Naturalismus und Religion: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Between Naturalism and Religion: Philosophical Essays*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity. Includes
+[^habermas-2005b]: 2005b [2008a], *Zwischen Naturalismus und Religion: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp. Translated as *Between Naturalism and Religion: Philosophical Essays*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity. Includes
 
 [^zur-nd]: chapter 3, “Zur Architektonik der Diskursdifferenzierung. Kleine Replik auf eine groβe Auseinandersetzung”, translated as “On the Architectonics of Discursive Differentiation: A Brief Response to a Major Controversy”, 77–97.
 
@@ -782,15 +796,15 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^eine-nd-2]: chapter 11, “Eine politische Verfassung für die pluralistische Weltgesellschaft?” translated as “A Political Constitution for the Pluralist World Society?”, 312–352.
 
-[^eine-2005c]: 2005c, “Transcendence from Within, Transcendence in This World”, Eric Crump and Peter P. Kenny (trans.), in *The Frankfurt School on Religion: Key Writings by the Major Thinkers*, Eduardo Mendieta (ed.), New York: Routledge, 303–326.
+[^habermas-2005c]: 2005c, “Transcendence from Within, Transcendence in This World”, Eric Crump and Peter P. Kenny (trans.), in *The Frankfurt School on Religion: Key Writings by the Major Thinkers*, Eduardo Mendieta (ed.), New York: Routledge, 303–326.
 
-[^eine-2008a]: 2008a, *Between Naturalism and Religion: Philosophical Essays*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
+[^habermas-2008a]: 2008a, *Between Naturalism and Religion: Philosophical Essays*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
 
-[^eine-2008b]: 2008b, *Ach, Europa: kleine politische Schriften XI*, Frankfurt am Main: Suhrkamp. Partially translated in *Europe: The Faltering Project*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
+[^habermas-2008b]: 2008b, *Ach, Europa: kleine politische Schriften XI*, Frankfurt am Main: Suhrkamp. Partially translated in *Europe: The Faltering Project*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
 
-[^eine-2008c]: 2008c [2010], “Ein Bewußtsein von dem, was fehlt”, in *Ein Bewusstsein von dem, was fehlt: eine Diskussion mit Jürgen Habermas*, Michael Reder and Josef Schmidt (eds.), (Edition Suhrkamp 2537), Frankfurt am Main: Suhrkamp, 16–36. Translated as “An Awareness of What Is Missing”, in *An Awareness of What Is Missing: Faith and Reason in a Post-Secular Age*, by Jürgen Habermas et al., Ciaran Cronin (trans.), Cambridge/Malden, MA: PolityPress, 2010, 15–23 (ch. 2).
+[^habermas-2008c]: 2008c [2010], “Ein Bewußtsein von dem, was fehlt”, in *Ein Bewusstsein von dem, was fehlt: eine Diskussion mit Jürgen Habermas*, Michael Reder and Josef Schmidt (eds.), (Edition Suhrkamp 2537), Frankfurt am Main: Suhrkamp, 16–36. Translated as “An Awareness of What Is Missing”, in *An Awareness of What Is Missing: Faith and Reason in a Post-Secular Age*, by Jürgen Habermas et al., Ciaran Cronin (trans.), Cambridge/Malden, MA: PolityPress, 2010, 15–23 (ch. 2).
 
-[^eine-2009]: 2009, *Europe: The Faltering Project,* Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity. Includes:
+[^habermas-2009]: 2009, *Europe: The Faltering Project,* Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity. Includes:
 
 [^what-nd]: chapter 5, “What is Meant by a ‘Post-Secular Society’? A Discussion on Islam in Europe”, 59–77.
 
@@ -802,9 +816,9 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^political-2008b]: chapter 9, “Political Communication in Media Society: Does Democracy still have an Epistemic Dimension? The Impact of Normative Theory on Empitical Research”, 138–83. Originally published as “Hat die Demokratie noch eine epistemische Dimension? Empirische Forschung und normative Theorie”, in 2008b (chapter 11).
 
-[^political-2011]: 2011 [2012], *Zur Verfassung Europas: ein Essay*, (Edition Suhrkamp. Sonderdruck), Berlin: Suhrkamp. Translated as *The Crisis of the European Union: A Response*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
+[^habermas-2011]: 2011 [2012], *Zur Verfassung Europas: ein Essay*, (Edition Suhrkamp. Sonderdruck), Berlin: Suhrkamp. Translated as *The Crisis of the European Union: A Response*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity.
 
-[^political-2012]: 2012 [2017], *Nachmetaphysisches Denken II: Aufsätze und eRepliken*, Berlin: Suhrkamp. Translated as *Postmetaphysical Thinking. II: Essays and Replies*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity Press, 2017. Includes
+[^habermas-2012]: 2012 [2017], *Nachmetaphysisches Denken II: Aufsätze und eRepliken*, Berlin: Suhrkamp. Translated as *Postmetaphysical Thinking. II: Essays and Replies*, Ciaran Cronin (trans.), Cambridge/Malden, MA: Polity Press, 2017. Includes
 
 [^eine-nd-3]: chapter 3, “Eine Hypothese zum gattungsgeschichtlichen Sinn des Ritus”,, translated as “A Hypothesis concerning the Evolutionary Meaning of Rites”, 43–56.
 
@@ -814,7 +828,7 @@ Adorno, Theodor W. | argument and argumentation | citizenship | common good | co
 
 [^das-nd]: chapter 7, “»Das Politische« – Der vernünftige Sinn eines zweifelhaften Erbstücks der Politischen Theologie”, translated as “‘The Political’: The Rational Meaning of a Questionable Inheritance of Political Theology”., 163–174.
 
-[^das-2014]: 2014, “Plea for a Constitutionalization of International Law”, *Philosophy & Social Criticism*, 40(1): 5–12. doi:10.1177/0191453713514838
+[^habermas-2014]: 2014, “Plea for a Constitutionalization of International Law”, *Philosophy & Social Criticism*, 40(1): 5–12. doi:10.1177/0191453713514838
 
 [^aboulafia-2002]: Aboulafia, Mitchell, Myra Orbach Bookman, and Cathy Kemp (eds.), 2002, *Habermas and Pragmatism*, London/New York: Routledge. doi:10.4324/9780203714713
 

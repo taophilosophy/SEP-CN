@@ -112,6 +112,8 @@ The second point relates to the previous one. In placing himself in opposition t
 
 Aristotle, General Topics: ethics | Erasmus, Desiderius | free will | hedonism | providence, divine | *sophismata* [= sophisms] | Sorites paradox | square of opposition | Stoicism | syllogism: medieval theories of
 
+[^valla-1962]: The 1962 reprint of Valla’s *Opera omnia*, contains his most important writings. A new critical edition of his complete works was launched in 2007: “Edizione Nazionale delle opere di Lorenzo Valla” (Florence: Polistampa). Several volumes have now appeared.
+
 [^opera-1962]: *Opera omnia*, Basel 1540; repr. with a second volume, Turin: Bottega d’Erasmo, 1962.
 
 [^repastinatio-1982]: *Repastinatio dialectice et philosophie*, G. Zippel (ed.), 2 vols., Padua: Antenore, 1982. [vol. 1 contains the third version; vol. 2 the first.]

@@ -238,7 +238,7 @@ Maritain had a significant influence in the development of and advocacy for the 
 
 ### 3.6 Aesthetics and Philosophy of Art
 
-Maritain had a long-standing interest in art and the arts. From one of his earliest books, *Art et scolastique* (1920, *Art and Scholasticism*), through work addressing the painter Georges Rouault and the author, Jean Cocteau (e.g., *Art and Faith: Letters Between Jacques Maritain and Jean Cocteau*, 1926 [1948]), to *Frontières de la poésie* (1935, *Art and Poetry*), *Situation de la poésie* (1938, *The Situation of Poetry*), *Creative Intuition in Art and Poetry* (1953) and *The Responsibility of the Artist* (1960), one finds sustained attention given to the topic, and references to art appear throughout his work, particularly in his epistemology. This should be no surprise. Maritain’s wife, Raïssa, was a poet, and Maritain counted among his friends and acquaintances the artists, Marc Chagall and Georges Rouault, the authors Georges Bernanos, Jean Cocteau, and Julien Green, and the composer Arthur Lourié.
+Maritain had a long-standing interest in art and the arts. From one of his earliest books, *Art et scolastique* (1920, *Art and Scholasticism*), through work addressing the painter Georges Rouault and the author, Jean Cocteau (e.g., *Art and Faith: Letters Between Jacques Maritain and Jean Cocteau*, 1926 [1948])[^maritain-1926][^maritain-1926-2][^maritain-1926-3], to *Frontières de la poésie* (1935, *Art and Poetry*), *Situation de la poésie* (1938, *The Situation of Poetry*), *Creative Intuition in Art and Poetry* (1953) and *The Responsibility of the Artist* (1960), one finds sustained attention given to the topic, and references to art appear throughout his work, particularly in his epistemology. This should be no surprise. Maritain’s wife, Raïssa, was a poet, and Maritain counted among his friends and acquaintances the artists, Marc Chagall and Georges Rouault, the authors Georges Bernanos, Jean Cocteau, and Julien Green, and the composer Arthur Lourié.
 
 The focus of Maritain’s writing is not aesthetic theory or even aesthetic experience, but art and the nature of beauty. Maritain sought to engage the world of the contemporary arts, but he was also critical of much of the aesthetics that was implied by it; he proposed to uncover principles of art at a time at which talk of such principles had already become somewhat suspect. His familiarity with the arts made his work relevant and accessible to those who engaged in them, and although his early work drew from his knowledge of western art, in his later work he also wrote about that found in Asian and Indian cultures.
 
@@ -306,173 +306,173 @@ Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy o
 
 [^maritain’s-nd]: Maritain’s principal works are listed below in chronological order: (Except where indicated otherwise, place of publication is Paris. English-language editions are noted as well.)
 
-[^maritain’s-1910]: 1910, “La science moderne et la raison”, *Revue de Philosophie*, XVI/6 (1910), pp. 575–603. Reprinted in *Antimoderne*, Éditions de la Revue des Jeunes, 1922.
+[^maritain-1910]: 1910, “La science moderne et la raison”, *Revue de Philosophie*, XVI/6 (1910), pp. 575–603. Reprinted in *Antimoderne*, Éditions de la Revue des Jeunes, 1922.
 
-[^maritain’s-1914]: 1914, *La Philosophie bergsonienne: études critiques*, Marcel Rivière et Cie. [*Bergsonian Philosophy and Thomism*, New York: Philosophical Library, 1955.]
+[^maritain-1914]: 1914, *La Philosophie bergsonienne: études critiques*, Marcel Rivière et Cie. [*Bergsonian Philosophy and Thomism*, New York: Philosophical Library, 1955.]
 
-[^maritain’s-1920]: 1920, *Art et scolastique*, Librairie de l’Art Catholique. (The 1927 edition contains “Frontières de la poésie” and important notes.) [*Art and Scholasticism and The Frontiers of Poetry*, Joseph W. Evans (trans.), New York: Charles Scribner’s Sons, 1962.]
+[^maritain-1920]: 1920, *Art et scolastique*, Librairie de l’Art Catholique. (The 1927 edition contains “Frontières de la poésie” and important notes.) [*Art and Scholasticism and The Frontiers of Poetry*, Joseph W. Evans (trans.), New York: Charles Scribner’s Sons, 1962.]
 
-[^maritain’s-1920-2]: 1920, *Éléments de Philosophie I: Introduction générale à la philosophie*, Téqui. [*An Introduction to Philosophy*, E. I. Watkin (trans.), London: Sheed and Ward, 1944.]
+[^maritain-1920-2]: 1920, *Éléments de Philosophie I: Introduction générale à la philosophie*, Téqui. [*An Introduction to Philosophy*, E. I. Watkin (trans.), London: Sheed and Ward, 1944.]
 
-[^maritain’s-1921]: 1921, *Théonas ou les entretiens d’un sage et deux philosophes sur diverses matières inégalement actuelles*, First publication in the *Revue Universelle*, April 1920 to April 1921, 1st edition, Nouvelle Librairie Nationale, 1921; 2ⁿᵈ edition, corrected, 1925. [*Theonas: Conversations of a Sage*, F.J. Sheed (trans.), London: Sheed and Ward, 1933.]
+[^maritain-1921]: 1921, *Théonas ou les entretiens d’un sage et deux philosophes sur diverses matières inégalement actuelles*, First publication in the *Revue Universelle*, April 1920 to April 1921, 1st edition, Nouvelle Librairie Nationale, 1921; 2ⁿᵈ edition, corrected, 1925. [*Theonas: Conversations of a Sage*, F.J. Sheed (trans.), London: Sheed and Ward, 1933.]
 
-[^maritain’s-1922]: 1922, *Antimoderne*, Éditions de la Revue des Jeunes.
+[^maritain-1922]: 1922, *Antimoderne*, Éditions de la Revue des Jeunes.
 
-[^maritain’s-1922-2]: 1922, *De la vie d’oraison*, 1st edition privately printed, Saint-Maurice d’Augaune; 2ⁿᵈ edition revised, l’Art Catholique, 1925. [with Raïssa Maritain] [*Prayer and intelligence*, New York: P. J. Kennedy, 1928.]
+[^maritain-1922-2]: 1922, *De la vie d’oraison*, 1st edition privately printed, Saint-Maurice d’Augaune; 2ⁿᵈ edition revised, l’Art Catholique, 1925. [with Raïssa Maritain] [*Prayer and intelligence*, New York: P. J. Kennedy, 1928.]
 
-[^maritain’s-1923]: 1923, *Éléments de philosophie II: L’ordre des concepts, I — Petite logique (Logique formelle)*. Téqui. [*An Introduction to Logic*, New York: Sheed and Ward, 1937a; *Formal Logic*, Imelda Choquette (trans.), New York: Sheed and Ward, 1937b.]
+[^maritain-1923]: 1923, *Éléments de philosophie II: L’ordre des concepts, I — Petite logique (Logique formelle)*. Téqui. [*An Introduction to Logic*, New York: Sheed and Ward, 1937a; *Formal Logic*, Imelda Choquette (trans.), New York: Sheed and Ward, 1937b.]
 
-[^maritain’s-1924]: 1924, *Réflexions sur l’intelligence et sur sa vie propre*, Bibliothèque français de philosophie, Nouvelle Librairie Nationale; Desclée, 1938.
+[^maritain-1924]: 1924, *Réflexions sur l’intelligence et sur sa vie propre*, Bibliothèque français de philosophie, Nouvelle Librairie Nationale; Desclée, 1938.
 
-[^maritain’s-1925]: 1925, *Trois Réformateurs: Luther, Descartes, Rousseau*, Librairie Plon. [*Three Reformers: Luther, Descartes, Rousseau*, New York: Charles Scribner’s Sons, 1929.]
+[^maritain-1925]: 1925, *Trois Réformateurs: Luther, Descartes, Rousseau*, Librairie Plon. [*Three Reformers: Luther, Descartes, Rousseau*, New York: Charles Scribner’s Sons, 1929.]
 
-[^maritain’s-1926]: 1926, *Georges Rouault, peintre et lithographe*, Éditions Polyglotte, Frapier. [*Georges Rouault*, New York: Harry N. Abrams, Inc., in association with Pocket Books, Inc., 1954.]
+[^maritain-1926]: 1926, *Georges Rouault, peintre et lithographe*, Éditions Polyglotte, Frapier. [*Georges Rouault*, New York: Harry N. Abrams, Inc., in association with Pocket Books, Inc., 1954.]
 
-[^maritain’s-1926-2]: 1926, *Reponse à Jean Cocteau*, Librairie Stock. [*Art and Faith: Letters between Jacques Maritain and Jean Cocteau*, New York: Philosophical Library, 1948.]
+[^maritain-1926-2]: 1926, *Reponse à Jean Cocteau*, Librairie Stock. [*Art and Faith: Letters between Jacques Maritain and Jean Cocteau*, New York: Philosophical Library, 1948.]
 
-[^maritain’s-1926-3]: 1926, *Une opinion sur Charles Maurras et le devoir des catholiques*, Plon.
+[^maritain-1926-3]: 1926, *Une opinion sur Charles Maurras et le devoir des catholiques*, Plon.
 
-[^maritain’s-1927]: 1927, *Primauté du spirituel*, Plon. [*The Things That Are Not Caesar’s*, J.F. Scanlan (trans.), New York: Charles Scribner’s Sons, 1930.]
+[^maritain-1927]: 1927, *Primauté du spirituel*, Plon. [*The Things That Are Not Caesar’s*, J.F. Scanlan (trans.), New York: Charles Scribner’s Sons, 1930.]
 
-[^maritain’s-1927-2]: 1927, *Quelques pages sur Léon Bloy. Cahiers de la Quinzaine*, 10e de la 18 serie, á l’Action du Livre.
+[^maritain-1927-2]: 1927, *Quelques pages sur Léon Bloy. Cahiers de la Quinzaine*, 10e de la 18 serie, á l’Action du Livre.
 
-[^maritain’s-1929]: 1929, *Clairvoyance de Rome par les auteurs du ‘Pourquoi Rome a parlé’. (J. Maritain et D. Lallement)*, Éditions Spes.
+[^maritain-1929]: 1929, *Clairvoyance de Rome par les auteurs du ‘Pourquoi Rome a parlé’. (J. Maritain et D. Lallement)*, Éditions Spes.
 
-[^maritain’s-1930]: 1930, *Le Docteur angélique*, Desclée de Brouwer. [*St. Thomas Aquinas: Angels of the Schools*, J.F. Scanlan (trans.), London: Sheed and Ward, 1931; Translation revised by Peter O’ Reilly and Joseph W. Evans, New York: Meridian Books, 1958.]
+[^maritain-1930]: 1930, *Le Docteur angélique*, Desclée de Brouwer. [*St. Thomas Aquinas: Angels of the Schools*, J.F. Scanlan (trans.), London: Sheed and Ward, 1931; Translation revised by Peter O’ Reilly and Joseph W. Evans, New York: Meridian Books, 1958.]
 
-[^maritain’s-1930-2]: 1930, *Religion et culture. dition originale: premier numéro de la collection des questions disputées*, Desclée de Brouwer. 2ⁿᵈ edition, with a preface, 1946. [*Religion and Culture*, London: Sheed and Ward, 1931.]
+[^maritain-1930-2]: 1930, *Religion et culture. dition originale: premier numéro de la collection des questions disputées*, Desclée de Brouwer. 2ⁿᵈ edition, with a preface, 1946. [*Religion and Culture*, London: Sheed and Ward, 1931.]
 
-[^maritain’s-1932]: 1932, *Distinguer pour unir; ou, les degrés du savoir*, Desclée de Brouwer. Eighth edition, 1963. [*Distinguish to Unite: or, The Degrees of Knowledge*, Translated under the supervision of G.B. Phelan. New York: Charles Scribner’s Sons, 1959.]
+[^maritain-1932]: 1932, *Distinguer pour unir; ou, les degrés du savoir*, Desclée de Brouwer. Eighth edition, 1963. [*Distinguish to Unite: or, The Degrees of Knowledge*, Translated under the supervision of G.B. Phelan. New York: Charles Scribner’s Sons, 1959.]
 
-[^maritain’s-1932-2]: 1932, *Le songe de Descartes*, Correa. [*The Dream of Descartes*, Mabelle L. Andison (trans.), New York: Philosophical Library, 1944.]
+[^maritain-1932-2]: 1932, *Le songe de Descartes*, Correa. [*The Dream of Descartes*, Mabelle L. Andison (trans.), New York: Philosophical Library, 1944.]
 
-[^maritain’s-1933]: 1933, *Du regime temporel et de la liberté*, Desclée de Brouwer. [*Freedom in the modern world*, Richard O’Sullivan (trans.), London: Sheed & Ward, 1935.]
+[^maritain-1933]: 1933, *Du regime temporel et de la liberté*, Desclée de Brouwer. [*Freedom in the modern world*, Richard O’Sullivan (trans.), London: Sheed & Ward, 1935.]
 
-[^maritain’s-1933-2]: 1933, *De la philosophie chrétienne*, [“Questions disputées”, Vol. IX], Desclée de Brouwer. [*An Essay on Christian Philosophy*, Edward H. Flannery (trans.), New York, Philosophical Library, 1955.]
+[^maritain-1933-2]: 1933, *De la philosophie chrétienne*, [“Questions disputées”, Vol. IX], Desclée de Brouwer. [*An Essay on Christian Philosophy*, Edward H. Flannery (trans.), New York, Philosophical Library, 1955.]
 
-[^maritain’s-1934]: 1934, *Sept leçons sur l’être et les premiers principes de la raison spéculative*, Téqui. [*A Preface to Metaphysics: Seven Lectures on Being*, New York and London: Sheed and Ward, 1939.]
+[^maritain-1934]: 1934, *Sept leçons sur l’être et les premiers principes de la raison spéculative*, Téqui. [*A Preface to Metaphysics: Seven Lectures on Being*, New York and London: Sheed and Ward, 1939.]
 
-[^maritain’s-1935]: 1935, *Frontières de la poésie*, Louis Rouart et fils. [*Art and Poetry*, E. de P. Matthews (trans.), New York: Philosophical Library, 1943.]
+[^maritain-1935]: 1935, *Frontières de la poésie*, Louis Rouart et fils. [*Art and Poetry*, E. de P. Matthews (trans.), New York: Philosophical Library, 1943.]
 
-[^maritain’s-1935-2]: 1935, *Science et sagesse, suivi d’éclaircissements sur ses frontières et son objet*, “Cours et documents de Philosophie”, Téqui. [*Science and Wisdom*, New York: Charles Scribner’s Sons, 1940.]
+[^maritain-1935-2]: 1935, *Science et sagesse, suivi d’éclaircissements sur ses frontières et son objet*, “Cours et documents de Philosophie”, Téqui. [*Science and Wisdom*, New York: Charles Scribner’s Sons, 1940.]
 
-[^maritain’s-1935-3]: 1935, *Lettre sur l’indépendance*, Desclée de Brouwer.
+[^maritain-1935-3]: 1935, *Lettre sur l’indépendance*, Desclée de Brouwer.
 
-[^maritain’s-1935-4]: 1935, *La philosophie de la nature, essai critique sur ses frontières et son objet*, Téqui. [*Philosophy of Nature*, Imelda C. Byrne (trans.), New York: Philosophical Library, 1951]
+[^maritain-1935-4]: 1935, *La philosophie de la nature, essai critique sur ses frontières et son objet*, Téqui. [*Philosophy of Nature*, Imelda C. Byrne (trans.), New York: Philosophical Library, 1951]
 
-[^maritain’s-1936]: 1936, *Humanisme intégral: problemes temporels et spirituals d’une nouvelle chrétienté*, Fernand Aubier. Two translations: *True humanism*, M.R. Adamson (trans.), London: Bles, 1938; *Integral Humanism: Temporal and Spiritual Problems of a New Christendom*, Joseph W. Evans (trans.), New York: Charles Scribner’s Sons, 1968.]
+[^maritain-1936]: 1936, *Humanisme intégral: problemes temporels et spirituals d’une nouvelle chrétienté*, Fernand Aubier. Two translations: *True humanism*, M.R. Adamson (trans.), London: Bles, 1938; *Integral Humanism: Temporal and Spiritual Problems of a New Christendom*, Joseph W. Evans (trans.), New York: Charles Scribner’s Sons, 1968.]
 
-[^maritain’s-1938]: 1938, *Situation de la poésie*, Desclée de Brouwer. [with Raïssa Maritain] [*The Situation of Poetry*, Marshall Suther (trans.), New York: Philosophical Library, 1955.]
+[^maritain-1938]: 1938, *Situation de la poésie*, Desclée de Brouwer. [with Raïssa Maritain] [*The Situation of Poetry*, Marshall Suther (trans.), New York: Philosophical Library, 1955.]
 
-[^maritain’s-1938-2]: 1938, *Les Juifs parmi les nations*, Éditions du Cerf. [*A Christian Look at the Jewish Question*, New York: Longmans, Green, 1939.]
+[^maritain-1938-2]: 1938, *Les Juifs parmi les nations*, Éditions du Cerf. [*A Christian Look at the Jewish Question*, New York: Longmans, Green, 1939.]
 
-[^maritain’s-1938-3]: 1938, *Questions de conscience*, [“Questions disputées”, Vol. XXI] 2nd edition. Desclée de Brouwer.
+[^maritain-1938-3]: 1938, *Questions de conscience*, [“Questions disputées”, Vol. XXI] 2nd edition. Desclée de Brouwer.
 
-[^maritain’s-1939]: 1939, *Quatre essais sur l’esprit dans sa condition charnelle*, Bibliothèque français de philosophie, Desclée de Brouwer. Nouvelle Édition revue, Alsatia, 1956.
+[^maritain-1939]: 1939, *Quatre essais sur l’esprit dans sa condition charnelle*, Bibliothèque français de philosophie, Desclée de Brouwer. Nouvelle Édition revue, Alsatia, 1956.
 
-[^maritain’s-1939-2]: 1939, *Antisemitism*, London, G. Bles.
+[^maritain-1939-2]: 1939, *Antisemitism*, London, G. Bles.
 
-[^maritain’s-1940]: 1940, *De la justice politique, notes sur la presente guerre*, Collection “Presences”, Plon.
+[^maritain-1940]: 1940, *De la justice politique, notes sur la presente guerre*, Collection “Presences”, Plon.
 
-[^maritain’s-1940-2]: 1940, *Scholasticism and Politics*, New York: The Macmillan Company. [with Mortimer Jerome Adler]
+[^maritain-1940-2]: 1940, *Scholasticism and Politics*, New York: The Macmillan Company. [with Mortimer Jerome Adler]
 
-[^maritain’s-1941]: 1941, *A travers le désastre*, New York: Éditions de la Maison française. [*France, My Country, Through the Disaster*, New York: Longmans, Green, 1941.]
+[^maritain-1941]: 1941, *A travers le désastre*, New York: Éditions de la Maison française. [*France, My Country, Through the Disaster*, New York: Longmans, Green, 1941.]
 
-[^maritain’s-1941-2]: 1941, *La pensée de Saint Paul, textes choisis et présentés*, New York: Éditions de la Maison française. [*The Living Thoughts of Saint Paul*, Harry Lorin Binsse (trans.), New York: Longmans, Green, 1941.]
+[^maritain-1941-2]: 1941, *La pensée de Saint Paul, textes choisis et présentés*, New York: Éditions de la Maison française. [*The Living Thoughts of Saint Paul*, Harry Lorin Binsse (trans.), New York: Longmans, Green, 1941.]
 
-[^maritain’s-1941-3]: 1941, *Ransoming the Time*, New York: Charles Scribner’s Sons, Harry Lorin Binsse (trans.) [A translation of essays written in French, but not collected in a single volume.]
+[^maritain-1941-3]: 1941, *Ransoming the Time*, New York: Charles Scribner’s Sons, Harry Lorin Binsse (trans.) [A translation of essays written in French, but not collected in a single volume.]
 
-[^maritain’s-1941-4]: 1941, *Confession de foi*, New York: Éditions de la Maison française. [French translation of an essay published in *I Believe*, Clifton Fadiman (ed.), London: Allen and Unwin, 1940.]
+[^maritain-1941-4]: 1941, *Confession de foi*, New York: Éditions de la Maison française. [French translation of an essay published in *I Believe*, Clifton Fadiman (ed.), London: Allen and Unwin, 1940.]
 
-[^maritain’s-1941-5]: 1941, *Le Crépuscule de la civilisation*, Montréal: Éditions de l’Arbre. [*The Twilight of Civilization*, London: Sheed and Ward, 1946.]
+[^maritain-1941-5]: 1941, *Le Crépuscule de la civilisation*, Montréal: Éditions de l’Arbre. [*The Twilight of Civilization*, London: Sheed and Ward, 1946.]
 
-[^maritain’s-1941-6]: 1941, “The immortality of man”, *The Review of Politics*, 3(4): 411. Reprinted in *Man’s destiny in eternity*, Boston: Beacon Press, chapter 2, 1949. doi:10.1017/S0034670500002023
+[^maritain-1941-6]: 1941, “The immortality of man”, *The Review of Politics*, 3(4): 411. Reprinted in *Man’s destiny in eternity*, Boston: Beacon Press, chapter 2, 1949. doi:10.1017/S0034670500002023
 
-[^maritain’s-1942]: 1942, *Les droits de l’homme et la loi naturelle*, New York: Éditions de la Maison française. [*The Rights of Man and Natural Law*, Doris C. Anson (trans.), New York: Charles Scribner’s Sons, 1943.]
+[^maritain-1942]: 1942, *Les droits de l’homme et la loi naturelle*, New York: Éditions de la Maison française. [*The Rights of Man and Natural Law*, Doris C. Anson (trans.), New York: Charles Scribner’s Sons, 1943.]
 
-[^maritain’s-1942-2]: 1942, *Saint Thomas and the problem of evil*, Mrs. Gordon Andison [Mabelle L. Andison] (trans.), Milwaukee: Marquette University Press.
+[^maritain-1942-2]: 1942, *Saint Thomas and the problem of evil*, Mrs. Gordon Andison [Mabelle L. Andison] (trans.), Milwaukee: Marquette University Press.
 
-[^maritain’s-1943]: 1943, *Christianisme et Démocratie*, New York: Éditions de la Maison française. [*Christianity and Democracy*, . Doris C. Anson (trans.), New York: Charles Scribner’s Sons, 1944.]
+[^maritain-1943]: 1943, *Christianisme et Démocratie*, New York: Éditions de la Maison française. [*Christianity and Democracy*, . Doris C. Anson (trans.), New York: Charles Scribner’s Sons, 1944.]
 
-[^maritain’s-1943-2]: 1943, *Sort de l’homme*, Neuchâtel: Éditions de La Baconnière.
+[^maritain-1943-2]: 1943, *Sort de l’homme*, Neuchâtel: Éditions de La Baconnière.
 
-[^maritain’s-1943-3]: 1943, *Education at the Crossroads*, New Haven: Yale University Press. [*L’éducation à la croisée des chemins*, Egloff, 1947; republished, with additional material, as *Pour une philosophie de l’education*, Arthème Fayard, 1959. Nouvelle édition, 1969.]
+[^maritain-1943-3]: 1943, *Education at the Crossroads*, New Haven: Yale University Press. [*L’éducation à la croisée des chemins*, Egloff, 1947; republished, with additional material, as *Pour une philosophie de l’education*, Arthème Fayard, 1959. Nouvelle édition, 1969.]
 
-[^maritain’s-1944]: 1944, *Principes d’une politique humaniste*, New York: Éditions de la maison française.
+[^maritain-1944]: 1944, *Principes d’une politique humaniste*, New York: Éditions de la maison française.
 
-[^maritain’s-1944-2]: 1944, *De Bergson à Thomas d’Aquin, essais de métaphysique et de morale*, New York: Éditions de la Maison française. Hartmann, 1947.
+[^maritain-1944-2]: 1944, *De Bergson à Thomas d’Aquin, essais de métaphysique et de morale*, New York: Éditions de la Maison française. Hartmann, 1947.
 
-[^maritain’s-1945]: 1945, *A travers la victoire*, Hartmann.
+[^maritain-1945]: 1945, *A travers la victoire*, Hartmann.
 
-[^maritain’s-1945-2]: 1945, *Messages 1941–1944*, New York: Éditions de la Maison française; Hartmann.
+[^maritain-1945-2]: 1945, *Messages 1941–1944*, New York: Éditions de la Maison française; Hartmann.
 
-[^maritain’s-1945-3]: 1945, *Pour la justice*, New York: Éditions de la Maison française.
+[^maritain-1945-3]: 1945, *Pour la justice*, New York: Éditions de la Maison française.
 
-[^maritain’s-1947]: 1947, *Court traité de l’existence et de l’existant*, Hartmann. [*Existence and the Existent*, Lewis Galantière and Gerald B. Phelan (trans.), New York: Pantheon Books, 1948.]
+[^maritain-1947]: 1947, *Court traité de l’existence et de l’existant*, Hartmann. [*Existence and the Existent*, Lewis Galantière and Gerald B. Phelan (trans.), New York: Pantheon Books, 1948.]
 
-[^maritain’s-1947-2]: 1947, *La personne et le bien commun*, Desclée de Brouwer. [*The Person and the Common Good*, John J. Fitzgerald (trans.), New York: Charles Scribner’s Sons, 1947.]
+[^maritain-1947-2]: 1947, *La personne et le bien commun*, Desclée de Brouwer. [*The Person and the Common Good*, John J. Fitzgerald (trans.), New York: Charles Scribner’s Sons, 1947.]
 
-[^maritain’s-1948]: 1948, *Art and faith*, New York, Philosophical Library. [see *Réponse a Jean Cocteau*, 1933.]
+[^maritain-1948]: 1948, *Art and faith*, New York, Philosophical Library. [see *Réponse a Jean Cocteau*, 1933.]
 
-[^maritain’s-1948-2]: 1948, *Raison et raisons, essais détachés*, Egloff. [*The Range of Reason*, New York: Charles Scribner’s Sons, 1952.]
+[^maritain-1948-2]: 1948, *Raison et raisons, essais détachés*, Egloff. [*The Range of Reason*, New York: Charles Scribner’s Sons, 1952.]
 
-[^maritain’s-1949]: 1949, *La signification de l’athéisme contemporain*, Collection “Courier de Iles”, Desclée de Brouwer.
+[^maritain-1949]: 1949, *La signification de l’athéisme contemporain*, Collection “Courier de Iles”, Desclée de Brouwer.
 
-[^maritain’s-1949-2]: 1949, *Etienne Gilson, philosophe de la chrétienté*, Cerf.
+[^maritain-1949-2]: 1949, *Etienne Gilson, philosophe de la chrétienté*, Cerf.
 
-[^maritain’s-1951]: 1951, *Man and the State*, Chicago: University of Chicago Press. [*L’Homme et L’État*, Translated into French by Robert and France Duval, Presses Universitaires de France, 1953.]
+[^maritain-1951]: 1951, *Man and the State*, Chicago: University of Chicago Press. [*L’Homme et L’État*, Translated into French by Robert and France Duval, Presses Universitaires de France, 1953.]
 
-[^maritain’s-1951-2]: 1951, *Lettres inédites sur l’inquiétude moderne*, Éditions universelles. [with René Schwob]
+[^maritain-1951-2]: 1951, *Lettres inédites sur l’inquiétude moderne*, Éditions universelles. [with René Schwob]
 
-[^maritain’s-1951-3]: 1951, *Neuf leçons sur les notions premières de la philosophie morale*, “Cours et documents de philosophie”, Téqui. [*An Introduction to Basic Problems of Moral Philosophy*, Albany, N.Y.: Magi Books, 1990.]
+[^maritain-1951-3]: 1951, *Neuf leçons sur les notions premières de la philosophie morale*, “Cours et documents de philosophie”, Téqui. [*An Introduction to Basic Problems of Moral Philosophy*, Albany, N.Y.: Magi Books, 1990.]
 
-[^maritain’s-1953]: 1953, *Approches de Dieu*, Collection “Sagesse et cultures”, Alsatia; in *Oeuvres complètes de Jacques et Raïssa Maritain*, Vol. X, Fribourg: Editions Universitaires; Paris: Editions Saint-Paul, 1985); [*Approaches to God*, Peter O’Reilly (trans.), New York: Harper and Brothers, 1954.]
+[^maritain-1953]: 1953, *Approches de Dieu*, Collection “Sagesse et cultures”, Alsatia; in *Oeuvres complètes de Jacques et Raïssa Maritain*, Vol. X, Fribourg: Editions Universitaires; Paris: Editions Saint-Paul, 1985); [*Approaches to God*, Peter O’Reilly (trans.), New York: Harper and Brothers, 1954.]
 
-[^maritain’s-1953-2]: 1953, *Creative Intuition in Art and Poetry*, New York: Pantheon Books. [*L’Intuition créatrice dans l’art et dans la poésie*, Desclée de Brouwer, 1966.]
+[^maritain-1953-2]: 1953, *Creative Intuition in Art and Poetry*, New York: Pantheon Books. [*L’Intuition créatrice dans l’art et dans la poésie*, Desclée de Brouwer, 1966.]
 
-[^maritain’s-1957]: 1957, *On the Philosophy of History*, New York: Charles Scribner’s Sons. [*Pour une philosophie de l’histoire*, Mgr Charles Journet (trans.), Éditions du Seuil, 1959.]
+[^maritain-1957]: 1957, *On the Philosophy of History*, New York: Charles Scribner’s Sons. [*Pour une philosophie de l’histoire*, Mgr Charles Journet (trans.), Éditions du Seuil, 1959.]
 
-[^maritain’s-1958]: 1958, *Reflections on America*, New York: Charles Scribner’s Sons. [*Réflexions sur l’Amérique*, Fayard, 1959.]
+[^maritain-1958]: 1958, *Reflections on America*, New York: Charles Scribner’s Sons. [*Réflexions sur l’Amérique*, Fayard, 1959.]
 
-[^maritain’s-1959]: 1959, *Pour une philosophie de l’éducation*, Fayard.
+[^maritain-1959]: 1959, *Pour une philosophie de l’éducation*, Fayard.
 
-[^maritain’s-1960]: 1960, *Liturgy and contemplation*, London: G. Chapman. [with Raïssa Maritain]
+[^maritain-1960]: 1960, *Liturgy and contemplation*, London: G. Chapman. [with Raïssa Maritain]
 
-[^maritain’s-1960-2]: 1960, *The Responsibility of the Artist*, New York: Charles Scribner’s Sons. [*La responsabilité de l’artiste*, Georges and Christianne Brazzola (trans.), Fayard, 1961.]
+[^maritain-1960-2]: 1960, *The Responsibility of the Artist*, New York: Charles Scribner’s Sons. [*La responsabilité de l’artiste*, Georges and Christianne Brazzola (trans.), Fayard, 1961.]
 
-[^maritain’s-1960-3]: 1960, *Le philosophe dans la cité*, Alsatia.
+[^maritain-1960-3]: 1960, *Le philosophe dans la cité*, Alsatia.
 
-[^maritain’s-1960-4]: 1960, *La philosophie morale. I. Examen historique et critique des grands systemes*, Gallimard, Bibliothèque de Idées. [*Moral Philosophy*, Joseph W. Evans (ed.), London: G. Bles, 1964.]
+[^maritain-1960-4]: 1960, *La philosophie morale. I. Examen historique et critique des grands systemes*, Gallimard, Bibliothèque de Idées. [*Moral Philosophy*, Joseph W. Evans (ed.), London: G. Bles, 1964.]
 
-[^maritain’s-1961]: 1961, *On the use of philosophy; three essays*, Princeton, N.J.: Princeton University Press.
+[^maritain-1961]: 1961, *On the use of philosophy; three essays*, Princeton, N.J.: Princeton University Press.
 
-[^maritain’s-1963]: 1963, *Dieu et la permission du mal*, Desclée de Brouwer. [*God and the Permission of Evil*, Milwaukee: The Bruce Publishing Co., 1966.]
+[^maritain-1963]: 1963, *Dieu et la permission du mal*, Desclée de Brouwer. [*God and the Permission of Evil*, Milwaukee: The Bruce Publishing Co., 1966.]
 
-[^maritain’s-1965]: 1965, *Carnet de notes*, Desclée de Brouwer. [*Notebooks*, Joseph W. Evans (trans.), Albany: Magi Books/ Notre Dame, IN: University of Notre Dame Press, 1984.]
+[^maritain-1965]: 1965, *Carnet de notes*, Desclée de Brouwer. [*Notebooks*, Joseph W. Evans (trans.), Albany: Magi Books/ Notre Dame, IN: University of Notre Dame Press, 1984.]
 
-[^maritain’s-1965-2]: 1965, *Le mystère d’Israël et autres essais*, Desclée de Brouwer.
+[^maritain-1965-2]: 1965, *Le mystère d’Israël et autres essais*, Desclée de Brouwer.
 
-[^maritain’s-1967]: 1967, *The Education of Man*, Donald and Idella Gallagher (eds), New York: Doubleday and Co.
+[^maritain-1967]: 1967, *The Education of Man*, Donald and Idella Gallagher (eds), New York: Doubleday and Co.
 
-[^maritain’s-1967-2]: 1967, *Le paysan de la Garonne: Une vieux laïc s’interroge à propos du temps présent*, Desclée de Brouwer. [*The Peasant of the Garonne: An Old Layman Questions Himself about the Present Time*, Micheal Cuddihy and Elizabeth Hughes (trans.), New York: Holt, Rinehart, and Winston, 1968.]
+[^maritain-1967-2]: 1967, *Le paysan de la Garonne: Une vieux laïc s’interroge à propos du temps présent*, Desclée de Brouwer. [*The Peasant of the Garonne: An Old Layman Questions Himself about the Present Time*, Micheal Cuddihy and Elizabeth Hughes (trans.), New York: Holt, Rinehart, and Winston, 1968.]
 
-[^maritain’s-1967-3]: 1967, *De la grâce et de l’humanité de Jésus*, Bruges: Desclée de Brouwer. [*On the Grace and Humanity of Jesus*, Joseph W. Evans (trans.), New York: Herder and Herder, 1969.]
+[^maritain-1967-3]: 1967, *De la grâce et de l’humanité de Jésus*, Bruges: Desclée de Brouwer. [*On the Grace and Humanity of Jesus*, Joseph W. Evans (trans.), New York: Herder and Herder, 1969.]
 
-[^maritain’s-1970]: 1970, *De l’église du Christ, la personne de l’Église et son personnel*, Desclée de Brouwer. [*On the Church of Christ: The Person of the Church and Her Personnel*, Joseph W. Evans (trans.), Notre Dame, IN: University of Notre Dame Press, 1973.]
+[^maritain-1970]: 1970, *De l’église du Christ, la personne de l’Église et son personnel*, Desclée de Brouwer. [*On the Church of Christ: The Person of the Church and Her Personnel*, Joseph W. Evans (trans.), Notre Dame, IN: University of Notre Dame Press, 1973.]
 
-[^maritain’s-1973]: 1973, *Approches sans entraves*, Librairie Arthème Fayard.
+[^maritain-1973]: 1973, *Approches sans entraves*, Librairie Arthème Fayard.
 
-[^maritain’s-1973-2]: 1973, *Jacques Maritain, Emmanuel Mounier (1929–1939): [Correspondance]*, Desclée de Brouwer.
+[^maritain-1973-2]: 1973, *Jacques Maritain, Emmanuel Mounier (1929–1939): [Correspondance]*, Desclée de Brouwer.
 
-[^maritain’s-1979]: 1979, *Une grande amitié: correspondance, 1926–1972 / Julien Green et Jacques Maritain*, Présentée et annotée par Jean-Pierre Piriou. Précédée de *Jacques Maritain vivant* de Julien Green. Plon. [*The story of two souls: the correspondence of Jacques Maritain and Julien Green*, Henry Bars and Eric Jourdan (eds), translated with an introduction and revised notes by Bernard Doering, New York: Fordham University Press, 1988.]
+[^maritain-1979]: 1979, *Une grande amitié: correspondance, 1926–1972 / Julien Green et Jacques Maritain*, Présentée et annotée par Jean-Pierre Piriou. Précédée de *Jacques Maritain vivant* de Julien Green. Plon. [*The story of two souls: the correspondence of Jacques Maritain and Julien Green*, Henry Bars and Eric Jourdan (eds), translated with an introduction and revised notes by Bernard Doering, New York: Fordham University Press, 1988.]
 
-[^maritain’s-1986]: 1986, *La loi naturelle ou loi non écrite: texte inédit, établi par Georges Brazzola*, Fribourg, Suisse: Éditions universitaires. [*Lectures on Natural Law*, William Sweet (trans.), in *The Collected Works of Jacques Maritain*, vol. 6, Notre Dame, IN: University of Notre Dame Press, (forthcoming).]
+[^maritain-1986]: 1986, *La loi naturelle ou loi non écrite: texte inédit, établi par Georges Brazzola*, Fribourg, Suisse: Éditions universitaires. [*Lectures on Natural Law*, William Sweet (trans.), in *The Collected Works of Jacques Maritain*, vol. 6, Notre Dame, IN: University of Notre Dame Press, (forthcoming).]
 
-[^maritain’s-1992]: 1992, *Exiles and fugitives: the letters of Jacques and Raïssa Maritain, Allen Tate, and Caroline Gordon*, John M. Dunaway (ed.), Baton Rouge: Louisiana State University Press.
+[^maritain-1992]: 1992, *Exiles and fugitives: the letters of Jacques and Raïssa Maritain, Allen Tate, and Caroline Gordon*, John M. Dunaway (ed.), Baton Rouge: Louisiana State University Press.
 
-[^maritain’s-1993]: 1993, *L’Europe et l’idée fédérale:* textes publiés par le Cercle d’études Jacques et Raïssa Maritain. Mame.
+[^maritain-1993]: 1993, *L’Europe et l’idée fédérale:* textes publiés par le Cercle d’études Jacques et Raïssa Maritain. Mame.
 
-[^maritain’s-2001]: 2001, *Natural Law: reflections on theory and practice* (edited with Introductions and notes, by William Sweet), South Bend, IN: St Augustine’s Press [distributed by University of Chicago Press]; Second printing, corrected, 2003.
+[^maritain-2001]: 2001, *Natural Law: reflections on theory and practice* (edited with Introductions and notes, by William Sweet), South Bend, IN: St Augustine’s Press [distributed by University of Chicago Press]; Second printing, corrected, 2003.
 
 [^though-1994]: Though now dated, the most comprehensive list of studies of Maritain’s work is found in Jean-Louis Allard and Pierre Germain, *Répertoire bibliographique sur la vie et l’oeuvre de Jacques et Raïssa Maritain*, Ottawa, 1994, 232 p.
 
@@ -685,11 +685,5 @@ Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy o
 [^wippel-2014]: Wippel, John F., 2014, “Maritain and Aquinas on Our Discovery of Being”, *Studia Gilsoniana: A Journal of Classical Philosophy*, 3: 415–443. [[Wippel 2014 available online](http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-07ffc534-af58-42da-b84c-0fc1db6cd182)]
 
 [^zunic-2005]: Zunic, Nikolaj, 2005, “Maritain on Human Fellowship and the Evil of Genocide”, *Études Maritainiennes—Maritain Studies*, 21: 97–121.
-
-[^zunic-1948]: 1948, *Jacques Maritain: Son oeuvre philosophique*, Paris: Bibliothèque de la Revue Thomiste.
-
-[^zunic-1982]: 1982, *Maritain Centenary*, special issue of *The Review of Politics*, 44(4).
-
-[^zunic-1943]: 1943, Issue dedicated to Jacques Maritain of *The Thomist*, volume 5, New York: Sheed and Ward.
 
 [^additional-nd]: Additional studies of Maritain’s work are available in such journals as [*Études Maritainiennes—Maritain Studies*](http://people.stfx.ca/wsweet/etudes.html), *Cahiers Jacques et Raïssa Maritain*, and *Notes et documents: pour une recherche personnaliste*.

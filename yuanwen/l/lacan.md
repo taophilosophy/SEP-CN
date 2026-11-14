@@ -196,28 +196,6 @@ Althusser, Louis | desire | feminist philosophy, approaches: continental philoso
 
 [^as-nd]: As regards secondary sources, I have been highly selective in compiling the list that follows. There are mountains of literature on Lacan in multiple languages. Moreover, these bodies of scholarship cover Lacan’s ideas from a vast array of disciplinary angles. Considering the context of this overview, the secondary sources listed below are, for the most part, books in English with more of a philosophical/theoretical focus.
 
-[^as-2001]: 2001, *Autres écrits*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil. Includes:
-
-[^as-1938]: 1938, “Les complexes familiaux dans la formation de l’individu: Essai d’analyse d’une fonction en psychologie”.
-
-[^as-1947]: 1947, “La psychiatrie anglaise et la guerre”.
-
-[^as-2021]: 2021, *Aux confins du Séminaire*, Jacques-Alain Miller (ed.), Paris: Navarin.
-
-[^as-1966]: 1966, *Écrits*, Paris: Éditions du Seuil.
-
-[^as-2011]: 2011, *Je parle aux murs: Entretiens de la chapelle de Sainte-Anne*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
-
-[^as-2005]: 2005, *Mon enseignement*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
-
-[^as-2007]: 2007, *Le mythe individuel du névrosé, ou Poésie et verité dans la névrose*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
-
-[^as-2005-2]: 2005, *Des noms-du-père*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
-
-[^as-2023]: 2023, *Premiers écrits*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
-
-[^as-1932]: 1932, *De la psychose paranoïaque dans ses rapports avec la personnalité, suivi de Premiers écrits sur la paranoïa*, Paris: Éditions du Seuil, 1975.
-
 [^le-nd]: *Le Séminaire de Jacques Lacan,*
 
 [^livre-1953]: *Livre I: Les écrits techniques de Freud, 1953–1954*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil, 1975.

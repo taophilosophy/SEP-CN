@@ -27,7 +27,7 @@ A rather important if under-appreciated early influence on Wolff’s thinking, p
 
 It was G. W. Leibniz, however, who would exercise the most consequential influence on Wolff, both professionally (as seen above) and philosophically. Wolff is often described as a disciple or follower of Leibniz, a characterization for which there is some justification. So, central tenets of Wolff’s philosophical system closely resemble those advanced by Leibniz. The commitment to metaphysics, the extensive use of the principle of sufficient reason, and the (qualified) endorsement of the pre-established harmony are among many striking points of agreement. Indeed, Wolff appears not only to accept the principles and method of analysis posed by Leibniz, but he also identifies opponents to his system, such as Scholasticism, Spinoza, and materialist strains of thought, that Leibniz opposed in his own.
 
-To describe Wolff as merely a disciple of Leibniz, however, is misleading in several respects. First and foremost, this characterization undercuts the important philosophical differences that existed between the two men. Second it misconstrues the nature of their relationship and the type of intellectual exchange that transpired between them. During the early part of Wolff’s career, and the period when he corresponded with Leibniz, Wolff’s primary focus was in the field of mathematics. It is maintained that Wolff was the first to teach calculus formally in Germany (Beck 1969: 257)[^beck-1969]. According to Wolff’s own report (Wuttke 1841: 146)[^wuttke-1841], when he arrived at Halle in 1707, mathematics was “entirely neglected, nay quite unknown, in that place”. With the exception of his *German Logic*, Wolff’s energy early in his career was directed at producing the four-volume *Elements of All the Mathematical Sciences* [German edition 1710, and Latin edition 1713][^german-1710] as well as the *Mathematical Lexicon* [1716]. In this light, it is perhaps not surprising to find the bulk of the Wolff-Leibniz correspondence dedicated to issues in mathematics. Although they also exchanged ideas on philosophical topics (for discussion, see Rutherford 2004)[^rutherford-2004], their philosophical correspondence centered primarily on ethics and philosophical theology.
+To describe Wolff as merely a disciple of Leibniz, however, is misleading in several respects. First and foremost, this characterization undercuts the important philosophical differences that existed between the two men. Second it misconstrues the nature of their relationship and the type of intellectual exchange that transpired between them. During the early part of Wolff’s career, and the period when he corresponded with Leibniz, Wolff’s primary focus was in the field of mathematics. It is maintained that Wolff was the first to teach calculus formally in Germany (Beck 1969: 257)[^beck-1969]. According to Wolff’s own report (Wuttke 1841: 146)[^wuttke-1841], when he arrived at Halle in 1707, mathematics was “entirely neglected, nay quite unknown, in that place”. With the exception of his *German Logic*, Wolff’s energy early in his career was directed at producing the four-volume *Elements of All the Mathematical Sciences* [German edition 1710, and Latin edition 1713] as well as the *Mathematical Lexicon* [1716]. In this light, it is perhaps not surprising to find the bulk of the Wolff-Leibniz correspondence dedicated to issues in mathematics. Although they also exchanged ideas on philosophical topics (for discussion, see Rutherford 2004)[^rutherford-2004], their philosophical correspondence centered primarily on ethics and philosophical theology.
 
 Leibniz published his *Theodicy* in 1710, and this work remained the only extended presentation of his philosophical ideas published in his lifetime. Apart from a handful of other smaller articles written on philosophical topics, most notably, *Meditations on Knowledge, Truth, and Ideas* [1684], *A Specimen of Dynamics* [1695], and *On Nature Itself* [1698], there were relatively few texts available, and hardly any from what is regarded today as the core of Leibniz’s *corpus*, from which Wolff could have extracted a definitive statement of Leibniz’s philosophy. Consider a remark by Leibniz to Nicolas Remond, in a letter dated July 1714:
 
@@ -304,9 +304,7 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^german-nd]: In the case of the *German Logic* and *German Metaphysics*, both of which saw numerous editions and significant changes throughout Wolff’s lifetime, references in this entry are to the later, reprinted editions.
 
-[^german-nd-2]: In the above entry, all translations are by the authors unless otherwise indicated.
-
-[^german-1710]: 1710, *Der Anfangs-Gründe aller mathematischen Wissenschafften* (Elements of All the Mathematical Sciences), Halle.
+[^wolff-nd]: In the above entry, all translations are by the authors unless otherwise indicated.
 
 [^gl-1713]: [GL] 1713, *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (Rational Thoughts on the Powers of the Human Understanding and its Proper Use in the Cognition of Truth), Halle. 14ᵗʰ edition [1754] reprinted with an introduction by Hans Werner Arndt in *Christian Wolff, Gesammelte Werke*, 1.Abt., Deutsche Schriften, Bd.1. Hildesheim: Olms, 1965.
 
@@ -321,18 +319,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 [^ge-1724]: 1724, *Vernünftige Gedanken von den Absichten der natürlichen Dingen* (Rational Thoughts on the Purposes of Natural Things), Frankfurt and Leipzig.
 
 [^ge-1725]: 1725, *Vernünftige Gedanken von dem Gebrauche der Theile des menschlichen Leibes, der Thiere und Pflanzen* (Rational Thoughts on the Employment of the Parts of the Human Body, Animals, and Plants), Frankfurt.
-
-[^ge-1703a]: 1703a, *Philosophia practica universalis, methodo mathematica conscripta* (On Universal Practical Philosophy, composed according to the Mathematical Method).
-
-[^ge-1703b]: 1703b, *Disquisitio philosophica de loquela*, Leipzig.
-
-[^ge-1709]: 1709, *Aërometriæ elementa*, Leipzig.
-
-[^ge-1713]: 1713–15, *Elementa matheseos universae* (Elements of All the Mathematical Sciences), 2 vols. Halle.
-
-[^ge-1716]: 1716, *Mathematisches Lexicon* (Mathematical Lexicon), Leipzig.
-
-[^ge-1718]: 1718, *Ratio prælectionum Wolfianarum*, Halle.
 
 [^ll-1728]: [LL] 1728, *Philosophia rationalis sive Logica, methodo scientifica pertractata, et ad usum scientiarum. atque vitae aptata. Praemittitur discursus praeliminaris de philosophia in genere* (Rational Philosophy, or Logic), Frankfurt. Includes
 
@@ -357,18 +343,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 [^nt-1750]: 1750–3, *Philosophia moralis sive ethica*, 5 vols., Halle.
 
 [^nt-1963]: 1963, *Briefwechsel zwischen Leibniz und Christian Wolff*, C. I. Gerhardt (ed.). Hildesheim: Georg Olms Verlagsbuchhandlung.
-
-[^nt-1770]: 1770, *Logic, or Rational Thoughts on the Powers of the Human Understanding with their Use and Application in the Knowledge and Search of Truth*, London: Printed for L. Hawes, W. Clarke, and R. Collins. Translation of *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (1713/GL).
-
-[^nt-1963-2]: 1963, *Preliminary Discourse on Philosophy in General*, translated by Richard J. Blackwell, Indianapolis: The Bobbs-Merrill Company, Inc. Translation of *Discursus praeliminaris de philosophia in genere* (1729/DP).
-
-[^nt-1992]: 1992, *Moral Enlightenment: Leibniz and Wolff on China*, translated by Julia Ching and Willard Gurdon Oxtoby, Nettetal: Steyler Verlag. Contains a translation of Wolff's *Oratio de Sinarum philosophia practica*.
-
-[^nt-2003]: 2003, *Moral Philosophy from Montaigne to Kant*, translated by J. B. Schneewind, Cambridge: Cambridge University Press. Contains a translation of excerpts from Wolff’s *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (1720b).
-
-[^nt-2009]: 2009, *Kant’s Critique of Pure Reason: Background Source Materials*, edited and translated by Eric Watkins, Cambridge: Cambridge University Press. Contains a translation of excerpts from Wolff’s *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (1720a/GM).
-
-[^nt-2017]: 2017, *The Law of Nations Treated according to a Scientific Method*, translated by Joseph H. Drake, revised and edited by Thomas Ahnert, Carmel, IN: Liberty Fund. Translation of *Jus gentium methodo scientifica pertractatum* (1749).
 
 [^emgp-2019]: [EMGP] 2019, *Early Modern German Philosophy*, edited and translated by Corey W. Dyck, Oxford: Oxford University Press. Contains a translation of selections from Wolff’s *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (1729a/GM) and of Wolff’s “Refutation of Spinoza” from the *Theologia naturalis* (1736–7/NT).
 

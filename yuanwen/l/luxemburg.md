@@ -147,20 +147,6 @@ capitalism | colonialism | democracy | exploitation | feminist philosophy, topic
 
 [^luxemburg’s-nd]: The main sources for Luxemburg's work are as follows, where the abbreviations used for citations in the text are in bold:
 
-[^luxemburg’s-1900]: 1900, “Social Reform or Revolution” [“*Sozialreform oder Revolution?*”], Dick Howard (trans.), in [RLR], pp. 128–167.
-
-[^luxemburg’s-1902]: 1902, “Women's Suffrage and Class Struggle” [“*Frauenwahlrecht und Klassenkampf*”], Rosmarie Waldrop (trans.), in [RLR], pp. 237–242.
-
-[^luxemburg’s-1905]: 1905, “ The Mass Strike, the Political Party and the Trade Union” [“*Massenstreik, Partei und Gewerkschaften*”], Patrick Lavan (trans.), in [RLR], pp. 168–199.
-
-[^luxemburg’s-1925]: 1925, “Introduction to Political Economy” [“*Einführung in die Nationalökonomie*”], David Fernbach (trans.), in [CW], pp. 89–300.
-
-[^luxemburg’s-1914]: 1914, “The Proletarian Woman” [“*Die Proletarierin*”], Ashley Passmore and Kevin B. Anderson (trans.), in [RLR], pp. 242–245.
-
-[^luxemburg’s-1915]: 1915, “The ‘Junius’ Pamphlet: The Crisis of German Social Democracy” [“*Die Krise der Sozialdemokratie: Die ‘Junius’ Broschüre*”], Dave Hollis (trans.), in [RLR], pp. 312–341.
-
-[^luxemburg’s-1922]: 1922, “The Russian Revolution” [“*Zur russischen Revolution*”], Bertram Wolfe (trans.), in [RLR], pp. 281–311. Excerpt included on p. 25 of [RLR] Introduction, pp. 7–30, by Peter Hudis and Kevin B. Anderson.
-
 [^bellofiore-2009]: Bellofiore, R. (ed.), 2009, *Rosa Luxemburg and the Critique of Political Economy*, London: Routledge.
 
 [^blanc-2017]: Blanc, Eric, 2017, “The Rosa Luxemburg Myth: A Critique of Luxemburg’s Politics in Poland (1893–1919).” *Historical Materialism*, 25(4): 3–36.

@@ -139,7 +139,7 @@ In Windelband’s view, a reconsideration of the Kantian project is not only nec
 
 Windelband shares the goal of securing the autonomy of the historical disciplines with his contemporary Wilhelm Dilthey. In his 1883 *Einleitung in die Geisteswissenschaften* [*Introduction to the human sciences*] Dilthey had founded the distinction between the natural sciences and the human sciences or “sciences of spirit” on a distinction between outer and inner experience. While outer experience forms the basis of hypothetical knowledge in natural science, inner experience discloses “from within” how the individual is an intersection of social and cultural relations (Dilthey 1883: 30–32, 60–61, 88–89)[^dilthey-1883]. Inner experience is at the same time psychological and socio-historical, and a descriptive psychology capable of grasping the integrated nexus of inner experience can provide the “sciences of spirit” with a solid foundation (Dilthey 1894)[^dilthey-1894].
 
-Windelband profoundly disagrees with Dilthey’s strategy for demarcating the historical disciplines. In his Strasbourg rector’s address “Geschichte und Naturwissenschaft” [“History and natural science”] from 1894, he takes issue with the suggestion that the facts of the “sciences of spirit” derive from a particular type of experience. He takes Dilthey to endorse an introspective view of psychological method. To this he objects that the facts of the historical disciplines do not derive from inner experience alone, and that inner perception is a dubious method in the first place. He also classifies psychology with the natural sciences, rejecting Dilthey’s idea that the human-historical disciplines could be founded on a non-explanatory and non-hypothetical descriptive psychology. Perhaps most fundamentally, Windelband rejects the term “sciences of spirit” on the ground that it suggests that the distinction between different sciences rests on a material distinction between different objects: spirit and nature (Windelband 1894: 141–143).
+Windelband profoundly disagrees with Dilthey’s strategy for demarcating the historical disciplines. In his Strasbourg rector’s address “Geschichte und Naturwissenschaft” [“History and natural science”] from 1894, he takes issue with the suggestion that the facts of the “sciences of spirit” derive from a particular type of experience. He takes Dilthey to endorse an introspective view of psychological method. To this he objects that the facts of the historical disciplines do not derive from inner experience alone, and that inner perception is a dubious method in the first place. He also classifies psychology with the natural sciences, rejecting Dilthey’s idea that the human-historical disciplines could be founded on a non-explanatory and non-hypothetical descriptive psychology. Perhaps most fundamentally, Windelband rejects the term “sciences of spirit” on the ground that it suggests that the distinction between different sciences rests on a material distinction between different objects: spirit and nature (Windelband 1894: 141–143)[^windelband-1894].
 
 Windelband seeks an alternative method for science-classification that is purely formal. His reflections take scientific justification in its most abstract form as their starting point: justification in science is either inductive or deductive, Windelband argues, and the basic relation on which all knowledge is based is between the general and the particular (1883: 102–103).
 
@@ -231,45 +231,45 @@ These remarks remain cursory however, and there is room for debate over how much
 
 [^präludien-1915]: *Präludien* refers to a collection of works by Windelband. Page numbers refer to the 1915 edition. NKR refers to *The Neo-Kantian Reader* (2015) edited by Sebastian Luft.
 
-[^präludien-1870]: 1870, *Die Lehren vom Zufall*, Berlin: Schade.
+[^windelband-1870]: 1870, *Die Lehren vom Zufall*, Berlin: Schade.
 
-[^präludien-1873]: 1873, *Über die Gewißheit der Erkenntnis: Eine psychologisch-erkenntnistheoretische Studie*, Berlin: Herschel. [[Windelband 1873 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1876/0001)]
+[^windelband-1873]: 1873, *Über die Gewißheit der Erkenntnis: Eine psychologisch-erkenntnistheoretische Studie*, Berlin: Herschel. [[Windelband 1873 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1876/0001)]
 
-[^präludien-1875]: 1875, “Die Erkenntnislehre unter dem völkerpsychologischen Gesichtspunkte“, *Zeitschrift für Völkerpsychologie und Sprachwissenschaft* 8: 166—178.
+[^windelband-1875]: 1875, “Die Erkenntnislehre unter dem völkerpsychologischen Gesichtspunkte“, *Zeitschrift für Völkerpsychologie und Sprachwissenschaft* 8: 166—178.
 
-[^präludien-1876]: 1876, “Pessimismus und Wissenschaft”, reprinted in his *Präludien*, 2: 218–243.
+[^windelband-1876]: 1876, “Pessimismus und Wissenschaft”, reprinted in his *Präludien*, 2: 218–243.
 
-[^präludien-1877]: 1877, “Über die verschiedenen Phasen der Kantischen Lehre vom Ding-an-sich”, *Zeitschrift für wissenschaftliche Philosophie* 1, pp. 224–266.
+[^windelband-1877]: 1877, “Über die verschiedenen Phasen der Kantischen Lehre vom Ding-an-sich”, *Zeitschrift für wissenschaftliche Philosophie* 1, pp. 224–266.
 
-[^präludien-1881]: 1881, “Immanuel Kant”, reprinted in his *Präludien*, 1: 112–146.
+[^windelband-1881]: 1881, “Immanuel Kant”, reprinted in his *Präludien*, 1: 112–146.
 
-[^präludien-1882a]: 1882a, “Normen und Naturgesetze”, reprinted in his *Präludien*, 2: 59–98.
+[^windelband-1882a]: 1882a, “Normen und Naturgesetze”, reprinted in his *Präludien*, 2: 59–98.
 
-[^präludien-1882b]: 1882b, “Was ist Philosophie?” reprinted in his *Präludien*, 1: 1–54.
+[^windelband-1882b]: 1882b, “Was ist Philosophie?” reprinted in his *Präludien*, 1: 1–54.
 
-[^präludien-1883]: 1883, “Kritische oder genetische Methode?” reprinted in his *Präludien*, 2: 99–135. Translated as “Critical or Genetic Method?” by Alan Duncan, in NKR: 271–286.
+[^windelband-1883]: 1883, “Kritische oder genetische Methode?” reprinted in his *Präludien*, 2: 99–135. Translated as “Critical or Genetic Method?” by Alan Duncan, in NKR: 271–286.
 
-[^präludien-1891]: 1891, *Lehrbuch der Geschichte der Philosophie*, Tübingen: Mohr.
+[^windelband-1891]: 1891, *Lehrbuch der Geschichte der Philosophie*, Tübingen: Mohr.
 
-[^präludien-1894]: 1894, “Geschichte und Naturwissenschaft”, reprinted in his *Präludien*, vol. 2, pp. 136–160. Translated as “History and Natural Science”, by Guy Oakes, in NKR: 287–298. [[Windelband 1894 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1894/0007/image)]
+[^windelband-1894]: 1894, “Geschichte und Naturwissenschaft”, reprinted in his *Präludien*, vol. 2, pp. 136–160. Translated as “History and Natural Science”, by Guy Oakes, in NKR: 287–298. [[Windelband 1894 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1894/0007/image)]
 
-[^präludien-1904a]: 1904a, “Nach hundert Jahren. Zu Kants hundertjährigem Todestage”, reprinted in his *Präludien*, vol. 1, pp. 147–167.
+[^windelband-1904a]: 1904a, “Nach hundert Jahren. Zu Kants hundertjährigem Todestage”, reprinted in his *Präludien*, vol. 1, pp. 147–167.
 
-[^präludien-1904b]: 1904b, *Über Willenfreiheit: Zwölf Vorlesungen*, Tübingen: Mohr.
+[^windelband-1904b]: 1904b, *Über Willenfreiheit: Zwölf Vorlesungen*, Tübingen: Mohr.
 
-[^präludien-1905]: 1905, “Geschichte der Philosophie”, in *Die Philosophie zu Beginn des zwanzigsten Jahrhunderts: Festschrift für Kuno Fischer*, Wilhelm Windelband (ed.), 2nd ed, Heidelberg: Winter pp. 529–554.
+[^windelband-1905]: 1905, “Geschichte der Philosophie”, in *Die Philosophie zu Beginn des zwanzigsten Jahrhunderts: Festschrift für Kuno Fischer*, Wilhelm Windelband (ed.), 2nd ed, Heidelberg: Winter pp. 529–554.
 
-[^präludien-1907]: 1907, “Über die gegenwärtige Lage und Aufgabe der Philosophie”, reprinted in his *Präludien*, 2: 1–23.
+[^windelband-1907]: 1907, “Über die gegenwärtige Lage und Aufgabe der Philosophie”, reprinted in his *Präludien*, 2: 1–23.
 
-[^präludien-1908]: 1908, “Über Wesen und Wert der Tradition im Kulturleben”, reprinted in his *Präludien*, 2: 244–269.
+[^windelband-1908]: 1908, “Über Wesen und Wert der Tradition im Kulturleben”, reprinted in his *Präludien*, 2: 244–269.
 
-[^präludien-1909]: 1909, *Die Philosophie im deutschen Geistesleben des 19. Jahrhunderts: Fünf Vorlesungen*, Tübingen: Mohr. [[Windelband 1909 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1909/0005)]
+[^windelband-1909]: 1909, *Die Philosophie im deutschen Geistesleben des 19. Jahrhunderts: Fünf Vorlesungen*, Tübingen: Mohr. [[Windelband 1909 available online](https://digi.ub.uni-heidelberg.de/diglit/windelband1909/0005)]
 
-[^präludien-1910a]: 1910a, “Die Erneuerung des Hegelianismus”, reprinted in his *Präludien*, 1: 273–289.
+[^windelband-1910a]: 1910a, “Die Erneuerung des Hegelianismus”, reprinted in his *Präludien*, 1: 273–289.
 
-[^präludien-1910b]: 1910b, “Kulturphilosophie und transzendentaler Idealismus”, reprinted in his *Präludien*, 2: 279–294. Translated as “Philosophy of Culture and Transcendental Idealism”, by Alan Duncan, in NKR: 317–324.
+[^windelband-1910b]: 1910b, “Kulturphilosophie und transzendentaler Idealismus”, reprinted in his *Präludien*, 2: 279–294. Translated as “Philosophy of Culture and Transcendental Idealism”, by Alan Duncan, in NKR: 317–324.
 
-[^präludien-1914]: 1914, *Einleitung in die Philosophie*, Tübingen: Mohr.
+[^windelband-1914]: 1914, *Einleitung in die Philosophie*, Tübingen: Mohr.
 
 [^präludien-1915-2]: [*Präludien*] 1915, *Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte*, 2 volumes, 5th expanded edition, Tübingen: Mohr Siebeck. 1ˢᵗ ed.: 1883. 2ⁿᵈ ed.: 1902; 3ʳᵈ ed.: 1907; 4ᵗʰ ed.: 1911. [[Windelband 1915 volume 1](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd1/0005) and [Windelband 1915 volume 2](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd2/0005) available online]
 

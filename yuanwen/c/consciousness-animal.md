@@ -797,8 +797,6 @@ Many thanks to Hannah Stockton for assistance in preparing the 2026 version of t
 
 [^yoshimi-2016]: Yoshimi, J. (2016). *Husserlian phenomenology: A unifying interpretation*. Dordrecht, Holland: Springer.
 
-[^yoshimi-nd]: The following works were cited in earlier versions of this entry. The list is not intended as a complete bibliography on the topic.
-
 [^akins-1993]: Akins, K.A. (1993). A bat without qualities. In M. Davies & G. Humphreys (eds.), *Consciousness* (pp. 258–273), Oxford: Blackwell.
 
 [^alcock-1992]: Alcock, J. (1992). Review of Griffin 1992. *Natural History*, 101(9), 62–65.

@@ -129,6 +129,8 @@ There is, to be sure, a rather different style and tone evident in many of Schle
 
 Fichte, Johann Gottlieb | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfried von | hermeneutics | Jacobi, Friedrich Heinrich | Kant, Immanuel: aesthetics and teleology | Novalis [Georg Friedrich Philipp von Hardenberg] | Schelling, Friedrich Wilhelm Joseph von | Schleiermacher, Friedrich Daniel Ernst
 
+[^schlegel-1958]: 1958–2002, *Kritische Friedrich-Schlegel-Ausgabe*, E. Behler et al. (eds.), 35 vols., Munich: F. Schöningh. (The standard critical edition of Schlegel’s works.)
+
 [^ameriks-2014]: Ameriks, K., 2014, “History, Succession and German Romanticism,” in *The Relevance of Romanticism: Essays on German Romantic Philosophy*, D. Nassar (ed.), Oxford: Oxford University Press, pp. 47–67.
 
 [^behler-1993]: Behler, E., 1993, *German Romantic Literary Theory*, Cambridge: Cambridge University Press.

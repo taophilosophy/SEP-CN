@@ -400,8 +400,6 @@ Bodin, Jean | contractarianism | cosmopolitanism | ethics: natural law tradition
 
 [^weigel-2003]: Weigel, E., 2003, *Arithmetische Beschreibung der Moral-Weißheit von Personen und Sachen*, T. Behme (ed.) (Series: Erhard Weigel, Werke, Vol. 2: Clavis Pansophiae 3,2), Stuttgart: Frommann Holzboog.
 
-[^weigel-2017]: [n.n.], 2017, “Samuel Pufendorf on the Admission of Stangers,” *Population and Development Review*, 43(2): 371–72.
-
 [^aarsleff-2011]: Aarsleff, H., 2011, “Pufendorf and Condillac on Law and Language,” *Journal of the Philosophy of History*, 5(3): 308–321.
 
 [^ahnert-2023]: Ahnert, T., 2023, “The Metaphysics of Moral Entities,” in K. Haakonssen and I. Hunter (eds.), pp. 90–108.

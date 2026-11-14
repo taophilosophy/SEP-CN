@@ -13,7 +13,7 @@ Buber’s best-known work is the short philosophical essay *I and Thou* (1923), 
 
 The setting of Buber’s early childhood was the Austro-Hungarian Empire, a multiethnic conglomerate whose dissolution in 1918 effectively ended the millennial rule of Catholic princes in Europe. Buber was born into *fiin-de-siècle* Vienna, home of light opera and heavy neo-romantic music, French-style boulevard comedy and German social realism, sexual repression and deviance, political intrigue and vibrant journalism, a cultural cauldron aptly captured in Robert Musil’s *The Man Without Qualities* (*Der Mann ohne Eigenschaften*, 1930–1932). Jews and other national minorities were not afforded full freedom of residence and acquisition of property across the Empire until the “Basic Law on the General Rights of Nationals” of December 1862 (“December Constitution”). As a result of this liberalization, Jewish residence in Vienna increased from 6200 in 1860 to 147000 in 1900 (see the webpage on the Jewish Community of Vienna [Other Internet Resources]).
 
-Buber’s parents, Carl Buber (1848–1935) and Elise née Wurhaft (1858-?), separated when Martin was four years old. Although his father remarried and had two daughters with his second wife, Buber basically grew up as an only child, brought up by his paternal grandparents, Solomon Buber (1827–1906) and Adele née Weiser (1830–1911), in Lemberg (now: Lviv/Ukraine) who were part of what one might call the landed Jewish aristocracy. Solomon, a “master of the old Haskala” (“*[ein] … Meister der alten Haskala*”; Buber 1906b, Dedication) who called himself “a Pole of the Mosaic persuasion” (Friedman [1981] p. 11), produced the first modern editions of rabbinic midrash literature yet was also greatly respected in the traditional Jewish community. His reputation opened the doors for Martin when he began to show interest in Zionism and Hasidic literature. The wealth of his grandparents was built on the Galician estate managed by Adele and enhanced by Solomon through mining, banking, and commerce. An inheritance he received after his grandfather’s passing and his father’s ongoing support provided Martin with financial security until the German occupation of Poland in 1939, when those estates were expropriated. Home-schooled and pampered by his grandmother, the young Buber was a bookish aesthete with few friends his age, whose major diversion was the play of the imagination. He easily absorbed local languages (Hebrew, Yiddish, Polish, German) and acquired others (Greek, Latin, French, Italian, English). German was the dominant language at home, while the language of instruction at the Franz Joseph Gymnasium was Polish. This multilingualism nourished Buber’s life-long interest in language.
+Buber’s parents, Carl Buber (1848–1935) and Elise née Wurhaft (1858-?), separated when Martin was four years old. Although his father remarried and had two daughters with his second wife, Buber basically grew up as an only child, brought up by his paternal grandparents, Solomon Buber (1827–1906) and Adele née Weiser (1830–1911), in Lemberg (now: Lviv/Ukraine) who were part of what one might call the landed Jewish aristocracy. Solomon, a “master of the old Haskala” (“*[ein] … Meister der alten Haskala*”; Buber 1906b, Dedication)[^buber-1906b] who called himself “a Pole of the Mosaic persuasion” (Friedman [1981] p. 11), produced the first modern editions of rabbinic midrash literature yet was also greatly respected in the traditional Jewish community. His reputation opened the doors for Martin when he began to show interest in Zionism and Hasidic literature. The wealth of his grandparents was built on the Galician estate managed by Adele and enhanced by Solomon through mining, banking, and commerce. An inheritance he received after his grandfather’s passing and his father’s ongoing support provided Martin with financial security until the German occupation of Poland in 1939, when those estates were expropriated. Home-schooled and pampered by his grandmother, the young Buber was a bookish aesthete with few friends his age, whose major diversion was the play of the imagination. He easily absorbed local languages (Hebrew, Yiddish, Polish, German) and acquired others (Greek, Latin, French, Italian, English). German was the dominant language at home, while the language of instruction at the Franz Joseph Gymnasium was Polish. This multilingualism nourished Buber’s life-long interest in language.
 
 Among the young Buber’s first publications are essays on, and translations into Polish of, the poetry of Arthur Schnitzler and Hugo von Hofmannsthal. These and other critical and philosophical works from the period 1891–1924 are now collected and annotated in MBW I (2001), with a widely ranging biographical introduction by Martin Treml. From early on, Buber’s literary voice was assertive and full of self-confidence even though, in substance, he was exploring ever new ways to bring East and West, Judaism and Humanism, national particularity and universal spirit into conversation. His deliberate and sometimes precious diction (especially problematic in his later Hebrew productions, which read like translations from the German) was nourished by the contrasts between the High German language (Schiller) his grandmother cultivated at home and the richly idiomatic Galician Jewish jargon he encountered on the street. Reentering the urban society of Vienna, Leipzig, Zürich, and Berlin as a student of psychology, art-history, and philosophy, Buber easily fit into a world brimming with novel approaches to life and society, literature and the arts, a world brimming with the utopian optimism of literary “avantgardes” that modeled novel modes of life, unconstrained by the bourgeois social norms of their parents and grandparents. This was a place where solutions to the burning social and political issues of city, nation, and empire were often expressed in grandly theatrical oratory (Karl Lueger) and in the aestheticizing rhetoric of self-inscenation (Theodor Herzl). As a gifted student, voracious for knowledge that mattered, aliented from the religious upbringing of his youth, and endowed with an etherial, almost otherworldly personality (Mauthner; Susman) he was ready to take his place in this *fin-de-siécle* bohemian cauldron. The crucial encounter of his young life was meeting Paula Winkler (1877–1958), a Munich-born lapsed Catholic avantgarde novelist (pen-name: Georg Munk) who was to become the backbone of his entire adult life: the mother of his children and educator of his grandchildren, the ardent supporter of his many causes, a broker of literary and artistic connections, a devoted collaborator in his writing and editing (to the detriment of her own), and the practical organizer of his life.
 
@@ -256,117 +256,33 @@ Zachary Braiterman is credited as a coauthor on this entry for his work with Mic
 
 [^moonan-1981]: Moonan, Willard, 1981, *Martin Buber and His Critics. An Annotated Bibliography of Writings in English Through 1978*, New York & London: Garland. With a list of the abstracts, indices, and bibliographies consulted by the author, indices of translators and authors writing on Buber, and subject indices of writings by and about Buber.
 
-[^moonan-1906]: 1906–1912, *Die Gesellschaft. Sammlung sozial-psychologischer Monographien* [Society. A Collection of Social-Psychological Monographs], Frankfurt am Main: Rütten & Loening. 40 volumes. The first volume (Werner Sombart, *Das Proletariat*) includes Buber’s introduction to the series.
+[^buber-1906]: 1906–1912, *Die Gesellschaft. Sammlung sozial-psychologischer Monographien* [Society. A Collection of Social-Psychological Monographs], Frankfurt am Main: Rütten & Loening. 40 volumes. The first volume (Werner Sombart, *Das Proletariat*) includes Buber’s introduction to the series.
 
-[^moonan-1906b]: 1906b, *Die Geschichten des Rabbi Nachman* [The Tales of Rabbi Nachman], Frankfurt am Main: Rütten & Loening. Dedicated to “the memory of my grandfather, Salomon Buber, the last master of the old haskalah.” (“*Meinem Großvater Salomon Buber dem letzten Meister der alten Haskala bringe ich dies Werk der Chassidut dar in Ehrfurcht und Liebe*.”)
+[^buber-1906b]: 1906b, *Die Geschichten des Rabbi Nachman* [The Tales of Rabbi Nachman], Frankfurt am Main: Rütten & Loening. Dedicated to “the memory of my grandfather, Salomon Buber, the last master of the old haskalah.” (“*Meinem Großvater Salomon Buber dem letzten Meister der alten Haskala bringe ich dies Werk der Chassidut dar in Ehrfurcht und Liebe*.”)
 
-[^moonan-1908]: 1908, *Die Legende des Baal Schem* [The Legend of the Baal Shem], Frankfurt: Rütten & Loening (second edition: 1916). On the founder of the Hasidic movement in early eighteenth-century Podolia/Volynia,
+[^buber-1908]: 1908, *Die Legende des Baal Schem* [The Legend of the Baal Shem], Frankfurt: Rütten & Loening (second edition: 1916). On the founder of the Hasidic movement in early eighteenth-century Podolia/Volynia,
 
-[^moonan-1911a]: 1911a, *Chinesische Geister- und Liebesgeschichten* [Chinese Ghost and Love Stories], Frankfurt: Rütten & Loening.
+[^buber-1911a]: 1911a, *Chinesische Geister- und Liebesgeschichten* [Chinese Ghost and Love Stories], Frankfurt: Rütten & Loening.
 
-[^moonan-1911b]: 1911b, *Drei Reden über das Judentum* [Three Speeches on Judaism], Frankfurt: Rütten & Loening, 1911 (second, “complete” edition, 1923). Dedicated to “my wife.”
+[^buber-1911b]: 1911b, *Drei Reden über das Judentum* [Three Speeches on Judaism], Frankfurt: Rütten & Loening, 1911 (second, “complete” edition, 1923). Dedicated to “my wife.”
 
-[^moonan-1913]: 1913, *Daniel: Gespräche von der Verwirklichung* [Daniel, Dialogues on Realization], Leipzig: Insel-Verlag.
+[^buber-1913]: 1913, *Daniel: Gespräche von der Verwirklichung* [Daniel, Dialogues on Realization], Leipzig: Insel-Verlag.
 
-[^moonan-1916]: 1916–24, *Der Jude. Eine Monatsschrift* [The Jew. A Monthly], Wien/Berlin: R. Löwith and Berlin: Jüdischer Verlag. Founded by Buber, who edited it during these years and wrote many contributions.
+[^buber-1916]: 1916–24, *Der Jude. Eine Monatsschrift* [The Jew. A Monthly], Wien/Berlin: R. Löwith and Berlin: Jüdischer Verlag. Founded by Buber, who edited it during these years and wrote many contributions.
 
-[^moonan-1918]: 1918, *Mein Weg zum Chassidismus. Erinnerungen* [My Path to Hasidism. Recollections], Frankfurt: Rütten & Loening. Dedicated to “my beloved father.”
+[^buber-1918]: 1918, *Mein Weg zum Chassidismus. Erinnerungen* [My Path to Hasidism. Recollections], Frankfurt: Rütten & Loening. Dedicated to “my beloved father.”
 
-[^moonan-1919]: 1919, *Der heilige Weg. Ein Wort an die Juden und an die Völker* [The Holy Path. A Word to the Jews and to the Gentiles], Frankfurt: Rütten & Loening. Dedicated to “my friend Gustav Landauer at his grave.”
+[^buber-1919]: 1919, *Der heilige Weg. Ein Wort an die Juden und an die Völker* [The Holy Path. A Word to the Jews and to the Gentiles], Frankfurt: Rütten & Loening. Dedicated to “my friend Gustav Landauer at his grave.”
 
-[^moonan-1922]: 1922, *Der grosse Maggid und seine Nachfolge* [The Great Maggid and his Succession], Frankfurt: Rütten & Loening.
+[^buber-1922]: 1922, *Der grosse Maggid und seine Nachfolge* [The Great Maggid and his Succession], Frankfurt: Rütten & Loening.
 
-[^moonan-1923]: 1923, *Ich und Du* [I and Thou], Leipzig: Insel Verlag.
+[^buber-1923]: 1923, *Ich und Du* [I and Thou], Leipzig: Insel Verlag.
 
-[^moonan-1924]: 1924, *Das verborgene Licht* [The Hidden Light], Frankfurt: Rütten & Loening.
+[^buber-1924]: 1924, *Das verborgene Licht* [The Hidden Light], Frankfurt: Rütten & Loening.
 
 [^die-1933]: 1925ff, *Die Schrift. Zu verdeutschen unternommen von Martin Buber* *gemeinsam mit Franz Rosenzweig*. Buber and Rosenzweig’s translation of the Hebrew Scriptures was published by Lambert Schneider first in his own publishing house in Berlin, between 1933 and 1939 under the heading of Schocken Verlag, Berlin, and again, after 1945, through the newly founded Lambert Schneider Verlag, Heidelberg.
 
-[^die-1926]: 1926–29, *Die Kreatur* [Creation], Berlin: Lambert Schneider. A quarterly edited by Buber with the Protestant psychologist Victor von Weizsäcker and the dissident Catholic theologian Joseph Wittig.
-
-[^die-1953]: 1953–62, *Die Schrift. Verdeutscht von Martin Buber gemeinsam mit Franz Rosenzweig*, improved and complete edition in four volumes, Cologne: J. Hegner.
-
-[^die-1953a]: 1953a, *Hinweise. Gesammelte Essays*, Zurich: Manesse.
-
-[^die-1962]: 1962, *Werke* [abbr. MBW]. Erster Band: *Schriften zur Philosophie*, Munich and Heidelberg: Lambert Schneider.
-
-[^die-1963a]: 1963a, *Werke*. Dritter Band: *Schriften zum Chassidismus*, Munich and Heidelberg: Lambert Schneider.
-
-[^die-1963b]: 1963b, *Der Jude und sein Judentum. Gesammelte Aufsätze und Reden*, Cologne: J. Hegner.
-
-[^die-1964]: 1964, *Werke*. Zweiter Band: *Schriften zur Bibel*, Munich and Heidelberg: Lambert Schneider.
-
-[^die-1965]: 1965, *Nachlese*. Heidelberg: Lambert Schneider. English translation: 1967a.
-
-[^die-1972]: 1972–75, *Briefwechsel aus sieben Jahrzehnten*, edited by Grete Schaeder, Volume I: 1897–1918 (1972), Volume II: 1918–1938 (1973), Volume III: 1938–1965 (1975), Heidelberg: Lambert Schneider.
-
-[^die-1996]: 1996, *The Letters of Martin Buber: A Life of Dialogue*, edited by Nahum Glatzer and Paul Mendes-Flohr, Syracuse: Syracuse University Press.
-
-[^die-2001]: 2001–2020, *Martin Buber* *Werkausgabe* [abb. MBWA], edited by Paul Mendes-Flohr, Peter Schäfer, Bernd Witte and Martina Urban. Gütersloh: Gütersloher Verlagshaus; De Gryuter/Brill.
-
-[^die-1937]: 1937, *I and Thou*, transl. by Ronald Gregor Smith, Edinburgh: T. and T. Clark. 2ⁿᵈ Edition New York: Scribners, 1958. 1ˢᵗ Scribner Classics ed. New York, NY: Scribner, 2000, c1986
-
-[^die-1952]: 1952, *Eclipse of God*, New York: Harper and Bros. 2ⁿᵈ Edition Westport, Conn.: Greenwood Press, 1977.
-
-[^die-1957]: 1957, *Pointing the Way*, transl. Maurice Friedman, New York: Harper, 1957, 2ⁿᵈ Edition New York: Schocken, 1974.
-
-[^die-1960]: 1960, *The Origin and Meaning of Hasidism*, transl. M. Friedman, New York: Horizon Press.
-
-[^die-1964-2]: 1964, *Daniel: Dialogues* *on Realization*, New York, Holt, Rinehart and Winston.
-
-[^die-1965-2]: 1965, *The Knowledge of Man*, transl. Ronald Gregor Smith and Maurice Friedman, New York: Harper & Row. 2ⁿᵈ Edition New York, 1966.
-
-[^die-1966]: 1966, *The Way of Response: Martin Buber; Selections from his Writings*, edited by N. N. Glatzer. New York: Schocken Books.
-
-[^die-1967a]: 1967a, *A Believing Humanism: My Testament*, translation of *Nachlese* (Heidelberg 1965) by M. Friedman, New York: Simon and Schuster.
-
-[^die-1967b]: 1967b, *On Judaism*, edited by Nahum Glatzer and transl. by Eva Jospe and others, New York: Schocken Books.
-
-[^die-1968]: 1968, *On the Bible: Eighteen Studies*, edited by Nahum Glatzer, New York: Schocken Books.
-
-[^die-1970a]: 1970a, *I and Thou*, a new translation with a prologue “I and you” and notes by Walter Kaufmann, New York: Scribner’s Sons.
-
-[^die-1970b]: 1970b, *Mamre: Essays in Religion*, translated by Greta Hort, Westport, Conn.: Greenwood Press.
-
-[^die-1970c]: 1970c, *Martin Buber and the Theater, Including Martin Buber’s “Mystery Play” Elijah*, edited and translated with three introductory essays by Maurice Friedman, New York, Funk &Wagnalls.
-
-[^die-1972-2]: 1972, *Encounter: Autobiographical Fragments*. La Salle, Ill.: Open Court.
-
-[^die-1973a]: 1973a, *On Zion: the History of an Idea*, with a new foreword by Nahum N. Glatzer, Translated from the German by Stanley Godman, New York: Schocken Books.
-
-[^die-1973b]: 1973b, *Meetings*, edited with an introduction and bibliography by Maurice Friedman, La Salle, Ill.: Open Court Pub. Co. 3rd ed. London, New York: Routledge, 2002.
-
-[^die-1983]: 1983, *A Land of Two Peoples: Martin Buber on Jews and Arabs*, edited with commentary by Paul R. Mendes-Flohr, New York: Oxford University Press; 2ⁿᵈ edition, Gloucester.MA: Peter Smith, 1994; 3rd edition, Chicago: University of Chicago Press, 2025, with Forewords by Paul Mendes-Flohr and Raef Zreik.
-
-[^die-1985]: 1985, *Ecstatic Confessions*, edited by Paul Mendes-Flohr, translated by Esther Cameron, San Francisco: Harper & Row.
-
-[^die-1991a]: 1991a, *Chinese Tales: Zhuangzi, Sayings and Parables and Chinese Ghost and Love stories*, translated by Alex Page, with an introduction by Irene Eber, Atlantic Highlands, N.J.: Humanities Press International.
-
-[^die-1991b]: 1991b, *Tales of the Hasidim*, foreword by Chaim Potok, New York: Schocken Books, distributed by Pantheon.
-
-[^die-1992]: 1992, *On Intersubjectivity and Cultural Creativity*, edited and with an introduction by S.N. Eisenstadt, Chicago: University of Chicago Press.
-
-[^die-1994]: 1994, *Scripture and Translation*, Martin Buber and Franz Rosenzweig, translated by Lawrence Rosenwald with Everett Fox. Bloomington: Indiana University Press.
-
-[^die-1996-2]: 1996, *Paths in Utopia*, translated by R.F. Hull. Syracuse: Syracuse University Press.
-
-[^die-1999a]: 1999a, *The First Buber: Youthful Zionist Writings of Martin Buber*, edited and translated from the German by Gilya G. Schmidt, Syracuse, N.Y.: Syracuse University Press.
-
-[^die-1999b]: 1999b, *Martin Buber on Psychology and Psychotherapy: Essays, Letters, and Dialogue*, edited by Judith Buber Agassi, with a foreword by Paul Roazin, New York: Syracuse University Press.
-
-[^die-1999c]: 1999c, *Gog and Magog: A Novel*, translated from the German by Ludwig Lewisohn, Syracuse, NY: Syracuse University Press.
-
-[^die-2002a]: 2002a, *The Legend of the Baal-Shem*, translated by Maurice Friedman, London: Routledge.
-
-[^die-2002b]: 2002b, *Between Man and Man*, translated by Ronald Gregor-Smith, with an introduction by Maurice Friedman, London, New York: Routledge.
-
-[^die-2002c]: 2002c, *The Way of Man: According to the Teaching of Hasidim*, London: Routledge.
-
-[^die-2002d]: 2002d, *The Martin Buber Reader: Essential Writings*, edited by Asher D. Biemann, New York: Palgrave Macmillan.
-
-[^die-2002e]: 2002e, *Ten Rungs: Collected Hasidic Sayings*, translated by Olga Marx, London: Routledge.
-
-[^die-2003]: 2003, *Two Types of Faith*, translated by Norman P. Goldhawk with an afterword by David Flusser, Syracuse, N.Y.: Syracuse University Press.
+[^buber-1926]: 1926–29, *Die Kreatur* [Creation], Berlin: Lambert Schneider. A quarterly edited by Buber with the Protestant psychologist Victor von Weizsäcker and the dissident Catholic theologian Joseph Wittig.
 
 [^bloch-1983-2]: Bloch, Jochanan/Gordon, Hayyim (ed.), 1983, *Martin Buber. Bilanz seines Denkens*, Freiburg i. B.: Herder.
 

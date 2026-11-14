@@ -15,7 +15,7 @@ A sample of characteristic essays written over three decades, from the early 192
 
 Susman was born on October 14, 1872, in Hamburg, Germany to a well-situated, Jewish, middle-class family. In 1882, the family moved to Zurich, Switzerland, where Susman attended primary school and the gymnasium. While her father was supportive of her as a poet, arranging for a private publication of a volume of her poetry on the occasion of her twentieth birthday, he staunchly opposed her wish to study. In 1894, after his death, the family returned to Germany to settle in Hanover. In order to allow Susman to study, her older sister Paula assumed sole responsibility for the care of their ailing mother. After studying painting in Düsseldorf and Paris, Susman began to study philosophy in Munich with Theodor Lipps. She subsequently moved to Berlin, where she studied with Georg Simmel, becoming a regular participant in his after-hours private discussion group. In 1906, Susman married a fellow painter, Eduard von Bendemann. Though initially willing to comply with his parents’ request that, as a condition of their marriage, she convert to Christianity, Susman decided the day before her baptism that it was impossible for her to abandon Judaism. Her parents-in-law accepted her decision. The same year, Georg Simmel published his book *Religion* as part of Martin Buber’s series *Society: Series in Social-Psychological Studies*, dedicating it to Susman and Gertrud Kantorowicz.
 
-From 1907 to 1932, she was a regular contributor to the *Frankfurter Zeitung*. During this time, she reviewed new publications in literature and philosophy, often with a particular focus on the German-Jewish experience. From 1912 to 1915, she lived with her family in Rüschlikon, near Zurich. The family returned to Germany in 1915, first living in Frankfurt and then, beginning in 1919, living on a farm close to the Swiss border in Säckingen on the Rhine. Although inspired by the vision of Gustav Landauer and the life reform movement to move to the countryside to get away from the postwar chaos in Frankfurt, the long hours of work on the farm left Susman only with the nights for reading (Susman 1964: 96).
+From 1907 to 1932, she was a regular contributor to the *Frankfurter Zeitung*. During this time, she reviewed new publications in literature and philosophy, often with a particular focus on the German-Jewish experience. From 1912 to 1915, she lived with her family in Rüschlikon, near Zurich. The family returned to Germany in 1915, first living in Frankfurt and then, beginning in 1919, living on a farm close to the Swiss border in Säckingen on the Rhine. Although inspired by the vision of Gustav Landauer and the life reform movement to move to the countryside to get away from the postwar chaos in Frankfurt, the long hours of work on the farm left Susman only with the nights for reading (Susman 1964: 96)[^susman-1964].
 
 Susman’s review of Franz Rosenzweig’s *Star of Redemption* (1921) in *Der Jude*, Weimar Germany’s premier Jewish literary journal, which was published by Buber from 1916–1928, was one of the earliest critical recognitions of the significance of Rosenzweig’s philosophically critical turn, or what he called “new thinking”. Rosenzweig credited Susman with having understood his work like nobody else. In a letter to her, responding to her review, he wrote:
 
@@ -267,55 +267,55 @@ Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emma
 
 [^juk-1907]: [JuK] 1907, “Judentum und Kultur” (Judaism and Culture), *Frankfurter Zeitung*, 16 May 1907, 1–2.
 
-[^juk-1910]: 1910, *Das Wesen der modernen deutschen Lyrik* (*The Character of Modern German Poetry*), Stuttgart: Strecker and Schröder.
+[^susman-1910]: 1910, *Das Wesen der modernen deutschen Lyrik* (*The Character of Modern German Poetry*), Stuttgart: Strecker and Schröder.
 
-[^juk-1912]: 1912, *Vom Sinn der Liebe* (*Of the Meaning of Love*), Jena: Diederichs.
+[^susman-1912]: 1912, *Vom Sinn der Liebe* (*Of the Meaning of Love*), Jena: Diederichs.
 
-[^juk-1913]: 1913, “Spinoza und das jüdische Weltgefühl” (Spinoza and the Jewish Disposition vis-à-vis the World), in *Vom Judentum: Ein Sammelbuch*, Verein jüdischer Hochschüler Bar Kochba in Prag, Leipzig: Kurt Wolff, 51–70.
+[^susman-1913]: 1913, “Spinoza und das jüdische Weltgefühl” (Spinoza and the Jewish Disposition vis-à-vis the World), in *Vom Judentum: Ein Sammelbuch*, Verein jüdischer Hochschüler Bar Kochba in Prag, Leipzig: Kurt Wolff, 51–70.
 
-[^juk-1918]: 1918 [1992], “Die Revolution und die Frau” (The Revolution and Women), *Das Flugblatt* 4, Norbert Einstein (ed.); reprinted in NFF 117–128.
+[^susman-1918]: 1918 [1992], “Die Revolution und die Frau” (The Revolution and Women), *Das Flugblatt* 4, Norbert Einstein (ed.); reprinted in NFF 117–128.
 
-[^juk-1921]: 1921, “Der Exodus aus der Philosophie” (The Exodus from Philosophy), *Frankfurter Zeitung*, 17 June 1921.
+[^susman-1921]: 1921, “Der Exodus aus der Philosophie” (The Exodus from Philosophy), *Frankfurter Zeitung*, 17 June 1921.
 
-[^juk-1922]: 1922, “Der Stern der Erlösung”, *Der Jude*, 4: 259–264. Review of Rosenzweig 1921.
+[^susman-1922]: 1922, “Der Stern der Erlösung”, *Der Jude*, 4: 259–264. Review of Rosenzweig 1921.
 
-[^juk-1926]: 1926, “Das Frauenproblem in der gegenwärtigen Welt” (The Question of the Woman in the World Today), *Der Morgen: Monatschrift der Juden in Deutschland*, 2(5): 431–452.
+[^susman-1926]: 1926, “Das Frauenproblem in der gegenwärtigen Welt” (The Question of the Woman in the World Today), *Der Morgen: Monatschrift der Juden in Deutschland*, 2(5): 431–452.
 
 [^aw-1928]: [AW] 1928, “Auflösung und Werden in unserer Zeit” (Dissolution and Becoming in Our Age), *Der Morgen: Monatschrift der Juden in Deutschland*, 4(4): 335–353.
 
-[^aw-1929]: 1929 [1930], *Frauen der Romantik* (*Women of the Romantic Period*), Jena: Diederichs. Second edition revised 1930.
+[^susman-1929]: 1929 [1930], *Frauen der Romantik* (*Women of the Romantic Period*), Jena: Diederichs. Second edition revised 1930.
 
-[^aw-1929-2]: 1929, “Das Hiob Problem bei Franz Kafka” (The Problem of Job in Kafka), *Der Morgen*, 5(1): 31–49. Revised and reprinted in GK 348–366; translated as “The Question of Job in Franz Kafka” in RPE 53–71.
+[^susman-1929-2]: 1929, “Das Hiob Problem bei Franz Kafka” (The Problem of Job in Kafka), *Der Morgen*, 5(1): 31–49. Revised and reprinted in GK 348–366; translated as “The Question of Job in Franz Kafka” in RPE 53–71.
 
-[^aw-1929-3]: 1929, “Die messianische Idee als Friedensidee” (The Messianic Idea as the Idea of Peace), *Der Morgen*, 4: 375–385; reprinted GF 56–67.
+[^susman-1929-3]: 1929, “Die messianische Idee als Friedensidee” (The Messianic Idea as the Idea of Peace), *Der Morgen*, 4: 375–385; reprinted GF 56–67.
 
-[^aw-1930]: 1930, “Franz Rosenzweig”, *Der Morgen: Monatschrift der Juden in Deutschland*, 5(6): 541–561; reprinted in GK 287–311.
+[^susman-1930]: 1930, “Franz Rosenzweig”, *Der Morgen: Monatschrift der Juden in Deutschland*, 5(6): 541–561; reprinted in GK 287–311.
 
-[^aw-1932]: 1932, “Das Judentum als Weltreligion” (Judaism: A World Religion), *Mitteilungsblatt der jüdischen Reformgemeinde Berlin*, 1 July 1932; reprinted GF 105–121; translated as “Judaism: A World Religion” in RPE 73–87.
+[^susman-1932]: 1932, “Das Judentum als Weltreligion” (Judaism: A World Religion), *Mitteilungsblatt der jüdischen Reformgemeinde Berlin*, 1 July 1932; reprinted GF 105–121; translated as “Judaism: A World Religion” in RPE 73–87.
 
-[^aw-1932-2]: 1932 [1946], “Moses Mendelssohn und seine Entscheidung” (Moses Mendelssohn and his Decision), *Blätter des jüdischen Frauenbundes für Fraenarbeit und Frauenbewegung*, 8(3/4); revised and reprinted 1946 in *Neue Wege*, 40: 339–364; reprinted in GK 259–286.
+[^susman-1932-2]: 1932 [1946], “Moses Mendelssohn und seine Entscheidung” (Moses Mendelssohn and his Decision), *Blätter des jüdischen Frauenbundes für Fraenarbeit und Frauenbewegung*, 8(3/4); revised and reprinted 1946 in *Neue Wege*, 40: 339–364; reprinted in GK 259–286.
 
 [^wf-1933]: [WF] 1933, “Wandlungen der Frau” (Transformations of the Woman), *Die neue Rundschau*, 44: 105–124; reprinted GK: 160–177.
 
-[^wf-1935a]: 1935a, “Stifters Abdias”, *Der Morgen*, 11(1): 27–37; reprinted as a “Nachwort” (postface) in an edition of *Abdias : Erzählung*, by Adalbert Stifter, (Bücherei des Schocken Verlags 31), Berlin: Schocken Verlag, 1935.
+[^susman-1935a]: 1935a, “Stifters Abdias”, *Der Morgen*, 11(1): 27–37; reprinted as a “Nachwort” (postface) in an edition of *Abdias : Erzählung*, by Adalbert Stifter, (Bücherei des Schocken Verlags 31), Berlin: Schocken Verlag, 1935.
 
-[^wf-1935b]: 1935b, “Vom geistigen Anteil der Juden im deutschen Raum” (On the Intellectual Contribution of Jews in the German Region), *Der Morgen*, 11(3): 107–116.
+[^susman-1935b]: 1935b, “Vom geistigen Anteil der Juden im deutschen Raum” (On the Intellectual Contribution of Jews in the German Region), *Der Morgen*, 11(3): 107–116.
 
-[^wf-1942]: 1942, “Ezechiel der Prophet der Umkehr”, *Neue Wege*, 36(5): 8–23; reprinted in DBG 55–87; translated as “Ezekiel: The Prophet of Return” in RPE 99–116.
+[^susman-1942]: 1942, “Ezechiel der Prophet der Umkehr”, *Neue Wege*, 36(5): 8–23; reprinted in DBG 55–87; translated as “Ezekiel: The Prophet of Return” in RPE 99–116.
 
-[^wf-1946]: 1946 [1948], *Das Buch Hiob und das Schicksal des jüdischen Volkes* (*The Book of Job and the Destiny of the Jewish People*), Zurich: Steinberg. Second edition 1948.
+[^susman-1946]: 1946 [1948], *Das Buch Hiob und das Schicksal des jüdischen Volkes* (*The Book of Job and the Destiny of the Jewish People*), Zurich: Steinberg. Second edition 1948.
 
-[^wf-1951]: 1951, *Deutung einer grossen Liebe: Goethe und Charlotte von Stein* (*Interpretation of a Great Love: Goethe and Charlotte von Stein*), Zürich/Stuttgart: Artemis.
+[^susman-1951]: 1951, *Deutung einer grossen Liebe: Goethe und Charlotte von Stein* (*Interpretation of a Great Love: Goethe and Charlotte von Stein*), Zürich/Stuttgart: Artemis.
 
 [^gk-1954]: [GK] 1954, *Gestalten und Kreise* (*Figures and Circles*), Zurich: Diana.
 
-[^gk-1954-2]: 1954, “Die Friedensbotschaft der Propheten” (The Prophets’ “Message of Peace”), Festschrift zum 50 jährigen Bestehen, Schweizerischer Israelitischer Gemeindebund (ed.), Zurich: Schweizerischer Israelitischer Gemeindebund, 265–272; reprinted in DBG 132–144.
+[^susman-1954]: 1954, “Die Friedensbotschaft der Propheten” (The Prophets’ “Message of Peace”), Festschrift zum 50 jährigen Bestehen, Schweizerischer Israelitischer Gemeindebund (ed.), Zurich: Schweizerischer Israelitischer Gemeindebund, 265–272; reprinted in DBG 132–144.
 
 [^dbg-1955]: [DBG] 1955, *Deutung biblischer Gestalten* (*Interpretation of Biblical Figures*), Zurich: Diana.
 
-[^dbg-1959]: 1959, *Die geistige Gestalt Georg Simmels* (*Georg Simmel’s Intellectual Contour*), Tübingen: Mohr (Siebeck).
+[^susman-1959]: 1959, *Die geistige Gestalt Georg Simmels* (*Georg Simmel’s Intellectual Contour*), Tübingen: Mohr (Siebeck).
 
-[^dbg-1964]: 1964, *Ich habe viele Leben gelebt: Erinnerungen* (*I have lived many lives*), Stuttgart: Deutsche Verlagsanstalt.
+[^susman-1964]: 1964, *Ich habe viele Leben gelebt: Erinnerungen* (*I have lived many lives*), Stuttgart: Deutsche Verlagsanstalt.
 
 [^gf-1965]: [GF] 1965, *Vom Geheimnis der Freiheit: Gesammelte Aufsätze 1914–1964*, Manfred Schlösser (ed.), Darmstadt and Zurich: Agora.
 

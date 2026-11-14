@@ -321,7 +321,7 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^that-nd]: *That reincarnations do not occur from men to irrational animals, nor from irrational animals to men*
 
-[^that-nd-2]: *On choosing the best discourse*
+[^known-nd]: *On choosing the best discourse*
 
 [^refutations-nd]: *Refutations of Numenius and Amelius*
 

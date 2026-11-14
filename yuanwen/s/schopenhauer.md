@@ -229,6 +229,40 @@ Schopenhauer’s 19ᵗʰ century historical profile is frequently obscured by th
 
 aesthetics: German, in the 18th century | Fichte, Johann Gottlieb | Kant, Immanuel | Nietzsche, Friedrich | Plato | Schopenhauer, Arthur: aesthetics | Spinoza, Baruch
 
+[^schopenhauer-1813]: 1813: *Über die vierfache Wurzel des Satzes vom zureichenden Grunde* (*On the Fourfold Root of the Principle of Sufficient Reason*).
+
+[^schopenhauer-1816]: 1816: *Über das Sehn und die Farben* (*On Vision and Colors*).
+
+[^schopenhauer-1819]: 1819 [1818]: *Die Welt als Wille und Vorstellung* (*The World as Will and Representation*) [first edition, one volume].
+
+[^schopenhauer-1836]: 1836: *Über den Willen in der Natur* (*On the Will in Nature*).
+
+[^schopenhauer-1839]: 1839: “*Über die Freiheit des menschlichen Willens*” (“On Freedom of the Human Will”).
+
+[^schopenhauer-1840]: 1840: “*Über die Grundlage der Moral*” (“On the Basis of Morality”).
+
+[^schopenhauer-1841]: 1841 [1840]: *Die beiden Grundprobleme der Ethik* (*The Two Fundamental Problems of Ethics*) [joint publication of the 1839 and 1840 essays in book form].
+
+[^schopenhauer-1844]: 1844: *Die Welt als Wille und Vorstellung* (*The World as Will and Representation*) [second edition, two volumes].
+
+[^schopenhauer-1847]: 1847: *Über die vierfache Wurzel des Satzes vom zureichenden Grunde* (*On the Fourfold Root of the Principle of Sufficient Reason*) [second edition, revised].
+
+[^schopenhauer-1851]: 1851: *Parerga und Paralipomena*.
+
+[^schopenhauer-1859]: 1859: *Die Welt als Wille und Vorstellung* (*The World as Will and Representation*) [third edition, two volumes].
+
+[^vorstellung*-1883]: 1883: *The World as Will and Idea*, 3 Vols., translated by R. B. Haldane and J. Kemp, London: Routledge and Kegan Paul Ltd.
+
+[^vorstellung*-1958]: 1958: *The World as Will and Representation*, Vols. I and II, translated by E. F. J. Payne, New York: Dover Publications (1969).
+
+[^vorstellung*-2007]: 2007: *The World as Will and Presentation*, Vol. I, translated by Richard Aquila in collaboration with David Carus, New York: Longman.
+
+[^vorstellung*-2010]: 2010: *The World as Will and Presentation*, Vol. I, translated by David Carus and Richard Aquila, New York: Longman.
+
+[^vorstellung*-2010-2]: 2010: *The World as Will and Representation*, Vol. I, translated by Judith Norman, Alistair Welchman, and Christopher Janaway, Cambridge: Cambridge University Press.
+
+[^vorstellung*-2018]: 2018: *The World as Will and Representation*, Vol. II, translated by Judith Norman, Alistair Welchman, and Christopher Janaway, Cambridge: Cambridge University Press.
+
 [^app-2014]: App, U., 2014, *Schopenhauer’s Compass: An Introduction to Schopenhauer’s Philosophy and its Origins*, Wil: UniversityMedia.
 
 [^atwell-1990]: Atwell, J., 1990, *Schopenhauer: The Human Character*, Philadelphia: Temple University Press.

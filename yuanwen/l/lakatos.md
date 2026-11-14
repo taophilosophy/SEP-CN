@@ -288,7 +288,7 @@ Thus Carnap starts off with the exciting problem of showing how scientific theor
 
 ### 3.4 “Falsification and the Methodology of Scientific Research Programmes” (1970)
 
-The best-known of Lakatos’s “Conference Proceedings” is *Criticism and the Growth of Knowledge*, which became an international best-seller. It contains Lakatos’s important paper “Falsification and the Methodology of Scientific Research Programmes” (FMSRP) which we have discussed already. A briefer account of this methodology had already appeared (Lakatos 1968a), in which Lakatos distinguished dogmatic, naïve and sophisticated falsificationist positions, attributing them to “Popper₀, Popper₁ and Popper₂”—or as he otherwise put it, “proto-Popper, pseudo-Popper and proper-Popper”. (Popper did not appreciate being disassembled into temporal or ideological parts and protested “I am not a Trinity”.)
+The best-known of Lakatos’s “Conference Proceedings” is *Criticism and the Growth of Knowledge*, which became an international best-seller. It contains Lakatos’s important paper “Falsification and the Methodology of Scientific Research Programmes” (FMSRP) which we have discussed already. A briefer account of this methodology had already appeared (Lakatos 1968a)[^lakatos-1968a], in which Lakatos distinguished dogmatic, naïve and sophisticated falsificationist positions, attributing them to “Popper₀, Popper₁ and Popper₂”—or as he otherwise put it, “proto-Popper, pseudo-Popper and proper-Popper”. (Popper did not appreciate being disassembled into temporal or ideological parts and protested “I am not a Trinity”.)
 
 Lakatos’s methodology has been seen, rightly, as an attempt to reconcile Popper’s falsificationism with the views of Thomas Kuhn. Popper saw science as consisting of bold explanatory conjectures, and dramatic refutations that led to new conjectures. Kuhn (and Polanyi before him) objected that
 
@@ -431,73 +431,87 @@ The upshot is that if there is a Lakatosian answer to Feyerabend’s dilemma, it
 
 Brouwer, Luitzen Egbertus Jan | Copernicus, Nicolaus | Descartes, René | Descartes, René: physics | Feyerabend, Paul | Galileo Galilei | Hegel, Georg Wilhelm Friedrich | Hilbert, David: program in the foundations of mathematics | Kuhn, Thomas | laws of nature: *ceteris paribus* | logic: paraconsistent | logicism and neologicism | Lukács, Georg [György] | Marx, Karl | mathematical: explanation | mathematics, philosophy of | mathematics, philosophy of: formalism | mathematics, philosophy of: intuitionism | mathematics: constructive | mathematics: inconsistent | mathematics: non-deductive methods in | Newton, Isaac | Popper, Karl | *Principia Mathematica* | probability, interpretations of | rationality: historicist theories of | Russell, Bertrand | science: and pseudo-science | scientific progress | scientific revolutions | set theory: Zermelo’s axiomatization of | skepticism: ancient
 
+[^lakatos-1946a]: 1946a: “Citoyen és Munkásosztály” (Citoyen and the working class), *Valóság*, 1: 77–88.
+
+[^lakatos-1946b]: 1946b: “A fizikai Idealizmus Bírálata” (A critique of idealism in physics); a review of Susan Stebbing’s *Philosophy and the Physicists*, *Athenaeum*, 1: 28–33.
+
+[^lakatos-1947a]: 1947a: “Huszadik Század”, *Forum*, 1: 316–20.
+
+[^lakatos-1947b]: 1947b: “Eötvös Collégium—Györffy Kollégium”, *Valóság*, 2: 107–24.
+
+[^lakatos-1947c]: 1947c: “Jeges Károly: *Megtanulom a fizikát”*, Társadalmi Szemle, 1: 472.
+
+[^lakatos-1947d]: 1947d: “Természettudományos világnézet és demokratikus nevelés” (Scientific worldview and democratic upbringing), *Embernevelés*, 2: 63–66.
+
+[^lakatos-1947e]: 1947e: “Modern fizika—modern társadalom” (Modern physics—modern society), in Kemény Gábor (ed.), *Továbbképzés és demokrácia*. [There is an English translation of this essay in Kampis et al. 2002: 356–368.]
+
 [^haladó-nd]: 1947f: “‘Haladó tudós’ a demokráciában” (A “progressive scholar” in a democracy), *Tovább*, June 13.
 
-[^haladó-1956]: 1956: Speech at the Pedagogy Debate of the Petőfi Circle on September 28, 1956; transcript published in András B. Hegedűs (ed.), *A Petőfi Kör vitái* (The debates of the Petőfi Circle), Vol. VI, Budapest: Intézet and Múzsák Kiadó, 1992, 34–38. [English translation “On rearing scholars” in Motterlini 1999: 375–381.]
+[^lakatos-1956]: 1956: Speech at the Pedagogy Debate of the Petőfi Circle on September 28, 1956; transcript published in András B. Hegedűs (ed.), *A Petőfi Kör vitái* (The debates of the Petőfi Circle), Vol. VI, Budapest: Intézet and Múzsák Kiadó, 1992, 34–38. [English translation “On rearing scholars” in Motterlini 1999: 375–381.]
 
-[^haladó-1961]: 1961: “Essays in the Logic of Mathematical Discovery”. Unpublished PhD dissertation, Cambridge University.
+[^lakatos-1961]: 1961: “Essays in the Logic of Mathematical Discovery”. Unpublished PhD dissertation, Cambridge University.
 
-[^haladó-1962]: 1962 [**Regress**]: “Infinite Regress and Foundations of Mathematics”, *Aristotelian Society Supplementary Volume*, 36: 155–94. [Republished as chapter 1 of Lakatos 1978b (PP2), cited pages from this version.]
+[^lakatos-1962]: 1962 [**Regress**]: “Infinite Regress and Foundations of Mathematics”, *Aristotelian Society Supplementary Volume*, 36: 155–94. [Republished as chapter 1 of Lakatos 1978b (PP2), cited pages from this version.]
 
-[^haladó-1963]: 1963: Discussion of “History of Science as an Academic Discipline” by A.C. Crombie and M.A. Hoskin, in A.C. Crombie (ed.), *Scientific Change*, London: Heinemann, pp. 781–5. [Republished as chapter 13 of Lakatos 1978b (PP2).]
+[^lakatos-1963]: 1963: Discussion of “History of Science as an Academic Discipline” by A.C. Crombie and M.A. Hoskin, in A.C. Crombie (ed.), *Scientific Change*, London: Heinemann, pp. 781–5. [Republished as chapter 13 of Lakatos 1978b (PP2).]
 
-[^haladó-1963-2]: 1963–4: “Proofs and Refutations”, in the *British Journal for the Philosophy of Science*, 14: 1–25, 120–139, 221–243, 296–342. [Reprinted in Lakatos 1976c (P&R). cited pages from this version.]
+[^lakatos-1963-2]: 1963–4: “Proofs and Refutations”, in the *British Journal for the Philosophy of Science*, 14: 1–25, 120–139, 221–243, 296–342. [Reprinted in Lakatos 1976c (P&R). cited pages from this version.]
 
-[^haladó-1967a]: 1967a [**Renaissance**]: “A Renaissance of Empiricism in the Recent Philosophy of Mathematics”, in Lakatos 1967b: 199–202. [Republished in an expanded form as 1978b (PP2), cited pages from this version.]
+[^lakatos-1967a]: 1967a [**Renaissance**]: “A Renaissance of Empiricism in the Recent Philosophy of Mathematics”, in Lakatos 1967b: 199–202. [Republished in an expanded form as 1978b (PP2), cited pages from this version.]
 
-[^haladó-1967b]: 1967b: (ed.), *Problems in the Philosophy of Mathematics*, Amsterdam: North-Holland.
+[^lakatos-1967b]: 1967b: (ed.), *Problems in the Philosophy of Mathematics*, Amsterdam: North-Holland.
 
-[^haladó-1968a]: 1968a: “Criticism and the Methodology of Scientific Research Programmes”, *Proceedings of the Aristotelian Society*, 69: 149–186.
+[^lakatos-1968a]: 1968a: “Criticism and the Methodology of Scientific Research Programmes”, *Proceedings of the Aristotelian Society*, 69: 149–186.
 
-[^haladó-1968b]: 1968b [**Changes**]: “Changes in the Problem of Inductive Logic”, in Lakatos 1968c, 315–417 [Reprinted as chapter 8 of PP2, cited pages from this version.]
+[^lakatos-1968b]: 1968b [**Changes**]: “Changes in the Problem of Inductive Logic”, in Lakatos 1968c, 315–417 [Reprinted as chapter 8 of PP2, cited pages from this version.]
 
-[^haladó-1968c]: 1968c: (ed.), *The Problem of Inductive Logic*, Amsterdam: North-Holland.
+[^lakatos-1968c]: 1968c: (ed.), *The Problem of Inductive Logic*, Amsterdam: North-Holland.
 
-[^haladó-1968d]: 1968d: (edited with A. Musgrave) *Problems in the Philosophy of Science*, Amsterdam: North-Holland.
+[^lakatos-1968d]: 1968d: (edited with A. Musgrave) *Problems in the Philosophy of Science*, Amsterdam: North-Holland.
 
-[^haladó-1968e]: 1968e: “A Letter to the Director of the London School of Economics”, in C.B. Cox and A.E. Dyson (eds.), *Fight for Education, A Black Paper*, London: Critical Quarterly Society, 28–31. [Republished as chapter 12 of Lakatos 1978b (PP2), referred to, in this reprint, as LTD.]
+[^lakatos-1968e]: 1968e: “A Letter to the Director of the London School of Economics”, in C.B. Cox and A.E. Dyson (eds.), *Fight for Education, A Black Paper*, London: Critical Quarterly Society, 28–31. [Republished as chapter 12 of Lakatos 1978b (PP2), referred to, in this reprint, as LTD.]
 
-[^haladó-1970a]: 1970a [FMSRP]: “Falsification and the Methodology of Scientific Research Programmes”, in Lakatos 1970b, 91–196 (Republished as chapter 1 of Lakatos 1978a, PP1, cited pages from this version.)
+[^lakatos-1970a]: 1970a [FMSRP]: “Falsification and the Methodology of Scientific Research Programmes”, in Lakatos 1970b, 91–196 (Republished as chapter 1 of Lakatos 1978a, PP1, cited pages from this version.)
 
-[^haladó-1970b]: 1970b, editor with A. Musgrave: *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
+[^lakatos-1970b]: 1970b, editor with A. Musgrave: *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
 
-[^haladó-1970c]: 1970c: Discussion of “Knowledge and Physical Reality” by A. Mercier, in A.D. Breck and W. Yourgrau (eds.), *Physics, Logic and History*, New York: Plenum Press, pp. 53–4.
+[^lakatos-1970c]: 1970c: Discussion of “Knowledge and Physical Reality” by A. Mercier, in A.D. Breck and W. Yourgrau (eds.), *Physics, Logic and History*, New York: Plenum Press, pp. 53–4.
 
-[^haladó-1970d]: 1970d: Discussion of ‘Scepticism and the Study of History’ by Richard H. Popkin, in A.D. Breck and W. Yourgrau (eds.), *Physics, Logic and History*, New York: Plenum Press, pp. 220–3.
+[^lakatos-1970d]: 1970d: Discussion of ‘Scepticism and the Study of History’ by Richard H. Popkin, in A.D. Breck and W. Yourgrau (eds.), *Physics, Logic and History*, New York: Plenum Press, pp. 220–3.
 
-[^haladó-1971a]: 1971a [HS&IRR]: “The History of Science and its Rational Reconstructions”, in R.C. Buck and R.S. Cohen (eds.), *PSA 1970: Boston Studies in the Philosophy of Science*, 8, Dordrecht: Reidel, pp. 91–135. [Republished as chapter 2 of Lakatos 1978a (PP1), cited pages from this version]
+[^lakatos-1971a]: 1971a [HS&IRR]: “The History of Science and its Rational Reconstructions”, in R.C. Buck and R.S. Cohen (eds.), *PSA 1970: Boston Studies in the Philosophy of Science*, 8, Dordrecht: Reidel, pp. 91–135. [Republished as chapter 2 of Lakatos 1978a (PP1), cited pages from this version]
 
-[^haladó-1971b]: 1971b: “Replies to Critics”, in R.C. Buck and R.S. Cohen (eds.): *PSA 1970: Boston Studies in the Philosophy of Science*, 8, Dordrecht: Reidel, pp. 174–82.
+[^lakatos-1971b]: 1971b: “Replies to Critics”, in R.C. Buck and R.S. Cohen (eds.): *PSA 1970: Boston Studies in the Philosophy of Science*, 8, Dordrecht: Reidel, pp. 174–82.
 
-[^haladó-1974a]: 1974a: “Discussion Remarks on Papers by Ne‘eman, Yahil, Beckler, Sambursky, Elkana, Agassi, Mendelsohn”, in Y. Elkana (ed.), *The Interaction Between Science and Philosophy*, Atlantic Highlands, New Jersey: Humanities Press, pp. 41, 155–6, 163, 165, 167, 280–3, 285–6, 288–9, 292, 294–6, 427–8, 430–1, 435.
+[^lakatos-1974a]: 1974a: “Discussion Remarks on Papers by Ne‘eman, Yahil, Beckler, Sambursky, Elkana, Agassi, Mendelsohn”, in Y. Elkana (ed.), *The Interaction Between Science and Philosophy*, Atlantic Highlands, New Jersey: Humanities Press, pp. 41, 155–6, 163, 165, 167, 280–3, 285–6, 288–9, 292, 294–6, 427–8, 430–1, 435.
 
-[^haladó-1974b]: 1974b [PDI]: “Popper on Demarcation and Induction”, in P.A. Schilpp (ed.), *The Philosophy of Karl Popper*, La Salle: Open Court, 241–73. [Republished as chapter 3 of Lakatos 1978a (PP1), cited pages from this version.]
+[^lakatos-1974b]: 1974b [PDI]: “Popper on Demarcation and Induction”, in P.A. Schilpp (ed.), *The Philosophy of Karl Popper*, La Salle: Open Court, 241–73. [Republished as chapter 3 of Lakatos 1978a (PP1), cited pages from this version.]
 
-[^haladó-1974c]: 1974c: “The Role of Crucial Experiments in Science”, *Studies in the History and Philosophy of Science*, 4: 309–25.
+[^lakatos-1974c]: 1974c: “The Role of Crucial Experiments in Science”, *Studies in the History and Philosophy of Science*, 4: 309–25.
 
-[^haladó-1974d]: 1974d [S&P]: “Science and Pseudoscience”, in Vesey, G. (ed.), *Philosophy in the Open*, Open University Press. [Republished as the introduction to Lakatos 1978a (PP1), cited pages from this version.]
+[^lakatos-1974d]: 1974d [S&P]: “Science and Pseudoscience”, in Vesey, G. (ed.), *Philosophy in the Open*, Open University Press. [Republished as the introduction to Lakatos 1978a (PP1), cited pages from this version.]
 
-[^haladó-1976a]: 1976a: [UT] “Understanding Toulmin”, *Minerva*, 14: 126–43. [Republished as chapter 11 of Lakatos 1978b.]
+[^lakatos-1976a]: 1976a: [UT] “Understanding Toulmin”, *Minerva*, 14: 126–43. [Republished as chapter 11 of Lakatos 1978b.]
 
-[^haladó-1976b]: 1976b [**Renaissance**]: “A Renaissance of Empiricism in the Recent Philosophy of Mathematics?”, *British Journal for the Philosophy of Science*, 27: 201–23. [Republished as chapter 2 of Lakatos 1978b (PP2), cited pages from this version.]
+[^lakatos-1976b]: 1976b [**Renaissance**]: “A Renaissance of Empiricism in the Recent Philosophy of Mathematics?”, *British Journal for the Philosophy of Science*, 27: 201–23. [Republished as chapter 2 of Lakatos 1978b (PP2), cited pages from this version.]
 
-[^haladó-1976c]: 1976c [P&R]: *Proofs and Refutations: The Logic of Mathematical Discovery*, J. Worrall and E. Zahar (eds.), Cambridge: Cambridge University Press
+[^lakatos-1976c]: 1976c [P&R]: *Proofs and Refutations: The Logic of Mathematical Discovery*, J. Worrall and E. Zahar (eds.), Cambridge: Cambridge University Press
 
-[^haladó-1976d]: 1976d [WDCRPSP]: “Why Did Copernicus’s Programme Supersede Ptolemy’s?”, by I. Lakatos and E.G. Zahar, in R. Westman (ed.), *The Copernican Achievement*, Los Angeles: University of California Press, 354–83. [Republished as chapter 5 of PP1, cited pages from this version.]
+[^lakatos-1976d]: 1976d [WDCRPSP]: “Why Did Copernicus’s Programme Supersede Ptolemy’s?”, by I. Lakatos and E.G. Zahar, in R. Westman (ed.), *The Copernican Achievement*, Los Angeles: University of California Press, 354–83. [Republished as chapter 5 of PP1, cited pages from this version.]
 
-[^haladó-1978a]: 1978a [PP1]: *The Methodology of Scientific Research Programmes* (*Philosophical Papers*: Volume 1), J. Worrall and G. Currie (eds.), Cambridge: Cambridge University Press.
+[^lakatos-1978a]: 1978a [PP1]: *The Methodology of Scientific Research Programmes* (*Philosophical Papers*: Volume 1), J. Worrall and G. Currie (eds.), Cambridge: Cambridge University Press.
 
-[^haladó-1978b]: 1978b [PP2]: *Mathematics, Science and Epistemology* (*Philosophical Papers*: Volume 2), J. Worrall and G. Currie (eds.), Cambridge: Cambridge University Press.
+[^lakatos-1978b]: 1978b [PP2]: *Mathematics, Science and Epistemology* (*Philosophical Papers*: Volume 2), J. Worrall and G. Currie (eds.), Cambridge: Cambridge University Press.
 
-[^haladó-1978c]: 1978c: “Cauchy and the Continuum:the Significance of Non-Standard Analysis for the History and Philosophy of Mathematics”. [Published as chapter 5 of PP1]
+[^lakatos-1978c]: 1978c: “Cauchy and the Continuum:the Significance of Non-Standard Analysis for the History and Philosophy of Mathematics”. [Published as chapter 5 of PP1]
 
-[^haladó-1999a]: 1999a: “Lectures on Scientific Method” in Motterlini 1999: 19–109
+[^lakatos-1999a]: 1999a: “Lectures on Scientific Method” in Motterlini 1999: 19–109
 
-[^haladó-1999b]: 1999b: “Lakatos-Feyerabend Correspondence” in Motterlini 1999: 119–374.
+[^lakatos-1999b]: 1999b: “Lakatos-Feyerabend Correspondence” in Motterlini 1999: 119–374.
 
-[^haladó-1999c]: 1999c: “On Rearing Scholars” in Motterlini 1999: 375–381.
+[^lakatos-1999c]: 1999c: “On Rearing Scholars” in Motterlini 1999: 375–381.
 
-[^haladó-1999d]: 1999d: “The Intellectuals’ Betrayal of Reason” in Motterlini 1999: 393–397.
+[^lakatos-1999d]: 1999d: “The Intellectuals’ Betrayal of Reason” in Motterlini 1999: 393–397.
 
 [^ariew-2014]: Ariew, R., 2014, “Pierre Duhem”, *The Stanford Encyclopedia of Philosophy* (Fall 2014 edition), E.N. Zalta (ed.). URL=<[https://plato.stanford.edu/archives/fall2014/entries/duhem/](https://plato.stanford.edu/archives/fall2014/entries/duhem/)>
 

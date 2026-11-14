@@ -344,6 +344,42 @@ The authors thank Giulio Pietroiusti for especially helpful discussion concernin
 
 [^note-1]: Apparently, Stevenson’s colleagues wished to resist the pragmatist and positivist tendencies in the American philosophical environment of the time and wanted to associate Yale with “the spiritual tradition of our civilization.” They decided, after extensive discussion, that Stevenson’s book “evaded philosophical issues that anyone with any reasonable grounding in philosophy would be expected to appreciate,” and that Stevenson’s views would be likely to have malevolent effect on students and political life (Kuklick 2004, 324–325)[^kuklick-2004]. Burks (1978)[^burks-1978] reports that one of Stevenson’s senior colleagues at Yale had declared that Stevenson had “committed positivism,” where the general acceptance of positivism was thought by at least one such senior colleague, Brand Blanshard, to lead inevitably to “international disaster” (Blanshard 1949)[^blanshard-1949].
 
+[^article-1937]: 1937, “The Emotive Meaning of Ethical Terms,” reprinted in Stevenson 1963a, pp. 10–31.
+
+[^article-1938a]: 1938a, “Ethical Judgments and Avoidability,” reprinted in Stevenson 1963a, pp. 138–152.
+
+[^article-1938b]: 1938b, “Persuasive Definitions,” reprinted in Stevenson 1963a, pp. 32–54.
+
+[^article-1944]: 1944, *Ethics and Language*, New Haven: Yale University Press.
+
+[^article-1946]: 1946 [1943], “Some Relations Between Philosophy and the Study of Language,” reprinted in Stevenson 1963a, pp. 175–185.
+
+[^article-1948a]: 1948a, “Meaning: Descriptive and Emotive,” reprinted in Stevenson 1963a, pp. 153–174.
+
+[^article-1948b]: 1948b [1941], “The Nature of Ethical Disagreement,” reprinted in Stevenson 1963a, pp. 1–9.
+
+[^article-1950a]: 1950a, “The Emotive Conception of Ethics and Its Cognitive Implications,” reprinted in Stevenson 1963a, pp. 55–70.
+
+[^article-1950b]: 1950b, “Interpretation and Evaluation in Aesthetics,” in *Philosophical Analysis: a Collection of Essays*, Max Black (ed.), Ithaca: Cornell University Press, pp. **xxx–xxx**.
+
+[^article-1950c]: 1950c, “Brandt’s Questions about Emotive Ethics,” *Philosophical Review*, 59(4): 528–534.
+
+[^article-1957]: 1957, “On ‘What is a Poem?’,” *Philosophical Review*, 66(3): 329–362.
+
+[^article-1958]: 1958, “On the ‘Analysis’ of a Work of Art,” *Philosophical Review*, 67(1): 33–51.
+
+[^article-1961]: 1961–62a, “Reflections on John Dewey’s Ethics,” in Stevenson 1963a, pp. 94–116.
+
+[^article-1961-2]: 1961–62b, “Relativism and Nonrelativism in the Theory of Value,” in Stevenson 1963a, pp. 71–93.
+
+[^article-1963a]: 1963a, *Facts and Values: Studies in Ethical Analysis*, New Haven: Yale University Press.
+
+[^article-1963b]: 1963b, “Retrospective Comments,” in Stevenson 1963a, pp. 186–232.
+
+[^article-1968]: 1968, “Ethical Fallibility,” in *Ethics and Society*, T. De George (ed.), London: Macmillan, pp. 197–217.
+
+[^article-1973]: 1973, “Richards on the Theory of Value,” in *I. A. Richards: Essays in His Honor*, Reuben Brower et. al (eds.), New York: Oxford University Press, pp. 119–134.
+
 [^ayer-1936]: Ayer, A. J., 1936, *Language, Truth, and Logic*, London: Victor Gollancz Ltd.
 
 [^barker-2002]: Barker, S., 2002, “Is Value Content a Component of Conventional Implicature?,” *Analysis*, 60(3): 268–279.

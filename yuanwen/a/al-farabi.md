@@ -127,7 +127,7 @@ al-Farabi: metaphysics | al-Farabi: philosophy of logic and language | al-Farabi
 
 [^alon-2002]: Alon, Ilai and Shukri B. Abed, *Al-Fārābī’s Philosophical Lexicon*, 2 volumes (volume I: Arabic Text; volume II: English translation). Cambridge: Cambridge University Press, 2002 (provides al-Fārābī’s own definitions of technical philosophical terms).
 
-[^alon-nd]: The following are listed by editors/translators:
+[^al-fārābī-nd]: The following are listed by editors/translators:
 
 [^abram-2020]: Abram, Sara, 2020, “Note di Abū Naṣrr al-Fārābī sulla verità e falsità dell’astrologia”, *Medioevo*, 45: 235–77.
 

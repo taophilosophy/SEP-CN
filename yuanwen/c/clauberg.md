@@ -262,29 +262,29 @@ The author would like to thank Adi Efal-Lautenschläger and Devin Curry for help
 
 [^below-nd]: Below is a non-exhaustive list of Clauberg’s works published in his lifetime:
 
-[^below-1647]: 1647, *Elementa philosophiae sive ontosophia*, Groningen: Johann Nicolai. [*Elem. phil.*, by part and paragraph; and “Prolegomena”, by paragraph]
+[^clauberg-1647]: 1647, *Elementa philosophiae sive ontosophia*, Groningen: Johann Nicolai. [*Elem. phil.*, by part and paragraph; and “Prolegomena”, by paragraph]
 
-[^below-1652]: 1652, *Defensio Cartesiana adversus Jac. Revium Theologum Leidensen, et Cyriacum Lentulum, professorem Herbornensem*, Amsterdam: Elzevier. [*Def. cart.*, by chapter and paragraph]
+[^clauberg-1652]: 1652, *Defensio Cartesiana adversus Jac. Revium Theologum Leidensen, et Cyriacum Lentulum, professorem Herbornensem*, Amsterdam: Elzevier. [*Def. cart.*, by chapter and paragraph]
 
-[^below-1654]: 1654, *Logica vetus et nova quadripartita*, Amsterdam: Elzevier. [*Logica*, by part, chapter, and paragraph; the “Prolegomena” from the 2ⁿᵈ edition, not included in OO, is cited by chapter and paragraph; the “Proemium”, likewise excluded from OO, is from the 1ˢᵗ edition]
+[^clauberg-1654]: 1654, *Logica vetus et nova quadripartita*, Amsterdam: Elzevier. [*Logica*, by part, chapter, and paragraph; the “Prolegomena” from the 2ⁿᵈ edition, not included in OO, is cited by chapter and paragraph; the “Proemium”, likewise excluded from OO, is from the 1ˢᵗ edition]
 
-[^below-1655]: 1655, *Initiatio philosophi sive dubitatio Cartesiana ad metaphysicam certitudinem viam aperiens*, Leiden and Duisburg: A. Wyngaerden. [*Init. phil.*, by chapter and paragraph]
+[^clauberg-1655]: 1655, *Initiatio philosophi sive dubitatio Cartesiana ad metaphysicam certitudinem viam aperiens*, Leiden and Duisburg: A. Wyngaerden. [*Init. phil.*, by chapter and paragraph]
 
-[^below-1656]: 1656, *De cognitione Dei et nostri, quatenus naturali rationis lumine, secundum veram philosophiam, potest comparari, exercitationes centum*, Duisburg: A. Wijngaarden. [*Cog. Dei*, by disputation and paragraph]
+[^clauberg-1656]: 1656, *De cognitione Dei et nostri, quatenus naturali rationis lumine, secundum veram philosophiam, potest comparari, exercitationes centum*, Duisburg: A. Wijngaarden. [*Cog. Dei*, by disputation and paragraph]
 
-[^below-1657]: 1657, *Unterscheid zwischen der cartesianischer und der sonst in Schulen gebräuchlicher Philosophie*, Duisburg: A. Wyngarten. [*Unterscheid*, by paragraph]
+[^clauberg-1657]: 1657, *Unterscheid zwischen der cartesianischer und der sonst in Schulen gebräuchlicher Philosophie*, Duisburg: A. Wyngarten. [*Unterscheid*, by paragraph]
 
-[^below-1658]: 1658, *Paraphrasis in Renati Des Cartes meditationes de prima philosophia. In quibus Dei existentia, et Animae humanae a Corpore distinctio demonstrantur*, Duisburg: A. Wyngaerden.
+[^clauberg-1658]: 1658, *Paraphrasis in Renati Des Cartes meditationes de prima philosophia. In quibus Dei existentia, et Animae humanae a Corpore distinctio demonstrantur*, Duisburg: A. Wyngaerden.
 
-[^below-1659]: 1659, *Logica contracta, 2ⁿᵈ ed.*, Duisburg. (The first edition appears to be missing.) [*Log. contr.*, by paragraph]
+[^clauberg-1659]: 1659, *Logica contracta, 2ⁿᵈ ed.*, Duisburg. (The first edition appears to be missing.) [*Log. contr.*, by paragraph]
 
-[^below-1660]: 1660, *Ontosophia nova*, Duisburg: A. Wyngaerden. (The second edition of *Elementa philosophiae sive Ontosophia*.)
+[^clauberg-1660]: 1660, *Ontosophia nova*, Duisburg: A. Wyngaerden. (The second edition of *Elementa philosophiae sive Ontosophia*.)
 
-[^below-1663]: 1663, *Ars etymologica Teutonum e philosophiae fontibus derivata*, Duisburg: Asendorf.
+[^clauberg-1663]: 1663, *Ars etymologica Teutonum e philosophiae fontibus derivata*, Duisburg: Asendorf.
 
-[^below-1664]: 1664, *Physica quibus rerum corporearum vis & natura, mentis ad corpus relatae proprietates, denique corporis ac mentis arcta & admirabilis in homine conjunctio explicantur*, Amsterdam: Elzevier. (This work consists of four parts, the latter three of which are abbreviated above as follows: [*Disp. phys.*] = *Disputationes physicae;* [*Corp. viv.*] = *Theoria corporum viventium*; [*Conj.*] = *Corporis et animae in homine conjunctio*; all cited by chapter/disputation and paragraph.)
+[^clauberg-1664]: 1664, *Physica quibus rerum corporearum vis & natura, mentis ad corpus relatae proprietates, denique corporis ac mentis arcta & admirabilis in homine conjunctio explicantur*, Amsterdam: Elzevier. (This work consists of four parts, the latter three of which are abbreviated above as follows: [*Disp. phys.*] = *Disputationes physicae;* [*Corp. viv.*] = *Theoria corporum viventium*; [*Conj.*] = *Corporis et animae in homine conjunctio*; all cited by chapter/disputation and paragraph.)
 
-[^below-1664-2]: 1664, *Metaphysica de ente quae rectius ontosophia*, Amsterdam: Elzevier. (This is the third edition of *Ontosophia*.) [*Met. ente*, by chapter and paragraph]
+[^clauberg-1664-2]: 1664, *Metaphysica de ente quae rectius ontosophia*, Amsterdam: Elzevier. (This is the third edition of *Ontosophia*.) [*Met. ente*, by chapter and paragraph]
 
 [^adam-1996]: Adam, Charles and Paul Tannery (eds), *Oeuvres de Descartes*, 11 vols., Paris: Vrin/CNRS, 1996. [AT, by volume and page number]
 

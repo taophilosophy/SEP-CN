@@ -109,13 +109,13 @@ The concepts of expression and style are central to Merleau-Ponty’s thought an
 
 > Phenomenology is as painstaking as the works of Balzac, Proust, Valéry, or Cézanne—through the same kind of attention and wonder, the same demand for awareness, the same will to grasp the sense of the world or of history in its nascent state. (PP: 22/lxxxv)
 
-Expression, particularly in language and the arts, plays an increasingly central role in Merleau-Ponty’s thought in the years following *Phenomenology*, when he aimed to formulate a general theory of expression as the grounding for a philosophy of history and culture. This interest is first reflected in a series of essays addressing painting, literature, and film published in the years immediately following *Phenomenology* (in Merleau-Ponty 1996b/1964). These include Merleau-Ponty’s first essay on painting, “Cézanne’s Doubt”, which finds in Cézanne a proto-phenomenological effort to capture the birth of perception through painting. Cézanne epitomizes the paradoxical struggle of creative expression, which necessarily relies on the idiosyncracies of the artist’s individual history and psychology, as well as the resources of the tradition of painting, but can succeed only by risking a creative appropriation of these acquisitions in the service of teaching its audience to see the world anew. Similarly, Leonardo da Vinci’s artistic productivity is explicable neither in terms of his intellectual freedom (Valéry) nor his childhood (Freud) but as the dialectic of spontaneity and sedimentation by which Merleau-Ponty had formerly defined history.
+Expression, particularly in language and the arts, plays an increasingly central role in Merleau-Ponty’s thought in the years following *Phenomenology*, when he aimed to formulate a general theory of expression as the grounding for a philosophy of history and culture. This interest is first reflected in a series of essays addressing painting, literature, and film published in the years immediately following *Phenomenology* (in Merleau-Ponty 1996b/1964)[^merleau-ponty-1996b]. These include Merleau-Ponty’s first essay on painting, “Cézanne’s Doubt”, which finds in Cézanne a proto-phenomenological effort to capture the birth of perception through painting. Cézanne epitomizes the paradoxical struggle of creative expression, which necessarily relies on the idiosyncracies of the artist’s individual history and psychology, as well as the resources of the tradition of painting, but can succeed only by risking a creative appropriation of these acquisitions in the service of teaching its audience to see the world anew. Similarly, Leonardo da Vinci’s artistic productivity is explicable neither in terms of his intellectual freedom (Valéry) nor his childhood (Freud) but as the dialectic of spontaneity and sedimentation by which Merleau-Ponty had formerly defined history.
 
 In 1951, Merleau-Ponty summarizes his research after *Phenomenology* as focused on a “theory of truth” exploring how knowledge and communication with others are “original formations with respect to perceptual life, but … also preserve and continue our perceptual life even while transforming it” (UMP: 41–42/287). Expression, language, and symbolism are the key to this theory of truth and provide the foundation for a philosophy of history and of “transcendental” humanity. Whereas the study of perception could only provide a “bad ambiguity” that mixes “finitude and universality”, Merleau-Ponty sees in the phenomenon of expression a “good ambiguity” that “gathers together the plurality of monads, the past and the present, nature and culture, into a single whole” (UMP: 48/290). Many of Merleau-Ponty’s courses from 1947 through 1953 at the University of Lyon, the Sorbonne, and the Collège de France focus on language, expression, and literature.[^note-6]
 
 The manuscript partially completed during these years and published posthumously as *The Prose of the World* (1969/1973) pursues these themes through a phenomenological investigation of literary language and its relationship with scientific language and painting. Critiquing our commonsense ideal of a pure language that would transparently encode pre-existing thoughts, Merleau-Ponty argues that instituted language—the conventional system of language as an established set of meanings and rules—is derivative from a more primordial function of language as genuinely creative, expressive, and communicative. Here he draws two insights from Saussurian linguistics: First, signs function diacritically, through their lateral relations and differentiations, rather than through a one-to-one correspondence with a conventionally established meaning. Ultimately, signification happens through the differences between terms in a referential system that lacks any fixed or positive terms. This insight into diacritical difference will later prove important to Merleau-Ponty’s understanding of perception and ontology as well (see Alloa 2013a)[^alloa-2013a]. Second, the ultimate context for the operation of language is effective communication with others, by which new thoughts can be expressed and meanings shared. Expression accomplishes itself through a coherent reorganization of the relationships between acquired signs that must teach itself to the reader or listener, and which may afterwards again sediment into a taken-for-granted institutional structure.
 
-In a long extract from the manuscript that was revised and published in 1952 as “Indirect Language and the Voices of Silence” (in Merleau-Ponty 1960/1964), Merleau-Ponty brings this understanding of language into conversation with Sartre’s *What is Literature?* and André Malraux’s *The Voices of Silence*. Sharing Malraux’s criticisms of the museum’s role in framing the reception of painting, but rejecting his interpretation of modern painting as subjectivist, Merleau-Ponty offers an alternative understanding of “institution” (from Husserl’s *Stiftung*) as the creative establishment of a new field of meaning that opens an historical development. The style of an artist is not merely subjective but lived as a historical trajectory of expression that begins with perception itself and effects a “coherent deformation” in inherited traditions. Rather than opposed as silent and speaking, painting and language are both continuations of the expressivity of a perceptual style into more malleable mediums. The unfinished character of modern painting is therefore not a turn from the objectivity of representation toward subjective creation but rather a more authentic testament to the paradoxical logic of all expression.
+In a long extract from the manuscript that was revised and published in 1952 as “Indirect Language and the Voices of Silence” (in Merleau-Ponty 1960/1964)[^merleau-ponty-1960], Merleau-Ponty brings this understanding of language into conversation with Sartre’s *What is Literature?* and André Malraux’s *The Voices of Silence*. Sharing Malraux’s criticisms of the museum’s role in framing the reception of painting, but rejecting his interpretation of modern painting as subjectivist, Merleau-Ponty offers an alternative understanding of “institution” (from Husserl’s *Stiftung*) as the creative establishment of a new field of meaning that opens an historical development. The style of an artist is not merely subjective but lived as a historical trajectory of expression that begins with perception itself and effects a “coherent deformation” in inherited traditions. Rather than opposed as silent and speaking, painting and language are both continuations of the expressivity of a perceptual style into more malleable mediums. The unfinished character of modern painting is therefore not a turn from the objectivity of representation toward subjective creation but rather a more authentic testament to the paradoxical logic of all expression.
 
 Merleau-Ponty returns to the analysis of painting in his final essay, “Eye and Mind” (1964a OEE), where he accords it an ontological priority—between the linguistic arts and music—for revealing the “there is” of the world that the operationalism of contemporary science has occluded. It is by “lending his body to the world that the artist changes the world into paintings” (OEE: 16/353), and this presupposes that the artist’s body is immersed in and made of the same stuff as the world: to touch, one must be tangible, and to see, visible. Merleau-Ponty describes this as an “intertwining” or “overlapping”, in which the artist’s situated embodiment is the other side of its opening to the world. There is as yet no sharp division between the sensing and the sensed, between body and things as one common “flesh”, and painting arises as the expression of this relation: it is a “visible to the second power, a carnal essence or icon” of embodied vision (OEE: 22/355). Descartes’s efforts, in the *Optics*, to reconstruct vision from thought leads him to focus on the “envelope” or form of the object, as presented in engraved lines, and to treat depth as a third dimension modeled after height and width. This idealization of space has its necessity, yet, once elevated to a metaphysical status by contemporary science, it culminates in an understanding of being as purely positive and absolutely determinate. The ontological significance of modern painting and the plastic arts—e.g., Klee, de Staël, Cézanne, Matisse, Rodin—lies in the alternative philosophy that they embody, as revealed through their treatment of depth, color, line, and movement. Ultimately, such works teach us anew what it means to see:
 
@@ -237,7 +237,7 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 
 [^note-2]: The correspondence between Merleau-Ponty and Beauvoir has been published in Beauvoir, Lacoin, and Merleau-Ponty 2022c.
 
-[^note-3]: These reviews are collected in *Parcours 1935–1951* (Merleau-Ponty 1997a). English translations are included in *Texts and Dialogues* (Merleau-Ponty 1992).
+[^note-3]: These reviews are collected in *Parcours 1935–1951* (Merleau-Ponty 1997a)[^merleau-ponty-1997a]. English translations are included in *Texts and Dialogues* (Merleau-Ponty 1992)[^merleau-ponty-1992].
 
 [^note-4]: The introduction to *La Nature ou le monde du silence* was published as Merleau-Ponty 2008.
 
@@ -247,63 +247,63 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 
 [^note-7]: A selection of Merleau-Ponty's editorials and other contributions to *Les Temps Modernes* are included in Merleau-Ponty 2018.
 
-[^note-8]: An earlier draft of the third chapter, “Interrogation and Intuition”, was subsequently published as “Brouillon d’une rédaction” (Merleau-Ponty 1996a, 355–378).
+[^note-8]: An earlier draft of the third chapter, “Interrogation and Intuition”, was subsequently published as “Brouillon d’une rédaction” (Merleau-Ponty 1996a, 355–378)[^merleau-ponty-1996a].
 
 [^citations-nd]: Citations of these texts list the French pagination first followed by that of the English translation.
 
-[^citations-1953]: 1953, *Éloge de la philosophie*, Paris: Gallimard; *In Praise of Philosophy*, John Wild and James Edie (trans.), Evanston: Northwestern University Press, 1963.
+[^merleau-ponty-1953]: 1953, *Éloge de la philosophie*, Paris: Gallimard; *In Praise of Philosophy*, John Wild and James Edie (trans.), Evanston: Northwestern University Press, 1963.
 
-[^citations-1956]: 1956, (ed.) *Les philosophes célèbres*, Paris: Mazenod.
+[^merleau-ponty-1956]: 1956, (ed.) *Les philosophes célèbres*, Paris: Mazenod.
 
-[^citations-1960]: 1960, *Signes*, Paris: Gallimard; *Signs*, Richard McCleary (trans.), Evanston: Northwestern University Press, 1964.
+[^merleau-ponty-1960]: 1960, *Signes*, Paris: Gallimard; *Signs*, Richard McCleary (trans.), Evanston: Northwestern University Press, 1964.
 
-[^citations-1964b]: 1964b, *The Primacy of Perception*, James Edie (ed.), Evanston: Northwestern University Press.
+[^merleau-ponty-1964b]: 1964b, *The Primacy of Perception*, James Edie (ed.), Evanston: Northwestern University Press.
 
-[^citations-1969]: 1969, *La prose du monde*, Claude Lefort (ed.), Paris: Gallimard; *The Prose of the World*, John O’Neill (trans.), Evanston: Northwestern University Press, 1973.
+[^merleau-ponty-1969]: 1969, *La prose du monde*, Claude Lefort (ed.), Paris: Gallimard; *The Prose of the World*, John O’Neill (trans.), Evanston: Northwestern University Press, 1973.
 
-[^citations-1973]: 1973, *Consciousness and the Acquisition of Language*, Hugh J. Silverman (trans.), Evanston: Northwestern University Press.
+[^merleau-ponty-1973]: 1973, *Consciousness and the Acquisition of Language*, Hugh J. Silverman (trans.), Evanston: Northwestern University Press.
 
-[^citations-1992]: 1992, *Texts and Dialogues*, Hugh Silverman and James Barry Jr. (eds.), New Jersey: Humanities Press.
+[^merleau-ponty-1992]: 1992, *Texts and Dialogues*, Hugh Silverman and James Barry Jr. (eds.), New Jersey: Humanities Press.
 
-[^citations-1995]: 1995, *La nature, notes, cours du Collège de France*, Paris: Seuil; *Nature: Course Notes from the Collège de France*, Robert Vallier (trans.), Evanston: Northwestern University Press, 2003.
+[^merleau-ponty-1995]: 1995, *La nature, notes, cours du Collège de France*, Paris: Seuil; *Nature: Course Notes from the Collège de France*, Robert Vallier (trans.), Evanston: Northwestern University Press, 2003.
 
-[^citations-1996a]: 1996a, *Notes des cours au Collège de France 1958–1959 et 1960–1961*, Paris: Gallimard; ; *The Possibility of Philosophy: Course Notes from the Collège de France, 1959–1961*, Keith Whitmoyer (trans.), Evanston: Northwestern University Press, 2022.
+[^merleau-ponty-1996a]: 1996a, *Notes des cours au Collège de France 1958–1959 et 1960–1961*, Paris: Gallimard; ; *The Possibility of Philosophy: Course Notes from the Collège de France, 1959–1961*, Keith Whitmoyer (trans.), Evanston: Northwestern University Press, 2022.
 
-[^citations-1996b]: 1996b, *Sens et non-sens*, Paris: Gallimard; *Sense and Non-Sense*, Hubert and Patricia Dreyfus (trans.), Evanston: Northwestern University Press, 1964.
+[^merleau-ponty-1996b]: 1996b, *Sens et non-sens*, Paris: Gallimard; *Sense and Non-Sense*, Hubert and Patricia Dreyfus (trans.), Evanston: Northwestern University Press, 1964.
 
-[^citations-1997a]: 1997a, *Parcours 1935–1951*, Lagrasse: Verdier.
+[^merleau-ponty-1997a]: 1997a, *Parcours 1935–1951*, Lagrasse: Verdier.
 
-[^citations-1997b]: 1997b, *L’union de l’âme et du corps chez Malebranche, Biran et Bergson*, Jean Deprun (ed.), Paris: Vrin; *The Incarnate Subject: Malebranche, Biran, and Bergson on the Union of Body and Soul*, Andrew Bjelland Jr. and Patrick Burke (eds.), Amherst, NY: Humanity Books, 2001.
+[^merleau-ponty-1997b]: 1997b, *L’union de l’âme et du corps chez Malebranche, Biran et Bergson*, Jean Deprun (ed.), Paris: Vrin; *The Incarnate Subject: Malebranche, Biran, and Bergson on the Union of Body and Soul*, Andrew Bjelland Jr. and Patrick Burke (eds.), Amherst, NY: Humanity Books, 2001.
 
-[^citations-1998]: 1998, *Notes de cours sur, L’origine de la géométrie de Husserl*, Renaud Barbaras (ed.), Paris: Presses Universitaires de France; *Husserl at the Limits of Phenomenology*, Leonard Lawlor (ed.) with Bettina Bergo, Evanston: Northwestern University Press, 2002.
+[^merleau-ponty-1998]: 1998, *Notes de cours sur, L’origine de la géométrie de Husserl*, Renaud Barbaras (ed.), Paris: Presses Universitaires de France; *Husserl at the Limits of Phenomenology*, Leonard Lawlor (ed.) with Bettina Bergo, Evanston: Northwestern University Press, 2002.
 
-[^citations-2000]: 2000, *Parcours deux 1951–1961*, Lagrasse: Verdier.
+[^merleau-ponty-2000]: 2000, *Parcours deux 1951–1961*, Lagrasse: Verdier.
 
-[^citations-2002]: 2002, *Causeries 1948*, Stéphanie Ménasé (ed.), Paris: Seuil; *The World of Perception*, Oliver Davis (trans.), London: Routledge, 2004.
+[^merleau-ponty-2002]: 2002, *Causeries 1948*, Stéphanie Ménasé (ed.), Paris: Seuil; *The World of Perception*, Oliver Davis (trans.), London: Routledge, 2004.
 
-[^citations-2003]: 2003, *L’institution, La passivité. Notes de cours au Collège de France (1954–1955)*, Tours: Belin; *Institution and Passivity: Course Notes from the Collège de France (1954–1955)*, Leonard Lawlor and Heath Massey (trans.), Evanston: Northwestern University Press, 2010.
+[^merleau-ponty-2003]: 2003, *L’institution, La passivité. Notes de cours au Collège de France (1954–1955)*, Tours: Belin; *Institution and Passivity: Course Notes from the Collège de France (1954–1955)*, Leonard Lawlor and Heath Massey (trans.), Evanston: Northwestern University Press, 2010.
 
-[^citations-2007]: 2007, *The Merleau-Ponty Reader*, Leonard Lawlor and Ted Toadvine (eds.), Evanston: Northwestern University Press.
+[^merleau-ponty-2007]: 2007, *The Merleau-Ponty Reader*, Leonard Lawlor and Ted Toadvine (eds.), Evanston: Northwestern University Press.
 
-[^citations-2008]: 2008, “*La Nature ou le monde du silence* (pages d’introduction)”, in *Maurice Merleau-Ponty*, Emmanuel de Saint Aubert (ed.), Paris: Mermann Éditeurs, 41–53.
+[^merleau-ponty-2008]: 2008, “*La Nature ou le monde du silence* (pages d’introduction)”, in *Maurice Merleau-Ponty*, Emmanuel de Saint Aubert (ed.), Paris: Mermann Éditeurs, 41–53.
 
-[^citations-2010]: 2010, *Oeuvres*, Paris: Gallimard.
+[^merleau-ponty-2010]: 2010, *Oeuvres*, Paris: Gallimard.
 
-[^citations-2011]: 2011, *Le monde sensible et le monde de l’expression. Cours au Collège de France, Notes, 1953*, Geneva: MētisPresses; *The Sensible World and the World of Expression: Course Notes from the Collège de France, 1953*, Bryan Smyth (trans.), Evanston: Northwestern University Press, 2020.
+[^merleau-ponty-2011]: 2011, *Le monde sensible et le monde de l’expression. Cours au Collège de France, Notes, 1953*, Geneva: MētisPresses; *The Sensible World and the World of Expression: Course Notes from the Collège de France, 1953*, Bryan Smyth (trans.), Evanston: Northwestern University Press, 2020.
 
-[^citations-2013]: 2013, *Recherches sur l’usage littéraire du langage. Course au Collège de France, Notes, 1953*, Geneva: MētisPresses.
+[^merleau-ponty-2013]: 2013, *Recherches sur l’usage littéraire du langage. Course au Collège de France, Notes, 1953*, Geneva: MētisPresses.
 
-[^citations-2016]: 2016, *Entretiens avec Georges Charbonnier et autres dialogues, 1946–1959*, Jérôme Melançon (ed.), Lagrasse: Verdier.
+[^merleau-ponty-2016]: 2016, *Entretiens avec Georges Charbonnier et autres dialogues, 1946–1959*, Jérôme Melançon (ed.), Lagrasse: Verdier.
 
-[^citations-2018]: 2018, *Merleau-Ponty, 1908/2018 : dits et écrits rares ou inédits / Rare or Unpublished Dialogues and Texts*, Mathias Goy (ed.), Chiasmi International 20.
+[^merleau-ponty-2018]: 2018, *Merleau-Ponty, 1908/2018 : dits et écrits rares ou inédits / Rare or Unpublished Dialogues and Texts*, Mathias Goy (ed.), Chiasmi International 20.
 
-[^citations-2020]: 2020, *Le Problème de la parole: Cours au Collège de France, Notes, 1953–1954*, Geneva: MētisPresses.
+[^merleau-ponty-2020]: 2020, *Le Problème de la parole: Cours au Collège de France, Notes, 1953–1954*, Geneva: MētisPresses.
 
-[^citations-2022a]: 2022a, *Conférences en Europe et premiers cours à Lyon: Inédits I (1946–1947)*, Michel Dalisser and Shôichi Matsuba (eds.), Milan: Mimesis.
+[^merleau-ponty-2022a]: 2022a, *Conférences en Europe et premiers cours à Lyon: Inédits I (1946–1947)*, Michel Dalisser and Shôichi Matsuba (eds.), Milan: Mimesis.
 
-[^citations-2022b]: 2022b, *Conférences en Amérique, notes de cours et autres textes: Inédits II (1947–1949)*, Michel Dalisser and Shôichi Matsuba (eds.), Milan: Mimesis.
+[^merleau-ponty-2022b]: 2022b, *Conférences en Amérique, notes de cours et autres textes: Inédits II (1947–1949)*, Michel Dalisser and Shôichi Matsuba (eds.), Milan: Mimesis.
 
-[^citations-2022c]: 2022c, Simone de Beauvoir, Élizabeth Lacoin, and Maurice Merleau-Ponty, *Lettres d’amitié: 1920–1959*, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard.
+[^merleau-ponty-2022c]: 2022c, Simone de Beauvoir, Élizabeth Lacoin, and Maurice Merleau-Ponty, *Lettres d’amitié: 1920–1959*, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard.
 
 [^abram-1996]: Abram, David, 1996, *The Spell of the Sensuous*, New York: Vintage Books.
 

@@ -233,9 +233,9 @@ The post-Kantian Salomon Maimon has been for some time now a subject of speciali
 
 Another example of thinker whose current level of interest was arguably catalyzed by being noticed as an influence on Deleuze is the mid-20th century French philosopher Gilbert Simondon, whose notions of the “pre-individual” and of “crystallization” were influential in the development of Deleuze’s notions of the virtual and actualization, respectively. An English translation of his works is Simondon 2020. Among others, see Toscano 2006 and 2009, Scott 2014, Sauvagnargues 2016, Swan 2016, Alloa and Michalet 2017, and Voss 2018 and 2020 for treatments of the Deleuze-Simondon relation.
 
-Yet another would be the early 20th century French sociologist Gabriel Tarde, whose notion of microsociology is referred to approvingly in Deleuze and Guattari’s development of their notion of “micropolitics” (Deleuze and Guattari 1980 [1987, 216–219]). For Deleuze-inspired treatments, see Alliez 2001, Brighenti 2010, Read 2015, Tonkonoff 2017.
+Yet another would be the early 20th century French sociologist Gabriel Tarde, whose notion of microsociology is referred to approvingly in Deleuze and Guattari’s development of their notion of “micropolitics” (Deleuze and Guattari 1980 [1987, 216–219])[^guattari-1980]. For Deleuze-inspired treatments, see Alliez 2001, Brighenti 2010, Read 2015, Tonkonoff 2017.
 
-More recently and to a still muted extent is the revival of interest in mid-20th century French thinker Raymond Ruyer, whose notion of *survol* or “self-survey” is mentioned by Deleuze and Guattari in their brief remarks on the consistency of the concept in its neural instantiation in *What is Philosophy?* (Deleuze and Guattari 1991 [1994, 210]). English translations of Ruyer’s works are Ruyer 2016 and 2018. Ruyer’s relation to Deleuze is explored in Bains 2002, Bogue 2009 and 2017, and Roffe 2017. Other treatments of Ruyer that are relevant would be Massumi 2014 and Grosz 2017.
+More recently and to a still muted extent is the revival of interest in mid-20th century French thinker Raymond Ruyer, whose notion of *survol* or “self-survey” is mentioned by Deleuze and Guattari in their brief remarks on the consistency of the concept in its neural instantiation in *What is Philosophy?* (Deleuze and Guattari 1991 [1994, 210])[^guattari-1991]. English translations of Ruyer’s works are Ruyer 2016 and 2018. Ruyer’s relation to Deleuze is explored in Bains 2002, Bogue 2009 and 2017, and Roffe 2017. Other treatments of Ruyer that are relevant would be Massumi 2014 and Grosz 2017.
 
 Finally, while it’s certainly the case that Whitehead has garnered continuous interest on his own, a good bit of current Whitehead scholarship includes reference to Deleuze as a leitmotif, as in Stengers 2011. A noteworthy new work influenced by both Deleuze and Whitehead is Williams 2016. See also Shaviro 2009, Robinson 2010, and Bell 2011 and 2012, on the Deleuze and Whitehead connection.
 
@@ -271,6 +271,62 @@ Finally, while it’s certainly the case that Whitehead has garnered continuous 
 ## Related Entries
 
 Bergson, Henri | Maimon, Salomon | Nietzsche, Friedrich | Spinoza, Baruch
+
+[^deleuze-1953]: (1953) *Empirisme et subjectivité* (Paris: PUF); tr. as *Empiricism and Subjectivity*, by Constantin Boundas, New York: Columbia University Press, 1991.
+
+[^deleuze-1956]: (1956) “La Conception de la différence chez Bergson,” *Etudes bergsoniennes* 4 (1956): 77–112; tr. as “Bergson’s Conception of Difference,” by Melissa McMahon, in John Mullarkey (ed.), *The New Bergson*, Manchester: Manchester University Press, 1999.
+
+[^deleuze-1962]: (1962) *Nietzsche et la philosophie* (Paris: PUF); tr. as *Nietzsche and Philosophy*, by Hugh Tomlinson, Minneapolis: University of Minnesota Press, 1983.
+
+[^deleuze-1963]: (1963) *La philosophie critique de Kant* (Paris: PUF); tr. as *The Critical Philosophy of Kant*, by Hugh Tomlinson and Barbara Habberjam, Minneapolis: University of Minnesota Press, 1984.
+
+[^deleuze-1966]: (1966) *Le Bergsonisme* (Paris: PUF); tr. as *Bergsonism*, by Hugh Tomlinson and Barbara Habberjam, New York: Zone Books, 1988.
+
+[^deleuze-1967]: (1967) *Présentation de Sacher-Masoch* (Paris: Minuit); tr. as *Masochism: An Interpretation of Coldness and Cruelty*, by Jean McNeil, New York: G. Braziller, 1971.
+
+[^deleuze-1968]: (1968) *Différence et répétition* (Paris: PUF); tr. as *Difference and Repetition*, by Paul Patton, New York: Columbia University Press, 1994.
+
+[^deleuze-1968-2]: (1968) *Spinoza et le problème de l’expression* (Paris: Minuit); tr. as *Expressionism in Philosophy: Spinoza*, by Martin Joughin, New York: Zone Books, 1990.
+
+[^deleuze-1969]: (1969) *Logique du sens* (Paris: Minuit); tr. as *The Logic of Sense*, by Mark Lester with Charles Stivale, New York: Columbia University Press, 1990.
+
+[^deleuze-1972]: (1972) “A quoi reconnaît-on le structuralisme?” in Francois Châtelet, ed., *Histoire de la philosophie*, tome 8: Le XXe siècle (Paris: Hachette, 1972): 299–335; tr. as “How Do We Recognize Structuralism?” in *Desert Islands*, New York: Semiotext(e), 2003.
+
+[^deleuze-1964]: (1964 [1970, 1976]) *Proust et les signes* (Paris: PUF); tr. (of 1976 ed) as *Proust and Signs: The Complete Text*, by Richard Howard, Minneapolis: University of Minnesota Press, 2003.
+
+[^deleuze-1977]: (1977) *Dialogues (avec Claire Parnet)* (Paris: Flammarion); tr. as *Dialogues*, by Hugh Tomlinson and Barbara Habberjam, New York: Columbia University Press, 1987.
+
+[^deleuze-1981]: (1981 [1970]) *Spinoza: Philosophie pratique*; (Paris: PUF); tr. as *Spinoza: Practical Philosophy*, by Robert Hurley, San Francisco: City Lights Books, 1988.
+
+[^deleuze-1981-2]: (1981) *Francis Bacon: Logique de la sensation* (Paris: Editions de la différence); tr. as *Francis Bacon: Logic of Sensation*, by Daniel W. Smith, Minneapolis: University of Minnesota Press, 2005.
+
+[^deleuze-1983]: (1983) *Cinéma I: l’Image-mouvement* (Paris: Minuit); tr. as *Cinema I: The Movement-Image*, tr. Hugh Tomlinson and Barbara Habberjam, Minneapolis: University of Minnesota Press, 1986.
+
+[^deleuze-1985]: (1985) *Cinéma II: l’Image-temps* (Paris: Minuit); tr. as *Cinema II: The Time-Image*, by Hugh Tomlinson and Barbara Habberjam, Minneapolis: University of Minnesota Press, 1989.
+
+[^deleuze-1986]: (1986) *Foucault* (Paris: Minuit); tr. as *Foucault*, by Sean Hand, Minneapolis: University of Minnesota Press, 1988.
+
+[^deleuze-1988]: (1988) *Le Pli: Leibniz et le Baroque* (Paris: Minuit); tr. as *The Fold: Leibniz and the Baroque*, by Tom Conley, Minneapolis: University of Minnesota Press, 1993.
+
+[^deleuze-1990]: (1990) *Pourparlers* (Paris: Minuit); tr. as *Negotiations*, by Martin Joughin, New York: Columbia University Press, 1995.
+
+[^deleuze-1993]: (1993) *Critique et clinique* (Paris: Minuit); tr. as *Essays Critical and Clinical*, by Daniel Smith and Michael Greco, Minneapolis: University of Minnesota Press, 1997.
+
+[^deleuze-1995]: (1995) “L’immanence: une vie,” *Philosophie* 47 (septembre 1), 3–7; tr. as “Immanence: A Life” in *Two Regimes of Madness*, New York: Semiotext(e), 2006.
+
+[^deleuze-2002]: (2002) *L’Île déserte et autres textes: textes et entretiens 1953–1974*, ed. David Lapoujade (Paris: Minuit, 2002); tr. as *Desert Islands and Other Texts (1953–1974)*, by Mike Taormina, New York: Semiotext(e), 2003.
+
+[^deleuze-2003]: (2003) *Deux régimes de fous: textes et entretiens 1975–1995*, ed. David Lapoujade (Paris: Minuit); tr. as *Two Regimes of Madness: Texts and Interviews 1975–1995*, by Ames Hodges and Mike Taormina, New York: Semiotext(e), 2006.
+
+[^deleuze-2015]: (2015) *Lettres et autres textes*, ed. David Lapoujade (Paris: Minuit); tr. as *Letters and Other Texts*, by Ames Hodges, New York: Semiotext(e), 2020.
+
+[^guattari-1972]: (1972) *L’Anti-Oedipe* (Paris: Minuit); tr. as *Anti-Oedipus*, by Robert Hurley, Mark Seem and Helen R. Lane, New York: Viking, 1977; reprint University of Minnesota Press, 1983.
+
+[^guattari-1975]: (1975) *Kafka: pour une littérature mineure* (Paris: Minuit); tr. as *Kafka: For a Minor Literature*, by Dana Polan, Minneapolis: University of Minnesota Press, 1986.
+
+[^guattari-1980]: (1980) *Mille plateaux* (Paris: Minuit); tr. as *A Thousand Plateaus*, by Brian Massumi, Minneapolis: University of Minnesota Press, 1987.
+
+[^guattari-1991]: (1991) *Qu’est-ce que la philosophie?* (Paris: Minuit); tr. as *What is Philosophy?*, by Hugh Tomlinson and Graham Burchell, New York: Columbia University Press, 1994.
 
 [^alliez-1998]: Alliez, Eric (ed.), 1998, *Gilles Deleuze: une vie philosophique*, Paris: Synthélabo.
 

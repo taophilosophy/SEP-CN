@@ -358,15 +358,15 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^note-nd-2]: Note: archival materials including lecture notes, letters, and manuscripts are stored at the Howard Gotlieb Archival Research Center, Boston University.
 
-[^note-1933]: 1933, *Meinong’s Theory of Objects*, Oxford: Oxford University Press. (original title)
+[^findlay-1933]: 1933, *Meinong’s Theory of Objects*, Oxford: Oxford University Press. (original title)
 
-[^note-1963]: [M] 1963, *Meinong’s Theory of Objects and Values*, second edition, Oxford: Oxford University Press. (expanded title)
+[^findlay-1963]: [M] 1963, *Meinong’s Theory of Objects and Values*, second edition, Oxford: Oxford University Press. (expanded title)
 
-[^note-1958]: 1958, *Hegel: A Re-examination*, London: Allen and Unwin.
+[^findlay-1958]: 1958, *Hegel: A Re-examination*, London: Allen and Unwin.
 
-[^note-1969]: 1969, Spanish translation, *Re-examen de Hegel*, Barcelona.
+[^findlay-1969]: 1969, Spanish translation, *Re-examen de Hegel*, Barcelona.
 
-[^note-1972]: 1972, Italian translation, *Hegel Oggi*, Milan: Instituto Librario.
+[^findlay-1972]: 1972, Italian translation, *Hegel Oggi*, Milan: Instituto Librario.
 
 [^vi-1961]: [VI] 1961, *Values and Intentions: A Study in Value-theory and Philosophy of Mind*, London: Allen and Unwin and New York: Macmillan.
 
@@ -374,185 +374,157 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^dc-1966]: [DC] 1966, *The Discipline of the Cave*, London: Allen and Unwin
 
-[^dc-1969]: 1969, Spanish translation, *La Disciplina de la Caverna*, Madrid: Gredo.
+[^findlay-1969-2]: 1969, Spanish translation, *La Disciplina de la Caverna*, Madrid: Gredo.
 
 [^tc-1967]: [TC] 1967, *The Transcendence of the Cave*, London: Allen and Unwin.
 
-[^tc-1969]: 1969, Spanish translation, *La Transcendencia de la Caverna*, Madrid: Gredo.
+[^findlay-1969-3]: 1969, Spanish translation, *La Transcendencia de la Caverna*, Madrid: Gredo.
 
 [^ae-1970]: [AE] 1970, *Axiological Ethics*, London: Macmillan.
 
-[^ae-1972]: 1972, *Psyche and Cerebrum*, Aquinas lecture, Milwaukee: Marquette University Press.
+[^findlay-1972-2]: 1972, *Psyche and Cerebrum*, Aquinas lecture, Milwaukee: Marquette University Press.
 
 [^aa-1970]: [AA] 1970, *Ascent to the Absolute: Metaphysical Papers and Lectures*, London: Allen and Unwin. New York: Humanities Press, 1974.
 
-[^aa-1974]: 1974, *Plato: The Written and the Unwritten Doctrines*, London: Routledge and Kegan Paul and New York: Humanities Press.
+[^findlay-1974]: 1974, *Plato: The Written and the Unwritten Doctrines*, London: Routledge and Kegan Paul and New York: Humanities Press.
 
-[^aa-1976]: 1976, *Plato and Platonism*, New York: New York Times Book.
+[^findlay-1976]: 1976, *Plato and Platonism*, New York: New York Times Book.
 
-[^aa-1981]: 1981, *Kant and the Transcendental Object*, Oxford: Clarendon Press.
+[^findlay-1981]: 1981, *Kant and the Transcendental Object*, Oxford: Clarendon Press.
 
-[^aa-1984]: [W] 1984, *Wittgenstein: A Critique*, London: Routledge and Kegan Paul.
+[^findlay-1984]: [W] 1984, *Wittgenstein: A Critique*, London: Routledge and Kegan Paul.
 
-[^aa-1936]: 1936, “Relational properties”, *The Australasian Journal of Psychology and Philosophy*, 14: 176–90
+[^findlay-1936]: 1936, “Relational properties”, *The Australasian Journal of Psychology and Philosophy*, 14: 176–90
 
-[^aa-1940]: 1940, “Some Reactions to Recent Cambridge Philosophy (I)”, *Australasian Journal of Psychology and Philosophy*, 18(3): 193–211; reprinted LMV: ch 1. doi:10.1080/00048404008541153
+[^findlay-1940]: 1940, “Some Reactions to Recent Cambridge Philosophy (I)”, *Australasian Journal of Psychology and Philosophy*, 18(3): 193–211; reprinted LMV: ch 1. doi:10.1080/00048404008541153
 
-[^aa-1941a]: 1941a, “Some Reactions to Recent Cambridge Philosophy (II)”, *Australasian Journal of Psychology and Philosophy*, 19(1): 1–13; reprinted LMV: ch 1. doi:10.1080/00048404108541503
+[^findlay-1941a]: 1941a, “Some Reactions to Recent Cambridge Philosophy (II)”, *Australasian Journal of Psychology and Philosophy*, 19(1): 1–13; reprinted LMV: ch 1. doi:10.1080/00048404108541503
 
-[^aa-1941b]: 1941b, “Time: A Treatment of Some Puzzles”, *Australasian Journal of Psychology and Philosophy*, 19(3): 216–235; reprinted LMV: 39–56 (ch 2). doi:10.1080/00048404108541170
+[^findlay-1941b]: 1941b, “Time: A Treatment of Some Puzzles”, *Australasian Journal of Psychology and Philosophy*, 19(3): 216–235; reprinted LMV: 39–56 (ch 2). doi:10.1080/00048404108541170
 
-[^aa-1942]: 1942, “Goedelian Sentences: A Non-Numerical Approach”, *Mind*, 51(203): 259–265; reprinted in LMV: ch 3. doi:10.1093/mind/LI.203.259
+[^findlay-1942]: 1942, “Goedelian Sentences: A Non-Numerical Approach”, *Mind*, 51(203): 259–265; reprinted in LMV: ch 3. doi:10.1093/mind/LI.203.259
 
-[^aa-1944]: 1944, “Morality by Convention”, *Mind*, 53(210): 142–169; reprinted LMV: ch 4. doi:10.1093/mind/LIII.210.142
+[^findlay-1944]: 1944, “Morality by Convention”, *Mind*, 53(210): 142–169; reprinted LMV: ch 4. doi:10.1093/mind/LIII.210.142
 
-[^aa-1945]: 1945, “On Mind and Our Knowledge of It”, *Philosophy*, 20(77): 206–226.
+[^findlay-1945]: 1945, “On Mind and Our Knowledge of It”, *Philosophy*, 20(77): 206–226.
 
-[^aa-1948a]: 1948a, “Can God’s Existence Be Disproved?”, *Mind*, 57(226): 176–183; reprinted LMV: 96–105 (ch 5). doi:10.1093/mind/LVII.226.176
+[^findlay-1948a]: 1948a, “Can God’s Existence Be Disproved?”, *Mind*, 57(226): 176–183; reprinted LMV: 96–105 (ch 5). doi:10.1093/mind/LVII.226.176
 
-[^aa-1948b]: 1948b, “Recommendations Regarding the Language of Introspection”, *Philosophy and Phenomenological Research*, 9(2): 212–236; reprinted in *Clarity Is Not Enough: Essays in Criticism of Linguistic Philosophy*, Hywel David Lewis (ed.), London: Allen & Unwin, 1963, ch. 15. doi:10.2307/2103390
+[^findlay-1948b]: 1948b, “Recommendations Regarding the Language of Introspection”, *Philosophy and Phenomenological Research*, 9(2): 212–236; reprinted in *Clarity Is Not Enough: Essays in Criticism of Linguistic Philosophy*, Hywel David Lewis (ed.), London: Allen & Unwin, 1963, ch. 15. doi:10.2307/2103390
 
-[^aa-1949a]: 1949a, “God’s Non-existence: A Reply to Mr. Rainer and Mr. Hughes”, *Mind*, 58: 352–354.
+[^findlay-1949a]: 1949a, “God’s Non-existence: A Reply to Mr. Rainer and Mr. Hughes”, *Mind*, 58: 352–354.
 
-[^aa-1949b]: 1949b, part 3 of “Symposium: Is There Knowledge by Acquaintance?”, H. L. A. Hart, G. E. Hughes, and J. N. Findlay, *Aristotelian Society Supplementary Volume*, 23: 111–128. doi:10.1093/aristoteliansupp/23.1.69
+[^findlay-1949b]: 1949b, part 3 of “Symposium: Is There Knowledge by Acquaintance?”, H. L. A. Hart, G. E. Hughes, and J. N. Findlay, *Aristotelian Society Supplementary Volume*, 23: 111–128. doi:10.1093/aristoteliansupp/23.1.69
 
-[^aa-1950a]: 1950a, “Linguistic Approach to Psycho-physics”, *Proceedings of the Aristotelian Society*, 50: 43–64; reprinted LMV: ch 7. doi:10.1093/aristotelian/50.1.43
+[^findlay-1950a]: 1950a, “Linguistic Approach to Psycho-physics”, *Proceedings of the Aristotelian Society*, 50: 43–64; reprinted LMV: ch 7. doi:10.1093/aristotelian/50.1.43
 
-[^aa-1950b]: 1950b, “Values in Speaking”, *Philosophy*, 25(92): 20–39; reprinted in LMV: 105–128 (ch 6). doi:10.1017/S0031819100007774
+[^findlay-1950b]: 1950b, “Values in Speaking”, *Philosophy*, 25(92): 20–39; reprinted in LMV: 105–128 (ch 6). doi:10.1017/S0031819100007774
 
-[^aa-1952]: 1952, “Probability Without Nonsense”, *The Philosophical Quarterly*, 2(8): 218–239. doi:10.2307/2960096
+[^findlay-1952]: 1952, “Probability Without Nonsense”, *The Philosophical Quarterly*, 2(8): 218–239. doi:10.2307/2960096
 
-[^aa-1953a]: 1953a, part 1 of “Symposium: The Notion of Infinity”, J. N. Findlay, C. Lewy, and S. Körner, *Aristotelian Society Supplementary Volume*, 27: 21–44; reprinted in LMV: ch 8. doi:10.1093/aristoteliansupp/27.1.21
+[^findlay-1953a]: 1953a, part 1 of “Symposium: The Notion of Infinity”, J. N. Findlay, C. Lewy, and S. Körner, *Aristotelian Society Supplementary Volume*, 27: 21–44; reprinted in LMV: ch 8. doi:10.1093/aristoteliansupp/27.1.21
 
-[^aa-1953b]: 1953b, “On Having In Mind”, *Philosophy*, 28: 291–310.
+[^findlay-1953b]: 1953b, “On Having In Mind”, *Philosophy*, 28: 291–310.
 
-[^aa-1954]: 1954, “The Justification of Attitudes”, *Mind*, 63(250): 145–161; reprinted LMV: ch 9. doi:10.1093/mind/LXIII.250.145
+[^findlay-1954]: 1954, “The Justification of Attitudes”, *Mind*, 63(250): 145–161; reprinted LMV: ch 9. doi:10.1093/mind/LXIII.250.145
 
-[^aa-1955]: 1955, “The Logic of *Bewusstseinslagen*”, *The Philosophical Quarterly*, 5(18): 57–68; reprinted in LMV: ch 10. doi:10.2307/2217046
+[^findlay-1955]: 1955, “The Logic of *Bewusstseinslagen*”, *The Philosophical Quarterly*, 5(18): 57–68; reprinted in LMV: ch 10. doi:10.2307/2217046
 
-[^aa-1956a]: 1956a, “An Examination of Tenses”, in *Contemporary British Philosophy*, H. D. Lewis (ed.), London: Allen and Unwin, pp. 165–189.
+[^findlay-1956a]: 1956a, “An Examination of Tenses”, in *Contemporary British Philosophy*, H. D. Lewis (ed.), London: Allen and Unwin, pp. 165–189.
 
-[^aa-1956b]: 1956b, “Some Merits of Hegelianism: The Presidential Address”, *Proceedings of the Aristotelian Society*, 56: 1–24. doi:10.1093/aristotelian/56.1.1
+[^findlay-1956b]: 1956b, “Some Merits of Hegelianism: The Presidential Address”, *Proceedings of the Aristotelian Society*, 56: 1–24. doi:10.1093/aristotelian/56.1.1
 
-[^aa-1957]: 1957 [1961], “The Structure of the Kingdom of Ends”, Henrietta Hertz Lecture, read at the British Academy, 20 March 1957; reprinted as appendix in Values and Intentions [VI].
+[^findlay-1957]: 1957 [1961], “The Structure of the Kingdom of Ends”, Henrietta Hertz Lecture, read at the British Academy, 20 March 1957; reprinted as appendix in Values and Intentions [VI].
 
-[^aa-1959a]: 1959a [1963], “The Contemporary Relevance of Hegel”, Colloquium on Contemporary British Philosophy in London, 1959. Printed in LMV: ch 13.
+[^findlay-1959a]: 1959a [1963], “The Contemporary Relevance of Hegel”, Colloquium on Contemporary British Philosophy in London, 1959. Printed in LMV: ch 13.
 
-[^aa-1959b]: 1959b, “Some Reflections on Meaning”, *Indian Journal of Philosophy*, vol. I, issue 1 (August); reprinted in LMV: ch 12.
+[^findlay-1959b]: 1959b, “Some Reflections on Meaning”, *Indian Journal of Philosophy*, vol. I, issue 1 (August); reprinted in LMV: ch 12.
 
-[^aa-1960]: 1960, “Some Neglected Issues in the Philosophy of G. E. Moore”, Presented to the Cambridge Moral Sciences Club and the Royal Institute of Philosophy, 1960; reprinted in LMV: ch 14 and in *G.E. Moore, Essays in Retrospect*, Alice Ambrose and Morris Lazerowitz (eds.), London: Allen and Unwin, 1970, pp. 64–79.
+[^findlay-1960]: 1960, “Some Neglected Issues in the Philosophy of G. E. Moore”, Presented to the Cambridge Moral Sciences Club and the Royal Institute of Philosophy, 1960; reprinted in LMV: ch 14 and in *G.E. Moore, Essays in Retrospect*, Alice Ambrose and Morris Lazerowitz (eds.), London: Allen and Unwin, 1970, pp. 64–79.
 
-[^aa-1961a]: 1961a, “The Methodology of Normative Ethics”:, *Journal of Philosophy*, 58(24): 757–764; reprinted in LMV: ch 15. doi:10.2307/2023601
+[^findlay-1961a]: 1961a, “The Methodology of Normative Ethics”:, *Journal of Philosophy*, 58(24): 757–764; reprinted in LMV: ch 15. doi:10.2307/2023601
 
-[^aa-1961b]: 1961b, part 2 of “Use, Usage and Meaning”, Gilbert Ryle and J. N. Findlay, *Aristotelian Society Supplementary Volume*, 35: 231–242; reprinted in *Clarity Is Not Enough: Essays in Criticism of Linguistic Philosophy*, Hywel David Lewis (ed.), London: Allen & Unwin., 1963, ch 19; reprinted in *The Theory of Meaning*, G.H.R. Parkinson (ed.), London: Oxford University Press, 1968, ch 5. doi:10.1093/aristoteliansupp/35.1.223
+[^findlay-1961b]: 1961b, part 2 of “Use, Usage and Meaning”, Gilbert Ryle and J. N. Findlay, *Aristotelian Society Supplementary Volume*, 35: 231–242; reprinted in *Clarity Is Not Enough: Essays in Criticism of Linguistic Philosophy*, Hywel David Lewis (ed.), London: Allen & Unwin., 1963, ch 19; reprinted in *The Theory of Meaning*, G.H.R. Parkinson (ed.), London: Oxford University Press, 1968, ch 5. doi:10.1093/aristoteliansupp/35.1.223
 
-[^aa-1961c]: 1961c, “L’Actualite de Hegel”, *Archives de philosophie*, 24(3/4): 480–496
+[^findlay-1961c]: 1961c, “L’Actualite de Hegel”, *Archives de philosophie*, 24(3/4): 480–496
 
-[^aa-1962]: 1962, “The Teaching of Meaning”, *Logique et Analyse*, (Thinking and Meaning: Entretiens d’Oxford 1962), 5(20): 169–172; reprinted in AA: ch 4.
+[^findlay-1962]: 1962, “The Teaching of Meaning”, *Logique et Analyse*, (Thinking and Meaning: Entretiens d’Oxford 1962), 5(20): 169–172; reprinted in AA: ch 4.
 
-[^aa-1963]: 1963, “Metaphysics and Affinity”:, *Monist*, 47(2): 159–187; reprinted in AA: ch 7. doi:10.5840/monist196347212
+[^findlay-1963-2]: 1963, “Metaphysics and Affinity”:, *Monist*, 47(2): 159–187; reprinted in AA: ch 7. doi:10.5840/monist196347212
 
-[^aa-1964a]: 1964a, “The Diremptive Tendencies of Western Philosophy”, *Philosophy East and West*, 14(2): 167–178; reprinted in AA: ch 9. doi:10.2307/1396984
+[^findlay-1964a]: 1964a, “The Diremptive Tendencies of Western Philosophy”, *Philosophy East and West*, 14(2): 167–178; reprinted in AA: ch 9. doi:10.2307/1396984
 
-[^aa-1964b]: 1964b, “Freedom and Value”, in *Memorias Del XIII Congreso Internacional de Filosofía*, Universidad Nacional Autónoma de México, 7: 285–290. Conference held Mexico City, 1963; reprinted in AA: ch 6. doi:10.5840/wcp131964VII145
+[^findlay-1964b]: 1964b, “Freedom and Value”, in *Memorias Del XIII Congreso Internacional de Filosofía*, Universidad Nacional Autónoma de México, 7: 285–290. Conference held Mexico City, 1963; reprinted in AA: ch 6. doi:10.5840/wcp131964VII145
 
-[^aa-1964c]: 1964c, “Hegel’s Use of Teleology:”, *Monist*, 48(1): 1–17; reprinted in AA: ch 8. doi:10.5840/monist19644811
+[^findlay-1964c]: 1964c, “Hegel’s Use of Teleology:”, *Monist*, 48(1): 1–17; reprinted in AA: ch 8. doi:10.5840/monist19644811
 
-[^aa-1967a]: 1967a, “Essential Probabilities”, in *Phenomenology in America: Studies in the Philosophy of Experience*, James M. Edie (ed.), Chicago: Quadrangle Books; reprinted in AA: ch 11.
+[^findlay-1967a]: 1967a, “Essential Probabilities”, in *Phenomenology in America: Studies in the Philosophy of Experience*, James M. Edie (ed.), Chicago: Quadrangle Books; reprinted in AA: ch 11.
 
-[^aa-1967b]: 1967b, “The Logic of Mysticism”, *Religious Studies*, 2(2): 145–162; reprinted in AA: ch 10. doi:10.1017/S0034412500002717
+[^findlay-1967b]: 1967b, “The Logic of Mysticism”, *Religious Studies*, 2(2): 145–162; reprinted in AA: ch 10. doi:10.1017/S0034412500002717
 
-[^aa-1967c]: 1967c, “The Logic of Ultimates”, *The Journal of Philosophy*, 64(19): 571–583; reprinted in AA: ch 11. doi:10.2307/2024534
+[^findlay-1967c]: 1967c, “The Logic of Ultimates”, *The Journal of Philosophy*, 64(19): 571–583; reprinted in AA: ch 11. doi:10.2307/2024534
 
-[^aa-1967d]: 1967d [1972], “The Perspicuous and the Poignant: Two Aesthetic Fundamentals”, *The British Journal of Aesthetics*, 7(1): 3–19; reprinted in *Aesthetics*, Harold Osborne (ed.), Oxford: Oxford University Press, 1972. doi:10.1093/bjaesthetics/7.1.3
+[^findlay-1967d]: 1967d [1972], “The Perspicuous and the Poignant: Two Aesthetic Fundamentals”, *The British Journal of Aesthetics*, 7(1): 3–19; reprinted in *Aesthetics*, Harold Osborne (ed.), Oxford: Oxford University Press, 1972. doi:10.1093/bjaesthetics/7.1.3
 
-[^aa-1968]: 1968 [1969], “The Systematic Unity of Value”:, in *Akten Des XIV. Internationalen Kongresses Für Philosophie*, Herder & Co, 4:155–161. Congress held in Vienna, 1968; reprinted in AA: ch 13. doi:10.5840/wcp1419694153
+[^findlay-1968]: 1968 [1969], “The Systematic Unity of Value”:, in *Akten Des XIV. Internationalen Kongresses Für Philosophie*, Herder & Co, 4:155–161. Congress held in Vienna, 1968; reprinted in AA: ch 13. doi:10.5840/wcp1419694153
 
-[^aa-1970a]: 1970a, “Hegel und die Physik”, in *Stuttgarter Hegel-Tage*, Hans-Georg Gadamer (ed.), (Hegel-Studien, Beiheft 11), Hamburg: Felix Meiner Verlag, 111–116.
+[^findlay-1970a]: 1970a, “Hegel und die Physik”, in *Stuttgarter Hegel-Tage*, Hans-Georg Gadamer (ed.), (Hegel-Studien, Beiheft 11), Hamburg: Felix Meiner Verlag, 111–116.
 
-[^aa-1970b]: 1970b [1974], “Kant and Anglo-Saxon Criticism”, in *Kant’s Theory of Knowledge: Selected Papers from the Third International Kant Congress, Rochester, NY, 1970*, Lewis White Beck (ed.), Dordrecht: Springer Netherlands, 187–207. doi:10.1007/978-94-010-2294-1_19
+[^findlay-1970b]: 1970b [1974], “Kant and Anglo-Saxon Criticism”, in *Kant’s Theory of Knowledge: Selected Papers from the Third International Kant Congress, Rochester, NY, 1970*, Lewis White Beck (ed.), Dordrecht: Springer Netherlands, 187–207. doi:10.1007/978-94-010-2294-1_19
 
-[^aa-1970c]: 1970c, “Towards a Neo-neo-Platonism”, in *The Future of Metaphysics*, Robert E. Wood (ed.), Chicago: Quadrangle Books. Papers from a conference held at Catholic University, Washington, DC, in the summer of 1969; reprinted in AA: ch 15.
+[^findlay-1970c]: 1970c, “Towards a Neo-neo-Platonism”, in *The Future of Metaphysics*, Robert E. Wood (ed.), Chicago: Quadrangle Books. Papers from a conference held at Catholic University, Washington, DC, in the summer of 1969; reprinted in AA: ch 15.
 
-[^aa-1972]: 1972, “Einige Hauptpunkte in Meinongs Philosophischer Psychologie”, in *Jenseits von Sein und Nichtsein: Beiträge zur Meinong-Forschung*, Rudolf Haller (ed.), Graz: Akademische Verlagsanstalt. Conference held Graz, 1970.
+[^findlay-1972-3]: 1972, “Einige Hauptpunkte in Meinongs Philosophischer Psychologie”, in *Jenseits von Sein und Nichtsein: Beiträge zur Meinong-Forschung*, Rudolf Haller (ed.), Graz: Akademische Verlagsanstalt. Conference held Graz, 1970.
 
-[^aa-1973a]: 1973a, “Hegel and the Philosophy of Physics”, in *The Legacy of Hegel: Proceedings of the Marquette Hegel Symposium 1970*, J. J. O’Malley, K. W. Algozin, H. P. Kainz, and L. C. Rice (eds.), Dordrecht: Springer Netherlands, 72–89. doi:10.1007/978-94-010-2434-1_6
+[^findlay-1973a]: 1973a, “Hegel and the Philosophy of Physics”, in *The Legacy of Hegel: Proceedings of the Marquette Hegel Symposium 1970*, J. J. O’Malley, K. W. Algozin, H. P. Kainz, and L. C. Rice (eds.), Dordrecht: Springer Netherlands, 72–89. doi:10.1007/978-94-010-2434-1_6
 
-[^aa-1973b]: 1973b, “Meinong the Phenomenologist”, *Revue Internationale de Philosophie*, 27(104/105 (2/3)): 161–177; reprinted, 1975, in *Dialogues in Phenomenology*, Don Ihde and Richard M. Zaner (eds.), Dordrecht: Springer Netherlands, 117–135. doi:10.1007/978-94-010-1615-5_7
+[^findlay-1973b]: 1973b, “Meinong the Phenomenologist”, *Revue Internationale de Philosophie*, 27(104/105 (2/3)): 161–177; reprinted, 1975, in *Dialogues in Phenomenology*, Don Ihde and Richard M. Zaner (eds.), Dordrecht: Springer Netherlands, 117–135. doi:10.1007/978-94-010-1615-5_7
 
 [^eq-1973c]: [EQ], 1973c [1985], “My Encounters with Wittgenstein”, *The Philosophical Forum*, 4(2): 167–185; reprinted in SF: 52–69. Citations from the original.
 
-[^eq-1974]: 1974, “Hegelianism and Platonism”, *Hegel and the History of Philosophy: Proceedings of the 1972 Hegel Society of America Conference*, Joseph J.O’Malley, K.W.Algozin, and Frederick G.Weiss (eds.), The Hague: Nijhoff.
+[^findlay-1974-2]: 1974, “Hegelianism and Platonism”, *Hegel and the History of Philosophy: Proceedings of the 1972 Hegel Society of America Conference*, Joseph J.O’Malley, K.W.Algozin, and Frederick G.Weiss (eds.), The Hague: Nijhoff.
 
-[^eq-1975a]: 1975a, “Husserl’s Analysis of The Inner Time-Consciousness:”, *Monist*, 59(1): 3–20. doi:10.5840/monist19755916
+[^findlay-1975a]: 1975a, “Husserl’s Analysis of The Inner Time-Consciousness:”, *Monist*, 59(1): 3–20. doi:10.5840/monist19755916
 
-[^eq-1975b]: 1975b, “Phenomenology and the Meaning of Realism”, in *Phenomenology and Philosophical Understanding*, Edo Pivčević (ed.), Cambridge: Cambridge University Press, 143–158.
+[^findlay-1975b]: 1975b, “Phenomenology and the Meaning of Realism”, in *Phenomenology and Philosophical Understanding*, Edo Pivčević (ed.), Cambridge: Cambridge University Press, 143–158.
 
-[^eq-1975c]: 1975c, “The Rationality of Mysticism”, in *Contemporary Studies in Philosophical Idealism*, John Howie (ed.), Cape Cod, MA: Claude Stark and Co.
+[^findlay-1975c]: 1975c, “The Rationality of Mysticism”, in *Contemporary Studies in Philosophical Idealism*, John Howie (ed.), Cape Cod, MA: Claude Stark and Co.
 
-[^eq-1975d]: 1975d, “Religion and Its Three Paradigmatic Instances”, *Religious Studies*, 11(2): 215–227. doi:10.1017/S0034412500008362
+[^findlay-1975d]: 1975d, “Religion and Its Three Paradigmatic Instances”, *Religious Studies*, 11(2): 215–227. doi:10.1017/S0034412500008362
 
-[^eq-1975e]: 1975e, “The Three Hypostases of Platonism”, *The Review of Metaphysics*, 28(4): 660–680.
+[^findlay-1975e]: 1975e, “The Three Hypostases of Platonism”, *The Review of Metaphysics*, 28(4): 660–680.
 
-[^eq-1976a]: 1976a, “*Mind* under the Editorship of David Hamlyn”, *Mind*, 85(337): 57–68. doi:10.1093/mind/LXXXV.337.57
+[^findlay-1976a]: 1976a, “*Mind* under the Editorship of David Hamlyn”, *Mind*, 85(337): 57–68. doi:10.1093/mind/LXXXV.337.57
 
-[^eq-1976b]: 1976b, “The Neoplatonism of Plato”, in *The Significance of Neoplatonism*, R. Baine Harris (ed.), (Studies in Neoplatonism, 1), Albany, NY: SUNY Press, 23–40.
+[^findlay-1976b]: 1976b, “The Neoplatonism of Plato”, in *The Significance of Neoplatonism*, R. Baine Harris (ed.), (Studies in Neoplatonism, 1), Albany, NY: SUNY Press, 23–40.
 
-[^eq-1977]: 1977, “Ordinary, revisionary, and dialectical strategies in philosophy: a plea for the re-introduction of a logic of aspects”, *Erkenntnis*, 11: 275–290.
+[^findlay-1977]: 1977, “Ordinary, revisionary, and dialectical strategies in philosophy: a plea for the re-introduction of a logic of aspects”, *Erkenntnis*, 11: 275–290.
 
-[^eq-1978a]: 1978a [1982], “Why Christians Should be Platonists”, *Neoplatonism and Christian Thought*, Dominic J. O’Meara (ed.), Albany, NY: SUNY Press. Conference held Catholic University of America, Washington, DC, October 1978.
+[^findlay-1978a]: 1978a [1982], “Why Christians Should be Platonists”, *Neoplatonism and Christian Thought*, Dominic J. O’Meara (ed.), Albany, NY: SUNY Press. Conference held Catholic University of America, Washington, DC, October 1978.
 
-[^eq-1978b]: 1978b, “Time and Eternity”, *The Review of Metaphysics*, 32(1): 3–14.
+[^findlay-1978b]: 1978b, “Time and Eternity”, *The Review of Metaphysics*, 32(1): 3–14.
 
-[^eq-1980a]: 1980a, “The Myths of Plato”, in *Myth, Symbol, and Reality*, Alan M. Olson (ed.), Notre Dame, IN: Notre Dame Press.
+[^findlay-1980a]: 1980a, “The Myths of Plato”, in *Myth, Symbol, and Reality*, Alan M. Olson (ed.), Notre Dame, IN: Notre Dame Press.
 
-[^eq-1980b]: 1980b, “Ethics as an Art” (Boston University lecture), manuscript in Boston University Library.
+[^findlay-1980b]: 1980b, “Ethics as an Art” (Boston University lecture), manuscript in Boston University Library.
 
-[^eq-1981a]: 1981a, “Confessions of Theory and Life”, in *Transcendence and the Sacred*, ed. A.M. Olson & L.S. Rouner, Notre Dame & London: University of Notre Dame Press, pp. 176–92.
+[^findlay-1981a]: 1981a, “Confessions of Theory and Life”, in *Transcendence and the Sacred*, ed. A.M. Olson & L.S. Rouner, Notre Dame & London: University of Notre Dame Press, pp. 176–92.
 
-[^eq-1981b]: 1981b, “The Logical Peculiarities of Neoplatonisn”, in *The Structure of Being: A Neoplatonic Approach*, R. Baine Harris (ed.), (Studies in Neoplatonism, 4), Albany, NY: SUNY Press, 1–10.
+[^findlay-1981b]: 1981b, “The Logical Peculiarities of Neoplatonisn”, in *The Structure of Being: A Neoplatonic Approach*, R. Baine Harris (ed.), (Studies in Neoplatonism, 4), Albany, NY: SUNY Press, 1–10.
 
-[^eq-1981c]: 1981c, “Thoughts on the Gnosis of St. John”, *Religious Studies*, 17(4): 441–450.
+[^findlay-1981c]: 1981c, “Thoughts on the Gnosis of St. John”, *Religious Studies*, 17(4): 441–450.
 
-[^eq-1982a]: 1982a, “Dialectic as Metabasis”, in *Konzepte der Dialektik*, Frankfurt: Klostermann.
+[^findlay-1982a]: 1982a, “Dialectic as Metabasis”, in *Konzepte der Dialektik*, Frankfurt: Klostermann.
 
-[^eq-1982b]: 1982b, “The Impersonality of God”, in *God, the Contemporary Discussion*, Frederick Sontag & M. Darrol Bryant (eds.), Los Angeles: Rose of Sharon Press. Conference, December 1981, Maui, Hawaii.
+[^findlay-1982b]: 1982b, “The Impersonality of God”, in *God, the Contemporary Discussion*, Frederick Sontag & M. Darrol Bryant (eds.), Los Angeles: Rose of Sharon Press. Conference, December 1981, Maui, Hawaii.
 
-[^eq-1982c]: 1982c, “An Ontology of Senses”, *The Journal of Philosophy*, 79(10): 545–551.
+[^findlay-1982c]: 1982c, “An Ontology of Senses”, *The Journal of Philosophy*, 79(10): 545–551.
 
-[^eq-1984a]: 1984a, “The Hegelian Treatment of Biology and Life”, in *Hegel and the Sciences* (Boston Studies in the Philosophy of Science, 64), Robert S. Cohen and Marx W. Wartofsky (eds.), Dordrecht: D. Reidel.
+[^findlay-1984a]: 1984a, “The Hegelian Treatment of Biology and Life”, in *Hegel and the Sciences* (Boston Studies in the Philosophy of Science, 64), Robert S. Cohen and Marx W. Wartofsky (eds.), Dordrecht: D. Reidel.
 
-[^eq-1984b]: 1984b, “Identity and Identification”, *Religious Studies*, 20(1): 55–62.
+[^findlay-1984b]: 1984b, “Identity and Identification”, *Religious Studies*, 20(1): 55–62.
 
 [^ml-1985]: [ML] 1985, “My Life: 1903–1973”, in SF: 1–51.
-
-[^ml-2005a]: 2005a, “Philosophy as a Discipline”, *The Philosophical Forum*, 36(2): 141–148. doi:10.1111/j.1467-9191.2005.00196.x
-
-[^ml-2005b]: 2005b, “Aristotle and Eideticism”, *The Philosophical Forum*, 36(4): 349–365. doi:10.1111/j.1467-9191.2005.00209.x
-
-[^ml-2006a]: 2006a, “Aristotle and Eideticism II”, *The Philosophical Forum*, 37(3): 333–386, doi:10.1111/j.1467-9191.2006.00244.x
-
-[^ml-2006b]: 2006b, “Notes on Spinoza and Absolute Theory”, *The Philosophical Forum*, 37(4): 427–437, doi:10.1111/j.1467-9191.2006.00246.x
-
-[^ml-2007a]: 2007a, “Notes on Plato’s *Timaeus*”, *The Philosophical Forum*, 38(2): 159–171, doi:10.1111/j.1467-9191.2007.00261.x
-
-[^ml-2007b]: 2007b, “Notes on Kant’s *Prolegomena*”, *The Philosophical Forum*, 38(3): 289–308, doi:10.1111/j.1467-9191.2007.00268.x
-
-[^ml-2007c]: 2007c, “Hegel’s Philosophy: The Logic”, *The Philosophical Forum*, 38(4): 387–459, doi:10.1111/j.1467-9191.2007.00276.x
-
-[^ml-2008]: 2008, “Wittgenstein and His *Tractatus*”, *The Philosophical Forum*, 39(1): 85–94, doi:10.1111/j.1467-9191.2007.00283.x
-
-[^ml-2018]: 2018, “Notes on the *Ideen* of Husserl”, *The Philosophical Forum*, 49(3): 283–307, doi:10.1111/phil.12193
-
-[^ml-1970]: 1970, translation of *Logical Investigations* (*Logische Untersuchungen*), by Edmund Husserl, with an introduction by J.N. Findlay, London: Routledge and Kegan Paul.
-
-[^ml-1970-2]: 1970, foreword to *Hegel’s Philosophy of Nature*, A.V. Miller (trans.), Oxford: Clarendon Press.
-
-[^ml-1971]: 1971, foreword to *Hegel’s Philosophy of Mind*, William Wallace and A.V. Miller (trans.), Oxford: Clarendon Press.
-
-[^ml-1975]: 1975, foreword to *Hegel’s Logic*, William Wallace (trans.), Oxford: Clarendon Press.
-
-[^ml-1977]: 1977, analysis and foreword to *Hegel’s Phenomenology of Spirit*, A.V. Miller (trans.), Oxford: Clarendon Press.
 
 [^bergson-1907]: Bergson, Henri, 1907, *L’Évolution créatrice*, Paris: Félix Alcan. Translated as *Creative Evolution*, Arthur Mitchell (trans.), New York: Henry Holt, 1911.
 

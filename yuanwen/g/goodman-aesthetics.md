@@ -259,12 +259,6 @@ convention | diagrams: and diagrammatical reasoning | induction: problem of | lo
 
 [^stories-1997]: 1997, “Some Reflections on My Philosophies,” *Philosophia Scientiae*, 2.
 
-[^stories-1972]: 1972, *Hockey Seen: A Nightmare in Three Periods and Sudden Death*, first performed in Cambridge, Mass. Drawings by Katharine Sturgis; author and producer, Nelson Goodman; choreographer, Martha Gray; composer, John C. Adams.
-
-[^stories-1973]: 1973, *Rabbit, Run*, dance version of John Updike’s novel, first performed at the Agassiz Theatre, Harvard University. Author and producer, Nelson Goodman; choreographer, Martha Gray; composer, Joel Kabakov.
-
-[^stories-1985d]: 1985d, *Variations: An Illustrated Lecture Concert*, including live or taped performance of David Alpher’s “Las Meninas” Theme and Variations for piano, guitar, oboe, and cello, synchronized with presentation of slides of Las Meninas by Velazquez and of Picasso’s painted variations on it, first performed at the University of Helsinki. Conceptual design by Nelson Goodman.
-
 [^black-1954]: Black, Max, 1954, “Metaphor,” *Proceedings of the Aristotelian Society*, 55, pp. 273–294.
 
 [^borges-1962]: Borges, Jorge, 1962, “Pierre Menard, Author of the *Quixote*,” *Labyrinths*, New York: New Directions, pp. 36–44.

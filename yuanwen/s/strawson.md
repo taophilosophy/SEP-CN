@@ -25,7 +25,7 @@ However, against the Russellian theory itself Strawson made the important point 
 
 Strawson’s attitude is well presented in a later important paper where he says:
 
-> The distinction between identifying reference and uniquely existential assertion is something quite undeniable. The sense in which the existence of something answering to a definite description used for the purpose of identifying reference, and its distinguishability by an audience from anything else, is presupposed and not asserted in an utterance containing such an expression, so used, stands absolutely firm, whether or not one opts for the view that radical failure of the presupposition would deprive the statement of a truth-value. It remains a decisive objection to the theory of Descriptions … that … it amounts to a denial of these undeniable distinctions. (Strawson 1964, 85)
+> The distinction between identifying reference and uniquely existential assertion is something quite undeniable. The sense in which the existence of something answering to a definite description used for the purpose of identifying reference, and its distinguishability by an audience from anything else, is presupposed and not asserted in an utterance containing such an expression, so used, stands absolutely firm, whether or not one opts for the view that radical failure of the presupposition would deprive the statement of a truth-value. It remains a decisive objection to the theory of Descriptions … that … it amounts to a denial of these undeniable distinctions. (Strawson 1964, 85)[^strawson-1964]
 
 This passage reveals four important aspects of Strawson’s approach to definite descriptions.
 
@@ -51,7 +51,7 @@ Strawson published his first book *An Introduction to Logical Theory* in 1952. I
 
 In 1959 Strawson published his second book *Individuals*. It is ambitious, abstract, wide ranging and original, and it has continued to be read and discussed, especially the first half. Strawson coined the terms ‘descriptive metaphysics’ to capture his task and opposed that to what he called ‘revisionary metaphysics’. By using ‘metaphysics’ Strawson was primarily emphasising the abstractness and generality of his questions. A consequence of this generality, Strawson suggests, is that the methods needed for settling them are different in kind from those employed in debating less abstract conceptual or philosophical questions. One such method, employed in chapter 2, when exploring the sound world, involves imagining creatures with quite different experiences from our own, and trying to determine their capacities for thinking about objects. By calling it ‘descriptive’ Strawson means, in part, that he is not recommending revisions or additions to how we think. But the term also signals Strawson’s conviction that there is a shared and universal conceptual scheme which we human beings have, and know that we have, and for which no justification in terms of more fundamental concepts or claims can be given. He writes:
 
-> [T]here is a massive central core of human thinking which has no history—or none recorded in histories of human thought; there are categories and concepts which, in their most fundamental character, change not at all. Obviously these are not the specialities of the most refined thinking. They are the commonplaces of the least refined thinking; and yet are the indispensable core of the conceptual equipment of the most sophisticated human beings. (Strawson 1959, 10)
+> [T]here is a massive central core of human thinking which has no history—or none recorded in histories of human thought; there are categories and concepts which, in their most fundamental character, change not at all. Obviously these are not the specialities of the most refined thinking. They are the commonplaces of the least refined thinking; and yet are the indispensable core of the conceptual equipment of the most sophisticated human beings. (Strawson 1959, 10)[^strawson-1959]
 
 The claim that there are a shared set of concepts which are at the indispensable core of human thinking is a recognisably Kantian thesis. (We say more about Strawson’s relation to Kant below.) Descriptive metaphysics aims to describe and analyse this universal conceptual scheme. In particular, Strawson aims to focus on *one* part of that total structure, namely our ability to direct our thoughts, and speech, onto items in the world. It is possible therefore to see *Individuals* as, in part, a development of Strawson’s interest in reference.
 
@@ -97,11 +97,11 @@ In 1985 Strawson published *Skepticism and Naturalism: Some Varieties*. The book
 
 The book is about philosophy in another sense, since it employs and illuminates some ideas from earlier philosophers, especially Hume and Wittgenstein, and reveals Strawson’s very deep understanding of them. The book marks, also, a further development in Strawson’s engagement with epistemological scepticism. Strawson expresses agreement with some of his earlier critics (in particular Stroud) that transcendental arguments are problematic as anti-sceptical devices, and suggests instead that scepticism can be set aside because no-one is persuaded by sceptical arguments. Philosophical sceptical doubts are not *serious* doubts, and so are not to be taken *seriously*. This further twist in Strawson’s epistemology has, again, inspired considerable debate, and no consensus has yet emerged. In particular, it remains to be determined how strongly we should take Strawson’s suggestions that certain claims are presuppositions on human thought and enquiry. One worry which remains is that Strawson’s point that no one is remotely inclined to accept the sceptic’s claim establishes at most that we regard such arguments as having the status of defending a paradoxical conclusion; it does not, in itself, explain why the conclusion is incorrect. However, as well as being an original contribution to epistemology, the book presents an approach to ontology which deserves to be called Oxonian, because it has been popular in Oxford. The idea is that there is no good reason not to be realists about most aspects of the world, including colour, mentality, meaning, and perhaps value, but that this does not require the defence of a *reduction* to some features of a supposedly more fundamental realm. This is a *relaxed* realism that does not set its face against the claims of natural science, but rather refuses to take them as calling into question the legitimacy of our ordinary ways of thinking about the world. This form of Oxford realism was influential on a generation of British philosophers, many of whom were Strawson’s students.
 
-Finally, in 1992, Strawson published *Analysis and Metaphysics: an Introduction to Philosophy.* Strawson had given introductory lectures once he became a professor, and the lectures became this book. It is, again, a book about philosophy, contrasting different conceptions of the subject, and defending Strawson’s own conception of the nature and value of analysis. Of importance here is Strawson’s distinction between reductive and connective analysis. Strawson’s attitude is that the aim of analysis is to reveal conceptual links and connexions, thereby illuminating some features of our concepts, but that there is no favoured basic level of thought to which it is the goal of philosophical analysis to reduce everything else. Echoing the name for his conception of ontology, one might call that a conception of *relaxed analysis*. Strawson in fact repeatedly wrote about the nature of philosophy, and the views in this book are his final conclusions. It is also a book in which he practises what he preaches in relation to certain chosen areas, including, for example, the topics of causation and explanation, experience, meaning, and freedom. Whether it is a good introductory book or not, it is certainly a deep and interesting treatment of its topics for the non-beginner! Strawson himself prepares the reader by remarking brilliantly that the book ‘though introductory … is not elementary. There is no such thing as elementary philosophy. There is no shallow end to the philosophical pool’ (Strawson 1992, vii).
+Finally, in 1992, Strawson published *Analysis and Metaphysics: an Introduction to Philosophy.* Strawson had given introductory lectures once he became a professor, and the lectures became this book. It is, again, a book about philosophy, contrasting different conceptions of the subject, and defending Strawson’s own conception of the nature and value of analysis. Of importance here is Strawson’s distinction between reductive and connective analysis. Strawson’s attitude is that the aim of analysis is to reveal conceptual links and connexions, thereby illuminating some features of our concepts, but that there is no favoured basic level of thought to which it is the goal of philosophical analysis to reduce everything else. Echoing the name for his conception of ontology, one might call that a conception of *relaxed analysis*. Strawson in fact repeatedly wrote about the nature of philosophy, and the views in this book are his final conclusions. It is also a book in which he practises what he preaches in relation to certain chosen areas, including, for example, the topics of causation and explanation, experience, meaning, and freedom. Whether it is a good introductory book or not, it is certainly a deep and interesting treatment of its topics for the non-beginner! Strawson himself prepares the reader by remarking brilliantly that the book ‘though introductory … is not elementary. There is no such thing as elementary philosophy. There is no shallow end to the philosophical pool’ (Strawson 1992, vii)[^strawson-1992].
 
 ## 8. “Freedom and Resentment”
 
-Strawson always joked that he would turn to moral philosophy only when his powers were waning. He wrote very little on the topic, commenting later on his ‘Freedom and Resentment’ and ‘Social Morality and Individual Ideal’, that ‘[b]etween them, these two papers effectively embody all I have thought or have to say in a philosophical area which, important as I recognize it to be, I have never found as intellectually gripping as those to which I have given more attention’ (Strawson 1998, 11). Nevertheless, ‘Freedom and Resentment’ (Strawson 1962) is perhaps now Strawson’s most famous and widely discussed paper.
+Strawson always joked that he would turn to moral philosophy only when his powers were waning. He wrote very little on the topic, commenting later on his ‘Freedom and Resentment’ and ‘Social Morality and Individual Ideal’, that ‘[b]etween them, these two papers effectively embody all I have thought or have to say in a philosophical area which, important as I recognize it to be, I have never found as intellectually gripping as those to which I have given more attention’ (Strawson 1998, 11). Nevertheless, ‘Freedom and Resentment’ (Strawson 1962)[^strawson-1962] is perhaps now Strawson’s most famous and widely discussed paper.
 
 Strawson’s aim in this paper is to dissolve the so-called problem of determinism and responsibility. He does this by drawing a contrast between two different perspectives we can take on the world: the ‘participant’ and ‘objective’ standpoints. These perspectives involve different explanations of other people’s actions. From the objective point of view, we see people as elements of the natural world, causally manipulated and manipulable in various ways. From the participant point of view, we see others as appropriate objects of ‘reactive attitudes’, attitudes such as gratitude, anger, sympathy and resentment, which presuppose the responsibility of other people. These two perspectives are opposed to one another, but both are legitimate.
 
@@ -131,7 +131,7 @@ Strawson also made important contributions to the assessment of Austin’s theor
 
 ### 9.3 History of Philosophy
 
-Another theme that needs stressing is Strawson’s engagement with the history of philosophy. His work on Kant in *The Bounds of Sense* and in other articles is perhaps the most straightforward example of this engagement, but it is not the only instance. In *Individuals* and elsewhere he wrote about Descartes, especially his account of the self. Leibniz is the hero, or perhaps anti-hero, of chapter 4 of *Individuals*. Hume and Wittgenstein are the central characters in *Skepticism and Naturalism*, and he wrote about Spinoza, especially his theory of freedom. From the last century, he wrote about Wittgenstein, in a famous review of the *Philosophical Investigations*, published in *Mind* (reprinted in Strawson 2011), and also G.E. Moore. These writings reveal both a deep knowledge and a deep understanding of these thinkers, never unsympathetic and always able to see the wood as well as the trees. Strawson had a sense of the age of philosophical problems, and of the insights from the great dead philosophers that need preserving and renewing.
+Another theme that needs stressing is Strawson’s engagement with the history of philosophy. His work on Kant in *The Bounds of Sense* and in other articles is perhaps the most straightforward example of this engagement, but it is not the only instance. In *Individuals* and elsewhere he wrote about Descartes, especially his account of the self. Leibniz is the hero, or perhaps anti-hero, of chapter 4 of *Individuals*. Hume and Wittgenstein are the central characters in *Skepticism and Naturalism*, and he wrote about Spinoza, especially his theory of freedom. From the last century, he wrote about Wittgenstein, in a famous review of the *Philosophical Investigations*, published in *Mind* (reprinted in Strawson 2011)[^strawson-2011], and also G.E. Moore. These writings reveal both a deep knowledge and a deep understanding of these thinkers, never unsympathetic and always able to see the wood as well as the trees. Strawson had a sense of the age of philosophical problems, and of the insights from the great dead philosophers that need preserving and renewing.
 
 ### 9.4 Scepticism and knowledge
 
@@ -172,6 +172,44 @@ Austin, John Langshaw | descriptions | Grice, Paul | Kant, Immanuel | liberty: p
 ### Acknowledgments
 
 The SEP editors would like to thank Jasper Pirasteh for sending us a list of editorial suggestions for improving the language and punctuation in this entry.
+
+[^strawson-1952]: 1952, *Introduction to Logical Theory*, London: Methuen.
+
+[^strawson-1959]: 1959, *Individuals*, London: Methuen.
+
+[^strawson-1966]: 1966, *The Bounds of Sense*, London: Methuen.
+
+[^strawson-1971]: 1971, *Logico-Linguistic Papers*, London: Methuen.
+
+[^strawson-1974a]: 1974a, *Freedom and Resentment and Other Essays*, London: Methuen.
+
+[^strawson-1974b]: 1974b, *Subject and Predicate in Logic and Grammar*, London: Methuen, reprinted in 2004 by the Ashgate Press.
+
+[^strawson-1985a]: 1985a , *Skepticism and Naturalism: Some Varieties*, London: Methuen, and New York: Columbia University Press.
+
+[^strawson-1985b]: 1985b, *Analyse et Metaphysique*, Paris: J. Vrin.
+
+[^strawson-1992]: 1992, *Analysis and Metaphysics*, Oxford: Oxford University Press.
+
+[^strawson-1997]: 1997, *Entity and Identity*, Oxford: Oxford University Press.
+
+[^strawson-2011]: 2011, *Philosophical Writings*, Oxford: Oxford University Press.
+
+[^strawson-1950a]: 1950a, “On Referring”, *Mind*, 59: 320–344; reprinted in Strawson 1971.
+
+[^strawson-1950b]: 1950b, “Truth”, Proceedings of the Aristotelian Society, reprinted in Strawson 1971.
+
+[^strawson-1956]: 1956, (with P. Grice), “In Defense of a Dogma”, *Philosophical Review*, 50: 141–158.
+
+[^strawson-1962]: 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25; reprinted in Strawson 1974a.
+
+[^strawson-1964]: 1964, “Identifying Reference and Truth-Values”, *Theoria*, 30(2): 96–118; page references to the reprint in Strawson 1971.
+
+[^strawson-1969]: 1969, “Meaning and Truth”, reprinted in Strawson 1971
+
+[^strawson-1976]: 1976, “Scruton and Wright on Anti-Realism”, *Proceedings of the Aristotelian Society*, 77: 15–21.
+
+[^strawson-1979]: 1979, “Perception and its Objects”, in *Perception and Identity: Essays Presented to A. J. Ayer*, G. F. Macdonald (ed.) London: Macmillan.
 
 [^allais-2014]: Allais, L., 2014, “Freedom and Forgiveness” in *Oxford Studies in Agency and Responsibility, Volume 2: ‘Freedom and Resentment’ at 50*, D. Shoemaker and N. Tognazzini (eds.), Oxford: Oxford University Press.
 

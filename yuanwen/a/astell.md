@@ -284,8 +284,6 @@ Cambridge Platonists | Descartes, René | feminist philosophy, interventions: et
 
 [^norris-1693]: Norris, J., *Practical Discourses Upon several Divine Subjects*, London: S. Manship, 1693.
 
-[^norris-nd]: The secondary sources listed below will be of particular interest to philosophers who are pursuing further examination of Astell’s metaphysics, epistemology, ethics, and social and political philosophy.
-
 [^achinstein-2007]: Achinstein, S., 2007, “Mary Astell. Religion and Feminism: Texts in Motion”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener & M. Michelson, Burlington, VT: Ashgate, pp. 17–30.
 
 [^acworth-1979]: Acworth, R., 1979, *The Philosophy of John Norris of Bemerton* (1657–1712), Hildesheim/New York: Georg Olms Verlag.

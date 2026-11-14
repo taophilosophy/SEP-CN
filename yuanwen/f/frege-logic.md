@@ -31,7 +31,7 @@ At the time of writing *Begriffsschrift*, Frege did not have a clear distinction
 
 In his argument against the traditional subject-predicate analysis of judgements (which we return to below), Frege explicitly states that the logic of *Begriffsschrift* is insensitive to differences between judgements that express the same conceptual content:
 
-> I note that the contents of two judgements can differ in two ways: either the conclusions that can be drawn from one when combined with certain others also always follow from the second when combined with the same judgements, or else this is not the case. The two propositions “At Plataea the Greeks defeated the Persians” and “At Plataea the Persians were defeated by the Greeks”, differ in the first way. Even if a slight difference in sense can be discerned, the agreement still predominates. Now I call that part of the content that is the *same* in both cases the *conceptual content*. Since *only this* has significance for the *Begriffsschrift*, no distinction is needed between propositions that have the same conceptual content. (Frege 1879a: §3)
+> I note that the contents of two judgements can differ in two ways: either the conclusions that can be drawn from one when combined with certain others also always follow from the second when combined with the same judgements, or else this is not the case. The two propositions “At Plataea the Greeks defeated the Persians” and “At Plataea the Persians were defeated by the Greeks”, differ in the first way. Even if a slight difference in sense can be discerned, the agreement still predominates. Now I call that part of the content that is the *same* in both cases the *conceptual content*. Since *only this* has significance for the *Begriffsschrift*, no distinction is needed between propositions that have the same conceptual content. (Frege 1879a: §3)[^frege-1879a]
 
 As a result, and, interestingly, somewhat more like contemporary logic than the later approach taken in *Grundgesetze*, the logical operators of *Begriffsschrift* are operations that (in some sense) map arguments of the appropriate sort to *judgeable contents*, which can be glossed as something like possible “circumstances” or “facts” (see Dummett 1981 and Currie 1984 for more discussion)[^currie-1984][^dummett-1981]. Thus, in the logic of *Begriffsschrift* negation is an operation that takes a judgeable content (again, something like a possible fact or circumstance) as input and gives another judgeable content as its value, and Frege’s version of the universal quantifier is an operator that takes a predicative conceptual content as argument and gives a judgeable content as its value.
 
@@ -59,7 +59,7 @@ Thus, what *appear* within *Begriffsschrift* to be something akin to first-order
 
 While correct, even this is somewhat misleading, since anything that can be taken to be the argument of a judgement can also be taken to be the function of that same judgement, and vice versa. In introducing the concavity generalization device of the logic of *Begriffsschrift* (about which more below) Frege writes:
 
-> Since the symbol $\Phi$ occurs in the expression $\Phi(A)$ and can be thought of as replaced by other symbols $\Psi$, $X$, by means of which other functions of the argument $A$ are then expressed, $\Phi(A)$ *can be regarded as a function of the argument* $\Phi$. (Frege 1879a: §10)
+> Since the symbol $\Phi$ occurs in the expression $\Phi(A)$ and can be thought of as replaced by other symbols $\Psi$, $X$, by means of which other functions of the argument $A$ are then expressed, $\Phi(A)$ *can be regarded as a function of the argument* $\Phi$. (Frege 1879a: §10)[^frege-1879a]
 
 In other words, we can parse the sentence “Hydrogen is lighter than carbon dioxide” in such a way that “Hydrogen” is the argument and “is lighter than carbon dioxide” is the function, but we can also parse the same sentence such that “is lighter than carbon dioxide” is the argument and “Hydrogen” (and not, as it would be in *Grundgesetze*, the second-level concept that we might paraphrase as “is satisfied by hydrogen”) is the function—see Heck and May (2013) for more discussion. Further, Frege notes that the function/argument distinction is not a reflection of any objective facts regarding the structure of reality (unlike the later object/function hierarchy found in *Grundgesetze*) but instead merely reflects a choice to analyze a statement in one way rather than another:
 
@@ -474,9 +474,9 @@ The reader who is interested in the evolution of Frege’s logical ideas between
 
 One of the main, and most obvious, differences between the logic of *Begriffsschrift* and the logic of *Grundgesetze*, other than the addition of value-ranges, is the fact that Frege now has a fully worked out, rigorous type theory in place. The most fundamental distinction is that between objects, which are saturated, and functions (including concepts as a special case), which are not, and thus require being “completed” via application to one or more arguments.
 
-Two particularly important types of function are concepts and relations. A *concept* is a unary function such that, for any argument (of the appropriate type), the value of the function applied to that argument is a truth-value. A *relation* is a function with two (or more) arguments such that, for any pair (or *n*-tuple) of arguments (again, of the appropriate type), the value of the function applied to that pair is a truth-value (Frege 1893/1903: §4, see also 1893/1903: §22).
+Two particularly important types of function are concepts and relations. A *concept* is a unary function such that, for any argument (of the appropriate type), the value of the function applied to that argument is a truth-value. A *relation* is a function with two (or more) arguments such that, for any pair (or *n*-tuple) of arguments (again, of the appropriate type), the value of the function applied to that pair is a truth-value (Frege 1893/1903: §4, see also 1893/1903: §22)[^frege-1893].
 
-Frege also subdivides functions in terms of the *kinds* of argument that they take. Thus, a function is a *first-level function* if and only if it takes an object or objects (and hence only takes an object or objects) as argument(s); a function is a *second-level function* if and only if it takes a first-level function or functions (and hence only takes a first-level function or functions) as argument(s); and a function is a *third-level function* if and only if it takes a second-level function or functions (and hence only takes a second-level function or functions) as argument(s) (Frege 1893/1903: §21 through §23, see also §26).
+Frege also subdivides functions in terms of the *kinds* of argument that they take. Thus, a function is a *first-level function* if and only if it takes an object or objects (and hence only takes an object or objects) as argument(s); a function is a *second-level function* if and only if it takes a first-level function or functions (and hence only takes a first-level function or functions) as argument(s); and a function is a *third-level function* if and only if it takes a second-level function or functions (and hence only takes a second-level function or functions) as argument(s) (Frege 1893/1903: §21 through §23, see also §26)[^frege-1893].
 
 In what follows we will divide up our discussion of the logic of *Grundgesetze* into three sections, where the first considers those notations that occur in the earlier logic of *Begriffsschrift* (although often with rather different understandings), the second presents those notations that are novel to the logic of *Grundgesetze*, and the third presents the axioms (now called Basic Laws) and rules of inference of the logic of *Grundgesetze*.
 
@@ -490,7 +490,7 @@ As was the case in *Begriffsschrift*, the judgement stroke of *Grundgesetze* tra
 >
 > ![judgement 2^2 = 4](../assets/frege-logic/sec-3-1-A.svg)
 >
-> it is asserted that the square of 2 is 4. I distinguish the *judgement* from the *thought* in such a way that that I understand by a *judgement* the acknowledgement of the truth of a *thought*. (Frege 1893/1903: §5)
+> it is asserted that the square of 2 is 4. I distinguish the *judgement* from the *thought* in such a way that that I understand by a *judgement* the acknowledgement of the truth of a *thought*. (Frege 1893/1903: §5)[^frege-1893]
 
 Thus, the application of the judgement stroke to a *Grundgesetze* expression lacking the judgement stroke asserts that the expression in question is a name of the True, where *the True* is the object denoted by true sentences (and *the False* is the object denoted by false sentences). An expression of the form:
 
@@ -707,7 +707,7 @@ Next up are the quantifiers. In the logic of *Grundgesetze*, unlike (strictly sp
 >
 > ![all gothic a term \Phi(gothic a)](../assets/frege-logic/sec-3-1-Ob.svg)
 >
-> refer to the True if the value of the function $\Phi(\xi)$ is the True for every argument, and otherwise the False. (Frege 1893/1903: §8)
+> refer to the True if the value of the function $\Phi(\xi)$ is the True for every argument, and otherwise the False. (Frege 1893/1903: §8)[^frege-1893]
 
 Frege includes no restriction that “$\Phi(\xi)$” must be the name of a concept, hence “ ![judgement all gothic a](../assets/frege-logic/inline-all-gothic-a.svg) $\mathfrak{a} + 1$” is a well-formed judgement within the logic of *Grundgesetze*, albeit an incorrect one. In fact, he could not have coherently imposed any such restriction, since second-level functions must be defined for all first-level functions in exactly the same manner as first-level functions must be defined for all objects.
 
@@ -1068,7 +1068,7 @@ The absence of this principle from the deductive system of *Grundgesetze* leads 
 
 The stipulations Dummett has in mind are the identification of the truth values with their singleton extensions at the conclusion of the “Permutation Argument” in §10 of *Grundgesetze*. What the lack of a second instance of Basic Law VI reveals, however, is that Frege would have been quite aware of the incompleteness of the logic of *Grundgesetze* (were it not inconsistent), since he has failed to include a principle that is clearly true on the intended interpretation. Imputing to him an awareness of an obvious gap in the logical principles he actually includes in his logic (given the informal semantic elucidations he provides regarding the intended interpretation of his logic) is far different from claiming that he was aware of the *in principle* incompleteness of second-order logic, of course.
 
-Interestingly, Heck points out (2012: ch. 2) that Frege claims later in *Grundgesetze* that a proposition “is, it seems, unprovable” (Frege 1893/1903: §114). Frege is careful to claim only that the principle is unprovable, and hence that he will not claim that is *is* true (i.e., he will not write it as a judgement with “ ![judgement symbol](../assets/frege-logic/inline-judgement.svg) ”, but he also refrains from claiming that it is false. Heck suggests that Frege was at this point recognizing the potential incompleteness of his system (or, at least, of the consistent sub-system relevant to the derivations at issue in §114). What prevents Frege from proving the claim in question, and what allows Dedekind to prove a similar principle in his own treatment of arithmetic (Dedekind 1888)[^dedekind-1888], is that the latter has an informal version of the axiom of choice at his disposal, while Frege has included no formal version of choice within the logic of *Grundgesetze* (Heck 2012: ch. 2)[^heck-2012]. This is an important observation, but nothing this sophisticated is needed in order to conclude that Frege would likely have thought that his system was incomplete.
+Interestingly, Heck points out (2012: ch. 2) that Frege claims later in *Grundgesetze* that a proposition “is, it seems, unprovable” (Frege 1893/1903: §114)[^frege-1893]. Frege is careful to claim only that the principle is unprovable, and hence that he will not claim that is *is* true (i.e., he will not write it as a judgement with “ ![judgement symbol](../assets/frege-logic/inline-judgement.svg) ”, but he also refrains from claiming that it is false. Heck suggests that Frege was at this point recognizing the potential incompleteness of his system (or, at least, of the consistent sub-system relevant to the derivations at issue in §114). What prevents Frege from proving the claim in question, and what allows Dedekind to prove a similar principle in his own treatment of arithmetic (Dedekind 1888)[^dedekind-1888], is that the latter has an informal version of the axiom of choice at his disposal, while Frege has included no formal version of choice within the logic of *Grundgesetze* (Heck 2012: ch. 2)[^heck-2012]. This is an important observation, but nothing this sophisticated is needed in order to conclude that Frege would likely have thought that his system was incomplete.
 
 Frege had no need for an axiom covering the application of the backslash to non-singleton extensions in his derivation of arithmetic within the formal system of *Grundgesetze* (and we can presume he also had no need of it in his envisioned derivation of real and complex analysis). Thus, he did not need to add it to his stock of Basic Laws. Frege’s formal system only needs to include those logical principles that are required for his reconstructions of arithmetic and analysis—his project did not require a logic that was proof-theoretically complete in the modern sense, and as a result we should not be surprised that the logic he did formulate would have appeared (to Frege, to his readers, and to us) to be rather obviously incomplete (had Basic Law V not rendered it inconsistent, and hence trivially complete).
 
@@ -1249,6 +1249,30 @@ This concludes our survey of the logical systems found in Frege’s *Begriffssch
 ## Related Entries
 
 algebra of logic tradition | Carnap, Rudolf | Frege, Gottlob | Frege, Gottlob: controversy with Hilbert | Frege, Gottlob: theorem and foundations for arithmetic | logic: classical | logic: second-order and higher-order | logicism and neologicism | quantifiers and quantification | Russell’s paradox | truth values
+
+[^frege-1879a]: 1879a, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; all quotes from this work are from the translation in T.W. Bynum (ed. and trans.), *Frege: Conceptual Notation and Related Articles*, Oxford: Clarendon, 1972.
+
+[^frege-1879b]: 1879b, “Anwendungen der Begriffsschrift”, *Sitzungsberichte der Jenaische Zeitschrift für Medicin und Naturwissenschaft*, 13: 29–33.
+
+[^frege-1880]: 1880/1881, “Booles rechnende Logik und die Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Calculus and the Concept Script”, in LW79: 9–46.
+
+[^frege-1881]: 1881, “Booles logische Formelsprache und meine Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Formula Language and my Concept-script”, in LW79: 47–52.
+
+[^frege-1882a]: 1882a, “Über die wissenschaftliche Berechtigung einer Begriffsschrift”, *Zeitschrift für Philosophie und philosophische Kritik*, 81: 48–56. Translated as “On the Scientific Justification of a Conceptual Notation” in By72: 83–89.
+
+[^frege-1882b]: 1882b, “Über den Zweck der Begriffsschrift”, Lecture at the 27 January 1882 meeting of the Jenaischen Gesellschaft für Medizin und Naturwissenschaft. Translated as “On the Aim of the ‘Conceptual Notation’” in By72: 90–100.
+
+[^frege-1884]: 1884, *Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner. Translated as *The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number*, J. L. Austin (trans.), second revised edition, Oxford: Blackwell, 1953.
+
+[^frege-1891]: 1891, “Funktion und Begriff” (“Function and Concept”), *Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen Gesellschaft für Medizin und Naturwissenschaft*, Jena: Hermann Pohle.
+
+[^frege-1892a]: 1892a, “Über Sinn und Bedeutung” (“On Sense and Reference”), *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50.
+
+[^frege-1892b]: 1892b, “Über Begriff und Gegenstand”’ (“Concept and Object”), *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205.
+
+[^frege-1893]: 1893/1903, *Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet*, Jena: Verlag Hermann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.
+
+[^frege-1897]: 1897, “Über die Begriffsschrift des Herrn Peano und meine eigene”, *Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-physische Klasse*, 48: 361–378. Translated as “On Mr. Peano’s Conceptual Notation and My Own” in BD84: 234–248.
 
 [^be97-1997]: [Be97] *The Frege Reader*, Michael Beaney (ed.), Oxford ; Malden, MA: Blackwell Publishers, 1997.
 

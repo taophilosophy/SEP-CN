@@ -166,35 +166,35 @@ The author would like to thank Jason Swadley Canon, Robin Douglass, Charles Gris
 
 [^social-2012]: *The Social Contract and Other Political Writings*, Quintin Hoare (trans.) and Christopher Bertram (ed.), London: Penguin, 2012.(This volume includes the English translation of the reconstruction by Bernardi et al of *Principles of the Right of War*.)
 
-[^social-1751]: 1751, *Un Discours sur les Sciences et les Arts* (*Discourse on the Sciences and the Arts; First Discourse*).
+[^rousseau-1751]: 1751, *Un Discours sur les Sciences et les Arts* (*Discourse on the Sciences and the Arts; First Discourse*).
 
-[^social-1755]: 1755, *Un Discours sur l’Origine et les Fondemens de l’Inégalité parmi les Hommes* (*A Discourse on the Origin of Inequality; Second Discourse)*.
+[^rousseau-1755]: 1755, *Un Discours sur l’Origine et les Fondemens de l’Inégalité parmi les Hommes* (*A Discourse on the Origin of Inequality; Second Discourse)*.
 
-[^social-1753]: c. 1753–61, *Essai sur l’Origine de Langues* (*Essay on the Origin of Languages*).
+[^rousseau-1753]: c. 1753–61, *Essai sur l’Origine de Langues* (*Essay on the Origin of Languages*).
 
-[^social-1755-2]: 1755, *De l’économie politique* (*A Discourse on Political Economy*).
+[^rousseau-1755-2]: 1755, *De l’économie politique* (*A Discourse on Political Economy*).
 
-[^social-1755-3]: 1755, *Lettre sur la Musique Française* (*Letter on French Music*).
+[^rousseau-1755-3]: 1755, *Lettre sur la Musique Française* (*Letter on French Music*).
 
-[^social-1758]: 1758, *Lettre à M. d’Alembert sur les Spectacles*(*Letter to d’Alembert on the Theater*).
+[^rousseau-1758]: 1758, *Lettre à M. d’Alembert sur les Spectacles*(*Letter to d’Alembert on the Theater*).
 
-[^social-1761]: 1761, *Julie, ou La Nouvelle Héloïse*.
+[^rousseau-1761]: 1761, *Julie, ou La Nouvelle Héloïse*.
 
-[^social-1762]: 1762, *Émile, ou de l’Éducation* (*Emile, or On Education*).
+[^rousseau-1762]: 1762, *Émile, ou de l’Éducation* (*Emile, or On Education*).
 
-[^social-1762-2]: 1762, *Du Contrat Social* (*The Social Contract*).
+[^rousseau-1762-2]: 1762, *Du Contrat Social* (*The Social Contract*).
 
-[^social-1764]: 1764, *Lettres Ecrites de la Montagne* (*Letters from the Mountains*).
+[^rousseau-1764]: 1764, *Lettres Ecrites de la Montagne* (*Letters from the Mountains*).
 
-[^social-1764-2]: 1764–5, *Project de Constitution pour la Corse* (*Project for a Constitution for Corsica*).
+[^rousseau-1764-2]: 1764–5, *Project de Constitution pour la Corse* (*Project for a Constitution for Corsica*).
 
-[^social-1764-3]: 1764–6, *Les Confessions* (*The Confessions*).
+[^rousseau-1764-3]: 1764–6, *Les Confessions* (*The Confessions*).
 
-[^social-1770]: 1770–1, *Considérations sur le Gouvernement de Pologne* (*Considerations on the Government of Poland*).
+[^rousseau-1770]: 1770–1, *Considérations sur le Gouvernement de Pologne* (*Considerations on the Government of Poland*).
 
-[^social-1772]: 1772–6, *Rousseau Juge de Jean-Jacques: Dialogues* (*Rousseau Judge of Jean-Jacques: Dialogues*).
+[^rousseau-1772]: 1772–6, *Rousseau Juge de Jean-Jacques: Dialogues* (*Rousseau Judge of Jean-Jacques: Dialogues*).
 
-[^social-1776]: 1776–8, *Les Rêveries du Promeneur Solitaire* (*The Reveries of the Solitary Walker*).
+[^rousseau-1776]: 1776–8, *Les Rêveries du Promeneur Solitaire* (*The Reveries of the Solitary Walker*).
 
 [^berman-1970]: Berman, M., 1970, *The Politics of Authenticity*, New York: Atheneum.
 

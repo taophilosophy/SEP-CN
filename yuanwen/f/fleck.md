@@ -31,11 +31,11 @@ In his epistemological works, Fleck combined: (1) experience of a scientist; (2)
 
 (3) Before World War II, Lvov had a “philosophical branch” of a distinguished mathematical-philosophical school—the Lvov-Warsaw School. Despite the fact that Fleck had connections with this school, he never mentioned either Kazimierz Ajdukiewicz or Leon Chwistek, even though Chwistek’s idea of the multiplicity of reality (in art but also in life and science) has much in common with his theory of thought styles. In his writings Fleck makes a few critical remarks on conventionalists and logical empiricists; however, nothing really supports the claim that he knew their views well. Also, Fleck’s remarks on epistemology of Kant, Mach, Wundt and Uexküll’s are superficial and dispersed—he does not adopt views from them, but only looks for some superficial confirmation of his own claims.
 
-(4) In (1935a) Fleck devotes only a few pages to the sociology of knowledge, and, moreover, he refers exclusively to the German translation of Lucien Levy-Bruhl’s book *Das Denken der Naturvölker*, 1921 and to Wilhelm Jerusalem’s paper of 1929. Clearly he did not know works of the “founders of sociology of knowledge”: Max Scheler and Karl Mannheim. Schnelle (1986)[^schnelle-1986] even claims that Fleck had acquired the basic information on the sociology of science from a popular paper published in Polish by Paweł Rybicki. When Fleck mentions the works of Durkheim, Levy Bruhl, Jerusalem or Gumplowicz, he does this superficially; he does not adopt any of their conceptions and is content with a general thesis that “What actually thinks within a person is not the individual himself but his social community” (Gumplowicz; quot. from Fleck 1935a, § II.4). Fleck accuses them of ignoring the results of their research into the beliefs of traditional societies once they turn to scientific thinking, where they hold that “perceptions proper” displace mythical elements, and a traditional conviction on the existence of spirits and daemons is replaced with justified beliefs about “what physically is possible or impossible” (Levy-Bruhl, quot. from Fleck 1935a, § II.4). In contrast, Fleck claims that scientific thinking is an object of sociological examination to the same extent as mythical thinking.
+(4) In (1935a) Fleck devotes only a few pages to the sociology of knowledge, and, moreover, he refers exclusively to the German translation of Lucien Levy-Bruhl’s book *Das Denken der Naturvölker*, 1921 and to Wilhelm Jerusalem’s paper of 1929. Clearly he did not know works of the “founders of sociology of knowledge”: Max Scheler and Karl Mannheim. Schnelle (1986)[^schnelle-1986] even claims that Fleck had acquired the basic information on the sociology of science from a popular paper published in Polish by Paweł Rybicki. When Fleck mentions the works of Durkheim, Levy Bruhl, Jerusalem or Gumplowicz, he does this superficially; he does not adopt any of their conceptions and is content with a general thesis that “What actually thinks within a person is not the individual himself but his social community” (Gumplowicz; quot. from Fleck 1935a, § II.4)[^fleck-1935a]. Fleck accuses them of ignoring the results of their research into the beliefs of traditional societies once they turn to scientific thinking, where they hold that “perceptions proper” displace mythical elements, and a traditional conviction on the existence of spirits and daemons is replaced with justified beliefs about “what physically is possible or impossible” (Levy-Bruhl, quot. from Fleck 1935a, § II.4)[^fleck-1935a]. In contrast, Fleck claims that scientific thinking is an object of sociological examination to the same extent as mythical thinking.
 
 An interesting hypothesis was recently formulated by Eva Hedfors (2006)[^hedfors-2006], who critically evaluated Fleck’s competencies in the history of medicine. She claims that the chief role in the development of his thought was played by the interdisciplinary journal *Die Naturwissenschaften*, where on the turn of the 1920s and 1930s scientists and philosophers carried out a philosophical debate about the relativistic and quantum revolution in physics. According to Hedfors this debate inspired Fleck, who wrote on the “physics of tomorrow”:
 
-> At the present time we are so fortunate as to witness the spectacle of the birth, the creation, of a new style of thinking. (…) Sooner or later much will change: the law of causality, the concepts of objectivity and subjectivity. Something else will be demanded from scientific solutions and different problems will be regarded as important. Much that has been proven will be found unproven, and much of what was never proven will turn out to be superfluous (Fleck 1929).
+> At the present time we are so fortunate as to witness the spectacle of the birth, the creation, of a new style of thinking. (…) Sooner or later much will change: the law of causality, the concepts of objectivity and subjectivity. Something else will be demanded from scientific solutions and different problems will be regarded as important. Much that has been proven will be found unproven, and much of what was never proven will turn out to be superfluous (Fleck 1929)[^fleck-1929].
 
 As Fleck—because of the lack of education in this area—could not write about physics, he found corresponding episodes in the history of medicine with which he illustrated theses circulating in the thought collective of physicists who were debating what was happening in their discipline.
 
@@ -107,7 +107,7 @@ Together with the mutation of ideas, new forms recognized in sensations occur. F
 
 > The work of the research scientist means that in the complex confusion and chaos which he faces, he must distinguish that which obeys his will from that which arises spontaneously and opposes it. This is the firm ground that he, as representative of the thought collective, continuously seeks (1935a, IV.2).
 
-Changes in the way of seeing cannot—as it was said before—be made by an individual. Descriptions of experiments circulate among scientists, and again as a result of misunderstandings and understandings the traditional forms are (and this fact is not noticed by the participants of that process) restyled, some are rejected, other connected into unique wholes, “and, finally, a new readiness is formed, i.e. the readiness to see a new, specific form” (1935b). Finally, in descriptions published in professional papers comparisons disappear and one states: this and that was observed. (Similarly, after some time of being in contact with the Latin alphabet we directly recognize the letter A despite the enormous variety of shapes it exists in, and at the same time we are not able to say what this recognizing consists in, cf. Fleck 1947, I.)
+Changes in the way of seeing cannot—as it was said before—be made by an individual. Descriptions of experiments circulate among scientists, and again as a result of misunderstandings and understandings the traditional forms are (and this fact is not noticed by the participants of that process) restyled, some are rejected, other connected into unique wholes, “and, finally, a new readiness is formed, i.e. the readiness to see a new, specific form” (1935b). Finally, in descriptions published in professional papers comparisons disappear and one states: this and that was observed. (Similarly, after some time of being in contact with the Latin alphabet we directly recognize the letter A despite the enormous variety of shapes it exists in, and at the same time we are not able to say what this recognizing consists in, cf. Fleck 1947, I.)[^fleck-1947]
 
 Thus, it is impossible to see something radically new “simply and immediately”: first the constrains of an old thought style must be removed and a new style must emerge, a collective’s thought mood must change—and this takes time and work with others. In the course of interpersonal exchange concepts evolve and facts evolve together with them. This in turn stimulates creation of new concepts.
 
@@ -229,6 +229,38 @@ epistemology: social | facts | incommensurability: of scientific theories | Kuhn
 ### Acknowledgments
 
 The author would like to thank Paweł Jarnicki for assistance in preparing the bibliography and Rafał Lizut for translating this entry into English. The editors would like to thank Jason Wu for copy-editing the prose.
+
+[^fleck-1927]: 1927, O niektórych swoistych cechach myślenia lekarskiego, *Archiwum Historii i Filozofii Medycyny oraz Historii Nauk Przyrodniczych*, 6: 55–64. (“Some Specific Features of the Medical Way of Thinking”, in *Cognition and Fact. Materials on Ludwik Fleck*, R. S. Cohen and Thomas Schnelle (eds.), pp. 39–46, Dordrecht: D. Reidel 1986.)
+
+[^fleck-1929]: 1929, Zur Krise der ‘Wirklichkeit’, *Die Naturwissenschaften*, 17: 425–430. (“On the Crisis of ‘Reality’”, in R. S. Cohen and Th. Schnelle (eds.), pp. 47–58, 1986). (
+
+[^fleck-1934]: 1934, Jak powstał odczyn Bordet-Wassermanna i jak w ogóle powstaje odkrycie naukowe?, *Polska Gazeta Lekarska*, 3: 181–182 and 202–205. (“How Did the Bordet–Wassermann Test Emerge? And How Does Any Scientific Discovery Come About?” in *Investigations in the Theory of Knowledge at the Maria Curie-Skłodowska University*, M. Hetmański and J. Pomorski (eds.), transl. by P. Trompis, pp. 42–57, Leiden, Boston: Brill 2025. DOI 10.1163/9789004722064.)
+
+[^fleck-1935a]: 1935a, *Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv*, Basel: Benno Schwabe und Co.; Lothar Schäfer und Thomas Schnelle (Hrsg. und Vorwort), Frankfurt am Main: Suhrkamp, 1980.
+
+[^fleck-1935b]: 1935b, O obserwacji naukowej i postrzeganiu w ogóle, *Przegląd Filozoficzny*, 38: 57–76. (“Scientific Observation and Perception in General”, in R. S. Cohen and Th. Schnelle (eds.), pp. 59–78, 1986).
+
+[^fleck-1935c]: 1935c, Zur Frage der Grundlagen der medizinischen Erkenntnis, *Klinische Wochenschrift*, 14: 1255–1259. (“On the Questions of the Foundations of Medical Knowledge”, transl. by Thaddeus J. Trenn, *The Journal of Medicine and Philosophy*, 6: 237–255, 1981).
+
+[^fleck-1936]: 1936, Zagadnienie teorii poznawania, *Przegląd Filozoficzny*, 39: 3–37. (“The Problem of Epistemology”, in R. S. Cohen and Th. Schnelle (eds.), pp. 79–112, 1986).
+
+[^fleck-1938]: 1938, W sprawie artykułu p. Izydory Dąbskiej w Przeglądzie Filozoficznym, *Przegląd Filozoficzny*, 41: 192–195.
+
+[^fleck-1939a]: 1939a, Nauka a środowisko, *Przegląd Współczesny*, no. 8–9: 149–156. (“Science and Social Context”, transl. by I. Löwy, in I. Löwy, pp. 249–256, 1990).
+
+[^fleck-1939b]: 1939b, Odpowiedź na uwagi Tadeusza Bilikiewicza, *Przegląd Współczesny*, no. 8–9: 168–174. (“Rejoinder to the Comments of Tadeusz Bilikiewicz”, transl. by I. Löwy, in I. Löwy, pp. 267–273, 1990).
+
+[^fleck-1946]: 1946, Problemy naukoznawstwa, *Życie Nauki. Miesięcznik Naukoznawczy*, 1: 322–336 (“Problems of the Science of Science”, in R. S. Cohen and Th. Schnelle (eds.), pp. 113–128, 1986).
+
+[^fleck-1947]: 1947, Patrzeć, widzieć, wiedzieć, *Problemy*, no. 2: 74–84 (“To Look, To See, To Know” in R. S. Cohen and Th. Schnelle (eds.), pp. 129–152, 1986).
+
+[^fleck-1986]: 1986, “Crisis in Science. Towards a Free and More Human Science”, in R. S. Cohen and Th. Schnelle (eds.), pp. 153–158, 1986.
+
+[^fleck-2006]: 2006, *Psychosocjologia poznania naukowego*, Zdzisław Cackowski and Stefan Symotiuk (eds.), Maria Tuszkiewicz and W. A. Niemirowski and Wojciech Sady (transl.), Lublin: UMCS, 2006. (Fleck’s epistemological writings in Polish originals or translations).
+
+[^fleck-2011]: 2011, *Erfahrung und Tatsache: gesammelte Aufsätze*, Lothar Schäfer und Thomas Schnelle (Hrsg.), Frankfurt am Main: Suhrkamp.
+
+[^fleck-2011-2]: 2011, *Denkstile und Tatsachen: gesammelte Schriften und Zeugnisse*, Werner, Sylwia und Zittel, Claus (Hrsg.), Berlin: Suhrkamp.
 
 [^anderson-1984]: Anderson, G., 1984, “Problems in Ludwik Fleck’s Conception of Science”, *Methodology and Science*, 17: 25–34.
 

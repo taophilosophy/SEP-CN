@@ -107,7 +107,7 @@ If *Philosophy and the Physicists* was written to guard its readership against i
 
 The book is full of analyses of actual uses of language by those trying to persuade others to take a particular course of action: advertisers, journalists, clergymen and, particularly, politicians. Stebbing urged readers to hone their critical skills in order to identify uses of language that introduce assumptions rather than make direct statements, or that hide parts of an argument that in logic would need to be made explicit. A repeated target is Sir Stanley Baldwin, several times Conservative Prime Minister. For instance, Stebbing quoted the following extract from a speech he gave while campaigning on behalf of the National Government in the 1931 General Election. Baldwin’s task was to explain how it would be possible for Liberals and Conservative to work together in Government.
 
-> There must undoubtedly be some difficulty over the question of tariffs. Liberals would approach the problem with a Free Trade bias but with an open mind to examine and decide whether there were measures of dealing with the problem apart from tariffs. Conservatives would start with an open mind but with a favour for tariffs. They would start with an open mind to examine alternative methods, and the Cabinet as a whole would sit down with perfect honesty and sincerity to come to a decision on that matter. (quoted by Stebbing 1939: 66)
+> There must undoubtedly be some difficulty over the question of tariffs. Liberals would approach the problem with a Free Trade bias but with an open mind to examine and decide whether there were measures of dealing with the problem apart from tariffs. Conservatives would start with an open mind but with a favour for tariffs. They would start with an open mind to examine alternative methods, and the Cabinet as a whole would sit down with perfect honesty and sincerity to come to a decision on that matter. (quoted by Stebbing 1939: 66)[^stebbing-1939]
 
 Stebbing focussed on some of Baldwin’s specific lexical choices:
 
@@ -162,6 +162,40 @@ Stebbing played a major role in the development of analytic philosophy in the 19
 ## Related Entries
 
 analysis | Carnap, Rudolf | empiricism: logical | logical constructions | logical positivism | Moore, George Edward | Schlick, Moritz | Vienna Circle
+
+[^stebbing-1914]: 1914, *Pragmatism and French Voluntarism*, Cambridge: Cambridge University Press.
+
+[^stebbing-1930]: 1930, *A Modern Introduction to Logic*, London: Methuen.
+
+[^stebbing-1932]: 1932, “The Method of Analysis in Metaphysics”, *Proceedings of the Aristotelian Society*, 33: 65–94. doi:10.1093/aristotelian/33.1.65
+
+[^stebbing-1933a]: 1933a, “Logical Positivism and Analysis”, *Proceedings of the British Academy*, pp. 53–87.
+
+[^stebbing-1933b]: 1933b, *A Modern Introduction to Logic*, London: Methuen, 2nd edition.
+
+[^stebbing-1934a]: 1934a, *Logic in Practice*, London: Methuen.
+
+[^stebbing-1934b]: 1934b, “Analysis and Philosophy”, *The Philosopher*, XII: 149–155.
+
+[^stebbing-1934c]: 1934c, “Constructions”, *Proceedings of the Aristotelian Society*, 34: 1–30. doi:10.1093/aristotelian/34.1.1
+
+[^stebbing-1936]: 1936, “Thinking”, in C. Day Lewis and L. Susan Stebbing, *Imagination and Thinking*, London: British Institute of Adult Education, pp. 14–29.
+
+[^stebbing-1937]: 1937, *Philosophy and the Physicists*, London: Methuen.
+
+[^stebbing-1939]: 1939, *Thinking to Some Purpose*, Harmondsworth: Penguin; reprinted 1959.
+
+[^stebbing-1941]: 1941, *Ideals and Illusions*, London: Watts and Co.
+
+[^stebbing-1942]: 1942, “Moore’s Influence”, in Paul Schilpp (ed.), *The Philosophy of G. E. Moore*, La Salle, Ill: Open Court, pp. 517–532.
+
+[^stebbing-1943]: 1943, *A Modern Elementary Logic*, London: Methuen; reprinted 1961, London: Barnes and Noble.
+
+[^stebbing-1944]: 1944, *Men and Moral Principles*, Oxford: Oxford University Press.
+
+[^stebbing-2025a]: 2025a, *Susan Stebbing: Philosophical Papers* (edited with an introduction and notes by Siobhan Chapman), Oxford: Oxford University Press.
+
+[^stebbing-2025b]: 2025b, “The Inadequacies of the Scientific Attitude”, edited by Silke Körber and Adam Tamas Tuboly, in Georg Schiemer (ed.), *The Legacy of The Vienna Circle*, Cham: Springer, pp. 205–214.
 
 [^aristotelian-1948]: Aristotelian Society, 1948, *Philosophical Studies: Essays in Memory of L. Susan Stebbing*, London: Allen & Unwin.
 

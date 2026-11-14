@@ -334,15 +334,15 @@ Kant, Immanuel | Kant, Immanuel: account of reason | Kant, Immanuel: aesthetics 
 
 [^gesammelte-1902]: *Gesammelte Schriften*, *Koniglichen Preussischen Academie der Wissenschaften* (ed.), 29 Volumes, Berlin: Walter de Gruyter *et al.*, 1902–
 
-[^gesammelte-1781]: 1781/1787, *Critique of Pure Reason* (trans. P. Guyer and A. Wood). Cambridge and New York: Cambridge University Press, 1987. (References to *CPR* are in the standard pagination of the 1ˢᵗ (A) and 2ⁿᵈ (B) editions. A reference to only one edition means that the passage appeared only in that edition.)
+[^kant-1781]: 1781/1787, *Critique of Pure Reason* (trans. P. Guyer and A. Wood). Cambridge and New York: Cambridge University Press, 1987. (References to *CPR* are in the standard pagination of the 1ˢᵗ (A) and 2ⁿᵈ (B) editions. A reference to only one edition means that the passage appeared only in that edition.)
 
-[^gesammelte-1785]: 1785, *Groundwork of the Metaphysics of Morals*, (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1996.
+[^kant-1785]: 1785, *Groundwork of the Metaphysics of Morals*, (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1996.
 
-[^gesammelte-1788]: 1788, *Critique of Practical Reason* (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1997.
+[^kant-1788]: 1788, *Critique of Practical Reason* (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1997.
 
-[^gesammelte-1790]: 1790, *Critique of the Power of Judgment* (trans. P. Guyer and E. Matthews). Cambridge and New York: Cambridge University Press, 2001.
+[^kant-1790]: 1790, *Critique of the Power of Judgment* (trans. P. Guyer and E. Matthews). Cambridge and New York: Cambridge University Press, 2001.
 
-[^gesammelte-1804]: 1804, *Opus Postumum* (trans. E. Förster and M. Rosen). Cambridge and New York: Cambridge University Press, 1995.
+[^kant-1804]: 1804, *Opus Postumum* (trans. E. Förster and M. Rosen). Cambridge and New York: Cambridge University Press, 1995.
 
 [^adams-1983]: Adams, R. M., 1983. “Phenomenalism and Corporeal Substance in Leibniz,” *Midwest Studies in Philosophy*, 8: 217–57.
 

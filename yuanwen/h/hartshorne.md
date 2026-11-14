@@ -19,7 +19,7 @@ Second, Hartshorne frequently uses the history of philosophy to see which of the
 
 Third, after a careful reading of the history of philosophy has facilitated the conceptual and pragmatic examination of all the available options made explicit by a position matrix, the (Greek) principle of moderation is used by Hartshorne as a guide to negotiate the way between extreme views on either side. For example, regarding the issue of personal identity, the view of Hume (and of Bertrand Russell at one stage in his career) is that, strictly speaking, there is no personal identity in that each event in “a person’s life” is externally related to the others. This is just as disastrous, Hartshorne thinks, as Leibniz’s view that all such events are internally related to the others, so that implicit in the fetus are all the experiences of the adult. (This Leibnizian view relies on the classical theistic, strong notion of omniscience, wherein God knows in minute detail and with absolute assurance what will happen in the future.) The Humean view fails to explain the continuity we experience in our lives and the Leibnizian view fails to explain the indeterminateness we experience when considering the future. The truth lies between these two extremes, Hartshorne thinks. His view of personal identity is based on a conception of time as asymmetrical in which later events in a person’s life are internally related to former events, but they are externally related to those that follow, thus leading to a position that is at once partially deterministic and partially indeterministic. That is, the past supplies necessary but not sufficient conditions for human identity in the present, which always faces a partially indeterminate future.
 
-Only the first of these methodological devices or procedures supports the widely held claim that Hartshorne is a rationalist. His overall method is a complex one that involves the other two methods or procedures, where he does borrow from the rationalists, but also from the pragmatists and the Greeks (see Lee 1991; and Dombrowski 1991)[^dombrowski-1991][^lee-1991]. It must be admitted, however, that Hartshorne was educated in a philosophic world still heavily influenced by late nineteenth and early twentieth century idealism. (On Hartshorne’s method, see Peters 1984; and Frankenberry 1991.)[^frankenberry-1991][^peters-1984]
+Only the first of these methodological devices or procedures supports the widely held claim that Hartshorne is a rationalist. His overall method is a complex one that involves the other two methods or procedures, where he does borrow from the rationalists, but also from the pragmatists and the Greeks (see Lee 1991; and Dombrowski 1991)[^dombrowski-1991][^lee-1991]. It must be admitted, however, that Hartshorne was educated in a philosophic world still heavily influenced by late nineteenth and early twentieth century idealism. (On Hartshorne’s method, see Peters 1984; and Frankenberry 1991.)[^hartshorne-1984][^hartshorne-1984-2][^hartshorne-1984-3][^frankenberry-1991][^peters-1984]
 
 ## 3. The Existence and Actuality of God
 
@@ -29,7 +29,7 @@ He argues that Hume’s and Kant’s criticisms of the ontological argument of S
 
 On Hartshorne’s view, metaphysics does not deal with realities beyond the physical, but rather with those features of reality that are ubiquitous or that would exist in any possible world. And he does not think that it is possible to think of a preeminent being that existed only contingently since if it did exist contingently rather than necessarily, it would not be preeminent. That is, God’s existence is either impossible (positivism) or possible, and, if possible, then necessary (theism). He is assuming here that there are three alternatives for us to consider: (1) God is impossible; (2) God is possible, but may or may not exist; (3) God exists necessarily. The ontological argument shows that the second alternative makes no sense. Hence, he thinks that the prime task for the philosophical theist is to show that God is not impossible (see Goodwin 1978; also see J. Smith 1984)[^goodwin-1978][^smith-1984].
 
-A Hartshornian version of the ontological argument can be put as follows: (1) Even if Kant was correct that existence is not a predicate, modality of existence is a predicate in the sense that saying that X exists necessarily or contingently or impossibly, rather than merely saying that X exists, is to say something or to predicate something significant about X. (2) There are three (and only three) modes of existence: (a) impossible (cannot exist); (b) contingent (may or may not exist--i.e., being such that it exists but might not or being such that it does not exist but might); and (c) necessary (must exist). (3) To say that God exists contingently (as in 2b) is to contradict the logic of perfection (which is Anselm’s great discovery) because a being that existed only contingently would not be the greatest conceivable. (4) Therefore, the existence of God--the greatest conceivable being or a perfect being--is either impossible or necessary (preliminary conclusion). (5) The existence of God is not impossible (which is the conclusion from other theistic arguments and from the history of religious experience). (6) Therefore, the existence of God is necessary; or, at the very least, the nonexistence of God is inconceivable (ultimate conclusion). Hartshorne also offered a version of the argument in formal logic, perhaps the very first to do so (see Hartshorne 1962; also see Hubbeling 1991)[^hubbeling-1991].
+A Hartshornian version of the ontological argument can be put as follows: (1) Even if Kant was correct that existence is not a predicate, modality of existence is a predicate in the sense that saying that X exists necessarily or contingently or impossibly, rather than merely saying that X exists, is to say something or to predicate something significant about X. (2) There are three (and only three) modes of existence: (a) impossible (cannot exist); (b) contingent (may or may not exist--i.e., being such that it exists but might not or being such that it does not exist but might); and (c) necessary (must exist). (3) To say that God exists contingently (as in 2b) is to contradict the logic of perfection (which is Anselm’s great discovery) because a being that existed only contingently would not be the greatest conceivable. (4) Therefore, the existence of God--the greatest conceivable being or a perfect being--is either impossible or necessary (preliminary conclusion). (5) The existence of God is not impossible (which is the conclusion from other theistic arguments and from the history of religious experience). (6) Therefore, the existence of God is necessary; or, at the very least, the nonexistence of God is inconceivable (ultimate conclusion). Hartshorne also offered a version of the argument in formal logic, perhaps the very first to do so (see Hartshorne 1962; also see Hubbeling 1991)[^hartshorne-1962][^hubbeling-1991].
 
 In addition, Hartshorne’s detailed treatment of the argument from design is connected to his view of biology. It is hard to reconcile the idea of an omnipotent, classical theistic God with the fact of the monstrosities and chance mutations produced in nature, but the general orderliness of the natural world is just as difficult to reconcile with there being no Orderer or Persuader at all. Belief in God as omnipotent, he thinks, has three problems: (1) it is at odds with the disorderliness in nature; (2) it yields the acutest form of the theodicy problem; and (3) it conflicts with the notion from Plato’s *Sophist*, defended by Hartshorne, that being *is* dynamic power (*dynamis*). An *omni*potent being would ultimately have all power over others, who would ultimately be powerless. But any being-in-becoming, according to Hartshorne, has *some* power to be affected by others and to affect others; this power, however slight, provides counterevidence to a belief in divine omnipotence. In contrast, God is ideally powerful, on the Hartshornian view. That is, God is as powerful as it is possible to be, given the partial freedom and power of creatures (see Birch 1991; and Kuntz 1991)[^birch-1991][^kuntz-1991].
 
@@ -213,6 +213,52 @@ From Hartshorne’s point of view the linkage of attributes *within* the first g
 ## Related Entries
 
 Anselm of Canterbury [Anselm of Bec] | cosmology: and theology | immutability | ontological arguments | panpsychism | Peirce, Charles Sanders | process philosophy | process theism | religion: epistemology of | time | Whitehead, Alfred North
+
+[^hartshorne-1923]: (1923) “An Outline and Defense of the Argument for the Unity of Being in the Absolute or Divine Good,” Ph.D. Dissertation, Harvard University.
+
+[^hartshorne-1934]: (1934) *The Philosophy and Psychology of Sensation*, Chicago: University of Chicago Press.
+
+[^hartshorne-1937]: (1937) *Beyond Humanism*, Chicago: Willet, Clark, and Co.
+
+[^hartshorne-1941]: (1941) *Man’s Vision of God*, N.Y.: Harper and Brothers.
+
+[^hartshorne-1948]: (1948) *The Divine Relativity*, New Haven: Yale University Press.
+
+[^hartshorne-1953]: (1953) *Reality as Social Process*, Boston: Beacon Press.
+
+[^hartshorne-1953-2]: (1953) *Philosophers Speak of God*, Chicago: University of Chicago Press; reprinted Amherst, NY: Humanity Books, 2000.
+
+[^hartshorne-1962]: (1962) *The Logic of Perfection*, LaSalle, Il.: Open Court.
+
+[^hartshorne-1967]: (1967) *A Natural Theology for Our Time*, LaSalle, Il: Open Court.
+
+[^hartshorne-1967-2]: (1967) *Anselm’s Discovery*, LaSalle, Il.: Open Court.
+
+[^hartshorne-1970]: (1970) *Creative Synthesis and Philosophic Method*, LaSalle, Il.: Open Court.
+
+[^hartshorne-1972]: (1972) *Whitehead’s Philosophy*, Lincoln: University of Nebraska Press.
+
+[^hartshorne-1973]: (1973) *Born to Sing*, Bloomington: Indiana University Press.
+
+[^hartshorne-1976]: (1976) *Aquinas to Whitehead*, Milwaukee: Marquette University Press.
+
+[^hartshorne-1983]: (1983) *Insights and Oversights of Great Thinkers*, Albany: State University of New York Press.
+
+[^hartshorne-1984]: (1984) *Creativity in American Philosophy*, Albany: State University of New York Press.
+
+[^hartshorne-1984-2]: (1984) *Existence and Actuality: Conversations with Charles Hartshorne*, Chicago: University of Chicago Press.
+
+[^hartshorne-1984-3]: (1984) *Omnipotence and Other Theological Mistakes*, Albany: State University of New York Press.
+
+[^hartshorne-1987]: (1987) *Wisdom as Moderation*, Albany: State University of New York Press.
+
+[^hartshorne-1990]: (1990) *The Darkness and the Light*, Albany: State University of New York Press.
+
+[^hartshorne-1991]: (1991) *The Philosophy of Charles Hartshorne*, LaSalle, Il.: Open Court.
+
+[^hartshorne-1997]: (1997) *The Zero Fallacy and Other Essays in Neoclassical Metaphysics*, LaSalle, Il.: Open Court.
+
+[^hartshorne-2011]: (2011) *Creative Experiencing*, Albany: State University of New York Press.
 
 [^alston-1964]: Alston, William, 1964, “The Elucidation of Religious Statements,” in *Process and Divinity: The Hartshorne Festschrift*, LaSalle, Il.: Open Court, pp. 429–443.
 

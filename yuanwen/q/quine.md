@@ -112,9 +112,9 @@ For similar reasons, arithmetic appears to be *a priori*. No particular experien
 
 As we have just seen, even sentences which we cannot imagine rejecting might, in principle, be rejected. As Quine says: ‘no statement is immune to revision’ (1951, 43; see Ebbs 2017, Ch. 8)[^ebbs-2017]. This claim of Quine’s has attracted a good deal of attention, and is sometimes thought to be shocking or even paradoxical. In the context of his debate with Carnap, however, it is not, by itself, at all surprising. For Carnap too, any sentence can be revised; he would insist, however, that in the case of some sentences, the analytic ones, a revision involves a change of language, and thus of the meaning of the words used in the sentence. So the idea of meaning, and sameness of meaning, occupies a crucial role in the debate over analyticity.
 
-Quine’s initial arguments against the analytic-synthetic distinction seek to cast doubt on the idea that there is a notion of meaning which is clear enough to use in defining a notion of analyticity. He explores various proposals and finds them wanting. (See especially Quine 1951.)[^see-1951] Here too a crucial role is played by holism. One apparently clear conception of meaning is that the meaning of a sentence is given by the experiences which would confirm it; holism, however, implies that the idea of confirmation does not apply to individual sentences, considered in isolation from the theories of which they are parts. (For criticism see Fodor and Lepore 1992; for a counter to Fodor and Lepore see Heal 1994; for later Quine on holism see his 1991.)[^fodor-1992][^heal-1994]
+Quine’s initial arguments against the analytic-synthetic distinction seek to cast doubt on the idea that there is a notion of meaning which is clear enough to use in defining a notion of analyticity. He explores various proposals and finds them wanting. (See especially Quine 1951.) Here too a crucial role is played by holism. One apparently clear conception of meaning is that the meaning of a sentence is given by the experiences which would confirm it; holism, however, implies that the idea of confirmation does not apply to individual sentences, considered in isolation from the theories of which they are parts. (For criticism see Fodor and Lepore 1992; for a counter to Fodor and Lepore see Heal 1994; for later Quine on holism see his 1991.)[^fodor-1992][^heal-1994]
 
-Quine’s scepticism about the idea of meaning is much criticized. We will mention two criticisms. First, what standards of clarity is he employing, when he says that the notion of analyticity is insufficiently clear? The answer, not explicit in Quine (1951), is that the standards are those indicated by our discussion in the previous section; Quine is asking for an explanation which is acceptable by his naturalistic standards (see Lugg 2012)[^lugg-2012]. Such an explanation would not presuppose an idea of meaning, and would use such ideas as definition or convention only in ways which are justified by the literal sense of those terms. Second, some responses to Quine’s position here argue that it has obviously absurd consequences, such as that meaningful discourse would be impossible or that we could not understand our language. (See, for example, Grice and Strawson, 1956.)[^see-1956][^grice-1956] But Quine’s scepticism about *meanings* does not lead to any scepticism about *meaningfulness*. If we think of meaningfulness as a matter of *having a meaning* then we may think that our words cannot be meaningful unless there are meanings. But such a way of thinking is, Quine claims, quite misleading. In Quine 1953, he offers a rough and ready behavioural account of meaningfulness; it is clear from the way the account proceeds that the success of something along those lines would be of no help at all in defining synonymy or analyticity.
+Quine’s scepticism about the idea of meaning is much criticized. We will mention two criticisms. First, what standards of clarity is he employing, when he says that the notion of analyticity is insufficiently clear? The answer, not explicit in Quine (1951), is that the standards are those indicated by our discussion in the previous section; Quine is asking for an explanation which is acceptable by his naturalistic standards (see Lugg 2012)[^lugg-2012]. Such an explanation would not presuppose an idea of meaning, and would use such ideas as definition or convention only in ways which are justified by the literal sense of those terms. Second, some responses to Quine’s position here argue that it has obviously absurd consequences, such as that meaningful discourse would be impossible or that we could not understand our language. (See, for example, Grice and Strawson, 1956.)[^grice-1956] But Quine’s scepticism about *meanings* does not lead to any scepticism about *meaningfulness*. If we think of meaningfulness as a matter of *having a meaning* then we may think that our words cannot be meaningful unless there are meanings. But such a way of thinking is, Quine claims, quite misleading. In Quine 1953, he offers a rough and ready behavioural account of meaningfulness; it is clear from the way the account proceeds that the success of something along those lines would be of no help at all in defining synonymy or analyticity.
 
 We said above that Quine seeks ‘to cast doubt’ on the idea of meaning, and on the use of that idea to explain the distinction between those changes of doctrine which involve a change of meaning and those which do not, and thus also to explain analyticity. One might read Quine 1951 and get the impression that he is not merely casting doubt but wholly rejecting these ideas. In later works, however, he himself suggests a definition of analyticity. A sentence is analytic for a given native speaker ‘if he learned the truth of the sentence by learning to use one or more of its words’ (Quine 1991, 270; see also Quine 1974, 78–80). It is analytic without qualification if it is analytic for all native speakers. By this criterion, some obvious truths, such as ‘Bachelors are unmarried’, will presumably count as analytic. If we think of the set of analytic sentences as closed under logical consequence, as Quine suggests, then, he says, all first-order logical truths ‘would then perhaps qualify as analytic’ (Quine 1991, 270). Along with this, he comes to accept that certain revisions of belief do involve a change of meaning, presumably in a sufficiently clear sense of meaning (Quine 1991, 270).
 
@@ -128,7 +128,7 @@ On the interpretation advanced here, Quine’s rejection of the Principle of Tol
 
 As we saw in section 2, Quine takes the fundamental epistemological problem to be that of showing how we come to have knowledge of the world. He seeks an account which is naturalistic in his austere sense, and thus starts with the idea that we know about the world only from impacts of various forms of energy on our sensory nerves (see 2.3, above). How do we get from such impacts to something recognizable as knowledge of the world? In the words of the title of Quine’s last monograph: how do we get from stimulus to science?
 
-This question is central for Quine’s scientific naturalism in general. An answer would show that that world-view can accommodate an account of human knowledge. If no answer is available, that world-view is cast in doubt. For these purposes it is perhaps enough if Quine can sketch an account, compatible with his naturalistic view, of how we *might* acquire the knowledge which we take ourselves to have, whether or not it is correct in detail. (See Quine 1990c, 291.)[^see-1990c]
+This question is central for Quine’s scientific naturalism in general. An answer would show that that world-view can accommodate an account of human knowledge. If no answer is available, that world-view is cast in doubt. For these purposes it is perhaps enough if Quine can sketch an account, compatible with his naturalistic view, of how we *might* acquire the knowledge which we take ourselves to have, whether or not it is correct in detail. (See Quine 1990c, 291.)
 
 Quine treats knowledge as embodied in language. Apart from other considerations, language-use is observable and thus subject to scientific inquiry. Quine’s concern with how we might acquire knowledge thus takes the form of a concern with how we might acquire cognitive language. But his interest here is in epistemology, rather than in language for its own sake: “I am interested in the flow of evidence from the triggering of the senses to the pronouncements of science…. It is these epistemological concerns, and not my incidental interest in linguistics, that motivate my speculations.” (1990b, 3).
 
@@ -148,7 +148,7 @@ Even the individualistic criterion raises considerable complications and difficu
 
 With the account of perceptual similarity in place, we can say what it is for a sentence to be observational for me: if I am disposed to assent to it on one occasion on which I have a certain neural intake, then I will also be disposed to assent to it on any other occasion on which I have neural intake which is (sufficiently) perceptually similar for me at that time.
 
-It is worth emphasizing the fact that the definition of the key notion of perceptual similarity is behavioural. It avoids any idea of experience, of awareness, of what strikes the person (or other animal) as more similar to what. It is simply a matter of responses, and thus of behaviour. (Assent is also treated as behavior, as sound-making propensities; see 1975c pp. 87–88). This is in accord with Quine’s insistence on what he takes to be scientific standards of clarity and rigour. One consequence of it is that the notion cannot be invoked to *explain* behaviour. Quine is under no illusions on this score. (See 1975c, 87, where the point is explicit.)[^see-1975c] The behavioural account does not *explain* our understanding of observation sentences; explanation, if possible at all, comes at the neuro-physiological level. What the behavioural account does is to make clear exactly what behaviour constitutes that understanding and, hence, what the neuro-physiological account would have to explain. (It also shows that there is indeed something to be explained.)
+It is worth emphasizing the fact that the definition of the key notion of perceptual similarity is behavioural. It avoids any idea of experience, of awareness, of what strikes the person (or other animal) as more similar to what. It is simply a matter of responses, and thus of behaviour. (Assent is also treated as behavior, as sound-making propensities; see 1975c pp. 87–88). This is in accord with Quine’s insistence on what he takes to be scientific standards of clarity and rigour. One consequence of it is that the notion cannot be invoked to *explain* behaviour. Quine is under no illusions on this score. (See 1975c, 87, where the point is explicit.) The behavioural account does not *explain* our understanding of observation sentences; explanation, if possible at all, comes at the neuro-physiological level. What the behavioural account does is to make clear exactly what behaviour constitutes that understanding and, hence, what the neuro-physiological account would have to explain. (It also shows that there is indeed something to be explained.)
 
 So far we have only an account of what it is for a sentence to be an observation sentence for a particular person. But our language is shared, as it must be if it is to enable us to communicate with one another. So we need to generalize the criterion across the linguistic community. One might at first think that the social criterion would be: if one person is disposed to assent to the sentence on any occasion on which he or she has a certain neural intake, then any other person having the same neural intake will also be disposed to assent to it. Quine gives essentially this account in (1960). As he quickly comes to see, however, it is not tenable, for it assumes that we can make sense of the idea of “same neural intake” between different people. But different people have different sensory nerves (and there is no reason to suppose that one person’s sensory nerves are homologous to those of others; see Quine 1969, chapter 6).
 
@@ -216,7 +216,7 @@ The most controversial application of this view is to mental phenomena. Within t
 
 Propositional attitudes also raise a different kind of issue. Attributions of such attitudes violate extensionality. If Mary is the Dean, still Tom’s believing that the Dean sings well is not the same as his believing that Mary sings well, since her accession to the Deanship may be unknown to him. Quine escapes this sort of problem by taking an attribution of belief to express a relation between the believer and a *sentence*, understood to be, in the usual case, in the language of the ascriber (not the language of the believer, where the languages differ).
 
-It is worth noting the idea of another sense of belief-ascription which would not be vulnerable even *prima facie* problems of extensionality: so-called *de re* belief, as distinct from *de dicto* belief. In the 1950s Quine argued that there must be such a sense. In the late 1960s, however, he abandoned the idea, for lack of clear standards of when it is correct to ascribe a *de re* belief to someone. (See Quine 1956 for a statement of the distinction, and Quine 1973 for retraction.)[^see-1956] Other philosophers, however, continue to hold the idea. (See, for example, Kaplan 1968, Kripke 1979.)[^kaplan-1968][^kripke-1979]
+It is worth noting the idea of another sense of belief-ascription which would not be vulnerable even *prima facie* problems of extensionality: so-called *de re* belief, as distinct from *de dicto* belief. In the 1950s Quine argued that there must be such a sense. In the late 1960s, however, he abandoned the idea, for lack of clear standards of when it is correct to ascribe a *de re* belief to someone. (See Quine 1956 for a statement of the distinction, and Quine 1973 for retraction.) Other philosophers, however, continue to hold the idea. (See, for example, Kaplan 1968, Kripke 1979.)[^kaplan-1968][^kripke-1979]
 
 Construing attributions of belief as statements of attitudes towards sentences gives them a syntax and an ontology that Quine can accept. That does not, however, show that the idiom “*A* believes that *p*” satisfies his physicalistic criterion, i.e. that all statements of this form correspond to (physical) facts. The matter is complicated. Quine certainly accepts that most uses of this idiom are factual. The relevant facts are neurophysiological states of the person concerned, and those states are causally connected with actions which the person performs, or would perform under certain circumstances, and which we would count as manifestations of the belief, or lack of belief. (Assenting or dissenting when asked is one such action, but only one among a myriad.) In cases where we have evidence for or against the ascription of a belief to someone, the evidence consists in behaviour and there are presumably neurophysiological states which explain the behaviour. Those states are not in practice specifiable in neurophysiological terms. Nevertheless, the person’s being in those states is the physical fact in which the truth of the ascription consists. Even where there is no behaviour of the relevant kind, there may still be dispositions to behave in those ways under certain unrealized circumstances. The dispositions are the physical states in which the truth of the ascription consists. So in most cases where we ascribe belief, there is a fact of the matter which makes the ascription true or false. (More on dispositions a few paragraphs hence.)
 
@@ -333,65 +333,65 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 
 [^see-1986]: See also the bibliography in Edwin Hahn and Paul Arthur Schilpp (eds.), 1986, *The Philosophy of W. V. Quine*, Peru, IL: Open Court; second, expanded edition, 1998, which is complete up to 1997.
 
-[^see-1951]: 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43; reprinted in *From a Logical Point of View*, pp. 20–46.
+[^text-1951]: 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43; reprinted in *From a Logical Point of View*, pp. 20–46.
 
-[^see-1953]: 1953, *From a Logical Point of View*, Cambridge, Mass.: Harvard University Press, 1953, revised edition 1980.
+[^text-1953]: 1953, *From a Logical Point of View*, Cambridge, Mass.: Harvard University Press, 1953, revised edition 1980.
 
-[^see-1957]: 1957, “The Scope and Language of Science”, *British Journal for the Philosophy of Science*, 8: 1–17; reprinted in Quine 1966. (Note: there is an earlier publication with what Quine describes as “a corrupt text” in Leary (ed.), *The Unity of Knowledge*, New York: Doubleday, 1955.)
+[^text-1957]: 1957, “The Scope and Language of Science”, *British Journal for the Philosophy of Science*, 8: 1–17; reprinted in Quine 1966. (Note: there is an earlier publication with what Quine describes as “a corrupt text” in Leary (ed.), *The Unity of Knowledge*, New York: Doubleday, 1955.)
 
-[^see-1956]: 1956, “Quantifiers and Propositional Attitudes”, *Journal of Philosophy*, 53: 177–87.
+[^text-1956]: 1956, “Quantifiers and Propositional Attitudes”, *Journal of Philosophy*, 53: 177–87.
 
-[^see-1960]: 1960, *Word and Object*, Cambridge, Mass.: M.I.T. Press, 1960.
+[^text-1960]: 1960, *Word and Object*, Cambridge, Mass.: M.I.T. Press, 1960.
 
-[^see-1966]: 1966, *Ways of Paradox*, New York: Random House, 1966; second edition, enlarged, Cambridge: Harvard University Press, 1976.
+[^text-1966]: 1966, *Ways of Paradox*, New York: Random House, 1966; second edition, enlarged, Cambridge: Harvard University Press, 1976.
 
-[^see-1969]: 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969.
+[^text-1969]: 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969.
 
-[^see-1970]: 1970, “Reasons for the Indeterminacy of Translation”, *The Journal of Philosophy* 67: 178–83.
+[^text-1970]: 1970, “Reasons for the Indeterminacy of Translation”, *The Journal of Philosophy* 67: 178–83.
 
-[^see-1974]: 1974, *Roots of Reference*, La Salle, Ill.: Open Court, 1974.
+[^text-1974]: 1974, *Roots of Reference*, La Salle, Ill.: Open Court, 1974.
 
-[^see-1975a]: 1975a, “Empirically Equivalent Systems of the World”, *Erkenntnis*, 9: 313–28.
+[^text-1975a]: 1975a, “Empirically Equivalent Systems of the World”, *Erkenntnis*, 9: 313–28.
 
-[^see-1975b]: 1975b, “The Nature of Natural Knowledge”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 67–81.
+[^text-1975b]: 1975b, “The Nature of Natural Knowledge”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 67–81.
 
-[^see-1975c]: 1975c, “Mind and Verbal Dispositions”, in S. Guttenplan (ed.) *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 83–95.
+[^text-1975c]: 1975c, “Mind and Verbal Dispositions”, in S. Guttenplan (ed.) *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 83–95.
 
-[^see-1976]: 1976, “Whither Physical Objects?”, *Boston Studies in Philosophy of Science*, 39: 497–504.
+[^text-1976]: 1976, “Whither Physical Objects?”, *Boston Studies in Philosophy of Science*, 39: 497–504.
 
-[^see-1977]: 1977, “Intensions Revisited”, *Midwest Studies in Philosophy*, 2: 5–11.
+[^text-1977]: 1977, “Intensions Revisited”, *Midwest Studies in Philosophy*, 2: 5–11.
 
-[^see-1981]: 1981, *Theories and Things*, Cambridge, MA: Harvard University Press, 1981.
+[^text-1981]: 1981, *Theories and Things*, Cambridge, MA: Harvard University Press, 1981.
 
-[^see-1984]: 1984, “Relativism and Absolutism” *The Monist*, 67: 293–96.
+[^text-1984]: 1984, “Relativism and Absolutism” *The Monist*, 67: 293–96.
 
-[^see-1986a]: 1986a, “Reply to Hilary Putnam” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 427–31.
+[^text-1986a]: 1986a, “Reply to Hilary Putnam” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 427–31.
 
-[^see-1986b]: 1986b, “Reply to Roger F. Gibson Jr.” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 684–85.
+[^text-1986b]: 1986b, “Reply to Roger F. Gibson Jr.” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 684–85.
 
-[^see-1986c]: 1986c, “Reply to John Woods” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 726–28.
+[^text-1986c]: 1986c, “Reply to John Woods” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 726–28.
 
-[^see-1986d]: 1986d, “Reply to Paul A. Roth” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 459–61.
+[^text-1986d]: 1986d, “Reply to Paul A. Roth” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 459–61.
 
-[^see-1986e]: 1986e, “Reply to Jaakko Hintikka” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 227f.
+[^text-1986e]: 1986e, “Reply to Jaakko Hintikka” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 227f.
 
-[^see-1990a]: 1990a, *Pursuit of Truth*, Cambridge, MA: Harvard University Press, 1990; revised edition, 1992.
+[^text-1990a]: 1990a, *Pursuit of Truth*, Cambridge, MA: Harvard University Press, 1990; revised edition, 1992.
 
-[^see-1990b]: 1990b, “Three Indeterminacies” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 1–16.
+[^text-1990b]: 1990b, “Three Indeterminacies” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 1–16.
 
-[^see-1990c]: 1990c, “Comment on Parsons” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 291–3.
+[^text-1990c]: 1990c, “Comment on Parsons” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 291–3.
 
-[^see-1990d]: 1990d, “Comment on Hintikka” in Barrett, Robert and Gibson, *Perspectives on Quine*, p. 176.
+[^text-1990d]: 1990d, “Comment on Hintikka” in Barrett, Robert and Gibson, *Perspectives on Quine*, p. 176.
 
-[^see-1991]: 1991, “Two Dogmas in Retrospect”, *Canadian Journal of Philosophy*, 21: 265–74.
+[^text-1991]: 1991, “Two Dogmas in Retrospect”, *Canadian Journal of Philosophy*, 21: 265–74.
 
-[^see-1995]: 1995, *From Stimulus to Science*, Cambridge, MA: Harvard University Press, 1995.
+[^text-1995]: 1995, *From Stimulus to Science*, Cambridge, MA: Harvard University Press, 1995.
 
-[^see-1996]: 1996, “Progress on Two Fronts”, *Journal of Philosophy*, 93: 159–63,
+[^text-1996]: 1996, “Progress on Two Fronts”, *Journal of Philosophy*, 93: 159–63,
 
-[^see-2000]: 2000, “I, You, and It”, in eds. Orenstein, Alex and Petr Kotatko, *Knowledge, Language and Logic*, Dordrecht, Holland: Kluwer Academic Publishers, 2000.
+[^text-2000]: 2000, “I, You, and It”, in eds. Orenstein, Alex and Petr Kotatko, *Knowledge, Language and Logic*, Dordrecht, Holland: Kluwer Academic Publishers, 2000.
 
-[^see-2018]: 2018, *The Significance of the New Logic*, ed. and trans. by Walter Carnelli, Frederique Janssen-Lauret and William Pickering, Cambridge: Cambridge University Press.
+[^text-2018]: 2018, *The Significance of the New Logic*, ed. and trans. by Walter Carnelli, Frederique Janssen-Lauret and William Pickering, Cambridge: Cambridge University Press.
 
 [^alston-1993]: Alston, William P., 1993, *The Reliability of Sense Perception*, Ithaca NY: Cornell University Press.
 

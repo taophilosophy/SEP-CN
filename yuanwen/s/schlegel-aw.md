@@ -59,7 +59,7 @@ Although subject to scholarly debate (Esterhammer 2002a: 153)[^esterhammer-2002a
 
 Art is not a mere ‘imitation’ or ‘representation’ of nature; art is the product of a *creative force*. This sentence, crystallizing one of the fundamental ideas of German Romantic aesthetics, constitutes the core of one of A.W. Schlegel’s most well-known Berlin lectures (delivered in 1802). Sections of these lectures were published in the Viennese journal, *Prometheus* in 1808 and re-collected in his *Kritische Schriften II* in 1828, and then again in 1846 (SW: IX). These are *Über das Verhältniss der schönen Kunst zur Natur; Über Täuschung und Wahrscheinlichkeit; Über Manier und Stil* (*On the Relationship of Art to Nature; On Illusion and Probability; On Style and Manner*). The importance of these essays lies not only in the thesis itself (an idea that we also find in other texts of that period, such as Schelling’s 1807 essay *Über das Verhältniß der bildenden Künsten zu der Natur (On the Relationship of Visual Arts to Nature*), but rather in the way Schlegel developed his argument.
 
-Schlegel argues in favor of a Modern (i.e., Romantic) art theory, in opposition to the representationalist and mimetic doctrines that go back to Aristotle’s *Poetics* and conceive the work of the artist as that of a craftsman copying the beauty of nature (Abrams 1953: 48)[^abrams-1953]. But his critique of the classicist formula ‘art imitates nature’ was accompanied by a careful analysis of the different meanings the term ‘nature’ had come to assume within aesthetic discourses. This philological and historical approach is distinctive of Schlegel’s writings and lends intelligibility and clarity to the texts without eroding their philosophical sharpness. Undoubtedly, the Romantic notion of art goes hand in hand with a reevaluation of the concept of nature. (In this sense, Schelling is very much following A.W. Schlegel in his essay from 1807.)[^schlegel-1807] Similar to other authors who also were inspired by Spinoza’s distinction between *natura naturans* and *natura naturata*, Schlegel argues that, from a philosophical point of view, everything participates in an ongoing process of creation, whereas, from an empirical point of view, natural things are conceived as if they were dead, fixed and independent from the whole. This means that, in its purest and philosophical sense, nature is not perceptible in the same way the worldly objects are. However, unlike Schelling with his ‘intellectual intuition’ or *intellektuelle Anschauung*, Schlegel did not develop an elaborate theory to give account of this different form of perception; he succinctly argued that the comprehension of nature’s true essence is more like a *presentiment* (*ahnen*) or an aesthetic contemplation, than like scientific knowledge. In order to realize this ‘Romantic’ notion of nature, one needs to comprehend or rather feel oneself as an organic whole. One needs to achieve self-awareness and to recognize oneself as forming part of a larger unity. This resort to a non-theoretical or non-discursive plane as an essential constituent of human knowledge was also important in Schlegel’s philosophy of language, which he already expounded in his *Letters on Poetry, Meter and Language* (*Briefe über Poesie, Sylbenmaß und Sprache*) in 1795.
+Schlegel argues in favor of a Modern (i.e., Romantic) art theory, in opposition to the representationalist and mimetic doctrines that go back to Aristotle’s *Poetics* and conceive the work of the artist as that of a craftsman copying the beauty of nature (Abrams 1953: 48)[^abrams-1953]. But his critique of the classicist formula ‘art imitates nature’ was accompanied by a careful analysis of the different meanings the term ‘nature’ had come to assume within aesthetic discourses. This philological and historical approach is distinctive of Schlegel’s writings and lends intelligibility and clarity to the texts without eroding their philosophical sharpness. Undoubtedly, the Romantic notion of art goes hand in hand with a reevaluation of the concept of nature. (In this sense, Schelling is very much following A.W. Schlegel in his essay from 1807.) Similar to other authors who also were inspired by Spinoza’s distinction between *natura naturans* and *natura naturata*, Schlegel argues that, from a philosophical point of view, everything participates in an ongoing process of creation, whereas, from an empirical point of view, natural things are conceived as if they were dead, fixed and independent from the whole. This means that, in its purest and philosophical sense, nature is not perceptible in the same way the worldly objects are. However, unlike Schelling with his ‘intellectual intuition’ or *intellektuelle Anschauung*, Schlegel did not develop an elaborate theory to give account of this different form of perception; he succinctly argued that the comprehension of nature’s true essence is more like a *presentiment* (*ahnen*) or an aesthetic contemplation, than like scientific knowledge. In order to realize this ‘Romantic’ notion of nature, one needs to comprehend or rather feel oneself as an organic whole. One needs to achieve self-awareness and to recognize oneself as forming part of a larger unity. This resort to a non-theoretical or non-discursive plane as an essential constituent of human knowledge was also important in Schlegel’s philosophy of language, which he already expounded in his *Letters on Poetry, Meter and Language* (*Briefe über Poesie, Sylbenmaß und Sprache*) in 1795.
 
 In any case, the philosophical or Romantic notion of nature as an unfathomable unity and creative force that cannot be seen nor touched, and which is obviously a direct response to some of the many questions raised by Kant’s three *Critiques*, is not to be understood as a mere intellection, an empty chimera: Nature is the productive force pulsing in all living beings. For Schlegel, nature is organic in the sense that it is an organized and organizing principle, granting intelligence to the totality of existing beings. It is a creative force that produces independent living things, the life of which does not need any external mechanism to keep its autonomy, for it only depends on its inner, natural power to live (as is the case with Leibniz’ *vis activa*). At this point Schlegel mentions the astrological doctrines that claim that even the tiniest atom is a mirror of the universe. The idea of Nature mirroring itself in each and every living organism is characteristic both of German Idealism and German Romanticism. The difference between human beings and other animals, plants, or mineral structures is that, (1) human beings are able to understand the fact that they, as an organism, mirror Nature’s organic structure; and furthermore, (2) that they are capable of reproducing nature’s creativity through art, as well as reflecting upon this fact. This reasoning induced Schlegel to define human genius and his/her poetical creativity as a whole (i.e., art and language) as the capability of producing a world within a world (Müller-Vollmer 2000 [2002]: 317)[^müller-vollmer-2000]; a definition which is most tangible in dramatic literature.
 
@@ -223,44 +223,6 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^schlegel-nd]: The abbreviations used for references to, or quotations of, A.W. Schlegel are indicated below, at the beginning of the bibliography entries for the cited editions. All translation from German are mine.
 
-[^schlegel-1846]: 1846–1848, *Sämtliche Werke* [**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (*Œuvres*, in 3 volumes, 1848) and in Latin (*Opuscula*, *quae Schlegelius latine scripta reliquit*, 1848).
-
-[^schlegel-1962]: 1962–1974, *Kritische Schriften und Briefe*, edited by Edgar Lohner, Stuttgart: W. Kohlhammer.
-
-[^schlegel-1989]: 1989–in progress, *Kritische Ausgabe der Vorlesungen*, 6 vol., edited by Ernst Behler and Frank Jolles, Paderborn, Munich: F. Schöningh.
-
-[^schlegel-1800]: 1800, *Gedichte*, Tübingen: Cotta.
-
-[^schlegel-1803]: 1803, *Ion*, Ein Schauspiel, Hamburg: Perthes.
-
-[^schlegel-1811]: 1811, *Poetische Werke*, 2 vols., Heidelberg: Mohr & Zimmer.
-
-[^schlegel-1798]: 1798–1800, *Athenaeum* [**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
-
-[^schlegel-1801]: 1801, *Charakteristiken und Kritiken*, with Friedrich Schlegel, 2 vols., Königsberg: Nicolovius.
-
-[^schlegel-1807]: 1807, *Comparaison entre la Phèdre de Racine et celle d’Euripide*, Paris : Tourneisen Fils ; reedited with slight modifications in 1842, Essais littéraires et historiques, Bonn: Edouard Weber, pp. 85 ff).
-
-[^schlegel-1809]: 1809–11, *Über dramatische Kunst und Literatur. Vorlesungen*, 3 vols., Heidelberg: Mohr & Zimmer.
-
-[^schlegel-1813]: 1813, *Sur le système continental et sur les rapports avec la Suède*, Hamburg.
-
-[^schlegel-1816]: 1816, *Der deutsche Mann und der Patriot im Streit*, Philadelphia: Spottvogel (i.e., Reutlingen: Mäken).
-
-[^schlegel-1820]: 1820–30, *Indische Bibliothek* [**IB**], 3 vols., Bonn: Weber.
-
-[^schlegel-1828]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
-
-[^schlegel-1832]: 1832, *Réflexions sur l’étude des Langues Asiatiques suivies d’une lettre à M. Horace*, Hayman Wilson, Bonn: Edouard Weber.
-
-[^schlegel-1842]: 1842, *Essais littéraires et historiques*, Bonn: Edouard Weber.
-
-[^schlegel-1884]: 1884 (posthumous), *Vorlesungen über schöne Literatur und Kunst* [**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
-
-[^schlegel-1913]: 1913 (posthumous), *Geschichte der deutschen Sprache und Poesie*, (Lectures delivered at Bonn University between 1818–1819, edited by J. Körner, Berlin: Behr.
-
-[^schlegel-2012]: 2012–2026 (posthumous), *August Wilhelm Schlegel. Kritische Ausgabe der Vorlesungen*, 6 vols., edited by Frank Jolles, Ernst Behler, Georg Braungart, Sabine Gruber, Edith Höltenschmidt and Stefan Knödler; Paderborn: Brill/Schöhning. [[Contents listed at the Brill webpage for this work.](https://brill.com/display/serial/AWSV)]
-
 [^rendorps-1793]: Rendorps, Joachim, 1793, *Joachim Rendorps geheime Nachrichten zur Aufklärung der Vorfälle während des letzten Kriegs zwischen England und Holland*, Leipzig: Heinsius.
 
 [^william-1797]: William Shakespeare, 1797–1810, *Shakespeare’s Dramatische Werke*, with Caroline Schlegel, Ludwig and Dorothea Tieck, 9 vols., Berlin: Unger.
@@ -276,26 +238,6 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 [^albertine-1823]: anonymous, 1823, *Bhagavad-Gita*, Bonn: Weber.
 
 [^albertine-1829]: anonymous, 1829–46, *Ramayana*, 4 vols, Bonn: Weber.
-
-[^albertine-1922]: 1922, *August Wilhelm Schlegels Briefwechsel mit seinen Heidelberger Verlegern*, edited by Erich Jenisch, Heidelber: Winter.
-
-[^albertine-1930]: 1930, *Briefe von und an August Wilhelm Schlegel*, edited by Josef Körner, Zürich, Leipzig, Vienna: Amalthea.
-
-[^albertine-1936]: 1936–37 and 1958, *Kriesenjahre der Frühromantik. Briefen aus dem Schlegelkreis*, edited by Josef Körner, Vienna, Leipzig: Rohrer and Berne: Francke.
-
-[^albertine-1972]: 1972, *Ludwig Tieck und die Brüder Schlegel. Briefe*, edited by Edgar Lohner, Munich: Winkler.
-
-[^albertine-2012]: 2012, *Der Briefwechsel zwischen August Wilhelm von Schlegel und seiner Bonner Haushälterin Maria Löbel*, Historisch-kritische Ausgabe, edited by Ralf G. Czapla and Franca V. Schwankweiler, Bonn: Bernstein.
-
-[^albertine-2013]: 2013, *Founders of Western Indology. August Wilhelm Schlegel and Henry Thomas Colebrooke in Correspondance 1820–1837*, edited by Rosane Rocher and Ludo Rocher, Wiesbaden: Harrassowitz.
-
-[^albertine-2015]: 2015, *Der Briefwechsel zwischen Christian Friedrich Tieck und August Wilhelm Schlegel in den Jahren 1804 bis 1811*, edited by Cornelia Bögel, Dresden: Thelem.
-
-[^albertine-1813]: 1813, *The Continental System, and its relations with Sweden*, London: J.J. Stockdale; anonymous translation.
-
-[^albertine-1815]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
-
-[^albertine-1944]: 1944 (1833), *A.W. Schlegel’s Lectures on German literature from Gottsched to Goethe*, Oxford: B. Blackwell (notes taken by George Toynbee).
 
 [^abrams-1953]: Abrams, Meyer Howard, 1953, *The Mirror and the Lamp: Romantic Theory and the Critical Tradition*, London: Oxford University Press.
 
