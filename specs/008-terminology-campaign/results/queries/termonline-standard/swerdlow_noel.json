@@ -1,0 +1,19 @@
+{
+ "key": "swerdlow, noel",
+ "term": "Swerdlow, Noel",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:40:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "未观察到可见作用剂量",
+   "en": "no-observed-effect level(NOEL)",
+   "code": "GB/T 21752—2008",
+   "standard": "化学品 啮齿动物28天重复剂量经口毒性试验方法",
+   "subject": "环保、保健和安全"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 1}, \"sourceStats\": {\"环保、保健和安全\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"dbf7b75526ec47bfa299461af0abe3f5\", \"databaseId\": null, \"standardId\": \"b34d66c9a91447c7878c4b1aae04e9d7\", \"standardCode\": \"GB/T 21752—2008\", \"standardName\": \"化学品 啮齿动物28天重复剂量经口毒性试验方法\", \"standardEnName\": \"Chemicals-Test method of repeated dose 28-day oral toxicity study in rodents\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"2.4\", \"cnName\": \"未观察到可见作用剂量\", \"enName\": \"no-observed-effect level(NOEL)\", \"publishTime\": \"2008-05-12\", \"publishYear\": \"2008\", \"implementTime\": \"2008-09-01\", \"ics\": \"13.300;11. 100\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183661, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"未观察到可见作用剂量\", \"cnNameSearch\": \"未观察到可见作用剂量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"no-observed-effect level(NOEL)\", \"wordSearch\": \"no-observed-effect level(NOEL)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"未发现可引起任何观察指标发生改变的最高剂量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794670803309}"
+}

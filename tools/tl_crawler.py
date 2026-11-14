@@ -391,13 +391,14 @@ def main(argv=None):
         st = _load_state()
         offset = args.start if args.start is not None else st.get('next_offset', 0)
         c = Crawler(headless=not args.headed, interval=args.interval,
-                    batch_gap=args.batch_gap)
+                    batch_gap=args.batch_gap, warm_every=args.warm_every)
         try:
             if not c.token():
                 c.warm('logic', extra_wait=4000)
             if not c.token():
                 print('无登录令牌：先 --login（或跑 script/tl_session_import_20261109.py 导入）')
                 return 2
+            c.activate(c.token())  # 开跑先续窗一次（进程重启后窗口可能已过期）
             for b in range(args.batches):
                 chunk = items[offset:offset + args.size]
                 if not chunk:

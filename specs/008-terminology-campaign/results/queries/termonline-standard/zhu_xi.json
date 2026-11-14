@@ -1,0 +1,19 @@
+{
+ "key": "zhu xi",
+ "term": "Zhu Xi",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:36:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "压入力 P<sub>xi</sub>",
+   "en": "press-in force",
+   "code": "GB/T 5371—2004",
+   "standard": "极限与配合  过盈配合的计算和选用",
+   "subject": "计量学和测量、物理现象"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2004\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"fe0e2e7217154062a8d50fafebb7f7af\", \"databaseId\": null, \"standardId\": \"97a7637f033b413a8e8aac750b041aa0\", \"standardCode\": \"GB/T 5371—2004\", \"standardName\": \"极限与配合  过盈配合的计算和选用\", \"standardEnName\": \"Limits and fits——The calculation and selection of interference fits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.14\", \"cnName\": \"压入力 P<sub>xi</sub>\", \"enName\": \"press-in force\", \"publishTime\": \"2004-11-11\", \"publishYear\": \"2004\", \"implementTime\": \"2005-07-01\", \"ics\": \"17.040.10\", \"ccs\": \"J 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159080, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"压入力 P<sub>xi</sub>\", \"cnNameSearch\": \"压入力 P<sub>xi</sub>\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"press-in force\", \"wordSearch\": \"press-in force\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在实现纵向过盈联结的过程中施加的最大轴向力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794670591174}"
+}

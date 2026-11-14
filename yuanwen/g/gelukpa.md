@@ -133,14 +133,14 @@ Madhyamaka | Nāgārjuna | Tsongkhapa | two truths in Tibet, theory of
 
 [^thurman-1980]: Thurman, Robert, 1980. “Philosophical Nonegocentrism in Wittgenstein and Chandrakīrti,” *Philosophy East and West*, 30(3): 321–337.
 
-[^tsongkhapa-2000]: Tsongkhapa (*tsong kha pa blo bzang grags pa*, 1357–1419), 2000. *Great Exposition of the Stages of the Path* (*lam rim chen mo*), Xining: Nationalities Press; English translation in Lamrim Chenmo Translation Committee, Joshua W.C. Cutler (ed.), *The Great Treatise on the States of the Path to Enlightenment* (Vols. 1–3), Ithaca, NY: Snow Lion Publications, 2000–2004.
+[^tsongkhapa-2000]: Tsongkhapa (*tsong kha pa blo bzang grags pa*, 1357–1419), 2000. *Great Exposition of the Stages of the Path* (*lam rim chen mo*), Xining: Nationalities Press; English translation in Lamrim Chenmo Translation Committee, Joshua W.C. Cutler (ed.), *The Great Treatise on the Stages of the Path to Enlightenment* (Vols. 1–3), Ithaca, NY: Snow Lion Publications, 2000–2004.
 
 [^tsongkhapa-1979]: –––, 1979. *The Lesser Exposition of the Stages of the Path* (*lam rim chung ba*), *Collected Works* (Volume 21), 1–438, New Delhi: Ngawang Gelek Demo.
 
 [^tsongkhapa-1998]: –––, 1998. *Thoroughly Illuminating the Viewpoint* (*dgongs pa rab gsal*), *Tsongkhapa’s Collected Works* (Volume 16), 443–751, Qinghai: Nationalities Press; English translation in Thupten Jinpa, *Illuminating the Intent: An Exposition of Candrakīrti’s Entering the Middle Way*, Sommerville, MA: Wisdom Publications, 2021.
 
-[^tsongkhapa-2001]: –––, 2001. *Three Principal Aspects of the Path* (*lam byi gtso bo rnam gsum*), *Tsongkhapa’s Collected Works*, Qinghai: Nationalities Press.
+[^tsongkhapa-2001]: –––, 2001. *Three Principal Aspects of the Path* (*lam gtso rnam gsum*), *Tsongkhapa’s Collected Works*, Qinghai: Nationalities Press.
 
-[^tsongkhapa-2008]: –––, 2008. *Essence of Eloquence* (*drang nges legs bshad snying po*), *Tsongkhapa’s* *Collected Works* (Volume 14), 321–1502, Qinghai: *sku ’bum byams pa gling*.
+[^tsongkhapa-2008]: –––, 2008. *Essence of Eloquence* (*drang nges legs bshad snying po*), *Tsongkhapa’s Collected Works* (Volume 14), 321–1502, Qinghai: *sku ’bum byams pa gling*.
 
 [^yakherds-2021]: The Yakherds, 2021. *Knowing Illusion: Bringing a Tibetan Debate into Contemporary Discourse* (Volumes 1–2), New York: Oxford University Press.
