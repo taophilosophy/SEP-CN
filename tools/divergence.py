@@ -167,13 +167,27 @@ def check_consistency(files_idx, divs, sha_of, deep=False, blob_sha=None,
     return summary, failures
 
 
+def pristine_bytes(d, p):
+    """分歧条目的原始字节：base_snapshot 快照文件优先，否则 base_commit 的 git blob。"""
+    if d.get("base_snapshot"):
+        sp = repo_path(d["base_snapshot"])
+        if os.path.exists(sp):
+            return open(sp, "rb").read()
+        return None
+    r = subprocess.run(["git", "show", "%s:%s" % (d["base_commit"], p)],
+                       cwd=repo_path("."), capture_output=True)
+    return r.stdout if r.returncode == 0 else None
+
+
 def cmd_verify(args):
     files_idx = ledger_index()
     div = load_divergences()
     summary, failures = check_consistency(
         files_idx, div.get("divergences", []),
         sha_of=lambda p: sha256_file(repo_path(p)) if os.path.exists(repo_path(p)) else None,
-        deep=args.deep, blob_sha=git_blob_sha if args.deep else None)
+        deep=args.deep, blob_sha=git_blob_sha if args.deep else None,
+        snapshot_sha=(lambda sp: sha256_file(repo_path(sp))
+                      if os.path.exists(repo_path(sp)) else None) if args.deep else None)
     out = {"schema": SCHEMA, "at": utcnow_iso(), **summary}
     print(json.dumps(out, ensure_ascii=False, indent=1))
     return 1 if failures else 0
@@ -253,17 +267,169 @@ def cmd_patch(args):
     if d is None:
         sys.stderr.write("[divergence] %s 未登记分歧\n" % p)
         return 2
-    r = subprocess.run(["git", "show", "%s:%s" % (d["base_commit"], p)],
-                       cwd=repo_path("."), capture_output=True)
-    if r.returncode != 0:
-        sys.stderr.write("[divergence] 原始字节不可取（%s）\n" % d["base_commit"][:10])
+    base = pristine_bytes(d, p)
+    if base is None:
+        sys.stderr.write("[divergence] 原始字节不可取（%s）\n"
+                         % d.get("base_commit", d.get("base_snapshot", "?")))
         return 2
-    old = r.stdout.decode("utf-8", "replace").splitlines()
+    old = base.decode("utf-8", "replace").splitlines()
     new = open(repo_path(p), "rb").read().decode("utf-8", "replace").splitlines()
     sys.stdout.writelines(difflib.unified_diff(
         old, new,
         fromfile="pristine:%s:%s" % (d["base_commit"][:10], p),
         tofile="local:%s" % p, lineterm=""))
+    return 0
+
+
+def _three_way_merge(base_b, ours_b, theirs_b, labels):
+    """git merge-file 三方合并（临时目录内进行，不碰仓库）。
+
+    返回 (merged_bytes, conflicts)；conflicts=0 干净，>0 冲突数（输出含标记），
+    <0 工具错误。"""
+    tmpdir = tempfile.mkdtemp(prefix="divcarry-")
+    try:
+        paths = {}
+        for name, data in (("base", base_b), ("ours", ours_b), ("theirs", theirs_b)):
+            fp = os.path.join(tmpdir, name)
+            with open(fp, "wb") as f:
+                f.write(data)
+            paths[name] = fp
+        r = subprocess.run(
+            ["git", "merge-file", "-p",
+             "-L", "local(%s)" % labels[0], "-L", "base(%s)" % labels[1],
+             "-L", "upstream(%s)" % labels[2],
+             paths["ours"], paths["base"], paths["theirs"]],
+            cwd=tmpdir, capture_output=True)
+        return r.stdout, r.returncode
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
+
+
+def _tmp_stem(slug):
+    return "carry-%s-%s" % (slug, utcnow_iso().replace(":", "").replace("-", ""))
+
+
+def cmd_carry(args):
+    """逆向补丁搬运（ADR-0045 决策 5）：以原始钉为基三方合并，干净即落盘三件
+    （归档新上游快照、写 merged 进 en/、前移钉与账目）；冲突转人工。"""
+    p = args.path.replace(os.sep, "/")
+    div = load_divergences()
+    d = next((x for x in div["divergences"] if x["path"] == p), None)
+    if d is None:
+        sys.stderr.write("[divergence] %s 未登记分歧\n" % p)
+        return 2
+    full = repo_path(p)
+    if not os.path.exists(full):
+        sys.stderr.write("[divergence] %s 文件缺失\n" % p)
+        return 2
+    ours = open(full, "rb").read()
+    if sha256_bytes(ours) != d["local_sha256"]:
+        sys.stderr.write("[divergence] %s 现文件与账目 local_sha256 不符（登记后又被改），先核对\n" % p)
+        return 2
+    if not os.path.exists(args.new):
+        sys.stderr.write("[divergence] 新上游快照 %s 不存在\n" % args.new)
+        return 2
+    theirs = open(args.new, "rb").read()
+    new_sha = sha256_bytes(theirs)
+    if new_sha == d["upstream_sha256"]:
+        print(json.dumps({"carry": p, "result": "unchanged",
+                          "note": "新上游与原始钉一致，无需搬运"}, ensure_ascii=False))
+        return 0
+    base = pristine_bytes(d, p)
+    if base is None:
+        sys.stderr.write("[divergence] 原始字节不可取（锚点缺失）\n")
+        return 2
+    if args.merged:
+        with open(args.merged, "rb") as f:
+            merged = f.read()
+        conflicts = 0
+    else:
+        merged, conflicts = _three_way_merge(
+            base, ours, theirs,
+            (d["local_sha256"][:8], d["upstream_sha256"][:8], new_sha[:8]))
+        if conflicts < 0:
+            sys.stderr.write("[divergence] git merge-file 失败\n")
+            return 2
+    merged_sha = sha256_bytes(merged)
+    if conflicts > 0:
+        out = repo_path("script", "tmp")
+        os.makedirs(out, exist_ok=True)
+        stem = _tmp_stem(d["slug"])
+        cf = os.path.join(out, stem + ".html")
+        open(cf, "wb").write(merged)
+        open(os.path.join(out, stem + "-ours.html"), "wb").write(ours)
+        open(os.path.join(out, stem + "-theirs.html"), "wb").write(theirs)
+        rel = lambda x: os.path.relpath(x, repo_path(".")).replace(os.sep, "/")
+        print(json.dumps({"carry": p, "result": "conflict", "conflicts": conflicts,
+                          "conflict_file": rel(cf), "ours_file": rel(os.path.join(out, stem + "-ours.html")),
+                          "theirs_file": rel(os.path.join(out, stem + "-theirs.html")),
+                          "note": "人工解决后复跑: divergence.py carry %s --new %s --merged <解决件>"
+                                  % (p, args.new)}, ensure_ascii=False, indent=1))
+        return 3
+    if merged_sha == d["local_sha256"]:
+        sys.stderr.write("[divergence] 合并结果与本地一致（上游变更未体现，可疑）\n")
+        return 2
+    # 落盘三件：归档新上游快照（不可变，拒绝覆盖）→ 写 merged → 移钉 → 更新账目
+    snap_rel = "%s/%s-%s.html" % ("/".join(SNAP_DIR), d["slug"],
+                                  utcnow_iso().replace(":", "").replace("-", ""))
+    snap_path = repo_path(*SNAP_DIR, os.path.basename(snap_rel))
+    os.makedirs(os.path.dirname(snap_path), exist_ok=True)
+    if os.path.exists(snap_path):
+        sys.stderr.write("[divergence] 快照 %s 已存在，拒绝覆盖\n" % snap_rel)
+        return 2
+    with open(snap_path, "wb") as f:
+        f.write(theirs)
+    with open(full, "wb") as f:
+        f.write(merged)
+    epath = repo_path("baseline", "entries.json")
+    with BASELINE_LOCK:
+        base_all = load_json(epath)
+        rec = next(r for r in base_all["entries"] if r["slug"] == d["slug"])
+        fent = next(x for x in rec["files"] if x["path"] == p)
+        fent["sha256"] = new_sha
+        fent["bytes"] = len(theirs)
+        write_json_verified(epath, base_all)
+    old_up = d["upstream_sha256"]
+    d["upstream_sha256"] = new_sha
+    d["local_sha256"] = merged_sha
+    d["bytes"] = {"upstream": len(theirs), "local": len(merged)}
+    d.pop("base_commit", None)
+    d["base_snapshot"] = snap_rel
+    d.setdefault("history", []).append(
+        {"event": "carry", "at": utcnow_iso(), "from_upstream_sha256": old_up,
+         "to_upstream_sha256": new_sha, "conflicts": conflicts,
+         "merged": "manual" if args.merged else "auto"})
+    if merged_sha == new_sha:
+        # 解决件与新上游一致：勘误失效（上游已修/人工放弃），随迁即注销
+        div["divergences"] = [x for x in div["divergences"] if x["path"] != p]
+        div.setdefault("tombstones", []).append(
+            {"path": p, "slug": d["slug"], "reason": "carry 后与新上游一致（勘误失效）",
+             "history": d.get("history", []), "at": utcnow_iso()})
+        result = "carried-and-unregistered"
+    else:
+        result = "carried"
+    save_divergences(div)
+    print(json.dumps({"carry": p, "result": result, "conflicts": conflicts,
+                      "new_upstream_sha256": new_sha, "merged_sha256": merged_sha,
+                      "snapshot": snap_rel}, ensure_ascii=False, indent=1))
+    return 0
+
+
+def cmd_unregister(args):
+    """注销分歧登记（勘误失效/上游已修时）；留 tombstone 备查。"""
+    p = args.path.replace(os.sep, "/")
+    div = load_divergences()
+    hit = next((x for x in div["divergences"] if x["path"] == p), None)
+    if hit is None:
+        sys.stderr.write("[divergence] %s 未登记分歧\n" % p)
+        return 2
+    div["divergences"] = [x for x in div["divergences"] if x["path"] != p]
+    hit["unregistered_at"] = utcnow_iso()
+    hit["unregister_reason"] = args.reason
+    div.setdefault("tombstones", []).append(hit)
+    save_divergences(div)
+    print(json.dumps({"unregistered": p, "reason": args.reason},
+                     ensure_ascii=False, indent=1))
     return 0
 
 
@@ -291,6 +457,15 @@ def main(argv=None):
     p = sub.add_parser("patch", help="输出原始→本地 unified diff")
     p.add_argument("path")
     p.set_defaults(fn=cmd_patch)
+    c = sub.add_parser("carry", help="逆向补丁搬运（三方合并）")
+    c.add_argument("path")
+    c.add_argument("--new", required=True, help="新上游快照文件（如 script/tmp/compare-<slug>.html）")
+    c.add_argument("--merged", help="人工解决后的合并件（冲突复跑时给）")
+    c.set_defaults(fn=cmd_carry)
+    u = sub.add_parser("unregister", help="注销分歧登记（勘误失效，留 tombstone）")
+    u.add_argument("path")
+    u.add_argument("--reason", help="注销原因")
+    u.set_defaults(fn=cmd_unregister)
     l = sub.add_parser("list", help="概览")
     l.set_defaults(fn=cmd_list)
     args = ap.parse_args(argv)
