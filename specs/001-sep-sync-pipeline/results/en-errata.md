@@ -103,3 +103,5 @@
 | origin-descent | darwin-1872 条 `[<a …>…</a></li>` 缺闭合 `]` | 补 `]` | 截断（①） |
 | oakeshott | `Nichomachean`（两处） | `Nicomachean` | 拼写（①） |
 | oakeshott | grant-2012 条末缺句点 | 补 `.` | 句读（①） |
+| object | notes `VII 15.1939b20&ndash;25` / `XI 9.1058b80&ndash;12` | `1039b20–25` / `1058b8–12` | OCR 掉位与衍 0（①） |
+| object | `Wien: &Ouml;bvetHpt` / `<em>Oxford</em>: Oxford` / `<em>Words without Objects:</em> ,` | `ÖBV & HPT` / `Oxford:` / `Words without Objects` | 出版社、斜体与标点（①） |

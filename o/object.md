@@ -194,13 +194,13 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 存在多元论主张存在不止一个东西。这当然是标准观点——形而上学家中间亦然；多数人确实认为有极多东西。伞状观与存在多元论的合取蕴含存在不止一个对象。但若认为有极多东西，也可能认为它们并非都是对象。存在多元论者因此或许想把本体论问题与外延问题区别对待（对他们而言，见 §2.2）。
 
-唯名论
+##### 唯名论
 
 一个例外是唯名论；或者说，唯名论的某一版本是例外。唯名论在本体论中讨论甚广，但该观点究竟是什么，说法不一：有人说它是“不存在抽象物或共相”的观点；有人说它是“本体论问题的正确答案是‘殊相’、‘具体事物’或‘对象’”的观点。
 
 对持后一表述的唯名论者而言，外延问题就是本体论问题：若她认为只有对象，便会认为 **对象** 外延中的一切即存在的全部（不是因为她持伞状观）。持前一表述者则可能承认并非对象的非抽象物或非共相，故可能分别处理这两个问题。
 
-杂论
+##### 杂论
 
 还有一些关于何物存在的观点，不如存在虚无主义、一元论、多元论或唯名论那样普遍。例如，可能论主张存在仅属可能的对象（见“可能对象”词条论可能论实在论的部分）：它不主张万物都是仅仅可能之物，只主张本体论问题的答案应包含仅仅可能之物。分子论普遍主义主张：只要有两个或更多事物，就有一个对象由所有且仅有这些事物构成。详见“日常对象”词条论许可主义的部分：它不主张万物皆复合，只主张答案须包含这类对象。持续论主张对象由时间部分构成。对象存在的每一时刻，都有一个瞬时对象由彼时其全部部分构成，而该对象是它在彼时的一个部分；这些对象因此应进入本体论问题答案的外延（见“时间部分”词条）。迈农主义主张存在不存在的对象，故会把这类对象纳入答案的外延（见“不存在的对象”词条）。本段至此考察的观点，都可看作对存在作了令人意外的 **增添**：事物多于人们原本所想。它们可与对存在作意外 **削减** 的观点有益对照：事物少于人们原本所想。
 
@@ -282,7 +282,7 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 构成性本体论者一致认为，对象以属性或类似属性的项为构成成分或部分。分歧有二：对象是否还有非属性类的额外构成成分或部分；这些构成成分或部分之间如何关联。
 
-束理论
+##### 束理论
 
 按束理论，对象是属性的束。不同的属性理论造就不同版本的束理论；束论者最常持有的属性理论，是特普论（见“特普”词条）与内在共相论。
 
@@ -292,7 +292,7 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 束理论是关于对象的理论：按之，对象由另一类或另一范畴的项（即属性）构成。[^note-29] 它因此提示，**对象** 有对照项或补项；它还提示外延问题的如下宽泛回答：只要有被共同实例化的共相之束（或换个说法，共存的诸特普），就有一个对象。**对象** 的外延包含所有且仅有这些束，而有哪些束，取决于哪些内在共相或特普处于共同实例化或共存关系之中。[^note-30]
 
-裸殊相论
+##### 裸殊相论
 
 与束理论一样，裸殊相论主张对象以其属性为构成成分，但还补充：此外另有他物。除属性之外，每个对象还有一个裸殊相（或“薄殊相”、“基质”）作为构成成分，由它实例化那些属性。裸殊相至少在如下意义上是“裸”的：与对象不同，它们没有属性作为部分。
 
@@ -304,7 +304,7 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 第二，裸殊相 **个体化**。设想两个在相关方面完全相同的对象（都是宝蓝色、都重 1 公斤，等等）：什么能使它们成为 **两个** 而非 **一个**？什么能解释它们的区别？既然二者在相关方面完全相同，诉诸类似属性的构成成分上的差异（是宝蓝色、重 1 公斤等）似乎无济于事。裸殊相论者因此主张：必有非属性类的构成成分，凭靠它们，二者才彼此有别。[^note-31]
 
-质形论
+##### 质形论
 
 按 **质形论**，对象由质料与形式组成（见“形式与质料”词条）。对象由各种部分构成：电子与上夸克等等；除此之外，对象还有一些颇为特殊的组分——**形式**——即类似属性、赋予宿主实体之 **质料** 以形式的项。形式给对象以结构与形状，并使每个对象成为其所是的那类东西：它们说明对象的品格或本性，就此而言类似属性。例如，苏格拉底是兼具形式与质料的人这种动物；他之所以如此，是因为有某种形式作为构成成分。
 
@@ -314,13 +314,13 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 下面转向关系性本体论。前面说过，构成性本体论主张对象以属性为部分或构成成分。关系性本体论承认 **对象** 与 **属性** 的外延都不空[^note-33]，但按之没有任何对象以属性为部分或构成成分。用阿姆斯特朗的话说，对象是团块（1989: 76–77）。多数关系性本体论者很乐意说对象有部分——只是这些部分中没有属性，它们都是别的对象。
 
-对象即团块
+##### 对象即团块
 
 与上文考察的构成性本体论相反，关系性本体论不为对象设定超出寻常分体论结构的内在结构。对象不是薄殊相与属性的层叠蛋糕（也不是质料与形式的层叠蛋糕），而是团块。如此说来，团块观只有 **否定性** 内容：它告诉我们对象不是什么，因而只是对象本性的部分说明，有待补充。[^note-34]
 
 下面考察两种关系性本体论及其对对象理论的蕴含。
 
-柏拉图主义
+##### 柏拉图主义
 
 柏拉图主义关于属性的观点是：属性是超越共相。它们独立存在，外在于时空，不变，且在因果上惰性。这样的东西显然不可能是时空之内、变化、参与因果链条的寻常物质对象的部分。但对象仍然有颜色、大小、重量等等——这是凭靠它们与超越共相处于某种关系。该关系通常称为 **例示** 或 **实例化**，被视为初始的。关键在于它是 **外在** 关系：对象与自身之外的东西相关；而在构成性本体论中，对象与属性之间的关系是 **内在** 的。
 
@@ -330,7 +330,7 @@ Dasgupta 说，若没有个体，基本事实便全是普遍事实，如 $\exist
 
 结果，柏拉图主义并非唯一与无结构或团块状对象观相容的属性理论。
 
-类唯名论
+##### 类唯名论
 
 按类唯名论，属性是事物之类或可能事物之类：**绿** 即一切绿物之类，**智慧** 即一切智慧者之类，**是……的姐妹** 即有序对之类（第一项是第二项的姐妹），如此等等。[^note-35]
 
@@ -370,7 +370,7 @@ Ramsey 因此断定，设定这一区分动机不足：
 
 [^note-13]: Carmichael（2010）讨论了一种与本题密切相关的区分：可谓述者与不可谓述者。
 
-[^note-14]: 当然，*电子*、*数*、*复合* *事物*、*单身汉*或*人*未必是真正的范畴。为便于举例，此处对范畴取宽松态度。
+[^note-14]: 当然，*电子*、*数*、*复合事物*、*单身汉*或*人*未必是真正的范畴。为便于举例，此处对范畴取宽松态度。
 
 [^note-15]: 论本体论问题，见 van Inwagen（1998）、（2009）、（2023）与 Wheeler（1979）。另见“本体论承诺”词条。
 
@@ -406,7 +406,7 @@ Ramsey 因此断定，设定这一区分动机不足：
 
 [^note-31]: 论裸殊相，见 Alston（1954）、Armstrong（1989: 94 及以下; 1997: 第 3、4、7 章）、Bailey（2012）、R. Baker（1967）、Benovski（2008, 2010）、Bergmann（1947）、Brower（2014: 35–41）、Connolly（2015）、Davis（2013a, 2013b）、Garcia（2015b）、Giberman（2012, 2015）、Koons & Pickavance（2015: 第 5 章）、Korman（2010）、Losonsky（1987）、Loux（1997）、Moreland（1998, 2001, 2013）、Moreland & Pickavance（2003）、Morganti（2011）、Oaklander & Rothstein（2000）、Pasnau（2011: 第 2 章）、Pickavance（2009, 2014）、Preston（2005）、Sider（2006）与 Wildman（2015）。
 
-[^note-32]: 亚里士多德是质形论最著名的倡导者（见《形而上学》VII 8.1034a5–6、VII 8.1033b23–25、VII 11.1037a29–30、VII 15.1939b20–25、XI 9.1058b80–12），但柏拉图或许先他一步（《蒂迈欧篇》48c–53c）。
+[^note-32]: 亚里士多德是质形论最著名的倡导者（见《形而上学》VII 8.1034a5–6、VII 8.1033b23–25、VII 11.1037a29–30、VII 15.1039b20–25、XI 9.1058b8–12），但柏拉图或许先他一步（《蒂迈欧篇》48c–53c）。
 
 当代讨论见 Bailey（2015）、Bailey & Wilkins（2018）、Barnes（2003）、Britton（2012）、Brower（2014）、Fine（1992, 1994, 1999, 2008）、Harte（2002）、Inman（2014）、Jaworski（2014, 2016）、Johnston（2006）、Koons（2014）、Koslicki（2008）、Koslicki（2018）、Manning（2013）、Marmodoro（2013）、Oderberg（2007）、Pasnau（2010: 635–646）、Rea（1998, 2011）、Robinson（2014）、Sattig（2015）、Sellars（1952）、Sidelle（2014）、Toner（2010, 2013）与 Ward（2014）。
 
@@ -533,7 +533,7 @@ Ramsey 因此断定，设定这一区分动机不足：
 [^laurence-1998]: Laurence, Stephen & Cynthia MacDonald (eds.), 1998, *Contemporary Readings in the Foundations of Metaphysics*, Cambridge, MA: Blackwell.
 [^laycock-1989]: Laycock, Henry, 1989, “Matter and Objecthood Disentangled”, *Dialogue*, 28(1): 17–22. doi:10.1017/S0012217300015560
 [^laycock-2005]: –––, 2005, “Mass nouns, Count nouns and Non-count nouns: Philosophical Aspects”, *Encyclopedia of Language and Linguistics*, second edition, Amsterdam: Elsevier, pp. 534–538
-[^laycock-2006]: –––, 2006, *Words without Objects:* , Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
+[^laycock-2006]: –––, 2006, *Words without Objects*, Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
 [^lee-2022]: Lee, Seungil, forthcoming, “Bundle Theory and Weak Discernibility”, *Analytic Philosophy*, first online 10 January 2022. doi:10.1111/phib.12255
 [^le-2015]: Le Bihan, Baptiste, 2015, “No Physical Particles for a Dispositional Monist?”, *Philosophical Papers*, 44(2): 207–232.
 [^le-2016]: –––, 2016, “Super-Relationism: Combining Eliminativism about Objects and Relationism about Spacetime”, *Philosophical Studies*, 173(8): 2151–2172.
@@ -655,13 +655,13 @@ Ramsey 因此断定，设定这一区分动机不足：
 [^van-1985]: Van Cleve, James, 1985, “Three Versions of the Bundle Theory”, *Philosophical Studies*, 47(1): 95–107. doi:10.1007/BF00355089
 [^inwagen-1990]: van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
 [^inwagen-1998]: –––, 1998, “Meta-Ontology”, *Erkenntnis*, 48(2–3): 233–250. doi:10.1023/A:1005323618026
-[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖbvetHpt Verlagsgesellschaft, pp. 61–71.
+[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖBV & HPT Verlagsgesellschaft, pp. 61–71.
 [^inwagen-2004]: –––, 2004, “A Theory of Properties”, *Oxford Studies in Metaphysics*, 1: 107–138.
 [^inwagen-2007]: –––, 2007, “A Materialist Ontology of the Human Person” in *Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds), Oxford: Oxford University Press.
 [^inwagen-2009]: –––, 2009, “Being, Existence, and Ontological Commitment”, *Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 472–506.
 [^inwagen-2011]: –––, 2011, “Relational vs. Constituent Ontologies”, *Philosophical Perspectives*, 25(1): 389–405. doi:10.1111/j.1520-8583.2011.00221.x
 [^inwagen-2021]: –––, 2021, “What is an Ontological Category?”, *Disputatio*, 10(16): 241–261.
-[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, *Oxford*: Oxford University Press.
+[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, Oxford: Oxford University Press.
 [^varzi-2002]: Varzi, Achille C., 2002, “Words and Objects”, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), *Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
 [^ward-2014]: Ward, Thomas M., 2014, *John Duns Scotus on Parts, Wholes, and Hylomorphism*, Leiden: Brill.
 [^waechter-2019]: Waechter, Jonas and James Ladyman, 2019, “In Defence of Ordinary Objects and a Naturalistic Answer to the Special Composition Question”, in *The Nature of Ordinary Objects*, Javier Cumpa & Bill Brewer (eds.), New York: Cambridge University Press.
