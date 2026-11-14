@@ -18,7 +18,7 @@ ADR-0048 把术语差异处置定为「定性 D1–D5 → 三出口（修复／�
 | ID | 交付 | 验收判据 |
 | ---- | ---- | ---- |
 | FR-1 | `check_terms.py --docs <doc>… --ledger <path>`：把本次定点核销的每条告警写成台账骨架（`schema: sep-cn-term-ledger/1`），行含 `doc / term / translation / variants / head / status`（`missing` 或 `ripple`）与空白的 `d_class / exit / evidence / reviewer` | 台账行数 = 告警数；`status` 与 stdout 告警类型一一对应；无告警时写空 `rows` |
-| FR-2 | `check_terms.py --check-ledger <path>`：台账闭合校验——`d_class ∈ {D1,D2,D3,D4,D5,n/a}`、`exit ∈ {fix,register,exempt}`、`evidence` 非空、`exit=exempt` 须有 `reviewer`；`n/a` 须在 evidence 说明"概念未出现"之类理由 | 闭合台账 exit 0；缺项/越界 exit 1 并按行打印违例；不读登记册、不跑文档核销 |
+| FR-2 | `check_terms.py --check-ledger <path>`：台账闭合校验——`d_class ∈ {D1,D2,D3,D4,D5,n/a}`、`exit ∈ {fix,register,exempt}`、`evidence` 非空、`exit=exempt` 须有 `reviewer`、**`d_class ∈ {D3,D4,D5}` 须有 `source`（查证凭证）**；`n/a` 须在 evidence 说明"概念未出现"之类理由 | 闭合台账 exit 0；缺项/越界 exit 1 并按行打印违例；不读登记册、不跑文档核销 |
 | FR-3 | `tools/mech_audit.py`：自 `specs/015` 迁入并泛化——位置参数给 slug、`--since DATE`、`--marker CHAR`（默认不按标点过滤）、`--out PATH`（默认 `state/mech-audit-latest.json`）；保留 `pure / conn / susp` 分类与"只产候选、不作定性"纪律 | 对给定 slug 产出与原器同构的 JSON（`slug/commit/date/cat/why/old/new/path/cur_lineno`）；无硬编码词条清单；`--out` 可注入（测试用） |
 | FR-4 | `rules/03` 作业顺序条的"机械替换回溯"指向 `tools/mech_audit.py`；`specs/015` 原器保留为战役存档，不改历史记录 | 指针可达；015 目录内容零改动 |
 | FR-5 | 单元测试：FR-1 台账生成、FR-2 闭合/违例两态、FR-3 分类器与 diff 配对 | `python -m unittest discover -s tools/tests` 全绿 |
