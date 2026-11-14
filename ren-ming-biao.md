@@ -2086,7 +2086,7 @@
 | Jäger, Gerhard | — | Gerhard Jäger | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Jaidev | — | 贾伊德夫 | 印度 | 约 12 世纪 | sikh-philosophy | 学界通行（《牧童歌》作者，GG 收录） | 2026-11-09 |
 | Jaimini | — | 阇弥尼 | — | — | kumaarila | 印度哲学史学界通行（《弥曼差经》作者） | 2026-11-05 |
-| Jakob Thomasius | — | 雅各布·托马修斯 | — | — | 18thGerman-preKant | 学界通行汉译（老托马修斯，莱比锡法学家兼哲学家）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Jakob Thomasius | — | 雅各布·托马修斯 | 德国／语文学 | 1622–1684 | 18thGerman-preKant | 学界通行汉译（老托马修斯，莱比锡法学家兼哲学家）；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 119238098（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jakobson, Roman | — | 罗曼·雅各布森 | 俄国／美国 | 1896–1982 | ricoeur | 学界通行汉译（结构语言学，与 Benveniste 并称）；凭证 2026-11-11 | 2026-11-11 |
 | Jamāli | जामालि | 阇摩利 | 古印度／耆那教 | — | jaina-philosophy | 梵音自拟（《世尊教说》中问难的弟子） | 2026-11-08 |
 | James Beattie | — | 詹姆斯·比蒂 | 苏格兰 | 1735–1803 | 语料回收（全目录） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
@@ -2097,83 +2097,83 @@
 | James I | — | 詹姆斯一世 | 英格兰／国王 | 1566–1625 | grotius | 学界通行汉译（斯图亚特王朝首王）；凭证 2026-11-12 | 2026-11-12 |
 | James of Eltville | — | 埃尔茨维尔的雅各 | 德国 | — | gregory-rimini | 依驻地冠称（Jakob von Eltville，西多会士）；凭证 2026-11-10 | 2026-11-10 |
 | James Shelley | — | 詹姆斯·雪莱 | — | — | aesthetics-18th-british | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
-| James Tyrrell | — | 詹姆斯·蒂勒尔 | — | — | locke-on-medicine | 学界通行汉译（洛克友人，回忆录作者） | 2026-11-05 |
+| James Tyrrell | — | 詹姆斯·蒂勒尔 | 英国 | 1642–1718 | locke-on-medicine | 学界通行汉译（洛克友人，回忆录作者）；籍属/生卒联网查证：GND 规范标目 gnd 100478557（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | James, Alan | — | 艾伦·詹姆斯 | — | — | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
-| James, C.L.R. | — | C.L.R. 詹姆斯 | — | — | colonialism | 学界惯例（《黑色雅各宾派》引介文献通译形）；凭证 2026-11-07 | 2026-11-07 |
+| James, C.L.R. | — | C.L.R. 詹姆斯 | 特立尼达和多巴哥／文学 | 1901–1989 | colonialism | 学界惯例（《黑色雅各宾派》引介文献通译形）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118877070（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | James, Henry | — | 亨利·詹姆斯 | 美国 | 1843–1916 | george-eliot | 学界通行汉译（小说家） | 2026-11-12 |
 | James, William / William James | — | 威廉·詹姆斯 | — | — | bodily-awareness；语料回收（全目录） | 学界千年通行汉译（实用主义哲学家）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `William James`） | 2026-11-13 |
-| Jameson, Fredric | — | 弗雷德里克·詹姆逊 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Jameson, Fredric | — | 弗雷德里克·詹姆逊 | 美国／文学理论 | 1934–2024 | bloch | 学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118925253（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jamgyal Rinpoche | — | 蒋嘉仁波切 | — | — | gorampa | 二十世纪初搜集重刊果让巴文集之僧人（‘jam rgyal rin po che）；音译 | 2026-11-09 |
 | Jāmī, ʿAbd al-Raḥmān | نورالدین عبدالرحمن جامی | 贾米 | — | — | al-qudat | 学界通行汉译（波斯诗人/苏菲） | 2026-11-06 |
 | Jamyang Chokla Öser | — | 绛央乔拉·奥色 | — | — | epistemology-language-tibetan | 佛学界通行（'Jam dbyangs mChog lha 'od zer） | 2026-11-04 |
 | Jamyang Zhepa | — | 嘉木样协巴 | — | — | gelukpa | 藏传佛教通行汉译 | 2026-11-01 |
 | Jandun, John of | — | 让丹的约翰 | — | — | delmedigo | 学界通行（中世纪哲人以出生地+教名通称；r2 改定，初译作“让·德·让丹”） | 2026-11-06 |
 | Janet, Paul | — | 保罗·雅内 | 法国 | 1823–1899 | cudworth | 学界通行汉译（法国哲学家，19 世纪中叶为库德沃斯辩护）；凭证 2026-11-10 | 2026-11-09 |
-| Janiszewski, Zygmunt | — | Zygmunt Janiszewski | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Jankélévitch, Vladimir | Vladimir Jankélévitch | 弗拉基米尔·扬凯列维奇 | — | — | bergson | 柏格森研究学者；学界通行音译 | 2026-11-08 |
-| Jaquelot, Isaac | — | 伊萨克·雅克洛 | — | — | bayle | 学界通行音译（培尔论敌，神义论作者） | 2026-11-08 |
-| Jaśkowski, Stanisław | — | Stanisław Jaśkowski | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Jason Stanley | — | 杰森·斯坦利 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Janiszewski, Zygmunt | — | Zygmunt Janiszewski | 波兰／数学 | 1888–1920 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132512610（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jankélévitch, Vladimir | Vladimir Jankélévitch | 弗拉基米尔·扬凯列维奇 | 法国 | 1903–1985 | bergson | 柏格森研究学者；学界通行音译；籍属/生卒联网查证：GND 规范标目 gnd 119523051（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jaquelot, Isaac | — | 伊萨克·雅克洛 | 法国 | 1647–1708 | bayle | 学界通行音译（培尔论敌，神义论作者）；籍属/生卒联网查证：GND 规范标目 gnd 129056812（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jaśkowski, Stanisław | — | Stanisław Jaśkowski | 波兰／逻辑学 | 1906–1965 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1245501992（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jason Stanley | — | 杰森·斯坦利 | 美国／加拿大 | 1969– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 1059791285（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jaspers, Karl | — | 卡尔·雅斯贝尔斯 | 德国 | 1883–1969 | yorck | 学界通行汉译（生存哲学，登记册 jaspers 系术语已多见）；凭证 2026-11-11 | 2026-11-11 |
-| Jaurès, Jean | Jean Jaurès | 让·饶勒斯 | — | — | bergson | 法国社会主义领袖，柏格森高师同窗；学界通行汉译 | 2026-11-08 |
+| Jaurès, Jean | Jean Jaurès | 让·饶勒斯 | 法国／政治 | 1859–1914 | bergson | 法国社会主义领袖，柏格森高师同窗；学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 11871192X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jayanta Bhaṭṭa | जयन्त भट्ट | 阇衍陀·跋陀 | 古印度／正理论师 | 约 9 世纪 | concept-emotion-india | 学界通行汉译（《正理花环》作者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Jayarāśi Bhaṭṭa | जयराशि भट्ट | 阇耶罗师·跋陀 | — | — | jayaraasi | 本库自拟梵音（jaya 阇耶＝胜、rāśi 罗师＝聚；Bhaṭṭa 从 kumaarila 词条作“跋陀”）；SUMMARY 原题“伽耶惹悉·巴札”2026-11-07 归一 | 2026-11-07 |
 | Jean Baudrillard | — | 让·鲍德里亚 | 法国（兰斯生，巴黎卒） | 1929–2007 | 语料回收（全目录） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：美国国会图书馆名称规范档 LCNAF n50005412（2026-11-13 查，凭证 verify-2026-11-13.tsv） | 2026-11-13 |
-| Jean de Meun | — | 让·德·默恩 | — | — | boethius | 学界通行汉译（《玫瑰传奇》续作者，13 世纪后期古法语《哲学的慰藉》译者）；凭证 2026-11-13 | 2026-11-13 |
-| Jean Fernel | — | 让·费尔内尔 | — | — | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
+| Jean de Meun | — | 让·德·默恩 | 法国 | d. 1305 | boethius | 学界通行汉译（《玫瑰传奇》续作者，13 世纪后期古法语《哲学的慰藉》译者）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 118557203（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jean Fernel | — | 让·费尔内尔 | 法国／医学 | 1497–1558 | locke-on-medicine | 医史通行音译（盖伦传统医家）；籍属/生卒联网查证：GND 规范标目 gnd 119220903（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jean Hampton | — | 琼·汉普顿 | — | — | justice-virtue | 学界通行汉译（政治哲学）；凭证 2026-11-02 | 2026-11-02 |
 | Jeans, James | — | 詹姆斯·金斯 | — | — | cosmology-30s | 学界通行汉译（《神秘宇宙》作者）；凭证 2026-11-08 | 2026-11-08 |
-| Jeffreys, Harold | — | 哈罗德·杰弗里斯 | — | — | cosmology-30s | 学界通行音译（《科学推理》作者）；凭证 2026-11-08 | 2026-11-08 |
+| Jeffreys, Harold | — | 哈罗德·杰弗里斯 | 英国／数学 | 1891–1989 | cosmology-30s | 学界通行音译（《科学推理》作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11709384X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jenei, Sándor | — | Jenei | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Jenkin, Henry Fleeming | Fleeming Jenkin | 亨利·弗莱明·詹金 | — | — | origin-descent | 学界惯例（工程学家，1867 年书评作者）；凭证 2026-11-07 | 2026-11-07 |
 | Jenkins | — | Jenkins（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（Jenkins & Webster 2021“边缘化功能”）；凭证 2026-11-09 | 2026-11-09 |
 | Jennie Simpson | — | 珍妮·辛普森 | — | — | alexander-crummell | 克鲁梅尔继室，史料人物音译 | 2026-11-07 |
-| Jennifer Tsien | — | 詹妮弗·齐恩 | — | — | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| Jennifer Tsien | — | 詹妮弗·齐恩 | 语文学 | 1971– | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 1017989117（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jensen, Ronald | — | 罗纳德·詹森 | 1936– | 集合论学界通行译名（詹森层谱）；凭证 2026-11-09 | quine-nf | 美国 | 2026-11-09 |
 | Jerome (St.) | — | 圣哲罗姆（哲罗姆） | — | — | erasmus | 学界惯例（教父通译） | 2026-11-04 |
 | Jessica Benjamin | — | 杰西卡·本雅明 | 美国／精神分析学家 | 生卒待核 | adorno | 学界通行音译（关系精神分析）；凭证 2026-11-10 | 2026-11-10 |
-| Jessop, Bob | — | 鲍勃·杰索普 | — | — | gramsci | 国家理论家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
+| Jessop, Bob | — | 鲍勃·杰索普 | 英国／政治学 | 1946– | gramsci | 国家理论家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118961292（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jesus | — | 耶稣 | — | — | william-jevons | 学界千年通行译名 | 2026-11-07 |
 | Jesus of Nazareth | — | 拿撒勒人耶稣 | — | — | god-necessary-being | 《圣经》和合本通行译名（非历史年表人物，经文引文语境） | 2026-11-09 |
 | Jevons, Thomas | — | 托马斯·杰文斯 | — | — | william-jevons | 构词直译（杰文斯之父，铁商）；凭证 2026-11-07 | 2026-11-07 |
-| Jevons, William Stanley / William Stanley Jevons | — | Jevons | — | — | lvov-warsaw；leibniz-logic-influence | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `William Stanley Jevons`） | 2026-11-13 |
-| Jha, Ganganatha | — | Ganganatha Jha（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（《正理经》英译者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
+| Jevons, William Stanley / William Stanley Jevons | — | Jevons | 英国 | 1835–1882 | lvov-warsaw；leibniz-logic-influence | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `William Stanley Jevons`）；籍属/生卒联网查证：GND 规范标目 gnd 118984357（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jha, Ganganatha | — | Ganganatha Jha（现代学者，保留英文） | 印度 | 1871–1941 | concept-emotion-india | ADR-0022：无通行汉名者保留英文（《正理经》英译者）；凭证 2026-11-12 concept-emotion-india r2；籍属/生卒联网查证：GND 规范标目 gnd 119221748（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Ji Kang | — | 嵇康 | 中国（三国魏） | 223–262 | xunzi | 上游自带汉字（竹林七贤之一） | 2026-11-14 |
 | Ji Yun | — | 纪昀 | — | — | dai-zhen | 上游自带汉字；学界通行（四库馆总纂官）；凭证 2026-11-07 | 2026-11-07 |
 | Jia Yi | — | 贾谊 | — | — | han-dynasty | 上游自带汉字（西汉政论家） | 2026-11-10 |
 | Jiang Yong | — | 江永 | — | — | dai-zhen | 上游自带汉字；学界通行（三礼与历算名家，戴震之师）；凭证 2026-11-07 | 2026-11-07 |
-| Jiao Xun | — | 焦循 | — | — | dai-zhen | 上游自带汉字；学界通行（《孟子正义》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Jiao Xun | — | 焦循 | 中国 | 1763–1820 | dai-zhen | 上游自带汉字；学界通行（《孟子正义》作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 172169135（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jitāri | — | Jitāri（保留梵文） | 古印度／量论 | 约 940–1000 | srigupta | 无汉文古译与通行今译（ADR-0022 类推，保留梵文） | 2026-11-13 |
 | Jñānaśrīmitra | — | Jñānaśrīmitra（保留梵文） | 古印度／量论 | 约 11 世纪 | yogacara | 无汉文古译与通行今译（ADR-0022 类推，保留梵文）；凭证 2026-11-11 | 2026-11-11 |
-| Joachim Lange | — | 约阿希姆·朗格 | — | — | 18thGerman-preKant | 学界通行汉译（哈勒虔敬派）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Joachim Lange | — | 约阿希姆·朗格 | 德国 | 1674–1715 | 18thGerman-preKant | 学界通行汉译（哈勒虔敬派）；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 103154124（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Joachim, Harold Henry | — | 哈罗德·亨利·约阿希姆 | 英国 | 1868–1938 | croce-aesthetics | 学界通行音译（英国唯心论者，《斯宾诺莎伦理学研究》作者）；凭证 2026-11-10 | 2026-11-09 |
 | Joan Baptista van Helmont | — | 让·巴普蒂斯塔·范·赫尔蒙特 | — | — | locke-on-medicine | 医史/化学史通行汉译（《医学之源》作者）；待 specs/008 审定库复核 | 2026-11-05 |
 | Joas, Hans | — | 汉斯·约阿斯 | 德国 | 1948– | habermas | 学界通行汉译（社会理论；中译全集行世）；凭证 2026-11-12 | 2026-11-12 |
-| Johann Adolf Schlegel | Johann Adolf Schlegel | 约翰·阿道夫·施莱格尔 | — | — | schlegel | 学界惯例（施莱格尔之父，牧师与文人）；凭证 2026-11-07 | 2026-11-07 |
-| Johann Benjamin Erhard | Johann Benjamin Erhard | 约翰·本雅明·埃尔哈德 | — | — | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
-| Johann Christoph Gottsched | — | 约翰·克里斯托弗·戈特舍德 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johann Adolf Schlegel | Johann Adolf Schlegel | 约翰·阿道夫·施莱格尔 | 德国／文学 | 1721–1793 | schlegel | 学界惯例（施莱格尔之父，牧师与文人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118607995（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Johann Benjamin Erhard | Johann Benjamin Erhard | 约翰·本雅明·埃尔哈德 | 德国／医学 | 1766–1827 | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119024241（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Johann Christoph Gottsched | — | 约翰·克里斯托弗·戈特舍德 | 德国／文学与哲学 | 1700–1766 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 118541013（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Johann Eck | — | 约翰·埃克 | — | — | lorenzo-valla | 学界通行汉译（神学家、路德论敌）；待 specs/008 审定库复核 | 2026-11-04 |
 | Johann Elias Schlegel | Johann Elias Schlegel | 约翰·埃利亚斯·施莱格尔 | — | — | schlegel | 学界惯例（施莱格尔叔父，剧作家）；凭证 2026-11-07 | 2026-11-07 |
 | Johann Franz Budde | — | 约翰·弗朗茨·布德 | — | — | 18thGerman-preKant | 学界通行汉译（Buddeus）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johann Friedrich | — | 约翰·弗里德里希 | — | — | leibniz-evil | 学界通行汉译（汉诺威公爵）；待 specs/008 审定库复核 | 2026-11-04 |
 | Johann Gottlob Krüger | Johann Gottlob Krüger | 约翰·戈特洛布·克吕格 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johann Heinrich Lambert | — | 约翰·海因里希·兰伯特 | — | — | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
-| Johann Wolfgang von Goethe | — | 歌德 | — | — | landmann-kalischer | 千年通行译名（德国古典时代文学宗师；本表从简式通称） | 2026-11-04 |
+| Johann Wolfgang von Goethe | — | 歌德 | 德国／文学 | 1749–1832 | landmann-kalischer | 千年通行译名（德国古典时代文学宗师；本表从简式通称）；籍属/生卒联网查证：GND 规范标目 gnd 118540238（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Johanna Charlotte Unzer (née Ziegler) | Johanna Charlotte Unzer (née Ziegler) | 约翰娜·夏洛特·翁策尔（娘家姓齐格勒） | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johannes Pagus | — | 约翰内斯·帕古斯 | 法国 | 13 世纪 | peter-spain | 本词条首译（中世纪逻辑家，无通行汉名）；凭证 2026-11-09 | 2026-11-09 |
 | Johansson, Marcus | — | 马库斯·约翰松 | 瑞典 | — | it-moral-values | 学界通行音译（虚拟行为伦理）；凭证 2026-11-10 | 2026-11-10 |
-| Johansson, Scarlett | — | 斯嘉丽·约翰逊 | — | — | cloning | 学界惯例（影视界通行译名，词条作假设例）；凭证 2026-11-07 | 2026-11-07 |
+| Johansson, Scarlett | — | 斯嘉丽·约翰逊 | 美国 | 1984– | cloning | 学界惯例（影视界通行译名，词条作假设例）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 129616214（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Calvin | — | 约翰·加尔文 | — | — | religious-experience | 学界通行汉译 | 2026-11-05 |
 | John Cook Wilson | — | 约翰·库克·威尔逊 | 英国（诺丁汉生，牛津卒） | 1849–1915 | 语料回收（全目录） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：LCNAF n80109962（2026-11-13 查，凭证 verify-2026-11-13.tsv） | 2026-11-13 |
-| John Corcoran | — | 保留英文（无通行汉名） | — | — | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| John Corcoran | — | 保留英文（无通行汉名） | 美国 | 1927–2017 | schema | ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 172034353（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Donne | — | 约翰·多恩 | — | — | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
-| John Dupré | John Dupré | 约翰·杜普雷 | — | — | 语料回收（全目录） | 学界惯例（生物学哲学/分类学批判）；凭证 2026-11-01 | 2026-11-01 |
-| John Earman | — | 约翰·厄尔曼 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
-| John Hick | — | 约翰·希克 | — | — | religious-experience | 学界通行汉译（宗教多元论） | 2026-11-05 |
+| John Dupré | John Dupré | 约翰·杜普雷 | 英国 | 1952– | 语料回收（全目录） | 学界惯例（生物学哲学/分类学批判）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 172492157（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| John Earman | — | 约翰·厄尔曼 | 美国 | 1942– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 172058287（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| John Hick | — | 约翰·希克 | 英国／神学 | 1922–2012 | religious-experience | 学界通行汉译（宗教多元论）；籍属/生卒联网查证：GND 规范标目 gnd 119231344（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Italos | — | 约翰·伊塔洛斯（正文简作“伊塔洛斯”） | — | — | john-italos；SUMMARY | SUMMARY 定名沿用（11 世纪拜占庭哲学家）；凭证 2026-11-06 | 2026-11-06 |
 | John L. Wilson | — | 约翰·L·威尔逊 | — | — | alexander-crummell | 19 世纪传教士人种志学者，音译 | 2026-11-07 |
-| John Lutterell | — | 约翰·拉特雷尔 | — | — | ockham | 前牛津大学校长；学界音译；凭证 2026-11-07 | 2026-11-07 |
-| John Maynard Keynes | — | 约翰·梅纳德·凯恩斯 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| John Lutterell | — | 约翰·拉特雷尔 | 英国 | d. 1335 | ockham | 前牛津大学校长；学界音译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 102547165（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| John Maynard Keynes | — | 约翰·梅纳德·凯恩斯 | 英国／经济学 | 1883–1946 | luxemburg | 学界通行汉译；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118561804（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Norton | — | 约翰·诺顿 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John of Alleux | — | 阿勒的约翰 | — | — | condemnation | 依地名冠称（1277 年巴黎大学校监）；凭证 2026-11-08 | 2026-11-08 |
 | John of Cornwall | — | 康沃尔的约翰 | 英格兰 | 活跃 1298–1300 | demonstration-medieval | 中世纪牛津学者（《〈后分析篇〉问题》作者）；音译，凭证 2026-11-10 | 2026-11-10 |
@@ -2185,16 +2185,16 @@
 | John of Salisbury | — | 索尔兹伯里的约翰 | — | — | 首现（william-sherwood） | 学界通行汉译（12 世纪人文主义者）；凭证 2026-11-07 | 2026-11-07 |
 | John of St. Thomas | — | 圣托马斯的约翰（若昂·波因索特） | 葡萄牙／托马斯主义 | 1589–1644 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | John Paul II | — | 若望·保禄二世 | — | — | conscience | 天主教中文通名（教廷文献署名；世俗文献亦作“约翰·保罗二世”，本词条锁定教会通行形）；凭证 2026-11-08 | 2026-11-08 |
-| John Pecham | — | 约翰·佩卡姆 | — | — | illumination | 中世纪哲学通行汉译（牛津方济各会，后任坎特伯雷大主教）；凭证 2026-11-08 | 2026-11-08 |
+| John Pecham | — | 约翰·佩卡姆 | 英国／神学 | 1227–1292 | illumination | 中世纪哲学通行汉译（牛津方济各会，后任坎特伯雷大主教）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118557939（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Pollock | — | 约翰·波洛克 | — | — | 语料回收（全目录） | 学界惯例（人工智能/认识论（OSCAR 系统））；凭证 2026-11-01 | 2026-11-01 |
 | John Scotus Eriugena | — | 约翰·司各脱·爱留根纳 | — | — | neoplatonism | 中世纪哲学通行汉译（9 世纪爱尔兰神学家） | 2026-11-07 |
 | John Sergeant | — | 约翰·萨金特 | — | — | legrand | 学界通行汉译（17 世纪英格兰哲人）；待 specs/008 审定库复核 | 2026-11-03 |
 | John Toland | — | 约翰·托兰德 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| John Venn | — | 约翰·文恩 | — | — | leibniz-logic-influence | 学界通行汉译（《符号逻辑》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| John Venn | — | 约翰·文恩 | 英国／数学 | 1834–1923 | leibniz-logic-influence | 学界通行汉译（《符号逻辑》作者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 1143124758（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John Winnie | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
-| John Wyclif | — | 约翰·威克里夫 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| John Wyclif | — | 约翰·威克里夫 | 英国／神学 | 1324–1384 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118632299（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | John XXI | — | 教皇约翰二十一世 | — | —；peter-spain | condemnation | 中世纪教皇通行汉译（彼得·西班牙人）；凭证 2026-11-08 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| John XXII | — | 约翰二十二世 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| John XXII | — | 约翰二十二世 | 法国 | 1244–1334 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118557912（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Johnson, Samuel | — | 塞缪尔·约翰逊 | 英国／文学家、词典编纂者 | 1709–1792 | paradox-of-tragedy | 学界通行汉译（Dr. Johnson，莎士比亚剧本序言作者）；凭证 2026-11-10 | 2026-11-10 |
 | Johnston, Charlotte | — | 夏洛特·约翰斯顿 | — | — | john-norris | 洛克研究者；音译 | 2026-11-07 |
 | Jonah | — | 约拿 | — | — | necessary-sufficient | 圣经典故人名通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -2202,27 +2202,27 @@
 | Jonathan Bennett | — | 乔纳森·贝内特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jones, Peter | — | 琼斯 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08 | 2026-11-08 |
 | Jordan of Saxony | — | 萨克森的乔丹 | — | — | giles | 学界通行汉译（多明我会总会长） | 2026-11-10 |
-| Jordanus de Nemore | — | 内莫尔的约尔丹努斯 | — | — | duhem | 学界惯例（中世纪数学家，通行音译） | 2026-11-05 |
-| Jorge Luis Borges | — | 豪尔赫·路易斯·博尔赫斯 | — | — | leibniz-modal | 学界通行汉译（作家，《巴别图书馆》作者）；待 specs/008 审定库复核 | 2026-11-03 |
-| Jorn, Asger | — | 阿斯格·约恩 | — | — | langer | 丹麦画家、理论家（CoBrA 运动；音译）；凭证 2026-11-08 | 2026-11-08 |
+| Jordanus de Nemore | — | 内莫尔的约尔丹努斯 | 德国／数学 | d. 1235 | duhem | 学界惯例（中世纪数学家，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 11917121X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jorge Luis Borges | — | 豪尔赫·路易斯·博尔赫斯 | 阿根廷／文学 | 1899–1986 | leibniz-modal | 学界通行汉译（作家，《巴别图书馆》作者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118513532（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jorn, Asger | — | 阿斯格·约恩 | 法国／丹麦 | 1914–1973 | langer | 丹麦画家、理论家（CoBrA 运动；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11871306X（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Joscelin of Soissons | — | 苏瓦松的若斯兰 | — | — | 首现（william-sherwood） | 学界惯例（12 世纪苏瓦松主教）；凭证 2026-11-07 | 2026-11-07 |
 | José Ortega | José Ortega | 何塞·奥尔特加 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Josef Ibn Haviva | — | 约瑟夫·伊本·哈维瓦 | — | — | crescas | 学界通行中译；凭证 2026-11-08 | 2026-11-08 |
 | Josef Ibn Shem Tov | — | 约瑟夫·伊本·谢姆·托夫 | — | — | crescas | 学界通行中译（《驳基督教诸原理》希伯来译者）；凭证 2026-11-08 | 2026-11-08 |
 | Joseph Priestley | — | 约瑟夫·普里斯特利 | — | — | reasoning-analogy | 学界通行汉译（化学家） | 2026-11-05 |
-| Joseph Story | — | 约瑟夫·斯托里 | — | — | alexander-crummell | 美国最高法院大法官通行汉译 | 2026-11-07 |
-| Jospe, Raphael | — | 拉斐尔·约斯佩 | — | — | f/falaquera | 音译（当代犹太哲学史家）；凭证 2026-11-11 | 2026-11-11 |
+| Joseph Story | — | 约瑟夫·斯托里 | 美国 | 1779–1845 | alexander-crummell | 美国最高法院大法官通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 119079275（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jospe, Raphael | — | 拉斐尔·约斯佩 | 以色列 | 1947– | f/falaquera | 音译（当代犹太哲学史家）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 152068449（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Joyce, James | — | James Joyce | — | — | bayes-theorem | 现代学者保留英文（ADR-0022；决策论与贝叶斯认识论，本词条作者） | 2026-11-08 |
 | Joyce, James Augustine Aloysius | — | 詹姆斯·乔伊斯 | 爱尔兰 | 1882–1941 | davidson | 文学界千年通行（《尤利西斯》作者）；与决策论者 James M. Joyce（bayes-theorem 词条作者，保留英文）同姓异人；凭证 2026-11-10 | 2026-11-10 |
 | Juan Luis Vives | — | 胡安·路易斯·比韦斯（亦作“维夫斯”） | 西班牙 | 1493–1540 | lorenzo-valla | 学界通行汉译（西班牙人文主义者；正文 22:8 通行“比韦斯”）；亦作记词汇表旧形“维夫斯”；生卒通行作 1493–1540 | 2026-11-13 |
 | Judah ben Solomon ha-Cohen | — | 犹大·本·所罗门·哈科恩 | — | — | gersonides | 音译（13 世纪犹太哲学家）；ha-Cohen 译“哈科恩” | 2026-11-09 |
-| Judith Butler | — | Judith Butler（现代学者正文保留英文；通行汉译“巴特勒”备查） | — | — | academic-freedom | 学界通行；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Judith Butler | — | Judith Butler（现代学者正文保留英文；通行汉译“巴特勒”备查） | 美国 | 1956– | academic-freedom | 学界通行；审定库无相关命中（termonline-standard 匿名通道，2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 119237873（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Julian | — | 尤利安（罗马皇帝，背教者） | — | — | montesquieu | 古典学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Julius II | — | 尤利乌斯二世 | — | — | gianfrancesco-pico | 教宗通行汉译 | 2026-11-09 |
-| Julius Landmann | — | 尤利乌斯·兰德曼 | — | — | landmann-kalischer | 学界通行汉译（瑞士经济学家，兰德曼-卡利舍尔之夫）；待 specs/008 审定库复核 | 2026-11-04 |
-| Jung, Carl Gustav | — | 卡尔·古斯塔夫·荣格 | — | — | langer | 学界千年通行汉译（分析心理学）；凭证 2026-11-08 | 2026-11-08 |
+| Julius Landmann | — | 尤利乌斯·兰德曼 | 德国／奥地利 | 1877–1931 | landmann-kalischer | 学界通行汉译（瑞士经济学家，兰德曼-卡利舍尔之夫）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118569139（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
+| Jung, Carl Gustav | — | 卡尔·古斯塔夫·荣格 | 瑞士／心理学 | 1875–1961 | langer | 学界千年通行汉译（分析心理学）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118558749（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jürgen Habermas | Jürgen Habermas | 于尔根·哈贝马斯 | — | — | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
-| Jurieu, Pierre | — | 皮埃尔·朱里厄 | — | — | bayle | 学界通行音译（培尔论敌，鹿特丹墙外神学家） | 2026-11-08 |
+| Jurieu, Pierre | — | 皮埃尔·朱里厄 | 法国／神学 | 1637–1713 | bayle | 学界通行音译（培尔论敌，鹿特丹墙外神学家）；籍属/生卒联网查证：GND 规范标目 gnd 118558900（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Jurjānī | — | 朱尔贾尼 | — | — | arabic-islamic-mysticism | 伊斯兰哲学通行音译 | 2026-11-07 |
 | Justin Martyr | — | 殉道者查士丁 | — | — | gianfrancesco-pico | 教父学通行汉译；与登记册 Justinian 查士丁尼异人 | 2026-11-09 |
 | Justinian | — | 查士丁尼 | — | — | neoplatonism | 史学界通行汉译（东罗马皇帝，529 年立法关闭雅典学园） | 2026-11-07 |
@@ -2240,7 +2240,7 @@
 | Kabir | — | 卡比尔 | 印度 | 约 1440–1518 | sikh-philosophy | 学界通行汉译（印度虔信诗人，GG 收录） | 2026-11-09 |
 | Kada Arimaro | — | 荷田在满 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kada no Azumamaro | — | 荷田春满 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
-| Kaegi, Dominic | — | Dominic Kaegi（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09 | 2026-11-09 |
+| Kaegi, Dominic | — | Dominic Kaegi（现代学者，保留英文） | 瑞士 | 1963– | jaspers | ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 140812172（2026-11-14 查，凭证 verify-2026-11-14-gnd-m.tsv） | 2026-11-14 |
 | Kafka, Franz | — | 弗朗茨·卡夫卡 | 奥匈帝国（布拉格） | 1883–1924 | scholem | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Kagan, Shelly | — | 谢利·卡根 | 美国 | — | double-effect | 学界通行汉译（《道德的限度》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Kahane, Guy | — | 盖伊·卡哈内 | 英国 | — | disability | 学界惯例音译（残疾的福利主义定义进路，与 Savulescu 合著；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
