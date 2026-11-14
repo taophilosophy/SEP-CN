@@ -12,7 +12,7 @@
 
 长期以来的学术传统，把达尔文理论的起源解释成一种框架产物。该框架由四部分组成：本土英国博物学；以威廉·佩利（1743–1805）为代表的英国自然神学传统；约翰·赫歇尔（1792–1871）在《自然哲学研究初论》（1830 [1987]）中提出的方法论准则；以及查尔斯·莱尔（1797–1875）的地质理论。达尔文随“HMS 贝格尔号”航行期间（1831 年 12 月—1836 年 10 月），转向莱尔的均变论地质学，接受莱尔对“深时”的倡导——这被视为其思想形成中的根本事件（Norman 2013; Herbert 2005; Hodge 1983）[^herbert-2005][^norman-2013]。与这种以英语学界为主的史学相补充的，是强调达尔文理论源自英国政治经济学的社会建构论分析（Young 1985: chps. 2, 4, 5）[^young-1985]。也有人论证，达尔文探究的一个主要来源是英国废奴运动，这一关切可追溯至他在贝格尔号岁月中对奴隶制的厌恶（Desmond and Moore 2009）[^desmond-2009]。
 
-另另一方面，1960 年代以来大量书信与手稿问世（见达尔文在线“Papers and Manuscripts”部分，其他网络资源）。一批晚近史学著作据此淡化了达尔文观点的某些新颖之处，并质疑早期达尔文标准传记图景是否成立。这些材料让人注意到达尔文传记中先前被忽视的方面。尤其是他 1825–27 年的爱丁堡时期——达尔文自己在晚年《自传》中大体上贬低了它的重要性——如今被视为其后来发展的关键（Desmond and Moore 1991; Hodge 1985）[^desmond-1991][^hodge-1985]。作为爱丁堡大学（1825–27）的年轻医科学生，达尔文通过学生普林尼学会与比较解剖学家罗伯特·埃德蒙·格兰特（1793–1874）交往密切；在许多方面，格兰特是达尔文在贝格尔号之前科学上的第一位导师（Desmond and Moore 1991, chp. 1）[^desmond-1991]。通过格兰特，达尔文接触到让-巴蒂斯特·拉马克的转型论，以及围绕巴黎国家自然史博物馆展开的居维叶—若弗鲁瓦之争（见“达尔文之前的进化思想”词条第 4 节）。
+另一方面，1960 年代以来大量书信与手稿问世（见达尔文在线“Papers and Manuscripts”部分，其他网络资源）。一批晚近史学著作据此淡化了达尔文观点的某些新颖之处，并质疑早期达尔文标准传记图景是否成立。这些材料让人注意到达尔文传记中先前被忽视的方面。尤其是他 1825–27 年的爱丁堡时期——达尔文自己在晚年《自传》中大体上贬低了它的重要性——如今被视为其后来发展的关键（Desmond and Moore 1991; Hodge 1985）[^desmond-1991][^hodge-1985]。作为爱丁堡大学（1825–27）的年轻医科学生，达尔文通过学生普林尼学会与比较解剖学家罗伯特·埃德蒙·格兰特（1793–1874）交往密切；在许多方面，格兰特是达尔文在贝格尔号之前科学上的第一位导师（Desmond and Moore 1991, chp. 1）[^desmond-1991]。通过格兰特，达尔文接触到让-巴蒂斯特·拉马克的转型论，以及围绕巴黎国家自然史博物馆展开的居维叶—若弗鲁瓦之争（见“达尔文之前的进化思想”词条第 4 节）。
 
 这些不同的解释框架，让达尔文理论起源的研究成为史学中一个活跃领域。下一节考察这些起源。
 
@@ -62,7 +62,7 @@
 
 ### 2.2 已出版《物种起源》的核心论证
 
-《物种起源：通过自然选择，或在生存斗争中保存有利种族》（*On the Origin of Species by Means of Natural Selection, or the Preservaton of Favoured Races in the Struggle for Life*）于 1859 年 11 月 24 日由伦敦约翰·默里出版社出版（Darwin 1859 [1964]）[^darwin-1859]。已出版《物种起源》的论证结构，已是大量文献的主题，此处只能概述。达尔文自己把此书称为“一部长篇论证”，但这一论证的确切性质并不一眼可见；对它的推理与修辞策略，也有种种不同解读（Prestes 2023; White, Hodge and Radick 2021; Hodge 2013b, 1977; Hoquet 2013; Hull 2009; Waters 2009; Depew 2009; Ruse 2009; Lennox 2005; Hodge 1983b）[^depew-2009][^hodge-1977][^hodge-1983b][^hodge-2013b][^hoquet-2013][^hull-2009][^lennox-2005][^prestes-2023][^ruse-2009][^waters-2009][^white-2021]。
+《物种起源：通过自然选择，或在生存斗争中保存有利种族》（*On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*）于 1859 年 11 月 24 日由伦敦约翰·默里出版社出版（Darwin 1859 [1964]）[^darwin-1859]。已出版《物种起源》的论证结构，已是大量文献的主题，此处只能概述。达尔文自己把此书称为“一部长篇论证”，但这一论证的确切性质并不一眼可见；对它的推理与修辞策略，也有种种不同解读（Prestes 2023; White, Hodge and Radick 2021; Hodge 2013b, 1977; Hoquet 2013; Hull 2009; Waters 2009; Depew 2009; Ruse 2009; Lennox 2005; Hodge 1983b）[^depew-2009][^hodge-1977][^hodge-1983b][^hodge-2013b][^hoquet-2013][^hull-2009][^lennox-2005][^prestes-2023][^ruse-2009][^waters-2009][^white-2021]。
 
 对达尔文《物种起源》所用方法论的学术重构，主要有两种形态。一种是从当前公认的科学解释模型出发，有时把它呈现为形式演绎模型（Sober 1984）[^sober-1984]；另一种更偏历史，把其方法论放在维多利亚时代讨论中公认的科学解释准则背景下来理解（见“达尔文主义”词条；Prestes 2023; White, Hodge and Radick 2021; Hodge 2013b, 1983b, 1977; Hoquet 2013; Hull 2009; Waters 2009; Depew 2009; Lennox 2005）[^depew-2009][^hodge-1977][^hodge-1983b][^hodge-2013b][^hoquet-2013][^hull-2009][^lennox-2005][^prestes-2023][^waters-2009][^white-2021]。达尔文究竟在多大程度上汲取了同时代人——约翰·赫歇尔、威廉·惠威尔、约翰·斯图尔特·密尔——现存的方法论讨论，现有文献证据并不完全清楚。最容易得到文献支持、并由 White、Hodge 与 Radick（2021）以及 M. J. S. Hodge（1977, 1983a）特别辩护的主张，强调约翰·赫歇尔《自然哲学研究初论》（1830 [1987]）的重要性；达尔文 1831 年 12 月随“HMS 贝格尔号”出发前，在剑桥求学时读过此书。
 
@@ -114,7 +114,7 @@
 
 ![横轴标有字母 A 至 L、纵轴标有罗马数字 I 至 XIV 的图表。从 A 向上分出若干虚线；除两条外都在到达纵层 I 之前终止；从那两条又分出更多虚线，其中一些在下一纵层之前终止，未终止者再分出更多线，如此重复，不过有些情况下某条分支没有任何线到达下一纵层。进一步描述见后文。](../assets/origin-descent/treediagram.png)
 
-图：《物种起源》中的生命之树图（*Origin* 1859：“附录”。
+图：《物种起源》中的生命之树图（*Origin* 1859：“附录”）。
 
 达尔文生命之树图引人注目之处，在于其坐标的相对性。它起初只用来表示物种层次类群分歧：变种由小写字母表示，这些字母位于“分布广泛的属”物种 A–L 之内；横线则代表时间段，以有限世代数计量。然而细心的读者很快可以看出：达尔文在第二章对“自然”物种与“人为”物种的破坏性分析，已隐含物种—变种区分的相对性；这幅图最终可以表示一切有机关系，从固定物种内部变种分歧这一无争议层次，到不同属内物种之间的关系。字母 A–L 也可代表属、科或目层次的类群。于是，这幅图适用于林奈等级体系所有层次之间的关系。时间段可代表潜在的漫长时间跨度；分支的水平延展，则代表分类分歧随时间推移的程度。短短几页论证中，图就被普遍化，用来表示最广泛的类群关系，涵盖整个地质时间。底部虚线的延伸甚至可以暗示——如达尔文在《物种起源》最后一段所论证的——一切生命都是“若干力量”的结果，“这些力量最初被吹入少数形态、或一个形态之中”（Darwin 1859 [1964], 490）[^darwin-1859]。这可能意味着一切原初形态有一个自然主义的单一来源：物质涌现，或某种生命力原则的作用。达尔文对《圣经》语言的使用，也可以读作容许超自然原因的作用。
 
@@ -136,9 +136,9 @@
 
 达尔文主张横扫一切，《物种起源》实际提供的经验证据却相当简略；其理论又牵动若干更一般的哲学与神学议题。于是，围绕达尔文进化的争论兴起，160 多年来潮起潮落。这一理论被置入各国各文化复杂多样的接受情境；对接受情况的研究本身，如今已成一门学术产业。欧洲、拉丁美洲与英语世界的接受研究最为深入（Bowler 2013a; Gayon 2013; Largent 2013; Glick 1988, 2013; Glick and Shaffer 2014; Engels and Glick 2008; Gliboff 2008; Numbers 1998; Pancaldi, 1991; Todes 1989; Kelly 1981; Hull 1973; Mullen 1964）[^bowler-2013a][^engels-2008][^gayon-2013][^gliboff-2008][^glick-1988][^glick-2013][^glick-2014][^hull-1973][^kelly-1981][^largent-2013][^mullen-1964][^numbers-1998][^todes-1989]。此外还有对非西方接受的分析（Jin 2020, 2019 a,b; Yang 2013; Shen 2016; Elshakry 2013; Pusey 1983）[^jin-2019a][^jin-2022][^elshakry-2013][^jin-2020][^pusey-1983][^shen-2016][^yang-2013]。这些分析显示出西方与非西方解读达尔文理论的共同模式：这些接受即使不是由既有的思想、科学、宗教、社会与政治语境所决定，也深受其制约。
 
-在英语世界，达尔文的理论落入复杂的社会环境：在美国，这意味着内战前的奴隶制争论（Largent 2013; Numbers 1998）[^largent-2013][^numbers-1998]；在英国，它面对的是维多利亚中期社会的大规模工业扩张与科学职业化。只看英国阅读公众语境的若干方面：1844 年匿名出版的《自然创造史的遗迹》早已流行，到 1860 年 12 月已出 11 版、售出 23,350 册（Secord，“导言”，Chambers 1844 [1994], xxvii]）[^chambers-1844]，世纪末还有更多版本；这无疑为“物种经由次级自然规律作用而进化起源”这一观念打下了基础。《遗迹》有一套宏大的生命目的论发展图式：从太阳系在气态星云中的最初开端，到人类在一项伟大的“发展规律”作用下出现。这套图式也经丁尼生勋爵的史诗《悼念》（1850）传给了维多利亚读者。有这样的《遗迹》背景，有人便可以把达尔文读成一种额外支持——支持如下信念：生命在次级规律的目的论引导下乐观发展，终将获得历史救赎。这类解读还使《物种起源》看来与达尔文同时代人赫伯特·斯宾塞的进步进化论相容（见“赫伯特·斯宾塞”词条）。正因相似，斯宾塞的著作成了重要载体。达尔文的观点经修改以符合其进步论后，最初正是借此传入非西方语境（Jin 2020, 2019 a,b; Lightman [ed.] 2015; Pusey 1983）[^jin-2020][^pusey-1983]。这类通俗接受忽视或修改了达尔文的自然选择进化概念，以迁就进步论的替代方案。
+在英语世界，达尔文的理论落入复杂的社会环境：在美国，这意味着内战前的奴隶制争论（Largent 2013; Numbers 1998）[^largent-2013][^numbers-1998]；在英国，它面对的是维多利亚中期社会的大规模工业扩张与科学职业化。只看英国阅读公众语境的若干方面：1844 年匿名出版的《自然创造史的遗迹》早已流行，到 1860 年 12 月已出 11 版、售出 23,350 册（Secord，“导言”，Chambers 1844 [1994], xxvii）[^chambers-1844]，世纪末还有更多版本；这无疑为“物种经由次级自然规律作用而进化起源”这一观念打下了基础。《遗迹》有一套宏大的生命目的论发展图式：从太阳系在气态星云中的最初开端，到人类在一项伟大的“发展规律”作用下出现。这套图式也经丁尼生勋爵的史诗《悼念》（1850）传给了维多利亚读者。有这样的《遗迹》背景，有人便可以把达尔文读成一种额外支持——支持如下信念：生命在次级规律的目的论引导下乐观发展，终将获得历史救赎。这类解读还使《物种起源》看来与达尔文同时代人赫伯特·斯宾塞的进步进化论相容（见“赫伯特·斯宾塞”词条）。正因相似，斯宾塞的著作成了重要载体。达尔文的观点经修改以符合其进步论后，最初正是借此传入非西方语境（Jin 2020, 2019 a,b; Lightman [ed.] 2015; Pusey 1983）[^jin-2020][^pusey-1983]。这类通俗接受忽视或修改了达尔文的自然选择进化概念，以迁就进步论的替代方案。
 
-出了英国，达尔文著作的接受情况显示出地方语境与既有思想、社会条件的分量。可以详述三个例子：法国、德国与中国。在法国，达尔文理论面对的是 1830 年代转型论争论的余波：拉马克与艾蒂安·若弗鲁瓦·圣伊莱尔的理论对阵居维叶（Gayon 2013；“达尔文之前的进化思想”词条 4.1）[^gayon-2013]。至少在法国官方学术科学内部，这些争论大体以居维叶的反转型论获胜告终。奥古斯特·孔德（1798–1857）的“实证哲学”提供的思想框架，对达尔文既有利也有弊。一方面，孔德强调科学相对于迷信与形而上学的历史进步，这使达尔文可以被召来支持科学进步论——第一部法译本（克莱芒丝·鲁瓦耶译）的序言就是这样解读的（Harvey 2008）[^harvey-2008]。另一方面，孔德的三阶段历史观主张：科学思辨与形而上学时期终将被受确定规律支配的实验科学时期历史地超越。这一来，达尔文主义反倒被归入思辨自然哲学的形而上学阶段。法国科学界领头的生理学家与方法论家克洛德·贝尔纳（1813–78）的评断正体现了这一看法。他在 1865 年关于科学方法论的论著中写道，达尔文的理论应与“歌德、奥肯、卡鲁斯、若弗鲁瓦·圣伊莱尔”之流并列，归入思辨自然哲学，而不配“实证”科学的地位（Bernard 1865 [1957], 91–92]）[^bernard-1865]。
+出了英国，达尔文著作的接受情况显示出地方语境与既有思想、社会条件的分量。可以详述三个例子：法国、德国与中国。在法国，达尔文理论面对的是 1830 年代转型论争论的余波：拉马克与艾蒂安·若弗鲁瓦·圣伊莱尔的理论对阵居维叶（Gayon 2013；“达尔文之前的进化思想”词条 4.1）[^gayon-2013]。至少在法国官方学术科学内部，这些争论大体以居维叶的反转型论获胜告终。奥古斯特·孔德（1798–1857）的“实证哲学”提供的思想框架，对达尔文既有利也有弊。一方面，孔德强调科学相对于迷信与形而上学的历史进步，这使达尔文可以被召来支持科学进步论——第一部法译本（克莱芒丝·鲁瓦耶译）的序言就是这样解读的（Harvey 2008）[^harvey-2008]。另一方面，孔德的三阶段历史观主张：科学思辨与形而上学时期终将被受确定规律支配的实验科学时期历史地超越。这一来，达尔文主义反倒被归入思辨自然哲学的形而上学阶段。法国科学界领头的生理学家与方法论家克洛德·贝尔纳（1813–78）的评断正体现了这一看法。他在 1865 年关于科学方法论的论著中写道，达尔文的理论应与“歌德、奥肯、卡鲁斯、若弗鲁瓦·圣伊莱尔”之流并列，归入思辨自然哲学，而不配“实证”科学的地位（Bernard 1865 [1957], 91–92）[^bernard-1865]。
 
 在德意志各邦，达尔文的工作进入了一个复杂的社会、思想与政治处境——1848 年建立自由民主的努力刚刚失败。它还进入一种深受既有哲学传统影响的思想文化：康德、谢林的《自然哲学》、德国浪漫主义，以及费希特与黑格尔的唯心论（R. J. Richards 2002, 2008, 2013; Gliboff 2007, 2008; Mullen 1964）[^gliboff-2007][^gliboff-2008][^mullen-1964][^richards-2013][^richards-2002][^richards-2008][^richards-2013-2]。这些因素构成复杂的政治与哲学环境；达尔文关于自然的发展观与物种转型理论迅速被吸收，当然也经过了改造。于是，许多解读都在谢林自然哲学的背景下理解达尔文的论证。耶拿大学动物学教授恩斯特·海因里希·海克尔（1834–1919）热情鼓吹达尔文主义，更把达尔文的权威推到科学唯物主义之争的前台。海克尔比任何人都更使 *Darwinismus* 成为俾斯麦德国两极化政治与宗教争论中的主要角色（R. J. Richards 2008）[^richards-2008]。通过《自然创造史》（1868）、《人类发生学》（1874）、《宇宙之谜》（1895–99）等论战著作，海克尔以达尔文之名倡导唯物主义一元论，并拿它当大棒打击传统宗教。宗教群体与进化生物学之间的许多历史冲突，都能追溯到海克尔的论战著作；这些书历经众多版本与译本，包括直到 20 世纪初叶仍在印行的若干英美版本。
 
@@ -166,7 +166,7 @@
 
 作为对变异问题的解决方案，达尔文提出“暂时性假说”——泛生论。詹金评论问世一年后，他在两卷本《家养条件下动植物变异》中公布了这一假说（Darwin 1868; Olby 2013）[^darwin-1868][^olby-2013]。这一理论其实是独立于詹金评论形成的（Olby 1963）[^olby-1963]，但实际起了回应詹金批评的作用。泛生论回到一种类似布丰上世纪提出的有机分子理论，提供关于变异与遗传的因果理论（见“达尔文之前的进化思想”词条第 3.2 节）：据假定，细胞内存在不可见的物质“微芽”；微芽会受环境及其他外部原因改造，随后不断脱落进入血流（“运输”假说），并靠“彼此间的相互亲和力聚集，或聚成芽体，或聚成性要素”（Darwin 1868, vol. 2, 375）[^darwin-1868]。以这种形态，它们经由有性生殖传给下一代——细节未作解释——由“构成生物体的、经过改造的生理单位”形成新生物（ibid., 377）。在达尔文看来，这一假说把众多问题统一为连贯的因果遗传理论，解释了变异的基础，也解释了用进废退遗传——他从未放弃的理论——如何可能运作。
 
-泛生论虽未被点名，但似乎支撑着达尔文 1869 年第五版《物种起源》中一个重要的区分。那是他直接回应詹金批评时插入的：他把“某些无人会归为单纯个体差异的变异”与普通变异分开（Darwin1869, 105; Peckham 2006, 178–179）[^peckham-2006]。这一修订让达尔文不再像早先那样倚重正常的细微个体变异，并给他此时所称的“显著标记”变异以新的地位，后者被赋予主要进化意义。据推测，这种强变异更可能传给后代（细节仍不清楚）；以这种形态，重大变异大概能在种群中维持，而不像詹金所论证的那样被杂交淹没。
+泛生论虽未被点名，但似乎支撑着达尔文 1869 年第五版《物种起源》中一个重要的区分。那是他直接回应詹金批评时插入的：他把“某些无人会归为单纯个体差异的变异”与普通变异分开（Darwin 1869, 105; Peckham 2006, 178–179）[^peckham-2006]。这一修订让达尔文不再像早先那样倚重正常的细微个体变异，并给他此时所称的“显著标记”变异以新的地位，后者被赋予主要进化意义。据推测，这种强变异更可能传给后代（细节仍不清楚）；以这种形态，重大变异大概能在种群中维持，而不像詹金所论证的那样被杂交淹没。
 
 达尔文在这一问题上的挣扎，界定了一组英国生命科学家要到 1930 年代才处理完的问题。围绕体细胞变异在进化中作用的争论，使达尔文主义处于守势，迫使支持者对达尔文研究纲领作重大修订（Gayon 1998; Vorzimmer 1970）[^gayon-1998][^vorzimmer-1970]。结果是达尔文主义史上一段复杂时期：自然选择理论或被许多研究者抛弃，或被另一些人以修改形式维护（Bowler 1983, 2013a; Largent 2009）[^bowler-1983][^bowler-2013a][^largent-2009]。
 
@@ -256,7 +256,7 @@
 [^barrett-1987]: Barrett, Paul H., Peter J. Gautrey, Sandra Herbert, David Kohn, and Sydney Smith (eds.), 1987, *Charles Darwin’s Notebooks: 1836–1844*, Cambridge: Cambridge University Press. [online manuscripts at Darwin’s notebooks and reading lists.]
 [^beatty-1985]: Beatty, John 1985, “Speaking of Species: Darwin’s Strategy”, in Kohn 1985a: 265–281. doi:10.1515/9781400854714.265
 [^bernard-1865]: Bernard, Claude, 1865 [1957], *Introduction to the Study of Experimental Medicine*, translated Henry Copley Greene, New York: Dover. Originally published in 1927, New York:Macmillan. [[Bernard 1865 available online](https://archive.org/details/BIUSante_31054/page/n155)]
-[^boniolo-2006]: Boniolo, Giovanni and Gabriele De Anna (eds.) 2006, *Evolutionary Ethics an Contemporary Biology,* Cambridge: Cambridge University Press.
+[^boniolo-2006]: Boniolo, Giovanni and Gabriele De Anna (eds.) 2006, *Evolutionary Ethics and Contemporary Biology,* Cambridge: Cambridge University Press.
 [^bowlby-1990]: Bowlby, John, 1990, *Charles Darwin: A New Life*, New York: Norton.
 [^bowler-1976]: Bowler, Peter J., 1976, *Fossils and Progress: Paleontology and the Idea of Progressive Evolution in the Nineteenth Century*, New York: Science History.
 [^bowler-1983]: –––, 1983, *The Eclipse of Darwinism: Anti-Darwinian Evolution Theories in the Decades Around 1900*, Baltimore, MD: Johns Hopkins University Press.
@@ -315,7 +315,7 @@
 [^haught-2013]: Haught, John F., 2013, “Darwin and Catholicism”, in Ruse 2013a: 485–492. doi:10.1017/CBO9781139026895.062
 [^herbert-2005]: Herbert, Sandra, 2005, *Charles Darwin, Geologist*, Ithaca, NY: Cornell University Press.
 [^herschel-1830]: Herschel, John F. W., 1830 [1987], *A Preliminary Discourse on the Study of Natural Philosophy*, reprint, Chicago: University of Chicago Press. [[Herschel 1830 available online](https://archive.org/details/apreliminarydis02hersgoog/page/n10)]
-[^hodge-1977]: Hodge, Jonathan [M.J.S.}, 1977, “The Structure and Strategy of Darwin’s ‘Long Argument’”, *British Journal for the History of Science*, 10(3): 237. doi:10.1017/S0007087400015685
+[^hodge-1977]: Hodge, Jonathan [M.J.S.], 1977, “The Structure and Strategy of Darwin’s ‘Long Argument’”, *British Journal for the History of Science*, 10(3): 237. doi:10.1017/S0007087400015685
 [^hodge-1983a]: –––,1983a, “Darwin and the Laws of the Animate Part of the Terrestrial System (1835–1837): On the Lyellian Origins of His Zoonomical Explanatory Program”, *Studies in the History of Biology*, 6: 1–106.
 [^hodge-1983b]: –––, 1983b, “The Development of Darwin’s General Biological Theorizing”, in D. S. Bendall, *Evolution From Molecules to Men*, Cambridge: Cambridge University Press, 43–62.
 [^hodge-1985]: –––, 1985, “Darwin as a Lifelong Generation Theorist”, in Kohn 1985a: 207–243. doi:10.1515/9781400854714.207
@@ -404,7 +404,7 @@
 [^sloan-2015]: –––, Gerald P McKenny, and Kathleen Eggleson (eds.), 2015, *Darwin in the Twenty-First Century: Nature, Humanity, and God*, Notre Dame, IN: University of Notre Dame Press.
 [^smocovitis-1996]: Smocovitis, Vassiliki Betty, 1996, *Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology*, Princeton, NJ: Princeton University Press.
 [^sober-1984]: Sober, Elliott, 1984, *The Nature of Selection: Evolutionary Theory in Philosophical Focus*, Cambridge, MA: MIT Press.
-[^spencer-1864]: Spencer, Herbert, 1864, *Principles of Biology*, London: Williams and Noegate. [[Spencer 1864 available online](https://archive.org/details/principlesbiolo05spengoog/page/n11)]
+[^spencer-1864]: Spencer, Herbert, 1864, *Principles of Biology*, London: Williams and Norgate. [[Spencer 1864 available online](https://archive.org/details/principlesbiolo05spengoog/page/n11)]
 [^stamos-2003]: Stamos, David N., 2003, *The Species Problem: Biological Species, Ontology, and the Metaphysics of Biology*, Lanham, MA: Lexington Books.
 [^stamos-2007]: –––, 2007, *Darwin and the Nature of Species*, Albany, NY: State University of New York Press.
 [^swetlitz-2013]: Swetlitz, Marc, 2013, “Judaism, Jews, and Evolution”, in Ruse 2013a: 493–498. doi:10.1017/CBO9781139026895.063
@@ -416,7 +416,7 @@
 [^waters-2009]: Waters, C. Kenneth, 2009, “The Arguments in the *Origin of Species*”, in Hodge and Radick 2009: 120–144, doi:10.1017/CCOL9780521884754.006
 [^whewell-1837]: Whewell, William, 1837, *History of the Inductive Sciences, from the Earliest to the Present Times*, three volumes, London: Parker.
 [^whewell-1840]: –––, 1840, *The Philosophy of the Inductive Sciences*, London: Parker. [[Whewell 1840 available online](https://archive.org/details/philosofindu01whewrich/page/n8)]
-[^whewell-1858]: –––, 1858, *Novum Organon Renovatum, Being the Second Part of the Philosophy of the Inductive Sciences*, thirrd edition, London: Parker. [[Whewell 1858 available online](https://archive.org/details/novumorganonren00whewgoog/page/n4)]
+[^whewell-1858]: –––, 1858, *Novum Organon Renovatum, Being the Second Part of the Philosophy of the Inductive Sciences*, third edition, London: Parker. [[Whewell 1858 available online](https://archive.org/details/novumorganonren00whewgoog/page/n4)]
 [^white-2021]: White, Roger M., M. J. S. Hodge, and Gregory Radick, 2021, *Darwin’s Argument by Analogy: From Artificial to Natural Selection*, Cambridge: Cambridge University Press.
 [^wilkins-2009]: Wilkins, John S., 2009, *Species: a History of the Idea*, Berkeley and Los Angeles: University of California Press.
 [^yang-2013]: Yang Haiyan, 2013, “Encountering Darwin and Creating Darwinism in China”, in Ruse 2013a: 250–257. doi:10.1017/CBO9781139026895.032
