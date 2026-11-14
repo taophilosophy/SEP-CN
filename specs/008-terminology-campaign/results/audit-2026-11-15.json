@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8661,
-  "一致": 1301,
-  "不一致": 801,
-  "未查证": 119
+  "查无": 8731,
+  "一致": 1309,
+  "不一致": 797,
+  "未查证": 45
  },
  "results": [
   {
@@ -87378,8 +87378,8 @@
    "table": "术语",
    "line": 4046,
    "term": "part-whole relation",
-   "trans": "部分—整体关系",
-   "basis": "分体论通行译法；凭证 2026-11-10",
+   "trans": "部分—整体关系（亦作“整体—部分关系”）",
+   "basis": "分体论通行译法；凭证 2026-11-10；2026-11-15 补亦作（审定形，语序两形并行，连接号从 ADR-0041 一字线）",
    "status": "不一致",
    "hits": [
     {
@@ -87387,10 +87387,17 @@
      "cn": "整体-部分关系",
      "en": "whole-part relation",
      "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "整体-部分关系",
+     "en": "part-whole relation",
+     "source": "审定形（半字线）；通行“部分—整体关系”（ADR-0041 一字线）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -88549,19 +88556,26 @@
    "table": "术语",
    "line": 4100,
    "term": "perfect number",
-   "trans": "完全数",
-   "basis": "数论通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "完全数（亦作“完满数”）",
+   "basis": "数论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "完满数",
      "en": "perfect number",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "完满数",
+     "en": "perfect number",
+     "source": "审定形；数论通行“完全数”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -90153,19 +90167,26 @@
    "table": "术语",
    "line": 4173,
    "term": "Philosophy of Statistics",
-   "trans": "统计学哲学",
-   "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "trans": "统计学哲学（亦作“统计哲学”）",
+   "basis": "学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "统计哲学",
      "en": "philosophy of statistics",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "统计哲学",
+     "en": "Philosophy of Statistics",
+     "source": "审定短形；通行“统计学哲学”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -92728,9 +92749,9 @@
    "table": "术语",
    "line": 4281,
    "term": "Post-Newtonian",
-   "trans": "后牛顿",
-   "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "trans": "后牛顿（亦作“后牛顿近似”）",
+   "basis": "学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定复合形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -92755,10 +92776,17 @@
      "cn": "参数化后牛顿形式",
      "en": "parameterized post-Newtonian formalism",
      "source": "天文学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "后牛顿近似",
+     "en": "Post-Newtonian",
+     "source": "审定复合形；通行“后牛顿”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -93974,19 +94002,26 @@
    "table": "术语",
    "line": 4348,
    "term": "precautionary principle",
-   "trans": "预防原则",
-   "basis": "学界惯例（环境法与风险治理通行；亦作“预警原则”）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "预防原则（亦作“预警原则”“谨慎原则”）",
+   "basis": "学界惯例（环境法与风险治理通行）；凭证 2026-11-09；2026-11-15 亦作移入译法列并补审定形",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "谨慎原则",
      "en": "precautionary principle",
      "source": "社会学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "谨慎原则",
+     "en": "precautionary principle",
+     "source": "审定形；通行“预防原则”（亦作“预警原则”）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -94102,19 +94137,26 @@
    "table": "术语",
    "line": 4351,
    "term": "precession of the equinoxes",
-   "trans": "岁差",
-   "basis": "天文学通行；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "岁差（亦作“分点岁差”）",
+   "basis": "天文学通行；凭证 2026-11-08；2026-11-15 补亦作（审定全称形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "分点岁差",
      "en": "precession of the equinoxes",
      "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "分点岁差",
+     "en": "precession of the equinoxes",
+     "source": "审定全称形；通行“岁差”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -95324,19 +95366,26 @@
    "table": "术语",
    "line": 4413,
    "term": "principle of individuation",
-   "trans": "个体化原理",
-   "basis": "学界通行；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "个体化原理（亦作“个体化原则”）",
+   "basis": "学界通行；凭证 2026-11-08；2026-11-15 补亦作（审定形，原理/原则两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "个体化原则",
      "en": "principle of individuation",
      "source": "器官移植学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "个体化原则",
+     "en": "principle of individuation",
+     "source": "审定形；通行“个体化原理”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -97192,9 +97241,9 @@
    "table": "术语",
    "line": 4510,
    "term": "prospect theory",
-   "trans": "前景理论",
-   "basis": "学界惯例（Kahneman & Tversky；亦作“展望理论”）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "前景理论（亦作“展望理论”）",
+   "basis": "学界惯例（Kahneman & Tversky）；凭证 2026-11-09；2026-11-15 亦作自依据列移入译法列（审定同形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -97219,10 +97268,17 @@
      "cn": "展望理论",
      "en": "prospect theory",
      "source": "维基百科"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "展望理论",
+     "en": "prospect theory",
+     "source": "审定形；通行“前景理论”（Kahneman & Tversky）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -97968,9 +98024,9 @@
    "table": "术语",
    "line": 4547,
    "term": "public key cryptography",
-   "trans": "公钥密码学",
-   "basis": "密码学通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "公钥密码学（亦作“公钥密码”）",
+   "basis": "密码学通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -97983,10 +98039,17 @@
      "cn": "公钥密码",
      "en": "public-key cryptography",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "公钥密码",
+     "en": "public key cryptography",
+     "source": "审定短形；通行“公钥密码学”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -143397,9 +143460,11 @@
    "term": "Bob Hale",
    "trans": "鲍勃·黑尔（正文括注〔Bob Hale〕消歧——与 R.M. Hare 同译形“黑尔”）",
    "basis": "主会话收口 ad82d512；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 141245425（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143407,9 +143472,11 @@
    "term": "Bobbio, Norberto",
    "trans": "博比奥",
    "basis": "意大利政治哲学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 119330849（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143417,9 +143484,11 @@
    "term": "Boccadiferro, Ludovico",
    "trans": "卢多维科·博卡迪费罗",
    "basis": "本词条首译（亚里士多德注释家）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143427,9 +143496,11 @@
    "term": "Bochenski, I. M.",
    "trans": "I. M. Bochenski（现代学者，保留英文）",
    "basis": "ADR-0022（逻辑史家，Kretzmann 引及）；籍属/生卒联网查证：GND 规范标目 gnd 119245426（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143437,9 +143508,11 @@
    "term": "Bocheński, Józef M.",
    "trans": "Józef M. Bocheński",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 119245426（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143447,9 +143520,11 @@
    "term": "Bochner, Salomon",
    "trans": "所罗门·博赫纳",
    "basis": "学界通行汉译（博赫纳积分、博赫纳定理）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143457,9 +143532,11 @@
    "term": "Bodde, Derk",
    "trans": "德克·卜德",
    "basis": "学界通行（汉名卜德，《中国之思想与制度》译者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118887734（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143467,9 +143544,11 @@
    "term": "Bodhidharma",
    "trans": "菩提达摩",
    "basis": "佛学界通行汉译（初祖）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143477,9 +143556,11 @@
    "term": "Bodichon, Barbara",
    "trans": "芭芭拉·博迪雄",
    "basis": "音译（妇女教育倡导者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143487,9 +143568,11 @@
    "term": "Bodin, Jean",
    "trans": "让·博丹",
    "basis": "学界通行汉译（《主权论》中译本）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143497,9 +143580,11 @@
    "term": "Boeckh, August",
    "trans": "奥古斯特·伯克",
    "basis": "学界通行音译（古典语文学家，施莱尔马赫学生）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143507,9 +143592,11 @@
    "term": "Boehm, Rudolf",
    "trans": "Rudolf Boehm（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（脚注文献作者）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 123059526（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143517,9 +143604,11 @@
    "term": "Boehner, Philotheus",
    "trans": "Philotheus Boehner（现代学者，保留英文）",
    "basis": "ADR-0022（中世纪逻辑研究）；籍属/生卒联网查证：GND 规范标目 gnd 123448735（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143527,9 +143616,11 @@
    "term": "Boethius of Dacia",
    "trans": "达西亚的波爱修斯",
    "basis": "学界惯例（13 世纪）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119228599（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143537,9 +143628,11 @@
    "term": "Boethius, Anicius",
    "trans": "波爱修",
    "basis": "学界通行（《哲学的慰藉》作者；与达西亚的波爱修斯异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143547,9 +143640,11 @@
    "term": "Boethius, Anicius Manlius Severinus",
    "trans": "亚尼修·玛理乌斯·塞味利诺·波爱修斯",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 11851282X（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143557,9 +143652,11 @@
    "term": "Boethus of Sidon",
    "trans": "西顿的博埃图斯",
    "basis": "学界通行汉译（1 世纪逍遥派哲学家；SEP 源文作 1st century B.C.）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143567,9 +143664,11 @@
    "term": "Boffa, Maurice",
    "trans": "Boffa",
    "basis": "比利时",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143577,9 +143676,11 @@
    "term": "Bognar, Greg",
    "trans": "格雷格·博格纳",
    "basis": "学界通行汉译（卫生分配正义研究）；首现括注；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143587,9 +143688,11 @@
    "term": "Bohm, David",
    "trans": "大卫·玻姆",
    "basis": "学界通行汉译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143597,9 +143700,11 @@
    "term": "Böhm-Bawerk, Eugen von",
    "trans": "欧根·庞巴维克",
    "basis": "学界通行汉译（奥地利经济学派）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143607,9 +143712,11 @@
    "term": "Bohman, James",
    "trans": "詹姆斯·博曼",
    "basis": "学界通行汉译（共和主义世界主义）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143617,9 +143724,11 @@
    "term": "Bohr, Niels",
    "trans": "玻尔",
    "basis": "物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143627,9 +143736,11 @@
    "term": "Bolander, Thomas",
    "trans": "托马斯·博兰德",
    "basis": "构词直译（认知规划）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143637,9 +143748,11 @@
    "term": "Bolde, Samuel",
    "trans": "塞缪尔·博尔德",
    "basis": "学界通行音译（洛克社交圈人士）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -143647,9 +143760,11 @@
    "term": "Boldero, Edmund",
    "trans": "埃德蒙·博尔德罗",
    "basis": "音译（1688 年剑桥大学副校长；学界无通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144029,9 +144144,11 @@
    "term": "Bourbaki",
    "trans": "布尔巴基",
    "basis": "学界通行（数学家集体笔名，仅叙述行）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144135,9 +144252,11 @@
    "term": "Bradley, A.C.",
    "trans": "A.C. 布拉德雷",
    "basis": "学界通行汉译（莎士比亚批评名家，《莎士比亚悲剧》作者）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144145,9 +144264,11 @@
    "term": "Bradley, Charles",
    "trans": "查尔斯·布拉德雷",
    "basis": "学界通行音译（克拉珀姆派福音派传道人，F.H. 布拉德雷之父）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144179,9 +144300,11 @@
    "term": "Bradley, George Granville",
    "trans": "乔治·格兰维尔·布拉德雷",
    "basis": "学界通行音译（F.H. 布拉德雷异母兄，先后任马尔伯勒学院院长与威斯敏斯特大教堂主任牧师）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144201,9 +144324,11 @@
    "term": "Bradwardine, Thomas / Thomas Bradwardine",
    "trans": "托马斯·布拉德沃丁",
    "basis": "学界通行汉译（14 世纪英格兰神学家、逻辑学家）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Thomas Bradwardine`）；籍属/生卒联网查证：GND 规范标目 gnd 119105780（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144283,9 +144408,11 @@
    "term": "Brandon, Robert / Robert Brandom",
    "trans": "罗伯特·布兰登",
    "basis": "学界通行汉译（生物学哲学文献）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Robert Brandom`）；籍属/生卒联网查证：GND 规范标目 gnd 1206692812（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144756,9 +144883,11 @@
    "term": "Bruno, Giordano / Giordano Bruno",
    "trans": "乔尔丹诺·布鲁诺",
    "basis": "学界千年通行汉译；与 Bauer, Bruno 异人分立；凭证 2026-11-12 copernicus r2；2026-11-13 重复行合并（旧键 `Giordano Bruno`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144802,9 +144931,11 @@
    "term": "Buchanan, Allen / Allen Buchanan",
    "trans": "艾伦·布坎南",
    "basis": "音译（政治哲学家）；2026-11-13 重复行合并（旧键 `Allen Buchanan`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -144975,9 +145106,11 @@
    "term": "Bukharin, Nikolai / Nikolai Bukharin",
    "trans": "尼古拉·布哈林",
    "basis": "苏联马克思主义理论家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Nikolai Bukharin`）；籍属/生卒联网查证：GND 规范标目 gnd 118516574（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145117,9 +145250,11 @@
    "term": "Buridan, John [Jean] / John Buridan",
    "trans": "让·布里丹（正文简作“布里丹”）",
    "basis": "SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06；2026-11-13 重复行合并（旧键 `John Buridan`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145151,9 +145286,11 @@
    "term": "Burley, Walter / Burleigh / Walter Burley",
    "trans": "沃尔特·伯利",
    "basis": "学界通行汉译（14 世纪英格兰逻辑学家）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Walter Burley`）；籍属/生卒联网查证：GND 规范标目 gnd 11867496X（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145233,9 +145370,11 @@
    "term": "Butler, Joseph / Joseph Butler",
    "trans": "约瑟夫·巴特勒",
    "basis": "学界通行汉译（英国道德哲学家）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Joseph Butler`）；籍属/生卒联网查证：GND 规范标目 gnd 118518119（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145363,9 +145502,11 @@
    "term": "Caird, Edward",
    "trans": "爱德华·凯尔德",
    "basis": "学界通行汉译（英国唯心论者，格拉斯哥大学道德哲学讲席教授）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145759,9 +145900,11 @@
    "term": "Carington, Whately",
    "trans": "威尔弗雷德·卡林顿",
    "basis": "学界通行汉译（正文作“卡林顿”）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145769,9 +145912,11 @@
    "term": "Carl Immanuel Diez",
    "trans": "卡尔·伊曼努尔·迪茨",
    "basis": "音译（德国观念论同代人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119522764（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145779,9 +145924,11 @@
    "term": "Carl Spitteler",
    "trans": "卡尔·施皮特勒",
    "basis": "学界通行汉译（瑞士诗人，1919 诺贝尔文学奖）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118616277（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145789,9 +145936,11 @@
    "term": "Carl Stumpf",
    "trans": "卡尔·斯图姆夫",
    "basis": "SUMMARY 定名沿用（现象学心理学先驱）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118933299（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145799,9 +145948,18 @@
    "term": "Carlos, Don",
    "trans": "堂卡洛斯",
    "basis": "学界通行汉译（腓力二世长子，阿斯图里亚斯亲王）；凭证 2026-11-12",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "唐卡洛斯",
+     "en": "Don Carlos",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145809,9 +145967,11 @@
    "term": "Carlson, Allen",
    "trans": "艾伦·卡尔森",
    "basis": "学界通行汉译（环境美学创立者；SUMMARY 作者行 Allen Carlson）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145819,9 +145979,11 @@
    "term": "Carlson, Greg",
    "trans": "Greg Carlson",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1018260374（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145829,9 +145991,11 @@
    "term": "Carlyle, Thomas / Thomas Carlyle",
    "trans": "托马斯·卡莱尔",
    "basis": "学界通行汉译（苏格兰散文家）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Thomas Carlyle`）；籍属/生卒联网查证：GND 规范标目 gnd 118519131（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145839,9 +146003,11 @@
    "term": "Carnap, Rudolf",
    "trans": "卡尔纳普（Rudolf Carnap）",
    "basis": "学界通行汉译（ADR-0022：有通行汉名者用汉名＋首现括注原文；全库 51 个词条正文用“卡尔纳普”；原“现代学者保留英文”行按 ADR-0022 并入，同键变体 Rudolf Carnap 行合并）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145849,9 +146015,11 @@
    "term": "Carneades",
    "trans": "卡涅阿德斯",
    "basis": "学界通行汉译（新学园领袖，或然论；SUMMARY 定名）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145859,9 +146027,11 @@
    "term": "Carol Gilligan",
    "trans": "卡罗尔·吉利根",
    "basis": "学界通行汉译（女性主义/关怀伦理，《不同的声音》中译本）；凭证 2026-11-02；籍属/生卒联网查证：GND 规范标目 gnd 118891529（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145869,9 +146039,11 @@
    "term": "Caroline Böhmer",
    "trans": "卡罗琳·伯默",
    "basis": "学界惯例（后嫁 A. W. 施莱格尔、谢林）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118607049（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145879,9 +146051,11 @@
    "term": "Caroline of Ansbach",
    "trans": "卡罗琳（威尔士公主）",
    "basis": "英国史通行汉译（乔治二世王后；莱布尼茨—克拉克论战之居中者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145889,9 +146063,11 @@
    "term": "Carroll, Noël",
    "trans": "卡罗尔",
    "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 123662915（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145899,9 +146075,11 @@
    "term": "Carruthers, Peter",
    "trans": "彼得·卡拉瑟斯",
    "basis": "音译（心灵模块性）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145909,9 +146087,11 @@
    "term": "Carson, Scott",
    "trans": "斯科特·卡森",
    "basis": "学界通行音译（与 Brandon 合著概率倾向论）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145919,9 +146099,11 @@
    "term": "Cartwright, Helen Morris",
    "trans": "Helen Morris Cartwright",
    "basis": "无通行汉名，保留英文原名（1965 论量词与物质名词；与 Nancy Cartwright 分列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145929,9 +146111,11 @@
    "term": "Cartwright, Nancy / Nancy Cartwright",
    "trans": "南希·卡特赖特",
    "basis": "学界通行汉译（科学哲学，《自然定律如何撒谎》作者）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Nancy Cartwright`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145939,9 +146123,11 @@
    "term": "Carugo, Adriano",
    "trans": "卡鲁戈",
    "basis": "全名汉译“阿德里亚诺·卡鲁戈”，正文简名首现括注；学界惯例（科学史研究通行音译）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145949,9 +146135,11 @@
    "term": "Carvalho, Daniel Campos de",
    "trans": "丹尼尔·坎波斯·德卡瓦略",
    "basis": "音译（全球金融治理研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145959,9 +146147,11 @@
    "term": "Casaubon, Méric",
    "trans": "梅里克·卡索邦",
    "basis": "学界通行汉译（古典学者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119058626（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145969,9 +146159,18 @@
    "term": "Case, John",
    "trans": "约翰·凯斯",
    "basis": "学界通行音译；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "曾格审判案",
+     "en": "Zenger Case;Trial of John Peter Zenger",
+     "source": "新闻学与传播学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145979,9 +146178,11 @@
    "term": "Caso, Antonio",
    "trans": "安东尼奥·卡索",
    "basis": "学界通行汉译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145989,9 +146190,11 @@
    "term": "Cassam, Quassim",
    "trans": "卡西姆·卡萨姆",
    "basis": "学界通行汉译（自我知识研究者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 138647062（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -145999,9 +146202,11 @@
    "term": "Cassini, Giovanni Domenico",
    "trans": "乔瓦尼·多梅尼科·卡西尼",
    "basis": "天文学史通行汉译；正文简作卡西尼；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146009,9 +146214,11 @@
    "term": "Cassirer, Bruno",
    "trans": "布鲁诺·卡西尔",
    "basis": "艺术出版人，恩斯特·卡西尔堂兄；学界通行音译；与 Cassirer, Ernst 异人分立；凭证 2026-11-12 r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146019,9 +146226,11 @@
    "term": "Cassirer, Ernst / Ernst Cassirer",
    "trans": "恩斯特·卡西尔",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `Ernst Cassirer`）；籍属/生卒联网查证：GND 规范标目 gnd 118519522（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146029,9 +146238,24 @@
    "term": "Castañeda, Héctor-Neri",
    "trans": "埃克托尔-内里·卡斯塔涅达",
    "basis": "学界通行音译（索引词/自我知识）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146039,9 +146263,11 @@
    "term": "Castellanos, Rosario",
    "trans": "罗萨里奥·卡斯特利亚诺斯",
    "basis": "学界通行汉译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146049,9 +146275,24 @@
    "term": "Castle",
    "trans": "卡斯尔",
    "basis": "行为主义社会图景批评者（哲学家）；学界通行音译",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "城[堡]",
+     "en": "castle",
+     "source": "资源科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "城堡式",
+     "en": "castle",
+     "source": "奥运体育项目名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146059,9 +146300,11 @@
    "term": "Cataldo, Peter J.",
    "trans": "彼得·卡塔尔多",
    "basis": "学界通行音译（天主教生命伦理学；双效原则道德对象说）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146069,9 +146312,11 @@
    "term": "Catena, Pietro",
    "trans": "彼得罗·卡泰纳",
    "basis": "学界通行音译（数学家，帕多瓦）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146079,9 +146324,11 @@
    "term": "Caterus",
    "trans": "卡特鲁斯",
    "basis": "学界通行（《沉思集》第一组诘难人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146101,9 +146348,11 @@
    "term": "Cather, Willa",
    "trans": "薇拉·凯瑟",
    "basis": "学界通行汉译（美国小说家）；籍属/生卒联网查证：GND 规范标目 gnd 11866879X（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -146111,9 +146360,11 @@
    "term": "Catilinet, Jean",
    "trans": "让·卡蒂利内",
    "basis": "学界惯例（音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

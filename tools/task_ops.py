@@ -248,18 +248,20 @@ def _audit_independence_gate(task, actor, evidence):
 
 
 def _audit_gate(zh_doc):
-    """audited 校次门禁挂钩：check_math_zh 默认档 0 硬错误——公式完整性硬伤
+    """s2.5 校次门禁挂钩：check_math_zh 默认档（公式完整性）＋check_style（体例，
+    2026-11-15 O1 加挂——回退件历史违例潜伏教训，specs/028 pilot O1）——
     （裸 $、宏残留、中文入公式等 C1–C6/C8）在审计即拦，strict 升档留 s3/r3
     （rules/04 审计已译环节、ADR-0040）。词汇表维护任务与无 zh_doc 条目不设门。"""
     if not zh_doc:
         return
     tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
                               "tools")
-    r = subprocess.run([sys.executable, _os.path.join(tools_dir, "check_math_zh.py"), zh_doc],
-                       capture_output=True, text=True)
-    if r.returncode == 1:
-        raise PreconditionError("公式体例门禁未通过（audited 校次）：%s"
-                                % r.stdout.strip()[-800:])
+    for script, label in (("check_math_zh.py", "公式体例"), ("check_style.py", "体例预检")):
+        r = subprocess.run([sys.executable, _os.path.join(tools_dir, script), zh_doc],
+                           capture_output=True, text=True)
+        if r.returncode == 1:
+            raise PreconditionError("%s门禁未通过（s2.5 校次，specs/028 O1）：%s"
+                                    % (label, r.stdout.strip()[-800:]))
 
 
 def _academic_gate(zh_doc, step):
