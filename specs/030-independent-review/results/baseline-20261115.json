@@ -1,0 +1,2021 @@
+{
+ "scope": "全库",
+ "state_filter": [
+  "done",
+  "drafted",
+  "r1_reviewed",
+  "r2_reviewed",
+  "r3_reviewed",
+  "s1_checked",
+  "s2.4_termchecked",
+  "s2.5_checked",
+  "s2_checked",
+  "s3_checked"
+ ],
+ "files": 421,
+ "skipped_not_translated": 1458,
+ "counts": {
+  "bib-heading-form": 1,
+  "pubinfo-form": 4,
+  "bib-subsection": 42,
+  "style": 58,
+  "quote-adjacent": 50,
+  "pairs": 183,
+  "_files": 421
+ },
+ "classes": {
+  "bib-heading-form": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-judgment.md",
+    "line": 235,
+    "detail": "旧形态节名 '### References（引用注释）'（应为 `## 参考文献`）"
+   }
+  ],
+  "pubinfo-form": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\informed-consent.md",
+    "line": 3,
+    "detail": "出版信息行非正典形（应 `*首次发表于 YYYY 年 M 月 D 日…*`）：**首次发表于 2011 年 9 月 20 日；2025 年 2 月 20 日实质修订。**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\informed-consent.md",
+    "line": 0,
+    "detail": "en 源有 First published 而 zh 缺出版信息行"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\nietzsche-aesthetics.md",
+    "line": 0,
+    "detail": "en 源有 First published 而 zh 缺出版信息行"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\novalis.md",
+    "line": 0,
+    "detail": "en 源有 First published 而 zh 缺出版信息行"
+   }
+  ],
+  "bib-subsection": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\abner-burgos.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetics-existentialist.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\agrippa-nettesheim.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-farabi-psych.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albalag.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\alberic-paris.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albert-great.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\antiochus-ascalon.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\arabic-islamic-phil-math.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\austin-john.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bloch.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\buddhism-chan.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\dai-zhen.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\delmedigo.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\democritus.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\demonstration-medieval.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\descartes-works.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\diodorus-cronus.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\duhem.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\edwards.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\f\\fuller-margaret.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\giles.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\godwin.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gomez-pereira.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gregory-rimini.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\harriet-mill.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hartshorne.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\ibn-sina.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-hume-morality.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-spacetime.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kaspi-joseph.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lambert-auxerre.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\marsilius-padua.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\newton-stm.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\p\\peirce-benjamin.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\p\\peter-spain.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\rationalism-early-modern.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\saadya.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\scholem.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\sikh-philosophy.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\stebbing.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\z\\zeno-elea.md",
+    "line": 0,
+    "detail": "en 源书目含 Primary/Secondary Sources 分类，zh 未保留分类子标题"
+   }
+  ],
+  "style": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\abraham-daud.md",
+    "line": 95,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …），而在那部书里**意志**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\abraham-daud.md",
+    "line": 95,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **意志**扮演着决定性的神…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\actualism-possibilism-ethics.md",
+    "line": 198,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **如果**执行该选项**会…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\actualism-possibilism-ethics.md",
+    "line": 198,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …果**执行该选项**会**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\actualism-possibilism-ethics.md",
+    "line": 244,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **它***会 ** 导致…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 47,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …，审美体验是一种**本身**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 47,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **本身**具有统一、圆满形…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 59,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …从区分，因此某物**算作**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 59,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **算作**艺术不可能是其形…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 311,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *看作*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-experience.md",
+    "line": 311,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *是*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetics-18th-french.md",
+    "line": 89,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …聚焦的核心概念是**摹仿**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 5,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *人格*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 15,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *成为*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 15,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …种生物实体——与**人格**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 23,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *人格*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 23,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *主体*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 31,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *构成性*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 31,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *条件*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 33,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *能动性*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 33,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *责任*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 45,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *人格*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 45,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *主体*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 49,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *转世观念*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 75,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *理由*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 81,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *机会*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 83,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *仅仅*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 85,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *转变*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 97,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *人格*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-khunaji.md",
+    "line": 54,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **绝对未知者**的例子——即被定…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-khunaji.md",
+    "line": 157,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *关于命题的*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-kindi.md",
+    "line": 125,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-kindi.md",
+    "line": 125,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albalag.md",
+    "line": 124,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …的理智，其实体化**就是**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albalag.md",
+    "line": 124,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **就是**思维这一行为本身…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bohr-correspondence.md",
+    "line": 65,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **当且仅当**在初始定态中电子…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\egoism.md",
+    "line": 93,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: 第二个反对伦理利己主义的论证由 H. A. 普里查德提出。他论证说自身利益是错误"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 27,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *自我认识*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 29,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *复杂的*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 29,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *有差异的*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 29,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *动态的*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 43,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *与*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 53,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *偏见*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 53,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *前判断*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 55,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *应用*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 61,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *历史*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 69,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *交谈*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hilbert-program.md",
+    "line": 111,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …其他公式——它们**在 $T$ 中可证**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\ibn-sina.md",
+    "line": 129,
+    "rule": "curly-quotes",
+    "detail": "引号不成对（‘…’ 差 1）: 亚里士多德的伦理学提供了这座大厦的基础。去认识、并理性地认识的绝对命令——这是阿"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\identity-ethics.md",
+    "line": 281,
+    "rule": "no-html",
+    "detail": "<https://plato.stanford.edu/archives/spr"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\identity.md",
+    "line": 169,
+    "rule": "italic-cjk",
+    "detail": "中文强调不应使用斜体，应改为加粗: *，与一座雕像歌利亚\\*"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\implicature-optimality-games.md",
+    "line": 30,
+    "rule": "curly-quotes",
+    "detail": "引号不成对（‘…’ 差 1）: 1. $P(i_2 \\mid [\\![$‘two’$]\\!]) = ⅓$ 高于任"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\implicature-optimality-games.md",
+    "line": 101,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: \\text{three}{\\text{’}} ]\\!] \\subset [\\!["
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\implicature-optimality-games.md",
+    "line": 101,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: \\text{one}{\\text{’}} ]\\!], $$"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lorenzo-valla.md",
+    "line": 23,
+    "rule": "bold-spacing",
+    "detail": "** 前缺空格: …论解释，同时希望**维护**"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lorenzo-valla.md",
+    "line": 23,
+    "rule": "bold-spacing",
+    "detail": "** 后缺空格: **维护**范畴作为不同词项…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\quine-nf.md",
+    "line": 13,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: u{\\text{’}}) + 1$；若 $"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\quine-nf.md",
+    "line": 13,
+    "rule": "curly-quotes",
+    "detail": "右引号先于左引号: v{\\text{’}}) = \\sigma("
+   }
+  ],
+  "quote-adjacent": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\action-perception.md",
+    "line": 241,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …学会通过 TVSS“看见”。被动接收…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albert-saxony.md",
+    "line": 29,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …畴篇问答》，问 1“论名称”），命题…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\anscombe.md",
+    "line": 129,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …知道我在那样做。”2）“我（仅仅）观…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\anscombe.md",
+    "line": 129,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …断出我在那样做。”3）“我（仅仅）观…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\auriol.md",
+    "line": 81,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …名经文（13:12“我们如今仿佛对着…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bayes-theorem.md",
+    "line": 32,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …法是：用“预测项”P_{*H*}(*…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\cancer.md",
+    "line": 116,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …和检验关于 CSC“内在致瘤性”的假…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\computing-history.md",
+    "line": 109,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …这个词时，“房子”H11 和 H13…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\cosmology-30s.md",
+    "line": 253,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …他那“难以置信的”PCP 背后的“哲…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\cosmology-30s.md",
+    "line": 269,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …石，我就放弃它。”1965 年，化石…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\descartes-ideas.md",
+    "line": 45,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …更多内容见 SEP“笛卡尔的认识论”…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\disability-care-rationing.md",
+    "line": 67,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …加总问题在 CEA“收益”一侧的适用…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\ehrenfels.md",
+    "line": 126,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …aters – ”der Knopf…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\ehrenfels.md",
+    "line": 126,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …fgegangen“ für das…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\emerson.md",
+    "line": 247,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …原则遭到了否弃。”Cavell 回答…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\equal-ed-opportunity.md",
+    "line": 13,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …人生中取得成功。”K-12 教育对个…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\experimental-aesthetics.md",
+    "line": 29,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …指出，Kamber“的研究设计十分随…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\f\\falaquera.md",
+    "line": 63,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …har ha-he‘der*），或在…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\f\\falaquera.md",
+    "line": 63,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …创造”（*beri‘ah*）的解释，…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\genetics.md",
+    "line": 41,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …用信息隐喻。DNA“转录”为 RNA…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\god-necessary-being.md",
+    "line": 35,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …形无形万物的主。”381 年的《尼西…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\god-necessary-being.md",
+    "line": 146,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …太福音》19:26“在上帝凡事都能”…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\idiolects.md",
+    "line": 109,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …apprehend“理解”）的，那就…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\idiolects.md",
+    "line": 109,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …ernacular“本地方言”）的用…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\idiolects.md",
+    "line": 109,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: … epithets“措辞的巧妙安排”…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\it-privacy.md",
+    "line": 110,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …资源]）。“智能”RFID 也嵌入公…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\it-privacy.md",
+    "line": 110,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …通支付系统。“哑”RFID（基本只包…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-spacetime.md",
+    "line": 87,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …A 表象为“亮于”B，无须把 A 与…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-spacetime.md",
+    "line": 123,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …；参“知觉的预测”A169–170/…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kaspi-joseph.md",
+    "line": 46,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …引《创世记》2:5“又没有耕种土地的…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kaspi-joseph.md",
+    "line": 87,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …赛亚书》41:14“雅各的虫”一语的…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kierkegaard.md",
+    "line": 67,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …最低”，宗教感 B“最高”。然而这可…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kilvington.md",
+    "line": 35,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …最有趣的是 S47“你知道国王在坐着…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\knowledge-analysis.md",
+    "line": 53,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …白女王死于何时？”Albert 不认…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\knowledge-analysis.md",
+    "line": 160,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …，那么 Henry“看见一座 **红…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\knowledge-analysis.md",
+    "line": 251,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …到一切“非冗余的”JTB+X 分析。…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\korean-philosophy.md",
+    "line": 79,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …Chinul-CW“圆顿成佛论”，2…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lakatos.md",
+    "line": 348,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …西几乎全部扔掉。”Russell 1…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-infinitary.md",
+    "line": 55,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …> κ 的“语言”L(κ,λ) 并无…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-infinitary.md",
+    "line": 55,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …获。比如在“语言”L(ω,ω₁) 里…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-infinitary.md",
+    "line": 485,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …定义的形式系统。”Scott 从未发…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\montessori-maria.md",
+    "line": 135,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …ercy Nunn“最先提出”（1:…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\object.md",
+    "line": 700,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …ck，他是 SEP“对象”词条原稿作…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\omniscience.md",
+    "line": 5,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …约伯记》12:13“上帝有智慧与能力…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\omniscience.md",
+    "line": 5,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …罗马书》11:33“上帝丰富的智慧与…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\omniscience.md",
+    "line": 113,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …senkrantz“因果上不可避免”…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\rationalism-early-modern.md",
+    "line": 160,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …不可能随之而来。”Lin 写道：“没…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\redistribution.md",
+    "line": 105,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …意两点漠然无别。”Thomas Na…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\scholz.md",
+    "line": 20,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …“逻辑斯蒂研讨班”1946 年更名为…"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\x\\xenophanes.md",
+    "line": 25,
+    "rule": "quote-spacing",
+    "detail": "引号与西文/数字之间缺半角空格: …活像马和牛。B17“……松木的酒神狂…"
+   }
+  ],
+  "pairs": [
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\abner-burgos.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 69 vs en 45（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\abstract-objects.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 161 vs en 137（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\action.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 325 vs en 314（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\actualism-possibilism-ethics.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "公式数 zh 338 vs yuanwen 430（偏差超 10%）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\adorno.md",
+    "line": 93,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：阿多诺身后出版的若干战后大学讲座课程，连同他的黑格尔书（1963a [1993]），记录"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-concept.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 13 vs en 16（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-judgment.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：我们也相信，美、丑等审美属性依赖于非审美属性。依赖与心灵独立性相对：它说的是审美属性确实"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetic-judgment.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 54 vs en 63（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aesthetics-18th-french.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 69 vs en 66（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\akan-person.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 50 vs en 44（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\al-farabi-psych.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 46 vs en 38（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albalag.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 95 vs en 90（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albert-great.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 12 vs en 15（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\albert-great.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 85 vs en 78（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\alexander-crummell.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 11 vs en 14（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\ancient-soul.md",
+    "line": 21,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [补充材料：伯内特论希腊人的灵魂概念](ancient-soul.supplement.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aristotle-causality.md",
+    "line": 309,
+    "rule": "ellipsis-form",
+    "detail": "中文语境三点省略号（应六连点 ……）：- [形式与功能：亚里士多德的四因](http://www.historyofphilo"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\a\\aristotle-causality.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 14 vs en 18（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bessarion.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 91 vs en 83（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\binarium.md",
+    "line": 112,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^callus-1955]: –––. 1955. “The Condemnation"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bloch.md",
+    "line": 9,
+    "rule": "cite-authoryear",
+    "detail": "文内引注（Bloch 1909）在 en 书目有对应条目而 zh 书目缺失：恩斯特·布洛赫于 1885 年 7 月 8 日生于莱茵河畔的路德维希港，出身铁路"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bloch.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 118 vs en 101（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bohr-correspondence.md",
+    "line": 335,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^bohr-1923]: [1923] 1924, “On the applicati"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\bradley-moral.md",
+    "line": 337,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^wollheim-1969]: Wollheim, Richard, 1969, *"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\brentano-judgement.md",
+    "line": 447,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：[^note-24]: 布伦塔诺否认直言命题表达这类简单的存在判断（他此时称之为“直接”"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\brentano-judgement.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 108 vs en 74（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\brentano.md",
+    "line": 37,
+    "rule": "ellipsis-form",
+    "detail": "中文语境三点省略号（应六连点 ……）：> “因此，自然科学绝不要求〔…〕我们处处都以同一方式、都以处理力学中最简单情形的样子来"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\brouwer.md",
+    "line": 141,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [弱反例](brouwer.weakcounterex.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\b\\brouwer.md",
+    "line": 151,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [强反例](brouwer.strongcounterex.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\cambridge-platonists.md",
+    "line": 23,
+    "rule": "ellipsis-form",
+    "detail": "中文语境三点省略号（应六连点 ……）：亨利·莫尔（Henry More）是剑桥基督学院（Christ’s College）的终"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\closure-epistemic.md",
+    "line": 392,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：即使拒斥这条原则，也不蕴涵证成不在蕴涵下闭合，彼得·克莱因（1981）已指出这一点。可以"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\collingwood-aesthetics.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 34 vs en 31（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\computing-history.md",
+    "line": 38,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：1936 年，图灵在剑桥大学确立了现代计算机的原理。他描述了一台抽象的计算机器，它有一条"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 19,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 19,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 19,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 93,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：在这一段中，莲花戒在关于蓝色的认知与爱的感受之间划出区分。他的要点是，关于蓝色的认知是一"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 93,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：在这一段中，莲花戒在关于蓝色的认知与爱的感受之间划出区分。他的要点是，关于蓝色的认知是一"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 101,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 105,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：寂护论证的第二部分（b），即爱与憎不同于知觉，令人感兴趣之处在于他主张爱与憎不可能有外在"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 105,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：寂护论证的第二部分（b），即爱与憎不同于知觉，令人感兴趣之处在于他主张爱与憎不可能有外在"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 109,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：虽然关于知觉与爱之区别的论证并不表明爱需要先前的经验，但它提出了（至少）两个关于佛教情感"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\concept-emotion-india.md",
+    "line": 109,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：虽然关于知觉与爱之区别的论证并不表明爱需要先前的经验，但它提出了（至少）两个关于佛教情感"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\copernicus.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 68 vs en 54（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\c\\croce-aesthetics.md",
+    "line": 19,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：哲学容许作如下划分，对应于精神或心灵活动的不同方式。心灵活动或是理论的（它理解或静观），"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\dai-zhen.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 48 vs en 44（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\deductivism-mathematics.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 67 vs en 44（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\democritus.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 13 vs en 16（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\descartes-works.md",
+    "line": 13,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [笛卡尔的法学论文](descartes-works.history.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\descartes-works.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 10 vs en 14（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\dialectical-school.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 69 vs en 66（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\dilthey.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 25 vs en 35（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\disability-care-rationing.md",
+    "line": 126,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\disability-care-rationing.md",
+    "line": 126,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\disability-care-rationing.md",
+    "line": 126,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\d\\doxography-ancient.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 53 vs en 48（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\ecological-genetics.md",
+    "line": 78,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：> 费希尔从来没有像他本应做的那样关注［有效种群大小］这个概念……他在分析中使用的种群数"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\ecological-genetics.md",
+    "line": 104,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 2）：福特在此实际上提出了一个权衡问题：没有迁移时对局部条件的特化适应，与有迁移时对全局条件的"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\economic-democracy.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 166 vs en 157（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\erasmus.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 10 vs en 14（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\erasmus.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 76 vs en 73（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\e\\erfurt.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 73 vs en 45（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\gadamer.md",
+    "line": 93,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：伽达默尔的思想在法理论与法理学（见 Mootz 2007）[^mootz-2007]、文"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\god-necessary-being.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 82 vs en 70（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\g\\godwin.md",
+    "line": 142,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^letter-2000]: *Letter of Advice to a Young"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hartshorne.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 86 vs en 109（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hobbes-science.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 49 vs en 36（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hutcheson.md",
+    "line": 110,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：我们道德情感植根于人性之中，这进一步证明道德并非如巴尔格所暗示的那样是任意的。这是因为我"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\h\\hutcheson.md",
+    "line": 114,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：但弗兰克纳没有认识到，哈奇森 **确实** 做了这一统计调查。他主张其所述情感是人性的普"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\iamblichus.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 207 vs en 178（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\ibn-kammuna.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 37 vs en 31（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\ibn-sina.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 82 vs en 71（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\identity-indiscernible.md",
+    "line": 31,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：然而也可以保留一种极宽泛的属性概念，承认“与 \u0000 同一”“在数上不同于 \u0000”之类属性的存"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\idiolects.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 90 vs en 85（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\imprecise-probabilities.md",
+    "line": 62,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [形式附录](imprecise-probabilities.supplement-forma)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\imprecise-probabilities.md",
+    "line": 325,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [形式附录](imprecise-probabilities.supplement-forma)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\imprecise-probabilities.md",
+    "line": 349,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [历史附录](imprecise-probabilities.supplement-histo)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\incommensurability.md",
+    "line": 43,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：即便如此，弗莱克已经强调了库恩称为科学革命的那些转变的、导致“不可通约性”的三个相互关联"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\information-semantic.md",
+    "line": 191,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：他们主张通道结合，因此通道上的二元复合算子是结合的，即对于所有通道 \u0000 \u0000, 与 \u0000，如"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\informed-consent.md",
+    "line": 3,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：**首次发表于 2011 年 9 月 20 日；2025 年 2 月 20 日实质修订。"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\ingarden.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "节标题数 zh 14 vs en 18（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\innateness-cognition.md",
+    "line": 248,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^sampson-2005]: Sampson, Geoffrey, 2005, *T"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\intellectual-property.md",
+    "line": 317,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^humboldt-1792]: Humboldt, Wilhelm von, 179"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\i\\intensional-trans-verbs.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 82 vs en 70（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\james.md",
+    "line": 58,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：这篇论文的主干于 1879 年首次发表于《心灵》，1882 年刊于《普林斯顿评论》，18"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\james.md",
+    "line": 158,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：詹姆斯 1910 年去世时，仍在研究针对其“纯粹经验”学说的反驳意见、回应《实用主义》的"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 63,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [银阁寺银沙滩与向月台大图](japanese-aesthetics.ginkakuji.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 123,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [银阁寺银阁与金阁寺金阁大图](japanese-aesthetics.ginkakuji-kinkakuji.)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 155,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [雪舟《泼墨山水》](japanese-aesthetics.splashed-ink.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 198,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [龙安寺枯山水庭园大图](japanese-aesthetics.ryoanji.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 212,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《晚春》剧照放大序列](japanese-aesthetics.late-spring.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\japanese-aesthetics.md",
+    "line": 222,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《东京物语》剧照放大序列](japanese-aesthetics.tokyo-story.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\j\\justice-moral-psych.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "公式数 zh 5 vs yuanwen 43（偏差超 10%）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-hume-morality.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 110 vs en 105（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 17,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 23,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 57,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 67,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 69,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 108,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 114,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [康德逻辑的表面局限与混乱是否会损害其判断](kant-judgment.supplement3.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 148,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [判断的各种使用](kant-judgment.supplement4.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 174,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [补全康德判断形而上学之图景](kant-judgment.supplement5.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 178,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 182,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 182,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 186,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 188,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《使用的种类》](kant-judgment.supplement4.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 192,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《使用的种类》](kant-judgment.supplement4.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 196,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 206,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 206,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-judgment.md",
+    "line": 206,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-reason.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 134 vs en 97（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-religion.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 203 vs en 197（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kant-spacetime.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 99 vs en 69（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kierkegaard.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 194 vs en 187（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kilvington.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 139 vs en 98（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\knowledge-analysis.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 157 vs en 121（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kochen-specker.md",
+    "line": 98,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [VC1 证明](kochen-specker.proofvc1.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kochen-specker.md",
+    "line": 208,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：FUNC 的推导本质上在于：从一个变量（即 *f*(*v*(*Q*))，这个数又从另一个"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kokugaku-school.md",
+    "line": 85,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：> 真心（*magokoro*）是凭借产灵（创造）之神与生俱来的心：真心中有的聪慧、有的"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kokugaku-school.md",
+    "line": 91,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：> 想想人的身体：有眼睛看，有耳朵听，有嘴说话，有脚行走，有手做千般事——难道不真的奇妙"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kukai.md",
+    "line": 49,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\k\\kukai.md",
+    "line": 49,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lakatos.md",
+    "line": 234,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：![线描图：看似两个立方体、一个位于另一个中心，但内层立方体其实是贯穿外层立方体的隧道（"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lakatos.md",
+    "line": 308,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lakatos.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 90 vs en 97（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\langer.md",
+    "line": 73,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：朗格的博士论文是美国首部全面梳理 19 世纪初至 1926 年逻辑史与意义理论（含现象学"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\langer.md",
+    "line": 73,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：朗格的博士论文是美国首部全面梳理 19 世纪初至 1926 年逻辑史与意义理论（含现象学"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\leibniz-modal.md",
+    "line": 90,
+    "rule": "ellipsis-form",
+    "detail": "中文语境三点省略号（应六连点 ……）：莱布尼茨对必然与偶然真理之区分的本性所作的阐明，能够翻译成当代可能世界语义学的术语——这"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\locke-on-medicine.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 50 vs en 47（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-fuzzy.md",
+    "line": 178,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [Bibliography Sorted ](logic-fuzzy.readings-by-topic.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-fuzzy.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 130 vs en 122（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-preference.md",
+    "line": 692,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^list-2022]: List, Christian, 2022, “Social"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-provability.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 214 vs en 211（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 107,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicr.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 163,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000](logic-relevance.logice.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 163,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicr.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 163,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicnr.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 163,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000](logic-relevance.logics.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-relevance.md",
+    "line": 198,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [逻辑 \u0000 与 \u0000](logic-relevance.logic-b-dj-dk.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\logic-substructural.md",
+    "line": 200,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：三元关系 \u0000 紧跟证明论中前提结合的行为。不同逻辑可给 \u0000 不同条件：前提结合可交换，就"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\l\\lvov-warsaw.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 76 vs en 69（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\marsilius-inghen.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 60 vs en 42（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\montessori-maria.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 135 vs en 130（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\moral-responsibility-empirical.md",
+    "line": 120,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：评估道德责任的认知条件时，多数理论家都同意：只查行动者是否在无知之下行事还不够，还得进一"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\m\\music.md",
+    "line": 281,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：[^hanslick-1854]: Hanslick, Eduard, [1854] 1"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\nietzsche-aesthetics.md",
+    "line": 3,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：首次发表于 2025 年 2 月 14 日。"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\nietzsche-aesthetics.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 95 vs en 92（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\n\\novalis.md",
+    "line": 3,
+    "rule": "pubinfo-form",
+    "detail": "出版信息行非斜体正典形（应 `*…*` 或 `> *…*`）：首次发表于 2009 年 5 月 21 日；2020 年 10 月 20 日实质修订。"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\object.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 290 vs en 255（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\occasionalism.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 89 vs en 53（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\ockham.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 180 vs en 127（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\o\\origin-descent.md",
+    "line": 205,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：> 说到自由意志：看见小狗嬉戏，谁也不能怀疑它们有自由意志；若如此，一切动物都有，那么牡"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\qm.md",
+    "line": 51,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：接下来须将内积 \u0000 的定义改造一下，使之适用于复空间。设 \u0000 为 \u0000 的复共轭。（当 \u0000"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\qm.md",
+    "line": 55,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：于是，对一切复数 \u0000 都有 \u0000，而 \u0000 当且仅当 \u0000 是实数。）这样，复空间中 \u0000 与 "
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\qm.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 54 vs en 38（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\quantum-bayesian.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 76 vs en 70（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\q\\quine-nf.md",
+    "line": 78,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：NF 研究的早期（1937—1952），谁也不知道 NF 到底证不证得出无穷公理。斯佩克"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\ramsey-economics.md",
+    "line": 31,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 2）：方程 (1) 表明：消费若为 \u0000，投资便是产出之余。是故拉姆齐的问题亦可表述为：“一国产"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\ramsey-economics.md",
+    "line": 39,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：为使此点形式化，取 DM 正在慎思的任一日期 \u0000；令 \u0000 表不早于 \u0000 的日期（即 \u0000。"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\ramsey-economics.md",
+    "line": 204,
+    "rule": "bracket-pair",
+    "detail": "（） 不配对（深度 1）：方程 (14) 表明 \u0000 以速率 \u0000 作指数增长。这里重申先前的一点：方程 (14) 虽"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\redistribution.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 62 vs en 45（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\reinach.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 67 vs en 79（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\r\\richard-sophister.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 39 vs en 21（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\scientific-explanation-20th.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 75 vs en 59（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\sikh-philosophy.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 67 vs en 48（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\simon-faversham.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 72 vs en 59（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\sophismata.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 38 vs en 35（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\spacetime-holearg.md",
+    "line": 51,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [主动与被动协变性](spacetime-holearg.active-passive.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\spacetime-holearg.md",
+    "line": 121,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [通过地图投影直观理解莱布尼茨等价](spacetime-holearg.leibniz-equivalence.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\spacetime-holearg.md",
+    "line": 131,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [通过地图投影直观理解莱布尼茨等价](spacetime-holearg.leibniz-equivalence.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\spacetime-holearg.md",
+    "line": 233,
+    "rule": "dangling-link",
+    "detail": "相对链接目标缺失 [作为分析规范自由度之模板的空穴论证](spacetime-holearg.gauge.md)"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\spacetime-holearg.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 94 vs en 86（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\s\\stebbing.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 60 vs en 77（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\u\\umar-khayyam.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 85 vs en 70（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\z\\zeno-elea.md",
+    "line": 0,
+    "rule": "count-vs-source",
+    "detail": "书目条数 zh 124 vs en 115（容差 2）"
+   },
+   {
+    "path": "C:\\Users\\ykla\\Documents\\SEP-CN\\z\\zombies.md",
+    "line": 37,
+    "rule": "bracket-pair",
+    "detail": "（） 右先于左：尽管如此，许多物理主义者主张：保证僵尸不可能的，是“形而上学的”必然性。典型说法是：现象"
+   }
+  ]
+ }
+}

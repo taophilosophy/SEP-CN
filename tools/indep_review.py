@@ -42,6 +42,24 @@ BIBSUB_EN = re.compile(r'<h3[^>]*>\s*(?:Primary|Secondary)\s+Sources?', re.I)
 CLASSES = ("bib-heading-form", "pubinfo-form", "bib-subsection",
            "style", "quote-adjacent", "pairs")
 
+# 已完整翻译的状态（存根与未动工件不属独立审校范围，ADR-0047）
+TRANSLATED = {"drafted", "s1_checked", "s2_checked", "s2.4_termchecked", "s2.5_checked",
+              "s3_checked", "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"}
+
+
+def task_state(path):
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    letter = os.path.basename(os.path.dirname(path))
+    slug = os.path.splitext(os.path.basename(path))[0]
+    p = os.path.join(root, "tasks", letter, slug + ".json")
+    if not os.path.exists(p):
+        return None
+    try:
+        t = json.load(io.open(p, encoding="utf-8"))
+    except Exception:
+        return None
+    return t.get("state") if isinstance(t, dict) else None
+
 
 def zh_docs(letters=None):
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -164,7 +182,13 @@ def main(argv):
         return 2
     result = {c: [] for c in classes}
     nfiles = 0
+    skipped = 0
+    all_files = "--all-files" in argv
     for p in zh_docs(letters):
+        st = task_state(p)
+        if not all_files and st not in TRANSLATED:
+            skipped += 1
+            continue
         text = io.open(p, encoding="utf-8").read()
         en = _en(p)
         nfiles += 1
@@ -175,7 +199,9 @@ def main(argv):
                 result[c].append({"path": p, "line": 0, "detail": "扫描异常：%r" % (exc,)})
     counts = {c: len(v) for c, v in result.items()}
     counts["_files"] = nfiles
-    print(json.dumps({"scope": sorted(letters) or "全库", "files": nfiles,
+    print(json.dumps({"scope": sorted(letters) or "全库",
+                      "state_filter": "all" if all_files else sorted(TRANSLATED),
+                      "files": nfiles, "skipped_not_translated": skipped,
                       "counts": counts, "classes": result},
                      ensure_ascii=False, indent=1))
     return 0
