@@ -2,10 +2,18 @@
  "key": "macintyre, alasdair",
  "term": "MacIntyre, Alasdair",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:21+00:00",
- "status": "error",
- "note": "variant=MacIntyre, Alasdair; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "MacIntyre, Alasdair: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:28:32+00:00",
+ "status": "ok",
+ "note": "variant=MacIntyre, Alasdair; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "弹簧采泥器",
+   "en": "Smith-McIntyre mud sampler",
+   "code": "03.0909",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋技术_海洋观测技术"
+  }
+ ],
+ "error": null,
  "raw": null
 }

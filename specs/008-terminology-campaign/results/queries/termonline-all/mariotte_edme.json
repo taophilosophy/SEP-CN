@@ -2,10 +2,270 @@
  "key": "mariotte, edme",
  "term": "Mariotte, Edme",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:23+00:00",
- "status": "error",
- "note": "variant=Mariotte, Edme; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Mariotte, Edme: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:30:02+00:00",
+ "status": "ok",
+ "note": "variant=Mariotte, Edme; 审定公布名词库=341; 海峡两岸名词对照库=135; 其他来源数据库=19; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "玻意耳-马里奥特定律",
+   "en": "Boyle- Mariotte law",
+   "code": "09.014",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_肺功能_相关的物理学概念"
+  },
+  {
+   "cn": "光电测距导线",
+   "en": "EDM traverse",
+   "code": "06.014",
+   "standard": "测绘学名词",
+   "subject": "测绘学_工程测量学"
+  },
+  {
+   "cn": "电磁波测距仪",
+   "en": "EDM instrument",
+   "code": "04.242",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_光学仪器_大地测量仪器_测距仪"
+  },
+  {
+   "cn": "光电测距导线",
+   "en": "EDM traverse",
+   "code": "03.019",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭矿山测量_矿山工程测量"
+  },
+  {
+   "cn": "电火花成形机",
+   "en": "EDM sinking machine,sinker EDM machine",
+   "code": "09.430",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_特种加工机床"
+  },
+  {
+   "cn": "陀螺定向光电测距导线",
+   "en": "gyrophic EDM traverse",
+   "code": "06.196",
+   "standard": "测绘学名词",
+   "subject": "测绘学_工程测量学"
+  },
+  {
+   "cn": "红外测距仪",
+   "en": "infrared EDM instrument",
+   "code": "02.205",
+   "standard": "计量学名词",
+   "subject": "计量学_几何量_大距离测量仪器"
+  },
+  {
+   "cn": "电磁波测距",
+   "en": "electromagnetic distance measurement,EDM",
+   "code": "06.031",
+   "standard": "测绘学名词",
+   "subject": "测绘学_工程测量学"
+  },
+  {
+   "cn": "电磁波测距高程导线测量",
+   "en": "the EDM height traversing",
+   "code": "02.298",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "脑-硬膜-肌肉血管融合术",
+   "en": "encephalo-duro-myo-synangiosis;EDMS",
+   "code": "16.261",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经外科专科技术_神经外科治疗技术"
+  },
+  {
+   "cn": "电火花成形",
+   "en": "spark-erosion sinking,sinking EDM,erosion sinker EDM,sinker spark erosion",
+   "code": "09.402",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_特种加工工艺"
+  },
+  {
+   "cn": "电火花线切割",
+   "en": "spark-erosion wire cutting,wire EDM electric spark incision,wire-cut EDM",
+   "code": "09.403",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_特种加工工艺"
+  },
+  {
+   "cn": "光电测距导线",
+   "en": "EDM traverse",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "红外测距仪",
+   "en": "infrared EDM instrument",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "陀螺定向光电测距导线",
+   "en": "gyrophic EDM  traverse",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "电子测距",
+   "en": "electronic distance measurement\",\"EDM",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "电子文档管理系统",
+   "en": "electronic document management system\",\"EDMS",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布兰比拉",
+   "en": "Brambilla\",\"Marietta(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "繁殖群,同类群",
+   "en": "deme",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "繁殖群",
+   "en": "deme",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "边缘",
+   "en": "edge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "繁殖群",
+   "en": "deme",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "端面",
+   "en": "edge",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "边缘，界线",
+   "en": "border\",\"edge",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "剑刃",
+   "en": "edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "边缘检测",
+   "en": "Edge detection",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "边缘城市",
+   "en": "edge city",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "边缘计算",
+   "en": "edge computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "边缘效应",
+   "en": "edge effects",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "剑背",
+   "en": "back-edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "上边缘",
+   "en": "top edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "跑道内缘",
+   "en": "curb\",\"inner edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "边缘人工智能",
+   "en": "edge artificial intelligence",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "边介数指数",
+   "en": "edge betweenness index",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "剑背武器",
+   "en": "back-edge weapon",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "剑背劈",
+   "en": "back-edge cut",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "埃地人",
+   "en": "Ede",
+   "code": "6.0149",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  }
+ ],
+ "error": null,
  "raw": null
 }

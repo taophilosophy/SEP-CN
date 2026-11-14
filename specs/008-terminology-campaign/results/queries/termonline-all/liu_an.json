@@ -2,10 +2,347 @@
  "key": "liu an",
  "term": "Liu An",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:19+00:00",
- "status": "error",
- "note": "variant=Liu An; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Liu An: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:25:31+00:00",
+ "status": "ok",
+ "note": "variant=Liu An; 审定公布名词库=1032; 海峡两岸名词对照库=117; 其他来源数据库=87; 预公布名词数据库=31; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "刘六、刘七起义",
+   "en": "Liu Liu, Liu Qi qi yi;uprising of Liu Liu and Liu Qi",
+   "code": "8.018",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_政治_治乱兴衰大事"
+  },
+  {
+   "cn": "六科",
+   "en": "liu ke",
+   "code": "08.04.028",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档机构"
+  },
+  {
+   "cn": "刘P",
+   "en": "Liu Fang",
+   "code": "02.126",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医家"
+  },
+  {
+   "cn": "留中",
+   "en": "liu zhong",
+   "code": "07.03.007",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书制度"
+  },
+  {
+   "cn": "刘完素",
+   "en": "Liu Wansu",
+   "code": "02.132",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医家"
+  },
+  {
+   "cn": "流水账",
+   "en": "liu shui zhang",
+   "code": "07.01.226",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "叙案",
+   "en": "xu an",
+   "code": "07.03.033",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书制度"
+  },
+  {
+   "cn": "序案",
+   "en": "xu an",
+   "code": "07.03.043",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书制度"
+  },
+  {
+   "cn": "锕射气",
+   "en": "actinon,An",
+   "code": "04.009",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气化学"
+  },
+  {
+   "cn": "屈光参差",
+   "en": "anisometropia,An",
+   "code": "05.096",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼屈光学"
+  },
+  {
+   "cn": "暗厝",
+   "en": "an cuo",
+   "code": "07.0249",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_大木作"
+  },
+  {
+   "cn": "方案",
+   "en": "fang an",
+   "code": "07.01.187",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "升交点",
+   "en": "ascending node\",\"AN",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "一首英国组曲",
+   "en": "English Suite\",\"An",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "倍角复测法",
+   "en": "doubling an angle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "安切尔",
+   "en": "Ančerl\",\"Karel(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "一个美国人在巴黎",
+   "en": "American in Paris\",\"An",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "致远方的爱人",
+   "en": "An die ferne Geliebte",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "图画展览会的图画",
+   "en": "pictures at an exhibition",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "自主神经系统",
+   "en": "autonomic nervous system\",\"ANS",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "椭圆率",
+   "en": "ellipticity\",\"ellipticity of an  ellipse",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "1980西安坐标系",
+   "en": "Xi’an geodetic coordinate system 1980",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "1980西安坐标系",
+   "en": "Xi’an Geodetic Coordinate System 1980",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "蓝色多瑙河",
+   "en": "An der schönen blauen Donau",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "内踢",
+   "en": "an chagui",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "压沉对方",
+   "en": "sink an opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "重建障碍",
+   "en": "rebuild an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "接近障碍",
+   "en": "approach an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "越过障碍",
+   "en": "clear an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "漏跳障碍",
+   "en": "omit an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "接近障碍",
+   "en": "approach an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "漏跳障碍",
+   "en": "omit an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "越过障碍",
+   "en": "clear an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "《安宁史》",
+   "en": "Anning History",
+   "code": "3.0305",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "安抚司",
+   "en": "An Fu Si",
+   "code": "3.0206",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "保安语",
+   "en": "Bao’an language",
+   "code": "5.0308",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "应急帮助人员",
+   "en": "helper in an emergency",
+   "code": "7.2.2.16.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "报丧",
+   "en": "give an obituary notice",
+   "code": "4.0256",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "三里庵辐射事故",
+   "en": "Sanli'an radiation accident",
+   "code": "10.2.3.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故"
+  },
+  {
+   "cn": "发展是硬道理",
+   "en": "Developing is an unyielding principle",
+   "code": "03.0542",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "延安自然科学院",
+   "en": "Yan’an Academy of Natural Sciences",
+   "code": "01.133",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_历史上的重要流派和思想"
+  },
+  {
+   "cn": "利比亚人",
+   "en": "Libyan",
+   "code": "6.0228",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_非洲地区"
+  },
+  {
+   "cn": "九黎",
+   "en": "Jiu Li",
+   "code": "3.001",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "谎言",
+   "en": "lie",
+   "code": "1.093",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "傈僳族",
+   "en": "Lisu",
+   "code": "1.0445",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,347 @@
  "key": "ling, cho-hsin",
  "term": "Ling, Cho-Hsin",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:19+00:00",
- "status": "error",
- "note": "variant=Ling, Cho-Hsin; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Ling, Cho-Hsin: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:25:31+00:00",
+ "status": "ok",
+ "note": "variant=Ling, Cho-Hsin; 审定公布名词库=5779; 海峡两岸名词对照库=1602; 其他来源数据库=364; 预公布名词数据库=106; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "令",
+   "en": "ling",
+   "code": "07.01.020",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "灵渠",
+   "en": "Ling Qu;Ling Canal",
+   "code": "3.255",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_秦汉_历史地理"
+  },
+  {
+   "cn": "经皮胆囊造瘘术",
+   "en": "percutaneous cho-lecystostomy",
+   "code": "13.053",
+   "standard": "消化病学名词",
+   "subject": "消化病_胆囊与胆道_胆囊与胆道消化内镜治疗术及其并发症"
+  },
+  {
+   "cn": "院令",
+   "en": "yuan ling",
+   "code": "07.01.154",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "部令",
+   "en": "bu ling",
+   "code": "07.01.155",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "训令",
+   "en": "xun ling",
+   "code": "07.01.156",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "指令",
+   "en": "zhi ling",
+   "code": "07.01.157",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "策令",
+   "en": "ce ling",
+   "code": "07.01.161",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "申令",
+   "en": "shen ling",
+   "code": "07.01.162",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "告令",
+   "en": "gao ling",
+   "code": "07.01.163",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "批令",
+   "en": "pi ling",
+   "code": "07.01.164",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "咨令",
+   "en": "zi ling",
+   "code": "07.01.168",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "中国仓鼠卵巢细胞, CHO细胞",
+   "en": "Chinese hamster ovary cell\",\"CHO cell",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "重组中国仓鼠卵巢细胞乙肝疫苗，重组CHO细胞乙肝疫苗",
+   "en": "hepatitis B vaccine made by recombinant DNA technique in Chinese hamster ovary cell， hepatitis B vaccine made by recombinant DNA technique in CHO cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "CHO细胞(=中国仓鼠卵巢细胞)",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "线状回波",
+   "en": "line echo",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线翼",
+   "en": "line wing",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "长线",
+   "en": "long line",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "延绳钓",
+   "en": "long line",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "窄线回波",
+   "en": "thin line echo\",\"fine line",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "原罪",
+   "en": "original sin",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "有线载波链路",
+   "en": "carrier line link",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "波型线状回波",
+   "en": "line echo wave pattern\",\"LEWP",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "回声",
+   "en": "echo",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "米雪",
+   "en": "Catherina / Michelle Yim Wai Ling；195592—",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "护胫",
+   "en": "shin guard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"shin guard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "削球",
+   "en": "chop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "双打发球端线",
+   "en": "long service line for doubles",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "单打发球端线",
+   "en": "long service line for singles",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "邹检验",
+   "en": "Chow test",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反手削球",
+   "en": "backhand chop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "正手削球",
+   "en": "forehand chop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "削发球",
+   "en": "chop service",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "七教传承",
+   "en": "Chos gtad bdun",
+   "code": "3.0478",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "管・法成",
+   "en": "Vgos chos grub",
+   "code": "3.0392",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "大乘法王",
+   "en": "Theg chen chos rje",
+   "code": "3.0431",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "大慈法王",
+   "en": "Byams chen chos rje",
+   "code": "3.043",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《安多政教史》",
+   "en": "A mdo chos vbyung",
+   "code": "3.0373",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "顿渐之诤",
+   "en": "Ston rtsen chos rtsod",
+   "code": "3.0579",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《觉囊派教法史》",
+   "en": "Jo nang chos vbyung",
+   "code": "3.0379",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "那若六法",
+   "en": "Na ro chos drug",
+   "code": "3.0473",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "大宝法王",
+   "en": "Rin chen chos rje",
+   "code": "3.044",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "四月八",
+   "en": "Rao-San-Ling Festival",
+   "code": "4.0196",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "大祈愿法会",
+   "en": "Cho vphrul smon lam chen mo",
+   "code": "3.0441",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "道德规范十六条",
+   "en": "Mi chos gtsang ma so drug",
+   "code": "3.0445",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

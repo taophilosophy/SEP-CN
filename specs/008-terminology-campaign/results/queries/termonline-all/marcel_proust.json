@@ -2,10 +2,347 @@
  "key": "marcel proust",
  "term": "Marcel Proust",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:22+00:00",
- "status": "error",
- "note": "variant=Marcel Proust; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Marcel Proust: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:30:02+00:00",
+ "status": "ok",
+ "note": "variant=Marcel Proust; 审定公布名词库=2580; 海峡两岸名词对照库=950; 其他来源数据库=199; 预公布名词数据库=236; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "产品市场",
+   "en": "product market",
+   "code": "02.017",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_规划、咨询、评估与决策_发展规划"
+  },
+  {
+   "cn": "标志桩",
+   "en": "marker post",
+   "code": "05.087",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工厂系统与储运_油气管道工程"
+  },
+  {
+   "cn": "林产品市场",
+   "en": "forest product market",
+   "code": "13.168",
+   "standard": "林学名词",
+   "subject": "林学_林业经济_林产品贸易"
+  },
+  {
+   "cn": "农贸市场",
+   "en": "farm product market",
+   "code": "02.0605",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑类型及组成_商业服务建筑"
+  },
+  {
+   "cn": "产品 –市场演变矩阵",
+   "en": "product-market evolution matrix",
+   "code": "01.0742",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_战略管理"
+  },
+  {
+   "cn": "产品市场拓展方格",
+   "en": "product market expansion grid",
+   "code": "08.0257",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销战略"
+  },
+  {
+   "cn": "包裹",
+   "en": "parcel",
+   "code": "06.0016",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道运输管理与运输经济"
+  },
+  {
+   "cn": "包裹剂",
+   "en": "parcel agent",
+   "code": "02.0456",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "地块测量",
+   "en": "parcel survey",
+   "code": "06.135",
+   "standard": "测绘学名词",
+   "subject": "测绘学_工程测量学"
+  },
+  {
+   "cn": "宗海",
+   "en": "parcel sea",
+   "code": "07.142",
+   "standard": "测绘学名词",
+   "subject": "测绘学_海洋测绘学"
+  },
+  {
+   "cn": "气块",
+   "en": "air parcel",
+   "code": "05.038",
+   "standard": "大气科学名词",
+   "subject": "大气科学_动力气象学"
+  },
+  {
+   "cn": "包裹运费",
+   "en": "parcel freight",
+   "code": "11.0323",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_客货运输"
+  },
+  {
+   "cn": "格朗贾尼",
+   "en": "Grandjany\",\"Marcel(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "兰多夫斯基",
+   "en": "Landowski\",\"Marcel(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "茹尔内",
+   "en": "Journet\",\"Marcel(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪普雷，马塞尔",
+   "en": "Dupré\",\"Marcel(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "米哈洛维奇",
+   "en": "Mihalovici\",\"Marcel(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "宗地",
+   "en": "parcel\",\"cadastral parcel\",\"land parcel",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "气块",
+   "en": "air parcel",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "地块测量",
+   "en": "parcel survey",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "破图廓地区",
+   "en": "broken parcel",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "宗地",
+   "en": "land parcel",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "宗地号",
+   "en": "parcel number",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "包裹运费",
+   "en": "parcel freight",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "电位-pH图",
+   "en": "Marcel Pourbaix",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际地球物理年",
+   "en": "Marcel Nicolet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "包裹",
+   "en": "Parcel post",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "枪管",
+   "en": "barrel",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "报靶员",
+   "en": "marker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "枪管",
+   "en": "barrel",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "躯干",
+   "en": "barrel",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "祭司",
+   "en": "Priest",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "积",
+   "en": "Product",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗议",
+   "en": "protest",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "抗议",
+   "en": "protest",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "抗议",
+   "en": "protest",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "code": "3.4.12.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国古代城市"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "code": "02.0226",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "卡特尔",
+   "en": "cartel",
+   "code": "02.0306",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_列宁斯大林时期"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "code": "6.1",
+   "standard": "卫生经济学名词",
+   "subject": "市场"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "code": "1.0156",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "利润",
+   "en": "profit",
+   "code": "02.0213",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "利润",
+   "en": "profit",
+   "code": "5.1.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "托拉斯",
+   "en": "trust",
+   "code": "02.0316",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_列宁斯大林时期"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "code": "5.0086",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "code": "5.1.7.3",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "code": "2.6.6.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "code": "2.6.6.25",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -94,7 +94,7 @@ R. 帕里克（2002）分析过所谓的巴拿赫—克纳斯特切蛋糕算法�
 >
 > 这样下去，直到男女两方全部订婚为止。
 
-例如设有三名男子 $a, b, c$ 与三名女子 $d, e, f$，偏好名单如下（最偏爱的排在首位）：$a: edf$，$b: {\it fed}$，$c: {\it dfe}$，$d: {\it abc}$，$e: {\it cda}$，$g: {\it acb}$。于是 $a: {\it edf}$ 意为：$a$ 偏爱 $e$ 甚于 $d$，偏爱 $d$ 甚于 $f$。这里假定偏好是传递的，故 $a$ 也偏爱 $e$ 甚于 $f$。（译注：源文偏好表末项作 g，与所列三名女子 d、e、f 不合，疑为 f 之误。）
+例如设有三名男子 $a, b, c$ 与三名女子 $d, e, f$，偏好名单如下（最偏爱的排在首位）：$a$：*edf*；$b$：*fed*；$c$：*dfe*；$d$：*abc*；$e$：*cda*；$g$：*acb*。于是 $a$：*edf* 意为：$a$ 偏爱 $e$ 甚于 $d$，偏爱 $d$ 甚于 $f$。这里假定偏好是传递的，故 $a$ 也偏爱 $e$ 甚于 $f$。**（译注：源文偏好表末项作 g，与所列三名女子 d、e、f 不合，疑为 f 之误。）**
 
 这一情形的一个稳定匹配例子，可写作三对 $(a,e)$、$(b,f)$、$(c,d)$。注意女子 $d$ 最终跟了名单上排在最末的那位男子。可这个匹配依然稳定：$c$ 固然愿意拿丈夫去换另外两名男子中的任何一位，那两位却都不会答应——他们碰巧都娶了自己名单上排第一的女子。
 
@@ -204,80 +204,138 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共�
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；书目条目照录原文。
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### General References
-
-### Fairness
-
-### The Stable Marriage Problem
-
-### The Logic of Communication
-
-### Strategic Reasoning and Cooperation
+### 一般文献
 
 [^başkent-2017]: Başkent, C., L.S. Moss, and R. Ramanujam, (eds.), 2017, *Rohit Parikh on Logic, Language and Society* (Outstanding Contributions to Logic: Volume 11), Berlin: Springer.
+
 [^başkent-2017-2]: Başkent, C., 2017, “A Non-Classical Logical Approach to Social Software”, in Başkent, Moss, & Ramanujam 2017, pp. 91–110.
+
 [^benthem-2018]: van Benthem, J., 2018, “Computation as Social Agency: What, How and Who”, *Information and Computation*, 261: 519–535.
+
 [^eijck-2017]: Eijck, J. van, and Ph. Elsas, 2017, “What Is Money?”, in Başkent, Moss, & Ramanujam 2017, pp. 67–76.
+
 [^eijck-2009]: Eijck, J. van, and R. Verbrugge (eds.), 2009, *Discourses on Social Software* (Texts in Logic and Games: Volume 5), Amsterdam: Amsterdam University Press.
+
 [^eijck-2012]: ––– (eds.), 2012, *Games, Actions and Social Software: Multidisciplinary Aspects* (Lecture Notes in Computer Science: Volume 7010), Berlin: Springer.
+
 [^harel-2004]: Harel, D., and Y.A. Feldman, 2004, *Algorithmics: The Spirit of Computing*, London: Pearson Education.
+
 [^miller-2012]: Miller, R., and L. Boxer, 2012, *Algorithms Sequential & Parallel: A Unified Approach*, Boston, MA: Cengage Learning.
+
 [^pacuit-2005]: Pacuit, E., 2005, *Topics in Social Software: Information in Strategic Situations*, Ph.D. thesis, New York: City University of New York.
+
 [^parikh-2002]: Parikh, R., 2002, “Social Software”, *Synthese*, 132: 187–211.
+
 [^parikh-2017]: –––, 2017, “Is There a Church-Turing Thesis for Social Algorithms?”, in A. Bokulich and J. Floyd (eds.), *Philosophical Explorations of the Legacy of Alan Turing*, (Boston Studies in the Philosophy of Science, Volume 324), Berlin: Springer, pp. 339–357.
+
 [^pauly-2001]: Pauly, M., 2001, *Logic for Social Software*, Ph.D. thesis, Amsterdam: ILLC.
+
+### 公平性
+
 [^brams-2005]: Brams, S., 2005, “Fair Division”, in B.R. Weingast and D. Witteman (eds.), *Oxford Handbook of Political Economy*, Oxford: Oxford University Press, pp. 425–437.
+
 [^brams-1996]: Brams, S., and A. Taylor, 1996, *Fair Division: From Cake-Cutting to Dispute-Resolution*, Cambridge: Cambridge University Press.
+
 [^kyropoulou-2019]: Kyropoulou, M., J. Ortega, and E. Segal-Halevi, 2019, “Fair Cake-Cutting in Practice”, in *Proceedings of the 2019 ACM Conference on Economics and Computation*, ACM Press, pp. 547–548.
+
 [^moore-1992]: Moore, J., 1992, “Implementation, Contracts, and Renegotiation in Environments with Complete Information”, in J.-J Laffont (ed.), *Advances in Economic Theory — 6ᵗʰ World Congress* (Volume 1), Cambridge: Cambridge University Press.
+
 [^padma-2007]: Padma, T., 2007, *Mathematwist: Number Tales from Around the World*, Chennai: Tulika Publishers.
+
 [^parikh-1983]: Parikh, R., 1983, “Propositional Game Logic”, in *24ᵗʰ Annual Symposium on Foundations of Computer Science*, Washington, DC: IEEE Computer Society, pp. 195–200.
+
 [^pauly-2005]: Pauly, M., 2005, “Changing the Rules of Play”, *Topoi*, 24(2): 209–222.
+
 [^robertson-1998]: Robertson, J., and W. Webb, 1998, *Cake-Cutting Algorithms: Be Fair If You Can*, Boca Raton, FL: A.K. Peters.
+
 [^steinhaus-1948]: Steinhaus, H., 1948, “The Problem of Fair Division”, *Econometrica*, 16: 101–104.
+
+### 稳定婚姻问题
+
 [^gale-1962]: Gale, D., and L. Shapley, L., 1962, “College Admissions and the Stability of Marriage, *American Mathematical Monthly*, 69: 9–15.
+
 [^cechlérová-2005]: Cechlérová, K., and D.F. Manlove, 2005, “The Exchange-Stable Marriage Problem”, *Discrete Applied Mathematics*, 152(1–3): 109–122.
+
 [^parikh-2012]: Parikh, R., and M. Pauly, 2012, “What is Social Software?”, in van Eijck and Verbrugge 2012: 3–14.
+
 [^pini-2011]: Pini, M. S., F. Rossi, K.B. Venable, and T. Walsh, 2011, “Manipulation complexity and gender neutrality in stable marriage procedures”. *Autonomous Agents and Multi-Agent Systems*, 22(1): 183–199.
+
+### 传播逻辑
+
 [^bolander-2011]: Bolander, T., and M.B. Andersen, 2011, “Epistemic Planning for Single-and Multi-Agent Systems”, *Journal of Applied Non-Classical Logics*, 21(1): 9–34.
+
 [^chwe-2001]: Chwe, M. S.-Y., 2001, *Rational Ritual*, Princeton and Oxford: Princeton University Press.
+
 [^ditmarsch-2009]: van Ditmarsch, H., J. van Eijck, and R. Verbrugge, 2009, “Common Knowledge and Common Belief”, in J. van Eijck and R. Verbrugge (eds.), *Discourses on Social Software*, (Texts in Logic and Games), Amsterdam: Amsterdam University Press, pp. 99–122.
+
 [^eijck-2009-2]: van Eijck, J., and R. Verbrugge, 2009, “Eating from the Tree of Ignorance”, in J. van Eijck and R. Verbrugge (eds.), *Discourses on Social Software* (Texts in Logic and Games), Amsterdam: Amsterdam University Press, pp. 184–198.
+
 [^halpern-1984]: Halpern, J., and Y. Moses, 1984, “Knowledge and Common Knowledge in a Distributed Environment”, in *Proceedings of the 3rd ACM Symposium on Principles of Distributed Computing (PODS)*, pp. 50–61; revised, *Journal of the ACM*, 37/3 (1990): 549–587.
+
 [^lewis-1969]: Lewis, D., 1969, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
+
 [^löwe-2011]: Löwe, B., E. Pacuit, and A. Witzel, 2011, “DEL Planning and Some Tractable Cases”, in Proceedings International Workshop on Logic, Rationality and Interaction (LORI), Berlin, Heidelberg: Springer, pp. 179–192.
+
 [^lynch-1996]: Lynch, N., 1996, *Distributed Algorithms*, San Mateo, CA: Morgan Kaufmann.
+
 [^nerburn-1999]: Nerburn, K., 1999, *The Wisdom of the Native Americans*, Novato, CA: New World Library.
+
 [^wooldridge-2002]: Wooldridge, M., 2002 [2009], *An Introduction to Multi-Agent Systems*, first edition, Chichester: John Wiley and Sons; second edition 2009.
+
+### 策略推理与合作
+
 [^axelrod-1984]: Axelrod, R., 1984, *The Evolution of Cooperation*, New York: Basic Books.
+
 [^benthem-2015]: Benthem, J. van, S. Ghosh, and R. Verbrugge (eds.), 2015, *Models of Strategic Reasoning: Logics, Games, and Communities* (FoLLI Publications on Logic, Language and Information, LNCS 8972), Berlin: Springer.
+
 [^benthem-2011]: Benthem, J. van, E. Pacuit, and O. Roy, 2011, “Toward a Theory of Play: A Logical Perspective on Games and Interaction”, *Games*, 2(1): 52–86.
+
 [^bowles-2011]: Bowles, S., and H. Gintis, 2011, *A Cooperative Species: Human Reciprocity and its Evolution*, Princeton and Oxford: Princeton University Press.
+
 [^brandenburger-2014]: Brandenburger, A., 2014, *The Language of Game Theory: Putting Epistemics into the Mathematics of Games*, Singapore: World Scientific.
+
 [^bulling-2015]: Bulling, N., and V. Goranko, 2015, “Logics for Reasoning About Strategic Abiliies in Multi-Player Games”, in van Benthem, Ghosh, & Verbrugge 2015: 93–136.
+
 [^camerer-2003]: Camerer, C.F., 2003, *Behavioral Game Theory: Experiments on Strategic Interaction*, Princeton: Princeton University Press.
+
 [^chalkiadakis-2011]: Chalkiadakis, G., E. Elkind, and M. Wooldridge, 2011, *Computational Aspects of Cooperative Game Theory* (Synthesis Lectures on Artificial Intelligence and Machine Learning: Volume 5), San Rafael, CA: Morgan and Claypool Publishers.
+
 [^ciná-2016]: Ciná, G., and U. Endriss, 2016, “Proving Classical Theorems of Social Choice Theory in Modal Logic”, *Autonomous Agents and Multi-Agent Systems*, 30(5): 963–989.
+
 [^ditmarsch-2012]: Ditmarsch, H. van, J. Lang, and A. Saffidine, 2012, “Strategic Voting and the Logic of Knowledge”, in *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’12)*, vol. 3, pp. 1247–1248.
+
 [^dunin-kęplicz-2010]: Dunin-Kęplicz, B., and R. Verbrugge, 2010, *Teamwork in Multi-Agent Systems: A Formal Approach*, Chichester: Wiley.
+
 [^eijck-2015]: Eijck, J. van, 2015, “Strategies in Social Software”, in van Benthem, Ghosh, & Verbrugge 2015: 292–317.
+
 [^gärdenfors-2012]: Gärdenfors, P., 2012, “The Cognitive and Communicative Demands of Cooperation”, in van Eijck and Verbrugge 2012: 164–183.
+
 [^ghosh-2018]: Ghosh, S., and R. Verbrugge, 2018, “Studying Strategies and Types of Players: Experiments, Logics and Cognitive Models”, *Synthese*, 195(10): 4265–4307.
+
 [^grädel-2002]: Grädel, E., W. Thomas, and T. Wilke (eds.), 2002, *Automata Logics, and Infinite Games*, (Lecture Notes in Computer Science 2500), Berlin, Heidelberg: Springer.
+
 [^klein-2017]: Klein, D., and E. Pacuit, 2017, “Focusing on Campaigns”, in Başkent, Moss, & Ramanujam 2017, pp. 77–90.
+
 [^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012,“What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
+
 [^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary“, *Interaction Studies*, 15(3): 455–477.
+
 [^pacuit-2015]: Pacuit, E., 2015, “Strategic Reasoning in Games”, in van Benthem, Ghosh, & Verbrugge 2015: 3–33.
+
 [^pauly-2002]: Pauly, M., 2002, “A Modal Logic for Coalitional Power in Games”, *Journal of Logic and Computation*, 12: 149–166.
+
 [^perea-2012]: Perea, A., 2012, *Epistemic Game Theory: Reasoning and Choice*, Cambridge: Cambridge University Press.
+
 [^shoham-2009]: Shoham, Y., and K. Leyton-Brown, 2009, *Multiagent Systems: Algorithmic, Game-Theoretic and Logical Foundations*, Cambridge: Cambridge University Press.
+
 [^sigmund-2010]: Sigmund, K., 2010, *The Calculus of Selfishness*, (Princeton Series in Theoretical and Computational Biology), Princeton and Oxford: Princeton University Press.
+
 [^top-2018]: Top, J., R. Verbrugge, and S. Ghosh, 2018, “An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic”, *Games*, 9(3),44; doi:10.3390/g9030044
+
 [^vazirani-2007]: Vazirani, V.V., N. Nisan, T. Roughgarden, and E. Tardos (eds.), 2007, *Algorithmic Game Theory*, Cambridge: Cambridge University Press.
+
 [^von-1944]: Von Neumann, J., and O. Morgenstern, 1944, *Theory of Games and Economic Behavior*, Chichester: Wiley.
 
 ## 学术工具

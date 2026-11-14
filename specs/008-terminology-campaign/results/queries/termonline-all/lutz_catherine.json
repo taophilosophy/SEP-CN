@@ -2,10 +2,249 @@
  "key": "lutz, catherine",
  "term": "Lutz, Catherine",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:21+00:00",
- "status": "error",
- "note": "variant=Lutz, Catherine; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lutz, Catherine: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:27:02+00:00",
+ "status": "ok",
+ "note": "variant=Lutz, Catherine; 审定公布名词库=68; 海峡两岸名词对照库=18; 其他来源数据库=1; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "波斯远征",
+   "en": "Persian Expedition of Catherine the Great",
+   "code": "05.0073",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "辫线",
+   "en": "Litz wire",
+   "code": "03.0032",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "配页",
+   "en": "gathering",
+   "code": "03.05.019",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印后加工"
+  },
+  {
+   "cn": "集拢",
+   "en": "gathering ",
+   "code": "6.0299",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草加工与利用"
+  },
+  {
+   "cn": "高速缓存块",
+   "en": "cacheline",
+   "code": "03.0391",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_存储系统"
+  },
+  {
+   "cn": "前抗微生物肽",
+   "en": "cathelin",
+   "code": "2.0183",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_肽_功能性寡肽和多肽"
+  },
+  {
+   "cn": "钙黏[着]蛋白",
+   "en": "cadherin",
+   "code": "2.0519",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "钙黏合素",
+   "en": "cadherin",
+   "code": "02.015",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "钙黏着蛋白",
+   "en": "cadherin",
+   "code": "02.218",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞化学"
+  },
+  {
+   "cn": "钙黏素",
+   "en": "cadherin",
+   "code": "2.614",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "富集",
+   "en": "enrichment,gathering",
+   "code": "15.276",
+   "standard": "计量学名词",
+   "subject": "计量学_化学_化学测量过程"
+  },
+  {
+   "cn": "琵琶科",
+   "en": "lute dou gong",
+   "code": "07.0276",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_大木作"
+  },
+  {
+   "cn": "卢茲-里耶卡",
+   "en": "Lutz-Rijeka\",\"Wilhelm(克罗地亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "琉特琴",
+   "en": "lute",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "琉特羽管键琴",
+   "en": "lute harpsichord",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "高速缓存块",
+   "en": "cacheline",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "钙黏着蛋白",
+   "en": "cadherin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "钙黏着蛋白，钙黏素",
+   "en": "cadherin",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "卡塞林, 前抗微生物肽",
+   "en": "cathelin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "钙黏着蛋白",
+   "en": "cadherin",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "富集",
+   "en": "enrichment\",\"gathering",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "查照表",
+   "en": "lookup table\",\"LUT",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "上皮钙黏着蛋白，上皮钙黏素",
+   "en": "E-cadherin",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "神经钙黏着蛋白，神经钙黏素",
+   "en": "N-cadherin",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "米雪",
+   "en": "Catherina / Michelle Yim Wai Ling；195592—",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "琵琶",
+   "en": "Pipa/Chinese lute",
+   "code": "3.0639",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "code": "3.0644",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "采集经济",
+   "en": "gathering economy",
+   "code": "4.2.9.29",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "采集民俗",
+   "en": "gathering customs",
+   "code": "4.0043",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "采集经济",
+   "en": "gathering economy",
+   "code": "1.0168",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "餐饮服务",
+   "en": "catering service",
+   "code": "4.4.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "狩猎—采集社会",
+   "en": "hunting and gathering",
+   "code": "4.2.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类史"
+  },
+  {
+   "cn": "采集狩猎",
+   "en": "hunting and gathering",
+   "code": "1.0227",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "军队餐饮卫生管理",
+   "en": "sanitary management of military catering",
+   "code": "7.10",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军队餐饮卫生管理"
+  }
+ ],
+ "error": null,
  "raw": null
 }

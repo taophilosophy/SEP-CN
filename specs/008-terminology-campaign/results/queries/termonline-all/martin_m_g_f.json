@@ -2,10 +2,347 @@
  "key": "martin, m. g. f.",
  "term": "Martin, M. G. F.",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:23+00:00",
- "status": "error",
- "note": "variant=Martin, M. G. F.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Martin, M. G. F.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:30:02+00:00",
+ "status": "ok",
+ "note": "variant=Martin, M. G. F.; 审定公布名词库=2190; 海峡两岸名词对照库=1115; 其他来源数据库=121; 预公布名词数据库=41; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "M/G/1系统",
+   "en": "M/G/1 system",
+   "code": "02.0129",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "风池",
+   "en": "fēngchí,G20,GB20",
+   "code": "08.309",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "风市",
+   "en": "fēngshì,G31,GB31",
+   "code": "08.320",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "马丁方程",
+   "en": "Martin equation",
+   "code": "05.0357",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械表面与界面_摩擦学_润滑"
+  },
+  {
+   "cn": "马丁培养基",
+   "en": "Martin medium",
+   "code": "09.130",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "结肠回肠侧吻合术",
+   "en": "Martin procedure",
+   "code": "06.164",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_小儿外科学"
+  },
+  {
+   "cn": "马丁边界",
+   "en": "Martin boundary",
+   "code": "09.0342",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_随机过程"
+  },
+  {
+   "cn": "目窗",
+   "en": "mùchuāng,G16,GB16",
+   "code": "08.305",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "浮白",
+   "en": "fúbái,G10,GB10",
+   "code": "08.299",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "高电动势电位差计",
+   "en": "high e.m.f. potentiometer",
+   "code": "03.139",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_电测量仪器仪表_检示仪表和标准器"
+  },
+  {
+   "cn": "低电动势电位差计",
+   "en": "low e.m.f. potentiometer",
+   "code": "03.140",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_电测量仪器仪表_检示仪表和标准器"
+  },
+  {
+   "cn": "斯佩茨勒-马丁分级量表",
+   "en": "Spetzler-Martin scale",
+   "code": "16.079",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经外科专科技术_神经外科诊断"
+  },
+  {
+   "cn": "国际测量师联合会",
+   "en": "F閐閞ation Internationale des  G閛m閠res\",\"FIG",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "图尔诺夫斯基",
+   "en": "Turnovský\",\"Martin(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "库珀，马丁",
+   "en": "Cooper\",\"Martin(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "路德",
+   "en": "Luther\",\"Martin(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马丁",
+   "en": "Martin\",\"Frank(瑞士)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "韦格柳士",
+   "en": "Wegelius\",\"Martin(芬兰)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马蒂努",
+   "en": "Martinů\",\"Bohuslav(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马丁-侯［虞钧］方程",
+   "en": "Martin-Hou equation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "格林尼治平时",
+   "en": "Greenwich Mean Time\",\"G.M.T",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "图形-背景辨别",
+   "en": "figure-ground discrimination\",\"F-G discrimination",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "F0F1复合物",
+   "en": "F0F1 complex",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "F0F1-ATP酶",
+   "en": "F0F1-ATPase",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "多布森单位",
+   "en": "G. M. B. Dobson",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "3000米",
+   "en": "3000m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "5000米",
+   "en": "5000m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "800米",
+   "en": "800m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "200米",
+   "en": "200m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "10 000米",
+   "en": "10 000m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "1500米",
+   "en": "1500m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "100米",
+   "en": "100m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "400米",
+   "en": "400m",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "4米禁区",
+   "en": "4m area\",\"4m zone",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "2米禁区",
+   "en": "2m area\",\"2m zone",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "G蛋白",
+   "en": "G Protein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "G.汉密尔顿",
+   "en": "G.Hamilton",
+   "code": "4.4.2.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "code": "4.1.1.1.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "M区",
+   "en": "M area",
+   "code": "6.4.4.37",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "f分布",
+   "en": "f distribution",
+   "code": "1.2.5.25",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "免疫球蛋白G",
+   "en": "immunoglobulin G， IgG",
+   "code": "1.3.4.29",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "抗荷服",
+   "en": "anti-G suits",
+   "code": "11.1.5.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  },
+  {
+   "cn": "G类毒剂",
+   "en": "G-series agent",
+   "code": "10.5.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "血清免疫球蛋白G4",
+   "en": "serum immunoglobulin G4",
+   "code": "1.3.4.34",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "免疫球蛋白M",
+   "en": "immunoglobulin M， IgM",
+   "code": "1.3.4.31",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "蒂特马斯",
+   "en": "R.M.Titmuss",
+   "code": "4.3.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "2型巨噬细胞",
+   "en": "type-2 macrophage， M2",
+   "code": "1.3.3.11",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "抗荷动作",
+   "en": "anti-G straining maneuver",
+   "code": "11.1.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

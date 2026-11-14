@@ -2,10 +2,347 @@
  "key": "levins, richard",
  "term": "Levins, Richard",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:18+00:00",
- "status": "error",
- "note": "variant=Levins, Richard; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Levins, Richard: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:24:01+00:00",
+ "status": "ok",
+ "note": "variant=Levins, Richard; 审定公布名词库=629; 海峡两岸名词对照库=207; 其他来源数据库=29; 预公布名词数据库=43; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "外沸式蒸发器",
+   "en": "levin evaporator",
+   "code": "01.0360",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_无机化工"
+  },
+  {
+   "cn": "列文蒸发器",
+   "en": "Levin evaporator",
+   "code": "03.0368",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "理查德·康替龙",
+   "en": "Richard Cantillon（1680—1734）",
+   "code": "16.005",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "莱文-克里奇利综合征",
+   "en": "Levine-Critchley syndrome",
+   "code": "5.082",
+   "standard": "血液学名词",
+   "subject": "血液学_红细胞系统疾病_贫血"
+  },
+  {
+   "cn": "雅霍-莱文综合征",
+   "en": "Jarcho-Levin syndrome",
+   "code": "7.015",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "戈德里克-列文定理",
+   "en": "Goldreich–Levin theorem",
+   "code": "02.0455",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "克莱恩-莱文综合征",
+   "en": "Kleine-Levin syndrome",
+   "code": "06.006",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_内分泌病学"
+  },
+  {
+   "cn": "安芸-理查兹方程",
+   "en": "Aki-Richards equation",
+   "code": "01.0708",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "约翰·希克斯",
+   "en": "John Richard Hicks（1904—1989）",
+   "code": "16.065",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "理查德·斯通",
+   "en": "Richard N. Stone（1913—1991）",
+   "code": "16.081",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "克莱恩-莱文综合征",
+   "en": "Kleine-Levin syndrome,KLS",
+   "code": "03.261",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_心理生理障碍"
+  },
+  {
+   "cn": "短P-R综合征",
+   "en": "short P-R syndrome,LownGanong-Levine syndrome",
+   "code": "01.366",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "理查德变换",
+   "en": "Richards' transformation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "古德，理查德",
+   "en": "Goode\",\"Richard(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "塔克",
+   "en": "Tucker\",\"Richard(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "陶伯",
+   "en": "Tauber\",\"Richard(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "罗杰斯，理查德",
+   "en": "Rodgers\",\"Richard(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "史蒂文斯，理查德",
+   "en": "Stevens\",\"Richard(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "施特劳斯，理查",
+   "en": "Strauss\",\"Richard(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "瓦格纳，理查",
+   "en": "Wagner\",\"Richard(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴特卡",
+   "en": "Batka\",\"Richard(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "阿丁塞尔",
+   "en": "Addinsell\",\"Richard(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "博宁吉",
+   "en": "Bonynge\",\"Richard(澳大利亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "德拉朗德",
+   "en": "Delalande\",\"Michel Richard(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "理查德",
+   "en": "Richard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "骑士暴动",
+   "en": "Richard von Greiffenklau zu Vollrads",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核纤层蛋白",
+   "en": "Nuclear lamins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "刹把",
+   "en": "brake levers",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "透镜",
+   "en": "lens",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "离开垫子",
+   "en": "leaving the mat",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "上诉级别",
+   "en": "levels of appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "缰绳作用",
+   "en": "effect of reins",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "爱类",
+   "en": "Loving One’s Own Kind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "澳大利亚生物多样性信息系统",
+   "en": "Atlas of Living Australia",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "环境辅助生活技术",
+   "en": "ambient assisted living technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "顽固势力",
+   "en": "diehard forces",
+   "code": "03.0371",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "code": "11.1.3",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "code": "3.7.6.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "code": "4.3.9.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "code": "03.0174",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "code": "6.4.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "学校心理健康促进"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "code": "7.041",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "慈爱",
+   "en": "loving-kindness",
+   "code": "1.0659999999999998",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "code": "4.0165",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "code": "9.027000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "活体非亲属供者",
+   "en": "living unrelated donor",
+   "code": "9.029",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "配偶活体供者",
+   "en": "living spousal donor",
+   "code": "9.027999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  }
+ ],
+ "error": null,
  "raw": null
 }

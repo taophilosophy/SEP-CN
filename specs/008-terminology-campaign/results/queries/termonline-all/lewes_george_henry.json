@@ -2,10 +2,277 @@
  "key": "lewes, george henry",
  "term": "Lewes, George Henry",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:18+00:00",
- "status": "error",
- "note": "variant=Lewes, George Henry; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lewes, George Henry: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:24:01+00:00",
+ "status": "ok",
+ "note": "variant=Lewes, George Henry; 审定公布名词库=91; 海峡两岸名词对照库=102; 其他来源数据库=12; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "亨利·乔治",
+   "en": "Henry George（1839—1897）",
+   "code": "16.034",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "亨[利]",
+   "en": "henry",
+   "code": "01.405",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "亨[利]",
+   "en": "henry",
+   "code": "10.049",
+   "standard": "计量学名词",
+   "subject": "计量学_电磁_基础名词"
+  },
+  {
+   "cn": "亨[利]",
+   "en": "henry,H",
+   "code": "01.885",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "亨利定律",
+   "en": "Henry law",
+   "code": "03.137",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤并发症_烧伤后肺损伤"
+  },
+  {
+   "cn": "亨利定律",
+   "en": "Henry law",
+   "code": "02.0152",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "亨利常数",
+   "en": "Henry constant",
+   "code": "03.0862",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "亨利定律",
+   "en": "Henry law",
+   "code": "04.0180",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_化学热力学"
+  },
+  {
+   "cn": "乔治·阿克洛夫",
+   "en": "George A. Akerlof (1940—)",
+   "code": "16.106",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "乔治·施蒂格勒",
+   "en": "George J. Stigler（1911—1991）",
+   "code": "16.079",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "HD星表",
+   "en": "Henry Draper Catalogue",
+   "code": "01.149",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学"
+  },
+  {
+   "cn": "HD恒星光谱分类",
+   "en": "Henry Draper classification",
+   "code": "08.031",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "克拉姆",
+   "en": "Crumb\",\"George(Henry)(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "亨利八世",
+   "en": "Henry Ⅷ",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "埃内斯库",
+   "en": "Enescu\",\"George(Enesco\",\"Georges)(罗马尼亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "班杰明，乔治",
+   "en": "Banjamin\",\"George(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "亨塞尔",
+   "en": "Henschel\",\"George(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "安泰尔",
+   "en": "Antheil\",\"George(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格什温",
+   "en": "Gershwin\",\"George(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "罗赫伯格",
+   "en": "Rochberg\",\"George(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "韦尔登，乔治",
+   "en": "Weldon\",\"George(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "伊斯曼",
+   "en": "Eastman\",\"George(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格罗夫，乔治",
+   "en": "Grove\",\"George(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "赫斯特",
+   "en": "Hurst\",\"George(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "量子操作",
+   "en": "George Sudarshan",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亨利·西蒙斯",
+   "en": "Henry Simmons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "F检验",
+   "en": "George W. Snedecor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "芬兰大公国",
+   "en": "Georg Magnus Sprengtporten",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大岩桐",
+   "en": "Henri Ernest Baillon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "康托尔集",
+   "en": "Henry John Stephen Smith",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Georg Wilhelm Friedrich Hegel bibliography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "峡",
+   "en": "gorge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "强相互作用",
+   "en": "Georgi–Glashow model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "H指数",
+   "en": "Jorge E. Hirsch",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实施大部门制",
+   "en": "merge and streamline government departments",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "日志结构合并树",
+   "en": "log-structured merge-tree (LSM-tree)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "糟渍菜",
+   "en": "pickled vegetable with lees",
+   "code": "5.3.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蔬菜"
+  },
+  {
+   "cn": "格鲁吉亚统一共产党",
+   "en": "United Communist Party of Georgia",
+   "code": "05.0302",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,256 @@
  "key": "magnus wedderkopf",
  "term": "Magnus Wedderkopf",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:21+00:00",
- "status": "error",
- "note": "variant=Magnus Wedderkopf; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Magnus Wedderkopf: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:28:32+00:00",
+ "status": "ok",
+ "note": "variant=Magnus Wedderkopf; 审定公布名词库=325; 海峡两岸名词对照库=114; 其他来源数据库=8; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "大多形棘头虫",
+   "en": "Polymorphus magnus",
+   "code": "12.201",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医寄生虫学"
+  },
+  {
+   "cn": "大收肌",
+   "en": "adductor magnus",
+   "code": "01.373",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动解剖_人体运动执行体系"
+  },
+  {
+   "cn": "马格纳斯效应",
+   "en": "Magnus effect",
+   "code": "02.0799",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "马格纳斯力",
+   "en": "Magnus force",
+   "code": "02.0800",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "大收肌",
+   "en": "adductor magnus",
+   "code": "02.1751",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_附肢骨骼肌"
+  },
+  {
+   "cn": "马格努斯力矩",
+   "en": "Magnus moment",
+   "code": "06.259",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_空气动力学与飞行原理"
+  },
+  {
+   "cn": "马格努斯力",
+   "en": "Magnus force",
+   "code": "06.258",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_空气动力学与飞行原理"
+  },
+  {
+   "cn": "马格努斯天平",
+   "en": "Magnus balance",
+   "code": "06.699",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_空气动力学与飞行原理"
+  },
+  {
+   "cn": "马格努斯效应",
+   "en": "Magnus effect",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_其他力学"
+  },
+  {
+   "cn": "中缝大核",
+   "en": "nucleus raphes magnus",
+   "code": "06.0382",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_神经系统_脑干"
+  },
+  {
+   "cn": "枕[骨]大孔",
+   "en": "foramen magnum",
+   "code": "6.0419",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统"
+  },
+  {
+   "cn": "马努斯板块",
+   "en": "Manus Plate",
+   "code": "02.0199",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球动力学_板块构造"
+  },
+  {
+   "cn": "马格纳斯公式",
+   "en": "Magnus formulas",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "林德贝里，马格努斯",
+   "en": "Lindberg\",\"Magnus(芬兰)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "中缝大核",
+   "en": "nucleus raphes magnus\",\"magnus raphe nucleus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "佩罗坦",
+   "en": "Pérotin(Perotinus Magnus)(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "大收肌",
+   "en": "adductor magnus\",\"great adductor muscle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "枕[骨]大孔",
+   "en": "foramen magnum",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "羔羊经",
+   "en": "Agnus Dei",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "枕骨大孔",
+   "en": "foramen magnum of occipital bone\",\"foramen magnum",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "啊，伟大的奇迹",
+   "en": "O magnum mysterium",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "手背腱膜",
+   "en": "aponeurosis dorsalis manus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "后头孔",
+   "en": "foramen magnum\",\"occipital foramen",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "烧结磁体",
+   "en": "sintered magnet",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "马格纳斯结",
+   "en": "magnus hitch",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "芬兰大公国",
+   "en": "Georg Magnus Sprengtporten",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "血管翳",
+   "en": "pannus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "粒子加速器",
+   "en": "quadrupole magnet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "JAK激酶",
+   "en": "Janus kinase",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "迷走神经",
+   "en": "Vagus nerve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "软腭",
+   "en": "pharyngeal branch of vagus nerve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心本自乐",
+   "en": "Joy Is Original of Man’s Heart and Mind.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "马嘉人",
+   "en": "Magars",
+   "code": "6.0111",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "《玛纳斯》",
+   "en": "Manas",
+   "code": "3.0606",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "意义未明的单克隆丙种球蛋白血症",
+   "en": "monoclonal gammopathy of undetermined significance，MGUS",
+   "code": "2.18.6.24",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病"
+  }
+ ],
+ "error": null,
  "raw": null
 }

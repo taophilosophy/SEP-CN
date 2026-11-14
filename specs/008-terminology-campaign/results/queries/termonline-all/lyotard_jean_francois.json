@@ -2,10 +2,347 @@
  "key": "lyotard, jean-francois",
  "term": "Lyotard, Jean-François",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:21+00:00",
- "status": "error",
- "note": "variant=Lyotard, Jean-François; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lyotard, Jean-François: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:27:02+00:00",
+ "status": "ok",
+ "note": "variant=Lyotard, Jean-François; 审定公布名词库=695; 海峡两岸名词对照库=376; 其他来源数据库=14; 预公布名词数据库=26; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "金斯定理",
+   "en": "Jeans theorem",
+   "code": "07.155",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯波长",
+   "en": "Jeans wavelength",
+   "code": "07.156",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯质量",
+   "en": "Jeans mass",
+   "code": "07.157",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯不稳定性",
+   "en": "Jeans instability",
+   "code": "11.0081",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "让·巴蒂斯特·萨伊",
+   "en": "Jean-Baptiste Say（1767—1832）",
+   "code": "16.014",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "瑞利-金斯公式",
+   "en": "Rayleigh-Jeans formula",
+   "code": "05.0646",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "紫外灾难",
+   "en": "ultraviolet catastrophe,Rayleigh-Jeans catastrophe",
+   "code": "06.0369",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "让·沙尔·列奥纳尔·西蒙·德·西斯蒙第",
+   "en": "Jean Charles Léonard Simonde de Sismondi（1773—1842）",
+   "code": "16.012",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "豹皮灰岩",
+   "en": "leopard limestone",
+   "code": "05.04.086",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型"
+  },
+  {
+   "cn": "豹蠹蛾",
+   "en": "leopard moth",
+   "code": "07.154",
+   "standard": "林学名词",
+   "subject": "林学_森林保护_森林昆虫"
+  },
+  {
+   "cn": "豹纹状眼底",
+   "en": "leopard fundus",
+   "code": "04.514",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼科疾病"
+  },
+  {
+   "cn": "混流式水泵水轮机",
+   "en": "Francis pumpturbine",
+   "code": "16.025",
+   "standard": "电力名词",
+   "subject": "电力_水电站机电设备"
+  },
+  {
+   "cn": "马蒂农",
+   "en": "Martinon\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "西贝柳斯",
+   "en": "Sibelius\",\"Jean(芬兰)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "富尔内，让",
+   "en": "Fournet\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴拉凯",
+   "en": "Barraqué\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "普涅",
+   "en": "Pougnet\",\"Jean(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "金斯波长",
+   "en": "Jeans wavelength",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯不稳定性",
+   "en": "Jeans instability",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯长度",
+   "en": "Jeans length",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯判据",
+   "en": "Jeans criterion",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯质量",
+   "en": "Jeans mass",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "阿布西尔",
+   "en": "Absil\",\"Jean(比利时)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "弗朗赛",
+   "en": "Françaix\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "浦东鸡",
+   "en": "Jean Bungartz",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无袖紧身衣",
+   "en": "sleeveless leotard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "Leonard Hayflick",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "马林斯效应",
+   "en": "Leonard Mullins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "平均数",
+   "en": "Mean, Average",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "调和平均数",
+   "en": "harmonic mean",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "身体后倾",
+   "en": "backward lean",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "平均红细胞血红蛋白含量",
+   "en": "mean corpuscular hemoglobin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中庸",
+   "en": "Zhongyong (The Golden Mean)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "code": "1.5.24",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "少脂鱼",
+   "en": "lean fish",
+   "code": "5.7.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水产品"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "code": "3.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "code": "4.5.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_年龄性别结构"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "code": "5.2.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "code": "3.2.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "3.2.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "平均吸收剂量",
+   "en": "mean absorbed dose",
+   "code": "6.3.4.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "腐乳",
+   "en": "fermented bean curd",
+   "code": "5.14.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "瘦体重",
+   "en": "lean body mass",
+   "code": "2.4.2.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  },
+  {
+   "cn": "平均辐射温度",
+   "en": "mean radiant temperature",
+   "code": "4.2.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "菜豆中毒",
+   "en": "vegetable bean poisoning",
+   "code": "3.2.5.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  }
+ ],
+ "error": null,
  "raw": null
 }
