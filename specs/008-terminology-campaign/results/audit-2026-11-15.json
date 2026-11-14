@@ -8,8 +8,8 @@
  ],
  "counts": {
   "查无": 8458,
-  "一致": 1260,
-  "不一致": 833,
+  "一致": 1271,
+  "不一致": 822,
   "未查证": 331
  },
  "results": [
@@ -25744,38 +25744,52 @@
    "table": "术语",
    "line": 1168,
    "term": "correspondence theory",
-   "trans": "符合论",
-   "basis": "真理符合论（区别于阿伯拉尔 conformality theory 之符合论）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "trans": "符合论（亦作“真理的符合论”）",
+   "basis": "真理符合论（区别于阿伯拉尔 conformality theory 之符合论）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "真理的符合论",
      "en": "correspondence theory of truth",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "真理的符合论",
+     "en": "correspondence theory",
+     "source": "审定形；哲学通行“符合论/真理符合论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
    "table": "术语",
    "line": 1169,
    "term": "correspondence theory of truth",
-   "trans": "真理符合论",
-   "basis": "学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "真理符合论（亦作“真理的符合论”）",
+   "basis": "学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "真理的符合论",
      "en": "correspondence theory of truth",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "真理的符合论",
+     "en": "correspondence theory of truth",
+     "source": "审定形；哲学通行“真理符合论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -26149,9 +26163,9 @@
    "table": "术语",
    "line": 1181,
    "term": "cost-benefit analysis",
-   "trans": "成本—收益分析",
-   "basis": "学界惯例（与登记册 cost effectiveness analysis“成本效果分析”分列）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "成本—收益分析（亦作“成本效益分析”）",
+   "basis": "学界惯例（与登记册 cost effectiveness analysis“成本效果分析”分列）；凭证 2026-11-09；2026-11-15 补亦作（审定形，经济学两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -26278,10 +26292,17 @@
      "cn": "成本效益分析",
      "en": "cost-benefit analysis,CBA",
      "source": "卫生经济学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "成本效益分析",
+     "en": "cost-benefit analysis",
+     "source": "审定形；经济学“成本—收益分析/成本效益分析”两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -27480,19 +27501,26 @@
    "table": "术语",
    "line": 1244,
    "term": "Cut rule",
-   "trans": "切规则",
-   "basis": "证明论通行译法；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "切规则（亦作“截规则”）",
+   "basis": "证明论通行译法；凭证 2026-11-10；2026-11-15 补亦作（审定形；Gentzen Schnitt 另见“切割规则”行文）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "截规则",
      "en": "cut rule",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "截规则",
+     "en": "Cut rule",
+     "source": "审定形；证明论文献“切规则/切割规则/截规则”并行（Gentzen Schnitt）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -28549,9 +28577,9 @@
    "table": "术语",
    "line": 1307,
    "term": "decolonization",
-   "trans": "去殖民化",
-   "basis": "学界通行译名；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "去殖民化（亦作“非殖民化”）",
+   "basis": "学界通行译名；凭证 2026-11-07；2026-11-15 补亦作（审定形；联合国文献“非殖民化”，后殖民研究“去殖民化”，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -28564,10 +28592,17 @@
      "cn": "去殖民地化",
      "en": "decolonization",
      "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "非殖民化",
+     "en": "decolonization",
+     "source": "审定形（联合国文献系）；后殖民研究通行“去殖民化”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -28784,19 +28819,26 @@
    "table": "术语",
    "line": 1318,
    "term": "Default Mode Network",
-   "trans": "默认模式网络",
-   "basis": "神经科学通行（DMN）",
-   "status": "不一致",
+   "trans": "默认模式网络（亦作“默认网络”）",
+   "basis": "神经科学通行（DMN）；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "默认网络",
      "en": "default mode network",
      "source": "阿尔茨海默病名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "默认网络",
+     "en": "Default Mode Network",
+     "source": "审定短形；神经科学标准“默认模式网络”（DMN）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -29076,9 +29118,9 @@
    "table": "术语",
    "line": 1333,
    "term": "degenerating research programme",
-   "trans": "退化的研究纲领",
-   "basis": "科学研究纲领方法论通行译法；凭证 2026-11-06",
-   "status": "不一致",
+   "trans": "退化的研究纲领（亦作“退步的研究纲领”）",
+   "basis": "科学研究纲领方法论通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形；拉卡托斯文献“退化/退步”两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -29091,10 +29133,17 @@
      "cn": "退步的研究纲领",
      "en": "degenerating research programme",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "退步的研究纲领",
+     "en": "degenerating research programme",
+     "source": "审定形；拉卡托斯文献“退化/退步”两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -29473,19 +29522,26 @@
    "table": "术语",
    "line": 1358,
    "term": "dense-in-itself",
-   "trans": "自密的",
-   "basis": "拓扑学通行",
-   "status": "不一致",
+   "trans": "自密的（亦作“自稠”）",
+   "basis": "拓扑学通行；2026-11-15 补亦作（审定形“自稠[的]”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "自稠[的]",
      "en": "dense in itself",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "自稠",
+     "en": "dense-in-itself",
+     "source": "审定形“自稠[的]”；拓扑学通行“自密的/自密集”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -31552,9 +31608,9 @@
    "table": "术语",
    "line": 1462,
    "term": "discourse representation theory (DRT)",
-   "trans": "话语表现理论（DRT）",
-   "basis": "学界通行（Kamp 传统，亦作“话语表征理论”）；凭证 2026-11-12",
-   "status": "不一致",
+   "trans": "话语表现理论（DRT）（亦作“话语表征理论”“话语表示理论”）",
+   "basis": "学界通行（Kamp 传统，亦作“话语表征理论”）；凭证 2026-11-12；2026-11-15 补审定形“话语表示理论”入亦作",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -31564,7 +31620,8 @@
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -33259,19 +33316,26 @@
    "table": "术语",
    "line": 1547,
    "term": "downward causation",
-   "trans": "下向因果",
-   "basis": "学界通行（心灵哲学与生物学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "下向因果（亦作“下向因果关系”）",
+   "basis": "学界通行（心灵哲学与生物学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定复合形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "下向因果关系",
      "en": "downward causation",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "下向因果关系",
+     "en": "downward causation",
+     "source": "审定复合形；心灵哲学通行“下向因果”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -33613,19 +33677,26 @@
    "table": "术语",
    "line": 1567,
    "term": "Dutch book",
-   "trans": "荷兰赌",
-   "basis": "学界通行（贝叶斯决策论）",
-   "status": "不一致",
+   "trans": "荷兰赌（亦作“大弃赌论证”）",
+   "basis": "学界通行（贝叶斯决策论）；2026-11-15 补亦作（审定形；贝叶斯决策论文献“荷兰赌/大弃赌”两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "大弃赌论证",
      "en": "Dutch book arguments",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "大弃赌论证",
+     "en": "Dutch book",
+     "source": "审定形；贝叶斯决策论文献“荷兰赌/大弃赌”两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {

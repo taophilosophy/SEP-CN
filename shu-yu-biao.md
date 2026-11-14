@@ -1165,8 +1165,8 @@
 | correlational information | — | 关联信息 | information-biological | 学界通行（香农信息）；凭证 2026-11-12 | 2026-11-12 |
 | correlative cosmology | 关联性宇宙论 | 关联性宇宙论 | chinese-phil-science | 学界通行（参 Graham《阴阳与关联思维》）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| correspondence theory | — | 符合论 | 语料回收（词汇表并网） | 真理符合论（区别于阿伯拉尔 conformality theory 之符合论）；词汇表并网（ADR-0036） | 2026-11-13 |
-| correspondence theory of truth | — | 真理符合论 | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
+| correspondence theory | — | 符合论（亦作“真理的符合论”） | 语料回收（词汇表并网） | 真理符合论（区别于阿伯拉尔 conformality theory 之符合论）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形） | 2026-11-15 |
+| correspondence theory of truth | — | 真理符合论（亦作“真理的符合论”） | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | corroboration | — | 确证 | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06 | 2026-11-06 |
 | cosmogony | — | 宇宙生成论 | peirce-benjamin | 哲学通行译名（与“宇宙论”cosmology 分列）；凭证 2026-11-09 | 2026-11-09 |
 | cosmological principle | — | 宇宙学原理 | cosmology-30s 首译 | 宇宙学通行（Milne 1933 提出；de Sitter 论战核心）；凭证 2026-11-08 | 2026-11-08 |
@@ -1178,7 +1178,7 @@
 | cosmopolitanism | — | 世界主义 | SUMMARY 定名沿用（cosmopolitanism 词条） | SUMMARY 题名；跨条一致 | 2026-11-09 |
 | cost effectiveness analysis | — | 成本效果分析 | disability-care-rationing | 卫生经济学通行（CEA；与 cost-benefit analysis 成本收益分析区分）；凭证 2026-11-08 | 2026-11-08 |
 | cost of natural selection | — | 自然选择的代价 | ecological-genetics 首译 | Haldane 1957 原语；学界通行译名；凭证 2026-11-10 | 2026-11-10 |
-| cost-benefit analysis | — | 成本—收益分析 | risk | 学界惯例（与登记册 cost effectiveness analysis“成本效果分析”分列）；凭证 2026-11-09 | 2026-11-09 |
+| cost-benefit analysis | — | 成本—收益分析（亦作“成本效益分析”） | risk | 学界惯例（与登记册 cost effectiveness analysis“成本效果分析”分列）；凭证 2026-11-09；2026-11-15 补亦作（审定形，经济学两形并行） | 2026-11-15 |
 | cost-effective／cost-effectiveness | — | 成本效益 | organ-donation | 学界惯例（卫生经济学通行；凭证 2026-11-06） | 2026-11-06 |
 | cotangent bundle | — | 余切丛 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | cotangent space | — | 余切空间 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
@@ -1241,7 +1241,7 @@
 | Curry-Howard isomorphism | — | 柯里-霍华德同构 | 首现（intuitionism） | 数理逻辑通行（亦作“柯里-霍华德对应”）；凭证 2026-11-10 | 2026-11-10 |
 | curse of dimensionality | — | 维数灾难 | cancer | 学界通行（机器学习与统计）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cut elimination | — | 切割消除 | logic-fuzzy；logic-provability | 证明论通行（亦作“切消”备查）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| Cut rule | — | 切规则 | logic-substructural | 证明论通行译法；凭证 2026-11-10 | 2026-11-09 |
+| Cut rule | — | 切规则（亦作“截规则”） | logic-substructural | 证明论通行译法；凭证 2026-11-10；2026-11-15 补亦作（审定形；Gentzen Schnitt 另见“切割规则”行文） | 2026-11-15 |
 | cyberterrorism | — | 网络恐怖主义 | 首现（it-moral-values） | 法学与安全研究通行译名；凭证 2026-11-10 | 2026-11-10 |
 | cycloidal pendulum | — | 摆线摆 | newton-principia | 物理学史通行；凭证 2026-11-11 | 2026-11-11 |
 | cylindric algebra | — | 柱形代数 | algebra-logic-tradition | Tarski 学派通行译名（cylindric algebra）；凭证 2026-11-12 | 2026-11-12 |
@@ -1304,7 +1304,7 @@
 | declarative system / procedural system | — | 陈述性系统／程序性系统 | knowledge-how | 认知科学通行（陈述／程序二分）；凭证 2026-11-10 | 2026-11-10 |
 | decoherence | — | 退相干 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | decolonial | — | 去殖民的 | existentialism-mexican | 学界通行；凭证 2026-11-12 | 2026-11-12 |
-| decolonization | — | 去殖民化 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
+| decolonization | — | 去殖民化（亦作“非殖民化”） | colonialism | 学界通行译名；凭证 2026-11-07；2026-11-15 补亦作（审定形；联合国文献“非殖民化”，后殖民研究“去殖民化”，两形并行） | 2026-11-15 |
 | decomposing synthesis | — | 分解的综合 | kant-transcendental | 本词条首译（Rosefeldt 2022 语境，与组合的综合对举）；凭证 2026-11-11 | 2026-11-11 |
 | deducibility | — | 可推演性 | logic-dynamic | 证明论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | deduction theorem | — | 演绎定理 | lvov-warsaw | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -1315,7 +1315,7 @@
 | deductive-statistical (DS) explanation | — | 演绎—统计（DS）解释 | 首译（scientific-explanation-20th） | 学界通行（Hempel 1965b）；凭证 2026-11-10 | 2026-11-10 |
 | deductivism | — | 演绎主义 | deductivism-mathematics | 学界通行（数学哲学：数学语句以公理为条件）；凭证 2026-11-08 | 2026-11-08 |
 | deep learning | — | 深度学习 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| Default Mode Network | — | 默认模式网络 | 首现（experimental-aesthetics） | 神经科学通行（DMN） | 2026-11-09 |
+| Default Mode Network | — | 默认模式网络（亦作“默认网络”） | 首现（experimental-aesthetics） | 神经科学通行（DMN）；2026-11-15 补亦作（审定短形） | 2026-11-15 |
 | default reasoning | — | 缺省推理 | logic-substructural | 非单调逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | defeasibility theory of knowledge | — | 知识的可废止性理论 | epistemology-latin-america 首译 | 学界通行（defeasibility 可废止性） | 2026-11-11 |
 | defeasible | — | 可废止的 | f/frame-problem 首译 | 逻辑学通行译法（知识论 defeat 另译击败/可挫败，分义）；凭证 2026-11-10 | 2026-11-10 |
@@ -1330,7 +1330,7 @@
 | definitionism | — | 定义主义 | hobbes-science 首译 | 学界惯例（霍布斯公民哲学演证解释通称，亦作“定义式观点”）；凭证 2026-11-11 | 2026-11-11 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | deflationism | — | 紧缩论 | 语料回收（词汇表并网） | 真理紧缩论；亦译“收缩论”；词汇表并网（ADR-0036） | 2026-11-13 |
-| degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
+| degenerating research programme | — | 退化的研究纲领（亦作“退步的研究纲领”） | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形；拉卡托斯文献“退化/退步”两形并行） | 2026-11-15 |
 | degree of belief | — | 置信度（亦作“信念度”） | 首现（imprecise-probabilities） | 审定名词库作“信念度”（自然辩证法名词，2026-11-11 凭证）；形式认识论两形并用（正文 24:14） | 2026-11-11 |
 | degree of membership | — | 隶属度 | logic-fuzzy | 模糊集合论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | degree of truth | — | 真值度 | logic-fuzzy | 模糊逻辑通行译法（truth-value 真值分列）；凭证 2026-11-09 | 2026-11-09 |
@@ -1355,7 +1355,7 @@
 | demythologization | — | 去神话化 | 首现（xenophanes） | 学界通行（自然现象的去神话解释）；凭证 2026-11-07 | 2026-11-07 |
 | Denken als Denken | Denken als Denken | 作为思维的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | denotational semantics | — | 指称语义 | logic-preference | 语义学通行 | 2026-11-08 |
-| dense-in-itself | — | 自密的 | logic-provability | 拓扑学通行 | 2026-11-05 |
+| dense-in-itself | — | 自密的（亦作“自稠”） | logic-provability | 拓扑学通行；2026-11-15 补亦作（审定形“自稠[的]”） | 2026-11-15 |
 | density operator | — | 密度算符 | qm | 审定名词库（光学名词、化学名词均作“密度算符”）；凭证 2026-11-10 | 2026-11-11 |
 | denumerably infinite | — | 可数无穷 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | deontic logic | — | 道义逻辑 | logic-relevance | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -1459,7 +1459,7 @@
 | discordant concordance | — | 不协调的协调 | ricoeur | 利科术语（concordance discordante）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | discourse referent | — | 话语所指 | dynamic-semantics | DRT 文献通行（亦作"话语指称物"）；凭证 2026-11-12 | 2026-11-12 |
 | discourse representation structure (DRS) | — | 话语表现结构（DRS） | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
-| discourse representation theory (DRT) | — | 话语表现理论（DRT） | dynamic-semantics | 学界通行（Kamp 传统，亦作“话语表征理论”）；凭证 2026-11-12 | 2026-11-12 |
+| discourse representation theory (DRT) | — | 话语表现理论（DRT）（亦作“话语表征理论”“话语表示理论”） | dynamic-semantics | 学界通行（Kamp 传统，亦作“话语表征理论”）；凭证 2026-11-12；2026-11-15 补审定形“话语表示理论”入亦作 | 2026-11-15 |
 | Discovery | — | 发现 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | discrete ontology | — | 离散本体论 | 首现（scholz） | 学界惯例（哈森雅格术语）；凭证 2026-11-07 | 2026-11-07 |
 | discursive dilemma | — | 论辩困境 | belief-merging | 学界通行（判断聚合文献，与教义悖论对举）；凭证 2026-11-10 | 2026-11-10 |
@@ -1544,7 +1544,7 @@
 | double-truth theory | — | 双重真理论 | 首现（telesio） | 学界通行（中世纪-文艺复兴思想史通译）；凭证 2026-11-08 | 2026-11-08 |
 | doubt（the tshom） | ཐེ་ཚོམ་ | 疑（the tshom） | epistemology-language-tibetan | 量论通行（心识分类） | 2026-11-04 |
 | Down syndrome | — | 唐氏综合征 | genetics | 医学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
-| downward causation | — | 下向因果 | cancer | 学界通行（心灵哲学与生物学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| downward causation | — | 下向因果（亦作“下向因果关系”） | cancer | 学界通行（心灵哲学与生物学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定复合形） | 2026-11-15 |
 | doxastic faith | — | 信念性信仰 | faith | 学界通行（与 fiducial faith 信任性信仰对举）；凭证 2026-11-11 | 2026-11-11 |
 | doxastic practice | — | 信念实践 | religious-experience | 学界通行（Alston 术语） | 2026-11-05 |
 | doxastic state | — | 信态 | 首现（imprecise-probabilities） | 学界惯例（与 belief state 信念状态同义）；凭证 2026-11-08 | 2026-11-08 |
@@ -1564,7 +1564,7 @@
 | duḥkha | दुःख | 苦 | early-modern-india | 千年通行（unhappiness；佛典古译）；凭证 2026-11-10 | 2026-11-10 |
 | dummy letter | — | 哑字母 | schema | 构词直译（仿“哑变元”通行译法） | 2026-11-06 |
 | duratio rerum successiva | duratio rerum successiva | 事物的相继持存 | nicole-oresme | 奥雷斯姆时间定义术语；凭证 2026-11-08 | 2026-11-08 |
-| Dutch book | — | 荷兰赌 | reasoning-analogy | 学界通行（贝叶斯决策论） | 2026-11-05 |
+| Dutch book | — | 荷兰赌（亦作“大弃赌论证”） | reasoning-analogy | 学界通行（贝叶斯决策论）；2026-11-15 补亦作（审定形；贝叶斯决策论文献“荷兰赌/大弃赌”两形并行） | 2026-11-15 |
 | Dutch book (argument) | — | 大弃赌论证（亦作“荷兰赌（论证）”“荷兰赌论证”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）；亦作补“荷兰赌论证”（abduction 正文落地形，2026-10-30 落地复核） | 2026-10-29 |
 | dveṣa | द्वेष | 瞋 | early-modern-india | 佛典古译通行（aversion；亦作“憎”）；凭证 2026-11-10 | 2026-11-10 |
 | dyaṇuka | द्यणुक | 二微 | early-modern-india | 胜论原子论通行（二极微之合；与 tryaṇuka 三微对举）；凭证 2026-11-10 | 2026-11-10 |
