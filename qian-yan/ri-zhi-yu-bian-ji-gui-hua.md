@@ -91,3 +91,8 @@
 * 2026.11.15 doxography 定名“学述”（用户批准，前沿哲学论文通行）
   * SUMMARY 题名与 mu-lu-s 及四处互见改“古代哲学学述”，d/doxography-ancient 正文 30 处、a/alcmaeon 正文 26 处看齐
   * 旧形“学说汇编”“学说史”降为亦作；mandeville“经济学说史”散文义未动
+* 2026.11.15 上游目录增删接入：bioethics 换 slug 替代重发（首例）
+  * fetch_catalog 快照对比（10-28→11-14 窗口）：新增 bioethics-moral-reasoning（11-05 首发，官注 replaces and is based on Theory and Bioethics）、下架 theory-bioethics
+  * apply-add 接入「生命伦理学与道德推理」（向同族条目 生命伦理学 收敛；GB 库查证凭证入 008 queries）；apply-remove（FR-022）删旧件，en 包/yuanwen 镜像/mu-lu-s 行手工补齐
+  * 旧件 soft404 系 drift_scan 当日已捕获（软 404 retired），但 soft404 无转任务出口——流程缺口待补；新增件对逐条目回源工具结构性不可见，唯 fetch_catalog 能见
+  * 顺带修复：apply-add 作者显示改自然序+顿号（entries.json 倒置形误渲染）；sep_sync_check writer 行尾 LF；CI 基线快照随上游更新；PROGRESS 重生成
