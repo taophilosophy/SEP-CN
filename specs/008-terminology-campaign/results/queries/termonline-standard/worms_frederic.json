@@ -1,0 +1,19 @@
+{
+ "key": "worms, frederic",
+ "term": "Worms, Frederic",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:40:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "地老虎",
+   "en": "cut worms",
+   "code": "GB/T 34741—2017",
+   "standard": "草坪术语",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 1}, \"sourceStats\": {\"农业\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"e822ab311ba2440798b17d493624949b\", \"databaseId\": null, \"standardId\": \"fc613787d1b64d9c94d93ce4b915281b\", \"standardCode\": \"GB/T 34741—2017\", \"standardName\": \"草坪术语\", \"standardEnName\": \"Turf terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"4.16.4\", \"cnName\": \"地老虎\", \"enName\": \"cut worms\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"65.020.4065\", \"ccs\": \"B40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245154, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地老虎\", \"cnNameSearch\": \"地老虎\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cut worms\", \"wordSearch\": \"cut worms\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地下害虫，鳞翅目夜蛾科完全变态昆虫。成虫头、胸部背面暗褐色，后翅灰白色，纵脉及缘线褐色，腹部背面灰色。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674435062}"
+}

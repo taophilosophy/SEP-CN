@@ -1,0 +1,229 @@
+{
+ "key": "seneca",
+ "term": "Seneca",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T16:42:59+00:00",
+ "status": "ok",
+ "note": "variant=Seneca; 审定公布名词库=44; 海峡两岸名词对照库=17; 其他来源数据库=3; 预公布名词数据库=4; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "金星号",
+   "en": "Venera",
+   "code": "06.537",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "选取",
+   "en": "select",
+   "code": "07.0128",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "选择",
+   "en": "select",
+   "code": "05.1022",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "灌肠剂",
+   "en": "enema",
+   "code": "02.357",
+   "standard": "药学名词",
+   "subject": "药学_药剂学"
+  },
+  {
+   "cn": "灌肠剂",
+   "en": "enema",
+   "code": "07.058",
+   "standard": "中医药学名词",
+   "subject": "中医药学_方剂学_剂型、煎服法"
+  },
+  {
+   "cn": "选苗",
+   "en": "select sapling",
+   "code": "08.0173",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林种植"
+  },
+  {
+   "cn": "阿拉伯树胶",
+   "en": "acacia senegal",
+   "code": "08.0960",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_饲料添加剂"
+  },
+  {
+   "cn": "槽轮",
+   "en": "geneva wheel",
+   "code": "01.0178",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机器与机构构成"
+  },
+  {
+   "cn": "高选",
+   "en": "select-high",
+   "code": "03.263",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_制动性"
+  },
+  {
+   "cn": "低选",
+   "en": "select-low",
+   "code": "03.262",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_制动性"
+  },
+  {
+   "cn": "日内瓦协议",
+   "en": "Geneva Agreement",
+   "code": "01.0446",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_条约"
+  },
+  {
+   "cn": "日内瓦公约",
+   "en": "Geneva Conventions",
+   "code": "01.0436",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_条约"
+  },
+  {
+   "cn": "金星号[行星际探测器]",
+   "en": "Venera",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "选取，选择",
+   "en": "select",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "灌肠剂",
+   "en": "enema",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "日内瓦学派",
+   "en": "Geneva school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "共存属",
+   "en": "binding genera",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "日内瓦回合",
+   "en": "Geneva Round",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "日内瓦公约",
+   "en": "Geneva Conventions",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "快速选择",
+   "en": "fast select",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "属",
+   "en": "genus\",\"genera (复)",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "日内瓦测光系统",
+   "en": "Geneva photometric system",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "读选择线",
+   "en": "read select line",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "写选择线",
+   "en": "write select line",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "伦卡人",
+   "en": "Lenca",
+   "code": "6.0373",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  },
+  {
+   "cn": "弃其糟粕取其精华",
+   "en": "discard its dross and select its essence",
+   "code": "03.0462",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "第一国际第一次代表大会",
+   "en": "First Congress of the First International in Geneva",
+   "code": "04.0468",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_马克思恩格斯时期"
+  },
+  {
+   "cn": "日内瓦国际社会主义者大学生代表大会",
+   "en": "Geneva International Congress of the International Socialist University Students",
+   "code": "04.0478",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

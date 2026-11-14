@@ -1,0 +1,68 @@
+{
+ "key": "yi ik",
+ "term": "Yi Ik",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:45:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=8",
+ "hits": [
+  {
+   "cn": "IK代码",
+   "en": "IK code",
+   "code": "GB/T 20138—2023",
+   "standard": "电器设备外壳对外界机械碰撞的防护等级 （IK代码） ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "黄色指数",
+   "en": "yellowness index YI",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "IK代码",
+   "en": "IKcode",
+   "code": "GB/T 19674.3—2005",
+   "standard": "液压管接头用螺纹油口和柱端  金属对金属密封柱端（B型）",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]",
+   "en": "input (output) clamp voltage</p> V<sub>IK</sub>[V<sub>OK</sub>]",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]",
+   "en": "input (output) clamp voltage</p> V<sub>IK</sub> [V<sub>OK</sub>]",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "黄色指数变化值",
+   "en": "change of yellowness index",
+   "code": "GB/T 39822—2021",
+   "standard": "塑料 黄色指数及其变化值的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "黄变指数",
+   "en": "yellowness index difference",
+   "code": "GB/T 41203—2021",
+   "standard": "光伏组件封装材料加速老化试验方法",
+   "subject": "电子学"
+  },
+  {
+   "cn": "隐色体染色法-丙法",
+   "en": "leuco dyeing—IK process",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2021\": 3, \"2006\": 1, \"2005\": 1, \"1988\": 2}, \"sourceStats\": {\"电气工程\": 1, \"电子学\": 3, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 2, \"化工技术\": 1}, \"typeStats\": {\"7\": 8}, \"totalRecords\": 8, \"tmWordList\": [{\"id\": \"2fda39f2a80d43d39db26c9addf44c27\", \"databaseId\": null, \"standardId\": \"4fd16b4904074858ad2689f0bc33e322\", \"standardCode\": \"GB/T 20138—2023\", \"standardName\": \"电器设备外壳对外界机械碰撞的防护等级 （IK代码） \", \"standardEnName\": \"Degrees of protection provided by enclosures for electrical equipment against external mechanical impacts (IK code) (IEC 62262:2021,IDT)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.3\", \"cnName\": \"IK代码\", \"enName\": \"IK code\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"ICS 29.020\", \"ccs\": \"CCS K 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82117, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"IK代码\", \"cnNameSearch\": \"IK代码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"IK code\", \"wordSearch\": \"IK code\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"代码表示外壳对外界有害机械碰撞的防护等级。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"71330138b6f24cc1adc87f38f1f1ef2c\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1\", \"cnName\": \"黄色指数\", \"enName\": \"yellowness index YI\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194992, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数\", \"cnNameSearch\": \"黄色指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index YI\", \"wordSearch\": \"yellowness index YI\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"YI\", \"cnNameSearch\": \"YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"偏离白色或无色，倾向于黄色的程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b2587a8c07c74303a0ceee8f3870948b\", \"databaseId\": null, \"standardId\": \"195febb55dff48f1a7faf99a675e4c78\", \"standardCode\": \"GB/T 19674.3—2005\", \"standardName\": \"液压管接头用螺纹油口和柱端  金属对金属密封柱端（B型）\", \"standardEnName\": \"Connections for general use and fluid power—Ports and stud ends with thread—Stud ends with metal—to—metal sealing(type B)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.3\", \"cnName\": \"IK代码\", \"enName\": \"IKcode\", \"publishTime\": \"2005-02-21\", \"publishYear\": \"2005\", \"implementTime\": \"2005-08-01\", \"ics\": \"23.040.60\", \"ccs\": \"J15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24990, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"IK代码\", \"cnNameSearch\": \"IK代码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"IKcode\", \"wordSearch\": \"IKcode\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"代码表示外壳对外界有害机械碰撞的防护等级。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8a4175dde5aa44db8e2c9535bfe64b36\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.1.3.5\", \"cnName\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"enName\": \"input (output) clamp voltage</p> V<sub>IK</sub>[V<sub>OK</sub>]\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184724, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"cnNameSearch\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"input (output) clamp voltage</p> V<sub>IK</sub>[V<sub>OK</sub>]\", \"wordSearch\": \"input (output) clamp voltage</p> V<sub>IK</sub>[V<sub>OK</sub>]\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在小微分电阻上的足以限制输入（输出）电压幅度的输入（输出）电压。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a859b6ec9ce04df384e4b50013e5113f\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"4.3.5\", \"cnName\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"enName\": \"input (output) clamp voltage</p> V<sub>IK</sub> [V<sub>OK</sub>]\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185008, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"cnNameSearch\": \"输入（输出）钳位电压 V<sub>IK</sub> [V<sub>OK</sub>]\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"input (output) clamp voltage</p> V<sub>IK</sub> [V<sub>OK</sub>]\", \"wordSearch\": \"input (output) clamp voltage</p> V<sub>IK</sub> [V<sub>OK</sub>]\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"见2.1.3.5。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"366c47047d04495abbaa0219e9e8bcb3\", \"databaseId\": null, \"standardId\": \"c1dce50a5be3470c9fcf42f476ae4f61\", \"standardCode\": \"GB/T 39822—2021\", \"standardName\": \"塑料 黄色指数及其变化值的测定\", \"standardEnName\": \"Plastics—Determination of yellowness index and change in yellowness index\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.2\", \"cnName\": \"黄色指数变化值\", \"enName\": \"change of yellowness index\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194991, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄色指数变化值\", \"cnNameSearch\": \"黄色指数变化值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"change of yellowness index\", \"wordSearch\": \"change of yellowness index\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"△YI\", \"cnNameSearch\": \"△YI\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"老化前样品的黄色指数与老化后样品的黄色指数之间的差值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如，暴露于指定条件之前和之后。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a99d6bcd96034454b4bf7bc6f579f879\", \"databaseId\": null, \"standardId\": \"7807dbd45ca641b38c3ad05c86e6a0c2\", \"standardCode\": \"GB/T 41203—2021\", \"standardName\": \"光伏组件封装材料加速老化试验方法\", \"standardEnName\": \"Method for accelerated aging test of PV module encapsulating material\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2\", \"cnName\": \"黄变指数\", \"enName\": \"yellowness index difference\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"31.030\", \"ccs\": \"L 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124145, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"黄变指数\", \"cnNameSearch\": \"黄变指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"yellowness index difference\", \"wordSearch\": \"yellowness index difference\"}, {\"languageType\": 1, \"word\": \"△YI\", \"wordSearch\": \"△YI\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"试验后黄度指数YI与试验前黄度指数YI的差值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c6b9f3a23ad44af6bf6c07c3e75bf113\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"7.13\", \"cnName\": \"隐色体染色法-丙法\", \"enName\": \"leuco dyeing—IK process\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186695, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐色体染色法-丙法\", \"cnNameSearch\": \"隐色体染色法-丙法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"leuco dyeing—IK process\", \"wordSearch\": \"leuco dyeing—IK process\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"亦称冷染法。烧碱用量较低，在 50℃ 还原，20℃～25℃ 染色的方法。适用于聚集倾向很小的还原染料。一般简称为丙法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674731073}"
+}

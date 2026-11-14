@@ -1,0 +1,19 @@
+{
+ "key": "williams, eric",
+ "term": "Williams, Eric",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:33:50+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "有效残余油墨浓度",
+   "en": "effective residual ink concentration",
+   "code": "GB/T 41434—2022",
+   "standard": "纸、纸板和纸浆  光学性能基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"5cfa6cba1f68472898d38b51f17f5902\", \"databaseId\": null, \"standardId\": \"423eed7f8c9c42539a673d68ba065672\", \"standardCode\": \"GB/T 41434—2022\", \"standardName\": \"纸、纸板和纸浆  光学性能基本术语\", \"standardEnName\": \"Paper,board and pulps—Basic terms for optical properties\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.6\", \"cnName\": \"有效残余油墨浓度\", \"enName\": \"effective residual ink concentration\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"ICS 01.040.85 \", \"ccs\": \"CCS Y 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70159, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"有效残余油墨浓度\", \"cnNameSearch\": \"有效残余油墨浓度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"effective residual ink concentration\", \"wordSearch\": \"effective residual ink concentration\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"ERIC值\", \"cnNameSearch\": \"ERIC值\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在950 nm波下测得的含油墨的浆或纸的光吸收系数与油墨本身的光吸收系数之比。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>ERIC值无量纲。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T 20216—2016\", \"sourceCode\": \"3.6\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674027040}"
+}

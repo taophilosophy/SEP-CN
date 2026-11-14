@@ -1,0 +1,19 @@
+{
+ "key": "yu hyongwon",
+ "term": "Yu Hyŏngwon",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:47:42+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "独山玉",
+   "en": "<em>Dushan</em> <em>Yu</em>",
+   "code": "GB/T 31432—2015",
+   "standard": "独山玉  命名与分类",
+   "subject": "精密机械、珠宝"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2015\": 1}, \"sourceStats\": {\"精密机械、珠宝\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"10b3549ed27749a78edaf063ad8b91da\", \"databaseId\": null, \"standardId\": \"c8bd51c7ea8a4f45903db104042d3f33\", \"standardCode\": \"GB/T 31432—2015\", \"standardName\": \"独山玉  命名与分类\", \"standardEnName\": \"Dushan Yu—Denomination and lassification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"精密机械、珠宝\", \"termCode\": \"3.1\", \"cnName\": \"独山玉\", \"enName\": \"<em>Dushan</em> <em>Yu</em>\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-06-01\", \"ics\": \"39.060\", \"ccs\": \"D59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 201238, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"独山玉\", \"cnNameSearch\": \"独山玉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Dushan</em> <em>Yu</em>\", \"wordSearch\": \"<em>Dushan</em> <em>Yu</em>\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以基性斜长石、黝帘石、白云母(含铬)、纤闪石等为主要矿物组成的中细粒蚀变斜长岩、辉长岩，以绿、白、褐、红、黄、黑等多种颜色共存为特征；是由岩浆分异、动力变质作用及多期次热液沿破碎裂隙带充填交代基性一超基性杂岩体而形成。代表产地河南省南阳市独山。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674858750}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "woods, jack",
+ "term": "Woods, Jack",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:39:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=27",
+ "hits": [
+  {
+   "cn": "斜支撑",
+   "en": "jack",
+   "code": "GB/T 8590—2018",
+   "standard": "土方机械 推土机 术语和商业规格",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "插口",
+   "en": "jack",
+   "code": "GB/T 4210—2015",
+   "standard": "电工术语 电子设备用机电元件 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "反碹",
+   "en": "jack arch",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "顶升纠倾",
+   "en": "jack-upleaningrectification",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "檀托架",
+   "en": "jack post",
+   "code": "GB/T 31301.1—2015",
+   "standard": "制鞋机械 安全要求 第1部分:绷帮机",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "打钉支架",
+   "en": "nailing jack",
+   "code": "GB/T 31301.2—2015",
+   "standard": "制鞋机械 安全要求 第2部分:钉跟机",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "夹紧千斤顶",
+   "en": "gripper jack",
+   "code": "GB 50798—2012",
+   "standard": "石油化工大型设备吊装工程规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "反平碹",
+   "en": "jack arch",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "水手索",
+   "en": "jack-line",
+   "code": "GB/T 19319—2010",
+   "standard": "小艇  防止人员落水和重新登艇",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "起升油缸",
+   "en": "lifting jack",
+   "code": "GB/T 6104—2005",
+   "standard": "机动工业车辆 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "压浆法",
+   "en": "mud-jack method",
+   "code": "GB/T 50670—2011",
+   "standard": "机械设备安装工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "专用便携式千斤顶",
+   "en": "special portable jack",
+   "code": "GB 37481—2019",
+   "standard": "金库门通用技术要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "自升式平台",
+   "en": "jack-up platform",
+   "code": "GB/T 8423.5—2017",
+   "standard": "石油天然气工业术语第5部分:设备与材料",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "自升式平台",
+   "en": "jack-up platform",
+   "code": "GB/T 13952—2016",
+   "standard": "移动式平台及海上设施用电工电子产品环境条件参数分级",
+   "subject": "试验"
+  },
+  {
+   "cn": "残铁口机",
+   "en": "jack dam drill",
+   "code": "GB/T 32818—2016",
+   "standard": "冶炼设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "插拔螺杆装置",
+   "en": "jack-screw system",
+   "code": "GB/T 4210—2015",
+   "standard": "电工术语 电子设备用机电元件 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "中孔千斤顶",
+   "en": "medium bore jack",
+   "code": "GB 50798—2012",
+   "standard": "石油化工大型设备吊装工程规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "推拉螺旋机构",
+   "en": "jack-screw system",
+   "code": "GB/T 9951—2008",
+   "standard": "信息技术  系统间远程通信和信息交换  34插针DTE/DCE接口连接器的配合性尺寸和接触件编号分配",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "单级起升油缸",
+   "en": "simple lifting jack",
+   "code": "GB/T 6104—2005",
+   "standard": "机动工业车辆 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "组合式起升油缸",
+   "en": "compound lifting jack",
+   "code": "GB/T 6104—2005",
+   "standard": "机动工业车辆 术语",
+   "subject": "材料储运设备"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1, \"2019\": 1, \"2018\": 1, \"2017\": 1, \"2016\": 2, \"2015\": 4, \"2014\": 1, \"2012\": 3, \"2011\": 2, \"2010\": 1, \"2008\": 1, \"2005\": 3, \"暂无年份\": 6}, \"sourceStats\": {\"造船和海上构筑物\": 1, \"试验\": 1, \"综合、术语学、标准化、文献\": 3, \"石油及相关技术\": 1, \"玻璃和陶瓷工业\": 1, \"环保、保健和安全\": 1, \"材料储运设备\": 4, \"机械制造\": 2, \"服装工业\": 2, \"冶金\": 1, \"其它\": 9, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 27}, \"totalRecords\": 27, \"tmWordList\": [{\"id\": \"a320665f271847c19393736355fefdbc\", \"databaseId\": null, \"standardId\": \"8bd0bdd52877471b9dfb572d91ae433f\", \"standardCode\": \"GB/T 8590—2018\", \"standardName\": \"土方机械 推土机 术语和商业规格\", \"standardEnName\": \"Earth-moving machinery—Dozers—Terminology and commercial specifications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"4.3.1.1\", \"cnName\": \"斜支撑\", \"enName\": \"jack\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"53.100;01.040.5301\", \"ccs\": \"P97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147382, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"斜支撑\", \"cnNameSearch\": \"斜支撑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack\", \"wordSearch\": \"jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"调整推土铲倾斜和俯仰的机械式调整零部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d9186386acec482f942c30e6620f3829\", \"databaseId\": null, \"standardId\": \"784f15401b654f03bcdcb8d9dfdd69d4\", \"standardCode\": \"GB/T 4210—2015\", \"standardName\": \"电工术语 电子设备用机电元件 \", \"standardEnName\": \"Electrotechnical terminology—Electromechanical components for electronic equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"581-26-24\", \"cnName\": \"插口\", \"enName\": \"jack\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-04-01\", \"ics\": \"ICS 01.040.31\", \"ccs\": \"L 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125073, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"插口\", \"cnNameSearch\": \"插口\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack\", \"wordSearch\": \"jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与电话插塞相配的连接器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec0406c19c9f4560bc807ea77c6b6d44\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.27 \", \"cnName\": \"反碹\", \"enName\": \"jack arch\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18705, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反碹\", \"cnNameSearch\": \"反碹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack arch\", \"wordSearch\": \"jack arch\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接窑拱与小炉喷火口拱端,起拱脚作用的一种结构形式，又称反拱。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"892b214693b94aff8ad8678906a25801\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.7.6\", \"cnName\": \"顶升纠倾\", \"enName\": \"jack-upleaningrectification\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43907, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"顶升纠倾\", \"cnNameSearch\": \"顶升纠倾\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-upleaningrectification\", \"wordSearch\": \"jack-upleaningrectification\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在倾斜建（构）筑物沉降较大的部位采用千斤顶顶升的措施，通过调整建（构）筑物各部分的顶升量，便建\\n（构）筑物作整体平面转动以达到纠倾目的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"032100fdb0c54ecb810eb1605080a7a5\", \"databaseId\": null, \"standardId\": \"3a82c8ed30b44838aeb455c808a91511\", \"standardCode\": \"GB/T 31301.1—2015\", \"standardName\": \"制鞋机械 安全要求 第1部分:绷帮机\", \"standardEnName\": \"Footwear manufacturing machines—Safety requirements—Part 1: Lasting machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"3.12\", \"cnName\": \"檀托架\", \"enName\": \"jack post\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"61.060\", \"ccs\": \"Y99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63184, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"檀托架\", \"cnNameSearch\": \"檀托架\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack post\", \"wordSearch\": \"jack post\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"鞋楦支撑装置。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图2，区域1。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"26cc17a1c2a846518ba7b5b09bbbe582\", \"databaseId\": null, \"standardId\": \"dbc917a06c2646998ddb02968fba36de\", \"standardCode\": \"GB/T 31301.2—2015\", \"standardName\": \"制鞋机械 安全要求 第2部分:钉跟机\", \"standardEnName\": \"Footwear manufacturing machines—Safety requirements—Part 2: Nailing machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"3.4\", \"cnName\": \"打钉支架\", \"enName\": \"nailing jack\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"61.060\", \"ccs\": \"Y99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215838, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"打钉支架\", \"cnNameSearch\": \"打钉支架\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nailing jack\", \"wordSearch\": \"nailing jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"驱动器将钉子钉进鞋底/鞋跟之前放入钉子的机构。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图1、图2中区域2。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec06c2d88eec4040b24e00bb8c9ee9f7\", \"databaseId\": null, \"standardId\": \"93cc03383f114485b3aabba7c01e7ed1\", \"standardCode\": \"GB 50798—2012\", \"standardName\": \"石油化工大型设备吊装工程规范\", \"standardEnName\": \"Code for large-size equipment hoisting engineering in petrochemical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.17\", \"cnName\": \"夹紧千斤顶\", \"enName\": \"gripper jack\", \"publishTime\": \"2012-10-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156536, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"夹紧千斤顶\", \"cnNameSearch\": \"夹紧千斤顶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"gripper jack\", \"wordSearch\": \"gripper jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由动力装置提供液压动力，通过夹持一定规格方钢等轨道承重的液压起重设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"45cfe4e5fc66460c97a55969a18908ae\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.3.2.14\", \"cnName\": \"反平碹\", \"enName\": \"jack arch\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反平碹\", \"cnNameSearch\": \"反平碹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack arch\", \"wordSearch\": \"jack arch\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在横火焰窑中，连接窑拱与小炉喷火口拱端起拱脚作用的一种结构形式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"37dc0a0134d04a1e950c439f99fe071d\", \"databaseId\": null, \"standardId\": \"d1503d1bf4b645d6868c7650bfd13296\", \"standardCode\": \"GB/T 19319—2010\", \"standardName\": \"小艇  防止人员落水和重新登艇\", \"standardEnName\": \"Small craft — Man—overboard prevention and recovery\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.16\", \"cnName\": \"水手索\", \"enName\": \"jack-line\", \"publishTime\": \"2010-08-09\", \"publishYear\": \"2010\", \"implementTime\": \"2010-12-01\", \"ics\": \"47.08047\", \"ccs\": \"U37\", \"parentTermId\": null, \"titleId\": null, \"oid\": 209049, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水手索\", \"cnNameSearch\": \"水手索\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-line\", \"wordSearch\": \"jack-line\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于系住安全索的柔性索或刚性杆，而且当系住时允许艇员沿其长度方向安全移动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a52b25b72d624198bf94899ed86fcd86\", \"databaseId\": null, \"standardId\": \"3232cb04d35f4bb3910ac693b318bff8\", \"standardCode\": \"GB/T 6104—2005\", \"standardName\": \"机动工业车辆 术语\", \"standardEnName\": \"Powered industrial trucks—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"4.13.2.1.3\", \"cnName\": \"起升油缸\", \"enName\": \"lifting jack\", \"publishTime\": \"2005-10-24\", \"publishYear\": \"2005\", \"implementTime\": \"2006-05-01\", \"ics\": \"53.060\", \"ccs\": \"J 83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54822, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"起升油缸\", \"cnNameSearch\": \"起升油缸\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lifting jack\", \"wordSearch\": \"lifting jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过链条、钢丝绳或直接作用在运动立柱的载货架（或载货平台）上进行升降的一个或多个升降油缸（液压油缸）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"87530edf57f84fb7a30b35d5aaf91993\", \"databaseId\": null, \"standardId\": \"93e249d59b6a43d2b307962797d5c43e\", \"standardCode\": \"GB/T 50670—2011\", \"standardName\": \"机械设备安装工程术语标准\", \"standardEnName\": \"Terminology standard for mechanicalequipment installation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.14 \", \"cnName\": \"压浆法\", \"enName\": \"mud-jack method\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156675, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"压浆法\", \"cnNameSearch\": \"压浆法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mud-jack method\", \"wordSearch\": \"mud-jack method\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用螺栓调整垫铁或平垫铁安装设备时,采用适当手段压实垫铁下尚处于初凝后期灌浆层的安装方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d4ec719d5ed641ada486ce4340b190e7\", \"databaseId\": null, \"standardId\": \"1e446f21cedd47cd9ada57e86aa05fce\", \"standardCode\": \"GB 37481—2019\", \"standardName\": \"金库门通用技术要求\", \"standardEnName\": \"General technical specifications for vault doors\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.20\", \"cnName\": \"专用便携式千斤顶\", \"enName\": \"special portable jack\", \"publishTime\": \"2019-04-04\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"13.31013\", \"ccs\": \"L91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 28663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"专用便携式千斤顶\", \"cnNameSearch\": \"专用便携式千斤顶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"special portable jack\", \"wordSearch\": \"special portable jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不超过444820N的模形或其他类似形状的便携式机械或液压动力装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"73f68f4281f844228da6a7432bf98466\", \"databaseId\": null, \"standardId\": \"75ea8d20c86d490baaa0259590f2c172\", \"standardCode\": \"GB/T 8423.5—2017\", \"standardName\": \"石油天然气工业术语第5部分:设备与材料\", \"standardEnName\": \"Petroleum and natural gas industries terminology Part 5:Equipment and material\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"5.1.2\", \"cnName\": \"自升式平台\", \"enName\": \"jack-up platform\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"75.180.0175\", \"ccs\": \"E90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 119468, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"自升式平台\", \"cnNameSearch\": \"自升式平台\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-up platform\", \"wordSearch\": \"jack-up platform\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用平台自身可升降的桩腿,插入海底并升高平台至海平面上一定高度的海上移动结构物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2bf826b3189544809ce4d5d69a543dc5\", \"databaseId\": null, \"standardId\": \"4e1873e878424a4d9f09f6a554bdf7bf\", \"standardCode\": \"GB/T 13952—2016\", \"standardName\": \"移动式平台及海上设施用电工电子产品环境条件参数分级\", \"standardEnName\": \"Parametric classification of environmental conditions of electric andelectronic products for mobile platforms and offshore installations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"2.2\", \"cnName\": \"自升式平台\", \"enName\": \"jack-up platform\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"19.040\", \"ccs\": \"A 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81212, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"自升式平台\", \"cnNameSearch\": \"自升式平台\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-up platform\", \"wordSearch\": \"jack-up platform\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有活动桩腿且其主体能沿支撑于海底的桩腿升至海面以上预定高度进行作业,并能将主体降回</p><p>海面和回收桩腿的平台。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b5ed33c6a3c4430a88edbc2c5d4d56b5\", \"databaseId\": null, \"standardId\": \"74d1aff349d04d6196df67bdda6cfec8\", \"standardCode\": \"GB/T 32818—2016\", \"standardName\": \"冶炼设备  术语\", \"standardEnName\": \"Metallurgical equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.2.5.8\", \"cnName\": \"残铁口机\", \"enName\": \"jack dam drill\", \"publishTime\": \"2016-08-29\", \"publishYear\": \"2016\", \"implementTime\": \"2017-03-01\", \"ics\": \"77.180\", \"ccs\": \"H92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118697, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"残铁口机\", \"cnNameSearch\": \"残铁口机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack dam drill\", \"wordSearch\": \"jack dam drill\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"残铁口开口机\", \"cnNameSearch\": \"残铁口开口机\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于打开主铁沟内残留铁水的专用设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b316ffd2ac3e48a9a37b62e6749378cd\", \"databaseId\": null, \"standardId\": \"784f15401b654f03bcdcb8d9dfdd69d4\", \"standardCode\": \"GB/T 4210—2015\", \"standardName\": \"电工术语 电子设备用机电元件 \", \"standardEnName\": \"Electrotechnical terminology—Electromechanical components for electronic equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"581-27-61\", \"cnName\": \"插拔螺杆装置\", \"enName\": \"jack-screw system\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-04-01\", \"ics\": \"ICS 01.040.31\", \"ccs\": \"L 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124916, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"插拔螺杆装置\", \"cnNameSearch\": \"插拔螺杆装置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-screw system\", \"wordSearch\": \"jack-screw system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接和分离配对元件所采用的连接螺杆和螺母。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e9e5031e3fd441bb9c7e9c8db4c38620\", \"databaseId\": null, \"standardId\": \"93cc03383f114485b3aabba7c01e7ed1\", \"standardCode\": \"GB 50798—2012\", \"standardName\": \"石油化工大型设备吊装工程规范\", \"standardEnName\": \"Code for large-size equipment hoisting engineering in petrochemical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.16\", \"cnName\": \"中孔千斤顶\", \"enName\": \"medium bore jack\", \"publishTime\": \"2012-10-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156523, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中孔千斤顶\", \"cnNameSearch\": \"中孔千斤顶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"medium bore jack\", \"wordSearch\": \"medium bore jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由动力装置提供液压动力，通过直接抓持高强度的钢绞线承重的线性液压起重设备，也称绳缆千斤顶。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6fbfd9658c184e19961bdd52877a9845\", \"databaseId\": null, \"standardId\": \"ba15abc33f2042d786e3b7a639b55cee\", \"standardCode\": \"GB/T 9951—2008\", \"standardName\": \"信息技术  系统间远程通信和信息交换  34插针DTE/DCE接口连接器的配合性尺寸和接触件编号分配\", \"standardEnName\": \"Information technology - Telecommunication and information exchange between systems - 34 pin DTE/DCE interface connector mateability dimensions and contact number assignments\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.6\", \"cnName\": \"推拉螺旋机构\", \"enName\": \"jack-screw system\", \"publishTime\": \"2008-07-28\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-01\", \"ics\": \"35.100\", \"ccs\": \"L79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189263, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"推拉螺旋机构\", \"cnNameSearch\": \"推拉螺旋机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack-screw system\", \"wordSearch\": \"jack-screw system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由连接螺杆和螺母组成的用来连接和断开配合元件的一种机构。它也可以是一个定位机构。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9ab20e6675944e27907465eecf0fae5a\", \"databaseId\": null, \"standardId\": \"3232cb04d35f4bb3910ac693b318bff8\", \"standardCode\": \"GB/T 6104—2005\", \"standardName\": \"机动工业车辆 术语\", \"standardEnName\": \"Powered industrial trucks—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"4.13.2.1.3.1\", \"cnName\": \"单级起升油缸\", \"enName\": \"simple lifting jack\", \"publishTime\": \"2005-10-24\", \"publishYear\": \"2005\", \"implementTime\": \"2006-05-01\", \"ics\": \"53.060\", \"ccs\": \"J 83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54543, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单级起升油缸\", \"cnNameSearch\": \"单级起升油缸\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"simple lifting jack\", \"wordSearch\": \"simple lifting jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用一根柱塞杆升降载荷的油缸。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cb715edf7133474490b445b135df022f\", \"databaseId\": null, \"standardId\": \"3232cb04d35f4bb3910ac693b318bff8\", \"standardCode\": \"GB/T 6104—2005\", \"standardName\": \"机动工业车辆 术语\", \"standardEnName\": \"Powered industrial trucks—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"4.13.2.1.3.2\", \"cnName\": \"组合式起升油缸\", \"enName\": \"compound lifting jack\", \"publishTime\": \"2005-10-24\", \"publishYear\": \"2005\", \"implementTime\": \"2006-05-01\", \"ics\": \"53.060\", \"ccs\": \"J 83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54693, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"组合式起升油缸\", \"cnNameSearch\": \"组合式起升油缸\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"compound lifting jack\", \"wordSearch\": \"compound lifting jack\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"位于同一轴心的多个柱塞缸并依次地进行升降的油缸。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794674395264}"
+}

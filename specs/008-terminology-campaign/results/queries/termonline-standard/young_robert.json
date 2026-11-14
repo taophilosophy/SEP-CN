@@ -1,0 +1,96 @@
+{
+ "key": "young, robert",
+ "term": "Young, Robert",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:47:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=12",
+ "hits": [
+  {
+   "cn": "幼龄林",
+   "en": "young growth",
+   "code": "GB/T 26423—2010",
+   "standard": "森林资源术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "花卉种苗",
+   "en": "young plant",
+   "code": "GB/T 18247.5—2024",
+   "standard": "主要花卉产品等级第5部分:花卉种苗",
+   "subject": "农业"
+  },
+  {
+   "cn": "弹性模量",
+   "en": "young modulus",
+   "code": "GB/T 43307—2023",
+   "standard": "精细陶瓷纤维  单丝室温拉伸性能的测定",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "花卉种苗",
+   "en": "young plant",
+   "code": "GB/T 19842—2005",
+   "standard": "轨道车辆空调机组",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "幼鱼",
+   "en": "young fish",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "石青",
+   "en": "mineral young pigment",
+   "code": "GB/T 40490—2021",
+   "standard": "生漆髹饰工艺术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "男装",
+   "en": "Young Men's wear",
+   "code": "GB/T 15557—2008",
+   "standard": "服装术语 ",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "苗高",
+   "en": "height of young plant",
+   "code": "GB/T 18247.5—2024",
+   "standard": "主要花卉产品等级第5部分:花卉种苗",
+   "subject": "农业"
+  },
+  {
+   "cn": "苗高",
+   "en": "height of young plant",
+   "code": "GB/T 19842—2005",
+   "standard": "轨道车辆空调机组",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "弹性杨氏模量",
+   "en": "elastic <em>Young</em>'s modulus",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "复数杨氏模量",
+   "en": "complex <em>Young</em>'s modulus",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "损耗杨氏模量",
+   "en": "loss <em>Young</em>'s modulus",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 2, \"2023\": 1, \"2021\": 1, \"2011\": 1, \"2008\": 4, \"2005\": 2, \"2001\": 1}, \"sourceStats\": {\"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 1, \"玻璃和陶瓷工业\": 1, \"橡胶和塑料工业\": 3, \"服装工业\": 1, \"农业\": 4}, \"typeStats\": {\"7\": 12}, \"totalRecords\": 12, \"tmWordList\": [{\"id\": \"4245c1a0933e4dcebb0e691402433ea2\", \"databaseId\": null, \"standardId\": \"307e069144ca4a9ba2e57c45d7acb207\", \"standardCode\": \"GB/T 26423—2010\", \"standardName\": \"森林资源术语\", \"standardEnName\": \"Terminology of forest resources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"6.28\", \"cnName\": \"幼龄林\", \"enName\": \"young growth\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"65.020.01\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51347, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"幼龄林\", \"cnNameSearch\": \"幼龄林\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"young growth\", \"wordSearch\": \"young growth\"}, {\"languageType\": 1, \"word\": \"young forest\", \"wordSearch\": \"young forest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"处于生长发育初期的林分。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"47139cdbef7d4437bd0e8c1c1d83d47c\", \"databaseId\": null, \"standardId\": \"68e12fe8ebb447c291ac7cf2daa737f1\", \"standardCode\": \"GB/T 18247.5—2024\", \"standardName\": \"主要花卉产品等级第5部分:花卉种苗\", \"standardEnName\": \"Product grade for major ornamental plants-Part 5: Young plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1\", \"cnName\": \"花卉种苗\", \"enName\": \"young plant\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"65.020.20\", \"ccs\": \"B 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103708, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花卉种苗\", \"cnNameSearch\": \"花卉种苗\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"young plant\", \"wordSearch\": \"young plant\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"培育、繁殖花卉使用的幼苗。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"分为播种苗、扦插苗、嫁接苗和组培苗等。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b10830f33eaa42c183343058d927c279\", \"databaseId\": null, \"standardId\": \"e9b932d0d66f4b068da677eefc6c137f\", \"standardCode\": \"GB/T 43307—2023\", \"standardName\": \"精细陶瓷纤维  单丝室温拉伸性能的测定\", \"standardEnName\": \"Fine ceramic fibers—Determination of tensile properties of filaments at room temperature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"3.12\", \"cnName\": \"弹性模量\", \"enName\": \"young modulus\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"81.060.30\", \"ccs\": \"Q 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229388, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弹性模量\", \"cnNameSearch\": \"弹性模量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"young modulus\", \"wordSearch\": \"young modulus\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"<p><em>E</em></p>\", \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"拉伸应力-应变曲线上线性部分的斜率。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1c5ab305021344d78ce61108657ae8b7\", \"databaseId\": null, \"standardId\": \"0a75d504373848f89d78fdcbfee4c7c8\", \"standardCode\": \"GB/T 19842—2005\", \"standardName\": \"轨道车辆空调机组\", \"standardEnName\": \"Air—conditioning units for railbound vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.1\", \"cnName\": \"花卉种苗\", \"enName\": \"young plant\", \"publishTime\": \"2005-07-11\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"27.20027\", \"ccs\": \"J73\", \"parentTermId\": null, \"titleId\": null, \"oid\": 9369, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花卉种苗\", \"cnNameSearch\": \"花卉种苗\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"young plant\", \"wordSearch\": \"young plant\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"培育、繁殖花卉使用的幼苗。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"分为播种苗、扦插苗、嫁接苗和组培苗等。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"27edc764326344cca72291dba2a9326c\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1.7\", \"cnName\": \"幼鱼\", \"enName\": \"young fish\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210966, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"幼鱼\", \"cnNameSearch\": \"幼鱼\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"young fish\", \"wordSearch\": \"young fish\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"具有与成鱼相同的形态特征,但性腺尚未发育成熟的鱼类个体。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6a931ab998414239800fe76dd897cf55\", \"databaseId\": null, \"standardId\": \"3693a1272adc4fe2a8f67c6134d4b405\", \"standardCode\": \"GB/T 40490—2021\", \"standardName\": \"生漆髹饰工艺术语\", \"standardEnName\": \"Technical terms in raw lacquer and decorative technique\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"8.2.8\", \"cnName\": \"石青\", \"enName\": \"mineral young pigment\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"ICS 01.020\", \"ccs\": \"CCS A 20/39\", \"parentTermId\": null, \"titleId\": null, \"oid\": 60360, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"石青\", \"cnNameSearch\": \"石青\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mineral young pigment\", \"wordSearch\": \"mineral young pigment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"蓝铜类矿物碾制而成的深蓝色粉末状矿物颜料。主要成分为碱式碳酸铜[2CuCO<sub>3</sub>·Cu(OH)<sub>2</sub>］。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>石青又名白青、碧青、鱼目青、扁青、大青。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7d0966f2516841b5b9eb12733dd4e93e\", \"databaseId\": null, \"standardId\": \"4bb8fddec8e04ec28cef4d140742f11e\", \"standardCode\": \"GB/T 15557—2008\", \"standardName\": \"服装术语 \", \"standardEnName\": \"Standard terminology relating to apparel\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.15\", \"cnName\": \"男装\", \"enName\": \"Young Men's wear\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-03-01\", \"ics\": \"ICS 61.020\", \"ccs\": \"Y 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78541, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"男装\", \"cnNameSearch\": \"男装\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Young Men's wear\", \"wordSearch\": \"Young Men's wear\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适合于成年男子穿着的服装。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a0475e78092f4197ada8b375bbafde73\", \"databaseId\": null, \"standardId\": \"68e12fe8ebb447c291ac7cf2daa737f1\", \"standardCode\": \"GB/T 18247.5—2024\", \"standardName\": \"主要花卉产品等级第5部分:花卉种苗\", \"standardEnName\": \"Product grade for major ornamental plants-Part 5: Young plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4\", \"cnName\": \"苗高\", \"enName\": \"height of young plant\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"65.020.20\", \"ccs\": \"B 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103712, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"苗高\", \"cnNameSearch\": \"苗高\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"height of young plant\", \"wordSearch\": \"height of young plant\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"自根颈部至苗顶端的高度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"127df43b7d3a409db80d49509745fbef\", \"databaseId\": null, \"standardId\": \"0a75d504373848f89d78fdcbfee4c7c8\", \"standardCode\": \"GB/T 19842—2005\", \"standardName\": \"轨道车辆空调机组\", \"standardEnName\": \"Air—conditioning units for railbound vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.4\", \"cnName\": \"苗高\", \"enName\": \"height of young plant\", \"publishTime\": \"2005-07-11\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"27.20027\", \"ccs\": \"J73\", \"parentTermId\": null, \"titleId\": null, \"oid\": 9367, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"苗高\", \"cnNameSearch\": \"苗高\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"height of young plant\", \"wordSearch\": \"height of young plant\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"自根颈部至苗顶端的高度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a08b6ea1717f4110b41b0cdd1774062c\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.145\", \"cnName\": \"弹性杨氏模量\", \"enName\": \"elastic <em>Young</em>'s modulus\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 111844, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弹性杨氏模量\", \"cnNameSearch\": \"弹性杨氏模量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"elastic <em>Young</em>'s modulus\", \"wordSearch\": \"elastic <em>Young</em>'s modulus\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"储能杨氏模量\", \"cnNameSearch\": \"储能杨氏模量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"storage <em>Young</em>'s modulus\", \"wordSearch\": \"storage <em>Young</em>'s modulus\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"E'\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"同相位的法向应力分量与法向应变之比。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"705397b53ca548a7b162bca11b553be8\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.89\", \"cnName\": \"复数杨氏模量\", \"enName\": \"complex <em>Young</em>'s modulus\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复数杨氏模量\", \"cnNameSearch\": \"复数杨氏模量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"complex <em>Young</em>'s modulus\", \"wordSearch\": \"complex <em>Young</em>'s modulus\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"<p><i>E</i><sup>*</sup></p>\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"法向应力与法向应变之比,其中每一项都可以用复数表示。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"78c7da8f22514bd9a0770b3d6ac098c8\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.238\", \"cnName\": \"损耗杨氏模量\", \"enName\": \"loss <em>Young</em>'s modulus\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112054, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"损耗杨氏模量\", \"cnNameSearch\": \"损耗杨氏模量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"loss <em>Young</em>'s modulus\", \"wordSearch\": \"loss <em>Young</em>'s modulus\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"E''\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"超前法向量应变相位 90° 的法向应力分量与法向应变之比。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674851086}"
+}

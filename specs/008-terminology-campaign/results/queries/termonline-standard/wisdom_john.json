@@ -1,0 +1,19 @@
+{
+ "key": "wisdom, john",
+ "term": "Wisdom, John",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:36:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "牙咬痛",
+   "en": "acute wisdom tooth pericoronitis",
+   "code": "GB/T 42467.9—2023",
+   "standard": "中医临床名词术语 第9部分：耳鼻喉科学",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"c65c45372bb24befb99366907b971771\", \"databaseId\": null, \"standardId\": \"c4d1377e79174f12ba2bc963fe774970\", \"standardCode\": \"GB/T 42467.9—2023\", \"standardName\": \"中医临床名词术语 第9部分：耳鼻喉科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 9：Otorhinolaryngology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"7.28\", \"cnName\": \"牙咬痛\", \"enName\": \"acute wisdom tooth pericoronitis\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196816, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"牙咬痛\", \"cnNameSearch\": \"牙咬痛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"acute wisdom tooth pericoronitis\", \"wordSearch\": \"acute wisdom tooth pericoronitis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"痈肿发生于磨牙后区上下牙龈咬合处，以智齿周围软组织红肿、疼痛、积脓，甚则腮颊俱肿，张口受限，甚则口噤不开为主要表现的牙病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674203042}"
+}

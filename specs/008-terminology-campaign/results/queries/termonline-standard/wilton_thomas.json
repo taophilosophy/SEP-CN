@@ -1,0 +1,47 @@
+{
+ "key": "wilton, thomas",
+ "term": "Wilton, Thomas",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:35:42+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "托马斯型回旋加速器",
+   "en": "Thomas cyclotron",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "穿条威尔顿地毯",
+   "en": "wire <em>Wilton</em> carpet",
+   "code": "GB/T 26847—2011",
+   "standard": "纺织铺地物  词汇",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "平素穿条威尔顿地毯",
+   "en": "plain wire <em>Wilton</em> carpet",
+   "code": "GB/T 26847—2011",
+   "standard": "纺织铺地物  词汇",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "花纹穿条威尔顿地毯",
+   "en": "patterned wire <em>Wilton</em> carpet",
+   "code": "GB/T 26847—2011",
+   "standard": "纺织铺地物  词汇",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "扇形聚焦",
+   "en": "sector focusing",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 2, \"2011\": 3}, \"sourceStats\": {\"能源和热传导工程\": 2, \"纺织和皮革技术\": 3}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"4fb2c217f7f045febd45db9b2688a98d\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2.5\", \"cnName\": \"托马斯型回旋加速器\", \"enName\": \"Thomas cyclotron\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10842, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"托马斯型回旋加速器\", \"cnNameSearch\": \"托马斯型回旋加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Thomas cyclotron\", \"wordSearch\": \"Thomas cyclotron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用直边扇形磁极垫片产生磁场的方位角调变的扇形聚焦回旋加速器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ba50c542e78a485781dc91b39e073511\", \"databaseId\": null, \"standardId\": \"683ad95612c94b2894032a390e1ba649\", \"standardCode\": \"GB/T 26847—2011\", \"standardName\": \"纺织铺地物  词汇\", \"standardEnName\": \"Textile floor covering - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.1.1.1\", \"cnName\": \"穿条威尔顿地毯\", \"enName\": \"wire <em>Wilton</em> carpet\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-15\", \"ics\": \"59.080.60\", \"ccs\": \"W56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103220, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"穿条威尔顿地毯\", \"cnNameSearch\": \"穿条威尔顿地毯\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wire <em>Wilton</em> carpet\", \"wordSearch\": \"wire <em>Wilton</em> carpet\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用纬向的穿条置入威尔顿地毯织机而织成的绒头地毯。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d567aa84b1694810a7c7338227b77253\", \"databaseId\": null, \"standardId\": \"683ad95612c94b2894032a390e1ba649\", \"standardCode\": \"GB/T 26847—2011\", \"standardName\": \"纺织铺地物  词汇\", \"standardEnName\": \"Textile floor covering - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.1.1.1.1\", \"cnName\": \"平素穿条威尔顿地毯\", \"enName\": \"plain wire <em>Wilton</em> carpet\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-15\", \"ics\": \"59.080.60\", \"ccs\": \"W56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103224, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"平素穿条威尔顿地毯\", \"cnNameSearch\": \"平素穿条威尔顿地毯\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plain wire <em>Wilton</em> carpet\", \"wordSearch\": \"plain wire <em>Wilton</em> carpet\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"通常只用一种颜色在同样的经线上织成的绒头地毯，在生产过程中不提供选择绒头纱线的功能。（见图3）</p>\\n<img src=\\\"/term/cb6bb1ee301f4d7c86ec5ac654b86552/image.png\\\" alt=\\\"image.png\\\">\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"76ac03755ec44518912e2ef21e24a94e\", \"databaseId\": null, \"standardId\": \"683ad95612c94b2894032a390e1ba649\", \"standardCode\": \"GB/T 26847—2011\", \"standardName\": \"纺织铺地物  词汇\", \"standardEnName\": \"Textile floor covering - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.1.1.1.2\", \"cnName\": \"花纹穿条威尔顿地毯\", \"enName\": \"patterned wire <em>Wilton</em> carpet\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-15\", \"ics\": \"59.080.60\", \"ccs\": \"W56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103253, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花纹穿条威尔顿地毯\", \"cnNameSearch\": \"花纹穿条威尔顿地毯\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"patterned wire <em>Wilton</em> carpet\", \"wordSearch\": \"patterned wire <em>Wilton</em> carpet\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用一个提花机构或其他种类的花纹成型装置,从相应的剪绒图案上提取预选的所要颜色的绒头纱线织成图案并将其余的绒头纱线作为组合的埋头绒头纱线织入地组织中而织成的地毯（见图4～图6）。</p>\\n<img src=\\\"/term/e2e71a5aaa5b43e391df4b1ab18c90ca/image.png\\\" alt=\\\"image.png\\\">\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12062aa29c5e4b9581d02cd0f7f84fb9\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.3.5\", \"cnName\": \"扇形聚焦\", \"enName\": \"sector focusing\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10965, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扇形聚焦\", \"cnNameSearch\": \"扇形聚焦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sector focusing\", \"wordSearch\": \"sector focusing\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"托马斯聚焦\", \"cnNameSearch\": \"托马斯聚焦\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"Thomas focusing\", \"wordSearch\": \"Thomas focusing\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用扇形磁极结构产生沿方位角调变的磁场提供轴向聚焦力的聚焦方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674139047}"
+}

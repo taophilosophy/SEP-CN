@@ -146,6 +146,3 @@
   （废 60s 误罚）；稳态 `--interval 10 --batch-gap 2 --warm-every 90` 实测 5.3 词/分（原 2.1），
   零降级零 error。**双道并跑**：标准库 standardSearch（匿名）尾段并行已证实互不干扰，
   凭证落 termonline-standard/（查无按「标准库未收录，不作否定证据」口径）。交接卡限流节已重写。
-* **十九轮**（offset ≈2720，N/O 交界；审计 一致 1172 / 不一致 848 / 查无 7236 / 未查证 1626）：新增 5 条保留——
-  Octavia、Paz, Octavio（「集体消费理论」垃圾池）、Paul III、Pio di Carpi, Alberto III（「RNA聚合酶III」
-  编号模糊垃圾，同 George III 先例）、Philip II（「腓力二世改革」下位事件名，世界历史名词）。零主译变更。

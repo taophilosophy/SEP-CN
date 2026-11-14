@@ -1,0 +1,19 @@
+{
+ "key": "yun hyu",
+ "term": "Yun Hyu",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:48:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "云锦",
+   "en": "<em>Yun</em> brocade",
+   "code": "GB/T 26380—2022",
+   "standard": "纺织品  丝绸术语",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1}, \"sourceStats\": {\"纺织和皮革技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"4dd283fcfd8b46f99934570a9364d130\", \"databaseId\": null, \"standardId\": \"7d0c8a57d70c4912849ca37e99555815\", \"standardCode\": \"GB/T 26380—2022\", \"standardName\": \"纺织品  丝绸术语\", \"standardEnName\": \"Textiles—Terminology for silk\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.3.1\", \"cnName\": \"云锦\", \"enName\": \"<em>Yun</em> brocade\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"59.080.01\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133446, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"云锦\", \"cnNameSearch\": \"云锦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Yun</em> brocade\", \"wordSearch\": \"<em>Yun</em> brocade\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以纯桑蚕丝或桑蚕丝作经丝、有光粘胶长丝色丝和(或)金银丝作纬的色织提花锦类丝织物。采用大型传统花楼织机，由两人分上下楼手工织造。采用“挑花结本、通经断纬、挖花盘织、夹金织银”等工艺。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>明清时南京专设江宁织造局织造云锦以供宫廷之需。分为“库锦、库缎、妆花”三类。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794674891088}"
+}
