@@ -8,8 +8,8 @@
  ],
  "counts": {
   "查无": 8661,
-  "一致": 1294,
-  "不一致": 808,
+  "一致": 1301,
+  "不一致": 801,
   "未查证": 119
  },
  "results": [
@@ -79156,19 +79156,26 @@
    "table": "术语",
    "line": 3640,
    "term": "nativism",
-   "trans": "先天论",
-   "basis": "学界通行（与经验论相对）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "先天论（亦作“天赋论”）",
+   "basis": "学界通行（与经验论相对）；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "天赋论",
      "en": "nativism",
      "source": "语言学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "天赋论",
+     "en": "nativism",
+     "source": "审定形；心灵哲学“先天论/天赋论”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -79290,9 +79297,9 @@
    "table": "术语",
    "line": 3648,
    "term": "natural kind",
-   "trans": "自然种类",
-   "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "自然种类（亦作“自然类”）",
+   "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -79305,10 +79312,17 @@
      "cn": "自然类",
      "en": "natural kind",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "自然类",
+     "en": "natural kind",
+     "source": "审定形；科学哲学“自然种类/自然类”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -79700,19 +79714,26 @@
    "table": "术语",
    "line": 3655,
    "term": "natural magic",
-   "trans": "自然魔法",
-   "basis": "科学史通行；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "自然魔法（亦作“自然巫术”）",
+   "basis": "科学史通行；凭证 2026-11-10；2026-11-15 补亦作（审定形，文艺复兴 magia naturalis 语境）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "自然巫术",
      "en": "natural magic",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "自然巫术",
+     "en": "natural magic",
+     "source": "审定形；科学史通行“自然魔法”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -80784,9 +80805,9 @@
    "table": "术语",
    "line": 3708,
    "term": "neutral theory of molecular evolution",
-   "trans": "（分子进化）中性理论",
-   "basis": "木村资生理论之通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "（分子进化）中性理论（亦作“分子进化中性学说”）",
+   "basis": "木村资生理论之通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定全称形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -80802,7 +80823,8 @@
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -83184,19 +83206,26 @@
    "table": "术语",
    "line": 3846,
    "term": "objective idealism",
-   "trans": "客观观念论",
-   "basis": "狄尔泰世界观类型学三分之一（赫拉克利特、莱布尼茨、黑格尔）；学界通行；凭证 2026-11-11",
-   "status": "不一致",
+   "trans": "客观观念论（亦作“客观唯心主义”）",
+   "basis": "狄尔泰世界观类型学三分之一（赫拉克利特、莱布尼茨、黑格尔）；学界通行；凭证 2026-11-11；2026-11-15 补亦作（审定形，教材传统语体并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "客观唯心主义",
      "en": "objective idealism",
      "source": "马克思主义"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "客观唯心主义",
+     "en": "objective idealism",
+     "source": "审定形（教材传统语体）；德国观念论研究“客观观念论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -84231,9 +84260,9 @@
    "table": "术语",
    "line": 3898,
    "term": "one-time pad",
-   "trans": "一次性密码本",
-   "basis": "密码学通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "一次性密码本（亦作“一次一密”）",
+   "basis": "密码学通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -84246,10 +84275,17 @@
      "cn": "一次一密随机数本",
      "en": "one-time pad",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "一次一密",
+     "en": "one-time pad",
+     "source": "审定形；密码学通行“一次性密码本”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -85117,19 +85153,26 @@
    "table": "术语",
    "line": 3940,
    "term": "ordered pair",
-   "trans": "有序对",
-   "basis": "集合论通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "有序对（亦作“序偶”）",
+   "basis": "集合论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "序偶",
      "en": "ordered pair",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "序偶",
+     "en": "ordered pair",
+     "source": "审定形；集合论通行“有序对”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {

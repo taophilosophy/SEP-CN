@@ -3637,7 +3637,7 @@
 | national self-determination | — | 民族自决 | s/sovereignty 首译 | 学界通行译名（国际法通行）；凭证 2026-11-07 | 2026-11-07 |
 | national-popular | — | 民族—人民的 | gramsci | 葛兰西术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | nationalism | — | 民族主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
-| nativism | — | 先天论 | moral-learning | 学界通行（与经验论相对）；凭证 2026-11-09 | 2026-11-09 |
+| nativism | — | 先天论（亦作“天赋论”） | moral-learning | 学界通行（与经验论相对）；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | natura naturans | — | 能生的自然 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | natural astrology | — | 自然占星术 | gersonides | 科学史通行（天体影响月下世界之说） | 2026-11-09 |
 | natural deduction | — | 自然演绎 | quine-nf；语料回收 | 学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -3645,14 +3645,14 @@
 | natural evil | — | 自然之恶 | evil-kinds-origins | 本词条译名 | 2026-11-12 |
 | natural history | — | 自然史 | locke-on-medicine | 科学史/博物学通行 | 2026-11-05 |
 | natural instinct | — | 自然本能 | gomez-pereira | 本词条译名；凭证 2026-11-12 | 2026-11-12 |
-| natural kind | — | 自然种类 | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| natural kind | — | 自然种类（亦作“自然类”） | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | natural knowledge | — | 自然知识 | petitionary-prayer | 莫利纳三知识说通行译法（scientia naturalis）；凭证 2026-11-09 | 2026-11-09 |
 | natural language | — | 自然语言 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | natural law | — | 自然法 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | natural law ethics | — | 自然法伦理学 | 首译（saadya） | 伦理学通行（与“神命论”对举）；凭证 2026-11-09 | 2026-11-09 |
 | natural law internalism | — | 自然法内在主义 | hegel-social-political | 学界通行（Brooks 术语） | 2026-11-10 |
 | natural light | — | 自然之光（心灵的） | 18thGerman-preKant | 学界通行汉译（近代哲学惯例） | 2026-11-05 |
-| natural magic | — | 自然魔法 | natphil-ren | 科学史通行；凭证 2026-11-10 | 2026-11-10 |
+| natural magic | — | 自然魔法（亦作“自然巫术”） | natphil-ren | 科学史通行；凭证 2026-11-10；2026-11-15 补亦作（审定形，文艺复兴 magia naturalis 语境） | 2026-11-15 |
 | natural number / natural numbers | — | 自然数 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；2026-11-13 重复行合并（旧键 `natural numbers`） | 2026-11-13 |
 | natural philosophy | — | 自然哲学 | marsilius-padua | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | natural place | — | 自然位置 | natphil-ren | 亚里士多德物理学通行；凭证 2026-11-10 | 2026-11-10 |
@@ -3705,7 +3705,7 @@
 | neurodynamics | — | 神经动力学 | f/frame-problem 首译 | 构词直译（Freeman 神经科学）；凭证 2026-11-10 | 2026-11-10 |
 | neuroticism | — | 神经质 | justice-moral-psych | 大五特质通行汉译（neuroticism）；凭证 2026-11-10 | 2026-11-10 |
 | neutral monism | — | 中立一元论 | langer 首译 | 学界通行（谢弗语境）；凭证 2026-11-08 | 2026-11-08 |
-| neutral theory of molecular evolution | — | （分子进化）中性理论 | ecological-genetics 首译 | 木村资生理论之通行译名；凭证 2026-11-09 | 2026-11-09 |
+| neutral theory of molecular evolution | — | （分子进化）中性理论（亦作“分子进化中性学说”） | ecological-genetics 首译 | 木村资生理论之通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
 | new mechanists | — | 新机械论者 | cancer | 学界通行（科学哲学，new mechanists）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | newly sighted | — | 新近复明者 | 语料回收（molyneux-problem 首译） | 本词条首译裁定（复明=视力恢复，与 congenitally blind 先天性盲对举）；凭证 2026-11-06 | 2026-11-06 |
 | Newspeak | — | 新话 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -3843,7 +3843,7 @@
 | objective chance | — | 客观机遇 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；chance 作机遇义）；凭证 2026-11-08 | 2026-11-08 |
 | objective having | — | 客观拥有 | dilthey 首译 | 狄尔泰 1904–9 手稿术语（objektives Haben）；凭证 2026-11-10 | 2026-11-10 |
 | objective homogeneity | — | 客观齐一性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
-| objective idealism | — | 客观观念论 | dilthey 首译 | 狄尔泰世界观类型学三分之一（赫拉克利特、莱布尼茨、黑格尔）；学界通行；凭证 2026-11-11 | 2026-11-11 |
+| objective idealism | — | 客观观念论（亦作“客观唯心主义”） | dilthey 首译 | 狄尔泰世界观类型学三分之一（赫拉克利特、莱布尼茨、黑格尔）；学界通行；凭证 2026-11-11；2026-11-15 补亦作（审定形，教材传统语体并行） | 2026-11-15 |
 | objective probability | — | 客观概率 | qm | 学界惯例（与认知概率相对）；凭证 2026-11-11 | 2026-11-11 |
 | objective spirit | — | 客观精神 | oakeshott 首译 | 学界通行汉译（黑格尔研究）；凭证 2026-11-07 | 2026-11-07 |
 | objective validity | — | 客观有效性 | kant-transcendental | 康德研究通行（objektive Gültigkeit）；凭证 2026-11-10 | 2026-11-10 |
@@ -3895,7 +3895,7 @@
 | oncogene | — | 癌基因 | cancer | 学界通行（癌症分子生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | One Mind（yixin/ilsim） | 一心 | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
 | one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad） | — | 体一而反体异 | epistemology-language-tibetan | 藏传量论通行（体一/反体异） | 2026-11-04 |
-| one-time pad | — | 一次性密码本 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| one-time pad | — | 一次性密码本（亦作“一次一密”） | qt-entangle | 密码学通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | one-to-one correspondence | — | 一一对应 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
 | one-way speed of light | — | 单向光速 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | onomatoid | — | 似名称（正文保留 onomatoid，首现括注） | lvov-warsaw；reism | 构词直译（onoma+oid）；学界无定译，保留原词；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -3937,7 +3937,7 @@
 | Or Hashem | אור השם | 《上主之光》 | crescas | 学界通行（克雷斯卡斯代表作）；凭证 2026-11-08 | 2026-11-08 |
 | oracle | — | 预言机 | qt-entangle | 学界通行译名（计算复杂性理论）；凭证 2026-11-09 | 2026-11-09 |
 | Oral Law | — | 口传律法 | albo-joseph 首译 | 犹太研究通行（与成文《托拉》相对） | 2026-11-07 |
-| ordered pair | — | 有序对 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
+| ordered pair | — | 有序对（亦作“序偶”） | quine-nf | 集合论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | ordinal | — | 序数 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | ordinal analysis | — | 序数分析 | hilbert-program 首译 | 证明论通行（Gentzen 传统）；凭证 2026-11-11 | 2026-11-11 |
 | ordinal sum | — | 序和 | logic-fuzzy | t-范数理论通行译法；凭证 2026-11-09 | 2026-11-09 |

@@ -1,6 +1,6 @@
 # 弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish、Pierfrancesco Basile)
 
-**首次发表于 1996 年 5 月 9 日；2021 年 2 月 23 日实质修订。**
+> *首次发表于 1996 年 5 月 9 日；2021 年 2 月 23 日实质修订。*
 
 [![布拉德雷肖像](../assets/bradley/bradley.gif)](../assets/bradley/bradley-large.gif) (*经 T.J. 温尼弗里思博士惠允复制*)
 

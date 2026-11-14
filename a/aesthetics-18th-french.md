@@ -1,6 +1,6 @@
 # 18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien、Jacques Morizot)
 
-**首次发表于 2004 年 2 月 29 日；2023 年 11 月 13 日实质修订。**
+> *首次发表于 2004 年 2 月 29 日；2023 年 11 月 13 日实质修订。*
 
 *詹妮弗·齐恩（Jennifer Tsien）；雅克·莫里佐（Jacques Morizot）*
 

@@ -1,6 +1,6 @@
 # 经济民主 Economic Democracy (Lisa Herzog)
 
-**首次发表于 2026 年 5 月 14 日。**
+> *首次发表于 2026 年 5 月 14 日。*
 
 “经济民主”（economic democracy）描述的是这样一种理念：民主原则不仅应当适用于政治领域，也应当适用于经济领域（如 Cohen 1989; Cumbers 2020; Dahl 1985; Ellerman 1992; 2009; 2021; Kelly 2019; Malleson 2014; O’Neill 2008; Schweickart 2011）[^cohen-1989][^cumbers-2020][^dahl-1985][^ellerman-1992][^kelly-2019][^malleson-2014][^o’neill-2008][^schweickart-2011]。它超越了“民主优先”（Berman 2006）[^berman-2006]的观念——后者主张民主政治应当为经济制定规则。经济民主的目标，是把民主原则、尤其是社会全体成员平等的道德地位，也嵌入经济制度的内部，尤其是职场。就此而言，它可以被理解为一种更宽泛的民主理解的一部分——那种把民主视为一种“生活方式”的理解（Dewey 1939 [1988]; Frega 2020）[^dewey-1939][^frega-2020]。
 
