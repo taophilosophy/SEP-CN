@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T19:16:55Z",
+  "updated_at": "2026-11-14T19:37:47Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -361,6 +361,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：照录区十八处拼写/标点与人名勘误、Matthen 题名、vignemont forthcoming→2021（ADR-0038 ①②）；书目体例勘误：多行 li 并行、句末句点、期刊名 Communications、引号（他会/网页直改批，提交 9a7a30b69）",
       "registered_at": "2026-11-14T19:16:55Z"
+    },
+    {
+      "slug": "academic-freedom",
+      "path": "en/academic-freedom/index.html",
+      "upstream_sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
+      "local_sha256": "6255c2996f187f0573826cf1c352580cb5572b9824ea3a17533219be5f05bd9f",
+      "bytes": {
+        "upstream": 137134,
+        "local": 137134
+      },
+      "commit": "1d927d559dd7ee0f3f71928897e4ce68b28d2166",
+      "subject": "023 首条审校：academic-freedom 双轴逐行走查（en 勘误 3 处三层落位、镜像零缺陷、译文轴零缺陷），台账起记",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "test",
+      "registered_at": "2026-11-14T19:37:47Z"
     }
   ]
 }
