@@ -1,0 +1,75 @@
+{
+ "key": "le clerc, jean / jean le clerc",
+ "term": "Le Clerc, Jean",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:53:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=9",
+ "hits": [
+  {
+   "cn": "LE值",
+   "en": "LE designation",
+   "code": "GB/T 15737—2014",
+   "standard": "缩微摄影技术  银—明胶型缩微品的冲洗与保存",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "预期寿命值",
+   "en": "life expectancy designation",
+   "code": "GB/T 6159.4—2014",
+   "standard": "缩微摄影技术 词汇第4部分:材料和包装物",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "测定长度",
+   "en": "evaluationlength Le",
+   "code": "GB/T 32643—2016",
+   "standard": "平板显示器基板玻璃表面波纹度的测量方法",
+   "subject": null
+  },
+  {
+   "cn": "预期寿命",
+   "en": "lifeexpectance；LE",
+   "code": "GB/T 15737—2014",
+   "standard": "缩微摄影技术  银—明胶型缩微品的冲洗与保存",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "线性度偏差",
+   "en": "linearity error",
+   "code": "GB/T 41310—2022",
+   "standard": "视觉模组光电性能的图像式检测方法",
+   "subject": "电子学"
+  },
+  {
+   "cn": "出口压力",
+   "en": "out le pressure",
+   "code": "GB/T 15135—2018",
+   "standard": "燃气轮机 词汇 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "有效期",
+   "en": "life expectancy",
+   "code": "GB/T 33152—2016",
+   "standard": "影像材料  湿法加工银胶型黑白照相反射胶片  暗室储存规范",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "勒夏特列原理",
+   "en": "Le Chatelier's theorem",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "叶实体",
+   "en": "LE(leaf entity)",
+   "code": "GB/T 26241.1—2010",
+   "standard": "信息技术  增强型通信运输协议  第1部分：单工组播运输规范",
+   "subject": "电信、音频和视频工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2018\": 1, \"2016\": 2, \"2014\": 3, \"2013\": 1, \"2011\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 1, \"电子学\": 1, \"电信、音频和视频工程\": 1, \"成像技术\": 3, \"冶金\": 1}, \"typeStats\": {\"7\": 9}, \"totalRecords\": 9, \"tmWordList\": [{\"id\": \"abbccd916e7545c180d22964d72531e5\", \"databaseId\": null, \"standardId\": \"b6c5092febb3475ca59b511afeff1dd2\", \"standardCode\": \"GB/T 15737—2014\", \"standardName\": \"缩微摄影技术  银—明胶型缩微品的冲洗与保存\", \"standardEnName\": \"Micrographics―Processing and storage of silver—gelatin type microforms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.4\", \"cnName\": \"LE值\", \"enName\": \"LE designation\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2014-11-01\", \"ics\": \"37.08037\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186619, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"LE值\", \"cnNameSearch\": \"LE值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"LE designation\", \"wordSearch\": \"LE designation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"记录材料及相关检索系统的“预期寿命”的标称值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"LE后面的数值是以年数来表示的最小预期寿命，在21C和50%RH的条件下存储时，信息能够在该期间内\\n无明显损失地被检索，例如LE-100表示信息在经过至少100年的存储后仍能够被检索。\", \"改写GB/T6159.4—2003，定义3.12。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a89920d609c04a7fb2d2828cc78afbd7\", \"databaseId\": null, \"standardId\": \"1fb63973b410453fafa20f9da435ae89\", \"standardCode\": \"GB/T 6159.4—2014\", \"standardName\": \"缩微摄影技术 词汇第4部分:材料和包装物\", \"standardEnName\": \"Micrographics—Vocabulary—Part4: Materials and packaging\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.13\", \"cnName\": \"预期寿命值\", \"enName\": \"life expectancy designation\", \"publishTime\": \"2014-09-30\", \"publishYear\": \"2014\", \"implementTime\": \"2015-04-15\", \"ics\": \"01.040.37;37.08001\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30065, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"预期寿命值\", \"cnNameSearch\": \"预期寿命值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"life expectancy designation\", \"wordSearch\": \"life expectancy designation\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"LE 值\", \"cnNameSearch\": \"LE 值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"LE designation(abbrev)\", \"wordSearch\": \"LE designation(abbrev)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"缩微胶片所记录信息预期寿命的标称值，以年数表示。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>LE-100表示存储信息在经过至少100年后，仍可被读出而无明显损失。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ffac757533c4c78987ca40e55686095\", \"databaseId\": null, \"standardId\": \"eb9dfa9a0f8442e09532c15ab26e1fb0\", \"standardCode\": \"GB/T 32643—2016\", \"standardName\": \"平板显示器基板玻璃表面波纹度的测量方法\", \"standardEnName\": \"Flat panel displays glass substrates surface waviness measurement method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"3.4\", \"cnName\": \"测定长度\", \"enName\": \"evaluationlength Le\", \"publishTime\": \"2016-04-25\", \"publishYear\": \"2016\", \"implementTime\": \"2016-11-01\", \"ics\": \"ICS 31-030\", \"ccs\": \"L90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230499, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测定长度\", \"cnNameSearch\": \"测定长度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"evaluationlength Le\", \"wordSearch\": \"evaluationlength Le\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种扣除预行程和后行程后的迹线长度。测量样品的长度应包含波纹度的剖面曲线长度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"edcc076225c4461e9bccc793cb160f11\", \"databaseId\": null, \"standardId\": \"b6c5092febb3475ca59b511afeff1dd2\", \"standardCode\": \"GB/T 15737—2014\", \"standardName\": \"缩微摄影技术  银—明胶型缩微品的冲洗与保存\", \"standardEnName\": \"Micrographics―Processing and storage of silver—gelatin type microforms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.5\", \"cnName\": \"预期寿命\", \"enName\": \"lifeexpectance；LE\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2014-11-01\", \"ics\": \"37.08037\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186621, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"预期寿命\", \"cnNameSearch\": \"预期寿命\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lifeexpectance；LE\", \"wordSearch\": \"lifeexpectance；LE\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"预期经温度为21℃、相对湿度为50%的暗保存后，缩微品信息能够达到满意的时间长度。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"改写GB/T6159.4—2003，定义3.13。\", \"过去，“档案级”（archival)曾用来定义能够预期永远保存影像的材料，因而这样的影像只要存储得当，就能够\\n检索出来，而没有明显的损失。然而，由于这样的材料并不存在，所以该术语现在遭到了反对，并在有关成像\\n材料的国际标准或系统规范中不再使用。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6c414973d0c54c1da6efff299fbfb994\", \"databaseId\": null, \"standardId\": \"feb9efc934db4a98877b1aef04e7230a\", \"standardCode\": \"GB/T 41310—2022\", \"standardName\": \"视觉模组光电性能的图像式检测方法\", \"standardEnName\": \"Image-based test method for vision module photoelectric performance\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2\", \"cnName\": \"线性度偏差\", \"enName\": \"linearity error\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2023-01-01\", \"ics\": \"31.260 \", \"ccs\": \"L 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 246940, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"线性度偏差\", \"cnNameSearch\": \"线性度偏差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"linearity error\", \"wordSearch\": \"linearity error\"}, {\"languageType\": 1, \"word\": \"LE\", \"wordSearch\": \"LE\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在均匀光照条件下，当辐射量变化时，图像传感器输出信号和理想信号（直线）间的偏差。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c1ffe53e6fa542d8918fcb03b0f0cd02\", \"databaseId\": null, \"standardId\": \"863476b89c684a14b75378aca420a10e\", \"standardCode\": \"GB/T 15135—2018\", \"standardName\": \"燃气轮机 词汇 \", \"standardEnName\": \"Gas turbines— Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"10.5\", \"cnName\": \"出口压力\", \"enName\": \"out le pressure\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"ICS 27.040\", \"ccs\": \"K 56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 142191, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"出口压力\", \"cnNameSearch\": \"出口压力\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"out le pressure\", \"wordSearch\": \"out le pressure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在透平出口法兰处静止平面的工质质量流量加权平均总压。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"57e0a44775d94f0dae784625360178a0\", \"databaseId\": null, \"standardId\": \"e1a2448730f8407e8726531354d598d5\", \"standardCode\": \"GB/T 33152—2016\", \"standardName\": \"影像材料  湿法加工银胶型黑白照相反射胶片  暗室储存规范\", \"standardEnName\": \"Imaging materials—Wet-processed silver-gelatin type black-and-white photographic reflection prints—Specifications for dark storage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.3\", \"cnName\": \"有效期\", \"enName\": \"life expectancy\", \"publishTime\": \"2016-10-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-05-01\", \"ics\": \"37.040.20\", \"ccs\": \"G80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221004, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"有效期\", \"cnNameSearch\": \"有效期\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"life expectancy\", \"wordSearch\": \"life expectancy\"}, {\"languageType\": 1, \"word\": \"LE\", \"wordSearch\": \"LE\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"记录材料和相关检索系统有效期的期限。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>LE符号后面的数字是有效期的最低限度以年计，当影像信息在规定的标准贮存条件下可检索且无显著损失。例如，LE-100表示至少100年后可检索信息。</p>\", \"<p>黑白相纸的真正有效期取决于实际贮存条件。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"82ac71da1e00441386eaf02425dd4916\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.142\", \"cnName\": \"勒夏特列原理\", \"enName\": \"Le Chatelier's theorem\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"勒夏特列原理\", \"cnNameSearch\": \"勒夏特列原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Le Chatelier's theorem\", \"wordSearch\": \"Le Chatelier's theorem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"当一应力作用到平衡系统时，其反作用有减轻该应力的倾向。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f8fdd0d3113421081967ef8e364f51c\", \"databaseId\": null, \"standardId\": \"4d699b8a2b144d0ba88148e92589ea19\", \"standardCode\": \"GB/T 26241.1—2010\", \"standardName\": \"信息技术  增强型通信运输协议  第1部分：单工组播运输规范\", \"standardEnName\": \"Information technology - Enhenced communication transport protocol -  Part 1: Specification of simplex multicast transport\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.3.8\", \"cnName\": \"叶实体\", \"enName\": \"LE(leaf entity)\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-05-01\", \"ics\": \"33.040.40\", \"ccs\": \"L78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 80552, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"叶实体\", \"cnNameSearch\": \"叶实体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"LE(leaf entity)\", \"wordSearch\": \"LE(leaf entity)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"未被指定为 LO 的接收者。LE 不能有任何子结点。它在树上是一个叶结点。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678810372}"
+}
