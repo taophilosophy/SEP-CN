@@ -1,0 +1,19 @@
+{
+ "key": "taylor, jacqueline",
+ "term": "Taylor, Jacqueline",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:45:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "五辊轧机",
+   "en": "five-high mill",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1}, \"sourceStats\": {\"冶金\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"2b05365b3e2f4cf1839a0214762f81a1\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"5.1.4\", \"cnName\": \"五辊轧机\", \"enName\": \"five-high mill\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51646, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"五辊轧机\", \"cnNameSearch\": \"五辊轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"five-high mill\", \"wordSearch\": \"five-high mill\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"泰勒轧机\", \"cnNameSearch\": \"泰勒轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Taylor</em> mill\", \"wordSearch\": \"<em>Taylor</em> mill\"}, {\"languageType\": 1, \"word\": \"<em>Taylor</em> rolling mill\", \"wordSearch\": \"<em>Taylor</em> rolling mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"具有三个相互平行的工作辊：上辊、中间辊和下辊，上辊和下辊各由一个支撑辊支承的工作机座，用于精轧不锈钢和有色金属带材。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671099330}"
+}
