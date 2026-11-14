@@ -90,7 +90,7 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
             and has_active_divergence(slug):
         return {"slug": slug,
                 "error": "上游已变且该词条存在未搬运分歧（baseline/divergences.json）："
-                         "先 compare.py 差异裁定并搬运勘误层（divergence.py patch），再重抓"}
+                         "先 compare.py 差异裁定，divergence.py carry <path> --new <快照> 随迁，再重抓"}
     if force or not os.path.exists(idx_path) or old_main_sha != new_main_sha:
         with open(idx_path, "wb") as f:
             f.write(data)

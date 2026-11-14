@@ -4043,7 +4043,7 @@
 | parochialism | — | 偏狭主义 | moral-learning | 学界通行（群内偏好；本词条 3.3 专节）；凭证 2026-11-09 | 2026-11-09 |
 | pars principans | pars principans | 统治部分（政府） | marsilius-padua | 学界通行（马西利乌斯拉丁术语，与 legislator 立法者相对）；凭证 2026-11-08 | 2026-11-08 |
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| part-whole relation | — | 部分—整体关系 | logic-massexpress | 分体论通行译法；凭证 2026-11-10 | 2026-11-09 |
+| part-whole relation | — | 部分—整体关系（亦作“整体—部分关系”） | logic-massexpress | 分体论通行译法；凭证 2026-11-10；2026-11-15 补亦作（审定形，语序两形并行，连接号从 ADR-0041 一字线） | 2026-11-15 |
 | partial coherentism | — | 局部融贯论 | 首现（truth-coherence） | 学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07 | 2026-11-07 |
 | partial correctness | — | 部分正确性 | logic-dynamic | 程序验证通行译法；凭证 2026-11-10 | 2026-11-09 |
 | partial definition | — | 部分定义 | schema | 学界惯例（塔尔斯基真理论研究通行） | 2026-11-06 |
@@ -4097,7 +4097,7 @@
 | perfect being theology | — | 完满存在神学 | omniscience | 学界通行译名（perfect being theology）；凭证 2026-11-09 | 2026-11-09 |
 | perfect cosmological principle | — | 完美宇宙学原理 | cosmology-30s 首译 | Bondi 术语（与 cosmological principle 宇宙学原理配对；稳恒态理论基础）；凭证 2026-11-09 | 2026-11-09 |
 | perfect goodness | — | 完美善 | omniscience | 学界通行译名（与 omnipotence/omniscience 并列为三大神圣属性）；凭证 2026-11-09 | 2026-11-09 |
-| perfect number | — | 完全数 | peirce-benjamin | 数论通行译名；凭证 2026-11-09 | 2026-11-09 |
+| perfect number | — | 完全数（亦作“完满数”） | peirce-benjamin | 数论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | perfection (perfectio) | — | 完满性 | descartes-ontological | 学界通行（笛卡尔—经院术语 perfectio；本体论论证语境）；与 perfection (Vollkommenheit) 完善 分义（2026-11-09 反向校区分键） | 2026-11-06 |
 | perfection (Vollkommenheit) | — | 完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接） | 18thGerman-preKant | 学界通行汉译（康德译本通行“完善”）；与 perfection (perfectio) 完满性 分义：彼为笛卡尔—经院 perfectio，此为沃尔夫—鲍姆嘉通 Vollkommenheit（2026-11-09 反向校区分键）；凭证 2026-11-05 | 2026-11-05 |
 | perfectionism | — | 至善论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -4170,7 +4170,7 @@
 | philosophy of right | — | 法哲学 | 首现（schlegel） | 学界惯例（黑格尔研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Philosophy of Sport | — | 体育哲学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Philosophy of Statistical Mechanics | — | 统计力学哲学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
-| Philosophy of Statistics | — | 统计学哲学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Philosophy of Statistics | — | 统计学哲学（亦作“统计哲学”） | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定短形） | 2026-11-15 |
 | Philosophy of Technology | — | 技术哲学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | philosophy of the will | — | 意志哲学 | ricoeur | 学界惯例（利科早期三部曲计划）；凭证 2026-11-11 | 2026-11-11 |
 | phlogiston | — | 燃素 | kant-science | 化学史通行 | 2026-11-05 |
@@ -4278,7 +4278,7 @@
 | post-colonial theory | — | 后殖民理论 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
 | post-critical period | — | 后批判时期 | kant-development | 康德研究通行分期；凭证 2026-11-11 | 2026-11-11 |
 | post-knowledge cognition（bcad shes） | བཅད་ཤེས་ | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行；原文列联网查证：Monlam 藏英词典 bcad shes 条（“subsequent cognizer”，含 mngon su（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv） | 2026-11-14 |
-| Post-Newtonian | — | 后牛顿 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| Post-Newtonian | — | 后牛顿（亦作“后牛顿近似”） | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定复合形） | 2026-11-15 |
 | Posterior Analytics | — | 《后分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | postgenomic | — | 后基因组的 | genetics | 基因组学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | posthumous interests | — | 身后利益 | organ-donation | 学界惯例（法学亦作“死后利益”，哲学语境用“身后利益”；凭证 2026-11-06） | 2026-11-06 |
@@ -4345,10 +4345,10 @@
 | pre-humanist | — | 前人文主义 | marsilius-padua | 学界通行（帕多瓦前人文主义运动）；凭证 2026-11-08 | 2026-11-08 |
 | pre-order | — | 预序 | belief-merging | 数学通行（序理论）；凭证 2026-11-10 | 2026-11-10 |
 | precancerous lesion | — | 癌前病变 | cancer | 学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| precautionary principle | — | 预防原则 | risk | 学界惯例（环境法与风险治理通行；亦作“预警原则”）；凭证 2026-11-09 | 2026-11-09 |
+| precautionary principle | — | 预防原则（亦作“预警原则”“谨慎原则”） | risk | 学界惯例（环境法与风险治理通行）；凭证 2026-11-09；2026-11-15 亦作移入译法列并补审定形 | 2026-11-15 |
 | preceding necessity / subsequent necessity | — | 在先必然性／在后必然性 | peter-damian | 安瑟伦《上帝何以成人》II.17 术语通行译法（necessitas praecedens/sequens）；凭证 2026-11-09 | 2026-11-09 |
 | precession | — | 进动 | newton-principia | 物理学通行（与岁差 precession of the equinoxes 分列）；凭证 2026-11-11 | 2026-11-11 |
-| precession of the equinoxes | — | 岁差 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
+| precession of the equinoxes | — | 岁差（亦作“分点岁差”） | newton | 天文学通行；凭证 2026-11-08；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
 | precisification | — | 精确化 | dynamic-semantics | 模糊语义学通行（vague predicates 文献）；凭证 2026-11-12 | 2026-11-12 |
 | precision language | — | 精确语言 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
 | precision medicine | — | 精准医学 | cancer；genetics | 学界通行（医学政策与生命伦理学）；医学通行译名（主会话直译 g/genetics）；凭证 2026-11-09、2026-11-11；2026-11-11 合并同键变体（来源列并双 slug） | 2026-11-11 |
@@ -4410,7 +4410,7 @@
 | principle of identity of indiscernibles | — | 不可分辨者同一律 | rationalism-early-modern | 学界通行（莱布尼茨 PII；亦作“不可分辨者的同一性原理”） | 2026-11-06 |
 | principle of incombinability | — | 不可组合原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | principle of indifference | — | 无差别原则 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
-| principle of individuation | principium individuationis | 个体化原理 | 首现（simon-faversham） | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| principle of individuation | principium individuationis | 个体化原理（亦作“个体化原则”） | 首现（simon-faversham） | 学界通行；凭证 2026-11-08；2026-11-15 补亦作（审定形，原理/原则两形并行） | 2026-11-15 |
 | principle of inseparability | — | 不可分离原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | principle of least action | — | 最小作用量原理 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
 | principle of non-contradiction | — | 不矛盾律 | reinach | 学界惯例（逻辑学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -4507,7 +4507,7 @@
 | prosocial behavior | — | 亲社会行为 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | prospect | — | 前景 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
 | prospect emotion | — | 预期情绪 | paradox-suspense | 构词直译（Ortony/Clore/Collins 的情绪分类：prospect emotions）；凭证 2026-11-09 | 2026-11-09 |
-| prospect theory | — | 前景理论 | risk | 学界惯例（Kahneman & Tversky；亦作“展望理论”）；凭证 2026-11-09 | 2026-11-09 |
+| prospect theory | — | 前景理论（亦作“展望理论”） | risk | 学界惯例（Kahneman & Tversky）；凭证 2026-11-09；2026-11-15 亦作自依据列移入译法列（审定同形） | 2026-11-15 |
 | prospective intention | — | 面向未来的意图 | intention | 学界通行（与 intention in action 对举）；凭证 2026-11-12 | 2026-11-12 |
 | protectionism | — | 贸易保护主义 | cosmopolitanism | 学界通行（国际贸易政治经济学）；与美学域 aesthetic protectionism 区分；凭证 2026-11-09 | 2026-11-09 |
 | protective agency | — | 保护性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4544,7 +4544,7 @@
 | public bad | — | 公共恶 | oakeshott 首译 | 学界惯例（与 public good 公共善对举）；凭证 2026-11-07 | 2026-11-07 |
 | public goods game | — | 公共物品博弈 | justice-moral-psych | 实验经济学通行汉译（public goods 公共物品）；凭证 2026-11-10 | 2026-11-10 |
 | Public Justification | — | 公共证成 | 语料回收（标题词） | 学界惯例（政治哲学（罗尔斯谱系）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| public key cryptography | — | 公钥密码学 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| public key cryptography | — | 公钥密码学（亦作“公钥密码”） | qt-entangle | 密码学通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定短形） | 2026-11-15 |
 | public philosophy | — | 公共哲学 | 首译（stebbing） | 学界通行（面向公众的哲学写作与实践）；凭证 2026-11-09 | 2026-11-09 |
 | public power | — | 公共权力 | global-democracy 首译 | 学界通行（国际权威研究） | 2026-11-12 |
 | public reflective equilibrium | — | 公共反思平衡 | reflective-equilibrium | 学界惯例（Baderin 2017 术语）；凭证 2026-11-11 | 2026-11-11 |

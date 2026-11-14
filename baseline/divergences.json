@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T19:16:29Z",
+  "updated_at": "2026-11-14T19:16:55Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -50,27 +50,17 @@
     {
       "slug": "blame",
       "path": "en/blame/index.html",
-      "upstream_sha256": "04d354c835461b41e685945a3a44a39ef864170b23fb16fea0fa46c430abd328",
-      "local_sha256": "9160ad391ed1222d50eef41b7dec429d28ab382839473e9577a9067e2bf275ba",
+      "upstream_sha256": "72948a8185228a62021105140876e3cf5dafdaa1f8e6235e21e04d353a082844",
+      "local_sha256": "b64a08ec21f3fb0ce570159a4e19497a9b348bd952f3907c665ca09914f97e67",
       "bytes": {
-        "upstream": 105355,
-        "local": 105345
+        "upstream": 105364,
+        "local": 105354
       },
       "commit": "361cdc4541297fb43f13957e6d8926666a75b3e0",
       "subject": "015 偿还 blame：列表标记、致谢层级、书目标点与斜体",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：列表标记、致谢层级、书目标点与斜体",
-      "registered_at": "2026-11-14T18:10:03Z",
-      "base_snapshot": "specs/001-sep-sync-pipeline/results/upstream-snapshots/blame-20261114T190226Z.html",
-      "history": [
-        {
-          "event": "carry",
-          "at": "2026-11-14T19:02:26Z",
-          "from_upstream_sha256": "72948a8185228a62021105140876e3cf5dafdaa1f8e6235e21e04d353a082844",
-          "to_upstream_sha256": "04d354c835461b41e685945a3a44a39ef864170b23fb16fea0fa46c430abd328",
-          "conflicts": 0,
-          "merged": "auto"
-        }
-      ]
+      "registered_at": "2026-11-14T18:10:03Z"
     },
     {
       "slug": "bohr-correspondence",
@@ -369,8 +359,8 @@
       "commit": "555699caa",
       "subject": "015 偿还 bodily-awareness：漏字反义、照录区十八处讹误与键标（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
-      "reason": "015 偿还：照录区十八处拼写/标点与人名勘误、Matthen 题名、vignemont forthcoming→2021（ADR-0038 ①②）",
-      "registered_at": "2026-11-14T19:16:29Z"
+      "reason": "015 偿还：照录区十八处拼写/标点与人名勘误、Matthen 题名、vignemont forthcoming→2021（ADR-0038 ①②）；书目体例勘误：多行 li 并行、句末句点、期刊名 Communications、引号（他会/网页直改批，提交 9a7a30b69）",
+      "registered_at": "2026-11-14T19:16:55Z"
     }
   ]
 }
