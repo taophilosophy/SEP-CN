@@ -168,29 +168,29 @@ Ficino, Marsilio | Pico della Mirandola, Giovanni | Sextus Empiricus | skepticis
 
 [^pico-1601]: Pico, Gianfrancesco, *Opera omnia*, Basel: Henricus Petri, 1601
 
-[^pico-1930]: 1930, *On the Imagination: The Latin Text with an Introduction, an English Translation, and Notes*, Harry Caplan (ed./trans.). New Haven, CT: Yale University Press. [[On the Imagination available online](https://archive.org/details/gianfrancescopic0000harr)]
+[^works-1930]: 1930, *On the Imagination: The Latin Text with an Introduction, an English Translation, and Notes*, Harry Caplan (ed./trans.). New Haven, CT: Yale University Press. [[On the Imagination available online](https://archive.org/details/gianfrancescopic0000harr)]
 
-[^pico-1943]: 1943, *Operecta dello m. S. Johanfrancesco Pico della Mirandola in defensione della opera di Piero Bernardo da Firenze Servo di Jesu Cristo*, Paolo Cherubelli (ed.), Florence: Rinaldi
+[^works-1943]: 1943, *Operecta dello m. S. Johanfrancesco Pico della Mirandola in defensione della opera di Piero Bernardo da Firenze Servo di Jesu Cristo*, Paolo Cherubelli (ed.), Florence: Rinaldi
 
-[^pico-1954]: 1954, *Le epistole De imitatione*, Giorgio Santangelo (ed.), Florence: Olschki
+[^works-1954]: 1954, *Le epistole De imitatione*, Giorgio Santangelo (ed.), Florence: Olschki
 
-[^pico-1984]: 1984, *Über die Vorstellung. De imaginatione*, Charles B. Schmitt, Katharine Park and Eckhard Kessler (eds.), Munich: Wilhelm Fink
+[^works-1984]: 1984, *Über die Vorstellung. De imaginatione*, Charles B. Schmitt, Katharine Park and Eckhard Kessler (eds.), Munich: Wilhelm Fink
 
-[^pico-1994]: 1994, *Ioannis Pici Mirandulae viri omni disciplinarum genere consumatissimi vita per Ioannem Franciscum illustris principis Galeotti Pici filium conscripta*, Bruno Andreolli (ed.), Modena: Aedes Muratoriana
+[^works-1994]: 1994, *Ioannis Pici Mirandulae viri omni disciplinarum genere consumatissimi vita per Ioannem Franciscum illustris principis Galeotti Pici filium conscripta*, Bruno Andreolli (ed.), Modena: Aedes Muratoriana
 
-[^pico-1999]: 1999, *Vita Hieronymi Savonarolae*, Elisabetta Schisto (ed.), Florence: Olschki
+[^works-1999]: 1999, *Vita Hieronymi Savonarolae*, Elisabetta Schisto (ed.), Florence: Olschki
 
-[^pico-2005]: 2005, *De imaginatione. De l’imagination*, Christophe Bouriau, and Pierre-François Moreau (eds.), Chambery: Editions Comp’act
+[^works-2005]: 2005, *De imaginatione. De l’imagination*, Christophe Bouriau, and Pierre-François Moreau (eds.), Chambery: Editions Comp’act
 
-[^pico-2010]: 2010, *Compendio delle cose mirabili di Caterina da Racconigi*, Linda Pagnotta (ed.), Florence: Olschki
+[^works-2010]: 2010, *Compendio delle cose mirabili di Caterina da Racconigi*, Linda Pagnotta (ed.), Florence: Olschki
 
-[^pico-2012]: 2012, *La strega, ovvero degli inganni dei demoni*, Ida Li Vigni (ed.), Milan-Udine: Mimesis
+[^works-2012]: 2012, *La strega, ovvero degli inganni dei demoni*, Ida Li Vigni (ed.), Milan-Udine: Mimesis
 
-[^pico-2017]: 2017, *Dialogus de adoratione*, Alessia Contarino (ed.), Florence: Olschki
+[^works-2017]: 2017, *Dialogus de adoratione*, Alessia Contarino (ed.), Florence: Olschki
 
-[^pico-2017-2]: 2017, *Strix, sive de ludificatione daemonum*, in Lucia Pappalardo, *La* Strega (Strix) *di Gianfrancesco Pico*, Naples: Città Nuova
+[^works-2017-2]: 2017, *Strix, sive de ludificatione daemonum*, in Lucia Pappalardo, *La* Strega (Strix) *di Gianfrancesco Pico*, Naples: Città Nuova
 
-[^pico-2022]: 2022, *L’immaginazione*, Francesco Molinarolo (ed.), Pisa: Edizioni della Normale
+[^works-2022]: 2022, *L’immaginazione*, Francesco Molinarolo (ed.), Pisa: Edizioni della Normale
 
 [^pico-2018]: Pico, Giovanni, 2018, *Lettere*, Francesco Borghesi (ed.), Florence, Olschki
 

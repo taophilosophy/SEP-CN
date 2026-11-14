@@ -128,7 +128,7 @@ The author and principal editor would like to express their indebtedness to the 
 
 [^testi’-nd]: The section ‘Testi’ in the online *[Archivio Tommaso Campanella](https://www.iliesi.cnr.it/ATC/intro.php?op=1)* offers access to digital facsimiles and/or transcriptions of most of Campanella’s works, with full bibliographical references for original and modern editions. An online catalogue of [The Correspondence of Tommaso Campanella](http://emlo-portal.bodleian.ox.ac.uk/collections/?catalogue=tommaso-campanella) is available through *Early Modern Letters Online* [EMLO].
 
-[^testi’-nd-2]: The most important editions of his writings are:
+[^campanella-nd]: The most important editions of his writings are:
 
 [^aforismi-1941]: *Aforismi politici*, ed. L. Firpo (Turin: Istituto Giuridico dell’Università, 1941).
 

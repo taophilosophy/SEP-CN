@@ -42,7 +42,7 @@ Today, there are scientists who embody both scientific ardor and religious commi
 
 ## 2. Hartley’s *Observations*—At First Sight
 
-Let us imagine how one of Hartley’s colleagues, a Fellow of the Royal Society (FRS), might have responded to the book on its appearance in 1749. A FRS would know that the author had emerged the victor in a public medical controversy ten years earlier. Hartley, working with Stephen Hales, researched the chemical basis for what they thought an effective folk remedy for bladder stones—a painful and hazardous condition that impaired the lives of Hartley himself and many others, including Benjamin Franklin. In the course of the controversy, Hartley had published a self-revealing account of the prolonged and intense suffering he had endured while undergoing the treatment (Hartley 1738).
+Let us imagine how one of Hartley’s colleagues, a Fellow of the Royal Society (FRS), might have responded to the book on its appearance in 1749. A FRS would know that the author had emerged the victor in a public medical controversy ten years earlier. Hartley, working with Stephen Hales, researched the chemical basis for what they thought an effective folk remedy for bladder stones—a painful and hazardous condition that impaired the lives of Hartley himself and many others, including Benjamin Franklin. In the course of the controversy, Hartley had published a self-revealing account of the prolonged and intense suffering he had endured while undergoing the treatment (Hartley 1738)[^hartley-1738].
 
 The FRS would know that this orphaned son of a Yorkshire clergyman was now a successful physician, thanks in part to powerful patrons (including the Cornwallis family, and the Duke of Newcastle, who was in effect prime minister), had come into wealth thanks to his second marriage, and that he devoted himself to philanthropic projects. He promoted the shorthand system devised by his friend, John Byrom, and was the force behind the publication of the monumental *Elements of Algebra* (1740) by Nicholas Saunderson, who had become Lucasian Professor of Mathematics despite being blinded in infancy by smallpox. The FRS would also know that Hartley had a special interest in statistics. His first publication, on variola inoculation for smallpox (1733), relied on a statistical argument to show that, despite the risk of death, it was in a person’s individual interest to be inoculated. The FRS may have also have known that Hartley was in possession of a foundational paper on *inverse probability,* possibly sent to him by fellow FRS Thomas Bayes (see Stigler 1983)[^stigler-1983].
 
@@ -239,25 +239,25 @@ Berkeley, George | Descartes, René | emotion: 17th and 18th century theories of
 
 [^listed-1791-2]: 1791. *Observations on Man, his Frame, his Duty, and his Expectations* (with notes and additions to the second part), translated from the German of Herman Andrew Pistorius, 2d ed., London: J. Johnson.
 
-[^listed-1733]: 1733. *Some Reasons why the Practice of Inoculation ought to be Introduced into the Town of Bury at Present*, Bury St. Edmunds. (Uses a statistical argument to advocate variola inoculation for smallpox.)
+[^hartley-1733]: 1733. *Some Reasons why the Practice of Inoculation ought to be Introduced into the Town of Bury at Present*, Bury St. Edmunds. (Uses a statistical argument to advocate variola inoculation for smallpox.)
 
-[^listed-1735]: 1735. *Observations on the Progress to Happiness* (a ‘first draft’ of material incorporated into the *Observations on Man*), manuscript, private possession.
+[^hartley-1735]: 1735. *Observations on the Progress to Happiness* (a ‘first draft’ of material incorporated into the *Observations on Man*), manuscript, private possession.
 
-[^listed-1738]: 1738. *Ten Cases of Persons who have taken Mrs. Stephens’s Medicines for the Stone. With an Abstract of Some of the Experiments, Tending to Illustrate these Cases*, London: S. Harding. (Contains Hartley*’*s account of his excruciating course of treatment, from July through November 1737.)
+[^hartley-1738]: 1738. *Ten Cases of Persons who have taken Mrs. Stephens’s Medicines for the Stone. With an Abstract of Some of the Experiments, Tending to Illustrate these Cases*, London: S. Harding. (Contains Hartley*’*s account of his excruciating course of treatment, from July through November 1737.)
 
-[^listed-1741]: 1741. *De Lithontriptico a Joanna Stephens nuper invento dissertatio epistolaris*, Basel: J. Christ; Leiden: J. et H. Verbeek.
+[^hartley-1741]: 1741. *De Lithontriptico a Joanna Stephens nuper invento dissertatio epistolaris*, Basel: J. Christ; Leiden: J. et H. Verbeek.
 
-[^listed-1746]: 1746. *De Lithontriptico a Joanna Stephens nuper invento dissertatio epistolaris. Cui Adjicitur methodus exhibendi Lithontripticum sub formâ commodiore. Accedunt etiam Conjecturae quaedam de Sensu, Motu, & Idearum Generatione*, 2d. ed., Bath: J. Leake and G. Frederick, and London: C. Hitch and S. Austen. (The *Conjecturae* is a Latin preview of the main themes in the *Observations*.)
+[^hartley-1746]: 1746. *De Lithontriptico a Joanna Stephens nuper invento dissertatio epistolaris. Cui Adjicitur methodus exhibendi Lithontripticum sub formâ commodiore. Accedunt etiam Conjecturae quaedam de Sensu, Motu, & Idearum Generatione*, 2d. ed., Bath: J. Leake and G. Frederick, and London: C. Hitch and S. Austen. (The *Conjecturae* is a Latin preview of the main themes in the *Observations*.)
 
-[^listed-1772]: 1772. *Betrachtungen über den Menschen, seine Natur, seine Pflichten, seine Erwartungen.* Partial translation by Hermann Andreas Pistorius. Rostok and Leipzig: Koppe.
+[^hartley-1772]: 1772. *Betrachtungen über den Menschen, seine Natur, seine Pflichten, seine Erwartungen.* Partial translation by Hermann Andreas Pistorius. Rostok and Leipzig: Koppe.
 
-[^listed-1775]: 1775. *Hartley’s Theory of the Human Mind, on the Principle of the Association of Ideas; with Essays relating to the Subject of it*, London: J. Johnson. (An abridgement of the *Observations*, by Joseph Priestley.)
+[^hartley-1775]: 1775. *Hartley’s Theory of the Human Mind, on the Principle of the Association of Ideas; with Essays relating to the Subject of it*, London: J. Johnson. (An abridgement of the *Observations*, by Joseph Priestley.)
 
-[^listed-1802]: 1802. *De l’homme: De ses facultés physiques et intellectuelles de ses devoirs et de ses espérances*, trans. with notes by Roch-Ambroise Sicard, Membre de l’Institut national, et Directeur de l’institutîon des Sourds-Muets, Paris: Ducaroy and Déterville.
+[^hartley-1802]: 1802. *De l’homme: De ses facultés physiques et intellectuelles de ses devoirs et de ses espérances*, trans. with notes by Roch-Ambroise Sicard, Membre de l’Institut national, et Directeur de l’institutîon des Sourds-Muets, Paris: Ducaroy and Déterville.
 
-[^listed-1833]: 1833. Richardson, Samuel, anon, and David Hartley, *The Doctrine of Eternal Hell Torments Overthrown: In Three Parts.* Reprints of three texts: Part 1, Richardson’s *A Discourse of the Torments of Hell* (1660); Part 2, “An Article from the Harlean Miscellany on Universalism”; Part 3, “Dr Hartley’s Defence of Universalism” (reprint of two chapters from the *Observations*). Boston: Published at the Trumpet Office, 1833.
+[^hartley-1833]: 1833. Richardson, Samuel, anon, and David Hartley, *The Doctrine of Eternal Hell Torments Overthrown: In Three Parts.* Reprints of three texts: Part 1, Richardson’s *A Discourse of the Torments of Hell* (1660); Part 2, “An Article from the Harlean Miscellany on Universalism”; Part 3, “Dr Hartley’s Defence of Universalism” (reprint of two chapters from the *Observations*). Boston: Published at the Trumpet Office, 1833.
 
-[^listed-1959]: 1959. *Various Conjectures on the Perception, Motion, and Generation of Ideas*, a translation of *Conjecturae quaedam de Sensu, Motu, & Idearum Generatione*, translated by Robert E. A. Palmer, with Introduction and Notes by Martin Kallich, Augustan Reprint Society publication 77–78, Los Angeles: Williams Andrews Clark Memorial Library, University of California.
+[^hartley-1959]: 1959. *Various Conjectures on the Perception, Motion, and Generation of Ideas*, a translation of *Conjecturae quaedam de Sensu, Motu, & Idearum Generatione*, translated by Robert E. A. Palmer, with Introduction and Notes by Martin Kallich, Augustan Reprint Society publication 77–78, Los Angeles: Williams Andrews Clark Memorial Library, University of California.
 
 [^berkeley-1709]: Berkeley, George. [1709] 1948. *Essay towards a New Theory of Vision*, edited by A. A. Luce, *Works*, Vol. 1, London: Thomas Nelson & Sons.
 

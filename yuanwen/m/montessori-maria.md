@@ -441,9 +441,9 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 [^california-1915]: 15: *The California Lectures of Maria Montessori, 1915*, R. Buckenmeyer (ed.);
 
-[^california-1946]: 17: *The 1946 London Lectures*, A. Haines (ed.);
+[^montessori-1946]: 17: *The 1946 London Lectures*, A. Haines (ed.);
 
-[^california-1913]: 18: *The 1913 Rome Lectures*, S. Feez (ed.);
+[^montessori-1913]: 18: *The 1913 Rome Lectures*, S. Feez (ed.);
 
 [^mass-nd]: 19: *The Mass Explained to Children*;
 

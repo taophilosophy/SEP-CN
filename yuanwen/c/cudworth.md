@@ -131,37 +131,37 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^tisu-1678]: [*TISU*], 1678, *The True Intellectual System of the Universe*, London: Richard Royston. All quotations are taken from this first edition, with spelling and punctuation modernised. [[*TISU* 1678 available online](https://archive.org/details/trueintellectual1678cudw)]
 
-[^tisu-1706]: 1706, *A Confutation of the Reason and Philosophy of Atheism being an Abridgement or an Improvement of what Dr Cudworth Offered in his ‘True Intellectual System’*, Thomas Wise (ed.), London, reprinted 1732.
+[^cudworth-1706]: 1706, *A Confutation of the Reason and Philosophy of Atheism being an Abridgement or an Improvement of what Dr Cudworth Offered in his ‘True Intellectual System’*, Thomas Wise (ed.), London, reprinted 1732.
 
-[^tisu-1733]: 1733, *Radulphi Cudworthi systema intellectualis hujus universi* (Latin translation), Johan Lorenz Mosheim (trans.), Jena, 1733. Reprinted Leiden, 1773. [[*TISU* 1733 available online](https://archive.org/details/bub_gb_NVezrRSIWh0C)]
+[^cudworth-1733]: 1733, *Radulphi Cudworthi systema intellectualis hujus universi* (Latin translation), Johan Lorenz Mosheim (trans.), Jena, 1733. Reprinted Leiden, 1773. [[*TISU* 1733 available online](https://archive.org/details/bub_gb_NVezrRSIWh0C)]
 
-[^tisu-1743]: 1743, *The True Intellectual System of the Universe*, Thomas Birch (ed.), reprinted 1820, 1839, American edition, Andover, Gould & Newman; New York, 1837–38). [includes *TEIM*]
+[^cudworth-1743]: 1743, *The True Intellectual System of the Universe*, Thomas Birch (ed.), reprinted 1820, 1839, American edition, Andover, Gould & Newman; New York, 1837–38). [includes *TEIM*]
 
-[^tisu-1823]: 1823, 1824, Sistema intellettuale dell’universo di R. Cudwort [sic] (Italian translation), Marchese Luigi Benedetti (trans.), Pavia. [includes *TEIM*]
+[^cudworth-1823]: 1823, 1824, Sistema intellettuale dell’universo di R. Cudwort [sic] (Italian translation), Marchese Luigi Benedetti (trans.), Pavia. [includes *TEIM*]
 
-[^tisu-1829]: 1829, *The Works of Ralph Cudworth … A new edition, with references to the several quotations in the Intellectual System, and a life of the author*, Thomas Birch (ed.), Oxford: D. A. Talboys.
+[^cudworth-1829]: 1829, *The Works of Ralph Cudworth … A new edition, with references to the several quotations in the Intellectual System, and a life of the author*, Thomas Birch (ed.), Oxford: D. A. Talboys.
 
-[^tisu-1845]: 1845, *The True Intellectual System of the Universe*, J. Harrison (ed.) (with notes from Mosheim’s translation), London: Thomas Tegg. [includes *TEIM*]
+[^cudworth-1845]: 1845, *The True Intellectual System of the Universe*, J. Harrison (ed.) (with notes from Mosheim’s translation), London: Thomas Tegg. [includes *TEIM*]
 
-[^tisu-1964]: 1964, *The True Intellectual System of the Universe*, London; facsimile reprint Stuttgart-Bad Cannstatt: Friedrich Frommann.
+[^cudworth-1964]: 1964, *The True Intellectual System of the Universe*, London; facsimile reprint Stuttgart-Bad Cannstatt: Friedrich Frommann.
 
 [^teim-1996]: [*TEIM*], *A Treatise Concerning Eternal and Immutable Morality*. Quotations are from the 1996 edition.
 
-[^teim-1731]: 1731, *A Treatise Concerning Eternal and Immutable Morality*, Edward Chandler (ed.), London.
+[^cudworth-1731]: 1731, *A Treatise Concerning Eternal and Immutable Morality*, Edward Chandler (ed.), London.
 
-[^teim-1733]: 1733, Latin translation included in *TISU* 1733.
+[^cudworth-1733-2]: 1733, Latin translation included in *TISU* 1733.
 
-[^teim-1743]: 1743, included in *TISU* 1743.
+[^cudworth-1743-2]: 1743, included in *TISU* 1743.
 
-[^teim-1995]: 1995, *Traité de morale et Traité du libre arbitre*, introduction, traduction et notes par Jean-Louis Breteau, Paris.
+[^cudworth-1995]: 1995, *Traité de morale et Traité du libre arbitre*, introduction, traduction et notes par Jean-Louis Breteau, Paris.
 
-[^teim-1996-2]: 1996, A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
+[^cudworth-1996]: 1996, A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
 
 [^fw-1996]: [*FW*], *Of Freewill*. Quotations above are from the 1996 edition edition printed with *TEIM* 1996.
 
-[^fw-1838]: 1838, *A Treatise of Freewill*, J. Allen (ed.), London.
+[^cudworth-1838]: 1838, *A Treatise of Freewill*, J. Allen (ed.), London.
 
-[^fw-1996-2]: 1996, included in *TEIM* 1996.
+[^cudworth-1996-2]: 1996, included in *TEIM* 1996.
 
 [^additional-1997]: Additional Manuscript 4981, “On the Nature of *Liberum arbitrium*”. Summary. pp. 1–12, ed. Jean Louis Breteau. In Rogers and Zarka 1997, 217–231.
 

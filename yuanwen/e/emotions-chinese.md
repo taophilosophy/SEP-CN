@@ -39,7 +39,7 @@ Many psychologists and philosophers report that emotions have diverse psychologi
 
 In the *Liji* (禮記 *the Book of Rites*), one of Confucian classics, one can find comparable categories (such as joy, anger, and love) and characteristics (such as feeling, arousal, and activity) of emotions:
 
-> What are the feelings [*qing*] of men? They are joy, anger, sadness, fear, love, disliking, and liking. These seven feelings belong to men without their learning them. (*Liji*, 9.18; Legge 1885a: 379)[^legge-1885a]
+> What are the feelings [*qing*] of men? They are joy, anger, sadness, fear, love, disliking, and liking. These seven feelings belong to men without their learning them. (*Liji*, 9.18; Legge 1885a: 379)
 >
 > Before the feelings of pleasure, anger, sorrow, and joy are aroused it is called equilibrium (*chung* [*zhong*], centrality, mean). When these feelings are aroused and each and all attain due measure and degree, it is called harmony. (*Liji*, 31.1; *Zhongyong*, 1; Chan 1963: 98)[^chan-1963]
 
@@ -162,7 +162,7 @@ Desire of Wanting: *Yu* is a psychological tendency to obtain, possess, or consu
 
 Desire of Wishing: *Yu* means one’s intention to accomplish or realize one’s goals. It expresses one’s wish to feel or act in certain ways. For example, *yu* in the *Analects* (4.24) refers to this type of desire. “The superior man desires to be slow in his speech and earnest in his conduct” (*Analects*, 4.24).
 
-Desire of Liking: *Yu* is one’s pleasurable feelings toward things that one likes or enjoys. Specifically, when *yu* is paired with *wu* (feelings of disliking), *yu* means feelings of liking or preference. For example, James Legge, a prominent Sinologist, translated *yu* in the passage of the *Liji* as liking (Legge 1885a: 379)[^legge-1885a], pleasurable feelings of desire. In several passages of the *Xunzi* (in the chapters of *buguo* 不苟, *wangzhi* 王制, *fuguo* 富國) and the *Zhuangzi* (in the chapters of *daozhi* 盜跖, *zeyang* 則陽), *yu* refers to the feelings of liking and *wu* (惡) refers to feelings of disliking.
+Desire of Liking: *Yu* is one’s pleasurable feelings toward things that one likes or enjoys. Specifically, when *yu* is paired with *wu* (feelings of disliking), *yu* means feelings of liking or preference. For example, James Legge, a prominent Sinologist, translated *yu* in the passage of the *Liji* as liking (Legge 1885a: 379), pleasurable feelings of desire. In several passages of the *Xunzi* (in the chapters of *buguo* 不苟, *wangzhi* 王制, *fuguo* 富國) and the *Zhuangzi* (in the chapters of *daozhi* 盜跖, *zeyang* 則陽), *yu* refers to the feelings of liking and *wu* (惡) refers to feelings of disliking.
 
 Desire of Judging: *Yu* refers to one’s perception, viewpoint, and evaluation. For example, in the following passages of the *Laozi* and the *Zhuangzi*, *yu* refers to one’s biased judgment, viewpoint, evaluation or blind acceptance of conventional viewpoint.
 
@@ -223,31 +223,31 @@ In many passages of the *Analects*, Confucius (551–479 BCE) states that true v
 
 Feelings and emotions are discussed in many passages of the *Analects*. Confucius believes that having appropriate emotional states is essential in cultivating and perfecting ideal virtues. True filial piety, according to him, is not just one’s behavior of supporting one’s parents. What distinguishes true filial piety from a mere act of fulfilling one’s duty to serve one’s parents is the inner affective state of sincere love for one’s parents (*Analects*, 2.7). When Fanzi asked about *ren* (仁benevolence, the central virtue of Confucianism), Confucius answered that *ren* is to love others (*Analects*, 12.22). When Lin Fang asked about ritual propriety, Confucius states that
 
-> In the ceremonies of mourning, it is better that there be deep sorrow than a minute attention to observances. (*Analects*, 3.4; Legge 1960a: 156)[^legge-1960a]
+> In the ceremonies of mourning, it is better that there be deep sorrow than a minute attention to observances. (*Analects*, 3.4; Legge 1960a: 156)
 
 He stresses an appropriate state of the mind, i.e., deep sorrow and sincere sadness, not the formal details of the ceremony in ritual propriety. At the foundation of Confucian virtues such as filial piety (*xiao* 孝), benevolence (*ren* 仁), and ritual propriety (*li* 禮), one can always see genuine and appropriate emotional states with the fully dedicated mind.
 
 A diverse group of emotions such as *le* (樂 joy), *ai* (哀 sorrow), *hao* (好 liking), and *you* (憂 worry) are discussed in the *Analects*. Confucius always sees, underneath the observable actions and behaviors, deep emotional flow as an essential element of humaneness and moral excellence.
 
-> The Master said, “High station filled without indulgent generosity; ceremonies performed without reverence; mourning conducted without sorrow (*ai* 哀 sorrow)—wherewith should I contemplate such ways?” (*Analects*, 3.26; Legge 1960a: 164)[^legge-1960a]
+> The Master said, “High station filled without indulgent generosity; ceremonies performed without reverence; mourning conducted without sorrow (*ai* 哀 sorrow)—wherewith should I contemplate such ways?” (*Analects*, 3.26; Legge 1960a: 164)
 >
-> The Master said, “They who know [*zhi* 知] the truth are not equal to those who love [*hao* 好 liking] it, and they who love it are not equal to those who delight [*le* 樂 joy] in it”. (*Analects*, 6.20; Legge 1960a: 191)[^legge-1960a]
+> The Master said, “They who know [*zhi* 知] the truth are not equal to those who love [*hao* 好 liking] it, and they who love it are not equal to those who delight [*le* 樂 joy] in it”. (*Analects*, 6.20; Legge 1960a: 191)
 
 Confucius not only explains virtues through emotional states but also expresses the excitement of cultivating and perfecting virtues through learning (*xue* 學). The beginning chapter of the *Analects* starts with Confucius’s excitement of learning:
 
-> Is it not pleasant [*le* 樂] to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him? (*Analects*, 1.1; Legge 1960a: 137)[^legge-1960a]
+> Is it not pleasant [*le* 樂] to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him? (*Analects*, 1.1; Legge 1960a: 137)
 
 The excitement and delight in this passage are not blindly or purely hedonic states of the mind but a fully engaged and elated sense of one’s virtuous mind. Confucius also expresses his sadness when his beloved disciple Yan Yuan died. Confucius
 
-> bewailed him exceedingly, and the disciples who were with him said, “Master, your grief is excessive!” “Is it excessive?” said he. “If I am not to mourn bitterly for this man, for whom should I mourn?” (*Analects*, 11.10; Legge 1960a: 240)[^legge-1960a].
+> bewailed him exceedingly, and the disciples who were with him said, “Master, your grief is excessive!” “Is it excessive?” said he. “If I am not to mourn bitterly for this man, for whom should I mourn?” (*Analects*, 11.10; Legge 1960a: 240).
 
 He does not hide his naturally aroused emotions as expressions of his genuine heart-mind. In the *Analects*, therefore, Confucius shows that emotions and feelings are essential components of virtue and self-cultivation and highlights the affective nature of the moral mind.
 
 None of these emotions and feelings, however, are explicitly linked to *qing* in the *Analects*. *Qing* appears twice in the *Analects*, in the contexts where it means genuineness, truthfulness, situations or circumstances. For example, there is no direct connection between *qing* and emotions in the following passages of the *Analects*.
 
-> If he [a superior person] loves good faith, the people will not dare not to be sincere [*qing*, truthful]. (*Analects*, 13.4; Legge 1960a: 265)[^legge-1960a]
+> If he [a superior person] loves good faith, the people will not dare not to be sincere [*qing*, truthful]. (*Analects*, 13.4; Legge 1960a: 265)
 >
-> The rulers have failed in their duties, and the people consequently have been disorganized for a long time. When you have found out the truth [*qing*, situation] of any accusation, be grieved for and pity them, and do not feel joy at your own ability. (*Analects*, 19.19; Legge 1960a: 345)[^legge-1960a]
+> The rulers have failed in their duties, and the people consequently have been disorganized for a long time. When you have found out the truth [*qing*, situation] of any accusation, be grieved for and pity them, and do not feel joy at your own ability. (*Analects*, 19.19; Legge 1960a: 345)
 
 In these passages, *qing* means genuineness, truthfulness and objective reality. It seems that when Confucius’s teachings were recorded around 500 BCE, *qing* had little relation to subjective feelings even though Confucius discussed emotions and feelings in the *Analects*. As Graham (1990)[^graham-1990] and Hansen (1995)[^hansen-1995] argue, *qing* gets associated with emotions and feelings in the later stages of Chinese philosophy. This does not mean that emotions are not important or not discussed in Chinese philosophy in the Warring States period. In fact, the *Analects* is filled with Confucius’s teachings on emotions and feelings. *Le* (樂 joy) appears 23 times in the *Analects* when filial piety (*xiao* 孝) and righteousness (*yi* 義) show up 14 and 20 times respectively.
 
@@ -301,15 +301,15 @@ As one can see in Mencius’s discussion of the four moral sprouts in this passa
 
 According to Mencius, certain emotions are aroused by innately given psychological inclinations of the mind that flow spontaneously from the original nature of human beings. The four moral sprouts (*siduan*) are such emotions that deserve careful cultivation because their genuineness derives from the nature of human beings. Mencius (2A6, 6A6) believes that emotions, like living organisms, have roots and branches, grow and expand, and reach out to realize their natural potentials. They begin and grow like a fire that starts to spark and a spring that breaks out (2A6). They should not be obstructed or stopped. They should be developed and cultivated to realize their full potential. This is Mencius’s moral-psychological nativism that highlights the affective and generative moral sprouts at the foundation of the heart-mind and human nature (Seok 2008)[^seok-2008].
 
-Flanagan (2014)[^flanagan-2014] characterizes Mencius’s moral psychology of the four moral sprouts as natural teleology because moral emotions have deep foundations in human nature with designated endpoints, i.e., Confucian virtues. This ontological and teleological approach to emotions shows why emotions are important in Confucian philosophy and how emotions and *qing* can relate to each other. For example, *qing* appears four times (3A4, 4B46, 6A6, 6A8) in the *Mencius* and they mean nature/essence or situation/reality. Generally, the semantic content of *qing* in the *Mencius* follows that of the *Analects*: *qing* is not *directly* related to inner subjective feelings. *Wu zhi qing* (物之情) means nature of things (3A4) and *ren zhi qing* (人之情) means the nature or natural disposition of human beings (6A8). In 6A6, however, *qing* is used to explain the original goodness of the mind in the context of affective feelings, i.e., the four moral sprouts. He states that “From the feelings [*qing*] proper to it [nature], it is constituted for the practice of what is good” (6A6; Legge 1960b: 402)[^legge-1960b]. In this passage, *qing* refers to the foundation or root of the moral emotions. Mencius explains that all humans, despite their individual differences, have the same inherent goodness manifested in the affective expressions of the four moral sprouts. These feelings are the foundational essences (*qing*) of humanity that can become virtuous through the process of cultivation and learning. Although *qing* in this passage does not refer to inner subjective states of the mind, it means genuine and truthful dispositions of human beings such as the affective orientations of the mind that reside in the four moral sprouts. In this passage, *qing* (nature/essence) comes close to emotions and feelings, not just random feelings but a specific type of feelings that reflect the underlying nature of human beings. Here, Mencius integrate the onto-affectivity and the moral psychology of *qing* in his discussion of how human beings can become virtuous by cultivating the innately given affective sprouts of morality.
+Flanagan (2014)[^flanagan-2014] characterizes Mencius’s moral psychology of the four moral sprouts as natural teleology because moral emotions have deep foundations in human nature with designated endpoints, i.e., Confucian virtues. This ontological and teleological approach to emotions shows why emotions are important in Confucian philosophy and how emotions and *qing* can relate to each other. For example, *qing* appears four times (3A4, 4B46, 6A6, 6A8) in the *Mencius* and they mean nature/essence or situation/reality. Generally, the semantic content of *qing* in the *Mencius* follows that of the *Analects*: *qing* is not *directly* related to inner subjective feelings. *Wu zhi qing* (物之情) means nature of things (3A4) and *ren zhi qing* (人之情) means the nature or natural disposition of human beings (6A8). In 6A6, however, *qing* is used to explain the original goodness of the mind in the context of affective feelings, i.e., the four moral sprouts. He states that “From the feelings [*qing*] proper to it [nature], it is constituted for the practice of what is good” (6A6; Legge 1960b: 402). In this passage, *qing* refers to the foundation or root of the moral emotions. Mencius explains that all humans, despite their individual differences, have the same inherent goodness manifested in the affective expressions of the four moral sprouts. These feelings are the foundational essences (*qing*) of humanity that can become virtuous through the process of cultivation and learning. Although *qing* in this passage does not refer to inner subjective states of the mind, it means genuine and truthful dispositions of human beings such as the affective orientations of the mind that reside in the four moral sprouts. In this passage, *qing* (nature/essence) comes close to emotions and feelings, not just random feelings but a specific type of feelings that reflect the underlying nature of human beings. Here, Mencius integrate the onto-affectivity and the moral psychology of *qing* in his discussion of how human beings can become virtuous by cultivating the innately given affective sprouts of morality.
 
 Other than the four moral sprouts and their inherent goodness, Mencius discusses subjective feelings of love, concern, and sadness. For example, he discusses king Shun’s (舜) emotions such as sorrow and love to his parents and brother and explains true filial piety (5A1). Shun’s parents and brother tried to kill him, but he kept his sincere feelings for them. Like Confucius, Mencius believes that genuine emotions are an essential component of ideal virtue. He also points out how emotions change our sense of decency and motivation to adopt moral norms. He states that
 
-> Anciently, there was no rule for the size of either the inner or the outer coffin. In middle antiquity, the inner coffin was made seven inches thick, and the outer one the same. This was done by all, from the sovereign to the common people, and not simply for the beauty of the appearance, but because they thus satisfied the natural feelings of their hearts [*renxin* 人心]. (*Mencius*, 2B16; Legge 1960b: 221)[^legge-1960b]
+> Anciently, there was no rule for the size of either the inner or the outer coffin. In middle antiquity, the inner coffin was made seven inches thick, and the outer one the same. This was done by all, from the sovereign to the common people, and not simply for the beauty of the appearance, but because they thus satisfied the natural feelings of their hearts [*renxin* 人心]. (*Mencius*, 2B16; Legge 1960b: 221)
 
 It seems that the thickness of coffin has little to do with emotions or feelings, but Mencius explains that our feelings for deceased people are the reason why the inner coffin has certain thickness. It is not because of an aesthetic consideration, a universal principle, or a sense of duty but because of an affective sense for others that motivated the decision to adopt the thickness of coffin. From this affective moral psychological perspective, one can easily understand Mencius’s criticism (3B9) of Yang Zhu’s and Mo Di’s views (Yangism and Mohism):
 
-> Yang’s view is egoism that promotes one’s self-interest but does not acknowledge the authority of one’s ruler. Mo’s view is impartial caring that supports the benefit of others but does not recognize one’s feelings and respect for one’s parents. Mencius states that “to acknowledge neither king nor father is to be in the state of a beast.” (3B9; Legge 1960b: 282)[^legge-1960b]
+> Yang’s view is egoism that promotes one’s self-interest but does not acknowledge the authority of one’s ruler. Mo’s view is impartial caring that supports the benefit of others but does not recognize one’s feelings and respect for one’s parents. Mencius states that “to acknowledge neither king nor father is to be in the state of a beast.” (3B9; Legge 1960b: 282)
 
 It is important to note that what Mencius criticizes here is not simply their rejection of the authority of ruler and father. Rather it is their denial of the caring heart at the core foundation of morality that renders humanity little more than beasts. Mencius explains why feelings and emotions for others, specifically for our parents, are important and why Yangism and Mohism fail: they propose an uncaring way of life. This is clearly presented in Mencius’s comment on Mohist thinker Yi Zhi’s (夷子) view. Mencius discusses the following example.
 
@@ -436,7 +436,7 @@ It is, therefore, meaningless to feel emotions as positive, negative, attractive
 
 In this passage, Zhuangzi distinguishes two different forms of *qing*. When he says “a man has no feelings”, he is talking about the feelings of likes and dislikes with specific evaluations and judgments. This type of feelings can affect us and motivate us to accept and follow certain viewpoints, rules, or norms. However, natural feelings come to one’s mind without bringing in any suppositions or judgments of acceptance and rejection. In their analysis of this passage, Ma and van Brakel (2021: 137) state by quoting Graham (1981 [2001: 82]) that
 
-> Zhuangzi himself says explicitly that Huizi’s and his understandings of *qing* are different: “You are misunderstanding what I mean by *qing*” (Legge 1891: 235)[^legge-1891]; “*shifei*” [evaluative judgments such as likings and dislikings] is what I mean by “*qing*”.
+> Zhuangzi himself says explicitly that Huizi’s and his understandings of *qing* are different: “You are misunderstanding what I mean by *qing*” (Legge 1891: 235); “*shifei*” [evaluative judgments such as likings and dislikings] is what I mean by “*qing*”.
 
 Here, one can see Zhuangzi’s naturalistic approach to emotions. According to him, having no feelings does not mean that one should feel no emotions. Instead, he suggests that one should take emotions simply as spontaneously and naturally arising feelings so that sadness and pleasure cannot find a way in to disturb and hurt one’s mind. Thus, he states that “If you are content with the time and willing to follow along, then grief and joy have no way to enter” (*Zhuangzi* 3.5; Watson 2013: 21)[^watson-2013]. Therefore, he does not promote asceticism, fatalism, or apathy. Instead, he emphasizes one’s full acceptance of naturally given *qing* (*xing ming zhi qing* 性命之情 naturally given affective disposition). Emotions come and go like day and night and we should be happy and sad as they show up and strike us with certain moods and feelings.
 
@@ -508,17 +508,17 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 
 [^legge-1885]: Legge, James (trans.), 1885–1891, *The Sacred Books of the East*, Oxford: Oxford University Press.
 
-[^legge-1885a]: 1885a, *Volume 27, The Li Ki, I – X*.
+[^text-1885a]: 1885a, *Volume 27, The Li Ki, I – X*.
 
-[^legge-1885b]: 1885b, *Volume 28, The Li Ki, XI – XLVI*.
+[^text-1885b]: 1885b, *Volume 28, The Li Ki, XI – XLVI*.
 
-[^legge-1891]: 1891, *Volume 39, The Writings of Kwang-Tze, Books I – XVII*.
+[^text-1891]: 1891, *Volume 39, The Writings of Kwang-Tze, Books I – XVII*.
 
-[^legge-1960]: ––– (trans.), 1960, *The Chinese Classics*, Hong Kong: Hong Kong University Press.
+[^text-1960]: ––– (trans.), 1960, *The Chinese Classics*, Hong Kong: Hong Kong University Press.
 
-[^legge-1960a]: 1960a, Volume 1: *Confucian Analects, The Great Learning, and the Doctrine of the Mean*.
+[^text-1960a]: 1960a, Volume 1: *Confucian Analects, The Great Learning, and the Doctrine of the Mean*.
 
-[^legge-1960b]: 1960b, Volume 2: *The Works of Mencius*.
+[^text-1960b]: 1960b, Volume 2: *The Works of Mencius*.
 
 [^mei-1929]: Mei, Yi-Pao (trans.), 1929, *The Ethical and Political Works of Motse*, Westport, CT: Hyperion Press.
 

@@ -194,27 +194,15 @@ Montaigne, Michel de
 
 [^von-2004]: (2004) *Politica — Six Books of Politics or Political Instruction*, ed. J. Waszink, Bibliotheca Latinitatis Novae, 5 (Assen: Van Gorcum).
 
-[^von-1604a]: (1604a) *Manuductionis ad Stoicam philosophiam libri tres, L. Annaeo Senecae, aliisque scriptoribus illustrandis* (Antwerp: J. Moretus. (1610b) revised edition Antwerp, J. Moretus. [A few chapters have been translated into English by Robert V. Young in J. Kraye (ed.), *Cambridge Translations of Renaissance Philosophical Texts* (Cambridge: Cambridge University Press, 1997), I: *Moral Philosophy*: 200–209; and into French in J. Lagrée (see below).]
+[^lipsius-2006]: (2006) *Juste Lipse (1547–1606), Vesta et les Vestales (De Vesta et Vestalibus).* Texte édité, traduit et annoté par Filip Vanhaecke. Préface de Rudolf De Smet (Paris – Louvain – Dudley, MA: Peeters).
 
-[^von-1604a-2]: (1604a) *Physiologiae Stoicorum Libri Tres, L. Annaeo Senecae, aliisque scriptoribus illustrandis* (Antwerp: J. Moretus). (1610b) revised edition Antwerp, J. Moretus. [Some extracts have been translated into French in J. Lagrée (see below)].
+[^lipsius-2007]: (2007) *Iustus Lipsius, De recta pronuntiatione / Latinae linguae dialogus. Justus Lipsius, Dialogue sur la prononciation correcte du Latin.* Edition, traduction française et commentaire par Elisabeth Dévière (Hildesheim – Zürich – New York: Olms).
 
-[^von-1644]: (1644) *Iusti Lipsii Philosophia & Physiologia Stoica* (Leiden: J. Maire).
+[^lipsius-2011]: (2011) *Iusti Lipsii Saturnalium Sermonum libri duo, qui de gladiatoribus / Lipsius’ Saturnaliengespräche.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen. Herausgegeben von Andrea Steenbeek (Leiden – Boston: Brill).
 
-[^von-1605a]: (1605a) *L. Annaei Senecae Philosophi Opera, quae exstant omnia*, *a Iusto Lipsio emendata, et scholijs illustrata* (Antwerp: J. Moretus); (1615b) revised, second edition.
+[^lipsius-2015]: (2015) *Iusti Lipsii De Amphitheatro et De Amphitheatris quae extra Romam libellus / Lipsius’ Buch über Amphitheater.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen von Andrea Steenbeek (Leiden – Boston: Brill).
 
-[^von-1605a-2]: (1605a) *Monita et exempla politica. Libri duo, qui virtutes et vitia principum spectant* (Antwerp: J. Moretus. (1606 and 1613) reprint editions Antwerp, J. Moretus. [A modern edition with English translation has been prepared by M. Janssens, *Collecting Historical Examples for the Prince. Justus Lipsius’ Monita et exempla politica (1605)/ Edition, Translation, Commentary and Introductory Study of an Early Modern Mirror-for-Princes* (Unpublished PhD: Leuven University, 2009).]
-
-[^von-1978]: (1978-) *Iusti Lipsi Epistolae* (Brussels: Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten).
-
-[^von-2006]: (2006) *Juste Lipse (1547–1606), Vesta et les Vestales (De Vesta et Vestalibus).* Texte édité, traduit et annoté par Filip Vanhaecke. Préface de Rudolf De Smet (Paris – Louvain – Dudley, MA: Peeters).
-
-[^von-2007]: (2007) *Iustus Lipsius, De recta pronuntiatione / Latinae linguae dialogus. Justus Lipsius, Dialogue sur la prononciation correcte du Latin.* Edition, traduction française et commentaire par Elisabeth Dévière (Hildesheim – Zürich – New York: Olms).
-
-[^von-2011]: (2011) *Iusti Lipsii Saturnalium Sermonum libri duo, qui de gladiatoribus / Lipsius’ Saturnaliengespräche.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen. Herausgegeben von Andrea Steenbeek (Leiden – Boston: Brill).
-
-[^von-2015]: (2015) *Iusti Lipsii De Amphitheatro et De Amphitheatris quae extra Romam libellus / Lipsius’ Buch über Amphitheater.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen von Andrea Steenbeek (Leiden – Boston: Brill).
-
-[^von-2017]: (2017) *Ancient Libraries and Renaissance Humanism. The De Bibliothecis of Justus Lipsius.* By Thomas Hendrickson (Leiden – Boston: Brill).
+[^lipsius-2017]: (2017) *Ancient Libraries and Renaissance Humanism. The De Bibliothecis of Justus Lipsius.* By Thomas Hendrickson (Leiden – Boston: Brill).
 
 [^beuth-1990]: Beuth, K., (1990) *Weisheit und Geistesstärke. Eine philosophiegeschichtliche Untersuchung zur ‘Constantia’ des Justus Lipsius* (Frankfurt am Main: P. Lang).
 

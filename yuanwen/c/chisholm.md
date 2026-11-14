@@ -419,7 +419,7 @@ Two excellent critical discussions of Brentano’s Thesis are Sanford 1997 and K
 
 The term ‘Chisholm’s Paradox’ has been credited to Graeme Forbes in his “Two Solutions to Chisholm’s Paradox” (1984) The topic has been discussed extensively; see, for example, Salmon 1996. In his discussion of the mereological version of the puzzle, Chisholm mentions Chandler 1966. Lewis 1986 is essential reading here. A good discussion of the whole problem of transworld identity can be found in Mackie 2008.
 
-One central Chisholmian view in ethics is the idea that all the main concepts of ethics can be defined by appeal to the concept of *requirement*. He defends this idea in his early paper “The Ethics of Requirement” (1964) and then again ten years later in “Practical Reason and the Logic of Requirement” (1974). The idea is briefly mentioned, but not developed, in [B&IV] 53. See also Chisholm (2005).
+One central Chisholmian view in ethics is the idea that all the main concepts of ethics can be defined by appeal to the concept of *requirement*. He defends this idea in his early paper “The Ethics of Requirement” (1964) and then again ten years later in “Practical Reason and the Logic of Requirement” (1974). The idea is briefly mentioned, but not developed, in [B&IV] 53. See also Chisholm (2005)[^chisholm-2005].
 
 For quite a long time Chisholm thought that the fundamental bearers of intrinsic value are states of affairs. He also thought that in some cases, the value of a state of affairs could be defeated by that state’s occurrence within some larger context. In this he seemed to be working out some ideas of Brentano and Moore. One of Chisholm’s most moving presentations of this view can be found in his Presidential Address before the Eastern Division of the American Philosphical Association titled “The Defeat of Good and Evil” (1968). Many of his ideas about defeat, enhancement, mitigation, and organic unities are further developed in Chapters 6, 7, and 8 of [B&IV]. For further discussion, see Lemos (2005)[^lemos-2005], Gustafsson (2014)[^gustafsson-2014], and Tucker (2016)[^tucker-2016].
 
@@ -488,6 +488,44 @@ Brentano, Franz | categories | epistemology | epistemology: naturalism in | even
 [^note-4]: This is a simplified paraphrase of Chisholm’s actual definition, which appears at [P&O], 128.
 
 [^note-5]: Some of the intermediate names would be pretty hard to pronounce. Consider, for example, ‘Ndam’ and ‘Aoah’.
+
+[^chisholm-1942]: 1942, “The Problem of the Speckled Hen,” *Mind* 51(204): 368–373.
+
+[^chisholm-1955]: 1955–6, “Sentences about Believing,” *Proceedings of the Aristotelian Society*, 56: 125–148.
+
+[^chisholm-1963]: 1963, “Contrary-to-Duty Imperatives and Deontic Logic,” *Analysis*, 24: 33–36.
+
+[^chisholm-1964]: 1964, “The Ethics of Requirement,” *American Philosophical Quarterly*, 1: 147–153.
+
+[^chisholm-1966]: 1966, “Freedom and Action,” in *Freedom and Determinism*, K. Lehrer (ed.), New York: Random House, pp. 11–44; reprinted in Myles Brand (ed.), *The Nature of Human Action*, Glenview, IL: Scott Foresman and Company, 1970, pp. 283–292.
+
+[^chisholm-1967a]: 1967a, “He Could Have Done Otherwise,” *Journal of Philosophy*, 4: 409–417; reprinted in Myles Brand (ed.), *The Nature of Human Action*, Glenview, IL: Scott Foresman and Company, 1970, pp. 293–301.
+
+[^chisholm-1967b]: 1967b, “Identity through Possible Worlds: Some Questions,” *Noûs*, 1(1): 1–8.
+
+[^chisholm-1967c]: 1967c, “Intentionality,” *The Encyclopedia of Philosophy* (Volume 5), Paul Edwards (ed.), London: Macmillan, pp. 201–4.
+
+[^chisholm-1968]: 1968, “The Defeat of Good and Evil,”, *Proceedings and Addresses of the American Philosophical Association*, 42: 21–38.
+
+[^chisholm-1970]: 1970, “Events and Propositions,” *Noûs*, 4: 15–24.
+
+[^chisholm-1971]: 1971, “States of Affairs Again,” *Noûs*, 5: 179–189.
+
+[^chisholm-1973]: 1973, “Parts as Essential to Their Wholes,” *Review of Metaphysics*, 26: 581–603.
+
+[^chisholm-1974]: 1974, “Practical Reason and the Logic of Requirement,” in S. Korner (ed.), *Practical Reason*, Oxford: Basil Blackwell, pp. 1–17.
+
+[^chisholm-1978]: 1978, “Is There a Mind-Body Problem?,” *Philosophical Exchange*, 2: 24–34.
+
+[^chisholm-1986]: 1986, “Self-Profile,” in [RMCp], pp. 3–77.
+
+[^chisholm-1990]: 1990, “Events without Times: An Essay in Ontology,” *Noûs*, 24: 413–428.
+
+[^chisholm-1991]: 1991, “On the Simplicity of the Soul,” *Philosophical Perspectives*, 5: 157–81.
+
+[^chisholm-1996]: 1996, “Persons and Their Bodies: Some Unanswered Questions,” in [RTC], pp. 99–105.
+
+[^chisholm-2005]: 2005, “Intrinsic Value,” in Toni Rønnow-Rasmussen & Michael J. Zimmerman (eds.), *Recent Work on Intrinsic Value*, Dordrecht: Springer, pp. 1–10.
 
 [^amico-1993]: Amico, R., 1993, *The Problem of the Criterion*, Lanham, MD: Rowman and Littlefield.
 

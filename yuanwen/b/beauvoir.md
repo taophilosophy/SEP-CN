@@ -234,165 +234,185 @@ Additionally, Beauvoir’s work inspires feminist philosophical analyses of vari
 
 ambiguity | existentialism | feminist philosophy | feminist philosophy, approaches: intersections between analytic and continental philosophy | feminist philosophy, approaches: intersections between pragmatist and continental philosophy | feminist philosophy, interventions: aesthetics | feminist philosophy, interventions: ethics | feminist philosophy, interventions: history of philosophy | feminist philosophy, interventions: metaphysics | feminist philosophy, topics: perspectives on class and work | feminist philosophy, topics: perspectives on power | feminist philosophy, topics: perspectives on sex and gender | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | liberty: positive and negative | marriage and domestic partnership | Marx, Karl | Merleau-Ponty, Maurice | phenomenology | Sartre, Jean-Paul
 
+[^beauvoir-1927]: 1927, *4e cahier*, holograph manuscript, Paris: Bibliothèque Nationale.
+
+[^beauvoir-1928]: 1928–29, *Carnet 6*, holograph manuscript, Paris: Bibliothèque Nationale.
+
+[^beauvoir-1929]: 1929–31, *Carnet 7*, holograph manuscript, Paris: Bibliothèque Nationale.
+
+[^beauvoir-1943]: 1943 [1954], *L’Invitée*, Paris: Gallimard; translated as *She Came to Stay*, Yvonne Moyse and Roger Senhouse (trans.), Cleveland, OH: World Publishing, 1954.
+
+[^beauvoir-1944]: [P&C] 1944, *Pyrrhus et Cinéas: A Cette Dame*, Paris: Editions Gallimard; translated as “Pyrrhus and Cineas: A Cette Dame”, Marybeth Timmerman (trans.), in PhilW: 89–149.
+
+[^beauvoir-1945a]: 1945a, “La Phénoménologie de la perception de Maurice Merleau-Ponty”, *Les Temps Modernes*, 1(2): 363–367; translated as “A Review of The Phenomenology of Perception by Maurice Merleau-Ponty”, in Marybeth Timmerman (trans.), PhilW: 159–164.
+
+[^beauvoir-1945b]: 1945b, “Idéalisme moral et réalisme politique”, *Les Temps Modernes*, 1(2): 248–268. Reprinted in ESN: 49–88; translated as “Moral Idealism and Political Realism”, Anne Deing Cordero (trans.), in PhilW: 175–193.
+
+[^beauvoir-1945c]: 1945c, “L’existentialisme et la sagesse des nations”, *Les Temps Modernes*, 1(3): 385–404. Reprinted in ESN: 13–48; translated as “Existentialism and Popular Wisdom”, Marybeth Timmerman (trans.) in PhilW: 203–220.
+
+[^beauvoir-1945d]: 1945d, untitled and undated manuscript. Probably original of “Jean Paul Sartre: Strictly Personal”, Malcolm Cowley (trans.), *Harper’s Bazaar*, January 1946, pp. 113, 158, 160; translated as “Jean-Paul Sartre”, Marybeth Timmerman (trans.) in PhilW: 229–235.
+
+[^beauvoir-1945e]: 1945e, *Le Sang des autres*, Paris: Gallimard; translated as *The Blood of Others*, Yvonne Moyse and Roger Senhouse (trans.), New York: Knopf, 1948; translation reprinted New York: Pantheon Books, 1983.
+
 [^les-nd]: 1945f, *Les Bouches inutiles, Paris*: Gallimard; translated as *The Useless Mouths*, Liz Stanley and Catherine Naji (trans.), in LitW: 33–88.
 
 [^quatre-nd]: 1945g, “Quatre jours à Madrid”, Combat, 14–15 April, p. 1–2; translated as “Four Days in Madrid”, Marybeth Timmerman (trans.), in PolW: 16–21.
 
-[^quatre-1946a]: 1946a, “Œil pour œil”, *Les Temps Modernes*, 1(5): 813–830; reprinted in ESN: 109–143; translated as “An Eye for an Eye”, Kristana Arp (trans.), PhilW: 245–260.
+[^beauvoir-1946a]: 1946a, “Œil pour œil”, *Les Temps Modernes*, 1(5): 813–830; reprinted in ESN: 109–143; translated as “An Eye for an Eye”, Kristana Arp (trans.), PhilW: 245–260.
 
-[^quatre-1946b]: 1946b, “Littérature et métaphysique”, *Les Temps Modernes*, 1(7):1153–1163; reprinted in ESN: 89–107; translated as “Literature and Metaphysics”, Véronique Zaytzeff and Frederick M. Morrison (trans.) in PhilW: 269–277.
+[^beauvoir-1946b]: 1946b, “Littérature et métaphysique”, *Les Temps Modernes*, 1(7):1153–1163; reprinted in ESN: 89–107; translated as “Literature and Metaphysics”, Véronique Zaytzeff and Frederick M. Morrison (trans.) in PhilW: 269–277.
 
-[^quatre-1946c]: 1946c [1955], *Tous les homes sont mortels*, Paris: Gallimard; translated as *All Men Are Mortal*, Leonard M. Friedman (trans.), Cleveland, OH: World Publishing, 1955.
+[^beauvoir-1946c]: 1946c [1955], *Tous les homes sont mortels*, Paris: Gallimard; translated as *All Men Are Mortal*, Leonard M. Friedman (trans.), Cleveland, OH: World Publishing, 1955.
 
-[^quatre-1947a]: 1947a, “An Existentialist Looks at Americans”, *New York Times Magazine*, 25 May, pp. 13, 51, 52. Reprinted in PhilW: 307–315.
+[^beauvoir-1947a]: 1947a, “An Existentialist Looks at Americans”, *New York Times Magazine*, 25 May, pp. 13, 51, 52. Reprinted in PhilW: 307–315.
 
-[^quatre-1947b]: 1947b, “Qu’est-ce que l’existentialisme?”, *France-Amérique*, 29 June 29, pp. 1, 5; translated as , “What is Existentialism?”, Marybeth Timmerman (trans.), PhilW: 323–326.
+[^beauvoir-1947b]: 1947b, “Qu’est-ce que l’existentialisme?”, *France-Amérique*, 29 June 29, pp. 1, 5; translated as , “What is Existentialism?”, Marybeth Timmerman (trans.), PhilW: 323–326.
 
-[^quatre-1947c]: 1947c [1976], *Pour une morale de l’ambigüité*, Paris: Gallimard; translated as *The Ethics of Ambiguity*, Bernard Frechtman (trans.), New York: Citadel Press, 1976.
+[^beauvoir-1947c]: 1947c [1976], *Pour une morale de l’ambigüité*, Paris: Gallimard; translated as *The Ethics of Ambiguity*, Bernard Frechtman (trans.), New York: Citadel Press, 1976.
 
-[^quatre-1947d]: 1947d, “Femininity, the trap”, Vogue, 15 March, pp. 171, 232, 234, translator unknown. Reprinted with some modifications as “Femininity: The Trap”, in FemW: 42–47.
+[^beauvoir-1947d]: 1947d, “Femininity, the trap”, Vogue, 15 March, pp. 171, 232, 234, translator unknown. Reprinted with some modifications as “Femininity: The Trap”, in FemW: 42–47.
 
-[^quatre-1948]: 1948, *L’Amerique au jour le jour*, Paris: Editions Paul Marihein; translated as *America Day by Day*, P. Dudley [pseud.] (trans.), London: Duckworth, 1952.
+[^beauvoir-1948]: 1948, *L’Amerique au jour le jour*, Paris: Editions Paul Marihein; translated as *America Day by Day*, P. Dudley [pseud.] (trans.), London: Duckworth, 1952.
 
 [^esn-1948]: [ESN] 1948, L’Existentialisme et la sagesse des nations, Paris: Nagel. A collection of some of her essays.
 
 [^ss-1949]: [SS] 1949, *Le Deuxième sexe*, Paris: Editions Gallimard.
 
-[^ss-1953]: 1953, *The Second Sex*, H. M. Pashley (trans.), New York: Knopf.
+[^beauvoir-1953]: 1953, *The Second Sex*, H. M. Pashley (trans.), New York: Knopf.
 
-[^ss-2010]: 2010, *The Second Sex*, C. Borde and S. Malovany-Chevallier (trans.), New York: Alfred A. Knopf.
+[^beauvoir-2010]: 2010, *The Second Sex*, C. Borde and S. Malovany-Chevallier (trans.), New York: Alfred A. Knopf.
 
-[^ss-1949-2]: 1949, Review in *Les Temps Modernes*, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
+[^beauvoir-1949]: 1949, Review in *Les Temps Modernes*, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
 
-[^ss-1950]: 1950, “It’s About Time Women Put a New Face on Love”, *Flair*, 1, 3, April, 76–77, translator unknown. Reprinted with some modifications in FemW: 76–80
+[^beauvoir-1950]: 1950, “It’s About Time Women Put a New Face on Love”, *Flair*, 1, 3, April, 76–77, translator unknown. Reprinted with some modifications in FemW: 76–80
 
-[^ss-1951]: 1951–52, “Faut-il brûler Sade?” (Must We Burn Sade?),
+[^beauvoir-1951]: 1951–52, “Faut-il brûler Sade?” (Must We Burn Sade?),
 
-[^ss-1951-2]: 1951, part 1, *Les Temps modernes*, 74: 1002–1033.
+[^beauvoir-1951-2]: 1951, part 1, *Les Temps modernes*, 74: 1002–1033.
 
-[^ss-1952]: 1952, part 2, *Les Temps modernes*, 75: 1197–1230.
+[^beauvoir-1952]: 1952, part 2, *Les Temps modernes*, 75: 1197–1230.
 
-[^ss-1953-2]: 1953, English translation, A. Michelson (trans.), London: Peter Neville.
+[^beauvoir-1953-2]: 1953, English translation, A. Michelson (trans.), London: Peter Neville.
 
-[^ss-2012]: 2012, English translation, Kim Allen Gleed, Marilyn Gladdis Rose, and Virginia Preston (trans.), PolW: 44–101.
+[^beauvoir-2012]: 2012, English translation, Kim Allen Gleed, Marilyn Gladdis Rose, and Virginia Preston (trans.), PolW: 44–101.
 
-[^ss-1954]: 1954 [1956], *Les Mandarins*, Paris: Gallimard; translated as *The Mandarins*, Leonard M. Friedman (trans.), Cleveland: World , 1956.
+[^beauvoir-1954]: 1954 [1956], *Les Mandarins*, Paris: Gallimard; translated as *The Mandarins*, Leonard M. Friedman (trans.), Cleveland: World , 1956.
 
-[^ss-1955a]: 1955a, “Merleau-Ponty et le pseudo-sartrisme”, *Les Temps modernes*, 10: 2072–2122; translated in 1989 as “Merleau-Ponty and Pseudo-Sartreanism”, Véronique Zaytzeff and Frederick M. Morrison (trans.), International Studies in Philosophy, 21(3): 3–48; translation reprinted in in PolW: 206–257.
+[^beauvoir-1955a]: 1955a, “Merleau-Ponty et le pseudo-sartrisme”, *Les Temps modernes*, 10: 2072–2122; translated in 1989 as “Merleau-Ponty and Pseudo-Sartreanism”, Véronique Zaytzeff and Frederick M. Morrison (trans.), International Studies in Philosophy, 21(3): 3–48; translation reprinted in in PolW: 206–257.
 
-[^ss-1955b]: 1955b, *Privilèges*, Paris: Gallimard.
+[^beauvoir-1955b]: 1955b, *Privilèges*, Paris: Gallimard.
 
-[^ss-1955c]: 1955c, “La pensée de droite, aujourd’hui”, *Les Temps Modernes*, 112–13, (May 1955): 1539–1575; 114–15 (June-July 1955): 2219–2261. Reprinted in Privilèges: 93–200; translated as “Right Wing Thought Today”, Véronique Zaytzeff and Frederick M. Morrison (trans.), in PolW: 113–193.
+[^beauvoir-1955c]: 1955c, “La pensée de droite, aujourd’hui”, *Les Temps Modernes*, 112–13, (May 1955): 1539–1575; 114–15 (June-July 1955): 2219–2261. Reprinted in Privilèges: 93–200; translated as “Right Wing Thought Today”, Véronique Zaytzeff and Frederick M. Morrison (trans.), in PolW: 113–193.
 
-[^ss-1957]: 1957 [1958], *La Longue marche, essai sur la Chine*, Paris: Gallimard; translated as *The Long March*, Austryn Wainhouse (trans.), Cleveland, OH: World Publishing, 1958.
+[^beauvoir-1957]: 1957 [1958], *La Longue marche, essai sur la Chine*, Paris: Gallimard; translated as *The Long March*, Austryn Wainhouse (trans.), Cleveland, OH: World Publishing, 1958.
 
-[^ss-1958]: 1958 [1959], *Mémoires d’une jeune fille rangée*, Paris: Gallimard; translated as *Memoirs of a Dutiful Daughter*, James Kirkup (trans.), Cleveland, OH: World Pub.
+[^beauvoir-1958]: 1958 [1959], *Mémoires d’une jeune fille rangée*, Paris: Gallimard; translated as *Memoirs of a Dutiful Daughter*, James Kirkup (trans.), Cleveland, OH: World Pub.
 
-[^ss-1959a]: 1959a, “Préface” to Le “planning” familial, Lagroua Weill-Hallé, Paris: Maloine; translated as “Preface to Family Planning”, Marybeth Timmerman (trans.), in FemW: 81–83.
+[^beauvoir-1959a]: 1959a, “Préface” to Le “planning” familial, Lagroua Weill-Hallé, Paris: Maloine; translated as “Preface to Family Planning”, Marybeth Timmerman (trans.), in FemW: 81–83.
 
-[^ss-1959b]: 1959b, “Brigitte Bardot and the Lolita Syndrome”, Bernard Frechtman (trans.), *Esquire*, August 1959. Reprinted with some modifications in FemW: 114–125. A French back translation appeared in *Écrits*, Claude Rancis and Fernande Gontier (eds.), 363–376.
+[^beauvoir-1959b]: 1959b, “Brigitte Bardot and the Lolita Syndrome”, Bernard Frechtman (trans.), *Esquire*, August 1959. Reprinted with some modifications in FemW: 114–125. A French back translation appeared in *Écrits*, Claude Rancis and Fernande Gontier (eds.), 363–376.
 
-[^ss-1960a]: 1960a, “Préface” to La grand’peur d’aimer, Marie-Andrée Lagroua Weill-Hallé, Paris: Éditions Julliard-Sequana; translated as “Preface to The Great Fear Of Loving”, Marybeth Timmerman (trans.), in FemW: 84–87.
+[^beauvoir-1960a]: 1960a, “Préface” to La grand’peur d’aimer, Marie-Andrée Lagroua Weill-Hallé, Paris: Éditions Julliard-Sequana; translated as “Preface to The Great Fear Of Loving”, Marybeth Timmerman (trans.), in FemW: 84–87.
 
-[^ss-1960b]: 1960b [1962], *La Force de l’âge*, Paris: Gallimard; translated as *The Prime of Life: The Autobiography of Simone de Beauvoir*, Peter Green (trans.), Cleveland, OH: World Publishing, 1962.
+[^beauvoir-1960b]: 1960b [1962], *La Force de l’âge*, Paris: Gallimard; translated as *The Prime of Life: The Autobiography of Simone de Beauvoir*, Peter Green (trans.), Cleveland, OH: World Publishing, 1962.
 
-[^ss-1961]: 1961, “La condition féminine”, *La NEF* (La nouvelle équipe française) 5(January–March): 121–127. Reprinted in Écrits: 401–409; translated as “The Condition Of Women”, Marybeth Timmerman (trans.) in FemW: 88–96
+[^beauvoir-1961]: 1961, “La condition féminine”, *La NEF* (La nouvelle équipe française) 5(January–March): 121–127. Reprinted in Écrits: 401–409; translated as “The Condition Of Women”, Marybeth Timmerman (trans.) in FemW: 88–96
 
-[^ss-1962]: 1962, “Preface”, in *Djamila Boupacha, Simone de Beauvoir and Gisile Halimi*, Paris: Gallimard; translated as “Preface”, in *Djamila Boupacha: The Story of the Torture of a Young Algerian Girl Which Shocked Liberal French Opinion*, Patrick Green (trans.), London: Weidenfeld and Nicolson, 1962. Retranslated as “Preface to Djamillia Boupacha”, Marybeth Timmerman (trans.) in PolW: 272–282.
+[^beauvoir-1962]: 1962, “Preface”, in *Djamila Boupacha, Simone de Beauvoir and Gisile Halimi*, Paris: Gallimard; translated as “Preface”, in *Djamila Boupacha: The Story of the Torture of a Young Algerian Girl Which Shocked Liberal French Opinion*, Patrick Green (trans.), London: Weidenfeld and Nicolson, 1962. Retranslated as “Preface to Djamillia Boupacha”, Marybeth Timmerman (trans.) in PolW: 272–282.
 
-[^ss-1963]: 1963 [1965], *La Force des choses*, Paris: Gallimard; translated as *After the War: Force of Circumstance I* and *Hard Times: Force of Circumstance II,* Richard Howard (trans.), New York: Putnam, 1965.
+[^beauvoir-1963]: 1963 [1965], *La Force des choses*, Paris: Gallimard; translated as *After the War: Force of Circumstance I* and *Hard Times: Force of Circumstance II,* Richard Howard (trans.), New York: Putnam, 1965.
 
-[^ss-1964a]: 1964a, “Preface”, in La Bâtarde, by Violette Leduc, Paris: Gallimard; translated as “Foreword” in La Bâtarde [The Bastard], Derek Coleman (trans.), New York: Riverhead Books, 1965.
+[^beauvoir-1964a]: 1964a, “Preface”, in La Bâtarde, by Violette Leduc, Paris: Gallimard; translated as “Foreword” in La Bâtarde [The Bastard], Derek Coleman (trans.), New York: Riverhead Books, 1965.
 
-[^ss-1964b]: 1964b, *Une Mort très douce*, Paris: Gallimard; translated as *A Very Easy Death*, Patrick O’Brian (trans.), New York: Putnam, 1966.
+[^beauvoir-1964b]: 1964b, *Une Mort très douce*, Paris: Gallimard; translated as *A Very Easy Death*, Patrick O’Brian (trans.), New York: Putnam, 1966.
 
-[^ss-1964c]: 1964c, “Préface”, translator unknown, to *The Sexually Responsive Woman*, by Phyllis and Eberhard Kronhausen, New York: Grove Press. Reprinted in FemW: 97–98.
+[^beauvoir-1964c]: 1964c, “Préface”, translator unknown, to *The Sexually Responsive Woman*, by Phyllis and Eberhard Kronhausen, New York: Grove Press. Reprinted in FemW: 97–98.
 
-[^ss-1965a]: 1965a, “Que peut la littérature?”, Le Monde, 249: 73–92.
+[^beauvoir-1965a]: 1965a, “Que peut la littérature?”, Le Monde, 249: 73–92.
 
-[^ss-1965b]: 1965b, “What Love Is—and Isn’t”, McCall’s, translator unknown, August, pp. 71, 133. Reprinted in FemW: 99–102.
+[^beauvoir-1965b]: 1965b, “What Love Is—and Isn’t”, McCall’s, translator unknown, August, pp. 71, 133. Reprinted in FemW: 99–102.
 
-[^ss-1966]: 1966, “Préface” to Treblinka, by Jean-François Steiner, Paris: Fayard; translated as “Preface to Treblinka”, Marybeth Timmerman (trans.), in PolW: 305–310.
+[^beauvoir-1966]: 1966, “Préface” to Treblinka, by Jean-François Steiner, Paris: Fayard; translated as “Preface to Treblinka”, Marybeth Timmerman (trans.), in PolW: 305–310.
 
-[^ss-1966a]: 1966a, *Les Belles images*, Paris: Gallimard; translated as *Les belles images*, Patrick O’Brian (trans.), New York: Putnam, 1968.
+[^beauvoir-1966a]: 1966a, *Les Belles images*, Paris: Gallimard; translated as *Les belles images*, Patrick O’Brian (trans.), New York: Putnam, 1968.
 
-[^ss-1966b]: 1966b, “Situation de la femme d’aujourd’hui”, lecture 20 September 1966 in Tokyo. Printed in Écrits: 422–439; translated as “The Situation Of Women Today”, Debbie Mann (trans.), in FemW: 132–145.
+[^beauvoir-1966b]: 1966b, “Situation de la femme d’aujourd’hui”, lecture 20 September 1966 in Tokyo. Printed in Écrits: 422–439; translated as “The Situation Of Women Today”, Debbie Mann (trans.), in FemW: 132–145.
 
-[^ss-1966c]: 1966c, “La femme et la creation”, lecture 22 September 1966 in Japan. Printed in *Écrits*: 458–474; translated as “Women and Creativity”, Marybeth Timmerman (trans.), in FemW: 155–169.
+[^beauvoir-1966c]: 1966c, “La femme et la creation”, lecture 22 September 1966 in Japan. Printed in *Écrits*: 458–474; translated as “Women and Creativity”, Marybeth Timmerman (trans.), in FemW: 155–169.
 
-[^ss-1967]: 1967 [1969], *La Femme rompue*, Paris: Gallimard; translated as *The Woman Destroyed*, Patrick O’Brian (trans.), New York: Putnam, 1969.
+[^beauvoir-1967]: 1967 [1969], *La Femme rompue*, Paris: Gallimard; translated as *The Woman Destroyed*, Patrick O’Brian (trans.), New York: Putnam, 1969.
 
-[^ss-1969]: 1969, “Amour et politique”, *Le nouvel observateur*, 222, February 10–16; translated as “Love and Politics”, Marybeth Timmerman (trans.), in *FemW*: 103–105.
+[^beauvoir-1969]: 1969, “Amour et politique”, *Le nouvel observateur*, 222, February 10–16; translated as “Love and Politics”, Marybeth Timmerman (trans.), in *FemW*: 103–105.
 
-[^ss-1970]: 1970 [1972], *La Vieillesse*, Paris: Gallimard; translated by Patrick O’Brian and printed in the United States as *The Coming of Age*, (trans.), New York: Putnam, 1972, and in the United Kingdom as *Old Age*, London: André Deutsch, 1972.
+[^beauvoir-1970]: 1970 [1972], *La Vieillesse*, Paris: Gallimard; translated by Patrick O’Brian and printed in the United States as *The Coming of Age*, (trans.), New York: Putnam, 1972, and in the United Kingdom as *Old Age*, London: André Deutsch, 1972.
 
-[^ss-1971]: 1971, “En France aujourd’hui on peut tuer impunément”, *J’accuse*, 2(February 15): 475–481; in Écrits: 475–481; translated as “In France Today Killing Goes Unpunished”, Marybeth Timmerman (trans.), in *PolW*: 287–292.
+[^beauvoir-1971]: 1971, “En France aujourd’hui on peut tuer impunément”, *J’accuse*, 2(February 15): 475–481; in Écrits: 475–481; translated as “In France Today Killing Goes Unpunished”, Marybeth Timmerman (trans.), in *PolW*: 287–292.
 
-[^ss-1972a]: 1972a [1974], *Tout compte fait*, Paris: Gallimard; translated as *All Said and Done*, Patrick O’Brian (trans.), New York: Putnam, 1974.
+[^beauvoir-1972a]: 1972a [1974], *Tout compte fait*, Paris: Gallimard; translated as *All Said and Done*, Patrick O’Brian (trans.), New York: Putnam, 1974.
 
-[^ss-1972b]: 1972b, “La Femme révoltée”, an interview by Alice Schwartzer, *Le nouvel observateur*, 14 February 1972, 47–54. Reprinted in Écrits: 482–497; translated as “The Rebellious Woman—An Interview by Alice Schwartzer”, Marybeth Timmerman (trans.), in *FemW*: 192–208
+[^beauvoir-1972b]: 1972b, “La Femme révoltée”, an interview by Alice Schwartzer, *Le nouvel observateur*, 14 February 1972, 47–54. Reprinted in Écrits: 482–497; translated as “The Rebellious Woman—An Interview by Alice Schwartzer”, Marybeth Timmerman (trans.), in *FemW*: 192–208
 
-[^ss-1972c]: 1972c, “Réponse à quelques femmes et à un homme”, *Le nouvel observateur*, 6 March 1972, 40–42. Reprinted in Écrits: 498–504; translated as “Response to Some Women and a Man”, Marybeth Timmerman (trans.), in *FemW*: 209:–215.
+[^beauvoir-1972c]: 1972c, “Réponse à quelques femmes et à un homme”, *Le nouvel observateur*, 6 March 1972, 40–42. Reprinted in Écrits: 498–504; translated as “Response to Some Women and a Man”, Marybeth Timmerman (trans.), in *FemW*: 209:–215.
 
-[^ss-1972d]: 1972d, “L’avortement des pauvres”, *Le nouvel observateur*, 414, October 16–22, 57; translated as “Abortion and the Poor”, Marybeth Timmerman (trans.), in *FemW*: 216–218.
+[^beauvoir-1972d]: 1972d, “L’avortement des pauvres”, *Le nouvel observateur*, 414, October 16–22, 57; translated as “Abortion and the Poor”, Marybeth Timmerman (trans.), in *FemW*: 216–218.
 
-[^ss-1972e]: 1972e, “Déposition de Simone de Beauvoir au procès de Bobigny”, printed in *Écrits*: 510–513; translated as “Beauvoir’s Deposition at the Bobigny Trial”, Marybeth Timmerman (trans.), in FemW: 219–222.
+[^beauvoir-1972e]: 1972e, “Déposition de Simone de Beauvoir au procès de Bobigny”, printed in *Écrits*: 510–513; translated as “Beauvoir’s Deposition at the Bobigny Trial”, Marybeth Timmerman (trans.), in FemW: 219–222.
 
-[^ss-1973a]: 1973a, “La Syrie et les prisonniers”, *Le monde* (December 18). Reprinted in Écrits 254–255; translated as “Syria and Its Prisoners”, Marybeth Timmerman (trans.), in PolW: 311–313.
+[^beauvoir-1973a]: 1973a, “La Syrie et les prisonniers”, *Le monde* (December 18). Reprinted in Écrits 254–255; translated as “Syria and Its Prisoners”, Marybeth Timmerman (trans.), in PolW: 311–313.
 
-[^ss-1973b]: 1973b, “Préface” to Avortement: une loi en procès. L’affaire de Bobigny. Sténotypie intégrale des débats du tribunal de Bobigny, 8 novembre 1972 by the Association Choisir (To Choose Association), Paris: Gallimard. Reprinted in *Écrits*: 505–509; translated as “Preface to Abortion: A Law On Trial The Bobigny Affair”, Marybeth Timmerman (trans.), in FemW: 223–227.
+[^beauvoir-1973b]: 1973b, “Préface” to Avortement: une loi en procès. L’affaire de Bobigny. Sténotypie intégrale des débats du tribunal de Bobigny, 8 novembre 1972 by the Association Choisir (To Choose Association), Paris: Gallimard. Reprinted in *Écrits*: 505–509; translated as “Preface to Abortion: A Law On Trial The Bobigny Affair”, Marybeth Timmerman (trans.), in FemW: 223–227.
 
-[^ss-1973c]: 1973c, “Everyday Sexism”, *Les Temps Modernes*, 329, December. Reprinted in Écrits: 514; translated as “Everyday Sexism”, Marybeth Timmerman (trans.), in FemW: 240–241.
+[^beauvoir-1973c]: 1973c, “Everyday Sexism”, *Les Temps Modernes*, 329, December. Reprinted in Écrits: 514; translated as “Everyday Sexism”, Marybeth Timmerman (trans.), in FemW: 240–241.
 
-[^ss-1974a]: 1974a, *Promenade au pays de la vieillesse*, film by Marianne Ahrne, Simone de Beauvoir, Pépo Angel, and Bertrand Hurault, directed by Marianne Ahrne, Stockholm, Sweden, for Swedish Television; transcription done by Justine Sarrot and Oliver Davis; translated as “A Walk Through the Land of Old Age”, Alexander Hertich (trans.), in PolW: 339–363.
+[^beauvoir-1974a]: 1974a, *Promenade au pays de la vieillesse*, film by Marianne Ahrne, Simone de Beauvoir, Pépo Angel, and Bertrand Hurault, directed by Marianne Ahrne, Stockholm, Sweden, for Swedish Television; transcription done by Justine Sarrot and Oliver Davis; translated as “A Walk Through the Land of Old Age”, Alexander Hertich (trans.), in PolW: 339–363.
 
-[^ss-1974b]: 1974b, “Presidée par Simone de Beauvoir, ‘La ligue du droit des femmes’ veut abolir la prostitution”, *Le monde*, 8 March 1974, 36; translated as “League of Women’s Rights Manifesto”, Marybeth Timmerman (trans.), in FemW: 242–245.
+[^beauvoir-1974b]: 1974b, “Presidée par Simone de Beauvoir, ‘La ligue du droit des femmes’ veut abolir la prostitution”, *Le monde*, 8 March 1974, 36; translated as “League of Women’s Rights Manifesto”, Marybeth Timmerman (trans.), in FemW: 242–245.
 
-[^ss-1974c]: 1974c, “Préface” to *Divorce en France*, by Claire Cayron, Paris: Denoël-Gonthier. Reprinted in Écrits: 515–518; translated as “Preface to Divorce In France”, Marybeth Timmerman (trans.), in FemW: 246–249.
+[^beauvoir-1974c]: 1974c, “Préface” to *Divorce en France*, by Claire Cayron, Paris: Denoël-Gonthier. Reprinted in Écrits: 515–518; translated as “Preface to Divorce In France”, Marybeth Timmerman (trans.), in FemW: 246–249.
 
-[^ss-1974d]: 1974d, “Présentation” to Les femmes s’entêtent, special issue of *Les Temps Modernes*, April–May, 1719–1720. Printed in Écrits: 519–521; translated as “Introduction to Women Insist”, Marybeth Timmerman (trans.), in FemW: 250–252.
+[^beauvoir-1974d]: 1974d, “Présentation” to Les femmes s’entêtent, special issue of *Les Temps Modernes*, April–May, 1719–1720. Printed in Écrits: 519–521; translated as “Introduction to Women Insist”, Marybeth Timmerman (trans.), in FemW: 250–252.
 
-[^ss-1975]: 1975, “Solidaire d’Israël: un soutien critique”, *Les Cahiers Bernard Lazare*, 51(June 1975). Reprinted in Écrits 522–532; translated as “Solidarity With Israel”, Marybeth Timmerman (trans.), in PolW: 314–323.
+[^beauvoir-1975]: 1975, “Solidaire d’Israël: un soutien critique”, *Les Cahiers Bernard Lazare*, 51(June 1975). Reprinted in Écrits 522–532; translated as “Solidarity With Israel”, Marybeth Timmerman (trans.), in PolW: 314–323.
 
-[^ss-1976a]: 1976a, “Préface” to *Regards féminins*, by Anne Ophir, Collection Femmes, Paris: Denoël-Gonthier. Reprinted in Écrits: 577–579; translated as “Preface to Through Womens’ Eyes”, Marybeth Timmerman (trans.), in FemW: 253–255.
+[^beauvoir-1976a]: 1976a, “Préface” to *Regards féminins*, by Anne Ophir, Collection Femmes, Paris: Denoël-Gonthier. Reprinted in Écrits: 577–579; translated as “Preface to Through Womens’ Eyes”, Marybeth Timmerman (trans.), in FemW: 253–255.
 
-[^ss-1976b]: 1976b, “Quand toutes les femmes du monde…”, *Le nouvel observateur*, 1 March 1976, 52. Reprinted in Écrits: 566–567; translated as “When All The Women Of The World…”, Marybeth Timmerman (trans.), in *FemW*: 256–257.
+[^beauvoir-1976b]: 1976b, “Quand toutes les femmes du monde…”, *Le nouvel observateur*, 1 March 1976, 52. Reprinted in Écrits: 566–567; translated as “When All The Women Of The World…”, Marybeth Timmerman (trans.), in *FemW*: 256–257.
 
-[^ss-1976c]: 1976c, “Mon point de vue, par Simone de Beauvoir: une affaire scandaleuse”, *Marie Claire* 286, June, 6; translated as “My Point of View: An Outrageous Affair”, Debbie Mann and Marybeth Timmerman (trans.), in *FemW*: 258–259.
+[^beauvoir-1976c]: 1976c, “Mon point de vue, par Simone de Beauvoir: une affaire scandaleuse”, *Marie Claire* 286, June, 6; translated as “My Point of View: An Outrageous Affair”, Debbie Mann and Marybeth Timmerman (trans.), in *FemW*: 258–259.
 
-[^ss-1977a]: 1977a, “Préface”, to *Histoires du MLF*, by Annie de Pisan and Anne Tristan, Paris: Calmann-Lévy, 7–12; translated as “Preface to Stories from the French Women’s Liberation Movement”, Marybeth Timmerman (trans.), in *FemW*: 260–264.
+[^beauvoir-1977a]: 1977a, “Préface”, to *Histoires du MLF*, by Annie de Pisan and Anne Tristan, Paris: Calmann-Lévy, 7–12; translated as “Preface to Stories from the French Women’s Liberation Movement”, Marybeth Timmerman (trans.), in *FemW*: 260–264.
 
-[^ss-1977b]: 1977b, “Foreword” to *History: A Novel*, English translation of La Storia: Romanzo, by Elsa Morante, Franklin Center, PA: The Franklin Library, only a shortened version appeared here. Full version printed in Écrits: 580–582. Retranslated as “Foreword to History: A Novel”, Marybeth Timmerman (trans.), in *FemW*: 176–178.
+[^beauvoir-1977b]: 1977b, “Foreword” to *History: A Novel*, English translation of La Storia: Romanzo, by Elsa Morante, Franklin Center, PA: The Franklin Library, only a shortened version appeared here. Full version printed in Écrits: 580–582. Retranslated as “Foreword to History: A Novel”, Marybeth Timmerman (trans.), in *FemW*: 176–178.
 
-[^ss-1979a]: 1979a [1982], *Quand prime le spirituel*, Paris: Gallimard; translated as *When Things of The Spirit Come First: Five Early Tales*, Patrick O’Brian (trans.), New York: Pantheon Books, 1982.
+[^beauvoir-1979a]: 1979a [1982], *Quand prime le spirituel*, Paris: Gallimard; translated as *When Things of The Spirit Come First: Five Early Tales*, Patrick O’Brian (trans.), New York: Pantheon Books, 1982.
 
-[^ss-1979b]: 1979b, “Mon expérience d’écrivain (September 1966)”, in Écrits: 439–457.
+[^beauvoir-1979b]: 1979b, “Mon expérience d’écrivain (September 1966)”, in Écrits: 439–457.
 
-[^ss-1979c]: 1979c, “De l’urgence d’une loi antisexiste”, Le monde, 18–19 March, 1; translated as “The Urgency of an Anti-Sexist Law”, Marybeth Timmerman (trans.), in FemW: 265–267.
+[^beauvoir-1979c]: 1979c, “De l’urgence d’une loi antisexiste”, Le monde, 18–19 March, 1; translated as “The Urgency of an Anti-Sexist Law”, Marybeth Timmerman (trans.), in FemW: 265–267.
 
-[^ss-1979d]: 1979d, “Discours d’introduction”, given at a press conference of the International Committee for Women’s Rights, 15 March; translated as “Press Conference Of The International Committee For Women’s Rights”, Marybeth Timmerman (trans.), in *FemW*: 268–269.
+[^beauvoir-1979d]: 1979d, “Discours d’introduction”, given at a press conference of the International Committee for Women’s Rights, 15 March; translated as “Press Conference Of The International Committee For Women’s Rights”, Marybeth Timmerman (trans.), in *FemW*: 268–269.
 
-[^ss-1979e]: 1979e, *Les Écrits de Simone de Beauvoir*, Claude Francis and Fernande Gontier, Paris: Gallimard.
+[^beauvoir-1979e]: 1979e, *Les Écrits de Simone de Beauvoir*, Claude Francis and Fernande Gontier, Paris: Gallimard.
 
-[^ss-1981a]: 1981a [1984], *La Cérémonie des adieux, suivi de Entretiens avec Jean-Paul Sartre*, Août-Septembre 1974, Paris: Gallimard; translated as *Adieux: A Farewell to Sartre*, Patrick O’Brian (trans.), New York: Pantheon Books, 1984.
+[^beauvoir-1981a]: 1981a [1984], *La Cérémonie des adieux, suivi de Entretiens avec Jean-Paul Sartre*, Août-Septembre 1974, Paris: Gallimard; translated as *Adieux: A Farewell to Sartre*, Patrick O’Brian (trans.), New York: Pantheon Books, 1984.
 
-[^ss-1981b]: 1981b, “Foreword” to *Chroniques d’une imposture: du mouvement de libération des femmes à une marque commerciale*, Paris: l’Association Mouvement pour les Luttes Féministes; translated as “Forward to Deception Chronicles: From the Women’s Liberation Movement to a Commercial Trademark”, Marybeth Timmerman (trans.), in *FemW*: 270–272.
+[^beauvoir-1981b]: 1981b, “Foreword” to *Chroniques d’une imposture: du mouvement de libération des femmes à une marque commerciale*, Paris: l’Association Mouvement pour les Luttes Féministes; translated as “Forward to Deception Chronicles: From the Women’s Liberation Movement to a Commercial Trademark”, Marybeth Timmerman (trans.), in *FemW*: 270–272.
 
-[^ss-1983]: 1983, “La femme, la pub et la haine”, *Le monde*, Wednesday, 4 May, 1, 10; translated as “Women, Ads, and Hate”, Marybeth Timmerman (trans.), in *FemW*: 273–276.
+[^beauvoir-1983]: 1983, “La femme, la pub et la haine”, *Le monde*, Wednesday, 4 May, 1, 10; translated as “Women, Ads, and Hate”, Marybeth Timmerman (trans.), in *FemW*: 273–276.
 
-[^ss-1985]: 1985, “Préface”, in *Shoah*, Claude Lanzmann, Paris: Fayard; translated as “Preface to Shoah”, Marybeth Timmerman (trans.), in PolW: 324–328.
+[^beauvoir-1985]: 1985, “Préface”, in *Shoah*, Claude Lanzmann, Paris: Fayard; translated as “Preface to Shoah”, Marybeth Timmerman (trans.), in PolW: 324–328.
 
-[^ss-1986]: 1986, “Préface”, to *Mihloud*, anonymous, for the French publication, Aix-en-Provence: Alinea; translated as “Preface to Mihloud”, Lillian S. Robinson (trans.), in FemW: 282–285.
+[^beauvoir-1986]: 1986, “Préface”, to *Mihloud*, anonymous, for the French publication, Aix-en-Provence: Alinea; translated as “Preface to Mihloud”, Lillian S. Robinson (trans.), in FemW: 282–285.
 
-[^ss-1990]: 1990, *Lettres à Sartre*, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard; translated as *Letters to Sartre*, Quintin Hoare (trans.), New York: Arcade, 1991.
+[^beauvoir-1990]: 1990, *Lettres à Sartre*, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard; translated as *Letters to Sartre*, Quintin Hoare (trans.), New York: Arcade, 1991.
 
-[^ss-1998]: 1998, *A Transatlantic Love Affair: Letters to Nelson Algren*, Sylvie Le Bon de Beauvoir (ed.), New York: The New Press. Letters written in English.
+[^beauvoir-1998]: 1998, *A Transatlantic Love Affair: Letters to Nelson Algren*, Sylvie Le Bon de Beauvoir (ed.), New York: The New Press. Letters written in English.
 
 [^philw-2004]: [PhilW] 2004, *Philosophical Writings*, Margaret A. Simons (ed.) with Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
-[^philw-2006]: 2006, *Diary of a Philosophy Student: Volume 1, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press,
+[^beauvoir-2006]: 2006, *Diary of a Philosophy Student: Volume 1, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press,
 
-[^philw-2009]: 2009, *Wartime Diary*, Anne Deing Cordero (trans.), Sylvie Le Bon de Beauvoir, and Margaret Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+[^beauvoir-2009]: 2009, *Wartime Diary*, Anne Deing Cordero (trans.), Sylvie Le Bon de Beauvoir, and Margaret Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
 [^litw-2011]: [LitW] 2011, “The Useless Mouths” and Other Literary Writings, Margaret A. Simons, and Marybeth Timmerman (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
@@ -400,9 +420,9 @@ ambiguity | existentialism | feminist philosophy | feminist philosophy, approach
 
 [^femw-2015]: [FemW] 2015, *Feminist Writings*, M.A. Simons and M.B. Timmerman (eds.), Urbana, IL: University of Illinois Press.
 
-[^femw-2019]: 2019, *Diary of a Philosophy Student: Volume 2, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+[^beauvoir-2019]: 2019, *Diary of a Philosophy Student: Volume 2, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
-[^femw-2020]: 2020, *Les Inseparables*, Paris: L’Herne; translated as *Inseparable*, Sandra Smith (trans.), New York: Harper Collins, 2021.
+[^beauvoir-2020]: 2020, *Les Inseparables*, Paris: L’Herne; translated as *Inseparable*, Sandra Smith (trans.), New York: Harper Collins, 2021.
 
 [^alfonso-2005]: Alfonso, R. Rita, 2005, “Transatlantic Perspectives of Race: Beauvoir’s Phenomenology of ‘Race’ in *America Day by Day*”, *Philosophy Today*, 49(Supplement): 89–99. doi:10.5840/philtoday200549Supplement11
 

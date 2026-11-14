@@ -327,11 +327,11 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 [^works-1997]: [*Works*] *Collected Works of T.H. Green*, 5 vols., Peter P. Nicholson (ed.), Bristol: Thoemmes Press, 1997. Cited as *Works*. The first three volumes of Nicholson’s edition reprint Nettleship’s edition, the fourth volume contains the 1883 edition of the *Prolegomena to Ethics*, and the fifth volume contains additional unpublished essays, lectures, and selected correspondence.
 
-[^works-1874]: 1874–75, *The Philosophical Works of David Hume*, 4 vols., T.H. Green and T.H. Grose (eds), London: Longmans, Green, and Co. Green wrote the introductions to Hume’s *Treatise* in the first and second volumes. Green’s introductions to the *Treatise* are reprinted in *Works* I, 1–371, and its main themes are incorporated into Book I of Green’s *Prolegomena to Ethics*.
+[^green-1874]: 1874–75, *The Philosophical Works of David Hume*, 4 vols., T.H. Green and T.H. Grose (eds), London: Longmans, Green, and Co. Green wrote the introductions to Hume’s *Treatise* in the first and second volumes. Green’s introductions to the *Treatise* are reprinted in *Works* I, 1–371, and its main themes are incorporated into Book I of Green’s *Prolegomena to Ethics*.
 
-[^works-1881]: 1881, “Liberal Legislation and Freedom of Contract”. Originally published in 1881 and in *Works* III, 365–386. Cited as “Liberal Legislation.”
+[^green-1881]: 1881, “Liberal Legislation and Freedom of Contract”. Originally published in 1881 and in *Works* III, 365–386. Cited as “Liberal Legislation.”
 
-[^works-1882]: 1882, “Can There Be a Natural Science of Man?” *Mind*, original series, 7(25): 1–29, 7(26): 161–185, 7(27): 321–348. This three-part article appeared in the year of Green’s death and was incorporated into Book I of the *Prolegomena*. [doi:10.1093/mind/os-VII.25.1, doi:10.1093/mind/os-VII.26.161, doi:10.1093/mind/os-VII.27.321]
+[^green-1882]: 1882, “Can There Be a Natural Science of Man?” *Mind*, original series, 7(25): 1–29, 7(26): 161–185, 7(27): 321–348. This three-part article appeared in the year of Green’s death and was incorporated into Book I of the *Prolegomena*. [doi:10.1093/mind/os-VII.25.1, doi:10.1093/mind/os-VII.26.161, doi:10.1093/mind/os-VII.27.321]
 
 [^pe-1883]: [*PE*] 1883, *Prolegomena to Ethics*, A.C. Bradley (ed.), Oxford: Clarendon Press. Cited as *Prolegomena* or *PE*. The *Prolegomena* was published posthumously in 1883. A.C. Bradley edited Green’s unfinished manuscript and supplied a useful analytical table of contents. *The Prolegomena* was out of print for many years. It is reprinted in *Works* IV. A recent edition is T.H. Green, *Prolegomena to Ethics*, edited by D. Brink, Oxford: Clarendon Press, 2003, which follows Bradley’s 1883 edition and contains a substantial introduction.
 

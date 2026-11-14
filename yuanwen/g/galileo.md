@@ -231,15 +231,15 @@ Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier versions of th
 
 [^fredette-2000]: Fredette, Raymond (trans.), 2000, *De Motu Antiquiora*, Berlin: Max Planck Institute for the History of Science. [[available online]](http://echo.mpiwg-berlin.mpg.de/MPIWG:ZR79G89F)
 
-[^fredette-1600]: ca. 1600, *On Mechanics* (*Le Meccaniche*)
+[^galileo-1600]: ca. 1600, *On Mechanics* (*Le Meccaniche*)
 
 [^drake-1960]: Drake, Stillman (trans.) in Galilei, Galileo, 1960, *On Motion and On Mechanics*, Madison: University of Wisconsin Press.
 
-[^drake-1606]: 1606, *Operations of the Geometric and Military Compass* (*Le Operazioni del Compasso Geometrico e Militare*, Padua: Pietro Marinelli.)
+[^galileo-1606]: 1606, *Operations of the Geometric and Military Compass* (*Le Operazioni del Compasso Geometrico e Militare*, Padua: Pietro Marinelli.)
 
 [^drake-1978]: Drake, Stillman (trans.), 1978, *Operations of the Geometric and Military Compass*, Washington, D.C.: Smithsonian Institution.
 
-[^drake-1610]: 1610, *The Starry Messenger* (*Sidereus* *nuncius*, Venice: Thomas Baglioni.)
+[^galileo-1610]: 1610, *The Starry Messenger* (*Sidereus* *nuncius*, Venice: Thomas Baglioni.)
 
 [^van-1989]: Van Helden, Albert (trans.), 1989, *Sidereus Nuncius, or The Sidereal Messenger*, Chicago: University of Chicago Press; 2nd edition, 2016; reprinted, with facsimile of Library of Congress’s first edition and expository essays, in De Simone, Daniel, and John W. Hessler (eds.), 2013, *The Starry Messenger: From Doubt to Astonishment*, Washington, D.C.: Library of Congress/Levenger Press.
 
@@ -247,25 +247,25 @@ Thanks to Zvi Biener and Paolo Palmieri for commenting on earlier versions of th
 
 [^shea-2009]: Shea, William R. (trans.), 2009, *Galileo’s Sidereus Nuncius, or A Sidereal Message*, Sagamore Beach, MA: Science History Publications; 2nd revised printing, 2012.
 
-[^shea-1612]: 1612, *Discourse on Floating Bodies* (*Discorso* *intorno alle Cose che Stanno in su l’Acqua*, Florence: Cosimo Giunti.)
+[^galileo-1612]: 1612, *Discourse on Floating Bodies* (*Discorso* *intorno alle Cose che Stanno in su l’Acqua*, Florence: Cosimo Giunti.)
 
 [^drake-1984]: Drake, Stillman (trans.) in Drake, Stillman, 1984, *Cause, Experiment, and Science*, Chicago: Chicago University Press.
 
-[^drake-1613]: 1613, *Letters on the Sunspots* (*Istoria e Dimostrazioni intorno alle Macchie Solari*, Rome: Giacomo Mascardi.)
+[^galileo-1613]: 1613, *Letters on the Sunspots* (*Istoria e Dimostrazioni intorno alle Macchie Solari*, Rome: Giacomo Mascardi.)
 
 [^reeves-2010]: Reeves, Eileen, and Van Helden, Albert (trans.) in Galilei, Galileo, and Scheiner, Christoph 2010, *On Sunspots*, Chicago: University of Chicago Press.
 
-[^reeves-1623]: 1623, *The Assayer* (*Il Saggiatore*, Rome: Giacomo Mascardi.)
+[^galileo-1623]: 1623, *The Assayer* (*Il Saggiatore*, Rome: Giacomo Mascardi.)
 
 [^drake-1960-2]: Drake, Stillman (trans.), in Galilei, Galileo, Grassi, Horatio, Guiducci, Mario, and Kepler, Johannes, 1960, *The Controversy on the Comets of 1618*, Philadelphia: University of Pennsylvania Press.
 
-[^drake-1632]: 1632, *Dialogue Concerning the Two Chief World Systems* (*Dialogo sopra i Due Massimi Sistemi del Mondo*, Florence: Giovanni Batista Landini.)
+[^galileo-1632]: 1632, *Dialogue Concerning the Two Chief World Systems* (*Dialogo sopra i Due Massimi Sistemi del Mondo*, Florence: Giovanni Batista Landini.)
 
 [^drake-1967]: Drake, Stillman (trans.), 1967, *Dialogue Concerning the Two Chief World Systems*, Berkeley: University of California Press; reprinted 2001, New York: The Modern Library.
 
 [^davie-2022]: Davie, Mark (trans.), Shea, William R. (ed.), 2022, *Dialogue on the two Greatest World Systems*, Oxford: Oxford University Press.
 
-[^davie-1638]: 1638, *Discourses and Mathematical Demonstrations Concerning Two New Sciences* (*Discorsi* *e Dimostrazioni Matematiche intorno a Due Nuove Scienze*, Leiden: Elsevier.)
+[^galileo-1638]: 1638, *Discourses and Mathematical Demonstrations Concerning Two New Sciences* (*Discorsi* *e Dimostrazioni Matematiche intorno a Due Nuove Scienze*, Leiden: Elsevier.)
 
 [^crew-1954]: Crew, Henry, and de Salvio, Alfonso (trans.), 1954, *Dialogues Concerning Two New Sciences*, New York: Dover Publications. This inferior translation, first published in 1914, has been reprinted numerous times and is widely available.
 

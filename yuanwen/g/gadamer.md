@@ -128,10 +128,6 @@ Gadamer, Hans-Georg: aesthetics | Hartmann, Nicolai | Heidegger, Martin | hermen
 
 [^an-1997]: An extensive bibliography of Gadamer’s work, compiled by Richard E. Palmer, can be found in Hahn 1997, 555–602; see also Makita 1995.
 
-[^an-1985]: 1985–1995, *Gesammelte Werke*, 10 vols., Tübingen: J.C.B. Mohr; *Truth and Method* (*Wahrheit und Methode: Grundzüge einer philosophischen Hermeneutik*, 5th edn, 1975), is included as v.1; a list of contents for all 10 vols. is included in vol.10.
-
-[^an-1967]: 1967–1979, *Kleine Schriften*, 4 vols, Tübingen: Mohr.
-
 [^other-nd]: Other works not included in the *Gesammelte Werke* or *Kleine Schriften*:
 
 [^other-1971]: 1971, *Hegels Dialektik*, Tübingen: Mohr, English trans. Gadamer 1976b.
@@ -147,58 +143,6 @@ Gadamer, Hans-Georg: aesthetics | Hartmann, Nicolai | Heidegger, Martin | hermen
 [^other-1997a]: 1997a, *Der Anfang der Philosophie*, Stuttgart: Reclam, English trans. Gadamer 1998a
 
 [^other-2000]: 2000, *Hermeneutische Entwürfe*, Tübingen: Mohr Siebeck.
-
-[^other-1976b]: 1976b, *Hegel’s Dialectic: Five Hermeneutical Studies*, trans. by P. Christopher Smith (from Gadamer 1971), New Haven: Yale University Press.
-
-[^other-1976c]: 1976c, *Philosophical Hermeneutics*, ed. and trans. by David E. Linge, Berkeley: University of California Press; 2nd revised edition published as “30th Anniversary Edition”, 2008.
-
-[^other-1980]: 1980, *Dialogue and Dialectic: Eight Hermeneutical Studies on Plato*, trans. and ed. by P. Christopher Smith, New Haven: Yale University Press.
-
-[^other-1981]: 1981, *Reason in the Age of Science*, trans. by Frederick G. Lawrence, Cambridge, Mass.: MIT Press.
-
-[^other-1985]: 1985, *Philosophical Apprenticeships*, trans. by Robert R. Sullivan, Cambridge, Mass.: MIT Press.
-
-[^other-1986a]: 1986a, *The Idea of the Good in Platonic-Aristotelian Philosophy*, trans. P. Christopher Smith, New Haven: Yale University Press.
-
-[^other-1986b]: 1986b, *The Relevance of the Beautiful and Other Essays*, trans. by N. Walker, ed. by R. Bernasconi, Cambridge: Cambridge University Press.
-
-[^other-1989b]: 1989b, *Truth and Method*, 2nd rev. edn. (1st English edn, 1975, trans. by W, Glen-Doepel, ed. by John Cumming and Garret Barden), revised translation by J. Weinsheimer and D.G. Marshall, New York: Crossroad. [Since the appearance of the 2nd revised edition in 1989, *Truth and Method* has been republished in various formats by Continuum, and more recently Bloomsbury, without substantive change to the text, but unfortunately without maintaining any uniformity of pagination.]
-
-[^other-1991]: 1991, *Plato’s dialectical ethics: phenomenological interpretations relating to the “Philebus”*, trans. by R. M. Wallace, New Haven: Yale University Press.
-
-[^other-1992]: 1992, *Hans-Georg Gadamer on Education, Poetry and History: Applied Hermeneutics*, ed. by Dieter Misgeld and Graeme Nicholson, trans. by Lawrence Schmidt and Monica Ruess, Albany, NY: SUNY Press.
-
-[^other-1994a]: 1994a, *Heidegger’s ways*, trans. by John W. Staley, Albany, NY: SUNY Press.
-
-[^other-1994b]: 1994b, *Literature and Philosophy in Dialogue: Essays in German Literary Theory*, trans. By Robert H. Paslick, ed. by Dennis J. Schmidt, Albany, NY: SUNY Press.
-
-[^other-1996]: 1996, *The Enigma of Health: The Art of Healing in a Scientific Age*, trans. by John Gaiger and Nicholas Walker, Oxford: Polity Press.
-
-[^other-1997b]: 1997b, ‘Reflections on my Philosophical Journey’, trans. by Richard E. Palmer, in Hahn (ed.) 1997.
-
-[^other-1997c]: 1997c, *Gadamer on Celan: ‘Who Am I and Who Are You?’ and Other Essays*, trans. and ed. by Richard Heinemann and Bruce Krajewski, Albany, NY: SUNY Press.
-
-[^other-1998a]: 1998a, *The Beginning of Philosophy*, trans. by Rod Coltman, New York: Continuum.
-
-[^other-1998b]: 1998b, *Praise of Theory*, trans. by Chris Dawson, New Haven: Yale University Press.
-
-[^other-1999]: 1999, *Hermeneutics, Religion and Ethics*, trans. by Joel Weinsheimer, New Haven: Yale University Press.
-
-[^other-2001]: 2001, *Gadamer in Conversation*, trans. by Richard Palmer (from Gadamer 1993a), New Haven: Yale University Press.
-
-[^other-2002]: 2002, *The Beginning of Knowledge*, trans. by Rod Coltman, New York: Continuum.
-
-[^other-2003]: 2003, *A Century of Philosophy: a conversation with Ricardo Dottori*, trans. by Rod Coltman and Sigrid Koepke, New York: Continuum.
-
-[^other-2007]: 2007, *The Gadamer Reader: A Bouquet of the Later Writings* , ed. by Jean Grondin, trans. by Richard Palmer, Chicago: Northwestern University Press.
-
-[^other-2016]: 2016, *Hermeneutics between History and Philosophy: The Selected Writings of Hans-Georg Gadamer*, ed. Pol Vandevelde and Arun Iyer, London: Bloomsbury.
-
-[^other-2016-2]: 2016, with Jacques Derrida and Philippe Lacoue-Labarthe, *Heidegger, Philosophy, and Politics. The Heidelberg Conference*, trans. Mireille Calle-Gruber, ed. Jeff Fort, Fordham: Fordham University Press.
-
-[^other-2021]: 2021, ‘Music and Time’, trans. Cynthia R. Nielsen & David Liakos, *Epoché: A Journal for the History of Philosophy*, 26: 251–258.
-
-[^other-2022]: 2022, *Ethics, Aesthetics, and the Historical Dimension of Language: The Selected Writings of Hans-Georg Gadamer*, ed. Pol Vandevelde and Arun Iyer, London: Bloomsbury.
 
 [^aho-2022]: Aho, Kevin, 2022,‘Gadamer and Health’, George and van der Heiden (2022), pp. 177–187.
 

@@ -801,8 +801,6 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 
 [^wittgenstein-1953]: –––, 1953. *Philosophical Investigations*, New York: Macmillan.
 
-[^wittgenstein-nd]: A few helpful overviews of the history and basic subject matter of logic:
-
 [^kneale-1962]: Kneale, W. & Kneale, M., 1962, *The Development of Logic*, Oxford: Oxford University Press; reprinted 1984.
 
 [^sainsbury-1991]: Sainsbury, M., 1991, *Logical Forms*, Oxford: Blackwell.

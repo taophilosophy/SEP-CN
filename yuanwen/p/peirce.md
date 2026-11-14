@@ -265,6 +265,8 @@ Clearly, close study of the logical accomplishments of Peirce’s notable studen
 
 Aristotle, General Topics: logic | Hegel, Georg Wilhelm Friedrich | James, William | Kant, Immanuel | logic: classical | panpsychism | Peirce, Benjamin | Peirce, Charles Sanders: logic | Popper, Karl | Russell, Bertrand | universals: the medieval problem of | Whewell, William | Whitehead, Alfred North
 
+[^peirce-1873]: 1873 [1870], “Description of a Notation for the Logic of Relatives, Resulting from an Amplification of the Conceptions of Boole's Calculus of Logic,” *Memoirs of the American Academy of Arts and Sciences* (New Series), 9(2): 317–378. [[Peirce 1873 [1870] available online](https://www.jstor.org/stable/pdf/25058006.pdf)]
+
 [^collected-1931]: *Collected Papers of Charles Sanders Peirce* (**CP**), 8 volumes, edited by Charles Hartshorne, Paul Weiss, and Arthur W. Burks (Harvard University Press, Cambridge, Massachusetts, 1931–1958; volumes 1–6 edited by Charles Harteshorne and Paul Weiss, 1931–1935; vols. 7–8 edited by Arthur W. Burks, 1958).
 
 [^essential-1992]: *The Essential Peirce* (**EP**), 2 volumes, edited by Nathan Houser, Christian Kloesel, and the Peirce Edition Project (Indiana University Press, Bloomington, Indiana, 1992, 1998).

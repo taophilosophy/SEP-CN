@@ -324,26 +324,6 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^its-1879]: [ITS] 1879, [*Impressions of Theophrastus Such*](https://georgeeliotarchive.org/items/show/2), London/Edinburgh: William Blackwood and Sons.
 
-[^its-1852]: 1852 with John Chapman, “Prospectus of the Westminster and Foreign Quarterly Review, Under the Direction of New Editors”, *Westminster Review*, vol. 57, January 1852, London: John Chapman.
-
-[^its-1855a]: 1855a, “[Three Months in Weimar](https://georgeeliotarchive.org/items/show/85)”, *Fraser’s Magazine*, LI(June): 699–706.
-
-[^its-1855b]: 1855b, “[The Morality of Wilhelm Meister](https://georgeeliotarchive.org/items/show/89)”, *Leader*, VI(21 July 1855): 703.
-
-[^its-1855c]: 1855c, “[Margaret Fuller and Mary Wollstonecraft](https://georgeeliotarchive.org/items/show/94)”, *The Leader*, VI(290/13 October): 988–989.
-
-[^its-1855d]: 1855d, “[Belles Lettres](https://georgeeliotarchive.org/items/show/116)”, *Westminster Reivew*, LXIV(125/1 July): 288–307.
-
-[^its-1856a]: 1856a, “[Art and Belles Lettres](https://georgeeliotarchive.org/items/show/128)”, *Westminster Review*, LXV(128/1 April): 625–650.
-
-[^its-1856b]: 1856b, “[The Natural History of German Life](https://georgeeliotarchive.org/items/show/100)”, *Westminster Review*, LXVI(129/July): 51–79.
-
-[^its-1857]: 1857, “[Worldliness and Otherworldliness: The Poet Young](https://georgeeliotarchive.org/items/show/103)”, *Westminster Review*, LXVII(131/January): 1–42.
-
-[^its-1865]: 1865, “[The Influence of Rationalism](https://georgeeliotarchive.org/items/show/106)”, *Fortnightly Review*, I(1 August 1865): 43–55.
-
-[^its-1868]: 1868 [1963], “Notes on Form in Art” in *The Essays of George Eliot*, Thomas Pinney (ed.), London: Routledge and Kegan Paul, pp. 431–436.
-
 [^george-1954]: *The George Eliot Letters*. Nine volumes, edited by Gordon S. Haight, New Haven: Yale University Press, 1954–1978. (Cited as *Letters* followed by volume number).
 
 [^letters-1995]: *The Letters of George Henry Lewes*. Three volumes, edited by William Baker, Victoria BC: University of Victoria, 1995–1998. (Cited as *LGHL* followed by volume number).

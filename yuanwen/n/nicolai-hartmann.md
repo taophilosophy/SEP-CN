@@ -216,73 +216,7 @@ We thank Joachim Fischer, Eugene Kelly, and anonymous reviewers for their commen
 
 [^introductions-nd]: The chapters of various *Introductions* were referred to as “Intro”. For example, “NIntro5” and “N3c” refer to Section 5 of the Introduction and Chapter 3, Section c of the *Philosophy of Nature*.
 
-[^introductions-1908]: 1908, *Über das Seinsproblem in der griechischen Philosophie vor Plato*, Dissertation, Marburg.
-
-[^introductions-1909]: 1909, *Platos Logik des Seins*, Gießen: Töpelmann.
-
-[^introductions-1909-2]: 1909, *Des Proklus Diadochus philosophische Anfangsgründe der Mathematik*, Gießen: Töpelmann.
-
-[^introductions-1912]: 1912, *Philosophische Grundfragen der Biologie*, Vandenhoeck & Ruprecht, Göttingen.
-
-[^introductions-1912-2]: 1912, “Systematische Methode,” *Logos*, 3 (2): 121–163.
-
-[^introductions-1914]: 1914, “Über die Erkennbarkeit des Apriorischen,” *Logos*, 5 (3): 290–329.
-
-[^introductions-1921]: 1921, *Grundzüge einer Metaphysik der Erkenntnis*, Berlin-Leipzig: De Gruyter.
-
-[^introductions-1924]: 1924, “Wie ist kritische Ontologie überhaupt möglich?”, *Kleinere Schriften*, 3, Berlin: De Gruyter, 1958, 268–313.
-
-[^introductions-1923]: 1923–1929, *Die Philosophie des deutschen Idealismus. I: Fichte, Schelling und die Romantik*, *II: Hegel*, Berlin-Leipzig: De Gruyter.
-
-[^introductions-1926]: 1926, “Kategoriale Gesetze,” *Philosophischer Anzeiger*, 1: 201–266.
-
-[^introductions-1926-2]: 1926, *Ethik*, Berlin: De Gruyter.
-
-[^introductions-1931]: 1931, “Systematische Philosophie in eigener Darstellung,” H. Schwarz (ed.), *Deutsche systematische Philosophie nach ihren Gestaltern—Band I*, Berlin: Junker und Dünnhaupt, 283–340.
-
-[^introductions-1931-2]: 1931, *Zum Problem der Realitätsgegebenheit*, Pan-Verlagsgesellshcaft, Berlin.
-
-[^introductions-1933]: 1933, *Das Problem des geistigen Seins. Untersuchungen zur Grundlegung der Geschichtsphilosophie und der Geisteswissenschaften*, Berlin: De Gruyter.
-
-[^introductions-1935]: 1935, *Zur Grundlegung der Ontologie*, Berlin: De Gruyter.
-
-[^introductions-1938]: 1938, *Möglichkeit und Wircklichkeit*, Berlin: De Gruyter.
-
-[^introductions-1940]: 1940, *Der Aufbau der realen Welt. Grundriss der allgemeinen Kategorienlehre*, Berlin: De Gruyter.
-
-[^introductions-1940-2]: 1940, “Neue Ontologie in Deutschland,” in *Kleinere Schriften*, 1, Berlin: De Gruyter, 1955, 51–89.
-
-[^introductions-1941]: 1941, “Neue Anthropologie in Deutschland. Betrachtung zu Arnold Gehlens Werk: ‘Der Mensch. Seine Natur und seine Stellung in der Welt’,” *Blätter für deutsche Philosophie*, 15: 159–177.
-
-[^introductions-1943]: 1943, *Neue Wege der Ontologie*, in N. Hartmann, *Systematische Philosophie*, Stuttgart: Kohlhammer, 199–311.
-
-[^introductions-1944]: 1944, “Naturphilosophie und Anthropologie,” *Blätter für deutsche Philosophie*, 18: 1–39.
-
-[^introductions-1950]: 1950, *Philosophie der Natur. Abriss der speziellen Kategorienlehre*, Berlin: De Gruyter.
-
-[^introductions-1953]: 1953, *Ästhetik*, Berlin: De Gruyter.
-
 [^for-nd]: For a complete list, see the [Bibliography of Hartmann’s Publications](http://nicolaihartmannsociety.org/hartmanns-works/) at the Nicolai Hartmann Society.
-
-[^for-1932]: 1932, *Ethics*, 3 vols., London: George Allen & Unwin; reprinted with new *Introductions*, by A. A. Kinneging, Transaction Press, 2002–2004.
-
-[^for-1949]: 1949, “German Philosophy in the Last Ten Years”, *Mind*, 58: 413–433 (originally published in English).
-
-[^for-1953]: 1953, *New Ways of Ontology*, Chicago: Henry Regnery Co; reprinted Westport: Greenwood Press, 1975; New Brunswick: Transaction Publishers, 2012.
-
-[^for-2012]: 2012, “How is Critical Ontology Possible?”, *Axiomathes*, 22 (3): 315–354.
-
-[^for-2013]: 2013, *Possibility and Actuality*, Berlin: De Gruyter.
-
-[^for-2014]: 2014, *Aesthetics*, Berlin: De Gruyter.
-
-[^for-2017]: 2017, “The Megarian and the Aristotelian Concept of Possibility: A Contribution to the History of the Ontological Problem of Modality,” *Axiomathes*, 27: 209–223.
-
-[^for-2018]: 2018, “Husserl’s Jahrbuch,” unpublished ms., [available online](http://web.colby.edu/krpeters/files/2019/10/Peterson-Hartmann-Review-of-the-Jahrbuch_1914_rev.pdf).
-
-[^for-2019a]: 2019a, *Ontology: Laying the Foundations*, Berlin: De Gruyter.
-
-[^for-2019b]: 2019b, “Max Scheler,” in Kalckreuth et al. (eds.), 2019, *Nicolai Hartmanns neue Ontologie und die philosophische Anthropologie*, Berlin: De Gruyter, 263–271.
 
 [^beiser-2014]: Beiser, F., 2014, *After Hegel: German Philosophy 1840–1900*, New York: Oxford.
 
