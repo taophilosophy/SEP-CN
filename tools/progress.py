@@ -15,8 +15,8 @@ from datetime import datetime, timezone
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATES = ["pending", "cleared", "drafted", "s1_checked", "s2_checked", "s3_checked",
-          "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"]
+STATES = ["pending", "cleared", "drafted", "s1_checked", "s2_checked", "audited",
+          "s3_checked", "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"]
 
 
 def unescape(t):
