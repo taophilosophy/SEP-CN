@@ -2,7 +2,7 @@
 
 *首次发表于 2024 年 3 月 6 日。*
 
-［编者注：本词条取代原词条“布拉德雷的道德与政治哲学”，并包含其材料。］
+（编者注：本词条取代原词条“布拉德雷的道德与政治哲学”，并包含其材料。）
 
 F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其中丰富而研究不足的材料，不仅对哲学史，而且对当代规范伦理学与元伦理学（尤其是道德心理学）都大有可贡献之处。所幸，在被忽视一段时期之后，布拉德雷伦理学重新引起兴趣。人们正尝试重构和重新解释他的思想，使之在当前争论中获得应有位置。
 
@@ -32,7 +32,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 > “我的岗位及其职责”这一概念是布拉德雷道德理论的核心。最后两篇……致力于进一步阐发这一概念……（Warnock 1960: 12）[^warnock-1960]
 
-这导致一种可称为“附加条款”的看法：按此，布拉德雷在承认“我的岗位及其职责”理论的局限之后，**大体** 接受它，只作了 **某些** 修正或 **补充**，并在第六篇中加以描述（cf., e.g., Wollheim 1969: 246–47; Candlish 1978: 163–4; Nicholson 1990: 33–5; Mander 2011: 190–1）[^candlish-1978][^mander-2011][^nicholson-1990][^wollheim-1969]。结果是，理想道德与道德理想这两个概念在全书结构中被赋予较小的角色，被视为社会要求的补充，或当社会规范变得腐败时的退守之处。这种对布拉德雷的解释正受到挑战。例如，Babushkina（2019）论证说，这种关于布拉德雷理想道德理论的“附加条款”看法是有问题的，因为它大大低估了布拉德雷在第五、六篇中对黑格尔式“我的岗位及其职责”理论所提反对意见的严重性。但即便撇开这一点，假如我们接受“附加条款”解释，仍不清楚这种补充如何能使“我的岗位及其职责”理论作为 **一种道德理论** 而可信。于是并不奇怪：在接受这种《伦理学研究》读法时，有些学者干脆抛弃了布拉德雷的道德理论（Brink 2003; Banchetti 1992; Bell 1984; Norman 1983; Daly 1963）[^banchetti-1992][^bell-1984][^brink-2003][^daly-1963][^norman-1983]。
+这导致一种可称为“附加条款”的看法：按此，布拉德雷在承认“我的岗位及其职责”理论的局限之后，**大体** 接受它，只作了 **某些** 修正或 **补充**，并在第六篇中加以描述（参见，例如 Wollheim 1969: 246–47; Candlish 1978: 163–4; Nicholson 1990: 33–5; Mander 2011: 190–1）[^candlish-1978][^mander-2011][^nicholson-1990][^wollheim-1969]。结果是，理想道德与道德理想这两个概念在全书结构中被赋予较小的角色，被视为社会要求的补充，或当社会规范变得腐败时的退守之处。这种对布拉德雷的解释正受到挑战。例如，Babushkina（2019）论证说，这种关于布拉德雷理想道德理论的“附加条款”看法是有问题的，因为它大大低估了布拉德雷在第五、六篇中对黑格尔式“我的岗位及其职责”理论所提反对意见的严重性。但即便撇开这一点，假如我们接受“附加条款”解释，仍不清楚这种补充如何能使“我的岗位及其职责”理论作为 **一种道德理论** 而可信。于是并不奇怪：在接受这种《伦理学研究》读法时，有些学者干脆抛弃了布拉德雷的道德理论（Brink 2003; Banchetti 1992; Bell 1984; Norman 1983; Daly 1963）[^banchetti-1992][^bell-1984][^brink-2003][^daly-1963][^norman-1983]。
 
 围绕“我的岗位及其职责”这一概念产生混乱的一个原因，是该表述在《伦理学研究》中所附带的含义多重，以及布拉德雷文风的晦涩。正如 Babushkina（2019）所指出的，流行的“附加条款”解释未能顾及“我的岗位及其职责”在以下三者之间的区分：
 
@@ -68,11 +68,11 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 作为指导行动的原则，它预设道德自我与“我的道德自我”之间存在区分。当行动者从道德观点反思自己的信念、欲望、承诺与行动时，她反思的正是自己的道德自我。它是道德评价的主客两体；是责任的承担者、责备与赞扬的对象。我的道德自我会变：随着时间推移，我可能变得比现在更好或更坏。我的道德自我不等同于你的道德自我，因为我们作决定并行动时所处的具体生活与境况不同。然而，我的道德自我与你的道德自我之所以都能被视为道德自我，理由相同。道德自我是可普遍化原则的另一面——是那个无论一个人生活境况如何、任何道德义务都适用于其上的“我”。用布拉德雷自己的话说：
 
-> 我把我的行动称为普遍意志的实现，因为另一个人处于我的情形中……必定会像我一样行动，并且会被命令如此行动。（《杂记［约 1874–5］》，Bradley 1999: Vol. 1, p. 244）
+> 我把我的行动称为普遍意志的实现，因为另一个人处于我的情形中……必定会像我一样行动，并且会被命令如此行动。（《杂记［约 1874–5］》，Bradley 1999：第 1 卷，第 244 页）
 
 他接着说：
 
-> 道德意识因而假定自己在一切人身上是同一的。［……］优越的意志……命令各个别的行动，只要“个人”意指私人自我，这些行动就是不分个人的目的。（《杂记［约 1874–5］》，Bradley 1999: Vol.1, p. 245）
+> 道德意识因而假定自己在一切人身上是同一的。［……］优越的意志……命令各个别的行动，只要“个人”意指私人自我，这些行动就是不分个人的目的。（《杂记［约 1874–5］》，Bradley 1999：第 1 卷，第 245 页）
 
 就此而言，道德自我是空无内容的。它是一条抽象原则。布拉德雷的自我实现概念在某种意义上回答了如下问题：这条抽象原则如何被具体化、成为一个具体个体的道德生活；任何人如何可能真正拥有一个 **道德的**（而非经验的）自我。答案在于我们的行动与我们之所是之间的联系：作为道德行动者，我们无法把自己与自己的行动方式分开。正如 MacNiven 所说：“在行动中……我们创造了自己”（MacNiven 1987: 50）[^macniven-1987]。布拉德雷非常关注道德行动的心理机制（包括欲望、意愿、意动、信念），目的是解释这一联系，从而解释我们如何通过行动把自己创造为道德行动者。Sprigge 则通过另一个复杂且有争议的术语——具体的普遍——来解释自我实现：
 
@@ -86,7 +86,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 早在 E. 安斯康姆（1957）之前，布拉德雷就用“适应方向”的隐喻描述了欲望与信念的差异（Mander 2016; Brink 2003）[^brink-2003][^mander-2016]。在理论追求中，布拉德雷说，我们的目标是理解对象；我们既不想移除也不想改变感性事实的世界，而是想把握其真理。整个科学都理所当然地假定“非我们自身者”确实可理解；它随这一假定而立，也随其而倒。只要我们的理论在心灵看来仍是陌生异己的，我们就说自己尚未发现真理；我们感到有超越的冲动，不断修改自己的看法，直到把它们看作一个融贯的整体。但涉及行动时，我们的目标不是让既定者保持原样去发现其真理，而是“在实践中……我们想让感性事实符合我们自身的真理”（《伦理学研究》第二篇［1962: 73］）。
 
-这呈现出两类很不相同的意向性心理状态。在经验知识的情形中，我们有一个处于“相信关于世界某事为真”这一心理状态的主体；她的信念具有一个命题对象，用布拉德雷的说法，即其 **内容**。由于目标是正确理解世界，主体致力于修改自己的信念集，直到它准确表征外部物理世界。相反，当我渴望成为更好的人时，我必须先以某种描述表征我希望成为的自我或人格。这类心理状态也有命题对象；例如在“我希望 **我是一个更有耐心的人**”这句话中，“that”后面那个斜体命题就是我们所谓希望这一心理状态的对象。用布拉德雷的术语，这里拥有的是一个 **理想** 对象，它是希望之 **内容**。它之所以是理想的，因为它是关于一种在希望之际并不存在的事态的心理表征。
+这呈现出两类很不相同的意向性心理状态。在经验知识的情形中，我们有一个处于“相信关于世界某事为真”这一心理状态的主体；她的信念具有一个命题对象，用布拉德雷的说法，即其 **内容**。由于目标是正确理解世界，主体致力于修改自己的信念集，直到它准确表征外部物理世界。相反，当我渴望成为更好的人时，我必须先以某种描述表征我希望成为的自我或人格。这类心理状态也有命题对象；例如在“我希望 **我是一个更有耐心的人**”这句话中，句中斜体标出的那个命题就是我们所谓希望这一心理状态的对象。用布拉德雷的术语，这里拥有的是一个 **理想** 对象，它是希望之 **内容**。它之所以是理想的，因为它是关于一种在希望之际并不存在的事态的心理表征。
 
 理想对象可以表征行动者沉思中的另一种可能状态；这除了要求表征可能未来状态的能力之外，还预设一定程度上的自我意识。这类自我意识的一个例子是成瘾者，他可能非常清楚自己的欲望正在如何毁掉自己的生活。一旦达到这种自我反思的意识，就有可能想到改变。用布拉德雷的话说，这个成瘾者已经描绘了一个他可能成为的更好的自我；如果他进而把满足与实现这个更好的自我相等同，就有了改变的可能。这一处境在成瘾者当下实际所是与他想成为的被表征的更好人格之间造成冲突，从而产生不和谐，或布拉德雷常说的“感受到的矛盾”。这种冲突的痛苦推动个体去解决它。值得注意的是，成瘾者若没有确定的理想对象、没有对所表征理想自我的明确构想，就无法前进。没有它，把满足与实现那一状态相等同便不可能。布拉德雷写道：
 
@@ -196,9 +196,9 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^ethical-1876]: *Ethical Studies*, Oxford: Clarendon, 1876; second edition revised, 1927; paperback second edition, with a new introduction by Richard Wollheim, 1962. [[*Ethical Studies*, second edition, available online](https://archive.org/details/ethicalstudies0000brad/page/n5/mode/2up)]
 
-[^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.]
+[^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.)
 
-[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. Volumes 1–5 include previously unpublished materials from Bradley’s archives, while volumes 6–12 are reprinted works. Includes Volumes 1–5, edited by Carol A. Keene Volume 1: 1865–1882: A Pluralistic Approach to Philosophy (unpublished material) Volume 2: 1883–1902: A Focus on Metaphysics and Psychology (unpublished material) Volume 3: 1903–1924: Refinement and Revision (unpublished material) Volume 4: Selected Correspondence, June 1872 – December 1904 Volume 5: Selected Correspondence, January 1905 – June 1924 Volumes 6–12, edited by William J. Mander Volume 6: “F.H. Bradley: Towards a Portrait” (1961), “Ethical Studies” (1927) Volume 7: “The Principles of Logic”, vol. 1(1928) Volume 8: “The Principles of Logic”, vol. 2 (1928) Volume 9: “Appearance ana Reality” (1930) Volume 10: “Essays on Truth and Reality” (1914) Volume11: “Collected Essays”, vol. 1(1935) Volume 12: “Collected Essays”, vol. 2 (1935), “Aphorisms” (1930), “A Note on Christian Morality” (1983), “A Personal Explanation” (1894), “Rational Hedonism” (1895)
+[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. Volumes 1–5 include previously unpublished materials from Bradley’s archives, while volumes 6–12 are reprinted works. Includes Volumes 1–5, edited by Carol A. Keene Volume 1: 1865–1882: A Pluralistic Approach to Philosophy (unpublished material) Volume 2: 1883–1902: A Focus on Metaphysics and Psychology (unpublished material) Volume 3: 1903–1924: Refinement and Revision (unpublished material) Volume 4: Selected Correspondence, June 1872 – December 1904 Volume 5: Selected Correspondence, January 1905 – June 1924 Volumes 6–12, edited by William J. Mander Volume 6: “F.H. Bradley: Towards a Portrait” (1961), “Ethical Studies” (1927) Volume 7: “The Principles of Logic”, vol. 1(1928) Volume 8: “The Principles of Logic”, vol. 2 (1928) Volume 9: “Appearance and Reality” (1930) Volume 10: “Essays on Truth and Reality” (1914) Volume 11: “Collected Essays”, vol. 1(1935) Volume 12: “Collected Essays”, vol. 2 (1935), “Aphorisms” (1930), “A Note on Christian Morality” (1983), “A Personal Explanation” (1894), “Rational Hedonism” (1895)
 
 [^airaksinen-2012]: Airaksinen, Timo, 2012, “Desire and Happiness”, *Homo Oeconomicus*, 29(3): 393–412.
 
@@ -246,7 +246,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^green-1883]: Green, Thomas Hill, 1883, *Prolegomena to Ethics*, Andrew Cecil Bradley (ed.), Oxford: Clarendon Press, published posthumously.
 
-[^hegel-1807]: Hegel, Georg Wilhelm Friedrich, 1807 [1977], *Phänomenologie des Geistes*, Bamberg und Würzburg: Goebbardt. Translated as *Phenomenology of Spirit*, Arnold V. Miller (trans.), Oxford: Clarendon Press, 1977.
+[^hegel-1807]: Hegel, Georg Wilhelm Friedrich, 1807 [1977], *Phänomenologie des Geistes*, Bamberg und Würzburg: Goebhardt. Translated as *Phenomenology of Spirit*, Arnold V. Miller (trans.), Oxford: Clarendon Press, 1977.
 
 [^hudson-1980]: Hudson, W.D., 1980, *A Century of Moral Philosophy*, Guildford and London: Lutterworth Press.
 
@@ -262,7 +262,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^keene-2009]: –––, 2009, “The Interplay of Bradley’s Social and Moral Philosophy”, in William Sweet (ed.), *The Moral, Social and Political Philosophy of the British Idealists*, Exeter and Charlottesville: Imprint Press, 87–110.
 
-[^krook-1959]: Krook, Dorothea, 1959, *Three Traditions of Moral Thought*, Cambridge:: Cambridge University Press.
+[^krook-1959]: Krook, Dorothea, 1959, *Three Traditions of Moral Thought*, Cambridge: Cambridge University Press.
 
 [^macintyre-1966]: MacIntyre, Alasdair C., 1966 [1998], *A Short History of Ethics*, (Fields of Philosophy), New York: Macmillan. Second edition as *A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century*, London: Routledge.
 
@@ -304,7 +304,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^sabine-1915]: Sabine, George H., 1915, “The Social Origin of Absolute Idealism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(7): 169–177. doi:10.2307/2013244
 
-[^santayana-1933]: Santayana George, 1933, *Some Turns of Thought in Modern Philosophy*, London: Cambridge University Press.
+[^santayana-1933]: Santayana, George, 1933, *Some Turns of Thought in Modern Philosophy*, London: Cambridge University Press.
 
 [^sidgwick-1874]: Sidgwick, Henry, 1874, *The Methods of Ethics*, London: Macmillan.
 
@@ -334,7 +334,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^wilson-1999]: Wilson, Fred, 1999, “The Significance for Psychology of Bradley’s Humean View of the Self”, *Bradley Studies*, 5(1): 5–44. doi:10.5840/bradley1999512
 
-[^wollheim-1969]: Wollheim, Richard, 1969, *F. H. Bradley*, Harmondsworth and Baltimore: Penguin; fFirst published, 1959.
+[^wollheim-1969]: Wollheim, Richard, 1969, *F. H. Bradley*, Harmondsworth and Baltimore: Penguin; First published, 1959.
 
 [^wollheim-1993]: –––, 1993, *The Mind and Its Depths*, Cambridge, MA: Harvard University Press.
 
