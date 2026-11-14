@@ -80,7 +80,7 @@
 
 在深入研究阿尔伯特伦理学的学者之间，可以看到若干共识正在形成（尤其见 Müller 2001 与 Cuningham 2008）[^müller-2001]。第一，在传统神学家仍支配高等学府伦理学领域的时代（须注意，这些神学家至多把哲学家的投入视为次要），阿尔伯特试图把对道德事务的纯理性或哲学探究本身呈现为有价值的。阿尔伯特在其《尼各马可伦理学》注疏序言中（*Super Ethica*, prologus, 2; *Ethica*, I, 1, 2）率先努力表明：伦理学可以成为亚里士多德在《后分析篇》中所定义的那种科学；他大体依循亚里士多德对德性的分析；他有力论证：亚里士多德关于由德性活动之生活带来的尘世幸福的理解，与基督教信仰——真正幸福只会在来世来自上帝——并不紧张（*Super IV libros Sententiarum*, IV, 49, 7, p.678b）。这些是阿尔伯特使哲学伦理学合法化的尝试的一些要素。阿尔伯特也明确表示：尽管亚里士多德有其局限、且是异教徒，他仍把亚里士多德视为哲学家或理性思想家应当如何进达伦理学主要问题的典范。也许正因他更认真地对待亚里士多德，他对亚里士多德的理解似乎比多数前辈更深（Celano 2006）[^celano-2006]；而在他之后出现的严肃道德哲学家——如阿奎那或达契亚的波伊修斯——都以某种方式受阿尔伯特所做工作的影响。
 
-阿尔伯特道德思想的另一项根本贡献或特征，如今正受到更多强调，尤其随着其第二部《尼各马可伦理学》注疏成为更多研究的对象。阿尔伯特——更确切地说成熟的阿尔伯特——如今常与一种更理智主义的、可谓形而上学的幸福观联系在一起（Müller 2009）[^müller-2009]。这通常被视为法拉比、阿维森纳、阿威罗伊等阿拉伯哲学家对他影响的结果，并在小程度上使他离开早期较纯粹的伦理亚里士多德主义，走向许多阿拉伯哲学背后的新柏拉图主义。阿尔伯特似乎很早就主张：（尘世）幸福的最高形式在于形而上学家对最高实在的沉思，而这种沉思由道德上德性完善、秩序良好的生活以及终生从事植根于感官经验的理性世界研究所产生。然而，他在中期与晚期著作中似乎又推进一步，反复用其阿拉伯来源的典型词汇声称：这种沉思是“获得性理智”即 *intellectus adeptus* 的活动（*Ethica*, X, 2, 4, p. 632a）。这对应于灵魂的一种状态：人的能动理智把普遍形式从质料中分离出来，从而揭示它们作为神圣理智流溢而本具的可理解性；它不仅激活我们的理解能力并在这样做时与之结合，而且如此持续、完善地激活它，以致成为人的形式，就其在定义人之所以为人的活动中使人完善而言（*De anima*, III, 3, 11）。这种在对一切可理解形式的理解中的完善状态，在对分离实体的沉思中达到顶点，并由理智直观行为构成；这些行为一经达到，便独立于感官知觉与想象而施行（*Ethica*, VI, 2, 17, p.430a; *De anima*, III, 2, 19, p.206, l.49–54）——而阿尔伯特早先曾主张，自然理性在此生不可能做到这一点（*Super Ethica*, I, 13, 80, p.71, l.91–p.72, l.6; X, 13, 906, p.759, l.29–38）。道德德性有时似乎被化约为沉思生活的前提条件：它们不仅节制、而且更彻底地使主体摆脱其兽性一面与情欲，以免扰乱其理智（*Ethica*, X, 2, 3, p.627b; *Super Ethica*, X, 12, 903, p.757, l.21–25, and 904, p.757, l.50–64），“由此他变得有些像一位神”（*De anima*, III, 3, 11, p.222, l.80–84）。这种沉思本身是对来世回归并与上帝结合的准备与预尝——那是必死之人真正的终极目的；然而哲学对此所言甚少（*Super Ethica*, I, 3, 19, p.17, 52–55）。
+阿尔伯特道德思想的另一项根本贡献或特征，如今正受到更多强调，尤其随着其第二部《尼各马可伦理学》注疏成为更多研究的对象。阿尔伯特——更确切地说成熟的阿尔伯特——如今常与一种更理智主义的、可谓形而上学的幸福观联系在一起（Müller 2009）[^müller-2009]。这通常被视为法尔法拉比、阿维森纳、阿威罗伊等阿拉伯哲学家对他影响的结果，并在小程度上使他离开早期较纯粹的伦理亚里士多德主义，走向许多阿拉伯哲学背后的新柏拉图主义。阿尔伯特似乎很早就主张：（尘世）幸福的最高形式在于形而上学家对最高实在的沉思，而这种沉思由道德上德性完善、秩序良好的生活以及终生从事植根于感官经验的理性世界研究所产生。然而，他在中期与晚期著作中似乎又推进一步，反复用其阿拉伯来源的典型词汇声称：这种沉思是“获得性理智”即 *intellectus adeptus* 的活动（*Ethica*, X, 2, 4, p. 632a）。这对应于灵魂的一种状态：人的能动理智把普遍形式从质料中分离出来，从而揭示它们作为神圣理智流溢而本具的可理解性；它不仅激活我们的理解能力并在这样做时与之结合，而且如此持续、完善地激活它，以致成为人的形式，就其在定义人之所以为人的活动中使人完善而言（*De anima*, III, 3, 11）。这种在对一切可理解形式的理解中的完善状态，在对分离实体的沉思中达到顶点，并由理智直观行为构成；这些行为一经达到，便独立于感官知觉与想象而施行（*Ethica*, VI, 2, 17, p.430a; *De anima*, III, 2, 19, p.206, l.49–54）——而阿尔伯特早先曾主张，自然理性在此生不可能做到这一点（*Super Ethica*, I, 13, 80, p.71, l.91–p.72, l.6; X, 13, 906, p.759, l.29–38）。道德德性有时似乎被化约为沉思生活的前提条件：它们不仅节制、而且更彻底地使主体摆脱其兽性一面与情欲，以免扰乱其理智（*Ethica*, X, 2, 3, p.627b; *Super Ethica*, X, 12, 903, p.757, l.21–25, and 904, p.757, l.50–64），“由此他变得有些像一位神”（*De anima*, III, 3, 11, p.222, l.80–84）。这种沉思本身是对来世回归并与上帝结合的准备与预尝——那是必死之人真正的终极目的；然而哲学对此所言甚少（*Super Ethica*, I, 3, 19, p.17, 52–55）。
 
 阿尔伯特的道德思想极大影响了他的政治哲学；在这一领域，他再次扮演开路者角色，是拉丁西方第一个注疏亚里士多德新近译出的《政治学》的人。无疑，阿尔伯特赞同这位斯塔基拉人政治哲学的主要主张：政治社会的自然性及其对人类善的必要性，伦理与政治不可分离，以及不同统治类型（一人、少数人或多数人）依情境而可接受。社会的政治结构自然地朝向公民的共同善，这要求确保秩序、和平、充足的物质财富、德性习惯与闲暇。然而在阿尔伯特看来，一个治理良好的社会所促成的事情中，首要者正是上述对最高事物的沉思；它似乎也是政体的终极目的。因此，这种沉思性福乐在政治哲学中扮演第一原则的角色，而这一原则由伦理学提供（*Super Ethica*, I, 7, 35, p.32, l.74–p.33, l.15; X, 19, 947, p.789, l.50–p.790, l.15; *Ethica*, I, 9, 1, p.140a）。
 
@@ -94,7 +94,7 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-[^there-nd]: 阿尔伯特的著作共有三部全集刊本：
+[^there-nd]: There exist three comprehensive editions of Albert’s works:
 
 [^opera-1651]: • *Opera omnia*, ed. P. Jammy, Lyon: Claude Prost, 1651
 
@@ -102,9 +102,9 @@
 
 [^opera-1951]: • *Opera omnia*, ed. B. Geyer (and his successors over time), Münster: Aschendorff, 1951–ongoing
 
-[^albertus-magnus-institut-nd]: 第二版大体以第一版为基础；只有第三版——由波恩的阿尔伯特-马格努斯研究所主持，因该所最初设于科隆而被称作《科隆版》（*Editio Coloniensis*）——是校勘本，且不收伪作。全部完成后将收齐现存全部著作。在该版完成之前，巴黎版（*Editio Parisiensis*）的若干卷与近两个世纪单独校勘的少数著作仍不可替代。
+[^albertus-magnus-institut-nd]: The second edition is largely based on the first one, and only the third one, led by the Albertus-Magnus-Institut in Bonn and nicknamed *Editio Coloniensis* because the Institut was initially located in Cologne, is a critical edition and contains no spurious works. It will include all extant works when completed. While we await said completion, some volumes from the Paris edition (*Editio Parisiensis*) and a few works edited individually in the last two centuries remain essential.
 
-[^given-nd]: 鉴于阿尔伯特现存著作数量极为庞大，下表只列出其最具哲学意义的部分著作，其中包括少数总体属神学但充满哲学区分与展开的著作。（欲得真正详尽的著作、版本与译本清单，见下文“其他网络资源”。） Works are here named as and listed in the order in which the Institut has edited or plans to edit them, even when only another edition is available for now. Full English translations of the listed works are also mentioned.
+[^given-nd]: Given the exceptionally high number of Albert’s extant works, the following is a list of only some of his most philosophically significant writings, which includes a few whose general intention is theological but which are filled with philosophical distinctions and developments. (For a truly exhaustive list of Albert’s works and editions and translations thereof, see Other Internet Resources, below.) Works are here named as and listed in the order in which the Institut has edited or plans to edit them, even when only another edition is available for now. Full English translations of the listed works are also mentioned.
 
 [^de-nd]: *De praedicamentis* (Editio Coloniensis, tomus I, pars IB): paraphrastic commentary on Aristotle’s *Categories*
 
@@ -228,7 +228,7 @@
 
 [^michaud-quentin-1966]: Michaud-Quentin, P., 1966, *La psychologie de l’activité chez Albert le Grand*, Paris: Vrin.
 
-[^molland-1980]: Molland, A. G., 1980, “Mathematics in the Thought of Albertus Magnus,” in J. Weisheipl (ed.) 1980: 463–478.
+[^molland-1980]: Molland, A. G., 1980, “’Mathematics in the Thought of Albertus Magnus,” in J. Weisheipl (ed.) 1980: 463–478.
 
 [^müller-2001]: Müller, J., 2001, *Natürliche Moral und philosophische Ethik bei Albertus Magnus*, Münster: Aschendorff.
 
@@ -246,7 +246,7 @@
 
 [^sturlese-2017]: Sturlese, L., 2017, “§ 28. Albert der Große,” in A. Brungs, V. Mudroch and P. Schulthess (eds.), *Die Philosophie des Mittelalters. Band 4: 13. Jahrhundert*, Basel: Schwabe, 2017, 861–886.
 
-[^tracey-1999]: Tracey, M., 1999, *The Character of Aristotle’s Nicomachean Teaching in Albert the Great’s Super Ethica Commentum et Quaestiones (1250–1252)*, doctoral dissertation, Notre Dame, Indiana: University of Notre Dame.
+[^tracey-1999]: Tracey, M., 1999, *The Character of Aristotle’s Nicomachean Teaching in Albert the Great’s Super* *Ethica Commentum et Quaestiones (1250–1252)*, doctoral dissertation, Notre Dame, Indiana: University of Notre Dame.
 
 [^tremblay-2007]: Tremblay, B., 2007, “Nécessité, nature et rôle de l’art logique, d’après Albert le Grand,” *Bochumer philosophisches Jahrbuch für Antike und Mittelalter*, 12: 97–156.
 
@@ -269,7 +269,7 @@
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=albert-great)。
 * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/albert-great/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=albert-great&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/albert-great/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
