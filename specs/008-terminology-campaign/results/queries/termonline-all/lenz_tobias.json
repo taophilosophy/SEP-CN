@@ -2,10 +2,347 @@
  "key": "lenz, tobias",
  "term": "Lenz, Tobias",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:18+00:00",
- "status": "error",
- "note": "variant=Lenz, Tobias; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lenz, Tobias: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:22:31+00:00",
+ "status": "ok",
+ "note": "variant=Lenz, Tobias; 审定公布名词库=593; 海峡两岸名词对照库=226; 其他来源数据库=12; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "吐氏酸",
+   "en": "Tobias acid",
+   "code": "02.0311",
+   "standard": "精细化工名词",
+   "subject": "精细化工_中间体"
+  },
+  {
+   "cn": "切纳尼-伦斯并指/趾",
+   "en": "Cenani-Lenz syndactylism",
+   "code": "5.185",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "楞次定律",
+   "en": "Lenz's law",
+   "code": "01.129",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "楞次定律",
+   "en": "Lenz's law",
+   "code": "03.0562",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "楞次定律",
+   "en": "Lenz's law",
+   "code": "01.258",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "胫节",
+   "en": "tibia,tibiae(复)",
+   "code": "03.258",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫外部形态"
+  },
+  {
+   "cn": "胫骨粗隆",
+   "en": "tibial tuberosity,tuberosity of tibia",
+   "code": "02.0781",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_附肢骨"
+  },
+  {
+   "cn": "配光镜",
+   "en": "lens,glass lens",
+   "code": "07.070",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车电器及汽车附属装置_汽车灯具"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens，lens(拉)",
+   "code": "06.498",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜解剖学"
+  },
+  {
+   "cn": "镜头",
+   "en": "lens",
+   "code": "5.07",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻采访编辑制作"
+  },
+  {
+   "cn": "透镜",
+   "en": "lens",
+   "code": "09.091",
+   "standard": "光学名词",
+   "subject": "光学_光无源器件"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens",
+   "code": "3.0488",
+   "standard": "动物学名词",
+   "subject": "动物学_动物组织学_主要器官组织_感觉器官组织结构"
+  },
+  {
+   "cn": "马太",
+   "en": "Matthay\",\"Tobias(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "托比亚斯",
+   "en": "Tobias\",\"Rudolf(爱沙尼亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "胫节",
+   "en": "tibia\",\"tibiae (复)",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "胫骨粗隆",
+   "en": "tibial tuberosity\",\"tuberosity of tibia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens\",\"crystalline lens",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "透镜",
+   "en": "lens",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "晶状体",
+   "en": "lens",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "胫侧",
+   "en": "tibial",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "照相制版镜头",
+   "en": "printer lens\",\"process lens",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "单透镜",
+   "en": "einzel lens\",\"simple lens",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "透镜",
+   "en": "lens",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "变焦镜头",
+   "en": "zoom lens",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "缝合带",
+   "en": "Lens (geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "晶状体",
+   "en": "crystalline lens",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "性菌毛",
+   "en": "Coley's toxins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双球菌",
+   "en": "Coley's toxins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "胫骨",
+   "en": "cannon\",\"tibia",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "潮汐能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海洋能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水力",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海流能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "县解",
+   "en": "Freeing the Mind from Bias",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "code": "4.4.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "code": "1.2.4.66",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "托瓦人",
+   "en": "Toba",
+   "code": "6.0315",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  },
+  {
+   "cn": "眼晶状体剂量计",
+   "en": "eye lens dosimeter",
+   "code": "5.2.5.16",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备"
+  },
+  {
+   "cn": "麻痹性贝类毒素",
+   "en": "paralytic shellfish toxins",
+   "code": "3.2.4.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "失忆性贝类毒素",
+   "en": "amnesic shellfish toxins",
+   "code": "3.2.4.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "贝类毒素中毒",
+   "en": "shellfish toxins poisoning",
+   "code": "3.2.4.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "神经毒性贝类毒素",
+   "en": "neurotoxic shellfish toxins",
+   "code": "3.2.4.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "致泻性贝类毒素",
+   "en": "diarrhoeal shellfish toxins",
+   "code": "3.2.4.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "细菌毒素食物中毒",
+   "en": "bacterial toxins food poisoning",
+   "code": "3.2.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "麻痹性贝类毒素中毒",
+   "en": "paralytic shellfish toxins poisoning",
+   "code": "3.2.4.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "神经毒性贝类毒素中毒",
+   "en": "neurotoxic shellfish toxins poisoning",
+   "code": "3.2.4.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  }
+ ],
+ "error": null,
  "raw": null
 }

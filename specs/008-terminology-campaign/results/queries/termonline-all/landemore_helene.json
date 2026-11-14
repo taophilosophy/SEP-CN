@@ -2,10 +2,46 @@
  "key": "landemore, helene",
  "term": "Landemore, Hélène",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:17+00:00",
- "status": "error",
- "note": "variant=Landemore, Hélène; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Landemore, Hélène: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:22:31+00:00",
+ "status": "ok",
+ "note": "variant=Landemore, Hélène; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "聚十二烷二酰己二胺",
+   "en": "polyhexamet-hylene dodecanamide",
+   "code": "2.044",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_工程塑料聚酰胺树脂"
+  },
+  {
+   "cn": "聚对苯二甲酰己二胺",
+   "en": "polyhexamet-hylene terephthalamide",
+   "code": "2.0443",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_工程塑料聚酰胺树脂"
+  },
+  {
+   "cn": "聚对苯二甲酰壬二胺",
+   "en": "polynonamet-hylene terephthalamide",
+   "code": "2.0444",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_工程塑料聚酰胺树脂"
+  },
+  {
+   "cn": "美丽的海伦",
+   "en": "Belle Hélène\",\"La",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "高咸水",
+   "en": "haline water",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  }
+ ],
+ "error": null,
  "raw": null
 }

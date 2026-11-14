@@ -2,10 +2,347 @@
  "key": "lee, kibeom",
  "term": "Lee, Kibeom",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:18+00:00",
- "status": "error",
- "note": "variant=Lee, Kibeom; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Lee, Kibeom: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:22:31+00:00",
+ "status": "ok",
+ "note": "variant=Lee, Kibeom; 审定公布名词库=485; 海峡两岸名词对照库=148; 其他来源数据库=52; 预公布名词数据库=20; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "李[政道]模型",
+   "en": "Lee model",
+   "code": "09.1249",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "code": "05.255",
+   "standard": "大气科学名词",
+   "subject": "大气科学_动力气象学"
+  },
+  {
+   "cn": "惰锚",
+   "en": "lee anchor",
+   "code": "09.0080",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_船舶操纵与避碰"
+  },
+  {
+   "cn": "杨李边",
+   "en": "Yang-Lee edge",
+   "code": "05.1042",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "李-凯斯勒方程",
+   "en": "Lee-Kesler equation",
+   "code": "02.0136",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "李杨理论",
+   "en": "Lee-Yang theory",
+   "code": "05.1041",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "侯–李模型",
+   "en": "Ho-Lee model",
+   "code": "07.0129",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_原理"
+  },
+  {
+   "cn": "光萃取效率",
+   "en": "light extraction efficiency,LEE",
+   "code": "04.130",
+   "standard": "光学名词",
+   "subject": "光学_发光学"
+  },
+  {
+   "cn": "杨[振宁] -李[政道]边奇异",
+   "en": "Yang-Lee edge singularity",
+   "code": "05.1043",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "LK方程",
+   "en": "Lee-Kesler equation,LK equation",
+   "code": "02.139",
+   "standard": "化学工程名词",
+   "subject": "化学工程_化工热力学_流体的P-T-V关系"
+  },
+  {
+   "cn": "李[天岩] -约克定理",
+   "en": "Lee-Yorke theorem,Li-Yorke theorem",
+   "code": "11.0560",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_非线性物理学"
+  },
+  {
+   "cn": "[李政道-杨振宁]二体碰撞法",
+   "en": "binary collision method[of Lee and Yang]",
+   "code": "05.0707",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "背风槽",
+   "en": "lee trough",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "背风面",
+   "en": "lee side",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "背风坡低压",
+   "en": "lee depression",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "背风旋生",
+   "en": "lee cyclogenesis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "惰锚",
+   "en": "lee anchor",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "下风岸",
+   "en": "lee shore",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "下风舷",
+   "en": "lee side",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "预备舵工",
+   "en": "lee helmsman",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "利斯",
+   "en": "Lees\",\"Benjamin(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "山岳背风波",
+   "en": "mountain lee wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "中尺度背风[坡]涡旋",
+   "en": "mesoscale lee vortex",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "李-凯斯勒方程",
+   "en": "Lee–Kesler equation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "背着网接团身后空翻",
+   "en": "kaboom",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let\",\"let service",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "擦网重发！",
+   "en": "Let!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "重发球",
+   "en": "let",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "重发球！",
+   "en": "Let!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "绊",
+   "en": "leg grappling\",\"leg sweep\",\"leg trip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "摆动腿",
+   "en": "free leg\",\"swinging leg",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "段",
+   "en": "leg\",\"relay",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "虎步",
+   "en": "beom seogi\",\"tiger stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "糟渍菜",
+   "en": "pickled vegetable with lees",
+   "code": "5.3.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蔬菜"
+  },
+  {
+   "cn": "蜂花粉",
+   "en": "bee pollen",
+   "code": "5.16.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蜂产品"
+  },
+  {
+   "cn": "蜂产品",
+   "en": "bee products",
+   "code": "5.16",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蜂产品"
+  },
+  {
+   "cn": "身材匀称",
+   "en": "trunk-leg ratio",
+   "code": "4.2.2.20",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "单一品种蜂花粉",
+   "en": "monofloral bee pollen",
+   "code": "5.16.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蜂产品"
+  },
+  {
+   "cn": "混合蜂花粉",
+   "en": "multifloral bee pollen",
+   "code": "5.16.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蜂产品"
+  },
+  {
+   "cn": "贝若杂纳",
+   "en": "Bee ro tsa na",
+   "code": "3.0384",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "code": "3.2.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量"
+  },
+  {
+   "cn": "付费式医疗服务体系",
+   "en": "fee-for-service system",
+   "code": "3.11.4.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "狼疮细胞",
+   "en": "lupus erythematosus cell，LEC",
+   "code": "1.5.2.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标"
+  },
+  {
+   "cn": "按服务项目支付",
+   "en": "fee for service，FFS",
+   "code": "10.2.13",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "《十三法典》",
+   "en": "Zhal lce bcu gsum",
+   "code": "3.0377",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

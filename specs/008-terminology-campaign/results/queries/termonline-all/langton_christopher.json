@@ -2,10 +2,235 @@
  "key": "langton, christopher",
  "term": "Langton, Christopher",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:17+00:00",
- "status": "error",
- "note": "variant=Langton, Christopher; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Langton, Christopher: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:22:31+00:00",
+ "status": "ok",
+ "note": "variant=Langton, Christopher; 审定公布名词库=69; 海峡两岸名词对照库=83; 其他来源数据库=7; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": "02.0591",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋生物学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": "16.249",
+   "standard": "生态学名词",
+   "subject": "生态学_水域生态学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": "06.059",
+   "standard": "地理学名词",
+   "subject": "地理学_生物地理学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": "01.030",
+   "standard": "水产名词",
+   "subject": "水产_水产基础科学"
+  },
+  {
+   "cn": "大洋浮游生物",
+   "en": "eupelagic plankton,oceanic plankton",
+   "code": "16.259",
+   "standard": "生态学名词",
+   "subject": "生态学_水域生态学"
+  },
+  {
+   "cn": "潟湖",
+   "en": "lagoon",
+   "code": "03.303",
+   "standard": "林学名词",
+   "subject": "林学_森林生态、湿地与自然保护区_湿地"
+  },
+  {
+   "cn": "蓄水区",
+   "en": "lagoon",
+   "code": "03.326",
+   "standard": "林学名词",
+   "subject": "林学_森林生态、湿地与自然保护区_湿地"
+  },
+  {
+   "cn": "潟湖",
+   "en": "lagoon",
+   "code": "02.1108",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学"
+  },
+  {
+   "cn": "潟湖",
+   "en": "lagoon",
+   "code": "16.007",
+   "standard": "生态学名词",
+   "subject": "生态学_水域生态学"
+  },
+  {
+   "cn": "潟湖",
+   "en": "lagoon",
+   "code": "15.101",
+   "standard": "地理学名词",
+   "subject": "地理学_海洋地理学"
+  },
+  {
+   "cn": "潟湖",
+   "en": "lagoon",
+   "code": "01.104",
+   "standard": "地质学名词",
+   "subject": "地质学_地质学总论"
+  },
+  {
+   "cn": "阶段性浮游生物",
+   "en": "meroplankton,transitory plankton,periodic plankton",
+   "code": "16.252",
+   "standard": "生态学名词",
+   "subject": "生态学_水域生态学"
+  },
+  {
+   "cn": "吉本斯，克里斯托弗",
+   "en": "Gibbons\",\"Christopher(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "埃申巴赫",
+   "en": "Eschenbach\",\"Christoph(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "范·坎彭",
+   "en": "Van Kampen\",\"Christopher(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "佩普什",
+   "en": "Pepusch\",\"Johann Christoph(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "瓦根塞尔",
+   "en": "Wagenseil\",\"Georg Christoph(奥地利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴赫，约翰· 克利斯托弗·弗里德里希",
+   "en": "Bach\",\"Johann Christoph Friedrich(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格鲁克",
+   "en": "Gluck\",\"Christoph Willibald von(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "plankton",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "大气浮游生物",
+   "en": "air plankton\",\"aerial plankton",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "浮游生物",
+   "en": "Plankton",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "潟湖",
+   "en": "atoll lagoon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "邦",
+   "en": "state、Land、canton",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维兰",
+   "en": "Canton of Bouzonville",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "埃曼",
+   "en": "Canton of Phalsbourg",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "沙波",
+   "en": "Canton of Moulins-2",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内班",
+   "en": "Canton of Le Saulnois",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "羊同",
+   "en": "Yangtong",
+   "code": "3.0336",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族经济与地理"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,11 +1,432 @@
 {
  "key": "le clerc, jean / jean le clerc",
- "term": "Jean Le Clerc",
+ "term": "Le Clerc, Jean / Jean Le Clerc",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:17+00:00",
- "status": "error",
- "note": "variant=Jean Le Clerc; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Jean Le Clerc: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:22:31+00:00",
+ "status": "ok",
+ "note": "variant=Le Clerc, Jean; 审定公布名词库=778; 海峡两岸名词对照库=413; 其他来源数据库=16; 预公布名词数据库=28; variant=Jean Le Clerc; 审定公布名词库=778; 海峡两岸名词对照库=413; 其他来源数据库=16; 预公布名词数据库=28; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "金斯定理",
+   "en": "Jeans theorem",
+   "code": "07.155",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯波长",
+   "en": "Jeans wavelength",
+   "code": "07.156",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯质量",
+   "en": "Jeans mass",
+   "code": "07.157",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯不稳定性",
+   "en": "Jeans instability",
+   "code": "11.0081",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "费加罗报",
+   "en": "Le Figaro",
+   "code": "3.097",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_近代新闻史_外国"
+  },
+  {
+   "cn": "世界报",
+   "en": "Le Monde",
+   "code": "3.153",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_现代新闻史_外国"
+  },
+  {
+   "cn": "伊代尔",
+   "en": "ide&1&le",
+   "code": "04.0277",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "阿代尔",
+   "en": "ade&1&le",
+   "code": "04.0282",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "让·巴蒂斯特·萨伊",
+   "en": "Jean-Baptiste Say（1767—1832）",
+   "code": "16.014",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "瑞利-金斯公式",
+   "en": "Rayleigh-Jeans formula",
+   "code": "05.0646",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "铁勒",
+   "en": "Tie Le;Tie Le Tribal Union",
+   "code": "5.267",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_族部"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy,LE",
+   "code": "10.090",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "马蒂农",
+   "en": "Martinon\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "西贝柳斯",
+   "en": "Sibelius\",\"Jean(芬兰)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "富尔内，让",
+   "en": "Fournet\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴拉凯",
+   "en": "Barraqué\",\"Jean(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "普涅",
+   "en": "Pougnet\",\"Jean(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "金斯波长",
+   "en": "Jeans wavelength",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯不稳定性",
+   "en": "Jeans instability",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯长度",
+   "en": "Jeans length",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯判据",
+   "en": "Jeans criterion",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "金斯质量",
+   "en": "Jeans mass",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "阿布西尔",
+   "en": "Absil\",\"Jean(比利时)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "夜莺",
+   "en": "Rossignol\",\"Le",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "浦东鸡",
+   "en": "Jean Bungartz",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内班",
+   "en": "Canton of Le Saulnois",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "食客",
+   "en": "Le Grand Chef 2: Kimchi Battle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of course",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of course",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of the course",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "平均数",
+   "en": "Mean, Average",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "调和平均数",
+   "en": "harmonic mean",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "身体后倾",
+   "en": "backward lean",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "平均红细胞血红蛋白含量",
+   "en": "mean corpuscular hemoglobin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《泐史》",
+   "en": "History of Le",
+   "code": "3.03",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "脉、气、明点",
+   "en": "Rtsa rlung thig le",
+   "code": "3.0469",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "code": "1.5.24",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "少脂鱼",
+   "en": "lean fish",
+   "code": "5.7.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水产品"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "code": "3.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "code": "4.5.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_年龄性别结构"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "code": "5.2.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "code": "3.2.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "3.2.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "平均吸收剂量",
+   "en": "mean absorbed dose",
+   "code": "6.3.4.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "腐乳",
+   "en": "fermented bean curd",
+   "code": "5.14.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "瘦体重",
+   "en": "lean body mass",
+   "code": "2.4.2.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  },
+  {
+   "cn": "金斯定理",
+   "en": "Jeans theorem",
+   "code": "07.155",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯波长",
+   "en": "Jeans wavelength",
+   "code": "07.156",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯质量",
+   "en": "Jeans mass",
+   "code": "07.157",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "金斯不稳定性",
+   "en": "Jeans instability",
+   "code": "11.0081",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "费加罗报",
+   "en": "Le Figaro",
+   "code": "3.097",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_近代新闻史_外国"
+  },
+  {
+   "cn": "世界报",
+   "en": "Le Monde",
+   "code": "3.153",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_现代新闻史_外国"
+  },
+  {
+   "cn": "伊代尔",
+   "en": "ide&1&le",
+   "code": "04.0277",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "阿代尔",
+   "en": "ade&1&le",
+   "code": "04.0282",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "让·巴蒂斯特·萨伊",
+   "en": "Jean-Baptiste Say（1767—1832）",
+   "code": "16.014",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "瑞利-金斯公式",
+   "en": "Rayleigh-Jeans formula",
+   "code": "05.0646",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "铁勒",
+   "en": "Tie Le;Tie Le Tribal Union",
+   "code": "5.267",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_族部"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy,LE",
+   "code": "10.090",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  }
+ ],
+ "error": null,
  "raw": null
 }
