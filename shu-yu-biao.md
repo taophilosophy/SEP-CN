@@ -5743,7 +5743,7 @@
 | testimonia | — | 转述 | 首现（xenophanes） | 学界惯例（古典学 testimonia，与残篇对举）；凭证 2026-11-07 | 2026-11-07 |
 | testimonial learning | — | 证言学习 | moral-learning | 学界通行（与证言知识相通）；凭证 2026-11-09 | 2026-11-09 |
 | testimonial system | — | 证言系统 | justep-coherence | 学界惯例（证词认识论通行译法） | 2026-11-02 |
-| testimony | — | 证言 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| testimony | — | 证言（亦作“证词”） | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形，知识论文献两形并行） | 2026-11-15 |
 | tetralemma | — | 四句 | gorampa | 中观因明通行（catuṣkoṭi，四句分别/四句否定）；本条目正文作“四句”，括注梵藏原词 | 2026-11-09 |
 | tetraploid complementation | — | 四倍体补偿 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | text's world | — | 文本的世界 | ricoeur | 利科术语（monde du texte）；凭证 2026-11-11 | 2026-11-11 |
@@ -5855,7 +5855,7 @@
 | topic-neutral | — | 中立于主题 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Topics | — | 《论题篇》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | topos | — | 拓扑斯 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法（范畴论）；凭证 2026-11-06 | 2026-11-06 |
-| Torah | — | 托拉 | delmedigo | 学界通行（犹太教经籍；亦作“妥拉”） | 2026-11-06 |
+| Torah | — | 托拉（亦作“妥拉”“律法”） | delmedigo | 学界通行（犹太教经籍）；2026-11-15 补亦作（审定形“律法”，犹太学文献并行） | 2026-11-15 |
 | total correctness | — | 完全正确性 | logic-dynamic | 程序验证通行译法；凭证 2026-11-10 | 2026-11-09 |
 | total evidence | — | 总证据 | 语料回收（abduction） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | total significate | total significate | 总意谓 | 首现（crathorn） | 中世纪语义学研究通行译法（complexe significabile 关联；Tachau 研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -6284,7 +6284,7 @@
 | wilāyah | — | 精神监护（圣品） | arabic-islamic-mysticism | 什叶派与苏非通行（spiritual guardianship） | 2026-11-07 |
 | Wild Fruits | — | 野果 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | willingness to pay | — | 支付意愿 | risk | 学界惯例（环境经济学通行）；凭证 2026-11-09 | 2026-11-09 |
-| winning strategy | — | 制胜策略 | tarski-truth | 博弈语义学通行 | 2026-11-09 |
+| winning strategy | — | 制胜策略（亦作“赢取策略”） | tarski-truth | 博弈语义学通行；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | Wisdom | — | 智慧 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | wisdom of crowds | — | 群体的智慧 | jury-theorems | 学界惯例（Surowiecki《群体的智慧》通行书名）；凭据 2026-11-02 | 2026-11-02 |
 | Wissenschaftslehre | Wissenschaftslehre | 知识学 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
