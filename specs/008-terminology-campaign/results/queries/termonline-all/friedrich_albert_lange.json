@@ -2,10 +2,347 @@
  "key": "friedrich albert lange",
  "term": "Friedrich Albert Lange",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T23:14:25+00:00",
- "status": "error",
- "note": "variant=Friedrich Albert Lange; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Friedrich Albert Lange: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:20:55+00:00",
+ "status": "ok",
+ "note": "variant=Friedrich Albert Lange; 审定公布名词库=1259; 海峡两岸名词对照库=508; 其他来源数据库=92; 预公布名词数据库=22; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "兰格模式",
+   "en": "Lange mode",
+   "code": "15.010",
+   "standard": "经济学名词",
+   "subject": "经济学_经济体制改革"
+  },
+  {
+   "cn": "混杂堆积",
+   "en": "mélange",
+   "code": "10.01.051",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_总论"
+  },
+  {
+   "cn": "夜郎",
+   "en": "Ye Lang;Ye Lang Kingdom",
+   "code": "3.243",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_秦汉_族部"
+  },
+  {
+   "cn": "弗里德里希斯不等式",
+   "en": "Friedrichs inequality",
+   "code": "06.0470",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_偏微分方程"
+  },
+  {
+   "cn": "弗里德里希·李斯特",
+   "en": "Friedrich List（1789—1846）",
+   "code": "16.020",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "小艾伯特实验",
+   "en": "little Albert experiment",
+   "code": "2.032",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为医学基本理论_行为主义心理学理论"
+  },
+  {
+   "cn": "阿氏染色",
+   "en": "Albert's staining",
+   "code": "09.089",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "德朗热综合征",
+   "en": "de Lange syndrome",
+   "code": "5.189",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "德朗热综合征",
+   "en": "de Lange syndrome",
+   "code": "01.575",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "廊",
+   "en": "porch,gallery,lang",
+   "code": "03.0150",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "蛇绿混杂堆积",
+   "en": "ophiolitic mélange",
+   "code": "10.01.053",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_总论"
+  },
+  {
+   "cn": "拉克斯-弗里德里希斯格式",
+   "en": "Lax-Friedrichs scheme",
+   "code": "010.0557",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_偏微分方程数值解"
+  },
+  {
+   "cn": "阿伯特·赫林",
+   "en": "Albert Herring",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "萨蒙斯",
+   "en": "Sammons\",\"Albert(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "赖斯",
+   "en": "Reiss\",\"Albert(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "施魏策尔",
+   "en": "Schweitzer\",\"Albert(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "沃尔夫，阿尔贝",
+   "en": "Wolff\",\"Albert(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "科茨，阿伯特",
+   "en": "Coates\",\"Albert(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "尼曼",
+   "en": "Niemann\",\"Albert(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "斯波尔丁",
+   "en": "Spalding\",\"Albert(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "鲁塞尔",
+   "en": "Roussel\",\"Albert(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "路德维希，弗里德里希",
+   "en": "Ludwig\",\"Friedrich(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "申克尔，弗里德利希",
+   "en": "Schenker\",\"Friedrich(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "肖尔",
+   "en": "Schorr\",\"Friedrich(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "食管憩室",
+   "en": "Friedrich Albert von Zenker",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "卵清蛋白",
+   "en": "Albert Neuberger",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "史诗",
+   "en": "Albert Lord",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "夜食症",
+   "en": "Albert Stunkard",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "小艾伯特实验",
+   "en": "Little Albert experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "血吸虫",
+   "en": "David Friedrich Weinland",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Georg Wilhelm Friedrich Hegel bibliography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《爆发：大数据时代预见未来的新思维》（〔美〕艾伯特–拉斯洛·巴拉巴西）",
+   "en": "Bursts: The Hidden Patterns Behind Everything We Do (Albert-László Barabási, USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "警戒线",
+   "en": "alert line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "警戒区",
+   "en": "alert area",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "值域",
+   "en": "Range",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全距",
+   "en": "range",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "食源性警戒事件",
+   "en": "foodborne alert event",
+   "code": "3.6.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "code": "8.02",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "中子反照率",
+   "en": "neutron albedo",
+   "code": "5.1.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理"
+  },
+  {
+   "cn": "反照率中子剂量计",
+   "en": "albedo neutron dosimeter",
+   "code": "5.2.3.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备"
+  },
+  {
+   "cn": "奥尔波特综合征",
+   "en": "Alport syndrome，AS",
+   "code": "2.18.7.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病"
+  },
+  {
+   "cn": "实际射程",
+   "en": "practical range",
+   "code": "6.4.4.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "极差法",
+   "en": "range method",
+   "code": "1.4.5.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_健康公平"
+  },
+  {
+   "cn": "大份额",
+   "en": "large portion, LP",
+   "code": "1.4.4.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "code": "3.2.3.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "大地主所有制",
+   "en": "large landlord owership",
+   "code": "04.0030",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "大规模社会",
+   "en": "large-scale society",
+   "code": "1.0015",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "大撒网式检查",
+   "en": "wide range inspection",
+   "code": "5.029",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  }
+ ],
+ "error": null,
  "raw": null
 }

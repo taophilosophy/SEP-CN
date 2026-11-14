@@ -2,10 +2,179 @@
  "key": "fraenkel, abraham",
  "term": "Fraenkel, Abraham",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T22:54:54+00:00",
- "status": "error",
- "note": "variant=Fraenkel, Abraham; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Fraenkel, Abraham: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:20:55+00:00",
+ "status": "ok",
+ "note": "variant=Fraenkel, Abraham; 审定公布名词库=19; 海峡两岸名词对照库=11; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "林肯旅",
+   "en": "Abraham Lincoln Brigade",
+   "code": "03.0169",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "策梅洛-弗兰克尔集合论",
+   "en": "Zermelo-Fraenkel set theory",
+   "code": "02.0152",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "弗兰克尔分级",
+   "en": "Frankel classification",
+   "code": "16.071",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经外科专科技术_神经外科诊断"
+  },
+  {
+   "cn": "弗仑克尔空位",
+   "en": "Frenkel vacancy",
+   "code": "07.0065",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属学_晶体缺陷"
+  },
+  {
+   "cn": "弗仑克尔缺陷",
+   "en": "Frenkel defect",
+   "code": "08.0450",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "弗仑克尔激子",
+   "en": "Frenkel exciton",
+   "code": "04.0978",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_光化学"
+  },
+  {
+   "cn": "弗仑克尔缺陷",
+   "en": "Frenkel defect",
+   "code": "01.0721",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_无机固体化学"
+  },
+  {
+   "cn": "弗仑克尔对",
+   "en": "Frenkel pair",
+   "code": "01.0081",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础"
+  },
+  {
+   "cn": "弗仑克尔缺陷",
+   "en": "Frenkel defect",
+   "code": "01.0284",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构"
+  },
+  {
+   "cn": "弗兰克尔矫治器",
+   "en": "Frankel appliance",
+   "code": "05.066",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔正畸学"
+  },
+  {
+   "cn": "弗兰克尔试验",
+   "en": "Frankel test",
+   "code": "02.405",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_耳鼻喉科学"
+  },
+  {
+   "cn": "杜福特-弗兰克尔格式",
+   "en": "Dufort-Frankel scheme",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_流体力学"
+  },
+  {
+   "cn": "亚伯拉罕",
+   "en": "Abraham\",\"Gerald(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "亚伯拉罕与以撒",
+   "en": "Abraham and Isaac",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "德尔加迪约",
+   "en": "Delgadillo\",\"Luis Abraham(尼加拉瓜)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "舒尔茨，约翰",
+   "en": "Schulz\",\"Johann Abraham Peter(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "弗仑克尔缺陷",
+   "en": "Frenkel defect",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "弗仑克尔对",
+   "en": "Frenkel pair",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "弗仑克尔缺陷",
+   "en": "Frenkel defect",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "弗兰克尔，本杰明",
+   "en": "Frankel\",\"Benjamin(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格雷姆盐",
+   "en": "Graham salt",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "蔡辛斯",
+   "en": "Chasins\",\"Abram(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "弗兰克尔，彼得",
+   "en": "Frankl\",\"Peter(匈牙利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "策梅洛-弗兰克尔集合论",
+   "en": "Zermelo-Fraenkel Set Theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
  "raw": null
 }

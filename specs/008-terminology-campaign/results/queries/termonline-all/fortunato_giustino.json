@@ -2,10 +2,25 @@
  "key": "fortunato, giustino",
  "term": "Fortunato, Giustino",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T22:51:54+00:00",
- "status": "error",
- "note": "variant=Fortunato, Giustino; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Fortunato, Giustino: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:20:55+00:00",
+ "status": "ok",
+ "note": "variant=Fortunato, Giustino; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "味[多]肽",
+   "en": "gustin",
+   "code": "2.0129",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_肽_功能性寡肽和多肽"
+  },
+  {
+   "cn": "味［多］肽",
+   "en": "gustin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
  "raw": null
 }
