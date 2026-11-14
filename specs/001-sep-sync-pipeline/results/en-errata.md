@@ -57,3 +57,4 @@
 | academic-freedom | `akedemische Freiheit` | `akademische Freiheit` | 德语正字（023 首条审校实证，类①） |
 | academic-freedom | `David\nOwewn and Tracy Strong (eds.)` | `David\nOwen and Tracy Strong (eds.)` | David Owen 为韦伯《Vocation Lectures》Hackett 2004 版合编者，Owewn 非词（类①） |
 | academic-freedom | `Enyidi Zsolt, 2018` | `Enyedi, Zsolt, 2018` | 已核实：Zsolt Enyedi, *Perspectives on Politics* 16(4) 2018, 1067–74, doi:10.1017/S1537592718002165（类①） |
+| action | `Harman 198;1997`（§4.4 引证组） | `Harman 1986;1997` | 同页 §4.5 引 (Harman 1986; 1997)、书目唯一 1980s 条目为 1986，198 为缺位年手误（类①） |

@@ -30,7 +30,7 @@
 0. **方向确认**：按 `rules/08-intent-first.md` 复述用户到底要什么，写清目标、非目标与验收判据；含糊先问不猜，禁止猜着做。
 1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。本机定岗见 ADR-0028：M1 只做词条翻译，M2 管其余全部。
 2. **读规则地图**：`rules/README.md` 的规则地图与快速判例。
-3. **跑门禁**：`python tools/check_all.py`（八项门禁加单元测试，共 9 项，应全绿）。
+3. **跑门禁**：`python tools/check_all.py`（九项门禁加单元测试，共 10 项，应全绿）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
 收工：复跑相关检查器；相关文件提交（中文一行信息）；未推送提交清零（ADR-0028）；不留半成品。
@@ -52,7 +52,7 @@
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原 | `rules/05` |
-| 检查 | `check_all.py`（9 项，`--all` 为 11 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判 | `rules/05` |
+| 检查 | `check_all.py`（10 项，`--all` 为 12 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判 | `rules/05` |
 | 知难行易落实 | 批量批次开工先立卡钉基准、列作废条件；新手段先小样本试金石；自报完成须独立复算；返工先归因登记，同缺口二发升级防线 | ADR-0039、`rules/08` §9–12 |
 
 ## 现状与进度
