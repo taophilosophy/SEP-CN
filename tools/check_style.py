@@ -159,11 +159,16 @@ def check_line(path, lineno, line, issues):
             if ch in "\"''｢｣＂＇「」『』":
                 issues.append({"path": path, "line": lineno, "rule": "curly-quotes",
                                "detail": "非法引号字符 %r: %s" % (ch, seg.strip()[:40])})
-        # quote-spacing（2026-11-15 O2，rules/02 引号条款：引号与西文/数字之间须有半角空格；
-        # 作用于词内撇号/所有格遮蔽后的 stripped——NP‘the 类邻接在此现形）
-        for m in re.finditer(r"[A-Za-z0-9][\u201c\u2018]|[\u201d\u2019][A-Za-z0-9]", stripped):
-            issues.append({"path": path, "line": lineno, "rule": "quote-spacing",
-                           "detail": "引号与西文/数字之间缺半角空格: …%s…" % stripped[max(0, m.start() - 8):m.end() + 8]})
+        # quote-spacing（2026-11-15 O2，rules/02 引号条款：引号与西文/数字之间须有半角空格）。
+        # 遮蔽前判定＋引用域跨度启发：letter+‘ 后方 >2 字符处存在配对 ’（引用域）才判，
+        # 以区分 O‘Brien/Shi‘ur 类词内转写撇号（词内遮蔽规则后续照常生效）。
+        for m in re.finditer(r"[A-Za-z0-9][‘“]|[’”][A-Za-z0-9]", seg):
+            _close = seg.find("’", m.end())
+            _open = seg.rfind("‘", 0, m.start())
+            _span = (_close - m.end() > 2) if m.group(0)[1] == "‘" else (m.start() - _open > 2)
+            if _span:
+                issues.append({"path": path, "line": lineno, "rule": "quote-spacing",
+                               "detail": "引号与西文/数字之间缺半角空格: …%s…" % seg[max(0, m.start() - 8):m.end() + 8]})
         for lo, hi in (("\u201c", "\u201d"), ("\u2018", "\u2019")):
             depth = 0
             for ch in stripped:

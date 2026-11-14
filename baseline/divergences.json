@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T19:37:47Z",
+  "updated_at": "2026-11-14T19:42:00Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -376,6 +376,756 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "test",
       "registered_at": "2026-11-14T19:37:47Z"
+    },
+    {
+      "slug": "action",
+      "path": "en/action/index.html",
+      "upstream_sha256": "81716c8b58e514fc0eb5597aafb6cde6523474a221695c22d79f64fe5b532189",
+      "local_sha256": "a838b51ee49cf89aa2a44e8282a55286d2e7565ed9b53ff5a1401e1af1427d6e",
+      "bytes": {
+        "upstream": 201320,
+        "local": 201321
+      },
+      "commit": "873203f2ba6c8fd6c53dad850d428d9d5a0d5ac9",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:48Z"
+    },
+    {
+      "slug": "aesthetics-18th-british",
+      "path": "en/aesthetics-18th-british/index.html",
+      "upstream_sha256": "92494fd6d18417b6a07284ed13866ecf732e90a9581e3f3d271178d829095e02",
+      "local_sha256": "7f8916c9e9a1317b410e1952191f7767cd2a195c4774f69f6369c0fc5b2d8af4",
+      "bytes": {
+        "upstream": 91645,
+        "local": 91643
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:49Z"
+    },
+    {
+      "slug": "agrippa-nettesheim",
+      "path": "en/agrippa-nettesheim/index.html",
+      "upstream_sha256": "d5e7b06f000d8acd89cee8cb909fd72e3e462b08d68944e3fdec6dba7536fe7f",
+      "local_sha256": "9da0c2be7871bf8333342a34eb848b68c42b37e5eb47c5cc184e53408c65c8ca",
+      "bytes": {
+        "upstream": 98292,
+        "local": 98291
+      },
+      "commit": "2169f11a8aab618f74f2b8099395ae8a9f1bd408",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:49Z"
+    },
+    {
+      "slug": "al-qudat",
+      "path": "en/al-qudat/index.html",
+      "upstream_sha256": "689547054babc4c4f4b5b138fa0a34c40aeb161de4c853719bc11c961103f1d9",
+      "local_sha256": "dad1d348e1070273a6818ac4aa4cfa0b53fa2a8a14bf4d7e38c3b29a7094cbac",
+      "bytes": {
+        "upstream": 99901,
+        "local": 99901
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:50Z"
+    },
+    {
+      "slug": "alcmaeon",
+      "path": "en/alcmaeon/index.html",
+      "upstream_sha256": "4ec54e0bfbd670359cca829743ccb0f7bf637c492e559f5ca3b1d2e4df330d75",
+      "local_sha256": "f4354639daf5405d24c2bc1611202059eed0494af08ac30434d8cf04e2b677a2",
+      "bytes": {
+        "upstream": 77982,
+        "local": 77981
+      },
+      "commit": "a2b29aea572a89fcc07436c75fca80b12200a634",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:51Z"
+    },
+    {
+      "slug": "alexander-crummell",
+      "path": "en/alexander-crummell/index.html",
+      "upstream_sha256": "f2e7ad63be7b0a16816e1c22a0b9c5d6030963000158fe4c3481d32965b10a0a",
+      "local_sha256": "89b244332d3e696b473a1bdbfeef750d06968709bef6673273d2d24bfa80ed26",
+      "bytes": {
+        "upstream": 94475,
+        "local": 94474
+      },
+      "commit": "cc6ba367fdb63e8fa234e3a7c95400fe69446405",
+      "subject": "015 偿还 lawphil-theory／alexander-crummell：文白句、节标题、拼写",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:51Z"
+    },
+    {
+      "slug": "biology-philosophy",
+      "path": "en/biology-philosophy/index.html",
+      "upstream_sha256": "d0cb854a374db7230d7ccfef0c01ec46feb7de7c58d13c985814a52204966210",
+      "local_sha256": "23794dd35d73a81264951a16bdddc4ccbab5d553fe32ed7168dcf7ffc404d982",
+      "bytes": {
+        "upstream": 100644,
+        "local": 100637
+      },
+      "commit": "0e7bce3c725238db47e143e699331d65260a093e",
+      "subject": "015 偿还 biology-philosophy：坏引号、英文导览译出、残件与拼写",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:52Z"
+    },
+    {
+      "slug": "bloch",
+      "path": "en/bloch/index.html",
+      "upstream_sha256": "903ca345a7e3e4499ab83a7f40434ceb84fa7c40de44646e6a3a988328a17efa",
+      "local_sha256": "d7ae0b0157ae3898bb8cda6ede4d092627548122af89b2b472fdb01acad02c3c",
+      "bytes": {
+        "upstream": 92555,
+        "local": 92556
+      },
+      "commit": "ee5029df780e8c9568d222e9383a7d19c4e66988",
+      "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:52Z"
+    },
+    {
+      "slug": "boolalg-math",
+      "path": "en/boolalg-math/index.html",
+      "upstream_sha256": "28c221d1ed3aaa2ed849ebbfa95ead2c145a715fb89df5c803ef162ed2b886f3",
+      "local_sha256": "c901fe3d301ef64bd8afc044cb5b52a66f4c89dfb43933734d1e1feec931ad7c",
+      "bytes": {
+        "upstream": 31701,
+        "local": 31702
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:53Z"
+    },
+    {
+      "slug": "cockburn",
+      "path": "en/cockburn/index.html",
+      "upstream_sha256": "e89537aaf99731d6b8ee129fa205da6e30f25d7bbbe60a7c44703eb9baa16287",
+      "local_sha256": "e03ab5d739919d5ad4232c6921ebee75cb8aaecf7d66f4afeb75d33a42b24a09",
+      "bytes": {
+        "upstream": 38068,
+        "local": 38068
+      },
+      "commit": "2c812f765e32e6048bdd04735275bb6d51b39a57",
+      "subject": "015 偿还 cockburn：拼写勘误、其他网络资源译出、脚注表述与空格",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:53Z"
+    },
+    {
+      "slug": "conway",
+      "path": "en/conway/index.html",
+      "upstream_sha256": "9b951314efe94a48e4395499df242728483de3974aca6f9a1c87255d9ae6a890",
+      "local_sha256": "d2819dc224aa90d16f339fa32e2d37db616d54d06df9e3b042463e19c0d37b9f",
+      "bytes": {
+        "upstream": 44792,
+        "local": 44800
+      },
+      "commit": "0744087337e3cd46fb44db58968bc9d5ddf64a16",
+      "subject": "015 偿还 conway：书名两种写法统一、apokatastasis 拼写、断句与刊名标点",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:54Z"
+    },
+    {
+      "slug": "duhem",
+      "path": "en/duhem/index.html",
+      "upstream_sha256": "e34574d8d9088084392acc3b433ce8b680ab811b936b8c71e7525c2c5c1041ea",
+      "local_sha256": "8b8dfd0ad6a3d8189138bbe7e55cb6db26adf7d3da69b31187fae8093a7fbacd",
+      "bytes": {
+        "upstream": 95319,
+        "local": 95318
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:54Z"
+    },
+    {
+      "slug": "economic-democracy",
+      "path": "en/economic-democracy/index.html",
+      "upstream_sha256": "186c2c8fc73a707d0905c59f4ff861375e188da0bd2889765b56a106caf47947",
+      "local_sha256": "34b5c3db88c210c02b1738eba820fc29bc9f2f0d291484ef6dc47204384db2eb",
+      "bytes": {
+        "upstream": 111571,
+        "local": 111574
+      },
+      "commit": "7c7c386f8515a8d2cdcf0619f82a5d1f0fd43222",
+      "subject": "015 偿还 economic-democracy／alyngton：拼写与页码改正、超长段分节",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:55Z"
+    },
+    {
+      "slug": "elisabeth-bohemia",
+      "path": "en/elisabeth-bohemia/index.html",
+      "upstream_sha256": "2debccb99b155f6ab4fdac6287f0f04b831adcf8fc37df2360b5314c6252c842",
+      "local_sha256": "9ad9188234d6174df2be222bc374d4d29b4bf2539ff0f3d0942f18e12543dae3",
+      "bytes": {
+        "upstream": 56908,
+        "local": 56902
+      },
+      "commit": "99ad7a4e4a3f69967017adb12b4998dee7fbd08b",
+      "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:55Z"
+    },
+    {
+      "slug": "epistemology-evolutionary",
+      "path": "en/epistemology-evolutionary/index.html",
+      "upstream_sha256": "757c9aca4fed3b41edd2d80421df4f5cc67bb79ab21a4730841ea0faaee3cf08",
+      "local_sha256": "37d0124fc904bd71a0d6b0f7b34708a91c040e2ce0584bd5bd0f100ed58d5cae",
+      "bytes": {
+        "upstream": 68812,
+        "local": 68799
+      },
+      "commit": "bea8d849a37b1947f1496cf788cdb8f2ed87a6b7",
+      "subject": "？",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:56Z"
+    },
+    {
+      "slug": "erfurt",
+      "path": "en/erfurt/index.html",
+      "upstream_sha256": "d0c75fb8e334ae8fa11c76ef9a45838fa948d2f3431e6859b6c70c58ce3aa36c",
+      "local_sha256": "5e61dad8ce506052d6d5fafcae083a3f40918298e939cd344914764ce795739c",
+      "bytes": {
+        "upstream": 51655,
+        "local": 51655
+      },
+      "commit": "3b0483ecc3a51efd7327e2ebbddae5d77584f492",
+      "subject": "015 偿还批量：86 个词条统一参考文献标题与 SEP 学会之友链接（附清单）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:56Z"
+    },
+    {
+      "slug": "ibn-ezra",
+      "path": "en/ibn-ezra/index.html",
+      "upstream_sha256": "2b614598587b6654796bd9688f0ee83560f1fbeb65ef8405321cd39445c76269",
+      "local_sha256": "6e57449f46e0d61a197b2380d21be042fec19424e33c13079560fe80f68fc7cb",
+      "bytes": {
+        "upstream": 88310,
+        "local": 88310
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:57Z"
+    },
+    {
+      "slug": "incommensurability",
+      "path": "en/incommensurability/index.html",
+      "upstream_sha256": "224483f03341eb98f46be701e27a2eedbd4cad43f8706fe60d4edd071a49e442",
+      "local_sha256": "29d2faa53696c48ec97659e6cc0e2beed7bc7f0a47f32e773a46957312f2ba76",
+      "bytes": {
+        "upstream": 119155,
+        "local": 119156
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:57Z"
+    },
+    {
+      "slug": "incompatibilism-theories",
+      "path": "en/incompatibilism-theories/index.html",
+      "upstream_sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782",
+      "local_sha256": "40c05cf8209af4cdd8be841c852940b891413b7849af4c79ed1f252795afe8bb",
+      "bytes": {
+        "upstream": 101115,
+        "local": 101115
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:58Z"
+    },
+    {
+      "slug": "intellectual-property",
+      "path": "en/intellectual-property/index.html",
+      "upstream_sha256": "4ca035b45531a9c07a6d004f85fb463ee08f8ac1d357738119abf49180fd7e86",
+      "local_sha256": "b571ba106d9c3ba437d4191a5dabcabee84fdeba4fd4143fa5d761ef5bf39adc",
+      "bytes": {
+        "upstream": 97731,
+        "local": 97736
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:58Z"
+    },
+    {
+      "slug": "lady-masham",
+      "path": "en/lady-masham/index.html",
+      "upstream_sha256": "845ed4c205795f14c78fc6d9f7f5ec580585e38a6dbb436813b56135eaa058a5",
+      "local_sha256": "33b46bf1c610dfa1349d425935ba7f7c1ec93a64cfe4a009862eef714d72065c",
+      "bytes": {
+        "upstream": 39817,
+        "local": 39800
+      },
+      "commit": "3b0483ecc3a51efd7327e2ebbddae5d77584f492",
+      "subject": "015 偿还批量：86 个词条统一参考文献标题与 SEP 学会之友链接（附清单）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:59Z"
+    },
+    {
+      "slug": "lakatos",
+      "path": "en/lakatos/index.html",
+      "upstream_sha256": "ed7d067a2c0b7d973f9a59babcee96c74a935a5e4c8a44cf9ea7da1ba9bce8fb",
+      "local_sha256": "8fc5c60bb13187a521e700e7279f4a0c4614c98194e3f704a7b1216d63c42a48",
+      "bytes": {
+        "upstream": 154441,
+        "local": 154442
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:59Z"
+    },
+    {
+      "slug": "lambert-auxerre",
+      "path": "en/lambert-auxerre/index.html",
+      "upstream_sha256": "893dbd180508d0fd4ab2405e98780fed6c3f56098cc17ce52b0f0e1bc50fdea8",
+      "local_sha256": "f3f077f5729fbb7b87fcdeaaa767065938a54ebd53bef513057516128f557087",
+      "bytes": {
+        "upstream": 50057,
+        "local": 50059
+      },
+      "commit": "99ad7a4e4a3f69967017adb12b4998dee7fbd08b",
+      "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:39:59Z"
+    },
+    {
+      "slug": "landmann-kalischer",
+      "path": "en/landmann-kalischer/index.html",
+      "upstream_sha256": "e169e894ef0fca45499b132a280f11f3940550cbfe83eca33c40ddeae267119d",
+      "local_sha256": "88d784bf4e9e2f3b59c0c1ec0e754463004903a0b374702dce8f491680dc026f",
+      "bytes": {
+        "upstream": 103557,
+        "local": 103551
+      },
+      "commit": "99ad7a4e4a3f69967017adb12b4998dee7fbd08b",
+      "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:00Z"
+    },
+    {
+      "slug": "law-ideology",
+      "path": "en/law-ideology/index.html",
+      "upstream_sha256": "24aec92fc4d75ad03ed71aa52c3d5e5266a1c911a0a54386828cdfa8b0fbff74",
+      "local_sha256": "47e4c7c1db2141bea66b5c6d0272ea33a43174ede30791efdfed3951a04252c7",
+      "bytes": {
+        "upstream": 55705,
+        "local": 55715
+      },
+      "commit": "99ad7a4e4a3f69967017adb12b4998dee7fbd08b",
+      "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:00Z"
+    },
+    {
+      "slug": "leibniz-ethics",
+      "path": "en/leibniz-ethics/index.html",
+      "upstream_sha256": "55288647b321381a4b1649154cf716a4b5887fefcf1a86aa406be22c6508e6d7",
+      "local_sha256": "516a4c77c6f975456a81d1955b1afadb63b3db987faafbcfc39ca472ba443c3d",
+      "bytes": {
+        "upstream": 87693,
+        "local": 87693
+      },
+      "commit": "2139df4de3797bf4cd4e979a34bb4be41bed1f38",
+      "subject": "转换器修正五：跳过缩写表裸姓名条目；015 偿还 leibniz-ethics",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:01Z"
+    },
+    {
+      "slug": "leibniz-evil",
+      "path": "en/leibniz-evil/index.html",
+      "upstream_sha256": "b64225d120de656b0f8ee2ec7b733421582a061b813aead42b4064a8421e11b7",
+      "local_sha256": "c90c6a9e62cd46dec0c14401bd465e528ed19ce8257ca4703a750b5225530b6c",
+      "bytes": {
+        "upstream": 103698,
+        "local": 103699
+      },
+      "commit": "02aed01e762b7c92aa696ca2be17e35241505cbc",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:02Z"
+    },
+    {
+      "slug": "leibniz-logic-influence",
+      "path": "en/leibniz-logic-influence/index.html",
+      "upstream_sha256": "8056fb17071a827cbe06db95037458c7b7f05dafc806dcb78989dc0f639f7b96",
+      "local_sha256": "7ba4f6c678fee590a3843d73ebfec6fb90229552834189b76e09031dbfa73c93",
+      "bytes": {
+        "upstream": 61727,
+        "local": 61731
+      },
+      "commit": "ee5029df780e8c9568d222e9383a7d19c4e66988",
+      "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:03Z"
+    },
+    {
+      "slug": "leibniz-mind",
+      "path": "en/leibniz-mind/index.html",
+      "upstream_sha256": "63d15c9157494b6c43a7c92342610e2b5566e551cac898b9f952477a42e5381f",
+      "local_sha256": "b96b7ffb45afc3b007ad51d2292f7605c1d358b2624416c964803312002ec67e",
+      "bytes": {
+        "upstream": 68295,
+        "local": 68295
+      },
+      "commit": "358eb3b98ca70c18df8f8d2e6e79cbd3baf212ff",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:03Z"
+    },
+    {
+      "slug": "leibniz-modal",
+      "path": "en/leibniz-modal/index.html",
+      "upstream_sha256": "242ea95888f7d6e8c3d88abd4098045b1a652ca9fd0a58b830d520aeba198760",
+      "local_sha256": "1f731e6a55b2567411e83f44c9c754b8e6b7fd9f096b1533d6be39b3911efbd0",
+      "bytes": {
+        "upstream": 78133,
+        "local": 78134
+      },
+      "commit": "ee5029df780e8c9568d222e9383a7d19c4e66988",
+      "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:04Z"
+    },
+    {
+      "slug": "leucippus",
+      "path": "en/leucippus/index.html",
+      "upstream_sha256": "a35765e3d545787be7cb397f8dc85947f97fa84f38cdd807e26af88bf546c2b8",
+      "local_sha256": "f2645cbc4e1fce210c60fbe66dd45d97f5c86ecb607a349c50a68945a12f10ca",
+      "bytes": {
+        "upstream": 24908,
+        "local": 24909
+      },
+      "commit": "3df45e890328e74247944aff3db04cf53138e6bf",
+      "subject": "015 偿还 leucippus：小标题译出、衍字、照录区句点与卷期体例",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:04Z"
+    },
+    {
+      "slug": "locke-on-medicine",
+      "path": "en/locke-on-medicine/index.html",
+      "upstream_sha256": "186d294e7d01629926b7e845926987db9db0b427d86ecab2a0a45efc2e7fe447",
+      "local_sha256": "c747527891398036d2bafb628d6359462e3f7d97202151893ef22008dc8e4743",
+      "bytes": {
+        "upstream": 103561,
+        "local": 103560
+      },
+      "commit": "4c3b9fc9ba1fe29b78edacdfc10732479d22518e",
+      "subject": "015 偿还 locke-on-medicine：小标题、拼写勘误、引文断句合并",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:05Z"
+    },
+    {
+      "slug": "logic-preference",
+      "path": "en/logic-preference/index.html",
+      "upstream_sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b",
+      "local_sha256": "93eb5af83393791d87c8d01c39ce4483a2fa7c569b971f3c96eb89c556e00dc0",
+      "bytes": {
+        "upstream": 119258,
+        "local": 119259
+      },
+      "commit": "eea82aacc915609cdd8e019ade90d69350e61e11",
+      "subject": "015 偿还 logic-preference 等九条：图注重复行清理、V2 传递式、照录区勘误",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:06Z"
+    },
+    {
+      "slug": "logic-provability",
+      "path": "en/logic-provability/index.html",
+      "upstream_sha256": "31ac09d95f06bd5c5b498c64f8da0825effc6f4ef2a442b050b730b00f838e37",
+      "local_sha256": "45542443ce0a09f69ddcc79da353b48cd398154dab9be517c9dfa8dcd0a84283",
+      "bytes": {
+        "upstream": 115408,
+        "local": 115408
+      },
+      "commit": "a2b29aea572a89fcc07436c75fca80b12200a634",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:06Z"
+    },
+    {
+      "slug": "lorenzo-valla",
+      "path": "en/lorenzo-valla/index.html",
+      "upstream_sha256": "66bf0ca22e915c6122c99a9f8a4dcc191fc93724a0d56f4b9968cd558a180476",
+      "local_sha256": "bb3e8dd51020e4908ce076c03354725d5e4a81a93eaab56fffd9cb085387dfd9",
+      "bytes": {
+        "upstream": 89295,
+        "local": 89297
+      },
+      "commit": "203f650b2351dcbfac956170d6be7bd0ac56f9cc",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:07Z"
+    },
+    {
+      "slug": "marsilius-inghen",
+      "path": "en/marsilius-inghen/index.html",
+      "upstream_sha256": "56d8e6fdfff56ee097f66f5de9eb0834b5f7ecc8136a4183cd957aa90be11e86",
+      "local_sha256": "59f93b6a51fbf8158c2cb74f88f9946b1cd2475e74d12355b0f06583db86c6a2",
+      "bytes": {
+        "upstream": 58288,
+        "local": 58269
+      },
+      "commit": "4cea8de488719f88df3b711fb067986f84b37557",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:07Z"
+    },
+    {
+      "slug": "mathematics-inconsistent",
+      "path": "en/mathematics-inconsistent/index.html",
+      "upstream_sha256": "e7ac610a1d9f42bdae596448ade1dea2ebdb8a002d9026899ebf87b3ee1303ad",
+      "local_sha256": "17fb26bb109319ef59bbeda2d279476089d05edf8f8c694a6b95da174a1b951e",
+      "bytes": {
+        "upstream": 52448,
+        "local": 52452
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:08Z"
+    },
+    {
+      "slug": "modesty-humility",
+      "path": "en/modesty-humility/index.html",
+      "upstream_sha256": "445724ae9b47a22a1bfc02fa819b8e7be9ac6079d0d8faf69965c68a6fcadce8",
+      "local_sha256": "b55744ffdf5f405c332ca846f2442643375575790708f0d3cd3fa4c62b698686",
+      "bytes": {
+        "upstream": 66149,
+        "local": 66170
+      },
+      "commit": "143f843c49e75437484946e52c020236f8ccc131",
+      "subject": "015 偿还 modesty-humility：书目逗号、Aidōs 转写、引号方向与斜体",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:09Z"
+    },
+    {
+      "slug": "molyneux-problem",
+      "path": "en/molyneux-problem/index.html",
+      "upstream_sha256": "fca86a12704f01961be0424e8d1574353e1af2e17978c878debea1715e4d3d04",
+      "local_sha256": "f8603368d59d27130566307199769948785ae0179e3ace08cb15e392169d3916",
+      "bytes": {
+        "upstream": 49242,
+        "local": 49242
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:10Z"
+    },
+    {
+      "slug": "montesquieu",
+      "path": "en/montesquieu/index.html",
+      "upstream_sha256": "8fd26789d2b1f5463c69a611e24cbeea7dead57a768ad91dc60b45fe28509684",
+      "local_sha256": "b1feb3fd97a08a41b4f4a9e1eeff959e0da3b28ff828db330da7fbb70859307b",
+      "bytes": {
+        "upstream": 67779,
+        "local": 67783
+      },
+      "commit": "12c7ea4bb9b981f7fa9e43a80a902129f5c8e7b2",
+      "subject": "015 偿还 montesquieu：标题姓名体例、法文书名译出、照录区拼写与卷期",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:10Z"
+    },
+    {
+      "slug": "obligationes",
+      "path": "en/obligationes/index.html",
+      "upstream_sha256": "8662d1e902b2543beb8942afaa0c5f6901a2f9be1349b88002af2b25fad1a20f",
+      "local_sha256": "ec08889405905af3d78df0c47c1a6559cfccd0e5944d9ad042c94e59f82ee0af",
+      "bytes": {
+        "upstream": 71677,
+        "local": 71681
+      },
+      "commit": "02aed01e762b7c92aa696ca2be17e35241505cbc",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:11Z"
+    },
+    {
+      "slug": "organ-donation",
+      "path": "en/organ-donation/index.html",
+      "upstream_sha256": "9a11c8307c7a7253fd1900c397a6949ff0e566e90d1fca2f248b4f6e5e63fdda",
+      "local_sha256": "c29cade4482c9bfc7bc399da82e1e5fc970825b1c2ae5ea1e59e2d0b587baa82",
+      "bytes": {
+        "upstream": 102056,
+        "local": 102005
+      },
+      "commit": "5f094de0d880be2634f98277adda77285e7da180",
+      "subject": "015 偿还 organ-donation：作者名倒置、人名拼写、重复条目、卷号与刊名（en 同改重转）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:11Z"
+    },
+    {
+      "slug": "origin-descent",
+      "path": "en/origin-descent/index.html",
+      "upstream_sha256": "be6b7db99eb45aef834b9ffb312779bf1774cef7d691b784ff5b85e36b2238f8",
+      "local_sha256": "7968809a0d24174b2f41a66f1d3022225892e9e99ffaf3e60babc4d3637337b9",
+      "bytes": {
+        "upstream": 152062,
+        "local": 152064
+      },
+      "commit": "ce7e9e09abe156ed450d71085f4c0a5a06cdce42",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:12Z"
+    },
+    {
+      "slug": "redistribution",
+      "path": "en/redistribution/index.html",
+      "upstream_sha256": "26cabfd26b309d969dcb8370a5ecd4fba630a3f034f45c96f092b4a52e9f9af7",
+      "local_sha256": "0affe0d9241d2d69109a7fab26afc96c8fdc797246b16aec142a6dbdef60a791",
+      "bytes": {
+        "upstream": 71517,
+        "local": 71520
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:12Z"
+    },
+    {
+      "slug": "religious-experience",
+      "path": "en/religious-experience/index.html",
+      "upstream_sha256": "0ce3558fed85e12391f21991c87fa4ae6676de9575ec892ec5e4465f795692f3",
+      "local_sha256": "45b1902ff22e30eafd79b9000621332e4e365b66d79e530f7c406860cb4279ac",
+      "bytes": {
+        "upstream": 58103,
+        "local": 58103
+      },
+      "commit": "49e1f869cdce845b9d7179ee4c31c6ba61edab24",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:13Z"
+    },
+    {
+      "slug": "schlegel",
+      "path": "en/schlegel/index.html",
+      "upstream_sha256": "e1f70b3132d703d8adabfb6bc35a011e1b2b2c2436b7f686bf37208efe6653fb",
+      "local_sha256": "1e19eb368b18f330b69510b932835d7b877fb201a2415d20a6a2199673e8bf99",
+      "bytes": {
+        "upstream": 60641,
+        "local": 60647
+      },
+      "commit": "64feb5e535ab8587beed0884741c6739b76fe5db",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:13Z"
+    },
+    {
+      "slug": "scholz",
+      "path": "en/scholz/index.html",
+      "upstream_sha256": "61fbec3e10e3d43a2b62626da19ec209e63b692834ccdb5b8421be6fea113f9d",
+      "local_sha256": "a720b4c00659ccf196128afe8c038c121bec20bd8cf5f008eeaa13d5f1aa94a8",
+      "bytes": {
+        "upstream": 46042,
+        "local": 46021
+      },
+      "commit": "ee5029df780e8c9568d222e9383a7d19c4e66988",
+      "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:14Z"
+    },
+    {
+      "slug": "sophismata",
+      "path": "en/sophismata/index.html",
+      "upstream_sha256": "ed295c5c0a1bdab4de55d2d00394be67abfb1ff4cd80bad8ee90b992481525ca",
+      "local_sha256": "9a8cc3a928a691b507f594c17a7ff2d688a1937122b961031bd8a028c1ba1706",
+      "bytes": {
+        "upstream": 56057,
+        "local": 56049
+      },
+      "commit": "a3722f4a2b81cfbc8782b119ab31d892236a8070",
+      "subject": "015 偿还 sophismata：源头勘误＋小标题与三条说明脚注译出",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:14Z"
+    },
+    {
+      "slug": "spacetime-convensimul",
+      "path": "en/spacetime-convensimul/index.html",
+      "upstream_sha256": "92221768570ce0fa3dac611c3ddd4927a97c3122d049dfe80dcaa2665f19cc04",
+      "local_sha256": "4623e05503d26fa69765dd105f59d55a6c1a75f1cce037e4840ffe18d9bdb454",
+      "bytes": {
+        "upstream": 40197,
+        "local": 40197
+      },
+      "commit": "721e7e7520ed7d13c7435caaf28b028541612553",
+      "subject": "015 偿还 schema／spacetime-convensimul：叠字、英文括注、拼写",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
+      "registered_at": "2026-11-14T19:40:15Z"
+    },
+    {
+      "slug": "social-procedures",
+      "path": "en/social-procedures/index.html",
+      "upstream_sha256": "b0a2311b4426396323f371a258899eaee203bbd104e053befbd0c3fb15d815a7",
+      "local_sha256": "7e9ebcfd2b3ba6cf174514a6849fcbb1972daf4af4e98e68a5188fa9ee8fde77",
+      "bytes": {
+        "upstream": 67666,
+        "local": 67672
+      },
+      "commit": "819234eeb5676d74706355dc95d56a6a40cc2968",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "en 同改（他会勘误批，提交见 git log；ADR-0038 四类）",
+      "registered_at": "2026-11-14T19:42:00Z"
     }
   ]
 }
