@@ -344,9 +344,13 @@ def inline_to_md(html, slug=None):
     # 在 em 转换前逐字转义，渲染仍是字面星（数学已在上一行整体暂存，不涉）
     s = re.sub(r'(</(?:em|i)>)(\*+)',
                lambda m: m.group(1) + '\\*' * len(m.group(2)), s, flags=re.I)
-    s = re.sub(r'(\*+)(<(?:em|i)>)',
+    s = re.sub(r'(\*+)(<(?:em|i)(?:\s[^>]*)?>)',
                lambda m: '\\*' * len(m.group(1)) + m.group(2), s, flags=re.I)
-    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', lambda m: _md_emphasis(m.group(1)), s, flags=re.I)
+    # 2026-11-14 全量回归（缺陷六）：带属性的 em（<em lang="zh-Latn-pinyin">dao</em>、
+    # <em style="text-indent:-2em">书名</em>）旧式正则只认裸 <em>，标签被兜底剥除、
+    # 斜体静默丢失（全库 2568 文件 37898 处）。改为容许属性。
+    s = re.sub(r'<(?:em|i)(?:\s[^>]*)?>([^<]*)</(?:em|i)>',
+               lambda m: _md_emphasis(m.group(1)), s, flags=re.I)
     s = re.sub(r'<strong>([^<]*)</strong>', _md_bold_tag, s, flags=re.I)
     s = re.sub(r'<b(?:\s[^>]*)?>([^<]*)</b>', _md_bold_tag, s, flags=re.I)
     s = re.sub(r'<code>([^<]*)</code>', r'`\1`', s, flags=re.S | re.I)
