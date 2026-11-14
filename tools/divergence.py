@@ -101,10 +101,11 @@ def find_base_commit(path, want_sha):
     return None
 
 
-def check_consistency(files_idx, divs, sha_of, deep=False, blob_sha=None):
+def check_consistency(files_idx, divs, sha_of, deep=False, blob_sha=None,
+                      snapshot_sha=None):
     """纯核验核心（可单测）：files_idx=台账索引，divs=分歧账列表，
-    sha_of(path)->当前 sha 或 None（缺件），blob_sha(commit,path)->原始字节 sha 或 None。
-    返回 (summary, failures)。"""
+    sha_of(path)->当前 sha 或 None（缺件），blob_sha(commit,path)->原始字节 sha 或
+    None，snapshot_sha(path)->快照文件 sha 或 None。返回 (summary, failures)。"""
     failures = []
     pristine = divergent = 0
     div_map = {}
@@ -141,16 +142,26 @@ def check_consistency(files_idx, divs, sha_of, deep=False, blob_sha=None):
         if d.get("local_sha256") != actual:
             failures.append({"path": p, "slug": rec["slug"],
                              "reason": "分歧账 local_sha256 与现文件不符（登记后又改动）"})
-        if not d.get("base_commit"):
-            failures.append({"path": p, "slug": rec["slug"], "reason": "缺 base_commit"})
+        if not d.get("base_commit") and not d.get("base_snapshot"):
+            failures.append({"path": p, "slug": rec["slug"],
+                             "reason": "缺 base_commit/base_snapshot 锚点"})
         elif deep:
-            bs = blob_sha(d["base_commit"], p)
-            if bs is None:
-                failures.append({"path": p, "slug": rec["slug"],
-                                 "reason": "base_commit 原始字节不可核（浅克隆或历史缺失）"})
-            elif bs != rec["sha256"]:
-                failures.append({"path": p, "slug": rec["slug"],
-                                 "reason": "base_commit 的 blob ≠ 原始钉（登记证据有误）"})
+            if d.get("base_snapshot"):
+                bs = snapshot_sha(d["base_snapshot"]) if snapshot_sha else None
+                if bs is None:
+                    failures.append({"path": p, "slug": rec["slug"],
+                                     "reason": "base_snapshot 快照缺失，原始字节不可核"})
+                elif bs != rec["sha256"]:
+                    failures.append({"path": p, "slug": rec["slug"],
+                                     "reason": "base_snapshot 快照 ≠ 原始钉（锚点有误）"})
+            else:
+                bs = blob_sha(d["base_commit"], p)
+                if bs is None:
+                    failures.append({"path": p, "slug": rec["slug"],
+                                     "reason": "base_commit 原始字节不可核（浅克隆或历史缺失）"})
+                elif bs != rec["sha256"]:
+                    failures.append({"path": p, "slug": rec["slug"],
+                                     "reason": "base_commit 的 blob ≠ 原始钉（登记证据有误）"})
     summary = {"checked": len(files_idx), "pristine": pristine,
                "divergent": divergent, "registered": len(divs),
                "failures": failures}
