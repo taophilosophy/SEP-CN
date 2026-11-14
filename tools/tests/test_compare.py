@@ -92,3 +92,20 @@ class TestMapZh(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+HTML_INTRO_MODIFIED = """<!-- BEGIN ARTICLE HTML -->
+<p>导言旧句。</p>
+<h2><a id="sec-1">1. First Section</a></h2>
+<p>第一段。</p>
+<!-- END ARTICLE HTML -->
+"""
+
+
+class TestIntroModified(unittest.TestCase):
+    def test_intro_paragraph_modified_detected(self):
+        """导言伪节的段落修改必须报出（2026-11-15 修复：modified 曾跳过 (intro)）。"""
+        new = HTML_INTRO_MODIFIED.replace("导言旧句。", "导言新句（上游修订）。")
+        old_secs = parse_sections(HTML_INTRO_MODIFIED)
+        new_secs = parse_sections(new)
+        changes = diff_sections(old_secs, new_secs)
+        self.assertTrue(any(c["anchor"] == "(intro)" for c in changes), changes)

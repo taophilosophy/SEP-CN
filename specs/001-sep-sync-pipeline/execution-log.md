@@ -202,3 +202,12 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **验收**：divergence verify --deep 全绿（75 分歧登记、0 失败）；check_all 11 项全绿见收工记录。
 * **过程记录**：①carry 离线验收的中间态被他会 sweep 当真内容收编（e92021001），已外科修复（blame 还原 361cdc454、钉回 9a7a30b69、账目回 23 条重叠 bodily）；②他会新立 ADR-0046（check_pairs）时曾撞号 0045 并把本战役门禁行误标 0046，README 留重复行——已修复（0045=双账，0046=check_pairs）；③他会活跃期 merge 态令 pathspec 提交一次被拒（"partial commit during a merge"），窗口过后重试即成功。
 * **待办移交**：真漂移 72 条走 compare.py 产变更文件 → update 任务批量战役（待用户排期）；其时 errata 在账者用 carry 随迁。
+
+## 2026-11-15（实际比较：72 条真漂移逐件行级 diff＋compare.py 导言盲区修复）
+
+* **任务**：用户新增「进行一次实际比较」。advance-directives 试解剖发现 sha 漂移≠节级变更（实为死链修整），确立原始行级 diff＋归类法。
+* **bug 修复**：compare.py 的 modified 检测跳过「导言」伪节（`a == "(intro)"`），长导言词条（academic-freedom 类）的上游修订全部静默为零；已修复＋回归测试（test_intro_paragraph_modified_detected），节级变更检出 10→39 件。
+* **执行**：compare.py×72（串行礼貌间隔）产 39 份 compare/<slug>.json 变更文件；script/actual_compare.py 逐件原始行级 diff（基=d0294236f 原始字节）归类：正文/书名 1637、属性链接 847、页框 258、结构增删 82、文献区 4。
+* **产出**：results/actual-compare-20261115.{json,md}（逐件摘录）；results/update-dispatch-20261115.md（派工单：done 5 件走变更段、s2.5_checked 4 件挂现有流水、存根 30 件翻译时自带、仅链接/页框 32 件备查）。
+* **过程**：批量两轮假失败根因=队列文件 CRLF（slug 带 \r 不在 baseline）——python 写行序文件必须 newline='\n'；错误 stdout 被覆盖丢过一轮证据，改逐件落盘。
+* **待裁定**（派工单 §E）：done 5 件 rework-open vs reopen；勘误在账件（emotion-Christian-tradition 等）随迁次序。

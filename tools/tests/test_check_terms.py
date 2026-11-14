@@ -5,6 +5,7 @@ ADR-0036（2026-11-13）：发布词汇表并网删除，原「登记册↔词�
 三表比对逻辑整体移除，测试收敛为两登记册自洽口径。
 """
 import io
+import json
 import os
 import sys
 import unittest
@@ -85,6 +86,109 @@ class CheckTermsTests(unittest.TestCase):
         self.assertIn('译法列混入词条 slug：deductive system', out)
         self.assertNotIn('译法列混入词条 slug：modus ponens', out)
         self.assertEqual(code, 1)
+
+
+LEDGER_REG = os.path.join(FIX, 'ledger_registry.md')
+
+
+class LedgerTests(unittest.TestCase):
+    """判读台账（specs/031 FR-1/FR-2，ADR-0048 决策 6）。
+
+    夹具：ledger_registry.md 三行均「首现=demo」；临时目录写 demo.md（只含「平均」）。
+    预期：modus ponens 与 nohit-term 报缺译法（missing），isonomia 只命中变体（ripple）。
+    """
+
+    def setUp(self):
+        import tempfile
+        self.tmp = tempfile.mkdtemp(prefix='term_ledger_')
+        self.doc = os.path.join(self.tmp, 'demo.md')
+        with io.open(self.doc, 'w', encoding='utf-8') as f:
+            f.write('# 演示\n\n本段只写平均二字，不含其他登记译法。\n')
+        self.ledger = os.path.join(self.tmp, 'ledger.json')
+
+    def _run_ledger(self):
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--registry', LEDGER_REG, '--ledger',
+                                     self.ledger, '--docs', self.doc])
+        return code, buf.getvalue()
+
+    def _load(self):
+        with io.open(self.ledger, encoding='utf-8') as f:
+            return json.load(f)
+
+    def test_ledger_written_with_facts_and_blank_judgement(self):
+        code, out = self._run_ledger()
+        self.assertEqual(code, 0)  # --docs 恒 0（告警级）
+        data = self._load()
+        self.assertEqual(data['schema'], 'sep-cn-term-ledger/1')
+        self.assertEqual(len(data['rows']), 3)
+        by_term = {r['term']: r for r in data['rows']}
+        self.assertEqual(by_term['modus ponens']['status'], 'missing')
+        self.assertEqual(by_term['nohit-term']['status'], 'missing')
+        self.assertEqual(by_term['isonomia']['status'], 'ripple')
+        for r in data['rows']:
+            self.assertEqual(r['d_class'], '')
+            self.assertEqual(r['exit'], '')
+            self.assertEqual(r['evidence'], '')
+            self.assertEqual(r['source'], '')
+            self.assertEqual(r['reviewer'], '')
+        self.assertIn('判读台账骨架', out)
+
+    def test_ledger_requires_docs_mode(self):
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--registry', LEDGER_REG, '--ledger', self.ledger])
+        self.assertEqual(code, 2)
+        self.assertIn('仅在 --docs 模式可用', buf.getvalue())
+
+    def test_check_ledger_rejects_unfilled_rows(self):
+        self._run_ledger()
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--check-ledger', self.ledger])
+        out = buf.getvalue()
+        self.assertEqual(code, 1)
+        self.assertIn('d_class 须为', out)
+        self.assertIn('exit 须为', out)
+        self.assertIn('缺 evidence', out)
+
+    def test_check_ledger_accepts_closed_ledger(self):
+        self._run_ledger()
+        data = self._load()
+        for r in data['rows']:
+            r.update(d_class='D2', exit='fix',
+                     evidence='回源核对：该概念未出现，按 D2 记不适用')
+        with io.open(self.ledger, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False)
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--check-ledger', self.ledger])
+        self.assertEqual(code, 0)
+        self.assertIn('0 处违例', buf.getvalue())
+
+    def test_check_ledger_requires_source_for_d3_to_d5_and_reviewer_for_exempt(self):
+        self._run_ledger()
+        data = self._load()
+        rows = data['rows']
+        rows[0].update(d_class='D4', exit='register', evidence='新分行登记')
+        rows[1].update(d_class='D1', exit='exempt', evidence='登记错，保留英文')
+        with io.open(self.ledger, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False)
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--check-ledger', self.ledger])
+        out = buf.getvalue()
+        self.assertEqual(code, 1)
+        self.assertIn('D3–D5 须填 source', out)
+        self.assertIn('豁免须填 reviewer', out)
+
+    def test_check_ledger_unreadable_file(self):
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--check-ledger', os.path.join(self.tmp, 'nope.json')])
+        self.assertEqual(code, 1)
+        self.assertIn('台账不可读', buf.getvalue())
 
 
 if __name__ == '__main__':

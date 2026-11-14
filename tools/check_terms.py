@@ -4,6 +4,9 @@
 用法:
   python tools/check_terms.py                       # 两登记册自洽（门禁）
   python tools/check_terms.py --docs a/某词条.md …   # 定点核销：登记册"首现"驱动的正文核对
+  python tools/check_terms.py --ledger <路径> --docs a/某词条.md …
+                                                    # 定点核销 + 判读台账骨架（ADR-0048 决策 6，specs/031 FR-1）
+  python tools/check_terms.py --check-ledger <路径> # 台账闭合校验（D 类/三出口/凭证，specs/031 FR-2）
   python tools/check_terms.py --registry <路径>     # 测试注入（单表模式）
   python tools/check_terms.py --registry2 <路径>    # 注入第二登记册（人名表）
 
@@ -20,13 +23,16 @@
   - 非英语术语缺原文 = 告警（非硬错误，2026-11-06）：键含非 ASCII 拉丁变音符／
     非拉丁文字，或命中内置小语种词表者，「原文」列为「—」或空（旧五列无该列
     亦视为缺）即记一条；全量清单落 specs/008 results/orig-missing.txt。
-退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0）。
+退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
+        2 参数错误（如 --ledger 未配 --docs）。
 """
 import io
+import json
 import os
 import re
 import sys
 from collections import defaultdict
+from datetime import datetime, timezone
 
 _enc = getattr(sys.stdout, 'encoding', None)
 if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
@@ -42,6 +48,10 @@ ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                              'person-missing.txt')
 DEPRECATED_MARK = '已废弃'
+# 判读台账（ADR-0048 决策 6，specs/031）：机器只写事实，D 类/出口/凭证/复核人留空待人填
+LEDGER_SCHEMA = 'sep-cn-term-ledger/1'
+D_CLASSES = ('D1', 'D2', 'D3', 'D4', 'D5', 'n/a')
+LEDGER_EXITS = ('fix', 'register', 'exempt')
 # 译法列尾段疑似词条 slug（小写拉丁＋连字符，前面带分号）：中文译法不会以此收尾
 SLUG_TAIL_RE = re.compile(r'；\s*[a-z][a-z0-9]*(?:-[a-z0-9]+)*\s*$')
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
@@ -422,21 +432,112 @@ def check_registry_self(rows):
     return errors, warns
 
 
+def _ledger_row(doc, term, trans, variants, head, status):
+    """台账行骨架：事实字段填好，判读字段留空（specs/031 FR-1）。"""
+    return {
+        'doc': doc,
+        'term': term,
+        'translation': trans,
+        'variants': sorted(v for v in variants if v),
+        'head': head,
+        'status': status,
+        'd_class': '',
+        'exit': '',
+        'evidence': '',
+        'source': '',
+        'reviewer': '',
+    }
+
+
+def write_ledger(path, rows, docs):
+    """写判读台账骨架（specs/031 FR-1）：只落事实与待填字段，不预填 D 类。"""
+    payload = {
+        'schema': LEDGER_SCHEMA,
+        'at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+        'docs': list(docs),
+        'rows': rows,
+    }
+    parent = os.path.dirname(os.path.abspath(path))
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    with open(path, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+
+
+def check_ledger(path):
+    """台账闭合校验（specs/031 FR-2）：D 类/三出口/处置依据/查证凭证/复核人齐全。
+
+    只校验台账自身，不读登记册、不跑正文核销；闭合返回 0，违例返回 1。
+    """
+    try:
+        with open(path, encoding='utf-8') as f:
+            data = json.load(f)
+    except (OSError, ValueError) as e:
+        print('台账不可读: %s（%s）' % (path, e))
+        return 1
+    errs = []
+    if not isinstance(data, dict) or data.get('schema') != LEDGER_SCHEMA:
+        errs.append('schema 应为 %s' % LEDGER_SCHEMA)
+    rows = data.get('rows') if isinstance(data, dict) else None
+    if not isinstance(rows, list):
+        errs.append('rows 缺失或不是列表')
+        rows = []
+    for idx, row in enumerate(rows, 1):
+        if not isinstance(row, dict):
+            errs.append('第 %d 行不是对象' % idx)
+            continue
+        term = str(row.get('term') or '').strip()
+        doc = str(row.get('doc') or '').strip()
+        d_class = str(row.get('d_class') or '').strip()
+        exit_ = str(row.get('exit') or '').strip()
+        evidence = str(row.get('evidence') or '').strip()
+        source = str(row.get('source') or '').strip()
+        reviewer = str(row.get('reviewer') or '').strip()
+        tag = '第 %d 行（%s → %s）' % (idx, term or '?', doc or '?')
+        if not term or not doc:
+            errs.append('%s 缺 term/doc' % tag)
+        if d_class not in D_CLASSES:
+            errs.append('%s d_class 须为 %s 之一（现为 %r）'
+                        % (tag, '/'.join(D_CLASSES), d_class))
+        if exit_ not in LEDGER_EXITS:
+            errs.append('%s exit 须为 %s 之一（现为 %r）'
+                        % (tag, '/'.join(LEDGER_EXITS), exit_))
+        if not evidence:
+            errs.append('%s 缺 evidence（处置依据）' % tag)
+        if d_class in ('D3', 'D4', 'D5') and not source:
+            errs.append('%s D3–D5 须填 source（来源+条目/URL+日期）' % tag)
+        if exit_ == 'exempt' and not reviewer:
+            errs.append('%s 豁免须填 reviewer（复核人）' % tag)
+    for e in errs:
+        print('台账违例: %s' % e)
+    print('台账 %s：%d 行，%d 处违例' % (os.path.basename(path), len(rows), len(errs)))
+    return 1 if errs else 0
+
+
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     reg_path, docs = REGISTRY, []
     reg2_path = REGISTRY2
+    ledger_path = ''
     injected = False
     i = 0
     while i < len(argv):
         if argv[i] == '--docs':
             docs = argv[i + 1:]
             break
+        if argv[i] == '--check-ledger':
+            return check_ledger(argv[i + 1] if i + 1 < len(argv) else '')
         if argv[i] == '--registry':
             reg_path, i, injected = argv[i + 1], i + 1, True
         elif argv[i] == '--registry2':
             reg2_path, i = argv[i + 1], i + 1
+        elif argv[i] == '--ledger':
+            ledger_path, i = argv[i + 1], i + 1
         i += 1
+    if ledger_path and not docs:
+        print('--ledger 仅在 --docs 模式可用（先给台账路径，再给 --docs <词条>…）')
+        return 2
     if injected and '--registry2' not in argv:
         reg2_path = ''  # 注入单表模式：跳过人名表，保证测试密闭
 
@@ -473,6 +574,7 @@ def main(argv=None):
     if docs:
         body_cache = {}
         misses = 0
+        ledger_rows = []
         for row in doc_rows:
             term, trans, first_seen = row[0], row[1], row[2]
             slugs = [s for s in re.split(r'[（()）/,、]', first_seen or '')
@@ -491,11 +593,17 @@ def main(argv=None):
                     print('正文缺登记译法（告警）: %s 的「%s」未见于 %s'
                           % (term, '／'.join(sorted(vs)), d))
                     misses += 1
+                    ledger_rows.append(_ledger_row(d, term, trans, vs, head, 'missing'))
                 elif ('亦作' in trans and head and head in vs
                       and head not in found):
                     print('正文主译待对齐（涟漪）: %s 于 %s 用「%s」，主译「%s」未落地'
                           % (term, d, '／'.join(found), head))
+                    ledger_rows.append(_ledger_row(d, term, trans, vs, head, 'ripple'))
         print('定点核销：%d 个文档，%d 处疑似缺译法（仅告警）' % (len(docs), misses))
+        if ledger_path:
+            write_ledger(ledger_path, ledger_rows, docs)
+            print('判读台账骨架（D 类/出口/证据/凭证/复核人待填）: %d 行 → %s'
+                  % (len(ledger_rows), ledger_path))
 
     hard = len(all_self_errors)
     print('硬错误 %d（自洽 %d）' % (hard, len(all_self_errors)))

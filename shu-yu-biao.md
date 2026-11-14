@@ -82,7 +82,7 @@
 | accidental necessity | — | 偶然必然性 | omniscience | 学界通行译名（Ockham/Pike 传统）；凭证 2026-11-09 | 2026-11-09 |
 | accidentality | — | 偶在性 | existentialism-mexican | 亚里士多德偶性（accident）范畴之存在方式义译；取“偶在性”以别于“偶然性”（contingency）；凭证 2026-11-12 | 2026-11-12 |
 | accidents | — | 偶性 | 语料回收（marsilius-inghen 首译） | 经院哲学通行译法（accidentia）；凭证 2026-11-06 | 2026-11-06 |
-| accommodation | — | 顺应；调节 | 语料回收（词汇表并网） | 按语境取义：科学哲学“顺应”、视觉生理学“调节”、语用学“顺应”；词汇表并网（ADR-0036） | 2026-11-13 |
+| accommodation | — | 顺应；调节（亦作“容纳”） | 语料回收（词汇表并网） | 按语境取义：科学哲学“顺应”、视觉生理学“调节”、语用学“顺应”，认知论“容纳（新证据）”义（日志 2024-04-21 纠“住宿”误译）；词汇表并网（ADR-0036） | 2026-11-15 |
 | Account | — | 解释；说明；原理 | 语料回收（词汇表并网） | 按语境取义（give an account of 译“对……给出说明/解释”）；词汇表并网（ADR-0036） | 2026-11-13 |
 | accounting price | — | 核算价格 | ramsey-economics | 学界惯例（von Weizsacker 1965；社会成本收益分析）；凭证 2026-11-11 | 2026-11-11 |
 | accuracy/adroitness/aptness | — | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法 | 2026-11-05 |
@@ -4349,6 +4349,7 @@
 | preceding necessity / subsequent necessity | — | 在先必然性／在后必然性 | peter-damian | 安瑟伦《上帝何以成人》II.17 术语通行译法（necessitas praecedens/sequens）；凭证 2026-11-09 | 2026-11-09 |
 | precession | — | 进动 | newton-principia | 物理学通行（与岁差 precession of the equinoxes 分列）；凭证 2026-11-11 | 2026-11-11 |
 | precession of the equinoxes | — | 岁差（亦作“分点岁差”） | newton | 天文学通行；凭证 2026-11-08；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
+| Port-Royal Logic | La Logique ou l’Art de penser | 《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”） | journal 2024-05-27 | 《波尔-罗亚尔逻辑》国内译名考（zhexueshi.com，日志 2024-05-27 引；书名行 ADR-0011）；2026-11-15 日志增补 | 2026-11-15 |
 | precisification | — | 精确化 | dynamic-semantics | 模糊语义学通行（vague predicates 文献）；凭证 2026-11-12 | 2026-11-12 |
 | precision language | — | 精确语言 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
 | precision medicine | — | 精准医学 | cancer；genetics | 学界通行（医学政策与生命伦理学）；医学通行译名（主会话直译 g/genetics）；凭证 2026-11-09、2026-11-11；2026-11-11 合并同键变体（来源列并双 slug） | 2026-11-11 |
@@ -4411,6 +4412,8 @@
 | principle of incombinability | — | 不可组合原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | principle of indifference | — | 无差别原则 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
 | principle of individuation | principium individuationis | 个体化原理（亦作“个体化原则”） | 首现（simon-faversham） | 学界通行；凭证 2026-11-08；2026-11-15 补亦作（审定形，原理/原则两形并行） | 2026-11-15 |
+| publicity | — | 公开性 | journal 2024-05-28 | 学界通行（Gosseries & Parr 词条语境，民主与透明）；2026-11-15 日志增补 | 2026-11-15 |
+| archdeacon | — | 总执事 | journal 2024-05-23 | 中世纪教职史文献（日志 2024-05-25 考据：黄旭华李盛兵 2018、高露 2021、黄梦婉 2017 等，与 Chancellor 总务长行族配套） | 2026-11-15 |
 | principle of inseparability | — | 不可分离原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | principle of least action | — | 最小作用量原理 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
 | principle of non-contradiction | — | 不矛盾律 | reinach | 学界惯例（逻辑学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -5898,6 +5901,8 @@
 | Transoxania | — | 河中地区 | al-din-al-razi 首译 | 学界通行（Ma warāʾ al-nahr；阿姆河以北） | 2026-11-09 |
 | transscalarity | — | 跨尺度性 | global-democracy 首译 | Scholte 术语，无通行汉译，构词直译 | 2026-11-12 |
 | transversality condition | — | 横截条件 | ramsey-economics | 学界通行（最优控制论与增长理论）；凭证 2026-11-11 | 2026-11-11 |
+| transworld identity | — | 跨界同一性 | 语料回收（日志 2024-05-09 引） | 程平文《可能世界理论中的跨界同一性和跨界识别问题》（苏州大学 2010，日志引）；2026-11-15 日志增补 | 2026-11-15 |
+| cellular automata | — | 元胞自动机 | 语料回收（日志 2024-05-01） | 学界通行（计算哲学与数学基础文献）；2026-11-15 日志增补 | 2026-11-15 |
 | Träume eines Geistersehers | Träume eines Geistersehers | 《视灵者的梦》（康德） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
 | Treasure of Reasoning（Tshad ma rigs gter） | — | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作） | 2026-11-04 |
 | treatment as an equal | — | 平等待人 | disability-care-rationing | 政治哲学通行（与 equal treatment 同等对待对举）；凭证 2026-11-08 | 2026-11-08 |

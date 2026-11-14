@@ -1162,7 +1162,7 @@
 | Dunash Ibn Tamim | Dunash Ibn Tamim | 杜纳什·伊本·塔米姆 | — | — | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生） | 2026-11-06 |
 | Duncan-Jones, Austin | — | 奥斯汀·邓肯-琼斯 | 英国 | 1908–1967 | stebbing | 本词条首译（剑桥分析学派成员，无通行汉名） | 2026-11-09 |
 | Dunn, J. Michael | — | J. Michael Dunn | — | —；logic-linear | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| Duns Scotus, John / Duns Scotus / Scotus, John Duns | — | 邓斯·司各脱（亦作“司各脱”） | 英国／法国／神学 | 1266–1308 | 语料回收（全目录）；occasionalism；albert-great | 学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Duns Scotus`、`Scotus, John Duns`）；籍属/生卒联网查证：GND 规范标目 gnd 118528165（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
+| Duns Scotus, John / Duns Scotus / Scotus, John Duns | — | 邓斯·司各脱（亦作“司各脱”“约翰·邓·司各脱”） | 英国／法国／神学 | 1266–1308 | 语料回收（全目录）；occasionalism；albert-great | 学界通行汉译；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Duns Scotus`、`Scotus, John Duns`）；籍属/生卒联网查证：GND 规范标目 gnd 118528165（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Dupleix, Scipion | — | 西皮翁·迪普莱克斯 | 法国 | 1569–1661 | natphil-ren | 本词条首译（法国史家、亚里士多德摘要者）；凭证 2026-11-10 | 2026-11-10 |
 | Duplessis-Mornay, Philippe | — | 菲利普·迪普莱西-莫尔奈 | 法国／神学 | 1549–1623 | la-forge | 学界惯例音译（法国新教政治家，1599 年创办索米尔学院）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118584200（2026-11-14 查，凭证 verify-2026-11-14-gnd-g.tsv） | 2026-11-14 |
 | Durà-Vilà, Víctor | Víctor Durà-Vilà | 维克托·杜拉-维拉 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
@@ -3166,7 +3166,7 @@
 | Oosten, Jaap van | — | van Oosten（现代学者，保留英文） | 荷兰 | — | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10 | 2026-11-10 |
 | Oppy, Graham | — | 格雷厄姆·奥皮 | 澳大利亚 | 1960– | omniscience | 学界通行音译；凭证 2026-11-09 | 2026-11-09 |
 | Orbán, Viktor | — | 欧尔班·维克托 | — | — | globalization | 时事通行汉译（匈牙利总理；匈语姓名序） | 2026-11-10 |
-| Oresme, Nicole | — | 尼科尔·奥雷斯姆（正文简作“奥雷斯姆”） | — | — | duhem；nicole-oresme | 学界惯例（中世纪哲学家通行汉译；2026-11-08 名形统一：妮可→尼科尔、“奥雷姆”补“斯”，与 SUMMARY/已译语料归一，用户裁定）；凭证 2026-11-06 | 2026-11-08 |
+| Oresme, Nicole | — | 尼科尔·奥雷斯姆（正文简作“奥雷斯姆”；亦作“奥雷姆”） | — | — | duhem；nicole-oresme | 学界惯例（中世纪哲学家通行汉译；2026-11-08 名形统一：妮可→尼科尔、“奥雷姆”补“斯”，与 SUMMARY/已译语料归一，用户裁定）；凭证 2026-11-06 | 2026-11-08 |
 | Orey, Steven | — | Orey | — | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 美国 | 2026-11-09 |
 | Oria, Juan de | — | 胡安·德·奥里亚 | 西班牙／逻辑学家 | fl. 1510s–1540s | gomez-pereira | 音译（萨拉曼卡大学逻辑学教授，后遭宗教裁判所判罪）；凭证 2026-11-12 | 2026-11-12 |
 | Origen | — | 奥利金 | — | — | erasmus | 学界惯例（教父通译） | 2026-11-04 |
@@ -3332,6 +3332,7 @@
 | Philip Bump | — | 菲利普·邦普 | — | — | justice-healthcareaccess | 学界惯例（新闻/政治评论通行译法） | 2026-11-02 |
 | Philip II | — | 腓力二世 | 西班牙／国王 | 1527–1598 | gomez-pereira | 学界通行汉译；凭证 2026-11-12 | 2026-11-12 |
 | Philip IV (the Fair), King of France | — | 腓力四世（美男子） | — | — | giles | 学界通行汉译（法国国王） | 2026-11-10 |
+| Peter of Spain | Petrus Hispanus | 西班牙的彼得（彼得·希斯帕努斯） | 葡萄牙（一说西班牙多明我会士，另有 Petrus Ferrandi Hispanus 归属说） | 13 世纪（fl. 13 世纪中叶） | peter-spain | 学界通行汉译；作者真实身份为源文考据难题（长期认作后为教皇约翰二十一世之葡萄牙人，另有西班牙多明我会士说与 Petrus Ferrandi Hispanus 说，源文并陈）；日志 2024-05-20 考据 | 2026-11-15 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
 | Philipp Jakob Spener | — | 菲利普·雅各布·施佩纳 | — | — | 18thGerman-preKant | 学界通行汉译（虔敬派创始人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Phillips, D. Z. | — | D. Z. 菲利普斯 | 英国（威尔士）／哲学家 | 1934–2006 | religion-epistemology | 学界通行（维特根斯坦式信仰主义）；凭证 2026-11-10 | 2026-11-10 |
@@ -3340,7 +3341,7 @@
 | Philo of Larissa | — | 拉里萨的斐洛 | 希腊（拉里萨） | 公元前 159/8—前 84/3 | carneades | 学界通行汉译（学园最后一位领袖）；凭证 2026-11-10 | 2026-11-09 |
 | Philo the Logician | Philo of Megara | 麦加拉的菲洛（亦称“逻辑学家菲洛”） | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯门生；与皮浪追随者菲洛、亚历山里亚的斐洛异人）；凭证 2026-11-07 | 2026-11-07 |
 | Philodemus | Φιλόδημος | 菲洛德穆 | 叙利亚／伊壁鸠鲁派 | 约 前 110–约 前 40 | epicurus | 学界通行（赫库兰尼姆纸草藏书主人） | 2026-11-12 |
-| Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | — | — | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
+| Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”“费罗普勒斯”） | — | — | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
 | Piaget, Jean / Jean Piaget | — | 让·皮亚杰 | 瑞士 | 1896–1980 | justice-virtue；innateness-cognition | 学界通行汉译（发生认识论）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Jean Piaget`） | 2026-11-13 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Picasso, Pablo | — | 巴勃罗·毕加索 | 西班牙 | 1881–1973 | early-modern-india | 通行汉译（摹本类比提及）；凭证 2026-11-10 | 2026-11-10 |
@@ -3844,7 +3845,7 @@
 | Sewall Wright | — | 休厄尔·赖特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Sewall, Helen | — | 海伦·休厄尔 | — | — | langer | 美国画家、童书插画家（朗格《机器妖精童话》插图者；音译）；凭证 2026-11-08 | 2026-11-08 |
 | Sextus | — | 塞克斯图斯（《神义论》命运之书一节的罗马人物，即塞克斯图斯·塔克文） | — | — | leibniz-modal | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
-| Sextus Empiricus | — | 塞克斯都·恩披里柯（亦作“恩培里柯”） | — | — | 语料回收（全目录）、jayaraasi | 沿用既有登记形（2026-10-30 行；《皮浪学说纲要》作者）；两行主形一致，合并为一（jayaraasi 沿用 2026-10-30 既有登记形） | 2026-11-07 |
+| Sextus Empiricus | — | 塞克斯都·恩披里柯（亦作“恩培里柯”“恩披里克”） | — | — | 语料回收（全目录）、jayaraasi | 沿用既有登记形（2026-10-30 行；《皮浪学说纲要》作者）；两行主形一致，合并为一（jayaraasi 沿用 2026-10-30 既有登记形） | 2026-11-07 |
 | Shacknove, Andrew | — | 安德鲁·沙克诺夫 | — | — | immigration | 音译（难民定义批评）；凭证 2026-11-12 | 2026-11-12 |
 | Shaftesbury, 3rd Earl of / 3rd Earl of Shaftesbury / Lord Shaftesbury | — | 沙夫茨伯里 | — | — | aesthetics-18th-british | 学界通行（Anthony Ashley Cooper，内在感官说先驱；正文以爵号行文） | 2026-11-06 |
 | Shahrazurī, Muḥammad | — | 穆罕默德·沙赫拉祖里 | — | — | arabic-islamic-mysticism | 照明哲学史通行音译 | 2026-11-07 |

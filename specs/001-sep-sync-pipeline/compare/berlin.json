@@ -1,0 +1,27 @@
+{
+ "slug": "berlin",
+ "changed": true,
+ "compared_at": "2026-11-14T20:56:14Z",
+ "new_snapshot": "script\\tmp\\compare-berlin.html",
+ "sections_changed": 1,
+ "changes": [
+  {
+   "type": "removed",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and Muspratt &copy; The Trustees of the Isaiah Berlin Literary Trust Isaiah Berlin First published T",
+   "zh_doc": "b/berlin.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  },
+  {
+   "type": "added",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and Muspratt &copy; The Trustees of the Isaiah Berlin Literary Trust Isaiah Berlin First published T",
+   "zh_doc": "b/berlin.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  }
+ ]
+}

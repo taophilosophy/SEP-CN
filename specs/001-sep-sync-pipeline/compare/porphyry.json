@@ -1,0 +1,27 @@
+{
+ "slug": "porphyry",
+ "changed": true,
+ "compared_at": "2026-11-14T20:58:04Z",
+ "new_snapshot": "script\\tmp\\compare-porphyry.html",
+ "sections_changed": 1,
+ "changes": [
+  {
+   "type": "removed",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Porphyry First published Fri Feb 18, 2005; substantive revision Wed Feb 17, 2021 Porphyry (234?&ndash;305? C.E.) was a Neoplatonist philosopher born in Tyre in ",
+   "zh_doc": "p/porphyry.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  },
+  {
+   "type": "added",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Porphyry First published Fri Feb 18, 2005; substantive revision Tue Nov 10, 2026 Porphyry (234?&ndash;305? C.E.) was a Neoplatonist philosopher, born in Tyre in",
+   "zh_doc": "p/porphyry.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  }
+ ]
+}

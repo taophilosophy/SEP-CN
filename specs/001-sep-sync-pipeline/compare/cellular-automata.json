@@ -1,0 +1,27 @@
+{
+ "slug": "cellular-automata",
+ "changed": true,
+ "compared_at": "2026-11-14T20:56:16Z",
+ "new_snapshot": "script\\tmp\\compare-cellular-automata.html",
+ "sections_changed": 1,
+ "changes": [
+  {
+   "type": "removed",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Cellular Automata First published Mon Mar 26, 2012; substantive revision Fri Dec 15, 2023 Cellular automata (henceforth: CA) are discrete , abstract computation",
+   "zh_doc": "c/cellular-automata.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  },
+  {
+   "type": "added",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Cellular Automata First published Mon Mar 26, 2012; substantive revision Fri Dec 15, 2023 Cellular automata (henceforth: CA) are discrete , abstract computation",
+   "zh_doc": "c/cellular-automata.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  }
+ ]
+}

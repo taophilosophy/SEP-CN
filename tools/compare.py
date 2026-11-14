@@ -103,9 +103,10 @@ def diff_sections(old, new):
         if t in old_titles and old_titles[t] not in new_by:
             changes.append({"type": "moved", "anchor": a, "title": t,
                             "excerpt": "自锚 %s 移入" % old_titles[t]})
-    # modified：同锚（或同标题同锚）段落文本变化
+    # modified：同锚段落文本变化（含「导言」伪节——2026-11-15 修复：导言修改曾被跳过，
+    # academic-freedom 一类长导言词条的上游修订因此静默为零）
     for a, (t, ps_new) in new_by.items():
-        if a not in old_by or a == "(intro)":
+        if a not in old_by:
             continue
         ps_old = old_by[a][1]
         sm = difflib.SequenceMatcher(None, ps_old, ps_new, autojunk=False)

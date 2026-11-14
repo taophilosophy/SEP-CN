@@ -1,0 +1,27 @@
+{
+ "slug": "green",
+ "changed": true,
+ "compared_at": "2026-11-14T20:57:11Z",
+ "new_snapshot": "script\\tmp\\compare-green.html",
+ "sections_changed": 1,
+ "changes": [
+  {
+   "type": "removed",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Thomas Hill Green First published Wed Dec 29, 2021 Thomas Hill Green (1836&ndash;82) is widely regarded as the founding and most influential figure in the tradi",
+   "zh_doc": "g/green.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  },
+  {
+   "type": "added",
+   "anchor": "(intro)",
+   "title": "导言",
+   "excerpt": "Thomas Hill Green First published Wed Dec 29, 2021; substantive revision Wed Oct 28, 2026 Thomas Hill Green (1836&ndash;82) is widely regarded as the founding a",
+   "zh_doc": "g/green.md",
+   "zh_section": "译文存根（未翻译），翻译后按节插入该变更",
+   "zh_line": null
+  }
+ ]
+}
