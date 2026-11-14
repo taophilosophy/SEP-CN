@@ -12,7 +12,7 @@
 
 ## 2 著作
 
-归于埃尔福特的托马斯名下的著作有六部。除上述语法论著（全题为《论意指样式或思辨语法》，Bursill-Hall 1972 编）[^bursill-hall-1972],[^note-5] 之外，还有四篇短小的 **释义**（*expositiones*），即逐字面注释。它们分别关于波菲利的《导论》，以及亚里士多德的《范畴篇》《解释篇》与佚名的《六原理书》。最后还有一部为学童教授语法的极简短的助记韵文著作《“学童根基”颂注释》（Gansiniec 1960 编）[^gansiniec-1960]，不过其编者认为它实际上是《论意指样式》的一部佚名节本。无论如何，托马斯的名声来自《论意指样式》，它至今仍是他唯一被细致研究的著作。
+归于埃尔福特的托马斯名下的著作有六部。除上述语法论著（全题为《论意指样式或思辨语法》，Bursill-Hall 1972 编）[^bursill-hall-1972][^note-5] 之外，还有四篇短小的 **释义**（*expositiones*），即逐字面注释。它们分别关于波菲利的《导论》，以及亚里士多德的《范畴篇》《解释篇》与佚名的《六原理书》。最后还有一部为学童教授语法的极简短的助记韵文著作《“学童根基”颂注释》（Gansiniec 1960 编）[^gansiniec-1960]，不过其编者认为它实际上是《论意指样式》的一部佚名节本。无论如何，托马斯的名声来自《论意指样式》，它至今仍是他唯一被细致研究的著作。
 
 《论意指样式》流行之广，使它成为摩迪斯泰传统的标准（后来又是代表）文本（见下一节），存于 40 余份 14 与 15 世纪抄本之中。15 世纪晚期出现了一个印本，在 1639 年瓦丁版司各脱全书的“定本”重印之前，竟重印了 11 次之多。[^note-6]
 
@@ -76,7 +76,7 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erfurt)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/erfurt/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/erfurt/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/erfurt/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=erfurt&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/erfurt/) 查看本词条的增强文献目录及其数据库链接。
 
@@ -120,7 +120,7 @@
 
 [^note-15]: 关于埃尔福特的托马斯等“第二代”摩迪斯泰派中间的发展，见 Marmo 1995。
 
-[^note-16]: 1330 年被视为摩迪斯泰学说的 **终限年代**，因为在这一年，阿威罗伊主义大师约翰·奥里法伯在埃尔福特大学对意指样式学说发动了猛烈攻击，该学说从此再未完全恢复。但在此之前，该学说在巴黎已处于退却之中，在那里它已遭受了另一位阿威罗伊主义者让丹的约翰之手相似的命运（见 Pinborg 1967: 195–209; 1982: 267–8）[^pinborg-1967]。对摩迪斯泰学说最著名的批判——名字起得恰如其分，叫《意指样式之摧毁》——由一位佚名巴黎作者在近半个世纪后写成，人们曾一度认为他是皮埃尔·德阿伊（Kaczmarek 1994）[^kaczmarek-1994]。同样出现于 14 世纪第三个二十五年间的，还有某位马西利乌斯大师（=因亨的马西利乌斯？）的《〈教科书〉第二部分问题集》，他似乎熟知《意指样式之摧毁》。摩迪斯泰学说在后来的几个世纪中找到了一些零星的拥护者，但再未重新进入语义学主流。关于埃尔福特与巴黎对摩迪斯泰学说的回应，见 Biard 1989: 242–88。
+[^note-16]: 1330 年被视为摩迪斯泰学说的 **终限年代**，因为在这一年，阿威罗伊主义大师约翰·奥里法伯在埃尔福特大学对意指样式学说发动了猛烈攻击，该学说从此再未完全恢复。但在此之前，该学说在巴黎已处于退却之中，在那里它已遭受了另一位阿威罗伊主义者让丹的约翰之手相似的命运（见 Pinborg 1967: 195–209; 1982: 267–8）[^pinborg-1967]。对摩迪斯泰学说最著名的批判——名字起得恰如其分，叫《意指样式之摧毁》——由一位佚名巴黎作者在近半个世纪后写成，人们曾一度认为他是皮埃尔·德阿伊（Kaczmarek 1994）[^kaczmarek-1994]。同样出现于 14 世纪第三个二十五年间的，还有某位马西利乌斯大师（=因根的马西利乌斯？）的《〈教科书〉第二部分问题集》，他似乎熟知《意指样式之摧毁》。摩迪斯泰学说在后来的几个世纪中找到了一些零星的拥护者，但再未重新进入语义学主流。关于埃尔福特与巴黎对摩迪斯泰学说的回应，见 Biard 1989: 242–88。
 
 [^note-17]: 关于这些要点，见 Pinborg 1982 与 Marmo 1995。
 
@@ -172,7 +172,7 @@
 
 [^ebbesen-1998]: Ebbesen, Sten, 1998, “The Paris Arts Faculty: Siger of Brabant, Boethius of Dacia, Radulphus Brito,” in *Medieval Philosophy*, John Marenbon (ed.), *The Routledge History of Philosophy* (Volume III), London, New York: Routledge, 269–90.
 
-[^fredborg-1980]: Fredborg, Karin Margareta, 1980, “Universal Grammar According to Some 12th-Century Grammarians,” in Konrad Koerner et al. (eds.), *Studies in Medieval Linguistic Thought*, Historiagraphia Linguistica, VII.1/2, Amsterdam: John Benjamins, 69–84.
+[^fredborg-1980]: Fredborg, Karin Margareta, 1980, “Universal Grammar According to Some 12th-Century Grammarians,” in Konrad Koerner et al. (eds.), *Studies in Medieval Linguistic Thought*, Historiographia Linguistica, VII.1/2, Amsterdam: John Benjamins, 69–84.
 
 [^fredborg-1988]: –––, 1988, “Speculative Grammar,” in *A History of Twelfth-Century Philosophy*, Peter Dronke (ed.), Cambridge, New York: Cambridge University Press, 177–95.
 
@@ -180,7 +180,7 @@
 
 [^grabmann-1922]: Grabmann, Martin, 1922, “De Thomas Erfordiensi auctore Grammaticae quae Ioanni Duns Scoto adscribitur speculativae,” *Archivum Franciscanum Historicum*, 15: 273–7.
 
-[^grabmann-1926]: –––, 1926, *Mittelalterliches Geistesleben. Abhandlung zur Geschichte der Scholastik und Mystic*, Bd. 1, München: Max Heuber, 116–25.
+[^grabmann-1926]: –––, 1926, *Mittelalterliches Geistesleben. Abhandlung zur Geschichte der Scholastik und Mystik*, Bd. 1, München: Max Heuber, 116–25.
 
 [^grabmann-1943]: –––, 1943, *Thomas von Erfurt und die Sprachlogik des mittelalterlichen Aristotelismus*, (Sitzungsberichte der Bayerischen Akademie der Wissenschaft, Heft 2), München: Heuber.
 

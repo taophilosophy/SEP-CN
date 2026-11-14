@@ -50,7 +50,7 @@
 
 作为十七世纪的一位女性哲学家，安妮·康威因其哲学得以出版而显得不同寻常。据知，她的哲学深受莱布尼茨好评（他实际上拥有一部她的论著——很可能是他们的共同朋友范·赫尔蒙特所赠）。但是，尽管有莱布尼茨的赞许，康威著作的匿名性仍使她遭遇大多数前现代女性哲学家所共同遭受的那种忽视。然而，这种情况在二十世纪后期随着人们对女性哲学家的兴趣日增而改变。在现代版本（Loptson，Conway 1998）与新译本（Corse 与 Coudert，Conway 1996）[^conway-1996]，连同她书信集的修订版（《康威书信集》1992）出版之后，康威的哲学命运发生了戏剧性的转变。除少数例外（Broad 2003、Hutton 2004、Head 2020）[^broad-2003][^head-2020][^hutton-2004][^hutton-2020]，关于她哲学的日益增多的研究，在很大程度上聚焦于其与经典哲学家的关系。这也许反映了教学经典的主导地位：她的柏拉图主义（新柏拉图主义）仍相对被忽视（但见 Hutton 2018 与 2022、Mercer 2012 与 2019，以及 Branscum 2023）[^branscum-2023][^hutton-2018][^hutton-2019][^mercer-2019][^mercer-2023]。关于研究她哲学之各种进路的概述，见 Rodriguez 2024。
 
-## References（引用注释）
+## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -61,7 +61,7 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/conway/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conway/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。
 

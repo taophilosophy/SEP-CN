@@ -231,7 +231,7 @@ Routley 与 Val Plumwood（1989）、Mares 与 André Fuhrmann（1995）提出�
 
 相干逻辑不只用于哲学，也用于计算机科学。线性逻辑——Jean-Yves Girard 开创的一个逻辑分支——是计算资源的逻辑。线性逻辑学家把蕴涵 $A \rightarrow B$ 读作：拥有类型 $A$ 的资源，就能得到类型 $B$ 的东西。因此，若有 $A \rightarrow(A \rightarrow B)$，便知可以从两份类型 $A$ 的资源得到一个 $B$；但这并不意味着能从单份类型 $A$ 的资源得到 $B$，也就是说，不知道能否得到 $A \rightarrow B$。所以收缩在线性逻辑中失效。线性逻辑其实就是缺少收缩、也缺少合取对析取分配律 $((A \mathbin{\&}(B \vee C)) \rightarrow((A \mathbin{\&} B) \vee(A \mathbin{\&} C)))$ 的相干逻辑。它还有两个算子（! 与 ?），称为“指数”：把指数加在公式前面，就好像让该公式取得“经典”行事的资格。例如，在标准相干逻辑中，通常不能只给有效推理添一个前提还让它保持有效；但加上形如 $!A$ 的前提，就总能保持有效。线性逻辑对形如 $!A$ 的公式还有收缩，即 $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$ 是这些逻辑的定理（见 Troelstra 1992）[^troelstra-1992]。! 的用处，是处理“可以随意复制或忽略”的资源（Restall 2000, p 56）[^restall-2000]。线性逻辑的更多内容，见“子结构逻辑”词条。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 

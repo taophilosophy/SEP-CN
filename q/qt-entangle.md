@@ -102,7 +102,7 @@ Steane 在综述末尾提出了这样一个激进的构想（1998, p. 171）：
 
 在所谓“广义概率论”或“Boxworld”框架里，已有大量研究追问：在“无信号传递”理论这一类中，究竟哪些信息论约束能够刻画量子理论。这方面的有趣结果见 Brassard 2005、van Dam 2005、Skrzypczyk, Brunner, and Popescu 2009、Pawlowski *et al*. 2009、Allcock *et al*. 2009、Navascues and Wunderlich 2009、Al–Safi and Short 2013、Ramanathan *et al* 2010 以及 Ringbauer *et al*（2014）。Chiribella and Spekkens 2016 是一部论文集，出自加拿大滑铁卢圆周理论物理研究所的一次会议，议题是量子基础与量子信息交界处的新研究。关于 QBism 这一极端主观主义的信息论视角，见 Fuchs 2014 以及关于量子贝叶斯式与实用主义式量子理论观点的词条。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 

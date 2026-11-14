@@ -201,7 +201,7 @@
 
 [^note-13]: … particulare est duplex: quoddam per materiam, quoddam per subsistentiam, et hoc ultimo modo sunt intelligentiae particulares. Tunc dico quod intellectus meus est particularis, sed non est particularis per materiam, sed per subsistentiam quamdam, inquantum est virtus per se subsistens, non actus alicuius corporis. (ed. Sharp 1934: 329)[^sharp-1934]
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
