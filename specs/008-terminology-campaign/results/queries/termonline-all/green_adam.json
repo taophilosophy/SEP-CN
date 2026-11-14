@@ -2,10 +2,347 @@
  "key": "green, adam",
  "term": "Green, Adam",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T00:52:04+00:00",
- "status": "error",
- "note": "variant=Green, Adam; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Green, Adam: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:26:56+00:00",
+ "status": "ok",
+ "note": "variant=Green, Adam; 审定公布名词库=772; 海峡两岸名词对照库=113; 其他来源数据库=53; 预公布名词数据库=21; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "硬石",
+   "en": "adamant",
+   "code": "08.0360",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "亚当·斯密",
+   "en": "Adam Smith（1723—1790）",
+   "code": "16.009",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "亚当斯催化剂",
+   "en": "Adams catalyst",
+   "code": "08.0586",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_催化剂"
+  },
+  {
+   "cn": "威廉逊-亚当斯方程",
+   "en": "Williamson-Adams equation",
+   "code": "01.1141",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震学与地球内部构造"
+  },
+  {
+   "cn": "阿-斯综合征",
+   "en": "Adams-Stokes syndrome",
+   "code": "01.229",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "亚当斯[-巴什福思]法",
+   "en": "Adams[-Bashforth] method",
+   "code": "010.0285",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值微分·数值积分"
+  },
+  {
+   "cn": "亚当斯-莫尔顿法",
+   "en": "Adams-Moulton method",
+   "code": "010.0286",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值微分·数值积分"
+  },
+  {
+   "cn": "果岭",
+   "en": "green ",
+   "code": "4.083",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草坪学"
+  },
+  {
+   "cn": "绿色",
+   "en": "green",
+   "code": "05.028",
+   "standard": "光学名词",
+   "subject": "光学_色度学"
+  },
+  {
+   "cn": "亚当斯-奥利弗综合征",
+   "en": "Adams-Oliver syndrome;AOS",
+   "code": "5.377",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "绿皮书",
+   "en": "green book,green paper",
+   "code": "03.070",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "绿地",
+   "en": "green space,green area",
+   "code": "09.047",
+   "standard": "林学名词",
+   "subject": "林学_风景园林_风景园林规划与设计"
+  },
+  {
+   "cn": "克里格，亚当",
+   "en": "Krieger\",\"Adam(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "亚当斯，约翰",
+   "en": "Adams\",\"John(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "亚当，阿道夫-夏勒",
+   "en": "Adam\",\"Adolphe-Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "希勒，约翰",
+   "en": "Hiller\",\"Johann Adam(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "施特隆克",
+   "en": "Strungk\",\"Nicolaus Adam(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "鲜皮",
+   "en": "green hide\",\"green skin",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "碘绿",
+   "en": "iodine green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "甲基绿",
+   "en": "methyl green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "甲烯绿（=亚甲绿）",
+   "en": "methylene green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "亮绿（=乙基绿）",
+   "en": "ethyl green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "萘酚绿",
+   "en": "naphthol green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "亚甲绿，甲烯绿",
+   "en": "methylene green",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "喉结",
+   "en": "Adam's apple",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light\",\"green signal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "草坪",
+   "en": "green\",\"turf",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "绿色营销",
+   "en": "green marketing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色金融",
+   "en": "green finance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色债券",
+   "en": "green bond",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色保险",
+   "en": "green insurance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色信贷",
+   "en": "green credit",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色建筑",
+   "en": "green building",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色革命",
+   "en": "Green Revolution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海绵城市",
+   "en": "Green infrastructure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色发展",
+   "en": "green development",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色绿党",
+   "en": "Green greens",
+   "code": "3.14.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "阿-斯综合征",
+   "en": "Adams-Stokes syndrome",
+   "code": "3.2.6.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "绿色犯罪学",
+   "en": "green criminology",
+   "code": "3.14.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源"
+  },
+  {
+   "cn": "绿色政治家",
+   "en": "green politicians",
+   "code": "3.14.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "绿色食品",
+   "en": "green food",
+   "code": "5.23.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "孔雀石绿",
+   "en": "malachite green",
+   "code": "2.2.6.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "绿茶",
+   "en": "green tea",
+   "code": "5.19.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_茶与代用茶"
+  },
+  {
+   "cn": "红色绿党",
+   "en": "Red Greens",
+   "code": "3.14.4.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "深绿派",
+   "en": "Deep Greens",
+   "code": "3.14.4.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "绿叶蔬菜",
+   "en": "green leafy vegetable",
+   "code": "5.3.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蔬菜"
+  },
+  {
+   "cn": "黑茶",
+   "en": "dark green tea",
+   "code": "5.19.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_茶与代用茶"
+  },
+  {
+   "cn": "格林围绝经期评估量表",
+   "en": "Greene climacteric scale",
+   "code": "3.7.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_更年期保健"
+  }
+ ],
+ "error": null,
  "raw": null
 }

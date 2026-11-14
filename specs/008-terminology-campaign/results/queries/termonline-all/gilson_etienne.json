@@ -2,10 +2,221 @@
  "key": "gilson, etienne",
  "term": "Gilson, Étienne",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T00:20:32+00:00",
- "status": "error",
- "note": "variant=Gilson, Étienne; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Gilson, Étienne: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:23:56+00:00",
+ "status": "ok",
+ "note": "variant=Gilson, Étienne; 审定公布名词库=58; 海峡两岸名词对照库=26; 其他来源数据库=4; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "威尔逊旋回",
+   "en": "Wilson cycle",
+   "code": "10.01.020",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_总论"
+  },
+  {
+   "cn": "威尔逊凹陷",
+   "en": "Wilson depression",
+   "code": "09.168",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "威尔逊效应",
+   "en": "Wilson effect",
+   "code": "08.147",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "威尔逊旋回",
+   "en": "Wilson cycle",
+   "code": "02.0132",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球动力学_板块构造"
+  },
+  {
+   "cn": "威尔逊方程",
+   "en": "Wilson equation",
+   "code": "02.0196",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "吉布森混合法",
+   "en": "Gibson mix",
+   "code": "03.0205",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "威尔逊氏症",
+   "en": "Wilson disease",
+   "code": "01.0690",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_生物无机"
+  },
+  {
+   "cn": "吉布森切口",
+   "en": "Gibson incision",
+   "code": "11.061",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_泌尿、男性生殖系统手术"
+  },
+  {
+   "cn": "威尔逊旋回",
+   "en": "Wilson cycle",
+   "code": "02.1329",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学"
+  },
+  {
+   "cn": "威尔逊方程",
+   "en": "Wilson equation",
+   "code": "02.198",
+   "standard": "化学工程名词",
+   "subject": "化学工程_化工热力学_溶液热力学"
+  },
+  {
+   "cn": "威尔逊旋回",
+   "en": "Wilson cycle",
+   "code": "03.315",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学"
+  },
+  {
+   "cn": "尾节",
+   "en": "telson",
+   "code": "5.2041",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门"
+  },
+  {
+   "cn": "梅于尔",
+   "en": "Méhul\",\"Étienne-Nicolas(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "威尔逊方程",
+   "en": "Wilson equation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "威尔逊凹陷",
+   "en": "Wilson depression",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "威尔逊氏症",
+   "en": "Wilson disease",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "威尔逊旋回",
+   "en": "Wilson cycle",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "吉布森混合法",
+   "en": "Gibson mix",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "尾节",
+   "en": "telson",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "帕德卢",
+   "en": "Pasdeloup\",\"Jules Etienne(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "尾节",
+   "en": "telson\",\"pygidium",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "尾节",
+   "en": "telson\",\"periproct",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "威尔逊-巴普效应",
+   "en": "Wilson-Bappu effect",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "威尔逊山天文台",
+   "en": "Mount Wilson Observatory",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "雪花",
+   "en": "Wilson Bentley",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双纳尔逊",
+   "en": "double Nelson\",\"full Nelson",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "三硫化四磷",
+   "en": "Albright and Wilson",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "半纳尔逊",
+   "en": "half Nelson",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "威尔逊云室",
+   "en": "Wilson cloud chamber",
+   "code": "5.2.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备"
+  },
+  {
+   "cn": "法国工人党圣亚田代表大会",
+   "en": "St Etienne Congress of the French Workers Party",
+   "code": "04.0484",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

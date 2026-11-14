@@ -2,10 +2,326 @@
  "key": "goff, philip",
  "term": "Goff, Philip",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T00:28:03+00:00",
- "status": "error",
- "note": "variant=Goff, Philip; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Goff, Philip: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:23:56+00:00",
+ "status": "ok",
+ "note": "variant=Goff, Philip; 审定公布名词库=546; 海峡两岸名词对照库=167; 其他来源数据库=62; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "菲利普王之战",
+   "en": "King Philip's War",
+   "code": "03.0004",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "腓力二世改革",
+   "en": "Reforms of Philip II of Macedonia",
+   "code": "02.0362",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "菲莱号彗星着陆器",
+   "en": "Philae",
+   "code": "06.566",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": "2.0847",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": "05.023",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物生理生化"
+  },
+  {
+   "cn": "菲利普斯曲线",
+   "en": "Phillips curve",
+   "code": "07.033",
+   "standard": "经济学名词",
+   "subject": "经济学_劳动经济学"
+  },
+  {
+   "cn": "菲力普斯曲线",
+   "en": "Phillips curve",
+   "code": "21.228",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_人力资源学"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin,fimbrillin",
+   "code": "02.241",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞化学"
+  },
+  {
+   "cn": "菲利浦塔式结晶器",
+   "en": "Phillips column crystallizer",
+   "code": "03.0577",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "落桶",
+   "en": "doff",
+   "code": "4.0164",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成纤维_总论"
+  },
+  {
+   "cn": "嗜酸性肉芽肿合并多血管炎",
+   "en": "eosino- philic granulomatosis with polyangiitis",
+   "code": "25.310",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_血管外科"
+  },
+  {
+   "cn": "肝细胞嗜酸性变性",
+   "en": "hepatocyte acid-ophilic degeneration",
+   "code": "2.4.2.1.1.2",
+   "standard": "肝病学名词",
+   "subject": "肝病学_肝病实验室、影像与病理检查_肝脏病理检查"
+  },
+  {
+   "cn": "拉德克利夫",
+   "en": "Radcliffe\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格拉斯",
+   "en": "Glass\",\"Philip(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克兰默",
+   "en": "Cranmer\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "坎农",
+   "en": "Cannon\",\"Philip(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "苏萨",
+   "en": "Sousa\",\"John Philip(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "菌毛蛋白",
+   "en": "pilin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "施皮塔",
+   "en": "Spitta\",\"Philipp(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "菲利普",
+   "en": "Philipp\",\"Isidor(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "菌毛蛋白，伞毛蛋白",
+   "en": "pilin\",\"fimbrillin",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "克里格，约翰·菲利普",
+   "en": "Krieger\",\"Johann Philipp(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "特勒曼",
+   "en": "Telemann\",\"Georg Philipp(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "斜桁",
+   "en": "gaff",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "播娘蒿",
+   "en": "Philip Barker-Webb",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "菲利普斯曲线",
+   "en": "Phillips Curve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "斜桁",
+   "en": "gaff",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "起跳",
+   "en": "take off\",\"take-off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off\",\"push-off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "斜桁纵帆",
+   "en": "gaff sail\",\"lugsail",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "越位",
+   "en": "off-side\",\"off-side position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection\",\"sending off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "平局决胜",
+   "en": "jump off\",\"play-off\",\"shoot off\",\"tie breaking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "场外",
+   "en": "off-site",
+   "code": "7.2.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "异常特征",
+   "en": "off-note",
+   "code": "2.1.4.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "code": "8.7.15",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "code": "7.2.1.13.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "小康",
+   "en": "fairly well-off",
+   "code": "1.1.1.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想"
+  },
+  {
+   "cn": "放射性废气净化",
+   "en": "radioactive off-gas cleaning",
+   "code": "6.6.6.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "内部警戒区",
+   "en": "inner cordoned off area",
+   "code": "7.2.2.20",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "下岗、失业人员",
+   "en": "laid-off and unemployed workers",
+   "code": "4.4.9.79",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "时间权衡法",
+   "en": "time trade-off method,TTO method",
+   "code": "12.1.6.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  }
+ ],
+ "error": null,
  "raw": null
 }

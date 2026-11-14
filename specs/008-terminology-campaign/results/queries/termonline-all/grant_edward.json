@@ -2,10 +2,347 @@
  "key": "grant, edward",
  "term": "Grant, Edward",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T00:47:34+00:00",
- "status": "error",
- "note": "variant=Grant, Edward; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Grant, Edward: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:26:56+00:00",
+ "status": "ok",
+ "note": "variant=Grant, Edward; 审定公布名词库=787; 海峡两岸名词对照库=254; 其他来源数据库=36; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "授权",
+   "en": "grant",
+   "code": "07.0224",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "爱德华·斯诺登",
+   "en": "Edward Snowden",
+   "code": "12.128",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "爱德华兹分级",
+   "en": "Edwards score",
+   "code": "03.003",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉与围手术期管理_麻醉风险"
+  },
+  {
+   "cn": "回授",
+   "en": "grant-back",
+   "code": "03.198",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_研发与工程化_研究成果与知识产权管理"
+  },
+  {
+   "cn": "爱德华·普雷斯科特",
+   "en": "Edward C. Prescott（1940—）",
+   "code": "16.114",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "爱德华·张伯伦",
+   "en": "Edward H. Chamberlin（1899—1967）",
+   "code": "16.049",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "政府拨款",
+   "en": "government's grant",
+   "code": "16.114",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利经济_水利建设资金筹集"
+  },
+  {
+   "cn": "赠地学院",
+   "en": "land grant college",
+   "code": "04.169",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_近现代"
+  },
+  {
+   "cn": "直接拨款学校",
+   "en": "grant-maintained school",
+   "code": "05.088",
+   "standard": "教育学名词",
+   "subject": "教育学_比较教育_英国教育"
+  },
+  {
+   "cn": "爱德华王子岛试验场",
+   "en": "Prince Edward test site",
+   "code": "09.057",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_核武器损伤_核试验与核爆炸"
+  },
+  {
+   "cn": "黄胸鼠",
+   "en": "Rattus flavipectus Milne-Edwards",
+   "code": "07.081",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_宿主"
+  },
+  {
+   "cn": "长爪沙鼠",
+   "en": "Meriones unguiculatus Milne-Edwards",
+   "code": "07.088",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_宿主"
+  },
+  {
+   "cn": "授权",
+   "en": "grant",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "麦克道尔",
+   "en": "MacDowell\",\"Edward(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "埃尔加",
+   "en": "Elgar\",\"Edward(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "洛克斯皮泽",
+   "en": "Lockspeiser\",\"Edward(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "附条件财政补助金",
+   "en": "conditional grant",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投资补助金",
+   "en": "investment grant",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "专利许可",
+   "en": "patent grant",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "约翰内森",
+   "en": "Johannesen\",\"Grant(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "给予特许权",
+   "en": "grant of franchise",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "授信",
+   "en": "grant of credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "埃林顿",
+   "en": "Ellington\",\"Edward K.\\\"Duke\\\"(美国)\",\"Ellington, Edward K.Duke(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "18三体综合征",
+   "en": "trisomy 18 syndrome\",\"Edwards syndrome",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "玻璃纤维",
+   "en": "Edward Libbey",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "最优控制",
+   "en": "Edward J. McShane",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "允许再次试举",
+   "en": "grant another attempt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "下风",
+   "en": "leeward",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "大回环",
+   "en": "giant circle\",\"giant swing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "全垒打",
+   "en": "grand slam\",\"grand slammer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "翻上",
+   "en": "upward circle\",\"upward movement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "大抗议书",
+   "en": "Grand Remonstrance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "笋瓜",
+   "en": "giant pumpkin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "赛马大奖赛",
+   "en": "Grand Prix",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "向内跳水",
+   "en": "inward dive",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "“一笔过”拨款",
+   "en": "lump sum grant",
+   "code": "4.4.3.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "移植物排斥反应",
+   "en": "graft rejection",
+   "code": "1.3.6.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_移植免疫"
+  },
+  {
+   "cn": "皮肤移植",
+   "en": "skin graft",
+   "code": "9.038",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "上升流动",
+   "en": "upward mobility",
+   "code": "2.6.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会流动"
+  },
+  {
+   "cn": "斯大林奖金",
+   "en": "Stalin award",
+   "code": "04.0114",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "code": "3.8.3.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "巨细胞动脉炎",
+   "en": "giant cell arteritis，GCA",
+   "code": "2.7.2.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_血管炎_疾病"
+  },
+  {
+   "cn": "半独立报酬系统",
+   "en": "semi-independent reward system",
+   "code": "3.8.3.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "移植物抗宿主病",
+   "en": "graft-versus-host disease, GVHD",
+   "code": "4.2.1.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  },
+  {
+   "cn": "移植物抗宿主反应",
+   "en": "graft versus host reaction, GVHR",
+   "code": "1.3.6.2",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_移植免疫"
+  },
+  {
+   "cn": "移植物抗宿主病",
+   "en": "graft-versus-host disease GVHD",
+   "code": "2.18.6.29",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病"
+  },
+  {
+   "cn": "驻藏大臣",
+   "en": "Grang Minister Resident of Tibet",
+   "code": "3.0234",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  }
+ ],
+ "error": null,
  "raw": null
 }
