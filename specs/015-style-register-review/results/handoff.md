@@ -62,6 +62,27 @@
 * 重转后自检：34 个补充材料文件的 `note-*` 悬空引用为**重转前既有**（binarium 26、burke 1 等），非本次回归。
 * 影响：已译成品的「正文未挂键」不再是「原文没键」——偿还时以新版 `yuanwen` 为基准补挂；同一引证组挂多键时按文献表顺序追加，中文侧补挂须按句内顺序人工确认。
 
+## 2026-11-14 续：转换器缺陷之八「姓 (年份)」式引称＋全量重转
+
+* `build_cite_keys` 只在圆括号内找姓名，SEP 通行的「姓 (年份)」式（`Following van der Kuijp (1989)`、`as Skow (2008, 2011) argues`、`Lewis (1986: 220–247)`）整类永不命中：`cite_markers=0` 的 96 条中 55 条属此类（haecceitism 165 处、decision-causal 114 处、kant-metaphysics 75 处）。
+* 修法：括号内容须为「年份／年份加页码」（`BARE_CITE_RE`）且姓名紧贴括号左侧（容许 `’s`）才挂键；括号内含散文或裸年份无邻名者不挂。四条回归测试锁死。
+* 全量重转：1872 条零失败，`cite_markers` 161,312 → 203,188（+41,876），`cite_defs` 231,061 → 230,985（Rancière 键名改拼写后少 1 等）；零挂键条目 98 → 79，存量大改如 ordinary-objects 10→605、haecceitism 0→141、mereology 568→810。
+* 试金石：haecceitism 0→141，抽查键标落点均为真引称。
+
+### 偿还流水（2026-11-14 晚起）
+
+| 词条 | 要点 | 提交 |
+| ---- | ---- | ---- |
+| emotion-Christian-tradition | Bash 2019→2020、Lazarus 1993→1991、Doubleday 倒置、Startle 缺逗号、schlechthinnig | dfe3c7d9c |
+| epistemology-language-tibetan | 两条书目导引译出、双句号、三处拼写（en 同改） | f02220cc8 |
+| arabic-islamic-mysticism | Sabziwārī 卒年 1797→1873、Nicholson 页码倒置、ḥikam 标音、Hunsberger 正名 | e3e5d51cb |
+| equal-ed-opportunity | 「一等化」误译、Levinson 误挂键、书目页码 1137、机构名补全 | b90f41d7d |
+| emilie-du-chatelet | 书目十余处拼写与编者标记、Hagengruber/Hutton 年份 2012、Nagel 题名冒号 | b5aa38262 |
+| gelukpa | 引称中文化、Stages／lam gtso 转写、照录说明并条 | 742878aa5 |
+| emerson | 双 H1 合并、junzi、[思]想、书目体例、56 条定义加空行 | 96f88454e |
+| antonio-rosmini | 书目区重建（缩写表＋卷次嵌套）、theou dikē、十条→九条 | 877763ac7 |
+| film | oeuvre／François／Noël、Kracauer／Rancière 键名、Badiou 书名 Cinema、Murray Smith | 051b73653 |
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
