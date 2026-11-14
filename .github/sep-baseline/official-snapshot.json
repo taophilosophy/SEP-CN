@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26 19:50:56 UTC",
+ "fetched_at": "2026-11-14 23:44:24 UTC",
  "main": {
   "abduction": {
    "title": "abduction",
@@ -728,6 +728,10 @@
   "bioethics-latin-america": {
    "title": "in Latin American",
    "authors": "Gustavo Ortiz Millán, Florencia Luna, and Eduardo Rivera López"
+  },
+  "bioethics-moral-reasoning": {
+   "title": "and moral reasoning",
+   "authors": "Jennifer Flynn"
   },
   "theories-biological-development": {
    "title": "theories of",
@@ -2015,7 +2019,7 @@
   },
   "emotion-Christian-tradition": {
    "title": "in the Christian tradition",
-   "authors": "Robert Roberts"
+   "authors": "Robert Roberts and Adam Pelser"
   },
   "medieval-emotions": {
    "title": "medieval theories of",
@@ -2067,7 +2071,7 @@
   },
   "closure-epistemic": {
    "title": "epistemic closure",
-   "authors": "Steven Luper"
+   "authors": "Marc Alspector-Kelly"
   },
   "epistemic-paradoxes": {
    "title": "epistemic paradoxes",
@@ -2208,10 +2212,6 @@
   "stem-cells": {
    "title": "stem cell research",
    "authors": "Andrew Siegel"
-  },
-  "theory-bioethics": {
-   "title": "theory",
-   "authors": "Jennifer Flynn"
   },
   "eugenics": {
    "title": "eugenics",
@@ -5507,7 +5507,7 @@
   },
   "porphyry": {
    "title": "Porphyry",
-   "authors": "Eyjólfur Emilsson"
+   "authors": "Riccardo Chiaradonna and Eyjólfur Emilsson"
   },
   "della-porta": {
    "title": "Porta, Giambattista della",
@@ -6275,7 +6275,7 @@
   },
   "saadya": {
    "title": "Saadya [Saadiah]",
-   "authors": "Sarah Pessin"
+   "authors": "Gyongyi Hegedus"
   },
   "saantarak-sita": {
    "title": "Śāntarakṣita",
@@ -6479,7 +6479,7 @@
   },
   "self-knowledge": {
    "title": "self-knowledge",
-   "authors": "Brie Gertler"
+   "authors": "Brie Gertler and Matt Duncan"
   },
   "self-locating-beliefs": {
    "title": "self-locating beliefs",
@@ -8510,10 +8510,6 @@
   {
    "alias": "eudaimonia",
    "slug": "ethics-ancient"
-  },
-  {
-   "alias": "scientific",
-   "slug": "confirmation"
   },
   {
    "alias": "evolutionary approaches to religion",
