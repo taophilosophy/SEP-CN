@@ -41,12 +41,28 @@ def write(p, t):
         f.write(t)
 
 
+STOP = re.compile(r'^(see|quoted|in|and|the|cf|al|for|of|on|also)$', re.I)
+CAPW = re.compile(r"[A-ZÀ-ÖØ-Þ][\w\u00C0-\u024F'\u2019\u02BC\-]*")
+YEAR = re.compile(r'\d{4}')
+
+
 def pairs_of(group_text):
-    """组内 (姓, 年) 对，归一小写。"""
+    """组内 (姓, 年) 对：按年份回溯最近前位大写词，归一小写。"""
     out = set()
-    for m in PAIR.finditer(group_text):
-        out.add((m.group(1).lower().replace('\u2019', "'").replace('\u02BC', "'"),
-                 m.group(2)))
+    for ym in YEAR.finditer(group_text):
+        lo = max(0, ym.start() - 80)
+        head = group_text[:ym.start()]
+        cands = [m for m in CAPW.finditer(head) if m.end() <= ym.start()]
+        pick = None
+        for m in reversed(cands):
+            w = m.group(0)
+            if STOP.match(w):
+                continue
+            pick = w
+            break
+        if pick:
+            out.add((pick.lower().replace('\u2019', "'").replace('\u02BC', "'"),
+                     ym.group(0)))
     return out
 
 

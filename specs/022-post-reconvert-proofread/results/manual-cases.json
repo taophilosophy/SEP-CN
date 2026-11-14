@@ -1,0 +1,1496 @@
+[
+ {
+  "slug": "abstract-objects",
+  "letter": "a",
+  "key": "inwagen-1983",
+  "reason": "no-zh-group",
+  "group": "(van Inwagen 1977, 1983; Kripke 1973 [2013])",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "action",
+  "letter": "a",
+  "key": "grünbaum-2011,grünbaum-2013,o’shaughnessy-1980",
+  "reason": "weak-match",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "aesthetics-critical-theory",
+  "letter": "a",
+  "key": "adorno-1968",
+  "reason": "no-zh-group",
+  "group": "(later commemorated in Adorno’s *Alban Berg: Master of the Smallest Link*, 1968 ",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "al-farabi",
+  "letter": "a",
+  "key": "mahdi-1968",
+  "reason": "no-zh-group",
+  "group": "(Mahdi’s edition, 1968; no English translation)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bauer",
+  "letter": "b",
+  "key": "present-1852",
+  "reason": "no-zh-group",
+  "group": "(Bauer, “Present Position of the Jews,” 1852)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "renyi-1955",
+  "reason": "no-zh-group",
+  "group": "(Renyi, 1955)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "harper-1976",
+  "reason": "no-zh-group",
+  "group": "(Harper, 1976)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "sphon-1986",
+  "reason": "no-zh-group",
+  "group": "(Sphon, 1986)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "hammond-1994",
+  "reason": "no-zh-group",
+  "group": "(Hammond, 1994)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "mcgee-1994",
+  "reason": "no-zh-group",
+  "group": "(McGee, 1994)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "levi-1985",
+  "reason": "no-zh-group",
+  "group": "(Levi, 1985)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "bayes-theorem",
+  "letter": "b",
+  "key": "jeffrey-1987",
+  "reason": "ambiguous",
+  "group": "",
+  "ctx": "eterminate belief states see (Levi, 1985)[^levi-1985], (Jeffrey, 1987)",
+  "cands": 1
+ },
+ {
+  "slug": "children",
+  "letter": "c",
+  "key": "worley-2011",
+  "reason": "no-zh-group",
+  "group": "(Worley, 2011)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "children",
+  "letter": "c",
+  "key": "haynes-2012,murris-2016",
+  "reason": "no-zh-group",
+  "group": "(Murris and Haynes, 2012 and Murris, 2016)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "cloning",
+  "letter": "c",
+  "key": "o’neil-2002",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "closure-epistemic",
+  "letter": "c",
+  "key": "murphy-2005",
+  "reason": "no-zh-group",
+  "group": "(versions of the tracking account are also defended by Becker 2009, by Murphy an",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "closure-epistemic",
+  "letter": "c",
+  "key": "sosa-2003,sosa-2007,sosa-2009",
+  "reason": "weak-match",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "hodges-1992",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "he Bombe to crack the German “Enigma” code, greatly aiding the Allied cause [Hodges, 1992]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "hartmanis-1989",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " an input, $w$, let $n = \\lvert w\\rvert$ be the length of $w$. Following [Hartmanis, 1989]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "cook-1971",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "ate any other problem in that class.\n\nIn 1971, Cook proved SAT is NP complete [Cook, 1971]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "karp-1972",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "blems were also NP complete, thus establishing the importance of the class NP [Karp, 1972]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "jones-1973",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "ity classes under surprisingly weak reductions including logspace reductions [Jones, 1973]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "immerman-1999",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "ng logspace reductions [Jones, 1973][^jones-1973], first-order reductions [Immerman, 1999]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "valiant-1982",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "973], first-order reductions [Immerman, 1999][^immerman-1999], projections [Valiant, 1982]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "immerman-1999",
+  "reason": "no-group",
+  "group": "",
+  "ctx": ", projections [Valiant, 1982][^valiant-1982], and first-order projections [Immerman, 1999]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "ladner-1975",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " an intermediate problem $I$ that is in NP but not in P and not NP complete [Ladner, 1975]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "feder-1999",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "attention recently via the dichotomy conjecture of Feder and Vardi [Feder and Vardi, 1999]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "schaefer-1978",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "er in which he studied all variants of the boolean satisfiability problem [Schaefer, 1978]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "allender-2009",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " complete, $\\oplus$L complete, NL complete, L complete, or trivial [Allender et al., 2009]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "feder-1999",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "holds for all finite-domain Constraint Satisfaction Problems (CSP) [Feder and Vardi, 1999]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "bulatov-2018",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "a number of papers starting with [Jeavons et al. 1997][^jeavons-1997]; see [Bulatov, 2018]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "bulatov-2017",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "v and Zhuk independently proved the Feder and Vardi conjecture [Bulatov, 2017; Zhuk, 2017]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "immerman-1999",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "a few more as well. The diagram comes from work in Descriptive Complexity [Immerman, 1999]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "fagin-1974",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " a property is in NP iff it is expressible in second-order existential logic [Fagin, 1974]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "cook-1971",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "boolean satisfiability problem, SAT, was the first problem proved NP complete [Cook, 1971]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "nordström-2015",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "sus NP question concerns the practical and theoretical complexity of SAT [Nordström, 2015]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "papadimitriou-1994",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "rning more about complexity, there are excellent books, for example, [Papadimitriou, 1994]",
+  "cands": null
+ },
+ {
+  "slug": "computability",
+  "letter": "c",
+  "key": "arora-2009",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "books, for example, [Papadimitriou, 1994][^papadimitriou-1994] and [Arora and Barak, 2009]",
+  "cands": null
+ },
+ {
+  "slug": "conceptual-art",
+  "letter": "c",
+  "key": "wood-2002",
+  "reason": "ambiguous",
+  "group": "",
+  "ctx": "ieces and performances originating in the Fluxus Group (Wood, 2002: 8)",
+  "cands": 1
+ },
+ {
+  "slug": "copernicus",
+  "letter": "c",
+  "key": "swerdlow-2000",
+  "reason": "no-zh-group",
+  "group": "(Swerdlow, 2000, 167)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "disability",
+  "letter": "d",
+  "key": "davis-2002,hacking-1990",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " and philosophers have done so for various purposes [Hacking, 1990; L. Davis, 2002: Ch. 4]",
+  "cands": null
+ },
+ {
+  "slug": "economic-democracy",
+  "letter": "e",
+  "key": "clot-2024",
+  "reason": "no-zh-group",
+  "group": "(see e.g. Clot et al., 2024, 171–173)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "emilie-du-chatelet",
+  "letter": "e",
+  "key": "voltaire-1968",
+  "reason": "no-zh-group",
+  "group": "(Genève: Institut et Musée Voltaire, 1968–77)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "erotic-art",
+  "letter": "e",
+  "key": "smith-1992,smith-1992-2",
+  "reason": "no-zh-group",
+  "group": "(see, for instance, Smith’s *Tale*, 1992, and *Blood Pool*, 1992)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "erotic-art",
+  "letter": "e",
+  "key": "sade-1795",
+  "reason": "no-zh-group",
+  "group": "(think of Sade’s *La Philosophie dans le Boudoir*, 1795)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "erotic-art",
+  "letter": "e",
+  "key": "diderot-1748",
+  "reason": "no-zh-group",
+  "group": "(think of Diderot’s *Les Bijoux Indiscrets*, 1748)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "evolution",
+  "letter": "e",
+  "key": "darwin-1874",
+  "reason": "no-zh-group",
+  "group": "(the latter having been Darwin’s 1859, 1874 view)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "fitness",
+  "letter": "f",
+  "key": "lewis-1983",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " mechanical probabilistic propensities are indispensable and irreducible [cf. Lewis, 1983]",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "krinis-2020",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "hughes-2007",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "golden-2007",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "wasserstein-2007",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "berger-1992",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "alfonso-2008",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "davidson-1972",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "davidson-1992",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "pines-1980",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "lobel-2000",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "landauer-1872",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "amesbury-2022",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "vogt-2022",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "heck-2013",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "davidson-1992",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "wolfson-1977a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "langermann-1997",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "krinis-2014",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "krinis-2014",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "lobel-2006",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "wolfson-1977b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "ben-sasson-2019",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "harvey-1988",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "harvey-2007",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "nasser-2013",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "efros-1941",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "halevi",
+  "letter": "h",
+  "key": "harvey-2006",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "read-2013",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-20",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-21",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-22",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-23",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-24",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-25",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-26",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-27",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-28",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-29",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-30",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "boh-1984",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "boh-1985",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2018a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-31",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-32",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-33",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-34",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-35",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-36",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "rijk-1966",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "roure-1970",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-37",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pozzi-1987",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pozzi-1987",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-38",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-39",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-40",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-41",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-42",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-43",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-44",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-45",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-46",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-47",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "ashworth-1992",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "rijk-1975",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "rijk-1977",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "maierù-1993b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pironet-2008",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-48",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "note-49",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "spade-1989",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "johannes-1999",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "boh-1993",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2018a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2018b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2022",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2025a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2025b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "wilson-1984",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "jung-2020",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "wilson-1956",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "damerow-1992",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "wilson-1956",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "duhem-1985",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "murdoch-1991",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "king-1991",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "wilson-1956",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "wilson-1972",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "spade-1989",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "sylla-2010",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2018a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "maierù-1993b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "weisheipl-1956",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "verboon-2012",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "maierù-1993a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "rijk-1974",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "yrjönsuuri-2000",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "weisheipl-1968",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "rijk-1982",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "boh-2000",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2021a",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2021b",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "johnston-2013",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pironet-1993",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pironet-2008",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pironet-2001",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "pironet-2008",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "spade-1975",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "heytesbury",
+  "letter": "h",
+  "key": "hanke-2015",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "hume-moral",
+  "letter": "h",
+  "key": "taylor-2002",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "hume-moral",
+  "letter": "h",
+  "key": "taylor-2015",
+  "reason": "no-def",
+  "group": "",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "incompatibilism-theories",
+  "letter": "i",
+  "key": "o’connor-2000b",
+  "reason": "no-zh-group",
+  "group": "(adapted from O’Connor 2000b: 86)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "justep-coherence",
+  "letter": "j",
+  "key": "bovens-2003",
+  "reason": "no-zh-group",
+  "group": "(or, in the language of Bovens and Hartmann, 2003, *endogenous*)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "knowledge-how",
+  "letter": "k",
+  "key": "christensen-2019,christensen-2019-2",
+  "reason": "no-zh-group",
+  "group": "(for the role of declarative knowledge in skillful action, see also Christensen,",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "newton-principia",
+  "letter": "n",
+  "key": "stein-1967",
+  "reason": "no-group",
+  "group": "",
+  "ctx": " Stein's words) “the empirical content of a set of theoretical notions” [Stein, 1967, 281]",
+  "cands": null
+ },
+ {
+  "slug": "newton-principia",
+  "letter": "n",
+  "key": "aiton-1972",
+  "reason": "no-group",
+  "group": "",
+  "ctx": "ased on hypotheses but is deduced from phenomena by the laws of motion” [Aiton, 1972, 132]",
+  "cands": null
+ },
+ {
+  "slug": "ramsey-economics",
+  "letter": "r",
+  "key": "diamond-1965",
+  "reason": "no-zh-group",
+  "group": "(and subsequently Diamond, 1965)",
+  "ctx": "",
+  "cands": null
+ },
+ {
+  "slug": "umar-khayyam",
+  "letter": "u",
+  "key": "rashed-2000",
+  "reason": "ambiguous",
+  "group": "",
+  "ctx": "ary of Euclid’s “Book of Music” (Rashed and Vahabzadeh, 2000, 251–252)",
+  "cands": 5
+ }
+]
