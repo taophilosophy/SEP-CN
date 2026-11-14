@@ -23,10 +23,10 @@ academic-freedom、closure-epistemic、genetics、it-moral-values、saadya——
 
 academic-freedom、closure-epistemic、genetics、it-moral-values、saadya
 
-### A2. state=s2.5_checked（ADR-0043 回退后在途）——4 件，变更文件挂进现有流水
+### A2. state=s2.5_checked（ADR-0043 回退后在途）——4 件
 
 behaviorism、emotion-Christian-tradition、kant-leibniz、logic-provability——
-按管线契约，其 s1/s2/s24/s25 证据本就必须以 `changes:` 开头，直接引用 `compare/<slug>.json` 即可，无需新建任务。
+~~按管线契约挂现有流水~~ **2026-11-15 ADR-0051 已改道**：`reopen --upstream-sync --clear` 打回置空重译（R3 四闸），与 A1 同轨；正文已置空仅留 H1。
 
 ## B. 存根/未译词条（节级变更 30 件）
 
