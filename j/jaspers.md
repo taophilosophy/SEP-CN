@@ -136,9 +136,9 @@
 
 [^note-1]: “理解”（*Verstehen*）与“说明”（*Erklären*）两术语之争，起点是狄尔泰与德罗伊森之间关于精神科学与自然科学方法区分的论战；这一区分既基于现象之不同，也基于进路之不同。参见：Wilhelm Dilthey, *Der Aufbau der Geschichtlichen Welt in den Geisteswissenschaften*, Bd. VII, Stuttgart: B.G. Teubner and Göttingen: Vandenhoeck & Ruprecht, 1968, pp.88-120。另参见：Rudolf Boehm, “‘Erklären’ und ‘Verstehen’ bei Dilthey”, *Zeitschrift für philosophische Forschung*, Bd. 5, H. 3 (1951): 410–417。
 
-## References（引用注释）
+## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

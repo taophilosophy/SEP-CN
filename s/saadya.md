@@ -146,9 +146,9 @@
 
 [^note-2]: 参见 A. Altmann, “Saadya's Theory of Revelation: Its Origin and Background,” 载 Alexander Altmann, *Studies in Religious Philosophy and Mysticism*（Ithaca: Cornell University Press, 1969）。
 
-## References（引用注释）
+## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

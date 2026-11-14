@@ -252,9 +252,9 @@
 
 [^note-24]: 与约克不谋而合，海德格尔对狄尔泰步康德与施莱尔马赫后尘、为“精神科学”而驾驭基督教历史生命的做法，也抱有类似的保留。见 Martin Heidegger, *Phänomenologie des Religiösen Lebens*, (Gesamtausgabe, Volume 60), Frankfurt: Vittorio Klostermann, 1995, p. 164；以及 Heidegger, *Phänomenologie der Anschauung und des Ausdrucks*, (Volume 59), Frankfurt: Vittorio Klostermann, 2007, pp. 163–168。
 
-## References（引用注释）
+## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

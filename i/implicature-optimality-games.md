@@ -108,7 +108,10 @@ $$ [\![ `\text{four}{\text{’}} ]\!] \subset [\![ `\text{three}{\text{’}} ]\!
 
 双向优选论与博弈论是相当自然且相似的形式化框架，用于形式化格赖斯关于语境中互动性、目标导向的语用推理的观念。近来的发展转向认知博弈论或演化博弈论，或转向用于经验数据的概率模型。最后，我们指出，与这里所探索的类似的形式技术适用于不同领域中更广泛的问题，例如哲学（如 Parikh 2019）[^parikh-2019]、语言演化（如 Ahern and Clark 2014; Brochhagen, Franke, and Rooij 2018; Carcassi 2020）[^ahern-2014][^brochhagen-2018][^carcassi-2020]，以及计算语言学（如 Vogel et al. 2014, Cohn-Gordon, Goodman, and Potts 2019）[^cohn-gordon-2019][^vogel-2014]。[^vogel-2014]
 
-## References（引用注释）
+## 参考文献
+
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

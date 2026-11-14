@@ -436,9 +436,9 @@
 
 [^note-59]: 关于这一妥协如何形成的细节，见 Koffi Maglo，“The Reception of Newton's Gravitational Theory by Huygens, Varignon, and Maupertuis: How Normal Science may be Revolutionary,” *Perspectives on Science* vol. 11, 2003, pp. 135-169。
 
-## References（引用注释）
+## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

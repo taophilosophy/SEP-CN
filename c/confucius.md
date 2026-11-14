@@ -179,7 +179,10 @@
 [^yang-1958]: Yang Bojun (杨伯峻), 1958 [2005], *Lunyu yizhu* (论语译注) [An Interpretive Commentary to the *Analects*], Hong Kong: Zhonghua shuju.
 [^zhu-1986]: Zhu Weizheng (朱维錚), 1986, “Lunyu jieji cuoshuo” (論語結集脞說) [Jottings on the Compilation of the Analects], *Kongzi yanjiu*, 1986(1): 40–52.
 
-## References（引用注释）
+## 参考文献
+
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 

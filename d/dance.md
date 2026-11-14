@@ -160,7 +160,7 @@ Susan Leigh Foster（2003）在一点上与 Goldman 所见相同：正是实际�
 
 除了考虑下列资源，还鼓励读者通过观影和研读新兴技术期刊来开展舞蹈哲学研究。写作舞蹈与电影的舞蹈哲学家包括 Brannigan 2014；Carroll 2001；McFee 2018；以及 Salzer and Baer 2015。Hetty Blades（2015a and 2015b）专门论述舞蹈、虚拟技术与舞谱，其工作也涉及其他形式的舞蹈技术。讨论舞蹈、伦理与技术的文章，见 Mullis 2015。另见 Rebecca Farinas 与 Julie Van Camp 编辑（Craig Hanks 与 Aili Bresnahan 参与咨询）的《布鲁姆斯伯里舞蹈与哲学手册》（Bloomsbury Handbook to Dance and Philosophy，2021）中关于舞蹈与技术的扩展章节。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 

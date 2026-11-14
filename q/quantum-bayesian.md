@@ -302,9 +302,9 @@ Friederich 把量子概率视为对信度的理性、准刘易斯式约束；再
 
 [^note-6]: 1962 年 11 月 17 日，Thomas S. Kuhn、Leon Rosenfeld、Aage Petersen、Erik Rudinger 采访尼尔斯·玻尔，Niels Bohr Library & Archives，American Institute of Physics，College Park, MD USA；链接见“其他网络资源”。
 
-## References（引用注释）
+## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
