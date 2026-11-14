@@ -154,6 +154,12 @@
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
+[^kant’s-1900]: Kant’s original German and Latin writings are collected in *Kants Gesammelte Schriften*, Berlin: Walter de Gruyter, 1900–. Most translations provide the pagination to this edition in the margins, often using volume and page number. All citations in this article use this method.
+[^english-nd]: English translations of Kant’s primary works are numerous. *The Cambridge Edition of the Works of Immanuel Kant in English* includes critical translations of all of Kant’s published works and large selections of his correspondence, lectures, and literary remains. The following volumes of that series contain relevant material, some of which is also issued separately:
+[^practical-1996]: *Practical Philosophy*, Mary Gregor (trans.), 1996. Relevant contents: “An Answer to the Question: What is Enlightenment?,” *Groundwork of the Metaphysics of Morals*, “On the Common Saying: That May Be Correct in Theory, But it is of No Use in Practice,” “Toward Perpetual Peace”, and the *Metaphysics of Morals*.
+[^lectures-2016]: *Lectures and Drafts on Political Philosophy*, translated by Frederick Rauscher and Kenneth Westphal (2016). Relevant contents: “Naturrecht Feyerabend” course lecture, fragments on political philosophy, and drafts of works in political philosophy.
+[^religion-1996]: *Religion and Rational Theology*, translated by Allen Wood and George di Giovanni, 1996. Relevant Content: *Religion within the Boundaries of Mere Reason*, “Conflict of the Faculties”
+[^anthropology-2007]: *Anthropology, History, and Education*, translated by Robert Louden and Guenther Zoeller (2007). Relevant contents: “Idea for a Universal History with a Cosmopolitan Aim,” *Anthropology from a Pragmatic Point of View*, and the book “Lectures on Pedagogy”
 [^ameriks-2009]: Ameriks, Karl and Otfried Höffe (eds.), 2009, *Kant’s Moral and Legal Philosophy*, Nicholas Walker (trans.), New York: Cambridge University Press.
 
 [^arendt-1982]: Arendt, Hannah, 1982, *Lectures on Kant’s Political Philosophy*, Chicago: Chicago University Press.

@@ -319,7 +319,7 @@
 [^tiwald-nd]: –––, forthcoming-a, “Dai Zhen’s Normative Ethics”, in Zheng forthcoming.
 [^tiwald-nd-2]: –––, forthcoming-b, “Dai Zhen on the Common Affirmability of Ethical Judgments”, in *The Oxford Handbook of Chinese Philosophy*, Justin Tiwald (ed.), Oxford: Oxford University Press.
 [^wu-2015]: 吴根友、孙邦金 等，2015，《戴震、乾嘉学术与中国文化》（*Dai Zhen, Qianjia Scholarship, and Chinese Culture*），福州：福建教育出版社。
-[^*yang*-2009]: 杨应芹，2009，《段著东原年谱订补》（Supplementary Notes on Duan’s Chronicle of Dai Zhen），载《戴震全书》（*Complete Works of Dai Zhen*）第 7 卷，132–90，合肥：黄山书社。
+[^yang-2009]: 杨应芹，2009，《段著东原年谱订补》（Supplementary Notes on Duan’s Chronicle of Dai Zhen），载《戴震全书》（*Complete Works of Dai Zhen*）第 7 卷，132–90，合肥：黄山书社。
 [^yü-1996]: 余英时（Yü Ying-shih），1996，《论戴震与章学诚》（*On Dai Zhen and Zhang Xuecheng*），台北：东大图书公司。
 [^yü-2016]: –––, 2016, *Chinese History and Culture. Volume 1: Sixth Century B.C.E. to Seventeenth Century* (Masters of Chinese Studies), Josephine Chiu-Duke and Michael S. Duke (eds), New York: Columbia University Press. doi:10.7312/*yu*--17858
 [^zheng-2015]: Zheng, Zemian, 2015, “Dai Zhen’s Criticism and Misunderstanding of Zhu Xi’s Moral Theory”, *Dao: A Journal of Comparative Philosophy*, 14(3): 433–449. doi:10.1007/s11712-015-9454-x

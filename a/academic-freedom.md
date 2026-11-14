@@ -296,7 +296,7 @@ Gersen 与 Gersen（2026）围绕一个虚构案例梳理了多种视角，旨�
 
 [^elster-2015]: Elster, Jon, 2015, “Obscurantism and Academic Freedom”, in Akeel Bilgrami and Jonathan R. Cole (eds.), *Who's Afraid of Academic Freedom?*, New York: Columbia University Press, pp. 81–96.
 
-[^enyidi-2018]: Enyedi, Zsolt, 2018, “Democratic Backsliding and Academic Freedom in Hungary.” *Perspectives on Politics*, 16(4): 1067–74. [[Zsolt 2018 available online](https://www.jstor.org/stable/26615693)]
+[^enyedi-2018]: Enyedi, Zsolt, 2018, “Democratic Backsliding and Academic Freedom in Hungary.” *Perspectives on Politics*, 16(4): 1067–74. [[Zsolt 2018 available online](https://www.jstor.org/stable/26615693)]
 
 [^estlund-2018]: Estlund, David, 2018, “When Protests and Speech Collide”, in Jennifer Lackey (ed.), *Academic Freedom*, Oxford: Oxford University Press, pp. 151–169.
 
