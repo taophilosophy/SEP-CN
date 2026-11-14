@@ -115,9 +115,9 @@ Einstein, Albert: philosophy of science | Reichenbach, Hans | Salmon, Wesley
 
 [^lorentz-1895]: Lorentz, H., 1895. *Versuch einer Theorie der electrischen und optischen Erscheinungen in bewegter Körpern*, Leiden: E.J. Brill.
 
-[^macdonald-2005]: Macdonald, A., 2005. “Comment on ‘The Role of Dynamics in the Synchronization Problem,’ by Hans C. Ohanion,” *American Journal of Physics*, 73: 454–455.
+[^macdonald-2005]: Macdonald, A., 2005. “Comment on ‘The Role of Dynamics in the Synchronization Problem,’ by Hans C. Ohanian,” *American Journal of Physics*, 73: 454–455.
 
-[^malament-1977]: Malament, D., 1977. “Causal Theories of Time and the Conventionality of Simultaniety,” *Noûs*, 11: 293–300.
+[^malament-1977]: Malament, D., 1977. “Causal Theories of Time and the Conventionality of Simultaneity,” *Noûs*, 11: 293–300.
 
 [^mamone-2001]: Mamone Capria, M., 2001. “On the Conventionality of Simultaneity in Special Relativity,” *Foundations of Physics*, 31: 775–818.
 

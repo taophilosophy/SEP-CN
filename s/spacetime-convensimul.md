@@ -5,9 +5,9 @@
 
 ## 1 约定性论题
 
-关于同时性约定性的争论，通常在狭义相对论的框架内进行。不过，早在这一理论出现之前，就已经有人提出同时性是否绝对的问题（参见 Poincaré 1898）[^poincaré-1898]——也就是说，在位置 A 处，是否有唯一的事件与位置 B 的给定事件同时。爱因斯坦（1905）在其第一篇相对论论文中断言，必须作出一个假设，才能比较空间上分隔开的各处事件的发生时刻（Einstein 1905, 38–40 of the Dover translation or 125–127 of the Princeton translation; but note Scribner 1963, for correction of an error in the Dover translation）[^einstein-1905][^scribner-1963]。他的假设定义了通常所说的标准同步（standard synchrony），可以用下面这个理想化的思想实验来描述，其中空间位置 *A* 和 *B* 是某个特定但任取的惯性（即无加速）参照系中的固定位置：设一条光线在真空中于时刻 *t*₁（由静止于该处的钟测量）离开 *A*，到达 *B* 时恰好与 *B* 处的事件 *E* 重合。再设该光线被瞬时反射回 *A*，于时刻 *t*₂ 到达。于是标准同步就定义为：*E* 与 *A* 处发生在时刻 (*t*₁ + *t*₂)/2 的事件同时。这个定义等价于如下要求：光线在 *A* 与 *B* 之间往返的两段路程上，单向速度相同。
+关于同时性约定性的争论，通常在狭义相对论的框架内进行。不过，早在这一理论出现之前，就已经有人提出同时性是否绝对的问题（参见 Poincaré 1898）[^poincaré-1898]——也就是说，在位置 A 处，是否有唯一的事件与位置 B 的给定事件同时。爱因斯坦（1905）在其第一篇相对论论文中断言，必须作出一个假设，才能比较空间上分隔开的各处事件的发生时刻（爱因斯坦 1905，多佛译本第 38–40 页或普林斯顿译本第 125–127 页；多佛译本一处错误的更正，参 Scribner 1963）[^einstein-1905][^scribner-1963]。他的假设定义了通常所说的标准同步（standard synchrony），可以用下面这个理想化的思想实验来描述，其中空间位置 *A* 和 *B* 是某个特定但任取的惯性（即无加速）参照系中的固定位置：设一条光线在真空中于时刻 *t*₁（由静止于该处的钟测量）离开 *A*，到达 *B* 时恰好与 *B* 处的事件 *E* 重合。再设该光线被瞬时反射回 *A*，于时刻 *t*₂ 到达。于是标准同步就定义为：*E* 与 *A* 处发生在时刻 (*t*₁ + *t*₂)/2 的事件同时。这个定义等价于如下要求：光线在 *A* 与 *B* 之间往返的两段路程上，单向速度相同。
 
-Jammer（2006, 49）在其对同时性几乎各个方面的全面考察中指出了一件趣事。早在 1500 多年前，圣奥古斯丁（St. Augustine）就在《忏悔录》（*Confessions*，成书于公元 397 年）里，用过一个与爱因斯坦标准同时性定义十分近似的办法。他为了驳斥占星术，讲了两个女人的故事：一个富，一个穷，两人同时分娩；两个孩子占星命盘完全相同，一生却大不相同。他确定不同地点的分娩是否同时的办法，是让一名信使在每个分娩地点于分娩那一刻出发，走向另一处，假定两者速度相同。既然两名信使在中点相遇，两次分娩必定同时。Jammer 评论说，这“尽可以看作大概是最早见于记载的远程同时性 *operational* definition（操作定义）的例子”。
+Jammer（2006, 49）在其对同时性几乎各个方面的全面考察中指出了一件趣事。早在 1500 多年前，圣奥古斯丁（St. Augustine）就在《忏悔录》（*Confessions*，成书于公元 397 年）里，用过一个与爱因斯坦标准同时性定义十分近似的办法。他为了驳斥占星术，讲了两个女人的故事：一个富，一个穷，两人同时分娩；两个孩子占星命盘完全相同，一生却大不相同。他确定不同地点的分娩是否同时的办法，是让一名信使在每个分娩地点于分娩那一刻出发，走向另一处，假定两者速度相同。既然两名信使在中点相遇，两次分娩必定同时。Jammer 评论说，这“尽可以看作大概是最早见于记载的远程同时性的操作定义（*operational* definition）的例子”。
 
 标准同步的选择是一种约定，而非由物理宇宙的事实所迫（在狭义相对论框架内）——这一论题的主要论证者是赖欣巴哈（Hans Reichenbach；例如 Reichenbach 1958, 123–135）[^reichenbach-1958] 与格吕恩鲍姆（Adolf Grünbaum；例如 Grünbaum 1973, 342–368）[^grünbaum-1973]。他们的论证是：要断定两个不同事件并不同时，唯一不靠约定的根据，是有因果影响联系两者。在前爱因斯坦的宇宙观里，没有理由排除任意快的因果影响；若存在这种影响，就能在 *A* 处挑出与 *E* 同时的唯一事件。然而在爱因斯坦式的宇宙里，任何因果影响都不能快过真空中的光速。因此在赖欣巴哈与格吕恩鲍姆看来，*A* 处发生时刻落在 *t*₁ 与 *t*₂ 之间开区间内的任何事件，都可以定义为与 *E* 同时。用赖欣巴哈引入的 ε 记号来说，*A* 处发生在时刻 *t*₁ + ε(*t*₂ − *t*₁) 的任何事件（其中 0 < ε < 1）都可能同时于 *E*。也就是说，约定性论题断言：在给定范围内选取任何特定的 ε 值都是约定问题，包括 ε=1/2 的选择（它对应标准同步）。若 ε 不同于 1/2，光线在 *A* 与 *B* 之间往返的两段路程上的单向速度就会不同（以依赖 ε 的方式不同）。更一般地，若考虑光在三维空间中沿任意闭合路径行进，则单向光速的选择自由相当于选择一个任意标量场（正如 Minguzzi 2002, 155–156 所证明的）[^minguzzi-2002]；不过，仅相差一个可加常数的两个标量场，会给出相同的单向速度分配。
 
@@ -77,8 +77,8 @@ Rynasiewicz（2012）为约定性提供了有力的辩护。他论证说，他�
 [^jammer-2006]: Jammer, M., 2006. *Concepts of Simultaneity: From Antiquity to Einstein and Beyond*, Baltimore: Johns Hopkins University Press.
 [^janis-1983]: Janis, A., 1983. “Simultaneity and Conventionality,” in R. Cohen and L. Laudan (eds.), *Physics, Philosophy and Psychoanalysis* (*Boston Studies in the Philosophy of Science*, Volume 76), Dordrecht/Boston: D. Reidel, pp. 101–110.
 [^lorentz-1895]: Lorentz, H., 1895. *Versuch einer Theorie der electrischen und optischen Erscheinungen in bewegter Körpern*, Leiden: E.J. Brill.
-[^macdonald-2005]: Macdonald, A., 2005. “Comment on ‘The Role of Dynamics in the Synchronization Problem,’ by Hans C. Ohanion,” *American Journal of Physics*, 73: 454–455.
-[^malament-1977]: Malament, D., 1977. “Causal Theories of Time and the Conventionality of Simultaniety,” *Noûs*, 11: 293–300.
+[^macdonald-2005]: Macdonald, A., 2005. “Comment on ‘The Role of Dynamics in the Synchronization Problem,’ by Hans C. Ohanian,” *American Journal of Physics*, 73: 454–455.
+[^malament-1977]: Malament, D., 1977. “Causal Theories of Time and the Conventionality of Simultaneity,” *Noûs*, 11: 293–300.
 [^mamone-2001]: Mamone Capria, M., 2001. “On the Conventionality of Simultaneity in Special Relativity,” *Foundations of Physics*, 31: 775–818.
 [^mamone-2012]: Mamone Capria, M., 2012. “Simultaneity as an Invariant Equivalence Relation,” *Foundations of Physics*, 42: 1365–1383.
 [^minguzzi-2002]: Minguzzi, E., 2002. “On the Conventionality of Simultaneity,” *Foundations of Physics Letters*, 15: 153–169.
