@@ -44,3 +44,9 @@
 * **任务书**：`ren-wu-shu.md`（T0 回退原语工具任务归治理会话；T1 A1 的 185 条状态回退 done 170/r1 3/s3 12 → audited，文本保留；T2 顿号 147 删/14 豁免；T3 括号套用 335 候选先读条款原文；T4 多段引文 2 块；T5 收口）。
 * **侦察凭证**：`results/g9-dunhao-candidates.json`（161）、`results/g9-paren-nesting.json`（335）、`results/a1-task-states.json`（185 条状态清单）；G9① 省略号 4 候选全豁免收口（dai-zhen ×2 与 yuanwen 同形照录）。
 * **边界**：受影响 191 词条中 1 条无任务文件（korean-confucianism.supplement）单独裁定；5 条 cleared 本在 pre-s3 不动。
+
+## 双任务书协同（2026-11-14）
+
+* pc6 同轮签发 `ren-wu-shu-a2.md`（5b1d4b7ff）：路由=在途任务 audited/s3 随步落实＋s3_checked 快照件撤销（手工回写）＋done 归 specs/023 回炉＋r1 待用户明确；另扩 W1 括注区间上界 3,072、W2 登记册生卒列 1,762。
+* 本会话 `ren-wu-shu.md` 补协同说明：T0/T1 执行路由降级备选（待用户扩大裁定才启用）；T2 判定清单（147/14）、T3/T4 候选与 G9① 结论作为 a2 输入凭证。
+* **未决对表（待用户裁定）**：回退范围 185（含 done/r1）vs 24（现存 s3_checked）；r1_reviewed 是否同口径回退。
