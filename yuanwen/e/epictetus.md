@@ -174,13 +174,13 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 
 [^handbook-1983]: *The Handbook of Epictetus*, translated by N.P. White, Indianapolis: Hackett, 1983.
 
-[^fuentes-2000]: Fuentes González, P. P., 2000, “Épictète,” *Dictionaire des philosophes antiques* vol. 3, 106–151.
+[^fuentes-2000]: Fuentes González, P. P., 2000, “Épictète,” *Dictionnaire des philosophes antiques* vol. 3, 106–151.
 
 [^hershbell-1989]: Hershbell, J.P., 1989, “The Stoicism of Epictetus: Twentieth-Century Perspectives,” *Aufstieg und Niedergang der Römischen Welt*, vol. 2.36.3, Berlin: W. De Gruyter, 2148–2163.
 
 [^long-2002]: Long, A.A., 2002, *Epictetus: A Stoic and Socratic Guide to Life*, Oxford: Oxford University Press.
 
-[^spanneut-1962]: Spanneut, M., 1962, “Epiktet,” in T. Klauser (ed.), *Reallexicon für Antike und Christentum* (Volume V), Stuttgart: Hiersemann, 599–681.
+[^spanneut-1962]: Spanneut, M., 1962, “Epiktet,” in T. Klauser (ed.), *Reallexikon für Antike und Christentum* (Volume V), Stuttgart: Hiersemann, 599–681.
 
 [^stephens-2007]: Stephens, W.O., 2007, *Epictetus and Happiness as Freedom*, London: Continuum.
 
@@ -204,7 +204,7 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 
 [^barnes-1997]: Barnes, J., 1997, *Logic and the Imperial Stoa*, Leiden: Brill.
 
-[^bénatouïl-2013]: Bénatouïl, T., 2013, “*Theôria* and *scholê* in Epictetus and Marcus Aurelius: Platonic, Stoic or Socratic?,” in *Plato and the Stoics*, A.G. Long (ed.), Cambridge : Cambridge University Press, 147–173.
+[^bénatouïl-2013]: Bénatouïl, T., 2013, “*Theôria* and *scholê* in Epictetus and Marcus Aurelius: Platonic, Stoic or Socratic?,” in *Plato and the Stoics*, A.G. Long (ed.), Cambridge: Cambridge University Press, 147–173.
 
 [^billerbeck-1978]: Billerbeck, M., 1978, *Epiktet: von Kynismus*, Leiden: Brill.
 
@@ -212,7 +212,7 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 
 [^bonhöffer-1894]: –––, 1894, *The Ethics of the Stoic Epictetus*, W.O. Stephens (trans.), New York: Peter Lang, 1996.
 
-[^boter-2022]: Boter, G., 2022 “The Role of Anger in Epictetus’ Philosophical Teaching,” in *Emotions and Narrative in Ancient Literature and Beyond : Studies in Honour of Irene De Jong*, M. de Bakker, B. van den Berg, J. Klooster (ed.), Leiden: Brill, 619–632.
+[^boter-2022]: Boter, G., 2022 “The Role of Anger in Epictetus’ Philosophical Teaching,” in *Emotions and Narrative in Ancient Literature and Beyond: Studies in Honour of Irene De Jong*, M. de Bakker, B. van den Berg, J. Klooster (ed.), Leiden: Brill, 619–632.
 
 [^braicovich-2012]: Braicovich, R.S., 2012, “Critical Assent, Intellectualism and Repetition in Epictetus,” *Apeiron*, 45: 314–337.
 
@@ -234,7 +234,7 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 
 [^fisher-2015]: Fisher, Jeffrey, 2015, “Epictetus on the Epistemology of the Art of Living,” *Apeiron*, 48(1): 20–44.
 
-[^graver-2003]: Graver, M., 2003, “Not Even Zeus: A Discussion of A.A. Long, *Epictetus: A Stoic and Socratic Guide to Life,” Oxford Studies in Ancient Philosophy*, 24: 343–359.
+[^graver-2003]: Graver, M., 2003, “Not Even Zeus: A Discussion of A.A. Long, *Epictetus: A Stoic and Socratic Guide to Life*,” *Oxford Studies in Ancient Philosophy*, 24: 343–359.
 
 [^graver-2007]: –––, 2007, *Stoicism and Emotion*, Chicago: University of Chicago Press.
 
@@ -264,7 +264,7 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 
 [^magrin-2018]: Magrin, S., 2018, “Nature and Utopia in Epictetus’ Theory of *Oikeiōsis*,” *Phronesis*, 63: 293–350.
 
-[^pohlenz-1948]: Pohlenz, M., 1948–9, *Die Stoa: Geschichte einer geistigen Bewegung*, Gōttingen: Vandenhōck & Ruprecht.
+[^pohlenz-1948]: Pohlenz, M., 1948–9, *Die Stoa: Geschichte einer geistigen Bewegung*, Göttingen: Vandenhoeck & Ruprecht.
 
 [^salles-2007]: Salles, R. 2007, “Epictetus on Moral Responsibility for Precipitate Action,” in *Akrasia in Greek Philosophy: From Socrates to Plotinus*, C. Bobonich and P. Destrée (eds.), Leiden: Brill, 249–263.
 
@@ -301,8 +301,6 @@ character, moral | ethics: ancient | ethics: natural law tradition | freedom: an
 [^macmillan-1979]: MacMillan, D.J. (ed.), 1979, *The Stoic Strain in American Literature*, Toronto: University of Toronto Press.
 
 [^spanneut-1972]: Spanneut, M., 1972, “Épictète Chez les Moines,” *Mélanges de Science Religieuse*, 29: 49–57.
-
-[^stadter-1980-2]: Stadter, P. A., 1980, *Arrian of Nicomedia*, Chapel Hill: University of North Carolina Press.
 
 [^stanton-1968]: Stanton, G.R., 1968, “The Cosmopolitan Ideas of Epictetus and Marcus Aurelius,” *Phronesis*, 13: 183–95.
 

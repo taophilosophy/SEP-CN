@@ -111,3 +111,7 @@
 | erasmus | `&Eacute;<em>rasme…` / `<em>. Desiderius Erasmus…` | 斜体含重音字母、去首点 | 斜体错位（①） |
 | albo-joseph | `R. Josepf Albo` / `Miscel&aacute;neade` / `Dragestellt` / `W. Schlessinger` | `Josef` / `Miscelánea de` / `Dargestellt` / `Schlesinger` | 拼写（①） |
 | albo-joseph | `Joseph Albo&rsquo;s, <em>Buch Ikkarim` | 去逗号 | 标点（①） |
+| epictetus | `G&#333;ttingen` / `Vandenh&#333;ck` / `Dictionaire` / `Reallexicon` | `Göttingen` / `Vandenhoeck` / `Dictionnaire` / `Reallexikon` | 实体与拼写（①） |
+| epictetus | graver-2003 书名与刊名同裹斜体 | 分列斜体 | 斜体（①） |
+| epictetus | `Cambridge :` / `Beyond :` | 去空格 | 排版（①） |
+| epictetus | 重复的 Stadter 1980 条 | 删一 | 重复登记（②） |
