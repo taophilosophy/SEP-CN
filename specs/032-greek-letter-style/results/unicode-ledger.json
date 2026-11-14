@@ -1,0 +1,169 @@
+{
+ "schema": "sep-cn-unicode-fix-ledger/1",
+ "date": "2026-11-15",
+ "basis": "specs/032 验收发现，C1 家法展开优质形",
+ "rows": [
+  {
+   "file": "l/logic-linear.md",
+   "line": 18,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 20,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 48,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 48,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 48,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 58,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 58,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 58,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 58,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 72,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 74,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 74,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 82,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 82,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 92,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 92,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 107,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 107,
+   "old": "\\unicode{x214b}",
+   "new": "⅋"
+  },
+  {
+   "file": "l/logic-relevance.md",
+   "line": 39,
+   "old": "\\unicode{x22b0}",
+   "new": "⊰"
+  },
+  {
+   "file": "l/logic-relevance.md",
+   "line": 39,
+   "old": "\\unicode{x22b0}",
+   "new": "⊰"
+  },
+  {
+   "file": "l/logic-relevance.md",
+   "line": 39,
+   "old": "\\unicode{x22b0}",
+   "new": "⊰"
+  },
+  {
+   "file": "d/diodorus-cronus.md",
+   "line": 152,
+   "old": "\\unicode{x2B26}",
+   "new": "⬦"
+  },
+  {
+   "file": "d/diodorus-cronus.md",
+   "line": 152,
+   "old": "\\unicode{x2B26}",
+   "new": "⬦"
+  },
+  {
+   "file": "h/heritability.md",
+   "line": 49,
+   "old": "$= {^{V_G}\\unicode{x2044}_{V_P}}$",
+   "new": "$= V_{G}/V_{P}$"
+  },
+  {
+   "file": "h/heritability.md",
+   "line": 49,
+   "old": "${^{V_E}\\unicode{x2044}_{V_P}}$",
+   "new": "$V_{E}/V_{P}$"
+  },
+  {
+   "file": "h/heritability.md",
+   "line": 71,
+   "old": "{^{V_A}\\unicode{x2044}_{V_P}}",
+   "new": "V_{A}/V_{P}"
+  },
+  {
+   "file": "j/justep-coherence.md",
+   "line": 183,
+   "old": "${^{1}\\unicode{x2044}_{P(A)^{n-1}}}$",
+   "new": "$1/P(A)^{n-1}$"
+  }
+ ]
+}
