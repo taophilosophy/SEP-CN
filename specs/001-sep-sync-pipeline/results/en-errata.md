@@ -277,3 +277,11 @@
 | kant-reason | møller-2020 `…in the</em> Critique of Pure Reason.` | `…in the Critique of Pure Reason</em>,` | 斜体提前收束（①） |
 | kant-reason | rescher-2000 `Reach of Reason:</em> <em>Studies in…` | 合为一处斜体 | 题名被拆成两段斜体（①） |
 | kant-reason | notes 注 35 `simply (?) as considerations` | `simply as considerations` | 作者遗留问号占位（①） |
+| kant-social-political | o’neill-2016 `O’Neill, Onora 2016` | `Onora, 2016` | 缺逗号（①） |
+| kant-social-political | waldron-1996 `Waldron, Jeremy 1996` | `Jeremy, 1996` | 缺逗号（①） |
+| kant-social-political | yovel-1980 `Yovel, Yirmiyahu Yovel` | `Yirmiyahu` | 姓氏重复（①） |
+| kant-social-political | stone-2018 `Kant: Constitutional Justice, and European Convention` | `Kant, Constitutional Justice, and the European Convention` | 双冒号且脱 the（①） |
+| kant-social-political | willaschek-1997 `Jahrbuch für Recht und Ethik 5, 205–227` | 期刊名斜体、`5: 205–227` | 期刊名未斜体（①） |
+| kant-social-political | fleischacker-1999 条末缺句点 | 补句点 | 缺标点（①） |
+| kant-social-political | korsgaard-1997／wilson-1998 `, In …` | `, in …` | 句首 In 大写（①） |
+| kant-social-political | doyle-1983 `205–235 and 323–353` | `205–235, 323–353` | 页码间英文 and（①） |
