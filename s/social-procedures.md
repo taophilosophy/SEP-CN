@@ -130,7 +130,7 @@ R. 帕里克（2002）分析过所谓的巴拿赫—克纳斯特切蛋糕算法�
 
 值得注意的是，盖尔—沙普利匹配算法极大地偏向求婚的一方。求婚方可以按偏好次序向任何候选人求婚；而受求婚的一方在程序开头，却必须对任何求婚都说“是”！若把算法中男女的角色对调，算出的仍是稳定匹配，只是这一个更有利于女子。
 
-盖尔—沙普利程序的运行时间与男女数目的平方成正比（例如见 Cechlérová et al. 2005）[^cechlérová-2005]。皮尼等（2011）表明，参与者只要虚报真实偏好，就能轻易操纵程序的结果。所幸皮尼等也给出另一种程序，操纵它在计算上很难——要想出一种对个人有利的偏好虚报，本身就是一项计算复杂的任务。
+盖尔—沙普利程序的运行时间与男女数目的平方成正比（例如见 Cechlárová et al. 2005）[^cechlérová-2005]。皮尼等（2011）表明，参与者只要虚报真实偏好，就能轻易操纵程序的结果。所幸皮尼等也给出另一种程序，操纵它在计算上很难——要想出一种对个人有利的偏好虚报，本身就是一项计算复杂的任务。
 
 盖尔—沙普利算法有许多重要应用，且不限于婚姻中介；盖尔与沙普利本人就讨论过大学录取程序（1962）。下一小节再介绍一项应用。
 
@@ -254,9 +254,9 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共�
 
 ### 稳定婚姻问题
 
-[^gale-1962]: Gale, D., and L. Shapley, L., 1962, “College Admissions and the Stability of Marriage, *American Mathematical Monthly*, 69: 9–15.
+[^gale-1962]: Gale, D., and L. Shapley, 1962, “College Admissions and the Stability of Marriage”, *American Mathematical Monthly*, 69: 9–15.
 
-[^cechlérová-2005]: Cechlérová, K., and D.F. Manlove, 2005, “The Exchange-Stable Marriage Problem”, *Discrete Applied Mathematics*, 152(1–3): 109–122.
+[^cechlérová-2005]: Cechlárová, K., and D.F. Manlove, 2005, “The Exchange-Stable Marriage Problem”, *Discrete Applied Mathematics*, 152(1–3): 109–122.
 
 [^parikh-2012]: Parikh, R., and M. Pauly, 2012, “What is Social Software?”, in van Eijck and Verbrugge 2012: 3–14.
 
@@ -296,7 +296,7 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共�
 
 [^brandenburger-2014]: Brandenburger, A., 2014, *The Language of Game Theory: Putting Epistemics into the Mathematics of Games*, Singapore: World Scientific.
 
-[^bulling-2015]: Bulling, N., and V. Goranko, 2015, “Logics for Reasoning About Strategic Abiliies in Multi-Player Games”, in van Benthem, Ghosh, & Verbrugge 2015: 93–136.
+[^bulling-2015]: Bulling, N., and V. Goranko, 2015, “Logics for Reasoning About Strategic Abilities in Multi-Player Games”, in van Benthem, Ghosh, & Verbrugge 2015: 93–136.
 
 [^camerer-2003]: Camerer, C.F., 2003, *Behavioral Game Theory: Experiments on Strategic Interaction*, Princeton: Princeton University Press.
 
@@ -318,7 +318,7 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共�
 
 [^klein-2017]: Klein, D., and E. Pacuit, 2017, “Focusing on Campaigns”, in Başkent, Moss, & Ramanujam 2017, pp. 77–90.
 
-[^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012,“What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
+[^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012, “What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
 
 [^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary“, *Interaction Studies*, 15(3): 455–477.
 
@@ -332,7 +332,7 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共�
 
 [^sigmund-2010]: Sigmund, K., 2010, *The Calculus of Selfishness*, (Princeton Series in Theoretical and Computational Biology), Princeton and Oxford: Princeton University Press.
 
-[^top-2018]: Top, J., R. Verbrugge, and S. Ghosh, 2018, “An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic”, *Games*, 9(3),44; doi:10.3390/g9030044
+[^top-2018]: Top, J., R. Verbrugge, and S. Ghosh, 2018, “An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic”, *Games*, 9(3): 44. doi:10.3390/g9030044
 
 [^vazirani-2007]: Vazirani, V.V., N. Nisan, T. Roughgarden, and E. Tardos (eds.), 2007, *Algorithmic Game Theory*, Cambridge: Cambridge University Press.
 
