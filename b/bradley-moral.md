@@ -198,7 +198,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.)
 
-[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. Volumes 1–5 include previously unpublished materials from Bradley’s archives, while volumes 6–12 are reprinted works. Includes Volumes 1–5, edited by Carol A. Keene Volume 1: 1865–1882: A Pluralistic Approach to Philosophy (unpublished material) Volume 2: 1883–1902: A Focus on Metaphysics and Psychology (unpublished material) Volume 3: 1903–1924: Refinement and Revision (unpublished material) Volume 4: Selected Correspondence, June 1872 – December 1904 Volume 5: Selected Correspondence, January 1905 – June 1924 Volumes 6–12, edited by William J. Mander Volume 6: “F.H. Bradley: Towards a Portrait” (1961), “Ethical Studies” (1927) Volume 7: “The Principles of Logic”, vol. 1(1928) Volume 8: “The Principles of Logic”, vol. 2 (1928) Volume 9: “Appearance and Reality” (1930) Volume 10: “Essays on Truth and Reality” (1914) Volume 11: “Collected Essays”, vol. 1(1935) Volume 12: “Collected Essays”, vol. 2 (1935), “Aphorisms” (1930), “A Note on Christian Morality” (1983), “A Personal Explanation” (1894), “Rational Hedonism” (1895)
+[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. 第 1–5 卷收布拉德雷档案中此前未刊的材料，第 6–12 卷为已刊著作的重印。收入：第 1–5 卷，Carol A. Keene 编——第 1 卷：1865–1882：*A Pluralistic Approach to Philosophy*（未刊材料）；第 2 卷：1883–1902：*A Focus on Metaphysics and Psychology*（未刊材料）；第 3 卷：1903–1924：*Refinement and Revision*（未刊材料）；第 4 卷：书信选，1872 年 6 月—1904 年 12 月；第 5 卷：书信选，1905 年 1 月—1924 年 6 月。第 6–12 卷，William J. Mander 编——第 6 卷：“F.H. Bradley: Towards a Portrait”（1961）、“Ethical Studies”（1927）；第 7 卷：*The Principles of Logic* 上卷（1928）；第 8 卷：*The Principles of Logic* 下卷（1928）；第 9 卷：*Appearance and Reality*（1930）；第 10 卷：*Essays on Truth and Reality*（1914）；第 11 卷：*Collected Essays* 第 1 卷（1935）；第 12 卷：*Collected Essays* 第 2 卷（1935）、“Aphorisms”（1930）、“A Note on Christian Morality”（1983）、“A Personal Explanation”（1894）、“Rational Hedonism”（1895）。
 
 [^airaksinen-2012]: Airaksinen, Timo, 2012, “Desire and Happiness”, *Homo Oeconomicus*, 29(3): 393–412.
 
@@ -340,7 +340,7 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^wright-1984]: Wright, Crispin, 1984, “The Moral Organism?”, in Manser and Stock 1984: 77–97.
 
-[^ingardia-1991]: Ingardia, Richard, 1991, *Bradley: A Research Bibliography*, (Bibliographies of Famous Philosophers), Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University. Please note the volume contains occasional typos and mistakes in the references, but to this date this is the most comprehensive catalogue of literature on F.H. Bradley before 1991.
+[^ingardia-1991]: Ingardia, Richard, 1991, *Bradley: A Research Bibliography*, (Bibliographies of Famous Philosophers), Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University. 请注意，该卷间有排印错误与参考文献讹误，但至今仍是 1991 年以前关于 F.H. 布拉德雷的最完备文献目录。
 
 ## 学术工具
 
