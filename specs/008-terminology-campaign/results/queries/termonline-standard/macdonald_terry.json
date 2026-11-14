@@ -1,0 +1,26 @@
+{
+ "key": "macdonald, terry",
+ "term": "Macdonald, Terry",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:57:10+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "纬编毛圈织物",
+   "en": "terry fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "经编双面毛圈织物",
+   "en": "double-sided terry fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2001\": 2}, \"sourceStats\": {\"纺织和皮革技术\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"7d6b7440b438499885a2b3ef80e3eb89\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.16\", \"cnName\": \"纬编毛圈织物\", \"enName\": \"terry fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206266, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"纬编毛圈织物\", \"cnNameSearch\": \"纬编毛圈织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"terry fabric\", \"wordSearch\": \"terry fabric\"}], \"allowableWord\": [{\"languageType\": 1, \"word\": \"weft-knitted\", \"wordSearch\": \"weft-knitted\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由地纱和毛圈纱以添纱的方式形成的单面纬编针织物,其中地纱形成正常线圈,毛圈纱在织物反 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">面由拉长沉降弧形成毛圈线圈(图 4)。</span></p><p><img src=\\\"/standard/21a71455b6ab499cbc6fe1aef1e26b76/1743161587811.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"602fc4009db7453087452257aeb54be4\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"7.38\", \"cnName\": \"经编双面毛圈织物\", \"enName\": \"double-sided terry fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206205, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经编双面毛圈织物\", \"cnNameSearch\": \"经编双面毛圈织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"double-sided terry fabric\", \"wordSearch\": \"double-sided terry fabric\"}], \"allowableWord\": [{\"languageType\": 1, \"word\": \"warp-knitted\", \"wordSearch\": \"warp-knitted\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"中间两把梳栉编织半机号衬纬编链组织,前梳和后梳在非工作针上作针前垫纱形成毛圈的单面 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">经编织物(图 64)。</span></p><p><img src=\\\"/standard/b9f28417da2540168280990612916cf6/1743238567757.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794679026839}"
+}
