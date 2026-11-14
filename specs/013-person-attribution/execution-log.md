@@ -246,3 +246,13 @@
 **留队歧义 20 人**：William James、Habermas、Joseph Priestley、Hutcheson 类、Joyce、Toland、John Sergeant、Jonathan Bennett 等。
 
 **验收**：硬错误 0；人名缺项 2760 → 2716。
+
+## 2026-11-14 GND N 段（45 行）
+
+**范围**：续取 120 行（Kahane 至 Kwŏn Kŭn），命中 47（exact 42／variant 5）、歧义 18、查无 40，采信 45（跳过无地域码或生年残缺者 15）。凭证 `results/verify-2026-11-14-gnd-n.tsv`。
+
+**拒采 2 条**：`Komnene, Anna`（GND 命中 1899–1990 现代同名者，键所指为 1083–1153 的安娜·科穆宁娜）、`Koslicki, Kathrin`（GND 生年作 “[19X-”，残缺不可用）。
+**口径校正**：Kepler 取“德国／天文学”、Kwŏn Kŭn 取“朝鲜／儒学”、Koffka 取“德国／美国／心理学”；新增捷克斯洛伐克、马来西亚映射。
+**留队歧义 18 人**：Karl Kautsky、Liebknecht、Klein 两人、King, Peter、Kirk、Köhler、Kramers 等。
+
+**验收**：硬错误 0；人名缺项 2716 → 2671。
