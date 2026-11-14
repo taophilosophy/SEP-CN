@@ -91,7 +91,7 @@
 
 然而在其他问题上，马西利乌斯对布里丹持批评态度。例如，关于上帝能否恢复已腐坏之物，他论证不能——即便奇迹也不能，因为上帝不能做本身蕴涵矛盾之事。布里丹则曾主张：自然地说腐坏之物固然无法复原，但上帝有超自然的能力为之（见 Wood 2023）[^wood-2023]。又如偶性与实体可分离的问题：马西利乌斯认为布里丹的解法不合亚里士多德教导，算不得真正的形而上学（*metaphysicaliter*），倒更贴近神学关切。上帝唯有奇迹般地才能接过实体的支撑之力，使偶性脱开其自然承载者；而按马西利乌斯的说法，形而上学不该考虑这类可能的上帝干预，因为在那里哲学家必须单凭自然理性（见 Bakker 2000）[^bakker-2000]。
 
-马西利乌斯是海德堡大学首任校长。按该校艺学院最古老的章程，每位硕士都须告知学生：凡亚里士多德与信仰相抵之处（例如他主张世界永恒），他所循的是自然理性；纵使他在此类情形中的论证有误、必须接受信仰，自然理性仍不能不以亚里士多德为依归，因而证明不了信仰的结论（见 Winkelmann 1886, 41）[^winkelmann-1886]。这一段显然呼应了马西利乌斯在该问题上的立场。同时代其他大学（如维也纳大学）则不那么严苛，规定了一套更圆融的程序：凡与信仰冲突之处，硕士须尽力为信仰、反亚里士多德而辩（见 Kink 1854, 202（titulus 17））。
+马西利乌斯是海德堡大学首任校长。按该校艺学院最古老的章程，每位硕士都须告知学生：凡亚里士多德与信仰相抵之处（例如他主张世界永恒），他所循的是自然理性；纵使他在此类情形中的论证有误、必须接受信仰，自然理性仍不能不以亚里士多德为依归，因而证明不了信仰的结论（见 Winkelmann 1886, 41）[^winkelmann-1886]。这一段显然呼应了马西利乌斯在该问题上的立场。同时代其他大学（如维也纳大学）则不那么严苛，规定了一套更圆融的程序：凡与信仰冲突之处，硕士须尽力为信仰、反亚里士多德而辩（见 Kink 1854, 202（titulus 17））[^kink-1854]。
 
 ### 2.4 神学
 
@@ -167,19 +167,19 @@
 
 [^note-18]: 关于马西利乌斯影响的一节，依据 Hoenen 1993, 10–15、Walz and Düchting 2008 与 Hoenen 2024 所汇集的数据。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Catalogue of Works and Bibliography
+### 著作目录与文献
 
-### Early Editions
+### 早期版本
 
-### Modern Editions
+### 现代版本
 
-### Secondary Literature
+### 二手文献
 
 [^hoenen-1989]: Hoenen, M. J. F. M., 1989, “Marsilius von Inghen: Bibliographie. Appendix zu der geplanten Edition der wichtigsten Werk des Marsilius von Inghen,” *Bulletin de Philosophie Médiévale*, 31: 150–167.
 [^hoenen-1990]: Hoenen, M. J. F. M., 1990, Marsilius von Inghen: “Bibliographie. Ergänzungen,” *Bulletin de Philosophie Médiévale*, 32: 191–195.
@@ -192,10 +192,10 @@
 [^marsilius-2000-2]: Marsilius of Inghen [SE2], *Quaestiones super quattuor libros Sententiarum, Vol. 2: Super primum, quaestiones 8–21*, G. Wieland, M. Santos Noya, M. J. F. M. Hoenen, M. Schulze (eds.), Studies in the History of Christian Thought, Volume 88, M. Santos Noya (ed.), Leiden: Brill, 2000.
 [^marsilius-2015]: Marsilius of Inghen [SE3], *Quaestiones super quattuor libros Sententiarum, Vol. 3: Super primum, quaestiones 22–37*, M.J.F.M. Hoenen and M. Erne (eds.), Studies in the History of Christian Thought, Volume 173, Leiden: Brill, 2015.
 [^marsilius-2024]: Marsilius of Inghen [SE4], *Quaestiones super quattuor libros Sententiarum: Super tertium, quaestiones 1–5*, H. Wojtczak and M. Stanek (eds.), Studies in the History of Christian Thought, Volume 199, Leiden: Brill, 2024.
-[^marsilius-2014]: Marsilius of Inghen [ISA]*, Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
+[^marsilius-2014]: Marsilius of Inghen [ISA], *Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
 [^marsilius-2008]: Marsilius of Inghen [PRA], *Quaestiones super librum Praedicamentorum Aristotelis*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2008.
 [^marsilius-1983]: Marsilius of Inghen [TPT], *Treatises on the Properties of Terms*. A First Critical Edition of the Suppositiones, Ampliationes, Appellationes, Restrictiones and Alienationes with Introduction, Translation, Notes, and Appendices, E. P. Bos (ed.), Synthese Historical Library, Volume 22, Dordrecht: D. Reidel, 1983.
-[^bakker-2002]: Bakker, P. J. J. M., 2002, “Inhérence, univocité et séparabilité des accidents eucharistiques”, in *La servante et la consolatrice: La philosophie dans des rapports avec la théologie au Moyen Âge*, J.-L- Solère and Z. Kaluza (eds.), Textes et Traditions, Volume 3, Paris: Vrin, 193–245 [contains partial editions of works of Buridan and Marsilius].
+[^bakker-2002]: Bakker, P. J. J. M., 2002, “Inhérence, univocité et séparabilité des accidents eucharistiques”, in *La servante et la consolatrice: La philosophie dans des rapports avec la théologie au Moyen Âge*, J.-L. Solère and Z. Kaluza (eds.), Textes et Traditions, Volume 3, Paris: Vrin, 193–245 [contains partial editions of works of Buridan and Marsilius].
 [^bakker-2000]: –––, 2000, “Aristotelian Metaphysics and Eucharistic Theology: John Buridan and Marsilius of Inghen on the Ontological Status of Accidental Being”, in *The Metaphysics and Natural Philosophy of John Buridan*, J.M.M.H. Thijssen and J. Zupko (eds.), Medieval and Early Modern Science, Volume 2, Leiden: Brill, 247–264.
 [^berger-2004]: Berger, H., 2004, “Marsilius von Inghen (1396) bei Jacob Brucker und dessen Nachfolgern,” *Acta Mediaevalia*, 17: 7–19.
 [^braakhuis-1992]: Braakhuis, H. A. G., and M. J. F. M. Hoenen (eds.), 1992, *Marsilius of Inghen*, Artistarium Supplementa, Volume 7, Nijmegen: Ingenium Publishers, 1992 [contains partial editions of works of Marsilius].
@@ -218,7 +218,7 @@
 [^reina-1994]: Reina, M. E., 1994, “Comprehensio veritatis: Una questione di Marsilio di Inghen sulla Metafisica,” in *Filosofia e teologia nel trecento: Studi in ricordo di Eugenio Randi*, L. Bianchi (ed.), Textes et Études du Moyen Age, Volume 1, Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales, 283–335.
 [^reina-2002]: –––, 2002, *Hoc Hic et Nunc: Buridano, Marsilio di Inghen e la Conoscenza del Singolare*, Florence: L.S. Olschki.
 [^ritter-1921]: Ritter, G., 1921, *Studien zur Spätscholastik I: Marsilius von Inghen und die okkamistische Schule in Deutschland*, Heidelberg: Winter.
-[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. La choix des questions relatives à la causasalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
+[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. Le choix des questions relatives à la causalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
 [^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gr[special-character:uumlndungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
 [^wielgus-1993]: Wielgus, S. (ed.), 1993, *Marsilius von Inghen: Werk und Wirkung: Akten des Zweiten Internationalen Marsilius-von-Inghen-Kongresses*, Lublin: Red. Wydawn. KUL [contains partial editions of works of Marsilius].
 [^winkelmann-1886]: Winkelmann, E., 1886, *Urkundenbuch der Universität Heidelberg*, Volume 1: Urkunden, Heidelberg: Winter.

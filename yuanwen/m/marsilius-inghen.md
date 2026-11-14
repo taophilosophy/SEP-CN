@@ -219,7 +219,7 @@ Buridan, John [Jean] | causation: medieval theories of | Gregory of Rimini | Ock
 
 [^marsilius-2024]: Marsilius of Inghen [SE4], *Quaestiones super quattuor libros Sententiarum: Super tertium, quaestiones 1–5* , H. Wojtczak and M. Stanek (eds.), Studies in the History of Christian Thought, Volume 199, Leiden: Brill, 2024.
 
-[^marsilius-2014]: Marsilius of Inghen [ISA]*, Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
+[^marsilius-2014]: Marsilius of Inghen [ISA], *Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
 
 [^marsilius-2008]: Marsilius of Inghen [PRA], *Quaestiones super librum Praedicamentorum Aristotelis*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2008.
 
@@ -271,7 +271,7 @@ Buridan, John [Jean] | causation: medieval theories of | Gregory of Rimini | Ock
 
 [^ritter-1921]: Ritter, G., 1921, *Studien zur Spätscholastik I: Marsilius von Inghen und die okkamistische Schule in Deutschland*, Heidelberg: Winter.
 
-[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. La choix des questions relatives à la causasalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
+[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. Le choix des questions relatives à la causasalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
 
 [^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gr[special-character:uumlndungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
 
