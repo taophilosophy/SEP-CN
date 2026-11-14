@@ -118,6 +118,10 @@ def advance(slug, step, actor, evidence, unblock=False):
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
+    if not str(actor or "").strip():
+        raise UsageError("actor 必填（写入路径追责字段）")
+    if not str(evidence or "").strip():
+        raise UsageError("evidence 必填（FR-017：哈希/diff/对照记录/检查输出）")
     if unblock:
         task["blockers"] = []
         task["steps"].append({"step": "unblock", "status": "ok", "actor": actor,
@@ -141,6 +145,8 @@ def advance(slug, step, actor, evidence, unblock=False):
     if step != "done" and task["kind"] == "update" and step in ("s1", "s2") \
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
+    if step == "r3" and task.get("kind") != "glossary-maintenance":
+        _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     task["state"] = STEPS[step]
