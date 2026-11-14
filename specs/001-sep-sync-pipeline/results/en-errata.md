@@ -155,3 +155,6 @@
 | emilie-du-chatelet | `systèmes et hypotheses` | `hypothèses` | 法语重音（①） |
 | emilie-du-chatelet | `Hagengruber, Ruth, 2011` | `2012` | 正文与注 6、9、16 均引 2012，文集为 Springer 2012（②） |
 | emilie-du-chatelet | `–––, 2011, “Between Newton and Leibniz…` | `2012` | 同上，正文引 Hutton 2012, 77–95（②） |
+| gelukpa | `<em>The Great Treatise on the States of the Path…</em>` | `Stages of the Path` | 通行英译书名（《菩提道次第广论》）（①） |
+| gelukpa | `lam byi gtso bo rnam gsum` | `lam gtso rnam gsum` | 威利转写多一词（《三主要道》）（①） |
+| gelukpa | `<em>Tsongkhapa&rsquo;s</em> <em>Collected Works</em>` | 合为一处斜体 | 同页另两条书目未断（②） |
