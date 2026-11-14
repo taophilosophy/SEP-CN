@@ -118,9 +118,9 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Works by Oakeshott
+### 奥克肖特著作
 
-### Other Works
+### 其他著作
 
 [^oakeshott-1933]: Oakeshott, M., 1933 [*EM*], *Experience and Its Modes*, Cambridge: Cambridge University Press.
 [^oakeshott-1939]: –––, (ed.), 1939, *The Social and Political Doctrines of Contemporary Europe*, Cambridge: Cambridge University Press.
@@ -139,7 +139,7 @@
 [^oakeshott-2010]: –––, 2010, *Early Political Writings 1925–30*, L. O’Sullivan (ed.), Exeter: Imprint Academic.
 [^oakeshott-2014]: –––, 2014, *Notebooks, 1922–86*, L. O’Sullivan (ed.), Exeter: Imprint Academic.
 [^ankersmit-1983]: Ankersmit, F., 1983, *Narrative Logic: A Semantic Analysis of the Historian’s Language*, The Hague: Nijhoff.
-[^aristotle-1980]: Aristotle, 4ᵗʰ Century BCE, *The Nichomachean Ethics*, D. Ross (trans.), Oxford: Oxford University Press, 1980.
+[^aristotle-1980]: Aristotle, 4ᵗʰ Century BCE, *The Nicomachean Ethics*, D. Ross (trans.), Oxford: Oxford University Press, 1980.
 [^backhurst-2016]: Backhurst, D. and P. Fairfield (eds.), 2016, *Education and Conversation: Exploring Oakeshott’s Legacy*, London: Bloomsbury.
 [^boucher-2012]: Boucher, D., 2012, “Oakeshott in the Context of British Idealism”, in Podoksik 2012: 247–273.
 [^butterfield-1931]: Butterfield, H., 1931, *The Whig Interpretation of History*, London: G. Bell and Sons.
@@ -157,7 +157,7 @@
 [^friedman-1989]: Friedman, R., 1989, “Oakeshott on the Authority of Law”, *Ratio Juris*, 2(1): 27–40.
 [^fuller-1969]: Fuller, L., 1969, *The Morality of Law*, New Haven: Yale University Press.
 [^grant-1990]: Grant, R., 1990, *Oakeshott*, London: Claridge Press.
-[^grant-2012]: –––, 2012, “The Pursuit of Intimacy, or Rationalism in Love”, in Franco and Marsh 2012: 15–44
+[^grant-2012]: –––, 2012, “The Pursuit of Intimacy, or Rationalism in Love”, in Franco and Marsh 2012: 15–44.
 [^haddock-2005]: Haddock, B., 2005, “Contingency and Judgement in Oakeshott’s Political Thought”, *European Journal of Political Theory*, 4(1): 7–21.
 [^hart-1958]: Hart, H., 1958, “Positivism and the Separation of Law and Morals”, *Harvard Law Review*, 71(4): 593–629.
 [^hempel-1942]: Hempel, C., 1942, “The Function of General Laws in History”, *Journal of Philosophy*, 39(2): 35–48.

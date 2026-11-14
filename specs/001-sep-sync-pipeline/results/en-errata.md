@@ -101,3 +101,5 @@
 | obligationes | keffer-2001／read-2020／yrjönsuuri-2015 条末缺句点 | 补 `.` | 句读（①） |
 | origin-descent | `Preservaton` / `Darwin1869` / `Williams and Noegate` / `thirrd` / `Ethics an Contemporary` / `[M.J.S.}` | `Preservation` / `Darwin 1869` / `Norgate` / `third` / `and` / `[M.J.S.]` | 拼写与括号（①） |
 | origin-descent | darwin-1872 条 `[<a …>…</a></li>` 缺闭合 `]` | 补 `]` | 截断（①） |
+| oakeshott | `Nichomachean`（两处） | `Nicomachean` | 拼写（①） |
+| oakeshott | grant-2012 条末缺句点 | 补 `.` | 句读（①） |
