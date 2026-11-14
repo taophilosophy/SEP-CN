@@ -28,7 +28,7 @@
 
 情感主义影响的其他迹象可以在康德那一时期的笔记与讲课中找到。例如，在其 1765—66 年冬季学期课程的通知中，他断言“行动中善与恶的区分、以及道德正当性的判断，可以通过所谓情感由人心轻易而准确地认识，而无须复杂的证明之必然”（WS 2:311）。在同一通知中，他表明其意图是发展并阐明“沙夫茨伯里、哈奇森与休谟的尝试——它们虽不完善且有缺陷，却在发现一切道德的第一原则方面走得最远”（WS 2:311）。类似地，在似乎写于 1764 至 1768 年间的笔记中，康德写道：“道德的诸规则来自一种特殊的、以其命名的情感，知性由此得到引导……”（NF 19:93 #6581）。
 
-随着康德的观点在 1760 年代的发展，他对情感主义的看法愈趋否定。到 1760 年代末，他已在论证：这一传统不可能对道德义务给出充分的说明。道德施加无条件的要求，而他日益确信情感主义无法解释或证成这类要求。支持这一结论的论证成为康德后期著作与讲课的核心。在几部著作中，康德编制了基于质料性规定根据的种种误入歧途的、他律的伦理理论的分类表——与他的自律理论相对照，后者中道德动机构成一个客观的、形式的规定根据（见 Wood 2005b [Other Internet Resources]; Irwin 2009: chapters 68 and 71; Schneewind 2009）[^irwin-2009][^schneewind-2009]。康德按这些理论对道德义务之根据或基本道德原则的说明来区分它们（G 4:441–44; CPrR 5:39–41; C 27: 252–54; M 29:621–25）。这类理论或假定主观的（经验性的）或客观的（理性的）道德原则规定根据；在每一类之内，有的理论假定这些规定根据是外在的，有的假定是内在的。客观的内在根据包括完满性（如沃尔夫与斯多葛派）。客观的外在根据包括上帝的意志（如克鲁修斯）。主观的外在根据包括教育（如蒙田）或公民体制（如曼德维尔）。主观的内在根据可以包括身体情感，如自爱（如伊壁鸠鲁）或自利（如霍布斯），或道德情感（如哈奇森）（CPrR 5:40; C 27:253）。于是，康德把道德感官理论列入那些假定一个主观的、经验性的、内在的道德情感规定根据作为道德原则的理论之中（参见 M 29:621）。
+随着康德的观点在 1760 年代的发展，他对情感主义的看法愈趋否定。到 1760 年代末，他已在论证：这一传统不可能对道德义务给出充分的说明。道德施加无条件的要求，而他日益确信情感主义无法解释或证成这类要求。支持这一结论的论证成为康德后期著作与讲课的核心。在几部著作中，康德编制了基于质料性规定根据的种种误入歧途的、他律的伦理理论的分类表——与他的自律理论相对照，后者中道德动机构成一个客观的、形式的规定根据（见 Wood 2005b［其他网络资源］；Irwin 2009：第 68、71 章；Schneewind 2009）[^irwin-2009][^schneewind-2009]。康德按这些理论对道德义务之根据或基本道德原则的说明来区分它们（G 4:441–44; CPrR 5:39–41; C 27: 252–54; M 29:621–25）。这类理论或假定主观的（经验性的）或客观的（理性的）道德原则规定根据；在每一类之内，有的理论假定这些规定根据是外在的，有的假定是内在的。客观的内在根据包括完满性（如沃尔夫与斯多葛派）。客观的外在根据包括上帝的意志（如克鲁修斯）。主观的外在根据包括教育（如蒙田）或公民体制（如曼德维尔）。主观的内在根据可以包括身体情感，如自爱（如伊壁鸠鲁）或自利（如霍布斯），或道德情感（如哈奇森）（CPrR 5:40; C 27:253）。于是，康德把道德感官理论列入那些假定一个主观的、经验性的、内在的道德情感规定根据作为道德原则的理论之中（参见 M 29:621）。
 
 从《奠基》起，康德对情感主义的异议集中于他所认为的其致命缺陷。没有经验性的原则能够为道德法则奠基，因为这类法则普遍地、必然地、无条件地约束一切理性存在者。经验性原则的权威则取决于人性的偶然方面（G 4:442–43）。此外，道德情感的差异使它们不足以作为善恶的标准（G 4:442）。道德情感不能是至上道德原则的来源，因为至上道德原则对一切理性存在者成立，而情感因人而异（M 29:625）。如果义务奠基于情感，道德对某些人（例如心软的人）的约束就会比对另一些人更强。即便人们在道德情感上完全一致，这种一致也是偶然之事，因而按康德的理解不足以作为道德法则的根据。事实上，如果道德奠基于情感，它就是任意的：上帝本可以把我们构造得使我们从恶德中获得那种我们如今（据说）从德性中获得的令人愉悦的平静赞许之情（M 29:625）。因此对康德而言，道德感官理论所提供的义务根据的偶然性使那些理论不够充分；唯有 **先天的** 规定根据才行。
 
@@ -82,7 +82,7 @@
 
 休谟的德性与恶德清单容量甚大。他在《人性论》中的说明围绕“自然的”与“人为的”德性之区分组织，这一区分容易被误解。问题不是某些德性是假的或伪造的而另一些是真实的。问题在于某些德性是否依赖社会约定而另一些不依赖。以这一区分来组织其清单，使休谟得以在把道德看作完全约定的（如伯纳德·曼德维尔）与相信道德直接源于独立于社会约定的人性特征（如弗朗西斯·哈奇森）的两派之间走出中间路线。照休谟的看法，一些德性确实依赖社会约定，但另一些不依赖（Cohon 2008: 162–163）[^cohon-2008]。在两种情形下，他都试图解释为什么人们倾向于发展这类特质、以及它们为什么倾向于令明智的旁观者愉悦。休谟在第二部《探究》中放弃了自然-人为的区分，但他在那里的研究受同样的问题驱动，所得观点也走出曼德维尔与哈奇森之间的中间路线。
 
-按《人性论》，人为的德性包括正义、守信、效忠于政府与贞洁。休谟对正义给予大量讨论，把它当作首要的、典范性的人为德性。休谟主要把正义理解为对财产的诚实，或对财产约定的遵从（T 3.2.2.28）。建立财产制度使我们能够避免冲突、享有各种财物的占有与使用。涉及财产的约定的社会价值似乎显而易见。然而，正义之所以从休谟那里得到如此多的关注，一个原因是它提出了一个关于道德动机与道德赞许的问题。休谟主张：道德上善的行动必须有一个自然（非道德的）动机。否则它们就只能因为其道德上的善而被做，那是循环的，因为我们把行动评判为道德上善的，反映了我们对引发这些行动的动机与特质的赞许（T 3.2.1.7, 3.2.1.17）。但这一立场使人难以看清正义如何能是德性；因为很难找到它所需的自然的、非道德的动机。自利是证成我们确立财产规则的自然动机（T 3.2.2.24）；但自利并不总是被正义的行动所满足，也不像我们一般称为德性的特质那样受到赞许（T 3.2.1.9–10）。仁慈也不能充当这样的动机，因为它有时倾向于 bending 或中止正义的规则，而且当正义的行为困难时，仁慈缺乏推动它的力量（如 T 3.2.1.12）。休谟本人说“**对公共利益的** 同情 **是伴随那一德性的** 道德赞许 **之来源**”（T 3.2.2.24）。但对公共利益的同情本身既不非道德也非内在于人性，这一主张是重新描述问题而非解决问题。休谟必须把对公共利益的同情奠基于更明显自然的情感之上，并解释它如何从后者发展而来（如作为自利，经教育或政治家的巧妙安排得到纠正或转向）。否则，休谟就必须放弃其主张：一切道德上善的行动——即便与人为德性相联的那些——都有非道德的自然动机。（见 Gauthier 1979; Mackie 1980: ch. 5; Darwall 1995: 302–316。）[^darwall-1995][^gauthier-1979][^mackie-1980]
+按《人性论》，人为的德性包括正义、守信、效忠于政府与贞洁。休谟对正义给予大量讨论，把它当作首要的、典范性的人为德性。休谟主要把正义理解为对财产的诚实，或对财产约定的遵从（T 3.2.2.28）。建立财产制度使我们能够避免冲突、享有各种财物的占有与使用。涉及财产的约定的社会价值似乎显而易见。然而，正义之所以从休谟那里得到如此多的关注，一个原因是它提出了一个关于道德动机与道德赞许的问题。休谟主张：道德上善的行动必须有一个自然（非道德的）动机。否则它们就只能因为其道德上的善而被做，那是循环的，因为我们把行动评判为道德上善的，反映了我们对引发这些行动的动机与特质的赞许（T 3.2.1.7, 3.2.1.17）。但这一立场使人难以看清正义如何能是德性；因为很难找到它所需的自然的、非道德的动机。自利是证成我们确立财产规则的自然动机（T 3.2.2.24）；但自利并不总是被正义的行动所满足，也不像我们一般称为德性的特质那样受到赞许（T 3.2.1.9–10）。仁慈也不能充当这样的动机，因为它有时偏爱曲解或中止正义的规则，而且当正义的行为困难时，仁慈缺乏推动它的力量（如 T 3.2.1.12）。休谟本人说“**对公共利益的** 同情 **是伴随那一德性的** 道德赞许 **之来源**”（T 3.2.2.24）。但对公共利益的同情本身既不非道德也非内在于人性，这一主张是重新描述问题而非解决问题。休谟必须把对公共利益的同情奠基于更明显自然的情感之上，并解释它如何从后者发展而来（如作为自利，经教育或政治家的巧妙安排得到纠正或转向）。否则，休谟就必须放弃其主张：一切道德上善的行动——即便与人为德性相联的那些——都有非道德的自然动机。（见 Gauthier 1979; Mackie 1980: ch. 5; Darwall 1995: 302–316。）[^darwall-1995][^gauthier-1979][^mackie-1980]
 
 自然的德性独立于社会约定而为善。休谟开列的自然德性清单是慷慨的：仁爱、审慎、节制、节俭、勤勉、刻苦、进取、灵巧、慷慨、人道（T 3.3.1.24）。在第二部《探究》中，他区分了对他人有用的德性、对自己有用的德性、直接令自己愉悦的德性与直接令他人愉悦的德性。属于对他人有用的有正义、守信、荣誉、效忠、贞洁，以及人道、慷慨、慈善、和蔼、宽厚、仁慈与节制这些“社会德性”（EPM 5.2.44）。属于对自己有用的有明慎、谨慎、进取、勤勉、刻苦、节俭、经济、常识、审慎、明辨（EPM 6.1.21）。与我们自身福祉相反的品质有怠惰、疏忽、“缺乏条理与方法”、顽固、善变、鲁莽与轻信（EPM 6.1.1）。直接令自己愉悦的品质包括快活、宁静、仁慈与雅趣。直接令他人愉悦的品质包括有礼、文雅、机智、巧妙、得体、清洁与优雅的风度。把这些形形色色的特质统合为德性的，是它们在旁观者中引发的赞许之情，而后者又植根于同情。
 
@@ -124,7 +124,7 @@
 
 康德有几个理由认为自由对道德至关重要。第一，自由是道德责任所必需的。例如，当我们让一个人为其可谴责的行为负责时，我们“归咎”于她本可以克制而不这样做的能力，并为她未能恰当地行使这一能力而责备她。“责备的判断奠基于理性的法则之上，后者把理性看作一个……本可以且应当把该人的行为规定为不同于其实况的原因”（A555/B583）。第二，康德主张：“任何行动之道德价值的本质是 **道德法则直接地规定意志**”（CPrR 5:71）。如果一个人的意志如其处境与经验品格所强制——如休谟所主张的那样——就不可能恰当地回应道德法则，因为道德法则要求一种休谟不会容许的思想与动机的纯粹性。第三，自由对道德至关重要在于：自由是道德命令我们尊重的自我与他人的特殊地位或“尊严”之根基。一条重要但不合常规的解读路线提示了第四个理由。照这一观点，康德（至少在某些地方）主张自由是我们的最根本的价值，一切其他道德价值从它派生。这是“康德道德思想的真正基石”（Guyer 2000: 203）[^guyer-2000]。照这一看法，事实上我们被命令服从道德法则，因为后者“是实现人类自由的必要手段”（Guyer 2016: 38）[^guyer-2016]。
 
-在比较休谟与康德时，简单地问哪位哲学家对自由有最好的说明、或谁把自由与必然的调和做得最好，是错误的。他们对因果必然性、对哪种自由观念“与我们相关而须保存”都有分歧。结果，他们的焦点在 somewhat 不同的主题上。休谟聚焦于意志的下游，即动机如何决定行动。但康德的注意力聚焦于上游——什么决定意志的问题。可以说，从康德的视角看，休谟的自由观念是稀薄的米粥，不比“烤肉叉的自由”（CPrR 5:97）或一只自行转动的钟的自由（CPrR 5:96）更好。也可以说，从休谟的视角看，康德的自由意志观念至多是一个误入歧途的虚构。
+在比较休谟与康德时，简单地问哪位哲学家对自由有最好的说明、或谁把自由与必然的调和做得最好，是错误的。他们对因果必然性、对哪种自由观念“与我们相关而须保存”都有分歧。结果，他们的焦点在略有不同的主题上。休谟聚焦于意志的下游，即动机如何决定行动。但康德的注意力聚焦于上游——什么决定意志的问题。可以说，从康德的视角看，休谟的自由观念是稀薄的米粥，不比“烤肉叉的自由”（CPrR 5:97）或一只自行转动的钟的自由（CPrR 5:96）更好。也可以说，从休谟的视角看，康德的自由意志观念至多是一个误入歧途的虚构。
 
 一个重要的问题是：道德是否要求康德心目中的那种自由。休谟会否认这一点，但这部分因为其道德观本身与康德的如此不同。这里的问题不仅关乎自由意志。它关乎哪种道德构想最为可信。如果康德有令人信服的理由坚持道德义务或“道德价值”判断的独特性质，这就给休谟施加了压力，使他必须更认真地对待康德的自由意志观念。另一个重要问题是如何解释康德的实际立场，这是争议的主题。标准教科书把康德分类为自由意志论者（不相容论者），但最深入研读康德的学者对其观点的性质常有分歧。有人论证康德提供了一种不相容论（如 Pereboom 2006; Allison 1990; Watkins 2005）[^allison-1990][^pereboom-2006][^watkins-2005]，另一些人则主张他是某种相容论者，无论多么不合常规（如 Bennett 1984; Hudson 1994）[^bennett-1984][^hudson-1994]。按一种有影响的解读，康德赞同“不仅是自由与决定论的相容，而且相容论与不相容论的相容”（Wood 1984: 74）[^wood-1984]。这些学术论辩关乎康德的观点如何与休谟的比较，正如自然主义解读与传统解读哪一种更好地捕捉休谟本人的立场这一问题一样。最后，在比较康德与休谟的自由问题时，必须认识到康德的观点有一种休谟会鼓掌的谦逊与怀疑的面向。对康德而言，自由意志是一种“不可窥测的官能”（CPrR 5:47），其运作超出人类认知的所及。我们不可能 **知道** 我们是否真的有自由意志（CPrR 5:72; G 4:459）。事实上，康德对休谟的重大承袭，显见于前者的主张：“一旦我们抵达基本力量或基本官能，一切人类的洞见就到了尽头”（CPrR 5:46）。在这里我们找到了两位哲学家关于人类洞见之限度的深刻共识。
 
@@ -132,7 +132,7 @@
 
 关于宗教主题的讨论，可以在休谟与康德的大部分主要著作中找到。两者对这一主题的处理差异显著，但有一些重要的共同点，尤其关于宗教如何与道德相关。最重要的是：两位哲学家都倡导一种世俗化的道德哲学进路。也就是说，两者都主张道德独立于宗教、保持两者的区分。两者都对虚假宗教——包括“狂热”与“迷信”——的腐蚀影响表达深切关切。两者也都力图削弱大量基督教神学，包括上帝存在的传统论证。但也存在显著分歧。大体而言，休谟对宗教的潜在代价——如不宽容、暴力、以及对今生可得的任何幸福的干扰——远为警觉。与此相对，康德似乎远为关注宗教的益处，尤其是其面对死亡与苦难时试图回应人对终极答案或慰藉的需要。
 
-照休谟的看法，道德的基础与上帝无关。这从他特有的情感主义版本即可看出。他论证：道德很像我们对美的审美回应，“完全奠基于人类种类的特殊构造与 constitution 之上”（EPM 1.3）。这一主张是在反驳一种把道德基础定位于理性可发现的不可变真理之中的道德理性主义时提出的（Schneewind 2010）[^schneewind-2010]。与 Samuel Clarke 这类理性主义者相对，休谟主张道德是一个独特的、完全属于人的现象；没有根据相信人与上帝处于任何道德共同体之中、或上帝对我们所受的道德规范负责（Schneewind 2010）[^schneewind-2010]。就本文而言，还有两点需要领会。第一，休谟的主张蕴含对善恶的道德区分由神命建立的观念的拒斥——如普芬道夫、路德或加尔文这类唯意志论者所论证的。第二，休谟对上述主张的表述不同于哈奇森的表述。照哈奇森的看法，人性本质上是善的，其善反映上帝的智慧与仁慈。当我们有德性地行事时，我们推进了创造我们的目的。休谟则拒斥哈奇森把自然等同于善的做法（T 3.1.2.10），也拒斥其前辈的底层目的论（Gill 2006: 194–208）[^gill-2006]。
+照休谟的看法，道德的基础与上帝无关。这从他特有的情感主义版本即可看出。他论证：道德很像我们对美的审美回应，“完全奠基于人类种类的独特结构与组织之上”（EPM 1.3）。这一主张是在反驳一种把道德基础定位于理性可发现的不可变真理之中的道德理性主义时提出的（Schneewind 2010）[^schneewind-2010]。与 Samuel Clarke 这类理性主义者相对，休谟主张道德是一个独特的、完全属于人的现象；没有根据相信人与上帝处于任何道德共同体之中、或上帝对我们所受的道德规范负责（Schneewind 2010）[^schneewind-2010]。就本文而言，还有两点需要领会。第一，休谟的主张蕴含对善恶的道德区分由神命建立的观念的拒斥——如普芬道夫、路德或加尔文这类唯意志论者所论证的。第二，休谟对上述主张的表述不同于哈奇森的表述。照哈奇森的看法，人性本质上是善的，其善反映上帝的智慧与仁慈。当我们有德性地行事时，我们推进了创造我们的目的。休谟则拒斥哈奇森把自然等同于善的做法（T 3.1.2.10），也拒斥其前辈的底层目的论（Gill 2006: 194–208）[^gill-2006]。
 
 休谟频繁提请注意宗教在道德上与政治上的代价。他从不论证宗教本质上具有毁灭性，但他一贯主张宗教倾向于扭曲并腐蚀道德。若无宗教的影响，休谟声称，我们绝不会赞许“独身、斋戒、苦行、克己、自弃、谦卑、沉默、孤独以及整套修道式德性”（EPM 9.1.3）。“迷信与虚假宗教的迷惑性粉饰”能使我们赞许这类品质，尽管它们既无用也不令人愉悦（EPM 9.1.3）。类似地，休谟强调道德动机来源与宗教动机来源的差别。例如，当一个人还债或归还借款时，“他的神性并不因此受惠于他；因为这些正义的行为是他本应履行的，而且即便宇宙中没有神，许多人也会履行。但如果他斋戒一日、或把自己痛打一顿；这在他看来就直接关乎对上帝的侍奉。没有其他动机能驱使他行这样的苦行”（NHR 14.6）。休谟常把这些对道德的扭曲归咎于基督教的特定形式，如天主教、以及加尔文宗与路德宗的教派分支。但在某些地方，休谟近乎责难 **任何** 把上帝表象为“无限地超越人类”的宗教（NHR 10.2），论证说：“神性被表象得越可怕，人们就变得越温顺地服从他的牧师们”（NHR 14.8）。他明确相信一神教倾向于把人的注意力聚焦于唯一的上帝，而非今生生活的享受。一神教还倾向于促进不宽容、宗派主义甚至暴力。
 
@@ -154,9 +154,9 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Sources
+### 原始文献
 
-#### Hume, David
+#### 休谟（David Hume）
 
 **[EPM]**
 
@@ -182,7 +182,7 @@
 
 *The Natural History of Religion* in *David Hume: A Dissertation on the Passions; The Natural History of Religion*, Tom L. Beauchamp (ed.), Oxford: Clarendon Press, 2007. [Originally published in 1757.] (Cited according to page number.)
 
-#### Kant, Immanuel
+#### 康德（Immanuel Kant）
 
 **[CPrR]**
 
@@ -202,7 +202,7 @@
 
 **[WS]**
 
-*M. Immanuel Kant’s Announcement of the Programme of His Lectures for the Winter Semester 1765-1766*, in in *Theoretical Philosophy: 1755-1770*, David Walford and Ralf Meerbote (eds.), Cambridge: Cambridge University Press, 2002.
+*M. Immanuel Kant’s Announcement of the Programme of His Lectures for the Winter Semester 1765-1766*, in *Theoretical Philosophy: 1755-1770*, David Walford and Ralf Meerbote (eds.), Cambridge: Cambridge University Press, 2002.
 
 **[Ant]**
 
@@ -218,7 +218,7 @@
 
 **[H], [C], [M], [V]**
 
-*Lectures on Ethics*, Peter Heath (trans., ed.) and J.B. Schneewind (ed.), Cambridge: Cambridge University Press, 1997. [Translation based on material published in the *Akademie Ausgabe* from 1974–1980.] ([H] citations refer to lecture transcriptions attributed to Herder, circa 1762–1764; [C] to Collins, circa 1774–1777; [M] to Mrongovius in 1784–1785; and [V] to Vigilantius, in 1793–1794.
+*Lectures on Ethics*, Peter Heath (trans., ed.) and J.B. Schneewind (ed.), Cambridge: Cambridge University Press, 1997. [Translation based on material published in the *Akademie Ausgabe* from 1974–1980.] ([H] citations refer to lecture transcriptions attributed to Herder, circa 1762–1764; [C] to Collins, circa 1774–1777; [M] to Mrongovius in 1784–1785; and [V] to Vigilantius, in 1793–1794.)
 
 **[LPDR]**
 
@@ -252,17 +252,17 @@
 
 “What does it mean to orient oneself in thinking?”, Allen W. Wood (trans.) in *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, 1996. [Originally published in 1786.]
 
-### Secondary Sources
+### 研究文献
 
-[^hume’s-nd]: Hume’s main works of moral philosophy are the following.
+[^hume’s-nd]: 休谟道德哲学的主要著作如下。
 
-[^many-nd]: Many of Hume’s other works are also relevant to his moral philosophy. We cite or discuss the following.
+[^many-nd]: 休谟的其他不少著作也与他的道德哲学相关，本文引用或讨论以下诸种。
 
-[^unless-1900]: Unless noted otherwise, we cite the pagination (beginning with volume number) of the *Akademie Ausgabe* edition of *Kants Gesammelte Schriften*, Berlin: Walter de Gruyter, 1900–. This pagination can be found in the margins of most scholarly English translations, including *The Cambridge Edition of the Works of Immanuel Kant*, Paul Guyer and Allen W. Wood (eds.), Cambridge: Cambridge University Press, 1992–.
+[^unless-1900]: 除另有说明外，本文引用《康德全集》（*Kants Gesammelte Schriften*，柏林：Walter de Gruyter）《学院版》（*Akademie Ausgabe*）的页码（卷号在前）, 1900–. This pagination can be found in the margins of most scholarly English translations, including *The Cambridge Edition of the Works of Immanuel Kant*, Paul Guyer and Allen W. Wood (eds.), Cambridge: Cambridge University Press, 1992–.
 
 [^kant’s-nd]: Kant’s main works of moral philosophy are the following.
 
-[^many-nd-2]: Many other works are also relevant to Kant’s moral philosophy. We cite or discuss the following.
+[^many-nd-2]: 与康德道德哲学相关的其他著作亦多，本文引用或讨论以下诸种。
 
 [^allison-1983]: Allison, Henry E., 1983, *Kant’s Transcendental Idealism: An Interpretation and Defense*, New Haven and London: Yale University Press.
 
@@ -298,7 +298,7 @@
 
 [^bramhall-1645]: Bramhall, John, c. 1645 [1999], “Discourse of Liberty and Necessity”, reprinted in *Hobbes and Bramhall on Liberty and Necessity*, (Cambridge Texts in the History of Philosophy), Vere Chappell (ed.), New York: Cambridge University Press, pp. 1–14.
 
-[^bricke-1996]: Bricke, John, 1996, *Mind and Morality: An Examination of Hume’s Moral Psychology John Bricke*, Oxford: Clarendon Press. doi:0.1093/acprof:oso/9780198250111.001.0001
+[^bricke-1996]: Bricke, John, 1996, *Mind and Morality: An Examination of Hume’s Moral Psychology*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198250111.001.0001
 
 [^brown-1988]: Brown, Charlotte, 1988, “Is Hume an Internalist?”, *Journal of the History of Philosophy*, 26(1): 69–87. doi:10.1353/hph.1988.0021
 
@@ -306,7 +306,7 @@
 
 [^cohon-2008]: Cohon, Rachel, 2008, *Hume’s Morality: Feeling and Fabrication*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199268443.001.0001
 
-[^crisp-2019]: Crisp, Roger, 2019, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Benthem*, New York: Oxford University Press.
+[^crisp-2019]: Crisp, Roger, 2019, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Bentham*, New York: Oxford University Press.
 
 [^darwall-1995]: Darwall, Stephen, 1995, *The British Moralists and the Internal ‘Ought’, 1640–1740*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511608957
 
@@ -322,7 +322,7 @@
 
 [^engstrom-2009]: Engstrom, Stephen, 2009, *The Form of Practical Knowledge*, Cambridge, MA: Harvard University Press.
 
-[^föster-2000]: Föster, Eckart, 2000, *Kant’s Final Synthesis: An Essay on the Opus Postumum*, Cambridge, MA: Harvard University Press.
+[^förster-2000]: Förster, Eckart, 2000, *Kant’s Final Synthesis: An Essay on the Opus Postumum*, Cambridge, MA: Harvard University Press.
 
 [^frierson-2014]: Frierson, Patrick R., 2014, *Kant’s Empirical Psychology*, New York: Cambridge University Press. doi:10.1017/CBO9781139507035
 
@@ -358,7 +358,7 @@
 
 [^hare-1996]: Hare, John E., 1996, *The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198269571.001.0001
 
-[^holden-2010]: Holden, Thomas, 2010, *Spectres of False Divinity: Hume’s Moral Atheism*, Oxford: Oxford University Press. doi:0.1093/acprof:oso/9780199579945.001.0001
+[^holden-2010]: Holden, Thomas, 2010, *Spectres of False Divinity: Hume’s Moral Atheism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579945.001.0001
 
 [^hope-1989]: Hope, V.M., 1989, *Virtue by Consensus: The Moral Philosophy of Hutcheson, Hume, and Adam Smith*, Oxford: Oxford University Press.
 
@@ -386,11 +386,11 @@
 
 [^kuehn-2005]: –––, 2005, “The Reception of Hume in Germany”, in *The Reception of David Hume in Europe*, Peter Jones (ed.), London: Thoemmes Continuum.
 
-[^kuehn-2017]: –––, 2017, “Kant and the Scottish Enlightenment: An Introduction,” in Robinson and Suprenant, 1–18.
+[^kuehn-2017]: –––, 2017, “Kant and the Scottish Enlightenment: An Introduction,” in Robinson and Surprenant, 1–18.
 
 [^landy-2015]: Landy, David, 2015, *Kant’s Inferentialism: The Case Against Hume*, New York: Routledge.
 
-[^louden-2017]: Louden, Robert B., 2017, “A Writer More Excellent than Cicero: Hume’s Influence on Kant’s Anthropology,” in Robinson and Suprenant, 164–180.
+[^louden-2017]: Louden, Robert B., 2017, “A Writer More Excellent than Cicero: Hume’s Influence on Kant’s Anthropology,” in Robinson and Surprenant, 164–180.
 
 [^mackie-1980]: Mackie, J.L., 1980, *Hume’s Moral Theory*, London: Routledge & Kegan Paul.
 
@@ -412,9 +412,9 @@
 
 [^radcliffe-2018]: –––, 2018, *Hume, Passion, and Action,* New York: Oxford University Press.
 
-[^radcliffe-2019]: –––, 2019, “Ruly and Unruly Passions: Early Modern Perspectives*,” Royal Institute of Philosophy Supplement* 85: 21–38.
+[^radcliffe-2019]: –––, 2019, “Ruly and Unruly Passions: Early Modern Perspectives”, *Royal Institute of Philosophy Supplement* 85: 21–38.
 
-[^robinson-2017]: Robinson, Elizabeth and Suprenant, Chris W., 2017 (eds.), 2017, *Kant and the Scottish Enlightenment*, New York: Routledge.
+[^robinson-2017]: Robinson, Elizabeth and Surprenant, Chris W. (eds.), 2017, *Kant and the Scottish Enlightenment*, New York: Routledge.
 
 [^russell-1995]: Russell, Paul, 1995, *Freedom and Moral Sentiment: Hume’s Way of Naturalizing Responsibility*, New York: Oxford University Press. doi:10.1093/0195152905.001.0001
 
@@ -428,7 +428,7 @@
 
 [^schneewind-2010]: –––, 2010, “Hume and the Religious Significance of Moral Rationalism”, in *Essays on the History of Moral Philosophy*, J.B. Schneewind, New York: Oxford University Press, 222–236.
 
-[^sensen-2017]: Sensen, Oliver, 2017, “Kant and Hume on Feelings in Moral Philosophy,” in Robinson and Suprenant 2017, 125–141.
+[^sensen-2017]: Sensen, Oliver, 2017, “Kant and Hume on Feelings in Moral Philosophy,” in Robinson and Surprenant 2017, 125–141.
 
 [^sessions-1980]: Sessions, William Lad, 1980, “Kant and Religious Belief”, *Kant-Studien*, 71: 455–468.
 
@@ -444,7 +444,7 @@
 
 [^timmermann-2009b]: ––– (ed.), 2009b, *Kant’s ‘Groundwork of the Metaphysics of Morals’: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511770760
 
-[^walschots-2017]: Walschots, Michael, 2017, “Hutcheson and Kant: Moral Sense and Moral Feeling,” in Robinson and Suprenant, 36–54.
+[^walschots-2017]: Walschots, Michael, 2017, “Hutcheson and Kant: Moral Sense and Moral Feeling,” in Robinson and Surprenant, 36–54.
 
 [^watkins-2005]: Watkins, Eric, 2005, *Kant and the Metaphysics of Causality*, New York: Cambridge University Press. doi:10.1017/CBO9780511614217
 

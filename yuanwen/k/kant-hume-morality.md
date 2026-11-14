@@ -219,7 +219,7 @@ Finally, it is interesting to note that many philosophers and other intellectual
 
 **[H], [C], [M], [V]**
 
-*Lectures on Ethics*, Peter Heath (trans., ed.) and J.B. Schneewind (ed.), Cambridge: Cambridge University Press, 1997. [Translation based on material published in the *Akademie Ausgabe* from 1974–1980.] ([H] citations refer to lecture transcriptions attributed to Herder, circa 1762–1764; [C] to Collins, circa 1774–1777; [M] to Mrongovius in 1784–1785; and [V] to Vigilantius, in 1793–1794.
+*Lectures on Ethics*, Peter Heath (trans., ed.) and J.B. Schneewind (ed.), Cambridge: Cambridge University Press, 1997. [Translation based on material published in the *Akademie Ausgabe* from 1974–1980.] ([H] citations refer to lecture transcriptions attributed to Herder, circa 1762–1764; [C] to Collins, circa 1774–1777; [M] to Mrongovius in 1784–1785; and [V] to Vigilantius, in 1793–1794.)
 
 **[LPDR]**
 
@@ -318,7 +318,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^bramhall-1645]: Bramhall, John, c. 1645 [1999], “Discourse of Liberty and Necessity”, reprinted in *Hobbes and Bramhall on Liberty and Necessity*, (Cambridge Texts in the History of Philosophy), Vere Chappell (ed.), New York: Cambridge University Press, pp. 1–14.
 
-[^bricke-1996]: Bricke, John, 1996, *Mind and Morality: An Examination of Hume’s Moral Psychology John Bricke*, Oxford: Clarendon Press. doi:0.1093/acprof:oso/9780198250111.001.0001
+[^bricke-1996]: Bricke, John, 1996, *Mind and Morality: An Examination of Hume’s Moral Psychology*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198250111.001.0001
 
 [^brown-1988]: Brown, Charlotte, 1988, “Is Hume an Internalist?”, *Journal of the History of Philosophy*, 26(1): 69–87. doi:10.1353/hph.1988.0021
 
@@ -326,7 +326,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^cohon-2008]: Cohon, Rachel, 2008, *Hume’s Morality: Feeling and Fabrication*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199268443.001.0001
 
-[^crisp-2019]: Crisp, Roger, 2019, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Benthem*, New York: Oxford University Press.
+[^crisp-2019]: Crisp, Roger, 2019, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Bentham*, New York: Oxford University Press.
 
 [^darwall-1995]: Darwall, Stephen, 1995, *The British Moralists and the Internal ‘Ought’, 1640–1740*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511608957
 
@@ -342,7 +342,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^engstrom-2009]: Engstrom, Stephen, 2009, *The Form of Practical Knowledge*, Cambridge, MA: Harvard University Press.
 
-[^föster-2000]: Föster, Eckart, 2000, *Kant’s Final Synthesis: An Essay on the Opus Postumum*, Cambridge, MA: Harvard University Press.
+[^förster-2000]: Förster, Eckart, 2000, *Kant’s Final Synthesis: An Essay on the Opus Postumum*, Cambridge, MA: Harvard University Press.
 
 [^frierson-2014]: Frierson, Patrick R., 2014, *Kant’s Empirical Psychology*, New York: Cambridge University Press. doi:10.1017/CBO9781139507035
 
@@ -378,7 +378,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^hare-1996]: Hare, John E., 1996, *The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198269571.001.0001
 
-[^holden-2010]: Holden, Thomas, 2010, *Spectres of False Divinity: Hume’s Moral Atheism*, Oxford: Oxford University Press. doi:0.1093/acprof:oso/9780199579945.001.0001
+[^holden-2010]: Holden, Thomas, 2010, *Spectres of False Divinity: Hume’s Moral Atheism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579945.001.0001
 
 [^hope-1989]: Hope, V.M., 1989, *Virtue by Consensus: The Moral Philosophy of Hutcheson, Hume, and Adam Smith*, Oxford: Oxford University Press.
 
@@ -406,11 +406,11 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^kuehn-2005]: –––, 2005, “The Reception of Hume in Germany”, in *The Reception of David Hume in Europe*, Peter Jones (ed.), London: Thoemmes Continuum.
 
-[^kuehn-2017]: –––, 2017, “Kant and the Scottish Enlightenment: An Introduction,” in Robinson and Suprenant, 1–18.
+[^kuehn-2017]: –––, 2017, “Kant and the Scottish Enlightenment: An Introduction,” in Robinson and Surprenant, 1–18.
 
 [^landy-2015]: Landy, David, 2015, *Kant’s Inferentialism: The Case Against Hume*, New York: Routledge.
 
-[^louden-2017]: Louden, Robert B., 2017, “A Writer More Excellent than Cicero: Hume’s Influence on Kant’s Anthropology,” in Robinson and Suprenant, 164–180.
+[^louden-2017]: Louden, Robert B., 2017, “A Writer More Excellent than Cicero: Hume’s Influence on Kant’s Anthropology,” in Robinson and Surprenant, 164–180.
 
 [^mackie-1980]: Mackie, J.L., 1980, *Hume’s Moral Theory*, London: Routledge & Kegan Paul.
 
@@ -432,9 +432,9 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^radcliffe-2018]: –––, 2018, *Hume, Passion, and Action,* New York: Oxford University Press.
 
-[^radcliffe-2019]: –––, 2019, “Ruly and Unruly Passions: Early Modern Perspectives*,” Royal Institute of Philosophy Supplement* 85: 21–38.
+[^radcliffe-2019]: –––, 2019, “Ruly and Unruly Passions: Early Modern Perspectives”, *Royal Institute of Philosophy Supplement* 85: 21–38.
 
-[^robinson-2017]: Robinson, Elizabeth and Suprenant, Chris W., 2017 (eds.), 2017, *Kant and the Scottish Enlightenment*, New York: Routledge.
+[^robinson-2017]: Robinson, Elizabeth and Surprenant, Chris W. (eds.), 2017, *Kant and the Scottish Enlightenment*, New York: Routledge.
 
 [^russell-1995]: Russell, Paul, 1995, *Freedom and Moral Sentiment: Hume’s Way of Naturalizing Responsibility*, New York: Oxford University Press. doi:10.1093/0195152905.001.0001
 
@@ -448,7 +448,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^schneewind-2010]: –––, 2010, “Hume and the Religious Significance of Moral Rationalism”, in *Essays on the History of Moral Philosophy*, J.B. Schneewind, New York: Oxford University Press, 222–236.
 
-[^sensen-2017]: Sensen, Oliver, 2017, “Kant and Hume on Feelings in Moral Philosophy,” in Robinson and Suprenant 2017, 125–141.
+[^sensen-2017]: Sensen, Oliver, 2017, “Kant and Hume on Feelings in Moral Philosophy,” in Robinson and Surprenant 2017, 125–141.
 
 [^sessions-1980]: Sessions, William Lad, 1980, “Kant and Religious Belief”, *Kant-Studien*, 71: 455–468.
 
@@ -464,7 +464,7 @@ Hume, David: moral philosophy | Hume, David: on religion | Hutcheson, Francis | 
 
 [^timmermann-2009b]: ––– (ed.), 2009b, *Kant’s ‘Groundwork of the Metaphysics of Morals’: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511770760
 
-[^walschots-2017]: Walschots, Michael, 2017, “Hutcheson and Kant: Moral Sense and Moral Feeling,” in Robinson and Suprenant, 36–54.
+[^walschots-2017]: Walschots, Michael, 2017, “Hutcheson and Kant: Moral Sense and Moral Feeling,” in Robinson and Surprenant, 36–54.
 
 [^watkins-2005]: Watkins, Eric, 2005, *Kant and the Metaphysics of Causality*, New York: Cambridge University Press. doi:10.1017/CBO9780511614217
 
