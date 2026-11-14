@@ -53,7 +53,7 @@ Like many other contemporaries he read—e.g., Hutcheson, Kames, Bolingbroke, Tr
 
 To Massachusetts politician Edward Everett (24 Feb. 1823), Jefferson says that observed particulars are found to be nothing but concretizations of atoms. He cautions, “By analyzing too minutely we often reduce our subject to atoms, of which the mind loses hold.” That suggests a sort of pragmatic atomism—*viz*., atoms being merely arbitrary epistemological stopping points in the analysis of matter to keep the mind from entertaining the dizzying thought of dividing without end.
 
-Jefferson, however, was not a metaphysical atomist of the Epicurean sort, but a nominalist like philosopher John Locke (1690). To New Jersey politician Dr. John Manners (22 Feb. 1814), he says:
+Jefferson, however, was not a metaphysical atomist of the Epicurean sort, but a nominalist like philosopher John Locke (1690)[^locke-1690]. To New Jersey politician Dr. John Manners (22 Feb. 1814), he says:
 
 > Nature has, in truth, produced units only through all her works. Classes, orders, genera, species, are not of her works. Her creation is of individuals. No two animals are exactly alike; no two plants, nor even two leaves or blades of grass; no two crystallizations. And if we may venture from what is within the cognizance of such organs as ours, to conclude on that beyond their powers, we must believe that no two particles of matter are of exact resemblance.
 
@@ -119,9 +119,9 @@ Consequently, Jesus’ message comprises love of god (being one, *pace* Calvin, 
 
 There is a complication in a letter to Thomas Law (13 June 1813). There he considers the “foundation of morality” and entertains several possibilities, one of which is love of God. “This [love of God] is but a branch of our moral duties, which are generally divided in to duties to God and duties to man.” He then adds: “Whence arises the morality of the Atheist? It is idle to say, as some do, that no such being exists.”
 
-The passage is customarily taken by scholars as Jefferson’s commitment to moral atheism. Arthur Scherr (2014) takes Jefferson’s mention of “the morality of the Atheist” as evidence of morality being indifferent to belief in God. Jefferson, Scherr notes, mentions the unquestioned virtue of atheists like D’Alembert and Diderot. Mike Zuckert (2011: 66), referring to Jefferson’s advisory letter to nephew Peter Carr (10 Aug. 1787), writes, “The moral sense doctrine, in the very crudeness and simplicity in which it is put here, is Jefferson’s way of assuring Carr that—contrary to Dostoevsky’s famous dictum—the moral life is perfectly secure without God and without religion. It is well provided for by nature.” Thomas Kidd (2022: 199) agrees. “[Jefferson] insisted that atheists could be moral.”
+The passage is customarily taken by scholars as Jefferson’s commitment to moral atheism. Arthur Scherr (2014)[^scherr-2014] takes Jefferson’s mention of “the morality of the Atheist” as evidence of morality being indifferent to belief in God. Jefferson, Scherr notes, mentions the unquestioned virtue of atheists like D’Alembert and Diderot. Mike Zuckert (2011: 66)[^zuckert-2011], referring to Jefferson’s advisory letter to nephew Peter Carr (10 Aug. 1787), writes, “The moral sense doctrine, in the very crudeness and simplicity in which it is put here, is Jefferson’s way of assuring Carr that—contrary to Dostoevsky’s famous dictum—the moral life is perfectly secure without God and without religion. It is well provided for by nature.” Thomas Kidd (2022: 199)[^kidd-2022] agrees. “[Jefferson] insisted that atheists could be moral.”
 
-Holowchak (2020a: 59–61) argues otherwise.
+Holowchak (2020a: 59–61)[^holowchak-2020a] argues otherwise.
 
 > Moral atheism is an impossible reading, as to be genuinely moral is to fulfill our moral duties to both God and others. … When Jefferson refers to the “morality of the Atheist,” he is merely acknowledging that an atheist can be *behaviorally* similar, if not behaviorally identical, to a true religionist—an atheist can be morality-abiding, even virtuous insofar as his actions toward others are virtuous. Each might, for instance, be beneficent toward others and act with respect and perhaps even love for the cosmos and all things in it. The difference is that the true religionist, *qua* moralist, will see the hand of God in all that he respects and loves, and that makes a significant difference, even if it is only a cognitive difference. Yet that cognitive difference is mammoth. It separates a true moralist from a morality-abiding atheist.
 
@@ -151,7 +151,7 @@ Not everyone possesses a moral sense. Napoleon, he tells Adams (25 Feb. 1823), i
 
 Finally, the function of reason, he says in his 1787 letter to Carr, is “in some degree” to oversee the exercise of the moral faculty, “but it is a small stock which is required for this”. Reason might function, thinks one scholar, (1) to encourage or reinforce morally correct action,[^note-18] (2) to keep the moral sense vital and vigorous, (3) to instill the first elements of morality in children through exposure to history, (4) to allow for cultural sensitivity to morally retarded cultures, (5) to continue moral advance through reading history as adults, (6) to help make plain the rights (especially derivative rights) of humans, (7) to form general rules to serve as rough guides human action,[^note-19] and (8) to encourage moral improvement through breeding for morality (Holowchak 2017a: 177–80)[^holowchak-2017a]. None of those functions, however, directly involves reason in moral “judgments.”
 
-Jefferson also believed, following the lead of many thinkers of his day—e.g., Francis Ferguson, John Millar (1806), Lord Kames (1798 and 1774), William Robertson (1777), Claude Adrien Helvétius (1810), the Marquis de Condorcet, and Anne-Robert-Jacques Turgot (1750)—that humans were morally progressing over time (e.g., TJ to John Adams, 11 Jan. 1816, and TJ to P.S. Dupont de Nemours, 24 Apr. 1816). There were, however, periodic glitches—periods of moral stagnation or decline. The belligerence between England and France in Jefferson’s later years was to him evidence of such decline. Still, such moral declinations, considered overall, were temporary setbacks or “retrogradations,” not genuine declinations. In a letter to Adams (1 Aug. 1816), he writes that the Americas will show Europe the path to moral advance.
+Jefferson also believed, following the lead of many thinkers of his day—e.g., Francis Ferguson, John Millar (1806)[^millar-1806], Lord Kames (1798 and 1774), William Robertson (1777)[^robertson-1777], Claude Adrien Helvétius (1810)[^helvétius-1810], the Marquis de Condorcet, and Anne-Robert-Jacques Turgot (1750)[^turgot-1750]—that humans were morally progressing over time (e.g., TJ to John Adams, 11 Jan. 1816, and TJ to P.S. Dupont de Nemours, 24 Apr. 1816). There were, however, periodic glitches—periods of moral stagnation or decline. The belligerence between England and France in Jefferson’s later years was to him evidence of such decline. Still, such moral declinations, considered overall, were temporary setbacks or “retrogradations,” not genuine declinations. In a letter to Adams (1 Aug. 1816), he writes that the Americas will show Europe the path to moral advance.
 
 > We are destined to be a barrier against the returns of ignorance and barbarism. Old Europe will have to lean on our shoulders, and to hobble along by our side, under the monkish trammels of priest and kings, as she can.
 
@@ -269,7 +269,7 @@ Therefore, a government becomes destructive when its abuses and usurpations are 
 
 For Jefferson, some amount of turbulence is one of the consequences of liberty. The “manure” of blood is needed for healthy governing because those governing will tend over time, Jefferson says to William S. Smith (13 Nov. 1787), to govern in their own interests, if not carefully watched. Moreover, those governed will assume mistakenly that rights once granted will be rights always granted. So, rebellion is the mechanism whereby those governing, Jefferson tells James Madison (30 Jan. 1787), are periodically reminded that government in a Jeffersonian republic is of and for the people—that is, that the will of the majority, fittingly educated, is the standard of justice.
 
-The turbulence of which Jefferson speaks in the letters to Smith and Madison are illustrations of rebellion, says Holowchak (2019a: 73–76), not revolution. In contrast, revolution for Jefferson, following his Declaration, is a complex phenomenon. Unlike a rebellion, it is never to be undertaken for slight reasons or because of singular cases of governmental abuse. The difference, for Holowchak, is one of scope, size, and persistency. Rebellions, often violent, are generally quick signals to government concerning abuses, usually parochial. Revolutions, essentially violent, are long-term, well-planned, complex attempts at overthrowing a government, deemed habitually abusive.
+The turbulence of which Jefferson speaks in the letters to Smith and Madison are illustrations of rebellion, says Holowchak (2019a: 73–76)[^holowchak-2019a], not revolution. In contrast, revolution for Jefferson, following his Declaration, is a complex phenomenon. Unlike a rebellion, it is never to be undertaken for slight reasons or because of singular cases of governmental abuse. The difference, for Holowchak, is one of scope, size, and persistency. Rebellions, often violent, are generally quick signals to government concerning abuses, usually parochial. Revolutions, essentially violent, are long-term, well-planned, complex attempts at overthrowing a government, deemed habitually abusive.
 
 Mirkin interprets Jefferson otherwise. He does not distinguish between rebellion and revolution, but distinguishes between “two levels of revolt”: populist rebellions and elitist threats of rebellion. The former, exemplified by Shays’ Rebellion and the Whiskey Rebellion, are local and presumably non-moral issues. The latter, exemplified by the Kentucky and Virginia Resolutions, are larger, morality-grounded issues (e.g., transgression of rights), and because of that, there is a persistency to them (1972: 64–65).
 
@@ -287,13 +287,13 @@ The sources of Jefferson’s views on education were many. From the French, Jeff
 
 ### 5.1 A System of Education
 
-Jefferson’s educational views are spelled out neatly in four bills proposed to the General Assembly of Virginia (1779), in his Bill for Establishing a System of Public Education (1817), in his Rockfish Gap Report (1818), and in key letters to correspondents—e.g., Peter Carr (19 Aug. 1785), John Banister (15 Oct. 1785), William Green Munford (18 June 1799), Joseph C. Cabell (14 Jan. 1818), Nathaniel Burwell (14 Mar. 1818), John Brazier (24 Aug. 1819), and John Breckinridge (15 Feb. 1821).
+Jefferson’s educational views are spelled out neatly in four bills proposed to the General Assembly of Virginia (1779), in his Bill for Establishing a System of Public Education (1817), in his Rockfish Gap Report (1818)[^rockfish-1818], and in key letters to correspondents—e.g., Peter Carr (19 Aug. 1785), John Banister (15 Oct. 1785), William Green Munford (18 June 1799), Joseph C. Cabell (14 Jan. 1818), Nathaniel Burwell (14 Mar. 1818), John Brazier (24 Aug. 1819), and John Breckinridge (15 Feb. 1821).
 
 When Jefferson, Pendleton, and Wythe undertook the task of revising the laws of Virginia in 1776, Jefferson drafted four significant bills—Bills 79 to 82.
 
 > I consider 4 of these bills … as forming a system by which every fibre would be eradicated of ancient or future aristocracy; and a foundation laid for a government truly republican.[^note-30] ([WTJ5]: 44)
 
-That system, says Alan Taylor (2019: 222), was “a top-down educational program for Virginia’s improvement.” Holowchak (2014b), following the general drift of Jefferson’s liberal political philosophy, that the focus was ever on generally educating the masses.
+That system, says Alan Taylor (2019: 222)[^taylor-2019], was “a top-down educational program for Virginia’s improvement.” Holowchak (2014b)[^holowchak-2014b], following the general drift of Jefferson’s liberal political philosophy, that the focus was ever on generally educating the masses.
 
 Bill 79 proposed to create wards or hundreds, each of which would have a school for general education in which “reading, writing, and common arithmetic should be taught” ([BG]). Virginia was to be subdivided in twenty-four districts, each of which would have a school for “classical learning, grammar, geography, and the higher branches of numerical arithmetic” ([BG]). Bill 80 proposed to secularize William and Mary College and add to its curriculum by enlarging its “sphere of science” ([BWM]).[^note-31] Bill 81 proposed to create a public library for Virginia for scholars, elected officials, and inquisitive citizens ([BL]). Bill 82, the only bill that would eventually pass (1786), proposed to disallow state patronage of any particular religion ([BR]; [Au]: 31–44).
 
@@ -348,7 +348,7 @@ Yet every scientific discovery is potentially fruitful. “No discovery is barre
 
 Useful implied social and political activity. Male citizens of greatest virtue and greatest genius would contribute by participation in science, in education, and in the most politically prominent positions. Lesser citizens would contribute more modestly and mostly at local levels through, for illustration, jury duty, participation in militia, and voting for and overseeing elected representatives.
 
-Finally, education for Jefferson was a way of living. Its aim was to give persons the tools they would need to make them socially and politically involved, free, self-sufficient, and happy. As Karl Lehmann (1965: 201–2) notes:
+Finally, education for Jefferson was a way of living. Its aim was to give persons the tools they would need to make them socially and politically involved, free, self-sufficient, and happy. As Karl Lehmann (1965: 201–2)[^lehmann-1965] notes:
 
 > To Thomas Jefferson, school would never be a “finishing” agency. From each stage, man would have to move on in a never ending process of self-education…. The narrow professional who had but a technical knowledge of his little vocational area was a curse to him. Education had to be broad in order to assure the freedom and happiness of man.
 
@@ -406,7 +406,7 @@ He even castigates Coles when the latter considers emancipation of his own slave
 
 > The laws do not permit us to turn them loose, if that were for their good: and to commute them for other property is to commit them to those whose usage of them we cannot control. I hope then, my dear sir, you will reconcile yourself to your country and its unfortunate condition.
 
-Jefferson’s mistaken views on Blacks and his refusal upon retirement to do more to eliminate the institution of slavery have prompted considerable critical discussion in the secondary literature (see fn. 38). On the one hand, most see Jefferson as racist. McColley (1964), Cohen (1969), Miller (1977), and Dawidoff (1993) argue that Jefferson’s racial views were hypocritical rationalizations for his slaveholding and large living. Finkelman (1994), O’Brien (1996), and Magnis (1999) state that Jefferson was driven by a profound hatred of Blacks. On the other hand, Levy (1963), Mayer (2001), Burstein (2005), and Holowchak (2020b) argue that though Jefferson held false views concerning Blacks, it is anachronistic to call him a racist, as ignorance concerning racial differences by commoners and scientists was at the time rife. Jefferson, ultimately, was a product of the ignorance and prejudgments of his time.
+Jefferson’s mistaken views on Blacks and his refusal upon retirement to do more to eliminate the institution of slavery have prompted considerable critical discussion in the secondary literature (see fn. 38). On the one hand, most see Jefferson as racist. McColley (1964)[^mccolley-1964], Cohen (1969)[^cohen-1969], Miller (1977)[^miller-1977], and Dawidoff (1993)[^dawidoff-1993] argue that Jefferson’s racial views were hypocritical rationalizations for his slaveholding and large living. Finkelman (1994)[^finkelman-1994], O’Brien (1996)[^o’brien-1996], and Magnis (1999)[^magnis-1999] state that Jefferson was driven by a profound hatred of Blacks. On the other hand, Levy (1963)[^levy-1963], Mayer (2001)[^mayer-2001], Burstein (2005)[^burstein-2005], and Holowchak (2020b)[^holowchak-2020b] argue that though Jefferson held false views concerning Blacks, it is anachronistic to call him a racist, as ignorance concerning racial differences by commoners and scientists was at the time rife. Jefferson, ultimately, was a product of the ignorance and prejudgments of his time.
 
 ## References（引用注释）
 
@@ -452,7 +452,7 @@ The SEP Editors would like to thank Fairley Cessna for discovering and reporting
 
 [^note-3]: Locke states that we know that deity is “most powerful” and “most knowing” (1690: 379–80).
 
-[^note-4]: Cf. Hume (1755: 581), for whom “deity … governs every thing by those general and immutable laws, which have been established from the beginning of time.”
+[^note-4]: Cf. Hume (1755: 581)[^hume-1755], for whom “deity … governs every thing by those general and immutable laws, which have been established from the beginning of time.”
 
 [^note-5]: If not, then that measure added, for a Virginian owning property, to equal 50 acres.
 
@@ -488,11 +488,11 @@ The SEP Editors would like to thank Fairley Cessna for discovering and reporting
 
 [^note-21]: Alignment of a government by the will of the people with science—ensuring that the will of the people was progressive—was Jefferson’s way of sidestepping the problem of the turbulence of government in the hands of the people—the chief problem of a Jeffersonian republic (e.g., TJ to Edward Carrington, 16 Jan. 1787, and TJ to James Madison, 30 Jan. 1787).
 
-[^note-22]: Writes Merrill Peterson (1965: 518), “Democracy [for Jefferson] was less a form of government than a principle opposed to government, a code of restraints on sovereignty whether exercised by the few or the many.”
+[^note-22]: Writes Merrill Peterson (1965: 518)[^peterson-1965], “Democracy [for Jefferson] was less a form of government than a principle opposed to government, a code of restraints on sovereignty whether exercised by the few or the many.”
 
 [^note-23]: See also TJ to David Rittenhouse, 19 July 1778.
 
-[^note-24]: Cf. Jefferson’s uncompromising faith in the moral discernment of the people with Montesquieu (1758: 13–14).
+[^note-24]: Cf. Jefferson’s uncompromising faith in the moral discernment of the people with Montesquieu (1758: 13–14)[^montesquieu-1758].
 
 [^note-25]: For more, see Sloan 1993.
 
@@ -504,7 +504,7 @@ The SEP Editors would like to thank Fairley Cessna for discovering and reporting
 
 Madison’s objections to Jefferson’s notion of usufruct come in a letter the following year (4 Feb. 1790), and they are substantive. To offer one example, is it always possible for a country, ravaged by a debilitating war that was not of its own doing, to repay debts in 19 years?
 
-[^note-29]: Scholar Charles Arrowood (1930: 58–59) says, “Jefferson’s distinctive contribution to theory of education grew out of his most characteristic political doctrine”, which entailed governmental non-intervention is citizens’ affairs, distrust of political power, and government by the people.
+[^note-29]: Scholar Charles Arrowood (1930: 58–59)[^arrowood-1930] says, “Jefferson’s distinctive contribution to theory of education grew out of his most characteristic political doctrine”, which entailed governmental non-intervention is citizens’ affairs, distrust of political power, and government by the people.
 
 [^note-30]: Of these bills, Jefferson scholar Gilbert Chinard writes, “One may state here without fear of contradiction that no system so complete, so logically constructed and so well articulated had ever been proposed in any country in the world” (1929: 99).
 
@@ -512,15 +512,15 @@ Madison’s objections to Jefferson’s notion of usufruct come in a letter the 
 
 [^note-32]: See also [N]: 147; [BG]: 365; and TJ to James Madison, 20 Dec. 1787; TJ to Gouveneur Morris, 30 Dec. 1792; TJ to John Breckenridge, 29 Jan. 1800; and TJ to Caesar A. Rodney, 10 Feb. 1810.
 
-[^note-33]: Writes Lucia Stanton (2009: 87): “Jefferson pursued the improvement of the human condition as a passionate Baconian, gathering information with the aid of his watch, ruler, and scales. He applied his measuring mind to plantation projects in a search for economy and efficiency. He enveloped his unwieldy operations in the consoling security of mathematical truths.”
+[^note-33]: Writes Lucia Stanton (2009: 87)[^stanton-2009]: “Jefferson pursued the improvement of the human condition as a passionate Baconian, gathering information with the aid of his watch, ruler, and scales. He applied his measuring mind to plantation projects in a search for economy and efficiency. He enveloped his unwieldy operations in the consoling security of mathematical truths.”
 
 [^note-34]: That he devoted such great time to and found such pleasure in reading ancient Greek and Latin authors in the original language shows that Jefferson believed the ancient languages were indispensable for a happy, tranquil life.
 
-[^note-35]: For a sampling of the literature on Jefferson, race, and slavery, see McColley (1964), Jordan (1968), Cohen (1969), Miller (1977), Dawidoff (1993), Finkelman (1994), O’Brien (1996), Temperly (1997), Onuf (2007), Wiencek (2012), Neem (2013), and Helo (2013).
+[^note-35]: For a sampling of the literature on Jefferson, race, and slavery, see McColley (1964)[^mccolley-1964], Jordan (1968), Cohen (1969)[^cohen-1969], Miller (1977)[^miller-1977], Dawidoff (1993)[^dawidoff-1993], Finkelman (1994)[^finkelman-1994], O’Brien (1996)[^o’brien-1996], Temperly (1997)[^temperly-1997], Onuf (2007)[^onuf-2007], Wiencek (2012)[^wiencek-2012], Neem (2013)[^neem-2013], and Helo (2013)[^helo-2013].
 
 [^note-36]: All such naturalists were monogenecists, who, following the account of a first couple in the Bible, maintained that the different races were formed environmentally and gradually over time.
 
-[^note-37]: For more on “race”, see James (2012).
+[^note-37]: For more on “race”, see James (2012)[^james-2012].
 
 [^note-38]: Here perhaps Jefferson is following Ferguson (1773: 5), who argues that the study of men in an unnatural condition is like studying “the anatomy of the eye which had never received the impressions of light, or … an ear which had never felt the impulse of sounds.”
 

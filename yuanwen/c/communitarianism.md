@@ -157,7 +157,7 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) and Ni
 
 ## Notes（原文脚注）
 
-[^note-1]: Both Taylor and Walzer identify themselves as liberals in Gutmann 1992. MacIntyre (1991) says “In spite of rumors to the contrary, I am not and never have been a communitarian”. Sandel (1998) uses the label republican rather than communitarian.
+[^note-1]: Both Taylor and Walzer identify themselves as liberals in Gutmann 1992. MacIntyre (1991)[^macintyre-1991] says “In spite of rumors to the contrary, I am not and never have been a communitarian”. Sandel (1998)[^sandel-1998] uses the label republican rather than communitarian.
 
 [^note-2]: This essay draws on the threefold distinction in Bell 1993. For a similar threefold distinction, see Caney 1992. But for an expanded fivefold classification of arguments, see Mulhall & Swift 1996.
 
@@ -175,7 +175,7 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) and Ni
 
 [^note-9]: This section draws on Acts I and III of Bell 1993.
 
-[^note-10]: The liberal-communitarian debate over the self has been prominent in non-anglophone publications, however, see e.g., Qiang 1998, chs.5–6. It is also interesting to note that adherents of Confucianism have recently advanced arguments against liberal foundations similar to the claims of 1980s communitarians, also with the apparent aim of undermining the foundations of liberal rights. Joseph Chan (1999) reviews these arguments and finds them wanting, with the proviso that Confucianisms understanding of the scope and justification of rights would differ from Western, rights-based perspectives.
+[^note-10]: The liberal-communitarian debate over the self has been prominent in non-anglophone publications, however, see e.g., Qiang 1998, chs.5–6. It is also interesting to note that adherents of Confucianism have recently advanced arguments against liberal foundations similar to the claims of 1980s communitarians, also with the apparent aim of undermining the foundations of liberal rights. Joseph Chan (1999)[^chan-1999] reviews these arguments and finds them wanting, with the proviso that Confucianisms understanding of the scope and justification of rights would differ from Western, rights-based perspectives.
 
 [^note-11]: For book-length treatments of communitarian politics in the US, see, Etzioni 1993, 1996, and 2001. For a book that derives largely from the UK context see Tam 1998. See also Etzioni’s edited books, 1995a, 1995b, and 1998.
 

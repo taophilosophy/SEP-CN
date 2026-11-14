@@ -177,7 +177,7 @@ Therefore John is necessarily unmarried.
 
 If we allow ‘necessarily’ to have ‘bachelors’ etc. within its scope, P2 is true but the conclusion is not entailed. If the modal is interpreted narrowly, the conclusion follows but P2 is false and so is the conclusion.
 
-There is a great deal of controversy over how scope is to be handled. Orthodoxy suggests movement of quantifiers at LF where quantifier scope is made explicit and unambiguous. May (1985) is often cited as the canonical source for this – but it is worth noting that in that work May treats some LFs as underdetermining some semantic scopal relations. The situation is less clear with temporal and modal (and other) operators: many semantic theories treat tense and temporal adverbs as quantifiers, while some treat modal expression in this manner. Other treat them as the operators or adverbs they appear to be. One respectable semantic tradition sees (P2) as ambiguous, for example, between:
+There is a great deal of controversy over how scope is to be handled. Orthodoxy suggests movement of quantifiers at LF where quantifier scope is made explicit and unambiguous. May (1985)[^may-1985] is often cited as the canonical source for this – but it is worth noting that in that work May treats some LFs as underdetermining some semantic scopal relations. The situation is less clear with temporal and modal (and other) operators: many semantic theories treat tense and temporal adverbs as quantifiers, while some treat modal expression in this manner. Other treat them as the operators or adverbs they appear to be. One respectable semantic tradition sees (P2) as ambiguous, for example, between:
 
 1. [∀*w*][∀*x*:Bachelor(*w*,*x*)](Unmarried(*x*,*w*))
 
@@ -199,7 +199,7 @@ As is:
 
 1. All that glitters is not gold.
 
-Russell claims that (13) and (14) are ambiguous between a reading on which negation that scopes over the sentence as a whole and one reading on which it scopes under the determiner phrase and over the predicate (though see Strawson (1950) See also Neale (1990)).
+Russell claims that (13) and (14) are ambiguous between a reading on which negation that scopes over the sentence as a whole and one reading on which it scopes under the determiner phrase and over the predicate (though see Strawson (1950)[^strawson-1950] See also Neale (1990)).
 
 Long story short, of great interest to philosophers are these sorts of scope worries as many an argument has been accused of looking convincing because of a scope ambiguity (the causal argument for God’s existence, the ontological argument). The development of logics capable of handling multiple quantification was an achievement in part because they could sort out just this sort of linguistic phenomenon.
 
@@ -234,11 +234,11 @@ Some creativity may allow (19) to function as a request but it is very difficult
 
 #### 3.3.2 Pragmatic Ambiguity
 
-An interesting case of ubiquitous potential ambiguity is the notion, suggested by Donnellan (1966), that the apparent referential use of some sentences with definite descriptions. Donnellan writes:
+An interesting case of ubiquitous potential ambiguity is the notion, suggested by Donnellan (1966)[^donnellan-1966], that the apparent referential use of some sentences with definite descriptions. Donnellan writes:
 
 > It does not seem possible to say categorically of a definite description in a particular sentence that it is a referring expression (of course, one could say this if he meant that it might be used to refer). In general, whether or not a definite description is used referentially or attributively is a function of the speaker’s intentions in a particular case. … Nor does it seem at all attractive to suppose an ambiguity in the meaning of the words; it does not appear to be semantically ambiguous. (Perhaps we could say that the sentence is pragmatically ambiguous ….) (Donnellan, p. 297)
 
-Philosophers puzzled a great deal over the import of a ‘pragmatic’ ambiguity that wasn’t a speech act ambiguity or perhaps an ambiguity in what a speaker implies by uttering a sentence. Kripke (1977) and Searle (1979: p. 150 fn. 3) claim that pragmatic ambiguity is conceptually confused – either the sentence bears two interpretations and there is a vanilla ambiguity or the sentence used in univocal but the speaker is using it to get across a different or additional piece of information. But the intuition that perhaps pragmatics has a great role to play in interpretation than merely an account of inferences licensed by the needs of conversational coherence has led philosophers to consider what ambiguity that resides in the interface of semantics and pragmatics might look like (see Recanati (2010).
+Philosophers puzzled a great deal over the import of a ‘pragmatic’ ambiguity that wasn’t a speech act ambiguity or perhaps an ambiguity in what a speaker implies by uttering a sentence. Kripke (1977)[^kripke-1977] and Searle (1979: p. 150 fn. 3) claim that pragmatic ambiguity is conceptually confused – either the sentence bears two interpretations and there is a vanilla ambiguity or the sentence used in univocal but the speaker is using it to get across a different or additional piece of information. But the intuition that perhaps pragmatics has a great role to play in interpretation than merely an account of inferences licensed by the needs of conversational coherence has led philosophers to consider what ambiguity that resides in the interface of semantics and pragmatics might look like (see Recanati (2010).
 
 #### 3.3.3 Presuppositional Ambiguity
 
@@ -250,7 +250,7 @@ It’s natural on first read to think that (20) carries the presupposition that 
 
 1. Maria came up with the problem. Maria solved the problem too.
 
-Kent Bach (1982) explores the intriguing case of:
+Kent Bach (1982)[^bach-1982] explores the intriguing case of:
 
 1. I love you too.
 
@@ -346,7 +346,7 @@ The possibility of grinding out mass nouns with the universal grinder is limited
 1. John picked up more guitars than Sarah.
 2. John picked up more guitar than Sarah.
 
-This doesn’t hold for, say ‘footwear’ and ‘shoes’ where owing more shoes entails owning more footwear and vice versa. See Doetjes (2011) for discussion.
+This doesn’t hold for, say ‘footwear’ and ‘shoes’ where owing more shoes entails owning more footwear and vice versa. See Doetjes (2011)[^doetjes-2011] for discussion.
 
 #### 3.4.9 Discourse Relations
 
@@ -359,7 +359,7 @@ A standard Gricean response to this oddity is that (40) is odd because the secon
 1. Peter picked the lock. He learned how from Jason.
 2. Peter picked the lock and he learned how from Jason.
 
-An utterance (41) strongly conveys the information that Jason’s teaching Peter is what explains the lock picking. No such inference seems available in (42), in which the learning to lock pick seems (strangely) to temporally follow the lock picking. It’s difficult to see how the period vs. ‘and’ distinction could be responsible for this. Moreover, much empirical work has been done to show that the manner in which we interpret sentences as connected in a discourse effects how we resolve the reference of anaphora. For example (Smyth (1994)):
+An utterance (41) strongly conveys the information that Jason’s teaching Peter is what explains the lock picking. No such inference seems available in (42), in which the learning to lock pick seems (strangely) to temporally follow the lock picking. It’s difficult to see how the period vs. ‘and’ distinction could be responsible for this. Moreover, much empirical work has been done to show that the manner in which we interpret sentences as connected in a discourse effects how we resolve the reference of anaphora. For example (Smyth (1994)[^smyth-1994]):
 
 1. Phil tickled Stanley, and Liz poked him.
 
@@ -409,7 +409,7 @@ In this case, there is no sense to be made of ‘John met for lunch and Jane met
 
 1. John and Jane moved a piano and met for lunch.
 
-(54) has a reading on which ‘moved the piano’ is interpreted distributively (two liftings) and ‘met’ is read collectively. The felicity of the conjunction reduced (54) suggests that the ambiguity isn’t the result of an ambiguity in conjunction. (see Schein (2006), McKay (2006)). We can try to use the test in an extended manner on full sentences if we embed them under ‘says that’ or perhaps ‘believes that’: ‘John and Adam believe that Sarah bought a superfluous hair remover’ is infelicitous if the unconjoined sentences involve different interpretations of ‘superfluous hair remover’.
+(54) has a reading on which ‘moved the piano’ is interpreted distributively (two liftings) and ‘met’ is read collectively. The felicity of the conjunction reduced (54) suggests that the ambiguity isn’t the result of an ambiguity in conjunction. (see Schein (2006)[^schein-2006], McKay (2006)[^mckay-2006]). We can try to use the test in an extended manner on full sentences if we embed them under ‘says that’ or perhaps ‘believes that’: ‘John and Adam believe that Sarah bought a superfluous hair remover’ is infelicitous if the unconjoined sentences involve different interpretations of ‘superfluous hair remover’.
 
 The test has certain weaknesses. In actual utterances, intonation can be used to indicate an assertion or an each question (‘Ben wanted to eat that?) conjoined with ‘Ben wanted to eat that’ yields an infelicity even if the demonstrative has the same value on both occasions – though we may try to fix things up by demanding that the test be run using common intonation (at least in spoken uses of the test!). On that note, the test will judge demonstrative and indexicals to be ambiguous since they are famously not generally conjunction reducible. Similar worries concern polysemy and ambiguity, which conjunction reduction may be overly sensitive to (See Viebahn (2016) for relevant considerations).
 
@@ -423,7 +423,7 @@ Ellipsis tests work in a manner similar to conjunction reduction tests. For exam
 
 1. I’m happy that every man met two women and Jim is too.
 
-It isn’t possible to interpret (56) as having ‘every man’ with wide scope in one but narrow in the other. This suggests a real ambiguity in the scope of the two quantifiers. This test has led people some philosophers to surprising results. For example, Atlas (1989) argues that the acceptability of the following suggest that negation does not interact scopally with descriptions in the ways we have come to expect:
+It isn’t possible to interpret (56) as having ‘every man’ with wide scope in one but narrow in the other. This suggests a real ambiguity in the scope of the two quantifiers. This test has led people some philosophers to surprising results. For example, Atlas (1989)[^atlas-1989] argues that the acceptability of the following suggest that negation does not interact scopally with descriptions in the ways we have come to expect:
 
 1. John thinks that the King of France is not bald and Bob thinks so too.
 
@@ -534,7 +534,7 @@ Ambiguity has been used methodologically as a way to shield a theory from counte
 
 > It is very much the lazy man’s approach in philosophy to posit ambiguities when in trouble. If we face a putative counterexample to our favorite philosophical thesis, it is always open to us to protest that some key term is being used in a special sense, different from its use in the thesis. We may be right, but the ease of the move should counsel a policy of caution: Do not posit an ambiguity unless you are really forced to, unless there are really compelling theoretical or intuitive grounds to suppose that an ambiguity really is present.(Kripke 1977, p.268)[^kripke-1977]
 
-Grice (1975) counsels a methodological principle: ‘Senses are not to be multiplied beyond necessity’.
+Grice (1975)[^grice-1975] counsels a methodological principle: ‘Senses are not to be multiplied beyond necessity’.
 
 This general moral seems right. It is worryingly easy to deflect a counter-example or to explain an intuition by claiming differences in meaning. On the other hand, in philosophical discourse, distinctions that are quite fine can be made that may well be missed by normal users of the language who are inclined to miss differences in meaning that are slight. One thus often will be tempted to posit ambiguity as a way to reconcile differences between two plausible hypotheses about the meanings of words and phrases (‘evidence’ has both an internal sense and an external sense, ‘right action’ has both a utilitarian sense and a deontic sense…) A neat case of this is Gilbert Ryle’s contention that ‘exists’ is ambiguous mentioned above:
 
@@ -552,7 +552,7 @@ However, the 20th century saw a vicious and sometimes relentless attack on the d
 
 It’s not easy to know what to write down for this entry as it’s not obvious what counts as semantic content for the word and what counts as information about the referent of the word. For example, say they clearly think that the referent of ‘gavagai’ is something that does not have temporal parts. Does this mean that they fail to refer to rabbits with ‘gavagai’ or that they are mistaken about their nature? If this question is hard to answer, we can generalize to harder cases: say that some of the ‘rabbits’ in this world are three-dimensional and some four- dimensional. Should we countenance an ambiguity in ‘gavagai’ given that the people use it indiscriminately to refer to both? Should we posit a lexical ambiguity with two different definitions for ‘gavagai’?
 
-This case may be far-fetched; but we have a real live cases of it. Field (1973) discusses the case of the term ‘mass’, which seems to have been thought to pick out one property of objects but in fact picks out two that are really very different in character. Deciding whether this is a surprising case of disjunctive reference, or an indeterminacy in reference is no easy task, but the decision has ramifications for whether or not we categorize ‘mass’ as ambiguous or highly sense-general (and if sense-general, what is the general sense?)
+This case may be far-fetched; but we have a real live cases of it. Field (1973)[^field-1973] discusses the case of the term ‘mass’, which seems to have been thought to pick out one property of objects but in fact picks out two that are really very different in character. Deciding whether this is a surprising case of disjunctive reference, or an indeterminacy in reference is no easy task, but the decision has ramifications for whether or not we categorize ‘mass’ as ambiguous or highly sense-general (and if sense-general, what is the general sense?)
 
 ### 5.4 The Flexibility of the Lexicon
 
@@ -612,7 +612,7 @@ A really interesting case that may be loosely described as ambiguity at the leve
 1. Putin only *poisons* his opponents.
 2. Putin only poisons *his opponents*
 
-(78) is falsified by Putin shooting an opponent, (79) is not. (78) introduces a presupposition that Putin does something to his opponents while (79) introduces a presupposition that Putin poisons someone. The sentence, thought of in terms of orthography, ‘Putin only poisons his opponents’ is thus ambiguous. Assuming that focal stress is syntactically marked, the LF disambiguates. See (Rooth (1993) and Herburger (2000) for semantic theories of focal stress).
+(78) is falsified by Putin shooting an opponent, (79) is not. (78) introduces a presupposition that Putin does something to his opponents while (79) introduces a presupposition that Putin poisons someone. The sentence, thought of in terms of orthography, ‘Putin only poisons his opponents’ is thus ambiguous. Assuming that focal stress is syntactically marked, the LF disambiguates. See (Rooth (1993) and Herburger (2000)[^herburger-2000] for semantic theories of focal stress).
 
 ### 6.5 Cancellation vs. Disambiguation
 

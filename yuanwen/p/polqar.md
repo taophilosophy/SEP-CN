@@ -199,7 +199,7 @@ Abner of Burgos | al-Ghazali | Aristotle | free will | Ibn Rushd [Averroes] | Ib
 
 [^note-5]: Hecht published this letter in his dissertation. See Hecht 1993: 93–115 [English]; 326–338 [Hebrew].
 
-[^note-6]: In the Parma manuscript (2440), Polqar’s letter is untitled. However, Abner, in his reply *Teshuvot la-Meḥaref*, referred to this letter as *Iggeret ha-ḥarafot* (*Epistle of the Blasphemies*); see for example pp. 8a; 12b. Polqar refers to his letter in *ʿEzer ha-Dat* as *Teshuvat Apikoros* (see *ʿEzer ha-Dat*: 30; 76). Aaron Hughes (2008: 83) mistakenly maintains that *Teshuvat Apikoros* is not extant. J. Hecht published both *Teshuvat Apikoros* and *Iggeret ha-ḥarafot* as part of his dissertation in 1993.
+[^note-6]: In the Parma manuscript (2440), Polqar’s letter is untitled. However, Abner, in his reply *Teshuvot la-Meḥaref*, referred to this letter as *Iggeret ha-ḥarafot* (*Epistle of the Blasphemies*); see for example pp. 8a; 12b. Polqar refers to his letter in *ʿEzer ha-Dat* as *Teshuvat Apikoros* (see *ʿEzer ha-Dat*: 30; 76). Aaron Hughes (2008: 83)[^hughes-2008] mistakenly maintains that *Teshuvat Apikoros* is not extant. J. Hecht published both *Teshuvat Apikoros* and *Iggeret ha-ḥarafot* as part of his dissertation in 1993.
 
 [^note-7]: The philosopher presented in this treatise is not the same philosopher as in the previous section. As we shall see later, the young philosopher enthusiastically represents Aristotelian philosophy, without giving much space to his opponent. The philosopher in this section is, by contrast, older, mature, and very much aware of his opponent’s theories.
 

@@ -7,7 +7,7 @@ Radulphus Brito († 1320/21) was an important thirteenth-century master of arts
 
 ## 1. Life
 
-The important studies by William Courtenay (2005) and Jean-Luc Deuffic (2002) significantly increased our knowledge of Brito’s biography. He was born in the village of Ploudiry, in French Brittany, around 1270 and not later than 1273. He was a master of arts in Paris from around 1290 and probably began the study of theology in 1299, while still teaching in the faculty of arts. He read Peter Lombard’s *Sentences* in 1308/09 and obtained his doctorate in theology in 1313/14. Brito became Provisor[^note-1] of the Sorbonne at some point between 1312 and 1315 and kept this function until at least 1319. He also held several ecclesiastical positions, which is a good indication of both his prominence within the university and excellent personal connections. Brito died in 1320/21.
+The important studies by William Courtenay (2005)[^courtenay-2005] and Jean-Luc Deuffic (2002)[^deuffic-2002] significantly increased our knowledge of Brito’s biography. He was born in the village of Ploudiry, in French Brittany, around 1270 and not later than 1273. He was a master of arts in Paris from around 1290 and probably began the study of theology in 1299, while still teaching in the faculty of arts. He read Peter Lombard’s *Sentences* in 1308/09 and obtained his doctorate in theology in 1313/14. Brito became Provisor[^note-1] of the Sorbonne at some point between 1312 and 1315 and kept this function until at least 1319. He also held several ecclesiastical positions, which is a good indication of both his prominence within the university and excellent personal connections. Brito died in 1320/21.
 
 ## 2. Writings
 

@@ -391,7 +391,7 @@ An ordinal α is a *successor ordinal* if α = β ∪ {β} for some (other) ordi
 
 The *ZFC* axioms. We are not going to state them here, but see the entry on set theory.
 
-**Classes**. The axioms of set theory are not about sets as much as they are about the *universe of sets*. One of the intuitive principles of the theory is that arbitrary collections of mathematical objects “should be” sets. Due to paradoxes, this intuitive principle is not directly formalized in standard set theories. In a sense, the axioms one does have are intended to give enough sets to constitute a mathematical universe while not having so many as to risk inconsistency. But it is natural in this connection to consider some collections of objects which are demonstrably not sets. These are called *proper classes*. The term *class* informally refers to a collection of mathematical objects. Classes are usually not first-class objects in set theory. (Certainly they are not in the most standard set theory, *ZFC*. However, the SEP entry on Alternative Axiomatic Set Theories does mention quite a few theories which treat classes as first-class objects.) Instead, a statement about classes is regarded as a paraphrase for some other (more complicated and usually less intuitive) statement about sets. This is probably not a good place to discuss the details of the formalization; one useful source is Chapter 1 of Azriel Levy (1979).
+**Classes**. The axioms of set theory are not about sets as much as they are about the *universe of sets*. One of the intuitive principles of the theory is that arbitrary collections of mathematical objects “should be” sets. Due to paradoxes, this intuitive principle is not directly formalized in standard set theories. In a sense, the axioms one does have are intended to give enough sets to constitute a mathematical universe while not having so many as to risk inconsistency. But it is natural in this connection to consider some collections of objects which are demonstrably not sets. These are called *proper classes*. The term *class* informally refers to a collection of mathematical objects. Classes are usually not first-class objects in set theory. (Certainly they are not in the most standard set theory, *ZFC*. However, the SEP entry on Alternative Axiomatic Set Theories does mention quite a few theories which treat classes as first-class objects.) Instead, a statement about classes is regarded as a paraphrase for some other (more complicated and usually less intuitive) statement about sets. This is probably not a good place to discuss the details of the formalization; one useful source is Chapter 1 of Azriel Levy (1979)[^levy-1979].
 
 For our purposes, classes may be taken as *definable subcollections of the universe of sets*. For example, if *a* is any set, then the class of all sets which do not contain *a* as an element is {*x* :*a* ∉ *x*}. In specifying a class, one may use the first-order language with the membership symbol and the rest of the syntax from logic, and one may also use particular sets as parameters, as we have just done.
 
@@ -550,7 +550,7 @@ Let *d* be a decoration (no, *the* decoration) of *G*. We get two decorations of
 
 > *d*(2*a*) = *k*(2*a*,2*b*) = *l*(2*a*,2*b*) = *d*(2*b*).
 
-This concludes our sketch. For more details, see Aczel (1988).
+This concludes our sketch. For more details, see Aczel (1988)[^aczel-1988].
 
 ### 3.2 Doing without *AFA*
 
@@ -874,7 +874,7 @@ The original result used much weaker hypotheses on *F*, using notions which we d
 
 **Equational logic and modal logic**. A great deal of work has shown ways in which equational logic and modal logic are “dual”, but to spell this out in detail would require quite a bit more category theory than we need in the rest of this entry.
 
-There is a growing field of coalgebraic generalizations of modal logic. For a survey of this area, see Kurz (2006).
+There is a growing field of coalgebraic generalizations of modal logic. For a survey of this area, see Kurz (2006)[^kurz-2006].
 
 The final coalgebra of a functor may be regarded as a space of *complete observations*. (As with all our points in this section, this statement is mainly for functors on Set, and the notion of “complete observation” is, of course, merely suggestive.) For example, let *AtProp* be a set whose elements are called *atomic propositions*, and consider the functor *F*(*a*) = ℘_{fin}(*a*) × ℘(*AtProp* ). A coalgebra for this is a set *a* together with one map of *a* into its finite subsets, and another map into the collection of sets of atomic propositions. Putting the two maps together gives a *finitely-branching* Kripke model: each point has finitely many children and some set of atomic propositions. Now modal logic gives us a way of “observing” properties of points in coalgebras (Kripke models). And the record of everything that one could observe from a point is the modal theory of that point. Further, one may take the collection of all theories of all points in all finitely-branching Kripke models and make this collection (it is a set) into the carrier of a final coalgebra for the functor. Indeed, this would be one way to construct a final coalgebra.
 
@@ -928,11 +928,11 @@ Turning to the last two lines, we already know that *AFA* is equivalent to the a
 
 The line concerning ℘_{fin}(*a*) × ℘(*AtProp*) is the closest to the Kripke semantics of modal logic. One might hope that the final coalgebra would turn out to be the canonical model of the modal logic *K*, but this is not quite right. One needs to cut down to those maximal consistent sets which are realized by some point in some *finitely branching* model.
 
-As the reader may notice, we are being extremely vague about matters concerning the logics: is there a principled explanation of where they come from? What, if anything, is the relation between the final coalgebras and *canonical models* as we find them in modal logic? The explanations here are too long and too involved for this entry. Once again, one place to start reading about these matters is Kurz (2006).
+As the reader may notice, we are being extremely vague about matters concerning the logics: is there a principled explanation of where they come from? What, if anything, is the relation between the final coalgebras and *canonical models* as we find them in modal logic? The explanations here are too long and too involved for this entry. Once again, one place to start reading about these matters is Kurz (2006)[^kurz-2006].
 
 The lines in at the bottom of the conceptual comparison chart are the most programmatic of all.
 
-Doing without *AFA*: final coalgebras in *ZF*. We mentioned in note [[^note-2]] that it is possible to alter the pairing operation in such a way that one may prove many of the results that our treatment obtains only by using *ZF*A. This points is mentioned in Forster (1994) and developed in detail in Paulson (1999) (and in other papers by Paulson). One replaces the Kuratowski pair ⟨*x*,*y*⟩ with a variant, ({0}× *a*)∪ ({1}× *b*). (This is the usual disjoint union operation, also called the *coproduct* on sets.) Then one defines variants of other notions: the cartesian product, functions, etc. And in terms of these one can indeed study streams and infinite trees, and many other sets of interest in this entry. Even more, one can prove *final coalgebra theorems*, stating sufficient conditions for the existence of a final coalgebra whose structure is the identity. (This is an important point for this line of work: in *ZF* we can show the existence of final coalgebras for the same functors as in *ZFA*, but in the latter theory we can get final coalgebras whose structure maps are the identity.)
+Doing without *AFA*: final coalgebras in *ZF*. We mentioned in note [[^note-2]] that it is possible to alter the pairing operation in such a way that one may prove many of the results that our treatment obtains only by using *ZF*A. This points is mentioned in Forster (1994) and developed in detail in Paulson (1999)[^paulson-1999] (and in other papers by Paulson). One replaces the Kuratowski pair ⟨*x*,*y*⟩ with a variant, ({0}× *a*)∪ ({1}× *b*). (This is the usual disjoint union operation, also called the *coproduct* on sets.) Then one defines variants of other notions: the cartesian product, functions, etc. And in terms of these one can indeed study streams and infinite trees, and many other sets of interest in this entry. Even more, one can prove *final coalgebra theorems*, stating sufficient conditions for the existence of a final coalgebra whose structure is the identity. (This is an important point for this line of work: in *ZF* we can show the existence of final coalgebras for the same functors as in *ZFA*, but in the latter theory we can get final coalgebras whose structure maps are the identity.)
 
 One might think that this move undermines much of the interest in *AFA*. For Paulson, the reduction is important since he wants to use an automatic theorem prover to work with assertions in set theory. It makes sense to work out detailed reductions so as to avoid changing the set theory.
 
@@ -979,7 +979,7 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 [^note-1]: The interesting feature of the Thue-Morse sequence is that is has no three-in-a-row repeats: for every finite non-empty sequence *w* of 0s and 1s, the infinite sequence *t* does not contain *www* anywhere.
 
-[^note-2]: The main move in the theory of hypersets studied in this entry is to keep the standard modeling of pairs but to change the underlying set theory. Formulating matters this way suggests that it might be possible to keep the Foundation Axiom but alter the treatment of pairs. This point is made by Forster (1994) and Paulson (1999). We discuss this point further at the end of Section 4.5.
+[^note-2]: The main move in the theory of hypersets studied in this entry is to keep the standard modeling of pairs but to change the underlying set theory. Formulating matters this way suggests that it might be possible to keep the Foundation Axiom but alter the treatment of pairs. This point is made by Forster (1994) and Paulson (1999)[^paulson-1999]. We discuss this point further at the end of Section 4.5.
 
 [^note-3]: Incidentally, the most standard definition of the solution *x*^{†} from equation (4) uses a different vocabulary altogether: the *n*ᵗʰ term of the sequence corresponding to *x*^{†} is 0 or 1 depending on whether there are an even or odd number of 1s in the binary representation of *n*+1.
 
@@ -991,7 +991,7 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 [^note-7]: Perhaps the similarity of “starting from nothing“, *creatio ex nihilo*, and the Big Bang are part of the appeal of the iterative conception.
 
-[^note-8]: I realize that my presentation of the iterative conception does mix temporal and spatial metaphors. In this connection, I mention from John Burgess (1985), review of papers (including Boolos (1971)): “The informal description of this [iterative or cumulative hierarchy] almost demands resort to a metaphor, spatial imagery being preferable to temporal as being less likely to be (mis)taken literally.” A criticism of the iterative conception and specifically of the metaphors used may be found in Parsons (1975).
+[^note-8]: I realize that my presentation of the iterative conception does mix temporal and spatial metaphors. In this connection, I mention from John Burgess (1985)[^burgess-1985], review of papers (including Boolos (1971)[^boolos-1971]): “The informal description of this [iterative or cumulative hierarchy] almost demands resort to a metaphor, spatial imagery being preferable to temporal as being less likely to be (mis)taken literally.” A criticism of the iterative conception and specifically of the metaphors used may be found in Parsons (1975)[^parsons-1975].
 
 [^note-9]: As an interesting aside, note that the ordinals can be obtained via decoration of well-ordered sets. In *ZF*, one needs the Replacement Axioms for this.
 
@@ -1005,7 +1005,7 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 ### Notes to Supplement: Additional related modeling of circularity
 
-14. Another interesting topic in this regard is the connection between *domain theory* and coalgebra. We mention this because many final coalgebras may be built with domain theoretic tools, and many of the applications of coalgebra mentioned in this entry could also be obtained via domain theory. One specific example concerns corecursion, and closer to fractals, there are interesting domain-theoretic constructions: see Hayashi (1985) and Edalat (1995).
+14. Another interesting topic in this regard is the connection between *domain theory* and coalgebra. We mention this because many final coalgebras may be built with domain theoretic tools, and many of the applications of coalgebra mentioned in this entry could also be obtained via domain theory. One specific example concerns corecursion, and closer to fractals, there are interesting domain-theoretic constructions: see Hayashi (1985)[^hayashi-1985] and Edalat (1995)[^edalat-1995].
 
 [^aczel-1988]: Aczel, P., 1988, *Non-Well-Founded Sets* (CSLI Lecture Notes: Number 14), Stanford: CSLI Publications.
 

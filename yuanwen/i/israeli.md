@@ -119,7 +119,7 @@ Nissim ben Solomon translated one of the Hebrew versions, and it can be found in
 
 The surviving Arabic fragment is written in Hebrew characters, but there are indications that the original text was written in Arabic script. The Arabic fragment can be found in the Cambridge Taylor-Schechter collection, document TS. 8 Ka.6² and has been published twice—by H. Hirschfeld in “The Arabic portion of the Cairo Genizah at Cambridge,” Jewish Quarterly Review xv (1902), pp. 689–93 and by Altmann in *Journal of Semitic Studies*, 1957, pp. 232–42. This work is accessible in English translation with commentary in Altmann and Stern’s *Isaac Israeli*, 9–78.
 
-Stern prepared a critical edition of the Hebrew versions but did not publish it; it was published posthumously, together with a critical edition of the *Book on Sprit and Soul* in Freudenthal and Stern (2017).
+Stern prepared a critical edition of the Hebrew versions but did not publish it; it was published posthumously, together with a critical edition of the *Book on Sprit and Soul* in Freudenthal and Stern (2017)[^stern-2017].
 
 ### 5.2 The Book of Substances
 
@@ -129,7 +129,7 @@ Stern prepared a critical edition of the Hebrew versions but did not publish it;
 
 J.L. Teicher argues that Isaac Israeli is not the author of this work (Teicher, 1956 p. 424)[^teicher-1956]. However, since Israeli’s pupil Dunash Ibn Tamim quotes passages of it in his commentary on the mystical work *Sefer Yetzirah*, Teicher’s view is likely erroneous.
 
-Two Hebrew translations (*Sefer ha-Ruah v’ha-Nefesh*) and a fragment of the Arabic original remain of this work. Altmann and Stern provide a critical English translation based on the Hebrew manuscripts (Munich Steinschneider’s Cat. no. 307, fols. 47ff; Cambridge Addler 1858 fols. 113v ff.) and A. Borisov’s publication of the Arabic fragment in *Isaac Israeli*, pp. 108–117. A critical edition of the Hebrew was published posthumously in Freudenthal and Stern (2017).
+Two Hebrew translations (*Sefer ha-Ruah v’ha-Nefesh*) and a fragment of the Arabic original remain of this work. Altmann and Stern provide a critical English translation based on the Hebrew manuscripts (Munich Steinschneider’s Cat. no. 307, fols. 47ff; Cambridge Addler 1858 fols. 113v ff.) and A. Borisov’s publication of the Arabic fragment in *Isaac Israeli*, pp. 108–117. A critical edition of the Hebrew was published posthumously in Freudenthal and Stern (2017)[^stern-2017].
 
 This treatise, unlike the *Book of Definitions* and *Book of Substances* is a distinctly Jewish work of philosophy, as it combines doctrines of soul drawn from Ibn Hasday’s Neoplatonist with Jewish scriptural proof texts, supporting a Neoplatonist conception of soul as distinct from mortal spirit, combined with the Rabbinic Jewish belief in reward and punishment of souls.
 
@@ -141,7 +141,7 @@ A single Hebrew translation (*Shaᶜar ha-Yesodot le-Aristo*) is extant in manus
 
 Like most of his other philosophical works, Israeli’s Arabic original (*Kitab al-Ustuqussat*) is lost, and we are left with a Latin translation and two Hebrew versions. Gerard of Cremona’s Latin translation of this book was published in the work *Omnia opera Ysaac*, Lyons: 1515. One Hebrew version (Leiden, Warner MS No. 13) was rendered by Abraham ibn Hasday for David Qimhi. The other translation (Munich MS No. 43) is more eloquent, and likely an improvement on the earlier translation, leading Salomon Fried to conjecture that the famous Medieval translator Moses ibn Tibbon (flourished mid-13ᵗʰ century, Provence) prepared it (Fried, 1884, pp. 75–83)[^fried-1884].
 
-On the question of the different Hebrew versions, see also Engel (2022).
+On the question of the different Hebrew versions, see also Engel (2022)[^engel-2022].
 
 ## 6. Israeli’s Influence on Later Thinkers
 

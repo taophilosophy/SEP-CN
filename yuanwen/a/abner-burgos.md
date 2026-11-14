@@ -155,9 +155,9 @@ Aristotle, Special Topics: natural philosophy | Crescas, Hasdai | determinism: c
 
 [^note-5]: On his dream, see Sainz de la Maza Vicosio (1992).
 
-[^note-6]: Szpiech (2006) devoted his important work on Abner to a study of this book. On the *Mostrador de Justicia* see especially pages 147–289. In the beginning of the work there is a summary of each paragraph.
+[^note-6]: Szpiech (2006)[^szpiech-2006] devoted his important work on Abner to a study of this book. On the *Mostrador de Justicia* see especially pages 147–289. In the beginning of the work there is a summary of each paragraph.
 
-[^note-7]: Edited by Hecht (1993) with an English translation. On the study of the Hebrew version, see also Gershenzon (1984).
+[^note-7]: Edited by Hecht (1993)[^hecht-1993] with an English translation. On the study of the Hebrew version, see also Gershenzon (1984)[^gershenzon-1984][^gershenzon-1984-2].
 
 [^note-8]: The Castilian translation has been edited twice by Mettman and Sainz de la Maza Vicioso (1989).
 
@@ -165,15 +165,15 @@ Aristotle, Special Topics: natural philosophy | Crescas, Hasdai | determinism: c
 
 [^note-10]: The extant part was published by Mettman with the *Ofrenda de Zelos*.
 
-[^note-11]: Published by Rosenthal (1967).
+[^note-11]: Published by Rosenthal (1967)[^rosenthal-1967].
 
-[^note-12]: Published by Rosenthal (1961, 1962, 1964).
+[^note-12]: Published by Rosenthal (1961, 1962, 1964)[^rosenthal-1961][^rosenthal-1964][^rosenthal-1964-2].
 
-[^note-13]: On this subject, see Chazan (1984, 2000).
+[^note-13]: On this subject, see Chazan (1984, 2000)[^chazan-1984][^chazan-2000].
 
 [^note-14]: In general, the majority of Christian philosophers (even the Christian polemists) argue that the Trinity is a belief that doesn’t contradict philosophy. They further claim that through faith they can find the true opinion amongst the philosophically possible opinions. In contrast, Abner argues that the existence of the Trinity is an obligatory opinion. .
 
-[^note-15]: On the deterministic opinion of Abner, see Ravitzky (1982).
+[^note-15]: On the deterministic opinion of Abner, see Ravitzky (1982)[^ravitzky-1982].
 
 [^note-16]: For example, his work מגדל עוז, which he wrote during the Jewish part of his life.
 
@@ -185,7 +185,7 @@ Aristotle, Special Topics: natural philosophy | Crescas, Hasdai | determinism: c
 
 [^note-20]: Rabbi Isaac Pulgar in the third part of his work (*Ezer Ha-Dat*); Rabbi Moses from Narbonne in a special philosophical response; and Rabbi Joseh Ben Shem Tov in a lost book that he quotes in his commentary of the Ethics to Nicomachus. In this book, the last author mentions the influence of Abner on Crescas
 
-[^note-21]: This part of the article is based on Sadik (2008, 2011).
+[^note-21]: This part of the article is based on Sadik (2008, 2011)[^sadik-2008][^sadik-2011].
 
 [^note-22]: At the end of chapter six of *Mostrador de justicia,* pages 91–93.
 

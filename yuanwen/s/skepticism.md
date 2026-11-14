@@ -294,9 +294,9 @@ As of the December 2019 update, Juan Comesaña has taken over responsibility for
 
 [^note-2]: See the previous footnote.
 
-[^note-3]: For more on suspension of judgment, see Friedman (2013, 2017).
+[^note-3]: For more on suspension of judgment, see Friedman (2013, 2017)[^friedman-2013][^friedman-2017].
 
-[^note-5]: See, for example, DeRose and Warfield 1999. In that volume most of the authors take the CP-style argument to be the primary one. There is a good discussion of Cartesian Skepticism in the Introduction to that volume. Frances (2005) argues that special kinds of skeptical hypotheses generate limited but insidious forms of skepticism.
+[^note-5]: See, for example, DeRose and Warfield 1999. In that volume most of the authors take the CP-style argument to be the primary one. There is a good discussion of Cartesian Skepticism in the Introduction to that volume. Frances (2005)[^frances-2005] argues that special kinds of skeptical hypotheses generate limited but insidious forms of skepticism.
 
 [^note-6]: Alternatively, CP might be further patched by adding the requirement that the subject in question performs the requisite deduction and believes *q* on this basis. This version of CP brings it closer to so-called “Transmission Principles”—see the entry on transmission of justification and warrant.
 

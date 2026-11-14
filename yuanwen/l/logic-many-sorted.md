@@ -7,7 +7,7 @@ Classical logic is the appropriate formal language for describing mathematical s
 
 Despite the addition of this expressive resource, many-sorted logic “stays inside” first-order logic, so the main metatheorems (completeness, interpolation, and so on) can be proved. Many-sorted logic also serves as a unifying framework for translating various logical systems; for instance, some intensional and higher-order logics have natural translations into many-sorted logic. Many-sorted first-order logic can be reduced to one-sorted first-order logic, both syntactically and semantically. Many-sorted first-order logic can also be extended to a many-sorted second-order logic called “sort logic”.
 
-An axiomatic calculus for many-sorted logic was introduced by Hao Wang in Wang (1952), where he made a comparison between one-sorted and many-sorted theories. In 1967, Solomon Feferman gave a sequent calculus for many-sorted logic, proving not only its completeness but also the cut elimination and interpolation theorems (Feferman 1968)[^feferman-1968]. Feferman (2008) summarizes some applications of the many-sorted interpolation theorems to model theory. (See the [supplement on early history](logic-many-sorted.early-history.md) for more information.)
+An axiomatic calculus for many-sorted logic was introduced by Hao Wang in Wang (1952)[^wang-1952], where he made a comparison between one-sorted and many-sorted theories. In 1967, Solomon Feferman gave a sequent calculus for many-sorted logic, proving not only its completeness but also the cut elimination and interpolation theorems (Feferman 1968)[^feferman-1968]. Feferman (2008)[^feferman-2008] summarizes some applications of the many-sorted interpolation theorems to model theory. (See the [supplement on early history](logic-many-sorted.early-history.md) for more information.)
 
 Section 1 lays out the basics of many-sorted logic, presenting some examples and explaining how the formal language, structures, and semantics differ or not from classical logic. Section 2 explains how to modify a one-sorted first-order calculus to obtain a many-sorted version; also, completeness is treated and some automated theorem provers are mentioned. Section 3 describes a plan on which many-sorted logic serves as a common framework for translating a variety of logical systems. Sections 4 and 5 apply this plan to second-order logic and non-classical logics (modal and dynamic logic), respectively. Finally, section 6 comments on further results in many-sorted logic.
 
@@ -276,7 +276,7 @@ It is common in model theory to regard a logic as comprising at least three diff
 
 In fact, any calculus for one-sorted first-order logic can be easily extended to a many-sorted one; the only rules which need to be adapted are the ones dealing with quantifiers and substitution, as they have to take into consideration the variety of sorts admitted. In the entry classical logic the rules that need to be changed are: introduction and elimination of universal quantifier ($\forall \mathbf{I}$ and $\forall \mathbf{E}$), introduction and elimination of existential quantifier ($\exists \mathbf{I}$ and $\exists \mathbf{E}$) as well as the rules dealing with equality ($=\mathbf{I}$ and $=\mathbf{E}$).
 
-The sequent calculus presented in Manzano (1996: 240–257) is the many-sorted extension of the one in Ebbinghaus, Flum, and Thomas (1984). Hao Wang (1952: 106), one of the pioneering logicians working on many-sorted logic, already introduced an axiomatic calculus for this logic in his seminal work (see the [supplement on early history](logic-many-sorted.early-history.md) for more information).
+The sequent calculus presented in Manzano (1996: 240–257)[^manzano-1996] is the many-sorted extension of the one in Ebbinghaus, Flum, and Thomas (1984). Hao Wang (1952: 106)[^wang-1952], one of the pioneering logicians working on many-sorted logic, already introduced an axiomatic calculus for this logic in his seminal work (see the [supplement on early history](logic-many-sorted.early-history.md) for more information).
 
 As usual, to symbolize *derivability* of a formula from a set of formulas we write, $\Delta \vdash \varphi$. We will write the derivability sign $\vdash$ with a subscript when needed; namely, $\vdash _{\MSL}$. In any of these calculi the notion of proof is effective in the sense that there is a method by which whenever a finite sequence of sequents of formulas is given, it can always be effectively determined, whether it is a proof or not. Any of these calculi is *undecidable*, as there is not an algorithm to check if $\vdash \varphi$ or not. In fact, it could not be otherwise as the *satisfiability problem* (i.e., determining validity, or equivalently, testing for satisfiability of given formulas) for many-sorted logic is undecidable. So, we are in the same situation encountered in one-sorted first-order logic.
 
@@ -298,7 +298,7 @@ Section 3 presents many-sorted logic as a unifier logic and we describe the thre
 
 ### 2.3 Completeness of Many-sorted Logic
 
-The completeness proof for a many-sorted calculus could be done by following the well known Henkin (1949) strategy for first-order logic. The important issue is to be able to show that each consistent set of formulas has a model, and hence syntactic consistency and semantic satisfiability are equivalent (assuming *Soundness*). The proof is performed in basically two steps:
+The completeness proof for a many-sorted calculus could be done by following the well known Henkin (1949)[^henkin-1949] strategy for first-order logic. The important issue is to be able to show that each consistent set of formulas has a model, and hence syntactic consistency and semantic satisfiability are equivalent (assuming *Soundness*). The proof is performed in basically two steps:
 
 1. Every consistent set of formulas can be extended to a maximal consistent set with witnesses.
 2. Once we have the maximal consistent set with witnesses, we use it as a guide to build the precise model described by formulas of this set. The reason being that a maximally consistent set is a very detailed description of a structure.
@@ -323,9 +323,9 @@ As corollaries of the previous results one gets:
 
 **Löwenheim-Skolem:** If $\Gamma$ has a model, then it has a countable model.
 
-In Manzano (1996: 245–257), the completeness theorem is proved in its strong sense and for all formulas, not only for sentences. Completeness and its corollaries are proven by following the path introduced by Ebbinghaus, Flum, and Thomas (1984).
+In Manzano (1996: 245–257)[^manzano-1996], the completeness theorem is proved in its strong sense and for all formulas, not only for sentences. Completeness and its corollaries are proven by following the path introduced by Ebbinghaus, Flum, and Thomas (1984).
 
-*Is many-sorted logic a proper (or strict) extension of first-order logic?* Lindström (1969) proves that first-order logic is characterizable as the strongest logic to possess simultaneously *Compactness* and *Löwenheim-Skolem* properties. Moreover, first-order logic is the strongest logic where *Löwenheim-Skolem* holds and its set of valid sentences is *recursively enumerable*. Therefore, many-sorted logic cannot be considered as a proper extension of first-order logic.
+*Is many-sorted logic a proper (or strict) extension of first-order logic?* Lindström (1969)[^lindström-1969] proves that first-order logic is characterizable as the strongest logic to possess simultaneously *Compactness* and *Löwenheim-Skolem* properties. Moreover, first-order logic is the strongest logic where *Löwenheim-Skolem* holds and its set of valid sentences is *recursively enumerable*. Therefore, many-sorted logic cannot be considered as a proper extension of first-order logic.
 
 ### 2.4 Automated Theorem Provers
 
@@ -357,7 +357,7 @@ Translations between logics have been formulated as an ambitious paradigm whose 
 
 1. From a *proof-theoretical* point of view, the style of comparing logics will rest upon deductive calculi. The “labelled deductive systems” of Dov Gabbay (1994 and 1996) emerge.
 2. From a *model-theoretical perspective*, one will presumably compare logics by defining relations between the structures those logics are attempting to describe, as in the correspondence theory of Johan van Benthem (1983, 1984a, and 2010).
-3. From a *suprastructural* point of view, we define morphisms between categories. Among the abstract approaches to logic we highlight the “general logics” of José Meseguer (1989) as well as the “rewriting logic” of Narciso Martı́-Oliet and José Meseguer (1994). Da Silva, D’Ottaviano, and Sette (1999) gave a general definition of translation between logics according to which logics are characterized as sets with consequence relations; translations are hence consequence-relation preserving maps.
+3. From a *suprastructural* point of view, we define morphisms between categories. Among the abstract approaches to logic we highlight the “general logics” of José Meseguer (1989)[^meseguer-1989] as well as the “rewriting logic” of Narciso Martı́-Oliet and José Meseguer (1994). Da Silva, D’Ottaviano, and Sette (1999) gave a general definition of translation between logics according to which logics are characterized as sets with consequence relations; translations are hence consequence-relation preserving maps.
 
 The paradigm of logical translation[^note-11] assumed in this entry belongs to the model-theoretical tradition mentioned in item 2 and the target logic is many-sorted logic.
 
@@ -367,7 +367,7 @@ As far as intensional logic is concerned, let us quote Johan van Benthem:
 
 ### 3.2 Correspondence Language for Basic Modal Language
 
-Among the so called “non-classical logics”, modal logic occupies the first position as its history goes back to Aristotle, as well as Megarians, Stoics, and other Greek philosophers. Over the years it has been used to talk about necessity and possibility, time, and computer programs. See the entry on modal logic as well as Blackburn and van Benthem (2007) and van Benthem (2010).
+Among the so called “non-classical logics”, modal logic occupies the first position as its history goes back to Aristotle, as well as Megarians, Stoics, and other Greek philosophers. Over the years it has been used to talk about necessity and possibility, time, and computer programs. See the entry on modal logic as well as Blackburn and van Benthem (2007) and van Benthem (2010)[^benthem-2010].
 
 The features of modal logic most relevant to this entry on many-sorted logic are that truth can be qualified (or relativized) and that modal models include a universe of what are called “possible worlds”. The classical semantical concept of *truth in a model*, written as $\mathcal{A}\models \varphi$ is now replaced by *truth at a world $w$ in a model $\mathcal{A}$*, written as $\mathcal{A},w\models \varphi$.
 
@@ -507,11 +507,11 @@ $$\Val_{\mathfrak{F}}\subseteq \Val_{\mathfrak{GS}}\subseteq \Val_{\mathfrak{SS}
 
 In the *semantics of frames*, both sets and relation variables are allowed to range over universes which are subsets of standard universes. Somehow, this condition alone does not guarantee that we have enough sets and relations to deal with the second order capability. We would like to include in the universes all the definable ones in our formal language. This is a rather natural demand imposed to the *general models* (*Henkin models*) to obtain completeness.
 
-In fact, with the semantics of frames, the set of validities coincides with the set of sentences derivable in a second-order calculus which is just an extension of the first-order one obtained by adding rules for the new quantifiers. This many-sorted calculus was isolated by Henkin (1953) in a paper where he introduced the *Comprehension Schema*
+In fact, with the semantics of frames, the set of validities coincides with the set of sentences derivable in a second-order calculus which is just an extension of the first-order one obtained by adding rules for the new quantifiers. This many-sorted calculus was isolated by Henkin (1953)[^henkin-1953] in a paper where he introduced the *Comprehension Schema*
 
 $$\exists X^{n}\forall x_{1}\ldots x_{n}(X^{n}x_{1}\ldots x_{n}\leftrightarrow \varphi )$$
 
-as a way of getting rid of the complex substitution rule of Church (1956). It is clear that, in case the only requirement you impose to the universes of the second-order structure is to be subsets of standard universes, there is no guarantee that they are models of *Comprehension*. That is why we need the general structures to obey extra rules, universes have to be closed under definability. With general structures the set of validities coincides with the set of sentences derivable in the second-order calculus. So, we go back to the situation encountered in first-order logic as you recover: *Compactness*, *Löwenheim-Skolem* and *Completeness*.
+as a way of getting rid of the complex substitution rule of Church (1956)[^church-1956]. It is clear that, in case the only requirement you impose to the universes of the second-order structure is to be subsets of standard universes, there is no guarantee that they are models of *Comprehension*. That is why we need the general structures to obey extra rules, universes have to be closed under definability. With general structures the set of validities coincides with the set of sentences derivable in the second-order calculus. So, we go back to the situation encountered in first-order logic as you recover: *Compactness*, *Löwenheim-Skolem* and *Completeness*.
 
 Obviously, SOL with general semantics is less expressive than with standard semantics. For instance, $\forall X(Xx\leftrightarrow Xy)$ is no longer a definition of genuine identity between individuals. And so we take it as primitive and require equality $\approx$ to be interpreted as identity. For higher types, *Axiom of Extensionality*
 
@@ -708,7 +708,7 @@ Weak completeness follows directly.[^note-27]
 
 ### 6.1 Reduction of Many-sorted Logic to One-sorted Logic
 
-It is commonplace (Wang 1952, Feferman 1968, and Enderton 1972)[^enderton-1972][^feferman-1968][^wang-1952] to present many-sorted logic as easily convertible to one-sorted first-order logic. In Hao Wang (1952), the equivalence is built on provability while in Enderton’s book it has a semantical character.
+It is commonplace (Wang 1952, Feferman 1968, and Enderton 1972)[^enderton-1972][^feferman-1968][^wang-1952] to present many-sorted logic as easily convertible to one-sorted first-order logic. In Hao Wang (1952)[^wang-1952], the equivalence is built on provability while in Enderton’s book it has a semantical character.
 
 Here we point out that many-sorted reduces to classical first-order logic (one-sorted) in the following sense: given a many-sorted structure $\mathcal{A}$, every many-sorted sentence true at $\mathcal{A}$ has a translation into one-sorted first order logic that is true at $\mathcal{A}^{\ast}$, where $\mathcal{A}^{\ast}$ is the result of unifying all the sorts in $\mathcal{A}$. From this result we obtain the equivalence between consequences in both logics, modulo a theory $\Pi$ easily defined.
 
@@ -776,7 +776,7 @@ However, other theorems about many-sorted logic are not straightforwardly obtain
 
 The Interpolation Theorem, which according to Wilfrid Hodges has “the longest pedigree of any theorem of model theory”,[^note-30] plays a relevant role in logic. In the first place, several important results such us Beth’s definability theorem and Robinson theorem could be obtained directly from it (see the entry first-order model theory). In the second place, interpolation can be seen as a central logical property which “has been used to reveal a deep harmony between syntax and semantics” (Feferman 2008: 341)[^feferman-2008].
 
-The one-sorted version of interpolation was proved by William Craig in 1957a. Roger Lyndon (1959) gave a generalization of Craig’s theorem and, in 1968, Feferman extended the latter formulation to many-sorted logic (see Feferman 2008: 349)[^feferman-2008]. Obviously, the one-sorted version is a special case of the many-sorted one. However, many-sorted interpolation cannot be straightforwardly transferred from the one-sorted case.
+The one-sorted version of interpolation was proved by William Craig in 1957a. Roger Lyndon (1959)[^lyndon-1959] gave a generalization of Craig’s theorem and, in 1968, Feferman extended the latter formulation to many-sorted logic (see Feferman 2008: 349)[^feferman-2008]. Obviously, the one-sorted version is a special case of the many-sorted one. However, many-sorted interpolation cannot be straightforwardly transferred from the one-sorted case.
 
 The idea for Craig’s 1957 proof of the Interpolation Theorem rests on the completeness theorem for one-sorted first-order logic. The reason is that interpolation “lies” somehow in the intersection of proof theory (as it follows from some metatheorems about the calculus) and model theory (because of its applications). Henkin showed that the other way round also holds: completeness can be immediately obtained from a extended version[^note-31] of Craig-Lyndon’s theorem.
 
@@ -797,11 +797,11 @@ Feferman’s proof of interpolation is obtained directly as a corollary of one o
 
 Another notion not immediately transferable from FOL to MSL is that of *interpretability*. Interpretability is a good criterion for fixing a comparison between theories $T$ and $T^{\prime }$, for it is characterized either in terms of “uniform definability of models” or of “the existence of an interpretation map which preserves logical form and provability” (Mceldowney 2020: 15)[^mceldowney-2020]. It is also helpful for proving consistency, as $T^{\prime }$ is proved to be consistent when interpreted in a consistent $T$. However, interpretability between theories of a many-sorted signature does not guarantee interpretability between their (one-sorted) translations.
 
-Mceldowney (2020) argues that the concept of bi-interpretability is the best measure of theoretical equivalence in MSL. The oldest criterion for theoretical equivalence between first-order theories with the same signature is the notion of *definitional equivalence* (see Eilenberg & Mac Lane 1942, 1945 and Glymour 1971)[^eilenberg-1942][^eilenberg-1945][^glymour-1971]. Therefore, the necessity of a many-sorted counterpart was apparent. As a result, a debate on the nature of equivalence in MSL has taken place since 2016. Barrett and Halvorson (2016) generalizes the idea of definitional extension to the concept of *Morita extension*: intuitively, $T^+$ is a Morita extension of $T$ iff both $T$ and $T^+$ are MSL theories and $T^+$ “says no more” than the original theory (see 2016: 565 for formal details).
+Mceldowney (2020)[^mceldowney-2020] argues that the concept of bi-interpretability is the best measure of theoretical equivalence in MSL. The oldest criterion for theoretical equivalence between first-order theories with the same signature is the notion of *definitional equivalence* (see Eilenberg & Mac Lane 1942, 1945 and Glymour 1971)[^eilenberg-1942][^eilenberg-1945][^glymour-1971]. Therefore, the necessity of a many-sorted counterpart was apparent. As a result, a debate on the nature of equivalence in MSL has taken place since 2016. Barrett and Halvorson (2016) generalizes the idea of definitional extension to the concept of *Morita extension*: intuitively, $T^+$ is a Morita extension of $T$ iff both $T$ and $T^+$ are MSL theories and $T^+$ “says no more” than the original theory (see 2016: 565 for formal details).
 
 Thus, they claim that theoretical equivalence in MSL is to have a common Morita extension (this is called “Morita equivalence”). It is worth recalling at this point that the Morita extension $T^{+}$ of $T$ might be constructed by adding new sort symbols to the signature of $T$ together with the corresponding explicit definitions[^note-33] to the axioms. There are several ways to carry out this extension: the new sort $\tau$ can be introduced as a *subsort*, *product*, *coproduct* and *quotient sort* (see Barrett & Halvorson 2016: 563–64)[^barrett-2016]. Morita equivalence has also been used to try to clarify what is known in the literature as Quine’s conjecture on many-sorted logic (see Barrett & Halvorson 2017)[^barrett-2017].
 
-Nevertheless, according to Mceldowney (2020), a nuanced concept of Morita equivalence is just a special case of bi-interpretability. For this reason, he opted for a notion of equivalence in MSL based on interpretability rather than Morita extensions (see pp. 404-407 in Mceldowney 2020)[^mceldowney-2020]. In fact, as pointed out in Friedman and Visser (2014), bi-interpretability preserves finite axiomatizability, decidability, and κ-categoricity.
+Nevertheless, according to Mceldowney (2020)[^mceldowney-2020], a nuanced concept of Morita equivalence is just a special case of bi-interpretability. For this reason, he opted for a notion of equivalence in MSL based on interpretability rather than Morita extensions (see pp. 404-407 in Mceldowney 2020)[^mceldowney-2020]. In fact, as pointed out in Friedman and Visser (2014), bi-interpretability preserves finite axiomatizability, decidability, and κ-categoricity.
 
 ### 6.4 Extension of Many-sorted Logic to Sort Logic
 
@@ -819,11 +819,11 @@ $$\widetilde{\exists }X\,\forall x\,\forall y(Xxy\land Xyx\rightarrow x=y)$$
 
 says that there exists a new sort with a new anti-symmetric relation; somehow we are saying that anti-symmetry is a consistent concept as it can be exemplified.
 
-An axiomatic calculus for sort logic was introduced in Väänänen (2014), as an extension of the second-order case. For this reason, he incorporated a second *Comprehension Axiom* related to $\widetilde{\exists}$ together with some restrictions concerning the rules of proof when formulas with the new quantifier $\widetilde{\exists }$ are involved (see 2014: 176–177).
+An axiomatic calculus for sort logic was introduced in Väänänen (2014)[^väänänen-2014], as an extension of the second-order case. For this reason, he incorporated a second *Comprehension Axiom* related to $\widetilde{\exists}$ together with some restrictions concerning the rules of proof when formulas with the new quantifier $\widetilde{\exists }$ are involved (see 2014: 176–177).
 
-As it occurs in every higher-order logic, completeness and compactness fail for sort logic with standard semantics. Fortunately, it is possible to build a *Henkin structure* satisfying both Comprehension axioms and to move to general semantics. Changing semantics in this way results in the recovery of completeness for the mentioned calculus, as Väänänen (2014: 179–80) has remarked. The proof found its inspiration in that of Henkin’s (1950) for type theory.
+As it occurs in every higher-order logic, completeness and compactness fail for sort logic with standard semantics. Fortunately, it is possible to build a *Henkin structure* satisfying both Comprehension axioms and to move to general semantics. Changing semantics in this way results in the recovery of completeness for the mentioned calculus, as Väänänen (2014: 179–80)[^väänänen-2014] has remarked. The proof found its inspiration in that of Henkin’s (1950)[^henkin-1950] for type theory.
 
-Väänänen (2014: 181) applied sort logic to Foundations of Mathematics. He proposed the notion of truth in a structure $\mathcal{A}$ *characterizable in sort logic*, making a new distinction between general truth $\models \varphi$ and specific truth in those structures. Whenever general truth is reduced to specific truth, we can use the calculus to prove the satisfiability of a formula. Under certain constraints, any class of structures closed under isomorphism is definable in sort logic (see Kennedy & Väänänen 2021, Theorem 19)[^kennedy-2021]. Thus, Väänänen argues that sort logic is an “alternative way of looking at mathematics”, where, unlike set theory, “definition rather than construction is the focus” (2014: 185). It is also an interesting tool for studying *Logicality and model classes* (Kennedy & Väänänen 2021)[^kennedy-2021].
+Väänänen (2014: 181)[^väänänen-2014] applied sort logic to Foundations of Mathematics. He proposed the notion of truth in a structure $\mathcal{A}$ *characterizable in sort logic*, making a new distinction between general truth $\models \varphi$ and specific truth in those structures. Whenever general truth is reduced to specific truth, we can use the calculus to prove the satisfiability of a formula. Under certain constraints, any class of structures closed under isomorphism is definable in sort logic (see Kennedy & Väänänen 2021, Theorem 19)[^kennedy-2021]. Thus, Väänänen argues that sort logic is an “alternative way of looking at mathematics”, where, unlike set theory, “definition rather than construction is the focus” (2014: 185). It is also an interesting tool for studying *Logicality and model classes* (Kennedy & Väänänen 2021)[^kennedy-2021].
 
 ## References（引用注释）
 
@@ -901,7 +901,7 @@ and a modal generalization rule, if $\vdash \varphi$ then $\vdash \square \varph
 1. $\varphi (x)$ is invariant under bisimulation.
 2. $\varphi (x)$ is equivalent to the standard translation of a basic modal formula.
 
-[^note-15]: For a more detailed explanation see Manzano (1996: 263–276).
+[^note-15]: For a more detailed explanation see Manzano (1996: 263–276)[^manzano-1996].
 
 [^note-16]: In fact, the inclusion is strict
 
@@ -914,7 +914,7 @@ as the following examples show:
 
 [^note-17]: For simplicity we keep the notation $\langle\underbrace{ 1,\ldots ,1}_n ,0\rangle$ for sorts in $\MSL^{\SOL}$, but now we do not require the domain of this sort to be of *n*-ary relations of elements of sort 1.
 
-[^note-18]: For more details, see Manzano (1996: 285–288).
+[^note-18]: For more details, see Manzano (1996: 285–288)[^manzano-1996].
 
 [^note-19]: Consider now the following example: from a structure $\mathcal{A}$ with domains $\mathbf{A}_{1}=\{ 1,2,3\}$ and $\mathbf{A}_{\langle 1,0\rangle }=\{ 4,7\}$ where
 
@@ -924,7 +924,7 @@ we obtain a structure $\mathcal{B}$ with $\mathbf{B}_{1}=\{ 1,2,3\}$ and $\mathb
 
 $$\epsilon _{n}^{\mathcal{B}}=\{ \langle 1,\{ 1,2,3\} \rangle ,\langle 2,\{ 1,2,3\} \rangle ,\langle 3,\{ 1,2,3\} \rangle \}$$
 
-[^note-20]: The official publication date by Princeton University Press is 1956, however the book was available in manuscript form before 1956, according to Henkin (1996). More specifically, as noted in the Preface, the 1956 edition is a “revised and much enlarged edition” of an earlier 1944 edition (Church 1956, v)[^church-1956].
+[^note-20]: The official publication date by Princeton University Press is 1956, however the book was available in manuscript form before 1956, according to Henkin (1996)[^henkin-1996]. More specifically, as noted in the Preface, the 1956 edition is a “revised and much enlarged edition” of an earlier 1944 edition (Church 1956, v)[^church-1956].
 
 [^note-21]: $\Trans(\varphi )[u]$ is defined by induction on the construction of formulas, $u$ is an individual variable in MSL whose interpretation is a world in the Kripke model.
 
@@ -961,7 +961,7 @@ This formula is an abbreviation and says that it is the least reflexive and tran
 
 $$\Trans(\varphi ?)[u,v]:=\Trans(\varphi )[u]\land u=v$$
 
-[^note-27]: For a more detailed explanation see Manzano (1996: 335–351) as well as Manzano (1993: 72–81).
+[^note-27]: For a more detailed explanation see Manzano (1996: 335–351)[^manzano-1996] as well as Manzano (1993: 72–81)[^manzano-1993].
 
 [^note-28]: The precise definition of one-sorted structure $\mathcal{A}^{\ast}$ is obtained by conversion from the many-sorted structure $\mathcal{A}$ as follows
 
@@ -984,9 +984,9 @@ $$f^{\mathcal{E}^{\ddag }}=f^{\mathcal{E}}\upharpoonright (Q_{i_{1}}^{\mathcal{E
 
 that is a function of the desired sort.
 
-[^note-30]: Let us quote Feferman’s (2008) own words:
+[^note-30]: Let us quote Feferman’s (2008)[^feferman-2008] own words:
 
-> Interestingly, in a personal communication, Wilfrid Hodges brought to my attention that “t]he Lyndon theorem has a claim to be the twentieth century metatheorem with the longest pedigree, because it is a generalisation of the late medieval laws of distribution for syllogisms. Obviously the theorem itself and any of its proofs would have been way beyond the understanding of any of the medievals, but it does seem to contain the correct formalisation of a number of medieval intuitions.” For elaboration, see Hodges (1998). (2008: 346–347, note 4)
+> Interestingly, in a personal communication, Wilfrid Hodges brought to my attention that “t]he Lyndon theorem has a claim to be the twentieth century metatheorem with the longest pedigree, because it is a generalisation of the late medieval laws of distribution for syllogisms. Obviously the theorem itself and any of its proofs would have been way beyond the understanding of any of the medievals, but it does seem to contain the correct formalisation of a number of medieval intuitions.” For elaboration, see Hodges (1998)[^hodges-1998]. (2008: 346–347, note 4)
 
 [^note-31]: Extended Craig-Lyndon’s Interpolation Theorem: If $\Gamma \models \Delta$, then $\Gamma \vdash B$ and $B \vdash \delta$. From this, strong completeness follows immediately (see Henkin 1963b)[^henkin-1963b].
 
@@ -998,9 +998,9 @@ In consequence, the Interpolation Theorem for MSL states that: If $\vdash \varph
 
 $$\Un(\theta )\subseteq \Un(\varphi )\text{ and }\Ex(\theta )\subseteq \Ex(\psi ).$$
 
-[^note-33]: See Hodges (1993: 59) for a description of the concept of explicit definition in one-sorted first-order logic; see Barrett and Halvorson (2016: 560) for the many-sorted case.
+[^note-33]: See Hodges (1993: 59)[^hodges-1993] for a description of the concept of explicit definition in one-sorted first-order logic; see Barrett and Halvorson (2016: 560) for the many-sorted case.
 
-[^note-34]: 34. The official publication date by Princeton University Press is 1956, despite the fact that, in the references of Wang (1952), the date of publication is 1944. We know that early forms of the book were available in manuscript form before 1956 (see Henkin 1996, p. 133)[^henkin-1996]. Exercise 55.24 (p. 339) is in Chapter 5 and according to the Preface, the work on Chapters 3, 4, and 5 was done in 1948–1951 (Church 1956, vi)[^church-1956].
+[^note-34]: 34. The official publication date by Princeton University Press is 1956, despite the fact that, in the references of Wang (1952)[^wang-1952], the date of publication is 1944. We know that early forms of the book were available in manuscript form before 1956 (see Henkin 1996, p. 133)[^henkin-1996]. Exercise 55.24 (p. 339) is in Chapter 5 and according to the Preface, the work on Chapters 3, 4, and 5 was done in 1948–1951 (Church 1956, vi)[^church-1956].
 
 [^note-35]: 35. The one-sorted elementary logic Wang refers to is the one presented in Quine 1940.
 

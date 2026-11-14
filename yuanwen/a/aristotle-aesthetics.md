@@ -263,33 +263,33 @@ The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shi
 
 ## Notes（原文脚注）
 
-[^note-1]: In the so-called *Tractatus Coislinianus*, we find a very brief presentation of comedy that sounds from Aristotelian provenance; R. Janko (1984) has argued that it descends from a genuine summary of the lost second book of the *Poetics*. The vast majority of scholars remain unpersuaded.
+[^note-1]: In the so-called *Tractatus Coislinianus*, we find a very brief presentation of comedy that sounds from Aristotelian provenance; R. Janko (1984)[^janko-1984] has argued that it descends from a genuine summary of the lost second book of the *Poetics*. The vast majority of scholars remain unpersuaded.
 
-[^note-2]: A very clear and well-informed introduction to the main, conflicting interpretations of the central themes of the *Poetics* is provided by A. Curran (2016).
+[^note-2]: A very clear and well-informed introduction to the main, conflicting interpretations of the central themes of the *Poetics* is provided by A. Curran (2016)[^curran-2016].
 
-[^note-3]: The crucial importance of literary criticism in Aristotle’s conception of poetry has been defended especially by Y. Lee Too (1998) and A. Ford (2002, 2015).
+[^note-3]: The crucial importance of literary criticism in Aristotle’s conception of poetry has been defended especially by Y. Lee Too (1998)[^too-1998] and A. Ford (2002, 2015)[^ford-2002][^ford-2015].
 
-[^note-4]: The most sophisticated version of this is to be found in Halliwell (2002). For a more recent treatment along the same lines, see Gonzalez 2019.
+[^note-4]: The most sophisticated version of this is to be found in Halliwell (2002)[^halliwell-2002]. For a more recent treatment along the same lines, see Gonzalez 2019.
 
-[^note-5]: See Nussbaum (1986, 1992). Another version of a “clarification theory” has been defended by L. Golden (1976).
+[^note-5]: See Nussbaum (1986, 1992)[^nussbaum-1986][^nussbaum-1992]. Another version of a “clarification theory” has been defended by L. Golden (1976)[^golden-1976].
 
-[^note-6]: An even more minimalist reading than the one here proposed would be to take the *katharsis* clause to be a forgery or an interpolation. This bold proposal has been defended by G. Scott (2003) and C. Veloso (2007), but see Halliwell (2011: 260–65) for a devastating critique.
+[^note-6]: An even more minimalist reading than the one here proposed would be to take the *katharsis* clause to be a forgery or an interpolation. This bold proposal has been defended by G. Scott (2003)[^scott-2003] and C. Veloso (2007)[^veloso-2007], but see Halliwell (2011: 260–65)[^halliwell-2011] for a devastating critique.
 
-[^note-7]: On that theme, see also Belfiore (1992: 238–253); Munteanu (2012: 90–103). On the related theme of the paradox of fiction, see Dow (2021).
+[^note-7]: On that theme, see also Belfiore (1992: 238–253)[^belfiore-1992]; Munteanu (2012: 90–103)[^munteanu-2012]. On the related theme of the paradox of fiction, see Dow (2021)[^dow-2021].
 
 [^note-8]: Iamblichus, *On Mysteries* I.11.37-38; Proclus, *Commentary on Plato’s Republic* 10.42, and 49–50. These passages are conveniently translated in Janko 1987: see F55 and F56.
 
-[^note-9]: And indeed some scholars have attributed such a view to Aristotle; see F. Trivigno (2020) for a in-depth defense of this reading.
+[^note-9]: And indeed some scholars have attributed such a view to Aristotle; see F. Trivigno (2020)[^trivigno-2020] for a in-depth defense of this reading.
 
-[^note-10]: For a more detailed defense of this reading, see Destrée 2019; for a quite different interpretation, see Halliwell (2008 : 307–331). On comedy, see also Heath (1989) and Golden (1984).
+[^note-10]: For a more detailed defense of this reading, see Destrée 2019; for a quite different interpretation, see Halliwell (2008 : 307–331)[^halliwell-2008]. On comedy, see also Heath (1989)[^heath-1989] and Golden (1984)[^golden-1984].
 
-[^note-11]: Most contributors of the important volume edited by Rorty (1992) go along the same lines, as does the German commentary by Schmitt (2008).
+[^note-11]: Most contributors of the important volume edited by Rorty (1992)[^rorty-1992] go along the same lines, as does the German commentary by Schmitt (2008)[^schmitt-2008].
 
-[^note-12]: For other arguments against such ethical readings, see Lear (1988), Ferrari (1999), and Ford (1995, 2015).
+[^note-12]: For other arguments against such ethical readings, see Lear (1988)[^lear-1988], Ferrari (1999)[^ferrari-1999], and Ford (1995, 2015)[^ford-1995][^ford-2015].
 
-[^note-13]: The ethical reading of music has been defended by Carnes Lord (1982), and more recently by Elizabeth Jones (2012). It has been criticized by David Depew (1991), who takes the view that music for the sake of intelligence should be taken as a kind of preparation to the philosophical, “contemplative”, use of intelligence. The version here suggested has been defended in detail in Destrée (2018).
+[^note-13]: The ethical reading of music has been defended by Carnes Lord (1982)[^lord-1982], and more recently by Elizabeth Jones (2012)[^jones-2012]. It has been criticized by David Depew (1991)[^depew-1991], who takes the view that music for the sake of intelligence should be taken as a kind of preparation to the philosophical, “contemplative”, use of intelligence. The version here suggested has been defended in detail in Destrée (2018)[^destrée-2018].
 
-[^note-14]: On this, see Edith Hall (1996), and the response of Malcolm Heath (2009).
+[^note-14]: On this, see Edith Hall (1996)[^hall-1996], and the response of Malcolm Heath (2009)[^heath-2009].
 
 [^aristotle-nd]: Aristotle, *Nicomachean Ethics* (NE), *Eudemian Ethics* (EE), *De Anima*, *Parts of Animals*, *Rhetoric*, *Politics*, fragments of *On Poets*, and fragments of *Homeric Problems*; any edition. All translations by the author of this entry unless otherwise noted.
 

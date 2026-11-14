@@ -34,7 +34,7 @@ Indeed, as we will see, a version of the Proof Interpretation is implicit alread
 
 ### 1.2 Interpretation, Explanation, and Names
 
-As Sundholm (1983: 159) points out, in the terms “BHK-Interpretation” and “Proof Interpretation” it would be appropriate to replace “Interpretation” by “Explanation”. For in a logical-mathematical context, “interpretation” has come to refer to the interpretation of one formal theory in another.[^note-1] An interpretation of a formal system $U$ in a formal system $V$ is given by a translation $'$ of formulas of $U$ to formulas of $V$ that preserves provability:[^note-2]
+As Sundholm (1983: 159)[^sundholm-1983] points out, in the terms “BHK-Interpretation” and “Proof Interpretation” it would be appropriate to replace “Interpretation” by “Explanation”. For in a logical-mathematical context, “interpretation” has come to refer to the interpretation of one formal theory in another.[^note-1] An interpretation of a formal system $U$ in a formal system $V$ is given by a translation $'$ of formulas of $U$ to formulas of $V$ that preserves provability:[^note-2]
 
 $$ \textrm{If } U \vdash A \textrm{ then } V \vdash A' $$
 
@@ -44,7 +44,7 @@ While accepting Sundholm’s point, we keep the terms themselves, considering th
 
 The name “Proof Interpretation” for the explanation that Heyting published in the 1930s and later seems to have made its first appearance in print only in 1973, in papers by van Dalen and Kleene, presented at the same conference (van Dalen 1973a; Kleene 1973)[^kleene-1973]. Heyting himself spoke simply of the “interpretation” (1958A: 107; 1974: 87) or “the intuitionistic interpretation” (1958A: 110) of logic.
 
-The name “BHK-Interpretation” was coined by Troelstra (1977: 977), where “K” initially stood for “Kreisel” (because of Kreisel 1962)[^kreisel-1962], later for “Kolmogorov”, e.g., in Troelstra 1990: 6; this replacement is, in keeping with Sundholm’s point, a correction.
+The name “BHK-Interpretation” was coined by Troelstra (1977: 977)[^troelstra-1977], where “K” initially stood for “Kreisel” (because of Kreisel 1962)[^kreisel-1962], later for “Kolmogorov”, e.g., in Troelstra 1990: 6; this replacement is, in keeping with Sundholm’s point, a correction.
 
 ## 2. Brouwer’s Views on Logic in 1907 and 1908
 
@@ -94,7 +94,7 @@ Different readings of this concise passage have been proposed. According to one,
 
 - $(\alpha)$ Brouwer points out in the above lines that if the conditions and specifications for $A$ are given, then we try to add more information in such a way that, after a certain amount of constructional activity, we can really carry out a construction of $A$ which respects the specifications. Once this is accomplished, we can turn to the “implication” construction for $B$, which yields the construction for $B$ and to the required embedding of the structure for $A$ into the structure for $B$. (van Dalen 2004: 250–251)[^dalen-2004]
 
-According to interpretation $\alpha$, $A \rightarrow B$ just means $A \wedge B$ with the extra information that the construction for $B$ was obtained from that for $A$. On this reading $A \rightarrow B$ can be asserted only after a construction for $A$ has been found. The idea is clear: namely, to avoid hypothetical constructions, and the use of logic they require, by insisting that a construction be supplied that proves the antecedent. (As will be explained in Section 2.1 of the supplementary document Objections to the Proof Interpretation, Freudenthal (1937b) too has suggested this strategy, albeit with a different motivation than this passage in Brouwer’s dissertation.) But, as van Dalen also notices, it is also in effect a rejection of the hypothetical judgement in the general case where one does not know whether there is a construction for $A$.
+According to interpretation $\alpha$, $A \rightarrow B$ just means $A \wedge B$ with the extra information that the construction for $B$ was obtained from that for $A$. On this reading $A \rightarrow B$ can be asserted only after a construction for $A$ has been found. The idea is clear: namely, to avoid hypothetical constructions, and the use of logic they require, by insisting that a construction be supplied that proves the antecedent. (As will be explained in Section 2.1 of the supplementary document Objections to the Proof Interpretation, Freudenthal (1937b)[^freudenthal-1937b] too has suggested this strategy, albeit with a different motivation than this passage in Brouwer’s dissertation.) But, as van Dalen also notices, it is also in effect a rejection of the hypothetical judgement in the general case where one does not know whether there is a construction for $A$.
 
 An alternative reading is $\beta$:
 
@@ -324,7 +324,7 @@ $$ \textrm{If } U \vdash_{\mathbf{H}} \phi \textrm{ then } U^* \vdash_{\mathbf{B
 
 where $U$ is a set of axioms of $\mathbf{H}$, and $U^*$ the set of its translations (which Kolmogorov shows to be derivable in $\mathbf{B})$.
 
-Kolmogorov’s technical result anticipated Gödel’s and Gentzen’s “double negation translations” for arithmetic (see below), all the more so since he also made quite concrete suggestions how to treat predicate logic. As Hesseling (2003: 239) points out, however, to see Kolmogorov’s result as a translation into intuitionistic mathematics is slightly different from his own way of seeing it. Kolmogorov saw it as a translation into a domain of “pseudomathematics”; but although he did not explicitly identify that as part of intuitionistic mathematics, he could have done so.
+Kolmogorov’s technical result anticipated Gödel’s and Gentzen’s “double negation translations” for arithmetic (see below), all the more so since he also made quite concrete suggestions how to treat predicate logic. As Hesseling (2003: 239)[^hesseling-2003] points out, however, to see Kolmogorov’s result as a translation into intuitionistic mathematics is slightly different from his own way of seeing it. Kolmogorov saw it as a translation into a domain of “pseudomathematics”; but although he did not explicitly identify that as part of intuitionistic mathematics, he could have done so.
 
 Kolmogorov’s strategy to obtain a (fragment) of formalized intuitionistic logic was to start with a classical system and isolate an intuitionistically acceptable system from it. (Note that, although Kolmogorov refers to *Principia Mathematica*, he did not take it as his point of departure.) This might (roughly) be described as the method of crossing out, which is also what Heyting would do in 1928 (see below). Given the task Kolmogorov set himself, it is a natural approach. Kolmogorov’s criterion whether to keep an axiom was whether a proposition has an “intuitive foundation” or “possesses intuitive obviousness” (van Heijenoort 1967: 421, 422)[^heijenoort-1967]; on implication he said,
 
@@ -424,7 +424,7 @@ As Heyting emphasizes here, the theorems of *Principia Mathematica* also had to 
 
 In Mints 2006 (section 2) it has been observed that Russell 1903 (section 18) anticipated intuitionistic propositional logic by identifying Peirce’s law and using it to separate out the principles that imply PEM. It seems that Heyting did not realize this at the time; among the references given in Heyting 1930, Russell’s book does not appear.
 
-Heyting shows the independence of his axioms using a method given by Bernays (1926); this use of a non-intended interpretation for metamathematical purposes Heyting accepted without hesitation, but he remarked that such metamathematics is “less important for us [intuitionists]” than the approach where all formulas are considered to be meaningful propositions (Heyting 1930: 43 [Mancosu 1998: 312])[^heyting-1930][^mancosu-1998].
+Heyting shows the independence of his axioms using a method given by Bernays (1926)[^bernays-1926]; this use of a non-intended interpretation for metamathematical purposes Heyting accepted without hesitation, but he remarked that such metamathematics is “less important for us [intuitionists]” than the approach where all formulas are considered to be meaningful propositions (Heyting 1930: 43 [Mancosu 1998: 312])[^heyting-1930][^mancosu-1998].
 
 Heyting states Glivenko’s two theorems from 1929, without giving proofs.
 
@@ -464,7 +464,7 @@ Heyting goes on to explain that, although on these explanations there is a third
 
 > This case could be denoted by $p'$, but it must be realized that $p'$ will hardly ever be a definitive statement, since it is necessary to take into account the possibility that the proof of either $p$ or $\neg p$ might one day succeed. If one does not wish to risk having to retract what one has said, in the case $p'$ one should not state anything at all. (Heyting 1930C: 960 [Mancosu 1998: 307])[^mancosu-1998]
 
-This refutes the contention of Barzin and Errera. Note that these points are all in Brouwer’s writings, too. Indeed, Heyting (1932: 121) objects to Barzin and Errera’s term “Heyting’s logic”, saying that “all the fundamental ideas of that logic come from Brouwer” (translation mine). But Heyting’s papers will have found a wider audience than Brouwer’s. Brouwer, in turn, was very positive about the paper Heyting 1930C, and wrote to the editor of the journal in which it appeared (Brouwer to de Donder, October 9, 1930):
+This refutes the contention of Barzin and Errera. Note that these points are all in Brouwer’s writings, too. Indeed, Heyting (1932: 121)[^heyting-1932] objects to Barzin and Errera’s term “Heyting’s logic”, saying that “all the fundamental ideas of that logic come from Brouwer” (translation mine). But Heyting’s papers will have found a wider audience than Brouwer’s. Brouwer, in turn, was very positive about the paper Heyting 1930C, and wrote to the editor of the journal in which it appeared (Brouwer to de Donder, October 9, 1930):
 
 > While preparing a note on intuitionism for the Bulletin de l’Académie Royale de Belgique,[^note-29] I was pleasantly surprised to see the publication of a note by my student Mr. Heyting, which elucidates in a magisterial manner the points that I wanted to shed light upon myself. I believe that after Heyting’s note little remains to be said. (van Dalen 2005: 676)[^dalen-2005]
 
@@ -549,7 +549,7 @@ On Heyting’s explanation, however, a justification of *Ex Falso* parallel to K
 
 Clearly there is a difference between Kolmogorov’s own explanation and Heyting’s explanation in Kolmogorov’s terms. Where Heyting says that a proof of $\neg a$ establishes a reduction of the solution of any problem to that of $a$, Kolmogorov had said that it established that the problem of reducing the solution of any problem to that of $a$ has become without content. One has the impression that Heyting in his explanation of *Ex Falso* tries to approximate as closely as possible the explanation for ordinary implications in terms of a concrete constructive connection between antecedent and consequent; this is even clearer in the explanation he would give of *Ex Falso* in 1956 (see section 5.4 below). (Note that neither Heyting nor Kolmogorov ever justified *Ex Falso* by giving the traditional argument (based on the disjunctive syllogism) also stated in Glivenko’s paper from 1929; see section 4.3 above.)
 
-More generally, the explanation of logic in Heyting 1934 is for the most part given Kolmogorov style, and not Heyting’s own in terms of intentions and their fulfillment. (The latter is only mentioned for its explanation of the implication (Heyting 1934: 14)[^heyting-1934].) Perhaps the reason for this is that Heyting (1934: 14) agrees with Kolmogorov (1932: 58) that the interpretation in terms of problems and solutions provides a useful interpretation Heyting’s formal system also for non-intuitionists (while for intuitionists they come to the same thing). In his short note 1932C, titled “The application of intuitionistic logic to the definition of completeness of a logical calculus”, Heyting uses Kolmogorov’s interpretation instead of his own. Given the subject matter, that is what one might expect.
+More generally, the explanation of logic in Heyting 1934 is for the most part given Kolmogorov style, and not Heyting’s own in terms of intentions and their fulfillment. (The latter is only mentioned for its explanation of the implication (Heyting 1934: 14)[^heyting-1934].) Perhaps the reason for this is that Heyting (1934: 14)[^heyting-1934] agrees with Kolmogorov (1932: 58)[^kolmogorov-1932] that the interpretation in terms of problems and solutions provides a useful interpretation Heyting’s formal system also for non-intuitionists (while for intuitionists they come to the same thing). In his short note 1932C, titled “The application of intuitionistic logic to the definition of completeness of a logical calculus”, Heyting uses Kolmogorov’s interpretation instead of his own. Given the subject matter, that is what one might expect.
 
 ### 5.4 Heyting 1956
 
@@ -616,17 +616,17 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [^note-6]: See Brouwer 1924N: 2 [van Heijenoort 1967: 336][^heijenoort-1967]; 1929A: 423–424 [Mancosu 1998: 49–50][^mancosu-1998]; 1949C: 492; 1952B: 510–511.
 
-[^note-7]: According to Van Dalen (1999: 106–107), it is likely that Brouwer (who entered university in 1897) learned this interpretation of PEM directly or indirectly from the teacher of logic at Amsterdam University at the time, C. Bellaar-Spruyt (1842–1901), who gave as example:
+[^note-7]: According to Van Dalen (1999: 106–107)[^dalen-1999], it is likely that Brouwer (who entered university in 1897) learned this interpretation of PEM directly or indirectly from the teacher of logic at Amsterdam University at the time, C. Bellaar-Spruyt (1842–1901), who gave as example:
 
 > If you deny that Alexander was a great man, well, then you have to acknowledge that he was not a great man. Both opposite judgements, A. was a great man and A. was not a great man, cannot both be false.
 
-[^note-8]: Strictly speaking, Brouwer there considers not correctness and absurdity of propositions as such but of properties of a mathematical system; later (1949C: 1245; 1981A: 12), he gives the argument directly in terms of what he there calls “assertions”. But for example Wavre (1926) already adopted this direct reading, as did Heyting (1930C).
+[^note-8]: Strictly speaking, Brouwer there considers not correctness and absurdity of propositions as such but of properties of a mathematical system; later (1949C: 1245; 1981A: 12), he gives the argument directly in terms of what he there calls “assertions”. But for example Wavre (1926)[^wavre-1926] already adopted this direct reading, as did Heyting (1930C).
 
 [^note-9]: Brouwer’s actual theorem is about spreads, which are constructed from trees over natural numbers and in certain cases reduce to them. Also, a condition not mentioned by Brouwer is that the bar be decidable. This condition is implicitly fulfilled in the context in which the proofs of 1924 and 1927 are presented, because there the bar is defined by application of the weak continuity principle for choice sequences. This is not the case in the presentation of 1954, which is defective. See Kleene and Vesley 1965: 87–88, and Brouwer 1981A: 102.
 
-[^note-10]: Veldman (1982) has shown that for the continuity (as distinct from the uniform continuity) of these functions, the bar theorem is not needed. Continuity of course suffices for Brouwer’s strong counterexample.
+[^note-10]: Veldman (1982)[^veldman-1982] has shown that for the continuity (as distinct from the uniform continuity) of these functions, the bar theorem is not needed. Continuity of course suffices for Brouwer’s strong counterexample.
 
-[^note-11]: Dummett (2000: 32) emphasizes that the conviction that there will always be open problems does not suffice to turn weak counterexamples constructed by the oscillatory number technique into strong ones. For that conviction is, he says, itself not a theorem or even a mathematical proposition.
+[^note-11]: Dummett (2000: 32)[^dummett-2000] emphasizes that the conviction that there will always be open problems does not suffice to turn weak counterexamples constructed by the oscillatory number technique into strong ones. For that conviction is, he says, itself not a theorem or even a mathematical proposition.
 
 [^note-12]: , the infinite form $\forall x\in \mathbf{R}(P(x) \vee \neg P(x))$ is contradictory for certain *P*; but that is, as Brouwer remarks, not relevant to the project of devising finitary consistency proofs (Brouwer 1928A2: 378 [Mancosu 1998: 43])[^mancosu-1998].
 
@@ -676,9 +676,9 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^note-33]: 33. One has the impression that Gödel (1933f: 39n.1 [1986: 301n.1]) misses this point when he comments
 
-> Kolmogorov (1932) has given a somewhat different interpretation of the intuitionistic propositional calculus, without, to be sure, specifying a precise formalism.
+> Kolmogorov (1932)[^kolmogorov-1932] has given a somewhat different interpretation of the intuitionistic propositional calculus, without, to be sure, specifying a precise formalism.
 
-[^note-34]: 34. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159) is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.
+[^note-34]: 34. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159)[^veldman-1976] is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.
 
 [^note-35]: 35. The reference was in Carnaps’s *Logische Syntax der Sprache* (Johansson to Heyting, November 15, 1935.)
 
@@ -688,7 +688,7 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^note-38]: 38. This emends van Atten et al. 2014: 273 and van Atten & Sundholm 2016: 36, who stated that “to the best of our knowledge, the meeting never took place”.
 
-[^note-39]: 39. The term “*Katalogisierung*” in this context is sometimes translated as “cataloguing” and more often as “locating”; the former seems to fit better here. Freudenthal’s definition is in fact proposed as an alternative to one that Brouwer made in a topological context (Brouwer 1926B2: 855). Freudenthal (1937a: 110) proves that the two definitions are equivalent.
+[^note-39]: 39. The term “*Katalogisierung*” in this context is sometimes translated as “cataloguing” and more often as “locating”; the former seems to fit better here. Freudenthal’s definition is in fact proposed as an alternative to one that Brouwer made in a topological context (Brouwer 1926B2: 855). Freudenthal (1937a: 110)[^freudenthal-1937a] proves that the two definitions are equivalent.
 
 [^note-40]: 40. A technical mistake in Heyting’s manuscript had been corrected by Brouwer. See van Dalen 2011: 393 for the letter, and also the extract and related remarks in Brouwer 1942A.
 
@@ -704,7 +704,7 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^note-45]: 45. Heyting (1958C: 111) remarks that “from the intuitionistic point of view this restriction is difficult to account for”, and seems to overlook that Van Dantzig addresses the classical mathematician (van Dantzig 1947b: 1092)[^dantzig-1947b].
 
-[^note-46]: 46. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956) pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel *1933o and *1941)[^gödel-1941].
+[^note-46]: 46. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956)[^gilmore-1956] pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel *1933o and *1941)[^gödel-1941].
 
 [^brouwer’s-1997a]: Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen 1997a; Gödel’s, according to the bibliography in Gödel 1986, Gödel 1990, Gödel 1995 (except for Gödel 1970); Heyting’s, according to the bibliography Troelstra et al. 1981 (except for Heyting 1928).
 

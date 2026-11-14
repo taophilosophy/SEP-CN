@@ -343,7 +343,7 @@ Note that for Suárez the ruler’s power is not the result of a transfer or ali
 
 The contractarian reading of Suárez has recently been criticized by Thomas Pink and Valentin Braeckman. Braeckman 2025 takes modern social contract theory, as found in Hobbes, Locke and Rousseau to hold as essential beliefs that the legitimacy of political authority is based on consent and that the state is a natural, not an artificial construct. None of these beliefs, he argues, is attributable to Suárez.
 
-Thomas Pink goes well beyond a rejection of a contractarian reading of Suárez. According to Pink (2018), for Suárez, the coercive authority of the state and the Church is divinely derived rather than consent based. Both the state and the Church use their power to punish their members in order to educate them, that is, to coerce them to adopt true beliefs which they may make obligatory. These beliefs are conducive to natural and supernatural happiness respectively. At the political level, the only role of consent is to determine who among the citizens will represent to fellow citizens “the good of a human community, and exercise authority on its behalf” (Pink 2018, 19)[^pink-2018]. Pink argues that for Suárez the state and the Church not only need each other to accomplish their aims but form a union resembling that between the body and the soul.
+Thomas Pink goes well beyond a rejection of a contractarian reading of Suárez. According to Pink (2018)[^pink-2018], for Suárez, the coercive authority of the state and the Church is divinely derived rather than consent based. Both the state and the Church use their power to punish their members in order to educate them, that is, to coerce them to adopt true beliefs which they may make obligatory. These beliefs are conducive to natural and supernatural happiness respectively. At the political level, the only role of consent is to determine who among the citizens will represent to fellow citizens “the good of a human community, and exercise authority on its behalf” (Pink 2018, 19)[^pink-2018]. Pink argues that for Suárez the state and the Church not only need each other to accomplish their aims but form a union resembling that between the body and the soul.
 
 In the last few years, Suárez has been perceived as the patron of diametrically opposite views in the domains of politics and law. Elisabeth Rain Kincaid sees in Suárez’s theory of customary law a resource against views that empower the executive to act against and above the law, views allegedly favoured by supporters and advisors of the Trump administration in the United States (Kincaid 2024, 2–5)[^kincaid-2024]. On her reading, if, as she takes Suárez to hold, citizens are able to legislate through their acts ‘from below’, this would allow them to engage with law in a way capable of countering legal authoritarianism from above. The legal theorist Adrian Vermeule, a Catholic integralist like Pink, has charged that Kincaid misreads Suárez as a social contract proponent, insisting that for Suárez the community and the citizenry are not law makers (Vermeule 2024)[^vermeule-2024]. These disagreements show that those drawing on the Christian philosophical and theological tradition have Suárez relevant to present-day constitutional debates, particularly in Trump’s America, where opposing sides have appealed to Suárez in support of their positions.
 
@@ -435,7 +435,7 @@ Cited from Martini 1998: 489–490, with thanks to Luisa Paternicò for providin
 
 [^note-9]: The word “ontologia” was already used by Rudolf Golcenius in his *Lexicon philosophicum* (1613), that is, during Suárez’s own lifetime. Nevertheless, it seems to have moved into broader currency only after the publication of Christian Wolff’s *Philosophia prima sive ontologia* (1730).
 
-[^note-10]: For a discussion of Suarez’s concepiton of the categories, see Perler (2025).
+[^note-10]: For a discussion of Suarez’s concepiton of the categories, see Perler (2025)[^perler-2025].
 
 [^note-11]: In the preface to *DM*, Suárez offers the following discursive overview of the entire treatise:
 
@@ -443,21 +443,21 @@ Cited from Martini 1998: 489–490, with thanks to Luisa Paternicò for providin
 
 [^note-12]: See Duarte and Penner (2025) for a collection of papers on core aspects of the *Metaphysical Disputations*. In this volume, see Novovotný (2025) for an overview of the scope and character of this work.
 
-[^note-13]: For a comprehensive and illuminating account of Suárez’s complex but imporant treatment of extrinsic denomination, see Duarte (2025).
+[^note-13]: For a comprehensive and illuminating account of Suárez’s complex but imporant treatment of extrinsic denomination, see Duarte (2025)[^duarte-2025][^duarte-2025-2].
 
-[^note-14]: Because of the intricacy of his approach to universals, not all scholars have agreed about the character of Suárez’s nominalism; as indicated in the text, however, in some cases scholars may be at cross purposes with one another, due to the varying uses of the word ‘nominalism’ among Suárez’s predecessors. For an especially nuanced view, see Menn (1997); see also Ross (1962) and South (2002).
+[^note-14]: Because of the intricacy of his approach to universals, not all scholars have agreed about the character of Suárez’s nominalism; as indicated in the text, however, in some cases scholars may be at cross purposes with one another, due to the varying uses of the word ‘nominalism’ among Suárez’s predecessors. For an especially nuanced view, see Menn (1997)[^menn-1997]; see also Ross (1962)[^ross-1962] and South (2002)[^south-2002].
 
-[^note-15]: For a fuller characterization and assessment of Suárez’s nominalism, see Shields (2025). For a statement and assessement of what he righly calls Suárez’s “master argument” for nominalism, see Secada (2014).
+[^note-15]: For a fuller characterization and assessment of Suárez’s nominalism, see Shields (2025)[^shields-2025]. For a statement and assessement of what he righly calls Suárez’s “master argument” for nominalism, see Secada (2014)[^secada-2014].
 
 [^note-16]: The ubiquitous scholastic phrase *per se*, here rendered by “as such”, is often, as here, a bit difficult to capture in English. Sometimes, but not always, it is meant to be contrasted with *per accidens*, “accidentally” or “co-incidentally”. In this definition of cause, *per se* functions to rule out cases where *x* depends on *y*, but not insofar as *y* is described as *y*. Thus, the town winemaker is also the town baker; it is perhaps true but misleading to say that the town solicitor was made drunk by ingesting the baker’s wares.
 
-[^note-17]: For a clear and serviceable introduction to Suárez’s basic approach to causation, see Schmid (2022).
+[^note-17]: For a clear and serviceable introduction to Suárez’s basic approach to causation, see Schmid (2022)[^schmid-2022].
 
 [^note-18]: Pasnau 2004 collects and discusses a series of like sentiments. For a more detailed discussion of Suárez’s treatment of substantial form, see Shields 2012a and 2012b.
 
-[^note-19]: For a discussion of Suárez’s relation to the complicated question of whether substances have one or a plurality of substantial forms, see Embry (2025). Embry suggests, against the dominant view, according to which Suárez endorses unitarianism about substantial form, that his position is in fact more complicated and qualified, implicating him in a form of ‘partial pluralism’.
+[^note-19]: For a discussion of Suárez’s relation to the complicated question of whether substances have one or a plurality of substantial forms, see Embry (2025)[^embry-2025]. Embry suggests, against the dominant view, according to which Suárez endorses unitarianism about substantial form, that his position is in fact more complicated and qualified, implicating him in a form of ‘partial pluralism’.
 
-[^note-20]: For a detailed account of Suárez’s understanding of causal influx in the case of final causation, see Richardson (2025); for an explication of the difficult notion of metaphorical motion as it pertains to Suárez’s approach to final causation, see Capriati (2025).
+[^note-20]: For a detailed account of Suárez’s understanding of causal influx in the case of final causation, see Richardson (2025)[^richardson-2025]; for an explication of the difficult notion of metaphorical motion as it pertains to Suárez’s approach to final causation, see Capriati (2025)[^capriati-2025].
 
 [^note-21]: Suárez’s treatment of *entia rationis* remains a matter of scholarly dispute. See Novtoný (2013) and (2019).
 

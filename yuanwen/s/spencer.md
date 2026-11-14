@@ -182,7 +182,7 @@ Bentham, Jeremy | consequentialism | consequentialism: rule | Darwinism | evolut
 
 [^note-8]: The latter essay was part of his exchange with Weismann.
 
-[^note-9]: Kennedy (1978: 101). Whether or not Spencer believed that societies were social organisms much like biological organisms has been a matter of controversy. In his late “The Relations of Biology, Psychology and Sociology” (1896: 169–70), he emphasizes that the analogy is not to be “taken as the basis for sociological interpretations” and that, as he had previously insisted in *The Principles of Sociology*, it was intended simply to underscore the “parallelism” of mutually dependent parts in both organisms and societies.
+[^note-9]: Kennedy (1978: 101)[^kennedy-1978]. Whether or not Spencer believed that societies were social organisms much like biological organisms has been a matter of controversy. In his late “The Relations of Biology, Psychology and Sociology” (1896: 169–70), he emphasizes that the analogy is not to be “taken as the basis for sociological interpretations” and that, as he had previously insisted in *The Principles of Sociology*, it was intended simply to underscore the “parallelism” of mutually dependent parts in both organisms and societies.
 
 [^note-10]: In his earlier, pre-evolutionary *Social Statics* (1851), Spencer explained ethical development, combining moral sense psychology and phrenology. See Weinstein 1998 (Ch. 2). Also see Young 1970. For Lamarckism, see the entry on Lamarck on The Victorian Web pages: [Jean-Baptiste Lamarck](http://www.victorianweb.org/science/lamarck1.html). For phrenology, see John van Wyhe, [The History of Phrenology on the Web](http://www.historyofphrenology.org.uk/).
 
@@ -194,7 +194,7 @@ Bentham, Jeremy | consequentialism | consequentialism: rule | Darwinism | evolut
 
 [^note-14]: For Huxley’s accusation that Spencer’s moral reasoning is fallacious because it commends the “gladiatorial theory of existence,” see his controversial 1893 Romanes Lecture, “Evolutionary Ethics” (Huxley 1893 [1929: 80–2])[^huxley-1893]. Also see Spencer’s “M. De Laveleye’s Error” (Spencer 1898: 116).
 
-[^note-15]: Also see Sidgwick 1880 and 1902 for more of Sidgwick’s assessment of Spencer. For Spencer’s response to Sidgwick, see, for instance, Spencer 1881. Also see Weinstein (2000) for Spencer’s undervalued role in Sidgwick’s thinking.
+[^note-15]: Also see Sidgwick 1880 and 1902 for more of Sidgwick’s assessment of Spencer. For Spencer’s response to Sidgwick, see, for instance, Spencer 1881. Also see Weinstein (2000)[^weinstein-2000] for Spencer’s undervalued role in Sidgwick’s thinking.
 
 [^note-16]: See especially, Sidgwick 1907, 467ff.
 
@@ -206,7 +206,7 @@ Bentham, Jeremy | consequentialism | consequentialism: rule | Darwinism | evolut
 
 [^note-20]: Steiner’s admiration of Spencer for anticipating his own version of left libertarianism, see Steiner 1983. See also Steiner 1981.
 
-[^note-21]: For a historical overview of liberal utilitarianism’s critics, many of whom have recently repeated unknowingly what earlier ones had already said, see the Introduction to Weinstein 1998. For favorable accounts of Millian liberal utilitarianism, see Gray 1983 and Riley 1988. Gray (1989a) recanted his defense of Mill in particular, and liberal utilitarianism in general.
+[^note-21]: For a historical overview of liberal utilitarianism’s critics, many of whom have recently repeated unknowingly what earlier ones had already said, see the Introduction to Weinstein 1998. For favorable accounts of Millian liberal utilitarianism, see Gray 1983 and Riley 1988. Gray (1989a)[^gray-1989a] recanted his defense of Mill in particular, and liberal utilitarianism in general.
 
 [^note-22]: Spencer was clearly overly sanguine in expecting that social evolution was morally perfecting. But his perfectionism was grounded, as I have suggested, in his conviction that “empirical” utilitarianism was gradually and relentlessly giving way to “rational” utilitarianism, which his embrace of Lamarckism encouraged. If our acquired mental and moral talents were inheritable no less than our physical ones, then, so Spencer believed, succeeding generations would become increasingly motivated to act by utilitarian reasons as well as increasingly capable of making the requisite utilitarian calculations.
 

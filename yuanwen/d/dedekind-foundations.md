@@ -200,20 +200,20 @@ If we look at Dedekind’s contributions from such a perspective, the sum total 
 | 1893 | Dirichlet, P.G.L., *Vorlesungen über Zahlentheorie*, fourth edition, edited and with yet further supplements by R. Dedekind; Braunschweig: Vieweg; reprinted by Chelsea: New York, 1968. |
 | 1897 | “Über Zerlegungen von Zahlen durch ihre größten gemeinsamen Teiler”; reprinted in Dedekind (1930–32), Vol. 2, pp. 103–147. |
 | 1900 | “Über die von drei Moduln erzeugte Dualgruppe”; reprinted in Dedekind (1930–32), Vol. II, pp. 236–271. |
-| 1901a | *Essays on the Theory of Numbers*, W.W. Beman, ed. and trans., Chicago: Open Court Publishing Company, 1901; reprinted by New York: Dover, 1963; English version of Dedekind (1965); essays also included in Ewald (1996a), pp. 756–779 and 787–833, and in Hawking (2005a), pp. 901–964. |
+| 1901a | *Essays on the Theory of Numbers*, W.W. Beman, ed. and trans., Chicago: Open Court Publishing Company, 1901; reprinted by New York: Dover, 1963; English version of Dedekind (1965); essays also included in Ewald (1996a)[^ewald-1996a], pp. 756–779 and 787–833, and in Hawking (2005a)[^hawking-2005a], pp. 901–964. |
 | 1901b | “Continuity and Irrational Numbers”, in (Dedekind 1901a), pp. 1–27; English trans. of Dedekind (1872). |
 | 1901c | “The Nature and Meaning of Numbers”, in (Dedekind 1901a), pp. 29–115; English trans. of Dedekind (1888a). |
 | 1930–32 | *Gesammelte Mathematische Werke*, Vols. 1–3, R. Fricke, E. Noether & Ö. Ore, eds., Braunschweig: Vieweg; reprinted (except for the separately published Dedekind 1964) by Chelsea: New York, 1969. |
 | 1937 | Noether, E. & Cavaillès, J., eds., *Briefwechsel Cantor-Dedekind*, Paris: Hermann. |
 | 1964 | *Über die Theorie der ganzen algebraischen Zahlen. Nachdruck des elften Supplements* (from Dirichlet 1893), with a preface by B. L. van der Waerden, Braunschweig: Vieweg. |
 | 1965 | *Was sind und was sollen die Zahlen?/Stetigkeit und irrationale Zahlen. Studienausgabe*, G. Asser, ed., Braunschweig: Vieweg; later German version of Dedekind (1901a). |
-| 1981 | “Eine Vorlesung über Algebra”, in Scharlau (1981a), pp. 59–100. |
+| 1981 | “Eine Vorlesung über Algebra”, in Scharlau (1981a)[^scharlau-1981a], pp. 59–100. |
 | 1982 | “Unveröffentlichte algebraische Arbeiten Richard Dedekinds aus seiner Göttinger Zeit, 1855–1858”, *Archive for History of Exact Sciences* 27:4, 335–367. |
 | 1985 | *Vorlesungen über Diffential- und Integralrechnung 1861/62*, based on notes by H. Bechtold, M.-A. Knus & W. Scharlau, eds., Braunschweig: Vieweg. |
 | 1986 | Lipschitz, Rudolf, *Briefwechsel mit Cantor, Dedekind, Helmholtz, Kronecker, Weierstrass und anderen*, W. Scharlau, ed., Braunschweig: Vieweg. |
 | 1991 | Meschkowski, H. & Nilson, W., eds., *Georg Cantor. Briefe*, Berlin: Springer; especially “Die Periode des Briefwechsels mit Dedekind–die Entstehung der Mengenlehre”, pp. 29–66. |
 | 1995 | *What Are Numbers and What Should They Be?* H. Pogorzelski, W. Ryan & W. Snyder, eds. and trans., Orono, ME: Research Institute for Mathematics; revised English trans. of Dedekind (1888). |
-| 1996a | “Julius Wilhelm Richard Dedekind (1831–1916)”, in Ewald (1996a), Vol. 2, pp. 753–837; English trans. of various texts by Dedekind. |
+| 1996a | “Julius Wilhelm Richard Dedekind (1831–1916)”, in Ewald (1996a)[^ewald-1996a], Vol. 2, pp. 753–837; English trans. of various texts by Dedekind. |
 | 1996b | *Theory of Algebraic Integers*, J. Stillwell, ed. and trans., Cambridge: Cambridge University Press; English trans. of Dedekind (1877). |
 | 1999 | Dirichlet, P.G.L., *Lectures on Number Theory*, with supplements by Richard Dedekind, J. Stillwell, ed. and trans., Providence: American Mathematical Society; English trans. of Dirichlet (1893). |
 | 2008 | *Richard Dedekind: La création des nombres*, H.B. Sinaceur, ed. and trans., Paris: Vrin; French trans. of various texts by Dedekind. |

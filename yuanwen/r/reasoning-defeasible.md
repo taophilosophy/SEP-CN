@@ -61,7 +61,7 @@ Philosophers have, for quite some time, been interested in defeasible obligation
 
 ### 2.6 Law
 
-Prakken (1997) book provides an extensive treatment of the contributions of techniques from nonmonotonic logic to the formal modeling of legal reasoning. See also Prakken and Sartor (1996, 1998), Hage et al. (1993), Hage (1997), Lodder (1999), Bench-Capon et al. (2004, 2009), and Sartor (2018). Kevin Ashley’s HYPO system (Ashley 1990)[^ashley-1990] employs defeasible reasoning in the study of case-based reasoning in the law.
+Prakken (1997) book provides an extensive treatment of the contributions of techniques from nonmonotonic logic to the formal modeling of legal reasoning. See also Prakken and Sartor (1996, 1998), Hage et al. (1993), Hage (1997)[^hage-1997], Lodder (1999), Bench-Capon et al. (2004, 2009), and Sartor (2018). Kevin Ashley’s HYPO system (Ashley 1990)[^ashley-1990] employs defeasible reasoning in the study of case-based reasoning in the law.
 
 See Komath on defeasible reasoning in Islamic law (Komath 2024)[^komath-2024].
 
@@ -182,7 +182,7 @@ Gerald Vreeswijk (Vreeswijk 1997)[^vreeswijk-1997] has built upon Dung’s frame
 
 Henry Prakken (Prakken 2010)[^prakken-2010] has expanded Dung’s model by including support as well as attack relations between arguments. Bart Verheij’s DefLog system (Verheij 2003, 2005)[^verheij-2003][^verheij-2005] makes use of a conditional to represent support and a negation operator to represent attack. Anthony Hunter, Sylwia Polberg, and Matthias Thimm (Hunter et al. 2020) have recently used epistemic graphs to represent both positive and negative interactions among arguments.
 
-Others have used probabilities to measure the comparative strength of arguments: Dung and Thang (2010), Verheij (2012), and Hunter (2013).
+Others have used probabilities to measure the comparative strength of arguments: Dung and Thang (2010), Verheij (2012)[^verheij-2012], and Hunter (2013)[^hunter-2013].
 
 Baroni et al. (2022) have begun exploring the relationship between formal argumentation theory and AGM belief revision theory.
 

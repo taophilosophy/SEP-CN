@@ -183,9 +183,9 @@ Boyle, Robert | Cordemoy, Géraud de | Descartes, René | La Forge, Louis de | L
 
 [^note-1]: Concerning Sturm’s biography see Gaab, Leich, & Löffladt 2004; Hermann & Platz 2003; Will 1757; Zedler 1731–1754; and Doppelmayr 1730, but see also the “Early Modern and Post-Kantian reception” of Sturm in the bibliography as well as the related entries in the German-speaking secondary literature listed in the bibliography.
 
-[^note-2]: For Sturm’s scientific method, see also Albrecht (in Gaab et al. 2004)[^gaab-2004], Blackwell (1997) and Henkel (2022, 74–82). For Sturm’s three-step process, see also Albrecht (1994: 347) and Albrecht, in Gaab et al. (2004: 132).
+[^note-2]: For Sturm’s scientific method, see also Albrecht (in Gaab et al. 2004)[^gaab-2004], Blackwell (1997)[^blackwell-1997] and Henkel (2022, 74–82)[^henkel-2022]. For Sturm’s three-step process, see also Albrecht (1994: 347)[^albrecht-1994] and Albrecht, in Gaab et al. (2004: 132).
 
-[^note-3]: For Sturm’s eclecticism, see especially Albrecht (1994), but also Ahnert (2003), Albrecht (2001), and Blackwell (1995 & 1997).
+[^note-3]: For Sturm’s eclecticism, see especially Albrecht (1994)[^albrecht-1994], but also Ahnert (2003)[^ahnert-2003], Albrecht (2001)[^albrecht-2001], and Blackwell (1995 & 1997).
 
 [^brucker-1766]: Brucker, Johann Jakob, 1766, *Historia critica philosophiae a tempore resuscitatarum in occidente literarum ad nostra tempora*, Bernh. Christoph. Breitkopf (Leipzig), Vol. IV, part 1, book 3, ch. 4, pp. 769–772.
 

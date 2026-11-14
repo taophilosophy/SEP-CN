@@ -248,7 +248,7 @@ culture | ethics: virtue
 
 [^note-4]: All references to the Guru Granth Sahib will be cited as: *Sri Guru Granth Sahib* (*SGGS*), followed by the page number. This is based on the standard paginated text of 1431 pages.
 
-[^note-5]: The Udasi and Nirmala schools are recognized as important precursors of the emergence of modern Sikh philosophy. Overviews of the schools can be found in entries in *The Encyclopedia of Sikhism* on “Nirmala” by Shamsher Singh Ashok (1997) and on “Udasi” by Madanjit Kaur (1998).
+[^note-5]: The Udasi and Nirmala schools are recognized as important precursors of the emergence of modern Sikh philosophy. Overviews of the schools can be found in entries in *The Encyclopedia of Sikhism* on “Nirmala” by Shamsher Singh Ashok (1997)[^ashok-1997] and on “Udasi” by Madanjit Kaur (1998)[^kaur-1998].
 
 [^note-6]: Works on Sikh philosophy published in Punjabi language during the 1980s were written in the shadow of a Sikh militant insurgency against the Indian State, which had a chilling effect on explorations of internal pluralism. *Sahaje Rachio Khalsa* and *Sikh Falsafe di Bhumika* reflect this trend towards identitarian frameworks.
 

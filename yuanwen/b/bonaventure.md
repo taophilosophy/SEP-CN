@@ -329,7 +329,7 @@ Anselm of Canterbury [Anselm of Bec] | Aristotle | Augustine of Hippo | divine: 
 
 [^note-3]: The English translation of the letter is taken from Monti 1994: 39–56. The edition may be found in *Quaracchi* VIII, 331–336 and in Delorme 1951.
 
-[^note-4]: Quoted in Bougerol, *Introduction* (1988), 178. T. Crowley (1974) erroneously thought Salimbene meant Bonaventure incepted as Master of Theology in 1248. On his chronology see also Quinn 1972, Quinn 1982, Monti 1994, Schlosser 2014. The most recent review of Bonaventure works is Horowski 2016.
+[^note-4]: Quoted in Bougerol, *Introduction* (1988), 178. T. Crowley (1974)[^crowley-1974] erroneously thought Salimbene meant Bonaventure incepted as Master of Theology in 1248. On his chronology see also Quinn 1972, Quinn 1982, Monti 1994, Schlosser 2014. The most recent review of Bonaventure works is Horowski 2016.
 
 [^note-5]: On the office of lector see Şenocak 2012: 54–59, 231–232 and elsewhere. On the Franciscan’s internal chair, see Dufeil 1972: 6–9 and elsewhere.
 

@@ -159,7 +159,7 @@ Note that the second volume of (Johnstone 2002a) contains a clear and exhaustive
 
 #### D.6 Research papers on various aspects of categorical logic
 
-D.6.1 Completeness results
+##### D.6.1 Completeness results
 
 - Awodey & Butz 2000
 - Boileau & Joyal
@@ -168,7 +168,7 @@ D.6.1 Completeness results
 - Makkai & Reyes 1995
 - Pitts 1987, 1989
 
-D.6.2 Categorical logic and constructivism
+##### D.6.2 Categorical logic and constructivism
 
 - Awodey & Warren 2009
 - Freyd & Friedman & Scedrov 1987
@@ -182,7 +182,7 @@ D.6.2 Categorical logic and constructivism
 - Taylor 1996
 - Van der Hoeven & Moerdijk 1984a, 1984b, 1984c
 
-D.6.3 Applications of categorical logic to set theory
+##### D.6.3 Applications of categorical logic to set theory
 
 - Blass & Scedrov 1983, 1989, 1992
 - Bunge 1974
@@ -191,7 +191,7 @@ D.6.3 Applications of categorical logic to set theory
 - Scedrov 1984
 - Tierney 1972
 
-D.6.4 Proof theory
+##### D.6.4 Proof theory
 
 - Blute & Scott 2004
 - Cockett & Seely 2001, 2018
@@ -200,7 +200,7 @@ D.6.4 Proof theory
 - Lambek 1986, 1989, 1994
 - Van Oosten 2008
 
-D.6.5 Modal logic and other logical systems
+##### D.6.5 Modal logic and other logical systems
 
 - Freyd 2002
 - Ghilardi 1989

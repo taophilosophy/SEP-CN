@@ -11,7 +11,7 @@ Peter Damian (Petrus Damianus or Petrus Damiani) was born in or around 1007 in R
 
 Peter Damian was a voluminous writer. The most important part of his production is his letters, which number 180. Damian’s treatises are also included in the collection of letters because they take the form of letters. The only one of Damian’s works which is considered to be of philosophical interest is Letter 119, which is better known as *De divina omnipotentia* (*On Divine Omnipotence*). This letter is addressed to Abbot Didier of Monte Cassino and his community, and it is dated at the beginning of 1065.
 
-The recent book-length studies on Damian’s life and thought by McCready (2011), Ranft (2012) and Mursell (2021) are not philosophical in orientation, but they can be usefully read to gain an understanding of Damian’s career and his personality, as well as his theological ideas.
+The recent book-length studies on Damian’s life and thought by McCready (2011)[^mccready-2011], Ranft (2012)[^ranft-2012] and Mursell (2021)[^mursell-2021] are not philosophical in orientation, but they can be usefully read to gain an understanding of Damian’s career and his personality, as well as his theological ideas.
 
 ## 2. Passage 612A–B and Damian’s Reputation
 

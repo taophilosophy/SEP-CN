@@ -71,7 +71,7 @@ If this is correct, for the argument from divisiveness to succeed, it would have
 
 Second, the liberal critics argue, there is reason to believe that conformance to the DRR would only marginally alleviate the frustration that some citizens feel when confronted with religious reasons in public political debate. The DRR, after all, does not forbid citizens from supporting coercive laws on religious grounds, nor does it forbid citizens to articulate religious arguments in public. Furthermore, complying with the DRR does not prevent religious citizens from advocating their favored laws in bigoted, inflammatory, or obnoxious manners; it has nothing to say about political decorum. So, for example, because the DRR doesn't forbid citizens from helping themselves to inflammatory or demeaning rhetoric in political argument, the anger and resentment engendered by such rhetoric does not constitute evidence for (or against) the DRR.
 
-Third, the liberal critics contend that because most of the laws that have a chance of enactment in a society as pluralistic as the United States will have both religious and secular grounds, it will almost never be the case that any of the actual frustration caused by the public presence of religion supports the DRR. Given that the DRR requires not a complete but only a limited privatization of religious belief, very little of the frustration and anger apparently engendered by the public presence of religion counts in favor of the DRR. To which it is worth adding the following point: advocates of the standard view could, with Rorty (1995), adopt a more demanding conception of the DRR that requires the complete privatization of religious belief. But, as many advocates of the standard view itself maintain, it is doubtful that this move improves the argument's prospects. The complete privatization of religion is much more objectionable to religious citizens and, thus, more likely to create social foment. (Rorty, it should be noted, softened his approach on this issue. See Rorty 2003)[^rorty-2003].
+Third, the liberal critics contend that because most of the laws that have a chance of enactment in a society as pluralistic as the United States will have both religious and secular grounds, it will almost never be the case that any of the actual frustration caused by the public presence of religion supports the DRR. Given that the DRR requires not a complete but only a limited privatization of religious belief, very little of the frustration and anger apparently engendered by the public presence of religion counts in favor of the DRR. To which it is worth adding the following point: advocates of the standard view could, with Rorty (1995)[^rorty-1995], adopt a more demanding conception of the DRR that requires the complete privatization of religious belief. But, as many advocates of the standard view itself maintain, it is doubtful that this move improves the argument's prospects. The complete privatization of religion is much more objectionable to religious citizens and, thus, more likely to create social foment. (Rorty, it should be noted, softened his approach on this issue. See Rorty 2003)[^rorty-2003].
 
 There are no doubt other factors that need to be taken into consideration in the calculation required to formulate the argument from divisiveness. But, the liberal critics maintain, it is unclear how those disparate factors would add up. In particular, if the liberal critics are correct, it is not clear whether requiring citizens to obey the DRR would result in less overall frustration, anger, and division than would not requiring them to do so. The issues at stake are empirical in character and the relevant empirical facts are not known.
 
@@ -291,7 +291,7 @@ Thanks to David Billings, Rebecca Konyndyk DeYoung, Kevin Vallier, Paul Weithman
 
 ## Notes（原文脚注）
 
-[^note-1]: Strauss borrows the phrase from Spinoza. Smith (2006) lucidly explores Strauss' views.
+[^note-1]: Strauss borrows the phrase from Spinoza. Smith (2006)[^smith-2006] lucidly explores Strauss' views.
 
 [^note-2]: It proves tricky to distinguish religious from secular reasons. For our purposes, we'll assume that a secular reason is a set of claims that does not include among its members any claim that has more or less explicit theistic content, such as the claims *that God exists*, *that the Bible has been inspired by God*, or *that the Pope accurately represents the divine will*. A religious reason, by contrast, is a set of claims that does include as a member a claim that has such content. Far more complicated is what to make of the concept of a “plausible” or “adequate” secular rationale. Advocates of the standard position have articulated widely varying accounts. We broach this issue in the next section.
 
@@ -307,11 +307,11 @@ Thanks to David Billings, Rebecca Konyndyk DeYoung, Kevin Vallier, Paul Weithman
 
 [^note-8]: Mar Aba's commitment to “free faith” has been echoed by many and varied religious thinkers, from the early church fathers Tertullian and Lactantius to the early modern theorists Sebastian Castellio, John Locke, and Roger Williams. This free faith argument is a religious argument insofar as it depends crucially on a claim about what makes for genuine piety, a claim that some religious traditions have rejected (Digeser, 2000)[^digeser-2000].
 
-[^note-9]: For an expression of such a view, see Stout (2004).
+[^note-9]: For an expression of such a view, see Stout (2004)[^stout-2004].
 
-[^note-10]: It is important to stress, however, that the argument receives other formulations. For a nice summation, see Boettcher (2007).
+[^note-10]: It is important to stress, however, that the argument receives other formulations. For a nice summation, see Boettcher (2007)[^boettcher-2007].
 
-[^note-11]: For a probing treatment of Qutb's objections to liberal democracy, see Berman (2003).
+[^note-11]: For a probing treatment of Qutb's objections to liberal democracy, see Berman (2003)[^berman-2003].
 
 [^note-12]: A point of clarification: we assume that even laws that protect certain freedoms, such as the right to religious freedom, are coercive. For such laws prohibit figures such as Qutb from practicing their religion as they see fit; they are coercively prevented from, among other things, implementing shariah code as legally binding.
 
@@ -329,7 +329,7 @@ Advocates of the standard view will not be satisfied with this response. The fac
 
 [^note-16]: By saying that the narrative is similar to MacIntyre's, we do not mean to claim that the New Traditionalists simply borrow their narrative from MacIntyre. It is true that New Traditionalists such as Hauerwas borrow liberally from MacIntyre. But, as best we can tell, New Traditionalists such as Milbank tell a narrative that is not so much indebted to MacIntyre's as isomorphic with it in crucial respects.
 
-[^note-17]: Thus, for example, Tertullian (2004): “It is a fundamental human right, a privilege of nature, that every man should worship according to his own convictions: one man's religion neither harms nor helps another man. It is assuredly no part of religion to compel religion—to which free will and not force should lead us—the sacrificial victims even being required of a willing mind. You will render no real service to your gods be compelling us to sacrifice. For they can have no desire of offerings from the unwilling, unless they are animated by a spirit of contention, which is a thing altogether undivine.”
+[^note-17]: Thus, for example, Tertullian (2004)[^tertullian-2004]: “It is a fundamental human right, a privilege of nature, that every man should worship according to his own convictions: one man's religion neither harms nor helps another man. It is assuredly no part of religion to compel religion—to which free will and not force should lead us—the sacrificial victims even being required of a willing mind. You will render no real service to your gods be compelling us to sacrifice. For they can have no desire of offerings from the unwilling, unless they are animated by a spirit of contention, which is a thing altogether undivine.”
 
 [^ackerman-1989]: Ackerman, Bruce, 1989. “Why Dialogue?” *Journal of Philosophy*, 86: 5-22.
 

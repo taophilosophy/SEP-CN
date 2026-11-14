@@ -5,7 +5,7 @@
 
 The big news about chaos is supposed to be that the smallest of changes in a system can result in very large differences in that system’s behavior. The so-called butterfly effect has become one of the most popular images of chaos. The idea is that the flapping of a butterfly’s wings in Argentina could cause a tornado in Texas three weeks later. By contrast, in an identical copy of the world sans the Argentinian butterfly, no such tornado would have occurred in Texas. The mathematical version of this property is known as sensitive dependence and such sensitivity has implications for predictability of future behavior. Clarifying sensitive dependence’s significance is important given there have always been limits on prediction. Chaos studies have highlighted these implications in fresh ways, enabled forms of mitigation as well as control of chaos, and have led to other implications for how we think about our world.
 
-In addition to exhibiting sensitive dependence, chaotic systems are deterministic and nonlinear and exhibit aperiodic behavior (Lorenz 1963)[^lorenz-1963]. This entry discusses systems exhibiting these properties and their philosophical implications. For those not familiar with the basic phenomenology of chaos, reading nontechnical treatments such as Smith (2007) or Bishop (2023) is highly recommended. Because of the distinctive nature of quantum chaos, it is treated separately in the [Supplement: Quantum Chaos](chaos.quantum-chaos.md), needed for discussions of broader implications in §6.
+In addition to exhibiting sensitive dependence, chaotic systems are deterministic and nonlinear and exhibit aperiodic behavior (Lorenz 1963)[^lorenz-1963]. This entry discusses systems exhibiting these properties and their philosophical implications. For those not familiar with the basic phenomenology of chaos, reading nontechnical treatments such as Smith (2007)[^smith-2007] or Bishop (2023)[^bishop-2023] is highly recommended. Because of the distinctive nature of quantum chaos, it is treated separately in the [Supplement: Quantum Chaos](chaos.quantum-chaos.md), needed for discussions of broader implications in §6.
 
 ## 1. Defining Chaos
 
@@ -40,7 +40,7 @@ When a dynamical system’s trajectory narrows down onto an attractor it’s sai
 
 #### 1.1.2 Nonlinear Dynamics
 
-The dynamical systems of interest in chaos studies are nonlinear, such as the Lorenz (1963) model equations for convection in fluids:
+The dynamical systems of interest in chaos studies are nonlinear, such as the Lorenz (1963)[^lorenz-1963] model equations for convection in fluids:
 
 $$\begin{align*} \frac{dx}{dt} &= -\sigma x + \sigma y; \\ \tag{Lorenz} \frac{dy}{dt} &= rx - y + xz ; \\ \frac{dz}{dt} &= xy - bz.\\ \end{align*}$$
 
@@ -70,7 +70,7 @@ While some scientists and mathematicians prior to the 20th century explored the 
 
 Closer to our modern notion of SDIC in the growth of uncertainties is Poincaré’s example of a cyclone, where observational error of “one-tenth of a degree” leads to apparent randomness in landfall creating prediction difficulties (1921, p. 398).
 
-Study of small disturbances’ impact on system behavior intensified with a famous paper by Edward Lorenz (1963). His pioneering work demonstrated that a meteorological model could exhibit exquisite sensitive dependence on small changes in initial conditions.
+Study of small disturbances’ impact on system behavior intensified with a famous paper by Edward Lorenz (1963)[^lorenz-1963]. His pioneering work demonstrated that a meteorological model could exhibit exquisite sensitive dependence on small changes in initial conditions.
 
 Three benchmarks for characterizing uncertainty growth are linear, exponential, and geometric growth rates. Linear growth is represented by the expression $y = ax+b$, where $a$ is an arbitrary positive constant and $b$ is an arbitrary constant. A special case of linear growth is illustrated by stacking pennies on a checkerboard $(a = 1$, $b = 0)$. Using the rule of placing one penny on the first square, two pennies on the second square, three pennies on the third square, and so forth, we’ll end up with 64 pennies stacked on the last square. The total number of pennies on the checkerboard will be 2080.
 
@@ -80,9 +80,9 @@ Finally, there are faster than exponential growth rates[^note-1], but exponentia
 
 The other behavior Lorenz’s model demonstrated was aperiodicity. Aperiodic solutions don’t repeat their behavior (at least on reasonable timescales; demonstrating solutions never repeat on a computer is very difficult).
 
-Aperiodicity was treated as an uninteresting mathematical oddity until the publication of Lorenz (1963) demonstrating model solutions that wouldn’t repeat their behavior because they had a deep relationship to the Cantor set. Lorenz’s work indicated aperiodicity had practical implications.
+Aperiodicity was treated as an uninteresting mathematical oddity until the publication of Lorenz (1963)[^lorenz-1963] demonstrating model solutions that wouldn’t repeat their behavior because they had a deep relationship to the Cantor set. Lorenz’s work indicated aperiodicity had practical implications.
 
-Lorenz (1963) usually represents the ‘discovery’ of chaos. The earliest use of the term “chaotic” to describe the phenomenon Lorenz reported was in David Ruelle and Floris Takens (1971); the term “strange attractor” (see §5.1 below) also first appears in this paper. Nonetheless, it was Tien-Yien Li’s and James A. Yorke’s (1975) influential “Period Three Implies Chaos” paper that led to the widespread use of the term “chaos” for these mathematical behaviors.
+Lorenz (1963)[^lorenz-1963] usually represents the ‘discovery’ of chaos. The earliest use of the term “chaotic” to describe the phenomenon Lorenz reported was in David Ruelle and Floris Takens (1971); the term “strange attractor” (see §5.1 below) also first appears in this paper. Nonetheless, it was Tien-Yien Li’s and James A. Yorke’s (1975) influential “Period Three Implies Chaos” paper that led to the widespread use of the term “chaos” for these mathematical behaviors.
 
 ### 1.3 Defining Chaos
 
@@ -96,14 +96,14 @@ $$x _{t+1}= \alpha x_{t}(1-x_{t}), $$
 
 where $\alpha$ is a parameter whose value ranges from one to four and the variable $x$ ranges from zero to one, is a model chaotic system. A definition of chaos should identify what makes such a dynamical system chaotic, but this turns out to be a difficult task. Stephen Kellert defines chaos theory as “the qualitative study of unstable aperiodic behavior in deterministic nonlinear dynamical systems” (1993, p. 2). His definition picks out two key features that are simultaneously present: instability and aperiodicity. Unstable systems are those exhibiting sensitivity to initial conditions, where Kellert gestures towards Robert Devaney’s definition, and examples of qualitatively different behaviors (1993, p. 12). Aperiodicity we’ve already met.[^note-2]
 
-This definition is both qualitative and restrictive. It’s qualitative in that Kellert doesn’t rely on mathematically precise criteria for instability and aperiodicity. Although one can add such definitions, this precision may only add limited improvements (see below). The definition is restrictive in that it limits chaos to be a property of mathematical models (although Kellert (1993) is sometimes ambiguous as to whether chaos is only a behavior of mathematical models or of actual-world systems), so the import for actual-world systems is left open. At this point, we must invoke the faithful model assumption—namely, that our mathematical models and their state spaces have close correspondence to actual-world target systems and their possible behaviors—to forge a link between this definition and chaos in actual systems. Immediately we face two related questions:
+This definition is both qualitative and restrictive. It’s qualitative in that Kellert doesn’t rely on mathematically precise criteria for instability and aperiodicity. Although one can add such definitions, this precision may only add limited improvements (see below). The definition is restrictive in that it limits chaos to be a property of mathematical models (although Kellert (1993)[^kellert-1993] is sometimes ambiguous as to whether chaos is only a behavior of mathematical models or of actual-world systems), so the import for actual-world systems is left open. At this point, we must invoke the faithful model assumption—namely, that our mathematical models and their state spaces have close correspondence to actual-world target systems and their possible behaviors—to forge a link between this definition and chaos in actual systems. Immediately we face two related questions:
 
 1. How faithful are our models? How strong is the correspondence with target systems? This relates to issues in realism and explanation (§5) as well as confirmation (§3).
 2. Do features of our mathematical analyses (e.g., characterizations of instability) turn out to be problematic such that their application to target systems may not be useful (see below)?
 
 Furthermore, Kellert’s definition is too broad to pick out only chaotic behaviors. For instance, take the map $x_{n + 1} = cx_{n}$, a map exhibiting only unstable and aperiodic orbits. For the values $c = 1.1$ and $x_{0} = .5$, successive iterations continue to increase and never return near $x_{0}$. Kellert’s definition would classify this map as chaotic, but the map doesn’t exhibit chaotic behavior.
 
-Robert Batterman’s (1993) discusses problematic definitions of chaos, namely, those focusing on notions of unpredictability. Unpredictability is neither necessary nor sufficient to distinguish chaos from any other unpredictable behavior ([Supplement: The Chaotic Hierarchy](chaos.chaotic-hierarchy.md)). Batterman doesn’t specify an alternative definition but suggests exponential growth in uncertainty is a necessary condition while leaving open whether it’s sufficient.
+Robert Batterman’s (1993)[^batterman-1993] discusses problematic definitions of chaos, namely, those focusing on notions of unpredictability. Unpredictability is neither necessary nor sufficient to distinguish chaos from any other unpredictable behavior ([Supplement: The Chaotic Hierarchy](chaos.chaotic-hierarchy.md)). Batterman doesn’t specify an alternative definition but suggests exponential growth in uncertainty is a necessary condition while leaving open whether it’s sufficient.
 
 However, a crucial feature of chaos is the presence of “stretching and folding” mechanisms in the dynamics (Batterman 1993, p. 49)[^batterman-1993]. Such mechanisms cause some trajectories to converge rapidly while causing others to diverge rapidly leading to trajectories issuing from various points in some small neighborhood of state space mixing and separating in dramatic ways. For instance, some initially neighboring trajectories on the Lorenz attractor (Figure 1) become separated, where some end up on one wing while others end up on the other wing rather rapidly. As another example, the logistic map stretches the interval $[0,1]$ and folds it from a straight line into a parabola. Successive iterations repeat this stretching and folding process eventually producing chaotic dynamics for appropriate values of the parameter $\alpha$.
 
@@ -133,7 +133,7 @@ One strategy for devising chaos definitions is to begin with discrete models and
 
 Let $f$ be a smooth function defined on state space $S$. $f$ can be iterated or reapplied a number of times.[^note-3] To indicate this, we can write $f^{n}(x)$, meaning $f$ is applied iteratively $n$ times. For instance, $f^{3}(x)$ would indicate $f$ has been applied three times, thus $f^{3}(x) = f(f(f(x)))$. The logistic map is a simple example of this iterative procedure. Furthermore, let $K$ be a subset of $S$. Then $f(K)$ represents $f$ applied to the set of points $K$, that is, $f$ sends the set $K$ into $f(K)$. If $f(K) = K$, then $K$ is an invariant set under $f$.
 
-Now Devaney’s (1989) definition of chaos can be stated as follows:
+Now Devaney’s (1989)[^devaney-1989] definition of chaos can be stated as follows:
 
 **(Chaos$_{d})$** A smooth map $f$ is chaotic if $f$ has an invariant set $K\subseteq S$ such that
 
@@ -235,7 +235,7 @@ One often finds references in the literature to “chaos theory.” For instance
 
 One difficultly answering such questions is the lack of consensus about what a theory is (see the entry on the structure of scientific theories) . Scientists often treat theories as systematic bodies of knowledge that provide explanations and predictions for actual-world phenomena. Being more precise than this generates significant differences for how to conceptualize theories. Options range from axiomatic or syntactic views of the logical empiricists (see the entry on the Vienna Circle) to semantic or model-theoretic views (see the entry on models in science), to Kuhnian (see the entry on Thomas Kuhn) and less rigorous conceptions of theories. Axiomatic views appear to be inapplicable to chaos. There are no chaos axioms—no chaos laws—no deductive structures, no linking of observational statements to theoretical statements in the chaos literature. Meanwhile, there are many chaotic models but these occur in a variety of scientific theories and no shortage of popularizations referring to chaos as a “new paradigm.”
 
-Kellert’s (1993) focus on chaos models is suggestive of semantic views, and much chaos literature focuses on models. Briefly, on semantic views, a theory is characterized by (1) a set of models and (2) hypotheses linking models with idealized physical systems. The mathematical models discussed in the literature are concrete and fairly well understood, but what about the hypotheses linking chaos models with idealized physical systems? In the chaos literature, there’s a great deal of discussion of various robust or universal patterns and the kinds of predictions that can or cannot be made using chaotic models. Moreover, there’s a lot of emphasis on qualitative predictions, geometric mechanisms, and patterns, but this all comes up short of spelling out hypotheses linking chaos models with idealized physical systems.
+Kellert’s (1993)[^kellert-1993] focus on chaos models is suggestive of semantic views, and much chaos literature focuses on models. Briefly, on semantic views, a theory is characterized by (1) a set of models and (2) hypotheses linking models with idealized physical systems. The mathematical models discussed in the literature are concrete and fairly well understood, but what about the hypotheses linking chaos models with idealized physical systems? In the chaos literature, there’s a great deal of discussion of various robust or universal patterns and the kinds of predictions that can or cannot be made using chaotic models. Moreover, there’s a lot of emphasis on qualitative predictions, geometric mechanisms, and patterns, but this all comes up short of spelling out hypotheses linking chaos models with idealized physical systems.
 
 Chaos models are deployed to ascertain various kinds of information about bifurcation points, period doubling sequences, the onset of chaotic dynamics, strange attractors, and other denizens of the chaos zoo. Hypotheses connecting chaos models to actual-world systems need filling in if we’re to employ the semantic conception fully (e.g., how strange attractors reconstructed from physical data relate to the physical system from which the data were originally recorded).
 
@@ -378,7 +378,7 @@ Moreover, since all these simplified models use the same mathematics, is it surp
 
 ### 6.1 Chaos and Determinism
 
-Mathematically, chaos is a property of dynamical systems which are deterministic (§1.1.1)[^note-22], yet some think chaos reflects a form of indeterminism. Chaotic systems are notorious for unpredictability, and some, such as Karl Popper (1950), have argued unpredictability implies indeterminism. Yet, this identifies determinism (an ontological property) with predictability (an epistemic property).
+Mathematically, chaos is a property of dynamical systems which are deterministic (§1.1.1)[^note-22], yet some think chaos reflects a form of indeterminism. Chaotic systems are notorious for unpredictability, and some, such as Karl Popper (1950)[^popper-1950], have argued unpredictability implies indeterminism. Yet, this identifies determinism (an ontological property) with predictability (an epistemic property).
 
 Physicist turned Anglican priest John Polkinghorne drew on critical realism to argue that SDIC creates an ontological openness of complex dynamical systems to influences not fully accounted for in physics descriptions leading to a failure of determinism (1989). Physicist Boris Chirikov, of Chirikov standard map fame, claims chaos “has destroyed the deterministic image of … classical physics” (1992, p. 9). Nevertheless, unique evolution is preserved in our mathematical models of chaos, the ontic descriptions of chaotic systems.[^note-23]
 
@@ -483,7 +483,7 @@ determinism: causal | Kuhn, Thomas | mind/brain identity theory | models in scie
 
 [^note-10]: For instance, piecemeal strategies are found in the competing approaches to weather forecasting vying for government funding (Thompson 1957)[^thompson-1957]. I’ll ignore bootstrapping approaches as they suffer similar problems, but only complicate the discussion.
 
-[^note-11]: I’ll ignore difficulties regarding appropriate measures for discerning similarity in trajectories; see Smith (2000).
+[^note-11]: I’ll ignore difficulties regarding appropriate measures for discerning similarity in trajectories; see Smith (2000)[^smith-2000].
 
 [^note-12]: As long as there’s some uncertainty in target system initial data even a faithful model’s output will diverge away from target system behavior because uncertainty in ascertaining the True initial data leads to divergence in model behavior from system behavior.
 
@@ -499,7 +499,7 @@ determinism: causal | Kuhn, Thomas | mind/brain identity theory | models in scie
 
 [^note-18]: Though not all strange attractors have such dimensionality, almost all do.
 
-[^note-19]: For discussion, see Bishop (2023), chapter 6.
+[^note-19]: For discussion, see Bishop (2023)[^bishop-2023], chapter 6.
 
 [^note-20]: Control parameters—e.g., temperature, voltage, flow rate—can be varied in precise fashion and the whole system responds. These parameters make reference to structural aspects of the systems in question, such as changes in temperature reflecting the energy input into the system.
 

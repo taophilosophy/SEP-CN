@@ -212,7 +212,7 @@ I am grateful to Nicola Moore for her help with the Bibliography, and to Richard
 
 [^note-2]: While “representation” and “imitation” are standard meanings of “mimesis,” the inclusion of “expression” in a list of possible meanings of the term might seem odd. I say just a bit below in support of this; for a full-fledged argument, see Halliwell 2002. On p. 14 (n. 31) he remarks: “I develop my twin theses that ancient ideas of mimesis often encompass a dimension of what would now be counted, by many aestheticians, as expression, and that representation and expression are not mutually exclusive concepts in the interpretation of art, as they have so often been taken to be (especially under the influence of Croce), in chapters 4, 5, 8, 10 (notes 23, 47), and 12.”
 
-[^note-3]: Unless otherwise noted, I shall be using Bloom’s (1968) translation of the *Republic*. For the Greek text of the *Republic* I have used Burnet (ed.) 1968. The identity of the authors quoted here by Plato’s Socrates is not known, though the lines seem to be from lyric poetry and from comedy (possibly they are all from comedy). This is surprising in that one would have expected Socrates to identify well established opponents, presumably authors contributing to the main genres of poetry he has been attacking (tragedy and epic). See the sources cited in the next note.
+[^note-3]: Unless otherwise noted, I shall be using Bloom’s (1968)[^bloom-1968] translation of the *Republic*. For the Greek text of the *Republic* I have used Burnet (ed.) 1968. The identity of the authors quoted here by Plato’s Socrates is not known, though the lines seem to be from lyric poetry and from comedy (possibly they are all from comedy). This is surprising in that one would have expected Socrates to identify well established opponents, presumably authors contributing to the main genres of poetry he has been attacking (tragedy and epic). See the sources cited in the next note.
 
 [^note-4]: See Nightingale 1995, p. 65, and ch. 2 generally on the literary and historical context of the “quarrel.” See also Most 2011 and Notomi 2011. Whether Plato is also the last major philosopher to discern a deep and comprehensive conflict between philosophy and poetry is an interesting question. Certainly Plato’s best student, Aristotle, did not follow Plato in this respect. At the same time, like many philosophers Aristotle clearly believes that when it comes to grasping truth, philosophy is superior to poetry. It is often noted that some of Plato’s philosophical predecessors, such as Xenophanes and Heraclitus, did direct rather severe criticisms against poets (including Homer and Hesiod).
 
@@ -256,7 +256,7 @@ I am grateful to Nicola Moore for her help with the Bibliography, and to Richard
 
 [^note-24]: See Nehamas 1999, pp. 279–299. On p. 287 he asserts that “the greatest part of contemporary criticisms of television depends on a moral disapproval that is identical to Plato’s attack on epic and tragic poetry in the fourth century B.C.” See also Halliwell 2011.
 
-[^note-25]: For an analysis of the rhetoric and the meaning of the rhetoric of the *Prot.*, see Griswold 1999a. I will be quoting from the Zeyl (1997) translation of the *Gorgias*, except that I have substituted “rhetoric” for “oratory.”
+[^note-25]: For an analysis of the rhetoric and the meaning of the rhetoric of the *Prot.*, see Griswold 1999a. I will be quoting from the Zeyl (1997)[^zeyl-1997] translation of the *Gorgias*, except that I have substituted “rhetoric” for “oratory.”
 
 [^note-26]: For an interesting discussion, see Roochnik 1991b.
 
@@ -264,7 +264,7 @@ I am grateful to Nicola Moore for her help with the Bibliography, and to Richard
 
 [^note-28]: I am using the Nehamas and Woodruff 1997b translation of the *Phaedrus*.
 
-[^note-29]: By contrast: Plato concludes the *Sophist* with a series of distinctions intended to isolate and describe the sophist. They include the distinction between a speaker who does not know the truth but thinks he does, and a speaker who (rightly) suspects that he does not know the truth but nonetheless pretends to his audience that he does. The latter, the sophist, is an “insincere and unknowing” (268c8–9) imitator of the truth. It is presupposed in these passages that the sophist has an art (*techne*). I am using the N. P. White (1997) translation of the *Sophist*.
+[^note-29]: By contrast: Plato concludes the *Sophist* with a series of distinctions intended to isolate and describe the sophist. They include the distinction between a speaker who does not know the truth but thinks he does, and a speaker who (rightly) suspects that he does not know the truth but nonetheless pretends to his audience that he does. The latter, the sophist, is an “insincere and unknowing” (268c8–9) imitator of the truth. It is presupposed in these passages that the sophist has an art (*techne*). I am using the N. P. White (1997)[^white-1997] translation of the *Sophist*.
 
 [^note-30]: In the *Sophist* (263e) and *Theaetetus* (189e) Plato defines thinking as the soul’s conversation with itself.
 

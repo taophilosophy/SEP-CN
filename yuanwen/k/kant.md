@@ -349,7 +349,7 @@ aesthetics: German, in the 18th century | categories | Fichte, Johann Gottlieb |
 
 [^note-16]: In fact, these too are judgments, which in the *Prolegomena* Kant calls judgments of perception (4:298–299). But they are judgments about my subjective states rather than about objects distinct from me. As judgments they have a truth value: it is either true or false that I feel nostalgia when I see this house. Kant’s point, however, is that I can make such judgments about my own subject only if I also make judgments about objects distinct from me. Merely subjective judgments of perception are parasitic on objectively valid judgments of experience, because self-consciousness requires that I place myself in an objective world and refer at least some of my representations to objects distinct from me. See Beck 1978.
 
-[^note-17]: See A66–83/B91–116, B159, and Longuenesse (2006).
+[^note-17]: See A66–83/B91–116, B159, and Longuenesse (2006)[^longuenesse-2006].
 
 [^note-18]: Kant calls space, in particular, an “ens imaginarium” or being of the imagination to emphasize that on his view we are not somehow conscious of the whole of space, which he also describes as “an infinite given magnitude” (292/B348–349, A25/B39). Rather, we are conscious of space only to the extent that we represent objects in it, but we must represent objects in a single space and cannot represent any boundaries of space. See Longuenesse 2005, chapter 3.
 

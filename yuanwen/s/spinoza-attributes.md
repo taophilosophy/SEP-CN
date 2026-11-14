@@ -222,11 +222,11 @@ Descartes, René | Descartes, René: physics | dualism | Spinoza, Baruch | Spino
 
 [^note-12]: Cf. footnote 7.
 
-[^note-13]: For objections to subjectivism, see for example, Martial Gueroult (1968, 50 and Appendix 3); Alan Donagan (1989, 70); Alan Donagan (1973); Haserot (1972, 38);, Della Rocca (1996, 157n.4, 57); and Bennett (1984, 146).
+[^note-13]: For objections to subjectivism, see for example, Martial Gueroult (1968, 50 and Appendix 3); Alan Donagan (1989, 70)[^donagan-1989]; Alan Donagan (1973)[^donagan-1973]; Haserot (1972, 38)[^haserot-1972];, Della Rocca (1996, 157n.4, 57); and Bennett (1984, 146)[^bennett-1984].
 
-[^note-14]: As examples of commentators who think there are more than two attributes see Haserot (1972, 32); Della Rocca (1996, 35); and Delahunty (1985, 117). Bennett (1984, 75–79) claims that Spinoza can be read as holding that there are only two, although he admits the text is inconclusive on this matter.
+[^note-14]: As examples of commentators who think there are more than two attributes see Haserot (1972, 32)[^haserot-1972]; Della Rocca (1996, 35); and Delahunty (1985, 117)[^delahunty-1985]. Bennett (1984, 75–79)[^bennett-1984] claims that Spinoza can be read as holding that there are only two, although he admits the text is inconclusive on this matter.
 
-[^note-15]: Wolfson (1934, 134) argues that by “infinite” Spinoza means the negation of finitude or determination. Allison (1987, 63) also explains infinity in terms of not being limited, determined or produced. Bennett (1984, 75–79) argues for the view that infinite means totality rather than more than two. See also Aaron Garrett (2003, 63).
+[^note-15]: Wolfson (1934, 134)[^wolfson-1934] argues that by “infinite” Spinoza means the negation of finitude or determination. Allison (1987, 63)[^allison-1987] also explains infinity in terms of not being limited, determined or produced. Bennett (1984, 75–79)[^bennett-1984] argues for the view that infinite means totality rather than more than two. See also Aaron Garrett (2003, 63)[^garrett-2003].
 
 [^allison-1987]: Allison, Henry E., 1987. *Benedict De Spinoza: An Introduction*, New Haven: Yale University Press.
 

@@ -207,7 +207,7 @@ Imagine a tree that has been built up in levels. At the bottom level there is a 
 
 Rabin’s theorem has any number of useful consequences. For example Dov Gabbay used it to prove the decidability of some modal logics. But Rabin’s proof, using automata, was notoriously difficult to follow. Yuri Gurevich and Leo Harrington, and independently Andrei Muchnik, found much simpler proofs in which the automaton is a player in a game.
 
-This result of Rabin is one of several influential resuls that connect games with automata. Another example is the *parity games* which are used for verifying properties of modal systems. See for example Stirling (2001) Chapter 6; Bradfield and Stirling (2006) discuss parity games for the modal $\mu$-calculus.
+This result of Rabin is one of several influential resuls that connect games with automata. Another example is the *parity games* which are used for verifying properties of modal systems. See for example Stirling (2001)[^stirling-2001] Chapter 6; Bradfield and Stirling (2006) discuss parity games for the modal $\mu$-calculus.
 
 ## 8. Games of dialogue, communication and proof
 
@@ -229,7 +229,7 @@ The case of $\phi \rightarrow \psi$ is a little subtler. She will probably want 
 
 Ideas of this kind lie behind the dialectical games of Paul Lorenzen. He showed that with a certain amount of pushing and shoving, one can write rules for the game which have the property that $\exists$ has a winning strategy if and only if the sentence that she is presented with at the beginning is a theorem of intuitionistic logic. In a gesture towards medieval debates, he called $\exists$ the Proponent and the other player the Opponent. Almost as in the medieval obligationes, the Opponent wins by driving the Proponent to a point where the only moves available to her are blatant self-contradictions.
 
-Lorenzen claimed that his games provided justifications for both intuitionist and classical logic (or in his words, made them ‘gerechtfertigt’, Lorenzen (1961,196)). Unfortunately any ‘justification’ involves a convincing answer to the Dawkins question, and this Lorenzen never provided. For example he spoke of moves as ‘attacks’, even when (like the examiner’s choice at $\phi \wedge \psi$ above) they look more like help than hostility.
+Lorenzen claimed that his games provided justifications for both intuitionist and classical logic (or in his words, made them ‘gerechtfertigt’, Lorenzen (1961,196)[^lorenzen-1961]). Unfortunately any ‘justification’ involves a convincing answer to the Dawkins question, and this Lorenzen never provided. For example he spoke of moves as ‘attacks’, even when (like the examiner’s choice at $\phi \wedge \psi$ above) they look more like help than hostility.
 
 The entry dialogical logic gives a fuller account of Lorenzen’s games and a number of more recent variants. In its present form (January 2013) it sidesteps Lorenzen’s claims about justifying logics. Instead it describes the games as providing semantics for the logics (a point that Lorenzen would surely have agreed with), and adds that for understanding the differences between logics it can be helpful to compare their semantics.
 

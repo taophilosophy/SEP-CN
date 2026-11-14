@@ -34,7 +34,7 @@
 | [9] | Commentary on the *Parmenides* (up to 142a) |
 | [10] | Commentary on the *Republic* (in different essays) |
 
-Lost
+##### Lost
 
 | [11] | *Prolegomena to Plato’s Philosophy* |
 | --- | --- |

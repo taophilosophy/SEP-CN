@@ -245,7 +245,7 @@ Buber, Martin | Christian theology, philosophy and | Heidegger, Martin | Kant, I
 
 [^note-4]: Generally, Rosenstock-Huessy insists upon distinguishing between theology and religion, the former being a medieval creation to deal with a medieval problem, which involved recasting religious speech into a form more in tune with the philosophical or, as he frequently called it, the Greek mind. See 1970a, 37–43, and 1991a, 22–82.
 
-[^note-5]: Stahmer and Gormann-Thelen (1998) correctly identify Vico, Hamann, Goethe, Saint-Simon and Paracelsus as being important spirits of inspiration for his work.
+[^note-5]: Stahmer and Gormann-Thelen (1998)[^gormann-thelen-1998] correctly identify Vico, Hamann, Goethe, Saint-Simon and Paracelsus as being important spirits of inspiration for his work.
 
 [^note-6]: The Kantianism of this particular formulation is deliberate. He argues, in this section, that Kant’s great service was in laying out the limits of dialectic and logic and he credits Kant with laying out the method for sociological thinking.
 

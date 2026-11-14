@@ -101,7 +101,7 @@ Two material parts of the content of a presentation of *A* and of *B* are one-si
 
 Two material parts of the content of a presentation of *A* and of *B* are mutually inseparable (but yet distinguishable) iff they are neither mutually nor one-sidedly separable. Metaphysical parts are mutually inseparable, e.g. you cannot present separately the being colored and the being extended of something colored and extended, although those parts are *in abstracto* distinguishable in the object.
 
-On Twardowski's mereology see Cavallin (1990), Rosiak (1998) and Schaar (2015, 68 and ff.)
+On Twardowski's mereology see Cavallin (1990), Rosiak (1998)[^rosiak-1998] and Schaar (2015, 68 and ff.)
 
 ### 2.5 The Position of *Content and Object* in Twardowski's *Oeuvre*
 
@@ -160,7 +160,7 @@ Notice that Twardowski is not saying that judgments can be integrated or *comple
 
 An important thing to notice in *Relative Truths* is that Twardowski, differently from what Meinong and Łukasiewicz were to do, did not question the principle of contradiction or the principle of the excluded middle.
 
-Twardowski's idea that one can have absolute truth in an all-changing world has been recently taken up by Simons (2003).
+Twardowski's idea that one can have absolute truth in an all-changing world has been recently taken up by Simons (2003)[^simons-2003].
 
 ### 3.2 Actions and Products (1912)
 

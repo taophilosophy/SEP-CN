@@ -195,7 +195,7 @@ The problem with this argument is that the risks of research often are additive 
 
 ## 8. Goals and Interests
 
-In one of the most prominent papers in the history of research ethics, Hans Jonas (1969) argues that the progress clinical research offers is normatively optional, whereas the need to protect individuals from the harms to which clinical research exposes them is mandatory. He writes:
+In one of the most prominent papers in the history of research ethics, Hans Jonas (1969)[^jonas-1969] argues that the progress clinical research offers is normatively optional, whereas the need to protect individuals from the harms to which clinical research exposes them is mandatory. He writes:
 
 > … unless the present state is intolerable, the melioristic goal [of biomedical research] is in a sense gratuitous, and this is not only from the vantage point of the present. Our descendants have a right to be left an unplundered planet; they do not have a right to new miracle cures. We have sinned against them if by our doing, we have destroyed their inheritance not if by the time they come around arthritis has not yet been conquered (unless by sheer neglect). (Jonas 1969, 230–231)[^jonas-1969]
 

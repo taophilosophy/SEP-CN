@@ -124,3 +124,6 @@
 | emotion-Christian-tradition | `Doubleday: Garden City, New York.` | `Garden City, New York: Doubleday.` | 同页其余条目皆“地名: 出版者”（②） |
 | emotion-Christian-tradition | `&ldquo;Startle&rdquo; <em> The Journal of Philosophy</em>` | `&ldquo;Startle,&rdquo; <em>The Journal of Philosophy</em>` | 篇名后缺逗号、em 内多空格（①） |
 | emotion-Christian-tradition | `schlechthinig` | `schlechthinnig` | 德语 schlechthin＋-ig（①） |
+| epistemology-language-tibetan | `Universit&agrave; degli Sudie di Napoli` | `Studi` | 意大利机构正名 Università degli Studi di Napoli（①） |
+| epistemology-language-tibetan | `Oxford: Wiley Balckwell` | `Wiley Blackwell` | 出版者正名（①） |
+| epistemology-language-tibetan | `<em>Etudes Asiatiques</em>` | `<em>&Eacute;tudes Asiatiques</em>` | 法语刊名缺重音（①） |

@@ -109,7 +109,7 @@ Many arguments of the above types date back to ancient times, and have been repe
 
 #### 3.1 Up to 325 CE
 
-3.1.1 The One God in the Trinity
+##### 3.1.1 The One God in the Trinity
 
 Early Christianity was theologically diverse, although as time went on a “catholic” movement, a bishop-led, developing organization which, at least from the late second century, claimed to be the true successors of Jesus’ apostles, became increasingly dominant, out-competing many gnostic and Jewish-Christian groups. Still, confining our attention to what scholars now call this “catholic” or “proto-orthodox” Christianity, it contained divergent views about the Father, Son, and Holy Spirit. No theologian in the first three Christian centuries was a trinitarian in the sense of believing that the one God is tripersonal, containing equally divine “Persons”, Father, Son, and Holy Spirit.
 
@@ -125,7 +125,7 @@ While these developments were new, the worship of Jesus was not. As against earl
 
 This logos theory subordinationism was opposed by many Christians, particularly the less-educated and less-Hellenized ones, who viewed such schemes of two creators (God working through the Logos as his instrument) and two “gods” to be incompatible with monotheism. Many wielded the slogan “We uphold the monarchy of the Father,” i.e. the Father as the only true God (John 17:1–3). Since Harnack historians have divided these “monarchians” into Modalistic Monarchians and Dynamic Monarchians. For the Modalists, the divine Son is the Father acting in a certain way; some allegedly used the term “Sonfather”, spoke of the Father being crucified, or described God making himself a Son to himself; at any rate, opposing Justin, they denied that the Father was one god and the Logos another (Heine 1998, 74). Some scholars now see Irenaeus as an influential early adopter of this approach (Minns 2010, ch. 4). The Dynamic Monarchians held that the Logos of John 1 was a power (*dunamis*) of God by which he acted through his human Messiah, the man Jesus (John 14:10, 2 Corinthians 5:19). At least some of them claimed that theirs was the original, apostolic Christology and theology, and it has been argued that such views were early and widespread (Gaston 2023). Novatian, Origen, and the author of *Refutation of All Heresies* write against both of these rival views which were found in mainstream churches in their time and before. In their lifetimes and after a string of Roman bishops held Modalistic Monarchian views (Vinzent 2013). But by the end of the third century, it seems that Logos theory had become a majority view among theologically-educated bishops; nonetheless Modalistic one *hypostasis* theories vied for prominence into the middle of the fourth century (see the Supplement on Unitarianism, section 3.1), and the Dynamic Monarchian bishop Photinus of Sirmium debated his position at a council in 351 but was anathematized by that council and a string of later councils, eventually being deposed and exiled (Williams 2006; Bodrožić and Soić 2017). Dynamic Monarchian “Photinians” were on the radar of heresy-hunters into the early fifth century.
 
-3.1.2 Tertullian
+##### 3.1.2 Tertullian
 
 Since he uses the word *trinitas* and says that the Father, Son, and Spirit share a divine *substantia* (substance), Tertullian (ca. 160–225) is a subordinationist who sounds trinitarian to many modern readers. His *Against Praxeas* was written against Modalistic Monarchianism. Tertullian mocked them as “patripassians”, for (allegedly) implying that the Father suffered when Jesus was crucified, something widely assumed to be impossible.
 
@@ -173,7 +173,7 @@ This did not end the controversy, which was not so much about Arius as about cla
 
 Around the time of the messy Council of Constantinople (Davis 1983, ch. 3; Freeman 2009, 91–104; Hanson 1988, 791–823), as imperial and ecclesial forces began to systematically extinguish subordinationist groups in the eastern and western empires (Wiles 1996, 27–40), the kind of trinitarianism which finally prevailed within the mainstream institutions of Christianity began to gel into a recognizable form. Following Hanson (1988) and Ayres (2004) we call this the “pro-Nicene consensus”. This consensus spanned the east-west (Greek-Latin) divide. Thus, to present this view we summarize the accounts of two influential theorists, one from each side of this cultural and linguistic divide: Gregory of Nyssa, and Augustine of Hippo, who was converted a few years after the 381 council.
 
-3.3.1 Gregory of Nyssa
+##### 3.3.1 Gregory of Nyssa
 
 Gregory of Nyssa (ca. 335–ca. 395) is now known as one of the Cappadocian Fathers, the other two being his older brother Basil of Caesarea (ca. 329–79) and Gregory Nazianzus (329–89). These three active bishops are credited with establishing a consistent terminology for the Trinity, namely using *hypostasis* or *prosopon* for what God is three of, and *ousia* (along with *phusis*) for what God is one of. (On their lives, careers, and extant writings, see Ayres 2004 and Hanson 1996.) We look briefly at Nyssa’s views here, as illustrating several points about the pro-Nicene consensus.
 
@@ -195,7 +195,7 @@ The bedrock of pro-Nicene trinitarianism is a metaphysics of God as unique, simp
 
 Any analogy offered is therefore quickly supplemented by others. Its opponents view this as obfuscation, while its proponents consider the differing analogies to be complimentary and in some sense informative. While pro-Nicenes hold the Persons to be (somehow) distinct, they show little interest in developing a metaphysical account of what it is to be a divine Person. In sum, the Nicene pattern of speech and thought about the Father, Son, and Holy Spirit is held by them to be spiritually beneficial, but it doesn’t admit of clarification. This view is strongly Mysterian (see main entry section 4).
 
-3.3.2 Augustine
+##### 3.3.2 Augustine
 
 Augustine is arguably a one-self trinitarian. For him, the one God is the Trinity. And this one God is almost always addressed and described using singular personal pronouns. He is an object of our love, as much as our neighbors and ourselves, and he has all the features of a self described in the main entry, section 1.1. He is a simple, timeless, and perfect self, a subject of complete knowledge, who freely creates all other things, and who exists in a truer or deeper way. The true believer can not say “that there are not three somethings [in the Trinity], because Sabellius fell into heresy by saying precisely that.” (Augustine, *Trinity*, 227 [VII.3.9]; cf. *City* 425 [X.24], 462 [XI.10]) One must say “three persons”, but for Augustine these are not three selves.
 
@@ -226,7 +226,7 @@ Most later trinitarians interact in some way with Augustine’s huge body of wor
 
 Important medieval philosopher-theologians not discussed here who develop Augustine’s trinitarianism include Boethius (ca. 480–525), Anselm of Canterbury (1033–1109) (Marenbon 2003, 66–95; Mann 2004), and Peter Abelard (1079–1142) (Brower 2005; Marenbon 2007).
 
-3.3.3 The “Athanasian” Creed
+##### 3.3.3 The “Athanasian” Creed
 
 The so-called Athanasian Creed (also known by the Latin words it begins with, as the *Quicumque vult*) is a widely adopted and beloved formulation of the doctrine. It shows strong Augustinian influence and is thought to be the product of an unknown late 5th or early 6th century writer (Kelly 1964). Contemporary philosophical discussions often begin with this creed, at it puts pro-Nicene trinitarianism into a memorably short and palpably paradoxical form.
 

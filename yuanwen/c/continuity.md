@@ -610,7 +610,7 @@ Aristotle | Aristotle, General Topics: categories | Berkeley, George | Bolzano, 
 
 ### Acknowledgments
 
-For a comprehensive account of the evolution of the concepts of continuity and the infinitesimal, see Bell (2005), on which the present article is based.
+For a comprehensive account of the evolution of the concepts of continuity and the infinitesimal, see Bell (2005)[^bell-2005], on which the present article is based.
 
 ## Notes（原文脚注）
 
@@ -712,9 +712,9 @@ For a comprehensive account of the evolution of the concepts of continuity and t
 
 [^note-45]: This may be seen to be plausible if one considers that the according to Brouwer the construction of a choice sequence is incompletable; at any given moment we can know nothing about it outside the identities of a finite number of its entries. Brouwer’s principle amounts to the assertion that every function from $\bbN^{\bbN}$ to $\bbN$ is continuous.
 
-[^note-46]: For an explicit statement of the principle of Bar Induction, see Ch. 3 of Dummett (1977), or Ch. 5 of Bridges and Richman (1987).
+[^note-46]: For an explicit statement of the principle of Bar Induction, see Ch. 3 of Dummett (1977)[^dummett-1977], or Ch. 5 of Bridges and Richman (1987).
 
-[^note-47]: See Kock (1981), Lavendhomme (1996), Lawvere (1980, 1998 [Other Internet Resources]), McLarty (1992), Moerdijk and Reyes (1991). For an elementary account of smooth infinitesimal analysis see Bell (1998).
+[^note-47]: See Kock (1981)[^kock-1981], Lavendhomme (1996)[^lavendhomme-1996], Lawvere (1980, 1998 [Other Internet Resources]), McLarty (1992)[^mclarty-1992], Moerdijk and Reyes (1991). For an elementary account of smooth infinitesimal analysis see Bell (1998)[^bell-1998].
 
 [^note-48]: For any $f \in(\Delta^{\Delta})_0$, the microaffineness axiom ensures that there is a unique $b \in \bR$ for which $f(\varepsilon) = b\varepsilon$ for all $\varepsilon$, and conversely each $b \in \bR$ yields the map $\varepsilon \mapsto b\varepsilon$ in $(\Delta^{\Delta})_0$.
 

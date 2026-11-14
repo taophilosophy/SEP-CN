@@ -29,7 +29,7 @@ Definitions sought by philosophers are not of the sort found in a dictionary. Fr
 
 A stipulative definition imparts a meaning to the defined term, and involves no commitment that the assigned meaning agrees with prior uses (if any) of the term. Stipulative definitions are epistemologically special. They yield judgments with epistemological characteristics that are puzzling elsewhere. If one stipulatively defines a “raimex” as, say, a rational, imaginative, experiencing being then the judgment “raimexes are rational” is assured of being necessary, certain, and *a priori*. Philosophers have found it tempting to explain the puzzling cases of, e.g., *a priori* judgments, by an appeal to stipulative definitions.
 
-Saul Kripke (1980) has drawn attention to a special kind of stipulative definition. We can stipulatively introduce a new name (e.g., ‘Jack the Ripper’) through a description (e.g., “the man who murdered $X, Y$, and $Z$”). In such a stipulation, Kripke pointed out, the description serves only to fix the reference of the new name; the name is not synonymous with the description. For, the judgment
+Saul Kripke (1980)[^kripke-1980] has drawn attention to a special kind of stipulative definition. We can stipulatively introduce a new name (e.g., ‘Jack the Ripper’) through a description (e.g., “the man who murdered $X, Y$, and $Z$”). In such a stipulation, Kripke pointed out, the description serves only to fix the reference of the new name; the name is not synonymous with the description. For, the judgment
 
 **(1)**
 

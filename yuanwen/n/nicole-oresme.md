@@ -7,7 +7,7 @@ Without a doubt Oresme is one of the most eminent scholastic philosophers, famou
 
 ## 1. Life
 
-Nicole Oresme was born around 1320 in the diocese of Bayeux in Normandy, possibly in the village of Allemagne (now Fleury-sur-Orne) on the outskirts of the Norman city of Caen (Burton 2007, 6)[^burton-2007]. By 1341/42 he had obtained his master of arts at the University of Paris and was probably teaching philosophy there (Courtenay 2000, 544; Burton 2007, 7)[^burton-2007][^courtenay-2000]. In 1348 his name appears on a list of graduate scholarship holders in theology at the College of Navarre at the University of Paris. Oresme became Grand Master of the College in 1356, so he must have completed his doctorate in theology before this date. Oresme held this position till 1362 and was teaching master in the faculty of theology during that time (Burton 2007, 10)[^burton-2007]. A detailed account of Oresme’s career as a scholar has been provided by Lejbowicz (2014).
+Nicole Oresme was born around 1320 in the diocese of Bayeux in Normandy, possibly in the village of Allemagne (now Fleury-sur-Orne) on the outskirts of the Norman city of Caen (Burton 2007, 6)[^burton-2007]. By 1341/42 he had obtained his master of arts at the University of Paris and was probably teaching philosophy there (Courtenay 2000, 544; Burton 2007, 7)[^burton-2007][^courtenay-2000]. In 1348 his name appears on a list of graduate scholarship holders in theology at the College of Navarre at the University of Paris. Oresme became Grand Master of the College in 1356, so he must have completed his doctorate in theology before this date. Oresme held this position till 1362 and was teaching master in the faculty of theology during that time (Burton 2007, 10)[^burton-2007]. A detailed account of Oresme’s career as a scholar has been provided by Lejbowicz (2014)[^lejbowicz-2014].
 
 From 1362, when he left the university, until his death in 1382, Oresme served Charles, the dauphin of France, who was regent during his father’s captivity (1356–1364) and was crowned King Charles V on his father’s death (1364) (Burton 2007, 11–13)[^burton-2007]. Oresme was appointed canon (1362) and later dean (1364) of the Cathedral of Rouen and also canon at Sainte-Chapelle in Paris (1363) (Clagett 1974, 223)[^clagett-1974]. Oresme was elected bishop of Lisieux in 1377 and was consecrated in 1378. He died on July 11, 1382.
 
@@ -29,7 +29,7 @@ For Oresme space is neither substance nor accident. It is nothing that can be si
 
 Another central conclusion that Oresme draws in his Physics Commentary in his discussion of the nature of place is that beyond the world, that is, outside the last sphere, there exists an infinite void space. Oresme’s conception of an extracosmic infinite void space is well known from other works by him (*Le livre du ciel et du monde*, *Questiones super De celo*) (Kirschner 2000a, 164–168)[^kirschner-2000a]. Besides Oresme there were few medieval philosophers who assumed the existence of an infinite void space beyond the world. The Jewish philosopher Hasdai Crescas (c. 1340–1410/11) (Crescas 1929, 189; Grant 1969, 50, n. 50; Grant 1981, 271, n. 33, 321, n. 5)[^crescas-1929][^grant-1969][^grant-1981], Thomas Bradwardine (c. 1290–1349) (Grant 1969, 44–47; Grant 1981, 135–144)[^grant-1969][^grant-1981], Robert Holkot (d. 1349) (Grant 1981, 350, n. 130)[^grant-1981] and William Crathorn (fl. 1330s) (Robert 2012, 77, n. 2)[^robert-2012] may be mentioned among them.
 
-Oresme also speaks of the immensity which is outside the Heavens and identifies this immensity – by which he undoubtedly means the extracosmic void space – with God himself. This identification of the infinite void space with God is a characteristic feature of Oresme’s natural philosophy or theology (Kirschner 1997, 105–106; Kirschner 2000a, 168)[^kirschner-1997][^kirschner-2000a]. According to Wolfson (1929, 123), Crescas did not identify the infinite void outside the world with God’s immensity; nor does Bradwardine seem to have held such a view (Maier 1966, 315, n. 18; Grant 1981, 142)[^grant-1981][^maier-1966]. The same applies to Robert Holkot (Grant 1981, 350, n. 130)[^grant-1981] and William Crathorn.
+Oresme also speaks of the immensity which is outside the Heavens and identifies this immensity – by which he undoubtedly means the extracosmic void space – with God himself. This identification of the infinite void space with God is a characteristic feature of Oresme’s natural philosophy or theology (Kirschner 1997, 105–106; Kirschner 2000a, 168)[^kirschner-1997][^kirschner-2000a]. According to Wolfson (1929, 123)[^wolfson-1929], Crescas did not identify the infinite void outside the world with God’s immensity; nor does Bradwardine seem to have held such a view (Maier 1966, 315, n. 18; Grant 1981, 142)[^grant-1981][^maier-1966]. The same applies to Robert Holkot (Grant 1981, 350, n. 130)[^grant-1981] and William Crathorn.
 
 ### 2.3 Non-Aristotelian Concept of Time
 
@@ -87,7 +87,7 @@ Oresme’s geometric proof (*Tractatus de configurationibus qualitatum et motuum
 
 $$\frac{1}{2} + \frac{2}{4} + \frac{3}{8} + \frac{4}{16} +\frac{5}{32} + \ldots = 2 $$
 
-motivated Horadam (1974) to introduce the notion of *Oresme numbers*. This sequence is defined by the second-order recurrence relation
+motivated Horadam (1974)[^horadam-1974] to introduce the notion of *Oresme numbers*. This sequence is defined by the second-order recurrence relation
 
 $$O_{n + 2} = O_{n+1} - \frac{1}{4}O_n ,$$
 
@@ -111,7 +111,7 @@ Oresme is generally considered the greatest medieval economist. He presented his
 
 Oresme also stated that in a society in which two currencies with the same designation but of different value circulate, the money of lower value drives out the money of higher value. This economic law was also discovered independently of Oresme by Nicolaus Copernicus (1473–1543), the famous astronomer, who wrote about a reform of the Prussian coinage, and by Thomas Gresham (1519–1597). Today it is called Gresham’s Law, or sometimes the Law of Oresme, Copernicus, and Gresham, but its oldest version can be found in Aristophanes’s poem ‘The Frogs’ (Balch 1908; Sparavigna 2014)[^balch-1908][^sparavigna-2014].
 
-Oresme’s interest and engagement in economic problems should not be seen as an isolated subject in his intellectual life. As Kaye (1998, 2) has argued, the preoccupation with measurement, gradation, and the quantification of qualities, so typical of Oresme and the natural philosophy of his period, was strongly influenced by the contemporary rapid monetization of European society.
+Oresme’s interest and engagement in economic problems should not be seen as an isolated subject in his intellectual life. As Kaye (1998, 2)[^kaye-1998] has argued, the preoccupation with measurement, gradation, and the quantification of qualities, so typical of Oresme and the natural philosophy of his period, was strongly influenced by the contemporary rapid monetization of European society.
 
 ## References（引用注释）
 

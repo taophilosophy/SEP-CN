@@ -306,7 +306,7 @@ atomism: 17th to 20th century | Descartes, René | Descartes, René: physics | G
 
 ## Notes（原文脚注）
 
-[^note-1]: There has been considerable debate over the exact date and extent of Leibniz’s conversion to mechanism. See, for starters, Kabitz (1909, 51–53), Brown (1984, chapter 3), and Mercer (2001, 24–48). For further references see especially Mercer (2001, 26, fn. 11).
+[^note-1]: There has been considerable debate over the exact date and extent of Leibniz’s conversion to mechanism. See, for starters, Kabitz (1909, 51–53)[^kabitz-1909], Brown (1984, chapter 3), and Mercer (2001, 24–48)[^mercer-2001]. For further references see especially Mercer (2001, 26, fn. 11).
 
 [^note-2]: I.e. lower level liberal arts studies, traditionally consisting of grammar, rhetoric, and logic. Loemker reports that “The curriculum of the Nicolai School in Leipzig, while not conforming completely to the medieval trivium, still consisted of Latin and Greek, rhetoric, and logic, together with Scholastic theology” (L 660, fn. 2).
 
@@ -314,19 +314,19 @@ atomism: 17th to 20th century | Descartes, René | Descartes, René: physics | G
 
 [^note-4]: A.II.i 16/L 95
 
-[^note-5]: It should be noted that, for Leibniz, the adoption of mechanism was not tantamount to a wholesale repudiation of Aristotelian natural philosophy. Thus, for example, in a letter of 1669 to his former mentor Jacob Thomasius, Leibniz argues not only that “the reformed philosophy can be reconciled with Aristotle’s and does not conflict with it” but, even more aggressively, that “the one … *must* be explained through the other … that the very views which the moderns are putting forth so pompously are derived from Aristotelian principles” (A.II.i 16/L 95; italics added). For more on Leibniz’s conciliatory attitude towards Aristotelianism, see especially, Mercer (2001).
+[^note-5]: It should be noted that, for Leibniz, the adoption of mechanism was not tantamount to a wholesale repudiation of Aristotelian natural philosophy. Thus, for example, in a letter of 1669 to his former mentor Jacob Thomasius, Leibniz argues not only that “the reformed philosophy can be reconciled with Aristotle’s and does not conflict with it” but, even more aggressively, that “the one … *must* be explained through the other … that the very views which the moderns are putting forth so pompously are derived from Aristotelian principles” (A.II.i 16/L 95; italics added). For more on Leibniz’s conciliatory attitude towards Aristotelianism, see especially, Mercer (2001)[^mercer-2001].
 
 [^note-6]: Recalling the theory of the TMA later in life, Leibniz writes:
 
 > … I showed that it ought to follow that the conatus of a body entering into a collision, however small it might be, would be impressed on the whole receiving body, however larger it might be, and thus, that the largest body at rest would be carried off by a colliding body however small it might be, without regarding it at all, since such a notion of matter contains not resistance to motion, but indifference. From this it follows that it would be no more difficult to put a large body into motion than a small one … (SD 19/AG 124)
 
-[^note-7]: This dating is based on a quotation attributed to Leibniz in FC, page LXIV, which reads, “Spinoza did not see the mistakes in Descartes’s rules of motion; he was surprised when I began to show him that they violate the equality of cause and effect.” I first learned of the quotation from Garber (1998, 278). Garber reports that he has been unable to confirm the date in a more reliable source, and notes “there is some uncertainty that attaches to the dating” (Garber 1998, 339, fn. 25)[^garber-1998][^garber-1998-2].
+[^note-7]: This dating is based on a quotation attributed to Leibniz in FC, page LXIV, which reads, “Spinoza did not see the mistakes in Descartes’s rules of motion; he was surprised when I began to show him that they violate the equality of cause and effect.” I first learned of the quotation from Garber (1998, 278)[^garber-1998][^garber-1998-2]. Garber reports that he has been unable to confirm the date in a more reliable source, and notes “there is some uncertainty that attaches to the dating” (Garber 1998, 339, fn. 25)[^garber-1998][^garber-1998-2].
 
-[^note-8]: For discussion of the controversy, see especially Iltis (1979), Costabel (1973), and Laudan (1968).
+[^note-8]: For discussion of the controversy, see especially Iltis (1979)[^iltis-1979], Costabel (1973)[^costabel-1973][^costabel-1973-2], and Laudan (1968)[^laudan-1968].
 
 [^note-9]: See A VI.ii, 158.
 
-[^note-10]: For more on the Leibniz-Clarke correspondence, and further references, see especially Broad (1981) and Vailati (1997).
+[^note-10]: For more on the Leibniz-Clarke correspondence, and further references, see especially Broad (1981)[^broad-1981] and Vailati (1997)[^vailati-1997].
 
 [^note-11]: Indeed, Leibniz sometimes argues against atomism directly from the Principle of Sufficient Reason. In his Fourth Letter to Clark, for example, he first argues that there can be no sufficient reason for any ratio of void to matter other than 0:1, and then argues that “the case is the same with atoms: what reason can anyone assign for confining nature in the progression of subdivision?” (G VII.378/AG 332).
 
@@ -346,9 +346,9 @@ atomism: 17th to 20th century | Descartes, René | Descartes, René: physics | G
 
 [^note-19]: It should be noted that for metaphysical reasons, Leibniz denies that, strictly speaking, forces are ever transferred from one created entity to another. Thus, for example, he writes:
 
-It should be known, however, that forces do not cross from body into body, since any body whatever already has in itself the force that it exerts, even if it does not show it or convert it into motion of the whole prior to a new modification. For example, when a ball that is at rest is struck by another, it is moved by an implanted force, namely by elastic force, without which there would be no collision. Moreover, the Elastic force in the body arises from an internal motion invisible to us. And the Entelechy itself is modified corresponding to these mechanical or derivative [forces]. Therefore it can be said that force is already present in every body, and it is determined only by modification. (LW 131/Adams (1994, 383)
+It should be known, however, that forces do not cross from body into body, since any body whatever already has in itself the force that it exerts, even if it does not show it or convert it into motion of the whole prior to a new modification. For example, when a ball that is at rest is struck by another, it is moved by an implanted force, namely by elastic force, without which there would be no collision. Moreover, the Elastic force in the body arises from an internal motion invisible to us. And the Entelechy itself is modified corresponding to these mechanical or derivative [forces]. Therefore it can be said that force is already present in every body, and it is determined only by modification. (LW 131/Adams (1994, 383)[^adams-1994]
 
-[^note-20]: Leibniz clearly takes his infinitesimal calculus to relate *vis viva* and *vis mortua*. It is not so clear, however, whether he thinks the two quantities are related by, as it were, a single or a double integration. The passage quoted just above in the main text suggests that dead force is related to living force by a single integration so that if dead force were as x, living force would be as ∫xdx (or, put conversely, that dead force is related to living force as its first derivative). As Westfall (1971) notes, however, Leibniz sometimes suggests that the move from dead force to living force requires an integration twice over. Thus, for example, in a letter to De Volder, Leibniz writes “Hence according to the analogy of geometry or of analysis, solicitation [i.e. dead forces] are as dx, velocities as x and [living] forces as xx or ∫xdx” (or, put conversely, that dead force is related to living force as its second derivative) (G II.154–156). For further discussion, see especially Westfall (1971, 298f).
+[^note-20]: Leibniz clearly takes his infinitesimal calculus to relate *vis viva* and *vis mortua*. It is not so clear, however, whether he thinks the two quantities are related by, as it were, a single or a double integration. The passage quoted just above in the main text suggests that dead force is related to living force by a single integration so that if dead force were as x, living force would be as ∫xdx (or, put conversely, that dead force is related to living force as its first derivative). As Westfall (1971)[^westfall-1971] notes, however, Leibniz sometimes suggests that the move from dead force to living force requires an integration twice over. Thus, for example, in a letter to De Volder, Leibniz writes “Hence according to the analogy of geometry or of analysis, solicitation [i.e. dead forces] are as dx, velocities as x and [living] forces as xx or ∫xdx” (or, put conversely, that dead force is related to living force as its second derivative) (G II.154–156). For further discussion, see especially Westfall (1971, 298f).
 
 [^note-21]: That is, if we take dead force to be equal to be the derivative of the body’s velocity with respect to time multiplied by its mass, i.e. dead force = mass (dv/dt).
 
@@ -380,7 +380,7 @@ It should be known, however, that forces do not cross from body into body, since
 
 > I shall give another instance of this. God’s immensity makes him actually present in all spaces. But now if God is in space, how can it be said that space is in God, or that it is a property of God? We have often heard that a property is in its subject; but we never heard that a subject is in its property. In like manner, God exists in all time. How then can time be in God; and how can it be a property of God? These are perpetual *alloglossies* [i.e. verbal oddities]. (Fifth Paper, paragraph 45; G VII.399/Alexander 68)
 
-[^note-33]: On the doctrine of imaginary space, see Grant (1981), especially Chapter 6.
+[^note-33]: On the doctrine of imaginary space, see Grant (1981)[^grant-1981], especially Chapter 6.
 
 [^adams-1994]: Adams, Robert, 1994. *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
 

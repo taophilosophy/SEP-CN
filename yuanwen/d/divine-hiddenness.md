@@ -134,7 +134,7 @@ However, if we deny the existence of nonresistant nonbelievers, we must square o
 
 ## 5. The argument from the demographics of nonbelief
 
-According to Maitzen (2006),
+According to Maitzen (2006)[^maitzen-2006],
 
 > Contemporary demographic data illustrate the lopsided distribution of theistic belief. The populace of Saudi Arabia is at least 95 percent Muslim and therefore at least 95 percent theistic, while the populace of Thailand is 95 percent Buddhist and therefore at most 5 percent theistic…. If those data are even roughly accurate, the distribution of theistic belief is at least highly uneven between those two countries, and they are hardly unique in this respect. (179–180)
 
@@ -148,7 +148,7 @@ compared to theistic explanations since, on naturalism,
 
 Moreover, it seems implausible that God would be selective in the way God related to different people groups, as though God took considerably more pains to make sure that those in the Middle East, rather than Thailand or China or India, came to belief. One would antecedently expect that God would have the motivation and wherewithal to treat all people equally on this score, which is hard to square with God’s love and justice. So it is that the demographics of nonbelief are better explained naturalistically than theistically, and so those demographics constitute evidence for atheism (cf. Zagzebski 1994)[^zagzebski-1994].
 
-By way of reply, Marsh (2008) draws on Molinism in order to display how the demographics of nonbelief might be more likely on theism than Maitzen suggests. According to Molinism, God knows what free creatures would freely do in counterfactual situations, and God uses this information in the way God governs the universe. So, suppose that God knew that (i) there is a group of persons *P*
+By way of reply, Marsh (2008)[^marsh-2008] draws on Molinism in order to display how the demographics of nonbelief might be more likely on theism than Maitzen suggests. According to Molinism, God knows what free creatures would freely do in counterfactual situations, and God uses this information in the way God governs the universe. So, suppose that God knew that (i) there is a group of persons *P*
 
 > that are such that, no matter what creative act God had performed, if *P*s had existed, *P*s would have freely rejected God in their earthly lives
 
@@ -168,7 +168,7 @@ Mawson 2012 argues that, on theism, the demographics of nonbelief are expectable
 
 If God’s “deadline” is the Last Judgment, then, once again, it’s not the least bit surprising that, since people’s receptivity to theistic belief is dependent on the culture in which they are brought up and so forth, belief and nonbelief are distributed unevenly. Oddly enough, Mawson does not mention a third deadline, the one that Schellenberg has been on about for nearly three decades: the dawn of an individual’s capacity to relate personally with God. If that were God’s “deadline”, would we still expect the uneven distribution of belief and nonbelief we find across the globe?
 
-Baker-Hytch (2016) argues that the uneven distribution of belief and nonbelief is about as likely on theism as on naturalism since (i) the probability of that distribution on what we know about “mutual epistemic dependence” is high, (ii) the probability of what we know about mutual epistemic dependence on “inclusive theism”—the view that the eternal destiny of human beings is *not* determined by what they believe at their natural deaths—is about the same as it is on naturalism, and (iii) the probability of inclusive theism on theism is much higher than is non-inclusive theism. See Talbot 2014 for a Christian defense of (iii).
+Baker-Hytch (2016)[^baker-hytch-2016] argues that the uneven distribution of belief and nonbelief is about as likely on theism as on naturalism since (i) the probability of that distribution on what we know about “mutual epistemic dependence” is high, (ii) the probability of what we know about mutual epistemic dependence on “inclusive theism”—the view that the eternal destiny of human beings is *not* determined by what they believe at their natural deaths—is about the same as it is on naturalism, and (iii) the probability of inclusive theism on theism is much higher than is non-inclusive theism. See Talbot 2014 for a Christian defense of (iii).
 
 To say that we are *mutually epistemically dependent* is to say that we are
 
@@ -182,7 +182,7 @@ Another important social consideration for hiddenness arguments in general has t
 
 ## 6. The argument from natural nonbelief
 
-Marsh (2013) focuses on natural nonbelief in God’s existence,
+Marsh (2013)[^marsh-2013] focuses on natural nonbelief in God’s existence,
 
 > “natural” in the sense of being built into the physical or biological structure of the world, and being generally outside the scope of human agency and control. (2013: 355)
 

@@ -513,7 +513,7 @@ As a leading example, consider the types that are assigned to the combinators $\
 | $\bK$ | $a \rightarrow(b \rightarrow a)$ |
 | $\bS$ | $ (a \rightarrow(b \rightarrow c)) \rightarrow ((a \rightarrow b) \rightarrow(a \rightarrow c))$ |
 
-(See Hindley (1997) *Table of principal types* for a more extensive listing.) If we read ‘$\rightarrow$’ as implication and type variables as propositional variables, then we recognize three familiar tautologies in the right-hand column of the table. The language used is meager: there are only propositional variables and implication; there are no other connectives.
+(See Hindley (1997)[^hindley-1997] *Table of principal types* for a more extensive listing.) If we read ‘$\rightarrow$’ as implication and type variables as propositional variables, then we recognize three familiar tautologies in the right-hand column of the table. The language used is meager: there are only propositional variables and implication; there are no other connectives.
 
 The table suggests an interesting correspondence between the typed $\lambda$-calculus and formal logic. Could it really be that the types assigned to formulas, when understood as logical formulas, are valid? Yes, though ‘validity’ needs to understood not as classical validity:
 

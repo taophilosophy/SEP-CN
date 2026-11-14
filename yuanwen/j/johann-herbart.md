@@ -254,7 +254,7 @@ For Herbart, *Gemüt*—which I will here translate as “disposition”—has i
 
 when we feel, something is always simultaneously represented, and the feeling is contained *in* that representation (LPs [1850]: 32).[^note-49] Again, when we desire, we always also represent that which we desire (cf. Aristotle, *Metaphysics* Λ7, 1072a26, ff.).
 
-Herbart develops his theory of disposition on the basis of persisting (*stehende*) and rising (*steigende*) representations (SW VI: 57).[^note-50] That is, all dispositions must ultimately be explicable in terms of persisting or rising representations, and nothing else. Taking first the case of a representation (or representational series) *R* that stands still in consciousness, its persistence may be due to the simultaneous and countervailing forces exerted on it by rising and inhibiting representations, $R_r$ and $R_i$, respectively. Hence we will *feel* the state of *R* as a “compression [*Klemmung*]” between $R_r$ and $R_i$ (SW VI: 64; 58; cf. LPs (1850): 31) and such states are “unpleasant feelings” (SW VI: 59). On the other hand, if a representation *R* rises, then it may encounter an obstacle that is not strong enough to prevent it from rising, or it may be aided by advantageous forces (SW VI: 58–9). Since these forces affect the real activity of representing, Herbart argues that we cannot be unconscious of their pressure upon or aid of *R*:
+Herbart develops his theory of disposition on the basis of persisting (*stehende*) and rising (*steigende*) representations (SW VI: 57).[^note-50] That is, all dispositions must ultimately be explicable in terms of persisting or rising representations, and nothing else. Taking first the case of a representation (or representational series) *R* that stands still in consciousness, its persistence may be due to the simultaneous and countervailing forces exerted on it by rising and inhibiting representations, $R_r$ and $R_i$, respectively. Hence we will *feel* the state of *R* as a “compression [*Klemmung*]” between $R_r$ and $R_i$ (SW VI: 64; 58; cf. LPs (1850)[^lps-1850]: 31) and such states are “unpleasant feelings” (SW VI: 59). On the other hand, if a representation *R* rises, then it may encounter an obstacle that is not strong enough to prevent it from rising, or it may be aided by advantageous forces (SW VI: 58–9). Since these forces affect the real activity of representing, Herbart argues that we cannot be unconscious of their pressure upon or aid of *R*:
 
 > But these [impingements upon *R*] are not [themselves] *objects* of representing, but merely the *way* in which the representing is happening; these determinations of consciousness, insofar as it transcends the mere representing as such, must be called “feelings” [*Gefühle*]. (SW VI: 58)
 
@@ -318,7 +318,7 @@ When, then, do concepts arise? They are not generated as individual representati
 
 > we ascribe concepts to ourselves insofar as we abstract from the entrance of our representations into consciousness, and instead reflect upon the fact that they exist there, and now in fact allow their *repraesentātum*[^note-61] (the concept in the logical sense) to appear [in consciousness]. (SW VI: 121)
 
-So, if the psychological concept is to have as its *repraesentātum* just the content of the logical concept (its *repraesentandum*) and nothing more, then the psychological concept would have to shed all its peculiar and contingent traits, all of the complexions and fusions that have inevitably accrued to it in its own generation and reproduction (SW VI: 121). How is this possible? First, through a process of isolation into a “crude” or “confused” concept (SW VI: 125); second, through the crude concept’s analysis by means of judgments; and third, through the classification of these judgments (cf. Stout 1888b: 477; Weiss (1928) overlooks the first step).
+So, if the psychological concept is to have as its *repraesentātum* just the content of the logical concept (its *repraesentandum*) and nothing more, then the psychological concept would have to shed all its peculiar and contingent traits, all of the complexions and fusions that have inevitably accrued to it in its own generation and reproduction (SW VI: 121). How is this possible? First, through a process of isolation into a “crude” or “confused” concept (SW VI: 125); second, through the crude concept’s analysis by means of judgments; and third, through the classification of these judgments (cf. Stout 1888b: 477; Weiss (1928)[^weiss-1928] overlooks the first step).
 
 Isolation occurs as many representational series are progressively curtailed, in accordance with the laws of reproduction. Thus, if there we take two similar sensations, *a* and *b*, Herbart argues that as *b* is occurring, *a* reproduces itself as an imagining, together with all its fusions and complications.[^note-62] If now a third similar sensation*, c*, appears, then *a* and *b*, together with their connections (and connections of connections) reproduce themselves, but “now there is already an inhibition, as the connections of the one and the other will differ” (SW VI: 123). Imagine now that new, similar sensations flow in by the hundreds or thousands: “it is evident that then diverse associations of all the preceding [sensations] will be as good as extinguished in their reproduction”, letting only a tiny amount of each enter consciousness (SW VI: 123). Nevertheless, all these small amounts add up to a considerable total vivacity (*Totalkraft*), and this fused representation is tantamount to a concept. In other words, as similar elements of representational sequences fuse, the opposing links of these series cancel each other out, leaving only the fused total force shining forth surrounded by a “dim margin of competing alternatives” (Stout 1888b: 478)[^stout-1888b]. Having seen one and the same man in various positions, moods, clothes and places, then, should we see him again, the *total*-representation that now appears is the concept of this man.[^note-63] According to Herbart, crude general concepts of objects and events arise analogously to these incipient individual ones (SW VI: 124–5).
 
@@ -601,9 +601,9 @@ The author would like to thank Eric Quackenbush for his invaluable mathematical 
 
 ## Notes（原文脚注）
 
-[^note-1]: For biographical accounts, see: Weiss 1928: 7, ff.; Herbart 1887a; Boring 1950. Beiser (2014) is the best intellectual biography, especially in presenting the Kantian lines of Herbart’s thought, and his critique of German Idealism (esp. 123–5).
+[^note-1]: For biographical accounts, see: Weiss 1928: 7, ff.; Herbart 1887a; Boring 1950. Beiser (2014)[^beiser-2014] is the best intellectual biography, especially in presenting the Kantian lines of Herbart’s thought, and his critique of German Idealism (esp. 123–5).
 
-[^note-2]: For example, in his “Psychological Remarks on the Doctrine of Tones” (1811) and in LPs (1850) (p. 30); cp. Weiss 1928: 8; Boudewijnse, et al. 1999: 170.
+[^note-2]: For example, in his “Psychological Remarks on the Doctrine of Tones” (1811) and in LPs (1850)[^lps-1850] (p. 30); cp. Weiss 1928: 8; Boudewijnse, et al. 1999: 170.
 
 [^note-3]: Herbart’s chief objection was to Fichte’s view that the ego
 
@@ -669,13 +669,13 @@ In a word, the situation is this: we know that there are (in this idealized case
 
 [^note-24]: Hence, “the quantum of the representing that *must* be inhibited”. Cf. esp. SW IV: 371, §129.
 
-[^note-25]: The proposition that every representation suffers inhibition in inverse proportion to its vivacity was criticized as an arbitrary supposition by Ziehen (1900): Felsch 1902: 1. On arbitrariness, see also Boudewijnse, et al. 1999: 172–3 and esp. Boudewijnse, et al. 2001: 116.
+[^note-25]: The proposition that every representation suffers inhibition in inverse proportion to its vivacity was criticized as an arbitrary supposition by Ziehen (1900)[^ziehen-1900]: Felsch 1902: 1. On arbitrariness, see also Boudewijnse, et al. 1999: 172–3 and esp. Boudewijnse, et al. 2001: 116.
 
 [^note-26]: I follow Weiss 1928, in using lower case Greek letters to stand for the inhibited portions; Herbart does not (SW V: 288, ff.). Cf. Boring 1950: 259–60.
 
 [^note-27]: Again, following Weiss’s notation at Weiss 1928: 78; cf. SW V: 288.
 
-[^note-28]: Scholars such as Weiss (1928: 78), and Boudewijnse, et al. (1999: 175) have tried to restate Herbart’s calculations in simpler terms, but do not clearly explain how “some algebra” (Boudewijnse, et al.) makes it “not hard to see” (Weiss) that $R_c$ can in some cases $\le 0$.
+[^note-28]: Scholars such as Weiss (1928: 78)[^weiss-1928], and Boudewijnse, et al. (1999: 175) have tried to restate Herbart’s calculations in simpler terms, but do not clearly explain how “some algebra” (Boudewijnse, et al.) makes it “not hard to see” (Weiss) that $R_c$ can in some cases $\le 0$.
 
 [^note-29]: SW V: 291 (§47): “*[E]in negatives $r$* [i.e., $R_c$] *ist in unserm Falle so gut als eine unmögliche Größe*”. Boudewijnse, et al. do not seem sufficiently to distinguish the mathematical possibility of calculating a negative value for $R_c$ from the theoretical necessity of always interpreting such a value as = 0 (Boudewijnse, et al. 1999: 175)[^boudewijnse-1999].
 
@@ -717,7 +717,7 @@ In a word, the situation is this: we know that there are (in this idealized case
 
 [^note-48]: Ebbinghaus was influenced by Herbart’s theory of reproduction in his famous memory experiments. His fifth experiment “can be considered as the first attempt … to test a Herbartian prediction by experiment” (Boudewijnse, et al. 2001: 111, ff.)[^boudewijnse-2001]. Cf. Stout 1888b: 474, f.
 
-[^note-49]: Herbart viewed drives, feeling, and emotions “as all by-products of interactions among *Vorstellungen*, which [latter] themselves did not need to be classified into particular categories” (Boudewijnse, et al. 2001: 108)[^boudewijnse-2001]. Cf. SW VI: 56, f., and LPs (1850): 78, ff.
+[^note-49]: Herbart viewed drives, feeling, and emotions “as all by-products of interactions among *Vorstellungen*, which [latter] themselves did not need to be classified into particular categories” (Boudewijnse, et al. 2001: 108)[^boudewijnse-2001]. Cf. SW VI: 56, f., and LPs (1850)[^lps-1850]: 78, ff.
 
 [^note-50]: As he points out, the other two states in which representations might find themselves, viz., repressed and sinking, cannot serve to explain the conscious representations involved in feeling and desiring, since they are *ex hypothesi* either outside of or vanishing from consciousness.
 
@@ -781,7 +781,7 @@ Because the possibility of confusion is more acute in the case of the temporal, 
 
 [^note-78]: Cf. Montaigne, “Education”: 62; SW II: 67, f., and esp. Herbart’s warning against “Polyhistorie”, 85.
 
-[^note-79]: There is confusion about this key text, first published in two parts, in 1824 and 1825, respectively. Boudewijnse et al. 1999, identify it as the only text with this title, conflating this, the first, “analytic” part of the two-volume work, with the second, “synthetic” part, which listed as Herbart 1825. Again, Diriwächter (2013) follows the (admittedly misleading) indication on the Bonset reprint (see Herbart 1968), saying that the original work was published in 1850.
+[^note-79]: There is confusion about this key text, first published in two parts, in 1824 and 1825, respectively. Boudewijnse et al. 1999, identify it as the only text with this title, conflating this, the first, “analytic” part of the two-volume work, with the second, “synthetic” part, which listed as Herbart 1825. Again, Diriwächter (2013)[^diriwächter-2013] follows the (admittedly misleading) indication on the Bonset reprint (see Herbart 1968), saying that the original work was published in 1850.
 
 [^ap-1806]: AP*Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet* [*General Theory of Education, Derived from the Purpose of Child-rearing*], Herbart 1806, SW II: 1–139.
 

@@ -15,11 +15,11 @@ An important preliminary point is that almost all serious advocates of allowing 
 
 > It must be stressed that we are not arguing for the positive conclusion that organ sales must always be acceptable, let alone that there should be an *unfettered* market.
 
-While Wilkinson (2003, 132) is typical of organ sale defenders in wishing to distance himself from today’s (largely ‘underground’) organ trade:
+While Wilkinson (2003, 132)[^wilkinson-2003] is typical of organ sale defenders in wishing to distance himself from today’s (largely ‘underground’) organ trade:
 
 > … far from being a reason to continue the ban on sale, the dreadfulness of present practice may be a reason to *discontinue* prohibition, so that the organ trade can be brought ‘overground’ and properly regulated.
 
-Different scholars have different views about the precise scope and extent of the regulation required, but most support the requirements that organ sellers give valid consent, are paid a reasonable fee, and are provided with adequate medical care. Taylor (2005, 110) for example, says that:
+Different scholars have different views about the precise scope and extent of the regulation required, but most support the requirements that organ sellers give valid consent, are paid a reasonable fee, and are provided with adequate medical care. Taylor (2005, 110)[^taylor-2005] for example, says that:
 
 > At minimum … a market should require that vendors give their informed consent to the sale of their kidneys, that they not be coerced into selling their kidneys by a third party and that they receive adequate post-operative care.
 
@@ -57,15 +57,15 @@ The Saving of Lives Argument (unless rejected on empirical grounds) has an impor
 
 ### 2.3 Consistency
 
-Many authors have pointed out that there appears to be no fundamental difference between selling organs and other widely accepted practices, particularly selling one’s own ‘risky labour’ (work that involves a risk of harm that is the same as or greater than that involved in organ donation) (Harris 1992; Brecher 1990, 1994; Wilkinson & Garrard 1996)[^brecher-1990][^brecher-1994][^harris-1992][^wilkinson-1996]. Furthermore, common forms of ‘risky labour’ (coal mining, deep-sea diving, fire fighting, military service in a just war, etc.) are often *more* dangerous than selling a kidney, but are regarded as heroic, rather than condemned; it is seen as just and proper to reward those who do these things. This difference in attitude cannot be justified in terms of the good consequences that ‘risky labour’ produces, since the consequences of an organ sale (often, saving a life) may be just as good or better. Therefore, it is inconsistent to allow people to be paid for ‘risky labour’ while not allowing them to be paid for their organs. Savulescu (2003, 138) makes the point as follows:
+Many authors have pointed out that there appears to be no fundamental difference between selling organs and other widely accepted practices, particularly selling one’s own ‘risky labour’ (work that involves a risk of harm that is the same as or greater than that involved in organ donation) (Harris 1992; Brecher 1990, 1994; Wilkinson & Garrard 1996)[^brecher-1990][^brecher-1994][^harris-1992][^wilkinson-1996]. Furthermore, common forms of ‘risky labour’ (coal mining, deep-sea diving, fire fighting, military service in a just war, etc.) are often *more* dangerous than selling a kidney, but are regarded as heroic, rather than condemned; it is seen as just and proper to reward those who do these things. This difference in attitude cannot be justified in terms of the good consequences that ‘risky labour’ produces, since the consequences of an organ sale (often, saving a life) may be just as good or better. Therefore, it is inconsistent to allow people to be paid for ‘risky labour’ while not allowing them to be paid for their organs. Savulescu (2003, 138)[^savulescu-2003] makes the point as follows:
 
 > If we should be allowed to sell our labour, why not sell the means to that labour? If we should be allowed to risk damaging our body for pleasure (by smoking or skiing), why not for money which we will use to realise other goods in life? … or consider the diver. He takes on a job as a deep sea diver which pays him an extra $30,000 … This loading is paid because the job has higher risks to his life and health. He takes the job because he likes holidays in expensive exotic locations.
 
-Similarly, Fabre (2006, 131) argues that:
+Similarly, Fabre (2006, 131)[^fabre-2006] argues that:
 
 > If someone’s interest in raising income by engaging in very risky activities, such as being a full-time boxer or a building-site worker, is deemed important enough to confer on her the right to do so … there is no reason to deny her the right to make parts of her body available to others in exchange for money, even though she would incur similar risks in doing so.
 
-Recently, some scholars have questioned whether organ sale and ‘risky labour’ are as similar as they might appear to be. Malmqvist (2015), for example, argues that it is not clear that kidney sales and dangerous jobs really do involve comparable risks, all things considered.
+Recently, some scholars have questioned whether organ sale and ‘risky labour’ are as similar as they might appear to be. Malmqvist (2015)[^malmqvist-2015], for example, argues that it is not clear that kidney sales and dangerous jobs really do involve comparable risks, all things considered.
 
 ## 3. Harm and Risk
 
@@ -111,7 +111,7 @@ Indeed, there seem to be several ways in which an altruistic act might be wrong.
 2. The altruist benefits the person they are trying to help, but the intervention is wrongfully paternalistic.
 3. The altruist benefits the person they are trying to help, but in so doing wrongfully harms innocent third parties.
 
-It is not hard to come up with examples in which *A* loves *B* so much that *A* is prepared to do bad things to a third party, *C*, in order to benefit *B*. Such cases range from minor wrongdoing to serious evil. So, as McLachlan (1998) points out, while many acts of altruism are paradigm cases of virtue, others are ‘extremely wicked’.
+It is not hard to come up with examples in which *A* loves *B* so much that *A* is prepared to do bad things to a third party, *C*, in order to benefit *B*. Such cases range from minor wrongdoing to serious evil. So, as McLachlan (1998)[^mclachlan-1998] points out, while many acts of altruism are paradigm cases of virtue, others are ‘extremely wicked’.
 
 In defence of the value of altruism, it could be argued that even though many altruistic acts are wrong, all things considered, nonetheless altruism is always a positive (or ‘right-making’) characteristic. On this view, the analysis of Scott and Seglow’s racist donor example is that, while their racism is to be condemned, their altruism is not and that, in the case of racist donation (assuming that this really is wrong, all things considered), the ‘negative’ racism simply *outweighs* the ‘positive’ altruism. If this view is correct, then the claim that some altruistic acts are wrong becomes less relevant than it might at first appear, since what matters is the value of altruism as a *positive moral property* of actions, not whether all altruistic acts are good or permissible *all things considered*.
 
@@ -123,7 +123,7 @@ One final complication is the question of whether altruism (even if a good-makin
 
 As the quotation from Arrow (above) suggests, there is a puzzle about why permitting payment for blood or organs should be thought to reduce the amount of altruism in the world. For why couldn’t paid and unpaid donation systems peacefully coexist, with people who want to give freely continuing to do so? Furthermore, paid donations may even add to the amount of altruism in the world. For there can be cases in which a person sells an organ not for ‘selfish’ reasons, but in order to pay (for example) for someone else’s medical care (Brecher 1994)[^brecher-1994].
 
-Given this, how exactly will allowing organ sale lead to there being less altruism in the world? The main answer given is that it would undermine the practice of free donation. Abouna (1991, 167), for example, claims that there is:
+Given this, how exactly will allowing organ sale lead to there being less altruism in the world? The main answer given is that it would undermine the practice of free donation. Abouna (1991, 167)[^abouna-1991], for example, claims that there is:
 
 > … considerable evidence to indicate that marketing in human organs will eventually deprecate and destroy the present willingness of members of the public to donate their organs out of altruism.
 
@@ -161,7 +161,7 @@ First, as mentioned earlier, the amount of danger remains the same regardless of
 
 Second, it is not clear that monetary incentives make people act against their better interests or judgement. Indeed, this is a rather surprising view to take since people trade off monetary gains and losses against other factors on a daily basis; commerce and work require us to do this all the time. So if an adequately informed and competent person decides, after deliberation, that it is worth subjecting themselves to a given risk in return for $10,000 then we should not just assume that they are acting against their better judgement since, for all we know, the $10,000 is more valuable to them than avoiding the risk (Wilkinson 2005)[^wilkinson-2005].
 
-Finally, there is (c): the idea that financial incentives, when allowed to operate in certain conditions, pressurise people in ways which harm them, or render their decisions not truly voluntary, or violate certain rights. Rippon (2014, 148), for example, tells us that:
+Finally, there is (c): the idea that financial incentives, when allowed to operate in certain conditions, pressurise people in ways which harm them, or render their decisions not truly voluntary, or violate certain rights. Rippon (2014, 148)[^rippon-2014], for example, tells us that:
 
 > … because people in poverty often find themselves either indebted or in need of cash to meet their own basic needs and those of their families, they would predictably find themselves faced with social or legal pressure to pay the bills by selling their organs, if selling organs were permitted. So we would harm people in poverty by introducing a legal market that would subject them to such pressures.
 
@@ -215,7 +215,7 @@ So *even if* there is a quality of consent problem in these organ sale cases thi
 
 Perhaps the most commonly discussed objection to organ sale is the claim that it is exploitative (Greasley 2014; Hughes 1998; Lawler 2011, 2014; Wilkinson 2003)[^greasley-2014][^hughes-1998][^lawler-2011][^lawler-2014][^wilkinson-2003]. Saying what exploitation amounts to is itself a complex task, however, and I will not say much here about how it should be defined (see the entry on exploitation, and Wertheimer 1996, 2008, 2011)[^wertheimer-1996][^wertheimer-2008][^wertheimer-2011][^wertheimer-2008-2]. It is, however, worth noting that, on one view, defective (or invalid) consent is a necessary condition for the occurrence of exploitation. Thus (according to this view) a transaction can only be exploitative if the putative victim of exploitation is coerced, lacking capacity, ill-informed, or manipulated (or more generally, if there is some consent-invalidating factor in play). If this view of the relationship between consent and exploitation were correct, then the discussion of exploitation could be ended here; for consent issues were dealt with in the previous section and the exploitation worry about organ sale would only be worth taking seriously inasmuch as those consent arguments discussed above were sound. However, not everyone thinks that defective consent is required for there to be exploitation and so there may be some mileage in looking independently at exploitation.
 
-Similar thoughts apply to the unjust distribution of benefits and burdens. One view is that a transaction can only count as exploitative if the relevant benefits and burdens are unfairly distributed in favour of the exploiter and/or against the exploited. With this in mind, Harris (1992, 120) usefully distinguishes between two kinds of exploitation-claim. The first:
+Similar thoughts apply to the unjust distribution of benefits and burdens. One view is that a transaction can only count as exploitative if the relevant benefits and burdens are unfairly distributed in favour of the exploiter and/or against the exploited. With this in mind, Harris (1992, 120)[^harris-1992] usefully distinguishes between two kinds of exploitation-claim. The first:
 
 > … involves the idea of some disparity in the value of an exchange of goods and services.
 
@@ -225,11 +225,11 @@ There is, however, another sense of ‘exploitation’. This is:
 
 > … the idea of *wrongful* use and may occur when there are no financial or commercial dimensions to the transaction. A classic case here would be where it is claimed that lovers may exploit one another, that is, use one another in some wrongful way. The most familiar of such wrongful ways in this context might be where it is claimed that one partner uses the other or treats the other merely as a ‘sex object’ (1992, 120).
 
-Similarly Goodin (1987, 166) notes that:
+Similarly Goodin (1987, 166)[^goodin-1987] notes that:
 
 > Lovers can exploit one another just as surely as can economic classes. Yet neither party in an affectionate relationship is functioning in any standard sense as a ‘factor of production’. Nor, since neither party is creating valuable objects in any ordinary respect, does it in that context make much sense to define exploitation in the standard economics-based terms …
 
-So it looks as if (in Harris’s terms) ‘wrongful use’ exploitation is independent of some of the usual concerns about distributive justice and could persist even within a distributively fair organ sale system. Exploitation of this second kind is closely related to a number of other concepts or terms (Wilkinson 2003)[^wilkinson-2003]. One of these is *objectification*: wrongfully treating something (or someone) that is not a mere object as if it were a mere object. Another is *instrumentalisation*, which can be similarly defined as treating something (or someone) that is not a mere means as if it were a mere means (Davis 2009)[^davis-2009]. A third is *commodification*, treating something (or someone) that is not a mere commodity as if it were a mere commodity (Sandel 2012; Walsh 2015; Wilkinson 2000)[^sandel-2012][^walsh-2015][^wilkinson-2000]. These ideas are closely connected to the Kantian idea of dignity (Alpinar-Sencan 2017; Radin 1996)[^alpinar-sencan-2017]. As Dillon (2010) puts it, on this view:
+So it looks as if (in Harris’s terms) ‘wrongful use’ exploitation is independent of some of the usual concerns about distributive justice and could persist even within a distributively fair organ sale system. Exploitation of this second kind is closely related to a number of other concepts or terms (Wilkinson 2003)[^wilkinson-2003]. One of these is *objectification*: wrongfully treating something (or someone) that is not a mere object as if it were a mere object. Another is *instrumentalisation*, which can be similarly defined as treating something (or someone) that is not a mere means as if it were a mere means (Davis 2009)[^davis-2009]. A third is *commodification*, treating something (or someone) that is not a mere commodity as if it were a mere commodity (Sandel 2012; Walsh 2015; Wilkinson 2000)[^sandel-2012][^walsh-2015][^wilkinson-2000]. These ideas are closely connected to the Kantian idea of dignity (Alpinar-Sencan 2017; Radin 1996)[^alpinar-sencan-2017]. As Dillon (2010)[^dillon-2010] puts it, on this view:
 
 > To be a person is to have a status and worth that is unlike that of any other kind of being: it is to be an end in itself with dignity. And the only response that is appropriate to such a being is respect.
 

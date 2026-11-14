@@ -288,13 +288,13 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 ## Notes（原文脚注）
 
-[^note-1]: For information concerning Wolff’s life, the reader can consult, among other sources, Wolff’s own autobiography (published in Wuttke 1841)[^wuttke-1841] and the recent biography by Kertscher (2018).
+[^note-1]: For information concerning Wolff’s life, the reader can consult, among other sources, Wolff’s own autobiography (published in Wuttke 1841)[^wuttke-1841] and the recent biography by Kertscher (2018)[^kertscher-2018].
 
 [^note-2]: A German professor of philosophy typically lectured on several sub-disciplines, such as logic, metaphysics, ethics, as well as physics, politics, economics, grammar and rhetoric. For a general discussion, see Paulsen 1902 [1906].
 
 [^note-3]: For a brief account of the philosophy of Tschirnhaus, see Beck 1969: 189–195. For details concerning Wolff’s relationship with Tschirnhaus, see Dyck 2021a.
 
-[^note-4]: Other commentators who mention the interactive quality of Wolff’s atomic elements include: Beck (1969: 271); Johann Erdmann, (1866 [1890: 224–226]); and Burns (1966: 99).
+[^note-4]: Other commentators who mention the interactive quality of Wolff’s atomic elements include: Beck (1969: 271)[^beck-1969]; Johann Erdmann, (1866 [1890: 224–226]); and Burns (1966: 99)[^burns-1966].
 
 [^note-5]: Here, and throughout this section, passages from Wolff’s *Cosmologia* generalis are taken from Burns 1966.
 

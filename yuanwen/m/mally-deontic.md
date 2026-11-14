@@ -3,7 +3,7 @@
 
 *Lokhorst, Gert-Jan, Centrone, Stefania, Minari, Pierluigi*
 
-In 1926, Mally presented the first formal system of deontic logic. His system had several consequences which Mally regarded as surprising but defensible. It also had a consequence (“A is obligatory if and only if A is the case”) which Menger (1939) and almost all later deontic logicians have regarded as unacceptable. We will not only describe Mally’s system but also discuss how it may be repaired.
+In 1926, Mally presented the first formal system of deontic logic. His system had several consequences which Mally regarded as surprising but defensible. It also had a consequence (“A is obligatory if and only if A is the case”) which Menger (1939)[^menger-1939] and almost all later deontic logicians have regarded as unacceptable. We will not only describe Mally’s system but also discuss how it may be repaired.
 
 ## 1. Introduction
 
@@ -307,7 +307,7 @@ Although most of Mally’s surprising theorems are not derivable in **RD**, this
 | ARD2. | !A → ¬!¬A |
 
 - All theorems of **RD** are theorems of **ARD**.[^note-15]
-- ARD1( → ) is not a theorem of **RD**+ARD2.[^note-16] This formula does not occur in Mally’s book. According to Anderson, Bohnert (1945) was the first one to propose it.[^note-17]
+- ARD1( → ) is not a theorem of **RD**+ARD2.[^note-16] This formula does not occur in Mally’s book. According to Anderson, Bohnert (1945)[^bohnert-1945] was the first one to propose it.[^note-17]
 - ARD2 is not a theorem of **RD**+ARD1.[^note-18] This formula does not occur in Mally’s book, but Mally endorsed the corresponding informal principle: “a person who wills correctly does not will (not even implicitly) the negation of what he wills; correct willing is free of contradictions.”[^note-19]
 - **RD** supplemented with ARD1( → ) and ARD2 has the same theorems as **ARD**.[^note-20]
 
@@ -455,7 +455,7 @@ In particular, **MD** includes Mally’s controversial Axiom III, (A f B) ↔ !(
 
 ## 11. Conclusion
 
-Mally’s deontic logic is unacceptable for the reasons stated by Menger (1939). But it is not as bad as it may seem at first sight. Only relatively minor modifications are needed to turn it into a more acceptable system. One may either change the non-deontic basis to get either a system that is similar to Anderson’s system or a system that is identical with intuitionistic or constructive propositional logic with double negation as an obligation-like operator, or apply two patches to the deontic postulates to obtain a system similar to standard deontic logic.
+Mally’s deontic logic is unacceptable for the reasons stated by Menger (1939)[^menger-1939]. But it is not as bad as it may seem at first sight. Only relatively minor modifications are needed to turn it into a more acceptable system. One may either change the non-deontic basis to get either a system that is similar to Anderson’s system or a system that is identical with intuitionistic or constructive propositional logic with double negation as an obligation-like operator, or apply two patches to the deontic postulates to obtain a system similar to standard deontic logic.
 
 Some authors have refused to view Mally’s deontic logic as a “real” deontic system and say that they “mention it only by way of curiosity” (Meyer and Wieringa 1993, p. 4)[^meyer-1993]. The above shows that this judgment is too harsh. It is only a small step, not a giant leap, from Mally’s system to modern systems of deontic logic, so Mally’s pioneering effort deserves rehabilitation rather than contempt.
 
@@ -703,7 +703,7 @@ Second, if !(A ∨ B) → (!A ∨ !B) is a theorem, then (13b) is also a theorem
 
 [^note-28]: Proof. **IPC** provides (A → ¬ ¬ B) ↔ (¬ ¬ A → ¬ ¬ B), so **ID** provides (A → !B) ↔ (!A → !B) by Fact 1. **ID** provides !A ↔ ¬ ¬ A by Fact 1.
 
-[^note-29]: Morscher (1998) has made a somewhat similar proposal, but the details are different. The present approach was inspired by a number of suggestions made by Lou Goble.
+[^note-29]: Morscher (1998)[^morscher-1998] has made a somewhat similar proposal, but the details are different. The present approach was inspired by a number of suggestions made by Lou Goble.
 
 [^anderson-1967]: Anderson, Alan Ross, 1967, “Some nasty problems in the formal logic of ethics,” *Noûs*, 1: 345–360.
 

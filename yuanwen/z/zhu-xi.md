@@ -267,7 +267,7 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | comparative phil
 
 [^note-17]: Zhu highlights the proposition that, “The student must devote himself to reality,” in *Reflections on Things at Hand* (Chan 1967: 67, #62)[^chan-1967].
 
-[^note-18]: B.W. van Norden traces the idea of “Opposition in Chinese Philosophy,” with examples, from the Neolithic era until the Qing dynasty (see Other Internet Resources). Jiang Guozhu (1993) gives examples of the principle of complementarity in Song Neo-Confucianism, as in the thought of Zhang Zai (122–132 CE), Wang Anshi (169–173 CE), and Zhu’s friend, Lü Zuqian (411–417 CE). However, Cheng Hao’s formulation of the principle is the most general and embraces opposition and complementarity both.
+[^note-18]: B.W. van Norden traces the idea of “Opposition in Chinese Philosophy,” with examples, from the Neolithic era until the Qing dynasty (see Other Internet Resources). Jiang Guozhu (1993)[^jiang-1993] gives examples of the principle of complementarity in Song Neo-Confucianism, as in the thought of Zhang Zai (122–132 CE), Wang Anshi (169–173 CE), and Zhu’s friend, Lü Zuqian (411–417 CE). However, Cheng Hao’s formulation of the principle is the most general and embraces opposition and complementarity both.
 
 [^note-19]: The understanding was that since words differentiate, they have complements. This idea is also expressed in *Laozi*, chapter 2.
 

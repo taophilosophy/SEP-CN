@@ -296,7 +296,7 @@ Turing’s particular construction is quite intricate with its reliance on the *
 
 ### 2.4 The Halting Problem and the Entscheidungsproblem
 
-As explained, the purpose of Turing’s paper was to show that the Entscheidungsproblem for first-order logic is not computable. The same result was achieved independently by Church (1936a, 1936b) using a different kind of formal device which is logically equivalent to a Turing machine (see Sec. 4). The result went very much against what Hilbert had hoped to achieve with his finitary and formalist program. Indeed, next to Gödel’s incompleteness results, they broke much of Hilbert’s dream of making mathematics void of *Ignorabimus* as expressed in the following words of Hilbert:
+As explained, the purpose of Turing’s paper was to show that the Entscheidungsproblem for first-order logic is not computable. The same result was achieved independently by Church (1936a, 1936b)[^church-1936a][^church-1936b] using a different kind of formal device which is logically equivalent to a Turing machine (see Sec. 4). The result went very much against what Hilbert had hoped to achieve with his finitary and formalist program. Indeed, next to Gödel’s incompleteness results, they broke much of Hilbert’s dream of making mathematics void of *Ignorabimus* as expressed in the following words of Hilbert:
 
 > The true reason why Comte could not find an unsolvable problem, lies in my opinion in the assertion that there exists no unsolvable problem. Instead of the stupid Ignorabimus, our solution should be: We must know. We shall know. (1930: 963) [translation by the author]
 
@@ -422,7 +422,7 @@ Church used the definition of general recursive functions to state his thesis:
 
 > **Church’s thesis** Every effectively calculable function is general recursive
 
-In the context of recursive function one uses the notion of recursive solvability and unsolvability rather than Turing computability and uncomputability. This terminology is due to Post (1944).
+In the context of recursive function one uses the notion of recursive solvability and unsolvability rather than Turing computability and uncomputability. This terminology is due to Post (1944)[^post-1944].
 
 ### 4.2 λ-Definability
 

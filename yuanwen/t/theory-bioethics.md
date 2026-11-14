@@ -238,7 +238,7 @@ feminist philosophy, interventions: bioethics | feminist philosophy, interventio
 
 [^note-5]: The distinction between applied ethics and normative theory has more recently been challenged by Archard and Lippert-Rasmussen (2013).
 
-[^note-6]: Other so-called principlist approaches to bioethics include those of H. Tristram Engelhardt Jr. (1986 [1996]) and Robert Veatch (1995).
+[^note-6]: Other so-called principlist approaches to bioethics include those of H. Tristram Engelhardt Jr. (1986 [1996]) and Robert Veatch (1995)[^veatch-1995].
 
 [^note-7]: Fletcher’s approach was close to act-utilitarianism, with Ramsey’s more akin to a rules-based deontology. For more on Fletcher and Ramsey’s relevant work, its underlying theological assumptions, and the suitability of Beauchamp and Childress’ framework for advancing arguments “in the public square”, see Arras 2017: 3. For Beauchamp and Childress’ own account of their motivations for writing *Principles of Biomedical Ethics* in the first place, see Beauchamp and Childress 2019a.
 

@@ -97,15 +97,15 @@ One drawback of this result is that the bound is sensitive to the actual size of
 
 In summary, although the continuum function at regular cardinals is relatively unconstrained in ZFC, the continuum function at singular cardinals is (provably in ZFC) constrained in significant ways by the behaviour of the continuum function on the smaller cardinals.
 
-*Further Reading*: For more cardinal arithmetic see Jech (2003). For more on the case of singular cardinals and pcf theory see Abraham & Magidor (2010) and Holz, Steffens & Weitz (1999).
+*Further Reading*: For more cardinal arithmetic see Jech (2003)[^jech-2003]. For more on the case of singular cardinals and pcf theory see Abraham & Magidor (2010) and Holz, Steffens & Weitz (1999).
 
 ## 2. Definable Versions of the Continuum Hypothesis and its Negation
 
-Let us return to the continuum function on regular cardinals and concentrate on the simplest case, the size of 2^{ℵ₀}. One of Cantor's original approaches to CH was by investigating “simple” sets of real numbers (see Hallett (1984), pp. 3–5 and §2.3(b)). One of the first results in this direction is the Cantor-Bendixson theorem that every infinite closed set is either countable or contains a perfect subset, in which case it has the same cardinality as the set of reals. In other words, CH holds (in this formulation) when one restricts one's attention to closed sets of reals. In general, questions about “definable” sets of reals are more tractable than questions about arbitrary sets of reals and this suggests looking at definable versions of the continuum hypothesis.
+Let us return to the continuum function on regular cardinals and concentrate on the simplest case, the size of 2^{ℵ₀}. One of Cantor's original approaches to CH was by investigating “simple” sets of real numbers (see Hallett (1984)[^hallett-1984], pp. 3–5 and §2.3(b)). One of the first results in this direction is the Cantor-Bendixson theorem that every infinite closed set is either countable or contains a perfect subset, in which case it has the same cardinality as the set of reals. In other words, CH holds (in this formulation) when one restricts one's attention to closed sets of reals. In general, questions about “definable” sets of reals are more tractable than questions about arbitrary sets of reals and this suggests looking at definable versions of the continuum hypothesis.
 
 ### 2.1 Three Versions
 
-There are three different formulations of the continuum hypothesis—the *interpolant* version, the *well-ordering* version, and the *surjection* version. These versions are all equivalent to one another in ZFC but we shall be imposing a definability constraint and in this case there can be interesting differences (our discussion follows Martin (1976)). There is really a hierarchy of notions of definability—ranging up through the Borel hierarchy, the projective hierarchy, the hierarchy in *L*(ℝ), and, more generally, the hierarchy of universally Baire sets—and so each of these three general versions is really a hierarchy of versions, each corresponding to a given level of the hierarchy of definability (for a discussion of the hierarchy of definability see §2.2.1 and §4.6 of the entry “Large Cardinals and Determinacy”).
+There are three different formulations of the continuum hypothesis—the *interpolant* version, the *well-ordering* version, and the *surjection* version. These versions are all equivalent to one another in ZFC but we shall be imposing a definability constraint and in this case there can be interesting differences (our discussion follows Martin (1976)[^martin-1976]). There is really a hierarchy of notions of definability—ranging up through the Borel hierarchy, the projective hierarchy, the hierarchy in *L*(ℝ), and, more generally, the hierarchy of universally Baire sets—and so each of these three general versions is really a hierarchy of versions, each corresponding to a given level of the hierarchy of definability (for a discussion of the hierarchy of definability see §2.2.1 and §4.6 of the entry “Large Cardinals and Determinacy”).
 
 #### 2.1.1 Interpolant Version
 
@@ -166,7 +166,7 @@ This illustrates an interesting contrast between our three versions of the effec
 
 But there is an important point: Assuming large cardinal axioms (AD^{*L*(ℝ)} suffices), although one can produce outer models in which δ̰13 > ℵ₂ it is not currently known how to produce outer models in which δ̰13 > ℵ₃ or even Θ^{*L*(ℝ)} > ℵ₃. Thus it is an open possibility that from ZFC +AD^{*L*(ℝ)} one can prove Θ^{*L*(ℝ)} ≤ ℵ₃. Were this to be the case, it would follow that although large cardinals cannot rule out the definable failure of CH *they can rule out the definable failure of* 2^{ℵ₀} = ℵ₂. This could provide some insight into the size of the continuum, underscoring the centrality of ℵ₂.
 
-*Further Reading*: For more on the three effective versions of CH see Martin (1976); for more on the Foreman-Magidor program see Foreman & Magidor (1995) and the introduction to Woodin (1999).
+*Further Reading*: For more on the three effective versions of CH see Martin (1976)[^martin-1976]; for more on the Foreman-Magidor program see Foreman & Magidor (1995) and the introduction to Woodin (1999)[^woodin-1999].
 
 ## 3. The Case for ¬CH
 
@@ -208,7 +208,7 @@ Finally, this axiom settles CH:
 
 ### 3.2 Ω-Logic
 
-We will now recast the above results in terms of a strong logic. We shall make full use of large cardinal axioms and in this setting we are interested in logics that are “well-behaved” in the sense that the question of what implies what is not radically independent. For example, it is well known that CH is expressible in full second-order logic. It follows that in the presence of large cardinals one can always use set forcing to flip the truth-value of a purported logical validity of full second-order logic. However, there are strong logics—like ω-logic and β-logic—that do not have this feature—they are well-behaved in the sense that in the presence of large cardinal axioms the question of what implies what cannot be altered by set forcing. We shall introduce a very strong logic that has this feature—Ω-logic. In fact, the logic we shall introduce can be characterized as the *strongest* logic with this feature (see Koellner (2010) for further discussion of strong logics and for a precise statement of this result).
+We will now recast the above results in terms of a strong logic. We shall make full use of large cardinal axioms and in this setting we are interested in logics that are “well-behaved” in the sense that the question of what implies what is not radically independent. For example, it is well known that CH is expressible in full second-order logic. It follows that in the presence of large cardinals one can always use set forcing to flip the truth-value of a purported logical validity of full second-order logic. However, there are strong logics—like ω-logic and β-logic—that do not have this feature—they are well-behaved in the sense that in the presence of large cardinal axioms the question of what implies what cannot be altered by set forcing. We shall introduce a very strong logic that has this feature—Ω-logic. In fact, the logic we shall introduce can be characterized as the *strongest* logic with this feature (see Koellner (2010)[^koellner-2010] for further discussion of strong logics and for a precise statement of this result).
 
 #### 3.2.1 Ω-logic
 
@@ -326,7 +326,7 @@ The continuum hypothesis fails in this theory. Moreover, in the maximal theory *
 
 To summarize: Assuming the Strong Ω Conjecture, there is a “good” theory of *H*(ω₂) and all such theories imply that CH fails. Moreover, (again, assuming the Strong Ω Conjecture) there is a maximal such theory and in that theory 2^{ℵ₀} = ℵ₂.
 
-*Further Reading*: For the mathematics concerning ℙ_{*max*} see Woodin (1999). For an introduction to Ω-logic see Bagaria, Castells & Larson (2006). For more on incompatible Ω-complete theories see Koellner & Woodin (2009). For more on the case against CH see Woodin (2001a,b, 2005a,b).
+*Further Reading*: For the mathematics concerning ℙ_{*max*} see Woodin (1999)[^woodin-1999]. For an introduction to Ω-logic see Bagaria, Castells & Larson (2006). For more on incompatible Ω-complete theories see Koellner & Woodin (2009). For more on the case against CH see Woodin (2001a,b, 2005a,b).
 
 ## 4. The Multiverse
 
@@ -442,7 +442,7 @@ and
 
 > *V′*_{α} ⊧ “The Ω Conjecture”.
 
-This Σ₂-statement is invariant under set forcing and hence is one adherents to the generic multiverse view of truth must deem determinate. Moreover, the key arguments above go through with this Σ₂-statement instead of the Ω Conjecture. The person taking this second line of response would thus also have to maintain that this statement is false. But there is substantial evidence that this statement is *true*. The reason is that there is no known example of a Σ₂-statement that is invariant under set forcing relative to large cardinal axioms and which cannot be settled by large cardinal axioms. (Such a statement would be a candidate for an *absolutely undecidable* statement.) So it is reasonable to expect that this statement is resolved by large cardinal axioms. However, recent advances in inner model theory—in particular, those in Woodin (2010)—provide evidence that no large cardinal axiom can refute this statement. Putting everything together: It is very likely that this statement is in fact *true* ; so this line of response is not promising.
+This Σ₂-statement is invariant under set forcing and hence is one adherents to the generic multiverse view of truth must deem determinate. Moreover, the key arguments above go through with this Σ₂-statement instead of the Ω Conjecture. The person taking this second line of response would thus also have to maintain that this statement is false. But there is substantial evidence that this statement is *true*. The reason is that there is no known example of a Σ₂-statement that is invariant under set forcing relative to large cardinal axioms and which cannot be settled by large cardinal axioms. (Such a statement would be a candidate for an *absolutely undecidable* statement.) So it is reasonable to expect that this statement is resolved by large cardinal axioms. However, recent advances in inner model theory—in particular, those in Woodin (2010)[^woodin-2010]—provide evidence that no large cardinal axiom can refute this statement. Putting everything together: It is very likely that this statement is in fact *true* ; so this line of response is not promising.
 
 Third, one could reject either the Truth Constraint or the Definability Constraint. The trouble is that if one rejects the Truth Constraint then on this view (assuming the Ω Conjecture) Π₂ truth in set theory is reducible *in the sense of Turing reducibility* to truth in *H*(δ₀) (or, assuming the Strong Ω Conjecture, *H*(*c*⁺)). And if one rejects the Definability Constraint then on this view (assuming the Ω Conjecture) Π₂ truth in set theory is reducible *in the sense of definability* to truth in *H*(δ₀) (or, assuming the Strong Ω Conjecture, *H*(*c*⁺)). On either view, the reduction is in tension with the acceptance of non-pluralism regarding the background theory ZFC + “There is a proper class of Woodin cardinals”.
 
@@ -450,7 +450,7 @@ Fourth, one could embrace the criticism, reject the generic multiverse conceptio
 
 In summary: There is evidence that the only way out is the fourth way out and this places the burden back on the pluralist—the pluralist must come up with a modified version of the generic multiverse.
 
-*Further Reading*: For more on the connection between Ω-logic and the generic multiverse and the above criticism of the generic multiverse see Woodin (2011a). For the bearing of recent results in inner model theory on the status of the Ω Conjecture see Woodin (2010).
+*Further Reading*: For more on the connection between Ω-logic and the generic multiverse and the above criticism of the generic multiverse see Woodin (2011a)[^woodin-2011a]. For the bearing of recent results in inner model theory on the status of the Ω Conjecture see Woodin (2010)[^woodin-2010].
 
 ## 5. The Local Case Revisited
 
@@ -601,7 +601,7 @@ The issue, of course, is whether one can have an “*L*-like” model (one that 
 
 It turns out, however, that there are other candidate axioms that share these features, and so the spectre of pluralism reappears. For example, there are axioms *V* = *L*Ω*S* and *V* = *L*Ω(∗). These axioms would also be “effectively complete” and compatible with all large cardinal axioms. Yet they would resolve various questions differently than the axiom *V* = *L*^{Ω}. For example, the axiom, *V* = *L*Ω(∗) would imply ¬CH. How, then, is one to adjudicate between them?
 
-*Further Reading*: For an introduction to inner model theory see Mitchell (2010) and Steel (2010). For more on the recent developments at the level of one supercompact and beyond see Woodin (2010).
+*Further Reading*: For an introduction to inner model theory see Mitchell (2010)[^mitchell-2010] and Steel (2010)[^steel-2010]. For more on the recent developments at the level of one supercompact and beyond see Woodin (2010)[^woodin-2010].
 
 ## 7. The Structure Theory of *L*(*V*_{λ+1})
 
@@ -619,7 +619,7 @@ Let us consider one such (very optimistic) scenario: The true analogue of the st
 
 One should not place too much weight on this particular scenario. It is just one of many. The point is that we are now in a position to write down a list of definite questions with the following features: First, the questions on this list will have answers—independence is not an issue. Second, if the answers converge then one will have strong evidence for new axioms settling the undecided statements (and hence non-pluralism about the universe of sets); while if the answers oscillate, one will have evidence that these statements are “absolutely undecidable” and this will strengthen the case for pluralism. In this way the questions of “absolute undecidability” and pluralism are given mathematical traction.
 
-*Further Reading*: For more on the structure theory of *L*(*V*_{λ+1}) and the parallel with determinacy see Woodin (2011b).
+*Further Reading*: For more on the structure theory of *L*(*V*_{λ+1}) and the parallel with determinacy see Woodin (2011b)[^woodin-2011b].
 
 ## References（引用注释）
 
@@ -643,9 +643,9 @@ Gödel, Kurt | set theory | set theory: early development | set theory: large ca
 
 ## Notes（原文脚注）
 
-[^note-1]: See Hallett (1984) for further historical information on the role of CH in the early foundations of set theory.
+[^note-1]: See Hallett (1984)[^hallett-1984] for further historical information on the role of CH in the early foundations of set theory.
 
-[^note-2]: We have of necessity presupposed much in the way of set theory. The reader seeking additional detail—for example, the definitions of regular and singular cardinals and other fundamental notions—is directed to one of the many excellent texts in set theory, for example Jech (2003).
+[^note-2]: We have of necessity presupposed much in the way of set theory. The reader seeking additional detail—for example, the definitions of regular and singular cardinals and other fundamental notions—is directed to one of the many excellent texts in set theory, for example Jech (2003)[^jech-2003].
 
 [^note-3]: To say that GCH holds below δ is just to say that 2^{ℵ_{α}} = ℵ_{α+1} for all ω ≤ α < δ and to say that GCH holds at δ is just to say that 2^{ℵ_{δ}} = ℵ_{δ+1}).
 

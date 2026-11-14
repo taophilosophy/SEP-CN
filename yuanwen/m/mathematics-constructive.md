@@ -207,7 +207,7 @@ Every detachable bar of a fan is uniform.
 
 In its classical contrapositive form, FT$_D$ is known as *König’s Lemma*: if for every $n$ there exists a path of length $n$ that misses $B$, then there exists an infinite path that misses $B$ (see Dummett 1977 [2000], 49–53)[^dummett-1977]. (Of course, classically the condition of detachability is superfluous.) It is simple to construct a Brouwerian counterexample to König’s Lemma.
 
-Brouwer actually posited the fan theorem without the restriction of detachability of the bar. Attempts to prove that more general fan theorem constructively rely on an analysis of how we could know that a subset is a bar, and led Brouwer to a notion of *bar induction*; this is discussed in Section 3.6 of the entry on intuitionism in the philosophy of mathematics; another good reference for bar induction is van Atten (2004). We shall return to fan theorems in Section 4.
+Brouwer actually posited the fan theorem without the restriction of detachability of the bar. Attempts to prove that more general fan theorem constructively rely on an analysis of how we could know that a subset is a bar, and led Brouwer to a notion of *bar induction*; this is discussed in Section 3.6 of the entry on intuitionism in the philosophy of mathematics; another good reference for bar induction is van Atten (2004)[^atten-2004]. We shall return to fan theorems in Section 4.
 
 Of the many applications of Brouwer’s principles, the most famous is his *uniform continuity theorem* (which follows from the pointwise continuity consequences of CC1-2 together a form of fan theorem more general than FT$_D)$:
 

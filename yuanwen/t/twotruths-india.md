@@ -609,11 +609,11 @@ Indian Philosophy (Classical): perceptual experience and concepts | Madhyamaka |
 
 [^note-10]: Nāgārjuna’s *Mūlamadhyamakakārikā* is known to have at least eight Indian commentaries, four of which are preserved in Tibetan translation—commentary by Buddhapālita know simply *Buddhapālitavṛtti*, Bhāvavevika’s *Prajñapradīpa* (Lamp), Candrakīrti’s *Prasannapadā* (Clear Words), and commentary called *Akutobhyayā*—and four of which are not preserved in Tibetan translation are those of Devaśarman, Guṇamati, Guṇaśrī, and Sthiramati.
 
-[^note-11]: Bhāviveka is another way to spell his name. See Malcolm D. Eckel (2008: 88), Chr. Lindtner (1995: 37–65).
+[^note-11]: Bhāviveka is another way to spell his name. See Malcolm D. Eckel (2008: 88)[^eckel-2008], Chr. Lindtner (1995: 37–65).
 
 [^note-12]: The ordination lineage found in the Tibetan sources such as Roerich 1976 tells us Śāntarakṣita is a disciple of Jñānagarbh.
 
-[^note-13]: Changkya (1989: 254–255) makes this point, which I think is a noteworthy since Yogācāra Svātantrika Madhyamaka only adopts Yogācāra’s account of the conventional truth, but not its account of the ultimate truth. It rejects, even conventionally, Yogācāra’s claim that the consciousness and the nondual reality are ultimately real. Blumenthal (2004: 172) however reads the two systems to mean Yogācāra and Madhyamaka. If Changkya’s argument is correct, which I think he is, then Blumenthal’s unspecified reading of the two systems might mislead the readers into thinking that the Yogācāra Svātantrika Madhyamaka takes onboard the entire system of Yogācāra idealism.
+[^note-13]: Changkya (1989: 254–255)[^changkya-1989] makes this point, which I think is a noteworthy since Yogācāra Svātantrika Madhyamaka only adopts Yogācāra’s account of the conventional truth, but not its account of the ultimate truth. It rejects, even conventionally, Yogācāra’s claim that the consciousness and the nondual reality are ultimately real. Blumenthal (2004: 172) however reads the two systems to mean Yogācāra and Madhyamaka. If Changkya’s argument is correct, which I think he is, then Blumenthal’s unspecified reading of the two systems might mislead the readers into thinking that the Yogācāra Svātantrika Madhyamaka takes onboard the entire system of Yogācāra idealism.
 
 [^note-14]: An earlier version of the neither-one-nor many argument appears in the work of Śrigupta, Jñāgarbha’s teacher who is himself recognised to be Śāntarakṣita’s teacher. Śrigupta advances the argument as follows: “In reality everything, both inside and out, is empty, because it is neither one nor many, like a reflection.” See Eckel, (1987: 22). Similarly Jetāri, Dharmakīrti etc., also employs this argument. See Blumenthal (2004: 61).
 

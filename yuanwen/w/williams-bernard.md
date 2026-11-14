@@ -247,7 +247,7 @@ Thanks for their help to Daniel Calcutt, Christopher Coope, Roger Crisp, Wojdjec
 
 [^note-16]: Because of its frequent ironic uses, “regret” is rather too cool a word for what I might feel, or indeed for what Agamemnon might have felt. This is why I go on to use “anguish” and “torment”. I would use “guilt” and “remorse”, except that those words are, at least in some of their uses, too closely associated with the morality system. Both imply “self-blame”, and often remorse about x seems, like repentance, to involve the thought that *it was unqualifiedly wrong* to do x, which is precisely not the point here.
 
-[^note-17]: A classic example of this move from a particular to a general obligation is Singer’s (1972) much-debated move from a duty to rescue a child drowning *in front of me right now* to a duty to rescue, if I can, *every* dying child, *anywhere, at any time*.
+[^note-17]: A classic example of this move from a particular to a general obligation is Singer’s (1972)[^singer-1972] much-debated move from a duty to rescue a child drowning *in front of me right now* to a duty to rescue, if I can, *every* dying child, *anywhere, at any time*.
 
 [^note-18]: So far, Williams hopes in vain; indeed that day looks further off now than it did in 1973.
 

@@ -159,6 +159,32 @@ class TestCitations(unittest.TestCase):
         new2, n2, _ = link_citations('(Smith, 1999; Jones, 1991)', keys)
         self.assertEqual(n2, 0)
 
+    def test_name_outside_parens_linked(self):
+        # 2026-11-14 续查：SEP 亦通行「姓 (年份)」式，姓名在括号之外，
+        # 旧式只在括号内找姓名，整类永不命中（55 条词条零键标之主因）
+        keys = build_cite_keys(['van der Kuijp, Leonard W.J., 1989, Review.'])
+        new, n, used = link_citations('Following van der Kuijp (1989) one can', keys)
+        self.assertIn('(1989)[^kuijp-1989]', new)
+        self.assertEqual(n, 1)
+
+    def test_name_outside_parens_needs_year_only(self):
+        # 括号内含散文时不得借括号外的姓名挂键
+        keys = build_cite_keys(['Smith, A., 1990, Book One.'])
+        new, n, _ = link_citations('Smith (as everyone agrees, 1990) said', keys)
+        self.assertEqual(n, 0)
+
+    def test_bare_year_without_name_not_linked(self):
+        # 括号外无紧邻姓名的裸年份不挂键
+        keys = build_cite_keys(['Smith, A., 1990, Book One.'])
+        new, n, _ = link_citations('He wrote in (1990) that Smith agreed', keys)
+        self.assertEqual(n, 0)
+
+    def test_name_outside_parens_with_page(self):
+        keys = build_cite_keys(['Lazarus, R. S., 1991, Emotion and Adaptation.'])
+        new, n, _ = link_citations('(see Lazarus (1991, 122) for the list)', keys)
+        self.assertIn('(1991, 122)[^lazarus-1991]', new)
+        self.assertEqual(n, 1)
+
 
 class TestMathFidelity(unittest.TestCase):
     """2026-10-27 数学保真裁定的回归测试（全量抓取轮发现的丢失路径）。"""

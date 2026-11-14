@@ -200,7 +200,7 @@ Any orthoalgebra $\mathbf{L}$ is partially ordered by the relation $a\le b$ iff 
 
 An orthoalgebra satisfying condition (b) is said to be *orthocoherent*. In other words: an orthoalgebra is orthocoherent if and only if finite pairwise summable subsets of $\mathbf{L}$ are jointly summable. The lemma tells us that every orthocoherent orthoalgebra is, *inter alia*, an orthomodular poset. Conversely, an orthocomplemented poset is orthomodular iff $a\oplus b = a\vee b$ is defined for all pairs with $a\le b'$ and the resulting partial binary operation is associative—in which case the resulting structure $(\mathbf{L},\oplus ,0,1)$ is an orthocoherent orthoalgebra, the canonical ordering on which agrees with the given ordering on $\mathbf{L}$. Thus, orthomodular posets (the framework for Mackey’s version of quantum logic) are equivalent to orthocoherent orthoalgebras.
 
-A condition related to, but stronger than, orthocoherence is that any pairwise *compatible* propositions should be jointly compatible. This is sometimes called *regularity*. Most naturally occurring orthomodular lattices and posets are regular. In particular, Harding (1996, 1998) has shown that the direct-product decompositions of any algebraic, relational or topological structure can be organized in a natural way into a regular orthomodular poset.[^note-12]
+A condition related to, but stronger than, orthocoherence is that any pairwise *compatible* propositions should be jointly compatible. This is sometimes called *regularity*. Most naturally occurring orthomodular lattices and posets are regular. In particular, Harding (1996, 1998)[^harding-1996][^harding-1998] has shown that the direct-product decompositions of any algebraic, relational or topological structure can be organized in a natural way into a regular orthomodular poset.[^note-12]
 
 Some version of orthocoherence or regularity was taken by Mackey and many of his successors as an axiom. (Orthocoherence appears, in an infinitary form, as Mackey’s axiom V; regularity appears in the definition of a partial Boolean algebra in the work of Kochen and Specker (1965).) However, it is quite easy to construct simple model test spaces, having perfectly straightforward—even classical—interpretations, the logics of which are not orthocoherent. There has never been given any entirely compelling reason for regarding orthocoherence as an essential feature of all reasonable physical models. Moreover, certain apparently quite well-motivated constructions that one wants to perform with test spaces tend to destroy orthocoherence (see section 7).
 
@@ -389,7 +389,7 @@ Bell’s Theorem | quantum mechanics | quantum mechanics: Kochen-Specker theorem
 
 [^note-3]: It is important to note here that even in classical mechanics, only subsets of the state-space that are measurable (in the sense of measure theory) are regarded as representing observable properties of the system, and only these are assigned probabilities. The difference is that in the classical case, the observable properties form a sub-Boolean algebra of the power set of $S$, while in the quantum case, they do not.
 
-[^note-4]: For a recent, and particularly sharp, critique of Putnam’s proposal, see Maudlin 2005. A more slightly more sympathetic treatment is given by Bacciagaluppi (2009), who suggests that one’s attitude towards the kind of revision of logic Putnam proposes will be bound up with one’s preferences regarding a physical interpretation of quantum mechanics. In particular, Bacciagaluppi suggests that the Everett interpretation that consistent with something resembling Putnam’s thesis.
+[^note-4]: For a recent, and particularly sharp, critique of Putnam’s proposal, see Maudlin 2005. A more slightly more sympathetic treatment is given by Bacciagaluppi (2009)[^bacciagaluppi-2009], who suggests that one’s attitude towards the kind of revision of logic Putnam proposes will be bound up with one’s preferences regarding a physical interpretation of quantum mechanics. In particular, Bacciagaluppi suggests that the Everett interpretation that consistent with something resembling Putnam’s thesis.
 
 [^note-5]: The first explicit formulation of this interpretation seems to have been given by Jauch and Piron (1969).
 
@@ -397,7 +397,7 @@ Bell’s Theorem | quantum mechanics | quantum mechanics: Kochen-Specker theorem
 
 [^note-7]: Of course, another possible response to such a question is to dismiss it, perhaps with the observation that mathematical models of natural phenomena evolve, more or less organically, to fit the facts, and require no a priori justification. Or, to put it differently, we can insist that quantum logic has the structure that it does just because the *world* has that structure.
 
-[^note-8]: These include, besides Mackey’s original formalism, that of Piron (1976), the approach based on partial Boolean algebras of Kochen and Specker (1965, 1967), and various approaches emphasizing the convex structure of the set of (statistical) states of a system, e.g., Holevo 1982, Ludwig 1983, Pitowsky 1989.
+[^note-8]: These include, besides Mackey’s original formalism, that of Piron (1976)[^piron-1976], the approach based on partial Boolean algebras of Kochen and Specker (1965, 1967), and various approaches emphasizing the convex structure of the set of (statistical) states of a system, e.g., Holevo 1982, Ludwig 1983, Pitowsky 1989.
 
 [^note-9]: Even at this point, a couple of remarks are in order. First, notice that $E$ need not be the set of outcomes of any humanly executable, let alone repeatable, measurement or experiment. Any exhaustive set of mutually exclusive alternatives will serve, at least as long as some sense can be attached to the terms “occurrence” and “realization” (even as terms of art). Secondly, notice that every standard interpretation of probability theory, whether relative-frequentist, propensity, subjective or what-have-you, represents probability weights mathematically in the same way.  Thus, the framework just sketched is agnostic among these interpretations.
 
@@ -411,7 +411,7 @@ It follows that $D$ is empty, whence $A\cup C$ is a test.
 
 [^note-12]: Cabello (2012, Other Internet Resources) attributes to Ernst Specker the following comment: “Do you know what, according to me, is the fundamental theorem of quantum mechanics? (…) That is, if you have several questions and you can answer any two of them, then you can also answer all of them.” This is exactly regularity. As Harding’s results show, it is very far from uniquely quantum-mechanical. On the other hand, regularity, and even orthocoherence, are strong constraints on a probabilistic model. For instance, it is pointed out in Henson 2012 (Other Internet Resources) that orthocoherence enforces the quantum-mechanical upper-bound on the so-called “KCBS” parameter, one proposed measure of the degree to which a probabilistic model is contextual. Othocoherent probabilistic models, then, cannot be, by this measure, more “non-contextual” than allowed by quantum mechanics.
 
-[^note-13]: The approach taken here is modeled on, but somewhat less general than, that of Foulis, Piron and Randall (1983). See also Randall and Foulis (1985).
+[^note-13]: The approach taken here is modeled on, but somewhat less general than, that of Foulis, Piron and Randall (1983)[^randall-1983]. See also Randall and Foulis (1985).
 
 [^note-14]: Indeed, the pair $(S, F)$ is an *adjunction* between $\wp(X)$ and $\wp(\Delta)$—that is, for any $\Gamma \in \wp(\Delta)$ and any $J \in \wp(X)$, we have $S(\Gamma) \subseteq J$ if and only if $\Gamma \subseteq F(J)$. It follows that the mappings
 
@@ -427,7 +427,7 @@ are respectively a closure operator on $\wp(\Delta)$ and an interior operator on
 
 [^note-18]: For a development of this idea in a more general context, see Wilce 2000a.
 
-[^note-19]: Interesting work of Meyer (1999) and Clifton & Kent (2000) shows that the quantum test space $F(\mathbf{H})$ contains a dense semi-classical sub-test space. A detailed hidden-variables model along these lines has not been seriously entertained (and would presumably be otherwise problematic), but these results do suggest that experiments having finite precision can not rule out non-contextual hidden variables.
+[^note-19]: Interesting work of Meyer (1999)[^meyer-1999] and Clifton & Kent (2000) shows that the quantum test space $F(\mathbf{H})$ contains a dense semi-classical sub-test space. A detailed hidden-variables model along these lines has not been seriously entertained (and would presumably be otherwise problematic), but these results do suggest that experiments having finite precision can not rule out non-contextual hidden variables.
 
 [^note-20]: Essentially equivalent structures called *weak orthoalgebras* had earlier been introduced by R. Giuntini and H. Grueling [1989]. Also equivalent are the *D-posets* of Kopka and Chovanec [1994].
 

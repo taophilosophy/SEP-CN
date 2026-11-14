@@ -166,7 +166,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^note-3]: For a discussion and careful debunking of each of these stories, see Faral 1950 (9–33).
 
-[^note-4]: Buridan writes that unlike metaphysics and sciences subordinate to it, “theology has for its principles articles [of faith], which are believed quite apart from their evidentness, and considers further whatever can be deduced from such articles” [*Theologia vero habet pro principiis articulos creditos absque evidentia et considerat ultra quamcumque ex huiusmodi articulis possunt deduci*] (QM I.2: 4ra-rb). For discussion, see Zupko 2003 (Chapter 10). See also Courtenay (2001, 2004), who prefers to leave such questions open. Some of the most interesting research currently being done on Buridan concerns the teaching and scholarly careers of arts masters in mid-fourteenth century Paris.
+[^note-4]: Buridan writes that unlike metaphysics and sciences subordinate to it, “theology has for its principles articles [of faith], which are believed quite apart from their evidentness, and considers further whatever can be deduced from such articles” [*Theologia vero habet pro principiis articulos creditos absque evidentia et considerat ultra quamcumque ex huiusmodi articulis possunt deduci*] (QM I.2: 4ra-rb). For discussion, see Zupko 2003 (Chapter 10). See also Courtenay (2001, 2004)[^courtenay-2001], who prefers to leave such questions open. Some of the most interesting research currently being done on Buridan concerns the teaching and scholarly careers of arts masters in mid-fourteenth century Paris.
 
 [^note-5]: It is easy for modern readers to misunderstand the relationship of medieval philosophers to theologians as deferential, thereby confirming our own long-held prejudices about the so-called “Dark Ages”. But Hans Thijssen offers a fine corrective here, based on his extensive study of the primary sources: “At first sight the medieval academic condemnations seem to exemplify the facile generalization of older textbooks that the Middle Ages were ‘a millenium in which reason was enchained, thought was enslaved’. Although probably no one any longer upholds this unbalanced view, the medieval academic condemnations do appear to the modern reader as striking manifestations of the limitations exerted by Christian faith on the thought and teaching of university scholars. Medieval scholars, however, perceived censure from a different point of view, namely, as the exercise of teaching authority, rather than as a restraint on academic freedom” (Thijssen 1998: xii)[^thijssen-1998].
 
@@ -180,7 +180,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^note-10]: *Summa logicae* III.3 (OPh: 46). As Paul Spade puts it, “[for Ockham,] self-reference is to be allowed except where it would lead to paradox—in short, it is licit except where it is illicit” (1974, 299).
 
-[^note-11]: I owe this insight to Joël Biard (1989, 196).
+[^note-11]: I owe this insight to Joël Biard (1989, 196)[^biard-1989].
 
 [^note-12]: For Buridan’s treatment of the concept of infinity, see Thijssen 1991. For his conception of points, see Zupko 1993.
 
@@ -202,7 +202,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^note-21]: See Spade 1980 [Other Internet Resources].
 
-[^note-22]: Hughes (1989, 97). See also the entry on medieval theories of modality in this *Encyclopedia*.
+[^note-22]: Hughes (1989, 97)[^hughes-1989]. See also the entry on medieval theories of modality in this *Encyclopedia*.
 
 [^note-23]: See Knuuttila 1991 (487); Lagerlund 2000 (162–4). See also Knuuttila 1982, (355–7), and medieval theories of modality, in this *Encyclopedia*.
 
@@ -222,11 +222,11 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^note-31]: A further problem has been drawn to my attention by Paul Spade, in his comments on an earlier draft of this article: “if every proposition signifies *se esse veram*, and we’re construing the infinitival expression personally, we’ve got a problem. For it the proposition is *false*, the infinitival expression has nothing it can signify, so that the proposition really *doesn’t* have any additional signification at all, contrary to the whole point of the theory”. If Buridan was aware of this as an additional problem for the first solution, he does not mention it.
 
-[^note-32]: As Hughes (1982, 169) has suggested, the force of ‘virtually’ in ‘virtually implies’ is that the second proposition would be implied by the first only if the first is actually formulated. This emerges in a closing comment on the sophism in which Buridan remarks, “perfecting this solution, we have to say that every proposition, adding *that it exists*, implies that it is true” (S 9.8, 7ᵗʰ sophism: 970).
+[^note-32]: As Hughes (1982, 169)[^hughes-1982] has suggested, the force of ‘virtually’ in ‘virtually implies’ is that the second proposition would be implied by the first only if the first is actually formulated. This emerges in a closing comment on the sophism in which Buridan remarks, “perfecting this solution, we have to say that every proposition, adding *that it exists*, implies that it is true” (S 9.8, 7ᵗʰ sophism: 970).
 
 [^note-33]: Of course, this holds only for affirmative propositions. Negative propositions are true if their subject and predicate terms *do not* stand for the same thing or things.
 
-[^note-34]: In his helpful overview, Thijssen (1998, 2) writes, “In many official documents and other texts, philosophers and theologians were exhorted not to cross the boundaries of their own fields—a reference to *Proverbs* 22:28—and not to become theologizing philosophers and philosophizing theologians.”
+[^note-34]: In his helpful overview, Thijssen (1998, 2)[^thijssen-1998] writes, “In many official documents and other texts, philosophers and theologians were exhorted not to cross the boundaries of their own fields—a reference to *Proverbs* 22:28—and not to become theologizing philosophers and philosophizing theologians.”
 
 [^note-35]: Precedents for reading ‘theology’ as ‘metaphysics’ in this context—which is somewhat obscured by the fact that the incunabular edition of Buridan’s *Metaphysics* commentary erroneously gives ‘*metaphysica totalis*’ for ‘*mathematica totalis*’ and ‘*metaphysicus*’ for ‘*mathematicus*’ in the 23ʳᵈ and 25ᵗʰ lines of folio 34ra—can be found in Robert Kilwardby, *De Ortu Scientiarum* LXVI.655 and Thomas Aquinas, *In De trin*. V, a. 4, as well as in Albert the Great.
 
@@ -236,7 +236,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^note-38]: See the entry on the medieval problems of universals in this *Encyclopedia*, especially sections 8–10.
 
-[^note-39]: Buridan’s allusions to Plato on universals are fairly typical: see, e.g., QM VII.15: 50va-vb, and de Rijk (1992). On other topics, however, he is sometimes suspicious about whether a position handed down as Plato’s is in fact Plato’s. For example, after disposing of an argument introduced “on the authority of Plato” for the role of separate substances in the generation of living things, he concludes, “and so in this way Plato’s opinion is destroyed—if he in fact had an opinion of the sort we have ascribed to him” (QM VII.9: 47ra). For discussion of Buridan and Plato, see Schönberger (1994, 292–95).
+[^note-39]: Buridan’s allusions to Plato on universals are fairly typical: see, e.g., QM VII.15: 50va-vb, and de Rijk (1992)[^rijk-1992]. On other topics, however, he is sometimes suspicious about whether a position handed down as Plato’s is in fact Plato’s. For example, after disposing of an argument introduced “on the authority of Plato” for the role of separate substances in the generation of living things, he concludes, “and so in this way Plato’s opinion is destroyed—if he in fact had an opinion of the sort we have ascribed to him” (QM VII.9: 47ra). For discussion of Buridan and Plato, see Schönberger (1994, 292–95)[^schönberger-1994].
 
 [^note-40]: For the meaning of twelfth-century nominalism, see the special issue of *Vivarium* (30.1, May 1992) devoted to this topic.
 

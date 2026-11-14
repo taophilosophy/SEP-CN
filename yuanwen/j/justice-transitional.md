@@ -203,7 +203,7 @@ The commission was divided into three committees in order to realize the aims se
 
 The TRC's authority and resources were unprecedented in the history of truth commissions. It had the power to subpoena witnesses and the authority to order searches and seizures. It had a witness protection program, 300 staff members, and an annual budget of 18 million dollars. Its proceedings were broadcast on a daily basis on both radio and television, and were widely covered by the printed press. During the course of its tenure, the commission took testimony from more than 22,000 victims and witnesses, hearing upwards of 2,000 of them in public.
 
-Unsurprisingly, the main controversy surrounding the commission's work concerned its amnesty-granting powers. The opportunity afforded to perpetrators of egregious human rights abuses to walk away from prosecution enraged many black South Africans who wanted to see those who had tormented them and their families put behind bars. As far as many blacks were concerned, the TRC allowed some of apartheid's worst offenders to “get away with murder.”[^note-29] As Martin Meredith (1999: 315) puts it in his superb survey of the commission's tenure:
+Unsurprisingly, the main controversy surrounding the commission's work concerned its amnesty-granting powers. The opportunity afforded to perpetrators of egregious human rights abuses to walk away from prosecution enraged many black South Africans who wanted to see those who had tormented them and their families put behind bars. As far as many blacks were concerned, the TRC allowed some of apartheid's worst offenders to “get away with murder.”[^note-29] As Martin Meredith (1999: 315)[^meredith-1999] puts it in his superb survey of the commission's tenure:
 
 > …the work of the TRC provoked…anger in parts of the black community…particularly over the way security force operatives responsible for heinous crimes were given freedom in exchange for a bit of truth telling, while victims and their families were denied access to the courts. What many wanted more than truth was justice—prosecution in the courts and prison sentences.
 
@@ -217,11 +217,11 @@ Following a failed attempt to annex East Timor in 1999, Indonesia-supported mili
 
 In 2011, Brazil also created a truth commission to investigate and publicize human rights abuses that occurred during the rule of Brazil's military dictatorship from 1964–1985. The seven-person commission was provided with a two-year mandate to investigate human rights abuses and to compile a file report to be released publicly. However, doubts regarding the truth commission remain as a result of a 1979 law that provided amnesty to many of those responsible for crimes committed during the military regime's rule.[^note-30]
 
-Much of the scholarly literature on the TRC in South Africa centers on the question of justification, on the attempt to locate a rationale which might make sense of an arrangement that goes against a great deal of our untrained intuitions about justice. “If justice requires the prosecution and punishment of those who commit gross human rights violations”, writes Elizabeth Kiss (2000: 68), “then the amnesty offered by the TRC violates justice. Can the TRC be defended against, or in spite of, this criticism?” Similarly, Amy Gutmann and Dennis Thompson (2000: 22) point out that:
+Much of the scholarly literature on the TRC in South Africa centers on the question of justification, on the attempt to locate a rationale which might make sense of an arrangement that goes against a great deal of our untrained intuitions about justice. “If justice requires the prosecution and punishment of those who commit gross human rights violations”, writes Elizabeth Kiss (2000: 68)[^kiss-2000], “then the amnesty offered by the TRC violates justice. Can the TRC be defended against, or in spite of, this criticism?” Similarly, Amy Gutmann and Dennis Thompson (2000: 22) point out that:
 
 > In a democratic society, and especially in a society that is trying to overcome injustices of the past, trading criminal justice for a general social benefit such as social reconciliation requires a moral defense if it is to be defensible.
 
-Kent Greenwalt (2000: 191) echoes the same concern when he reminds us that,
+Kent Greenwalt (2000: 191)[^greenwalt-2000] echoes the same concern when he reminds us that,
 
 > those who decide whether to include amnesty as an adjunct to a truth commission must face two basic issues. Does granting amnesty to murderers and torturers involve doing injustice? What might justify the state's doing such an injustice?
 
@@ -257,7 +257,7 @@ Finally, it is questionable whether the TRC can be justified through a deliberat
 
 #### 3.2.2 Justice as Recognition
 
-A second justification holds that truth commissions, by focusing on victims and providing them with the opportunity to tell their stories to a sympathetic forum, recognize victims as moral agents with stories worth telling. As Kiss (2000: 73) puts it,
+A second justification holds that truth commissions, by focusing on victims and providing them with the opportunity to tell their stories to a sympathetic forum, recognize victims as moral agents with stories worth telling. As Kiss (2000: 73)[^kiss-2000] puts it,
 
 > providing a platform for victims is one of the core tasks of truth commissions, not merely as a way of obtaining information but also from the standpoint of justice…Those whose lives were shattered are entitled to have their suffering acknowledged and their dignity affirmed, to know that their “pain is real and worthy of attention”… We affirm the dignity and agency of those who have been brutalized by attending to their voices and making their stories a part of the historical record.
 
@@ -273,7 +273,7 @@ Some defenders of truth commissions claim that these bodies are better than tria
 
 The “more truth” justification is a strong one. Two observations are, however, in order. First, as some critics of the TRC have noted, its choice to focus on gross human rights violations—on dramatic stories of suffering, has obscured some of the institutional aspects of apartheid. Thus, the interconnections between business and the security forces, the wildly discriminatory practices of many work places and the support that many white media outlets lent authorities in masking the practices of apartheid were largely overlooked by the commission's work. Insofar as these, too, are aspects of the truth, they were not revealed by the TRC.
 
-Second, the fact that the TRC was the result of a political compromise meant that there were some areas in which it treaded carefully. Some worm cans remained closed. In a recent book on the history of apartheid, Terry Bell (2003: 4) mentions one remarkable example: as Fredrick de Klerk, South Africa's last white leader, was heading for Oslo to receive the Nobel peace prize in 1993, he ordered a strike on a house allegedly housing militants from the Pan African Congress liberation group. A police death squad ended up killing five teenagers sleeping in a private home in the town of Umtata. The incident was never investigated by the TRC.
+Second, the fact that the TRC was the result of a political compromise meant that there were some areas in which it treaded carefully. Some worm cans remained closed. In a recent book on the history of apartheid, Terry Bell (2003: 4)[^bell-2003] mentions one remarkable example: as Fredrick de Klerk, South Africa's last white leader, was heading for Oslo to receive the Nobel peace prize in 1993, he ordered a strike on a house allegedly housing militants from the Pan African Congress liberation group. A police death squad ended up killing five teenagers sleeping in a private home in the town of Umtata. The incident was never investigated by the TRC.
 
 #### 3.2.4 Forgiveness
 
@@ -281,7 +281,7 @@ It has become fashionable of late to speak about the importance of forgiveness i
 
 The most prevalent argument in favor of political forgiveness concerns its potential to release victims and wrongdoers from the effects of vindictiveness. A desire for revenge can generate a never-ending violent cycle, trapping both sides in a dynamic of blow and response, eventually destroying all those involved. As Gandhi famously put it, “an eye for an eye can make the whole world blind.”
 
-But forgiveness is not the only way to quell the desire for revenge. We can steer clear of revenge without forgiving. Victims might seek legal rather than private justice. They might agree to institutionalize their vindictive passions through the use of the courts. As Martha Minow (1998: 11) puts it, it is possible “to transfer the responsibilities for apportioning blame and punishment from victims to public bodies acting according to the rule of law.” This is, in essence, the rationale behind the attempts to expand the authority and centrality of the international criminal courts in recent decades.
+But forgiveness is not the only way to quell the desire for revenge. We can steer clear of revenge without forgiving. Victims might seek legal rather than private justice. They might agree to institutionalize their vindictive passions through the use of the courts. As Martha Minow (1998: 11)[^minow-1998] puts it, it is possible “to transfer the responsibilities for apportioning blame and punishment from victims to public bodies acting according to the rule of law.” This is, in essence, the rationale behind the attempts to expand the authority and centrality of the international criminal courts in recent decades.
 
 Victims can (and very often do) simply move away from the scene of the trauma rather than seek revenge or engage in forgiveness. In recent years there has been a quiet exodus of approximately 100,000 Palestinians from the West Bank and Gaza, to Europe and North America. Most Holocaust survivors, uninterested in revenge or forgiveness, simply moved thousands of miles away from the sites of their horrific memories and swore never to set foot in the countries that had persecuted them. Others replace revenge with commemoration, dedicating themselves to the creation and maintenance of monuments and museums. Thus, for example, many of those handing out the ID cards at the Holocaust Museum in Washington D.C. are holocaust survivors, as are many of the guides in Jerusalem's Yad Vashem memorial.
 
@@ -365,7 +365,7 @@ Having examined, in some detail, three of the most important ways in which natio
 
 Most often, forgetting cannot serve as the basis for peacemaking. It is destructive on both the individual and collective levels. It compounds the suffering of individuals by forcing them to watch their tormentors walk around freely, reenter politics, or maintain their posts in public service and the military. All of this takes place while their own painful memories and traumas remain unacknowledged. Furthermore, policies advocating forgetfulness decrease the chances that victims will be compensated for their suffering. The most common institutional products of such policies are laws granting amnesty. Typically, under such amnesties, perpetrators are protected from both criminal charges and civil liability. Amanda Pike, a reporter for PBS' Frontline, tells a story which starkly demonstrates the cost of forgetfulness for individual victims. During a trip through the Cambodian province of Pailin, Pike came across Samrith Phum, whose husband was executed by the Khmer Rouge. Phum knows the murderer well. He is her neighbor and he operates a noodle shop across the street from her house. He was never arrested and never charged with her husband's murder. There is no procedure through which he can be sued for damages. Phum must simply get used to the idea that her husband's killer quietly manages his store next door (Pike 2002).
 
-On the national level, a government advocating forgetfulness commits the political correlate of suicide: it undermines the ability of the group of people it governs to call itself a nation. The French thinker Ernest Renan (1882) defined a nation as consisting of
+On the national level, a government advocating forgetfulness commits the political correlate of suicide: it undermines the ability of the group of people it governs to call itself a nation. The French thinker Ernest Renan (1882)[^renan-1882] defined a nation as consisting of
 
 > two things, which, in truth, are really just one…One is in the past, the other in the present. One is the possession in common of a rich legacy of memories; the other is current consent, the desire to live together, the willingness to continue to maintain the value of the heritage that one has received as a common possession.
 
@@ -466,41 +466,41 @@ I am grateful to Thomas Pogge and to Greg Fried for their comments and encourage
 
 [^note-17]: The conspiracy jurisprudence developed in Nuremberg certainly brings up the same difficulty: organizations such as the SS and Gestapo were declared criminal and all their members were subjected to conviction solely on this basis, without the need to establish individual *mens rea*.
 
-[^note-18]: For an excellent treatment of the tensions between legalism and the use of CR (as well as other doctrines that challenge legalistic assumptions) see Drumbel (2005) and Robinson (forthcoming). Also of interest in this context is Osiel's (1999) defense of “liberal show trials”.
+[^note-18]: For an excellent treatment of the tensions between legalism and the use of CR (as well as other doctrines that challenge legalistic assumptions) see Drumbel (2005) and Robinson (forthcoming). Also of interest in this context is Osiel's (1999)[^osiel-1999] defense of “liberal show trials”.
 
 [^note-19]: There are indications that this is changing with the advent of the ICC. As noted earlier, the jurisprudence regarding the conditions and extent of victims' involvement in the proceedings of the ICC has not yet been crystallized. To the extent that victims are allowed to have a substantial role in influencing punishment or even in the selection of whom to indict, the court will be jettisoning its original commitment to strict, procedural legalism.
 
-[^note-20]: Reporting on the ICTY for the *Financial Times*, John Lloyd (2008) writes:
+[^note-20]: Reporting on the ICTY for the *Financial Times*, John Lloyd (2008)[^lloyd-2008] writes:
 
 > The trials are often grindingly boring, heavy on detail, challenges, asides, elaborate courtesies. Following an early morning flight, I fell asleep watching the trial of two Macedonians, charged with a murderous attack on the Muslim village of Ljuboten in 2001. I was roused by a stern UN guard, but soon fell asleep again—to be prodded awake by her truncheon. A sole spectator slumbering in the gallery does not enhance the dignity of the court. I claim, in extenuation, some distinguished precedents. Rebecca West, covering Nuremberg for *The New Yorker*, found the proceedings “insufferably tedious”.
 
 Similar concerns about tedium prompted a senior member of the prosecution team at Nuremberg to resign when Robert Jackson decided to focus his case on documentary evidence and rely less on dramatic live evidence.
 
-[^note-21]: Describing her experience of the ICTR, journalist and human rights activist Helena Cobban (2004) notes:
+[^note-21]: Describing her experience of the ICTR, journalist and human rights activist Helena Cobban (2004)[^cobban-2004] notes:
 
 > You go to this courtroom, set in the middle of a bustling African market town, and here are people enacting these strange rituals of a European-style courtroom. I was looking at this whole thing through a sort of anthropological lens and it seemed so bizarre, so weird, that you have these people here who normally practice in British-style courts and are wearing their little powdered wigs and all the lawyers and judges wear long robes. They all wear little lacy bits at their throat, which is something that happens in French courts. To see them going through all these rituals of people coming into the court in an orderly fashion and standing and rising and sitting, and “My learned friend” this, and “His Honor, the Judge” that, in the middle of this African market town, it just strikes me as bizarre.
 
-[^note-22]: For a chilling survey of failures in preventing genocide in the 20ᵗʰ century see Power (2002). It is unclear if the claim is fair given the long break in the practice of international criminal justice during the cold war. In other words, we do not yet have a long enough record to tell whether the practice of international criminal law can lead to deterrence. What we can tell is that Nuremberg didn't prevent Yugoslavia and Rwanda, and that the tribunals set up to account for these atrocities didn't help prevent the genocide in Sudan.
+[^note-22]: For a chilling survey of failures in preventing genocide in the 20ᵗʰ century see Power (2002)[^power-2002]. It is unclear if the claim is fair given the long break in the practice of international criminal justice during the cold war. In other words, we do not yet have a long enough record to tell whether the practice of international criminal law can lead to deterrence. What we can tell is that Nuremberg didn't prevent Yugoslavia and Rwanda, and that the tribunals set up to account for these atrocities didn't help prevent the genocide in Sudan.
 
 [^note-23]: Bolivia, Uruguay, Uganda, Zimbabwe and Chad also made use of truth commissions before South Africa did, but these efforts were far less substantial.
 
-[^note-24]: My summary of the three Latin American truth commissions is based on Hayner (2001). More literature on the Salvadorian commission is available online from the United State Institute of Peace. More information on the Chilean commission is available online from BeyondIntractability.org.
+[^note-24]: My summary of the three Latin American truth commissions is based on Hayner (2001)[^hayner-2001]. More literature on the Salvadorian commission is available online from the United State Institute of Peace. More information on the Chilean commission is available online from BeyondIntractability.org.
 
-[^note-25]: This survey of the circumstances surrounding the creation of the TRC draws on Boraine (2001), Graybill (2002), Hayner (2002), Meredith (1999) and van der Merwe ( 2003, 2005
+[^note-25]: This survey of the circumstances surrounding the creation of the TRC draws on Boraine (2001)[^boraine-2001], Graybill (2002)[^graybill-2002], Hayner (2002), Meredith (1999)[^meredith-1999] and van der Merwe ( 2003, 2005
 
-[^note-26]: For good accounts of the legislative process see Krog (1998) and Graybill (2002: ch.1).
+[^note-26]: For good accounts of the legislative process see Krog (1998)[^krog-1998] and Graybill (2002: ch.1).
 
 [^note-27]: For a more specific account of the criteria used to determine whether an act was ‘politically motivated’ see Hayner (2002: 274 fn. 32).
 
-[^note-28]: For more detail see Minow (2000: 56) and Kiss (2000: 68). South Africa's constitutional court rejected a last moment challenge to the legality of the TRC filed by the families of Steven Biko and human rights lawyer Griffith Mxenge. The claimants argued that the commission unconstitutionally blocked them from receiving compensation for the murder of their relatives.
+[^note-28]: For more detail see Minow (2000: 56)[^minow-2000] and Kiss (2000: 68)[^kiss-2000]. South Africa's constitutional court rejected a last moment challenge to the legality of the TRC filed by the families of Steven Biko and human rights lawyer Griffith Mxenge. The claimants argued that the commission unconstitutionally blocked them from receiving compensation for the murder of their relatives.
 
-[^note-29]: The phrase is taken from a BBC news report aired on May 31, 2001 (Childs 2001)[^childs-2001]. See also Michael Ignatieff's (1997a) reportage about the TRC for the New Yorker. He writes: “The reality is that, when you trade amnesty for truth, murderers get away with murder”.
+[^note-29]: The phrase is taken from a BBC news report aired on May 31, 2001 (Childs 2001)[^childs-2001]. See also Michael Ignatieff's (1997a)[^ignatieff-1997a] reportage about the TRC for the New Yorker. He writes: “The reality is that, when you trade amnesty for truth, murderers get away with murder”.
 
 [^note-30]: Brazilian Senator Rondolfe Rodrigues stated in a October 27, 2011 interview with Brazil's Folha newspaper, “It's a timid commission, much less than those set up in Uruguay and Argentina” (BBC 2011)[^bbc-2011].
 
-[^note-31]: The best, most comprehensive philosophical treatment of forgiveness can be found in Griswold 2007. Griswold rejects the appropriateness of political forgiveness, arguing it should be replaced by political apologies. For a detailed account of the argument against forgiveness in politics see also Eisikovits (2004).
+[^note-31]: The best, most comprehensive philosophical treatment of forgiveness can be found in Griswold 2007. Griswold rejects the appropriateness of political forgiveness, arguing it should be replaced by political apologies. For a detailed account of the argument against forgiveness in politics see also Eisikovits (2004)[^eisikovits-2004].
 
-[^note-32]: Elmer Plischke (1947) provides an excellent account of the evolution of the Allied denazification efforts.
+[^note-32]: Elmer Plischke (1947)[^plischke-1947] provides an excellent account of the evolution of the Allied denazification efforts.
 
 [^note-33]: For a full discussion of the problems associated with denazification in Germany, see Joseph Napoli's excellent article “Denazification from an American's Viewpoint” (1949). Napoli served as the former chief of the Denazification Division and advisor on denazification matters to the director of Military Government. The definitive recent account of Denazification and its limits can be found in Judt 2006.
 
@@ -508,7 +508,7 @@ Similar concerns about tedium prompted a senior member of the prosecution team a
 
 [^note-35]: For an illuminating argument according to which lustration is a form of “administrative justice” that is, practically speaking, more important in shaping the post conflict environment that trials or reparations see Meierhenrich 2006. Meierhenrich argues that lustration policies must be guided by principles of “prudence” and “proportionality” which can and should limit the degree of lustration practiced. These principles are supposed to prevent lustration from becoming a catalyst for future war. But it seems plausible to use them as guarantors of the functionality of the emerging regime (especially since its failure may well ignite future war). For an excellent consideration of the relationship between lustration and public trust see Horne and Levi 2004
 
-[^note-36]: Martha Minow (1998) provides a fascinating example to illuminate this difficulty: what if we find out that East German guards, facing prosecution for shooting those who tried to leave for the west, were especially screened for obedience? That only those with a unique (perhaps morbid) disposition to obey were hired to do this job? It is easy to multiply examples further and ask how extortion, threats against one's family or advancement opportunities for one's children impact culpability.
+[^note-36]: Martha Minow (1998)[^minow-1998] provides a fascinating example to illuminate this difficulty: what if we find out that East German guards, facing prosecution for shooting those who tried to leave for the west, were especially screened for obedience? That only those with a unique (perhaps morbid) disposition to obey were hired to do this job? It is easy to multiply examples further and ask how extortion, threats against one's family or advancement opportunities for one's children impact culpability.
 
 [^note-37]: See Letki 2002: 542,
 

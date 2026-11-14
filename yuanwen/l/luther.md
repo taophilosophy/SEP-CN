@@ -464,7 +464,7 @@ And *Sermons on the First Epistle of St. Peter*, 1523, WA 12:331/LW 30:77:
 
 See also the *Second Disputation Against the Antinomians*, 1538, where Luther speaks of the law being “empty” (*lex vacua*) when the law no longer presents itself in an accusatory form — which is how it is experienced by “the angels and saints in heaven” who “do with joy the things of the law” (WA 39.1:433, translated in Sonntag (ed. and trans.), *Only the Decalogue is Eternal*, 91–92).
 
-[^note-36]: Luther took himself to be following Paul in making this view of law distinctive of Christianity, as against the “legalism” of Judaism (see for example *Against Latomus*, 1522, WA 8:70–3/LW 32:177–180), though it remains a matter of dispute whether this is a legitimate reading of the Jewish attitude to law, and of Paul’s criticism of it, or whether it is instead Luther’s projection of his own views: see the debate on Paul begun by E. P. Sanders (1977).
+[^note-36]: Luther took himself to be following Paul in making this view of law distinctive of Christianity, as against the “legalism” of Judaism (see for example *Against Latomus*, 1522, WA 8:70–3/LW 32:177–180), though it remains a matter of dispute whether this is a legitimate reading of the Jewish attitude to law, and of Paul’s criticism of it, or whether it is instead Luther’s projection of his own views: see the debate on Paul begun by E. P. Sanders (1977)[^sanders-1977].
 
 [^note-37]: See *Lectures on Galatians*, 1535, WA 40.1:479–91/LW 26:308–16. Luther summarizes his view at WA 40.1:485/LW 26:312–3:
 

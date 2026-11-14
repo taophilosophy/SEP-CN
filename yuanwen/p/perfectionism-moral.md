@@ -301,13 +301,13 @@ The author thanks David Sobel for commenting on an earlier draft and for many he
 
 [^note-3]: Sidgwick claims that no moralist would recommend that a person sacrifice his own perfection for the sake of perfecting of others. But Sidgwick here views moral virtue as the key component of perfection. He is, accordingly, rejecting the thought that morality requires us to sacrifice our own virtue for the sake of promoting it in others.
 
-[^note-4]: The idea of an agent-centered prerogative was introduced by Scheffler (1982); and its implications for consequentialism are explored in the debate between Kagan (1989) and Scheffler (1991).
+[^note-4]: The idea of an agent-centered prerogative was introduced by Scheffler (1982)[^scheffler-1982]; and its implications for consequentialism are explored in the debate between Kagan (1989)[^kagan-1989] and Scheffler (1991)[^scheffler-1991].
 
 [^note-5]: I assume here that human perfection is not measured in terms of how far people go in perfecting themselves (roughly, the distance between where they start and where they end up), but rather in terms of the level or degree of perfection they attain, irrespective of how far they had to go in attaining it.
 
 [^note-6]: Defenders of state neutrality differ as to which political decisions the constraint applies to: to all political decisions, to constitutional issues only, to coercive laws and policies, etc. This complication is ignored here.
 
-[^note-7]: It is common to mention the view that the consequences of state action should be neutral between conceptions of the good. Here the constraint is formulated in terms of neutrality of effect. Proponents of state neutrality generally mention this view to put it to one side. For an argument that they are too quick to do so see Wall (2001).
+[^note-7]: It is common to mention the view that the consequences of state action should be neutral between conceptions of the good. Here the constraint is formulated in terms of neutrality of effect. Proponents of state neutrality generally mention this view to put it to one side. For an argument that they are too quick to do so see Wall (2001)[^wall-2001].
 
 [^note-8]: It is possible to distinguish the doctrine that the state should not take sides between different conceptions of the good from the doctrine that enjoins the exclusion of ideals from political justification (Raz 1986, 108–109)[^raz-1986]. In this entry, the principle of state neutrality is construed to include both of these more specific doctrines.
 
@@ -323,13 +323,13 @@ The author thanks David Sobel for commenting on an earlier draft and for many he
 
 [^note-14]: To make the example cleaner, we can stipulate that the money for the subsidy is raised by a voluntary state-run lottery.
 
-[^note-15]: For discussion see Wall (2013a).
+[^note-15]: For discussion see Wall (2013a)[^wall-2013a].
 
 [^note-16]: It is sometimes claimed that all state action is coercive. If so, then we would need to distinguish direct from indirect state coercion. “Noncoercive state perfectionism” would then be equivalent to indirectly coercive state perfectionism.
 
 [^note-17]: Some contemporary Kantians hold that state coercion as well as non-coercive state action is justified only if it is necessary to establish the mutual independence of those subject to it. This generates a more robust constraint against state perfectionism than that provided by political liberalism (Pallikkathayil 2016)[^pallikkathayil-2016].
 
-[^note-18]: For a fuller development of this point see the distinction between state-centered and multi-centered perfectionism in Chan (2000).
+[^note-18]: For a fuller development of this point see the distinction between state-centered and multi-centered perfectionism in Chan (2000)[^chan-2000].
 
 [^ackerman-1980]: Ackerman, B., 1980, *Social Justice and the Liberal State*, New Haven: Yale University Press.
 

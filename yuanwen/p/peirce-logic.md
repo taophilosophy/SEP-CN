@@ -228,7 +228,7 @@ We have now come quite close to a modern notation of quantifiers. Dipert emphasi
 
 Ten years later, in a more comprehensive and more survey-style paper, “On the algebra of logic” (1880), we find Peirce’s ideas of DNLR emerge more tightly and more systematically. Below we will now summarize the developments of quantification presented in “Brief description of the algebra of relatives” (1882a), “The logic of relatives” (1883a), and “On the algebra of logic: A contribution to the philosophy of notations” (1885a plus 1885b).
 
-First, he modifies the previous idea of representing a property in terms of individual terms and extends it to relations. In DNLR (1870), “$\unary{w}$”, which stands for the property “being a woman”, is expressed as
+First, he modifies the previous idea of representing a property in terms of individual terms and extends it to relations. In DNLR (1870)[^dnlr-1870], “$\unary{w}$”, which stands for the property “being a woman”, is expressed as
 
 $$\unary{w} = \unary{W}' + \unary{W}'' + \unary{W}''' + \cdots$$
 
@@ -330,7 +330,7 @@ Afterwards well-known mathematicians and logicians, Löwenheim, Skolem and Zerme
 
 Interestingly enough, Putnam points out that this portion of Whitehead’s work was prior to his collaboration with Russell, and during this early period Whitehead’s work, especially on quantifiers, mentions Peirce and his students, but not Frege. Clearly we needed to wait until Russell drew our attention to Frege, but “it was Peirce who seems to have been known to the entire world logical community” (Putnam 1982: 297)[^putnam-1982]. Putnam’s label of the Peirce group as “effective” discoverers of the quantifier and Frege as a discoverer could be a resolution to the Frege-first versus Peirce-first debate.
 
-While many have focused on the development of quantifiers, it is quite noteworthy that Tarski drew our attention to the importance of the algebra of relations in his 1941 paper “On the Calculus of Relations”.[^note-20] Just as Peirce did in his DNLR (1870) paper, Tarski acknowledges De Morgan’s contribution: It is De Morgan who first realized the necessity of representing relations as well as qualities and struggled over the limits of traditional logic. And Tarski gives full credit to Peirce in terms of solid advance over the calculus of relations.
+While many have focused on the development of quantifiers, it is quite noteworthy that Tarski drew our attention to the importance of the algebra of relations in his 1941 paper “On the Calculus of Relations”.[^note-20] Just as Peirce did in his DNLR (1870)[^dnlr-1870] paper, Tarski acknowledges De Morgan’s contribution: It is De Morgan who first realized the necessity of representing relations as well as qualities and struggled over the limits of traditional logic. And Tarski gives full credit to Peirce in terms of solid advance over the calculus of relations.
 
 > The title of creator of the theory of relations was reserved for C. S. Peirce. In several papers published between 1870 and 1882a, he introduced and made precise all the fundamental concepts of the theory of relations and formulated and established its fundamental laws.…In particular, his investigations made it clear that a large part of the theory of relations can be presented as a calculus which is formally much like the calculus of classes developed by G. Boole and W. S. Jevons, but which greatly exceeds it in richness of expression and is therefore incomparably more interesting from the deductive point of view. (Tarski 1941: 73)[^tarski-1941]
 
@@ -342,7 +342,7 @@ Some Peirce scholars have also claimed that Peirce’s invention of quantifiers 
 
 So far, we have argued that Peirce’s insight on relations pushed him to extend the territory of logic *from* monadic, non-relational, propositional logic *to* polyadic, relational, quantification logic. This is the beginning of modern logic as we know it. In this section, taking up a different angle of Peirce’s adventure—to extend forms of representation *from* symbolic systems *to* diagrammatic systems, we present a story where his two different kinds of extension—one from non-relations to relations and the other from symbolic to diagrammatic—are connected with each other.
 
-Peirce presented propositional logic, quantification logic, and modal logic in a graphical way, and invented three systems of Existential Graphs (EG)—Alpha, Beta, and Gamma, respectively. In spite of Peirce’s own evaluation of Existential Graphs as “my chef d’oeuvre”, EG had to wait to be understood for a half century until two philosophers—Don Roberts and Jay Zeman—produced their impressive work. In the 1980s, EG was receiving attention from new disciplines—computer science and artificial intelligence—thanks to John Sowa’s novel application of EG to knowledge representation in *Conceptual Structure* (1984). More recently, toward the end of the twentieth century interdisciplinary research on multi-modal reasoning has drawn our attention to non-symbolic systems (see, e.g., Barwise & Allwein [eds] 1996 and Barwise & Etchemendy 1991)[^barwise-1991] and EG, not surprisingly, occupied the top of their list. In that context, Shin (2002) focused on differences between symbolic versus diagrammatic systems and suggested a new way of understanding the EG system, though this was criticized in Pietarinen 2006.
+Peirce presented propositional logic, quantification logic, and modal logic in a graphical way, and invented three systems of Existential Graphs (EG)—Alpha, Beta, and Gamma, respectively. In spite of Peirce’s own evaluation of Existential Graphs as “my chef d’oeuvre”, EG had to wait to be understood for a half century until two philosophers—Don Roberts and Jay Zeman—produced their impressive work. In the 1980s, EG was receiving attention from new disciplines—computer science and artificial intelligence—thanks to John Sowa’s novel application of EG to knowledge representation in *Conceptual Structure* (1984). More recently, toward the end of the twentieth century interdisciplinary research on multi-modal reasoning has drawn our attention to non-symbolic systems (see, e.g., Barwise & Allwein [eds] 1996 and Barwise & Etchemendy 1991)[^barwise-1991] and EG, not surprisingly, occupied the top of their list. In that context, Shin (2002)[^shin-2002] focused on differences between symbolic versus diagrammatic systems and suggested a new way of understanding the EG system, though this was criticized in Pietarinen 2006.
 
 While Peirce mainly presented linear expressions in his official writings from 1870 to 1885,[^note-22] the notation adopted in Frege’s 1879 *Begriffsschrift* is more iconic; it is at least not as linear as Peirce’s in the above period. However, it is Peirce, not Frege, who invented a full-blown non-symbolic system for first-order logic—Existential Graphs. It is Peirce’s EG, not his linear first-order notation, which is presented as a deductive system with inference rules. As the EG system has been investigated more rigorously, philosophical questions involving Peirce’s invention of the system have been raised as well. The discovery of EG’s power and novelty has naturally led us to other parts of Peirce’s philosophy. Why and how did the invention of EG come about? What does EG reveal about Peirce’s view of logic and representation?
 
@@ -527,7 +527,7 @@ Emphasizing the symmetry both in erasure versus insertion and in even versus odd
 10. we may *draw* any graph.
 11. RR3: A double cut may be erased or drawn around any part of a graph.
 
-For examples of deduction sequences, refer to Roberts (1973: 45–46) and Shin (2002: 91).
+For examples of deduction sequences, refer to Roberts (1973: 45–46)[^roberts-1973] and Shin (2002: 91)[^shin-2002].
 
 ### 2.3 Beta system
 
@@ -551,7 +551,7 @@ The way universal and existential statements are represented in the Beta system 
 
 > [A]ny line of identity whose outermost part is evenly enclosed refers to **something**, and any one whose outermost part is oddly enclosed refers to **anything** there may be. (1903b [CP 4.458][^note-37])
 
-Let us borrow the two following graphs from Roberts (1973: 51):[^note-38]
+Let us borrow the two following graphs from Roberts (1973: 51)[^roberts-1973]:[^note-38]
 
 ![The first graph consists of the phrases 'is good' and 'is ugly' connected by a line. The second graph is the same as the first except the second phrase is surrounded by an oval and the whole is surrounded by another oval.](../assets/peirce-logic/Quantifier1.svg)
 
@@ -735,9 +735,9 @@ algebra of logic tradition | Boole, George | diagrams: and diagrammatical reason
 
 [^note-6]: “In his [De Morgan’s] effort to break the bonds of traditional logic and to expand the limits of logical inquiry, he directed his attention to the general concept of relations and fully recognized its significance. Nevertheless, De Morgan cannot be regarded as the creator of the modern theory of relations, since he did not possess an adequate apparatus for treating the subject in which he was interested, and was apparently unable to create such an apparatus” (Tarski 1941: 73)[^tarski-1941].
 
-[^note-7]: Emily Michael (1974) argues for Peirce’s independence, while Daniel Merrill (1978) presents a more nuanced picture by tracking down the correspondences between De Morgan and Peirce.
+[^note-7]: Emily Michael (1974)[^michael-1974] argues for Peirce’s independence, while Daniel Merrill (1978)[^merrill-1978] presents a more nuanced picture by tracking down the correspondences between De Morgan and Peirce.
 
-[^note-8]: For more details, see Michael (1974) and Merrill (1978: 257–266). The following is one of Peirce’s first examples for relational arguments:
+[^note-8]: For more details, see Michael (1974)[^michael-1974] and Merrill (1978: 257–266)[^merrill-1978]. The following is one of Peirce’s first examples for relational arguments:
 
 > Everyone loves him whom he treats kindly.
 > James treats John kindly.
@@ -821,7 +821,7 @@ This is interesting indeed, as Brady points out: “We see here an interesting f
 
 [^note-34]: As far as Peirce’s pursuit of graphical representation goes, one more EG system, Gamma graphs, was invented by Peirce after Beta graphs. Gamma graphs aim to represent modality by adding two kinds of signs to Beta graphs—broken cuts and tinctures (1903c, 1906).
 
-[^note-35]: Although the matter is not yet settled, Dau (2006) has raised a question about one of the rules.
+[^note-35]: Although the matter is not yet settled, Dau (2006)[^dau-2006] has raised a question about one of the rules.
 
 [^note-36]: Examples in Peirce 1903b [CP 4.455] nicely illustrate the visual effect of an identity line.
 

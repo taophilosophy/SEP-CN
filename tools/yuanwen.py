@@ -772,11 +772,29 @@ def build_cite_keys(entry_texts):
                         r'\b' + name_pat + r'\b' +
                         r'[^;()\[\]]{0,60}?\b' +
                         re.escape(year) + re.escape(suffix) + r'\b'))
-        keys.append({'key': key, 'pats': pats, 'text': text})
+        # 2026-11-14 审计（epistemology-language-tibetan 等）：SEP 亦通行
+        # 「姓 (年份)」式——姓名在圆括号之外，旧式只在括号内找姓名，整类永不
+        # 命中（cite_markers=0 的 96 条中 55 条属此类，haecceitism 165 处、
+        # decision-causal 114 处）。此类只在括号内容是年份／页码、且姓名紧贴
+        # 括号左侧时挂键，免把正文里的裸年份误挂给附近提过的人。
+        pre = []
+        yearre = None
+        if ym:
+            yearre = re.compile(r'(?<![\d])' + re.escape(year) + re.escape(suffix) + r'\b')
+            for name in (joined, first, acronym):
+                if name and len(name) >= 3:
+                    name_pat = re.escape(name).replace('’', APOS_CLASS)
+                    pre.append(re.compile(r'\b' + name_pat + r"(?:’s|'s)?\s*$"))
+        keys.append({'key': key, 'pats': pats, 'pre': pre, 'yearre': yearre,
+                     'text': text})
     return keys
 
 
 GROUP_RE = re.compile(r'\([^()]{0,300}?\)|(?<!\])\[[^()\[\]]{0,300}?\](?!\()')
+# 「姓 (年份)」式：括号里只有年份与页码，才允许把键挂在括号后。
+BARE_CITE_RE = re.compile(
+    r'^\(\s*\d{4}[a-e]?(?:(?:\s*[,;]\s*\d{4}[a-e]?)*)'
+    r'(?:\s*[,:]\s*\d+(?:\s*[–—-]\s*\d+)?)?\s*\)$')
 
 
 def link_citations(md_text, keys):
@@ -790,6 +808,14 @@ def link_citations(md_text, keys):
         for k in keys:
             if any(p.search(group) for p in k['pats']):
                 hits.append(k['key'])
+        if not hits and BARE_CITE_RE.match(group):
+            pre_txt = md_text[max(0, m.start() - 90):m.start()]
+            if pre_txt:
+                for k in keys:
+                    if not k.get('yearre') or not k['yearre'].search(group):
+                        continue
+                    if any(p.search(pre_txt) for p in k.get('pre') or ()):
+                        hits.append(k['key'])
         if hits:
             count[0] += len(hits)
             used.update(hits)
