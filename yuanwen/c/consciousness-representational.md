@@ -235,7 +235,7 @@ Representationalists of course respond by trying to specify distinct properties 
 
 One of the most interesting recent examples (not discussed by Macpherson) is offered by Nickel (2007):
 
-| （嵌套表：*Figure 1* \| \| \| \| \| --- \| --- \| --- \| \| \| \| \| \| \| \| \|） |   | （嵌套表：*Figure 2* \| 1 \| 2 \| 3 \| \| --- \| --- \| --- \| \| 4 \| 5 \| 6 \| \| 7 \| 8 \| 9 \|） |
+| <table class="all-rules cellpad-med shortcap"> <caption>Figure 1</caption> <tbody> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> </tr> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> </tr> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> </tr> </tbody> </table> |   | <table class="all-rules cellpad-med shortcap"> <caption>Figure 2</caption> <tbody> <tr> <td>&nbsp;1&nbsp;</td> <td>&nbsp;2&nbsp;</td> <td>&nbsp;3&nbsp;</td> </tr> <tr> <td>&nbsp;4&nbsp;</td> <td>&nbsp;5&nbsp;</td> <td>&nbsp;6&nbsp;</td> </tr> <tr> <td>&nbsp;7&nbsp;</td> <td>&nbsp;8&nbsp;</td> <td>&nbsp;9&nbsp;</td> </tr> </tbody> </table> |
 | --- | --- | --- |
 
 Nickel says we can see an arbitrarily chosen set of constituent squares “as prominent.” For example, in Figure 1 we can see the squares corresponding to 1, 3, 5, 7, and 9 as prominent, or alternately see 2, 4, 6, and 8 as prominent, without changing where we look and, it seems, while representing just the same figure and its elements all the while. In particular, we need not change the focus of our vision, but leave it on the center of Figure 1, yet have different experiences.
