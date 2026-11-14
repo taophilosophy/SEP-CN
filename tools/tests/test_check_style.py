@@ -16,7 +16,8 @@ def run(content):
     with tempfile.TemporaryDirectory() as d:
         p = os.path.join(d, "t.md")
         write_text(p, content)
-        return check_file(p)
+        # check_file 返回 (issues, warnings) 元组（ADR-0041 connector-scan 告警分离）；单测只断言 issues
+        return check_file(p)[0]
 
 
 def rules(issues):

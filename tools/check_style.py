@@ -1,19 +1,26 @@
 # -*- coding: utf-8 -*-
 """体例检查（宪法 VI / FR-015；三校步骤的可判定工具）。
 
-用法: python tools/check_style.py <路径>...
-输出: stdout JSON {files, issues:[{path,line,rule,detail}]}
+用法: python tools/check_style.py <路径>... [--connector-scan]
+输出: stdout JSON {files, issues:[{path,line,rule,detail}]}; --connector-scan 另附
+      warnings:[{path,line,rule,detail}]（rule=connector-form）
 规则: curly-quotes（弯引号成对/方向，禁直引号/直角引号/日式半角引号）
       bold-spacing（** 加粗两侧空格，段首块首与标点例外）
       cjk-spacing（汉字与西文/数字之间须有半角空格）
       no-html（HTML 标签残留）、no-text-fence（```text 语言标注）
       no-asciiart（xref:/link: AsciiDoc 残留）
+告警级: connector-form（--connector-scan 选择性开启；GB/T 15834-2011 §4.13，ADR-0041）
+      数字区间连接号形态核查：en-dash（–，U+2013）与横杠（―，U+2015）应改一字线
+      「—」（U+2014）或浪纹线「～」；ASCII 波形（~）应改「～」；「数字-数字 年」式年代
+      起止应改一字线。只报不拦，不计退出码；豁免：参考文献节（照录段含 SEP 房屋样式的
+      en-dash 页码）、引注编号/页码形态（前缀「X.」/「第」、后缀页行卷期等，rules/03/07
+      原样保留）、围栏/行内代码、URL、数学定界符、图片行、脚注定义行。
 豁免: 围栏代码块与行内代码；英文单词内部撇号（don't、O'Brien）不算引号；
       数学定界符 $…$/$$…$$ 内的 LaTeX 记号（撇号 prime 等）不算引号；
       参考文献节（"参考文献"/"Bibliography"/"References（引用注释）" 标题及其下
       各级子标题）内**非中文行**原文照录不改写，豁免引号与中西文空格规则；
       含汉字的行（ADR-0011 还原的中国文献条目）按正体例检查。
-退出码: 0 无问题；1 有 issue。
+退出码: 0 无问题；1 有 issue（connector-form warnings 不影响退出码）。
 """
 import json
 import os
@@ -44,6 +51,53 @@ CJK_LINE_RE = re.compile(r"[%s]" % HAN)
 FN_DEF_RE = re.compile(r"^\[\^[^\]]+\]:\s")
 
 _START_QUOTE_RE = re.compile(r"(?<![\u4e00-\u9fff\w])['‘’](?=[^\W\d_])(?![\u4e00-\u9fff])")
+
+# connector-form（告警级，ADR-0041）：数字区间连接号形态核查（GB/T 15834-2011 §4.13）
+# 「—」（U+2014 单个，一字线）与「～」（U+FF5E）合规，不报。目标形态按「漏报好于误报」
+# 收窄为高精度四类（2026-11-14 试金石裁定）：年代/年份区间（含「年」后缀）、括注生卒年、
+# U+2015 横杠（必误）、ASCII 波形。裸 en-dash（无年缀、非括注）几乎全是引注页码/古典学
+# 编号（rules/03/07 原样保留面），不报。
+CONNECTOR_URL_RE = re.compile(r"https?://\S+")
+CONNECTOR_MATH_RE = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
+# 引注形态豁免（rules/03 古典学编号、rules/07 文内引注编号原样保留）：
+# 前文剥掉紧邻数字后以「X.」收尾（I.1–2、pp. 1–27、S III. …）或以「第」收尾（第 103–104 页）；
+# 后文剥掉紧邻数字后紧接「页/行/卷/期/章/节/条」等位词。
+CONNECTOR_CITE_PRE_RE = re.compile(r"(?:\.\s*|第\s*)$")
+CONNECTOR_CITE_POST_RE = re.compile(r"^\s*(?:页码|页|行|卷|期|章|节|条)")
+CONNECTOR_PATTERNS = (
+    (re.compile(r"\d[–―]\d{1,4}\s*年"),
+     "年代/年份区间连接号应为一字线「—」（U+2014）（GB/T 15834-2011 §4.13）"),
+    (re.compile(r"\d[―]\d"),
+     "数字区间使用横杠（―，U+2015）：应改一字线「—」（U+2014）（GB/T 15834-2011 §4.13）"),
+    (re.compile(r"\d[~]\d"),
+     "数值范围连接号应为浪纹线「～」（U+FF5E）或一字线「—」（GB/T 15834-2011 §4.13）"),
+    (re.compile(r"\d{3,4}-\d{3,4}\s*年"),
+     "年代起止连接号应为一字线「—」（U+2014）；短横线仅限年月日简写如 2011-02-15（GB/T 15834-2011 §4.13/A.4.2）"),
+    (re.compile(r"(?<=[（(])\d{3,4}[–―-]\d{2,4}(?!\d)"),
+     "括注生卒年区间连接号应为一字线「—」（U+2014）（GB/T 15834-2011 §4.13）"),
+)
+
+
+def _connector_line(path, lineno, line, warnings):
+    """connector-form 告警：只报不拦，豁免面与主检查一致（代码/URL/数学已遮蔽）。"""
+    for kind, seg in _segments(line):
+        if kind == "code" or not seg:
+            continue
+        seg = CONNECTOR_URL_RE.sub("\x00", seg)
+        seg = CONNECTOR_MATH_RE.sub("\x00", seg)
+        for pat, msg in CONNECTOR_PATTERNS:
+            for m in pat.finditer(seg):
+                # \d[–]\d 从数字中间起匹配（"103–104" 命中 "3–1"）：剥掉匹配左侧数字
+                # 再看前缀，否则「第 103–104 页」的「第」判定被截断（2026-11-14 试金石）
+                left = re.sub(r"\d+\s*$", "", seg[:m.start()])
+                pre = left[-16:]
+                post = re.sub(r"^\d+", "", seg[m.end():m.end() + 6])
+                if CONNECTOR_CITE_PRE_RE.search(pre) or CONNECTOR_CITE_POST_RE.match(post):
+                    continue  # 引注编号/页码形态豁免（rules/03、rules/07 原样保留）
+                warnings.append({
+                    "path": path, "line": lineno, "rule": "connector-form",
+                    "detail": msg + ": " + seg[max(0, m.start() - 8):m.end() + 8],
+                })
 
 
 def _mask_start_quote(seg):
@@ -171,8 +225,9 @@ def check_line(path, lineno, line, issues):
                        "detail": "禁止 text 语言标注"})
 
 
-def check_file(path):
+def check_file(path, connector=False):
     issues = []
+    warnings = []
     lines = read_text(path).splitlines()
     fence_open = False
     in_bib = False
@@ -201,30 +256,41 @@ def check_file(path):
             continue  # 非中文照录行豁免；含汉字行（还原的中国文献）照常检查
         if FN_DEF_RE.match(line):
             continue  # 脚注定义行（[^key]: ...）照录豁免：参考文献脚注定义区可位于##学术工具之后
+        if connector and not in_bib:
+            _connector_line(path, i, line, warnings)
         check_line(path, i, line, issues)
-    return issues
+    return issues, warnings
 
 
 def main(argv=None):
-    paths = [a for a in (argv or sys.argv[1:]) if not a.startswith("-")]
+    args = argv or sys.argv[1:]
+    connector = "--connector-scan" in args
+    paths = [a for a in args if not a.startswith("-")]
     if not paths:
         print(json.dumps({"error": "用法: python tools/check_style.py <路径>..."},
                          ensure_ascii=False))
         return 2
     all_issues = []
+    all_warnings = []
     nfiles = 0
     for p in paths:
         if os.path.isdir(p):
             for root, _dirs, names in os.walk(p):
                 for name in names:
                     if name.endswith(".md"):
-                        all_issues += check_file(os.path.join(root, name))
+                        iss, warn = check_file(os.path.join(root, name), connector)
+                        all_issues += iss
+                        all_warnings += warn
                         nfiles += 1
         elif os.path.exists(p):
-            all_issues += check_file(p)
+            iss, warn = check_file(p, connector)
+            all_issues += iss
+            all_warnings += warn
             nfiles += 1
-    print(json.dumps({"files": nfiles, "issues": all_issues},
-                     ensure_ascii=False, indent=2))
+    out = {"files": nfiles, "issues": all_issues}
+    if connector:
+        out["warnings"] = all_warnings
+    print(json.dumps(out, ensure_ascii=False, indent=2))
     return 1 if all_issues else 0
 
 
