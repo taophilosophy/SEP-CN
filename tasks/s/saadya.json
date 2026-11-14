@@ -2,7 +2,7 @@
   "slug": "saadya",
   "kind": "retranslate",
   "zh_doc": "s/saadya.md",
-  "state": "done",
+  "state": "pending",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "S-rev-20261109",
       "at": "2026-11-09T12:00:06Z",
       "evidence": "# saadya − done evidence（S-rev-20261109）\n\n- 终稿：`s/saadya.md` 19,000 字符 / 199 行；账本 72 段（body 69 / oir 1 / note 2）HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0 硬错误；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 登记：术语 22 行、人名 2 行（`script/reg_saadya.json`，已入库）。\n- 评审：r1 零实修（结构差 1 处为 Notes 双标题合并，模板行为）；r2/r3 全绿。\n- 结构：h3 3:3、defs 24:24、脚注 3:3、相关词条 2/2。"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "adr0045-sync",
+      "at": "2026-11-14T21:48:08Z",
+      "evidence": "上游实质修订（2026-11-15 实际比较，compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"
     }
   ],
   "blockers": [],
