@@ -2,10 +2,319 @@
  "key": "catone sacco",
  "term": "Catone Sacco",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T17:45:07+00:00",
- "status": "error",
- "note": "variant=Catone Sacco; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Catone Sacco: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:10:24+00:00",
+ "status": "ok",
+ "note": "variant=Catone Sacco; 审定公布名词库=1196; 海峡两岸名词对照库=271; 其他来源数据库=33; 预公布名词数据库=8; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卡顿指数",
+   "en": "Caton index",
+   "code": "03.237",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动创伤_运动创伤各论_膝部运动创伤"
+  },
+  {
+   "cn": "萨科—万泽提事件",
+   "en": "Sacco-Vanzetti Case",
+   "code": "03.0144",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "骶尾区",
+   "en": "sacro-coccyx region",
+   "code": "01.0098",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_绪论"
+  },
+  {
+   "cn": "骶-髂矫形器",
+   "en": "sacro-iliac orthosis",
+   "code": "05.166",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_物理治疗与康复器具设备_矫形器"
+  },
+  {
+   "cn": "结核性骶髂关节炎",
+   "en": "tuberculous sacro-iliitis,tuberculosis of sacro-iliac joint",
+   "code": "09.123",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_结核病学"
+  },
+  {
+   "cn": "三线镰刀菌",
+   "en": "Fusarium tricinctum (Corda) Sacc.",
+   "code": "03.088",
+   "standard": "地方病学名词",
+   "subject": "地方病学_大骨节病_实验室检测"
+  },
+  {
+   "cn": "聚醚酮酮",
+   "en": "polyether ketone ketone",
+   "code": "2.0766",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_特种工程塑料与功能合成树脂"
+  },
+  {
+   "cn": "深成相",
+   "en": "catazone",
+   "code": "04.02.031",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩体产状"
+  },
+  {
+   "cn": "交配素",
+   "en": "gamone",
+   "code": "9.0011",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_激素与维生素_激素_概述"
+  },
+  {
+   "cn": "抑素",
+   "en": "chalone",
+   "code": "9.0135",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_激素与维生素_激素_人和脊椎动物激素"
+  },
+  {
+   "cn": "内酯",
+   "en": "lactone",
+   "code": "10.0096",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_新陈代谢_糖代谢_概述"
+  },
+  {
+   "cn": "丙酮",
+   "en": "acetone",
+   "code": "10.0187",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_新陈代谢_脂质代谢_脂肪代谢"
+  },
+  {
+   "cn": "抑素",
+   "en": "chalone",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "丙酮",
+   "en": "acetone",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "十六烷，鲸蜡烷",
+   "en": "cetane",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "阴极",
+   "en": "cathode",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "内酯",
+   "en": "lactone",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "奥托内",
+   "en": "Ottone",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "土链",
+   "en": "catena",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "环形山串",
+   "en": "catena",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "蒈烷类",
+   "en": "carane",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "内酯",
+   "en": "lactone",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "酮",
+   "en": "ketone",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "丙酮",
+   "en": "acetone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态过渡带",
+   "en": "ecotone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "蒈烯",
+   "en": "Carene",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "克拉通",
+   "en": "Craton",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "酮",
+   "en": "Ketone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "划艇",
+   "en": "Canadian canoe\",\"canoe",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "接力棒",
+   "en": "baton",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "流行性感冒",
+   "en": "Canine influenza",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "十六烷值",
+   "en": "Cetane number",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "非洲板块",
+   "en": "Kalahari Craton",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "酮体",
+   "en": "Ketone bodies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "青蒿素",
+   "en": "Sesquiterpene lactone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "教会法",
+   "en": "canon law",
+   "code": "3.9.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教与法律"
+  },
+  {
+   "cn": "子宫收缩乏力",
+   "en": "uterine atony",
+   "code": "3.5.3.18",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "葡萄糖酸-δ-内酯",
+   "en": "Glucono-δ-lactone",
+   "code": "6.1.12.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "X射线管遮线筒",
+   "en": "radiographic cone",
+   "code": "6.4.2.27",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "独居老年人",
+   "en": "older adults living alone",
+   "code": "12.3.4",
+   "standard": "社会医学名词",
+   "subject": "特定人群卫生保健"
+  },
+  {
+   "cn": "肌无力综合征",
+   "en": "Lambert-Eaton Myasthenic Syndrome, LEMS",
+   "code": "2.5.3.13",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病"
+  },
+  {
+   "cn": "反对一言堂",
+   "en": "opposing rule by the voice of one man alone",
+   "code": "04.0156",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "锥形束X射线计算机体层成像",
+   "en": "X-ray cone beam computed tomography，CBCT",
+   "code": "6.4.2.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
  "raw": null
 }
