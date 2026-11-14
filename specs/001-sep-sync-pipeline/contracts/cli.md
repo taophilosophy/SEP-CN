@@ -16,10 +16,13 @@
 
 ```text
 用法: python tools/fetch_entry.py <slug>... [--force] [--delay N]
-输出: {"fetched": [{slug, files: N, missing: [...], archive_edition}], "failures": [...]}
+输出: {"fetched": [{slug, files: N, missing: [...], archive_edition, result?}], "failures": [...]}
 行为: 逐词条抓取 /entries/<slug>/index.html；解析正文内对 *.html 与图片的
       相对引用，续抓 notes.html、补充材料、图片；404 记入 missing（缺省件）；
       archinfo.cgi 查询最新存档版；全部登记进 baseline/entries.json。
+      双账语义（ADR-0045）：上游与原始网页钉（files[].sha256）一致 → 跳过写盘
+      与登记，报告 result=unchanged；上游已变而存在未搬运分歧（divergences.json）
+      → 拒抓待搬运；上游真变且无分歧才写入新原始物并前移钉。
 ```
 
 ## fetch_catalog.py — 目录快照
@@ -146,10 +149,11 @@
 输出: {"results": [{slug, changed, sections_changed, changes: [{type, anchor, title,
        excerpt, zh_doc, zh_section, zh_line}], compared_at, new_snapshot}]}
 行为: 抓取英文源最新快照到 script/tmp/compare-<slug>.html（礼貌 5 秒，不覆盖 en/ 基线），
-      与基线 en/<slug>/index.html 比较；节级拆分（h2 锚 id + 标题，首 h2 前为导言伪节）；
+      与原始网页字节比较（ADR-0045：本地件与原始钉一致直接用；有批准分歧经
+      baseline/divergences.json 回溯 base_commit 的 git 原始字节）；节级拆分（h2 锚 id + 标题，首 h2 前为导言伪节）；
       节级 added/removed/moved + modified 节内段落级 diff（difflib，附原文摘录）；
       每条变更映射 baseline.zh_doc 的 md 文档与 `## 节标题` 行号；
-      英文源与基线一致（source_sha256 相同）时报"无变更"；
+      英文源与原始网页钉一致（files[].sha256 相同）时报"无变更"；
       无 zh_doc 者标注"待建任务/待译名登记"。
 退出码: 0 无变更/成功；1 有变更（管线感知）；2 用法/抓取失败。
 单元测试: tools/tests/test_compare.py（CI 跑）。
@@ -165,5 +169,6 @@
 | 包内资产补齐 | `fetch_audit.py` | 只补缺件，**不写 baseline**（审计 JSON 即凭证，哈希由下次 fetch_entry 收敛） |
 | 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
+| en/ 就地勘误登记与核验 | `divergence.py`（register / verify / patch / list） | en 改动先入 en-errata.md（ADR-0038 人读册）再登记分歧账（机器账，ADR-0045）；未登记静默改动由 verify 门禁红灯；上游真变时 patch 出 原始→本地 diff 供逆向补丁搬运，完成后更新账目再重抓 |
 | 任务状态机 | `task_ops.py` | s3/r3 挂 check_academic；s24 挂 check_terms、s25 挂 check_math_zh（默认档，ADR-0040/0043）；update 任务 s1/s2/s24/s25 证据必须 changes: 开头；revert-state 受控回退 |
 | H1 同步 | `check_summary.py --sync-headers`（本地）；CI 只读校验 | 本地只读 SUMMARY；别名行不覆盖条目标题；远端不写回（ADR-0024） |
