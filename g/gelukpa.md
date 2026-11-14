@@ -1,11 +1,11 @@
 # 格鲁派 Gelukpa [dge lugs pa] (Douglas Duckworth)
-*首次发表于 2014 年 2 月 4 日；2026 年 1 月 20 日实质修订。*
+**首次发表于 2014 年 2 月 4 日；2026 年 1 月 20 日实质修订。**
 
-藏传佛教中的格鲁派（Gelukpa，或作 Geluk）传统，灵感取自宗喀巴（Tsongkhapa，1357–1419）的著作。宗喀巴开创的佛教传统唯名论色彩鲜明，不仅与西藏其他佛教思想判然有别，也与佛教世界其他地方的思潮迥然不同。格鲁派思想传统的核心，是中观（*madhyamaka*）的否定辩证法；在西藏，人们通常也把这一哲学视为最高见解。中观由龙树（Nāgārjuna）在二世纪整理成体系，它提出二谛之说，即空性的胜义谛与缘起而有的世俗谛，力图借此在本质主义与虚无主义两个极端之间标出一条“中道”。七世纪哲学家月称（Candrakīrti）曾系统论述中观；格鲁派承其思路，对中观应成派（*prāsaṅgika*）给出了独特表述。应成派不建立基础主义的认识论体系，只按日常交往中的用法来肯定存在。这一表述正是格鲁派哲学的标记。
+藏传佛教中的格鲁派（Gelukpa，或作 Geluk）传统，灵感取自宗喀巴（Tsongkhapa，1357–1419）的著作。宗喀巴开创的佛教传统唯名论色彩鲜明，不仅与西藏其他佛教思想判然有别，也与佛教世界其他地方的思潮迥然不同。格鲁派思想传统的核心，是中观（*madhyamaka*）的否定辩证法；在西藏，人们通常也把这一哲学视为最高见解。中观由龙树（Nāgārjuna）在 2 世纪整理成体系，它提出二谛之说，即空性的胜义谛与缘起而有的世俗谛，力图借此在本质主义与虚无主义两个极端之间标出一条“中道”。7 世纪哲学家月称（Candrakīrti）曾系统论述中观；格鲁派承其思路，对中观应成派（*prāsaṅgika*）给出了独特表述。应成派不建立基础主义的认识论体系，只按日常交往中的用法来肯定存在。这一表述正是格鲁派哲学的标记。
 
 ## 1 胜义谛与中观
 
-格鲁派对中观的理解，为佛教二谛学说提供了一种独特表述。二谛即胜义谛与世俗谛，或称相对谛。格鲁派哲学家力求两头兼顾：既不把胜义谛实体化，也不贬低世俗谛。在他们看来，世俗的存在与胜义的不存在互相蕴含。这一传统称二谛“外延相同而内涵有别”（*ngo bo gcig la ldog pa tha dad*）。可见二谛并不是两种不同的实体，而是同一批实体在概念上可分的两面。由此，格鲁派哲学家主张两点：其一，存在即空；其二，存在即世俗存在（see Changkya in Cozort 1998, 429）[^cozort-1998]。
+格鲁派对中观的理解，为佛教二谛学说提供了一种独特表述。二谛即胜义谛与世俗谛，或称相对谛。格鲁派哲学家力求两头兼顾：既不把胜义谛实体化，也不贬低世俗谛。在他们看来，世俗的存在与胜义的不存在互相蕴含。这一传统称二谛“外延相同而内涵有别”（*ngo bo gcig la ldog pa tha dad*）。可见二谛并不是两种不同的实体，而是同一批实体在概念上可分的两面。由此，格鲁派哲学家主张两点：其一，存在即空；其二，存在即世俗存在（见 Cozort 1998 所收章嘉文，429）[^cozort-1998]。
 
 胜义谛之所以叫空性，是因为事物离开自己的支分、因与假名便无从寻得；这种“寻而不得”本身就是空性的含义。空性自己也是寻而不得的（空性亦空）。所谓“寻得”，指在追问究竟本质时找到某种自性成立或究竟真实的东西。格鲁派传统认为，没有任何事物具备这种地位，空性也不例外。空性在格鲁派传统中被解释为无遮（*med dgag*）。有些否定会连带肯定另一物，无遮则不同，它只是单纯的缺席，比如真实存在的阙如。这种纯粹的阙如，作为对本质的否定而不肯定任何其他本质，正是格鲁派眼中胜义谛的含义。话虽如此，“没有任何东西究竟真实”或“胜义谛即空性”这一主张，本身仍是一条（世俗的）真理（Jinpa 2002, 46–48）[^jinpa-2002]。宗喀巴的表述是：“胜义谛，只是就作为所遮基础的有法，遮破真实［即自性存在］而安立……”（Tsongkhapa 1979, 396）[^tsongkhapa-1979]。照此看法，没有任何事物究竟存在。现象没有本质，或者说现象“空”，并不取消它的显现，也不取消它的世俗实在。恰恰相反，空性被视为一切显现之所以可能的前提。空，就是缘起而有，就是没有独立而真实的存在。既然找不到任何独立之物，一切便都说是空。于是在格鲁派传统中，空性是一切现象的本性（更确切地说，是它们 **缺乏** 独立本性），而一切现象无不是空。
 
@@ -13,7 +13,7 @@
 
 应成派（Prāsaṅgika Madhyamaka）以印度佛教哲学家佛护（Buddhapālita）与月称（Candrakīrti）的论典为依据，立场彻底反基础主义、反实在论。格鲁派哲学家视之为佛教哲学中最精微的学派。应成派之名，来自它专靠 **归谬** 论证证明空性，不用独立自成的正式论证。宗喀巴指出，任何独立自成的正式论证都证明不了现象为空，对尚未信解空性的人尤其如此。原因在于，这类论证预设了双方对所用术语有共同理解。换句话说，它假定论题客观给定，辩论各方对它的理解一模一样。宗喀巴随月称而主张：一旦对话一方是理解空性的反实在论者，另一方是不解空性的实在论者，这种预设便站不住（Changkya in Cozort 1998, 451）[^cozort-1998]。应成派的拥护者根本不承认有这类给定的客观事实。
 
-格鲁派拿共识当作（世俗）实在的标志，其真理融贯论与后期维特根斯坦的某些洞见不谋而合（see Thurman 1980）[^thurman-1980]。在格鲁派传统里，胜义也好，世俗也好，都没有基础可言；剩下的只有事务性的用法，即“世间所共许者”。自续派（*svātantrika*）等其他中观哲学另有说法，格鲁派则不然。“正确”的相对真理与“不正确”的相对真理如何区分，在格鲁派看来取决于我们的认识惯例与实践，而不取决于一个由独立真值制造者构成的世界。标准是“管不管用”。凡合乎世间方式者即为世俗真理，就像你认下一场游戏的规则，游戏便玩得下去。若再追问什么才叫“正确”的相对物，那就已经牵连到一个基础，一种关于事物本来面目的本质主义预设（Changkya 1998, 321; Bötrül 2011, 141）。因此，衡量正确与否的尺度只是与世间相合，而不靠别的凭据；那类凭据会被当成比单纯世俗之物更深的结构、更根本的实在层次（Cozort 1998, 52）[^cozort-1998]。
+格鲁派拿共识当作（世俗）实在的标志，其真理融贯论与后期维特根斯坦的某些洞见不谋而合（见 Thurman 1980）[^thurman-1980]。在格鲁派传统里，胜义也好，世俗也好，都没有基础可言；剩下的只有事务性的用法，即“世间所共许者”。自续派（*svātantrika*）等其他中观哲学另有说法，格鲁派则不然。“正确”的相对真理与“不正确”的相对真理如何区分，在格鲁派看来取决于我们的认识惯例与实践，而不取决于一个由独立真值制造者构成的世界。标准是“管不管用”。凡合乎世间方式者即为世俗真理，就像你认下一场游戏的规则，游戏便玩得下去。若再追问什么才叫“正确”的相对物，那就已经牵连到一个基础，一种关于事物本来面目的本质主义预设（Changkya 1998, 321; Bötrül 2011, 141）[^changkya-1717][^bötrül-1898]。因此，衡量正确与否的尺度只是与世间相合，而不靠别的凭据；那类凭据会被当成比单纯世俗之物更深的结构、更根本的实在层次（Cozort 1998, 52）[^cozort-1998]。
 
 ## 3 二谛的统一
 
@@ -69,9 +69,7 @@ Künzang Sönam（1823—1905）把宗喀巴的立场概括为一个论题：心
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；藏文原典条目照录原题与威利转写，中文文献条目保留中文。
 
 [^bötrül-1898]: Bötrül (*bod sprul mdo sngags bstan pa’i nyi ma*, 1898–1959), 2011. *Distinguishing the Views and Philosophies: Illuminating Emptiness in a Twentieth-Century Tibetan Buddhist Classic*, translated, annotated, and introduced by Douglas Duckworth, Albany, NY: SUNY Press.
 [^cabezón-1994]: Cabezón, José Ignacio, 1994. *A Dose of Emptiness: An Annotated Translation of the sTong thun chen mo of mKhas grub dGe legs dpal bzang*, Albany, NY: State University of New York Press.
@@ -95,17 +93,17 @@ Künzang Sönam（1823—1905）把宗喀巴的立场概括为一个论题：心
 [^ruegg-2002]: –––, 2002. *Two Prolegomena to Madhyamaka Philosophy: Candrakīrti’s Prasannapadā Madhyamakavṛtti on Madhyamakakārikā, I.1 and Tsoṅ kha pa blo bzaṅ grags pa/rGyal tshab dar ma rin chen’s dka‘ gnad brgyad kyi zin bris*, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien.
 [^samuels-2025]: Samuels, Jonathan (trans.), 2025. *Buddhist Epistemology in the Geluk School: Three Key Texts*. New York: Wisdom Publications.
 [^thurman-1980]: Thurman, Robert, 1980. “Philosophical Nonegocentrism in Wittgenstein and Chandrakīrti,” *Philosophy East and West*, 30(3): 321–337.
-[^tsongkhapa-2000]: Tsongkhapa (*tsong kha pa blo bzang grags pa*, 1357–1419), 2000. *Great Exposition of the Stages of the Path* (*lam rim chen mo*), Xining: Nationalities Press; English translation in Lamrim Chenmo Translation Committee, Joshua W.C. Cutler (ed.), *The Great Treatise on the States of the Path to Enlightenment* (Vols. 1–3), Ithaca, NY: Snow Lion Publications, 2000–2004.
+[^tsongkhapa-2000]: Tsongkhapa (*tsong kha pa blo bzang grags pa*, 1357–1419), 2000. *Great Exposition of the Stages of the Path* (*lam rim chen mo*), Xining: Nationalities Press; English translation in Lamrim Chenmo Translation Committee, Joshua W.C. Cutler (ed.), *The Great Treatise on the Stages of the Path to Enlightenment* (Vols. 1–3), Ithaca, NY: Snow Lion Publications, 2000–2004.
 [^tsongkhapa-1979]: –––, 1979. *The Lesser Exposition of the Stages of the Path* (*lam rim chung ba*), *Collected Works* (Volume 21), 1–438, New Delhi: Ngawang Gelek Demo.
 [^tsongkhapa-1998]: –––, 1998. *Thoroughly Illuminating the Viewpoint* (*dgongs pa rab gsal*), *Tsongkhapa’s Collected Works* (Volume 16), 443–751, Qinghai: Nationalities Press; English translation in Thupten Jinpa, *Illuminating the Intent: An Exposition of Candrakīrti’s Entering the Middle Way*, Sommerville, MA: Wisdom Publications, 2021.
-[^tsongkhapa-2001]: –––, 2001. *Three Principal Aspects of the Path* (*lam byi gtso bo rnam gsum*), *Tsongkhapa’s Collected Works*, Qinghai: Nationalities Press.
-[^tsongkhapa-2008]: –––, 2008. *Essence of Eloquence* (*drang nges legs bshad snying po*), *Tsongkhapa’s* *Collected Works* (Volume 14), 321–1502, Qinghai: *sku ’bum byams pa gling*.
+[^tsongkhapa-2001]: –––, 2001. *Three Principal Aspects of the Path* (*lam gtso rnam gsum*), *Tsongkhapa’s Collected Works*, Qinghai: Nationalities Press.
+[^tsongkhapa-2008]: –––, 2008. *Essence of Eloquence* (*drang nges legs bshad snying po*), *Tsongkhapa’s Collected Works* (Volume 14), 321–1502, Qinghai: *sku ’bum byams pa gling*.
 [^yakherds-2021]: The Yakherds, 2021. *Knowing Illusion: Bringing a Tibetan Debate into Contemporary Discourse* (Volumes 1–2), New York: Oxford University Press.
 
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=gelukpa)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/gelukpa/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/gelukpa/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=gelukpa&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/gelukpa/) 查看本词条的增强文献目录及其数据库链接。
 
