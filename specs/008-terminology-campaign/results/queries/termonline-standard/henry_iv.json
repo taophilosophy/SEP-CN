@@ -1,0 +1,89 @@
+{
+ "key": "henry iv",
+ "term": "Henry IV",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:43:26+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=11",
+ "hits": [
+  {
+   "cn": "IV 类",
+   "en": "Class IV",
+   "code": "GB/T 7025.2—2008",
+   "standard": "电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "程序 IV A 发动机试验",
+   "en": "sequence IV A engine test",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "初始向量",
+   "en": "initializationvector IV",
+   "code": "GB/T 17964—2021",
+   "standard": "信息安全技术 分组密码算法的工作模式 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "浸溃漆",
+   "en": "）IV）impregnatingvarnish",
+   "code": "GB/T 1981.1—2007",
+   "standard": "电气绝缘用漆 第1部分：定义和一般要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "反应位移法Ⅳ",
+   "en": "seismic displacement method IV",
+   "code": "GB/T 51336—2018",
+   "standard": "地下结构抗震设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "四期临床试验",
+   "en": "phase IV clinical trial",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "第四类四元平衡",
+   "en": "Class IV quaternary equilibrium",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "第四类五元平衡",
+   "en": "Class IV quinary equilibrium",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "初始化向量/值",
+   "en": "initialization vector",
+   "code": "GB/T 38636—2020",
+   "standard": "信息安全技术 传输层密码协议(TLCP)",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "初始向量/值",
+   "en": "initialization vector/initialization value",
+   "code": "GB/T 38635.2—2020",
+   "standard": "信息安全技术 SM9标识密码算法第2部分:算法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "独立验证与确认",
+   "en": "independent verification and validation",
+   "code": "GB/T 8567—2006",
+   "standard": "计算机软件文档编制规范",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2020\": 2, \"2019\": 1, \"2013\": 2, \"2008\": 1, \"2007\": 1, \"2006\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"石油及相关技术\": 1, \"电气工程\": 1, \"建筑材料和建筑物\": 1, \"冶金\": 2, \"其它\": 2, \"信息技术、办公机械\": 4}, \"typeStats\": {\"7\": 11}, \"totalRecords\": 11, \"tmWordList\": [{\"id\": \"831b6f050924469683e7e460cb1b6b1f\", \"databaseId\": null, \"standardId\": \"a9654a7237494f3bb9b7577998de904c\", \"standardCode\": \"GB/T 7025.2—2008\", \"standardName\": \"电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯\", \"standardEnName\": \"Lifts—Main specifications and the dimensions arrangements for its cars, wells and machine rooms—Part 2: Lifts of class Ⅳ\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.2.4\", \"cnName\": \"IV 类\", \"enName\": \"Class IV\", \"publishTime\": \"2008-12-06\", \"publishYear\": \"2008\", \"implementTime\": \"2009-06-01\", \"ics\": \"91.140.90\", \"ccs\": \"Q 78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173656, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"IV 类\", \"cnNameSearch\": \"IV 类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Class IV\", \"wordSearch\": \"Class IV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"主要为运输通常由人伴随的货物面设计的电梯。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"776f79a2fc364792b5f1738bda0bde30\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.20.117\", \"cnName\": \"程序 IV A 发动机试验\", \"enName\": \"sequence IV A engine test\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227080, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序 IV A 发动机试验\", \"cnNameSearch\": \"程序 IV A 发动机试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sequence IV A engine test\", \"wordSearch\": \"sequence IV A engine test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，采用规定的试验发动机，评定汽油机油抑制凸轮轴凸轮磨损性能的试验。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>试验发动机采用 1994 年产日本尼桑 Nissan K A24E 2.4L 火花塞点火发动机。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"92a1971f483b417bacb5bceb79607367\", \"databaseId\": null, \"standardId\": \"8f01c52f1f534f44ade3f365e5249d6b\", \"standardCode\": \"GB/T 17964—2021\", \"standardName\": \"信息安全技术 分组密码算法的工作模式 \", \"standardEnName\": \"Information security technology—Modes of operation for a block cipher\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.13\", \"cnName\": \"初始向量\", \"enName\": \"initializationvector IV\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.030\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 150894, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初始向量\", \"cnNameSearch\": \"初始向量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"initializationvector IV\", \"wordSearch\": \"initializationvector IV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bd3f0c7613f446efbee852ba8b279a3a\", \"databaseId\": null, \"standardId\": \"088549ec62a5485fbb637b237a45d288\", \"standardCode\": \"GB/T 1981.1—2007\", \"standardName\": \"电气绝缘用漆 第1部分：定义和一般要求\", \"standardEnName\": \"Varnishes used for electrical insulation — Part 1: Definitions and general requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"4.11\", \"cnName\": \"浸溃漆\", \"enName\": \"）IV）impregnatingvarnish\", \"publishTime\": \"2007-12-03\", \"publishYear\": \"2007\", \"implementTime\": \"2008-05-20\", \"ics\": \"29.035.01\", \"ccs\": \"K15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8224, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"浸溃漆\", \"cnNameSearch\": \"浸溃漆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"）IV）impregnatingvarnish\", \"wordSearch\": \"）IV）impregnatingvarnish\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"能填充或浸渍电器元件的绕组和线圈，具有填充缝隙和孔隙作用，以保护和粘结绕组和线圈的漆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b12875990234f9f90a68404916e8508\", \"databaseId\": null, \"standardId\": \"10fbac202c554b91a3d8b523154514de\", \"standardCode\": \"GB/T 51336—2018\", \"standardName\": \"地下结构抗震设计标准\", \"standardEnName\": \"Standard for seismic design of underground structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.11\", \"cnName\": \"反应位移法Ⅳ\", \"enName\": \"seismic displacement method IV\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15650, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反应位移法Ⅳ\", \"cnNameSearch\": \"反应位移法Ⅳ\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"seismic displacement method IV\", \"wordSearch\": \"seismic displacement method IV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适用于沿纵向地层变化明显的线长形地下结构的纵向反应位移法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"465e62041b4340589d25fb0aa01682d0\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.7\", \"cnName\": \"四期临床试验\", \"enName\": \"phase IV clinical trial\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123726, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"四期临床试验\", \"cnNameSearch\": \"四期临床试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"phase IV clinical trial\", \"wordSearch\": \"phase IV clinical trial\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"新药上市后应用研究阶段。其目的是考察在广泛使用条件下的药物的疗效和不良反应，评价在晋通或者特殊人群中使用的利益与风险关系以及改进给药剂量等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81f97f70a99e4fcb8a1b96f315fccb91\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.50\", \"cnName\": \"第四类四元平衡\", \"enName\": \"Class IV quaternary equilibrium\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151489, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"第四类四元平衡\", \"cnNameSearch\": \"第四类四元平衡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Class IV quaternary equilibrium\", \"wordSearch\": \"Class IV quaternary equilibrium\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在四元体系中，五相稳定单变共存，其中一相在更高的温度或压力下一定消失。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如，四元包晶平衡， <i>L</i> + α+β+γ= δ</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"278ac53642bc4daf841601763c0932d8\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.51\", \"cnName\": \"第四类五元平衡\", \"enName\": \"Class IV quinary equilibrium\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151977, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"第四类五元平衡\", \"cnNameSearch\": \"第四类五元平衡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Class IV quinary equilibrium\", \"wordSearch\": \"Class IV quinary equilibrium\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在五元体系中，六相稳定单变共存，其中四相在较高温度和压力下的相关双变平衡中，而其他两相出现在下面全部相关双变平衡中。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如， <i>L</i> + α+β+γ= δ+ε</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a2ba116fa19849b0bb76dfe1a0e5a4d4\", \"databaseId\": null, \"standardId\": \"9c6cd04e6d7c4df6a492a4376485d630\", \"standardCode\": \"GB/T 38636—2020\", \"standardName\": \"信息安全技术 传输层密码协议(TLCP)\", \"standardEnName\": \"Information security technology—Transport layer cryptography protocol (TLCP)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.5  \", \"cnName\": \"初始化向量/值\", \"enName\": \"initialization vector\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.04035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162369, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初始化向量/值\", \"cnNameSearch\": \"初始化向量/值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"initialization vector\", \"wordSearch\": \"initialization vector\"}, {\"languageType\": 1, \"word\": \"initialization value\", \"wordSearch\": \"initialization value\"}, {\"languageType\": 1, \"word\": \"IV\", \"wordSearch\": \"IV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在密码变换中,为增加安全性或使密码设备同步而引入的用作数据变换的起始数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c3a892af6a9f41a6a2f1bdb5879a6a1a\", \"databaseId\": null, \"standardId\": \"cc6b46ac0ec94f29943d4cbd78818664\", \"standardCode\": \"GB/T 38635.2—2020\", \"standardName\": \"信息安全技术 SM9标识密码算法第2部分:算法\", \"standardEnName\": \"Information security technology—Identity-based cryptographic algorithms SM9—Part 2: Algorithms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4\", \"cnName\": \"初始向量/值\", \"enName\": \"initialization vector/initialization value\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.04035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 205280, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初始向量/值\", \"cnNameSearch\": \"初始向量/值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"initialization vector/initialization value\", \"wordSearch\": \"initialization vector/initialization value\"}, {\"languageType\": 1, \"word\": \"IV\", \"wordSearch\": \"IV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在密码变换中，为增加安全性或使密码设备同步而引入的用于数据变换的起始数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"14e6b34798824bb1babdcb98169f329d\", \"databaseId\": null, \"standardId\": \"59c5a5d24f8a4ace9c607bb6eed16f43\", \"standardCode\": \"GB/T 8567—2006\", \"standardName\": \"计算机软件文档编制规范\", \"standardEnName\": \"Specification for computer software documentation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.23\", \"cnName\": \"独立验证与确认\", \"enName\": \"independent verification and validation\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.080\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91610, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"独立验证与确认\", \"cnNameSearch\": \"独立验证与确认\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"independent verification and validation\", \"wordSearch\": \"independent verification and validation\"}, {\"languageType\": 1, \"word\": \"IV &amp; V\", \"wordSearch\": \"IV &amp; V\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由一个机构对软件产品和活动作系统的评估，这个机构不负责该产品的开发或被评估的活动。 <i>I</i><i>V</i> &amp; <i>V</i> 不在本标准的范围内。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678202343}"
+}

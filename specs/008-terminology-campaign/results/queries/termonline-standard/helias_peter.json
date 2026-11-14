@@ -1,0 +1,19 @@
+{
+ "key": "helias, peter",
+ "term": "Helias, Peter",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:41:26+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "先进的螺旋仿星器",
+   "en": "helias",
+   "code": "GB/T 4960.9—2013",
+   "standard": "核科学技术术语第9部分:磁约束核聚变",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"202f298cb98a4e60a380e69fda68abfb\", \"databaseId\": null, \"standardId\": \"e2ce134cac2f4a91a5f1355425b8a4ac\", \"standardCode\": \"GB/T 4960.9—2013\", \"standardName\": \"核科学技术术语第9部分:磁约束核聚变\", \"standardEnName\": \"Glossary of nuclear science and technology terms-Part 9: Magnetic confinement fusion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.2.51\", \"cnName\": \"先进的螺旋仿星器\", \"enName\": \"helias\", \"publishTime\": \"2013-02-07\", \"publishYear\": \"2013\", \"implementTime\": \"2013-07-01\", \"ics\": \"27.120.0127\", \"ccs\": \"F40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221783, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"先进的螺旋仿星器\", \"cnNameSearch\": \"先进的螺旋仿星器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"helias\", \"wordSearch\": \"helias\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先进的螺旋仿星器其英文全称为helicaladvancedstellarator，具有变形的非平面环向场线圈的仿\\n星器位形，不用连续的螺旋线圈或者类托卡马克的极向场。Helias是电站最有希望的仿星器概念，它具\\n有模块式工程设计和最佳等离子体，以及磁流体动力学和磁场特性。WendelsteinI-X装置是基于5\\n个场周期的先进的螺旋仿星器位形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678082549}"
+}

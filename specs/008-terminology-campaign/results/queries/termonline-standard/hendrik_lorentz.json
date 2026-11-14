@@ -1,0 +1,33 @@
+{
+ "key": "hendrik lorentz",
+ "term": "Hendrik Lorentz",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:42:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "洛伦兹因子",
+   "en": "Lorentz factor",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "洛伦兹电子显微术",
+   "en": "Lorentz electron microscopy",
+   "code": "GB/T 40300—2021",
+   "standard": "微束分析 分析电子显微学 术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "磁致剥离",
+   "en": "magnetic stripping",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 3}, \"sourceStats\": {\"能源和热传导工程\": 2, \"化工技术\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"e599d0a955c84ab3aabcf7d8d976d7b2\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.1.6\", \"cnName\": \"洛伦兹因子\", \"enName\": \"Lorentz factor\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 11188, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"洛伦兹因子\", \"cnNameSearch\": \"洛伦兹因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Lorentz factor\", \"wordSearch\": \"Lorentz factor\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"<p><span style=\\\"color: rgb(200, 195, 188); background-color: rgb(24, 26, 27); font-size: 14px;\\\"><em>γ</em></span></p>\", \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"总能量与静能的比值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1158f4e452c241069742fe5118289702\", \"databaseId\": null, \"standardId\": \"185e6a3f191541c8883d82371d020cb5\", \"standardCode\": \"GB/T 40300—2021\", \"standardName\": \"微束分析 分析电子显微学 术语\", \"standardEnName\": \"Microbeam analysis—Analytical electron microscopy—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"4.7\", \"cnName\": \"洛伦兹电子显微术\", \"enName\": \"Lorentz electron microscopy\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"71.040.40\", \"ccs\": \"G 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24209, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"洛伦兹电子显微术\", \"cnNameSearch\": \"洛伦兹电子显微术\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Lorentz electron microscopy\", \"wordSearch\": \"Lorentz electron microscopy\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"应用透射电子显微镜观察磁畴结构的技术。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6d4cf8b8d999464da8ee276938a83ae7\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"5.3.1.13\", \"cnName\": \"磁致剥离\", \"enName\": \"magnetic stripping\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10837, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"磁致剥离\", \"cnNameSearch\": \"磁致剥离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"magnetic stripping\", \"wordSearch\": \"magnetic stripping\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"洛伦兹力剥离\", \"cnNameSearch\": \"洛伦兹力剥离\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"Lorentz stripping\", \"wordSearch\": \"Lorentz stripping\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"离子（通常是H<sup>-</sup>离子）束流受磁场洛伦兹力作用而发生的电子剥离。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678154355}"
+}

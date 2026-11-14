@@ -1,0 +1,26 @@
+{
+ "key": "huxley, julian",
+ "term": "Huxley, Julian",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:45:42+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "儒略日期",
+   "en": "Julian date",
+   "code": "GB/T 22022—2008",
+   "standard": "地理信息 时间模式",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "儒略日数",
+   "en": "Julian day number",
+   "code": "GB/T 22022—2008",
+   "standard": "地理信息 时间模式",
+   "subject": "数学、自然科学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 2}, \"sourceStats\": {\"数学、自然科学\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"506f0638d932406b87edbbd727f17d4d\", \"databaseId\": null, \"standardId\": \"ce5413bed2b4429d9471c3964219cf78\", \"standardCode\": \"GB/T 22022—2008\", \"standardName\": \"地理信息 时间模式\", \"standardEnName\": \"Geographic information-Temporal schema\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.19\", \"cnName\": \"儒略日期\", \"enName\": \"Julian date\", \"publishTime\": \"2008-06-20\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206977, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"儒略日期\", \"cnNameSearch\": \"儒略日期\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Julian date\", \"wordSearch\": \"Julian date\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"儒略日数加上从前一个平正午起已经消逝的该日的十进制小数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"51719b16fa314fce9c6687c2cd669b9c\", \"databaseId\": null, \"standardId\": \"ce5413bed2b4429d9471c3964219cf78\", \"standardCode\": \"GB/T 22022—2008\", \"standardName\": \"地理信息 时间模式\", \"standardEnName\": \"Geographic information-Temporal schema\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.20\", \"cnName\": \"儒略日数\", \"enName\": \"Julian day number\", \"publishTime\": \"2008-06-20\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206961, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"儒略日数\", \"cnNameSearch\": \"儒略日数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Julian day number\", \"wordSearch\": \"Julian day number\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"约定儒略历从公元前4713年1月1日格林尼治平正午起算的时间消逝的日数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678338367}"
+}

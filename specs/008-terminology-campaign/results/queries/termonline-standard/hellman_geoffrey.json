@@ -1,0 +1,26 @@
+{
+ "key": "hellman, geoffrey",
+ "term": "Hellman, Geoffrey",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:41:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "Diffie-Hellman 密钥交换",
+   "en": "Diffie-Hellman key exchange",
+   "code": "GB/Z 25320.2—2013",
+   "standard": "电力系统管理及其信息交换 数据和通信安全 第2部分：术语",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "DH交换",
+   "en": "<em>Diffie</em>-<em>Hellman</em> exchange",
+   "code": "GB/T 31491—2015",
+   "standard": "无线网络访问控制技术规范",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2015\": 1, \"2013\": 1}, \"sourceStats\": {\"电气工程\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"8aba33f4db9748939447673b0d5a84df\", \"databaseId\": null, \"standardId\": \"487645ce6016472f8aee50b4bae530d4\", \"standardCode\": \"GB/Z 25320.2—2013\", \"standardName\": \"电力系统管理及其信息交换 数据和通信安全 第2部分：术语\", \"standardEnName\": \"Power systems management and associated information exchange—Data and communications security—Part 2: Glossary of terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"2.2.85\", \"cnName\": \"Diffie-Hellman 密钥交换\", \"enName\": \"Diffie-Hellman key exchange\", \"publishTime\": \"2013-02-07\", \"publishYear\": \"2013\", \"implementTime\": \"2013-07-01\", \"ics\": \"29.240.01\", \"ccs\": \"F 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 75725, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Diffie-Hellman 密钥交换\", \"cnNameSearch\": \"Diffie-Hellman 密钥交换\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Diffie-Hellman key exchange\", \"wordSearch\": \"Diffie-Hellman key exchange\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"密码协议，使得先前彼此毫不认识的双方能够通过不安全的通信信道共同确定共享的秘密密钥。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"W.Diffie 和 M.E. Hellman 著“密码技术的新方向”（New directions in cryptography），IEEE 信息理论论文集第 22 卷（1976年）（IEEE Transactions on Information Theory 22），644 至 654 页\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7baa1c3b28a549d3987b5a08cc5831f1\", \"databaseId\": null, \"standardId\": \"208d4f69a2094355b2ca97ca99c91307\", \"standardCode\": \"GB/T 31491—2015\", \"standardName\": \"无线网络访问控制技术规范\", \"standardEnName\": \"Wireless network access control technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1\", \"cnName\": \"DH交换\", \"enName\": \"<em>Diffie</em>-<em>Hellman</em> exchange\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"35.110\", \"ccs\": \"L78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30856, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"DH交换\", \"cnNameSearch\": \"DH交换\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Diffie</em>-<em>Hellman</em> exchange\", \"wordSearch\": \"<em>Diffie</em>-<em>Hellman</em> exchange\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"Differ 和 Hellman 提出的基于离散对数难题的密钥交换技术。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678090349}"
+}

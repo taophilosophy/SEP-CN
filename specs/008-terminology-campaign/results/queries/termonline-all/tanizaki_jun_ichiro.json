@@ -1,0 +1,54 @@
+{
+ "key": "tanizaki jun'ichiro",
+ "term": "Tanizaki Jun'ichirō",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T17:38:38+00:00",
+ "status": "ok",
+ "note": "variant=Tanizaki Jun'ichirō; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "Jun激酶",
+   "en": "Jun kinase,JNK",
+   "code": "08.095",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞通信与信号转导"
+  },
+  {
+   "cn": "c-Jun氨基端激酶",
+   "en": "c-Jun N-terminal kinase;JNK",
+   "code": "3.0353",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_酶命名与分类_转移酶"
+  },
+  {
+   "cn": "c-Jun 氨基端蛋白激酶",
+   "en": "c-Jun N-terminal protein kinase,JNK",
+   "code": "02.252",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "Jun激酶",
+   "en": "Jun kinase\",\"JNK",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "c-Jun N端激酶",
+   "en": "c-Jun N-terminal kinase",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "c-Jun氨基端激酶",
+   "en": "c-Jun N-terminal kinase\",\"JNK",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

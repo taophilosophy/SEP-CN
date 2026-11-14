@@ -2,10 +2,221 @@
  "key": "abizadeh, arash",
  "term": "Abizadeh, Arash",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T16:34:31+00:00",
- "status": "error",
- "note": "variant=Abizadeh, Arash; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Abizadeh, Arash: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T17:44:44+00:00",
+ "status": "ok",
+ "note": "variant=Abizadeh, Arash; 审定公布名词库=38; 海峡两岸名词对照库=13; 其他来源数据库=2; 预公布名词数据库=4; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "疹",
+   "en": "rash",
+   "code": "04.115",
+   "standard": "中医药学名词",
+   "subject": "中医药学_诊断学_诊法"
+  },
+  {
+   "cn": "拦污栅",
+   "en": "trash rack",
+   "code": "12.053",
+   "standard": "农学名词",
+   "subject": "农业水利_农业水资源"
+  },
+  {
+   "cn": "飞机失事",
+   "en": "air crash",
+   "code": "05.024",
+   "standard": "急救医学名词",
+   "subject": "急救医学_灾难医学_基本概念_通用概念"
+  },
+  {
+   "cn": "种群崩溃",
+   "en": "population crash",
+   "code": "7.0392",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_种群生态学"
+  },
+  {
+   "cn": "拦污栅",
+   "en": "trash rack",
+   "code": "14.307",
+   "standard": "电力名词",
+   "subject": "电力_水工与金属结构"
+  },
+  {
+   "cn": "磁盘划伤",
+   "en": "disk crash",
+   "code": "04.0466",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_存储设备"
+  },
+  {
+   "cn": "系统崩溃",
+   "en": "system crash",
+   "code": "04.1253",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "碰撞试验",
+   "en": "crash test",
+   "code": "01.064",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_一般名词_环保、法规和试验"
+  },
+  {
+   "cn": "阿拉什",
+   "en": "Party \"Alash\"",
+   "code": "05.0642",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_高加索、中亚"
+  },
+  {
+   "cn": "碎冰",
+   "en": "brash ice",
+   "code": "03.1035",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋技术_海洋预报预测"
+  },
+  {
+   "cn": "种群崩溃",
+   "en": "population crash",
+   "code": "05.114",
+   "standard": "生态学名词",
+   "subject": "生态学_种群生态学"
+  },
+  {
+   "cn": "应急操纵性",
+   "en": "crash maneuverability",
+   "code": "03.284",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶性能及其试验"
+  },
+  {
+   "cn": "崩溃",
+   "en": "crash",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "碎冰",
+   "en": "brash ice",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "适淹礁",
+   "en": "rock awash",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "磁盘划伤",
+   "en": "disk crash",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "磁头碰撞",
+   "en": "head crash",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "种群崩溃",
+   "en": "population crash",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "适淹礁",
+   "en": "rock awash",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "碎冰",
+   "en": "brash ice",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "特急操纵",
+   "en": "crash maneuvering",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "中国爆响钹",
+   "en": "Chinese crash cymbal",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "紧急倒车冲程",
+   "en": "crash stopping distance",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "平均未崩溃时间",
+   "en": "mean time to crash\",\"MTTC",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "直体3/4空翻",
+   "en": "crash dive",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "多人摔倒",
+   "en": "massed crash\",\"massed fall",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "皮疹",
+   "en": "rash",
+   "code": "1.4.3.2.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_体征"
+  },
+  {
+   "cn": "盘状红斑",
+   "en": "discoid rash",
+   "code": "2.2.1.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_特征性表现"
+  },
+  {
+   "cn": "向阳疹",
+   "en": "heliotrope rash",
+   "code": "2.5.1.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_炎性肌病_特征性表现"
+  },
+  {
+   "cn": "蝶形红斑",
+   "en": "butterfly erythema /malar rash",
+   "code": "2.2.1.2",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_特征性表现"
+  }
+ ],
+ "error": null,
  "raw": null
 }

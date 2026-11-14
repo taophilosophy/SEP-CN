@@ -1,0 +1,26 @@
+{
+ "key": "heisenberg, werner",
+ "term": "Heisenberg, Werner",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:40:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "海森堡极限",
+   "en": "Heisenberg limit",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "海森堡不确定性原理",
+   "en": "Heisenberg uncertainty principle",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 2}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"66161cd6e8ab40269a0934766c7a6126\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.7\", \"cnName\": \"海森堡极限\", \"enName\": \"Heisenberg limit\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"海森堡极限\", \"cnNameSearch\": \"海森堡极限\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Heisenberg limit\", \"wordSearch\": \"Heisenberg limit\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在特定量子态下，量子系统的某个指定的可观测量受其非对易可观测量的测量不确定性的制约所能达到的测量精度极限。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b81f9c2c658e4d03be697ea364a82c3c\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.6\", \"cnName\": \"海森堡不确定性原理\", \"enName\": \"Heisenberg uncertainty principle\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131867, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"海森堡不确定性原理\", \"cnNameSearch\": \"海森堡不确定性原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Heisenberg uncertainty principle\", \"wordSearch\": \"Heisenberg uncertainty principle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"两个非对易可观测量不可同时被确定，其中一个可观测量的不确定性越小，另一个可观测量的不确定性越大的物理学关系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678034346}"
+}

@@ -1,0 +1,33 @@
+{
+ "key": "indrabhuti gautama",
+ "term": "Indrabhūti Gautama",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:46:21+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "分部试ti运",
+   "en": "commissioningofindividualequipmentandsystem",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "温度指数<em>（TI）</em>",
+   "en": "temperature index<em>（TI）</em>",
+   "code": "GB/T 7142—2002",
+   "standard": "塑料长期热暴露后时间-温度极限的测定",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "阈值增量（<span style=\"font-family: &quot;Times New Roman&quot;;\"><em>TI</em></span>)",
+   "en": "threshold increment",
+   "code": "GB/T 51268—2017",
+   "standard": "绿色照明检测及评价标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2002\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"橡胶和塑料工业\": 1, \"其它\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"c69fed5a55a3495b8190d6086d55347b\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.15.5\", \"cnName\": \"分部试ti运\", \"enName\": \"commissioningofindividualequipmentandsystem\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 128114, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分部试ti运\", \"cnNameSearch\": \"分部试ti运\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"commissioningofindividualequipmentandsystem\", \"wordSearch\": \"commissioningofindividualequipmentandsystem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对单项设备或系统进行的动态检查和试验。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d67daeacd85471daa1c0150b38bb20e\", \"databaseId\": null, \"standardId\": \"de3f525ed62043bd9af67cf79ef32a33\", \"standardCode\": \"GB/T 7142—2002\", \"standardName\": \"塑料长期热暴露后时间-温度极限的测定\", \"standardEnName\": \"Determination of time-temperature limits for plastics after prolonged exposure to heat\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1\", \"cnName\": \"温度指数<em>（TI）</em>\", \"enName\": \"temperature index<em>（TI）</em>\", \"publishTime\": \"2002-05-29\", \"publishYear\": \"2002\", \"implementTime\": \"2002-12-01\", \"ics\": \"83.080.0183\", \"ccs\": \"G31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217808, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"温度指数<em>（TI）</em>\", \"cnNameSearch\": \"温度指数<em>（TI）</em>\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"temperature index<em>（TI）</em>\", \"wordSearch\": \"temperature index<em>（TI）</em>\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由耐热关系推导得到的某个指定时间下(通常为 20 000 h)的相应摄氏温度值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9e564fc9198b495989360804cb26c254\", \"databaseId\": null, \"standardId\": \"e1efa316da9044c0b055d3ae3a7013c7\", \"standardCode\": \"GB/T 51268—2017\", \"standardName\": \"绿色照明检测及评价标准\", \"standardEnName\": \"Standard for test and assessment of green lights\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.8\", \"cnName\": \"阈值增量（<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\"><em>TI</em></span>)\", \"enName\": \"threshold increment\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221307, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"阈值增量（<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\"><em>TI</em></span>)\", \"cnNameSearch\": \"阈值增量（<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\"><em>TI</em></span>)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"threshold increment\", \"wordSearch\": \"threshold increment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"失能眩光的度量。表示为存在眩光源时，为了达到同样看清物体的目的，在物体及背景之间的亮度对比所需增加的百分比。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678378034}"
+}
