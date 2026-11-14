@@ -62,8 +62,8 @@
 #### DocTask 状态机（retranslate，宪法 VI + FR-012）
 
 ```text
-pending → cleared → drafted → s1_checked → s2_checked → s3_checked
-        → r1_reviewed → r2_reviewed → r3_reviewed → done
+pending → cleared → drafted → s1_checked → s2_checked → audited(审计已译)
+        → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
 任意节点 → blocked（blockers 记录原因）→ 可回到原节点
 ```
 
@@ -71,6 +71,7 @@ pending → cleared → drafted → s1_checked → s2_checked → s3_checked
 * `drafted`：以英文源为唯一底稿初译完成；新术语先登记再使用
 * `s1_checked`：一校（准确性）——对照英文源逐句，变更段任务只过变更段落
 * `s2_checked`：二校（语言）——欧化句、口吻、流畅
+* `audited`：审计已译（ADR-0040）——yuanwen→en→译文三轴依次比对（逐段格式内容、全局内容格式），资产题注与脚注配对核验；挂 check_math_zh 默认档
 * `s3_checked`：三校（体例）——check_style.py + markdownlint 通过
 * `r1_reviewed`：初审——对照原文自审签字
 * `r2_reviewed`：复审——逐句回核原文与逻辑
@@ -80,8 +81,8 @@ pending → cleared → drafted → s1_checked → s2_checked → s3_checked
 #### DocTask 状态机（update）
 
 ```text
-pending → s1_checked(仅变更段) → s2_checked(变更段所在节) → s3_checked(全文档)
-        → r1 → r2 → r3(全文档) → done
+pending → s1_checked(仅变更段) → s2_checked(变更段所在节) → audited(仅变更段)
+        → s3_checked(全文档) → r1 → r2 → r3(全文档) → done
 ```
 
 ### TermRegistry（术语登记）

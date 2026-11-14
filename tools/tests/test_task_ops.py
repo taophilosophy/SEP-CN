@@ -182,16 +182,20 @@ class TestTaskOps(unittest.TestCase):
     def test_audit_gate_blocks_bare_dollar(self):
         # audited 挂钩：check_math_zh 默认档硬错误（裸 $）拦下审计（ADR-0040）
         task_ops._audit_gate = self.old_audit  # 还原真 gate
-        bad = self._md("g-bad.md", "# 测试标题\n\n值 $x 未配对。\n")
+        bad_body = "# 测试标题\n\n值 $x 未配对。\n"
+        bad = self._md("g-bad.md", bad_body)
         task_ops.create("test-g1", "retranslate", zh_doc=bad)
         task_ops.clear("test-g1")
+        write_text(bad, bad_body)  # clear 置空后写回，模拟 draft 成稿含裸 $
         for step in ("draft", "s1", "s2"):
             task_ops.advance("test-g1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-g1", "audit", actor="t", evidence="三向比对记录")
-        good = self._md("g-good.md", "# 测试标题\n\n值 $x$ 配对完好。\n")
+        good_body = "# 测试标题\n\n值 $x$ 配对完好。\n"
+        good = self._md("g-good.md", good_body)
         task_ops.create("test-g2", "retranslate", zh_doc=good)
         task_ops.clear("test-g2")
+        write_text(good, good_body)
         for step in ("draft", "s1", "s2"):
             task_ops.advance("test-g2", step, actor="t", evidence="e")
         t = task_ops.advance("test-g2", "audit", actor="t", evidence="三向比对记录")
