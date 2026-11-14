@@ -195,11 +195,11 @@ Fichte, Johann Gottlieb | Hegel, Georg Wilhelm Friedrich | Herder, Johann Gottfr
 
 [^körner-1935]: Körner, J., 1935, “F. Schlegels philosophische Lehrjahre,” in F. Schlegel, *Neue philosophische Schriften*, Frankfurt: G. Schulte-Bulmke.
 
-[^lacoue-labarthe-1978]: Lacoue-Labarthe and J.-L. Nancy, 1978, *The Literary Absolute: The Theory of Literature in German Romanticism*, P. Barnard and C. Lester (trans.), Albany, NY: State University of New York Press.
+[^lacoue-labarthe-1978]: Lacoue-Labarthe, P., and J.-L. Nancy, 1978, *The Literary Absolute: The Theory of Literature in German Romanticism*, P. Barnard and C. Lester (trans.), Albany, NY: State University of New York Press.
 
 [^larmore-1996]: Larmore, C., 1996, *The Romantic Legacy*, New York: Columbia University Press.
 
-[^man-1996]: deMan, P., 1996, “The Concept of Irony,” in *Aesthetic Ideology*, A. Warminski (ed.), Minneapolis: University of Minnesota Press, pp. 163–184.
+[^man-1996]: de Man, P., 1996, “The Concept of Irony,” in *Aesthetic Ideology*, A. Warminski (ed.), Minneapolis: University of Minnesota Press, pp. 163–184.
 
 [^millán-zaibert-2007]: Millán-Zaibert, E., 2007, *Friedrich Schlegel and the Emergence of Romantic Philosophy*, Albany, NY: SUNY Press.
 
