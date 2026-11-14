@@ -1,0 +1,152 @@
+{
+ "key": "unschuld, paul u.",
+ "term": "Unschuld, Paul U.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:02:22+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=76",
+ "hits": [
+  {
+   "cn": "最大持续工作电压",
+   "en": "U",
+   "code": "GB/T 37048—2018",
+   "standard": "高速公路机电系统防雷技术规范",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "u形管压力计",
+   "en": "U-gauge",
+   "code": "GB/T 50680—2012",
+   "standard": "城镇燃气工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "U描述符",
+   "en": "U descriptor",
+   "code": "GB 50073—2013",
+   "standard": "洁净厂房设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "最大工作峰值输出电压",
+   "en": "maximumworkingpeakoutputvoltage\nU",
+   "code": "GB/T 19651.1—2023",
+   "standard": "杂类灯座 第1部分：一般要求和试验 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "U形转弯精度",
+   "en": "U-turningaccuracy",
+   "code": "GB/T 6960.8—2021",
+   "standard": "拖拉机术语第8部分:电子控制系统",
+   "subject": "农业"
+  },
+  {
+   "cn": "峰值电压",
+   "en": "peakvoltage U,",
+   "code": "GB/T 19334—2021",
+   "standard": "低压开关设备和控制设备的尺寸 在开关设备和控制设备及其附件中作机械支承的标准安装轨",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "U形弹簧",
+   "en": "U-spring",
+   "code": "GB/T 1805—2021",
+   "standard": "弹簧 术语 ",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "用户数据帧",
+   "en": "U-frame",
+   "code": "GB/T 39352—2020",
+   "standard": "空间数据与信息传输系统邻近空间链路协议 数据链路层",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "槽形砌块",
+   "en": "U-shapedblock",
+   "code": "GB/T 18968—2019",
+   "standard": "墙 体 材 料 术 语",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "对称单极柔直变压器阀侧绕组直流偏置电压",
+   "en": "valvesidewindingdcoffsetvoltageoftransformer\nU",
+   "code": "GB/T 37011—2018",
+   "standard": "柔性直流输电用变压器技术规范",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "高位字节",
+   "en": "upperbyte；U",
+   "code": "GB/T 36614—2018",
+   "standard": "集成电路 存储器引出端排列",
+   "subject": "电子学"
+  },
+  {
+   "cn": "U形桥台",
+   "en": "U-shapedabutment",
+   "code": "GB/T 36543—2018",
+   "standard": "铁路桥梁词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "耐冲击电压额定值",
+   "en": "ratedimpulsewithstandvoltage\nU",
+   "code": "GB/T 36963—2018",
+   "standard": "光伏建筑一体化系统防雷技术规范",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "额定工作电压",
+   "en": "ratedoperationalvoltage U",
+   "code": "GB/T 36640—2018",
+   "standard": "固体继电器",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "最大工作峰值输出电压",
+   "en": "maximumworkingpeakoutputvoltage\nU",
+   "code": "GB/T 19518.1—2017",
+   "standard": "爆炸性环境 电阻式伴热器 第1部分：通用和试验要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "U型螺丝",
+   "en": "U-bolt",
+   "code": "GB/T 5075—2016",
+   "standard": "电力金具名词术语",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "滑动参考电压",
+   "en": "slidingreferencevoltage U.",
+   "code": "GB/T 32507—2016",
+   "standard": "电能质量 术语 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "牵连速度",
+   "en": "implicatedvelocity U",
+   "code": "GB/T 3858—2014",
+   "standard": "液力传动 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "圆周速度",
+   "en": "peripheralvelocity u",
+   "code": "GB/T 3858—2014",
+   "standard": "液力传动 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "单个信号幅度",
+   "en": "individualsignalamplitude U;",
+   "code": "GB/T 15120.2—2012",
+   "standard": "识别卡记录技术 第2部分：磁条低矫顽力 ",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 4, \"2022\": 2, \"2021\": 8, \"2020\": 2, \"2019\": 3, \"2018\": 9, \"2017\": 2, \"2016\": 7, \"2015\": 3, \"2014\": 3, \"2012\": 2, \"2011\": 2, \"2010\": 2, \"2009\": 1, \"2006\": 2, \"2005\": 4, \"2004\": 3, \"2001\": 2, \"1988\": 1, \"暂无年份\": 14}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 1, \"道路车辆工程\": 1, \"试验\": 1, \"计量学和测量、物理现象\": 6, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 6, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"电气工程\": 11, \"电子学\": 9, \"电信、音频和视频工程\": 4, \"环保、保健和安全\": 1, \"橡胶和塑料工业\": 2, \"材料储运设备\": 2, \"机械系统和通用件\": 2, \"机械制造\": 1, \"数学、自然科学\": 2, \"建筑材料和建筑物\": 4, \"家用和商用设备、文娱、体育\": 1, \"医药卫生技术\": 1, \"农业\": 1, \"其它\": 15, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 76}, \"totalRecords\": 76, \"tmWordList\": [{\"id\": \"6920ecb5d2f84ab8873f3fc7c5d2082e\", \"databaseId\": null, \"standardId\": \"45b47fa6b0b94482b71eb22758b5fd7a\", \"standardCode\": \"GB/T 37048—2018\", \"standardName\": \"高速公路机电系统防雷技术规范\", \"standardEnName\": \"Technical specification for lightning protection of expressway electromechanical systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.12\", \"cnName\": \"最大持续工作电压\", \"enName\": \"U\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"91.120.40\", \"ccs\": \"M04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73322, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"最大持续工作电压\", \"cnNameSearch\": \"最大持续工作电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U\", \"wordSearch\": \"U\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"可连续地施加在SPD保护模式上的最大交流电压有效值或直流电压。\\n[GB/T 18802.1—2011,定义3.11]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"48102003bd8d4366abfe22ab92efc247\", \"databaseId\": null, \"standardId\": \"513b58b6d93f42fcabf972f12335ab90\", \"standardCode\": \"GB/T 50680—2012\", \"standardName\": \"城镇燃气工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of city gas engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.1.17\", \"cnName\": \"u形管压力计\", \"enName\": \"U-gauge\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 83427, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"u形管压力计\", \"cnNameSearch\": \"u形管压力计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-gauge\", \"wordSearch\": \"U-gauge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据流体静力学原理将压力信号转变为液柱高度信号的一种压力计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d67d046ea585453994039e07aa9ff583\", \"databaseId\": null, \"standardId\": \"b6d221ee033142919cff2f204c30af17\", \"standardCode\": \"GB 50073—2013\", \"standardName\": \"洁净厂房设计规范\", \"standardEnName\": \"Code for design of clean room\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.42\", \"cnName\": \"U描述符\", \"enName\": \"U descriptor\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186965, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"U描述符\", \"cnNameSearch\": \"U描述符\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U descriptor\", \"wordSearch\": \"U descriptor\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"每立方米空气中包括超微粒子的实测或规定浓度。U描述符不能规定悬浮粒子洁净度等级，但它可与悬浮粒子洁净度等级同时引述，也可以单独引述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b1ab727a223f4fef973825668a5ac8ad\", \"databaseId\": null, \"standardId\": \"3394d9a575754661982fc71e0a9ac256\", \"standardCode\": \"GB/T 19651.1—2023\", \"standardName\": \"杂类灯座 第1部分：一般要求和试验 \", \"standardEnName\": \"Miscellaneous lampholders—Part 1 : General requirements and tests \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.26\", \"cnName\": \"最大工作峰值输出电压\", \"enName\": \"maximumworkingpeakoutputvoltage\\nU\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"ICS 29.140.10\", \"ccs\": \"CCS K 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56059, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"最大工作峰值输出电压\", \"cnNameSearch\": \"最大工作峰值输出电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"maximumworkingpeakoutputvoltage\\nU\", \"wordSearch\": \"maximumworkingpeakoutputvoltage\\nU\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在正常或异常工作条件期间，控制装置的输出端子之间或输出端子与地之间的最大重复性发生的\\n峰值工作电压，瞬态值忽略不计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec98397018094f59ace02f4129a2eab0\", \"databaseId\": null, \"standardId\": \"04e854fd55964a7cb728462e2a7c04c5\", \"standardCode\": \"GB/T 6960.8—2021\", \"standardName\": \"拖拉机术语第8部分:电子控制系统\", \"standardEnName\": \"Tractor terminology-Part 8:Electronic control system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.3.9\", \"cnName\": \"U形转弯精度\", \"enName\": \"U-turningaccuracy\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.060.1065\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3551, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"U形转弯精度\", \"cnNameSearch\": \"U形转弯精度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-turningaccuracy\", \"wordSearch\": \"U-turningaccuracy\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"180°转弯过程中，轨迹偏离误差的动态性能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb527d1d579745ceb82ddafe8f57efd4\", \"databaseId\": null, \"standardId\": \"25a54d349edd40f093fe4a7cd6f9725f\", \"standardCode\": \"GB/T 19334—2021\", \"standardName\": \"低压开关设备和控制设备的尺寸 在开关设备和控制设备及其附件中作机械支承的标准安装轨\", \"standardEnName\": \"Dimensions of low—voltage switchgear and controlgear—Standardized mounting on rails for mechanical support of switchgear, controlgear and accessories\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.4\", \"cnName\": \"峰值电压\", \"enName\": \"peakvoltage U,\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"29.130.20\", \"ccs\": \"K30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35065, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"峰值电压\", \"cnNameSearch\": \"峰值电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"peakvoltage U,\", \"wordSearch\": \"peakvoltage U,\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在输出端由触发器产生的电压脉冲最大值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"436e552133794c7fb7b03ddf73bd1c4b\", \"databaseId\": null, \"standardId\": \"2f5f226c900c4a2d9f896825bf6a320a\", \"standardCode\": \"GB/T 1805—2021\", \"standardName\": \"弹簧 术语 \", \"standardEnName\": \"Spring Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"5.9\", \"cnName\": \"U形弹簧\", \"enName\": \"U-spring\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"21.160\", \"ccs\": \"J 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50382, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"U形弹簧\", \"cnNameSearch\": \"U形弹簧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-spring\", \"wordSearch\": \"U-spring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"呈字母“U\\\"形状的弹簧。见图A.44。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd62e56e87774b79a2d66fcfdfbdeb93\", \"databaseId\": null, \"standardId\": \"80ae4ed51d524e22b1ea15990831c71b\", \"standardCode\": \"GB/T 39352—2020\", \"standardName\": \"空间数据与信息传输系统邻近空间链路协议 数据链路层\", \"standardEnName\": \"Space data and information transfer systems-Proximity space link protocol-Data link layer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.24\", \"cnName\": \"用户数据帧\", \"enName\": \"U-frame\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"49.14049\", \"ccs\": \"V75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 135954, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"用户数据帧\", \"cnNameSearch\": \"用户数据帧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-frame\", \"wordSearch\": \"U-frame\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包括用户数据信息的邻近空间链路传送帧(相对于 P-frame)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ab8be0709cf64b3a9e70829465864169\", \"databaseId\": null, \"standardId\": \"1504794dc8ea4420a4e8433f9745a40b\", \"standardCode\": \"GB/T 18968—2019\", \"standardName\": \"墙 体 材 料 术 语\", \"standardEnName\": \"Terms of wall materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"2.2.2.10\", \"cnName\": \"槽形砌块\", \"enName\": \"U-shapedblock\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"91.100.0191\", \"ccs\": \"Q15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20494, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"槽形砌块\", \"cnNameSearch\": \"槽形砌块\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-shapedblock\", \"wordSearch\": \"U-shapedblock\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"断面上有一面开口的砌块。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d7ca2e0d3eea47169db7f725e76d81c1\", \"databaseId\": null, \"standardId\": \"11c1f8c127da4a87b9691da9665264af\", \"standardCode\": \"GB/T 37011—2018\", \"standardName\": \"柔性直流输电用变压器技术规范\", \"standardEnName\": \"Technical specification of transformers for VSC—HVDC applications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.2.2\", \"cnName\": \"对称单极柔直变压器阀侧绕组直流偏置电压\", \"enName\": \"valvesidewindingdcoffsetvoltageoftransformer\\nU\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"29.180\", \"ccs\": \"K41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16233, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"对称单极柔直变压器阀侧绕组直流偏置电压\", \"cnNameSearch\": \"对称单极柔直变压器阀侧绕组直流偏置电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"valvesidewindingdcoffsetvoltageoftransformer\\nU\", \"wordSearch\": \"valvesidewindingdcoffsetvoltageoftransformer\\nU\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"forsymmetricalmonopoleVSC-HVDC\\n对于对称单极柔直系统，U为当发生直流单极极线接地故障时，柔直变压器阀侧绕组承受的对地\\n电压的直流偏置分量，持续时间为数十到数百毫秒。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"该值由用户提供。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0f8f044cab0b4155be78d86c54e954a7\", \"databaseId\": null, \"standardId\": \"250fa344a0e649f69faa617f753d8315\", \"standardCode\": \"GB/T 36614—2018\", \"standardName\": \"集成电路 存储器引出端排列\", \"standardEnName\": \"Integrated circuits—Memory devices pin configuration\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.1.1.18\", \"cnName\": \"高位字节\", \"enName\": \"upperbyte；U\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-01-01\", \"ics\": \"31.200\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34671, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"高位字节\", \"cnNameSearch\": \"高位字节\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"upperbyte；U\", \"wordSearch\": \"upperbyte；U\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"如果数据或者控制信号连着U字母表示该信号只对该数据的高位字节有效（例如UW）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad36138c6baf49cfa26d9d0aa52af918\", \"databaseId\": null, \"standardId\": \"261587dffe97453bb280a5d8ea986ab6\", \"standardCode\": \"GB/T 36543—2018\", \"standardName\": \"铁路桥梁词汇\", \"standardEnName\": \"Terms for railway bridge\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.2.3\", \"cnName\": \"U形桥台\", \"enName\": \"U-shapedabutment\", \"publishTime\": \"2018-07-13\", \"publishYear\": \"2018\", \"implementTime\": \"2019-02-01\", \"ics\": \"01.040.45\", \"ccs\": \"S04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36482, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"U形桥台\", \"cnNameSearch\": \"U形桥台\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-shapedabutment\", \"wordSearch\": \"U-shapedabutment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由支承桥跨结构的台身与两侧翼墙在平面上构成U形的桥台。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81b644cc8d3a4b739ef52ff87533d824\", \"databaseId\": null, \"standardId\": \"2996e61ecdc54770911e151fced6157c\", \"standardCode\": \"GB/T 36963—2018\", \"standardName\": \"光伏建筑一体化系统防雷技术规范\", \"standardEnName\": \"Technical specifications for lightning protection of building integrated photovoltaic systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.21\", \"cnName\": \"耐冲击电压额定值\", \"enName\": \"ratedimpulsewithstandvoltage\\nU\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"91.120.40\", \"ccs\": \"M04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 39622, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"耐冲击电压额定值\", \"cnNameSearch\": \"耐冲击电压额定值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ratedimpulsewithstandvoltage\\nU\", \"wordSearch\": \"ratedimpulsewithstandvoltage\\nU\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由厂家给设备或其部件指定的冲击耐受电压，用以表征其绝缘对过电压的规定耐受能力。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"本标准只考虑带电导体和地之间的耐受电压（见GB/T16935.1一2008，定义3.9.2）。\\n[GB/T 21714.1—2015,定义3.55]\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed6004301d984aacbb05fde0f87ecd3c\", \"databaseId\": null, \"standardId\": \"af041c9e88824f789b7af7d52c396815\", \"standardCode\": \"GB/T 36640—2018\", \"standardName\": \"固体继电器\", \"standardEnName\": \"Solid—state relay\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.1.3\", \"cnName\": \"额定工作电压\", \"enName\": \"ratedoperationalvoltage U\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"29.120.70\", \"ccs\": \"L25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 180548, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"额定工作电压\", \"cnNameSearch\": \"额定工作电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ratedoperationalvoltage U\", \"wordSearch\": \"ratedoperationalvoltage U\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"决定固体继电器使用的电压值，与相应的试验和负载类别有关。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dfdfa3e308e54dd1bf67878da630f2ea\", \"databaseId\": null, \"standardId\": \"afa1b44f3a254f08a0611483ecd1e375\", \"standardCode\": \"GB/T 19518.1—2017\", \"standardName\": \"爆炸性环境 电阻式伴热器 第1部分：通用和试验要求\", \"standardEnName\": \"Explosive atmospheres—Electrical resistance traces heating—Part 1: General and testing requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.26\", \"cnName\": \"最大工作峰值输出电压\", \"enName\": \"maximumworkingpeakoutputvoltage\\nU\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"29.260.20\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181042, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"最大工作峰值输出电压\", \"cnNameSearch\": \"最大工作峰值输出电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"maximumworkingpeakoutputvoltage\\nU\", \"wordSearch\": \"maximumworkingpeakoutputvoltage\\nU\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在正常或异常工作条件期间，控制装置的输出端子之间或输出端子与地之间的最大重复性发生的\\n峰值工作电压，瞬态值忽略不计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81c3fc8a87aa4a12b24eaf4dd5e8436e\", \"databaseId\": null, \"standardId\": \"b37f27073f224b41a9a4053dea6dac8a\", \"standardCode\": \"GB/T 5075—2016\", \"standardName\": \"电力金具名词术语\", \"standardEnName\": \"Terminology for electric power fittings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"2.2.8\", \"cnName\": \"U型螺丝\", \"enName\": \"U-bolt\", \"publishTime\": \"2016-04-25\", \"publishYear\": \"2016\", \"implementTime\": \"2016-11-01\", \"ics\": \"29.240.20\", \"ccs\": \"K 47\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183804, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"U型螺丝\", \"cnNameSearch\": \"U型螺丝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"U-bolt\", \"wordSearch\": \"U-bolt\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一端为环型连接一端为螺纹杆所构成的 U 形金具。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e1ec2857945741b0a4d69b86725d8cd8\", \"databaseId\": null, \"standardId\": \"ca6f3003e8534fca94b9b3124c3f77d9\", \"standardCode\": \"GB/T 32507—2016\", \"standardName\": \"电能质量 术语 \", \"standardEnName\": \"Power quality—Terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"2.8.20\", \"cnName\": \"滑动参考电压\", \"enName\": \"slidingreferencevoltage U.\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-09-01\", \"ics\": \"ICS 29.020\", \"ccs\": \"K 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 204116, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"滑动参考电压\", \"cnNameSearch\": \"滑动参考电压\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"slidingreferencevoltage U.\", \"wordSearch\": \"slidingreferencevoltage U.\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"某特定时间段内的电压幅值平均值，用以表示某一电压变化事件（如电压暂降、暂升及快速电压变\\n化）之前的电压。\\n[GB/T17626.30—2012，定义3.29]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ae4f56da9ce418889bd9dfc68fed06c\", \"databaseId\": null, \"standardId\": \"bd18d28c8e3e4bafa6b4ab9ad236559b\", \"standardCode\": \"GB/T 3858—2014\", \"standardName\": \"液力传动 术语\", \"standardEnName\": \"Hydrodynamic drive-Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"7.5\", \"cnName\": \"牵连速度\", \"enName\": \"implicatedvelocity U\", \"publishTime\": \"2014-03-27\", \"publishYear\": \"2014\", \"implementTime\": \"2015-01-01\", \"ics\": \"53.10053\", \"ccs\": \"P97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 191174, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"牵连速度\", \"cnNameSearch\": \"牵连速度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"implicatedvelocity U\", \"wordSearch\": \"implicatedvelocity U\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"液体质点与叶轮一起旋转时，该点所在位置的叶轮圆周速度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aeacc069466a4b2c8ebfcdf5d74986cf\", \"databaseId\": null, \"standardId\": \"bd18d28c8e3e4bafa6b4ab9ad236559b\", \"standardCode\": \"GB/T 3858—2014\", \"standardName\": \"液力传动 术语\", \"standardEnName\": \"Hydrodynamic drive-Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"7.3\", \"cnName\": \"圆周速度\", \"enName\": \"peripheralvelocity u\", \"publishTime\": \"2014-03-27\", \"publishYear\": \"2014\", \"implementTime\": \"2015-01-01\", \"ics\": \"53.10053\", \"ccs\": \"P97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 191299, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"圆周速度\", \"cnNameSearch\": \"圆周速度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"peripheralvelocity u\", \"wordSearch\": \"peripheralvelocity u\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"叶轮上某点的旋转线速度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"458608345fe5444499b414248ee5098d\", \"databaseId\": null, \"standardId\": \"9675df743de7436c8a075d8af6d48082\", \"standardCode\": \"GB/T 15120.2—2012\", \"standardName\": \"识别卡记录技术 第2部分：磁条低矫顽力 \", \"standardEnName\": \"Identification cards—Recording technique— Part 2 : Magnetic stripe—Low coercivity \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.10\", \"cnName\": \"单个信号幅度\", \"enName\": \"individualsignalamplitude U;\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-06-01\", \"ics\": \"ICS 35.240. 15\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 158462, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单个信号幅度\", \"cnNameSearch\": \"单个信号幅度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"individualsignalamplitude U;\", \"wordSearch\": \"individualsignalamplitude U;\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单个读出电压信号的基-峰值幅度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1794672138980}"
+}

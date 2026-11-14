@@ -1,0 +1,26 @@
+{
+ "key": "wheatstone, charles",
+ "term": "Wheatstone, Charles",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:27:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "查尔斯枪",
+   "en": "Charles gun",
+   "code": "GB/T 4597—2012",
+   "standard": "电 子 管 词 汇",
+   "subject": "电子学"
+  },
+  {
+   "cn": "惠斯登电桥",
+   "en": "<em>Wheatstone</em> bridge",
+   "code": "GB/T 3048.2—2007",
+   "standard": "电线电缆电性能试验方法第2部分：金属材料电阻率试验",
+   "subject": "电气工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2012\": 1, \"2007\": 1}, \"sourceStats\": {\"电气工程\": 1, \"电子学\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"2794493793114deaadb06a1fac576ae7\", \"databaseId\": null, \"standardId\": \"07d5d74b34794ff7a558c89f092d7422\", \"standardCode\": \"GB/T 4597—2012\", \"standardName\": \"电 子 管 词 汇\", \"standardEnName\": \"Vocabulary of electronic tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.3.30\", \"cnName\": \"查尔斯枪\", \"enName\": \"Charles gun\", \"publishTime\": \"2012-11-05\", \"publishYear\": \"2012\", \"implementTime\": \"2013-02-15\", \"ics\": \"31.10031\", \"ccs\": \"L35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 7292, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"查尔斯枪\", \"cnNameSearch\": \"查尔斯枪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Charles gun\", \"wordSearch\": \"Charles gun\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在正交电磁场存在的情况下，将电子注注人到高频结构端部的一种电子枪。\\n[IECIEV50531:1974,定义531-23-30]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca239456b95444ce8d732d77b74cff7d\", \"databaseId\": null, \"standardId\": \"3d7c8a42f0c140a0a66ecf8336c5e8f5\", \"standardCode\": \"GB/T 3048.2—2007\", \"standardName\": \"电线电缆电性能试验方法第2部分：金属材料电阻率试验\", \"standardEnName\": \"Test methods for electrical properties of electric cables and wires—Part 2: Test of electrical resistivity of metallic materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.5\", \"cnName\": \"惠斯登电桥\", \"enName\": \"<em>Wheatstone</em> bridge\", \"publishTime\": \"2007-12-03\", \"publishYear\": \"2007\", \"implementTime\": \"2008-05-01\", \"ics\": \"29.060\", \"ccs\": \"K13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66150, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"惠斯登电桥\", \"cnNameSearch\": \"惠斯登电桥\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Wheatstone</em> bridge\", \"wordSearch\": \"<em>Wheatstone</em> bridge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"惠斯登电桥即单臂电桥，测量电阻时只有两个触点，称为两点法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673651237}"
+}

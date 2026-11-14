@@ -1,0 +1,40 @@
+{
+ "key": "vygotsky, lev",
+ "term": "Vygotsky, Lev",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:13:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=4",
+ "hits": [
+  {
+   "cn": "局部排风",
+   "en": "localexhaustventilation(LEV)",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "局部排风",
+   "en": "local exhaust",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "局部排气通风",
+   "en": "local exhaust ventilation",
+   "code": "GB/T 43917.1—2024",
+   "standard": "焊接烟尘捕集和分离设备 第 1 部分:一般要求",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "高电平到低电平(低电平到高电平)的转换时间",
+   "en": "high-level to low-level(low-level to high-lev- el)transition time",
+   "code": "GB/T 17574—1998",
+   "standard": "半导体器件集成电路第2部分:数字集成电路",
+   "subject": "电子学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"1998\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"电子学\": 1, \"机械制造\": 1, \"其它\": 2}, \"typeStats\": {\"7\": 4}, \"totalRecords\": 4, \"tmWordList\": [{\"id\": \"90a49aedbfb64a759d49212af998d623\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"22.3.9\", \"cnName\": \"局部排风\", \"enName\": \"localexhaustventilation(LEV)\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 175736, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"局部排风\", \"cnNameSearch\": \"局部排风\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"localexhaustventilation(LEV)\", \"wordSearch\": \"localexhaustventilation(LEV)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在散发有害物质的局部地点设置排风罩捕集有害物质并将其排至室外的通风方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"79ce74495dc947adadfbdc0d1f946725\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.41\", \"cnName\": \"局部排风\", \"enName\": \"local exhaust\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123645, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"局部排风\", \"cnNameSearch\": \"局部排风\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"local exhaust\", \"wordSearch\": \"local exhaust\"}, {\"languageType\": 1, \"word\": \"LEV\", \"wordSearch\": \"LEV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在散发有害物质的局部地点设置排风罩捕集有害物质并将其排至室外的通风方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6449f0bd78834fcc927980a61a302ce7\", \"databaseId\": null, \"standardId\": \"a5f87100b0084fc58dfd06e5a4f1b909\", \"standardCode\": \"GB/T 43917.1—2024\", \"standardName\": \"焊接烟尘捕集和分离设备 第 1 部分:一般要求\", \"standardEnName\": \"Equipment for capture and separation of welding fume—Part 1: General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.6\", \"cnName\": \"局部排气通风\", \"enName\": \"local exhaust ventilation\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"25.160.01\", \"ccs\": \"J33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"局部排气通风\", \"cnNameSearch\": \"局部排气通风\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"local exhaust ventilation\", \"wordSearch\": \"local exhaust ventilation\"}, {\"languageType\": 1, \"word\": \"LEV\", \"wordSearch\": \"LEV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"使用吸气法去除污染源处或附近的污染空气。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cc8ffbcd1f2e400c8d7e4f66e05f7400\", \"databaseId\": null, \"standardId\": \"463f446ad8df40c5acc15e4423a903bc\", \"standardCode\": \"GB/T 17574—1998\", \"standardName\": \"半导体器件集成电路第2部分:数字集成电路\", \"standardEnName\": \"Semiconductor devicesIntegrated circuitsPart 2:Digital integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"1.4.8  \", \"cnName\": \"高电平到低电平(低电平到高电平)的转换时间\", \"enName\": \"high-level to low-level(low-level to high-lev- el)transition time\", \"publishTime\": \"1998-11-17\", \"publishYear\": \"1998\", \"implementTime\": \"1999-06-01\", \"ics\": \"ICS 31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73861, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"高电平到低电平(低电平到高电平)的转换时间\", \"cnNameSearch\": \"高电平到低电平(低电平到高电平)的转换时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"high-level to low-level(low-level to high-lev- el)transition time\", \"wordSearch\": \"high-level to low-level(low-level to high-lev- el)transition time\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"规定的输入信号通过特定网络加于电路,且输出接另外的特定网络作为负载,输出向低电平(高电平)变化时,输出脉冲沿上规定参考点之间的时间间隔。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672810987}"
+}

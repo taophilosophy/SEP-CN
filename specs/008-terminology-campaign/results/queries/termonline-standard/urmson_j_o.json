@@ -1,0 +1,152 @@
+{
+ "key": "urmson, j. o.",
+ "term": "Urmson, J. O.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:02:54+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=78",
+ "hits": [
+  {
+   "cn": "O.类",
+   "en": "type Oa",
+   "code": "GB/T 37224—2018",
+   "standard": "汽车用鼓式制动片",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "O.类",
+   "en": "typeOa",
+   "code": "GB/T 37269—2018",
+   "standard": "汽车用盘式制动衬块总成",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "J 环",
+   "en": "J-Ring",
+   "code": "GB/T 50080—2016",
+   "standard": "普通混凝土拌合物性能试验方法标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "J形管",
+   "en": "J-tube",
+   "code": "GB/T 40788—2021",
+   "standard": "船舶与海上技术  海上风能  港口与海上作业",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "J 型铺管法",
+   "en": "J-Lay",
+   "code": "GB/T 8423.3—2018",
+   "standard": "石油天然气工业术语第 3 部分:油气地面工程",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "赋形剂",
+   "en": "J excipient",
+   "code": "GB/T 33414—2016",
+   "standard": "穴位贴敷用药规范",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "液浸型",
+   "en": "\"o”liquid immersion“o”",
+   "code": "GB/T 3836.6—2017",
+   "standard": "爆炸性环境第6部分:由液浸型“o”保护的设备",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "winchester小口直壁瓶",
+   "en": "o）winchester",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "邻甲酚",
+   "en": "o-cresol",
+   "code": "GB/T 9977—2008",
+   "standard": "焦 化 产 品 术 语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "J形板簧",
+   "en": "J-leaf spring",
+   "code": "GB/T 1805—2021",
+   "standard": "弹簧 术语 ",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "流动电流密度",
+   "en": "streamingcurrentdensity\nJ str",
+   "code": "GB/T 32671.1—2016",
+   "standard": "胶体体系  zeta电位测量方法  第1部分：电声和电动现象",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "J形橡胶密封圈",
+   "en": "rubber J ring",
+   "code": "GB/T 5719—2006",
+   "standard": "橡胶密封制品  词汇",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "J形箱式",
+   "en": "with J box",
+   "code": "GB/T 6002.12—2005",
+   "standard": "纺织机械术语 第12部分：染整机械及相关机械 分类和名称",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "J形箱式",
+   "en": "with J box",
+   "code": "GB/T 6002.12—2005",
+   "standard": "纺织机械术语 第12部分：染整机械及相关机械 分类和名称",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "J形箱式",
+   "en": "with J box",
+   "code": "GB/T 6002.12—2005",
+   "standard": "纺织机械术语 第12部分：染整机械及相关机械 分类和名称",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "插座到插座适配器（J-J 适配器）",
+   "en": "jack to jack adaptor (J-J adaptor)",
+   "code": "GB/T 26336—2010",
+   "standard": "工业通信网络  工业环境中的通信网络安装",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "远程",
+   "en": "remote I/O",
+   "code": "GB 50891—2013",
+   "standard": "有色金属冶炼厂自控设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "开式屏障系统",
+   "en": "openedrestrictedaccessbarriersystem,o-RABS",
+   "code": "GB/T 50902—2013",
+   "standard": "医药工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "过程标准差",
+   "en": "）o）standard deviationofprocess",
+   "code": "GB/T 24636.1—2009",
+   "standard": "产品几何技术规范(GPS)统计公差第1部分:术语、定义和基本概念",
+   "subject": "其它"
+  },
+  {
+   "cn": "分布式 I/O",
+   "en": "distributed I/O",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2023\": 2, \"2021\": 10, \"2020\": 3, \"2018\": 4, \"2017\": 5, \"2016\": 3, \"2015\": 1, \"2014\": 5, \"2013\": 3, \"2012\": 4, \"2011\": 4, \"2008\": 3, \"2006\": 4, \"2005\": 10, \"2000\": 1, \"1995\": 1, \"1988\": 8, \"暂无年份\": 6}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 1, \"道路车辆工程\": 2, \"造船和海上构筑物\": 2, \"货物的包装和调运\": 1, \"计量学和测量、物理现象\": 3, \"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 3, \"纺织和皮革技术\": 9, \"精密机械、珠宝\": 3, \"石油及相关技术\": 2, \"电气工程\": 4, \"电子学\": 10, \"电信、音频和视频工程\": 2, \"环保、保健和安全\": 1, \"橡胶和塑料工业\": 1, \"机械系统和通用件\": 5, \"机械制造\": 7, \"数学、自然科学\": 4, \"成像技术\": 1, \"医药卫生技术\": 1, \"化工技术\": 1, \"其它\": 7, \"信息技术、办公机械\": 5}, \"typeStats\": {\"7\": 78}, \"totalRecords\": 78, \"tmWordList\": [{\"id\": \"05972853ca104adda8dde464ce4ba102\", \"databaseId\": null, \"standardId\": \"3c39a6c882b34bb2a5933c6e80fde9d1\", \"standardCode\": \"GB/T 37224—2018\", \"standardName\": \"汽车用鼓式制动片\", \"standardEnName\": \"Drum brake linings for automobile\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.3.4\", \"cnName\": \"O.类\", \"enName\": \"type Oa\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-11-01\", \"ics\": \"43.040.40\", \"ccs\": \"Q69\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65467, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"O.类\", \"cnNameSearch\": \"O.类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"type Oa\", \"wordSearch\": \"type Oa\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最大设计总质量超过10000kg的挂车，\\n[GB/T15089—2001，定义3.4.4]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5a3437309c934e9d90816865ee8edace\", \"databaseId\": null, \"standardId\": \"6aa3d5d8582245788321d7227acaff5b\", \"standardCode\": \"GB/T 37269—2018\", \"standardName\": \"汽车用盘式制动衬块总成\", \"standardEnName\": \"Brake pad assemblly for automobile\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.3.4\", \"cnName\": \"O.类\", \"enName\": \"typeOa\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-11-01\", \"ics\": \"43.040.40\", \"ccs\": \"Q69\", \"parentTermId\": null, \"titleId\": null, \"oid\": 107263, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"O.类\", \"cnNameSearch\": \"O.类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"typeOa\", \"wordSearch\": \"typeOa\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最大设计总质量超过10000kg的挂车。\\n[GB/T15089—2001,定义3.4.4]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6d357f45a3324d24b29bb35655b0d46a\", \"databaseId\": null, \"standardId\": \"37fdbca102ac43238be35f41b490df49\", \"standardCode\": \"GB/T 50080—2016\", \"standardName\": \"普通混凝土拌合物性能试验方法标准\", \"standardEnName\": \"Standard for test method of performance on ordinary fresh concrete\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.5 \", \"cnName\": \"J 环\", \"enName\": \"J-Ring\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 61988, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J 环\", \"cnNameSearch\": \"J 环\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-Ring\", \"wordSearch\": \"J-Ring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测定混凝土拌合物间隙通过性的环形仪器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"058839d977824b74942d7815e4cc68ef\", \"databaseId\": null, \"standardId\": \"2e4cc7df2233488cae1e709d004b2a3c\", \"standardCode\": \"GB/T 40788—2021\", \"standardName\": \"船舶与海上技术  海上风能  港口与海上作业\", \"standardEnName\": \"Ships and marine technology—Offshore wind energy—Port and marine operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.74\", \"cnName\": \"J形管\", \"enName\": \"J-tube\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"47.020.20\", \"ccs\": \"U 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49731, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形管\", \"cnNameSearch\": \"J形管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-tube\", \"wordSearch\": \"J-tube\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基础附件的一部分，用于支撑和保护从海床到过渡段或上部模块的阵列电缆或输出电缆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c17537e985564375a540d226c386ebfd\", \"databaseId\": null, \"standardId\": \"3e419c96eaa04b88934439f0c823efc3\", \"standardCode\": \"GB/T 8423.3—2018\", \"standardName\": \"石油天然气工业术语第 3 部分:油气地面工程\", \"standardEnName\": \"Petroleum and natural gas industries terminology—Part 3:Oil-gas surface engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"4.3.11\", \"cnName\": \"J 型铺管法\", \"enName\": \"J-Lay\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"75.200\", \"ccs\": \"E 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67121, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J 型铺管法\", \"cnNameSearch\": \"J 型铺管法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-Lay\", \"wordSearch\": \"J-Lay\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铺管时管道在船上保持竖直，通过张紧器、托管架入水，将其铺设到海底的铺设方法，在下水过程中整体呈J型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"90a216757aa74a7199c3e3eb3bde3e3c\", \"databaseId\": null, \"standardId\": \"6846c4d2487145598dde7bba585b4768\", \"standardCode\": \"GB/T 33414—2016\", \"standardName\": \"穴位贴敷用药规范\", \"standardEnName\": \"Specification on Chinese herbal application of acupoint paste\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.3\", \"cnName\": \"赋形剂\", \"enName\": \"J excipient\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"11.020\", \"ccs\": \"00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103283, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"赋形剂\", \"cnNameSearch\": \"赋形剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J excipient\", \"wordSearch\": \"J excipient\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"赋予药物以适当的形态和体积的物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ba8b15f88bc443bab754a224e7e111a7\", \"databaseId\": null, \"standardId\": \"dc900ba471344c4c8827d2679d90cd37\", \"standardCode\": \"GB/T 3836.6—2017\", \"standardName\": \"爆炸性环境第6部分:由液浸型“o”保护的设备\", \"standardEnName\": \"Explosive atmospheres—Part 6: Equipment protection by liquid immersion \\\"o”\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.1\", \"cnName\": \"液浸型\", \"enName\": \"\\\"o”liquid immersion“o”\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2018-07-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216414, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"液浸型\", \"cnNameSearch\": \"液浸型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"\\\"o”liquid immersion“o”\", \"wordSearch\": \"\\\"o”liquid immersion“o”\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电气设备的一种防爆型式，将电气设备或电气设备部件整个浸在保护液体中，使设备不能够点燃液面上或外壳外部的爆炸性气体环境。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b8c9ebfd8d84bd7a2219aeaaa82dd4d\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.6.2.25\", \"cnName\": \"winchester小口直壁瓶\", \"enName\": \"o）winchester\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197441, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"winchester小口直壁瓶\", \"cnNameSearch\": \"winchester小口直壁瓶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"o）winchester\", \"wordSearch\": \"o）winchester\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"肩部滚圆、瓶身为圆柱形的玻璃瓶。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3f6bc1722df74a78b07a582f3e470458\", \"databaseId\": null, \"standardId\": \"5c0af3f91cd44a12aa3d93e84f544e9b\", \"standardCode\": \"GB/T 9977—2008\", \"standardName\": \"焦 化 产 品 术 语\", \"standardEnName\": \"The terms of coking products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1.33\", \"cnName\": \"邻甲酚\", \"enName\": \"o-cresol\", \"publishTime\": \"2008-08-19\", \"publishYear\": \"2008\", \"implementTime\": \"2009-04-01\", \"ics\": \"71.08071\", \"ccs\": \"G18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93015, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"邻甲酚\", \"cnNameSearch\": \"邻甲酚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"o-cresol\", \"wordSearch\": \"o-cresol\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由粗酚加工得到的精制产品，含邻甲酚９６％以上。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e78bc7846f14899a8f23bb56e7534bc\", \"databaseId\": null, \"standardId\": \"2f5f226c900c4a2d9f896825bf6a320a\", \"standardCode\": \"GB/T 1805—2021\", \"standardName\": \"弹簧 术语 \", \"standardEnName\": \"Spring Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"5.1.4\", \"cnName\": \"J形板簧\", \"enName\": \"J-leaf spring\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"21.160\", \"ccs\": \"J 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50548, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形板簧\", \"cnNameSearch\": \"J形板簧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"J-leaf spring\", \"wordSearch\": \"J-leaf spring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"呈字母“J\\\"形状的板簧。见图A.22。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"83fceafff9704dda80b8158583b66188\", \"databaseId\": null, \"standardId\": \"076a0190601b47b785ccc2d1f644d9b1\", \"standardCode\": \"GB/T 32671.1—2016\", \"standardName\": \"胶体体系  zeta电位测量方法  第1部分：电声和电动现象\", \"standardEnName\": \"Colloidal systems—Methods for zeta potential determination—Part 1: Electroacoustic and electrokinetic phenomena\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"2.2.9\", \"cnName\": \"流动电流密度\", \"enName\": \"streamingcurrentdensity\\nJ str\", \"publishTime\": \"2016-04-25\", \"publishYear\": \"2016\", \"implementTime\": \"2016-11-01\", \"ics\": \"17.140.50\", \"ccs\": \"N04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 6365, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"流动电流密度\", \"cnNameSearch\": \"流动电流密度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"streamingcurrentdensity\\nJ str\", \"wordSearch\": \"streamingcurrentdensity\\nJ str\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位面积上的流动电流。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"单位是库[仑]每平方米（C/m²）。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"640cc8fccf90418193d7fac075199a56\", \"databaseId\": null, \"standardId\": \"c589f39a49204d479d401696b0c1727d\", \"standardCode\": \"GB/T 5719—2006\", \"standardName\": \"橡胶密封制品  词汇\", \"standardEnName\": \"Rubber sealing articles — Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"2.1.10\", \"cnName\": \"J形橡胶密封圈\", \"enName\": \"rubber J ring\", \"publishTime\": \"2006-08-24\", \"publishYear\": \"2006\", \"implementTime\": \"2007-03-01\", \"ics\": \"21.140.83\", \"ccs\": \"G 43\", \"parentTermId\": null, \"titleId\": null, \"oid\": 198545, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形橡胶密封圈\", \"cnNameSearch\": \"J形橡胶密封圈\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rubber J ring\", \"wordSearch\": \"rubber J ring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"截面为J形的橡胶密封圈。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ab25df88aa69460a8406e3f97598c869\", \"databaseId\": null, \"standardId\": \"aa75e453c07c4d8c84fda3a28479ed18\", \"standardCode\": \"GB/T 6002.12—2005\", \"standardName\": \"纺织机械术语 第12部分：染整机械及相关机械 分类和名称\", \"standardEnName\": \"Textile machinery terminology—Part 12:Dyeing,finishing and allied Machinery—Classification and nomenclature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"a) \", \"cnName\": \"J形箱式\", \"enName\": \"with J box\", \"publishTime\": \"2005-10-19\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"59.120.5059\", \"ccs\": \"W90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 174241, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形箱式\", \"cnNameSearch\": \"J形箱式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"with J box\", \"wordSearch\": \"with J box\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"06de8140884c4fcbbb20f9eb4218533a\", \"databaseId\": null, \"standardId\": \"aa75e453c07c4d8c84fda3a28479ed18\", \"standardCode\": \"GB/T 6002.12—2005\", \"standardName\": \"纺织机械术语 第12部分：染整机械及相关机械 分类和名称\", \"standardEnName\": \"Textile machinery terminology—Part 12:Dyeing,finishing and allied Machinery—Classification and nomenclature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"a) \", \"cnName\": \"J形箱式\", \"enName\": \"with J box\", \"publishTime\": \"2005-10-19\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"59.120.5059\", \"ccs\": \"W90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 174246, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形箱式\", \"cnNameSearch\": \"J形箱式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"with J box\", \"wordSearch\": \"with J box\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5fbd52ef06324a1cb15fb349efe12185\", \"databaseId\": null, \"standardId\": \"aa75e453c07c4d8c84fda3a28479ed18\", \"standardCode\": \"GB/T 6002.12—2005\", \"standardName\": \"纺织机械术语 第12部分：染整机械及相关机械 分类和名称\", \"standardEnName\": \"Textile machinery terminology—Part 12:Dyeing,finishing and allied Machinery—Classification and nomenclature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"a) \", \"cnName\": \"J形箱式\", \"enName\": \"with J box\", \"publishTime\": \"2005-10-19\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"59.120.5059\", \"ccs\": \"W90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 174288, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"J形箱式\", \"cnNameSearch\": \"J形箱式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"with J box\", \"wordSearch\": \"with J box\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c6e99bf630d04dd1b1f4e167f5f928c3\", \"databaseId\": null, \"standardId\": \"18ed68a41ab04e9cbdbac1e9d116fb23\", \"standardCode\": \"GB/T 26336—2010\", \"standardName\": \"工业通信网络  工业环境中的通信网络安装\", \"standardEnName\": \"Industrial communication networks - Installation of communication networks in industrial premises\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.37\", \"cnName\": \"插座到插座适配器（J-J 适配器）\", \"enName\": \"jack to jack adaptor (J-J adaptor)\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"25.040\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24737, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"插座到插座适配器（J-J 适配器）\", \"cnNameSearch\": \"插座到插座适配器（J-J 适配器）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jack to jack adaptor (J-J adaptor)\", \"wordSearch\": \"jack to jack adaptor (J-J adaptor)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"不在壳体/环境隔板上的背靠背插口。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6c9aa24c973d493bba50d2c438ac0d34\", \"databaseId\": null, \"standardId\": \"0edae1bf02794fff854aa5a04201e05f\", \"standardCode\": \"GB 50891—2013\", \"standardName\": \"有色金属冶炼厂自控设计规范\", \"standardEnName\": \"Code for automation design of non-ferrous metals smelters\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.13\", \"cnName\": \"远程\", \"enName\": \"remote I/O\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 12751, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"远程\", \"cnNameSearch\": \"远程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"remote I/O\", \"wordSearch\": \"remote I/O\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有通信功能但自身没有控制功能的远距离数据采集/传送模块。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ce76c80d4a74c438d5c53f48a46bca1\", \"databaseId\": null, \"standardId\": \"16bc5b5c9eb844cd99f62e972e2ef51b\", \"standardCode\": \"GB/T 50902—2013\", \"standardName\": \"医药工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms ofpharmaceutical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.0.34\", \"cnName\": \"开式屏障系统\", \"enName\": \"openedrestrictedaccessbarriersystem,o-RABS\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22134, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"开式屏障系统\", \"cnNameSearch\": \"开式屏障系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"openedrestrictedaccessbarriersystem,o-RABS\", \"wordSearch\": \"openedrestrictedaccessbarriersystem,o-RABS\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"回风通过周边环境回到自身系统的限制接触屏障系统。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"266eac5e36db4e0f8d260381722451e4\", \"databaseId\": null, \"standardId\": \"95c759043e6d4e86990fa97a6832c560\", \"standardCode\": \"GB/T 24636.1—2009\", \"standardName\": \"产品几何技术规范(GPS)统计公差第1部分:术语、定义和基本概念\", \"standardEnName\": \"Geometrical Product Specifications(GPS)—Statistical tolerance—Part 1: Terms, definitions and basic concepts\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.2\", \"cnName\": \"过程标准差\", \"enName\": \"）o）standard deviationofprocess\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157802, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"过程标准差\", \"cnNameSearch\": \"过程标准差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"）o）standard deviationofprocess\", \"wordSearch\": \"）o）standard deviationofprocess\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与制造过程相关的质量特性的方差的正平方根。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f34fab2d185148d8b0cc56241f787671\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"7.2.1.8\", \"cnName\": \"分布式 I/O\", \"enName\": \"distributed I/O\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58454, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分布式 I/O\", \"cnNameSearch\": \"分布式 I/O\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"distributed I/O\", \"wordSearch\": \"distributed I/O\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由I/O模块和具有通信功能的数据处理模块构成，符合一定的通信协议，可放在现地控制单元本体以外一定的距离处，以通信方式实现与现地控制单元本体的信息交换。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>有时也称为远程1/0。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1794672170967}"
+}

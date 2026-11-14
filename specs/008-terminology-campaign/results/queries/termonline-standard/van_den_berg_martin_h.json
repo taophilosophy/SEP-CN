@@ -1,0 +1,152 @@
+{
+ "key": "van den berg, martin h.",
+ "term": "van den Berg, Martin H.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:05:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=94",
+ "hits": [
+  {
+   "cn": "ITU-T H. 323 互通网关",
+   "en": "interworking gateWay for ITU-T H. 323 video conferencing system",
+   "code": "GB/T 21641—2008",
+   "standard": "基于不同技术的应急视讯会议系统互通技术要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "材料车",
+   "en": "stores van",
+   "code": "GB/T 50562—2019",
+   "standard": "煤炭矿井工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "封闭式载货汽车",
+   "en": "close van",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "封闭式货车",
+   "en": "close van",
+   "code": "GB/T 43405—2023",
+   "standard": "封闭式货车 货物隔离装置及系固点技术要求和试验方法",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "厢体",
+   "en": "van body",
+   "code": "GB/T 31028—2014",
+   "standard": "行动不便旅客登机车",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "木片运输车",
+   "en": "chip van",
+   "code": "GB/T 6926—2008",
+   "standard": "林业机械  分类词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "转播车",
+   "en": "outside broadcast van",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "厢式载货汽车",
+   "en": "van goods vehicle",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "厢式半挂车",
+   "en": "van semi-trailer",
+   "code": "GB/T 42184—2022",
+   "standard": "货物多式联运术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "水平式声学多普勒剖面流速仪",
+   "en": "H-ADCP",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H杆",
+   "en": "H-pole",
+   "code": "GB/T 51421—2020",
+   "standard": "架空光(电)缆通信杆路工程技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "谐波次数",
+   "en": "harmonicorder(H)",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H管",
+   "en": "H pipe",
+   "code": "GB 50015—2019",
+   "standard": "建筑给水排水设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "H管",
+   "en": "H pipe",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "doseequivalent\nH",
+   "code": "GB/T 32452—2025",
+   "standard": "航天术语 空间环境",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "红斑剂量",
+   "en": "erythemaldose\nH",
+   "code": "GB/T 20150—2023",
+   "standard": "红斑基准作用光谱及标准红斑剂量",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "气",
+   "en": "deuterium *H",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "氛",
+   "en": "tritium *H",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "H点",
+   "en": "H-point",
+   "code": "GB/T 40887.2—2022",
+   "standard": "无障碍客车的轮椅车及乘坐者限位系统 第2部分: 前向式轮椅车乘坐者系统",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "H-点",
+   "en": "H-point",
+   "code": "GB/Z 30661.4—2021",
+   "standard": "轮椅车座椅 第4部分：机动车中使用的座椅系统",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2024\": 1, \"2023\": 7, \"2022\": 3, \"2021\": 15, \"2020\": 1, \"2019\": 3, \"2018\": 2, \"2017\": 3, \"2016\": 3, \"2015\": 3, \"2014\": 9, \"2013\": 3, \"2012\": 2, \"2011\": 1, \"2010\": 1, \"2009\": 1, \"2008\": 5, \"2005\": 2, \"2004\": 3, \"2003\": 2, \"1999\": 1, \"1996\": 11, \"暂无年份\": 11}, \"sourceStats\": {\"铁路工程\": 1, \"道路车辆工程\": 4, \"造船和海上构筑物\": 1, \"计量学和测量、物理现象\": 2, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 15, \"综合、术语学、标准化、文献\": 5, \"纺织和皮革技术\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 3, \"石油及相关技术\": 1, \"电气工程\": 3, \"电子学\": 1, \"电信、音频和视频工程\": 2, \"环保、保健和安全\": 3, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 1, \"材料储运设备\": 3, \"机械制造\": 2, \"数学、自然科学\": 8, \"建筑材料和建筑物\": 3, \"医药卫生技术\": 3, \"农业\": 14, \"其它\": 12, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 94}, \"totalRecords\": 94, \"tmWordList\": [{\"id\": \"b8397ae85ff14589bde63f7634423fbc\", \"databaseId\": null, \"standardId\": \"3267b5e4b0934297876c8483367863f0\", \"standardCode\": \"GB/T 21641—2008\", \"standardName\": \"基于不同技术的应急视讯会议系统互通技术要求\", \"standardEnName\": \"Technique requirements of video conferencing system interworking between different technologies\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.5\", \"cnName\": \"ITU-T H. 323 互通网关\", \"enName\": \"interworking gateWay for ITU-T H. 323 video conferencing system\", \"publishTime\": \"2008-04-10\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"33.040\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55103, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"ITU-T H. 323 互通网关\", \"cnNameSearch\": \"ITU-T H. 323 互通网关\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"interworking gateWay for ITU-T H. 323 video conferencing system\", \"wordSearch\": \"interworking gateWay for ITU-T H. 323 video conferencing system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"ITU-T H.323 视讯会议系统的互通功能实体,用于实现与PSTN、ISDN或其他网络上的GB/T 15845.4—2003、ITU-T H.324P、ITU-T H.324M、ITU-T H.324I视频会议终端等终端的互通。ITU-T H.323互通网关应完成媒体流格式的转化和传送,呼叫控制信令和系统控制信令映射等功能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2a59f743d8c843e9908726f367312571\", \"databaseId\": null, \"standardId\": \"42d9740119184914a86604c47989def7\", \"standardCode\": \"GB/T 50562—2019\", \"standardName\": \"煤炭矿井工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of coal mine construction engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.12\", \"cnName\": \"材料车\", \"enName\": \"stores van\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 71133, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"材料车\", \"cnNameSearch\": \"材料车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stores van\", \"wordSearch\": \"stores van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"矿井运输坑木、轨道等长材料的车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb450a8b7de04d0a8f8369367d126c2f\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.2.17\", \"cnName\": \"封闭式载货汽车\", \"enName\": \"close van\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29411, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"封闭式载货汽车\", \"cnNameSearch\": \"封闭式载货汽车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"close van\", \"wordSearch\": \"close van\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"封闭式货车\", \"cnNameSearch\": \"封闭式货车\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为封闭厢体且与驾驶室联成一体，车身结构为一厢式或两厢式的载货汽车。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"709150072ab145f8adc566e999937538\", \"databaseId\": null, \"standardId\": \"dc1f170b4b584484b9a143ab1f6c584c\", \"standardCode\": \"GB/T 43405—2023\", \"standardName\": \"封闭式货车 货物隔离装置及系固点技术要求和试验方法\", \"standardEnName\": \"Close van—Partitioning system and lashing point technical requirements and test methods\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.1\", \"cnName\": \"封闭式货车\", \"enName\": \"close van\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"43.020\", \"ccs\": \"T 09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215995, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"封闭式货车\", \"cnNameSearch\": \"封闭式货车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"close van\", \"wordSearch\": \"close van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为封闭厢体且与驾驶室联成一体，车身结构为一厢式或两厢式的载货汽车。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7b297a2f05b4492c90b094f4bf9ae9d4\", \"databaseId\": null, \"standardId\": \"4c4cea6ded1b4bb9aee541fc6c85f472\", \"standardCode\": \"GB/T 31028—2014\", \"standardName\": \"行动不便旅客登机车\", \"standardEnName\": \"Disabled/incapacitated passenger boarding vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.3\", \"cnName\": \"厢体\", \"enName\": \"van body\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2015-06-01\", \"ics\": \"49.100\", \"ccs\": \"V57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79601, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢体\", \"cnNameSearch\": \"厢体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van body\", \"wordSearch\": \"van body\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于承载残疾旅客、轮椅、担架等的厢式结构。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11b43b98deb54c0e8902244d6baa6cf2\", \"databaseId\": null, \"standardId\": \"20858c69b572435183d1f27c6ac3ea51\", \"standardCode\": \"GB/T 6926—2008\", \"standardName\": \"林业机械  分类词汇\", \"standardEnName\": \"Forestry machinery—Classification and vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3.4.3.1\", \"cnName\": \"木片运输车\", \"enName\": \"chip van\", \"publishTime\": \"2008-05-27\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-01\", \"ics\": \"65.060.70\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30742, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"木片运输车\", \"cnNameSearch\": \"木片运输车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chip van\", \"wordSearch\": \"chip van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"运输散状木片的专用车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b0268b9afcf6463abcd0420a97269bb5\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1389\", \"cnName\": \"转播车\", \"enName\": \"outside broadcast van\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148867, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"转播车\", \"cnNameSearch\": \"转播车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"outside broadcast van\", \"wordSearch\": \"outside broadcast van\"}, {\"languageType\": 1, \"word\": \"OB Van\", \"wordSearch\": \"OB Van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"装备有用于广播电视节目拍摄、制作、记录和传输设备的特种车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d0c1f9884be9470dacd01217629aba35\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.2.14\", \"cnName\": \"厢式载货汽车\", \"enName\": \"van goods vehicle\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29345, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢式载货汽车\", \"cnNameSearch\": \"厢式载货汽车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van goods vehicle\", \"wordSearch\": \"van goods vehicle\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"厢式货车\", \"cnNameSearch\": \"厢式货车\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为厢体且与驾驶室各自独立、厢体顶部(翼开式车辆除外)为封闭、不可开启的载货汽车。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"54d629345c1d436aab72125e716db53c\", \"databaseId\": null, \"standardId\": \"1b8e19f9958c4ec3834025af7c674bbe\", \"standardCode\": \"GB/T 42184—2022\", \"standardName\": \"货物多式联运术语\", \"standardEnName\": \"Terminology of freight intermodal transport\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.4\", \"cnName\": \"厢式半挂车\", \"enName\": \"van semi-trailer\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2022-12-30\", \"ics\": \"03.220.01\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 26794, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢式半挂车\", \"cnNameSearch\": \"厢式半挂车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van semi-trailer\", \"wordSearch\": \"van semi-trailer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种车轴置于车辆重心后面，与牵引车共同承载车厢和货物重量，装有联结装置并由牵引车牵引的无动力封闭式道路车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"291246c0ad8245debf259c37074a6174\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.6.1.5.(3)\", \"cnName\": \"水平式声学多普勒剖面流速仪\", \"enName\": \"H-ADCP\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42371, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水平式声学多普勒剖面流速仪\", \"cnNameSearch\": \"水平式声学多普勒剖面流速仪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-ADCP\", \"wordSearch\": \"H-ADCP\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"固定安装在岸边，测量此水深处水层上一定距离内流速分布的声学剖面流速仪。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d18c660d42794c6d8ce8075f36f4d9bd\", \"databaseId\": null, \"standardId\": \"57706a57a685424c811053df34fcc79e\", \"standardCode\": \"GB/T 51421—2020\", \"standardName\": \"架空光(电)缆通信杆路工程技术标准\", \"standardEnName\": \"Technical standard of communication pole line engineering for aerial optical ( copper) cable\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.15\", \"cnName\": \"H杆\", \"enName\": \"H-pole\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H杆\", \"cnNameSearch\": \"H杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-pole\", \"wordSearch\": \"H-pole\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"杆塔设施中需要特别加强电杆杆身强度而采用双电杆且两杆间隔似英文字母\\\"H\\\"的电杆组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9cc6d041907940e0973cfa49f0ec8cce\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.4.51\", \"cnName\": \"谐波次数\", \"enName\": \"harmonicorder(H)\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 128689, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谐波次数\", \"cnNameSearch\": \"谐波次数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"harmonicorder(H)\", \"wordSearch\": \"harmonicorder(H)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"谐波频率与基波频率的整数比\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"21edcbef594a4d1a957ea58ad6d236c1\", \"databaseId\": null, \"standardId\": \"e3905b8e040149a78731ea090d6c902d\", \"standardCode\": \"GB 50015—2019\", \"standardName\": \"建筑给水排水设计标准\", \"standardEnName\": \"Standard for design of building water supply and drainage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.50\", \"cnName\": \"H管\", \"enName\": \"H pipe\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 224294, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H管\", \"cnNameSearch\": \"H管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H pipe\", \"wordSearch\": \"H pipe\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接非水立管与通气立管形如H的专用配件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dba7ee0887774d32b407db30e87207d6\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.58\", \"cnName\": \"H管\", \"enName\": \"H pipe\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 233231, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H管\", \"cnNameSearch\": \"H管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H pipe\", \"wordSearch\": \"H pipe\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接排水立管与通气立管形如H 的专用配件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1bba9418561948aeb3f06c79608a217d\", \"databaseId\": null, \"standardId\": \"733d6c9636a4476aa97a0a3445ff0e40\", \"standardCode\": \"GB/T 32452—2025\", \"standardName\": \"航天术语 空间环境\", \"standardEnName\": \"Space terminology—Space environment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"6.10.4\", \"cnName\": \"剂量当量\", \"enName\": \"doseequivalent\\nH\", \"publishTime\": \"2025-10-05\", \"publishYear\": \"2025\", \"implementTime\": \"2025-10-05\", \"ics\": \"49.02049\", \"ccs\": \"V04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剂量当量\", \"cnNameSearch\": \"剂量当量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"doseequivalent\\nH\", \"wordSearch\": \"doseequivalent\\nH\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"反映各种射线或粒子被吸收后引起的生物效应强弱的电离辐射剂量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"通常表示为组织或器官中某点处吸收剂量D、品质因素Q和其他一切修正因素N的乘积，即H=DQN。单位\\n是雷姆（rem），国际单位制是希沃特(Sv)，1Sv=1J/kg,1Sv=100rem。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c5f88a439be647d19d1f166a71bf17da\", \"databaseId\": null, \"standardId\": \"186a84a40d6c4f96b8c9abd1085b8c1f\", \"standardCode\": \"GB/T 20150—2023\", \"standardName\": \"红斑基准作用光谱及标准红斑剂量\", \"standardEnName\": \"Erythema reference action spectrum and standard erythema dose\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.3\", \"cnName\": \"红斑剂量\", \"enName\": \"erythemaldose\\nH\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"29.140.01\", \"ccs\": \"K70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24350, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"红斑剂量\", \"cnNameSearch\": \"红斑剂量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"erythemaldose\\nH\", \"wordSearch\": \"erythemaldose\\nH\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"红斑曝辐射量erythemalradiantexposure\\n红斑辐照度的时间积分。\\nH=\\nE（a，t)s（a）dadt\\n式中：\\nE（入，t）一光谱辐照度；\\ns。（a）一红斑光谱加权函数，在其最大值处归一化为1。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"这一定义假设所考虑的光化效应采用一个作用光谱，其最大值为1。\", \"需明确使用哪种光化作用光谱，因为任何作用光谱的单位都是相同的。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8459324c619340be9576c6c1b9985ef6\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.5.1.6\", \"cnName\": \"气\", \"enName\": \"deuterium *H\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121490, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"气\", \"cnNameSearch\": \"气\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"deuterium *H\", \"wordSearch\": \"deuterium *H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原子由一个质子和一个中子组成的，氢的一种天然稳定同位素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2c3c622ea85f46b2a822492ace0a498f\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.5.1.7\", \"cnName\": \"氛\", \"enName\": \"tritium *H\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121878, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"氛\", \"cnNameSearch\": \"氛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tritium *H\", \"wordSearch\": \"tritium *H\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"氢元素的一种半衰期为12.4年的放射性同位素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"abcf8ff10c024aaca8780cace71c7128\", \"databaseId\": null, \"standardId\": \"c37f399c331140b6a9d11bb87c10940c\", \"standardCode\": \"GB/T 40887.2—2022\", \"standardName\": \"无障碍客车的轮椅车及乘坐者限位系统 第2部分: 前向式轮椅车乘坐者系统\", \"standardEnName\": \"Wheelchair containment and occupant retention systems for accessible transport vehicles designed for use by both sitting and standing passengers—Part 2: Systems for forward-facing wheelchair seated passengers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.9\", \"cnName\": \"H点\", \"enName\": \"H-point\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"11.180\", \"ccs\": \"C 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196246, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H点\", \"cnNameSearch\": \"H点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-point\", \"wordSearch\": \"H-point\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"侧视图中代表人体臀部关节中心大概位置，由拟人试验装置制造商规定的，位于拟人试验装置骨盆区左右两侧点中的一个点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1274d6344ff242259a2a09e505a4f0e2\", \"databaseId\": null, \"standardId\": \"595a0d6c29ec425c84776105864b53ca\", \"standardCode\": \"GB/Z 30661.4—2021\", \"standardName\": \"轮椅车座椅 第4部分：机动车中使用的座椅系统\", \"standardEnName\": \"Wheelchair seating—Part 4: Seating systems for use in motor vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.16\", \"cnName\": \"H-点\", \"enName\": \"H-point\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2024-10-11\", \"ics\": \"11.180\", \"ccs\": \"Y 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"H-点\", \"cnNameSearch\": \"H-点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"H-point\", \"wordSearch\": \"H-point\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由ATD制造商指定的一对位于拟人试验装置骨盆区域两侧的点，在侧视图中接近人体髋关节中心。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 5}}, \"timestamp\": 1794672298965}"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "viete, francois",
+ "term": "Viète, François",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:10:30+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=7",
+ "hits": [
+  {
+   "cn": "VI 类",
+   "en": "Class VI",
+   "code": "GB/T 7025.2—2008",
+   "standard": "电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "te时间",
+   "en": "timetE",
+   "code": "GB/T 3836.3—2021",
+   "standard": "爆炸性环境第3部分:由增安型“e”保护的设备",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "虚拟TE链路",
+   "en": "virtual TE link",
+   "code": "GB/T 21645.10—2017",
+   "standard": "自动交换光网络(ASON)技术要求 第10部分:多层多域控制平面",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "程序 VI A 发动机试验",
+   "en": "sequence VI A engine test",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "程序 VI D 发动机试验",
+   "en": "sequence VI D engine test",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "程序 VI B 发动机试验",
+   "en": "sequence VI B engine test",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "程序 VI 发动机试验",
+   "en": "sequence VI engine test",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2019\": 4, \"2017\": 1, \"2008\": 1}, \"sourceStats\": {\"石油及相关技术\": 4, \"电气工程\": 1, \"电信、音频和视频工程\": 1, \"建筑材料和建筑物\": 1}, \"typeStats\": {\"7\": 7}, \"totalRecords\": 7, \"tmWordList\": [{\"id\": \"a1ed41248d164c3181f115fc3d14175d\", \"databaseId\": null, \"standardId\": \"a9654a7237494f3bb9b7577998de904c\", \"standardCode\": \"GB/T 7025.2—2008\", \"standardName\": \"电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯\", \"standardEnName\": \"Lifts—Main specifications and the dimensions arrangements for its cars, wells and machine rooms—Part 2: Lifts of class Ⅳ\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.2.6\", \"cnName\": \"VI 类\", \"enName\": \"Class VI\", \"publishTime\": \"2008-12-06\", \"publishYear\": \"2008\", \"implementTime\": \"2009-06-01\", \"ics\": \"91.140.90\", \"ccs\": \"Q 78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173652, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"VI 类\", \"cnNameSearch\": \"VI 类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Class VI\", \"wordSearch\": \"Class VI\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为适应大交通流量和频繁使用而特别设计的电梯，如速度为 2.5m/s 以及更高速度的电梯。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8ec120e8f42a4aeab297f7349f986b67\", \"databaseId\": null, \"standardId\": \"d81797eacc0a4ac2a6b39dcd4a769300\", \"standardCode\": \"GB/T 3836.3—2021\", \"standardName\": \"爆炸性环境第3部分:由增安型“e”保护的设备\", \"standardEnName\": \"Explosive atmospheres-Part 3:Equipment protection by increased safety“e”\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.18\", \"cnName\": \"te时间\", \"enName\": \"timetE\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213137, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"te时间\", \"cnNameSearch\": \"te时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"timetE\", \"wordSearch\": \"timetE\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"交流转子或定子绕组在最高环境温度下达到额定运行温度后，从开始通过启动电流IA时起直至温\\n度上升到极限温度所需的时间（见图A.1)。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"单位为秒(s)。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4987dd3436d44b1c8a28f47780adbad7\", \"databaseId\": null, \"standardId\": \"dc89de6090b84161b1b29e91f7dcfc7d\", \"standardCode\": \"GB/T 21645.10—2017\", \"standardName\": \"自动交换光网络(ASON)技术要求 第10部分:多层多域控制平面\", \"standardEnName\": \"Technical requirements for automatically switched optical network (ASON)-Part 10: Multi-layer and multi-region control plane\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.7\", \"cnName\": \"虚拟TE链路\", \"enName\": \"virtual TE link\", \"publishTime\": \"2017-05-12\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.040.20\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216317, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"虚拟TE链路\", \"cnNameSearch\": \"虚拟TE链路\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"virtual TE link\", \"wordSearch\": \"virtual TE link\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在没有上层业务的情况下,可以不对VNT中的FA-LSP进行完全配置,以预留资源用于其他服务层LSP,是一种潜在LSP的TE链路。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca4c8e7f458b44ef99ed34584adaf71d\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.20.122\", \"cnName\": \"程序 VI A 发动机试验\", \"enName\": \"sequence VI A engine test\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 226709, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序 VI A 发动机试验\", \"cnNameSearch\": \"程序 VI A 发动机试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sequence VI A engine test\", \"wordSearch\": \"sequence VI A engine test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，采用规定的试验发动机，评定发动机油（尤指多级汽油机油），如 ILSAC GF-2 等，对乘用汽车和轻负荷卡车燃油经济性影响（即节能性能）的试验。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>试验发动机采用 1993 年产美国福特 Ford 4.6L 组合式 V-8 发动机。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5b0f69cbe07e4c49a28a6826052ff34b\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.20.124\", \"cnName\": \"程序 VI D 发动机试验\", \"enName\": \"sequence VI D engine test\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 226723, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序 VI D 发动机试验\", \"cnNameSearch\": \"程序 VI D 发动机试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sequence VI D engine test\", \"wordSearch\": \"sequence VI D engine test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，采用规定的试验发动机，评定汽油机油对乘用汽车和轻负荷卡车燃油经济性影响（即节能性能）的方法。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>试验发动机采用美国通用汽车公司 3.6L LY7 发动机。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad22c56fa8db4d4cac761ba3af80978a\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.20.123\", \"cnName\": \"程序 VI B 发动机试验\", \"enName\": \"sequence VI B engine test\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227007, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序 VI B 发动机试验\", \"cnNameSearch\": \"程序 VI B 发动机试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sequence VI B engine test\", \"wordSearch\": \"sequence VI B engine test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，采用规定的试验发动机，评定发动机油（尤指多级汽油机油），如 ILSAC GF-3、GF4，API SL、SM 等，对乘用汽车和轻负荷卡车燃油经济性影响（即节能性能）的试验。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>试验发动机采用 1993 年产美国福特 Ford 4.6L 组合式 V-8 发动机。</p>\", \"<p>此台架试验的测试条件，如测试阶段、试验总时间等，相比程序 VI A 台架试验均有所不同。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"109ea005e97f4b528678a3f137c4ac79\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.20.121\", \"cnName\": \"程序 VI 发动机试验\", \"enName\": \"sequence VI engine test\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227183, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序 VI 发动机试验\", \"cnNameSearch\": \"程序 VI 发动机试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sequence VI engine test\", \"wordSearch\": \"sequence VI engine test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，采用规定的试验发动机，评定内燃机油对轿车和轻型卡车燃料经济性影响（即节能性能）的试验。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>试验发动机采用美国通用汽车公司 1982 年、1986 年或 1987 年产 Buick 3.8L V-6 双腔化油器发动机。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672626674}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "vardi, moshe y.",
+ "term": "Vardi, Moshe Y.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:07:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=59",
+ "hits": [
+  {
+   "cn": "Y轴",
+   "en": "Y axis",
+   "code": "GB/T 30420.3—2023",
+   "standard": "缝制机械术语 第3部分：铺布裁剪设备术语",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "Y轴",
+   "en": "Y axis",
+   "code": "GB 9656—2021",
+   "standard": "机动车玻璃安全技术规范",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "Y型过滤器",
+   "en": "Y-typefilter",
+   "code": "GB/T 38276—2019",
+   "standard": "润滑系统 术语和图形符号",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "关断角",
+   "en": "extinctionangle\ny",
+   "code": "GB/T 36559—2018",
+   "standard": "高压直流输电用晶闸管阀",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "Y笼",
+   "en": "Y-cage",
+   "code": "GB/T 33032—2016",
+   "standard": "分子筛  术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "Y抖动",
+   "en": "Y jitter",
+   "code": "GB/T 26237.7—2013",
+   "standard": "信息技术  生物特征识别数据交换格式  第7部分：签名/签字时间序列数据",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "Y分辨率",
+   "en": "Y resolution",
+   "code": "GB/T 26237.7—2013",
+   "standard": "信息技术  生物特征识别数据交换格式  第7部分：签名/签字时间序列数据",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "Y形管",
+   "en": "Y-piece",
+   "code": "GB/T 4999—2003",
+   "standard": "麻醉呼吸设备 术语",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "Y 信号",
+   "en": "Y signal",
+   "code": "GB/T 7397.5—2000",
+   "standard": "非广播磁带录像机测量方法 第5部分:宽带录像机——包括具有 Y/C视频连接器的宽带录像机(PAL/NTSC)",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "Y 型道岔（双路道岔）",
+   "en": "Y-switch",
+   "code": "GB 6974.15—86",
+   "standard": "起重机械名词术语  悬挂单轨系统",
+   "subject": "其它"
+  },
+  {
+   "cn": "Y型泵",
+   "en": "Y-type pump",
+   "code": "GB/T 7785—2013 ",
+   "standard": "往复泵分类和名词术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "Y型接法",
+   "en": "type Y attachment",
+   "code": "GB/T 14536.1—2022",
+   "standard": "电自动控制器 第1部分:通用要求",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "综合节电率",
+   "en": "integralpower-savingrate y",
+   "code": "GB/T 37319—2019",
+   "standard": "电梯节能逆变电源装置",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "Y型管",
+   "en": "Y-shape pipe",
+   "code": "GB/T 7920.4—2016",
+   "standard": "混凝土机械术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "Y型连接",
+   "en": "type Y attachment",
+   "code": "GB 7000.1—2015",
+   "standard": "灯具 第1部分:一般要求与试验",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "Y型泵",
+   "en": "Y-type pump",
+   "code": "GB/T 7785—2013",
+   "standard": "往复泵分类和名词术语",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "Y 切片",
+   "en": "Y-cut plate",
+   "code": "GB/T 3352—2012",
+   "standard": "人造石英晶体规范与使用指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "Y棒",
+   "en": "lumbered Y-bar",
+   "code": "GB/T 3352—2012",
+   "standard": "人造石英晶体规范与使用指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "Y-C 信号",
+   "en": "Y-C signal",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "Y-Y角关联",
+   "en": "Y- angular correlation",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 5, \"2022\": 3, \"2021\": 4, \"2019\": 4, \"2018\": 2, \"2017\": 5, \"2016\": 2, \"2015\": 3, \"2013\": 5, \"2012\": 4, \"2011\": 2, \"2010\": 2, \"2008\": 3, \"2006\": 2, \"2005\": 1, \"2003\": 3, \"2001\": 1, \"2000\": 2, \"1998\": 1, \"1996\": 2, \"1986\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"食品技术\": 1, \"道路车辆工程\": 4, \"造船和海上构筑物\": 2, \"造纸技术\": 1, \"计量学和测量、物理现象\": 5, \"能源和热传导工程\": 5, \"综合、术语学、标准化、文献\": 3, \"电气工程\": 3, \"电子学\": 3, \"电信、音频和视频工程\": 6, \"流体系统和通用件\": 2, \"材料储运设备\": 1, \"机械系统和通用件\": 2, \"机械制造\": 5, \"服装工业\": 3, \"数学、自然科学\": 1, \"家用和商用设备、文娱、体育\": 1, \"医药卫生技术\": 1, \"化工技术\": 2, \"农业\": 1, \"其它\": 3, \"信息技术、办公机械\": 4}, \"typeStats\": {\"7\": 59}, \"totalRecords\": 59, \"tmWordList\": [{\"id\": \"0cbeca48d4c54ef9b3226eb1af3cd9a2\", \"databaseId\": null, \"standardId\": \"9c3a80c30a284481964e900fc440ac90\", \"standardCode\": \"GB/T 30420.3—2023\", \"standardName\": \"缝制机械术语 第3部分：铺布裁剪设备术语\", \"standardEnName\": \"Sewing machinery terminology—Part 3: Spreading and cutting machines terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"4.3.5\", \"cnName\": \"Y轴\", \"enName\": \"Y axis\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"61.080\", \"ccs\": \"Y17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162265, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y轴\", \"cnNameSearch\": \"Y轴\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y axis\", \"wordSearch\": \"Y axis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"与裁剪台宽度平行的方向标线。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图4。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2a522a8e43054d0198002d1fc7396586\", \"databaseId\": null, \"standardId\": \"48301276f0004498980c736a40cb78ae\", \"standardCode\": \"GB 9656—2021\", \"standardName\": \"机动车玻璃安全技术规范\", \"standardEnName\": \"Safety technical specification for glazing materials used inpower-driven vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.19\", \"cnName\": \"Y轴\", \"enName\": \"Y axis\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2023-01-01\", \"ics\": \"43.040.6043\", \"ccs\": \"T 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 75235, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y轴\", \"cnNameSearch\": \"Y轴\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y axis\", \"wordSearch\": \"Y axis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过驾驶员座位R点，且在R点所在的水平面，与X轴垂直的轴。十Y为车辆行驶方向的右侧，一Y为车辆行驶方向的左侧。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e3b4120d02d040679ee28d1aea4c193b\", \"databaseId\": null, \"standardId\": \"0e6161b6b0114c5b9b619c63fa0471ad\", \"standardCode\": \"GB/T 38276—2019\", \"standardName\": \"润滑系统 术语和图形符号\", \"standardEnName\": \"Lubrication system-Terminology and graphical symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"3.7.8\", \"cnName\": \"Y型过滤器\", \"enName\": \"Y-typefilter\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"21.26021\", \"ccs\": \"J21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 12494, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型过滤器\", \"cnNameSearch\": \"Y型过滤器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-typefilter\", \"wordSearch\": \"Y-typefilter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"Y型结构型式的过滤器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c27a9f1b3ae641dcba78145bdef9e069\", \"databaseId\": null, \"standardId\": \"e3340f31308f43fb96cd8f57a96dd3b7\", \"standardCode\": \"GB/T 36559—2018\", \"standardName\": \"高压直流输电用晶闸管阀\", \"standardEnName\": \"Thyristor valves for HVDC transmission\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.3.5\", \"cnName\": \"关断角\", \"enName\": \"extinctionangle\\ny\", \"publishTime\": \"2018-07-13\", \"publishYear\": \"2018\", \"implementTime\": \"2019-02-01\", \"ics\": \"29.200\", \"ccs\": \"K46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223734, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"关断角\", \"cnNameSearch\": \"关断角\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"extinctionangle\\ny\", \"wordSearch\": \"extinctionangle\\ny\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从电流导通结束至理想正弦换相电压的下一个过零点的时间，以电角度度量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"关断角y与触发超前角3及换相角的关系为：Y=β一μ。\\n[GB/T13498—2017,定义7.23]\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"42da4156301842a7806f342149b64d6f\", \"databaseId\": null, \"standardId\": \"4a966bb41c3d47a8a6e51635511f8616\", \"standardCode\": \"GB/T 33032—2016\", \"standardName\": \"分子筛  术语\", \"standardEnName\": \"Molecular sieve—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"2.1.15\", \"cnName\": \"Y笼\", \"enName\": \"Y-cage\", \"publishTime\": \"2016-10-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-05-01\", \"ics\": \"71.100.99\", \"ccs\": \"G85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 77334, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y笼\", \"cnNameSearch\": \"Y笼\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-cage\", \"wordSearch\": \"Y-cage\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由两个八元环通过四条由三个四元环组成的带相连接而成的十八面体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"609e6289d6b0410cb367e7d001a85cea\", \"databaseId\": null, \"standardId\": \"3ad80db24a5147608e97b4acb88a911d\", \"standardCode\": \"GB/T 26237.7—2013\", \"standardName\": \"信息技术  生物特征识别数据交换格式  第7部分：签名/签字时间序列数据\", \"standardEnName\": \"Information technology—Biometric data interchange formats—Part 7: signature/sign time series data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.11\", \"cnName\": \"Y抖动\", \"enName\": \"Y jitter\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"35.040\", \"ccs\": \"L71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63460, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y抖动\", \"cnNameSearch\": \"Y抖动\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y jitter\", \"wordSearch\": \"Y jitter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"相对于某固定笔的 100 个 Y 轴坐标样本的标准偏差。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a80d8556210147ad817cd2a9ca59166e\", \"databaseId\": null, \"standardId\": \"3ad80db24a5147608e97b4acb88a911d\", \"standardCode\": \"GB/T 26237.7—2013\", \"standardName\": \"信息技术  生物特征识别数据交换格式  第7部分：签名/签字时间序列数据\", \"standardEnName\": \"Information technology—Biometric data interchange formats—Part 7: signature/sign time series data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.13\", \"cnName\": \"Y分辨率\", \"enName\": \"Y resolution\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"35.040\", \"ccs\": \"L71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63463, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y分辨率\", \"cnNameSearch\": \"Y分辨率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y resolution\", \"wordSearch\": \"Y resolution\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"采集设备在 Y(垂直)方向采集到每厘米的点的数量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"67007c4c999240e7aef7a6639903eb40\", \"databaseId\": null, \"standardId\": \"63444a1938824346a6c035dee36005b8\", \"standardCode\": \"GB/T 4999—2003\", \"standardName\": \"麻醉呼吸设备 术语\", \"standardEnName\": \"Anaesthetic and respiratory equipment—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"4.2.2.2  \", \"cnName\": \"Y形管\", \"enName\": \"Y-piece\", \"publishTime\": \"2003-06-09\", \"publishYear\": \"2003\", \"implementTime\": \"2003-12-01\", \"ics\": \"11.040.1011\", \"ccs\": \"C46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 99328, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y形管\", \"cnNameSearch\": \"Y形管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-piece\", \"wordSearch\": \"Y-piece\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"通气系统三通接头\", \"cnNameSearch\": \"通气系统三通接头\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"three-way breathing system connector\", \"wordSearch\": \"three-way breathing system connector\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一头接病人连接端口,另外两头接通气管道的三通接头。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca283974b4764eaea7a88ca67f530b9a\", \"databaseId\": null, \"standardId\": \"40eca446050f4fe1bdac60e6e501ca14\", \"standardCode\": \"GB/T 7397.5—2000\", \"standardName\": \"非广播磁带录像机测量方法 第5部分:宽带录像机——包括具有 Y/C视频连接器的宽带录像机(PAL/NTSC)\", \"standardEnName\": \"Non-broadcast video tape recorders—Methods of measurement—Part 5:High-band video tape recorders including those equipped with Y/C video connectors (PAL/NTSC)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"1.4.10\", \"cnName\": \"Y 信号\", \"enName\": \"Y signal\", \"publishTime\": \"2000-01-03\", \"publishYear\": \"2000\", \"implementTime\": \"2000-08-01\", \"ics\": \"33.160.4033\", \"ccs\": \"M71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68821, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y 信号\", \"cnNameSearch\": \"Y 信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y signal\", \"wordSearch\": \"Y signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"亮度信号的简称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5d327ef0825246dcaedc0061ea09e879\", \"databaseId\": null, \"standardId\": \"decf01382407476b9b55efd97e325702\", \"standardCode\": \"GB 6974.15—86\", \"standardName\": \"起重机械名词术语  悬挂单轨系统\", \"standardEnName\": \"Lifting appliances—Vocabulary—Underslung monorail systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.4.2.1\", \"cnName\": \"Y 型道岔（双路道岔）\", \"enName\": \"Y-switch\", \"publishTime\": \"1986-11-01\", \"publishYear\": \"1986\", \"implementTime\": \"1987-07-01\", \"ics\": \"UDC 621.87：001.4\", \"ccs\": \"J 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218195, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y 型道岔（双路道岔）\", \"cnNameSearch\": \"Y 型道岔（双路道岔）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-switch\", \"wordSearch\": \"Y-switch\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使一条线路朝两个不同方向分岔的转舌型双路道岔</p><p><img src=\\\"/standard/b4bfbcbb1dcf41d39fa2bd5c36789878/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d1e14e60f0ad4471b07ca038807e4a0f\", \"databaseId\": null, \"standardId\": \"8566640fd4224edc98697435f5fa2ff6\", \"standardCode\": \"GB/T 7785—2013 \", \"standardName\": \"往复泵分类和名词术语\", \"standardEnName\": \"Classification and vocabulary for reciprocating pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.3.2\", \"cnName\": \"Y型泵\", \"enName\": \"Y-type pump\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141410, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型泵\", \"cnNameSearch\": \"Y型泵\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-type pump\", \"wordSearch\": \"Y-type pump\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"每三个活塞（柱塞）为一组，其轴线彼此成“Y”形布置的泵。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b3ec76790d04b4b8d9d32dd3c83f0f2\", \"databaseId\": null, \"standardId\": \"e34823b45083451ab0611f1338587e42\", \"standardCode\": \"GB/T 14536.1—2022\", \"standardName\": \"电自动控制器 第1部分:通用要求\", \"standardEnName\": \"Automatic electrical controls-Part 1:General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.10.6.3\", \"cnName\": \"Y型接法\", \"enName\": \"type Y attachment\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"97.120\", \"ccs\": \"K 32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型接法\", \"cnNameSearch\": \"Y型接法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"type Y attachment\", \"wordSearch\": \"type Y attachment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"只有制造商、制造商的代理商或相关的专业人员才能换线的电源软线的连接方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"056cfd21d0064286a00cd70ad2bbeb54\", \"databaseId\": null, \"standardId\": \"6c12cafd168947b2a4be33232e09e771\", \"standardCode\": \"GB/T 37319—2019\", \"standardName\": \"电梯节能逆变电源装置\", \"standardEnName\": \"Energy—saving power supply equipment with inverter for lift\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.7\", \"cnName\": \"综合节电率\", \"enName\": \"integralpower-savingrate y\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"29.200\", \"ccs\": \"K46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 108129, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"综合节电率\", \"cnNameSearch\": \"综合节电率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"integralpower-savingrate y\", \"wordSearch\": \"integralpower-savingrate y\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定的同一运能工况下，不配置电源装置的电梯在运行过程中消耗的市电电能，与配置电源装置\\n的电梯在运行过程中消耗的市电电能之差，占不配置电源装置的电梯在运行过程中消耗市电电能的百\\n分比。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4a38ddd4ba0c472faaff856a64fa6c90\", \"databaseId\": null, \"standardId\": \"2157ba640e6b40f7afbd5191a0e928de\", \"standardCode\": \"GB/T 7920.4—2016\", \"standardName\": \"混凝土机械术语\", \"standardEnName\": \"Concrete machinery terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.4.2.1.2\", \"cnName\": \"Y型管\", \"enName\": \"Y-shape pipe\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-07-01\", \"ics\": \"01.040.91;91.22001\", \"ccs\": \"P97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31749, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型管\", \"cnNameSearch\": \"Y型管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-shape pipe\", \"wordSearch\": \"Y-shape pipe\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"双缸混凝土泵（分配阀为蝶阀和闸板阀）中输送混凝土的叉形管。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d2913878a56c4c16be28284138f41018\", \"databaseId\": null, \"standardId\": \"5721c76b10a745aeaace6b3a2f4e5b6b\", \"standardCode\": \"GB 7000.1—2015\", \"standardName\": \"灯具 第1部分:一般要求与试验\", \"standardEnName\": \"Luminaires—Part1:General requirements and tests\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"1.2.72.2\", \"cnName\": \"Y型连接\", \"enName\": \"type Y attachment\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2017-01-01\", \"ics\": \"29.140.4029\", \"ccs\": \"K72\", \"parentTermId\": null, \"titleId\": null, \"oid\": 89504, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型连接\", \"cnNameSearch\": \"Y型连接\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"type Y attachment\", \"wordSearch\": \"type Y attachment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"软缆或软线的更换只能由制造商、其代理商或类似有资格的人进行的连接方法。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>Y型连接可以使用普通的软缆或软线，也可以使用特殊的软缆或软线。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ff39ae3321df4ad19288ceaf71fe9745\", \"databaseId\": null, \"standardId\": \"424e9bea65224912bad96a763c56e1b1\", \"standardCode\": \"GB/T 7785—2013\", \"standardName\": \"往复泵分类和名词术语\", \"standardEnName\": \"Classification and vocabulary for reciprocating pump\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.3.3.2\", \"cnName\": \"Y型泵\", \"enName\": \"Y-type pump\", \"publishTime\": \"2013-09-18\", \"publishYear\": \"2013\", \"implementTime\": \"2014-06-01\", \"ics\": \"23.08023\", \"ccs\": \"J71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70293, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y型泵\", \"cnNameSearch\": \"Y型泵\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-type pump\", \"wordSearch\": \"Y-type pump\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"每三个活塞（柱塞）为一组，其轴线彼此成“Y\\\"形布置的泵。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d2a17d9a96744c9e9748a7b4e1b357a0\", \"databaseId\": null, \"standardId\": \"e02efa16e7384752bca84726b135bdb6\", \"standardCode\": \"GB/T 3352—2012\", \"standardName\": \"人造石英晶体规范与使用指南\", \"standardEnName\": \"Synthetic quartz crystal—Specifications and guide to the use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.7.5\", \"cnName\": \"Y 切片\", \"enName\": \"Y-cut plate\", \"publishTime\": \"2012-11-05\", \"publishYear\": \"2012\", \"implementTime\": \"2013-02-15\", \"ics\": \"31.140\", \"ccs\": \"L 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219112, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y 切片\", \"cnNameSearch\": \"Y 切片\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-cut plate\", \"wordSearch\": \"Y-cut plate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"切割面与</span><span style=\\\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;;\\\"><em>Y </em></span><span style=\\\"color: rgb(0, 0, 0);\\\">轴垂直的晶片,见图</span><span style=\\\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;;\\\">3b</span><span style=\\\"color: rgb(0, 0, 0);\\\">)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"56a5a45015d9406086603071d6b4b2a0\", \"databaseId\": null, \"standardId\": \"e02efa16e7384752bca84726b135bdb6\", \"standardCode\": \"GB/T 3352—2012\", \"standardName\": \"人造石英晶体规范与使用指南\", \"standardEnName\": \"Synthetic quartz crystal—Specifications and guide to the use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.20.1\", \"cnName\": \"Y棒\", \"enName\": \"lumbered Y-bar\", \"publishTime\": \"2012-11-05\", \"publishYear\": \"2012\", \"implementTime\": \"2013-02-15\", \"ics\": \"31.140\", \"ccs\": \"L 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219130, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y棒\", \"cnNameSearch\": \"Y棒\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lumbered Y-bar\", \"wordSearch\": \"lumbered Y-bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由原生长 </span><span style=\\\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;;\\\">Y</span><span style=\\\"color: rgb(0, 0, 0);\\\"> 棒加工成的石英棒。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3d4a8abb01674668bf64508cb2e04294\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1512\", \"cnName\": \"Y-C 信号\", \"enName\": \"Y-C signal\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148835, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y-C 信号\", \"cnNameSearch\": \"Y-C 信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y-C signal\", \"wordSearch\": \"Y-C signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于分量彩色电视系统中，由分离的亮度和色度信号组成的视频信号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"41ed5371956c424ea23c7852fd3d8948\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.46\", \"cnName\": \"Y-Y角关联\", \"enName\": \"Y- angular correlation\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146572, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Y-Y角关联\", \"cnNameSearch\": \"Y-Y角关联\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Y- angular correlation\", \"wordSearch\": \"Y- angular correlation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"某一原子核接连地放出两个光子的概率与这两个光子发射方向的夹角有关的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1794672434989}"
+}

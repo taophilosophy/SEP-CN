@@ -1,0 +1,19 @@
+{
+ "key": "wesley salmon",
+ "term": "Wesley Salmon",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:26:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "史氏鲟、达氏鲤、大麻（马）哈鱼",
+   "en": "amursturgeon、kalugasturgeon、chum salmon",
+   "code": "GB/T 19853—2008",
+   "standard": "地理标志产品  抚远鲟鱼子、鳇鱼子、大麻（马）哈鱼子",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 1}, \"sourceStats\": {\"食品技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"19b82e0ba3954f12adced815d6eff44b\", \"databaseId\": null, \"standardId\": \"0226a82951664efea27fef2855b2050f\", \"standardCode\": \"GB/T 19853—2008\", \"standardName\": \"地理标志产品  抚远鲟鱼子、鳇鱼子、大麻（马）哈鱼子\", \"standardEnName\": \"Product of geographical indication — Fuyuan ova of amur sturgeon , kaluga sturgeon, and chum salmon\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.1\", \"cnName\": \"史氏鲟、达氏鲤、大麻（马）哈鱼\", \"enName\": \"amursturgeon、kalugasturgeon、chum salmon\", \"publishTime\": \"2008-06-25\", \"publishYear\": \"2008\", \"implementTime\": \"2008-10-01\", \"ics\": \"67.120.30\", \"ccs\": \"X20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1529, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"史氏鲟、达氏鲤、大麻（马）哈鱼\", \"cnNameSearch\": \"史氏鲟、达氏鲤、大麻（马）哈鱼\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"amursturgeon、kalugasturgeon、chum salmon\", \"wordSearch\": \"amursturgeon、kalugasturgeon、chum salmon\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"史氏鲜（Acipenserschrencki），又名黑龙江鲟鱼，达氏鲤（Acipenserdabryanus），又名黑龙江蝗。属\\n冬，春季解冻时前往产卵场进行繁殖。现产卵地点主要集中在黑龙江的抚远江段。\\n大麻（马）哈鱼（Oncorhynchusketa），又名秋，体型长，侧扁，为溯河润游性鱼类，生活成长于北太\\n平洋（北纬35以北）中，进入我国水域的都是秋季溯河回归性成熟产卵亲体。产卵地主要集中在乌苏\\n里江抚远江段。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673571038}"
+}

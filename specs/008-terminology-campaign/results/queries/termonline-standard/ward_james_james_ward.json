@@ -1,0 +1,47 @@
+{
+ "key": "ward, james / james ward",
+ "term": "Ward, James",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:19:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "住院部",
+   "en": "ward",
+   "code": "GB/T 50504—2009",
+   "standard": "民用建筑设计术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "疑似病房",
+   "en": "disease inspection ward",
+   "code": "GB/T 50849—2014",
+   "standard": "传染病医院建筑设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "下行雷闪",
+   "en": "down ward flash",
+   "code": "GB/T 21714.1—2015",
+   "standard": "雷电防护 第1部分:总则",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "挡绳装置",
+   "en": "ward off rope device",
+   "code": "GB/T 7024—2008",
+   "standard": "电梯、自动扶梯、自动人行道术语",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "负压病房",
+   "en": "negative air pressure isolated ward",
+   "code": "GB/T 50849—2014",
+   "standard": "传染病医院建筑设计规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2015\": 1, \"2009\": 1, \"2008\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"环保、保健和安全\": 1, \"建筑材料和建筑物\": 1, \"其它\": 3}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"5c2da5d9c4c04e508774661007862618\", \"databaseId\": null, \"standardId\": \"915004b470d440b59d1297f28c12d9ea\", \"standardCode\": \"GB/T 50504—2009\", \"standardName\": \"民用建筑设计术语标准\", \"standardEnName\": \"Standard for terminology of civil architectural design\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.6.10\", \"cnName\": \"住院部\", \"enName\": \"ward\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153670, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"住院部\", \"cnNameSearch\": \"住院部\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ward\", \"wordSearch\": \"ward\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为病人提供住院观察、诊断与治疗的医疗部门。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c72a1be29f8443e99a18a020b8a8c84\", \"databaseId\": null, \"standardId\": \"3c2e99ed12a74239b088b4e810be9b0e\", \"standardCode\": \"GB/T 50849—2014\", \"standardName\": \"传染病医院建筑设计规范\", \"standardEnName\": \"Code for design of infectious diseases hospital\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.7\", \"cnName\": \"疑似病房\", \"enName\": \"disease inspection ward\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65426, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"疑似病房\", \"cnNameSearch\": \"疑似病房\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"disease inspection ward\", \"wordSearch\": \"disease inspection ward\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"收留具有一定病兆的病人，对其做进一步留观诊断的病房。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4b1b59f01b0c4e51b0115bc7ab1a4d44\", \"databaseId\": null, \"standardId\": \"3a21f6fdcd75421c83ccb58e1a99f01c\", \"standardCode\": \"GB/T 21714.1—2015\", \"standardName\": \"雷电防护 第1部分:总则\", \"standardEnName\": \"Protection against lightning-Part 1:General principles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.2\", \"cnName\": \"下行雷闪\", \"enName\": \"down ward flash\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-04-01\", \"ics\": \"13.260\", \"ccs\": \"K 09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62991, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"下行雷闪\", \"cnNameSearch\": \"下行雷闪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"down ward flash\", \"wordSearch\": \"down ward flash\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"始于云到地一个向下先导的雷闪。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>下行雷闪由一个首次短时间雷击构成，其后可能跟随几个后续短时间雷击。一个或多个短时间雷击之后，还可能跟随一个长时间雷击。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"48b409275b2544e29a6268e052ed5cb7\", \"databaseId\": null, \"standardId\": \"5a480ca76a2f4136bdf41623b1259a74\", \"standardCode\": \"GB/T 7024—2008\", \"standardName\": \"电梯、自动扶梯、自动人行道术语\", \"standardEnName\": \"Terminology of lifts，escalators，passenger conveyors\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"4.81\", \"cnName\": \"挡绳装置\", \"enName\": \"ward off rope device\", \"publishTime\": \"2008-12-06\", \"publishYear\": \"2008\", \"implementTime\": \"2009-06-01\", \"ics\": \"91.140.90\", \"ccs\": \"Q 78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 92021, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"挡绳装置\", \"cnNameSearch\": \"挡绳装置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ward off rope device\", \"wordSearch\": \"ward off rope device\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止曳引绳或补偿绳越出绳轮槽的防护部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4656250783e54446926f29d65c824532\", \"databaseId\": null, \"standardId\": \"3c2e99ed12a74239b088b4e810be9b0e\", \"standardCode\": \"GB/T 50849—2014\", \"standardName\": \"传染病医院建筑设计规范\", \"standardEnName\": \"Code for design of infectious diseases hospital\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"负压病房\", \"enName\": \"negative air pressure isolated ward\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65429, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"负压病房\", \"cnNameSearch\": \"负压病房\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"negative air pressure isolated ward\", \"wordSearch\": \"negative air pressure isolated ward\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用平面空间分隔并配置空气调节系统控制气流流向，保证室内空气静压低于周边区域空气静压，并采取有效卫生安全措施防止传染的病房。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673139235}"
+}

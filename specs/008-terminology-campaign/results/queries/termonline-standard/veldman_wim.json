@@ -1,0 +1,61 @@
+{
+ "key": "veldman, wim",
+ "term": "Veldman, Wim",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:08:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=7",
+ "hits": [
+  {
+   "cn": "动态公路车辆自动衡器系统",
+   "en": "WIM system",
+   "code": "GB/T 21296.1—2020",
+   "standard": "动态公路车辆自动衡器 第1部分:通用技术规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "石英晶体式动态公路车辆自动衡器",
+   "en": "crystal quartz WIM",
+   "code": "GB/T 21296.5—2020",
+   "standard": "动态公路车辆自动衡器 第5部分:石英晶体式",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "整车式动态公路车辆自动衡器",
+   "en": "full-draught WIM",
+   "code": "GB/T 21296.1—2020",
+   "standard": "动态公路车辆自动衡器 第1部分:通用技术规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "石英晶体式动态公路车辆自动衡器",
+   "en": "crystal quartz WIM",
+   "code": "GB/T 21296.1—2020",
+   "standard": "动态公路车辆自动衡器 第1部分:通用技术规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "弯板式动态公路车辆自动衡器",
+   "en": "bending plate WIM",
+   "code": "GB/T 21296.1—2020",
+   "standard": "动态公路车辆自动衡器 第1部分:通用技术规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "轴重式动态公路车辆自动衡器",
+   "en": "axle load weigher WIM",
+   "code": "GB/T 21296.1—2020",
+   "standard": "动态公路车辆自动衡器 第1部分:通用技术规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "轴重式动态公路车辆自动衡器",
+   "en": "axle load weigher WIM",
+   "code": "GB/T 21296.3—2020",
+   "standard": "动态公路车辆自动衡器 第3部分:轴重式",
+   "subject": "计量学和测量、物理现象"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 7}, \"sourceStats\": {\"计量学和测量、物理现象\": 7}, \"typeStats\": {\"7\": 7}, \"totalRecords\": 7, \"tmWordList\": [{\"id\": \"99e25383309e456da26186198d4969bd\", \"databaseId\": null, \"standardId\": \"5ff0c88886bd4262a2617d7a0dbd5b61\", \"standardCode\": \"GB/T 21296.1—2020\", \"standardName\": \"动态公路车辆自动衡器 第1部分:通用技术规范\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 1:General technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7.8\", \"cnName\": \"动态公路车辆自动衡器系统\", \"enName\": \"WIM system\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"动态公路车辆自动衡器系统\", \"cnNameSearch\": \"动态公路车辆自动衡器系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"WIM system\", \"wordSearch\": \"WIM system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由至少一套动态公路车辆自动衡器和相关设备组成的测量系统。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>动态公路车辆自动衡器系统一般具有以下功能:##——识别一辆车的出现并测量其在某一时刻通过特定地点的动态车轮力;##——测量车轮载荷(适用时)、轴载荷、轴组载荷(适用时)、整车重量;##——计算车速、轴间距(适用时)、总跨距(适用时)、车型(参见附录A的表A.1);##——其他与车辆有关的参数;</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8bbd28ebb1834367a18a56a97bef70d6\", \"databaseId\": null, \"standardId\": \"235657e84b684e2dbf743d9ac2695ead\", \"standardCode\": \"GB/T 21296.5—2020\", \"standardName\": \"动态公路车辆自动衡器 第5部分:石英晶体式\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 5:Crystal quartz type\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"石英晶体式动态公路车辆自动衡器\", \"enName\": \"crystal quartz WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33838, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"石英晶体式动态公路车辆自动衡器\", \"cnNameSearch\": \"石英晶体式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"crystal quartz WIM\", \"wordSearch\": \"crystal quartz WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用嵌装于路面,上表面与路面保持在同一平面的石英晶体传感器及其组合来测量通过车辆动态车轮力,进而获得车辆总重、轴载荷、轴组载荷(如果适用)的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>石英晶体式动态公路车辆自动衡器一般由石英晶体传感器、电荷放大器、称重仪表(动态称重数据采集器)等组成。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T 21296.1—2020\", \"sourceCode\": \"3.7.7\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4101f00059004462b77e332844da65c3\", \"databaseId\": null, \"standardId\": \"5ff0c88886bd4262a2617d7a0dbd5b61\", \"standardCode\": \"GB/T 21296.1—2020\", \"standardName\": \"动态公路车辆自动衡器 第1部分:通用技术规范\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 1:General technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7.1\", \"cnName\": \"整车式动态公路车辆自动衡器\", \"enName\": \"full-draught WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95817, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"整车式动态公路车辆自动衡器\", \"cnNameSearch\": \"整车式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"full-draught WIM\", \"wordSearch\": \"full-draught WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用整车称量的方式获得车辆总重量的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4a33cd5645dd43a4b59b16e1b37ccbdf\", \"databaseId\": null, \"standardId\": \"5ff0c88886bd4262a2617d7a0dbd5b61\", \"standardCode\": \"GB/T 21296.1—2020\", \"standardName\": \"动态公路车辆自动衡器 第1部分:通用技术规范\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 1:General technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7.7\", \"cnName\": \"石英晶体式动态公路车辆自动衡器\", \"enName\": \"crystal quartz WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"石英晶体式动态公路车辆自动衡器\", \"cnNameSearch\": \"石英晶体式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"crystal quartz WIM\", \"wordSearch\": \"crystal quartz WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用嵌装于路面中,上表面与路面保持在同一平面的石英晶体传感器及其组合来测量通过车辆动态车轮力,进而获得车辆总重、轴载荷、轴组载荷(如果适用)的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>石英晶体式动态公路车辆自动衡器一般由石英晶体传感器、电荷放大器、称重仪表(动态称重数据采集器)等组成。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a3e86d4953ce40c085fc6bd1c114d94a\", \"databaseId\": null, \"standardId\": \"5ff0c88886bd4262a2617d7a0dbd5b61\", \"standardCode\": \"GB/T 21296.1—2020\", \"standardName\": \"动态公路车辆自动衡器 第1部分:通用技术规范\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 1:General technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7.5\", \"cnName\": \"弯板式动态公路车辆自动衡器\", \"enName\": \"bending plate WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弯板式动态公路车辆自动衡器\", \"cnNameSearch\": \"弯板式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bending plate WIM\", \"wordSearch\": \"bending plate WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用嵌装于路面中，上表面与路面在同一平面的弯板传感器及其组合测量通过车辆动态车轮力，进而获得车辆总重、轴载荷、轴组载荷(如果适用)的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"085f2fd60ead46c1876d735081dbef1a\", \"databaseId\": null, \"standardId\": \"5ff0c88886bd4262a2617d7a0dbd5b61\", \"standardCode\": \"GB/T 21296.1—2020\", \"standardName\": \"动态公路车辆自动衡器 第1部分:通用技术规范\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 1:General technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7.3\", \"cnName\": \"轴重式动态公路车辆自动衡器\", \"enName\": \"axle load weigher WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95814, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轴重式动态公路车辆自动衡器\", \"cnNameSearch\": \"轴重式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"axle load weigher WIM\", \"wordSearch\": \"axle load weigher WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用嵌装于路面中，承载器上表面与路面在同一平面的轴重秤及其组合测量车辆轴载荷、轴组载荷（如果适用），进而获得车辆总重量的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0fa452a4f9e14a109cc252994115a999\", \"databaseId\": null, \"standardId\": \"c191dbd4f9a94f7785c2e63c96cf28a0\", \"standardCode\": \"GB/T 21296.3—2020\", \"standardName\": \"动态公路车辆自动衡器 第3部分:轴重式\", \"standardEnName\": \"Automatic instruments for weighing road vehicles in motion-Part 3: Weighing axle loads\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.2\", \"cnName\": \"轴重式动态公路车辆自动衡器\", \"enName\": \"axle load weigher WIM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"17.100\", \"ccs\": \"N 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194464, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轴重式动态公路车辆自动衡器\", \"cnNameSearch\": \"轴重式动态公路车辆自动衡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"axle load weigher WIM\", \"wordSearch\": \"axle load weigher WIM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用嵌装于路面中,承载器上表面与路面在同一平面的轴重秤及其组合测量车辆轴载荷、轴组载荷(如果适用),进而获得车辆总重量的动态公路车辆自动衡器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 21296.1—2020\", \"sourceCode\": \"3.7.3\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672522973}"
+}

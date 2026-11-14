@@ -1,0 +1,33 @@
+{
+ "key": "turing, alan",
+ "term": "Turing, Alan",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:59:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "图灵完备",
+   "en": "turing complete",
+   "code": "GB/T 43579—2023",
+   "standard": "区块链和分布式记账技术   智能合约生命周期管理技术规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "空翻工艺",
+   "en": "cutting process with turing manipulator travles overhead",
+   "code": "GB 50990—2014",
+   "standard": "加气混凝土工厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "地翻工艺",
+   "en": "cutting process with turing manipulator fixed on the ground",
+   "code": "GB 50990—2014",
+   "standard": "加气混凝土工厂设计规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"其它\": 2, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"40090aee460c4b99ad18b15d9523cbf8\", \"databaseId\": null, \"standardId\": \"7f4ff4e3b0214eb7a26cc5ba01084699\", \"standardCode\": \"GB/T 43579—2023\", \"standardName\": \"区块链和分布式记账技术   智能合约生命周期管理技术规范\", \"standardEnName\": \"Blockchain and distributed ledger technology—Technical specification of smart contract lifecycle management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.6\", \"cnName\": \"图灵完备\", \"enName\": \"turing complete\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"35.240\", \"ccs\": \"L70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134917, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"图灵完备\", \"cnNameSearch\": \"图灵完备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"turing complete\", \"wordSearch\": \"turing complete\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在可计算性理论中，一系列操作数据的规则（如指令集、编程语言、细胞自动机）按照一定的顺序计算并解决所有可计算的问题。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"22d52f30ddf54fa196189ffce3b4fbc5\", \"databaseId\": null, \"standardId\": \"2fde19b36a0a48228ed31796d6875589\", \"standardCode\": \"GB 50990—2014\", \"standardName\": \"加气混凝土工厂设计规范\", \"standardEnName\": \"Code for design of autoclaved aerated concrete plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"空翻工艺\", \"enName\": \"cutting process with turing manipulator travles overhead\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50929, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空翻工艺\", \"cnNameSearch\": \"空翻工艺\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cutting process with turing manipulator travles overhead\", \"wordSearch\": \"cutting process with turing manipulator travles overhead\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用翻转吊具将坯体连同模具在空中翻转90°，由底板托着坯体落在切割机的切割小车上，再进行脱模、切割等后续工序的生产工艺。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"41ca6e7122984dcb911f87dd7b1a550a\", \"databaseId\": null, \"standardId\": \"2fde19b36a0a48228ed31796d6875589\", \"standardCode\": \"GB 50990—2014\", \"standardName\": \"加气混凝土工厂设计规范\", \"standardEnName\": \"Code for design of autoclaved aerated concrete plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"地翻工艺\", \"enName\": \"cutting process with turing manipulator fixed on the ground\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50936, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地翻工艺\", \"cnNameSearch\": \"地翻工艺\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cutting process with turing manipulator fixed on the ground\", \"wordSearch\": \"cutting process with turing manipulator fixed on the ground\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"切割机地翻台将载有脱模后的坯体在地面进行90°翻转，坯体完成切割后回翻90，再进行后续工序的生产工艺。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671954981}"
+}

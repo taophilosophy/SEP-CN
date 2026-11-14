@@ -1,0 +1,47 @@
+{
+ "key": "turner, dale",
+ "term": "Turner, Dale",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:59:26+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "谷区",
+   "en": "dale",
+   "code": "GB/T 33523.2—2017",
+   "standard": "产品几何技术规范（GPS） 表面结构区域法 第2部分：术语、定义及表面结构参数 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "山谷",
+   "en": "dale",
+   "code": "GB/T 29633.1—2013",
+   "standard": "南极地名 第1部分:通名",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "带卷翻转台",
+   "en": "coil tilter",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "托渣板",
+   "en": "trash plate",
+   "code": "GB/T 9289—2010",
+   "standard": "制糖工业术语",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "翻钢机",
+   "en": "tilter",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 1, \"2016\": 2, \"2013\": 1, \"2010\": 1}, \"sourceStats\": {\"食品技术\": 1, \"计量学和测量、物理现象\": 1, \"数学、自然科学\": 1, \"冶金\": 2}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"228318bea241489cb1ba3c2fd52417aa\", \"databaseId\": null, \"standardId\": \"acc7a3ac98e149f398ceba85b4cf9b9b\", \"standardCode\": \"GB/T 33523.2—2017\", \"standardName\": \"产品几何技术规范（GPS） 表面结构区域法 第2部分：术语、定义及表面结构参数 \", \"standardEnName\": \"Geometrical product specifications (GPs) —Surface texture : Areal— Part 2: Terms, definitions and surface texture parameters \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.3.2.1\", \"cnName\": \"谷区\", \"enName\": \"dale\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"ICS 17.040.20\", \"ccs\": \"J 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179407, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谷区\", \"cnNameSearch\": \"谷区\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dale\", \"wordSearch\": \"dale\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"谷周围的区域，其所有向下路径止于谷。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一个区域图形是一个谷区，参见GB/T 18618。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6398b10cb48844ef9b21e071fec900d0\", \"databaseId\": null, \"standardId\": \"84868e1ba64f40569c303c2c8260aa89\", \"standardCode\": \"GB/T 29633.1—2013\", \"standardName\": \"南极地名 第1部分:通名\", \"standardEnName\": \"Antarctic geographical names—Part 1: Generic terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.184\", \"cnName\": \"山谷\", \"enName\": \"dale\", \"publishTime\": \"2013-07-19\", \"publishYear\": \"2013\", \"implementTime\": \"2013-11-01\", \"ics\": \"07.040\", \"ccs\": \"A44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140616, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"山谷\", \"cnNameSearch\": \"山谷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dale\", \"wordSearch\": \"dale\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"山地中呈线状延伸、分布在山岭或山脉之间的槽形凹地。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>它是在一定的地质基础上经各种外力，如流水侵蚀、冰川侵蚀作用形成的。从构造角度来划分有断层谷、向斜谷、背斜谷等；从外动力角度来划分有河谷、冰川谷等。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"faae1e81e6c944d6bb2d640f19f0c1d5\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"9.8.7\", \"cnName\": \"带卷翻转台\", \"enName\": \"coil tilter\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51650, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"带卷翻转台\", \"cnNameSearch\": \"带卷翻转台\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coil tilter\", \"wordSearch\": \"coil tilter\"}, {\"languageType\": 1, \"word\": \"coil turner\", \"wordSearch\": \"coil turner\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将带卷翻转 90<sup>∘</sup> 的设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a478ad9192a244859efc31175cd765f3\", \"databaseId\": null, \"standardId\": \"c9ea8743fe674c8887086a50f50b2b5b\", \"standardCode\": \"GB/T 9289—2010\", \"standardName\": \"制糖工业术语\", \"standardEnName\": \"Terminology in sugar industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.3.3.8\", \"cnName\": \"托渣板\", \"enName\": \"trash plate\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"67.180.106\", \"ccs\": \"X30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 203351, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"托渣板\", \"cnNameSearch\": \"托渣板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"trash plate\", \"wordSearch\": \"trash plate\"}, {\"languageType\": 1, \"word\": \"turn plate\", \"wordSearch\": \"turn plate\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"底梳\", \"cnNameSearch\": \"底梳\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"trash turner\", \"wordSearch\": \"trash turner\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"位于多辊压榨机的下方,使蔗料从前辊过渡到后辊的装置。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"135ca7edf067402281dba55dc5dd6204\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"9.8\", \"cnName\": \"翻钢机\", \"enName\": \"tilter\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52049, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翻钢机\", \"cnNameSearch\": \"翻钢机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tilter\", \"wordSearch\": \"tilter\"}, {\"languageType\": 1, \"word\": \"tipper\", \"wordSearch\": \"tipper\"}, {\"languageType\": 1, \"word\": \"turning machine\", \"wordSearch\": \"turning machine\"}, {\"languageType\": 1, \"word\": \"turner\", \"wordSearch\": \"turner\"}, {\"languageType\": 1, \"word\": \"manipulator\", \"wordSearch\": \"manipulator\"}, {\"languageType\": 1, \"word\": \"reverser\", \"wordSearch\": \"reverser\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"翻转轧件的设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671962966}"
+}

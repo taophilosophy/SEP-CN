@@ -1,0 +1,26 @@
+{
+ "key": "von plato, jan",
+ "term": "von Plato, Jan",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:13:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "柏拉图度",
+   "en": "plato",
+   "code": "GB/T 4927—2008",
+   "standard": "啤酒",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "冯卡门锥段",
+   "en": "Von Karman's cone section",
+   "code": "GB/T 32455—2015",
+   "standard": "运载火箭术语",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2015\": 1, \"2008\": 1}, \"sourceStats\": {\"食品技术\": 1, \"航空器和航天器工程\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"40f5f475349044d8846c6be5363d12ee\", \"databaseId\": null, \"standardId\": \"705aacd2ca7746758a96abec6e93217e\", \"standardCode\": \"GB/T 4927—2008\", \"standardName\": \"啤酒\", \"standardEnName\": \"Beer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.6\", \"cnName\": \"柏拉图度\", \"enName\": \"plato\", \"publishTime\": \"2008-12-29\", \"publishYear\": \"2008\", \"implementTime\": \"2009-10-01\", \"ics\": \"67.160.10\", \"ccs\": \"X 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 113564, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"柏拉图度\", \"cnNameSearch\": \"柏拉图度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plato\", \"wordSearch\": \"plato\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原麦汁浓度的一种国际通用表示单位，符号为°P，即表示100g麦芽汁中含有浸出物的克数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"21413ddc9b8940558e863a4156a4dc40\", \"databaseId\": null, \"standardId\": \"7709ae732ead402d9ce4732f6a0c5961\", \"standardCode\": \"GB/T 32455—2015\", \"standardName\": \"运载火箭术语\", \"standardEnName\": \"Terminology of launch vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"12.15\", \"cnName\": \"冯卡门锥段\", \"enName\": \"Von Karman's cone section\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 122539, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"冯卡门锥段\", \"cnNameSearch\": \"冯卡门锥段\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Von Karman's cone section\", \"wordSearch\": \"Von Karman's cone section\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"母线符合冯卡门曲线方程的结构注:一般用于火箭飞行迎风面的结构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672778978}"
+}

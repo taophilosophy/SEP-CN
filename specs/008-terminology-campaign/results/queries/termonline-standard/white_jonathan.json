@@ -1,0 +1,152 @@
+{
+ "key": "white, jonathan",
+ "term": "White, Jonathan",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:28:30+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=169",
+ "hits": [
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 3181—2008",
+   "standard": "漆膜颜色标准",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 9999—1997",
+   "standard": "纺织 纺织材料性能和试验术语 第1部分: 纤维和纱线",
+   "subject": "其它"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 3291.3—1997",
+   "standard": "纺织 纺织材料性能和试验术语 第3部分：通用",
+   "subject": null
+  },
+  {
+   "cn": "锑白",
+   "en": "antimony white",
+   "code": "GB 51445—2021",
+   "standard": "锑冶炼厂工艺设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "白内脏",
+   "en": "white offals",
+   "code": "GB 51225—2017",
+   "standard": "牛羊屠宰与分割车间设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "白液",
+   "en": "white liquor",
+   "code": "GB 51139—2015",
+   "standard": "纤维素纤维用浆粕工厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "白水",
+   "en": "white water",
+   "code": "GB 51139—2015",
+   "standard": "纤维素纤维用浆粕工厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "白区（一区）",
+   "en": "white zone",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "白图",
+   "en": "white drawing",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "白液",
+   "en": "white liquor",
+   "code": "GB 51092—2015",
+   "standard": "制浆造纸厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "白水",
+   "en": "white water",
+   "code": "GB 51092—2015",
+   "standard": "制浆造纸厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "白噪声",
+   "en": "white noise",
+   "code": "GB/T 43969—2024",
+   "standard": "智能语音控制器通用安全技术要求",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "拉线",
+   "en": "white line",
+   "code": "GB/T 9195—2023",
+   "standard": "建筑卫生陶瓷术语和分类",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "白噪声",
+   "en": "white noise",
+   "code": "GB/T 4854.3—2022",
+   "standard": "声学 校准测听设备的基准零级 第3部分:骨振器纯音基准等效阈振动力级",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "可变白色",
+   "en": "variable white",
+   "code": "GB/T 7256.1—2022",
+   "standard": "民用机场助航灯具 第1部分：一般要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "白噪声",
+   "en": "white noise",
+   "code": "GB/T 41318—2022",
+   "standard": "通风消声器",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "白锈",
+   "en": "white rust",
+   "code": "GB/T 41950—2022",
+   "standard": "金属覆盖层 钢铁上经过无六价铬处理的 锌和锌合金电镀层 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "白盒测试",
+   "en": "white-boxtest",
+   "code": "GB/T 6960.8—2021",
+   "standard": "拖拉机术语第8部分:电子控制系统",
+   "subject": "农业"
+  },
+  {
+   "cn": "白羽肉鸡",
+   "en": "white broiler",
+   "code": "GB/T 5916—2020",
+   "standard": "产蛋鸡和肉鸡配合饲料",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 7, \"2023\": 11, \"2022\": 10, \"2021\": 1, \"2020\": 12, \"2019\": 7, \"2018\": 8, \"2017\": 15, \"2016\": 5, \"2015\": 13, \"2014\": 5, \"2013\": 2, \"2011\": 29, \"2010\": 6, \"2009\": 1, \"2008\": 16, \"2007\": 3, \"2006\": 2, \"2001\": 2, \"1997\": 2, \"暂无年份\": 12}, \"sourceStats\": {\"食品技术\": 30, \"采矿和矿产品\": 1, \"道路车辆工程\": 2, \"造纸技术\": 1, \"货物的包装和调运\": 1, \"计量学和测量、物理现象\": 6, \"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 14, \"纺织和皮革技术\": 7, \"石油及相关技术\": 8, \"电气工程\": 8, \"电信、音频和视频工程\": 4, \"玻璃和陶瓷工业\": 12, \"环保、保健和安全\": 2, \"涂料和颜料工业\": 4, \"橡胶和塑料工业\": 2, \"机械制造\": 8, \"木材技术\": 1, \"成像技术\": 2, \"建筑材料和建筑物\": 6, \"家用和商用设备、文娱、体育\": 4, \"化工技术\": 5, \"冶金\": 11, \"农业\": 8, \"其它\": 15, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 169}, \"totalRecords\": 169, \"tmWordList\": [{\"id\": \"a79c1711568c4d958ee7fef75faa5c21\", \"databaseId\": null, \"standardId\": \"00d4c578af4742babf1a8a068af0777c\", \"standardCode\": \"GB/T 3181—2008\", \"standardName\": \"漆膜颜色标准\", \"standardEnName\": \"Colour standard for paint film\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"3.4\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"2008-06-04\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"87.010\", \"ccs\": \"G 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 528, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于 8.5 的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c43152ca556344cfb16e98b815f3edff\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"4.3\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70714, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T   15608—1995\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"34e28f08116c4abf96e276f017ffd448\", \"databaseId\": null, \"standardId\": \"14f20443c2d4442b975c4c3e90e3d32e\", \"standardCode\": \"GB/T 9999—1997\", \"standardName\": \"纺织 纺织材料性能和试验术语 第1部分: 纤维和纱线\", \"standardEnName\": \"Textiles—Terms of textiles material properties and test—Part 1: Fibre and yarn\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.69\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"1997-10-09\", \"publishYear\": \"1997\", \"implementTime\": \"1998-05-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19983, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"26f23998dc96429a9a72f23898e1e0dc\", \"databaseId\": null, \"standardId\": \"765419bbf3ce4fbd93fb136a3183f1ad\", \"standardCode\": \"GB/T 3291.3—1997\", \"standardName\": \"纺织 纺织材料性能和试验术语 第3部分：通用\", \"standardEnName\": \"Textiles—Terms of textiles material properties and test—Part 3: General\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"2.69\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"1997-10-09\", \"publishYear\": \"1997\", \"implementTime\": \"1998-05-01\", \"ics\": \"59\", \"ccs\": \"W04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 119791, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b6ac74adeb594bd08da8ad5a212b8aae\", \"databaseId\": null, \"standardId\": \"16454a4bd13248ed969e205099c75311\", \"standardCode\": \"GB 51445—2021\", \"standardName\": \"锑冶炼厂工艺设计标准\", \"standardEnName\": \"Standard for process design of antimony smelter\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.8\", \"cnName\": \"锑白\", \"enName\": \"antimony white\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21585, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"锑白\", \"cnNameSearch\": \"锑白\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"antimony white\", \"wordSearch\": \"antimony white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"锑冶炼的产品之一，又称三氧化二锑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb5c667c9bf94ca18eb739a6083b7638\", \"databaseId\": null, \"standardId\": \"2e854c4682ed4394b2b2b8c02d87f2d0\", \"standardCode\": \"GB 51225—2017\", \"standardName\": \"牛羊屠宰与分割车间设计规范\", \"standardEnName\": \"Code for design of cattle and sheep slaughtering and cutting rooms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"白内脏\", \"enName\": \"white offals\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49895, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白内脏\", \"cnNameSearch\": \"白内脏\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white offals\", \"wordSearch\": \"white offals\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"肉畜的肠、胃。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fa8660b28ae4839aa0fdd0409c66ea9\", \"databaseId\": null, \"standardId\": \"576a105290f14abeb55f43bb5efe276f\", \"standardCode\": \"GB 51139—2015\", \"standardName\": \"纤维素纤维用浆粕工厂设计规范\", \"standardEnName\": \"Code for design of pulp plant for cellulose fibre\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.33\", \"cnName\": \"白液\", \"enName\": \"white liquor\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 89944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白液\", \"cnNameSearch\": \"白液\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white liquor\", \"wordSearch\": \"white liquor\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"绿液(或碳酸钠溶液)经Ca(OH)<sub>2</sub>苛化所得澄清的溶液,经配制后用做蒸煮液。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0f3d06235be464f9bc6b52e768ab4f4\", \"databaseId\": null, \"standardId\": \"576a105290f14abeb55f43bb5efe276f\", \"standardCode\": \"GB 51139—2015\", \"standardName\": \"纤维素纤维用浆粕工厂设计规范\", \"standardEnName\": \"Code for design of pulp plant for cellulose fibre\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.27\", \"cnName\": \"白水\", \"enName\": \"white water\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 89952, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白水\", \"cnNameSearch\": \"白水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white water\", \"wordSearch\": \"white water\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"抄浆工艺过程产生的含有少量纤维的生产水。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"672ee1c7dbd34984b2366e66f2ace1e8\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.4.4\", \"cnName\": \"白区（一区）\", \"enName\": \"white zone\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123564, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白区（一区）\", \"cnNameSearch\": \"白区（一区）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white zone\", \"wordSearch\": \"white zone\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"实验室内不从事放射性工作的区域,一般情况下,该区无放射性污染。包括办公室、会议室、休息室、“冷”工作间、“冷”实验室等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"07c20dea9d24424ead74b6655e918654\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.4.9\", \"cnName\": \"白图\", \"enName\": \"white drawing\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 176897, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白图\", \"cnNameSearch\": \"白图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white drawing\", \"wordSearch\": \"white drawing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"图样直接打印在白纸上的图。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a8d80e30c1d74ae8b6f7e9d7b50b77c3\", \"databaseId\": null, \"standardId\": \"e9941477bd164e39ae24271ead10e812\", \"standardCode\": \"GB 51092—2015\", \"standardName\": \"制浆造纸厂设计规范\", \"standardEnName\": \"Code for design of pulp and papermaking plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.20\", \"cnName\": \"白液\", \"enName\": \"white liquor\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229326, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白液\", \"cnNameSearch\": \"白液\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white liquor\", \"wordSearch\": \"white liquor\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"苛化反应后生成的溶液。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5a020472e7154480a2dddefd011f7422\", \"databaseId\": null, \"standardId\": \"e9941477bd164e39ae24271ead10e812\", \"standardCode\": \"GB 51092—2015\", \"standardName\": \"制浆造纸厂设计规范\", \"standardEnName\": \"Code for design of pulp and papermaking plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.26\", \"cnName\": \"白水\", \"enName\": \"white water\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229333, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白水\", \"cnNameSearch\": \"白水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white water\", \"wordSearch\": \"white water\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"产生于制浆造纸生产过程、含有少量纤维的生产过程用水。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"499eb108016d499b86db4817fa1d85ac\", \"databaseId\": null, \"standardId\": \"9e4d065010e9411a8c1a13db69db1042\", \"standardCode\": \"GB/T 43969—2024\", \"standardName\": \"智能语音控制器通用安全技术要求\", \"standardEnName\": \"General safety technical requirements for intelligent speech control\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.1.8\", \"cnName\": \"白噪声\", \"enName\": \"white noise\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"97.120\", \"ccs\": \"K32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 163848, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白噪声\", \"cnNameSearch\": \"白噪声\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white noise\", \"wordSearch\": \"white noise\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用固定频带宽度测量时，频谱连续并且均匀的噪声。白噪声的功率谱密度不随频率改变。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>白噪声不一定是无规噪声。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T 3947—1996\", \"sourceCode\": \"2.13\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5e1981bb12e2423db3eba053e3b3fad7\", \"databaseId\": null, \"standardId\": \"835cdc41280a46dcaacb77fdff3cff28\", \"standardCode\": \"GB/T 9195—2023\", \"standardName\": \"建筑卫生陶瓷术语和分类\", \"standardEnName\": \"Terms and classification of building and sanitary ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"6.21\", \"cnName\": \"拉线\", \"enName\": \"white line\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"91.100.0191\", \"ccs\": \"Q31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138222, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"拉线\", \"cnNameSearch\": \"拉线\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white line\", \"wordSearch\": \"white line\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"砖面完整图案上细直线状的缺墨或叠墨痕迹。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce7106125f8e4ab0b062b833bf99c383\", \"databaseId\": null, \"standardId\": \"0bb88300d5dd4ee3bc1103b7be94a8d1\", \"standardCode\": \"GB/T 4854.3—2022\", \"standardName\": \"声学 校准测听设备的基准零级 第3部分:骨振器纯音基准等效阈振动力级\", \"standardEnName\": \"Acoustics-Reference zero for the calibration of audiometric equipment-Part 3 : Reference equivalent threshold vibratory force levels for pure tones and bone vibrators\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.14\", \"cnName\": \"白噪声\", \"enName\": \"white noise\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"17.14017\", \"ccs\": \"A59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10348, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白噪声\", \"cnNameSearch\": \"白噪声\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white noise\", \"wordSearch\": \"white noise\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"功率谱密度基本上与频率无关的噪声。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5354c51af1ee4cbdb7ef0db6d4ed248b\", \"databaseId\": null, \"standardId\": \"573f4eee34764cab91ab709a3fbdf0ea\", \"standardCode\": \"GB/T 7256.1—2022\", \"standardName\": \"民用机场助航灯具 第1部分：一般要求\", \"standardEnName\": \"Lighting fixtures for civil airport—Part 1: General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.8\", \"cnName\": \"可变白色\", \"enName\": \"variable white\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"29.140.01\", \"ccs\": \"K 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 89910, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可变白色\", \"cnNameSearch\": \"可变白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable white\", \"wordSearch\": \"variable white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适用于需要改变光强的灯具的光色。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7358155d2fe44b1784f1988f0b558b0d\", \"databaseId\": null, \"standardId\": \"6ba18732301642ecbcf83a7183b339ae\", \"standardCode\": \"GB/T 41318—2022\", \"standardName\": \"通风消声器\", \"standardEnName\": \"Ventilation silencer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.9\", \"cnName\": \"白噪声\", \"enName\": \"white noise\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"91.140.30 \", \"ccs\": \"P 48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 107951, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白噪声\", \"cnNameSearch\": \"白噪声\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white noise\", \"wordSearch\": \"white noise\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用固定带宽度测量时，谱连续并且均匀的噪声。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"872ed3e49dc040e2b3b0d43edee1c046\", \"databaseId\": null, \"standardId\": \"a839bb8106e8454ab6a752265eca8bfe\", \"standardCode\": \"GB/T 41950—2022\", \"standardName\": \"金属覆盖层 钢铁上经过无六价铬处理的 锌和锌合金电镀层 \", \"standardEnName\": \"Metallic coatings—Electroplated coatings of zinc and zinc alloys on iron or steel with supplementary Cr( Ⅵ)—free treatment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1\", \"cnName\": \"白锈\", \"enName\": \"white rust\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 25.220.40\", \"ccs\": \"CCS A 29\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171774, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白锈\", \"cnNameSearch\": \"白锈\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white rust\", \"wordSearch\": \"white rust\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在腐蚀介质作用下，镀层表面的钝化层＋封闭层或表面涂膜层被破坏，镀层出现腐蚀生成的粉状白色腐蚀产物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00994297ae3b43df8d7121c71f8812f6\", \"databaseId\": null, \"standardId\": \"04e854fd55964a7cb728462e2a7c04c5\", \"standardCode\": \"GB/T 6960.8—2021\", \"standardName\": \"拖拉机术语第8部分:电子控制系统\", \"standardEnName\": \"Tractor terminology-Part 8:Electronic control system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.2.2.7\", \"cnName\": \"白盒测试\", \"enName\": \"white-boxtest\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.060.1065\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3562, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白盒测试\", \"cnNameSearch\": \"白盒测试\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white-boxtest\", \"wordSearch\": \"white-boxtest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按照程序内部的结构进行测试的一类测试方法的总称。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"白盒测试类型包括分支测试、路径测试和语句测试。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8e8d7bf5c0ef4871a951329e4610948d\", \"databaseId\": null, \"standardId\": \"34f2588db7074daeaa2dc97e94d33a94\", \"standardCode\": \"GB/T 5916—2020\", \"standardName\": \"产蛋鸡和肉鸡配合饲料\", \"standardEnName\": \"Formula feeds for layers and broilers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.7\", \"cnName\": \"白羽肉鸡\", \"enName\": \"white broiler\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"65.120\", \"ccs\": \"B 46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56954, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白羽肉鸡\", \"cnNameSearch\": \"白羽肉鸡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white broiler\", \"wordSearch\": \"white broiler\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"快大型肉鸡\", \"cnNameSearch\": \"快大型肉鸡\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"fast-growing-type meat chickens\", \"wordSearch\": \"fast-growing-type meat chickens\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"白色羽毛，生长速度快，一般在39d～42d体重可长到3.0kg左右的肉用型鸡。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>其父系主要来源于科什尼，母系主要来源于白洛克。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 9}}, \"timestamp\": 1794673707012}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "weir, alan",
+ "term": "Weir, Alan",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:24:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=32",
+ "hits": [
+  {
+   "cn": "测流堰",
+   "en": "weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "围堰",
+   "en": "weir",
+   "code": "GB/T 51325—2018",
+   "standard": "煤焦化粗苯加工工程设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "挡水堰",
+   "en": "weir",
+   "code": "GB/T 9195—2023",
+   "standard": "建筑卫生陶瓷术语和分类",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "堰板",
+   "en": "weir",
+   "code": "GB/T 41515—2022",
+   "standard": "涂布机术语",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "收缩堰",
+   "en": "contracted weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "堰体",
+   "en": "weir body",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "复合堰",
+   "en": "combination weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "堰流",
+   "en": "weir flow",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "堰负荷",
+   "en": "weir loading",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "堰门",
+   "en": "weir gate",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "渔堰",
+   "en": "fish weir",
+   "code": "GB/T 39619—2020",
+   "standard": "海道测量基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "薄壁堰",
+   "en": "thin-plate weir",
+   "code": "GB/T 21303—2017",
+   "standard": "灌溉渠道系统量水规范",
+   "subject": "土木工程"
+  },
+  {
+   "cn": "实用堰",
+   "en": "short-crested weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "平坦 V 形堰",
+   "en": "flat-V weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "薄壁堰",
+   "en": "thin-plate weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "矩形堰",
+   "en": "rectangular notch weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "全宽堰",
+   "en": "full-width weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "梯形堰",
+   "en": "trapezoidal notch weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "三角形剖面堰",
+   "en": "triangular-profile weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "堰高",
+   "en": "height of weir",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2022\": 1, \"2021\": 1, \"2020\": 1, \"2017\": 4, \"2013\": 2, \"暂无年份\": 22}, \"sourceStats\": {\"采矿和矿产品\": 2, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 1, \"成像技术\": 1, \"建筑材料和建筑物\": 1, \"土木工程\": 3, \"其它\": 23}, \"typeStats\": {\"7\": 32}, \"totalRecords\": 32, \"tmWordList\": [{\"id\": \"83381a57c71a43e8ad0bf52ebe9ab485\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.11\", \"cnName\": \"测流堰\", \"enName\": \"weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41522, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测流堰\", \"cnNameSearch\": \"测流堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir\", \"wordSearch\": \"weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用以测定河渠流量的溢流建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"20696669725144778a4d55051c94484a\", \"databaseId\": null, \"standardId\": \"98f4896558c14b14825dfa7a4ed7c563\", \"standardCode\": \"GB/T 51325—2018\", \"standardName\": \"煤焦化粗苯加工工程设计标准\", \"standardEnName\": \"Standard for design of crude benzol refining engineering in coking industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5 \", \"cnName\": \"围堰\", \"enName\": \"weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159731, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"围堰\", \"cnNameSearch\": \"围堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir\", \"wordSearch\": \"weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设置在设备或地坑周围,防止设备发生泄漏时液体外流或地坪水流入地坑的构筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"946eb9aca55141e69e75e7859e3a02de\", \"databaseId\": null, \"standardId\": \"835cdc41280a46dcaacb77fdff3cff28\", \"standardCode\": \"GB/T 9195—2023\", \"standardName\": \"建筑卫生陶瓷术语和分类\", \"standardEnName\": \"Terms and classification of building and sanitary ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"4.28\", \"cnName\": \"挡水堰\", \"enName\": \"weir\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"91.100.0191\", \"ccs\": \"Q31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138112, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"挡水堰\", \"cnNameSearch\": \"挡水堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir\", \"wordSearch\": \"weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"便器排水道内控制水位的部位。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a3d8c4d36ce741c48290064c6cf2741b\", \"databaseId\": null, \"standardId\": \"18e4d813ab1146929294bef48d0e427e\", \"standardCode\": \"GB/T 41515—2022\", \"standardName\": \"涂布机术语\", \"standardEnName\": \"Coating machine vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"6.7\", \"cnName\": \"堰板\", \"enName\": \"weir\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 37.100.10 \", \"ccs\": \"CCS J 87\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24683, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰板\", \"cnNameSearch\": \"堰板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir\", \"wordSearch\": \"weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"涂布模头中限制涂布液流向的组件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d48ce13b876d45bbac28f2496dca40a7\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.19\", \"cnName\": \"收缩堰\", \"enName\": \"contracted weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40767, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"收缩堰\", \"cnNameSearch\": \"收缩堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"contracted weir\", \"wordSearch\": \"contracted weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"引起水流侧向收缩的堰，堰的长度小于河宽。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"45d774f895834e3bb48378163d22ebcb\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.23\", \"cnName\": \"堰体\", \"enName\": \"weir body\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42681, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰体\", \"cnNameSearch\": \"堰体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir body\", \"wordSearch\": \"weir body\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"嵌在堰壁之间的测流堰部分，水在堰体上流过。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4b404e82b8aa49fa8ecc57b59aa9f044\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.17\", \"cnName\": \"复合堰\", \"enName\": \"combination weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42878, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复合堰\", \"cnNameSearch\": \"复合堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"combination weir\", \"wordSearch\": \"combination weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"含有两个以上不同堰型或尺寸，可分级测流的堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3612f1f46736444a88adc4baba1c511a\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.29\", \"cnName\": \"堰流\", \"enName\": \"weir flow\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43133, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰流\", \"cnNameSearch\": \"堰流\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir flow\", \"wordSearch\": \"weir flow\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有连续自由水面，不受闸门或翼墙等约束的过堰水流。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f56fe63e33f4136b935b09c92041963\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.102\", \"cnName\": \"堰负荷\", \"enName\": \"weir loading\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 232766, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰负荷\", \"cnNameSearch\": \"堰负荷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir loading\", \"wordSearch\": \"weir loading\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位出水堰长度单位时间内通过的水量。其计量单位通常以L/(s • m）表示。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"124797a7cd3a43f3b8be200c098b2eb9\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.0.54\", \"cnName\": \"堰门\", \"enName\": \"weir gate\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 232903, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰门\", \"cnNameSearch\": \"堰门\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weir gate\", \"wordSearch\": \"weir gate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设置在堰口用以调节堰高度的闸门。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bd2d8c53890647889639aa6bc73b6b93\", \"databaseId\": null, \"standardId\": \"9cd3a3c0cf8f4168b4182fed2f988a17\", \"standardCode\": \"GB/T 39619—2020\", \"standardName\": \"海道测量基本术语\", \"standardEnName\": \"Basic terms of hydrographic survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.28\", \"cnName\": \"渔堰\", \"enName\": \"fish weir\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"ICS 01.040.17\", \"ccs\": \"A 76\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162910, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"渔堰\", \"cnNameSearch\": \"渔堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fish weir\", \"wordSearch\": \"fish weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"乱石堆成的用于捕鱼的坝，有碍航行。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB 12319—1998\", \"sourceCode\": \"13.5.10\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e7060502b8144cf5bcf610521dbe4a50\", \"databaseId\": null, \"standardId\": \"88b102a9deb64212b93cb784bb9aaa67\", \"standardCode\": \"GB/T 21303—2017\", \"standardName\": \"灌溉渠道系统量水规范\", \"standardEnName\": \"Specifications for water measurement of irrigation canal system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"土木工程\", \"termCode\": \"3.18\", \"cnName\": \"薄壁堰\", \"enName\": \"thin-plate weir\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"93.160\", \"ccs\": \"P 57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144143, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"薄壁堰\", \"cnNameSearch\": \"薄壁堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thin-plate weir\", \"wordSearch\": \"thin-plate weir\"}, {\"languageType\": 1, \"word\": \"sharp-crested weir\", \"wordSearch\": \"sharp-crested weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰顶厚度小于堰上水头,具有锐缘堰口,溢流时水舌离开堰壁(形成自由流)的薄板堰的总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"40ea82e18dce4bbbb734699788a5cdc7\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.13\", \"cnName\": \"实用堰\", \"enName\": \"short-crested weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40870, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"实用堰\", \"cnNameSearch\": \"实用堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"short-crested weir\", \"wordSearch\": \"short-crested weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰顶厚度为0.67倍～2.5倍堰上水头，并具有流线型堰体的一种短顶堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cec136ace9cb48dd87a06e9ecef89237\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.16 \", \"cnName\": \"平坦 V 形堰\", \"enName\": \"flat-V weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41106, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"平坦 V 形堰\", \"cnNameSearch\": \"平坦 V 形堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flat-V weir\", \"wordSearch\": \"flat-V weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有夹角为钝角的V 形过水断面的三角形剖面堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bf9646f4133c4f3eae95fe79beefbcb0\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.12\", \"cnName\": \"薄壁堰\", \"enName\": \"thin-plate weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41558, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"薄壁堰\", \"cnNameSearch\": \"薄壁堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thin-plate weir\", \"wordSearch\": \"thin-plate weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰顶厚度小于堰上水头，具有锐缘堰口，溢流时水舌离开堰壁的薄板堰的总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed07108f038044a0a1cb87591da3fd54\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.12.2\", \"cnName\": \"矩形堰\", \"enName\": \"rectangular notch weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42089, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"矩形堰\", \"cnNameSearch\": \"矩形堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rectangular notch weir\", \"wordSearch\": \"rectangular notch weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰壁缺口形状为矩形的薄壁堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c689742278af4e88a1667096853b9d22\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.18\", \"cnName\": \"全宽堰\", \"enName\": \"full-width weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42111, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"全宽堰\", \"cnNameSearch\": \"全宽堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"full-width weir\", \"wordSearch\": \"full-width weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种无侧向水流收缩的堰，堰的长度与河宽一致。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"19e8d43033ad482989b65a9a2d2021a6\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.12.3\", \"cnName\": \"梯形堰\", \"enName\": \"trapezoidal notch weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42407, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"梯形堰\", \"cnNameSearch\": \"梯形堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"trapezoidal notch weir\", \"wordSearch\": \"trapezoidal notch weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰壁缺口形状为梯形的薄壁堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"182b6f4a406d4663bceb374c602398ba\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.15\", \"cnName\": \"三角形剖面堰\", \"enName\": \"triangular-profile weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42569, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"三角形剖面堰\", \"cnNameSearch\": \"三角形剖面堰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"triangular-profile weir\", \"wordSearch\": \"triangular-profile weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"沿水流方向上具有三角形剖面的长底堰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b1bbaf7ce08249418ae29396f14458d3\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.24\", \"cnName\": \"堰高\", \"enName\": \"height of weir\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42751, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堰高\", \"cnNameSearch\": \"堰高\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"height of weir\", \"wordSearch\": \"height of weir\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"堰体上缘的最低高程与堰底板或上游河床高程之差。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794673443017}"
+}

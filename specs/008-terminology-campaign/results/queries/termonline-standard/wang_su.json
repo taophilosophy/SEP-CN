@@ -1,0 +1,54 @@
+{
+ "key": "wang su",
+ "term": "Wang Su",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:18:22+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=6",
+ "hits": [
+  {
+   "cn": "协调世界时（SU）",
+   "en": "UTC (SU)",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "苏绣",
+   "en": "su embroidery",
+   "code": "GB/T 38029—2019",
+   "standard": "苏 绣",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "苏绣针法",
+   "en": "su embroidery stitch",
+   "code": "GB/T 38029—2019",
+   "standard": "苏 绣",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "苏绣",
+   "en": "<em>Su</em> embroidery",
+   "code": "GB/T 26380—2022",
+   "standard": "纺织品  丝绸术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "数字集成全变频控制箱式叠压供水设备",
+   "en": "digital integratedfullfrequency controlledboxtype su- perimposed pressure water supply equipment",
+   "code": "GB/T 37892—2019",
+   "standard": "数字集成全变频控制恒压供水设备",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "数字集成全变频控制罐式叠压供水设备",
+   "en": "digital integratedfullfrequencycontrolled tank type su- perimposed pressure water supply equipment",
+   "code": "GB/T 37892—2019",
+   "standard": "数字集成全变频控制恒压供水设备",
+   "subject": "建筑材料和建筑物"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2019\": 4, \"2017\": 1}, \"sourceStats\": {\"纺织和皮革技术\": 3, \"电信、音频和视频工程\": 1, \"建筑材料和建筑物\": 2}, \"typeStats\": {\"7\": 6}, \"totalRecords\": 6, \"tmWordList\": [{\"id\": \"ca58f739181344ecb7281d7aed3d8844\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.6.30\", \"cnName\": \"协调世界时（SU）\", \"enName\": \"UTC (SU)\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166089, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"协调世界时（SU）\", \"cnNameSearch\": \"协调世界时（SU）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"UTC (SU)\", \"wordSearch\": \"UTC (SU)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由俄罗斯时间计量与空间研究所（IMVP）保持和体现的协调世界时。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ebf608b31f4b406baa81efc4eda7a098\", \"databaseId\": null, \"standardId\": \"9c3776307d2449fdbefe56b71ade38aa\", \"standardCode\": \"GB/T 38029—2019\", \"standardName\": \"苏 绣\", \"standardEnName\": \"Su embroidery\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.1  \", \"cnName\": \"苏绣\", \"enName\": \"su embroidery\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"59.08059\", \"ccs\": \"W43\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162191, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"苏绣\", \"cnNameSearch\": \"苏绣\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"su embroidery\", \"wordSearch\": \"su embroidery\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以苏州地区为中心产区,以染色纯桑蚕丝(含盘金)为绣线,应用苏绣针法并手工运针走线,在桑蚕丝织物、桑蚕丝粘胶长丝交织物等底料上刺绣成具有特殊艺术效果的单、双面观赏品和实用品。 \", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">底料即基布。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"90551583b87b4eb6ae6e9e89137e4acd\", \"databaseId\": null, \"standardId\": \"9c3776307d2449fdbefe56b71ade38aa\", \"standardCode\": \"GB/T 38029—2019\", \"standardName\": \"苏 绣\", \"standardEnName\": \"Su embroidery\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.2  \", \"cnName\": \"苏绣针法\", \"enName\": \"su embroidery stitch\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"59.08059\", \"ccs\": \"W43\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162192, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"苏绣针法\", \"cnNameSearch\": \"苏绣针法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"su embroidery stitch\", \"wordSearch\": \"su embroidery stitch\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"刺绣运针的技法,也是刺绣线条的组织形式。 \", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">每一种针法都有一定的组织规律和独特的表现效果,选用合适的针法,能恰如其分地表现刺绣的质感,增加苏绣“精、细、雅、洁”的艺术表现力。苏绣针法分类参见附录 A。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0f3790f4523c47a88b3f0d72decd2e7b\", \"databaseId\": null, \"standardId\": \"7d0c8a57d70c4912849ca37e99555815\", \"standardCode\": \"GB/T 26380—2022\", \"standardName\": \"纺织品  丝绸术语\", \"standardEnName\": \"Textiles—Terminology for silk\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.3.11\", \"cnName\": \"苏绣\", \"enName\": \"<em>Su</em> embroidery\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"59.080.01\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133422, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"苏绣\", \"cnNameSearch\": \"苏绣\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Su</em> embroidery\", \"wordSearch\": \"<em>Su</em> embroidery\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以苏州地区为中心产区，以染色纯桑蚕丝(含盘金)为绣线，应用苏绣针法并手工运针走线，在桑蚕丝织物、桑蚕丝粘胶长丝交织物等底料上刺绣成具有特殊艺术效果的单、双面观赏品和实用品。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>底料即基布。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0da181b143ce498aacac1844a362d464\", \"databaseId\": null, \"standardId\": \"e13087e6f52c48ed9657bedad0c59944\", \"standardCode\": \"GB/T 37892—2019\", \"standardName\": \"数字集成全变频控制恒压供水设备\", \"standardEnName\": \"Digital integrated full frequency conversion controlled constant pressure water supply equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.4\", \"cnName\": \"数字集成全变频控制箱式叠压供水设备\", \"enName\": \"digital integratedfullfrequency controlledboxtype su- perimposed pressure water supply equipment\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"91.140.60\", \"ccs\": \"P42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220699, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数字集成全变频控制箱式叠压供水设备\", \"cnNameSearch\": \"数字集成全变频控制箱式叠压供水设备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"digital integratedfullfrequency controlledboxtype su- perimposed pressure water supply equipment\", \"wordSearch\": \"digital integratedfullfrequency controlledboxtype su- perimposed pressure water supply equipment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"证供水管网水压不低于设定压力值，实现管网叠压与水箱供水相互切换的成套供水设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aadd21221ed846ef9d42c5558657a151\", \"databaseId\": null, \"standardId\": \"e13087e6f52c48ed9657bedad0c59944\", \"standardCode\": \"GB/T 37892—2019\", \"standardName\": \"数字集成全变频控制恒压供水设备\", \"standardEnName\": \"Digital integrated full frequency conversion controlled constant pressure water supply equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.3\", \"cnName\": \"数字集成全变频控制罐式叠压供水设备\", \"enName\": \"digital integratedfullfrequencycontrolled tank type su- perimposed pressure water supply equipment\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"91.140.60\", \"ccs\": \"P42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220698, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数字集成全变频控制罐式叠压供水设备\", \"cnNameSearch\": \"数字集成全变频控制罐式叠压供水设备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"digital integratedfullfrequencycontrolled tank type su- perimposed pressure water supply equipment\", \"wordSearch\": \"digital integratedfullfrequencycontrolled tank type su- perimposed pressure water supply equipment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用数字集成全变频控制技术，配置稳流罐，从有压供水管网中直接吸水叠压供水，并保证供水管\\n网水压不低于设定压力值的成套供水设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673099004}"
+}

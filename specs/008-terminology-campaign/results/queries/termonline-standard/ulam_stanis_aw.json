@@ -1,0 +1,33 @@
+{
+ "key": "ulam, stanisław",
+ "term": "Ulam, Stanisław",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:01:10+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "定员载荷",
+   "en": "nominal load",
+   "code": "GB/T 40075—2021",
+   "standard": "城市轨道交通六轴铰接转向架轻轨车辆通用技术条件",
+   "subject": "铁路工程"
+  },
+  {
+   "cn": "超员载荷",
+   "en": "maximum load",
+   "code": "GB/T 40075—2021",
+   "standard": "城市轨道交通六轴铰接转向架轻轨车辆通用技术条件",
+   "subject": "铁路工程"
+  },
+  {
+   "cn": "空车载荷",
+   "en": "zero payload",
+   "code": "GB/T 40075—2021",
+   "standard": "城市轨道交通六轴铰接转向架轻轨车辆通用技术条件",
+   "subject": "铁路工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 3}, \"sourceStats\": {\"铁路工程\": 3}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"9184a298574843818e3f68bc7d847189\", \"databaseId\": null, \"standardId\": \"43e7929383044c8a99fa8c7434f9171e\", \"standardCode\": \"GB/T 40075—2021\", \"standardName\": \"城市轨道交通六轴铰接转向架轻轨车辆通用技术条件\", \"standardEnName\": \"General technical specification of six-axle light rail vehicle with articulated bogie for urban rail transit\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"铁路工程\", \"termCode\": \"3.3\", \"cnName\": \"定员载荷\", \"enName\": \"nominal load\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"45.060.20\", \"ccs\": \"S 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 72343, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"定员载荷\", \"cnNameSearch\": \"定员载荷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nominal load\", \"wordSearch\": \"nominal load\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"AW2\", \"cnNameSearch\": \"AW2\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"列车在定员状态时的重量。此状态下车辆总重为空载和定员载客重量之和。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"767c5c077588493589caac9d8959d9f0\", \"databaseId\": null, \"standardId\": \"43e7929383044c8a99fa8c7434f9171e\", \"standardCode\": \"GB/T 40075—2021\", \"standardName\": \"城市轨道交通六轴铰接转向架轻轨车辆通用技术条件\", \"standardEnName\": \"General technical specification of six-axle light rail vehicle with articulated bogie for urban rail transit\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"铁路工程\", \"termCode\": \"3.4\", \"cnName\": \"超员载荷\", \"enName\": \"maximum load\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"45.060.20\", \"ccs\": \"S 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 72347, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"超员载荷\", \"cnNameSearch\": \"超员载荷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"maximum load\", \"wordSearch\": \"maximum load\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"AW3\", \"cnNameSearch\": \"AW3\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"列车在超员状态时的重量。此状态下车辆总重为空载和超员载客重量之和。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f4c8887be0184093aac08c0a43ea44d8\", \"databaseId\": null, \"standardId\": \"43e7929383044c8a99fa8c7434f9171e\", \"standardCode\": \"GB/T 40075—2021\", \"standardName\": \"城市轨道交通六轴铰接转向架轻轨车辆通用技术条件\", \"standardEnName\": \"General technical specification of six-axle light rail vehicle with articulated bogie for urban rail transit\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"铁路工程\", \"termCode\": \"3.2\", \"cnName\": \"空车载荷\", \"enName\": \"zero payload\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"45.060.20\", \"ccs\": \"S 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 72344, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空车载荷\", \"cnNameSearch\": \"空车载荷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"zero payload\", \"wordSearch\": \"zero payload\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"AW0\", \"cnNameSearch\": \"AW0\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"列车技术装备完整且无乘客时的重量。此状态下车辆总重为车辆自重。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672066662}"
+}

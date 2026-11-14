@@ -1,0 +1,19 @@
+{
+ "key": "wahl, russell",
+ "term": "Wahl, Russell",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:15:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "罗素效应",
+   "en": "Vogel-Colson-Russell effect",
+   "code": "GB/T 17754—2012",
+   "standard": "摩擦学术语 ",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2012\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"ac3582737ba7495c8be52502dea1cd5e\", \"databaseId\": null, \"standardId\": \"33972671b05f45868edfb2cd3d74ec7e\", \"standardCode\": \"GB/T 17754—2012\", \"standardName\": \"摩擦学术语 \", \"standardEnName\": \"Tribology terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.28\", \"cnName\": \"罗素效应\", \"enName\": \"Vogel-Colson-Russell effect\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-10-01\", \"ics\": \"01.040.07\", \"ccs\": \"A 42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56130, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"罗素效应\", \"cnNameSearch\": \"罗素效应\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Vogel-Colson-Russell effect\", \"wordSearch\": \"Vogel-Colson-Russell effect\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在暴露于水蒸汽和氧气中的初生表面上形成过氧化氢的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672899228}"
+}

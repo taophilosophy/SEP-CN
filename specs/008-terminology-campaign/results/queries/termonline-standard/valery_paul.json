@@ -1,0 +1,26 @@
+{
+ "key": "valery, paul",
+ "term": "Valéry, Paul",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:04:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "RY",
+   "en": "",
+   "code": "GB/T 33537.2—2017",
+   "standard": "工业通信网络 现场总线规范 类型23:CC-LinkIE规范 第2部分：应用层协议规范",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "RY",
+   "en": "",
+   "code": "GB/T 33537.1—2017",
+   "standard": "工业通信网络 现场总线规范 类型23：CC-LinkIE规范 第1部分：应用层服务定义",
+   "subject": "机械制造"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 2}, \"sourceStats\": {\"机械制造\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"3504f3b1c27e43cb8ecd60c15fba7e8c\", \"databaseId\": null, \"standardId\": \"7668ff005e7c4b3eb08c0eb643fbc8ec\", \"standardCode\": \"GB/T 33537.2—2017\", \"standardName\": \"工业通信网络 现场总线规范 类型23:CC-LinkIE规范 第2部分：应用层协议规范\", \"standardEnName\": \"Industrial communication networks—Fieldbus specifications—Type 23:CC-Link IE specification—Part 2: Application layer protocol specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2.18\", \"cnName\": \"RY\", \"enName\": \"\", \"publishTime\": \"2017-02-28\", \"publishYear\": \"2017\", \"implementTime\": \"2017-09-01\", \"ics\": \"25.040\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 119955, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"RY\", \"cnNameSearch\": \"RY\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"循环传输周期性更新，由主站向从站以比特数据为单位输出的信息，或在本地站视为主站输入的信息。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b79baebf9d3a470781c861193dd4d7d3\", \"databaseId\": null, \"standardId\": \"be8006e54ceb44bb93445311ff869ca0\", \"standardCode\": \"GB/T 33537.1—2017\", \"standardName\": \"工业通信网络 现场总线规范 类型23：CC-LinkIE规范 第1部分：应用层服务定义\", \"standardEnName\": \"Industrial communication networks—Fieldbus specifications—Type 23: CC-Link IE specification—Part 1: Application layer service definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2.18\", \"cnName\": \"RY\", \"enName\": \"\", \"publishTime\": \"2017-02-28\", \"publishYear\": \"2017\", \"implementTime\": \"2017-09-01\", \"ics\": \"25.040\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 192733, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"RY\", \"cnNameSearch\": \"RY\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"远程输出。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672250660}"
+}

@@ -1,0 +1,54 @@
+{
+ "key": "walker, carol",
+ "term": "Walker, Carol",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:15:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=6",
+ "hits": [
+  {
+   "cn": "Walker星座",
+   "en": "Walker constellation",
+   "code": "GB/T 39267—2020",
+   "standard": "北斗卫星导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "逐稿器",
+   "en": "straw walker",
+   "code": "GB/T 6979.1—2005",
+   "standard": "收获机械  联合收割机及功能部件  第 1 部分:词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "逐稿器宽度",
+   "en": "straw walker width",
+   "code": "GB/T 6979.1—2005",
+   "standard": "收获机械  联合收割机及功能部件  第 1 部分:词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "逐稿器长度",
+   "en": "straw walker length",
+   "code": "GB/T 6979.1—2005",
+   "standard": "收获机械  联合收割机及功能部件  第 1 部分:词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "逐稿器面积",
+   "en": "straw walker area",
+   "code": "GB/T 6979.1—2005",
+   "standard": "收获机械  联合收割机及功能部件  第 1 部分:词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "野外滑雪板",
+   "en": "wilderness ski/bush walker",
+   "code": "GB/T 40931—2021",
+   "standard": "滑雪板 术语",
+   "subject": "家用和商用设备、文娱、体育"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2020\": 1, \"2005\": 4}, \"sourceStats\": {\"电信、音频和视频工程\": 1, \"家用和商用设备、文娱、体育\": 1, \"农业\": 4}, \"typeStats\": {\"7\": 6}, \"totalRecords\": 6, \"tmWordList\": [{\"id\": \"6f9c44af07f54f65b1721381abd9ff1b\", \"databaseId\": null, \"standardId\": \"f0a9593d5b1746f39720cc3365c34e00\", \"standardCode\": \"GB/T 39267—2020\", \"standardName\": \"北斗卫星导航术语\", \"standardEnName\": \"Terminology for BeiDou navigation satellite system (BDS)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.7\", \"cnName\": \"Walker星座\", \"enName\": \"Walker constellation\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"33.070.4033\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 236317, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Walker星座\", \"cnNameSearch\": \"Walker星座\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Walker constellation\", \"wordSearch\": \"Walker constellation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"星座构型中的一类。该类星座中的所有卫星均在圆轨道上运行，各轨道平面平均分布，轨道平面中\\n的卫星均匀分布。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ac1534db6f0e4e9e885b6dd1fbab7a00\", \"databaseId\": null, \"standardId\": \"815e3f44ce2e41c9baf6d243cd9cbb48\", \"standardCode\": \"GB/T 6979.1—2005\", \"standardName\": \"收获机械  联合收割机及功能部件  第 1 部分:词汇\", \"standardEnName\": \"Equipment for harvesting—Combines and functional components Part 1:Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.2.1.7.3\", \"cnName\": \"逐稿器\", \"enName\": \"straw walker\", \"publishTime\": \"2005-06-08\", \"publishYear\": \"2005\", \"implementTime\": \"2005-12-01\", \"ics\": \"65.060.50\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136311, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逐稿器\", \"cnNameSearch\": \"逐稿器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"straw walker\", \"wordSearch\": \"straw walker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由数个安装在旋转曲轴上带有透孔的键箱组成，其宽度等于联合收割机分离室的宽度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2bdc45909e9542bd9fad845c07a339d9\", \"databaseId\": null, \"standardId\": \"815e3f44ce2e41c9baf6d243cd9cbb48\", \"standardCode\": \"GB/T 6979.1—2005\", \"standardName\": \"收获机械  联合收割机及功能部件  第 1 部分:词汇\", \"standardEnName\": \"Equipment for harvesting—Combines and functional components Part 1:Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5.27\", \"cnName\": \"逐稿器宽度\", \"enName\": \"straw walker width\", \"publishTime\": \"2005-06-08\", \"publishYear\": \"2005\", \"implementTime\": \"2005-12-01\", \"ics\": \"65.060.50\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136225, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逐稿器宽度\", \"cnNameSearch\": \"逐稿器宽度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"straw walker width\", \"wordSearch\": \"straw walker width\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包含逐稿器的分离装置的内部宽度，单位为米（m），保留2位小数。<br>见图 7，尺寸<em>R</em>。</p><p><img src=\\\"/standard/d69584556fa6407e9745a82503f97f09/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"36d1f2f4ce7544eea45a95d423323ca3\", \"databaseId\": null, \"standardId\": \"815e3f44ce2e41c9baf6d243cd9cbb48\", \"standardCode\": \"GB/T 6979.1—2005\", \"standardName\": \"收获机械  联合收割机及功能部件  第 1 部分:词汇\", \"standardEnName\": \"Equipment for harvesting—Combines and functional components Part 1:Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5.28\", \"cnName\": \"逐稿器长度\", \"enName\": \"straw walker length\", \"publishTime\": \"2005-06-08\", \"publishYear\": \"2005\", \"implementTime\": \"2005-12-01\", \"ics\": \"65.060.50\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136259, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逐稿器长度\", \"cnNameSearch\": \"逐稿器长度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"straw walker length\", \"wordSearch\": \"straw walker length\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从逐稿器前部到后部的直线距离，单位为米（m），保留2位小数。<br>见图 6，尺寸<em>P</em>。</p><p><img src=\\\"/standard/59639161c6ff423e9f1f59fa6f6832e6/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5b617db0616a436799e28cc05f37817e\", \"databaseId\": null, \"standardId\": \"815e3f44ce2e41c9baf6d243cd9cbb48\", \"standardCode\": \"GB/T 6979.1—2005\", \"standardName\": \"收获机械  联合收割机及功能部件  第 1 部分:词汇\", \"standardEnName\": \"Equipment for harvesting—Combines and functional components Part 1:Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5.29\", \"cnName\": \"逐稿器面积\", \"enName\": \"straw walker area\", \"publishTime\": \"2005-06-08\", \"publishYear\": \"2005\", \"implementTime\": \"2005-12-01\", \"ics\": \"65.060.50\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136280, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逐稿器面积\", \"cnNameSearch\": \"逐稿器面积\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"straw walker area\", \"wordSearch\": \"straw walker area\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"逐稿器宽度与逐稿器长度的乘积，单位为平方米（m²），保留2位小数。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"42daeb13611c4cfe96c515d2a3b8a65c\", \"databaseId\": null, \"standardId\": \"327224b679144f0cafebd37e3a53edfa\", \"standardCode\": \"GB/T 40931—2021\", \"standardName\": \"滑雪板 术语\", \"standardEnName\": \"Skis—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.3.5\", \"cnName\": \"野外滑雪板\", \"enName\": \"wilderness ski/bush walker\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"97.220.20\", \"ccs\": \"Y 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55334, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"野外滑雪板\", \"cnNameSearch\": \"野外滑雪板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wilderness ski/bush walker\", \"wordSearch\": \"wilderness ski/bush walker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在雪道外，所有雪地条件下使用的越野滑雪板。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一种很短（通常约150cm）、很宽的滑雪板。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672955005}"
+}

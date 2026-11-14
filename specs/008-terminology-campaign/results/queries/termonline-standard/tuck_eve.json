@@ -1,0 +1,124 @@
+{
+ "key": "tuck, eve",
+ "term": "Tuck, Eve",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:58:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=16",
+ "hits": [
+  {
+   "cn": "1+1交错集圈织物1x1tuck单珠地网眼织物",
+   "en": "",
+   "code": "GB/T 5708一2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "摆动折叠式尾板",
+   "en": "tuck-awaytaillift",
+   "code": "GB/T 37706—2019",
+   "standard": "车用起重尾板安装与使用技术要求",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "叠带绣",
+   "en": "tuck embroidery",
+   "code": "GB/T 30420.2—2019",
+   "standard": "缝纫机术语 第2部分：刺绣机术语",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "花针",
+   "en": "tuck stitch",
+   "code": "GB/T 33452—2016",
+   "standard": "洗染术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "间隙砖层",
+   "en": "tuck wall",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "集圈型双面提花织物",
+   "en": "）knit-tuck)ribjacquardfabric",
+   "code": "GB/T 5708一2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "成圈-集圈-浮线型网孔织物",
+   "en": "knit-tuck-missmeshfabric",
+   "code": "GB/T 5708一2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "1十1交错集圈织物",
+   "en": "1×1 tuck",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "交错集圈双罗纹织物",
+   "en": "cross-tuck interlock",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "双罗纹集圈织物",
+   "en": "tuck interlock fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "穿插（产品）",
+   "en": "tuck&lt;product&gt;",
+   "code": "GB/T 40273—2021",
+   "standard": "纤维绳索  术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "穿插（工艺）",
+   "en": "tuck&lt;process&gt;",
+   "code": "GB/T 40273—2021",
+   "standard": "纤维绳索  术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "隔行 1十1交错集圈织物",
+   "en": "cross tuck 1×1",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "两面网眼织物",
+   "en": "jacquard tuck lace fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "成圈-集圈-浮线型网孔织物",
+   "en": "knit-tuck-miss mesh fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "集圈型双面提花织物",
+   "en": "rib jacquard fabric",
+   "code": "GB/T 5708—2001",
+   "standard": "纺织品 针织物 术语",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 2, \"2019\": 2, \"2016\": 1, \"2011\": 1, \"2001\": 7, \"暂无年份\": 3}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"纺织和皮革技术\": 9, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"材料储运设备\": 1, \"服装工业\": 1, \"其它\": 3}, \"typeStats\": {\"7\": 16}, \"totalRecords\": 16, \"tmWordList\": [{\"id\": \"8690bf216e074c1398455faeb17a1a98\", \"databaseId\": null, \"standardId\": \"47e13f0ea47e424e8ad74c2859c09bf3\", \"standardCode\": \"GB/T 5708一2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knitted fabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.23\", \"cnName\": \"1+1交错集圈织物1x1tuck单珠地网眼织物\", \"enName\": \"\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74851, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"1+1交错集圈织物1x1tuck单珠地网眼织物\", \"cnNameSearch\": \"1+1交错集圈织物1x1tuck单珠地网眼织物\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"1+1交错集圈针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"16eb849200fe45aea95e56c67e96cb00\", \"databaseId\": null, \"standardId\": \"0b52a4b6ff8c4691a8831257fad7237d\", \"standardCode\": \"GB/T 37706—2019\", \"standardName\": \"车用起重尾板安装与使用技术要求\", \"standardEnName\": \"Installation and operation technical requirements of tail lifts for vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.7\", \"cnName\": \"摆动折叠式尾板\", \"enName\": \"tuck-awaytaillift\", \"publishTime\": \"2019-05-10\", \"publishYear\": \"2019\", \"implementTime\": \"2019-12-01\", \"ics\": \"53.020.20\", \"ccs\": \"R14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10095, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"摆动折叠式尾板\", \"cnNameSearch\": \"摆动折叠式尾板\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck-awaytaillift\", \"wordSearch\": \"tuck-awaytaillift\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"承载平台为折叠结构，其支撑装置固定在车体后下部，折叠式承载平台展开后，做上下运动或围绕<br>支撑点（轴）转动，收起后承载平台收藏于车厢底板下方空间的尾板（见图2）。<br>车厢<br>车厕后门<br>承载平台<br>尾板安装后，承载平<br>台位于车厢后门下方<br>a）功能和运动<br>b）车辆行驶时，尾板所处闭合位置<br><img src=\\\"/standard/2f28a83e28b04d1b806d3273a82b2746/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e666b33eb9f346d3b033408489b10064\", \"databaseId\": null, \"standardId\": \"bd576736dfdd4defa477c7a354d9a5a9\", \"standardCode\": \"GB/T 30420.2—2019\", \"standardName\": \"缝纫机术语 第2部分：刺绣机术语\", \"standardEnName\": \"Sewing machine terminology—Part 2: Embroidery machine terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.6.9\", \"cnName\": \"叠带绣\", \"enName\": \"tuck embroidery\", \"publishTime\": \"2019-12-31\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"61.080\", \"ccs\": \"Y17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 191603, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"叠带绣\", \"cnNameSearch\": \"叠带绣\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck embroidery\", \"wordSearch\": \"tuck embroidery\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"百褶绣\", \"cnNameSearch\": \"百褶绣\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"形成层叠效果绣品的一种工艺。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>盘带绣(2.1.7.3)的一种。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7486ebd195bf41578ca6558e9d23b517\", \"databaseId\": null, \"standardId\": \"b004848022de490f840fd1f60acd8240\", \"standardCode\": \"GB/T 33452—2016\", \"standardName\": \"洗染术语\", \"standardEnName\": \"Laundry and dying terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"6.17\", \"cnName\": \"花针\", \"enName\": \"tuck stitch\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"03.080.30\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181597, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花针\", \"cnNameSearch\": \"花针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck stitch\", \"wordSearch\": \"tuck stitch\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"织补时挑丝和压丝不完整，经、纬丝互相牵扯的现象。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c81b33ea87274c9891f6e5fd95001803\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.3.2.31\", \"cnName\": \"间隙砖层\", \"enName\": \"tuck wall\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197657, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"间隙砖层\", \"cnNameSearch\": \"间隙砖层\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck wall\", \"wordSearch\": \"tuck wall\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"有些池窑的池壁、胸墙、窑拱是独立的，它们之间留有间隙，此间隙用耐火材料封闭，所用耐火材料称为间隙砖，此层为间隙砖层。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed8ccb2816104ce09b3ce3072af4194f\", \"databaseId\": null, \"standardId\": \"47e13f0ea47e424e8ad74c2859c09bf3\", \"standardCode\": \"GB/T 5708一2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knitted fabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.37\", \"cnName\": \"集圈型双面提花织物\", \"enName\": \"）knit-tuck)ribjacquardfabric\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74989, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"集圈型双面提花织物\", \"cnNameSearch\": \"集圈型双面提花织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"）knit-tuck)ribjacquardfabric\", \"wordSearch\": \"）knit-tuck)ribjacquardfabric\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过选针集圈而形成花型的纬编罗纹类织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a385f79086fa4e4e87cced960a5c576e\", \"databaseId\": null, \"standardId\": \"47e13f0ea47e424e8ad74c2859c09bf3\", \"standardCode\": \"GB/T 5708一2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knitted fabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.38\", \"cnName\": \"成圈-集圈-浮线型网孔织物\", \"enName\": \"knit-tuck-missmeshfabric\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 75016, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"成圈-集圈-浮线型网孔织物\", \"cnNameSearch\": \"成圈-集圈-浮线型网孔织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"knit-tuck-missmeshfabric\", \"wordSearch\": \"knit-tuck-missmeshfabric\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用成圈、集圈和浮线三种编织方式组合在正常纱线编织的地组织上形成具有交错网孔效应的纬编针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"241c7afea44a4caf8340954fac4a7a18\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.23\", \"cnName\": \"1十1交错集圈织物\", \"enName\": \"1×1 tuck\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206221, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"1十1交错集圈织物\", \"cnNameSearch\": \"1十1交错集圈织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"1×1 tuck\", \"wordSearch\": \"1×1 tuck\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在相邻两枚针上交替成圈和集圈,工艺反面呈蜂窝效应的单面纬编针织物,其中连续两次成圈和 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">集圈的称为双 1十1交错集圈针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cc0383d5878d404692fc9711271556d8\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"5.40\", \"cnName\": \"交错集圈双罗纹织物\", \"enName\": \"cross-tuck interlock\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206254, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"交错集圈双罗纹织物\", \"cnNameSearch\": \"交错集圈双罗纹织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cross-tuck interlock\", \"wordSearch\": \"cross-tuck interlock\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按如下工艺要求编织的纬编针织物: </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">六路一个完全组织循环: </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">第一、二路:编织一个横列的双罗纹组织; </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">第三路:上高踵针集圈,下高踵针成圈; </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">第四、五路:编织一个横列的双罗纹组织; </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">第六路:上低踵针集圈,下低踵针成圈。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"02b47bf26221495fb0801c94835f94bb\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"5.39\", \"cnName\": \"双罗纹集圈织物\", \"enName\": \"tuck interlock fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206273, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"双罗纹集圈织物\", \"cnNameSearch\": \"双罗纹集圈织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck interlock fabric\", \"wordSearch\": \"tuck interlock fabric\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"仅在一个针床上单个或连续若干个横列集圈,在另一针床上全部成圈的双罗纹针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"319195a4ea8d4369865d191d86e7db34\", \"databaseId\": null, \"standardId\": \"c781bb0471e7483bba42c5e988ea5a7c\", \"standardCode\": \"GB/T 40273—2021\", \"standardName\": \"纤维绳索  术语\", \"standardEnName\": \"Fibre ropes and cordage—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"6.1.25.2\", \"cnName\": \"穿插（产品）\", \"enName\": \"tuck&lt;product&gt;\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"59.080.50\", \"ccs\": \"W 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 200303, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"穿插（产品）\", \"cnNameSearch\": \"穿插（产品）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck&lt;product&gt;\", \"wordSearch\": \"tuck&lt;product&gt;\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"穿插过程中，在其他绳股之间或下面穿过的绳股。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc16d0b67a01437785499f061affd8df\", \"databaseId\": null, \"standardId\": \"c781bb0471e7483bba42c5e988ea5a7c\", \"standardCode\": \"GB/T 40273—2021\", \"standardName\": \"纤维绳索  术语\", \"standardEnName\": \"Fibre ropes and cordage—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"6.1.25.1\", \"cnName\": \"穿插（工艺）\", \"enName\": \"tuck&lt;process&gt;\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"59.080.50\", \"ccs\": \"W 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 200440, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"穿插（工艺）\", \"cnNameSearch\": \"穿插（工艺）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tuck&lt;process&gt;\", \"wordSearch\": \"tuck&lt;process&gt;\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"拼接时一根绳股在其他绳股的上下穿过的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"47c6d9827f784a63b9bad0386d30bd61\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.24\", \"cnName\": \"隔行 1十1交错集圈织物\", \"enName\": \"cross tuck 1×1\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206138, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隔行 1十1交错集圈织物\", \"cnNameSearch\": \"隔行 1十1交错集圈织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cross tuck 1×1\", \"wordSearch\": \"cross tuck 1×1\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在相邻两枚针上交替成圈和集圈,并将其用一个横列的平针隔开,工艺正面呈蜂窝效应的单面纬 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">编织物(图 10)。</span></p><p><img src=\\\"/standard/c457e1eae08841c295ffc364550777c3/1743162692813.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3ba354c30b7d4f39a1cea9d07a7fe3c4\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.4\", \"cnName\": \"两面网眼织物\", \"enName\": \"jacquard tuck lace fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206296, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"两面网眼织物\", \"cnNameSearch\": \"两面网眼织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jacquard tuck lace fabric\", \"wordSearch\": \"jacquard tuck lace fabric\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由选针集圈构成结构花型并连接两针床上的两层织物的纬编针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f5d7f1cd5dd44151a1ff309292903b43\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.38\", \"cnName\": \"成圈-集圈-浮线型网孔织物\", \"enName\": \"knit-tuck-miss mesh fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206183, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"成圈-集圈-浮线型网孔织物\", \"cnNameSearch\": \"成圈-集圈-浮线型网孔织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"knit-tuck-miss mesh fabric\", \"wordSearch\": \"knit-tuck-miss mesh fabric\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用成圈、集圈和浮线三种编织方式组合在正常纱线编织的地组织上形成具有交错网孔效应的 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">纬编针织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0cc5995a9e2e47f49efb1197624b60b3\", \"databaseId\": null, \"standardId\": \"cd42d5d14f0243dcb42ff768bf43e851\", \"standardCode\": \"GB/T 5708—2001\", \"standardName\": \"纺织品 针织物 术语\", \"standardEnName\": \"Textiles—Knittedfabrics—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"5.37\", \"cnName\": \"集圈型双面提花织物\", \"enName\": \"rib jacquard fabric\", \"publishTime\": \"2001-02-26\", \"publishYear\": \"2001\", \"implementTime\": \"2001-09-01\", \"ics\": \"59.080.30\", \"ccs\": \"w 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206180, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"集圈型双面提花织物\", \"cnNameSearch\": \"集圈型双面提花织物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rib jacquard fabric\", \"wordSearch\": \"rib jacquard fabric\"}], \"allowableWord\": [{\"languageType\": 1, \"word\": \"knit-tuck\", \"wordSearch\": \"knit-tuck\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过选针集圈而形成花型的纬编罗纹类织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671914955}"
+}

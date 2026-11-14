@@ -1,0 +1,19 @@
+{
+ "key": "varnhagen, karl august",
+ "term": "Varnhagen, Karl August",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:07:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "卡-费水分测定仪",
+   "en": "<em>Karl</em> <em>Fischer</em> moisture determination apparatus",
+   "code": "GB/T 9289—2010",
+   "standard": "制糖工业术语",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2010\": 1}, \"sourceStats\": {\"食品技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"de46cbbe97c84967bec13b9a715be66e\", \"databaseId\": null, \"standardId\": \"c9ea8743fe674c8887086a50f50b2b5b\", \"standardCode\": \"GB/T 9289—2010\", \"standardName\": \"制糖工业术语\", \"standardEnName\": \"Terminology in sugar industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.8.4.8\", \"cnName\": \"卡-费水分测定仪\", \"enName\": \"<em>Karl</em> <em>Fischer</em> moisture determination apparatus\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"67.180.106\", \"ccs\": \"X30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 203413, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"卡-费水分测定仪\", \"cnNameSearch\": \"卡-费水分测定仪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Karl</em> <em>Fischer</em> moisture determination apparatus\", \"wordSearch\": \"<em>Karl</em> <em>Fischer</em> moisture determination apparatus\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"卡-费法可以快速准确地测得样品的少量水分。此法测得的是真实的水分。它常作为水分特别是痕量水分的标准分析方法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794672450961}"
+}

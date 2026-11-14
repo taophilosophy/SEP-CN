@@ -1,0 +1,110 @@
+{
+ "key": "waters, kenneth",
+ "term": "Waters, Kenneth",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:20:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=14",
+ "hits": [
+  {
+   "cn": "遮蔽水域",
+   "en": "sheltered waters",
+   "code": "GB/T 32234.2—2023",
+   "standard": "个人浮力设备 第2部分:救生衣性能等级275 安全要求",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "近海",
+   "en": "coastal waters",
+   "code": "GB/T 42632—2023",
+   "standard": "海洋生态环境水下有缆在线监测系统技术要求",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "港口水域",
+   "en": "harbor waters",
+   "code": "GB/T 8487—2010",
+   "standard": "港口装卸术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "港口水域",
+   "en": "harbour waters",
+   "code": "GB/T 19834—2005",
+   "standard": "海洋学术语  海洋资源学",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "近海",
+   "en": "offshore waters",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "内陆水域",
+   "en": "inland waters",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "沿岸水域",
+   "en": "coastal waters",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "操作水域",
+   "en": "operating territorial waters",
+   "code": "GB/T 51405—2019",
+   "standard": "船厂总体设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "危险水域标",
+   "en": "dangerous waters mark",
+   "code": "GB/T 17765—2021",
+   "standard": "航标术语 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "水域和其它用地",
+   "en": "waters and miscellaneous",
+   "code": "GB/T 50280—98",
+   "standard": "城市规划基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "水域地层剖面法",
+   "en": "waters stratum section detection",
+   "code": "GB 51395—2019",
+   "standard": "海上风力发电场勘测标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "水域滩涂养殖权",
+   "en": "waters tidal flat aquaculture right",
+   "code": "GB/T 40638—2021",
+   "standard": "农村产权流转交易 服务术语和服务分类",
+   "subject": "农业"
+  },
+  {
+   "cn": "水域多道地震勘探法",
+   "en": "waters multiple traces seismic exploration",
+   "code": "GB 51395—2019",
+   "standard": "海上风力发电场勘测标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "地表水害类型",
+   "en": "water hazard due to surface waters",
+   "code": "GB/T 22205—2008",
+   "standard": "煤矿采区或工作面水文地质条件分类",
+   "subject": "采矿和矿产品"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2021\": 2, \"2019\": 2, \"2010\": 1, \"2008\": 1, \"2005\": 1, \"2001\": 3, \"1998\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"采矿和矿产品\": 1, \"造船和海上构筑物\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 2, \"数学、自然科学\": 2, \"农业\": 4, \"其它\": 4}, \"typeStats\": {\"7\": 14}, \"totalRecords\": 14, \"tmWordList\": [{\"id\": \"d0516297d06e421892dd7b841a2cd0e5\", \"databaseId\": null, \"standardId\": \"7a30db5b580442aa8d3913314d178751\", \"standardCode\": \"GB/T 32234.2—2023\", \"standardName\": \"个人浮力设备 第2部分:救生衣性能等级275 安全要求\", \"standardEnName\": \"Personal flotation devices Part 2 :Lifejackets, performance level 275-Safety requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.17\", \"cnName\": \"遮蔽水域\", \"enName\": \"sheltered waters\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"47.020.50\", \"ccs\": \"U 27\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126031, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"遮蔽水域\", \"cnNameSearch\": \"遮蔽水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sheltered waters\", \"wordSearch\": \"sheltered waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不受较大的破碎波、水流或强风的影响，被吹离海岸或安全地点的可能性极小的水域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c14b72e549a54ee982328c0910b86014\", \"databaseId\": null, \"standardId\": \"ef64fd0af16b41a084d762ae4d6b6a5d\", \"standardCode\": \"GB/T 42632—2023\", \"standardName\": \"海洋生态环境水下有缆在线监测系统技术要求\", \"standardEnName\": \"Technical requirements of cabled online system for marine ecological environment monitoring\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1\", \"cnName\": \"近海\", \"enName\": \"coastal waters\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.060\", \"ccs\": \"N 92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235015, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近海\", \"cnNameSearch\": \"近海\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coastal waters\", \"wordSearch\": \"coastal waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"离陆地较近的海域。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>中国近海通常指由渤海、黄海、东海、南海以及台湾东侧太平泽海区等所组成的海城。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"edfd9fbfd0c84aa3ad8e86fac811943e\", \"databaseId\": null, \"standardId\": \"f23ed43c7ea6408b946d9452c53d04f5\", \"standardCode\": \"GB/T 8487—2010\", \"standardName\": \"港口装卸术语\", \"standardEnName\": \"Terms for cargo handling in port\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"2.6\", \"cnName\": \"港口水域\", \"enName\": \"harbor waters\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"03.220.40\", \"ccs\": \"R04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238115, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"港口水域\", \"cnNameSearch\": \"港口水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"harbor waters\", \"wordSearch\": \"harbor waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"港口水上区域所占的范围。主要包括港池、航道、调头水域和锚地等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5c6baa8654cd4733b4f5f19dc2854d53\", \"databaseId\": null, \"standardId\": \"800bdd9fb77b42778d3536adf60aa90e\", \"standardCode\": \"GB/T 19834—2005\", \"standardName\": \"海洋学术语  海洋资源学\", \"standardEnName\": \"Oceanographic terminology—Science of marine resources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"7.7\", \"cnName\": \"港口水域\", \"enName\": \"harbour waters\", \"publishTime\": \"2005-07-15\", \"publishYear\": \"2005\", \"implementTime\": \"2006-01-01\", \"ics\": \"07.06007\", \"ccs\": \"A45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 135638, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"港口水域\", \"cnNameSearch\": \"港口水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"harbour waters\", \"wordSearch\": \"harbour waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"锚地、航道、船只掉头水域和码头前水域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f66f0884b7204a6fbc67746a9e1e963d\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.1.4\", \"cnName\": \"近海\", \"enName\": \"offshore waters\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近海\", \"cnNameSearch\": \"近海\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"offshore waters\", \"wordSearch\": \"offshore waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"沿岸水域与外海水域之间的水深 40  , <i>m</i> ～100  , <i>m</i> 的海域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eedfc135102d47b78b0b40295258a243\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.1.8\", \"cnName\": \"内陆水域\", \"enName\": \"inland waters\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210977, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内陆水域\", \"cnNameSearch\": \"内陆水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"inland waters\", \"wordSearch\": \"inland waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"大陆之内的江河、湖泊、水库、池塘、沼泽和咸水湖泊等水域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ab150ef3e8f4b878e385a0a9206e60a\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.1.7\", \"cnName\": \"沿岸水域\", \"enName\": \"coastal waters\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210983, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"沿岸水域\", \"cnNameSearch\": \"沿岸水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coastal waters\", \"wordSearch\": \"coastal waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"沿岸低潮线以下水深 40 m 以内的水域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1fb2a727f20740e7ad82077f1c3807b7\", \"databaseId\": null, \"standardId\": \"7e4db116fbb244eab8f63306189451b9\", \"standardCode\": \"GB/T 51405—2019\", \"standardName\": \"船厂总体设计标准\", \"standardEnName\": \"Standard for overall design of shipyard\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"操作水域\", \"enName\": \"operating territorial waters\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134305, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"操作水域\", \"cnNameSearch\": \"操作水域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"operating territorial waters\", \"wordSearch\": \"operating territorial waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"船坞、船台、升船机口门前水域;对于船坞、升船机,为用于船舶进出口门所需的作业的水域范围;对于斜船台,为船舶安全制动所需水域范围。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9b9b9b0c4c504c778d7b1fecba2cb80e\", \"databaseId\": null, \"standardId\": \"198907ade20f489c8eae6d3670e63e1d\", \"standardCode\": \"GB/T 17765—2021\", \"standardName\": \"航标术语 \", \"standardEnName\": \"Terminology of aids to navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.7.13.2\", \"cnName\": \"危险水域标\", \"enName\": \"dangerous waters mark\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"03.220.40\", \"ccs\": \"R 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 25080, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"危险水域标\", \"cnNameSearch\": \"危险水域标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dangerous waters mark\", \"wordSearch\": \"dangerous waters mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设在有沉船、水工构筑物等船舶驶入存在特别危险的水城之靠近航道一侧，警示船舶不可穿越该水<br>域的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8dbdbf439ca648a3958580bf3846ee1b\", \"databaseId\": null, \"standardId\": \"5c1bf228d95642ada8e1689a4412c4d4\", \"standardCode\": \"GB/T 50280—98\", \"standardName\": \"城市规划基本术语标准\", \"standardEnName\": \"Standard for Basic Terminology of Urban Planning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.3.11\", \"cnName\": \"水域和其它用地\", \"enName\": \"waters and miscellaneous\", \"publishTime\": \"1998-08-13\", \"publishYear\": \"1998\", \"implementTime\": \"1999-02-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93163, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水域和其它用地\", \"cnNameSearch\": \"水域和其它用地\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"waters and miscellaneous\", \"wordSearch\": \"waters and miscellaneous\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"城市范围内包括耕地、园地、林地、牧草地、村镇建设用地、露天矿用地和弃置地，以及江、河、湖、海、水库、苇地、滩涂和渠道等常年有水或季节性有水的全部水域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d49bf8366b714374a918f856009c0bc5\", \"databaseId\": null, \"standardId\": \"5d9be63877be40a985dd8c188d454ef4\", \"standardCode\": \"GB 51395—2019\", \"standardName\": \"海上风力发电场勘测标准\", \"standardEnName\": \"Standard for engineering investigation of offshore wind farm\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.17\", \"cnName\": \"水域地层剖面法\", \"enName\": \"waters stratum section detection\", \"publishTime\": \"2019-09-25\", \"publishYear\": \"2019\", \"implementTime\": \"2020-04-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94426, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水域地层剖面法\", \"cnNameSearch\": \"水域地层剖面法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"waters stratum section detection\", \"wordSearch\": \"waters stratum section detection\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用弹性波的反射原理，采用地层剖面仪进行水底地层结构和构造探测的一种地震勘探方法，分为浅地层剖面探测和中地层剖面探测。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"452285c11ba34ab785d7df360a824b6d\", \"databaseId\": null, \"standardId\": \"8fe88c29ce8d4c9ea411f7858a72dba1\", \"standardCode\": \"GB/T 40638—2021\", \"standardName\": \"农村产权流转交易 服务术语和服务分类\", \"standardEnName\": \"Transfer transaction of rural property rights—Service terminology and service classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3.2.10\", \"cnName\": \"水域滩涂养殖权\", \"enName\": \"waters tidal flat aquaculture right\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"65.020.01\", \"ccs\": \"B 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 152709, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水域滩涂养殖权\", \"cnNameSearch\": \"水域滩涂养殖权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"waters tidal flat aquaculture right\", \"wordSearch\": \"waters tidal flat aquaculture right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"依法取得的使用水域、滩涂，从事水产养殖并获得收益的权利。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"567a0db4c3f1445486bf9b060384c18a\", \"databaseId\": null, \"standardId\": \"5d9be63877be40a985dd8c188d454ef4\", \"standardCode\": \"GB 51395—2019\", \"standardName\": \"海上风力发电场勘测标准\", \"standardEnName\": \"Standard for engineering investigation of offshore wind farm\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.18\", \"cnName\": \"水域多道地震勘探法\", \"enName\": \"waters multiple traces seismic exploration\", \"publishTime\": \"2019-09-25\", \"publishYear\": \"2019\", \"implementTime\": \"2020-04-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94420, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水域多道地震勘探法\", \"cnNameSearch\": \"水域多道地震勘探法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"waters multiple traces seismic exploration\", \"wordSearch\": \"waters multiple traces seismic exploration\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对具有波阻抗差异的水底地层或构造，采用人工激发宽频带地震波技术并多次覆盖进行探测的一种反射波地震勘探方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"281039b8d3584f0881edf97b36e6aa2d\", \"databaseId\": null, \"standardId\": \"cf5001524d9d45178d2bbf86e204d106\", \"standardCode\": \"GB/T 22205—2008\", \"standardName\": \"煤矿采区或工作面水文地质条件分类\", \"standardEnName\": \"Hydrogeological classification of mining district or working face\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"2.6\", \"cnName\": \"地表水害类型\", \"enName\": \"water hazard due to surface waters\", \"publishTime\": \"2008-07-29\", \"publishYear\": \"2008\", \"implementTime\": \"2009-05-01\", \"ics\": \"73.020\", \"ccs\": \"D 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207714, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地表水害类型\", \"cnNameSearch\": \"地表水害类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"water hazard due to surface waters\", \"wordSearch\": \"water hazard due to surface waters\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采区或工作面受到来自地表河流、湖泊、水库、海洋及其他地表水体威胁或危害的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673243013}"
+}

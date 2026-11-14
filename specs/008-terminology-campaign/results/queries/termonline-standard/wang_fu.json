@@ -1,0 +1,47 @@
+{
+ "key": "wang fu",
+ "term": "Wang Fu",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:18:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "茯茶",
+   "en": "Fu tea",
+   "code": "GB/T 32719.5—2018",
+   "standard": "黑茶 第5部分:茯茶",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "滤波单元",
+   "en": "filter unit",
+   "code": "GB/T 41675—2022",
+   "standard": "航天器电推进技术术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "富春纺",
+   "en": "fu-chun rayon taffeta",
+   "code": "GB/T 26380—2022",
+   "standard": "纺织品  丝绸术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "机制茯茶",
+   "en": "mechanical compressed Fu tea",
+   "code": "GB/T 32719.5—2018",
+   "standard": "黑茶 第5部分:茯茶",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "手筑茯茶",
+   "en": "manual compressed Fu tea",
+   "code": "GB/T 32719.5—2018",
+   "standard": "黑茶 第5部分:茯茶",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 2, \"2018\": 3}, \"sourceStats\": {\"食品技术\": 3, \"航空器和航天器工程\": 1, \"纺织和皮革技术\": 1}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"a14dc2d9b7664f6f9c6edc720ce5ed7d\", \"databaseId\": null, \"standardId\": \"ec3efa6592684136b3a62e787ca48dec\", \"standardCode\": \"GB/T 32719.5—2018\", \"standardName\": \"黑茶 第5部分:茯茶\", \"standardEnName\": \"Dark tea—Part5:Fu tea\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.1\", \"cnName\": \"茯茶\", \"enName\": \"Fu tea\", \"publishTime\": \"2018-02-06\", \"publishYear\": \"2018\", \"implementTime\": \"2018-06-01\", \"ics\": \"67.140.1067\", \"ccs\": \"X55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231029, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"茯茶\", \"cnNameSearch\": \"茯茶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Fu tea\", \"wordSearch\": \"Fu tea\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以黑毛茶为主要原料,经过毛茶筛分、半成品拼配、渥堆、汽蒸、发花、干燥、检验、成品包装等工艺生产的散状黑茶产品或以黑毛茶为主要原料经过毛茶筛分、半成品拼配、渥堆、汽蒸、压制成型、发花、干燥、检验、成品包装等工艺制成的条形、圆形状等各种形状的成品和此成品再改形的黑茶产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81dcbcbe58bc4adda1414c702974b5ed\", \"databaseId\": null, \"standardId\": \"97bd0a898f9f4ca2af855d0377d7eda5\", \"standardCode\": \"GB/T 41675—2022\", \"standardName\": \"航天器电推进技术术语\", \"standardEnName\": \"Terms for spacecraft electric propulsion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.7\", \"cnName\": \"滤波单元\", \"enName\": \"filter unit\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 49.020 \", \"ccs\": \"CCS V 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159180, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"滤波单元\", \"cnNameSearch\": \"滤波单元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"filter unit\", \"wordSearch\": \"filter unit\"}, {\"languageType\": 1, \"word\": \"FU\", \"wordSearch\": \"FU\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于实现电推力器与电源处理单元之间可靠电连接，减缓输出放电电流振荡的设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"60c69128269d49369c9f25458d9cdaed\", \"databaseId\": null, \"standardId\": \"7d0c8a57d70c4912849ca37e99555815\", \"standardCode\": \"GB/T 26380—2022\", \"standardName\": \"纺织品  丝绸术语\", \"standardEnName\": \"Textiles—Terminology for silk\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.1.8.1\", \"cnName\": \"富春纺\", \"enName\": \"fu-chun rayon taffeta\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"59.080.01\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133433, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"富春纺\", \"cnNameSearch\": \"富春纺\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fu-chun rayon taffeta\", \"wordSearch\": \"fu-chun rayon taffeta\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"经丝为再生纤维素长丝、纬丝为再生纤维素短纤纱交织成的平纹织物。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d3d19892863049148d19fb33cbd0ac42\", \"databaseId\": null, \"standardId\": \"ec3efa6592684136b3a62e787ca48dec\", \"standardCode\": \"GB/T 32719.5—2018\", \"standardName\": \"黑茶 第5部分:茯茶\", \"standardEnName\": \"Dark tea—Part5:Fu tea\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.3\", \"cnName\": \"机制茯茶\", \"enName\": \"mechanical compressed Fu tea\", \"publishTime\": \"2018-02-06\", \"publishYear\": \"2018\", \"implementTime\": \"2018-06-01\", \"ics\": \"67.140.1067\", \"ccs\": \"X55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231028, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机制茯茶\", \"cnNameSearch\": \"机制茯茶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanical compressed Fu tea\", \"wordSearch\": \"mechanical compressed Fu tea\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用机器压力机和模具压制成型的茯茶产品\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"49425039b1b84ead9e5d62df0717abcc\", \"databaseId\": null, \"standardId\": \"ec3efa6592684136b3a62e787ca48dec\", \"standardCode\": \"GB/T 32719.5—2018\", \"standardName\": \"黑茶 第5部分:茯茶\", \"standardEnName\": \"Dark tea—Part5:Fu tea\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.2\", \"cnName\": \"手筑茯茶\", \"enName\": \"manual compressed Fu tea\", \"publishTime\": \"2018-02-06\", \"publishYear\": \"2018\", \"implementTime\": \"2018-06-01\", \"ics\": \"67.140.1067\", \"ccs\": \"X55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231030, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"手筑茯茶\", \"cnNameSearch\": \"手筑茯茶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"manual compressed Fu tea\", \"wordSearch\": \"manual compressed Fu tea\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用人工的力量和模具压制成型的茯茶产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673083018}"
+}

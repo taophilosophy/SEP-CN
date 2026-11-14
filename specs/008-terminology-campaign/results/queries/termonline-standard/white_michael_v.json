@@ -1,0 +1,152 @@
+{
+ "key": "white, michael v.",
+ "term": "White, Michael V.",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:28:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=321",
+ "hits": [
+  {
+   "cn": "可调脚",
+   "en": "v",
+   "code": "GB/T 17620—2008",
+   "standard": "带电作业用绝缘硬梯",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 3181—2008",
+   "standard": "漆膜颜色标准",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 9999—1997",
+   "standard": "纺织 纺织材料性能和试验术语 第1部分: 纤维和纱线",
+   "subject": "其它"
+  },
+  {
+   "cn": "白色",
+   "en": "white",
+   "code": "GB/T 3291.3—1997",
+   "standard": "纺织 纺织材料性能和试验术语 第3部分：通用",
+   "subject": null
+  },
+  {
+   "cn": "\"V型\"天窗",
+   "en": "V-shapedmaintenancewindow",
+   "code": "GB/T 50262—2013",
+   "standard": "铁路工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "V形天窗",
+   "en": "V-shapedmaintenancewindow",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "V 型滤池",
+   "en": "V filter",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "V平面",
+   "en": "V-plane",
+   "code": "GB/T 12916—2024",
+   "standard": "船用金属螺旋桨技术条件",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "版本",
+   "en": "version",
+   "code": "GB/T 31866—2023",
+   "standard": "物联网标识体系 物品编码 Ecode",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "总牵伸率",
+   "en": "draft\nV",
+   "code": "GB/T 39028—2020",
+   "standard": "纺织机械与附件罗拉式梳理成网机术语和定义",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "V 带",
+   "en": "V-belt",
+   "code": "GB/T 6931.1—2020",
+   "standard": "带传动 术语 第1部分：基本术语",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "V 形弹簧鞋楦",
+   "en": "V cuts",
+   "code": "GB/T 2703—2017",
+   "standard": "鞋类 术语",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "V-参数",
+   "en": "V-parameter",
+   "code": "GB/T 33523.2—2017",
+   "standard": "产品几何技术规范（GPS） 表面结构区域法 第2部分：术语、定义及表面结构参数 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "炭化",
+   "en": "char(v)",
+   "code": "GB/T 5907.4—2015",
+   "standard": "消防词汇 第4部分:火灾调查",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "V 信号",
+   "en": "V signal",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "V形小裂纹",
+   "en": "V-shapedcrizzle",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "V平面",
+   "en": "V-plane",
+   "code": "GB/T 12916—2010",
+   "standard": "船用金属螺旋桨技术条件",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "V 类",
+   "en": "Class V",
+   "code": "GB/T 7025.2—2008",
+   "standard": "电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "毛计量体积",
+   "en": "）V）grossobservedvolume",
+   "code": "GB/T 19779—2005",
+   "standard": "石油和液体石油产品油量计算  静态计量",
+   "subject": "石油及相关技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 10, \"2023\": 14, \"2022\": 15, \"2021\": 3, \"2020\": 27, \"2019\": 14, \"2018\": 9, \"2017\": 19, \"2016\": 11, \"2015\": 15, \"2014\": 5, \"2013\": 10, \"2012\": 2, \"2011\": 42, \"2010\": 8, \"2009\": 1, \"2008\": 31, \"2007\": 3, \"2006\": 4, \"2005\": 9, \"2001\": 5, \"1998\": 3, \"1997\": 9, \"1996\": 2, \"1988\": 26, \"暂无年份\": 24}, \"sourceStats\": {\"食品技术\": 36, \"采矿和矿产品\": 1, \"道路车辆工程\": 4, \"造船和海上构筑物\": 3, \"造纸技术\": 1, \"货物的包装和调运\": 1, \"试验\": 1, \"计量学和测量、物理现象\": 16, \"能源和热传导工程\": 6, \"综合、术语学、标准化、文献\": 16, \"纺织和皮革技术\": 13, \"石油及相关技术\": 17, \"电气工程\": 11, \"电子学\": 29, \"电信、音频和视频工程\": 8, \"玻璃和陶瓷工业\": 12, \"环保、保健和安全\": 6, \"涂料和颜料工业\": 4, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 5, \"机械系统和通用件\": 10, \"机械制造\": 16, \"木材技术\": 1, \"服装工业\": 1, \"数学、自然科学\": 6, \"成像技术\": 2, \"建筑材料和建筑物\": 9, \"家用和商用设备、文娱、体育\": 5, \"医药卫生技术\": 1, \"化工技术\": 7, \"冶金\": 18, \"农业\": 8, \"其它\": 31, \"信息技术、办公机械\": 10}, \"typeStats\": {\"7\": 321}, \"totalRecords\": 321, \"tmWordList\": [{\"id\": \"3403decfc68a477ea29b19b348bbc00f\", \"databaseId\": null, \"standardId\": \"a8337e75e59c4ad9bbe325ca4280f5fd\", \"standardCode\": \"GB/T 17620—2008\", \"standardName\": \"带电作业用绝缘硬梯\", \"standardEnName\": \"Live working-Rigid ladders of insulating material\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.7\", \"cnName\": \"可调脚\", \"enName\": \"v\", \"publishTime\": \"2008-12-30\", \"publishYear\": \"2008\", \"implementTime\": \"2010-02-01\", \"ics\": \"ICS 13.260\", \"ccs\": \"K 15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171734, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可调脚\", \"cnNameSearch\": \"可调脚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"v\", \"wordSearch\": \"v\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"装在基本段上,可以调节两个梯子脚之间的高度差。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a79c1711568c4d958ee7fef75faa5c21\", \"databaseId\": null, \"standardId\": \"00d4c578af4742babf1a8a068af0777c\", \"standardCode\": \"GB/T 3181—2008\", \"standardName\": \"漆膜颜色标准\", \"standardEnName\": \"Colour standard for paint film\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"3.4\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"2008-06-04\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"87.010\", \"ccs\": \"G 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 528, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于 8.5 的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c43152ca556344cfb16e98b815f3edff\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"4.3\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70714, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T   15608—1995\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"34e28f08116c4abf96e276f017ffd448\", \"databaseId\": null, \"standardId\": \"14f20443c2d4442b975c4c3e90e3d32e\", \"standardCode\": \"GB/T 9999—1997\", \"standardName\": \"纺织 纺织材料性能和试验术语 第1部分: 纤维和纱线\", \"standardEnName\": \"Textiles—Terms of textiles material properties and test—Part 1: Fibre and yarn\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.69\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"1997-10-09\", \"publishYear\": \"1997\", \"implementTime\": \"1998-05-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19983, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"26f23998dc96429a9a72f23898e1e0dc\", \"databaseId\": null, \"standardId\": \"765419bbf3ce4fbd93fb136a3183f1ad\", \"standardCode\": \"GB/T 3291.3—1997\", \"standardName\": \"纺织 纺织材料性能和试验术语 第3部分：通用\", \"standardEnName\": \"Textiles—Terms of textiles material properties and test—Part 3: General\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"2.69\", \"cnName\": \"白色\", \"enName\": \"white\", \"publishTime\": \"1997-10-09\", \"publishYear\": \"1997\", \"implementTime\": \"1998-05-01\", \"ics\": \"59\", \"ccs\": \"W04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 119791, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白色\", \"cnNameSearch\": \"白色\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white\", \"wordSearch\": \"white\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物体明度大于8.5的中性色。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3395f9f4ddb44d6b9c8caad5cdc7e71f\", \"databaseId\": null, \"standardId\": \"2d48f702e69c4fcbb0452d9059aa417c\", \"standardCode\": \"GB/T 50262—2013\", \"standardName\": \"铁路工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.1.31\", \"cnName\": \"\\\"V型\\\"天窗\", \"enName\": \"V-shapedmaintenancewindow\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 47348, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"\\\"V型\\\"天窗\", \"cnNameSearch\": \"\\\"V型\\\"天窗\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-shapedmaintenancewindow\", \"wordSearch\": \"V-shapedmaintenancewindow\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在运行图上按上、下行线分别以列车运行线的斜率形成一段空白时间停电进行维修，一条线在维修时，另一\\n条线仍在组织行车的天窗形式\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"19f7a6dc51fd46f7ae8ac11f66e91257\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.1.23\", \"cnName\": \"V形天窗\", \"enName\": \"V-shapedmaintenancewindow\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 106323, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V形天窗\", \"cnNameSearch\": \"V形天窗\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-shapedmaintenancewindow\", \"wordSearch\": \"V-shapedmaintenancewindow\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"上行、下行只停一条线路，另一条线路正常运行的天窗形式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"be31a0d317394ca0825c6ff49fb547fe\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.81\", \"cnName\": \"V 型滤池\", \"enName\": \"V filter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 233129, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V 型滤池\", \"cnNameSearch\": \"V 型滤池\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V filter\", \"wordSearch\": \"V filter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用较大粒径的均匀级配滤料，滤格两侧设有V 型进水槽，冲洗采用气水冲洗兼有表面扫洗的快滤型滤池。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b249d450713c40ec86019650b54ebdd5\", \"databaseId\": null, \"standardId\": \"135b41528e11498fb0c6c867b9c7393f\", \"standardCode\": \"GB/T 12916—2024\", \"standardName\": \"船用金属螺旋桨技术条件\", \"standardEnName\": \"Specification for marine metallic propeller\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.17\", \"cnName\": \"V平面\", \"enName\": \"V-plane\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-08-01\", \"ics\": \"47.020.20\", \"ccs\": \"U 48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18045, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V平面\", \"cnNameSearch\": \"V平面\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-plane\", \"wordSearch\": \"V-plane\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"垂直于螺旋桨转轴的参考平面。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c1d178768c04e5d9d07ed5c516175cd\", \"databaseId\": null, \"standardId\": \"1c85475bbbfd4d4ba0e0eef1be52d031\", \"standardCode\": \"GB/T 31866—2023\", \"standardName\": \"物联网标识体系 物品编码 Ecode\", \"standardEnName\": \"Identification system for internet of things-Ecode of entity code\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2\", \"cnName\": \"版本\", \"enName\": \"version\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"35.040\", \"ccs\": \"A 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27479, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"版本\", \"cnNameSearch\": \"版本\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"version\", \"wordSearch\": \"version\"}, {\"languageType\": 1, \"word\": \"V\", \"wordSearch\": \"V\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"Ecode编码中,用于区分不同Ecode 编码结构的代码。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd86326fd1ea428e8a290eeab4085eec\", \"databaseId\": null, \"standardId\": \"7df240ce76414d5cafedf6b26e809c86\", \"standardCode\": \"GB/T 39028—2020\", \"standardName\": \"纺织机械与附件罗拉式梳理成网机术语和定义\", \"standardEnName\": \"Textile machinery and accessories—Web roller cards—Terms and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"2.3.1\", \"cnName\": \"总牵伸率\", \"enName\": \"draft\\nV\", \"publishTime\": \"2020-07-21\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"59.120.9959\", \"ccs\": \"W99\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134113, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总牵伸率\", \"cnNameSearch\": \"总牵伸率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"draft\\nV\", \"wordSearch\": \"draft\\nV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"纤网的输出速度v和棉的喂入速度v的比值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"见公式(1)。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c44a3e7e39b742b6aa3824a647a2f9ff\", \"databaseId\": null, \"standardId\": \"9f41932d0da64924b0bb1adb5a1bcb94\", \"standardCode\": \"GB/T 6931.1—2020\", \"standardName\": \"带传动 术语 第1部分：基本术语\", \"standardEnName\": \"Belt drives—Vocabulary—Part 1: Basic vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"5.2\", \"cnName\": \"V 带\", \"enName\": \"V-belt\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"21.220.10\", \"ccs\": \"J 18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164491, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V 带\", \"cnNameSearch\": \"V 带\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-belt\", \"wordSearch\": \"V-belt\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"横截面为等腰梯形或近似为等腰梯形的传动带，其工作面为两侧面。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图 12。</p><p style=\\\"text-align: center;\\\"><img src=\\\"/standard/b6caa144f2e5416a810187235db545bb/82b8adb327def5df77d179a8b3ccd3d.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"width: 50%;\\\"></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d437cda3bf364c25b6c80d4229e554b9\", \"databaseId\": null, \"standardId\": \"4be25068b3a241d0a5bffa58d9f6264f\", \"standardCode\": \"GB/T 2703—2017\", \"standardName\": \"鞋类 术语\", \"standardEnName\": \"Footwear—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.8.57.4.1\", \"cnName\": \"V 形弹簧鞋楦\", \"enName\": \"V cuts\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2018-07-01\", \"ics\": \"61.060\", \"ccs\": \"Y78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78982, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V 形弹簧鞋楦\", \"cnNameSearch\": \"V 形弹簧鞋楦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V cuts\", \"wordSearch\": \"V cuts\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"楦统口中间锯掉一块 V 形的楦体,用弹簧铰链连接后,可以上下滑动便于脱楦的鞋楦。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4579a448ed0d4f3ab2139b383269979a\", \"databaseId\": null, \"standardId\": \"acc7a3ac98e149f398ceba85b4cf9b9b\", \"standardCode\": \"GB/T 33523.2—2017\", \"standardName\": \"产品几何技术规范（GPS） 表面结构区域法 第2部分：术语、定义及表面结构参数 \", \"standardEnName\": \"Geometrical product specifications (GPs) —Surface texture : Areal— Part 2: Terms, definitions and surface texture parameters \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.2.3\", \"cnName\": \"V-参数\", \"enName\": \"V-parameter\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"ICS 17.040.20\", \"ccs\": \"J 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179410, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V-参数\", \"cnNameSearch\": \"V-参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-parameter\", \"wordSearch\": \"V-parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"实体或空体的区域参数或特征参数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bbc830ce86944c1393d1a1f2afbe18fe\", \"databaseId\": null, \"standardId\": \"2d2db912ac97447b80bfcb5ab273effb\", \"standardCode\": \"GB/T 5907.4—2015\", \"standardName\": \"消防词汇 第4部分:火灾调查\", \"standardEnName\": \"Fire protection vocabulary—Part4:Fire investigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"2.1.2\", \"cnName\": \"炭化\", \"enName\": \"char(v)\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-08-01\", \"ics\": \"13.220.0113\", \"ccs\": \"C80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 47119, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"炭化\", \"cnNameSearch\": \"炭化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"char(v)\", \"wordSearch\": \"char(v)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"材料热解或不完全燃烧。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T5907.1—2014\", \"sourceCode\": \"2.47\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db14452d3d0942b6aea3d5b012084fd6\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1505\", \"cnName\": \"V 信号\", \"enName\": \"V signal\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149111, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V 信号\", \"cnNameSearch\": \"V 信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V signal\", \"wordSearch\": \"V signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"PAL 制中，对应 V 轴的、加权的 R-Y 色差信号。<em>E</em><sub>V</sub>=0.877（<em>E</em><sub>R</sub>－<em>E</em><sub>Y</sub>）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5dee299763534dbba6af179463fab8af\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.7.5.74\", \"cnName\": \"V形小裂纹\", \"enName\": \"V-shapedcrizzle\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197729, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V形小裂纹\", \"cnNameSearch\": \"V形小裂纹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-shapedcrizzle\", \"wordSearch\": \"V-shapedcrizzle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有两个方向的小裂纹。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1468b5a079164e47a9533ca750564bca\", \"databaseId\": null, \"standardId\": \"97001dc90ce24ab6867021eff46a0137\", \"standardCode\": \"GB/T 12916—2010\", \"standardName\": \"船用金属螺旋桨技术条件\", \"standardEnName\": \"Specification for marine metallic propeller\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.19\", \"cnName\": \"V平面\", \"enName\": \"V-plane\", \"publishTime\": \"2010-09-02\", \"publishYear\": \"2010\", \"implementTime\": \"2010-12-01\", \"ics\": \"47.020.20\", \"ccs\": \"U 48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 158775, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V平面\", \"cnNameSearch\": \"V平面\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"V-plane\", \"wordSearch\": \"V-plane\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"垂直于螺旋桨转轴的参考平面,即为V平面。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"401525e3b3b74443a85d455daa1a0f37\", \"databaseId\": null, \"standardId\": \"a9654a7237494f3bb9b7577998de904c\", \"standardCode\": \"GB/T 7025.2—2008\", \"standardName\": \"电梯主参数及轿厢、井道、机房的型式与尺寸  第 2 部分：Ⅳ类电梯\", \"standardEnName\": \"Lifts—Main specifications and the dimensions arrangements for its cars, wells and machine rooms—Part 2: Lifts of class Ⅳ\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.2.5\", \"cnName\": \"V 类\", \"enName\": \"Class V\", \"publishTime\": \"2008-12-06\", \"publishYear\": \"2008\", \"implementTime\": \"2009-06-01\", \"ics\": \"91.140.90\", \"ccs\": \"Q 78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173654, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"V 类\", \"cnNameSearch\": \"V 类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Class V\", \"wordSearch\": \"Class V\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"杂物电梯。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"faa8c19636994542ba33d53cd7babfd2\", \"databaseId\": null, \"standardId\": \"c2e6c46ce8a0416e8de5cf8e6ac2bb9d\", \"standardCode\": \"GB/T 19779—2005\", \"standardName\": \"石油和液体石油产品油量计算  静态计量\", \"standardEnName\": \"Petroleum and liquid petroleum products—Calculation of oil quantities—Static measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.7\", \"cnName\": \"毛计量体积\", \"enName\": \"）V）grossobservedvolume\", \"publishTime\": \"2005-05-25\", \"publishYear\": \"2005\", \"implementTime\": \"2005-11-01\", \"ics\": \"75.08075\", \"ccs\": \"E30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 195947, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"毛计量体积\", \"cnNameSearch\": \"毛计量体积\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"）V）grossobservedvolume\", \"wordSearch\": \"）V）grossobservedvolume\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在计量温度下，已扣除游离水的所有油品以及沉淀物和水的总测量体积。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 17}}, \"timestamp\": 1794673715030}"
+}
