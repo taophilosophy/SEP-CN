@@ -74,7 +74,7 @@
 ## 审计与可追溯（宪法 I/II 落地）
 
 * 每件成品可回溯到英文源版本：任务 JSON 的 `version_pin`（pubinfo 日期 + 存档版名 + SHA-256）+ `baseline/entries.json`。
-* 原始物不可变：`en/`、`yuanwen/` 的抓取副本不修改，一切产物可由原始物复算复核。
+* 原始物双账：`en/` 的台账 sha256 永远是**原始网页钉**（不随勘误/重转改写），批准勘误的本地偏离逐条登记 `baseline/divergences.json`，未登记的静默改动由 `divergence.py verify` 门禁红灯；`yuanwen/` 的抓取与转换副本不修改，一切产物可由原始字节复算复核（ADR-0027/0038/0045）。
 * 演示轮的流程问题与裁定记录在 `specs/<feature>/demo-log.md`，作为流程文档修订的输入。
 
 ## 规则自身的维护

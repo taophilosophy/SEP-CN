@@ -177,3 +177,18 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 ## 2026-11-06（melissus 假缺口排除）
 
 * **背景**：LQ 批会话（2026-11-03）曾报「melissus 不在 SUMMARY/baseline/entries.json 1879 条内，intake 缺口移交 specs/004」，一直未登记。本轮核查排除：上游 `plato.stanford.edu/entries/melissus/` 返回 404；上游 contents.html（2026-11-06 抓取，2526 条目链接）大小写不敏感检索 "melissus" 零命中；本地 baseline/entries.json、official-snapshot.json、SUMMARY.md 亦均无。**结论：上游无此独立条目，非缺口，不登记不建任务。**（抓取 2 请求、间隔 ≥5 秒；临时文件已清）
+
+## 2026-11-15（原始物双账语义与分歧账，ADR-0045）
+
+* **背景**：用户报「本地 HTML 与上游在修改后 sha 明显变化，无法作为比较」。核查：en/ 共 22 文件 23 路径为 ADR-0038 四类批准勘误（015 偿还 en 同改等），台账 files[].sha256 未随改、也无人登记；compare.py 快速判定用 yuanwen.source_sha256（重转后已按改后文件重算）、diff 基准用本地副本——两条路被勘误污染，上游未变也报变更。
+* **裁定**：用户批准双账方案——台账 sha 冻结为原始网页钉；本地偏离登记 baseline/divergences.json；仅当上游变化才动本地；比较差异后决定逆向补丁（ADR-0045）。
+* **执行**：
+  1. `tools/divergence.py`（verify/register/patch/list）+ 单测 13 条（check_consistency 纯核验核心）；
+  2. verify 入 check_all 第 10 项（CI 经 check_all --quiet 携带，浅克隆不需历史）；`--deep` 核 base_commit git blob 入 --all；
+  3. compare.py 口径改原始钉：无变更判定用 files[].sha256；有批准分歧回溯 base_commit 原始字节（Windows 绝对路径两处坑已修：relpath 归一与 git show pathspec；并入用户 d3c53d458 网页热修语义）；
+  4. fetch_entry.py：上游未变跳过写盘（unchanged）、有未搬运分歧拒抓、真变才写盘前移钉；
+  5. baseline_audit.py 分歧感知（divergent_registered 不作 hash_fail，clear gate 语义不变）；
+  6. 存量登记 23 件（21 件 015 期 + auriol + moral-responsibility-empirical），全部锚定 d0294236f；bohr-correspondence 两处漏登补入 en-errata.md §四。
+* **验收**：divergence verify 与 --deep 全绿（4386 唯一路径：4364 pristine + 23 divergent + missing 0）；分歧回溯离线验收三件（blame/auriol/object）回溯字节==git 原始字节且≠本地；钉快路径（compare --html 原始字节）报「无变更」；check_all 全绿见收工记录。
+* **过程记录**：本轮遭遇并行会话 sweep 收编（工具链与首版 divergences.json 被卷入「！」提交 e7c40854e 并推送；a56ac2755 为其重做链孤儿）；用户经 GitHub 网页对 compare.py 热修（d3c53d458）；他会覆写事故（34945130b）曾还原 moral 的 en 勘误后又重应用，全程 pin 未被改写，verify 如实报警两次并即时登记收口。
+* **跟进**：逆向补丁自动随迁（hunk 不相交自动、相交转人工）未实现，暂按 divergence.py patch + 人工裁定；分歧账与 en-errata.md 行级对应靠 reason 文字关联；全量回源核对 sha 的回填任务待批（豁免令已登记 spec Assumptions）。

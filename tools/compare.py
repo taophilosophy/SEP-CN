@@ -169,7 +169,9 @@ def map_zh(changes, zh_doc):
 
 def _divergence_for(path, pin):
     """该路径的批准分歧登记（upstream_sha256 须与原始钉相符才算有效）。"""
-    path = path.replace(os.sep, "/")  # Windows repo_path 为反斜杠，账内统一正斜杠
+    if os.path.isabs(path):
+        path = os.path.relpath(path, repo_path("."))
+    path = path.replace(os.sep, "/")  # 账内统一为仓库相对正斜杠路径
     for d in load_divergences().get("divergences", []):
         if d.get("path") == path and (pin is None or d.get("upstream_sha256") == pin):
             return d
@@ -192,7 +194,8 @@ def _pristine_html(slug, rec):
         return None, {"slug": slug,
                       "error": "本地 en/ 副本与原始钉不符且未登记分歧："
                                "先 tools/divergence.py verify/register（ADR-0045）"}
-    r = subprocess.run(["git", "show", "%s:%s" % (d["base_commit"], old_path)],
+    rel = os.path.relpath(old_path, repo_path(".")).replace(os.sep, "/")
+    r = subprocess.run(["git", "show", "%s:%s" % (d["base_commit"], rel)],
                        cwd=repo_path("."), capture_output=True)
     if r.returncode != 0:
         return None, {"slug": slug,
