@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-14 15:06（UTC）
+生成时间：2026-11-14 23:51（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1872|
 |已建任务|1196|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|224|
-|在途（drafted 起、done 前）|351|
+|已完成（done）|219|
+|在途（drafted 起、done 前）|356|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,23 +23,23 @@
 |状态|数量|
 |---|---|
 |pending|621|
-|cleared|153|
-|s2.5_checked|198|
-|done|224|
+|cleared|162|
+|s2.5_checked|194|
+|done|219|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|36|
-|B|62|62|62|9|
-|C|171|171|171|18|
+|A|160|160|160|35|
+|B|63|63|62|9|
+|C|171|171|171|17|
 |D|92|92|92|12|
 |E|99|99|99|15|
 |F|96|96|96|4|
-|G|49|49|49|9|
+|G|49|49|49|8|
 |H|61|61|61|11|
-|I|75|75|75|29|
+|I|75|75|75|28|
 |J|38|38|38|3|
 |K|36|36|36|8|
 |L|144|144|30|16|
@@ -49,8 +49,8 @@
 |P|164|164|12|5|
 |Q|33|33|33|3|
 |R|85|85|85|9|
-|S|160|160|18|13|
-|T|70|70|7|2|
+|S|160|160|18|12|
+|T|69|69|7|2|
 |U|4|4|2|1|
 |V|15|15|15|0|
 |W|36|36|5|1|
@@ -66,6 +66,7 @@
 |abhidharma|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abrabanel|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abraham-daud|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|academic-freedom|retranslate|cleared|task_ops 2026-11-14|
 |action-perception|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |addams-jane|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |adorno|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -111,7 +112,7 @@
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
-|behaviorism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|behaviorism|retranslate|cleared|task_ops 2026-11-14|
 |belief|retranslate|cleared|task_ops 2026-11-01|
 |bell-theorem|retranslate|cleared|task_ops 2026-11-01|
 |benjamin|retranslate|cleared|task_ops 2026-11-01|
@@ -163,6 +164,7 @@
 |chinese-phil-medicine|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |chinese-phil-science|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |cloning|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|closure-epistemic|retranslate|cleared|task_ops 2026-11-14|
 |collingwood-aesthetics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |conceptual-art|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |condemnation|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -198,7 +200,7 @@
 |elisabeth-bohemia|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |emerson|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |emilie-du-chatelet|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|emotion-Christian-tradition|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|emotion-Christian-tradition|retranslate|cleared|task_ops 2026-11-14|
 |epistemology-language-tibetan|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |epistemology-latin-america|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |epsilon-calculus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -220,6 +222,7 @@
 |gene|retranslate|cleared|EH-main-20261106 2026-11-06|
 |generics|retranslate|cleared|task_ops 2026-11-01|
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
+|genetics|retranslate|cleared|task_ops 2026-11-14|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |gianfrancesco-pico|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -269,6 +272,7 @@
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |israeli|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|it-moral-values|retranslate|cleared|task_ops 2026-11-14|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |james-mill|retranslate|cleared|task_ops 2026-11-10|
@@ -311,7 +315,7 @@
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
 |kant-hume-morality|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |kant-judgment|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|kant-leibniz|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|kant-leibniz|retranslate|cleared|task_ops 2026-11-14|
 |kant-mind|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
 |kant-religion|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -343,7 +347,7 @@
 |leibniz-logic-influence|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |leibniz-mind|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |locke-on-medicine|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|logic-provability|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|logic-provability|retranslate|cleared|task_ops 2026-11-14|
 |lorenzo-valla|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |lvov-warsaw|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |mandeville|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -380,6 +384,7 @@
 |reism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |repugnant-conclusion|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |ricoeur|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|saadya|retranslate|cleared|task_ops 2026-11-14|
 |schlegel|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |sikh-philosophy|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
