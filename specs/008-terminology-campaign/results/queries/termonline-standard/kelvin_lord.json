@@ -1,0 +1,26 @@
+{
+ "key": "kelvin, lord",
+ "term": "Kelvin, Lord",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:50:06+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "开尔文-亥姆霍兹不稳定性",
+   "en": "Kelvin-Helmholtzinstability",
+   "code": "GB/T 4960.9—2013",
+   "standard": "核科学技术术语第9部分:磁约束核聚变",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "凯尔文电桥",
+   "en": "<em>Kelvin</em> bridge",
+   "code": "GB/T 3048.2—2007",
+   "standard": "电线电缆电性能试验方法第2部分：金属材料电阻率试验",
+   "subject": "电气工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1, \"2007\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1, \"电气工程\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"e3853ca80680491595be132c9aeac0f5\", \"databaseId\": null, \"standardId\": \"e2ce134cac2f4a91a5f1355425b8a4ac\", \"standardCode\": \"GB/T 4960.9—2013\", \"standardName\": \"核科学技术术语第9部分:磁约束核聚变\", \"standardEnName\": \"Glossary of nuclear science and technology terms-Part 9: Magnetic confinement fusion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.1.146\", \"cnName\": \"开尔文-亥姆霍兹不稳定性\", \"enName\": \"Kelvin-Helmholtzinstability\", \"publishTime\": \"2013-02-07\", \"publishYear\": \"2013\", \"implementTime\": \"2013-07-01\", \"ics\": \"27.120.0127\", \"ccs\": \"F40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 222079, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"开尔文-亥姆霍兹不稳定性\", \"cnNameSearch\": \"开尔文-亥姆霍兹不稳定性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Kelvin-Helmholtzinstability\", \"wordSearch\": \"Kelvin-Helmholtzinstability\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在具有不同速度流体间的界面上出现的静电宏观不稳定性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ba1031b2a4a64f50bd325e0e5c45086d\", \"databaseId\": null, \"standardId\": \"3d7c8a42f0c140a0a66ecf8336c5e8f5\", \"standardCode\": \"GB/T 3048.2—2007\", \"standardName\": \"电线电缆电性能试验方法第2部分：金属材料电阻率试验\", \"standardEnName\": \"Test methods for electrical properties of electric cables and wires—Part 2: Test of electrical resistivity of metallic materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.6\", \"cnName\": \"凯尔文电桥\", \"enName\": \"<em>Kelvin</em> bridge\", \"publishTime\": \"2007-12-03\", \"publishYear\": \"2007\", \"implementTime\": \"2008-05-01\", \"ics\": \"29.060\", \"ccs\": \"K13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66151, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"凯尔文电桥\", \"cnNameSearch\": \"凯尔文电桥\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Kelvin</em> bridge\", \"wordSearch\": \"<em>Kelvin</em> bridge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"凯尔文电桥即双臂电桥，测量电阻时有四个触点，称为四点法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678602392}"
+}
