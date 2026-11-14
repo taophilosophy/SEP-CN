@@ -1,0 +1,110 @@
+{
+ "key": "whitehead, alfred north / alfred north whitehead",
+ "term": "Whitehead, Alfred North",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:28:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=14",
+ "hits": [
+  {
+   "cn": "北",
+   "en": "north",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "北",
+   "en": "north",
+   "code": "GB/T 4099—2005",
+   "standard": "航海常用术语及其代（符）号",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "格网北",
+   "en": "grid north",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "罗北",
+   "en": "compass north",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "磁北",
+   "en": "magnetic north",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "真北",
+   "en": "true north",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "西北",
+   "en": "north west",
+   "code": "GB/T 4099—2005",
+   "standard": "航海常用术语及其代（符）号",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "东北",
+   "en": "north east",
+   "code": "GB/T 4099—2005",
+   "standard": "航海常用术语及其代（符）号",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "北方位标",
+   "en": "north cardinal mark",
+   "code": "GB/T 17765—2021",
+   "standard": "航标术语 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "北空昼光",
+   "en": "north sky light",
+   "code": "GB/T 3181—2008",
+   "standard": "漆膜颜色标准",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "北空昼光",
+   "en": "north sky light",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "北空昼光",
+   "en": "north sky light",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "北半球半圆盘图",
+   "en": "north-hemisphere half disc image",
+   "code": "GB/T 39094—2020",
+   "standard": "中国气象卫星名词术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "静电屏蔽层",
+   "en": "electrostatic screen",
+   "code": "GB/T 25444.6—2023",
+   "standard": "移动式和固定式近海设施电气装置第6部分:安装",
+   "subject": "造船和海上构筑物"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2021\": 1, \"2020\": 1, \"2017\": 5, \"2008\": 1, \"2006\": 1, \"2005\": 3, \"2001\": 1}, \"sourceStats\": {\"造船和海上构筑物\": 1, \"计量学和测量、物理现象\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"电信、音频和视频工程\": 5, \"涂料和颜料工业\": 1, \"数学、自然科学\": 1, \"化工技术\": 1}, \"typeStats\": {\"7\": 14}, \"totalRecords\": 14, \"tmWordList\": [{\"id\": \"5c55ff1ab1c643c5a69087b497216b1e\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.18\", \"cnName\": \"北\", \"enName\": \"north\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166290, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北\", \"cnNameSearch\": \"北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north\", \"wordSearch\": \"north\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"本地子午面与真水平面的交线指向地理北极的方向。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"603659dd05494ff6bdcb7b91a53855ae\", \"databaseId\": null, \"standardId\": \"a2ddfb542660480a8db3eef598c056cc\", \"standardCode\": \"GB/T 4099—2005\", \"standardName\": \"航海常用术语及其代（符）号\", \"standardEnName\": \"Navigation terms and symbols in common use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2.1\", \"cnName\": \"北\", \"enName\": \"north\", \"publishTime\": \"2005-10-07\", \"publishYear\": \"2005\", \"implementTime\": \"2006-04-01\", \"ics\": \"03. 220\", \"ccs\": \"R 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168003, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北\", \"cnNameSearch\": \"北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north\", \"wordSearch\": \"north\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测者子午面与其地面真地平平面的交线指向地理北极的方向。代号：N。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e52d155fc6514b78a9ef671c47f0bf1b\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.21\", \"cnName\": \"格网北\", \"enName\": \"grid north\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 165918, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"格网北\", \"cnNameSearch\": \"格网北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"grid north\", \"wordSearch\": \"grid north\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"网格北\", \"cnNameSearch\": \"网格北\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"迭加在航图上的直角坐标系相联系的规定的基准方向。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9adb85861b56424e8baf9a79febfb5a8\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.22\", \"cnName\": \"罗北\", \"enName\": \"compass north\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166143, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"罗北\", \"cnNameSearch\": \"罗北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"compass north\", \"wordSearch\": \"compass north\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"磁罗经（磁罗盘）指示的北向。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c58843eb62264b93bc2974faea7bc376\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.20\", \"cnName\": \"磁北\", \"enName\": \"magnetic north\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166202, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"磁北\", \"cnNameSearch\": \"磁北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"magnetic north\", \"wordSearch\": \"magnetic north\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地球磁力线水平分量的指向。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1dd4a7483cd54c4981aea818168f027a\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.19\", \"cnName\": \"真北\", \"enName\": \"true north\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166228, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真北\", \"cnNameSearch\": \"真北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"true north\", \"wordSearch\": \"true north\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地理北极的方向。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a698222ff29a4e2c8f04365d88e0422f\", \"databaseId\": null, \"standardId\": \"a2ddfb542660480a8db3eef598c056cc\", \"standardCode\": \"GB/T 4099—2005\", \"standardName\": \"航海常用术语及其代（符）号\", \"standardEnName\": \"Navigation terms and symbols in common use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2.7\", \"cnName\": \"西北\", \"enName\": \"north west\", \"publishTime\": \"2005-10-07\", \"publishYear\": \"2005\", \"implementTime\": \"2006-04-01\", \"ics\": \"03. 220\", \"ccs\": \"R 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 167915, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"西北\", \"cnNameSearch\": \"西北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north west\", \"wordSearch\": \"north west\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"代号：NW。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f79c5cce8ed94fa1a0750ff1c7d37677\", \"databaseId\": null, \"standardId\": \"a2ddfb542660480a8db3eef598c056cc\", \"standardCode\": \"GB/T 4099—2005\", \"standardName\": \"航海常用术语及其代（符）号\", \"standardEnName\": \"Navigation terms and symbols in common use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2.5\", \"cnName\": \"东北\", \"enName\": \"north east\", \"publishTime\": \"2005-10-07\", \"publishYear\": \"2005\", \"implementTime\": \"2006-04-01\", \"ics\": \"03. 220\", \"ccs\": \"R 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 167953, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"东北\", \"cnNameSearch\": \"东北\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north east\", \"wordSearch\": \"north east\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"代号：NE。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11ed253a149247d1a6ae3430184f1d18\", \"databaseId\": null, \"standardId\": \"198907ade20f489c8eae6d3670e63e1d\", \"standardCode\": \"GB/T 17765—2021\", \"standardName\": \"航标术语 \", \"standardEnName\": \"Terminology of aids to navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.6.9.1\", \"cnName\": \"北方位标\", \"enName\": \"north cardinal mark\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"03.220.40\", \"ccs\": \"R 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 25304, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北方位标\", \"cnNameSearch\": \"北方位标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north cardinal mark\", \"wordSearch\": \"north cardinal mark\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设在危险物或危险区北方的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0ca2e963a61b4323a3c8caa2685de341\", \"databaseId\": null, \"standardId\": \"00d4c578af4742babf1a8a068af0777c\", \"standardCode\": \"GB/T 3181—2008\", \"standardName\": \"漆膜颜色标准\", \"standardEnName\": \"Colour standard for paint film\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"3.28\", \"cnName\": \"北空昼光\", \"enName\": \"north sky light\", \"publishTime\": \"2008-06-04\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"87.010\", \"ccs\": \"G 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 520, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北空昼光\", \"cnNameSearch\": \"北空昼光\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north sky light\", \"wordSearch\": \"north sky light\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"从日出 3h 后到日落 3h 前，避开太阳光直射的从北窗看的天空光。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35797b7842054dc8b8dcf4a6c4bce621\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"5.48\", \"cnName\": \"北空昼光\", \"enName\": \"north sky light\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186662, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北空昼光\", \"cnNameSearch\": \"北空昼光\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north sky light\", \"wordSearch\": \"north sky light\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"从日出 3 h 后到日落 3 h 前，避开太阳光直射的从北窗看的天空光。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 5698—2001\", \"sourceCode\": \"6.3\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f6728a22e37b4a81980b05fc45f84e4a\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"6.3\", \"cnName\": \"北空昼光\", \"enName\": \"north sky light\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70625, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北空昼光\", \"cnNameSearch\": \"北空昼光\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north sky light\", \"wordSearch\": \"north sky light\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从日出3小时后到日落3小时前，避开太阳光直射的从北窗看的天空光。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a14e452fe6924d3b9f52d909235bfc77\", \"databaseId\": null, \"standardId\": \"de9cbe70cbda43479c6d8a55ea2cfa54\", \"standardCode\": \"GB/T 39094—2020\", \"standardName\": \"中国气象卫星名词术语\", \"standardEnName\": \"Terminologies for the Chinese meteorological satellites\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"5.1.5\", \"cnName\": \"北半球半圆盘图\", \"enName\": \"north-hemisphere half disc image\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"07.06007\", \"ccs\": \"A47\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218118, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"北半球半圆盘图\", \"cnNameSearch\": \"北半球半圆盘图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"north-hemisphere half disc image\", \"wordSearch\": \"north-hemisphere half disc image\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"静止气象卫星对北半球进行半球扫描所生成的图像数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"090753729ca04743b7f3854a864a0239\", \"databaseId\": null, \"standardId\": \"3e2d168ab96c44698b4683410c3319b5\", \"standardCode\": \"GB/T 25444.6—2023\", \"standardName\": \"移动式和固定式近海设施电气装置第6部分:安装\", \"standardEnName\": \"Mobile and fixed offshore units-Electrical installations-Part 6: Installation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.3\", \"cnName\": \"静电屏蔽层\", \"enName\": \"electrostatic screen\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"ICS 47.020.60\", \"ccs\": \"CCS U 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66750, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"静电屏蔽层\", \"cnNameSearch\": \"静电屏蔽层\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electrostatic screen\", \"wordSearch\": \"electrostatic screen\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"静电屏蔽套(北美采用)\", \"cnNameSearch\": \"静电屏蔽套(北美采用)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electrostatic shield(North America)\", \"wordSearch\": \"electrostatic shield(North America)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电缆周围的接地金属层,将电缆产生的电场限制在单芯、对绞线、三芯线或四芯线电缆内,和/或保护单芯、对绞线、三芯线或四芯线不受外部影响。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>金属护套、金属箔、编织物、铠装和接地同心导体也作为静电屏蔽层,前提为它们有效接地。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"IEC 60092-350:2020\", \"sourceCode\": \"3.9\", \"modifyStatus\": 1, \"modifyContent\": \"在本条目的注释中,“接地”一词已删除。\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794673723051}"
+}
