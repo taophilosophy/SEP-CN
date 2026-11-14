@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T22:30:27Z",
+  "updated_at": "2026-11-14T22:59:04Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1241,6 +1241,36 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：doi 0.1093、Bricke 题名窜名、Benthem、Föster→Förster、radcliffe 斜体跨引号、robinson 年份重出与 Surprenant、H 段括注（ADR-0038 ①）",
       "registered_at": "2026-11-14T22:30:27Z"
+    },
+    {
+      "slug": "kant-reason",
+      "path": "en/kant-reason/index.html",
+      "upstream_sha256": "7acafcd15a4a24f271c0cbbb2fcb8b4650dea2eb8d1f36b2534bc642658b9105",
+      "local_sha256": "3c4cb35b7ba30d818f6a2694f49286f8a47f116176e2fbbcaa7514addad5967c",
+      "bytes": {
+        "upstream": 125839,
+        "local": 125830
+      },
+      "commit": "17e83d126",
+      "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：møller 斜体提前收束、rescher 题名拆斜体（ADR-0038 ①）",
+      "registered_at": "2026-11-14T22:59:03Z"
+    },
+    {
+      "slug": "kant-reason",
+      "path": "en/kant-reason/notes.html",
+      "upstream_sha256": "94e45360f8385de210b402fb486780ecc311a3a0ba09416e803ca6e7a555ab25",
+      "local_sha256": "80066e3169661c9ff280562cfe38f7be394e5cd785fbfcd365d7c242d6a8aff2",
+      "bytes": {
+        "upstream": 30739,
+        "local": 30735
+      },
+      "commit": "17e83d126",
+      "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：注 35 作者遗留 (?) 占位（ADR-0038 ①）",
+      "registered_at": "2026-11-14T22:59:04Z"
     }
   ],
   "tombstones": [
