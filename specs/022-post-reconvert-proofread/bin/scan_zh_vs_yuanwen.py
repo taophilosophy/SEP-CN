@@ -250,7 +250,6 @@ def scan_entry(letter, slug, calib=False):
 
 
 def main(argv):
-    args = [a for a in argv if not a.startswith('--')]
     calib = '--calib' in argv
     limit = None
     letters = None
@@ -261,6 +260,8 @@ def main(argv):
     out = None
     if '--out' in argv:
         out = argv[argv.index('--out') + 1]
+    skip_vals = {v for v in (out,) if v}
+    args = [a for a in argv if not a.startswith("-") and a not in skip_vals]
 
     targets = []
     if calib:

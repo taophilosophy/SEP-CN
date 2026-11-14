@@ -38,7 +38,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CJK = re.compile(r'[\u4e00-\u9fff]')
 EN_WORD = re.compile(r'[A-Za-z]{3,}')
 IMG_MD = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)[^)]*\)')
-TABLE_LINE = re.compile(r'^(?:>\s?)?\|')
+# 表行：行首管道；引块（> ）与列表项内容列缩进（018 转换器 li 内表形态）均认
+TABLE_LINE = re.compile(r'^(?:>\s?)?[ \t]*\|')
 SEP_CELL = re.compile(r'^:?-+:?$')
 HARD_RULES = ('img-base', 'img-resolve')
 
@@ -50,7 +51,8 @@ def strip_code_math(cell):
 
 
 def split_row(line):
-    body = re.sub(r'^>\s?', '', line).strip()
+    body = line.strip()
+    body = re.sub(r'^>\s?', '', body).strip()
     body = body[1:] if body.startswith('|') else body
     body = body[:-1] if body.endswith('|') else body
     # 按未转义管道切分（单元格内 `\|` 是字面管道，不切）

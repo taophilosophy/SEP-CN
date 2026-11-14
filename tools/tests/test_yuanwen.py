@@ -317,8 +317,8 @@ class TestNestedTables20261114(unittest.TestCase):
         text = '\n'.join(ctx.out)
         self.assertIn('<table>', text)
         self.assertNotIn('（嵌套表：', text)
-        # 内层数学定界符随行内约定转 $（消毒三步之一）
-        self.assertIn('<td>\\(z\\)</td>', text) or self.assertIn('<td>$z$</td>', text)
+        # 内层数学定界符随行内约定转 $（消毒步骤之一）
+        self.assertIn('$z$', text)
 
     def test_nested_table_sanitized(self):
         # 消毒：font 剥壳保内容；\(\)→$；|→&#124;；压成单行
