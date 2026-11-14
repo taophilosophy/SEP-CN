@@ -380,7 +380,7 @@
 - 乔治·W. 布什，2002，[国情咨文](https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/20020129-11.html)，2002 年 1 月 29 日。
 - 罗纳德·里根，1983，[“邪恶帝国”演说](https://nationalcenter.org/ncppr/2001/11/04/ronal-reagans-evil-empire-speech-to-the-national-association-of-evangelicals-1983/)，对全国福音派协会所作，1983 年 3 月 8 日。
 - [《哲学辞典》](https://web.archive.org/web/20210415085544/http://www.philosophicallexicon.com/)（*The Philosophical Lexicon*），丹尼尔·丹尼特与阿斯比约恩·斯特格利希-彼得森编。
-- [“坎特伯雷的安瑟伦（1033–1109）”](https://iep.utm.edu/anselm/)，载《互联网哲学百科全书》。
+- [“坎特伯雷的安瑟伦（1033—1109）”](https://iep.utm.edu/anselm/)，载《互联网哲学百科全书》。
 
 ## 相关词条
 

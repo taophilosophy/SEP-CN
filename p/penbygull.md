@@ -6,7 +6,7 @@
 
 ## 1 生平与著作
 
-威廉·彭比尔（又拼 Penbegyll）的生平与著作资料甚少。他出身埃克塞特（Exeter）教区，在牛津求学，1399 年成为埃克塞特学院评议员（fellow），1406–07 年任院长（rector）；1410 年 2 月 28 日获准在巴斯与韦尔斯（Bath and Wells）教区讲道。他大约于 1420 年在牛津去世。据 Emden 1957–59 所载，他撰有下述逻辑论著：《论共相》（*De universalibus*，On Universals）、《存在的划分》（*Divisio entis*，The Division of Being）与《波菲利〈导论〉评注》（*Super Porphyrii Isagogen*，On Porphyry's Isagoge）。
+威廉·彭比尔（又拼 Penbegyll）的生平与著作资料甚少。他出身埃克塞特（Exeter）教区，在牛津求学，1399 年成为埃克塞特学院评议员（fellow），1406—07 年任院长（rector）；1410 年 2 月 28 日获准在巴斯与韦尔斯（Bath and Wells）教区讲道。他大约于 1420 年在牛津去世。据 Emden 1957—59 所载，他撰有下述逻辑论著：《论共相》（*De universalibus*，On Universals）、《存在的划分》（*Divisio entis*，The Division of Being）与《波菲利〈导论〉评注》（*Super Porphyrii Isagogen*，On Porphyry's Isagoge）。
 
 论共相的这部著作约 30–35 个印刷页，篇幅虽短，却有相当的哲学深度。约一半篇幅与罗杰·惠尔普代尔（Roger Whelpdale，卒于 1423）的《论共相》（*Tractatus de universalibus*）共用同一批文本材料，但两者的学说旨趣迥异：彭比尔的论著旨在讨论并捍卫威克里夫关于共相与谓述的论题，这种目的在惠尔普代尔那里似乎全然缺席。此外，惠尔普代尔的论著中不见那套特殊的同一性与区分理论——它清晰地呈现在彭比尔的《论共相》（*De universalibus*）里，夏普（Scharpe）的《共相问题》（*Quaestio super universalia*）与米尔弗利（Milverley）的《五共相纲要》（*Compendium de quinque universalibus*）也曾提及。尽管如此，两者都紧随威克里夫在《斥共相通论之误》（*Purgans errores circa universalia in communi*）中示现的教导：把谓述分为形式的（*formalis*）、依本质的（*secundum essentiam*）与因果的（*secundum causam*）三类，并视之为互斥。
 

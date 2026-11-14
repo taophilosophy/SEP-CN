@@ -398,7 +398,7 @@
 ## 其他网络资源
 
 * Adamson, Peter, 2016, “[Masters of the University: ‘Latin Averroism’](https://historyofphilosophy.net/latin-averroism)”, in *History of Philosophy without any gaps*, episode 251, King’s College London.
-* Hillier, H. Chad, “[Ibn Rushd (Averroes) (1126–1198)](https://www.iep.utm.edu/ibnrushd/)”, in *Internet Encyclopedia of Philosophy*
+* Hillier, H. Chad, “[Ibn Rushd (Averroes) (1126—1198)](https://www.iep.utm.edu/ibnrushd/)”, in *Internet Encyclopedia of Philosophy*
 * Horovitz, S., 1905, [“Albalag, Isaac”](http://www.jewishencyclopedia.com/articles/1069-albalag-isaac), *Jewish Encyclopedia* and also the for [Isaac Albag within it](http://www.jewishencyclopedia.com/search?utf8=%C3%A2%C3%BA%C3%AC&keywords=Isaac+Albalag&commit=search).
 
 ## 相关词条
