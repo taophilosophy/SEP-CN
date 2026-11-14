@@ -3769,8 +3769,8 @@
       "files": [
         {
           "path": "en/albert-great/index.html",
-          "sha256": "46751ce67171aeb31e77f4bceaf183855eaa3ee43ab95a207a5b4daf6db6adb4",
-          "bytes": 97281,
+          "sha256": "8b5e093a10e4a4fb83e93a7d22e7d228840c578c03709abe79b24551461c0181",
+          "bytes": 97265,
           "kind": "main"
         }
       ],
@@ -41414,13 +41414,13 @@
       "files": [
         {
           "path": "en/envy/index.html",
-          "sha256": "902392c40a60da4415f020e5fb827f529de5f8171225019b5cb866b2756d036f",
-          "bytes": 56840,
+          "sha256": "05897e8966d98b6ca458997c2a7ddb9b197718dd12db7d34e002ea5b3f6c756c",
+          "bytes": 56837,
           "kind": "main"
         },
         {
           "path": "en/envy/notes.html",
-          "sha256": "d9e64f8f6fcb55a968feb6dffa0612bf0e80a6e25c5c4120d9aa5427a16060f7",
+          "sha256": "8e1fa154068fa6d50995525e4d4b38ca68846d8a1b3ceb47115c0e1c38ccf834",
           "bytes": 22066,
           "kind": "notes"
         }
@@ -80228,9 +80228,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/l/leucippus.md",
-        "sha256": "9713703b20ce3f65ebaba2bc610376d83a3fe52050b705bf891d055f2a7dc4e1",
-        "source_sha256": "a35765e3d545787be7cb397f8dc85947f97fa84f38cdd807e26af88bf546c2b8",
-        "converted_at": "2026-11-14T03:37:11Z",
+        "sha256": "498f351eabc43da9f4ef8408ab8a8773a1569002af05d78161a479e94c0f84e6",
+        "source_sha256": "f2645cbc4e1fce210c60fbe66dd45d97f5c86ecb607a349c50a68945a12f10ca",
+        "converted_at": "2026-11-14T08:31:55Z",
         "cite_markers": 3,
         "cite_defs": 18,
         "supplements": [],
@@ -136002,8 +136002,8 @@
       "files": [
         {
           "path": "en/sophismata/index.html",
-          "sha256": "058fdf83933fdcd470ae0ab853db58d3e1fffb6b92c494c7a1a35de1980588d5",
-          "bytes": 56048,
+          "sha256": "9a8cc3a928a691b507f594c17a7ff2d688a1937122b961031bd8a028c1ba1706",
+          "bytes": 56049,
           "kind": "main"
         }
       ],
@@ -151398,5 +151398,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T08:27:11Z"
+  "updated_at": "2026-11-14T08:31:55Z"
 }
