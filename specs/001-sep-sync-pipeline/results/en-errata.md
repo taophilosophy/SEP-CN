@@ -189,3 +189,8 @@
 | sovereignty | `2nd. edition`（pogge-2008） | `2nd edition` | 句点错位（①） |
 | bohr-correspondence | hassoun-1989 `correspondence principle,”,` | 去多余逗号 | 双标点（①） |
 | bohr-correspondence | `quantentheorische Umdeutung` | `quantentheoretische` | 德语正字（①） |
+| auriol | friedman-1999 `C.A. Rietzel` | `C.A. Reitzel` | 出版者正名（①） |
+| auriol | goris-2002 `Peter of Oriel` | `Peter of Auriol` | 人名正名（①） |
+| auriol | `doi.org:10.1007/…`（martin-2026） | `doi:10.1007/…` | doi 前缀格式（①） |
+| auriol | `The Stanford Encyclopedia Philosophy`（两条） | `…of Philosophy` | 缺 of（②） |
+| auriol | pasnau-2008 `P. Kärkkäin` | `Kärkkäinen` | 编者正名（①） |
