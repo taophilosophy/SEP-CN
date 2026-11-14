@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T18:10:19Z",
+  "updated_at": "2026-11-14T18:17:56Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -316,6 +316,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：强标签包裹页码、年份 1999→1998 同页矛盾（②）",
       "registered_at": "2026-11-14T18:10:19Z"
+    },
+    {
+      "slug": "auriol",
+      "path": "en/auriol/index.html",
+      "upstream_sha256": "1f773a25e3330244e00df27d52acf4fce91d7fb16dd9bb0a039c01578a1be1ff",
+      "local_sha256": "9672d28c9d3ecf20b82aafb72ca15943bda1eaac0fcbc0fb41fa95d4b4a95496",
+      "bytes": {
+        "upstream": 83815,
+        "local": 83820
+      },
+      "commit": "a086d580f1451009eb68ec02b4003a95a21b97e3",
+      "subject": "……",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "auriol 勘误（en 同改，登记册见 en-errata.md；他会 028 试点批）",
+      "registered_at": "2026-11-14T18:17:56Z"
     }
   ]
 }
