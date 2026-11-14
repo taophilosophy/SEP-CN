@@ -16,7 +16,6 @@ import glob
 import os
 import re
 import sys
-import unicodedata
 
 _enc = getattr(sys.stdout, 'encoding', None)
 if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
@@ -28,13 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 from tools import check_terms  # noqa: E402
-
-
-def fold(text):
-    """登记/匹配统一折叠键：NFD 剥组合记号 + casefold + 空白归一。"""
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
+from tools.register_lib import norm_key as fold, person_path, term_path  # noqa: E402
 
 
 def en_pattern(en_key):
@@ -74,8 +67,7 @@ def main(argv=None):
     docs = argv or nonstub_docs()
     # 登记册两表 → [(fold(原文), 变体集, 原文, 表)]
     entries = []
-    for path, label in ((os.path.join(ROOT, 'shu-yu-biao.md'), '术语'),
-                        (os.path.join(ROOT, 'ren-ming-biao.md'), '人名')):
+    for path, label in ((term_path(), '术语'), (person_path(), '人名')):
         rows, _ = check_terms.parse_registry(path)
         for term, trans, first_seen, basis, row_date, lineno in rows:
             variants = check_terms.translations(trans)

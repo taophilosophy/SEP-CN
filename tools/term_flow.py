@@ -25,7 +25,6 @@ import json
 import os
 import re
 import sys
-import unicodedata
 
 _enc = getattr(sys.stdout, 'encoding', None)
 if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
@@ -36,22 +35,16 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
-REG = os.path.join(ROOT, 'shu-yu-biao.md')
-REN = os.path.join(ROOT, 'ren-ming-biao.md')
+from tools.register_lib import norm_key, person_path, term_path  # noqa: E402
+
+REG = term_path()
+REN = person_path()
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 
 
 def key_of(line):
     cell = line.strip().strip('|').split('|')[0].strip()
-    s = unicodedata.normalize('NFD', cell.replace('*', '').strip())
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
-
-
-def norm_key(text):
-    sys.path.insert(0, ROOT)
-    from tools.cnki_query import norm_key as nk
-    return nk(text)
+    return norm_key(cell)
 
 
 def build_row(spec, date):

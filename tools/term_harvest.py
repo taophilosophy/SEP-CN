@@ -34,12 +34,13 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
+from tools.register_lib import norm_key, person_path, term_path  # noqa: E402
 CORPUS = os.path.join(ROOT, 'yuanwen')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
-REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
-REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
+REGISTRY = term_path()
+REGISTRY2 = person_path()
 LEGACY_POOL = os.path.join(ROOT, 'tasks', 'term-candidates.json')
 
 STOPWORDS = set('''the a an and or of to in on for with as by at from is are was
@@ -126,14 +127,6 @@ TOPIC_GENERIC = {
     'acknowledgments', 'primary literature', 'secondary literature',
     'glossary', 'see also', 'historical dictionary',
 }
-
-
-def norm_key(text):
-    """候选键：剥斜体与空白、变音符折叠、casefold（ADR-0013 同人归并）。"""
-    import unicodedata
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
 
 
 def clean_phrase(text):
