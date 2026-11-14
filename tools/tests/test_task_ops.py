@@ -293,7 +293,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-u4", "s24", actor="t", evidence="e")
         task_ops.advance("test-u4", "audit", actor="rev", evidence="e")
         for step in ("s3", "r1", "r2", "r3"):
-            task_ops.advance("test-u4", step, actor="t", evidence="e")
+            task_ops.advance("test-u4", step, actor="rev", evidence="e")
         task_ops.advance("test-u4", "done", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.reopen("test-u4", "上游修订", actor="t", upstream_sync=True)
