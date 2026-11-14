@@ -61,3 +61,6 @@
 | leibniz-logic-influence | 正文 `(Erdmann 1840, p. 130)`，文献区无 1840 条（1840 条实为 Trendelenburg《Logische Untersuchungen》） | `(Leibniz 1839/40, p. 130)` | 埃尔德曼版著录作 Leibniz 1839/40，同页自相矛盾（②） |
 | scholz | Neurath 1981 条被拆成两条（一条缺篇名与编者） | 合并为 `Gesammelte philosophische und methodologische Schriften, Vol. 2, ed. by R. Haller and H. Rutte` | 结构错位（③） |
 | scholz | `Wissenschaften</em>d,; 106` | `Wissenschaften</em>, 106` | HTML 实体错位（①） |
+| academic-freedom | `akedemische Freiheit` | `akademische Freiheit` | 德语正字（023 首条审校实证，类①） |
+| academic-freedom | `David\nOwewn and Tracy Strong (eds.)` | `David\nOwen and Tracy Strong (eds.)` | David Owen 为韦伯《Vocation Lectures》Hackett 2004 版合编者，Owewn 非词（类①） |
+| academic-freedom | `Enyidi Zsolt, 2018` | `Enyedi, Zsolt, 2018` | 已核实：Zsolt Enyedi, *Perspectives on Politics* 16(4) 2018, 1067–74, doi:10.1017/S1537592718002165（类①） |

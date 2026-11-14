@@ -296,7 +296,7 @@ Gersen 与 Gersen（2026）围绕一个虚构案例梳理了多种视角，旨�
 
 [^elster-2015]: Elster, Jon, 2015, “Obscurantism and Academic Freedom”, in Akeel Bilgrami and Jonathan R. Cole (eds.), *Who's Afraid of Academic Freedom?*, New York: Columbia University Press, pp. 81–96.
 
-[^enyidi-2018]: Enyidi Zsolt, 2018, “Democratic Backsliding and Academic Freedom in Hungary.” *Perspectives on Politics*, 16(4): 1067–74. [[Zsolt 2018 available online](https://www.jstor.org/stable/26615693)]
+[^enyidi-2018]: Enyedi, Zsolt, 2018, “Democratic Backsliding and Academic Freedom in Hungary.” *Perspectives on Politics*, 16(4): 1067–74. [[Zsolt 2018 available online](https://www.jstor.org/stable/26615693)]
 
 [^estlund-2018]: Estlund, David, 2018, “When Protests and Speech Collide”, in Jennifer Lackey (ed.), *Academic Freedom*, Oxford: Oxford University Press, pp. 151–169.
 
@@ -482,7 +482,7 @@ Gersen 与 Gersen（2026）围绕一个虚构案例梳理了多种视角，旨�
 
 [^warnick-2026]: Warnick, Bryan R., Herman, Jamie. and Williams, Kyle, 2026, “Safe Spaces and Free Speech on Campus: A Guided Tour of Campus Contexts”, *Educational Theory*, 76: 170–192. doi:10.1111/edth.70060
 
-[^weber-1917]: Weber, Max, 1917, “Science as a Vocation”, in David Owewn and Tracy Strong (eds.) and Rodney Livingstone (trans.), *The Vocation*, *Lectures*, Indianapolis: Hackett Publishing, 2004.
+[^weber-1917]: Weber, Max, 1917, “Science as a Vocation”, in David Owen and Tracy Strong (eds.) and Rodney Livingstone (trans.), *The Vocation*, *Lectures*, Indianapolis: Hackett Publishing, 2004.
 
 [^whittington-2018a]: Whittington, Keith E., 2018a, “Free Speech and Ideological Diversity on American College Campuses”, in Donald Alexander Downs and Chris W. Surprenant (eds.), *The Value and Limits of Academic Speech: Philosophical, Political, and Legal Perspectives*, New York: Routledge, pp. 47–63. doi:10.4324/9781351064507
 
