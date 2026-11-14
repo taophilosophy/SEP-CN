@@ -247,3 +247,15 @@
 | arabic-islamic-phil-math | berggren-2016 `Berggren, 2016` | `Berggren, J. L., 2016` | 缺名首字母（①） |
 | arabic-islamic-phil-math | goodman-1992 条末缺句点 | 补句点 | 排印（①） |
 | arabic-islamic-phil-math | `[Mph]`（两处）与 `[MPh]` | 统一 `[MPh]` | 同页缩写两体（②） |
+| hutcheson | inquiry-1725 `[A] 1725 ,` | `[A] 1725,` | 逗号前空格（①） |
+| hutcheson | adams-1976 `Motive Utilitarianism”:,` | `Motive Utilitarianism”,` | 题名后错标点（①） |
+| hutcheson | arneson-2004 `Interpretated` | `Interpreted` | 拼写（①） |
+| hutcheson | arneson-2004 `Defended”:,` | `Defended”,` | 题名后错标点（①） |
+| hutcheson | kail-2001 `History of Philosophy Quarterly 18(1)` | 期刊名后补逗号 | 缺标点（①） |
+| hutcheson | kivy-1976 `Burt Franklin and Co..` | `Co.` | 双句点（①） |
+| hutcheson | clarke-1706 `excerpted as “ A Discourse` | `“A Discourse` | 引号内前导空格（①） |
+| hutcheson | schmitter-2016 URL 末缺句点 | 补句点 | 缺标点（①） |
+| hutcheson | 正文 `John Balguy… writes` ＋引块 | `writes:` | 引块前缺冒号（①） |
+| hutcheson | 正文 `consists in ‘having … Affections.`（单引号且未收束） | 改双引号 `“…”` 并补收束 | 引号体例与未闭合（①） |
+| hutcheson | smart-nd `19743`；正文 `Smart & Williams 1974` | `1973`（两处） | 年份误录、正文与书目矛盾（①②） |
+| hutcheson | 正文 `not published until after Hutcheson’s death in 1755` | `not published until 1755, nine years after Hutcheson’s death` | 卒年与出版年相混（②；首段 1694–1746 自证） |

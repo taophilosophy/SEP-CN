@@ -9,6 +9,8 @@
 
 本词条将分两个阶段展开：第一阶段集中于哈奇森的元伦理学，包括其情感主义与道德心理学；第二阶段集中于其规范伦理学，包括他对功利主义思想某些流派的预想，以及他关于德性与自利相一致的论证。
 
+（译注：关于引用哈奇森文本的方法，学界目前尚无一致意见。为免混淆，本文仅按上述版本的页码引用：《探究》与《论激情》按其最易获得、最完备的批评版页码，《道德哲学体系》既无批评版，2005 年版文本的页码即与原版一致。）
+
 ## 1. 哈奇森的元伦理学
 
 哈奇森对其情感主义以及其实质道德与美学理论的最详尽陈述，见于他 1725 年（随后又经修订）的著作《探究我们关于美与德的观念的起源》（*An Inquiry into the Original of our Ideas of Beauty and Virtue*）。事实上，至少在《探究》（*Inquiry*）的早期版本中，哈奇森将这篇论文视为对沙夫茨伯里勋爵（Lord Shaftesbury）（广义上的）情感主义学说的一次辩护，这些学说表达于《人、风俗、意见与时代之特征》（*Characteristiks of Men, Manners, Opinions, Times*，1711）。实际上，该书第一版的副标题如下：
@@ -45,11 +47,11 @@
 
 在哈奇森的心理学中，外在感官与内在感官之间有一个关键差异。根据哈奇森，外在感官有能力感知 **简单** 观念——音调、颜色、声音、味道等（*Inquiry*，23）。但根据哈奇森，**内在** 感官是那些“仅凭某个 **先前** 观念，或 **集合**，或 **观念的比较**”而产生的感官（*Essay*，15–16）。那么，在哈奇森的一般说明下，内在感官将大量增生——在哈奇森看来，任何凭观念的比较而不自愿地产生快乐或痛苦的能力都是一种感官。因此，哈奇森给出他所给出的那种多样的感官说明，一点也不应令人惊讶。
 
-然而，尽管在哈奇森那里，外在感官与内在感官在作用于简单或复杂观念方面存在差异，它们却仍然被正当地归 **为** 感官：
+然而，尽管在哈奇森那里，外在感官与内在感官在作用于简单或复杂观念方面存在差异，它们却仍然被正当地归为感官：
 
 > 既然在通常所谓的外在感官相同的情况下，感知能力仍可如此不同；既然对外在感官所发现之物的最准确知识，往往并不带来美或和谐的快乐，而趣味良好者无须多少知识便能即刻享有这种快乐；我们便有理由为这些更高级、更令人愉悦的美与和谐感知另立名称，把接受这类印象的能力称为一种内在感官……这种更高级的感知能力正当地被称为一种“感官”，因为它与其他感官有这样一种亲缘关系：这种快乐并非源于对原理、比例、原因或对象之有用性的任何知识，而是以其美的观念初见即打动我们：最准确的知识也不会增加这种美的快乐，尽管它可以在其上另增一种独特的理性快乐——或来自利益前景，或来自知识的增长。（*Inquiry*，24–25）
 
-这里哈奇森似乎是在为他使用“感官”一词来描述内在感官以及外在感官辩护。根据哈奇森，根本的相似之处在于 **直接** 产生快乐与观念，而无需中介的认知工作——味觉感官“初看即以其美的观念打动我们”，并伴随其快乐。
+这里哈奇森似乎是在为他使用“感官”一词来描述内在感官以及外在感官辩护。根据哈奇森，根本的相似之处在于 **直接** 产生快乐与观念，而无需中介的认知工作——审美趣味“初见即以其美的观念打动我们”，并伴随其快乐。
 
 ### 1.2 感官与评价样式
 
@@ -95,7 +97,7 @@
 
 因此看来，我们不应接受哈奇森是弗兰克纳（Frankena）意义上的非认知主义者。对哈奇森而言，道德善（大概还有其他评价模式）指称特定的属性。然而，至此我们便想转而考察这些属性的性质：道德善或恶是何种属性？关键问题在于道德感官“决定”道德区分的方式（Radcliffe 1986）[^radcliffe-1986]。这一划分虽略显粗疏，但可以区分出两种立场：其一可称为“构成性情感主义”（constitutive sentimentalism），主张“善”一词所指称的属性无非就是引起观察者相关情感的属性；与之相对的“认识论情感主义”（epistemic sentimentalism）则主张，“善”一词所指称的属性独立于道德感官，但正是道德感官的运作使我们得以查明或辨识这些属性（Raphael 1947）[^raphael-1947]。
 
-事实上，从《探究》（*Inquiry*）并不能立即清楚地看出我们应如何在此问题上理解哈奇森。如已引述的，他主张道德感官是道德善与恶的 **观念** 的来源（*Inquiry* 86）。但这似乎对于哈奇森是构成性还是认识论情感主义是中立的。然而，《论激情》的段落则不那么含糊。如已指出的，他主张对象、行动等“获得 **善** 之名”，就它们而言是相关感知的 **原因**（*Essay*，15）。因此这似乎是一种构成性情感主义：道德属性恰好就是引起特定情感反应的属性。按这一解读（或似乎如此），如果我们的心理学不同，那么那些“获得赞许”的东西可能与此前大不相同。这一结果是当时对哈奇森的一个关键批评。例如约翰·巴尔格（John Balguy）写道
+事实上，从《探究》（*Inquiry*）并不能立即清楚地看出我们应如何在此问题上理解哈奇森。如已引述的，他主张道德感官是道德善与恶的 **观念** 的来源（*Inquiry* 86）。但这似乎对于哈奇森是构成性还是认识论情感主义是中立的。然而，《论激情》的段落则不那么含糊。如已指出的，他主张对象、行动等“获得 **善** 之名”，就它们而言是相关感知的 **原因**（*Essay*，15）。因此这似乎是一种构成性情感主义：道德属性恰好就是引起特定情感反应的属性。按这一解读（或似乎如此），如果我们的心理学不同，那么那些“获得赞许”的东西可能与此前大不相同。这一结果是当时对哈奇森的一个关键批评。例如约翰·巴尔格（John Balguy）写道：
 
 > 在 **第一** 点，在我们作者的方案中似乎有一个不可克服的困难：德性在其中显得是一种任意的、实证的本性，完全依赖于 **本能**，而这些本能本来可能并非如此，甚至可能与此前相反，并且可能随时被改变或倒转，只要造物主愿意。（Balguy 1728 [BM: 390]）[^balguy-1728]
 
@@ -115,7 +117,7 @@
 
 因此，如果哈奇森是构成性情感主义者，那么他这一类型的构成性情感主义，似乎至少对某些常见反对意见已有回应。毕竟，我们的反应在人性中恒定不移，道德谓词的运用因此无须面对任何成问题的偶然性。
 
-然而，对于哈奇森的构成性解读，有一个轻微而可以且应当提出的复杂之处。（关于这一讨论的进一步内容，见 Kail 2001。）[^kail-2001]回想我们如何区分感官，即*via*其主题。现在，如先前指出的，道德感官在行动中获得快乐。但例如尊严或端庄感官也是如此。当然，这对于他的感官个体化说明并不构成任何特别的问题。毕竟，在后者的情况中，哈奇森主张，正是 **适合人性** 这一点使尊严感官运作。这表明一个行动是否适合人性，独立于尊严感官的运作。但注意，哈奇森也（至少偶尔）把道德感官称为一种感知并作用于 **德性与恶** 的性质（*Essay*，17）。现在，如果哈奇森是构成性情感主义者，这将造成一个严重问题。毕竟，在构成性情感主义观点中，德性与恶在逻辑上后于道德感官的运作，使得任何试图个体化那一特定感官的企图都成为循环。更好的解读似乎是：作为一种感知性质，道德感官是在感知并回应 **某物**，即德性与恶，这支持对哈奇森情感主义的认识论解读而非构成性解读。
+然而，对于哈奇森的构成性解读，有一个轻微而可以且应当提出的复杂之处。（关于这一讨论的进一步内容，见 Kail 2001。）[^kail-2001]回想我们如何区分感官，即经由其主题。现在，如先前指出的，道德感官在行动中获得快乐。但例如尊严或端庄感官也是如此。当然，这对于他的感官个体化说明并不构成任何特别的问题。毕竟，在后者的情况中，哈奇森主张，正是 **适合人性** 这一点使尊严感官运作。这表明一个行动是否适合人性，独立于尊严感官的运作。但注意，哈奇森也（至少偶尔）把道德感官称为一种感知并作用于 **德性与恶** 的性质（*Essay*，17）。现在，如果哈奇森是构成性情感主义者，这将造成一个严重问题。毕竟，在构成性情感主义观点中，德性与恶在逻辑上后于道德感官的运作，使得任何试图个体化那一特定感官的企图都成为循环。更好的解读似乎是：作为一种感知性质，道德感官是在感知并回应 **某物**，即德性与恶，这支持对哈奇森情感主义的认识论解读而非构成性解读。
 
 为进一步支持认识论解读，考虑以下来自哈奇森《道德哲学体系》（*A System of Moral Philosophy*）的段落。这里，哈奇森写道：
 
@@ -123,7 +125,7 @@
 
 现在，这似乎直接反驳了他《论激情》（*Essay*）中所表达的、即善性恰好就是“感恩感知”的 **原因或机缘** 的观点。毋宁说——至少此处看似如此——哈奇森主张：善性是对象的一种真实属性，我们观照它时感到快乐；正如美是特定对象的一种真实属性，我们观看或欣赏它时感到快乐。这显然支持认识论情感主义而非构成性情感主义。
 
-人们可能主张，到哈奇森写《体系》（*System*）时，他已经改变了自己的观点。的确，《论激情》（*Essay*）第一版出版于 1728 年，而《体系》是晚得多的著作，在他去世时尚未出版。一种标准观点是，一旦我们到达《体系》，哈奇森的思想发生了实质变化（Carey 2005: v–vi; Scott 1900: 214）[^carey-2005][^scott-1900]。然而，这种解释至少有一个理由而不太令人满意。哈奇森是一位长期的修补者。《论激情》在哈奇森生前经历了不少于三个独立修订版。其最终、第三版于 1742 年完成并出版。但《体系》虽然直到哈奇森 1755 年去世后才出版，却在 1737 年已大体完成，比《论激情》最终修订版 **更早** 五年。因此，如果哈奇森就善性属性的性质改变了他的观点，人们当然会预期看到这一变化反映在 1742 年修订的《论激情》文本中。但人们看不到。（这尤其引人注目，因为哈奇森并不羞于在其著作后来的版本中做非常实质的修改；对《探究》（*Inquiry*）的四个版本尤其如此。）
+人们可能主张，到哈奇森写《体系》（*System*）时，他已经改变了自己的观点。的确，《论激情》（*Essay*）第一版出版于 1728 年，而《体系》是晚得多的著作，在他去世时尚未出版。一种标准观点是，一旦我们到达《体系》，哈奇森的思想发生了实质变化（Carey 2005: v–vi; Scott 1900: 214）[^carey-2005][^scott-1900]。然而，这种解释至少有一个理由而不太令人满意。哈奇森是一位长期的修补者。《论激情》在哈奇森生前经历了不少于三个独立修订版。其最终、第三版于 1742 年完成并出版。但《体系》虽直到哈奇森去世九年后的 1755 年才出版，却早在 1737 年已大体完成，比《论激情》最终修订版 **更早** 五年。因此，如果哈奇森就善性属性的性质改变了他的观点，人们当然会预期看到这一变化反映在 1742 年修订的《论激情》文本中。但人们看不到。（这尤其引人注目，因为哈奇森并不羞于在其著作后来的版本中做非常实质的修改；对《探究》（*Inquiry*）的四个版本尤其如此。）
 
 因此，这是一个诠释学的难题。然而，通过重新考虑哈奇森《论激情》（*Essay*）的段落可以取得进展。他写道，对象等“获得 **善** 之名”，鉴于它们引起愉悦感觉的能力。注意“获得”一词。我们可以把哈奇森解读为：善性属性 **是** 引起赞许或愉悦感觉的倾向；而成为善性属性的，则是我们凭愉悦感觉可通达的属性。正如美是我们在观照美之对象时凭愉悦感觉可通达的属性。我们的愉悦感觉，以这种方式，起到 **固定** “善”这一术语 **指称** 的作用，但并不构成该术语的 **所指**。换言之，道德善恰好就是 XYZ 的属性，但我们凭情感反应和道德感官的运作“领会”那属性。对哈奇森而言，道德感官产生的快乐以一种类似于对象描述在因果指称理论中起作用的方式运作。“《闪灵》的作者”（*The Shining*）固定了“斯蒂芬·金”的指称，但 **是斯蒂芬·金** 的属性并不是《闪灵》作者的属性。类似地，具有引起赞许倾向者固定了“道德善”的指称，但成为道德善的属性并不等同于引起赞许的倾向。对哈奇森而言，属性是独立的。
 
@@ -197,7 +199,7 @@
 
 的确，对哈奇森而言，
 
-> 德性的完满在于‘拥有 **普遍的平静仁慈**，即心灵的居支配地位的情感，以便限制并抵消不仅 **自利的激情**，甚至 **特殊的慈爱情感**。’（*Essay*，8）
+> 德性的完满在于“拥有 **普遍的平静仁慈**，即心灵的居支配地位的情感，以便限制并抵消不仅 **自利的激情**，甚至 **特殊的慈爱情感**。”（*Essay*，8）
 
 的确，即使一个特定行动在其效果上是仁慈的——即在一定程度上惠及他人的某一方面——哈奇森也主张：若假定该行动 **由** 自利所驱动，它就不能被尊为有德：
 
@@ -245,7 +247,7 @@
 
 > 在比较诸行动的道德性质，以便在所提出的各种行动之间规整我们的选择，或找出其中何者具有最大的道德卓越性时，我们的德性道德感官引导我们作出如下判断：在行动预期产生的幸福程度相等时，德性与幸福所及的人数成比例（此处人的尊严或道德重要性可以补偿人数）；人数相等时，德性则与幸福之量或自然善成比例；或者说，德性与善之量和受惠者人数的复合比率成比例……再者，当行动的后果性质混杂——部分有利、部分有害——时，若其好效果压倒恶效果，对多数人有益而对少数人有害，则该行动是善的；反之则是恶的。此处人物的道德重要性或人的尊严同样可以补偿人数；幸福或苦难的程度亦然：因为给多数人带来微不足道的善、却给少数人带来巨大的恶，可能是恶的；而给少数人带来巨大的善，则可能压倒给多数人的小恶。（*Inquiry*，125）
 
-这里有两点值得注意。第一，也是较不有趣的一点：短语“德性与善之量和受惠者人数的复合比率”表明，哈奇森倾向于一种 **平均** 功利主义，而非 **总量** 功利主义（见 Smart & Williams 1974: 27–28；Parfit 1984: 420–421）[^parfit-1984]。此外，与这种平均功利主义形式相容的是，哈奇森主张：分散于许多人的微小利益不需要补偿施加于少数人的巨大恶；而分散于许多人的微小恶可能是为少数人获得巨大利益而值得付出的代价。这一切都与标准形式的功利主义聚合相容。
+这里有两点值得注意。第一，也是较不有趣的一点：短语“德性与善之量和受惠者人数的复合比率”表明，哈奇森倾向于一种 **平均** 功利主义，而非 **总量** 功利主义（见 Smart & Williams 1973: 27–28；Parfit 1984: 420–421）[^parfit-1984][^smart-1973]。此外，与这种平均功利主义形式相容的是，哈奇森主张：分散于许多人的微小利益不需要补偿施加于少数人的巨大恶；而分散于许多人的微小恶可能是为少数人获得巨大利益而值得付出的代价。这一切都与标准形式的功利主义聚合相容。
 
 但更有趣的是，哈奇森提示“人的尊严，或道德重要性，可以补偿人数”。这段话该如何理解？人们可以把它解读为一种观点的雏形：道德德性本身具有内在重要性，因此两个人的幸福——一人有德、一人邪恶——价值并不相等。（可以将其与理查德·阿内森（Richard Arneson [2004]）等人所主张的某种“运气主义”（luckism）相比。）但哈奇森在上一段明确否定了这一解读。他写道：
 
@@ -301,7 +303,7 @@
 
 > 至于同一种类的快乐，显然其价值与其强度和持续时间成联合比例。在估算持续时间时，我们不仅考虑对象的恒常性——或它是否仍在我们掌控之中——以及它所给予感觉的持续时间，还考虑我们想象力或趣味的恒常性：因为后者一旦改变，享受便告终止。在比较不同种类的快乐时，其价值与该种类的持续时间和尊严成联合比例。我们对某些种类有一种关于尊严、完善或至福性质的直接感觉；较低种类的快乐无论多么强烈，都无法与之匹敌，哪怕它们如愿地持久。任何外在感觉，其强度或持续时间所赋予它的尊严或价值，都比不上灵魂因知识或精巧技艺而进步所带来的尊严或价值；更远比不上有德的情感与行动的尊严或价值。（*System*，117）
 
-在这里，哈奇森把有德之行视为有德者自身利益的理由，似乎昭然若揭。在我们对自己的有德之行进行“反思活动”时，我们触发了“有德的情感”，这种情感本身具有一种“价值”，是任何外在感觉的强度或持续时间都无法匹敌的。如果我们把哈奇森解读为质性快乐主义者（qualitative hedonist），那么对德性之益处的解释便直截了当。
+在这里，哈奇森把有德之行视为有德者自身利益的理由，似乎昭然若揭。在我们对自己的有德之行进行“反思活动”时，我们触发了“有德的情感”，这种情感本身具有一种“价值”，是任何外在感觉的强度或持续时间都无法匹敌的。如果我们把哈奇森解读为质性快乐主义者，那么对德性之益处的解释便直截了当。
 
 不太直接的问题是：哈奇森究竟是否真是这种形式的质性快乐主义者？我们有很好的理由表示怀疑。（关于这一点的更详细论证，见 Dorsey 2010。）[^dorsey-2010]在这一段落中，没有任何地方把快乐的“尊严”视为价值论上重要的变量。在《论激情》（*Essay*）中，哈奇森明确写道：
 
@@ -316,15 +318,9 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### A. Primary Literature
-
-### B. Secondary Literature
-
-[^inquiry-1725]: [*Inquiry*] [A] 1725 , *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, London; second edition [B] 1726, London; third edition [C] 1729, London; fourth edition [D] 1738, London. Page numbers are from the 2004 edition, Wolfgang Leidhold (ed.), *An Inquiry into the Original of our Ideas of Beauty and Virtue*, Indianapolis: Liberty Fund. [[*Inquiry* 1726 [2004] available online](https://oll.libertyfund.org/title/leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004)]
+[^inquiry-1725]: [*Inquiry*] [A] 1725, *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, London; second edition [B] 1726, London; third edition [C] 1729, London; fourth edition [D] 1738, London. Page numbers are from the 2004 edition, Wolfgang Leidhold (ed.), *An Inquiry into the Original of our Ideas of Beauty and Virtue*, Indianapolis: Liberty Fund. [[*Inquiry* 1726 [2004] available online](https://oll.libertyfund.org/title/leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004)]
 [^essay-1728]: [*Essay*] 1728, *An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*, London; second edition 1730, London; third edition 1742, London. Page numbers are from the 2002, Aaron Garret (ed.), *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, Indianapolis: Liberty Fund. [[*Essay* 1742 [2002] available online](https://oll.libertyfund.org/title/garrett-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002)]
 [^essay-1730]: 1730, *De naturali hominum socialitate*, inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
 [^essay-1742]: 1742, *Philosophiae Moralis Institutio Compendiaria*. Translated as *A Short Introduction to Moral Philosophy*, 1747.
@@ -333,13 +329,13 @@
 [^system-1756]: 1756, *Logicae Compendium*, Glasgow; translated as *A Compend of Logic* in Hutcheson 2006: 1–56.
 [^system-2006]: 2006, *Logic, Metaphysics, and the Natural Sociability of Mankind*, Michael Silverthorne (trans.), James Moore and Michael Silverthorne (eds), Indianapolis, IN: Liberty Fund, 2006. [[Hutcheson 2006 available online](https://oll.libertyfund.org/title/hutcheson-logic-metaphysics-and-the-natural-sociability-of-mankind)]
 [^albee-1896]: Albee, Ernest, 1896, “The Relation of Shaftesbury and Hutcheson to Utilitarianism”, *The Philosophical Review*, 5(1): 24–35. doi:10.2307/2176103
-[^adams-1976]: Adams, Robert Merrihew, 1976, “Motive Utilitarianism”:, *Journal of Philosophy*, 73(14): 467–481. doi:10.2307/2025783
-[^arneson-2004]: Arneson, Richard J., 2004, “Luck Egalitarianism Interpretated and Defended”:, *Philosophical Topics*, 32(1): 1–20. doi:10.5840/philtopics2004321/217
+[^adams-1976]: Adams, Robert Merrihew, 1976, “Motive Utilitarianism”, *Journal of Philosophy*, 73(14): 467–481. doi:10.2307/2025783
+[^arneson-2004]: Arneson, Richard J., 2004, “Luck Egalitarianism Interpreted and Defended”, *Philosophical Topics*, 32(1): 1–20. doi:10.5840/philtopics2004321/217
 [^baier-1995]: Baier, Annette C. and Michael Luntley, 1995, “Moral Sentiments, and the Difference They Make”, *Aristotelian Society Supplementary Volume*, 69: 15–46. doi:10.1093/aristoteliansupp/69.1.15
 [^balguy-1728]: Balguy, John, 1728, *The Foundation of Moral Goodness*, London: John Pemberton; excerpted in [BM] = Raphael 1969 [1991: vol. 1, 389–408]. Page numbers in the text are to the 1991 edition.
 [^bishop-1996]: Bishop, John D., 1996, “Moral Motivation and the Development of Francis Hutcheson’s Philosophy”, *Journal of the History of Ideas*, 57(2): 277–295. doi:10.1353/jhi.1996.0013
 [^carey-2005]: Carey, Daniel, 2005, “Introduction” to *A System of Moral Philosophy*, by Francis Hutcheson, London: Continuum Publishing, v–vii.
-[^clarke-1706]: Clarke, Samuel, 1706, *A Discourse of Natural Religion*, Boyle Lecture, 1705 (multiple variations in the title); excerpted as “ A Discourse of Natural Religion” in [BM] = Raphael 1969 [1991: vol. 1, 191–225]. Page numbers in the text are to the 1991 edition.
+[^clarke-1706]: Clarke, Samuel, 1706, *A Discourse of Natural Religion*, Boyle Lecture, 1705 (multiple variations in the title); excerpted as “A Discourse of Natural Religion” in [BM] = Raphael 1969 [1991: vol. 1, 191–225]. Page numbers in the text are to the 1991 edition.
 [^crisp-2020]: Crisp, Roger, 2020, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Bentham*, Oxford: Oxford University Press. doi:10.1093/oso/9780198840473.001.0001
 [^darwall-1995]: Darwall, Stephen, 1995, *The British Moralists and the Internal ‘Ought’: 1640–1740*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511608957
 [^darwall-1997]: –––, 1997, “Hutcheson on Practical Reason”, *Hume Studies*, 23(1): 73–89. doi:10.1353/hms.2011.0097
@@ -353,9 +349,9 @@
 [^harris-2008]: Harris, James A., 2008, “Religion in Hutcheson’s Moral Philosophy”, *Journal of the History of Philosophy*, 46(2): 205–222. doi:10.1353/hph.0.0017
 [^heydt-2009]: Heydt, Colin, 2009, “Hutcheson’s *Short Introduction* and the Purposes of Moral Philosophy”, *History of Philosophy Quarterly*, 26(3): 293–309.
 [^hobbes-1651]: Hobbes, Thomas, 1651, *Leviathan*, London: Andrew Crooke.
-[^kail-2001]: Kail, P. J. E., 2001, “Hutcheson’s Moral Sense: Skepticism, Realism, and Secondary Qualities”, *History of Philosophy Quarterly* 18(1): 57–77.
+[^kail-2001]: Kail, P. J. E., 2001, “Hutcheson’s Moral Sense: Skepticism, Realism, and Secondary Qualities”, *History of Philosophy Quarterly*, 18(1): 57–77.
 [^kallich-1946]: Kallich, Martin, 1946, “The Associationist Criticism of Francis Hutcheson and David Hume”, *Studies in Philology*, 43(4): 644–667.
-[^kivy-1976]: Kivy, Peter, 1976 [2003], *The Seventh Sense: A Study of Francis Hutcheson’s Aesthetics and its Influence in Eighteenth Century Britain*, New York: Burt Franklin and Co.. Second edition, *The Seventh Sense: Francis Hutcheson and Eighteenth-Century British Aesthetics*, Oxford: Clarendon Press, 2003.
+[^kivy-1976]: Kivy, Peter, 1976 [2003], *The Seventh Sense: A Study of Francis Hutcheson’s Aesthetics and its Influence in Eighteenth Century Britain*, New York: Burt Franklin and Co. Second edition, *The Seventh Sense: Francis Hutcheson and Eighteenth-Century British Aesthetics*, Oxford: Clarendon Press, 2003.
 [^kupperman-1985]: Kupperman, Joel J., 1985, “Francis Hutcheson: Morality and Nature”, *History of Philosophy Quarterly*, 2(2): 195–202.
 [^norcross-2020]: Norcross, Alastair, 2020, *Morality by Degrees: Reasons without Demands*, Oxford: Oxford University Press. doi:10.1093/oso/9780198844990.001.0001
 [^norton-1985]: Norton, David Fate, 1985, “Hutcheson’s Moral Realism”, *Journal of the History of Philosophy*, 23(3): 397–418. doi:10.1353/hph.1985.0046
@@ -365,11 +361,11 @@
 [^raphael-1969]: ––– (ed.), [BM] 1969 [1991], *The British Moralists, 1650–1800*, second edition, two volumes, Oxford: Oxford University Press. Reprinted Indianapolis: Hackett Publishing Company, 1991.
 [^rauscher-2003]: Rauscher, Frederick, 2003, “Moral Realism and the Divine Essence in Hutcheson”, *History of Philosophy Quarterly*, 20(2): 165–181.
 [^riley-2008]: Riley, Jonathan, 2008, “Millian Qualitative Superiorities and Utilitarianism, Part I”, *Utilitas*, 20(3): 257–278. doi:10.1017/S0953820808003142
-[^schmitter-2016]: Schmitter, Amy M., 2016, “Francis Hutcheson on the Emotions”, supplement to “17th and 18th Century Theories of Emotions”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2016/entries/emotions-17th18th/LD7Hutcheson.html](https://plato.stanford.edu/archives/win2016/entries/emotions-17th18th/LD7Hutcheson.html)>
+[^schmitter-2016]: Schmitter, Amy M., 2016, “Francis Hutcheson on the Emotions”, supplement to “17th and 18th Century Theories of Emotions”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/emotions-17th18th/LD7Hutcheson.html>.
 [^scott-1900]: Scott, W. R., 1900, *Francis Hutcheson: His Life, Teaching, and Position in the History of Philosophy*, Cambridge: Cambridge University Press.
 [^shaftesbury-1711]: Shaftesbury, Lord [Anthony Ashley Cooper], 1711, *Characteristiks of Men, Manners, Opinions, Times*, London. A corrected edition was published in 1714–15, London.
 [^sheridan-2007]: Sheridan, Patricia, 2007, “The Metaphysical Morality of Francis Hutcheson: A Consideration of Hutcheson’s Critique of Moral Fitness Theory”, *Sophia*, 46(3): 263–275. doi:10.1007/s11841-007-0033-4
-[^smart-nd]: Smart, J. J. C. and Bernard Williams, 19743, *Utilitarianism, For and Against*, Cambridge: Cambridge University Press.
+[^smart-1973]: Smart, J. J. C. and Bernard Williams, 1973, *Utilitarianism, For and Against*, Cambridge: Cambridge University Press.
 [^strasser-1987]: Strasser, Mark Philip, 1987, “Hutcheson on the Higher and Lower Pleasures”, *Journal of the History of Philosophy*, 25(4): 517–531. doi:10.1353/hph.1987.0056
 [^winkler-1985]: Winkler, Kenneth, 1985, “Hutcheson’s Alleged Realism”, *Journal of the History of Philosophy*, 23(2): 179–194. doi:10.1353/hph.1985.0032
 [^wollaston-1724]: Wollaston, William, 1724 [BM], *The Religion of Nature Delineated*, London; excerpted in [BM] = Raphael 1969 [1991: vol. 1, 239–258]. Page numbers in the text are to the 1991 edition.
@@ -396,7 +392,3 @@
 ## 致谢
 
 在此谨向 Si-won Song 致谢——其研究协助至为宝贵。也感谢马克·蒂蒙斯（Mark Timmons），是他邀请我撰写本词条。
-
-## 脚注
-
-[^note-2005]: 注：关于引用哈奇森文本的方法，学界目前尚无一致意见。为免混淆，本文仅按上述版本的页码引用。《探究》与《论激情》的页码虽非原版页码，但此处所引版本是其著作最易获得、最完备的批评版。《道德哲学体系》既无批评版，2005 年版文本的页码即与原版一致。

@@ -82,6 +82,7 @@
 | emerson | 双 H1 合并、junzi、[思]想、书目体例、56 条定义加空行 | 96f88454e |
 | antonio-rosmini | 书目区重建（缩写表＋卷次嵌套）、theou dikē、十条→九条 | 877763ac7 |
 | film | oeuvre／François／Noël、Kracauer／Rancière 键名、Badiou 书名 Cinema、Murray Smith | 051b73653 |
+| hutcheson | 卒年 1755 误、taste 误译、加粗断词、via 夹中文、单引号、书目 11 处（en 同改） | 待补 |
 
 ## 2026-11-15 续：转换器缺陷之九「年份起首文献条目」
 
