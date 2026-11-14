@@ -102,8 +102,7 @@ def find_base_commit(path, want_sha):
 
 
 def check_consistency(files_idx, divs, sha_of, deep=False, blob_sha=None,
-                      snapshot_sha=None):
-    """纯核验核心（可单测）：files_idx=台账索引，divs=分歧账列表，
+                      snapshot_sha=None):    """纯核验核心（可单测）：files_idx=台账索引，divs=分歧账列表，
     sha_of(path)->当前 sha 或 None（缺件），blob_sha(commit,path)->原始字节 sha 或
     None，snapshot_sha(path)->快照文件 sha 或 None。返回 (summary, failures)。"""
     failures = []
