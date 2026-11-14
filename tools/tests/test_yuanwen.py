@@ -68,7 +68,6 @@ class TestInline(unittest.TestCase):
         self.assertEqual(out, 'o')
 
     def test_em_with_trailing_star_escaped(self):
-        # 2026-11-14 全量回归：记号 <em>W*</em> / <em>L**</em> 旧式直包产出
         # *W** / *L***，斜体不闭合、末星被吃（40 词条 183 处）
         self.assertEqual(inline_to_md('<em>W*</em>'), '*W\\**')
         self.assertEqual(inline_to_md('<em>L**</em>'), '*L\\*\\**')
