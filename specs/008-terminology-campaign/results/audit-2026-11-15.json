@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 7971,
-  "未查证": 831,
-  "一致": 1240,
-  "不一致": 840
+  "查无": 7973,
+  "未查证": 829,
+  "一致": 1246,
+  "不一致": 834
  },
  "results": [
   {
@@ -708,19 +708,26 @@
    "table": "术语",
    "line": 51,
    "term": "absolute music",
-   "trans": "绝对音乐",
-   "basis": "学界通行（与标题音乐对举）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "绝对音乐（亦作“纯音乐”）",
+   "basis": "学界通行（与标题音乐对举）；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定《音乐名词》形“纯音乐”，音乐美学文献“绝对音乐”通行，两形并存）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "纯音乐",
      "en": "absolute music",
      "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "纯音乐",
+     "en": "absolute music",
+     "source": "审定《音乐名词》形“纯音乐”；音乐美学文献“绝对音乐”通行（与标题音乐对举）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -11526,38 +11533,52 @@
    "table": "术语",
    "line": 570,
    "term": "belief contraction",
-   "trans": "收缩",
-   "basis": "AGM 研究通行（与修正、扩充对举）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "收缩（亦作“信念收缩”）",
+   "basis": "AGM 研究通行（与修正、扩充对举）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定复合形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "信念收缩",
      "en": "belief contraction",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "信念收缩",
+     "en": "belief contraction",
+     "source": "AGM 文献复合形审定名；单字短形“收缩”为通行行文形"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
    "table": "术语",
    "line": 571,
    "term": "belief expansion",
-   "trans": "扩充",
-   "basis": "AGM 研究通行（与修正、收缩对举）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "扩充（亦作“信念扩展”）",
+   "basis": "AGM 研究通行（与修正、收缩对举）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定复合形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "信念扩展",
      "en": "belief expansion",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "信念扩展",
+     "en": "belief expansion",
+     "source": "AGM 文献复合形审定名；单字短形“扩充”为通行行文形"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -11626,19 +11647,26 @@
    "table": "术语",
    "line": 576,
    "term": "belief merging",
-   "trans": "信念合并",
-   "basis": "学界通行（人工智能与形式认识论文献）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "信念合并（亦作“信念融合”）",
+   "basis": "学界通行（人工智能与形式认识论文献）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "信念融合",
      "en": "belief merging",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "信念融合",
+     "en": "belief merging",
+     "source": "审定/部分文献形“信念融合”；“信念合并”同为通行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -12869,28 +12897,35 @@
    "table": "术语",
    "line": 624,
    "term": "bisimulation",
-   "trans": "互模拟",
-   "basis": "模态逻辑通行译法；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "互模拟（亦作“双模拟”）",
+   "basis": "模态逻辑通行译法；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定《计算机科学技术名词》形“双模拟”，理论计算机科学文献两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "双模拟",
      "en": "bisimulation",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "双模拟",
+     "en": "bisimulation",
+     "source": "审定《计算机科学技术名词》形“双模拟”；理论计算机科学文献“互模拟”并行通行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
    "table": "术语",
    "line": 625,
    "term": "bit commitment",
-   "trans": "比特承诺",
-   "basis": "密码学通行译名；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "比特承诺（亦作“比特承诺问题”）",
+   "basis": "密码学通行译名；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定量子密码文献复合形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -12903,10 +12938,17 @@
      "cn": "位提交",
      "en": "bit commitment",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "比特承诺问题",
+     "en": "bit commitment",
+     "source": "审定量子密码文献复合形“比特承诺问题”；短形“比特承诺”通行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -189620,9 +189662,11 @@
    "term": "Wierenga, Edward",
    "trans": "Edward Wierenga（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189630,9 +189674,11 @@
    "term": "Wieser, Friedrich von",
    "trans": "弗里德里希·冯·维塞尔",
    "basis": "学界通行汉译（奥地利经济学派）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
