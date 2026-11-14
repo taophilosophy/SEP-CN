@@ -2,7 +2,7 @@
 r"""译文侧数学公式门禁（021 战役，用户 2026-11-13 裁定）。
 
 站点渲染链：markdown → .vitepress/math-plugin.mjs 保护 $…$/$$…$$ → MathJax 3
-tex-svg。以下九类问题会造成红字、吞正文或体例不一，机器可判：
+tex-svg。以下十类问题中 C1–C9 会造成红字、吞正文或体例不一，机器可判；
 
   C1 宏残留     公式内用了 SEP 词条宏（en/<slug>/local.js 定义，站点无此表）
                 ——工具/data/sep-macro-names.json＋mathjax3-macros.json 判定
@@ -14,6 +14,8 @@ tex-svg。以下九类问题会造成红字、吞正文或体例不一，机器�
   C7 未转义货币 `$` 紧跟数字（$150,000）：与后文公式配对成灾，应写 \$
   C8 英连接语   \text{…} 内仍为 and/iff/then/if/for all/where 等（应译）
   C9 散文 \\(   数学段之外的 \\(…\\)（旧 SEP 记法，家法统一 $…$）
+  C10 孤立希腊字母 行内 $\\omega$ 型纯孤立希腊字母片段（ADR-0049：变量应转
+                斜体文字、算子应转正体文字；告警级，不计入退出码）
 
 用法:
   python tools/check_math_zh.py [路径…]        # 默认全库 <letter>/*.md
@@ -47,6 +49,14 @@ ENGLISH_TEXT_RE = re.compile(
     r'hbox)\s*\{\s*(if and only if|iff|and|then|for all|for every|where|'
     r'such that|if|or|not|is true|holds)\s*\}', re.I)
 CURRENCY_RE = re.compile(r'(?<![\\$])\$(?=\d)')
+
+# C10（ADR-0049）：纯孤立希腊字母行内片段的内层集合（无撇号/下标/运算符）。
+GREEK_CMDS = (
+    "alpha|beta|gamma|delta|epsilon|varepsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|pi|rho|"
+    "sigma|tau|upsilon|phi|varphi|chi|psi|omega|varpi|varrho|varsigma|vartheta|"
+    "Gamma|Delta|Theta|Lambda|Xi|Pi|Sigma|Upsilon|Phi|Psi|Omega"
+).split("|")
+LONE_GREEK_RE = re.compile(r"\$\\(?:" + "|".join(GREEK_CMDS) + r")\$")
 
 
 def fence_ranges(text):
@@ -176,6 +186,9 @@ def check_file(path, rel):
         # C8 英文连接语
         for m in ENGLISH_TEXT_RE.finditer(inner):
             issues.append(("C8", start, "公式内英文连接语：" + m.group(0)[:40]))
+        # C10 孤立希腊字母（ADR-0049，告警级）
+        if not disp and inner in {"\\" + c for c in GREEK_CMDS}:
+            issues.append(("C10", start, "孤立希腊字母公式（ADR-0049：应转文字）"))
 
     # C6/C7/C9 基于正文（数学段之外）
     covered = [(a, b) for a, b, _ in math_spans(text, ranges)]

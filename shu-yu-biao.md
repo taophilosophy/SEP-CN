@@ -1550,10 +1550,9 @@
 | doxastic state | — | 信态 | 首现（imprecise-probabilities） | 学界惯例（与 belief state 信念状态同义）；凭证 2026-11-08 | 2026-11-08 |
 | doxastic theory (of the basing relation) | — | 信念论 | basing-epistemic 首译 | 学界通行汉译（doxastic=信念的）；凭证 2026-11-08 | 2026-11-08 |
 | doxastic venture | — | 信念冒险 | faith | 学界通行（Bishop 术语，doxastic venture model 信念冒险模型）；凭证 2026-11-11 | 2026-11-11 |
-| doxographical tradition | — | 学说史传统 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；与 doxography 学说汇编 分列（2026-11-09 反向校对拆合键） | 2026-10-26 |
-| doxography | — | 学述（SUMMARY 词条题名作“古代哲学学说史”；研究文献通行“学述”） | SUMMARY 题名（d/doxography-ancient） | 古代哲学研究文献通行“学述”（日志 2024-05-12）；SUMMARY 题名“学说史”并存，定名候选上报；2026-11-15 日志增补 | 2026-11-15 |
-| doxographical tradition / doxography | — | 学说史传统；学说汇编 | 语料回收（词汇表并网） | 学界通行（doxography；阿尔克迈翁条术语）；词汇表并网（ADR-0036） | 2026-11-13 |
-| doxography | — | 学说汇编 | xenocrates | 学界通行（doxographical source 学说汇编性材料；“古代哲学学说史”为词条名） | 2026-11-08 |
+| doxographical tradition | — | 学述传统（亦作“学说史传统”） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；与 doxography 学说汇编 分列（2026-11-09 反向校对拆合键） | 2026-10-26 |
+| doxographical tradition / doxography | — | 学述传统；学述（亦作“学说史传统”“学说汇编”） | 语料回收（词汇表并网） | 学界通行（doxography；阿尔克迈翁条术语）；词汇表并网（ADR-0036） | 2026-11-13 |
+| doxography | — | 学述（亦作“学说汇编”） | xenocrates；SUMMARY 题名（d/doxography-ancient） | 2026-11-15 用户批准定名“学述”（前沿哲学论文/研究文献通行，日志 2024-05-12）：SUMMARY 题名与 mu-lu-s 及四处互见改“古代哲学学述”，词条正文 30 处、alcmaeon 正文 26 处看齐；旧形“学说汇编”与审定义“学说史”降为亦作/注记 | 2026-11-15 |
 | drastic distance | — | 极端距离 | belief-merging | 学界通行（信念修正文献）；凭证 2026-11-10 | 2026-11-10 |
 | dravatya | द्रवत्व | 液性 | early-modern-india | 胜论动力学义译（fluidity）；凭证 2026-11-10 | 2026-11-10 |
 | dravya | द्रव्य | 实体 | jaina-philosophy | 印度哲学通行 | 2026-11-08 |
