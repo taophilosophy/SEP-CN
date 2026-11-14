@@ -1,0 +1,33 @@
+{
+ "key": "tsang nakpa tsondru sengge",
+ "term": "Tsang Nakpa Tsöndrü Senggé",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:58:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "TS 流传输抖动",
+   "en": "TS transport jitter",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "单频网 TS 信号分配网络",
+   "en": "SFN TS distribution network",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "时槽",
+   "en": "time slot",
+   "code": "GB/T 5271.9—2001",
+   "standard": "信息技术  词汇  第9部分:数据通信",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2011\": 2, \"2001\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"e43d6d273dbf4920b70975581e361755\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1498\", \"cnName\": \"TS 流传输抖动\", \"enName\": \"TS transport jitter\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148594, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"TS 流传输抖动\", \"cnNameSearch\": \"TS 流传输抖动\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"TS transport jitter\", \"wordSearch\": \"TS transport jitter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"传送流（TS）传输过程中产生的相对于标准时钟的偏离值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bbbdaff281214528b7cb080c04f2dae5\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.142\", \"cnName\": \"单频网 TS 信号分配网络\", \"enName\": \"SFN TS distribution network\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149138, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单频网 TS 信号分配网络\", \"cnNameSearch\": \"单频网 TS 信号分配网络\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"SFN TS distribution network\", \"wordSearch\": \"SFN TS distribution network\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在单频网中，实现网络接口或网络适配器接口传送流（TS）信号到各网络适配器节目源入口透明传<br>送的网络。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"67c73727a2d94ab9b0402d12bf3543bb\", \"databaseId\": null, \"standardId\": \"a5408364d26d4fb28705c9c8249a8c54\", \"standardCode\": \"GB/T 5271.9—2001\", \"standardName\": \"信息技术  词汇  第9部分:数据通信\", \"standardEnName\": \"Information technology——Vocabulary——Part 9:Data communication\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"09.06.16\", \"cnName\": \"时槽\", \"enName\": \"time slot\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169488, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"时槽\", \"cnNameSearch\": \"时槽\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"time slot\", \"wordSearch\": \"time slot\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"TS(缩略语)\", \"cnNameSearch\": \"TS(缩略语)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"TS(abbreviation)\", \"wordSearch\": \"TS(abbreviation)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何循环的，能被识别并被唯一定义的时间间隔。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671890863}"
+}
