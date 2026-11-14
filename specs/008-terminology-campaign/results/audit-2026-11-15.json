@@ -7,8 +7,8 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 7973,
-  "未查证": 829,
+  "查无": 7998,
+  "未查证": 804,
   "一致": 1246,
   "不一致": 834
  },
@@ -44994,7 +44994,7 @@
    "line": 2072,
    "term": "formal correctness",
    "trans": "形式正确性",
-   "basis": "塔尔斯基真理定义条件之一",
+   "basis": "塔尔斯基真之定义条件之一",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -71526,7 +71526,7 @@
    "line": 3282,
    "term": "material adequacy",
    "trans": "实质恰当性",
-   "basis": "塔尔斯基真理定义条件之一（material adequacy）；2026-11-09 合并同键变体（来源列并双 slug）",
+   "basis": "塔尔斯基真之定义条件之一（material adequacy）；2026-11-09 合并同键变体（来源列并双 slug）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -127684,8 +127684,8 @@
    "table": "术语",
    "line": 5930,
    "term": "truth definition / truth definitions",
-   "trans": "真理定义（亦作“真之定义”）",
-   "basis": "逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（与“真之理论”“真谓词”系连），主译随 SUMMARY 词条定名暂留旧形，**定名变更候选已上报**（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》）",
+   "trans": "真之定义（亦作“真理定义”）",
+   "basis": "逻辑学通行；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》；与“真之理论”“真谓词”系连）；2026-11-15 用户裁定按国内通行定名，主译改“真之定义”，SUMMARY 两处互见同步，旧形降为亦作",
    "status": "一致",
    "hits": [
     {
@@ -181893,9 +181893,11 @@
    "term": "Schlegel, August Wilhelm / August Wilhelm Schlegel",
    "trans": "奥古斯特·威廉·施莱格尔",
    "basis": "学界通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `August Wilhelm Schlegel`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -181903,9 +181905,11 @@
    "term": "Schlegel, Dorothea",
    "trans": "多萝特娅·施莱格尔",
    "basis": "学界通行音译（先嫁银行家法伊特，后嫁弗里德里希·施莱格尔）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -181913,9 +181917,11 @@
    "term": "Schlegel, Friedrich / Friedrich Schlegel",
    "trans": "弗里德里希·施莱格尔",
    "basis": "学界通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Friedrich Schlegel`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -181923,9 +181929,11 @@
    "term": "Schleiermacher, Friedrich / Friedrich Schleiermacher",
    "trans": "弗里德里希·施莱尔马赫（亦作“施莱尔马赫”）",
    "basis": "学界通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Friedrich Schleiermacher`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -181933,9 +181941,11 @@
    "term": "Schlenker, Philippe",
    "trans": "菲利普·施伦克",
    "basis": "学界通行音译（预设投射语用学）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -189686,9 +189696,11 @@
    "term": "Wiggins, David / David Wiggins",
    "trans": "大卫·威金斯",
    "basis": "学界通行汉译（球形宇宙反例提及）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `David Wiggins`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189696,9 +189708,11 @@
    "term": "Wikler, Daniel",
    "trans": "丹尼尔·维克勒",
    "basis": "学界惯例音译（生物伦理，《从偶然到选择》合著者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189706,9 +189720,11 @@
    "term": "Wilbois, Joseph",
    "trans": "约瑟夫·维尔布瓦",
    "basis": "学界惯例（法国实用主义者，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189716,9 +189732,11 @@
    "term": "Wildenbruch, Ernst von",
    "trans": "恩斯特·冯·维尔登布鲁赫",
    "basis": "学界通行音译（作家）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189726,9 +189744,11 @@
    "term": "Wiles, Andrew",
    "trans": "安德鲁·怀尔斯",
    "basis": "学界通行汉译（费马大定理证明者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189736,9 +189756,11 @@
    "term": "Wilhelm Windelband",
    "trans": "威廉·文德尔班",
    "basis": "学界通行汉译（新康德主义西南学派创始者）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189746,9 +189768,11 @@
    "term": "Wilkerson, W.S.",
    "trans": "威尔克森",
    "basis": "学界惯例（音译，心灵哲学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189756,9 +189780,11 @@
    "term": "Wilkes, Maurice",
    "trans": "莫里斯·威尔克斯",
    "basis": "学界通行汉译（EDSAC 建造者，图灵奖得主）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189766,9 +189792,11 @@
    "term": "Wilkins, John",
    "trans": "约翰·威尔金斯",
    "basis": "学界通行汉译（《论真实字符与哲学语言》作者，自然神学家）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189776,9 +189804,11 @@
    "term": "Wilkinson, Gerald S.",
    "trans": "杰拉尔德·威尔金森",
    "basis": "音译（无通行汉名；吸血蝙蝠互惠食物分享研究；与 computing-history 的 Jim Wilkinson 分立）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189786,9 +189816,11 @@
    "term": "Wilkinson, Karina",
    "trans": "Karina Wilkinson",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189796,9 +189828,11 @@
    "term": "Wilkinson, Martin",
    "trans": "Wilkinson",
    "basis": "ADR-0022：无通行汉名者保留英文（词条作者，H1 随 SUMMARY）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189806,9 +189840,11 @@
    "term": "Wilkinson, Stephen",
    "trans": "Wilkinson",
    "basis": "ADR-0022：无通行汉名者保留英文（词条作者；正文 “S. Wilkinson” 同）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189816,9 +189852,11 @@
    "term": "Wilkinson, T.M.",
    "trans": "Wilkinson",
    "basis": "ADR-0022：无通行汉名者保留英文（同名异人，引用组照录）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189826,9 +189864,11 @@
    "term": "Willard, Dallas",
    "trans": "达拉斯·威拉德",
    "basis": "学界通行汉译（现象学译者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189836,9 +189876,11 @@
    "term": "William Gilbert",
    "trans": "威廉·吉尔伯特",
    "basis": "学界通行汉译（《论磁》作者，与同名录社会哲学家以时代别之）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189846,9 +189888,11 @@
    "term": "William Harvey",
    "trans": "威廉·哈维",
    "basis": "千年通行式汉译（血液循环发现者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189856,9 +189900,11 @@
    "term": "William of Alvernia",
    "trans": "奥弗涅的威廉",
    "basis": "依地名冠称（源文作 Alvernia，即 William of Auvergne，巴黎主教）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189866,9 +189912,11 @@
    "term": "William of Auvergne",
    "trans": "奥弗涅的威廉",
    "basis": "中世纪哲学通行汉译（巴黎主教，以能动理智即上帝）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",
@@ -189876,9 +189924,11 @@
    "term": "William of Champeaux",
    "trans": "尚波的威廉",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）；籍属/生卒联网查证：《天主教百科全书》William of Champeaux 条与《大英百科全书》1911 版作 1121 年卒；《哲学百科全书》作 c. 1070–1121；部分工具书作 1121/22（2026-11-13 查，凭证 verify-2026-11-13.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "人名",

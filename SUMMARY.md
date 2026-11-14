@@ -2573,7 +2573,7 @@
 
 * [\*道家/道教——见道家/道教 Taoism — see Daoism](d/daoism.md)
 * [阿尔弗莱德·塔尔斯基 Alfred Tarski (Mario Gómez-Torrente)](t/tarski.md)
-  * [塔尔斯基的真理定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
+  * [塔尔斯基的真之定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
 * [尼古拉斯·塔雷路斯 Nicolaus Taurellus (Andreas Blank)](t/taurellus.md)
 * [\*技术——见科学和技术 techne — see episteme and techne](e/episteme-techne.md)
 * [技术哲学 Philosophy of Technology (Maarten Franssen、Ibo van de Poel、Michael Klenk、Filippo Santoni de Sio)](t/technology.md)
@@ -2649,7 +2649,7 @@
   * [实用主义真理观 The Pragmatic Theory of Truth (John Capps)](t/truth-pragmatic.md)
   * [真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)](t/truth-primitivist.md)
   * [修正真理论 The Revision Theory of Truth (Philip Kremer、Edoardo Rivello)](t/truth-revision.md)
-  * [*塔尔斯基的真理定义——见阿尔弗莱德·塔尔斯基：塔尔斯基的真理定义 Tarski’s theory of truth — see Tarski’s Truth Definitions](t/tarski-truth.md)
+  * [*塔尔斯基的真之定义——见阿尔弗莱德·塔尔斯基：塔尔斯基的真之定义 Tarski’s theory of truth — see Tarski’s Truth Definitions](t/tarski-truth.md)
 * [似真性 Truthlikeness (Graham Oddie、Gustavo Cevolani)](t/truthlikeness.md)
 * [使真者 Truthmakers (Fraser MacBride、Christopher Daly)](t/truthmakers.md)
 * [真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)](t/truth-values.md)

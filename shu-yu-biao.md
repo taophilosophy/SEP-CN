@@ -2069,7 +2069,7 @@
 | formal cause | — | 形式因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
 | formal concept / objective concept | — | 形式概念／对象概念 | analogy-medieval 首译 | 学界通行（经院认识论对举；formal concept 为心灵行为，objective concept 为所表象对象）；凭证 2026-11-08 | 2026-11-08 |
 | formal consequence | — | 形式后承 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
-| formal correctness | — | 形式正确性 | tarski-truth | 塔尔斯基真理定义条件之一 | 2026-11-09 |
+| formal correctness | — | 形式正确性 | tarski-truth | 塔尔斯基真之定义条件之一 | 2026-11-09 |
 | formal distinction | — | 形式区分 | penbygull | 中世纪形而上学通行译法（与实在区分 real distinction 对举；邓斯·司各脱 formal distinction 学说名）；凭证 2026-11-09 | 2026-11-09 |
 | formal identity | identitas formalis | 形式同一 | 首译（sharpe） | 学界通行（承 formal distinction 形式区分；形式同一强于实在同一）；凭证 2026-11-09 | 2026-11-09 |
 | formal language | — | 形式语言 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -3279,7 +3279,7 @@
 | Masters texts | 諸子 | 诸子文本 | chinese-phil-science | 学界通行（《汉书·诸子略》系）；凭证 2026-11-07 | 2026-11-07 |
 | matching | — | 匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | material / formal analogy | — | 实质类比／形式类比 | reasoning-analogy | 学界通行（Hesse 术语） | 2026-11-05 |
-| material adequacy | — | 实质恰当性 | lvov-warsaw；tarski-truth | 塔尔斯基真理定义条件之一（material adequacy）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| material adequacy | — | 实质恰当性 | lvov-warsaw；tarski-truth | 塔尔斯基真之定义条件之一（material adequacy）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | material cause | — | 质料因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
 | material consequence | — | 实质后承 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
@@ -5927,7 +5927,7 @@
 | truth condition / truth conditions | — | 真值条件 | logic-relevance；语料回收 | 逻辑学通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `truth conditions`） | 2026-11-13 |
 | truth conducive | — | 导向真理的（亦作“真理导向的”） | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
 | truth content | Wahrheitsgehalt | 真理内容 | adorno | 学界通行汉译（《美学理论》中译本通行）；凭证 2026-11-10 | 2026-11-10 |
-| truth definition / truth definitions | — | 真理定义（亦作“真之定义”） | tarski-truth；语料回收（词汇表并网） | 逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（与“真之理论”“真谓词”系连），主译随 SUMMARY 词条定名暂留旧形，**定名变更候选已上报**（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》） | 2026-11-14 |
+| truth definition / truth definitions | — | 真之定义（亦作“真理定义”） | tarski-truth；语料回收（词汇表并网） | 逻辑学通行；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》；与“真之理论”“真谓词”系连）；2026-11-15 用户裁定按国内通行定名，主译改“真之定义”，SUMMARY 两处互见同步，旧形降为亦作 | 2026-11-15 |
 | truth in a model | — | 模型中的真 | logical-consequence | 模型论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | truth predicate | — | 真谓词 | logic-substructural | 真理论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | truth value / truth values | — | 真值（亦作"真假值"） | logic-relevance；语料回收；语料回收（词汇表并网） | 审定名词库（termonline-all·数学·数理逻辑；审定 truth value=真假值、truth=真值 并立，2026-11-08 浏览器通道凭证；主译从逻辑学通行形，审定自身真值表=truth-table 并存）；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-13 重复行合并（旧键 `truth values`） | 2026-11-13 |
