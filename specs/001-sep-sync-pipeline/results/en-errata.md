@@ -43,6 +43,7 @@
 | aesthetics-18th-british | 正文 `Hutcheson 1747, 12–13 and 1744, 48`，文献区只有 1742／1747 | 1744 或为该书另一印次，页码 48 与之相联；中文侧按原文保留 1744 |
 | aesthetics-18th-british | 正文 `2005/389–391`，文献条作 `389–390 [2005]` | 页码区间互有小差，无可判据；中文侧照录 |
 | langer | 文献键五套前缀与内容错位（`eugene-1951a` 实为 Langer 1951a 等） | 属命名体系而非手误，改动面大，另案处理 |
+| emotion-Christian-tradition | 正文 `*Grebethed*`（克尔凯郭尔引文中的词） | 疑为 `Gribethed`／`Gribenhed`，无可靠对照译本，不擅改 |
 
 ## 三、2026-11-14 续批（偿还途中新增）
 
@@ -118,3 +119,8 @@
 | ethics-deontological | `Similansky` / `Sauders` / `Wedgewood` / `MacMahan` | `Smilansky` / `Saunders` / `Wedgwood` / `McMahan` | 拼写（①②） |
 | blame | `doi: doi:10.3998` / `Wieland. (eds.)` / `in H, LaFollette` / `<em>…Philosophy&nbsp;</em>32` | 去重复前缀、正句点、正逗号、卷号出斜体 | 标点与斜体（①） |
 | egoism | `Korsgaard, C, 2005` / `&ldquo;The Myth of Egoism,&rdquo;, in` | `C.` / 去多余逗号 | 缩写与标点（①） |
+| emotion-Christian-tradition | 正文 `see Bash 2019)`，文献条作 2020 | `see Bash 2020)` | 同页自相矛盾（②） |
+| emotion-Christian-tradition | 正文 `Richard S. Lazarus (1993)` 与 `(see 1993 p. 122)`，文献区只有 lazarus 1991 | 均改 1991 | 同页自相矛盾（②）；出处即 *Emotion and Adaptation* |
+| emotion-Christian-tradition | `Doubleday: Garden City, New York.` | `Garden City, New York: Doubleday.` | 同页其余条目皆“地名: 出版者”（②） |
+| emotion-Christian-tradition | `&ldquo;Startle&rdquo; <em> The Journal of Philosophy</em>` | `&ldquo;Startle,&rdquo; <em>The Journal of Philosophy</em>` | 篇名后缺逗号、em 内多空格（①） |
+| emotion-Christian-tradition | `schlechthinig` | `schlechthinnig` | 德语 schlechthin＋-ig（①） |
