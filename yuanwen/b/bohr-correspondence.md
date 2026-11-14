@@ -351,7 +351,7 @@ $$ x(t,n) = \sum_{k=1}^{\infty} C_k(n)\cos(k\omega(n)t) $$
 
 [^born-1957]: –––, 1957 [1933], *Atomic Physics*, 6ᵗʰ edition, J. Dougall and R. Blin-Stoyle (trans.), New York: Hafner Publishing Co.
 
-[^heisenberg-1968]: Heisenberg, W., 1968 [1925], “Quantum-theoretical re-interpretation of kinematic and mechanical relations,” in B. van der Waerden (ed.), *Sources of Quantum Mechanics*, New York: Dover Publications, 261–276; translation of “Über quantentheorische Umdeutung kinematischer und mechanischer Beziehungen”, *Zeitschrift für Physik*, 33: 879–893.
+[^heisenberg-1968]: Heisenberg, W., 1968 [1925], “Quantum-theoretical re-interpretation of kinematic and mechanical relations,” in B. van der Waerden (ed.), *Sources of Quantum Mechanics*, New York: Dover Publications, 261–276; translation of “Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen”, *Zeitschrift für Physik*, 33: 879–893.
 
 [^heisenberg-1930]: –––, 1930, *The Physical Principles of the Quantum Theory*, translated by C. Eckart and F. C. Hoyt, Chicago: University of Chicago Press.
 
@@ -393,7 +393,7 @@ $$ x(t,n) = \sum_{k=1}^{\infty} C_k(n)\cos(k\omega(n)t) $$
 
 [^habib-1998]: Habib, S., K. Shizume, and W. Zurek, 1998, “Decoherence, Chaos and the Correspondence Principle,” *Physical Review Letters*, 80: 4361–4365.
 
-[^hassoun-1989]: Hassoun, G. and D. Kobe, 1989, “Synthesis of the Planck and Bohr formulations of the correspondence principle,”, *American Journal of Physics*, 57(7): 658–662.
+[^hassoun-1989]: Hassoun, G. and D. Kobe, 1989, “Synthesis of the Planck and Bohr formulations of the correspondence principle,” *American Journal of Physics*, 57(7): 658–662.
 
 [^heilbron-1983]: Heilbron, J., 1983, “The Origins of the Exclusion Principle,” *Historical Studies in the Physical Sciences*, 13(2): 261–310.
 

@@ -1,0 +1,103 @@
+{
+ "key": "disjoint union",
+ "term": "disjoint union",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:00:59+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=13",
+ "hits": [
+  {
+   "cn": "不相交",
+   "en": "disjoint",
+   "code": "GB/T 37965—2019",
+   "standard": "信息与文献文化遗产信息交换的参考本体",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "活接头",
+   "en": "union",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "连接体",
+   "en": "union body",
+   "code": "GB/T 44003—2024",
+   "standard": "力学性能测量 REBCO涂层导体（镀铜）脱层强度测试方法",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "连接环",
+   "en": "union ring",
+   "code": "GB/T 17936—2022",
+   "standard": "卡口灯座",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "联合编目",
+   "en": "union cataloging",
+   "code": "GB/T 40987.1—2021",
+   "standard": "公共图书馆业务规范 第1部分：省级公共图书馆",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "大众呢",
+   "en": "union cloth",
+   "code": "GB/T 5706—2018",
+   "standard": "纺织品 毛纺织产品 术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "重叠度",
+   "en": "intersection over union",
+   "code": "GB/T 41864—2022",
+   "standard": "信息技术 计算机视觉 术语 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "液压旋转接头",
+   "en": "hydraulic rotary union",
+   "code": "GB/T 32077—2015",
+   "standard": "风力发电机组  变桨距系统",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "嫁接口愈合正常",
+   "en": "normal graft-union",
+   "code": "GB/T 9659—2008",
+   "standard": "柑桔嫁接苗",
+   "subject": "农业"
+  },
+  {
+   "cn": "法兰接头",
+   "en": "flanged union",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "混纺染料",
+   "en": "composite dyes",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "互联互通白名单",
+   "en": "white list of city union",
+   "code": "GB/T 31778—2015",
+   "standard": "数字城市一卡通互联互通  通用技术要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "砧穗接合部曲折度",
+   "en": "bending degree of graft-union",
+   "code": "GB/T 9659—2008",
+   "standard": "柑桔嫁接苗",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2022\": 2, \"2021\": 2, \"2019\": 1, \"2018\": 1, \"2015\": 2, \"2008\": 2, \"2006\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 1, \"纺织和皮革技术\": 1, \"电气工程\": 2, \"化工技术\": 1, \"农业\": 2, \"其它\": 1, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 13}, \"totalRecords\": 13, \"tmWordList\": [{\"id\": \"077d0260014e40d89c80aedcb742ffe0\", \"databaseId\": null, \"standardId\": \"fd16be8a6927439a9b9251e19a36c7c5\", \"standardCode\": \"GB/T 37965—2019\", \"standardName\": \"信息与文献文化遗产信息交换的参考本体\", \"standardEnName\": \"Information and documentation-A reference ontology for the interchange of cultural heritage information\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3\", \"cnName\": \"不相交\", \"enName\": \"disjoint\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"35.240.3035\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245708, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"不相交\", \"cnNameSearch\": \"不相交\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"disjoint\", \"wordSearch\": \"disjoint\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何可能的世界中均无共同实例。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>如果某些类的外延的交集是空集，那么这些类是不相交的。</p>\", \"参见5.4。\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c27e45b3ce4445a29587fe02d1c8bda1\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.4.34\", \"cnName\": \"活接头\", \"enName\": \"union\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 139372, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"活接头\", \"cnNameSearch\": \"活接头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"union\", \"wordSearch\": \"union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"便于局部安装或拆卸的管接头。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aa553d9f6b7d427399071edf8fda16ce\", \"databaseId\": null, \"standardId\": \"10ccb57ad58941b2bcb5ae1cd57b1714\", \"standardCode\": \"GB/T 44003—2024\", \"standardName\": \"力学性能测量 REBCO涂层导体（镀铜）脱层强度测试方法\", \"standardEnName\": \"Mechanical property measurement—Delamination strength test for REBCO coated conductors (copper-plated)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.2\", \"cnName\": \"连接体\", \"enName\": \"union body\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"29.050;77.040.10\", \"ccs\": \"H61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15589, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连接体\", \"cnNameSearch\": \"连接体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"union body\", \"wordSearch\": \"union body\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"砧头与样品焊接构成的整体。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5e7568a0bf8547aaae096dbf3221d6f5\", \"databaseId\": null, \"standardId\": \"c9845476b7e04b94a77232cced647be0\", \"standardCode\": \"GB/T 17936—2022\", \"standardName\": \"卡口灯座\", \"standardEnName\": \"Bayonet lampholders\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.4\", \"cnName\": \"连接环\", \"enName\": \"union ring\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-11-01\", \"ics\": \"ICS 29.140.10\", \"ccs\": \"CCS K 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202540, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连接环\", \"cnNameSearch\": \"连接环\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"union ring\", \"wordSearch\": \"union ring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"能将灯座的外部分离部件连接在一起的圆筒形部件。</p><p>见图4。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"29eecf7cf5c54af3a4b9083c6decbab5\", \"databaseId\": null, \"standardId\": \"f9aba06e8b4b4b57b9c050cb979bdf8b\", \"standardCode\": \"GB/T 40987.1—2021\", \"standardName\": \"公共图书馆业务规范 第1部分：省级公共图书馆\", \"standardEnName\": \"Public library professional work specifications—Part 1： Provincial public library\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.34\", \"cnName\": \"联合编目\", \"enName\": \"union cataloging\", \"publishTime\": \"2021-11-01\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 243482, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"联合编目\", \"cnNameSearch\": \"联合编目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"union cataloging\", \"wordSearch\": \"union cataloging\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在全国或地区范围内，将图书馆等其他信息机构的书目数据资源和人力资源整合起来，共同进行的文献编目工作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"17f61096ba564821989b5778e1dccaca\", \"databaseId\": null, \"standardId\": \"98f6afaa6067495ea8968191b35d82ef\", \"standardCode\": \"GB/T 5706—2018\", \"standardName\": \"纺织品 毛纺织产品 术语\", \"standardEnName\": \"Textiles—Wool textile products—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"4.16\", \"cnName\": \"大众呢\", \"enName\": \"union cloth\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"59.080.01\", \"ccs\": \"W 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159922, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"大众呢\", \"cnNameSearch\": \"大众呢\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"union cloth\", \"wordSearch\": \"union cloth\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以粗支羊毛、精梳短毛或再用毛为主要原料纺成的毛纱作经纬纱，采用斜纹组织，多为匹染的粗梳毛织物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d8eb9c87595a4f92b563af6ff7c9e982\", \"databaseId\": null, \"standardId\": \"4ae591d535014d39a40449007f1de2db\", \"standardCode\": \"GB/T 41864—2022\", \"standardName\": \"信息技术 计算机视觉 术语 \", \"standardEnName\": \"Information technology—Computer vision—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9.4\", \"cnName\": \"重叠度\", \"enName\": \"intersection over union\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 35.240.01\", \"ccs\": \"CCS L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 77831, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"重叠度\", \"cnNameSearch\": \"重叠度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"intersection over union\", \"wordSearch\": \"intersection over union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种在特定数据集中衡量目标检测准确度的标准。预测范围和标记范围的交叠率，即两个区域重叠的部分除以两个区域的集合部分得出的结果。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e536d55e941a49209951efac8abf9b26\", \"databaseId\": null, \"standardId\": \"aa11adf29f334e3bbd30c924542b242b\", \"standardCode\": \"GB/T 32077—2015\", \"standardName\": \"风力发电机组  变桨距系统\", \"standardEnName\": \"Wind turbine generator system pitch system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.11\", \"cnName\": \"液压旋转接头\", \"enName\": \"hydraulic rotary union\", \"publishTime\": \"2015-10-09\", \"publishYear\": \"2015\", \"implementTime\": \"2016-06-01\", \"ics\": \"27.180\", \"ccs\": \"F11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 174037, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"液压旋转接头\", \"cnNameSearch\": \"液压旋转接头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hydraulic rotary union\", \"wordSearch\": \"hydraulic rotary union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"液压旋转接头通常是用于向安装在旋转设备上的液压执行机构等输送液压介质的设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"68d57012dce84977bc2ef26849ee20fc\", \"databaseId\": null, \"standardId\": \"311d0e818f6944fb9231b7184d0aa11f\", \"standardCode\": \"GB/T 9659—2008\", \"standardName\": \"柑桔嫁接苗\", \"standardEnName\": \"Citrus budling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5\", \"cnName\": \"嫁接口愈合正常\", \"enName\": \"normal graft-union\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"65.020.206\", \"ccs\": \"B05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52198, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"嫁接口愈合正常\", \"cnNameSearch\": \"嫁接口愈合正常\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"normal graft-union\", \"wordSearch\": \"normal graft-union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"接穗与砧木接合部的新生维管束组织输导正常，无残缺或腐烂伤痕，无捆缚物及其缢痕。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"43f8500b6ad44ad8899748b03e564870\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"9.5.3\", \"cnName\": \"法兰接头\", \"enName\": \"flanged union\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58301, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"法兰接头\", \"cnNameSearch\": \"法兰接头\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flanged union\", \"wordSearch\": \"flanged union\"}, {\"languageType\": 1, \"word\": \"flange joint\", \"wordSearch\": \"flange joint\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用法兰盘连接钢管段的接头。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6523c423894546faaa062dcb338e374f\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"2.51\", \"cnName\": \"混纺染料\", \"enName\": \"composite dyes\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186924, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混纺染料\", \"cnNameSearch\": \"混纺染料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"composite dyes\", \"wordSearch\": \"composite dyes\"}, {\"languageType\": 1, \"word\": \"union dyes\", \"wordSearch\": \"union dyes\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于二种以上染色性能不同的纤维混纺织物的同浴染色的染料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"adfffc665189411ca254ec6a76833170\", \"databaseId\": null, \"standardId\": \"78a2c32fd8d044d7869d43996e73e3c4\", \"standardCode\": \"GB/T 31778—2015\", \"standardName\": \"数字城市一卡通互联互通  通用技术要求\", \"standardEnName\": \"City union card of digital city—General technology requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.8\", \"cnName\": \"互联互通白名单\", \"enName\": \"white list of city union\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2016-02-01\", \"ics\": \"35.240.60\", \"ccs\": \"P07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125279, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"互联互通白名单\", \"cnNameSearch\": \"互联互通白名单\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"white list of city union\", \"wordSearch\": \"white list of city union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由中心级数据处理系统统一管理的互联互通标识清单。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a5ba6387beb8418eb90e8adc0134dd28\", \"databaseId\": null, \"standardId\": \"311d0e818f6944fb9231b7184d0aa11f\", \"standardCode\": \"GB/T 9659—2008\", \"standardName\": \"柑桔嫁接苗\", \"standardEnName\": \"Citrus budling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.6\", \"cnName\": \"砧穗接合部曲折度\", \"enName\": \"bending degree of graft-union\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"65.020.206\", \"ccs\": \"B05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52196, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"砧穗接合部曲折度\", \"cnNameSearch\": \"砧穗接合部曲折度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bending degree of graft-union\", \"wordSearch\": \"bending degree of graft-union\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在砧木与接穗的接合处，主干中轴线与砧木垂直延长线之间的夹角。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675655887}"
+}

@@ -62,7 +62,7 @@ $$\tag{5} P_{n' \rightarrow n''} \propto |C_{\tau}(n)|^2 \text{ 对大 } n. $$
 
 因此，在 $n$ 很大的极限下，电子古典轨道的谐波成分振幅可用来计算谱线的强度。古典地说，辐射强度由其振幅决定；而量子力学地说，一条谱线的强度由在该特定频率上发出多少光子决定。因此，某一量子跃迁越可能发生，发出的光子就越多，强度也就越大。请注意，与频率解释一样，这是一种只在统计意义上、且只在大量子数极限下成立的一致。[^note-4]
 
-按照 **选择定则解释**，玻尔的对应原理最好被理解为如下陈述：** 定态之间每一条允许的量子跃迁，都对应于古典运动的一个谐波成分 **。更确切地说，玻尔的选择定则规定：从定态 $n'$ 到另一定态 $n''$ 的跃迁是允许的，** 当且仅当* 在初始定态中电子的古典运动里存在一个第 $\tau$ 个谐波；如果古典运动中没有第 $\tau$ 个谐波，那么相隔 $\tau$ 的定态之间的跃迁在量子力学上就不被允许。玻尔对应原理的要旨如图 1 所示。
+按照 **选择定则解释**，玻尔的对应原理最好被理解为如下陈述：**定态之间每一条允许的量子跃迁，都对应于古典运动的一个谐波成分**。更确切地说，玻尔的选择定则规定：从定态 $n'$ 到另一定态 $n''$ 的跃迁是允许的，**当且仅当**在初始定态中电子的古典运动里存在一个第 $\tau$ 个谐波；如果古典运动中没有第 $\tau$ 个谐波，那么相隔 $\tau$ 的定态之间的跃迁在量子力学上就不被允许。玻尔对应原理的要旨如图 1 所示。
 
 ![谐波之和](../assets/bohr-correspondence/Figure1.png)
 
@@ -152,7 +152,7 @@ Bokulich（2008，以及 2009［其他网络资源］）主张：以选择定则
 
 > 近几年来，我常在科学上感到十分孤独，因为我觉得，我尽最大努力系统地发展量子理论原理的工作所得到的理解甚少……我很清楚，事情迄今澄清得多么少，也清楚我在以易于接近的形式表达思想方面多么无能为力。（Bohr to Sommerfeld, April 30, 1922; BCW 3, p. 39）
 
-的确，人们很快就在物理学文献中看到关于对应原理的形形色色的解释——这种多样性延续至今。因此，重要的是把玻尔本人关于对应原理的观点，与对应原理对更广泛物理学界逐渐具有的含义区分开来（关于这一时期对应原理如何推动研究与讨论的详细叙述，见 Jähnert 2019）[^jähnert-2019]。例如，亨德里克·克拉默斯与约翰·范弗莱克都把“对应原理”一词用于并扩展到范围广泛的对应式论证，而这些论证在量子力学的发展中很重要（例如见 Duncan and Janssen 2007; 2019）[^duncan-2007]。
+的确，人们很快就在物理学文献中看到关于对应原理的形形色色的解释——这种多样性延续至今。因此，重要的是把玻尔本人关于对应原理的观点，与对应原理对更广泛物理学界逐渐具有的含义区分开来（关于这一时期对应原理如何推动研究与讨论的详细叙述，见 Jähnert 2019）[^jähnert-2019]。例如，亨德里克·克拉默斯与约翰·范弗莱克都把“对应原理”一词用于并扩展到范围广泛的对应式论证，而这些论证在量子力学的发展中很重要（例如见 Duncan and Janssen 2007; 2019）[^duncan-2007][^duncan-2019]。
 
 在那些似乎正确理解了玻尔对应原理核心的人当中，真正接受它的人就更少了。的确，玻尔的许多同时代人都对这条原理心存疑虑，尽管他们乐于在其他方法失败时机会主义地利用它来获得具体结果。属于第三类的，是对应原理三位最重要的同时代批评者：阿诺德·索末菲、沃尔夫冈·泡利与维尔纳·海森堡。[^note-7]
 
@@ -226,7 +226,7 @@ Suman Seth（2008）主张，索末菲对对应原理的不满，与其说源于
 
 达里戈写道：
 
-> 玻尔假定，即便对中等激发的态，某一给定量子跳跃的概率也近似地由初始定态中运动“对应”谐波成分的强度给出。这就是玻尔所谓的“对应原理”。（Darrigol 1997, p. 550; see also Darrigol 1992, p. 126）[^darrigol-1992][^darrigol-1997]
+> 玻尔假定，即便对中等激发的态，某一给定量子跳跃的概率也近似地由初始定态中运动“对应”谐波成分的强度给出。这就是玻尔所谓的“对应原理”。（Darrigol 1997, p. 550; 另见 Darrigol 1992, p. 126）[^darrigol-1992][^darrigol-1997]
 
 严格说来，这种强度对应只在大量子数极限下精确，不能扩展到小的量子数。唯一的例外是：当古典振幅为零时，量子跃迁概率也为零（这是前文所谓 **玻尔的选择定则** 的一个特例），而这一点对一切量子数都成立。
 
@@ -318,50 +318,88 @@ $$ x(t,n) = \sum_{k=1}^{\infty} C_k(n)\cos(k\omega(n)t) $$
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-### Works by Bohr
+### 玻尔著作
 
-### Other Primary Literature
+### 其他原始文献
 
-### Secondary Literature
+### 二手文献
 
 [^born-1924]: Born, M., 1924, “Über Quantenmechanik,” *Zeitschrift für Physik*, 26: 379–395.
+
 [^born-1927]: –––, 1927 [1925], *The Mechanics of the Atom*, London: Bell; translation of *Vorlesungen Über Atommechanik*, Berlin: Springer.
-[^born-1957]: –––, 1957 [1933], *Atomic Physics*, 6ᵗʰ edition, J. Dougall and R. Blin-Stoyle (trans.), New York: Hafner Publishing Co.
-[^heisenberg-1968]: Heisenberg, W., 1968 [1925], “Quantum-theoretical re-interpretation of kinematic and mechanical relations,” in B. van der Waerden (ed.), *Sources of Quantum Mechanics*, New York: Dover Publications, 261–276; translation of “Über quantentheorische Umdeutung kinematischer und mechanischer Beziehungen”, *Zeitschrift für Physik*, 33: 879–893.
+
+[^born-1957]: –––, 1957 [1933], *Atomic Physics*, 6th edition, J. Dougall and R. Blin-Stoyle (trans.), New York: Hafner Publishing Co.
+
+[^heisenberg-1968]: Heisenberg, W., 1968 [1925], “Quantum-theoretical re-interpretation of kinematic and mechanical relations,” in B. van der Waerden (ed.), *Sources of Quantum Mechanics*, New York: Dover Publications, 261–276; translation of “Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen”, *Zeitschrift für Physik*, 33: 879–893.
+
 [^heisenberg-1930]: –––, 1930, *The Physical Principles of the Quantum Theory*, translated by C. Eckart and F. C. Hoyt, Chicago: University of Chicago Press.
+
 [^pauli-1946]: Pauli, W., 1946, “Exclusion Principle and Quantum Mechanics,” in *Nobel Lectures, Physics 1942–1962*, Amsterdam: Elsevier Publishing Co., 1964.
+
 [^sommerfeld-1923]: Sommerfeld, A., 1923 [1919], *Atomic Structure and Spectral Lines*, translated by H. Brose, London: Methuen.
+
 [^sommerfeld-1924]: –––, 1924, “Grundlagen der Quantentheorie und des Bohrschen Atommodelles,” *Die Naturwissenschaften*, 12(47): 1047–1049.
+
 [^van-1924a]: Van Vleck, J. H., 1924a, “The Absorption of Radiation by Multiply Periodic Orbits, and Its Relation to the Correspondence Principle and the Rayleigh-Jeans law. Part I: Some Extensions of the Correspondence Principle,” *Physical Review*, 24: 330–346.
+
 [^van-1924b]: –––, 1924b, “The Absorption of Radiation by Multiply Periodic Orbits, and Its Relation to the Correspondence Principle and the Rayleigh-Jeans law. Part II. Calculation of Absorption by Multiply Periodic Orbits,” *Physical Review*, 24: 347–365.
+
 [^batterman-1991]: Batterman, R., 1991, “Chaos, quantization, and the correspondence principle,” *Synthese*, 89: 189–227.
+
 [^beller-1999]: Beller, M., 1999, *Quantum Dialogue: The Making of a Revolution*, Chicago: University of Chicago Press.
+
 [^bohm-1951]: Bohm, D., 1951, *Quantum Theory*, New York: Prentice Hall. Reprinted by Dover Publications, Inc.
+
 [^bokulich-2004]: Bokulich, A., 2004, “Open or closed? Dirac, Heisenberg, and the relation between classical and quantum mechanics,” *Studies in History and Philosophy of Modern Physics*, 35: 377–396.
+
 [^bokulich-2006]: –––, 2006, “Heisenberg meets Kuhn: Closed theories and paradigms,” *Philosophy of Science*, 73: 90–107.
+
 [^bokulich-2008]: –––, 2008, *Reexamining the Quantum-Classical Relation: Beyond Reductionism and Pluralism*, Cambridge: Cambridge University Press.
+
 [^bokulich-2005]: Bokulich, P. and A. Bokulich, 2005, “Niels Bohr’s generalization of classical mechanics,” *Foundations of Physics*, 35: 347–371.
+
 [^darrigol-1992]: Darrigol, O., 1992, *From c-Numbers to q-Numbers: The Classical Analogy in the History of Quantum Theory*, Berkeley: University of California Press.
+
 [^darrigol-1997]: –––, 1997, “Classical concepts in Bohr’s atomic theory (1913–1925),” *Physis: Riv. Internaz. di Storia della Scienza*, 34: 545–567.
+
 [^duncan-2007]: Duncan, A. and M. Janssen, 2007, “On the verge of *Umdeutung* in Minnesota: Van Vleck and the Correspondence Principle, Part One,” *Archive for History of Exact Sciences*, 61(6): 553–624.
+
 [^duncan-2019]: –––, 2019, *Constructing Quantum Mechanics* (Volume 1: The Scaffold 1900–1923), Oxford: Oxford University Press.
+
 [^fedak-2002]: Fedak, W. A. and J. J. Prentis, 2002, “Quantum jumps and classical harmonics,” *American Journal of Physics*, 70: 332–344.
+
 [^ford-1992]: Ford, J. and G. Mantica, 1992, “Does quantum mechanics obey the correspondence principle? Is it complete?” *American Journal of Physics*, 60: 1086–1098.
+
 [^habib-1998]: Habib, S., K. Shizume, and W. Zurek, 1998, “Decoherence, Chaos and the Correspondence Principle,” *Physical Review Letters*, 80: 4361–4365.
-[^hassoun-1989]: Hassoun, G. and D. Kobe, 1989, “Synthesis of the Planck and Bohr formulations of the correspondence principle,”, *American Journal of Physics*, 57(7): 658–662.
+
+[^hassoun-1989]: Hassoun, G. and D. Kobe, 1989, “Synthesis of the Planck and Bohr formulations of the correspondence principle,” *American Journal of Physics*, 57(7): 658–662.
+
 [^heilbron-1983]: Heilbron, J., 1983, “The Origins of the Exclusion Principle,” *Historical Studies in the Physical Sciences*, 13(2): 261–310.
+
 [^jähnert-2019]: Jähnert, M., 2019, *Practicing the Correspondence Principle in the Old Quantum Theory: A Transformation through Implementation*, Archimedes 56, Cham: Springer.
+
 [^jammer-1966]: Jammer, M., 1966, *The Conceptual Development of Quantum Mechanics*, New York: McGraw Hill Book Co.
+
 [^liboff-1984]: Liboff, R., 1984, “The correspondence principle revisited,” *Physics Today*, 37: 50–55.
+
 [^mehra-1982]: Mehra, J. and Rechenberg, H., 1982, *The Historical Development of Quantum Theory* (Volume I: *The Quantum Theory of Planck, Einstein, Bohr and Sommerfeld: Its Foundation and the Rise of Its Difficulties 1900–1925*; Volume II: *The Discovery of Quantum Mechanics 1925*), New York: Springer-Verlag.
+
 [^nielsen-1976]: Nielsen, J. R., 1976, “Introduction to *Niels Bohr Collected Works* (Volume 3),” in Bohr (1976), pp. 3–46.
+
 [^post-1971]: Post, H., 1971, “Correspondence, Invariance and Heuristics: In Praise of Conservative Induction,” *Studies in History and Philosophy of Science*, 2: 213–255; reprinted in *Correspondence, Invariance and Heuristics: Essays in Honour of Heinz Post* (Boston Studies in the Philosophy of Science, Volume 148), S. French and H. Kamminga (eds.), Boston: Kluwer Academic Publishers, 1993, pp. 1–43.
+
 [^radder-1991]: Radder, H., 1991, “Heuristics and The Generalized Correspondence Principle,” *British Journal for the Philosophy of Science*, 42: 195–226.
+
 [^rynasiewicz-2015]: Rynasiewicz, R., 2015, “The (?) Correspondence Principle,” in F. Aaserud and H. Kragh (eds.), *One Hundred Years of the Bohr Atom. Proceedings from a Conference*, Copenhagen: Det Kongelige Danske Videnskabernes Selskab, 175–199.
+
 [^rosenfeld-1979]: Rosenfeld, L., 1979 [1973], “The Wave-Particle Dilemma,” in R. Cohen and J. Stachel (eds.), *Selected Papers of Léon Rosenfeld* (Boston Studies in the Philosophy of Science, Volume 21), Dordrecht: D. Reidel Publishing Co., 688–703; originally published in J. Mehra (ed.), *The Physicist’s Conception of Nature*, Dordrecht: D. Reidel Publishing Co., pp. 251–263.
+
 [^serwer-1977]: Serwer, D., 1977, “*Unmechanischer Zwang*: Pauli, Heisenberg, and the Rejection of the Mechanical Atom, 1923–1925,” *Historical Studies in the Physical Sciences*, 8: 189–256.
+
 [^seth-2008]: Seth, S., 2008, “Mystik and Technik: Arnold Sommerfeld and Early-Weimar Quantum Theory,” *Berichte zur Wissenschaftsgeschichte*, 31(4): 331–352.
+
 [^stachel-2009]: Stachel, J., 2009, “Bohr and the Photon,” in W. Myrvold and J. Christian (eds.), *Quantum Reality, Relativistic Causality, and Closing the Epistemic Circle* (Western Ontario Series in Philosophy of Science, Volume 73), Dordrecht: Springer, pp. 69–83.
+
 [^tanona-2004]: Tanona, S., 2004, “Idealization and Formalism in Bohr’s Approach to Quantum Theory,” *Philosophy of Science*, 71: 683–695.
 
 ## 学术工具

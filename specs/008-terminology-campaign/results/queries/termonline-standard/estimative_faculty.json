@@ -1,0 +1,19 @@
+{
+ "key": "estimative faculty",
+ "term": "estimative faculty",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:01:07+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "教职员工",
+   "en": "faculty and staff",
+   "code": "GB/T 33251—2016",
+   "standard": "高等学校知识产权管理规范",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1}, \"sourceStats\": {\"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"ebe94724d5ac4883816123a9925f9fc3\", \"databaseId\": null, \"standardId\": \"83af9a90b9e54335ae1bec643c2a61b9\", \"standardCode\": \"GB/T 33251—2016\", \"standardName\": \"高等学校知识产权管理规范\", \"standardEnName\": \"Intellectual property management for higher education institutions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2\", \"cnName\": \"教职员工\", \"enName\": \"faculty and staff\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-01-01\", \"ics\": \"03.100.01\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138739, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"教职员工\", \"cnNameSearch\": \"教职员工\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"faculty and staff\", \"wordSearch\": \"faculty and staff\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"高等学校任职的教师、职员、临时聘用人员、实习人员，以高等学校名义从事科研活动的博士后、访问学者和进修人员等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675663876}"
+}

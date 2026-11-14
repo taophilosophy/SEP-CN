@@ -1,0 +1,19 @@
+{
+ "key": "concomitant",
+ "term": "concomitant",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:59:55+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "通睛",
+   "en": "crosseye",
+   "code": "GB/T 42467.8—2023",
+   "standard": "中医临床名词术语 第8部分：眼科学",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"8c12dd36267e40c2921143c0b60c4fd4\", \"databaseId\": null, \"standardId\": \"6ebce9fefde347b9802fb4ef31890012\", \"standardCode\": \"GB/T 42467.8—2023\", \"standardName\": \"中医临床名词术语 第8部分：眼科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 8：Ophthalmology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"9.1\", \"cnName\": \"通睛\", \"enName\": \"crosseye\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112486, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通睛\", \"cnNameSearch\": \"通睛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"crosseye\", \"wordSearch\": \"crosseye\"}, {\"languageType\": 1, \"word\": \"concomitant esotropia\", \"wordSearch\": \"concomitant esotropia\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以双眼同时注视时，目珠偏于内侧为主要表现的眼病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675591882}"
+}

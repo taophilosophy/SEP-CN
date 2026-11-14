@@ -1,0 +1,152 @@
+{
+ "key": "propositions-as-types",
+ "term": "propositions-as-types",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:04:43+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=150",
+ "hits": [
+  {
+   "cn": "砂轮型式",
+   "en": "wheel types",
+   "code": "GB 3883.3—2007",
+   "standard": "手持怯电动工具的安全第二部分:砂轮机丶抛光机和盘怯砂光机的专用要求",
+   "subject": "其它"
+  },
+  {
+   "cn": "花型",
+   "en": "flower types",
+   "code": "GB/T 18247.2—2024",
+   "standard": "主要花卉产品等级第2部分:盆花",
+   "subject": "农业"
+  },
+  {
+   "cn": "已知类型",
+   "en": "known types",
+   "code": "GB/T 26857.1—2011",
+   "standard": "信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "数据类型",
+   "en": "data types",
+   "code": "GB/T 26857.1—2011",
+   "standard": "信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "基本类型",
+   "en": "basic types",
+   "code": "GB/T 26857.1—2011",
+   "standard": "信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "花型",
+   "en": "flower types",
+   "code": "GB/T 19831.2—2008",
+   "standard": "石油天然气工业  固井设备  第2部分：扶正器的放置和止动环测试",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "土壤特征类型",
+   "en": "soil feature types",
+   "code": "GB/T 41224—2021",
+   "standard": "土壤质量 土壤相关数据的数字交换",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "烃类组成",
+   "en": "hydrocarbon types composition",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "版本类型",
+   "en": "types of editions",
+   "code": "GB/T 31076.1—2014",
+   "standard": "汉文古籍特藏藏品定级  第1部分：古籍",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "机体型式",
+   "en": "working surface types",
+   "code": "GB/T 30420.1—2013",
+   "standard": "缝纫机术语 第1部分:基础术语",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "生产类型",
+   "en": "types of production",
+   "code": "GB/T 4863—2008",
+   "standard": "机械制造工艺基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "属具型式",
+   "en": "types of attachments",
+   "code": "GB/T 6104—2005",
+   "standard": "机动工业车辆 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50457—2019",
+   "standard": "医药工业洁净厂房设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "竣工测量",
+   "en": "as-builtsurvey",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as built",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB 50333—2013",
+   "standard": "医院洁净手术部建筑技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "初生纤维",
+   "en": "as-spunfibre",
+   "code": "GB/T 50597—2019",
+   "standard": "纺织工程常用术语、计量单位及符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB 50243—2016",
+   "standard": "通风与空调工程施工质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50780—2013",
+   "standard": "电子工程建设术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2024\": 18, \"2023\": 10, \"2022\": 1, \"2021\": 5, \"2020\": 5, \"2019\": 12, \"2018\": 4, \"2017\": 3, \"2016\": 1, \"2015\": 13, \"2014\": 2, \"2013\": 5, \"2012\": 5, \"2011\": 14, \"2010\": 3, \"2009\": 2, \"2008\": 13, \"2007\": 3, \"2006\": 1, \"2005\": 2, \"1998\": 1, \"1996\": 1, \"暂无年份\": 25}, \"sourceStats\": {\"食品技术\": 2, \"采矿和矿产品\": 2, \"造船和海上构筑物\": 4, \"造纸技术\": 1, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 15, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 5, \"电气工程\": 5, \"电子学\": 4, \"电信、音频和视频工程\": 1, \"环保、保健和安全\": 6, \"材料储运设备\": 14, \"机械系统和通用件\": 2, \"机械制造\": 12, \"服装工业\": 1, \"数学、自然科学\": 1, \"建筑材料和建筑物\": 1, \"土木工程\": 1, \"医药卫生技术\": 4, \"化工技术\": 1, \"冶金\": 6, \"农业\": 7, \"其它\": 26, \"信息技术、办公机械\": 23}, \"typeStats\": {\"7\": 150}, \"totalRecords\": 150, \"tmWordList\": [{\"id\": \"e2423a4a9a3940ca9d36f9b18cf23e61\", \"databaseId\": null, \"standardId\": \"89b80b65103d4c80b5ced871289e05c7\", \"standardCode\": \"GB 3883.3—2007\", \"standardName\": \"手持怯电动工具的安全第二部分:砂轮机丶抛光机和盘怯砂光机的专用要求\", \"standardEnName\": \"Safety of hand-held motor-operated electric tools-Part 2: Particular requirements for grinders.polishers and disk-type sanders\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.110\", \"cnName\": \"砂轮型式\", \"enName\": \"wheel types\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144690, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"砂轮型式\", \"cnNameSearch\": \"砂轮型式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wheel types\", \"wordSearch\": \"wheel types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"符合ISO603-12,1999,1SO 603-14,1999,1SO 603-16,1999的不同用途砂轮。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"83a2ab7becf046db8933de777d2298a4\", \"databaseId\": null, \"standardId\": \"db0b049189d340c58bb81afe77140435\", \"standardCode\": \"GB/T 18247.2—2024\", \"standardName\": \"主要花卉产品等级第2部分:盆花\", \"standardEnName\": \"Product grade for major ornamental plants-Part 2: Flowering potted plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.9\", \"cnName\": \"花型\", \"enName\": \"flower types\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"65.020.20\", \"ccs\": \"B 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215268, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花型\", \"cnNameSearch\": \"花型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flower types\", \"wordSearch\": \"flower types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"花的姿态造型。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>菊花有平瓣型、莲座型、管球型、托桂型等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"66a5c75531114b619105dee1c14541ea\", \"databaseId\": null, \"standardId\": \"f2ba757f8fb949d7b5ff623d3f2d26b8\", \"standardCode\": \"GB/T 26857.1—2011\", \"standardName\": \"信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言\", \"standardEnName\": \"Methods for testing and specification (MTS)- The testing and test control notation version 3 - Part1：TTCN-3 core language\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.14\", \"cnName\": \"已知类型\", \"enName\": \"known types\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"35.100\", \"ccs\": \"L79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238672, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"已知类型\", \"cnNameSearch\": \"已知类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"known types\", \"wordSearch\": \"known types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"已定义类型集,引入了 ASN.1 和其他外部类型。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"72aea8aca3d54b2da374cd4debb1f7a4\", \"databaseId\": null, \"standardId\": \"f2ba757f8fb949d7b5ff623d3f2d26b8\", \"standardCode\": \"GB/T 26857.1—2011\", \"standardName\": \"信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言\", \"standardEnName\": \"Methods for testing and specification (MTS)- The testing and test control notation version 3 - Part1：TTCN-3 core language\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.5\", \"cnName\": \"数据类型\", \"enName\": \"data types\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"35.100\", \"ccs\": \"L79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238673, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数据类型\", \"cnNameSearch\": \"数据类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"data types\", \"wordSearch\": \"data types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"单一的基本类型、基本串类型、结构化类型、专用数据类型以及基于以上类型而由用户定义的全部类型的统称(见表 3)。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b2148be752e644ea8dfb1241f3b6042c\", \"databaseId\": null, \"standardId\": \"f2ba757f8fb949d7b5ff623d3f2d26b8\", \"standardCode\": \"GB/T 26857.1—2011\", \"standardName\": \"信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言\", \"standardEnName\": \"Methods for testing and specification (MTS)- The testing and test control notation version 3 - Part1：TTCN-3 core language\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2\", \"cnName\": \"基本类型\", \"enName\": \"basic types\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"35.100\", \"ccs\": \"L79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238678, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基本类型\", \"cnNameSearch\": \"基本类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basic types\", \"wordSearch\": \"basic types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"本部分的 7.2.1 和 7.2.2 中所描述的预定义的 TTCN-3 类型的集合。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>基本类型集通过其名称加以引用。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"421cf11096ae4e7f8c159c800df93ee2\", \"databaseId\": null, \"standardId\": \"e0ce89f3d16f414181e5cd3ce9390d15\", \"standardCode\": \"GB/T 19831.2—2008\", \"standardName\": \"石油天然气工业  固井设备  第2部分：扶正器的放置和止动环测试\", \"standardEnName\": \"Petroleum and natural gas industries — Equipment for well cementing — Part 2: Centralizer placement and stop—collar testing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.9\", \"cnName\": \"花型\", \"enName\": \"flower types\", \"publishTime\": \"2008-08-28\", \"publishYear\": \"2008\", \"implementTime\": \"2009-03-01\", \"ics\": \"75.180.10\", \"ccs\": \"E92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219491, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"花型\", \"cnNameSearch\": \"花型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flower types\", \"wordSearch\": \"flower types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"花的姿态造型。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"菊花有平瓣型、莲座型、管球型、托桂型等。\"], \"notes\": [], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"04abfde21d26464e8669e98d8159ff63\", \"databaseId\": null, \"standardId\": \"259fbca3054344a6b7efd7f820ddd376\", \"standardCode\": \"GB/T 41224—2021\", \"standardName\": \"土壤质量 土壤相关数据的数字交换\", \"standardEnName\": \"Soil quality—Digital exchange of soil—related data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.27\", \"cnName\": \"土壤特征类型\", \"enName\": \"soil feature types\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"13.080.01\", \"ccs\": \"B 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35025, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"土壤特征类型\", \"cnNameSearch\": \"土壤特征类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"soil feature types\", \"wordSearch\": \"soil feature types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"本文件中指定的特征类型的特定集合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1b9b9c5a4f3d489db6ba6f910e1ae342\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.05.126\", \"cnName\": \"烃类组成\", \"enName\": \"hydrocarbon types composition\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 226748, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"烃类组成\", \"cnNameSearch\": \"烃类组成\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hydrocarbon types composition\", \"wordSearch\": \"hydrocarbon types composition\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"烃族组成\", \"cnNameSearch\": \"烃族组成\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"油品中饱和烃、烯烃和芳烃各组分的含量构成。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"363bcbc7c169480a8ad781010d2a7edd\", \"databaseId\": null, \"standardId\": \"eb3c96dc88544a88b2566b1fa81658ae\", \"standardCode\": \"GB/T 31076.1—2014\", \"standardName\": \"汉文古籍特藏藏品定级  第1部分：古籍\", \"standardEnName\": \"Professional standards for Pre-modern Chinese books and special collections―Part 1：Pre-1912 Chinese books\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.3\", \"cnName\": \"版本类型\", \"enName\": \"types of editions\", \"publishTime\": \"2014-12-22\", \"publishYear\": \"2014\", \"implementTime\": \"2015-07-01\", \"ics\": \"01.040.01\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230371, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"版本类型\", \"cnNameSearch\": \"版本类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"types of editions\", \"wordSearch\": \"types of editions\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"使用不同写印技术制作而成的各类型版本的总称。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e3aa79a4f73a494a8595988fda95f1b1\", \"databaseId\": null, \"standardId\": \"f19b2bad307441a19e0af1f9b09e8d52\", \"standardCode\": \"GB/T 30420.1—2013\", \"standardName\": \"缝纫机术语 第1部分:基础术语\", \"standardEnName\": \"Sewing machine terminology—Part 1: Basic terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.36\", \"cnName\": \"机体型式\", \"enName\": \"working surface types\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-12-01\", \"ics\": \"61.080\", \"ccs\": \"Y17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 237150, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机体型式\", \"cnNameSearch\": \"机体型式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"working surface types\", \"wordSearch\": \"working surface types\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"缝纫机支撑缝料部位的型式。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ff44405a708d4369a13f9721b6f9504c\", \"databaseId\": null, \"standardId\": \"8a673fa7e7c14ae29e9022348374f967\", \"standardCode\": \"GB/T 4863—2008\", \"standardName\": \"机械制造工艺基本术语\", \"standardEnName\": \"General terminology of machine—building technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1.34\", \"cnName\": \"生产类型\", \"enName\": \"types of production\", \"publishTime\": \"2008-07-09\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"01.040.25\", \"ccs\": \"J 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 145716, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生产类型\", \"cnNameSearch\": \"生产类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"types of production\", \"wordSearch\": \"types of production\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"企业(或车间、工段、班组，工作地)生产专业化程度的分类。一般分为大量生产、成批生产和单件生产三种类型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ef4102b6e1f640d7b1a8622a21d4b8ec\", \"databaseId\": null, \"standardId\": \"3232cb04d35f4bb3910ac693b318bff8\", \"standardCode\": \"GB/T 6104—2005\", \"standardName\": \"机动工业车辆 术语\", \"standardEnName\": \"Powered industrial trucks—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"4.12.3.1\", \"cnName\": \"属具型式\", \"enName\": \"types of attachments\", \"publishTime\": \"2005-10-24\", \"publishYear\": \"2005\", \"implementTime\": \"2006-05-01\", \"ics\": \"53.060\", \"ccs\": \"J 83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54767, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"属具型式\", \"cnNameSearch\": \"属具型式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"types of attachments\", \"wordSearch\": \"types of attachments\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"312cf45a7cf7445eba366e1937077237\", \"databaseId\": null, \"standardId\": \"5273a6b311df477c81d8b55570afb291\", \"standardCode\": \"GB/T 50457—2019\", \"standardName\": \"医药工业洁净厂房设计标准\", \"standardEnName\": \"Standard for design of pharmaceutical industry clean room\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 86090, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已经建成，所有动力接通并运行，但无生产设备、物料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"50a5934b11144e73b3ae53423f416fd6\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.71\", \"cnName\": \"竣工测量\", \"enName\": \"as-builtsurvey\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 106784, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"竣工测量\", \"cnNameSearch\": \"竣工测量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-builtsurvey\", \"wordSearch\": \"as-builtsurvey\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铁路工程竣工验收阶段进行的测量工作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fd50fa6661474ab28b2b27d1fbfcb5d6\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.33\", \"cnName\": \"空态\", \"enName\": \"as built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123699, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as built\", \"wordSearch\": \"as built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已建成，所有动力接通并运行，但无生产设备、材料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5a33799656ba43c9ad60b006fd3b2795\", \"databaseId\": null, \"standardId\": \"8368406614724de79f89ef0b6de327c5\", \"standardCode\": \"GB 50333—2013\", \"standardName\": \"医院洁净手术部建筑技术规范\", \"standardEnName\": \"Architectural technical code for hospital clean operating department\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138367, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"室内净化空调设施及功能齐备而未运行，但室内没有医疗设备和人员的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce025145d8bd4093a1a2fbc86176c97c\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.2.14\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140071, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已经建成，所有动力接通并运行，但无生产设备、材料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a8b9441119954e65b12238f4a1f65657\", \"databaseId\": null, \"standardId\": \"939a5d8de2b74acab78e144a0d78bd6c\", \"standardCode\": \"GB/T 50597—2019\", \"standardName\": \"纺织工程常用术语、计量单位及符号标准\", \"standardEnName\": \"Standard for terminology, measure units and symbols in textile engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.3.3\", \"cnName\": \"初生纤维\", \"enName\": \"as-spunfibre\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156131, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初生纤维\", \"cnNameSearch\": \"初生纤维\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-spunfibre\", \"wordSearch\": \"as-spunfibre\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"聚合物经纺丝成形后未经拉伸处理的初生状态纤维。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0dc16c3a6be1402c8792f462db9d8ded\", \"databaseId\": null, \"standardId\": \"99a0bcb17af64126824ae4f33495788c\", \"standardCode\": \"GB 50243—2016\", \"standardName\": \"通风与空调工程施工质量验收规范\", \"standardEnName\": \"Code of acceptance for construction quality ofventilation and qir conditioning works\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.21\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 160265, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"洁净室的设施已经建成，所有动力接通并运行，但无生产设备、材料及作业人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"add8e41721984cae9164fd050cb3015f\", \"databaseId\": null, \"standardId\": \"a90a570b2f444b148adb4bf86bcba482\", \"standardCode\": \"GB/T 50780—2013\", \"standardName\": \"电子工程建设术语标准\", \"standardEnName\": \"Terminology standard of electronics engineering construction\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.1.13\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173136, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已建成，所有动力接通并运行，但无生产设备、材料及人员的洁净室状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 8}}, \"timestamp\": 1794675880102}"
+}

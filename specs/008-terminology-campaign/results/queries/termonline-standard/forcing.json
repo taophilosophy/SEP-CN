@@ -1,0 +1,19 @@
+{
+ "key": "forcing",
+ "term": "forcing",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:01:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "强励倍数",
+   "en": "forcing factor",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"e0151aa8a2724d3e81f09b3f9e2fe226\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"5.5.2.3\", \"cnName\": \"强励倍数\", \"enName\": \"forcing factor\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 59296, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"强励倍数\", \"cnNameSearch\": \"强励倍数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"forcing factor\", \"wordSearch\": \"forcing factor\"}, {\"languageType\": 1, \"word\": \"forcing multiple\", \"wordSearch\": \"forcing multiple\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"强行励磁状态下同步电机励磁系统的标称顶值电压与额定励磁电压之比值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675679889}"
+}

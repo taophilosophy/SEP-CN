@@ -1,0 +1,152 @@
+{
+ "key": "propositions-as-monotypes",
+ "term": "propositions-as-monotypes",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:04:35+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=128",
+ "hits": [
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50457—2019",
+   "standard": "医药工业洁净厂房设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "竣工测量",
+   "en": "as-builtsurvey",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as built",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB 50333—2013",
+   "standard": "医院洁净手术部建筑技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "初生纤维",
+   "en": "as-spunfibre",
+   "code": "GB/T 50597—2019",
+   "standard": "纺织工程常用术语、计量单位及符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB 50243—2016",
+   "standard": "通风与空调工程施工质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 50780—2013",
+   "standard": "电子工程建设术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB 50073—2013",
+   "standard": "洁净厂房设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 25915.3—2024",
+   "standard": "洁净室及相关受控环境第3部分:检测方法",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "峻工资料",
+   "en": "as-builtdocumentation",
+   "code": "GB/T 36689—2018",
+   "standard": "设施管理交底 一般要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "空态",
+   "en": "as-built",
+   "code": "GB/T 33556.1—2017",
+   "standard": "医院洁净室及相关受控环境 应用规范 第1部分：总则 ",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "铸态",
+   "en": "as-cast",
+   "code": "GB/T 30062—2013",
+   "standard": "钢管术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "轧制状态",
+   "en": "as-rolled",
+   "code": "GB/T 30062—2013",
+   "standard": "钢管术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "焊接状态",
+   "en": "as-welded",
+   "code": "GB/T 30062—2013",
+   "standard": "钢管术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "完工数据",
+   "en": "as-built data",
+   "code": "GB/T 40788—2021",
+   "standard": "船舶与海上技术  海上风能  港口与海上作业",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "竣工图",
+   "en": "as-built drawing",
+   "code": "GB/T 50328—2014",
+   "standard": "建设工程文件归档规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "含确废水",
+   "en": "As-containing wastewater",
+   "code": "GB 50814—2013",
+   "standard": "电子工程环境保护设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "原样体积密度",
+   "en": "as-received density",
+   "code": "GB/T 50081—2019",
+   "standard": "混凝土物理力学性能试验方法标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "冷剂水",
+   "en": "water as refrigerant",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2024\": 17, \"2023\": 8, \"2022\": 1, \"2021\": 4, \"2020\": 5, \"2019\": 11, \"2018\": 4, \"2017\": 3, \"2016\": 1, \"2015\": 13, \"2014\": 1, \"2013\": 3, \"2012\": 5, \"2011\": 10, \"2010\": 3, \"2009\": 2, \"2008\": 9, \"2007\": 1, \"1998\": 1, \"1996\": 1, \"暂无年份\": 24}, \"sourceStats\": {\"食品技术\": 2, \"采矿和矿产品\": 2, \"造船和海上构筑物\": 4, \"造纸技术\": 1, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 13, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 3, \"电气工程\": 5, \"电子学\": 3, \"电信、音频和视频工程\": 1, \"环保、保健和安全\": 5, \"材料储运设备\": 12, \"机械制造\": 10, \"土木工程\": 1, \"医药卫生技术\": 4, \"化工技术\": 1, \"冶金\": 5, \"农业\": 6, \"其它\": 25, \"信息技术、办公机械\": 19}, \"typeStats\": {\"7\": 128}, \"totalRecords\": 128, \"tmWordList\": [{\"id\": \"312cf45a7cf7445eba366e1937077237\", \"databaseId\": null, \"standardId\": \"5273a6b311df477c81d8b55570afb291\", \"standardCode\": \"GB/T 50457—2019\", \"standardName\": \"医药工业洁净厂房设计标准\", \"standardEnName\": \"Standard for design of pharmaceutical industry clean room\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 86090, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已经建成，所有动力接通并运行，但无生产设备、物料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"50a5934b11144e73b3ae53423f416fd6\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.71\", \"cnName\": \"竣工测量\", \"enName\": \"as-builtsurvey\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 106784, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"竣工测量\", \"cnNameSearch\": \"竣工测量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-builtsurvey\", \"wordSearch\": \"as-builtsurvey\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铁路工程竣工验收阶段进行的测量工作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fd50fa6661474ab28b2b27d1fbfcb5d6\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.33\", \"cnName\": \"空态\", \"enName\": \"as built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123699, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as built\", \"wordSearch\": \"as built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已建成，所有动力接通并运行，但无生产设备、材料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5a33799656ba43c9ad60b006fd3b2795\", \"databaseId\": null, \"standardId\": \"8368406614724de79f89ef0b6de327c5\", \"standardCode\": \"GB 50333—2013\", \"standardName\": \"医院洁净手术部建筑技术规范\", \"standardEnName\": \"Architectural technical code for hospital clean operating department\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138367, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"室内净化空调设施及功能齐备而未运行，但室内没有医疗设备和人员的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce025145d8bd4093a1a2fbc86176c97c\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.2.14\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140071, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已经建成，所有动力接通并运行，但无生产设备、材料及人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a8b9441119954e65b12238f4a1f65657\", \"databaseId\": null, \"standardId\": \"939a5d8de2b74acab78e144a0d78bd6c\", \"standardCode\": \"GB/T 50597—2019\", \"standardName\": \"纺织工程常用术语、计量单位及符号标准\", \"standardEnName\": \"Standard for terminology, measure units and symbols in textile engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.3.3\", \"cnName\": \"初生纤维\", \"enName\": \"as-spunfibre\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156131, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初生纤维\", \"cnNameSearch\": \"初生纤维\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-spunfibre\", \"wordSearch\": \"as-spunfibre\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"聚合物经纺丝成形后未经拉伸处理的初生状态纤维。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0dc16c3a6be1402c8792f462db9d8ded\", \"databaseId\": null, \"standardId\": \"99a0bcb17af64126824ae4f33495788c\", \"standardCode\": \"GB 50243—2016\", \"standardName\": \"通风与空调工程施工质量验收规范\", \"standardEnName\": \"Code of acceptance for construction quality ofventilation and qir conditioning works\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.21\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 160265, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"洁净室的设施已经建成，所有动力接通并运行，但无生产设备、材料及作业人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"add8e41721984cae9164fd050cb3015f\", \"databaseId\": null, \"standardId\": \"a90a570b2f444b148adb4bf86bcba482\", \"standardCode\": \"GB/T 50780—2013\", \"standardName\": \"电子工程建设术语标准\", \"standardEnName\": \"Terminology standard of electronics engineering construction\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.1.13\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173136, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已建成，所有动力接通并运行，但无生产设备、材料及人员的洁净室状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7266a23eaf104de29086d9849d26ebaf\", \"databaseId\": null, \"standardId\": \"b6d221ee033142919cff2f204c30af17\", \"standardCode\": \"GB 50073—2013\", \"standardName\": \"洁净厂房设计规范\", \"standardEnName\": \"Code for design of clean room\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.25\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186969, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已经建成，其服务动力公用设施区接通并运行，但无生产设备、材料及人员的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81cece9a78bb40a58205dc79b45eda05\", \"databaseId\": null, \"standardId\": \"8e8064d815ab4845ae98f7b2b9ab19f3\", \"standardCode\": \"GB/T 25915.3—2024\", \"standardName\": \"洁净室及相关受控环境第3部分:检测方法\", \"standardEnName\": \"Cleanrooms and associated controlled environments-Part 3: Test methods\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.7.1\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"ICS 13.040.35\", \"ccs\": \"CCS C 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 150585, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"洁净室或洁净区所有服务设施就位并运行,但无设备、家具、材料和人员的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 25915.1-2021\", \"sourceCode\": \"3.3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4f08fd1dffe247749771f4670728e433\", \"databaseId\": null, \"standardId\": \"b30752904fd746c4acc5eb24a5dbd003\", \"standardCode\": \"GB/T 36689—2018\", \"standardName\": \"设施管理交底 一般要求\", \"standardEnName\": \"Facility management briefing—General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.27\", \"cnName\": \"峻工资料\", \"enName\": \"as-builtdocumentation\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"03.080.99;91.040.01\", \"ccs\": \"J04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183526, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"峻工资料\", \"cnNameSearch\": \"峻工资料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-builtdocumentation\", \"wordSearch\": \"as-builtdocumentation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施峻工时形成的反映其设计、施工、安装、调试、验收和整改等过程及真实情况的文件资料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a77f307a9e7f4bfb9eb23a67302da66b\", \"databaseId\": null, \"standardId\": \"110cd8e2badd46cc94c28755d3c32f1e\", \"standardCode\": \"GB/T 33556.1—2017\", \"standardName\": \"医院洁净室及相关受控环境 应用规范 第1部分：总则 \", \"standardEnName\": \"Application specification for hospital cleanrooms and associated controlled environment—Part 1 : General guidelines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.4\", \"cnName\": \"空态\", \"enName\": \"as-built\", \"publishTime\": \"2017-05-12\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"ICS 13.040.20\", \"ccs\": \"C 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15685, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空态\", \"cnNameSearch\": \"空态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built\", \"wordSearch\": \"as-built\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设施已建成并运行，但无医疗设备、材料和人员的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 25915.1—2010\", \"sourceCode\": \"2.4.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"53281c1c30cd418dad9f5190dc547bad\", \"databaseId\": null, \"standardId\": \"92f31b7a93b1405e903ec68064aea81a\", \"standardCode\": \"GB/T 30062—2013\", \"standardName\": \"钢管术语\", \"standardEnName\": \"Terminology of steel pipes and tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"5.6\", \"cnName\": \"铸态\", \"enName\": \"as-cast\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.140.757\", \"ccs\": \"H48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155127, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"铸态\", \"cnNameSearch\": \"铸态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-cast\", \"wordSearch\": \"as-cast\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"钢管交货状态形成于浇铸成型，成型后未再进行任何塑性变形加工。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"92302d2d77a24b6dbd25a25f9f0e31bf\", \"databaseId\": null, \"standardId\": \"92f31b7a93b1405e903ec68064aea81a\", \"standardCode\": \"GB/T 30062—2013\", \"standardName\": \"钢管术语\", \"standardEnName\": \"Terminology of steel pipes and tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"5.1\", \"cnName\": \"轧制状态\", \"enName\": \"as-rolled\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.140.757\", \"ccs\": \"H48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155165, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轧制状态\", \"cnNameSearch\": \"轧制状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-rolled\", \"wordSearch\": \"as-rolled\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"钢管交货状态形成于最终塑性变形加工，加工后未再进行任何特殊轧制和/或热处理，如热轧、热扩、热锻、热挤、热顶、冷轧、冷拔。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d292f477851a40f68df0139225c45afc\", \"databaseId\": null, \"standardId\": \"92f31b7a93b1405e903ec68064aea81a\", \"standardCode\": \"GB/T 30062—2013\", \"standardName\": \"钢管术语\", \"standardEnName\": \"Terminology of steel pipes and tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"5.2\", \"cnName\": \"焊接状态\", \"enName\": \"as-welded\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.140.757\", \"ccs\": \"H48\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155168, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"焊接状态\", \"cnNameSearch\": \"焊接状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-welded\", \"wordSearch\": \"as-welded\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"钢管交货状态形成于最终焊接加工，加工后未再进行任何特殊轧制和/或热处理。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e84a7f9f7893451eb5427ffb1f9fa0f5\", \"databaseId\": null, \"standardId\": \"2e4cc7df2233488cae1e709d004b2a3c\", \"standardCode\": \"GB/T 40788—2021\", \"standardName\": \"船舶与海上技术  海上风能  港口与海上作业\", \"standardEnName\": \"Ships and marine technology—Offshore wind energy—Port and marine operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.7\", \"cnName\": \"完工数据\", \"enName\": \"as-built data\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"47.020.20\", \"ccs\": \"U 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49757, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"完工数据\", \"cnNameSearch\": \"完工数据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built data\", \"wordSearch\": \"as-built data\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"电缆完工数据\", \"cnNameSearch\": \"电缆完工数据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-laid data\", \"wordSearch\": \"as-laid data\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"完工后最终测量数据，电缆或结构全部连接后的测量数据，或者经纠正或修复后的测量数据。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>最终完工报告包括现场的最终状态。</p>\", \"<p>电缆完工数据是电缆敷设后或结构安装后，在连接电网前进行测量的数据，包括三维位置、状态、可能的损坏位置和图片（如可能），目标范围内或电缆通道内可能的碎片位置（如可能，包括相关图片）。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a91de69980964289b6c477d593134373\", \"databaseId\": null, \"standardId\": \"0d616f6f2e6742d784842bf1e91fee56\", \"standardCode\": \"GB/T 50328—2014\", \"standardName\": \"建设工程文件归档规范\", \"standardEnName\": \"Code for putting construction project documents into records\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"竣工图\", \"enName\": \"as-built drawing\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 11884, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"竣工图\", \"cnNameSearch\": \"竣工图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-built drawing\", \"wordSearch\": \"as-built drawing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"工程竣工验收后，真实反映建设工程施工结果的图样。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c5e1aa59354d4d699ef56758ed048be9\", \"databaseId\": null, \"standardId\": \"32df23838072410ebeea7e29c379f476\", \"standardCode\": \"GB 50814—2013\", \"standardName\": \"电子工程环境保护设计规范\", \"standardEnName\": \"Code for design of environmental protection of electronic engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"含确废水\", \"enName\": \"As-containing wastewater\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55736, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含确废水\", \"cnNameSearch\": \"含确废水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"As-containing wastewater\", \"wordSearch\": \"As-containing wastewater\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指生产过程中排放的含有砷及其化合物的废水。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c2be3629bad24f5da962d6cab1164a74\", \"databaseId\": null, \"standardId\": \"62e874d81680470cb4d3f46c243872c7\", \"standardCode\": \"GB/T 50081—2019\", \"standardName\": \"混凝土物理力学性能试验方法标准\", \"standardEnName\": \"Standard for test methods of concrete physical and mechanical properties\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.15\", \"cnName\": \"原样体积密度\", \"enName\": \"as-received density\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 98884, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"原样体积密度\", \"cnNameSearch\": \"原样体积密度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"as-received density\", \"wordSearch\": \"as-received density\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"硬化混凝土试件在收样原状态下的质量与总体积之比，总体积是混凝土固体体积、内部闭口孔隙体积与开口孔隙体积三者之和。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f3a889fbd77b4f96b1fa67bdab0289db\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.2.8\", \"cnName\": \"冷剂水\", \"enName\": \"water as refrigerant\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140169, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"冷剂水\", \"cnNameSearch\": \"冷剂水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"water as refrigerant\", \"wordSearch\": \"water as refrigerant\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在吸收式制冷装置中，作为制冷剂的水。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 7}}, \"timestamp\": 1794675871893}"
+}

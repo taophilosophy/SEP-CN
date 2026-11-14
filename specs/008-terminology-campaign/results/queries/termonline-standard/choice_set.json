@@ -1,0 +1,152 @@
+{
+ "key": "choice set",
+ "term": "choice set",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:59:47+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=410",
+ "hits": [
+  {
+   "cn": "建立时间 t<sub>set</sub>",
+   "en": "settling time  t<sub>set</sub>",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "试验组 test set-up",
+   "en": "",
+   "code": "GB/T 31489.1—2015",
+   "standard": "额定电压500 kV及以下直流输电用挤包绝缘电力电缆系统 第1部分：试验方法和要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "基本选择",
+   "en": "base choice",
+   "code": "GB/T 38634.4—2020",
+   "standard": "系统与软件工程 软件测试第4部分:测试技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "选择类型",
+   "en": "choice type",
+   "code": "GB/Z 29619.6—2013",
+   "standard": "测量和控制数字数据通信 工业控制系统用现场总线 类型8：INTERBUS 规范 第6部分：应用层协议规范",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "择一器",
+   "en": "choice device",
+   "code": "GB/T 5271.13—2008",
+   "standard": "信息技术 词汇 第13部分：计算机图形",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "选择设备,选择器",
+   "en": "choice device",
+   "code": "GB/T 9544—1988",
+   "standard": "信息处理系统  计算机处理图形  图形核心系统 （GKS）的功能描述",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "双试样试验",
+   "en": "the two-choice test",
+   "code": "GB/T 18260—2015",
+   "standard": "木材防腐剂对白蚁毒效 实验室试验方法 ",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "机组",
+   "en": "set",
+   "code": "GB/T 8542—2023",
+   "standard": "高速齿轮传动装置技术规范",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "变定",
+   "en": "set",
+   "code": "GB/T 15035—2023",
+   "standard": "木材干燥术语",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "集合",
+   "en": "set",
+   "code": "GB/T 40205—2021",
+   "standard": "信息与文献 馆藏信息格式",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "组",
+   "en": "set",
+   "code": "GB/T 18658—2018",
+   "standard": "摆锤式冲击试验机间接检验用 夏比V型缺口标准试样 ",
+   "subject": "试验"
+  },
+  {
+   "cn": "机组",
+   "en": "set",
+   "code": "GB/T 33199.1—2016",
+   "standard": "机械振动 旋转机械扭振 第1部分：50MW以上陆地安装的透平和燃气轮机发电机组",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "启用报警",
+   "en": "set",
+   "code": "GB/T 26776—2011",
+   "standard": "道路车辆  3.5 t以上的商用车报警系统",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "集合",
+   "en": "set",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "永久变形",
+   "en": "set",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "流向",
+   "en": "set",
+   "code": "GB/T 4099—2005",
+   "standard": "航海常用术语及其代（符）号",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "机组",
+   "en": "set",
+   "code": "GB/T 6072.5—2003",
+   "standard": "往复式内燃机  性能  第 5 部分: 扭转振动",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "置位",
+   "en": "set",
+   "code": "GB/T 17574—1998",
+   "standard": "半导体器件集成电路第2部分:数字集成电路",
+   "subject": "电子学"
+  },
+  {
+   "cn": "置位",
+   "en": "set",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "自由选择感官剖面",
+   "en": "free-choice sensory profile",
+   "code": "GB/T 39625—2020",
+   "standard": "感官分析 方法学  建立感官剖面的导则",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2024\": 7, \"2023\": 16, \"2022\": 27, \"2021\": 34, \"2020\": 32, \"2019\": 19, \"2018\": 20, \"2017\": 31, \"2016\": 13, \"2015\": 26, \"2014\": 14, \"2013\": 7, \"2012\": 9, \"2011\": 25, \"2010\": 9, \"2009\": 2, \"2008\": 32, \"2006\": 2, \"2005\": 5, \"2004\": 11, \"2003\": 4, \"2002\": 4, \"2001\": 5, \"2000\": 10, \"1998\": 3, \"1996\": 1, \"1993\": 1, \"1988\": 4, \"暂无年份\": 36}, \"sourceStats\": {\"食品技术\": 12, \"采矿和矿产品\": 3, \"道路车辆工程\": 3, \"造船和海上构筑物\": 4, \"货物的包装和调运\": 6, \"试验\": 6, \"计量学和测量、物理现象\": 9, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 5, \"综合、术语学、标准化、文献\": 52, \"纺织和皮革技术\": 4, \"精密机械、珠宝\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 8, \"电气工程\": 21, \"电子学\": 5, \"电信、音频和视频工程\": 8, \"环保、保健和安全\": 18, \"涂料和颜料工业\": 2, \"流体系统和通用件\": 2, \"橡胶和塑料工业\": 17, \"材料储运设备\": 1, \"机械系统和通用件\": 9, \"机械制造\": 33, \"木材技术\": 3, \"服装工业\": 4, \"成像技术\": 9, \"建筑材料和建筑物\": 10, \"家用和商用设备、文娱、体育\": 10, \"医药卫生技术\": 13, \"化工技术\": 3, \"冶金\": 4, \"农业\": 5, \"其它\": 41, \"信息技术、办公机械\": 71}, \"typeStats\": {\"7\": 410}, \"totalRecords\": 410, \"tmWordList\": [{\"id\": \"d1fc3a48616a4fb182e8cd467695fc9b\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.3.1.41\", \"cnName\": \"建立时间 t<sub>set</sub>\", \"enName\": \"settling time  t<sub>set</sub>\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184674, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"建立时间 t<sub>set</sub>\", \"cnNameSearch\": \"建立时间 t<sub>set</sub>\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"settling time  t<sub>set</sub>\", \"wordSearch\": \"settling time  t<sub>set</sub>\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"放大器联成闭环状态，经调零后，当大讯号阶跃脉冲输入时，放大器输出讯号达到规定精度（± ε/<i>V</i><sub>0</sub> ·100%）所需时间。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"911a25537bb34b418530df37f0ccccce\", \"databaseId\": null, \"standardId\": \"608b687e074a411ba41cbaa60439fcb5\", \"standardCode\": \"GB/T 31489.1—2015\", \"standardName\": \"额定电压500 kV及以下直流输电用挤包绝缘电力电缆系统 第1部分：试验方法和要求\", \"standardEnName\": \"D.C. extruded cable systems for power transmission at a rated voltage up to and including 500 kV —Part 1: Test methods and requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.21\", \"cnName\": \"试验组 test set-up\", \"enName\": \"\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-12-01\", \"ics\": \"29.060.20\", \"ccs\": \"K13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 96238, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"试验组 test set-up\", \"cnNameSearch\": \"试验组 test set-up\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"明显独立的试验回路的组合，多个试验回路可使用同一试验装置同时试验。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"353cd21c03d64f2ab3f55f83feae3871\", \"databaseId\": null, \"standardId\": \"3a62ae4962e0409f8f53fc3f273bc485\", \"standardCode\": \"GB/T 38634.4—2020\", \"standardName\": \"系统与软件工程 软件测试第4部分:测试技术\", \"standardEnName\": \"Systems and software engineering—Software testing—Part 4: Test techniques\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.2\", \"cnName\": \"基本选择\", \"enName\": \"base choice\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.08035\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63094, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基本选择\", \"cnNameSearch\": \"基本选择\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"base choice\", \"wordSearch\": \"base choice\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"见基本值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"04763114afb1437b9b825a446ded5d8e\", \"databaseId\": null, \"standardId\": \"7fabc0968a7b4d03a980543764911396\", \"standardCode\": \"GB/Z 29619.6—2013\", \"standardName\": \"测量和控制数字数据通信 工业控制系统用现场总线 类型8：INTERBUS 规范 第6部分：应用层协议规范\", \"standardEnName\": \"Digital data communication for measurement and control—Fieldbus for use in industrial control systems—Type 8: INTERBUS specification—Part 6: Application Layer Protocol specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.4.17\", \"cnName\": \"选择类型\", \"enName\": \"choice type\", \"publishTime\": \"2013-07-19\", \"publishYear\": \"2013\", \"implementTime\": \"2013-12-15\", \"ics\": \"25.040\", \"ccs\": \"N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 135175, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"选择类型\", \"cnNameSearch\": \"选择类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"choice type\", \"wordSearch\": \"choice type\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"89ba7a205ae645e4842bc9e690107472\", \"databaseId\": null, \"standardId\": \"c9563aa26d8f43cea06260ecce7358f0\", \"standardCode\": \"GB/T 5271.13—2008\", \"standardName\": \"信息技术 词汇 第13部分：计算机图形\", \"standardEnName\": \"Information technology — Vocabulary Part 13: Computer graphics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"13.04.39\", \"cnName\": \"择一器\", \"enName\": \"choice device\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.140\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202300, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"择一器\", \"cnNameSearch\": \"择一器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"choice device\", \"wordSearch\": \"choice device\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"选择设备\", \"cnNameSearch\": \"选择设备\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种从一组备选值中提供一个待选值的输入单元。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>操作键盘。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f5c9d73b077e4b8985da331a11e77337\", \"databaseId\": null, \"standardId\": \"c96249818e6b43b685f015028e8e384e\", \"standardCode\": \"GB/T 9544—1988\", \"standardName\": \"信息处理系统  计算机处理图形  图形核心系统 （GKS）的功能描述\", \"standardEnName\": \"Informationprocessing systems--Computer graphics--Graphical kernel system (GKS) functional description\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.12\", \"cnName\": \"选择设备,选择器\", \"enName\": \"choice device\", \"publishTime\": \"1988-06-29\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"35.140\", \"ccs\": \"L67\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202419, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"选择设备,选择器\", \"cnNameSearch\": \"选择设备,选择器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"choice device\", \"wordSearch\": \"choice device\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种 GKS 的逻辑输入设备, 它提供了一个用于确定一组选择中某一个的非负整数。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b0c6ea4abad745df92534bc13bee9af3\", \"databaseId\": null, \"standardId\": \"a0d8f11aadb546438a0a13af6a8b343c\", \"standardCode\": \"GB/T 18260—2015\", \"standardName\": \"木材防腐剂对白蚁毒效 实验室试验方法 \", \"standardEnName\": \"Method of laboratory test for toxicity of wood preservatives against termites\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.3\", \"cnName\": \"双试样试验\", \"enName\": \"the two-choice test\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2015-11-02\", \"ics\": \"79.020\", \"ccs\": \"B 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166465, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"双试样试验\", \"cnNameSearch\": \"双试样试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"the two-choice test\", \"wordSearch\": \"the two-choice test\"}, {\"languageType\": 1, \"word\": \"choice feeding test\", \"wordSearch\": \"choice feeding test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测试末材防腐剂对白蚊毒性试验时，在培养瓶中除了白蚁、培养基质外，放置两块试样，通常是一块防腐剂处理试样，一块未经防腐处理或仅溶剂处理的对照试样。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f0ff0ae8c58642149bfa5a15bb3d3fed\", \"databaseId\": null, \"standardId\": \"4e4fab7bb68c4e90b45e5416283c3af9\", \"standardCode\": \"GB/T 8542—2023\", \"standardName\": \"高速齿轮传动装置技术规范\", \"standardEnName\": \"High speed gear units technical specifications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"3.5\", \"cnName\": \"机组\", \"enName\": \"set\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-07\", \"ics\": \"21.20021\", \"ccs\": \"J17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81289, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机组\", \"cnNameSearch\": \"机组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以原动机、齿轮装置、工作机等旋转设备为主，配备以连接、控制、润滑、冷却、防护等辅助系统，把某种输入能量转化成机械能，以完成特定功能的装置群。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"71e9c56d4f274011b7ec11df07bda294\", \"databaseId\": null, \"standardId\": \"8c05c3650c6442dfaf5a0a2ec516d188\", \"standardCode\": \"GB/T 15035—2023\", \"standardName\": \"木材干燥术语\", \"standardEnName\": \"Terminology in wood drying\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.4.17\", \"cnName\": \"变定\", \"enName\": \"set\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"79.020\", \"ccs\": \"B 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147694, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变定\", \"cnNameSearch\": \"变定\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"木材在拉或压应力作用下形成固定不变的残余变形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"49f581ffca3646a2a3a3400d1895dfcf\", \"databaseId\": null, \"standardId\": \"4e7e74fcd24e4e52b1cc61792c812dd6\", \"standardCode\": \"GB/T 40205—2021\", \"standardName\": \"信息与文献 馆藏信息格式\", \"standardEnName\": \"Information and documentation—Schema for holdings information\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1.5\", \"cnName\": \"集合\", \"enName\": \"set\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"35.240.30\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81408, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"集合\", \"cnNameSearch\": \"集合\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由多个组成部分书目资源（包括多卷出版物和连续出版物）组成的集合，通常通过长期订购的方式获得。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cc4a98389b204cf2b4b4615e67230c08\", \"databaseId\": null, \"standardId\": \"9d8d1c12ca6a421f973c3b19fd687a7b\", \"standardCode\": \"GB/T 18658—2018\", \"standardName\": \"摆锤式冲击试验机间接检验用 夏比V型缺口标准试样 \", \"standardEnName\": \"Charpy V—notch reference test pieces for indirect verification of pendulum impact testing machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"3.3.2\", \"cnName\": \"组\", \"enName\": \"set\", \"publishTime\": \"2018-07-13\", \"publishYear\": \"2018\", \"implementTime\": \"2019-02-01\", \"ics\": \"19.060 ;77.040.10\", \"ccs\": \"N 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 163457, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"组\", \"cnNameSearch\": \"组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从一批试样中随机选取的试样组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9daf3905dcd346399c26bac224b502db\", \"databaseId\": null, \"standardId\": \"520b9aa01d924827bda8f64cdbab5f7a\", \"standardCode\": \"GB/T 33199.1—2016\", \"standardName\": \"机械振动 旋转机械扭振 第1部分：50MW以上陆地安装的透平和燃气轮机发电机组\", \"standardEnName\": \"Mechanical vibration—Torsional vibration of rotating machinery—Part 1: Land-based steam and gas turbine generator sets in excess of 50 MW\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"机组\", \"enName\": \"set\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"17.160\", \"ccs\": \"J04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 84303, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机组\", \"cnNameSearch\": \"机组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由高压、中压、低压透平机和发电机、励磁机中一个或多个部件组装起来形成的系统。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7ea16cb9e85d46ffab0bc22e82f74f7b\", \"databaseId\": null, \"standardId\": \"9f8768e54f854dd7ac500548aec1bdbe\", \"standardCode\": \"GB/T 26776—2011\", \"standardName\": \"道路车辆  3.5 t以上的商用车报警系统\", \"standardEnName\": \"Road vehicles - Alarm systems for commercial vehicles of maximum authorized total mass greater than 3.5t\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.5\", \"cnName\": \"启用报警\", \"enName\": \"set\", \"publishTime\": \"2011-07-20\", \"publishYear\": \"2011\", \"implementTime\": \"2012-01-01\", \"ics\": \"43.040.10\", \"ccs\": \"T36\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164691, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"启用报警\", \"cnNameSearch\": \"启用报警\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"VAS 启动工作的系统状态。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed02a92ee3434ffbae7cd29cb9e955e7\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.1.3\", \"cnName\": \"集合\", \"enName\": \"set\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220075, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"集合\", \"cnNameSearch\": \"集合\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"作为整体考虑的对象或概念的集合体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"560764652f67410e84fda4babcfa1fea\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.370\", \"cnName\": \"永久变形\", \"enName\": \"set\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 111971, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"永久变形\", \"cnNameSearch\": \"永久变形\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"完全释放产生变形的力之后剩余的变形。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dc35a8c5237f4f1fa82de72d0717f33c\", \"databaseId\": null, \"standardId\": \"a2ddfb542660480a8db3eef598c056cc\", \"standardCode\": \"GB/T 4099—2005\", \"standardName\": \"航海常用术语及其代（符）号\", \"standardEnName\": \"Navigation terms and symbols in common use\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.8.10\", \"cnName\": \"流向\", \"enName\": \"set\", \"publishTime\": \"2005-10-07\", \"publishYear\": \"2005\", \"implementTime\": \"2006-04-01\", \"ics\": \"03. 220\", \"ccs\": \"R 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 167921, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"流向\", \"cnNameSearch\": \"流向\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"海水流去的方向。正北为零，顺时针计量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dbf75b88442b453d805c672d40b6f0aa\", \"databaseId\": null, \"standardId\": \"a3766eb7641a407d808e7e486a56dce3\", \"standardCode\": \"GB/T 6072.5—2003\", \"standardName\": \"往复式内燃机  性能  第 5 部分: 扭转振动\", \"standardEnName\": \"Reciprocating internal combustion engines—Performance—Part 5: Torsional vibrations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.1\", \"cnName\": \"机组\", \"enName\": \"set\", \"publishTime\": \"2003-05-19\", \"publishYear\": \"2003\", \"implementTime\": \"2003-10-01\", \"ics\": \"27.020\", \"ccs\": \"J 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168405, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机组\", \"cnNameSearch\": \"机组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包含一台或数台往复式内燃机与从动机的机械装置的总成。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"05c092f299e846769092aac5303b6bc8\", \"databaseId\": null, \"standardId\": \"463f446ad8df40c5acc15e4423a903bc\", \"standardCode\": \"GB/T 17574—1998\", \"standardName\": \"半导体器件集成电路第2部分:数字集成电路\", \"standardEnName\": \"Semiconductor devicesIntegrated circuitsPart 2:Digital integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"1.2.21  \", \"cnName\": \"置位\", \"enName\": \"set\", \"publishTime\": \"1998-11-17\", \"publishYear\": \"1998\", \"implementTime\": \"1999-06-01\", \"ics\": \"ICS 31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"置位\", \"cnNameSearch\": \"置位\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"(1)(ISO)使计数器进入符合规定数的状态。</p><p>(2)(ISO)使存储器件置入通常不表示零的规定状态。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>与“复位”相反。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b1b74aaadbc740a4955ae659719d6d33\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.1.1.27\", \"cnName\": \"置位\", \"enName\": \"set\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184735, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"置位\", \"cnNameSearch\": \"置位\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"set\", \"wordSearch\": \"set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"a．使计数器进入对应于规定数的状态。b．将存贮器件置入通常不表示零的规定状态。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>与“复位”相反。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c1e615eafdb1415d9d6932fa089451fa\", \"databaseId\": null, \"standardId\": \"4ed89f1df6f14530b87174311dcd803d\", \"standardCode\": \"GB/T 39625—2020\", \"standardName\": \"感官分析 方法学  建立感官剖面的导则\", \"standardEnName\": \"Sensory analysis—Methodology—General guidance for establishing a sensory profile\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.8\", \"cnName\": \"自由选择感官剖面\", \"enName\": \"free-choice sensory profile\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2020-12-14\", \"ics\": \"ICS 67.240\", \"ccs\": \"B 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81635, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"自由选择感官剖面\", \"cnNameSearch\": \"自由选择感官剖面\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"free-choice sensory profile\", \"wordSearch\": \"free-choice sensory profile\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"每位评价员独立描述一组样品，为其选择感官特性和评分的方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 21}}, \"timestamp\": 1794675583903}"
+}

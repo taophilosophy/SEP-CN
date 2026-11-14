@@ -1,0 +1,19 @@
+{
+ "key": "canonical singleton",
+ "term": "canonical singleton",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:59:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "规范数据模型",
+   "en": "canonical data model;CDM",
+   "code": "GB/T 39260.2—2020",
+   "standard": "用例方法 第2部分:用例模板、参与方清单和需求清单的定义",
+   "subject": "电气工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1}, \"sourceStats\": {\"电气工程\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"b3d958c1a26a4fba9cf951f2650512f4\", \"databaseId\": null, \"standardId\": \"a49148fc3ee64ace85af4e1a42e9db71\", \"standardCode\": \"GB/T 39260.2—2020\", \"standardName\": \"用例方法 第2部分:用例模板、参与方清单和需求清单的定义\", \"standardEnName\": \"Jse case methodology-Part 2: Definition of the templates for use cases,actor list and requirements list\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.14\", \"cnName\": \"规范数据模型\", \"enName\": \"canonical data model;CDM\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"29.02029\", \"ccs\": \"K04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168916, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"规范数据模型\", \"cnNameSearch\": \"规范数据模型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"canonical data model;CDM\", \"wordSearch\": \"canonical data model;CDM\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"选为唯一的统一模型的语义模型，用于管理数据规范集合的语义定义，例如接口集合的消息有效载\\n荷内容的规范。\\n[SGAC语义框架，草案］\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675559868}"
+}

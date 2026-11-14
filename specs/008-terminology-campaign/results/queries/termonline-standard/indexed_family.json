@@ -1,0 +1,152 @@
+{
+ "key": "indexed family",
+ "term": "indexed family",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:02:11+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=170",
+ "hits": [
+  {
+   "cn": "标定",
+   "en": "indexed",
+   "code": "GB/T 38532—2020",
+   "standard": "微束分析 电子背散射衍射平均晶粒尺寸的测定",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "索引组织",
+   "en": "indexed organization",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "变址地址",
+   "en": "indexed address",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 19652—2023",
+   "standard": "放电灯(荧光灯除外) 安全规范 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 18774—2023",
+   "standard": "双端荧光灯 安全规范 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "语族",
+   "en": "family",
+   "code": "GB/T 41453—2022",
+   "standard": "地理信息 权限数据字典",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 40473.1—2021",
+   "standard": "银行业应用系统 非功能需求 第1部分：描述框架 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 19520.19—2020",
+   "standard": "电子设备机械结构   482.6 mm（19 in）系列机械结构尺寸  第3—107部分：小型化插箱和插件的尺寸",
+   "subject": "电子学"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 37031—2018",
+   "standard": "半导体照明术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "code": "GB/T 18336.1—2015",
+   "standard": "信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "系列",
+   "en": "family",
+   "code": "GB 30422—2013",
+   "standard": "无极荧光灯安全要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "门类",
+   "en": "family",
+   "code": "GB/T 5054.2—2008",
+   "standard": "道路车辆  多芯连接电缆  第2部分：高性能护套电缆的性能要求和试验方法",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "门类",
+   "en": "family",
+   "code": "GB/T 5095.1—1997",
+   "standard": "电子设备用机电元件  基本试验规程及测量方法  第1部分:总则",
+   "subject": "电子学"
+  },
+  {
+   "cn": "家族缺陷",
+   "en": "family defect",
+   "code": "GB/T 43540—2023",
+   "standard": "电力储能用锂离子电池退役技术要求",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "家族缺陷",
+   "en": "family defect",
+   "code": "GB/T 43188—2023",
+   "standard": "发电机设备状态评价导则",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "第三卫生间",
+   "en": "family toilets",
+   "code": "GB/T 12956—2023",
+   "standard": "卫生间配套设备要求",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "家事案件",
+   "en": "family cases",
+   "code": "GB/T 42380—2023",
+   "standard": "未成年人司法社会工作服务规范",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "语族树",
+   "en": "family tree",
+   "code": "GB/T 41453—2022",
+   "standard": "地理信息 权限数据字典",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "上下文语族",
+   "en": "context family",
+   "code": "GB/T 41453—2022",
+   "standard": "地理信息 权限数据字典",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "产品集",
+   "en": "product family",
+   "code": "GB/T 41408—2022",
+   "standard": "感官分析 方法学 受控区域消费者喜好测试一般导则",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 9, \"2022\": 16, \"2021\": 13, \"2020\": 24, \"2019\": 39, \"2018\": 2, \"2017\": 3, \"2016\": 2, \"2015\": 8, \"2014\": 1, \"2013\": 6, \"2012\": 1, \"2011\": 2, \"2010\": 4, \"2009\": 2, \"2008\": 4, \"2003\": 4, \"2000\": 1, \"1997\": 2, \"暂无年份\": 27}, \"sourceStats\": {\"食品技术\": 3, \"道路车辆工程\": 13, \"计量学和测量、物理现象\": 11, \"航空器和航天器工程\": 2, \"能源和热传导工程\": 10, \"综合、术语学、标准化、文献\": 7, \"精密机械、珠宝\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 9, \"石油及相关技术\": 5, \"电气工程\": 9, \"电子学\": 7, \"电信、音频和视频工程\": 1, \"环保、保健和安全\": 3, \"橡胶和塑料工业\": 4, \"机械制造\": 24, \"数学、自然科学\": 7, \"建筑材料和建筑物\": 3, \"家用和商用设备、文娱、体育\": 2, \"医药卫生技术\": 2, \"化工技术\": 2, \"冶金\": 7, \"农业\": 2, \"其它\": 27, \"信息技术、办公机械\": 9}, \"typeStats\": {\"7\": 170}, \"totalRecords\": 170, \"tmWordList\": [{\"id\": \"79a2da1d219749f6a70a6615bc4d89ba\", \"databaseId\": null, \"standardId\": \"559eb67cc7a34f49aa58a3e12dc43aee\", \"standardCode\": \"GB/T 38532—2020\", \"standardName\": \"微束分析 电子背散射衍射平均晶粒尺寸的测定\", \"standardEnName\": \"Microbeam analysis-Electron backscatter diffraction——Measurement of average grain size\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1.4\", \"cnName\": \"标定\", \"enName\": \"indexed\", \"publishTime\": \"2020-03-06\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"71.040.4071\", \"ccs\": \"G04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 88366, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标定\", \"cnNameSearch\": \"标定\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"indexed\", \"wordSearch\": \"indexed\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由某像素的EBSD花样计算得到的取向满足预定的可靠性闽值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ecbecf6432a9485abac0956ecde4921e\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.103\", \"cnName\": \"索引组织\", \"enName\": \"indexed organization\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117226, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"索引组织\", \"cnNameSearch\": \"索引组织\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"indexed organization\", \"wordSearch\": \"indexed organization\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"固有逻辑文件结构，其中每条记录由该记录中一个或多个键值确定。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"445b1b96e20c40f8b5b0becb4de9fe80\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.09.45\", \"cnName\": \"变址地址\", \"enName\": \"indexed address\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104450, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变址地址\", \"cnNameSearch\": \"变址地址\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"indexed address\", \"wordSearch\": \"indexed address\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种要由一个或多个变址寄存器的内容来修改的地址。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"636193d3fe3145a18fc289efd16f2923\", \"databaseId\": null, \"standardId\": \"b50f3f59ece74baca898ddf26a014168\", \"standardCode\": \"GB/T 19652—2023\", \"standardName\": \"放电灯(荧光灯除外) 安全规范 \", \"standardEnName\": \"Discharge lamps (excluding fluorescent lamps) ——Safety specifications \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.13\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2026-01-01\", \"ics\": \"ICS 29.140.30\", \"ccs\": \"CCS K 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184569, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以材料、部件和/或加工方法等共同特征为特性对灯进行的分类。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5705f0aff03a4caf917d132c814a28c6\", \"databaseId\": null, \"standardId\": \"c855fcd48c394f40a15899f64d30de63\", \"standardCode\": \"GB/T 18774—2023\", \"standardName\": \"双端荧光灯 安全规范 \", \"standardEnName\": \"Double—capped fluorescent lampSafety specifications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.4\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2026-01-01\", \"ics\": \"ICS 29.140.30\", \"ccs\": \"CCS K 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 200972, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以材料、零部件、管径和/或加工方法的共性区分的灯组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"630be98d52f847e79c991bbb0e6643a9\", \"databaseId\": null, \"standardId\": \"1505423d6ee5475fb229d7aa712ffdfb\", \"standardCode\": \"GB/T 41453—2022\", \"standardName\": \"地理信息 权限数据字典\", \"standardEnName\": \"Geographic information—Rights Data Dictionary for geographicinformation(GeoRDD)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.11\", \"cnName\": \"语族\", \"enName\": \"family\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20808, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语族\", \"cnNameSearch\": \"语族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据上下文模型确定一个词汇从其他词汇继承属性的一组关系。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>语族结构由上下文模型派生。</p>\", \"有三类语族类型，分别是动作语族、上下文语族和关联视图语族。\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9433e055bf5b4d538fa77ce28b78c907\", \"databaseId\": null, \"standardId\": \"e12e7adc32da498e9bf36f97323aa8f9\", \"standardCode\": \"GB/T 40473.1—2021\", \"standardName\": \"银行业应用系统 非功能需求 第1部分：描述框架 \", \"standardEnName\": \"Banking application system—Nonfunctional requirement—Part 1 :Framework for description\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2.2\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2021-07-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-02-01\", \"ics\": \"ICS 35.240.40\", \"ccs\": \"CCS A 11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220693, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一组共同约束应用系统非功能需求的某一方面,但侧重点或严格程度可能不同的组件的集合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"785a32fe108c4ca0a4c45eca42c83511\", \"databaseId\": null, \"standardId\": \"92bd0c190fe041ca81f2d9f60f0a24d7\", \"standardCode\": \"GB/T 19520.19—2020\", \"standardName\": \"电子设备机械结构   482.6 mm（19 in）系列机械结构尺寸  第3—107部分：小型化插箱和插件的尺寸\", \"standardEnName\": \"Mechanical structures for electronic equipment—Dimensions of mechanical structures of the 482.6 mm (19 in) series—Part 3—107: Dimensions of subracks and plug—in units, small form factor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.13\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"31.24031\", \"ccs\": \"K05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154985, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以材料、部件和/或加工方法等共同特征为特性对灯进行的分类。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"62b4ced5aa3e4eac83a46242c8a5b8d5\", \"databaseId\": null, \"standardId\": \"361b0a4245cd440cbbae507aeafa2a40\", \"standardCode\": \"GB/T 37031—2018\", \"standardName\": \"半导体照明术语\", \"standardEnName\": \"Semiconductor lighting terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.2.4.10\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2018-12-28\", \"ics\": \"31.260\", \"ccs\": \"L50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 59838, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有相同特性和控制方法（集成式、半集成式、非集成式）的LED光源或LED灯具的归类，这些分\\n类依据材料、部件和/或加工方法的共同特征来区分。\\n[GB/T24826—2016,定义3.11]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ee3df0530a3d44139be43c3ebcdfd2d0\", \"databaseId\": null, \"standardId\": \"2e0a0926991c4017a07105f219c879a4\", \"standardCode\": \"GB/T 18336.1—2015\", \"standardName\": \"信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 \", \"standardEnName\": \"Information technology—Security techniques—— Evaluation criteria for IT security— Part 1 : Introduction and general model \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1.34\", \"cnName\": \"族\", \"enName\": \"family\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"35.040\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49495, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"族\", \"cnNameSearch\": \"族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有相似目标，但在侧重点或严格程度上不同的组件的集合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ea8aaa408d344d82a4fe1987e1cae39a\", \"databaseId\": null, \"standardId\": \"ad87fe36f69a4e519ab151a049acf6c9\", \"standardCode\": \"GB 30422—2013\", \"standardName\": \"无极荧光灯安全要求\", \"standardEnName\": \"Fluorescent induction lamps-Safety specifications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.9\", \"cnName\": \"系列\", \"enName\": \"family\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2015-07-01\", \"ics\": \"29.140.3029\", \"ccs\": \"K71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179740, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"系列\", \"cnNameSearch\": \"系列\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用特性相同的材料、元件和制造方法的灯组群。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"50ea3ffa723f4010aa07f74a8fce992a\", \"databaseId\": null, \"standardId\": \"c0795ec2be354dccb1b980d81a8da4ea\", \"standardCode\": \"GB/T 5054.2—2008\", \"standardName\": \"道路车辆  多芯连接电缆  第2部分：高性能护套电缆的性能要求和试验方法\", \"standardEnName\": \"Road vehicles — Multi-core connecting cables — Part 2: Test methods and requirements for high performance sheathed cables\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.1\", \"cnName\": \"门类\", \"enName\": \"family\", \"publishTime\": \"2008-09-24\", \"publishYear\": \"2008\", \"implementTime\": \"2009-07-01\", \"ics\": \"43.040.10\", \"ccs\": \"T 36\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193793, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"门类\", \"cnNameSearch\": \"门类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"门类是指一大类机电元件，它们突出地显示一种特定的物理特性和(或)能够完成一种规定的功能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b70afb8ba9b44668b814c14b98d49b61\", \"databaseId\": null, \"standardId\": \"71a2a7c459874a88adae6853add30730\", \"standardCode\": \"GB/T 5095.1—1997\", \"standardName\": \"电子设备用机电元件  基本试验规程及测量方法  第1部分:总则\", \"standardEnName\": \"Electromechanical components for electronic equipment——Basic testing procedures and measuringmethods——Part 1:General\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.1\", \"cnName\": \"门类\", \"enName\": \"family\", \"publishTime\": \"1997-12-26\", \"publishYear\": \"1997\", \"implementTime\": \"1998-10-01\", \"ics\": \"31.220\", \"ccs\": \"L 23\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114500, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"门类\", \"cnNameSearch\": \"门类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family\", \"wordSearch\": \"family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"门类是指一大类机电元件，它们突出地显示一种特定的物理特性和(或)能够完成一种规定的功能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"88f2260e817c4618ae5db4d0e0f84f0b\", \"databaseId\": null, \"standardId\": \"322bd0c9b2864afea935a4c7c285e66e\", \"standardCode\": \"GB/T 43540—2023\", \"standardName\": \"电力储能用锂离子电池退役技术要求\", \"standardEnName\": \"Decommissioning technical requirements of lithium ion battery for electrical energy storage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2\", \"cnName\": \"家族缺陷\", \"enName\": \"family defect\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"27.180\", \"ccs\": \"F19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54531, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"家族缺陷\", \"cnNameSearch\": \"家族缺陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family defect\", \"wordSearch\": \"family defect\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"锂离子电池生产制造过程中由于设计、材料、工艺等共性因素导致的缺陷。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"482819f22936488b91480533e8c2afce\", \"databaseId\": null, \"standardId\": \"50b3cd6f625a49e0bf4d5d517a49c982\", \"standardCode\": \"GB/T 43188—2023\", \"standardName\": \"发电机设备状态评价导则\", \"standardEnName\": \"Guide for condition evaluation of turbogenerators\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.3\", \"cnName\": \"家族缺陷\", \"enName\": \"family defect\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"29.160.20\", \"ccs\": \"K 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 83082, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"家族缺陷\", \"cnNameSearch\": \"家族缺陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family defect\", \"wordSearch\": \"family defect\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由设计、材质、制造、工艺等共性因素导致的缺陷。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>实践中，若同型号、同批次设备的某一缺陷发生率显著高于行业平均水平，通常为家族缺陷。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d05d9b66719b40b0b463e74d151b6047\", \"databaseId\": null, \"standardId\": \"9220b2c8bac04cb1a134492b707f2a6e\", \"standardCode\": \"GB/T 12956—2023\", \"standardName\": \"卫生间配套设备要求\", \"standardEnName\": \"The requirements for bathroom fixtures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.7\", \"cnName\": \"第三卫生间\", \"enName\": \"family toilets\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"91.140.70\", \"ccs\": \"Q 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154696, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"第三卫生间\", \"cnNameSearch\": \"第三卫生间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family toilets\", \"wordSearch\": \"family toilets\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"老、幼及行动不便者使用的卫生间。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1bdc5b862cbf44a0a2a8262846f93d50\", \"databaseId\": null, \"standardId\": \"e8609a73cc074be0b24e7624a176573a\", \"standardCode\": \"GB/T 42380—2023\", \"standardName\": \"未成年人司法社会工作服务规范\", \"standardEnName\": \"Specification for minor's justice social work service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.11\", \"cnName\": \"家事案件\", \"enName\": \"family cases\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"03.080\", \"ccs\": \"A 12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228855, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"家事案件\", \"cnNameSearch\": \"家事案件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family cases\", \"wordSearch\": \"family cases\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"因确定身份关系及基于身份关系而产生的家庭纠纷案件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2c1751d7c8f34730a8e3c2bf4e9c7b8d\", \"databaseId\": null, \"standardId\": \"1505423d6ee5475fb229d7aa712ffdfb\", \"standardCode\": \"GB/T 41453—2022\", \"standardName\": \"地理信息 权限数据字典\", \"standardEnName\": \"Geographic information—Rights Data Dictionary for geographicinformation(GeoRDD)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.12\", \"cnName\": \"语族树\", \"enName\": \"family tree\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语族树\", \"cnNameSearch\": \"语族树\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"family tree\", \"wordSearch\": \"family tree\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个树，其节点作为实体，词汇分支作为节点之间的关系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 17173.1—2015\", \"sourceCode\": \"3.2.66\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"67391f3bf01f41a79ace1572374e7023\", \"databaseId\": null, \"standardId\": \"1505423d6ee5475fb229d7aa712ffdfb\", \"standardCode\": \"GB/T 41453—2022\", \"standardName\": \"地理信息 权限数据字典\", \"standardEnName\": \"Geographic information—Rights Data Dictionary for geographicinformation(GeoRDD)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.7\", \"cnName\": \"上下文语族\", \"enName\": \"context family\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20818, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"上下文语族\", \"cnNameSearch\": \"上下文语族\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"context family\", \"wordSearch\": \"context family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过上下文类型生成的词汇间的一组关系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a873da855ab47fc87c2acf9ddb5e2ef\", \"databaseId\": null, \"standardId\": \"34aabac77bf148b3aa03c8f070524ba3\", \"standardCode\": \"GB/T 41408—2022\", \"standardName\": \"感官分析 方法学 受控区域消费者喜好测试一般导则\", \"standardEnName\": \"Sensory analysis—Methodology—General guidance for conducting hedonic tests with consumers in a controlled area\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.15\", \"cnName\": \"产品集\", \"enName\": \"product family\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"67.240\", \"ccs\": \"X 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56870, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"产品集\", \"cnNameSearch\": \"产品集\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"product family\", \"wordSearch\": \"product family\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"正常消费过程中可以相互替代的产品群。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>产品集会因文化和消费习惯差异而有所不同。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 9}}, \"timestamp\": 1794675727890}"
+}

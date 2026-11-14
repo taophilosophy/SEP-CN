@@ -1,0 +1,26 @@
+{
+ "key": "krein–milman theorem",
+ "term": "Krein–Milman theorem",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:02:43+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "勒夏特列原理",
+   "en": "Le Chatelier's theorem",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "电声互易原理",
+   "en": "electroacoustical reciprocity principle",
+   "code": "GB/T 32522—2016",
+   "standard": "声学 压电球面聚焦超声换能器的 电声特性及其测量 ",
+   "subject": "计量学和测量、物理现象"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1, \"2013\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"冶金\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"82ac71da1e00441386eaf02425dd4916\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.142\", \"cnName\": \"勒夏特列原理\", \"enName\": \"Le Chatelier's theorem\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"勒夏特列原理\", \"cnNameSearch\": \"勒夏特列原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Le Chatelier's theorem\", \"wordSearch\": \"Le Chatelier's theorem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"当一应力作用到平衡系统时，其反作用有减轻该应力的倾向。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e00e4c7759b410f806f496a6b43e1a3\", \"databaseId\": null, \"standardId\": \"fcae61460f3e4668bad2508d7d6ffd54\", \"standardCode\": \"GB/T 32522—2016\", \"standardName\": \"声学 压电球面聚焦超声换能器的 电声特性及其测量 \", \"standardEnName\": \"Acoustics-Electroacoustic characteristics and measurements ofpiezoelectric spherically focusing ultrasonic transducers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7\", \"cnName\": \"电声互易原理\", \"enName\": \"electroacoustical reciprocity principle\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-09-01\", \"ics\": \"ICS 17.140\", \"ccs\": \"A 59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"电声互易原理\", \"cnNameSearch\": \"电声互易原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electroacoustical reciprocity principle\", \"wordSearch\": \"electroacoustical reciprocity principle\"}, {\"languageType\": 1, \"word\": \"electroacoustical reciprocity theorem\", \"wordSearch\": \"electroacoustical reciprocity theorem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"射器时相应的发送电流（或电压）响应之比等于常数，与换能器的结构无关的原理。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 3947—1996\", \"sourceCode\": \"5.67\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675759552}"
+}

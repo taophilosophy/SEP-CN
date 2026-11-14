@@ -1,0 +1,89 @@
+{
+ "key": "nest",
+ "term": "nest",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:03:47+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=11",
+ "hits": [
+  {
+   "cn": "蚊巢",
+   "en": "nest",
+   "code": "GB/T 17980.149—2009",
+   "standard": "农药日 田间药效试验准则（二） 第149部分：杀虫剂防治红火蚁 ",
+   "subject": "农业"
+  },
+  {
+   "cn": "套裁",
+   "en": "nest cutting",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "蜂巢",
+   "en": "bee nest",
+   "code": "GB/T 41227—2021",
+   "standard": "蜜蜂饲养管理技术规范",
+   "subject": "农业"
+  },
+  {
+   "cn": "套裁",
+   "en": "nest cutting",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "活蚁巢",
+   "en": "active nest",
+   "code": "GB/T 17980.149—2009",
+   "standard": "农药日 田间药效试验准则（二） 第149部分：杀虫剂防治红火蚁 ",
+   "subject": "农业"
+  },
+  {
+   "cn": "嵌套",
+   "en": "to nest",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "挑担平筛",
+   "en": "double nest plansifter",
+   "code": "GB/T 8872—2011",
+   "standard": "粮油名词术语 制粉工业",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "梁窝",
+   "en": "bunton hole",
+   "code": "GB/T 15663.2—2023",
+   "standard": "代替 GB/T 15663.2—2008 煤矿科技术语 第2部分：井巷工程 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "筛体",
+   "en": "sieve nest;sieve box",
+   "code": "GB/T 8872—2011",
+   "standard": "粮油名词术语 制粉工业",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "试验用套筛",
+   "en": "nest of test sieves",
+   "code": "GB/T 5329—2003",
+   "standard": "试验筛与筛分试验  术语",
+   "subject": "试验"
+  },
+  {
+   "cn": "白蚁巢真菌指示物",
+   "en": "fungi of indicating termites nest",
+   "code": "GB/T 51253—2017",
+   "standard": "建设工程白蚁危害评定标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2021\": 1, \"2012\": 1, \"2011\": 2, \"2009\": 2, \"2008\": 1, \"2003\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"食品技术\": 2, \"试验\": 1, \"综合、术语学、标准化、文献\": 1, \"机械制造\": 1, \"农业\": 3, \"其它\": 2, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 11}, \"totalRecords\": 11, \"tmWordList\": [{\"id\": \"dd6f7987e4d448fa89b981f5d2eb483a\", \"databaseId\": null, \"standardId\": \"582eeb5bb9684f1da4abbf548c5a3292\", \"standardCode\": \"GB/T 17980.149—2009\", \"standardName\": \"农药日 田间药效试验准则（二） 第149部分：杀虫剂防治红火蚁 \", \"standardEnName\": \"PesticideGuidelines for the field efficacy trials(2)—— Part 149 :Insecticides against Solenopsis invicta Buren\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.2\", \"cnName\": \"蚊巢\", \"enName\": \"nest\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-01-01\", \"ics\": \"65.020.01\", \"ccs\": \"B 16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90606, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"蚊巢\", \"cnNameSearch\": \"蚊巢\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nest\", \"wordSearch\": \"nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由蚁丘及其地下结构部分构成，是红火蚊的繁殖、活动场所。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"597628e162c94195891d3a02af267380\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.1.21\", \"cnName\": \"套裁\", \"enName\": \"nest cutting\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223108, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"套裁\", \"cnNameSearch\": \"套裁\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nest cutting\", \"wordSearch\": \"nest cutting\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将板条分离为若干个小坏料并使各小坏料外廓之间没有空隙（如图22所示）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"318122fb3d1e41f888b90b79fdafb0cb\", \"databaseId\": null, \"standardId\": \"7dfd86191fa84e37a544ea6e00e1ae43\", \"standardCode\": \"GB/T 41227—2021\", \"standardName\": \"蜜蜂饲养管理技术规范\", \"standardEnName\": \"Technical specification for beekeeping management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.2\", \"cnName\": \"蜂巢\", \"enName\": \"bee nest\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.140\", \"ccs\": \"B 47\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134157, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"蜂巢\", \"cnNameSearch\": \"蜂巢\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bee nest\", \"wordSearch\": \"bee nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供蜜蜂繁衍生息，贮存饲料的场所。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e551db90b50a457b8463cce06fc45f3f\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"6.1.21\", \"cnName\": \"套裁\", \"enName\": \"nest cutting\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35623, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"套裁\", \"cnNameSearch\": \"套裁\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nest cutting\", \"wordSearch\": \"nest cutting\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将板条分离为若干个小坏料并使各小坏料外廓之间没有空隙（如图22所示）。</p><p><img src=\\\"/standard/23a95e3512cc4af486ccb5db9a5f4115/微信截图_20250727143900.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c7baaaca4cd14fdb936a9c5972de7d1b\", \"databaseId\": null, \"standardId\": \"582eeb5bb9684f1da4abbf548c5a3292\", \"standardCode\": \"GB/T 17980.149—2009\", \"standardName\": \"农药日 田间药效试验准则（二） 第149部分：杀虫剂防治红火蚁 \", \"standardEnName\": \"PesticideGuidelines for the field efficacy trials(2)—— Part 149 :Insecticides against Solenopsis invicta Buren\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.6\", \"cnName\": \"活蚁巢\", \"enName\": \"active nest\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-01-01\", \"ics\": \"65.020.01\", \"ccs\": \"B 16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90609, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"活蚁巢\", \"cnNameSearch\": \"活蚁巢\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"active nest\", \"wordSearch\": \"active nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"受到扰动后60s内有3头以上红火蚊爬出活动的蚁巢。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a1c55fc4a7144aba68cc606034dd538\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.02.06\", \"cnName\": \"嵌套\", \"enName\": \"to nest\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104717, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"嵌套\", \"cnNameSearch\": \"嵌套\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"to nest\", \"wordSearch\": \"to nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"把属于一类的一个或多个结构并人同一类的一个结构中去。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>把一个循环（“被嵌套循环”或“内循环”嵌入进另一循环（“嵌套循环”或“外循环”）；把一个子程序嵌入进另一子程序。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f8dff07c6ab543689afef4da5ba92e23\", \"databaseId\": null, \"standardId\": \"a8e7efa8fe074fc29dc5ebd241ab08c3\", \"standardCode\": \"GB/T 8872—2011\", \"standardName\": \"粮油名词术语 制粉工业\", \"standardEnName\": \"Terminology of grain and oils—Flour milling industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.2.2.1.2.1\", \"cnName\": \"挑担平筛\", \"enName\": \"double nest plansifter\", \"publishTime\": \"2011-06-16\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"67.040\", \"ccs\": \"X 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 172357, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"挑担平筛\", \"cnNameSearch\": \"挑担平筛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"double nest plansifter\", \"wordSearch\": \"double nest plansifter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由两个筛体对称地分列于传动轴的两侧、筛格呈长方形的平筛。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f67a47b5e09842d4b46ad35b6b47e608\", \"databaseId\": null, \"standardId\": \"f3bd71a490ff44498e52f8e175c3e909\", \"standardCode\": \"GB/T 15663.2—2023\", \"standardName\": \"代替 GB/T 15663.2—2008 煤矿科技术语 第2部分：井巷工程 \", \"standardEnName\": \"Vocabulary of coal mining Part 2 :Shaft and drift engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"11.4\", \"cnName\": \"梁窝\", \"enName\": \"bunton hole\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"ICS 01.040.73\", \"ccs\": \"CCS D 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 239509, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"梁窝\", \"cnNameSearch\": \"梁窝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bunton hole\", \"wordSearch\": \"bunton hole\"}, {\"languageType\": 1, \"word\": \";beam nest\", \"wordSearch\": \";beam nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为安装各种梁，在井筒、巷道或室壁中开凿或预留的洞穴。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"114c1439ae264363bd47d0de9ec4d950\", \"databaseId\": null, \"standardId\": \"a8e7efa8fe074fc29dc5ebd241ab08c3\", \"standardCode\": \"GB/T 8872—2011\", \"standardName\": \"粮油名词术语 制粉工业\", \"standardEnName\": \"Terminology of grain and oils—Flour milling industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.2.2.1.4\", \"cnName\": \"筛体\", \"enName\": \"sieve nest;sieve box\", \"publishTime\": \"2011-06-16\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"67.040\", \"ccs\": \"X 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 172426, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"筛体\", \"cnNameSearch\": \"筛体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sieve nest;sieve box\", \"wordSearch\": \"sieve nest;sieve box\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一个或多个仓组成的整体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"66fe2e796e42420a94960e5de7428bb7\", \"databaseId\": null, \"standardId\": \"04f3dbad4d0048c59ac4e04295030314\", \"standardCode\": \"GB/T 5329—2003\", \"standardName\": \"试验筛与筛分试验  术语\", \"standardEnName\": \"Test sieves and test sieving——Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"2.2.8\", \"cnName\": \"试验用套筛\", \"enName\": \"nest of test sieves\", \"publishTime\": \"2003-11-10\", \"publishYear\": \"2003\", \"implementTime\": \"2004-06-01\", \"ics\": \"19.120\", \"ccs\": \"A 28\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3705, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"试验用套筛\", \"cnNameSearch\": \"试验用套筛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nest of test sieves\", \"wordSearch\": \"nest of test sieves\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"两只或更多的试验筛自下而上依网孔尺寸由小到大的顺序并连同上盖和接料盘组合在一起。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"85d7dbc509064003b179bb844a55e868\", \"databaseId\": null, \"standardId\": \"12586bc3721e46c88294a56ce979796e\", \"standardCode\": \"GB/T 51253—2017\", \"standardName\": \"建设工程白蚁危害评定标准\", \"standardEnName\": \"Standard for termite damage evaluation of construction project\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"白蚁巢真菌指示物\", \"enName\": \"fungi of indicating termites nest\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17048, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白蚁巢真菌指示物\", \"cnNameSearch\": \"白蚁巢真菌指示物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fungi of indicating termites nest\", \"wordSearch\": \"fungi of indicating termites nest\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"白蚁巢共生真菌长出地面的子实体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675823890}"
+}

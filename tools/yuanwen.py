@@ -595,6 +595,7 @@ class Ctx:
         self.out = []
         self.in_bib = False
         self.bib_lvl = 0
+        self.bib_section = ''
         self.bib_entries = []
 
     def emit(self, *lines):
@@ -620,6 +621,12 @@ def render_blocks(blocks, ctx):
                 # （演示轮 2 复核：in_bib 永不复位曾吞掉致谢/相关词条等尾段）
                 if not (ctx.in_bib and {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t] > ctx.bib_lvl):
                     ctx.in_bib = False
+                elif ctx.in_bib:
+                    # 2026-11-15：文献节内小节标题是「某氏著作」分组的唯一线索——
+                    # 该组条目常只写年份（`1913, “On the constitution…”`），无姓可扫，
+                    # 旧式整条丢弃（bohr-correspondence 整节「Works by Bohr」蒸发，
+                    # 全库 176 词条 2867 条此类条目）。标题随条目一并传入建键。
+                    ctx.bib_section = text
                 ctx.emit('', '%s %s' % (hashes, text))
         elif t == 'pubinfo':
             text = inline_to_md(inner, ctx.slug)

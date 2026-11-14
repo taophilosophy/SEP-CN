@@ -1,0 +1,33 @@
+{
+ "key": "predicative comprehension",
+ "term": "predicative comprehension",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:04:27+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "语义理解",
+   "en": "semantic comprehension",
+   "code": "GB/T 41867—2022",
+   "standard": "信息技术 人工智能 术语 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural-language understanding; natural-language comprehension",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2001\": 2}, \"sourceStats\": {\"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"4a1033ccaf2d4f839bf44fc0925d109d\", \"databaseId\": null, \"standardId\": \"59f4bd7be36c4c3cb67af80c6c8bc688\", \"standardCode\": \"GB/T 41867—2022\", \"standardName\": \"信息技术 人工智能 术语 \", \"standardEnName\": \"Information technology—Artificial intelligence—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.12\", \"cnName\": \"语义理解\", \"enName\": \"semantic comprehension\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 35.020\", \"ccs\": \"CCS L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91752, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语义理解\", \"cnNameSearch\": \"语义理解\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"semantic comprehension\", \"wordSearch\": \"semantic comprehension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"理解数据符号的语义信息，或在具体业务场景下的需求表达，并按照要求输出正确反馈结果的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 36464.3—2018\", \"sourceCode\": \"3.6\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"54c1264e113d4aecb514f86429c30183\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.01.17\", \"cnName\": \"图像理解\", \"enName\": \"image understanding\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228346, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"图像理解\", \"cnNameSearch\": \"图像理解\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"image understanding\", \"wordSearch\": \"image understanding\"}, {\"languageType\": 1, \"word\": \"image comprehension\", \"wordSearch\": \"image comprehension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过功能单元产生对所给图像表示意义的描述。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>图像理解是这样进行的：借助几何建模、知识表示及认知建模等手段集成可视数据，从而产生信息。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca86a7a25e0942feb572e45e127ea3f0\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.01.18\", \"cnName\": \"自然语言理解\", \"enName\": \"natural-language understanding; natural-language comprehension\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228386, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"自然语言理解\", \"cnNameSearch\": \"自然语言理解\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"natural-language understanding; natural-language comprehension\", \"wordSearch\": \"natural-language understanding; natural-language comprehension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过功能单元从已传入功能单元中的自然语言形式的文本或语音中提取信息，并产生对给定文本或语音及其表示的描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675863904}"
+}
