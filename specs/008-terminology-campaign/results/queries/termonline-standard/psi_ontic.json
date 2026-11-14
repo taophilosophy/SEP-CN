@@ -1,0 +1,26 @@
+{
+ "key": "ψ-ontic",
+ "term": "ψ-ontic",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T19:45:16+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "能（量）注量",
+   "en": "<em>Ψ</em> energy fluence",
+   "code": "GB/T 4960.5—1996",
+   "standard": "核科学技术术语 辐射防护与辐射源安全",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "能注量率",
+   "en": "<em>ψ</em> energy fluence rate",
+   "code": "GB/T 4960.5—1996",
+   "standard": "核科学技术术语 辐射防护与辐射源安全",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"1996\": 2}, \"sourceStats\": {\"能源和热传导工程\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"8b01c86f56be42dfac0d547e713a861f\", \"databaseId\": null, \"standardId\": \"17a7a3d5620d44af973f39a8155c652d\", \"standardCode\": \"GB/T 4960.5—1996\", \"standardName\": \"核科学技术术语 辐射防护与辐射源安全\", \"standardEnName\": \"Glossary of terms: Nuclear science and technology Radiation protection and safety of radiation sources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.40\", \"cnName\": \"能（量）注量\", \"enName\": \"<em>Ψ</em> energy fluence\", \"publishTime\": \"1996-03-31\", \"publishYear\": \"1996\", \"implementTime\": \"1996-10-01\", \"ics\": \"27.120\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23074, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"能（量）注量\", \"cnNameSearch\": \"能（量）注量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>Ψ</em> energy fluence\", \"wordSearch\": \"<em>Ψ</em> energy fluence\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"d<em>R</em>除以d<em>a</em>而得的商：</p><p><em>Ψ</em>=d<em>R</em>/d<em>a</em></p><p>式中：d<em>R</em>——射入截面积为d<em>a</em>的球体中的辐射能量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0ec8b3d93c4d459f8dae82adcfbb616f\", \"databaseId\": null, \"standardId\": \"17a7a3d5620d44af973f39a8155c652d\", \"standardCode\": \"GB/T 4960.5—1996\", \"standardName\": \"核科学技术术语 辐射防护与辐射源安全\", \"standardEnName\": \"Glossary of terms: Nuclear science and technology Radiation protection and safety of radiation sources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.41\", \"cnName\": \"能注量率\", \"enName\": \"<em>ψ</em> energy fluence rate\", \"publishTime\": \"1996-03-31\", \"publishYear\": \"1996\", \"implementTime\": \"1996-10-01\", \"ics\": \"27.120\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22729, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"能注量率\", \"cnNameSearch\": \"能注量率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"<em>ψ</em> energy fluence rate\", \"wordSearch\": \"<em>ψ</em> energy fluence rate\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"能通量密度\", \"cnNameSearch\": \"能通量密度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"energy flux density\", \"wordSearch\": \"energy flux density\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"d<em>Ψ</em>除以d<em>t</em>而得的商：</p><p><em>ψ</em>=d<em>Ψ</em>/d<em>t</em></p><p>式中：d<em>Ψ</em>——时间间隔d<em>t</em>内能量注量的增量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794685512711}"
+}
