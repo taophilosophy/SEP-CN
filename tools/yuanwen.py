@@ -640,7 +640,7 @@ def render_blocks(blocks, ctx):
             if not text:
                 continue
             if ctx.in_bib:
-                ctx.bib_entries.append(text)
+                ctx.bib_entries.append((text, ctx.bib_section))
             else:
                 ctx.emit('', text)
         elif t == 'blockquote':
@@ -666,7 +666,7 @@ def render_blocks(blocks, ctx):
                 it = re.sub(r'<ul[^>]*>.*</ul>|<ol[^>]*>.*</ol>', '', it, flags=re.S | re.I)
                 texts.append(inline_to_md(it, ctx.slug))
             if ctx.in_bib:
-                ctx.bib_entries.extend(t for t in texts if t)
+                ctx.bib_entries.extend((t, ctx.bib_section) for t in texts if t)
             else:
                 ctx.emit('', list_to_md(re.sub(r'^<(ul|ol)[^>]*>|</(ul|ol)>\s*$', '', inner,
                                                count=1, flags=re.I),
