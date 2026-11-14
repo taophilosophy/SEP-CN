@@ -341,7 +341,7 @@ Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (
 
 [^hugon-2016]: –––, 2016. “Can one be a Mādhyamika, a crypto-Vaibhāṣika, and a faithful interpreter of Dharmakīrti? On Phya pa Chos kyi seng ge’s doxographical divisions and his own philosophical standpoint,” *Journal of Tibetology*, 15: 51–153.
 
-[^hugon-2020]: –––, 2020. “Vaibhāṣika-Madhyamaka: A fleeting episode in the history of Tibetan Madhyamaka,” in Tournier, V., Eltschinger, V., and Sernesi, M. (eds.), *Archaeologies of the Written: Indian, Tibetan, and Buddhist Studies in Honour of Cristina Scherrer-Schaub*, Naples: Università degli Sudie di Napoli “L’Orientale,” 323–371.
+[^hugon-2020]: –––, 2020. “Vaibhāṣika-Madhyamaka: A fleeting episode in the history of Tibetan Madhyamaka,” in Tournier, V., Eltschinger, V., and Sernesi, M. (eds.), *Archaeologies of the Written: Indian, Tibetan, and Buddhist Studies in Honour of Cristina Scherrer-Schaub*, Naples: Università degli Studi di Napoli “L’Orientale,” 323–371.
 
 [^hugon-2021]: –––, 2021. “Mapping recently recovered early Tibetan epistemological works,” in Caumanns, V., Heimbel, J., Kano, K., and Schiller, A. (eds.), Gateways to Tibetan Studies: A Collection of Essays in Honour of David P. Jackson on the Occasion of his 70ᵗʰ Birthday, Hamburg: Department of Indian and Tibetan Studies, Universität Hamburg, 415–460.
 
@@ -359,7 +359,7 @@ Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (
 
 [^rinbochay-1980]: Rinbochay, Lati and Napper, Elizabeth, 1980. *Mind in Tibetan Buddhism*, Ithaca, N.Y.: Snow Lion Publications.
 
-[^schwabland-1995]: Schwabland, Peter A., 1995. “Direct and Indirect Cognition and the Definition of *pramāṇa* in Early Tibetan Epistemology,” *Etudes Asiatiques*, 49(4): 793–816.
+[^schwabland-1995]: Schwabland, Peter A., 1995. “Direct and Indirect Cognition and the Definition of *pramāṇa* in Early Tibetan Epistemology,” *Études Asiatiques*, 49(4): 793–816.
 
 [^steinkellner-2006]: Steinkellner, Ernst, 2006. “The Buddhist Tradition of Epistemology and Logic (*tshad ma*) and Its Significance for Tibetan Civilisation,” in Gingrich, A. and Hazod, G. (eds.), *Der Rand und die Mitte*, Wien: Verlag der Österreichischen Akademie der Wissenschaften, 193–210.
 
@@ -371,7 +371,7 @@ Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (
 
 [^stoltz-2009]: –––, 2009. “Phywa pa’s Argumentative Analogy Between Factive Assessment (*yid dpyod*) and Conceptual Thought (*rtog pa*),” in Hugon, P. and Vose, K., (eds.), *Tibetan scholasticism in the 11th and 12th centuries. Contributions to a panel at the XVth Congress of the International Association of Buddhist Studies. Atlanta, 23–28 June 2008*, *Journal of the International Association of Buddhist Studies*, 32(1–2): 369–386.
 
-[^stoltz-2013]: –––, 2013. “Cognition, Phenomenal Character, and Intentionality in Tibetan Buddhism,” in Emmanuel, S. (ed.), *A Companion to Buddhist Philosophy*, Oxford: Wiley Balckwell, 405–418.
+[^stoltz-2013]: –––, 2013. “Cognition, Phenomenal Character, and Intentionality in Tibetan Buddhism,” in Emmanuel, S. (ed.), *A Companion to Buddhist Philosophy*, Oxford: Wiley Blackwell, 405–418.
 
 [^stoltz-2020]: –––, 2020. “On the Authorship of the *Tshad maʼi de kho na nyid bsdus pa*,” *Revue d’Etudes Tibétaines*, 56: 46–69.
 
