@@ -83,6 +83,13 @@
 | antonio-rosmini | 书目区重建（缩写表＋卷次嵌套）、theou dikē、十条→九条 | 877763ac7 |
 | film | oeuvre／François／Noël、Kracauer／Rancière 键名、Badiou 书名 Cinema、Murray Smith | 051b73653 |
 
+## 2026-11-15 续：转换器缺陷之九「年份起首文献条目」
+
+* SEP 文献节惯例：小节「Works by X」之下条目只写年份（`1913, “On the constitution…”`）。旧建键式无姓可扫、直接丢弃整条，于是正文挂了键、文献表却无条目——bohr-correspondence 的「玻尔著作」13 条蒸发。全库 176 词条 2867 条。
+* 修法：文献节小节标题随条目传入（`(text, section)`），`_section_author` 认「Works by X／X’s Works」取姓；节切换重置 `prev_surnames`。回归测试 3 条。
+* 全量重转：1872 条零失败，`cite_markers` 203,188 → 204,835（+1,647），`cite_defs` 230,985 → 231,358（+373）。
+* 偿还时注意：此类词条的中文书目往往整节缺失，须按 yuanwen 补全并分置小节（bohr-correspondence 已示范）。
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
