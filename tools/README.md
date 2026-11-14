@@ -21,7 +21,7 @@
 
 | 工具 | 职责 |
 | ---- | ---- |
-| `check_style.py` | 体例检查（宪法 VI）：curly-quotes、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart；输出 JSON，退出码 0/1 |
+| `check_style.py` | 体例检查（宪法 VI）：curly-quotes、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart、italic-cjk；输出 JSON，退出码 0/1；`--connector-scan` 附数字区间连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041：只报不拦、不计退出码、不进 CI；引注编号/页码/参考文献照录豁免） |
 | `check_summary.py` | SUMMARY 结构审计（条目解析、缺失文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测；坏链/路径错/标题不一致为硬错误（退出码 1），覆盖缺口与重复收录仅报告 |
 | `check_terms.py` | 术语一致性检查（specs/002）：登记册 ↔ 词汇表译法冲突与登记册自洽为硬错误（退出码 1），词汇表滞后与缺裁定日期为告警；`--docs <路径>...` 定点核销 |
