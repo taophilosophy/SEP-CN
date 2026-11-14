@@ -257,61 +257,117 @@ Cavell 之所以投入至善论，缘于他对同事约翰·罗尔斯的回应�
 ### 爱默生研究文献选
 
 [^cw-1971]: [**CW**] *The Collected Works of Ralph Waldo Emerson*, ed. Robert Spiller et al, Cambridge, MA: Harvard University Press, 1971–
+
 [^education-1883]: [**E**] “Education,” in *Lectures and Biographical Sketches*, in *The Complete Works of Ralph Waldo Emerson*, ed. Edward Waldo Emerson, Boston: Houghton Mifflin, 1883, pp. 125–59
+
 [^complete-1903]: *The Complete Works of Ralph Waldo Emerson*, ed. Edward Waldo Emerson, Boston: Houghton Mifflin, 12 volumes, 1903–4
+
 [^annotated-2012]: *The Annotated Emerson*, ed. David Mikics, Cambridge, MA: Harvard University Press, 2012.
+
 [^journals-1910]: *The Journals of Ralph Waldo Emerson*, ed. Edward Waldo Emerson and Waldo Emerson Forbes. 10 vols., Boston and New York: Houghton Mifflin, 1910–14.
+
 [^journals-1960]: *The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson*, ed. William Gillman, et al., Cambridge: Belknap Press, Harvard University Press, 1960–
+
 [^early-1961]: *The Early Lectures of Ralph Waldo Emerson*, 3 vols, Stephen E. Whicher, Robert E. Spiller, and Wallace E. Williams, eds., Cambridge, MA: Harvard University Press, 1961–72.
+
 [^letters-1964]: *The Letters of Ralph Waldo Emerson*, ed. Ralph L. Rusk and Eleanor M. Tilton. 10 vols. New York: Columbia University Press, 1964–95.
+
 [^thomas-1964]: (with Thomas Carlyle), *The Correspondence of Emerson and Carlyle*, ed. Joseph Slater, New York: Columbia University Press, 1964.
+
 [^emerson’s-1995]: *Emerson’s Antislavery Writings*, eds. Len Gougeon and Joel Myerson, New Haven and London: Yale University Press, 1995.
+
 [^later-2003]: *The Later Lectures of Ralph Waldo Emerson*, eds. Ronald Bosco and Joel Myerson, Athens, GA: University of Georgia Press, 2003.
+
 [^emerson-2008]: *Emerson: Political Writings (Cambridge Texts in the History of Political Thought)*, ed. Kenneth Sacks, Cambridge: Cambridge University Press, 2008.
+
 [^see-nd]: （各著作初版年份见上文「爱默生生平年表」。）
+
 [^alcott-1882]: Alcott, Amos Bronson, 1882, *Ralph Waldo Emerson: An Estimate of His Character and Genius: In Prose and in Verse*, Boston: A. Williams and Co.
+
 [^allen-1981]: Allen, Gay Wilson, 1981, *Waldo Emerson*, New York: Viking Press.
+
 [^arsić-2010]: Arsić, Branka, 2010. *On Leaving: A Reading in Emerson*, Cambridge, MA: Harvard University Press.
+
 [^arsić-2010-2]: Arsić, Branka, and Carey Wolfe (eds.), 2010. *The Other Emerson*, Minneapolis, MN: University of Minnesota Press.
+
 [^bishop-1964]: Bishop, Jonathan, 1964, *Emerson on the Soul*, Cambridge, MA: Harvard University Press.
+
 [^buell-2003]: Buell, Lawrence, 2003, *Emerson*, Cambridge, MA: Harvard University Press.
+
 [^cameron-2007]: Cameron, Sharon, 2007, *Impersonality*, Chicago: University of Chicago Press.
+
 [^carpenter-1930]: Carpenter, Frederick Ives, 1930, *Emerson and Asia*, Cambridge, MA: Harvard University Press.
+
 [^cavell-1981]: Cavell, Stanley, 1981, “Thinking of Emerson” and “An Emerson Mood,” in *The Senses of Walden, An Expanded Edition*, San Francisco: North Point Press.
+
 [^cavell-1988]: –––, 1988, *In Quest of the Ordinary: Lines of Skepticism and Romanticism*, Chicago: University of Chicago Press.
+
 [^cavell-1990]: –––, 1990, *Conditions Handsome and Unhandsome: The Constitution of Emersonian Perfectionism*, Chicago: University of Chicago Press. (Abbreviated **CHU** in the text.).
+
 [^cavell-2004]: –––, 2004, *Emerson’s Transcendental Etudes*, Stanford: Stanford University Press.
+
 [^cavell-2004-2]: –––, 2004, *Cities of Words: Pedagogical Letters on a Register of the Moral Life*, Cambridge, MA and London: The Belknap Press of Harvard University Press.
+
 [^conant-1997]: Conant, James, 1997, “Emerson as Educator,” *ESQ: A Journal of the American Renaissance*, 43: 181–206.
+
 [^conant-2001]: –––, 2001, “Nietzsche as Educator,” *Nietzsche’s Post-Moralism: Essays on Nietzsche’s Prelude to Philosophy’s Future*, Richard Schacht (ed.), Cambridge: Cambridge University Press, 181–257.
+
 [^constantinesco-2012]: Constantinesco, Thomas, 2012, *Ralph Waldo Emerson: L’Amérique à l’essai*, Paris: Editions Rue d’Ulm.
+
 [^ellison-1984]: Ellison, Julie, 1984, *Emerson’s Romantic Style*, Princeton: Princeton University Press.
+
 [^firkins-1915]: Firkins, Oscar W., 1915, *Ralph Waldo Emerson*, Boston: Houghton Mifflin.
+
 [^follett-2015]: Follett, Danielle, 2015, “The Tension Between Immanence and Dualism in Coleridge and Emerson,” in *Romanticism and Philosophy: Thinking with Literature*, Sophie Laniel-Musitelli and Thomas Constantinesco (eds.), London: Routledge, 209–221.
+
 [^friedl-2018]: Friedl, Herwig, 2018, *Thinking in Search of a Language: Essays on American Intellect and Intuition*, New York and London: Bloomsbury Academic.
+
 [^goodman-1990a]: Goodman, Russell B., 1990a, *American Philosophy and the Romantic Tradition*, Cambridge: Cambridge University Press, Chapter 2.
+
 [^goodman-1990b]: –––, 1990b, “East-West Philosophy in Nineteenth Century America: Emerson and Hinduism,” *Journal of the History of Ideas*, 51(4): 625–45.
+
 [^goodman-1997]: –––, 1997, “Moral Perfectionism and Democracy in Emerson and Nietzsche,” *ESQ: A Journal of the American Renaissance*, 43: 159–80.
+
 [^goodman-2004]: –––, 2004, “The Colors of the Spirit: Emerson and Thoreau on Nature and the Self,” *Nature in American Philosophy*, Jean De Groot (ed.), Washington, DC: Catholic University of America Press, 1–18.
+
 [^goodman-2008]: –––, 2008, “Emerson, Romanticism, and Classical American Pragmatism,” *The Oxford Handbook of American Philosophy*, Cheryl Misak (ed.), Oxford: Oxford University Press, 19–37.
+
 [^goodman-2015]: –––, 2015, *American Philosophy Before Pragmatism*, Oxford: Oxford University Press, 147–99, 234–54.
+
 [^goodman-2021]: –––, 2021, “Transcendentalist Legacies in American Philosophy,” *Handbook of American Romanticism*, Philipp Löffler, Clemens Spahr, Jan Stievermann (eds.), Berlin and Boston: Walter de Gruyter, 517–536.
+
 [^holmes-1885]: Holmes, Oliver Wendell, 1885, *Ralph Waldo Emerson*, Boston: Houghton Mifflin.
+
 [^horsman-1981]: Horsman, Reginald, 1981, *Race and Manifest Destiny: The Origins of American Racial Anglo-Saxonism*, Cambridge, and London: Harvard University Press.
+
 [^lysaker-2008]: Lysaker, John, 2008, *Emerson and Self-Culture*, Indianapolis: Indiana University Press.
+
 [^matthiessen-1941]: Matthiessen, F. O., 1941, *American Renaissance: Art and Expression in the Age of Emerson and Whitman*, New York: Oxford University Press.
+
 [^packer-1982]: Packer, B. L., 1982, *Emerson’s Fall*, New York: Continuum.
+
 [^packer-2007]: –––, 2007, *The Transcendentalists*, Athens: University of Georgia Press.
+
 [^poirier-1987]: Poirier, Richard, 1987, *The Renewal of Literature: Emersonian Reflections*, New York: Random House.
+
 [^poirier-1992]: –––, 1992, *Poetry and Pragmatism*, Cambridge, MA.: Harvard University Press.
+
 [^porte-1999]: Porte, Joel, and Morris, Saundra (eds.), 1999, *The Cambridge Companion to Ralph Waldo Emerson*, Cambridge: Cambridge University Press.
+
 [^richardson-1995]: Richardson, Robert D. Jr., 1995, *Emerson: The Mind on Fire*, Berkeley and Los Angeles: University of California Press.
+
 [^sacks-2003]: Sacks, Kenneth, 2003, *Understanding Emerson: “The American Scholar” and His Struggle for Self-Reliance*, Princeton: Princeton University Press.
+
 [^urbas-2016]: Urbas, Joseph, 2016, *Emerson’s Metaphysics: A Song of Laws and Causes*, Lanham, MD and London: Lexington Books.
+
 [^urbas-2021]: –––, 2021, *The Philosophy of Ralph Waldo Emerson*, New York and London: Routledge.
+
 [^versluis-1993]: Versluis, Arthur, 1993, *American Transcendentalism and Asian Religions*, New York: Oxford University Press.
+
 [^whicher-1953]: Whicher, Stephen, 1953, *Freedom and Fate: An Inner Life of Ralph Waldo Emerson*, Philadelphia: University of Pennsylvania Press.
+
 [^wirzbicki-2021]: Wirzbicki, Peter, 2021, *Fighting for the Higher Law: Black and White Transcendentalists Against Slavery*, Philadelphia: University of Pennsylvania Press.
+
 [^zavatta-2019]: Zavatta, Benedetta, 2019, *Individuality and Beyond: Nietzsche Reads Emerson*, trans. Alexander Reynolds, New York: Oxford University Press.
 
 ## 学术工具
