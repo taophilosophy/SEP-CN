@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 2111,
-  "查无": 6764,
-  "不一致": 837,
-  "一致": 1170
+  "未查证": 2005,
+  "查无": 6865,
+  "不一致": 841,
+  "一致": 1171
  },
  "results": [
   {
@@ -170347,9 +170347,11 @@
    "term": "Merrim, Stephanie",
    "trans": "斯蒂芬妮·梅里姆",
    "basis": "音译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170357,9 +170359,18 @@
    "term": "Mersenne, Marin / Marin Mersenne",
    "trans": "马兰·梅森",
    "basis": "学界通行（最小兄弟会修士，梅森素数命名源）；2026-11-13 重复行合并（旧键 `Marin Mersenne`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "梅森",
+     "en": "Mersenne\",\"Marin(法国)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170367,9 +170378,11 @@
    "term": "Mesiar, Radko",
    "trans": "Mesiar",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170377,9 +170390,11 @@
    "term": "Meskin, Aaron",
    "trans": "艾伦·梅斯金",
    "basis": "学界通行音译（美学文献）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170387,9 +170402,11 @@
    "term": "Metcalfe, George",
    "trans": "Metcalfe",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170397,9 +170414,11 @@
    "term": "Metochites, Theodore",
    "trans": "塞奥多·梅托希特斯",
    "basis": "本词条首译（拜占庭学者、政治家；学界通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170407,9 +170426,11 @@
    "term": "Metrodorus of Chios",
    "trans": "开俄斯的梅特罗多洛",
    "basis": "学界通行汉译（前苏格拉底）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170417,9 +170438,11 @@
    "term": "Metrodorus of Lampsacus",
    "trans": "拉普萨库斯的梅特罗多洛斯",
    "basis": "学界通行（伊壁鸠鲁挚友；与开俄斯的梅特罗多洛异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170427,9 +170450,11 @@
    "term": "Metternich",
    "trans": "梅特涅",
    "basis": "学界通行汉译（奥地利首相）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170447,9 +170472,11 @@
    "term": "Meyer, Robert K.",
    "trans": "Robert K. Meyer",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170457,9 +170484,11 @@
    "term": "Michael Bakunin",
    "trans": "米哈伊尔·巴枯宁",
    "basis": "学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170467,9 +170496,11 @@
    "term": "Michael Constantine Psellus",
    "trans": "米哈伊尔·康斯坦丁·普塞洛斯",
    "basis": "学界通行汉译（11 世纪拜占庭学者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170489,9 +170520,11 @@
    "term": "Michael Marmot",
    "trans": "迈克尔·马莫特",
    "basis": "学界惯例（公共卫生/健康不平等通行译法）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170499,9 +170532,11 @@
    "term": "Michael of Cesena",
    "trans": "切塞纳的迈克尔",
    "basis": "方济各会总会长；城名 Cesena 通行汉译“切塞纳”（亦作塞萨纳/切泽纳）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170509,9 +170544,11 @@
    "term": "Michael of Marbais",
    "trans": "马尔拜的米迦勒",
    "basis": "学界惯例（13 世纪模态主义者，《意指样式大全》作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170519,9 +170556,11 @@
    "term": "Michael of Massa",
    "trans": "马萨的米凯莱",
    "basis": "依驻地冠称，意大利名音译（Michele da Massa，奥古斯丁会）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170541,9 +170580,11 @@
    "term": "Michael Redhead",
    "trans": "雷德黑德（Michael Redhead）",
    "basis": "学界惯例（科学哲学通行汉译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170551,9 +170592,11 @@
    "term": "Michael Slote",
    "trans": "迈克尔·斯洛特",
    "basis": "学界通行汉译（德性/关怀伦理）；凭证 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170573,9 +170616,11 @@
    "term": "Michael VII Doukas",
    "trans": "米海尔七世（杜卡斯）",
    "basis": "学界通行汉译（拜占庭皇帝）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170583,9 +170628,11 @@
    "term": "Michael, John",
    "trans": "约翰·迈克尔",
    "basis": "学界惯例音译（认知科学哲学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170593,9 +170640,11 @@
    "term": "Michal Kalecki",
    "trans": "米哈尔·卡莱茨基",
    "basis": "学界通行汉译（波兰经济学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170603,9 +170652,18 @@
    "term": "Michelangelo Buonarroti",
    "trans": "米开朗基罗",
    "basis": "千年通行译名（意大利雕塑家、画家）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "米开朗琪罗诗的组曲",
+     "en": "Michelangelo Buonarroti\",\"Suite on Verses of",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170613,9 +170671,11 @@
    "term": "Michie, Donald",
    "trans": "唐纳德·米基",
    "basis": "学界通行音译（布莱切利园密码分析员，爱丁堡机器智能与知觉系创办者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170623,9 +170683,11 @@
    "term": "Midgley, Mary",
    "trans": "玛丽·米奇利",
    "basis": "学界通行音译（《兽与人》作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170633,9 +170695,11 @@
    "term": "Mikhail, John",
    "trans": "约翰·米哈伊尔",
    "basis": "音译（道德语法）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170643,9 +170707,11 @@
    "term": "Mikkola, Mari",
    "trans": "玛丽·米科拉",
    "basis": "学界惯例音译（女性主义哲学）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170653,9 +170719,11 @@
    "term": "Milhaud, Gaston",
    "trans": "加斯东·米约",
    "basis": "学界惯例（法国实用主义者，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170663,9 +170731,11 @@
    "term": "Mill, Harriet Taylor",
    "trans": "哈丽雅特·泰勒·密尔",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170673,9 +170743,11 @@
    "term": "Mill, James",
    "trans": "詹姆斯·密尔",
    "basis": "学界通行汉译；与 h/harriet-mill.md 及 SUMMARY 登记形同体例（增订：SUMMARY 原题作“穆勒”，2026-11-07 归一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170683,9 +170755,24 @@
    "term": "Mill, John Stuart / John Stuart Mill",
    "trans": "约翰·斯图尔特·密尔（亦作“密尔”）",
    "basis": "学界千年通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `John Stuart Mill`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·斯图亚特·穆勒",
+     "en": "John Stuart Mill（1806—1873）",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·斯图亚特·穆勒",
+     "en": "John Stuart Mill（1806—1873）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170693,9 +170780,11 @@
    "term": "Miller, Christian B.",
    "trans": "Christian B. Miller（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（本词条作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170703,9 +170792,11 @@
    "term": "Miller, Dale",
    "trans": "Dale Miller",
    "basis": "无通行汉名，保留英文原名（线性逻辑编程；与 David Miller、Russ Miller 分列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170713,9 +170804,11 @@
    "term": "Miller, David",
    "trans": "戴维·米勒",
    "basis": "学界通行汉译（《民族性与社会正义》作者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170723,9 +170816,11 @@
    "term": "Miller, Russ",
    "trans": "拉斯·米勒",
    "basis": "构词直译（算法教材作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170733,9 +170828,11 @@
    "term": "Millikan, Ruth",
    "trans": "露丝·米利肯",
    "basis": "音译（目的论语义学）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170743,9 +170840,11 @@
    "term": "Mills, Susan K.",
    "trans": "苏珊·K·米尔斯",
    "basis": "音译（与 Beatty 合著倾向定义）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170753,9 +170852,11 @@
    "term": "Millstein, Roberta",
    "trans": "罗伯塔·米尔斯坦",
    "basis": "学界通行音译（生物学哲学家）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170763,9 +170864,11 @@
    "term": "Milne, E. A.",
    "trans": "爱德华·亚瑟·米尔恩",
    "basis": "学界通行音译（E. A. Milne，本词条主角，运动学相对论作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170773,9 +170876,11 @@
    "term": "Milner, Robin",
    "trans": "Milner, Robin",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170783,9 +170888,18 @@
    "term": "Milton, John",
    "trans": "约翰·弥尔顿",
    "basis": "学界千年通行（《失乐园》作者）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "米尔顿",
+     "en": "Milton\",\"John(英国)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170793,9 +170907,11 @@
    "term": "Milverley, John",
    "trans": "约翰·米尔弗利",
    "basis": "本词条首译（牛津实在论者，Penbygull 词条提及；无通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170803,9 +170919,11 @@
    "term": "Minkowski, Hermann / Hermann Minkowski",
    "trans": "赫尔曼·闵可夫斯基",
    "basis": "相对论时空几何奠基者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Hermann Minkowski`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170813,9 +170931,11 @@
    "term": "Minnema, Anthony",
    "trans": "安东尼·明内马",
    "basis": "学界惯例（音译，安萨里拉丁接受史研究者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170823,9 +170943,11 @@
    "term": "Mints, Gregory",
    "trans": "Gregory Mints",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170833,9 +170955,11 @@
    "term": "Mīr Dāmād",
    "trans": "米尔·达马德",
    "basis": "伊斯法罕学派通行音译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170843,9 +170967,11 @@
    "term": "Mirkowska, Grażyna",
    "trans": "Grażyna Mirkowska",
    "basis": "无通行汉名，保留英文原名（算法逻辑）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170853,9 +170979,18 @@
    "term": "Mirrlees, James",
    "trans": "詹姆斯·米尔利斯",
    "basis": "学界通行音译（诺贝尔经济学奖）；凭证 2026-11-11",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "詹姆斯·米尔利斯",
+     "en": "James A. Mirrlees（1936—）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170863,9 +170998,11 @@
    "term": "Misak, Cheryl",
    "trans": "谢丽尔·米萨克",
    "basis": "学界通行音译（《弗兰克·拉姆齐传》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170873,9 +171010,11 @@
    "term": "Misch, Georg",
    "trans": "格奥尔格·米施",
    "basis": "学界通行音译（狄尔泰弟子，《生命哲学与现象学》作者）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170883,9 +171022,11 @@
    "term": "Mishima Yukio",
    "trans": "三岛由纪夫",
    "basis": "学界惯例（日本文学史通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170893,9 +171034,11 @@
    "term": "Miskawayh",
    "trans": "米斯凯韦（亦作“米斯卡维”）",
    "basis": "学界通行（伊斯兰教辞典与百科均作“米斯凯韦”，亦作“米斯凯维”；原登记“米斯卡维”无书证不取）；2026-11-13 同键异译合并",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170903,9 +171046,11 @@
    "term": "Mitchell, Basil",
    "trans": "巴兹尔·米切尔",
    "basis": "学界通行音译（累积论证）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170913,9 +171058,11 @@
    "term": "Mivart, St. George Jackson",
    "trans": "圣乔治·杰克逊·米瓦特",
    "basis": "学界惯例（达尔文批评者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170923,9 +171070,11 @@
    "term": "Miyahiro Sadao",
    "trans": "宫贞雄（Miyahiro 汉字写法存疑，正文保留拉丁对照）",
    "basis": "存疑标注；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170933,9 +171082,11 @@
    "term": "Miyazono, Kengo",
    "trans": "宫园健吾",
    "basis": "音译（心智哲学）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170943,9 +171094,11 @@
    "term": "Mizer, Nicholas",
    "trans": "Nicholas Mizer（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（自然情境实验）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170953,9 +171106,11 @@
    "term": "Moebius",
    "trans": "默比乌斯",
    "basis": "医史通行音译（盖伦传统医家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170963,9 +171118,11 @@
    "term": "Moerbeke, William of",
    "trans": "威廉·凡·莫尔贝克",
    "basis": "学界通行音译（《政治学》拉丁译者，中世纪亚里士多德译介关键人物）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170973,9 +171130,11 @@
    "term": "Moerdijk, Ieke",
    "trans": "Moerdijk（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170983,9 +171142,11 @@
    "term": "Moffitt, Benjamin",
    "trans": "本杰明·莫菲特",
    "basis": "音译（民粹主义研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170993,9 +171154,11 @@
    "term": "Moh, Shaw-Kwei",
    "trans": "Shaw-Kwei Moh",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171003,9 +171166,11 @@
    "term": "Molema, S. M.",
    "trans": "S. M. 莫莱马",
    "basis": "学界通行音译（班图道德）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171013,9 +171178,11 @@
    "term": "Molesworth, William",
    "trans": "威廉·莫尔斯沃思",
    "basis": "音译（霍布斯著作集编者，Sir William Molesworth）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171023,9 +171190,11 @@
    "term": "Molière",
    "trans": "莫里哀",
    "basis": "学界千年通行汉译（剧作家，本名波克兰）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171033,9 +171202,11 @@
    "term": "Molina, Luis de / Luis de Molina",
    "trans": "路易斯·德·莫利纳",
    "basis": "学界通行译名（莫利纳主义/中间知识）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Luis de Molina`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171043,9 +171214,11 @@
    "term": "Moltmann, Friederike",
    "trans": "Friederike Moltmann",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171053,9 +171226,11 @@
    "term": "Moltmann, Jürgen",
    "trans": "于尔根·莫尔特曼",
    "basis": "学界通行汉译（《希望神学》作者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171063,9 +171238,11 @@
    "term": "Molyneux, William",
    "trans": "威廉·莫利纽克斯",
    "basis": "学界惯例（SUMMARY 定名沿用；爱尔兰自然哲学家，学界通行汉译）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171073,9 +171250,11 @@
    "term": "Monk, J. Donald",
    "trans": "J. Donald Monk",
    "basis": "无通行汉名，保留英文原名（布尔代数）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171083,9 +171262,11 @@
    "term": "Monk, Ray",
    "trans": "雷·蒙克",
    "basis": "学界通行汉译（《维特根斯坦传》作者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171093,9 +171274,11 @@
    "term": "Montagna, Franco",
    "trans": "Montagna",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171103,9 +171286,11 @@
    "term": "Montague, Richard",
    "trans": "Richard Montague",
    "basis": "无通行汉名，保留英文原名（蒙塔古语法）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171113,9 +171298,11 @@
    "term": "Montaigne, Michel de",
    "trans": "米歇尔·德·蒙田",
    "basis": "学界通行汉译（《随笔集》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171123,9 +171310,11 @@
    "term": "Montbron, Fougeret de",
    "trans": "富热雷·德·蒙布朗",
    "basis": "学界通行汉译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171133,9 +171322,11 @@
    "term": "Montesquieu, Charles-Louis de Secondat, Baron de",
    "trans": "夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵（正文简称“孟德斯鸠”）",
    "basis": "学界千年通行译名（SUMMARY 定名沿用）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171143,9 +171334,11 @@
    "term": "Montezuma",
    "trans": "蒙特祖马",
    "basis": "学界通行汉译（阿兹特克君主）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171153,9 +171346,11 @@
    "term": "Moon, Andrew",
    "trans": "安德鲁·穆恩",
    "basis": "学界通行音译（改革宗认识论）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171163,9 +171358,11 @@
    "term": "Moor, James",
    "trans": "詹姆斯·穆尔",
    "basis": "学界通行音译（计算机伦理学先驱）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171173,9 +171370,11 @@
    "term": "Moore, Brooke N.",
    "trans": "Moore（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文（批判性思维教材作者，与 G. E. 摩尔异人）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171183,9 +171382,11 @@
    "term": "Moore, G. E.",
    "trans": "G. E. 摩尔",
    "basis": "学界通行汉译（常识哲学、反怀疑论；与迈克尔·摩尔异人）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171193,9 +171394,11 @@
    "term": "Moore, Gordon E.",
    "trans": "戈登·摩尔",
    "basis": "学界通行汉译（摩尔定律）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171203,9 +171406,11 @@
    "term": "Moore, Michael / Michael Moore",
    "trans": "迈克尔·摩尔",
    "basis": "学界惯例（本词条作者；与 G.E. 摩尔异人）；2026-11-13 重复行合并（旧键 `Michael Moore`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171213,9 +171418,11 @@
    "term": "Moortgat, Michael",
    "trans": "Michael Moortgat",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171223,9 +171430,11 @@
    "term": "Moot, Richard",
    "trans": "Richard Moot",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171233,9 +171442,11 @@
    "term": "Mora-Márquez, Ana María",
    "trans": "Ana María Mora-Márquez（现代学者，保留英文）",
    "basis": "ADR-0022（周延词项研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171243,9 +171454,11 @@
    "term": "Moran, Richard",
    "trans": "理查德·莫兰",
    "basis": "音译（“想象阻力”命名者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171253,9 +171466,11 @@
    "term": "Moran, Thomas",
    "trans": "托马斯·莫兰",
    "basis": "学界惯例音译（美国西部风景画家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171263,9 +171478,11 @@
    "term": "Moravcsik, Julius",
    "trans": "Julius Moravcsik",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171273,9 +171490,11 @@
    "term": "More, Henry / Henry More",
    "trans": "亨利·莫尔",
    "basis": "学界通行（剑桥柏拉图主义者；与托马斯·莫尔异人）；2026-11-13 重复行合并（旧键 `Henry More`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171283,9 +171502,11 @@
    "term": "More, Thomas",
    "trans": "托马斯·莫尔",
    "basis": "学界惯例（《乌托邦》作者通行汉译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171293,9 +171514,11 @@
    "term": "Morgan, Thomas Hunt",
    "trans": "托马斯·亨特·摩尔根",
    "basis": "果蝇遗传学奠基者，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171303,9 +171526,11 @@
    "term": "Morgenstern, Oskar",
    "trans": "奥斯卡·摩根斯特恩",
    "basis": "学界通行汉译（《博弈论与经济行为》合著者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171313,9 +171538,11 @@
    "term": "Morgenthau, Hans",
    "trans": "汉斯·摩根索",
    "basis": "学界通行汉译（《国家间政治》）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171323,9 +171550,11 @@
    "term": "Mori, Gianluca",
    "trans": "詹卢卡·莫里",
    "basis": "学界通行音译（《培尔哲学家》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171333,9 +171562,11 @@
    "term": "Morley, Michael",
    "trans": "Michael Morley",
    "basis": "无通行汉名，保留英文原名（美国模型论学家，1930–2017）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171343,9 +171574,11 @@
    "term": "Morrill, Glyn",
    "trans": "Glyn Morrill",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171353,9 +171586,11 @@
    "term": "Morris, George S.",
    "trans": "乔治·S.莫里斯",
    "basis": "学界惯例（杜威之师，黑格尔派，通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171363,9 +171598,11 @@
    "term": "Morrison, Robert",
    "trans": "罗伯特·莫里森",
    "basis": "科学史通行音译（犹太中介研究）；凭证 2026-11-12 copernicus r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171373,9 +171610,11 @@
    "term": "Moschovakis, Yiannis N.",
    "trans": "Moschovakis（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171383,9 +171622,11 @@
    "term": "Möser, Justus",
    "trans": "尤斯图斯·默泽尔",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171393,9 +171634,11 @@
    "term": "Moser, Paul",
    "trans": "保罗·莫泽",
    "basis": "学界惯例（音译，认识论家）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171403,9 +171646,11 @@
    "term": "Moses",
    "trans": "摩西",
    "basis": "圣经人物通行汉译（先知摩西；源文未载籍属生卒）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171413,9 +171658,11 @@
    "term": "Moses Ibn Ezra",
    "trans": "摩西·伊本·以斯拉（旧形“埃兹拉”并档）",
    "basis": "家族名与 i/ibn-ezra（亚伯拉罕·伊本·以斯拉）同形；2026-11-11 统一",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171435,9 +171682,11 @@
    "term": "Mosès, Stéphane",
    "trans": "斯特凡·莫塞斯",
    "basis": "学界通行汉译（《历史的天使》）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171445,9 +171694,11 @@
    "term": "Moses, Yoram",
    "trans": "约拉姆·摩西",
    "basis": "学界通行汉译（分布式计算）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -171455,9 +171706,11 @@
    "term": "Mosheim, Johann Lorenz",
    "trans": "约翰·洛伦茨·莫斯海姆",
    "basis": "学界通行音译（教会史家，库德沃斯拉丁译本编者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
