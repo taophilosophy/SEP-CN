@@ -2,10 +2,53 @@
  "key": "eudorus",
  "term": "Eudorus",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T21:57:50+00:00",
- "status": "error",
- "note": "variant=Eudorus; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Eudorus: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:19:25+00:00",
+ "status": "ok",
+ "note": "variant=Eudorus; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "真病毒",
+   "en": "euvirus",
+   "code": "04.005",
+   "standard": "微生物学名词",
+   "subject": "微生物学_病毒学"
+  },
+  {
+   "cn": "电子双共振谱[学]",
+   "en": "electron double resonance spectroscopy,ELDORS",
+   "code": "15.337",
+   "standard": "电子学名词",
+   "subject": "电子学_电子元器件工艺与分析技术"
+  },
+  {
+   "cn": "电子-核双共振谱",
+   "en": "electron-nuclear double resonance spectrum,ENDORS",
+   "code": "06.0504",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_半导体材料性能测试"
+  },
+  {
+   "cn": "电子核子双共振谱[学]",
+   "en": "electron nuclear double resonance spectroscopy,ENDORS",
+   "code": "15.336",
+   "standard": "电子学名词",
+   "subject": "电子学_电子元器件工艺与分析技术"
+  },
+  {
+   "cn": "电子双共振谱[学]",
+   "en": "electron double resonance spectroscopy，ELDORS",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "电子核子双共振谱[学]",
+   "en": "electron nuclear double resonance spectroscopy，ENDORS",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
  "raw": null
 }

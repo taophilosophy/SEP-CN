@@ -2,10 +2,347 @@
  "key": "filon, l. n. g.",
  "term": "Filon, L. N. G.",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T22:32:22+00:00",
- "status": "error",
- "note": "variant=Filon, L. N. G.; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Filon, L. N. G.: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:19:25+00:00",
+ "status": "ok",
+ "note": "variant=Filon, L. N. G.; 审定公布名词库=1192; 海峡两岸名词对照库=363; 其他来源数据库=38; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "菲隆求积",
+   "en": "Filon quadrature",
+   "code": "010.0263",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值微分·数值积分"
+  },
+  {
+   "cn": "l-G仿真试验",
+   "en": "l-G simulation test",
+   "code": "14.675",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天器结构强度与航天环境工程"
+  },
+  {
+   "cn": "公孙",
+   "en": "gōngsūn,SP4",
+   "code": "08.118",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "跟",
+   "en": "gēn,AH1,heel",
+   "code": "08.465",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_耳穴名称和头皮穴线名称"
+  },
+  {
+   "cn": "肝",
+   "en": "gān,CO12,liver",
+   "code": "03.135",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_耳穴名称和头皮穴线名称"
+  },
+  {
+   "cn": "N-苄氧羰基-L-脯氨酸",
+   "en": "N-carbobenzyloxy-L-proline",
+   "code": "02.0299",
+   "standard": "精细化工名词",
+   "subject": "精细化工_中间体"
+  },
+  {
+   "cn": "乳根",
+   "en": "rǔgēn,S18,ST18",
+   "code": "08.087",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "膈关",
+   "en": "géguān,B46,BL46",
+   "code": "08.209",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "上关",
+   "en": "shàngguān,G3,GB3",
+   "code": "08.292",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "曲鬓",
+   "en": "qūbìn,G7,GB7",
+   "code": "08.296",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "脑空",
+   "en": "nǎokōng,G19,GB19",
+   "code": "08.308",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "京门",
+   "en": "jīngmén,G25,GB25",
+   "code": "08.314",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_腧穴"
+  },
+  {
+   "cn": "加尔",
+   "en": "Gál\",\"Hans(奥地利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "信用保证书",
+   "en": "letter of guarantee (L/G)",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信用保证书",
+   "en": "L/G (=letter of guarantee)",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "L型钢",
+   "en": "L-section\",\"L-bar",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "鸟嘌呤",
+   "en": "guanine\",\"G",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "吉",
+   "en": "giga\",\"G",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "橙黄G（=橘黄G）",
+   "en": "orange G",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "橘黄G，橙黄G",
+   "en": "orange G",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "G细胞",
+   "en": "G cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "G蛋白",
+   "en": "G protein",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "G谱号",
+   "en": "clef G",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "G蛋白",
+   "en": "G protein",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "G蛋白",
+   "en": "G Protein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "G组难度",
+   "en": "G difficulty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "典型群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "嘉当子代数",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "一般线性群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "李群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "辛群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "5G革命",
+   "en": "5G revolution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "N-亚硝基二甲胺",
+   "en": "N-Nitrosodimethylamine",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肌氨酸",
+   "en": "sarcosine)N-",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "N-乙基马来酰亚胺",
+   "en": "N-Ethylmaleimide",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "链霉糖",
+   "en": "l-Streptose",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "G.汉密尔顿",
+   "en": "G.Hamilton",
+   "code": "4.4.2.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "code": "4.1.1.1.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "甲基毒芹碱",
+   "en": "N-methylconiine",
+   "code": "3.2.5.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "N-亚硝基二甲胺",
+   "en": "N-nitrosodimethylamine",
+   "code": "2.2.4.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "免疫球蛋白G",
+   "en": "immunoglobulin G， IgG",
+   "code": "1.3.4.29",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "抗荷服",
+   "en": "anti-G suits",
+   "code": "11.1.5.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  },
+  {
+   "cn": "G类毒剂",
+   "en": "G-series agent",
+   "code": "10.5.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "血清免疫球蛋白G4",
+   "en": "serum immunoglobulin G4",
+   "code": "1.3.4.34",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "N-亚硝基化合物",
+   "en": "N-nitroso compound",
+   "code": "7.9.2.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军队食品污染"
+  },
+  {
+   "cn": "N-亚硝基化合物",
+   "en": "N-nitroso compound",
+   "code": "2.2.4.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "毒麦",
+   "en": "lolium temulentum L.",
+   "code": "5.1.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_粮食"
+  },
+  {
+   "cn": "L-谷氨酸钠",
+   "en": "monosodium L-glutamate",
+   "code": "6.1.16.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  }
+ ],
+ "error": null,
  "raw": null
 }

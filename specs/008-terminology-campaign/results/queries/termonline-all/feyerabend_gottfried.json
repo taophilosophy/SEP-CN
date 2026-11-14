@@ -2,10 +2,39 @@
  "key": "feyerabend, gottfried",
  "term": "Feyerabend, Gottfried",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T22:27:52+00:00",
- "status": "error",
- "note": "variant=Feyerabend, Gottfried; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Feyerabend, Gottfried: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:19:25+00:00",
+ "status": "ok",
+ "note": "variant=Feyerabend, Gottfried; 审定公布名词库=1; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "哈伯勒的国际贸易学说",
+   "en": "Gottfried Haberler's theory on international trade",
+   "code": "13.039",
+   "standard": "经济学名词",
+   "subject": "经济学_国际贸易"
+  },
+  {
+   "cn": "埃卡特",
+   "en": "Eckard\",\"Johann Gottfried(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "里特尔，奥古斯特",
+   "en": "Ritter\",\"August Gottfried(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "艾内姆",
+   "en": "Einem\",\"Gottfried von(奥地利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
  "raw": null
 }
