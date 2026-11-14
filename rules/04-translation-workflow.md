@@ -31,7 +31,7 @@
 
 ### 术语校环节（s2.4_termchecked，2026-11-14 升独立环节，ADR-0043）
 
-位置在 s2_checked 之后、s2.5 审计之前（原内嵌于 s1 术语漂移／s3 一致性／r2 语境分流的子项升格，用户裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按“先登记后使用”复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。操作 `advance --step s24`；机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。MQM Terminology 归本环节。
+位置在 s2_checked 之后、s2.5 审计之前（原内嵌于 s1 术语漂移／s3 一致性／r2 语境分流的子项升格，用户裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按“先登记后使用”复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。操作 `advance --step s24`；机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。**本环节每条告警按 [03](03-terminology.md)“差异五分类”定性（D1–D5）并给出三出口之一（修复／登记／豁免），禁止“看到了不处理”；修复以句/段为单位回源重译或逐处人工改，禁止机械替换；D3–D5 须联网查证并留凭证（[ADR-0048](adr/0048-术语落地差异处置标准.md)）。** MQM Terminology 归本环节。
 
 ### 审计已译环节（s2.5_checked，audited 更名并扩容，ADR-0040/0043）
 
