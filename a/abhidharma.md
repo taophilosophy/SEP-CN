@@ -26,7 +26,7 @@
 
 阿毗达磨文献的第二个特征，是其借问答式阐释展开论辨性诠释的倾向。这些文本似乎是早期佛教教团内部关于教义的讨论的产物。同样，这类讨论已见于《阿含》／《尼柯耶》结集（如 *M* I 292–305, III 202–257）：它们常以一个待澄清的教义点开始，继而用问答式的教学方法阐发所涉主题。文本也记录了更正式的论证与驳斥论敌理论的方法，映照出阿毗达磨顺应日益论战化的环境要求而演进的历程。彼时佛教思想经历的制度化进程、佛教教团在印度次大陆的散布，与从口传到书面文本传承方式的转变、以及各佛教部派之间关于教义的僧院论辩的兴起同步。佛教僧团与同时代的梵语语法学家、耆那教及婆罗门诸学派——它们各自也在经历演进的经院化与分析运动——之间同样存在思想吸纳与教义争议，这也必然对阿毗达磨的论辨性诠释与论辩文体有所贡献。辩证的格式与对教义解释分歧的自觉展示，是《论事》与《识身足论》的标志。此后，藏外阿毗达磨文本成为复杂的哲学论著，采用精密的论证方法与独立探究，得出的教义结论已与其藏内先导相去甚远。
 
-于是，阿毗达磨文献兴起于早期佛教教团内讨论佛法的两条进路：其一意在总结与分析佛陀教法的要点，其二意在借僧院论辩发挥与诠释教义（Bronkhorst 2016, 29–46；Cousins 1983, 10；Dessein 2016, 4–7；Gethin 1992b, 165；Gethin 2022, 227–242）。[^bronkhorst-2016][^cousins-1983][^dessein-2016][^gethin-2022]
+于是，阿毗达磨文献兴起于早期佛教教团内讨论佛法的两条进路：其一意在总结与分析佛陀教法的要点，其二意在借僧院论辩发挥与诠释教义（Bronkhorst 2016, 29–46；Cousins 1983, 10；Dessein 2016, 4–7；Gethin 1992b, 165；Gethin 2022, 227–242）[^bronkhorst-2016][^cousins-1983][^dessein-2016][^gethin-1992b][^gethin-2022]。[^bronkhorst-2016][^cousins-1983][^dessein-2016][^gethin-2022]
 
 ### 1.2 阿毗达磨诠释：从 Dharma 到 dharmas
 
@@ -242,6 +242,8 @@
 [^cousins-2001]: –––, 2001, “On the Vibhajjavādins: the Mahiṃsāsaka, Dhammaguttaka, Kassapiya and Tambapaṇṇiya branches of the ancient Theriyas,” *Buddhist Studies Review*, 18: 131–182.
 
 [^cox-1995]: Cox, C., 1995, *Disputed Dharmas: Early Buddhist Theories on Existence—an annotated translation of the section on factors dissociated from thought from Saṅghabhadra's Nyāyānusāra*, Tokyo: Studia Philologica Buddhica XI, The International Institute for Buddhist Studies.
+[^cox-2004a]: –––, 2004A, “From Category to Ontology: The Changing Role of *Dharma* in Sarvāstivāda Abhidharma,” *Journal of Indian Philosophy*, 32: 543–597.
+[^cox-2004b]: –––, 2004B, “Mainstream Buddhist Schools,” in *Encyclopedia of Buddhism*, R. Buswell (ed.), NY: McMillan, pp. 501–507.
 
 [^cox-nd]: –––, 2004A, “From Category to Ontology: The Changing Role of *Dharma* in Sarvāstivāda Abhidharma,” *Journal of Indian Philosophy*, 32: 543–597.
 
@@ -256,6 +258,8 @@
 [^dreyfus-1997]: Dreyfus, G., 1997, *Recognizing Reality: Dharmakīrti's Philosophy and its Tibetan Interpretations*, Albany: SUNY Press.
 
 [^frauwallner-1956]: Frauwallner, E., 1956, *The Earliest Vinaya and the Beginnings of Buddhist Literature*, trans. L. Petech, Rome: Is. M.E.
+[^gethin-1992a]: Gethin, R., 1992A, *The Buddhist Path to Awakening: A Study of bodhi-pakkhiyā dhammā*, Leiden: E.J. Brill.
+[^gethin-1992b]: –––, 1992B, “The *mātikās:* Memorization, Mindfulness, and the List,” in *In the Mirror of Memory: Reflections on Mindfulness and Remembrance in Indian and Tibetan Buddhism*, J. Gyatso (ed.), New York: SUNY Press, pp. 149–172.
 
 [^gethin-nd]: Gethin, R., 1992A, *The Buddhist Path to Awakening: A Study of bodhi-pakkhiyā dhammā*, Leiden: E.J. Brill.
 

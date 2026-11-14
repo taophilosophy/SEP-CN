@@ -134,7 +134,7 @@
 
 （b）**决定论**。相对论宇宙学的物理理论无法在两种情形之间做出选择。这表现为理论的一种非决定论（indeterminism）。我们可以规定整个事件流形上度规场与物质场的分布，唯独在标示为空洞的区域之内除外。然后，理论无法告诉我们场在空洞之内将如何发展。原有分布与变换后的分布都是洞外度规场与物质场向空洞之内的合法延拓，因为二者都满足相对论宇宙学理论的全部定律。理论没有任何资源能让我们坚持其中只有一个是可取的。
 
-必须看到，这个不快的后果并不只在于决定论的失败。我们对这类失败再熟悉不过了，它当然不足以自动否证一个物理理论。最著名的、广受赞誉的非决定论理论的例子是量子理论：在标准诠释中，对系统的测量可以导致向多个可能结果之一的不确定性坍缩。鲜为人知的是，在经典物理中同样可以构造非决定论系统。多数例子涉及一些古怪情形，例如物体以无界速度从空间无穷远处凭空出现，即所谓“太空入侵者”（Earman 1986a, 第三章；另见词条“因果决定论”）。它们也可能由超任务（Supertasks）中无穷多物体的相互作用产生。更晚近，出现了一个极其简单的例子：单个质块停在一个穹顶顶端，在任意的延时之后、沿任意方向自发地开始运动（Norton 2003, Section 3）。
+必须看到，这个不快的后果并不只在于决定论的失败。我们对这类失败再熟悉不过了，它当然不足以自动否证一个物理理论。最著名的、广受赞誉的非决定论理论的例子是量子理论：在标准诠释中，对系统的测量可以导致向多个可能结果之一的不确定性坍缩。鲜为人知的是，在经典物理中同样可以构造非决定论系统。多数例子涉及一些古怪情形，例如物体以无界速度从空间无穷远处凭空出现，即所谓“太空入侵者”（Earman 1986a, 第三章；另见词条“因果决定论”）[^earman-1986a]。它们也可能由超任务（Supertasks）中无穷多物体的相互作用产生。更晚近，出现了一个极其简单的例子：单个质块停在一个穹顶顶端，在任意的延时之后、沿任意方向自发地开始运动（Norton 2003, Section 3）[^norton-2003]。
 
 空穴论证中决定论失败的问题不在于失败这一事实，而在于它失败的方式。如果我们否定流形实体论并接受莱布尼茨等价，那么由洞变换诱导的非决定论就被根除了。尽管向洞内延拓的场在数学上有不可数多种互不相同的方式，但在莱布尼茨等价之下，它们在物理上全部相同。也就是说，物理场向洞内的延拓终究是唯一的。于是，这种非决定论是实体论者形而上学承诺的直接后果。类似地，如果我们接受莱布尼茨等价，我们也就不再为两种分布无法被任何可能的观察区分而困扰：它们只是同一物理实在的不同数学描述，因而理应在一切可观测量上一致。
 
@@ -180,9 +180,9 @@
 
 ### 9.1 否定实体论
 
-一条思路径直同意：空穴论证使得接受莱布尼茨等价成为必然。它试图把这种接受所涉及的内容变得更透明，办法是寻找单一数学结构来表示一个物理时空系统，而不是莱布尼茨等价所允许的可互变换结构的等价类。其中一种尝试涉及“莱布尼茨代数”（Leibniz algebra）概念（见 Earman 1989, Ch. 9, Sect. 9）。这类尝试能否成功并不清楚。正如可互变换的场代表同一个物理系统，也存在着不同但可互变换、具有相同物理意涵的莱布尼茨代数。如果流形与莱布尼茨代数这两种形式体系可以互译，那么可以预期空穴论证也会在这种翻译下在后者中重现。（见 Rynasiewicz 1992。）
+一条思路径直同意：空穴论证使得接受莱布尼茨等价成为必然。它试图把这种接受所涉及的内容变得更透明，办法是寻找单一数学结构来表示一个物理时空系统，而不是莱布尼茨等价所允许的可互变换结构的等价类。其中一种尝试涉及“莱布尼茨代数”（Leibniz algebra）概念（见 Earman 1989, Ch. 9, Sect. 9）[^earman-1989]。这类尝试能否成功并不清楚。正如可互变换的场代表同一个物理系统，也存在着不同但可互变换、具有相同物理意涵的莱布尼茨代数。如果流形与莱布尼茨代数这两种形式体系可以互译，那么可以预期空穴论证也会在这种翻译下在后者中重现。（见 Rynasiewicz 1992。）
 
-另一种进路试图通过以“狄拉克可观测量”（Dirac observables）及相应的规范固定约定对时空点做个体化，来解释莱布尼茨等价并论证广义相对论与空穴论证的相容（Lusanna and Pauri 2006）。更一般地，我们很可以怀疑：时空实体论面临的困难是否是上文所述特定形式体系的假象。Bain (1998, 2003) 考察了转向其他形式体系（不限于莱布尼茨代数）的效果。
+另一种进路试图通过以“狄拉克可观测量”（Dirac observables）及相应的规范固定约定对时空点做个体化，来解释莱布尼茨等价并论证广义相对论与空穴论证的相容（Lusanna and Pauri 2006）[^lusanna-2006]。更一般地，我们很可以怀疑：时空实体论面临的困难是否是上文所述特定形式体系的假象。Bain (1998, 2003) 考察了转向其他形式体系（不限于莱布尼茨代数）的效果。
 
 ### 9.2 接受非决定性
 
@@ -275,6 +275,92 @@ Belot (2018) 反对对莱布尼茨等价作出单向的裁定。他一方面允�
     其中 $\varrho$ 是物质密度。若 $U(r)$ 满足此方程，则 $U(r)+K(t)$ 也满足它，因为 $\Delta K(t) = 0$，故 $\Delta(U(r)+K(t)) = \Delta U(r)$。
 
 [^note-8]: 可观察的电磁场强 $\mathbf{E}$ 与 $\mathbf{B}$ 通过下述关系与标势 $\phi$ 及矢势 $\mathbf{A}$ 相联系：
+[^bain-1998]: Bain, Jonathan, 1998, *Representations of Spacetime: Formalism and Ontological Commitment*, Ph.D. Dissertation, Department of History and Philosophy of Science, University of Pittsburgh.
+[^bain-2003]: –––, 2003, “Einstein Algebras and the Hole Argument,” *Philosophy of Science*, 70: 1073–1085.
+[^belot-1995a]: Belot, Gordon, 1995a, “Indeterminism and Ontology,” *International Studies in the Philosophy of Science*, 9: 85–101.
+[^belot-1995b]: –––, 1995b, “New Work for Counterpart Theorists”, *British Journal for the Philosophy of Science*, 46(2): 185–195.
+[^belot-1996]: –––, 1996, *Whatever is Never and Nowhere is Not: Space, Time and Ontology in Classical and Quantum Gravity* Ph. D. Dissertation, Department of Philosophy, University of Pittsburgh.
+[^belot-1996a]: –––, 1996a, “Why General Relativity *Does* Need an Interpretation,” *Philosophy of Science*, 63 (Supplement): S80–S88.
+[^belot-2018]: –––, 2018, “Fifty Million Elvis Fans Can’t be Wrong,” *Noûs*, 52: 946–981.
+[^belot-2001]: Belot, Gordon and Earman, John, 2001, “Pre-Socratic Quantum Gravity”, in C. Callender and N. Huggett (eds.), *Physics Meets Philosophy at the Planck Scale*, Cambridge: Cambridge University Press. pp. 213–255.
+[^brighouse-1994]: Brighouse, Carolyn, 1994, “Spacetime and Holes,” in D. Hull, M. Forbes and R. M. Burian (eds.), *PSA 1994*, Volume 1, pp. 117–125.
+[^brighouse-2020]: –––, 2020, “Confessions of a (Cheap) Sophisticated Substantivalist”, *Foundations of Physics* , 50: 348–359.
+[^butterfield-1988]: Butterfield, Jeremy, 1988, “Albert Einstein meets David Lewis,” in A. Fine and J. Leplin (eds.), *PSA 1988*, Volume 2, pp. 56–64.
+[^butterfield-1989]: –––, 1989, “The Hole Truth,” *British Journal for the Philosophy of Science*, 40: 1–28.
+[^brading-2003]: Brading, Katherine and Castellani, Elena (eds.), 2003, *Symmetries in Physics:Philosophical Reflections*, Cambridge: Cambridge University Press, pp. 334–345.
+[^corry-1997]: Corry, Leo, Renn, Juergen, and Stachel, John, 1997, “Belated Decision in the Hilbert-Einstein Priority Dispute,” *Science*, 278: 1270–73.
+[^curiel-2018]: Curiel, Erik, 2018, “On the Existence of Spacetime Structure,” *British Journal for the Philosophy of Science*, 69: 447–483.
+[^dasgupta-2011]: Dasgupta, Shamik, 2011, “The Bare Necessities”, *Philosophical Perspectives*, 25: 115–160.
+[^dougherty-2020]: Dougherty, John, 2020, “The Hole Argument, Take $n$”, *Foundations of Physics*, 50: 330–347.
+[^earman-1986]: Earman, John, 1986, “Why Space is not a Substance (At Least Not to First Degree),” *Pacific Philosophical Quarterly*, 67: 225–244.
+[^earman-1986a]: –––, 1986a, *A Primer on Determinism*, Dordrecht: Reidel.
+[^earman-1989]: –––, 1989, *World Enough and Space-Time: Absolute Versus Relational Theories of Space and Time*, Cambridge, MA: MIT Bradford.
+[^earman-2003]: –––, 2003, “Tracking down gauge: an ode to the constrained Hamiltonian formalism”, in K. Brading and E. Castellani (eds.), *Symmetries in Physics: Philosophical Reflections*, Cambridge: Cambridge University Press, pp. 140–162.
+[^earman-1987]: Earman, John and Norton, John D., 1987, “What Price Spacetime Substantivalism,” *British Journal for the Philosophy of Science*, 38: 515–525.
+[^einstein-1916]: Einstein, Albert, 1916, “The Foundation of the General Theory of Relativity,” in H.A. Lorentz et al., *The Principle of Relativity*, New York: Dover, 1952, pp. 111–164.
+[^friedman-1983]: Friedman, Michael, 1983. *Foundations of Space-Time Theories: Relativistic Physics and Philosophy of Science,* Princeton, NJ: Princeton University Press.
+[^giovanelli-2013]: Giovanelli, Marco, 2013 “Erich Kretschmann as a Proto-Logical-Empiricist: Adventures and Misadventures of the Point-Coincidence Argument,” *Studies in History and Philosophy of Modern Physics*, 44: 115–134.
+[^gomes-2023a]: Gomes, Henrique and Butterfield, Jeremy, 2023a, “The Hole Argument and Beyond, Part I: The Story so Far”.
+[^gomes-2023b]: –––, 2023b, “The Hole Argument and Beyond, Part II: Treating Non-isomorphic Spacetimes”.
+[^gryb-2016]: Gryb, Sean and Thébault, Karim P. Y., 2016, “Regarding the ‘Hole Argument’ and the ‘Problem of Time’,” *Philosophy of Science*, 83: 563–584.
+[^halvorson-2021]: Halvorson, Hans and Manchak, J.B., “Closing the Hole Argument”, *British Journal for the Philosophy of Science*, 2021.
+[^healey-1999]: Healey, Richard, 1999, “On the Reality of Gauge Potentials,” *Philosophy of Science*, 68: 432–55.
+[^hoefer-1996]: Hoefer, Carl, 1996, “The Metaphysics of Space-Time Substantivalism,” *Journal of Philosophy*, 93: 5–27.
+[^hoefer-1993]: Hoefer, Carl and Cartwright, Nancy, 1993, “Substantivalism and the Hole Argument,” in J. Earman *et al*. (eds.), *Philosophical Problems of the Internal and External Worlds: Essays on the Philosophy of Adolf Gruenbaum*, Pittsburgh: University of Pittsburgh Press/Konstanz: Universitaetsverlag Konstanz, pp. 23–43.
+[^howard-1993]: Howard, Don and Norton, John D., 1993, “Out of the Labyrinth? Einstein, Hertz and the Goettingen Answer to the Hole Argument,” in John Earman, Michel Janssen, John D. Norton (eds.), *The Attraction of Gravitation: New Studies in History of General Relativity* Boston: Birkhäuser, pp. 30–62.
+[^iftime-2006]: Iftime, Mihaela and Stachel, John, 2006, “The Hole Argument for Covariant Theories,” *General Relativity and Gravitation*, 38: 1241–1252.
+[^janssen-1999]: Janssen, Michel, 1999, “Rotation as the Nemesis of Einstein’s ‘Entwurf’ Theory,” in Hubert Goenner *et al*. (eds.), *Einstein Studies: Volume 7. The Expanding Worlds of General Relativity*, Boston: Birkhaeuser, pp. 127–157.
+[^jammer-1993]: Jammer, Max, 1993, *Concepts of Space: The History of Theories of Space in Physics*, third enlarged edition, New York: Dover, Chapter 6. “Recent Developments.”
+[^klein-1995]: Klein, Martin J. *et al*. (eds.), 1995, *The Collected Papers of Albert Einstein: Volume 4. The Swiss Years: Writing, 1912–1914*, Princeton: Princeton University Press.
+[^ladyman-2020]: Ladyman, James and Presnell, Stuart, 2020, “The Hole Argument in Homotopy Type Theory”, *Foundations of Physics*, 50: 319–329.
+[^lusanna-2006]: Lusanna, Luca and Pauri, Massimo, 2006 “Explaining Leibniz Equivalence as Difference of Non-inertial Appearances: Dis-solution of the Hole Argument and Physical Individuation of Point-Events,” *Studies in History and Philosophy of Modern Physics*, 37: 692–725
+[^liu-1996]: Liu, Chuang, 1996, “Realism and Spacetime: Of Arguments Against Metaphysical Realism and Manifold Realism,” *Philosophia Naturalis*, 33: 243–63.
+[^liu-1996a]: –––, 1996a, “Gauge Invariance, Indeterminism, and Symmetry Breaking,” *Philosophy of Science*, 63 (Supplement): S71–S80.
+[^leeds-1995]: Leeds, Stephen, 1995, “Holes and Determinism: Another Look,” *Philosophy of Science*, 62: 425–437.
+[^macdonald-2001]: Macdonald, Alan, 2001, “Einstein’s Hole Argument,” *American Journal of Physics*, 69: 223–25
+[^maudlin-1989]: Maudlin, Tim, 1989, “The Essence of Spacetime,” in A. Fine and J. Leplin (eds.), *PSA 1988*, Volume 2, pp. 82–91.
+[^maudlin-1990]: –––, 1990, “Substances and Spacetimes: What Aristotle Would have Said to Einstein,” *Studies in the History and Philosophy of Science*, 21: 531–61.
+[^melia-1999]: Melia, Joseph, 1999, “Holes, Haecceitism and Two Conceptions of Determinism”, *British Journal for the Philosophy of Science*, 50(4):639–664.
+[^menon-2023]: Menon, Tushar and Read, James, 2023, “Some Remarks on Recent Mathematical-*cum*-formalist Responses to the Hole Argument”, *Philosophy of Science*.
+[^muller-1995]: Muller, Fred A., 1995, “Fixing a Hole,” *Foundations of Physics Letters*, 8: 549–562.
+[^mundy-1992]: Mundy, Brent, 1992, “Spacetime and Isomorphism,” in D. Hull, M. Forbes and K. Okruhlik (eds.), *PSA 1992*, Volume 1, pp. 515–527.
+[^norton-1984]: Norton, John D., 1984, “How Einstein found his Field Equations: 1912–1915,” *Historical Studies in the Physical Sciences*, 14: 253–316; reprinted in Don Howard and John Stachel (eds.), *Einstein and the History of General Relativity: Einstein Studies*, Volume 1, Boston: Birkhäuser, 1989, pp. 101–159.
+[^norton-1987]: –––, 1987, “Einstein, the Hole Argument and the Reality of Space,” in John Forge (ed.), *Measurement, Realism and Objectivity*, Dordrecht: Reidel, pp. 153–188 .
+[^norton-1988]: –––, 1988, “The Hole Argument,” in A. Fine and J. Leplin (eds.), *PSA 1988*, Volume 2, pp. 56–64.
+[^norton-1989]: –––, 1989, “Coordinates and Covariance: Einstein’s view of spacetime and the modern view,” *Foundations of Physics*, 19: 1215–1263.
+[^norton-1992]: –––, 1992, “The Physical Content of General Covariance,” in J. Eisenstaedt and A. Kox (eds.), *Studies in the History of General Relativity* (Volume 3: Einstein Studies), Boston: Birkhauser, pp. 281–315.
+[^norton-1992a]: –––, 1992a, “Philosophy of Space and Time,” in M.H. Salmon *et al*., *Introduction to the Philosophy of Science*, Englewood Cliffs, NJ: Prentice-Hall; reprinted Hackett Publishing, pp. 179–231.
+[^norton-1993]: –––, 1993, “General Covariance and the Foundations of General Relativity: Eight Decades of Dispute,” *Reports on Progress in Physics*, 56: 791–858.
+[^norton-2003]: –––, 2003, “Causation as Folk Science,” *Philosophers’ Imprint*, 3 (4) [[available Online](http://www.philosophersimprint.org/003004/)].
+[^norton-2003a]: –––, 2003a, “General Covariance, Gauge Theories, and the Kretschmann Objection,” in K. Brading and E. Castellani (eds.), *Symmetries in Physics: Philosophical Reflections*, Cambridge: Cambridge University Press, pp. 110–123.
+[^norton-2019]: –––, 2019, “Ontology of Space and Time: The Hole Argument”, in *Einstein for Everyone*: [available online](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_hole_argument/significance_GR_hole_argument.html).
+[^pooley-2002]: Pooley, Oliver, 2002, *The Reality of Spacetime*, D.Phil. thesis, University of Oxford.
+[^pooley-2006a]: –––, 2006a, “A Hole Revolution, or are We Back Where We Started?”, *Studies in History and Philosophy of Modern Physics*, 37(2): 372–380.
+[^pooley-2006b]: –––, 2006b, “Points, Particles, and Structural Realism,” in D. Rickles *et al.* (eds), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press, pp. 83–120.
+[^pooley-2013]: –––, 2013, “Substantivalist and Relationalist Approaches to Spacetime,” in R. W. Batterman (ed.), *The Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press, pp. 522–586.
+[^pooley-2017]: –––, 2017, “Background Independence, Diffeomorphism Invariance and the Meaning of Coordinates”, in D. Lehmkuhl, G. Schiemann and E. Scholz (eds.), *Towards a Theory of Spacetime Theories,* Basel: Birkhäuser, pp. 105–144.
+[^pooley-2021]: –––, 2021, “The Hole Argument”, in E. Knox and A. Wilson (eds.), *The Routledge Companion to Philosophy of Physics*, London: Routledge, pp. 145–159.
+[^pooley-2021-2]: Pooley, Oliver and Read, James, 2021, “On the Mathematics and Metaphysics of the Hole Argument”, *British Journal for the Philosophy of Science*.
+[^read-2023]: Read, James, 2023, *Background Independence in Classical and Quantum Gravity,* Oxford: Oxford University Press.
+[^renn-2007]: Renn, Juergen, *et al*. (eds.), 2007, *The Genesis of General Relativity: Sources and Interpretations*, (Boston Studies in the Philosophy of Science, Volume 250), 4 Volumes, Berlin: Springer.
+[^rickles-2005]: Rickles, Dean, 2005, “A New Spin on the Hole Argument,” *Studies in History and Philosophy of Modern Physcis*, 36: pp. 415–34.
+[^roberts-2020]: Roberts, Bryan W., 2020, “Regarding ‘Leibniz Equivalence’”, *Foundations of Physics* 50: 250–269.
+[^rovelli-2000]: Rovelli, Carlo and Gaul, Marcus, 2000, “Loop Quantum Gravity and the Meaning of Diffeomorphism Invariance”, in Jerzy Kowalski-Glikman (ed.), *Towards Quantum Gravity,* Berlin: Springer, pp. 277–324.
+[^rynasiewicz-1992]: Rynasiewicz, Robert, 1992, “Rings, Holes and Substantivalism: On the Program of Leibniz Algebras,” *Philosophy of Science*, 45: 572–89.
+[^rynasiewicz-1994]: –––, 1994, “The Lessons of the Hole Argument,” *British Journal for the Philosophy of Science*, 45: 407–436.
+[^rynasiewicz-1996]: –––, 1996, “Is There a Syntactic Solution to the Hole Problem,” *Philosophy of Science*, 64 (Proceedings): S55–S62.
+[^rynasiewicz-2012]: –––, 2012, “Simultaneity, convention, and gauge freedom” *Studies in History and Philosophy of Modern Physics*, 43: 90–94.
+[^smolin-2006]: Smolin, Lee, 2006, “The Case for Background Independence”, in Dean Rickles, Steven French and Juha T. Saatsi (eds.), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press. pp. 196–239.
+[^stachel-1980]: Stachel, John, 1980, “Einstein’s Search for General Covariance,” in Don Howard and John Stachel (eds.), *Einstein and the History of General Relativity* (Einstein Studies, Volume 1), Boston: Birkhäuser, 1989, pp. 63–100. [This paper was first paper read at the Ninth International Conference on General Relativity and Gravitation, Jena.]
+[^stachel-1986]: –––, 1986, “What can a Physicist Learn from the Discovery of General Relativity?,” *Proceedings of the Fourth Marcel Grossmann Meeting on Recent Developments in General Relativity*, R. Ruffini (ed.), Amsterdam: North-Holland, pp. 1857–1862.
+[^stachel-1993]: –––, 1993, “The Meaning of General Covariance,” in J. Earman *et al*. (eds.), *Philosophical Problems of the Internal and External Worlds: Essays on the Philosophy of Adolf Gruenbaum*, Pittsburgh: University of Pittsburgh Press/Konstanz: Universitaetsverlag Konstanz, pp. 129–160.
+[^stachel-2006]: –––, 2006, “Structure, Individuality and Quantum Gravity”, in Dean Rickles, Steven French and Juha T. Saatsi (eds.), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press. pp. 53–82.
+[^stachel-2014]: –––, 2014 “The Hole Argument and Some Physical and Philosophical Implications,” *Living Reviews in Relativity*, 17(1): [available online](http://www.livingreviews.org/lrr-2014-1).
+[^teller-1991]: Teller, Paul, 1991, “Substances, Relations and Arguments About the Nature of Spacetime,” *The Philosophical Review*, 100(3): 363–97.
+[^teitel-2019]: Teitel, Trevor, 2019, “Holes in Spacetime: Some Neglected Essentials,” *Journal of Philosophy*, forthcoming, [preprint available online](http://philsci-archive.pitt.edu/id/eprint/15972).
+[^weatherall-2018]: Weatherall, James O., 2018, “Regarding the ‘Hole Argument’,” *British Journal for the Philosophy of Science*, 69: 329–350, [preprint available online](http://philsci-archive.pitt.edu/id/eprint/11578).
+[^weatherall-2020]: –––, 2020. “Some Philosophical Prehistory of the (Earman-Norton) Hole Argument”, *Studies in History and Philosophy of Modern Physics*, 70: 79–87.
+[^wilson-1993]: Wilson, Mark, 1993, “There’s a Hole and a Bucket, Dear Leibniz,” in P. A. French, T. E. Uehling and H. K. Wettstein (eds.), *Philosophy of Science*, Notre Dame: University of Notre Dame Press, pp. 202–241.
 
     $$\begin{align} \mathbf{B} &= \boldsymbol{\nabla} \times \mathbf{A} \\ \mathbf{E} &= -\boldsymbol{\nabla} \phi - \partial \mathbf{A}/\partial t \end{align}$$
 

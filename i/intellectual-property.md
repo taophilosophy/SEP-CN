@@ -110,7 +110,7 @@
 
 至关重要的是要注意：知识产权保护是否充分促进人类幸福或福祉，是一个经验问题。例如，知识产权保护是否提供了引出某种最优内容创作产出的激励，只能通过考察经验证据来判定。同样，知识产权保护是否具有阻碍创新、抑制新颖有价值内容之生产的效果，也只能通过经验分析来判定。获取此类证据所涉及的困难表明，这一经验问题将在相当一段时间内持续争论。使这一任务复杂化的是：知识产权保护在促进福祉方面的效力（或其缺乏）似乎因行业而异（Lemley 2015）[^lemley-2015]。
 
-在正面一方，有众多作者声称经验证据现已坚定地支持知识产权保护。‘无保护规则’的悲剧是保密、受限市场与错失机会（Miners & Staff 1990; Mossoff 2015; O'Connor 2016）[^miners-1990]。William Fisher 指出：
+在正面一方，有众多作者声称经验证据现已坚定地支持知识产权保护。‘无保护规则’的悲剧是保密、受限市场与错失机会（Miners & Staff 1990; Mossoff 2015; O'Connor 2016）[^o’connor-2015][^miners-1990]。William Fisher 指出：
 
 > 潜在创新者将会知道，一旦他们向世界揭示其突破，其他人就能免费利用它们。因此，创新者将无法收回其创新的成本（他们为准备创新所接受的教育成本、研发支出、机会成本等）。意识到这一风险，潜在创新者将把精力投入其他更有利可图的活动，整个社会将因此受损。（Fisher 2001）[^fisher-2001]
 
@@ -361,6 +361,7 @@ Coy（2007）论证，在竞争性市场中，信息的成本应恰当反映使�
 [^nimmer-1970]: –––, 1970, “Does Copyright Abridge the First Amendment Guarantees of Free Speech and Press?” *UCLA Law Review*, 17: 1180–1204.
 
 [^nozick-1974]: Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
+[^o’connor-2015]: O’Connor, Sean, 2015, “Creators, Innovators, and Appropriation Mechanisms,” *George Mason Law Review*, 22: 973–1000.
 
 [^o'connor-2015]: O'Connor, Sean, 2015, “Creators, Innovators, and Appropriation Mechanisms,” *George Mason Law Review*, 22: 973–1000.
 
