@@ -218,3 +218,11 @@
 **留队歧义 25 人**：Goldman、Gramsci、Goya、Grant 三人、Glymour 类无地域码者、Hájek、Hale、Guo Xiang、Guyer、Lukács 等。
 
 **验收**：硬错误 0；人名缺项 2891 → 2847。
+
+## 2026-11-14 GND K 段（41 行）
+
+**范围**：续取 120 行（Halpern 至 Hisdal），命中 45（exact 41／variant 4）、歧义 23、查无 43，采信 41（跳过无地域码 9）。凭证 `results/verify-2026-11-14-gnd-k.tsv`。
+
+**拒采 4 条**：`Hao Wang`（GND 作 1993 年生，与 1921–1995 的逻辑学家不合）、`He Yan`（现代同名者，非魏晋玄学家）、`Hermes Trismegistus`（GND 命中 1769–1834 同名者，传说人物无生卒）、`Heytesbury, William`（GND 作 1809 年生，与 14 世纪哲学家不合）。
+**口径校正**：Han Yongun 取“朝鲜／佛教”；Hindemith 取“德国／美国／音乐”（GND 四值首二为瑞士、土耳其，系流亡地）。
+**验收**：硬错误 0；人名缺项 2847 → 2806。
