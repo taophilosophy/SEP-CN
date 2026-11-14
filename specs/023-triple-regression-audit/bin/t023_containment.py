@@ -42,7 +42,8 @@ SUBSUP = str.maketrans(
 
 
 def norm(s):
-    s = re.sub(r'<[^>]+>', ' ', s)
+    # 标签形剥法：HOL/公式文本里字面 `<=` 会被裸 `<[^>]+>` 吃到下一个 `>`
+    s = re.sub(r'</?[a-zA-Z][^>]*>', ' ', s)
     s = htmllib.unescape(s).translate(SUBSUP)
     return re.sub(r'[^0-9a-z\u4e00-\u9fff]+', '', s.lower())
 
@@ -82,7 +83,7 @@ def en_rows(slug):
         for ri, tr in enumerate(re.findall(r'<tr\b.*?</tr>', seg, re.S)):
             cells = [NOTE_REF_RE.sub(lambda m: '[^note-%s]' % re.sub('^note-', '', m.group('ref')), td)
                      for td in re.findall(r'<t[dh]\b.*?</t[dh]>', tr, re.S)]
-            cells = [re.sub(r'<[^>]+>', ' ', td) for td in cells]
+            cells = [re.sub(r'</?[a-zA-Z][^>]*>', ' ', td) for td in cells]
             txt = re.sub(r'\s+', ' ', htmllib.unescape(' '.join(cells))).strip()
             if not txt:
                 continue
