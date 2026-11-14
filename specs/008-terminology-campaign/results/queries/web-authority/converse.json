@@ -1,0 +1,15 @@
+{
+ "key": "converse",
+ "term": "converse",
+ "provider": "web-authority",
+ "queried_at": "2026-11-15T05:55:00+08:00",
+ "status": "ok",
+ "note": "2026-11-15 用户裁定待裁条目按前沿哲学论文定：主译改“逆命题”（当代逻辑文献通行，A→B 之 converse 为 B→A）；旧形“换位（互为换位）”降为传统逻辑换位操作义注记；非术语在线通道（ADR-0012 档②③）",
+ "hits": [
+  {
+   "cn": "逆命题",
+   "en": "converse",
+   "standard": "当代逻辑文献通行（“A→B 不等价于其逆命题 B→A”为教材/考研/学术通行表述）；条件句 converse=逆命题，范畴逻辑 conversion=换位分域"
+  }
+ ]
+}
