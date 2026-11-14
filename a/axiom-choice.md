@@ -14,7 +14,7 @@
 
 作为一个很简单的例子，令 ${\mathcal{H}}$ 为 $\{0, 1\}$ 的非空子集组成的族，即 ${\mathcal{H}} = \{\{0\}, \{1\}, \{0,1\}\}$。那么 ${\mathcal{H}}$ 有两个不同的选择函数 $f_{1}$ 与 $f_{2}$，由下式给出：
 
-\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}
+$$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}$$
 
 一个更有趣的选择函数例子是：取 ${\mathcal{H}}$ 为实数（无序）对的集合，取函数为给每一对指派其最小元素。若给每一对指派其最大元素，则得到另一个选择函数。显然，还可以在 ${\mathcal{H}}$ 上定义更多选择函数。
 
@@ -65,7 +65,7 @@ $$ {\forall x\,{\in}\, A}\ \exists y\,{\in}\, B[R(x,y)] \Rightarrow \exists f[f:
 | 1904/1908 | 策梅洛引入集合论公理，明确表述 *AC* 并用它证明良序定理，由此激起轩然大波。 |
 | --- | --- |
 | 1904 | 罗素认识到 *AC* 即**乘法公理**：任意非零基数的积非零。 |
-| 1914 | 豪斯多夫从 *AC* 推出不可测集的存在，其“悖论式”形式是：球的 ${^{1}\unicode{x2044}_{2}}$ 与它的 ${^{1}\unicode{x2044}_{3}}$ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
+| 1914 | 豪斯多夫从 *AC* 推出不可测集的存在，其“悖论式”形式是：球的 ½ 与它的 ⅓ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
 | 1922 | 弗兰克尔引入“置换方法”，以确立 *AC* 相对于带原子的集合论系统的独立性（Fraenkel 1922）[^fraenkel-1922]。 |
 | 1924 | 巴拿赫与塔尔斯基在豪斯多夫工作的基础上，从 *AC* 推出他们的球体悖论分解。 |
 | 1926 | 希尔伯特在其证明论中引入“超限”或“epsilon”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
@@ -90,11 +90,11 @@ $$ {\forall x\,{\in}\, A}\ \exists y\,{\in}\, B[R(x,y)] \Rightarrow \exists f[f:
 
 哥德尔关于 *AC* 相对于集合论公理的一致性的证明（见库尔特·哥德尔词条）依据的是一个完全不同的想法：**可定义性**。他类比累积类型分层，引入了一个新的集合分层——**可构造**分层。我们记得，后者由如下超限递归定义，其中 ${\mathcal{P}}(X)$ 是 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
 
-\begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \sP(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}
+$$\begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \mathcal{P}(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}$$
 
 可构造分层由对序数的类似递归定义，其中 ${\mathrm{Def}}(X)$ 是 $X$ 的所有在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的子集之集：[^note-7]
 
-\begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \Def(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}
+$$\begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \mathrm{Def}(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}$$
 
 **可构造宇宙**是类 $L = \bigcup_{\alpha\in {\mathrm{Ord}}} L_{\alpha}$；$L$ 的成员是**可构造集**。哥德尔表明（假定策梅洛—弗兰克尔集合论 **ZF** 的公理），结构 $(L, \in)$ 是 **ZF** 的模型，同时也是 *AC* 以及广义连续统假设的模型。由此可得 *AC* 相对于 **ZF** 的一致性。
 
@@ -209,7 +209,7 @@ $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in 
 
 现在令 $A$ 为给定命题。由谓词性概括，我们可以引入谓词常元 $U$、$V$ 以及断言
 
-\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}
+$$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
 
 令 $\Phi(X)$ 为公式 $X \approx U \vee X \approx V$。那么显然我们可以断言 $\forall X[\Phi(X) \rightarrow \exists xX(x)]$，于是可以援引 **AC1L** 断言 $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$。现在我们可以引入函数常元 $K$ 以及断言
 
@@ -267,7 +267,7 @@ $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
 
 现在定义 $g: A \times 2 \rightarrow 2$ 为 $g = \pi_{2} \circ f \circ r$，其中 $\pi_2$ 是第二坐标投影。那么 $g$ 是 $U$ 的指示函数，如下列等价式所示：
 
-\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{by (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{using (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}
+$$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{由（**）} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{用（*）} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
 
 证明完毕。
 

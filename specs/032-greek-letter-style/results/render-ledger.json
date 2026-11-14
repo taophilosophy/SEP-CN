@@ -1,0 +1,139 @@
+{
+ "schema": "sep-cn-render-fix-ledger/1",
+ "date": "2026-11-15",
+ "basis": "specs/032 验收发现，C1/C8 家法",
+ "rows": [
+  {
+   "file": "a/axiom-choice.md",
+   "line": 17,
+   "old": "\\begin{align} f_{1}(\\{0\\})",
+   "new": "$$\\begin{align} f_{1}(\\{0\\})"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 17,
+   "old": "f_{2}(\\{0, 1\\}) &= 1 \\end{align}",
+   "new": "f_{2}(\\{0, 1\\}) &= 1 \\end{align}$$"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 68,
+   "old": "${^{1}\\unicode{x2044}_{2}}$",
+   "new": "½"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 68,
+   "old": "${^{1}\\unicode{x2044}_{3}}$",
+   "new": "⅓"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 93,
+   "old": "\\begin{align} V_0",
+   "new": "$$\\begin{align} V_0"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 93,
+   "old": "V_{\\alpha} \\end{align}",
+   "new": "V_{\\alpha} \\end{align}$$"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 93,
+   "old": "\\sP(V_{\\alpha})",
+   "new": "\\mathcal{P}(V_{\\alpha})"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 97,
+   "old": "\\begin{align} L_0",
+   "new": "$$\\begin{align} L_0"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 97,
+   "old": "L_{\\alpha} \\end{align}",
+   "new": "L_{\\alpha} \\end{align}$$"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 97,
+   "old": "\\Def(L_{\\alpha})",
+   "new": "\\mathrm{Def}(L_{\\alpha})"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 212,
+   "old": "\\begin{align} \\tag{1}",
+   "new": "$$\\begin{align} \\tag{1}"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 212,
+   "old": "x = 1)] \\end{align}",
+   "new": "x = 1)] \\end{align}$$"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 270,
+   "old": "\\begin{align} x \\in U",
+   "new": "$$\\begin{align} x \\in U"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 270,
+   "old": "g(x,0) = g(x,1). \\end{align}",
+   "new": "g(x,0) = g(x,1). \\end{align}$$"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 270,
+   "old": "\\mbox{by (**)}",
+   "new": "\\mbox{由（**）}"
+  },
+  {
+   "file": "a/axiom-choice.md",
+   "line": 270,
+   "old": "\\mbox{using (*)}",
+   "new": "\\mbox{用（*）}"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 185,
+   "old": "\\begin{align} K_1",
+   "new": "$$\\begin{align} K_1"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 185,
+   "old": "\\end{align}",
+   "new": "\\end{align}$$"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 185,
+   "old": "\\mymod(K_1)",
+   "new": "\\textit{mod}(K_1)"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 185,
+   "old": "\\mymod(K_{2})",
+   "new": "\\textit{mod}(K_{2})"
+  },
+  {
+   "file": "b/belief-merging.md",
+   "line": 185,
+   "old": "\\mymod(K_{3})",
+   "new": "\\textit{mod}(K_{3})"
+  },
+  {
+   "file": "i/impossible-worlds.md",
+   "line": 212,
+   "old": "&= 0 \\ v_w (\\Diamond A)",
+   "new": "&= 0 \\\\ v_w (\\Diamond A)"
+  }
+ ]
+}

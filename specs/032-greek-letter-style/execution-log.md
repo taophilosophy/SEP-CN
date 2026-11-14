@@ -31,8 +31,26 @@
 * 阅读站 dev 服务（PID 2612，vitepress dev，端口 81，本仓工作树）三页可达：`/a/axiom-choice`、`/b/belief-merging`、`/l/logic-dynamic` 全 200；dev 模式为 SPA 注水，curl 只见壳，视觉判定在浏览器。
 * 会话环境注记：npm script 在 Windows 不吃 env 前缀；用户裁定**使用 bun、禁止 npm**，`bun run dev` 生效（其自有 shell 支持 env 前缀）；首起撞本会话孤儿进程占 81，复用之。
 
-## 2026-11-15 待办与移交
+## 2026-11-15 验收发现：公式渲染缺陷三族（用户浏览 axiom-choice 页报障）
+
+**定性：三族全为既有缺陷，非 ADR-0049 试金石回归**（涉事行不在 104 处台账；yuanwen 归因明确）。
+
+* **F1 裸 align 无 $$ 包裹**（6 处/2 文件：axiom-choice L17/93/97/212/270、belief-merging L185）：转换层遗留。机制＝markdown 把 `\\` 吃成 `\`（CommonMark 转义）→ MathJax findTeX processEnvironments 抓裸环境 → 排版已损伤＋宏未展开 → 红 raw TeX。用户粘贴中的 `\ V_{\alpha+1}` 即 markdown 损伤后形态，源文件完好。
+* **F2 zh 侧 `\\` 退化**（impossible-worlds L212）：yuanwen `\\` → zh `\ `，翻译期损伤；修回即向基线收敛，零分歧登记。
+* **F3 `\bfrac` 展开 artifact**（axiom-choice L68 ×2）：`${^{1}\unicode{x2044}_{2}}$` 系翻译期展开 SEP 宏 `\bfrac{1}{2}` 的产物，MathJax 排版失败裸显。en 原文用宏（yuanwen 保真保留 `\bfrac{1}{2}`）。
+* 同族顺带：axiom-choice L270 `\mbox{by (**)}`/`\mbox{using (*)}` 英文连接语 → `\mbox{由（**）}`/`\mbox{用（*）}`（C8 家法）。
+* 宏展开取各词条译者行内先例：`\sP`→`\mathcal{P}`（L91 先例）、`\Def`→`\mathrm{Def}`（L95 先例）、`\mymod`→`\textit{mod}`（belief-merging L66 先例）。
+
+**修复**：`bin/fix_render.py`（22 笔，行级预检＋台账 `results/render-ledger.json`＋残余门＋行数守恒审计）全过；`bin/fix_render.py` 残差门与 `script/tmp/s032/bare_env_scan.py` 首版 DD_RE 无转义感知，曾把 impossible-worlds L180 相邻行内公式（`令 $\$$ 是…$\$w$`）假配对成块——已加 `(?<!\\)` 修正，impossible-worlds 裸环境系误报撤案。
+
+**验证**：修复行经 protectMath 全部变哨兵（bun 实测）；check_math_zh 三件 0 问题；check_style HEAD 136 vs 现 136 零新增；check_pairs 与 HEAD 同集。
+
+**F1 排查方法论注记**：check_math_zh math_spans 只认 `$` 定界，裸环境内容完全不进扫描——这是 C1 在 axiom-choice 静默的根因（`\sP` 明明在 needs_expansion）。
+
+## 2026-11-15 待办与移交（渲染缺陷补遗）
 
 * [ ] 用户浏览器验收三件，拍板 ADR-0049 三边界项：①ω′ 撇号变体是否文字化；②α₁ 带下标孤立变量是否文字化；③同段 `*ω*` 与 `$\omega'$` 混排可接受度；兼拍板 φ 字形。
 * [ ] 验收通过：ADR-0049 转 accepted＋rules/02 增补条款；铺开批次立项（试金石外 29 件 497 处）。
 * [ ] check_all 现况：10/11，唯一红项「直角引号总检」全在他会在途日志文件（qian-yan/ri-zhi-yu-bian-ji-gui-hua.md），非本役面。
+* [ ] **\unicode 构件族**（29 处/6 文件，两家族）：x2044 分数家族已修 axiom-choice 2 处；heritability 3、justep-coherence 1、diodorus-cronus 2（形态未核）待同法处置；x214b（⅋ par 符号，logic-linear 18、logic-relevance 3）浏览器实证渲染正常则不动。
+* [ ] **check_math_zh C11（裸数学环境检测）**：告警级，检测 `$$` 外 `\begin{align}` 等——防 F1 类复发（本轮未实现，登记待做）。
