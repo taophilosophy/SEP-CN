@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 3310,
-  "查无": 5602,
-  "不一致": 808,
-  "一致": 1162
+  "未查证": 3193,
+  "查无": 5715,
+  "不一致": 810,
+  "一致": 1164
  },
  "results": [
   {
@@ -152828,7 +152828,7 @@
    "line": 1399,
    "term": "Francis Glisson",
    "trans": "弗朗西斯·格利森",
-   "basis": "医史通行音译（盖伦传统医家）",
+   "basis": "医史通行音译（盖伦传统医家）；籍属/生卒联网查证：GND 规范标目 gnd 117545740（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -152900,7 +152900,7 @@
    "line": 1405,
    "term": "Franco, Eli",
    "trans": "Eli Franco（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文（法称研究）；凭证 2026-11-12 concept-emotion-india r2",
+   "basis": "ADR-0022：无通行汉名者保留英文（法称研究）；凭证 2026-11-12 concept-emotion-india r2；籍属/生卒联网查证：GND 规范标目 gnd 1049702085（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -152936,7 +152936,7 @@
    "line": 1408,
    "term": "Frankish, Keith",
    "trans": "基思·弗兰基什",
-   "basis": "学界惯例（心灵哲学文献通译）；凭证 2026-11-10",
+   "basis": "学界惯例（心灵哲学文献通译）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1033225649（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -152948,7 +152948,7 @@
    "line": 1409,
    "term": "Franklin, Rosalind",
    "trans": "罗莎琳德·富兰克林",
-   "basis": "DNA X 射线晶体学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
+   "basis": "DNA X 射线晶体学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 12408544X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -152984,7 +152984,7 @@
    "line": 1412,
    "term": "Franzen, Nils",
    "trans": "尼尔斯·弗兰岑",
-   "basis": "音译（感性论）；凭证 2026-11-12",
+   "basis": "音译（感性论）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 119082497（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -153044,7 +153044,7 @@
    "line": 1417,
    "term": "Frederick Douglass",
    "trans": "弗雷德里克·道格拉斯",
-   "basis": "SUMMARY 定名沿用（frederick-douglass 词条既名）",
+   "basis": "SUMMARY 定名沿用（frederick-douglass 词条既名）；籍属/生卒联网查证：GND 规范标目 gnd 118527096（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -153056,7 +153056,7 @@
    "line": 1418,
    "term": "Freeman, Walter J.",
    "trans": "沃尔特·弗里曼",
-   "basis": "神经科学通行汉译（神经动力学）",
+   "basis": "神经科学通行汉译（神经动力学）；籍属/生卒联网查证：GND 规范标目 gnd 121529606（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -153068,30 +153068,36 @@
    "line": 1419,
    "term": "Frega, Roberto",
    "trans": "罗伯托·弗雷加",
-   "basis": "学界惯例（杜威研究/职场民主，通行音译）",
-   "status": "未查证",
+   "basis": "学界惯例（杜威研究/职场民主，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 1193051371（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1420,
    "term": "Frege, Gottlob / Gottlob Frege",
    "trans": "弗雷格（Frege）",
-   "basis": "本库正文多数条目（38 篇）用“弗雷格”汉名，书目区保留 Frege 原形；2026-11-11 复核改定；2026-11-13 重复行合并（旧键 `Gottlob Frege`）",
-   "status": "未查证",
+   "basis": "本库正文多数条目（38 篇）用“弗雷格”汉名，书目区保留 Frege 原形；2026-11-11 复核改定；2026-11-13 重复行合并（旧键 `Gottlob Frege`）；籍属/生卒联网查证：GND 规范标目 gnd 118535161（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1421,
    "term": "Freind, John",
    "trans": "约翰·弗赖因德",
-   "basis": "学界惯例（牛顿派化学家/医师，通行音译）",
-   "status": "未查证",
+   "basis": "学界惯例（牛顿派化学家/医师，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 10083034X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153099,9 +153105,11 @@
    "term": "Freire, Paulo",
    "trans": "保罗·弗莱雷",
    "basis": "学界通行汉译（《被压迫者教育学》中译者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153109,9 +153117,11 @@
    "term": "French, Rohan",
    "trans": "Rohan French",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153119,9 +153129,11 @@
    "term": "French, Sally",
    "trans": "萨莉·弗伦奇",
    "basis": "学界惯例音译（与 John Swain 合提残疾肯定性模型）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153129,9 +153141,11 @@
    "term": "Freud",
    "trans": "弗洛伊德",
    "basis": "学界通行汉译（精神分析）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153139,9 +153153,11 @@
    "term": "Freudenthal, Hans",
    "trans": "汉斯·弗赖登塔尔",
    "basis": "数学与数学教育界通行汉译（拓扑学家、数学教育家）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153149,9 +153165,11 @@
    "term": "Freyer, Hans",
    "trans": "汉斯·弗赖尔",
    "basis": "学界通行汉译（《客观精神理论》作者，卡尔纳普曾读）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153159,9 +153177,11 @@
    "term": "Fricker, Elizabeth",
    "trans": "伊丽莎白·弗里克",
    "basis": "学界通行音译（证言认识论文献）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153169,9 +153189,11 @@
    "term": "Friedländer, Paul",
    "trans": "保罗·弗里德兰德",
    "basis": "古典语文学通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153179,9 +153201,11 @@
    "term": "Friedman, Harvey",
    "trans": "Harvey Friedman",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153189,9 +153213,11 @@
    "term": "Friedman, Michael",
    "trans": "迈克尔·弗里德曼",
    "basis": "学界通行（科学哲学家，统一论解释；勿混经济学家 Milton Friedman）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153199,9 +153225,18 @@
    "term": "Friedman, Milton",
    "trans": "米尔顿·弗里德曼",
    "basis": "学界通行汉译（经济学家）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "米尔顿·弗里德曼",
+     "en": "Milton Friedman（1912—2006）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153209,9 +153244,11 @@
    "term": "Friedmann, Alexander",
    "trans": "亚历山大·弗里德曼",
    "basis": "学界通行音译（弗里德曼宇宙模型）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153219,19 +153256,23 @@
    "term": "Friedrich Albert Lange",
    "trans": "弗里德里希·阿尔贝特·朗格",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1435,
    "term": "Friedrich Bachmann",
    "trans": "保留英文（无通行汉名）",
-   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 117534706（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153239,9 +153280,11 @@
    "term": "Friedrich Ebert",
    "trans": "弗里德里希·艾伯特",
    "basis": "学界通行汉译（魏玛首任总统）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153249,9 +153292,11 @@
    "term": "Friedrich Engels",
    "trans": "弗里德里希·恩格斯",
    "basis": "学界通行汉译；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153259,9 +153304,11 @@
    "term": "Friedrich II",
    "trans": "弗里德里希二世",
    "basis": "学界通行汉译（腓特烈大帝；正文依原文行文作弗里德里希二世）；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153269,29 +153316,35 @@
    "term": "Friedrich III (later king Friedrich I)",
    "trans": "弗里德里希三世（后为普鲁士国王弗里德里希一世）",
    "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1440,
    "term": "Friedrich Karl Forberg",
    "trans": "弗里德里希·卡尔·福尔贝格",
-   "basis": "音译（德国观念论同代人）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "音译（德国观念论同代人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119059479（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1441,
    "term": "Friedrich Paulsen",
    "trans": "弗里德里希·保尔森",
-   "basis": "学界通行汉译（新观念论哲学家）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（新观念论哲学家）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118739603（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153299,16 +153352,18 @@
    "term": "Friedrich Pollock",
    "trans": "弗里德里希·波洛克",
    "basis": "学界通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1443,
    "term": "Friedrich Waismann",
    "trans": "弗里德里希·魏斯曼",
-   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 12886530X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -153320,10 +153375,12 @@
    "line": 1444,
    "term": "Friedrich Wilhelm I",
    "trans": "弗里德里希·威廉一世",
-   "basis": "学界通行汉译（普鲁士国王）；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "basis": "学界通行汉译（普鲁士国王）；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 118535978（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153331,9 +153388,11 @@
    "term": "Friedrich Wilhelm Stosch",
    "trans": "弗里德里希·威廉·施托施",
    "basis": "学界通行汉译（激进哲学传统）；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153341,9 +153400,11 @@
    "term": "Friend, Stacie",
    "trans": "斯泰西·弗兰德",
    "basis": "音译（虚构哲学）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153351,9 +153412,11 @@
    "term": "Fries, Jakob Friedrich",
    "trans": "雅各布·弗里德里希·弗里斯",
    "basis": "学界通行音译（新康德主义前史人物）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153361,9 +153424,11 @@
    "term": "Fritsche, Franz",
    "trans": "Fritsche",
    "basis": "—",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153371,9 +153436,11 @@
    "term": "Froben, Hieronymus",
    "trans": "希罗尼穆斯·弗罗本",
    "basis": "学界惯例（巴塞尔出版家通译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153381,9 +153448,11 @@
    "term": "Froben, Johann",
    "trans": "约翰·弗罗本",
    "basis": "学界惯例（巴塞尔出版家通译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153391,9 +153460,11 @@
    "term": "Froude, James Anthony",
    "trans": "詹姆斯·安东尼·弗劳德",
    "basis": "音译（历史学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153401,19 +153472,23 @@
    "term": "Fuchs, Thomas",
    "trans": "Thomas Fuchs（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（KJG 编者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1453,
    "term": "Fuhrmann, André",
    "trans": "André Fuhrmann",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 112774172（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153421,39 +153496,47 @@
    "term": "Fukuba Bisei",
    "trans": "福羽美静",
    "basis": "日本人名汉字原样；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1455,
    "term": "Fukuyama, Francis",
    "trans": "弗朗西斯·福山",
-   "basis": "学界通行汉译（《历史的终结与最后的人》中译本）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（《历史的终结与最后的人》中译本）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119203685（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1456,
    "term": "Fumerton, Richard",
    "trans": "理查德·富默顿",
-   "basis": "学界通行音译（《元认识论与怀疑论》）；凭证 2026-11-08",
-   "status": "未查证",
+   "basis": "学界通行音译（《元认识论与怀疑论》）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 138605610（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1457,
    "term": "Fung Yu-lan",
    "trans": "冯友兰",
-   "basis": "学界通行（《中国哲学史》作者；字芝生）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行（《中国哲学史》作者；字芝生）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118925385（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153471,29 +153554,35 @@
    "term": "Furlanus, Daniel",
    "trans": "丹尼尔·富尔拉努斯",
    "basis": "本词条首译（职业医生，撰自然哲学）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1460,
    "term": "Furley, David",
    "trans": "弗利",
-   "basis": "学界通行（希腊原子论研究名家；亦作“弗尔利”）",
-   "status": "未查证",
+   "basis": "学界通行（希腊原子论研究名家；亦作“弗尔利”）；籍属/生卒联网查证：GND 规范标目 gnd 138978131（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1461,
    "term": "Furth, Charlotte",
    "trans": "费侠莉",
-   "basis": "学界通行（汉名费侠莉，中国医学性别史）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行（汉名费侠莉，中国医学性别史）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 143707469（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153510,20 +153599,24 @@
    "line": 1468,
    "term": "G. A. Cohen",
    "trans": "G. A. 科恩",
-   "basis": "学界惯例（分析马克思主义政治哲学通行译法）",
-   "status": "未查证",
+   "basis": "学界惯例（分析马克思主义政治哲学通行译法）；籍属/生卒联网查证：GND 规范标目 gnd 119114887（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1469,
    "term": "Gabbay, Dov",
    "trans": "Gabbay",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 124196314（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153531,9 +153624,11 @@
    "term": "Gadādhara",
    "trans": "迦达陀罗",
    "basis": "梵音自拟（新正理“言诠”理论集大成者；书名昵称源）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153541,9 +153636,11 @@
    "term": "Gadamer, Hans-Georg / Hans-Georg Gadamer",
    "trans": "汉斯-格奥尔格·伽达默尔",
    "basis": "学界千年通行汉译（《真理与方法》作者）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Hans-Georg Gadamer`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153551,9 +153648,11 @@
    "term": "Gage, Phineas",
    "trans": "菲尼亚斯·盖奇",
    "basis": "学界通行（神经科学经典案例人物，“盖奇效应”得名者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153561,9 +153660,11 @@
    "term": "Gale, David",
    "trans": "戴维·盖尔",
    "basis": "学界通行汉译（稳定匹配与 Gale-Shapley 算法）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153571,9 +153672,11 @@
    "term": "Gale, George",
    "trans": "乔治·盖尔",
    "basis": "学界惯例音译（本词条作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153581,9 +153684,11 @@
    "term": "Gale, Richard",
    "trans": "理查德·盖尔",
    "basis": "学界通行音译（知识论/宗教哲学；与 George Gale 异人）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153591,9 +153696,11 @@
    "term": "Galeano, Moses",
    "trans": "摩西·加莱亚诺",
    "basis": "音译定名（犹太旅人学者，科学中介说人物）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153634,29 +153741,35 @@
    "term": "Galgut, Elisa",
    "trans": "加尔古特",
    "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1479,
    "term": "Galileo Galilei",
    "trans": "伽利略",
-   "basis": "学界通行汉译",
-   "status": "未查证",
+   "basis": "学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118537229（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1480,
    "term": "Gallagher, Shaun",
    "trans": "肖恩·加拉格尔",
-   "basis": "学界通行汉译（具身认知研究者）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（具身认知研究者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 135607523（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153664,9 +153777,11 @@
    "term": "Gallegos, Francisco",
    "trans": "弗朗西斯科·加列戈斯",
    "basis": "音译（zozobra 现象学研究者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153674,9 +153789,11 @@
    "term": "Gallegos-Ordorica, Sergio",
    "trans": "塞尔吉奥·加列戈斯-奥尔多里卡",
    "basis": "音译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153684,19 +153801,23 @@
    "term": "Gallie, W. B.",
    "trans": "W. B. 加利",
    "basis": "音译（“本质可争议概念”提出者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1484,
    "term": "Galton, Francis",
    "trans": "高尔顿",
-   "basis": "学界通行汉译；凭据 2026-11-02",
-   "status": "未查证",
+   "basis": "学界通行汉译；凭据 2026-11-02；籍属/生卒联网查证：GND 规范标目 gnd 118702610（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153704,9 +153825,11 @@
    "term": "Gandhi",
    "trans": "甘地",
    "basis": "学界通行汉译（印度政治领袖）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153714,9 +153837,11 @@
    "term": "Gandy, Robin",
    "trans": "罗宾·甘迪",
    "basis": "学界通行音译（图灵弟子，数理逻辑学家）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153724,9 +153849,11 @@
    "term": "Gaṅgeśa",
    "trans": "甘格沙",
    "basis": "梵音自拟（《真理思择摩尼》作者，新正理开祖）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153734,9 +153861,11 @@
    "term": "Gaos, José",
    "trans": "何塞·高斯",
    "basis": "学界通行汉译（西班牙流亡哲学家，墨西哥存在主义引介者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153744,9 +153873,11 @@
    "term": "Gaozu (Han)",
    "trans": "汉高祖",
    "basis": "汉开国皇帝刘邦庙号（上游作 Gaozu）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153754,9 +153885,11 @@
    "term": "Garber, Daniel",
    "trans": "丹尼尔·加伯",
    "basis": "学界通行（早期近代哲学名家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153764,9 +153897,11 @@
    "term": "García Bacca, Juan David",
    "trans": "胡安·大卫·加西亚·巴卡",
    "basis": "音译（西班牙流亡哲学家）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153774,56 +153909,66 @@
    "term": "García-Ramírez, Eduardo",
    "trans": "爱德华多·加西亚-拉米雷斯",
    "basis": "音译（本词条作者，语言哲学）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1493,
    "term": "Gärdenfors, Peter",
    "trans": "彼得·加登福斯",
-   "basis": "学界通行汉译（认知科学与概念空间）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（认知科学与概念空间）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 139155805（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1494,
    "term": "Gardner, Howard",
    "trans": "霍华德·加德纳",
-   "basis": "学界通行汉译（多元智能理论）；凭证 2026-11-08",
-   "status": "未查证",
+   "basis": "学界通行汉译（多元智能理论）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 119558408（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1495,
    "term": "Gargov, George",
    "trans": "George Gargov",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1056115688（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1496,
    "term": "Garson, James",
    "trans": "Garson",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 139263128（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1497,
    "term": "Gary Watson",
    "trans": "加里·沃森",
-   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 172443660（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -153836,9 +153981,11 @@
    "term": "Gaspardo, Murilo",
    "trans": "穆里洛·加斯帕多",
    "basis": "音译（全球金融治理研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153846,9 +153993,11 @@
    "term": "Gassendi",
    "trans": "伽桑狄",
    "basis": "学界通行汉译（皮埃尔·伽桑狄，古典近代通行）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153856,9 +154005,11 @@
    "term": "Gasser, Achilles Pirmin",
    "trans": "阿喀琉斯·皮尔明·加瑟",
    "basis": "学界通行音译（人文主义学者，《初论》1541 巴塞尔版序言作者）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153866,9 +154017,11 @@
    "term": "Gasser, Georg",
    "trans": "Georg Gasser（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153876,19 +154029,23 @@
    "term": "Gatti, Giovanni",
    "trans": "乔瓦尼·加蒂",
    "basis": "本词条首译（15 世纪多明我会神学家，源文 d. ante 1484；无通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1503,
    "term": "Gaukroger, Stephen",
    "trans": "高克罗格",
-   "basis": "学界通行（《笛卡尔智识传记》作者）",
-   "status": "未查证",
+   "basis": "学界通行（《笛卡尔智识传记》作者）；籍属/生卒联网查证：GND 规范标目 gnd 172093090（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153896,9 +154053,11 @@
    "term": "Gaunilo",
    "trans": "高尼罗",
    "basis": "学界通行（马尔穆捷修士，安瑟伦同时代批评者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153906,9 +154065,11 @@
    "term": "Gaurus",
    "trans": "高鲁斯",
    "basis": "音译（波菲利《致高鲁斯》受函人；学界对其身份无定论）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153916,19 +154077,23 @@
    "term": "Gaus, Gerald F. / Gerald Gaus",
    "trans": "杰拉尔德·高斯",
    "basis": "学界通行音译（《证成性自由主义》作者）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Gerald Gaus`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1507,
    "term": "Gauss, Carl Friedrich",
    "trans": "卡尔·弗里德里希·高斯",
-   "basis": "数学家，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "basis": "数学家，学界千年通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 104234644（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153936,19 +154101,23 @@
    "term": "Gautama（正理）",
    "trans": "乔答摩（正理）",
    "basis": "梵音自拟（《逻辑经》作者；与悉达多·乔达摩、因陀罗菩提·乔答摩分立）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1509,
    "term": "Gauthier, David",
    "trans": "戴维·戈蒂耶",
-   "basis": "学界通行汉译（《作为契约的道德》作者）",
-   "status": "未查证",
+   "basis": "学界通行汉译（《作为契约的道德》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118980173（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153956,9 +154125,11 @@
    "term": "Gay, Peter",
    "trans": "彼得·盖伊",
    "basis": "思想史家（《启蒙运动：一种解释》作者），学界通行汉译；凭证 2026-11-12 r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153966,9 +154137,11 @@
    "term": "Gaza, Theodore",
    "trans": "西奥多·加扎",
    "basis": "本词条首译（拜占庭人文主义者，源文 d. 1476；学界通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153976,9 +154149,11 @@
    "term": "Gbadegesin, Segun",
    "trans": "塞贡·格巴德格辛",
    "basis": "学界通行音译（约鲁巴伦理）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153986,9 +154161,18 @@
    "term": "Ge Hong",
    "trans": "葛洪",
    "basis": "学界千年通行（东晋道教医家、炼丹家，《抱朴子》作者）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "葛洪",
+     "en": "Ge Hong",
+     "source": "中医药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -153996,9 +154180,11 @@
    "term": "Geach, Peter",
    "trans": "彼得·吉奇",
    "basis": "学界通行音译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154006,19 +154192,23 @@
    "term": "Gedündrup",
    "trans": "根敦珠巴",
    "basis": "佛学界通行（dGe 'dun grub，一世达赖）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1516,
    "term": "Geertz, Clifford",
    "trans": "克利福德·格尔茨",
-   "basis": "美国人类学家（“深描”；学界惯用“格尔茨”）；凭证 2026-11-08",
-   "status": "未查证",
+   "basis": "美国人类学家（“深描”；学界惯用“格尔茨”）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118965182（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154026,19 +154216,23 @@
    "term": "Gehlot, Vijay",
    "trans": "Vijay Gehlot",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1518,
    "term": "Gehrke, Mai",
    "trans": "Gehrke",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1336577312（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154046,9 +154240,11 @@
    "term": "Geiger, Moritz",
    "trans": "莫里茨·盖格",
    "basis": "学界通行汉译（现象学与美学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154056,9 +154252,11 @@
    "term": "Geis, Michael L.",
    "trans": "Michael Geis（现代学者，保留英文）",
    "basis": "ADR-0012 体例：现代学者保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154066,9 +154264,11 @@
    "term": "Gelernter, David",
    "trans": "大卫·盖伦特",
    "basis": "学界通行音译（计算机科学）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154076,19 +154276,23 @@
    "term": "Geller, Jay Howard",
    "trans": "杰伊·霍华德·盖勒",
    "basis": "构词直译（朔勒姆家族史作者）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1523,
    "term": "Gellman, Jerome",
    "trans": "杰罗姆·格尔曼",
-   "basis": "学界通行音译（宗教经验与“无神之感”）；凭证 2026-11-10",
-   "status": "未查证",
+   "basis": "学界通行音译（宗教经验与“无神之感”）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 103702852X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154096,9 +154300,11 @@
    "term": "Gelman, Rochel",
    "trans": "罗谢尔·格尔曼",
    "basis": "音译（儿童认知）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154106,19 +154312,23 @@
    "term": "Gelman, Susan",
    "trans": "苏珊·格尔曼",
    "basis": "音译（概念发展）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1526,
    "term": "Gemistos Plethon",
    "trans": "格弥斯托斯·普莱东",
-   "basis": "学界通行汉译（15 世纪新柏拉图主义者）；凭证 2026-11-06",
-   "status": "未查证",
+   "basis": "学界通行汉译（15 世纪新柏拉图主义者）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118595040（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154126,9 +154336,11 @@
    "term": "Gendler, Tamar Szabó",
    "trans": "塔玛·萨博·根德勒",
    "basis": "音译（想象阻力首倡）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154136,19 +154348,23 @@
    "term": "Gentile, Giovanni",
    "trans": "乔瓦尼·金蒂雷",
    "basis": "意大利新唯心主义哲学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1529,
    "term": "Gentili, Alberico",
    "trans": "阿尔贝里科·金蒂利",
-   "basis": "学界通行汉译（近代国际法奠基人通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（近代国际法奠基人通行）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118902970（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154156,9 +154372,11 @@
    "term": "Gentz, Friedrich",
    "trans": "弗里德里希·根茨",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154166,9 +154384,11 @@
    "term": "Gentzen, Gerhard",
    "trans": "Gentzen",
    "basis": "本库惯例保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154176,19 +154396,23 @@
    "term": "Genua, Marcantonio",
    "trans": "马尔坎托尼奥·真纳",
    "basis": "学界通行音译（帕多瓦自然哲学与形而上学教师）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1533,
    "term": "Geoffroy Saint-Hilaire, Étienne",
    "trans": "艾蒂安·若弗鲁瓦·圣伊莱尔",
-   "basis": "学界通行汉译（法国转型论者）；凭证 2026-11-07",
-   "status": "未查证",
+   "basis": "学界通行汉译（法国转型论者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118690426（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154196,9 +154420,11 @@
    "term": "Georg Bernhard Bilfinger",
    "trans": "格奥尔格·贝恩哈德·比尔芬格",
    "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154206,9 +154432,11 @@
    "term": "Georg Ernst Stahl",
    "trans": "格奥尔格·恩斯特·施塔尔",
    "basis": "化学史通行汉译（燃素说提出者；与 locke-on-medicine 登记的 Peter Stahl“彼得·施塔尔”为不同人，键以全名区分）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154216,16 +154444,18 @@
    "term": "Georg Forster",
    "trans": "格奥尔格·福斯特",
    "basis": "学界通行汉译（博物学家与革命者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1537,
    "term": "Georg Gadamer",
    "trans": "格奥尔格·伽达默尔",
-   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118537032（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -154238,46 +154468,61 @@
    "term": "Georg Simmel",
    "trans": "格奥尔格·齐美尔",
    "basis": "学界通行汉译（社会学家、生命哲学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1539,
    "term": "Georg Volckmar Hartmann",
    "trans": "格奥尔格·福尔克马尔·哈特曼",
-   "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "basis": "学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05；籍属/生卒联网查证：GND 规范标目 gnd 1026633745（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1540,
    "term": "Georg Wilhelm Friedrich Hegel",
    "trans": "格奥尔格·威廉·弗里德里希·黑格尔（通称“黑格尔”）",
-   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 118547739（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "青年黑格尔派",
+     "en": "Georg Wilhelm Friedrich Hegel bibliography",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1541,
    "term": "George Boole",
    "trans": "乔治·布尔",
-   "basis": "学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "basis": "学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118661655（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1542,
    "term": "George Boolos",
    "trans": "乔治·布洛斯",
-   "basis": "学界惯例（逻辑学家/集合论哲学）；凭证 2026-11-01",
+   "basis": "学界惯例（逻辑学家/集合论哲学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 171984196（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -154290,9 +154535,18 @@
    "term": "George III",
    "trans": "乔治三世",
    "basis": "学界通行汉译；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "RNA聚合酶III",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154300,9 +154554,11 @@
    "term": "George of Trebizond",
    "trans": "特拉比松的乔治",
    "basis": "学界通行汉译（拜占庭流亡人文主义者、修辞学家）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154310,9 +154566,11 @@
    "term": "George Turnbull",
    "trans": "乔治·特恩布尔",
    "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -154332,26 +154590,30 @@
    "term": "George, Benjamin Ross",
    "trans": "George, Benjamin Ross",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1548,
    "term": "Gerald Feinberg",
    "trans": "保留英文（无通行汉名）",
-   "basis": "ADR-0022：无通行汉名者保留英文",
-   "status": "未查证",
+   "basis": "ADR-0022：无通行汉名者保留英文；籍属/生卒联网查证：GND 规范标目 gnd 128149531（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
    "line": 1549,
    "term": "Geraldus Odonis",
    "trans": "杰拉德·奥多尼斯",
-   "basis": "中世纪哲学通行汉译（方济各会总会长，亦作 Gerardus Odonis）；凭证 2026-11-08",
+   "basis": "中世纪哲学通行汉译（方济各会总会长，亦作 Gerardus Odonis）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 102472890（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154391,7 +154653,7 @@
    "line": 1553,
    "term": "Gergonne, Joseph Diaz",
    "trans": "约瑟夫·迪亚兹·热尔岗",
-   "basis": "对偶原理提出者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
+   "basis": "对偶原理提出者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 119526611（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154441,7 +154703,7 @@
    "line": 1558,
    "term": "Gerson, Jean",
    "trans": "让·热尔松",
-   "basis": "中世纪晚期研究通行汉译（巴黎校长）；审定库无相关命中（凭证 2026-11-06）",
+   "basis": "中世纪晚期研究通行汉译（巴黎校长）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118557866（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154461,7 +154723,7 @@
    "line": 1560,
    "term": "Gertrud Kantorowicz",
    "trans": "格特鲁德·康托洛维茨",
-   "basis": "学界通行汉译（艺术史家、格奥尔格圈成员）；待 specs/008 审定库复核",
+   "basis": "学界通行汉译（艺术史家、格奥尔格圈成员）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 119368153（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154471,7 +154733,7 @@
    "line": 1561,
    "term": "Gettier, Edmund / Edmund Gettier",
    "trans": "埃德蒙·盖梯尔",
-   "basis": "学界通行音译（盖梯尔问题）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Edmund Gettier`）",
+   "basis": "学界通行音译（盖梯尔问题）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Edmund Gettier`）；籍属/生卒联网查证：GND 规范标目 gnd 129098868（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154481,7 +154743,7 @@
    "line": 1562,
    "term": "Geulincx, Arnold",
    "trans": "阿诺德·赫林克斯",
-   "basis": "学界惯例（1624–69）；凭证 2026-11-07",
+   "basis": "学界惯例（1624–69）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118717162（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154521,7 +154783,7 @@
    "line": 1566,
    "term": "Ghiselin, Michael",
    "trans": "Michael Ghiselin（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07",
+   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 171553640（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154551,7 +154813,7 @@
    "line": 1569,
    "term": "Gibieuf, Guillaume",
    "trans": "纪尧姆·吉比厄夫",
-   "basis": "学界惯例（笛卡尔通信者/神学家，通行音译）",
+   "basis": "学界惯例（笛卡尔通信者/神学家，通行音译）；籍属/生卒联网查证：GND 规范标目 gnd 130514500（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154561,7 +154823,7 @@
    "line": 1570,
    "term": "Gibson, James J.",
    "trans": "詹姆斯·吉布森",
-   "basis": "学界通行汉译（生态光学创始人）；凭证 2026-11-07",
+   "basis": "学界通行汉译（生态光学创始人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 11886551X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154591,7 +154853,7 @@
    "line": 1573,
    "term": "Gilbertus Porretanus",
    "trans": "吉尔伯特·波雷塔努斯",
-   "basis": "学界惯例（12 世纪神学家）",
+   "basis": "学界惯例（12 世纪神学家）；籍属/生卒联网查证：GND 规范标目 gnd 11869488X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154661,7 +154923,7 @@
    "line": 1580,
    "term": "Gilson, Étienne",
    "trans": "艾蒂安·吉尔松",
-   "basis": "学界通行汉译（中世纪哲学史家）；凭证 2026-11-08",
+   "basis": "学界通行汉译（中世纪哲学史家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118717480（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154691,7 +154953,7 @@
    "line": 1583,
    "term": "Ginsberg, Matthew",
    "trans": "Matthew Ginsberg（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文（极大一致子集处理不一致理论思想提出者）；凭证 2026-11-13",
+   "basis": "ADR-0022：无通行汉名者保留英文（极大一致子集处理不一致理论思想提出者）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 172098211（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154701,7 +154963,7 @@
    "line": 1584,
    "term": "Girard, Jean-Yves",
    "trans": "Jean-Yves Girard",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 172098351（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154711,7 +154973,7 @@
    "line": 1585,
    "term": "Gisbert Hasenjaeger",
    "trans": "保留英文（无通行汉名）",
-   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07",
+   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 1022914154（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154721,7 +154983,7 @@
    "line": 1586,
    "term": "Giuseppe Peano",
    "trans": "朱塞佩·皮亚诺",
-   "basis": "审定“皮亚诺”译名系（数学）；凭证 2026-11-01",
+   "basis": "审定“皮亚诺”译名系（数学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 11873976X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -154853,7 +155115,7 @@
    "line": 1599,
    "term": "Goguen, Joseph",
    "trans": "Joseph Goguen",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 172100275（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154863,7 +155125,7 @@
    "line": 1600,
    "term": "Goldblatt, Robert",
    "trans": "Robert Goldblatt",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1025661435（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154943,7 +155205,7 @@
    "line": 1608,
    "term": "Gombrich, E. H.",
    "trans": "恩斯特·贡布里希",
-   "basis": "英籍奥地利艺术史家（学界惯用“贡布里希”，正文以姓行文）；凭证 2026-11-08",
+   "basis": "英籍奥地利艺术史家（学界惯用“贡布里希”，正文以姓行文）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118540637（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -154963,7 +155225,7 @@
    "line": 1610,
    "term": "Gómez Pereira",
    "trans": "戈麦斯·佩雷拉",
-   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 120606410（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -155005,7 +155267,7 @@
    "line": 1614,
    "term": "Goodin, Robert",
    "trans": "Robert E. Goodin",
-   "basis": "现代学者无通行汉名，保留英文（ADR-0021）",
+   "basis": "现代学者无通行汉名，保留英文（ADR-0021）；籍属/生卒联网查证：GND 规范标目 gnd 123928958（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155015,7 +155277,7 @@
    "line": 1615,
    "term": "Goodman, Nelson",
    "trans": "纳尔逊·古德曼",
-   "basis": "学界通行汉译（分析美学）；凭证 2026-11-08",
+   "basis": "学界通行汉译（分析美学）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118696432（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155065,7 +155327,7 @@
    "line": 1620,
    "term": "Gorampa Sonam Senge / Gorampa Sönam Senggé",
    "trans": "果让巴·索南僧格",
-   "basis": "藏传中观研究通行音译（go rams pa bsod nams seng ge，1429–89）；2026-11-13 重复行合并（旧键 `Gorampa Sönam Senggé`）",
+   "basis": "藏传中观研究通行音译（go rams pa bsod nams seng ge，1429–89）；2026-11-13 重复行合并（旧键 `Gorampa Sönam Senggé`）；籍属/生卒联网查证：GND 规范标目 gnd 123480558（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155137,7 +155399,7 @@
    "line": 1627,
    "term": "Gouhier, Henri",
    "trans": "亨利·古耶",
-   "basis": "柏格森研究学者；学界通行音译",
+   "basis": "柏格森研究学者；学界通行音译；籍属/生卒联网查证：GND 规范标目 gnd 119211513（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155147,7 +155409,7 @@
    "line": 1628,
    "term": "Gould, Stephen Jay",
    "trans": "斯蒂芬·杰伊·古尔德",
-   "basis": "学界通行汉译；凭证 2026-11-07",
+   "basis": "学界通行汉译；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 121391876（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155177,7 +155439,7 @@
    "line": 1631,
    "term": "Gracyk, Theodore",
    "trans": "格拉西克",
-   "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08",
+   "basis": "学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 137275374（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155207,7 +155469,7 @@
    "line": 1634,
    "term": "Graham Parkes",
    "trans": "Graham Parkes",
-   "basis": "现代学者无通行汉名，保留英文",
+   "basis": "现代学者无通行汉名，保留英文；籍属/生卒联网查证：GND 规范标目 gnd 172301734（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155277,7 +155539,7 @@
    "line": 1641,
    "term": "Graves, Morris",
    "trans": "莫里斯·格雷夫斯",
-   "basis": "美国画家（以鸟类题材著称；音译）；凭证 2026-11-08",
+   "basis": "美国画家（以鸟类题材著称；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 119261324（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155287,7 +155549,7 @@
    "line": 1642,
    "term": "Gravesande, Willem",
    "trans": "威廉·格拉夫桑德",
-   "basis": "学界惯例（《自然哲学的数学要素》作者；通行音译）；凭证 2026-11-09",
+   "basis": "学界惯例（《自然哲学的数学要素》作者；通行音译）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118939297（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155297,7 +155559,7 @@
    "line": 1643,
    "term": "Gray, Asa",
    "trans": "阿萨·格雷",
-   "basis": "学界惯例（哈佛植物学家）；凭证 2026-11-07",
+   "basis": "学界惯例（哈佛植物学家）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 116827688（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155307,7 +155569,7 @@
    "line": 1644,
    "term": "Greeley, Horace",
    "trans": "霍勒斯·格里利",
-   "basis": "学界通行汉译（《纽约论坛报》创办人）；凭证 2026-11-11",
+   "basis": "学界通行汉译（《纽约论坛报》创办人）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118697331（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155327,7 +155589,7 @@
    "line": 1646,
    "term": "Green, Romuald",
    "trans": "Romuald Green（现代学者，保留英文）",
-   "basis": "ADR-0022（义务理论论文编者）",
+   "basis": "ADR-0022（义务理论论文编者）；籍属/生卒联网查证：GND 规范标目 gnd 1153090449（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155337,7 +155599,7 @@
    "line": 1647,
    "term": "Green, T.H.",
    "trans": "T.H.格林",
-   "basis": "学界通行（英国观念论者，字母保留体例）",
+   "basis": "学界通行（英国观念论者，字母保留体例）；籍属/生卒联网查证：GND 规范标目 gnd 118718592（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155357,7 +155619,7 @@
    "line": 1649,
    "term": "Greenberg, Clement",
    "trans": "克莱门特·格林伯格",
-   "basis": "学界通行汉译（艺术批评）；凭证 2026-11-08",
+   "basis": "学界通行汉译（艺术批评）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118718606（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155387,7 +155649,7 @@
    "line": 1652,
    "term": "Gregory of Nyssa",
    "trans": "尼撒的格列高利",
-   "basis": "教父学通行汉译（卡帕多西亚教父）",
+   "basis": "教父学通行汉译（卡帕多西亚教父）；籍属/生卒联网查证：GND 规范标目 gnd 118541919（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155417,7 +155679,7 @@
    "line": 1655,
    "term": "Gregory, Alex",
    "trans": "Alex Gregory（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文（能力缺失理论）；凭证 2026-11-09",
+   "basis": "ADR-0022：无通行汉名者保留英文（能力缺失理论）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1147673497（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155467,7 +155729,7 @@
    "line": 1660,
    "term": "Grene, Marjorie",
    "trans": "Marjorie Grene（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07",
+   "basis": "ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119284383（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155527,7 +155789,7 @@
    "line": 1666,
    "term": "Grimaldi, Francesco Maria",
    "trans": "弗朗切斯科·马里亚·格里马尔迪",
-   "basis": "科学史通行汉译（衍射发现者）；凭证 2026-11-08",
+   "basis": "科学史通行汉译（衍射发现者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 123408571（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155537,7 +155799,7 @@
    "line": 1667,
    "term": "Grimani, Domenico",
    "trans": "多梅尼科·格里马尼",
-   "basis": "音译（15 世纪威尼斯枢机，意人名通例）",
+   "basis": "音译（15 世纪威尼斯枢机，意人名通例）；籍属/生卒联网查证：GND 规范标目 gnd 121125785（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155577,7 +155839,7 @@
    "line": 1671,
    "term": "Grocyn, William",
    "trans": "威廉·格罗辛",
-   "basis": "学界惯例（英国人文主义研究通行汉译）",
+   "basis": "学界惯例（英国人文主义研究通行汉译）；籍属/生卒联网查证：GND 规范标目 gnd 129023191（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155587,7 +155849,7 @@
    "line": 1672,
    "term": "Groenendijk, Jeroen",
    "trans": "Groenendijk, Jeroen",
-   "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
+   "basis": "无通行汉名，保留英文原名；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 124543383（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155597,7 +155859,7 @@
    "line": 1673,
    "term": "Grofman, Bernard",
    "trans": "Bernard Grofman",
-   "basis": "现代学者无通行汉名，保留英文（ADR-0021）",
+   "basis": "现代学者无通行汉名，保留英文（ADR-0021）；籍属/生卒联网查证：GND 规范标目 gnd 137816251（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155607,7 +155869,7 @@
    "line": 1674,
    "term": "Grosseteste, Robert",
    "trans": "罗伯特·格罗斯泰斯特",
-   "basis": "学界通行汉译（SUMMARY 定名沿用，g/grosseteste.md）；凭证 2026-11-08",
+   "basis": "学界通行汉译（SUMMARY 定名沿用，g/grosseteste.md）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 11869815X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155617,7 +155879,7 @@
    "line": 1675,
    "term": "Grosz, George",
    "trans": "格奥尔格·格罗斯",
-   "basis": "学界通行（德国表现主义画家）",
+   "basis": "学界通行（德国表现主义画家）；籍属/生卒联网查证：GND 规范标目 gnd 118542672（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155647,7 +155909,7 @@
    "line": 1678,
    "term": "Gu Yanwu",
    "trans": "顾炎武",
-   "basis": "上游自带汉字；学界千年通行（“经学即理学”之倡）；凭证 2026-11-07",
+   "basis": "上游自带汉字；学界千年通行（“经学即理学”之倡）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119016419（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155717,7 +155979,7 @@
    "line": 1685,
    "term": "Guifeng Zongmi",
    "trans": "圭峰宗密",
-   "basis": "佛学界通行汉译（华严/荷泽宗）",
+   "basis": "佛学界通行汉译（华严/荷泽宗）；籍属/生卒联网查证：GND 规范标目 gnd 119037165（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155827,7 +156089,7 @@
    "line": 1696,
    "term": "Gustav Noske",
    "trans": "古斯塔夫·诺斯克",
-   "basis": "学界通行汉译（社民党国防部长）；待 specs/008 审定库复核",
+   "basis": "学界通行汉译（社民党国防部长）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118588761（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155867,7 +156129,7 @@
    "line": 1700,
    "term": "Gutschoven, Gerard van",
    "trans": "赫拉德·范·古茨霍芬",
-   "basis": "学界惯例音译（鲁汶解剖学家，笛卡儿《论人》插图作者之一）；凭证 2026-11-09",
+   "basis": "学界惯例音译（鲁汶解剖学家，笛卡儿《论人》插图作者之一）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 129823783（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155917,7 +156179,7 @@
    "line": 1705,
    "term": "Guyon, Madame",
    "trans": "盖恩夫人",
-   "basis": "学界通行汉译（寂静主义倡导者）",
+   "basis": "学界通行汉译（寂静主义倡导者）；籍属/生卒联网查证：GND 规范标目 gnd 11854389X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -155997,7 +156259,7 @@
    "line": 1718,
    "term": "H.L.A. Hart",
    "trans": "哈特（首现括注 H.L.A. Hart）",
-   "basis": "学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核",
+   "basis": "学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核；籍属/生卒联网查证：GND 规范标目 gnd 118546155（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -156007,7 +156269,7 @@
    "line": 1719,
    "term": "Haakonssen, Knud",
    "trans": "克努德·哈孔森",
-   "basis": "学界惯例（自然法与思想史研究文献）；凭证 2026-11-07",
+   "basis": "学界惯例（自然法与思想史研究文献）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 12952526X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -156047,7 +156309,7 @@
    "line": 1723,
    "term": "Hacking, Ian",
    "trans": "伊恩·哈金",
-   "basis": "学界通行汉译（《统计推理的逻辑》作者）",
+   "basis": "学界通行汉译（《统计推理的逻辑》作者）；籍属/生卒联网查证：GND 规范标目 gnd 121208354（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -156137,7 +156399,7 @@
    "line": 1732,
    "term": "Halevi, Judah",
    "trans": "犹大·哈列维",
-   "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04",
+   "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 118824767（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -156147,7 +156409,7 @@
    "line": 1733,
    "term": "Halfwassen, Jens",
    "trans": "Jens Halfwassen（现代学者，保留英文）",
-   "basis": "ADR-0022：无通行汉名者保留英文（KJG 编者）；凭证 2026-11-09",
+   "basis": "ADR-0022：无通行汉名者保留英文（KJG 编者）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 112558577（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
@@ -156197,7 +156459,7 @@
    "line": 1738,
    "term": "Halley, Edmond",
    "trans": "埃德蒙·哈雷",
-   "basis": "学界千年通行（哈雷彗星）",
+   "basis": "学界千年通行（哈雷彗星）；籍属/生卒联网查证：GND 规范标目 gnd 118720066（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）",
    "status": "未查证",
    "hits": [],
    "providers": []
