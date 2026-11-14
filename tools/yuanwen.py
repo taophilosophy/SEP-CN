@@ -703,15 +703,47 @@ def render_blocks(blocks, ctx):
 
 # ------------------------------------------------------------ citations -----
 
+SECTION_AUTHOR_RES = (
+    re.compile(r'\b(?:Works|Writings|Publications|Books|Articles|Essays|Papers|Letters|'
+               r'Translations|Opera|Nachlass)\s+(?:by|of)\s+(.+?)\s*$', re.I),
+    re.compile(r"^(.+?)[’']s\s+(?:[A-Za-z]+\s+){0,2}(?:Works|Writings|Publications|Books|"
+               r"Articles|Essays|Papers|Collected Works|Principal Works)$", re.I),
+)
+
+
+def _section_author(section):
+    """「Works by Bohr」「Ruth Barcan Marcus’s Works」→ 姓氏（取末词）。"""
+    for rx in SECTION_AUTHOR_RES:
+        m = rx.search(section or '')
+        if m:
+            name = re.sub(r'<[^>]+>', '', m.group(1)).strip(' .')
+            toks = [t for t in re.split(r'\s+', name) if t]
+            if toks:
+                return toks[-1].strip('.,')
+    return ''
+
+
 def build_cite_keys(entry_texts):
-    """文献条目 → [{key, pats, text}]。key 取 首作者姓-年份[后缀]，冲突加序号。"""
+    """文献条目 → [{key, pats, text}]。key 取 首作者姓-年份[后缀]，冲突加序号。
+
+    条目可为 str 或 (text, section)：section 为该条所在小节标题，
+    年份起首的条目（`1913, “On the constitution…”`）靠它推断作者。
+    """
     keys = []
     prev_surnames = []
+    prev_section = None
     seen = {}
     for raw in entry_texts:
+        if isinstance(raw, (tuple, list)):
+            raw, section = raw[0], raw[1] or ''
+        else:
+            section = ''
         text = re.sub(r'\s+', ' ', raw or '').strip()
         if not text:
             continue
+        if section != prev_section:
+            prev_surnames = []
+            prev_section = section
         continued = text.startswith('–––') or text.startswith('———')
         # 缩写表把「作者名」单独作 <li>，其后另起 <dl> 列各版本（Descartes,
         # René／Leibniz, G. W.）：这类裸姓名条目无年份、无内容，建 -nd 键只得
