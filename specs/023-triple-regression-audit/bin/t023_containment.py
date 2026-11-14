@@ -20,12 +20,25 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.a
 sys.path.insert(0, ROOT)
 from tools.yuanwen import _split_tables  # noqa: E402
 
-SUBSUP = str.maketrans('₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹ⁿ⁺⁻'
-                       'ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ'
-                       'ᵦᵧᵨᵩᵪ',
-                       '01234567890123456789n+-'
-                       'abcdefghijklmnoprstuvwxyz'
-                       'βγρφχ')
+SUBSUP = str.maketrans(
+    # 数字与符号
+    '₀₁₂₃₄₅₆₇₈₉' '⁰¹²³⁴⁵⁶⁷⁸⁹' 'ⁿ⁺⁻' '₊₋₌₍₎' '⁼⁽⁾'
+    # 上标小写字母（无 q）
+    'ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ'
+    # 上标大写字母
+    'ᴬᴮᴰᴱᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾᴿᵀᵁⱽᵂ'
+    # 上标希腊
+    'ᵅᵝᵞᵟᵋᶿᶥᶲᵠ'
+    # 下标小写字母
+    'ₐₑₕᵢⱼₖₗₘₙₒₚᵣₛₜᵤᵥₓ'
+    # 下标希腊
+    'ᵦᵧᵨᵩᵪ',
+    '0123456789' '0123456789' 'n+-' '+-=()' '=()'
+    'abcdefghijklmnoprstuvwxyz'
+    'ABDEGHIJKLMNOPRTUVW'
+    'αβγδεθιφπ'
+    'aehijklmnoprstuvx'
+    'βγρφχ')
 
 
 def norm(s):
@@ -39,8 +52,10 @@ def norm_yw(s):
     跨行吞内容——改剥「标签形」（`<` 后跟字母或 /）；再剥图片接线与引注
     标记（转换器插入的 [^key] 会让行内连续性中断）。"""
     s = re.sub(r'!\[[^\]]*\]\([^)]*\)', ' ', s)
-    s = re.sub(r'\[\^[^\]\s]+\](?!:)', ' ', s)
-    s = re.sub(r'</?[a-zA-Z][^>]*>', ' ', s)
+    # 只剥引注键（转换器新插、en 无）；note- 键两侧同形，保留
+    s = re.sub(r'\[\^(?!note-)[^\]\s]+\](?!:)', ' ', s)
+    # 逐行剥标签形：全文剥会让数学字面 <t 与数千字符外的 > 配对吞行
+    s = '\n'.join(re.sub(r'</?[a-zA-Z][^>]*>', ' ', ln) for ln in s.split('\n'))
     s = htmllib.unescape(s).translate(SUBSUP)
     return re.sub(r'[^0-9a-z\u4e00-\u9fff]+', '', s.lower())
 

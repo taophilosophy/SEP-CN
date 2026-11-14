@@ -316,7 +316,6 @@ class TestNestedTables20261114(unittest.TestCase):
         render_blocks(extract_blocks_raw(html), ctx)
         text = '\n'.join(ctx.out)
         self.assertIn('<table>', text)
-        self.assertIn('（嵌套表：', text + '（无降级标记）') or True
         self.assertNotIn('（嵌套表：', text)
         # 内层数学定界符随行内约定转 $（消毒三步之一）
         self.assertIn('<td>\\(z\\)</td>', text) or self.assertIn('<td>$z$</td>', text)

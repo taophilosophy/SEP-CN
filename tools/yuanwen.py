@@ -529,7 +529,11 @@ def list_to_md(inner, ordered, slug, indent=0):
             else:
                 t = inline_to_md(chunk, slug)
                 if t:
-                    lines.append(content_pad + t if lines else pad + marker + t)
+                    if lines:
+                        lines.append('')
+                        lines.append(content_pad + t)
+                    else:
+                        lines.append(pad + marker + t)
         out.append('\n'.join(lines) + sub)
     return '\n'.join(out)
 
