@@ -2,10 +2,305 @@
  "key": "kuhn, helmut",
  "term": "Kuhn, Helmut",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:16+00:00",
- "status": "error",
- "note": "variant=Kuhn, Helmut; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kuhn, Helmut: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:19:31+00:00",
+ "status": "ok",
+ "note": "variant=Kuhn, Helmut; 审定公布名词库=143; 海峡两岸名词对照库=43; 其他来源数据库=11; 预公布名词数据库=7; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "库恩-塔克条件",
+   "en": "Kuhn-Tucker conditions",
+   "code": "011.0184",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_非线性规划"
+  },
+  {
+   "cn": "库恩-塔克点",
+   "en": "Kuhn-Tucker point",
+   "code": "011.0185",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_非线性规划"
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "code": "03.186",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "库恩-塔克点",
+   "en": "Karush-Kuhn-Tucker point",
+   "code": "05.157",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "库恩-塔克条件",
+   "en": "Karush-Kuhn-Tucker condition",
+   "code": "05.158",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "库恩-托马斯-赖歇加和规则",
+   "en": "Kuhn-Thomas-Reiche sum rule",
+   "code": "04.1285",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_物质结构、理论和计算化学"
+  },
+  {
+   "cn": "库恩-塔克约束规格",
+   "en": "Kuhn-Tucker constraint qualifi- cation",
+   "code": "011.0054",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_数学规划"
+  },
+  {
+   "cn": "面罩",
+   "en": "helmet",
+   "code": "04.351",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_焊接与切割_工艺装备与设备"
+  },
+  {
+   "cn": "头盔",
+   "en": "helmet",
+   "code": "5.189",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门"
+  },
+  {
+   "cn": "科恩反常",
+   "en": "Kohn anomaly",
+   "code": "08.2874",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_特殊物相与极端条件"
+  },
+  {
+   "cn": "卡恩试验",
+   "en": "Kahn test",
+   "code": "09.447",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "昆腔",
+   "en": "Kun qiang;Kun melody",
+   "code": "8.522",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_思想文化_文学艺术"
+  },
+  {
+   "cn": "瓦尔夏",
+   "en": "Walcha\",\"Helmut(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "拉亨曼",
+   "en": "Lachenmann\",\"Helmut(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "头盔",
+   "en": "helmet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "面罩",
+   "en": "helmet\",\"mask\",\"helmet shield",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "科恩-派尔斯失稳",
+   "en": "Kohn-Peierls instability",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "冕盔",
+   "en": "coronal helmet",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "烟盔",
+   "en": "smoke helmet",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "硬盔",
+   "en": "rigid helmet",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "头盔显示",
+   "en": "helmet-mounted display",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "潜水头盔",
+   "en": "divers helmet",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "氦-3",
+   "en": "helium-3",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "氦核",
+   "en": "helium core",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "头盔",
+   "en": "helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "头盔",
+   "en": "helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "头盔",
+   "en": "helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "头盔",
+   "en": "headguard\",\"helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "头盔",
+   "en": "headgear\",\"helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "停用词",
+   "en": "Hans Peter Luhn",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "摩托车头盔",
+   "en": "motorcycle helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "头盔",
+   "en": "head protector\",\"helmet",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "隐士",
+   "en": "Hermit / Recluse",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "液氦",
+   "en": "Liquid helium",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "坤",
+   "en": "Kun（The Earth Symbol）",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "code": "03.186",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "制冷式头盔",
+   "en": "refrigeration helmet",
+   "code": "4.11.3.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境卫生防护"
+  },
+  {
+   "cn": "儿童安全头盔",
+   "en": "child safety helmet",
+   "code": "8.1.4.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_儿童安全"
+  },
+  {
+   "cn": "水冷却式头盔",
+   "en": "water-cooled helmet",
+   "code": "4.11.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境卫生防护"
+  },
+  {
+   "cn": "萨班•贡噶坚赞",
+   "en": "Sa pan kun dgav rgyal mtshan",
+   "code": "3.041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《普贤上师言教》",
+   "en": "Kun bzang bla mavi zhal lung",
+   "code": "3.0355",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "合亩制",
+   "en": "hemu institution",
+   "code": "1.0292",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
  "raw": null
 }
