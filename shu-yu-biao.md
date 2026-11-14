@@ -735,7 +735,7 @@
 | caretaker gene | — | 看护基因 | cancer | 学界通行（癌症遗传学；与 gatekeeper 守门基因对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | caritas | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
 | carrier screening | — | 携带者筛查 | genetics | 医学遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
-| Cartesian product | — | 笛卡尔积 | logic-infinitary | 数学通行译法；凭证 2026-11-10 | 2026-11-09 |
+| Cartesian product | — | 笛卡尔积（亦作“笛卡儿积”） | logic-infinitary | 数学通行译法；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定《数学名词》形“笛卡儿积”，中文文献两形同指并行） | 2026-11-15 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
 | casus | casus | 情形（正文保留拉丁原词 *casus*，首现括注） | richard-sophister | 学界惯例（义务论辩研究保留拉丁术语） | 2026-11-04 |
 | catastematic pleasure | καταστηματικὴ ἡδονή | 静态快乐 | epicurus | 本词条译名（与 kinetic 动态快乐对举；西塞罗拉丁译 static） | 2026-11-12 |
@@ -812,7 +812,7 @@
 | chimerical ethics | — | 空想伦理学（鲍姆嘉通；指把德性标准设得超出人性的伦理体系） | 18thGerman-preKant | 据作者英译直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Chinese medicine | — | 中医 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/chinese-phil-medicine））；凭证 2026-11-04 | 2026-11-04 |
 | chinese philosophy | — | 中国哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| Chinese Room | — | 中文屋（审定作“中文屋论证”） | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| Chinese Room | — | 中文屋（亦作“中文屋论证”“中文房间”） | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证）；2026-11-15 联网复核补亦作（大众语境通行“中文房间”，哲学文献“中文屋”） | 2026-11-15 |
 | chiromancy | — | 手相术 | gianfrancesco-pico | 西洋占术史通行 | 2026-11-09 |
 | choice function | — | 选择函数 | axiom-choice | 学界通行（集合论） | 2026-11-13 |
 | choice principle | — | 选择原理 | axiom-choice | 本词条译名（Bell 2006 语境统称） | 2026-11-13 |
@@ -835,7 +835,7 @@
 | ciphers of transcendence | Chiffre | 超越之密码 | jaspers 首译 | 学界通行（雅斯贝尔斯密码学说；Chiffre 密码）；凭证 2026-11-09 | 2026-11-09 |
 | circular proofs | — | 循环证明 | logic-provability | 证明论通行（Shamkanov） | 2026-11-05 |
 | circulatory death | — | 循环死亡 | organ-donation | 学界惯例（与脑死亡对举的死亡判准；凭证 2026-11-06） | 2026-11-06 |
-| circumscription | — | 限定推理 | f/frame-problem 首译 | AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10 | 2026-11-10 |
+| circumscription | — | 限定推理（亦作“限定理论”） | f/frame-problem 首译 | AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10；2026-11-15 补亦作（审定形“限定理论”，国内 AI 逻辑文献两形并行） | 2026-11-15 |
 | circumscription (of sovereignty) | — | 限缩（对主权的限缩） | s/sovereignty 首译 | 学界通行译法（国际法语境“限缩”）；凭证 2026-11-07 | 2026-11-07 |
 | circumstance | circunstancia | 境遇 | existentialism-mexican | 奥尔特加“yo soy yo y mi circunstancia”义译；取“境遇”以别于“环境”（environment）；凭证 2026-11-12 | 2026-11-12 |
 | circumstances of justice | — | 正义的环境 | c/contractarianism 首译 | 罗尔斯术语通行译法（《正义论》中译）；凭证 2026-11-07 | 2026-11-07 |
@@ -878,7 +878,7 @@
 | closure (of knowledge under entailment) | — | 闭合 | closure-epistemic 首译 | 知识论通行（closed under entailment 在蕴涵下闭合）；凭证 2026-11-08 | 2026-11-08 |
 | closure principle | — | 闭合原则 | epistemology-latin-america 首译 | 学界通行（认识论闭合论证） | 2026-11-11 |
 | cluster concept | — | 簇概念 | logical-consequence；首译（experimental-aesthetics） | 学界通行（Gaut 艺术定义；维特根斯坦家族相似传统）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| CNOT gate | — | 受控非门 | qt-entangle | 学界通行译名（controlled-NOT gate）；凭证 2026-11-09 | 2026-11-09 |
+| CNOT gate | — | 受控非门（亦作“量子受控非门”） | qt-entangle | 学界通行译名（controlled-NOT gate）；凭证 2026-11-09；2026-11-15 补亦作（审定形冠“量子”） | 2026-11-15 |
 | co-consciousness | — | 共同意识 | kant-transcendental | 本词条首译（Howell 1992 共同被意识之义）；凭证 2026-11-11 | 2026-11-11 |
 | co-constitutive | — | 共同构成的 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 co-constitutive）；凭证 2026-11-09 | 2026-11-09 |
 | coalition formation | — | 联盟形成 | s/social-procedures 首译 | 学界通行译法（多智能体研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -897,9 +897,9 @@
 | cognizing (Erkennen) | — | 认知 | reinach | 学界惯例（现象学认识论通行）；凭证 2026-11-09 | 2026-11-09 |
 | coherence | — | 融贯 | justep-coherence | 学界惯例（哲学通译“融贯/融贯性”） | 2026-11-02 |
 | coherence space | — | 相干空间 | logic-linear | Girard 术语通行译法；凭证 2026-11-10 | 2026-11-09 |
-| coherence theory | — | 融贯论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
+| coherence theory | — | 融贯论（亦作“真理的融贯论”） | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | coherence theory of justification | — | 证成的融贯理论 | justep-coherence | 学界惯例（知识论通行译法） | 2026-11-02 |
-| coherence theory of truth | — | 真理融贯论 | gelukpa | 哲学通译（融贯论） | 2026-11-01 |
+| coherence theory of truth | — | 真理融贯论（亦作“真理的融贯论”） | gelukpa | 哲学通译（融贯论）；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | coherentism | — | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
 | coinage | — | 铸币 | nicole-oresme | 货币史通行；凭证 2026-11-08 | 2026-11-08 |
 | coincidence of opposites | — | 对立面的相合 | heraclitus 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
@@ -1040,7 +1040,7 @@
 | connotative term / connotatio | — | 含蓄词项（首现括注 *connotatio*） | ockham | 王路译本《逻辑大全》（商务印书馆汉译名著）作“含蓄的名”；term 统一作“词项”沿登记册惯例（范畴词/非范畴词系）；Panaccio 中译作“暗含”备查；凭证 2026-11-07 | 2026-11-07 |
 | conscience | — | 良心（亦作“良知”） | conscience 首译 | 学界通行（伦理学术语；哲学词典与伦理学教材通译“良心”，与孟子学“良知”相区别；本词条锁定“良心”）；凭证 2026-11-08；待 specs/008 审定库复核 | 2026-11-08 |
 | conscientious objection | — | 依良心拒绝 | conscience 首译 | 学界通行（生命伦理学与法哲学文献通译“依良心拒绝”，亦作“良心拒绝”；本词条锁定前者）；凭证 2026-11-08 | 2026-11-08 |
-| conscientiousness | — | 尽责性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| conscientiousness | — | 尽责性（亦作“严谨性”） | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10；2026-11-15 联网复核补亦作（学术标准形“尽责性”（大五量表系），“严谨性”为审定/他量表形） | 2026-11-15 |
 | conscious automata | — | 有意识的自动机 | 首现（zombies） | 学界惯例（赫胥黎用语通译）；凭证 2026-11-10 | 2026-11-10 |
 | conscious experience | — | 意识经验 | 语料回收 | 学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-29）；审定库命中医学域“意识性体验”不采（凭证 2026-10-29） | 2026-10-29 |
 | consciousness | — | 意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；neoplatonism 词条作者以 Consciousness 指 nous，正文统一译“意识” | 2026-11-04 |
@@ -1100,7 +1100,7 @@
 | continental philosophy | — | 大陆哲学 | epistemology-latin-america 首译 | 学界通行（与 analytic philosophy 分析哲学对举） | 2026-11-11 |
 | contingency | — | 偶然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | contingent being | — | 偶然存在者 | object 首译 | 学界通行汉译（模态形而上学）；凭证 2026-11-07 | 2026-11-07 |
-| continuity axiom | — | 连续性公理 | 首现（intuitionism） | 直觉主义分析学术语；凭证 2026-11-10 | 2026-11-10 |
+| continuity axiom | — | 连续性公理（亦作“连续公理”） | 首现（intuitionism） | 直觉主义分析学术语；凭证 2026-11-10；2026-11-15 补亦作（审定《数学名词》形“连续公理”） | 2026-11-15 |
 | continuity principle | — | 连续性原理 | 首现（intuitionism） | 直觉主义数学通行（选择序列可处理性之原则；与连续性定理分立）；凭证 2026-11-12 | 2026-11-12 |
 | continuity theorem | — | 连续性定理 | 首现（intuitionism） | 直觉主义分析基本定理通行译名（布劳威尔 1927）；凭证 2026-11-12 | 2026-11-12 |
 | continuous creation | — | 持续创造 | la-forge | 学界通行（偶因论研究，creatio continua）；凭证 2026-11-09 | 2026-11-09 |
