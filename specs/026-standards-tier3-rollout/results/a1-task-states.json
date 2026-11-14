@@ -1,0 +1,754 @@
+{
+ "total": 191,
+ "missing_tasks": [
+  "korean-confucianism.supplement"
+ ],
+ "at_or_after_audited": [
+  {
+   "slug": "abelard",
+   "state": "done"
+  },
+  {
+   "slug": "abhidharma",
+   "state": "done"
+  },
+  {
+   "slug": "abrabanel",
+   "state": "done"
+  },
+  {
+   "slug": "abraham-daud",
+   "state": "done"
+  },
+  {
+   "slug": "action-perception",
+   "state": "done"
+  },
+  {
+   "slug": "addams-jane",
+   "state": "done"
+  },
+  {
+   "slug": "adorno",
+   "state": "done"
+  },
+  {
+   "slug": "aesthetic-experience",
+   "state": "done"
+  },
+  {
+   "slug": "aesthetics-18th-british",
+   "state": "done"
+  },
+  {
+   "slug": "aesthetics-critical-theory",
+   "state": "done"
+  },
+  {
+   "slug": "aesthetics-race",
+   "state": "done"
+  },
+  {
+   "slug": "agrippa-nettesheim",
+   "state": "done"
+  },
+  {
+   "slug": "al-din-al-razi",
+   "state": "done"
+  },
+  {
+   "slug": "al-kindi",
+   "state": "done"
+  },
+  {
+   "slug": "al-qudat",
+   "state": "done"
+  },
+  {
+   "slug": "albalag",
+   "state": "done"
+  },
+  {
+   "slug": "albert-great",
+   "state": "done"
+  },
+  {
+   "slug": "alexander",
+   "state": "done"
+  },
+  {
+   "slug": "alexander-crummell",
+   "state": "done"
+  },
+  {
+   "slug": "algebra-logic-tradition",
+   "state": "done"
+  },
+  {
+   "slug": "analogy-medieval",
+   "state": "done"
+  },
+  {
+   "slug": "anselm",
+   "state": "done"
+  },
+  {
+   "slug": "antonio-rosmini",
+   "state": "done"
+  },
+  {
+   "slug": "arabic-islamic-mysticism",
+   "state": "done"
+  },
+  {
+   "slug": "august-rehberg",
+   "state": "done"
+  },
+  {
+   "slug": "auriol",
+   "state": "done"
+  },
+  {
+   "slug": "autrecourt",
+   "state": "done"
+  },
+  {
+   "slug": "bauer",
+   "state": "done"
+  },
+  {
+   "slug": "bayle",
+   "state": "done"
+  },
+  {
+   "slug": "behaviorism",
+   "state": "done"
+  },
+  {
+   "slug": "biology-philosophy",
+   "state": "done"
+  },
+  {
+   "slug": "bloch",
+   "state": "done"
+  },
+  {
+   "slug": "boethius",
+   "state": "done"
+  },
+  {
+   "slug": "boethius-dacia",
+   "state": "done"
+  },
+  {
+   "slug": "bohr-correspondence",
+   "state": "done"
+  },
+  {
+   "slug": "boolalg-math",
+   "state": "done"
+  },
+  {
+   "slug": "bradley",
+   "state": "r1_reviewed"
+  },
+  {
+   "slug": "bradley-moral",
+   "state": "done"
+  },
+  {
+   "slug": "brentano",
+   "state": "r1_reviewed"
+  },
+  {
+   "slug": "brentano-judgement",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "brouwer",
+   "state": "done"
+  },
+  {
+   "slug": "buddha",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "buddhism-chan",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "buddhism-huayan",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "cambridge-platonists",
+   "state": "done"
+  },
+  {
+   "slug": "chinese-phil-medicine",
+   "state": "done"
+  },
+  {
+   "slug": "chinese-phil-science",
+   "state": "done"
+  },
+  {
+   "slug": "collingwood-aesthetics",
+   "state": "done"
+  },
+  {
+   "slug": "condemnation",
+   "state": "done"
+  },
+  {
+   "slug": "confucius",
+   "state": "done"
+  },
+  {
+   "slug": "conscience",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "conway",
+   "state": "done"
+  },
+  {
+   "slug": "copernicus",
+   "state": "done"
+  },
+  {
+   "slug": "cosmology-30s",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "crathorn",
+   "state": "done"
+  },
+  {
+   "slug": "crescas",
+   "state": "done"
+  },
+  {
+   "slug": "cudworth",
+   "state": "done"
+  },
+  {
+   "slug": "dai-zhen",
+   "state": "done"
+  },
+  {
+   "slug": "davidson",
+   "state": "done"
+  },
+  {
+   "slug": "delmedigo",
+   "state": "done"
+  },
+  {
+   "slug": "descartes-ethics",
+   "state": "done"
+  },
+  {
+   "slug": "descartes-ideas",
+   "state": "done"
+  },
+  {
+   "slug": "descartes-physics",
+   "state": "done"
+  },
+  {
+   "slug": "descartes-works",
+   "state": "done"
+  },
+  {
+   "slug": "desgabets",
+   "state": "done"
+  },
+  {
+   "slug": "dewey-political",
+   "state": "done"
+  },
+  {
+   "slug": "dialectical-school",
+   "state": "done"
+  },
+  {
+   "slug": "dilthey",
+   "state": "done"
+  },
+  {
+   "slug": "diodorus-cronus",
+   "state": "done"
+  },
+  {
+   "slug": "du-bos",
+   "state": "done"
+  },
+  {
+   "slug": "duhem",
+   "state": "done"
+  },
+  {
+   "slug": "duns-scotus",
+   "state": "done"
+  },
+  {
+   "slug": "ecological-genetics",
+   "state": "done"
+  },
+  {
+   "slug": "edwards",
+   "state": "done"
+  },
+  {
+   "slug": "elisabeth-bohemia",
+   "state": "done"
+  },
+  {
+   "slug": "emerson",
+   "state": "done"
+  },
+  {
+   "slug": "emilie-du-chatelet",
+   "state": "done"
+  },
+  {
+   "slug": "emotion-Christian-tradition",
+   "state": "done"
+  },
+  {
+   "slug": "epistemology-language-tibetan",
+   "state": "done"
+  },
+  {
+   "slug": "epistemology-latin-america",
+   "state": "done"
+  },
+  {
+   "slug": "epsilon-calculus",
+   "state": "done"
+  },
+  {
+   "slug": "erasmus",
+   "state": "done"
+  },
+  {
+   "slug": "erfurt",
+   "state": "done"
+  },
+  {
+   "slug": "erotic-art",
+   "state": "done"
+  },
+  {
+   "slug": "evil-kinds-origins",
+   "state": "done"
+  },
+  {
+   "slug": "existentialism-mexican",
+   "state": "done"
+  },
+  {
+   "slug": "fuller-margaret",
+   "state": "done"
+  },
+  {
+   "slug": "gadamer",
+   "state": "done"
+  },
+  {
+   "slug": "gadamer-aesthetics",
+   "state": "done"
+  },
+  {
+   "slug": "gelukpa",
+   "state": "done"
+  },
+  {
+   "slug": "george-eliot",
+   "state": "done"
+  },
+  {
+   "slug": "gianfrancesco-pico",
+   "state": "done"
+  },
+  {
+   "slug": "giles",
+   "state": "done"
+  },
+  {
+   "slug": "godwin",
+   "state": "done"
+  },
+  {
+   "slug": "gramsci",
+   "state": "done"
+  },
+  {
+   "slug": "gregory-rimini",
+   "state": "done"
+  },
+  {
+   "slug": "han-dynasty",
+   "state": "done"
+  },
+  {
+   "slug": "hare",
+   "state": "done"
+  },
+  {
+   "slug": "harriet-mill",
+   "state": "done"
+  },
+  {
+   "slug": "hegel-social-political",
+   "state": "done"
+  },
+  {
+   "slug": "hilbert-program",
+   "state": "done"
+  },
+  {
+   "slug": "homosexuality",
+   "state": "done"
+  },
+  {
+   "slug": "iamblichus",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "ibn-sina",
+   "state": "done"
+  },
+  {
+   "slug": "ibn-taymiyya",
+   "state": "done"
+  },
+  {
+   "slug": "illumination",
+   "state": "done"
+  },
+  {
+   "slug": "incommensurability",
+   "state": "done"
+  },
+  {
+   "slug": "intensional-trans-verbs",
+   "state": "done"
+  },
+  {
+   "slug": "intuitionism",
+   "state": "done"
+  },
+  {
+   "slug": "israeli",
+   "state": "done"
+  },
+  {
+   "slug": "james",
+   "state": "done"
+  },
+  {
+   "slug": "james-ward",
+   "state": "done"
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "state": "done"
+  },
+  {
+   "slug": "jaspers",
+   "state": "done"
+  },
+  {
+   "slug": "justice-moral-psych",
+   "state": "done"
+  },
+  {
+   "slug": "justus-lipsius",
+   "state": "done"
+  },
+  {
+   "slug": "kant-development",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "kant-hume-morality",
+   "state": "done"
+  },
+  {
+   "slug": "kant-leibniz",
+   "state": "done"
+  },
+  {
+   "slug": "kant-mind",
+   "state": "done"
+  },
+  {
+   "slug": "kant-religion",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "kant-science",
+   "state": "done"
+  },
+  {
+   "slug": "kant-spacetime",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "kant-transcendental",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "karl-reinhold",
+   "state": "done"
+  },
+  {
+   "slug": "kaspi-joseph",
+   "state": "done"
+  },
+  {
+   "slug": "kepler",
+   "state": "done"
+  },
+  {
+   "slug": "kierkegaard",
+   "state": "done"
+  },
+  {
+   "slug": "kilvington",
+   "state": "done"
+  },
+  {
+   "slug": "kokugaku-school",
+   "state": "done"
+  },
+  {
+   "slug": "korean-buddhism",
+   "state": "done"
+  },
+  {
+   "slug": "korean-confucianism",
+   "state": "done"
+  },
+  {
+   "slug": "korean-philosophy",
+   "state": "done"
+  },
+  {
+   "slug": "kukai",
+   "state": "s3_checked"
+  },
+  {
+   "slug": "kumaarila",
+   "state": "done"
+  },
+  {
+   "slug": "la-forge",
+   "state": "done"
+  },
+  {
+   "slug": "lady-masham",
+   "state": "done"
+  },
+  {
+   "slug": "lakatos",
+   "state": "done"
+  },
+  {
+   "slug": "landmann-kalischer",
+   "state": "done"
+  },
+  {
+   "slug": "langer",
+   "state": "done"
+  },
+  {
+   "slug": "legrand",
+   "state": "done"
+  },
+  {
+   "slug": "leibniz-ethics",
+   "state": "done"
+  },
+  {
+   "slug": "leibniz-evil",
+   "state": "done"
+  },
+  {
+   "slug": "leibniz-logic-influence",
+   "state": "done"
+  },
+  {
+   "slug": "leibniz-mind",
+   "state": "done"
+  },
+  {
+   "slug": "locke-on-medicine",
+   "state": "done"
+  },
+  {
+   "slug": "logic-provability",
+   "state": "done"
+  },
+  {
+   "slug": "lorenzo-valla",
+   "state": "done"
+  },
+  {
+   "slug": "lvov-warsaw",
+   "state": "done"
+  },
+  {
+   "slug": "mandeville",
+   "state": "done"
+  },
+  {
+   "slug": "marsilius-inghen",
+   "state": "done"
+  },
+  {
+   "slug": "montessori-maria",
+   "state": "done"
+  },
+  {
+   "slug": "natphil-ren",
+   "state": "done"
+  },
+  {
+   "slug": "neoplatonism",
+   "state": "done"
+  },
+  {
+   "slug": "newton",
+   "state": "done"
+  },
+  {
+   "slug": "newton-philosophy",
+   "state": "done"
+  },
+  {
+   "slug": "newton-principia",
+   "state": "done"
+  },
+  {
+   "slug": "nicole-oresme",
+   "state": "done"
+  },
+  {
+   "slug": "nietzsche-aesthetics",
+   "state": "done"
+  },
+  {
+   "slug": "novalis",
+   "state": "done"
+  },
+  {
+   "slug": "oakeshott",
+   "state": "done"
+  },
+  {
+   "slug": "obligationes",
+   "state": "done"
+  },
+  {
+   "slug": "occasionalism",
+   "state": "done"
+  },
+  {
+   "slug": "ockham",
+   "state": "done"
+  },
+  {
+   "slug": "olympiodorus",
+   "state": "done"
+  },
+  {
+   "slug": "omnipresence",
+   "state": "done"
+  },
+  {
+   "slug": "omniscience",
+   "state": "done"
+  },
+  {
+   "slug": "origin-descent",
+   "state": "done"
+  },
+  {
+   "slug": "peirce-benjamin",
+   "state": "done"
+  },
+  {
+   "slug": "penbygull",
+   "state": "done"
+  },
+  {
+   "slug": "prophecy",
+   "state": "done"
+  },
+  {
+   "slug": "quine-nf",
+   "state": "done"
+  },
+  {
+   "slug": "rationalism-early-modern",
+   "state": "done"
+  },
+  {
+   "slug": "redistribution",
+   "state": "done"
+  },
+  {
+   "slug": "reinach",
+   "state": "done"
+  },
+  {
+   "slug": "reism",
+   "state": "done"
+  },
+  {
+   "slug": "ricoeur",
+   "state": "done"
+  },
+  {
+   "slug": "schlegel",
+   "state": "done"
+  },
+  {
+   "slug": "sikh-philosophy",
+   "state": "done"
+  },
+  {
+   "slug": "sovereignty",
+   "state": "done"
+  },
+  {
+   "slug": "telesio",
+   "state": "done"
+  },
+  {
+   "slug": "theology-aristotle",
+   "state": "done"
+  },
+  {
+   "slug": "william-sherwood",
+   "state": "done"
+  },
+  {
+   "slug": "yorck",
+   "state": "r1_reviewed"
+  },
+  {
+   "slug": "zabarella",
+   "state": "done"
+  }
+ ],
+ "state_distribution": {
+  "done": 170,
+  "r1_reviewed": 3,
+  "s3_checked": 12,
+  "cleared": 5
+ }
+}

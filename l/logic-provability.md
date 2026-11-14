@@ -632,4 +632,4 @@ $$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vd
 
 我谨向 Lev Beklemishev 致以最诚挚的谢意：他于 2017 年惠赐一封长信，其中包含大量文献引证，从他自己的视角呈现了可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——感谢他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
 
-谨以本文 2024 年版纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
+谨以本文 2024 年版纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948—2015）、Sol Feferman（1928—2016）与 Petr Hájek（1940—2016）。

@@ -64,7 +64,10 @@ class TestTaskOps(unittest.TestCase):
         md = self._md("r.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-r", "retranslate", zh_doc=md)
         task_ops.clear("test-r")
-        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-r", step, actor="t", evidence="e")
+        task_ops.advance("test-r", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        for step in ("s3", "r1", "r2"):
             task_ops.advance("test-r", step, actor="t", evidence="e")
         task_ops.advance("test-r", "r3", actor="t", evidence="冷置重读")  # 单会话形态留痕
         task_ops.advance("test-r", "done", actor="t", evidence="e")
@@ -99,8 +102,10 @@ class TestTaskOps(unittest.TestCase):
         # done 不得绕过 r3（2026-11-10 修 done 分支缺前置校验，实测重复 done 由并发撞出）
         task_ops.create("test-e", "retranslate", zh_doc=self._md("e.md"))
         task_ops.clear("test-e")
-        for step in ("draft", "s1", "s2", "audit", "s3"):
+        for step in ("draft", "s1", "s2"):
             task_ops.advance("test-e", step, actor="t", evidence="e")
+        task_ops.advance("test-e", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        task_ops.advance("test-e", "s3", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
         for step in ("r1", "r2"):
@@ -115,7 +120,10 @@ class TestTaskOps(unittest.TestCase):
         # 复核独立性机检（rules/04、ADR-0020 裁定②）：单会话形态 r3 必须记明冷置
         task_ops.create("test-i1", "retranslate", zh_doc=self._md("i1.md"))
         task_ops.clear("test-i1")
-        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-i1", step, actor="t", evidence="e")
+        task_ops.advance("test-i1", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        for step in ("s3", "r1", "r2"):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-i1", "r3", actor="t", evidence="看过了")
@@ -126,7 +134,10 @@ class TestTaskOps(unittest.TestCase):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
         task_ops.create("test-i2", "retranslate", zh_doc=self._md("i2.md"))
         task_ops.clear("test-i2")
-        for step in ("draft", "s1", "s2", "audit", "s3", "r1", "r2"):
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-i2", step, actor="w", evidence="e")
+        task_ops.advance("test-i2", "audit", actor="w", evidence="e；冷置回读＋密度统计")
+        for step in ("s3", "r1", "r2"):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         t = task_ops.advance("test-i2", "r3", actor="rev", evidence="e")
         self.assertEqual(t["state"], "r3_reviewed")
@@ -138,7 +149,10 @@ class TestTaskOps(unittest.TestCase):
             write_text(cf, '{"items": []}')
             task_ops.create("test-i3", "update", change_file=cf)
             task_ops.advance("test-i3", "s1", actor="w", evidence="changes:#item3")
-            for step in ("s2", "audit", "s3", "r1", "r2"):
+            task_ops.advance("test-i3", "s2", actor="w", evidence="changes:#item3")
+            task_ops.advance("test-i3", "audit", actor="w",
+                             evidence="changes:#item3；冷置回读＋密度统计")
+            for step in ("s3", "r1", "r2"):
                 task_ops.advance("test-i3", step, actor="w", evidence="changes:#item3")
             with self.assertRaises(task_ops.PreconditionError):
                 task_ops.advance("test-i3", "r3", actor="w", evidence="changes:#item3")
@@ -174,7 +188,8 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-a1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-a1", "s3", actor="t", evidence="跳过审计")
-        t = task_ops.advance("test-a1", "audit", actor="t", evidence="三向比对记录")
+        t = task_ops.advance("test-a1", "audit", actor="t",
+                             evidence="三向比对记录；单会话冷置回读＋密度统计")
         self.assertEqual(t["state"], "audited")
         t = task_ops.advance("test-a1", "s3", actor="t", evidence="e")
         self.assertEqual(t["state"], "s3_checked")
@@ -198,7 +213,8 @@ class TestTaskOps(unittest.TestCase):
         write_text(good, good_body)
         for step in ("draft", "s1", "s2"):
             task_ops.advance("test-g2", step, actor="t", evidence="e")
-        t = task_ops.advance("test-g2", "audit", actor="t", evidence="三向比对记录")
+        t = task_ops.advance("test-g2", "audit", actor="t",
+                             evidence="三向比对记录；冷置回读＋密度统计")
         self.assertEqual(t["state"], "audited")
 
     def test_update_audit_requires_change_evidence(self):
@@ -211,8 +227,21 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-u1", "s2", actor="t", evidence="changes:#item3")
             with self.assertRaises(task_ops.PreconditionError):
                 task_ops.advance("test-u1", "audit", actor="t", evidence="口说无凭")
-            t = task_ops.advance("test-u1", "audit", actor="t", evidence="changes:#item3")
+            t = task_ops.advance("test-u1", "audit", actor="t",
+                                 evidence="changes:#item3；冷置回读＋密度统计")
             self.assertEqual(t["state"], "audited")
+
+    def test_audit_independence_same_actor_requires_compensation(self):
+        # 审计独立性机检（rules/04 同源盲区对冲、specs/027 FR-001）：
+        # audit 与初译 actor 全同时，evidence 须记明冷置或密度统计补偿
+        task_ops.create("test-n1", "retranslate", zh_doc=self._md("n1.md"))
+        task_ops.clear("test-n1")
+        for step in ("draft", "s1", "s2"):
+            task_ops.advance("test-n1", step, actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-n1", "audit", actor="t", evidence="三向比对记录")
+        t = task_ops.advance("test-n1", "audit", actor="rev", evidence="三向比对记录")
+        self.assertEqual(t["state"], "audited")
 
 
 if __name__ == "__main__":
