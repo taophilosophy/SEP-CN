@@ -105,3 +105,5 @@
 | oakeshott | grant-2012 条末缺句点 | 补 `.` | 句读（①） |
 | object | notes `VII 15.1939b20&ndash;25` / `XI 9.1058b80&ndash;12` | `1039b20–25` / `1058b8–12` | OCR 掉位与衍 0（①） |
 | object | `Wien: &Ouml;bvetHpt` / `<em>Oxford</em>: Oxford` / `<em>Words without Objects:</em> ,` | `ÖBV & HPT` / `Oxford:` / `Words without Objects` | 出版社、斜体与标点（①） |
+| occasionalism | `(Weinburg 1964, 272)` / `Bouillier 1865` | `Weinberg` / `1854` | 拼写与年份（①②） |
+| occasionalism | `Trunbout: Brepols` / `Constructionsn` | `Turnhout` / `Constructions` | 拼写（①） |
