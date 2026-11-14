@@ -93,3 +93,17 @@
 | W11 | 欧化“一个”滥用＋AI 腔套话＋图表题注缺失（用户抽读发现，三道校审均未拦） | 译文返修 | 已译约 422 条回炉（specs/023＝审计已译环节载体） | 语体（“一个”／AI 腔两维无名目）；体例（表 N 题注无条款） | 无——不是跳步，是条款缺失（R1）＋审校与生成同源的结构性盲区：分布密度类缺陷（滥用＝过多而非错）在逐句作业单位下天然漏网，LLM 自查自身口音更弱 | ADR-0040：audited 常设环节（逐段＋全局双粒度、全局密度统计、独立于初译 actor 与冷置补偿）；rules/02 反欧化八则＋AI 腔小节＋表 N 题注；AI 套话增译类经三向比对转保真问题可机检 |
 
 登记纪律（ADR-0039 §12）：此后每次返工追加一行；同缺口二次发案防线升级（约定→门禁→硬门禁）。复审与本表同期（2027-01-21）。
+
+### 四方分类对照表（IEEE 1044-2009 对齐，2026-11-14 标准对齐落地）
+
+库内并存三套缺陷/异常分类（ADR-0020 问题分级、fang-fa-lun S5 缺陷分类、本表 R1-R5 成因），另引 MQM 维度——按 IEEE 1044「统一异常分类词汇」要求，映射关系固定如下，后续会话按此表跨体系换算，禁止再造第四套：
+
+| IEEE 1044 要素 | 本库对应 | 说明 |
+| ---- | ---- | ---- |
+| anomaly type（缺陷/故障/问题报告） | W 表「类型」列（译文返修/修复重做/基准漂移偿还/规则修订） | 返工事件型别 |
+| status / disposition（open/closed/fix/deferred） | 任务 state 机 + blockers + 台账行 | 写入路径追责由 actor/evidence 承载 |
+| **severity（强制）** | ADR-0020：Critical（改变立场/事实错误/术语反用）/ Major（破句/漏译/成语误用）/ Minor（措辞/标点） | Critical 不得带入 done（行规先例：校对质疑直改权分离） |
+| priority | 处置顺序＝影响面 × 作废维度（S5 A 事实性 > B 术语性 > C 语言性 > D 格式性） | 隐式分级，登记行内排序表达 |
+| category（requirements/design/implementation/documentation…） | fang-fa-lun S5：A 事实性 / B 术语性 / C 语言性 / D 格式性 | 检查器映射：A→check_academic、B→check_terms、C→check_prose、D→check_style/tables_images |
+| **root cause** | R1 验收维度缺口 / R2 手段先行 / R3 基准漂移 / R4 写入路径脱核 / R5 证据推演 | 本表四元组第 3 列 |
+| MQM 维（译文质量口径） | Accuracy→s1；Fluency+Style→s2；Terminology+Locale→s3；Design→audited；Audience appropriateness（v1 Verity）→r1-r3；Compliance→rules/07 | MQM 2.0 七维；Mistranslation 含 MT hallucination 子类（AI 幻觉审计的正式名目） |
