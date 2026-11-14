@@ -10,43 +10,47 @@
 
 | 类型 | 触发 | 状态序列 |
 | ---- | ---- | -------- |
-| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → drafted → s1_checked → s2_checked → audited（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done |
-| update（更新） | 上游 SEP 修订引发 | pending → s1_checked（仅变更段）→ s2_checked（变更段所在节）→ audited（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档）→ done |
+| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → drafted → s1_checked → s2_checked → s2.4_termchecked（术语校）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done |
+| update（更新） | 上游 SEP 修订引发 | pending → s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档）→ done |
 
-**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。
+**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 仅适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）。
 
-## 六道与审计已译环节的含义（经典出版映射，用户 2026-10-26 裁定；审计环节 ADR-0040 增补）
+## 六道与前置环节的含义（经典出版映射，用户 2026-10-26 裁定；s2.4/s2.5 环节 ADR-0040/0043 增补）
 
 | 步骤 | 名称 | 做什么 | 合格凭证 |
 | ---- | ---- | ---- | ---- |
 | draft | 初译 | 以英文源为唯一底稿从头翻译（见下节纪律） | 译文全文入库 |
 | s1 | 一校（准确性） | 对照英文源逐节核销：漏译、错译、事实错误（人名、年代、编号） | 对照记录（账本 diff 或逐节锚点对照表，可复核形态）；残留外文碎片检查为 0 |
 | s2 | 二校（语言） | 消除欧化句、倒装、死译，打磨口吻与流畅（含 [02](02-style.md) 反欧化条款）；通读语体，确认现代汉语学术书面语、无文言仿古、破折号未滥用、量词“一个”未滥用（[02](02-style.md)“语体与文风”） | 修改 diff；`tools/check_prose.py` 告警清零或逐条豁免留痕（ADR-0020）；evidence 记语体结论 |
-| s3 | 三校（体例） | 引号、空格、术语登记册一致性、格式检查 | `tools/check_style.py` 0 issue + markdownlint 绿 |
+| s3 | 三校（体例） | 引号、空格、格式检查；连接号三形、表号表题与表身空值、顿号新规、题注细则按 [ADR-0041](adr/0041-标准对齐基线与偏离登记.md) 规范清单核验（2026-11-14 软件工程理论增补，ADR-0043） | `tools/check_style.py` 0 issue + markdownlint 绿；s3 凭证增记「适用规范基线筛查结论」（[08](08-intent-first.md) §13） |
 | r1 | 初审 | 对照原文自审，并再次通读语体后签字 | 自审记录（含语体结论） |
 | r2 | 复审 | 逐句回核原文与逻辑 | 复核记录（问题单：逐处位置＋改前改后，禁机械批量） |
 | r3 | 终审 | 终稿验收 + CI 全绿 | CI 通过 + 验收签字 |
 
 每步在任务 JSON 的 `steps` 数组登记：`actor`（执行者）、`at`（ISO 时间戳）、`evidence`（可复核凭证：哈希、diff、检查输出、对照记录位置）。
 
-### 审计已译环节（audited，二校后独立环节，ADR-0040）
+### 术语校环节（s2.4_termchecked，2026-11-14 升独立环节，ADR-0043）
 
-位置在二校之后、三校之前，独立于六道（2026-11-14 用户裁定）：对已译内容做 **yuanwen → en → 译文三轴依次比较校对**——先**逐段**比较格式与内容，再**全局**比较内容与格式。操作 `advance --step audit`；update 任务证据以 `changes:` 开头，默认仅变更段，基准变更（重转、上游勘误、口径修订）时全文档。
+位置在 s2_checked 之后、s2.5 审计之前（原内嵌于 s1 术语漂移／s3 一致性／r2 语境分流的子项升格，用户裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按「先登记后使用」复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。操作 `advance --step s24`；机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。MQM Terminology 归本环节。
+
+### 审计已译环节（s2.5_checked，audited 更名并扩容，ADR-0040/0043）
+
+位置在术语校之后、三校之前，独立于六道：对已译内容做 **yuanwen → en → 译文三轴依次比较校对**——先**逐段**比较格式与内容，再**全局**比较内容与格式。操作 `advance --step s25`（`audit` 为兼容别名）；update 任务证据以 `changes:` 开头，默认仅变更段，基准变更（重转、上游勘误、口径修订）时全文档。本环节作业面含 specs/026 双书语料收尾项（顿号并列 147/14、括号套用 335、多段引文 2、连接号漏网 W1/W2）与 specs/027 T1 增项（见下），**按字头 A–Z 并行认领**（ADR-0043 决策 8）。
 
 * **镜像轴（yuanwen↔en）**：转换保真逐段人审，specs/018 协议（完整性、格式一致性、无凭空多出；书目逐条计数比对）。
 * **译文轴（译文↔en）**：逐段回 en 零信任核对内容（漏译、增译、错译），格式按 [02](02-style.md)/[03](03-terminology.md)/[07](07-academic-norms.md)。
 * **全局**：内容——节集合与结构对账、脚注键位总数、书目条数、术语登记册一致性；格式——[02](02-style.md) 体例与题注齐全；**密度统计**——全篇破折号数、量词“一个”频次、AI 高频词共现（分布类缺陷“滥用＝过多而非错”，逐段不可见、全局现形，specs/004 W11）；全局比对检查单按《图书校对工作基本规程》“文字技术整理”十项裁剪（注码与注文相符、图表编序连续、目录与标题一致、插图说明相符等，2026-11-14 标准研读采纳，[ADR-0041](adr/0041-标准对齐基线与偏离登记.md)）。
 * **同源盲区对冲**（specs/004 W11）：审计宜由初译 actor 以外的会话执行；单会话形态以全局密度统计＋冷置回读补偿，并在 evidence 记明（承 [ADR-0020](adr/0020-译文语言质量门禁.md) 复核独立性）。
 * **资产核验清单**（正确性、一致性、可识别性）：公式——定界符正确（`check_math_zh` C1–C9）、与源逐条对应、源自带编号者对应保留、盒子标签语译中文，源无编号不补；表格——结构完整、**必有“表 N”编号**（源有题注者“表 N：说明”，无者表前标签行“表 N”），表内文字按 [ADR-0037](adr/0037-表格与图片体例.md)；图片——必有“图 N”、alt 与图注中文、引用基座 `../assets/<slug>/`；引用——引块与书名斜体体例、照录豁免正确；注释——脚注键位配对（marker↔定义）、回链可解析。
-* **机检拦截网**（不作裁判，逐段人审是裁判，specs/018 先例）：`check_math_zh`、`check_tables_images`、`check_math`、`check_academic --strict`、022 `scan_zh_vs_yuanwen`、重转后 018 `regression_scan`。`advance --step audit` 自动挂 `check_math_zh`（默认档 0 硬错误；strict 升档留 s3/r3）。
+* **机检拦截网**（不作裁判，逐段人审是裁判，specs/018 先例）：`check_math_zh`、`check_tables_images`、`check_math`、`check_academic --strict`、022 `scan_zh_vs_yuanwen`、重转后 018 `regression_scan`。`advance --step s25` 自动挂 `check_math_zh`（默认档 0 硬错误；strict 升档留 s3/r3）。
 * **语体审阅**（2026-11-14 用户裁定增项）：破折号逐处审阅——只承担真正的插入、转折与解释，句法功能与可读性判定（[02](02-style.md)“破折号节制”）；量词“一个”滥用审阅——仿破折号限制，语义判定不按个数机械计数（[02](02-style.md)““一个”节制”）；AI 腔与套话审阅——增译套话、空洞拔高、模糊归因、公式化排比、高频词密度（[02](02-style.md)“AI 腔与套话”）。结论入 evidence。
 * **凭证**：三向比对记录（逐段＋全局，可复核形态）＋机检输出，登记任务 steps evidence。
 * **修复路径**（发现问题时三层落位，[ADR-0040](adr/0040-审计已译环节与题注编号.md)）：yuanwen 轴系统性缺陷→逐条独立修订 `tools/yuanwen.py` 等转换器（每缺陷一处修订＋单测锁定）→定点/全量重转→回归扫描 OTHER=0，**禁止手改转换产物**；en 轴→ADR-0038 四类并登记 errata；译文轴→证据链修复（禁经 clear、禁机械批量替换）。问题按条目独立处置，禁止跨条目批量套改。
-* **已完成条目回炉**：所有已译词条（drafted 及其后，含 done）必须重走本环节＋一次独立校对（独立于初译 actor，[ADR-0020](adr/0020-译文语言质量门禁.md)）；执行载体为 specs/023 三向回归审校战役，修复按上文三层落位，已 done 词条不走 reopen。
+* **已完成条目回炉（ADR-0043 全量回退取代 ADR-0040 决策 5）**：A1 连接号归一波及的 185 件（done 170＋r1 3＋s3 12）与非 A1 在途 s3_checked/r1 件经受控回退原语定位 **s2.5_checked**，重走本环节增项＋s3（增补后）＋**r 链全重走**；非 A1 的 done 存量不回状态机，由 specs/023（并入 specs/028）按增项补课、台账为凭证；执行载体与清单见 specs/028。
 
 ### 复核独立性与问题分级（ADR-0020）
 
-* **MQM Core 映射**：一校对 Accuracy（误译／漏译／增译／未译）；二校对 Fluency 与 Style（语法、欧化、语域）；三校对 Terminology 与 Locale Convention（登记册一致性、标点体例）；初审至终审做 Verity 抽查与整体验收。
+* **MQM Core 映射**：一校对 Accuracy（误译／漏译／增译／未译）；二校对 Fluency 与 Style（语法、欧化、语域）；**s2.4 术语校对 Terminology（登记册一致性）**；三校对 Locale Convention（标点体例、数字与连接号）；初审至终审做 Verity（受众适切性）抽查与整体验收。
 * **问题分级**：校次发现的问题按 Critical（改变原文立场、事实错误、术语反用）、Major（破句、漏译、成语误用）、Minor（措辞、标点）登记在 evidence；Critical 不得带入 done。
 * **复核独立性**（ISO 17100：校者独立于译者且资质相当）：r1–r3 至少其一应由初译 actor 以外的会话或人工执行；单会话作业时，终审前须冷置（先做其他任务再回读），并在 evidence 记明。执行形态默认值为 [ADR-0020](adr/0020-译文语言质量门禁.md) 裁定②（混合制：r2 交叉、r3 冷置重读，评审线接管见 specs/005 §6）；r1–r3 与初译 actor 全同时，`task_ops` 在 r3 机检 evidence 须含"冷置"记明。
 

@@ -2,7 +2,7 @@
   "slug": "george-eliot",
   "kind": "retranslate",
   "zh_doc": "g/george-eliot.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "G-main-20261112",
       "at": "2026-11-12T10:18:58Z",
       "evidence": "G 批 george-eliot 收口 done：131 段账本双版，39903 字符；期间遭并行 clear 抹稿，按批脚本复原并重放润色；全周期无子代理"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "s3_checked",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "C-main-20261109",
       "at": "2026-11-09T04:19:30Z",
       "evidence": "三校（体例/术语/格式）收口：①体例 check_style --strict 0 issue（含加粗标记形态：星内空格 ** 词 ** 43 处全数归一为 **词** 并补体外空格，源自生成器 bold_spacing 缺陷已修于 script/c30_compose.py，重跑 compose 与正文逐字符一致）；②术语 check_terms 0 硬错误；术语登记册补登 6 行（说明性实在论/红移/完美宇宙学原理/稳恒态宇宙学/多普勒频移/world structure）；③学术 check_academic --strict 0 硬错误、check_math 0 缺式 0 不平衡；④结构对账：marker 123:123、defs 62:62、年份集合 49:49 全等、公式 0、图片 0；H2 13:12、H3 26:27 之差为源『### Acknowledgments』按模板归一为『## 致谢』（合规）；⑤H1 与 SUMMARY 定名逐字符一致；尾部节序 正文→REFERENCES（引用注释）→学术工具→其他网络资源→相关词条→致谢，符合模板 §4；⑥反思步（ADR-0021 双版互异）：step1==step2 由 29 段降至 9 段，均为引文块（p28 Milne 1934a、p37 Robertson 1935、p41 Whittaker 1941、p49 Dingle 1937、p58 McCrea 1939、p66 McCrea 1939、p77 Bondi 1960、p84 Bondi 1990、p88 Bondi 1960、p90 Bondi 1960）——引文照译即定稿，step2 无需二次润色，逐条登记豁免；其余 12 段已补写真正的第二版（p8/p9/p10/p12/p13/p14/p15/p19/p20/p23/p24/p67）；⑦prose 残留 8 条已逐条留痕：6 条引文（p28/p37/p41/p49/p79/p98）照译不改写，2 条正文（p11『不幸，两解预言的宇宙都很极端：爱因斯坦的密布物质，德西特的近乎空无』系专名省略指代的必要『的』；p39『他在《自然》（*Nature*）发表刻薄书评…』81 字含书名斜体括注与引注）判为非欧化；⑧markdownlint 本地未安装，按既往成例交由 CI 终裁；⑨check_all 7/7 全绿（顺带修复跨批红项：g/gianfrancesco-pico.md H1 与 SUMMARY 不符）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

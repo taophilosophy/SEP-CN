@@ -2,7 +2,7 @@
   "slug": "korean-confucianism",
   "kind": "retranslate",
   "zh_doc": "k/korean-confucianism.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "REV2-main-20261114",
       "at": "2026-11-13T19:45:59Z",
       "evidence": "收口：korean-confucianism 全周期九步完成（clear→draft→s1→s2→s3→r1→r2→r3→done），r1 回源实修 1 处（all-seeing→无所不见），登记 27 人名在册，四检与 check_all 9/9 全绿，版本钉 pubinfo 2026-04-15/Summer 2026/SHA-256 513f16fe 在位"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

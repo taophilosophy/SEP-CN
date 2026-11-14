@@ -2,7 +2,7 @@
   "slug": "james-ward",
   "kind": "retranslate",
   "zh_doc": "j/james-ward.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-02T22:07:48Z",
       "evidence": "done 收口：r1 逐段对照（六节全在位、页码全核销）+r2 九处定点修（体例/引语统一/增象/贬义/无源加粗/篇名引号形态）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103，与 james/joane-petrizi/justice-virtue 同标准；F-K 批 s3_checked 队列至此清零"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

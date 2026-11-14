@@ -2,7 +2,7 @@
   "slug": "hare",
   "kind": "retranslate",
   "zh_doc": "h/hare.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-03T16:46:52Z",
       "evidence": "done 收口：draft（主词条账本对齐 120 段守恒+compose 35824 字符；补充材料 33 段新账本+成稿）+s1（幻觉/漏译/增译 0，定点修 5+75 体例+关联词条对齐）+s2/s3（引文 30+ 处与术语全核销、四道门禁全绿）+r1（九节+补充材料全核销、脚注 94 条逐字、抽查 5 处）+r2/r3 复认；独立复核人 ses-FGHIJK-main-1103；主词条+补充材料同周期收口；cleared 队列直译首条完成"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "cosmopolitanism",
   "kind": "retranslate",
   "zh_doc": "c/cosmopolitanism.md",
-  "state": "s3_checked",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "C-main-20261109b",
       "at": "2026-11-09T10:30:30Z",
       "evidence": "三校体例终验：check_style 0 issue（引号弯形、中西文半角空格、** 内侧无空格、无 HTML）；markdownlint-cli2 该文件 0 错；术语主形归一 2 处（保护主义→贸易保护主义）；尾部节序 脚注并入现制 References 定义区→参考文献→学术工具（四行）→其他网络资源→相关词条，h2 序合规；版本行与源 pubinfo 逐字一致；H1 与 SUMMARY 逐字一致（check_summary 0 硬）；脚注定义 118 条与 yuanwen 逐键一致；数学 0 公式（本条无公式，check_math 空集）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "intuitionism",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "I-main-20261110",
       "at": "2026-11-09T19:44:25Z",
       "evidence": "I 批倒序 #69 收口：账本 154 段守恒、成稿 37144 字符、六道留痕齐备；done"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

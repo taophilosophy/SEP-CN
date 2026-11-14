@@ -2,7 +2,7 @@
   "slug": "lvov-warsaw",
   "kind": "retranslate",
   "zh_doc": "l/lvov-warsaw.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-09T19:33:53Z",
       "evidence": "done 收口：四门禁 + check_terms/check_summary 全绿（style 0 / prose 0 / math 0 / academic strict 0 硬错误 / terms 硬错误 0 / H1 一致）；r1–r3 冷置间隔为 logic-infinitary 等三条在途条目；补充材料页与图片已入库"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

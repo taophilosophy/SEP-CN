@@ -2,7 +2,7 @@
   "slug": "han-dynasty",
   "kind": "retranslate",
   "zh_doc": "h/han-dynasty.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "H-main-20261110b",
       "at": "2026-11-10T18:43:13Z",
       "evidence": "qa-rework：补做 ADR-0011 中国文献汉化（done 后定点纠正，不经 clear）。书目 32 条中国典籍由全罗马化还原为中文主形并保留罗马字括注（《论语》《荀子》《道德经》《吕氏春秋》《楚辞》《公羊传》《左传》《韩非子》《商君书》《新语》《新书》《春秋繁露》《淮南子》《法言》《太玄经》《新论》《论衡》《女诫》《潜夫论》《中论》《孔子家语》《孔丛子》《论语集解》《说文解字》《白虎通德论》《盐铁论》《汉书》《黄帝内经》《列女传》《弘明集》《后汉书》《三国演义》），修复本节「中国文献译为中文」说明与实文不符之欠账；biblio-chinese-untranslated 告警由 11 行降至 5 行，余 5 行经逐条判定为英文研究专著（Hunter 2018 Brill / Loewe 2011 Brill / Major 1993 SUNY / Roth 2015 Liu 2015 卷 / Vankeerberghen 2001 SUNY），按 ADR-0011「判据是条目语言而非主题」维持照录，属探针疑似误报，留此判读；复检 check_academic --docs --strict 仅余该 5 行单据；check_style 0；lq check 105 段守恒 OK（converted 行不涉段落正文）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

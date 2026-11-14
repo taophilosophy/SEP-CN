@@ -2,7 +2,7 @@
   "slug": "peirce-benjamin",
   "kind": "retranslate",
   "zh_doc": "p/peirce-benjamin.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "OP-CN-20261109",
       "at": "2026-11-09T01:31:10Z",
       "evidence": "done：六道全过（draft→s1→s2→s3→r1→r2→r3）。p 批首件收口：p 批 done=1/165，o 批 done=8/21 不变；全局 done 计数以 PROGRESS.md 生成物为准。复核独立性：本会话既译且审，r1–r3 以冷置回读执行并在各步 evidence 记明（rules/04 单会话形态）。登记留痕：本词条新增术语 14 行、人名 4 行（ren-ming-biao/yi-zhe-shuo-ming），暂存构造（script/stage_append.py）后确认与工作区行文一致；该两册已被并行会话提交 4c973dae 先行卷入 HEAD（MM→clean），登记内容已在库，本会话不再重复提交。后处理工具沉淀：script/op_postfix.py（OIR 圆点→星号、年份起头文献定义补空行，幂等）、script/adv.py（task_ops 步进调用器，绕开 PowerShell 对中文弯引号的词法歧义）、script/stage_append.py（共享登记册并发场景只暂存己方行）。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

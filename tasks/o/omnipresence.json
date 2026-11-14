@@ -2,7 +2,7 @@
   "slug": "omnipresence",
   "kind": "retranslate",
   "zh_doc": "o/omnipresence.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "O-main-20261111",
       "at": "2026-11-11T04:00:47Z",
       "evidence": "done 收口（O-main-20261111）：r1–r3 冷置回读全过，Critical 0 / Major 0 / Minor 10 已实修；四检与 lint 全绿、守恒门 OK、H1=SUMMARY。批次备注见 specs/005-translation-campaign/o-wave-20261111.md §5。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

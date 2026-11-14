@@ -2,7 +2,7 @@
   "slug": "illumination",
   "kind": "retranslate",
   "zh_doc": "i/illumination.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "I-main-20261110",
       "at": "2026-11-09T23:06:38Z",
       "evidence": "I 批 s3 存量收口：90 段守恒、成稿 45038 字符、六道留痕齐备；done"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

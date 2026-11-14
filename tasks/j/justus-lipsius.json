@@ -2,7 +2,7 @@
   "slug": "justus-lipsius",
   "kind": "retranslate",
   "zh_doc": "j/justus-lipsius.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "J-main-20261109",
       "at": "2026-11-09T07:51:37Z",
       "evidence": "终审签字：六道全过（账本 53 段身份对齐、守恒 HARD=0），四检全绿；体例（文言→白话 52 段）与反欧化（prose 34→11）双修完毕；成品 j/justus-lipsius.md 32,810 字符"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

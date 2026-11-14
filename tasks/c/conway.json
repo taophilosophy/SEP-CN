@@ -2,7 +2,7 @@
   "slug": "conway",
   "kind": "retranslate",
   "zh_doc": "c/conway.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T23:50:31Z",
       "evidence": "done 收口：九步入状态机齐，复审由初译 actor 以外会话执行（ADR-0020 独立性），prose 16→3 逐条留痕；词条 5118 汉字（文件实况），源 4,173 词，49 条脚注定义、References（引用注释）+原始文献/二手文献小节、学术工具 4 行、其他网络资源、相关词条（含译注行）齐备"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

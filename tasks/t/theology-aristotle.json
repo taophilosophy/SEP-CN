@@ -2,7 +2,7 @@
   "slug": "theology-aristotle",
   "kind": "retranslate",
   "zh_doc": "t/theology-aristotle.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "R-main-20261110",
       "at": "2026-11-10T05:23:45Z",
       "evidence": "r1–r3 收口，四门禁绿、账本守恒、结构对账判读完毕（含源字上标照录与页码区间归一）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

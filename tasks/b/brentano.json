@@ -2,7 +2,7 @@
   "slug": "brentano",
   "kind": "retranslate",
   "zh_doc": "b/brentano.md",
-  "state": "r1_reviewed",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "B-batch-main-20261114",
       "at": "2026-11-13T18:33:42Z",
       "evidence": "r1 全文回源自审：逐段对照 yuanwen/b/brentano.md 全 7 节+References，引文双语对（德语原文〔〕括注）逐一在位，源文拼写错误（letzen/biter/Jan Masaryk/McAlisdair/&dash;/kriegel-2018 尾逗号/References 空标题结构）均照录不修；Jan Masaryk 源文事实错误已按 rules/07 加译注留痕。pubinfo 对 baseline 钉一致（2002-12-04/2019-01-30）。机器复检：check_style --strict 0、check_academic --strict 0、check_math 0；check_prose 余 54 条与 s2 豁免类一致（de-chain 概念链/源文等长长句/引文内被动），L161 as-one 判读为 contains the substance as a part 忠实直译非冠词直译，豁免留痕。实修 6 类：①pubinfo 斜体改粗体对齐源文与库内体例 ②LW 缩写误扩《论道德认识的本源》改回源文形 *LW*（源文缩写表 LW=Meine letzten Wünsche，引文内容出处系源文自身错位，照源）③清 8 个 U+200B 零宽字符（4 处×2 连个，转换残留）④goals in a soccer game 目标→进球 ⑤first Vatican Council 第一次梵蒂冈会议→第一次梵蒂冈大公会议 ⑥埃伦费尔斯→厄棱费尔×4 回改对齐登记册家法定名（registry Ehrenfels 行：SUMMARY/mu-lu-s 既有定形沿用）。语体结论：现代汉语学术书面语，无文言仿古，破折号未滥用。登记册补 3 行（Kastil/Lieben/Ruprecht；Zeller 行由并行会话抢先登记同译名，跳过重插），registry_azsort 守恒 4562 行周界 0；相关词条行 塔多斯基/厄棱费尔 系 SUMMARY 定名镜像按规则不动"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

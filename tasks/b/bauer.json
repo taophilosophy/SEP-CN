@@ -2,7 +2,7 @@
   "slug": "bauer",
   "kind": "retranslate",
   "zh_doc": "b/bauer.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-11-08T03:39:25Z",
       "evidence": "r1 收口后自检补漏：pubinfo 行源形对齐（源文 **First published…** 加粗，译文误用斜体 *首次发表于…*）→ 已改为加粗形，与非加粗斜体家法区分无涉（pubinfo 形态随源文：全库加粗 117/斜体 171 并存）（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

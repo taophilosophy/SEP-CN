@@ -2,7 +2,7 @@
   "slug": "redistribution",
   "kind": "retranslate",
   "zh_doc": "r/redistribution.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-06T00:36:35Z",
       "evidence": "done：六道全过（pending→cleared→drafted→s1→s2→s3→r1→r2→r3→done 凭证链完整），redistribution 为 RZ 会话 r 批第 6 个收口件（r 批 done=6/85），r–z 合计 done=7/385"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

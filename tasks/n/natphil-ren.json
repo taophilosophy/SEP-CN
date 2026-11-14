@@ -2,7 +2,7 @@
   "slug": "natphil-ren",
   "kind": "retranslate",
   "zh_doc": "n/natphil-ren.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "ZCode-N-20261110",
       "at": "2026-11-10T20:32:58Z",
       "evidence": "收口：四检全绿（style/prose 各 0、academic 无硬错误、math 0 式）、结构对账一致、语体结论留痕、r1 语体与破折号按 rules/02 新条款整句重译修订；词条 done"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

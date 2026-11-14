@@ -2,7 +2,7 @@
   "slug": "prophecy",
   "kind": "retranslate",
   "zh_doc": "p/prophecy.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "P-main-20261109",
       "at": "2026-11-09T12:22:58Z",
       "evidence": "收口 done: P 批第 5 条走完全流程(commit 4e2ed6b7 s3+本轮)"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

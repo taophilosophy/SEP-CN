@@ -2,14 +2,17 @@
 """文档任务状态机（FR-011/012/013；状态图见 specs/001-sep-sync-pipeline/data-model.md）。
 
 用法: python tools/task_ops.py <命令> <slug> [参数]
-命令: show / create / advance / clear / reopen / block
+命令: show / create / advance / clear / reopen / block / revert-state
 状态机（retranslate）:
-  pending → cleared → drafted → s1_checked → s2_checked → audited(审计已译)
-          → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
+  pending → cleared → drafted → s1_checked → s2_checked
+          → s2.4_termchecked(术语校) → s2.5_checked(审计已译) → s3_checked
+          → r1_reviewed → r2_reviewed → r3_reviewed → done
 状态机（update）: pending → s1_checked(仅变更段) → s2_checked(变更段所在节)
-          → audited(仅变更段) → s3_checked(全文档) → r1(仅变更段) → r2(变更段所在节)
-          → r3(全文档) → done
+          → s2.4_termchecked(仅变更段) → s2.5_checked(仅变更段) → s3_checked(全文档)
+          → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
+revert-state：受控回退原语，仅 --to s2.5_checked，仅适用于 s3_checked 及其后状态
+（ADR-0043 全量回退；steps append-only 留史）。
 退出码: 0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。
 """
 import argparse
@@ -26,18 +29,22 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import load_json, repo_path, utcnow_iso, write_json_verified
 
 STEPS = {"draft": "drafted", "s1": "s1_checked", "s2": "s2_checked",
-         "audit": "audited", "s3": "s3_checked", "r1": "r1_reviewed",
+         "s24": "s2.4_termchecked", "s25": "s2.5_checked",
+         "audit": "s2.5_checked",  # s25 兼容别名（ADR-0040 时代步名，ADR-0043 更名）
+         "s3": "s3_checked", "r1": "r1_reviewed",
          "r2": "r2_reviewed", "r3": "r3_reviewed", "done": "done"}
 ORDER = {
     "retranslate": ["pending", "cleared", "drafted", "s1_checked", "s2_checked",
-                    "audited", "s3_checked", "r1_reviewed", "r2_reviewed",
-                    "r3_reviewed", "done"],
-    "update": ["pending", "s1_checked", "s2_checked", "audited", "s3_checked",
-               "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"],
+                    "s2.4_termchecked", "s2.5_checked", "s3_checked", "r1_reviewed",
+                    "r2_reviewed", "r3_reviewed", "done"],
+    "update": ["pending", "s1_checked", "s2_checked", "s2.4_termchecked",
+               "s2.5_checked", "s3_checked", "r1_reviewed", "r2_reviewed",
+               "r3_reviewed", "done"],
 }
 STEP_EXPECT_PREV = {
     "draft": "cleared", "s1": ("drafted", "pending"), "s2": "s1_checked",
-    "audit": "s2_checked", "s3": "audited", "r1": "s3_checked", "r2": "r1_reviewed",
+    "s24": "s2_checked", "s25": "s2.4_termchecked", "audit": "s2_checked",
+    "s3": "s2.5_checked", "r1": "s3_checked", "r2": "r1_reviewed",
     "r3": "r2_reviewed", "done": "r3_reviewed",
 }
 
@@ -134,6 +141,8 @@ def advance(slug, step, actor, evidence, unblock=False):
         raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
     if step not in STEPS:
         raise UsageError("step 必须是 %s" % "/".join(STEPS))
+    if step == "audit":
+        step = "s25"  # 兼容别名（ADR-0043 更名；须在状态迁移校验前归一）
     order = ORDER[task["kind"]]
     cur = task["state"]
     expect = STEP_EXPECT_PREV[step]
@@ -144,14 +153,16 @@ def advance(slug, step, actor, evidence, unblock=False):
         raise PreconditionError("step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, expect, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
-    if step != "done" and task["kind"] == "update" and step in ("s1", "s2", "audit") \
+    if step != "done" and task["kind"] == "update" and step in ("s1", "s2", "s24", "s25") \
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
     if step == "r3" and task.get("kind") != "glossary-maintenance":
         _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
-    if step == "audit" and task.get("kind") != "glossary-maintenance":
+    if step == "s24" and task.get("kind") != "glossary-maintenance":
+        _term_gate(task.get("zh_doc"))  # 术语校挂钩（rules/03/07、ADR-0043）
+    if step == "s25" and task.get("kind") != "glossary-maintenance":
         _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
         _audit_independence_gate(task, actor, evidence)  # 同源盲区对冲（specs/027 FR-001）
     task["state"] = STEPS[step]
@@ -166,6 +177,56 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+def _term_gate(zh_doc):
+    """s2.4_termchecked 校次挂钩：check_terms --docs 定点核销（rules/03/07、ADR-0043）。
+
+    登记册自洽硬错误即拦；告警（滞后/缺裁定日期）留 evidence 不拦。
+    词汇表维护任务与无 zh_doc 条目不设门。
+    """
+    if not zh_doc:
+        return
+    tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                              "tools")
+    r = subprocess.run([sys.executable, _os.path.join(tools_dir, "check_terms.py"),
+                        "--docs", zh_doc], capture_output=True, text=True)
+    if r.returncode == 1:
+        raise PreconditionError("术语一致性门禁未通过（s2.4 校次）：%s"
+                                % r.stdout.strip()[-800:])
+
+
+def revert_state(slug, to_state, reason, actor):
+    """受控状态回退原语（026 T0 设计，ADR-0043 更名目标态）。
+
+    仅接受 --to s2.5_checked；仅适用于 state ∈ {s3_checked, r1_reviewed,
+    r2_reviewed, r3_reviewed, done}；steps 追加 revert 记录（append-only），
+    不触碰正文与既有 steps/evidence。reason 必填（回退依据：任务书/裁定）。
+    """
+    task = load_task(slug)
+    if not task:
+        raise TaskNotFound(slug)
+    if to_state != "s2.5_checked":
+        raise UsageError("revert-state 仅支持 --to s2.5_checked（ADR-0043 决策 5）")
+    if task.get("kind") == "glossary-maintenance" or task.get("kind") not in ORDER:
+        raise PreconditionError("revert-state 不适用于非词条任务")
+    if not str(reason or "").strip():
+        raise UsageError("revert-state 必须写明回退依据（--reason）")
+    if not str(actor or "").strip():
+        raise UsageError("actor 必填（写入路径追责字段）")
+    if task.get("blockers"):
+        raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
+    if task["state"] not in ("s3_checked", "r1_reviewed", "r2_reviewed",
+                             "r3_reviewed", "done"):
+        raise PreconditionError(
+            "revert-state 要求状态 s3_checked/r1/r2/r3/done，当前 %s（s2.5 之前的任务未经回退点，"
+            "按新状态机自然推进）" % task["state"])
+    task["steps"].append({"step": "revert-state", "status": "ok", "actor": actor,
+                          "at": utcnow_iso(),
+                          "evidence": "回退到 s2.5_checked；依据：%s" % reason})
+    task["state"] = "s2.5_checked"
+    save_task(task)
+    return task
 
 
 def _audit_independence_gate(task, actor, evidence):
@@ -357,6 +418,13 @@ def main(argv=None):
         if cmd == "block":
             args = _parse(["--reason"], argv[2:])
             print(json.dumps(block(slug, args.get("reason") or "unspecified"),
+                             ensure_ascii=False, indent=2))
+            return 0
+        if cmd == "revert-state":
+            args = _parse(["--to", "--reason", "--actor"], argv[2:])
+            print(json.dumps(revert_state(slug, args.get("to"),
+                                          args.get("reason"),
+                                          args.get("actor")),
                              ensure_ascii=False, indent=2))
             return 0
         raise UsageError("未知命令: %s" % cmd)

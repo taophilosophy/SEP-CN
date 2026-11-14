@@ -2,7 +2,7 @@
   "slug": "conscience",
   "kind": "retranslate",
   "zh_doc": "c/conscience.md",
-  "state": "s3_checked",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "C-main-20261108b",
       "at": "2026-11-08T05:11:52Z",
       "evidence": "三校收口（复验+补课）：结构五维全等——段落账本 93 段（body 92 + oir 1）；H2 11:11（7 正文节+References/学术工具/其他网络资源/相关词条）、H3 3:3 全汉化；marker 198:198 且键集全等（ASCII 归一）；defs 83:83 键集全等，书目照录无中国文献（ADR-0011 无还原项）；相关词条 7 条按 SUMMARY 定名映射（integrity→诚信 遵 SUMMARY 定名）。四检：check_style 0、check_prose 1/1 引文豁免、check_academic --strict 0 硬错误、check_math 0 公式 0 缺失/不平衡、biblio_audit 83 条 0 flagged、markdownlint MD004 已修（其他网络资源 dash→asterisk）。术语登记 5 行已在案（conscience/synderesis/impartial spectator/conscientious objection/Super-Ego，conscience 首译）；人名登记本会话补 3 行。R-main 评审线接管 r1–r3。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

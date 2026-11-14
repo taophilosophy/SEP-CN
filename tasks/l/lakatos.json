@@ -2,7 +2,7 @@
   "slug": "lakatos",
   "kind": "retranslate",
   "zh_doc": "l/lakatos.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "LQ-main-20261105",
       "at": "2026-11-05T21:11:49Z",
       "evidence": "done：六道全过，lakatos 为 l 批第 2 件收口件（l 批 done=2/144）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

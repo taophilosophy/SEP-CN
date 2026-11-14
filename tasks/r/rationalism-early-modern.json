@@ -2,7 +2,7 @@
   "slug": "rationalism-early-modern",
   "kind": "retranslate",
   "zh_doc": "r/rationalism-early-modern.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "OPQR-main-20261108",
       "at": "2026-11-08T11:51:09Z",
       "evidence": "终稿验收签字（rules/04 r3 合格凭证：CI 全绿 + 验收签字）：本地七门禁 check_all 全绿，本文定点四检（style/academic/math/summary）0 硬错误，markdownlint 0 错误；正文与源 66 标题逐序对位，脚注键闭环；r3 实修 Minor 1 处（18ᵗʰ 上标）；r1–r3 均由初译 actor（OR-main-20261107）以外会话执行（r2 QR-main-20261108、r3 OPQR-main-20261108），满足 ADR-0020 复核独立性。任务收口 done（22 步全链，version_pin Summer 2026）。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

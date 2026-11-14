@@ -2,7 +2,7 @@
   "slug": "cloning",
   "kind": "retranslate",
   "zh_doc": "c/cloning.md",
-  "state": "s3_checked",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T17:35:28Z",
       "evidence": "三检全绿：check_style --strict 0、check_academic --strict 0 硬错误、check_math 0/0、check_terms 0 硬错误；prose 残余 12 全为术语内嵌『进行』豁免；人名体例修正（现代学者保留英文：Ian Wilmut；黄禹锡首现括注）+ 人名登记 3 行/术语登记 14 行"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

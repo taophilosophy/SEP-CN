@@ -2,7 +2,7 @@
   "slug": "iamblichus",
   "kind": "retranslate",
   "zh_doc": "i/iamblichus.md",
-  "state": "s3_checked",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "I-main-20261113",
       "at": "2026-11-13T00:01:04Z",
       "evidence": "终检对账：正文键 44=源 44 零差；阿尔库塔斯按登记册 boethius 行回改 9 处、西里阿努斯按 SUMMARY 定名回改 14 处、杨布里科斯形统一 21 处、斯多亚形统一 6 处；守恒门复跑 105 段绿；人名 32 行＋术语册补课同批提交"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

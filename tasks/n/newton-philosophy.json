@@ -2,7 +2,7 @@
   "slug": "newton-philosophy",
   "kind": "retranslate",
   "zh_doc": "n/newton-philosophy.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "N-main-20261110",
       "at": "2026-11-09T22:58:24Z",
       "evidence": "done：newton-philosophy 全量重译收口；27,509 英文词 / 66,298 字符 / 128 段账本双版齐备；批次 N 完成度 +1"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:24Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],

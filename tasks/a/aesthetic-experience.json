@@ -2,7 +2,7 @@
   "slug": "aesthetic-experience",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-experience.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "主会话",
       "at": "2026-11-01T07:55:17Z",
       "evidence": "译文验证：check_academic 0 硬错（done）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-14T15:04:23Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
     }
   ],
   "blockers": [],
