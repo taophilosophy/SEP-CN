@@ -1,12 +1,63 @@
-Traceback (most recent call last):
-  File "C:\Users\ykla\Documents\SEP-CN\specs\023-triple-regression-audit\bin\t023_containment.py", line 23, in <module>
-    SUBSUP = str.maketrans('₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹ⁿ⁺⁻'
-             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
-                           'ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ'
-                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<2 lines>...
-                           'abcdefghijklmnopqrstuvwxyz'
-                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                           'βγρφχ')
-                           ^^^^^^^^
-ValueError: the first two maketrans arguments must have equal length
+===== altruism-empirical ===== en 行 37 | 丢失 0
+===== consciousness-representational ===== en 行 5 | 丢失 0
+===== future-contingents ===== en 行 46 | 丢失 0
+===== information-entropy ===== en 行 34 | 丢失 0
+===== logic-connexive ===== en 行 100 | 丢失 0
+===== lukasiewicz ===== en 行 40 | 丢失 0
+===== mally-deontic ===== en 行 111 | 丢失 2
+    表5 行0: 1. A → ((!B → !B) & (B → A)) [ PC ] [ 8 ]
+    表6 行2: 3. ¬((U → !A) & (A → ∩)) → (!A → A) [ PC ] [ 9 ]
+===== medieval-syllogism ===== en 行 68 | 丢失 0
+===== nonwellfounded-set-theory ===== en 行 142 | 丢失 1
+    表25 行2: V λ = ∪ β<λ V β for λ a limit ordinal
+===== pm-notation ===== en 行 137 | 丢失 1
+    表0 行12: \(\hat{\phantom{x}}\) the circumflex; when placed over a variable in an open formula (as in “\(\phi 
+===== presupposition ===== en 行 32 | 丢失 2
+    表1 行0: Conjunction φ ∧ ψ t f ✭
+    表2 行0: Weak Kleene φ ∧ ψ t f ✭
+===== proof-theory-development ===== en 行 36 | 丢失 0
+===== pythagoras ===== en 行 16 | 丢失 0
+===== reasoning-automated ===== en 行 264 | 丢失 6
+    表16 行1: f(a) <= K /\
+    表16 行2: f(b) <= K /\
+    表16 行4: (!x. a <= x /\ x <= b ==> f(x) <= K)
+    表17 行0: \((\forall i)(\forall j)(0 \le i, j \le 1 \rightarrow \textit{sel}(r, i, j) = \textit{sel}(r, j, i))
+    表17 行1: \((\forall k)(\forall l)(0 \le k, l \le 1 \rightarrow\)
+    表17 行2: \(\textit{sel}(\textit{upd}(\textit{upd}(r, 1, 1, r_{11}), 0, 0, r_{00}), k, l) = \textit{sel}(\text
+===== typelogical-grammar ===== en 行 144 | 丢失 5
+    表3 行0: ( N ) L { n , np , s } /,\ (·)′ LP { e , t } →
+    表12 行1: R wrap ⊆ W i +1 × W j × W i + j the smallest relation s.t. R wrap ( u ⎵ w , v , uvw )
+    表12 行2: R bridge ⊆ W i +1 × W i the smallest relation s.t. R bridge ( u ⎵ v , uv )
+    表12 行3: wrap k : W i +1 × W j → W i + j wrap k ( s , t ) is the result of replacing the k -th separator in s
+    表12 行4: bridge k : W i +1 → W i bridge k ( s ) is the result of replacing the k -th separator in s by 1
+===== zeno-elea ===== en 行 7 | 丢失 0
+===== logic-dialogical ===== en 行 277 | 丢失 0
+===== ibn-sina-logic ===== en 行 84 | 丢失 3
+    表3 行0: Hyp. Barbara \(\mathbb{C}\textrm{-}\mathbb{C}\textrm{-}\mathbb{C}\) \((\textrm{a-}\mathbb{C})rq\); \
+    表7 行0: Hyp. Barbara* \(\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})\) BaC; \((\tex
+    表11 行0: Hyp. Barbara \((\textrm{a-}\mathbb{C})\textrm{-Cat-}(\textrm{a-}\mathbb{C})\) \((\textrm{a-}\mathbb{
+===== situations-semantics ===== en 行 21 | 丢失 0
+===== lambda-calculus ===== en 行 43 | 丢失 1
+    表5 行0: Combinator Type [ 5 ]
+===== logic-conditionals ===== en 行 65 | 丢失 1
+    表8 行0: OI \((A\vee B) \supset(\neg A >B)\) (Or to If)
+===== logic-deontic ===== en 行 31 | 丢失 1
+    表3 行3: \(\vdash \OB p \rightarrow \Diamond p\) (“Kant’s Law”) [ 37 ]
+===== pascal-wager ===== en 行 19 | 丢失 0
+===== sign-language-semantics ===== en 行 5 | 丢失 3
+    表0 行1: Narrow endpoints small amount, slowly small amount, quickly
+    表0 行2: Medium endpoints medium amount, slowly medium amount, quickly
+    表0 行3: Broad endpoints large amount, slowly large amount, quickly
+===== findlay ===== en 行 12 | 丢失 0
+===== mereology ===== en 行 138 | 丢失 23
+    表11 行0: (P.4 a ) Company PP xy → ∃ z (PP zy ∧ ¬ z = x )
+    表11 行2: (P.4) Supplementation [ 14 ] PP xy → ∃ z (P zy ∧ ¬O zx ).
+    表14 行0: (P.4′) Proper Supplementation [ 15 ] PP xy → ∃ z (PP zy ∧ ¬O zx ).
+    表19 行0: (ID′) x = y → ∀ t (φ t x ↔ φ t y ).
+    表20 行0: (28′) x = y → ∀ t ∀ z (PP t zx ↔ PP t zy ).
+    表24 行0: (P.6) Complementation [ 20 ] ¬P yx → ∃ z ∀ w (P wz ↔ (P wy ∧ ¬O wx )).
+    表42 行0: (39 1 ) Sum 1 [ 24 ] S 1 zxy = df P xz ∧ P yz ∧ ∀ w ((P xw ∧ P yw ) → P zw )
+    表43 行0: (P.12 ξ, i ) ξ- Sum i ξ xy → ∃ z S i zxy .
+    表44 行0: (40 i ) x + i y = df ℩ z S i zxy .
+    表45 行0: (41) x = x + i x
+    ...共 23 行
