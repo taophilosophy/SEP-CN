@@ -1,17 +1,48 @@
 {
  "seed": 20261115,
- "pool_size": 198,
- "sample": [
-  "adorno",
-  "buddha",
-  "ecological-genetics",
-  "evil-kinds-origins",
-  "justice-moral-psych",
-  "locke-on-medicine",
-  "novalis",
-  "penbygull",
-  "rationalism-early-modern",
-  "zabarella"
+ "pool": 198,
+ "top5_by_formulas": [
+  {
+   "slug": "logic-provability",
+   "total": 358,
+   "block": 35,
+   "inline": 323
+  },
+  {
+   "slug": "intuitionism",
+   "total": 294,
+   "block": 31,
+   "inline": 263
+  },
+  {
+   "slug": "epsilon-calculus",
+   "total": 227,
+   "block": 25,
+   "inline": 202
+  },
+  {
+   "slug": "boolalg-math",
+   "total": 173,
+   "block": 7,
+   "inline": 166
+  },
+  {
+   "slug": "diodorus-cronus",
+   "total": 171,
+   "block": 0,
+   "inline": 171
+  }
  ],
- "anchor": "logic"
+ "random10": [
+  "august-rehberg",
+  "bayle",
+  "delmedigo",
+  "ehrenfels",
+  "intensional-trans-verbs",
+  "locke-on-medicine",
+  "obligationes",
+  "quantum-bayesian",
+  "redistribution",
+  "ricoeur"
+ ]
 }

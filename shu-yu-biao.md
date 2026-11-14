@@ -48,7 +48,7 @@
 | absolute adjectives | — | 绝对形容词 | 首译（experimental-aesthetics） | 语言学通行（与相对形容词二分） | 2026-11-09 |
 | absolute geometry | — | 绝对几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | absolute idealism | — | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| absolute music | — | 绝对音乐 | music | 学界通行（与标题音乐对举）；凭证 2026-11-09 | 2026-11-09 |
+| absolute music | — | 绝对音乐（亦作“纯音乐”） | music | 学界通行（与标题音乐对举）；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定《音乐名词》形“纯音乐”，音乐美学文献“绝对音乐”通行，两形并存） | 2026-11-15 |
 | absolute power (of God) | — | 上帝的绝对权能 | condemnation 首译 | 学界通行汉译（potentia Dei absoluta）；凭证 2026-11-08 | 2026-11-08 |
 | absolute space | — | 绝对空间 | newton-principia | 物理学通行（牛顿《原理》定义附释）；凭证 2026-11-11 | 2026-11-11 |
 | absolute term | — | 绝对词项 | ockham | 王路译本《逻辑大全》作“绝对的名”；与含蓄词项对偶；凭证 2026-11-07 | 2026-11-07 |
@@ -567,13 +567,13 @@
 | being-with-death | — | 与死共存 | existentialism-mexican | 本词条义译（Uranga 死亡观）；与“向死存在”对举；凭证 2026-11-12 | 2026-11-12 |
 | belief base | — | 信念基 | belief-merging | 学界通行（信念修正与信念合并文献，与知识库对举）；凭证 2026-11-10 | 2026-11-10 |
 | belief change | — | 信念变化 | belief-merging | 学界通行（Fermé & Hansson《Belief Change》语境）；凭证 2026-11-10 | 2026-11-10 |
-| belief contraction | — | 收缩 | belief-merging | AGM 研究通行（与修正、扩充对举）；凭证 2026-11-10 | 2026-11-10 |
-| belief expansion | — | 扩充 | belief-merging | AGM 研究通行（与修正、收缩对举）；凭证 2026-11-10 | 2026-11-10 |
+| belief contraction | — | 收缩（亦作“信念收缩”） | belief-merging | AGM 研究通行（与修正、扩充对举）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定复合形） | 2026-11-15 |
+| belief expansion | — | 扩充（亦作“信念扩展”） | belief-merging | AGM 研究通行（与修正、收缩对举）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定复合形） | 2026-11-15 |
 | belief formation | — | 信念形成 | 语料回收 | 学界惯例（认识论通行）；审定库无相关命中（凭证 2026-10-31）；审定“信念”复合词群佐证（凭证 2026-10-31） | 2026-10-31 |
 | belief function | — | 信念函数（亦作“信度函数”） | 首现（imprecise-probabilities） | 学界惯例（Dempster-Shafer 理论通行）；凭证 2026-11-08；2026-11-15 联网复核补亦作（证据理论文献“信念函数/信度函数”并存；审定“可信度函数”多指 plausibility function 似真函数，分义注记） | 2026-11-15 |
 | belief fusion | — | 信念融合 | belief-merging | 学界通行（信念合并文献 fusion 对译）；凭证 2026-11-10 | 2026-11-10 |
 | belief inertia | — | 信念惰性 | 首现（imprecise-probabilities） | 构词直译（Sturgeon 术语）；凭证 2026-11-08 | 2026-11-08 |
-| belief merging | — | 信念合并 | belief-merging | 学界通行（人工智能与形式认识论文献）；凭证 2026-11-10 | 2026-11-10 |
+| belief merging | — | 信念合并（亦作“信念融合”） | belief-merging | 学界通行（人工智能与形式认识论文献）；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定形） | 2026-11-15 |
 | belief profile | — | 信念剖面 | belief-merging | 本表既有“剖面”（profile）派生；凭证 2026-11-10 | 2026-11-10 |
 | belief revision | — | 信念修正 | logic-preference | AGM 研究通行 | 2026-11-05 |
 | belief set | — | 信念集 | epistemology-latin-america 首译 | 学界通行（AGM 文献） | 2026-11-11 |
@@ -621,8 +621,8 @@
 | biopower | — | 生命权力 | disability | 学界通行译名（福柯 biopouvoir）；凭证 2026-11-09 | 2026-11-09 |
 | biostatistical theory of disease | — | 疾病的生物统计理论 | cancer | 学界通行（Boorse 疾病理论）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | biran | 必然 | 必然（imperative） | dai-zhen | 戴震哲学术语：当然之则，与“自然”对举（英 imperative）；凭证 2026-11-07 | 2026-11-07 |
-| bisimulation | — | 互模拟 | logic-dynamic | 模态逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
-| bit commitment | — | 比特承诺 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| bisimulation | — | 互模拟（亦作“双模拟”） | logic-dynamic | 模态逻辑通行译法；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定《计算机科学技术名词》形“双模拟”，理论计算机科学文献两形并行） | 2026-11-15 |
+| bit commitment | — | 比特承诺（亦作“比特承诺问题”） | qt-entangle | 密码学通行译名；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定量子密码文献复合形） | 2026-11-15 |
 | bitai | 媚態 | 媚态 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“媚态”） | 2026-11-02 |
 | bitmap / bitmapping | — | 位图／位图化 | digital-art 首译 | 计算机图形学通行（bitmap 位图）；凭证 2026-11-10 | 2026-11-10 |
 | bivalence | — | 二值原则 | lvov-warsaw；dialectical-school | 逻辑学通行译法；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
