@@ -293,7 +293,7 @@ The first two concern the issue of free will and moral responsibility; the secon
 
 Price distinguishes, in a way that anticipates Kant, two ways in which my action may be free: the first, physical liberty, is freedom to choose; the second is moral autonomy. Freedom of choice is required for agency and hence for moral responsibility. But that freedom allows us to act wrongly as well as rightly, to be irrational as well as rational, to go astray as well as to go aright. When we go astray, Price contends, by doing something we know we shouldn’t, we feel ourselves unfree, in that we have lost control. We lack self-mastery or moral autonomy: we have succumbed to temptation, instead of obeying the moral law. As with Kant, moral autonomy is the triumph of both rationality and morality over countervailing desires, since we always have most reason to fulfill our moral obligations. Price contends also, in good Platonic fashion, that when we follow virtue we do what we (really) want. It is fairly common to distinguish those parts of one’s personality with which one identifies, and that are taken to be its central core, and those impulses that are seen as external, alien, or even threatening. The metaphor of addiction or enslavement is virtually irresistible in explaining this distinction: we are under attack by passions which can take control of us if we are not careful, so that we no longer do what *we* want to do, but what these alien forces or siren voices tempt us to do. If we give in too often we will have lost the battle and our autonomy; we will no longer be in charge of our own lives, but succumb to what we reject, and even hate. Some philosophers hold that the agent has considerable choice in determining which parts of her personality are central and which peripheral. Price claims, however, that the central core of our identity is metaphysically fixed.
 
-> [What] is most properly a *man’s self* … is … not his passions, but his reason or his judgment, prescribing what is right, and prohibiting what is wrong. The conscience of a man is the man; the reflecting principle is our supreme principle. It is what gives our distinction as intelligent creatures; and whenever we act contrary to it, we violate our natures, and are at variance with ourselves. (Price 1816: 208, quoted in D. O. Thomas 1977: 170)[^thomas-1977]
+> [What] is most properly a *man’s self* … is … not his passions, but his reason or his judgment, prescribing what is right, and prohibiting what is wrong. The conscience of a man is the man; the reflecting principle is our supreme principle. It is what gives our distinction as intelligent creatures; and whenever we act contrary to it, we violate our natures, and are at variance with ourselves. (Price 1816: 208, quoted in D. O. Thomas 1977: 170)[^price-1816][^thomas-1977]
 
 In short, physical liberty is a necessary condition of the capacity to direct one’s actions at all; moral liberty is exercising that agency to direct one’s actions as normative reality requires.
 
@@ -396,35 +396,35 @@ I am very grateful to Eve Garrard and John Roberts for their considerable help a
 
 [^there-nd]: There is currently no up to date complete edition of Price’s works. The relevant historical editions of his works discussed in this article are:
 
-[^there-1759]: 1759, *Britain’s Happiness, and the Proper Improvement of it*, London: A. Millar and R. Griffiths.
+[^price-1759]: 1759, *Britain’s Happiness, and the Proper Improvement of it*, London: A. Millar and R. Griffiths.
 
-[^there-1768]: [D] 1768 [1777], *Four Dissertations*, London: A. Millar and T. Cadell. The fourth edition is 1777. [[D available online](https://archive.org/details/fourdissertatio00pricgoog/page/n7)]
+[^price-1768]: [D] 1768 [1777], *Four Dissertations*, London: A. Millar and T. Cadell. The fourth edition is 1777. [[D available online](https://archive.org/details/fourdissertatio00pricgoog/page/n7)]
 
-[^there-1778]: 1778, *Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom*, London.
+[^price-1778]: 1778, *Two Tracts on Civil Liberty, the War with America, and the Debts and Finances of the Kingdom*, London.
 
-[^there-1778-2]: 1778, *A Free Discussion of the Doctrines of Materialism, and Philosophical Necessity*, (with Joseph Priestley), London: J. Johnson and T. Cadell.
+[^price-1778-2]: 1778, *A Free Discussion of the Doctrines of Materialism, and Philosophical Necessity*, (with Joseph Priestley), London: J. Johnson and T. Cadell.
 
-[^there-1781]: 1781, *A Fast Sermon*, London: T. Cadell.
+[^price-1781]: 1781, *A Fast Sermon*, London: T. Cadell.
 
-[^there-1787a]: 1787a, *A Review of the Principal Questions in Morals*, London: T. Cadell.
+[^price-1787a]: 1787a, *A Review of the Principal Questions in Morals*, London: T. Cadell.
 
-[^there-1787b]: 1787b, *Sermons on the Christian Doctrines as received by the different Denominations of Christians*, London. [[Price 1787b available online](https://archive.org/details/sermonsonchristlond00pric/page/n6)]
+[^price-1787b]: 1787b, *Sermons on the Christian Doctrines as received by the different Denominations of Christians*, London. [[Price 1787b available online](https://archive.org/details/sermonsonchristlond00pric/page/n6)]
 
-[^there-1816]: 1816, *Sermons on Various Subjects*, in William Morgan (ed.), *The Works of Dr. Richard Price. With Memoirs of His Life*, London: R. Rees, [available online](https://books.google.com/books?id=sHz9iW9JgHkC&printsec=frontcover#v=onepage&q&f=false).
+[^price-1816]: 1816, *Sermons on Various Subjects*, in William Morgan (ed.), *The Works of Dr. Richard Price. With Memoirs of His Life*, London: R. Rees, [available online](https://books.google.com/books?id=sHz9iW9JgHkC&printsec=frontcover#v=onepage&q&f=false).
 
 [^modern-nd]: Modern Editions are:
 
-[^modern-1948]: [R] 1948, *A Review of the Principal Questions in Morals*, D. D. Raphael (ed.), Oxford: Oxford University Press.
+[^price-1948]: [R] 1948, *A Review of the Principal Questions in Morals*, D. D. Raphael (ed.), Oxford: Oxford University Press.
 
-[^modern-1991]: [P] 1991, *Political Writings*, D. O. Thomas (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139170239
+[^price-1991]: [P] 1991, *Political Writings*, D. O. Thomas (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139170239
 
 [^correspondence-nd]: *The Correspondence of Richard Price*, D. O. Thomas and Bernard Peach (eds), Durham NC: Duke University Press / Cardiff: University of Wales Press.
 
-[^correspondence-1983]: 1983, *Vol. 1: July 1748 – March 1778*
+[^price-1983]: 1983, *Vol. 1: July 1748 – March 1778*
 
-[^correspondence-1991]: 1991, *Vol. 2: March 1778 – February 1786*
+[^price-1991-2]: 1991, *Vol. 2: March 1778 – February 1786*
 
-[^correspondence-1994]: 1994, *Vol. 3: February 1786 – February 1791*
+[^price-1994]: 1994, *Vol. 3: February 1786 – February 1791*
 
 [^page-1974]: Page numbers for quotations from Price are taken from three editions. Page references prefaced by R are to Raphael’s 1974 edition of *A Review*. Those prefaced by P are to the 1991 collection of Price’s political writings. And those prefaced by D are to the 1777 edition of *Four Dissertations.*
 

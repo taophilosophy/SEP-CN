@@ -173,7 +173,7 @@ That this task is all too frequently eclipsed by more philosophical visions of r
 
 The first volume of *In the Cross of Reality, The Hegemony of Spaces*, is primarily a work of method. It simultaneously provides a critique of the philosophical inheritance that Rosenstock-Huessy argues distorts our social understanding or reflexivity and participation or actualization, whilst excavating more primordial elements, moods, and insights that emerge in social experience. Rosenstock-Huessy’s argument is predicated upon the distinction between spaces of play and living spaces. He claims that play prepares us for life. Thus, like Horace Bushnell (whose work inspired him to rethink his earlier drafting of the first volume of *In the Cross of Reality*) and Johan Huizinga, he sees play as generating crucial conditions of reflexivity.
 
-Socratic philosophy, with its turn to abstract distance and definition, confirms this for him. Socrates, says Rosenstock-Huessy, is the spectator who gives advice to the ‘athletes’ in the intermission (Rosenstock-Huessy, 2009, 1: 107). Rosenstock-Huessy argues that philosophy commences a spatially preoccupied way of thinking, which requires that living processes be stabilized. The collective affirmations and directions of social appeals and socially agreed upon names become essences or substantiations processed by the philosophical mind, which finds itself magically outside of the reality it processes. Philosophical reality becomes populated with metaphysical entities such as the individual, subject, and object, appearance and reality etc. In this mentally sequestered space the mind is only beholden to its own elements and powers. Thus logic can become king in a philosophical world; while we on the earth remain caught up in the forces that accompany the seismic events which shake us into new realities. *The Hegemony of Spaces* claims that this philosophical preoccupation culminates in the mechanistic dissolution of the world into space (exemplified by Descartes’ *The World*): thus too the lived times which we register in the calendar, in holidays, in days of remembrance and prayer etc. are simply dissolved into the mechanics of a spatially derived time or sequential chronology. The response to this process of mechanization is exemplified by Nietzsche’s equally one-sided response to reality—the aestheticization of life and exaggerated emphasis upon the will.
+Socratic philosophy, with its turn to abstract distance and definition, confirms this for him. Socrates, says Rosenstock-Huessy, is the spectator who gives advice to the ‘athletes’ in the intermission (Rosenstock-Huessy, 2009, 1: 107)[^rosenstock-huessy-2009]. Rosenstock-Huessy argues that philosophy commences a spatially preoccupied way of thinking, which requires that living processes be stabilized. The collective affirmations and directions of social appeals and socially agreed upon names become essences or substantiations processed by the philosophical mind, which finds itself magically outside of the reality it processes. Philosophical reality becomes populated with metaphysical entities such as the individual, subject, and object, appearance and reality etc. In this mentally sequestered space the mind is only beholden to its own elements and powers. Thus logic can become king in a philosophical world; while we on the earth remain caught up in the forces that accompany the seismic events which shake us into new realities. *The Hegemony of Spaces* claims that this philosophical preoccupation culminates in the mechanistic dissolution of the world into space (exemplified by Descartes’ *The World*): thus too the lived times which we register in the calendar, in holidays, in days of remembrance and prayer etc. are simply dissolved into the mechanics of a spatially derived time or sequential chronology. The response to this process of mechanization is exemplified by Nietzsche’s equally one-sided response to reality—the aestheticization of life and exaggerated emphasis upon the will.
 
 For Rosenstock-Huessy, the philosophies of Descartes and Nietzsche intensify the spatial ‘crampedness’ that is the outcome of the spatial hegemony accompanying the triumph of abstract reflexivity over our play and life-spaces. Their different responses contribute to a more spatially defined (more mechanized albeit more aestheticized) world: modernity becomes a ‘tyranny of spaces’.
 
@@ -266,6 +266,90 @@ Buber, Martin | Christian theology, philosophy and | Heidegger, Martin | Kant, I
 [^note-14]: That Rosenstock-Huessy’s understanding of Christianity would find itself challenged is hardly surprising. Thus, for example, Karl Löwith in his 1946 review of *The Christian Future* says that Rosenstock-Huessy’s ideas are essentially closer to paganism (especially Goethe) and that he secularizes and vaporizes Christianity. For his part, Rosenstock-Huessy sees the kind of criticism being made by Löwith as due to a complete inability to understand the connection between the Christian, the pagan and the Jew, and the widespread tendency, repeated by Löwith, to project Greek philosophical abstractions—soul, immortality, timelessness, the good, etc.—onto Christianity. Rosenstock-Huessy, who was very critical in private correspondence to Georg Müller of Löwith, simply could not understand how Löwith could not see the connection between the murdering machines of modernity and modern philosophy.
 
 [^note-15]: It is interesting to compare this strategy with Franz Rosenzweig, whose *The Star of Redemption* has so often been criticized for its decision to show precisely where Judaism differs from every other way of world-making (including Christianity which he saw as a ‘divine’ ally who would always also be an enemy). In effect, though, Rosenstock-Huessy conceived of his ‘Cross of Reality’ as being the necessary complement of Rosenzweig’s ‘Star’ and that his task, as a Christian, was to discover what was redeemable, and hence capable of being shared universally, in every life-way.
+
+[^rosenstock-huessy-1910]: 1910, *Herzogsgewalt und Friedensschutz*, Aalen: Scientia Verlag, Breslau: M. & H. Marcus; reprinted 1969.
+
+[^rosenstock-huessy-1914]: 1914, *Königshaus und Stämme in Deutschland zwischen 911 und 1250*, Leipzig: Felix Meiner, Aalen: Scientia Verlag.
+
+[^rosenstock-huessy-1920a]: 1920a, *Die Hochzeit des Kriegs und der Revolution*, Würzburg: Patmos-Verlag. Reprint 1965.
+
+[^rosenstock-huessy-1920b]: 1920b ‘Brief an *** (Letter to Karl Barth)’, in *Tumult*, Vol. 20, Wien: Turia u. Kant, 1995, 9–15.
+
+[^rosenstock-huessy-1922]: 1922, *Werkstattaussiedlung, Untersuchungen über den Lebensraum des Industriearbeiters: In Verbindung mit Eugen May und Martin Grünberg*, Berlin: Julius Springer Verlag.
+
+[^rosenstock-huessy-1924]: 1924, *Angewandte Seelenkunde*, see 1988.
+
+[^rosenstock-huessy-1925]: 1925, *Soziologie I. Die Kräfte der Gemeinschaft*, Berlin and Leipzig: Walter de Gruyter & Co.
+
+[^rosenstock-huessy-1926]: 1926, *Vom Industrierecht. Rechtssystematische Fragen*, Festgabe für Xaver Gretener, Berlin: H. Sack.
+
+[^rosenstock-huessy-1927]: 1927–1928, *Das Alter der Kirche. Kapitel und Akten*. 3 Bände. Co-author, Joseph Wittig, see 1987.
+
+[^rosenstock-huessy-1938]: 1938, *Out of Revolution: Autobiography of Western Man*, New York: William Morrow & Co.; reprinted 1939, London: Jarrolds; 1969, Norwich, Vt.: Argo Books, with introductions by Page Smith, Bastian Leenman, and Col. A. A. Hanbury Sparrow; 1993, Providence: Berg Publishers, with an introduction by Harold Berman; reprinted Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1939]: 1939, ‘Review of Crane Brinton’s, *Anatomy of Revolution*’, in *American Historical Review*, Vol. 44, No. 4, 1939, 882–884.
+
+[^rosenstock-huessy-1941]: 1941, ‘Faculty Address on The Potential Christians of the Future’, in *The Collected Works* (Microfilm 358, Reel 7).
+
+[^rosenstock-huessy-1942]: 1942, ‘Comments on the Document by Emil Brunner: The Ethical Reality and Function of the Church’, in *The Collected Works* (Microfilm 366, Reel 7).
+
+[^rosenstock-huessy-1943]: 1943–1944, *The First Cycle of Letters to Cynthia (Harris): On Tribe, Egypt and Israel in order to find direction in our Era*, in *The Collected Works* (Microfilm 378, Reel 7).
+
+[^rosenstock-huessy-1946]: 1946, *The Christian Future—or The Modern Mind Outrun*, New York: Charles Scribner’s Sons; reprinted 1947, London: S.C.M. Press, Ltd., with a foreword by J. H. Oldham and a soliloquy by the author; 1966, New York: Harper & Row Publishers, Harper Torchbooks TB 143, with an introduction by Harold Stahmer, pp. vii–lv; reprinted Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1950]: 1950, ‘The Secret of the University Year’, in *The Collected Works* (Microfilm 427, Reel 8).
+
+[^rosenstock-huessy-1951]: 1951, *Der Atem des Geistes*, see 1991a.
+
+[^rosenstock-huessy-1952]: 1952, *Heilkraft und Wahrheit: Konkordanz der Politischen und Kosmischen Zeit*, see 1991b.
+
+[^rosenstock-huessy-1955]: 1955, ‘The Terms of the Creed’, in *The Collected Works* (Microfilm 488, Reel 9)
+
+[^rosenstock-huessy-1956]: 1956, *Soziologie*, Bd. 1, *Die Übermacht der Räume*, Stuttgart, Berlin, Köln, Mainz: W. Kohlhammer Verlag.
+
+[^rosenstock-huessy-1956b]: 1956b, *Lectures on Greek Philosophy* in *The Collected Works* (Microfilm 641, Reel 16).
+
+[^rosenstock-huessy-1958]: 1958, *Soziologie,* Bd. 2, *Die Vollzahl der Zeiten*, Stuttgart: W. Kohlhammer Verlag.
+
+[^rosenstock-huessy-1958-2]: 1958, *Das Geheimnis der Universität: Wider den Verfall von Zeitsinn und Sprachkraft.* Essays and addresses, 1950–1957, ed. Georg Müller, with a contribution by Kurt Ballerstedt, “Leben und Werk Eugen Rosenstock-Huessys”, Stuttgart: W. Kohlhammer Verlag.
+
+[^rosenstock-huessy-1961]: 1961, *Die Europäischen Revolutionen und der Charakter der Nationen* (=revised version of *Die Europäischen Revolutionen und der Charakter der Nationen* [1951], see 1987).
+
+[^rosenstock-huessy-1963]: 1963, ‘Im Notfall’ oder die ‘Zeitlichkeit des Geistes’, *The Collected Works* (Microfilm 556, Reel 11).
+
+[^rosenstock-huessy-1963-2]: 1963/1964, *Die Sprache des Menschengeschlechts: Eine leibhaftige Grammatik in vier Teilen*, Heidelberg: Lambert Schneider.
+
+[^rosenstock-huessy-1967]: 1967, *The Cruciform Character of History*, in *The Collected Works* (Microfilm 656, Reel 18).
+
+[^rosenstock-huessy-1968]: 1968, *Ja und Nein, Autobiographische Fragmente aus Anlass des 80. Geburtstags des Autors im Auftrag der seinen Namen tragenden Gesellschaft*, ed. Georg Müller, Heidelberg: Verlag Lambert Schneider.
+
+[^rosenstock-huessy-1969]: 1969, *Judaism Despite Christianity: The Letters on Christianity and Judaism between Rosenstock-Huessy and Franz Rosenzweig*, with an introduction by Harold Stahmer and essays ‘About the Correspondence’ by Alexander Altmann and Dorothy Emmet, ed. Eugen Rosenstock-Huessy, University, Ala.: University of Alabama Press; paperback reprint 1971, New York: Schocken Books [without Ch. 5: ‘Hitler and Israel, or On Prayer’]; reprinted with with a New Foreword by Paul Mendes-Flohr, a New Preface by Harold Stahmer, and a New Chronology by Michael Gormann-Thelen, Chicago: University of Chicago Press, 2011.
+
+[^rosenstock-huessy-1970a]: 1970a, *Speech and Reality*, with an introduction by Clinton C. Gardner, Norwich, VT: Argo Books; reprinted Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1970b]: 1970b, *I Am an Impure Thinker*, with a foreword by W. H. Auden, Norwich, VT: Argo Books; reprinted, Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1973]: 1973, *Multiformity of Man*, Norwich, VT.: Argo; reprinted, Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1978]: 1978, *The Fruit of Lips, or, Why Four Gospels?*, ed. Marion Davis Battles, Pittsburgh, Pa.: The Pickwick Press.
+
+[^rosenstock-huessy-1981]: 1981, *The Origin of Speech*, with introduction by Harold M. Stahmer and an editor’s postscript by Hans R. Huessy, Norwich, Vt.: Argo.
+
+[^rosenstock-huessy-1987]: 1987, *Die Europäischen Revolutionen und der Charakter der Nationen*, with a foreword by Karl Deutsch and a biographical note at the end by Rudolph Hermeier, Moers: Brendow Verlag (reprint of the 1961 edition).
+
+[^rosenstock-huessy-1988]: 1988, *Practical Knowledge of the Soul*, trans. Mark Huessy and Freya von Moltke, Norwich, VT: Argo Books; translation of *Angewandte Seelenkunde* (1924) and *Die Sprache des Menschengeschlechts* (1963), Bd. 1; reprinted, Eugene, OR: Wipf and Stock, 2013.
+
+[^rosenstock-huessy-1991a]: 1991a, *Heilkraft und Wahrheit: Konkordanz der Politischen und Kosmischen Zeit*, Moers:Brendow/ Wien:Amandus.
+
+[^rosenstock-huessy-1991b]: 1991b, *Der Atem des Geistes*, Moers:Brendow/ Wien:Amandus.
+
+[^rosenstock-huessy-1998]: 1998, *Das Alter der Kirche*, 3 vols., new edition by Fritz Herrenbrück and Michael Gormann-Thelen, Münster: Agenda.
+
+[^rosenstock-huessy-2009]: 2009, *Im Kreuz der Wirklichkeit: Eine nach-goethische Soziologie* , 3 vols., Mit einem Vorwort von Irene Scherer und einem Nachwort von Michael Gormann-Thelen, new edition of *Die Soziologie* by Michael Gormann-Thelen, Ruth Mautner, and Lise van der Molen, Tübingen:Talheimer
+
+[^rosenstock-huessy-2012]: 2012, *Die Kopernikanische Wende in der Sprachphilosophie*, Mit Vorwort von Stephen Grätzel, Freiburg: Karl Alber.
+
+[^rosenstock-huessy-2020]: 2020. *The Fruit of Our Lips: The Transformation of the Word of God into the Speech of Mankind*, translated and edited by Raymond Huessy, Eugene, OR: Wipf and Stock.
 
 [^bade-2015]: Bade, David, 2015. ‘Respondeo etsi mutabor: Eugen Rosenstock-Huessy’s Semiological Zweistromland’, *Culture, Theory and Critique*, 56(1): 87–100.
 

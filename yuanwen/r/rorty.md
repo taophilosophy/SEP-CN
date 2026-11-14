@@ -103,7 +103,7 @@ Rorty’s utopian yearnings describe an America that has taken up his proposal t
 
 > Our loyalty to … larger groups will, however, weaken, or even vanish altogether, when things get really tough. Then people whom we once thought of as like ourselves will be excluded. Sharing food with impoverished people down the street is natural and right in normal times, but perhaps not in a famine, when doing so amounts to disloyalty to one’s family. The tougher things get, the more ties of loyalty to those near at hand tighten, and the more those to everyone else slacken. (PCP, 42)
 
-Following the pragmatist insight that beliefs are habits of action, Rorty contends that to hold a belief simply means that one is inclined to act in certain ways and not in others. Thus, “to believe that someone is ‘one of us,’ a member of our moral community, is to exhibit readiness to come to their assistance when they are in need” (Rorty 1996, 13). Thus “an answer to the question ‘who are we?’ which is to have any moral significance, has to be one which takes money into account” (Rorty 1996, 14).
+Following the pragmatist insight that beliefs are habits of action, Rorty contends that to hold a belief simply means that one is inclined to act in certain ways and not in others. Thus, “to believe that someone is ‘one of us,’ a member of our moral community, is to exhibit readiness to come to their assistance when they are in need” (Rorty 1996, 13)[^rorty-1996]. Thus “an answer to the question ‘who are we?’ which is to have any moral significance, has to be one which takes money into account” (Rorty 1996, 14)[^rorty-1996].
 
 This helps to explain why Rorty calls for a return to the reformist Left of the 1960s in America, when universities and unions found common cause. What Rorty calls the “cultural Left” – the contemporary, academic left – is plagued by two related problems. First, it has ignored economic inequality (Rorty’s shorthand for which is “selfishness”) and focused on other, identity-based forms of inequality (Rorty’s shorthand for which is “sadism”). While Rorty thinks attempting to ameliorate racial and gender inequality is a laudable goal, he laments the fact that this focus has displaced the focus on economic inequality. Second, Rorty worries that the cultural left tries to theorize its way “into political relevance,” and thereby adopts a “spectatorial approach” (AOC, 94). In so doing, it prioritizes knowledge over hope. Thus, Rorty enjoins the cultural Left to abandon its spectatorial approach by abandoning theory and reviving its hope in the promise of America.
 
@@ -125,9 +125,9 @@ Throughout the 1970s Rorty’s metaphilosophical papers prodded the self-underst
 
 Nevertheless, within the philosophical community at large, Rorty’s standing was such that he was elected President of the Eastern Division of the American Philosophical Association for the academic year 1979–1980. Just weeks before he gave the Presidential Address (“Pragmatism, Relativism, and Irrationalism,” see RR), however, PMN was published by Princeton University Press. To Rorty’s surprise (Rorty in Lewis-Kraus, 2003)[^lewis-kraus-2003], this monograph was read as an attack on the basic creed of analytic philosophy as such, rather than as an attempt at benevolent reform. Most reviews were hostile to what was regarded as Rorty’s end-of-philosophy message, and in the years that followed, Rorty’s challenge to representationalist epistemology was in many influential quarters studiously ignored.
 
-In retrospect, the hostility may appear excessive, but understandable. As we have seen in connection with Rorty’s attitude to science, it is particularly Rorty’s treatment of truth and knowledge that drew fire from philosophers. While a great variety of philosophers have criticized Rorty on this general score in a great variety of ways, a common concern stands out; Rorty’s conversationalist view of truth and knowledge leaves us entirely unable to account for the notion that a reasonable view of how things are is a view suitably constrained by how the world actually is. This criticism is levelled against Rorty not only from the standpoint of metaphysical and scientific realist views of the sort that Rorty hoped would soon be extinct. It is expressed also by thinkers who respect Rorty’s dialectical acumen, who have some sympathy with Rorty’s historicist view of intellectual progress, and who find persuasive his critique of Kantian and Platonist features of modern philosophy. John McDowell (McDowell, 1994)[^mcdowell-1994], for instance, claims that Rorty’s view of the relation between agent and world as merely causal runs afoul of the notion that our very concept of a creature with beliefs involves the idea of a rational constraint of the world on our epistemic states. Pascal Engel, in his exchange with Rorty on the notion of truth (Rorty and Engel, 2007)[^rorty-2007], takes Rorty to task for giving up the very notion that undergirds rational argument and conviction, without which it is hard to see what the remit of philosophy might possibly be.
+In retrospect, the hostility may appear excessive, but understandable. As we have seen in connection with Rorty’s attitude to science, it is particularly Rorty’s treatment of truth and knowledge that drew fire from philosophers. While a great variety of philosophers have criticized Rorty on this general score in a great variety of ways, a common concern stands out; Rorty’s conversationalist view of truth and knowledge leaves us entirely unable to account for the notion that a reasonable view of how things are is a view suitably constrained by how the world actually is. This criticism is levelled against Rorty not only from the standpoint of metaphysical and scientific realist views of the sort that Rorty hoped would soon be extinct. It is expressed also by thinkers who respect Rorty’s dialectical acumen, who have some sympathy with Rorty’s historicist view of intellectual progress, and who find persuasive his critique of Kantian and Platonist features of modern philosophy. John McDowell (McDowell, 1994)[^mcdowell-1994], for instance, claims that Rorty’s view of the relation between agent and world as merely causal runs afoul of the notion that our very concept of a creature with beliefs involves the idea of a rational constraint of the world on our epistemic states. Pascal Engel, in his exchange with Rorty on the notion of truth (Rorty and Engel, 2007)[^rorty-2007][^rorty-2007-2], takes Rorty to task for giving up the very notion that undergirds rational argument and conviction, without which it is hard to see what the remit of philosophy might possibly be.
 
-However, critics are not concerned only with what they see as a misguided view of belief, truth, and knowledge, whether relativist, subjectivist, or idealist in nature. An important reason for the high temperature of much of the debate that Rorty has inspired is that he appears to some to reject the very values that are the basis for any articulation of a philosophical view of truth and knowledge at all. As Engel emphasizes, Rorty is indeed critical of the role of argument in intellectual progress, and he is dismissive of the very idea of theories of truth, of knowledge, of rationality, and the like. Philosophers such as Hilary Putnam and Susan Haack, who shared Rorty’s view that analytic philosophy would do well to incorporate the lessons of American pragmatism, focused their criticisms on exactly this aspect of Rorty’s views. Haack, in particular, frames her attacks on Rorty along these lines in moral terms; to her mind, Rorty’s efforts to abandon the basic concepts of traditional epistemology are symptoms of a vulgar cynicism, which contributes to the decline of reason and intellectual integrity that Haack and others find to be characteristic of much contemporary thought. The charge of intellectual irresponsibility is sometimes raised, or at last implied, in connection with Rorty’s use of historical figures. Rorty’s reading of Descartes and of Kant in PMN have often been challenged, as has his more constructive uses of Hegel, Nietzsche, Heidegger, and Wittgenstein. The kind of appropriation of other writers and thinkers that Rorty performs will at times seem to do violence to the views and intentions of the protagonists. Rorty, however, is quite clear about the rhetorical point and scholarly limitations of these kinds of redescriptions, as he explains in “The Historiography of Philosophy: Four Genres” (Rorty, 1984).
+However, critics are not concerned only with what they see as a misguided view of belief, truth, and knowledge, whether relativist, subjectivist, or idealist in nature. An important reason for the high temperature of much of the debate that Rorty has inspired is that he appears to some to reject the very values that are the basis for any articulation of a philosophical view of truth and knowledge at all. As Engel emphasizes, Rorty is indeed critical of the role of argument in intellectual progress, and he is dismissive of the very idea of theories of truth, of knowledge, of rationality, and the like. Philosophers such as Hilary Putnam and Susan Haack, who shared Rorty’s view that analytic philosophy would do well to incorporate the lessons of American pragmatism, focused their criticisms on exactly this aspect of Rorty’s views. Haack, in particular, frames her attacks on Rorty along these lines in moral terms; to her mind, Rorty’s efforts to abandon the basic concepts of traditional epistemology are symptoms of a vulgar cynicism, which contributes to the decline of reason and intellectual integrity that Haack and others find to be characteristic of much contemporary thought. The charge of intellectual irresponsibility is sometimes raised, or at last implied, in connection with Rorty’s use of historical figures. Rorty’s reading of Descartes and of Kant in PMN have often been challenged, as has his more constructive uses of Hegel, Nietzsche, Heidegger, and Wittgenstein. The kind of appropriation of other writers and thinkers that Rorty performs will at times seem to do violence to the views and intentions of the protagonists. Rorty, however, is quite clear about the rhetorical point and scholarly limitations of these kinds of redescriptions, as he explains in “The Historiography of Philosophy: Four Genres” (Rorty, 1984)[^rorty-1984].
 
 ### 4.2 Claim to Pragmatism
 
@@ -242,6 +242,40 @@ In the years since Rorty’s death, the publication of monographs and anthologie
 
 Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragmatism | relativism | Sellars, Wilfrid | truth: pragmatic theory of
 
+[^rorty-1952]: 1952, “Whitehead’s Use of the Concept of Potentiality,” MA thesis, University of Chicago.
+
+[^rorty-1956]: 1956, “The Concept of Potentiality,” PhD dissertation, Yale University.
+
+[^rorty-1961]: 1961, “Recent Metaphilosophy,” *The Review of Metaphysics*, 15(2): 299–318.
+
+[^rorty-1972]: 1972, “Functionalism, Machines, and Incorrigibility,” *Journal of Philosophy*, 69: 203–220.
+
+[^rorty-1973]: 1973, “Criteria and Necessity,” *Noûs*, 7(4): 313–329.
+
+[^rorty-1976]: 1976, “Realism and Reference,” *The Monist*, 59(3): 321–340.
+
+[^rorty-1977]: 1977, “Derrida on Language, Being, and Abnormal Philosophy,” *Journal of Philosophy*, 74(11): 673–681.
+
+[^rorty-1979]: 1979, “Transcendental Arguments, Self-Reference and Pragmatism,” in P. Bieri, R. P. Hortsman, and L. Kruger (eds.), *Transcendental Arguments and Science*, Dordrecht: D. Reidel, pp. 77–103.
+
+[^rorty-1982]: 1982, “Contemporary Philosophy of Mind,” *Synthese*, 53(2): 323–348.
+
+[^rorty-1984]: 1984, “The Historiography of Philosophy: Four Genres,” in R. Rorty, J. B. Schneewind, and Q. Skinner (eds.), *Philosophy in History*, Cambridge: Cambridge University Press, pp. 49–76.
+
+[^rorty-1986]: 1986, “Beyond Realism and Anti-Realism,” in L. Nagl, and R. Heinrich (eds.), *Wo steht die Analytische Philosophie heute?* Vienna: R. Oldenbourg Verlag, Munich, pp. 103–115.
+
+[^rorty-1996]: 1996, “Who Are We?: Moral Universalism and Economic Triage,” *Diogenes*, 44(173): 5–15.
+
+[^rorty-1997]: 1997, “Introduction,” in W. Sellars, *Empiricism and the Philosophy of Mind*. Cambridge, Mass. and London: Harvard University Press, pp. 1–12.
+
+[^rorty-1997-2]: 1997, *Truth, Politics and ‘Post-Modernism.’ The 1997 Spinoza Lectures*. Amsterdam: Van Gorcum.
+
+[^rorty-1999]: 1999, “Pragmatism as Anti-Authoritarianism,” *Revue Internationale de Philosophie*, 53(207): 7–20.
+
+[^rorty-2007]: 2007, “Dewey and Posner on Pragmatism and Moral Progress,” *University of Chicago Law Review*, 74(3): 915–927.
+
+[^rorty-2021]: 2021, *Pragmatism as Anti-Authoritarianism*, Cambridge, MA: Belknap Press.
+
 [^auxier-2010]: Auxier, R. E., and L. E. Hahn (eds.), 2010, *The Philosophy of Richard Rorty*, Chicago: Open Court.
 
 [^balslev-1999]: Balslev, A. N., 1999, *Cultural Otherness: Correspondence with Richard Rorty*, Atlanta: Scholars Press.
@@ -266,13 +300,13 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^nystrom-1998]: Nystrom, D., and K. Puckett (eds.), 1998, *Against Bosses, Against Oligarchies: A Conversation with Richard Rorty*. Charlottesville, VA: Prickly Pear Pamphlets.
 
-[^rorty-1973]: Rorty, R., E. Lee, and A. Mourelatos, (eds.), 1973, *Exegesis and Argument: Essays in Greek Philosophy presented to Gregory Vlastos*. Amsterdam: Van Gorcum.
+[^rorty-1973-2]: Rorty, R., E. Lee, and A. Mourelatos, (eds.), 1973, *Exegesis and Argument: Essays in Greek Philosophy presented to Gregory Vlastos*. Amsterdam: Van Gorcum.
 
 [^rorty-1992]: Rorty, R. (ed.), 1992, *The Linguistic Turn: Essays in Philosophical Method with Two Retrospective Essays*. Chicago and London: The University of Chicago Press.
 
 [^rorty-2005]: Rorty, R., and G. Vattimo, 2005, *The Future of Religion*, S. Zabala (ed.), New York: Columbia University Press.
 
-[^rorty-2007]: Rorty, R., and P. Engel, 2007, *What’s the Use of Truth?*, W. McCuaig (trans.), New York: Columbia University Press.
+[^rorty-2007-2]: Rorty, R., and P. Engel, 2007, *What’s the Use of Truth?*, W. McCuaig (trans.), New York: Columbia University Press.
 
 [^rorty-2011]: Rorty, R., 2011, *An Ethics for Today: Finding Common ground between Philosophy and Religion*. New York: Columbia University Press.
 

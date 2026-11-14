@@ -91,7 +91,7 @@ Despite such comments, perhaps the most memorable encapsulation of Russell’s l
 
 By any standard, Russell led an enormously full life. In addition to his ground-breaking intellectual work in logic and analytic philosophy, he involved himself for much of his life in politics. As early as 1904 he spoke out frequently in favour of internationalism and in 1907 he ran unsuccessfully for Parliament. Although he stood as an independent, he endorsed the full 1907 Liberal platform. He also advocated extending the franchise to women, provided that such a radical political change could be introduced through constitutionally recognized means (Wood 1957, 71)[^wood-1957]. Three years later he published his *Anti-Suffragist Anxieties* (1910).
 
-With the outbreak of World War I, Russell became involved in anti-war activities and in 1916 he was fined 100 pounds for authoring an anti-war pamphlet. Because of his conviction, he was dismissed from his post at Trinity College, Cambridge (Hardy 1942)[^hardy-1942]. Two years later, he was convicted a second time, this time for suggesting that American troops might be used to intimidate strikers in Britain (Clark 1975, 337–339)[^clark-1975]. The result was five months in Brixton Prison as prisoner No. 2917. In 1922 and 1923 Russell ran twice more for Parliament, again unsuccessfully, and together with his second wife, Dora, he founded an experimental school that they operated during the late 1920s and early 1930s (Russell 1926; Park 1963)[^park-1963]. Perhaps not surprisingly, some of Russell’s more radical activities – including his advocacy of post-Victorian sexual norms – were linked in many people’s minds to his atheism, made famous in part by his 1948 BBC debate with the Jesuit philosopher Frederick Copleston over the existence of God (Leal and Marraud 2022)[^leal-2022].
+With the outbreak of World War I, Russell became involved in anti-war activities and in 1916 he was fined 100 pounds for authoring an anti-war pamphlet. Because of his conviction, he was dismissed from his post at Trinity College, Cambridge (Hardy 1942)[^hardy-1942]. Two years later, he was convicted a second time, this time for suggesting that American troops might be used to intimidate strikers in Britain (Clark 1975, 337–339)[^clark-1975]. The result was five months in Brixton Prison as prisoner No. 2917. In 1922 and 1923 Russell ran twice more for Parliament, again unsuccessfully, and together with his second wife, Dora, he founded an experimental school that they operated during the late 1920s and early 1930s (Russell 1926; Park 1963)[^russell-1926][^park-1963]. Perhaps not surprisingly, some of Russell’s more radical activities – including his advocacy of post-Victorian sexual norms – were linked in many people’s minds to his atheism, made famous in part by his 1948 BBC debate with the Jesuit philosopher Frederick Copleston over the existence of God (Leal and Marraud 2022)[^leal-2022].
 
 Although Russell became the third Earl Russell upon the death of his brother in 1931, Russell’s radicalism continued to make him a controversial figure well through middle-age. While teaching at UCLA in the United States in the late 1930s, he was offered a teaching appointment at City College, New York. The appointment was revoked following a series of protests and a 1940 judicial decision which found him morally unfit to teach at the College (Dewey and Kallen 1941; Irvine 1996; Weidlich 2000)[^dewey-1941][^irvine-1996][^weidlich-2000]. The legal decision had been based partly on Russell’s atheism and partly on his fame as an advocate of free love and open marriages.
 
@@ -121,7 +121,7 @@ The paradox is significant since, using classical logic, all sentences are entai
 
 Russell’s response to the paradox came between 1903 and 1908 with the development of his theory of types. It was clear to Russell that some form of restriction needed to be placed on the original comprehension (or abstraction) axiom of naïve set theory, the axiom that formalizes the intuition that any coherent condition (or property) can be used to determine a set. Russell’s basic idea was that reference to sets such as the so-called Russell set (the set of all sets that are not members of themselves) could be avoided by arranging all sentences into a hierarchy, beginning with sentences about individuals at the lowest level, sentences about sets of individuals at the next lowest level, sentences about sets of sets of individuals at the next lowest level, and so on. Using a vicious circle principle similar to that adopted by the mathematician Henri Poincaré, together with his so-called “no class” theory of classes (in which class terms gain meaning only when situated in the appropriate context), Russell was able to explain why the unrestricted comprehension axiom fails: propositional functions, such as the function “$x$ is a set”, may not be applied to themselves since self-application would involve a vicious circle. As a result, all objects for which a given condition (or predicate) holds must be at the same level or of the same “type”. Sentences about these objects will then always be higher in the hierarchy than the objects themselves.
 
-Although first introduced in 1903, the theory of types was further developed by Russell in his 1908 article “Mathematical Logic as Based on the Theory of Types” and in the three-volume work he co-authored with Alfred North Whitehead, *Principia Mathematica* (1910, 1912, 1913). The theory thus admits of two versions, the “simple theory” of 1903 and the “ramified theory” of 1908. Both versions of the theory came under attack: the simple theory for being too weak, the ramified theory for being too strong. For some, it was important that any proposed solution be comprehensive enough to resolve all known paradoxes at once. For others, it was important that any proposed solution not disallow those parts of classical mathematics that remained consistent, even though they appeared to violate the vicious circle principle. (For discussion of related paradoxes, see Chapter 2 of the Introduction to Whitehead and Russell (1910), as well as the entry on paradoxes and contemporary logic in this encyclopedia.)
+Although first introduced in 1903, the theory of types was further developed by Russell in his 1908 article “Mathematical Logic as Based on the Theory of Types” and in the three-volume work he co-authored with Alfred North Whitehead, *Principia Mathematica* (1910, 1912, 1913). The theory thus admits of two versions, the “simple theory” of 1903 and the “ramified theory” of 1908. Both versions of the theory came under attack: the simple theory for being too weak, the ramified theory for being too strong. For some, it was important that any proposed solution be comprehensive enough to resolve all known paradoxes at once. For others, it was important that any proposed solution not disallow those parts of classical mathematics that remained consistent, even though they appeared to violate the vicious circle principle. (For discussion of related paradoxes, see Chapter 2 of the Introduction to Whitehead and Russell (1910)[^russell-1910], as well as the entry on paradoxes and contemporary logic in this encyclopedia.)
 
 Russell himself had recognized several of these same concerns as early as 1903, noting that it was unlikely that any single solution would resolve all the known paradoxes. Together with Whitehead, he was also able to introduce a new axiom, the axiom of reducibility, which lessened the vicious circle principle’s scope of application and so resolved many of the most worrisome aspects of type theory. Even so, critics claimed that the axiom was simply too ad hoc to be justified philosophically. (For additional discussion see Linsky 1990, Linsky 2002 and Wahl 2011.)[^linsky-1990][^linsky-2002][^linsky-2011][^wahl-2011]
 
@@ -425,7 +425,7 @@ Since Russell’s death, debate has also taken place over the ultimate importanc
 
 Critics of Russell’s inclusion in the canon, or at least of his canonization, remind readers of Russell’s early enthusiasm for British imperialism (1967, 134) and of his controversial comments about eugenics and race (1929, 259, 266). Others have noted his apparent early antisemitism and his advocacy of a pre-emptive nuclear war against the Soviet Union following World War II (Hook 1976, Stone 1981, Perkins 1994, Blitz 2002)[^blitz-2002][^hook-1976][^perkins-1994][^stone-1981]. On the issue of a pre-emptive war, Russell himself later denied he had ever advocated such a course of action. However, after carefully reviewing the historical record, biographer Ronald Clark comes to a different conclusion. Clark is also unequivocal about Russell’s lack of sincerity on the issue: “If the suggestion that he deliberately tried to conceal his earlier views is repugnant, the record does not really allow any other conclusion to be drawn” (Clark 1975, 530)[^clark-1975]. Perhaps as a result of such observations, some readers remain undecided when attempting to evaluate Russell’s overall contribution to the intellectual life of the twentieth century.
 
-Monk’s two volumes are a significant case in point. In addition to his ground-breaking biographical work, Monk relates Wittgenstein’s humorous suggestion that all of Russell’s books should be bound in two colours, “those dealing with mathematical logic in red – and all students of philosophy should read them; those dealing with ethics and politics in blue – and no one should be allowed to read them” (Monk 2000, 278)[^monk-2000]. Others, such as Peter Stone, have argued that such caricatures are based on “a misunderstanding of the nature of Russell as a political figure” (2003, 89) and that “Whatever one thinks of Russell’s politics, he was one of the few public figures in the west to stand against capitalism without succumbing to illusions about Stalinist Russia. If for no other reason than this, Russell deserves some credit for his political instincts” (2003, 85). (See, for example, Russell 1920 and 1922c, and Russell et al. 1951.)
+Monk’s two volumes are a significant case in point. In addition to his ground-breaking biographical work, Monk relates Wittgenstein’s humorous suggestion that all of Russell’s books should be bound in two colours, “those dealing with mathematical logic in red – and all students of philosophy should read them; those dealing with ethics and politics in blue – and no one should be allowed to read them” (Monk 2000, 278)[^monk-2000]. Others, such as Peter Stone, have argued that such caricatures are based on “a misunderstanding of the nature of Russell as a political figure” (2003, 89) and that “Whatever one thinks of Russell’s politics, he was one of the few public figures in the west to stand against capitalism without succumbing to illusions about Stalinist Russia. If for no other reason than this, Russell deserves some credit for his political instincts” (2003, 85). (See, for example, Russell 1920 and 1922c, and Russell et al. 1951.)[^russell-1920][^russell-1922c][^russell-1951]
 
 How is the ordinary reader to decide between such conflicting evaluations? Unlike Russell’s work in logic and related areas, in politics he is still usually understood to be more of an advocate than a theoretician. As a result, his reputation as a political thinker has not been as high as in logic and analytic philosophy more broadly.
 
@@ -498,107 +498,107 @@ Thanks are due to Jimmy Altham, Erik Banks, Kenneth Blackwell, Francisco Rodríg
 
 [^collected-nd]: *The Collected Papers of Bertrand Russell*
 
-[^collected-1896]: 1896, *German Social Democracy*, London: Longmans, Green.
+[^russell-1896]: 1896, *German Social Democracy*, London: Longmans, Green.
 
-[^collected-1897]: 1897, *An Essay on the Foundations of Geometry*, Cambridge: At the University Press.
+[^russell-1897]: 1897, *An Essay on the Foundations of Geometry*, Cambridge: At the University Press.
 
-[^collected-1900]: 1900, *A Critical Exposition of the Philosophy of Leibniz*, Cambridge: At the University Press.
+[^russell-1900]: 1900, *A Critical Exposition of the Philosophy of Leibniz*, Cambridge: At the University Press.
 
-[^collected-1901]: 1901, “Recent Work on the Principles of Mathematics”, *International Monthly*, 4: 83–101; reprinted as “Mathematics and the Metaphysicians”, in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 74–96; also appearing in *Collected Papers*, Volume 3.
+[^russell-1901]: 1901, “Recent Work on the Principles of Mathematics”, *International Monthly*, 4: 83–101; reprinted as “Mathematics and the Metaphysicians”, in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 74–96; also appearing in *Collected Papers*, Volume 3.
 
-[^collected-1903]: 1903, *The Principles of Mathematics*, Cambridge: At the University Press.
+[^russell-1903]: 1903, *The Principles of Mathematics*, Cambridge: At the University Press.
 
-[^collected-1905]: 1905, “On Denoting”, *Mind*, 14: 479–493; reprinted in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 103–119; and in Bertrand Russell, *Logic and Knowledge*, London: George Allen and Unwin, 1956, 41–56; also appearing in *Collected Papers*, Volume 4.
+[^russell-1905]: 1905, “On Denoting”, *Mind*, 14: 479–493; reprinted in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 103–119; and in Bertrand Russell, *Logic and Knowledge*, London: George Allen and Unwin, 1956, 41–56; also appearing in *Collected Papers*, Volume 4.
 
-[^collected-1907]: 1907, “The Regressive Method of Discovering the Premises of Mathematics”, in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 272–283; also appearing in *Collected Papers*, Volume 5.
+[^russell-1907]: 1907, “The Regressive Method of Discovering the Premises of Mathematics”, in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 272–283; also appearing in *Collected Papers*, Volume 5.
 
-[^collected-1908]: 1908, “Mathematical Logic as Based on the Theory of Types”, *American Journal of Mathematics*, 30: 222–262; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 59–102; also appearing in *Collected Papers*, Volume 5.
+[^russell-1908]: 1908, “Mathematical Logic as Based on the Theory of Types”, *American Journal of Mathematics*, 30: 222–262; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 59–102; also appearing in *Collected Papers*, Volume 5.
 
-[^collected-1910]: 1910, 1912, 1913 (with Alfred North Whitehead), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to \*56*, Cambridge: Cambridge University Press, 1962.
+[^russell-1910]: 1910, 1912, 1913 (with Alfred North Whitehead), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to \*56*, Cambridge: Cambridge University Press, 1962.
 
-[^collected-1911]: 1911, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–128; reprinted in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 209–232; also appearing in *Collected Papers*, Volume 6.
+[^russell-1911]: 1911, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–128; reprinted in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 209–232; also appearing in *Collected Papers*, Volume 6.
 
-[^collected-1912a]: 1912a, *The Problems of Philosophy*, London: Williams and Norgate; New York: Henry Holt and Company.
+[^russell-1912a]: 1912a, *The Problems of Philosophy*, London: Williams and Norgate; New York: Henry Holt and Company.
 
-[^collected-1912b]: 1912b, “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12: 1–24; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 105–124; also appearing in *Collected Papers*, Volume 6.
+[^russell-1912b]: 1912b, “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12: 1–24; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 105–124; also appearing in *Collected Papers*, Volume 6.
 
-[^collected-1914a]: 1914a, *Our Knowledge of the External World*, Chicago and London: The Open Court Publishing Company.
+[^russell-1914a]: 1914a, *Our Knowledge of the External World*, Chicago and London: The Open Court Publishing Company.
 
-[^collected-1914b]: 1914b, “On the Nature of Acquaintance”, *Monist*, 24: 1–16, 161–187, 435–453; reprinted in *Logic and Knowledge*, London: George Allen and Unwin, 1956, 127–174; also appearing in *Collected Papers*, Volume 7.
+[^russell-1914b]: 1914b, “On the Nature of Acquaintance”, *Monist*, 24: 1–16, 161–187, 435–453; reprinted in *Logic and Knowledge*, London: George Allen and Unwin, 1956, 127–174; also appearing in *Collected Papers*, Volume 7.
 
-[^collected-1914c]: 1914c, “The Relation of Sense-Data to Physics”, *Scientia*, 16: 1–27; reprinted in *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 145–179; also appearing in *Collected Papers*, Volume 8.
+[^russell-1914c]: 1914c, “The Relation of Sense-Data to Physics”, *Scientia*, 16: 1–27; reprinted in *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 145–179; also appearing in *Collected Papers*, Volume 8.
 
-[^collected-1916]: 1916, *Principles of Social Reconstruction*, London: George Allen and Unwin; reprinted as *Why Men Fight*, New York: The Century Company, 1917.
+[^russell-1916]: 1916, *Principles of Social Reconstruction*, London: George Allen and Unwin; reprinted as *Why Men Fight*, New York: The Century Company, 1917.
 
-[^collected-1917]: 1917, *Political Ideals*, New York: The Century Company.
+[^russell-1917]: 1917, *Political Ideals*, New York: The Century Company.
 
-[^collected-1918]: 1918, 1919, “The Philosophy of Logical Atomism”, *Monist*, 28: 495–527; 29: 32–63, 190–222, 345–380; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 177–281; also appearing in *Collected Papers*, Volume 8.
+[^russell-1918]: 1918, 1919, “The Philosophy of Logical Atomism”, *Monist*, 28: 495–527; 29: 32–63, 190–222, 345–380; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 177–281; also appearing in *Collected Papers*, Volume 8.
 
-[^collected-1919a]: 1919a, *Introduction to Mathematical Philosophy*, London: George Allen and Unwin; New York: The Macmillan Company.
+[^russell-1919a]: 1919a, *Introduction to Mathematical Philosophy*, London: George Allen and Unwin; New York: The Macmillan Company.
 
-[^collected-1919b]: 1919b, “On Propositions: What They Are and How They Mean”, *Proceedings of the Aristotelian Society*, Supplementary Volume 2: 1–43; also appearing in *Collected Papers*, Volume 8.
+[^russell-1919b]: 1919b, “On Propositions: What They Are and How They Mean”, *Proceedings of the Aristotelian Society*, Supplementary Volume 2: 1–43; also appearing in *Collected Papers*, Volume 8.
 
-[^collected-1920]: 1920, *The Practice and Theory of Bolshevism*, London: George Allen and Unwin Ltd.
+[^russell-1920]: 1920, *The Practice and Theory of Bolshevism*, London: George Allen and Unwin Ltd.
 
-[^collected-1921]: 1921, *The Analysis of Mind*, London: George Allen and Unwin; New York: The Macmillan Company.
+[^russell-1921]: 1921, *The Analysis of Mind*, London: George Allen and Unwin; New York: The Macmillan Company.
 
-[^collected-1922a]: 1922a, *Free Thought and Official Propaganda*, London: Watts & Co. and George Allen and Unwin Ltd.
+[^russell-1922a]: 1922a, *Free Thought and Official Propaganda*, London: Watts & Co. and George Allen and Unwin Ltd.
 
-[^collected-1922b]: 1922b, “Is There an Absolute Good?”, in *Collected Papers*, Volume 9.
+[^russell-1922b]: 1922b, “Is There an Absolute Good?”, in *Collected Papers*, Volume 9.
 
-[^collected-1922c]: 1922c, *The Problem of China*, London: George Allen and Unwin Ltd.
+[^russell-1922c]: 1922c, *The Problem of China*, London: George Allen and Unwin Ltd.
 
-[^collected-1923a]: 1923a, *The ABC of Atoms*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
+[^russell-1923a]: 1923a, *The ABC of Atoms*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
 
-[^collected-1923b]: 1923b, *A Free Man’s Worship*, Portland, Maine: Thomas Bird Mosher; reprinted as *What Can A Free Man Worship?* Girard, Kansas: Haldeman-Julius Publications, 1927.
+[^russell-1923b]: 1923b, *A Free Man’s Worship*, Portland, Maine: Thomas Bird Mosher; reprinted as *What Can A Free Man Worship?* Girard, Kansas: Haldeman-Julius Publications, 1927.
 
-[^collected-1924]: 1924, “Logical Atomism”, in J.H. Muirhead (ed.), *Contemporary British Philosophers*, London: Allen and Unwin, 1924, 356–383; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 323–343; also appearing in *Collected Papers*, Volume 9.
+[^russell-1924]: 1924, “Logical Atomism”, in J.H. Muirhead (ed.), *Contemporary British Philosophers*, London: Allen and Unwin, 1924, 356–383; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 323–343; also appearing in *Collected Papers*, Volume 9.
 
-[^collected-1925]: 1925, *The ABC of Relativity*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
+[^russell-1925]: 1925, *The ABC of Relativity*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
 
-[^collected-1926]: 1926, *On Education, Especially in Early Childhood*, London: George Allen and Unwin; reprinted as *Education and the Good Life*, New York: Boni and Liveright, 1926; abridged as *Education of Character*, New York: Philosophical Library, 1961.
+[^russell-1926]: 1926, *On Education, Especially in Early Childhood*, London: George Allen and Unwin; reprinted as *Education and the Good Life*, New York: Boni and Liveright, 1926; abridged as *Education of Character*, New York: Philosophical Library, 1961.
 
-[^collected-1927a]: 1927a, *The Analysis of Matter*, London: Kegan Paul, Trench, Trubner; New York: Harcourt, Brace.
+[^russell-1927a]: 1927a, *The Analysis of Matter*, London: Kegan Paul, Trench, Trubner; New York: Harcourt, Brace.
 
-[^collected-1927b]: 1927b, *An Outline of Philosophy*, London: George Allen and Unwin; reprinted as *Philosophy*, New York: W.W. Norton, 1927.
+[^russell-1927b]: 1927b, *An Outline of Philosophy*, London: George Allen and Unwin; reprinted as *Philosophy*, New York: W.W. Norton, 1927.
 
-[^collected-1927c]: 1927c, *Why I Am Not a Christian*, London: Watts; New York: The Truth Seeker Company.
+[^russell-1927c]: 1927c, *Why I Am Not a Christian*, London: Watts; New York: The Truth Seeker Company.
 
-[^collected-1929]: 1929, *Marriage and Morals*, London: George Allen and Unwin; New York: Horace Liveright.
+[^russell-1929]: 1929, *Marriage and Morals*, London: George Allen and Unwin; New York: Horace Liveright.
 
-[^collected-1930]: 1930, *The Conquest of Happiness*, London: George Allen and Unwin; New York: Horace Liveright.
+[^russell-1930]: 1930, *The Conquest of Happiness*, London: George Allen and Unwin; New York: Horace Liveright.
 
-[^collected-1931]: 1931, *The Scientific Outlook*, London: George Allen and Unwin; New York: W.W. Norton.
+[^russell-1931]: 1931, *The Scientific Outlook*, London: George Allen and Unwin; New York: W.W. Norton.
 
-[^collected-1938]: 1938, *Power: A New Social Analysis*, London: George Allen and Unwin; New York: W.W. Norton.
+[^russell-1938]: 1938, *Power: A New Social Analysis*, London: George Allen and Unwin; New York: W.W. Norton.
 
-[^collected-1939]: 1939, “The Existence and Nature of God”, in John G. Slater (ed.), *A Fresh Look at Empiricism, 1927–42* (*The Collected Papers of Bertrand Russell*: Volume 10), London and New York: Routledge, 1996, 253–68.
+[^russell-1939]: 1939, “The Existence and Nature of God”, in John G. Slater (ed.), *A Fresh Look at Empiricism, 1927–42* (*The Collected Papers of Bertrand Russell*: Volume 10), London and New York: Routledge, 1996, 253–68.
 
-[^collected-1940]: 1940, *An Inquiry into Meaning and Truth*, London: George Allen and Unwin; New York: W.W. Norton.
+[^russell-1940]: 1940, *An Inquiry into Meaning and Truth*, London: George Allen and Unwin; New York: W.W. Norton.
 
-[^collected-1945]: 1945, *A History of Western Philosophy*, New York: Simon and Schuster; London: George Allen and Unwin, 1946; rev. edn, 1961.
+[^russell-1945]: 1945, *A History of Western Philosophy*, New York: Simon and Schuster; London: George Allen and Unwin, 1946; rev. edn, 1961.
 
-[^collected-1948]: 1948, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-1948]: 1948, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^collected-1949a]: 1949a, *Authority and the Individual*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-1949a]: 1949a, *Authority and the Individual*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^collected-1949b]: 1949b, *The Philosophy of Logical Atomism*, Minneapolis, Minnesota: Department of Philosophy, University of Minnesota; reprinted as *Russell’s Logical Atomism*, D.F. Pears (ed.), Oxford: Fontana/Collins, 1972.
+[^russell-1949b]: 1949b, *The Philosophy of Logical Atomism*, Minneapolis, Minnesota: Department of Philosophy, University of Minnesota; reprinted as *Russell’s Logical Atomism*, D.F. Pears (ed.), Oxford: Fontana/Collins, 1972.
 
-[^collected-1951]: 1951 (with L.B. Schapiro, C.D. Darlington, Francis Watson, W.N. Ewer and Victor Feather), *Why Communism Must Fail*, London: The Batchworth Press.
+[^russell-1951]: 1951 (with L.B. Schapiro, C.D. Darlington, Francis Watson, W.N. Ewer and Victor Feather), *Why Communism Must Fail*, London: The Batchworth Press.
 
-[^collected-1952]: 1952, “Is There a God?” in John G. Slater (ed.), *Last Philosophical Testament, 1943–68* (*The Collected Papers of Bertrand Russell*: Volume 11), London and New York: Routledge, 1997, 542–548.
+[^russell-1952]: 1952, “Is There a God?” in John G. Slater (ed.), *Last Philosophical Testament, 1943–68* (*The Collected Papers of Bertrand Russell*: Volume 11), London and New York: Routledge, 1997, 542–548.
 
-[^collected-1954]: 1954, *Human Society in Ethics and Politics*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-1954]: 1954, *Human Society in Ethics and Politics*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^collected-1959]: 1959, *My Philosophical Development*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-1959]: 1959, *My Philosophical Development*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^collected-1961]: 1961, *Has Man a Future?*, London: Allen and Unwin.
+[^russell-1961]: 1961, *Has Man a Future?*, London: Allen and Unwin.
 
-[^collected-1963]: 1963, *Unarmed Victory*, London: Allen and Unwin; New York: Simon and Schuster.
+[^russell-1963]: 1963, *Unarmed Victory*, London: Allen and Unwin; New York: Simon and Schuster.
 
-[^collected-1967]: 1967, 1968, 1969, *The Autobiography of Bertrand Russell*, 3 volumes, London: George Allen and Unwin; Boston: Little Brown and Company (Volumes 1 and 2), New York: Simon and Schuster (Volume 3).
+[^russell-1967]: 1967, 1968, 1969, *The Autobiography of Bertrand Russell*, 3 volumes, London: George Allen and Unwin; Boston: Little Brown and Company (Volumes 1 and 2), New York: Simon and Schuster (Volume 3).
 
-[^collected-1967a]: 1967a, *War Crimes in Vietnam*, London: Allen and Unwin; New York: Monthly Review Press.
+[^russell-1967a]: 1967a, *War Crimes in Vietnam*, London: Allen and Unwin; New York: Monthly Review Press.
 
 [^a1910-nd]: A1910, *Philosophical Essays*, London: Longmans, Green.
 
