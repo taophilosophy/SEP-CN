@@ -2,10 +2,207 @@
  "key": "komnene, anna",
  "term": "Komnene, Anna",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T19:12:15+00:00",
- "status": "error",
- "note": "variant=Komnene, Anna; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Komnene, Anna: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:18:01+00:00",
+ "status": "ok",
+ "note": "variant=Komnene, Anna; 审定公布名词库=49; 海峡两岸名词对照库=28; 其他来源数据库=1; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody,ANNA",
+   "code": "2.352",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "壬烯",
+   "en": "nonene",
+   "code": "07.0212",
+   "standard": "石油名词",
+   "subject": "石油_石油化工_石油化工产品与中间体"
+  },
+  {
+   "cn": "大花美人蕉",
+   "en": "canna; Canna × generalis L.H.Bailey",
+   "code": "05.447",
+   "standard": "农学名词",
+   "subject": "园艺作物_花卉作物"
+  },
+  {
+   "cn": "蜜露",
+   "en": "manna,honeydew",
+   "code": "08.067",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫生理与生化"
+  },
+  {
+   "cn": "蕉芋",
+   "en": "edible canna; Canna indica L.",
+   "code": "05.201",
+   "standard": "农学名词",
+   "subject": "园艺作物_蔬菜作物"
+  },
+  {
+   "cn": "甘露地衣",
+   "en": "manna lichen",
+   "code": "06.0078",
+   "standard": "植物学名词",
+   "subject": "植物学_地衣学"
+  },
+  {
+   "cn": "环柄化合物",
+   "en": "ansa compound",
+   "code": "02.0565",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_有机化合物_天然产物类名词"
+  },
+  {
+   "cn": "环柄类抗生素",
+   "en": "ansa antibiotic",
+   "code": "02.0566",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_有机化合物_天然产物类名词"
+  },
+  {
+   "cn": "颈袢",
+   "en": "cervical ansa",
+   "code": "06.0849",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_神经系统_脊神经"
+  },
+  {
+   "cn": "豆核袢",
+   "en": "lenticular ansa",
+   "code": "06.0539",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_神经系统_间脑"
+  },
+  {
+   "cn": "乌纳染色",
+   "en": "Unna staining",
+   "code": "011.100",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞生物学技术"
+  },
+  {
+   "cn": "短膜壳绦虫病",
+   "en": "hymenolepiasis nana",
+   "code": "06.081",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_寄生虫病学"
+  },
+  {
+   "cn": "安娜·博莱纳",
+   "en": "Anna Bolena",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "莫福",
+   "en": "Moffo\",\"Anna(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "波拉克",
+   "en": "Pollak\",\"Anna(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "涅特列布科",
+   "en": "Netrebko\",\"Anna(俄国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "安娜·玛格达勒娜曲集",
+   "en": "Anna Magdalena Bach",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody， ANNA",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "蜜露",
+   "en": "manna\",\"honeydew",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "舌下神经袢",
+   "en": "hypoglossal ansa",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "甘露地衣，野粮地衣",
+   "en": "manna lichen",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "野粮地衣（=甘露地衣）",
+   "en": "manna lichen",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "环柄化合物",
+   "en": "ansa-compound",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "环柄类抗生素",
+   "en": "ansa-antibiotic",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "壬烯",
+   "en": "Nonene",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody, ANNA",
+   "code": "1.5.3.63",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "抗中性粒细胞胞质抗体",
+   "en": "antineutrophil cytoplasm antibody,ANCA",
+   "code": "1.5.3.44",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "抗核抗体",
+   "en": "anti-nuclear antibody, ANA",
+   "code": "1.5.3.2",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  }
+ ],
+ "error": null,
  "raw": null
 }
