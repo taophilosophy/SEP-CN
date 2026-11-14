@@ -72,3 +72,5 @@
 | logic-preference | 图 3 `(V_2) (p>q) ∧ (q>r) → q>r` | `→ p>r` | 标签作 transitivity，$A_2$ 同为传递式，同页自相矛盾（②） |
 | logic-preference | `Berlin: Springerd.` / `Makinson David, 1993` | `Berlin: Springer.` / `Makinson, David, 1993` | 出版社拼写与姓名倒置（①） |
 | logic-preference | `illustrated by \(V_4\) in the table above` | `in the figure above` | $V_4$ 实见于图 3，表图混称（②） |
+| lorenzo-valla | `Studi di grammatica italiana</em>,w 19` | `italiana</em>, 19` | OCR 残字（①） |
+| lorenzo-valla | 三条书目缺句末句点（`Rinascimento</em>, 31: 155&ndash;181`、`Vivarium</em>, 44: 375&ndash;395`、`Cambridge, Mass., Harvard University Press`） | 各补 `.` | 句读（①） |
