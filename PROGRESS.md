@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-14 15:06（UTC）
+生成时间：2026-11-14 17:41（UTC）
 
 ## 总览
 
@@ -24,7 +24,8 @@
 |---|---|
 |pending|621|
 |cleared|153|
-|s2.5_checked|198|
+|s2.5_checked|183|
+|s3_checked|15|
 |done|224|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -101,13 +102,13 @@
 |anselm|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |antonio-rosmini|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |arabic-islamic-mysticism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|august-rehberg|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|august-rehberg|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |auriol|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |autrecourt|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |axiom-choice|retranslate|cleared|task_ops 2026-11-12|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|bayle|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|bayle|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
@@ -134,7 +135,7 @@
 |bolzano|retranslate|cleared|task_ops 2026-11-01|
 |bolzano-logic|retranslate|cleared|task_ops 2026-11-01|
 |bonaventure|retranslate|cleared|task_ops 2026-11-01|
-|boolalg-math|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|boolalg-math|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |boole|retranslate|cleared|task_ops 2026-11-01|
 |bosanquet|retranslate|cleared|task_ops 2026-11-01|
 |boundary|retranslate|cleared|task_ops 2026-11-01|
@@ -178,7 +179,7 @@
 |dai-zhen|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |dance|retranslate|cleared|task_ops 2026-11-13|
 |davidson|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|delmedigo|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|delmedigo|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |descartes-ethics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |descartes-ideas|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |descartes-physics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -187,21 +188,21 @@
 |dewey-political|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |dialectical-school|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |dilthey|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|diodorus-cronus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|diodorus-cronus|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |du-bos|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |duhem|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |duns-scotus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |dynamic-semantics|retranslate|cleared|task_ops 2026-11-12|
 |ecological-genetics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |edwards|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|ehrenfels|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|ehrenfels|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |elisabeth-bohemia|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |emerson|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |emilie-du-chatelet|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |emotion-Christian-tradition|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |epistemology-language-tibetan|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |epistemology-latin-america|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|epsilon-calculus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|epsilon-calculus|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |erasmus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |erfurt|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |erotic-art|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -265,9 +266,9 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |incommensurability|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|intensional-trans-verbs|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|intensional-trans-verbs|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
-|intuitionism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|intuitionism|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |israeli|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -342,8 +343,8 @@
 |leibniz-evil|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |leibniz-logic-influence|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |leibniz-mind|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|locke-on-medicine|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|logic-provability|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|locke-on-medicine|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
+|logic-provability|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |lorenzo-valla|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |lvov-warsaw|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |mandeville|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -360,7 +361,7 @@
 |nietzsche-aesthetics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |novalis|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |oakeshott|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|obligationes|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|obligationes|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |occasionalism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |ockham|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |olympiodorus|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -372,14 +373,14 @@
 |penbygull|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |philanthropy|retranslate|cleared|task_ops 2026-11-12|
 |prophecy|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|quantum-bayesian|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|quantum-bayesian|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |quine-nf|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |rationalism-early-modern|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|redistribution|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|redistribution|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |reinach|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |reism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |repugnant-conclusion|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|ricoeur|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|ricoeur|retranslate|s3_checked|pc6-s2.5-pilot 2026-11-14|
 |schlegel|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |sikh-philosophy|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
