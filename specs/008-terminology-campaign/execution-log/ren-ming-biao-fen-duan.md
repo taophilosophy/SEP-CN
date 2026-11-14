@@ -136,3 +136,6 @@
 * **十八轮**（offset ≈2455，M/N 交界；审计 一致 1172 / 不一致 843 / 查无 6993 / 未查证 1874）：新增 2 条保留——
   Newton, Isaac（「牛顿望远镜」含人名的器物名，天文学）、Nicholas III（「RNA聚合酶III」编号模糊垃圾，
   同 George III 先例）。零主译变更。
+* **十九轮**（offset ≈2720，N/O 交界；审计 一致 1172 / 不一致 848 / 查无 7236 / 未查证 1626）：新增 5 条保留——
+  Octavia、Paz, Octavio（「集体消费理论」垃圾池）、Paul III、Pio di Carpi, Alberto III（「RNA聚合酶III」
+  编号模糊垃圾，同 George III 先例）、Philip II（「腓力二世改革」下位事件名，世界历史名词）。零主译变更。
