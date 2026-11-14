@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 1619,
-  "查无": 7242,
-  "不一致": 849,
-  "一致": 1172
+  "未查证": 1601,
+  "查无": 7248,
+  "不一致": 851,
+  "一致": 1182
  },
  "results": [
   {
@@ -2803,9 +2803,30 @@
    "term": "aesthetic judgment / aesthetic judgments",
    "trans": "审美判断",
    "basis": "SUMMARY 题名；跨条一致；2026-11-13 重复行合并（旧键 `aesthetic judgments`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "审美判断",
+     "en": "aesthetic judgment",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "医学审美判断",
+     "en": "medical aesthetic judgment",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "医学审美判断",
+     "en": "medical aesthetic judgment",
+     "source": "医学名词 第七分册"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -6408,9 +6429,20 @@
    "term": "anti-realism / antirealism",
    "trans": "反实在论（antirealism 异形）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名；2026-11-13 重复行合并（旧键 `antirealism`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "反实在论",
+     "en": "anti-realism",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
   },
   {
    "table": "术语",
@@ -54988,9 +55020,24 @@
    "term": "Huang Di neijing / Huangdi Neijing",
    "trans": "《黄帝内经》",
    "basis": "学界通行（文树德英译本系）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Huangdi Neijing`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "黄帝内经",
+     "en": "Huangdi Neijing,Inner Canon of Huangdi,Inner Canon of Yellow Emperor",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "黄帝内经太素",
+     "en": "Huangdi Neijing Taisu,Grand Simplicity of Inner Canon of Huangdi",
+     "source": "中医药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -59174,9 +59221,54 @@
    "term": "inertial frame / Inertial Frames",
    "trans": "惯性系（亦作“惯性参考系”）",
    "basis": "学界惯例（物理学通行）；2026-11-13 重复行合并（旧键 `Inertial Frames`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "惯性参考系",
+     "en": "inertial frame",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非惯性参考系",
+     "en": "non-inertial frame",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "惯性基准坐标系",
+     "en": "inertial reference frame",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "惯性参考坐标系",
+     "en": "inertial reference frame",
+     "source": "船舶工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "惯性[参考]系",
+     "en": "inertial [reference] frame,inertial [reference] system",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非惯性系",
+     "en": "non-inertial system,non-inertial reference frame",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "惯性参考系",
+     "en": "inertial reference frame",
+     "source": "海峡两岸大气科学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -66379,9 +66471,18 @@
    "term": "large cardinal / Large Cardinals",
    "trans": "大基数",
    "basis": "集合论通行译名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Large Cardinals`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "大基数",
+     "en": "large cardinals",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74598,9 +74699,11 @@
    "term": "modal interpretation / Modal Interpretations",
    "trans": "模态解释",
    "basis": "SUMMARY 词条定名（量子力学的模态解释）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Modal Interpretations`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -78958,9 +79061,20 @@
    "term": "natural number / natural numbers",
    "trans": "自然数",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；2026-11-13 重复行合并（旧键 `natural numbers`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "自然数",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
   },
   {
    "table": "术语",
@@ -79042,9 +79156,30 @@
    "term": "natural right / Natural Rights",
    "trans": "自然权利（亦作“天赋人权”）",
    "basis": "学界通行（与 natural law 自然法分列）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Natural Rights`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "天赋人权",
+     "en": "Natural Rights",
+     "source": "世界历史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然权利学说",
+     "en": "theory of natural rights",
+     "source": "大数据百科术语辞典"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "右自然体",
+     "en": "migi-shizentai\",\"right natural posture",
+     "source": "奥运体育项目名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83545,9 +83680,18 @@
    "term": "ontological commitment / ontological commitments",
    "trans": "本体论承诺（亦作“存在论承诺”）",
    "basis": "学界通行汉译（蒯因）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `ontological commitments`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "本体论承诺",
+     "en": "ontological commitment",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -117847,9 +117991,11 @@
    "term": "structural rule / structural rules",
    "trans": "结构规则",
    "basis": "子结构逻辑通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `structural rules`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -124435,9 +124581,36 @@
    "term": "thought experiment / Thought Experiments",
    "trans": "思想实验",
    "basis": "学界惯例（科学哲学通行）；2026-11-13 重复行合并（旧键 `Thought Experiments`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "思想实验",
+     "en": "thought experiment",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "思想实验",
+     "en": "thought experiment",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "假想实验",
+     "en": "thought experiment,gedanken experiment",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "伦理思想实验法",
+     "en": "ethical thought experiment",
+     "source": "医学伦理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -125872,9 +126045,11 @@
    "term": "transcendental argument / Transcendental Arguments",
    "trans": "先验论证",
    "basis": "康德研究通行（transcendental 先验）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Transcendental Arguments`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -125931,9 +126106,11 @@
    "term": "transcendental term / transcendental terms",
    "trans": "超越词项",
    "basis": "学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `transcendental terms`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -126703,9 +126880,18 @@
    "term": "trope / tropes",
    "trans": "特普",
    "basis": "学界通行译法（属性实例；与共相对举）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `tropes`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "附加段",
+     "en": "trope",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -126981,9 +127167,11 @@
    "term": "truth condition / truth conditions",
    "trans": "真值条件",
    "basis": "逻辑学通行译法；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `truth conditions`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -127015,9 +127203,11 @@
    "term": "truth definition / truth definitions",
    "trans": "真理定义",
    "basis": "逻辑学通行；SUMMARY 定名沿用；2026-11-13 重复行合并（旧键 `truth definitions`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -127049,9 +127239,18 @@
    "term": "truth value / truth values",
    "trans": "真值（亦作\"真假值\"）",
    "basis": "审定名词库（termonline-all·数学·数理逻辑；审定 truth value=真假值、truth=真值 并立，2026-11-08 浏览器通道凭证；主译从逻辑学通行形，审定自身真值表=truth-table 并存）；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-13 重复行合并（旧键 `truth values`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "真假值",
+     "en": "truth value",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -129070,9 +129269,18 @@
    "term": "universal / universals",
    "trans": "共相（中世纪-黑格尔传统）",
    "basis": "学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `universals`）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "通用的，万用的",
+     "en": "universal",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
