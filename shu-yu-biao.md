@@ -1942,7 +1942,7 @@
 | extraversion | — | 外向性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Extrinsic | — | 外在 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | extrinsic teleology | — | 外在目的论 | kant-development | 康德研究通行（与内在目的论对举）；凭证 2026-11-11 | 2026-11-11 |
-| ε-notation | ε-notation | ε 记号 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| ε-notation | ε-notation | ε 记号 | spacetime-convensimul | 构词直译（数理文献通行“ε-δ 语言”“ε-N 语言”构词，ε 保留原符号；回源核对 spacetime-convensimul 词条赖欣巴哈 ε 语境吻合；审定库无本词，命中均为 μ/λ 记号系噪声；2026-11-14 学界惯例联网复核保留） | 2026-11-14 |
 
 ## F
 
@@ -3980,7 +3980,7 @@
 | overtone | — | 泛音 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Oxford Calculators | — | 牛津计算者 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | Oxford Realists | — | 牛津实在论者 | penbygull | 学界通行（中世纪后期实在论研究文献）；凭证 2026-11-09 | 2026-11-09 |
-| ω-consistency | ω-consistency | ω-一致性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
+| ω-consistency | ω-consistency | ω-一致性（亦作“ω-相容性”） | logic-provability | 数理逻辑通行（复旦大学出版社《数理逻辑·证明及其限度》§9.4.2 与科学出版社《哥德尔不完全性定理》第 5 章均用“ω-一致性”；审定库数学名词作“ω相容性”，降为亦作；2026-11-14 权威译本联网复核） | 2026-11-14 |
 | ω-provability | ω-provability | ω-可证性 | logic-provability | 本词条定案（Japaridze GLB） | 2026-11-05 |
 
 ## P
@@ -5915,7 +5915,7 @@
 | Trisvabhāvanirdeśa | — | 《三自性论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | tritheism | — | 三神论 | john-italos | 教父学通行汉译（τριθεΐα） | 2026-11-06 |
 | Trolley Problem | — | 电车难题 | 语料回收（标题词） | 学界惯例（伦理学/行动哲学）；凭证 2026-11-01 | 2026-11-01 |
-| trope / tropes | — | 特普 | object 首译；trope 复数形（reinach 旧行并入） | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `tropes`） | 2026-11-13 |
+| trope / tropes | — | 特普 | object 首译；trope 复数形（reinach 旧行并入） | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `tropes`）；2026-11-14 权威译本联网复核保留（审定命中均为修辞学/动物学同形噪声；商务印书馆《外国哲学》第 39 辑《特普理论与心灵因果问题》、华东师范大学出版社《金在权因果排斥论证研究》均用“特普理论”） | 2026-11-14 |
 | trophectoderm | — | 滋养外胚层 | 首现（cloning） | 学界惯例（胚胎学通行）；凭证 2026-11-07 | 2026-11-07 |
 | trophoblast | — | 滋养层 | 首译（stem-cells） | 学界惯例（胚胎学通行；与 trophectoderm 滋养外胚层区分）；凭证 2026-11-09 | 2026-11-09 |
 | true physics | — | 真正的物理学 | hobbes-science 首译 | 照文直译（霍布斯 vera physica）；凭证 2026-11-11 | 2026-11-11 |
@@ -6030,7 +6030,7 @@
 | unity of intellect | — | 理智统一性 | gersonides | 阿威罗伊主义论题通行译法（unity of the intellect） | 2026-11-09 |
 | unity of opposites | — | 对立统一 | heraclitus 首译 | 学界通行（亦作“对立面的统一”）；凭证 2026-11-09 | 2026-11-09 |
 | Unity of Science | — | 统一科学（亦作“科学的统一性”） | 语料回收（词汇表并网） | 学界惯例（正文 13:0 通行“统一科学”）；亦作记审定作“科学的统一性”；008 复核 2026-11-13 保留现译；词汇表并网（ADR-0036） | 2026-11-13 |
-| universal / universals | — | 共相（中世纪-黑格尔传统） | 语料回收（标题词）；buridan 首译 | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `universals`） | 2026-11-13 |
+| universal / universals | — | 共相（中世纪-黑格尔传统） | 语料回收（标题词）；buridan 首译 | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `universals`）；2026-11-14 权威工具书联网复核保留（审定命中均为普适性/大学/全域等同形噪声；《中国大百科全书·哲学》卷“共相”条目框架，共相/殊相之争为学界千年通行对举） | 2026-11-14 |
 | universal affirmative predication | — | 全称肯定谓述 | schema | 构词直译（亚里士多德逻辑） | 2026-11-06 |
 | universal benevolence | — | 普遍仁爱 | godwin | 道德哲学通行汉译（18 世纪英国道德哲学语境）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-10 |
 | universal characteristic | — | 普遍文字 | leibniz-logic-influence | 学界惯例（莱布尼茨 characteristica universalis 通行译法）；凭证 2026-11-03 | 2026-11-03 |

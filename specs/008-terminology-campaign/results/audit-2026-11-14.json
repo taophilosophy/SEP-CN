@@ -3,13 +3,14 @@
  "providers": [
   "termonline-all",
   "termonline-standard",
+  "web-authority",
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 1601,
-  "查无": 7248,
-  "不一致": 851,
-  "一致": 1182
+  "未查证": 1564,
+  "查无": 7284,
+  "不一致": 848,
+  "一致": 1186
  },
  "results": [
   {
@@ -41617,8 +41618,8 @@
    "line": 1945,
    "term": "ε-notation",
    "trans": "ε 记号",
-   "basis": "构词直译",
-   "status": "不一致",
+   "basis": "构词直译（数理文献通行“ε-δ 语言”“ε-N 语言”构词，ε 保留原符号；回源核对 spacetime-convensimul 词条赖欣巴哈 ε 语境吻合；审定库无本词，命中均为 μ/λ 记号系噪声；2026-11-14 学界惯例联网复核保留）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -41655,10 +41656,17 @@
      "cn": "记法",
      "en": "notation",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "ε 记号",
+     "en": "ε-notation",
+     "source": "数理文献通行构词：ε-δ 语言/ε-N 语言（数学分析教材与考纲）；词条 spacetime-convensimul 赖欣巴哈 ε 语境回源核对吻合"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -85453,9 +85461,9 @@
    "table": "术语",
    "line": 3983,
    "term": "ω-consistency",
-   "trans": "ω-一致性",
-   "basis": "数理逻辑通行",
-   "status": "不一致",
+   "trans": "ω-一致性（亦作“ω-相容性”）",
+   "basis": "数理逻辑通行（复旦大学出版社《数理逻辑·证明及其限度》§9.4.2 与科学出版社《哥德尔不完全性定理》第 5 章均用“ω-一致性”；审定库数学名词作“ω相容性”，降为亦作；2026-11-14 权威译本联网复核）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -85558,10 +85566,17 @@
      "cn": "一致性",
      "en": "consistency",
      "source": "食品卫生学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "ω-一致性",
+     "en": "ω-consistency",
+     "source": "复旦大学出版社《数理逻辑·证明及其限度》（郝兆宽、杨睿之，2014）§9.4.2；科学出版社《哥德尔不完全性定理》（2019）第 5 章"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -126879,18 +126894,25 @@
    "line": 5918,
    "term": "trope / tropes",
    "trans": "特普",
-   "basis": "学界通行译法（属性实例；与共相对举）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `tropes`）",
-   "status": "不一致",
+   "basis": "学界通行译法（属性实例；与共相对举）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `tropes`）；2026-11-14 权威译本联网复核保留（审定命中均为修辞学/动物学同形噪声；商务印书馆《外国哲学》第 39 辑《特普理论与心灵因果问题》、华东师范大学出版社《金在权因果排斥论证研究》均用“特普理论”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "附加段",
      "en": "trope",
      "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "特普",
+     "en": "tropes",
+     "source": "商务印书馆《外国哲学》第三十九辑（赵敦华主编，ISBN 9787100187299）所收《特普理论与心灵因果问题》；华东师范大学出版社《金在权因果排斥论证研究》（ISBN 9787576016710）第三节\"特普理论与属性的本体论策略\""
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -129268,18 +129290,25 @@
    "line": 6033,
    "term": "universal / universals",
    "trans": "共相（中世纪-黑格尔传统）",
-   "basis": "学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `universals`）",
-   "status": "不一致",
+   "basis": "学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-13 重复行合并（旧键 `universals`）；2026-11-14 权威工具书联网复核保留（审定命中均为普适性/大学/全域等同形噪声；《中国大百科全书·哲学》卷“共相”条目框架，共相/殊相之争为学界千年通行对举）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "通用的，万用的",
      "en": "universal",
      "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "共相",
+     "en": "universals",
+     "source": "《中国大百科全书·哲学》卷\"共相\"条目框架；中世纪哲学唯名论/实在论研究通行（共相/殊相对举）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -176870,9 +176899,11 @@
    "term": "Plumwood, Val",
    "trans": "Val Plumwood",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176880,9 +176911,11 @@
    "term": "Plutarch",
    "trans": "普鲁塔克",
    "basis": "千年通行译名（希腊化传记作家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176890,9 +176923,11 @@
    "term": "Pocheville, Arnaud",
    "trans": "阿尔诺·波舍维尔",
    "basis": "音译（因果特异性与信息）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176900,9 +176935,11 @@
    "term": "Podolsky, Boris",
    "trans": "鲍里斯·波多尔斯基",
    "basis": "学界通行汉译（EPR 论证）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176910,9 +176947,11 @@
    "term": "Podong Choklé Namgyel",
    "trans": "博东·却列南杰",
    "basis": "佛学界通行（Bo dong Phyogs las rnam rgyal）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176920,9 +176959,11 @@
    "term": "Pogge, Thomas",
    "trans": "托马斯·博格",
    "basis": "学界通行汉译（全球正义研究通行“博格”）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176930,9 +176971,11 @@
    "term": "Poggio Bracciolini",
    "trans": "波焦·布拉乔利尼",
    "basis": "学界通行汉译（人文主义者、教宗秘书）；待 specs/008 审定库复核",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176940,9 +176983,11 @@
    "term": "Poincaré, Henri / Henri Poincaré",
    "trans": "Poincaré",
    "basis": "本库惯例保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Henri Poincaré`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176950,9 +176995,11 @@
    "term": "Poiret, Pierre",
    "trans": "皮埃尔·普瓦雷",
    "basis": "学界通行音译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176960,9 +177007,11 @@
    "term": "Poisson, Siméon Denis",
    "trans": "泊松",
    "basis": "学界通行汉译（数学家，泊松分布之泊松）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176970,9 +177019,11 @@
    "term": "Polanyi, Michael",
    "trans": "波兰尼",
    "basis": "学界通行汉译（《个人知识》作者，科学哲学家与经济学家）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176980,9 +177031,11 @@
    "term": "Polger, Thomas",
    "trans": "托马斯·波尔格",
    "basis": "学界惯例（心灵哲学文献通译）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176990,9 +177043,11 @@
    "term": "Pöll, Wilhelm",
    "trans": "威廉·珀尔",
    "basis": "学界惯例音译（现象学本质学说）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177000,9 +177055,11 @@
    "term": "Pólya, George",
    "trans": "波利亚",
    "basis": "数学教育学界通行汉译（《怎样解题》作者）；审定库无相关命中（凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177010,9 +177067,11 @@
    "term": "Pomponazzi, Pietro",
    "trans": "皮耶特罗·彭波那齐",
    "basis": "文艺复兴哲学通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177020,9 +177079,24 @@
    "term": "Poncelet, Jean-Victor",
    "trans": "让-维克托·蓬斯莱",
    "basis": "射影几何复兴者，数学史通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177030,9 +177104,11 @@
    "term": "Pope, Alexander",
    "trans": "亚历山大·蒲柏",
    "basis": "学界通行汉译（诗人，库德沃斯推崇者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177040,9 +177116,11 @@
    "term": "Popkin, Richard / Richard Popkin",
    "trans": "理查德·波普金",
    "basis": "学界通行汉译（怀疑论史家）；2026-11-13 重复行合并（旧键 `Richard Popkin`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177050,9 +177128,11 @@
    "term": "Popper, Karl / Karl Popper",
    "trans": "卡尔·波普尔",
    "basis": "学界通行汉译；2026-11-13 重复行合并（旧键 `Karl Popper`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177060,9 +177140,11 @@
    "term": "Porchat Pereira, Oswaldo",
    "trans": "奥斯瓦尔多·波尔沙特·佩雷拉",
    "basis": "音译（葡萄牙语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177089,9 +177171,11 @@
    "term": "Porta, Giovanbattista della",
    "trans": "焦万巴蒂斯塔·德拉·波尔塔",
    "basis": "科学史通行音译（《自然魔法》作者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177099,9 +177183,11 @@
    "term": "Portilla, Jorge",
    "trans": "豪尔赫·波蒂利亚",
    "basis": "学界通行汉译；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177109,9 +177195,11 @@
    "term": "Portin, Petter",
    "trans": "佩特·波尔廷",
    "basis": "基因概念研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177119,9 +177207,11 @@
    "term": "Portugal, Agnaldo",
    "trans": "阿格纳尔多·波尔图加尔",
    "basis": "音译（葡萄牙语译名惯例）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177129,9 +177219,11 @@
    "term": "Porzio, Simone",
    "trans": "西蒙内·波尔齐奥",
    "basis": "本词条首译（文艺复兴医生、亚里士多德派）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177139,9 +177231,11 @@
    "term": "Posidonius",
    "trans": "波西多尼乌斯",
    "basis": "学界通行汉译（家法形，同 epictetus/justus-lipsius 既有行）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177149,9 +177243,11 @@
    "term": "Posner, Richard",
    "trans": "理查德·波斯纳",
    "basis": "学界通行汉译（法学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177159,9 +177255,11 @@
    "term": "Post, Emil",
    "trans": "埃米尔·波斯特",
    "basis": "学界通行汉译（数理逻辑学家，波斯特机、波斯特对应问题）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177169,9 +177267,11 @@
    "term": "Potamon of Alexandria",
    "trans": "亚历山大的波塔蒙",
    "basis": "学界通行音译（施图尔姆以之为折衷哲学首倡者）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177179,9 +177279,11 @@
    "term": "Poulain de la Barre, François",
    "trans": "弗朗索瓦·普兰·德·拉巴尔",
    "basis": "学界通行（《论两性的平等》作者；行文简称“普兰”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177189,9 +177291,11 @@
    "term": "Poulantzas, Nicos",
    "trans": "尼科斯·普兰查斯",
    "basis": "马克思主义国家理论家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177199,9 +177303,11 @@
    "term": "Pound, Ezra",
    "trans": "埃兹拉·庞德",
    "basis": "学界通行汉译（诗人、《孔子》英译者）；凭证 2026-11-12 confucius r2",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177209,9 +177315,11 @@
    "term": "Pourciau, Bruce",
    "trans": "布鲁斯·波尔西奥",
    "basis": "数学史通行音译（牛顿第二定律研究）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177219,9 +177327,11 @@
    "term": "Poznański, Edward",
    "trans": "Edward Poznański",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177229,9 +177339,11 @@
    "term": "Prabhācandra",
    "trans": "钵罗跋旃陀罗",
    "basis": "梵音自拟（《所知莲花之烈日》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -177239,9 +177351,11 @@
    "term": "Pradeu, Thomas",
    "trans": "托马斯·普拉杜",
    "basis": "学界通行音译（《自我的界限》作者）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -189843,9 +189957,11 @@
    "term": "Plotinus",
    "trans": "普罗提诺",
    "basis": "学界通行（新柏拉图主义创立者）；2026-11-09 合并重复行（landmann-kalischer 并入本行，原 3 列欠账行删除）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
