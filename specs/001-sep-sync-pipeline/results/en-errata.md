@@ -187,3 +187,5 @@
 | sovereignty | `Machiavelli, Niccolo,` | `Niccol&ograve;` | 变音符缺失（①） |
 | sovereignty | wilks-1964 缺句末句点 | 补句点 | 排印（①） |
 | sovereignty | `2nd. edition`（pogge-2008） | `2nd edition` | 句点错位（①） |
+| bohr-correspondence | hassoun-1989 `correspondence principle,”,` | 去多余逗号 | 双标点（①） |
+| bohr-correspondence | `quantentheorische Umdeutung` | `quantentheoretische` | 德语正字（①） |
