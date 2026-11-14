@@ -1,0 +1,19 @@
+{
+ "key": "ostwald, wilhelm",
+ "term": "Ostwald, Wilhelm",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T18:01:02+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "奥氏熟化",
+   "en": "Ostwald ripening",
+   "code": "GB/T 41316—2022",
+   "standard": "分散体系稳定性表征指导原则",
+   "subject": "试验"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1}, \"sourceStats\": {\"试验\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"c5d05fc44229465bbc574461a6cee5b4\", \"databaseId\": null, \"standardId\": \"90de2b23fcda4a2e96f8f39c6f8d450c\", \"standardCode\": \"GB/T 41316—2022\", \"standardName\": \"分散体系稳定性表征指导原则\", \"standardEnName\": \"Guidelines for the characterization of dispersion stability\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"3.10\", \"cnName\": \"奥氏熟化\", \"enName\": \"Ostwald ripening\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"19.120\", \"ccs\": \"A 28\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153308, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"奥氏熟化\", \"cnNameSearch\": \"奥氏熟化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Ostwald ripening\", \"wordSearch\": \"Ostwald ripening\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"小颗粒溶解并在较大颗粒的表面重新沉积的过程。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>此过程发生的原因是较小颗粒有较高的表面能和较高的总吉布斯自由能，因而有明显的较高的溶解度。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"IUPAC Gold Book\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794679258483}"
+}

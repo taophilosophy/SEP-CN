@@ -1,0 +1,19 @@
+{
+ "key": "parker, theodore",
+ "term": "Parker, Theodore",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T18:01:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "帕克印刷表面粗糙度",
+   "en": "Parker Print-Surf roughness",
+   "code": "GB/T 41197—2021",
+   "standard": "印刷技术  印刷纸张特性沟通交流规则",
+   "subject": "成像技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1}, \"sourceStats\": {\"成像技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"6956d150d2754a5b9c6dcefc1a9800d1\", \"databaseId\": null, \"standardId\": \"9c40284e32654c2d826106d40140e197\", \"standardCode\": \"GB/T 41197—2021\", \"standardName\": \"印刷技术  印刷纸张特性沟通交流规则\", \"standardEnName\": \"Graphic technology—Communication of graphic paper properties\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.8\", \"cnName\": \"帕克印刷表面粗糙度\", \"enName\": \"Parker Print-Surf roughness\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"37.100.01\", \"ccs\": \"A 17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162339, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"帕克印刷表面粗糙度\", \"cnNameSearch\": \"帕克印刷表面粗糙度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Parker Print-Surf roughness\", \"wordSearch\": \"Parker Print-Surf roughness\"}, {\"languageType\": 1, \"word\": \"PPS\", \"wordSearch\": \"PPS\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定条件下，纸或纸板表面与测量环平面之间的平均缝隙。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>由测量环和测试纸样之间的气流来计算，以微米（μm）表示。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"ISO 8791-4：2007\", \"sourceCode\": \"3.1\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794679274490}"
+}

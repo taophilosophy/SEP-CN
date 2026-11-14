@@ -131,7 +131,7 @@ One place where this kind of empirical etiological inquiry is important is in as
 
 One note before proceeding. Our focus in what follows is on empirical questions about how certain forms of ignorance, especially moral ignorance, arise. In putting the focus here, we are passing over important conceptual questions that remain unsettled about such things as whether moral ignorance excuses at all (we are assuming, in agreement with the weight of philosophical opinion, that it does), and if so, precisely which forms of moral ignorance are excusing. Weatherson 2019, Chapter 5 provides a helpful overview of the literature on these questions.
 
-### 3.1 Culture and Moral Ignorance
+### 3.2 Culture and Moral Ignorance
 
 Michael Slote observes that though slavery is viewed as morally repugnant today, it was widespread in the ancient world (Slote 1982)[^slote-1982]. So, can we blame Greek slave owners for their wrongdoing or their acts of vice? Slote thinks we cannot, because Greek slave owners were simply unable to see what virtue required regarding slavery. The reason, he believes, is that slavery was too much of a *universal* phenomenon, constraining people’s ability to conceive of alternatives. He writes:
 
@@ -143,7 +143,7 @@ According to Moody-Adams, a better explanation of culturally sanctioned immoral 
 
 Our failure to see this as the correct etiological story owes to underappreciation of two facts about human psychology that are, according to Moody-Adams, well attested to in anthropology, social psychology, and case reports. The first fact is the “banality of evil,” the observation that ordinary humans are regularly and routinely able to inflict great cruelty on their fellows if there are incentives to do so. Moody-Adams cites Stanley Milgram’s famous experiments on obedience (Milgram 1965)[^milgram-1965], among other empirical data, in support. The second fact is our proclivity towards “affected ignorance,” in which individuals engage in subtle forms of self-deception and motivated evidence seeking. Slavery was maintained as an institution, Moody-Adams surmises, because people made choices that were in part cruel and in part affectedly ignorant. See also Calhoun 1989 and Mills 2007, for influential related arguments.
 
-### 3.2 Social Networks and “Bad Beliefs”
+### 3.3 Social Networks and “Bad Beliefs”
 
 Neil Levy offers a contrasting perspective in investigating a related phenomenon, the acquisition of “bad beliefs” among members of certain political or ideological subcultures, for example, communities of climate change deniers, vaccination skeptics, or supporters of demagogic political figures (Levy 2021)[^levy-2021].
 

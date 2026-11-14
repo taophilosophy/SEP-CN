@@ -1,0 +1,19 @@
+{
+ "key": "swinburne, algernon charles",
+ "term": "Swinburne, Algernon Charles",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T18:03:50+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "查尔斯枪",
+   "en": "Charles gun",
+   "code": "GB/T 4597—2012",
+   "standard": "电 子 管 词 汇",
+   "subject": "电子学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2012\": 1}, \"sourceStats\": {\"电子学\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"2794493793114deaadb06a1fac576ae7\", \"databaseId\": null, \"standardId\": \"07d5d74b34794ff7a558c89f092d7422\", \"standardCode\": \"GB/T 4597—2012\", \"standardName\": \"电 子 管 词 汇\", \"standardEnName\": \"Vocabulary of electronic tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.3.30\", \"cnName\": \"查尔斯枪\", \"enName\": \"Charles gun\", \"publishTime\": \"2012-11-05\", \"publishYear\": \"2012\", \"implementTime\": \"2013-02-15\", \"ics\": \"31.10031\", \"ccs\": \"L35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 7292, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"查尔斯枪\", \"cnNameSearch\": \"查尔斯枪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Charles gun\", \"wordSearch\": \"Charles gun\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在正交电磁场存在的情况下，将电子注注人到高频结构端部的一种电子枪。\\n[IECIEV50531:1974,定义531-23-30]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794679426493}"
+}

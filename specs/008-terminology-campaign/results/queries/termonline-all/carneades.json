@@ -1,0 +1,33 @@
+{
+ "key": "carneades",
+ "term": "Carneades",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T18:05:53+00:00",
+ "status": "ok",
+ "note": "variant=Carneades; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "肉柱",
+   "en": "trabeculae carneae",
+   "code": "05.0055",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_脉管学_心"
+  },
+  {
+   "cn": "[心]肉柱",
+   "en": "trabeculae carneae cordis",
+   "code": "03.594",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_胸心血管外科学"
+  },
+  {
+   "cn": "肉柱",
+   "en": "Trabeculae carneae",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
