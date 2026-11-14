@@ -107,3 +107,5 @@
 | object | `Wien: &Ouml;bvetHpt` / `<em>Oxford</em>: Oxford` / `<em>Words without Objects:</em> ,` | `ÖBV & HPT` / `Oxford:` / `Words without Objects` | 出版社、斜体与标点（①） |
 | occasionalism | `(Weinburg 1964, 272)` / `Bouillier 1865` | `Weinberg` / `1854` | 拼写与年份（①②） |
 | occasionalism | `Trunbout: Brepols` / `Constructionsn` | `Turnhout` / `Constructions` | 拼写（①） |
+| erasmus | `quiddities and ecceities` / `Duncker &amp; Humbolt` / `Dodds, Gregory , 2009` | `haecceities` / `Humboldt` / `Gregory,` | 拼写与空格（①） |
+| erasmus | `&Eacute;<em>rasme…` / `<em>. Desiderius Erasmus…` | 斜体含重音字母、去首点 | 斜体错位（①） |

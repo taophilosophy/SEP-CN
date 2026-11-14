@@ -27,7 +27,7 @@ In 1529 when the city of Basel, where he resided at the time, turned Protestant,
 
 During his lifetime Erasmus’ name became synonymous with humanism, a label also adopted in modern reference works (such as Nauert 2006)[^nauert-2006]. Today the term “humanist” has a broad range of meanings. In the 16ᵗʰ century the word denoted a student or teacher of the *studia humanitatis*, a curriculum focusing on the study of classical languages, rhetoric, and literature. At northern universities, where scholasticism and the dialectical method reigned supreme, the trend-setting humanists were regarded as challengers of the status quo (see Rummel 1995)[^rummel-1995]. The defenders of tradition belittled their competitors as “grammarians” and dismissed the humanities as *poetria*, the stuff of poetry. To a certain extent, the tensions between the two schools of thought may be explained in terms of professional jealousy, but at its core was the dispute over methodology and qualifications. Humanists favored rhetorical arguments; scholastics insisted on logical proof. Scholastic theologians in particular regarded the humanists as dangerous interlopers. They questioned their orthodoxy because of their inclination to use the skeptical *ars dubitandi* and denied their right to apply philological principles to the biblical text. Scripture, they insisted, was the exclusive domain of graduate theologians. Humanists in turn saw the dialectical method used by the scholastics as a perversion of Aristotelian logic and derided their technical terminology as a corruption of the Latin language. In the *Praise of Folly* Erasmus lampooned scholastic theologians in a passage that became notorious:
 
-> They are fortified with an army of scholastic definition, conclusions, corollaries, and propositions both explicit and implicit…. They quibble about concepts, relations, instants, formalities, quiddities and ecceities, which a man could not possibly perceive unless like Lynceus he could see through blackest darkness things which don’t exist…. You’d extricate yourself faster from a labyrinth than from the tortuous obscurities of realists, nominalists, Thomists, Albertists, Ockhamists, and Scotists…. Such is the erudition and complexity they all display that I fancy the apostles themselves would need the help of another Holy Spirit if they were obliged to join issue on these topics with our new breed of theologians. (CWE 27: 126–7)
+> They are fortified with an army of scholastic definition, conclusions, corollaries, and propositions both explicit and implicit…. They quibble about concepts, relations, instants, formalities, quiddities and haecceities, which a man could not possibly perceive unless like Lynceus he could see through blackest darkness things which don’t exist…. You’d extricate yourself faster from a labyrinth than from the tortuous obscurities of realists, nominalists, Thomists, Albertists, Ockhamists, and Scotists…. Such is the erudition and complexity they all display that I fancy the apostles themselves would need the help of another Holy Spirit if they were obliged to join issue on these topics with our new breed of theologians. (CWE 27: 126–7)
 
 On a more serious note, he voiced two objections against the dialectical disputations of the theologians: “The portentious filth of their barbarous and artificial style” obscured the meaning (CWE 3: 124), and their argumentation lacked a moral dimension. Scholastic disputations honed intellectual skills but failed to make better Christians of the protagonists. “Well, we are training not a pugilist but a theologian”, Erasmus says in his *Methodus*, “and a theologian who prefers to express with his life rather than in syllogisms what he professes” (CWE 41: 452).
 
@@ -266,7 +266,7 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^bejczy-2001]: Bejczy, Istvan, 2001, *Erasmus and the Middle Ages: The Historical Consciousness of a Christian Humanist*, Leiden: Brill.
 
-[^béné-1969]: Béné, Charles, 1969, É*rasme et Saint Augustin, ou Influence de Saint Augustin sur l’humanisme d’Érasme*, Geneva: Droz,
+[^béné-1969]: Béné, Charles, 1969, *Érasme et Saint Augustin, ou Influence de Saint Augustin sur l’humanisme d’Érasme*, Geneva: Droz.
 
 [^bentley-1983]: Bentley, Jerry H., 1983, *Humanists and Holy Writ: New Testament Scholarship in the Renaissance*, Princeton: Princeton University Press.
 
@@ -300,7 +300,7 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^de-1987]: De Molen, Richard, 1987, *The Spirituality of Erasmus*, Nieuwkoop: De Graaf.
 
-[^dodds-2009]: Dodds, Gregory , 2009, *Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England*, Toronto: University of Toronto Press.
+[^dodds-2009]: Dodds, Gregory, 2009, *Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England*, Toronto: University of Toronto Press.
 
 [^dolfen-1936]: Dolfen, Christian, 1936, *Die Stellung des Erasmus von Rotterdam zur scholastischen Methode*, Osnabrück: Meinders & Elstermann.
 
@@ -322,7 +322,7 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^kerlen-1976]: Kerlen, Dietrich, 1976, *Assertio: Die Entwicklung von Luthers theologischem Anspruch und der Streit mit Erasmus von Rotterdam*, Wiesbaden: Franz Steiner.
 
-[^koerber-1967]: Koerber, Eberhard von, 1967, *Die Staatstheorie des Erasmus von Rotterdam*, Berlin: Duncker & Humbolt.
+[^koerber-1967]: Koerber, Eberhard von, 1967, *Die Staatstheorie des Erasmus von Rotterdam*, Berlin: Duncker & Humboldt.
 
 [^kohls-1966]: Kohls, Ernst–Wilhelm, 1966, *Die Theologie des Erasmus*, 2 vols., Basel: F. Reinhardt.
 
@@ -362,4 +362,4 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^walter-1991]: Walter, Peter, 1991, *Theologie aus dem Geist der Rhetorik zur Schriftauslegung des Erasmus von Rotterdam*, Mainz: Mathias-Grünewald-Verlag.
 
-[^woodward-1904]: Woodward, William, 1904 [1971], *. Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.
+[^woodward-1904]: Woodward, William, 1904 [1971], *Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.

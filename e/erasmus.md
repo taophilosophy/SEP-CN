@@ -26,7 +26,7 @@
 
 伊拉斯谟在世时，他的名字便成了人文主义的同义词；现代参考著作也沿用这一标签（如 Nauert 2006）[^nauert-2006]。今天，“人文主义者”一词的含义很宽。在 16 世纪，这个词指人文学科（*studia humanitatis*）的学生或教师；人文学科是一份以古典语言、修辞学与文学研究为重心的课程。在经院哲学与辩证方法居于至高地位的北方大学，开风气之先的人文主义者被视为挑战现状者（见 Rummel 1995）[^rummel-1995]。传统的捍卫者贬称其竞争对手为“文法家”，并不屑地称人文学问为 *poetria*（诗艺）——诗人的行当。两派之间的紧张，在一定程度上可归因于同行的妒忌，但其核心是关于方法与资历的争执。人文主义者偏爱修辞式论证；经院学者坚持逻辑证明。经院神学家尤其把人文主义者视为危险的入侵者。他们因人文主义者好用怀疑论式的 *ars dubitandi*（怀疑之术）而质疑其正统性，并否认他们把语文学原则施用于圣经文本的权利。他们坚称，圣经是高年级神学家的专属领域。人文主义者则反唇相讥，把经院学者所用的辩证方法看作对亚里士多德逻辑的败坏，讥讽其术语是拉丁语的堕落。在《愚人颂》中，伊拉斯谟以一段后来声名狼藉的文字挖苦经院神学家：
 
-> 他们以经院定义、结论、推论以及或明或隐的命题组成的大军武装自己……他们对概念、关系、瞬间、形式、本质与“实存样态”（ecceities）争执不下——除非人像林叩斯那样能在最深的黑暗中看见不存在的东西，否则绝无可能把握这些……你要从真实派、唯名派、托马斯派、阿尔伯图派、奥卡姆派与司各脱派那扭曲隐晦的迷雾中脱身，比走出迷宫还难……他们人人摆出的这套学问与繁复，令我想象：若使徒们被迫与我们这支新式神学家队伍就这些题目过招，他们也需要另一位圣灵来帮忙。（CWE 27: 126–7）
+> 他们以经院定义、结论、推论以及或明或隐的命题组成的大军武装自己……他们对概念、关系、瞬间、形式、本质与“实存样态”（haecceities）争执不下——除非人像林叩斯那样能在最深的黑暗中看见不存在的东西，否则绝无可能把握这些……你要从真实派、唯名派、托马斯派、阿尔伯图派、奥卡姆派与司各脱派那扭曲隐晦的迷雾中脱身，比走出迷宫还难……他们人人摆出的这套学问与繁复，令我想象：若使徒们被迫与我们这支新式神学家队伍就这些题目过招，他们也需要另一位圣灵来帮忙。（CWE 27: 126–7）
 
 说了这些俏皮话，他还正色提出对神学家辩证论辩的两项反对：其一，“他们粗野而做作的文风那骇人的污浊”遮蔽了意义（CWE 3: 124）；其二，其论证缺乏道德维度。经院论辩磨砺智识技能，却未能使论辩各方成为更好的基督徒。“嗯，我们要培养的不是拳击手，而是神学家”，伊拉斯谟在《方法》（*Methodus*）中说，“是一位宁肯用生活而非用三段论来表达其信仰的神学家”（CWE 41: 452）。
 
@@ -184,9 +184,9 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；CWE（Collected Works of Erasmus 多伦多英译本）、ASD（阿姆斯特丹 Opera Omnia 批判版）、LB（莱顿 1703–1706 版）、Ep.（Allen 书信编号）等缩写词表亦见脚注定义。
 
-[^for-1897]: For a repertory of individual works and their early editions, see Ferdinand Van der Haeghen, *Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme* (first published 1897, most recent reprinted Würzburg: Osthoff, 2005).
+[^for-1897]: 各单篇著作及其早期版本的目录，见费迪南德·范德哈根（Ferdinand Van der Haeghen）《伊拉斯谟著作目录》（*Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme*，1897 年初版；最近重印为 Würzburg: Osthoff, 2005）。
 
-[^erasmus’-nd]: Erasmus’ *Opera Omnia* were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
+[^erasmus’-nd]: 伊拉斯谟《全集》（*Opera Omnia*）初刊于巴塞尔：Froben，1540 年；该版所采用的著作编排，后来成为各版的范本。其著作的权威校勘本（ASD）与英译本（CWE）仍在进行中。
 
 [^allen-1906]: [Allen] *Opus Epistolarum Des. Erasmi Roterodami*, 12 vols., edited by P.S. Allen and others, Oxford: Oxford University Press, 1906–1958. doi:10.1093/actrade/9780198203414.book.1
 
@@ -196,7 +196,7 @@
 
 [^lb-1703]: [LB] *Opera Omnia Des. Erasmi Roterodami*, 10 vols. Leiden: Peter van der Aa, 1703–1706.
 
-[^texts-nd]: Texts not (or not yet) included in these editions:
+[^texts-nd]: 以下文本未（或尚未）收入上述诸版：
 
 [^ferguson-1933]: Ferguson, Wallace K. (ed.), *Erasmi Opuscula. A Supplement to the Opera Omnia*, The Hague: Martinus Nijhoff, 1933.
 
@@ -238,7 +238,7 @@
 
 [^bejczy-2001]: Bejczy, Istvan, 2001, *Erasmus and the Middle Ages: The Historical Consciousness of a Christian Humanist*, Leiden: Brill.
 
-[^béné-1969]: Béné, Charles, 1969, É*rasme et Saint Augustin, ou Influence de Saint Augustin sur l’humanisme d’Érasme*, Geneva: Droz,
+[^béné-1969]: Béné, Charles, 1969, *Érasme et Saint Augustin, ou Influence de Saint Augustin sur l’humanisme d’Érasme*, Geneva: Droz.
 
 [^bentley-1983]: Bentley, Jerry H., 1983, *Humanists and Holy Writ: New Testament Scholarship in the Renaissance*, Princeton: Princeton University Press.
 
@@ -272,7 +272,7 @@
 
 [^de-1987]: De Molen, Richard, 1987, *The Spirituality of Erasmus*, Nieuwkoop: De Graaf.
 
-[^dodds-2009]: Dodds, Gregory , 2009, *Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England*, Toronto: University of Toronto Press.
+[^dodds-2009]: Dodds, Gregory, 2009, *Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England*, Toronto: University of Toronto Press.
 
 [^dolfen-1936]: Dolfen, Christian, 1936, *Die Stellung des Erasmus von Rotterdam zur scholastischen Methode*, Osnabrück: Meinders & Elstermann.
 
@@ -294,7 +294,7 @@
 
 [^kerlen-1976]: Kerlen, Dietrich, 1976, *Assertio: Die Entwicklung von Luthers theologischem Anspruch und der Streit mit Erasmus von Rotterdam*, Wiesbaden: Franz Steiner.
 
-[^koerber-1967]: Koerber, Eberhard von, 1967, *Die Staatstheorie des Erasmus von Rotterdam*, Berlin: Duncker & Humbolt.
+[^koerber-1967]: Koerber, Eberhard von, 1967, *Die Staatstheorie des Erasmus von Rotterdam*, Berlin: Duncker & Humboldt.
 
 [^kohls-1966]: Kohls, Ernst–Wilhelm, 1966, *Die Theologie des Erasmus*, 2 vols., Basel: F. Reinhardt.
 
@@ -334,7 +334,7 @@
 
 [^walter-1991]: Walter, Peter, 1991, *Theologie aus dem Geist der Rhetorik zur Schriftauslegung des Erasmus von Rotterdam*, Mainz: Mathias-Grünewald-Verlag.
 
-[^woodward-1904]: Woodward, William, 1904 [1971], *. Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.
+[^woodward-1904]: Woodward, William, 1904 [1971], *Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.
 
 ## 学术工具
 
