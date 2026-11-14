@@ -9,8 +9,8 @@
  "counts": {
   "查无": 7567,
   "未查证": 1238,
-  "一致": 1227,
-  "不一致": 850
+  "一致": 1238,
+  "不一致": 839
  },
  "results": [
   {
@@ -1759,9 +1759,9 @@
    "table": "术语",
    "line": 96,
    "term": "act-utilitarianism",
-   "trans": "行为功利主义",
-   "basis": "功利主义分类标准译名；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "行为功利主义（亦作“行为功利论”）",
+   "basis": "功利主义分类标准译名；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 联网复核补亦作（审定形“行为功利论”；“行动功利主义”为少数译本形，账留不堆叠）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -1774,10 +1774,17 @@
      "cn": "行为功利论",
      "en": "act utilitarianism",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "行为功利论",
+     "en": "act-utilitarianism",
+     "source": "审定形“行为功利论”；学界主流“行为功利主义”（与规则功利主义相对）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -2590,19 +2597,26 @@
    "table": "术语",
    "line": 126,
    "term": "admissible set",
-   "trans": "可容许集",
-   "basis": "Mares–Goldblatt 语义术语直译；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "可容许集（亦作“容许集”）",
+   "basis": "Mares–Goldblatt 语义术语直译；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定《数学名词》递归论规范形“容许集”（《英汉数学词汇》同），解析数论“可容许集”为同形异义；本条为语义语境直译，两形注记）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "容许集",
      "en": "admissible set",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "容许集",
+     "en": "admissible set",
+     "source": "审定《数学名词》递归论规范形；《英汉数学词汇（第三版）》admissible set 容许集；解析数论“可容许集”为同形异义"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -3222,9 +3236,9 @@
    "table": "术语",
    "line": 161,
    "term": "affirmative action",
-   "trans": "平权行动",
-   "basis": "美国政策语境通行汉译（亦作“肯定性行动”）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "平权行动（亦作“肯定性行动”）",
+   "basis": "美国政策语境通行汉译；凭证 2026-11-10；2026-11-15 联网复核（学术文献偏“肯定性行动（计划）”，媒体偏“平权行动/平权法案”，两形并行；亦作移入译法列）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -3237,10 +3251,17 @@
      "cn": "肯定性行动计划",
      "en": "Affirmative Action Programme",
      "source": "世界历史名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "肯定性行动",
+     "en": "affirmative action",
+     "source": "学术文献偏“肯定性行动（计划）”，媒体偏“平权行动/平权法案”，两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -3707,17 +3728,24 @@
    "term": "agreeableness",
    "trans": "宜人性",
    "basis": "大五特质通行汉译；凭证 2026-11-10",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "亲和性",
      "en": "agreeableness",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "宜人性",
+     "en": "agreeableness",
+     "source": "大五人格中文问卷（CBF-PI-B 等）与心理学文献标准译名"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -4480,19 +4508,26 @@
    "table": "术语",
    "line": 224,
    "term": "allegory",
-   "trans": "寓言",
-   "basis": "学界惯例（文学理论通行）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "寓言（亦作“讽喻”）",
+   "basis": "学界惯例；2026-11-15 依据列更正并补亦作（一般文学理论语境通行“讽喻”，与 fable=寓言分义；德国浪漫派与本雅明研究脉络通行“寓言”——陈永国译《德国悲剧的起源》（文化艺术出版社 2001）以“寓言”对 Allegorie；施勒格尔“寓言（二元）/象征（统一）”之辨为该词条语境）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "讽喻",
      "en": "allegory",
      "source": "语言学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "寓言",
+     "en": "allegory",
+     "source": "陈永国译本《德国悲剧的起源》（文化艺术出版社 2001）以“寓言”对 Allegorie；一般文学理论语境通行“讽喻”并注"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -6276,7 +6311,8 @@
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -6332,9 +6368,9 @@
    "table": "术语",
    "line": 299,
    "term": "anthropomorphism",
-   "trans": "神人同形同性论",
-   "basis": "学界通行（宗教哲学）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "神人同形同性论（亦作“拟人论”）",
+   "basis": "学界通行（宗教哲学）；凭证 2026-11-07；2026-11-15 联网复核补亦作（一般语境主流“拟人论/拟人化”，“神人同形同性论”多见宗教学文献，两形并存）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -6359,10 +6395,17 @@
      "cn": "拟人主义",
      "en": "anthropomorphism",
      "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "拟人论",
+     "en": "anthropomorphism",
+     "source": "一般语境主流“拟人论/拟人化”；宗教学文献通行“神人同形同性论”两形并存"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -7789,9 +7832,9 @@
    "table": "术语",
    "line": 384,
    "term": "arithmetical hierarchy",
-   "trans": "算术层级",
-   "basis": "递归论通行译法；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "算术层级（亦作“算术层谱”）",
+   "basis": "递归论通行译法；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定形“算术层谱”，然“层谱”多用于 hyperarithmetical hierarchy 超算术层谱，分义注记）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -7816,10 +7859,17 @@
      "cn": "性别等级制 gender hierarchy",
      "en": null,
      "source": "社会学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "算术层谱",
+     "en": "arithmetical hierarchy",
+     "source": "审定形“算术层谱”；通行“算术层级/算术阶层”；“层谱”多用于 hyperarithmetical hierarchy"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -9444,7 +9494,7 @@
    "term": "authenticity",
    "trans": "本真性",
    "basis": "发布词汇表既有形（法哲学效力义）；凭证 2026-11-07",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -9469,10 +9519,17 @@
      "cn": "真实性",
      "en": "authenticity",
      "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "本真性",
+     "en": "authenticity",
+     "source": "海德格尔《存在与时间》陈嘉映王庆节译本系“本真性/非本真性”；亦见“真诚性”他译"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -10067,17 +10124,24 @@
    "term": "Axiom of Reducibility",
    "trans": "可还原性公理",
    "basis": "逻辑学界通行译法；凭证 2026-11-06",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "还原公理",
      "en": "axiom of reducibility",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "可还原性公理",
+     "en": "Axiom of Reducibility",
+     "source": "罗素《数学原理》类型论语境中文文献通行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -11512,19 +11576,26 @@
    "table": "术语",
    "line": 573,
    "term": "belief function",
-   "trans": "信念函数",
-   "basis": "学界惯例（Dempster-Shafer 理论通行）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "信念函数（亦作“信度函数”）",
+   "basis": "学界惯例（Dempster-Shafer 理论通行）；凭证 2026-11-08；2026-11-15 联网复核补亦作（证据理论文献“信念函数/信度函数”并存；审定“可信度函数”多指 plausibility function 似真函数，分义注记）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "可信度函数",
      "en": "belief function",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "信度函数",
+     "en": "belief function",
+     "source": "证据理论文献“信念函数/信度函数”并存；审定“可信度函数”多指 plausibility function"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -11740,19 +11811,26 @@
    "table": "术语",
    "line": 586,
    "term": "beneficence",
-   "trans": "行善",
-   "basis": "学界通行（伦理学义务论；与 justice 正义对举）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "行善（亦作“有利”）",
+   "basis": "学界通行（伦理学义务论；与 justice 正义对举）；凭证 2026-11-09；2026-11-15 联网复核补亦作（生命伦理学四原则文献“行善原则/有利原则”两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "有利",
      "en": "beneficence",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "有利",
+     "en": "beneficence",
+     "source": "生命伦理学四原则文献“行善原则/有利原则”两形并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
