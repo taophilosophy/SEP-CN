@@ -1,0 +1,19 @@
+{
+ "key": "thomson, judith jarvis",
+ "term": "Thomson, Judith Jarvis",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:51:10+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "汤姆逊散射诊断",
+   "en": "Thomson scatteringdiagnostic",
+   "code": "GB/T 4960.9—2013",
+   "standard": "核科学技术术语第9部分:磁约束核聚变",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"09a40e5c08dc452593082e9a5f0ffdba\", \"databaseId\": null, \"standardId\": \"e2ce134cac2f4a91a5f1355425b8a4ac\", \"standardCode\": \"GB/T 4960.9—2013\", \"standardName\": \"核科学技术术语第9部分:磁约束核聚变\", \"standardEnName\": \"Glossary of nuclear science and technology terms-Part 9: Magnetic confinement fusion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.3.34\", \"cnName\": \"汤姆逊散射诊断\", \"enName\": \"Thomson scatteringdiagnostic\", \"publishTime\": \"2013-02-07\", \"publishYear\": \"2013\", \"implementTime\": \"2013-07-01\", \"ics\": \"27.120.0127\", \"ccs\": \"F40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 222193, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"汤姆逊散射诊断\", \"cnNameSearch\": \"汤姆逊散射诊断\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Thomson scatteringdiagnostic\", \"wordSearch\": \"Thomson scatteringdiagnostic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"激光散射（诊断）laser scattering（diagnostic)\\n利用激光散射和等离子体电子引起的多普勒位移测量温度和密度的诊断方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671467377}"
+}
