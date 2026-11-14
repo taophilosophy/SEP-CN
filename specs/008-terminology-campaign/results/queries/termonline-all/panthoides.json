@@ -1,0 +1,26 @@
+{
+ "key": "panthoides",
+ "term": "Panthoides",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T13:03:32+00:00",
+ "status": "ok",
+ "note": "variant=Panthoides; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "荆毛",
+   "en": "eupathidium,eupathidia (复),acanthoides",
+   "code": "11.412",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_蜱螨学"
+  },
+  {
+   "cn": "荆毛",
+   "en": "eupathidium\",\"eupathidia (复)\",\"acanthoides",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
