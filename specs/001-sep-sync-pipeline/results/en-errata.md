@@ -204,3 +204,21 @@
 | ---- | ---- | ---- | ---- |
 | bohr-correspondence | `&Uuml;ber quantentheorische Umdeutung` | `&Uuml;ber quantentheoretische Umdeutung` | 玻尔 1925 论文通行德语题名 quantentheoretische（①） |
 | bohr-correspondence | `principle,&rdquo;,` 换行后 `<em>American Journal of Physics</em>` | `principle,&rdquo; <em>American Journal of Physics</em>` | 引号后重逗号删除并并行；同页他条均作 `,&rdquo; <em>`（①） |
+| bodily-awareness | schwitzgebel-2007 `Schwitzgebel, Erica` | `Eric` | 作者正名（①） |
+| bodily-awareness | alsmith-2015 `Sense ofOwnership` | `Sense of Ownership` | 缺空格（①） |
+| bodily-awareness | barlassina-2019 `Luca.,` | `Luca,` | 双标点（①） |
+| bodily-awareness | ehrsson-2022 题名缺收引号、`Nature Communication` | 补 `&rdquo;`；`Nature Communications` | 引号不配对、刊名误（①②） |
+| bodily-awareness | gallagher-1986 `Aconceptual Clarification` | `A Conceptual Clarification` | 分词误合（①） |
+| bodily-awareness | goldenberg-2003 `Goldsten and Gel&rsquo;s case` | `Goldstein and Gelb&rsquo;s case` | 人名正名（①） |
+| bodily-awareness | kinsbourne-1995 `Attentionnal` | `Attentional` | 拼写（①） |
+| bodily-awareness | lycan-2023 `Mroczko-WaSowicz` | `Mroczko-W&#261;sowicz` | 姓氏缺变音符（①） |
+| bodily-awareness | martin-1993 `Naoimi Eilan, Rosaleen McCarty` | `Naomi Eilan, Rosaleen McCarthy` | 编者正名（①） |
+| bodily-awareness | turvey-1995 `Carello, , 1995` | `Carello, 1995` | 多余逗号（①） |
+| bodily-awareness | vignemont-2007 `One&lsquo;s Own Body` | `One&rsquo;s` | 左单引号误（①） |
+| bodily-awareness | henri-1965 `Presses Universitaire de France` | `Universitaires` | 机构正名（①） |
+| bodily-awareness | block-2005 `by Alva No&euml;&rdquo;:,` | `&rdquo;,` | 标点错乱（①） |
+| bodily-awareness | o&rsquo;callaghan-2020 `University Press. 92&ndash;117` | `University Press, 92&ndash;117.` | 标点与句末（①） |
+| bodily-awareness | clark-1997／melzack-1983／thelen-1994／gibson-1979 条末缺句点 | 补句点 | 排印（①） |
+| bodily-awareness | shoemaker-1994 `Object Perception Model&rdquo;, 54(2)` | 去多余收引号 | 引号不配对（①） |
+| bodily-awareness | matthen-2021 `The Dual Structure ofc touch` | `of Touch` | OCR 混入（①） |
+| bodily-awareness | vignemont 条 `forthcoming` 而正文引 2021 | `2021` | 同页自相矛盾；文集 2021 年出版（②） |
