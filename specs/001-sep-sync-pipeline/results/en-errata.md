@@ -127,3 +127,10 @@
 | epistemology-language-tibetan | `Universit&agrave; degli Sudie di Napoli` | `Studi` | 意大利机构正名 Università degli Studi di Napoli（①） |
 | epistemology-language-tibetan | `Oxford: Wiley Balckwell` | `Wiley Blackwell` | 出版者正名（①） |
 | epistemology-language-tibetan | `<em>Etudes Asiatiques</em>` | `<em>&Eacute;tudes Asiatiques</em>` | 法语刊名缺重音（①） |
+| arabic-islamic-mysticism | 正文 `With Sabziwārī's death in 1797 CE..` | `in 1873 CE.` | 同页作（1797–1873），1797 为生年；另去双句点（②①） |
+| arabic-islamic-mysticism | `(Nicholson, IV: 1519&ndash;1516)` | `1516&ndash;1519` | 页码区间倒置（①） |
+| arabic-islamic-mysticism | `Fuṣūṣ al-ḥakam`（伊本·阿拉比条） | `Fuṣūṣ al-ḥikam` | 同页另处作 ḥikam，标题正音（②） |
+| arabic-islamic-mysticism | `Chittick, W. C., 2007. Ibn Arabī, <i>Ibn Arabī's Metaphysics of Imagination</i>` | 去重复的“Ibn Arabī,” | 作者名窜入题名（①） |
+| arabic-islamic-mysticism | `Nasir Khusraw:The Ruby of Badakhshan` | 冒号后补空格 | 排印（①） |
+| arabic-islamic-mysticism | `<i>Classical</i> <i>Persian Sufism…</i>` | 合为一处斜体 | 书名被切断（①） |
+| arabic-islamic-mysticism | `Hunsburger`（正文两处与书目） | `Hunsberger` | 作者正名 Alice C. Hunsberger（①） |
