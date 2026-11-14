@@ -3419,7 +3419,7 @@
 | minima naturalia | minima naturalia | 自然最小体 | natphil-ren | 亚里士多德—经院自然哲学通行（形式不再保持的最小量）；凭证 2026-11-10 | 2026-11-10 |
 | minimal model organism | — | 最低限度模式生物 | model-organisms 首译 | 本词条术语（只满足单一标准者，与复杂模式生物对举）；凭证 2026-11-09 | 2026-11-09 |
 | minimal risk | — | 最小风险 | informed-consent | 学界惯例（美国联邦研究法规术语） | 2026-11-12 |
-| minimax | — | 最小最大算子 | belief-merging | 学界通行（决策理论/社会选择通行）；凭证 2026-11-10 | 2026-11-10 |
+| minimax | — | 最小最大算子（亦作“极小化极大”） | belief-merging | 学界通行（决策理论/社会选择通行）；凭证 2026-11-10；2026-11-15 补亦作（审定形，博弈论文献并行） | 2026-11-15 |
 | minimax relative concession | — | 最小最大相对让步 | c/contractarianism 首译 | 博弈论／契约论通行译法（戈蒂耶术语）；凭证 2026-11-07 | 2026-11-07 |
 | minisum | — | 最小和算子 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | Minjung Buddhism | — | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
@@ -3451,9 +3451,9 @@
 | mode | — | 样态 | descartes-works | 学界通行（近代形而上学核心术语，实体的限定方式） | 2026-11-06 |
 | Mode from Hypothesis | — | 基于假设的论式 | 首现（timon-phlius） | 学界惯例（五式之一；第蒙预示）；凭证 2026-11-07 | 2026-11-07 |
 | model carrier | — | 模型载体 | model-organisms 首译 | 本词条术语（Prieto & Fábregas-Tejeda 2025 的 model carrier，与表征论进路对举）；凭证 2026-11-09 | 2026-11-09 |
-| model checking | — | 模型检验 | logic-linear | 计算机科学通行译法；凭证 2026-11-10 | 2026-11-09 |
+| model checking | — | 模型检验（亦作“模型检测”“模型检查”） | logic-linear | 计算机科学通行译法；凭证 2026-11-10；2026-11-15 补亦作（通行异体“模型检测”与审定形“模型检查”） | 2026-11-15 |
 | model organism | — | 模式生物 | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| model surrogate | — | 替代模型 | model-organisms 首译 | 生物医学通行译名（surrogate model）；凭证 2026-11-09 | 2026-11-09 |
+| model surrogate | — | 替代模型（亦作“代理模型”） | model-organisms 首译 | 生物医学通行译名（surrogate model）；凭证 2026-11-09；2026-11-15 补亦作（审定形，机器学习语境“代理模型”并行） | 2026-11-15 |
 | model system | — | 模式系统 | model-organisms 首译 | 学界通行译名（生物学与生物医学文献，与模式生物并用）；凭证 2026-11-09 | 2026-11-09 |
 | model theory | — | 模型论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）；“模型理论”为土木工程域不采（凭证 2026-10-29） | 2026-10-29 |
 | model-based fusion | — | 基于模型的融合 | belief-merging | 学界通行（信念合并文献，与句法进路对举）；凭证 2026-11-10 | 2026-11-10 |
@@ -3518,7 +3518,7 @@
 | moral hypocrisy | — | 道德伪善 | justice-moral-psych | Batson 术语通行汉译（hypocrisy 已登“伪善”）；凭证 2026-11-10 | 2026-11-10 |
 | moral ideal | — | 道德理想 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | moral ignorance | — | 道德无知 | moral-responsibility-empirical | 责任伦理学通行 | 2026-11-07 |
-| moral integrity | — | 道德完整性 | conscience 首译 | 学界通行（生命伦理学文献）；凭证 2026-11-08 | 2026-11-08 |
+| moral integrity | — | 道德完整性（亦作“德操”） | conscience 首译 | 学界通行（生命伦理学文献）；凭证 2026-11-08；2026-11-15 补亦作（审定形，荀学德操义） | 2026-11-15 |
 | moral intuition | — | 道德直觉 | intuitionism-ethics；moral-learning | 学界惯例（元伦理学通行）；凭证 2026-11-08；2026-11-09 合并重复行 | 2026-11-08 |
 | moral judgments | — | 道德判断 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | moral justification | — | 道德辩护 | 语料回收 | 学界惯例（伦理学通行）；审定库无相关命中（凭证 2026-10-31）；佐证审定“辩护”（自然辩证法·科学哲学，凭证 2026-10-31） | 2026-10-31 |
@@ -3533,9 +3533,9 @@
 | moral perfection | — | 道德完善（康德语境） | 语料回收 | 学界惯例（康德译本通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | moral personhood | — | 道德人格 | 首译（african-ethics） | 学界惯例（非洲伦理学与人格理论通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | moral philosophy | — | 道德哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| moral pluralism | — | 道德多元论 | 首现（intuitionism-ethics） | 学界惯例（与道德一元论对举）；凭证 2026-11-08 | 2026-11-08 |
+| moral pluralism | — | 道德多元论（亦作“道德多元化”） | 首现（intuitionism-ethics） | 学界惯例（与道德一元论对举）；凭证 2026-11-08；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | moral property | — | 道德属性 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
-| moral psychology | — | 道德心理学 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| moral psychology | — | 道德心理学（亦作“道德心理”） | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定短形） | 2026-11-15 |
 | moral quality | — | 道德品质 | grotius | 格劳秀斯 ius 定义通行译法；凭证 2026-11-12 | 2026-11-12 |
 | moral realism | — | 道德实在论 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | moral responsibility | — | 道德责任 | moral-responsibility-empirical | 学界通行（本词条核心术语） | 2026-11-07 |
@@ -3574,7 +3574,7 @@
 | multimodal Kripke models | — | 多模态克里普克模型 | dynamic-semantics | 模态逻辑通行（Kripke=克里普克通译）；凭证 2026-11-12 | 2026-11-12 |
 | multimodality | — | 多模态性 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | multiple conclusion | — | 多结论 | logical-consequence | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
-| multiple realizability | — | 多重可实现性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| multiple realizability | — | 多重可实现性（亦作“多重实现性”） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | multiplicative additive linear logic | — | 乘法加性线性逻辑 | logic-linear | 片段名（MALL）直译；凭证 2026-11-10 | 2026-11-09 |
 | multiplicative disturbances | — | 乘性扰动 | 首现（william-jevons） | 构词直译（杰文斯指数构造假说）；凭证 2026-11-07 | 2026-11-07 |
 | multiplicative exponential linear logic | — | 乘法指数线性逻辑 | logic-linear | 片段名（MELL）直译；凭证 2026-11-10 | 2026-11-09 |

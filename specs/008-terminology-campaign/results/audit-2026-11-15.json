@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8638,
-  "一致": 1287,
-  "不一致": 815,
-  "未查证": 142
+  "查无": 8661,
+  "一致": 1294,
+  "不一致": 808,
+  "未查证": 119
  },
  "results": [
   {
@@ -74860,19 +74860,26 @@
    "table": "术语",
    "line": 3422,
    "term": "minimax",
-   "trans": "最小最大算子",
-   "basis": "学界通行（决策理论/社会选择通行）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "最小最大算子（亦作“极小化极大”）",
+   "basis": "学界通行（决策理论/社会选择通行）；凭证 2026-11-10；2026-11-15 补亦作（审定形，博弈论文献并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "极小化极大",
      "en": "minimax",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "极小化极大",
+     "en": "minimax",
+     "source": "审定形；决策论“最小最大”、博弈论“极小化极大”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -75568,9 +75575,9 @@
    "table": "术语",
    "line": 3454,
    "term": "model checking",
-   "trans": "模型检验",
-   "basis": "计算机科学通行译法；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "模型检验（亦作“模型检测”“模型检查”）",
+   "basis": "计算机科学通行译法；凭证 2026-11-10；2026-11-15 补亦作（通行异体“模型检测”与审定形“模型检查”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -75583,10 +75590,17 @@
      "cn": "模型校验",
      "en": "model checking",
      "source": "自动化名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "模型检查",
+     "en": "model checking",
+     "source": "审定形；通行“模型检验/模型检测”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -75642,19 +75656,26 @@
    "table": "术语",
    "line": 3456,
    "term": "model surrogate",
-   "trans": "替代模型",
-   "basis": "生物医学通行译名（surrogate model）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "替代模型（亦作“代理模型”）",
+   "basis": "生物医学通行译名（surrogate model）；凭证 2026-11-09；2026-11-15 补亦作（审定形，机器学习语境“代理模型”并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "代理模型",
      "en": "surrogate model",
      "source": "化工名词（十）化工系统工程和化工信息化名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "代理模型",
+     "en": "model surrogate",
+     "source": "审定形（机器学习语境）；生物医学“替代模型”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -76947,9 +76968,9 @@
    "table": "术语",
    "line": 3521,
    "term": "moral integrity",
-   "trans": "道德完整性",
-   "basis": "学界通行（生命伦理学文献）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "道德完整性（亦作“德操”）",
+   "basis": "学界通行（生命伦理学文献）；凭证 2026-11-08；2026-11-15 补亦作（审定形，荀学德操义）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -76968,10 +76989,17 @@
      "cn": "节操",
      "en": "moral integrity",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "德操",
+     "en": "moral integrity",
+     "source": "审定形（荀学德操义）；生命伦理学“道德完整性”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -77235,19 +77263,26 @@
    "table": "术语",
    "line": 3536,
    "term": "moral pluralism",
-   "trans": "道德多元论",
-   "basis": "学界惯例（与道德一元论对举）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "道德多元论（亦作“道德多元化”）",
+   "basis": "学界惯例（与道德一元论对举）；凭证 2026-11-08；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "道德多元化",
      "en": "moral pluralism",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "道德多元化",
+     "en": "moral pluralism",
+     "source": "审定形；伦理学通行“道德多元论”（与一元论对举）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -77266,19 +77301,26 @@
    "table": "术语",
    "line": 3538,
    "term": "moral psychology",
-   "trans": "道德心理学",
-   "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "道德心理学（亦作“道德心理”）",
+   "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定短形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "道德心理",
      "en": "moral psychology",
      "source": "医学伦理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "道德心理",
+     "en": "moral psychology",
+     "source": "审定短形；通行“道德心理学”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -77948,19 +77990,26 @@
    "table": "术语",
    "line": 3577,
    "term": "multiple realizability",
-   "trans": "多重可实现性",
-   "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "不一致",
+   "trans": "多重可实现性（亦作“多重实现性”）",
+   "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "多重实现性",
      "en": "multiple realizability",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "多重实现性",
+     "en": "multiple realizability",
+     "source": "审定形；生物学哲学通行“多重可实现性”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -157759,9 +157808,11 @@
    "term": "Hausdorff, Felix",
    "trans": "费利克斯·豪斯多夫",
    "basis": "学界通行汉译（豪斯多夫空间）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158748,9 +158799,11 @@
    "term": "Hartshorne, Charles",
    "trans": "查尔斯·哈茨霍恩",
    "basis": "学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158758,9 +158811,11 @@
    "term": "Hartsoeker, Nicholas",
    "trans": "尼古拉·哈特索克",
    "basis": "音译（笛卡尔派自然哲学家；学界无通行汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158768,9 +158823,11 @@
    "term": "Harvey, Warren Zev",
    "trans": "沃伦·泽夫·哈维",
    "basis": "学界通行中译（克雷斯卡斯研究专家）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 142942847（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158778,9 +158835,11 @@
    "term": "Hasker, William",
    "trans": "威廉·哈斯克尔",
    "basis": "学界惯例音译（开放神论代表）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158788,9 +158847,11 @@
    "term": "Haslanger, Sally",
    "trans": "Sally Haslanger（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（社会建构论，性别与种族）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 113025125X（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158798,9 +158859,11 @@
    "term": "Hawkins, Jennifer",
    "trans": "Jennifer Hawkins（现代学者，保留英文）",
    "basis": "ADR-0022：无通行汉名者保留英文（本词条致谢列名之评论者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158808,9 +158871,11 @@
    "term": "Hawthorne, John",
    "trans": "约翰·霍桑",
    "basis": "学界通行音译（《知识与彩票》作者，单前提闭合）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158818,9 +158883,11 @@
    "term": "Hay, Louise",
    "trans": "Louise Hay",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 129224588（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158828,9 +158895,11 @@
    "term": "Haynes, Johana",
    "trans": "乔安娜·海恩斯",
    "basis": "学界通行音译（图画书哲学研究者，与 Murris 合著）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158838,9 +158907,11 @@
    "term": "Haynes, John-Dylan",
    "trans": "约翰-迪伦·海因斯",
    "basis": "音译（正文作“海因斯”；与既有 Haynes, Johana 同姓异人）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158848,9 +158919,11 @@
    "term": "Ḥazm, Ibn / Ibn Hazm",
    "trans": "伊本·哈兹姆",
    "basis": "阿拉伯哲学通行汉译；2026-11-13 重复行合并（旧键 `Ibn Hazm`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158858,9 +158931,11 @@
    "term": "He Yan",
    "trans": "何晏",
    "basis": "上游自带汉字（曹魏玄学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158868,9 +158943,11 @@
    "term": "Heal, Jane",
    "trans": "简·希尔",
    "basis": "学界惯例（音译，心灵哲学家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158878,9 +158955,11 @@
    "term": "Heath, Quentin",
    "trans": "Quentin Heath",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158888,9 +158967,11 @@
    "term": "Heaviside, Oliver",
    "trans": "赫维赛德",
    "basis": "学界惯例（物理学家通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 118901192（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158898,9 +158979,11 @@
    "term": "Hebel, Johann Peter",
    "trans": "约翰·彼得·赫贝尔",
    "basis": "学界通行汉译；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158908,9 +158991,11 @@
    "term": "Hecataeus",
    "trans": "赫卡泰奥斯",
    "basis": "学界通行汉译（史家兼博古家）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158918,9 +159003,11 @@
    "term": "Hedge, Frederick Henry",
    "trans": "弗雷德里克·亨利·赫奇",
    "basis": "音译（超验主义俱乐部创立者之一）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158928,9 +159015,11 @@
    "term": "Hegel",
    "trans": "黑格尔",
    "basis": "学界千年通行汉译（德国观念论）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158938,9 +159027,11 @@
    "term": "Hegewisch, Dietrich Hermann",
    "trans": "迪特里希·赫尔曼·黑格维施",
    "basis": "学界通行音译（德国启蒙政治经济学家）；凭据 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158948,9 +159039,11 @@
    "term": "Heidegger, Martin / Martin Heidegger",
    "trans": "马丁·海德格尔",
    "basis": "学界千年通行汉译；2026-11-13 重复行合并（旧键 `Martin Heidegger`）；籍属/生卒联网查证：GND 规范标目 gnd 118547798（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -158958,9 +159051,11 @@
    "term": "Heijltjes, Willem",
    "trans": "Willem Heijltjes",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
