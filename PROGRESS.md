@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-13 02:05（UTC）
+生成时间：2026-11-14 09:47（UTC）
 
 ## 总览
 
@@ -12,29 +12,28 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1872|
-|已建任务|1195|
+|已建任务|1196|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|391|
-|在途（drafted 起、done 前）|182|
+|已完成（done）|394|
+|在途（drafted 起、done 前）|181|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|622|
-|cleared|152|
-|drafted|1|
-|s3_checked|27|
-|r1_reviewed|2|
-|done|391|
+|pending|621|
+|cleared|153|
+|s3_checked|24|
+|r1_reviewed|4|
+|done|394|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|63|
-|B|62|62|62|19|
+|B|62|62|62|20|
 |C|171|171|171|29|
 |D|92|92|92|27|
 |E|99|99|99|29|
@@ -43,7 +42,7 @@
 |H|61|61|61|17|
 |I|75|75|75|36|
 |J|38|38|38|9|
-|K|36|36|36|21|
+|K|36|36|36|22|
 |L|144|144|30|30|
 |M|139|139|14|13|
 |N|50|50|11|10|
@@ -53,7 +52,7 @@
 |R|85|85|85|14|
 |S|160|160|18|16|
 |T|70|70|7|4|
-|U|4|4|1|0|
+|U|4|4|2|1|
 |V|15|15|15|0|
 |W|36|36|5|2|
 |X|3|3|3|2|
@@ -106,13 +105,12 @@
 |boundary|retranslate|cleared|task_ops 2026-11-01|
 |bounded-rationality|retranslate|cleared|task_ops 2026-11-01|
 |boyle|retranslate|cleared|task_ops 2026-11-01|
-|bradley|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
+|bradley|retranslate|r1_reviewed|B-batch-main-20261114 2026-11-13|
 |bradley-regress|retranslate|cleared|task_ops 2026-11-01|
 |branching-time|retranslate|cleared|task_ops 2026-11-01|
-|brentano|retranslate|s3_checked|B-main-20261109b 2026-11-09|
+|brentano|retranslate|r1_reviewed|B-batch-main-20261114 2026-11-13|
 |brentano-judgement|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |broad|retranslate|cleared|task_ops 2026-11-01|
-|brouwer|retranslate|s3_checked|B-main-20261112 2026-11-11|
 |bruno|retranslate|cleared|task_ops 2026-11-01|
 |buber|retranslate|cleared|task_ops 2026-11-01|
 |buddha|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -129,6 +127,7 @@
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
+|dance|retranslate|cleared|task_ops 2026-11-13|
 |dynamic-semantics|retranslate|cleared|task_ops 2026-11-12|
 |ehrenfels|retranslate|s3_checked|E-main-20261111 2026-11-12|
 |eternity|retranslate|cleared|task_ops 2026-11-13|
@@ -211,7 +210,6 @@
 |kant-transcendental|retranslate|s3_checked|K-main-20261110b 2026-11-10|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-how|retranslate|s3_checked|K-main-20261110 2026-11-10|
-|korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|s3_checked|K-main-20261110 2026-11-09|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |mathematical-practice|retranslate|cleared|task_ops 2026-11-10|
@@ -222,7 +220,7 @@
 |repugnant-conclusion|retranslate|s3_checked|R-main-20261111 2026-11-13|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
-|umar-khayyam|retranslate|cleared|task_ops 2026-11-12|
+|understanding|retranslate|cleared|task_ops 2026-11-13|
 |vagueness|retranslate|cleared|task_ops 2026-11-12|
 |vaihinger|retranslate|cleared|task_ops 2026-11-12|
 |value-incommensurable|retranslate|cleared|task_ops 2026-11-12|
@@ -245,4 +243,4 @@
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
-|zombies|retranslate|drafted|Z-main-20261110 2026-11-10|
+|zombies|retranslate|s3_checked|Z-main-20261113 2026-11-13|
