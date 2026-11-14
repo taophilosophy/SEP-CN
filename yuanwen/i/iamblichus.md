@@ -431,8 +431,6 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 
 [^forster-1903]: Forster, Richard (ed.), 1903–1927, *Libanii opera*, 12 vols., Leipzig: Teubner.
 
-[^lydus-nd]: Lydus, John
-
 [^wünsch-1898]: Wünsch, Richard (ed.), 1898, *Ioannis Laurentii Lydi Liber De Mensibus*, Leipzig: Teubner.
 
 [^nemesius-nd]: Nemesius of Emesa
@@ -514,8 +512,6 @@ Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien L
 [^gaskin-2000]: Gaskin, Richard (trans.), 2000, *Simplicius: On Aristotle Categories 9–15* (Ancient Commentators on Aristotle), London: Duckworth.
 
 [^kalbfleisch-1908]: Kalbfleisch, Carl (ed.), 1908, *Simplicii in Aristotelis Categorias commentarium* (Commentaria in Aristotelem Graeca VIII), Berlin: Reimer.
-
-[^stobaeus-nd]: Stobaeus, John
 
 [^wachsmuth-1884]: Wachsmuth, Curt and Otto Hense (eds.), 1884–1912, *Ioannis Stobaei Anthologium*, 5 vols., Berlin: Weidmann.
 

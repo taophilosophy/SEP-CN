@@ -87,3 +87,4 @@
 | conway | `<em>apocotastasis</em>` | `<em>apokatastasis</em>` | 拼写（①） |
 | conway | `<em>History of Philosophy Quarterly, </em>39(1):21&ndash;44.` | `<em>History of Philosophy Quarterly</em>, 39(1): 21&ndash;44.` | 标点入斜体、缺空格（①） |
 | conway | `(by Loptson, Conway1998)` / `Mercer 2012 and 2019 ,` | `Conway 1998` / `2019,` | 缺空格、逗号前空格（①） |
+| leibniz-ethics | `<em>Philospohical Papers and Letters,</em>` | `<em>Philosophical Papers and Letters</em>,` | 拼写与逗号入斜体（①） |

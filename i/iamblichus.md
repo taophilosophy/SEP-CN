@@ -320,7 +320,6 @@
 [^nesselrath-2015]: Nesselrath, Heinz-Günther (ed.), 2015, *Iuliani Augusti Opera*, Berlin: De Gruyter.
 [^libanius-nd]: Libanius
 [^forster-1903]: Forster, Richard (ed.), 1903–1927, *Libanii opera*, 12 vols., Leipzig: Teubner.
-[^lydus-nd]: Lydus, John
 [^wünsch-1898]: Wünsch, Richard (ed.), 1898, *Ioannis Laurentii Lydi Liber De Mensibus*, Leipzig: Teubner.
 [^nemesius-nd]: Nemesius of Emesa
 [^morani-1987]: Morani, Moreno (ed.), 1987, *Nemesii Emeseni de natura hominis*, Leipzig: Teubner.
@@ -362,7 +361,6 @@
 [^fleet-2002]: Fleet, Barrie (trans.), 2002, *Simplicius: On Aristotle Categories 7–8* (Ancient Commentators on Aristotle), London: Duckworth.
 [^gaskin-2000]: Gaskin, Richard (trans.), 2000, *Simplicius: On Aristotle Categories 9–15* (Ancient Commentators on Aristotle), London: Duckworth.
 [^kalbfleisch-1908]: Kalbfleisch, Carl (ed.), 1908, *Simplicii in Aristotelis Categorias commentarium* (Commentaria in Aristotelem Graeca VIII), Berlin: Reimer.
-[^stobaeus-nd]: Stobaeus, John
 [^wachsmuth-1884]: Wachsmuth, Curt and Otto Hense (eds.), 1884–1912, *Ioannis Stobaei Anthologium*, 5 vols., Berlin: Weidmann.
 [^syrianus-nd]: Syrianus
 [^kroll-1902]: Kroll, Wilhelm (ed.), 1902, *Syriani In Metaphysica commentaria* (Commentaria in Aristotelem Graeca VI.1), Berlin: Reimer.
