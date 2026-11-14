@@ -331,7 +331,7 @@ The linearly-ordered priorities in the two-layer structure can also be generaliz
 
 In deontic logic, the two-layer structure (where priorities establish a preference or obligation ordering) has also been widely recognized, particularly in systems that prioritize commands (see the work of Hansen 2008 and Van Benthem, Grossi, & Liu 2010)[^hansen-2008][^liu-2010][^van-2010], which will be discussed in Section 7.
 
-Belief as reasons
+##### Belief as reasons
 
 The above method of defining preference from a priority base presupposes complete information about whether an alternative possesses the properties in the base. In cases of incomplete information, beliefs play a crucial role, and agents’ preferences depend on them. This situation requires the introduction of formulas such as $BC(x),$ $\neg BC(x),$ or $B\neg C(x),$ where $C_m$ represents priorities. This approach enables complex aspects to be considered, e.g., determining whether certain properties from the priority base apply or, more fundamentally, forming a priority base based on beliefs. Addressing such uncertainties calls for a combination of doxastic and preference languages; see the work of Liu (2011b) for various procedures for defining preference under uncertainty. In this setting, beliefs about whether an alternative has or doesn’t have a certain priority serve as reasons for preference.
 

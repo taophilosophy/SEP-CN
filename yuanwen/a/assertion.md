@@ -523,7 +523,7 @@ However, there is substantial (and often unacknowledged) disagreement about what
 
 For the most part, the literature on norms of assertion has concerned the question of *which* specific norm governs assertion, and what are the reasons for favoring one candidate norm over another. Below, we briefly go through the main candidates from the literature.
 
-The knowledge norm
+##### The knowledge norm
 
 **(KNA)**
 
@@ -591,7 +591,7 @@ One must: assert *p* only if one’s audience comes thereby to be in a position 
 
 Similar norms have also been proposed by Pelling (2013a) and by Hinchman (2013). García-Carpintero suggests that his version is preferable to Williamson’s because it brings out the social, communicative function of language (but see Willard-Kyle 2021 for objections to KNA-T)[^willard-kyle-2021].^{ [^note-25]}
 
-The truth norm
+##### The truth norm
 
 Most alternatives to the knowledge norm that are weaker than (KNA): they require less than knowledge for proper assertion. Weiner (2005) and Whiting (2013, 2015) propose a truth norm (cf. also Alston 2000)[^alston-2000]:
 
@@ -625,7 +625,7 @@ Retract an (unretracted) assertion if it turns out not to be true.
 
 This rule is also stated in the context of MacFarlane’s relativism, with respect to a context of use and a context of assessment. According to the resulting view, assertion is governed jointly by the (reflective) truth norm and the retraction rule. Rescorla (2009a), who defends a commitment account of assertion (see section 6.1), argues there is no norm at all for proper *making* of assertions. There are only norms that govern later reactions. He proposes three alternatives to (RNA), which share the idea that when a speaker is challenged with respect to an assertion he has made, he must either defend the assertion or else retract it (Rescorla 2009a: 103–105; cf. Rescorla 2009b)[^rescorla-2009a][^rescorla-2009b].
 
-The justification norms
+##### The justification norms
 
 Several authors have argued that assertability requires justification, rather than belief or knowledge. A standard formulation would be:
 
@@ -657,7 +657,7 @@ A datum that justification rules may have trouble explaining is the wrongness of
 
 There are views that come very close to justification rules. Maitra and Weatherson (2010: 112) propose what they call *The Evidence Responsiveness Rule*: that one assert that *p* only if one’s attitude towards *p* is properly responsive to the evidence (they also propose to complement it with an *action rule*, that it is proper to assert that *p* only if acting as if *p* is “the thing for you to do”). Smithies (2012) defends the view that *p* is assertable only if you have a justification to believe that you are in a position to know that *p* (cf. Koethe 2009, Rosenkranz 2023)[^koethe-2009][^rosenkranz-2023]. This version of (JNA) restores a guiding normative role for knowledge, while accommodating many of the intuitions that motivate a preference for (JNA) or (KNA) (for a critique, see M. Smith 2012)[^smith-2012].
 
-Other proposals
+##### Other proposals
 
 Belief norms are the weakest norms on the market:
 
@@ -683,7 +683,7 @@ According to Stanley, since the certainty norm requires more than just knowledge
 
 Goldberg (2015) argues that the norm of assertion hypothesis can explain why we have a (pro tanto) epistemic entitlement believe what we are told. He identifies some requirements that are needed to meet this desideratum. One is that the norm of assertion is robustly epistemic, and strong enough to warrant testimonial belief (2015: 96). Another is that it must be *common knowledge* between speaker and hearer that the speaker’s assertion is subject to this norm. A further requirement (2015: 8) is that the speaker *authorizes* the hearer to defer back to the speaker the responsibility of meeting challenges to the assertion. Together, these assumptions should be able to explain why beliefs based on testimony are pro tanto justified.
 
-Experimental evidence
+##### Experimental evidence
 
 Most authors who write about the norm of assertion appeal to their own intuitions. However, this is an area where experimental data is highly relevant. If the aim is to describe a real-word communicative act, rather than a purely idealized philosopher’s construct, it follows a good theory of assertion should make predictions that are consistent with our actual practice: it should deem appropriate the assertions that ordinary speakers deem appropriate, and inappropriate the ones that they criticize as inappropriate. If this is right, competing accounts can be tested empirically against the intuitions of competent speakers of the language.
 

@@ -156,7 +156,7 @@ To motivate idealization, consider how public justification fares without it. Po
 
 Public justification theorists typically prefer radical idealization. They do this to fix the weaknesses of justificatory populism and alter belief-value sets to rid them of inconsistencies and ignorance. Radical idealization thus has two dimensions—rationality and information—pushed to their upper bound.
 
-2.4.1.1 Rationality
+##### 2.4.1.1 Rationality
 
 The distinction between full rationality and less-than-full rationality is central to idealization. Though, as we will see, full rationality is elusive. To attribute reasons to citizens based on poor reasoning corrupts public justification. A theory of full rationality idealizes agents by giving parties flawless cognitive powers. (See Rawls (1971, 12) and Gauthier (1986, 234) for explicit attributions of full rationality to their agents.)
 
@@ -164,7 +164,7 @@ The assumption of full rationality initially seems irresistible. If we can disce
 
 But problems with full rationality abound. First, the notion of full rationality may be incoherent when applied to finite and fallible beings (see Cherniak 1986)[^cherniak-1986]. It requires adjusting a dense web of beliefs and values. And these beliefs and values are not computable in real-time given limited resources. Second, full rationality will produce justifications that individuals cannot reflectively endorse. Individuals’ actual beliefs and values differ significantly from those which justify the arrangements. (This is one way in which the problem of stability might arise. See below 5.2.)
 
-2.4.1.2 Information
+##### 2.4.1.2 Information
 
 Again, public reason liberals add information to the belief-value set of ordinary citizens. (And, indeed, remove misinformation.) They thereby avoid holding public justification captive to ignorance. Rawls, Gauthier, and Habermas all pursue this strategy. Their models assume that idealized agents have all (and only) the facts that determine what reasons they have. Public reason liberals remove beliefs and desires that stop individuals from adopting an impartial perspective. They add such general and specific information necessary for the agent to reason well about the issues before her. Public reason liberals disagree about what sets of information interfere with impartiality. But all theorists subtract misinformation and biasing information.
 

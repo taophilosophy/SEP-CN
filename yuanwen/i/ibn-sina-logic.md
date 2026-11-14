@@ -246,7 +246,7 @@ The culmination of Avicenna’s formal logic is the development of an elaborate 
 
 The theory of the syllogism (*qiyās*), in its main divisions, occupies a prominent part in all of Avicenna’s logical works. The doctrinal skeleton remains the same in spite of a significant re-arrangement of the material, especially in the *Išārāt*. In the works of the middle period, especially the *Nağāt* and the extensive treatment of the *Qiyās*, Avicenna follows the path charted by the *Prior Analytics*.[^note-13]
 
-Types of syllogisms: connective and repetitive
+##### Types of syllogisms: connective and repetitive
 
 Among the several innovations Avicenna may be credited with is the codification of a canonical division, echoing distinctions already brewing in ancient and late ancient logic, of syllogisms in a number of categories that became standard conceptual vocabulary in later Arabic logic.
 
@@ -276,7 +276,7 @@ The entire edifice of Avicenna’s connective syllogistic rests on the assumptio
 
 Categorical syllogisms are argument forms consisting of triplets of terms (*ḥudūd*) arranged in two premises (*muqaddamāt*) and a conclusion (*natīğa* or, insofar as it is implicitly contained in or aimed at by the premises, *maṭlūb*). The two premises share a term with one another and one each with the conclusion, for example, “Every B is C; every A is B; therefore every A is C” (BaC, AaB ⊢ AaC). The term shared by the premises is called middle term (*ḥadd awsaṭ*). The subject of the conclusion is called minor term (*ḥadd aṣġar*), the predicate of the conclusion is called major term (*ḥadd akbar*). The premise that shares with the conclusion the minor term is called minor premise (*muqaddama ṣuġrā*). The premise that shares with the conclusion the major term is called major premise (*muqaddama kubrā*).
 
-Figures and moods
+##### Figures and moods
 
 The middle term may be (i) subject of the major premise and predicate of the minor premise; (ii) predicate of both; or (iii) subject of both. The resulting configurations are called (i) first figure (*šakl awwal*), (ii) second figure (*šakl ṯānin*), and (iii) third figure (*šakl ṯāliṯ*). Like Aristotle, Avicenna does not contemplate a fourth figure.[^note-14] Each figure contains a number of valid moods (*ḍurūb*), identified by the quantity, quality, and modality of the premises and conclusion. For the sake of simplicity, I use standard vocabulary for the treatment of the Aristotelian syllogistic (in particular the list of mnemonic tags developed in the Latin middle ages for the identification of moods).[^note-15] The moods of the first figure are Barbara, Celarent, Darii, Ferio. The moods of the second figure are Cesare, Camestres, Festino, Baroco. The moods of the third figure are Darapti, Felapton, Datisi, Disamis, Bocardo, and Ferison. Each of the above will be productive with certain combinations of modalized premises and not with others.
 
@@ -316,7 +316,7 @@ An account of Avicenna’s modal syllogistic influenced by considerations of thi
 
 The hypothetical propositions discussed above may be used as premises and conclusions of syllogistic arguments.
 
-Types of hypothetical syllogism
+##### Types of hypothetical syllogism
 
 Avicenna investigates five main types of hypothetical syllogisms (with further internal divisions). The first three are combinations of two conditional premises (type 1), a conditional premise and a disjunctive premise (type 2), or two disjunctive premises (type 3), and are called pure (*ṣirfa*) hypothetical syllogisms. The last two are combinations of a conditional and a categorical premise (type 4, subdivided into two classes), or of a disjunctive and a categorical premise (type 5), and are called mixed (*muḫtalaṭa*) hypothetical syllogisms.[^note-16]
 
@@ -326,7 +326,7 @@ Another standard feature of Avicenna’s discussion, especially where premises a
 
 On several occasions—most notably but not exclusively in the context of the abridged treatments—Avicenna simplifies the analysis and avoids a detailed discussion of individual productive moods by providing general criteria for productivity, determined according to these different parameters. Again, this approach is structurally similar to the one adopted in the treatment of the categorical syllogistic but the complexity is higher due to additional variables at play with hypotheticals. It is worth noting that in Post-Avicennan logic, starting in particular with Ḫūnağī, considerable attention is paid to this part of Avicenna’s system, and the discovery of additional moods as well as the rejection of moods accepted by Avicenna were often associated with a critique and revision of these criteria (El-Rouayheb 2010)[^el-rouayheb-2010].
 
-Type 1: hypothetical syllogisms with two conditional premises (*Qiyās* VI.1)
+##### Type 1: hypothetical syllogisms with two conditional premises (*Qiyās* VI.1)
 
 In hypothetical syllogisms with two conditional premises, the shared part is a proposition which plays the same role as the middle term in categorical syllogisms. Depending on whether it is (i) the consequent of the major premise and the antecedent of the minor, (ii) the consequent of both or (iii) the antecedent of both, arguments of this kind will fall into one of the three familiar figures. The moods in each figure are determined here in function of the quality and quantity of the conditional premises and conclusion, unlike in the case of combinations involving a categorical and a conditional, where figures and moods, as we shall see below, are determined by the categorical premise and another categorical proposition, which is either the consequent or the antecedent of the other (conditional) premise.
 
@@ -370,7 +370,7 @@ Third figure
 
 Just as in the first and second figure, these moods are typically proved by conversion or by *reductio*.
 
-Type 2: hypothetical syllogisms with a conditional and a disjunctive premise (*Qiyās* VI.2)
+##### Type 2: hypothetical syllogisms with a conditional and a disjunctive premise (*Qiyās* VI.2)
 
 Hypothetical syllogisms consisting of a conditional and a disjunctive premise are second, in terms of complexity, only to the combination of conditionals and categoricals (type 4 below). The proof of the productive moods, in addition to the standard methods seen above, often involves turning a conditional premise into a disjunctive premise or vice versa (the analysis of these inferential relations occupies Avicenna in *Qiyās* VII.1–2, but he uses them freely throughout *Qiyās* VI, before explicitly discussing them in the subsequent treatise). Similarly, after showing that a given premise pair yields a hypothetical conclusion of a certain kind, Avicenna often shows that it also yields a hypothetical conclusion of the other kind, whether logically equivalent or simply implied by the former.
 
@@ -416,7 +416,7 @@ $$ (\aD^{1})rq; (\aC)pr \vdash \aD^{1})pq $$
 
 Avicenna’s discussion, besides its intrinsic logical merits, is enriched by several examples (especially counterexamples put forward to show that certain moods are not productive) taken from the domains of physics and metaphysics.
 
-Type 3: hypothetical syllogisms with two disjunctive premises (*Qiyās* VI.3)
+##### Type 3: hypothetical syllogisms with two disjunctive premises (*Qiyās* VI.3)
 
 The third type of hypothetical syllogisms is, by contrast, the simplest. It involves premise pairs with two disjunctions. Avicenna notes that as a result of the status of real disjunctions, which are both exclusive and exhaustive, there can be no combination involving two such premises. The proof of this claim involves an interesting point about the meaning of quantification in the case of disjunctions already raised at *Qiyās* V.5 (particular disjunctions express non-exhaustive alternatives).
 
@@ -440,7 +440,7 @@ $$ (\aC)rq; (\aC)rp \vdash (\iC)pq $$
 
 in virtue of inferential relations holding among disjunctions and conditionals.[^note-20]
 
-Type 4: hypothetical syllogisms with a conditional and a categorical premise (*Qiyās* VI.4–5)
+##### Type 4: hypothetical syllogisms with a conditional and a categorical premise (*Qiyās* VI.4–5)
 
 The first three types are pure hypothetical syllogisms. The fourth and fifth are mixed hypothetical syllogisms consisting of a hypothetical premise combined with a categorical.
 
@@ -536,7 +536,7 @@ For similar reasons, the same applies to the previous case (the combination of a
 
 The second major division of hypothetical syllogisms consisting of a conditional and a categorical premise obtains when the sharing occurs in the antecedent. The analysis of these syllogisms is the subject of *Qiyās* VI.5, which is the only place in the corpus where they are treated explicitly. Elsewhere (e.g., *Nağāt* 82), hypothetical syllogisms of this kind are said to be less used in the sciences. In spite of the structural analogy to the cases discussed above (the conclusion is still a conditional proposition, even though here the categorical “fragment” occupies the place of the antecedent), the way the quantification of the conditional and the quantification of the antecedent interact generate results that do not generally mirror categorical syllogisms. The classification is parallel to the previous case and consists of two main groups: the first with a conditional major and a categorical minor, the second with a categorical major and a conditional minor. Each group is divided into three figures, as above, and the moods of each figure are analyzed with respect the four combinations of quality and quantity of the conditional premise.
 
-Type 5: hypothetical syllogisms with a disjunctive and a categorical premise (*Qiyās* VI.6)
+##### Type 5: hypothetical syllogisms with a disjunctive and a categorical premise (*Qiyās* VI.6)
 
 The second kind of mixed hypothetical syllogisms consists of a disjunctive and a categorical premise (or several categorical premises). It is at least briefly mentioned in all of Avicenna’s logical works and receives a more extensive treatment in *Qiyās* VI.6, 349.1–354.12. Like some of the types discussed above, this kind of hypothetical syllogism is indirectly acknowledged to have an application outside the domain of formal logic, as Avicenna contends that, with certain qualifications, it expresses a mode of reasoning similar to that involved in the method of induction (*Qiyās* VI.6, *Burhān* I.7). This obtains when a hypothetical syllogism of this type expresses a complete division, the predication is real (*ḥaqīqī*), and the subject is the subject of the disjunctive proposition, in which case it is called “divided syllogism” (*qiyās muqassam*).
 
@@ -548,7 +548,7 @@ In the second case, where the major is categorical and the minor disjunctive, th
 
 > Every animal is a body and every plant is a body and every mineral is a body; everything that moves is either an animal or a plant or a mineral; therefore everything that moves is a body. (*Nağāt* 82, xvii)
 
-Syllogisms of hypotheticals sharing an incomplete part (two disjunctions) (*Qiyās* VI.6, 354.13–356.6)
+##### Syllogisms of hypotheticals sharing an incomplete part (two disjunctions) (*Qiyās* VI.6, 354.13–356.6)
 
 Hypothetical syllogisms whose premises share an incomplete part are perhaps best understood in opposition to two types of purely hypothetical syllogisms discussed above, namely those consisting of a pair of disjunctive premises and those consisting of a disjunctive and a conditional premise. In both cases, the shared part was a whole proposition. Syllogisms involving hypotheticals that share an incomplete part are a variation on the latter, determined by the fact that the shared element is a term instead of a whole proposition. They may involve either (i) two disjunctive premises or (ii) a conditional and a disjunctive premise with one term in common (in the latter case, with a conditional minor). An example is given at *Nağāt* 82, xx.
 

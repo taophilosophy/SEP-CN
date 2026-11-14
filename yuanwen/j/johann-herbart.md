@@ -108,7 +108,7 @@ This picture, fanciful though it may be, can nonetheless help us get a grip on t
 
 All psycho-static investigations are ultimately based on two determinations of psychic magnitude: (1) the “inhibition-sum” (*Summe der Hemmung* or *Hemmungssumme*); (2) the “inhibition relation”, or better, “inhibition-ratio” (*Hemmungs-Verhältniß*).
 
-3.3.1.1 “Inhibition sum”
+##### 3.3.1.1 “Inhibition sum”
 
 In 3.3, I called the inhibition-sum the total of opposed inhibitory forces in the system of two (or more) opposed representations; Herbart himself likens it to
 
@@ -134,7 +134,7 @@ Hence, since a portion of *S* is borne by the countervailing representation, the
 
 > For if all those [representations] were completely suppressed, then the strongest [i.e., *a*] would remain completely uninhibited. (SW V: 284)
 
-3.3.1.2 “Inhibition ratio”
+##### 3.3.1.2 “Inhibition ratio”
 
 Herbart next considers the proportion in which the inhibition sum is spread out over the various, mutually antagonistic representations; this proportion is what he calls the “inhibition-ratio” (SW V: 285, ff. [§43]). The calculation of the inhibition ratio may not consider an individual representation as “an originally aggressive force [*angreifende Kraft*], but only as a resisting force [*widerstehende Kraft*]”, since, as we saw above, representations can on Herbart’s view only be considered to be force-*like* insofar as they resist one another, not “in themselves” (SW V: 285). Nonetheless, a representation will better resist countervailing forces and assert itself against other representations, “the more vivacious [*stärker*]” it is (SW V: 285). Hence, he argues, the share of the load, *S*, that a representation must bear is inversely proportional to its vivacity: $1/i$, where “$i$” signifies vivacity (SW V: 285–6; SW IV: 371).[^note-25]
 
@@ -180,11 +180,11 @@ To sum up: One representation cannot so crowd out a second, since the remainder 
 
 The soul’s unity that we encountered in 3.2 functioned as the metaphysical principle of the inhibition of opposed representations in 3.3.1–2. Now, again, unity is the principle by which the unification of certain representations might be explained (cf. SW V: 307). We must keep in mind that our sensations (*Sinnesempfindungen*) form various continua, “sense dimensions” (Boudewijnse, et al. 1999: 179)[^boudewijnse-1999], or “modalities” (Boring 1950: 258)[^boring-1950], e.g., of color or taste and smell (PsW: 171; SW V: 307, f.). Within one and the same continuum, individual representations are opposed to each other, while representations from generically different continua are not (SW V: 307).[^note-31] Thus representations lying on one continuum will mutually dim each other to a certain degree (SW V: 308). So, whereas a number of colors, like “white, red, black, blue”, will inhibit and dim each other, none of them can oppose and inhibit a taste representation (the example is at Weiss 1928: 80; cf. SW V: 312, f)[^weiss-1928]. Therefore, as representations may belong to the same or different continua, there must be, respectively, two different genera of representational unification (SW V: 308).
 
-3.3.3.1 Fusions
+##### 3.3.3.1 Fusions
 
 In the former case, in which representations are of the same type, they will inhibit each other according to the degree of their difference and only join together so far as inhibition permits it (SW V: 308).[^note-32] Their strength and opposition will determine “the law governing the precise nature of their unification”, which Herbart calls the “fusion” (*Verschmelzung*) of representations (SW V: 308–9).[^note-33] Examples might include blue and red fusing into the representation, “purple” (Boring 1950: 258)[^boring-1950]. Two generically similar, and therefore opposed, representations will strive to fuse with one another, on account of the unity of the psyche. When they melt into one another as far as their mutual opposition permits, they reach what Herbart calls the “fusion point [*Verschmelzungspunkt*]” (Weiss 1928: 82)[^weiss-1928].
 
-3.3.3.2 Complications
+##### 3.3.3.2 Complications
 
 Take two representations belonging to two distinct types, e.g., a color, $a$, and a sound, $\alpha$ (SW V: 308). Now, on the one hand, no inhibition is possible across continua, i.e., so $a$ will not dim $\alpha$. On the other hand, *ex hypothesi*, there is no second representation *within* each respective continuum to oppose and inhibit either of the two representations (cf. Felsch 1902: 5; Weiss 1928: 82)[^felsch-1902][^weiss-1928]. For these two reasons, they can unite *completely*, and are for purposes of calculation treated as a single force or single act, $A$ (SW V: 309; cf. Felsch 1902: 5)[^felsch-1902].[^note-34] Such unifications are “complete complications [*Komplikationen*]”, or “foldings-together” (SW V: 308).[^note-35]
 
@@ -348,7 +348,7 @@ We earlier dealt with the fusion and complication of representations, i.e., with
 
 In order to support this claim, Herbart considers two cases: (a) the assimilation of a sense-representation (a “sensum”), called “outer apperception”; and (b) the assimilation of a reproduced (i.e., recollected) representation from below the *limen*, called “inner apperception” (Stout 1888b: 448)[^stout-1888b]. The latter is treated as analogous to the former (Stout 1889: 448)[^stout-1889].
 
-3.8.2.1 Outer apperception
+##### 3.8.2.1 Outer apperception
 
 A new sense perception or perceptual series, $W, w, \mathfrak{w}, \omega$ (“$W$” for *Wahrnehmung*, sense perception), always appears in an arena of consciousness already occupied by some older representation or representational group, $R, r, \mathfrak{r}, \rho$ (SW VI: 143). At first, the “unarrested intensity” of $W, w, \ldots$ gives it as it were the drop on the pre-existing representations, initially forcing them down against the threshold (Stout 1888b: 484; SW VI: 143)[^stout-1888b]. At the same time, in accordance with the psycho-mechanical laws of reproduction, elements of the new series (e.g., $w, \mathfrak{w}$) reawaken the subliminal *similars* amongst the older representations (e.g., $r,\mathfrak{r}$), and fuse with these, while simultaneously inhibiting the *dissimilars* (e.g., $R, \rho$). But the similars ($r, \mathfrak{r}$), being themselves more strongly bound to the dissimilars ($R, \rho$) (as members of the same mass), gradually draw up the latter, and so the whole mass $(R, r, \mathfrak{r}, \rho)$ returns more strongly to inhibit $W, w, \ldots$ (cf. esp. Stout 1888b: 484)[^stout-1888b]. As Stout points out, the returning pre-formation $(R, r, \ldots)$ would seem likely to suppress $W, w, \ldots$ except for their “points of affinity”:
 
@@ -358,7 +358,7 @@ Hence
 
 > the sense-given group $[W, w, \ldots]$ becomes [after considerable modification] incorporated with the pre-existing system of presentations $[R, r, \ldots]$. (Stout 1888b: 485)[^stout-1888b]
 
-3.8.2.2 Inner apperception
+##### 3.8.2.2 Inner apperception
 
 The process of outer apperception provides the model for inner apperception (SW VI: 141). Simply replace the *sensa* $W, w,\ldots$ with a relatively weak representational series $m, n, o, \boldsymbol{p}, q, \ldots$ already present in (as opposed to newly entering) the soul. If now there is in consciousness at the same time a second “stable and powerful mass”, $P, \mathrm{P}, \boldsymbol{p}, \pi, \ldots$, the two series will complicate with or “fold into” each other, generating some new complex (such as $Pm$ or $Pn$) that has elements from each series (Stout 1888b: 485)[^stout-1888b]. Now from each member of the new complex, two chains of reproduction will evolve, e.g., in the case of $Pm$, one from $P$, and another from $m$. Each of these two chains strives to unfold itself according to its own law. But because both series contain the common member $\boldsymbol{p}$, the evolving chains must fuse at this node and so reinforce each other. As in the case of outer apperception, the *m*-series is initially more vivacious and depresses the *P*-series. As they interact, the greater strength and coherence of the *P*-series reacts, “[re-]form[ing] the [weaker *m*-series] in its own image”: the stronger mass preserves the similar elements in the weaker by fusing with it, while driving it back at other, dissimilar points (SW VI: 144). From the point at which the two chains are fused at $\boldsymbol{p}$, their respective reproductions cannot continue, as they would have separately. Instead, they now become interwoven into a new representational mass with “a new total-force” (SW VI: 141).
 
@@ -394,7 +394,7 @@ Apperception or “self-consciousness” seems naturally to involve the notion o
 
 He analyzes the genesis of self-consciousness as the evolution of apperception. From a complex of bodily sensations, desires, and aversions, the child becomes aware of representations in *other* beings, which it conceives as pictures carried around in their bodies. As that conception joins with observed intentional activities in animals and people—i.e., actions they carry out for their own satisfaction—the “itself” arises, though in the third person. Only when such recursive phenomena are apperceived within my own body does the representation of *my* self arise (SW VI: 177). This bodily self, then, appears as the “gathering place” not just of my representations, but also as the “*origin of all movements* connected physiologically with bodily feelings”, the pole of all attraction and repulsion.
 
-3.8.5.1 The growth of ego-consciousness
+##### 3.8.5.1 The growth of ego-consciousness
 
 This nexus persists through time, and constantly receiving additions, forming and reforming itself. Hence, *Bildung*, in the most literal sense, is the constant accumulation of *Bilder* (pictures) around this node (SW VI: 177). As the human being begins to reflect upon its “self”, it becomes aware of its overriding determination as a represent*ing*, know*ing*, cogniz*ing* entity; and the further its *Bildung* advances, the more this conviction grows (SW VI: 178; 180). Hence, “I”, the being that exists in this way, become aware of myself as not a thing, but an act-*ing*.
 
@@ -404,7 +404,7 @@ Although the ego comes into focus through reflection on its own past, yet it is 
 
 > a soul to himself, indeed a *character*, [which he respects] as higher than the body. The inner perception is [now] seen as the source of knowledge of the true self. (SW VI: 186)
 
-3.8.5.2 Dispelling the illusion of the ego
+##### 3.8.5.2 Dispelling the illusion of the ego
 
 Herbart continues:
 
@@ -412,7 +412,7 @@ Herbart continues:
 
 Thus, the ego reaches the complete illusion of itself as a perduring substance.
 
-3.8.5.3 The method of relations, again
+##### 3.8.5.3 The method of relations, again
 
 Herbart corrects this metaphysical illusion of the ego-soul through his method of relations.
 

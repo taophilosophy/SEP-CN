@@ -742,7 +742,7 @@ There is little difference between this explanation of the definition stroke and
 
 #### 3.2.1 A Device for Generality: Roman Letters
 
-3.2.1.1 The Basics of Roman Letters
+##### 3.2.1.1 The Basics of Roman Letters
 
 We begin our discussion of the new notions that did not occur within the logic of *Begriffsschrift* with the second means for expressing generality within *Grundgesetze*: the *Roman letter generality device*. At first glance, this might be surprising, since Roman letters were used as a device for expressing generality within *Begriffsschrift*, as discussed above. But in *Begriffsschrift* they were (officially, at least) merely an abbreviation for instances of the concavity that occurred initially in the formula in question. In the logic of *Grundgesetze*, however, Roman letters are a completely new, independent device of generalization.
 
@@ -824,7 +824,7 @@ then we do not, strictly speaking, have an instance of the premises for this rul
 
 Frege suggests that, when we carry out the relevant instance of *hypothetical syllogism*, we temporarily extend the scope of the Roman letter “$x$” so that it includes both premises and the conclusion. As a result, the Roman letter “$x$” “indicates” the same object (whatever object this might be) uniformly throughout all three *Grundgesetze* propositions, and we can apply hypothetical syllogism.
 
-3.2.1.2 Higher Order Quantification and Roman Letters
+##### 3.2.1.2 Higher Order Quantification and Roman Letters
 
 Frege also allows both second- and third-order quantification to be expressed via the Roman letter generality device. Thus, if “$\Delta$” is the name of an object, then:
 
@@ -836,7 +836,7 @@ is a correct *Grundgesetze* proposition if and only if, for any first-level func
 
 is a correct *Grundgesetze* proposition if and only if, for every second-level function $\mathcal{F}$, the result of applying $\mathcal{F}$ to the function named by “$\Phi(\xi)$” is the True (1893/1903: §25). Although Frege does explicitly provide treatment of third-order quantification via the Roman generality device (unlike his treatment of the concavity, which is limited to first- and second-order), he does not provide any notation for fourth- or higher-order quantification of either sort.
 
-3.2.1.3 How Roman Letters Work
+##### 3.2.1.3 How Roman Letters Work
 
 We now move on to the second question: How, exactly, is the Roman letter device to work? How are we to understand Frege’s idea that expressions involving the Roman letter generality device “indicate” but do not “name” truth-values, and how are we to understand the idea that their scope must contain the entirety of the judgement in which they occur (other than, possibly, the judgement stroke), but could be expanded to include more than one formula at once? The right way to work out the answers to these questions is a matter of rather substantial controversy. Landini suggests that Frege is gesturing at the idea of variable assignments (Landini 2012)[^landini-2012], an idea that would not be developed fully until Tarski (1933); while Heck suggests instead that Frege intended the Roman letters to be understood substitutionally in terms of auxiliary names (that is, “extra” names not included in the object-language-level vocabulary), where, for example, an expression of the form:
 

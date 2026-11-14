@@ -88,7 +88,7 @@ A *formula* is a finite sequence of primitive symbols. Certain formulas are call
 
 Note, for example, that by (a) $\nsim_{({o}{o})}$ is a wff$_{({o}{o})}$, so by (b) if $\bA_{{o}}$ is a wff$_{{o}}$, then $[\nsim_{({o}{o})}\bA_{{o}}]$ is a wff$_{{o}}$. Usually, the latter wff will simply be written as $\nsim \bA$. It is often convenient to avoid parentheses, brackets and type symbols, and use conventions for omitting them. For formulas we use the convention of association to the right, and we may write $\lor_{((oo)o)}\bA_{{o}} \bB_{{o}}$ instead of $[[\lor_{((oo)o)}\bA_{{o}}] \bB_{{o}}]$. For types the corresponding convention is analogous.
 
-Abbreviations:
+##### Abbreviations:
 
 - $\bA_{{o}} \lor \bB_{{o}}$ stands for $\lor_{ooo}\bA_{{o}} \bB_{{o}}$.
 - $\bA_{{o}} \supset \bB_{{o}}$ stands for $[\nsim_{{o}{o}}\bA_{{o}}] \lor \bB_{{o}}$.
@@ -237,7 +237,9 @@ When there is a unique such element $\bx_{\alpha}$, it is convenient to have the
 
 Since $\bA_{{o}}$ describes $\bx_{\alpha}, \iota_{\alpha({o}\alpha)}$ is called a *description operator*. Associated with this notation is the following:
 
-Axiom of Descriptions: $$ \exists_1 x_{\alpha}[p_{{o}\alpha}x_{\alpha}] \supset p_{{o}\alpha} [\iota_{\alpha({o}\alpha)}p_{{o}\alpha}] \tag{\(8^{\alpha}\)} $$
+##### Axiom of Descriptions:
+
+$$ \exists_1 x_{\alpha}[p_{{o}\alpha}x_{\alpha}] \supset p_{{o}\alpha} [\iota_{\alpha({o}\alpha)}p_{{o}\alpha}] \tag{\(8^{\alpha}\)} $$
 
 This says that when the set $p_{{o}\alpha}$ has a unique member, then $\iota_{\alpha({o}\alpha)}p_{{o}\alpha}$ is in $p_{{o}\alpha}$, and therefore is that unique member. Thus, this axiom asserts that $\iota_{\alpha({o}\alpha)}$ maps one-element sets to their unique members.
 
@@ -306,7 +308,7 @@ $\cQ_0$ is based on these ideas, and can be shown to be equivalent to a formulat
 - The logical constants of $\cQ_0$ are $\sfQ_{(({o}\alpha)\alpha)}$ and $\iota_{(\imath({o}\imath))}$ (for each type symbol α).
 - Wffs of $\cQ_0$ are defined as in Section 1.2.1.
 
-Abbreviations:
+##### Abbreviations:
 
 - $\bA_{\alpha} = \bB_{\alpha}$ stands for $\sfQ_{{o}\alpha \alpha}\bA_{\alpha}\bB_{\alpha}$
 - $\bA_{{o}} \equiv \bB_{{o}}$ stands for $\sfQ_{{o}{o}{o}}$**A$_{{o}}$B**$_{{o}}$

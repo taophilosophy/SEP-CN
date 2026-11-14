@@ -449,6 +449,30 @@ The objects of knowledge (*ma*‛*lumat*) fall into three categories: sensible, 
 
 #### 1. Cited Works by Ibn Bâjja
 
+##### Collections
+
+##### *Rule of the Solitary*
+
+##### *Farewell Message*
+
+##### *Epistle of Conjunction of Intellect with Man*
+
+##### *Coming-to-be and Passing-away*
+
+##### *Book of Animals*
+
+##### *Soul*
+
+##### *Physics* commentary
+
+##### *Meteorology* commentary
+
+##### Annotations on other Logical Books of Alfarabi
+
+##### Medicine
+
+##### Plants
+
 #### 2. Other Works by Ibn Bâjja: in Books
 
 #### 3. Other Works by Ibn Bâjja: in Articles, or Chapters
@@ -548,8 +572,6 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^for-2016]: For a complementing bibliography, see Rashaq 2016.
 
-[^collections-nd]: Collections
-
 [^ib-coll-fakhry-1968]: [IB-coll-fakhry] *Rasa’il Ibn Bâjja al-ilahiyya*, Majid Fakhry (ed.), Beirut: Dar an-nahar li-n-nashr, 1968.
 
 [^ib-coll-alawi-1983]: [IB-coll-alawi] *Rasa’il falsafiyya li-Abi Bakr Ibn Bâjja*, J. al-‛Alawi (ed.), Beirut-Casablanca: Dar ath-Thaqafa – Dar an-Nashr al-Maghribiyya, 1983.
@@ -557,8 +579,6 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 [^ib-coll-genequand-2010]: [IB-coll-genequand] *Ibn Bāğğa (Avempace): La conduite de l’isolé et deux autres épitres* (Epître de l’adieu ; Conjonction de l’intellect). Introduction, édition critique du texte arabe, traduction et commentaire par Charles Genequand. Paris: Vrin, 2010.
 
 [^ib-coll-lettinck-1994]: [IB-coll-lettinck] Lettinck, Paul, *Aristotle’s Physics and its reception in the Arabic world with an edition of the unpublished parts of Ibn Bâjja’s “Commentary on the Physics”*, (Aristoteles Semitico-Latinus, 7), Leiden: Brill, 1994,
-
-[^rule-nd]: *Rule of the Solitary*
 
 [^ib-rs-dunlop-1945]: [IB-RS-dunlop] Dunlop, D.M., 1945, “Ibn Bâjjah’s *Tadbiru’l-Mutawaḥḥid* (Rule of the solitary)”, *Journal of the Royal Asiatic Society*, 77(1–2): 61–81. doi:10.1017/S0035869X00099305
 
@@ -574,13 +594,9 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^ib-coll-genequand-nd]: IB-coll-genequand: 121–182
 
-[^farewell-nd]: *Farewell Message*
-
 [^ib-coll-fakhry-nd-2]: IB-coll-fakhry: 113–143
 
 [^asín-1943]: Asín Palacios, Miguel, 1943, “La *Carta de adiós* de Avempace”, *Al-Andalus*, 8: 1–87.
-
-[^epistle-nd]: *Epistle of Conjunction of Intellect with Man*
 
 [^ib-cim-1942]: [IB-CIM] Asín Palacios, Miguel, 1942, “Tratado de Avempace sobre la unión del intelecto con el hombre”, *Al-Andalus*, 7: 1–47.
 
@@ -590,15 +606,9 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^ib-coll-genequand-nd-2]: IB-coll-genequand: 183–203
 
-[^coming-to-be-nd]: *Coming-to-be and Passing-away*
-
 [^ib-gc-1995]: [IB-GC] *Avempace. Libro de la generación y la corrupción*, (Pensamiento islámico, 4), editor and Spanish translator, Josep Puig Montada, Madrid: Consejo Superior de Investigaciones Cientf̕icas, 1995.
 
-[^book-nd]: *Book of Animals*
-
 [^ib-anim-2000]: [IB-Anim], *Kitab al-hayawan*, J. al-‛Imarati (ed.), Beirut-Casablanca: Al-markaz ath-thaqafi al-‛arabi, 2000.
-
-[^soul-nd]: *Soul*
 
 [^ib-s1a-1960]: [IB-S1a] *Kitab an-nafs*, Muhammad Saghir Hasan al-Ma‛sumi (ed.), Damascus: al-Majma‛ al-‛ilmi al-‛arabi, 1379/1960. First published in the journal of the Arabic Academy: *Majallat Majma‛ al-Lugha al-‛Arabiyya*, vols. 33 (1958) 96–111; 278–301; 424–442; 609–632. 34 (1959) 112–126; 332–344; 490–506; 634–645; 35 (1960) 114–122.
 
@@ -608,8 +618,6 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^ib-s-lomba-2007]: [IB-S-lomba] *Kitab al-nafs. Libro sobre el alma*. Spanish translation by Joaquín Lomba. Madrid: Trotta, 2007.
 
-[^physics-nd]: *Physics* commentary
-
 [^ib-phys-fakhry-1973]: [IB-Phys-fakhry] *Sharh as-sama‛ at-tabi‛i li-Aristutalis*, Majid Fakhry (ed.), Beirut: Dar an-nahar, 1973.
 
 [^ib-phys-ziyada-1978a]: [IB-Phys-ziyada] *Shuruhat as-Sama῾at-tabi῾i*, Ma‛an Ziyada (ed.), Beirut: Dar al-Kindi – Dar al-Fikr. New edition: Cairo: Ru’ya li-n-nashr wa-li-t-tawzi‛, 1978a.
@@ -618,11 +626,7 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^ib-phys-hafs-2024]: [IB-Phys-hafs] *Shuruhat al-Sama῾ at-tabi῾i*, Jamal Rachak; Mohamed Abouhafs (eds.), Marrakech: AFAQ, 2024.
 
-[^meteorology-nd]: *Meteorology* commentary
-
 [^lettinck-1999]: Lettinck 1999: 383–481.
-
-[^annotations-nd]: Annotations on other Logical Books of Alfarabi
 
 [^ib-danesh-1988]: [IB-danesh] *Al-Mantiqiyyat li-l-Farabi*, Muhammad Taqi Danishpazhuh (ed.), 3 vols. Qum: Manshurat Maktabat Ayatollah al-‛Uthmà al-Mar‛ashi, 1988. Repr. 2026, vol. 3 contains Avempace’s annotations:
 
@@ -666,11 +670,7 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^alwozad-2006]: –––; Rachak, Jamal, et.al. (eds.), 2006, *Al-Irtiyad fi kitab at-tahlil*, Fes, Centre d’études Ibn Rushd.
 
-[^medicine-nd]: Medicine
-
 [^ib-tibbiya-2014]: [IB-tibbiya] *Al-Maqalat al-Tibbiyya li-Abi Bakr Ibn Bajja*, Mohammed Abouhafs (ed.), Fez: Info Print, 2014
-
-[^plants-nd]: Plants
 
 [^asín-1940]: Asín Palacios, Miguel, 1940, “Avempace botánico”, *Al-Andalus*, 5: 255–299.
 

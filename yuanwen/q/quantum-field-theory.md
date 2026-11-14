@@ -219,7 +219,7 @@ Ontology is concerned with the most general features, entities and structures of
 
 Many of the creators of QFT can be found in one of the two camps regarding the question whether particles or fields should be given priority in understanding QFT. While Dirac, the later Heisenberg, Feynman, and Wheeler opted in favor of particles, Pauli, the early Heisenberg, Tomonaga and Schwinger put fields first (see Landsman 1996)[^landsman-1996]. Today, there are a number of arguments which prepare the ground for a proper discussion beyond mere preferences.
 
-5.1.1.1 The Particle Concept
+##### 5.1.1.1 The Particle Concept
 
 It seems almost impossible to talk about elementary *particle* physics, or QFT more generally, without thinking of particles which are accelerated and scattered in colliders. Nevertheless, it is this very interpretation which is confronted with the most fully developed counter-arguments. There still is the option to say that our classical concept of a particle is too narrow and that we have to loosen some of its constraints. After all, even in classical corpuscular theories of matter the concept of an (elementary) particle is not as unproblematic as one might expect. For instance, if the whole charge of a particle was contracted to a point, an infinite amount of energy would be stored in this particle since the repulsive forces become infinitely large when two charges with the same sign are brought together. The so-called *self energy* of a point particle is infinite.
 
@@ -229,7 +229,7 @@ There is still another feature which is commonly taken to be pivotal for the par
 
 Eventually, there are some potential ingredients of the particle concept which are explicitly opposed to the corresponding (and therefore opposite) features of the field concept. Whereas it is a core characteristic of a field that it is a system with an infinite *number of degrees of freedom*, the very opposite holds for particles. A particle can for instance be referred to by the specification of the coordinates $\mathbf{x}(t)$ that pertain, e.g., to its center of mass—presupposing impenetrability. A further feature of the particle concept is connected to the last point and again explicitly in opposition to the field concept. In a pure particle ontology the interaction between remote particles can only be understood as an *action at a distance*. In contrast to that, in a field ontology, or a combined ontology of particles and fields, *local action* is implemented by mediating fields. Finally, classical particles are massive and impenetrable, again in contrast to (classical) fields.
 
-5.1.1.2 Why QFT Seems to be About Particles
+##### 5.1.1.2 Why QFT Seems to be About Particles
 
 The easiest way to quantize the electromagnetic (or: radiation) field consists of two steps. First, one Fourier analyses the vector potential of the classical field into normal modes (using periodic boundary conditions) corresponding to an infinite but denumerable number of degrees of freedom. Second, since each mode is described independently by a harmonic oscillator equation, one can apply the harmonic oscillator treatment from non-relativistic quantum mechanics to each single mode. The result for the Hamiltonian of the radiation field is
 

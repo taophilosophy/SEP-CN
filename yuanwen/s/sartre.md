@@ -210,6 +210,12 @@ We cannot neatly sum up a public intellectual and man of letters, like Sartre, t
 
 #### A.1 Works by Sartre
 
+##### A.1.1 Individual works published by Sartre
+
+##### A.1.2 Collections of works by Sartre
+
+##### A.1.3 Posthumous works by Sartre
+
 #### A.2 Works by others
 
 ### B. Secondary literature
@@ -270,69 +276,65 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^rybalka-1993]: Rybalka, Michel and Michel Contat, 1993, *Sartre: Bibliographie 1980–1992*, (CNRS Philosophie), Paris: CNRS and Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University.
 
-[^individual-nd]: A.1.1 Individual works published by Sartre
+[^rybalka-1936a]: 1936a, *La Transcendance de l’ego: Esquisse d’une description phénomenologique*, Paris: J. Vrin. Translated as
 
-[^individual-1936a]: 1936a, *La Transcendance de l’ego: Esquisse d’une description phénomenologique*, Paris: J. Vrin. Translated as
+[^rybalka-1957]: 1957, *The Transcendence of the Ego: An Existentialist Theory of Consciousness*, Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
 
-[^individual-1957]: 1957, *The Transcendence of the Ego: An Existentialist Theory of Consciousness*, Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
+[^rybalka-2004]: 2004, *The Transcendence of the Ego: A Sketch for a Phenomenological Description*, Andrew Brown (trans.), London: Routledge. doi:10.4324/9780203694367
 
-[^individual-2004]: 2004, *The Transcendence of the Ego: A Sketch for a Phenomenological Description*, Andrew Brown (trans.), London: Routledge. doi:10.4324/9780203694367
+[^rybalka-1936b]: 1936b [2012], *L’imagination*, Paris: F. Alcan. Translated as *The Imagination*, Kenneth Williford and David Rudrauf (trans.), London: Routledge, 2012. doi:10.4324/9780203723692
 
-[^individual-1936b]: 1936b [2012], *L’imagination*, Paris: F. Alcan. Translated as *The Imagination*, Kenneth Williford and David Rudrauf (trans.), London: Routledge, 2012. doi:10.4324/9780203723692
+[^rybalka-1938]: 1938 [1965], *La Nausée: Roman*, Paris: Gallimard. Translated as *Nausea*, Robert Baldick (trans.), Harmondsworth: Penguin, 1965.
 
-[^individual-1938]: 1938 [1965], *La Nausée: Roman*, Paris: Gallimard. Translated as *Nausea*, Robert Baldick (trans.), Harmondsworth: Penguin, 1965.
+[^rybalka-1939a]: 1939a [1970], “Une idée fondamentale de la phénoménologie de Husserl: l’intentionnalit”, *La Nouvelle Revue française*, 304: 129–132. Reprinted in *Situations* 1. Translated as “Intentionality: A Fundamental Idea of Husserl’s Phenomenology”, Joseph P. Fell (trans.), *Journal of the British Society for Phenomenology*, 1(2): 4–5, 1970. doi:10.1080/00071773.1970.11006118
 
-[^individual-1939a]: 1939a [1970], “Une idée fondamentale de la phénoménologie de Husserl: l’intentionnalit”, *La Nouvelle Revue française*, 304: 129–132. Reprinted in *Situations* 1. Translated as “Intentionality: A Fundamental Idea of Husserl’s Phenomenology”, Joseph P. Fell (trans.), *Journal of the British Society for Phenomenology*, 1(2): 4–5, 1970. doi:10.1080/00071773.1970.11006118
+[^rybalka-1939b]: 1939b [1948], *Esquisse d’une théorie des émotions*, Paris: Hermann. Translated as *The Emotions: Outline of a Theory*, Bernard Frechtman (trans.), New York: Philosophical Library, 1948.
 
-[^individual-1939b]: 1939b [1948], *Esquisse d’une théorie des émotions*, Paris: Hermann. Translated as *The Emotions: Outline of a Theory*, Bernard Frechtman (trans.), New York: Philosophical Library, 1948.
+[^rybalka-1940]: 1940 [2004], *L’Imaginaire: Psychologie Phénoménologique de l’imagination*, Paris: Gallimard. Translated as *The Imaginary: A Phenomenological Psychology of the Imagination*, Arlette Elkaïm-Sartre (ed.), Jonathan Webber (trans.), London: Routledge, 2004.
 
-[^individual-1940]: 1940 [2004], *L’Imaginaire: Psychologie Phénoménologique de l’imagination*, Paris: Gallimard. Translated as *The Imaginary: A Phenomenological Psychology of the Imagination*, Arlette Elkaïm-Sartre (ed.), Jonathan Webber (trans.), London: Routledge, 2004.
+[^rybalka-1943]: 1943 [1956, 2018], *L’être et le néant: Essai d’ontologie phénoménologique*, Paris: Gallimard. Translated as
 
-[^individual-1943]: 1943 [1956, 2018], *L’être et le néant: Essai d’ontologie phénoménologique*, Paris: Gallimard. Translated as
+[^rybalka-1956]: 1956, *Being and Nothingness: An Essay on Phenomenological Ontology*, Hazel E. Barnes (trans.), New York: Philosophical Library.
 
-[^individual-1956]: 1956, *Being and Nothingness: An Essay on Phenomenological Ontology*, Hazel E. Barnes (trans.), New York: Philosophical Library.
+[^rybalka-2018]: 2018, *Being and Nothingness: An Essay in Phenomenological Ontology*, Sarah Richmond (trans.), London: Routledge.
 
-[^individual-2018]: 2018, *Being and Nothingness: An Essay in Phenomenological Ontology*, Sarah Richmond (trans.), London: Routledge.
+[^rybalka-1945]: 1945–49, *Les Chemins de la liberté* (The roads to freedom), Paris: Gallimard. Series of novels *L’âge de raison* (The age of reason, 1945), *Le sursis* (The reprieve, 1945), and *La mort dans l’âme* (Troubled sleep, 1949).
 
-[^individual-1945]: 1945–49, *Les Chemins de la liberté* (The roads to freedom), Paris: Gallimard. Series of novels *L’âge de raison* (The age of reason, 1945), *Le sursis* (The reprieve, 1945), and *La mort dans l’âme* (Troubled sleep, 1949).
+[^rybalka-1946a]: 1946a [2007], *L’existentialisme est un humanisme*, (Collection Pensées), Paris: Nagel. Translated as *Existentialism is a Humanism*, John Kulka (ed.), Carol Macomber (trans.), New Haven, CT: Yale University Press, 2007.
 
-[^individual-1946a]: 1946a [2007], *L’existentialisme est un humanisme*, (Collection Pensées), Paris: Nagel. Translated as *Existentialism is a Humanism*, John Kulka (ed.), Carol Macomber (trans.), New Haven, CT: Yale University Press, 2007.
+[^rybalka-1946b]: 1946b [1948/1995], *Réflexions sur la question juive*, Paris: P. Morihien. Translated as *Anti-semite and Jew*, George J. Becker (trans.), New York: Schocken Books, 1948 (reprinted with preface by Michael Walzer, 1995).
 
-[^individual-1946b]: 1946b [1948/1995], *Réflexions sur la question juive*, Paris: P. Morihien. Translated as *Anti-semite and Jew*, George J. Becker (trans.), New York: Schocken Books, 1948 (reprinted with preface by Michael Walzer, 1995).
+[^rybalka-1946c]: 1946c [1955], “Matérialisme et Révolution I”, *Les Temps Modernes*, 9: 37–63 and 10: 1–32. Reprinted in *Situations III*, Paris: Gallimard, 1949. Translated as , “Materialism and Revolution”, in *Literary and Philosophical Essays*, Annette Michelson (trans.), New York: Criterion Books, 1955.
 
-[^individual-1946c]: 1946c [1955], “Matérialisme et Révolution I”, *Les Temps Modernes*, 9: 37–63 and 10: 1–32. Reprinted in *Situations III*, Paris: Gallimard, 1949. Translated as , “Materialism and Revolution”, in *Literary and Philosophical Essays*, Annette Michelson (trans.), New York: Criterion Books, 1955.
+[^rybalka-1947a]: 1947a [1967], *Baudelaire*, Paris: Gallimard. Translated as *Baudelaire*, Martin Turnell (trans.), London: H. Hamilton, 1949. Reprinted, Norfolk, CT: New Directions, 1967
 
-[^individual-1947a]: 1947a [1967], *Baudelaire*, Paris: Gallimard. Translated as *Baudelaire*, Martin Turnell (trans.), London: H. Hamilton, 1949. Reprinted, Norfolk, CT: New Directions, 1967
+[^rybalka-1947b]: 1947b [1949], *Huis-Clos*, Paris: Gallimard. First produced 1944. Translated as *No Exit*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
 
-[^individual-1947b]: 1947b [1949], *Huis-Clos*, Paris: Gallimard. First produced 1944. Translated as *No Exit*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+[^rybalka-1947c]: 1947c [1949], *Les Mouches*, Paris: Gallimard. First produced 1943. Translated as *The Flies*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
 
-[^individual-1947c]: 1947c [1949], *Les Mouches*, Paris: Gallimard. First produced 1943. Translated as *The Flies*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+[^rybalka-1948a]: 1948a [1988], “Qu’est-ce que la littérature?”, *Les Temps modernes*. Collected in *Situations II*. Translated in *“What Is Literature?” and Other Essays*, Bernard Frechtman (trans.), Cambridge, MA: Harvard University Press, 1988.
 
-[^individual-1948a]: 1948a [1988], “Qu’est-ce que la littérature?”, *Les Temps modernes*. Collected in *Situations II*. Translated in *“What Is Literature?” and Other Essays*, Bernard Frechtman (trans.), Cambridge, MA: Harvard University Press, 1988.
+[^rybalka-1948b]: 1948b [1967], “Conscience de soi et connaissance de soi”, *Bulletin de la Société française de Philosophie*, n° 3, avril-juin 1948. Translated as “Consciousness of Self and Knowledge of Self”, in *Readings in Existential Phenomenology*, Nathaniel Lawrence and Daniel O’Connor (eds), Englewood Cliffs, NJ: Prentice Hall, 1967.
 
-[^individual-1948b]: 1948b [1967], “Conscience de soi et connaissance de soi”, *Bulletin de la Société française de Philosophie*, n° 3, avril-juin 1948. Translated as “Consciousness of Self and Knowledge of Self”, in *Readings in Existential Phenomenology*, Nathaniel Lawrence and Daniel O’Connor (eds), Englewood Cliffs, NJ: Prentice Hall, 1967.
+[^rybalka-1948c]: 1948c [1949], *Les mains sales: pièce en sept tableaux*, Paris: Gallimard. First produced 1948. Translated as *Dirty Hands*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
 
-[^individual-1948c]: 1948c [1949], *Les mains sales: pièce en sept tableaux*, Paris: Gallimard. First produced 1948. Translated as *Dirty Hands*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+[^rybalka-1952a]: 1952a [1963], *Saint-Genêt, Comédien et martyr*, Paris: Gallimard. Translated as *Saint Genet: Actor and Martyr*, Bernard Frechtman (trans.), New York: George Braziller, 1963.
 
-[^individual-1952a]: 1952a [1963], *Saint-Genêt, Comédien et martyr*, Paris: Gallimard. Translated as *Saint Genet: Actor and Martyr*, Bernard Frechtman (trans.), New York: George Braziller, 1963.
+[^rybalka-1952b]: 1952b [1968]. “Les communistes et la paix”, published in *Situations VI*. Translated as “The Communists and Peace”, in *The Communists and Peace, with A Reply to Claude Lefort*, Martha H. Fletcher and Philip R. Berk (trans.), New York: George Braziller, 1968.
 
-[^individual-1952b]: 1952b [1968]. “Les communistes et la paix”, published in *Situations VI*. Translated as “The Communists and Peace”, in *The Communists and Peace, with A Reply to Claude Lefort*, Martha H. Fletcher and Philip R. Berk (trans.), New York: George Braziller, 1968.
+[^rybalka-1957-2]: 1957 [1963/1968], *Questions de méthode*, Paris: Gallimard. Later to be a foreword for Sartre 1960. Translated as *Search for a Method*, Hazel E. Barnes (trans.), New York: Knopf, 1963. Reprinted New York: Random House, 1968.
 
-[^individual-1957-2]: 1957 [1963/1968], *Questions de méthode*, Paris: Gallimard. Later to be a foreword for Sartre 1960. Translated as *Search for a Method*, Hazel E. Barnes (trans.), New York: Knopf, 1963. Reprinted New York: Random House, 1968.
+[^rybalka-1960a]: 1960a [1976], *Critique de la Raison dialectique, tome 1, Théorie des ensembles pratiques*, Paris, Gallimard. Translated as *Critique of Dialectical Reason, volume 1: Theory of Practical Ensembles*, Alan Sheridan-Smith (trans.), London: New Left Books, 1976. Reprinted in 2004 with a forward by Fredric Jameson, London: Verso. The second unfinished volume was published posthumously in 1985.
 
-[^individual-1960a]: 1960a [1976], *Critique de la Raison dialectique, tome 1, Théorie des ensembles pratiques*, Paris, Gallimard. Translated as *Critique of Dialectical Reason, volume 1: Theory of Practical Ensembles*, Alan Sheridan-Smith (trans.), London: New Left Books, 1976. Reprinted in 2004 with a forward by Fredric Jameson, London: Verso. The second unfinished volume was published posthumously in 1985.
+[^rybalka-1960b]: 1960b, *Les Séquestrés d’Altona* (The condemned of Altona), Paris: Gallimard. First produced 1959.
 
-[^individual-1960b]: 1960b, *Les Séquestrés d’Altona* (The condemned of Altona), Paris: Gallimard. First produced 1959.
+[^rybalka-1964a]: 1964a [1964], *Les mots*, Paris: Gallimard. Translated as *The Words*, Bernard Frechtman (trans.), New York: Braziller, 1964.
 
-[^individual-1964a]: 1964a [1964], *Les mots*, Paris: Gallimard. Translated as *The Words*, Bernard Frechtman (trans.), New York: Braziller, 1964.
+[^rybalka-1969]: 1969, “Itinerary of a Thought”, interview with Perry Anderson, Ronald Fraser and Quintin Hoare, *New Left Review*, I/58: 43–66. Partially published in *Situations IX*.
 
-[^individual-1969]: 1969, “Itinerary of a Thought”, interview with Perry Anderson, Ronald Fraser and Quintin Hoare, *New Left Review*, I/58: 43–66. Partially published in *Situations IX*.
+[^rybalka-1971]: 1971–72 [1981–93], *L’Idiot de la famille. Gustave Flaubert de 1821 à 1857*, 3 volumes, Paris: Gallimard. Translated as *The Family Idiot: Gustave Flaubert, 1821–1857*, 5 volumes, Carol Cosman (trans.), Chicago: University of Chicago Press, 1981/1987/1989/1991/1993. *An Abridged Edition*, ed. and abridged by J. S. Catalano, tr. C. Cosman, Chicago: University of Chicago Press, 2023.
 
-[^individual-1971]: 1971–72 [1981–93], *L’Idiot de la famille. Gustave Flaubert de 1821 à 1857*, 3 volumes, Paris: Gallimard. Translated as *The Family Idiot: Gustave Flaubert, 1821–1857*, 5 volumes, Carol Cosman (trans.), Chicago: University of Chicago Press, 1981/1987/1989/1991/1993. *An Abridged Edition*, ed. and abridged by J. S. Catalano, tr. C. Cosman, Chicago: University of Chicago Press, 2023.
-
-[^individual-1980]: 1980 [1996], “L’espoir, maintenant”, interview with Benny Lévy, *Le Nouvel observateur*, n° 800, 801, 802. Reprinted as *L’espoir maintenant: les entretiens de 1980*, Lagrasse: Verdier, 1991. Translated as *Hope Now: The 1980 Interviews*, Adrian van den Hoven (trans.), Chicago, IL: The University of Chicago Press, 1996.
-
-[^collections-nd]: A.1.2 Collections of works by Sartre
+[^rybalka-1980]: 1980 [1996], “L’espoir, maintenant”, interview with Benny Lévy, *Le Nouvel observateur*, n° 800, 801, 802. Reprinted as *L’espoir maintenant: les entretiens de 1980*, Lagrasse: Verdier, 1991. Translated as *Hope Now: The 1980 Interviews*, Adrian van den Hoven (trans.), Chicago, IL: The University of Chicago Press, 1996.
 
 [^references-nd]: References to *Situations* will be abbreviated as *Sit.* followed by the volume, e.g., *Sit. V*.
 
@@ -362,13 +364,11 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^references-2005]: 2005, *Théâtre complet*, Paris: Gallimard, Bibliothèque de la Pléiade.
 
-[^posthumous-nd]: A.1.3 Posthumous works by Sartre
+[^references-1983a]: 1983a, *Cahiers pour une morale*, Paris: Gallimard. Translated as *Notebook for an Ethics*, David Pellauer (trans.), Chicago, IL: University of Chicago Press, 1992.
 
-[^posthumous-1983a]: 1983a, *Cahiers pour une morale*, Paris: Gallimard. Translated as *Notebook for an Ethics*, David Pellauer (trans.), Chicago, IL: University of Chicago Press, 1992.
+[^references-1983b]: 1983b, *Carnets de la drôle de guerre, septembre 1939 – mars 1940*, Paris: Gallimard. Reprinted in 1995 with an addendum. Translated as *The War Diaries: Notebooks from a Phoney War*, Quinton Hoare (trans.), New York: Pantheon, 1984.
 
-[^posthumous-1983b]: 1983b, *Carnets de la drôle de guerre, septembre 1939 – mars 1940*, Paris: Gallimard. Reprinted in 1995 with an addendum. Translated as *The War Diaries: Notebooks from a Phoney War*, Quinton Hoare (trans.), New York: Pantheon, 1984.
-
-[^posthumous-1983c]: 1983c, *Lettres au Castor et à quelques autres*, Simone de Beauvoir (ed.), Paris: Gallimard
+[^references-1983c]: 1983c, *Lettres au Castor et à quelques autres*, Simone de Beauvoir (ed.), Paris: Gallimard
 
 [^tome-1926]: *Tome 1: 1926–1939*
 

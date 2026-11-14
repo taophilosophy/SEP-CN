@@ -199,7 +199,7 @@ This idea is perhaps most natural in response to the simple-falsity Liar. There,
 
 There have been many proposals for using such non-classical logics to address the Liar. An early example is van Fraassen (1968, 1970). But Kripke’s work has been the most influential in recent times, not only for approaches to the Liar based on non-classical logic, but also for a range of other approaches we will survey in §4.2. Thus, we pause to describe at least a little of Kripke’s framework.
 
-Kripke’s theory
+##### Kripke’s theory
 
 Logics where LEM fails are not themselves hard to come by. Among many such logics are a number of three-valued logics that allow sentences to take a third value over and above true and false. Sentences like Liar sentences take the third value. One of the most commonly applied logics is the Strong Kleene logic $K_3$. We do not go into the details of $K_3$ here, but only note the properties of $K_3$ we need. (For more details, see the entry on many-valued logic, or Priest 2008.)[^priest-2008] First and foremost, we have: $$\not\vdash_{K3} A \vee \neg A.$$ LEM fails. In fact, there are no logical truths (or valid sentences) according to $K_3$, even though there are valid inferences in it. (We return to this on the topic of a ‘suitable conditional’ below.)
 
@@ -215,7 +215,7 @@ Kripke shows how to build up $\mathcal{E}$ and $\mathcal{A}$ by an inductive pro
 
 Kripke’s construction can be applied to a number of different logics, including other many-valued logics such as the ‘Weak Kleene’ logic, and supervaluation logics. See, for instance, Burgess 1986 and McGee 1991 for discussion. Kripke-style constructions engage a fair bit of mathematical subtlety. For an accessible overview of more of the details, see Soames 1999. For a more mathematically rich exposition, see McGee 1991.
 
-Suitable conditionals
+##### Suitable conditionals
 
 Logics like $K_3$ suffer from the lack of a natural or ‘suitable’ conditional (in particular, one that satisfies $A,A \rightarrow B \vdash B$ and $\vdash A \rightarrow A)$. This reveals a limitation of the Kripkean approach to the Liar. The language $\mathcal{L}^{+}_0$ cannot report the capture and release properties of truth itself in conditional form (i.e., T-biconditionals): $\Tr$ is transparent on this picture, and so $\Tr(\left\ulcorner A\right\urcorner)$ and *A* are fully intersubstitutable. We don’t have $\neg A \vee A$ true for all sentences *A* in this theory, and hence don’t have $\neg \Tr(\left\ulcorner A\right\urcorner) \vee$ A for all *A*. But $\neg \Tr(\left\ulcorner A\right\urcorner) \vee A$ is equivalent to $\Tr(\left\ulcorner A\right\urcorner) \rightarrow A$ in the theory, since (in the theory) $\rightarrow$ is just the material conditional. The Kripke construction at hand, then, thus fails to enjoy all T-biconditionals—the natural candidates for expressing in the theory the basic capture and release features of truth.
 
@@ -229,7 +229,7 @@ As we mentioned, two important approaches to the Liar paradox that focus on non-
 
 Like the paracomplete approach we just surveyed, paraconsistent approaches to the Liar find easy, natural motivation in transparency or otherwise suitably ‘minimalist’ views of truth that require full intersubstitutability of *A* and $\Tr(\left\ulcorner A\right\urcorner)$, and thus cannot restrict capture and release. But paraconsistent approaches have also found motivation in a Dummett-inspired anti-deflationist view, which takes the role of truth as the aim of assertion seriously (cf. Dummett 1959)[^dummett-1959]. Indeed, Priest (2006) argues that this (non-transparency) view of truth motivates both the T-schema and LEM, and that this implies that the Liar sentence *L* is both true and not true. Hence, according to any such dialetheic line (according to which at least one sentence is both true and not true), the only option is to reject EFQ.
 
-Dialetheism
+##### Dialetheism
 
 Priest (1984, 2006) has been one of the leading voices in advocating a paraconsistent approach to solving the Liar paradox. He has proposed a paraconsistent (and non-paracomplete) logic now known as *LP* (for *L*ogic of *P*aradox), which retains LEM, but not EFQ.[^note-10] It has the distinctive feature of allowing true contradictions. This is what Priest calls the dialetheic approach to truth. (See the entry on dialetheism for a more extensive discussion.)
 
@@ -239,7 +239,7 @@ Likewise, Kripke-style techniques can be applied to produce an interpretation fo
 
 This construction was not given by Kripke himself, but variants have been pursued by a number of authors, including Dowden (1984), Leitgeb (1999), Priest (1984, 2006), Visser (1984), and Woodruff (1984).
 
-Combining paracompleteness and paraconsistency
+##### Combining paracompleteness and paraconsistency
 
 Though we have identified paracomplete and paraconsistent approaches to the Liar as two distinct options, they are not incompatible. Indeed, seen as theories of negation (if one wants), one might think that negation is neither exhaustive nor ‘explosive’ – i.e., satisfies neither LEM nor EFQ. An approach like this is the *FDE*-based (transparent) truth theory discussed in Dunn 1969 (see Other Internet Resources); Gupta and Belnap 1993; Leitgeb 1999; Visser 1984; Woodruff 1984; Yablo 1993a; and—in effect—Brady 1989.
 
@@ -368,7 +368,7 @@ Theories such as $\mathsf{FS}(\mathsf{N})$ and $\mathsf{KF}$ have been central t
 
 In §4.1.3 we noted that paracomplete approaches to the paradox can be vulnerable to ‘revenge paradoxes’ based on some idea of indeterminate truth or lacking a truth value. Related issue arise in the classical case. We will discuss a few in turn.
 
-Grounded sentences
+##### Grounded sentences
 
 The closed-off Kripke construction can help fill in the idea of *determinateness* discussed in §4.1.3. Instead of an operator, it allows us to define a predicate $D(\left\ulcorner A\right\urcorner)$ by $\Tr(\left\ulcorner A\right\urcorner) \vee \Tr(\left\ulcorner \neg A\right\urcorner).$ *D* represents ‘determinately’ in the sense of applying to sentences that have a truth value according to $\Tr$, as it were, ‘determined’ by the model produced by the Kripke construction. It also, as we observed, applies to all the sentences which are well-behaved in the sense of obeying the T-schema (or capture and release).
 
@@ -378,7 +378,7 @@ It has often been noted that there is also a more informal notion of determinate
 
 The notion of grounding has spawned its own literature, with Leitgeb (2005) a key impetus. See also Bonnay and van Vugt (2015), Meadows (2013), and Schindler (2014).
 
-Definite truth
+##### Definite truth
 
 Another view which makes use of a form of determinateness is advocated by McGee (1991). McGee’s theory, like many we have surveyed here, is rich in complexity to which we cannot do justice. The theory has many components, including a mathematically sophisticated approach to truth related to the Kripkean ideas we have been discussing, in a setting which holds to classical logic.
 
@@ -390,7 +390,7 @@ Indeed, McGee shows that these conditions can be met within a theory of both tru
 
 Though truth may satisfy the formal property of bivalence, it is crucial to McGee’s approach that definite truth is an open-ended notion, which may be strengthened (formally, by strengthening a partially interpreted language). Thus, definite truth satisfies weaker forms of capture and release than truth itself. (Some instances of $\Def(\left\ulcorner A\right\urcorner) \rightarrow A$ fail to be definitely true, according to McGee.) Furthermore, McGee suggests that this behavior of truth and definite truth makes truth a *vague* predicate. It remains disputed whether McGee’s theory avoids the kind of revenge problems that plague other Kripkean approaches.
 
-Determinateness and truth in a classical context
+##### Determinateness and truth in a classical context
 
 More recently, theories of truth and determinateness have been developed which overcome some of the difficulties of compositional approaches. More specifically, they improve on the classification of the Liar and related paradoxical sentences, or on certain features of the compositional principles themselves (such as the asymmetries we observed in $\mathsf{KF}$).
 

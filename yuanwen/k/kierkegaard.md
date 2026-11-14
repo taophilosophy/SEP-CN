@@ -223,6 +223,10 @@ Second edition of *Either-Or* *The Lilies of the Field and the Birds of the Air:
 
 #### A.2 Kierkegaard’s Works in English
 
+##### Published works
+
+##### Journals, Notebooks and Other Papers
+
 ### B. Selected Secondary Literature and Other Works Referred To
 
 ## Academic Tools
@@ -252,8 +256,6 @@ authenticity | emotion: in the Christian tradition | existentialism | faith | fi
 [^sks-1997]: [SKS] Kierkegaard, Søren, *Søren Kierkegaard’s Skrifter*, N. J. Cappelørn et al. (eds), Copenhagen: Gad, 1997–2013, 55 volumes. Also available online at: [http://www.sks.dk/](http://www.sks.dk)
 
 [^kierkegaard’s-nd-2]: The most used translations for most of Kierkegaard’s works is the *Kierkegaard’s Writings* series published by Princeton University Press under the general editorship of Howard V. and Edna. H. Hong. In citations above, we have followed the commonly used sigla of abbreviations of these titles, a more complete list of which is as follows. In some instances, we have cited alternative translations, which are listed here instead of the translations in the *Kierkegaard’s Writings* series.
-
-[^published-nd]: Published works
 
 [^ba-1997]: [BA] *The Book on Adler*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 24), Princeton, NJ: Princeton University Press, 1997. Published posthumously.
 
@@ -302,8 +304,6 @@ authenticity | emotion: in the Christian tradition | existentialism | faith | fi
 [^wa-1997]: [WA] *Without Authority*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 18), Princeton, NJ: Princeton University Press, 1997.
 
 [^wl-1995]: [WL] *Works of Love*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 16), Princeton, NJ: Princeton University Press, 1995.
-
-[^journals-nd]: Journals, Notebooks and Other Papers
 
 [^kjn-2007]: [KJN] *Kierkegaard’s Journals and Notebooks*, N. J. Cappelørn et al. (ed.), Princeton, NJ: Princeton University Press, 2007–2020. Multi-volume translation of all Kierkegaard’s journals, notebooks and miscellaneous papers, based on the relevant parts of SKS.
 

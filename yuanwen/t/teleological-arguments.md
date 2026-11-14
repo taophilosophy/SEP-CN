@@ -223,7 +223,7 @@ Purported explanations can be informally divided into two broad categories—tho
 
 There are some instructive patterns that emerge in explanatory level-shifting attempts, and in what immediately follows some of the more basic patterns will be identified.
 
-(a) Agent explanations
+##### (a) Agent explanations
 
 Intention, intervention, and other agency components of explanations can very frequently be pushed back to prior levels—much as many defenders of teleological arguments claim. The earlier case of the alleged poisoning of the rich uncle by the niece is a simple example of this.
 
@@ -231,7 +231,7 @@ But in some cases, the specifics of the agent explanation in question may appeal
 
 Still the level-changing possibility is as a general rule available with proposed agent explanations.
 
-(b) Mechanical explanations
+##### (b) Mechanical explanations
 
 Pushing specific explanatory factors back to a prior level often works less smoothly in cases of purely mechanical/physical explanations than in intentional/agency explanations. In many attempted mechanistic relocation cases, it is difficult to see how the specific relocated explanatory factor is even supposed to work, much less generate any new explanatory traction. Exactly what would caloric do if pushed back one level, for instance?
 
@@ -278,11 +278,11 @@ There are two other types of responses to fine-tuning: (i) it does not, in fact,
 
 Three approaches have been taken to undermine the demand for explanation presented by fine-tuning.
 
-4.1.1.1 Weak anthropic principle
+##### 4.1.1.1 Weak anthropic principle
 
 In a sense, it is necessary for the fine-tuned constants to have values in the life-permitting range: If those values were not within that range, people would not exist. The fine-tuned constants *must* take on the values that they have in order for scientists to be surprised by their discovery in the first place. They could not have discovered anything else. According to the weak anthropic principle, we ought not to be surprised by having made such a discovery, since no other observation was possible. But if we should not have been surprised to have made such a discovery, then there is nothing unusual here that requires a special explanation. The demand for explanation is simply misplaced.
 
-4.1.1.2 Observational selection effect
+##### 4.1.1.2 Observational selection effect
 
 Sober gives a related but stronger argument based on observational selection effects (Sober 2009, 77–80)[^sober-2009]. Say that Jones nets a large number of fish from a local lake, all of which are over 10 inches long. Let $h_{\textrm{all}}$ = ‘all of the fish in the lake are over 10 inches long’ and $h_{1/2}$ = ‘Half of the fish in the lake are over 10 inches long’. The evidence $e$ is such that $P(e|h_{\textrm{all}}) > P(e | h_{1/2})$. Now say that Jones discovers that his net is covered with 10 inch holes, preventing him from capturing any smaller fish. In that case, $e$ does not favor one hypothesis over the other. The evidence $e$ is an artifact of the net itself, not a random sample of the fish in the lake.
 
@@ -300,7 +300,7 @@ Given this equality, fine-tuning does not favor $h_{\textrm{design}}$ over $h_{\
 
 Sober’s analysis is critiqued in Monton 2006 and Kotzen 2012. Also see Jantzen 2014a (sec. 18.4). We should note that if Sober is correct, then the naturalistic explanations for fine-tuning considered below (4.1.2) are likewise misguided.
 
-4.1.1.3 Probabilities do not apply
+##### 4.1.1.3 Probabilities do not apply
 
 Let *C* stand for a fine-tuned parameter with physically possible values in the range [0, ∞). If we assume that nature is not biased toward one value of *C* rather than another, then each unit subinterval in this range should be assigned equal probability. Fine-tuning is surprising insofar as the life-permitting range of *C* is tiny compared to the full interval, which corresponds to a very small probability.
 
@@ -316,19 +316,19 @@ The question of whether probabilities either do not apply or have been improperl
 
 Assuming that fine-tuning does require an explanation, there are several approaches one might take (Koperski 2015, section 2.4)[^koperski-2015].
 
-4.1.2.1 Scientific progress
+##### 4.1.2.1 Scientific progress
 
 That the universe is fine-tuned for life is based on current science. Just as current science explained or explained away many past anomalies, future science may explain or explain away fine-tuning. Science may one day find a naturalistic answer, eliminating the need for design. For suggestions along these lines, see Harnik, Kribs & Perez 2006, and Loeb 2014.
 
 While this is a popular stance, it is a promissory note rather than an explanation. The appeal to what might yet be discovered is not itself a rival hypothesis.
 
-4.1.2.2 Exotic life
+##### 4.1.2.2 Exotic life
 
 It’s conceivable that life could exist in a universe with parameter values that we do not typically believe are life-permitting. In other words, there may be exotic forms of life that could survive in a very different sort of universe. If so, then perhaps the parameter intervals that are in fact life-permitting are not fine-tuned after all.
 
 The main difficulty with this suggestion is that all life requires a means for overcoming the second law of thermodynamics. Life requires the extraction of energy from the environment. Any life-form imaginable must therefore have systems that allow for something like metabolism and respiration, which in turn require a minimal amount of complexity (e.g., there can be no single-molecule life forms). Many examples of fine-tuning do not allow for such complexity, however. If there were no stars, for example, then there would be no stable sources of energy and no mechanism for producing the heavier elements in the periodic table. Such a universe would lack the chemical building blocks needed for a living entity to extract energy from the environment and thereby resist the pull of entropy.
 
-4.1.2.3 Multiverse
+##### 4.1.2.3 Multiverse
 
 While the odds of winning a national lottery are low, your odds would obviously increase if you were to buy several million tickets. The same idea applies to the most popular explanation for fine-tuning: a multiverse. Perhaps physical reality consists of a massive array of universes each with a different set of values for the relevant constants. If there are many—perhaps infinitely many—universes, then the odds of a life-permitting universe being produced would seem to be much greater. While most of the universes in the multiverse would be unfit for life, so the argument goes, ours is one of the few where all of the constants have the required values.
 

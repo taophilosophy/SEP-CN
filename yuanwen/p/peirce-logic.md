@@ -424,12 +424,12 @@ Below we introduce Alpha Graphs as a formal system equipped with its syntax and 
 
 #### Syntax
 
-Vocabulary
+##### Vocabulary
 
 1. Sentence symbols: $A_{1},$ $A_{2},$…
 2. Cut ![an oval](../assets/peirce-logic/Cut_2.svg)
 
-Well-formed diagrams
+##### Well-formed diagrams
 
 1. An empty space is a well-formed diagram.
 2. A sentence symbol is a well-formed diagram.
@@ -469,7 +469,7 @@ Challenging these misconceptions, the Multiple readings algorithm shows that Alp
 
 Let us answer these questions through the following example.
 
-Example
+##### Example
 
 The following graph is translated into the following four formulas:
 

@@ -478,7 +478,7 @@ This can be demonstrated by showing that it is possible to enumerate **PR** as $
 
 Almost all number theoretic functions and relations encountered in ordinary mathematics can be shown to be primitive recursive. In order to illustrate the extent of this class, we will present here a standard sequence of definitions which can be traced historically to Skolem (1923). This can be used to show that the sequence coding $\langle \ldots \rangle$ and decoding $(\cdot)_i$ operations defined below are primitive recursive. This is in turn required for Gödel’s arithmetization of syntax (see Section 1.3) as well as results like the Normal Form Theorem (2.3) which will be discussed below.
 
-a. Constant functions
+##### a. Constant functions
 
 For each $k \in \mathbb{N}$ the constant *k*-function defined as $\const_k(x) = k$ is primitive recursive. In order to show this, we first define the constant 0-function by primitive recursion as follows:
 
@@ -486,7 +486,9 @@ $$\begin{aligned} \const_0(0) & = \mathbf{0}\\ \const_0(x+1) & = \pi^{2}_{1}(x,c
 
 We may then define the constant *k*-function by repeated composition as
 
-$$const_{k}(x) = \underbrace{s( \ldots (s(const_{0}(x)) \ldots)}_{k \text{ times }} $$ b. Exponentiation, super-exponentiation, …
+$$const_{k}(x) = \underbrace{s( \ldots (s(const_{0}(x)) \ldots)}_{k \text{ times }} $$
+
+##### b. Exponentiation, super-exponentiation, …
 
 We have already seen that the addition function $\textit{add}(x,y)$ can be defined by primitive recursion in terms of repeated application of successor and that the multiplication function $\mathit{mult}(x,y)$ can be defined by primitive recursion in terms of repeated application of addition. We can continue this sequence by observing that the exponentiation function $x^y$ can be defined by primitive recursion in terms of repeated multiplication as follows:
 
@@ -506,7 +508,7 @@ $$\begin{aligned} \alpha_0(x,y) & = x + y, \\ \alpha_1(x,y) & = x \times y, \\ \
 
 whose $i+1$st member is defined in terms of primitive recursion of the $i$th member form a hierarchy of functions whose values grow increasingly quickly in proportion to their inputs. While each function in this sequence is primitive recursive, we can also consider the function $\alpha(x,y)$ defined as $\alpha_x(y,y)$—a version of the so-called *Ackermann-Péter function* defined in Section 1.4—whose values are not bounded by any fixed function $\alpha_i$. As it can be shown that the values of $\alpha(x,y)$ are not bounded by any of the functions $\alpha_i(x,y)$, this shows that $\alpha(x,y)$ cannot be defined by any finite number of applications of the scheme $\mathcal{PrimRec}_1$. This provides a constructive proof that there exist functions of type $\mathbb{N}^2 \rightarrow \mathbb{N}$ which are not primitive recursive.
 
-c. Predecessor and proper subtraction
+##### c. Predecessor and proper subtraction
 
 The *proper predecessor* function is given by
 
@@ -524,7 +526,9 @@ $$x \dotminus y = \begin{cases} x - y & \text{ if } y \leq x \\ 0 & \text{otherw
 
 This function is also primitive recursive since it may be defined as
 
-$$\begin{align} \label{dotminus} x \dotminus 0 & = x \\ \nonumber x \dotminus (y+1) & = \textit{pred}(x \dotminus y) \end{align}$$ d. Absolute difference, signum, minimum, and maximum
+$$\begin{align} \label{dotminus} x \dotminus 0 & = x \\ \nonumber x \dotminus (y+1) & = \textit{pred}(x \dotminus y) \end{align}$$
+
+##### d. Absolute difference, signum, minimum, and maximum
 
 The absolute difference function is defined as
 
@@ -540,7 +544,9 @@ This function may be defined by composition as $\textit{sg}(x) = 1 \dotminus (1 
 
 The minimum and maximum functions may be similarly defined by composition from functions previously seen to be primitive recursive as follows:
 
-$$\begin{aligned} \min(x,y) & = \overline{\textit{sg}}(x \dotminus y) \times x + \textit{sg}(y \dotminus x) \times y\\ \max(x,y) & = \textit{sg}(x \dotminus y) \times x + \overline{\textit{sg}}(y \dotminus x) \times y\end{aligned}$$ e. Order and identity
+$$\begin{aligned} \min(x,y) & = \overline{\textit{sg}}(x \dotminus y) \times x + \textit{sg}(y \dotminus x) \times y\\ \max(x,y) & = \textit{sg}(x \dotminus y) \times x + \overline{\textit{sg}}(y \dotminus x) \times y\end{aligned}$$
+
+##### e. Order and identity
 
 The characteristic functions of the *less than* relation ($<$) and *equality* relation ($=$) on the natural numbers are definable as follows:
 
@@ -550,17 +556,21 @@ These relations are hence primitive recursive.
 
 As the *less than or equal to* relation ($\leq$) is logically equivalent to $x < y \vee x = y$ it will follow from the next set of observations that this relation is also primitive recursive. The is additionally true of $x > y$, $x \geq y,$ and $x \neq y$.
 
-f. Closure under propositional operations
+##### f. Closure under propositional operations
 
 The set of primitive recursive relations is *closed under boolean operations*. In other words, if $P(\vec{x})$ and $Q(\vec{x})$ are primitive recursive, then so are $\neg P(\vec{x})$, $P(\vec{x}) \wedge Q(\vec{x})$, $P(\vec{x}) \vee Q(\vec{x})$, $P(\vec{x}) \rightarrow Q(\vec{x}),$ and $P(\vec{x}) \leftrightarrow Q(\vec{x})$.
 
 Given the interdefinability of the classical connectives, this follows upon noting the following:
 
-$$\begin{align*} \chi_{\neg P}(\vec{x}) & = 1 \dotminus \chi_{P}(\vec{x}) \\ \chi_{P \wedge Q}(\vec{x}) & = \chi_{P}(\vec{x}) \times \chi_{Q}(\vec{x}) \end{align*}$$ g. Bounded sums and products
+$$\begin{align*} \chi_{\neg P}(\vec{x}) & = 1 \dotminus \chi_{P}(\vec{x}) \\ \chi_{P \wedge Q}(\vec{x}) & = \chi_{P}(\vec{x}) \times \chi_{Q}(\vec{x}) \end{align*}$$
+
+##### g. Bounded sums and products
 
 Suppose that $f(\vec{x},z)$ is primitive recursive. Then the *bounded sum* $g(\vec{x},y) = \Sigma_{i=0}^y f(\vec{x},i)$ and the *bounded product* $h(\vec{x},y) = \Pi_{i=0}^y f(\vec{x},i)$ are both primitive recursive as they may be respectively defined as follows:
 
-$$\begin{aligned} g(\vec{x},0) & = f(\vec{x},0) \\ \nonumber g(\vec{x},y+1) & = g(\vec{x},y) + f(\vec{x},y+1) \\ \nonumber h(\vec{x},0) & = f(\vec{x},0) \\ \nonumber h(\vec{x},y+1) & = g(\vec{x},y) \times f(\vec{x},y+1) \end{aligned}$$ h. Closure under bounded quantification
+$$\begin{aligned} g(\vec{x},0) & = f(\vec{x},0) \\ \nonumber g(\vec{x},y+1) & = g(\vec{x},y) + f(\vec{x},y+1) \\ \nonumber h(\vec{x},0) & = f(\vec{x},0) \\ \nonumber h(\vec{x},y+1) & = g(\vec{x},y) \times f(\vec{x},y+1) \end{aligned}$$
+
+##### h. Closure under bounded quantification
 
 The set of primitive recursive relations is also closed under *bounded quantification*—i.e., if $R(\vec{x},z)$ is a primitive recursive relation, then so are the relations $\forall z \leq y R(\vec{x},z)$ and $\exists z \leq y R(\vec{x},z).$ These may be respectively defined as follows:
 
@@ -568,7 +578,7 @@ $$\begin{aligned} u_R(\vec{x},y) & =_{\textrm{df}} \chi_{\forall z \leq y R(\vec
 
 As it will be useful below, we have here extended our notational convention for characteristic functions so as to display free and bound variables in the subscripts of the functions being defined.
 
-i. Closure under bounded minimization
+##### i. Closure under bounded minimization
 
 The set of primitive recursive relations is also closed under *bounded minimization*. This is to say that if $R(\vec{x},z)$ is a primitive recursive relation, then so is the function $m_R(\vec{x},y)$ which returns the least $z$ less than or equal to $y$ such that $R(\vec{x},z)$ holds if such a $z$ exists and $y+1$ otherwise—i.e.,
 
@@ -576,7 +586,9 @@ $$\begin{align} \label{boundedmin} m_R(\vec{x},y) = \begin{cases} \text{the leas
 
 To see this, observe that if $R(\vec{x},z)$ is primitive recursive, then so is $\forall z \leq y \neg R(\vec{x},z)$. It is then not difficult to verify that
 
-$$m_R(\vec{x},y) = \Sigma_{i=0}^y \chi_{\forall z \leq y \neg R(\vec{x},z)}(\vec{x},i).$$ j. Divisibility and primality
+$$m_R(\vec{x},y) = \Sigma_{i=0}^y \chi_{\forall z \leq y \neg R(\vec{x},z)}(\vec{x},i).$$
+
+##### j. Divisibility and primality
 
 A natural number $y$ is said to be *divisible* by $x$ just in case there exists a $z$ such that $x \times z = y$—i.e., $x$ divides $y$ without remainder. In this case we write $x \divides y$. Note that if $x \divides y$ holds, then this must be witnessed by a divisor $z \leq y$ such that $x \times z = y$. We may thus define $x \divides y$ in the following manner which shows that it is primitive recursive:
 
@@ -598,7 +610,7 @@ $$\begin{aligned} \nextPrime(x) = m_{x < z \ \wedge \ \textit{Prime}(z)}(x,\fact
 
 It thus follows that $p(x)$ is primitive recursive.
 
-k. Sequences and coding
+##### k. Sequences and coding
 
 The foregoing sequence of definitions provides some evidence for the robustness of the class of primitive recursive relations and functions. Further evidence is provided by the fact that it is possible to develop the machinery for coding and decoding finite sequences of natural numbers and for performing various combinatorial operations on sequences—e.g., adjunction of an element, concatenation, extracting a subsequence, substituting one element for another, etc. The primitive recursiveness of these operations underpins Gödel’s arithmetization of syntax as described in Section 1.3. We present here only the basic definitions required to demonstrate the primitive recursiveness of the *k*-tupling and projection functions which are required for results in computability theory such as the Normal Form Theorem (2.3) discussed below.
 

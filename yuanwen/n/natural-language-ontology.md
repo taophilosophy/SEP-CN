@@ -161,7 +161,7 @@ It is a guiding assumption of natural language ontology that natural language re
 
 First of all, entities may play various roles in the semantic structure of natural language sentences. To an extent, it depends on particular semantic theories about relevant constructions or expressions, though, what entities play what sorts of roles (§2.2.2).
 
-2.2.1.1 Semantic values of referential NPs and variables
+##### 2.2.1.1 Semantic values of referential NPs and variables
 
 Most importantly, entities play a role as the semantic values of referential noun phrases (NPs), as the things that quantificational NPs range over, and as arguments of predicates. Referential NPs are occurrences of NPs in sentences in which they have the function of standing for entities. Natural language comes with a wealth of expressions referring to or quantifying over entities, as well as a wealth of expressions that express properties of entities (or relations among them). The standard view is that with the utterance of a simple sentence like *the apple is red,* the property expressed by *red* is attributed to the entity the speaker refers to with *the apple*.
 
@@ -175,7 +175,7 @@ Some caution needs to be applied to both the Fregean and the Quinean criterion o
 
 The notion of a referential NP also plays a central role in the tradition of Montague Grammar, where referential NPs are taken to be of type *e*, the type of entities (Montague 1974)[^montague-1974]. Montague himself, though, also proposed type-lifting referential NPs to the type of individual concepts (of type $\langle\langle e, t\rangle, t\rangle$). This was meant to allow for semantic uniformity with respect to NPs that for Montague must stand for individual concepts, such as *the rising temperature*, *the golden mountain*, and *the mathematician John claims to be* (but see §3.1.1). The move no longer maintains a straightforward notion of a referential NP and thus a criterion for entities being part of the ontology of natural language.
 
-2.2.1.2 Implicit arguments
+##### 2.2.1.2 Implicit arguments
 
 Another role entities may play in the semantic structure of sentences is that of implicit arguments, that is, arguments of predicates that are not also the semantic values of referential NPs. For example, on Davidson‘s (1967) influential analysis of adverbial modification, the sentence *John walked slowly* states that there is an event which, together with John, is an argument of *walk* and of which *slowly* (now treated as a predicate of events) is true
 
@@ -189,13 +189,13 @@ Instead of tropes, degrees have been used widely as implicit arguments of adject
 
 The semantic role of implicit arguments raises the question whether there is a difference in ontological status between entities that are implicit arguments and entities that are semantic values of referential NPs. Davidson’s arguments for events are generally treated as stronger arguments for events being part of the ontology of natural language than the fact that there are event-referring NPs, which may have to do with the distinction between core and periphery of language (§4.1). There are alternatives to Davidson’s semantics of adverbials, though, which do not posit such implicit arguments (Kim 1976; Copley & Harley 2015)[^copley-2015][^kim-1976].
 
-2.2.1.3 Parameters of evaluation and truthmakers
+##### 2.2.1.3 Parameters of evaluation and truthmakers
 
 Yet another important role of entities in the semantic structure of natural language is that of a parameter of evaluation for the truth of sentences. The standard semantic view takes a sentence to be true or false not absolutely, but relative to a time and a (possible) world. This first of all gives justice to the intuition that sentences can be true or false in actual as well as counterfactual circumstances. Moreover, there are natural language expressions that have been considered operators shifting a parameter of evaluation. Tenses and temporal adverbials are standardly taken to act as operators shifting the time of evaluation and modals as operators shifting the world of evaluation. Also conditionals are generally treated as potentially shifting the world of evaluation for antecedent and consequent.
 
 There is generally taken to be a difference in ontological commitment between parameters of evaluation on the one hand and semantic values of referential terms and implicit arguments of predicates on the other. It is generally understood that parameters of evaluation do not involve an ontological commitment on the part of the language user, but are mere posits in the semantic theory, which means they have a status as entities only in the semantic metalanguage. Parameters of evaluation involve an ontological commitment on the part of the language users only if there are referential expression in the object language making reference to them, or so the general view appears to be. For example, there are referential expressions in English referring to times (*today, that day, that moment,* etc), but not those referring to worlds, at least not from the core of language (§4.1). Frege’s criterion of objecthood of course does not apply to parameters of evaluation (and, in fact, it did not even apply to implicit arguments).
 
-2.2.1.4 Other semantic roles for situations
+##### 2.2.1.4 Other semantic roles for situations
 
 Situations have been considered parameters of evaluation, but they play yet other semantic roles within particular approaches to natural language semantics (see entry on situations in natural language semantics). Thus, in Austin’s (1950) theory of sentence meaning, a speaker, when uttering a sentence, refers to a situation that provides semantic values for context-dependent expressions. Does this mean an ontological commitment to situations? The answer to that question bears on another criterion for ontological commitment, that of an entity being part of the intended meaning of a sentence. Certainly, an ontological commitment to situations is in place if situations must form part of the intention of speakers when correctly using a sentence, as is the case on that theory. This is also the case for various roles of situations in semantic analyses of definite and quantificational NPs, as well as E-type pronouns (Elbourne 2005)[^elbourne-2005]. By contrast, situations play a role strictly outside the (intended) meaning of a sentence in Récanati’s (2010) theory of pragmatic enrichment.
 

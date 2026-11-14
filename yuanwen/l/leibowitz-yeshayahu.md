@@ -223,6 +223,10 @@ Leibowitz’s moral critique of the actions of the state and the Israeli army, w
 
 #### Further Selected Publications of Leibowitz
 
+##### Study-Group Discussions
+
+##### Published Broadcasts, Interviews, and Correspondence
+
 ### Selected Secondary Literature and Works Cited
 
 ## Academic Tools
@@ -297,8 +301,6 @@ I would like to thank Michael Harris, David Shatz, and Daniel Statman for helpfu
 
 [^ratziti-1999]: *Ratziti lish’ol otcha, Professor Leibowitz: Michtavim el Yeshayahu Leibowitz u-mimenu* [I Wanted to Ask You Professor Leibowitz: Letters To and From Yeshayahu Leibowitz], Jerusalem: Keter, 1999.Cited as *Ratziti*
 
-[^study-group-nd]: Study-Group Discussions
-
 [^sihot-1979]: *Sihot al Pirke Avot ve-al ha-Rambam* [Discourses on the *Ethics of the Fathers* and on Maimonides], Jerusalem: Schocken, 1979.
 
 [^sihot-1986]: *Sihot al Shemoneh Perakim la-Rambam* [Conversations on Maimonides’ *Eight Chapters*], Jerusalem: Keter, 1986.
@@ -310,8 +312,6 @@ I would like to thank Michael Harris, David Shatz, and Daniel Statman for helpfu
 [^sihot-2003]: *Sihot al Mivchar Pirkei ha-Hashgachah mitokh “Moreh Nevukhim” shel ha-Rambam* [Conversations on Providence in Maimonides’ *Guide of the Perplexed*], Jerusalem: Mira Ofran, 2003.
 
 [^sihot-2003-2]: *Sihot al Pirkei ta’amei ha-Mitzvot mitokh “Moreh Nevukhim” shel ha-Rambam* [Conversations on the Reasons for the Commandments in Maimonides’ *Guide of the Perplexed*], Jerusalem: Mira Ofran, 2003.
-
-[^published-nd]: Published Broadcasts, Interviews, and Correspondence
 
 [^guf-1984]: *Guf va-Nefesh: Habe’ayah ha-Psikho-Physit* [Body and Mind: The Psycho-Physical Problem], Tel Aviv: Misrad ha-Bitahon Publications, 1984.
 

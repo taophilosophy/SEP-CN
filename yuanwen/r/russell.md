@@ -449,6 +449,10 @@ This change in outlook resulted in Russell’s frank and repeated admission that
 
 #### *The Collected Papers of Bertrand Russell*
 
+##### In Print
+
+##### Planned
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -636,8 +640,6 @@ Thanks are due to Jimmy Altham, Erik Banks, Kenneth Blackwell, Francisco Rodríg
 
 [^a2013-nd]: A2013, *What I Believe*, London: Routledge.
 
-[^print-nd]: In Print
-
 [^cp-1888]: CP, Vol. 1, *Cambridge Essays, 1888–99*, Kenneth Blackwell, Andrew Brink, Nicholas Griffin, Richard A. Rempel and John G. Slater (eds.), London, Boston, Sydney: George Allen and Unwin, 1983.
 
 [^cp-1896]: CP, Vol. 2, *Philosophical Papers, 1896–99*, Nicholas Griffin and Albert C. Lewis (eds.), London and New York: Routledge, 1990.
@@ -675,8 +677,6 @@ Thanks are due to Jimmy Altham, Erik Banks, Kenneth Blackwell, Francisco Rodríg
 [^cp-1954]: CP, Vol. 28, *Man’s Peril, 1954–55*, Andrew G. Bone (ed.), London and New York: Routledge, 2003.
 
 [^cp-1955]: CP, Vol. 29, *Détente or Destruction, 1955–57*, Andrew G. Bone (ed.), London and New York: Routledge, 2005.
-
-[^planned-nd]: Planned
 
 [^vol-1922]: Vol. 16, *Labour and Internationalism, 1922–25*.
 

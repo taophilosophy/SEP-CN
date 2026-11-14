@@ -261,7 +261,7 @@ Poetry, for Hegel, is not simply the structured presentation of ideas, but the a
 
 The three basic forms of poetry identified by Hegel are epic, lyric and dramatic poetry.
 
-6.3.5.1 Epic and Lyric poetry
+##### 6.3.5.1 Epic and Lyric poetry
 
 Epic poetry presents spiritual freedom—that is, free human beings—in the context of a world of circumstances and events. “In the epic,” Hegel states, “individuals act and feel; but their actions are not independent, events [also] have their right.” What is described in such poetry, therefore, is “a play between actions and events” (*PKÄ*, 208). Epic individuals are situated individuals, caught up in a larger enterprise (such as the Trojan War in Homer’s *Iliad*). What they do is thus determined as much by the situation in which they find themselves as by their own will, and the consequences of their actions are to a large degree at the mercy of circumstances. Epic poetry thus shows us the *worldly* character—and attendant limitations—of human freedom. (In this respect, Hegel notes, Alexander the Great would not have made a good subject for epic poetry, because “his world was his army”— *his* creation under *his* control—and so was not truly independent of his will [*PKÄ*, 213].)
 
@@ -269,7 +269,7 @@ Among the great epic poems Hegel discusses are Homer’s *Odyssey*, Dante’s *D
 
 In contrast to the epic hero, the subject of lyric poetry does not undertake tasks, journeys or adventures in the world but simply gives expression—in hymns, odes or songs—to the self’s ideas and inner feelings. This can be done directly or via the poetic description of something else, such as a rose, wine, or another person. As always, Hegel’s remarks about lyric poetry bear witness to his extraordinary erudition and to his critical acumen. He lavishes particular praise on Goethe’s *West-Eastern Divan* (1819) but criticizes the eighteenth-century poet Friedrich Gottlieb Klopstock for wanting to create a new “poetic mythology” (*Aesthetics*, 2: 1154–7; *PKÄ*, 218).
 
-6.3.5.2 Dramatic Poetry
+##### 6.3.5.2 Dramatic Poetry
 
 Dramatic poetry combines the principles of epic and lyric poetry. It shows characters acting in the world—in a given situation —but their actions issue directly from their *own* inner will (rather than being co-determined by events beyond the agent’s control). Drama thus presents the—all too often self-destructive—consequences of free human action *itself*.
 

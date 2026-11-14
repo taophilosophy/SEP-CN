@@ -257,7 +257,7 @@ Of the two schools of Svātantraka we shall first take up the theory of the two 
 1. That at the level of conventional truth all phenomena are intrinsically real (svabhāvataḥ), because they are established as intrinsic realities from the perspective of the non-analytical cognitions of the naïve ordinary beings. Allied to this thesis is Bhāvavevika’s claim that the Madhyamaka accepts, conventionally, the intrinsic reality of things, for it is the intrinsic reality that defines what is to be conventionally real.
 2. That at the level of ultimate truth, all phenomena, with the exception of the emptiness which is ultimately real, are intrinsically unreal (niḥsvabhāvataḥ), or ultimately unreal, because they are established as empty of any intrinsic reality from the perspective of analytical exalted cognition (i.e., ultimate cognition of ārya-beings). Allied to this thesis is Bhāvavevika’s claim that Madhyamaka rejects intrinsic reality at the ultimate level since ultimate reality constitutes that which is intrinsically unreal, therefore empty.
 
-Conventional truth
+##### Conventional truth
 
 We shall consider Sautrāntika Svātantrika Madhyamaka’s defence of the two claims in turn. We will begin first with Bhāvavevika’s definition of the conventional truth. In the *Tarkajvālā*, he defines conventional truths as an “incontrovertible (phyin ci ma log pa) linguistic convention.” (*Dbu ma* dza 56a) Such conventional truth on Bhāvavevika’s Svātantrika takes two forms—unique particulars (svalakṣaṇa / rang mtshan) and universals (sāmānyalakṣaṇa / spyi mtshan) as the *Tarkajvālā* III.8, explains:
 
@@ -273,7 +273,7 @@ Bhāvavevika’s defence of the thesis that conventionally things are intrinsica
 
 Bhāvavevika’s second argument states that as long as a Mādhyamika accepts conventional reality it must also accept things as intrinsic in order to avoid the nihilism charge, for conventional reality is defined in terms of its being intrinsically and uniquely real (svalakṣaṇa). Denying intrinsic reality of things at the conventional level, would therefore entail the denial of their conventional existence, since it would entail the denial of the defining characteristics of the conventional reality. This follows says Bhāvavevika because “The Lord (bhāgvan / bcom ldan ldas) has taught the two truths. Based on this [explanatory schema] conventionally things are posited in terms of their intrinsic natures and [unique] particulars ([sva]lakṣaṇa / mtshan nyid). It is only ultimately that [things are] posited as having no intrinsic reality” ((*Dbu ma* dza 60a).
 
-Ultimate truth
+##### Ultimate truth
 
 Bhāvavevika’s second thesis is that at the level of ultimate truth, all phenomena are intrinsically unreal (niḥsvabhāvataḥ), therefore Madhyamaka rejects intrinsic reality ultimately. Bhāvavevika’s *Tarkajvālā* 3.26 offers three ways to interpret the compound paramārtha “ultimate domain” or “ultimate object” literally. In the first, both the terms “ultimate” (param) and “domain” (artha) stands for the object—emptiness (śūnyatā)—because it is both the “ultimate” or “final” as well as an “object to be known,” “analysed” (parīkṣaṇīya / brtag par bya ba) and “understood” (pratipādya / go bar bya ba). In the second compound, paramārtha stands for “object of the ultimate” (paramasya artha / dam pa’i don) where “object” refers to emptiness and “ultimate” refers to a non-conceptual exalted cognition (nirvikalpajñāna / rnam par mi rtog pa’i ye shes) of the meditative equipoise (samāhita / mnyam bzhag). In the third compound paramārth stands for a concordant ultimate (rjes su mthun pa’i shes rab), a cognition that accords with the knowledge of the ultimate since it has the ultimate as its domain.
 
@@ -313,7 +313,7 @@ Underlying this syncretistic view of the two truths lay two fundamental theses t
 
 And it is precisely the synthesis of these two theses that defines the characteristic of the theory of the two truths in the Yogācāra Svātantrika Madhyamaka. Śāntaraṣita and Kamalaśīla attempt to achieve this distinctive syncretistic characteristic in their works to which we turn our discussion.
 
-Ultimate truth
+##### Ultimate truth
 
 We will follow Śāntarakṣita and Kamalaśīla and first take up the second major thesis—ultimately everything, including the mind, is unreal and empty. Therefore, ultimate truth is the emptiness of any intrinsic reality. According to Kamalaśīla ultimate truth has three senses: ([MA], *Dbu ma* sa 233b)
 
@@ -354,7 +354,7 @@ Thus the second and the third criteria which are mutually entailing prove the en
 
 It is clear, then, that the arguments of Śāntarakṣita and Kamalaśīla have the final thrust of demonstrating the reasons why all phenomena *ultimately* lack any intrinsic reality, and are therefore geared towards proving the emptiness of intrinsic reality as the ultimate truth, in each argument a specific domain of analysis is used to prove the final ontological position.
 
-Conventional Truth
+##### Conventional Truth
 
 Let us now turn to the first thesis and look at the Yogācāra-Svātantratika Madhyamaka defence of the theory of conventional truth. As we have seen from the arguments such as neither-one-nor many, Śāntarakṣita and Kamalaśīla draw the conclusion that entities are ultimately empty of reality, for ultimately they do not exist either as a singular or as a plural. They then move on to explain the way things do exist, and Śāntarakṣita does this with an explicit admission that things do exist conventionally—“Therefore these entities are only conventionally defined. If [someone] accepts them as ultimate, what can I do for that?” ([MAK] 63 *Dbu ma* sa 55a). Why is it that all entities are defined as only conventionally real? To understand the answer to this question, we need to look at Śāntarakṣita’s definition of conventional reality, which consists of three criteria:
 

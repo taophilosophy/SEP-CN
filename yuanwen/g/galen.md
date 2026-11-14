@@ -346,6 +346,10 @@ Galen also claims to have had personal experience of interventions by individual
 
 #### A.1 Sources of the Texts
 
+##### A.1.1 Original Greek Sources
+
+##### A.1.2 Collections of Translations
+
 #### A.2 Texts by Galen
 
 ### B. Secondary literature
@@ -370,8 +374,6 @@ Aristotle, General Topics: logic | atomism: ancient | form vs. matter | rational
 
 The author wishes to acknowledge the support of both the Wellcome Trust and the Alexander von Humboldt Foundation for funding of the research project in the course of which this article was written.
 
-[^original-nd]: A.1.1 Original Greek Sources
-
 [^page-nd]: Page numbers given in references in the article are those of the translation or, in the absence of translation, of the Greek edition, cited here.
 
 [^cmg-1914]: [**CMG**] *Corpus Medicorum Graecorum*, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
@@ -379,8 +381,6 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 [^kühn-1821]: [**Kühn**] *C. Galeni Opera Omnia*, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien&statut=charge&fille=o&cotemere=45674).
 
 [^sm-1884]: [**SM**] *C. Galeni Pergameni Scripta Minora*, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html).
-
-[^collections-nd]: A.1.2 Collections of Translations
 
 [^singer-1997a]: Singer, P.N., 1997a, *Galen: Selected Works*, Oxford: Oxford University Press.
 

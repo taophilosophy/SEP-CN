@@ -319,7 +319,7 @@ The offense comes from attributing orders (*r*-types) to propositional functions
 
 What follows in PM up to ∗12 is a presentation of quantificational logic in the ramified theory of types. The complications are due to the decision of the authors (surely on Russell’s insistence) to add a new section ∗9 which allows the earlier theory of propositional logic to be incorporated directly into a quantificational logic as is done in contemporary logic. This shows the extent to which the earlier theory is indeed a theory of *propositions*, not an account of a fragment of quantificational logic allowing open sentences containing free variables.
 
-Quantificational Logic in PM
+##### Quantificational Logic in PM
 
 Section ∗10 formulates quantificational logic as it is currently formulated, i.e. the axioms and theorems of propositional logic are assumed to hold for all formulas, and not just the elementary propositions of ∗1–5. It appears that Russell became concerned about this assumption, and so a new section ∗9 was introduced to derive the principles of quantification theory from elementary propositions alone. While of interest to scholars of PM, the upshot is the same for later uses of quantificational logic in PM.
 
@@ -355,7 +355,9 @@ The introduction to ∗10 in PM begins with:
 
 In other words, this section introduces the logic of quantification, in a way that is familiar to contemporary logic. The propositional logic of the preceding sections is interpreted as true only of elementary, first-order propositions, and so extended to higher-order logic by showing how sentences can be presented in “prenex form”, that is with quantifers in intial position preceding a quantifier-free matrix. These theorems are familiar now as “quantifier confinement” theorems, of the form of:
 
-$$ \tag*{∗10·23} \forall x_{\tau} [ \phi (x ) \supset A ] \equiv [ \exists x_{\tau} \phi (x)] \supset A $$ The Axiom of Reducibility
+$$ \tag*{∗10·23} \forall x_{\tau} [ \phi (x ) \supset A ] \equiv [ \exists x_{\tau} \phi (x)] \supset A $$
+
+##### The Axiom of Reducibility
 
 Given that the system of PM contains a ramified theory of types, however, the move to discussion of classes for the remainder of the work after ∗20 requires a further axiom, the axiom of reducibility, in order to allow a simple theory of types of classes. Consider the fundamental notion from the theory of real numbers of the *least upper bound* (*l.u.b.*) of a bounded class of real numbers. Consider the class of all real numbers whose square is less than or equal to 2, i.e., $\{ x \mid x^2 \leq 2\}$. A class of reals *S* has an *upper bound* if and only if $\exists r \forall s ( s \in S \supset s \leq r)$. If a bounded class *S* of real numbers has members of some *r*-type $\tau$, then the least upper bound must belong to an *r*-type $\tau / 1$ because of the quantifier in the definition ranging over the elements *s* of *S*. We say that the definition of *S* is “impredicative” because it involves quantification over a totality to which it is intended to belong. The theory of real numbers, however, requires that sometimes the least upper bound of a class is a member of that class: in this case, the least upper bound of *S*, namely $\sqrt{2}$, is an element of *S*.
 
@@ -373,7 +375,7 @@ It has seemed to some, beginning with Chwistek 1912 and 1922, and continuing thr
 
 The interaction of this axiom with the theory of classes in PM will be explained below in connection with ∗20 on classes.
 
-Identity in PM
+##### Identity in PM
 
 Contemporary logic follows Frege in treating *identity*, represented by $=$, as a logical notion. In PM the notion of identity is defined following Leibniz as indiscernibility, i.e. indiscernible objects are identical. That is, $\forall \phi ( \phi x \equiv \phi y) \supset x = y$. But since the axiom of reducibility guarantees that if there is any type of function on which *x* and *y* differ, they will differ on some predicative function, PM uses the following definition of identity:
 
@@ -385,7 +387,7 @@ In contemporary systems of logic an axiom or rule of inference allows that if $x
 
 In the appendix B to the second edition of PM, which was written by Russell, there is a technical discussion of the consequences of abandoning the axiom of reducibility. A faulty proof is proposed to show that the principle of induction can be derived without using the axiom of reducibilty in a modified theory of types (see Linsky 2011)[^linsky-2011]. As Russell points out, however, it is not possible to define real numbers using “Dedekindian” classes of rational numbers without assuming the axiom of reducibility. (The thesis that every class of reals with an upper bound has a real number as its least upper bound, discussed above, would not be provable.) As a result, Russell says “analysis would collapse”. In all of this discussion, however, Russell does not indicate what would replace the definition of dentity in ∗13, which so crucially depends on the axiom of reducibility.
 
-Definite Descriptions
+##### Definite Descriptions
 
 Russell presented his theory of definite descriptions in “On Denoting” (1905) and it has probably been the most widely discussed application of the logic of PM. The role of the theory of definite desciptions in PM, however, is exhausted by its use in ∗30 to define what are called “descriptive functions”. In contemporary logic it is routine to show how the notion of a “functional relation” can be used to justify the introduction of function symbols into a language with only *n*-place predicates. The theory of definite descriptions is essential for this argument. After ∗30 there are only a handful of occurrences of description operators in PM. What is perhaps Russell’s most valuable contribution to philosophical logic and the philosophy of language is, here, only a device used for a technical, though programatically important, purpose. The technical purpose, however, does indicate an important distinction between the logicisms of Frege and Russell. Frege’s logic is based on the notion of concept, which is a case of a function from objects to truth values. Russell’s logic can be seen as further reducing the mathematical notion of function to his logical notion of *propositional function*. Some logicians firmly in the tradition of mathematical logic do not find this to be an advance, but it does indicate a significant difference between the approaches of Frege and Russell (see Linsky 2009)[^linsky-2009].
 
@@ -425,7 +427,7 @@ $$ \tag*{∗14·3} \begin{align} \{ \forall p \forall q [ ( p \equiv q ) \supset
 
 This theorem is another indication of the way in which the philosophical basis of PM, with its propositional functions that are intensional, is left behind as the mathematical content of PM is introduced with the definition of classes in the next sections.
 
-The “No-Classes” Theory of Classes
+##### The “No-Classes” Theory of Classes
 
 The theory of sets (*classes*) in PM is based on a number of contextual definitions, similar in some ways to the theory of descriptions. In what follows we will occasionally use the expression “class” for the PM notion, to remind the reader of the differences between this and an axiomatic theory of sets, such as ZF: not to indicate that these are “proper classes” in the sense used in ZF or VGB class theory, but to indicate an expression that does not define a set, such as $\{ x \mid x = x \}$, which is true of the *universe* $\rV$ and so too “large” to be a set.
 
@@ -489,7 +491,7 @@ Church’s notion of “order” is not quite the one that is familiar from stan
 
 Frank Ramsey (1925) argued that the simple theory of types was adequate for blocking the set theoretic paradoxes, but not the paradoxes of semantic concepts like truth or the paradoxes of belief that Russell called *epistmological*. Church (1976) argues that those paradoxes can be resolved in ramified type theory in a way that is similar to Tarski's (1956) solutions.
 
-Comparison of the Classes of PM with Axiomatic Set Theory
+##### Comparison of the Classes of PM with Axiomatic Set Theory
 
 It is widely thought that the system of PM offers a very different approach to the solution of the paradoxes from that of axiomatic set theory as formulated in the Zermelo-Fraenkel system ZF. While the theory of types is thought of as a desperate attempt to save the logicist program by artifically introducing types in order to resolve the paradoxes, axiomatic set theory seems to simply postulate sets as entities and adopts axioms in a first-order language with “$\in$” for membership as its one non-logical symbol. This view has been forcefully expressed by Quine:
 
@@ -507,7 +509,7 @@ There was, in fact, a certain continuity in reasoning about foundations of mathe
 
 As presented in PM, however, the no-classes theory differs significantly from ZF. The sentences of the PM theory are expressed in the theory of types, as opposed to the first-order theory of ZF. ZF and PM cannot simply be compared in terms of their theorems. Not only are there different axioms in the two theories, but the very languages in which they are expressed differ in logical power. If we follow Gödel and Boolos, however, the two are seen to be based on the same intuitive basis, and the differences are seen as the same, barring certain “superfluous restrictions” on the theory of PM.
 
-Relations in PM
+##### Relations in PM
 
 ∗21 extends the notion of class which is the extension of a one-place propositional function to the comparable notion of a “relation” for functions of two arguments with the analogous contextual definition.
 
@@ -529,7 +531,7 @@ Our interpretation of this change in attention to classes and relations indicate
 
 To remind the reader of the change from talking of propositional functions to relations in extension, two further notational alterations are introduced. Greek letters such as $\alpha$, $\beta$, etc. , will be used as variables for ranging over classes as well. The individual variables which are ambiguous with respect to type, “typically ambiguous”, will now also range over classes. A function $\phi$ of two variables *x* and *y* is indicated with the arguments in parentheses after the function variable: $\phi(x, y)$. A two-place relation *R* holding between *x* and *y* is written $x \relR y$, with the *R* in “infix” position. The obvious limitation of this notation is that it is not readily extended to three-place relations, adding a third variable, say *z*. We will follow the practice in PM and write $x \relR y$ for binary relations. PM only requires binary relations for most of the three volumes, although the projected volume IV on geometry would need a notation for “*x* is between *y* and *z*”, as can be seen from Henry Sheffer’s unpublished notes from Russell’s lectures on geometry from 1910 at Cambridge. There he uses the notation $y\rels{B}(x,y)$ which blends the two styles.
 
-The Algebra of Classes
+##### The Algebra of Classes
 
 The notions of the subset relation and the intersection and union of sets are defined in PM exactly as they are now (albeit with different terminology). The complement of a set and the universal class $\rV$are not allowed in set theory, and are rejected as “proper classes”. In PM, as they only are a set of entities of a given type $\tau$, they form a set of the next higher type, $(\tau)/1$. The complement of a set of a given type is the set of all entities (of that type) that are not in the set. Each empty set will be the complement of the universal set (of a given type $\tau$ ) and so there will be the empty set of type $\tau$.
 
@@ -537,11 +539,17 @@ $$ \begin{align} \alpha \subseteq \beta & \eqdf \forall x (x \in \alpha \supset 
 
 The type subscript $\tau$ is added below as a reminder that the notions of universal set $\rV$ and complement are each with regard to a given type (and so an empty set $\emptyset$ will recur in each type.)
 
-$$ \begin{align} - \alpha &\eqdf \{ x_{\tau} \mid \lnot (x \in \alpha )\}\tag*{∗22·04}\\ {\alpha - \beta} & \eqdf {\alpha \cap {- \beta}}\tag*{∗22·05}\\ \end{align} $$ The Universal Class and the Empty Class $$\tag*{∗24·01} \rV_{\tau + 1} \eqdf \{ x_{\tau} \mid (x = x) \} $$
+$$ \begin{align} - \alpha &\eqdf \{ x_{\tau} \mid \lnot (x \in \alpha )\}\tag*{∗22·04}\\ {\alpha - \beta} & \eqdf {\alpha \cap {- \beta}}\tag*{∗22·05}\\ \end{align} $$
+
+##### The Universal Class and the Empty Class
+
+$$\tag*{∗24·01} \rV_{\tau + 1} \eqdf \{ x_{\tau} \mid (x = x) \} $$
 
 The subscript on ‘$\rV$’ indicates that the universe of classes of a given (simple) type $\tau$ will be a member of the next type. There is no class of all classes of whatever type. This is in common with axiomatic set theory which holds that there is no set of all sets.
 
-$$\tag*{∗24·02} \emptyset_{\tau} \eqdf - \rV_{\tau} $$ Mathematical Functions in PM
+$$\tag*{∗24·02} \emptyset_{\tau} \eqdf - \rV_{\tau} $$
+
+##### Mathematical Functions in PM
 
 The logic of PM is based on *propositions*, *propositional functions* and *relations in extension*, unlike Frege’s which deals with objects, in particular, truth values, and functions, with the special case of concepts, which are functions from objects to truth values. PM reduces mathematical functions to “functional relations” in a way that is familiar from elementary courses. If there is a binary relation which has a unique second argument for each first argument, i.e.,
 
@@ -565,11 +573,15 @@ Recall that from this point on in PM, the relations are to be considered as “r
 
 Given the treatment of “relations” as “relations in extension” it is no accident that the development of the logic of relations in ∗30–∗38 looks familiar to contemporary logicians, with even some of the notation from PM surviving into contemporary usage. A series of notions are defined in a way quite familiar to the modern treatment of relations as sets of *n*-tuples:
 
-The Converse of a Relation $$ \tag*{∗31·02} {\relbR} = \{\lambda x \lambda y (y \relR x)\} $$
+##### The Converse of a Relation
+
+$$ \tag*{∗31·02} {\relbR} = \{\lambda x \lambda y (y \relR x)\} $$
 
 or, in terms of pairs:
 
-$${\relbR} = \{ \langle x, y \rangle \mid (y \relR x) \}$$ Domains, Ranges and Fields of Relations
+$${\relbR} = \{ \langle x, y \rangle \mid (y \relR x) \}$$
+
+##### Domains, Ranges and Fields of Relations
 
 The notions of the *domain*, *range*, and *field* of a relation are also given a contemporary definition (and so also the notions of the *domain*, *range* and *field* of a function).
 
@@ -577,11 +589,13 @@ $$ \begin{align} \tag*{∗33·11} \Domain \; R &\eqdf \{x \mid \exists y ( x \re
 
 Note that it is possible that a relation can have its domain in one type and range in another. This adds complications in the theory of cardinal numbers when a relation of similarity (equinumerosity) holds between classes of different types. (See the discussion of ∗100 below.)
 
-The Product of Two Relations
+##### The Product of Two Relations
 
 The *composition* of relations *R* and *S* is called their *relative product* and uses a different symbol $R\mid S$ where we write $R \circ S$:
 
-$$ \tag*{∗34·01} R \circ S \eqdf \lambda x \lambda z \{ \exists y ( x \relR y \amp y \relS z ) \} $$ Restricted Relations
+$$ \tag*{∗34·01} R \circ S \eqdf \lambda x \lambda z \{ \exists y ( x \relR y \amp y \relS z ) \} $$
+
+##### Restricted Relations
 
 The *restriction* of (the *range* of) a relation *R* to a particular class $\beta$ is defined this way: :
 
@@ -593,7 +607,11 @@ In his survey of PM, Quine (1951: 155) complains that these last 100 pages of Pa
 
 In contemporary logic with the notation of set theory used above, there is no need for a special symbol for this notion, as it is written as:
 
-$$ \tag*{∗37·01} R\pmsq \pmsq \beta \eqdf \{ x \mid \exists y (y \in \beta) \amp x \relR y \} $$ [1925]Products and Sums of Classes of Classes $$ \tag*{∗40·01} {} \cap \alpha \eqdf \{ x \mid \forall \beta (\beta \in \alpha \supset x \in \beta) \} $$
+$$ \tag*{∗37·01} R\pmsq \pmsq \beta \eqdf \{ x \mid \exists y (y \in \beta) \amp x \relR y \} $$
+
+##### [1925]Products and Sums of Classes of Classes
+
+$$ \tag*{∗40·01} {} \cap \alpha \eqdf \{ x \mid \forall \beta (\beta \in \alpha \supset x \in \beta) \} $$
 
 This is the *intersection* of $\alpha$.
 
@@ -603,15 +621,19 @@ is the *union* of $\alpha$.
 
 ### 4.2 Part II: Prolegomena to Cardinal Arithmetic
 
-The Cardinal Number 1 $$ \tag*{∗52·01} 1 \eqdf \{ \alpha \mid \exists x ( \alpha = \{x \} ) \} $$
+##### The Cardinal Number 1
+
+$$ \tag*{∗52·01} 1 \eqdf \{ \alpha \mid \exists x ( \alpha = \{x \} ) \} $$
 
 So the cardinal number 1 is the class of all singletons. There will be a different number 1 for each type of *x*. Frege, by contrast, defines the natural number 1 as the extension of a certain concept, namely being identical with the number 0, which itself is the extension of the (empty) concept of not being self-identical. In axiomatic set theory the natural numbers are particular finite ordinals, in particular the series with 0 as the empty set $\emptyset$: 1 is $\{ 0 \}$, 2 is $\{0, 1 \}$, and so on. This construction is named the *von Neumann ordinals*.
 
-Pairs $$ \tag*{∗54·02} 2 \eqdf \{ \alpha \mid \exists x \exists y (x \neq y \amp \alpha = \{y \} \cup \{ x \} ) \} $$
+##### Pairs
+
+$$ \tag*{∗54·02} 2 \eqdf \{ \alpha \mid \exists x \exists y (x \neq y \amp \alpha = \{y \} \cup \{ x \} ) \} $$
 
 Similarly, the number 2 is the class of all pairs, rather than a particular pair. In the type theory of PM there will be distinct couples for the types of *y* and *x*. When they are of the same type the couple is called “homogeneous”. Even with homogeneous pairs there will be distinct classes of pairs for each type, and thus a different number 2 for each type. The same notion applies to relations.
 
-Ordered Pairs
+##### Ordered Pairs
 
 The notion of an ordered pair, called an “*ordinal couple*” is defined as:
 
@@ -627,11 +649,11 @@ $$\langle x, y \rangle \eqdf \{\{\{ x\}, \emptyset \}, \{\{ y\}\}\} \textrm{ whe
 
 Wiener’s accomplishment was to capture the ordering of the pair which in PM is captured by the ordering of the arguments of relations with the unordered notion of set membership.
 
-The End of PM to ∗56
+##### The End of PM to ∗56
 
 The paperback abridged edition of *PM to ∗56* only goes this far, so the remaining definitions have only been available to those with access to the full three volumes of PM.
 
-Relative Types
+##### Relative Types
 
 This section presents a discussion of relations between individuals of distinct types, introducing a notation for types, $t\pmsq x$ for the type to which *x* belongs. This section is little used in Volume I. The special consequences for this notion when dealing with relative types of cardinal numbers is the topic of the Preface to Volume II, which was added after the first volume was already in print. The delay due to working out these details partially explains the three-year gap between the publication of Volume I in 1910 and the remaining volumes II and III in 1913. Section ∗65 (On the Typical Definition of Ambiguous Symbols), is a discussion of *typical ambiguity*, the ambiguity of variables with respect to type.
 
@@ -639,7 +661,9 @@ $$ \tag*{∗70·01} f: \alpha \rightarrow \beta \eqdf $$
 
 The functions *f* from $\alpha$ onto $\beta$, that is, the $\Domain \; f = \alpha$ and $\Range \; f = \beta$
 
-Similarity of Classes $$ \tag*{∗73·01} \alpha \approx \beta \eqdf (\exists f) f : \alpha \stackrel{1-1}{\longrightarrow} \beta. $$
+##### Similarity of Classes
+
+$$ \tag*{∗73·01} \alpha \approx \beta \eqdf (\exists f) f : \alpha \stackrel{1-1}{\longrightarrow} \beta. $$
 
 There is a one-one function mapping $\alpha$ onto $\beta$ (*similarity* of $\alpha$ and $\beta$). Contemporary discussions say that $\alpha$ and $\beta$ are *equinumerous*. Difficulties arise with respect to the definition of cardinal numbers when the relation of similarity they involve is one that has a domain and range in different types. See ∗100 below.
 
@@ -649,7 +673,7 @@ $$ \forall \alpha \forall \beta \forall \gamma \forall \delta \left[\left ( \beg
 
 The proof here explicitly follows the proof by Ernst Zermelo from 1908. Whitehead and Russell call this the “Schröder-Bernstein” theorem.
 
-The Axiom of Choice (Multiplicative Axiom)
+##### The Axiom of Choice (Multiplicative Axiom)
 
 The multiplicative axiom, or “axiom” of choice, is not an axiom of PM, what is termed a “primitive proposition”, but is instead a defined expression that is added as an hypothesis to theorems for which it is used. This reflects the emerging awareness at the time of the role of the axiom of choice in various proofs, in particular, Zermelo’s proof that every class can be *well-ordered*.
 
@@ -657,11 +681,13 @@ $${}\ \begin{aligned}&\textrm{Multiplicative}\\ &\textrm{Axiom} \end{aligned} \e
 
 If $\alpha$ is a class of mutually exclusive, non-empty, classes, then there is a (“choice”) set $\beta$ such that the intersection of $\beta$ with each member of $ \delta $ of $\alpha$ is a unique (chosen) member of $\delta $.
 
-$\Rast$ The Ancestral Relation $$ \quad\Rast \eqdf \left \{ \begin{split} & \langle x, y \rangle \mid (\exists u x\relR u \lor \exists u uRx ) \amp {} \\ & \forall \alpha \left [ \left[ \begin{split} & x \in \alpha \amp {}\\ &\forall z \forall w (z \in \alpha \amp zRw \supset w \in \alpha ) \end{split} \right] \supset y \in \alpha \right] \end{split}\right \} \tag*{∗90·01} $$
+##### $\Rast$ The Ancestral Relation
+
+$$ \quad\Rast \eqdf \left \{ \begin{split} & \langle x, y \rangle \mid (\exists u x\relR u \lor \exists u uRx ) \amp {} \\ & \forall \alpha \left [ \left[ \begin{split} & x \in \alpha \amp {}\\ &\forall z \forall w (z \in \alpha \amp zRw \supset w \in \alpha ) \end{split} \right] \supset y \in \alpha \right] \end{split}\right \} \tag*{∗90·01} $$
 
 This follows Frege’s definition, namely, that *y* is in all the *R*-hereditary classes that contain *x* or (*x* is in the field of *R* ).
 
-The Powers of a Relation
+##### The Powers of a Relation
 
 The “powers” of a relation $R (\textrm{Pot}\pmsq R)$ are the relations *R*, $R^2$, $R^3$, …where
 
@@ -679,7 +705,9 @@ The writing of this preface delayed the publication of the second volume of PM, 
 
 ### 5.2 Part III: Cardinal Arithmetic
 
-Definition of cardinal numbers $$ \tag*{∗100·01} \rN_c \eqdf \{ x \mid \forall y (y \in x \leftrightarrow \forall z \forall w (z,w \in y \leftrightarrow z \approx w) \} $$
+##### Definition of cardinal numbers
+
+$$ \tag*{∗100·01} \rN_c \eqdf \{ x \mid \forall y (y \in x \leftrightarrow \forall z \forall w (z,w \in y \leftrightarrow z \approx w) \} $$
 
 *Cardinal numbers* are classes of equinumerous (similar) classes. We can add a notion of the *number* of a class to allow for a direct comparison with Frege:
 
@@ -687,7 +715,7 @@ $$\# \{x \mid \phi ( x) \} \eqdf \{ y \mid y \approx \{x \mid \phi (x) \} \}.$$
 
 (In set theory of course this is too large to be a set, and so is just a “proper class”.)
 
-Hume’s Principle in PM
+##### Hume’s Principle in PM
 
 *Hume’s principle* is described in Frege 1884 (§63) as asserting that the content of the proposition that “the number which belongs to the concept F is the same as the number which belongs to the concept G”, is equivalent to “the concept F is similar to the concept G”. In terms of classes this becomes $\alpha \approx \beta \equiv \# \alpha = \# \beta$. Hume’s principle is the focus of much of the discussion of “Neo-Logicism”, the doctrine that Frege’s construction of the numbers can be built on a consistent foundation (see the entry on Frege’s theorem).
 
@@ -701,11 +729,15 @@ $$ \tag*{∗100·34} \exists \gamma [\gamma \in (\alpha \cap \beta) ] \supset ( 
 
 The antecedent guarantees that $\alpha$ and $\beta$ are of the same type, and so the cardinal numbers involved are *homogeneous cardinals*. (Landini (2016) argues that this section of PM is confused.)
 
-0 Defined $$ \tag*{∗101·1} 0 \eqdf \# \emptyset $$
+##### 0 Defined
+
+$$ \tag*{∗101·1} 0 \eqdf \# \emptyset $$
 
 The class of all classes equinumerous with the empty set is just the singleton containing the empty set, so $0 = \{ \emptyset \}$.
 
-The *Arithmetical Sum* of Classes and Cardinals $$ \tag*{∗110·01} \alpha + \beta \eqdf [\{ \beta \cap \emptyset \} \times \{\alpha \}] \cup [ \{ \alpha \times \{ \beta \} ] $$
+##### The *Arithmetical Sum* of Classes and Cardinals
+
+$$ \tag*{∗110·01} \alpha + \beta \eqdf [\{ \beta \cap \emptyset \} \times \{\alpha \}] \cup [ \{ \alpha \times \{ \beta \} ] $$
 
 (If $ \alpha, \beta \neq \emptyset $ , otherwise $ \alpha + \emptyset = \alpha, \emptyset + \beta = \beta $ ). This qualification is hidden in PM by the use of expressions for functional relations that are sometimes undefined. The *arithmetic sum* of $\alpha$ and $\beta$ is the union of $\alpha$ and $\beta$ after they are made disjoint by summing the pairing the elements of $\beta$ with elements of $\{ \alpha \}$ and the elements of $\alpha$ with the elements of $\{ \beta \}$. (The *Cartesian product* of $ \gamma $ and $ \delta $, $ \gamma \times \delta $, is $ \{ \langle x, y \rangle | x \in \gamma \; \amp \; y \in \delta \} $). The classes $\alpha$ and $\beta$ are intersected with the empty class, $\emptyset$, to adjust the type of the elements of the sum. It is more recognizable to contemporary set theory by the equivalent definition (subject to the same exception when :
 
@@ -723,11 +755,13 @@ $$ \tag*{∗110·643} 1 +_c 1 = 2 $$
 
 Whitehead and Russell remark that “The above proposition is occasionally useful. It is used at least three times, in…”. This witticism reminds us that the theory of natural numbers, so central to Frege’s works, appears in PM as only a special case of a general theory of cardinal and ordinal numbers and even more general classes of isomorphic structures.
 
-Exponentiation
+##### Exponentiation
 
 Exponentiation for cardinals is defined in such a way that it coincides with Cantor’s notion that the cardinality of the powerset of a class $\alpha$ is 2 raised to the power of the cardinality of $\alpha$:
 
-$$ \tag*{∗116·72} \lvert\lvert \wp \alpha \rvert\rvert = 2^{\lvert\lvert \alpha \rvert\rvert } $$ Greater and Less
+$$ \tag*{∗116·72} \lvert\lvert \wp \alpha \rvert\rvert = 2^{\lvert\lvert \alpha \rvert\rvert } $$
+
+##### Greater and Less
 
 Cantor’s Theorem:
 
@@ -735,7 +769,7 @@ $$ \tag*{∗117·661} 2^{y} > y $$
 
 This is Cantor’s theorem that the if a set $\alpha$ has a cardinal number *y* then the cardinal number $2^{y}$ of the powerset of $\alpha$ is greater than *y*.
 
-The Natural Numbers
+##### The Natural Numbers
 
 The most direct comparison with Frege’s development of the natural numbers comes with the notion of *inductive cardinal*, by which PM means the natural numbers 0, 1, 2,…, and the theory of these numbers including the principle of induction. Although the numbers 0 and 1, as well as addition of natural numbers $+_c$ , have been defined earlier, they are defined as cardinal numbers and addition will apply to all cardinal numbers, finite and transfinite. For the finite natural numbers, special notions need to be defined first. For the proof of the Peano postulates it is necessary not only to define 0, but also the notion of *successor*. For Frege the notion of (weak) predecessor of a number is defined, thus 0 and 1 are the predecessors of 1, while 0, 1 and 2 are the predecessors of 2, etc. The successor of *n* is then defined by counting the predecessors of *n*. This definition would not work for PM, where Frege’s successor of each number would be of a yet higher type. There will in fact be natural numbers for each type in PM, thus a set of all individuals of type 0, a set of sets of type 1, etc., for each type. There is no one type, however, at which there are all of the natural numbers (sets of equinumerous sets of that type) without an assumption that there are infinitely many members of some one type.
 
@@ -784,7 +818,7 @@ Frege also does not construct the general theory of the arithmetic of cardinal a
 
 Admittedly the system of PM would be an indirect and cumbersome system to develop if the theory of arithmetic were the only goal in mind. Firstly, however, the system of the ramified theory of types is independently interesting for the foundations of logic that it provides. After ∗20 the theory of classes, and the development of general notions of arithmetic for relations which follows, do present the arithmetic of the natural numbers as a special case which can be generalized to the arithmetic of ordinal and cardinal numbers, all in a logic with a simple hierarchy of types. The survey below of what follows in Volume II and Volume III shows the particular way of developing the theory of rational and then real numbers that PM follows. The results in set theory will seem primitive, as the results are dated to around 1908, at just the point when axiomatic set theory began its extraordinary development. Whitehead and Russell were not active contributors to set theory and so PM should not be studied for later technical results that may have been anticipated here. Russell summarized results in PM from the current state of the study of infinite cardinals and ordinals in a paper he give in Paris called “On the Axioms of the Infinite and Transfinite” (Russell 1911)[^russell-1911]. There is, however, one result concerning two notions of infinity that appears to originate with PM.
 
-Dedekind Infinity
+##### Dedekind Infinity
 
 In PM a class is a *finite* “inductive” class if and only if it can be put into a one-to-one correspondence with the natural numbers less than or equal to some natural number $n$. It will be *infinite* if and only if it is not inductive.
 
@@ -806,7 +840,7 @@ As use of the axiom of choice is explicitly indicated, and many results do not u
 
 *Relation arithmetic* is the study of the generalization of cardinal and ordinal numbers to classes of similar classes where similarity is based on an arbitrary relation. A relation *P* is similar to a relation *Q* if there is a one-to-one relation *S* (a *correlator*) relating the domain of *P* to the domain of *Q* so that if $x\relP y$ for some *x* and *y* then if $x\relS w$ and $w\relQ z$ then $z \relbS y$. The mapping *S* is an isomorphism between the relations *P* and *Q*. A *relation number* will then be a class of relations that are similar to each other. Relation arithmetic then generalizes the notions of cardinal arithmetic, such as sum and product, to arbitrary relation numbers. Russell himself expressed regret that the material in Part IV of PM was not more carefully studied by his contemporaries (Russell 1959: 86)[^russell-1959]. If a series $ \relP $ is well-ordered, then the class of relations ordinally similar to $ \relP $ will be an ordinal number. The sums of ordinal numbers are studied in Tarski 1956, but there has been little interest in the more general notion of relation arithmetic presented in these sections of PM. See Solomon 1989.
 
-Ordinal Similarity
+##### Ordinal Similarity
 
 - ∗151·01*P* and *Q* are *similar ordinally* $$ \eqdf \exists S [S: \Domain \; P \stackrel{1-1}{\longrightarrow} \Domain \; Q \amp P = S \circ Q \circ {\relbS} ] $$
 
@@ -860,11 +894,11 @@ $$ \tag*{∗184·42} ( x \dot{+} \rho) \dot{\times} y = (x \dot{\times} y) \dot{
 
 A *series* (*linear ordering*) is defined as a relation that is *irreflexive* $\forall x (\lnot x\relR x)$, *transitive* $\forall x \forall y \forall z (x\relR y \amp y\relR z \supset x\relR z)$, and *connected* $\forall x \forall y (x\relR y \lor y\relR x)$. (∗204·01) (These properties are restricted to a specific domain for each relation. Thus a connected relation will hold between any two members of a given domain.) This is now called a *linear ordering* of a given set.
 
-Sequents
+##### Sequents
 
 > Thus sequents of $\alpha$ are its immediate successors. If $\alpha$ has a maximum, the sequents are the immediate successors of the maximum; but if $\alpha$ has no maximum, there will be no one term of $\alpha$ which is immediately succeeded by a sequent of $\alpha$; in this case, if $\alpha$ has a single sequent, the sequent is the “upper limit” of $\alpha$. (PM Vol. II, “Summary of ∗205”, 1912: 577 or 1927: 559)
 
-Dedekindian Relations
+##### Dedekindian Relations
 
 > We call a relation “Dedekindian” when it is such that every class [bounded from above] has either a maximum or a sequent with respect to it. (PM Vol. II, “Summary of ∗214”, 1912: 684 or 1927: 659)
 
@@ -874,11 +908,11 @@ In other words, the relation $R$ such as $ \pmlt $ is *Dedekindian* when every c
 
 ### 6.1 Part V: Series (continued)
 
-Elementary Properties of Well-Ordered Series
+##### Elementary Properties of Well-Ordered Series
 
 At ∗250·51 we find a proof that the axiom of choice follows from the well-ordering principle, that is, that every set can be well-ordered.
 
-The Series of Ordinals
+##### The Series of Ordinals
 
 The “Burali-Forti” paradox is described in the Introduction to PM as one of the contradictions that can be resolved by the theory of types:
 
@@ -888,21 +922,21 @@ In ∗256 we find the resolution of the Burali-Forti contradiction in observing 
 
 Theorem ∗256·56 demonstrates that “in higher types there are greater ordinals than any to be found in lower types” (PM Vol. III, 1927: 75).
 
-Zermelo’s Theorem
+##### Zermelo’s Theorem
 
 - ∗258·326 Assuming the axiom of choice, every set can be well-ordered.
 
 This proof of Zermelo’s theorem follows Zermelo’s “new proof” (Zermelo 1908)[^zermelo-1908]. Together with ∗250·51 this shows that the axiom of choice is equivalent to the well-ordering principle.
 
-The Transfinite Ancestral Relation
+##### The Transfinite Ancestral Relation
 
 The discussion of “transfinitely hereditary” properties in ∗257 constitutes the discussion of “transfinite induction” that Russell pointed out to Reichenbach in the discussion reported above from Russell 1959: 86.
 
-Finite Ordinals
+##### Finite Ordinals
 
 It is shown in ∗262 that every infinite well-ordered series consists of a series (well-ordered set) of progressions. ($\omega$ orderings.)
 
-The Series of Alephs
+##### The Series of Alephs
 
 A result of Hausdorff (1906), that $\omega_1$, the first uncountable ordinal, is not the limit of a progression of smaller ordinals, is shown to follow if one assumes the axiom of choice (∗265·49). It is then conjectured that this cannot be shown without relying on the axiom of choice. See Grattan-Guinness 2000: 403 for a discussion of Hausdorff’s influence on the content of PM.
 
@@ -914,7 +948,9 @@ The later portions of PM should thus be studied for a hint of how the real numbe
 
 In ∗300–∗314, positive and negative integers, ratios and real numbers are all defined. The goal of the section is to begin the study of how these numbers are used in the measurement of quantities in geometry and physics.
 
-Ratios $$ R n/m S \eqdf \forall x \forall y ( x\rels{R^n} y \supset x\rels{S^m}y) $$
+##### Ratios
+
+$$ R n/m S \eqdf \forall x \forall y ( x\rels{R^n} y \supset x\rels{S^m}y) $$
 
 for *n*, *m* relatively prime.
 
@@ -924,7 +960,7 @@ $$\forall j \forall k \forall l [(n = j \times l \amp m = k \times l )\supset l 
 
 *Ratios* thus are relations between relations. *Rational numbers*, in keeping with the generalized notions of all numbers in PM, will be classes of similar ratios, and thus the work of developing the theory of rational, and then real numbers, is carried out in terms of ratios and relations between ratios.
 
-Real Numbers
+##### Real Numbers
 
 The real numbers $\Theta$ are defined as “the series of segments of the series of ratios”, or the set of Dedekind cuts of the sequence of rational numbers, in their standard ordering. Technically $\Theta$ is a relation in extension. The individuals that are related in the ratios, and thus at the basis of the series of rational numbers, must be infinite in number for the PM version of the real numbers to have the structure we expect. In the introductory material to the section Whitehead and Russell point out that while the construction of the reals thus requires the axiom of infinity, they add it the axiom as an assumption to the theorems where needed and try as much as possible to derive results upon which do not rely on it.
 

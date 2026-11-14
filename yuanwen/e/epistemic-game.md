@@ -425,7 +425,7 @@ $$ \lambda_i:T_i\rightarrow \Delta(\times_{j\ne i} T_j\times S_{-i}). $$
 
 Types and their associated image under $\lambda_i$ encode the players’ hierarchies of beliefs. For instance, if $t\in T_i$, then $\lambda_i(t)$ is a probability on $T_{-i}\times S_{-i}$, and so $\textrm{marg}_{S_{-i}}\lambda_i(t)\in \Delta(S_{-i})$ is $i$’s first-order belief. For a type $t\in T_i$, let $p^1_t$ denote the first-order belief for player $i$ associated with $t$ (i.e., $p^1_t = \textrm{marg}_{S_{-i}} \lambda_i(t)$). We illustrate how to define higher-order beliefs with an example.
 
-Example 2.8
+##### Example 2.8
 
 Returning again to our running example games where Ann (*a*) has two available actions $\{u,d\}$ and Bob (*b*) has two available actions $\{l,r\}$. Suppose that there is one type for Ann $T_a=\{t_1\}$ and two types for Bob $T_b=\{t_1', t'_2\}$ with the definition of $\lambda_a$ and $\lambda_b$ given in the following matrices:
 
@@ -891,7 +891,7 @@ Note player $i$ is substantively rational at state $w$ when $i$ is rational at *
 
 There is a longstanding debate on whether common knowledge of rationality implies that the players will play their component of the subgame perfect equilibrium in extensive form games with perfect information. In this section, we start with arguments that question whether common knowledge of rationality is sufficient for the players to choose their components of a subgame preference equilibrium. We then turn to the view that common knowledge of rationality, or more precisely common knowledge of *future* rationality, entails that players will choose their component of the subgame perfect equilibrium in perfect information games. These apparently contradictory views rest on different assumptions regarding how the players change their mind upon observing deviations from the subgame perfect equilibrium path.
 
-Common Knowledge of Rationality is Not Sufficient for the Subgame Perfect Equilibrium
+##### Common Knowledge of Rationality is Not Sufficient for the Subgame Perfect Equilibrium
 
 Arguments against the sufficiency of common knowledge of rationality for the subgame perfect equilibrium in perfect information games can be divided in two broad groups. The first group argues that common knowledge of rationality is *incoherent* at nodes that are not on the subgame perfect equilibrium path. The second group defends the view that although common knowledge of rationality is coherent even at nodes not on the subgame perfect equilibrium path, it is also consistent with profiles of strategies that do not form a subgame prefect equilibrium.
 
@@ -940,7 +940,7 @@ There is a unique function $f$ satisfying the above three postulates for the mod
 
 This example is representative of many arguments showing that common knowledge of rationality is not sufficient for the players to choose their components of the subgame prefect equilibrium. The key aspect of these arguments involve explicitly modeling how deviations from the subgame perfect equilibrium path might trigger belief changes. Note, however, that these arguments do not necessarily rule out that common knowledge of rationality can entail that the subgame perfect equilibrium *path* will be played, as opposed to players adopting the complete subgame perfect equilibrium strategies (see, for example, Bonanno 1991 and Aumann 1998)[^aumann-1998][^bonanno-1991]. Furthermore, strengthening the rationality constraints that are imposed on the belief revision policies for the players can lead the players to adopt the complete subgame perfect equilibrium strategies (Rich 2015)[^rich-2015].
 
-Common Knowledge of Rationality is Sufficient for the Subgame Perfect Equilibrium
+##### Common Knowledge of Rationality is Sufficient for the Subgame Perfect Equilibrium
 
 The primary argument that players choose their component of the subgame perfect equilibrium in a perfect information games is based on the idea of common knowledge of both current and *future* rationality. For brevity, we will refer to this as “common knowledge of future rationality”. This concept implies players act as if any node they reach is the start of a new game, disregarding what must have happened to arrive at that node. A different approach to argue for the subgame perfect equilibrium *path*, but not the full profile, uses the notion of extensive form rationalizability, a type of forward induction reasoning, discussed briefly in Section 3.4.
 

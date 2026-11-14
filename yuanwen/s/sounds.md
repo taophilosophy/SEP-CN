@@ -186,7 +186,7 @@ Another feature of the Located Event Theory is that it provides us with a clear 
 
 We shall now briefly discuss some objections to the identification proposed by the Located Event Theory, as they allow us to highlight certain metaphysically interesting features of sounds.
 
-Imprecise Location and Echoes
+##### Imprecise Location and Echoes
 
 The first objection concerns sound location. Even if sounds are heard as located, it could be held that location is often imprecise or even erroneous, this in turn depending on—and being explained by—the nature of sound waves. Here is a relatively common echo example. Suppose you walk under the rain, your umbrella open. At some point you enter a building with a glass roof. Rain drops on the roof, and no longer on your umbrella. The umbrella attenuates the noise from the roof, which is reflected by the ground. You hear the raindrops as if they were below you, and not above you. Erroneous location is here explained by the path of sound waves.
 
@@ -200,13 +200,13 @@ The mirror sophism should be credited to Hobbes’ *Leviathan* (1651: I, I; cf. 
 
 The deviant paths of sound waves (in echoes) is responsible for the perceptual difficulty in locating sounds, much as the deviant path of light rays (in mirrors) is responsible for the analogous difficulty for visible objects (Casati & Dokic 1994; see also O’Callaghan 2007 for a lengthy discussion of echoes, and Fowler 2013 for arguments against O’Callaghan’s view)[^casati-1994][^fowler-2013][^o’callaghan-2007]. But it is not the case that sound waves are sounds just because of their responsibility. From the fact that a subject hears something as imperfectly located, it does not follow that she hears something which is imperfectly located.
 
-Doppler Effect
+##### Doppler Effect
 
 The second objection concerns typical acoustical effects, like the Doppler effect, which are perfectly accounted for by appealing to (medial) sound waves. The Doppler effect is a shift in frequency of the sound heard by an observer who moves relative to the sound source. As waves in the direction of movement are compressed, and waves in the opposite direction are expanded, the frequency drops dramatically when the hearer and the source go past each other. Such explanations of the Doppler effect are harmless for a distal account. The Doppler effect is dependent on something going on in the medium, but this should not allow one to conclude that what we hear are sound waves in the medium. The situation can be described as follows in a way that is relatively uncommitting: When we hear sounds as undergoing the Doppler effect, we do not hear anything different from a vibration process in a sounding object, a process which is heard in a sort of perspectival shortening because the movement of the sounding object causes, among other things, the Doppler effect.
 
 As a matter of fact, the objection could be turned on its head. On a train passing by, a trumpet player is delivering a concert. According to the distal view, the melody does not change, it is just perceived as changing. If we repeated the experience a number of times, we would find it suspect that the melody’s key drops only when the train passes by. Surely, we would infer, there is something wrong with the medium that blocks our perception of the true melody. And surely the train passengers would disconfirm our impression: they do not hear any key drop. The medial theory here indeed predicts that there are two melodies, the one that we hear from the platform, and the one the passengers hear.
 
-Properties of Sounds
+##### Properties of Sounds
 
 A third objection is as follows.
 
@@ -214,7 +214,7 @@ A third objection is as follows.
 
 This can be answered in the following way. Notice first that sound waves fare no better on this objection—they cannot literally be said to be high or low. But a more substantial answer is available. What one needs is a way of systematically correlating predicates like “…is high”, “…is higher than…” to processes in sounding objects. It is likely that a high sound corresponds to a quickly vibrating process, and so forth.
 
-The Causal Link
+##### The Causal Link
 
 A fourth objection has it that
 
@@ -224,7 +224,7 @@ And such sound waves can certainly be measured and physically described. Now the
 
 Consider an analogy we discussed before. Light is causally responsible for your perception of an object’s surface. But this does not make you see the light when you see the surface. We can see luminescent sources, but never light in itself: in order to be seen, light should have to emit light carrying information about it.
 
-Space Filling Sounds?
+##### Space Filling Sounds?
 
 Finally, another objection concerns the alleged meaningful use of expressions such “the sound fills the room”, “sounds fill the room”. It seems that what makes these sentences true is best found in the spreading of sound waves, which could actually be everywhere in the room. But one should not be too much impressed by idioms. “The sound fills the room” does not describe any phenomenological fact which is different from the fact that the sound is audible from any place in the room (in this respect sounds are unlike fog, which can literally be seen to fill a room).
 
@@ -244,7 +244,7 @@ An advantage of the Relational Event Theory over the Located Event Theory is tha
 
 #### 3.2.4 Discussing the located event theory and the relational event theory
 
-Relation between sound and sound source
+##### Relation between sound and sound source
 
 The Relational Event Theory and the Located Event Theory differ concerning the way in which they account for the audible relationship between sound and sound source. A manner of characterizing this relation within the Relational Event Theory is the part-whole relationship, according to which sounds are heard as the constituent parts of wholes that are everyday audible events (O’Callaghan 2011a, 2011b)[^o’callaghan-2011a][^o’callaghan-2011b]. This is a Mereological View, which presupposes a distinction between sound and the broad event which sound is part of. The parthood relationship explains a striking and quite ambiguous aspect of audition, namely, the fact for which we hear the sound and its source as two different events but, at the same time, we hear them as not *wholly* distinct.
 
@@ -268,7 +268,7 @@ Different options concerning the relationship between sound and sound sources an
 
 Nevertheless, issues about the relationship between sound and the thing source (namely, sound and the material object which produces it) and about how we hear both the objects that produce sounds, and the relation between objects and sounds still have to be fully worked out within both views. As a starting point to develop an account on the perception of sound sources or, at least, of some aspects of the thing source, Di Bona (2017) proposes an argument for the perception of a specific characteristic of human voices. She offers an account of how a certain feature of the sound source when the source is the human voice is perceivable. Di Bona focuses on gender and engages with the debate on the admissible content of auditory experience, which has been mostly developed within the field of visual perception, and argues for a “rich” view of the auditory experience. This view is defended by means of the method of contrast applied to a case of auditory adaptation to human voices. The idea is that we hear not only the low-level auditory properties of pitch, timbre, and loudness but also the high-level property of gender, that is, the property commonly referred to as being a female voice or a male voice. This high-level property displays adaptational effects and, given that displaying these effects for a property is a clear mark that this property is perceivable, then we can conclude we *hear* gender properties instantiated by human voices. O’Callaghan (2011b) also engages with the debate on the admissible content of auditory perception, endorsing a more restricted view on the content of audition. He focuses on speech perception and argues that we do not hear the semantic properties of voices (which can also be seen as properties of sound sources, of voices) since what is auditory perceivable are, instead, the phonological properties.
 
-Some objections to both event theories
+##### Some objections to both event theories
 
 Soteriou (2018) claims that both versions of the event theory are too strict about what they count as sounds: the Located Event Theory counts as sounds only monadic events happening at material objects; the Relational Event Theory, instead, admits only relational events that are bearers of acoustic properties. Soteriou challenges the assumption that sounds are one kind of thing and suggests that the sounds we hear are both *pure audibilia* (such as the barking of a dog), which are events or act-types bearing acoustic properties that can also be disconnected from their material causes and cannot exist in a vacuum, and events or act-types that can lack acoustic properties (footsteps), which are perceivable by means of modalities that are different from audition, and can exist in a vacuum. Soteriou’s “simple view” or “catholic view” (2018: 48) moves from the necessity of rejecting the idea of considering the experiences of echoes and recorded sounds as illusory experiences or distortion of space and time, which is how he thinks both event theories regard them in order to be consistent. The event theories classify the experiences of echoes and recorded sounds as illusory for the sake of preserving the idea that, usually, sounds are the bearers of acoustic properties located where we experience them to be located, namely distally. That is because if sound is something located at its own source and the echo seems to be a sound not perceived at its source, then we are hallucinating a sound. When hearing recorded sound, we experience and illusion since the bearer of the acoustic properties that we actually hear to be distally located is distinct from the “original” bearer of acoustic properties (2018: 44). Soteriou suggests that when hearing echoes or recorded sounds, even though we do not hear event-like individuals distally located, we do not have an illusory experience since what we hear are *pure audibilia*. Soteriou’s proposal has the merit of broadening up the range of the audible, but it might encounter some worries because of the non-univocal characterization of what sounds are. For example, a challenge to this view is to explain, on the one hand, how pure *audibila* are connected to the physical causes and, on the other hand, how collisions or non-audible act-types “acquire” acoustic properties that make them audible.
 

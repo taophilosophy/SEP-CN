@@ -199,6 +199,16 @@ class TestMathFidelity(unittest.TestCase):
         self.assertEqual(text.count('Figure 1.'), 1, text)
         self.assertLess(text.index('Theory A'), text.index('Figure 1.'))
 
+    def test_h5_heading_rendered(self):
+        # 2026-11-14 全量回归（缺陷七）：BLOCK_OPEN_RE 与渲染分支都不认 h5，
+        # SEP 用 <h5> 标末级小节（object 的「束理论」「裸殊相论」等 331 处），
+        # 旧式整行落入正文成裸段落。
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw('<h4>2.1 x</h4><p>body</p>'
+                                         '<h5>Bundle theory</h5><p>y</p>'), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('##### Bundle theory', text)
+
     def test_nested_table_cells_not_lost(self):
         # 嵌套表：非贪婪 td 匹配曾被内层 </td> 截断，外层单元格内容丢失
         html = ('<table><tr><td>outer</td>'

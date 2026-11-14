@@ -157,6 +157,16 @@ While Voltaire’s attacks on Maupertuis crossed the line into *ad hominem*, at 
 
 #### Collections of Writings
 
+##### Theater
+
+##### History
+
+##### Essays, Letters, and Stories
+
+##### Politics
+
+##### Editions of Major Individual Works
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -207,13 +217,9 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 
 [^voltaire-1989]: *Voltaire: Selections*, Paul Edwards (ed.), New York: Macmillan, 1989.
 
-[^theater-nd]: Theater
-
 [^translations-1901]: Translations of Voltaire’s major plays are found in: *The Works of Voltaire: A Contemporary Version*, William F. Fleming (ed. and tr.), New York: E.R. Du Mont, 1901. [Complete edition available at the [Online Library of Liberty](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php&title=351)]
 
 [^seven-1737]: *Seven Plays (Mérope (1737), Olympia (1761), Alzire (1734), Orestes (1749), Oedipus (1718), Zaire, Caesar)*, William Fleming (tr.), New York: Howard Fertig, 1988.
-
-[^history-nd]: History
 
 [^age-1733]: *The Age of Louis XIV (1733) and other Selected Writings*, J.H. Brumfitt (ed.), New York: Twayne, 1963.
 
@@ -224,8 +230,6 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 [^history-1727-2]: *History of Charles XII, King of Sweden (1727)*, Antonia White and Ragnhild Marie Hatton (eds.), New York: Barnes & Noble Books, 1993.
 
 [^philosophy-1764]: *The Philosophy of History (1764)*, New York: The Philosophical Library, 1965.
-
-[^essays-nd]: Essays, Letters, and Stories
 
 [^complete-1990]: *The Complete Tales of Voltaire*, William Walton (tr.), 3 vols., New York: Howard Fertig, 1990.
 
@@ -257,8 +261,6 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 
 [^zadig-1757-3]: *Zadig, or The Book of Fate an Oriental History (1757)*, Woodbridge, CT: Research Publications, 1982.
 
-[^politics-nd]: Politics
-
 [^calas-1762]: *The Calas Affair: A Treatise on Tolerance (1762)*, Brian Masters (ed.), London: The Folio Society, 1994.
 
 [^sermon-1759]: *The Sermon of the Fifty (1759)*, J.A.R. Séguin (ed.), Jersey City, NJ: R. Paxton, 1963.
@@ -268,8 +270,6 @@ Châtelet, Émilie du | Clarke, Samuel | Descartes, René | hedonism | Hume, Dav
 [^treatise-1994-2]: *A Treatise on Tolerance and other Writings*, edited by Brian Masters, Cambridge and New York: Cambridge University Press, 1994
 
 [^voltaire-1994]: *Voltaire. Political Writings*, edited by David Williams, Cambridge and New York: Cambridge University Press, 1994
-
-[^editions-nd]: Editions of Major Individual Works
 
 [^elements-1738]: *The Elements of Sir Isaac Newton’s Philosophy* (1738; 2nd expanded edition, 1745)
 

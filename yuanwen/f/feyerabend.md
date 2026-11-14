@@ -403,6 +403,10 @@ Different components and phases of Feyerabend’s work have influenced very diff
 
 #### Works by Paul Feyerabend
 
+##### Books
+
+##### Papers and Shorter Works
+
 #### Audio and Video Recordings
 
 ### Secondary Sources
@@ -424,36 +428,6 @@ Different components and phases of Feyerabend’s work have influenced very diff
 ## Related Entries
 
 anarchism | Anscombe, Gertrude Elizabeth Margaret | Carnap, Rudolf | empiricism: logical | essential vs. accidental properties | Feigl, Herbert | Frege, Gottlob | Galileo Galilei | incommensurability: of scientific theories | Kuhn, Thomas | Lakatos, Imre | liberalism | logic: inductive | Mach, Ernst | Marxism, analytical | materialism: eliminative | meaning, theories of | Mill, John Stuart | Nietzsche, Friedrich | physics: intertheory relations in | Popper, Karl | postmodernism | *Principia Mathematica* | quantum mechanics | quantum mechanics: Copenhagen interpretation of | rationalism vs. empiricism | rationality: historicist theories of | realism | reduction, scientific | relativism | science: theory and observation in | science: unity of | scientific method | scientific objectivity | scientific pluralism | scientific realism | scientific revolutions | Vienna Circle | Wittgenstein, Ludwig
-
-[^books-nd]: Books
-
-[^books-1975]: 1975, *Against Method: Outline of an Anarchistic Theory of Knowledge*, London: New Left Books. Second revised and enlarged edition 1988. Third revised and enlarged edition 1993.
-
-[^books-1978]: 1978, *Science in a Free Society*, New Left Books: London.
-
-[^books-1981]: 1981, *Realism, Rationalism and Scientific Method: Philosophical Papers, Volume 1*, Cambridge: Cambridge University Press.
-
-[^books-1981-2]: 1981, *Problems of Empiricism*. *Philosophical Papers, Volume 2*, Cambridge: Cambridge University Press.
-
-[^books-1984]: 1984, *Wissenschaft als Kunst* [*Science as An Art*], Frankfurt am Main: Suhrkamp Verlag.
-
-[^books-1987]: 1987, *Farewell to Reason*, London: New Left Books.
-
-[^books-1991]: 1991, *Three Dialogues on Knowledge*, Oxford: Basil Blackwell.
-
-[^books-1995]: 1995, *Killing Time: The Autobiography of Paul Feyerabend*, Chicago: University of Chicago Press.
-
-[^books-1999]: 1999, *Conquest of Abundance: A Tale of Abstraction Versus the Richness of Being*, B. Terpstra (ed.), Chicago: University of Chicago Press.
-
-[^books-1999-2]: 1999, *Knowledge, Science and Relativism*. *Philosophical Papers, Volume 3*, edited J. Preston (ed.), Cambridge: Cambridge University Press.
-
-[^books-2009]: 2009, *Naturphilosophie*, H. Heit & E. Oberheim (eds.), Frankfurt am Main: Suhrkamp Verlag, 2009. English Translation, 2016, *The* *Philosophy of Nature*, H. Heit & E. Oberheim (eds.), New Jersey: Wiley-Blackwell.
-
-[^books-2011]: 2011, *The Tyranny of Science*, E. Oberheim (ed.), Cambridge: Polity Press.
-
-[^books-2016]: 2016, *Physics and Philosophy*. *Philosophical Papers, Volume 4*, S. Gattei & J. Agassi (eds.), Cambridge: Cambridge University Press.
-
-[^papers-nd]: Papers and Shorter Works
 
 [^feyerabend-1955]: Feyerabend, P., 1955, Review of Wittgenstein 1953, *The Philosophical Review,* 64: 449–483.
 

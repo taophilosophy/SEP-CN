@@ -882,7 +882,7 @@ $\Box\psi$ follows from $\psi,$ so long as $\psi$ is provable without any instan
 
 Given **E!**_{*A*} and a bit of propositional logic, all instances of **Q2** follow immediately from **FQ2**, and all instances of **Id1** follow from **FQ2** and $\boldsymbol{\forall}$**Id1**.[^note-91] But, because of the restriction in **Nec***, their necessitations do not.
 
-Perspectivalism and *De Re* Modality
+##### Perspectivalism and *De Re* Modality
 
 As we’ve seen, Adams’ notion of truth at a world promises to restore at least some of what was arguably lost in Prior’s $Q$, notably the logical equivalence between necessary truth and impossible falsehood:
 
@@ -916,7 +916,7 @@ $\sfE!\varphi \to (\Box\varphi \leftrightarrow \neg\Diamond\neg\varphi)$
 
 Much like the instances of **Q2**, then, because $\sfE!\tau$ is an axiom of *A* for any term $\tau,$ singular instances of $\Box\Diamond$ fall out as contingent theorems of *A*. By the observation above, wholly general instances of $\Box\Diamond_A$ are simply instances of $\Box\Diamond$ and, hence, their necessitations are provable.
 
-Implications for Necessitation, **4**, **B**, and **5**
+##### Implications for Necessitation, **4**, **B**, and **5**
 
 **MSA**’s impact reverberates throughout the modal propositional base of Adams’ logic. Recall that the truth-in/truth-at distinction appeared to have restored the necessity of singular logical truths like *Prior, if a logician, is a logician*, $\sfL\sfp \to \sfL\sfp$. The addition of **MSA**, however, leads quickly to necessitism, as it becomes possible to reason to Prior’s existence, $\sfE!\sfp,$ without any instances of **E!**_{*A*}:
 

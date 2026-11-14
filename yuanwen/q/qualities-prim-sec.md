@@ -91,11 +91,11 @@ Descartes repeatedly says we mistakenly suppose the things represented by ideas 
 - Colors, etc. are non-intentional sensations;
 - Ideas of color, etc. are intentional but confused or obscure.
 
-SQs are non-intentional sensations
+##### SQs are non-intentional sensations
 
 Several scholars urge that in Descartes’ considered opinion, SQs are sensations without representative content (M. Wilson 1978: 114–16; Vinci 1998: 196–98, 199–200; MacKenzie 1990)[^mackenzie-1990][^vinci-1998][^wilson-1978]. This is based on *Principles* 1.68 and 70, which say that colors, etc, are clearly known when they are regarded merely as sensations and we make no error if we judge there is something in bodies whose nature we do not know which causes the sensations in us. But these texts would mark a change of mind if they implied these ideas represent nothing but what we clearly know. The scholars mentioned in the next section are among those who are not persuaded that Descartes abandons the view of ideas of SQs in *Meditation* 3 and the exchange with Arnauld.
 
-Ideas of SQs are intentional and confused
+##### Ideas of SQs are intentional and confused
 
 There are two things advocates of this view have to explain: what the intentional objects of these ideas are and what is the source of the confusion that stops short of misrepresentation. The literature offers several carefully developed accounts but brief descriptions will have to suffice here.
 
@@ -269,7 +269,7 @@ Locke’s RT has spawned confusion on at least two points of doctrine:
 - How resemblance between an idea of sensation and a quality existing in actual things is to be understood;
 - Why RT is important, or what Locke intends to convey by asserting it.
 
-How is “resemblance” to be understood?
+##### How is “resemblance” to be understood?
 
 Ayers (2011: 151–57) observes that Locke has more than one account of what ideas are. According to a Cartesian view, ideas are intentional mental acts by which their objects are presented and represented to the mind (e.g., *Essay* 1.1.8; 4.1.2)). On this view, it is not difficult to understand what it is for an idea to resemble, or not to resemble, its object: it presents the object as having a feature that resembles (does not resemble) a feature the object has. But *Essay* 2.8 introduces a different notion of ideas: simple ideas of sensation are effects of the operations of bodies on our sensory organs. They are non-intentional sensations akin to raw pains. They acquire a representative function in virtue of their contingent causal connections to the constitutions of bodies around us. In Ayer’s view, this makes the claim that ideas of PQs resemble qualities existing in bodies “problematic, if not absurd” (Ayers 2011: 154)[^ayers-2011]. Here it seems “resembles” must mean “shares a property with”, not “depicts a thing as having a property it has”. Problems with the former include that essentially mind-dependent ideas cannot be like anything that can exist without a mind, as Berkeley says. Also, how can we know what the qualities of bodies are like in themselves given that we know the qualities only by means of the ideas they cause in us? Also, it is difficult to understand how an idea can share with a body the quality being 10 feet long, or moving away from the perceiver at 20 miles per hour, or being solid, and so on. Most scholars are resigned to saying or tacitly allowing that if simple ideas are taken to be non-intentional qualia, the positive resemblance thesis is deeply problematic.
 
@@ -278,7 +278,7 @@ But Jacovides (1999), undertakes to defend the literal interpretation of the pos
 - Locke appears to assert that all ideas of PQs—tactual as well as visual—resemble qualities of their causes and
 - on this interpretation, the resemblance might be far from exact; but the texts speak of “perfect resemblances” and mirror images (E 2.8.16).
 
-Why does Locke want to establish RT?
+##### Why does Locke want to establish RT?
 
 More central to Locke’s distinction of P/SQs is the question why idea-quality resemblance and non-resemblance are important in Locke’s view. RT is said to be a consequence of the argument that establishes the P/SQ distinction in *Essay* 2.8–14—what does the further thesis do for Locke? In sections 16–19, the resemblance/non resemblance dichotomy and the real/imputed quality dichotomies coincide (Rickless 2014: 88–90)[^rickless-2014]. E. J. Lowe (2005: 51–2) suggests that in denying resemblance in the case of ideas of SQs, Locke “expresses the view that the ideas mislead us into taking a dispositional property to be a real non-dispositional quality”. But although we do commonly make this mistake according to Locke, the fault is not with what ideas represent but our tendency to conflate ideas and qualities.
 

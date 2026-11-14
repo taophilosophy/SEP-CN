@@ -28,7 +28,7 @@ The examination of “reliable cognition” (*tshad ma*) is the core subject of 
 
 #### 2.1.1 Ontological framework
 
-a. The scope of reality
+##### a. The scope of reality
 
 Tibetan epistemologists are primarily Buddhist thinkers who follow the Madhyamaka views. A pertinent question for them is whether reliable cognitions bear on objects pertaining to conventional reality and/or ultimate reality. While some authors seek to include knowledge of the ultimate within the scope of reliable cognitions, the view of the majority is that reliable cognitions concern the conventional realm. A further debate is about whether reliable cognitions should be limited to what, in the conventional realm, is held to be real. The definition of an ontological position in epistemological works thus concerns the Madhyamaka conventional reality; the ultimate is beyond the reach of reasoning. What Indian Buddhist epistemologists categorized as “ultimate” and “conventional” is transposed into the Madhyamaka framework of the Two Truths under the categories of “correct conventional” (*yang dag paʼi kun rdzob*) and “incorrect conventional” (*log paʼi kun rdzob*), with varying repartitions of objects between the two according to the ontological model that is adopted.
 
@@ -36,7 +36,7 @@ Tibetan authors define their own position—in some cases a provisional one adop
 
 Early treatises attest to various choices among these models. For instance, Chapa refutes the idealist and the Sautrāntika external-realist models and settles for a Vaibhāṣika-like position, whereas Chumikpa Senggépel (*Chu mig pa Seng ge dpal*, 13ᵗʰ c.) opts for an idealist framework. Sakya Pandita’s position, shared by Gelukpa authors, is to arrange these positions along a gradual ascending scale; the lowest, the Vaibhāṣika model is refuted in favor of the adoption of the Sautrāntika model, which is itself replaced by an idealist one on a higher scale of analysis.
 
-b. The extension of the real
+##### b. The extension of the real
 
 While real particulars (what Dharmakīrti calls “*svalakṣaṇa*”), characterized by their capacity to bring about an effect, are allotted conventional existence (extra-mental or exclusively mental, according to the model adopted), Tibetan scholars are divided as to the spatial and temporal extensions of such particulars.
 
@@ -57,7 +57,7 @@ Objects (Tib. *yul*) are primarily considered as cognitive objects, in relation 
 
 While the terminology, which reflects different kinds of mental operations, is shared among Tibetan epistemologists, they disagree as to the definition of each sort and as to the equivalence of some of them, in particular of the appearing object and the apprehended object.
 
-a. The appearing and apprehended objects
+##### a. The appearing and apprehended objects
 
 Regarding the appearing object and the apprehended object, a major cause of dissension lies in the model adopted to account for the process of a cognition of an object. Two options are in competition in the external-realist model: (i) direct realism (associated with the Vaibhāṣika model) advocates a direct contact with reality; in this model the object and its cognition exist simultaneously, albeit distinctly; (ii) a causal theory (associated with the Sautrāntika model) according to which an object acts as a cause for the emergence of its cognition but, being momentary, has ceased to exist once this cognition arises.
 
@@ -91,11 +91,11 @@ Adherents of the direct realist model are thus criticized by those of the causat
 
 Although later Gelukpa authors, who take causality and the time-gap problem it involves seriously, adopt the causation model, they mostly preserve Chapa’s typology, together with the identification of apprehended object and appearing object. This leaves them in a difficult situation as they adopt a typology of objects that precisely avoids a model in which the object grasped by cognition would be different from the object that appears to it. Their solution is to invoke the notion of “aspect”: a cognition caused by an object takes a form similar to its cause. This aspectualism differs from a representationalist view in that it does not involve, strictly speaking, a representation which would stand as a curtain between cognition and the object. Cognition still cognizes its object directly by taking its aspect.
 
-b. The intentional object
+##### b. The intentional object
 
 While “appearance” is passive, the “intentional object” is associated with an intentional operation of determination (*zhen pa*) that involves the (involuntary) blurring of the distinction between the mental appearance and an extra-mental particular by way of an unconscious error inherent to the thought process of ordinary beings. Such operation is restricted to conceptual cognitions, and is what allows action based on concepts, insofar as via intentional determination the concept is conceived as having the nature of something external.
 
-c. The engaged object
+##### c. The engaged object
 
 The “engaged object” is usually identified with the object of reliable cognition, and hence understood differently according to the definition of reliable cognition adopted by each author. In some versions, the “engaged object” stands out as a real, extra-mental particular considered to be the object that is likely to be acted upon at the outcome of a reliable cognition (for instance, a fire when perceiving a fire or when inferring that there is a fire on a mountain pass as one perceives smoke on a mountain pass). According to other authors, such as Chapa, the engaged object is the “object with regard to which opposite superimpositions have been eliminated,” without reference to any transactional “application.”
 
@@ -113,21 +113,21 @@ More fundamental in view of the focus of epistemological works is the distinctio
 
 Following Dharmakīrti, Tibetan epistemologists restrict the number of reliable cognitions to two sorts: perception and inference. The first is defined as “non-erroneous and devoid of conceptualization,” the second as the “understanding coming from a triply characterized logical reason.” Both share the status of being “reliable cognitions” (*tshad ma*), a status that Dharmakīrti associatedin his *Pramāṇavārttika* with the characteristics of being (1) “non-belying” and (2) “revealing an unknown object.” In addition to a prolongation of the commentarial dispute on the verses in which these characteristics are given, a notable confrontation is found in the Tibetan tradition between two models that can be distinguished in view of the understanding of perception that they entail: (a) a model in which perception retains a passive status insofar as, being devoid of conceptualization, it cannot itself achieve a determination of its object, and (b) a model that seeks to give a more active role to perception without however stepping back on its characterization as “non-conceptual.” Two versions of the “active perception” model are found: an “indirectly active perception” model and an innovative “directly active perception” model.
 
-a. The “passive perception” model
+##### a. The “passive perception” model
 
 The “passive perception” model can also be termed the “classic” model in that it claims to offer a more literal reading of Dharmakīrti. This model, adopted for instance by Sakya Pandita, takes “non-belying,” combined with “novelty,” as definiens of reliable cognition. Without giving a pragmatic view of reliability, this model involves the capacity to fulfill a goal, or to have some causal efficacy, as a criterion for the non-belying character of cognition. Although being non-belying and novel is sufficient to qualify as reliable, in a transactional context, conventional reliable cognitions are expected to lead to an ascertainment (*nges pa*). While inference ascertains its object by itself, perception is unable to do so, because ascertainment—a conceptual operation, equivalent to the elimination of opposite superimpositions—is incompatible with its being “devoid of conceptualization.” Such an ascertainment, should it occur (this requires a number of circumstantial elements), must be performed by a conceptual cognition that follows perception. In other words, perception is reliable in itself, but has to rely on a subsequent conceptual mental episode for ascertainment. This “two-tier” way of accounting for both reliability and determination keeps a strict division as to the role and capacity of non-conceptual and conceptual cognitions, which Sakya Pandita compares respectively by way of illustration to “a seeing mute” and “a speaking blind.” Should a subsequent ascertainment not arise immediately (due to the nature of the object, competence and mindfulness of the cognizer, visibility, etc.), the preceding episode of perception still qualifies a a reliable cognition, but its reliability has to be ascertained extrinsically.
 
-b. The “active perception” model
+##### b. The “active perception” model
 
 Some interpreters, already in India, were dissatisfied with this “passive” status of perception. Tibetan epistemologists in the pre-classical period similarly argued in favor of a more active role for perception for it to qualify as a reliable cognition.
 
-b1. The “indirectly active perception” model
+###### b1. The “indirectly active perception” model
 
 One version of the “active perception” model was upheld by Ngok Loden Shérap, who included in his understanding of reliable cognition the requirement of a conceptual determination, while upholding the classical tenet that perception itself cannot conceptually determine its object. The model of reliable perception he proposes is thus indirectly active. It follows the two-tier way of accounting for determination in the “passive perception” model, but sets determination as a necessary condition for reliability.
 
 An important consequence of this move is that it implies a distinction between perceptual cognitions that are reliable in this sense and perceptual cognitions that are not. Perceptual episodes that are such that no subsequent determining cognition immediately arises, which, in the passive model, were considered reliable cognitions whose reliability nevertheless had to be ascertained extrinsically, fail here to qualify as reliable cognition. A further consequence is that this model leaves room for mental episodes that are both reliable and non-reliable. For instance, the perception of an impermanent patch of blue, which is followed by the determination “blue” but not by the determination “impermanent,” is only partially reliable.
 
-b2. The “directly active perception” model
+###### b2. The “directly active perception” model
 
 The “directly active perception” model, which was propounded by Chapa, brings revolutionary changes, first by introducing in the definition of reliable cognition the notion of “elimination of opposite superimpositions,” then by claiming that perception itself (not a subsequent conceptual cognition) performs such a function.
 
@@ -153,7 +153,7 @@ As hinted at in the last discussion, the fundamental disagreement between advoca
 
 #### 2.2.2. Non-reliable cognitions
 
-a. Fivefold typology
+##### a. Fivefold typology
 
 By embedding the discussion of reliable cognition within a general examination of mental episodes, Tibetan epistemologists were led to develop a typology of non-reliable cognitions. A fivefold typology is shared by the majority of scholars in the pre-classical period and is mostly adopted in later Gelukpa textbooks. Thinkers who adopt it frequently disagree, however, about the phrasing of the definition of each type and the specific cases they cover or not.
 
@@ -163,7 +163,7 @@ By embedding the discussion of reliable cognition within a general examination o
 4. Mistaken cognition (*log shes*). A cognition can be mistaken from the point of view of its apprehended object or of its intentional object. In both cases, the error consists in not apprehending—respectively, not conceiving—in concordance with reality. Any cognition in which something that is not real, i.e., not causally efficient, appears is “erroneous.” This includes perceptual errors such as hallucinations and dreams, as well as all conceptual cognitions since their apprehended object is a concept, i.e., something that is merely superimposed. Determination (*zhen pa*) is in itself erroneous in that it confuses what is conceived and what is real. More restrictively, “erroneous with regard to the intentional object” indicates that a determination is faulty in that it does not relate to a state of affairs, for instance, if one determines sound as permanent whereas it is in reality impermanent.
 5. Doubt (*the tshom*). Doubt occurs when one fails to choose between two alternative possibilities, leaving both options open. Doubt is usually considered a conceptual cognition. It may be held to involve an intentional operation of determination (*zhen pa*), but does not bring about a conclusive ascertainment (*nges pa*), either mistaken or non-mistaken. This case thus appears as the conceptual pendent of non-ascertaining perception.
 
-b. Threefold typology and critique of the fivefold typology
+##### b. Threefold typology and critique of the fivefold typology
 
 Opponents to the new definition of reliable cognition and the “active perception” model, starting with Sakya Pandita, instead adopted a threefold typology of non-reliable cognitions:
 

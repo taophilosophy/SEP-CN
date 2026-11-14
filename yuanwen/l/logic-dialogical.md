@@ -53,7 +53,7 @@ For the remainder of this section, $\mathcal{L}$ is a first-order language built
 
 As mentioned above, in the standard dialogical framework, there are two kinds of rules called the *particle* rules and the *structural* rules, which will now be introduced. The rules of the game determine which sequences of moves are *plays*—i.e., which sequences are legal. Hence the name “play level” for the level governed by these rules. First, the particle rules will be presented and an example will be provided. Then, the structural rules will be presented and three examples will be commented.
 
-Particle rules
+##### Particle rules
 
 Particle rules (*Partikelregeln*), or rules for logical constants, determine the legal moves in a play and regulate interaction by establishing the relevant moves constituting *challenges* and *defences*, depending on the main logical constant in the expression at stake. The appropriate challenges and defences (interaction) are the appropriate ways of asking for reasons and of giving them, and are specific to each kind of statement.
 
@@ -147,7 +147,7 @@ It is now **O**’s turn to play. She has no available move, so she loses the pl
 | 3 | $\state p$ |   | (1) | $\rqst L^{\land}$ | 2 |
 | **P** wins the play. |   |   |   |   |   |
 
-The particle rules for $\mathcal{L}$
+##### The particle rules for $\mathcal{L}$
 
 Going back to our first-order language $\mathcal{L}$, here are the particle rules for conjunction, disjunction, implication, negation, universal quantification and existential quantification. In the rules for quantifiers, individual constants are numbered with an index $i$ from the positive integers. See below for examples of plays using these rules.
 
@@ -162,7 +162,7 @@ Going back to our first-order language $\mathcal{L}$, here are the particle rule
 
 The choices involved in the rules defining logical constants are important. The difference between a conjunction and a disjunction for instance is that in the case of a conjunction, it is the challenger who may choose the conjunct that will be defended, whereas in the case of a disjunction, it is the defender who may choose the disjunct. The notion of choice has a similar importance for the meaning of the quantifiers. The meaning of logical constants, therefore, is not captured only in terms of which propositions are stated or requested: choices are an essential part of the interaction process as they determine the local meaning of expressions.
 
-Structural rules
+##### Structural rules
 
 Structural rules (*Rahmenregeln*) determine the general course of a dialogue game, such as how it is initiated, how to play it, how it ends, and so on. The point of these rules is not to spell out the meaning of the logical constants by specifying how to act in an appropriate way (this is the role of the particle rules); it is rather to specify the structure according to which interactions take place. It is one thing to determine the meaning of the logical constants as a set of appropriate challenges and defences (as above), it is another to define whose turn it is to play and when a player is allowed to play a move. One could indeed have the same local meaning (i.e., particle rules) and change a structural rule, saying for instance that one of the players is allowed to play two moves at a time instead of simply one: this would considerably change the game without changing the local meaning of what is said. This is actually one of the main ways the dialogical framework can be used in order to deal with other logical systems, and some examples are discussed in Section 2.2.
 
@@ -198,11 +198,11 @@ Here is an example that liberalizes the Formal Rule so as to give special permis
 
 As a side note, the Immanent Reasoning framework presented in Section 3 provides the means for delving into the meaning of the Identity predicate and distinguish it from other forms of equalities. It is not possible to give all the details in this entry, but some basic explanations will be given together with the relevant bibliography.
 
-Three examples
+##### Three examples
 
 Three simple examples of plays will allow to see how the rules operate.
 
-Example 1.
+###### Example 1.
 
 Play for $(\Pa\supset(\Pa\lor\Qa))$
 
@@ -251,7 +251,7 @@ Play for $(\Pa\supset(\Pa\lor\Qa))$
 
 The opponent has no further possible move. Because her repetition rank is $\rank{1}$, she cannot challenge again the proponent’s move, as established in the Game-playing Rule SR1i. Notice that moves 3 to 6 follow the rule SR1i: after the repetition ranks have been chosen, each move is a challenge or a defence in reaction to a previous move. Since **O** cannot make any move after move 6, the proponent wins the play according to the Winning Rule SR3.
 
-Example 2.
+###### Example 2.
 
 The next example involves a quantifier: $(\forall xPx\supset{}\Pa)$
 
@@ -287,7 +287,7 @@ This example illustrates the importance of keeping track of the order of the mov
   | 5 | $\state \Pa$ |   | (3) | $\rqst [x/a]$ | 4 |
   | **P** wins the play. |   |   |   |   |   |
 
-Example 3.
+###### Example 3.
 
 The third example illustrates the *Last Duty First* restriction of the Intuitionistic Game-playing Rule: $(\Pa\lor\neg{}\Pa)$
 
@@ -621,7 +621,7 @@ Taking inspiration in Martin-Löf’s CTT goes with adopting an enriched languag
 
 The particle rules determining the possible interaction of logically constant terms and modal operators in the standard framework (see Section 2) are replaced in the Immanent Reasoning framework by synthesis and analysis rules in order to take the local reasons into account. The rules for the logical constants presented here will determine interaction for *producing* local reasons appropriate to the logical constant at stake (synthesis rules), or for *extracting* local reasons embedded in more complex local reasons in a way that is characteristic of the constant at stake (analysis rules).
 
-Synthesis and analysis of local reasons (equivalent of particle rules)
+##### Synthesis and analysis of local reasons (equivalent of particle rules)
 
 Rules that prescribe how to explicitly bring forward local reasons are called the *synthesis rules* for local reasons. They are player-independent rules. A statement with an implicit reason (“!”) is challenged, and through this interaction the implicit local reasons are made explicit. For instance, the synthesis of local reasons for an implication ($\varphi \supset \psi$) is a challenge on the implication with implicit reason, where the challenger ($\mathbf{Y}$) states the antecedent ($\varphi$) with an explicit reason of his choice ($p_1)$, and the defender ($\mathbf{X}$) states the consequent ($\psi)$ with an explicit reason of his choice ($p_2)$:
 
@@ -647,7 +647,7 @@ The resolution of instructions is defined by a structural rule. Both players are
 
 The analysis and synthesis of local reasons replace the particle rules of the standard framework and enable to deal with explicit local reasons.
 
-Structural rules for Immanent Reasoning
+##### Structural rules for Immanent Reasoning
 
 The structural rules in the Immanent Reasoning framework are modified to allow for the explicit mention of reasons, for the use of initial concessions, for inserting formation dialogues, for the resolution of instructions, for challenging and defending elementary statements, and for making explicit the equalities that are *used* in the standard framework’s Formal Rule (“my reasons for stating $A$ are the same as yours”). The latter two points (about elementary statements and equalities) are defined by the *Socratic Rule* which replaces the Formal Rule of the standard framework. Instead of providing all the rules for this framework in details, we will illustrate them in a commented example below. But let us give some basic information about the Socratic Rule:
 
@@ -736,7 +736,7 @@ In this way, the opponent may (but does not have to) examine the well formation 
 | Existential quantification | $\mathbf{X}\,(\exists{}x: A)B(x): \bprop$ | $\mathbf{Y}\rqst F_{\exists{}1}$ or $\mathbf{Y}\rqst F_{\exists{}2}$ | $\mathbf{X}\,A: \bset$ (resp.) $\mathbf{X}\,B(x): \bprop{}[x: A]$ |
 | Falsum | $\mathbf{X}\,\bot: \bprop$ | $--$ | $--$ |
 
-Example of a formation dialogue
+##### Example of a formation dialogue
 
 The thesis is $(\forall x:A)(B(x)\supset B(x))$. Before applying the synthesis rule for universal quantification and initializing a play about reasons, the opponent opens a formation dialogue by requesting (move 3) that the proponent states that his thesis is a proposition (move 4).
 
@@ -759,7 +759,7 @@ The thesis is $(\forall x:A)(B(x)\supset B(x))$. Before applying the synthesis r
 
 The proponent wants to answer that $A$ is a set, which would trigger material considerations (is $A$ a set or not?). See below for material dialogues (Section 3.2.4). In order to avoid (for whatever reason) these material considerations, *initial concessions* may be added to the thesis in square brackets, for instance $A: \bset$. When accepting to play, the opponent also accepts these concessions for the sake of the argument.
 
-Example of a formation dialogue with initial concessions
+##### Example of a formation dialogue with initial concessions
 
 The thesis is the same as the previous one, with the added initial concessions $A: \bset$ and $B(x) : \bprop \, [x : A]$.
 
@@ -800,7 +800,7 @@ The point of material dialogues is that each elementary sentence involving a set
 2. When **O** states an elementary statement, she can be asked to produce the local reason specific to that elementary statement, according to the suitable synthesis rule or equality rule. The specific rules depend on the elementary statements at stake: for example, the rules for statements about some object being a natural number will be different from the ones for statements about some individual being French, and so on. Rahman et al. (2018) introduce some examples, including the rules for elementary statements involving the identity predicate.
 3. Only when the previous step has been accomplished can **P** take over in order to fulfill his duty of defending the same elementary statement.
 
-Example: natural numbers
+##### Example: natural numbers
 
 Take for instance the statements about natural numbers, e.g.,
 
@@ -820,7 +820,7 @@ $$\begin{align} 1 & \equiv_{df} s(0)\\ 2 & \equiv_{df} s(s(0))\\ & \vdots\\ n & 
 
 What is more, **O** may challenge a statement **P** $n:\mathbb{N}$ by requesting (**O** $\rqst n$) that **P** provides one of the accepted nominal definitions above (**P** $s(s(\ldots s(0)\ldots )) \equiv_{df} n : \mathbb{N}$). However, **P** may provide such a nominal definition only if **O** has previously stated the *definiens* (here $s(s(\ldots s(0)\ldots ))$).
 
-Example of material play for the thesis $2:\mathbb{N} ~ [0:\mathbb{N}]$.
+##### Example of material play for the thesis $2:\mathbb{N} ~ [0:\mathbb{N}]$.
 
 | **O** | **P** |   |   |   |   |
 | --- | --- | --- | --- | --- | --- |
@@ -832,7 +832,7 @@ Example of material play for the thesis $2:\mathbb{N} ~ [0:\mathbb{N}]$.
 | 7 | $s(s(0)): \mathbb{N}$ |   | (5) | $\rqst s(s(0))$ | 6 |
 | **P** wins the play. |   |   |   |   |   |
 
-Explanations
+##### Explanations
 
 - **Move 0:** **P** states the thesis: 2 is a natural number, provided that 0 is a natural number.
 - **Moves 0.1–3:** **O** states the initial concession, that 0 is a natural number; the players choose their repetition ranks and **O** challenges **P**’s thesis by requesting that he justifies his claim that 2 is a natural number.

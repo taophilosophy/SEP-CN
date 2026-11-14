@@ -188,6 +188,18 @@ As far as the matter concerns international importance, one thing is clear. The 
 
 #### B. Works on Particular Members
 
+##### Ajdukiewicz
+
+##### Kotarbiński
+
+##### Leśniewski
+
+##### Łukasiewicz
+
+##### Mostowski
+
+##### Tarski
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=lvov-warsaw). |
@@ -303,21 +315,15 @@ The author and editors would like to thank Branden Fitelson for supplying a corr
 
 [^woleński-1989]: Woleński, J., 1989, *Logic and Philosophy in the Lvov-Warsaw School*, Dordrecht: Kluwer.
 
-[^ajdukiewicz-nd]: Ajdukiewicz
-
 [^grabarczyk-2019]: Grabarczyk, P., 2019, *Directival Theory of Meaning. From Syntax and Pragmatics to Narrow Linguistic Content*, Berlin: Springer.
 
 [^sinisi-1995]: Sinisi, V. and Woleński, J. (eds.), 1995, *The Heritage of Kazimierz Ajdukiewicz*, Amsterdam: Rodopi.
-
-[^kotarbiński-nd]: Kotarbiński
 
 [^gasparski-1993]: Gasparski, W., 1993, *A Philosophy of Practicality: A Treatise on the Philosophy of Tadeusz Kotarbiński*, Helsinki: Societas Philosophica Fennica.
 
 [^makowski-2017]: Makowski, P., 2017, *Tadeusz Kotarbiński’s Action Theory: Reinterpretive Studies*, Cham: Palgrave Macmillan.
 
 [^woleński-1990]: Woleński, J. (ed.), 1990, *Kotarbiński: Logic, Semantics and Ontology*, Dordrecht: Kluwer.
-
-[^leśniewski-nd]: Leśniewski
 
 [^luschei-1963]: Luschei, E., 1963, *The Logical Systems of Leśniewski*, Amsterdam: North-Holland.
 
@@ -333,15 +339,9 @@ The author and editors would like to thank Branden Fitelson for supplying a corr
 
 [^vernant-1995]: Vernant, D. and Miéville, D. (eds.), 1995, *Stanisław Leśniewski aujourd’hui*, Groupe de Recherches sur la philosophie et le langage/Centre de Recherches Sémiologiques, Grenoble/Neuchâtel.
 
-[^vernant-nd]: Łukasiewicz
-
 [^jadacki-2017]: Jadacki, J. J., and Świderski, E. M., (eds.), 2017, *The Concept of Causality in the Lvov-Warsaw School. The Legacy of Jan Łukasiewicz*, Leiden: Brill.
 
-[^mostowski-nd]: Mostowski
-
 [^ehrenfeucht-2008]: Ehrenfeucht, A., Marek, V. W., Srebrny, M. (eds.), 2008, *Andrzej Mostowski and Foundational Studies*, Amsterdam: IOS Press.
-
-[^tarski-nd]: Tarski
 
 [^feferman-2004]: Feferman, A., and Feferman, S., 2004, *Alfred Tarski. Life and Logic*, Cambridge: Cambridge University Press.
 

@@ -195,13 +195,13 @@ If the multiplicity of things is really this obvious, the point may be extended:
 
 Existence pluralism is the view that there is more than one thing. Certainly existence pluralism is the standard view—even among metaphysicians. Indeed, most people think that there are a great many things. The conjunction of the Umbrella View and existence pluralism entails that there is more than one object. But if one thinks there are a great many things, one might also think that they are not all objects. And so existence pluralists may want to try to treat the ontological question as distinct from the Extension Question (for them, see §2.2).
 
-Nominalism
+##### Nominalism
 
 One exception is nominalism; or at least, one version of nominalism is an exception. Although nominalism is widely discussed in ontology, precisely what the view is differs. Some say that nominalism is the view that there are no abstracta or universals. Others say that nominalism is the view that the correct answer to the ontological question is ‘particulars’, or ‘concrete things’, or ‘objects’.
 
 For the proponent of the latter formulation of nominalism, the Extension Question is the ontological question; if she thinks there are only objects, then she’ll think that whatever is in the extension of *object* is all there is. (But not because she holds the Umbrella View.) The proponent of the former formulation may countenance non-abstracta or non-universals that aren’t objects. And so she might pursue the ontological question and the Extension Question separately.
 
-Miscellaneous
+##### Miscellaneous
 
 There are other views of what there is that are less general than existence nihilism, existence monism, existence pluralism, or nominalism. For example, possibilism is the view that there are merely possible objects (see the section on possibilist realism in the entry on possible objects). This view doesn’t say that every thing is a merely possible thing; it just says that the answer to the ontological question ought to include merely possible things. Mereological universalism says that whenever you have two or more things, there is an object composed of all and only those things (see the section on permissivism in the entry on ordinary objects). It doesn’t tell you that every thing is a composite thing; it just says that the answer to the ontological question needs to include such objects. Perdurantism says that objects are composed of temporal parts—at each time at which an object exists, there is an instantaneous object composed of all its parts at that time and is a part of it at that time, so those objects ought to be in the extension of the answer to the ontological question (see entry on temporal parts). Meinongianism says that there are non-existent objects, so they would include those objects in the extension of the answer to the ontological question (see entry on nonexistent objects). The views canvassed so far in this paragraph may be thought of as positing surprising *additions* to being, on which there are more things than one might have otherwise thought. They may be usefully contrasted with views that posit surprising *subtractions* from being, on which there are fewer things than one might have otherwise thought.
 
@@ -283,7 +283,7 @@ We will canvas three theories of objects that draw from constituent ontologies, 
 
 Constituent ontologists agree that objects have properties or property-like items as constituents or parts. They disagree, however, over whether objects have additional non-property-like items as constituents or parts and over how the constituents or parts of objects are related.
 
-Bundle theory
+##### Bundle theory
 
 According to the bundle theory, objects are bundles of properties. Different theories of properties will make for different versions of the bundle theory. The most common theories of properties for bundle theorists to hold are trope theory (see entry on tropes) and immanent universals.
 
@@ -293,7 +293,7 @@ On the trope version of the bundle theory, objects are bundles of tropes. Like t
 
 The bundle theory is a theory about objects according to which objects are composed of items of a different kind or category (namely, properties).[^note-29] So the bundle theory suggests that *object* has a contrast or complement. The bundle theory also suggests this broad answer to the Extension Question: whenever there is a bundle of coinstantiated universals (or, alternatively, compresent tropes), there is an object. The extension of *object* includes all and only the bundles, and what bundles there are is determined by which immanent universals or tropes stand in the coinstantiation or compresence relation.[^note-30]
 
-Bare particularism
+##### Bare particularism
 
 Like the bundle theory, bare particularism maintains that objects have their properties as constituents. But bare particularism adds that there’s something else too. In addition to its properties, every object has as a constituent a bare particular (or ‘thin particular’ or ‘substratum’) that instantiates those properties. Bare particulars are ‘bare’ in at least this sense: unlike objects, they have no properties as parts.
 
@@ -305,7 +305,7 @@ Bare particulars play two important roles in the theory at hand. First, they are
 
 Second, bare particulars *individuate*. Consider two objects that are exactly alike in relevant respects (they are both royal blue, weigh 1kg, and so on); what could make them *two* and not *one*? What might explain their distinctness? Since they are exactly alike in relevant respects no appeal to differences in their property-like constituents (being royal blue, weighing 1 kg, and so on) would seem to do the trick. So, the bare particularists maintain, there must be non-property-like constituents by virtue of which they are distinct.[^note-31]
 
-Hylomorphism
+##### Hylomorphism
 
 According to *hylomorphism*, objects consist of matter and form (see entry on form vs. matter). Objects are comprised of various parts: electrons and upquarks, for example. In addition to these ordinary material parts, objects have rather special components or constituents—*forms*—property-like items that inform the *matter* of their host substance. Forms give objects structure and shape and are what make each object the kind of thing it is. Forms account for the character or nature of objects; they are property-like in that respect. Socrates, for example, is a human animal comprising form and matter; and Socrates is a human animal because he has a certain form as a constituent.
 
@@ -315,13 +315,13 @@ Hylomorphism may be thought of as a special case of or variation on the bare par
 
 We turn now to relational ontologies. Constituent ontologies, recall, have it that objects have properties as parts or constituents. Relational ontologies accept that the extension of both *object* and *property* is not empty[^note-33]—but for them, no object has any property as a part or constituent. Objects are, one might say with Armstrong, blobs (1989: 76–77). Most relational ontologists will be perfectly happy to say that objects have parts—it’s just that none of those parts are properties; they’re other objects.
 
-Objects as blobs
+##### Objects as blobs
 
 In contrast to the constituent ontologies surveyed above, relational ontologies posit no internal structure to objects beyond ordinary mereological structure. Objects are not layer-cakes of thin particulars and properties (or layer-cakes of matter and form); they are blobs instead. Put this way, the blob view of objects has only *negative* content; it tells us what objects are not. It offers, then, a partial account of the nature of objects, and thus invites supplementation.[^note-34]
 
 We will now consider two relational ontologies and their implications for the theory of objects.
 
-Platonism
+##### Platonism
 
 The Platonist view of properties is that they are transcendent universals. They exist independently, and are outside of space and time, unchanging, and causally inert. Clearly such things cannot be parts of ordinary material objects which are inside space and time, change, and participate in causal chains. But objects still are red, large, heavy, and the like—and this in virtue of standing in some relation to the transcendent universals. That relation is usually called *exemplification* or *instantiation*, and it is taken as primitive. But, importantly, it is *external*—objects are related to things outside of themselves—whereas the relation between object and property on constituent ontologies is *internal*.
 
@@ -331,7 +331,7 @@ So, while Platonism is primarily a view about the nature of properties, it has i
 
 As it turns out, Platonism is not the only account of properties that sits well with an unstructured or bloblike view of objects.
 
-Class Nominalism
+##### Class Nominalism
 
 On class nominalism, properties are classes of things or classes of possible things. The property *being green* is the class of all green things, the property *being wise* is the class of all wise things, the relation *is the sister of* is the class of ordered pairs the first member of which is the sister of the second member, and so on. [^note-35]
 
@@ -431,7 +431,7 @@ So, Ramsey concludes that positing this distinction is ill-motivated:
 
 [^note-31]: On bare particulars, see Alston (1954), Armstrong (1989: 94ff; 1997: ch 3, 4, 7), Bailey (2012), R. Baker (1967), Benovski (2008, 2010), Bergmann (1947), Brower (2014: 35–41), Connolly (2015), Davis (2013a, 2013b), Garcia (2015b), Giberman (2012, 2015), Koons & Pickavance (2015: ch 5), Korman (2010), Losonsky (1987), Loux (1997), Moreland (1998, 2001, 2013), Moreland & Pickavance (2003), Morganti (2011), Oaklander & Rothstein (2000), Pasnau (2011: ch 2), Pickavance (2009, 2014), Preston (2005), Sider (2006), and Wildman (2015).
 
-[^note-32]: Aristotle is the most well-known proponent of hylomorphism (see *Metaphysics* VII 8.1034a5–6, *Metaphysics* VII 8.1033b23–25, *Metaphysics* VII 11.1037a29–30, *Metaphysics* VII 15.1939b20–25, and *Metaphysics* XI 9.1058b80–12), but Plato may have beat him to the punch (*Timaeus* 48c–53c).
+[^note-32]: Aristotle is the most well-known proponent of hylomorphism (see *Metaphysics* VII 8.1034a5–6, *Metaphysics* VII 8.1033b23–25, *Metaphysics* VII 11.1037a29–30, *Metaphysics* VII 15.1039b20–25, and *Metaphysics* XI 9.1058b8–12), but Plato may have beat him to the punch (*Timaeus* 48c–53c).
 
 For the contemporary discussion, see Bailey (2015), Bailey & Wilkins (2018), Barnes (2003), Britton (2012), Brower (2014), Fine (1992, 1994, 1999, 2008), Harte (2002), Inman (2014), Jaworski (2014, 2016), Johnston (2006), Koons (2014), Koslicki (2008), Koslicki (2018), Manning (2013), Marmodoro (2013), Oderberg (2007), Pasnau (2010: 635–646), Rea (1998, 2011), Robinson (2014), Sattig (2015), Sellars (1952), Sidelle (2014), Toner (2010, 2013), and Ward (2014).
 
@@ -663,7 +663,7 @@ For the contemporary discussion, see Bailey (2015), Bailey & Wilkins (2018), Bar
 
 [^laycock-2005]: –––, 2005, “Mass nouns, Count nouns and Non-count nouns: Philosophical Aspects”, *Encyclopedia of Language and Linguistics*, second edition, Amsterdam: Elsevier, pp. 534–538
 
-[^laycock-2006]: –––, 2006, *Words without Objects:* , Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
+[^laycock-2006]: –––, 2006, *Words without Objects*, Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
 
 [^lee-2022]: Lee, Seungil, forthcoming, “Bundle Theory and Weak Discernibility”, *Analytic Philosophy*, first online 10 January 2022. doi:10.1111/phib.12255
 
@@ -907,7 +907,7 @@ For the contemporary discussion, see Bailey (2015), Bailey & Wilkins (2018), Bar
 
 [^inwagen-1998]: –––, 1998, “Meta-Ontology”, *Erkenntnis*, 48(2–3): 233–250. doi:10.1023/A:1005323618026
 
-[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖbvetHpt Verlagsgesellschaft, pp. 61–71.
+[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖBV & HPT Verlagsgesellschaft, pp. 61–71.
 
 [^inwagen-2004]: –––, 2004, “A Theory of Properties”, *Oxford Studies in Metaphysics*, 1: 107–138.
 
@@ -919,7 +919,7 @@ For the contemporary discussion, see Bailey (2015), Bailey & Wilkins (2018), Bar
 
 [^inwagen-2021]: –––, 2021, “What is an Ontological Category?”, *Disputatio*, 10(16): 241–261.
 
-[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, *Oxford*: Oxford University Press.
+[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, Oxford: Oxford University Press.
 
 [^varzi-2002]: Varzi, Achille C., 2002, “Words and Objects”, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), *Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
 

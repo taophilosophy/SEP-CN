@@ -235,11 +235,11 @@ Frege’s axiomatization obviously depends on the expressive adequacy of the pai
 
 The axiomatic framework with minimal signature (following Russell and Whitehead, Hilbert used only $\{\vee, \neg\}$) nevertheless submitted to the Hilbert school’s profound metatheoretical analysis in terms of consistency, independence, maximality, and completeness proofs. In order to preserve the context of discovery, the following retraces the original proofs provided in Hilbert’s lectures “Prinzipien der Mathematik” from 1917.
 
-2.2.2.1 Consistency
+##### 2.2.2.1 Consistency
 
 An formal deductive system S is *consistent* if for no formula A is $\turnstile{\rS} \rA$ and $\turnstile{\rS} \neg\rA$. To prove consistency of cpc, Hilbert reasoned as follows: Let the sentence letters range over the numbers 1 and 0, interpret the disjunction symbol as multiplication and the negation symbol as the function $1 - x$. In this interpretation, every formula is a function on 0 and 1 composed of multiplication and $1 - x$. Hilbert observed that the axioms are each interpreted as functions that return the value 0 on every input, and that the rules of inference each preserve this property (so that every theorem is constant 0). Furthermore, the negation of any theorem is constant 1 and therefore unprovable. Thus, no formula is provable if its negation also is, so the system is consistent.
 
-2.2.2.2 Maximality
+##### 2.2.2.2 Maximality
 
 A formal deductive system is *maximal* if any proper extension of it is inconsistent. Hilbert used the same interpretation from his consistency argument to show:
 
@@ -253,7 +253,7 @@ Thus $\turnstile{\CPC+\rA} \rB$ for any formula B. ◻
 
 Hilbert and others called this same property “completeness”, in analogy to the completeness axiom from Hilbert’s foundational studies of plane geometry and number theory. But as completeness has come to mean something else in the logical domain, this property is now commonly referred to as “Post-completeness” (after Post 1921 who rediscovered this property of cpc)[^post-1921] or, as here, as “maximality”.
 
-2.2.2.3 Completeness
+##### 2.2.2.3 Completeness
 
 The Completeness Theorem describes an exact correspondence between the truth-functional and deductive frameworks:
 
@@ -305,7 +305,7 @@ Proving completeness directly in this manner allows a different argument for max
 
 *Proof.* For suppose $\centernot{\turnstile{\CPC}} \rA$. Then by completeness, $\centernot{\dturnstile{\CTT}} \rA$. So there is some assignment $\mathit{v}$ of truth values to propositional variables on which A evaluates as **F**. Let $\rA'$ be the result of replacing every propositional variable assigned **T** by $\mathit{v}$ with $p_1\supset p_1$ and every propositional variable assigned **F** by $\mathit{v}$ with $p_1\supset\neg p_1$. $\rA'$ is unsatisfiable. Therefore $\neg \rA'$ is valid. So $\turnstile{\CPC+\rA} \neg\rA'$. But $\turnstile{\CPC+\rA} \rA$ and, by substitution, $\turnstile{\CPC+\rA} \rA'$. So cpc+A is inconsistent. ◻
 
-2.2.2.4 Completeness as semi-decidability
+##### 2.2.2.4 Completeness as semi-decidability
 
 The set of theorems of a formal deductive system can be seen to be recursively enumerable. To construct a simple enumeration, let us add to the language of propositional logic the symbol “;” as a sequential location demarcator so that the language consists of $p_1, p_2, \ldots, (, ), \supset, \neg, \hbox{and} ;$. Then we can list all possible sequences of symbols in stages:
 
@@ -319,7 +319,7 @@ Completeness results are often described as valuable because they make evident t
 
 Completeness results can play a role for many alternative systems of propositional logic similar to the one they play for classical quantification theory: Urquhart 1984 showed that the systems e and r of relevance logic are undecidable; Lincoln et al. 1992 showed that full propositional linear logic ll is undecidable. In these arenas, a complete formal derivation system can provide some concrete access to the space of valid formulas whose abstract definition is not otherwise readily navigable.
 
-2.2.2.5 Independence
+##### 2.2.2.5 Independence
 
 The style of reasoning exhibited in the consistency argument can be generalized to show independence results. The idea of the consistency argument was first to describe a property P such that
 

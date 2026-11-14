@@ -36,7 +36,7 @@ from tools.common import (  # noqa: E402
     write_json_verified, write_text_verified)
 
 BLOCK_OPEN_RE = re.compile(
-    r'<(?P<tag>h1|h2|h3|h4|p|blockquote|table|ul|ol|dl|pre|div)\b(?P<attrs>[^>]*)>', re.I)
+    r'<(?P<tag>h1|h2|h3|h4|h5|h6|p|blockquote|table|ul|ol|dl|pre|div)\b(?P<attrs>[^>]*)>', re.I)
 MATH_RE = re.compile(r'(\$\$.*?\$\$|\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 SUP_KEEP_RE = re.compile(r'<(su[bp])>.*?</\1>', re.S | re.I)
 NOTE_REF_RE = re.compile(
@@ -606,19 +606,19 @@ def render_blocks(blocks, ctx):
         t, inner = b['type'], b['inner']
         if t == 'h1':
             ctx.emit('# ' + inline_to_md(inner, ctx.slug))
-        elif t in ('h2', 'h3', 'h4'):
+        elif t in ('h2', 'h3', 'h4', 'h5', 'h6'):
             text = inline_to_md(inner, ctx.slug)
-            hashes = '#' * {'h2': 2, 'h3': 3, 'h4': 4}[t]
+            hashes = '#' * {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t]
             if re.fullmatch(r'(?:references|bibliography)', text, re.I):
                 ctx.in_bib = True
-                ctx.bib_lvl = {'h2': 2, 'h3': 3, 'h4': 4}[t]
+                ctx.bib_lvl = {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t]
                 ctx.emit('', '%s References（引用注释）' % hashes, '',
                          '> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，'
                          '完整条目见本文末脚注定义。')
             else:
                 # 文献节后的任何同级/更高级标题都终止文献节
                 # （演示轮 2 复核：in_bib 永不复位曾吞掉致谢/相关词条等尾段）
-                if not (ctx.in_bib and {'h2': 2, 'h3': 3, 'h4': 4}[t] > ctx.bib_lvl):
+                if not (ctx.in_bib and {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t] > ctx.bib_lvl):
                     ctx.in_bib = False
                 ctx.emit('', '%s %s' % (hashes, text))
         elif t == 'pubinfo':

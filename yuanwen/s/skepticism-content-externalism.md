@@ -109,7 +109,7 @@ Singular CE implies that a speaker who utters a sentence containing a singular t
 
 Singular SE and general SE are often combined, but they are logically independent.
 
-Arguments for general semantic externalism
+##### Arguments for general semantic externalism
 
 Kripke supports general SE by proposing that we view natural kind terms, such as “gold,” as singular terms that refer to substances. He theorizes that the referents of such singular terms of substances and the referents of ordinary proper names are fixed in similar ways:
 
@@ -129,7 +129,7 @@ Kripke and Putnam argue that if water is H₂O, as we believe, then in any possi
 
 Kripke and Putnam both emphasize, in effect, that speakers of the same natural language typically take one another’s words at face value and evaluate their utterances accordingly, even when they know very little about the topics their utterances concern. Putnam devised his method of constructing Twin Earth thought experiments to highlight the semantic consequences of accepting this observation about our ordinary linguistic practices. In his best-known Twin Earth thought experiment (Putnam 1975a: 223–225)[^putnam-1975a], Putnam imagines Oscar, who (a) lives on Earth and (b) does not know that water is H₂O but (c) is competent enough in the use of the English word “water” that his fellow English speakers take his uses of “water” at face value, and (d) would defer to a chemist on Earth who tells him that water is H₂O. Putnam judges and invites us to agree, that Oscar’s word “water” is true of *x* if and only if *x* is water, and that when Oscar says, while pointing at a liquid in a glass, “That is water,” his utterance is true if and only if the liquid in the glass is water. Putnam then describes a narrow psychological twin of Oscar’s, Toscar, who lives on Twin Earth, which is exactly like Earth except that wherever there is H₂O on Earth there is a different liquid, whose molecular structure, XYZ, is very different from the molecular structure of H₂O, but whose superficial qualifies are similar to those of water at normal pressures and temperatures. Putnam judges and invites us to agree that since XYZ does not bear the appropriate same*_{L}* relation to the portions of liquid that we call “water” on Earth, XYZ is not water, but another liquid that we may call twater. He infers that Toscar’s word “water” is true of *x* if and only if *x* is twater and that when Toscar says, while pointing at a liquid in a glass, “That is water,” his utterance is true if and only if the liquid in the glass is twater. Putnam concludes that the truth conditions of Oscar’s and Toscar’s utterances of sentences containing the term “water” are not determined by their narrow psychological states. In a final step he argues that this was true even in 1750, before chemists on Earth or Twin Earth discovered the chemical structures of water and twater.
 
-Illusions of reference for general terms
+##### Illusions of reference for general terms
 
 When we use a proper name, we presuppose that it has a referent. Similarly, when we use a natural kind term, we presuppose that there are structural properties that are common to all the things to which we and others in our community apply the term. This similarity has led many philosophers (Schwartz 1977; Devitt & Sterelny 1987; Brown 2004; Hacking 2007; Wikforss 2013)[^brown-2004][^devitt-1987][^hacking-2007][^schwartz-1977][^wikforss-2013] to conclude that just as a singular term may fail to refer to anything due to a false presupposition, so a natural kind term may fail to have satisfaction conditions due to a false presupposition. A corollary is that just as a speaker may be under an illusion that a given proper name or a given use of a demonstrative refers to an object, so a speaker may be under an illusion that a natural kind term has satisfaction conditions. This conclusion and corollary result in a *presuppositional theory of general SE*.
 
@@ -141,11 +141,11 @@ An equally influential view is that natural kind terms are not analogous to prop
 
 Singular CE and general CE are often combined, but they are logically independent.
 
-Arguments for general content externalism
+##### Arguments for general content externalism
 
 The above arguments for general SE leave it open whether they can be extended to support general CE. McGinn 1977 suggests this extension. Burge 1979 argues in detail that our default practices of taking others’ words at face value is of a piece with our ordinary ways of attributing beliefs and thoughts to other speakers. This clarification of the consequences of SE seems inevitable in retrospect. If my local arborist says, for instance, “There are elm trees in Bloomington,” in taking his utterance of these words at face value I thereby also take him to have said and to have expressed the thought that *there are elm trees in Bloomington*. One can accept this observation without supposing that language is prior to thought, or vice versa. The notions of reference, linguistic meaning, and thought may be “interwoven in complex ways which render it impossible fully to analyze one in terms of the other” (Burge 1986b: 718; see also Williamson 2007: Ch.1)[^burge-1986b][^williamson-2007].
 
-Illusions of content expressed by general terms
+##### Illusions of content expressed by general terms
 
 On the presuppositional theory of general SE, if there are no structural properties that are common to all the things to which we apply a term T that we take to be a natural kind term, then the term fails to be true of anything. In these circumstances, a person who is unaware of the reference failure and tries to express a thought content by using a sentence that contains T fails to express any content at all. Such situations generate *illusions of content expressed by general terms*. Illusions of this sort, and the resulting *presuppositional theory of general CE*, are central to some of the debates discussed in section 6 below.
 

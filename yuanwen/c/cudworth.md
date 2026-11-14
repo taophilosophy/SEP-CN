@@ -103,6 +103,10 @@ Although never a best-seller, *TISU* was re-published periodically across the ce
 
 #### Printed sources
 
+##### Works by Cudworth
+
+##### Works by Others
+
 ### Secondary sources
 
 ## Academic Tools
@@ -124,8 +128,6 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 [^cudworth-nd]: Cudworth, Ralph, *Three Treatises on “Liberty and Necessity”*, London, British Library, Additional MSS 4978–4982.
 
 [^newton-nd]: Newton, Isaac, “Out of Cudworth”, Los Angeles, CA, William Andrews Clark Memorial Library MS, fN563Z. [[“Out of Cudworth” available online](http://www.newtonproject.ox.ac.uk/view/texts/normalized/THEM00118)]
-
-[^works-nd]: Works by Cudworth
 
 [^tisu-1678]: [*TISU*], 1678, *The True Intellectual System of the Universe*, London: Richard Royston. All quotations are taken from this first edition, with spelling and punctuation modernised. [[*TISU* 1678 available online](https://archive.org/details/trueintellectual1678cudw)]
 
@@ -166,8 +168,6 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 [^raphael-1969]: Raphael, D. D. (ed.), 1969, *British Moralists, 1650–1800*. Oxford: Clarendon Press, 119–53.
 
 [^schneewind-2003]: Schneewind, J. B. (ed.), 2003, *Moral Philosophy from Montaigne to Kant. An anthology.*, Cambridge: Cambridge University Press, 275–292
-
-[^works-nd-2]: Works by Others
 
 [^diderot-nd]: Diderot, Denis, *Encyclopédie*, Art. “Plastique”.
 

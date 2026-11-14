@@ -199,13 +199,43 @@ Although much more could be said here about Simplicius’ legacy, suffice it to 
 
 #### On Aristotle’s *On the Heavens*
 
+##### Standard edition of the Greek
+
+##### English
+
 #### On Aristotle’s *Categories*
+
+##### Standard edition of the Greek
+
+##### English
+
+##### French
 
 #### On Aristotle’s *On the Soul*
 
+##### Standard edition of the Greek
+
+##### English
+
+##### German
+
 #### On Epictetus’ *Handbook*
 
+##### Standard edition of the Greek
+
+##### English
+
+##### German
+
 #### On Aristotle’s *Physics*
+
+##### Standard edition of the Greek
+
+##### English
+
+##### French
+
+##### German
 
 ### Editions and Translations of other Ancient Authors
 
@@ -261,11 +291,7 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^praechter-1927]: Praechter, Karl, 1927, “Simplicius (10)”, in *Paulys Realencyclopädie der classischen Altertumswissenschaft*, Band III A, Halbband 5, Silacenis–Sparsus, 204–213.
 
-[^standard-nd]: Standard edition of the Greek
-
 [^simplicii-1894]: *Simplicii in Aristotelis De caelo commentaria*, Johann Ludwig Heiberg (ed.), (Commentaria in Aristotelem Graeca [CAG] 7), Berlin 1894.
-
-[^english-nd]: English
 
 [^simplicius-2010]: Simplicius, *On Aristotle On the Heavens*, multiple volumes, (Ancient Commentators on Aristotle), London: Bloomsbury (Duckworth prior to 2010)
 
@@ -291,11 +317,7 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^treatises-1807]: *The Treatises of Aristotle On the Heavens, On generation and corruption, and On meteors, translated from the Greek, with copious elucidations, from the commentaries of Simplicius on the first, and of Olympiodorus on the last of these treatises*, Th. Taylor (trans.), London 1807; Somerset: ND Frome 2004.
 
-[^standard-nd-2]: Standard edition of the Greek
-
 [^simplicii-1907]: *Simplicii in Aristotelis Categorias commentarium*, Carolus Kalbfleisch (ed.), (Commentaria in Aristotelem Graeca [CAG] 8), Berlin, 1907.
-
-[^english-nd-2]: English
 
 [^simplicius-2010-2]: Simplicius, *On Aristotle’s Categories*, multiple volumes, (Ancient Commentators on Aristotle), London: Bloomsbury (Duckworth prior to 2010)
 
@@ -307,19 +329,13 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^aristotle’s-2000]: *On Aristotle’s Categories 9–15*, Richard Gaskin, 2000.
 
-[^french-nd]: French
-
 [^simplicius-1990]: Simplicius, *Commentaire sur les ‹Catégories›*. Traduction commentée sous la direction de I. Hadot. Fascicule I: Introduction, Première partie (p. 1–9, 3 Kalbfleisch), traduction de Ph. Hoffmann, commentaire et notes à la traduction par I. Hadot, avec des appendices de P. Hadot et J.-P. Mahé, Leiden: Brill, 1990.
 
 [^simplicius-1990-2]: –––, *Commentaire sur les ‹Catégories›*. Traduction commentée sous la direction de I. Hadot. Fascicule III: Préambule aux Catégories, Commentaire au premier chapitre des Catégories (p. 21–40, 13 Kalbfleisch), traduction de Ph. Hoffmann, avec la collaboration de I. Hadot, P. Hadot et C. Luna, commentaire et notes à la traduction par C. Luna, Leiden: Brill, 1990.
 
 [^simplicius-2001]: –––, *Commentaire sur les ‹Catégories› d’Aristote, Chapitres 2–4*. Traduction par Ph. Hoffmann, avec la collaboration de I. Hadot et P. Hadot, commentaire par C. Luna, Paris: Les Belles Lettres, 2001.
 
-[^standard-nd-3]: Standard edition of the Greek
-
 [^simplicii-1882]: *Simplicii in libros Aristotelis De anima commentaria*, Michael Hayduck (ed.), (Commentaria in Aristotelem Graeca [CAG] 11), Berlin, 1882.
-
-[^english-nd-3]: English
 
 [^simplicius-1995]: Simplicius, *On Aristotle On the Soul 1.1–2.4*, James O. Urmson (trans.), notes by Peter Lautner, (Ancient Commentators on Aristotle), London: Duckworth, 1995.
 
@@ -329,17 +345,11 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^simplicius-2013]: –––, *On Aristotle On the Soul 3.6–13*, Carlos Steel (trans.), (Ancient Commentators on Aristotle), London: Bloomsbury, 2013.
 
-[^german-nd]: German
-
 [^priskian-nd]: Priskian von Lydien (›Simplikios‹), *Kommentar zu Aristoteles’ De anima III*, ausgewählt, eingeleitet, übersetzt und erläutert von M. Perkams, in H. Busche, and M. Perkams (eds.), *Antike Interpretationen zur aristotelischen Lehre vom Geist*, Hamburg: Meiner, pp. 547–675.
-
-[^standard-nd-4]: Standard edition of the Greek
 
 [^simplicius-1995-2]: Simplicius, *Commentaire sur le Manuel d’Epictète*. Introduction et édition critique du texte grec par I. Hadot, Leiden, 1995. [Editio maior]
 
 [^simplicius-2001-2]: –––, *Commentaire sur le Manuel d’Epictète. I: Chapitres I–XXIX*. Texte établi et traduit par Ilsetraud Hadot, Paris, 2001. [CUF]. [Editio minor with French translation]
-
-[^english-nd-4]: English
 
 [^simplicius-2002]: Simplicius, *On Epictetus’ Handbook 1–26*, Charles Brittain and Tad Brennan (trans.), (Ancient Commentators on Aristotle), London: Duckworth, 2002.
 
@@ -347,19 +357,13 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^epictetus-1694]: *Epictetus, his morals, with Simplicius his comment*, made English from the Greek, by G. Stanhope, London, 1694.
 
-[^german-nd-2]: German
-
 [^simplicii-1778]: *Simplicii Commentarius in Epicteti Enchiridion*, aus dem Griechischen übersetzt von J. G. Schulthess (= Bibliothek der griechischen Philosophen, 1. Band). Zürich: Orell, Füssli und Co., 1778.
 
 [^simplikios-1867]: *Simplikios*’ *Commentar zu Epiktetos Handbuch*, aus dem Griechischen in das Deutsche übertragen von K. Enk. Wien: Beck, 1867.
 
-[^standard-nd-5]: Standard edition of the Greek
-
 [^simplicii-1882-2]: *Simplicii in Aristotelis Physicorum libros quattuor priores/posteriores commentaria*, 2 volumes, Hermannus Diels (ed.), (Commentaria in Aristotelem Graeca [CAG] 9 and 10), Berlin, 1882–1895.
 
 [^golitsis-2014]: Golitsis, Pantelis and Philippe Hoffmann, 2014, “Simplicius et le ‘Lieu’: À propos d’une nouvelle édition du *Corollarium de loco*”, *Revue Des Études Grecques* 127: 119–175. [New edition of the *Corollary on place*]
-
-[^english-nd-5]: English
 
 [^simplicius-2010-3]: Simplicius, *On Aristotle Physics*, multiple volumes, (Ancient Commentators on Aristotle), London: Bloomsbury (Duckworth prior to 2010)
 
@@ -387,11 +391,7 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^aristotle-1992-2]: –––, *Corollaries on Place and Time*, J. O. Urmson (trans.), annotated by Lucas Siorvanes, London: Duckworth, 1992.
 
-[^french-nd-2]: French
-
 [^simplicius-2019]: Simplicius, *Commentaire sur la Physique d’Aristote. Livre ii, ch. 1-3*, Introduction, traduction, notes et bibliographie par Alain Lernould, Villeneuve d'Ascq: Presses universitaires du Septentrion, 2019.
-
-[^german-nd-3]: German
 
 [^sonderegger-1982]: Sonderegger, E., 1982, *Simplikios: Über Die Zeit. Ein Kommentar zum Corollarium de Tempore*, (Hypomnemata, 70), Göttingen: Vandenhoeck & Ruprecht. [includes a translation of the *Corollary on time*]
 

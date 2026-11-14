@@ -111,7 +111,7 @@ Critics, including Introna and Nissenbaum (2000), Epstein and Robertson (2015), 
 
 There has been considerable speculation as to why this is the case, but we briefly examine two reasons that have been prominent in discussions in the literature: (a) the interests of advertisers who sponsor search engines; and (b) schemes used by technically-savvy individuals and organizations to manipulate the ordered ranking of sites returned by search engines. (A third reason that is also sometimes suggested has to do with the nature of the algorithms used by major search engine companies; that issue is examined in this Section 3.1.3).
 
-3.1.2.1 Online Advertising Strategies and Search Bias
+##### 3.1.2.1 Online Advertising Strategies and Search Bias
 
 Some critics, including Hinman (2005) and Noble (2018), point out that search engine companies are “answerable” to the paid advertisers who sponsor them. So, for many of these critics, bias-related concerns affecting the inclusion/exclusion of certain sites can be attributable mainly to the interests of paid advertisers. Google founders Brin and Page (1998: 18), who initially opposed the idea of paid advertisement on search engines, noted that it would seem reasonable to
 
@@ -123,7 +123,7 @@ Diaz described two other kinds of bias-related concerns that affect advertising 
 
 Some critics assume that as conflicts affecting online advertisements in the context of search engines are eventually resolved, the amount of bias in search engine results will also decline or perhaps disappear altogether. However, other schemes can also be used to influence the privileging of some sites over others, in terms of both their inclusion (vs. exclusion) and their ranking.
 
-3.1.2.2 Technological Schemes Used to Manipulate Search Results
+##### 3.1.2.2 Technological Schemes Used to Manipulate Search Results
 
 We have already noted that some technically-savvy individuals and organizations have figured out various strategies for “gaming the system”—i.e., positioning their sites higher in the schemes used by search engine companies to generate results (see, for example, Goodwin 2018)[^goodwin-2018]. These schemes are commonly referred to by “insiders” as instances of SEO, or Search Engine Optimization, and we briefly consider what can now be regarded as a classic SEO ploy. Some organizations and individuals had effectively used HTML meta tags and keywords (embedded in HTML source code) to influence search engine companies to give their sites higher rankings in the ordering schemes for their respective categories of search. Eventually, however, search engine companies recognized the manipulative aspects of these HTML features and began to disregard them in their ranking algorithms (E. Goldman 2008)[^goldman-2008].
 

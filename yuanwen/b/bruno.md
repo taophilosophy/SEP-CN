@@ -221,6 +221,12 @@ Bible, King James Version, as listed below.
 
 #### Works by Bruno
 
+##### Collections of works by Bruno
+
+##### Individual Works by Bruno
+
+##### English translations of Bruno’s works
+
 #### Documents relating to Bruno’s life and trial
 
 #### Other primary sources
@@ -256,8 +262,6 @@ Agrippa von Nettesheim, Heinrich Cornelius | Aquinas, Thomas | Aristotle | Chris
 
 My thanks to: Leen Spruit and Richard Blum for their comments on, and corrections to, the pre-publication version of this entry; Dario Tessicini for his advice about Bruno’s cometary theory; Hilary Gatti for her comments on Bruno’s insistence on the importance of the senses and observation; Ovanes Okopyan for the section on Soviet interpretations of Bruno; Valentina Zaffino for her various suggestions; the anonymous SEP reviewer for supplying the reference to the “dark” Heraclitus; and Ada Bronowski for her suggestion that Lucretius’s *simulacra* inspired, at least in part, Bruno’s theory that cosmic bodies emitted and absorbed stray particles.
 
-[^collections-nd]: Collections of works by Bruno
-
 [^opera-1879]: *Opera latine conscripta*, 3 vols in 8 pts, eds Francesco Fiorentino, Felice Tocco, Girolamo Vitelli, and others, Naples and Florence: Morano, Le Monnier, 1879–91. (Reprinted, Stuttgart, Bad-Cannstatt: Frommann–Holzboog, 1961–62.) The page numbers of this edition are indicated in the margins of many later editions and translations. In this SEP entry, a Roman number following the abbreviation BOL indicates a volume number of this edition; and an Arabic numeral immediately after a Roman numeral and full stop indicates a separately paginated part of a volume. Hence “BOL II.3, 213” designates Bruno, *Opera latine scripta*, volume II, part 3, page 213.
 
 [^oeuvres-1993]: *Oeuvres complètes*, 7 vols, Italian texts ed. Giovanni Aquilecchia, with French translations and commentaries in French by various authors, Paris: Les Belles Lettres, 1993–99. Revised editions of vols 1, 3, 4 and 7, published 2003–16.
@@ -274,23 +278,19 @@ My thanks to: Leen Spruit and Richard Blum for their comments on, and correction
 
 [^werke-2006]: *Werke*, 7 vols, general editor Thomas Leinkauf, Italian texts ed. Giovanni Aquilecchia and (vol. 7) Eugenio Canone, with German translations and commentaries by various authors, Hamburg: Felix Meiner, 2006–19.
 
-[^individual-nd]: Individual Works by Bruno
-
 [^la-nd]: The website *La biblioteca ideale di Giordano Bruno. Le opere e le fonti* (in the Other Internet Resources section below), includes lists of Bruno’s Italian and Latin works, with links to online versions of them.
 
-[^english-nd]: English translations of Bruno’s works
+[^la-1950]: 1950, *On the Infinite Universe and Worlds*, in Dorothea Waley Singer, *Giordano Bruno. His Life and Thought, with Annotated Translation of His Work* On the Infinite Universe and Worlds, New York: Schuman. (Translation of *De l’infinito, universo e mondi*, first published at London in 1584. Modern edition of the Italian text in BOI II, 7–167.)
 
-[^english-1950]: 1950, *On the Infinite Universe and Worlds*, in Dorothea Waley Singer, *Giordano Bruno. His Life and Thought, with Annotated Translation of His Work* On the Infinite Universe and Worlds, New York: Schuman. (Translation of *De l’infinito, universo e mondi*, first published at London in 1584. Modern edition of the Italian text in BOI II, 7–167.)
+[^la-1964]: 1964, *The Expulsion of The Triumphant Beast*, tr. Arthur D. Imerti, New Brunswick, NJ: Rutgers University Press. Reprint, Lincoln, NE: University of Nebraska Press, 1992. (Translation of *Spaccio de la bestia trionfante*, first published at London in 1584. Modern edition of the Italian text in BOI II, 169–404.)
 
-[^english-1964]: 1964, *The Expulsion of The Triumphant Beast*, tr. Arthur D. Imerti, New Brunswick, NJ: Rutgers University Press. Reprint, Lincoln, NE: University of Nebraska Press, 1992. (Translation of *Spaccio de la bestia trionfante*, first published at London in 1584. Modern edition of the Italian text in BOI II, 169–404.)
+[^la-1998]: 1998, *Cause, Principle and Unity,* tr. Robert de Lucca, with *Essays on Magic*, tr. Richard J. Blackwell, Cambridge: Cambridge University Press. (Translations of: 1) *De la causa, principio et uno*, originally published at London in 1584, corresponding to the modern edition in BOI I, 591–746; 2) *De magia*, published for the first time in BOL III, 395–506; and 3) *De vinculis in genere*, published for the first time in BOL III, 635–700.)
 
-[^english-1998]: 1998, *Cause, Principle and Unity,* tr. Robert de Lucca, with *Essays on Magic*, tr. Richard J. Blackwell, Cambridge: Cambridge University Press. (Translations of: 1) *De la causa, principio et uno*, originally published at London in 1584, corresponding to the modern edition in BOI I, 591–746; 2) *De magia*, published for the first time in BOL III, 395–506; and 3) *De vinculis in genere*, published for the first time in BOL III, 635–700.)
+[^la-2002]: 2002, *The Cabala of Pegasus*, tr. Sidney L. Sondergard and Madison U. Sowell, New Haven, CT: Yale University Press. (Translation of *Cabala del cavallo pegaseo*, first published at London in 1585. Modern edition of the Italian text in BOI II, 405–484.)
 
-[^english-2002]: 2002, *The Cabala of Pegasus*, tr. Sidney L. Sondergard and Madison U. Sowell, New Haven, CT: Yale University Press. (Translation of *Cabala del cavallo pegaseo*, first published at London in 1585. Modern edition of the Italian text in BOI II, 405–484.)
+[^la-2013]: 2013, *On the Heroic Frenzies. A Translation of* De gli eroici furori, Italian text ed. Eugenio Canone, English translation by Ingrid D. Rowland, Toronto: University of Toronto Press. (First published at London in 1585. Modern edition of the Italian text in BOI II, 485–753.)
 
-[^english-2013]: 2013, *On the Heroic Frenzies. A Translation of* De gli eroici furori, Italian text ed. Eugenio Canone, English translation by Ingrid D. Rowland, Toronto: University of Toronto Press. (First published at London in 1585. Modern edition of the Italian text in BOI II, 485–753.)
-
-[^english-2018]: 2018, *The Ash Wednesday Supper*, tr. Hilary Gatti, Toronto: University of Toronto Press. (Translation of *La cena de la ceneri*, first published at London in 1584. Modern edition of the Italian text in BOI I, 425–590.)
+[^la-2018]: 2018, *The Ash Wednesday Supper*, tr. Hilary Gatti, Toronto: University of Toronto Press. (Translation of *La cena de la ceneri*, first published at London in 1584. Modern edition of the Italian text in BOI I, 425–590.)
 
 [^new-2024]: New English translations of Bruno’s Italian works are appearing in the Lorenzo Da Ponte Italian Library, a series published by the University of Toronto Press. At the time of writing (March, 2024), the series includes Rowland’s translation of *On the Heroic Frenzies* and Gatti’s translation of *The Ash Wednesday Supper*, both as listed above. A translation of the *Expulsion of the Triumphant Beast* by Gatti in the same series is due to appear in mid-2024.
 

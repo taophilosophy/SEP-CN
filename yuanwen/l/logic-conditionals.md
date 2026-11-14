@@ -140,7 +140,7 @@ The basic idea behind “variably strict conditionals” (an expression due to D
 
 #### 3.2.1 Main semantics
 
-Relative modalities
+##### Relative modalities
 
 Though not historically the first, arguably the simplest way of expressing the idea of a strict conditional whose necessity varies depending on the antecedent can be found in Chellas (1975) and Segerberg (1989), who describe a conditional $A>B$ as a relative modality, namely a sententially indexed modality $\Box_{A}B$, with the corresponding accessibility relation $R_{\lvert A\rvert^{M}}$ for every sentence $A$. A relative-modality frame or *rm-frame* can be defined as a pair $\langle W, R\rangle$ where $R$ is a ternary relation on $W\times W\times \cP(W)$. In practice we can write $R_Uvw$ instead of $RvwU$, and see $R$ as assigning a binary relation over worlds relative to a proposition $U$. An *rm-model* is a triple $M = \langle W, R, V\rangle$ such that $\langle W, R\rangle$ is an rm-frame and $V$ a valuation function. Given an rm-model $M$, the truth condition for the conditional is this:
 
@@ -148,7 +148,7 @@ $$\tag*{(VSC)-rm } \begin{align} \ M, w \Vdash A >B & \quad\text{iff}\ \text{for
 
 Note that $R$ could be defined on $W\times W\times L_2$, letting $R_A(w)$ depend on the syntactic form of $A$ (instead of the proposition $\lvert A\rvert^M$ expressed by $A$). The main effect of this modification is to block the substitution of equivalent antecedents, a feature called for by several theorists on separate grounds (see section 3.5).
 
-Selection functions
+##### Selection functions
 
 An equivalent definition is in terms of selection functions (Stalnaker 1968; Nute 1980)[^nute-1980][^stalnaker-1968]. An *sf-frame* is a pair $\langle W, f\rangle$ where $W$ is a non-empty set of *possible worlds* and $f: W \times \cP(W) \to \cP(W)$ is a function taking a world and a proposition (i.e., a set of worlds) and yielding a proposition. $f$ is called the *selection function* of the model, and intuitively $v \in f(w,U)$, where $U\subseteq W$, means that world $v$ is a world in $U$ that is (in some sense) *closest* or *most similar* to $w$, as compared to all the other worlds in $U$. The correspondence with the previous approach is straightforward, if we let $f(w,\lvert A\rvert^M)$ coincide with $R_{\lvert A\rvert^M}(w)$. An *sf-model* is a triple $M = \langle W, f, V\rangle$ such that $\langle W, f\rangle$ is an sf-frame and $V$ is a valuation function. The truth condition for the variably strict conditional becomes:
 
@@ -156,7 +156,7 @@ $$\tag*{(VSC)-sf} \begin{align} \ M, w \Vdash A >B & \quad\text{iff}\ \text{for 
 
 As with rm-frames, the definition of an sf-frame can be modified to let $f$ depend on $w$ and $A$, instead of $\lvert A\rvert^M$.
 
-Similarity orderings
+##### Similarity orderings
 
 There is a closely related alternative to this set-up which uses comparative similarity orderings in place of selection functions (D. Lewis 1973; Burgess 1981)[^burgess-1981][^lewis-1973]. Here, an *o-frame* is a pair $\langle W, \prec \rangle$ where $W$ is a non-empty set of *possible worlds* and $\prec$ is a ternary relation on the set of worlds, assumed to be transitive and irreflexive relative to its first argument. The relation $u \prec_w v$ is supposed to mean that world $u$ is (in some sense) *more similar* or *closer* to $w$ than world $v$. Let $R(w) := \{y\in W: \exists z \in W(y\prec_wz)\}$. This corresponds to the set of accessible worlds from $w$. An *o-model* is a triple $\langle W, \prec, V\rangle$ such that $\langle W, \prec\rangle$ is an o-frame, and $V$ is a valuation function. We use the abbreviation $\lvert A\rvert^M_w := \lvert A\rvert^M \cap R(w)$, and let $min_{\prec_{w}}(U)$ denote the $U$-worlds most similar to $w$ (such that no $U$-world is strictly more similar to $w$). A simple form of the truth-condition for the variably strict conditional reads as follows:
 
@@ -174,7 +174,7 @@ $M, w \Vdash A >B\quad $ iff for all $v \in \lvert A\rvert^M_w$ there is a $u\in
 
 This intuitively means that the $A\wedge \neg B$ worlds are more remote from $w$ than the $A\wedge B$-worlds.
 
-Comparisons
+##### Comparisons
 
 First of all, it is easy to see how all three semantics can invalidate inferences like (1) and (2), which assume Transitivity. In an o-model, for example, from
 

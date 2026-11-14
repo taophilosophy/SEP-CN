@@ -124,7 +124,7 @@ Hence, altought the idea of an *ens realissimum* is a legitimate and indeed nece
 
 #### 3.1.2 Kant’s critique of the traditional arguments for God’s existence
 
-3.1.2.1 Ontological Argument
+##### 3.1.2.1 Ontological Argument
 
 According to the Ontological Argument, the concept of the most real being contains the predicate of existence. Whatever it is that is this most real being, it must include all predicates that contribute to its greatness or reality; and given that actual existence is (allegedly) one such predicate, whatever it is that is the most real being is therefore a being who by definition must exist. Hence, if one were to compare two beings, both equally great in all respects except that one exists and one does not, the one that does not exist, by virtue of its non-existence, would lack a predicate that contributes to the greatness of the other. The correct conception of *that than which nothing greater can be conceived* must, therefore, include existence.
 
@@ -154,11 +154,11 @@ Accordingly, Anderson’s argument is intended to reflect Kant’s conclusion fr
 
 > the supposition that <existence> would determine the concept of a thing is incompatible with its logical function of a modal category, which is to separate the actual objects from the merely possible ones *without altering the contents of the things’ concepts*. (Anderson 2015: 322)[^anderson-2015]
 
-3.1.2.2 Cosmological Argument
+##### 3.1.2.2 Cosmological Argument
 
 Kant further contends that the Cosmological Argument hides a “nest of dialectical presumptions” (A609/B637) and, ultimately, is parasitic on the Ontological. He demonstrates this by taking Leibniz’s Modal Argument from the contingency of the world as emblematic of all other Cosmological Arguments. This argument contends that: “If something exists, an absolutely necessary being also has to exist. Now I myself, at least exist; therefore, an absolutely necessary being exists” (A604/B633). However, according to Kant, any such inference illegitimately attempts to employ the concept of causality beyond the scope of exprience, unjustifiably assumes the completeness of a series of conditions that begins from within experience and so must remain within it, and presumptously claims to have arrived at the concept of a necessary being as the unconditioned when the only concept we have of necessity is that based upon a condition. What is more, even if one were to overlook these flaws, the concept of an absolutely necessary being is empty unless one can also show that it is somehow identical with that of a most real being. According to Kant, it is impossible to show this from the mere concept of absolute necessity. Hence, the argument must take the reverse path; it must show that the concept of the most real being alone is suitable to be the absolutely necessary being. Now, this would be the case if the existence of such a being depended only upon its own concept or essence. This returns us to the Ontological Argument, or at least to the objectionable idea at its heart, since the necessary being that the Cosmological Argument proposes can only be demonstrated to be the most real being, and hence God, if the latter is a being whose essence can be shown to involve existence. The Cosmological Argument thus falls along with the Ontological.
 
-3.1.2.3 Physico-Theological Argument
+##### 3.1.2.3 Physico-Theological Argument
 
 Kant’s assessment of the Physico-Theological (Design) Argument is substantially different from his treatment of the other two classic proofs. While he still contends that it, like the Cosmological Argument, remains ultimately grounded upon the Ontological Argument’s assumption that existence is a predicate, this objection does not fully undo the force of the Physico-Theological Argument. Kant instead expresses sympathy for this argument, writing, for instance, that it “always deserves to be mentioned with respect” (A623/B651) and that it is “the oldest, the clearest, and the most accordant with the common reason of mankind” (A623/B651). He further claims that the argument *succeeds* in at least establishing “an *architect* of the world” and a cause “proportioned” to the order of nature. So, up to this point in the argument, he writes, “we have nothing to bring against the rationality and utility of this procedure, but have rather to commend it further” (A624/B652). What Kant cannot accept, however, is its advance from a “Wise Author of Nature” to an infinite creator. When it moves from architect to creator, it proposes an “original” and “supreme” cause, and in so doing, it calls for a being whose existence depends upon nothing but itself. This returns us to the Cosmological/Modal argument, and thus to its dependency on the Ontological. Despite the failure of the argument to establish the existence of an infinite creator, Kant does not abandon the relevance, particularly the regulative relevance of the idea of a “Wise Author of Nature” for the natural sciences, a point he repeats in both the Appendix to the Transcendental Dialectic and in the Canon of Pure Reason. However, in this context, it retains immediate theological import but is instead merely a guiding idea for the systematic development of empirical knowledge.
 
@@ -204,15 +204,15 @@ Moreover, Kant sees faith, unlike knowledge, as engaging with our will, calling 
 
 Although Kant’s presentation of faith as a legitimate mode of “holding-to-be-true” is consistently maintained through the Critical period’s published corpus, some Kantians have opted to develop interpretations which dismiss or overlook such discussions. We will now briefly compare four different stances on religious assent in Kant.
 
-3.3.1.1 A mistake for Kant
+##### 3.3.1.1 A mistake for Kant
 
 Some scholars hold that we should mostly ignore what Kant has to say about the core articles of religious faith (the so-called “postulates” of pure practical reason), and, consequently, the positive part of his religious philosophy. This is either because the postulates are taken as hold-overs from Kant’s pre-Critical period that are in fact incompatible with his Critical philosophy (Allison 1990)[^allison-1990], or because the philosophical reasoning involving them is so bad as to be irrelevant to what makes Kant an important philosopher (Rawls 2000)[^rawls-2000]. Regardless of whether the postulates are a hold-over or simply poorly supported, the result is the same: for scholars who take this view, it is not important to have a detailed understanding of the attitudes involved in postulation, as they aren’t key to understanding what is valuable about Kant’s philosophy.
 
-3.3.1.2 Only as a mere symbol (useful representation but no assent)
+##### 3.3.1.2 Only as a mere symbol (useful representation but no assent)
 
 A second position that may be understood as an attempt to reconcile Transcendental Idealism with Kant’s philosophy of religion is to replace what he says about assent with a non-doxic attitude where religious concepts, rather than objects of belief, are instead taken as regulative ideals or representations of moral principles (Davidovich 1993, Henrich 1999, DiCenso 2012)[^davidovich-1993][^dicenso-2012][^henrich-1999]. While there are many passages in the Critical period where Kant promotes assent, this is a view in line with some fasciles of the *Opus Postumum*. Guyer (2005), for example, maintains that rather than the *Opus Postumum* reflecting a break from Kant’s Critical stance on religious assent, it instead finally brings the true character of his position to light.
 
-3.3.1.3 Needed assent on practical grounds
+##### 3.3.1.3 Needed assent on practical grounds
 
 The most widespread view in recent scholarship is one that corresponds with the works of Stevenson (2003), Chignell (2007), and Pasternack (2011). It also has earlier adherents, including Beck (1960) and Wood (1970). Although there are interpretative differences among these figures, there is a shared recognition that Kant does regard actual assent (holding-to-be-true) as having its ground in our moral interests, as driven by a “need” or the “needs” of practical reason.
 

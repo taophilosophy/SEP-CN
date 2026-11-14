@@ -287,11 +287,11 @@ together with
 
 We can divide the central critical questions for Williamson’s counterfactual theory based on whether they target (*Epistemic Pathway*) or (*Logical Equivalence*) more specifically. We start with the latter.
 
-Against (*Logical Equivalence*)
+##### Against (*Logical Equivalence*)
 
 **The Counterpossibles Question:** Some philosophers question Williamson’s purported logical equivalence between counterfactual statements and modal statements (Berto, French, Priest, & Ripley 2018; Jago 2021)[^berto-2018][^berto-2018-2][^jago-2021]. Particularly, in order for (NEC) to hold, one has to accept that all counterpossibles (namely counterfactual conditionals with impossible antecedents) are vacuously true. But this is controversial. Many have given arguments defending false counterpossibles based on modal semantics that include impossible worlds (e.g., Berto et al. 2018; Brogaard & Salerno 2013; Jago 2013; Nolan 1997; Restall 1997)[^berto-2018][^berto-2018-2][^brogaard-2013][^jago-2013][^nolan-1997][^restall-1997]. Questioning the truth of Williamson’s logical equivalences might constitute a challenge for the overall theory of modal knowledge, since, as we saw, (*Epistemic Pathway*) is partly based on (*Logical Equivalence*).
 
-Against (*Epistemic Pathway*)
+##### Against (*Epistemic Pathway*)
 
 **The Epistemic Fallacy Question:** Some contend that even if Williamson’s purported equivalences are true, it doesn’t follow that we know metaphysical modality through the same cognitive processes by which we know counterfactual conditionals (Jenkins 2008; Casullo 2012b; for discussion see Yli-Vakkuri 2013)[^casullo-2012b][^jenkins-2008][^yli-vakkuri-2013]. Modal reasoning might well require using different cognitive-epistemic methods than those we supposedly employ in counterfactual reasoning. For example, imagination might not play an epistemic role in the acquisition of modal knowledge. Appealing to a logical equivalence, while perhaps necessary, is not sufficient for establishing the correct epistemology. Otherwise put, (*Logical Equivalence*) doesn’t suffice for (*Epistemic Pathway*).
 

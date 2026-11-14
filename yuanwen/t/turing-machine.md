@@ -129,7 +129,7 @@ Here the supposed addition machine takes two arguments representing the numbers 
 
 A machine must finish in standard configuration too. There must be a single block of symbols (a sequence of 1s representing some number or a symbol representing another kind of output) and the machine must be scanning the leftmost symbol of that sequence. If the machine correctly computes the function then this block must represent the correct answer.
 
-Addition of two numbers *n* and *m*
+##### Addition of two numbers *n* and *m*
 
 Table 4 gives the transition table of a Turing machine $T_{\textrm{Add}_2}$ which adds two natural numbers *n* and *m*. We assume the machine starts in state $q_1$ scanning the leftmost 1 of the $n+1$ 1s representing *n*.
 
@@ -148,7 +148,7 @@ The idea of doing an addition with Turing machines when using unary representati
 
 *Figure 4:* The computation of $3+4$ by $T_{\textrm{Add}_2}$ (The animation can be started by clicking on the picture and then using the left and right arrows to move through it.) A full simulation, with the possibility of changing the input and the behavior, can be found [here](https://www.turingmachine.io/?import-gist=9d3685d569594da278897b7c1f1f488c) [An extended description of figure 4 is in the supplement.]
 
-Addition of *n* numbers
+##### Addition of *n* numbers
 
 We can generalize $T_{\textrm{Add}_2}$ to a Turing machine $T_{\textrm{Add}_i}$ for the addition of an arbitrary number *i* of integers $n_1, n_2,\ldots, n_j$. We assume again that the machine starts in state $q_1$ scanning the leftmost 1 of $n_1+1$ 1s. The transition table for such a machine $T_{\textrm{Add}_i}$ is given in Table 5.
 
@@ -356,31 +356,31 @@ If we now set $T_i$ to $T_D$ we end up with a contradiction: if $T_D$ halts it m
 
 As is clear from Sections 1.1 and 1.2, there is a variety of definitions of the Turing machine. One can use a quintuple or quadruple notation; one can have different types of symbols or just one; one can have a two-way infinite or a one-way infinite tape; etc. Several other less obvious modifications have been considered and used in the past. These modifications can be of two kinds: generalizations or restrictions. These do not result in “stronger” or “weaker” models. Viz. these modified machines compute no more and no less than the Turing computable functions. This adds to the robustness of the Turing machine definition.
 
-Binary machines
+##### Binary machines
 
 In his short 1936 note Post considers machines that either mark or unmark a square which means we have only two symbols $S_0$ and $S_1$ but he did not prove that this formulation captures exactly the Turing computable functions. It was Shannon who proved that for any Turing machine *T* with *n* symbols there is a Turing machine with two symbols that simulates *T* (Shannon 1956)[^shannon-1956][^shannon-1956-2]. He also showed that for any Turing machine with *m* states, there is a Turing machine with only two states that simulates it.
 
-Non-erasing machines
+##### Non-erasing machines
 
 Non-erasing machines are machines that can only overprint $S_0$. In Moore 1952, it was mentioned that Shannon proved that non-erasing machines can compute what any Turing machine computes. This result was given in a context of actual digital computers of the 50s which relied on punched tape (and so, for which, one cannot erase). Shannon’s result however remained unpublished. It was Wang who published the result (Wang 1957)[^wang-1957].
 
-Non-writing machines
+##### Non-writing machines
 
 It was shown by Minsky that for every Turing machine there is a non-writing Turing machine with two tapes that simulates it (Minsky 1961, 438–445)[^minsky-1961]
 
-Multiple tapes
+##### Multiple tapes
 
 Instead of one tape one can consider a Turing machine with multiple tapes. This turned out the be very useful in several different contexts. For instance, Minsky, used two-tape non-writing Turing machines to prove that a certain decision problem defined by Post (the decision problem for tag systems) is non-Turing computable (Minsky 1961)[^minsky-1961]. Hartmanis and Stearns then, in their founding paper for computational complexity theory, proved that any *n*-tape Turing machine reduces to a single tape Turing machine and so anything that can be computed by an *n*-tape or multitape Turing machine can also be computed by a single tape Turing machine, and conversely (Hartmanis & Stearns 1965)[^hartmanis-1965]. They used multitape machines because they were considered to be closer to actual digital computers.
 
-*n*-dimensional Turing machines
+##### *n*-dimensional Turing machines
 
 Another variant is to consider Turing machines where the tape is not one-dimensional but *n*-dimensional. This variant too reduces to the one-dimensional variant.
 
-Non-deterministic machines
+##### Non-deterministic machines
 
 An apparently more radical reformulation of the notion of Turing machine is that of non-deterministic Turing machines. As explained in 1.1, one fundamental condition of Turing’s machines is the so-called determinacy condition, viz. the idea that at any given moment, the machine’s behavior is completely determined by the configuration or state it is in and the symbol it is scanning. Next to these, Turing also mentions the idea of choice machines for which the next state is not completely determined by the state and symbol pair. Instead, some external device makes a random choice of what to do next. Non-deterministic Turing machines are a kind of choice machines: for each state and symbol pair, the non-deterministic machine makes an arbitrary choice between a finite (possibly zero) number of states. Thus, unlike the computation of a deterministic Turing machine, the computation of a non-deterministic machine is a tree of possible configuration paths. One way to visualize the computation of a non-deterministic Turing machine is that the machine spawns an exact copy of itself and the tape for each alternative available transition, and each machine continues the computation. If any of the machines terminates successfully, then the entire computation terminates and inherits that machine’s resulting tape. Notice the word successfully in the preceding sentence. In this formulation, some states are designated as *accepting states* and when the machine terminates in one of these states, then the computation is successful, otherwise the computation is unsuccessful and any other machines continue in their search for a successful outcome. The addition of non-determinism to Turing machines does not alter the extent of Turing-computability. Non-determinism was introduced for finite automata in the paper, Rabin & Scott 1959, where it is also shown that adding non-determinism does not result in more powerful automata. Non-deterministic Turing machines are an important model in the context of computational complexity theory.
 
-Weak and semi-weak machines
+##### Weak and semi-weak machines
 
 Weak Turing machines are machines where some word over the alphabet is repeated infinitely often to the left and right of the input. Semi-weak machines are machines where some word is repeated infinitely often either to the left or right of the input. These machines are generalizations of the standard model in which the initial tape contains some finite word (possibly nil). They were introduced to determine smaller universal machines. Watanabe was the first to define a universal semi-weak machine with six states and five symbols (Watanabe 1961)[^watanabe-1961]. Recently, a number of researchers have determined several small weak and semi-weak universal Turing machines (e.g., Woods & Neary 2007; Cook 2004)[^cook-2004][^woods-2007]
 
