@@ -153,6 +153,7 @@ def advance(slug, step, actor, evidence, unblock=False):
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     if step == "audit" and task.get("kind") != "glossary-maintenance":
         _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
+        _audit_independence_gate(task, actor, evidence)  # 同源盲区对冲（specs/027 FR-001）
     task["state"] = STEPS[step]
     task["steps"].append({"step": step, "status": "ok", "actor": actor,
                           "at": utcnow_iso(), "evidence": evidence})
@@ -165,6 +166,24 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+def _audit_independence_gate(task, actor, evidence):
+    """audit 校次独立性机检（rules/04“同源盲区对冲”、specs/004 W11、specs/027 FR-001）。
+
+    审计 actor 与初译 actor（retranslate 取 draft、update 取 s1）相同时，属同源盲区
+    高危形态，evidence 须记明“冷置”回读或“密度”统计补偿；否则拒绝。旧任务缺首写步
+    则跳过（不强溯）。
+    """
+    first = "draft" if task.get("kind") == "retranslate" else "s1"
+    writer = next((s.get("actor") or "" for s in task.get("steps", [])
+                   if s.get("step") == first), None)
+    if not writer or actor != writer:
+        return
+    if "冷置" not in (evidence or "") and "密度" not in (evidence or ""):
+        raise PreconditionError(
+            "审计独立性未满足：audit 与初译 actor（%s）相同，evidence 须记明"
+            "“冷置”回读或“密度”统计补偿（rules/04 同源盲区对冲；specs/004 W11）" % writer)
 
 
 def _audit_gate(zh_doc):

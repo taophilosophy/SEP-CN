@@ -87,5 +87,21 @@ class TestCheckProse(unittest.TestCase):
         self.assertEqual(run(md), [])
 
 
+    def test_tense_adverb(self):
+        # 2026-11-14 扩项（specs/027 FR-002）：曾于/已于+纪年，时态词冗余
+        self.assertIn("tense-adverb", rules(run(
+            "他曾于 1916 年担任校长，并已于 1927 年辞去职务。\n")))
+
+    def test_conj_he_verb(self):
+        # 2026-11-14 扩项：并列连词“和”连接动词对（余光中判例 8：年老和常病类）
+        self.assertIn("conj-he-verb", rules(run(
+            "委员会讨论和通过了这项提案。\n")))
+
+    def test_chenggong_de(self):
+        # 2026-11-14 扩项：“成功地”既成即冗余（余光中：凡做到的都要加上成功地岂不累人）
+        self.assertIn("chenggong-de", rules(run(
+            "孙中山成功地推翻了旧制度。\n")))
+
+
 if __name__ == "__main__":
     unittest.main()
