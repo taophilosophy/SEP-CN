@@ -235,3 +235,15 @@
 | bradley-moral | ethical-1951 `(Note: This volume omits Essays I, VI, VII.]` | `…VII.)` | 括号不配对（①） |
 | bradley-moral | collected-1999 `Appearance ana Reality` / `Volume11:` | `and` / `Volume 11:` | 拼写与缺空格（①） |
 | bradley-moral | ce-1901 `CE II.387&ndash;407 doi:` | 补句点 | 排印（①） |
+| arabic-islamic-phil-math | `Avicenna (d. 937)` | `(d. 1037)` | 阿维森纳卒年（②①） |
+| arabic-islamic-phil-math | `mutikallim&#363;n` | `mutakallim&#363;n` | 拼写（①） |
+| arabic-islamic-phil-math | `Printing House of the Egyption Library` | `Egyptian` | 拼写（①） |
+| arabic-islamic-phil-math | bertolacci-2006 `al-&Scaron;if&#257;&#417;` | `&#702;`（al-Šifāʾ） | 组合字符 OCR（①） |
+| arabic-islamic-phil-math | gutas-2001 `in Wisnovsky 2001:, 1–38` | `2001: 1–38` | 冒号错位（①） |
+| arabic-islamic-phil-math | kiankhah-2015 `Sophia Prennis` | `Sophia Perennis` | 刊名拼写（①） |
+| arabic-islamic-phil-math | rashed-2015 `Al-Khwar&#299;zm&#299;` | `al-Khw&#257;rizm&#299;` | 转写正字（①） |
+| arabic-islamic-phil-math | samaw’al-1972 `Université de Damascus` | `Université de Damas` | 机构正名（①） |
+| arabic-islamic-phil-math | suhrawardī-1999 `(eds/)` | `(eds.)` | 残缺标点（①） |
+| arabic-islamic-phil-math | berggren-2016 `Berggren, 2016` | `Berggren, J. L., 2016` | 缺名首字母（①） |
+| arabic-islamic-phil-math | goodman-1992 条末缺句点 | 补句点 | 排印（①） |
+| arabic-islamic-phil-math | `[Mph]`（两处）与 `[MPh]` | 统一 `[MPh]` | 同页缩写两体（②） |
