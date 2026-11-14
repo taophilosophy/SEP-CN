@@ -2,10 +2,256 @@
  "key": "constantine africanus",
  "term": "Constantine Africanus",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T19:08:05+00:00",
- "status": "error",
- "note": "variant=Constantine Africanus; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Constantine Africanus: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:13:24+00:00",
+ "status": "ok",
+ "note": "variant=Constantine Africanus; 审定公布名词库=47; 海峡两岸名词对照库=17; 其他来源数据库=5; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "百子莲",
+   "en": "African lily; Agapanthus africanus （L.)",
+   "code": "05.416",
+   "standard": "农学名词",
+   "subject": "园艺作物_花卉作物"
+  },
+  {
+   "cn": "君士坦丁改革",
+   "en": "Reforms of Constantine I the Great",
+   "code": "02.0487",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_罗马"
+  },
+  {
+   "cn": "康铜",
+   "en": "constantan",
+   "code": "02.011",
+   "standard": "电气工程名词",
+   "subject": "电气工程_导电材料及半导体材料"
+  },
+  {
+   "cn": "康铜合金",
+   "en": "constantan alloy",
+   "code": "08.0529",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属材料_功能材料"
+  },
+  {
+   "cn": "康铜",
+   "en": "constantan alloy",
+   "code": "02.0615",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_金属材料_有色金属材料_铜及其合金"
+  },
+  {
+   "cn": "非洲分枝杆菌",
+   "en": "Mycobacterium africanum",
+   "code": "03.1135",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_细菌感染"
+  },
+  {
+   "cn": "非洲分枝杆菌",
+   "en": "Mycobacterium africanum",
+   "code": "02.006",
+   "standard": "结核病学名词",
+   "subject": "结核病学_结核病病原菌及发病机制_病原菌"
+  },
+  {
+   "cn": "铜-康铜温差电偶",
+   "en": "copper-constantan thermocouple",
+   "code": "08.1505",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "美洲钩虫病",
+   "en": "ancylostomiasis americanus",
+   "code": "06.100",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_寄生虫病学"
+  },
+  {
+   "cn": "非洲板块",
+   "en": "African plate",
+   "code": "10.02.004",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_主要大地构造单元"
+  },
+  {
+   "cn": "非洲锥虫病",
+   "en": "African trypanosomiasis",
+   "code": "12.226",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医寄生虫学"
+  },
+  {
+   "cn": "非洲联盟",
+   "en": "African Union",
+   "code": "01.0524",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国家集团、国际组织"
+  },
+  {
+   "cn": "西尔弗斯特里",
+   "en": "Silvestri\",\"Constantin(英国（罗马尼亚裔）)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "康铜",
+   "en": "constantan\",\"constantan alloy",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "利亚多夫，康斯坦丁",
+   "en": "Lyadov\",\"Konstantin(俄国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "非洲急流",
+   "en": "African jet",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "非洲东风波",
+   "en": "African Easterly Wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "非洲开发银行",
+   "en": "African Development Bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "东非地堑",
+   "en": "East African Graben",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "非洲界(非洲区)",
+   "en": "Afrotropical Realm\",\"African Realm",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "东非沿岸流",
+   "en": "East African coastal current",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "西非关税同盟",
+   "en": "West African Customs Union",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "西非货币联盟",
+   "en": "West African Monetary Union",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "东非裂谷",
+   "en": "East African Rift Valley",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "南部非洲关税同盟",
+   "en": "Southern African Customs Union",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "南部非洲发展共同体",
+   "en": "Southern African Development Community",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "非洲地区标准化组织",
+   "en": "African Regional Standards Organization (ARSO)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "非洲统一组织",
+   "en": "Organization of African Unity;Organisation de l'Unité Africaine",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《网络安全和个人数据保护公约》（非洲联盟）",
+   "en": "Convention on Cyber Security and Personal Data Protection (African Union)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "中非人",
+   "en": "Central African",
+   "code": "6.0209",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_非洲地区"
+  },
+  {
+   "cn": "非洲社会主义",
+   "en": "African socialism",
+   "code": "05.0257",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "南非人",
+   "en": "South African",
+   "code": "6.0244",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_非洲地区"
+  },
+  {
+   "cn": "非洲科学社会主义",
+   "en": "African scientific socialism",
+   "code": "05.0259",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "泛非工人大会",
+   "en": "pan African workers congress",
+   "code": "05.0261",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "非洲工会统一组织",
+   "en": "organization of African trade union unity",
+   "code": "05.0260",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  }
+ ],
+ "error": null,
  "raw": null
 }

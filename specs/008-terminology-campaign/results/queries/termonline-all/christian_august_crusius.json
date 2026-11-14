@@ -2,10 +2,347 @@
  "key": "christian august crusius",
  "term": "Christian August Crusius",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T18:24:10+00:00",
- "status": "error",
- "note": "variant=Christian August Crusius; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Christian August Crusius: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:13:24+00:00",
+ "status": "ok",
+ "note": "variant=Christian August Crusius; 审定公布名词库=236; 海峡两岸名词对照库=66; 其他来源数据库=14; 预公布名词数据库=35; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "八月法令",
+   "en": "August Decrees",
+   "code": "03.0464",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_法国"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "christian socialism",
+   "code": "14.093",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "Christian Socialism",
+   "code": "01.0067",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际共产主义运动"
+  },
+  {
+   "cn": "基督教原教旨主义",
+   "en": "Christian Fundamentalism",
+   "code": "03.0145",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "共和三年宪法",
+   "en": "Constitution of 22 August 1795",
+   "code": "03.0489",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_法国"
+  },
+  {
+   "cn": "早期基督教建筑",
+   "en": "early Christian architecture",
+   "code": "03.0268",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19世纪末叶以前建筑"
+  },
+  {
+   "cn": "天主教民主党",
+   "en": "Christian Democratic Party",
+   "code": "03.0705",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_意大利"
+  },
+  {
+   "cn": "基督教异端派别",
+   "en": "Christian Heresy Faction",
+   "code": "02.0627",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "基督教会大分裂",
+   "en": "Christian Great Schism",
+   "code": "01.0641",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "复发性结节性非化脓性脂膜炎",
+   "en": "Weber-Christian disease",
+   "code": "03.034",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_风湿病学"
+  },
+  {
+   "cn": "老挝八月革命",
+   "en": "August Revolution in Laos",
+   "code": "04.0235",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚"
+  },
+  {
+   "cn": "印度尼西亚八月革命",
+   "en": "August Revolution in Indonesia",
+   "code": "04.0301",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚"
+  },
+  {
+   "cn": "威廉米",
+   "en": "Wilhelmj\",\"August(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "弗朗肖姆",
+   "en": "Franchomme\",\"Auguste(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "佩措尔德",
+   "en": "Petzold\",\"Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "辛丁",
+   "en": "Sinding\",\"Christian(挪威)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "费拉斯",
+   "en": "Ferras\",\"Christian(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "卡尔克布伦纳，克里斯蒂安",
+   "en": "Kalkbrenner\",\"Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克伦格尔，奥古斯特",
+   "en": "Klengel\",\"August Alexander(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "尼尔森，卡尔·奥古斯特",
+   "en": "Nielsen\",\"Carl August(丹麦)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "里特尔，奥古斯特",
+   "en": "Ritter\",\"August Gottfried(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪朗，玛丽-奥古斯特",
+   "en": "Durand\",\"Marie Auguste(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "沃尔夫，赫尔穆特",
+   "en": "Wolff\",\"Hellmuth Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴赫，约翰·克里斯蒂安",
+   "en": "Bach\",\"Johann Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "电位差计",
+   "en": "Johann Christian Poggendorff",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "楔状软骨",
+   "en": "cuneiform cartilages；cunei- ：cunei()；（Heinrich August Wrisberg",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "念珠菌属",
+   "en": "Christine Marie Berkhout",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "调整",
+   "en": "adjust\",\"tune\",\"adjustment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "波斯尼亚危机",
+   "en": "Bosnian Crisis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融危机",
+   "en": "financial crisis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "股癣",
+   "en": "tinea cruris",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "调整球",
+   "en": "adjust a poor pass",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "调桨",
+   "en": "adjust\",\"adjustment\",\"oaring\",\"rigging adjustability",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "伊朗人质危机",
+   "en": "Iran hostage crisis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阵风",
+   "en": "gust of wind",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "基督教",
+   "en": "Christianity",
+   "code": "1.0313",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "Christian socialism",
+   "code": "04.0312",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "code": "04.0528",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_中国化的马克思主义时期"
+  },
+  {
+   "cn": "犹太教-基督教信仰",
+   "en": "Judeo-Christian beliefs",
+   "code": "4.4.5.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的价值观"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "code": "1.137",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派"
+  },
+  {
+   "cn": "苏联事件",
+   "en": "Soviet Union August th Event",
+   "code": "04.0250",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_列宁斯大林时期"
+  },
+  {
+   "cn": "调节生产",
+   "en": "adjust production",
+   "code": "03.0181",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "code": "7.2.2.25.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "code": "7.2.2.25.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预"
+  },
+  {
+   "cn": "社会危机",
+   "en": "social crisis",
+   "code": "2.1.4.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "合法性危机",
+   "en": "legitimation crisis",
+   "code": "3.6.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "code": "4.3.1.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  }
+ ],
+ "error": null,
  "raw": null
 }

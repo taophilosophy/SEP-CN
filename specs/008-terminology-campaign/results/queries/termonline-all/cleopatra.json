@@ -2,10 +2,18 @@
  "key": "cleopatra",
  "term": "Cleopatra",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T18:45:30+00:00",
- "status": "error",
- "note": "variant=Cleopatra; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Cleopatra: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:13:24+00:00",
+ "status": "ok",
+ "note": "variant=Cleopatra; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "克娄巴特拉七世",
+   "en": "Cleopatra Ⅶ",
+   "code": "02.0121",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_北非"
+  }
+ ],
+ "error": null,
  "raw": null
 }
