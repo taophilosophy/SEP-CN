@@ -159,6 +159,11 @@ def check_line(path, lineno, line, issues):
             if ch in "\"''｢｣＂＇「」『』":
                 issues.append({"path": path, "line": lineno, "rule": "curly-quotes",
                                "detail": "非法引号字符 %r: %s" % (ch, seg.strip()[:40])})
+        # quote-spacing（2026-11-15 O2，rules/02 引号条款：引号与西文/数字之间须有半角空格；
+        # 作用于词内撇号/所有格遮蔽后的 stripped——NP‘the 类邻接在此现形）
+        for m in re.finditer(r"[A-Za-z0-9][\u201c\u2018]|[\u201d\u2019][A-Za-z0-9]", stripped):
+            issues.append({"path": path, "line": lineno, "rule": "quote-spacing",
+                           "detail": "引号与西文/数字之间缺半角空格: …%s…" % stripped[max(0, m.start() - 8):m.end() + 8]})
         for lo, hi in (("\u201c", "\u201d"), ("\u2018", "\u2019")):
             depth = 0
             for ch in stripped:

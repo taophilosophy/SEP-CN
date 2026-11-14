@@ -7,10 +7,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8731,
-  "一致": 1309,
-  "不一致": 797,
-  "未查证": 45
+  "查无": 8740,
+  "一致": 1314,
+  "不一致": 793,
+  "未查证": 35
  },
  "results": [
   {
@@ -99404,9 +99404,9 @@
    "table": "术语",
    "line": 4613,
    "term": "quantum gate",
-   "trans": "量子门",
-   "basis": "学界通行译名（量子计算文献）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "量子门（亦作“量子逻辑门”）",
+   "basis": "学界通行译名（量子计算文献）；凭证 2026-11-09；2026-11-15 补亦作（审定全称形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -99467,10 +99467,17 @@
      "cn": "量子相移门",
      "en": "quantum phase shift gate",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "量子逻辑门",
+     "en": "quantum gate",
+     "source": "审定全称形；通行“量子门”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -100246,19 +100253,26 @@
    "table": "术语",
    "line": 4627,
    "term": "quasi-empiricism",
-   "trans": "准经验主义",
-   "basis": "数学基础研究通行译法；凭证 2026-11-06",
-   "status": "不一致",
+   "trans": "准经验主义（亦作“数学拟经验论”）",
+   "basis": "数学基础研究通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形，拟经验/准经验并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "数学拟经验论",
      "en": "quasi-empiricism in mathematics",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "数学拟经验论",
+     "en": "quasi-empiricism",
+     "source": "审定形；Lakatos 文献“准经验主义/拟经验主义”并行"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -100914,19 +100928,26 @@
    "table": "术语",
    "line": 4673,
    "term": "rational reconstruction",
-   "trans": "合理重构",
-   "basis": "科学哲学界通行译法；凭证 2026-11-06",
-   "status": "不一致",
+   "trans": "合理重构（亦作“理性重建”）",
+   "basis": "科学哲学界通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形，合理重构/理性重构并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "理性重建",
      "en": "rational reconstruction",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "理性重建",
+     "en": "rational reconstruction",
+     "source": "审定形；通行“合理重构/理性重构”（Carnap）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -105644,19 +105665,26 @@
    "table": "术语",
    "line": 4874,
    "term": "risk-benefit analysis",
-   "trans": "风险—收益分析",
-   "basis": "学界惯例（RBA；与 cost-benefit analysis 成本—收益分析并列）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "风险—收益分析（亦作“风险获益分析”）",
+   "basis": "学界惯例（RBA；与 cost-benefit analysis 成本—收益分析并列）；凭证 2026-11-09；2026-11-15 补亦作（审定形，一字线归一）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "风险-获益分析",
      "en": "risk-benefit analysis",
      "source": "食品卫生学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "风险获益分析",
+     "en": "risk-benefit analysis",
+     "source": "审定形；通行“风险—收益分析”（一字线）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -108817,9 +108845,9 @@
    "table": "术语",
    "line": 5037,
    "term": "second intention",
-   "trans": "第二意向",
-   "basis": "学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08",
-   "status": "不一致",
+   "trans": "第二意向（亦作“第二意图”）",
+   "basis": "学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定形，两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -108832,10 +108860,17 @@
      "cn": "第二意图进攻",
      "en": "attack on second intention",
      "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "第二意图",
+     "en": "second intention",
+     "source": "审定形；经院逻辑通行“第二意向”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -166839,9 +166874,11 @@
    "term": "Longfellow, Henry Wadsworth",
    "trans": "亨利·沃兹沃斯·朗费罗",
    "basis": "学界千年通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -168214,9 +168251,60 @@
    "term": "Li Si",
    "trans": "李斯",
    "basis": "上游自带汉字（秦丞相，荀子门人）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "硅-锂探测器",
+     "en": "Si-Li detector",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "硅[锂]探测器",
+     "en": "Si [Li] detector",
+     "source": "电子学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "司吏",
+     "en": "si li;staff foreman",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "硅锂半导体探测器",
+     "en": "Si(Li) semiconductor detector",
+     "source": "放射医学与防护名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "四分历",
+     "en": "si fen li;quarter calendar",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "制置三司条例司",
+     "en": "zhi zhi san si tiao li si;finance planning commission",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "硅-锂探测器",
+     "en": "Si-Li detector",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "硅[锂]探测器",
+     "en": "Si [Li] detector",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -168332,9 +168420,11 @@
    "term": "Lieben, Ida von",
    "trans": "伊达·冯·利本",
    "basis": "音译（布伦塔诺第一任妻子，1880 年成婚）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -168481,9 +168571,11 @@
    "term": "Ling Tingkan",
    "trans": "凌廷堪",
    "basis": "上游自带汉字（清代礼学考据家，本词条注 16 例外）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -168997,9 +169089,11 @@
    "term": "Lord Chunshen",
    "trans": "春申君",
    "basis": "上游自带汉字（荀子庇主，战国四公子之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -169091,9 +169185,11 @@
    "term": "Lotze, Hermann",
    "trans": "赫尔曼·洛采",
    "basis": "学界通行汉译（SUMMARY 定名沿用；《微宇宙》作者）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -169637,9 +169733,11 @@
    "term": "Maietti, M. Emilia",
    "trans": "玛丽亚·艾米莉亚·马耶蒂",
    "basis": "音译（类型论学者，propositions-as-monotypes 提出者）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -169647,9 +169745,11 @@
    "term": "Malik-shāh, Jalāl al-Dīn",
    "trans": "贾拉勒丁·马利克沙",
    "basis": "伊斯兰史通行（贾拉利历以其命名；赛尔柱史通行译形）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170425,9 +170525,11 @@
    "term": "Mannoury, Gerrit",
    "trans": "赫里特·曼努里",
    "basis": "学界通行音译（荷兰意义学派创始人、布劳威尔之师）；r2 复核补登（s2 凭证称补 16 行，实缺此行）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -170447,9 +170549,11 @@
    "term": "Mao Heng",
    "trans": "毛亨",
    "basis": "上游自带汉字（《毛诗》传人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

@@ -4610,7 +4610,7 @@
 | quantum cryptography | — | 量子密码学 | qt-entangle | 审定名词库（物理学名词 quantum cryptography）；凭证 2026-11-09 | 2026-11-09 |
 | quantum entanglement | — | 量子纠缠 | qt-entangle | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | Quantum Field Theory | — | 量子场论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
-| quantum gate | — | 量子门 | qt-entangle | 学界通行译名（量子计算文献）；凭证 2026-11-09 | 2026-11-09 |
+| quantum gate | — | 量子门（亦作“量子逻辑门”） | qt-entangle | 学界通行译名（量子计算文献）；凭证 2026-11-09；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
 | quantum gravity | — | 量子引力 | qm-relational | 审定名词库（物理学名词）；凭证 2026-11-11 | 2026-11-11 |
 | quantum information | — | 量子信息 | qt-entangle | 审定名词库通行（物理学名词·量子信息）；凭证 2026-11-09 | 2026-11-09 |
 | quantum information theory | — | 量子信息论 | qt-entangle | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -4624,7 +4624,7 @@
 | Quantum-Bayesian | — | 量子贝叶斯模型 | 语料回收（词汇表并网） | 即 QBism，亦译“量子贝叶斯主义”；词汇表并网（ADR-0036） | 2026-11-13 |
 | quasi-being | — | 准存在 | peter-damian | 构词直译（恶之存在为表面而非真实，Damian 研究文献用法）；凭证 2026-11-09 | 2026-11-09 |
 | quasi-emotion | — | 准情绪 | paradox-of-tragedy | 学界惯例（Walton 虚构理论通行译法）；凭证 2026-11-10 | 2026-11-10 |
-| quasi-empiricism | — | 准经验主义 | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| quasi-empiricism | — | 准经验主义（亦作“数学拟经验论”） | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形，拟经验/准经验并行） | 2026-11-15 |
 | quasi-fideism | — | 准信仰主义 | 首现（religion-epistemology） | Pritchard 术语；凭证 2026-11-08 | 2026-11-08 |
 | quasi-merging operator | — | 准合并算子 | belief-merging | 学界通行（信念合并文献 quasi-）；凭证 2026-11-10 | 2026-11-10 |
 | quaternion | — | 四元数 | peirce-benjamin | 数学通行译名（四元数代数）；凭证 2026-11-09 | 2026-11-09 |
@@ -4670,7 +4670,7 @@
 | rational nature | — | 理性本性 | 首译（stem-cells） | 学界惯例（自然法伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | rational psychology | — | 理性心理学 | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | rational realism | — | 理性实在论（巴尔迪利/莱因霍尔德） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
-| rational reconstruction | — | 合理重构 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| rational reconstruction | — | 合理重构（亦作“理性重建”） | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形，合理重构/理性重构并行） | 2026-11-15 |
 | Rational Ritual | — | 《理性的仪式》（Chwe 2001） | s/social-procedures 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
 | rational soul | — | 理性灵魂 | gersonides | 学界通行（亚里士多德—经院灵魂论） | 2026-11-09 |
 | rational theology | — | 理性神学 | antonio-rosmini | 沃尔夫式形而上学分科通行 | 2026-11-07 |
@@ -4871,7 +4871,7 @@
 | risk neutral | — | 风险中性 | risk | 学界惯例（经济学通行）；凭证 2026-11-09 | 2026-11-09 |
 | risk perception | — | 风险感知（亦作“风险认知”） | risk | 学界惯例（心理测量学通行）；凭证 2026-11-09；亦作记审定·心理学三库作“风险认知”（裁定 2026-11-12 保留现译） | 2026-11-12 |
 | risk value | — | 风险值 | logic-fuzzy | Giles 博弈术语直译；凭证 2026-11-09 | 2026-11-09 |
-| risk-benefit analysis | — | 风险—收益分析 | risk | 学界惯例（RBA；与 cost-benefit analysis 成本—收益分析并列）；凭证 2026-11-09 | 2026-11-09 |
+| risk-benefit analysis | — | 风险—收益分析（亦作“风险获益分析”） | risk | 学界惯例（RBA；与 cost-benefit analysis 成本—收益分析并列）；凭证 2026-11-09；2026-11-15 补亦作（审定形，一字线归一） | 2026-11-15 |
 | Risorgimento | — | 意大利复兴运动 | gramsci | 意大利建国运动史术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Ritterakademie | Ritterakademie | 骑士学院（保留德文） | august-rehberg 首译 | 普鲁士／德意志教育史通行；凭证 2026-11-08 | 2026-11-08 |
 | river fragments | — | 河流残篇 | heraclitus 首译 | 学界通行（B12/B49a/B91[a] 通行称谓）；凭证 2026-11-09 | 2026-11-09 |
@@ -5034,7 +5034,7 @@
 | screening | — | 筛查 | cancer | 学界通行（预防医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | second air | — | 第二气 | 首译（saadya） | 萨阿迪亚《创世之书注疏》术语（air 之第二种，受造荣耀别名；亦作“第二种气”）；凭证 2026-11-09 | 2026-11-09 |
 | Second Analogy | — | 第二类比 | kant-transcendental | 学界通行（康德 A189）；凭证 2026-11-11 | 2026-11-11 |
-| second intention | — | 第二意向 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| second intention | — | 第二意向（亦作“第二意图”） | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | second nature | — | 第二自然 | adorno | 学界通行汉译（黑格尔/卢卡奇/阿多诺研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | Second Postulate | — | 第二公设 | kant-transcendental | 学界通行（康德 A218/B266 公设章）；凭证 2026-11-11 | 2026-11-11 |
 | Second Sex | — | 第二性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
