@@ -1,0 +1,19 @@
+{
+ "key": "ter meulen, alice",
+ "term": "Ter Meulen, Alice",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:45:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "反滤层f刊",
+   "en": "ter",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 1}, \"sourceStats\": {\"其它\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"4b58ffac5ade40a08ec466e16dd8dbd4\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.1.14\", \"cnName\": \"反滤层f刊\", \"enName\": \"ter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43730, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反滤层f刊\", \"cnNameSearch\": \"反滤层f刊\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ter\", \"wordSearch\": \"ter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设在土、砂与排水设施之间或细、粗土料之间，为防止细颗粒流失及保证排水畅通，通常以符合要求级配的砂砾\\n料或土工织物做成的料层。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794671155352}"
+}
