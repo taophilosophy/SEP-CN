@@ -16,7 +16,7 @@
 
 一个例子是蒲鲁东：早在 1840 年代他就呼吁，工业中的“领袖、教导者、监工”应当“由劳动者自己从劳动者中选出”（Proudhon 1840, §6）[^proudhon-1840]——这一原则在工人合作社中得到实现。工人合作社在法国尤为强盛；英国则有许多消费者合作社；德国有合作银行——这些努力促成了 1895 年国际合作社联盟的共同创立（Cornforth 1992, 186-188）[^cornforth-1992]。左翼政党在许多国家起步，并在 19 世纪下半叶分化为改革取向的社会民主党与革命取向的社会主义政党。第一国际作为国际网络创立于 1864 年，1866 年召开首次大会；第二国际继之于 1889 年。
 
-“产业民主”一词于 19 世纪末引入英国（Webb and Webb 1897）[^webb-1897]，用以指对工会之民主组织与集体谈判之引入的呼吁。集体谈判，即工会为一公司或一行业之全体工人就工资与工作条件展开谈判的权利。循着这一英文术语，德语“Wirtschaftsdemokratie”（经济民主）一词在 20 世纪早期数十年的德国工会运动中被使用，且在那里得到相当大的扩展。它描述了一个纲领：把垄断性企业置于公共控制之下，通过职工委员会与共同决定制强化工人在一切企业中的声音。它同时也通过工人银行与消费者合作社支持工人，并让工人的代表在政治机构中发挥更大的作用（Napthali 1928；讨论见如 Müller-Jentsch 2008; Weinzen 1992）[^müller-jentsch-2008][^weinzen-1992]。
+“产业民主”一词于 19 世纪末引入英国（Webb and Webb 1897）[^webb-1897]，用以指对工会之民主组织与集体谈判之引入的呼吁。集体谈判，即工会为一公司或一行业之全体工人就工资与工作条件展开谈判的权利。循着这一英文术语，德语“Wirtschaftsdemokratie”（经济民主）一词在 20 世纪早期数十年的德国工会运动中被使用，且在那里得到相当大的扩展。它描述了一个纲领：把垄断性企业置于公共控制之下，通过职工委员会与共同决定制强化工人在一切企业中的声音。它同时也通过工人银行与消费者合作社支持工人，并让工人的代表在政治机构中发挥更大的作用（Naphtali 1928；讨论见如 Müller-Jentsch 2008; Weinzen 1992）[^müller-jentsch-2008][^weinzen-1992]。
 
 在 20 世纪，这些理念在不同国家的境遇各异。一些欧洲国家在引入共同决定制机制方面走得相当远（如见 Széll 1992 中关于不同国家的词条）[^széll-1992]。然而自 1980 年代以来，转向自由市场政治伴随着对工会的攻击，尤其在英语国家，但也不限于此。这削弱了对另类经济组织形式的兴趣，助长了一种“别无选择”的态度。工会组织率，一如大众组织成员资格的普遍情形，在许多国家下滑。只要工人的参与（例如在自治团队中的参与）仍被视为议题，它就是从员工激励与能效的视角得到考虑的（如 Pausch 2013）[^pausch-2013]，而不是作为与政治民主相关联的更宽纲领。对该主题的研究兴趣——1970 年代曾相当活跃（如 Pateman 1970）[^pateman-1970]——同样下滑了。
 
@@ -49,7 +49,7 @@
 3. 要让政治民主长期稳定，经济民主是必需的。
 4. 因此，我们有很好的理由拥护经济民主。
 
-注意，关键的 premise（c）是一个经验性前提。就其本身而言，它需要考虑一切可得证据：不同的民主体制配以不同经济体制时，境遇究竟如何。如前所述，正是当前许多国家政治民主的削弱，促成了对经济民主的重新关注，这直接关系到 premise（c）。
+注意，关键的 前提（c）是一个经验性前提。就其本身而言，它需要考虑一切可得证据：不同的民主体制配以不同经济体制时，境遇究竟如何。如前所述，正是当前许多国家政治民主的削弱，促成了对经济民主的重新关注，这直接关系到 前提（c）。
 
 这一论证的一个重要版本，关乎政治民主的心理学基础。约翰·斯图亚特·穆勒曾描述民主的两个心理前提，即“主动的品格”与“对共同善的意识”；而一个民主的经济，或许更善于在公民中创造并维系这两者（Cohen 1989, 29；另见 Satz 2023）[^cohen-1989][^satz-2023]。下文我将讨论这一论证的一个版本——所谓“溢出”论证（Pateman 1970, chap. 3; Mason 1982）[^mason-1982][^pateman-1970]——它把这一点专门应用于民主的职场。另一个论证，针对“选民缺乏兴趣与信息”的主张：如果工人组织在工会中、并能积极参与职场的治理，他们或许会有更多的激励与更好的机会去了解政治议题（O’Neill and White 2018; Christiano 2019）[^christiano-2019][^o’neill-2018]。
 
@@ -119,7 +119,7 @@
 
 工人所有制也可以按别的方式组织，尝试克服合作社的挑战。例如，公司可以由一个信托持有，工人在信托中拥有股份（整个信托或其中一部分由工人掌握）（如 Dow 2003, 76–83）[^dow-2003]。员工持股计划（ESOP）与员工所有权信托（EOT）在多个国家得到使用，有时也被纳入关于经济民主的讨论（如 Dow 2003, 76–83）[^dow-2003]。在这类安排中，工人有机会以股份的形式获得部分工资或退休金，这些股份由一个持有其所在公司股份的投资载体组织起来。然而，工人直接或间接持有多少股份、投资载体如何构造，都会使工人声音可强可弱。工人在公司中拥有利害关系，被认为能使他们的利益与公司一致、激励其好好工作；但这并不会自动给予他们民主控制（批评性讨论见如 Ellerman and Gonza 2024）[^ellerman-2024]。
 
-在公司治理中落实工人发言权的另一种策略，是不让他们成为（共同）所有者，而是让他们 **在所有者之外** 在公司治理中获得一席之地。这避免了工人所有制的一些问题，如资本获得难或风险集中。。人们甚至可以沿这条思路更进一步：追问是否还有其他易受伤害的利益相关者，也应当在公司治理中获得一定的发言权——尽管可以承认工人具有特殊地位（讨论见如 Moriarty 2010; González-Ricoy and Magana 2024）[^gonzález-ricoy-2024][^moriarty-2010]。然而，批评者已经追问：只给工人（也许还有其他群体）发言权而不给所有权，是否使这类公司容易受到资本所有者资本外逃的威胁（如 Gonzalez-Ricoy 2020; Vrousalis 2019, 263-267）[^vrousalis-2019]；以及，在非完全自治的企业中，劳动合同究竟是否 **还可能** 是正当的（Ellerman 2021）[^ellerman-2021]。
+在公司治理中落实工人发言权的另一种策略，是不让他们成为（共同）所有者，而是让他们 **在所有者之外** 在公司治理中获得一席之地。这避免了工人所有制的一些问题，如资本获得难或风险集中。人们甚至可以沿这条思路更进一步：追问是否还有其他易受伤害的利益相关者，也应当在公司治理中获得一定的发言权——尽管可以承认工人具有特殊地位（讨论见如 Moriarty 2010; González-Ricoy and Magana 2024）[^gonzález-ricoy-2024][^moriarty-2010]。然而，批评者已经追问：只给工人（也许还有其他群体）发言权而不给所有权，是否使这类公司容易受到资本所有者资本外逃的威胁（如 Gonzalez-Ricoy 2020; Vrousalis 2019, 263-267）[^vrousalis-2019]；以及，在非完全自治的企业中，劳动合同究竟是否 **还可能** 是正当的（Ellerman 2021）[^ellerman-2021]。
 
 在一些欧洲国家，“共同决定制”给予工人在公司治理中的发言权；在某些国家（如斯堪的纳维亚诸国与德国），这是对超过一定规模之企业的强制性要求（概述见如 Page 2011; Hayden and Bodie 2021）[^hayden-2021][^page-2011]。然而，工人代表通常握有的票数少于股东选出的代表。唯一的例外是德国钢铁与煤矿业的 *Montanmitbestimmung*（煤钢共同决定制）：监事会上股东与工人票数对等，冲突时须请一名中立的仲裁人（Hayden and Bodie 2021, 332–333）[^hayden-2021]。在德国的其他行业中，形式上的对等存在，但冲突时由董事会主席投出额外的决胜票，而主席总是资本的代理人；因此这一模式被描述为“准对等”（同上, 332）。
 
@@ -167,7 +167,7 @@
 
 一条研究路线探究工作中积极的、平等主义的经验如何通过促使或鼓励工人投入政治而影响政治态度与行为，如“溢出论证”所预测的那样（如 Budd et al. 2018; Decker and Brähler 2020; Timming and Summers 2018）[^budd-2018][^decker-2020][^timming-2018]。例如，一项对欧洲跨国数据的研究发现，在民主结构更多的公司工作会增进政治信任与政治参与（Ryan and Turner 2021）[^ryan-2021]；在德国，对男性（但不含女性！）雇员而言，职工委员会的存在提升了他们的政治兴趣（Jirjahn and Lee 2024）[^jirjahn-2024]。总体而言，有稳健的证据表明：工作中更高的技能运用、更高的自主性与积极的社会关系，与更大的政治参与相关（Selenko et al. 2025, 9–13, 17–18）[^selenko-2025]。
 
-另一条研究路线追问：工作中的怨苦经验（例如工作不安全感）是否会促使工人投入政治行为。这引出一个预测：真正增进政治参与的，也许是 **消极的** 而非 **积极的** 工作条件；对此也有一些证据（Selenko et al. 2025, 3, 8）[^selenko-2025]。最后，据 Schlachter and Ársaelsson（2024）基于一项质性研究的论证，还可能存在反向因果：政治上积极的个体，本就会选择去民主的公司工作。
+另一条研究路线追问：工作中的怨苦经验（例如工作不安全感）是否会促使工人投入政治行为。这引出一个预测：真正增进政治参与的，也许是 **消极的** 而非 **积极的** 工作条件；对此也有一些证据（Selenko et al. 2025, 3, 8）[^selenko-2025]。最后，据 Schlachter and Ársælsson（2024）基于一项质性研究的论证，还可能存在反向因果：政治上积极的个体，本就会选择去民主的公司工作。
 
 ### 5.2 关于欧洲共同决定制模式与合作社的研究
 
@@ -316,7 +316,7 @@
 
 [^ellerman-2021]: –––, 2021, *Neo-Abolitionism: Abolishing Human Rentals in Favor of Workplace Democracy*, Cham: Springer.
 
-[^ellerman-2024]: Ellerman, David, and Tej Gonza, 2024, “A Critical Analysis of Diﬀerent Forms of Employee Ownership”, *International Review of Applied Economics*, 39(2–3): 261–276. doi:10.1080/02692171.2024.2435408.
+[^ellerman-2024]: Ellerman, David, and Tej Gonza, 2024, “A Critical Analysis of Different Forms of Employee Ownership”, *International Review of Applied Economics*, 39(2–3): 261–276. doi:10.1080/02692171.2024.2435408.
 
 [^estlund-2003]: Estlund, Cynthia, 2003, *Working Together: How Workplace Bonds Strengthen a Diverse Democracy*, New York: Oxford University Press.
 
@@ -328,7 +328,7 @@
 
 [^ferretti-2024]: Ferretti, Thomas, and Axel Gosseries, 2024, “Are Bicameral Firms Preferable to Codetermination or Worker Cooperatives?”, in Isabelle Ferreras, Tom Malleson, and Joel Rogers (eds.), *Democratizing the Corporation: The Bicameral Firm and Beyond*, London & New York: Verso, 165–179.
 
-[^flecha-2011]: Flecha, Ramon, and Ignacio Santa Cruz, 2011, “Cooperation for Economic Success: The Mondragon Case”, *Anaylse & Kritik*, 33(1): 157–170.
+[^flecha-2011]: Flecha, Ramon, and Ignacio Santa Cruz, 2011, “Cooperation for Economic Success: The Mondragon Case”, *Analyse & Kritik*, 33(1): 157–170.
 
 [^foster-2023]: Foster, John B., 2023, “Planned Degrowth: Ecosocialism and Sustainable Human Development”, *Monthly Review*, 75(3).
 
@@ -338,7 +338,7 @@
 
 [^frega-2019]: Frega, Roberto, Lisa Herzog, and Christian Neuhäuser, 2019, “Workplace Democracy: The Recent Debate”, *Philosophy Compass*, 14(4): e12574.
 
-[^gerlsbeck-2020]: Gerlsbeck, Felix, and Lisa Herzog, 2020, “The Epistemic Potentials of Workplace Democracy”, *Review of Social Econonomy*, 78(3): 307–330.
+[^gerlsbeck-2020]: Gerlsbeck, Felix, and Lisa Herzog, 2020, “The Epistemic Potentials of Workplace Democracy”, *Review of Social Economy*, 78(3): 307–330.
 
 [^gomes-2023]: Gomes, Ana, Anil Verma, and Dieric Guimares, 2023, “Life With Rights: Inclusive Labour Law and Decent Work for Waste Pickers in Brazil”, *International Journal of Comparative Labour Law and Industrial Relations*, 39(4): 359–380.
 
@@ -398,7 +398,7 @@
 
 [^jäger-2022]: Jäger, Simon, Shakked Noy, and Benjamin Schoefer, 2022, “The German Model of Industrial Relations: Balancing Flexibility and Collective Action”, *Journal of Economic Perspectives*, 36(4): 53–80.
 
-[^jensen-1979]: Jensen, Michael C., and William H. Meckling, 1979, “Rights and Production Functions: An Application to Labor-Managed Firms and Codetermination”, *The Journal of Business*, 52(4): 469–406.
+[^jensen-1979]: Jensen, Michael C., and William H. Meckling, 1979, “Rights and Production Functions: An Application to Labor-Managed Firms and Codetermination”, *The Journal of Business*, 52(4): 406–469.
 
 [^jirjahn-2024]: Jirjahn, Uwe, and Thi Xuan Thu Lee, 2024, “Political Spillovers of Workplace Democracy in Germany”, *Annals of Public and Cooperative Economics*, 95(1): 5–31.
 
