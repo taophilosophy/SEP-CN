@@ -197,3 +197,10 @@
 | moral-responsibility-empirical | 两个 `<h3>` 均编号 3.1（另一为 3.2） | 依次改 3.1／3.2／3.3 | 同页章节编号自相矛盾（②） |
 | moral-responsibility-empirical | hofmann-2012 `102(6): 1318&ndash;133OB5` | `1318&ndash;1335` | OCR 混入大写字母，起止页自证（①） |
 | moral-responsibility-empirical | sinnott-armstrong-2013 `<em>…Psychiatry</em>. pp. 851` | `</em>, pp. 851` | 句点误作逗号（①） |
+
+## 四、2026-11-15 补登（分歧账建账时发现未登记件）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| bohr-correspondence | `&Uuml;ber quantentheorische Umdeutung` | `&Uuml;ber quantentheoretische Umdeutung` | 玻尔 1925 论文通行德语题名 quantentheoretische（①） |
+| bohr-correspondence | `principle,&rdquo;,` 换行后 `<em>American Journal of Physics</em>` | `principle,&rdquo; <em>American Journal of Physics</em>` | 引号后重逗号删除并并行；同页他条均作 `,&rdquo; <em>`（①） |
