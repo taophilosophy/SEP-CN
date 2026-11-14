@@ -5419,7 +5419,7 @@
 | state of nature | — | 自然状态 | hobbes-moral 首译 | 学界通行（霍布斯研究核心术语）；凭证 2026-11-09 | 2026-11-09 |
 | state of war | — | 战争状态 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | state space | — | 状态空间 | qt-entangle | 审定名词库（物理学名词）；凭证 2026-11-09 | 2026-11-09 |
-| state transition | — | 状态转移 | dynamic-semantics | 计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12 | 2026-11-12 |
+| state transition | — | 状态转移（亦作“状态转换”） | dynamic-semantics | 计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | States General | Staten-Generaal | 三级会议 | grotius | 荷兰史通行汉译（联省共和国议会）；凭证 2026-11-12 | 2026-11-12 |
 | states of affairs | — | 事态 | reinach | 学界惯例（现象学与分析本体论通行译法）；SUMMARY 词条名 s/states-of-affairs.md 定名沿用；凭证 2026-11-09 | 2026-11-09 |
 | states of peace | — | 和平状态 | ricoeur | 利科用语（états de paix）；凭证 2026-11-11 | 2026-11-11 |
