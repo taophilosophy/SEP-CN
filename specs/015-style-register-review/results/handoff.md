@@ -90,6 +90,12 @@
 * 全量重转：1872 条零失败，`cite_markers` 203,188 → 204,835（+1,647），`cite_defs` 230,985 → 231,358（+373）。
 * 偿还时注意：此类词条的中文书目往往整节缺失，须按 yuanwen 补全并分置小节（bohr-correspondence 已示范）。
 
+## 2026-11-15 续二：新增门禁「原始物分歧账」与挂键教训
+
+* 仓库新立 `tools/divergence.py`（ADR-0045）：`en/` 就地勘误须逐条登记 `baseline/divergences.json`，否则 `check_all` 第 11 项红灯（「静默改原文」）。流程：改 en → 提交 → `python tools/divergence.py register <path> --commit <sha> --reason "…（ADR-0038 类别）"`。登记后若又改同一文件，须删除旧记录再登记（register 不覆盖已存在项）。
+* **挂键教训**：按「引称组顺序」跨语言对齐补键（zh 组 ↔ en 组）会大规模错挂——social-procedures 一次错挂 13 组（帕里克与保利 2012 挂六键、皮尼 2011 挂 bolander/löwe 等），须逐组复核。可靠做法：只按姓-年份或正文中同现的拉丁人名逐一核对，宁可少挂不可错挂。
+* 本轮偿还：bohr-correspondence、auriol、moral-responsibility-empirical、bodily-awareness、social-procedures。
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
