@@ -18,7 +18,7 @@
 
 欧几里得的方子是 **形式的**，因而可以用形式手段来分析。其正确性源于一个洞见：设有两数 $A$ 与 $B$，$A$ 大于 $B$，若以 $A - B$ 替换 $A$，这双数的公约数集合并不改变。
 
-算法的形态与路数很多，串行、并行皆有。若想要计算机科学中有趣的算法导论，可看 Harel & Feldman（2004）与 Miller & Boxer（2012）[^parikh-2012]。社会程序亦可循同样的路数，用逻辑与理论计算机科学的形式工具来分析。[^note-2]
+算法的形态与路数很多，串行、并行皆有。若想要计算机科学中有趣的算法导论，可看 Harel & Feldman（2004）[^harel-2004]与 Miller & Boxer（2012）[^miller-2012]。社会程序亦可循同样的路数，用逻辑与理论计算机科学的形式工具来分析。[^note-2]
 
 最适合形式化进路的，看来是那些人们希望求得保证的社会程序：给定某些起始条件，程序能保持或创造出特定的期望性质。公平分配（第 2 节）、匹配（第 3 节）、通信（第 4 节）即是其例。最后，形式视角对需要参与者作策略推理的情境（第 5 节）也有用。这些情境有一个共同点：智能体对他人心理状态知道什么、不知道什么，都举足轻重。作为本文诸例的对照，Van Benthem（2018）[^benthem-2018]就社会视角如今在计算机科学内部所占的位置提供了一份引人入胜的概览，突出了社会能动性与信息。
 
@@ -136,7 +136,7 @@ R. 帕里克（2002）[^parikh-2002]分析过所谓的巴拿赫—克纳斯特�
 
 ### 3.2 大学宿舍分配程序
 
-帕里克与保利（2012）[^camerer-2003][^ghosh-2018][^meijering-2012][^meijering-2014][^pacuit-2015][^top-2018]从社会软件的视角，考察盖尔—沙普利算法的一个变体——斯坦福宿舍抽签用它把学生分到房间。情形比婚姻设定复杂：学生并不给所有宿舍排完整次序，只给其中 8 所排序；而且他们还可以结组参加抽签。在宿舍情境里，学生反而有如实提交真实偏好的动机：抽签对他们而言 **不可操纵**。不过理论上，他们仍可在挑选提交偏好的那 8 所这一子集上作策略打算。
+帕里克与保利（2012）[^parikh-2012]从社会软件的视角，考察盖尔—沙普利算法的一个变体——斯坦福宿舍抽签用它把学生分到房间。情形比婚姻设定复杂：学生并不给所有宿舍排完整次序，只给其中 8 所排序；而且他们还可以结组参加抽签。在宿舍情境里，学生反而有如实提交真实偏好的动机：抽签对他们而言 **不可操纵**。不过理论上，他们仍可在挑选提交偏好的那 8 所这一子集上作策略打算。
 
 这一情形里，知识的问题颇有意思。算法虽挂在斯坦福的网页上，多数学生与管理者却并不真正懂得它怎么运作。因此不能假定斯坦福宿舍抽签是学生间的共同知识。这里似乎出现了一个有趣现象：多数学生即便承认不懂该算法，仍会说他们相信它公平（Parikh & Pauly 2012）[^parikh-2012]。
 
@@ -320,7 +320,7 @@ Michael Suk-Young Chwe 在《理性的仪式》（2001）[^chwe-2001]一书中�
 
 [^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012, “What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
 
-[^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary“, *Interaction Studies*, 15(3): 455–477.
+[^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary”, *Interaction Studies*, 15(3): 455–477.
 
 [^pacuit-2015]: Pacuit, E., 2015, “Strategic Reasoning in Games”, in van Benthem, Ghosh, & Verbrugge 2015: 3–33.
 
