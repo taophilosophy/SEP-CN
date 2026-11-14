@@ -311,7 +311,10 @@ def main(argv=None):
     ap.add_argument('--interval', type=float, default=8.0, help='批内相邻请求秒数')
     ap.add_argument('--batch-gap', type=float, default=20.0, help='批间秒数')
     ap.add_argument('--headed', action='store_true', help='有头模式（默认无头）')
-    ap.add_argument('--no-warm', action='store_true', help='跳过每批激活')
+    ap.add_argument('--no-warm', action='store_true',
+                    help='（2026-11-14 起由廉价续窗取代，此开关仅保留兼容：不影响主动续窗）')
+    ap.add_argument('--warm-every', type=float, default=90.0,
+                    help='主动续窗周期秒数（须<窗口TTL≈120s；0=关闭主动续窗）')
     ap.add_argument('--calibrate', type=int, default=0, metavar='N',
                     help='限流校准：以固定词连发 N 次，报告第几次开始降级')
     args = ap.parse_args(argv)
