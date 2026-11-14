@@ -135,6 +135,8 @@ def scan_entry(letter, slug, calib=False):
     # ---- 全文标记与 defs 键集 ----
     mk_zh = Counter(norm_key(m.group(1)) for m in MARKER.finditer(zh))
     mk_yw = Counter(norm_key(m.group(1)) for m in MARKER.finditer(yw))
+    mk_zh.pop('key', None)  # 照录说明行的字面 [^key] 非真键
+    mk_yw.pop('key', None)
     only_zh = sorted((mk_zh - mk_yw).elements())
     only_yw = sorted((mk_yw - mk_zh).elements())
     rec['markers'] = {'zh': sum(mk_zh.values()), 'yw': sum(mk_yw.values()),

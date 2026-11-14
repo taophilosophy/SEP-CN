@@ -72,6 +72,7 @@ def plan_entry(slug, letter):
     mk_yw = Counter(m.group(1) for m in MARKER.finditer(yw))
     defs_zh = set(DEF.findall(zh))
     debt = mk_yw - mk_zh
+    debt.pop('key', None)  # 照录说明行的字面 [^key] 非真键
     plan, manual = [], []
     cut = body_cut(zh)
     spans = [(a, b) for (a, b) in zh_spans(zh[:cut])]
