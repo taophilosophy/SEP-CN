@@ -186,6 +186,10 @@
 * **增补 4 行**：Church-Turing thesis 邱奇-图灵论题（SUMMARY 题名）、doxography 学述（SUMMARY 题名作“学说史”，**定名候选上报**）、George Campbell 乔治·坎贝尔（苏格兰常识学派）、Raymond Sebond 雷蒙·塞邦（蒙田《雷蒙·塞邦赞》）；
 * **误记判读 1 处**：日志"Philoponus=菲洛劳斯"系 Philolaus 异人误记（批十五已裁）；"女权主义→女性主义"纠错已全库生效；"superimposition 叠置"为审定形，佛学增益义分义在案。
 
+## 定名裁定二（2026-11-15，用户批准「学述」）
+
+**doxography 定名「学述」全链执行**：SUMMARY 三处（主行+两互见）、mu-lu-s、四处他词条互见改「古代哲学学述」；d/doxography-ancient 正文 30 处、a/alcmaeon 正文 26 处（学述传统/学述家/学述族）看齐；登记册 doxography 三行族合并定名（重复键归一，旧形「学说汇编」「学说史」降为亦作）；mandeville「经济学说史」为散文义未动。上报道项销账。
+
 ## 上报事项
 
 3. ~~**converse（行 1133）分义候选**~~ **已裁定执行（2026-11-15，用户裁定「待裁条目按前沿哲学论文定」）**：主译改「逆命题」（当代逻辑文献通行：A→B 之 converse 为 B→A），旧形「换位（互为换位）」降为传统逻辑换位操作义注记（见 conversion 行）；词条 n/necessary-sufficient 正文两处看齐；凭证 converse.json 入 web-authority。
