@@ -2,7 +2,7 @@
   "slug": "academic-freedom",
   "kind": "retranslate",
   "zh_doc": "a/academic-freedom.md",
-  "state": "pending",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -87,6 +87,13 @@
       "actor": "adr0045-sync",
       "at": "2026-11-14T21:46:59Z",
       "evidence": "上游实质修订（2026-11-15 实际比较/compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-14T22:26:48Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],

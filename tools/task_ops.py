@@ -413,9 +413,12 @@ def main(argv=None):
             return 0
         if cmd == "reopen":
             args = _parse(["--actor", "--reason"], argv[2:])
-            print(json.dumps(reopen(slug, args.get("reason") or "",
-                                    args.get("actor") or "?"),
-                             ensure_ascii=False, indent=2))
+            task = reopen(slug, args.get("reason") or "",
+                          args.get("actor") or "?")
+            if "--clear" in argv:
+                # ADR-0050：上游更新引发的 reopen 前置置空（仅留 H1），原子两步防漏
+                task = clear(slug)
+            print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "block":
             args = _parse(["--reason"], argv[2:])

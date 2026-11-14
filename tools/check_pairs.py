@@ -8,7 +8,9 @@
       bracket-pair（全角括号/方括号/书名号/六角括号 配对与方向：右先于左、负深度）
       cite-authoryear（文内作者-年份引注与书目条目启发式匹配：姓氏+年份未见于书目）
       bib-duplicate（书目条目重复：同键多 def 或同键规范化重复）
-      count-vs-source（数量对照：节标题数/书目条数/公式数 zh vs en/yuanwen，容差告警）
+      count-vs-source（数量对照：节标题数/书目条数/公式数 zh vs en/yuanwen，容差告警；
+        公式数两侧对称剔除孤立希腊字母片段——ADR-0049 文字化回改后 zh 侧归零而
+        yuanwen 源形态仍在，不剔则回改必触告警）
       dangling-link（相对链接目标缺失：站内 md/目录两解均不存在）
       pubinfo-form（出版信息行非正典形态 > *…*）
       ellipsis-form（中文语境省略号非六连点）
@@ -35,6 +37,12 @@ CODE_RE = re.compile(r"`[^`]*`")
 PAIRS = (("（", "）"), ("《", "》"), ("〔", "〕"), ("【", "】"))
 BIB_HEAD = re.compile(r"^#{1,6}\s*(?:参考文献|Bibliography|References（引用注释）)\s*$", re.M)
 AY_RE = re.compile(r"（([A-Z][A-Za-zāáǎàééěèīíǐìóóǒòūúǔùü\u2019\-]{1,20})\s+(\d{4})[a-z]?(?:,\s*\d{1,4})?）")
+
+# ADR-0049：纯孤立希腊字母行内片段（无撇号/下标/运算符），公式数对账时两侧对称剔除。
+GREEK_LONE_RE = re.compile(
+    r"\$\\(?:alpha|beta|gamma|delta|epsilon|varepsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|"
+    r"pi|rho|sigma|tau|upsilon|phi|varphi|chi|psi|omega|varpi|varrho|varsigma|vartheta|"
+    r"Gamma|Delta|Theta|Lambda|Xi|Pi|Sigma|Upsilon|Phi|Psi|Omega)\$")
 
 
 def _mask(line):
@@ -154,8 +162,10 @@ def check_counts(path, slug, zh_text, issues, tol_head=2, tol_bib=2):
                 issues.append({"path": path, "line": 0, "rule": "count-vs-source",
                                "detail": "书目条数 zh %d vs en %d（容差 %d）" % (zh_bib, en_bib, tol_bib)})
     if yw:
-        strip = lambda s: len(re.findall(r"\$\$[^$]+\$\$|\$[^$\n]+\$", re.sub(r"```[\s\S]*?```|`[^`]*`", "", s)))
-        a, b = strip(zh_text), strip(yw)
+        clean = lambda s: re.sub(r"```[\s\S]*?```|`[^`]*`", "", s)
+        strip = lambda s: (len(re.findall(r"\$\$[^$]+\$\$|\$[^$\n]+\$", s))
+                           - len(GREEK_LONE_RE.findall(s)))
+        a, b = strip(clean(zh_text)), strip(clean(yw))
         if max(a, b) > 20 and abs(a - b) > max(3, int(0.1 * max(a, b))):
             issues.append({"path": path, "line": 0, "rule": "count-vs-source",
                            "detail": "公式数 zh %d vs yuanwen %d（偏差超 10%%）" % (a, b)})

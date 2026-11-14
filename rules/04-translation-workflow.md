@@ -79,6 +79,15 @@
 2. `python tools/task_ops.py clear <slug>`：正文置空至 H1（基线 gate 照常）；
 3. 按重译流程重新 draft；旧账本只作历史凭证，新 draft 必须新建账本，不得沿用旧 step2。
 
+### 上游更新引发的置空返工（ADR-0050，2026-11-15 用户裁定）
+
+已 done 词条因上游实质修订（真漂移、compare 变更文件在案）被 reopen 的，**同语体返工流程：置空仅留 H1、按新源全量重译，不以旧译为底稿**：
+
+1. `python tools/task_ops.py reopen <slug> --actor <执行者> --reason <原因> --clear`（ADR-0050 原子两步：reopen→clear，clear 的基线 gate 照常）；
+2. `compare/<slug>.json` 变更文件降级为重译时的**审读辅助**（知道上游改了什么），不再是逐段补丁指令；`changes:` 证据要求保留；
+3. 边界：s2.5_checked 在途件不适用（状态机 reopen 仅限 done），其变更经派工单 A2 以 `changes:` 挂现有流水吸收；换血重发件（上游同 slug 新写）的 H1 作者行经 SUMMARY↔H1 同步机制随新译落成更新，不单独改 H1。
+
+
 ## LLM 辅助初译协议（ADR-0021）
 
 draft 采用 LLM 辅助时本协议**强制**；纯人工初译不适用。操作细则（账本文件格式、提示词骨架、守恒校验清单）见 `specs/005-translation-campaign/fan-yi-mu-ban.md` §6。
