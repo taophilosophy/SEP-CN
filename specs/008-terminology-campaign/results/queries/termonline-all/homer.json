@@ -1,0 +1,348 @@
+{
+ "key": "homer",
+ "term": "Homer",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T03:07:22+00:00",
+ "status": "ok",
+ "note": "variant=Homer; 审定公布名词库=114; 海峡两岸名词对照库=52; 其他来源数据库=29; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "荷马史诗",
+   "en": "Homeric Epic",
+   "code": "02.0384",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "荷马时代",
+   "en": "Homeric Age",
+   "code": "02.0267",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "[异物]同名",
+   "en": "homonym,hom.",
+   "code": "02.098",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "Hom函子",
+   "en": "Hom functor",
+   "code": "04.1602",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_范畴论"
+  },
+  {
+   "cn": "反变Hom函子",
+   "en": "contravariant Hom functor",
+   "code": "04.1603",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_范畴论"
+  },
+  {
+   "cn": "同源异形复合体",
+   "en": "homeotic complex,HOM-C",
+   "code": "05.154",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer",
+   "code": "6.0475",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer",
+   "code": "01.095",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动解剖_人体运动执行体系"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer",
+   "code": "02.0328",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_中轴骨"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer",
+   "code": "03.0142",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古脊椎动物学与古人类学_鱼类"
+  },
+  {
+   "cn": "家庭环境观察[评价]量表",
+   "en": "Home Observation for Measurement of the Environment,HOME",
+   "code": "05.114",
+   "standard": "精神医学名词",
+   "subject": "精神医学_常用量表"
+  },
+  {
+   "cn": "犁骨瓣",
+   "en": "vomer flap",
+   "code": "13.096",
+   "standard": "整形外科名词",
+   "subject": "整形外科_唇腭裂修复_腭裂"
+  },
+  {
+   "cn": "异物同名",
+   "en": "homonym\",\"hom.",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "同源异形复合体",
+   "en": "homeoticcomplex\",\"HOM-C",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "甜蜜的家",
+   "en": "Home\",\"Sweet Home",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "犁骨",
+   "en": "vomer bone",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "飞高",
+   "en": "hover gap",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "肛下犁突",
+   "en": "vomer subanalis",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "巢域,活动范围",
+   "en": "home range",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "本国货币",
+   "en": "home currency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "本国货币",
+   "en": "home money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "本国银行",
+   "en": "home bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "国内汇票",
+   "en": "home bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "本垒打",
+   "en": "home run\",\"homer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "本垒",
+   "en": "home\",\"home base\",\"home plate\",\"plate",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "异步传输模式",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "光纤分布式数据接口",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "存储区域网络",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "帧中继",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "智能家居",
+   "en": "smart home",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧家庭",
+   "en": "home automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字家庭",
+   "en": "digital home",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "居家看护",
+   "en": "home care",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "同步数字体系",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟局域网",
+   "en": "Home network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "code": "5.4.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给者行为"
+  },
+  {
+   "cn": "护理院",
+   "en": "nursing home",
+   "code": "3.15.7.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务"
+  },
+  {
+   "cn": "家庭安全",
+   "en": "home safety",
+   "code": "8.1.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_儿童安全"
+  },
+  {
+   "cn": "护理院",
+   "en": "nursing home",
+   "code": "12.3.13",
+   "standard": "社会医学名词",
+   "subject": "特定人群卫生保健"
+  },
+  {
+   "cn": "居家照护",
+   "en": "home-based care",
+   "code": "11.3.17",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "居家隔离",
+   "en": "isolation at home",
+   "code": "1.6.8",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_隔离"
+  },
+  {
+   "cn": "家庭化分娩",
+   "en": "home-like delivery",
+   "code": "3.5.3.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "新生儿家庭访视",
+   "en": "neonatal home visit",
+   "code": "12.2.17",
+   "standard": "社会医学名词",
+   "subject": "特定人群卫生保健"
+  },
+  {
+   "cn": "养老机构消毒",
+   "en": "disinfection in nursing home",
+   "code": "4.1.4.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "妇女回家论",
+   "en": "women going back home",
+   "code": "3.2.5.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与工作"
+  },
+  {
+   "cn": "居家养老服务",
+   "en": "home-based aged care",
+   "code": "3.15.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务"
+  },
+  {
+   "cn": "老人福利院",
+   "en": "home for the aged",
+   "code": "4.4.9.48",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
