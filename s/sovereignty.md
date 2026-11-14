@@ -39,7 +39,7 @@
 
 其二，威斯特伐利亚终结了干涉宗教事务的漫长时代——在此之前，这种干涉是对主权特权最常施加的削减。历经数十年兵戈相争，奥格斯堡和约的设计终获巩固：形式虽非 1555 年的原样，实质上却确立起诸侯与国王对宗教的权威。对宗教事务的干涉虽未彻底绝迹，却已变得极为罕见，与此前一百三十年间宗教战争撕裂欧洲的景象恰成对照。此后数十年，随着主权国家体系日益普遍，这条禁止干涉的规矩也日益普遍，最终演成国际体系的一项基础规范。
 
-同样，也有学者不承认威斯特伐利亚享有“奠基时刻”的地位。丹尼尔·菲尔波特在（Philpott, 2001）[^philpott-2001]中为正统说法作了辩护。但近年以来，一批学者转而主张，威斯特伐利亚神话应当解构并弃置（Krasner, 1999; Carvalho, Leira, and Hobson, 2011; Nexon, 2009; Osiander, 1994; Osiander, 2001; Teschke, 2009）[^carvalho-2011][^krasner-1999][^nexon-2009][^osiander-1994][^osiander-2001][^teschke-2009]。这些学者大体强调：国家性的若干重要成分早在威斯特伐利亚之前便已存在；而“等级制”——即自上而下对主权的限缩——的若干重要成分，在威斯特伐利亚之后仍延续良久。威斯特伐利亚今后会被如何看待，只能由学界的长期共识来决定。
+同样，也有学者不承认威斯特伐利亚享有“奠基时刻”的地位。丹尼尔·菲尔波特（Philpott, 2001）[^philpott-2001]为正统说法作了辩护。但近年以来，一批学者转而主张，威斯特伐利亚神话应当解构并弃置（Krasner, 1999; Carvalho, Leira, and Hobson, 2011; Nexon, 2009; Osiander, 1994; Osiander, 2001; Teschke, 2009）[^carvalho-2011][^krasner-1999][^nexon-2009][^osiander-1994][^osiander-2001][^teschke-2009]。这些学者大体强调：国家性的若干重要成分早在威斯特伐利亚之前便已存在；而“等级制”——即自上而下对主权的限缩——的若干重要成分，在威斯特伐利亚之后仍延续良久。威斯特伐利亚今后会被如何看待，只能由学界的长期共识来决定。
 
 无论主权国家体系是在威斯特伐利亚即告巩固，还是在更晚才完全成形，抑或始终未成正统，它的基本形态毕竟在此后三个世纪里播散全球；其顶点是 20ᵗʰ 世纪中期欧洲殖民帝国的衰落，至此，国家成为有史以来唯一覆盖全球全部陆面的政体形式。今天，主权的诸项规范载于《联合国宪章》：第 2 条第 4 款禁止侵害“政治独立与领土完整”，第 2 条第 7 款则严格限制干涉。
 
@@ -57,7 +57,7 @@
 
 诚然，博丹认为行使主权之体受自然法与神法约束，虽然任何人法都无从审判它、也无从向它上诉。更出人意料的是，他还认为主权若得正当行使，便会尊重习惯权利与财产权利。这种限制如何与主权权威的最高地位相容，博丹并未讲清。或许在他看来，这类权利本就属于某一法律体制的特征，而该体制相对于其他权威本身即是主权性的。他还认为，行使主权权力的政府形式可以在君主制、贵族制与民主制之间合法变换——尽管他本人偏爱君主制。然而，无论主权之体形貌如何，它在自己的领土之内都不受任何外部人法或权威的管辖。F. H. 欣斯利写道：
 
-[博丹]意识到，统治者与被统治者之间的冲突必须终止，此乃当务之急。这是一桩令人瞩目的思想业绩。他看到，唯有既确立一种必然不受限制的统治权力，又把这种权力同那种可以肆意无视一切法律规章的专制主义区别开来，冲突才有望化解。其做法是：把此种权力的合法性，连同遵守种种界限的明智——界限限定着正当行使——一并奠基于政治体之本：政治体兼含统治者与被统治者。于是他对主权所作的陈述，便是必然且唯一可能的结果 **（124—125）**。
+[博丹]意识到，统治者与被统治者之间的冲突必须终止，此乃当务之急。这是一桩令人瞩目的思想业绩。他看到，唯有既确立一种必然不受限制的统治权力，又把这种权力同那种可以肆意无视一切法律规章的专制主义区别开来，冲突才有望化解。其做法是：把此种权力的合法性，连同遵守种种界限的明智——界限限定着正当行使——一并奠基于政治体之本：政治体兼含统治者与被统治者。于是他对主权所作的陈述，便是必然且唯一可能的结果 （124—125）。
 
 丹尼尔·李的《主权之权利》（2021）也是对博丹思想的一项重要探讨。该书主张，博丹并未像现代法律实证主义那样，把主权看作一种不受约束的命令权力；在他看来，主权是一种规范性权威，受自然法、万民法及其契约的约束。博丹的“主权陈述”是现代欧洲哲学中第一个系统性的陈述，因此当得起里程碑的地位。
 
@@ -65,7 +65,7 @@
 
 博丹与霍布斯都主张，主权即最高权威。这一概念至今仍是全球各国政治统治的预设，其中也包括由主权性法律体系确立有限政府与个人公民权利的国家。数百年来，关于主权由谁执掌的新观念不断涌现。卢梭与博丹、霍布斯都大不相同：他把国家之内的集体人民看作主权者，由他们通过公意来统治。在宪制政府中，主权者是通过一套法律体系来统治的人民。这一版本，正是今天世界上最常被赋予正当性的那一种。
 
-不过，令人想到霍布斯与博丹的主权版本，也一路延续到二十世纪。二十世纪初的德国哲学家、法学家卡尔·施米特便明确援引这两位思想家。他 1922 年的著作开篇写道：“主权者就是决断例外状态的人”（trans. G. Schwab, 1985）。施米特认为，主权者凌驾于一切宪法法律之上，在紧急时期应当能够为国家之善而“决断”。他对自由主义宪制主义少有敬意，认为它全然不足以容纳政治所内含的权力斗争。大体说来，至少在这部著作中，几无迹象显示施米特认为主权者受神法或自然法约束。魏玛德国的自由主义宪制主义正是他这一信念的主要证据；1930 年代，他狂热支持国家社会主义政权，而该政权的紧急权力恰恰是他认为必不可少的那一种。
+不过，令人想到霍布斯与博丹的主权版本，也一路延续到二十世纪。二十世纪初的德国哲学家、法学家卡尔·施米特便明确援引这两位思想家。他 1922 年的著作开篇写道：“主权者就是决断例外状态的人”（Schwab 英译, 1985）。施米特认为，主权者凌驾于一切宪法法律之上，在紧急时期应当能够为国家之善而“决断”。他对自由主义宪制主义少有敬意，认为它全然不足以容纳政治所内含的权力斗争。大体说来，至少在这部著作中，几无迹象显示施米特认为主权者受神法或自然法约束。魏玛德国的自由主义宪制主义正是他这一信念的主要证据；1930 年代，他狂热支持国家社会主义政权，而该政权的紧急权力恰恰是他认为必不可少的那一种。
 
 ## 3 主权国家的限缩：理论与实践
 
@@ -73,13 +73,13 @@
 
 1948 年，绝大多数国家签署《世界人权宣言》，承诺尊重个人的三十多项权利。该宣言不具法律约束力，也不含执行条款，因而各国主权毫发无损；但它毕竟是第一步，把这些国家拴系于涉及其内部事务的国际普遍义务之上。此后的数十年里，这些人权的法律地位日益牢固。人权公约中最有力者之一、也确实通过其仲裁机制（尽管温和）限缩主权的，是 1950 年订立的《保护人权与基本自由公约》。约略同时，1948 年 12 月 9 日签署了《灭绝种族罪公约》，责成签署国不实施并惩治灭绝种族。到 1960 年代中期，两项公约——《公民权利和政治权利国际公约》与《经济、社会及文化权利国际公约》——又在法律上约束世界上大多数国家尊重其人民的人权。同样，签署国的宪制权威大体未受触动，因为它们不容这些承诺中的任何一项侵犯本国主权。此后的人权公约也由世界绝大多数国家签署，同样附有类似的保留。
 
-人权实践唯有以军事执行或强有力的司法程序为后盾，才会切实限缩主权。这个方向上的进展始于冷战之后，其途径是对威斯特伐利亚和约的一次历史性修订——所削减的，正是和约诸条约所大力推行的规范：不干涉。自 1990 年起的一连串事件中，联合国或其他国际组织核准了某种政治行动，通常动用军事力量，而按国家间的广泛共识，这类行动从前会被视为对内部事务的不正当干涉。这些事件包括：核准军事行动以矫正一国边界之内的不义，或对警务之类的国内事务实行外部管理。与冷战时期的维和行动不同，这些行动通常未获目标国政府同意。伊拉克、前南斯拉夫、波斯尼亚、科索沃、索马里、卢旺达、海地、柬埔寨、利比里亚、利比亚等地都曾发生这类行动。个别干预的正当性与明智与否，常在各国之间引发争议。例如 1999 年 12 月美国轰炸伊拉克、北约干预科索沃，都未能取得联合国安全理事会的核准，2003 年美国入侵伊拉克亦然。尽管如此，干预这一广泛实践，很可能继续在联合国安全理事会及其他国际组织内得到广泛赞同。
+人权实践唯有以军事执行或强有力的司法程序为后盾，才会切实限缩主权。这个方向上的进展始于冷战之后，其途径是对威斯特伐利亚和约的一次历史性修订——所削减的，正是和约诸条约所大力推行的规范：不干涉。自 1990 年起的一连串事件中，联合国或其他国际组织核准了某种政治行动，通常动用军事力量，而按国家间的广泛共识，这类行动从前会被视为对内部事务的不正当干涉。这些事件包括：核准军事行动以矫正一国边界之内的不义，或对警务之类的国内事务实行外部管理。与冷战时期的维和行动不同，这些行动通常未获目标国政府同意。伊拉克、前南斯拉夫、波斯尼亚、科索沃、索马里、卢旺达、海地、柬埔寨、利比里亚、利比亚等地都曾发生这类行动。个别干预的正当性与明智与否，常在各国之间引发争议。例如 1998 年 12 月美国轰炸伊拉克、北约干预科索沃，都未能取得联合国安全理事会的核准，2003 年美国入侵伊拉克亦然。尽管如此，干预这一广泛实践，很可能继续在联合国安全理事会及其他国际组织内得到广泛赞同。
 
 《保护的责任》（The Responsibility to Protect）明确要求修订主权概念，以容许经国际核准的干预。这份文件由干预与国家主权国际委员会撰写并于 2001 年发布，该委员会由加拿大政府应联合国秘书长科菲·安南之请召集。文件提出对古典观念的一次有力修订：主权意味着国家对其本国公民负有“保护的责任”；而一旦国家实施大规模不义，或无力保护本国公民，外部人便可承接这一责任。保护的责任已引起广泛的国际关注，成为某种主权观念的宣言书——这种主权非绝对，且以外部的义务为条件。
 
 主权受到限缩的另一条途径，是欧洲一体化。这一构想同样出于对大屠杀的回应——在许多欧洲领导人看来，那场灾难至少部分要归咎于主权国家缺乏问责。从历史上看，欧洲一体化最热忱的拥护者确乎来自天主教基督教民主党；他们的理想植根于中世纪的基督教世界——在那里，至少在理论上没有哪位统治者是主权者，一切统治者都向一套普遍价值负责。以现代人权与民主的语言说来，他们回应的正是教宗英诺森十世对威斯特伐利亚和约的那番斥责。
 
-欧洲一体化始于 1950 年：六国通过《巴黎条约》组成欧洲煤钢共同体。该共同体对六国的煤钢产业确立联合的国际权威，既有常设官僚机构担纲行政，也有由各国外交部长组成的部长理事会负责决策。1957 年《罗马条约》把同一模式推广为一般经济区，又由欧洲法院补上司法一翼，由欧洲议会补上立法一翼（全欧直选产生）。此后，欧洲一体化一面拓宽——该机构如今有二十七个成员——一面深化：1991 年《马斯特里赫特条约》扩大其权能，并将其重组为欧洲联盟。欧洲联盟非但不是国家的替代品，反而把各国主权的重要方面“汇集”进一个“超国家的”机构，各国的行动自由在其中受到约束（Keohane & Hoffman 1991）[^keohane-1991]：它们不再是绝对主权者了。近年来，欧洲一体化在若干重要方面继续推进。2009 年 12 月 1 日《里斯本条约》全面生效：部长理事会与欧洲议会得到加强；联盟外交与安全政策高级代表得以设立，代表欧洲联盟的统一立场；欧洲联盟《基本权利宪章》也具有法律约束力。主权由此进一步汇集。然而，欧洲一体化近年也出现紧张。2004 年，欧洲联盟成员国签署了建立欧洲宪法的条约，但 2005 年法国与尼德兰举行公民投票否决了它，该条约未能批准。2016 年，联合王国的公民投票又让退出欧洲联盟的一方获胜，俗称“脱欧”。
+欧洲一体化始于 1950 年：六国通过《巴黎条约》组成欧洲煤钢共同体。该共同体对六国的煤钢产业确立联合的国际权威，既有常设官僚机构担纲行政，也有由各国外交部长组成的部长理事会负责决策。1957 年《罗马条约》把同一模式推广为一般经济区，又由欧洲法院补上司法一翼，由欧洲议会补上立法一翼（全欧直选产生）。此后，欧洲一体化一面拓宽——该机构如今有二十七个成员——一面深化：1991 年《马斯特里赫特条约》扩大其权能，并将其重组为欧洲联盟。欧洲联盟非但不是国家的替代品，反而把各国主权的重要方面“汇集”进一个“超国家的”机构，各国的行动自由在其中受到约束（Keohane & Hoffmann 1991）[^keohane-1991]：它们不再是绝对主权者了。近年来，欧洲一体化在若干重要方面继续推进。2009 年 12 月 1 日《里斯本条约》全面生效：部长理事会与欧洲议会得到加强；联盟外交与安全政策高级代表得以设立，代表欧洲联盟的统一立场；欧洲联盟《基本权利宪章》也具有法律约束力。主权由此进一步汇集。然而，欧洲一体化近年也出现紧张。2004 年，欧洲联盟成员国签署了建立欧洲宪法的条约，但 2005 年法国与尼德兰举行公民投票否决了它，该条约未能批准。2016 年，联合王国的公民投票又让退出欧洲联盟的一方获胜，俗称“脱欧”。
 
 通过国际规范与超国家机构对主权国家施加的这种限缩，在当代抨击绝对主权观念的哲学家那里得到呼应。他们的思想并不全然新颖。早在近代早期，雨果·格劳秀斯、阿尔贝里科·金蒂利与弗朗西斯科·苏亚雷斯等哲学家虽承认国家是正当制度，却认为其权威应当有限，而不应绝对。例如，残暴的君主会招致邻邦君主的惩戒，此举颇类当代人道主义干预观念。
 
@@ -95,7 +95,7 @@
 
 身为天主教哲学家，马里坦的论证与近代早期欧洲抨击绝对主权的那批基督教哲学家一脉相承。他们目睹国家这一庞然实体兴起，于是力求限制其权力与权威。今天，人们以人权之名、以从外部平息灭绝种族与灾难、送达救济之权之名、以国际刑事法院之名、以超国家实体之名，要求限制国家权威。后者正承担经济治理权，如今或许还有军事治理权。这些人正是他们的后裔。
 
-限缩主权的理由，在天主教及其他基督教传统中依然有力。例如教宗本笃十六世在 2008 年向联合国的演讲中，就为保护的责任作过论证。近年以来，自由主义传统中的政治哲学家同样主张限缩主权，托马斯·博格（1992, and 2008, 174–201）与艾伦·布坎南（2004）即两例。二人都赋予主权一种重要但非绝对的道德地位，力求为若干可能性腾出空间——诸如联合国核准的人道主义干预，以及抗击贫困的全球制度更为扎实的发展。
+限缩主权的理由，在天主教及其他基督教传统中依然有力。例如教宗本笃十六世在 2008 年向联合国的演讲中，就为保护的责任作过论证。近年以来，自由主义传统中的政治哲学家同样主张限缩主权，托马斯·博格（1992, 2008, 174–201）与艾伦·布坎南（2004）即两例。二人都赋予主权一种重要但非绝对的道德地位，力求为若干可能性腾出空间——诸如联合国核准的人道主义干预，以及抗击贫困的全球制度更为扎实的发展。
 
 ## 参考文献
 
@@ -107,7 +107,7 @@
 [^barkin-2021]: Barkin, J. Samuel, 2021. *The Sovereignty Cartel*, Cambridge: Cambridge University Press.
 [^bartelson-1995]: Bartelson, J., 1995. *A Genealogy of Sovereignty*, Cambridge: Cambridge University Press.
 [^bodin-1992]: Bodin, J., 1992. *On Sovereignty: Four Chapters From Six Books of the Commonwealth*, Cambridge: Cambridge University Press.
-[^brown-2010]: Brown, Wendy, 2010. *Walled States, Waning Sovereignty*, Brooklyn: Zone Books, 2010
+[^brown-2010]: Brown, Wendy, 2010. *Walled States, Waning Sovereignty*, Brooklyn: Zone Books
 [^buchanan-2004]: Buchanan, Allen, 2004. *Justice, Legitimacy, and Self-Determination*, Oxford: Oxford University Press.
 [^carvalho-2011]: de Carvalho, Benjamin, Halvard Leira and John Hobson, 2011. ‘The Myths That Your Teachers Still Tell You about 1648 and 1919,’ *Millennium*, 39(3): 735–758.
 [^ciorciari-2021]: Ciorciari, John D., 2021. *Sovereignty Sharing in Fragile States*, Stanford, CA: Stanford University Press.
@@ -120,7 +120,7 @@
 [^herzog-2020]: Herzog, Don, 2020. *Sovereignty, RIP*, New Haven: Yale University Press.
 [^hinsley-1986]: Hinsley, F. H., 1986. *Sovereignty*, second edition, Cambridge: Cambridge University Press.
 [^hobbes-1651]: Hobbes, Thomas, 1651. *Leviathan*, Harmondsworth: Penguin, 1968.
-[^international-2001]: International Commission on Intervention and State Sovereignty: Report, 2001. *The Responsibility to Protect*, International Development Research Centre Publications [[Preprint available online](https://web.archive.org/web/20070731161527/http://www.iciss-ciise.gc.ca/report2-en.asp)].
+[^international-2001]: International Commission on Intervention and State Sovereignty: Report, 2001. *The Responsibility to Protect*, International Development Research Centre Publications [预印本可在线获取](https://web.archive.org/web/20070731161527/http://www.iciss-ciise.gc.ca/report2-en.asp).
 [^jackson-2007]: Jackson, Robert, 2007. *Sovereignty: The Evolution of An Idea*, Cambridge: Polity Press.
 [^james-1986]: James, Alan, 1986. *Sovereign Statehood*, London: Allen & Unwin.
 [^james-1999]: James, Alan, 1999. ‘The Practice of Sovereign Statehood in Contemporary International Society,’ *Political Studies*, 47(3): 457–473.
@@ -132,8 +132,8 @@
 [^krasner-1999]: Krasner, Stephen D., 1999. *Sovereignty: Organized Hypocrisy*, Princeton: Princeton University Press.
 [^kratochwil-1989]: Kratochwil, Friedrich, 1989. *Rules, Norms, and Decisions: On the Conditions of Practical and Legal Reasoning in International Relations and Domestic Affairs*, Cambridge: Cambridge University Press.
 [^lee-2021]: Lee, Daniel, 2021. *The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations*, Oxford: Oxford University Press.
-[^luther-1967]: Luther, Martin., 1523. *Temporal Authority: To What Extent It Should Be Obeyed*, Philadelphia: Westminster Press, 1967.
-[^machiavelli-1950]: Machiavelli, Niccolo, 1532. *The Prince and the Discourses*, New York: The Modern Library, 1950.
+[^luther-1967]: Luther, Martin, 1523. *Temporal Authority: To What Extent It Should Be Obeyed*, Philadelphia: Westminster Press, 1967.
+[^machiavelli-1950]: Machiavelli, Niccolò, 1532. *The Prince and the Discourses*, New York: The Modern Library, 1950.
 [^maland-1966]: Maland, David, 1966. *Europe in the Seventeenth Century*, London: Macmillan.
 [^maritain-1951]: Maritain, Jacques, 1951. *Man and the State*, Chicago: University of Chicago Press.
 [^nexon-2009]: Nexon, Daniel H., 2009. *The Struggle for Power in Early Modern Europe: Religious Conflict, Dynastic Empires, and International Change*, Princeton: Princeton University Press.
@@ -143,13 +143,13 @@
 [^pavel-2014]: Pavel, Carmen, 2014. *Divided Sovereignty: International Institutions and the Limits of State Authority*, Oxford: Oxford University Press.
 [^philpott-2001]: Philpott, Daniel, 2001. *Revolutions in Sovereignty: How Ideas Shaped Modern International Relations*, Princeton: Princeton University Press.
 [^pogge-1992]: Pogge, Thomas, 1992. ‘Cosmopolitanism and Sovereignty,’ *Ethics*, 103: 48–75.
-[^pogge-2008]: Pogge, Thomas, 2008. *World Poverty and Human Rights*, 2nd. edition, Cambridge: Polity Press.
+[^pogge-2008]: Pogge, Thomas, 2008. *World Poverty and Human Rights*, 2nd edition, Cambridge: Polity Press.
 [^schmitt-1922]: Schmitt, Carl, 1922. *Politische Theologie: Vier Kapitel zur Lehre von der Souveränität*, München und Leipzig: Verlag von Duncker & Humblot; translated as *Political Theology: Four Chapters on the Concept of Sovereignty*, G. Schwab (trans.), Chicago: The University of Chicago Press, 1985.
 [^spruyt-1994]: Spruyt, Hendrik, 1994. *The Sovereign State and Its Competitors*, Princeton: Princeton University Press.
 [^srivastava-2022]: Srivastava, Swati, 2022. *Hybrid Sovereignty in World Politics* (Cambridge Studies in International Relations), Cambridge: Cambridge University Press.
 [^teschke-2009]: Teschke, Benno, 2009. *The Myth of 1648: Class, Geopolitics, and the Making of Modern International Relations*, London: Verso.
 [^wheatley-2023]: Wheatley, Natasha, 2023. *The Life and Death of States: Central Europe and the Transformation of Modern Sovereignty*, Princeton, NJ: Princeton University Press.
-[^wilks-1964]: Wilks, Michael, 1964. *The Problem of Sovereignty in the Later Middle Ages*, Cambridge: Cambridge University Press
+[^wilks-1964]: Wilks, Michael, 1964. *The Problem of Sovereignty in the Later Middle Ages*, Cambridge: Cambridge University Press.
 [^wolff-1990]: Wolff, R. P., 1990. *The Conflict Between Authority and Autonomy*, Oxford: Basil Blackwell.
 
 ## 学术工具
