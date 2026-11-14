@@ -46,8 +46,8 @@ def check_brackets(path, lineno, line, issues):
     t = _mask(line)
     if not re.search(r"[%s（）〔〕【】《》]" % HAN, t):
         return
-    t = re.sub(r"(?:^|[：、。\s（])([\d一二三四五六七八九十]{1,3})）",
-               lambda m: m.group(0)[:-1] + "\x01", t)  # 序次语 N）豁免（仅前导为冒号/顿号/句点/空白/开括号/行首）
+    t = re.sub(r"(?:^|[：、。\s])([\d一二三四五六七八九十]{1,3})）",
+               lambda m: m.group(0)[:-1] + "\x01", t)  # 序次语 N）豁免（前导限冒号/顿号/句点/空白/行首；不得含（——（2）是括注数字）
     for lo, hi in PAIRS:
         depth = 0
         for ch in t:
@@ -155,6 +155,8 @@ def check_file(path):
     text = read_text(path)
     slug = os.path.splitext(os.path.basename(path))[0]
     defs, dup = extract_bib_defs(text)
+    en_p = os.path.join(os.path.dirname(base_dir), "en", slug, "index.html")
+    en_text = read_text(en_p) if os.path.exists(en_p) else None
     for k in set(dup):
         issues.append({"path": path, "line": 0, "rule": "bib-duplicate",
                        "detail": "书目键重复定义 [^%s]（%d 次）" % (k, dup.count(k) + 1)})
@@ -175,7 +177,7 @@ def check_file(path):
         check_ellipsis(path, lineno, line, issues)
         check_links(path, lineno, line, issues, base_dir)
         if not in_biblio:
-            check_authoryear(path, lineno, line, issues, defs)
+            check_authoryear(path, lineno, line, issues, defs, en_text)
     check_counts(path, slug, text, issues)
     return issues
 
