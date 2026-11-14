@@ -1,0 +1,15 @@
+{
+ "key": "cnot gate",
+ "term": "CNOT gate",
+ "provider": "web-authority",
+ "queried_at": "2026-11-15T01:55:00+08:00",
+ "status": "ok",
+ "note": "2026-11-15 补亦作；非术语在线通道（ADR-0012 档②③）",
+ "hits": [
+  {
+   "cn": "量子受控非门",
+   "en": "CNOT gate",
+   "standard": "审定形冠“量子”；通行“受控非门”"
+  }
+ ]
+}

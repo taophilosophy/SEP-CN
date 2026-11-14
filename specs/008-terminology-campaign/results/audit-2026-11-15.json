@@ -8,8 +8,8 @@
  ],
  "counts": {
   "查无": 8343,
-  "一致": 1250,
-  "不一致": 840,
+  "一致": 1258,
+  "不一致": 832,
   "未查证": 449
  },
  "results": [
@@ -15526,9 +15526,9 @@
    "table": "术语",
    "line": 738,
    "term": "Cartesian product",
-   "trans": "笛卡尔积",
-   "basis": "数学通行译法；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "笛卡尔积（亦作“笛卡儿积”）",
+   "basis": "数学通行译法；凭证 2026-11-10；2026-11-15 联网复核补亦作（审定《数学名词》形“笛卡儿积”，中文文献两形同指并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -15553,10 +15553,17 @@
      "cn": "笛卡儿积",
      "en": "Cartesian product",
      "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "笛卡儿积",
+     "en": "Cartesian product",
+     "source": "审定《数学名词》形“笛卡儿积”；中文教材/文献“笛卡尔积”并行同指"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -18018,19 +18025,26 @@
    "table": "术语",
    "line": 815,
    "term": "Chinese Room",
-   "trans": "中文屋（审定作“中文屋论证”）",
-   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证）",
-   "status": "不一致",
+   "trans": "中文屋（亦作“中文屋论证”“中文房间”）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证）；2026-11-15 联网复核补亦作（大众语境通行“中文房间”，哲学文献“中文屋”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "中文屋论证",
      "en": "Chinese room argument",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "中文屋论证",
+     "en": "Chinese Room",
+     "source": "审定（自然辩证法·科学哲学）形“中文屋论证”；大众语境“中文房间”（Searle 思想实验）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -18392,19 +18406,26 @@
    "table": "术语",
    "line": 838,
    "term": "circumscription",
-   "trans": "限定推理",
-   "basis": "AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "限定推理（亦作“限定理论”）",
+   "basis": "AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10；2026-11-15 补亦作（审定形“限定理论”，国内 AI 逻辑文献两形并行）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "限定理论",
      "en": "circumscription",
      "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "限定理论",
+     "en": "circumscription",
+     "source": "审定形“限定理论”；国内 AI 逻辑文献“限定推理/限定理论”两形并行（McCarthy 术语）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -19200,19 +19221,26 @@
    "table": "术语",
    "line": 881,
    "term": "CNOT gate",
-   "trans": "受控非门",
-   "basis": "学界通行译名（controlled-NOT gate）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "受控非门（亦作“量子受控非门”）",
+   "basis": "学界通行译名（controlled-NOT gate）；凭证 2026-11-09；2026-11-15 补亦作（审定形冠“量子”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "量子受控非门",
      "en": "quantum controlled-NOT gate,CNOT gate",
      "source": "物理学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "量子受控非门",
+     "en": "CNOT gate",
+     "source": "审定形冠“量子”；通行“受控非门”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -19782,19 +19810,26 @@
    "table": "术语",
    "line": 900,
    "term": "coherence theory",
-   "trans": "融贯论",
-   "basis": "学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036）",
-   "status": "不一致",
+   "trans": "融贯论（亦作“真理的融贯论”）",
+   "basis": "学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "真理的融贯论",
      "en": "coherence theory of truth",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "真理的融贯论",
+     "en": "coherence theory",
+     "source": "审定形“真理的融贯论”；哲学通行“融贯论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -19813,19 +19848,26 @@
    "table": "术语",
    "line": 902,
    "term": "coherence theory of truth",
-   "trans": "真理融贯论",
-   "basis": "哲学通译（融贯论）",
-   "status": "不一致",
+   "trans": "真理融贯论（亦作“真理的融贯论”）",
+   "basis": "哲学通译（融贯论）；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "真理的融贯论",
      "en": "coherence theory of truth",
      "source": "自然辩证法名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "真理的融贯论",
+     "en": "coherence theory of truth",
+     "source": "审定形“真理的融贯论”；哲学通行“真理融贯论”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -22887,9 +22929,9 @@
    "table": "术语",
    "line": 1043,
    "term": "conscientiousness",
-   "trans": "尽责性",
-   "basis": "大五特质通行汉译；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "尽责性（亦作“严谨性”）",
+   "basis": "大五特质通行汉译；凭证 2026-11-10；2026-11-15 联网复核补亦作（学术标准形“尽责性”（大五量表系），“严谨性”为审定/他量表形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -22902,10 +22944,17 @@
      "cn": "自觉性",
      "en": "conscientiousness",
      "source": "马克思主义"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "严谨性",
+     "en": "conscientiousness",
+     "source": "审定/他量表形“严谨性”；学术标准形“尽责性”（大五量表系）"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -24441,19 +24490,26 @@
    "table": "术语",
    "line": 1103,
    "term": "continuity axiom",
-   "trans": "连续性公理",
-   "basis": "直觉主义分析学术语；凭证 2026-11-10",
-   "status": "不一致",
+   "trans": "连续性公理（亦作“连续公理”）",
+   "basis": "直觉主义分析学术语；凭证 2026-11-10；2026-11-15 补亦作（审定《数学名词》形“连续公理”）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
      "cn": "连续公理",
      "en": "axiom of continuity",
      "source": "数学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "连续公理",
+     "en": "continuity axiom",
+     "source": "审定《数学名词》形“连续公理”；直觉主义文献“连续性公理”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
