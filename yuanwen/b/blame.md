@@ -271,7 +271,7 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 
 [^chislenko-2021]: –––, 2021, “Causal Blame”, *American Philosophical Quarterly*, 58: 347–358.
 
-[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy *32: 1221–1234.
+[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy*, 32: 1221–1234.
 
 [^ciurria-2019]: Ciurria, M., 2019, *An Intersectional Feminist Theory of Moral Responsibility*, New York: Routledge.
 
@@ -317,7 +317,7 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 
 [^fritz-2019]: –––, 2019, “The Unique Badness of Hypocritical Blame”, *Ergo*, 6: 545–569.
 
-[^fritz-2021]: –––, 2021, “Two Problems of Self-Blame for Accounts of Moral Standing”, *Ergo*, 8: 54. doi: doi:10.3998/ergo.2255
+[^fritz-2021]: –––, 2021, “Two Problems of Self-Blame for Accounts of Moral Standing”, *Ergo*, 8: 54. doi:10.3998/ergo.2255
 
 [^gaukroger-2020]: Gaukroger, C., 2020, “Privacy and the Importance of ‘Getting Away With It’”, *Journal of Moral Philosophy*, 17: 416–439.
 
@@ -417,7 +417,7 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 
 [^roadevin-2018]: Roadevin, C., 2018, “Hypocritical Blame, Fairness, and Standing”, *Metaphilosophy*, 49: 137–152.
 
-[^robichaud-2017]: Robichaud, P. and J. W. Wieland. (eds.), 2017, *Responsibility: The Epistemic Condition*, Oxford: Oxford University Press.
+[^robichaud-2017]: Robichaud, P. and J. W. Wieland (eds.), 2017, *Responsibility: The Epistemic Condition*, Oxford: Oxford University Press.
 
 [^rosen-2004]: Rosen, G., 2004, “Skepticism about Moral Responsibility”, *Philosophical Perspectives*, 18: 295–313.
 
@@ -515,7 +515,7 @@ Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and G
 
 [^watson-2011]: –––, 2011, “The Trouble with Psychopaths”, in Wallace, Kumar, and Freeman (eds.), *Reasons and Recognition*, New York: Oxford University Press, pp. 307–331.
 
-[^watson-2013]: –––, 2013, “Moral Agency”, in H, LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Blackwell, pp. 3322–3333.
+[^watson-2013]: –––, 2013, “Moral Agency”, in H. LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Blackwell, pp. 3322–3333.
 
 [^watson-2015]: –––, 2015, “A Moral Predicament in the Criminal Law”, *Inquiry*, 58: 168–188.
 

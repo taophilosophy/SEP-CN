@@ -116,3 +116,4 @@
 | epictetus | `Cambridge :` / `Beyond :` | 去空格 | 排版（①） |
 | epictetus | 重复的 Stadter 1980 条 | 删一 | 重复登记（②） |
 | ethics-deontological | `Similansky` / `Sauders` / `Wedgewood` / `MacMahan` | `Smilansky` / `Saunders` / `Wedgwood` / `McMahan` | 拼写（①②） |
+| blame | `doi: doi:10.3998` / `Wieland. (eds.)` / `in H, LaFollette` / `<em>…Philosophy&nbsp;</em>32` | 去重复前缀、正句点、正逗号、卷号出斜体 | 标点与斜体（①） |

@@ -75,7 +75,7 @@ T. M. 斯坎伦（2008）提出了一种有影响力的责备说明，相较其�
 
 于是，与 Sher 一样，斯坎伦给出了一个初看可信的“何谓责备”说明。但也与 Sher 一样，其说明广受批评。最常见的批评路线可由 R. Jay 华莱士（2011）的口号概括：斯坎伦的说明“把责备从责备中漏掉了”。更确切地说，华莱士主张
 
-> 责备具有一种谴责品质（opprobrium），而斯坎伦进路核心处关于受损关系之规范意义的考量并未把握这一品质（Wallace 2011: 349; see also Mason 2011）[^mason-2011][^wallace-2011]。
+> 责备具有一种谴责品质（opprobrium），而斯坎伦进路核心处关于受损关系之规范意义的考量并未把握这一品质（Wallace 2011: 349；另见 Mason 2011）[^mason-2011][^wallace-2011]。
 
 Susan Wolf（2011）也主张，在某些情形中——比如一个脾气火爆但终究充满爱的家庭——你似乎可以责备他人，却不认为自己与该人的关系受损，也没有理由修改对他的意图或态度。于是，斯坎伦式责备解释的特征要素似乎并非必要。最后，Sher（2013）主张斯坎伦对关系的强调有问题。毕竟，许多不法行为涉及陌生人——例如多数偷车案中，受害者并不认识罪犯。然而，责备与我们并无既定关系的人似乎仍然可能。所以责备不可能本质上涉及人际关系。斯坎伦在回应中（2008, 2013）坚持：所有理性行动者彼此处于“道德关系”之中。但这类关系是否足以解释对陌生人的责备，并不清楚。而且正如 Sher 所指出的，即便受害者与侵害他的陌生人之间存在某种关系，也不清楚 **这种** 关系在奠基于责备方面究竟起了什么作用。（关于斯坎伦说明的晚近讨论，见 Chislenko 2020 与 Sars 2023。）[^chislenko-2020][^sars-2023]
 
@@ -247,7 +247,7 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 [^chislenko-2021]: –––, 2021, “Causal Blame”, *American Philosophical Quarterly*, 58: 347–358.
 
-[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy *32: 1221–1234.
+[^chislenko-2024]: –––, 2024, “The Whitewashing of Blame”, *European Journal of Philosophy*, 32: 1221–1234.
 
 [^ciurria-2019]: Ciurria, M., 2019, *An Intersectional Feminist Theory of Moral Responsibility*, New York: Routledge.
 
@@ -293,7 +293,7 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 [^fritz-2019]: –––, 2019, “The Unique Badness of Hypocritical Blame”, *Ergo*, 6: 545–569.
 
-[^fritz-2021]: –––, 2021, “Two Problems of Self-Blame for Accounts of Moral Standing”, *Ergo*, 8: 54. doi: doi:10.3998/ergo.2255
+[^fritz-2021]: –––, 2021, “Two Problems of Self-Blame for Accounts of Moral Standing”, *Ergo*, 8: 54. doi:10.3998/ergo.2255
 
 [^gaukroger-2020]: Gaukroger, C., 2020, “Privacy and the Importance of ‘Getting Away With It’”, *Journal of Moral Philosophy*, 17: 416–439.
 
@@ -393,7 +393,7 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 [^roadevin-2018]: Roadevin, C., 2018, “Hypocritical Blame, Fairness, and Standing”, *Metaphilosophy*, 49: 137–152.
 
-[^robichaud-2017]: Robichaud, P. and J. W. Wieland. (eds.), 2017, *Responsibility: The Epistemic Condition*, Oxford: Oxford University Press.
+[^robichaud-2017]: Robichaud, P. and J. W. Wieland (eds.), 2017, *Responsibility: The Epistemic Condition*, Oxford: Oxford University Press.
 
 [^rosen-2004]: Rosen, G., 2004, “Skepticism about Moral Responsibility”, *Philosophical Perspectives*, 18: 295–313.
 
@@ -491,7 +491,7 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 [^watson-2011]: –––, 2011, “The Trouble with Psychopaths”, in Wallace, Kumar, and Freeman (eds.), *Reasons and Recognition*, New York: Oxford University Press, pp. 307–331.
 
-[^watson-2013]: –––, 2013, “Moral Agency”, in H, LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Blackwell, pp. 3322–3333.
+[^watson-2013]: –––, 2013, “Moral Agency”, in H. LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Blackwell, pp. 3322–3333.
 
 [^watson-2015]: –––, 2015, “A Moral Predicament in the Criminal Law”, *Inquiry*, 58: 168–188.
 
@@ -514,10 +514,10 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 ## 其他网络资源
 
-** [《称赞与责备》](http://www.iep.utm.edu/praise/)，Garrath Williams 为《国际哲学百科全书》（*Internet Encyclopedia of Philosophy*）所撰条目。
+* [《称赞与责备》](http://www.iep.utm.edu/praise/)，Garrath Williams 为《国际哲学百科全书》（*Internet Encyclopedia of Philosophy*）所撰条目。
 * [《称赞与责备》](https://1000wordphilosophy.com/2022/06/06/praise-and-blame/)，Daniel Miller 为《千字哲学》在线文集所撰条目。
-** [《超越责备》](https://www.bostonreview.net/forum/barbara-fried-beyond-blame-moral-responsibility-philosophy-law/)，*Boston Review* 的在线论坛，多位哲学家撰稿。
-** [《责备》](http://www.radiolab.org/story/317421-blame/)，美国国家公共电台播客 *Radiolab* 的一期节目。
+* [《超越责备》](https://www.bostonreview.net/forum/barbara-fried-beyond-blame-moral-responsibility-philosophy-law/)，*Boston Review* 的在线论坛，多位哲学家撰稿。
+* [《责备》](http://www.radiolab.org/story/317421-blame/)，美国国家公共电台播客 *Radiolab* 的一期节目。
 
 ## 相关词条
 
@@ -525,6 +525,6 @@ Kyle Fritz 与 Daniel Miller（2018）提出类似观点，主张伪善责备涉
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
-### 致谢
+## 致谢
 
 我们衷心感谢 John Martin Fischer、Coleen Macnamara、Angela Smith 与 Gary Watson，感谢他们多年来在我们思考道德责任与责备时给予的一切帮助；也感谢美国学术团体理事会（American Council of Learned Societies）与威廉与玛丽学院在撰写本词条初期研究所提供的资助。还要感谢 Dee Payton 与 Patrick Todd 就资格问题所作的有益讨论。
