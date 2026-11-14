@@ -252,7 +252,7 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 [^note-9]: Thanks to a referee for pressing me on this point.
 
-[^broome-1995]: Broome, John, 1995. “Skorupski on agent-neutrality”, *Utilitas*, 7: 315–17. [[Preprint available online](http://www.brown.edu/Departments/Philosophy/bears/9511broo.html)]
+[^broome-1995]: Broome, John, 1995. “Skorupski on agent-neutrality”, *Utilitas*, 7: 315–17. [[Broome 1995 Preprint available online](https://static.brown.edu/bears/9511broo.html)]
 
 [^buckland-2019]: Buckland, J., 2019. “Skorupski and Broome on the Agent-Relative/Agent-Neutral Distinction”, *Utilitas*, 31(1): 59–82.
 
@@ -268,9 +268,9 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 [^dougherty-2013]: Dougherty, Tom. 2013. “Agent-Neutral Deontology”, *Philosophical Studies*, 163: 527–537.
 
-[^dreier-1993]: Dreier, James, 1993. “Structures of Normative Theories”, *The Monist*, 76: 22–40. [[Preprint available online](http://www.brown.edu/Departments/Philosophy/onlinepapers/dreier/Structures_of_Normative_Theories.pdf) (in PDF)]
+[^dreier-1993]: Dreier, James, 1993. “Structures of Normative Theories”, *The Monist*, 76: 22–40. [[Dreier 1993 Preprint available online (pdf)](https://drive.google.com/file/d/1gp0hk3OLPpO-kZ9xNluwhHb0C9w-Yxw6/view)]
 
-[^dreier-1996]: –––, 1996. “Accepting Agent Centred Norms”, *Australasian Journal of Philosophy*, 74: 409–422. [[Preprint available online](http://www.brown.edu/Departments/Philosophy/onlinepapers/dreier/Agent_Centred_Norms.pdf) (in PDF)]
+[^dreier-1996]: –––, 1996. “Accepting Agent Centred Norms”, *Australasian Journal of Philosophy*, 74: 409–422. [[Dreier 1996 Preprint available online (pdf)](https://drive.google.com/file/d/13PQ3bS_1TOUiQmAtECmZv_mAMUsckKYX/view)]
 
 [^hammerton-2018]: Hammerton, M., 2018. “Distinguishing Agent-Relativity From Agent-Neutrality”, *Australasian Journal of Philosophy*, 97(2): 239–250.
 
@@ -296,7 +296,7 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 [^löschke-2021]: –––, 2021. “Agent-Relative Reasons and Normative Force”, *Philosophia*, 49: 359–372.
 
-[^mack-1989]: Mack, Eric, 1989. “Against Agent-Neutral Value” *Reason Papers*, 14: 76–85. [[Preprint available online](http://www.reasonpapers.com/pdf/14/rp_14_7.pdf) (in PDF)]
+[^mack-1989]: Mack, Eric, 1989. “Against Agent-Neutral Value” *Reason Papers*, 14: 76–85. [[Mack 1989 Preprint available online (pdf)](https://www.reasonpapers.com/pdf/14/rp_14_7.pdf)]
 
 [^mack-1998]: –––, 1998. “Deontic Restrictions are Not Agent-Relative Restrictions”, *Social Philosophy and Policy*, 15: 61–83.
 
@@ -332,9 +332,9 @@ Many thanks to David Copp and Walter Sinnott-Armstrong for helpful feedback on a
 
 [^postema-1998]: Postema, G., 1998. “Public Practical Reason: An Archeology”, in D’Agostino and Gaus 1998, pp. 425–468.
 
-[^ridge-2001a]: Ridge, M., 2001a. “Agent-Neutral Consequentialism From the Inside-Out: Concern For Integrity Without Self indulgence,” *Utilitas* 13: 236–254. [[Preprint available online](http://www.michaelridge.com/publish/pdf/Agent-Neutral%20Consequentialism%20from%20the%20Inside-Out.pdf) (in PDF)]
+[^ridge-2001a]: Ridge, M., 2001a. “Agent-Neutral Consequentialism From the Inside-Out: Concern For Integrity Without Self indulgence,” *Utilitas* 13: 236–254. [[Ridge 2001a Preprint available online (pdf)](https://www.michaelridge.com/publish/pdf/Agent-Neutral%20Consequentialism%20from%20the%20Inside-Out.pdf)]
 
-[^ridge-2001b]: –––, 2001b. “Saving Scanlon: Contractualism and Agent-Relativity”, *Journal of Political Philosophy*, 9: 472–481. [[Preprint available online](http://www.michaelridge.com/publish/pdf/Saving%20Scanlon.pdf) (in PDF)]
+[^ridge-2001b]: –––, 2001b. “Saving Scanlon: Contractualism and Agent-Relativity”, *Journal of Political Philosophy*, 9: 472–481. [[Ridge 2001b Preprint available online (pdf)](https://www.michaelridge.com/publish/pdf/Saving%20Scanlon.pdf)]
 
 [^ridge-2009]: –––, 2009. “Consequentialist Kantianism,” *Philosophical Perspectives*, 23: 421–438.
 

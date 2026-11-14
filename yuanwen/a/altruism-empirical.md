@@ -334,7 +334,7 @@ On a more positive note, it seems that Batson and his associates have shown quit
 
 ## Other Internet Resources
 
-- [Moral Psychology Research Group](http://www.moralpsychology.net/group/)
+- [Moral Psychology Research Group](http://www.moralpsychology.net/)
 - [Papers on Altruism and Psychological Egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org
 - [Papers on Evolution of Altruism](https://philpapers.org/browse/evolution-of-altruism) at PhilPapers.org
 - [Papers on Empathy & Sympathy](https://philpapers.org/browse/empathy-and-sympathy/) at PhilPapers.ord

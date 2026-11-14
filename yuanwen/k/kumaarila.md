@@ -169,7 +169,7 @@ Exemplifying, that is, a long-standing tradition that has always already precede
 
 ## Other Internet Resources
 
-- [Göttingen Register of Electronic Texts in Indian Languages (“GRETIL”)](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)
+- [Göttingen Register of Electronic Texts in Indian Languages (“GRETIL”)](https://gretil.sub.uni-goettingen.de/gretil.html)
 - [Bibliography of Indian Philosophies](https://web.archive.org/web/20211113104439/http://faculty.washington.edu/kpotter/ckeyt/home.htm), compiled by Karl Potter; maintained by Christine Keyt [archived]
 
 ## Related Entries

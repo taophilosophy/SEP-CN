@@ -135,7 +135,7 @@ While McMahan may be right that strong interests of an earlier person trump comp
 
 ## Other Internet Resources
 
-- [Sample Advance Directive](http://www.aafp.org/afp/990201ap/617.html), American Academy of Family Physicians
+- [Sample Advance Directive](https://www.aafp.org/afp/1999/0201/p617), American Academy of Family Physicians
 - [Papers on Advanced Directives](http://philpapers.org/browse/4425/), in philpapers.org.
 - [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking_care/chapter2.html), Chapter 2 of *Taking Care: Ethical Caregiving in Our Aging Society*, The President's Council on Bioethics Report.
 

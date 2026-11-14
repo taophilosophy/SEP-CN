@@ -13,7 +13,7 @@ Whether one uses the modal sense or the whatness sense, it is common to use the 
 
 > • $P$ is an essential (accidental) property of an object $o$ if and only if $P$ is essential (accidental) to $o$
 >
-> • $P$ is an essential (accidental) property of and object $o$ if and only if $o$ has $P$ essentially (accidentally)
+> • $P$ is an essential (accidental) property of an object $o$ if and only if $o$ has $P$ essentially (accidentally)
 
 Also, it is common to use ‘essence’ in such a way that the essence of an object is the class of all its essential properties. Note that, by contrast, it is not common to use ‘accident’ in a corresponding way for the class of all of an object’s accidental properties.
 

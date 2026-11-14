@@ -304,7 +304,7 @@ Another version of this argument says that fundamental moral philosophical princ
 ## Other Internet Resources
 
 - Cova, F., Strickland, B., Abatista, A. G. F., Allard, A., Andow, J., Attie, M., … Zhou, X., 2018, [Estimating the Reproducibility of Experimental Philosophy](http://doi.org/10.17605/OSF.IO/DVKPR), 21 April 2018, Open Science Framework.
-- [Moral Psychology Research Group](http://www.moralpsychology.net/group/)
+- [Moral Psychology Research Group](http://www.moralpsychology.net/)
 - [Experimental Philosophy Blog](http://philosophycommons.typepad.com/xphi/)
 - [Replications in Experimental Philosophy](http://experimental-philosophy.yale.edu/xphipage/Experimental%20Philosophy-Replications.html)
 - [Blogging Heads TV: Mind Report](http://bloggingheads.tv/programs/mind-report)

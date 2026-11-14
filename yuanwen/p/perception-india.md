@@ -201,7 +201,7 @@ We close this entry on the note that *Sūtra-s* were primarily composed in the s
 
 ## Other Internet Resources
 
-- [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)
+- [Göttingen Register of Electronic Texts in Indian Languages](https://gretil.sub.uni-goettingen.de/gretil.html)
 
 ## Related Entries
 

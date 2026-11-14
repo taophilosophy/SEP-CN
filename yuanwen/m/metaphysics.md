@@ -290,7 +290,7 @@ The weak form of the thesis that metaphysics is impossible is this: there is som
 
 ## Other Internet Resources
 
-- [The Determinism and Freedom Philosophy Website](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich.
+- [The Determinism and Freedom Philosophy Website](https://www.homepages.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich.
 
 [Please contact the author with other suggestions.]
 

@@ -295,7 +295,7 @@ Finally, Norman Kretzmann (1997, 220–25)[^kretzmann-1997] has argued in the co
 
 ## Other Internet Resources
 
-- [The Determinism and Freedom Philosophy Website](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London)
+- [The Determinism and Freedom Philosophy Website](https://www.homepages.ucl.ac.uk/~uctytho/dfwIntroIndex.htm), edited by Ted Honderich (University College London)
 - [Bibliography on Free Will](http://philpapers.org/browse/free-will), at philpapers.org.
 
 ## Related Entries

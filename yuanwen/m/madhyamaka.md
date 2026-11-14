@@ -188,7 +188,7 @@ By the time Śāntarakṣita was active, the philosophy of the Yogācāra school
 
 ## Other Internet Resources
 
-- [GRETIL (Göttingen Register of Electronic Texts in Indian Languages)](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm) is a constantly growing repository of digital texts, mostly in Sanskrit, on all topics, including a section on [Buddhist philosophy](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#BauddhDa).
+- [GRETIL (Göttingen Register of Electronic Texts in Indian Languages)](https://gretil.sub.uni-goettingen.de/gretil.html) is a constantly growing repository of digital texts, mostly in Sanskrit, on all topics, including a section on [Buddhist philosophy](https://gretil.sub.uni-goettingen.de/gretil.html#BauddhDa).
 
 ## Related Entries
 

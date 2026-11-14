@@ -1,408 +1,365 @@
 # Epistemic Closure
-**First published Mon Dec 31, 2001; substantive revision Wed Feb 24, 2016**
+**First published Wed Nov 4, 2026**
 
-*Luper, Steven*
+*Alspector-Kelly, Marc*
 
-Most of us think we can safely enlarge our knowledge base by accepting things that are entailed by (or logically implied by) things we know. Roughly speaking, the set of things we know is closed under entailment (or under deduction or logical implication), so we know that a given claim is true upon recognizing, and accepting thereby, that it follows from what we know. This is not to say that our usual way of adding to our knowledge is simply to recognize and accept what follows from what we already know. Obviously much more is involved. For instance, we gather data and construct explanations of those data, and under suitable circumstances we learn from others. More to the point at hand, when we claim that we know, of some proposition, that it is true, that claim is itself subject to error; often, seeing what follows from a knowledge claim prompts us to reassess and even withdraw our claim, instead of concluding, of the things that follow from it, that we know that they are true. Still, it seems reasonable to think that if we *do* know that some proposition is true then we are in a position to know, of the things that follow from it, that they, too, are true. However, some theorists have denied that knowledge is closed under entailment. The arguments against closure include the following:
+[*Editor’s Note: The following new entry by Marc Alspector-Kelly replaces the [former entry](https://plato.stanford.edu/archives/fall2026/entries/closure-epistemic/) on this topic by the previous author.*]
 
-*The argument from the analysis of knowledge*: given the correct analysis, knowledge is not closed, so it isn’t. For example, if the correct analysis includes a tracking condition, then closure fails.
+A set is *closed* under a relation when members of that set only stand in that relation to other members of that set.[^note-1] The epistemic closure debates concern whether sets of certain beliefs—primarily those that are known, justified, or warranted—are closed under relations that, in one way or another, involve valid deductive implication.
 
-*The argument from nonclosure of knowledge modes*: since the modes of gaining, preserving or extending knowledge, such as perception, testimony, proof, memory, indication, and information are not individually closed, neither is knowledge.
+Most—but by no means all—of the discussion has centered on *knowledge closure*. As we’ll characterize it here (see §1.1 below), knowledge closure is the claim that, if you know $P$ and believe $Q$ because it’s deductively implied by $P$, then you also know $Q$.[^note-2] And how could you not? After all, as you’re well aware, $Q$ *has* to be true if $P$ is; and you *know* that $P$ is true. So of course you know that $Q$ is true as well!
 
-*The argument from unknowable (or not easily knowable) propositions*: certain sorts of propositions cannot be known (without special measures); given closure, they could be known (without special measures), by deducing them from mundane claims we known, so knowledge is not closed.
+The intuition expressed by the “how could you not?” exclamation above is a powerful one, as even closure deniers concede. Some advocates, indeed, view closure as an unassailable epistemological axiom, so that any theory implying closure failure is refuted thereby.[^note-3] Admittedly, a stance as dismissive of closure denial as this is not as widely endorsed nowadays. But the force of the intuition that closure is obviously true has been, and remains, the most influential consideration in its favor, as a result of which closure’s endorsement is widely regarded as the default position.
 
-*The argument from skepticism*: skepticism is false but it would be true if knowledge were closed, so knowledge is not closed.
+Consequently, most of the arguments for closure are really arguments against closure denial, ones that purport to show that the supposed gains that accrue to such denial can be achieved without renouncing closure. Closure deniers, meanwhile, argue that such denial is the linchpin for the resolution of a variety of epistemological quandaries, and that their stance avoids untenable commitments that are forced on the closure advocate.
 
-While proponents of closure have responses to these arguments, they also argue, somewhat in the style of G. E. Moore (1959)[^moore-1959], that closure itself is a firm datum—it is obvious enough to rule out any understanding of knowledge or related notions that undermines closure.
+Closure is central to a wide variety of epistemological issues. These include the nature of knowledge and of justification, skepticism, sensitivity and safety, transmission and transmission failure, fallibilism, contextualism and pragmatic encroachment, bootstrapping and circularity, evidence and probability, and the lottery and preface paradoxes, among others.
 
-A closely related idea is that it is rational (justifiable) for us to believe anything that follows from what it is rational for us to believe. This idea is intimately related to the thesis that knowledge is closed, since, according to some theorists, knowing *p* entails justifiably believing *p*. If knowledge entails justification, closure failure of the latter might lead to closure failure of the former.
+## 1. Defining Closure and Closure Denial
 
-## 1. Knowledge Closure
+### 1.1 Defining Closure
 
-Precisely what is meant by the claim that knowledge is closed under entailment? One response is that the following straight principle of closure of knowledge under entailment is true:
+According to the simplest version of closure—appearing primarily in studies of epistemic logic—if you know $P$, and $P$ implies $Q$, then you know $Q$. If, however, you have no idea that $P$ does imply $Q$, you wouldn’t be expected to nevertheless inevitably know $Q$, even if you do know $P$.
 
-(**SP**)
+What might be called the *classic* version says that, if you know both $P$ and that $P$ implies $Q$, then you know $Q$. But it’s consistent with the antecedent that you don’t even believe $Q$. And, even if you do, you might not believe it because it follows from $P$ but instead from, say, wishful thinking.
 
-If person *S* knows *p*, and *p* entails *q*, then *S* knows *q*.
+A recent, now-popular alternative forgoes reference to your knowing that $P$ implies $Q$:
 
-The conditional involved in the straight principle might be the material conditional, the subjunctive conditional, or entailment, yielding three possibilities, each stronger than the one before:
+> If you know $P$ and competently deduce $Q$ from $P$, thereby coming to believe $Q$, while retaining your knowledge of $P$ throughout, then you know $Q$ (Hawthorne 2004, 34)[^hawthorne-2004].
 
-(**SP1**)
+Call this the *dynamic* version. The “retaining your knowledge throughout” clause is due to the fact that this is a diachronic principle: your deduction of $Q$ from $P$ takes up an interval of time, at the end of which you come to believe $Q$. Since you could lose your knowledge of $P$ during that interval, the additional clause is required. This contrasts with the classic version, which is synchronic: you know $P$, that $P$ implies $Q$, and $Q$ at the same time. The dynamic version represents the expansion of knowledge by inference, which its advocates view as the core of the intuition behind closure.[^note-4]
 
-*S* knows *p* and *p* entails *q* only if *S* knows *q*.
+There are, however, reasons to prefer a synchronic version. A competent deduction could involve a number of inferential steps or just one. If it involves a number of them, then closure will need to apply to each intermediate step. But then we might as well just limit the principle to one-step inferences. But we shouldn’t treat a one-step competent deduction as requiring that you end up believing $Q$; closure is sometimes appealed to in order to explain retraction phenomena wherein, realizing that $P$ implies $Q$, you retract your belief in $P$ rather than coming to believe $Q$. But then a one-step competent deduction just seems to involve your recognition, at a time, that $P$ implies $Q$ (Alspector-Kelly 2019, 9–10)[^alspector-kelly-2019].
 
-(**SP2**)
+It’s also consistent with the antecedent of the dynamic version that, at some point during the interval taken up by the competent deduction, you lose your recognition that $P$ implies $Q$, and so arrive at your belief in $Q$ without any grip on its inferential relation to $P$. You could, then, believe $Q$ at that point from wishful thinking, and so not know it. So you need to retain throughout, and so into the moment that you believe $Q$, not only your knowledge of $P$, but also your recognition that $Q$ follows from $P$. But then we might as well just characterize closure as concerning your epistemic state at that moment from the outset.[^note-5]
 
-If *S* were to know something, *p*, that entailed *q*, *S* would know *q*.
+We’ll work with the following synchronic version:
 
-(**SP3**)
+SPC (single-premise closure): necessarily, if you know $P$, and believe $Q$ because it’s implied by $P$, then you know $Q$.[^note-6]
 
-It is necessarily the case that: *S* knows *p* and *p* entails *q* only if *S* knows *q*.
+The phrase “because it’s implied by $P$” does not mean merely that you know that $P$ implies $Q$ as per the classic version. You could know this solely by testimony, for example, without any comprehension of the inferential relation.[^note-7] Rather, you understand, or “see”, that $P$ implies $Q$, which understanding somehow grounds your inferential dispositions, and which dispositions are manifested by your believing $Q$. We won’t attempt to finesse such understanding further here.[^note-8]
 
-However, each version of the straight principle is false, since we can know one thing, *p*, but fail to see that *p* entails *q,* or for some other reason fail to believe *q*. Since knowledge entails belief (according to nearly all theorists), we fail to know *q*. A less obvious worry is that we might reason badly in coming to believe that *p* entails *q*. Perhaps we think that *p* entails *q* because we think everything entails everything, or because we have a warm tingly feeling between our toes. Hawthorne (2005)[^hawthorne-2005] raises the possibility that, in the course of grasping that *p* entails *q*, *S* will cease to know *p*. He also notes that **SP1** is defensible on the (deviant) assumption that a thought, *p*, is equivalent to another, *q*, if *p* and *q* hold in all of the same possible worlds. Suppose *p* entails *q*. Then *p* is equivalent to the conjunction of *p* and *q*, and so the thought *p* is identical to the thought *p* and *q*. Hence in knowing *p* *S* knows *p* and *q*. Assuming that, in knowing *p* and *q*, *S* knows *p* and S knows *q*, then when *S* knows *p* *S* knows *q*, as **SP1** says.
+Your believing $Q$ because it’s implied by $P$ is compatible with belief overdetermination: you could believe $Q$ for other reasons as well. You might, for example, have already believed, before arriving at the department meeting, that the minimum of ten faculty members required for a quorum are present because a colleague, already there, told you as much by phone. Upon arriving and counting twelve faculty members, you then infer that a quorum is indeed present, and believe it for that reason as well.
 
-The straight principle needs qualifying, but this should not concern us so long as the qualifications are natural given the idea we are trying to capture, namely, that we can extend our knowledge by recognizing, and accepting thereby, things that follow from something that we know. The qualifications embedded in the following principle (construed as a material conditional) seem natural enough:
+The “necessarily” operator is needed. If SPC were a material conditional, then it would be true if there just happen not to be cases wherein the antecedent is true and the consequent false, but where that combination is entirely possible. It’s also likely stronger than a subjunctive conditional, which still permits possible scenarios in which the antecedent is true and the consequent false (see note 11). But it’s not logical necessity: the consequent isn’t a logical consequence of the antecedent. So it’s intended as either a metaphysical necessity, reflecting the essential characteristics of knowledge, or a conceptual necessity, reflecting the contours of the concept of knowledge. We won’t try to determine which here.
 
-(**K**)
+SPC concerns inferences with only one premise. The multi-premise version runs as follows:
 
-If, while knowing *p*, *S* believes *q* because *S* knows that *p* entails *q*, then *S* knows *q*.
+MPC: necessarily, if you know each of $P, R, S,\ldots$, and believe $Q$ because it’s implied by $P, R, S,\ldots$, then you know $Q$.
 
-As Williamson (2000)[^williamson-2000] notes, the idea that we can extend our knowledge by applying deduction to what we know supports a closure principle that is stronger than **K**. It is a principle that says we know things we believe on the grounds that they are jointly implied by several separate known items. Suppose I know Mary is tall and I know Mary is left handed. **K** does not authorize my putting these two pieces of knowledge together so as to know that Mary is tall and left handed. But the following generalized closure principle covers deductions involving separate known items:
+Much of the discussion below concerns SPC because what’s said of it will apply to MPC as well and, as we’ll see in §4, there are concerns about MPC that, *prima facie* at least, don’t apply to SPC.
 
-(**GK**)
+### 1.2 Closure Denial
 
-If, while knowing various propositions, *S* believes *p* because *S* knows that they entail *p*, then *S* knows *p*.
+Closure deniers don’t deny that sometimes—indeed, most of the time—when SPC’s antecedent is satisfied, so is its consequent. But they deny that this is an exceptionless generalization: there are, the closure denier insists, cases—possible ones, if not actual—wherein the antecedent is satisfied but the consequent not.
 
-Some theorists distinguish between something they call “single premise” and something they call “multiple-premise closure”. Such theorists would deny that **K** captures “single premise” closure, because **K** says that *S* knows *q* if *S* knows that *two* things are true: that *p* is true as well as that *p* entails *q*. The “single premise” closure principle is usually formulated roughly as follows (following Williamson 2002 and Hawthorne 2004)[^hawthorne-2004]:
+However, there aren’t any closure deniers—at least, no sane ones—in the sense of someone who thinks that *no* closure principle is true. *Some* feature $F$ will systematically distinguish cases wherein SPC succeeds from those wherein it fails. So some version of the following closure principle is true: if you know $P,$ believe $Q$ because it follows from $P,$ *and* $F$ *is realized*, then you know $Q$. Whether one counts as a closure advocate who is finessing the closure principle or as a closure denier, then, is really a matter of degree: how much is packed into $F$, and how far does it take us from the underlying intuition motivating closure’s advocacy?[^note-9]
 
-(**SPK**)
+## 2. Sensitivity, Safety, and Skepticism
 
-If, while knowing *p*, *S* believes *q* by competently deducing *q* from *p*, then *S* knows *q*.
+The knowledge closure debate was initially triggered, and subsequently dominated, by two closure-denying theories of knowledge: Robert Nozick’s tracking theory and Fred Dretske’s conclusive reasons account.
 
-However, it is far from clear that one may competently deduce *q* from *p* without relying on any knowledge aside from *p*. Fortunately, it seems that nothing hinges on this possibility, except perhaps for people interested in whether we can identify something that can appropriately be labeled “single premise closure principle”.
+### 2.1 Nozick
 
-Proponents of closure might accept both **K** and **GK**, perhaps further qualified in natural ways (but they might not: see the concerns about justification closure raised in section 6). By contrast, Fred Dretske and Robert Nozick reject **K** and therefore **GK** as well. They reject any closure principle, no matter how narrowly restricted, that warrants our knowing that skeptical hypotheses (e.g., I am a brain in a vat) are false on the basis of mundane knowledge claims (e.g., I am not in a vat). In addition to rejecting **K** and **GK**, they deny knowledge closure across instantiation and simplification, but not across equivalence (Nozick 1981: 227–229)[^nozick-1981]:
+Nozick (1981, ch. 3) initially proposed that, for you to know $P$, if $P$ were false then you wouldn’t believe it. This subjunctive (or counterfactual or modal) conditional has come to be called the “sensitivity” condition.[^note-10] Sensitivity is standardly interpreted in possible-worlds format as requiring that, in the nearest world(s) to the actual world in which $P$ is false, you don’t believe $P$.[^note-11]
 
-(**KI**)
+The view implies closure failure. But, far from regarding this as a disadvantage, Nozick saw it as the key to countering the Cartesian Skeptical Argument (CSA).[^note-12] Consider the following version of the CSA, where “$H$” is “you have hands” and “$BIV$” is “you’re a handless brain-in-a-vat”—your brain resides in a vat where it is electrically stimulated to have precisely the same sensory experiences that you now have:
 
-If, while knowing that all things are *F*, *S* believes a particular thing *a* is *F* because *S* knows it is entailed by the fact that all things are *F*, then *S* knows *a* is *F*.
+**CSA1.**
 
-(**KS**)
+You don’t know $\neg BIV$.
 
-If, while knowing *p* and *q*, *S* believes *q* because *S* knows that *q* is entailed by *p* and *q*, then *S* knows *q*.
+**CSA2.**
 
-(**KE**)
+If you don’t know $\neg BIV$, then you don’t know $H$.
 
-If, while knowing *p*, *S* believes *q* because *S* knows *q* is equivalent to *p*, then *S* knows *q*.
+**CSA3.**
 
-Let us turn to their arguments.
+So you don’t know $H$.
 
-## 2. The Argument From the Analysis of Knowledge
+Since an argument with the same structure could be run for almost any claim about the external world by substituting that claim for $H$, the ultimate result is skepticism of the external world.[^note-13]
 
-The argument from the analysis of knowledge says that the correct account of knowledge leads to **K** failure. We can distinguish two versions. According to the first version, **K** fails because knowledge requires belief tracking. According to the second, any relevant alternatives account, such as Dretske’s and Nozick’s, leads to **K** failure. According to Dretske (2003: 112–3; 2005: 19), any relevant alternatives account leads “naturally” but “not inevitably” to **K** failure.
+If you didn’t have hands, this wouldn’t be because you’re a $BIV$—a remote possibility beyond our current technological capacities—but because you lost them in, for example, a car accident. But then you would be well aware that you don’t have hands, and so wouldn’t believe that you do. So $H$ is sensitive. Assuming that you also meet whatever other conditions knowledge requires, if any, then you know $H$. However, if you were a $BIV$ then, since everything would seem to you precisely as it now does, you would still believe that you’re not a $BIV$; $\neg BIV$ is insensitive. So you don’t know $\neg BIV$. So CSA2 is false. CSA2 is the contrapositive of “if you know $H$, then you know $\neg BIV$”, which is an instance of the closure principle that, if you know $P$ (and $P$ implies $Q)$, then you know $Q$. So that principle is false.[^note-14]
 
-### 2.1 Closure Fails Due to the Tracking Condition on Knowledge
+Here’s a counterexample to the sensitivity condition that Nozick considered (Nozick 1981, 179)[^nozick-1981]. A grandmother is visited by her grandson, who appears well. She presumably knows, in virtue of his so appearing, that he is well. But if he were ill, other family members would prevent her from seeing him and would tell her that he is well, so as to avoid distressing her. So she would still believe that he is well. So her belief is insensitive. But she seems, nonetheless, to know that he is well.
 
-In rough outline, the first version involves defending say Dretske’s or Nozick’s tracking analysis of knowledge, then showing that it undermines **K** (versions of the tracking account are also defended by Becker 2009, by Murphy and Black 2007, and by Roush 2005, the last of whom modifies the tracking account so as to preserve closure; for criticisms of Rouse see Brueckner 2012)[^becker-2009][^black-2007][^brueckner-2012][^murphy-2005][^roush-2005]. We can skip the defense, which consists largely in showing that tracking does a better job than competitors in dealing with our epistemic intuitions about cases of purported knowledge. We may also simplify the analyses. According to Nozick, to know *p* is, very roughly (and ignoring his thoroughly discredited fourth condition for knowledge, criticized, e.g, in Luper 1984 and 2009 and in Kripke 2011)[^kripke-2011][^luper-1984], to have a belief *p* which meets the following condition (‘**BT**’ for belief tracking):
+Nozick’s response was to appeal to methods: if $P$ were false then you would not believe $P$ *by the same method you actually used to arrive at belief in $P$.* Grandma’s actual method was visual inspection of her grandson and, if he were ill and so looked it, she wouldn’t believe he was well. So her belief, although insensitive, is method-sensitive. Knowledge, Nozick suggested, requires, not sensitivity, but method-sensitivity.
 
-(**BT**)
+### 2.2 Dretske
 
-were *p* false, *S* would not believe *p*.
+On Dretske 1971’s conclusive-reasons view, knowledge requires that you wouldn’t have the reason you have for your belief if that belief were false.[^note-15] In other words, Dretske requires, not that your belief is sensitive, but that your reason is. In the grandmother case, if the grandson were sick she wouldn’t have the same reason—that he looks well—that she actually has, and so his looking that way counts as a conclusive reason.[^note-16]
 
-That is, in the close worlds to the actual world in which *not-p* holds, *S* does not believe *p*. The actual world is one’s situation as it is when one arrives at the belief *p*. **BT** requires that in all nearby *not-p* worlds *S* fails to believe *p*. (The semantics of subjunctive conditionals is clarified in Stalnaker 1968, Lewis 1973, and modified by Nozick 1981 note 8.)[^lewis-1973][^nozick-1981][^stalnaker-1968] On Dretske’s view knowing *p* is roughly a matter of having a reason *R* for believing *p* which meets the following condition (‘**CR**’ for conclusive reason):
+Dretske’s conclusive-reasons account and Nozick’s method-relative account arrive at the same judgments about who knows what in, at least, the cases we will be considering.[^note-17] So we’ll treat them as the same view for our purposes here, calling it the “basis-sensitivity” account, where “basis” is neutral between methods of belief formation and reasons for belief.
 
-(**CR**)
+In support of his view Dretske offered the now-famous zebra case (Dretske 1970)[^dretske-1970]. You’re at the zoo, looking into the zebra paddock at a zebra. Since it looks like a zebra $(LZ)$, you believe, and presumably know, that it is a zebra $(Z). Z$ is basis-sensitive: if it weren’t a zebra it would be, say, a rhino, and so wouldn’t look like a zebra. Since zebras aren’t mules, $Z$ implies that it’s not a mule disguised to look just like a zebra $(\neg DM)$. You infer $\neg DM$ from $Z. \neg DM$ is not basis-sensitive: $DM$ implies $LZ$, so you’d still believe $Z$ and infer $\neg DM$ from it. It’s obvious, Dretske insists, that you can’t learn $\neg DM$ by so inferring. But you also don’t know $\neg DM$ by its appearance, which it would have if $DM$. Nor have you washed the animal, conducted a DNA test, or done anything else that would indicate $\neg DM$. So you know $Z$ but not $\neg DM$. Closure fails.
 
-were *p* false, *R* would not hold.
+Skeptical hypotheses like “I’m a $BIV$”, “I’m dreaming”, and the like are *wholesale*: they are one-size-fits-all hypotheses designed to undermine virtually all external-world knowledge claims. $DM$ is, instead, a *piecemeal* skeptical hypothesis, targeting a specific ordinary knowledge claim, with the implied suggestion that similar piecemeal skeptical hypotheses can be wielded against most if not all other external-world knowledge claims.[^note-18] Skeptical hypotheses of both varieties imply that your grounds for believing the targeted ordinary claims—you seem to have hands, it looks like a zebra—remain (or, at least, seem to do so). Call such ordinary proposition/skeptical hypothesis pairs—where the former implies the denial of the latter—*Dretske cases*.
 
-That is, in the close worlds to the actual world in which *not-p* holds, *R* does not. When *R* meets this condition, Dretske says *R* is a conclusive reason for believing *p*.
+Dretske (1970)[^dretske-1970] saw the zebra case as an instance of what he called “penetration failure”: your basis, $LZ$, for believing $Z$ doesn’t constitute a basis for $\neg DM$. He thought that such penetration failures provide an argument for closure failure: if the way in which you come to know the premise isn’t inevitably available as a way to come to know the conclusion, then why think that you must end up knowing the conclusion anyway? However, your basis for the conclusion is that it follows from the premise, which inevitably *isn’t* your basis for the premise. Closure doesn’t require that the *way* you know the premise is inevitably a *way* to know the conclusion. It only requires that, if you *do* know the premise, and infer the conclusion from it, then you know the conclusion (Klein 1995, Luper 2006; see also §3.1 below)[^klein-1995][^luper-2006].
 
-Dretske pointed out (2003, n. 9; 2005, n. 4) that his view does not face one of the objections which Saul Kripke (2011, 162–224; Dretske had access to a draft circulated prior to publication) deploys against Nozick’s account. Suppose I am driving through a neighborhood in which, unbeknownst to me, papier-mâché barns are scattered, and I see that the object in front of me is a barn. I also notice that it is red. Because I have barn-before-me percepts, I believe *barn*: the object in front of me is a (ordinary) barn (the example is attributed to Ginet in Goldman 1976)[^goldman-1976]. Our intuitions suggest that I fail to know *barn*. And so say **BT** and **CR**. But now suppose that the neighborhood has no fake *red* barns; the only fake barns are blue. (Call this the red barn case.) Then on Nozick’s view I can track the fact that there is a red barn, since I would not believe there was a red barn (via my red-barn percepts) if no red barn were there, but I cannot track the fact that there is a barn, since I might believe there was a barn (via *blue*-barn percepts) even if no barn were there. Dretske said that this juxtaposition, in which I know something yet fail to know a second thing that is intimately related to the first (there being a red barn, which I know, entails there being a barn, which I do not), “is an embarrassment,” and in this respect, he thought, his view is superior to Nozick’s. Let *R*, my basis for belief, be the fact that I have red-barn percepts. If no barn were there, *R* would fail to hold, so I know a barn is there. Further, if no *red* barn were there, *R* would still fail to hold, so I know a *red* barn is there. So Dretske can avoid the objectionable juxtaposition. Still, it is surprising that Dretske cited the red barn case as the basis for preferring his version of tracking over Nozick’s. First, Dretske himself accepted juxtapositions of knowledge and ignorance that are at least equally bizarre, as we shall see. Second, Nozick avoided the very juxtaposition Dretske discussed by restating his account to make reference to the methods via which we come to believe things (Hawthorne 2005)[^hawthorne-2005]. On a more polished version of his account, Nozick said that to know *p* is, roughly, to have a belief *p*, arrived at through a method *M*, which meets the following condition (‘**BMT**’ for belief method tracking):
+Dretske (2013)[^dretske-2013] also claimed that closure fails when $P$ is “lightweight” (an ordinary claim) and $Q$ is “heavyweight” (a much-disputed philosophical claim): you can’t learn “there are physical objects” by inference from “there are cookies in the jar”, “the past is real” from “I finished breakfast”, and so on, despite the fact that the latter implies the former. However, at least some heavyweight claims are basis-sensitive: if there weren’t any physical objects in the jar, then there wouldn’t be any cookies in there, and so it wouldn’t look to you as though there were (Hawthorne 2013)[^hawthorne-2013]. And at least some lightweight propositions are not basis-sensitive. You know that the ice cubes in the glass of lemonade that you left on the patio for four hours in 95° heat have melted. But if they hadn’t—someone put the glass in the fridge without your knowing—you would still remember having put it outside and so believe that they’ve melted (Vogel 1987)[^vogel-1987].
 
-(**BMT**)
+Others have also argued that closure fails for lightweight-to-heavyweight inferences. Yablo (2014, 2017)[^yablo-2014][^yablo-2017], for example, suggests that the heavyweight claims introduce subject-matter—whether there is a physical world, you’re a $BIV$, and so on—that aren’t included in the lightweight claims, and that closure only succeeds from $P$ to $Q$ when $Q$ doesn’t introduce subject-matter not included in $P$. And Schaffer (2004, 2007)[^schaffer-2004][^schaffer-2007] suggests that knowledge ascriptions are implicitly contrastive: you know that those are cookies rather than pickles, but not that they’re cookies rather than cookie-hallucinations. So knowing that they are cookies in the first sense doesn’t require knowing that they’re not hallucinations. Such views introduce restrictions on SPC that, their advocates hope, block lightweight-to-heavyweight inferences without blocking intuitively acceptable inferences.[^note-19]
 
-were *p* false, *S* would not believe *p* via *M*.
+### 2.3 Red Barn
 
-If no red barn were there I would believe neither that there was a barn, nor that there was a *red* barn, via red-barn percepts.
+At first glance, basis-sensitivity helps to resolve a well-known counterexample to sensitivity (Kripke 2011)[^kripke-2011]. In red-barn country there are both real barns and fake barns that look real; but only real ones are painted red. Knowing none of this, you see a red barn, believe that it’s a red barn, and infer that it’s a barn. “It’s a red barn” is sensitive: if it weren’t a red barn it wouldn’t look like one, so you wouldn’t believe that it is. But “it’s a barn” isn’t sensitive: if it weren’t a barn—and so were a non-red fake barn—it would still look like a barn. So you know that it’s a red barn but not that it’s a barn. This isn’t just an example of closure failure on the sensitivity view; it’s an embarrassing one.
 
-Third, the red barn case is one about which intuitions will vary. It is not obvious that I *do* know there is a red barn in the circumstances Dretske sketches, which differ from those in Ginet’s original barn case (where I fail to know *barn*) only in the stipulations that I see a red barn and that none of the barn simulacra are red. What is more, both Dretske’s and Nozick’s accounts have the odd implication that I know there is a barn if I base my belief on my red barn percepts yet I fail to know this if, in basing it on my barn percepts, I ignore the barn’s color. Presumably the barn’s color is not relevant to its being a barn.
+However, both “it’s a red barn” and “it’s a barn” are basis-sensitive. If it weren’t a red barn it wouldn’t look red; so you wouldn’t have the same basis for “it’s a red barn”. And you wouldn’t infer that it’s a barn from “it’s a red barn”. So, since inferring from a different premise presumably constitutes a different basis, you wouldn’t have the same basis for “it’s a barn” (Adams, Barker, and Figurelli 2012)[^adams-2012].[^note-20]
 
-The tracking accounts permit counterexamples to **K**. Dretske’s well-known illustration is the zebra case (1970): suppose you are at a zoo in ordinary circumstances standing in front of a cage marked ‘zebra’; the animal in the cage is a zebra, and you believe *zeb*, the animal in the cage is a zebra, because you have zebra-in-a-cage visual percepts. It occurs to you that *zeb* entails *not-mule*, it is not the case that the animal in the cage is a cleverly disguised mule rather than a zebra. You then believe *not-mule* by deducing it from *zeb*. What do you know? You know *zeb*, since, if *zeb* were false, you would not have zebra-in-a-cage visual percepts; instead, you would have empty-cage percepts, or aardvark-in-a-cage percepts, or the like. Do you know *not-mule*? If *not-mule* were false, you would still have zebra-in-a-cage visual percepts (and you would still believe *zeb*, and you would still believe *not-mule* by deducing it from *zeb*). So you do *not* know *not-mule*. But notice that we have:
+But there’s a problem. Red-barn country is a version of fake-barn country (wherein the color is irrelevant), originally offered as a Gettier case: although you’re justified in believing that it’s a barn and it is, you don’t know it (Goldman 1976)[^goldman-1976]. But the fact, unbeknownst to you, that the red ones are real in red barn country doesn’t seem to matter. So you don’t know “it’s a barn” in red-barn country either; and similarly for “it’s a red barn”. Basis sensitivity preserves closure in this case, but in the wrong direction.[^note-21]
 
-1. You know *zeb*
-2. You believe *not-mule* by recognizing that *zeb* entails *not-mule*
-3. You do not know *not-mule*.
+### 2.4 Abominable Conjunctions
 
-In view of (a)–(c), we have a counterexample to **K**, which entails that if (a) you know *zeb*, and (b) you believe *not-mule* by recognizing that *zeb* entails *not-mule*, then you *do* know *not-mule*, contrary to (c).
+Another objection lodged against sensitivity accounts, and one that applies to any closure-denying view, is that closure denial seems to license assertions that are intuitively infelicitous (or “abominable”), such as “I know that I have hands but I don’t know that I’m not a (handless) $BIV$”.[^note-22] According to the “knowledge rule” of assertion—that I should only assert what I know—I can assert $H$ but not $\neg BIV$ (Williamson 2000, ch. 11)[^williamson-2000]. But it would be bizarre to complacently assert the former and yet steadfastly refuse to assert the latter (Hawthorne 2013)[^hawthorne-2013]. Our commitment to closure, it is claimed, provides the best explanation for these intuitions.
 
-Having rejected **K**, and denying that we know things like *not-mule*, Nozick also had to deny closure across simplification. For if some proposition *p* entails another proposition *q*, then *p* is equivalent to the conjunction *p & q*; accordingly, given closure across equivalence, which Nozick accepted, if we know *zeb* we can know the conjunction *zeb & not-mule*, but if we also accept closure across simplification, we will be able to know *not-mule*.
+An alternative explanation is, however, available to the closure denier. I initially take myself to know $H$ and then realize—not that I can’t know $H$ if I don’t know $\neg BIV$, as per closure—but that I can’t know $H$ if I *am* a $BIV$. But I can’t affirm “$\neg BIV$ but I don’t know $\neg BIV$”; that’s infelicitous.[^note-23] So I can only either take myself to know $\neg BIV$, refuse to express an opinion on the matter, or retract my claim to know $H$. But I’m convinced that I don’t know $\neg BIV$, and it would be bizarre to refuse to express an opinion when I am fully aware that I must not be a $BIV$ if, as I claim, I know $H$. So I retract my claim to know $H$.
 
-In response to this first version of the argument from the analysis of knowledge, some theorists (e.g., Luper 1984, BonJour 1987, DeRose 1995)[^bonjour-1987][^derose-1995][^luper-1984] argued that **K** has great plausibility in its own right (which Dretske acknowledged in 2005: 18)[^dretske-2005] so it should be abandoned only in the face of compelling reasons, yet there are no such reasons.
+That doesn’t mean that I don’t know $H$. I can felicitously assert of someone else that they have hands, and so aren’t a $BIV$, but don’t know that they’re not; I just can’t felicitously assert this of myself. I might nevertheless have hands, and so not be a $BIV$, despite not knowing the latter. Correspondingly, I can coherently assert of someone else that they *know* that they have hands, and so aren’t a $BIV$, but don’t know that they’re not. I just can’t felicitously assert this of myself either, and for the same reason. I might nevertheless know that I have hands, and so not be a $BIV$, but not know the latter.
 
-To show there are no compelling reasons to abandon **K**, theorists have provided accounts of knowledge that (a) handle our intuitions at least as successfully as the tracking analyses and yet (b) underwrite **K**. One way to do this is to weaken the tracking analysis so that we know things that we track or that we believe because we know that they follow from things that we track (this sort of option has been turned against Nozick by various theorists; Roush defends it in 2005, 41–51)[^roush-2005]. Another approach is as follows. Knowing *p* is roughly a matter of having a reason *R* for believing *p* which meets the following condition (‘**SI**’ for safe indication):
+It might be objected that third-person conjunctions are also infelicitous. But, when the relevant cases are carefully described, the infelicity dissipates. My wife and I note that, according to the posted schedule, the train we’re taking leaves in a half-hour. My wife goes to get coffee. While she’s gone it occurs to me that the schedule might have recently changed; I ask the ticket agent, who assures me that it hasn’t. If queried by someone whether my wife knows when the train leaves—they’re worried she won’t get back in time—I would assure them that she does. But I wouldn’t claim that she knows that the schedule hasn’t changed; *I* investigated that, not her. “Although she doesn’t know it, the schedule hasn’t changed; so she knows that the train leaves in a half-hour” doesn’t seem particularly infelicitous. *My* knowing that the schedule hasn’t changed makes all the difference (Alspector-Kelly 2019, §10.7)[^alspector-kelly-2019].
 
-(**SI**)
+### 2.5 The Spreading Problem
 
-if *R* held, *p* would be true.
+Here are three closure principles that are implied by SPC:
 
-**SI** requires that *p* be true in the nearby *R* worlds. When *R* meets this condition, let us say that *R* is a *safe indicator* that *p* is true. (Different versions of the safety condition have been defended; see, for example, Luper 1984; Sosa 1999, 2003, 2007, 2009; Williamson 2000; and Pritchard 2007.)[^luper-1984][^pritchard-2007][^sosa-1999][^sosa-2003][^sosa-2007][^sosa-2009][^williamson-2000] **SI** is the contraposition of **CR**, but the contraposition of a subjunctive conditional is not equivalent to the original.
+*Addition Closure* (AC): if $S$ knows $P$, and believes $(P \vee Q)$ because it’s implied by $P$, then $S$ knows $(P \vee Q)$.
 
-Let us suppose without argument that **SI** handles cases of knowledge and ignorance as intuitively as **CR**. Why say **SI** underwrites **K**? The key point is that if **R** safely indicates that *p* is true, then it safely indicates that *q* is true, where *q* is any of *p*’s consequences. Put another way, the point is that the following reasoning is valid (being an instance of strengthening the consequence):
+*Simplification Closure* (SC): if $S$ knows $(P \amp Q)$, and believes $P$ because it’s implied by $(P \amp Q)$, then $S$ knows $P$.
 
-1. If *R* held, *p* would be true (i.e., *R* safely indicates that *p*)
-2. *p* entails *q*
-3. So if *R* held, *q* would be true (i.e., *R* safely indicates that *q*)
+*Equivalence Closure* (EC): If $S$ knows $P, P$ is logically equivalent to $Q$, and $S$ believes $Q$ because it is implied by $P$, then $S$ knows $Q$.
 
-Hence, if a person *S* knows *p* on the basis of *R*, *S* is in a position to know *q* on the basis of *R*, where *q* follows from *p*. *S* is also in a position to know *q* on the basis of the conjunction of *R* together with the fact that *p* entails *q*. Thus if *S* knows *p* on some basis *R*, and believes *q* on the basis of *R* (on which *p* rests) together with the fact that *p* entails *q*, then *S* knows *q*. Again: if
+It is widely claimed that renouncing *these* closure principles is *extremely* unintuitive (Hawthorne 2013, Holliday 2015, McGlynn 2014a)[^hawthorne-2013][^holliday-2015][^mcglynn-2014a]. But we can get to $\neg BIV$ from $H$ by a combination of either AC and EC or SC and EC. Here’s the first way:
 
-1. *S* knows *p* (on the basis of *R*), and
-2. *S* believes *q* by recognizing that *p* entails *q* (so that *S* believe *q* on the basis of *R*, on which *p* rests, together with the fact that *p* entails *q*),
+1. $H$
+2. So, $H \lor \neg BIV$ 1, AC
+3. So, $\neg BIV$ 2, EC[^note-24]
 
-then
+And here’s the second:
 
-1. *S* knows *q* (on the basis of *R* and the fact that *p* entails *q*),
+1. $H$
+2. So, $H \amp \neg BIV$ 1, EC[^note-25]
+3. So, $\neg BIV$ 2, SC
 
-as **K** requires. To illustrate, let us use Dretske’s example. Having based your belief *zeb* on your zebra-in-the-cage percepts, you know *zeb* according to **SI**: given your circumstances, if you had those percepts, *zeb* would be true. Moreover, when you believe *not-mule* by first believing *zeb* on the basis of your zebra-in-the-cage percepts then deducing *not-mule* from *zeb*, you know *not-mule* according to **SI**: if you had those percepts not only would *zeb* hold, so would its consequence *not-mule*.
+So both Nozick and Dretske must either deny both SC and AC or deny EC on pain of allowing knowledge of $\neg BIV$ by inference from $H$. If a belief is basis-sensitive then so is any belief logically equivalent to it.[^note-26] So both Nozick and Dretske have to, and did, affirm EC. But Nozick, while denying SC, affirmed AC (Nozick 1981, 228)[^nozick-1981], and so is susceptible to the first way above; and Dretske affirmed both AC and SC, and so is susceptible to both ways (Dretske 1970, 1009)[^dretske-1970]. Since both claim that closure fails from $H$ to $\neg BIV$, both accounts are, as written, inconsistent.
 
-Let us digress briefly in order to note that some versions of the safety account will not uphold closure (Murphy 2005 presses this objection against Sosa’s version of the safety account)[^murphy-2005]. For example, at one point Ernest Sosa discussed the following version of the condition:
+Any closure denier who repudiates the inference from $H$ to $\neg BIV$ will also have to either deny both SC and AC or deny EC, despite the fact that they are all very intuitive principles. In response the closure denier might point out that it is also very intuitive that one can’t learn $\neg BIV$ by inference from $H$ by *any* inferential route.[^note-27]
 
-If *S* were to believe *p*, *p* would be true.
+There is a host of problems with basis sensitivity that have little to do with closure; the ice-cube case (§2.2) is one such, but there are many others.[^note-28] And there are a number of more recent sensitivity accounts that either purport to resolve at least some of these problems, or affirm closure, or both (Adams and Clarke 2005, Becker 2012, Baumann 2012, Black 2008, Murphy and Black 2012, DeRose 1995 and 2010, and Roush 2005)[^adams-2012][^adams-2005][^baumann-2012][^becker-2012][^becker-2012-2][^black-2008][^derose-1995][^derose-2010][^murphy-2005][^murphy-2012][^roush-2005]. But by far the most popular approach renounces sensitivity entirely in favor of an alternative subjunctive conditional, safety.
 
-This is to require that one’s *belief* safely indicates its own truth. However, it is entirely possible to be so situated that one’s belief safely indicates its truth even though the requisite condition is not met for something that follows from that belief. The point can be illustrated with a version of the red barn case. Suppose that (on the basis of my red-barn percepts) I believe *red barn*: there is a red barn in front of me. Suppose, too, that there is indeed a red barn there. However (you guessed it) many fake barns are scattered through the neighborhood, all of which are blue, not red. In the close worlds in which I believe *red barn*, I am correct, so I meet the requisite condition for knowing *red barn*, which is that my believing *red barn* safely indicates its own truth. Now, *red barn* entails *barn*: there is a barn in front of me. But, according to the view on offer, the requisite condition for knowing *barn* is not that my belief *red barn* safely indicates that *barn* holds. What is required instead is that my belief *barn* safely indicates its *own* truth. Assuming that I would believe *barn* if I saw one of the blue fakes, then my belief *barn* does not safely indicate its truth.
+### 2.6 Safety
 
-To pick up the thread again: now, **K** fails if knowledge entails **CR** but not if knowledge entails **SI**, but it may not be possible to underwrite **K** merely by replacing **CR** with **SI**, since some other condition for knowledge might block closure. We can underwrite closure if we assume that believing *p* on “safe” grounds is *sufficient* for knowing *p*, but this assumption is dubious. As we have understood safety, we can believe things on safe grounds without knowing them. An obvious example is any necessary truth: because it holds in all possible worlds we can safely believe it for any reason. For another example, recall the red barn case discussed earlier: despite the many fake blue barns in the neighborhood, my red-barn percepts are safe indicators that the object in front of me is a barn and that it is a red barn, so no objectionable *juxtaposition* (such as I know *there is a red barn* but not *there is a barn*) occurs, but some theorists will insist that, in the circumstances sketched, I know *neither* that the object is a barn nor that it is a red barn.
+A belief $P$ is *safe* if, were you to believe $P, P$ would be true.[^note-29] This is the contrapositive of sensitivity. But it’s not equivalent to sensitivity because, unlike material conditionals, the contraposition of a subjunctive conditional isn’t equivalent to the original conditional. The safety conditional is standardly rendered in possible worlds format as requiring that, in nearby worlds in which you believe $P$, $P$ is true.[^note-30]
 
-### 2.2 Closure Fails on a Relevant Alternatives Approach
+An oft-advertised advantage of safety over sensitivity is that it preserves closure (Sosa 1999; Luper 1984, 2006; Pritchard 2009a; Williamson 2000)[^luper-1984][^luper-2006][^pritchard-2009a][^sosa-1999][^williamson-2000]. Consider the SCA. There may well be nearby worlds in which $\neg H$; a hand-maiming car accident, after all, can be caused by the briefest ill-timed glance at your phone. But, in such worlds, you would be well aware that $\neg H$. So your belief in $H$ is safe. And your belief in $\neg BIV$ is safe as well, although for a very different reason: our technological capacities being what they currently are, there’s no nearby world in which $BIV$. For that reason alone, there’s no nearby world in which $BIV$ and you believe $\neg BIV$. So that belief is also safe. So, contrary to both the skeptic and the sensitivity theorist—and assuming that you meet whatever other conditions knowledge requires, if any—you do know $\neg BIV$, and closure is preserved.[^note-31]
 
-The second version of the argument from the analysis of knowledge has it that any relevant alternatives view, not just tracking accounts, is in tension with **K**. An analysis is a relevant alternatives account when it meets two conditions. First, it yields an appropriate understanding of ‘relevant alternative.’ Dretske’s approach qualifies since it allows us to say that an alternative *A* to *p* is relevant if and only if:
+### 2.7 Vacuous Safety
 
-(**CRA**)
+In the $BIV$ case your belief in $H$ is safe due to the basis that you have for it: in nearby worlds in which it’s false you don’t have the perceptual experiences you actually have that lead you to believe it. However, your belief in $\neg BIV$ is only safe because the nearest world in which it’s false is too distant to matter; it’s vacuously safe. In general, skeptical hypotheses imply that you have (or, at least, seem to have) the same basis for the ordinary proposition that you actually have. So you will believe the ordinary proposition on that basis in the nearest world in which the skeptical hypothesis is true (since you actually do so), and so in which the ordinary proposition is false. If the nearest such world is nearby, then you’ll believe the ordinary proposition in a nearby world in which it’s false; that belief will be unsafe. So, in order for it to be safe, the skeptical hypothesis must be false in nearby worlds. Your belief that it is false is, therefore, vacuously safe.
 
-were *p* false, *A* might hold.
+A vacuously safe belief is safe no matter what your basis for it might be. So, if you believe it because your astrologer says so, your belief will still be safe. But it’s hard to swallow the claim that you know it on that basis.[^note-32] The safety theorist can suggest in response that safety is a necessary but not sufficient condition for knowledge.[^note-33] Since $Q$ in Dretske cases is vacuously safe, however, it doesn’t matter to its safety that you inferred it from $P$. But closure enshrines the idea that your inferring $Q$ from $P$ ensures that you know $Q$. It’s odd that a defense of closure appeals to a condition—safety—that makes that inference superfluous.
 
-According to the second condition, the analysis must say that knowing *p* requires ruling out all *relevant* alternatives to *p* but not all *alternatives* to *p*. Dretske’s approach qualifies once again. It says an alternative *A* is ruled out on the basis of *R* if and only if the following condition is met:
+### 2.8 Lottery Cases
 
-(**CRR**)
+There are also Dretske cases wherein it’s doubtful that the nearest not-$Q$ world *is* distant. The flagship example is Hawthorne 2004’s lottery case. In light of your meager bank balance, you know that you can’t afford to go on an African safari next week. That implies that you won’t win the lottery this week and so be able to afford such a trip despite that meager balance. But it’s widely agreed that you don’t know that you’ll lose the lottery before the draw, despite its being extremely likely that you will.
 
-were *A* to hold *R* would not hold.
+That agreement puts pressure on probabilist threshold theories of justification and knowledge according to which you are justified in believing $P$ when $P$ is sufficiently probable on your evidence—as is, presumably, your belief that you will lose the lottery given the astronomical odds in its favor—and know $P$ when your belief, in addition to being sufficiently probable, is also true and not a Gettier case, both of which are satisfied by your belief that you will lose the lottery.
 
-And, on Dretske’s approach, an alternative *A* must be ruled out if and only if *A* meets **CRA**.
+But it doesn’t put the same pressure on modal theories, including safety theory. Although improbable, the nearest world in which you win the lottery is very nearby: just a slightly different arrangement of the balls that drop from the cage will do the trick. So the safety theorist can explain that wide agreement: you don’t know that you’ll lose because you’ll still believe that you’ll lose in the nearby world in which you win.[^note-34]
 
-So the tracking account is a relevant alternatives approach. But why say that relevant alternatives accounts of knowledge are in tension with **K**? We will say this if, like Dretske, we accept the following crucial tenet: the negation of a proposition *p* is automatically a relevant alternative to *p* (no matter how bizarre or remote *not-p* might be) but often *not* a relevant alternative to things that imply *p*. For a relevant alternatives theorist, this tenet suggests that we can know something *p* only if we can rule out *not-p* but we can know things that entail *p* even if we cannot rule out *not-p*, which opens up the possibility that there are cases that violate **K**. For while our inability to rule out *not-p* stops us from knowing *p* it does not stop us from knowing things that entail *p*. And an example is ready to hand: the zebra case. Perhaps you cannot rule out *mule*; but that stops you from knowing *not-mule* without stopping you from knowing *zeb*. These points can be restated in terms of the conclusive reasons account. For Dretske, the negation of a proposition *p* is automatically a relevant alternative since condition **CRA** is automatically met; that is, it is vacuously true that:
+But, as per §2.7 above, if you win the lottery in a nearby world, then “you can’t afford an African safari” is unsafe. So you don’t know that either, despite intuition to the contrary. The safety theorist is a skeptic to at least this extent: if you have a lottery ticket, then you don’t know any proposition that would be false if you’ll soon have a lot of money.
 
-were *p* false, *not-p* might hold.
+Perhaps that’s an amount of skepticism we can live with. However, there are any number of analogous “lottery-esque” propositions that make trouble for a much wider swath of ordinary knowledge (Vogel 1990a, Hawthorne 2004)[^hawthorne-2004][^vogel-1990a]. For example: you remember parking your car in parking spot 3b half an hour ago, where it remains. You believe—and, presumably, know—that it’s there now. This implies that it wasn’t stolen in the last half-hour. But you don’t seem to know that it wasn’t. And you know that the Broncos won by reading that in the newspaper. Their winning implies that that report isn’t an erroneous misprint. But you don’t seem to know that it isn’t.
 
-Therefore *mule* is a relevant alternative to *not-mule*. Furthermore, you fail to know *not-mule* since you cannot rule out *mule*: you believe *not-mule* on the basis of your zebra-in-the-cage percepts, but you would still have these if *mule* held, contrary to **CRR**. Yet you know *zeb* in spite of your inability to rule out *mule*, for were *zeb* false you would not have your zebra-in-the-cage percepts.
+In response, the safety theorist will insist that, for example, if you *do* know that the car is in 3b, the nearest world in which it is stolen will be distant—the thief detests that model, say—and so, by the safety account, you do know that it isn’t stolen. This contrasts with the eponymous lottery case wherein the nearest world in which you win is nearby. Were, however, the nearest world in which it’s stolen also nearby—the thief covets that model—then you indeed don’t know that it’s in 3b (Pritchard 2007a)[^pritchard-2007a].
 
-According to the second version of the argument from the analysis of knowledge any relevant alternatives view is in tension with **K**. How compelling is this argument? As Dretske acknowledged (2003), it is actually a weak challenge to **K** since some relevant alternatives accounts are fully consistent with **K**. For an example, we have only to adapt the safe indication view so as to make it clear that it is a relevant alternatives account (Luper 1984, 1987c, 2006)[^luper-1984][^luper-1987c][^luper-2006].
+But our being informed that the nearest $\neg Q$ world is distant in such cases doesn’t seem to shift our intuition that you don’t know $Q$. (Note that *you’re* not so informed.) In the lottery case, suppose that a ball with one of your ticket’s numbers on it—and so one that would have to drop in order for you to win—got stuck in the cage’s wire frame, so that only if the cage were forcefully shaken would that ball drop. However, since the cage is firmly affixed to the floor, that’s not something that would easily happen. The nearest world in which you win is now distant. But, intuitively, you—knowing nothing about the ball’s being stuck—still don’t know that you’ll lose.
 
-The safe indication view can be adapted in two steps. First, we say that an alternative to *p*, *A*, is relevant if and only if the following condition is met:
+Instead, that intuition seems to hinge on the fact that your only available evidence in lottery cases is statistical: your case (ticket, parked car, report) is one among many, you have reason to believe that it is, or is likely to be, false in a small number of those cases (a ticket will win, a car will probably be stolen, some report will likely contain a misprint), and you have no reason to think that your case is exceptional (Vogel 1990). Such evidence seems not to deliver knowledge, however distant the nearest $\neg Q$ world might be. Recall also that, on the safety view, $Q$ propositions in Dretske cases must be vacuously safe if you know the corresponding $P$ proposition. So your basis for believing $Q$ shouldn’t matter.
 
-(**SRA**)
+Since most of our sources of information misfire on occasion, similar cases involving lottery-esque propositions can be constructed for most of our everyday knowledge. The resulting skepticism is very widespread. Such cases are not only a challenge for the safety theorist; they confront any non-skeptical closure-affirming view. Some closure advocates argue that, notwithstanding intuition, you do know that you will lose the lottery, and similarly for other lottery-esque propositions (Cohen 1988, Engel 2021)[^cohen-1988][^engel-2021]. And some, like the safety theorist, claim that there are crucial differences between the eponymous lottery proposition, which you don’t know, and lottery-esque propositions, which, it’s claimed, you do know (Nelkin 2000, Smith 2010, 2016a, and 2021)[^nelkin-2000][^smith-2010][^smith-2016a][^smith-2021].
 
-In *S*’s circumstances, *A* might hold.
+### 2.9 Closure Failures for Safety
 
-Thus any possibility that is remote is automatically irrelevant, failing **SRA**. Second, we say that *A* is ruled out on the basis of *R* if and only if the following condition is met:
+Although the safety account preserves closure in Dretske cases, there are other cases that seem to constitute closure failures on that account. You believe that your Lamborghini is in parking spot 3b because you’re obsessively watching it on a closed-circuit TV monitor, and infer from this that it hasn’t been stolen. Your belief that it’s in spot 3b is safe: since you’re watching it on the monitor, there’s no nearby world in which you believe that it’s in that spot when it isn’t. However, there’s a nearby world in which your friend asks to borrow the car. You agree, and complacently watch him drive off on the monitor. You still believe that your car wasn’t stolen. But it was; your friend is a thief. So your belief that your car is in 3b is safe but your belief that it hasn’t been stolen isn’t. Closure fails.
 
-(**SIR**)
+In response, the safety theorist might claim that knowledge requires, not that your belief is safe, but that your basis is: there’s no nearby world in which you believe it on that basis and it’s false (Luper 1984, Sosa 1999, Pritchard 2007b)[^luper-1984][^pritchard-2007b][^sosa-1999]. They should do this anyway, since Nozick’s grandmother case can be adjusted to count against safety too: just add that, although the grandson is actually well, there’s a nearby world in which he’s sick.[^note-35]
 
-were *R* to hold *A* would not hold.
+In the car example above, you believe that your car isn’t stolen, not by inferring this from its being in 3b, but because you thought your friend wouldn’t steal it. Any nearby world in which you believe it’s in 3b by seeing it on the monitor and infer that it’s not stolen is a world in which it is in 3b and not stolen; both beliefs are basis-safe.
 
-This way of understanding relevant alternatives upholds **K**. The key point is that if *S* knows *p* on the basis of *R*, and is thus able to rule out *p*’s relevant alternatives, then *S* can also rule out *q*’s relevant alternatives, where *q* is anything *p* implies. If *R* were to hold, *q*’s alternatives would not.
+However, suppose there’s a nearby world in which the monitor fails. You call your friend, who assures you, while joyriding in your car, that it’s still in 3b. You infer from this that it’s not stolen; but it is. Your belief that it’s in 3b is basis-safe, since there’s no nearby world in which the monitor shows that it’s there when it isn’t. But your belief that it’s not stolen, although still inferred from its being in 3b, is not. And closure fails again (Alspector-Kelly 2011; see also Murphy 2005 and Zhao 2022)[^alspector-kelly-2011][^murphy-2005][^zhao-2022].
 
-Apparently, the relevant alternatives account can be construed in a way that supports **K** as well as a way that does not. Hence Dretske is not well positioned to claim that the relevant alternatives view leads “naturally” to closure failure.
+At this point the safety theorist might claim that, when you infer $Q$ from $P$, your basis for believing $Q$ includes, not only that you inferred it from $P$, but also whatever your basis was for your belief in $P$ (Williamson 2009a, 2009b)[^williamson-2009a][^williamson-2009b]. In the last case above, you actually believe that it’s in 3b because you see it on the monitor, whereas in the nearby world you believe this because your friend says so. So, if that claim is right, your basis for believing that it’s not stolen in the actual world is not what it is in the nearby world after all. That belief is basis-safe, and closure is preserved once again. Whether this is a plausible and viable way to individuate bases is controversial (see Goldstein and Hawthorne 2024)[^goldstein-2024].
 
-### 2.3 Closure and Reliabilism
+## 3. Closure, Transmission, and Sources of Warrant
 
-On one version of reliabilism (defended by Ramsey 1931 and Armstrong 1973, among others)[^armstrong-1973][^ramsey-1931] one knows *p* if and only if one arrives at (or sustains) the belief *p* via a reliable method. Is the reliabilist committed to *K*? The answer depends on precisely how the relevant notion of reliability is understood. If we understand reliability as tracking theorists do, we will reject closure. But there are other versions of reliabilism which sustain *K*. For example, the safe indication account is a type of reliabilism. Also, we could say that a true belief *p* is reliably formed if and only if based on an event that *usually* would occur only if *p* (or a *p*-type belief) were true. Any event that, in this sense, reliably indicates that *p* is true will also reliably indicate that *p*’s consequences are true.
+There is a crucial distinction between closure and *transmission*, one that has come to play an increasingly important role in the closure debate.[^note-36] The consequent of SPC doesn’t say anything about *how* you come by your knowledge of Q; it just says that you know it. So it’s compatible with SPC that, although you infer $Q$ from $P$ that you know, you nevertheless can’t learn $Q$ *because* you so infer; however, in such cases, you inevitably know it by other means. If so, then, although closure is preserved, the following principle is violated:
 
-## 3. The Argument From Nonclosure of Knowledge Modes
+SPT (Single Premise Transmission): if (i) you know $P$, and believe $Q$ because it’s implied by $P$, then (ii) you know $Q$ *because of (i).*
 
-Dretske argued (2003, 2005) that we should expect **K** failure because none of the modes of gaining, preserving or extending knowledge are individually closed. Dretske made his point in the form of a rhetorical question: “how is one supposed to get closure on something when every way of getting, extending and preserving it is open (2003: 113–4)?”
+Your knowing $Q$ because of (i) is compatible with knowledge overdetermination: you could know $Q$ in other ways as well. You might, for example, have already known, before arriving at the department meeting, that the minimum of ten faculty members required for a quorum are present because a colleague, already there, told you as much by phone. Upon arriving and counting twelve faculty members, you then infer that a quorum is indeed present, and know it that way as well.[^note-37]
 
-### 3.1 Knowledge Modes and Nonclosure
+Call ways of knowing *warrants*.[^note-38] A warrant is not exhausted by the specific feature that prompts your belief, which we might call your basis; it also includes whatever other conditions, both within your mind and in the external environment, must be in place in order for you to know on that basis. For example, it’s not enough that your colleague told you that a quorum is present. After all, she could have been lying. And even if truthful, she could have hallucinated the twelve faculty that she “saw”, which was, coincidentally, the right number. Or you could have misheard her, thinking she said “quorum” when she actually said “forum”. In any of these cases her testimony doesn’t provide you with a way of knowing—a warrant—that a quorum is present. So having a warrant requires, in addition to whatever the basis for your belief might be, also those internal and external conditions that must be in place in order for you to know in response to that basis.
 
-As examples of modes of gaining, sustaining and extending knowledge Dretske suggested perception, testimony, proof, memory, indication, and information. To say of these items that they are not individually closed is to say that the following modes closure principles, with or without the parenthetical qualifications, are false:
+Your already having a warrant for $Q$, then, doesn’t prevent your acquiring a second warrant for $Q$ because you inferred it from $P$. So, for SPT to be true, you must *always* acquire a new warrant for $Q$ whenever its antecedent applies, whether or not you already know $Q$.
 
-(**PC**)
+Since the antecedents of SPC and SPT are the same, and the consequent of SPT requires what the consequent of SPC requires and more, transmission implies closure, and closure failure implies transmission failure. But closure doesn’t imply transmission, and transmission failure doesn’t imply closure failure.
 
-If *S* *perceives* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* perceives *q*.
+There are, as a result, two different kinds of closure advocate. The first endorses closure because they endorse transmission. Call them *transmissivists.* Transmissivism hews as closely as possible to the knowledge-expansion intuition behind closure advocacy referenced in §1.1 and, indeed, amounts to a formalization of that intuition. The second concedes that transmission occasionally fails but insists that, whenever it does fail, closure is nevertheless preserved. Call them *preservationists*. We’ll discuss preservationism first.
 
-(**TC**)
+### 3.1 Preservationism: Warrant for $P$ as Warrant for $Q$
 
-If *S* has *received testimony* that *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* has received testimony that *q*.
+The preservationist needs to explain why transmission fails and also why, whenever it fails, an alternative warrant for $Q$ steps in to save the day. One such explanation is that your warrant for $P$ always also suffices as a warrant for $Q$ whenever $P$ implies $Q$. Another is that, when transmission fails, it does so because you can only have the warrant you have for $P$ if you are already warranted in believing $Q$.
 
-(**OC**)
+On the first explanation, although you can’t acquire a warrant for $\neg DM$ by inference from $Z$, for example, $LZ$—your basis for $Z$—suffices on its own to warrant $\neg DM$. Probabilistic considerations encourage this idea. Since $Z$ implies $\neg DM$, the probability axioms imply that $p(\neg DM\mid LZ) \ge p(Z\mid LZ)$. On probabilistic threshold conceptions of knowledge, if $LZ$ suffices for knowing $Z$ then it also suffices for knowing $\neg DM$. So you know $\neg DM$ as well.
 
-If *S* has *proven* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* has proven *q*.
+However, since $DM$ implies $LZ, p(\neg DM\mid LZ) \lt p(\neg DM)$: $LZ$ *lowers*, rather than raises, $\neg DM$’s initial probability.[^note-39] On a popular view, evidence only counts as such if it raises the probability of the hypothesis it supports. So, on that view, $LZ$ counts *against*, rather than for, $\neg DM$ (White 2006)[^white-2006].[^note-40] More generally, $LZ$ presumably doesn’t count *against* $DM$ when $DM$ implies, and so predicts, $LZ$. But $LZ$ can only be evidence *for* $\neg DM$ if it’s evidence *against* $DM$. So it’s not evidence for $\neg DM$.
 
-(**RC**)
+It remains true that, since $Z$ implies $\neg DM, p(\neg DM\mid LZ) \ge p(Z\mid LZ)$. Since $p(\neg DM\mid LZ) \lt p(\neg DM), p(\neg DM) \gt p(Z\mid LZ)$: the prior probability of $\neg DM$ is higher than the probability of $Z$ given $LZ$. So, if $LZ$ confers a sufficiently high probability for knowledge on $Z$, then $\neg DM$ must already be sufficiently probable in light, presumably, of background evidence $(BE)$.[^note-41] Such evidence might, say, indicate that reputable zoos are unlikely to disguise their animals.[^note-42] So transmission fails: you don’t learn $\neg DM$ by inference from $Z$, but from $BE$. But closure is still preserved (Klein 1995)[^klein-1995].
 
-If *S* *remembers* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* remembers *q*.
+However, since $p(Q) \ge p(P)$ whenever $P$ implies $Q$, your inferring $Q$ from $P$ is, on this approach, not only irrelevant in Dretske cases, but in *all* cases. Even if, unlike Dretske cases, your evidence $E$ for $P$ raises $Q$’s antecedent probability provided by $BE$ above the threshold required for knowledge, the warrant you have for $Q$ is still provided by the combined evidence $(E \amp BE)$. And you have that warrant as soon as you acquire $E$, and so before you infer $Q$ from $P$. That inference delivers no more evidence than you already have.
 
-(**IC**)
+But transmission requires that you acquire a new warrant *because you infer* $Q$ *from* $P$. So transmission fails in every case. But transmission was only supposed to fail in Dretske cases (Alspector-Kelly 2019, §5.5)[^alspector-kelly-2019]. More generally, if your warrant for $P$ inevitably suffices as a warrant for $Q$ whenever $P$ implies $Q$, then this counts against, rather than in favor of, transmission: it implies that transmission always fails or, at least, that it is aways superfluous (see Moretti and Piazza 2023’s “indirectness template” for transmission failure)[^moretti-2023][^moretti-2023-2].[^note-43]^{,} [^note-44]
 
-If *R* *indicates* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *R* indicates *q*.
+### 3.2 Preservationism: Frontloading
 
-(**NC**)
+The second explanation for why you inevitably end up knowing $Q$ when transmission fails is that, in Dretske cases at least, you need to *already* know $Q$ in order to learn $P$, given the way that you learned $P$. In order to learn $Z$ on the basis of $LZ$, for example, you need to know $\neg DM$. Call this *frontloading.*[^note-45] One line of reasoning for this is that, without knowing $\neg DM$, all you’ll be in a position to learn from $LZ$ is the disjunction “$Z$ or $DM$”, since both predict $LZ$.[^note-46]
 
-If *R* *carries the information* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *R* carries the information *q*.
+Another such line is that the inference from $Z$ to $\neg DM$ is viciously circular. That inference only delivers knowledge of $\neg DM$ if you know $Z$. But a condition of your knowing $Z$ on the basis of $LZ$ is that the animal isn’t disguised to look like a zebra and, so, isn’t a mule disguised to look that way: precisely $\neg DM$. So, if you initially don’t know $\neg DM$, then you don’t know that $LZ$ warrants $Z$, and so can’t appeal to $Z$ in support of $\neg DM$.[^note-47]
 
-And, according to Dretske, each of these principles fails. We may perceive that we have hands, for example, without perceiving that there are physical things.
+On either reasoning, the story goes, transmission fails: you can’t acquire a new warrant for the conclusion when you needed one already in order to learn the premise.[^note-48]
 
-### 3.2 Responses to Dretske
+This last step—if frontloading is required then transmission fails—is virtually universally assumed. But it’s not clear why. True, you can’t acquire your *first* warrant by the inference from $Z$ to $\neg DM$, since the latter must be already warranted. But recall that you can have multiple warrants for the same proposition. Of course, if your *only* putative warrant for $\neg DM$ is by inference from $Z$, then transmission clearly fails: you need that warrant to start with, but won’t get it until you’ve finished. But so long as you start out with a prior warrant for $\neg DM$ that doesn’t depend on this inference, it’s not obvious why the inference can’t deliver another one (White 2006, Silins 2005, and Alspector-Kelly 2019; for possible examples of cases where frontloading is required but transmission succeeds, see the latter, §6.7.2)[^alspector-kelly-2019][^silins-2005][^white-2006].
 
-There have been various rejoinders to Dretske’s argument from nonclosure of knowledge modes.
+It’s also widely assumed that, if frontloading is not required, then transmission succeeds. But there are other accounts of transmission failure that don’t require antecedent knowledge of $Q$, and so that are compatible with closure denial.
 
-First, failure of one or more of the modes closure principles does not imply that **K** fails. What matters is whether the various modes of knowledge Dretske discusses position us to know the consequences of the things we know. In other words, the issue is whether the following principle is true:
+For example: $DM$ implies $LZ$. So your method for evaluating $\neg DM$—namely, determining whether $\neg DM$ by inference from what you take yourself to learn when you look in the paddock—will *inevitably* deliver $\neg DM$ whenever $DM$. You can, in fact, recognize this before you look in the paddock: knowing what you’ll do if $LZ$, and knowing that $DM$ implies $LZ$, you know that you’ll arrive at $\neg DM$ if $DM$. Moreover, if $LZ$ is false, you’ll *still* arrive at $\neg DM$, since $\neg LZ$ implies $\neg DM$. So you can know before you look that, no matter what you see, and no matter what’s there, your method will deliver $\neg DM$. It’s very plausible that no such method can deliver a warrant for $\neg DM$. But this explanation of transmission failure, while compatible with your knowing $Z$ on $LZ$, doesn’t require that you initially know $\neg DM$, and so is compatible with closure failure (White 2006 and Alspector-Kelly 2019, ch. 4)[^alspector-kelly-2019][^white-2006].[^note-49]
 
-(**T**)
+Since both lines of reasoning for frontloading appear to apply to any skeptical hypothesis, front-loading requires prior knowledge of the falsehood of every such hypothesis, both wholesale and piecemeal. Since knowledge is widely taken to require belief and proper basing, you would also have to believe that they are false on appropriate bases.[^note-50] But some will likely mobilize concepts—hitherto undreamt-of animal-disguising technology, for example—that you don’t even understand.
 
-If, while knowing *p* via perception, testimony, proof, memory, or something that indicates or carries the information that *p*, *S* believes *q* because *p* entails *q*, then *S* knows *q*.
+The frontloader might suggest that you don’t actually need to know the denial of skeptical hypotheses; you only need a warrant for them. But then frontloading won’t preserve SPC. SPC’s antecedent is compatible with your only believing $\neg DM$, for example, because it’s implied by $Z$. But, we’re assuming, you don’t acquire a warrant that way. So, although you do have a prior warrant for $\neg DM$, you don’t believe $\neg DM$ on the basis of that warrant, which is the only one you have. So you don’t know $\neg DM$; SPC fails (Silins 2005)[^silins-2005].
 
-Second, theorists have defended some of these modes closure principles, such as **PC**, **IC** and **NC**. Dretske rejects these three principles because he thinks perception, indication and information are best analyzed in terms of conclusive reasons, which undermines closure. But the three principles (or something very much like them) may be defended if we analyze perception, indication and information in terms of safe indication. Consider **IC** and **NC**. Both are true if we analyze indication and information as follows:
+The frontloader can, however, endorse this alternative version of closure:
 
-*R* indicates *p* iff *p* would be true if *R* held.
+SPWC: if (i) you know $P$, and believe $Q$ because it’s implied by $P$, then either (ii) you know $Q$ because of (i) or (iii) you have a different warrant for $Q$.[^note-51]
 
-*R* carries the information that *p* iff *p* would be true if *R* held.
+But frontloading may still be too demanding. Note that the arguments for frontloading wouldn’t apply if $LZ$ implied $Z$. But, since $LZ$ is a fallible basis for $Z$—$LZ \amp \neg Z$ is possible, as in $DM$—you need an antecedent warrant for $\neg DM$. The basis, $B_2$, that delivers that warrant is itself either fallible or infallible. If the former, you also need a prior warrant for $\neg(B_2 \amp DM)$. The basis for that warrant, $B_3$, is also either fallible or not. If the former, then you also need a warrant for $\neg(B_3 \amp (B_2 \amp DM))$. And if that basis, $B_4$, is fallible…. This sequence can only terminate in infallible bases. So our beliefs are only warranted if they have infallible bases. But, arguably, the bases for almost all of our beliefs are fallible. Skepticism threatens (Alspector-Kelly 2019, §§6.4–6.6)[^alspector-kelly-2019].
 
-A version of **PC** may be defended if we make use of Dretske’s own notion of indirect perception (1969). Consider a scientist who studies the behavior of electrons by watching bubbles they leave behind in a cloud chamber. The electrons themselves are invisible, but the scientist can perceive *that* the (invisible) electrons are moving in certain ways *by* perceiving that the (visible) bubbles left behind are arranging themselves in specific ways. What we directly perceive positions us to perceive various things indirectly. Now assume that when we directly or indirectly perceive *p*, and this causes us to believe *q*, where *p* entails *q*, we are positioned to perceive *q* indirectly. Then we are well on our way to accepting some version of **PC**, such as, for example:
+### 3.3 Sources of Warrant
 
-(**SPC**)
+If frontloading is required, the Cartesian skeptical argument takes on a different cast. The second premise is “if you don’t know $\neg BIV$ then you don’t know $H$”. In §2.1 this was understood to derive from closure. But now this means “if you don’t *already* know $\neg BIV$ then you don’t know $H$”. One might indeed wonder whether the force of the argument comes from an intuition, not that ordinary knowledge would implausibly put you in a position to learn that the skeptical hypothesis is false, but instead that we need to know the denials of skeptical hypotheses in order to acquire ordinary knowledge in the first place.
 
-If *S* perceives *p*, and this causes *S* to believe *q*, then *S* perceives *q*.
+To avoid this version of the skeptical argument, the frontloader needs sources of warrant against every skeptical hypothesis whose denial is implied by the mundane knowledge claims that they want to endorse. There are two possible sources.[^note-52] First, background information might provide such a warrant. Second, you might have a default warrant, or “entitlement”.
 
-## 4. The Argument From Not (Easily) Knowable Propositions
+#### 3.3.1 Warrant by Background Information
 
-Another anticlosure argument is that there are some sorts of propositions we cannot know unless perhaps we take extraordinary measures, yet such propositions are entailed by mundane claims whose truth we do know. Since this would be impossible if **K** were correct, **K** must be false. The same difficulty is sometimes discussed under the heading *problem of easy knowledge*, since some theorists (Cohen 2002)[^cohen-2002] believe that certain things are difficult to know, in the sense that they cannot be known by deduction from banal knowledge. The argument has different versions depending on which propositions are said to be hard knowledge. According to Dretske (and perhaps Nozick as well), we cannot easily know that *limiting propositions* or *heavyweight propositions* are true. These resemble propositions Moore (1959)[^moore-1959] considered certainly true and that Wittgenstein (1969)[^wittgenstein-1969] declared to be unknowable (but Wittgenstein considered them unknowable on the dubious grounds that they must be true if we are to entertain doubts). Another possibility is that we cannot easily know *lottery propositions*. A special case of the argument from unknowable propositions starts with the claim that we cannot know the falsity of skeptical hypotheses. We will consider this third view in the next section.
+One might claim that background information—we don’t yet have the technology to envat a brain, for example—provides you with a warrant for believing $\neg BIV$, as well as the denials of other wholesale skeptical hypotheses (Leite 2015, 207)[^leite-2015]. An objection is that, if you’re a $BIV$, you don’t just seem to have hands; your total experience, and so what you take to be your background information, remains in place. So if you’re in no position to infer $\neg BIV$ from $H$, you’re in no more a position to infer it from putative background information.
 
-### 4.1 The Argument from Limiting Propositions
+But the fact that it wouldn’t be information if you were a $BIV$ doesn’t imply that it isn’t information if you’re not. On certain externalist views of evidence, your evidence in the “good” $\neg BIV$ case is much richer than it is in the “bad” $BIV$ case, and the former may well provide you with the wherewithal to know $\neg BIV$.[^note-53] However, that evidence will also certainly include $H$. So you don’t need a warrant for $\neg BIV$ in order to acquire your warrant for $H$ after all; the frontloading claim is false. And that seems to allow transmission from $H$ to $\neg BIV$. Closure-preserving externalist views of evidence sit more comfortably with transmissivism than with frontloading (see §3.4 below).[^note-54]
 
-Dretske did not clearly delineate the class of propositions he called “limiting” (in 2003) or “heavyweight” (in 2005). Some of the examples he provided are “There is a past,” “There are physical objects,” and “I am not being fooled by a clever deception.” He appeared to think that these propositions have a property we may call “elusiveness,” where *p* is elusive for me if and only if *p*’s falsity would not change my experiences. But being limiting does not coincide with being elusive. If there were no physical objects, my experiences would be changed dramatically, since I would not exist. So some limiting propositions are not elusive. As to whether all elusive claims are limiting, it is hard to say, because of the squishiness of the term “limiting”. *Not-mule* is elusive, but is it limiting?
+The situation is quite different with respect to piecemeal skeptical hypotheses. $DM$, for example, doesn’t incorporate whatever background information that you might have against it (to the effect that reputable zoos aren’t likely to deceive the public, say). However, it remains intuitive, not just that you can’t learn that it’s not a disguised mule by inference from “it’s a zebra”—which intuition the frontloader endorses—but also that, given your circumstances, you don’t know it at all.
 
-Can’t we know limiting propositions? If not, and if we do know things that entail them, Dretske thought he had further support for his conclusive reasons view, assuming, as he did, that his view rules out our knowing limiting propositions (while allowing knowledge of things that entail them). However, this assumption is false (Hawthorne 2005, Luper 2006)[^hawthorne-2005][^luper-2006]. We do have conclusive reason to believe some limiting propositions, such as that there are physical objects. Still, Dretske might abandon the notion of a limiting proposition in favor of the notion of elusive propositions, and cite, in favor of his conclusive reasons view, and against **K**, the facts that we cannot know elusive claims but we can know things that imply them.
+That intuition is particularly strong with respect to lottery propositions. Perhaps background evidence suffices to warrant “most people lose the lottery”, “cars aren’t often stolen”, “this report is likely not a misprint”, and the like. But you need a warrant for the specific claim that this particular ticket, car, or report isn’t one of the exceptions. And it’s difficult to see how merely statistical information—the only kind you seem to have in these cases—suffices for that purpose when you know that such exceptions exist and nothing that you’re aware of distinguishes your case from any other (Sharon and Spectre 2017a, 24–27)[^sharon-2017a].
 
-In order to rule out knowledge of limiting/elusive propositions, Dretske offered two sorts of argument, which we may call the *argument from perception* and the *argument from pseudocircularity*.
+So the frontloader needs to explain these intuitions. One popular approach is that of the contextualist.
 
-The argument from perception starts with the claims that (a) we do not perceive that limiting/elusive claims hold and (b) we do not know, via perception, that limiting/elusive claims hold. Since it is hard to see how else we could know limiting/elusive propositions, (a) and (b) are good grounds for concluding that we just do not know that they hold.
+The standards for knowledge, according to the contextualist, can vary from one context of attribution to another. In ordinary contexts, wherein the standards are relatively low, you count as knowing both the ordinary claim $P$ and the denial of the skeptical hypothesis $Q$. But when the person who attributes knowledge (who may or may not be you) contemplates $Q$, doing so typically raises the standards applicable in their context to the point where you count as knowing neither $P$ nor $Q$. So, when the attributor intuits that you don’t know $Q$, they’re right; but that’s only because they’re contemplating it. In ordinary contexts, when they’re not contemplating $Q$, you do know it. In neither context is closure false. The contextualist applies this explanation of our intuitions, not just to lottery propositions, but to all piecemeal and wholesale skeptical hypotheses (Cohen 1988, DeRose 2009, Lewis 1996; see also the entry on epistemic contextualism)[^cohen-1988][^derose-2009][^lewis-1996].
 
-There is no doubt that (a) and (b) have considerable plausibility. Nonetheless, they are controversial. To explain the truth of (a) and (b), Dretske counted on his conclusive reasons analysis of perception. His critics may cite the safe indication account of perception as the basis for rejecting (a) and (b). Luper (2006)[^luper-2006], for example, argues against both, chiefly on the grounds that we can perceive and know some elusive claims (such as *not-mule*) indirectly, by directly perceiving claims (such as *zeb*) that entail them.
+Contextualism does not, however, require that closure is true. Heller 1999 claims that, although you know neither $P$ nor $Q$ in high-standards contexts, you know $P$ but *not* $Q$ in ordinary, low-standards contexts, so that closure fails in the latter contexts. The closure-affirming contextualist needs to explain both why we need to attribute knowledge of the denials of skeptical hypotheses in ordinary cases and where that knowledge comes from.
 
-Dretske suggested another reason for ruling out knowledge of limiting/elusive claims. He thought we can know banal facts (e.g., we ate breakfast) without knowing limiting/elusive claims they entail (e.g., the past is real) *so long as* those limiting/elusive claims are *true*, but we cannot then turn around and employ the former as our basis for knowing the latter. Suppose we take ourselves to know some claim, *q*, by inferring it from another claim, *p*, which we know, but our knowing *p* in the first place depends on the truth of *q*. Call this *pseudocircular reasoning*. According to Dretske, pseudocircular reasoning is unacceptable, and yet it is precisely what we rely on when we attempt to know limiting/elusive claims such as denials of skeptical hypotheses by deducing them from ordinary knowledge claims that entail them: we will not know the latter in the first place unless the former are true. The problem Dretske here raised was pressed earlier by critics of broadly reliabilist accounts of knowledge, such as Richard Fumerton (1995, 178)[^fumerton-1995]. Jonathan Vogel (2000)[^vogel-2000] discusses it under the heading *bootstrapping*, the procedure employed when, e.g., someone who has no initial evidence about the reliability of a gas gauge, comes to believe *p* on several different occasions because the gauge indicates *p*, and thereby knows *p* according to reliabilist accounts of knowledge, then infers that the gauge is reliable, by induction. By bootstrapping we may move—illegitimately, according to Vogel—from beliefs formed through a reliable process to the knowledge that those beliefs were arrived at through a reliable process. One may know *p* using a gauge in the first instance only if that gauge is reliable; hence, to conclude it is reliable solely on the basis of its track record involves pseudocircular reasoning.
+With respect to the latter question, the contextualist isn’t likely to claim that knowledge of $Q$ in ordinary contexts is acquired by transmission since it’s wildly unlikely that people in ordinary (or any other) contexts believe $Q$ in Dretske cases because they’ve inferred it from $P$. So the closure-preserving contextualist is presumably a frontloader: even in ordinary contexts, you need to know $Q$ in order to acquire your knowledge of $P$.
 
-Theorists have long objected to knowledge claims whose truth depends on a fact that itself has not been established, especially if that fact is merely taken for granted. It is also standard to reject any knowledge claim whose pedigree smacks of circularity. Both worries arise if we claim to know that one proposition, *q*, is true on the grounds that it is entailed by a second proposition, *p*, even though the truth of *q* was taken for granted in coming to know that *p* is true. Many theorists will reject pseudocircular reasoning on precisely these traditional grounds. Dretske did not share the first worry but he did raise the second, the concern about pseudocircular reasoning. But there is a growing body of work that breaks with tradition and defends some forms of epistemic circularity (this work is heavily criticized, in turn, on the grounds that it is open to versions of traditional objections). Max Black (1949)[^black-1949] and Nelson Goodman (1955)[^goodman-1955] were early examples; others include Van Cleve 1979 and 2003; Luper 2004; Papineau 1992; and Alston 1993. Dretske himself meant to break with tradition, writing under the banner of ‘externalism.’ He explicitly said that most, if not all, of our mundane knowledge claims depend on facts we have not established. Indeed, he cited this as a virtue of his conclusive reasons view. Yet nothing in the nature of the conclusive reasons account rules out our knowing limiting propositions using pseudocircular reasoning, which leaves his reservations mysterious. A set of jar-ish experiences can constitute a conclusive reason for believing *jar*, a jar of cookies is in front of me. If I then believe *objects*, there are physical objects, because it is entailed by *jar*, I have conclusive reason for believing *objects*, a limiting proposition. (If *objects* were false, *jar* would be too, and I would lack my jar-ish experiences.)
+But while it’s plausible that, in high-standards contexts wherein $Q$ is salient, you need to know $Q$ in order to know $P$, it’s far from clear why that would be so in ordinary contexts as well. Why, for example, would you need to know that your car isn’t stolen (as well as the denial of every other wholesale and piecemeal skeptical hypothesis), which possibility hasn’t crossed your mind (or that of the attributor, if different), in order to know that it’s in 3b where you left it, so long as, in fact, it isn’t stolen?
 
-Dretske might have fallen back on the view that the conclusive reasons account rules out knowing elusive, as opposed to limiting, claims through pseudocircular reasoning, because we lack conclusive reasons for elusive claims no matter what sort of reasoning we employ. But this does not put Dretske’s account at odds with pseudocircular reasoning. And even this more limited position can be challenged (adapting a charge against Nozick in Shatz 1987)[^shatz-1987]. We might insist that *p* itself is a conclusive reason for believing *q* when we know *p* and *p* entails *q*. After all, assuming *p* entails *q*, if *q* were false so would *p* be. On this strategy we have a further argument for **K**: if *S* knows *p* (relying on some conclusive reason *R*), and *S* believes *q* because *S* knows *p* entails *q*, *S* has a conclusive reason for believing *q*, namely *p* (rather than *R*), and hence *S* knows *q*.
+The obvious answer is that requiring knowledge of $Q$ preserves closure in ordinary contexts. But if the contextualist affirms closure because of, for example, the abominable conjunction objection, contextualism already addresses that objection without requiring closure.[^note-55] In my high-standards context in which I contemplate “your car is stolen”, “you know your car is in 3b but not that it’s not stolen” is infelicitous because you know neither, and so don’t know that your car is in 3b. It’s entirely compatible with this that, in low-standards contexts wherein I’m not contemplating car thefts, “you know that it’s in 3b but not that it’s not stolen” is true. And any inclination to think that the conjunction is abominable in ordinary contexts as well is explicable as an instance of the “semantic blindness” tendency to fail to notice that standards that apply in high-standards contexts don’t apply in low-standards contexts. So this objection to closure denial, at least, doesn’t discriminate between closure-affirming and closure-denying contextualism (Alspector-Kelly 2019, §§10.3–10.4)[^alspector-kelly-2019].[^note-56]
 
-Another doubt about knowing elusive claims deductively via mundane claims is that this maneuver is improperly ampliative. Cohen claims that knowing the table is red does not position us to know “I am not a brain-in-a-vat being deceived into believing that the table is red” nor “it’s not the case that the table is white [but] illuminated by red lights” (2002: 313). In the transition from the former to the latter, our knowledge appears to have been amplified improperly. This concern may be due at least in large part to lack of precision in the application of entailment or deductive implication (Klein 2004)[^klein-2004]. Let *red* be the proposition that the table is red, *white* the proposition that the table is white, and *light* the proposition that the table is being illuminated by a red light. *Red* does not entail anything about the conditions under which the table is illuminated. In particular it does not entail the conjunction, *light & not-white*. The most we can infer is that the conjunction, *white & light*, is false, and that gives us no information whatever about the lighting conditions of the table. One could as easily infer the falsity of the conjunction, *white* *&* *not-light*. No amplification of the original known proposition, *red*, has come about.
+#### 3.3.2 Warrant by Entitlement
 
-### 4.2 The Argument from Lottery Propositions
+An increasingly popular view is that we possess default warrants—warrants “by entitlement”—for the denials of wholesale skeptical hypotheses, which warrants require no evidence. There are a number of variations on the theme, but the essential idea is that these “cornerstone” propositions constitute an essential backdrop against which our intellectual exchange with the world takes place; they are the “hinges” upon which empirical inquiry turns (Wittgenstein 1969)[^wittgenstein-1969]. So they can’t themselves be subject to such inquiry. But they also can’t be coherently repudiated since, without them, there would be no inquiry at all. Such cornerstones include, not only the denial of wholesale skeptical hypotheses, but also “my senses are reliable”, “the future will be like the past”, “there is a material world”, and a number of others (Wright 2004 and 2014, Pritchard 2016 and 2018, and Coliva 2014 and 2015)[^coliva-2014][^coliva-2015][^pritchard-2016][^pritchard-2018][^wright-2004][^wright-2014].
 
-It seems apparent that I do not know *not-win*, I will not win the state lottery tonight, even though my odds for hitting it big are vanishingly small. But suppose my heart’s desire is to own a 10 million dollar villa in the French Riviera. It seems plausible to say that I know *not-buy*, I will not buy that villa tomorrow, since I lack the means, and that I know the conditional, if *win* then *buy*, i.e., tomorrow I will buy the villa if I win the state lottery tonight. From the conditional and *not-buy* it follows that *not-win*, so, given closure, knowing the conditional and *not-buy* positions me to know *not-win*. As this reasoning shows, the unknowability of claims like *not-win* together with the knowability of claims like *not-buy* position us to launch another challenge to closure.
+One problem with the entitlement strategy is that of *leaching* (Wright 2004)[^wright-2004]. Since $H$ implies $\neg BIV$, if $\neg BIV$ is false then so is $H$. So any risk that $\neg BIV$ is false—that you are a $BIV$—is inherited by $H$, notwithstanding your evidence for $H$. But, having no evidence for $\neg BIV$, you have no epistemic safeguards against that risk: your entitlement for $\neg BIV$ has nothing to do with whether it’s true, or likely so, but only reflects your being constrained to rely on it. So your belief in $H$ is equally at risk, and so isn’t known (or justified). See Wright 2004, 2012 and 2014, and Moretti and Wright 2023 for responses.
 
-Let a *lottery proposition* be a proposition, like *not-win*, that (at least normally) is supportable only on the grounds that its probability is very high but less than 1. Vogel (1990, 2004)[^vogel-1990][^vogel-2004] and Hawthorne (2004, 2005)[^hawthorne-2004][^hawthorne-2005] have noted that a great number of propositions that do not actually involve lotteries resemble lottery propositions in that they can be given a probability that is close to but less than 1. Such propositions might be described as *lotteryesque*. The events mentioned in a claim can be subsumed under indefinitely many reference classes, and there is no authoritative way to choose which among these determines the probability of the subsumed events. By carefully selecting among these classes we can often find ways to suggest that the probability of a claim is less than 1. Take, for example, *not-stolen*, the proposition that the car you just parked in front of the house has not been stolen: by selecting the class, *red cars stolen from in front of your house in the last hour*, we can portray the statistical probability of *not-stolen* as 1. But by selecting, *cars stolen in the U.S.*, we can portray the probability as significantly less than 1. If, like lottery propositions, lotteryesque propositions are not easily known, they increase the pressure on the closure principle, since they are entailed by a wide range of mundane propositions which become unknowable, given closure.
+A related problem is that of *alchemy* (McGlynn 2014a)[^mcglynn-2014a]. Suppose that, in light of your entitlement to $\neg BIV$, it’s seeming to you as though you have hands provides you with an evidential warrant for $H$. Since $H$ implies $\neg BIV$, closure seems to require that you have, not merely an entitlement, but also an evidential warrant for $\neg BIV$.
 
-How great a threat to **K** (and **GK**) are lottery and lotteryesque propositions? The matter is somewhat controversial. However, there is a great deal to be said for treating lottery propositions one way and lotteryesque propositions another.
+In response Wright concedes that closure for evidential warrants fails, but insists that closure for warrants per se, which may be evidential or not, is still preserved (Wright 2004)[^wright-2004]. But the denials of wholesale skeptical hypotheses, and most other cornerstones, are contingent; and the idea that we could enjoy warrants for belief in contingent propositions without any evidence is, to many, doubtful. Wright suggests that we don’t *believe* cornerstones, but only *trust* or *accept* them. But knowledge is also standardly taken to require, not mere acceptance or trust, but also belief. And even if the attitude that knowledge requires is expanded to include acceptance or trust, knowledge is also standardly understood to require proper basing. But it’s not clear how your acceptance/trust in $Q$ can be based on a default entitlement.[^note-57]
 
-As for lottery propositions: several theorists suggest that we do not in fact know that they are true because knowing them requires believing them because of something that *establishes* their truth, and we (normally) cannot establish the truth of lottery propositions. There are various ways to understand what is meant by “establishing” the truth of a claim. Dretske, as we have seen, thinks that knowledge entails having a conclusive reason for thinking as we do. David Armstrong (1973, p. 187) said that knowledge entails having a belief state that “ensures” truth. Safe indication theorists suggest that we know things when we believe them because of something that safely indicates their truth. And Harman and Sherman (2004, p. 492) say that knowledge requires believing as we do because of something “that settles the truth of that belief.” On all four views, we fail to know that a claim is true when our only grounds for believing it is that it is highly likely. However, the unknowability of lottery propositions is not a substantial threat to closure, since it is not obvious that there are propositions that are both known to be true and that entail lottery propositions. Consider the example discussed earlier: the conditional if *win* then *buy* together with *not-buy*. If I know these, then, by **GK**, I know *not-win*, a lottery proposition. But it is quite plausible to deny that I do know these. After all, I might win the lottery.
+Admittedly, the consequent of SPWC—the version of closure that the frontloader can endorse—only requires that you have a warrant for $Q$, not that you know it. But the idea that you can have a warrant—which we’ve understood here to be a way of knowing—for a proposition that you can’t know is, at least, odd.[^note-58]
 
-Now consider lotteryesque propositions. We cannot defend closure by denying that we know any mundane proposition that entails a lotteryesque proposition since it is clear that we know that many things are true that entail lotteryesque propositions. To defend closure we must instead say that lotteryesque propositions are knowable. They differ from genuine lottery propositions in that they may be supportable on grounds that establish their truth. If I base my belief *not-stolen* solely on crime statistics, I will fail to know that it is true. But I can instead base it on observations, such as having just parked it in my garage, and so forth, that, under the circumstances, establish that *not-stolen* holds.
+The entitlement strategy won’t apply to piecemeal skeptical hypotheses since ordinary empirical evidence is obviously possible for “it’s not a disguised mule”, “I will lose the lottery”, “my car isn’t stolen”, and the like. The frontloader who mobilizes the entitlement strategy will, then, need another way to handle such hypotheses.
 
-## 5. The Argument From Skepticism
+### 3.4 Transmissivism
 
-According to Dretske and Nozick, we can account for the appeal of skepticism and explain where it goes wrong if we accept their view of knowledge and reject **K**. Rejecting knowledge closure is therefore the key to resolving skepticism. Given the importance of insight into the problem of skepticism, they would seem to have a good case for denying closure. Let us consider the story they present, and some worries about its acceptability.
+Since §3.1 we’ve been pursuing the preservationist option, according to which transmission sometimes fails—in Dretske cases, at least—but, when it does fail, something ensures that the conclusion ends up being known anyway, so that closure is preserved. In this section we’ll explore the transmissivist option, according to which transmission (and, therefore, closure) succeeds, if not always, then at least in some Dretske cases.
 
-### 5.1 Skepticism and Antiskepticism
+According to *dogmatism*, its perceptually seeming to you as though $H$ suffices on its own, in the absence of defeaters, to warrant the belief that $H$ (Pryor 2000, 2004, and 2012)[^pryor-2000][^pryor-2004][^pryor-2012].[^note-59] According to *disjunctivism*, in ordinary, non-skeptical scenarios your evidence doesn’t merely consist in your *seeming* to have hands (as it would if you were a $BIV)$, but in your *seeing* that you have them, where “seeing” is factive: you can only see that you have hands if you have them (McDowell 1986 and 1995, Pritchard 2012)[^mcdowell-1986][^mcdowell-1995][^pritchard-2012]. And according to $E = K$, your evidence is all and only that which you know. Since, in the “good”, non-skeptical case, you know $H, H$ constitutes evidence that you can then wield against skeptical hypotheses (Williamson 2000)[^williamson-2000].
 
-Dretske and Nozick focused on a form of skepticism that combines **K** with the assumption that we do not know that skeptical hypotheses are false. For example, I do not know *not*-*biv*: I am not a brain in a vat on a planet far from earth being deceiving by alien scientists. On the strength of these assumptions, skeptics argue that we do not know all sorts of commonsense claims that entail the falsity of skeptical hypotheses. For example, since *not*-*biv* is entailed by *h*, I am in San Antonio, skeptics may argue as follows:
+Frontloading is false on each of these views, at least with respect to wholesale skeptical hypotheses: you don’t need to know $\neg BIV$ in order to acquire your knowledge of $H$. As a result, it seems, nothing stands in the way of learning, in the style of G. E. Moore, $\neg BIV$ by inferring it from $H$ (Moore 1939 [1959])[^moore-1939]. Correspondingly, advocates of these views very typically endorse that Moorean inference.[^note-60]
 
-**(1)**
+These views confront the robust intuition that the Moorean inference doesn’t transmit. One explanation for this is that we’re confusing the question whether an argument can rationally resolve initial open-mindedness about the conclusion with whether warrant transmits. If you are, like the skeptic, initially open-minded about whether $\neg BIV$ is true, then you are indeed rationally obliged to discount your putative visual evidence for $H$ (since it isn’t probative if you are a $BIV)$, and so can’t resolve your initial open-mindedness concerning $\neg BIV$ by inferring it from $H$. Since this only applies if you are initially open-minded, that inability is a dialectical failing (even if the dialectic is, as it were, in your head) and varies depending on the audience.
 
-**K** is true; i.e., if, while knowing *p*, *S* believes *q* because *S* knows that *p* entails *q*, then *S* knows *q*.
+Warrant transmission, however, is an epistemic, not a dialectical, matter, and doesn’t so vary. If you can acquire a warrant for $H$ solely on the basis of its seeming that $H$, as per the dogmatist, or on the basis of your *seeing* that $H$, as per the disjunctivist, then you can acquire a warrant for $\neg BIV$ by inference from $H$ whether or not doing so resolves antecedent open-mindedness about the conclusion (Pryor 2004; see also Brown 2005)[^brown-2005][^pryor-2004]. (Simion 2023 criticizes this explanation of our intuition but offers a different explanation in defense of transmissivism.)[^simion-2023]
 
-**(2)**
+One problem with this explanation is that virtually everyone thinks that they’re not $BIV$s, and so aren’t open-minded on the issue, but still intuit that there’s something wrong with the Moorean inference. The transmissivist can, however, respond that we’re intuiting, not that the argument doesn’t work for us, but that it would beg the question against a skeptic. (Kelp 2023, however, argues that you can’t come to know a proposition by means of a question-begging argument.)[^kelp-2023]
 
-*h* entails *not-biv*.
+It’s unclear, however, what purpose the Moorean inference serves. Skeptical hypotheses are of little intrinsic interest aside from the skeptic’s wielding such hypotheses against ordinary knowledge. But, according to the transmissivist, we don’t need to know beforehand that skeptical hypotheses are false in order to acquire ordinary knowledge. So ordinary knowledge is secure whatever the fortunes of skeptical hypotheses might be; the Moorean inference can play no coherent role in the defense of that knowledge. At best, it can show that closure can also be preserved. But transmissivists are precisely those who believe in SPC because they believe in SPT. So this amounts to showing that if we endorse transmissivism we’ll preserve transmission (see Alspector-Kelly §5.1).
 
-**(3)**
+Two problems for transmissivism have already been canvassed above. First, it countenances knowledge acquisition through inferences from $P$ to $Q$ in Dretske cases, wherein evidence $E$ favoring $P$ lowers the probability of $Q$. It’s at least odd to think that you can nevertheless learn $Q$ by means of such an inference (see §3.1). Second, you can recognize beforehand that, in Dretske cases, your method for evaluating $Q$ will deliver $Q$ whether or not $Q$ is true (see §3.2). It’s very implausible that such inferences transmit.
 
-So if I know *h* and I believe *not-biv* because I know it is entailed by *h* then I know *not-biv*.
+A third problem is that transmissivism appears to license bootstrapping. You look at a series of colored cards. In each case you note the color the card appears to be, believe that it is that color, and conjoin these: “card 1 appears red and is red”, for example. You do the same for the rest of the 1000 cards, and infer from the 1000 propositions that $A$, your color vision has been accurate 1000 times. Finally, you inductively infer from $A$ that $R$, your color vision is reliable.
 
-**(4)**
+As a warrant for $R$, this is intuitively absurd. But it’s difficult for the transmissivist to say why. Only skeptics will deny that you can learn the color of something by noting the color it appears to have. And the subsequent inferences to $A$ are instances of MPC. The transmissivist could resist the inference from $A$ to $R$, which is inductive. But A seems to constitute excellent inductive grounds for $R$.[^note-61]
 
-But I do not know *not-biv*.
+You can also recognize that, before you get started, you will inevitably end up endorsing $R$ (and $A)$ whether or not it is true. But, as with Dretske cases, if you know this beforehand, there’s no point in your going through the motions. (See Bergmann 2004, Cohen 2005, Markie 2005, and Pryor 2004 for closure-preserving responses to bootstrapping, and Alspector-Kelly 2019, §11.1.2. for a closure-denying response.)[^alspector-kelly-2019][^bergmann-2004][^cohen-2005][^markie-2005][^pryor-2004][^note-62]
 
-**(5)**
+A fourth concern is that transmissivism seems to license a pernicious resistance to evidence.[^note-63] It follows from $P$ that any future evidence against $P$ must be misleading. Suppose you know $P$ and infer the latter from it. If transmissivism is true, then you know the latter. But, surely, you shouldn’t discount future evidence against $P$ (Harman 1973, attributing the problem to Saul Kripke)[^harman-1973]. Audi 1988 argues that closure fails in light of this problem. Feldman 1995 responds to Audi’s argument; Audi replies in his 1995. Harman 1973, Sorensen 1988 and Veber 2004 offer closure-preserving responses.
 
-Hence I do not know *h*.
+Neither dogmatism nor disjunctivism will apply to many Dretske cases involving piecemeal hypotheses: it doesn’t perceptually seem as though you can’t afford an African safari, or that your car is in 3b (remember that you’re not currently looking at it); and you don’t see that these claims are true. So some other source of warrant—most plausibly, background information—will be needed for “I’ll lose the lottery”, “my car isn’t stolen”, and the like. The extent to which the $E = K$ advocate will apply the transmissivist response to piecemeal skeptical hypotheses isn’t clear, since one could know that those hypotheses are false by other means than by inference from ordinary propositions.[^note-64]
 
-Dretske and Nozick were well aware that this argument can be turned on its head, as follows:
+## 4. Multi-Premise Closure
 
-**(1)**
+The discussion to this point has entirely concerned SPC. This is because there are issues that only affect MPC (or so it seems at first glance).
 
-**K** is true; i.e., if, while knowing *p*, *S* believes *q* because *S* knows that *p* entails *q*, then *S* knows *q*.
+Recall from §2.8 that, on the probabilistic threshold conception, you’re justified in believing $P$ when the probability of $P$ on your evidence is above some high threshold, and know $P$ when your belief, in addition to being sufficiently probable, is also true and not a Gettier case. Since the probability of your beliefs given your evidence is rarely 1, that threshold is standardly understood to be less than 1 in order to avoid skepticism. But if the probability of two or more premises is, while above that threshold, less than 1, the probability of their conjunction can drop below that threshold. And that allows the probability of the conclusion to also fall below that threshold, since its probability need only be at least as high as the probability of that conjunction. So MPC can fail on the threshold view. This doesn’t affect SPC, since if $P$ implies $Q$ then $p(Q) \ge p(P)$.
 
-**(2)**
+A classic illustration is the lottery paradox (Kyburg 1961)[^kyburg-1961]. It’s highly probable, of each ticket in a typical lottery, that it will lose. Suppose that—like many real lotteries—although it’s probable that there’s a winning ticket in a particular lottery, it’s not guaranteed; and, as it turns out, there isn’t a winner this time around. If you believe, of each ticket, that it will lose, those beliefs will all be true. And they don’t exhibit any of the characteristics of Gettier cases. So, on the threshold view, you know, of each ticket, that it will lose. Those propositions together imply that all the tickets will lose (equivalently, that the conjunction of the many “ticket x will lose” propositions is true).[^note-65] But you don’t know the latter, since it’s improbable. MPC fails.
 
-*h* entails *not-biv*.
+One can deny, as many do, that you know, of each losing ticket, that that ticket will lose, however probable its losing might be. Perhaps, for example, knowing $P$ requires, not only that $P$ is probable on your evidence, but also that your belief in $P$ is safe, which, as per §2.8 above, these beliefs are not. But suppose that you do in fact know every one of the thousands of individual claims you’ve made in your book, each of which is, then, both safe and probable on your evidence. Those claims together imply their conjunction. However, as you modestly concede, it’s likely that at least one claim in the book is wrong. That conjunction is therefore improbable. On the view we’re considering, then, you don’t know it, and MPC fails.[^note-66] Preserving MPC in this case requires, not that high probability is not sufficient for knowledge, but that it isn’t necessary: your belief can count as known even if its probability on your evidence is very low. Even those who don’t endorse high probability as sufficient for knowledge might balk at the idea that you can know $P$ despite $P$’s being highly improbable on your evidence (but see Williamson 2009a and 2014, and Smith 2016a and 2025)[^smith-2016a][^smith-2025][^williamson-2009a][^williamson-2014][^williamson-2025].
 
-**(3)**
+A compromise is to endorse SPC and reject MPC. But one problem with doing so is that the intuitions supporting SPC seem to equally support MPC. A purported cost of closure denial discussed in §2.5 above is that closure deniers are forced to reject highly intuitive closure principles like addition closure, simplification closure, or equivalence closure. But many simple multi-premise closure principles—employing conjunction introduction, modus ponens, modus tollens, disjunctive syllogism, etc.—are equally highly intuitive, and are all susceptible to the risk-accrual problem. Moreover, “I know $P$ and I know $Q$, but I don’t know $P \amp Q$” (for example) seems as abominable as any single-premise version.
 
-So if I know *h* and I believe *not-biv* because I know it is entailed by *h* then I know *not-biv*.
+Another concern with the compromise is that our inferential dispositions aren’t infallible: you could believe $Q$ because, you think, it follows from $P$ when, in fact, it doesn’t. So the risk that the conclusion could be false is a function, not only of the risk that the premises are false, but also that the inference is faulty. These can combine, so that the risk that the conclusion is false is too high for it to count as known (Lasonen 2008)[^lasonen-2008].
 
-**(4)′**
+This can happen even if there is *no* risk that the premise is false. Suppose that you perform an extremely long sequence of single-premise deductions from a certain mathematical truth. For each step there is a small chance that you’ve reasoned incorrectly. Those chances can accumulate so that your putative knowledge of the final conclusion is defeated by that accumulated risk (Lasonen 2008, Schechter 2013, and Brown 2018, chs. 5 & 6; but see Tang 2018 and Montessori 2025)[^brown-2018][^lasonen-2008][^montessori-2025][^schechter-2013][^tang-2018].[^note-67]
 
-I do know *h*.
+## 5. Justification Closure
 
-**(5)′**
+The discussion to this point has only concerned knowledge closure. But there is also a robust debate concerning whether justification is closed.
 
-Hence I do know *not-biv*.
+Consider the following principle:
 
-Turning tables on the skeptic in this way was roughly Moore’s (1959)[^moore-1959] antiskeptical strategy. (Tendentiously, some writers now call this strategy *dogmatism*). However, instead of **K**, Moore presupposed the truth of a stronger principle:
+SPJC: If you are justified in believing $P$, and believe $Q$ because it’s implied by $P$, then you are justified in believing $Q$.
 
-(**PK**)
+Assuming that justified false beliefs are possible, neither sensitivity nor safety (nor basis-relative versions of them) can be justification, since both are factive.[^note-68] But much of the discussion from §§3–4 above applies also to justification. If SPJC is true, is that because transmission of justification succeeds? If so, then the following is also correct:
 
-If, while knowing *p*, *S* believes *q* because *S* knows that *q* is entailed by *S*’s knowing *p*, then *S* knows *q*.
+SPJT: if (i) you are justified in believing $P$, and believe $Q$ because it’s implied by $P$, then (ii) you are justified in believing $Q$ because of (i).
 
-Unlike **K**, **PK** underwrites Moore’s famous argument: Moore knows he is standing; his knowing that he is standing entails that he is not dreaming; therefore, he knows (or rather is in a position to know) that he is not dreaming.
+It is, however, as unintuitive that SPJT is true in Dretske cases as it is that SPT is true in those cases. If, instead, SPJT is false in such cases but SPJC is preserved, then much the same questions can be posed concerning the source of justification as were asked about the source of warrant: does your justification for $P$ suffice on its own as a justification for $Q$? Or is justification for $Q$ a precondition for your justification for $P$? If the latter, is the requisite justification for $Q$ provided by background knowledge? Or is $Q$ justified by default?
 
-### 5.2 Tracking and Skepticism
+In fact, a significant proportion of the literature on these issues expressly concerns either justification or, confusingly, “warrant”, but where the latter term typically means, not ways of knowing, but either justification or something similar to it (see note 48). The debate concerning knowledge and that concerning justification/warrant are not always carefully distinguished. This is unfortunate, since a view ensuring that justification is closed doesn’t thereby ensure that knowledge is closed as well. It is, for example, more plausible that purely statistical information concerning the likelihood of losing the lottery delivers justification for “I will lose” than that it delivers knowledge. It’s also at least somewhat more plausible that non-evidential entitlements can justify cornerstone propositions than that such entitlements deliver knowledge of them.
 
-According to Dretske and Nozick, skepticism is appealing because skeptics are partially right. They are correct when they say that we do not know that skeptical hypotheses fail to hold. For I do not track *not*-*biv*: if *biv* were true, I would still have the experiences that lead me to believe that *biv* is false. Something similar can be said about antiskepticism: antiskeptics are correct when they say we know all sorts of commonsense claims that entail the falsity of skeptical hypotheses. Having gotten this far, however, skeptics appeal to K, and argue that since I would know *not-biv* if I knew *h*, then I must not know *h* after all, while Moore-style antiskeptics appeal to **K** in order to conclude that I do know *not-biv*. But this is precisely where skeptics and antiskeptics alike go wrong, for **K** is false. Consider the position skeptics are in. Having accepted the tracking view—as they do when they deny that we know skeptical hypotheses are false—skeptics cannot appeal to the principle of closure, which is false on the tracking theory. We track (hence know) the truth of ordinary knowledge claims yet fail to track (or know) the truth of things that follow, such as that incompatible skeptical hypotheses are false.
+If the justification for your belief is a function of its probability on your evidence, then you would be justified in believing, for each ticket in a lottery, that it will lose—including the one that will win if there is one, assuming justification isn’t factive—but not that they all will. So, for the same reasons canvassed in §4, SPJC will succeed but the multi-premise version, MPJC, will fail. And the arguments extending those concerns to SPC still apply, thereby threatening SPJC as well.
 
-One shortcoming of this story is that it cannot come to terms with all types of skepticism. There are two main forms of skepticism (and various sub-categories): regress (or Pyrrhonian) skepticism, and indiscernability (Cartesian) skepticism. At best, Dretske and Nozick have provided a way of dealing with the latter.
+Other conceptions of justification are not similarly threatened. If justification is knowledge then, if you are justified in believing the premises, you know them. And if $E = K$, the probability of each premise on your evidence—on, that is, that very premise—is 1. And since the premises together imply the conclusion, the probability of the conclusion is also 1.
 
-Another worry about Dretske’s and Nozick’s response to Cartesian skepticism is that it forces us to give up **K** (as well as **GK**, and closure across instantiation and simplification). Given the intuitive appeal of these principles, some theorists have looked for alternative ways of explaining skepticism, which they then offer as superior in part on the grounds that they do no violence to **K**. Consider two possibilities, one offered by advocates of the safe indication theory, and one by contextualists.
+There are other non-probabilistic accounts of justification that preserve both SPJC and MPJC without the radical identification of justification and knowledge. For example, on Martin Smith’s normic account, you have a justification for believing $P$ when $P$ is normically supported by your evidence (Smith 2010 and 2016a)[^smith-2010][^smith-2016a]. “A body of evidence $E$ normically supports a proposition $P$ just in case the circumstance in which $E$ is true and $P$ is false requires more explanation than the circumstance in which $E$ and $P$ are both true” (Smith 2016a, 40; see Goodman and Salow 2023 for a similar view)[^goodman-2023][^smith-2016a].
 
-### 5.3 Safe Indication and Skepticism
+Although improbable, there’s nothing abnormal about your winning the lottery given your statistical evidence. So that evidence doesn’t justify your believing that you will lose the lottery (call this case $A)$. However, if you watch the draw on TV and the winning numbers you see on screen don’t match those on your ticket then, if you nevertheless won, *that* would be abnormal, and would call for explanation: your eyesight failed you, you’re hallucinating, the studio is broadcasting the wrong lottery, and so on. Since the most normal worlds wherein you have the same evidence are those in which these aberrations don’t occur, and so in which you have indeed lost, your belief that you lost is justified (case $B)$.
 
-Advocates of the safe indication theory accept the gist of the tracking theorist explanation of the appeal of skepticism but retain the principle of closure. One reason skepticism tempts us is that we tend to confuse **CR** with **SI** (Sosa 1999, Luper 1984, 1987c, 2003a)[^luper-1984][^luper-1987c][^luper-2003a][^sosa-1999]. After all, **CR**—if *p* were false, *R* would not hold—closely resembles **SI**—*R* would hold only if *p* were true. When we run the two together, we sometimes apply **CR** and conclude that we do not know that skeptical scenarios do not hold. Then we shift back to the safe indication account, and go along with skeptics when they appeal to the principle of entailment, which is sustained by the safe indication account, and conclude that ordinary knowledge claims are false. But, as Moore claimed, skeptics are wrong when they say we do not know that skeptical hypotheses are false. Roughly, we know skeptical possibilities do not hold since (given our circumstances) they are remote.
+Since you’re not justified in believing that you will lose the lottery given only that you’re very likely to lose, Smith concedes that you’re not justified in believing that you won’t be able to afford an African safari. However, he suggests, this skepticism doesn’t extend to lottery-esque propositions: you *are* justified in believing, for example, that your car hasn’t been stolen, because its being stolen would be abnormal and so call for explanation. So you’re justified in believing both that your car is in spot 3b where you parked it and that it wasn’t stolen; and similarly for other lottery-esque cases. SPJC is preserved (Smith 2016a, 56–58)[^smith-2016a].[^note-69]
 
-Skepticism might also result from the assumption that, if a belief formation method *M* were, in some situation, to yield a belief without enabling us to know the truth of that belief, then it cannot ever generate bona fide knowledge (of that sort of belief), no matter what circumstances it is used in. (*M* must be strengthened somehow, say with a supplemental method, or with evidence about the circumstances at hand, if knowledge is to be procured.) This assumption might rest on the idea that any belief *M* yields is, at best, accidentally correct, if in any circumstances *M* yields a false or an accidentally correct belief (Luper 1987b,c)[^luper-1987b]. On this assumption, we can rule out a method of belief formation *M* as a source of knowledge merely by sketching circumstances in which *M* yields a belief that is false or accidentally correct. Traditional skeptical scenarios suffice; so do Gettieresque situations. Externalist theorists reject the assumption, saying that *M* can generate knowledge when used in circumstances under which the belief it yields is not accidentally correct. In highly Gettierized circumstances *M* must put us in an especially strong epistemic position if *M* is to generate knowledge; in ordinary circumstances, less exacting methods can produce knowledge. The standards a method must meet to produce knowledge depend on the context in which it is used. This view, on which the requirements for a subject or agent *S* to know *p* vary with *S*’s context (e.g., how exacting *S*’s method of belief formation must be to yield knowledge depend on *S*’s circumstances), might be called *agent-centered* (or *subject*) *contextualism*. Both tracking theorists and safe indication theorists defend agent-centered contextualism.
+MPJC is also preserved. You’re not justified in believing, of each lottery ticket, that it loses solely on the basis of the probability of its doing so, so MPJC doesn’t imply that you’re justified in believing that they’ll all lose. And if you’re justified in believing every sentence in your book then, if one of those is in fact false, some explanation of its being so is called for. But the conjunction of those sentences is only false if one or more of them is false. So the conjunction is only false if an explanation of *its* being false is called for. So you’re justified in believing that the conjunction is true, and so *not* justified in believing its negation, that at least one of those claims is false (Smith 2016a and 2022; but see Littlejohn and Dutant 2020 and Backes 2026)[^backes-2026][^littlejohn-2020][^smith-2016a][^smith-2022].
 
-### 5.4 Contextualism and Skepticism
-
-Theorists writing under the label “contextualism,” such as David Lewis (1979, 1996)[^lewis-1979][^lewis-1996], Stewart Cohen (1988, 1999)[^cohen-1988][^cohen-1999], and Keith DeRose (1995)[^derose-1995], offer a related way of explaining skepticism without denying closure. For clarity, we might call them *speaker*-centered (or *attributor*) contextualists since they contrast their view with agent-centered contextualism. According to (speaker-centered) contextualists, whether it is correct for a *judge* to attribute knowledge to someone depends on that *judge’s* context, and the standards for knowledge differ from context to context. When the man on the street judges knowledge, the applicable standards are relatively modest. But an epistemologist takes all sorts of possibilities seriously that are ignored by ordinary folk, and so must apply quite stringent standards in order to reach correct assessments. What passes for knowledge in ordinary contexts does not qualify for knowledge in contexts where heightened criteria apply. Skepticism is explained by the fact that the contextual variation of epistemic standards is easily overlooked. Skeptics note that in the epistemic context it is inappropriate to grant anyone knowledge. However, skeptics assume—falsely—that what goes in the epistemic context goes in all contexts. They assume that since those who take skepticism seriously must deny anyone knowledge, then everyone, regardless of context, should deny anyone knowledge. Yet people in ordinary contexts are perfectly correct in claiming that they know all sorts of things.
-
-Furthermore, the closure principle is correct, contextualists say, so long as it is understood to operate within given contexts, not across contexts. That is, so long as we stay within a given context, we know the things we deduce from other things we know. But if I am in an ordinary context, knowing I am in San Antonio, I cannot come to know, via deduction, that I am not a brain in a vat on a distant planet, since the moment I take that skeptical possibility seriously, I transform my context into one in which heightened epistemic standards apply. When I take the vat possibility seriously, I must wield demanding standards that rule out my knowing I am not a brain in a vat. By the same token, these standards preclude my knowing I am in San Antonio. Thinking seriously about knowledge undermines our knowledge.
-
-## 6. Closure of Rational Belief
-
-To say that justified belief is closed under entailment is to say that something like one of the following principles is correct (or that both are):
-
-(**J**)
-
-If, while justifiably believing *p*, *S* believes *q* because *S* knows *p* entails *q*, then *S* justifiably believes *q*.
-
-(**GJ**)
-
-If, while justifiably believing various propositions, *S* believes *p* because S knows that they entail *p*, then *S* justifiably believes *p*.
-
-However, **GJ** generates paradoxes (Kyburg 1961)[^kyburg-1961]. To see why, notice that if the chances of winning a lottery are sufficiently remote, I am justified in believing that my ticket, ticket 1, will lose. I am also justified in believing that ticket 2 will lose, and that 3 will lose, and so on. However, I am not justified in believing the conjunction of these propositions. If I were, I would justifiably believe that no ticket will win. If a proposition is justified when probable enough, lottery examples undermine **GJ**. No matter how great the probability that suffices for justification, unless that probability is 1, in some lotteries we will be justified in believing, of an arbitrary ticket, that it will lose, and thus, by **GJ**, we will be justified in believing that all of the tickets will lose.
-
-Even if we reject **GJ**, it does not follow that we must reject **GK**, which concerns *knowledge* closure. Consider the lottery example again. How justified we are in believing that ticket 1 will lose depends on how probable its losing is. Now, the probability that ticket 2 will lose is equal to the probability that ticket 1 will lose. The same goes for each ticket. However, consider the conjunction, *Ticket 1 will lose & ticket 2 will lose*. The probability of this conjunctive proposition is less than the probability of either of its conjuncts. Suppose we continue to add conjuncts. For example, next in line will be: *Ticket 1 will lose & ticket 2 will lose & ticket 3 will lose*. Each time a conjunct is added, the probability of the resulting proposition is still lower. This illustrates the fact that we can begin with a collection of propositions each of which surpasses some threshold level of justification (let it be whatever is necessary for a belief to count as “justified” according to **GJ**) and, by conjoining them, we can end up with a proposition which falls below that threshold level of justification. We may “justifiably believe” each conjunct, but not the conjunction, so **GJ** fails. However, we need not reject **GK** on these grounds. Even if we grant that we *justifiably believe* that *Ticket 1 will lose* is true we might deny that we *know* that this proposition is true. We might take the position that if we believe some proposition *p* on the basis of its probability, nothing less than a probability of 1 will suffice to enable us to know that it is true. In that case **GK** will not succumb to our objection to **GJ**, for if the probability of two or more propositions is 1 then the probability of their conjunction is also 1.
-
-We can reject **GJ**. Should we also reject **J**? The status of this principle is much more controversial. Some theorists argue against it using counterexamples like Dretske’s own zebra case: because the zebra is in plain sight, you seem fully justified in believing *zeb*, but it is not so clear that you are justified in believing *not-mule*, even if you deduce this belief from *zeb*. Anyone who rejects **K** on the grounds that **K** sanctions the knowledge of limiting or heavyweight propositions (discussed earlier) is likely to reject **J** on similar grounds: justifiably believing that we have hands, it might seem, does not position us to justifiably believe that there are physical objects even if we see that the former entails the latter.
-
-One response is that cases such as Dretske’s do not count against **J**, but rather against the following principle (of the transmissibility of evidence):
-
-(**E**)
-
-If *e* is evidence for *p*, and *p* entails *q*, then *e* is evidence for *q*.
-
-Even if we reject this principle, it does not follow that justification is not closed under entailment, as Peter Klein (1981)[^klein-1981] pointed out. Arguably, for justification closure, all that is necessary is that when, given all of our relevant evidence *e*, we are justified in believing *p*, we also *have* sufficient justification for believing each of *p*’s consequences. Our justification for *p*’s consequences need not be *e*. Instead, it might be *p* itself, which is, after all, a justified belief. And since *p* entails its consequences, it is sufficient to justify them. Moreover, any good evidence we have against a consequence of *p* counts against *p* itself, preventing us from being justified in believing *p* in the first place, so if we are justified in believing *p*, considering all our evidence, pro and con, we will not have overwhelming evidence against propositions entailed by *p*. (A similar move could be defended against the tracking theorists when they deny the closure of knowledge: if we track *p*, and believe *q* by deducing it from *p*, then we track *q* if we take *p* as our basis for believing *q*.) Looked at in this way, **J** seems plausible. (There is a substantial literature on the transmissibility of evidence and its failure; see, for example, Crispin Wright (1985)[^wright-1985] and Martin Davies (1998)[^davies-1998].
-
-Some final observations can be made using Roderick Firth’s (1978)[^firth-1978] distinction between propositional and doxastic justification. Proposition *p* has propositional justification for S if and only if, given the grounds *S* possesses, *p* would count as rational. That *p* has propositional justification for *S* does not require that *S* actually base *p* on these grounds, or even that *S* believe *p*. Whether *S*’s belief has doxastic justification depends on *S*’s actual grounds for believing *p*: if, on these grounds, *p* would count as rational, then *p* possesses doxastic justification. Consider the following principles:
-
-(**JD**)
-
-If *p* is doxastically justified for *S*, and *p* entails *q*, then *q* is doxastically justified for *S*.
-
-(**JP**)
-
-If *p* is propositionally justified for *S*, and *p* entails *q*, then *q* is propositionally justified for *S*.
-
-Clearly **JD** faces two fatal objections. First, we might fail to believe some of the things implied by our beliefs. Second, we may have perfectly respectable reasons for believing something *p*, yet, failing to see that *p* entails *q*, we might not be aware of any grounds for believing *q*, or, worse, we might believe *q* for bogus reasons. But neither difficulty threatens **JP**. First, propositional justification does not entail belief. Second, *S* might be propositionally justified in believing *q* on the basis of *p* whether or not *S* fails to see that *p* entails *q*, and even if *S* believes *q* for bogus reasons. As further support for **JP**, we might cite the fact that, if *p* entails *q*, whatever counts against *q* also counts against *p*.
+In general, there’s much yet to explore concerning the relationship between closure and recent accounts of justification now on the market.[^note-70]
 
 ## References（引用注释）
 
@@ -418,162 +375,509 @@ Clearly **JD** faces two fatal objections. First, we might fail to believe some 
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+- [Epistemic Closure Principles](https://iep.utm.edu/epis-clo/), entry by John M. Collins at *Internet Encyclopedia of Philosophy*
+- Luper, Steven, “Epistemic Closure”, *Stanford Encyclopedia of Philosophy* (Fall 2026 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/fall2026/entries/closure-epistemic/](https://plato.stanford.edu/archives/fall2026/entries/closure-epistemic/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=closure-epistemic).]
 
 ## Related Entries
 
-confirmation | contextualism, epistemic | evidence | knowledge: analysis of | reliabilist epistemology | skepticism | skepticism: and content externalism
+confirmation | contextualism, epistemic | evidence | knowledge: analysis of | skepticism | skepticism: and content externalism | transmission of justification and warrant
 
-[^alston-1993]: Alston, W., 1993, *The Reliability of Sense Perception*, Ithaca: Cornell University Press.
+## Notes（原文脚注）
 
-[^armstrong-1973]: Armstrong, D., 1973, *Belief, Truth and Knowledge*, Cambridge: Cambridge University Press.
+[^note-1]: The natural numbers, for example, are closed under multiplication: the product of any two natural numbers is also a natural number. But they are not closed under division: 1 divided by 3 is not a natural number.
 
-[^audi-1995]: Audi, R., 1995, “Deductive Closure, Defeasibility and Scepticism: A Reply to Feldman.” *Philosophical Quarterly*, 45: 494–499.
+[^note-2]: $P$ deductively implies $Q$ when an argument with $P$ as premise and $Q$ as conclusion is deductively valid: if the premise is true then the conclusion must, as a matter of logical necessity, be true as well. Although “implies” in ordinary language sometimes means “suggests”, “insinuates”, or the like, “imply” and “implies” are used throughout this entry (and the relevant literature) to mean valid deductive entailment. Closure principles involving inductive inference are rarely discussed in the literature.
 
-[^becker-2009]: Becker, K., 2009, *Epistemology Modalized*, New York: Routledge.
+[^note-3]: “[T]he idea that no version of [closure] is true strikes me, and many other philosophers, as one of the least plausible ideas to come down the philosophical pike in recent years” (Feldman 1995, 487)[^feldman-1995]. “[I]f a philosopher advances a view that forces us to reject closure, that should be taken as a reductio of that philosopher’s view” (Fumerton 1995, 131)[^fumerton-1995].
 
-[^black-1949]: Black, M., 1949, “The Justification of Induction,” *Language and Philosophy*, Cornell University Press.
+[^note-4]: “[Timothy] Williamson has an insightful take on the root of epistemic closure intuitions, namely, the idea that ‘deduction is a way of extending one’s knowledge’” (Hawthorne 2013, fn. 6, quoting Williamson 2000, 117; see also Pritchard 2016, 13)[^hawthorne-2013][^pritchard-2016][^williamson-2000].
 
-[^black-2007]: Black, T., and Murphy, P., 2007, “In Defense of Sensitivity”, *Synthese*, 154(1): 53–71.
+[^note-5]: If, instead, we maintain that competently deducing $Q$ from $P$ itself requires that you maintain your recognition that $P$ implies $Q$ throughout the deduction then, again, we might as well just characterize closure as concerning your state at the time when the competent deduction is complete.
 
-[^bogdan-1985]: Bogdan, R.J., 1985, “Cognition and Epistemic Closure,” *American Philosophical Quarterly*, 22: 55–63.
+[^note-6]: SPC is a true closure principle: a proposition that satisfies the relation “believed because it is implied by $P$”, where $P$ is a member of the set of known propositions, is a known proposition. Since the antecedent and consequent of the dynamic version concern what you know at different times, it doesn’t express a condition on the set of known propositions at a given time, and so is not, strictly speaking, a closure principle.
 
-[^bonjour-1987]: BonJour, L., 1987, “Nozick, Externalism, and Skepticism,” in Luper 1987a, 297–313.
+[^note-7]: If you did only know that $P$ implies $Q$ by testimony, then it would function for you as a premise: you would infer $Q$ from $P$ and $(P$ implies $Q)$. But suppose you also only know that $P$ and $(P$ implies $Q)$ imply $Q$ by testimony. Then you would infer $Q$ from $P, (P$ implies $Q)$, and $((P$ and $(P$ implies $Q))$ imply $Q)$. But suppose you only know that $P$, $(P$ implies $Q)$, and $((P$ and $(P$ implies $Q))$ imply $Q)$ imply $Q$ by testimony…. We can’t model your relationship to $P$’s implying $Q$ as just another premise that you know on pain of your never being able to detach the conclusion. See Lasonen 2008, 8 for a closely related argument. A classic illustration of the detachment problem is Lewis Carroll 1895.
 
-[^brueckner-1985a]: Brueckner, A., 1985a, “Losing Track of the Sceptic,” *Analysis*, 45: 103–104.
+[^note-8]: Another condition that is sometimes imposed on closure is that you don’t have a defeater suggesting that $P$ doesn’t imply $Q$. You might, for example, actually have the requisite accurate understanding of the inferential relation between $P$ and $Q$, but also have testimony from a highly reputable logician, uncharacteristically mistaken in this one instance, that this particular inference is invalid. It’s not clear, however, that such misleading defeaters undermine your knowledge of $Q$; they might, instead, undermine your knowing, or your being justified in believing or claiming, that you know $Q$. As a result, this condition is not imposed here.
 
-[^brueckner-1985b]: –––, 1985b, “Skepticism and Epistemic Closure,” *Philosophical Topics*, 13: 89–117.
+[^note-9]: Attempts to finesse the closure principle in response to counterexamples that—even closure advocates concede—need accommodation have sometimes delivered versions of closure that are baroque enough as to remind one of similarly unwieldy post-Gettier analyses of knowledge (see, for example, definition (9) of justification closure in Simpson 2021, 12352).
 
-[^brueckner-1985c]: –––, 1985c, “Transmission for Knowledge Not Established,” *Philosophical Quarterly*, 35: 193–196.
+[^note-10]: Nozick also claimed that knowledge must satisfy an *adherence* condition: were $P$ true you would believe it. He called the combined conditions “tracking”. Unlike sensitivity (or, as Nozick called it, variation), the adherence condition is rarely endorsed. An exception is Roush (2005)[^roush-2005], who offers probabilistic versions of both sensitivity and adherence. Roush also endorses a version of closure: you know propositions that you infer from propositions that you know (Roush 2005)[^roush-2005] or, later, that you track (Roush 2012)[^roush-2012] even if you don’t track the inferred proposition. It’s an open question, however, whether the later version really counts as closure-preserving, since it allows that you could know $P$, and infer $Q$ from $P$, but not know $Q$ because, although you know $P$, you don’t track it.
 
-[^brueckner-2012]: –––, 2012, “Roush on Knowledge: Tracking Redux?,” in K. Becker and T. Black (eds.), *The Sensitivity Principle in Epistemology*, Cambridge: Cambridge University Press.
+[^note-11]: In general, “were $P$ true then $Q$ would be true” is standardly understood to require that $Q$ is true in the $P$-worlds nearest to the actual world (although there can be $P$-worlds further out in which $Q$ is false.) This widely endorsed interpretation of subjunctive conditionals is due to Stalnaker 1968 and Lewis 1973. Nozick’s interpretation was a bit more elaborate; see Nozick 1981, 681, fn. 8. Nozick was also somewhat noncommittal about the correct possible-worlds interpretation of sensitivity and adherence; his primary commitment was to the subjunctive conditionals themselves (Nozick 1981, 173–174)[^nozick-1981]. Williamson 2023 argues that a viable interpretation of both the sensitivity and safety conditionals (see §2.6) actually preserves closure.
 
-[^cohen-1987]: Cohen, S., 1987, “Knowledge, Context, and Social Standards,” *Synthese*, 73: 3–26.
+[^note-12]: See section §4 of the entry on skepticism for an overview of this argument.
 
-[^cohen-1988]: –––, 1988, “How to be a Fallibilist,” *Philosophical Perspectives 2: Epistemology*, Atascadero, CA: Ridgeview, 91–123.
+[^note-13]: Roush 2010 argues that it’s not as easy to extend the skeptical hypothesis to other ordinary claims as it might seem.
 
-[^cohen-1999]: –––, 1999, “Contextualism, Skepticism, and the Structure of Reasons,” *Philosophical Perspectives 13: Epistemology*, Atascadero, CA: Ridgeview, 57–89.
+[^note-14]: However, as we saw in §1.1, that is not a viable version of closure. And SPC’s antecedent requires, in addition to knowing $H$, that you believe $\neg BIV$ because it’s implied by $H$. But it’s very implausible that ordinary people believe $\neg BIV$ *because* it’s implied by $H$ (or by any other piece of ordinary knowledge). As a result, Warfield and David 2008 suggest that the closure principle can’t be utilized for the skeptic’s purposes. But the skeptic can respond that you *couldn’t* know $\neg BIV$ by any means whatsoever, including by inference from $H$, even if you knew $H$. But SPC ensures that, whether or not you *did* infer $\neg BIV$ from known $H$, if you *were* to do so, you *would* know $\neg BIV$. So you must not know $H$. This does, however, highlight the skeptic’s obligations: they need to claim that, even if you knew $H$, you couldn’t learn $\neg BIV$ by inference from it—that is, transmission would fail (see §3 below)—and, moreover, that there is no other way to learn $\neg BIV$ available to you. See Alspector-Kelly 2019, ch. 3.
 
-[^cohen-2002]: –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge,” *Philosophy and Phenomenological Research*, 65.2: 309–329.
+[^note-15]: Your reason, in Dretske’s sense, is whatever it is to which you respond by forming your belief. It’s not required that you conceive of it as a reason, or even that you are aware that it produces your belief (Dretske 1970, 13–15)[^dretske-1970].
 
-[^davies-1998]: Davies, M., 1998, “Externalism, Architecturalism, and Epistemic Warrant,” in Crispin Wright, Barry Smith, and Cynthia Macdonald (eds.), *Knowing Our Own Minds,* Oxford: Oxford University Press, pp. 321–361.
+[^note-16]: Dretske’s “official” view, in Dretske 1983, is expressed, not subjunctively, but probabilistically: $S$ knows that $P$ iff $S$’s belief that $P$ is caused (or causally sustained) by a state which manifests the information that $P$, where a state manifests that information when the probability of $P$ given that state is 1. Nevertheless, Dretske has demonstrated no clear resistance to the subjunctive formulation of his view. (The relationship between the two formulations, however, deserves exploration.)
 
-[^derose-1995]: DeRose, K., 1995, “Solving the Skeptical Problem,” *Philosophical Review*, 104: 1–52.
+[^note-17]: An unexplored question is whether they deliver different answers in other cases.
 
-[^dretske-1969]: Dretske, F., 1969, *Seeing and Knowing*, Chicago: University of Chicago Press.
+[^note-18]: Despite the fact that discussion of skepticism has been dominated by wholesale hypotheses, there are reasons to think that piecemeal hypotheses constitute the greater threat; see Smith 2016b.
 
-[^dretske-1970]: –––, 1970, “Epistemic Operators,” *Journal of Philosophy*, 67: 1007–1023.
+[^note-19]: See also Lawlor 2013 and 2023’s contextualized relevant alternatives account, as well as Horn 2018. But see Thomasson 2014, according to whose “easy ontology” we can resolve seemingly heavyweight ontological issues by inference from ordinary propositions.
 
-[^dretske-1971]: –––, 1971, “Conclusive Reasons,” *Australasian Journal of Philosophy*, 49: 1–22.
+[^note-20]: If, however, you believe that it’s a barn, not by inference from “it’s a red barn”, but because it looks like a barn, then your belief is not basis-sensitive: it would look like a barn if it weren’t because it would be a non-red fake barn. But “it’s a red barn” would still be basis-sensitive. Whether or not this combination is unintuitive, however, it’s not a violation of SPC, whose antecedent requires that you believe “it’s a barn” by inference from “it’s a red barn”.
 
-[^dretske-1972]: –––, 1972, “Contrastive Statements,” *Philosophical Review*, 81: 411–430.
+[^note-21]: A possible response is that you only know that it’s a red barn by its appearance if you know, by its appearance, that it’s red and, by its appearance, that it’s a barn. But the latter is false (see note 20). In general, perhaps knowledge of a conjunction (it’s red and a barn) requires knowledge of, and so sensitivity to, each of its conjuncts. See Becker 2012. See also Baumann 2012 and Murphy and Black 2012. The intuition that one doesn’t know in fake-barn style cases is also not as widely affirmed as it is with respect to more traditional Gettier cases.
 
-[^dretske-2003]: –––, 2003, “Skepticism: What Perception Teaches,” in Luper 2003b, pp. 105–118.
+[^note-22]: The objection—or, at least, the appellation “abominable”—originates in DeRose 1995. See also Veber 2013 for a variety of ways of pressing the objection.
 
-[^dretske-2005]: –––, 2005, “Is Knowledge Closed Under Known Entailment?” in Steup 2005.
+[^note-23]: “$P$ but I don’t know $P$” is a pragmatic contradiction akin to the Moorean paradox “$P$ but I don’t believe $P$”. Although both are infelicitous to assert, their conjuncts are consistent: $P$ could, in fact, be true despite my not believing, or knowing, that it is.
 
-[^feldman-1995]: Feldman, R., 1995, “In Defense of Closure,” *Philosophical Quarterly*, 45: 487–494.
+[^note-24]: $H$ implies $\neg BIV$, as does $\neg BIV$. Since both disjuncts of $H \vee \neg BIV$ imply $\neg BIV$, so does the disjunction. And $\neg BIV$ implies the disjunction because it implies the $\neg BIV$ disjunct. So $H \vee \neg BIV$ and $\neg BIV$ imply each other. So they’re equivalent.
 
-[^firth-1978]: Firth, R., 1978, “Are Epistemic Concepts Reducible to Ethical Concepts?” in Alvin Goldman and Jaegwon Kim (eds.), *Values and Morals*, Dordrecht: D. Reidel Publishing Co.
+[^note-25]: $H$ implies both itself and $\neg BIV$, and so implies both conjuncts of $H \amp \neg BIV$. And the conjunction—in particular, the left conjunct—implies $H$. So $H$ and $H \amp \neg BIV$ imply each other. So they’re equivalent.
 
-[^fumerton-1995]: Fumerton, R., 1995, *Metaepistemology*, *and Skepticism*, Lanham, MD: Rowman and Littlefield.
+[^note-26]: This is because logically equivalent propositions are true (or false) in the same possible worlds.
 
-[^goldman-1976]: Goldman, A., 1976, “Discrimination and Perceptual Knowledge,” *Journal of Philosophy*, 73: 771–791.
+[^note-27]: See also Sharon and Spectre 2017a, who argue that evidential versions of AC and SC fail despite being equally intuitive. Yablo 2017 instead denies EC, as do Sherman and Harman 2011. See also Lawlor 2005.
 
-[^goldman-1979]: –––, 1979, “What is Justified Belief?,” in *Justification and Knowledge*, G.S. Pappas (ed.), Dordrecht: D. Reidel.
+[^note-28]: See, for example, Vogel 2000’s “Omar’s new shoes” case. Sensitivity also has notorious problems with knowledge of necessary truths, inductive knowledge, and knowledge of the future. The essays in Luper-Foy 1987 include a variety of criticisms of Nozick, many of which would also apply to Dretske.
 
-[^goodman-1955]: Goodman, N., 1955, *Fact, Fiction, and Forecast*. (4th ed.), Harvard University Press, 1983.
+[^note-29]: This is the simplest version of safety. A basis-relative version will be introduced in §2.9 below. Another version only requires that $P$ is true in *most* of the nearby worlds in which you believe $P$, although it must also be true in all *very* nearby such worlds (Pritchard 2009a, 2009b)[^pritchard-2009a][^pritchard-2009b].
 
-[^hales-1995]: Hales, S., 1995, Epistemic Closure Principles, *Southern Journal of Philosophy*, 33: 185–201.
+[^note-30]: On the Lewis/Stalnaker possible-worlds interpretation of subjunctive conditionals, “were you to believe $P$, $P$ would be true” is trivially satisfied by a true belief, since the actual world is the nearest in which you believe $P$, and in that world $P$ is true. The typical possible-worlds interpretation of the safety conditional constitutes a departure from that account.
 
-[^harman-2004]: Harman, G. and Sherman, B., 2004, “Knowledge, Assumptions, Lotteries,” *Philosophical Issues*, 14: 492–500.
+[^note-31]: Views that endorse knowledge of the denials of skeptical hypotheses are sometimes called “neo-Moorean”.
 
-[^hawthorne-2004]: Hawthorne, J., 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press.
+[^note-32]: This is especially so for the denial of piecemeal skeptical hypotheses like $DM$ since, unlike wholesale hypotheses, it’s easy to imagine empirical evidence that would count against it.
 
-[^hawthorne-2005]: –––, 2005, “The Case for Closure,” in Steup 2005.
+[^note-33]: Perhaps, for example, evidence is also required. But then a putative advantage of the safety account—that it can explain how you know $\neg BIV$ despite not having evidence for it—no longer applies. And the safety theorist would have to come up with evidence for the denials of both wholesale and piecemeal skeptical hypotheses. Note also that your evidence for your having hands—its looking to you as though you have them—plays a crucial role in ensuring that your belief that you have hands is safe. But evidence can’t play that role for vacuously safe beliefs. So it’s unclear why a safety theorist would impose a blanket evidence requirement on knowledge.
 
-[^jaeger-2004]: Jaeger, C. 2004, “Skepticism, Information, and Closure: Dretske’s Theory of Knowledge,” *Erkenntnis*, 61: 187–201.
+[^note-34]: The sensitivity theorist can offer a similar explanation: in the nearest world in which you win, you still believe that you lose (and on the same basis, namely, the probability of losing).
 
-[^klein-1981]: Klein, P., 1981, *Certainty: A Refutation of Skepticism*, Minneapolis, MN: University of Minnesota Press.
+[^note-35]: A variation of basis-safety is also designed to deal with necessarily true propositions. Such propositions are true in all possible worlds, and so in all nearby worlds wherein you believe them, no matter why you do so; necessarily true propositions are vacuously basis-safe. So your belief in necessarily true proposition $T$ is basis-safe even if you believe it because your horoscope says so. But there’s presumably a nearby world in which your horoscope says instead that necessary falsehood $F$, relevantly similar to $T$, is true. So revise basis-safety to require that there be no nearby world in which you believe a relevantly similar proposition to $T$ (including $T$ itself) on the same basis as you do in the actual world and in which that proposition is false. Your belief in $T$, on the revision, is unsafe (Pritchard 2009b)[^pritchard-2009b].
 
-[^klein-1995]: –––, 1995, “Skepticism and Closure: Why the Evil Genius Argument Fails,” *Philosophical Topics*, 23: 213–236.
+[^note-36]: See Wright 1985, 2000, 2002, 2003, 2004, 2008, 2011, 2012, 2014 and 2023, and Davies 1998, 2000 and 2003. There is now a burgeoning literature on warrant transmission, including Alspector-Kelly 2015, Brown 2004, Chandler 2010, Ebert 2005, McKinsey 2003, McLaughlin 2000 and 2003, Moretti 2012, Okasha 2004, Pryor 2004 and 2012, Silins 2005, Smith 2009, Zalabardo 2014, and many others. See also the entry on transmission of justification and warrant.
 
-[^klein-2004]: –––, 2004, “Closure Matters: Academic Skepticism and Easy Knowledge,” *Philosophical Issues*, 14(1): 165–184.
+[^note-37]: Knowledge overdetermination presupposes belief overdetermination (see §1.1): since knowing $P$ requires that you believe $P$ on a suitable basis, knowing $P$ in multiple ways requires that you believe $P$ on multiple bases.
 
-[^kripke-2011]: Kripke, S., 2011, “Nozick on Knowledge,” in *Philosophical Troubles* (Collected Papers, Volume 1), New York: Oxford University Press.
+[^note-38]: This is in line with the use of “warrant” in Plantinga 1993a and 1993b as the difference between mere true belief and knowledge. See, however, note 48 below on another use of “warrant”.
 
-[^kyburg-1961]: Kyburg, H., 1961, *Probability and the Logic of Rational Belief*, Dordrecht: Kluwer.
+[^note-39]: If $DM$ implies $LZ$, then $DM$ is logically equivalent to $(DM \amp LZ). DM$ and $(DM \amp LZ)$ are, therefore, equiprobable. $p(DM\mid LZ) = p(DM \amp LZ)/p(LZ)$, so $p(DM\mid LZ)$ also equals $p(DM)/p(LZ)$. Assuming that $0 \lt p(LZ) \lt 1$, $p(DM)/p(LZ) \gt p(DM)$. So $p(DM\mid LZ) \gt p(DM)$. Since $p(DM) = 1 - p(\neg DM)$, $p(DM\mid LZ) = 1 - p(\neg DM\mid LZ)$. So $p(\neg DM\mid LZ) \lt p(\neg DM)$.
 
-[^lewis-1973]: Lewis, D., 1973, *Counterfactuals*, Cambridge: Cambridge University Press.
+[^note-40]: Sharon and Spectre 2017a wield this point in a general argument against closure. Although $LZ$ is evidence for $Z$, it isn’t evidence for $\neg DM$. So evidence closure is false: that $P$ implies $Q$ doesn’t ensure that evidence for $P$ is evidence for $Q$. Sharon and Spectre utilize this in a number of arguments for the openness of knowledge itself. Yablo 2017 and Comesaña 2017 critique those arguments; Sharon and Spectre 2017b respond to those critiques.
 
-[^lewis-1979]: –––, 1979, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8: 339–359.
+[^note-41]: $BE$ need not be required in order for $LZ$ to deliver a warrant for Z; this needn’t be a frontloading view (see §3.2 below). It could be that $LZ$ by itself warrants $Z$ while $BE$ warrants $\neg DM$.
 
-[^lewis-1996]: –––, 1996, “Elusive Knowledge,” *Australasian Journal of Philosophy*, 74: 549–567.
+[^note-42]: It’s less clear how background evidence could confer the requisite high prior probability on the denial of wholesale skeptical hypotheses such as $BIV$, however, since those hypotheses incorporate all putative background evidence by design. $BIV$ (suitably elaborated), for example, implies that you have all of the experiences, $BE$, that you actually have, so that you will appear to have the same background evidence that you take yourself to have on the basis of that experience. So $p(\neg BIV\mid BE) \lt p(\neg BIV)$. It seems that $\neg BIV$ would have to be sufficiently probable on a priori grounds. But see note 54 and §3.3.1 below.
 
-[^luper-1984]: Luper, S., 1984, “The Epistemic Predicament: Knowledge, Nozickian Tracking, and Skepticism,” *Australasian Journal of Philosophy*, 62: 26–50.
+[^note-43]: The term “transmission” is, unfortunately, misleading in that it suggests that the warrant for the premise is somehow transferred to the conclusion, so that the former also warrants the latter. This is, in fact, antithetical to the concept of transmission according to which the warrant for the conclusion is acquired by inferring it from the premise, since that inference is otiose if the premise’s warrant already warrants the conclusion.
 
-[^luper-1987a]: ––– (ed.), 1987a, *The*, *Possibility of Knowledge: Nozick and His Critics*, Totowa, NJ: Rowman and Littlefield.
+[^note-44]: In response, one might offer an entirely different closure principle: if you know $P$ on the basis of evidence $E$ and, perhaps, background evidence $BE, P$ implies $Q$, and you also believe $Q$ on the basis of $E \amp BE$, then you know $Q$. (In Dretske cases $Q$ would be known solely on the basis of $BE$ and despite $E$.) Notably, this principle doesn’t require that you are aware that $P$ implies $Q$ or that you believe $Q$ because it is so implied, and so doesn’t express any intuition to the effect that inference expands knowledge. Whether such a closure principle is viable, intuitively or theoretically, is an unexplored question.
 
-[^luper-1987b]: –––, 1987b, “The Possibility of Skepticism,” in Luper 1987a.
+[^note-45]: Frontloading is also called “conservatism” in the literature (opposing the “dogmatism” discussed in §3.4 below). The term “conservatism” is, however, sometimes directly associated with the views of Crispin Wright, which are somewhat more specific.
 
-[^luper-1987c]: –––, 1987c, “The Causal Indicator Analysis of Knowledge,” *Philosophy and Phenomenological Research*, 47: 563–587.
+[^note-46]: This is the reasoning of Wright’s “disjunctive template” (Wright 2000)[^wright-2000]. It’s also encouraged by underdetermination worries: $Z$ and $\neg DM$ appear to constitute competing hypotheses that both accommodate the evidence $LZ$, so that further grounds are required in order to favor the former hypothesis over the latter. (However, responding to underdetermination, *prima facie*, only requires favoring one hypothesis over the other; it doesn’t clearly also require knowing that the less favored hypothesis is false.)
 
-[^luper-2003a]: –––, 2003a, “Indiscernability Skepticism,” in S. Luper 2003b, pp. 183–202.
+[^note-47]: This is, at least roughly, the reasoning of Wright’s “revised template” (Wright 2011, 2012; but see note 48)[^wright-2011][^wright-2012]. On this reasoning, you also need a warrant for “it’s not a zebra disguised to look like a zebra”, since that’s another way in which the condition—that it’s not disguised—can be violated. (A likely story: the “mule” that the zoo-keepers painted to look like a zebra is, in fact, a zebra with a skin condition that removed its stripes so that, before being painted, it looked just like a mule. It was sold to the unsuspecting zoo by unscrupulous animal traffickers as a mule because nobody would want to buy a diseased zebra. As a result, the animal in the paddock is a zebra cleverly disguised to look just like a zebra.) In general, this account requires antecedent knowledge, not just of skeptical hypotheses, but also of what might be called their “Gettier variants”: although you’re only dreaming that you have hands, you do in fact have hands; although the report that the Broncos won yesterday is an accidentally posted report of last month’s game, they won that game too; and so on. These hypotheses are not inconsistent with the initial proposition $P$ (you have hands, the Broncos won), and so their denial doesn’t follow from $P$; but they are inconsistent with your knowing $P$ in the way that you purport to know it.
 
-[^luper-2003b]: –––, (ed.) 2003b, *The Skeptics*, Hampshire: Ashgate Publishing, Limited.
+[^note-48]: Despite the fact that Wright is the best-known advocate of the frontloading strategy for closure preservation, the application of his view to the knowledge closure debate is problematic in at least three ways. First, although he is concerned with the transmission of “warrant”, his use of that term clearly isn’t equivalent to “ways of knowing” as we have used it here, but represents something more akin to (or even weaker than) justification: “to possess a warrant for $P$ is to be in a state wherein it is, all things considered, epistemically appropriate to believe [or trust] $P$.” (Wright 2008, 6)[^wright-2008]. Second, in Wright 2011 and 2012 he refers, not to failures of transmission of warrant, but of *claims* to warrant. He recognizes that this could accommodate a certain rapprochement with his dogmatist opponent: transmission succeeds for warrant but not for claims to warrant (Wright 2012)[^wright-2012]. Third, in his most recent work Wright is explicit: both dynamic and static knowledge closure principles fail (Wright 2023, 186)[^wright-2023]. In order to maintain the relevance of the Wrightean approach to the knowledge closure debate, the discussion in the text prescinds from these concerns.
 
-[^luper-2004]: –––, 2004, “Epistemic Relativism,” *Philosophical Issues*, 14, a supplement to *Noûs*, 2004, 271–295.
+[^note-49]: Coliva (2014 and 2015) also offers an account of transmission failure that doesn’t preserve closure: although one does need to reasonably *assume* $Q$ in the relevant cases, one need not *know* (or have a warrant for) $Q$. For similar views see Di Bello 2014 and Sherman and Harman 2011.
 
-[^luper-2006]: –––, 2006, “Dretske on Knowledge Closure,” *Australasian Journal of Philosophy*, 84(3): 379–394.
+[^note-50]: The basing requirement avoids cases wherein you have a warrant for $P$ and believe it, but believe it on the basis of, for example, wishful thinking. You presumably don’t then know $P$. Having a warrant for $P$ vs. knowing $P$ parallels the standard distinction between having a justification for believing $P$—propositional justification—and one’s belief in $P$’s being justified—doxastic justification.
 
-[^luper-2012]: –––, 2012, “False Negatives,” in K. Becker and T. Black (eds.), *The Sensitivity Principle in Epistemology*, Cambridge: Cambridge University Press.
+[^note-51]: This is not, however, a true closure principle, since the antecedent references propositions you know and the second disjunct of the consequent only references propositions for which you have a warrant.
 
-[^moore-1959]: Moore, G. E., 1959, “Proof of an External World,” and “Certainty,” in *Philosophical Papers*, London: George Allen & Unwin, Ltd.
+[^note-52]: We’ve already discussed a possible third source, that $S$’s warrant for $P$ itself suffices to warrant $Q$, in §3.1.
 
-[^murphy-2005]: Murphy, P., 2005, “Closure Failures for Safety,” *Philosophia*, 33: 331–334.
+[^note-53]: The externalist views of evidence are disjunctivism and “$E = K$”; see §3.4 below.
 
-[^nozick-1981]: Nozick, R., 1981, *Philosophical Explanations*, Cambridge: Cambridge University Press.
+[^note-54]: An alternative attempt to wield the characteristics of your background experience against skeptical hypotheses is that of the abductivist, according to which the “real-world” hypothesis provides a better explanation for those characteristics than does, for example, the $BIV$ hypothesis—better enough, it would have to be claimed, to deliver knowledge of $\neg BIV$. See Vogel 1990b, the exchange between Vogel and Fumerton in Steup, Turri, and Sosa 2013, Beebe 2009, McCain 2019, and Carter 2024.
 
-[^papineau-1992]: Papineau, D., 1992, “Reliabilism, Induction, and Scepticism,” *The Philosophical Quarterly*, 42: 1–20.
+[^note-55]: See §2.4 above. This is an objection that DeRose (1995)[^derose-1995], a contextualist, raises against closure denial.
 
-[^pritchard-2007]: Pritchard, D., 2007, “Anti-Luck Epistemology,” *Synthese*, 158: 227–298.
+[^note-56]: The same reasoning applies to pragmatic encroachment views, AKA interest-relative or sensitive moderate invariantism (Hawthorne 2004, Stanley 2008, Fantl and McGrath 2009)[^fantl-2009][^hawthorne-2004][^stanley-2008]. Those views emphasize variation in the standards for knowing with the knower’s practical circumstances. But they also need to countenance such variation in virtue of salience to the knowing subject of the skeptical hypothesis in order to accommodate many Dretske cases, since often nothing of practical significance hangs on those hypotheses’ being true. (There will typically be no practical implications for the typical zoo-goer whether $Z$ or $DM$, for example.) So, contemplation of such hypotheses places the subject in a high-standards situation in which they know neither $P$ nor $Q$; the abominable conjunction is false. That’s compatible with their knowing $P$ but not $Q$ in low-standards contexts—and so in which the abominable conjunction is true—wherein $Q$, and so the conjunction, isn’t contemplated.
 
-[^ramsey-1931]: Ramsey, F. P., 1931, *The Foundations of Mathematics and Other Logical Essays*, London: Routledge and Kegan Paul.
+[^note-57]: As per note 48, Wright means by “warrant” an all-things considered license to accept, not ways of knowing; he doesn’t suggest that such a warrant delivers knowledge. But we’re now considering the view as a way of preserving knowledge closure vis-a-vis wholesale skeptical hypotheses, whether or not that is Wright’s intent. See also Jope 2023.
 
-[^roush-2005]: Roush, S., 2005, *Tracking Truth: Knowledge, Evidence and Science*, Oxford: Oxford University Press.
+[^note-58]: Pritchard (2016, 2018, and 2023) suggests that, precisely because we don’t *believe* cornerstones (or hinges), neither SPWC nor any other closure principle applies to them, since the antecedent of all such principles requires that you end up believing $Q$. Since the antecedent isn’t satisfied, the conditional is trivially true, and closure preserved. Wright responds that this amounts to “creative accounting”: we don’t acquire a warrant for cornerstone $Q$ propositions by inference from ordinary known $P$ propositions just because we, conveniently, don’t count as believing those $Q$ propositions; closure “holds—except when it doesn’t” (Wright 2023, 185)[^wright-2023]. See also Jope 2021 and Zhang 2021.
 
-[^sextus-1933a]: Sextus Empiricus, 1933a, *Outlines of Pyrrhonism*, R.G. Bury (trans), London: W. Heinemann, Loeb Classical Library.
+[^note-59]: Similar positions include phenomenal conservativism (Huemer 2001)[^huemer-2001] and moderate foundationalism (Alston 1976a and 1976b)[^alston-1976a][^alston-1976b].
 
-[^shatz-1987]: Shatz, D., 1987, “Nozick’s Conception of Skepticism,” in *The Possibility of Knowledge*, S. Luper (ed.), Totowa, NJ: Rowman and Littlefield.
+[^note-60]: This isn’t inevitable; it’s possible to be a dogmatist, disjunctivist, or $E = K$ advocate without endorsing transmission and, so, without endorsing closure (see, for example, Lawlor 2023)[^lawlor-2023]. It isn’t entirely clear, in fact, that Williamson—the primary advocate of $E = K$—is a transmissivist (although he certainly advocates closure), because it’s not clear whether he thinks our knowledge of $\neg BIV$ originates in our inferring it from $H$ (or similar ordinary claims). On the one hand, he endorses the intuition that inference always expands knowledge (see note 4 above). On the other, he advocates a version of safety and, as we saw in §2.7, $Q$ propositions in Dretske cases are inevitably vacuously safe, and so safe whether or not they are inferred from anything.
 
-[^sosa-1999]: Sosa, E., 1999, “How to Defeat Opposition to Moore,” *Philosophical Perspectives*, 13: 141–152.
+[^note-61]: The bootstrapping problem was originally presented by Vogel 2000 as a problem for reliabilism, and subsequently by Cohen 2002 and 2005 as a problem for “basic knowledge”, being putative knowledge acquired from source $K$ without prior knowledge that $K$ is reliable. But suppose that you do know beforehand that your vision is reliable. You can then know that card is red because it appears red, and so know the conjunction; and similarly for all the other cards. That again appears to provide substantial inductive evidence that $R$. You did know that to start with (we’re assuming); but that doesn’t prevent your acquiring a *second* warrant for $R$. And it still seems absurd to suggest that you do so.
 
-[^sosa-2003]: –––, 2003, “Neither Contextualism Nor Skepticism,” in *The Skeptics*, S. Luper (ed.), Hampshire: Ashgate Publishing, Limited, pp. 165–182.
+[^note-62]: White 2006 presents these three concerns as problems for dogmatism. But they are really problems for the combination of dogmatism (or disjunctivism or $E = K)$ and transmissivism; indeed, they are, arguably, more directly problems for the latter than the former. See Pryor 2013 and Kung 2010 for responses to White.
 
-[^sosa-2007]: –––, 2007, *A Virtue Epistemology: Apt Belief and Reflective Knowledge Volume I*, Oxford: Oxford University Press.
+[^note-63]: This is sometimes called the dogmatism problem, but it should not be confused with the dogmatist position discussed above.
 
-[^sosa-2009]: –––, 2009, *A Virtue Epistemology: Apt Belief and Reflective Knowledge Volume II*, Oxford: Oxford University Press.
+[^note-64]: Klein 2004 suggests that you only need to rule out skeptical hypotheses when you have some evidence in their favor. Since you can have no evidence for $BIV$, and there is no evidence for $DM$, we need to know neither $\neg BIV$ nor $\neg DM$ in order to learn $H$ or $Z$. Transmission then succeeds from the latter to the former. But frontloading is needed for lottery propositions, since we do have some non-zero statistical evidence for them: a lottery ticket will win, cars are stolen, and so on. (In fact, a number of zoos have been caught painting, not mules, but donkeys to look like zebras—e.g., in [Armenia](https://www.upi.com/Odd_News/2026/05/01/armenia-escaped-zebra-Yerevan-Zoo-painted-donkey/3011777648902/), [China](https://www.thesun.co.uk/news/33390533/china-zoo-donkeys-black-white-zebras/), [Egypt](https://www.bbc.com/news/world-africa-44968509), and [Gaza](https://www.theguardian.com/world/2009/nov/04/gaza-zoology).)
 
-[^stalnaker-1968]: Stalnaker, R., 1968, “A Theory of Conditionals,” *American Philosophical Quarterly* (Monograph No. 2), 98–112.
+[^note-65]: Strictly speaking, the universal generalization is only equivalent to the conjunction given that the items referenced in the conjuncts exhaust the domain of quantification, which we can assume here.
 
-[^steup-2005]: Steup, M. and Sosa, E. (eds.), 2005, *Contemporary Debates in Epistemology*, Malden, MA: Blackwell.
+[^note-66]: This is a variation of the paradox of the preface (Makinson 1965)[^makinson-1965].
 
-[^stine-1971]: Stine, G.C., 1971, “Dretske on Knowing the Logical Consequences,” *Journal of Philosophy*, 68: 296–299.
+[^note-67]: Such defeat might, in fact, be realized because it’s reasonable for you to assume that you’ve made a mistake somewhere even if there’s no actual risk of your having done so.
 
-[^stine-1976]: –––, 1976, “Skepticism, Relevant Alternatives, and Deductive Closure,” *Philosophical Studies*, 29: 249–261.
+[^note-68]: If your belief is actually false, then it is false in the nearest possible world to the actual, namely, the actual world; and it is false in a world nearby to the actual, namely, the actual world. So only true beliefs can be sensitive and safe. Sutton 2007’s and Williamson 2025’s identification of justification with knowledge is an exception to the claim that justification is fallible, knowledge being factive. See also Littlejohn 2012.
 
-[^van-1979]: Van Cleve, J., 1979, “Foundationalism, Epistemic Principles, and the Cartesian Circle,” *Philosophical Review*, 88: 55–91.
+[^note-69]: One might think, however, that normic support for “my car’s not stolen” on your evidence requires, not that your car’s being stolen *itself* would call for explanation, but that its being stolen *despite* *your evidence to the contrary* would do so. In lottery case B, your winning wouldn’t itself call for explanation, as Smith recognizes (Smith 2010, 23)[^smith-2010]. Nevertheless, your winning despite the mismatch between the numbers on your ticket and those on the screen *would* call for explanation, whereas such an explanation isn’t called for when your only evidence is that losing is likely given the odds, as in case A. Similarly, whether or not your car’s being stolen itself calls for explanation, that it was stolen despite the rarity of car thefts doesn’t do so. If, however, it was stolen despite your seeing what looks for all the world like your car on closed-circuit TV, *that* would call for explanation: the thief, say, had replaced your car with a car-façade when you weren’t paying attention. Given *that* evidence, your belief that it isn’t stolen is normatively supported, and so justified. So, given only that car thefts are rare, your belief that it isn’t stolen isn’t normatively supported, and so not justified, after all, although you are justified in believing that it’s in 3b; SPJC fails. See Alspector-Kelly 2019, §§8.5.1–8.5.2, for discussion of the distinction between explaining $\neg P$ itself and explaining $\neg P$ despite one’s evidence (or basis) for $P$.
 
-[^van-2003]: –––, 2003, “Is Knowledge Easy—or Impossible? Externalism as the Only Alternative to Skepticism,” in S. Luper 2003b, pp. 45–60.
+[^note-70]: Many of these are “knowledge-first” accounts of justification, which appeal to knowledge in characterizing justification rather than vice versa. (Knowledge-first epistemology was initiated primarily by Williamson 2000.)[^williamson-2000] They include Bird 2007, Ichikawa 2014, Smithies 2012, Reynolds 2013, Rosenkranz 2018, Kelp 2016, Simion 2019, and Silva 2017. See McGlynn 2014b for critique of some knowledge-first accounts of justification. Smith’s view isn’t a knowledge-first account, since it doesn’t characterize justification in terms of knowledge. But it is related in that Smith sees justification and knowledge as “normatively coincident”: one can’t aim at being justified without simultaneously aiming at knowledge (Smith 2014 and 2016a, ch. 1)[^smith-2014][^smith-2016a].
 
-[^vogel-1990]: Vogel, J., 1990, “Are There Counterexamples to the Closure Principle?” in *Doubting: Contemporary Perspectives on Skepticism*, M. Roth and G. Ross (eds.), Dordrecht: Kluwer Academic Publishers.
+[^adams-2012]: Adams, Fred, John Barker, and Julia Figurelli, 2012, “Towards Closure on Closure”, *Synthese*, 188: 179–196.
 
-[^vogel-2000]: –––, 2000, “Reliabilism Leveled,” *Journal of Philosophy*, 97: 602–623.
+[^adams-2005]: Adams, Fred and Murray Clarke, 2005, “Resurrecting the Tracking Theories”, *Australasian Journal of Philosophy*, 83(2): 207–221.
 
-[^vogel-2004]: –––, 2004, “Speaking of Knowledge,” *Philosophical Issues*, 14: 501–509.
+[^alspector-kelly-2011]: Alspector-Kelly, Marc, 2011, “Why Safety Does Not Save Closure”, *Synthese*, 183(11): 127–142.
 
-[^williamson-2000]: Williamson, T., 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press.
+[^alspector-kelly-2013]: –––, 2013, “Review of *The Sensitivity Principle in Epistemology*, by Kelly Becker and Tim Black”, *Notre Dame Philosophical Reviews*, 14th June 2013. [[Alspector-Kelly 2013 available online](https://ndpr.nd.edu/reviews/the-sensitivity-principle-in-epistemology/)]
 
-[^wittgenstein-1969]: Wittgenstein, L., 1969, *On Certainty*, G.E.M. Anscombe (trans.), New York: Harper and Row, Inc.
+[^alspector-kelly-2015]: –––, 2015, “Wright Back to Dretske, or Why You Might as Well Deny Knowledge Closure”, *Philosophy and Phenomenological Research*, 90(3): 570–611.
 
-[^wright-1985]: Wright, C., 1985, “Facts and Certainty,” *Proceedings of the British Academy*, 71: 429–472.
+[^alspector-kelly-2019]: –––, 2019, *Against Knowledge Closure*, Cambridge: Cambridge University Press.
+
+[^alston-1976a]: Alston, William, 1976a, “Two Types of Foundationalism”, *The Journal of Philosophy*, 73: 165–185.
+
+[^alston-1976b]: –––, 1976b, “Has Foundationalism Been Refuted?”, *Philosophical Studies*, 29: 287–305.
+
+[^audi-1988]: Audi, Robert, 1988, *Belief, Justification and Knowledge*, Belmont: Wadsworth.
+
+[^audi-1995]: –––, 1995, “Deductive Closure, Defeasibility and Scepticism: A Reply to Feldman”, *The Philosophical Quarterly*, 45(181): 494–499.
+
+[^backes-2026]: Backes, Marvin, 2026, “Can Closure Be Saved? The Hardest Paradoxes for Closure Revisited”, *Synthese*, 207(1): Article 5. doi:10.1007/s11229-025-05386-9
+
+[^baumann-2012]: Baumann, Peter, 2012, “Nozick’s Defense of Closure”, in Becker and Black (eds.) 2012: 11–27.
+
+[^becker-2012]: Becker, Kelly, 2012, “Methods and How to Individuate Them”, in Becker and Black (eds.) 2012: 81–98.
+
+[^becker-2012-2]: Becker, Kelly and Tim Black (eds.), 2012, *The Sensitivity Principle in Epistemology*, Cambridge: Cambridge University Press.
+
+[^beebe-2009]: Beebe, James, 2009, “The Abductivist Reply to Skepticism”, *Philosophy and Phenomenological Research*, 79: 605–636.
+
+[^bergmann-2004]: Bergmann, Michael, 2004, “Epistemic Circularity, Malignant and Benign”, *Philosophy and Phenomenological Research*, 69(3): 709–727.
+
+[^bird-2007]: Bird, Alexander, 2007, “Justified Judging”, *Philosophy and Phenomenological Research*, 74(1): 81–110.
+
+[^black-2008]: Black, Tim, 2008, “Defending a Sensitive Neo-Moorean Invariantism”, in Hendricks and Pritchard (eds.) 2007: 8–27.
+
+[^brown-2004]: Brown, Jessica, 2004, “Wright on Transmission Failure”, *Analysis*, 64(1): 57–67.
+
+[^brown-2005]: –––, 2005, “Doubt, Circularity, and the Moorean Response to the Skeptic”, *Philosophical Perspectives*, 19: 1–14.
+
+[^brown-2018]: –––, 2018, *Fallibilism: Evidence and Knowledge*, Oxford: Oxford University Press.
+
+[^carroll-1895]: Carroll, Lewis, 1895, “What the Tortoise Said to Achilles”, *Mind*, 4(14): 278–280.
+
+[^carter-2024]: Carter, J. Adam, 2024, “Abduction, Skepticism, and Indirect Realism”, *Philosophical Studies*, first online 28 August 2024. doi:10.1007/s11098-024-02206-7
+
+[^chandler-2010]: Chandler, Jake, 2010, “The Transmission of Support: A Bayesian Re-Analysis”, *Synthese*, 176: 333–343.
+
+[^cohen-1988]: Cohen, Stewart, 1988, “How to be a Fallibilist”, *Philosophical Perspectives*, 2: 91–123.
+
+[^cohen-2002]: –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329.
+
+[^cohen-2005]: –––, 2005, “Why Basic Knowledge is Easy Knowledge”, *Philosophy and Phenomenological Research*, 70(2): 417–430.
+
+[^coliva-2014]: Coliva, Annalisa, 2014, “Moderatism, Transmission Failures, Closure, and Humean Scepticism”, in Dodd and Zardini (eds.) 2014: 248–270.
+
+[^coliva-2015]: –––, 2015, *Extended Rationality: A Hinge Epistemology*, Basingstoke: Palgrave Macmillan.
+
+[^comesaña-2017]: Comesaña, Juan, 2017, “On Sharon and Spectre’s Argument Against Closure”, *Philosophical Studies*, 174(4): 1039–1046.
+
+[^davies-1998]: Davies, Martin, 1998, “Externalism, Architecturalism, and Epistemic Warrant,” in Crispin Wright, Barry Smith, and Cynthia Macdonald (eds.), *Knowing Our Own Minds*, Oxford: Oxford University Press, pp. 321–361.
+
+[^davies-2000]: –––, 2000, “Externalism and Armchair Knowledge”, in Paul Boghossian and Christopher Peacocke (eds.), *New Essays on the A Priori*, Oxford: Oxford University Press, pp. 384–414.
+
+[^davies-2003]: –––, 2003, “The Problem of Armchair Knowledge,” in Nuccetelli (ed.) 2003: 23–56.
+
+[^derose-1995]: DeRose, Keith, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52.
+
+[^derose-2009]: –––, 2009, *The Case for Contextualism: Knowledge, Skepticism and Context* (Volume 1), Oxford: Oxford University Press.
+
+[^derose-2010]: –––, 2010, “Insensitivity is Back, Baby!”, *Philosophical Perspectives*, 24(1): 161–187.
+
+[^di-2014]: Di Bello, Marco, 2014, “Epistemic Closure, and Topics of Inquiry”, *Synthese*, 191: 3977–4002.
+
+[^dodd-2014]: Dodd, Dylan and Elia Zardini (eds.), 2014, *Scepticism and Perceptual Justification*, Oxford: Oxford University Press.
+
+[^dretske-1970]: Dretske, Fred, 1970, “Epistemic Operators”, *Journal of Philosophy*, 67(24): 1007–1023.
+
+[^dretske-1971]: –––, 1971, “Conclusive Reasons”, *Australasian Journal of Philosophy*, 49: 1–22.
+
+[^dretske-1983]: –––, 1983, *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
+
+[^dretske-2013]: –––, 2013, “The Case Against Closure”, in Steup, Turri, and Sosa (eds.) 2013, pp. 13–26.
+
+[^ebert-2005]: Ebert, Philip, 2005, “Transmission of Warrant-Failure and the Notion of Epistemic Analyticity”, *Australasian Journal of Philosophy*, 83: 505–521.
+
+[^engel-2021]: Engel, Mylan, 2021, “Lotteries, Knowledge, and Inconsistent Belief: Why You Know Your Ticket Will Lose”, *Synthese*, 198: 7891–7921.
+
+[^fantl-2009]: Fantl, Jeremy and Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press.
+
+[^feldman-1995]: Feldman, Richard, 1995, “In Defense of Closure”, *Philosophical Quarterly*, 45: 487–494.
+
+[^fumerton-1995]: Fumerton, Richard, 1995, *Metaepistemology and Skepticism*, Lanham: Rowman & Littlefield.
+
+[^goldman-1976]: Goldman, Alvin, 1976, “Discrimination and Perceptual Knowledge”, *Journal of Philosophy*, 73(20): 771–791.
+
+[^goldstein-2024]: Goldstein, Simon and John Hawthorne, 2024, “Safety, Closure, and Extended Methods”, *Journal of Philosophy*, 121(1): 26–54.
+
+[^goodman-2023]: Goodman, Jeremy and Bernhard Salow, 2023, “Epistemology Normalized”, *Philosophical Review*, 132(1): 89–145.
+
+[^harman-1973]: Harman, Gilbert, 1973, *Thought*, Princeton: Princeton University Press.
+
+[^hawthorne-2004]: Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press.
+
+[^hawthorne-2013]: –––, 2013, “The Case for Closure”, in Steup, Turri, and Sosa (eds.) 2013: 40–55.
+
+[^heller-1999]: Heller, Mark, 1999, “Relevant Alternatives and Closure”, *Australasian Journal of Philosophy*, 77(2): 196–208.
+
+[^hendricks-2007]: Hendricks, Vincent and Duncan Pritchard (eds.), 2007, *New Waves in Epistemology*, Aldershot: Palgrave Macmillan.
+
+[^holliday-2015]: Holliday, Wesley, 2015, “Epistemic Closure and Epistemic Logic I: Relevant Alternatives and Subjunctivism”, *Journal of Philosophical Logic*, 44(1): 1–63.
+
+[^horn-2018]: Horn, Walter, 2018, “Epistemic Closure, Home Truths, and Easy Philosophy”, *Journal of Philosophy*, 115: 34–51.
+
+[^huemer-2001]: Huemer, Michael, 2001, *Skepticism and the Veil of Perception*, Lanham: Rowman & Littlefield.
+
+[^ichikawa-2014]: Ichikawa, Jonathan, 2014, “Justification is Potential Knowledge”, *Canadian Journal of Philosophy*, 44(2): 184–206.
+
+[^jope-2021]: Jope, Matthew, 2021, “Closure, Credence and Rationality: A Problem for Non-Belief Hinge Epistemology”, *Synthese*, 198(S15): 3565–3575. doi:10.1007/s11229-019-02153-5
+
+[^jope-2023]: –––, 2023, “Intuitive Closure, Transmission Failure, and Doxastic Justification”, in Jope and Pritchard (eds.) 2023: 6–23.
+
+[^jope-2023-2]: Jope, Matthew and Duncan Pritchard (eds.), 2023, *New Perspectives on Epistemic Closure*, New York: Routledge.
+
+[^kelp-2016]: Kelp, Christoph, 2016, “Justified Belief: Knowledge First-Style”, *Philosophy and Phenomenological Research*, 93: 79–100.
+
+[^kelp-2023]: –––, 2023, “Dogma, Defeat, and Transmission”, in Jope and Pritchard (eds.) 2023: 97–112.
+
+[^klein-1995]: Klein, Peter, 1995, “Skepticism and Closure: Why the Evil Genius Argument Fails”, *Philosophical Topics*, 23(1): 213–236.
+
+[^klein-2004]: –––, 2004, “Closure Matters: Academic Skepticism and Easy Knowledge”, *Philosophical Issues*, 14: 165–184.
+
+[^kripke-2011]: Kripke, Saul, 2011, “Nozick on Knowledge”, in Saul Kripke, *Philosophical Troubles, Collected Papers* (Volume 1), Oxford: Oxford University Press, pp. 161–224. doi:10.1093/acprof:oso/9780199730155.001.0001
+
+[^kung-2010]: Kung, Peter, 2010, “On Having No Reason: Dogmatism and Bayesian Confirmation”, *Synthese*, 177: 1–17.
+
+[^kyburg-1961]: Kyburg, Henry, 1961, *Probability and the Logic of Rational Belief*, Dordrecht: Kluwer.
+
+[^lasonen-2008]: Lasonen, Maria, 2008, “Single-Premise Deduction and Risk”, *Philosophical Studies*, 141(2): 157–173.
+
+[^lawlor-2005]: Lawlor, Krista, 2005, “Living Without Closure”, *Grazer Philosophische Studien*, 69: 25–50.
+
+[^lawlor-2013]: –––, 2013, *Assurance: An Austinian View of Knowledge and Knowledge Claims*, Oxford: Oxford University Press.
+
+[^lawlor-2023]: –––, 2023, “Modest Foundations for Perceptual Knowledge”, in Jope and Pritchard (eds.) 2023: 24–42.
+
+[^leite-2015]: Leite, Adam, 2015, “Why Don’t I Know I’m Not a Brain in a Vat?” *Philosophy and Phenomenological Research*, 90(1): 205–13.
+
+[^lewis-1973]: Lewis, David, 1973, *Counterfactuals*, Cambridge: Harvard University Press.
+
+[^lewis-1996]: –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567.
+
+[^littlejohn-2012]: Littlejohn, Clayton, 2012, *Justification and the Truth Connection*, Cambridge: Cambridge University Press.
+
+[^littlejohn-2020]: Littlejohn, Clayton and Julien Dutant, 2020, “Justification, Knowledge, and Normality”, *Philosophical Studies*, 177(6): 1593–609.
+
+[^luper-1984]: Luper, Steven, 1984, “The Epistemic Predicament: Knowledge, Nozickian Tracking, and Scepticism”, *Australasian Journal of Philosophy*, 62(1): 26–49.
+
+[^luper-2006]: –––, 2006, “Dretske on Knowledge Closure”, *Australian Journal of Philosophy*, 84(3): 379–394. doi:10.1080/00048400600895862
+
+[^luper-foy-1987]: Luper-Foy, Stephen (ed.), 1987, *The Possibility of Knowledge: Nozick and his Critics*, Totowa: Rowman & Littlefield.
+
+[^makinson-1965]: Makinson, D. C., 1965, “The Paradox of the Preface”, *Analysis*, 25(6): 205–207.
+
+[^markie-2005]: Markie, Peter, 2005, “Easy Knowledge”, *Philosophy and Phenomenological Research*, 70(2): 406–416.
+
+[^mccain-2019]: McCain, Kevin, 2019, “In Defense of the Explanationist Response to Skepticism”, *International Journal for the Study of Skepticism*, 9(1): 38–50.
+
+[^mcdowell-1986]: McDowell, John, 1986, “Singular Thought and the Extent of Inner Space”, in Philip Pettit and John McDowell (eds.), *Subject, Thought, and Context*, Oxford: Clarendon Press, pp. 137–168.
+
+[^mcdowell-1995]: –––, 1995, “Knowledge and the Internal”, *Philosophy and Phenomenological Research*, 55(4): 877–893.
+
+[^mcglynn-2014a]: McGlynn, Aidan, 2014a, “On Epistemic Alchemy”, in Dodd and Zardini (eds.) 2014: 173–188.
+
+[^mcglynn-2014b]: –––, 2014b, *Knowledge First?* London: Palgrave Macmillan.
+
+[^mckinsey-2003]: McKinsey, Michael, 2003, “Transmission of Warrant and Closure of Apriority”, in Nuccetelli (ed.) 2003: 97–115.
+
+[^mclaughlin-2000]: McLaughlin, Brian, 2000, “Skepticism, Externalism, and Self-Knowledge”, *The Proceedings of the Aristotelian Society* (Supplementary Volume), 74: 93–118.
+
+[^mclaughlin-2003]: –––, 2003, “McKinsey’s Challenge, Warrant Transmission, and Skepticism”, in Nuccetelli (ed.) 2003: 79–96.
+
+[^montessori-2025]: Montessori, Auke, 2025, “Single Premise Deduction and Defeat”, *Erkenntnis*, first online 11 October 2025. doi:10.1007/s10670-025-01024-5
+
+[^moore-1939]: Moore, G. E., 1939 [1959], “Proof of an External World”, *Proceedings of the British Academy*, 25: 273–300; reprinted in G. E. Moore, *Philosophical Papers*, New York, NY: Collier, pp. 144–148.
+
+[^moretti-2012]: Moretti, Luca, 2012, “Wright, Okasha and Chandler on Transmission Failure”, *Synthese*, 184: 217–234.
+
+[^moretti-2023]: Moretti, Luca and Tommaso Piazza, “Transmission of Justification and Warrant”, *The Stanford Encyclopedia of Philosophy* (Summer 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/sum2023/entries/transmission-justification-warrant/](https://plato.stanford.edu/archives/sum2023/entries/transmission-justification-warrant/)>.
+
+[^moretti-2023-2]: Moretti, Luca and Crispin Wright, 2023, “Epistemic Entitlement, Epistemic Risk, and Leaching”, *Philosophy and Phenomenological Research*, 106(3): 566–580. doi:10.1111/phpr.12874
+
+[^murphy-2005]: Murphy, Peter, 2005, “Closure Failures for Safety”, *Philosophia*, 33: 331–334.
+
+[^murphy-2012]: Murphy, Peter and Tim Black, 2012, “Sensitivity Meets Explanation: An Improved Counterfactual Condition on Knowledge”, in Becker and Black (eds.) 2012: 28–42.
+
+[^nelkin-2000]: Nelkin, Dana, 2000, “The Lottery Paradox, Knowledge, and Rationality”, *The Philosophical Review*, 109(3): 373–409.
+
+[^nozick-1981]: Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge: Harvard University Press.
+
+[^nuccetelli-2003]: Nuccetelli, Susana (ed.), 2003, *New Essays on Semantic Externalism and Self-Knowledge*, Cambridge: MIT Press.
+
+[^okasha-2004]: Okasha, Samir, 2004, “Wright on the Transmission of Support: A Bayesian Analysis”, *Analysis*, 64: 139–146.
+
+[^plantinga-1993a]: Plantinga, Alvin, 1993a, *Warrant: The Current Debate*, Oxford: Oxford University Press.
+
+[^plantinga-1993b]: –––, 1993b, *Warrant and Proper Function*, Oxford: Oxford University Press.
+
+[^pritchard-2007a]: Pritchard, Duncan, 2007a, “Knowledge, Luck and Lotteries”, in Hendricks and Pritchard (eds.) 2007: 28–51.
+
+[^pritchard-2007b]: –––, 2007b, “Anti-Luck Epistemology”, *Synthese*, 158(3): 277–297.
+
+[^pritchard-2009a]: –––, 2009a, “Sensitivity, Safety, and Anti-Luck Epistemology”, in John Greco (ed.), *The Oxford Handbook of Scepticism*, Oxford: Oxford University Press, pp. 437–455.
+
+[^pritchard-2009b]: –––, 2009b, “Safety-Based Epistemology: Whither Now?”, *Journal of Philosophical Research*, 34: 33–45.
+
+[^pritchard-2012]: –––, 2012, *Epistemological Disjunctivism*, Oxford: Oxford University Press.
+
+[^pritchard-2016]: –––, 2016, *Epistemic Angst*, Princeton: Princeton University Press.
+
+[^pritchard-2018]: –––, 2018, “Epistemic Angst”, *Philosophical and Phenomenological Research*, 96(1): 70–90. doi:10.1111/phpr.12280
+
+[^pritchard-2023]: –––, 2023, “In Defence of Closure”, in Jope and Pritchard (eds.) 2023: 113–130.
+
+[^pryor-2000]: Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549.
+
+[^pryor-2004]: –––, 2004, “What’s Wrong with Moore’s Argument?”, *Philosophical Issues*, 14: 349–378.
+
+[^pryor-2012]: –––, 2012, “When Warrant Transmits”, in Annalisa Coliva (ed.), *Mind, Meaning, and Knowledge: Themes from the Philosophy of Crispin Wright*, Oxford: Oxford University Press, pp. 269–303.
+
+[^pryor-2013]: –––, 2013, “Problems for Credulism”, in Chris Tucker (ed.), *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*, New York: Oxford University Press, pp. 89–131.
+
+[^reynolds-2013]: Reynolds, Stephen, 2013, “Justification as the Appearance of Knowledge”, *Philosophical Studies*, 163: 367–383.
+
+[^rosenkranz-2018]: Rosenkranz, Sven, 2018, “The Structure of Justification”, *Mind*, 127: 309–338.
+
+[^roush-2005]: Roush, Sherrilyn, 2005, *Tracking Truth: Knowledge, Evidence and Science*, Oxford: Oxford University Press.
+
+[^roush-2010]: –––, 2010, “Closure on Skepticism”, *Journal of Philosophy*, 107(5): 243–256.
+
+[^roush-2012]: –––, 2012, “Sensitivity and Closure”, in Becker and Black (eds.) 2012: 242–268.
+
+[^schaffer-2004]: Schaffer, Jonathan, 2004, “From Contextualism to Contrastivism”, *Philosophical Studies*, 119: 73–103.
+
+[^schaffer-2007]: –––, 2007, “Closure, Contrast, and Answer”, *Philosophical Studies*, 133: 233–255.
+
+[^schechter-2013]: Schechter, Joshua, 2013, “Rational Self-Doubt and the Failure of Closure”, *Philosophical Studies*, 163: 429–452.
+
+[^sharon-2017a]: Sharon, Aasaf and Levi Spectre, 2017a, “Evidence and the Openness of Knowledge”, *Philosophical Studies*, 174: 1001–1037.
+
+[^sharon-2017b]: –––, 2017b, “Replies to Comesaña and Yablo”, *Philosophical Studies*, 174: 1073-1090.
+
+[^sherman-2011]: Sherman, Brett and Gilbert Harman, 2011, “Knowledge and Assumptions”, *Philosophical Studies*, 156: 131–140.
+
+[^silins-2005]: Silins, Nicholas, 2005, “Transmission Failure Failure”, *Philosophical Studies*, 126: 71–102.
+
+[^silva-2017]: Silva, Paul, 2017, “Knowing How to Put Knowledge First in the Theory of Justification”, *Episteme*, 14(4): 393–412.
+
+[^simion-2019]: Simion, Mona, 2019, “Knowledge‐First Functionalism”, *Philosophical Issues*, 29(1): 254–267.
+
+[^simion-2023]: –––, 2023, “Closure, Warrant Transmission, and Defeat”, in Jope and Pritchard (eds.) 2023: 43–57.
+
+[^simpson-2021]: Simpson, James, 2021, “Getting a Little Closure for Closure”, *Synthese*, 199: 12331–12361.
+
+[^smith-2009]: Smith, Martin, 2009, “Transmission Failure Explained”, *Philosophy and Phenomenological Research*, 79: 164–189.
+
+[^smith-2010]: –––, 2010, “What Else Justification Could Be”, *Noûs*, 44: 10–31.
+
+[^smith-2014]: –––, 2014, “Knowledge, Justification, and Normative Coincidence”, *Philosophy and Phenomenological Research*, 89: 276–295.
+
+[^smith-2016a]: –––, 2016a, *Between Probability and Certainty: What Justifies Belief*, Oxford: Oxford University Press.
+
+[^smith-2016b]: –––, 2016b, “Scepticism by a Thousand Cuts”, *International Journal for the Study of Skepticism*, 6(1): 44–52.
+
+[^smith-2021]: –––, 2021, “Four Arguments for Denying that Lottery Beliefs Are Justified”, in Igor Douven (ed.), *Lotteries, Knowledge, and Rational Belief: Essays on the Lottery Paradox*, Cambridge: Cambridge University Press, pp. 95–109.
+
+[^smith-2022]: –––, 2022, “The Hardest Paradox for Closure”, *Erkenntnis*, 87: 2003–2028.
+
+[^smith-2025]: –––, 2025, “Justification, Normalcy, and Randomness”, *Philosophy and Phenomenological Research*, 110: 442–459.
+
+[^smithies-2012]: Smithies, Declan, 2012, “The Normative Role of Knowledge”, *Noûs*, 46(2): 265–288.
+
+[^sosa-1999]: Sosa, Ernest, 1999, “How to Defeat Opposition to Moore,” *Philosophical Perspectives*, 13: 141–152.
+
+[^sorensen-1988]: Sorensen, Roy, 1988, “Dogmatism, Junk Knowledge and Conditionals,” *The Philosophical Quarterly*, 38: 433–454.
+
+[^stalnaker-1968]: Stalnaker, Robert, 1968, “A Theory of Conditionals”, *American Philosophical Quarterly*, 2: 98–112.
+
+[^stanley-2008]: Stanley, Jason, 2008, *Knowledge and Practical Interests*, Oxford: Clarendon Press.
+
+[^steup-2013]: Steup, Matthew, John Turri, and Ernest Sosa (eds.), 2013, *Contemporary Debates in Epistemology*, 2nd edition, Oxford: Blackwell.
+
+[^sutton-2007]: Sutton, Jonathan, 2007, *Without Justification*, Cambridge: MIT Press.
+
+[^tang-2018]: Tang, Weng Hong, 2018, “In Defence of Single-Premise Closure”, *Philosophical Studies*, 175: 1887–1900.
+
+[^thomasson-2014]: Thomasson, Amie, 2014, *Ontology Made Easy*, Oxford: Oxford University Press.
+
+[^veber-2004]: Veber, Michael, 2004, “What Do You Do With Misleading Evidence?”, *The Philosophical Quarterly*, 54: 557–569.
+
+[^veber-2013]: –––, 2013, “The Argument from Abomination”, *Erkenntnis*, 78: 1185–1196.
+
+[^vogel-1987]: Vogel, Jonathan, 1987, “Tracking, Closure, and Inductive Knowledge”, in Luper-Foy (ed.) 1987: 197–215.
+
+[^vogel-1990a]: –––, 1990a, “Are There Counterexamples to the Closure Principle?”, in Michael Roth and Glenn Ross (eds.), *Doubting: Contemporary Perspectives on Skepticism*, Dordrecht: Kluwer Academic Publishers, pp. 13–29.
+
+[^vogel-1990b]: –––, 1990b, “Cartesian Skepticism and Inference to the Best Explanation”, *Journal of Philosophy*, 87: 658–666.
+
+[^vogel-2000]: –––, 2000, “Reliabilism Leveled”, *Journal of Philosophy*, 97: 602–623.
+
+[^warfield-2008]: Warfield, Ted and David Marian, 2008, “Knowledge-Closure and Skepticism”, in Quentin Smith (ed.), *Epistemology: New Essays*, Oxford: Oxford University Press, pp. 137–188.
+
+[^white-2006]: White, Roger, 2006, “Problems for Dogmatism”, *Philosophical Studies*, 131: 525–557.
+
+[^williamson-2000]: Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press.
+
+[^williamson-2009a]: –––, 2009a, “Probability and Danger”, *The Amherst Lecture in Philosophy*, 4: 1–35.
+
+[^williamson-2009b]: –––, 2009b, “Replies to Critics”, in Peter Greenough and Duncan Pritchard (eds.), *Williamson on Knowledge*, Oxford: Oxford University Press, pp. 279–384.
+
+[^williamson-2014]: –––, 2014, “Very Improbable Knowing”, *Erkenntnis*, 79: 971–999.
+
+[^williamson-2023]: –––, 2023, “Modal Epistemology and the Logic of Counterfactuals”, in Jope and Pritchard (eds.) 2023: 58–76.
+
+[^williamson-2025]: –––, 2025, “Justifications, Excuses, and Skeptical Scenarios”, in Timothy Williamson, *Good as Usual: Anti-Exceptionalist Essays on Values, Norms, and Action*, Oxford: Oxford University Press, pp. 149–166.
+
+[^wittgenstein-1969]: Wittgenstein, Ludwig, 1969, *On Certainty*, Oxford: Basil Blackwell.
+
+[^wright-1985]: Wright, Crispin, 1985, “Facts and Certainty”, *Proceedings of the British Academy*, 71: 429–472.
+
+[^wright-2000]: –––, 2000, “Cogency and Question-Begging: Some Reflections on McKinsey’s Paradox and Putnam’s Proof”, *Philosophical Issues*, 10: 140–63.
+
+[^wright-2002]: –––, 2002, “(Anti-) Sceptics Simple and Subtle: G. E. Moore and John McDowell”, *Philosophy and Phenomenological Research*, 65(2): 330–348.
+
+[^wright-2003]: –––, 2003, “Some Reflections on the Acquisition of Warrant by Inference”, in Nuccetelli (ed.) 2003: 57–78.
+
+[^wright-2004]: –––, 2004, “*I—Crispin Wright* : Warrant for Nothing (and Foundations for Free)?”, *The Proceedings of the Aristotelian Society* (Supplementary Volume), 78(1): 167–212. doi:10.1111/j.0309-7013.2004.00121.x
+
+[^wright-2008]: –––, 2008, “The Perils of Dogmatism,” in Susana Nuccetelli and Gary Seay (eds.), *Themes from G. E. Moore: New Essays in Epistemology and Ethics*, Oxford: Oxford University Press, pp. 25–48.
+
+[^wright-2011]: –––, 2011, “McKinsey One More Time”, in Anthony Hatzimoysis (ed.), *Self-Knowledge*, Oxford: Oxford University Press, pp. 80–104. doi:10.1093/acprof:oso/9780199590728.003.0005
+
+[^wright-2012]: –––, 2012, “Replies”, in Annalisa Coliva (ed.), *Mind, Meaning and Knowledge: Themes from the Philosophy of Crispin Wright*, Oxford: Oxford University Press, pp. 377–486.
+
+[^wright-2014]: –––, 2014, “On Epistemic Entitlement (II): Welfare State Epistemology”, in Dodd and Zardini (eds.) 2014: 213–247.
+
+[^wright-2023]: –––, 2023, “Closure and Transmission Again”, in Jope and Pritchard (eds.) 2023: 163–190.
+
+[^yablo-2014]: Yablo, Stephen, 2014, *Aboutness*, Princeton: Princeton University Press.
+
+[^yablo-2017]: –––, 2017, “Open Knowledge and Changing the Subject”, *Philosophical Studies*, 174: 1047–1071.
+
+[^zalabardo-2014]: Zalabardo, José, 2014, “Inference and Skepticism”, in Dodd and Zardini (eds.) 2014: 108–126.
+
+[^zhao-2022]: Zhao, Bin, 2022, “Sensitivity, Safety, and Epistemic Closure”, *International Journal of Philosophical Studies*, 30(1): 56–71.
+
+[^zhang-2021]: Zhang, Xiaoxing, 2021, “Closure, Deduction and Hinge Commitments”, *Synthese*, 198(S15): 3533–3551. doi:10.1007/s11229-018-1679-x
