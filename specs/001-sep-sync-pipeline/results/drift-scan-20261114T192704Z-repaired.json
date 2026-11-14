@@ -1,0 +1,632 @@
+{
+  "at": "2026-11-14T19:27:04Z",
+  "repaired_at": null,
+  "scope": "修复钉后终态：main index.html vs 原始钉",
+  "total": 1872,
+  "unchanged": 1800,
+  "changed_real_drift": 72,
+  "soft404": [
+    {
+      "slug": "theory-bioethics",
+      "note": "软 404（SEP 错误页）"
+    }
+  ],
+  "http_404": [],
+  "http_error": [],
+  "failures": [],
+  "pins_repaired": [
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    },
+    {
+      "slug": "slug",
+      "path": "path",
+      "upstream_sha256": "upstream"
+    }
+  ],
+  "real_drift": [
+    {
+      "slug": "academic-freedom",
+      "upstream_sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
+      "live_sha256": "02bc1b992c938168dbc935fe9967aad8ce308ccf7548f9d075a6eaa05d63e416"
+    },
+    {
+      "slug": "advance-directives",
+      "upstream_sha256": "b663ee735fa054a479ed07760bc15288b3a3e5c863c55a1a3996a9b41d79dcb6",
+      "live_sha256": "affe0d3e8f34940542390f30a757820a6dce279d477be27f9d253578a9d03f87"
+    },
+    {
+      "slug": "altruism-empirical",
+      "upstream_sha256": "42be3fd575975c07b9eea8dd9bd82681375fcc1c2427492b3225d8fc572b587b",
+      "live_sha256": "8b721eb66892b444531484f2ce4dfb884dbdad699f7437edf9cc5dcd3d87e4cd"
+    },
+    {
+      "slug": "argument",
+      "upstream_sha256": "4ea18363951c1381cd10a2cc615f9509cd9297957f2e30b85e6ca067df9287d0",
+      "live_sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783"
+    },
+    {
+      "slug": "aristotle-psychology",
+      "upstream_sha256": "cd775fbfaa8a66af7e9522624ad622b69c77d6f59fc401a519a36def562365c1",
+      "live_sha256": "d00d9c9a178cd6ff98188c8fdef1036a48c83b0b84c0523e49adae65bfb5feeb"
+    },
+    {
+      "slug": "ayn-rand",
+      "upstream_sha256": "e7401da3fe103ee4a0c1e636e7a25fa12feab730dd63499c30dc5434a3826d4a",
+      "live_sha256": "0393ae502a4bf65ff1556192c16b86245808b8bd9001d1f2945e01da497f1f15"
+    },
+    {
+      "slug": "behaviorism",
+      "upstream_sha256": "0afe8ebb9ad8ab47d7ad007fd2a9993a0c3de1401b6cfcf4aac3d269c7598759",
+      "live_sha256": "72b7ca26a98801bfb12053302bc5ec1c944c5e96c695988b6d364cca9b05c6ab"
+    },
+    {
+      "slug": "benjamin",
+      "upstream_sha256": "dbfebae6c02e6a77f79ea2d64be7b29b38a31c1b18ed6f8ad6b0666e16a3e7a0",
+      "live_sha256": "e4666184a79e67c3b26a56e3052a633ddab775b3dd420aac5028ac4c23cbb957"
+    },
+    {
+      "slug": "berlin",
+      "upstream_sha256": "4ca8b1843f14fbfd90fd74579c636b3dc7255a192660ddab232e22ea11ff2f2d",
+      "live_sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080"
+    },
+    {
+      "slug": "cellular-automata",
+      "upstream_sha256": "12a7c70e9f516b023dd8b65d8a3896a11c16249f2a7eb74b6f03a61329a1e0a6",
+      "live_sha256": "981295e00b53e65fe1f7b271d53f6ab757ed3f3fd06cb39f535bc67ebf3f0d5c"
+    },
+    {
+      "slug": "closure-epistemic",
+      "upstream_sha256": "fe2dbe49db6c7f3e633cee29eddd90e44477cc3d9998f3b7d5f1323497831b73",
+      "live_sha256": "ba74358a2a48eae73e2cf35532053ff6b9eb43bd22dd7e80f7930bc314ff6e47"
+    },
+    {
+      "slug": "compatibilism",
+      "upstream_sha256": "ae9d624dc964e7793cc49a0060e352f2775a4be4897a513ad3311f324ccc915b",
+      "live_sha256": "7dc61f888641a01ab980a40c81c358188da3323c64f19cac60354816bcbdd2aa"
+    },
+    {
+      "slug": "concepts",
+      "upstream_sha256": "f2e81a2de335c441c2d5a340eae65dd4689c58c5b9883059989b1fd102628f7f",
+      "live_sha256": "920d901cf5d341707946bda9e8ce7009bf701a18bcf4fb247a3eee9dcb131ddf"
+    },
+    {
+      "slug": "consequentializing",
+      "upstream_sha256": "7963e57a41e1d54785cb24dc883357f583f8c97acfbffc55ce1abf58b7fda612",
+      "live_sha256": "1ae5ac51b5c32d6437ead0849377a95e9dffe2153f51215f823221fccfa7951b"
+    },
+    {
+      "slug": "content-narrow",
+      "upstream_sha256": "c9a5c07a091c401e2ac0b56fc6392cb7192f7582ada27a13cd99ef790446b6b5",
+      "live_sha256": "034583384168ef9b537214bcc53fb3671b64b7c06e110c91cd369722013ad711"
+    },
+    {
+      "slug": "david-lewis",
+      "upstream_sha256": "88c6a9157f95d7095aa90ef5966bd3258de0bf0d1bdbf1f539b890b9ae841be2",
+      "live_sha256": "da11589bc6435de66f3363ca2fcf951c34e231a5e3b125db5e4c35464ab5e647"
+    },
+    {
+      "slug": "derrida",
+      "upstream_sha256": "a594f29e9832ddc40425b05df8ebf7341e64e8fee2fb247c383b811c124ab342",
+      "live_sha256": "20a12f56413d88fd83aa2a7af44712fccdc55d4d0bcb8c4dd3db79344e14ca18"
+    },
+    {
+      "slug": "dialectical-school",
+      "upstream_sha256": "debcc11864a9b5a139bd5e68e243953493b5350b9d4ec68b4cbc7bbbd92a9006",
+      "live_sha256": "2c0e52d715d5ec1261b12f6f262180120406e0dbf54320b0b8c5c6c6e2bf7f15"
+    },
+    {
+      "slug": "early-modern-india",
+      "upstream_sha256": "c3b66a9114eb3f6722428ed51b6948a55a0576d5914c3f05df16e96904f7f4b2",
+      "live_sha256": "db1f29e184d6dde4d365026fad4bd4133e49f3d1d0a393c77f84c24b4d90f263"
+    },
+    {
+      "slug": "emotion-Christian-tradition",
+      "upstream_sha256": "9dee7a3d14ed8a004d3588d5d1a074ae597973ff7186a1c3d6532b938d291457",
+      "live_sha256": "0a945aed13565ccdf12d00100ca08be28657b101abf87777c30c3b7d68d5e4bd"
+    },
+    {
+      "slug": "enhancement",
+      "upstream_sha256": "cf347647c0026950f19ca0e28e29a288bd62b494ba356ab92397e1e088ca1f3f",
+      "live_sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8"
+    },
+    {
+      "slug": "epistemic-utility",
+      "upstream_sha256": "e70ca6e491ce193df34a0c45373af78ed265806f2b87875c7b3a9874d68f3261",
+      "live_sha256": "36661960b08c0e076f7d7efd5d8e152d367bb6c492046a3bb1535ee1774c82a6"
+    },
+    {
+      "slug": "essential-accidental",
+      "upstream_sha256": "10e1ba3d79b81b42c43938764b0de3bc5d65ab1db9d3a0f88d9e28b71c8074f5",
+      "live_sha256": "6c4f00b27009b81a614c292fe654ab499a13a735f1fdca06878ad1761e2962f2"
+    },
+    {
+      "slug": "experimental-moral",
+      "upstream_sha256": "cb482194897baeb043f139d5caf8f743bfa58cb10bf577c05c1fb12d476acfb7",
+      "live_sha256": "fc96ddf652b7ba1a32c52ae3155e373c967c1810b683618616e8e25a75eec1aa"
+    },
+    {
+      "slug": "feminism-aesthetics",
+      "upstream_sha256": "b6f4aa678537e44244878f3ce22d75c2148144f3ad9b2746c17d8c427b8bd493",
+      "live_sha256": "62727067fa88df9829e2902b6b1f92e7ae4181fa9cd3228c761bedad1e1b5c5d"
+    },
+    {
+      "slug": "feminist-bioethics",
+      "upstream_sha256": "b988f7a699efd88c320d41021264d177bf3cc65a7e53eb6a00f181e489ea3f9d",
+      "live_sha256": "ac4cddd38d28e0f37ffc6fdcf9fb4b5fdfcfcf406a595e0202f5befe8019853e"
+    },
+    {
+      "slug": "form-matter",
+      "upstream_sha256": "024fee3dd3ddd8a86ba4d1dc8a6a20deaa4b7978974b01d6958ef2d2368f250a",
+      "live_sha256": "f81569e7a28990815744ac4aafad93bc39166a814c6b2665531dbddd8072e871"
+    },
+    {
+      "slug": "freewill",
+      "upstream_sha256": "97fe5912dbb0de3c8bf9adade1cbf3662de80e2ab781eb9e8cccfa8d72b74b35",
+      "live_sha256": "96d7f58dadac01da1ab6e3ba4dce4df62aec1b284b60a100c2774b8a825e0676"
+    },
+    {
+      "slug": "game-theory",
+      "upstream_sha256": "2d41ef74d843e8233c605126419094ac3fd7351e2916b8f34f1faf1b3292e4cc",
+      "live_sha256": "bd5285aabfcb515cd404223d4df45e28d9c0fd2a44567dafcd22bb1f633d7d00"
+    },
+    {
+      "slug": "genetics",
+      "upstream_sha256": "d43c85524ec30190c99781e4900a4a65e67a1ff6351855693ed4d00e8aeecbdc",
+      "live_sha256": "c75688d89fcc43dc22c62a3df5ab1126a79949dadfe7245be02b83a61164dd5c"
+    },
+    {
+      "slug": "green",
+      "upstream_sha256": "16f8a075cdf4dc3f9a204951244eae38f4f70a6d8e9187aeb13ab3875a67d792",
+      "live_sha256": "374e4acddc26dcd083c77828c1db8c9bbc39ee7696dde80ef8990af6fc8e4164"
+    },
+    {
+      "slug": "heidegger-aesthetics",
+      "upstream_sha256": "09dd5873942a8bd3b66e8ebc7e6cf2e680d7cccf88b3fb202e3e9ad5e3591468",
+      "live_sha256": "e1fe1015b35cae0ab854f77e6b2cb9c250c98401091c69dd1233387e5f00bc92"
+    },
+    {
+      "slug": "ibn-bajja",
+      "upstream_sha256": "15a7fcb6ec1a430cca44d33675d7de5fb73d9a430ced7ca615cf1689d8513a29",
+      "live_sha256": "374709d16cb8cad3f291bf7400115940e107fb411df8b5e5aeeef4dfe3a95300"
+    },
+    {
+      "slug": "incompatibilism-theories",
+      "upstream_sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782",
+      "live_sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f"
+    },
+    {
+      "slug": "infinite-regress",
+      "upstream_sha256": "f9c96b97a3292b7d21ee9fc9e7d7e86aa19dc89d04c99b11f5b2bbba34a616c0",
+      "live_sha256": "f8ba5502b6caf2322d26ba56c06a24e087d3323e00a8d9dd74bcbccf11e3507d"
+    },
+    {
+      "slug": "it-moral-values",
+      "upstream_sha256": "691f8514e2999d0d913c5fcada78aa141ace18c3f0f71afe00a86f5bb23d8ef3",
+      "live_sha256": "d5b4d54444e03eed266424ce02a18fb390bdca9a323d4b6bcb22d83e424e094e"
+    },
+    {
+      "slug": "justep-intext",
+      "upstream_sha256": "d3f1b28b5998995f29ff8402ee6d571e530b11516823a00463fc4dfca31a7387",
+      "live_sha256": "a8401630d51df46ff32fb4cc37047398829f6a0e7083da30d43ed9c4e932d94c"
+    },
+    {
+      "slug": "kant-leibniz",
+      "upstream_sha256": "5963a912972d1fd8c24a62de81a4cdb72aa31d3fbe054806c7df4b98471be6a0",
+      "live_sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e"
+    },
+    {
+      "slug": "kumaarila",
+      "upstream_sha256": "b52d28a6a609af987850f9f867fe65282847791d0cfb1e3df5f5189b6e912bfd",
+      "live_sha256": "8fc55268773c45be86b0454d835fadb9793577c406df3d5c80c4f54e04be9540"
+    },
+    {
+      "slug": "linguistics",
+      "upstream_sha256": "6d66dc879891e98e77ebba96f92166b60ec407edef4cd175b7f4a29e870ea455",
+      "live_sha256": "c338046176035638271b802ccf9a72895ae6d4a096fa178051e0d2680a63d32e"
+    },
+    {
+      "slug": "logic-ancient",
+      "upstream_sha256": "e3e243167a9c9be14c73382b14ab3adb6080184d387068141dbef079b3447ea4",
+      "live_sha256": "77a6ef2a009497aac7ca5121871758fc51ea912efd881a8cf410ef4c9012bfc3"
+    },
+    {
+      "slug": "logic-provability",
+      "upstream_sha256": "31ac09d95f06bd5c5b498c64f8da0825effc6f4ef2a442b050b730b00f838e37",
+      "live_sha256": "7fb4661215d94936e2c978dcf45799d821941cd8976d8c4b5fc53e05d7ec3801"
+    },
+    {
+      "slug": "madhyamaka",
+      "upstream_sha256": "8ef0e228ea694cb05ad3c97d346b657e13ce51ba3c1720fc27b8375b560546fd",
+      "live_sha256": "b2c55ed13c818d194c87123909d2d7ee68cf3336bbad2352eb117c6ff06ccd96"
+    },
+    {
+      "slug": "meaning-holism",
+      "upstream_sha256": "e129411170412906e4d48ad6cce976fb3d920e89ad4338f2b212c077787c0672",
+      "live_sha256": "5785ef27715073267ab93b73630919ca4b69145aac8679002d63daf0969a7928"
+    },
+    {
+      "slug": "medicine",
+      "upstream_sha256": "c4a1dccb946eaa8c120061e1ec717c0de9790b4fcfcf64e8a5cc37ed1a72d7ed",
+      "live_sha256": "56d06d49f3d4c6dae9b323bc4d093f15ee179fae3349a399cea98d19bff35cc0"
+    },
+    {
+      "slug": "metaphysical-explanation",
+      "upstream_sha256": "1f4ae4c7a557ceccc1e8c5ad6b2b07a46ed419b16066d511d71037ff816981d2",
+      "live_sha256": "ffcb32defe76b0ccb498fec081817b27fc33bf336a08a4dc3227e3581b9acbc7"
+    },
+    {
+      "slug": "metaphysics",
+      "upstream_sha256": "8c54df14ec33f891a1f37ae0ad1fbb58016f6ecc9e2f91e00d6cad7e7ea43c1c",
+      "live_sha256": "b2d09418377c62ffaf48c5b5fe4e406ef6a605a25774d8381114c4c31d76bbc6"
+    },
+    {
+      "slug": "molecular-genetics",
+      "upstream_sha256": "57d75933a3475c01be35b82be381468374b045d8a4e8786431f02e4a99cac556",
+      "live_sha256": "4e4b462a99ee04e17344b314f50e588fe917fb018a1fb42ba7b83b4acdfff2aa"
+    },
+    {
+      "slug": "moral-conventional",
+      "upstream_sha256": "8a910e9694fae03dafbeb79bb71d8f6efc591d6a4e8cc91f80975005471cff79",
+      "live_sha256": "bfe9ccea9f178f8a0ae186e46c2bb435673c47c9452e218f979ff3bfadf9b516"
+    },
+    {
+      "slug": "moral-responsibility",
+      "upstream_sha256": "dcc81ed294d8586569512b9e504ddf67c09d294f78b509c2bf506b1279fc8ec6",
+      "live_sha256": "64ee9c99b3a78db534c4d58437d597a4e0cb9e323c1e9fcfa3f1cdfff45ab1aa"
+    },
+    {
+      "slug": "nominalism-mathematics",
+      "upstream_sha256": "a033632fa853d192fe0871e34b7a8ca92b1acac865e6f916c42c98208304d9e2",
+      "live_sha256": "b9ba8676fc684151c02ca5dedc669c619ef13ee80e187bd1dd07170b8c446fd9"
+    },
+    {
+      "slug": "perception-india",
+      "upstream_sha256": "163fea827bab9eb2205fcbfed888ece666a93c79330941f3a3c9738f003038af",
+      "live_sha256": "1cef21d12c0c0504518d691fce47bc7186e9d6c973cc0d43eb74f830e5f12a54"
+    },
+    {
+      "slug": "phenomenal-intentionality",
+      "upstream_sha256": "77ca776e09f60e1d4797b352fa3e3d88ba05958fdbf6ce2cd0364d9966871981",
+      "live_sha256": "a2065174e03c8dc6cf6f84599b0cd8a62d1b77cd7af32bd6ed443aaba12d647d"
+    },
+    {
+      "slug": "philosophy-mathematics",
+      "upstream_sha256": "6b1b069983c37c787df672085c952ed58e2800a12048e92d1725a6a0f25d03ab",
+      "live_sha256": "caa3ffdf84689af96be9883c626a3e3e1c76196efbf554ad2ec993d0db9d41e8"
+    },
+    {
+      "slug": "physics-experiment",
+      "upstream_sha256": "8c80defbb5e0ee0728c27fa0d570da62f44b0b0f979db44841ae5c2718ae24b5",
+      "live_sha256": "ef52c0ffb700e33fe989ee1812c7fc4fa0c2e9247b891a3b17fcc72d3f46b401"
+    },
+    {
+      "slug": "porphyry",
+      "upstream_sha256": "08029f760ac5e04d0d845eae698a5b4d15a60d3d5e174f38b04879bbb9012ca1",
+      "live_sha256": "ede262d9a72ad0c4cf72eb56f22b9373d1c975f74be9f4860ac5e739e8b2a6bf"
+    },
+    {
+      "slug": "practical-reason-med",
+      "upstream_sha256": "30de4fcf056ecf6c5a4de490a71787ebd12d73c9b7bd0559385f33eed8311266",
+      "live_sha256": "e245c6ec3f51575381c21d7d9ee1f655c9df4a9e63d0f2dea5455af8c4b47d4a"
+    },
+    {
+      "slug": "preferences",
+      "upstream_sha256": "fb9e26f00eb3c9d04da3f29915307d42fe2a07adfaea33d14e8e8228c5f6f111",
+      "live_sha256": "f2442e390f4f12bd11160eaeac5d37ab3099d07090a10e9a1947635ee2689ca8"
+    },
+    {
+      "slug": "principle-beneficence",
+      "upstream_sha256": "fdc0987442c6ee476f630f9f6c1ca19c4eef52ddaa8061ac2848e69009432ac6",
+      "live_sha256": "5241836993796a584132eb124620ee8e5647d766847beef4d7cb6e266498368a"
+    },
+    {
+      "slug": "reasons-agent",
+      "upstream_sha256": "bf6428dc4e4c0330ae3fddc79426176f44c570e78b64b845223595a81371dc46",
+      "live_sha256": "4b97d5229f14689572e7039f23a4b7697f9a282c8084313a5bb0f05e0642dce9"
+    },
+    {
+      "slug": "reasons-internal-external",
+      "upstream_sha256": "aefd28e4d25648d1529a005e2b9cc0e78e9b76a08a8fb1404b49525c3e38d2b0",
+      "live_sha256": "4ea8a6dd71ae5dabf680842a9b6812fcb83c7cc74b64666ac7207349b4e684b6"
+    },
+    {
+      "slug": "recursive-functions",
+      "upstream_sha256": "5fa44199c0133e1382ef9bd1dcc0ab8e447c0ebf9b33b39a75b129d1cd27a6d7",
+      "live_sha256": "e2bd0e7712b3aa9cadc0deee5789ed61fdb361f84de9d38ec74e1a0c264bd6db"
+    },
+    {
+      "slug": "saadya",
+      "upstream_sha256": "183eb98ccde9830753f0e8ad3d378fcd4d3e9b67344e01eba8e1001b7152e587",
+      "live_sha256": "fdbd11c385f344975d770f5419b3b6a49ff46c6664eec4161899eab5ae6dc605"
+    },
+    {
+      "slug": "schopenhauer-aesthetics",
+      "upstream_sha256": "0f711f8cf7ac90d0940c3de2d8f3f7b4daff2887b44b3be81a9479fb9308dbf2",
+      "live_sha256": "1f02616dff6b4540f1ad266e18a56632685645eae147ef6c63733df2131dbd8c"
+    },
+    {
+      "slug": "scientific-representation",
+      "upstream_sha256": "3d42565f846e684a34187a53cf0f08072ba78e9659c844e6ea3267993d14250e",
+      "live_sha256": "4f8a21a738f421468d2c384413bd89c9aa163839069294ca2123859ae22c77a1"
+    },
+    {
+      "slug": "self-knowledge",
+      "upstream_sha256": "1aeea6797ada65f113e0029c5d0575b9977cc4b9b536a5b89e9577f2da86d1fc",
+      "live_sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b"
+    },
+    {
+      "slug": "shared-agency",
+      "upstream_sha256": "149041862e77fa924e905a3869ad431f8f898687b84d9c09e7baab74ffeab636",
+      "live_sha256": "a4343fd8604165e9d9d2a753550bc5858a5971cd84dede526c0afee74513f211"
+    },
+    {
+      "slug": "skepticism",
+      "upstream_sha256": "26e3b0c41fa165a1bde504ca83b0a6027e4495a1561423f8ffe56e24a8660925",
+      "live_sha256": "13be9d9704bf263509b07f844b8f944623a6713378f9c2cbe11065d3eb0fea8c"
+    },
+    {
+      "slug": "spencer",
+      "upstream_sha256": "4fc3f89792493818a45b774f5493cbb87b1c2199f7e019e77e1a4001f1b9e232",
+      "live_sha256": "9420f60d4e4f55b1490649b0a327aa30fa2ba41bda6fff42fd2d264f83715604"
+    },
+    {
+      "slug": "voltaire",
+      "upstream_sha256": "d4f98254337009148764f58725cbcc862cd507c88aefd0da91653c55abf25642",
+      "live_sha256": "3423d64c45fa32218734d8e18ff0a5d837146d1df44248d1694780a79ceadd3a"
+    },
+    {
+      "slug": "wittgenstein",
+      "upstream_sha256": "ec6822aad5090aa982e684002a921d14be7a70f6f9055f49898e260d88bf4b5c",
+      "live_sha256": "2032c8c66af0b239484410723310677bc5838d033aeee385079b440ee953c4e2"
+    },
+    {
+      "slug": "advance-directives",
+      "upstream_sha256": "b663ee735fa054a479ed07760bc15288b3a3e5c863c55a1a3996a9b41d79dcb6",
+      "live_sha256": "affe0d3e8f34940542390f30a757820a6dce279d477be27f9d253578a9d03f87"
+    }
+  ],
+  "note": "117 件 changed 中 50 件系 015 偿还期台账重算污染（钉==改后本地），回修至原始钉后 47 件与 live 一致；真漂移共 71 条供 compare.py/update 任务消费；theory-bioethics 软 404 属 retired。"
+}

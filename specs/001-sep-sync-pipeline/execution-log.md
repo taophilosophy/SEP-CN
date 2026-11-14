@@ -192,3 +192,13 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **验收**：divergence verify 与 --deep 全绿（4386 唯一路径：4364 pristine + 23 divergent + missing 0）；分歧回溯离线验收三件（blame/auriol/object）回溯字节==git 原始字节且≠本地；钉快路径（compare --html 原始字节）报「无变更」；check_all 全绿见收工记录。
 * **过程记录**：本轮遭遇并行会话 sweep 收编（工具链与首版 divergences.json 被卷入「！」提交 e7c40854e 并推送；a56ac2755 为其重做链孤儿）；用户经 GitHub 网页对 compare.py 热修（d3c53d458）；他会覆写事故（34945130b）曾还原 moral 的 en 勘误后又重应用，全程 pin 未被改写，verify 如实报警两次并即时登记收口。
 * **跟进**：逆向补丁自动随迁（hunk 不相交自动、相交转人工）未实现，暂按 divergence.py patch + 人工裁定；分歧账与 en-errata.md 行级对应靠 reason 文字关联；全量回源核对 sha 的回填任务待批（豁免令已登记 spec Assumptions）。
+
+## 2026-11-15（跟进项批准并当日落地：carry 逆向补丁随迁＋全量回源核对）
+
+* **裁定**：用户批准 ADR-0045 两项跟进——逆向补丁自动随迁、1872 词条全量回源核对 sha（豁免令已备）。
+* **执行（carry）**：`divergence.py` 增 `carry`/`unregister` 与 base_snapshot 双锚（随迁后原始字节锚定 results/upstream-snapshots/ 不可变快照）。三路离线验收：①干净随迁（blame 假上游改造，merged 含上游改动+勘误保留、钉前移、账目换锚、--deep 绿）；②冲突转人工（auriol 同行第三变体，退出码 3、en/ 不动、冲突件+ours/theirs 副本）；③解决件=纯上游 → carried-and-unregistered + tombstone。单测 13→16。
+* **执行（全量回源）**：`tools/drift_scan.py` 1872 词条、64路×10s（fetch.py 已验证配置 B）、0 网络失败。初报 118 changed；判读：117 件系 015 偿还批「台账重算」把 files[].sha256 写成改后本地哈希（污染源 a3722f4a2 等，ADR-0038 决策 2 误施于钉），仅 advance-directives 1 件真漂移。
+* **回修**：50 件污染钉按 d0294236f 原始 blob 回修（另 67 件钉本干净、属真漂移）；50 件中 49 件补登记分歧账（emotion-Christian-tradition 原账即锚原始钉，核验无误）＋其间他会新增 bodily-awareness、social-procedures 两件勘误即时登记；**真上游漂移终判 72 条**（71 条 SEP 三周常规更新 + advance-directives），报告与处置见 results/drift-scan-20261114T192704Z-repaired.{json,md}。
+* **验收**：divergence verify --deep 全绿（75 分歧登记、0 失败）；check_all 11 项全绿见收工记录。
+* **过程记录**：①carry 离线验收的中间态被他会 sweep 当真内容收编（e92021001），已外科修复（blame 还原 361cdc454、钉回 9a7a30b69、账目回 23 条重叠 bodily）；②他会新立 ADR-0046（check_pairs）时曾撞号 0045 并把本战役门禁行误标 0046，README 留重复行——已修复（0045=双账，0046=check_pairs）；③他会活跃期 merge 态令 pathspec 提交一次被拒（"partial commit during a merge"），窗口过后重试即成功。
+* **待办移交**：真漂移 72 条走 compare.py 产变更文件 → update 任务批量战役（待用户排期）；其时 errata 在账者用 carry 随迁。

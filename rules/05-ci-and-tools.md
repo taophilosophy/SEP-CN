@@ -8,7 +8,7 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库 + 根目录白名单，ADR-0023）+ `check_images.py --gate`（图片引用完整性，rules/01）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总，内含 `divergence.py verify` 原始物分歧账，ADR-0046）+ 管线单元测试，硬错误即红灯 | push / 手动 |
+| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库 + 根目录白名单，ADR-0023）+ `check_images.py --gate`（图片引用完整性，rules/01）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总，内含 `divergence.py verify` 原始物分歧账，ADR-0045）+ 管线单元测试，硬错误即红灯 | push / 手动 |
 | `sync-headers.yml` | 只读校验每个 SUMMARY 条目对应文件的 H1 是否与条目文字一致（转义还原后比较；跳过 frontmatter、README、别名行），不一致即红灯；**不提交、不推送**（ADR-0024：远端永不写回 main，避免造出本地没有的提交而与并行会话分叉） | push |
 | `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
 | `markdown-lint2.yml`（手动）/ `Markdown-lint2-pr.yml`（PR 触发） | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动流可 `--fix` 开格式化 PR） | 手动 / pull_request |
@@ -39,7 +39,8 @@
 | `fetch_all.py` | 全量抓取+原文镜像驱动器（并发节拍 A=16 路×5s / B=64 路×10s，实测均无限流；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
 | `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性）；双账感知（ADR-0046）：已登记分歧且账目相符者计入 `divergent_registered` 不作 `hash_fail` |
-| `divergence.py` | 原始物分歧账门禁（ADR-0046）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`patch`/`list` 登记与逆向补丁搬运 |
+| `divergence.py` | 原始物分歧账门禁（ADR-0045）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`carry`（三方合并逆向补丁随迁，冲突退出码 3 转人工，`--merged` 复跑，随迁即归档新上游快照并前移钉）/`unregister`/`patch`/`list` |
+| `drift_scan.py` | 全量回源 sha 核对（ADR-0045 跟进项，一次性豁免令 2026-11-15）：1872 词条 live index.html 对原始钉只读审计；64路×10s 已验证并发配置，逐请求留痕、429/5xx 退避不变；报告落盘 specs/001 results/drift-scan-<ts>.json；不进 CI（批量任务按需跑） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则＋时态词冗余、并列连词接动词、“成功地” 三则（2026-11-14 扩项，specs/027）反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
