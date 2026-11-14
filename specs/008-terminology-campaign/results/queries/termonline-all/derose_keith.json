@@ -2,10 +2,347 @@
  "key": "derose, keith",
  "term": "DeRose, Keith",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T20:24:44+00:00",
- "status": "error",
- "note": "variant=DeRose, Keith; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "DeRose, Keith: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:14:55+00:00",
+ "status": "ok",
+ "note": "variant=DeRose, Keith; 审定公布名词库=741; 海峡两岸名词对照库=180; 其他来源数据库=15; 预公布名词数据库=159; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "利思-乌帕特尼克斯全息图",
+   "en": "Leith-Upatnieks hologram",
+   "code": "04.1363",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_波动光学、信息光学"
+  },
+  {
+   "cn": "剂量密集化疗",
+   "en": "dose-dense chemotherapy",
+   "code": "8.168",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗模式"
+  },
+  {
+   "cn": "周剂量密集化疗",
+   "en": "weekly dose-dense chemotherapy",
+   "code": "8.169",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗模式"
+  },
+  {
+   "cn": "浆膜",
+   "en": "serosa",
+   "code": "17.087",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_胃与十二指肠外科"
+  },
+  {
+   "cn": "酮糖",
+   "en": "ketose",
+   "code": "6.0007",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_概述_修复"
+  },
+  {
+   "cn": "丁糖",
+   "en": "tetrose",
+   "code": "6.0048",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_单糖_一些重要单糖"
+  },
+  {
+   "cn": "己糖",
+   "en": "hexose",
+   "code": "6.006",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_单糖_一些重要单糖"
+  },
+  {
+   "cn": "右旋糖",
+   "en": "dextrose",
+   "code": "6.0063",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_单糖_一些重要单糖"
+  },
+  {
+   "cn": "浆膜",
+   "en": "serosa",
+   "code": "07.261",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "需氧菌",
+   "en": "aerobe",
+   "code": "16.029",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医微生物学"
+  },
+  {
+   "cn": "译码",
+   "en": "decode",
+   "code": "06.04.100",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "浆膜",
+   "en": "serosa",
+   "code": "3.0715",
+   "standard": "动物学名词",
+   "subject": "动物学_动物组织学_主要器官组织_消化器官组织结构"
+  },
+  {
+   "cn": "己糖，六碳糖",
+   "en": "hexose",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "六碳糖（=己糖）",
+   "en": "hexose",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "尼禄",
+   "en": "Nerone",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "己糖",
+   "en": "hexose",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "酮糖",
+   "en": "ketose",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "好氧生物",
+   "en": "aerobe",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "己糖, 六碳糖",
+   "en": "hexose",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "酮糖",
+   "en": "ketose",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "右旋糖",
+   "en": "dextrose",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "浆膜",
+   "en": "serosa",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "连结纤丝",
+   "en": "desmose",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "己糖",
+   "en": "hexose",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "己糖",
+   "en": "Hexose",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无人机",
+   "en": "drone",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "古文运动",
+   "en": "Classical Prose Movement",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "量子密集编码",
+   "en": "quantum dense coding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "稠密市场效应",
+   "en": "dense market effect",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物活性",
+   "en": "Dose (biochemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超密编码协议",
+   "en": "super-dense coding protocol",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "吸入器",
+   "en": "Metered-dose inhaler",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拘挛补衲",
+   "en": "Florid Prose and Stilted Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "律诗",
+   "en": "Lüshi (Regulated Verse; Rhythmic Poetry)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "以文为词",
+   "en": "Writing Ci Poems as Prose",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "沧海横流，方显英雄本色",
+   "en": "True heroes arise in times of hardship.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_理念信心"
+  },
+  {
+   "cn": "解冻失水率",
+   "en": "defrost rate",
+   "code": "5.6.12",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_禽肉"
+  },
+  {
+   "cn": "剂量",
+   "en": "dose",
+   "code": "1.4.3.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "剂量",
+   "en": "dose",
+   "code": "16.1.1.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "code": "5.21.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_辐照食品"
+  },
+  {
+   "cn": "吸收剂量",
+   "en": "absorbed dose",
+   "code": "2.2.2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "辐射剂量",
+   "en": "irradiation dose",
+   "code": "2.2.2.18",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "阈剂量",
+   "en": "threshold dose",
+   "code": "6.3.1.6",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "吸收剂量",
+   "en": "absorbed dose",
+   "code": "3.2.5.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "code": "3.3.1.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "code": "3.3.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "code": "3.3.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "code": "3.3.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,347 @@
  "key": "dasgupta, partha",
  "term": "Dasgupta, Partha",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T19:57:42+00:00",
- "status": "error",
- "note": "variant=Dasgupta, Partha; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Dasgupta, Partha: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:14:55+00:00",
+ "status": "ok",
+ "note": "variant=Dasgupta, Partha; 审定公布名词库=2224; 海峡两岸名词对照库=835; 其他来源数据库=188; 预公布名词数据库=260; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "短螺旋成孔机",
+   "en": "partial screw earth auger",
+   "code": "13.175",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程施工_施工机械及施工工具"
+  },
+  {
+   "cn": "分部开挖",
+   "en": "partial excavation,part-section excavation",
+   "code": "09.118",
+   "standard": "土木工程名词",
+   "subject": "土木工程_隧道与地下工程_隧道施工方法"
+  },
+  {
+   "cn": "通流部分",
+   "en": "through-flow parts,steam path",
+   "code": "10.053",
+   "standard": "电力名词",
+   "subject": "电力_汽轮机、燃气轮机"
+  },
+  {
+   "cn": "部分子",
+   "en": "parton",
+   "code": "09.1014",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "分音",
+   "en": "partial",
+   "code": "03.199",
+   "standard": "语言学名词",
+   "subject": "语言学_语音学_声学语音学"
+  },
+  {
+   "cn": "口糜",
+   "en": "aphtha",
+   "code": "03.0067",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_儿科学"
+  },
+  {
+   "cn": "口糜",
+   "en": "aphtha",
+   "code": "04.100",
+   "standard": "中医药学名词",
+   "subject": "中医药学_耳鼻喉科疾病_口齿病"
+  },
+  {
+   "cn": "口糜",
+   "en": "aphtha",
+   "code": "04.100",
+   "standard": "中医药学名词",
+   "subject": "中医药学_诊断学_诊法"
+  },
+  {
+   "cn": "口疮",
+   "en": "aphtha",
+   "code": "03.1140",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "软沥青",
+   "en": "maltha",
+   "code": "02.0296",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_油气性质"
+  },
+  {
+   "cn": "阿弗他溃疡",
+   "en": "aphtha",
+   "code": "04.151",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔病理学"
+  },
+  {
+   "cn": "阴茎部分切除术",
+   "en": "partial penectomy,partial phallectomy",
+   "code": "11.401",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_泌尿、男性生殖系统手术"
+  },
+  {
+   "cn": "声部",
+   "en": "part\",\"partie\",\"voice",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "玛尔塔",
+   "en": "Martha",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "帕提塔",
+   "en": "Partita",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "段",
+   "en": "partie",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "古组曲",
+   "en": "partie",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "软胶质",
+   "en": "maltha",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "大通路卫星地球站",
+   "en": "major path satellite earth station",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "乐章",
+   "en": "movement\",\"partie",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "中垛",
+   "en": "parma",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "气体分压",
+   "en": "partial pressure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分熔融",
+   "en": "partial melting",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分激动剂",
+   "en": "partial agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分段用时",
+   "en": "partial time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "分段时间",
+   "en": "partial time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "当事人",
+   "en": "party, client",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字地球",
+   "en": "Digital Earth",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "第三方",
+   "en": "third-party",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "利益有关方",
+   "en": "interested party",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "阶段",
+   "en": "part",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "偏微分方程",
+   "en": "partial differential equation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分段平均成绩",
+   "en": "partial average time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "code": "1.2.5.77",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "贱民宗教",
+   "en": "pariah religion",
+   "code": "3.9.1.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "部分母乳喂养",
+   "en": "partial breastfeeding",
+   "code": "6.1.4.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "利益方",
+   "en": "interested party",
+   "code": "7.2.2.26.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "太空船地球",
+   "en": "spaceship earth",
+   "code": "3.14.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "无产阶级政党",
+   "en": "proletarian party",
+   "code": "03.0199",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "政党",
+   "en": "political party",
+   "code": "03.0215",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "党的纪律",
+   "en": "party discipline",
+   "code": "03.0262",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "党性",
+   "en": "party spirit",
+   "code": "03.0263",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "列宁主义的党",
+   "en": "Leninist party",
+   "code": "03.0315",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "党的建设",
+   "en": "party building",
+   "code": "03.0380",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党章",
+   "en": "Party constitution",
+   "code": "03.0718",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

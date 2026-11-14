@@ -2,10 +2,200 @@
  "key": "delmedigo, elijah",
  "term": "Delmedigo, Elijah",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T20:20:14+00:00",
- "status": "error",
- "note": "variant=Delmedigo, Elijah; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Delmedigo, Elijah: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:14:55+00:00",
+ "status": "ok",
+ "note": "variant=Delmedigo, Elijah; 审定公布名词库=25; 海峡两岸名词对照库=12; 其他来源数据库=1; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "阿利亚",
+   "en": "Aliyah",
+   "code": "04.0431",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚"
+  },
+  {
+   "cn": "肽-酶联免疫吸附分析",
+   "en": "peptide-ELISA",
+   "code": "11.0319",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术"
+  },
+  {
+   "cn": "聚合酶链反应-酶联免疫吸附分析",
+   "en": "PCR-ELISA",
+   "code": "11.032",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术"
+  },
+  {
+   "cn": "埃连·冈萨雷斯事件",
+   "en": "Elian Gonzales Case",
+   "code": "03.0279",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "酶联免疫吸附分析",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "03.201",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "04.287",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_生物技术"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "02.063",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_器官移植免疫学"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "04.0167",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品安全_食品安全检测与检疫_生物分析"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay, ELISA",
+   "code": "01.0540",
+   "standard": "感染病学名词",
+   "subject": "感染病学_总论_感染病诊断技术"
+  },
+  {
+   "cn": "酶联免疫吸附分析",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "03.161",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育临床_诊断_女性部分"
+  },
+  {
+   "cn": "酶联免疫吸附试验",
+   "en": "enzyme linked immunosorbent assay,ELISA",
+   "code": "03.671",
+   "standard": "结核病学名词",
+   "subject": "结核病学_结核病诊断_诊断方法_分子生物学与免疫学诊断"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay,ELISA",
+   "code": "16.0222",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生物技术"
+  },
+  {
+   "cn": "以利亚",
+   "en": "Elijah",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "PCR酶联免疫吸附测定",
+   "en": "PCR-ELISA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "肽-酶联免疫吸附测定, 肽-酶联免疫吸附分析",
+   "en": "peptide-ELISA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "埃力斯界限",
+   "en": "Elias bound",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "英巴尔",
+   "en": "Inbal\",\"Eliahu(以色列)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay\",\"ELISA",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay\",\"ELISA",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "酶联免疫吸附测定, 酶联免疫吸附分析",
+   "en": "enzyme-linked immunosorbent assay\",\"ELISA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay\",\"ELISA",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "酶联免疫吸附试验",
+   "en": "enzyme-linked immunoadsordent assay， ELISA",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "enzyme-linked immunosorbent assay(ELISA)",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "酶联免疫吸附测定",
+   "en": "ELISA （=enzyme-linked immunosorbent assay）",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "莫沙夫",
+   "en": "Second Aliyah",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "酶联免疫吸附试验",
+   "en": "enzyme-linked immunoadsordent assay, ELISA",
+   "code": "1.5.1.10",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "酶联免疫吸附试验",
+   "en": "enzyme-linked immunosorbent assay, ELISA",
+   "code": "2.1.1.72",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  }
+ ],
+ "error": null,
  "raw": null
 }
