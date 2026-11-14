@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""原文 Markdown 镜像生成器（yuanwen/）——用户 2026-10-27 裁定。
+r"""原文 Markdown 镜像生成器（yuanwen/）——用户 2026-10-27 裁定。
 
 把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<letter>/<slug>.md：
 - 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：yuanwen/<letter>/<slug>.md，letter=slug 首字符
@@ -422,6 +422,13 @@ def _sanitize_table_html(seg, slug):
                          m.group(1), slug, m.group(2), m.group(3)),
                      seg, flags=re.I)
     seg = seg.replace('|', '&#124;')
+    # 反斜杠紧邻 `<`（源文 \ 算子贴标签）：md 渲染层把 \< 当转义，吞反斜杠
+    # 且让标签闭合变孤儿（Vue 编译失败）；翻倍转义保字面反斜杠，幂等
+    seg = re.sub(r'(?<!\\)\\<', lambda m: '\\\\<', seg)
+    # 裸 `*` 转实体：透传段与真标签之间的文本 `*` 会被 markdown 强调规则跨
+    # 标签配对成 <em>（nonwellfounded 树图 * 节点实证，2026-11-14 构建红），
+    # 制造横跨真标签的非法嵌套；实体形态不参与配对，渲染所见不变
+    seg = seg.replace('*', '&#42;')
     # HTML 段压成单行：md 管道表一行一条，段内换行会把外层表行打断；
     # HTML 语义不依赖空白（无 <pre>），实体保持原样
     return re.sub(r'[ \t\r\n\f\v]+', ' ', seg).strip()

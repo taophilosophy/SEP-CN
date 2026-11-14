@@ -17,7 +17,12 @@
 * `--all-baselined --summary`：1872 转换 0 失败，summary 链接改写 0；他会已于当日晨以同代码全量重转入库（baseline converted_at 00:28–01:06 其时钟），本会话幂等复跑仅 17 文件差（他会 015 偿还轴定点重转），重转产物状态与 HEAD 一致。
 * 归一化回归扫描（备份 vs 现行）：**2420 未变 / 1 OTHER / 增删 0**。OTHER 唯一例 `e/epistemology-evolutionary.md`：备份侧 `\frasl` 为手改漂移，重转后回归 en 源原形 `\frac{p_i \cdot w_i}{\overline{w}}`（已对 en 逐字核对，转换器输出正确，漂移纠正）。
 * 图片轴 13 词条逐件定性（`bin/t023_img_qualify.py`）：25 处「镜像缺图」全部为 PDF 注释内专用图（转换器剥注释正确，镜像=Web 版语义）＋5 处 yw 在场（t020_img 只认 md 图语法，工具视野限制）。**020 图片轴真缺陷 0**。
-* **开放阻塞**：specs/024 登记 `bun run build` 对重转内容为红（nonwellfounded-set-theory、typelogical-grammar 在 Vue 编译层报缺闭合/非法闭合标签）。023 复现排查进行中（protectMath 无嫌疑、透传 HTML 标签平衡已验证），待全量构建日志定位；修复归本战役（转换器内容或 math-plugin 白名单加固二选一）。
+* **构建阻塞修复（2026-11-14 会话 1，两根因均实证、单测锁定）**：specs/024 登记 `bun run build` 红于 nonwellfounded-set-theory、typelogical-grammar（Vue 编译层）。复现链：vitepress createMarkdownRenderer(attrs:false) + mathPlugin + @vue/compiler-sfc compileTemplate，全链复得同错。
+  - **根因 A（反斜杠紧邻标签）**：en 语言学的 `\` 算子紧贴 `<em>`（typelogical-grammar 规则表 103 处、nonwellfounded 7 处），透传段原样带出后 markdown 把 `\<` 当转义——反斜杠被吃（内容丢失）且 `</em>` 变孤儿。修：`_sanitize_table_html` 内 `(?<!\\)\\<` → `\\\\<`（幂等；LaTeX 序列不受影响；en 内 `\\&lt;` 实体形态 0 处，inline 路径无此形态、不修）。
+  - **根因 B（裸 `*` 跨标签配对）**：透传段与真标签之间的文本 `*`（nonwellfounded 树图节点弹号）被 markdown 强调规则配成跨真标签的 `<em>` 非法嵌套。修：透传段内 `*` → `&#42;`（实体不参与配对，渲染所见不变；与既有 `|`→`&#124;` 同族；en 内 `\*` 0 处、无 `&` 逃逸连锁）。
+  - 单测 5 例入 `tools/tests/test_yuanwen_backslash.py`（独立文件防并行会话撞车）；test_yuanwen 37 例全绿。
+  - 全量重转复跑：5 文件随两修更新（albert-great、benjamin、envy、nonwellfounded、typelogical），0 失败；两文件全链 Vue 编译通过（script/t023_repro.mjs）。
+  - **待办**：全量 `bun run build` 复跑（后台进行中）→ 绿后本阻塞销账、基线钉随之更新。
 
 ## 基线钉
 

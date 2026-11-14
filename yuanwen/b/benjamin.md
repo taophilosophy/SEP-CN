@@ -137,7 +137,7 @@ In the ebb and flow of its changing rhythms—additions, revisions, reformulatio
 > | (+) | [Daguerre, or the Panorama—only in the 1935 version] |
 > | B. | Grandville, or the World Exhibitions |
 > | C. | Louis Philippe, or the Interior |
-> | D. | Baudelaire, or the Streets of Paris <table class="nobottommargin"> <tbody> <tr> <td rowspan="4">&#8627;</td> <td colspan="2"><em>Charles Baudelaire, A Lyric Poet in the Era of High Capitalism</em></td> </tr> <tr> <td>1.</td> <td>[Baudelaire as Allegorist]</td> </tr> <tr> <td>2.</td> <td>The Paris of the 2nd Empire in Baudelaire <table class="cell-rl nobottommargin"> <tbody> <tr> <td>i.</td> <td>The Boh&egrave;me</td> </tr> <tr> <td>ii.</td> <td>The Flaneur*</td> </tr> <tr> <td>iii.</td> <td>The Modern</td> </tr> </tbody> </table> </td> </tr> <tr> <td>3.</td> <td>[The Commodity as Poetic Object]**</td> </tr> </tbody> </table> |
+> | D. | Baudelaire, or the Streets of Paris <table class="nobottommargin"> <tbody> <tr> <td rowspan="4">&#8627;</td> <td colspan="2"><em>Charles Baudelaire, A Lyric Poet in the Era of High Capitalism</em></td> </tr> <tr> <td>1.</td> <td>[Baudelaire as Allegorist]</td> </tr> <tr> <td>2.</td> <td>The Paris of the 2nd Empire in Baudelaire <table class="cell-rl nobottommargin"> <tbody> <tr> <td>i.</td> <td>The Boh&egrave;me</td> </tr> <tr> <td>ii.</td> <td>The Flaneur&#42;</td> </tr> <tr> <td>iii.</td> <td>The Modern</td> </tr> </tbody> </table> </td> </tr> <tr> <td>3.</td> <td>[The Commodity as Poetic Object]&#42;&#42;</td> </tr> </tbody> </table> |
 > | E. | Haussmann, or the Barricades |
 >
 > | * | Expanded and published as ‘Some Motifs in Baudelaire’ (1940) |
