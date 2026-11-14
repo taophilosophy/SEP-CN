@@ -56,3 +56,8 @@
 | epistemology-evolutionary | `w_i \frasl \overline{w}` / `Kim, Jagwon., 1988` / `”blind-variation…“` / `“ Social learning` | `\frac{p_i\cdot w_i}{\overline{w}}` / `Kim, Jaegwon, 1988` / 引号方向改正 / 去空格 | MathJax 无 \frasl；Jaegwon Kim 通行拼写；引号体例 |
 | albert-great | `“’Mathematics…` / `Super</em> <em>Ethica` | 去多余单引号 / 合为一段斜体 | 题名与书名 |
 | envy | `Liverwright` / `No&uacute;s` / `Ben Ze'ev`（含 notes.html） | `Liveright` / `No&ucirc;s` / `Ben-Ze'ev` | 出版社、期刊、作者姓氏正名 |
+| leibniz-modal | `Dordrect` / `the Freedom on Man` / `( ed.)` / `1978/9` | `Dordrecht` / `the Freedom of Man` / `(ed.)` / `1978/79` | 同页他条式样、书名介词 |
+| leibniz-logic-influence | `1849&ndash;1963` / `Publicatons of the Heinri` / `Thomas Ballet` | `1849&ndash;1863` / `Publications of the Henri` / `Thomas Bassett` | Gerhardt 编数学文集实为 1849–1863；OCR 截断与人名手误 |
+| leibniz-logic-influence | 正文 `(Erdmann 1840, p. 130)`，文献区无 1840 条（1840 条实为 Trendelenburg《Logische Untersuchungen》） | `(Leibniz 1839/40, p. 130)` | 埃尔德曼版著录作 Leibniz 1839/40，同页自相矛盾（②） |
+| scholz | Neurath 1981 条被拆成两条（一条缺篇名与编者） | 合并为 `Gesammelte philosophische und methodologische Schriften, Vol. 2, ed. by R. Haller and H. Rutte` | 结构错位（③） |
+| scholz | `Wissenschaften</em>d,; 106` | `Wissenschaften</em>, 106` | HTML 实体错位（①） |
