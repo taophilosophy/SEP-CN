@@ -166,13 +166,9 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；书目条目照录原文。
 
 ### 原始文献
-
-### 二手文献
-
-### 书目材料
 
 [^appearance-1893]: *Appearance and Reality: A Metaphysical Essay*, Oxford: Clarendon, 1893; second edition, 1897. [[*Appearance and Reality*, second edition, available online](https://archive.org/details/appearanceandrea00braduoft/page/n9/mode/2up)]
 
@@ -199,6 +195,8 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 [^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.)
 
 [^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. 第 1–5 卷收布拉德雷档案中此前未刊的材料，第 6–12 卷为已刊著作的重印。收入：第 1–5 卷，Carol A. Keene 编——第 1 卷：1865–1882：*A Pluralistic Approach to Philosophy*（未刊材料）；第 2 卷：1883–1902：*A Focus on Metaphysics and Psychology*（未刊材料）；第 3 卷：1903–1924：*Refinement and Revision*（未刊材料）；第 4 卷：书信选，1872 年 6 月—1904 年 12 月；第 5 卷：书信选，1905 年 1 月—1924 年 6 月。第 6–12 卷，William J. Mander 编——第 6 卷：“F.H. Bradley: Towards a Portrait”（1961）、“Ethical Studies”（1927）；第 7 卷：*The Principles of Logic* 上卷（1928）；第 8 卷：*The Principles of Logic* 下卷（1928）；第 9 卷：*Appearance and Reality*（1930）；第 10 卷：*Essays on Truth and Reality*（1914）；第 11 卷：*Collected Essays* 第 1 卷（1935）；第 12 卷：*Collected Essays* 第 2 卷（1935）、“Aphorisms”（1930）、“A Note on Christian Morality”（1983）、“A Personal Explanation”（1894）、“Rational Hedonism”（1895）。
+
+### 二手文献
 
 [^airaksinen-2012]: Airaksinen, Timo, 2012, “Desire and Happiness”, *Homo Oeconomicus*, 29(3): 393–412.
 
@@ -340,6 +338,8 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 [^wright-1984]: Wright, Crispin, 1984, “The Moral Organism?”, in Manser and Stock 1984: 77–97.
 
+### 书目材料
+
 [^ingardia-1991]: Ingardia, Richard, 1991, *Bradley: A Research Bibliography*, (Bibliographies of Famous Philosophers), Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University. 请注意，该卷间有排印错误与参考文献讹误，但至今仍是 1991 年以前关于 F.H. 布拉德雷的最完备文献目录。
 
 ## 学术工具
@@ -358,4 +358,4 @@ F. H. 布拉德雷的道德哲学至今仍是哲学史家争论的资源；其�
 
 亚里士多德：伦理学通论 | 布拉德雷，F. H. | 道德品格 | 童年的哲学 | 后果论 | 义务论伦理学 | 德性伦理学 | 自由意志 | 格林，T. H. | 快乐论 | 黑格尔 | 观念论 | 意向性 | 康德：道德哲学 | 密尔 | 至善论 | 西季威克
 
-（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
