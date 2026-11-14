@@ -142371,78 +142371,6 @@
       }
     },
     {
-      "slug": "theory-bioethics",
-      "fetched_at": "2026-10-26T20:47:55Z",
-      "source_url": "https://plato.stanford.edu/entries/theory-bioethics/",
-      "title": "Theory and Bioethics",
-      "authors": [
-        "Flynn, Jennifer"
-      ],
-      "pubinfo": {
-        "first_published": "Nov 25, 2020",
-        "substantive_revision": null
-      },
-      "in_article_markers": true,
-      "zh_doc": "t/theory-bioethics.md",
-      "archinfo": {
-        "latest_edition": "Winter 2022",
-        "latest_change_type": "minor correction",
-        "history": [
-          {
-            "edition": "Spring 2021",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Winter 2020",
-            "change_type": "new, rewritten entry"
-          },
-          {
-            "edition": "Winter 2016",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2016",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2013",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2010",
-            "change_type": "first archived"
-          }
-        ]
-      },
-      "archive_edition": "Winter 2022",
-      "files": [
-        {
-          "path": "en/theory-bioethics/index.html",
-          "sha256": "10bebe300f3018196570c6b62821167416832fda58d5b4d4631076d819a04f7a",
-          "bytes": 91148,
-          "kind": "main"
-        },
-        {
-          "path": "en/theory-bioethics/notes.html",
-          "sha256": "6e48f386976196e310fcee402c59437077952661604ae43a2f8789359d14f0da",
-          "bytes": 15623,
-          "kind": "notes"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/t/theory-bioethics.md",
-        "sha256": "c1d264fc549275da2612b75ec9df6d69b14809dd1a86784bd05ee849711b2c12",
-        "source_sha256": "10bebe300f3018196570c6b62821167416832fda58d5b4d4631076d819a04f7a",
-        "converted_at": "2026-11-14T17:18:54Z",
-        "cite_markers": 94,
-        "cite_defs": 70,
-        "supplements": [],
-        "images": [],
-        "notes": 7
-      }
-    },
-    {
       "slug": "thick-ethical-concepts",
       "fetched_at": "2026-10-26T20:47:56Z",
       "source_url": "https://plato.stanford.edu/entries/thick-ethical-concepts/",
@@ -151721,5 +151649,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T23:35:23Z"
+  "updated_at": "2026-11-14T23:41:25Z"
 }

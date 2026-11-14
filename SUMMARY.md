@@ -880,7 +880,6 @@
   * [\*公共卫生伦理——见公共卫生：公共卫生伦理 public health ethics — see public health: ethics](p/publichealth-ethics.md)
   * [\*人体器官买卖——见人体器官买卖 the sale of human organs — see sale of human organs](o/organs-sale.md)
   * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
-  * [生物伦理理论 Theory and Bioethics (Jennifer Flynn)](t/theory-bioethics.md)
 * [*幸福——见伦理学：古代伦理学 eudaimonia — see Ancient Ethical Theory](e/ethics-ancient.md)
 * [优生学 Eugenics (Inmaculada de Melo-Martin、Sara Goering)](e/eugenics.md)
 * [\*安乐死 euthanasia](README.md)
