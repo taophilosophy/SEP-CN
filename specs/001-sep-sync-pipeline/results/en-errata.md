@@ -115,3 +115,4 @@
 | epictetus | graver-2003 书名与刊名同裹斜体 | 分列斜体 | 斜体（①） |
 | epictetus | `Cambridge :` / `Beyond :` | 去空格 | 排版（①） |
 | epictetus | 重复的 Stadter 1980 条 | 删一 | 重复登记（②） |
+| ethics-deontological | `Similansky` / `Sauders` / `Wedgewood` / `MacMahan` | `Smilansky` / `Saunders` / `Wedgwood` / `McMahan` | 拼写（①②） |
