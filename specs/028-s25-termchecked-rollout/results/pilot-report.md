@@ -47,8 +47,22 @@
 | O5 | s2.4 自动对照需双层过滤（记号＋照录节） | 工具沉淀 `bin/s24-register-diff.py` | 已完成 |
 | O6 | 回退件 s2.5 凭证无步可记（revert 落位即 s2.5_checked） | 凭证随 s3 步 evidence 引用 028 凭证件 | 已实践 |
 | O7 | 「一个」偿还工作量基准：约 40% 违规率×全库频次 | 028 滚动批次按字头推进、逐例判定；不做机改 | 已量化 |
+| O8 | en 文献分类子标题（Primary/Secondary Sources）在 zh 丢失：全库 166 件中 153 件 | 立 `bib-subsection` 判据，入独立审校流程（ADR-0047/specs/030） | 已收编，待批启动 |
+| O9 | `## 脚注` 节位置异构（前 75 / 后 26，无单一正典） | 后续统一候选，待批后入独立审校流程 | 已登记 |
 
-## 六、诚实边界
+## 六、逐段三向对齐与人审判读（2026-11-15 补做，ADR-0043 s2.5 逐段比较的机械前置）
 
-* 本试点＝机检网全量＋增项实测＋1 件深度修复；**15 件的逐段三向人审未完成**（028 滚动主项），全部保留 s2.5_checked，未越权推进 s3。
-* 试点凭证：pilot-sample.json、pilot-machines.json、pilot-tables-full.txt、pilot-density-terms.json、本报告。
+**方法**（`bin/tri-align.py`，凭证 `pilot-tri-align.json`、`pilot-audit-sheet.md`）：zh 标题已汉化，无法按标题名对齐 → **节级序位对齐**（15 件节数除 delmedigo 外全部一一相等）；节内**段级顺序配对**；长度比（zh 汉字数 ÷ en 词数）按 15 件实测标定（逐件中位 1.24–1.63，常态带 0.85–2.6）筛离群。
+
+**覆盖与产出**：1,083 段逐段配对，58 处候选，全部人工判读（en ↔ yuanwen ↔ zh 三方回源）。
+
+* **假阳性两类（系统成因单一）**：①15 件节首段数差——yuanwen 头部有独立作者段（`*Beiser, …*`），zh 按正典并入标题行（rules/07），15 件同源；②locke-on-medicine §7 连环错位——yuanwen 引块被硬换行打碎成多段（一句英文拆 3 段），zh 合并正确，逐段三方核对无内容缺失。另「因此，」独立段接引块＝引块承接同句（yw 同构 `Consequently,`），合体例，非缺陷。
+* **真发现 1：delmedigo 文献分类子标题丢失**（zh 12 节 vs yw 14 节，`### Primary/Secondary Sources` 未保留）。推广实测：**en 带 Primary/Secondary Sources 的 166 件里 zh 丢失 153 件**（试点 4 件源带分类，3 保留 1 丢）——分类信息在译文层丢失，属实质信息缺口。已立 `bib-subsection` 判据收编独立审校流程（ADR-0047、specs/030；已译集合基线 42 件）。
+* **真发现 2：`## 脚注` 节位置异构**（全库 75 件在参考文献前、26 件在后；logic-provability 属多数派，非缺陷）——登记为后续统一候选，待批后入独立审校流程。
+* **结论**：15 件长度比全部落标定带内，**无内容级漏译/增译实锤**；结构缺口两类如上，均已登记。
+
+## 七、诚实边界
+
+* 本试点＝机检网全量＋增项实测＋1 件深度修复＋**逐段定量对齐与候选全判读**；1,083 段的逐段全文三读（逐字比对）未做，属 028 滚动主项——定量信号（段数、长度比、数字集合、外文残留）已覆盖全部段落，候选召回依赖该四信号。全部保留 s2.5_checked，未越权推进 s3。
+* 形态类横向缺陷（W7/W8/O1/O2＋`bib-subsection`＋`pairs`）已收编独立审校流程（ADR-0047、specs/030），**2026-11-15 用户裁定本会话只登记不执行**，批次启动待批。
+* 试点凭证：pilot-sample.json、pilot-machines.json、pilot-tables-full.txt、pilot-density-terms.json、pilot-tri-align.json、pilot-audit-sheet.md、本报告。

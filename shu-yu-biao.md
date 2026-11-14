@@ -1130,7 +1130,7 @@
 | Conventuals | — | 住院派 | ockham | 方济各会史通译（张践、田微《世界中世纪宗教史》作“住院派”，与“守规派”相对；佐证 The Catholic Encyclopedia 条 Order of Friars Minor Conventuals）；2026-11-08 联网复核，撤除原维基引证（ADR-0012 禁令）；凭证 2026-11-08 | 2026-11-08 |
 | convergent series / divergent series | — | 收敛级数／发散级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
 | Conversations (Fuller) | — | 谈话会 | f/fuller-margaret 首译 | 富勒术语（专名化，首现附加引号） | 2026-11-11 |
-| converse | — | 换位（互为换位） | necessary-sufficient | 逻辑学通行（converse 仅交换前后件，与 contraposition 逆否分域）；凭证 2026-11-08 | 2026-11-08 |
+| converse | — | 逆命题（旧形“换位（互为换位）”降为传统逻辑换位操作义注记，见 conversion 行） | necessary-sufficient | 逻辑学通行；2026-11-15 用户裁定待裁条目按前沿哲学论文定：当代逻辑文献通行“逆命题”（A→B 之 converse 为 B→A，“A→B 不等价于其逆命题”为通行表述；本词条源文 converses of each other 即互为逆命题义），与 contraposition 逆否分域不变 | 2026-11-15 |
 | conversely well-founded | — | 逆良基的 | logic-provability | 序结构通行（no infinite ascending chains） | 2026-11-05 |
 | conversio per accidens | — | 限量换位 | 首现（william-sherwood） | 学界惯例（与简单换位相对）；凭证 2026-11-07 | 2026-11-07 |
 | conversion | — | 换位 | lvov-warsaw | 传统逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |

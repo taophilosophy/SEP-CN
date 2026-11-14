@@ -1,0 +1,993 @@
+{
+  "at": "2026-11-15",
+  "scope": "72 条真漂移词条的实际比较（原始行级 diff，基=d0294236f 原始字节）",
+  "results": [
+    {
+      "slug": "academic-freedom",
+      "zh_doc": "a/academic-freedom.md",
+      "translated": true,
+      "hunk_count": 14,
+      "classes": [
+        "属性/链接级（规范化文本等价）",
+        "正文/书名文字",
+        "结构增删"
+      ],
+      "sections": [
+        "导言"
+      ],
+      "hunks": [
+        {
+          "tag": "replace",
+          "base_line": 706,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "maybe built into the idea of, academic freedom. I say &ldquo;a"
+          ],
+          "plus": [
+            "maybe built into the idea of, academic freedom. It is &ldquo;a"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 1604,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "Sullivan 1971; Graham and Montefiore, eds. 1975; Kleinig 1976) but",
+            "over the course of decades, the Kalven Report eventually became the",
+            "standard reference point and articulation of it.</p>"
+          ],
+          "plus": [
+            "Sullivan 1971; Montefiore, ed. 1975; Kleinig 1976) but over the course",
+            "of decades, the Kalven Report eventually became the standard reference",
+            "point and articulation of it.</p>"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 1723,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "universities might face obligations to protect both. I have argued",
+            "(Levy 2024) that talks by outside speakers generally should not be",
+            "analyzed in terms of the speaker&rsquo;s own academic freedom, but"
+          ],
+          "plus": [
+            "universities might face obligations to protect both. Levy (2024)",
+            "argues that talks by outside speakers generally should not be analyzed",
+            "in terms of the speaker&rsquo;s own academic freedom, but rather that"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 1776,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "approaches in general. I have argued (2024) for a metaphorical"
+          ],
+          "plus": [
+            "approaches in general. Levy (2024) has argued for a metaphorical"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 1839,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "Freedom and Boycott Politics,&rdquo; in Akeel Bilgrami and Jonathan",
+            "R. Cole (eds.),",
+            "<em>Who&rsquo;s Afraid of Academic Freedom?</em>, New York: Columbia"
+          ],
+          "plus": [
+            "Freedom and Boycott Politics,&rdquo; in Akeel Bilgrami and Jonathan R.",
+            "Cole (eds.), <em>Who&rsquo;s Afraid of Academic Freedom?</em>, New",
+            "York: Columbia University Press, pp. 293&ndash;315.</li>"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 1980,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "Law and Legal Theory Working Paper Series</em>, No.  845.</li>"
+          ],
+          "plus": [
+            "Law and Legal Theory Working Paper Series</em>, No. 845.</li>"
+          ]
+        },
+        {
+          "tag": "delete",
+          "base_line": 1989,
+          "section": "导言",
+          "class": "结构增删",
+          "minus": [
+            "",
+            "<li>Graham, Andrew W. M., and Alan Montefiore, eds., 1975,",
+            "<em>Neutrality and Impartiality: The University and Political"
+          ],
+          "plus": []
+        },
+        {
+          "tag": "replace",
+          "base_line": 2079,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "Values&rdquo;, in Andrew Graham and Alan Montefiore (eds.),",
+            "<em>Neutrality and Impartiality: The University and Political",
+            "Commitment</em>, London: Cambridge University Press.</li>"
+          ],
+          "plus": [
+            "Values&rdquo;, in Alan Montefiore (ed.), <em>Neutrality and",
+            "Impartiality: The University and Political Commitment</em>, London:",
+            "Cambridge University Press.</li>"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2449,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<ul>",
+            "<li>1940,"
+          ],
+          "plus": [
+            "<ul>",
+            "",
+            "<li>1940,"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2454,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li>1957,"
+          ],
+          "plus": [
+            "<li>1957,"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2457,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li>1964,"
+          ],
+          "plus": [
+            "<li>1964,"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2460,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li>2006,",
+            "<a href=\"https://www.aaup.org/NR/rdonlyres/B3991F98-98D5-4CC0-9102-ED26A7AA2892/0/Garcetti.pdf\">Preserving an Independent Faculty Voice: Academic Freedom After <em>Garcetti v Ceballos</em></a>.  [<a h",
+            ""
+          ],
+          "plus": [
+            "<li>2006,",
+            "<a href=\"https://www.aaup.org/NR/rdonlyres/B3991F98-98D5-4CC0-9102-ED26A7AA2892/0/Garcetti.pdf\">Preserving an Independent Faculty Voice: Academic Freedom After <em>Garcetti v Ceballos</em></a>.",
+            "[<a href=\"https://supreme.justia.com/cases/federal/us/547/410/\" target=\"other\"><em>Garcetti v Ceballos</em></a>,"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2466,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li>2025,"
+          ],
+          "plus": [
+            "<li>2025,"
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 2468,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "",
+            "</ul>",
+            "</li>"
+          ],
+          "plus": [
+            "</ul></li>"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "advance-directives",
+      "zh_doc": "a/advance-directives.md",
+      "translated": true,
+      "hunk_count": 1,
+      "classes": [
+        "属性/链接级（规范化文本等价）"
+      ],
+      "sections": [
+        "Academic Tools"
+      ],
+      "hunks": [
+        {
+          "tag": "replace",
+          "base_line": 1053,
+          "section": "Academic Tools",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li><a href=\"http://www.aafp.org/afp/990201ap/617.html\" target=\"other\">Sample Advance Directive</a>,"
+          ],
+          "plus": [
+            "<li><a href=\"https://www.aafp.org/afp/1999/0201/p617\" target=\"other\">Sample Advance Directive</a>,"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "advance-directives",
+      "zh_doc": "a/advance-directives.md",
+      "translated": true,
+      "hunk_count": 1,
+      "classes": [
+        "属性/链接级（规范化文本等价）"
+      ],
+      "sections": [
+        "Academic Tools"
+      ],
+      "hunks": [
+        {
+          "tag": "replace",
+          "base_line": 1053,
+          "section": "Academic Tools",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<li><a href=\"http://www.aafp.org/afp/990201ap/617.html\" target=\"other\">Sample Advance Directive</a>,"
+          ],
+          "plus": [
+            "<li><a href=\"https://www.aafp.org/afp/1999/0201/p617\" target=\"other\">Sample Advance Directive</a>,"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "altruism-empirical",
+      "zh_doc": "a/altruism-empirical.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "argument",
+      "zh_doc": "a/argument.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "aristotle-psychology",
+      "zh_doc": "a/aristotle-psychology.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "ayn-rand",
+      "zh_doc": "a/ayn-rand.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "behaviorism",
+      "zh_doc": "b/behaviorism.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "benjamin",
+      "zh_doc": "b/benjamin.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "berlin",
+      "zh_doc": "b/berlin.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "cellular-automata",
+      "zh_doc": "c/cellular-automata.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "closure-epistemic",
+      "zh_doc": "c/closure-epistemic.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "compatibilism",
+      "zh_doc": "c/compatibilism.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "concepts",
+      "zh_doc": "c/concepts.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "consequentializing",
+      "zh_doc": "c/consequentializing.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "content-narrow",
+      "zh_doc": "c/content-narrow.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "david-lewis",
+      "zh_doc": "d/david-lewis.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "derrida",
+      "zh_doc": "d/derrida.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "dialectical-school",
+      "zh_doc": "d/dialectical-school.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "early-modern-india",
+      "zh_doc": "e/early-modern-india.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "emotion-Christian-tradition",
+      "zh_doc": "e/emotion-Christian-tradition.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "enhancement",
+      "zh_doc": "e/enhancement.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "epistemic-utility",
+      "zh_doc": "e/epistemic-utility.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "essential-accidental",
+      "zh_doc": "e/essential-accidental.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "experimental-moral",
+      "zh_doc": "e/experimental-moral.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "feminism-aesthetics",
+      "zh_doc": "f/feminism-aesthetics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "feminist-bioethics",
+      "zh_doc": "f/feminist-bioethics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "form-matter",
+      "zh_doc": "f/form-matter.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "freewill",
+      "zh_doc": "f/freewill.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "game-theory",
+      "zh_doc": "g/game-theory.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "genetics",
+      "zh_doc": "g/genetics.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "green",
+      "zh_doc": "g/green.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "heidegger-aesthetics",
+      "zh_doc": "h/heidegger-aesthetics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "ibn-bajja",
+      "zh_doc": "i/ibn-bajja.md",
+      "translated": false,
+      "hunk_count": 3,
+      "classes": [
+        "属性/链接级（规范化文本等价）"
+      ],
+      "sections": [
+        "导言"
+      ],
+      "hunks": [
+        {
+          "tag": "insert",
+          "base_line": 3509,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        },
+        {
+          "tag": "replace",
+          "base_line": 3510,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [
+            "<!--<a href=\"../arabic-islamic-epistemology/\">-->Arabic and Islamic Philosophy, disciplines in: epistemology and philosophy of science<!--</a>-->",
+            "|"
+          ],
+          "plus": [
+            "<!--<a href=\"../arabic-islamic-epistemology/\">-->Arabic and Islamic Philosophy, disciplines in: epistemology and philosophy of science<!--</a>--> |"
+          ]
+        },
+        {
+          "tag": "insert",
+          "base_line": 3516,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "incompatibilism-theories",
+      "zh_doc": "i/incompatibilism-theories.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "infinite-regress",
+      "zh_doc": "i/infinite-regress.md",
+      "translated": false,
+      "hunk_count": 2,
+      "classes": [
+        "属性/链接级（规范化文本等价）"
+      ],
+      "sections": [
+        "导言"
+      ],
+      "hunks": [
+        {
+          "tag": "insert",
+          "base_line": 2101,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        },
+        {
+          "tag": "insert",
+          "base_line": 2113,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "it-moral-values",
+      "zh_doc": "i/it-moral-values.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "justep-intext",
+      "zh_doc": "j/justep-intext.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "kant-leibniz",
+      "zh_doc": "k/kant-leibniz.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "kumaarila",
+      "zh_doc": "k/kumaarila.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "linguistics",
+      "zh_doc": "l/linguistics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "logic-ancient",
+      "zh_doc": "l/logic-ancient.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "logic-provability",
+      "zh_doc": "l/logic-provability.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "madhyamaka",
+      "zh_doc": "m/madhyamaka.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "meaning-holism",
+      "zh_doc": "m/meaning-holism.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "medicine",
+      "zh_doc": "m/medicine.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "metaphysical-explanation",
+      "zh_doc": "m/metaphysical-explanation.md",
+      "translated": false,
+      "hunk_count": 2,
+      "classes": [
+        "属性/链接级（规范化文本等价）"
+      ],
+      "sections": [
+        "导言"
+      ],
+      "hunks": [
+        {
+          "tag": "insert",
+          "base_line": 2340,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        },
+        {
+          "tag": "insert",
+          "base_line": 2364,
+          "section": "导言",
+          "class": "属性/链接级（规范化文本等价）",
+          "minus": [],
+          "plus": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "metaphysics",
+      "zh_doc": "m/metaphysics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "molecular-genetics",
+      "zh_doc": "m/molecular-genetics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "moral-conventional",
+      "zh_doc": "m/moral-conventional.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "moral-responsibility",
+      "zh_doc": "m/moral-responsibility.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "nominalism-mathematics",
+      "zh_doc": "n/nominalism-mathematics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "perception-india",
+      "zh_doc": "p/perception-india.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "phenomenal-intentionality",
+      "zh_doc": "p/phenomenal-intentionality.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "philosophy-mathematics",
+      "zh_doc": "p/philosophy-mathematics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "physics-experiment",
+      "zh_doc": "p/physics-experiment.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "porphyry",
+      "zh_doc": "p/porphyry.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "practical-reason-med",
+      "zh_doc": "p/practical-reason-med.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "preferences",
+      "zh_doc": "p/preferences.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "principle-beneficence",
+      "zh_doc": "p/principle-beneficence.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "reasons-agent",
+      "zh_doc": "r/reasons-agent.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "reasons-internal-external",
+      "zh_doc": "r/reasons-internal-external.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "recursive-functions",
+      "zh_doc": "r/recursive-functions.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "saadya",
+      "zh_doc": "s/saadya.md",
+      "translated": true,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "schopenhauer-aesthetics",
+      "zh_doc": "s/schopenhauer-aesthetics.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "scientific-representation",
+      "zh_doc": "s/scientific-representation.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "self-knowledge",
+      "zh_doc": "s/self-knowledge.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "shared-agency",
+      "zh_doc": "s/shared-agency.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "skepticism",
+      "zh_doc": "s/skepticism.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "spencer",
+      "zh_doc": "s/spencer.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "voltaire",
+      "zh_doc": "v/voltaire.md",
+      "translated": false,
+      "hunk_count": 0,
+      "classes": [],
+      "sections": [],
+      "hunks": []
+    },
+    {
+      "slug": "wittgenstein",
+      "zh_doc": "w/wittgenstein.md",
+      "translated": false,
+      "hunk_count": 1,
+      "classes": [
+        "正文/书名文字"
+      ],
+      "sections": [
+        "导言"
+      ],
+      "hunks": [
+        {
+          "tag": "replace",
+          "base_line": 2208,
+          "section": "导言",
+          "class": "正文/书名文字",
+          "minus": [
+            "<li>Frascola, Pascola, 1994, <em>Wittgenstein&rsquo;s Philosophy of"
+          ],
+          "plus": [
+            "<li>Frascolla, Pasquale, 1994, <em>Wittgenstein&rsquo;s Philosophy of"
+          ]
+        }
+      ]
+    }
+  ]
+}
