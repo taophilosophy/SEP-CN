@@ -242,7 +242,7 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 **《基督对官方基督教的审判》，S. 克尔凯郭尔（** Hvad Christus dømmer om officiel Christendom*）
 **《上帝的不变性：一篇讲演》，S. 克尔凯郭尔（** Guds Uforanderlighed. En Tale*）
 
-## 参考文献（引用注释）
+## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
