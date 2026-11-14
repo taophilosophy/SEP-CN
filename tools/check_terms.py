@@ -41,8 +41,17 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
     except (AttributeError, ValueError):
         pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
-REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
+# 解析/折叠原语唯一实现（specs/033）：norm_key 仍是 A 引号折叠键口径
+# （= register_lib.norm_key_quote），比对语义不变；B/C 口径见 register_lib。
+from tools.register_lib import (HEADER_WORDS, is_data_row,  # noqa: E402,F401
+                                norm_key_quote as norm_key,
+                                parse_registry, parse_registry2_full,  # noqa: E401,F401
+                                parse_registry_full,  # noqa: E401,F401
+                                person_path, split_row, term_path)  # noqa: E401,F401
+REGISTRY = term_path()
+REGISTRY2 = person_path()
 ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                            'orig-missing.txt')
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
@@ -54,9 +63,6 @@ D_CLASSES = ('D1', 'D2', 'D3', 'D4', 'D5', 'n/a')
 LEDGER_EXITS = ('fix', 'register', 'exempt')
 # 译法列尾段疑似词条 slug（小写拉丁＋连字符，前面带分号）：中文译法不会以此收尾
 SLUG_TAIL_RE = re.compile(r'；\s*[a-z][a-z0-9]*(?:-[a-z0-9]+)*\s*$')
-HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
-                '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期',
-                '英语', '中文'}  # 词汇表内嵌第二表头（|英语|中文|）不得当数据行
 
 # 原文列视为「缺」的写法（迁移占位符；英文术语按体例同样填「—」，但不算缺）
 ORIG_BLANK = {'', '—', '–', '--', '-', '－', '——', 'n/a', 'na', '无'}
@@ -128,22 +134,6 @@ _PAREN_RE = re.compile(r'[（(]([^（）()]*)[）)]')
 _VARIANT_SPLIT = re.compile(r'[/／]')
 
 
-
-# 引号/撇号类字符统一折叠（2026-11-10 补遗）：阿拉伯转写的 hamza/ayn（ʾ ʿ U+02BE/02BF）
-# 与弯/直撇号（’ ‘ ʼ ′）在登记册与词汇表间常混用，曾使同一键被算作两个（Ikhwān al-Ṣafāʾ
-# 与 Ikhwān al-Ṣafā’ 互不相等 → 虚假孤儿键，且真实冲突可借此藏身）。
-_QUOTE_FOLD = str.maketrans({'ʾ': "'", 'ʿ': "'", '’': "'",
-                             '‘': "'", 'ʼ': "'", '′': "'", '`': "'"})
-
-
-def norm_key(text):
-    """术语键：剥斜体标记与空白、引号类折叠、变音符折叠（ADR-0013 同人归并）、casefold 比对。"""
-    import unicodedata
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip().translate(_QUOTE_FOLD))
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
-
-
 def translations(cell):
     """译法集合：主形按 / ／ ； 、 ; ， 拆分变体；并吸收注记里的
     亦作"X"/译作"X"（半/全角引号，含"X""Y"连排）变体与书名号《X》主形
@@ -167,87 +157,6 @@ def translations(cell):
     for m in re.finditer(r'《([^《》]{1,60})》', cell):
         variants.add(m.group(1).strip())
     return {v for v in variants if v}
-
-
-def split_row(line):
-    return [c.strip() for c in line.strip().strip('|').split('|')]
-
-
-def is_data_row(cells):
-    # 只校验首列：六列新格式的第二列（原文）允许为空/「—」，不能据此丢弃数据行
-    return (len(cells) >= 2 and cells[0]
-            and cells[0].casefold() not in HEADER_WORDS
-            and not set(cells[0]) <= set(':-— '))
-
-
-def parse_registry2_full(path):
-    """人名表八列解析（2026-11-07 籍属/年代列迁移）。
-
-    返回 rows=[(term, orig, trans, nation, years, first_seen, basis, date, lineno)]。
-    nation/years 为 None 表示「旧六列没有这两列」（区别于新格式留空或填「—」）。
-    术语表仍是六列，此处 nation/years 恒为 None。
-    """
-    rows, warns = [], []
-    if not path or not os.path.exists(path):
-        return rows, warns
-    for lineno, line in enumerate(open(path, encoding='utf-8'), 1):
-        if not line.startswith('|'):
-            continue
-        cells = split_row(line)
-        if not is_data_row(cells):
-            continue
-        n = len(cells)
-        if n >= 8:
-            term, orig, trans = cells[0], cells[1], cells[2]
-            nation, years = cells[3], cells[4]
-            first_seen, basis, date = cells[5], cells[6], cells[7]
-            if n > 8:
-                warns.append('第 %d 行 %d 列（应为 8，已取前 8 列）：%s'
-                             % (lineno, n, term))
-            if not basis:
-                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-        elif n == 6:
-            term, orig, trans = cells[0], cells[1], cells[2]
-            first_seen, basis, date = cells[3], cells[4], cells[5]
-            nation = years = None
-            if not basis:
-                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-        elif n >= 5:
-            term, orig, trans = cells[0], None, cells[1]
-            first_seen = cells[2] if n >= 3 else ''
-            basis, date = cells[3], cells[4]
-            nation = years = None
-            if not basis:
-                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-        elif n == 4:
-            term, orig, trans = cells[0], None, cells[1]
-            first_seen, basis, date = cells[2] if n >= 3 else '', '', cells[3]
-            nation = years = None
-            warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-        else:
-            term, orig, trans = cells[0], None, cells[1]
-            first_seen = cells[2] if n >= 3 else ''
-            basis, date = '', ''
-            nation = years = None
-            warns.append('第 %d 行仅 %d 列（应为 8）：%s'
-                         % (lineno, n, term))
-        rows.append((term, orig, trans, nation, years,
-                     first_seen, basis, date, lineno))
-    return rows, warns
-
-
-def parse_registry_full(path):
-    """返回 rows=[(term, orig, trans, first_seen, basis, date, lineno)] 与解析告警。
-
-    六列（键|原文|译法|出处|依据|日期，2026-11-06 原文列迁移）为标准格式；
-    人名表八列（多「籍属」「生卒/鼎盛年」）由 parse_registry2_full 解析后投影，
-    这里只保留原有七元组签名，故旧工具（term_audit / tl_browser_batch）无需改动。
-    此时 orig=None 表示「旧格式没有原文列」（区别于新格式的留空或填「—」）。
-    """
-    rows2, warns = parse_registry2_full(path)
-    rows = [(t, orig, trans, fs, basis, date, ln)
-            for t, orig, trans, _nation, _years, fs, basis, date, ln in rows2]
-    return rows, warns
 
 
 def person_missing(rows2):
@@ -279,16 +188,6 @@ def write_person_missing(entries, path):
         f.write('\n'.join(lines) + '\n')
     os.replace(tmp, path)
 
-
-
-def parse_registry(path):
-    """兼容旧签名：rows=[(term, trans, first_seen, basis, date, lineno)]。
-
-    列位解析见 parse_registry_full（六列标准格式 + 旧五/四列兼容）。
-    """
-    full, warns = parse_registry_full(path)
-    return [(t, trans, fs, basis, date, ln)
-            for t, _orig, trans, fs, basis, date, ln in full], warns
 
 
 def has_foreign_char(text):
