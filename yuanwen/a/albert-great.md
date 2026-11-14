@@ -263,7 +263,7 @@ The author is indebted to Sylvia Terzian for identifying the most egregious laps
 
 [^michaud-quentin-1966]: Michaud-Quentin, P., 1966, *La psychologie de l’activité chez Albert le Grand*, Paris: Vrin.
 
-[^molland-1980]: Molland, A. G., 1980, “’Mathematics in the Thought of Albertus Magnus,” in J. Weisheipl (ed.) 1980: 463–478.
+[^molland-1980]: Molland, A. G., 1980, “Mathematics in the Thought of Albertus Magnus,” in J. Weisheipl (ed.) 1980: 463–478.
 
 [^müller-2001]: Müller, J., 2001, *Natürliche Moral und philosophische Ethik bei Albertus Magnus*, Münster: Aschendorff.
 
@@ -281,7 +281,7 @@ The author is indebted to Sylvia Terzian for identifying the most egregious laps
 
 [^sturlese-2017]: Sturlese, L., 2017, “§ 28. Albert der Große,” in A. Brungs, V. Mudroch and P. Schulthess (eds.), *Die Philosophie des Mittelalters. Band 4: 13. Jahrhundert*, Basel: Schwabe, 2017, 861–886.
 
-[^tracey-1999]: Tracey, M., 1999, *The Character of Aristotle’s Nicomachean Teaching in Albert the Great’s Super* *Ethica Commentum et Quaestiones (1250–1252)*, doctoral dissertation, Notre Dame, Indiana: University of Notre Dame.
+[^tracey-1999]: Tracey, M., 1999, *The Character of Aristotle’s Nicomachean Teaching in Albert the Great’s Super Ethica Commentum et Quaestiones (1250–1252)*, doctoral dissertation, Notre Dame, Indiana: University of Notre Dame.
 
 [^tremblay-2007]: Tremblay, B., 2007, “Nécessité, nature et rôle de l’art logique, d’après Albert le Grand,” *Bochumer philosophisches Jahrbuch für Antike und Mittelalter*, 12: 97–156.
 
