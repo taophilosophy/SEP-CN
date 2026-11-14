@@ -48,3 +48,6 @@ behaviorism、emotion-Christian-tradition、kant-leibniz、logic-provability—�
 
 1. A 表 9 件 done 词条采用 rework-open（保持 done、只走变更段）还是 reopen（重走）——先例与 005 派工规则支持前者，请裁定；
 2. 9 件中 emotion-Christian-tradition、logic-provability、academic-freedom、incompatibilism-theories… 勘误在账者随迁次序。
+
+> **⚠ 2026-11-15 同步后升级**：closure-epistemic 与 saadya 经全量回源核对发现被上游**同 slug 换血重发**（新作者 Alspector-Kelly／Hegedus，首发 2026-11-04／11-12）——中文译文对应旧文本已整体失效，属**重译级**（retranslate）而非 update；kant-leibniz 为正常实质修订（2026-11-14）。三件 zh 题注已机械对齐新 baseline；正文重译/更新由 reopen 后的任务承接。
+
