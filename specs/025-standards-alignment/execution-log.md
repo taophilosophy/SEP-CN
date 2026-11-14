@@ -75,4 +75,5 @@
 | E5 | ADR-0042 + 索引行 | 索引含 0042 |
 | E6 | rules/README：规则索引 08 行、清单节入口句、快速判例增行；AGENTS.md 开工第 0 步指针 | 指针在位 |
 | E7 | 文本卫生：rules/02 与 ADR-0041 的 28 对直角引号归一弯引号（他会遗留违例，check_quotes 曾红） | check_quotes 0 违例 |
+| E8 | 单测适配：check_file 改返回 (issues, warnings) 元组（C7 connector-scan）后 test_check_style 助手取首元 | unittest 245 OK |
 | 收工 | check_all 全量复跑 | 10 项绿 |
