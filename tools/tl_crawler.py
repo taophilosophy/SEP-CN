@@ -162,6 +162,20 @@ class Crawler:
         self.page.goto(WARM.format(q=q), wait_until='domcontentloaded')
         self.page.wait_for_timeout(extra_wait)
 
+    def activate(self, token):
+        """廉价续窗：重放 tmDatabase/listFront（2026-11-14 捕获实验证实的激活器）。
+
+        一次 ctx.request 约 0.3s，取代导航式 warm（~12s）。窗口 TTL≈120s，
+        调用方按 warm_every（<TTL）主动续窗即可做到零降级。
+        """
+        try:
+            self.ctx.request.get(ACTIVATE_URL,
+                                 headers={'X-Access-Token': token or ''}, timeout=15000)
+        except Exception:
+            return False
+        self.last_activate = time.time()
+        return True
+
     # ---- 单次查询 ----
     def query(self, term, token):
         from urllib.parse import quote
