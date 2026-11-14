@@ -119,7 +119,7 @@ Ramsey next looks to see if a logical distinction between subject and predicate 
 
 Since the difference between ‘Socrates’ and ‘wise’ turns out to be subjective in this way, it tells us nothing about the objective classification of the constituents of atomic facts. Moreover, Ramsey continued, once we are explicit about the wide and narrow scope occurrences of atomic expressions, there is no reason to think that any of them are especially incomplete. Ramsey held that it is only the ‘biassed interest’ of mathematicians, i.e. their extensionalism, that make things appear otherwise (1925b, 416). They neglect to distinguish between complex predicates which really do require variables for their depiction ($xRa \lor xSb$) and atomic expressions which don’t (‘$f$’ in ‘$fa$’), because they are only interested in the extensional matter whether these expressions are true or false of the same things. But to avoid ‘useless complication’ mathematicians treat the latter terms as requiring variables for their representation too (‘$fx$’), hence producing the appearance that there is some class of atomic terms which are incomplete because they require variables (1925b, 414–5). But, Ramsey continued, if it were not for the biased interests of the mathematician, we would allow ‘$f$’ to stand alone, so removing the appearance of an especially incomplete class of atomic terms.
 
-Having completed his examination, Ramsey concluded that we can know nothing whatever about the classification of the constituents of atomic facts. But when he came to reprise his argument a year later in “Universals and ‘the Method of Analysis’” (1926b), Ramsey adopted the more modest conclusion that whilst we cannot know *a priori* the forms of the atomic facts we may yet know them *a posteriori*: “When I wrote my article I was sure that it was impossible to discover atomic propositions by actual analysis. Of this I am now very doubtful, and I cannot be sure that they may not be discovered to be all of one or another of a series of forms which can be expressed by $R_1(x)$, $R_2(x,y)$, $R_3(x,y,z)$…. This I admit may be found to be the case, but no one can as yet be certain what atomic propositions there are, it cannot be positively asserted; and there is no strong presumption in its favour, for I think that the argument of my article establishes that nothing of the sort can be known *a priori*” (1926b, 31) (see Methven 2018 for discussion of the relationship between Ramsey 1925b and 1926b)[^methven-2018].
+Having completed his examination, Ramsey concluded that we can know nothing whatever about the classification of the constituents of atomic facts. But when he came to reprise his argument a year later in “Universals and ‘the Method of Analysis’” (1926b), Ramsey adopted the more modest conclusion that whilst we cannot know *a priori* the forms of the atomic facts we may yet know them *a posteriori*: “When I wrote my article I was sure that it was impossible to discover atomic propositions by actual analysis. Of this I am now very doubtful, and I cannot be sure that they may not be discovered to be all of one or another of a series of forms which can be expressed by $R_1(x)$, $R_2(x,y)$, $R_3(x,y,z)$…. This I admit may be found to be the case, but no one can as yet be certain what atomic propositions there are, it cannot be positively asserted; and there is no strong presumption in its favour, for I think that the argument of my article establishes that nothing of the sort can be known *a priori*” (1926b, 31) (see Methven 2018 for discussion of the relationship between Ramsey 1925b and 1926b)[^ramsey-1925b][^ramsey-1926b][^methven-2018].
 
 Ramsey’s less well-known arguments against the ontology of facts and propositions appear in the context of Ramsey’s discussion of the nature of truth and belief. In “Facts and Propositions” (1927a) he argued against the existence of facts on the grounds that the expression ‘the fact that…’ cannot be completed to make either a name or a description of a fact (1927a, 155–7). Indeed, he claimed, ‘the fact that…’ disappears upon paraphrase of the contexts in which it occurs. As Ramsey put the point (1927a, 159):
 
@@ -372,7 +372,7 @@ Ramsey’s main contributions to the philosophy of science stem from three posth
 
 ### 7.1 Laws
 
-In both papers on laws, Ramsey (1928b, §2; 1929b, [FM] 237–38) considers accidental generalization to be conjunctions ([NP], n. 40; cf. Ramsey 1927a, [FM] 152–53) and thus normal propositions (for the relation to Wittgenstein, see §2). In “Universals of Law and Fact”, Ramsey (1928b, §12) considers laws of nature to be propositions with a special status:
+In both papers on laws, Ramsey (1928b, §2; 1929b, [FM] 237–38) considers accidental generalization to be conjunctions ([NP], n. 40; cf. Ramsey 1927a, [FM] 152–53)[^ramsey-1927a] and thus normal propositions (for the relation to Wittgenstein, see §2). In “Universals of Law and Fact”, Ramsey (1928b, §12) considers laws of nature to be propositions with a special status:
 
 > [E]ven if we knew everything, we should still want to systematize our knowledge as a deductive system, and the general axioms in that system would be the fundamental laws of nature. The choice of axioms is bound to some extent to be arbitrary, but what is less likely to be arbitrary if any simplicity is to be preserved is a body of fundamental generalizations, some to be taken as axioms and others deduced.
 
@@ -517,7 +517,7 @@ Ramsey’s Theorems were later popularised in an influential paper of Paul Erdő
 
 Ramsey’s Theorems themselves have yielded numerous important applications, generalizations and concepts in other branches of mathematics. For example the notion of a *Ramsey Cardinal*, $\kappa$, where we require that for a set $X$ of cardinality $\kappa$ and any partition of the finite subsets of $\kappa$ into two sets there is a subset $Y$ of $X$, also of cardinality $\kappa$, such that any two finite subsets of $Y$ of the same size are in the same part of the partition. Ramsey Cardinals were one of the first examples of *large cardinals*, a central area of research in Set Theory. One feature of such cardinals is that they are so large that their existence cannot be proved within ZFC.
 
-In addition to these contributions to mathematics Frank Ramsey (1925a) devoted much effort to addressing what were by then seen as problems in Whitehead & Russell’s attempt in their *Principia Mathematica* (1910–1913), to base mathematics on formal logic, an enterprise which Ramsey initially strongly supported though he ultimately became disappointed with his efforts to correct its shortcomings, see Paul 2012 (232). Since then this approach to the foundations of mathematics has been very largely overshadowed amongst mathematicians by the practically simpler device of assuming as a foundation Zermelo-Fraenkel Set Theory.
+In addition to these contributions to mathematics Frank Ramsey (1925a)[^ramsey-1925a] devoted much effort to addressing what were by then seen as problems in Whitehead & Russell’s attempt in their *Principia Mathematica* (1910–1913), to base mathematics on formal logic, an enterprise which Ramsey initially strongly supported though he ultimately became disappointed with his efforts to correct its shortcomings, see Paul 2012 (232). Since then this approach to the foundations of mathematics has been very largely overshadowed amongst mathematicians by the practically simpler device of assuming as a foundation Zermelo-Fraenkel Set Theory.
 
 ## References（引用注释）
 
@@ -596,6 +596,40 @@ which holds just in case
 > $des(\omega_1) - des(\omega_2) = des(\omega_3) - des(\omega_4)$
 
 Since it is assumed that $des$ represents the subject’s utilities, it follows that the difference in utility between $\omega_1$ and $\omega_2$ is equal to that between $\omega_3$ and $\omega_4$ when the subject is indifferent between the gambles ‘$\omega_1$ if $p$, $\omega_4$ otherwise’ and ‘$\omega_2$ if $p$, $\omega_3$ otherwise’, for some ethically neutral proposition $p$ of probability half.
+
+[^ramsey-1923]: 1923, Critical Notice of L. Wittgenstein’s *Tractatus Logico-Philosophicus*, *Mind*, 32(128): 465–78.
+
+[^ramsey-1925a]: 1925a, “The Foundations of Mathematics”, *Proceedings of the London Mathematical Society* (Series 2), 25: 338–384; reprinted in [FM], pp. 1–61, doi:10.1112/plms/s2-25.1.338.
+
+[^ramsey-1925b]: 1925b, “Universals”, *Mind*, XXXIV: 401–17.
+
+[^ramsey-1926a]: 1926a, “Truth and Probability”, in [FM], 156–198; reprinted in [PP], pp. 52–94; also reprinted in *Studies in Subjective Probability*, H. E. Kyburg, Jr. and H. E. Smokler (eds.), 2nd edition, New York: R. E. Krieger Publishing Company, 1980, 23–52.
+
+[^ramsey-1926b]: 1926b, “Universals and the ‘Method of Analysis’”, *Proceedings of the Aristotelian Society*, 6: 17–26.
+
+[^ramsey-1926c]: 1926c, “Mathematical Logic”, *The Mathematical Gazette*, 13(184): 185–94.
+
+[^ramsey-1927a]: 1927a, “Facts and Propositions”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 7 (1927): 153–170; reprinted in [FM], pp. 138–155; reprinted in [PP], pp. 34–51.
+
+[^ramsey-1927b]: 1927b, “A Contribution to the Theory of Taxation”, *The Economic Journal*, 37(145): 47–61.
+
+[^ramsey-1928a]: 1928a, “A Mathematical Theory of Saving”, *The Economic Journal*, 38(152): 543–559.
+
+[^ramsey-1928b]: 1928b, “Universals of Law and of Fact”, in [EP], pp. 128–133; reprinted in [PP], pp. 140–144.
+
+[^ramsey-1928c]: 1928c, “Further Remarks (Postscripts) to Truth and Probability”, in [FM], pp. 199–211 (‘Reasonable Degree of Belief’, ‘Statistics’, and ‘Chance’); reprinted with an additional 1929 postscript (‘Probability and Partial Belief’) in [PP], pp. 95–109.
+
+[^ramsey-1929a]: 1929a, “Theories”, in [FM], pp. 212–236.
+
+[^ramsey-1929b]: 1929b, “General Propositions and Causality”, in [FM], 237–255; reprinted in [PP], 145–163.
+
+[^ramsey-1929c]: 1929c, “The Nature of Truth”, in [OT], pp. 6–24.
+
+[^ramsey-1929d]: 1929d, “Arguments for the Coherence Theory of Truth Refuted”, in [OT], pp. 36–42.
+
+[^ramsey-1930]: 1930, “On a Problem of Formal Logic”, *Proceedings of the London Mathematical Society* (Series 2), 30: 264–286; reprinted in [FM], 82– 111, doi:10.1112/plms/s2-30.1.264
+
+[^ramsey-1931]: 1931, “Causal Qualities,” in [FM], pp. 260–262; [original manuscript available online](https://www.repository.cam.ac.uk/bitstream/handle/1810/194723/CausalQualities.pdf?sequence=1&isAllowed=y).
 
 [^mr-1922]: “Mr. Keynes on Probability”, *The Cambridge Magazine*, 11(1) (1922): 3–5.
 
