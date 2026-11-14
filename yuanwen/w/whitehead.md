@@ -2,7 +2,7 @@
 
 *Desmet, Ronald, Irvine, Andrew David*
 
-[![Photo of Whitehead](../assets/whitehead/whitehead-photo-by-richard-wood.jpg)](../assets/whitehead/whitehead-photo-by-richard-wood.jpg) Photo by Richard Carver Wood
+[![Photo of Whitehead](../assets/whitehead/whitehead-photo-by-richard-wood.jpg)](../assets/whitehead/whitehead-photo-by-richard-wood.jpg) *Photo by Richard Carver Wood*
 # Alfred North Whitehead
 **First published Tue May 21, 1996; substantive revision Thu Nov 10, 2022**
 

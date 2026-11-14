@@ -337,9 +337,9 @@ The author wishes to acknowledge the valuable comments on this version of the ar
 
 [^darwin-1872]: –––, 1872, sixth edition, [[*Origin* sixth edition available online](http://darwin-online.org.uk/content/frameset?pageseq=100&itemID=F391&viewtype=side)
 
-[^darwin-1868]: –––, 1868, The Variation of Animals and Plants Under Domestication, two volumes, London: John Murray. First edition available online
+[^darwin-1868]: –––, 1868, *The Variation of Animals and Plants Under Domestication*, two volumes, London: John Murray. First edition available online
 
-[^darwin-1871]: –––, 1871 [1981], The Descent of Man, and Selection in Relation to Sex, two volumes, London: John Murray. Reprinted, ed John T. Bonner and Robert May, Princeton: Princeton University Press [[*Descent* 1871 available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html)]
+[^darwin-1871]: –––, 1871 [1981], *The Descent of Man, and Selection in Relation to Sex*, two volumes, London: John Murray. Reprinted, ed John T. Bonner and Robert May, Princeton: Princeton University Press [[*Descent* 1871 available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html)]
 
 [^darwin-1872-2]: –––, 1872, *Expression of the Emotions in Man and the Animals*, London: John Murray. [[*Expression* available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheExpressionoftheEmotions.html)]
 

@@ -606,7 +606,7 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [^note-1]: The *locus classicus* here is Tarski 1953. A recent treatment of formalized interpretability is Joosten 2004.
 
-[^note-2]: One will want to impose various (structural) constraints on the interpretation, to avoid trivial ones that map for example all formulas of U to an axiom of V.
+[^note-2]: One will want to impose various (structural) constraints on the interpretation, to avoid trivial ones that map for example all formulas of *U* to an axiom of *V*.
 
 [^note-3]: Whenever a specific page is referred to of a text that is originally not in English, a reference to the corresponding page of an English translation, if available, is given as well.
 
@@ -628,7 +628,7 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [^note-11]: Dummett (2000: 32) emphasizes that the conviction that there will always be open problems does not suffice to turn weak counterexamples constructed by the oscillatory number technique into strong ones. For that conviction is, he says, itself not a theorem or even a mathematical proposition.
 
-[^note-12]: , the infinite form $\forall x\in \mathbf{R}(P(x) \vee \neg P(x))$ is contradictory for certain P; but that is, as Brouwer remarks, not relevant to the project of devising finitary consistency proofs (Brouwer 1928A2: 378 [Mancosu 1998: 43])[^mancosu-1998].
+[^note-12]: , the infinite form $\forall x\in \mathbf{R}(P(x) \vee \neg P(x))$ is contradictory for certain *P*; but that is, as Brouwer remarks, not relevant to the project of devising finitary consistency proofs (Brouwer 1928A2: 378 [Mancosu 1998: 43])[^mancosu-1998].
 
 [^note-13]: For a similar report by Freudenthal, see van Dalen 2001a: 359.
 

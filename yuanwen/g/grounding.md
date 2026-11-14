@@ -174,7 +174,7 @@ How might proponents of transitivity respond? Litland (2013) proposes that we ca
 
 **(4)**
 
-[*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* has determinate shape S].
+[*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* has determinate shape *S*].
 
 Given that (2) also concerns full grounding, the transitive inference from (4) and (2) is the following:
 
@@ -229,7 +229,7 @@ As for further potential theoretical applications, some have proposed grounding-
 - the historically important view that everything has an explanation (Amijee 2020a; Dasgupta 2016; K. McDaniel 2019; Schnieder & Steinberg 2015)[^dasgupta-2016][^mcdaniel-2019][^mcdaniel-2019-2];
 - how multiple objects can exist at the same place and time (Saenz 2015)[^saenz-2015];
 - the view that only present things exist (Baron 2014);
-- the relation between being F (e.g., being blue) and having the property F-ness (e.g., having blueness) (Dixon 2018)[^dixon-2018];
+- the relation between being *F* (e.g., being blue) and having the property *F*-ness (e.g., having blueness) (Dixon 2018)[^dixon-2018];
 - how mental events (e.g., pain) can cause physical events (e.g., wincing) given that such physical events have physical causes (e.g., C-fiber firing) (Clark & Wildman 2018; Kroedel & Schulz 2016)[^clark-2018][^kroedel-2016]; Stenwall 2021; Tiehen 2015).
 
 This is by no means an exhaustive list—there is something of a cottage industry of developing grounding-theoretic accounts of items of philosophical interest.
@@ -294,7 +294,7 @@ $a_{n+1}$ is not *F*, $a_{n+2}$ is not *F*, … and $a_{n+m}$ is not *F*.
 
 **(6)**
 
-For any x, $x = a_1$ or $x = a_2$, or … $x = a_{n+m}$.
+For any *x*, $x = a_1$ or $x = a_2$, or … $x = a_{n+m}$.
 
 does so. And note that these facts together necessitate (3). But what is the grounding profile of (6)? Intuitively,
 

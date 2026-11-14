@@ -135,7 +135,7 @@ If we apply this construction to the family $A_n = \E_{m,2n}$ we see that $(\Sig
 
 ### 2.4 Dependent Types
 
-In intuitionistic type theory there are primitive type formers $\Sigma$ and $\Pi$ for general sums and products, and $\I$ for identity types, analogous to the set-theoretic constructions described above. The *identity type* $\I(\N,m,n)$ corresponding to the set $\E_{m,n}$ is an example of a *dependent type* since it depends on the elements $m$*,* n : $\N$. It is also called an *indexed family of types* since it is a family of types indexed by $m$ and $n$. Similarly, we can form the general disjoint sum $\Sigma x {:} A.\, B$ and the general cartesian product $\Pi x {:} A.\, B$ of such a family of types $B$ indexed by $x {:} A$, corresponding to the set theoretic sum and product operations above.
+In intuitionistic type theory there are primitive type formers $\Sigma$ and $\Pi$ for general sums and products, and $\I$ for identity types, analogous to the set-theoretic constructions described above. The *identity type* $\I(\N,m,n)$ corresponding to the set $\E_{m,n}$ is an example of a *dependent type* since it depends on the elements $m$*,* *n :* $\N$. It is also called an *indexed family of types* since it is a family of types indexed by $m$ and $n$. Similarly, we can form the general disjoint sum $\Sigma x {:} A.\, B$ and the general cartesian product $\Pi x {:} A.\, B$ of such a family of types $B$ indexed by $x {:} A$, corresponding to the set theoretic sum and product operations above.
 
 Dependent types can also be defined by primitive recursion. An example is the type of $n$-tuples $A^n$ of elements of type $A$ and indexed by $n {:} N$ defined by the equations
 

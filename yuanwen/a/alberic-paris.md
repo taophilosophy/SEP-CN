@@ -87,7 +87,7 @@ Alberic thus wants to distinguish between two radically different types of whole
 
 ## 3. Language and Mind
 
-Alberic developed striking and distinctive views on the relationship between thought and spoken language, largely in the course of interpreting Aristotle’s *Peri Hermeneias*. Because many of these views criticize Abelard’s doctrines, it will be useful to present some Abelardian positions en passant. For a more general overview of Abelard’s thought, readers are encouraged to consult King and Arlig (2018 [2023]), Marenbon (1997, 2013a), and the studies in Brower and Guilfoy (eds, 2004).
+Alberic developed striking and distinctive views on the relationship between thought and spoken language, largely in the course of interpreting Aristotle’s *Peri Hermeneias*. Because many of these views criticize Abelard’s doctrines, it will be useful to present some Abelardian positions *en passant*. For a more general overview of Abelard’s thought, readers are encouraged to consult King and Arlig (2018 [2023]), Marenbon (1997, 2013a), and the studies in Brower and Guilfoy (eds, 2004).
 
 ### 3.1 No Thought is Composite
 

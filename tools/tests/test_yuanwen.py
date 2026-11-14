@@ -77,6 +77,15 @@ class TestInline(unittest.TestCase):
         self.assertEqual(inline_to_md('<em>abductive </em>ones'),
                          '*abductive* ones')
 
+    def test_em_with_attributes_keeps_italics(self):
+        # 2026-11-14 全量回归（缺陷六）：带属性的 em 旧式只认裸 <em>，
+        # 标签被兜底剥除、斜体静默丢失（全库 2568 文件 37898 处）
+        self.assertEqual(inline_to_md('<em lang="zh-Latn-pinyin">dao</em> 道'),
+                         '*dao* 道')
+        self.assertEqual(
+            inline_to_md('<em style="text-indent:-2em">The Variation</em>, two volumes'),
+            '*The Variation*, two volumes')
+
 
 class TestBlocks(unittest.TestCase):
     def test_preamble_rendered(self):

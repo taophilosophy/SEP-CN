@@ -516,7 +516,7 @@ See also the broad discussion in Buridan (2001), 8.4.3.
 
 [^schuessler-2022]: –––, 2022, “Reply to Mark Thakkar,” *Early Science and Medicine*, 27: 232–234.
 
-[^schütz-1958]: Schütz, L., 1958, Thomas-Lexikon, Stuttgart: Frommann.
+[^schütz-1958]: Schütz, L., 1958, *Thomas-Lexikon*, Stuttgart: Frommann.
 
 [^schwartz-2019]: Schwartz, D., 2019, *The Political Morality of the Late Scholastics*, Cambridge: Cambridge University Press.
 

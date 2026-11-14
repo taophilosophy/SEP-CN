@@ -195,7 +195,7 @@ The Axiom of Choice is an object of suspicion to some mathematicians because it 
 
 $$ \forall x \in A\exists y(\phi(x,y)) \rightarrow \exists C\forall x \in A\exists y \in C(\phi(x,y)) $$
 
-Note that $\phi$ here does not need to be functional; if for every $x \in A$, there are some y's such that $\phi(x, y)$, there is a set such that for every $x \in A$, there is $y$ *in that set* such that $\phi(x, y)$. One way to build this set is to take, for each $x \in A$, all the $y$s of minimal rank such that $\phi(x, y)$ and put them in $C$. In the presence of all other axioms of *ZFC*, Replacement and Collection are equivalent; when the axiomatics is perturbed (or when the logic is perturbed, as in intuitionistic set theory) the difference becomes important. The Axiom of Foundation is equivalent to $\in$-Induction here but not in other contexts: $\in$-Induction is the assertion that for any formula $\phi$:
+Note that $\phi$ here does not need to be functional; if for every $x \in A$, there are some *y'*s such that $\phi(x, y)$, there is a set such that for every $x \in A$, there is $y$ *in that set* such that $\phi(x, y)$. One way to build this set is to take, for each $x \in A$, all the $y$s of minimal rank such that $\phi(x, y)$ and put them in $C$. In the presence of all other axioms of *ZFC*, Replacement and Collection are equivalent; when the axiomatics is perturbed (or when the logic is perturbed, as in intuitionistic set theory) the difference becomes important. The Axiom of Foundation is equivalent to $\in$-Induction here but not in other contexts: $\in$-Induction is the assertion that for any formula $\phi$:
 
 $$ \forall x((\forall y \in x(\phi(y)) \rightarrow \phi(x)) \rightarrow \forall x\phi(x) $$
 

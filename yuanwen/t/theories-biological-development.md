@@ -172,7 +172,7 @@ A field is organized from center to periphery, with a focal point of maximal int
 
 ### 8.2 Turing’s reaction-diffusion model
 
-Eschewing genetics, Turing’s theory of morphogenesis (1952) sought to explain how patterns first emerge in an early embryo. His answer was a simple model consisting of two reaction-diffusion equations, representing chemical “morphogens” X and Y diffusing through a tissue at rates determined by constants $D_x$ and $D_y,$ coupled to chemical reactions with effects represented by functions f and g:
+Eschewing genetics, Turing’s theory of morphogenesis (1952) sought to explain how patterns first emerge in an early embryo. His answer was a simple model consisting of two reaction-diffusion equations, representing chemical “morphogens” *X* and *Y* diffusing through a tissue at rates determined by constants $D_x$ and $D_y,$ coupled to chemical reactions with effects represented by functions *f* and *g*:
 
 $$\begin{align} X_t &= f(X,Y) + D_x\nabla^2X \\ Y_t &= g(X,Y) + D_y\nabla^2Y \end{align}$$
 

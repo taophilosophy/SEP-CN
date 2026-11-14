@@ -228,7 +228,7 @@ In decision theory, a standard set-up for representing choice under uncertainty 
 | Probability | $\pi(s^*)$ | $\pi(s^{**})$ | $\pi(s^{***})$ | $\pi(s^{****})$ |
 | Outcome | $x$ | $y$ | $z$ | $zz$ |
 
-*Table 4.* *Explanation*: $\pi(s)$ is the probability of a given state s.
+*Table 4.* *Explanation*: $\pi(s)$ is the probability of a given state *s.*
 
 The set of prospects (for a given group of states-of-nature) is an abstract representation of a decisionmaker’s choice situation. The decisionmaker (Dolores) is *uncertain* about the features of the world that determine which outcome would result, for any given choice available to her. Dolores’ uncertainty is represented in the assignment of probabilities to the states-of-nature; the probability of a state-of-nature represents her degree of belief that this is the actual state-of-nature. Each choice available to Dolores corresponds to one or another prospect; the prospect says what the outcome would be, for each of the states-of-nature to which Dolores assigns some (nonzero) degree of belief.
 

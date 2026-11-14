@@ -1268,7 +1268,7 @@ in *FOL* when there are no free occurrences of $\nu$ in $\varphi.$
 
 [^note-58]: In particular, if one simply replaces line 1 in the SQML proof of BF* with its **FQ2** counterpart, viz.,
 
-| 1'. | $\forall \sfx \Box \neg \sfB\sfx \to (\exists \sfy\,\sfy=\sfx \to \Box \neg \sfB\sfx)$ | **FQ2** |
+| 1*'*. | $\forall \sfx \Box \neg \sfB\sfx \to (\exists \sfy\,\sfy=\sfx \to \Box \neg \sfB\sfx)$ | **FQ2** |
 | --- | --- | --- |
 
 the first three steps in the argument become:

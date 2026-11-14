@@ -430,7 +430,7 @@ As of the 2021 version, José Ferreirós has taken responsibility for updating a
 
 [^ferreirós-2020]: –––, and M. J. García-Pérez, 2020, “Beyond Natural Geometry: On the Nature of Proto-Geometry”, *Philosophical Psychology*, 33(2): 181–205.
 
-[^frege-1884]: Frege, Gottlob, 1884, Die Grundlagen der Arithmetik, Breslau: Koebner.
+[^frege-1884]: Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik*, Breslau: Koebner.
 
 [^frege-1918]: –––, 1918, “Der Gedanke: Eine logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, 1: 58–77.
 

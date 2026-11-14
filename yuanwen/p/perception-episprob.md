@@ -423,7 +423,7 @@ Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Jo
 
 [^cohen-1984]: Cohen, Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46: 279–295.
 
-[^cohen-2002]: –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, Philosophy and Phenomenological Research, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
+[^cohen-2002]: –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
 
 [^comesaña-2010]: Comesaña, Juan, 2010, “Evidentialist Reliabilism”, *Noûs*, 44(4): 571–600. doi:10.1111/j.1468-0068.2010.00748.x
 
@@ -529,9 +529,9 @@ Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Jo
 
 [^mcdowell-1994]: –––, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
 
-[^mcdowell-2011]: –––, 2011, Perception As a Capacity for Knowledge, Milwaukee, WI: Marquette University Press.
+[^mcdowell-2011]: –––, 2011, *Perception As a Capacity for Knowledge,* Milwaukee, WI: Marquette University Press.
 
-[^mcdowell-2018]: –––, 2018, “Perceptual Experience and Empirical Rationality”, Analytic Philosophy, 59: 89–98.
+[^mcdowell-2018]: –––, 2018, “Perceptual Experience and Empirical Rationality”, A*nalytic Philosophy*, 59: 89–98.
 
 [^mcgrath-2013]: McGrath, Matthew, 2013, “Phenomenal Conservatism and Cognitive Penetration: The ‘Bad Basis’ Counterexamples”, in *Seemings and Justification: New Essays on Dgmatism and Phenomenal Conservatism*, pp. 225–247.
 

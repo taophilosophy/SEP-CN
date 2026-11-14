@@ -422,9 +422,9 @@ Albert the Great [= Albertus Magnus] | Anselm of Canterbury [Anselm of Bec] | Aq
 
 [^benfell-2011]: Benfell, V. Stanley, 2011, *The Biblical Dante*, Toronto: University of Toronto Press.
 
-[^bianchi-2024]: Bianchi, Luca, 2024, Il pane dei filosofi: Studi su Dante e la tradizione averroista, Rome: Aracne.
+[^bianchi-2024]: Bianchi, Luca, 2024, *Il pane dei filosofi: Studi su Dante e la tradizione averroista*, Rome: Aracne.
 
-[^bianchi-2024-2]: Bianchi, Luca, Stefano Pelizzari, and Andrea Tabarroni, eds., 2024, La “compiuta gioia”: Dante e la filosofia, Ravenna: Longo.
+[^bianchi-2024-2]: Bianchi, Luca, Stefano Pelizzari, and Andrea Tabarroni, eds., 2024, *La “compiuta gioia”: Dante e la filosofia*, Ravenna: Longo.
 
 [^boyde-1981]: Boyde, Patrick, 1981, *Dante Philomythes and Philosopher: Man in the Cosmos*, Cambridge: Cambridge University Press.
 
@@ -464,7 +464,7 @@ Albert the Great [= Albertus Magnus] | Anselm of Canterbury [Anselm of Bec] | Aq
 
 [^libera-2019]: de Libera, Alain, Jean-Baptiste Brenet, and Irène Rosier-Catach, eds., 2019, *Dante et l’averroïsme*, Paris: Collège de France – Les Belles Lettres.
 
-[^dell’oso-2026]: Dell’Oso, Lorenzo, 2026, Il poeta alle “scuole delli religiosi”: Dante, Pietro delle Travi e il convento di Santa Croce (1294–1296), Rome: Carocci.
+[^dell’oso-2026]: Dell’Oso, Lorenzo, 2026, *Il poeta alle “scuole delli religiosi”: Dante, Pietro delle Travi e il convento di Santa Croce (1294–1296)*, Rome: Carocci.
 
 [^diomedi-1999a]: Diomedi, Adriana, 1999a, “Dante e la necessità di perfezione: verso la felicità ultima,” *Rivista di Studi Italiani*, 17: 1–19.
 
@@ -562,7 +562,7 @@ Albert the Great [= Albertus Magnus] | Anselm of Canterbury [Anselm of Bec] | Aq
 
 [^lombardo-2018]: Lombardo, Luca, Diego Parisi, and Anna Pegoretti, eds., 2018, *Theologus Dantes: Tematiche teologiche nelle opere e nei primi commenti*, Venezia: Edizioni Ca’ Foscari.
 
-[^longo-2024]: Longo, Francesca, 2024, “A conoscer la prima radice…”: Dante e l’intellettualismo etico medievale, Rome: Ateneo Pontificio Regina Apostolorum / IF Press.
+[^longo-2024]: Longo, Francesca, 2024, *“A conoscer la prima radice…”: Dante e l’intellettualismo etico medievale*, Rome: Ateneo Pontificio Regina Apostolorum / IF Press.
 
 [^maierù-2004]: Maierù, Alfonso, 2004, “Dante di fronte alla Fisica e alla Metafisica,” in *Le culture di Dante: studi in onore di Robert Hollander*, ed. Michelangelo Picone, Theodore J. Cachey, Jr., Margherita Mesirca, Florence: Cesati, pp. 127–49.
 
@@ -612,7 +612,7 @@ Albert the Great [= Albertus Magnus] | Anselm of Canterbury [Anselm of Bec] | Aq
 
 [^passerin-1952]: Passerin d’Entrèves, Alessandro, 1952, *Dante as a Political Thinker*, Oxford: Clarendon Press.
 
-[^pelizzari-2025]: Pelizzari, Stefano, 2025, “Nelli occhi della filosofia”: La logica nell’opera di Dante Alighieri, Turnhout: Brepols.
+[^pelizzari-2025]: Pelizzari, Stefano, 2025, *“Nelli occhi della filosofia”: La logica nell’opera di Dante Alighieri*, Turnhout: Brepols.
 
 [^pertile-1993]: Pertile, Lino, 1993, “Dante’s Comedy beyond the Stilnovo,” *Lectura Dantis*, 13: 47–77.
 

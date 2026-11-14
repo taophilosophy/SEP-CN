@@ -429,7 +429,7 @@ In general, we can inductively define a chronicle-independent valuation function
 
 $T(t,q) = 1$ can be read ‘$q$ is true at $t$’. As in section 4.2 the valuation function has the range $\{0,1\}$. A formula $q$ is said to be T-valid if and only if $T(t,q) = 1$ for any $t$ in any branching time structure (TIME,$\le$,C), any valuation function *TRUE*, and any TRL-function defined on TIME.
 
-This means that sentences only involving tenses are what Belnap (in honor of Carnap) has called “moment-determinate” (Belnap 1991, p. 163)[^belnap-1991], indicating that their truth-value doesn't vary with the chronicle. The advantage of this view is that it corresponds with everyday reasoning and natural language understanding as it is most commonly conceived.
+This means that sentences only involving tenses are what Belnap (in honor of Carnap) has called “moment-determinate” (Belnap 1991, p. 163)[^belnap-1991], indicating that their truth-value doesn*'*t vary with the chronicle. The advantage of this view is that it corresponds with everyday reasoning and natural language understanding as it is most commonly conceived.
 
 As in sections 4.2 and 5.1, it is possible to extend the language in order to take metrical notions into consideration:
 

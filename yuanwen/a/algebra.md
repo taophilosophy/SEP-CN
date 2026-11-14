@@ -182,7 +182,7 @@ A *ring* is an abelian group that is also a monoid by virtue of having a second 
 
 - The additive group of integers expanded with the operation of integer multiplication.
 - The additive group of polynomials in one variable $x$ with integer coefficients expanded with  polynomial multiplication.
-- The additive group of integer $n\times n$ matrices, for a fixed positive integer n, expanded with matrix multiplication.
+- The additive group of integer $n\times n$ matrices, for a fixed positive integer *n,* expanded with matrix multiplication.
 - The group of numbers of the form $a+b\sqrt{2}$ where $a$ and $b$ are integer, because $(a+b\sqrt{2})(c+d\sqrt{2}) = ac+2bd+(bc+ad)\sqrt{2}$.
 - The group of integers mod $n$ for $n \ge 2$, because $(x+an)(y+bn) = xy + (xb + ya + abn)n$.
 

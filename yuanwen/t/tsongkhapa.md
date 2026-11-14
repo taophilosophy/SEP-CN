@@ -255,9 +255,9 @@ Gelukpa [dge lugs pa] | Nāgārjuna | Śāntarakṣita | Tibetan epistemology an
 
 [^middle-length-2021]: *The Middle-Length Treatise on the Stages of the Path to Enlightenment* (*Lam rim* ’*bring*), 1415. Translations: Philip Quarcoo (trans.), 2021, *The Middle-Length Treatise on the Stages of the Path to Enlightenment*. First. Somerville: Wisdom Publications, Inc.
 
-[^illuminating-nd]: *Illuminating the Intent* (*dGongs pa rab gsal*), 1418; a commentary on Candrakīrti’s *Entering the Middle Way* (Madhyamakāvatāra).
+[^illuminating-nd]: *Illuminating the Intent* (*dGongs pa rab gsal*), 1418; a commentary on Candrakīrti’s *Entering the Middle Way* (*Madhyamakāvatāra*).
 
-[^ñāna-1993]: Ālaya-vijñāna (The Foundation, Storehouse, Basis-of all Consciousness). Translation: Sparham, Gareth (trans.), 1993, *Ocean of Eloquence: Tsong kha pa’s Commentary on the Yogācāra Doctrine of Mind*, (SUNY Series in Buddhist Studies), Albany, NY: State Univ. of New York Press.
+[^ñāna-1993]: *Ālaya-vijñāna* (The Foundation, Storehouse, Basis-of all Consciousness). Translation: Sparham, Gareth (trans.), 1993, *Ocean of Eloquence: Tsong kha pa’s Commentary on the Yogācāra Doctrine of Mind*, (SUNY Series in Buddhist Studies), Albany, NY: State Univ. of New York Press.
 
 [^explanation-nd]: *Explanation of the Difficult Points* (*Kun gzhi dka*’ ’*grel*).
 

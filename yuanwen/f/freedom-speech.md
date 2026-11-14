@@ -381,7 +381,7 @@ I am grateful to the editors and anonymous referees of this Encyclopedia for hel
 
 [^douek-2022b]: –––, 2022b, “The Siren Call of Content Moderation Formalism”, in *Social Media, Freedom of Speech, and the Future of Our Democracy*, Lee C. Bollinger and Geoffrey R. Stone (eds.), New York: Oxford University Press, 139–156 (ch. 9). doi:10.1093/oso/9780197621080.003.0009
 
-[^ely-1975]: Ely, John Hart, 1975, “Flag Desecration: A Case Study in the Roles of Categorization and Balancing in First Amendment Analysis”, Harvard Law Review, 88: 1482–1508.
+[^ely-1975]: Ely, John Hart, 1975, “Flag Desecration: A Case Study in the Roles of Categorization and Balancing in First Amendment Analysis”, *Harvard Law Review*, 88: 1482–1508.
 
 [^emerson-1970]: Emerson, Thomas I., 1970, *The System of Freedom of Expression*, New York: Random House.
 

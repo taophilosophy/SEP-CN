@@ -28,7 +28,7 @@ A diagram where all lines meet at moment $m$. The lines extending to the past bo
 
 ### Figure 4 description
 
-A binary tree diagram with a single line from the past until moment m.  It splits into two lines and the left one extend until moment labeled $m'$.  The two lines split again and the leftmost of the four lines extend until moment labeled $m''$. The tree is divided into three horizontal layers,which are represented by dashed lines and represent the instants of  *m*, *m'*, and *m"*.
+A binary tree diagram with a single line from the past until moment *m. * It splits into two lines and the left one extend until moment labeled $m'$.  The two lines split again and the leftmost of the four lines extend until moment labeled $m''$. The tree is divided into three horizontal layers,which are represented by dashed lines and represent the instants of  *m*, *m'*, and *m"*.
 
 ### Figure 5 description
 

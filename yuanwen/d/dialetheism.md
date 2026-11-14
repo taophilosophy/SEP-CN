@@ -499,7 +499,7 @@ The authors would like to thank Jc Beall, Max Carrara, David Ripley, Koji Tanaka
 
 [^schroeder-heister-1993]: Schroeder-Heister, P. and K. Došen (eds.), 1993, *Substructural Logics*, Oxford: Oxford University Press.
 
-[^fraassen-1968]: van Fraassen, B., 1968, “Presuppositions, Implication and Self-Reference”, Journal of Philosophy, 65: 136–51.
+[^fraassen-1968]: van Fraassen, B., 1968, “Presuppositions, Implication and Self-Reference”, *Journal of Philosophy*, 65: 136–51.
 
 [^varzi-1997]: Varzi, A., 1997, “Inconsistency without Contradiction”, *Notre Dame Journal of Formal Logic*, 38: 621–39.
 

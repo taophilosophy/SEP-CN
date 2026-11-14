@@ -34,15 +34,15 @@ The scenario Ullmann-Margalit presents is an example of a *prisoner’s dilemma*
 
 |   |   | Soldier 2 |   |
 | --- | --- | --- | --- |
-|   |   | S | F |
-| Soldier 1 | S | (2,2) | (0,3) |
-| F | (3,0) | (1,1) |   |
+|   |   | *S* | *F* |
+| Soldier 1 | *S* | (2,2) | (0,3) |
+| *F* | (3,0) | (1,1) |   |
 
-S = stay, F = flee
+*S* = stay, *F* = flee
 
 *Figure 1.* Ullmann-Margalit’s Mortarmen’s Dilemma
 
-In this situation each soldier has a reason to flee. This is because fleeing provides the only chance of escaping unharmed, which is the outcome each most prefers. However, the situation is a dilemma, because if each soldier pursues this course of action, then they will both end up worse off than if neither had. Furthermore, the dilemma is magnified by the fact that for each soldier, F is his unique best response to any strategy the other soldier might choose. That is, F is each soldier’s *strictly dominant strategy*, and $(F,F)$ is the unique *Nash equilibrium* of this game even though both soldiers would fare better is they could somehow follow $(S,S).$
+In this situation each soldier has a reason to flee. This is because fleeing provides the only chance of escaping unharmed, which is the outcome each most prefers. However, the situation is a dilemma, because if each soldier pursues this course of action, then they will both end up worse off than if neither had. Furthermore, the dilemma is magnified by the fact that for each soldier, *F* is his unique best response to any strategy the other soldier might choose. That is, *F* is each soldier’s *strictly dominant strategy*, and $(F,F)$ is the unique *Nash equilibrium* of this game even though both soldiers would fare better is they could somehow follow $(S,S).$
 
 Ullmann-Margalit pointed out that if the soldiers understood the nature of their predicament they might want to do something to prevent themselves from both fleeing and subsequently being captured. More importantly, she argued that the prisoner’s dilemma that characterizes their predicament arises in innumerable interactions that we find ourselves in every day. At first glance, the obvious solution to these dilemmas might seem to be for the soldiers to simply pledge to remain at their posts. The problem, however, is that in scenarios like this promises are unlikely to be credible, and, even when they are, they are prone to being exploited. Instead, what the soldiers need is a way of literally or figuratively chaining themselves to their mortars. Drawing on this observation, Ullmann-Margalit’s suggestion was that it is moral norms that do this work. More specifically, it’s not the promises to remain at their posts that solves the soldiers’ predicament, so much as their commitment to keeping their promises and to sanctioning those who don’t.
 
@@ -96,11 +96,11 @@ To illustrate how the folk theorem might support the social sanctions strategy, 
 
 |   |   | Party 2 (Laura) |   |
 | --- | --- | --- | --- |
-|   |   | P | A |
-| Party 1 (Claudia) | P | (2,2) | (0,3) |
-| A | (3,0) | (1,1) |   |
+|   |   | *P* | *A* |
+| Party 1 (Claudia) | *P* | (2,2) | (0,3) |
+| *A* | (3,0) | (1,1) |   |
 
-P = perform, A = anticipate
+*P* = perform, *A* = anticipate
 
 *Figure 5.* Prisoner’s Dilemma
 
@@ -355,7 +355,7 @@ We would like to thank Bruno Verbeek and Christopher Morris whose earlier versio
 
 [^note-1]: Diana Richards first suggested the term *conflictual coordination game*. Such games are often referred to by the more colloquial names *Battle of the Sexes* (Luce & Raiffa 1957: 90–91)[^luce-1957] or *Hawk-Dove* (Maynard Smith 1982: 11–12)[^maynard-1982]. The “hawk” and “dove” labels we’ve utilized are borrowed from the Maynard Smith model which was developed to help explain behavioral strategies that animals might employ to protect or acquire resources. While the label for the Luce and Raiffa model is a reference to scenarios where both partners in a couple desire to do something together, but have conflicting preferences over what they would most prefer to do.
 
-[^note-2]: A point $x=(x_1,\ldots,x_n)$ is weakly Pareto superior to a point $y=(y_1,\ldots,y_n)$ if $x_i \ge y_i$ for each $i \in \{1,\ldots,n\}$ and $x_i > y_i$ for at least one $i \in \{1,\ldots,n\}$. x is Pareto superior to y if $x_i > y_i$ for each $i \in \{1,\ldots,n\}$.
+[^note-2]: A point $x=(x_1,\ldots,x_n)$ is weakly Pareto superior to a point $y=(y_1,\ldots,y_n)$ if $x_i \ge y_i$ for each $i \in \{1,\ldots,n\}$ and $x_i > y_i$ for at least one $i \in \{1,\ldots,n\}$. *x* is Pareto superior to *y* if $x_i > y_i$ for each $i \in \{1,\ldots,n\}$.
 
 [^note-3]: In his original analysis Nash argued that bargaining problems can be analyzed either *axiomatically*, by considering which members of the feasible set satisfy certain formal desiderata, or *strategically*, by examining which outcomes could be arrived at by a set of agents engaged in a bargaining process. However, the *alternating offers models* introduced by Stähl (1972) and Rubinstein (1982) that have been the most influential models of strategic bargaining give determinate results only in 2-agent contexts with infinitely divisible goods. As a result, the axiomatic approach has been more influential, and it is for that reason that we focus on it here.
 
@@ -363,23 +363,23 @@ We would like to thank Bruno Verbeek and Christopher Morris whose earlier versio
 
 [^note-5]: Specifically, for the Braithwaite bargaining problem depicted in Figure 11, that extends the game depicted in Figure 10, at the Nash solution, Luke and Matthew are assigned the respective shares $x^{*}_{1} = \frac{1}{14}$ and $x^{*}_{2} = \frac{13}{14}$. At the maximin proportionate gain solution, they are assigned shares of $x'_{1} = \frac{4}{14}$ and $x'_{2} = \frac{7}{14}$. And at the proportional solution, they are assigned shares of $\tilde{x}_{1} = \frac{7}{23}$ and $\tilde{x}_{2} = \frac{16}{23}$.
 
-[^note-6]: Formally, the proportional solution selects the payoff vector $\tilde{\bu} = (\tilde{u}_{1},\ldots,\tilde{u}_{n}) \in P_{\Lambda}$ at which the proportionate gain $\lambda_i(\tilde{u}_i - u_{i0})$ relative to the nonagreement point is equal for all the agents with respect to some scaling vector $\lambda = (\lambda,\ldots,\lambda_{n})$ where $\lambda > 0$ for each agent i. Here the scaling vector provides a way of weighting the claims of the respective agents. This solution concept was first proposed by Raiffa (1953) and later axiomatized by Kalai (1977). Binmore (1998: 396–401) shows that this solution is equivalent to Aristotle’s principle of distributive justice developed in *Nicomachean Ethics* Book V. And, in the special case where $\lambda_i = 1$ for each agent i, then the solution corresponds with the intuitively egalitarian sense in which the surplus gains from agreement are equally divided.
+[^note-6]: Formally, the proportional solution selects the payoff vector $\tilde{\bu} = (\tilde{u}_{1},\ldots,\tilde{u}_{n}) \in P_{\Lambda}$ at which the proportionate gain $\lambda_i(\tilde{u}_i - u_{i0})$ relative to the nonagreement point is equal for all the agents with respect to some scaling vector $\lambda = (\lambda,\ldots,\lambda_{n})$ where $\lambda > 0$ for each agent *i*. Here the scaling vector provides a way of weighting the claims of the respective agents. This solution concept was first proposed by Raiffa (1953) and later axiomatized by Kalai (1977). Binmore (1998: 396–401) shows that this solution is equivalent to Aristotle’s principle of distributive justice developed in *Nicomachean Ethics* Book V. And, in the special case where $\lambda_i = 1$ for each agent *i*, then the solution corresponds with the intuitively egalitarian sense in which the surplus gains from agreement are equally divided.
 
-[^note-7]: Gauthier refers to the *maximin proportionate gain* solution concept by the alternative term *minimax relative concession solution* (1986: 145). In the 2-agent case this approach is also equivalent to a solution first proposed by Raiffa (1953) and later axiomatized by Kalai and Smorodinsky (1975). To define the Gauthier and the Kalai-Smorodinsky solutions, one first identifies each agent i’s *ideal payoff* $\bar{u}_i - u_{0i}$, by taking the difference between the maximin payoff $\bar{u}_i$ for agent i in the feasible set and that same agent’s nonagreement point payoff $u_{0i}$. Then, for each point $\bu = (u_1,\ldots,u_n)$, one identifies the settlement payoff $u_i - u_{i0}$. The Kalai-Smorodinsky solution then selects the payoff vector $\bu' = (u'_{1},\ldots,u'_{n}) \in P_{\Lambda}$ such that
+[^note-7]: Gauthier refers to the *maximin proportionate gain* solution concept by the alternative term *minimax relative concession solution* (1986: 145). In the 2-agent case this approach is also equivalent to a solution first proposed by Raiffa (1953) and later axiomatized by Kalai and Smorodinsky (1975). To define the Gauthier and the Kalai-Smorodinsky solutions, one first identifies each agent *i*’s *ideal payoff* $\bar{u}_i - u_{0i}$, by taking the difference between the maximin payoff $\bar{u}_i$ for agent *i* in the feasible set and that same agent’s nonagreement point payoff $u_{0i}$. Then, for each point $\bu = (u_1,\ldots,u_n)$, one identifies the settlement payoff $u_i - u_{i0}$. The Kalai-Smorodinsky solution then selects the payoff vector $\bu' = (u'_{1},\ldots,u'_{n}) \in P_{\Lambda}$ such that
 
 $$ \frac{u'_1-u_{10}}{\bar{u}_1 - u_{10}} = \ldots = \frac{u'_{n}-u_{n0}}{\bar{u}_{n} - u_{n0}}, $$
 
-that is, where the ratio of each agent i’s settlement payoff to her ideal payoff is equal across all agents. While, the maximin proportionate gain solution selects the payoff vector $\bu'' = (u''_{1},\ldots,u''_{n})$ at which
+that is, where the ratio of each agent *i*’s settlement payoff to her ideal payoff is equal across all agents. While, the maximin proportionate gain solution selects the payoff vector $\bu'' = (u''_{1},\ldots,u''_{n})$ at which
 
 $$ \text{min}_i \left(\frac{u''_i - u_{i0}}{\bar{u}_i - u_{i0}}\right) > \text{min}_j \left(\frac{u''_j - u_{j0}}{\bar{u}_j - u_{j0}}\right) $$
 
-for each agent j and all $\bu \ne \bu'',$ that is, it selects the point where the smallest ratio of any agent i’s settlement payoff to her ideal payoff is maximized. Although the Kalai-Smorodinsky and maximin proportionate gain solutions are equivalent in the two agent case, Gauthier shows by example that they can differ in bargaining problems with three or more agents (Gauthier 1985)[^gauthier-1985].
+for each agent *j* and all $\bu \ne \bu'',$ that is, it selects the point where the smallest ratio of any agent *i*’s settlement payoff to her ideal payoff is maximized. Although the Kalai-Smorodinsky and maximin proportionate gain solutions are equivalent in the two agent case, Gauthier shows by example that they can differ in bargaining problems with three or more agents (Gauthier 1985)[^gauthier-1985].
 
 [^note-8]: For the *n*-agent bargaining problem with feasible set $\Lambda$ and nonagreement point $\bu_0 = (u_{01},\ldots,u_{0n}),$ the Nash solution is the point $\bu^{*} = (u^{*}_{1},\ldots,u^{*}_{n}) \in \Lambda$ that maximizes the *Nash product* $(u_1 - u_{01})\ldots(u_n - u_{0n})$ for $\bu = (u_1,\ldots,u_n) \in \Lambda$.
 
 [^note-9]: In his original analysis Nash (1950) proved that his solution concept is uniquely capable of satisfying Pareto optimality, symmetry, scale invariance, and independence of irrelevant alternatives. Lensberg proved that the Nash solution is the unique solution to satisfy Pareto optimality, symmetry, scale invariance, and reapplication stability (Lensberg 1988)[^lensberg-1988]. Nash’s paper is collected along with much of his other work in Nash (2002).
 
-[^note-10]: A payoff vector w is Pareto optimal if it lies on the *Pareto frontier* of $\Lambda, P_{\Lambda} \subset \Lambda,$ where $(w_1,\ldots,w_n) \in P_{\Lambda}$ if there is no other payoff vector $(w'_1,\ldots,w'_n) \in \Lambda$ such that $w'_{i} \ge w_{i}$ for each agent i.
+[^note-10]: A payoff vector *w* is Pareto optimal if it lies on the *Pareto frontier* of $\Lambda, P_{\Lambda} \subset \Lambda,$ where $(w_1,\ldots,w_n) \in P_{\Lambda}$ if there is no other payoff vector $(w'_1,\ldots,w'_n) \in \Lambda$ such that $w'_{i} \ge w_{i}$ for each agent *i*.
 
 [^note-11]: A solution satisfies the symmetry condition when, if $\Lambda$ and $u_0$ are unchanged by interchanging the individual coordinates of the payoff vectors, the solution is also unchanged.
 
@@ -404,9 +404,9 @@ for each agent j and all $\bu \ne \bu'',$ that is, it selects the point where th
 
 $$ x_i (t+1) = x_i (t) \cdot \frac{\be^{T}_{i} A\bx(t)} {\bx(t)^{T} A\bx(t)} $$
 
-where A is the payoff function, the n pure strategies $s_1,\ldots,s_n$ are respectively characterized by the vectors $\be_1 = (1,0,\ldots,0),$ …, $\be_n = (0,0,\ldots,1),$ and $\bx(t)^{T} = (x_1(t),\ldots,x_n(t))^{T}$ is the population state representing the fraction of the population following each of the respective strategies at time t. In this dynamic, at each period t the proportion $x_i(t)$ of $\be_i$-followers in the population varies in direct proportion to the current expected payoff $\be_{i}^{T} A \bx (t)$ of $\be_i$ divided by the current overall average payoff $\bx(t)^{T} A\bx(t)$ among the population.
+where *A* is the payoff function, the *n* pure strategies $s_1,\ldots,s_n$ are respectively characterized by the vectors $\be_1 = (1,0,\ldots,0),$ …, $\be_n = (0,0,\ldots,1),$ and $\bx(t)^{T} = (x_1(t),\ldots,x_n(t))^{T}$ is the population state representing the fraction of the population following each of the respective strategies at time *t*. In this dynamic, at each period *t* the proportion $x_i(t)$ of $\be_i$-followers in the population varies in direct proportion to the current expected payoff $\be_{i}^{T} A \bx (t)$ of $\be_i$ divided by the current overall average payoff $\bx(t)^{T} A\bx(t)$ among the population.
 
-[^note-16]: For a given replicator dynamic a basin of attraction $\Lambda_z$ of some point z is the set of points in the simplex where each orbit of the replicator dynamic starting from within $\Lambda_z$ converges to z. The size $m(\Delta_z)$ of a basin of attraction $\Delta_z$ is the fraction of all of the points in a simplex that lie within this basin. Skyrms reports that over 10,000 trials of the replicator dynamic each with an initial point chosen at random in the simplex, 62% of the orbits converged to the point of the fair division strategy (1996 [2014: 15]), so $m(\Delta_{e_w}) \approx 0.62.$
+[^note-16]: For a given replicator dynamic a basin of attraction $\Lambda_z$ of some point *z* is the set of points in the simplex where each orbit of the replicator dynamic starting from within $\Lambda_z$ converges to *z*. The size $m(\Delta_z)$ of a basin of attraction $\Delta_z$ is the fraction of all of the points in a simplex that lie within this basin. Skyrms reports that over 10,000 trials of the replicator dynamic each with an initial point chosen at random in the simplex, 62% of the orbits converged to the point of the fair division strategy (1996 [2014: 15]), so $m(\Delta_{e_w}) \approx 0.62.$
 
 [^note-17]: As a point of comparison, the other notable equilibrium with a large basis of attraction in the Nash Demand Game whose replicator dynamics are depicted in Figure 13 is a polymorphic equilibrium consisting of some agents following *D* and a relatively larger number of agents following *H*. In this equilibrium the *H*-followers sometimes succeed in exploiting *D*-followers, but also incur the costs of conflict with one another, while the *D*-followers always receive positive payoffs and never incur the costs of conflicts, but are alternately exploited by *H*-followers, or leave possible claims on the table when paired with other *D*-followers.
 

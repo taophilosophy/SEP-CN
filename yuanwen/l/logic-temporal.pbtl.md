@@ -11,7 +11,7 @@ Burgess’ (1980) axiomatic system for PBTL extends classical propositional logi
 - the familiar axiom schemata $(K_H)$ and $(K_G)$ (see Section 3.5), as well as $G(\varphi \rightarrow \psi)\rightarrow (F\varphi \rightarrow F\psi),$
 - the axiom schemata (GP) and the Peircean variant of (HF) (cf. Section 3.5): $\varphi \rightarrow H\neg G\neg\varphi,$
 - the axiom schemata (NOBEG) and Peircean versions of (NOEND) (cf. Section 3.6): $G\varphi \rightarrow F\varphi$ and $G\varphi \rightarrow \neg F\neg\varphi,$
-- the axiom scheme (TRANS) for H, G, and F (cf. Section 3.6),
+- the axiom scheme (TRANS) for *H*, *G*, and *F* (cf. Section 3.6),
 - the axiom schemata $H\varphi \rightarrow (\varphi \rightarrow (G\varphi \rightarrow GHp))$ and $H\varphi \rightarrow (\varphi \rightarrow (\neg F\neg\varphi \rightarrow \neg F\neg Hp)),$ and
 - the axiom scheme $FG\varphi \rightarrow GF\varphi.$
 

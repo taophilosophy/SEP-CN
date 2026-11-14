@@ -698,7 +698,7 @@ Anselm of Canterbury [Anselm of Bec] | *a priori* justification and knowledge | 
 
 [^devitt-2021]: Devitt, Michael, 2021, “Defending Intrinsic Biological Essentialism”, *Philosophy of Science*, 88(1): 67–82. doi:10.1086/710029
 
-[^dumitru-2020]: Dumitru, M. (ed.), 2020, Metaphysics, Meaning, and Modality: Themes from Kit Fine. Oxford: Oxford University Press. doi:10.1093/oso/9780199652624.001.0001
+[^dumitru-2020]: Dumitru, M. (ed.), 2020, *Metaphysics, Meaning, and Modality: Themes from Kit Fine*. Oxford: Oxford University Press. doi:10.1093/oso/9780199652624.001.0001
 
 [^dumsday-2012]: Dumsday, Travis, 2012, “A New Argument For Intrinsic Biological Essentialism”, *The Philosophical Quarterly*, 62(248): 486–504. doi:10.1111/j.1467-9213.2012.00048.x
 

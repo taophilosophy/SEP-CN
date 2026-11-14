@@ -3,7 +3,7 @@
 
 *Liu, Fenrong, van der Torre, Leon*
 
-The concept of preference spans numerous research fields, resulting in diverse perspectives on the topic. Preference logic specifically focuses on reasoning about preferences when comparing objects, situations, actions, and more, by examining their formal properties. This entry surveys major developments in preference logic to date. Section 2 provides a historical overview, beginning with foundational work by Halldén and von Wright, who emphasized the syntactic aspects of preference. In Section 3, early semantic contributions by Rescher and Van Dalen are introduced. The consideration of preference relations over possible worlds naturally gives rise to modal preference logic where preference lifting enables comparisons across sets of possible worlds. Section 4 introduces von Wright’s distinction between intrinsic and extrinsic preferences and presents a two-layer structure for extrinsic (or reason-based) preferences, a major focus of development over the last two decades. This entry reviews the primary frameworks in this area. Section 5 is about preference change, which can happen for various reasons, and it explores different logical approaches to these dynamics. Section 6 discusses various interpretations of ceteris paribus preferences, provides a review of its underlying logic, and examines conditional preference networks (CP-nets), which are closely related to this concept. Section 7 briefly examines the connections between preference logic and other research areas. Section 8 concludes this entry.
+The concept of preference spans numerous research fields, resulting in diverse perspectives on the topic. Preference logic specifically focuses on reasoning about preferences when comparing objects, situations, actions, and more, by examining their formal properties. This entry surveys major developments in preference logic to date. Section 2 provides a historical overview, beginning with foundational work by Halldén and von Wright, who emphasized the syntactic aspects of preference. In Section 3, early semantic contributions by Rescher and Van Dalen are introduced. The consideration of preference relations over possible worlds naturally gives rise to modal preference logic where preference lifting enables comparisons across sets of possible worlds. Section 4 introduces von Wright’s distinction between intrinsic and extrinsic preferences and presents a two-layer structure for extrinsic (or reason-based) preferences, a major focus of development over the last two decades. This entry reviews the primary frameworks in this area. Section 5 is about preference change, which can happen for various reasons, and it explores different logical approaches to these dynamics. Section 6 discusses various interpretations of *ceteris paribus* preferences, provides a review of its underlying logic, and examines conditional preference networks (CP-nets), which are closely related to this concept. Section 7 briefly examines the connections between preference logic and other research areas. Section 8 concludes this entry.
 
 ## 1. Introduction
 
@@ -17,7 +17,7 @@ Extrinsic preferences require additional elements in a model in order to represe
 
 Another key topic in preference logic is the study of preference change, aligning with broader trends in incorporating new information. Just as attitudes such as knowledge, belief and intention may need to be updated, preferences may evolve with new information, changes in the agent’s state, or other factors. This entry assumes familiarity with belief revision theory (see SEP entry on preferences) and dynamic epistemic logic (DEL; see entry on dynamic epistemic logic) and focuses specifically on the unique aspects of preference change.
 
-In AI systems where decisions must be made, preferences often need to be represented concisely. One central notion in this context is ceteris paribus preference, which enables reasoning about preferences such as “*A* is preferable to *B*, all else being equal”. This concept has been studied extensively in logic and also forms the basis for frameworks like CP-nets (conditional preference networks) in the computer science literature. CP-nets is a well-known visual language that balances expressive power with computational efficiency. Accordingly, this entry devotes significant attention to ceteris paribus preferences.
+In AI systems where decisions must be made, preferences often need to be represented concisely. One central notion in this context is *ceteris paribus* preference, which enables reasoning about preferences such as “*A* is preferable to *B*, all else being equal”. This concept has been studied extensively in logic and also forms the basis for frameworks like CP-nets (conditional preference networks) in the computer science literature. CP-nets is a well-known visual language that balances expressive power with computational efficiency. Accordingly, this entry devotes significant attention to *ceteris paribus* preferences.
 
 ## 2. Syntactic approaches to preference logic
 
@@ -25,7 +25,7 @@ Pioneering logicians such as Halldén (1957) and von Wright (1963) proposed logi
 
 ### 2.1 Halldén: two theories, A and B
 
-Halldén’s (1957) book *On the Logic of “Better”* is often taken as the starting point for a logical analysis of preference. It is a point of reference for all other preference logics. Halldén extended the propositional logic with two new connectives—what he called “ethical connectives”: “better” ($>$) and “equally as good as” ($\equiv$). He distinguished between the positive and negative sense of $\equiv$, which then led to Theory A and Theory B. Theory A is based on the *positive* sense and is formally given by $p\equiv q$ iff for all r, $r>p$ iff $r>q$, and $p>r$ iff $q>r$. Theory B is based on the *negative* sense, where $p\equiv q$ simply means $\neg(p>q)\land \neg(q>p)$.
+Halldén’s (1957) book *On the Logic of “Better”* is often taken as the starting point for a logical analysis of preference. It is a point of reference for all other preference logics. Halldén extended the propositional logic with two new connectives—what he called “ethical connectives”: “better” ($>$) and “equally as good as” ($\equiv$). He distinguished between the positive and negative sense of $\equiv$, which then led to Theory A and Theory B. Theory A is based on the *positive* sense and is formally given by $p\equiv q$ iff for all *r*, $r>p$ iff $r>q$, and $p>r$ iff $q>r$. Theory B is based on the *negative* sense, where $p\equiv q$ simply means $\neg(p>q)\land \neg(q>p)$.
 
 The sentences, built up from propositional variables and ordinary truth-functional connectives as well as the two new connectives, are called “A-formulas”. They follow the usual convention of leaving out brackets, with the reading then based on decreasing binding order for $\neg$, $>$, $\equiv$, $\land$, $\lor$, $\rightarrow$, $\leftrightarrow$.
 
@@ -82,7 +82,7 @@ If the first phase is not decisive, each formula is expanded into a set of more 
 
 $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \neg p\land p\equiv \neg p, \\ &p>q\land \neg q> \neg p\land \neg p>p, \\ &p>q\land \neg q> \neg p\land \neg p\equiv p, \end{align}$$
 
-reflecting all possible relations between p and $\neg p$. Interested readers can find more details on how it works in Halldén’s (1957) book.
+reflecting all possible relations between *p* and $\neg p$. Interested readers can find more details on how it works in Halldén’s (1957) book.
 
 ### 2.2 Von Wright’s logic of preference
 
@@ -123,21 +123,21 @@ $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asy
 
 *Figure 3.*
 
-Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, p and q. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the figure above.
+Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, *p* and *q*. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the figure above.
 
-In the case of $p\land q$, “an agent prefers p over q” means that the agent would prefer to lose q (and keep p) rather than lose p (and keep q).
+In the case of $p\land q$, “an agent prefers *p* over *q*” means that the agent would prefer to lose *q* (and keep *p*) rather than lose *p* (and keep *q*).
 
-In the case of $p\land \neg q$, “an agent prefers p over q” means that the agent would prefer to maintain the current state than see it change into $\neg p\land q$.
+In the case of $p\land \neg q$, “an agent prefers *p* over *q*” means that the agent would prefer to maintain the current state than see it change into $\neg p\land q$.
 
-In the case of $\neg p\land q$, “an agent prefers p over q” means that the agent would prefer to see the world change from $\neg p$ to p, and q into $\neg q$, rather than see no change.
+In the case of $\neg p\land q$, “an agent prefers *p* over *q*” means that the agent would prefer to see the world change from $\neg p$ to *p*, and *q* into $\neg q$, rather than see no change.
 
-In the case of $\neg p \land \neg q$, “an agent prefers p over q” means that the agent would prefer to get p without q rather than get q without p.
+In the case of $\neg p \land \neg q$, “an agent prefers *p* over *q*” means that the agent would prefer to get *p* without *q* rather than get *q* without *p*.
 
 Principle $V_5$ is the so-called *holistic* property of preference. Let $\varphi$ be a formula, and let $PL(\varphi)$ be the set of propositional letters that occur in $\varphi$, which von Wright calls the universe of discourse. Suppose $r \not\in PL(\varphi>\psi)$, then replace every formula $\varphi> \psi$ with the conjunction
 
 $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
 
-This principle, also called *amplification*, is applied to every r in the complement of $PL(\varphi > \psi)$ with respect to the set of propositional letters. Amplification ensures that every r in the universe of discourse that is not directly relevant to the evaluation of a preference subformula will remain constant.
+This principle, also called *amplification*, is applied to every *r* in the complement of $PL(\varphi > \psi)$ with respect to the set of propositional letters. Amplification ensures that every *r* in the universe of discourse that is not directly relevant to the evaluation of a preference subformula will remain constant.
 
 While $V_1$, $V_2$, $V_3$ and $V_4$ appear in many axiomatic preference logics, this is not the case with $V_5$. The reason is that $V_5$ cannot be combined with substitution.
 
@@ -159,21 +159,21 @@ Rescher (1966, 1967) introduced the first semantics for preference logic where m
 
 The language coincides with the language of von Wright, i.e., it is an extension of propositional logic with the binary connective $>$, except in this case, it lacks nested preference statements. Indifference is defined in terms of preference as $\varphi\equiv \psi = \neg (\varphi>\psi)\land \neg (\psi>\varphi)$.
 
-In order to assign truth values to formulas of the form $\varphi>\psi$, Van Dalen prescribes an order relation between propositions. He simultaneously considers a truth valuation v and a measure of goodness m. In this framework, m is a mapping of the set of propositions into a partially ordered set A, and v is a mapping of propositional symbols (atoms) into $\{0,1\}$, which is extended to all formulas by the following inductive definition:
+In order to assign truth values to formulas of the form $\varphi>\psi$, Van Dalen prescribes an order relation between propositions. He simultaneously considers a truth valuation *v* and a measure of goodness *m*. In this framework, *m* is a mapping of the set of propositions into a partially ordered set *A*, and *v* is a mapping of propositional symbols (atoms) into $\{0,1\}$, which is extended to all formulas by the following inductive definition:
 
 1. $v(\neg \varphi) = 1-v(\varphi)$
 2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
-3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
+3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on *A*, or 0 otherwise
 
 For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
 
 $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
 
-Van Dalen calls the semantics described above irrational semantics, mainly because logically equivalent propositions can lead to different preferences. He therefore considers three extra conditions to the measure m or the partially set A in order to get semantics of a more restricted kind:
+Van Dalen calls the semantics described above irrational semantics, mainly because logically equivalent propositions can lead to different preferences. He therefore considers three extra conditions to the measure *m* or the partially set *A* in order to get semantics of a more restricted kind:
 
 1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
-2. A is linearly ordered.
-3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
+2. *A* is linearly ordered.
+3. *A* is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
 
 Van Dalen presents several theories—**PREFIR**, **PREF**, **PREFL**, and **PREFR**—outlined in Figure 5. He demonstrates that **PREFIR** is complete for irrational semantics, **PREF** is complete for semantics with condition (i), **PREFL** is complete for linear semantics, and **PREFR** is complete for Rescher semantics.
 
@@ -216,13 +216,13 @@ Starting in the late 1980s, a widely adopted monadic modal approach emerged that
 
 Research on preference logic has frequently been linked to understanding agent choices in dynamic environments. A central focus is how agents rank possible worlds in order to express their preferences. This allows for more nuanced models of decision-making and normative reasoning. The integration of preference orders into modal logic, inspired by earlier developments in conditional logic and belief revision, extends the expressive power of logical systems by incorporating preference structures over possible worlds.
 
-A modal preference model $\mathcal{M}$ is a triple $(W, \succeq, V)$ where W is a set of possible worlds, $\succeq$ is a binary preference relation over these worlds, and V is a valuation assigning truth values to propositional letters in these worlds. Depending on the context, we assume the preference relation $\succeq$ has certain properties. For instance, it can be a (total) pre-order, or a partial order, etc. If we choose (total) pre-order, a strict preference relation “$w\succ v$” can then be defined as “$w\succeq v\land v \nsucceq w$”, and an indifference relation “$w\approx v$” can be defined as “$w\succeq v\land v\succeq w$”.
+A modal preference model $\mathcal{M}$ is a triple $(W, \succeq, V)$ where *W* is a set of possible worlds, $\succeq$ is a binary preference relation over these worlds, and *V* is a valuation assigning truth values to propositional letters in these worlds. Depending on the context, we assume the preference relation $\succeq$ has certain properties. For instance, it can be a (total) pre-order, or a partial order, etc. If we choose (total) pre-order, a strict preference relation “$w\succ v$” can then be defined as “$w\succeq v\land v \nsucceq w$”, and an indifference relation “$w\approx v$” can be defined as “$w\succeq v\land v\succeq w$”.
 
 On the syntactic side, a modal preference language is given to express the basic preference relations and their properties. The language is an extension of propositional logic, with two new operators $\lozenge^{\geq}\varphi$ and $\lozenge^{>}\varphi$ (Van Benthem, Girard, & Roy 2009)[^van-2009]. Their truth conditions are defined below:
 
-$\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
+$\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some *v*   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
 
-$\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
+$\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some *v*   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
 
 The theory shown in Figure 6 below is an axiomatization of the modal preference logic given by Van Benthem, Girard, and Roy (2009) where $\succeq$ is a transitive and reflexive relation and E is an existential modality, interpreted as follows:
 
@@ -230,7 +230,7 @@ $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \mod
 
 **Modal preference logic**
 
-- S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
+- S4 for $\lozenge^{\geq}$, S5 for *E*, K for $\lozenge^{>}$.
 - Inclusion axioms:
 - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
 - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
@@ -249,7 +249,7 @@ $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\mo
 
 On the syntactic side, to express the lifting, the basic modal preference language is extended with the universal modality $U\varphi$ (and its dual $E\varphi$) (Boutilier 1992)[^boutilier-1992]. The truth definition for this new modality is:
 
-$\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
+$\mathcal{M}$, $w \models U \varphi$    iff    for all *v*  , $\mathcal{M}$, $v \models \varphi$.
 
 With this modality, the language gains greater expressive power to define generic preference notions related to the lifting problem. We provide one example:
 
@@ -260,7 +260,7 @@ We can read $\varphi\geq^{\forall\exists}\psi$ as “for each $\varphi$-world, t
 1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
 2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
 
-Van Benthem, Girard, and Roy (2009) argue that $\geq^{\forall\forall}$ under ceteris paribus represents the notion of “preference” intended by von Wright (1963) in his seminal work on preference logic and offers an axiomatization for it. The logic of ceteris paribus preference will be discussed in Section 6.
+Van Benthem, Girard, and Roy (2009) argue that $\geq^{\forall\forall}$ under *ceteris paribus* represents the notion of “preference” intended by von Wright (1963) in his seminal work on preference logic and offers an axiomatization for it. The logic of *ceteris paribus* preference will be discussed in Section 6.
 
 Other attempts to axiomatize logics for preference relations over sets of possible worlds have emerged across various research areas. Notable contributions include the works of Van Fraassen (1973), Lewis (1973), Spohn (1988), Boutilier (1990) and Halpern (1997) among many others. An illustrative example is provided below.
 
@@ -268,9 +268,9 @@ Halpern (1997) proposed a complete axiomatization for the logic of “relative l
 
 Given a preference model $\mathcal{M}=(W, \succeq, V)$, the preference formula is interpreted as follows:
 
-> $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
+> $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and *u* dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
 
-and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
+and *u* dominates *V* if there is no $v' \in V$ such that $v'\succ u$.
 
 The complete axiomatization of Halpern (1997) when $\succeq$ is a partial order consists of the axioms and rules listed in Figure 7. Axiom 2 corresponds to the reflexivity of $\succeq$, and axiom 3 corresponds to the transitivity of $\succeq$. In the case of a total preorder, the axiom $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$ must be added.
 
@@ -289,7 +289,7 @@ A recent paper by Shi and Sun (2021) explores an alternative method of preferenc
 
 $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
 
-where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+where $\llbracket\varphi\rrbracket_w$ denotes the set of *w*-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
 
 ## 4. Reason-based preference
 
@@ -319,13 +319,13 @@ Formally, a priority base is an ordered sequence of formulas, written as
 
 $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
 
-where each $C_m(x)$ ($1 \leq m \leq n$) is a formula with exactly one free variable x. The earlier priorities are considered lexicographically more significant than later ones, creating a preference order. For example, $C_1 \land \neg C_2 \land \dots \land \neg C_m$ is preferred over $\neg C_1 \land C_2 \land \dots \land C_m$.
+where each $C_m(x)$ ($1 \leq m \leq n$) is a formula with exactly one free variable *x*. The earlier priorities are considered lexicographically more significant than later ones, creating a preference order. For example, $C_1 \land \neg C_2 \land \dots \land \neg C_m$ is preferred over $\neg C_1 \land C_2 \land \dots \land C_m$.
 
 To illustrate this, Alice’s priority base might look like
 
 $$C(x) \gg Q(x) \gg N(x),$$
 
-where $C(x)$, $Q(x)$, and $N(x)$ represent that x has a low price (cost), high quality, and a good neighborhood, respectively. Given two houses $d_1$ and $d_2$ with properties $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$, and $\neg N(d_2)$, Alice would prefer $d_1$ over $d_2$ according to this priority base.
+where $C(x)$, $Q(x)$, and $N(x)$ represent that *x* has a low price (cost), high quality, and a good neighborhood, respectively. Given two houses $d_1$ and $d_2$ with properties $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$, and $\neg N(d_2)$, Alice would prefer $d_1$ over $d_2$ according to this priority base.
 
 The linearly-ordered priorities in the two-layer structure can also be generalized to partially ordered priority graphs (which allows certain priorities to be non-comparable) or even to unordered sets of properties (Kratzer 1981; Liu 2011b)[^kratzer-1981][^liu-2011b].
 
@@ -341,23 +341,23 @@ Rational choice theory typically assumes that agents have fixed preferences but 
 
 To formalize this: an agent’s preference order over alternatives depends on the properties of these alternatives, which are motivationally salient in a given state.
 
-Let X be a set of alternatives. Let P be the set of all possible properties an alternative might have. A motivational state $M \subseteq P$ includes all the properties deemed salient by the agent in a given context.
+Let *X* be a set of alternatives. Let *P* be the set of all possible properties an alternative might have. A motivational state $M \subseteq P$ includes all the properties deemed salient by the agent in a given context.
 
-Preferences are defined by a binary relation $\succeq_M$ over X, where $x \succeq_M y$ means alternative x is weakly preferred to y in state M.
+Preferences are defined by a binary relation $\succeq_M$ over *X*, where $x \succeq_M y$ means alternative *x* is weakly preferred to *y* in state *M*.
 
 To account for varying preferences across motivational states, Dietrich and List (2013a,b) introduced the *weighing relation* $\geq$ over *property combinations*:
 
-- Each alternative x can be described by the set of properties it has, denoted as $S_x$.
+- Each alternative *x* can be described by the set of properties it has, denoted as $S_x$.
 - For any two sets of properties, $S_x \geq S_y$ indicates that the properties in $S_x$ are preferred over those in $S_y$.
 - The weighing relation thus acts as a stable underlying structure that supports the agent’s preference ordering across different motivational states.
 
-Formally, if x and y are alternatives, then the agent’s preference $x \succeq_M y$ in state M can be represented as follows:
+Formally, if *x* and *y* are alternatives, then the agent’s preference $x \succeq_M y$ in state *M* can be represented as follows:
 
 $$x \succeq_M y \iff S_x \geq S_y,$$
 
-where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
+where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state *M* reflect the agent’s stable evaluation of property combinations across contexts.
 
-The works of Dietrich and List (2013a,b) explore rationality by contrasting *structural rationality*, which focuses on internal consistency in preferences (as in traditional economics), with *substantive* rationality, which evaluates the content or worthiness of preferences. Formal rationality demands logical coherence, such as the preference of A over C if A is preferred over B and B over C. Substantive rationality, however, considers preferences to be “irrational” if they are self-destructive or harmful, even if they are consistent, as it assesses the value of the preferences, not just their coherence. An earlier discussion on these philosophical issues can be found in the work of Pettit (2002).
+The works of Dietrich and List (2013a,b) explore rationality by contrasting *structural rationality*, which focuses on internal consistency in preferences (as in traditional economics), with *substantive* rationality, which evaluates the content or worthiness of preferences. Formal rationality demands logical coherence, such as the preference of *A* over *C* if *A* is preferred over *B* and *B* over *C*. Substantive rationality, however, considers preferences to be “irrational” if they are self-destructive or harmful, even if they are consistent, as it assesses the value of the preferences, not just their coherence. An earlier discussion on these philosophical issues can be found in the work of Pettit (2002).
 
 #### 4.2.3 Reasons and preference
 
@@ -365,22 +365,22 @@ Osherson and Weinstein (2012) propose a logic of preference where preferences ar
 
 When choosing whether or not to install a fire alarm, a person may consider safety and cost as different reasons that support or oppose that course of action. In this example, a preference for installing a fire alarm puts great value on increasing safety, so this preference is based on a “safety reason”. If finances are tight, the cost may serve as a reason against installing the alarm.
 
-Each reason (e.g., safety or cost) can be quantified using *utility scales* representing how much better or worse each choice is, based on a specific criterion. Formally, a “utility function” u is defined as a mapping
+Each reason (e.g., safety or cost) can be quantified using *utility scales* representing how much better or worse each choice is, based on a specific criterion. Formally, a “utility function” *u* is defined as a mapping
 
 $$u: W \times S \rightarrow \mathbb{R}$$
 
-where W is the set of possible worlds and S indexes utility scales such as safety or cost.
+where *W* is the set of possible worlds and *S* indexes utility scales such as safety or cost.
 
-To evaluate a choice such as whether or not to install a fire alarm, the model uses a “selection function” s to identify alternative worlds that are closest to the real world for comparison purposes. For example, it compares
+To evaluate a choice such as whether or not to install a fire alarm, the model uses a “selection function” *s* to identify alternative worlds that are closest to the real world for comparison purposes. For example, it compares
 
 - world $w_1$, where a fire alarm is installed (a safer world), and
 - world $w_2$, where no fire alarm is installed (the current, less safe world).
 
-Formally, the “selection function” $s(w, A)$ selects a representative world from set A based on its similarity to the current world w:
+Formally, the “selection function” $s(w, A)$ selects a representative world from set *A* based on its similarity to the current world *w*:
 
 $$s(w, A) = \text{closest world in } A \text{ to } w.$$
 
-Finally, the preference relation can be formally defined using modal expressions. For instance, $p \succ_1 \neg p$ holds if, for safety reasons, installing an alarm (represented by p) is preferred over not installing one, denoted by the utility scale $u_1$ for safety. If $u_2$ (cost) is also considered, the preference relation may combine both $u_1$ and $u_2$, thereby capturing a comprehensive view that balances safety and cost.
+Finally, the preference relation can be formally defined using modal expressions. For instance, $p \succ_1 \neg p$ holds if, for safety reasons, installing an alarm (represented by *p*) is preferred over not installing one, denoted by the utility scale $u_1$ for safety. If $u_2$ (cost) is also considered, the preference relation may combine both $u_1$ and $u_2$, thereby capturing a comprehensive view that balances safety and cost.
 
 This logic framework enables structured reasoning that incorporates specific reasons behind preferences, allowing for a nuanced representation of choices grounded in real-life decision-making contexts.
 
@@ -419,7 +419,7 @@ More generally, in this framework, suggestion $\sharp(\varphi)$ can be understoo
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 
-indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
+indicating that all existing *R* links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
 
 $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
 
@@ -457,11 +457,11 @@ In a two-layer structure, the priority base can shift due to changes in the rela
 
 #### 5.3.1 Graph updates: basic operations
 
-Suppose there is a priority base, denoted as $\mathscr{B}$, which is a set of prioritized propositions. When a new proposition A is added, there are straightforward options for incorporating it:
+Suppose there is a priority base, denoted as $\mathscr{B}$, which is a set of prioritized propositions. When a new proposition *A* is added, there are straightforward options for incorporating it:
 
-- give A the highest priority: A can be placed at the top of the priority base to make it the most important proposition.
-- give A the lowest priority: A can be added to the bottom to give it the lowest priority.
-- **side by side**: A can be placed alongside $\mathscr{B}$ without establishing an order between A and the other priorities.
+- give *A* the highest priority: *A* can be placed at the top of the priority base to make it the most important proposition.
+- give *A* the lowest priority: *A* can be added to the bottom to give it the lowest priority.
+- **side by side**: *A* can be placed alongside $\mathscr{B}$ without establishing an order between *A* and the other priorities.
 
 The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
 
@@ -479,19 +479,19 @@ To track changes across different levels—at the world layer and the priority l
 
 $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
-An operation $\alpha$ is a *PDL-definable operation* if it induces a *PDL*-definable relation transformer $\sigma$ by using tests for formulas in the language, weak and strict basic preference relations R, and the universal relation, while allowing arbitrary unions and sequential compositions:
+An operation $\alpha$ is a *PDL-definable operation* if it induces a *PDL*-definable relation transformer $\sigma$ by using tests for formulas in the language, weak and strict basic preference relations *R*, and the universal relation, while allowing arbitrary unions and sequential compositions:
 
 $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 These are interpreted as the standard *PDL* program operations of *test* $?\varphi$, *sequential composition* $``;"$ and *choice* $``\cup"$.
 
-In the two-layer framework, it is interesting to see how priority dynamics can mirror preference dynamics. For example, it is possible to achieve a preference change due to a “suggestion” operator either by altering the world-layer preference relation or by modifying the priority base. If a new proposition A is added in parallel to an existing base $\mathscr{B}$, the preference relation is updated, as shown in the following commuting diagram:
+In the two-layer framework, it is interesting to see how priority dynamics can mirror preference dynamics. For example, it is possible to achieve a preference change due to a “suggestion” operator either by altering the world-layer preference relation or by modifying the priority base. If a new proposition *A* is added in parallel to an existing base $\mathscr{B}$, the preference relation is updated, as shown in the following commuting diagram:
 
 ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
 
 *Diagram A:* Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
 
-Similarly, placing a new proposition A at the top of the priority graph $(\mathscr{B}, <)$ aligns with a radical upgrade at the world level:
+Similarly, placing a new proposition *A* at the top of the priority graph $(\mathscr{B}, <)$ aligns with a radical upgrade at the world level:
 
 ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
 
@@ -525,17 +525,17 @@ The core problem of *ceteris paribus* preference is how to interpret “all else
 
 When interpreting the phrase “all else being equal”, a natural approach is to use equivalence classes of worlds. This approach has been taken by many researchers in the field. For instance, Doyle and Wellman (1994) defined context-dependent equivalence relations among individuals, which is called contextual equivalence. As a consequence, this means that the equivalence class may vary according to the context under consideration.
 
-Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that *w* and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
 
 Van Benthem, Girard, and Roy (2009) applied this idea to equivalence relations between possible worlds: truth-value equivalence for all relevant modal formulas in some specified set. In addition, they showed how this notion links up with von Wright’s work, and how it applies to game-theoretic solution concepts. They introduced new modalities of the form $\langle \Gamma \rangle\varphi$ into the language, formally defined as
 
 $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
 
-where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that *w* and *v* are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
 
 A *ceteris paribus* preference model is a quadruple $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$ where:
 
-- W is a set of states, $\succeq$ is a binary preference relation, V is an evaluation
+- *W* is a set of states, $\succeq$ is a binary preference relation, *V* is an evaluation
 - $\trianglerighteq_{\Gamma}$ is the binary relation given by $w\trianglerighteq_{\Gamma}v$ iff $w\succeq v$ and $w \approx_{\Gamma} v$
 - the strict subrelation $\trianglerighteq_{\Gamma}$ is defined by $w\succ v$ and $w \approx_{\Gamma} v$
 
@@ -574,14 +574,14 @@ CP-nets, short for “conditional preference networks”, essentially embody the
 
 A conditional preference network (CP-net) is a graphical model defined as follows.
 
-Let $V = \{X_1, X_2, \ldots, X_n\}$ be a set of variables where each $X_i$ has a finite domain $\text{Dom}(X_i)$ of possible values. There is a directed graph G where:
+Let $V = \{X_1, X_2, \ldots, X_n\}$ be a set of variables where each $X_i$ has a finite domain $\text{Dom}(X_i)$ of possible values. There is a directed graph *G* where:
 
 - each variable $X_i$ corresponds to a node.
 - the parents of $X_i$, denoted as $\text{Pa}(X_i)$, are nodes with edges directed towards $X_i$. These parents represent the variables that influence the preferences over $X_i$. An edge from $X_i$ to $X_j$ means that the preferences for $X_j$ depend on the value of $X_i$.
 
-Instead of listing preferences for all possible outcomes (which grows exponentially with the number of variables), CP-nets use conditional preference tables (CPTs) to capture only relevant dependencies (i.e., the elements that the preference depends on). Each node $X_i$ is annotated with a CPT that specifies a total order $\succ_{u}$ over $\text{Dom}(X_i)$ for every possible instantiation u of $\text{Pa}(X_i)$. For example:
+Instead of listing preferences for all possible outcomes (which grows exponentially with the number of variables), CP-nets use conditional preference tables (CPTs) to capture only relevant dependencies (i.e., the elements that the preference depends on). Each node $X_i$ is annotated with a CPT that specifies a total order $\succ_{u}$ over $\text{Dom}(X_i)$ for every possible instantiation *u* of $\text{Pa}(X_i)$. For example:
 
-> if $\text{Pa}(X_i) = \{A, B\},$ then the CPT of $X_i$ specifies preferences for all combinations of A and B.
+> if $\text{Pa}(X_i) = \{A, B\},$ then the CPT of $X_i$ specifies preferences for all combinations of *A* and *B*.
 
 The semantics of CP-nets describe how preferences over outcomes are derived based on the structure of each network and the conditional preference tables.
 

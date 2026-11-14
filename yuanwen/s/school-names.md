@@ -439,7 +439,7 @@ Of course, we can distinguish different types of criteria for identifying parts.
 
 [^fung-2007]: Fung, Yiu-Ming, 2007, “A Logical Perspective on ‘Discourse on White-Horse’,” *Journal of Chinese Philosophy*, 34(4): 515–36.
 
-[^fung-2020a]: ––– (ed.), 2020a, Dao Companion to Chinese Philosophy of Logic, Dordrecht: Springer.
+[^fung-2020a]: ––– (ed.), 2020a, *Dao Companion to Chinese Philosophy of Logic*, Dordrecht: Springer.
 
 [^fung-2020b]: –––, 2020b, “Logical Thinking in the Gongsun Longzi,” Yiu-ming Fung (ed.) 2020a, 309–327.
 

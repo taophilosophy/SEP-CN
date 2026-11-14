@@ -30,7 +30,7 @@ Those cases seem to be realistic possibilities that need to be accommodated, and
 
 More generally, Walley assumes a certain credence-betting bridge principle, which I take the liberty to simplify as follows for the sake of accessibility:
 
-- A Credence-Betting Bridge Principle (Bounding Version). An agent’s credence in a proposition *A* is bounded by a closed interval $[a, b]$ of real numbers iff it is acceptable for the agent to
+- *A Credence-Betting Bridge Principle (Bounding Version)*. An agent’s credence in a proposition *A* is bounded by a closed interval $[a, b]$ of real numbers iff it is acceptable for the agent to
 - buy the bet “Win $\$x$ if *A* is true” at $\$ax$,
 - sell it at $\$bx$.
 
@@ -44,7 +44,7 @@ This setting is also liberal enough to model the case in which one has no creden
 
 The above example motivates a new version of Probabilism. A function $f$ that maps some propositions to real numbers is said to *satisfy* a bound $[a, b]$ of one’s credence in proposition $A$ if $f(A)$ exists and $a \le f(A) \le b$. Note that there is no probability measure that simultaneously satisfies the two credence bounds in the above example, because even the lower ends of those two bounds, 0.73 and 0.28, are still too large to sum to 1. This observation motivates the following norm:
 
-- Probabilism (Interval-Satisfiability Version). An agent’s credences ought be such that their bounds are simultaneously satisfied by a probability measure.
+- *Probabilism (Interval-Satisfiability Version).* An agent’s credences ought be such that their bounds are simultaneously satisfied by a probability measure.
 
 Walley (1991: section 3.3.3) develops a Dutch Book argument for this norm.
 
@@ -77,7 +77,7 @@ Despite the above reply to Bertrand’s paradox, there is still the worry that t
 
 Core to objective Bayesianism is the focus on this epistemic virtue: freedom from *overly strong/committal opinions* in the absence of sufficient reason or supporting evidence. Following this idea, Jaynes (1968) generalizes the Principle of Indifference to the Principle of Maximum Entropy. Setting aside the technical details about entropy, that principle can be informally stated as follows:
 
-- The Principle of Maximum Entropy (Informal Version). Let $S$ be the set of the coherent credence assignments that one has no reason against at the beginning of one’s inquiry. Then one’s prior credence assignment ought to be,
+- *The Principle of Maximum Entropy (Informal Version).* Let $S$ be the set of the coherent credence assignments that one has no reason against at the beginning of one’s inquiry. Then one’s prior credence assignment ought to be,
 - the least committal one in $S$ (if there exists a unique one),
 - or one of the least committal ones in $S$ (if there exist multiple ones),
 - or a sufficiently noncommittal one in $S$ (if for every element of $S$ there is always a less committal one in $S$).
@@ -104,7 +104,7 @@ Objective Bayesianism and impermissive Bayesianism, as characterized in this ent
 
 That said, objective Bayesians tend to be sympathetic to impermissivism. Perhaps this is because some motivations of the Indifference Principle lead naturally (although not necessarily) to impermissivism. For an example of such a motivation, think of the Humean thesis that one’s beliefs ought to be proportioned to one’s evidence (Hume 1748/1777: sec. 10, part 1). Now, let that plausible-sounding Humean thesis be developed as follows:
 
-- A Humean Thesis Reformulated. One’s credence in a proposition ought to be equal to *the* degree to which that proposition is supported by one’s total evidence.
+- *A Humean Thesis Reformulated.* One’s credence in a proposition ought to be equal to *the* degree to which that proposition is supported by one’s total evidence.
 
 This thesis motivates a version of the Indifference Principle (that equally supported hypotheses ought to be assigned equal credences). But the same thesis also implies impermissivism if we take seriously the italicized ‘the’ therein, which presupposes that there exists a uniquely correct relation of evidential support. So Schoenfield (2014) argues that, if there is more than one correct relation of evidential support, the above line of motivation will lead to permissivism instead.
 
@@ -112,7 +112,7 @@ This thesis motivates a version of the Indifference Principle (that equally supp
 
 Another way to qualify the Principle of Conditionalization is suggested by Shimony (1970):
 
-- The Principle of Conditionalization (Matching Version). It ought to be that, upon learning $E$, one’s new credence in $H$ be made to match one’s prior conditional credence in $H$ given $E$, if the latter exists.
+- *The Principle of Conditionalization (Matching Version).* It ought to be that, upon learning $E$, one’s new credence in $H$ be made to match one’s prior conditional credence in $H$ given $E$, if the latter exists.
 
 Note how this is immune from the Physics Student Case: the student did not think of the logical claim $E_\textrm{logical}$ before, let alone had a conditional credence given that claim—so the if-clause is not satisfied. In that case, there is simply nothing for the new credence to match.
 
@@ -120,7 +120,7 @@ Note how this is immune from the Physics Student Case: the student did not think
 
 In the main text Jeffrey conditionalization is stated with respect to an evidential proposition $E$, but it is often stated more generally with respect to a finite partition $\{E_i : i = 1, \ldots, n\}$ of propositions (which are by definition mutually exclusive and jointly exhaustive):
 
-- The Principle of Jeffrey Conditionalization. It ought to be that, whenever the immediate effect of the experience that one just received is a change of the credences in the elements of a finite partition $\{E_i : i = 1, \ldots, n\}$ and those credences were all nonzero right before the change, then one’s credence change from $\Cr$ to $\Cr_\textrm{new}$ meet any one of the following equivalent conditions: (1) for each partition element $E_i$ whose new credence is (still) nonzero, the credence ratios of the propositions that each entail $E_i$ are preserved from $\Cr$ to $\Cr_\textrm{new}$, or equivalently, (2) for each partition element $E_i$ whose new credence is (still) nonzero, the conditional credences given $E_i$ are preserved from $\Cr$ to $\Cr_\textrm{new}$, or equivalently, $$ \begin{align} \Cr(X) &= \sum_{i = 1}^{n} \underbrace{\Cr(X \mid E_i)}_\textrm{held constant} \wcdot \Cr(E_i)\\ &\downarrow\\ \underbrace{\Cr_\textrm{new}(X)}_{\substack{\textrm{new weighted}\\ \textrm{average}}} &= \sum_{i = 1}^{n} \underbrace{\Cr(X \mid E_i)}_\textrm{held constant} \cdot \underbrace{\Cr_\textrm{new}(E_i)}_\textrm{new weight} \end{align}\tag{3} $$
+- *The Principle of Jeffrey Conditionalization.* It ought to be that, whenever the immediate effect of the experience that one just received is a change of the credences in the elements of a finite partition $\{E_i : i = 1, \ldots, n\}$ and those credences were all nonzero right before the change, then one’s credence change from $\Cr$ to $\Cr_\textrm{new}$ meet any one of the following equivalent conditions: (1) for each partition element $E_i$ whose new credence is (still) nonzero, the credence ratios of the propositions that each entail $E_i$ are preserved from $\Cr$ to $\Cr_\textrm{new}$, or equivalently, (2) for each partition element $E_i$ whose new credence is (still) nonzero, the conditional credences given $E_i$ are preserved from $\Cr$ to $\Cr_\textrm{new}$, or equivalently, $$ \begin{align} \Cr(X) &= \sum_{i = 1}^{n} \underbrace{\Cr(X \mid E_i)}_\textrm{held constant} \wcdot \Cr(E_i)\\ &\downarrow\\ \underbrace{\Cr_\textrm{new}(X)}_{\substack{\textrm{new weighted}\\ \textrm{average}}} &= \sum_{i = 1}^{n} \underbrace{\Cr(X \mid E_i)}_\textrm{held constant} \cdot \underbrace{\Cr_\textrm{new}(E_i)}_\textrm{new weight} \end{align}\tag{3} $$
 
 The equivalence among the three formulations (1)–(3) assumes Probabilism and the Ratio Formula. In formulation (3), the prior credence $\Cr(X)$ is expressed as a weighted average of some conditional credences, and the credence change is expressed as a change *only* in the weights, holding the conditional credences constant.
 
@@ -128,7 +128,7 @@ The equivalence among the three formulations (1)–(3) assumes Probabilism and t
 
 To prove Weisberg’s (2009b) result about the Red Jelly Bean Case, that it cannot be accommodated by Jeffrey conditionalization, we need a bit of elementary probability theory:
 
-- Proposition (Symmetry of Independence) Suppose that $\Cr$ is probabilistic, that $\Cr(A)$ and $\Cr(B)$ lie strictly between 0 and 1, and that the Ratio Formula holds. Then the following conditions are equivalent: $$\begin{align} \Cr(A \mid B) & = \Cr(A)\tag{1}\\ \Cr(B \mid A) & = \Cr(B \mid \neg A)\tag{2}\\ \Cr(A \mid B) & = \Cr(A \mid \neg B)\tag{3}\\ \end{align} $$
+- *Proposition (Symmetry of Independence)* Suppose that $\Cr$ is probabilistic, that $\Cr(A)$ and $\Cr(B)$ lie strictly between 0 and 1, and that the Ratio Formula holds. Then the following conditions are equivalent: $$\begin{align} \Cr(A \mid B) & = \Cr(A)\tag{1}\\ \Cr(B \mid A) & = \Cr(B \mid \neg A)\tag{2}\\ \Cr(A \mid B) & = \Cr(A \mid \neg B)\tag{3}\\ \end{align} $$
 
 Any of those three clauses can be used to define the independence between propositions $A$ and $B$ with respect to credence assignment $\Cr$. Now, assume the following two conditions from the Red Jelly Bean Case:
 

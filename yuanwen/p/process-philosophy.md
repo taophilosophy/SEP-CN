@@ -271,7 +271,7 @@ This entry owes inspiration, both in structure as well in scope, as well as some
 
 [^coecke-2017]: Coecke, B. 2017. “From quantum foundations via natural language meaning to a theory of everything,” in S. B. Cooper and M. I. Soskova (eds.), The Incomputable: Journeys Beyond the Turing Barrier, Theory and Applications of Computability. Cham: Springer, 63-80.
 
-[^cobb-1965]: Cobb, John B., 1965, A Christian Natural Theology, Philadelphia: Westminster Press.
+[^cobb-1965]: Cobb, John B., 1965, *A Christian Natural Theology*, Philadelphia: Westminster Press.
 
 [^cobb-1976]: Cobb, John B. and David R. Griffin, 1976, *Process Theology: An Introductory Exposition*, Philadelphia, Westminster Press.
 

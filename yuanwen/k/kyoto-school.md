@@ -467,7 +467,7 @@ Daoism | existentialism | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | J
 
 [^ryōsuke-2001]: –––, 2001 (ed.), *Kyōtogakuha to Nihon-kaigun* [The Kyoto School and the Japanese Navy], Kyoto: PHP Shinsho. (Contains notes taken at secret meetings of Kyoto School philosophers discussing politics during the war.)
 
-[^williams-2014]: Williams, David, 2014, *The Philosophy of Japanese Wartime Resistance: A Reading, with Commentary, of the Complete Texts of the Kyoto School Discussions of “The Standpoint of World History and Japan,”* New York: Routledge. (A provocative and controversial rendering and revisionist defense of the wartime Chūōkōron roundtable discussions, in which Kōsaka Masaaki, Nishitani Keiji, Kōyama Iwao, and Suzuki Shigetaka discussed the world-historical significance, idealogical justification, and desirable direction of Japan’s engagement in the Pacific War.)
+[^williams-2014]: Williams, David, 2014, *The Philosophy of Japanese Wartime Resistance: A Reading, with Commentary, of the Complete Texts of the Kyoto School Discussions of “The Standpoint of World History and Japan,”* New York: Routledge. (A provocative and controversial rendering and revisionist defense of the wartime *Chūōkōron* roundtable discussions, in which Kōsaka Masaaki, Nishitani Keiji, Kōyama Iwao, and Suzuki Shigetaka discussed the world-historical significance, idealogical justification, and desirable direction of Japan’s engagement in the Pacific War.)
 
 [^abe-1985]: Abe, Masao, 1985, *Zen and Western Thought*, William R. LaFleur (ed.), London: Macmillan Press (published in North America by University of Hawai‘i Press).
 

@@ -111,7 +111,7 @@ If the language has a device for nominalization of predicates—e.g., a class ab
 
 $$\tag{5} \text{the class of } G \text{s} \eqdf \text{the class of numbers between 3 and 10.}$$
 
-Observe that a heterogeneous definition such as (4) is not a mere abbreviation. For one thing, we regard the expression $x$ in it as a genuine variable which admits of substitution and binding. So, the definiendum Gx is not a *mere* abbreviation for the definiens. Moreover, if such definitions were abbreviations, they would be subject to the requirement that the definiendum must be *shorter* than the definiens, but no such requirement exists. On the other hand, genuine requirements on definitions would make little sense. The following stipulation is not a legitimate definition:
+Observe that a heterogeneous definition such as (4) is not a mere abbreviation. For one thing, we regard the expression $x$ in it as a genuine variable which admits of substitution and binding. So, the definiendum *Gx* is not a *mere* abbreviation for the definiens. Moreover, if such definitions were abbreviations, they would be subject to the requirement that the definiendum must be *shorter* than the definiens, but no such requirement exists. On the other hand, genuine requirements on definitions would make little sense. The following stipulation is not a legitimate definition:
 
 $$\tag{6} Gx \eqdf x \gt y \amp x \lt 10. $$
 
@@ -159,7 +159,7 @@ Now let us equip $L$ with a model-theoretic semantics. That is, we associate wit
 
 The syntactic and semantic formulations of the two criteria are plainly parallel. However, even if we suppose that strong completeness theorems hold for $L$ and $L^{+}$, the two formulations need not be equivalent: it depends on our semantics for definition $\mathcal{D}$. Indeed, several different, non-equivalent formulations of the two criteria are possible within each framework, the syntactic and the semantic.
 
-There is another, more stringent notion of semantic conservativeness that has been prominent in the literature on truth (Halbach 2014, p. 69)[^halbach-2014]. Say that an interpretation $M^{+}$ of $L^{+}$ is an *expansion* of an interpretation $M$ of $L$ iff $M$ and $M^{+}$ assign the same domain(s) to the quantifier(s) in L, and assign the same semantic values to the non-logical constants in $L$. Then we have:
+There is another, more stringent notion of semantic conservativeness that has been prominent in the literature on truth (Halbach 2014, p. 69)[^halbach-2014]. Say that an interpretation $M^{+}$ of $L^{+}$ is an *expansion* of an interpretation $M$ of $L$ iff $M$ and $M^{+}$ assign the same domain(s) to the quantifier(s) in *L,* and assign the same semantic values to the non-logical constants in $L$. Then we have:
 
 **Conservativeness criterion (strong semantic formulation)**: Every interpretation $M$ of $L$ can be expanded to an interpretation $M^{+}$ of $L^{+}$.
 

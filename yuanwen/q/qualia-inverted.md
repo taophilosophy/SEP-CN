@@ -305,9 +305,9 @@ According to the (orthodox) representationalist, an experience has $Q_{B}$, say,
 
 **Orthodox representationalism** $Q_{B}$ = property of visually representing blue (i.e., being an experience of something’s looking blue).
 
-The sense-datum theory is usually taken to be a form of phenomenism; it will be treated as such here.[^note-40] According to the sense-datum theorist, sense-data that are associated with experiences of seeing the sky, lapis lazuli, cobalt glass, etc., have a distinctive property; the traditional sense-datum theorist took this property to be the color blue (see, e.g., Moore 1953, 30, n.2), but let us speak more neutrally and call it ‘blue´’ (Peacocke 1983, Ch. 1). Then, according to the sense-datum theorist, the phenomenist equation can be spelled out more informatively thus:
+The sense-datum theory is usually taken to be a form of phenomenism; it will be treated as such here.[^note-40] According to the sense-datum theorist, sense-data that are associated with experiences of seeing the sky, lapis lazuli, cobalt glass, etc., have a distinctive property; the traditional sense-datum theorist took this property to be the color blue (see, e.g., Moore 1953, 30, n.2), but let us speak more neutrally and call it ‘blue*´*’ (Peacocke 1983, Ch. 1). Then, according to the sense-datum theorist, the phenomenist equation can be spelled out more informatively thus:
 
-**Sense-data theory** $Q_{B} = B$ = being a sensing of a blue´ sense-datum.
+**Sense-data theory** $Q_{B} = B$ = being a sensing of a blue*´* sense-datum.
 
 *Orthodox* phenomenists (for instance Block and Levine) have no truck with sense-data, and typically leave the phenomenist equation unadorned. However, the sense-datum theorist can offer the following consideration in her favor.
 

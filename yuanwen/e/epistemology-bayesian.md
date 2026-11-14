@@ -15,11 +15,11 @@ This section provides an introductory tutorial on Bayesian epistemology, with re
 
 For a glimpse of what Bayesian epistemology is, let’s see what Bayesians have to say about this episode in scientific inquiry:
 
-- Example (Eddington’s Observation). Einstein’s theory of General Relativity entails that light can be deflected by a massive body such as the Sun. This physical effect, predicted by Einstein in a 1911 paper, was observed during a solar eclipse on May 29, 1919, from locations chosen from Eddington’s two expeditions. This result surprised the physics community and was deemed a significant confirmation of Einstein’s theory.
+- *Example (Eddington’s Observation).* Einstein’s theory of General Relativity entails that light can be deflected by a massive body such as the Sun. This physical effect, predicted by Einstein in a 1911 paper, was observed during a solar eclipse on May 29, 1919, from locations chosen from Eddington’s two expeditions. This result surprised the physics community and was deemed a significant confirmation of Einstein’s theory.
 
 The above case makes a general point:
 
-- The Principle of Hypothetico-Deductive Confirmation. Suppose that a scientist is testing a hypothesis *H*. She deduces from it an empirical consequence *E*, and does an experiment, being not sure whether *E* is true. It turns out that she obtains *E* as new evidence as a result of the experiment. Then she ought to become more confident in *H*. Moreover, the more surprising the evidence *E* is, the higher the credence in *H* ought to be raised.
+- *The Principle of Hypothetico-Deductive Confirmation.* Suppose that a scientist is testing a hypothesis *H*. She deduces from it an empirical consequence *E*, and does an experiment, being not sure whether *E* is true. It turns out that she obtains *E* as new evidence as a result of the experiment. Then she ought to become more confident in *H*. Moreover, the more surprising the evidence *E* is, the higher the credence in *H* ought to be raised.
 
 This intuition about how credences ought to change can be vindicated in Bayesian epistemology by appeal to two norms. But before turning to them, we need a setting. Divide the space of possibilities into four, according to whether hypothesis *H* is true or false and whether evidence *E* is true or false. Since *H* logically implies *E*, there are only three distinct possibilities on the table, which are depicted as the three dots in figure 1.
 
@@ -49,15 +49,15 @@ Then conditionalization on *E* requires a total credence collapse followed by a 
 
 The two Bayesian norms sketched above can be stated a bit more generally as follows. (A formal statement will be provided after this tutorial, in section 2.) Suppose that there are some possibilities under consideration, which are mutually exclusive and jointly exhaustive. A proposition under consideration is one that is true or false in each of those possibilities, so it can be identified with the set of the possibilities in which it is true. When those possibilities are finite in number, and when you have credences in all of them, Probabilism takes a simple form, saying that your credences ought to be probabilistic in this sense:
 
-- (Non-Negativity) The credences assigned to the possibilities under consideration are non-negative real numbers.
-- (Sum-to-One) The credences assigned to the possibilities under consideration sum to 1.
-- (Additivity) The credence assigned to a proposition under consideration is equal to the sum of the credences assigned to the possibilities in that proposition.
+- (*Non-Negativity*) The credences assigned to the possibilities under consideration are non-negative real numbers.
+- (*Sum-to-One*) The credences assigned to the possibilities under consideration sum to 1.
+- (*Additivity*) The credence assigned to a proposition under consideration is equal to the sum of the credences assigned to the possibilities in that proposition.
 
 While this norm is *synchronic* in that it constrains your credences at each time, the next norm is *diachronic*. Suppose that you just received a piece of evidence *E*, which is true in at least some possibilities under consideration. Suppose further that *E* exhausts all the evidence you just received. Then the Principle of Conditionalization says that your credences ought to change as if you followed the procedure below (although it is possible to design other procedures to the same effect):
 
-- (Zeroing) For each possibility incompatible with evidence *E*, drop its credence down to zero.
-- (Rescaling) For the possibilities compatible with evidence *E*, rescale their credences by a common factor to make them sum to 1.
-- (Resetting) Now that there is a new credence distribution over the individual possibilities, reset the credences in propositions according to the Additivity rule in Probabilism.
+- (*Zeroing*) For each possibility incompatible with evidence *E*, drop its credence down to zero.
+- (*Rescaling*) For the possibilities compatible with evidence *E*, rescale their credences by a common factor to make them sum to 1.
+- (*Resetting*) Now that there is a new credence distribution over the individual possibilities, reset the credences in propositions according to the Additivity rule in Probabilism.
 
 The second step, rescaling, deserves attention. It is designed to ensure compliance with Probabilism, but it also has an independent, intuitive appeal. Consider any two possibilities in which new evidence *E* is true. Thus the new evidence alone cannot distinguish those two possibilities and, hence, it seems to favor the two equally. So it seems that, if a person starts out being twice as confident in one of those two possibilities as in the other, she should remain so after the credence change in light of *E*, as required by the rescaling step. The essence of conditionalization is preservation of certain ratios of credences, which is a feature inherited by generalizations of conditionalization (see section 5 for details).
 
@@ -83,7 +83,7 @@ Probabilism is often regarded as a *coherence norm*, which says how one’s opin
 
 There is another issue that divides Bayesians. The package of Probabilism and the Principle of Conditionalization seems to explain well why one’s credence in General Relativity ought to rise in Eddington’s Observation Case. But that particular Bayesian explanation relies on a crucial feature of the case: the evidence *E* is *entailed* by the hypothesis *H* in question. But such an entailment is missing in many interesting cases, such as this one:
 
-- Example (Enumerative Induction). After a day of field research, we observed one hundred black ravens without a counterexample. So the newly acquired evidence is *E* = “we have observed one hundred ravens and they all were black”. We are interested in this hypothesis *H* = “the next raven to be observed will be black”.
+- *Example (Enumerative Induction).* After a day of field research, we observed one hundred black ravens without a counterexample. So the newly acquired evidence is *E* = “we have observed one hundred ravens and they all were black”. We are interested in this hypothesis *H* = “the next raven to be observed will be black”.
 
 Now, should the credence in the hypothesis be increased or lowered, according to the two core Bayesian norms? Well, it depends. Note that in the present case *H* entails neither *E* nor its negation, so the possibilities in *H* can be categorized into two groups: those compatible with *E*, and those incompatible with *E*. As a result of conditionalization, the possibilities incompatible with *E* will have their credences be dropped down to zero; those compatible, scaled up. If the scaling up outweighs the dropping down for the possibilities inside *H*, the credence in *H* will rise and thus behave inductively; otherwise, it will stay constant or even go down and thus behave counter-inductively. So it all depends on the specific details of the *prior*, which is shorthand for the assignment of credences that one has before one acquires the new evidence in question. To sum up: Probabilism and the Principle of Conditionalization, alone, are too weak to entitle us to say whether one’s credence ought to change inductively or counter-inductively in the above example.
 
@@ -97,7 +97,7 @@ So far I have been mostly taking for granted the package of Probabilism and the 
 
 There have been a number of arguments advanced in support of the two core Bayesian norms. Perhaps the most influential is of the kind called *Dutch Book arguments*. Dutch Book arguments are motivated by a simple, intuitive idea: Belief guides action. So, the more strongly you believe that it will rain tomorrow, the more inclined you are, or ought to be, to bet on bad weather. This idea, which connects degrees of belief to betting dispositions, can be captured at least partially by the following:
 
-- A Credence-Betting Bridge Principle (Toy Version). If one’s credence in a proposition *A* is equal to a real number *a*, then it is acceptable for one to buy the bet “Win $100 if *A* is true” at the price $\$100 \cdot a$ (and at any lower price).
+- *A Credence-Betting Bridge Principle (Toy Version).* If one’s credence in a proposition *A* is equal to a real number *a*, then it is acceptable for one to buy the bet “Win $100 if *A* is true” at the price $\$100 \cdot a$ (and at any lower price).
 
 This bridge principle might be construed as part of a definition or as a necessary truth that captures the nature of credences, or understood as a norm that jointly constrains credences and betting dispositions (Christensen 1996; Pettigrew 2020a: sec. 3.1)[^christensen-1996][^pettigrew-2020a]. The hope is that, through this bridge principle or perhaps a refined one, bad credences generate bad symptoms in betting dispositions. If so, a close look at betting dispositions might help us sort out bad credences from good ones. This is the strategy that underlies Dutch Book arguments.
 
@@ -118,7 +118,7 @@ So this agent’s betting dispositions make her susceptible to a set of bets tha
 
 The above line of thought can be generalized and turned into a template for Dutch Book arguments:
 
-A Template for Dutch Book Arguments
+*A Template for Dutch Book Arguments*
 
 - Premise 1. You should follow such and such a credence-betting bridge principle (or, due to the nature of credences, you do so necessarily).
 - Premise 2. If you do, and if your credences violate constraint *C*, then provably you are susceptible to a Dutch Book.
@@ -149,13 +149,13 @@ The above are some ways to argue for Bayesian norms. The rest of this introducto
 
 The Principle of Conditionalization requires one to react to new evidence by conditionalizing on it. So this principle, when construed literally, appears to be silent on the case in which one receives *no* new evidence. That is, it seems to be too weak to require that one shouldn’t arbitrarily change credences when there is no new evidence. To remedy this, the Principle of Conditionalization is usually understood such that the case of no new evidence is identified with the limiting case in which one acquires a logical truth as trivial new evidence, which rules out no possibilities. In that case, conditionalization on the trivial new evidence lowers no credences, and thus rescales credences only by a factor of 1—no credence change at all—as desired. Once the Principle of Conditionalization is construed that way, it is no longer too weak, but then the worry is that it becomes too strong. Consider the following case, which Earman (1992) adapts from Glymour (1980):
 
-- Example (Mercury). It is 1915. Einstein has just developed a new theory, General Relativity. He assesses the new theory with respect to some old data that have been known for at least fifty years: the anomalous rate of the advance of Mercury’s perihelion (which is the point on Mercury’s orbit that is closest to the Sun). After some derivations and calculations, Einstein soon recognizes that his new theory entails the old data about the advance of Mercury’s perihelion, while the Newtonian theory does not. Now, Einstein increases his credence in his new theory, and rightly so.
+- *Example (Mercury).* It is 1915. Einstein has just developed a new theory, General Relativity. He assesses the new theory with respect to some old data that have been known for at least fifty years: the anomalous rate of the advance of Mercury’s perihelion (which is the point on Mercury’s orbit that is closest to the Sun). After some derivations and calculations, Einstein soon recognizes that his new theory entails the old data about the advance of Mercury’s perihelion, while the Newtonian theory does not. Now, Einstein increases his credence in his new theory, and rightly so.
 
 Note that, during his derivation and calculation, Einstein does not perform any experiment or collect any new astronomical data, so the body of his evidence seems to remain unchanged, only consisting of the old data. Despite gaining no new evidence, Einstein changes (in fact, raises) his credence in the new theory, and rightly so—against the usual construal of the Principle of Conditionalization. Therefore, there is a dilemma for that principle: when construed literally, it is too weak to prohibit arbitrary credence change; when construed in the usual way, it is too strong to accommodate Einstein’s credence change in the Mercury Case. This problem is *Earman’s problem of old evidence*.
 
 The problem of old evidence is sometimes presented in a different way—in Glymour’s (1980) way—whose target of attack is not the Principle of Conditionalization but this:
 
-- Bayesian Confirmation Theory (A Simple Version). Evidence *E* confirms hypothesis *H* for a person at a time if and only if, at that time, her credence in *H* would be raised if she were to conditionalize on *E* (whether or not she actually does that).
+- *Bayesian Confirmation Theory (A Simple Version).* Evidence *E* confirms hypothesis *H* for a person at a time if and only if, at that time, her credence in *H* would be raised if she were to conditionalize on *E* (whether or not she actually does that).
 
 If *E* is an old piece of evidence that a person had received before, this person’s credence in *E* is currently 1. So, conditionalization on *E* at the present time would involve dropping no credence, followed by rescaling credences with a factor of 1—so there is no credence change at all. Then, by the Bayesian account of confirmation stated above, old evidence *E* must fail to confirm new theory *H*. But that result seems to be wrong because the old data about the advance of Mercury’s perihelion confirmed Einstein’s new theory; this is *Glymour’s problem of old evidence*, construed as a challenge to a Bayesian account of confirmation. But, if Earman (1992) is right, the Mercury Case challenges not just Bayesian confirmation theory, but actually cuts deeper, all the way to one of the two core Bayesian norms—namely, the Principle of Conditionalization—as suggested by Earman’s problem of old evidence. For attempted solutions to Earman’s old evidence problem (about conditionalization), see section 5.1 below. For more on Glymour’s old evidence problem (about confirmation), see section 3.5 of the entry on confirmation.
 
@@ -165,9 +165,9 @@ The above is just the beginning of a series of problems for the Principle of Con
 
 Another worry is that the two core Bayesian norms are not the kind of norms that we ought to follow, in that they are too demanding to be actually followed by ordinary human beings—after all, *ought* implies *can*. More specifically, those Bayesian norms are often thought to be too demanding for at least three reasons:
 
-1. (Sharpness) Probabilism demands that one’s credence in a proposition be extremely sharp, as sharp as an individual real number, precise to potentially infinitely many digits.
-2. (Perfect Fit) Probabilism demands that one’s credences fit together nicely; for example, some credences are required to sum to exactly 1, no more and no less—a perfect fit. The Principle of Conditionalization also demands a perfect fit among three things: prior credences, posterior credences, and new evidence.
-3. (Logical Omniscience) Probabilism is often thought to demand that one be *logically omniscient*, having credence 1 in every logical truth and credence 0 in every logical falsehood.
+1. (*Sharpness*) Probabilism demands that one’s credence in a proposition be extremely sharp, as sharp as an individual real number, precise to potentially infinitely many digits.
+2. (*Perfect Fit*) Probabilism demands that one’s credences fit together nicely; for example, some credences are required to sum to exactly 1, no more and no less—a perfect fit. The Principle of Conditionalization also demands a perfect fit among three things: prior credences, posterior credences, and new evidence.
+3. (*Logical Omniscience*) Probabilism is often thought to demand that one be *logically omniscient*, having credence 1 in every logical truth and credence 0 in every logical falsehood.
 
 The last point, logical omniscience, might not be immediately clear from the preceding presentation, but it can be seen from this observation: A logical truth is true in all possibilities, so it has to be assigned credence 1 by Sum-to-One and Additivity in Probabilism.
 
@@ -197,18 +197,18 @@ Let $\Omega$ be a set of possibilities that are mutually exclusive and jointly e
 
 Let $\Cr$ be an assignment of credences to some propositions. We will often think of $\Cr(A)$ as denoting one’s credence in proposition $A$ and refer to $\Cr$ as one’s *credence function* or *credence assignment*. Next, we need a definition from probability theory:
 
-- Definition (Probability Measure). A credence function $\Cr(\wcdot)$ is said to be *probabilistic*, also called a *probability measure*, if it is a real-valued function defined on an algebra ${\cal A}$ of propositions and satisfies the three axioms of probability:
-- (Non-Negativity) $\Cr(A) \ge 0$ for every $A$ in $\cal A$.
-- (Normalization) $\Cr(\Omega) = 1$.
-- (Finite Additivity) $\Cr(A \cup B) = \Cr(A) + \Cr(B)$ for any two incompatible propositions (i.e., disjoint sets) $A$ and $B$ in $\cal A$.
+- *Definition (Probability Measure).* A credence function $\Cr(\wcdot)$ is said to be *probabilistic*, also called a *probability measure*, if it is a real-valued function defined on an algebra ${\cal A}$ of propositions and satisfies the three axioms of probability:
+- (*Non-Negativity*) $\Cr(A) \ge 0$ for every $A$ in $\cal A$.
+- (*Normalization*) $\Cr(\Omega) = 1$.
+- (*Finite Additivity*) $\Cr(A \cup B) = \Cr(A) + \Cr(B)$ for any two incompatible propositions (i.e., disjoint sets) $A$ and $B$ in $\cal A$.
 
 Now Probabilism can be stated as follows:
 
-- Probabilism (Standard Version). One’s assignment of credences at each time ought to be a probability measure.
+- *Probabilism (Standard Version).* One’s assignment of credences at each time ought to be a probability measure.
 
 When it is clear from the context that the credence assignment $\Cr$ is assumed to be probabilistic, it is often written $\Pr$ or $P$. The process of conditionalization can be defined as follows:
 
-- Definition (Conditionalization). Suppose that $\Cr(E) \neq 0$. A (new) credence function $\Cr'(\wcdot)$ is said to be obtained from (old) credence function $\Cr(\wcdot)$ by *conditionalization* on $E$ if, for each $X \in {\cal A}$, $$\Cr'(X) = \frac{\Cr(X\cap E)}{\Cr(E)}.$$
+- *Definition (Conditionalization).* Suppose that $\Cr(E) \neq 0$. A (new) credence function $\Cr'(\wcdot)$ is said to be obtained from (old) credence function $\Cr(\wcdot)$ by *conditionalization* on $E$ if, for each $X \in {\cal A}$, $$\Cr'(X) = \frac{\Cr(X\cap E)}{\Cr(E)}.$$
 
 Conditionalization changes the credence in $X$ from $\Cr(X)$ to $\Cr'(X)$, which can be understood as involving two steps:
 
@@ -216,13 +216,13 @@ $$\Cr(X) \ovrightarrow{(i)} \Cr(X \cap E) \ovrightarrow{(ii)} \frac{\Cr(X\cap E)
 
 Transition (i) corresponds to the zeroing step in the informal presentation in section 1.2 of conditionalization; transition (ii), the rescaling step. Now the second norm can be stated as follows:
 
-- The Principle of Conditionalization (Standard Version). One’s credences ought to change by and only by conditionalization on the new evidence received.
+- *The Principle of Conditionalization (Standard Version).* One’s credences ought to change by and only by conditionalization on the new evidence received.
 
 The two norms just stated reduce to the informal versions presented in the tutorial section 1.2 when $\Omega$ contains only finitely many possibilities and $\cal A$ is the set of all subsets of $\Omega$.
 
 Let $\Cr(X \mid E)$ denote one’s credence in $X$ on the supposition of the truth of $E$ (whether or not one will actually receive $E$ as new evidence); it is also called credence in $X$ given $E$, or credence in $X$ conditional on $E$. So $\Cr(X \mid E)$ denotes a *conditional* credence, while $\Cr(X)$ denotes an *unconditional* one. The connection between those two kinds of credences is often expressed by
 
-The Ratio Formula
+*The Ratio Formula*
 
 $$\Cr(X\mid E) = \frac{\Cr(X \cap E)}{\Cr(E)} \quad\text{ if } \Cr(E) \neq 0.$$
 
@@ -230,9 +230,9 @@ It is debatable whether this formula should be construed as a definition or as a
 
 Many applications of Bayesian epistemology make use *Bayes’ theorem*. It has different versions, of which two are particularly simple:
 
-- Bayes’ Theorem (Simplest Version). Suppose that $\Cr$ is probabilistic and assigns nonzero credences to $H$ and $E$, and that the Ratio Formula holds.[^note-3] Then we have: $$ \Cr(H\mid E) = \frac{\Cr(E \mid H) \cdot \Cr(H)}{\Cr(E)} . $$
+- *Bayes’ Theorem (Simplest Version).* Suppose that $\Cr$ is probabilistic and assigns nonzero credences to $H$ and $E$, and that the Ratio Formula holds.[^note-3] Then we have: $$ \Cr(H\mid E) = \frac{\Cr(E \mid H) \cdot \Cr(H)}{\Cr(E)} . $$
 
-- Bayes’ Theorem (Finite Version). Suppose further that hypotheses $H_1, \ldots, H_N$ are mutually exclusive and finite in number, and that each is assigned a nonzero credence and their disjunction is assigned credence 1 by $\Cr$. Then we have: $$ \Cr(H_i\mid E) = \frac{\Cr(E \mid H_i) \cdot \Cr(H_i)}{\sum_{j=1}^{N} \Cr(E \mid H_j) \cdot \Cr(H_j)} . $$
+- *Bayes’ Theorem (Finite Version).* Suppose further that hypotheses $H_1, \ldots, H_N$ are mutually exclusive and finite in number, and that each is assigned a nonzero credence and their disjunction is assigned credence 1 by $\Cr$. Then we have: $$ \Cr(H_i\mid E) = \frac{\Cr(E \mid H_i) \cdot \Cr(H_i)}{\sum_{j=1}^{N} \Cr(E \mid H_j) \cdot \Cr(H_j)} . $$
 
 This theorem is often useful for calculating credences that result from conditionalization on evidence $E$, which are represented on the left side of the formula. Indeed, this theorem is very useful and important in statistical applications of Bayesian epistemology (see section 3.5 below). For more on the significance of this theorem, see the entry on Bayes’ theorem. But this theorem is not essential to some other applications of Bayesian epistemology. Indeed, the case studies in the tutorial section make no reference to Bayes’ theorem. As Earman (1992: ch. 1) points out in his presentation of Bayes’ (1763) seminal essay, Bayesian epistemology is *Bayesian* not really because Bayes’ theorem is used in a certain way, but because Bayes’ essay already contains the core ideas of Bayesian epistemology: Probabilism and the Principle of Conditionalization.
 
@@ -248,13 +248,13 @@ To argue that a certain norm is not just correct but ought to be followed *on pa
 
 Probabilism is often stated as follows:
 
-- Probabilism (Standard Version). One’s assignment of credences ought to be probabilistic in this sense: it is a probability measure.
+- *Probabilism (Standard Version).* One’s assignment of credences ought to be probabilistic in this sense: it is a probability measure.
 
 This norm implies that one should have a credence in a logical truth (indeed, a credence of 1) and that, when one has credences in some propositions, one should *also* have credences in their conjunctions, disjunctions, and negations. So Probabilism in its standard version asks one to have credences in certain propositions. But that seems to be in tension with the fact that Probabilism is often understood as a *coherence* norm. To see why, note that coherence is a matter of fitting things together nicely. So coherence is supposed to put a constraint on the combinations of attitudes that one may have, *without* saying that one must have an attitude toward such and such propositions—contrary to the above version of Probabilism. If so, the right version of Probabilism must be weak enough to allow the absence of some credences, also called *credence gaps*.
 
 The above line of thought has led some Bayesians to develop and defend a weaker version of Probabilism (de Finetti 1970 [1974], Jeffrey 1983, Zynda 1996)[^finetti-1970][^jeffrey-1983][^zynda-1996]:
 
-- Probabilism (Extensibility Version). One’s assignment of credences ought to be probabilistically extensible in this sense: either it is already a probability measure, or it can be turned into a probability measure by assigning new credences to some more propositions without changing the existing credences.
+- *Probabilism (Extensibility Version).* One’s assignment of credences ought to be probabilistically extensible in this sense: either it is already a probability measure, or it can be turned into a probability measure by assigning new credences to some more propositions without changing the existing credences.
 
 It is the second disjunct that allows credence gaps. De Finetti (1970 [1974: sec. 3]) also argues that, when the Dutch Book argument for Probabilism is carefully examined, it can be seen to support only the extensibility version rather than the standard one. His idea is to adopt a liberal conception of betting dispositions: one is permitted to lack any betting disposition about a proposition, which in turn permits one to lack a credence in that proposition.
 
@@ -264,13 +264,13 @@ The above two versions of Probabilism are still similar in that they both imply 
 
 Probabilism, as stated in section 2, implies Finite Additivity, the norm that one’s credence in the disjunction of two incompatible disjuncts ought to be equal to the sum of the credences in those two disjuncts. Finite Additivity can be naturally strengthened as follows:
 
-- Countable Additivity. It ought to be that, for any propositions $A_1,$ $A_2,$…, $A_n,$… that are mutually exclusive, if one has credences in those propositions and in their disjunction $\bigcup_{n=1}^{\infty} A_n$, then one’s credence function $\Cr$ satisfies the following formula: $$\Cr\left( \bigcup_{n=1}^{\infty} A_n \right) = \sum_{n = 1}^{\infty} \Cr\left(A_n\right).$$
+- *Countable Additivity.* It ought to be that, for any propositions $A_1,$ $A_2,$…, $A_n,$… that are mutually exclusive, if one has credences in those propositions and in their disjunction $\bigcup_{n=1}^{\infty} A_n$, then one’s credence function $\Cr$ satisfies the following formula: $$\Cr\left( \bigcup_{n=1}^{\infty} A_n \right) = \sum_{n = 1}^{\infty} \Cr\left(A_n\right).$$
 
 Countable Additivity has extensive applications, both in statistics and in philosophy of science; for a concise summary and relevant references, see J. Williamson (1999: sec. 3).
 
 Although Countable Additivity is a natural strengthening of Finite Additivity, the former is much more controversial. De Finetti (1970 [1974]) proposes a counterexample:
 
-- Example (Infinite Lottery). There is a fair lottery with a countable infinity of tickets. Since it is fair, there is one and only one winning ticket, and all tickets are equally likely to win. For an agent taking all those for granted (i.e., with full credence), what should be her credence in the proposition $A_n$ that the *n*-th ticket will win?
+- *Example (Infinite Lottery).* There is a fair lottery with a countable infinity of tickets. Since it is fair, there is one and only one winning ticket, and all tickets are equally likely to win. For an agent taking all those for granted (i.e., with full credence), what should be her credence in the proposition $A_n$ that the *n*-th ticket will win?
 
 The answer seems to be 0. To see why, note that all those propositions $A_n$ should be assigned equal credences $c$, by the fairness of the lottery. Then it is not hard to show that, in order to satisfy Probabilism, a positive $c$ is too high and a negative $c$ is too low.[^note-4] So, by Probabilism, the only alternative is $c = 0$. But this result violates Countable Additivity: by the fairness of the lottery, the left side is
 
@@ -290,7 +290,7 @@ It is debatable whether we really need to defend Countable Additivity in order t
 
 A contingent proposition is true in some cases, while a logical falsehood is true in no cases at all. So perhaps the credence in the former should always be greater than the credence in the latter, which must be 0. This line of thought motivates the following norm:
 
-- Regularity. It ought to be that, if one has a credence in a logically consistent proposition, it is greater than 0.
+- *Regularity.* It ought to be that, if one has a credence in a logically consistent proposition, it is greater than 0.
 
 Regularity has been defended with a Dutch Book argument—a somewhat nonstandard one. Kemeny (1955) and Shimony (1955) show that any violation of Regularity opens the door to a nonstandard, *weak* Dutch Book, which is a set of bets that guarantees no gain but has a possible loss. In contrast, a standard Dutch Book has a sure loss. This raises the question whether it is really so bad to be vulnerable to a weak Dutch Book.
 
@@ -298,7 +298,7 @@ One might object to Regularity on the ground that it is in conflict with Conditi
 
 There is a more serious objection to Regularity. Consider the following case:
 
-- Example (Coin). An agent is interested in the *bias* of a certain coin—the objective, physical chance for that coin to land heads when tossed. This agent’s credences are *distributed uniformly* over the possible biases of the coin. This means that her credence in “the bias falls within interval $[a, b]$” is equal to the length of the interval, $b-a$, provided that the interval is nested within $[0, 1]$. Now think about “the coin is fair”, which says that the bias is equal to 0.5, i.e., that the bias falls within the trivial interval $[0.5, 0.5]$. So “the coin is fair” is assigned credence $0.5 - 0.5$, which equals 0 and violates Regularity.
+- *Example (Coin).* An agent is interested in the *bias* of a certain coin—the objective, physical chance for that coin to land heads when tossed. This agent’s credences are *distributed uniformly* over the possible biases of the coin. This means that her credence in “the bias falls within interval $[a, b]$” is equal to the length of the interval, $b-a$, provided that the interval is nested within $[0, 1]$. Now think about “the coin is fair”, which says that the bias is equal to 0.5, i.e., that the bias falls within the trivial interval $[0.5, 0.5]$. So “the coin is fair” is assigned credence $0.5 - 0.5$, which equals 0 and violates Regularity.
 
 But there seems to be nothing incoherent in this agent’s credences.
 
@@ -308,7 +308,7 @@ The above response to the Coin Case implements a general strategy. The idea is t
 
 This second response can be developed as follows. While being assigned a higher numerical credence implies being taken as more probable, being assigned the same numerical credence does not really imply being taken as equally probable. That is, (real-valued) numerical credences actually do not have enough structure to represent everything there is in a qualitative ordering of comparative probability, as Hájek (2003) suggests. So, in the Coin Case, the contingent proposition “the coin is fair” is assigned credence 0, the same credence as a logical falsehood is assigned. But it does not mean that those two propositions, one contingent and one self-contradictory, should be taken as equally probable. Instead, the contingent proposition “the coin is fair” should still be taken as more probable than a logical falsehood. That is, the following norm still holds:
 
-- Comparative Regularity. It ought to be that, whenever one has a judgment of comparative probability between a contingent proposition and a logical falsehood, the former is taken to be more probable than the latter.
+- *Comparative Regularity.* It ought to be that, whenever one has a judgment of comparative probability between a contingent proposition and a logical falsehood, the former is taken to be more probable than the latter.
 
 So, although the second response bites the bullet and abandons Regularity (due to the Coin Case), it manages to settle on a variant, Comparative Regularity. But even Comparative Regularity can be challenged: see T. Williamson (2007) for a putative counterexample. And see Haverkamp and Schulz (2012) for a reply in support of Comparative Regularity.
 
@@ -318,7 +318,7 @@ Note that the second response makes use of one’s ordering of comparative proba
 
 In Bayesian epistemology, a doxastic state is standardly represented by a credence assignment $\Cr$, with conditional credences characterized by
 
-The Ratio Formula
+*The Ratio Formula*
 
 $$ \Cr(A\mid B) = \frac{\Cr(A \cap B)}{\Cr(B)}\quad \text{ if } \Cr(B) \neq 0.$$
 
@@ -326,7 +326,7 @@ The Ratio Formula might be taken to define conditional credences (on the left) i
 
 Whether the Ratio Formula is construed as a definition or a norm, it applies only when the conditioning proposition $B$ is assigned a nonzero credence: $\Cr(B) \neq 0$. But perhaps this qualification is too restrictive:
 
-- Example (Coin, Continued). Conditional on “the coin is fair”, the agent has a 0.5 credence in “the coin will land heads the next time it is tossed”—and rightly so. But this agent assigns a *zero* credence in the conditioning proposition, “the coin is fair”, as in the previous Coin Case.
+- *Example (Coin, Continued).* Conditional on “the coin is fair”, the agent has a 0.5 credence in “the coin will land heads the next time it is tossed”—and rightly so. But this agent assigns a *zero* credence in the conditioning proposition, “the coin is fair”, as in the previous Coin Case.
 
 This 0.5 conditional credence seems to make perfect sense, but it eludes the Ratio Formula. Worse, the above case is not rare: the above conditional credence is a credence in an event conditional on a statistical hypothesis, and such conditional credences, often called *likelihoods*, have been extensively employed in statistical applications of Bayesian epistemology (as will be explained in section 3.5).
 
@@ -334,9 +334,9 @@ There are three possible ways out. They differ in the importance they attribute 
 
 On the *reformatory* approach, the Ratio Formula is no longer important and, instead, is derived as a mere consequence of something more fundamental. While the standard Bayesian view takes norms of unconditional credences to be fundamental and then uses the Ratio Formula as a bridge to conditional credences, the reformatory approach reverses the direction, taking norms of conditional credences as fundamental. Following Popper (1959) and Rényi (1970), this idea can be implemented with a version of Probabilism designed directly for conditional credences:
 
-- Probabilism (Conditional Version). It ought to be that one’s assignment of conditional credences $\Cr( \wcdot \mid \wcdot)$ is a Popper-Rényi function over an algebra ${\cal A}$ of propositions, namely, a function satisfying the following axioms:
-- (Probability) For any logically consistent proposition $A \in {\cal A}$ held fixed, $\Cr( \wcdot \mid A)$ is a probability measure on ${\cal A}$ with $\Cr( A \mid A) = 1$.
-- (Multiplication) For any propositions $A$, $B$, and $C$ in ${\cal A}$ such that $B \cap C$ is logically consistent, $$\Cr(A\cap B \mid C) = \Cr(A \mid B \cap C) \cdot \Cr(B \mid C) .$$
+- *Probabilism (Conditional Version).* It ought to be that one’s assignment of conditional credences $\Cr( \wcdot \mid \wcdot)$ is a Popper-Rényi function over an algebra ${\cal A}$ of propositions, namely, a function satisfying the following axioms:
+- (*Probability*) For any logically consistent proposition $A \in {\cal A}$ held fixed, $\Cr( \wcdot \mid A)$ is a probability measure on ${\cal A}$ with $\Cr( A \mid A) = 1$.
+- (*Multiplication*) For any propositions $A$, $B$, and $C$ in ${\cal A}$ such that $B \cap C$ is logically consistent, $$\Cr(A\cap B \mid C) = \Cr(A \mid B \cap C) \cdot \Cr(B \mid C) .$$
 
 This approach is often called the approach of *coherent conditional probability*, because it seeks to impose coherence constraints directly on conditional credences without a detour through unconditional credences. Once those constraints are in place, one may then add a constraint—normative or definitional—on unconditional credences:
 
@@ -363,7 +363,7 @@ For a critical comparison of those three approaches to conditional credences, se
 
 Recall the Coin Case discussed above: one’s credence in “the coin will land heads the next time it is tossed” conditional on “the coin is fair” is equal to 0.5. This 0.5 conditional credence seems to be the only permissible alternative until the result of the next coin toss is observed. This example suggests a general norm, which connects chances to conditional credences:
 
-- The Principal Principle/Direct Inference Principle. Let $\Cr$ be one’s prior, i.e., the credence assignment that one has at the beginning of an inquiry. Let $E$ be the event that such and such things will happen at a certain future time. Let $A$ be a proposition that entails $\Ch(E) = c$, which says that the chance for $E$ to come out true is equal to $c$. Then one’s prior $\Cr$ ought to be such that $\Cr(E \mid A) = c$, if $A$ is an “ordinary” proposition in that it is logically equivalent to the conjunction of $\Ch(E) = c$ with an “admissible” proposition.
+- *The Principal Principle/Direct Inference Principle.* Let $\Cr$ be one’s prior, i.e., the credence assignment that one has at the beginning of an inquiry. Let $E$ be the event that such and such things will happen at a certain future time. Let $A$ be a proposition that entails $\Ch(E) = c$, which says that the chance for $E$ to come out true is equal to $c$. Then one’s prior $\Cr$ ought to be such that $\Cr(E \mid A) = c$, if $A$ is an “ordinary” proposition in that it is logically equivalent to the conjunction of $\Ch(E) = c$ with an “admissible” proposition.
 
 The if-clause refers to “admissible” propositions, which are roughly propositions that give no more information about whether or not $E$ is true than is already contained in $\Ch(E) = c$. To see why we need the qualification imposed by the if-clause, suppose for instance that the event $E$ is “the coin will land heads the next time it is tossed”. If the conditioning proposition $A$ is “the coin is fair”, it is a paradigmatic example of an “ordinary” proposition. This reproduces the Coin Case, with the conditional credence being the chance 0.5. Alternatively, if the conditioning proposition $A$ is the conjunction of “the coin is fair” and $E$, then the conditional credence $\Cr(E \mid A)$ should be 1 rather than the 0.5 chance of $E$ that $A$ entails. After all, to be given this $A$ is to be given a lot of information, which entails $E$. So this case is supposed to be ruled out by an account of “admissible” propositions. Lewis (1980) initiates a systematic quest for such an account, which has invited counterexamples and responses. See Joyce (2011: sec. 4.2) for a survey.
 
@@ -383,13 +383,13 @@ We have just discussed the Principal Principle, which in a sense asks one to def
 
 Here is another example of a deference principle, proposed by van Fraassen (1984):
 
-- The Reflection Principle. One’s credence at any time $t_1$ in a proposition $A$, conditional on the proposition that one’s future credence at $t_2$ $(> t_1)$ in $A$ will be equal to $x$, ought to be equal to $x$; or put symbolically: $$\Cr_{t_1}( A \mid \Cr_{t_2}(A) = x ) = x.$$ More generally, it ought to be that $$\Cr_{t_1}( A \mid \Cr_{t_2}(A) \in [x, x'] ) \in [x, x'].$$
+- *The Reflection Principle.* One’s credence at any time $t_1$ in a proposition $A$, conditional on the proposition that one’s future credence at $t_2$ $(> t_1)$ in $A$ will be equal to $x$, ought to be equal to $x$; or put symbolically: $$\Cr_{t_1}( A \mid \Cr_{t_2}(A) = x ) = x.$$ More generally, it ought to be that $$\Cr_{t_1}( A \mid \Cr_{t_2}(A) \in [x, x'] ) \in [x, x'].$$
 
 Here, one’s future self is taken as an expert to which one ought to defer. The Reflection Principle admits of a Dutch Book argument (van Fraassen 1984)[^fraassen-1984]. There is another way to defend the Reflection Principle: this synchronic norm is argued to follow from the *synchronic* norm that one ought, at any time, to be fully certain that one will follow the *diachronic* Principle of Conditionalization (as suggested by Weisberg’s 2007 modification of van Fraassen’s 1995 argument)[^fraassen-1995][^weisberg-2007].
 
 The Reflection Principle has invited some putative counterexamples. Here is one, adapted from Talbott (1991):
 
-- Example (Dinner). Today is March 15, 1989. Someone is very confident that she is now having spaghetti for dinner. She is also very confident that, on March 15, 1990 (exactly one year from today), she will have completely forgotten what she is having for dinner now.
+- *Example (Dinner).* Today is March 15, 1989. Someone is very confident that she is now having spaghetti for dinner. She is also very confident that, on March 15, 1990 (exactly one year from today), she will have completely forgotten what she is having for dinner now.
 
 So, this person’s current assignment of credences $\Cr_\textrm{1989}$ has the following properties, where $A$ is the proposition that she has spaghetti for dinner on March 15, 1989:
 
@@ -427,15 +427,15 @@ Yet it might be questioned whether the above parallelism really works in favor o
 
 *Objective Bayesians* contend that, in addition to coherence, there is another epistemic virtue or ideal that needs to be codified into a norm for prior credences: freedom from bias and avoidance of overly strong opinions (Jeffreys 1939; Carnap 1945; Jaynes 1957, 1968; Rosenkrantz 1981; J. Williamson 2010)[^carnap-1945][^jaynes-1957][^jaynes-1968][^jeffreys-1939][^rosenkrantz-1981][^williamson-2010]. This view is often motivated by a case like this:
 
-- Example (Six-Faced Die). Suppose that there is a cubic die with six faces that look symmetric, and we are going to toss it. Suppose further that we have no other idea about this die. Now, what should our credence be that the die will come up 6?
+- *Example (Six-Faced Die).* Suppose that there is a cubic die with six faces that look symmetric, and we are going to toss it. Suppose further that we have no other idea about this die. Now, what should our credence be that the die will come up 6?
 
 An intuitive answer is $1/6$, for it seems that we ought to distribute our credences evenly, with an equal credence, $1/6$, in each of the six possible outcomes. While subjective Bayesians would only say that we *may* do so, objective Bayesians would make the stronger claim that we *ought* to do so. More generally, objective Bayesians are sympathetic to this norm:
 
-- The Principle of Indifference. A person’s credences in any two propositions should be equal if her total evidence no more supports one than the other (the *evidential symmetry* version), or if she has no sufficient reason to have a higher credence in one than in the other (the *insufficient reason* version).
+- *The Principle of Indifference.* A person’s credences in any two propositions should be equal if her total evidence no more supports one than the other (the *evidential symmetry* version), or if she has no sufficient reason to have a higher credence in one than in the other (the *insufficient reason* version).
 
 A standard worry about the Indifference Principle comes from *Bertrand’s paradox*. Here is a simplified version (adapted from van Fraassen 1989)[^fraassen-1989]:
 
-- Example (Square). Suppose that there is a square and that we know for sure that its side length is between 1 and 4 centimeters. Suppose further that we have no other idea about that square. Now, how confident should we be that the square has a side length between 1 and 2 centimeters?
+- *Example (Square).* Suppose that there is a square and that we know for sure that its side length is between 1 and 4 centimeters. Suppose further that we have no other idea about that square. Now, how confident should we be that the square has a side length between 1 and 2 centimeters?
 
 Now, have a look at the two groups of propositions listed in the table below. The left group (1)–(3) focuses on possible side lengths and divides up possibilities by 1-cm-long intervals; the right group $(1')$–$(15')$ focuses on possible areas instead:
 
@@ -459,7 +459,7 @@ The second approach to the Indifference Principle focuses on *permutation* symme
 
 The Indifference Principle has been challenged for another reason. This principle is often understood to dictate equal *real-valued* credences in cases of ignorance, but there is the worry that sometimes we are too ignorant to be justified in having sharp, real-valued credences, as suggested by this case (Keynes 1921: ch. 4)[^keynes-1921]:
 
-- Example (Two Urns). Suppose that there are two urns, *a* and *b*. Urn *a* contains 10 balls. Exactly half of those are white; the other half, black. Urn *b* contains 10 balls, each of which is either black or white, but we have no idea about the white-to-black ratio. Those two urns are each shaken well. A ball is to be drawn from each. What should our credences be in the following propositions?
+- *Example (Two Urns)*. Suppose that there are two urns, *a* and *b*. Urn *a* contains 10 balls. Exactly half of those are white; the other half, black. Urn *b* contains 10 balls, each of which is either black or white, but we have no idea about the white-to-black ratio. Those two urns are each shaken well. A ball is to be drawn from each. What should our credences be in the following propositions?
 - (*A*) The ball from urn *a* is white.
 - (*B*) The ball from urn *b* is white.
 
@@ -475,20 +475,20 @@ The above has only mentioned the versions of objective Bayesianism that are more
 
 Some Bayesians propose that some norms for priors can be obtained by looking into possible futures, with two steps (Good 1976)[^good-1976]:
 
-- Step I (Think Ahead). Develop a normative constraint *C* on the posteriors in some possible futures in which new evidence is acquired.
-- Step II (Solve Backwards). Require one’s priors to be such that, after conditionalization on new evidence, its posterior must satisfy *C*.
+- *Step I (Think Ahead)*. Develop a normative constraint *C* on the posteriors in some possible futures in which new evidence is acquired.
+- *Step II (Solve Backwards)*. Require one’s priors to be such that, after conditionalization on new evidence, its posterior must satisfy *C*.
 
 For lack of a standard name, this approach may be called *forward-looking* Bayesianism. This name is used here as an umbrella term to cover different possible implementations, of which two are presented below.
 
 Here is one implementation. It might be held that one ought to favor a hypothesis if it explains the available evidence better than any other competing hypotheses do. This view is called *inference to the best explanation* (IBE) if construed as a method for theory choice, as originally developed in the epistemology of all-or-nothing beliefs (Harman 1986)[^harman-1986]. It can be carried over to Bayesian epistemology as follows:
 
-- Explanationist Bayesianism (Preliminary Version). One’s prior ought to be such that, given each body of evidence under consideration, a hypothesis that explains the evidence better has a higher posterior.
+- *Explanationist Bayesianism (Preliminary Version).* One’s prior ought to be such that, given each body of evidence under consideration, a hypothesis that explains the evidence better has a higher posterior.
 
 What’s stated here is only a preliminary version. More sophisticated versions are developed by Lipton (2004: ch. 7) and Weisberg (2009a). This view is resisted by some Bayesians to varying degrees. van Fraassen (1989: ch. 7) argues that IBE should be rejected because it is in tension with the two core Bayesian norms. Okasha (2000) argues that IBE only serves as a good heuristic for guiding one’s credence change. Henderson (2014) argues that IBE need not be assumed to guide one’s credence change because it can be justified by little more than the two core Bayesian norms. For more on IBE, see the entry on abduction, in which sections 3.1 and 4 discuss explanationist Bayesianism.
 
 Here is another implementation of forward-looking Bayesianism. It might be thought that, although a scientific method for theory choice is subject to error due to its inductive nature, it is supposed to be able, in a sense, to correct itself. This view is called *the self-corrective thesis*, originally developed in the epistemology of all-or-nothing beliefs by Peirce (1903) and Reichenbach (1938: sec. 38–40). But it can be carried over to Bayesian epistemology as follows:
 
-- Self-Correctionist Bayesianism (Preliminary Version). One’s prior ought, if possible, to have at least the following self-corrective property in every possible state of the world under consideration: one’s posterior credence in the true hypothesis under consideration would eventually become high and stay so if the evidence were to accumulate indefinitely.
+- *Self-Correctionist Bayesianism (Preliminary Version).* One’s prior ought, if possible, to have at least the following self-corrective property in every possible state of the world under consideration: one’s posterior credence in the true hypothesis under consideration would eventually become high and stay so if the evidence were to accumulate indefinitely.
 
 An early version of this view is developed by Freedman (1963) in statistics; see Wasserman (1998: sec. 1–3) for a minimally technical overview. The self-corrective property concerns the long run, so it invites the standard, Keynesian worry that the long run might be too long. For replies, see Diaconis & Freedman (1986b: pp. 63–64) and Kelly (2000: sec. 7). A related worry is that a long-run norm puts no constraint on what matters, namely, our doxastic states in the short run (Carnap 1945)[^carnap-1945]. A possible reply is that the self-corrective property is only a minimum qualification of permissible priors and can be conjoined with other norms for credences to generate a significant constraint on priors. To substantiate that reply, it has been argued that such a constraint on priors is actually stronger than what the rival Bayesians have to offer in some important cases of statistical inference (Diaconis & Freedman 1986a)[^diaconis-1986a] and enumerative induction (Lin forthcoming).
 
@@ -498,11 +498,11 @@ The above two versions of forward-looking Bayesianism both encourage Bayesians t
 
 The above approaches to the problem of the priors are mostly developed with this question in mind:
 
-- The Question of Norms. What are the correct norms that we can articulate to govern prior credences?
+- *The Question of Norms.* What are the correct norms that we can articulate to govern prior credences?
 
 The interest in this question leads naturally to a different but closely related question. Imagine that you are unsympathetic to subjective Bayesianism. Then you might try to add one norm after another to narrow down the candidate pool for the permissible priors, and you might be wondering what this process might end up with. This raises a more abstract question:
 
-- The Question of Uniqueness. Given each possible body of evidence, is there exactly one permissible credence assignment or doxastic state (whether or not we can articulate norms to single out that state)?
+- *The Question of Uniqueness.* Given each possible body of evidence, is there exactly one permissible credence assignment or doxastic state (whether or not we can articulate norms to single out that state)?
 
 *Impermissive* Bayesianism is the view that says “yes”; *permissive* Bayesianism says “no”. The question of uniqueness is often addressed in a way that is somewhat orthogonal to the question of norms, as is suggested by the ‘whether-or-not’ clause in the parentheses. Moreover, the uniqueness question is often debated in a broader context that considers not just credences but all possible doxastic states, thus going beyond Bayesian epistemology. Readers interested in the uniqueness question are referred to the survey by Kopec and Titelbaum (2016).
 
@@ -516,7 +516,7 @@ The Principle of Conditionalization has been challenged with several putative co
 
 Let’s start with the problem of old evidence, which was presented above (in the tutorial section 1.8) but is reproduced below for ease of reference:
 
-- Example (Mercury). It is 1915. Einstein has just developed a new theory, General Relativity. He assesses the new theory with respect to some old data that have been known for at least fifty years: the anomalous rate of the advance of Mercury’s perihelion (which is the point on Mercury’s orbit that is closest to the Sun). After some derivations and calculations, Einstein soon recognizes that his new theory entails the old data about the advance of Mercury’s perihelion, while the Newtonian theory does not. Now, Einstein increases his credence in his new theory, and rightly so.
+- *Example (Mercury).* It is 1915. Einstein has just developed a new theory, General Relativity. He assesses the new theory with respect to some old data that have been known for at least fifty years: the anomalous rate of the advance of Mercury’s perihelion (which is the point on Mercury’s orbit that is closest to the Sun). After some derivations and calculations, Einstein soon recognizes that his new theory entails the old data about the advance of Mercury’s perihelion, while the Newtonian theory does not. Now, Einstein increases his credence in his new theory, and rightly so.
 
 There appears to be no change in the body of Einstein’s evidence when he is simply doing some derivations and calculations. But the *limiting case* of no new evidence seems to be just the case in which the new evidence *E* is trivial, being a logical truth, ruling out no possibilities. Now, conditionalization on new evidence *E* as a logical truth changes no credence; but Einstein changes his credences nonetheless—and rightly so. This is called *the problem of old evidence*, formulated as a counterexample to the Principle of Conditionalization.
 
@@ -538,13 +538,13 @@ There is a fourth worry, which deserves a subsection of its own.
 
 The logical learning approach to the problem of old evidence invites another worry. It seems to fail to address a variant of the Mercury Case, due to Earman (1992: sec. 5.5):
 
-- Example (Physics Student). A physics student just started studying Einstein’s theory of general relativity. Like most physics students, the first thing she learns about the theory, even before hearing any details of the theory itself, is the logical fact $E_\textrm{logical}$ as formulated above. After learning that, this student forms an *initial* credence 1 in $E_\textrm{logical}$, and an initial credence in the new, Einsteinian theory. She also lowers her credence in the old, Newtonian theory.
+- *Example (Physics Student).* A physics student just started studying Einstein’s theory of general relativity. Like most physics students, the first thing she learns about the theory, even before hearing any details of the theory itself, is the logical fact $E_\textrm{logical}$ as formulated above. After learning that, this student forms an *initial* credence 1 in $E_\textrm{logical}$, and an initial credence in the new, Einsteinian theory. She also lowers her credence in the old, Newtonian theory.
 
 The student’s *formation* of a new, initial credence in the new theory seems to pose a relatively little threat to the Principle of Conditionalization, which is most naturally construed as a norm that governs, not credence formation, but credence change. So the more serious problem lies in the student’s *change* of her credence in the old theory. If this credence drop really results from conditionalization on what was just learned, $E_\textrm{logical}$, then the credence in $E_\textrm{logical}$ must be boosted to 1 from somewhere below 1, which unfortunately never happens. So it seems that the student’s credence drop violates the Principle of Conditionalization and rightly so, which is known as *the problem of new theory*. The following presents two reply strategies for Bayesians.
 
 One reply strategy is to qualify the Conditionalization Principle and make it weaker in order to avoid counterexamples. The following is one way to implement this strategy (see supplement F for another one):
 
-- The Principle of Conditionalization (Plan/Rule Version). It ought to be that, if one has a plan (or follows a rule) for changing credences in the case of learning *E*, then the plan (or rule) is to conditionalize on *E*.
+- *The Principle of Conditionalization (Plan/Rule Version)*. It ought to be that, if one has a plan (or follows a rule) for changing credences in the case of learning *E*, then the plan (or rule) is to conditionalize on *E*.
 
 Note how this version is immune from the Physics Student Case: what is learned, $E_\textrm{logical}$, is something entirely new to the student, so the student simply did not have in mind a plan for responding to $E_\textrm{logical}$—so the if-clause is not satisfied. The Bayesians who adopt this version, such as van Fraassen (1989: ch. 7), often add that one is *not* required to have a plan for responding to any particular piece of new evidence.
 
@@ -554,7 +554,7 @@ While the plan version of the Conditionalization Principle is weak enough to avo
 
 A positive account is promised by the next strategy for solving the problem of new theory. It operates with a series of ideas. The first idea is that, typically, a person only considers possibilities that are not jointly exhaustive, and she only has credences *conditional* on the set *C* of the considered possibilities—lacking an unconditional credence in *C* (Shimony 1970; Salmon 1990)[^salmon-1990][^shimony-1970]. This deviates from the standard Bayesian view in allowing two things: credence gaps (section 3.1), and primitive conditional credences (section 3.4). The second idea is that the set *C* of the considered possibilities might shrink or expand in time. It might shrink because some of those possibilities are ruled out by new evidence, or it might expand because a new possibility—a new theory—is taken into consideration. The third and last idea is a diachronic norm (sketched by Shimony 1970 and Salmon 1990, developed in detail by Wenmackers & Romeijn 2016)[^salmon-1990][^shimony-1970][^wenmackers-2016]:
 
-- The Principle of Generalized Conditionalization (Considered Possibilities Version). It ought to be that, if two possibilities are under consideration at an earlier time and remain so at a later time, then their credence ratio be preserved across those two times.
+- *The Principle of Generalized Conditionalization (Considered Possibilities Version)*. It ought to be that, if two possibilities are under consideration at an earlier time and remain so at a later time, then their credence ratio be preserved across those two times.
 
 Here, a credence ratio has to be understood in such a way that it can exist without any unconditional credence. To see how this is possible, suppose for simplicity that an agent starts with two old theories as the only possibilities under consideration, $\mathsf{old}_1$ and $\mathsf{old}_2$, with a credence ratio $1:2$ but without any unconditional credence. This can be understood to mean that, while the agent lacks an unconditional credence in the set $\{\mathsf{old}_1 , \mathsf{old}_2\}$, she still has a conditional credence $\frac{1}{1+2}$ in $\mathsf{old}_1$ given that set. Now, suppose that this agent then thinks of a new theory: $\mathsf{new}$. Then, by the diachronic norm stated above, the credence ratio among $\mathsf{old}_1$, $\mathsf{old}_2$, $\mathsf{new}$ should now be $1:2:x$. Notice the change of this agent’s conditional credence in $\mathsf{old}_1$ given the *varying* set of the considered possibilities: it drops from $\frac{1}{1+2}$ down to $\frac{1}{1+2+x}$, provided that $x>0$. Wenmackers & Romeijn (2016) argues that this is why there appears to be a drop in the student’s credence in the old theory—it is actually a drop in a conditional credence given the varying set of the considered possibilities.
 
@@ -564,13 +564,13 @@ The above account invites a worry from the perspective of rational choice theory
 
 When we change our credences, the Principle of Conditionalization requires us to raise the credence in some proposition, such as the credence in the new evidence, all the way to 1. But it seems that we often have credence changes that do not accompany such as a radical rise to certainty, as witnessed by the following case:
 
-- Example (Mudrunner). A gambler is very confident that a certain racehorse, called Mudrunner, performs exceptionally well on muddy courses. A look at the extremely cloudy sky has an immediate effect on this gambler’s opinion: an increase in her credence in the proposition $(\textsf{muddy})$ that the course will be muddy—an increase *without* reaching certainty. Then this gambler raises her credence in the hypothesis $(\textsf{win})$ that Mudrunner will win the race, but nothing becomes fully certain. (Jeffrey 1965 [1983: sec. 11.3])[^jeffrey-1965]
+- *Example (Mudrunner).* A gambler is very confident that a certain racehorse, called Mudrunner, performs exceptionally well on muddy courses. A look at the extremely cloudy sky has an immediate effect on this gambler’s opinion: an increase in her credence in the proposition $(\textsf{muddy})$ that the course will be muddy—an increase *without* reaching certainty. Then this gambler raises her credence in the hypothesis $(\textsf{win})$ that Mudrunner will win the race, but nothing becomes fully certain. (Jeffrey 1965 [1983: sec. 11.3])[^jeffrey-1965]
 
 Conditionalization is too inflexible to accommodate this case.
 
 Jeffrey proposes a now-standard solution that replaces conditionalization by a more flexible process for credence change, called *Jeffrey conditionalization*. Recall that conditionalization has a defining feature: it preserves the credence ratios of the possibilities inside new evidence *E* while the credence in *E* is raised all the way to 1. Jeffrey conditionalization does something similar: it preserves the same credence ratios *without* having to raise any credence to 1, and also preserves some *other* credence ratios, i.e., the credence ratios of the possibilities outside *E*. A simple version of Jeffrey’s norm can be stated informally as follows (in the style of the tutorial section 1.2):
 
-- The Principle of Jeffrey Conditionalization (Simplified Version). It ought to be that, if the direct experiential impact on one’s credences causes the credence in *E* to rise to a real number *e* (which might be less than 1), then one’s credences are changed as follows:
+- *The Principle of Jeffrey Conditionalization (Simplified Version).* It ought to be that, if the direct experiential impact on one’s credences causes the credence in *E* to rise to a real number *e* (which might be less than 1), then one’s credences are changed as follows:
 - For the possibilities inside *E*, rescale their credences upward by a common factor so that they sum to *e*; for the possibilities outside *E*, rescale their credences downward by a common factor so that they sum to $1-e$ (to obey the rule of Sum-to-One).
 - Reset the credence in each proposition *H* by adding up the new credences in the possibilities inside *H* (to obey the rule of Additivity).
 
@@ -584,7 +584,7 @@ It seems natural to suppose that the first conditional credence is high and the 
 
 Although Jeffrey conditionalization is more flexible than conditionalization, there is the worry that it is still too inflexible due to something it inherits from conditionalization: the preservation of certain credence ratios or conditional credences (Bacchus, Kyburg, & Thalos 1990; Weisberg 2009b)[^bacchus-1990][^weisberg-2009b]. Here is an example due to Weisberg (2009b: sec. 5):
 
-- Example (Red Jelly Bean). An agent with a prior $\Cr_\textrm{old}$ has a look at a jelly bean. The reddish appearance of that jelly bean has only one immediate effect on this agent’s credences: an increased credence in the proposition that $(\textsf{red})$ there is a red jelly bean. Then this agent comes to have a posterior $\Cr_\textrm{new}$. If this agent later learns that $(\textsf{tricky})$ the lighting is tricky, her credence in the redness of the jelly bean will drop. So, ($a$) $\Cr_\textrm{new}( \textsf{red} \mid \textsf{tricky} ) < \Cr_\textrm{new}( \textsf{red} )$. But if, instead, the tricky lighting had been learned *before* the look at the jelly bean, it would not have changed the credence in the jelly bean’s redness; that is: ($b$) $\Cr_\textrm{old}( \textsf{red} \mid \textsf{tricky} ) = \Cr_\textrm{old}( \textsf{red} ).$
+- *Example (Red Jelly Bean).* An agent with a prior $\Cr_\textrm{old}$ has a look at a jelly bean. The reddish appearance of that jelly bean has only one immediate effect on this agent’s credences: an increased credence in the proposition that $(\textsf{red})$ there is a red jelly bean. Then this agent comes to have a posterior $\Cr_\textrm{new}$. If this agent later learns that $(\textsf{tricky})$ the lighting is tricky, her credence in the redness of the jelly bean will drop. So, ($a$) $\Cr_\textrm{new}( \textsf{red} \mid \textsf{tricky} ) < \Cr_\textrm{new}( \textsf{red} )$. But if, instead, the tricky lighting had been learned *before* the look at the jelly bean, it would not have changed the credence in the jelly bean’s redness; that is: ($b$) $\Cr_\textrm{old}( \textsf{red} \mid \textsf{tricky} ) = \Cr_\textrm{old}( \textsf{red} ).$
 
 Yet it can be proved (with elementary probability theory) that $\Cr_\textrm{new}$ cannot be obtained from $\Cr_\textrm{old}$ by a Jeffrey conditionalization on $\textsf{red}$ (assuming the two conditions $(a)$ and $(b)$ in the above case, the Ratio Formula, and that $\Cr_\textrm{old}$ is probabilistic). See supplement H for a sketch of proof.
 
@@ -596,17 +596,17 @@ For a more detailed discussion of Jeffrey conditionalization, see the surveys by
 
 Conditionalization in the standard version preserves certainties, which fails to accommodate cases of memory loss (Talbott 1991)[^talbott-1991]:
 
-- Example (Dinner). At 6:30 PM on March 15, 1989, Bill is certain that he is having spaghetti for dinner that night. But by March 15 of the next year, Bill has completely forgotten what he had for dinner one year ago.
+- *Example (Dinner).* At 6:30 PM on March 15, 1989, Bill is certain that he is having spaghetti for dinner that night. But by March 15 of the next year, Bill has completely forgotten what he had for dinner one year ago.
 
 There are even putative counterexamples that appear to be worse—with an agent who faces only the danger of memory loss rather than actual memory loss. Here is one such example (Arntzenius 2003)[^arntzenius-2003]:
 
-- Example (Shangri-La). A traveler has reached a fork in the road to Shangri-La. The guardians will flip a fair coin to determine her path. If it comes up heads, she will travel the path by the Mountains and correctly remember that all along. If instead it comes up tails, she will travel by the Sea—with her memory altered upon reaching Shangri-La so that she will incorrectly remember having traveled the path by the Mountains. So, either way, once in Shangri-La the traveler will remember having traveled the path by the Mountains. The guardians explain this entire arrangement to the traveler, who believes those words with certainty. It turns out that the coin comes up heads. So the traveler travels the path by the Mountains and has credence 1 that she does. But once she reaches Shangri-La and recalls the guardians’ words, that credence suddenly drops from 1 down to 0.5.
+- *Example (Shangri-La).* A traveler has reached a fork in the road to Shangri-La. The guardians will flip a fair coin to determine her path. If it comes up heads, she will travel the path by the Mountains and correctly remember that all along. If instead it comes up tails, she will travel by the Sea—with her memory altered upon reaching Shangri-La so that she will incorrectly remember having traveled the path by the Mountains. So, either way, once in Shangri-La the traveler will remember having traveled the path by the Mountains. The guardians explain this entire arrangement to the traveler, who believes those words with certainty. It turns out that the coin comes up heads. So the traveler travels the path by the Mountains and has credence 1 that she does. But once she reaches Shangri-La and recalls the guardians’ words, that credence suddenly drops from 1 down to 0.5.
 
 That credence drop violates the Principle of Conditionalization, and all that happens without any actual loss of memory.
 
 It may be replied that conditionalization can be plausibly generalized to accommodate the above case. Here is an attempt made by Titelbaum (2013a: ch. 6), who develops an idea that can be traced back to Levi (1980: sec. 4.3):
 
-- The Principle of Generalized Conditionalization (Certainties Version). It ought to be that, if two considered possibilities each entail one’s certainties at an earlier time and continue to do so at a later time, then their credence ratio are preserved across those two times.
+- *The Principle of Generalized Conditionalization (Certainties Version).* It ought to be that, if two considered possibilities each entail one’s certainties at an earlier time and continue to do so at a later time, then their credence ratio are preserved across those two times.
 
 This norm allows the set of one’s certainties to expand or shrink, while incorporating the core idea of conditionalization: preservation of credence ratios. To see how this norm accommodates the Shangri-La Case, assume for simplicity that the traveler starts at the initial time with a set of certainties, which expands upon seeing the coin toss result at a later time, but shrinks back to the *original* set of certainties upon reaching Shangri-La at the final time. Note that there is no change in one’s certainties across the initial time and the final time. So, by the above norm, one’s credences at the final time (upon reaching Shangri-La) should be identical to those at the initial time (the start of the trip). In particular, one’s final credence in traveling the path by the Mountains should be the same as the initial credence, which is 0.5. For more on the attempts to save conditionalization from cases of actual or potential memory loss, see Meacham (2010), Moss (2012), and Titelbaum (2013a: ch. 6 and 7).
 
@@ -618,7 +618,7 @@ One’s *self-locating* credences are, for example, credences about who one is, 
 
 To begin with, consider the following case, adapted from Titelbaum (2013a: ch. 12):
 
-- Example (Writer). At $t_1$ it’s midday on Wednesday, and a writer is sitting in an office finishing a manuscript for a publisher, with a deadline by the end of next day, being certain that she only has three more sections to go. Then, at $t_2$, she notices that it gets dark out—in fact, she has lost sense of time because of working too hard, and she is now only sure that it is either Wednesday evening or early Thursday morning. She also notices that she has only got one section done since the midday. So the writer utters to herself: “Now, I still have two more sections to go”. That is the new evidence for her to change credences.
+- *Example (Writer).* At $t_1$ it’s midday on Wednesday, and a writer is sitting in an office finishing a manuscript for a publisher, with a deadline by the end of next day, being certain that she only has three more sections to go. Then, at $t_2$, she notices that it gets dark out—in fact, she has lost sense of time because of working too hard, and she is now only sure that it is either Wednesday evening or early Thursday morning. She also notices that she has only got one section done since the midday. So the writer utters to herself: “Now, I still have two more sections to go”. That is the new evidence for her to change credences.
 
 The problem is that it is not immediately clear what exactly is the proposition *E* that the writer should conditionalize on. The right *E* appears to be the proposition expressed by the writer’s utterance: “Now, I still have two more sections to go”. And the expressed proposition must be one of the following two candidates, depending on when the utterance is actually made (assuming the standard account of indexicals, due to Kaplan 1989)[^kaplan-1989]:
 
@@ -634,7 +634,7 @@ But, with the lost sense of time, it also seems that the writer should condition
 
 While the previous problem concerns only the inputs that should be passed to the conditionalization process, conditionalization itself is challenged when self-locating credences meet the danger of memory loss. Consider the following case, made popular in epistemology by Elga (2000):
 
-- Example (Sleeping Beauty). Sleeping Beauty participates in an experiment. She knows for sure that she will be given a sleeping pill that induces limited amnesia. She knows for sure that, after she falls asleep, a fair coin will be flipped. If it lands heads, she will be awakened on Monday and asked: “How confident are you that the coin landed heads?”. She will not be informed which day it is. If the coin lands tails, she will be awaken on both Monday and on Tuesday and asked the same question each time. The amnesia effect is designed to ensure that, if awakened on Tuesday she will not remember being woken on Monday. And Sleeping Beauty knows all that for sure.
+- *Example (Sleeping Beauty).* Sleeping Beauty participates in an experiment. She knows for sure that she will be given a sleeping pill that induces limited amnesia. She knows for sure that, after she falls asleep, a fair coin will be flipped. If it lands heads, she will be awakened on Monday and asked: “How confident are you that the coin landed heads?”. She will not be informed which day it is. If the coin lands tails, she will be awaken on both Monday and on Tuesday and asked the same question each time. The amnesia effect is designed to ensure that, if awakened on Tuesday she will not remember being woken on Monday. And Sleeping Beauty knows all that for sure.
 
 What should her answer be when she is awakened on Monday and asked how confident she is in the coin’s landing heads? Lewis (2001) employs the Principle of Conditionalization to argue that the answer is $1/2$. His reasoning proceeds as follows: Sleeping Beauty, upon her awakening, acquires no new evidence or acquires only a piece of new evidence that she is already certain of, so by conditionalization her credence in the coin’s landing heads ought to remain the same as it was before the sleep: $1/2$.
 
@@ -688,15 +688,15 @@ Parts 1 and 2 do not have to be ladders that will be kicked away once we reach a
 
 The above reply to the problem of idealization has been reinforced by a sustained project of de-idealization in Bayesian epistemology. The following gives you the flavor of how this project may be pursued. Let’s start with the usual complaint that Probabilism implies:
 
-- Strong Normalization. An agent ought to assign credence 1 to every logical truth.
+- *Strong Normalization.* An agent ought to assign credence 1 to every logical truth.
 
 The worry is that a person can meet this demand only by luck or with an unrealistic ability—the ability to demarcate all logical truths from the other propositions. But some Bayesians argue that the standard version of Probabilism can be suitably de-idealized to obtain a weak version that does not imply Strong Normalization. For example, the extensibility version of Probabilism (discussed in section 3.1) permits one to have credence gaps and, thus, have no credence in any logical truth (de Finetti 1970 [1974]; Jeffrey 1983; Zynda 1996)[^finetti-1970][^jeffrey-1983][^zynda-1996]. Indeed, the extensibility version of Probabilism only implies:
 
-- Weak Normalization. It ought to be that, if an agent has a credence in a logical truth, that credence is equal to 1.
+- *Weak Normalization.* It ought to be that, if an agent has a credence in a logical truth, that credence is equal to 1.
 
 Some Bayesians have tried to de-idealize Probabilism further, to set it free from the commitment that any credence ought to be as sharp as an individual real number, precise to every digit. For example, Walley (1991: ch. 2 and 3) develops a version of Probabilism according to which a credence is permitted to be unsharp in this way. A credence can be bounded by one or another interval of real numbers *without* being equal to any particular real number or any particular interval—even the tightest bound on a credence can be an *incomplete* description of that credence. This interval-bound approach gives rise to a Dutch Book argument for an even weaker version of Probabilism, which only implies:
 
-- Very Weak Normalization. It ought to be that, if an agent has a credence in a logical truth, then that credence is bounded only by intervals that include 1.
+- *Very Weak Normalization.* It ought to be that, if an agent has a credence in a logical truth, then that credence is bounded only by intervals that include 1.
 
 See supplement A for some non-technical details. For more details and related controversies, see the survey by Mahtani (2019) and the entry on imprecise probabilities.
 
@@ -720,7 +720,7 @@ But perhaps there can be a context in which (i) and (ii) are both true and hence
 
 Similarly, suppose that an ordinary human has some incoherent credences, and that it is not the case that she ought to remove the incoherence right away because she has not detected the incoherence. The norm just stated can be thought of as an ought-to-do norm and, hence, need not be taken as a counterexample to Probabilism construed as an ought-to-be norm:
 
-- Probabilism (Ought-to-Be Version). It *ought to be* that one’s credences fit together in the probabilistic way.
+- *Probabilism (Ought-to-Be Version).* It *ought to be* that one’s credences fit together in the probabilistic way.
 
 The ought-to-be reading of ‘ought’ has been employed implicitly or explicitly to defend Bayesian norms—not just by Bayesian philosophers (Zynda 1996; Christensen 2004: ch. 6; Titelbaum 2013a: ch. 3 and 4; Wedgwood 2014; Eder forthcoming)[^christensen-2004][^titelbaum-2013a][^wedgwood-2014][^zynda-1996], but also by Bayesian psychologists (Baron 2012)[^baron-2012]. The distinction between the ought-to-be and the ought-to-do oughts is most often defended in the broader context of normative studies, such as in deontic logic (Castañeda 1970; Horty 2001: sec. 3.3 and 3.4)[^castañeda-1970][^horty-2001] and in metaethics (Broome 1999; Wedgwood 2006; Schroeder 2011)[^broome-1999][^schroeder-2011][^wedgwood-2006].
 
@@ -740,10 +740,10 @@ Bayesian epistemology, despite the problems presented above, has been expanding 
 
 In their more recent works, Bayesians have also started to contribute to some epistemological issues that have traditionally been among the most central concerns for many non-Bayesians, especially for those immersed in the epistemology of all-or-nothing beliefs. I wish to close by giving four groups of examples.
 
-1. Skeptical Challenges: Central to traditional epistemology is the issue of how to address certain skeptical challenges. The Cartesian skeptic thinks that we are not justified in believing that we are not a brain in a vat. Huemer (2016) and Shogenji (2018) have each developed a Bayesian argument against this variety of skepticism. There is also the Pyrrhonian skeptic, who holds the view that no belief can be justified due to the regress problem of justification: once a belief is justified with a reason, that reason is in need of justification, too, which kickstarts a regress. An attempt to reply to this skeptic quickly leads to a difficult choice among three positions: first, foundationalism (roughly, that the regress can be stopped); second, coherentism (roughly, that it is permissible for the regress of justifications to be circular); and third, infinitism (roughly, that it is permissible for the regress of justifications to extend *ad infinitum*). To that issue Bayesians have made some contributions. For example, White (2006) develops a Bayesian argument against an influential version of foundationalism, followed by a reply from Weatherson (2007); for more, see section 3.2 of the entry on formal epistemology. Klein & Warfield (1994) develop a probabilistic argument against coherentism, which initiates a debate joined by many Bayesians; for more, see section 7 of the entry on coherentist theories of epistemic justification. Peijnenburg (2007) defends infinitism by developing a Bayesian version of it. For more on the Cartesian and Pyrrhonian skeptical views, see the entry on skepticism.
-2. Theories of Knowledge and Justified Beliefs: While traditional epistemologists praise knowledge and have extensively studied what turns a belief into knowledge, Moss (2013, 2018) develops a Bayesian counterpart: she argues that a credence can also be knowledge-like, a property that can be studied by Bayesians. Traditional epistemology also features a number of competing accounts of justified belief, and the possibilities of their Bayesian counterparts have been explored by Dunn (2015) and Tang (2016). For more on the prospects of such Bayesian counterparts, see Hájek and Lin (2017).
-3. The Scientific Realism/Anti-Realism Debate: One of the most classic debates in philosophy of science is that between scientific realism and anti-realism. The scientific realist contends that science pursues theories are true literally or at least approximately, while the anti-realist denies that. An early contribution to this debate is van Fraassen’s (1989: part II) Bayesian argument against inference to the best explanation (IBE), which is often used by scientific realists to defend their view. Some Bayesians have joined the debate and try to save IBE instead; see sections 3.1 and 4 of the entry on abduction. Another influential defense of scientific realism proceeds with the so-called *no-miracle argument*. (This argument runs roughly as follows: scientific realism is correct because it is the only philosophical view that does not render the success of science a miracle.) Howson (2000: ch. 3) and Magnus & Callender (2004) maintain that the no-miracle argument commits a fallacy that can be made salient from a Bayesian perspective. In reply, Sprenger & Hartmann (2019: ch. 5) contend that Bayesian epistemology makes possible a better version of the no-miracle argument for scientific realism. An anti-realist view is instrumentalism, which says that science only need to pursue theories that are useful for making observable predictions. Vassend (forthcoming) argues that conditionalization can be generalized in a way that caters to both the scientific realist and the instrumentalist—regardless of whether evidence should be utilized in science to help us pursue truth or usefulness.
-4. Frequentist Concerns: Frequentists about statistical inference design inference procedures for the purposes of, say, testing a working hypothesis, identifying the truth among a set of competing hypotheses, or producing accurate estimates of certain quantities. And they want to design procedures that infer *reliably*—with a low objective, physical chance of making errors. Those concerns have been incorporated into Bayesian statistics, leading to the Bayesian counterparts of some frequentist accounts. In fact, those results have already appeared in standard textbooks on Bayesian statistics, such as the influential one by Gelman et al. (2014: sec. 4.4 and ch. 6). The line between frequentist and Bayesian statistics is blurring.
+1. *Skeptical Challenges*: Central to traditional epistemology is the issue of how to address certain skeptical challenges. The Cartesian skeptic thinks that we are not justified in believing that we are not a brain in a vat. Huemer (2016) and Shogenji (2018) have each developed a Bayesian argument against this variety of skepticism. There is also the Pyrrhonian skeptic, who holds the view that no belief can be justified due to the regress problem of justification: once a belief is justified with a reason, that reason is in need of justification, too, which kickstarts a regress. An attempt to reply to this skeptic quickly leads to a difficult choice among three positions: first, foundationalism (roughly, that the regress can be stopped); second, coherentism (roughly, that it is permissible for the regress of justifications to be circular); and third, infinitism (roughly, that it is permissible for the regress of justifications to extend *ad infinitum*). To that issue Bayesians have made some contributions. For example, White (2006) develops a Bayesian argument against an influential version of foundationalism, followed by a reply from Weatherson (2007); for more, see section 3.2 of the entry on formal epistemology. Klein & Warfield (1994) develop a probabilistic argument against coherentism, which initiates a debate joined by many Bayesians; for more, see section 7 of the entry on coherentist theories of epistemic justification. Peijnenburg (2007) defends infinitism by developing a Bayesian version of it. For more on the Cartesian and Pyrrhonian skeptical views, see the entry on skepticism.
+2. *Theories of Knowledge and Justified Beliefs*: While traditional epistemologists praise knowledge and have extensively studied what turns a belief into knowledge, Moss (2013, 2018) develops a Bayesian counterpart: she argues that a credence can also be knowledge-like, a property that can be studied by Bayesians. Traditional epistemology also features a number of competing accounts of justified belief, and the possibilities of their Bayesian counterparts have been explored by Dunn (2015) and Tang (2016). For more on the prospects of such Bayesian counterparts, see Hájek and Lin (2017).
+3. *The Scientific Realism/Anti-Realism Debate*: One of the most classic debates in philosophy of science is that between scientific realism and anti-realism. The scientific realist contends that science pursues theories are true literally or at least approximately, while the anti-realist denies that. An early contribution to this debate is van Fraassen’s (1989: part II) Bayesian argument against inference to the best explanation (IBE), which is often used by scientific realists to defend their view. Some Bayesians have joined the debate and try to save IBE instead; see sections 3.1 and 4 of the entry on abduction. Another influential defense of scientific realism proceeds with the so-called *no-miracle argument*. (This argument runs roughly as follows: scientific realism is correct because it is the only philosophical view that does not render the success of science a miracle.) Howson (2000: ch. 3) and Magnus & Callender (2004) maintain that the no-miracle argument commits a fallacy that can be made salient from a Bayesian perspective. In reply, Sprenger & Hartmann (2019: ch. 5) contend that Bayesian epistemology makes possible a better version of the no-miracle argument for scientific realism. An anti-realist view is instrumentalism, which says that science only need to pursue theories that are useful for making observable predictions. Vassend (forthcoming) argues that conditionalization can be generalized in a way that caters to both the scientific realist and the instrumentalist—regardless of whether evidence should be utilized in science to help us pursue truth or usefulness.
+4. *Frequentist Concerns*: Frequentists about statistical inference design inference procedures for the purposes of, say, testing a working hypothesis, identifying the truth among a set of competing hypotheses, or producing accurate estimates of certain quantities. And they want to design procedures that infer *reliably*—with a low objective, physical chance of making errors. Those concerns have been incorporated into Bayesian statistics, leading to the Bayesian counterparts of some frequentist accounts. In fact, those results have already appeared in standard textbooks on Bayesian statistics, such as the influential one by Gelman et al. (2014: sec. 4.4 and ch. 6). The line between frequentist and Bayesian statistics is blurring.
 
 So, as can be seen from the many examples in I–IV, Bayesians have been assimilating ideas and concerns from the epistemological tradition of all-or-nothing beliefs. In fact, there have also been attempts to develop a joint epistemology—an epistemology for agents who have both credences and all-or-nothing beliefs at the same time; for details, see section 4.2 of the entry on formal representations of belief.
 

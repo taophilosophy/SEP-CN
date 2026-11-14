@@ -547,7 +547,7 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^more-1662]: More, Henry, 1662, *A Collection of Several Philosophical Writings*, 2 vols., London: Flesher, 2nd edition; reprint, New York, Garland, 1978.
 
-[^heereboord-1663]: Heereboord, Adrianus, 1663, Philosophia naturalis: cum commentariis peripateticis antehac edita, Leiden: Cornelius Driehuysen. Discusses Descartes’ mechanization of the vegetative and sensitive souls. Later editions available through EMB.
+[^heereboord-1663]: Heereboord, Adrianus, 1663, *Philosophia naturalis: cum commentariis peripateticis antehac edita*, Leiden: Cornelius Driehuysen. Discusses Descartes’ mechanization of the vegetative and sensitive souls. Later editions available through EMB.
 
 [^spinoza-1663]: Spinoza, Benedictus de, 1663, *Renati Des Cartes Principiorum philosophiae pars I et II, more geometrico demonstratae*, Amsterdam: Joannes Riewerts. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k943625?rk=21459;2) (pdf). Spinoza’s reconstruction of the arguments of the first two parts of Descartes’ *Principles of Philosophy*.
 

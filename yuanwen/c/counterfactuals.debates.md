@@ -410,7 +410,7 @@ This supports a more general principle, which states right-nested conditionals a
 
 Intuitively, this says one can “import” a right-nested antecedent into the main antecedent, and one can “export” a conjunct in the main antecedent into its own nested antecedent.
 
-Neither the strict semantics nor the ordering semantics validates this principle (though the strict analysis validates the left-to-right direction, Import, assuming $R$ is shift-reflexive: if wRv, then vRv). At first, this seems like a problem given how natural inferences like the following are:
+Neither the strict semantics nor the ordering semantics validates this principle (though the strict analysis validates the left-to-right direction, Import, assuming $R$ is shift-reflexive: if *wRv*, then *vRv*). At first, this seems like a problem given how natural inferences like the following are:
 
 **(A24)**
 
