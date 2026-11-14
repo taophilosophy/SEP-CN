@@ -109,3 +109,5 @@
 | occasionalism | `Trunbout: Brepols` / `Constructionsn` | `Turnhout` / `Constructions` | 拼写（①） |
 | erasmus | `quiddities and ecceities` / `Duncker &amp; Humbolt` / `Dodds, Gregory , 2009` | `haecceities` / `Humboldt` / `Gregory,` | 拼写与空格（①） |
 | erasmus | `&Eacute;<em>rasme…` / `<em>. Desiderius Erasmus…` | 斜体含重音字母、去首点 | 斜体错位（①） |
+| albo-joseph | `R. Josepf Albo` / `Miscel&aacute;neade` / `Dragestellt` / `W. Schlessinger` | `Josef` / `Miscelánea de` / `Dargestellt` / `Schlesinger` | 拼写（①） |
+| albo-joseph | `Joseph Albo&rsquo;s, <em>Buch Ikkarim` | 去逗号 | 标点（①） |
