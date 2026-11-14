@@ -1,0 +1,152 @@
+{
+ "key": "variable element",
+ "term": "variable element",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:06:59+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=805",
+ "hits": [
+  {
+   "cn": "变量",
+   "en": "Variable",
+   "code": "GB/T 39483.2—2020",
+   "standard": "橡胶塑料注射成型机 接口第2部分:数据交换接口",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 38187—2019",
+   "standard": "汽车电气电子可靠性术语",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 38267—2019",
+   "standard": "机床数控系统 编程代码",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 18271.2—2017",
+   "standard": "过程测量和控制装置 通用性能评定方法和程序 第2部分：参比条件下的试验 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 18271.3—2017",
+   "standard": "过程测量和控制装置 通用性能评定方法和程序 第3部分：影响量影响的试验 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 18271.1—2017",
+   "standard": "过程测量和控制装置 通用性能评定方法和程序 第1部分：总则 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 17614.2—2015",
+   "standard": "工业过程控制系统用变送器第2部分:检查和例行试验方法",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 26796.4—2011",
+   "standard": "用于工业测量与控制系统的EPA规范  第4部分：功能块的技术规范",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 19662—2005",
+   "standard": "工业自动化系统  制造报文规范  术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 17645. 20—2002",
+   "standard": "工业自动化系统与集成 零件库 第20部分：逻辑资源：表达式的逻辑模型 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "GB/T 17645.20—2002",
+   "standard": "工业自动化系统与集成零件库第20部分:逻辑资源:表达式的逻辑模型",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "逻辑变量，开关变量",
+   "en": "logic variable,switching variable",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "构件",
+   "en": "element",
+   "code": "GB/T 51239—2017",
+   "standard": "粮食钢板筒仓施工与质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "code": "GB/T 51447—2021",
+   "standard": "建筑信息模型存储标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "部件",
+   "en": "element",
+   "code": "GB/T 50002—2013",
+   "standard": "建筑模数协调标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "管节",
+   "en": "element",
+   "code": "GB 51201—2016",
+   "standard": "沉管法隧道施工与质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "部件",
+   "en": "element",
+   "code": "GB/T 43649—2024",
+   "standard": "木地板和拼花地板 术语",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "因素",
+   "en": "element",
+   "code": "GB/T 33314—2023",
+   "standard": "腐蚀控制工程全生命周期 通用要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "组件",
+   "en": "element",
+   "code": "GB/Z 41506—2022",
+   "standard": "液压传动金属承压壳体的疲劳压力试验 评价方法",
+   "subject": "流体系统和通用件"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2024\": 12, \"2023\": 42, \"2022\": 29, \"2021\": 90, \"2020\": 41, \"2019\": 32, \"2018\": 32, \"2017\": 41, \"2016\": 25, \"2015\": 41, \"2014\": 51, \"2013\": 18, \"2012\": 8, \"2011\": 49, \"2010\": 10, \"2009\": 33, \"2008\": 71, \"2007\": 6, \"2006\": 7, \"2005\": 6, \"2004\": 1, \"2003\": 17, \"2002\": 5, \"2001\": 1, \"2000\": 6, \"1998\": 5, \"1996\": 3, \"1995\": 22, \"1992\": 2, \"1988\": 7, \"1984\": 1, \"暂无年份\": 90}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 4, \"道路车辆工程\": 9, \"造船和海上构筑物\": 2, \"货物的包装和调运\": 3, \"试验\": 7, \"计量学和测量、物理现象\": 10, \"航空器和航天器工程\": 7, \"能源和热传导工程\": 41, \"综合、术语学、标准化、文献\": 98, \"纺织和皮革技术\": 5, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 49, \"石油及相关技术\": 10, \"电气工程\": 36, \"电子学\": 19, \"电信、音频和视频工程\": 5, \"环保、保健和安全\": 21, \"流体系统和通用件\": 7, \"橡胶和塑料工业\": 2, \"材料储运设备\": 11, \"机械系统和通用件\": 23, \"机械制造\": 77, \"木材技术\": 4, \"数学、自然科学\": 10, \"成像技术\": 5, \"建筑材料和建筑物\": 4, \"家用和商用设备、文娱、体育\": 13, \"医药卫生技术\": 4, \"化工技术\": 5, \"冶金\": 17, \"农业\": 8, \"其它\": 122, \"信息技术、办公机械\": 165}, \"typeStats\": {\"7\": 805}, \"totalRecords\": 805, \"tmWordList\": [{\"id\": \"2784285a22e548d79d7607662e123692\", \"databaseId\": null, \"standardId\": \"278686f37afc47f695454a1c554f3220\", \"standardCode\": \"GB/T 39483.2—2020\", \"standardName\": \"橡胶塑料注射成型机 接口第2部分:数据交换接口\", \"standardEnName\": \"Rubber and plastics injection moulding machine—Interface—Part2: Data exchange interface \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1.52\", \"cnName\": \"变量\", \"enName\": \"Variable\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-11-01\", \"ics\": \"71.120\", \"ccs\": \"G95\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37511, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Variable\", \"wordSearch\": \"Variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包含变化值的节点。\\n[GB/T 33863.1—2017,定义3.2.33]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b23beb16de374ef08b12adf9ba9b5a14\", \"databaseId\": null, \"standardId\": \"4267b61630394c1e91238518e3611922\", \"standardCode\": \"GB/T 38187—2019\", \"standardName\": \"汽车电气电子可靠性术语\", \"standardEnName\": \"Terminology of reliability for automotive electrical and electronics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"2.2.1.4\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"43.040.1043\", \"ccs\": \"T36\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70590, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"检测到的特性值，可以有多个数值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dbf1b7681ed84826add15d1c26c9fa7d\", \"databaseId\": null, \"standardId\": \"cffd64f197024c7285482c7d89e61f48\", \"standardCode\": \"GB/T 38267—2019\", \"standardName\": \"机床数控系统 编程代码\", \"standardEnName\": \"Numerical control system of machine tool-Programming code\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.9\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"25.040.2025\", \"ccs\": \"J50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 208101, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对于具体数值一种抽象式表达，可以通过变量进行数据的存储和运算。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6ac1b10217ff43ea94e5b22633e21c3e\", \"databaseId\": null, \"standardId\": \"9d1c7b6a732d4fd2a5de364c2b38e993\", \"standardCode\": \"GB/T 18271.2—2017\", \"standardName\": \"过程测量和控制装置 通用性能评定方法和程序 第2部分：参比条件下的试验 \", \"standardEnName\": \"Process measurement and control devices— General methods and procedures for evaluating performance— Part 2:Tests under reference conditions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"25.040.40\", \"ccs\": \"N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 163225, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其值可变且通常可测出的量或状态（例如温度、流量、速度、信号等）。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>改写GB/T2900.56—2008,定义351-21-01。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5c7bf6a9688046d1a56a3392baf148ec\", \"databaseId\": null, \"standardId\": \"fab70c78b9a9452c9b739d5ba7f9255e\", \"standardCode\": \"GB/T 18271.3—2017\", \"standardName\": \"过程测量和控制装置 通用性能评定方法和程序 第3部分：影响量影响的试验 \", \"standardEnName\": \"Process measurement and control devices— General methods and procedures for evaluating performance Part 3 : Tests for the effects of influence quantities \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"25.040.40\", \"ccs\": \"N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 244159, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其值可变且通常可测出的量或状态（例如温度、流量、速度、信号等）。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>改写GB/T 2900,56—2008,定义351-21-01。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12387de9894446bebd05a3ea661f880b\", \"databaseId\": null, \"standardId\": \"fb00db9f6f4e49f685cc4e4e4bad619f\", \"standardCode\": \"GB/T 18271.1—2017\", \"standardName\": \"过程测量和控制装置 通用性能评定方法和程序 第1部分：总则 \", \"standardEnName\": \"Process measurement and control devices— General methods and procedures for evaluating performance— Part 1: General considerations \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"25.040.40\", \"ccs\": \"N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 244481, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其值可变且通常可测出的量或状态（例如温度、流量、速度、信号等）。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>改写GB/T2900.56—2008，定义351-21-01</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d49af926ccb241b78698e1f641533dbc\", \"databaseId\": null, \"standardId\": \"4f3401d526b84fa49660471507b4fb74\", \"standardCode\": \"GB/T 17614.2—2015\", \"standardName\": \"工业过程控制系统用变送器第2部分:检查和例行试验方法\", \"standardEnName\": \"Transmitters for use in industrial-process control systems-Part 2: Methods for inspection and roution testing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2015-02-04\", \"publishYear\": \"2015\", \"implementTime\": \"2015-08-01\", \"ics\": \"ICS 25.040\", \"ccs\": \"N 18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81739, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其值可变且通常可测出其量或状态。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>例如,温度、流量、速度信号等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0f8c672c5df0461a9df70ee8c9bd31e4\", \"databaseId\": null, \"standardId\": \"25415304e3824e50ae94768b9e70fcbd\", \"standardCode\": \"GB/T 26796.4—2011\", \"standardName\": \"用于工业测量与控制系统的EPA规范  第4部分：功能块的技术规范\", \"standardEnName\": \"EPA specification for use in industrial measurement and control system -  Part 4: Function block technical specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.13\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-01\", \"ics\": \"25.040\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34755, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在不同时间可具有不同值的软件实体。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>变量的值通常限于某种数据类型。</p>\", \"<p>变量可分为输入变量、输出变量和内部变量。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T 21099.1\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec559c09ba5e475682a3da364b908d57\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.03.03\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154267, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一个标识符、一组数据属性、一个或多个地址和各数据值(地址与数据值间的联系可变)组成，通过声明或隐式声明建立的四元组。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>在某些编程语言中，地址可变，因而所结合的数据值可变。在其他编程语言中，地址固定不变，但所结合的数据值在执行期间可以改变。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"86ccab47313d4b9d9783d0a772c522f3\", \"databaseId\": null, \"standardId\": \"7c8d037d44a8428c859763a311ee20d8\", \"standardCode\": \"GB/T 19662—2005\", \"standardName\": \"工业自动化系统  制造报文规范  术语\", \"standardEnName\": \"Industrial automation systems—Manufacturing Message Specification Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"2.44\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2005-01-24\", \"publishYear\": \"2005\", \"implementTime\": \"2005-06-01\", \"ics\": \"25.040.40\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133030, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过唯一名称或描述来引用的一个或多个数据元素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"760e7a24d0b14694a3f2077a946ad5ef\", \"databaseId\": null, \"standardId\": \"5aeafefe5f0e4350b5357cac6950abb6\", \"standardCode\": \"GB/T 17645. 20—2002\", \"standardName\": \"工业自动化系统与集成 零件库 第20部分：逻辑资源：表达式的逻辑模型 \", \"standardEnName\": \"Industrial automation systems and integration Parts Library Part 20:Logical resource :Logical model of expressions \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.3.15\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2002-05-08\", \"publishYear\": \"2002\", \"implementTime\": \"2002-10-01\", \"ics\": \"ICS 25.040.40\", \"ccs\": \"N 18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 92541, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"表达一种指定数据类型的值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"488e99c16b7d4edab75225ccc6ceb08f\", \"databaseId\": null, \"standardId\": \"7368736c28a14a63ae3f9ccd1343254e\", \"standardCode\": \"GB/T 17645.20—2002\", \"standardName\": \"工业自动化系统与集成零件库第20部分:逻辑资源:表达式的逻辑模型\", \"standardEnName\": \"Industrial automation systems and integration-Parts Library-Part 20: Logical resource : Logical model of expressions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3. 3. 15\", \"cnName\": \"变量\", \"enName\": \"variable\", \"publishTime\": \"2002-05-08\", \"publishYear\": \"2002\", \"implementTime\": \"2002-10-01\", \"ics\": \"ICS 25. 040. 40\", \"ccs\": \"N 18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116318, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变量\", \"cnNameSearch\": \"变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"variable\", \"wordSearch\": \"variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"表达一种指定数据类型的值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4a0030f2c2e249779e7528ef029258bf\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.02.01\", \"cnName\": \"逻辑变量，开关变量\", \"enName\": \"logic variable,switching variable\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221685, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑变量，开关变量\", \"cnNameSearch\": \"逻辑变量，开关变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic variable,switching variable\", \"wordSearch\": \"logic variable,switching variable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"只能取有限个可能的值或状态的一种变量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>取值为字符集中的任一个字符的变量。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39685ba611ec4c57a63479edb8ae4642\", \"databaseId\": null, \"standardId\": \"2e4b84bff1bc4274800192041c9015d3\", \"standardCode\": \"GB/T 51239—2017\", \"standardName\": \"粮食钢板筒仓施工与质量验收规范\", \"standardEnName\": \"Code for acceptance of construction quality of grain steel silos\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.15\", \"cnName\": \"构件\", \"enName\": \"element\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49644, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"构件\", \"cnNameSearch\": \"构件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由零件或由零件和部件组成的钢结构基本单元，如梁、柱、支撑等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0d1fffab5fe1475cafc77b649812270d\", \"databaseId\": null, \"standardId\": \"b9fcdf6cf9ad437dae085cc3f80a7fe5\", \"standardCode\": \"GB/T 51447—2021\", \"standardName\": \"建筑信息模型存储标准\", \"standardEnName\": \"Standard for storage of building information model\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.13\", \"cnName\": \"元素\", \"enName\": \"element\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189190, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"元素\", \"cnNameSearch\": \"元素\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"可以用形状表示、材料表示和其他属性描述的有形实体产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"122677f799144fa0b7bd9735a00e88df\", \"databaseId\": null, \"standardId\": \"c08e286505de4732b7fa68dc8b68ba05\", \"standardCode\": \"GB/T 50002—2013\", \"standardName\": \"建筑模数协调标准\", \"standardEnName\": \"Standard for modular coordination of building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.7\", \"cnName\": \"部件\", \"enName\": \"element\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193882, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"部件\", \"cnNameSearch\": \"部件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建筑功能的组成单元，由建筑材料或分部构件构成。在一个及以上方向的协调尺寸符合模数的部件称为模数部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1aed6da043c24a0b82d281ce89718510\", \"databaseId\": null, \"standardId\": \"f8b83613dc754895a5cf8cf9ff04fdf0\", \"standardCode\": \"GB 51201—2016\", \"standardName\": \"沉管法隧道施工与质量验收规范\", \"standardEnName\": \"Code for construction and quality acceptanceof immersed tunnel\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"管节\", \"enName\": \"element\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 243015, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"管节\", \"cnNameSearch\": \"管节\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一次或分次预制完成，可实施浮运、沉放、水下对接组成沉管结构的基本单元。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"faeb9ac8fa974f48a7045cddcd824ece\", \"databaseId\": null, \"standardId\": \"b71ab75c687940f193139f9f98221c9d\", \"standardCode\": \"GB/T 43649—2024\", \"standardName\": \"木地板和拼花地板 术语\", \"standardEnName\": \"Wood flooring and parquet-Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.11\", \"cnName\": \"部件\", \"enName\": \"element\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"79.080;01.040.79\", \"ccs\": \"B68\", \"parentTermId\": null, \"titleId\": null, \"oid\": 187253, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"部件\", \"cnNameSearch\": \"部件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最小的独立单元或在安装前交付的最小单元。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9cd979cca23246478691afddbbf6a7a9\", \"databaseId\": null, \"standardId\": \"ead986fbbd1547fa8acc60fe47030ce4\", \"standardCode\": \"GB/T 33314—2023\", \"standardName\": \"腐蚀控制工程全生命周期 通用要求\", \"standardEnName\": \"Corrosion control engineering life cycle—General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.4\", \"cnName\": \"因素\", \"enName\": \"element\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"03.100.99\", \"ccs\": \"A 01\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230068, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"因素\", \"cnNameSearch\": \"因素\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"影响腐蚀控制工程全生命周期最佳效益的全部要素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"64c81a08a82e42aab42014476160a78e\", \"databaseId\": null, \"standardId\": \"081876e14fc54111bc3d564f53696ab4\", \"standardCode\": \"GB/Z 41506—2022\", \"standardName\": \"液压传动金属承压壳体的疲劳压力试验 评价方法\", \"standardEnName\": \"Hydraulic fluid power—Fatigue pressure testing of metal pressure-containing envelops—Rating methods\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.6\", \"cnName\": \"组件\", \"enName\": \"element\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"23.100.0123\", \"ccs\": \"J20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 7793, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"组件\", \"cnNameSearch\": \"组件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"element\", \"wordSearch\": \"element\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"元件的组成部分（如缸的拉杆、阀的端盖、泵壳体上的螺栓等）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 41}}, \"timestamp\": 1794676015907}"
+}
