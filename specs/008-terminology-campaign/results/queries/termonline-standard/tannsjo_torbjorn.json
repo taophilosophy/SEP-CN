@@ -1,0 +1,19 @@
+{
+ "key": "tannsjo, torbjorn",
+ "term": "Tännsjö, Torbjörn",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T15:43:10+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "标称零功率电阻值(<em>Rn</em>)",
+   "en": "nominal zero-power resistance (<em>Rn</em>)",
+   "code": "GB/T 4475—1995",
+   "standard": "敏感元器件术语",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"1995\": 1}, \"sourceStats\": {\"其它\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"b386c2151f344ee9b97826562f8aac3c\", \"databaseId\": null, \"standardId\": \"2c6f82b1922e4f149471681b0d22baa2\", \"standardCode\": \"GB/T 4475—1995\", \"standardName\": \"敏感元器件术语\", \"standardEnName\": \"Terms of sensor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.2.2\", \"cnName\": \"标称零功率电阻值(<em>Rn</em>)\", \"enName\": \"nominal zero-power resistance (<em>Rn</em>)\", \"publishTime\": \"1995-07-24\", \"publishYear\": \"1995\", \"implementTime\": \"1996-04-01\", \"ics\": \"621.38:621.316.8:001.4\", \"ccs\": \"L15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 46491, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标称零功率电阻值(<em>Rn</em>)\", \"cnNameSearch\": \"标称零功率电阻值(<em>Rn</em>)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"nominal zero-power resistance (<em>Rn</em>)\", \"wordSearch\": \"nominal zero-power resistance (<em>Rn</em>)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"热敏电阻器的设计电阻,通常标志在其上。也称额定零功率电阻值。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794670987002}"
+}
