@@ -2,10 +2,179 @@
  "key": "kuki shuzo",
  "term": "Kuki Shūzō",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T06:39:05+00:00",
- "status": "error",
- "note": "variant=Kuki Shūzō; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Kuki Shūzō: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:19:31+00:00",
+ "status": "ok",
+ "note": "variant=Kuki Shūzō; 审定公布名词库=20; 海峡两岸名词对照库=6; 其他来源数据库=5; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "code": "01.0652",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "code": "01.0651",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "code": "08.031",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞通信与信号转导"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "code": "02.259",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "code": "08.032",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞通信与信号转导"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "code": "08.033",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞通信与信号转导"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "code": "08.034",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞通信与信号转导"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "code": "8.0248",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "code": "8.0249",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "code": "3.1677",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_搅拌与混合设备"
+  },
+  {
+   "cn": "条条与块块",
+   "en": "Tiao-Kuai",
+   "code": "11.0106",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_基本概念"
+  },
+  {
+   "cn": "柿",
+   "en": "persimmon; Diospyros kaki L.",
+   "code": "05.066",
+   "standard": "农学名词",
+   "subject": "园艺作物_果树作物"
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "SrcHomology 2 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "SH3 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "浮技",
+   "en": "floating throw\",\"uki-waza",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "浮落",
+   "en": "floating drop\",\"uki-otoshi",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "浮腰",
+   "en": "floating hip throw\",\"uki-goshi",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "苦夷",
+   "en": "Kuyi",
+   "code": "3.0038",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  }
+ ],
+ "error": null,
  "raw": null
 }

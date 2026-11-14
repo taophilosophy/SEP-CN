@@ -478,7 +478,7 @@ action | cognition: embodied | consciousness: representational theories of | emo
 
 [^matthen-2015]: Matthen, Mohan (ed.), 2015, *The Oxford Handbook of Philosophy of Perception*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.001.0001
 
-[^matthen-2021]: –––, 2021, “The Dual Structure ofc touch”, in Vignemont, Wong, Serino, and Farnè.
+[^matthen-2021]: –––, 2021, “The Dual Structure of Touch”, in Vignemont, Wong, Serino, and Farnè.
 
 [^mcdowell-2011]: McDowell, John, 2011, “Anscombe on bodily self-knowledge”, in *Essays on Anscombe’s “Intention”*, Anton Ford, Jennifer Hornsby, and Frederick Stoutland (eds.), Cambridge MA: MIT Press, 128–146.
 
@@ -640,7 +640,7 @@ action | cognition: embodied | consciousness: representational theories of | emo
 
 [^vignemont-2017]: de Vignemont, Frédérique and Adrian J. T. Alsmith (eds.), 2017, *The Subject’s Matter: Self-Consciousness and the Body*, (Representation and Mind), Cambridge, MA: MIT Press.
 
-[^vignemont-nd]: de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), forthcoming, *The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space*, Oxford: Oxford University Press.
+[^vignemont-2021]: de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), 2021, *The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space*, Oxford: Oxford University Press.
 
 [^welch-1980]: Welch, Robert B. and David H. Warren, 1980, “Immediate Perceptual Response to Intersensory Discrepancy”, *Psychological Bulletin*, 88(3): 638–667. doi:10.1037/0033-2909.88.3.638
 

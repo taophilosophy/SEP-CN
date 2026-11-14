@@ -460,7 +460,7 @@
 
 [^matthen-2015]: Matthen, Mohan (ed.), 2015, *The Oxford Handbook of Philosophy of Perception*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.001.0001
 
-[^matthen-2021]: –––, 2021, “The Dual Structure ofc touch”, in Vignemont, Wong, Serino, and Farnè.
+[^matthen-2021]: –––, 2021, “The Dual Structure of Touch”, in Vignemont, Wong, Serino, and Farnè.
 
 [^mcdowell-2011]: McDowell, John, 2011, “Anscombe on bodily self-knowledge”, in *Essays on Anscombe’s “Intention”*, Anton Ford, Jennifer Hornsby, and Frederick Stoutland (eds.), Cambridge MA: MIT Press, 128–146.
 
@@ -622,7 +622,7 @@
 
 [^vignemont-2017]: de Vignemont, Frédérique and Adrian J. T. Alsmith (eds.), 2017, *The Subject’s Matter: Self-Consciousness and the Body*, (Representation and Mind), Cambridge, MA: MIT Press.
 
-[^vignemont-nd]: de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), forthcoming, *The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space*, Oxford: Oxford University Press.
+[^vignemont-2021]: de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), 2021, *The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space*, Oxford: Oxford University Press.
 
 [^welch-1980]: Welch, Robert B. and David H. Warren, 1980, “Immediate Perceptual Response to Intersensory Discrepancy”, *Psychological Bulletin*, 88(3): 638–667. doi:10.1037/0033-2909.88.3.638
 
@@ -643,9 +643,9 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bodily-awareness)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bodily-awareness/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bodily-awareness/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=bodily-awareness&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/sep/bodily-awareness/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

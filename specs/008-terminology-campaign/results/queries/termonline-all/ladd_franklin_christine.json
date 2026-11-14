@@ -2,10 +2,347 @@
  "key": "ladd-franklin, christine",
  "term": "Ladd-Franklin, Christine",
  "provider": "termonline-all",
- "queried_at": "2026-11-14T06:55:36+00:00",
- "status": "error",
- "note": "variant=Ladd-Franklin, Christine; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Ladd-Franklin, Christine: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:19:31+00:00",
+ "status": "ok",
+ "note": "variant=Ladd-Franklin, Christine; 审定公布名词库=815; 海峡两岸名词对照库=227; 其他来源数据库=22; 预公布名词数据库=34; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "拉德手术",
+   "en": "Ladd operation",
+   "code": "06.158",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_小儿外科学"
+  },
+  {
+   "cn": "静电疗法",
+   "en": "electrostatic field therapy,franklin-ization",
+   "code": "04.0043",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_物理医学与康复[学]"
+  },
+  {
+   "cn": "颗粒体蛋白",
+   "en": "granulin",
+   "code": "2.0604",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "颗粒体蛋白",
+   "en": "granulin",
+   "code": "04.118",
+   "standard": "微生物学名词",
+   "subject": "微生物学_病毒学"
+  },
+  {
+   "cn": "颗粒体蛋白",
+   "en": "granulin",
+   "code": "10.096",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫病理学"
+  },
+  {
+   "cn": "金钱草",
+   "en": "christina loosestrife",
+   "code": "06.422",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_中药"
+  },
+  {
+   "cn": "法兰克尼亚王朝",
+   "en": "Franken Dynasty",
+   "code": "02.0599",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "christian socialism",
+   "code": "14.093",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "Christian Socialism",
+   "code": "01.0067",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际共产主义运动"
+  },
+  {
+   "cn": "基督教原教旨主义",
+   "en": "Christian Fundamentalism",
+   "code": "03.0145",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "法兰基灌注桩",
+   "en": "Franki pile",
+   "code": "17.04.239",
+   "standard": "地质学名词",
+   "subject": "地质学_工程地质学_工程地质勘察与施工"
+  },
+  {
+   "cn": "早期基督教建筑",
+   "en": "early Christian architecture",
+   "code": "03.0268",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19世纪末叶以前建筑"
+  },
+  {
+   "cn": "尼尔森，克里斯蒂娜",
+   "en": "Nilsson\",\"Christine(瑞士)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "富兰克林阵列",
+   "en": "Franklin array",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "颗粒体蛋白",
+   "en": "granulin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "颗粒体蛋白",
+   "en": "granulin",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "格雷-兰金界限",
+   "en": "Grey-Rankin bound",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "佩措尔德",
+   "en": "Petzold\",\"Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "辛丁",
+   "en": "Sinding\",\"Christian(挪威)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "费拉斯",
+   "en": "Ferras\",\"Christian(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "卡尔克布伦纳，克里斯蒂安",
+   "en": "Kalkbrenner\",\"Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "奥尔蒂斯，克里斯蒂娜",
+   "en": "Ortiz\",\"Cristina(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "猪脂",
+   "en": "lard",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "沃尔夫，赫尔穆特",
+   "en": "Wolff\",\"Hellmuth Christian(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "念珠菌属",
+   "en": "Christine Marie Berkhout",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "胡佛征",
+   "en": "Charles Franklin Hoover",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电位差计",
+   "en": "Johann Christian Poggendorff",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "落地",
+   "en": "land",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "台地",
+   "en": "table land",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "陆桥",
+   "en": "Land bridge",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "土地退化",
+   "en": "Land degradation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "净土",
+   "en": "Sukhāvatīvyūha / Pure Land",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "土地法令",
+   "en": "1922 Land Code",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "邦",
+   "en": "state、Land、canton",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人地关系论",
+   "en": "man-land relationship",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "世外桃源",
+   "en": "Land of Peach Blossoms / Land of Idyllic Beauty",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "Christian socialism",
+   "code": "04.0312",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "犹太教-基督教信仰",
+   "en": "Judeo-Christian beliefs",
+   "code": "4.4.5.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的价值观"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "code": "1.137",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派"
+  },
+  {
+   "cn": "土地",
+   "en": "land",
+   "code": "02.0264",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "猪油",
+   "en": "lard",
+   "code": "5.10.2.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  },
+  {
+   "cn": "土地伦理",
+   "en": "land ethic",
+   "code": "3.14.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源"
+  },
+  {
+   "cn": "土地财富",
+   "en": "land wealth",
+   "code": "02.0265",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地所有权",
+   "en": "land ownership",
+   "code": "02.0266",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地所有者",
+   "en": "land owner",
+   "code": "02.0267",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "地租",
+   "en": "land rent",
+   "code": "02.0270",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地价格",
+   "en": "land price",
+   "code": "02.0271",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地社会化",
+   "en": "land socialization",
+   "code": "03.0292",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
