@@ -421,7 +421,10 @@ def _sanitize_table_html(seg, slug):
                      lambda m: '%s../assets/%s/%s%s' % (
                          m.group(1), slug, m.group(2), m.group(3)),
                      seg, flags=re.I)
-    return seg.replace('|', '&#124;')
+    seg = seg.replace('|', '&#124;')
+    # HTML 段压成单行：md 管道表一行一条，段内换行会把外层表行打断；
+    # HTML 语义不依赖空白（无 <pre>），实体保持原样
+    return re.sub(r'[ \t\r\n\f\v]+', ' ', seg).strip()
 
 
 def _stash_inline_tables(s, slug):
