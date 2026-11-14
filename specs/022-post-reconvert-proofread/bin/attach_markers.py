@@ -199,8 +199,11 @@ def apply_plan(pl):
 
 def main(argv):
     apply = '--apply' in argv
-    args = [a for a in argv if not a.startswith('--')]
-    slugs = list(args)
+    states_ok = {'done'}
+    if '--states' in argv:
+        states_ok = set(argv[argv.index('--states') + 1].split(','))
+    slugs = [a for a in argv if not a.startswith('-')
+             and a != (argv[argv.index('--states') + 1] if '--states' in argv else None)]
     out_log = os.path.join(ROOT, 'specs', '022-post-reconvert-proofread', 'results',
                            'attach-log.jsonl')
     done_letters = {}
@@ -225,8 +228,8 @@ def main(argv):
                 state = json.load(io.open(tj, encoding='utf-8')).get('state')
             except Exception:
                 state = 'parse-error'
-        if state != 'done':
-            print('SKIP not-done %s (state=%s)' % (slug, state))
+        if state not in states_ok:
+            print('SKIP not-allowed %s (state=%s, allowed=%s)' % (slug, state, ','.join(sorted(states_ok))))
             continue
         pl = plan_entry(slug, letter)
         n_plan = len(pl['plan'])

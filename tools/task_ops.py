@@ -118,6 +118,10 @@ def advance(slug, step, actor, evidence, unblock=False):
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
+    if not str(actor or "").strip():
+        raise UsageError("actor 必填（写入路径追责字段）")
+    if not str(evidence or "").strip():
+        raise UsageError("evidence 必填（FR-017：哈希/diff/对照记录/检查输出）")
     if unblock:
         task["blockers"] = []
         task["steps"].append({"step": "unblock", "status": "ok", "actor": actor,
@@ -141,6 +145,8 @@ def advance(slug, step, actor, evidence, unblock=False):
     if step != "done" and task["kind"] == "update" and step in ("s1", "s2") \
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
+    if step == "r3" and task.get("kind") != "glossary-maintenance":
+        _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     task["state"] = STEPS[step]
@@ -171,6 +177,29 @@ def _academic_gate(zh_doc, step):
     if r.returncode == 1:
         raise PreconditionError("学术规范门禁未通过（%s 校次）：%s"
                                 % (step, r.stdout.strip()[-800:]))
+
+
+def _independence_gate(task, actor, evidence):
+    """复核独立性机检（rules/04"复核独立性"、ADR-0020 裁定②混合制）。
+
+    r1–r3 的 actor 全部同于初译 actor（retranslate 取 draft、update 取 s1）时，
+    属单会话形态，须在 r3 evidence 记明"冷置"（先做其他任务再回读）；
+    正常形态由评审线交叉满足（specs/005 §6 评审线接管）。
+    旧任务缺首写步则跳过（不强溯）。
+    """
+    first = "draft" if task.get("kind") == "retranslate" else "s1"
+    writer = next((s.get("actor") or "" for s in task.get("steps", [])
+                   if s.get("step") == first), None)
+    if not writer:
+        return
+    actors = [s.get("actor") or "" for s in task.get("steps", [])
+              if s.get("step") in ("r1", "r2")]
+    actors.append(actor or "")
+    if all(a == writer for a in actors) and "冷置" not in (evidence or ""):
+        raise PreconditionError(
+            "复核独立性未满足：r1–r3 与初译 actor（%s）全部相同，单会话形态须在 r3 "
+            "evidence 记明冷置（rules/04 复核独立性；或交评审线交叉 r1–r3，specs/005 §6）"
+            % writer)
 
 
 def reopen(slug, reason, actor):

@@ -35,6 +35,26 @@
 
 本 spec 初稿与升级改动曾于 2026-11-14 被并行会话整卷（package.json/bun.lock 还原、specs/024 目录被扫、prepare-assets.mjs 回滚）——按既定对策原地重做并立即 pathspec 提交压最短窗口。specs/024 相关文件一律以 pathspec 提交，绝不 `git add -A`。
 
+## 复核与修复闭环（2026-11-14 第二轮）
+
+**复核**（用户指令「复核后落地修复」）：
+
+- 全库影响面钉死：自研扫描器遍历 yuanwen 2421 个 md，protectMath 漏保护且含 TeX 命令形态共 **29 行 / 21 文件**，两种形态——`$ (A \to B) $`（首字符空白+非反斜杠开头，B 支首字符限制）与 `$1 = \#[…] $`（数字开头+尾部空格，A 支尾字符限制）。L503 仍原样在盘（022 校对未触及）。
+- 报告 §6 其余项复核通过不动：dl 定义列表 yuanwen.py 已有专项（含 020 移交缺陷修复）；未知标签兜底为既有设计。
+
+**修复**（`math-plugin.mjs` 单 `$` 定界符正则，最小改动）：
+
+- A 支尾字符放宽：`(?:[^\s$][ \t]*)` 允许闭合 `$` 前空白，`\$(?!\d)` 保留（货币防不回归——`$150,000 and $200,000` 实测仍不配对）。
+- B 支首字符放宽：`(?:[ \t]+\\)?(?:\\\$|[^\s$])` → `(?:[ \t]*[^\s$])`，涵盖原子译稿（首空白+命令）与原文圆括号两形态。
+
+**复验三道全过**：
+
+1. 新建 `.vitepress/math-plugin.test.mjs`（node:test 12 例）：两类缺口形态、货币守卫双例、display 块、围栏/行内代码豁免、尖括号白名单、哨兵无损还原——**12/12 过**。
+2. 全库重扫 **suspect 29 → 0**（2421 文件）。
+3. dev 冒烟 frege-theorem：`[data-mjx-error]` 与 `merror` **2 → 0**，受保护公式 span **1157 → 1180**（修复多护住 23 处），全部排版（mjx=1180），MathJax 4.1.3。
+
+提交：`40c58dff0`（修复+测试，pathspec）。build 红线销账确认：023 Phase 1 收口提交 `aa1caa8b6`（全量构建绿，12G 堆）。
+
 ## 冒烟结果（2026-11-14，dev :81）
 
 - 试金石 frege-theorem（原文侧）：MathJax **4.1.3** 加载成功（`window.MathJax.version`），1157 个 `.math-tex` span 全部排版为 1171 个 `mjx-container`，`typesetPromise` 就绪，SPA 手动排版模式工作正常，`svg.fontCache:'global'` 与 `enableMenu:true` 配置项在 v4 组件中实测存在。
