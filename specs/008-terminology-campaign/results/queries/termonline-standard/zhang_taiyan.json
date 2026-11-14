@@ -1,0 +1,33 @@
+{
+ "key": "zhang taiyan",
+ "term": "Zhang Taiyan",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:51:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "欠幛",
+   "en": "qian zhang",
+   "code": "GB/T 21930—2008",
+   "standard": "地理标志产品 云锦",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "范、幛、纤",
+   "en": "fan,zhang,qian",
+   "code": "GB/T 21930—2008",
+   "standard": "地理标志产品 云锦",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "提花压幛",
+   "en": "ti hua ya zhang",
+   "code": "GB/T 21930—2008",
+   "standard": "地理标志产品 云锦",
+   "subject": "家用和商用设备、文娱、体育"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 3}, \"sourceStats\": {\"家用和商用设备、文娱、体育\": 3}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"ccb2b61124674253aa90c0cf3c5150c3\", \"databaseId\": null, \"standardId\": \"b29556f79c68463f8c05c661dd85a8e8\", \"standardCode\": \"GB/T 21930—2008\", \"standardName\": \"地理标志产品 云锦\", \"standardEnName\": \"Product of geographical indication-Yunjin\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"4.6\", \"cnName\": \"欠幛\", \"enName\": \"qian zhang\", \"publishTime\": \"2008-06-03\", \"publishYear\": \"2008\", \"implementTime\": \"2008-10-01\", \"ics\": \"97.195\", \"ccs\": \"Y 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183176, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"欠幛\", \"cnNameSearch\": \"欠幛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"qian zhang\", \"wordSearch\": \"qian zhang\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"花纬组织间丝由幛控制,若幛绳松,该幛控制的一组经丝未达到梭口的下层,无法与色纬交织,形成的空浮色纬。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f5f58fa4018d4863b4c4b9d2398bff63\", \"databaseId\": null, \"standardId\": \"b29556f79c68463f8c05c661dd85a8e8\", \"standardCode\": \"GB/T 21930—2008\", \"standardName\": \"地理标志产品 云锦\", \"standardEnName\": \"Product of geographical indication-Yunjin\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"4.11\", \"cnName\": \"范、幛、纤\", \"enName\": \"fan,zhang,qian\", \"publishTime\": \"2008-06-03\", \"publishYear\": \"2008\", \"implementTime\": \"2008-10-01\", \"ics\": \"97.195\", \"ccs\": \"Y 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183172, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"范、幛、纤\", \"cnNameSearch\": \"范、幛、纤\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fan,zhang,qian\", \"wordSearch\": \"fan,zhang,qian\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"织机上专用控制经丝升降的三种部件。范:专用提升某组经丝,以形成地组织;幛:专用下降某组经丝,以形成花纬间丝;纤:专用提升单根或相邻的几根经丝,以形成花部组织。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3bc520df047f4ff99b7f6b74e3128957\", \"databaseId\": null, \"standardId\": \"b29556f79c68463f8c05c661dd85a8e8\", \"standardCode\": \"GB/T 21930—2008\", \"standardName\": \"地理标志产品 云锦\", \"standardEnName\": \"Product of geographical indication-Yunjin\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"4.13\", \"cnName\": \"提花压幛\", \"enName\": \"ti hua ya zhang\", \"publishTime\": \"2008-06-03\", \"publishYear\": \"2008\", \"implementTime\": \"2008-10-01\", \"ics\": \"97.195\", \"ccs\": \"Y 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183166, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"提花压幛\", \"cnNameSearch\": \"提花压幛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ti hua ya zhang\", \"wordSearch\": \"ti hua ya zhang\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"提花又称拽花。系拽花工将织造所需的经丝提起来,实现提花开口。压幛由织造工操作,使提起的经丝留有花纬间丝。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794675075084}"
+}
