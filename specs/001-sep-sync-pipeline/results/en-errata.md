@@ -222,3 +222,9 @@
 | bodily-awareness | shoemaker-1994 `Object Perception Model&rdquo;, 54(2)` | 去多余收引号 | 引号不配对（①） |
 | bodily-awareness | matthen-2021 `The Dual Structure ofc touch` | `of Touch` | OCR 混入（①） |
 | bodily-awareness | vignemont 条 `forthcoming` 而正文引 2021 | `2021` | 同页自相矛盾；文集 2021 年出版（②） |
+| social-procedures | gale-1962 题名引号缺收尾、`L. Shapley, L.` 重复缩写 | 补 `&rdquo;`、去重 | 引号不配对（①） |
+| social-procedures | meijering-2012 `2012,&ldquo;What` | 逗号后补空格 | 排印（①） |
+| social-procedures | meijering-2014 题名收尾作 `&ldquo;` | `&rdquo;` | 引号方向误（①） |
+| social-procedures | top-2018 `9(3),44;` | `9(3): 44.` | 卷期页码标点（①） |
+| social-procedures | bulling-2015 `Strategic Abiliies` | `Abilities` | 拼写（①） |
+| social-procedures | cechlérová-2005 `Cechl&eacute;rov&aacute;` | `Cechl&aacute;rov&aacute;` | 姓氏正拼（①） |
