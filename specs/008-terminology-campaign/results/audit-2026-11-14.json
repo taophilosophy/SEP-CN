@@ -6,9 +6,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 1626,
-  "查无": 7236,
-  "不一致": 848,
+  "未查证": 1619,
+  "查无": 7242,
+  "不一致": 849,
   "一致": 1172
  },
  "results": [
@@ -41586,9 +41586,48 @@
    "term": "ε-notation",
    "trans": "ε 记号",
    "basis": "构词直译",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "μ记号",
+     "en": "μ-notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "λ表示法",
+     "en": "λ-notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标记符号",
+     "en": "notation",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表示法",
+     "en": "notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "记号",
+     "en": "notation",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "记法",
+     "en": "notation",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74699,9 +74738,11 @@
    "term": "modal μ-calculus",
    "trans": "模态 μ-演算",
    "basis": "逻辑学通行译法（MMC）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85331,12 +85372,6 @@
      "cn": "稠度",
      "en": "consistency",
      "source": "土木工程名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "一致性",
-     "en": "consistency",
-     "source": "电气工程名词"
     },
     {
      "provider": "termonline-all",
@@ -96859,11 +96894,9 @@
    "term": "psuchê (ψυχή)",
    "trans": "灵魂（保留希腊原词括注）",
    "basis": "学界惯例（古希腊哲学研究通行；与 soul“灵魂”同形分条留痕）",
-   "status": "查无",
+   "status": "未查证",
    "hits": [],
-   "providers": [
-    "termonline-all"
-   ]
+   "providers": []
   },
   {
    "table": "术语",
@@ -135177,11 +135210,9 @@
    "term": "ψ-ontic",
    "trans": "ψ-本体论的",
    "basis": "Harrigan & Spekkens 2010 术语；保留希腊字母；凭证 2026-11-12；原文列联网查证：012 B1 先例：键即原词（ψ 为量子力学波函数记号，非希腊语词）（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv）",
-   "status": "查无",
+   "status": "未查证",
    "hits": [],
-   "providers": [
-    "termonline-all"
-   ]
+   "providers": []
   },
   {
    "table": "术语",
@@ -176466,9 +176497,11 @@
    "term": "Plantinga, Alvin / Alvin Plantinga",
    "trans": "阿尔文·普兰丁格",
    "basis": "学界通行译名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Alvin Plantinga`）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176476,9 +176509,11 @@
    "term": "Planudes, Maximus",
    "trans": "马克西穆斯·普兰努德斯",
    "basis": "本词条首译（拜占庭学者、《希腊文选》编者；学界通行音译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176486,9 +176521,11 @@
    "term": "Platek, Richard",
    "trans": "Richard Platek",
    "basis": "无通行汉名，保留英文原名（美国逻辑学家，1940– ）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176577,9 +176614,11 @@
    "term": "Platzer, André",
    "trans": "André Platzer",
    "basis": "无通行汉名，保留英文原名（微分动态逻辑）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176587,9 +176626,11 @@
    "term": "Plautus",
    "trans": "普劳图斯",
    "basis": "学界惯例（罗马喜剧家通译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176597,9 +176638,11 @@
    "term": "Plaza, Jan A.",
    "trans": "Plaza, Jan A.",
    "basis": "无通行汉名，保留英文原名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176607,9 +176650,11 @@
    "term": "Pliny the Elder",
    "trans": "老普林尼",
    "basis": "千年通行译名（《自然史》作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",

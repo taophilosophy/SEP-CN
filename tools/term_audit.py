@@ -72,6 +72,9 @@ def _relevant_any(hit_en, term):
 
 def audit_rows(rows, label, queries_root):
     from tools import check_terms
+    from tools.cnki_query import safe_key  # 凭证键名与爬取侧同一来源（2026-11-14）：
+    # 旧内联正则会吞掉希腊字母（μ/ω/ε），导致 ε-notation 误判未查证、
+    # ω-consistency 错连真词 consistency 的凭证而误判不一致（2026-11-12 实踩同源）。
     providers = sorted(d for d in os.listdir(queries_root)
                        if os.path.isdir(os.path.join(queries_root, d))) \
         if os.path.isdir(queries_root) else []
@@ -83,7 +86,7 @@ def audit_rows(rows, label, queries_root):
                    'hits': [], 'providers': []}
         cred_stats = []
         for prov in providers:
-            safe = re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '_', key)[:80].strip('_')
+            safe = safe_key(key)
             path = os.path.join(queries_root, prov, safe + '.json')
             if not os.path.exists(path):
                 continue
