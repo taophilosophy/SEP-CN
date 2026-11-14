@@ -469,7 +469,7 @@ Aristotle, General Topics: metaphysics | individuals and individuation | innaten
 
 [^nehamas-1999c]: –––, 1999c, ‘Self–Predication and Plato's Theory of Forms,‘ in Nehamas 1999, 176–95.
 
-[^o'brien-1967]: O'Brien, D. 1967/1968, ‘The Last Argument of Plato's *Phaedo*,’ *Classical Quarterly*, NS 17 (1967): 198–213; NS 18 (1968): 95–106.
+[^o’brien-1967]: O'Brien, D. 1967/1968, ‘The Last Argument of Plato's *Phaedo*,’ *Classical Quarterly*, NS 17 (1967): 198–213; NS 18 (1968): 95–106.
 
 [^owen-1986]: Owen, G. E. L., 1986, *Logic, Science, and Dialectic*, M. Nussbaum (ed.), Ithaca: Cornell University Press.
 
