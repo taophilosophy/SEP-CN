@@ -1,0 +1,54 @@
+{
+ "key": "king, hayden",
+ "term": "King, Hayden",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:50:54+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=6",
+ "hits": [
+  {
+   "cn": "防冰",
+   "en": "anti-king",
+   "code": "GB/T 42683—2023",
+   "standard": "船舶与海上技术 电加热扶手试验要求",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "葛金指数",
+   "en": "Gray-king index",
+   "code": "GB 51208—2016",
+   "standard": "人工制气厂站设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "立轴内倾角",
+   "en": "king pin inclination",
+   "code": "GB/T 6960.4—2007",
+   "standard": "拖拉机术语 第4部分：行走系",
+   "subject": "农业"
+  },
+  {
+   "cn": "格金干馏试验",
+   "en": "Gray-King assay",
+   "code": "GB/T 483—2007",
+   "standard": "煤炭分析试验方法一般规定",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "底辊",
+   "en": "bottom roll；king roll",
+   "code": "GB/T 36928—2018",
+   "standard": "压光机术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "堪察加拟石蟹",
+   "en": "Kamchatka Crab",
+   "code": "GB/T 41026—2021",
+   "standard": "极地科学考察术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2021\": 1, \"2018\": 1, \"2007\": 2, \"暂无年份\": 1}, \"sourceStats\": {\"采矿和矿产品\": 1, \"造船和海上构筑物\": 1, \"综合、术语学、标准化、文献\": 2, \"农业\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 6}, \"totalRecords\": 6, \"tmWordList\": [{\"id\": \"5e3c3bbfced44a3b8137dbd9a0c77413\", \"databaseId\": null, \"standardId\": \"6a9b7cd8e68d4b9183e3e64a9b93f1a3\", \"standardCode\": \"GB/T 42683—2023\", \"standardName\": \"船舶与海上技术 电加热扶手试验要求\", \"standardEnName\": \"Ships and marine technology—Testing specification for handrails using electrical resistance trace heating\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.2\", \"cnName\": \"防冰\", \"enName\": \"anti-king\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"47.020.50\", \"ccs\": \"U 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 107247, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防冰\", \"cnNameSearch\": \"防冰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-king\", \"wordSearch\": \"anti-king\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止被保护表面结冰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c73663d1a93f48f2a4eff5d27779adc2\", \"databaseId\": null, \"standardId\": \"71d2c9f471c5474b8ad9692082be36c4\", \"standardCode\": \"GB 51208—2016\", \"standardName\": \"人工制气厂站设计规范\", \"standardEnName\": \"Code of design on plant of producing man-made town gas\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"葛金指数\", \"enName\": \"Gray-king index\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114617, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"葛金指数\", \"cnNameSearch\": \"葛金指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Gray-king index\", \"wordSearch\": \"Gray-king index\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"表示煤的结焦性的一项指标。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fc8ede3b5da4b8fa5523e22ba898137\", \"databaseId\": null, \"standardId\": \"69847436e9ad43879de8f6884a0260b8\", \"standardCode\": \"GB/T 6960.4—2007\", \"standardName\": \"拖拉机术语 第4部分：行走系\", \"standardEnName\": \"Tractor terminology — Part 4: Running gears and undercarriages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4.17\", \"cnName\": \"立轴内倾角\", \"enName\": \"king pin inclination\", \"publishTime\": \"2007-03-21\", \"publishYear\": \"2007\", \"implementTime\": \"2007-08-01\", \"ics\": \"65.060.10\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103957, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立轴内倾角\", \"cnNameSearch\": \"立轴内倾角\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"king pin inclination\", \"wordSearch\": \"king pin inclination\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"立轴轴线在垂直于支承面和纵向中心面的平面上的投影与支承面垂线间的夹角。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"72d4863487db4223a18d3d1ac14fdb1b\", \"databaseId\": null, \"standardId\": \"b61196c97a3c4b6b980b41937a10a37a\", \"standardCode\": \"GB/T 483—2007\", \"standardName\": \"煤炭分析试验方法一般规定\", \"standardEnName\": \"General rules for analytical and testing methods of coal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.3.20\", \"cnName\": \"格金干馏试验\", \"enName\": \"Gray-King assay\", \"publishTime\": \"2007-11-01\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"73.040\", \"ccs\": \"D 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186070, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"格金干馏试验\", \"cnNameSearch\": \"格金干馏试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Gray-King assay\", \"wordSearch\": \"Gray-King assay\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由格雷和金二人提出的煤低温干馏试验方法，用以测定热解产物收率和焦型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"210ea526ab6b46a38dd9e2208f09097e\", \"databaseId\": null, \"standardId\": \"2c4176933f7b4c2db9aef1107015f754\", \"standardCode\": \"GB/T 36928—2018\", \"standardName\": \"压光机术语\", \"standardEnName\": \"Calender terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.11\", \"cnName\": \"底辊\", \"enName\": \"bottom roll；king roll\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"01.040.85\", \"ccs\": \"A.22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45891, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"底辊\", \"cnNameSearch\": \"底辊\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bottom roll；king roll\", \"wordSearch\": \"bottom roll；king roll\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"处于压光机辊组中最底部的压辊，直径在辊组中最大。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a0ea65bbf9484ec09078f7afa5404afa\", \"databaseId\": null, \"standardId\": \"478a7544ae7549d18b4687b7d7c774b7\", \"standardCode\": \"GB/T 41026—2021\", \"standardName\": \"极地科学考察术语\", \"standardEnName\": \"Polar scientific research and expedition terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"7.2.4.1\", \"cnName\": \"堪察加拟石蟹\", \"enName\": \"Kamchatka Crab\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"01.040.01\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74633, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堪察加拟石蟹\", \"cnNameSearch\": \"堪察加拟石蟹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Kamchatka Crab\", \"wordSearch\": \"Kamchatka Crab\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"红色帝王蟹\", \"cnNameSearch\": \"红色帝王蟹\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"Red king crab\", \"wordSearch\": \"Red king crab\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"甲壳纲十足目石科拟石属。体色暗红，尾部呈扇形。右边的螯通常大于左边的整，第5对附肢演化为交配肢。幼体摄食浮游生物，成体以鱼、虾和其他底栖动物等为食。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>堪察加拟石蟹（Paralithodes camtschaticus）主要分布于楚科奇海、白令海及巴伦支海等。成体通常生活在水深200m以下的海底地带，喜泥砂质底；每年冬末初春从深水处迁移至50m或更浅的海区进行交配。个体大，可长到足距1.8m，是重要的渔业资源。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678650404}"
+}
