@@ -99,57 +99,102 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；书目条目照录原文。
 
 [^atanassow-2023]: Atanassow, Ewa, Thomas Bartscherer, and David A. Bateman (eds.), 2023. *When the People Rule: Popular Sovereignty in Theory and Practice*, New York, NY: Cambridge University Press.
+
 [^barkin-2021]: Barkin, J. Samuel, 2021. *The Sovereignty Cartel*, Cambridge: Cambridge University Press.
+
 [^bartelson-1995]: Bartelson, J., 1995. *A Genealogy of Sovereignty*, Cambridge: Cambridge University Press.
+
 [^bodin-1992]: Bodin, J., 1992. *On Sovereignty: Four Chapters From Six Books of the Commonwealth*, Cambridge: Cambridge University Press.
+
 [^brown-2010]: Brown, Wendy, 2010. *Walled States, Waning Sovereignty*, Brooklyn: Zone Books
+
 [^buchanan-2004]: Buchanan, Allen, 2004. *Justice, Legitimacy, and Self-Determination*, Oxford: Oxford University Press.
+
 [^carvalho-2011]: de Carvalho, Benjamin, Halvard Leira and John Hobson, 2011. ‘The Myths That Your Teachers Still Tell You about 1648 and 1919,’ *Millennium*, 39(3): 735–758.
+
 [^ciorciari-2021]: Ciorciari, John D., 2021. *Sovereignty Sharing in Fragile States*, Stanford, CA: Stanford University Press.
+
 [^elshtain-2008]: Elshtain, Jean Bethke, 2008. *Sovereignty: God, State, and Self*, New York: Basic Books.
+
 [^ferrara-2023]: Ferrara, Alessandro, 2023. *Sovereignty Across Generations: Constituent Power and Political Liberalism*, Oxford: Oxford University Press.
+
 [^figgis-1907]: Figgis, J. N., 1907. *From Gerson to Grotius 1414–1625*, 2nd edition; reprinted, Cambridge: Cambridge University Press, 1916.
+
 [^fowler-1995]: Fowler, M. R. and J. M. Bunck, 1995. *Law, Power, and the Sovereign State*, University Park, PA: Penn State Press.
+
 [^grimm-2015]: Grimm, Dieter, and Belinda Cooper, 2015. *Sovereignty: The Origin and Future of a Political and Legal Concept*, New York: Columbia University Press.
+
 [^grotius-1625]: Grotius, Hugo, 1625. *The Rights of War and Peace*, London: M. Walter Dunne, 1901.
+
 [^herzog-2020]: Herzog, Don, 2020. *Sovereignty, RIP*, New Haven: Yale University Press.
+
 [^hinsley-1986]: Hinsley, F. H., 1986. *Sovereignty*, second edition, Cambridge: Cambridge University Press.
+
 [^hobbes-1651]: Hobbes, Thomas, 1651. *Leviathan*, Harmondsworth: Penguin, 1968.
+
 [^international-2001]: International Commission on Intervention and State Sovereignty: Report, 2001. *The Responsibility to Protect*, International Development Research Centre Publications [预印本可在线获取](https://web.archive.org/web/20070731161527/http://www.iciss-ciise.gc.ca/report2-en.asp).
+
 [^jackson-2007]: Jackson, Robert, 2007. *Sovereignty: The Evolution of An Idea*, Cambridge: Polity Press.
+
 [^james-1986]: James, Alan, 1986. *Sovereign Statehood*, London: Allen & Unwin.
+
 [^james-1999]: James, Alan, 1999. ‘The Practice of Sovereign Statehood in Contemporary International Society,’ *Political Studies*, 47(3): 457–473.
+
 [^jouvenel-1957]: de Jouvenel, Bertrand, 1957. *Sovereignty: An Inquiry Into the Political Good*, Chicago: University of Chicago Press.
+
 [^kallis-2018]: Kallis, Aristotle, 2018. ‘Populism, Sovereigntism, and the Unlikely Re-Emergence of the Territorial Nation-State,’ *Fudan Journal of the Humanities and Social Sciences*, 11(3): 285–302.
+
 [^kalmo-2014]: Kalmo, Hent, and Quentin Skinner, 2014. *Sovereignty in Fragments: The Past, Present, and Future of a Contested Concept*, Cambridge: Cambridge University Press.
+
 [^kantorowicz-1957]: Kantorowicz, Ernst, 1957. *The King’s Two Bodies: A Study in Medieval Political Theology*, Princeton: Princeton University Press.
+
 [^keohane-1991]: Keohane, Robert O. and Stanley Hoffmann, 1991. ‘Institutional Change in Europe in the 1980s,’ in *The New European Community: Decisionmaking and Institutional Change*, R. O. Keohane and S. Hoffmann (eds.), Boulder: Westview Press.
+
 [^krasner-1999]: Krasner, Stephen D., 1999. *Sovereignty: Organized Hypocrisy*, Princeton: Princeton University Press.
+
 [^kratochwil-1989]: Kratochwil, Friedrich, 1989. *Rules, Norms, and Decisions: On the Conditions of Practical and Legal Reasoning in International Relations and Domestic Affairs*, Cambridge: Cambridge University Press.
+
 [^lee-2021]: Lee, Daniel, 2021. *The Right of Sovereignty: Jean Bodin on the Sovereign State and the Law of Nations*, Oxford: Oxford University Press.
+
 [^luther-1967]: Luther, Martin, 1523. *Temporal Authority: To What Extent It Should Be Obeyed*, Philadelphia: Westminster Press, 1967.
+
 [^machiavelli-1950]: Machiavelli, Niccolò, 1532. *The Prince and the Discourses*, New York: The Modern Library, 1950.
+
 [^maland-1966]: Maland, David, 1966. *Europe in the Seventeenth Century*, London: Macmillan.
+
 [^maritain-1951]: Maritain, Jacques, 1951. *Man and the State*, Chicago: University of Chicago Press.
+
 [^nexon-2009]: Nexon, Daniel H., 2009. *The Struggle for Power in Early Modern Europe: Religious Conflict, Dynastic Empires, and International Change*, Princeton: Princeton University Press.
+
 [^osiander-1994]: Osiander, Andreas, 1994. *The States System of Europe, 1640–1994*, Oxford: Clarendon Press.
+
 [^osiander-2001]: Osiander, Andreas, 2001. ‘Sovereignty, International Relations, and the Westphalian Myth,’ *International Organization*, 55(2): 253–254.
+
 [^paris-2020]: Paris, Roland, 2020. ‘The Right to Dominate: How Old Ideas About Sovereignty Pose New Challenges for World Order,’ *International Organization*, 74(3): 1–37.
+
 [^pavel-2014]: Pavel, Carmen, 2014. *Divided Sovereignty: International Institutions and the Limits of State Authority*, Oxford: Oxford University Press.
+
 [^philpott-2001]: Philpott, Daniel, 2001. *Revolutions in Sovereignty: How Ideas Shaped Modern International Relations*, Princeton: Princeton University Press.
+
 [^pogge-1992]: Pogge, Thomas, 1992. ‘Cosmopolitanism and Sovereignty,’ *Ethics*, 103: 48–75.
+
 [^pogge-2008]: Pogge, Thomas, 2008. *World Poverty and Human Rights*, 2nd edition, Cambridge: Polity Press.
+
 [^schmitt-1922]: Schmitt, Carl, 1922. *Politische Theologie: Vier Kapitel zur Lehre von der Souveränität*, München und Leipzig: Verlag von Duncker & Humblot; translated as *Political Theology: Four Chapters on the Concept of Sovereignty*, G. Schwab (trans.), Chicago: The University of Chicago Press, 1985.
+
 [^spruyt-1994]: Spruyt, Hendrik, 1994. *The Sovereign State and Its Competitors*, Princeton: Princeton University Press.
+
 [^srivastava-2022]: Srivastava, Swati, 2022. *Hybrid Sovereignty in World Politics* (Cambridge Studies in International Relations), Cambridge: Cambridge University Press.
+
 [^teschke-2009]: Teschke, Benno, 2009. *The Myth of 1648: Class, Geopolitics, and the Making of Modern International Relations*, London: Verso.
+
 [^wheatley-2023]: Wheatley, Natasha, 2023. *The Life and Death of States: Central Europe and the Transformation of Modern Sovereignty*, Princeton, NJ: Princeton University Press.
+
 [^wilks-1964]: Wilks, Michael, 1964. *The Problem of Sovereignty in the Later Middle Ages*, Cambridge: Cambridge University Press.
+
 [^wolff-1990]: Wolff, R. P., 1990. *The Conflict Between Authority and Autonomy*, Oxford: Basil Blackwell.
 
 ## 学术工具

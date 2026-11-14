@@ -178,3 +178,12 @@
 | film | `Grey M. Smith (eds.)`（plantinga-1999） | `Murray Smith` | 编者正名（①） |
 | film | `Hugh Grey (tr.)`（bazin-1967） | `Hugh Gray` | 译者正名（①） |
 | film | 正文 `Carroll and Choi 2006` | `2005` | 书目作 Carroll & Choi 2005（②） |
+| sovereignty | `<strong>(</strong>124&ndash;125)` | `(124&ndash;125)` | 加粗残件（①） |
+| sovereignty | `bombing of Iraq in December 1999` | `December 1998` | 同句并列科索沃 1999；“沙漠之狐”为 1998 年 12 月（②①） |
+| sovereignty | `Thomas Pogge (1992, and 2008, 174&ndash;201)` | `(1992, 2008, …)` | 引证组多余逗号与 and（①） |
+| sovereignty | `(Keohane &amp; Hoffman 1991)` | `Hoffmann` | 同页书目作 Hoffmann（②） |
+| sovereignty | `Zone Books, 2010`（brown-2010 条目已标 2010） | 去尾年份 | 年份重复（①） |
+| sovereignty | `Luther, Martin.,` | `Martin,` | 双标点（①） |
+| sovereignty | `Machiavelli, Niccolo,` | `Niccol&ograve;` | 变音符缺失（①） |
+| sovereignty | wilks-1964 缺句末句点 | 补句点 | 排印（①） |
+| sovereignty | `2nd. edition`（pogge-2008） | `2nd edition` | 句点错位（①） |
