@@ -117,11 +117,11 @@ consciousness: seventeenth-century theories of | Descartes, René | Descartes, R
 
 [^descartes-2013]: –––, 2013, *Der Briefwechsel zwischen René Descartes und Elisabeth von der Pfalz*, Benno Wirz, Isabelle Wienand and Olivier Ribordy (eds.), Hamburg: Meiner.
 
-[^descartes-1935]: –––, 1935, *Lettres sur la morale: corréspondence avec la princesse Elisabeth, Chanut et la reine Christine*, Jacques Chevalier (ed.), Paris: Hatier-Boivin.
+[^descartes-1935]: –––, 1935, *Lettres sur la morale: correspondance avec la princesse Elisabeth, Chanut et la reine Christine*, Jacques Chevalier (ed.), Paris: Hatier-Boivin.
 
 [^descartes-1657]: –––, 1657–67, *Lettres de Monsieur Descartes*, Claude Clerselier (ed.), 3 vols. Paris:Angot.
 
-[^elisabeth-2015]: Elisabeth van der Pfalz and René Descartes, *Der Briefeschel zwischen Elisabeth van der Pfalz und René Descartes*, Sabrina Ebbersmeyer (ed. and transl), Paderborn: Verlag Wilhelm Fink, 2015.
+[^elisabeth-2015]: Elisabeth van der Pfalz and René Descartes, *Der Briefwechsel zwischen Elisabeth van der Pfalz und René Descartes*, Sabrina Ebbersmeyer (ed. and transl), Paderborn: Verlag Wilhelm Fink, 2015.
 
 [^foucher-1879]: Foucher de Careil, Alexandre, 1879, *Descartes, la Princesse Elisabeth et la Reine Christine*, Paris: Felix Alcan.
 
@@ -169,7 +169,7 @@ consciousness: seventeenth-century theories of | Descartes, René | Descartes, R
 
 [^ebbersmeyer-2021-2]: Ebbersmeyer, Sabrina and Sarah Hutton (eds.), 2021, *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*, Dordrecht: Springer.
 
-[^foucher-1862]: Foucher de Careil, Alexandre, 1862, *Descartes et la Princesse Palatine, ou de l’influence du cartésianisme sur les femmes au XVIIe siécle*, Paris: Auguste Durand.
+[^foucher-1862]: Foucher de Careil, Alexandre, 1862, *Descartes et la Princesse Palatine, ou de l’influence du cartésianisme sur les femmes au XVIIe siècle*, Paris: Auguste Durand.
 
 [^gabbey-1990]: Gabbey, Alan, 1990, “The Case of Mechanics: One revolution or many?” in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (eds.), Cambridge: Cambridge University Press.
 

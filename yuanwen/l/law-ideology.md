@@ -87,7 +87,7 @@ It should be noted that Rawls put much store by ‘the good’ of a well-ordered
 
 Nevertheless, concerns about the ideological impact of proceduralism do not tell against the valuable role that the rule of law itself should play, even in the most ambitious egalitarian community. The potential for a dismissive approach to law, perhaps, along with the general decline of the influence of Marxism (despite refreshing indications of interest in contemporary philosophy), accounts for why some recent literature has avoided the term ‘ideology’ and opted instead for terms like ‘discourse’ or ‘narrative.’ Such terms also suggest that law should be understood in a political context, but they are less specific about the nature of that context or its impact. This seems a loss. Properly understood, the concept of ideology offers a nuanced and illuminating approach to legality that gives a precise rendering of the relation between law and politics that need not be nihilist or reductionist. After all, a proper understanding of the ideological role of law is compatible with other conceptions of how law is to be defined or understood. This is particularly so if we recognize the improbability of eliminating altogether ideological modes of understanding.
 
-A conception of law as having a moral source, or a source in a system’s institutions, can be independent of a realistic appraisal of law’s ideological function, or the ideological process in which laws are made. Indeed, radical critics of the ‘war on terror’ waged by western governments have pointed to the value of liberal legal ideals such as human rights and the rule of law at the same time as they have noted the ideological purposes to which such ideals are put (see Bartholomew 2007, Steger, 2007)[^bartholomew-2007][^steger-2007]. Both positivists and natural lawyers, so long as they do not insist that their conceptions of law are exhaustive of law’s reality, can permit the influence of ideology, even in its more radical interpretations. Law can be ideology as well as other moral or institutional phenomena at the same time; indeed, law will probably not succeed as ideology unless it is multi-dimensional in just this way.
+A conception of law as having a moral source, or a source in a system’s institutions, can be independent of a realistic appraisal of law’s ideological function, or the ideological process in which laws are made. Indeed, radical critics of the ‘war on terror’ waged by western governments have pointed to the value of liberal legal ideals such as human rights and the rule of law at the same time as they have noted the ideological purposes to which such ideals are put (see Bartholomew 2007; Steger 2007)[^bartholomew-2007][^steger-2007]. Both positivists and natural lawyers, so long as they do not insist that their conceptions of law are exhaustive of law’s reality, can permit the influence of ideology, even in its more radical interpretations. Law can be ideology as well as other moral or institutional phenomena at the same time; indeed, law will probably not succeed as ideology unless it is multi-dimensional in just this way.
 
 ## References（引用注释）
 
@@ -147,11 +147,11 @@ critical theory | Engels, Friedrich | liberalism | Marx, Karl | nature of law: l
 
 [^mills-1997]: Mills, Charles, 1997, *The Racial Contract* Ithaca: Cornell University Press.
 
-[^mills-2018]: –––, 2018, ‘Rethinking Propaganda and Ideology’, Philosophical and Phenomenological Research, 96, 2, March, 490–496
+[^mills-2018]: –––, 2018, ‘Rethinking Propaganda and Ideology’, *Philosophical and Phenomenological Research*, 96(2): 490–496.
 
 [^okin-1989]: Okin, Susan M., 1989, *Justice, Gender and the Family*, New York: Basic Books.
 
-[^okin-1993]: –––, 1993, “Review of John Rawls” *Political Liberalism*, *American Political Science Review*, 87(4): 1010–1011.
+[^okin-1993]: –––, 1993, “Review of John Rawls’s *Political Liberalism*”, *American Political Science Review*, 87(4): 1010–1011.
 
 [^rawls-2001]: Rawls, John, 2001, *Justice as Fairness: A Restatement*, Cambridge, Mass.: Harvard.
 
