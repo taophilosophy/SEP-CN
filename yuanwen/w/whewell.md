@@ -101,49 +101,49 @@ Bacon, Francis | confirmation | induction: problem of | Kant, Immanuel | Mill, J
 
 [^during-2006]: During his lifetime Whewell published approximately 150 books, articles, scientific papers, society reports, reviews, and translations. The list that follows mentions only his most important philosophical works relevant to the discussion above. More complete bibliographies can be found in Snyder (2006), Yeo (1993) and Fisch and Schaffer (1991).
 
-[^during-1831]: (1831) “Review of J. Herschel’s *Preliminary Discourse on the Study of Natural Philosophy (1830),” Quarterly Review*, 90: 374–407.
+[^whewell-1831]: (1831) “Review of J. Herschel’s *Preliminary Discourse on the Study of Natural Philosophy (1830),” Quarterly Review*, 90: 374–407.
 
-[^during-1833]: (1833) *Astronomy and General Physics Considered With Reference to Natural Theology* (Bridgewater Treatise), London: William Pickering.
+[^whewell-1833]: (1833) *Astronomy and General Physics Considered With Reference to Natural Theology* (Bridgewater Treatise), London: William Pickering.
 
-[^during-1840]: (1840) *The Philosophy of the Inductive Sciences, Founded Upon Their History*, in two volumes, London: John W. Parker.
+[^whewell-1840]: (1840) *The Philosophy of the Inductive Sciences, Founded Upon Their History*, in two volumes, London: John W. Parker.
 
-[^during-1844]: (1844) “On the Fundamental Antithesis of Philosophy,” *Transactions of the Cambridge Philosophical Society*, 7(2): 170–81.
+[^whewell-1844]: (1844) “On the Fundamental Antithesis of Philosophy,” *Transactions of the Cambridge Philosophical Society*, 7(2): 170–81.
 
-[^during-1845]: (1845) *The Elements of Morality, including Polity*, in two volumes, London: John W. Parker.
+[^whewell-1845]: (1845) *The Elements of Morality, including Polity*, in two volumes, London: John W. Parker.
 
-[^during-1846]: (1846) *Lectures on Systematic Morality*, London: John W. Parker.
+[^whewell-1846]: (1846) *Lectures on Systematic Morality*, London: John W. Parker.
 
-[^during-1847]: (1847) *The Philosophy of the Inductive Sciences, Founded Upon Their History*, 2nd edition, in two volumes, London: John W. Parker.
+[^whewell-1847]: (1847) *The Philosophy of the Inductive Sciences, Founded Upon Their History*, 2nd edition, in two volumes, London: John W. Parker.
 
-[^during-1848]: (1848) “Second Memoir on the Fundamental Antithesis of Philosophy,” *Transactions of the Cambridge Philosophical Society*, 8(5): 614–20.
+[^whewell-1848]: (1848) “Second Memoir on the Fundamental Antithesis of Philosophy,” *Transactions of the Cambridge Philosophical Society*, 8(5): 614–20.
 
-[^during-1849]: (1849) *Of Induction, With Especial Reference to Mr. J. Stuart Mill’s System of Logic*, London: John W. Parker
+[^whewell-1849]: (1849) *Of Induction, With Especial Reference to Mr. J. Stuart Mill’s System of Logic*, London: John W. Parker
 
-[^during-1850]: (1850) “Mathematical Exposition of Some Doctrines of Political Economy: Second Memoir,” *Transactions of the Cambridge Philosophical Society*, 9: 128–49.
+[^whewell-1850]: (1850) “Mathematical Exposition of Some Doctrines of Political Economy: Second Memoir,” *Transactions of the Cambridge Philosophical Society*, 9: 128–49.
 
-[^during-1852]: (1852) *Lectures on the History of Moral Philosophy*, London: John W. Parker.
+[^whewell-1852]: (1852) *Lectures on the History of Moral Philosophy*, London: John W. Parker.
 
-[^during-1853]: (1853) *Of the Plurality of Worlds. An Essay*, London: John W. Parker.
+[^whewell-1853]: (1853) *Of the Plurality of Worlds. An Essay*, London: John W. Parker.
 
-[^during-1857]: (1857) “Spedding’s Complete Edition of the Works of Bacon,” *Edinburgh Review*, 106: 287–322.
+[^whewell-1857]: (1857) “Spedding’s Complete Edition of the Works of Bacon,” *Edinburgh Review*, 106: 287–322.
 
-[^during-1857-2]: (1857) *History of the Inductive Sciences, from the Earliest to the Present Time*, 3rd edition, in two volumes, London: John W. Parker.
+[^whewell-1857-2]: (1857) *History of the Inductive Sciences, from the Earliest to the Present Time*, 3rd edition, in two volumes, London: John W. Parker.
 
-[^during-1858a]: (1858a) *The History of Scientific Ideas*, in two volumes, London: John W. Parker.
+[^whewell-1858a]: (1858a) *The History of Scientific Ideas*, in two volumes, London: John W. Parker.
 
-[^during-1858b]: (1858b) *Novum Organon Renovatum*, London: John W. Parker.
+[^whewell-1858b]: (1858b) *Novum Organon Renovatum*, London: John W. Parker.
 
-[^during-1860a]: (1860a) *On the Philosophy of Discovery: Chapters Historical and Critical*, London: John W. Parker.
+[^whewell-1860a]: (1860a) *On the Philosophy of Discovery: Chapters Historical and Critical*, London: John W. Parker.
 
-[^during-1860b]: (1860b) “Remarks on a Review of the Philosophy of the Inductive Sciences,” letter to John Herschel, 11 April 1844; published as essay F in 1860a.
+[^whewell-1860b]: (1860b) “Remarks on a Review of the Philosophy of the Inductive Sciences,” letter to John Herschel, 11 April 1844; published as essay F in 1860a.
 
-[^during-1861]: (1861) (ed. and trans.) *The Platonic Dialogues for English Readers*, London: Macmillan.
+[^whewell-1861]: (1861) (ed. and trans.) *The Platonic Dialogues for English Readers*, London: Macmillan.
 
-[^during-1862]: (1862) *Six Lectures on Political Economy*, Cambridge: The University Press.
+[^whewell-1862]: (1862) *Six Lectures on Political Economy*, Cambridge: The University Press.
 
-[^during-1864]: (1864) *The Elements of Morality, Including Polity*, 4th edition, with Supplement, Cambridge: The University Press.
+[^whewell-1864]: (1864) *The Elements of Morality, Including Polity*, 4th edition, with Supplement, Cambridge: The University Press.
 
-[^during-1866]: (1866) “Comte and Positivism,” *Macmillan’s Magazine*, 13: 353–62.
+[^whewell-1866]: (1866) “Comte and Positivism,” *Macmillan’s Magazine*, 13: 353–62.
 
 [^whewell’s-nd]: In the past twenty years, Whewell’s name and ideas have appeared with much greater frequency in general works on nineteenth-century British science and philosophy, a sign that his importance in and influence upon these areas has been recognized. The list that follows is a selection of works focused more specifically on Whewell and his philosophy, and in which his ideas are closely examined.
 
