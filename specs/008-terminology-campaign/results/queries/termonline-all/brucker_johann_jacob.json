@@ -2,10 +2,277 @@
  "key": "brucker, johann jacob",
  "term": "Brucker, Johann Jacob",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T14:46:14+00:00",
- "status": "error",
- "note": "variant=Brucker, Johann Jacob; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Brucker, Johann Jacob: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:05:32+00:00",
+ "status": "ok",
+ "note": "variant=Brucker, Johann Jacob; 审定公布名词库=567; 海峡两岸名词对照库=216; 其他来源数据库=29; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "雅可比公式",
+   "en": "Jacob formula",
+   "code": "16.03.077",
+   "standard": "地质学名词",
+   "subject": "地质学_水文地质学_地下水动力学"
+  },
+  {
+   "cn": "摇臂座",
+   "en": "rocker arm bracket",
+   "code": "04.300",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_配气系"
+  },
+  {
+   "cn": "摇臂座",
+   "en": "rocker arm bracket,rocker arm pedestal",
+   "code": "24.0352",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_气门、凸轮机构"
+  },
+  {
+   "cn": "从动摆臂支座",
+   "en": "side pivoted rocker bracket",
+   "code": "04.293",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_配气系"
+  },
+  {
+   "cn": "湄公血吸虫",
+   "en": "Schistosoma mekongi Voge,Bruckner & Bruce",
+   "code": "09.104",
+   "standard": "地方病学名词",
+   "subject": "地方病学_寄生虫病_蠕虫病_血吸虫病_概述"
+  },
+  {
+   "cn": "雅可比矩阵",
+   "en": "Jacobi matrix",
+   "code": "03.068",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "雅可比椭球",
+   "en": "Jacobi ellipsoid",
+   "code": "03.171",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "雅可比恒等式",
+   "en": "Jacobi identity",
+   "code": "04.1491",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "雅可比多项式",
+   "en": "Jacobi polynomial",
+   "code": "06.0670",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_特殊函数"
+  },
+  {
+   "cn": "雅可比迭代[法]",
+   "en": "Jacobi iteration",
+   "code": "010.0424",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_方程求根·数值代数"
+  },
+  {
+   "cn": "雅可比法",
+   "en": "Jacobi method",
+   "code": "010.0463",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_方程求根·数值代数"
+  },
+  {
+   "cn": "雅可比符号",
+   "en": "Jacobi symbol",
+   "code": "04.0170",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "普雷托里乌斯，雅各布",
+   "en": "Praetorius\",\"Jacob(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "阿夫夏洛莫夫，雅各布",
+   "en": "Avshalomov\",\"Jacob(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克里格，约翰",
+   "en": "Krieger\",\"Johann(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "库瑙",
+   "en": "Kuhnau\",\"Johann(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "马特松",
+   "en": "Mattheson\",\"Johann(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "朔贝特",
+   "en": "Schobert\",\"Johann(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "帕赫尔贝尔，约翰",
+   "en": "Pachelbel\",\"Johann(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "勃拉姆斯",
+   "en": "Brahms\",\"Johannes(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "奥克盖姆",
+   "en": "Ockeghem\",\"Johannes(比利时)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "戈德堡，约翰",
+   "en": "Goldberg\",\"Johann Gottlieb(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "佩普什",
+   "en": "Pepusch\",\"Johann Christoph(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "克里格，约翰·菲利普",
+   "en": "Krieger\",\"Johann Philipp(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "印度谷螟",
+   "en": "Jacob Hübner",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电位差计",
+   "en": "Johann Christian Poggendorff",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "雅可比多项式",
+   "en": "Jacobi polynomials",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热月政变",
+   "en": "Valery Jacobi",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "最大功率传输定理",
+   "en": "Moritz von Jacobi",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "骇客",
+   "en": "cracker",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "拦网队员",
+   "en": "blocker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "阻截球员",
+   "en": "blocker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "食用大黄",
+   "en": "Johan Andreas Murray",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "静电感应",
+   "en": "Johan Carl Wilcke",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "传动行程",
+   "en": "bracket\",\"gear",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "护臂",
+   "en": "armguard\",\"bracer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "牙行",
+   "en": "broker-house",
+   "code": "4.0081",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "约翰牛",
+   "en": "John bull",
+   "code": "04.0036",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

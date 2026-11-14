@@ -2,10 +2,347 @@
  "key": "burali-forti, cesare",
  "term": "Burali-Forti, Cesare",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T15:01:16+00:00",
- "status": "error",
- "note": "variant=Burali-Forti, Cesare; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Burali-Forti, Cesare: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T19:05:33+00:00",
+ "status": "ok",
+ "note": "variant=Burali-Forti, Cesare; 审定公布名词库=663; 海峡两岸名词对照库=92; 其他来源数据库=62; 预公布名词数据库=240; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抗震设防烈度",
+   "en": "seismic forti-fication intensity",
+   "code": "01.2182",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "东方田鼠",
+   "en": "reed vole; Alexandromys fortis (Buechner)",
+   "code": "10.392",
+   "standard": "农学名词",
+   "subject": "植物保护_鼠害"
+  },
+  {
+   "cn": "福丁气压计",
+   "en": "Fortin barometer",
+   "code": "02.0874",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "扭毛",
+   "en": "pili torti",
+   "code": "32.041",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_皮肤及其衍生结构的发生"
+  },
+  {
+   "cn": "福丁气压表",
+   "en": "Fortin barometer",
+   "code": "02.105",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气探测"
+  },
+  {
+   "cn": "扭转发",
+   "en": "pili torti",
+   "code": "03.0795",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "动槽水银气压表",
+   "en": "Fortin mercury barometer",
+   "code": "07.084",
+   "standard": "计量学名词",
+   "subject": "计量学_压力、真空_气压表"
+  },
+  {
+   "cn": "法兰西第四共和国",
+   "en": "French Forth Republic",
+   "code": "03.0559",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_法国"
+  },
+  {
+   "cn": "第四世界",
+   "en": "the Forth World",
+   "code": "21.042",
+   "standard": "地理学名词",
+   "subject": "地理学_旅游地理学"
+  },
+  {
+   "cn": "勒福型截骨术",
+   "en": "Le Fort osteotomy",
+   "code": "04.303",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_美容外科学"
+  },
+  {
+   "cn": "葛拉斯堡会议",
+   "en": "Grassley Fort Meeting",
+   "code": "01.0600",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际会议、宣言"
+  },
+  {
+   "cn": "第四鳃裂瘘",
+   "en": "forth branchial cleft fistula",
+   "code": "3.4.44.3",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈畸形"
+  },
+  {
+   "cn": "福尔米基",
+   "en": "Formichi\",\"Cesare(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "谢皮",
+   "en": "Siepi\",\"Cesare(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "硝酸",
+   "en": "aqua fortis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "咆哮西风带",
+   "en": "roaring forties",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "尤利乌斯·凯撒在埃及",
+   "en": "Giulio Cesare in Egitto",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "福丁气压表",
+   "en": "Fortin barometer",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "法院地法",
+   "en": "lex fori",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "科尔蒂器",
+   "en": "organ of Corti",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "第四世界",
+   "en": "the Forth World",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "第四范式",
+   "en": "forth normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "螺旋器，科尔蒂器",
+   "en": "organ of Corti",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "科蒂器",
+   "en": "Corti’s organ\",\"organ of Corti",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "得第三分(40)",
+   "en": "forty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "剑身强部",
+   "en": "forte",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "巴拉尼",
+   "en": "Barani",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "欲",
+   "en": "Desire",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "巴拉尼接前空翻一周",
+   "en": "Barani-in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "前空翻一周接巴拉尼",
+   "en": "Barani-out",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "心生而言立",
+   "en": "Words Flow Forth from the Heart.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "十六烷值",
+   "en": "Cetane number",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "背着网接1¼前空翻再接半转体",
+   "en": "Barani ball-out",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "停止射击!",
+   "en": "Cease fire!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "国际地震中心",
+   "en": "International Seismological Centre",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "城市边缘区",
+   "en": "rural–urban fringe",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "天葬",
+   "en": "sky burial",
+   "code": "4.027",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "树葬",
+   "en": "tree burial",
+   "code": "4.0271",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "土葬",
+   "en": "ground burial",
+   "code": "7.031000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "二次葬",
+   "en": "secondary burial",
+   "code": "4.0274",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "塔葬",
+   "en": "pagoda burial",
+   "code": "4.0272",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "水葬",
+   "en": "water burial",
+   "code": "7.03",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "土葬",
+   "en": "earth burial",
+   "code": "4.0266",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "天葬",
+   "en": "celestial burial",
+   "code": "7.029",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "临时掩埋",
+   "en": "temporary burial",
+   "code": "2.3.3.7.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  },
+  {
+   "cn": "水葬",
+   "en": "water burial",
+   "code": "4.0268",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "新型农村合作医疗制度",
+   "en": "new rural cooperative medical care system",
+   "code": "3.18.4.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_医疗保险"
+  },
+  {
+   "cn": "核心—边缘",
+   "en": "centre-periphery",
+   "code": "2.9.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_发展社会学_依附理论"
+  }
+ ],
+ "error": null,
  "raw": null
 }
