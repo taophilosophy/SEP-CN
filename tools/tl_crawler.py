@@ -211,6 +211,11 @@ class Crawler:
         out = []
         for it in items:
             self._cool()
+            # 主动续窗：距上次激活超过 warm_every 就补一次（TTL≈120s，提前续窗防降级）；
+            # 激活后隔 ≥5s 再发查询（礼貌抓取 ≥5s）。
+            if self.warm_every and time.time() - self.last_activate > self.warm_every:
+                self.activate(token)
+                time.sleep(5)
             r = None
             for attempt in range(1, retries + 1):
                 r = self.query(it['display'], token)
@@ -220,12 +225,12 @@ class Crawler:
                     break
                 self.degraded_streak += 1
                 if self.degraded_streak >= 2:
-                    wait = 60
-                    print('  [降级] 第 %d 次，重新激活并冷却 %ds' % (attempt, wait), flush=True)
+                    # TTL 过期（2026-11-14 定性）：立即廉价续窗重试，废 60s 误罚冷却；
+                    # 连续激活仍失败才升级为导航式 warm。
+                    print('  [降级] 廉价续窗重试', flush=True)
                     self._on_degrade()
-                    self.cool_until = time.time() + wait
-                    self._cool()
-                    self.warm('logic', extra_wait=8000)
+                    self.activate(token)
+                    time.sleep(5)
                     token = self.token() or token
                 time.sleep(self.interval)
             r['row_key'] = it['row_key']
@@ -234,12 +239,14 @@ class Crawler:
                                        '/'.join(str(d['total']) for d in r['dbs'])
                                        or '-'))
             time.sleep(self.interval)
-        # 批末补跑：一批里 status=error 的多半是会话短暂失效的连带失败，重激活后各补一次
+        # 批末补跑：一批里 status=error 的先廉价续窗重试，仍败才导航式重启会话
         errs = [(i, r) for i, r in enumerate(out) if r['status'] == 'error']
         if errs:
-            print('  [补跑] %d 个 error 词，批末重启会话后重试' % len(errs), flush=True)
-            self.warm('logic', extra_wait=8000)
+            print('  [补跑] %d 个 error 词' % len(errs), flush=True)
+            self.activate(token)
+            time.sleep(5)
             token = self.token() or token
+            still = []
             for i, old in errs:
                 r = self.query(old['term'], token)
                 if r['status'] != 'error':
@@ -248,7 +255,21 @@ class Crawler:
                     print('  %-42s %-5s %s（补跑）' % (old['term'][:42], r['status'],
                                                      '/'.join(str(d['total']) for d in r['dbs'])),
                           flush=True)
+                else:
+                    still.append((i, old))
                 time.sleep(self.interval)
+            if still:
+                self.warm('logic', extra_wait=8000)
+                token = self.token() or token
+                for i, old in still:
+                    r = self.query(old['term'], token)
+                    if r['status'] != 'error':
+                        r['row_key'] = old['row_key']
+                        out[i] = r
+                        print('  %-42s %-5s %s（补跑·导航）' % (old['term'][:42], r['status'],
+                                                         '/'.join(str(d['total']) for d in r['dbs'])),
+                              flush=True)
+                    time.sleep(self.interval)
         tmp = out_path + '.tmp'
         with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'results': out}, f, ensure_ascii=False, indent=1)
