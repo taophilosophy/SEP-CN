@@ -266,3 +266,11 @@
 | ockham | keele-2002 `Razor,</em>` | `Razor</em>,` | 逗号入斜体（①） |
 | ockham | maurer-1978 `Nominalism:”` | `Nominalism”` | 题名内多余冒号（①） |
 | ockham | spade-1999c `Ockhams’` | `Ockham’s` | 撇号错位（①） |
+| kant-hume-morality | 两处 `doi:0.1093…` | `doi:10.1093…` | doi 缺前导 10（①） |
+| kant-hume-morality | bricke-1996 题名末 `… Psychology John Bricke` | 删去窜入的作者名 | 作者名窜入题名（①） |
+| kant-hume-morality | crisp-2019 `Benthem` | `Bentham` | 拼写（①） |
+| kant-hume-morality | `F&ouml;ster` | `F&ouml;rster` | 拼写（①） |
+| kant-hume-morality | radcliffe-2019 `Perspectives<em>,&rdquo; …Supplement</em>` | `Perspectives&rdquo;, <em>…Supplement</em>` | 斜体跨引号错位（①） |
+| kant-hume-morality | robinson-2017 `2017 (eds.), 2017` | `(eds.), 2017` | 年份重复（①） |
+| kant-hume-morality | `Suprenant`（5 处） | `Surprenant` | 拼写（①） |
+| kant-hume-morality | [H]/[C]/[M]/[V] 说明段起 `(` 未闭 | 补 `)` | 括号未闭合（①） |
