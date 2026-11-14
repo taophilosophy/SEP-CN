@@ -1,0 +1,152 @@
+{
+ "key": "william of ware",
+ "term": "William of Ware",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T16:33:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=10000",
+ "hits": [
+  {
+   "cn": "预制部件",
+   "en": "prefabricated ware",
+   "code": "GB/T 4132—2023",
+   "standard": "绝热 术语",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "漆器",
+   "en": "lacquer ware",
+   "code": "GB/T 40490—2021",
+   "standard": "生漆髹饰工艺术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "测试件",
+   "en": "test ware",
+   "code": "GB/T 38634.1—2020",
+   "standard": "系统与软件工程 软件测试第1部分:概念和定义",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "空心制品",
+   "en": "hollow ware",
+   "code": "GB/T 3303—2018",
+   "standard": "日用陶瓷器缺陷术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "扁平制品",
+   "en": "flat ware",
+   "code": "GB/T 3303—2018",
+   "standard": "日用陶瓷器缺陷术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "陶瓷制品",
+   "en": "ceramic ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "紫砂",
+   "en": "zisha ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "汝瓷",
+   "en": "Ru ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "白云陶",
+   "en": "dolomite ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "钧瓷",
+   "en": "Jun ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "制品检选",
+   "en": "ware inspection",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "炻瓷器",
+   "en": "stone ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "陈设器皿瓷器",
+   "en": "artistic ware",
+   "code": "GB/T 13524.2—2018",
+   "standard": "陈设艺术瓷器第2部分:器皿瓷",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "特种工艺文化用瓷",
+   "en": "specialtechnicalcultural ware",
+   "code": "GB/T 13524.3—2015",
+   "standard": "陈设艺术瓷器第3部分:文化用瓷",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "文化用瓷",
+   "en": "cultural ware",
+   "code": "GB/T 13524.3—2015",
+   "standard": "陈设艺术瓷器第3部分:文化用瓷",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "薄壁制品",
+   "en": "thin ware",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "脏瓶",
+   "en": "dirty ware",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "卫生陶瓷",
+   "en": "ceramic sanitary ware,china sanitary ware",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "卫生陶瓷",
+   "en": "ceramic sanitary ware",
+   "code": "GB/T 9195—2023",
+   "standard": "建筑卫生陶瓷术语和分类",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "底款",
+   "en": "bottom stamp of ceramic ware",
+   "code": "GB/T 5000—2018",
+   "standard": "日用陶瓷名词术语",
+   "subject": "玻璃和陶瓷工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 10, \"2024\": 229, \"2023\": 808, \"2022\": 503, \"2021\": 1125, \"2020\": 639, \"2019\": 402, \"2018\": 414, \"2017\": 589, \"2016\": 365, \"2015\": 890, \"2014\": 591, \"2013\": 297, \"2012\": 322, \"2011\": 582, \"2010\": 242, \"2009\": 242, \"2008\": 965, \"2007\": 238, \"2006\": 71, \"2005\": 76, \"2004\": 96, \"2003\": 91, \"2002\": 34, \"2001\": 41, \"2000\": 11, \"1999\": 1, \"1998\": 67, \"1997\": 112, \"1996\": 22, \"1995\": 35, \"1994\": 7, \"1993\": 20, \"1992\": 2, \"1991\": 5, \"1988\": 108, \"1985\": 9, \"1984\": 29, \"暂无年份\": 2223}, \"sourceStats\": {\"食品技术\": 268, \"铁路工程\": 14, \"采矿和矿产品\": 270, \"道路车辆工程\": 146, \"造船和海上构筑物\": 110, \"造纸技术\": 25, \"货物的包装和调运\": 61, \"试验\": 101, \"计量学和测量、物理现象\": 242, \"航空器和航天器工程\": 101, \"能源和热传导工程\": 1037, \"综合、术语学、标准化、文献\": 996, \"纺织和皮革技术\": 237, \"精密机械、珠宝\": 31, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 748, \"石油及相关技术\": 217, \"电气工程\": 556, \"电子学\": 297, \"电信、音频和视频工程\": 145, \"玻璃和陶瓷工业\": 186, \"环保、保健和安全\": 517, \"涂料和颜料工业\": 20, \"流体系统和通用件\": 101, \"橡胶和塑料工业\": 196, \"材料储运设备\": 93, \"机械系统和通用件\": 251, \"机械制造\": 660, \"木材技术\": 63, \"服装工业\": 90, \"数学、自然科学\": 320, \"成像技术\": 44, \"建筑材料和建筑物\": 327, \"家用和商用设备、文娱、体育\": 158, \"土木工程\": 29, \"医药卫生技术\": 214, \"化工技术\": 212, \"冶金\": 237, \"农业\": 390, \"其它\": 2433, \"信息技术、办公机械\": 310}, \"typeStats\": {\"7\": 10000}, \"totalRecords\": 10000, \"tmWordList\": [{\"id\": \"90a866a79cc34179b95a26a945d03606\", \"databaseId\": null, \"standardId\": \"2b78fd05eb874369b2cc33f93cc08cf7\", \"standardCode\": \"GB/T 4132—2023\", \"standardName\": \"绝热 术语\", \"standardEnName\": \"Thermal insulation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.3.25\", \"cnName\": \"预制部件\", \"enName\": \"prefabricated ware\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"ICS 91.120.10\", \"ccs\": \"CCS Q 25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44729, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"预制部件\", \"cnNameSearch\": \"预制部件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"prefabricated ware\", \"wordSearch\": \"prefabricated ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由板或块状绝热材料经切割、磨削或其他方式加工成的弯头、T型管等部件。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>参见预成型绝热制品（3.4.4）。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5cbd32d9cc7f406f9fcf60f14bcf6e10\", \"databaseId\": null, \"standardId\": \"3693a1272adc4fe2a8f67c6134d4b405\", \"standardCode\": \"GB/T 40490—2021\", \"standardName\": \"生漆髹饰工艺术语\", \"standardEnName\": \"Technical terms in raw lacquer and decorative technique\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"12.1\", \"cnName\": \"漆器\", \"enName\": \"lacquer ware\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"ICS 01.020\", \"ccs\": \"CCS A 20/39\", \"parentTermId\": null, \"titleId\": null, \"oid\": 60396, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"漆器\", \"cnNameSearch\": \"漆器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lacquer ware\", \"wordSearch\": \"lacquer ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以生漆或精制漆为主要原料髹饰制成的器物统称。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>漆器也称髹器。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12592a04431b4c2db0c90d2229e7b033\", \"databaseId\": null, \"standardId\": \"891cb85588cb4637b5f4829bf915ff51\", \"standardCode\": \"GB/T 38634.1—2020\", \"standardName\": \"系统与软件工程 软件测试第1部分:概念和定义\", \"standardEnName\": \"Systems and software engineering—Software testing—Part1: Concepts and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.93\", \"cnName\": \"测试件\", \"enName\": \"test ware\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.08035\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144338, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测试件\", \"cnNameSearch\": \"测试件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"test ware\", \"wordSearch\": \"test ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"计划、设计和执行测试所需的、在测试过程中产生的制品。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>测试件可以包括文档、脚本文件、输入、预期结果、文件、数据库、环境以及任何用于测试过程中附加的软件或设备。<br></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d804173e8c1749d68f8b3ed0a676686d\", \"databaseId\": null, \"standardId\": \"20d9e5fa95a94715aa9925313d689ecf\", \"standardCode\": \"GB/T 3303—2018\", \"standardName\": \"日用陶瓷器缺陷术语\", \"standardEnName\": \"Terminology of defects for domestic ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"2.2 \", \"cnName\": \"空心制品\", \"enName\": \"hollow ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31100, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空心制品\", \"cnNameSearch\": \"空心制品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hollow ware\", \"wordSearch\": \"hollow ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从制品口沿水平面至内部最低平面的深度大于25 mm的陶瓷制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d34265628e5545b4b08d19797ec58c50\", \"databaseId\": null, \"standardId\": \"20d9e5fa95a94715aa9925313d689ecf\", \"standardCode\": \"GB/T 3303—2018\", \"standardName\": \"日用陶瓷器缺陷术语\", \"standardEnName\": \"Terminology of defects for domestic ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"2.1\", \"cnName\": \"扁平制品\", \"enName\": \"flat ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31121, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扁平制品\", \"cnNameSearch\": \"扁平制品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flat ware\", \"wordSearch\": \"flat ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从制品口沿水平面至内部最低平面的深度小于或等于25 mm的陶瓷制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7aea8c3ec78649648a8b844a6e78217d\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"2.1\", \"cnName\": \"陶瓷制品\", \"enName\": \"ceramic ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181182, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"陶瓷制品\", \"cnNameSearch\": \"陶瓷制品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ceramic ware\", \"wordSearch\": \"ceramic ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以无机非金属材料为主要原料，经一定生产工艺烧制成的硅酸盐制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"edde5338555d4a7b8e58faf6cf99fcb6\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.15\", \"cnName\": \"紫砂\", \"enName\": \"zisha ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181227, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"紫砂\", \"cnNameSearch\": \"紫砂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"zisha ware\", \"wordSearch\": \"zisha ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用质地细腻、含铁量较高的特种黏土制成的，呈色以赤褐为主，质地较坚硬而透气性能好的无釉陶器制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8a318ca28ab247889f815c58a971f3bc\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.22\", \"cnName\": \"汝瓷\", \"enName\": \"Ru ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181318, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"汝瓷\", \"cnNameSearch\": \"汝瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Ru ware\", \"wordSearch\": \"Ru ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用产自河南省汝州市现辖行政区域和宝丰县大营镇、肖旗乡、商酒务镇、赵庄乡、城关镇、杨庄镇、石桥镇、张八桥镇等8个乡镇现辖行政区域内的主要原料生产的，釉料以氧化铁为主要着色剂，经高温还原气氛烧成后，釉面成色呈现以天青色为基调、质地如玉的陶瓷产品。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 23397—2009\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e1c7ac36a28b4b56967a85ca471c7709\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.16\", \"cnName\": \"白云陶\", \"enName\": \"dolomite ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181328, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"白云陶\", \"cnNameSearch\": \"白云陶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dolomite ware\", \"wordSearch\": \"dolomite ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以白云石或石灰石为主要原料，吸水率较大，制作精细的陶器制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f38d62b465ad4d70bcffe3e45c3a4b9c\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.19\", \"cnName\": \"钧瓷\", \"enName\": \"Jun ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181355, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钧瓷\", \"cnNameSearch\": \"钧瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Jun ware\", \"wordSearch\": \"Jun ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用产自禹州市行政区域内的高岭土和陶瓷黏土（黑毛土）等原料经成形、素烧，釉料以铜、铁为主要着色剂，经还原气氨烧结，釉层产生液一液分相，呈现自然窑变的陈设品和日用品。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 23403—2009\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4ab266829a3f47cab16761a827c69486\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"4.133\", \"cnName\": \"制品检选\", \"enName\": \"ware inspection\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181377, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制品检选\", \"cnNameSearch\": \"制品检选\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ware inspection\", \"wordSearch\": \"ware inspection\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对陶瓷制品外观质量进行鉴别和分级的工序。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ffe872fa455e47dc87f4e5076027dfd9\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"5.3\", \"cnName\": \"炻瓷器\", \"enName\": \"stone ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181399, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"炻瓷器\", \"cnNameSearch\": \"炻瓷器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stone ware\", \"wordSearch\": \"stone ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"透光性差、断面呈石状、制作较精细、吸水率小于或等于5%的瓷器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e01f8aaa6cbe4932828f1d0d928fb189\", \"databaseId\": null, \"standardId\": \"f89acdfd689d4a64a6f8d7be93d1a239\", \"standardCode\": \"GB/T 13524.2—2018\", \"standardName\": \"陈设艺术瓷器第2部分:器皿瓷\", \"standardEnName\": \"Standard of artistic porcelainPart 2 :Artistic ware\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"3.1\", \"cnName\": \"陈设器皿瓷器\", \"enName\": \"artistic ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.20\", \"ccs\": \"Y 88\", \"parentTermId\": null, \"titleId\": null, \"oid\": 242891, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"陈设器皿瓷器\", \"cnNameSearch\": \"陈设器皿瓷器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"artistic ware\", \"wordSearch\": \"artistic ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于陈设、艺术欣赏的瓷器器皿。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"53cdba12e27c4cec8d937d031a0c4a31\", \"databaseId\": null, \"standardId\": \"10d002d19eae4a618c5cf3b563b985df\", \"standardCode\": \"GB/T 13524.3—2015\", \"standardName\": \"陈设艺术瓷器第3部分:文化用瓷\", \"standardEnName\": \"Standardofartisticporcelain—Part3:Culturalware\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"3.2\", \"cnName\": \"特种工艺文化用瓷\", \"enName\": \"specialtechnicalcultural ware\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2016-02-01\", \"ics\": \"81.060.20\", \"ccs\": \"Y88\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15593, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"特种工艺文化用瓷\", \"cnNameSearch\": \"特种工艺文化用瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"specialtechnicalcultural ware\", \"wordSearch\": \"specialtechnicalcultural ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在制造工艺和装饰方法上，精雕细刻(堆花、盘龙、镂空、捏雕等)综合装饰的文化用瓷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3e138575f8e94eddb0f47fdab77e86fe\", \"databaseId\": null, \"standardId\": \"10d002d19eae4a618c5cf3b563b985df\", \"standardCode\": \"GB/T 13524.3—2015\", \"standardName\": \"陈设艺术瓷器第3部分:文化用瓷\", \"standardEnName\": \"Standardofartisticporcelain—Part3:Culturalware\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"3.1\", \"cnName\": \"文化用瓷\", \"enName\": \"cultural ware\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2016-02-01\", \"ics\": \"81.060.20\", \"ccs\": \"Y88\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15595, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"文化用瓷\", \"cnNameSearch\": \"文化用瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cultural ware\", \"wordSearch\": \"cultural ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与书法、美术、宗教、体育文化生活有关的瓷器。如印盒、笔筒、水孟、笔架;调色盘、盆、盒;香炉、熏炉;围棋罐：化妆饰品盒等文化用瓷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bfb9ca50be2647699af6daf3acf09a91\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.7.3.21\", \"cnName\": \"薄壁制品\", \"enName\": \"thin ware\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197119, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"薄壁制品\", \"cnNameSearch\": \"薄壁制品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thin ware\", \"wordSearch\": \"thin ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"瓶罐局部过薄而达不到要求的安全标准。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"451458422d5b4729a25641dd82fc1516\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.7.6.6\", \"cnName\": \"脏瓶\", \"enName\": \"dirty ware\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197857, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"脏瓶\", \"cnNameSearch\": \"脏瓶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dirty ware\", \"wordSearch\": \"dirty ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包含碳化物和其他脏物的瓶罐。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f7df01293e2c4d01941e3d10cc6f7919\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.2 \", \"cnName\": \"卫生陶瓷\", \"enName\": \"ceramic sanitary ware,china sanitary ware\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18418, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"卫生陶瓷\", \"cnNameSearch\": \"卫生陶瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ceramic sanitary ware,china sanitary ware\", \"wordSearch\": \"ceramic sanitary ware,china sanitary ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由黏土、长石、和石英为主要原料,经混练、成型、高温烧制而成用作卫生设施的有釉陶瓷制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8825b886d8c94bbebf606343894dde12\", \"databaseId\": null, \"standardId\": \"835cdc41280a46dcaacb77fdff3cff28\", \"standardCode\": \"GB/T 9195—2023\", \"standardName\": \"建筑卫生陶瓷术语和分类\", \"standardEnName\": \"Terms and classification of building and sanitary ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.49\", \"cnName\": \"卫生陶瓷\", \"enName\": \"ceramic sanitary ware\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"91.100.0191\", \"ccs\": \"Q31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 138252, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"卫生陶瓷\", \"cnNameSearch\": \"卫生陶瓷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ceramic sanitary ware\", \"wordSearch\": \"ceramic sanitary ware\"}, {\"languageType\": 1, \"word\": \"china sanitary ware\", \"wordSearch\": \"china sanitary ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由黏土、长石和石英为主要原料，经混炼、成形、高温烧制而成，用作卫生设施的有釉陶瓷制品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b9ea7b7584f4d78bcece05d14554dc4\", \"databaseId\": null, \"standardId\": \"afcc372630b14489a4942357e0826372\", \"standardCode\": \"GB/T 5000—2018\", \"standardName\": \"日用陶瓷名词术语\", \"standardEnName\": \"Terminology for domestie ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"4.164\", \"cnName\": \"底款\", \"enName\": \"bottom stamp of ceramic ware\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181406, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"底款\", \"cnNameSearch\": \"底款\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bottom stamp of ceramic ware\", \"wordSearch\": \"bottom stamp of ceramic ware\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用文字或图案标记在陶瓷制品底部的标志。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 500}}, \"timestamp\": 1794674011035}"
+}
