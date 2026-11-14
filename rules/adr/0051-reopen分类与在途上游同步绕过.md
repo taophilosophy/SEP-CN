@@ -1,6 +1,6 @@
 # 0051. reopen 分类学与在途上游同步绕过（--upstream-sync，修订 ADR-0050 边界一）
 
-accepted | 2026-11-15（用户裁定「将 reopen 进行分类讨论，该特殊情形列为可绕过」）
+accepted | 2026-11-15（用户裁定“将 reopen 进行分类讨论，该特殊情形列为可绕过”）
 
 ## 背景
 
@@ -19,7 +19,7 @@ ADR-0050 统一了上游更新引发的 done 件返工（reopen --clear 置空�
 
 2. **R3 绕过约束（四闸）**：①`--upstream-sync` 显式声明（不留痕迹的绕过不存在）；②`--reason` 必须引用凭证（`compare/<slug>.json` 变更文件或分歧账条目）；③blocked 任务不可绕（先 `--unblock`）；④pending/cleared/done 不适用（done 走 R2、cleared 无正文、pending 已在队首）。绕过后按 ADR-0050 同构置空重译；旧 steps append-only 留史，reopen step 记 `bypass: upstream-sync（ADR-0051 R3）` 标记。
 3. **与 revert-state（ADR-0043）的分工**：revert-state 是 s3+/r 链 → s2.5_checked 的受控回退（**保正文**，只重走复核）；R3 是打回 pending **置空重译**（正文作废）。判据＝上游变更是否使正文失效：实质修订/换血 → R3；仅复核面缺陷 → revert-state。
-4. **task_ops 实现**：`reopen` 增 `--upstream-sync`；无 flag 时维持「仅 done」不变（禁跳步对常态流不动）；单测四则锁死（在途无 flag 拒／带 flag 过并留标记／blocked 带 flag 拒／done 带 flag 拒）。
+4. **task_ops 实现**：`reopen` 增 `--upstream-sync`；无 flag 时维持“仅 done”不变（禁跳步对常态流不动）；单测四则锁死（在途无 flag 拒／带 flag 过并留标记／blocked 带 flag 拒／done 带 flag 拒）。
 5. **应用**：本轮 4 件 s2.5_checked（behaviorism／emotion-Christian-tradition／kant-leibniz／logic-provability）即以 `--upstream-sync --clear` 打回置空重译；ADR-0050 边界一与派工单 A2 路径自此作废（注记）。
 
 ## 后果
