@@ -1,0 +1,19 @@
+{
+ "key": "zorn's lemma",
+ "term": "Zorn's lemma",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:07:39+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "外",
+   "en": "lemma",
+   "code": "GB/T 32770—2016",
+   "standard": "竹子名词术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"3f71e9c3bf0c493c8773d623abfb9a49\", \"databaseId\": null, \"standardId\": \"3c3cd3622c3a4274aeb52b5adc18a24c\", \"standardCode\": \"GB/T 32770—2016\", \"standardName\": \"竹子名词术语\", \"standardEnName\": \"Bamboo terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.19.1\", \"cnName\": \"外\", \"enName\": \"lemma\", \"publishTime\": \"2016-06-14\", \"publishYear\": \"2016\", \"implementTime\": \"2017-01-01\", \"ics\": \"01.040.65\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65559, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"外\", \"cnNameSearch\": \"外\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lemma\", \"wordSearch\": \"lemma\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"外颖\\n颖之上各苞片。通常呈绿色，有膜质、草质、薄革质等各种质地，先端渐尖、急尖、钝圆、截平、微凹或\\n二裂者，常具平行脉，主脉可伸出乃至成芒。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794676055908}"
+}

@@ -773,6 +773,13 @@ def build_cite_keys(entry_texts):
                         and t.rstrip('.').lower() not in ('and', 'the', 'in', 'on', 'eds',
                                                           'ed', 'review', 'of')]
             if not surnames:
+                # 2026-11-15：年份起首条目（`1913, “On the constitution…”`）无姓可扫，
+                # 小节标题「Works by X」「X’s Works」是唯一作者线索；旧式直接落到
+                # prev_surnames，首条即整条丢弃（bohr 的「Works by Bohr」整节蒸发）。
+                sec = _section_author(section)
+                if sec:
+                    surnames = [sec]
+            if not surnames:
                 surnames = list(prev_surnames)
             if not surnames:
                 continue
