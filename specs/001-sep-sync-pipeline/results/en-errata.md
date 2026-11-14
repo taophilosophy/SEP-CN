@@ -168,3 +168,13 @@
 | emerson | `Boston: A. Williams and Co., 1882)` | `A. Williams and Co.` | 年份重复、括号不配对（①） |
 | antonio-rosmini | `another ten are deduced`（其后只列九条） | `another nine` | 同页自相矛盾（②） |
 | antonio-rosmini | `Theodicy (theou dike)` | `theou dik&#275;` | 希腊语转写缺长音符（①） |
+| film | `the entire <em>ouvre</em> of a director` | `oeuvre` | 拼写（①） |
+| film | `Francois Truffaut` | `Fran&ccedil;ois` | 变音符缺失（①） |
+| film | `N&ouml;ell Carroll`（Bordwell 条） | `N&ouml;el Carroll` | 同页他处作 Nöel（②） |
+| film | `<em>Filmospohy</em>` | `Filmosophy` | 拼写（①） |
+| film | `Krakauer, Siegfried` | `Kracauer` | 作者正名（①） |
+| film | `Ranciere, Jacques` | `Ranci&egrave;re` | 变音符缺失（①） |
+| film | Badiou 2013 `<em>Film Fables</em>, Cambridge: Polity` | `<em>Cinema</em>` | 同名书已属 Rancière 2006，Polity 2013 版 Badiou 书名为 Cinema（②） |
+| film | `Grey M. Smith (eds.)`（plantinga-1999） | `Murray Smith` | 编者正名（①） |
+| film | `Hugh Grey (tr.)`（bazin-1967） | `Hugh Gray` | 译者正名（①） |
+| film | 正文 `Carroll and Choi 2006` | `2005` | 书目作 Carroll & Choi 2005（②） |

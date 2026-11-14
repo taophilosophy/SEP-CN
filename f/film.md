@@ -55,9 +55,9 @@
 
 在提出其论证时，巴赞推崇他所称的现实主义这一电影风格，其特点是长镜头与深焦距。让·雷诺阿（Jean Renoir）、奥逊·威尔斯（Orson Welles）以及意大利新现实主义（Italian neo-Realists）电影人，在巴赞看来正是把这种实现了媒介真正潜能的影像主义电影制作传统推向顶峰的创作者。
 
-诺埃尔·卡罗尔（Noël Carroll）在他所称“经典电影理论”的开创性研究（1988）中论证：经典理论家试图界定电影本性的做法，背后存在许多不正当的预设。具体说来，他指责他们把特定的电影制作风格，与关于媒介本身性质的更抽象主张混为一谈。他的指责似乎标志着这种以媒介本性为依据为电影风格辩护的努力的终结。
+诺埃尔·卡罗尔（Noël Carroll）在他所称“经典电影理论”的开创性研究（1988）[^carroll-1988]中论证：经典理论家试图界定电影本性的做法，背后存在许多不正当的预设。具体说来，他指责他们把特定的电影制作风格，与关于媒介本身性质的更抽象主张混为一谈。他的指责似乎标志着这种以媒介本性为依据为电影风格辩护的努力的终结。
 
-然而近来，巴赞关于电影现实主义的说法重新焕发生机，尽管没有了巴赞本人写作中的夸饰。肯德尔·沃尔顿（Kendall Walton）在一篇极具影响力的论文（1984）中论证：电影因植基于摄影，是一种现实主义的媒介，它使观看者得以真正看到屏幕上出现的对象。**透明性论题** 一直是哲学家与美学家之间大量争论的主题。例如，格雷戈里·柯里（Gregory Currie）在仍为某种形式的现实主义辩护的同时，拒绝了透明性论题。他论证，电影的现实主义源于这样一个事实：屏幕上所描绘的对象，所触发的识别能力与用以识别真实对象的能力相同。
+然而近来，巴赞关于电影现实主义的说法重新焕发生机，尽管没有了巴赞本人写作中的夸饰。肯德尔·沃尔顿（Kendall Walton）在一篇极具影响力的论文（1984）[^walton-1984]中论证：电影因植基于摄影，是一种现实主义的媒介，它使观看者得以真正看到屏幕上出现的对象。**透明性论题** 一直是哲学家与美学家之间大量争论的主题。例如，格雷戈里·柯里（Gregory Currie）在仍为某种形式的现实主义辩护的同时，拒绝了透明性论题。他论证，电影的现实主义源于这样一个事实：屏幕上所描绘的对象，所触发的识别能力与用以识别真实对象的能力相同。
 
 关于电影现实主义特征的讨论，至今仍是电影哲学家之间激烈争论的话题。近来，塑造影像的数字技术已然出现，对这一观点的可信性提出了十分根本的问题。
 
@@ -67,9 +67,9 @@
 
 因此，电影学者中相当普遍地存在一种倾向，把电影视为单一个人的作品，即它的 *auteur*（作者），这或许令人惊讶。依照这种解释思路，电影的导演是塑造整部影片的创造性心智，其方式与我们看待——比方说——一部文学作品之被创作的方式相似。
 
-导演作为 *auteur*（作者）的观念，最初由弗朗索瓦·特吕弗（Francois Truffaut）提出——他后来成为法国新浪潮（French New Wave）的核心导演之一。特吕弗以论战的方式使用该词，来贬抑当时占主导地位、强调把伟大文学作品搬上银幕的电影制作模式。在试图为一种不同的电影制作风格正名的过程中，特吕弗论证：唯有导演对影片制作拥有完全控制权——既亲自编写剧本，又实际执导演员——的电影，才配称为艺术。只有以这种方式制作的电影，才配得上艺术作品的地位。
+导演作为 *auteur*（作者）的观念，最初由弗朗索瓦·特吕弗（François Truffaut）提出——他后来成为法国新浪潮（French New Wave）的核心导演之一。特吕弗以论战的方式使用该词，来贬抑当时占主导地位、强调把伟大文学作品搬上银幕的电影制作模式。在试图为一种不同的电影制作风格正名的过程中，特吕弗论证：唯有导演对影片制作拥有完全控制权——既亲自编写剧本，又实际执导演员——的电影，才配称为艺术。只有以这种方式制作的电影，才配得上艺术作品的地位。
 
-著名的美国电影学者兼影评人安德鲁·萨里斯（Andrew Sarris）采纳了特吕弗的理论，以便为电影研究作为一门学科正名。在萨里斯看来，**作者论** 是一种电影评价理论，因为它使他认定：伟大导演的作品才是唯一重要的作品。在他对该观念有些独特的运用中，他甚至主张，重要导演的有瑕疵之作在艺术上优于次要导演的杰作。他这一观念中更站得住脚的一面，是强调导演完整的 *ouvre*（作品）。在电影研究中，对个别导演作综合性研究的强调，正是源自萨里斯版本的 **作者论**。
+著名的美国电影学者兼影评人安德鲁·萨里斯（Andrew Sarris）采纳了特吕弗的理论，以便为电影研究作为一门学科正名。在萨里斯看来，**作者论** 是一种电影评价理论，因为它使他认定：伟大导演的作品才是唯一重要的作品。在他对该观念有些独特的运用中，他甚至主张，重要导演的有瑕疵之作在艺术上优于次要导演的杰作。他这一观念中更站得住脚的一面，是强调导演完整的 *oeuvre*（作品）。在电影研究中，对个别导演作综合性研究的强调，正是源自萨里斯版本的 **作者论**。
 
 **作者论** 影响的一个负面后果，是相对忽视了电影制作的其他重要贡献者。演员、摄影师、编剧、作曲家和美术指导，都对电影作出了 **作者论** 所低估的重要贡献。尽管特吕弗是以论战方式引入该词来支持一种新的电影制作风格，后来的理论家却往往忽略他这番言论的语境。
 
@@ -105,7 +105,7 @@
 
 ## 5. 电影叙述
 
-虚构电影讲故事。与小说等文学媒介不同，它们借助影像与声音——包括言辞和音乐——来讲故事。显然，有些电影有叙述者。这些叙述者一般是角色叙述者，即电影虚构世界内部的人物。他们告诉我们电影的故事，并且据称向我们展示我们所看到的影像。不过有时，画外音叙述向我们呈现一个看似客观的人物处境视角，仿佛它源自电影世界之外。此外，还有一些虚构电影——讲故事的影片——其中没有一个明确的叙述者。这些事实引发了关于电影叙事的一系列难题，电影哲学家对此已有讨论。（见 Chatman (1990) 与 Gaut (2004)。）
+虚构电影讲故事。与小说等文学媒介不同，它们借助影像与声音——包括言辞和音乐——来讲故事。显然，有些电影有叙述者。这些叙述者一般是角色叙述者，即电影虚构世界内部的人物。他们告诉我们电影的故事，并且据称向我们展示我们所看到的影像。不过有时，画外音叙述向我们呈现一个看似客观的人物处境视角，仿佛它源自电影世界之外。此外，还有一些虚构电影——讲故事的影片——其中没有一个明确的叙述者。这些事实引发了关于电影叙事的一系列难题，电影哲学家对此已有讨论。（见 Chatman 1990 与 Gaut 2004）[^chatman-1990][^gaut-2004]
 
 哲学家之间一个引发争议的核心问题，是不可靠叙事。有些电影中，观众逐渐认识到影片的角色叙述者，对电影世界抱有一种有限或误导的看法。一个例子是马克斯·奥菲尔斯（Max Ophuls）的《一封陌生女子的来信》（*Letter from an Unknown Woman*，1948），这是一部被众多不同哲学家讨论过的电影。影片大部分是莉莎·贝恩德勒（Lisa Berndle）的画外音叙述，她是片名中的那位陌生女子，在临死前不久念出她寄给情人马克斯·布兰德（Max Brand）的那封信。观众逐渐认识到，莉莎对她所叙述的事件抱有一种扭曲的看法，最明显地体现在她对布兰德品性的误判上。这便提出一个问题：观众如何能够知道莉莎的看法是扭曲的？毕竟我们所听到和看到的一切，皆由她叙述（或展示）。乔治·威尔逊（George Wilson，1986）论证，像这样的不可靠叙事需要假定影片存在一个隐含叙述者；而格雷戈里·柯里（Gregory Currie，1995）则论证，一个隐含的电影制作者便已足够。随着涉及不可靠叙事的电影制作风格日益流行，这一问题已变得极为切要。布莱恩·辛格（Bryan Singer）的《非常嫌疑犯》（*The Usual Suspects*，1995）引发了一连串叙述者在某方面不可靠的电影。
 
@@ -125,7 +125,7 @@
 
 就发展出并非仅支持现存社会支配之政治立场的电影而言，一个有趣例子是涉及异族情侣的影片。斯坦利·克雷默（Stanley Kramer）1967 年的影片《猜猜谁来吃晚餐》（*Guess Who's Coming to Dinner*），通过描绘一对异族情侣所面临的问题，考察了种族融合作为解决美国反黑人种族主义问题之方案的合理性。将近 25 年后，斯派克·李（Spike Lee）的《丛林热》（*Jungle Fever*）反驳了前一部电影的政治议程，再次使用一对遭遇种族主义的异族情侣。只不过这一次，影片断言：美国白人冥顽不化的种族主义，破坏了把融合当作治愈这一种族主义社会之痼疾的万灵药（Wartenberg 1999）[^wartenberg-1999]。许多其他电影也运用这一叙事形象，考察种族主义的其他方面及其克服的可能。
 
-同样，哲学家把目光投向好莱坞之外，关注约翰·塞尔斯（John Sayles）等进步电影制作者的影片，以表明他们相信叙事电影能够发表老练的政治表述。像 *Matewan* 这样的电影，被认为涉及对阶级与种族作为社会支配场域之关系的老练考察。
+同样，哲学家把目光投向好莱坞之外，关注约翰·塞尔斯（John Sayles）等进步电影制作者的影片，以表明他们相信叙事电影能够发表老练的政治表述。像《马特万》（*Matewan*）这样的电影，被认为涉及对阶级与种族作为社会支配场域之关系的老练考察。
 
 那么，总体而言，我们可以说：哲学家抵制了对电影的一元化谴责——斥其为社会倒退之物——并探索了电影制作者用以对社会关切领域提出批判性视角的不同手段。尽管他们没有忽视标准好莱坞叙事削弱批判性社会意识的种种方式，他们表明了叙事电影是共同体反思当世重要社会议题的一个重要载体。
 
@@ -141,7 +141,7 @@
 
 持相反观点的人指出了电影能够从事哲学的多种不同方式。其中首要的是思想实验。思想实验涉及想象性场景，读者被要求想象：如果如此这般情形成立，事情会怎样。那些认为电影能够真正从事哲学的人指出：虚构电影可以作为哲学思想实验发挥作用，因而具有哲学资格（见 Wartenberg 2007）[^wartenberg-2007]。许多电影被提议为从事哲学的候选者，包括沃卓斯基（Wachowski）1999 年的卖座片《黑客帝国》（*The Matrix*）——一部引发的哲学讨论比任何其他电影都多的影片——《记忆碎片》（*Memento*，2000）与《暖暖内含光》（*Eternal Sunshine of the Spotless Mind*，2004）。
 
-哲学家也开始关注一种被称为 *structural*（结构）电影的前卫电影制作脉络。这些电影是其他艺术中极简主义的类似物，因而引发这样的问题：它们是否正是旨在证明“某物成为电影”之必要标准的实际实验。如果这一看法成立，那么这些电影——例子包括 *The Flicker*（1995）与 *Serene Velocity*（1970）——就可以视为通过识别这些假定必要的电影特征而为哲学做出贡献。这一看法虽然为诺埃尔·卡罗尔（Nöel Carroll）所采纳（见 Carroll and Choi 2006；Thomas Wartenberg 2007）[^wartenberg-2007]，却也因与否认虚构电影哲学潜能的理由相似的理由而受到批评，即电影无法真正从事哲学的“艰苦工作”。
+哲学家也开始关注一种被称为 *structural*（结构）电影的前卫电影制作脉络。这些电影是其他艺术中极简主义的类似物，因而引发这样的问题：它们是否正是旨在证明“某物成为电影”之必要标准的实际实验。如果这一看法成立，那么这些电影——例子包括 *The Flicker*（1995）与 *Serene Velocity*（1970）——就可以视为通过识别这些假定必要的电影特征而为哲学做出贡献。这一看法虽然为诺埃尔·卡罗尔（Noël Carroll）所采纳（见 Carroll and Choi 2005；Thomas Wartenberg 2007）[^wartenberg-2007]，却也因与否认虚构电影哲学潜能的理由相似的理由而受到批评，即电影无法真正从事哲学的“艰苦工作”。
 
 在大陆传统中工作的哲学家，主张对电影之哲学贡献的一种更全面的说明。的确，“电影哲学（film-philosophy）”一词已被引入，用以指称据称发生在电影中的一种新的哲学化形式。（对这一观念的讨论，见 Sinnerbrink 2011。）[^sinnerbrink-2011]
 
@@ -155,66 +155,120 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；书目条目照录原文。
 
 [^allen-1997]: Allen, Richard, and Murray Smith (eds.), 1997. *Film Theory and Philosophy*, Oxford: Clarendon Press.
+
 [^andersen-2014]: Andersen, Nathan, 2014. *Shadow Philosophy: Plato’s Cave and Cinema*, Abingdon, UK: Routledge.
+
 [^arnheim-1957]: Arnheim, Rudolf, 1957. *Film as Art*, Berkeley: University of California Press.
-[^badiou-2013]: Badiou, Alain, 2013. *Film Fables*, Cambridge: Polity.
-[^bazin-1967]: Bazin, André, 1967 and 1971. *What is Cinema?*, 2 volumes, Hugh Grey (tr.), Berkeley: University of California Press.
-[^bordwell-1996]: Bordwell, David, and Nöell Carroll. 1996. *Post-Theory: Reconstructing Film Studies*, Madison: University of Wisconsin Press.
+
+[^badiou-2013]: Badiou, Alain, 2013. *Cinema*, Cambridge: Polity.
+
+[^bazin-1967]: Bazin, André, 1967 and 1971. *What is Cinema?*, 2 volumes, Hugh Gray (tr.), Berkeley: University of California Press.
+
+[^bordwell-1996]: Bordwell, David, and Noël Carroll. 1996. *Post-Theory: Reconstructing Film Studies*, Madison: University of Wisconsin Press.
+
 [^carel-2011]: Carel, Havi, and Greg Tuck, 2011. *New Takes in Film-Philosophy*, Basingstoke, UK: Palgrave Macmillan.
-[^carroll-1988]: Carroll, Nöel, 1988. *Philosophical Problems of Classical Film Theory*, Princeton: Princeton University Press.
+
+[^carroll-1988]: Carroll, Noël, 1988. *Philosophical Problems of Classical Film Theory*, Princeton: Princeton University Press.
+
 [^carroll-1990]: –––, 1990. *The Philosophy of Horror, or Paradoxes of the Heart*, New York: Routledge.
+
 [^carroll-1996]: –––, 1996. *Theorizing the Moving Image*, Cambridge: Cambridge University Press.
+
 [^carroll-2008]: –––, 2008. *The Philosophy of Motion Pictures*, Malden, MA: Blackwell.
-[^carroll-2005]: Carroll, Nöel and Jinhee Choi, 2005. *The Philosophy of Film and Motion Pictures: An Anthology*, Malden, MA: Blackwell Publishers.
-[^carroll-1998]: Carroll, Nöel, *et al*., 1998. “Film,” in *Encyclopedia of Aesthetics*, Michael Kelly (ed.), New York, Oxford: Oxford University Press, Volume 2, 185–206.
+
+[^carroll-2005]: Carroll, Noël and Jinhee Choi, 2005. *The Philosophy of Film and Motion Pictures: An Anthology*, Malden, MA: Blackwell Publishers.
+
+[^carroll-1998]: Carroll, Noël, *et al*., 1998. “Film,” in *Encyclopedia of Aesthetics*, Michael Kelly (ed.), New York, Oxford: Oxford University Press, Volume 2, 185–206.
+
 [^cavell-1979]: Cavell, Stanley. 1979. *The World Viewed: Reflections on the Ontology of Film*, enlarged edition, Cambridge, MA: Harvard University Press.
+
 [^cavell-1981]: –––, 1981. *Pursuits of Happiness: The Hollywood Comedy of Remarriage*, Cambridge: Harvard University Press.
+
 [^cavell-1996]: –––, 1996. *Contesting Tears: The Hollywood Melodrama of the Unknown Woman*, Chicago: University of Chicago Press.
+
 [^cavell-2004]: –––, 2004. *Cities of Words: Pedagogical Letters on a Register of the Moral Life*, Cambridge, MA: Harvard University Press.
+
 [^chatman-1990]: Chatman, Seymour, 1990. *Coming to Terms: The Rhetoric of Narrative in Fiction and Film*, Ithaca, NY: Cornell University Press.
+
 [^cox-2011]: Cox, Damian, and Michael Levine, 2011. *Thinking through Film: Doing Philosophy, Watching Movies*, Chichester, UK: Wiley-Blackwell.
+
 [^currie-1995]: Currie, Gregory, 1995. *Image and Mind: Film, Philosophy, and Cognitive Science*, Cambridge: Cambridge University Press.
+
 [^eisenstein-1969]: Eisenstein, Sergei, 1969. *Film Form: Essays in Film Theory*, New York: Harcourt.
+
 [^falzon-2014]: Falzon, Christopher, 2014. *Philosophy Goes to the Movies: An Introduction to Philosophy, 3rd Edition*, Abingdon, UK: Routledge.
-[^frampton-2006]: Frampton, Daniel, 2006. *Filmospohy*, London: Wallflower Press.
+
+[^frampton-2006]: Frampton, Daniel, 2006. *Filmosophy*, London: Wallflower Press.
+
 [^freeland-1995]: Freeland, Cynthia A., and Thomas E. Wartenberg, 1995. *Philosophy and Film*, New York: Routledge.
+
 [^freeland-2000]: Freeland, Cynthia A., 2000. *The Naked and the Undead: Evil and the Appeal of Horror*, Boulder: Westview Press.
+
 [^gaut-2003]: Gaut, Berys, 2003. “Film,” in *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), New York, Oxford: Oxford University Press, 627–643.
+
 [^gaut-2004]: –––, 2004. “The Philosophy of the Movies: Cinematic Narration,” in *The Blackwell Guide to Aesthetics*, Peter Kivy (ed.), Oxford: Blackwell Publishing, 230–253.
+
 [^gaut-2010]: –––, 2010. *A Philosophy of Cinematic Art*, Cambridge: Cambridge University Press.
+
 [^jarvie-1987]: Jarvie, Ian, 1987. *Philosophy of the Film*, New York: Routledge & Kegan Paul.
-[^krakauer-1960]: Krakauer, Siegfried, 1960. *Theory of Film: The Redemption of Physical Reality*, New York: Oxford University Press.
+
+[^kracauer-1960]: Kracauer, Siegfried, 1960. *Theory of Film: The Redemption of Physical Reality*, New York: Oxford University Press.
+
 [^kupfer-1999]: Kupfer, Joseph H., 1999. *Visions of Virtue in Popular Film*, Boulder: Westview Press.
+
 [^litch-nd]: Litch, Mary, and Amy D. Karofsky, *Philosophy Through Film, 3rd Edition*, Abingdon, UK: Routledge.
+
 [^livingston-2009]: Livingston, Paisley, 2009. *Cinema, Philosophy, Bergman: On Film as Philosophy*, Oxford: Oxford University Press.
+
 [^livingston-2008]: Livingston, Paisley, and Carl Plantinga, 2008. *The Routledge Companion to Philosophy and Film*, Abingdon: UK: Routledge.
+
 [^mulhall-2001]: Mulhall, Stephen, 2001. *On Film*, London: Routledge.
+
 [^münsterberg-1916]: Münsterberg, Hugo, 1916. *The Photoplay: A Psychological Study*, New York: D. Appleton and Company.
-[^plantinga-1999]: Plantinga, Carl, and Grey M. Smith (eds.), 1999. *Passionate Views: Film, Cognition, and Emotion*, Baltimore: Johns Hopkins University Press.
-[^ranciere-2006]: Ranciere, Jacques, 2006. *Film Fables (Talking Images)*, London: Bloomsbury Academic.
+
+[^plantinga-1999]: Plantinga, Carl, and Murray Smith (eds.), 1999. *Passionate Views: Film, Cognition, and Emotion*, Baltimore: Johns Hopkins University Press.
+
+[^rancière-2006]: Rancière, Jacques, 2006. *Film Fables (Talking Images)*, London: Bloomsbury Academic.
+
 [^read-2005]: Read, Rupert, and Jerry Goodenough, 2005. *Film as Philosophy: Essays on Cinema After Wittgenstein and Cavell*, London: Palgrave-MacMillan.
+
 [^scruton-1981]: Scruton, Roger, 1981. “Photography and Representation” *Critical Inquiry*, 7(3): 577–603.
+
 [^sesonske-1974]: Sesonske, Alexander, 1974. “Aesthetics of Film, or A Funny Thing Happened on the Way to the Movies,” *Journal of Aesthetics and Art Criticism*, 33(1): 51–7.
+
 [^singer-2010]: Singer, Irving, 2010. *Cinematic Mythmaking: Philosophy in Film*, Cambridge, MA: The MIT Press.
+
 [^sinnerbrink-2011]: Sinnerbrink, Robert, 2011. *New Philosophies of Film: Thinking Images*, London: Continuum.
+
 [^sinnerbrink-2015]: –––, 2015, forthcoming. *Cinematic Ethics*, London: Routledge.
+
 [^smith-1995]: Smith, Murray, 1995. *Engaging Characters: Fiction, Emotion, and the Cinema*, Oxford: Clarendon Press.
+
 [^smith-2001]: –––, 2001. “Film,” *The Routledge Companion to Aesthetics*, Berys Gaut and Dominic McIver Lopes (eds.), London: Routledge.
+
 [^smith-2006]: Smith, Murray, and Thomas E. Wartenberg, 2006. *Thinking Through Cinema: Film as Philosophy*, Malden, MA: Blackwell.
+
 [^tan-1995]: Tan, Ed S., 1995. *Emotion and the Structure of Narrative Film: Film As An Emotion Machine*, London: Routledge.
+
 [^thomson-jones-2008]: Thomson-Jones, Kathryn, 2008. *Aesthetics and Film*, London: Continuum.
+
 [^thomson-jones-2016]: Thomson-Jones, Kathryn (ed.), 2016, forthcoming. *Current Controversies in Philosophy of Film*, New York: Routledge.
+
 [^walton-1984]: Walton, Kendall, 1984. “Transparent Pictures: On the Nature of Photographic Realism,” *Critical Inquiry*, 11: 246–77.
+
 [^wartenberg-1999]: Wartenberg, Thomas E., 1999. *Unlikely Couples: Movie Romance as Social Criticism*, Boulder: Westview Press.
+
 [^wartenberg-2007]: –––, 2007. *Thinking On Screen: Film as Philosophy*, London: Routledge.
+
 [^wartenberg-2005]: Wartenberg, Thomas E. and Angela Curran, 2005. *The Philosphy of Film: Introductory Text and Readings*, Malden, MA: Blackwell Publishers.
+
 [^wilson-1986]: Wilson, George M., 1986. *Narration in Light: Studies in Cinematic Point of View*, Baltimore: Johns Hopkins Press.
+
 [^wilson-1997]: –––, 1997. “*Le Grand Imagier* Steps Out: The Primitive Basis of Film Narration,” *Philosophical Topics*, 25: 295–318.
+
 [^wilson-2011]: –––, 2011. *Seeing Fictions in Film: The Epistemology of Movies*, Oxford: Oxford University Press.
 
 ## 学术工具
