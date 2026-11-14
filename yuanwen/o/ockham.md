@@ -415,7 +415,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^note-50]: *Opus nonaginta dierum*, c. 65, *OPol* II, pp. 573–80. This chapter is translated by Kilcullen and included in *Letter to the Friars Minor*, pp. 48–59.
 
-[^guillelmi-1967]: *Guillelmi de Ockham Opera Philosophica et Theologica. Opera Theologica*, 18 volumes, St. Bonaventure, NY: St. Bonaventure University, 1967–1988.
+[^guillelmi-1967]: *Guillelmi de Ockham Opera Philosophica et Theologica. Opera Theologica*, 10 volumes, St. Bonaventure, NY: St. Bonaventure University, 1967–1988.
 
 [^oph-nd]: [*OPh*] Opera Philosophica, 7 volumes
 
@@ -439,7 +439,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^vol-nd-7]: Vol. V: *Quaestiones in Secundum Librum Sententiarum. Reportatio*
 
-[^vol-nd-8]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportio*
+[^vol-nd-8]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportatio*
 
 [^vol-nd-9]: Vol. VII: *Quaestiones in Quartum Librum Sententiarum. Reportatio*
 
@@ -467,7 +467,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^vol-1956]: Vol. 3: H. S. Offler (ed.), Manchester: University of Manchester, 1956. Contains:
 
-[^epistola-nd]: *Epistola ad Fratres Minores* [*A Letter to the Friars Minor*]);
+[^epistola-nd]: *Epistola ad Fratres Minores* [*A Letter to the Friars Minor*];
 
 [^tractatus-nd]: *Tractatus contra Ioannem*;
 
@@ -483,7 +483,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^allegationes-nd]: *Allegationes de potestate imperiali*;
 
-[^de-nd-2]: *De election Caroli Quarti*,
+[^de-nd-2]: *De electione Caroli Quarti*,
 
 [^dialogus-2015]: *Dialogus* [Dialogue], 5 volumes, Oxford: Oxford University Press for the British Academy, 2015 edition. [[*Dialogus* available online](https://publications.thebritishacademy.ac.uk/pubs/dialogus/ockdial.html)]
 
@@ -575,7 +575,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^karger-1999]: –––, 1999, “Ockham’s Misunderstood Theory of Intuitive and Abstractive Cognition”, in Spade 1999a: 204–226 (ch. 9). doi:10.1017/CCOL052158244X.010
 
-[^keele-2002]: Keele, Rondo, 2002, *Formal Ontology in the Fourteenth Century: The Chatton Principle and Ockham’s Razor,* Ph.D. dissertation, Indiana University, Bloomington.
+[^keele-2002]: Keele, Rondo, 2002, *Formal Ontology in the Fourteenth Century: The Chatton Principle and Ockham’s Razor*, Ph.D. dissertation, Indiana University, Bloomington.
 
 [^keele-2010]: –––, 2010, *Ockham Explained: From Razor to Rebellion* (Ideas Explained Series 7), Chicago: Open Court.
 
@@ -589,7 +589,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^maurer-1962]: Maurer, Armand A., 1962, *Medieval Philosophy* (Gilson’s A History of Philosophy), New York: Random House.
 
-[^maurer-1978]: –––, 1978, “Method in Ockham’s Nominalism:”, *The Monist*, 61(3): 426–443. doi:10.5840/monist197861334
+[^maurer-1978]: –––, 1978, “Method in Ockham’s Nominalism”, *The Monist*, 61(3): 426–443. doi:10.5840/monist197861334
 
 [^maurer-1984]: –––, 1984, “Ockham’s Razor and Chatton’s Anti-Razor”, *Mediaeval Studies*, 46: 463–475. doi:10.1484/J.MS.2.306670
 
@@ -653,7 +653,7 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^spade-1999b]: –––, 1999b, “Introduction”, in Spade 1999a: 1–16. doi:10.1017/CCOL052158244X.001
 
-[^spade-1999c]: –––, 1999c, “Ockhams’ Nominalist Metaphysics: Some Main Themes”, in Spade 1999a: 100–117 (ch. 5). doi:10.1017/CCOL052158244X.006
+[^spade-1999c]: –––, 1999c, “Ockham’s Nominalist Metaphysics: Some Main Themes”, in Spade 1999a: 100–117 (ch. 5). doi:10.1017/CCOL052158244X.006
 
 [^stump-1999]: Stump, Eleonore, 1999, “The Mechanisms of Cognition: Ockham on Mediating Species”, in Spade 1999a: 168–203 (ch. 8). doi:10.1017/CCOL052158244X.009
 
