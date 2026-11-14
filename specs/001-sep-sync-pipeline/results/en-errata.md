@@ -96,3 +96,6 @@
 | modesty-humility | 7 条书目期刊名前缺逗号 | 补 `,` | 书目标点（①） |
 | modesty-humility | `&ldquo;Aidws in Epictetus&rdquo;` / `&ldquo;&rsquo;A Monkish Virtue?&rsquo;` | `Aid&#333;s` / `&lsquo;…&rsquo;` | 希腊转写与引号方向（①） |
 | modesty-humility | kelly-2010 `Disagreement` 缺斜体；aquinas-1981 链接后缺句点 | 补斜体、补句点 | 书目体例（①） |
+| obligationes | `Breen-Pedersen &amp; Pinborg 1976` / `Uckelman, Maat and Rybalko 2018` | `Green-Pedersen` / `2008` | 与书目条目不符（②） |
+| obligationes | `J. Pinbord` / `Rober Swyneshed` | `Pinborg` / `Robert` | 拼写（①） |
+| obligationes | keffer-2001／read-2020／yrjönsuuri-2015 条末缺句点 | 补 `.` | 句读（①） |
