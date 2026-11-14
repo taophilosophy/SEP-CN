@@ -23,6 +23,7 @@
   - 单测 5 例入 `tools/tests/test_yuanwen_backslash.py`（独立文件防并行会话撞车）；test_yuanwen 37 例全绿。
   - 全量重转复跑：5 文件随两修更新（albert-great、benjamin、envy、nonwellfounded、typelogical），0 失败；两文件全链 Vue 编译通过（script/t023_repro.mjs）。
   - **待办**：全量 `bun run build` 复跑（后台进行中）→ 绿后本阻塞销账、基线钉随之更新。
+  - **阻塞销账（同日）**：他会 8G→12G 堆顶（b0e8df64e，重转内容增长防 OOM）后第四次全量构建**绿**（exit=0，866.86s，specs/023-triple-regression-audit/results/build-20261114d.log）；check_all 9 项全绿。**Phase 1 完成收口。**
 
 ## 基线钉
 
@@ -30,6 +31,8 @@
 | ---- | ---- | ---- |
 | 旧 | b20ab51b8 | 022 立卡时钉（ADR-0038 重转后） |
 | 新 | 97563ee02 | 023 Phase 1 全量重转收口（嵌套表透传＋单行折叠＋li/dd 内表；幂等复跑 1872/0 失败验证与工作区一致） |
+| 追加 | 61361eb5d | 反斜杠翻倍＋裸星转义两修复后 5 词条重转（构建阻塞修复） |
+| 构建 | 1d927d559 后 | 全量构建绿（exit=0）于第四次（12G 堆顶）；en 勘误 3 处（academic-freedom）+ 词条重转含于其后续提交 |
 
 ## 覆盖进度（Phase 2 逐条三向审校，随做随更）
 
