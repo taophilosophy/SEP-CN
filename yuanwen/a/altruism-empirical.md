@@ -145,7 +145,7 @@ To test this hypothesis—which Batson calls the socially administered empathy-s
 
 *Table 1.*
 
-| （嵌套表：\| *Potential for Negative Social Evaluation* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *High* \| Low \| High \| \| *Low* \| Low \| Low \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="width:10em"><em>Potential for Negative Social Evaluation</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>High</em></td> <td>Low</td> <td>High</td> </tr> <tr> <td><em>Low</em></td> <td>Low</td> <td>Low</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
@@ -155,7 +155,7 @@ Table 1. Predictions About the Amount of Helping (Low or High) on the Socially A
 
 *Table 2.*
 
-| （嵌套表：\| *Potential for Negative Social Evaluation* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *High* \| Low \| High \| \| *Low* \| Low \| High \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="width:10em"><em>Potential for Negative Social Evaluation</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>High</em></td> <td>Low</td> <td>High</td> </tr> <tr> <td><em>Low</em></td> <td>Low</td> <td>High</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
@@ -192,7 +192,7 @@ As Batson notes, procedures in the high-potential condition
 
 *Table 3.*
 
-| （嵌套表：\| *Potential for Negative Social Evaluation* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *High* \| 0.67 \| 1.71 \| \| *Low* \| 1.29 \| 2.44 \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="width:10em"><em>Potential for Negative Social Evaluation</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>High</em></td> <td>0.67</td> <td>1.71</td> </tr> <tr> <td><em>Low</em></td> <td>1.29</td> <td>2.44</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
@@ -214,7 +214,7 @@ Altruism and egoism both allow that even in the absence of empathy, an emotional
 
 *Table 4.*
 
-| （嵌套表：\| *Escape* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *Easy* \| Low \| Low \| \| *Difficult* \| High \| High/Very High \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="vertical-align:middle"><em>Escape</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>Easy</em></td> <td>Low</td> <td>Low</td> </tr> <tr> <td><em>Difficult</em></td> <td>High</td> <td>High/Very High</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
@@ -224,7 +224,7 @@ Table 4. Predictions from the Aversive-Arousal Reduction Hypothesis for the Rate
 
 *Table 5.*
 
-| （嵌套表：\| *Escape* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *Easy* \| Low \| High \| \| *Difficult* \| High \| High \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="vertical-align:middle"><em>Escape</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>Easy</em></td> <td>Low</td> <td>High</td> </tr> <tr> <td><em>Difficult</em></td> <td>High</td> <td>High</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
@@ -238,7 +238,7 @@ The results, given in Table 6, clearly exhibit the pattern predicted by the empa
 
 *Table 6.*
 
-| （嵌套表：\| *Escape* \| *Empathy* \| \| \| --- \| --- \| --- \| \| *Low* \| *High* \| \| \| *Easy* \| 0.18 \| 0.91 \| \| *Difficult* \| 0.64 \| 0.82 \|） |   |
+| <table class="avoid-break cellpad-med-dense centered two-hrules vert-bot"> <tbody> <tr> <td rowspan="2" style="vertical-align:middle"><em>Escape</em></td> <td class="center rule-below" colspan="2"><em>Empathy</em></td> </tr> <tr> <td><em>Low</em></td> <td><em>High</em></td> </tr> <tr class="rule-above"> <td><em>Easy</em></td> <td>0.18</td> <td>0.91</td> </tr> <tr> <td><em>Difficult</em></td> <td>0.64</td> <td>0.82</td> </tr> </tbody> </table> |   |
 | --- | --- |
 | ← | **Level of Empathy** |
 | ← | **Level of Helping** |
