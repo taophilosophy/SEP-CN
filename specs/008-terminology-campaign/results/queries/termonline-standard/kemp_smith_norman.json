@@ -1,0 +1,47 @@
+{
+ "key": "kemp smith, norman",
+ "term": "Kemp Smith, Norman",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:50:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "Smith-Waterman 算法",
+   "en": "Smith-Waterman algorithm",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "枪毛",
+   "en": "kemp",
+   "code": "GB/T 26616—2011",
+   "standard": "裘皮  獭兔皮",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "死毛",
+   "en": "kemp",
+   "code": "GB/T 14270—2008",
+   "standard": "毛绒纤维类型含量试验方法",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "手锻炉",
+   "en": "smith forging furnace",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "手锻炉",
+   "en": "smith forging furnace",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1, \"2012\": 1, \"2011\": 1, \"2008\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"纺织和皮革技术\": 2, \"机械制造\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"8d86a1c302ed40b9a018fababe9ba599\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.2.38\", \"cnName\": \"Smith-Waterman 算法\", \"enName\": \"Smith-Waterman algorithm\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169656, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Smith-Waterman 算法\", \"cnNameSearch\": \"Smith-Waterman 算法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Smith-Waterman algorithm\", \"wordSearch\": \"Smith-Waterman algorithm\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"使用动态规划对序列进行局部比对的算法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca691e88101646ffbd1f3a87ff09d144\", \"databaseId\": null, \"standardId\": \"17cc208b07ab4d60bd6324ebe813d427\", \"standardCode\": \"GB/T 26616—2011\", \"standardName\": \"裘皮  獭兔皮\", \"standardEnName\": \"Furs - Rex skin\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"2.6\", \"cnName\": \"枪毛\", \"enName\": \"kemp\", \"publishTime\": \"2011-06-16\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"59.140.30\", \"ccs\": \"Y46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23115, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"枪毛\", \"cnNameSearch\": \"枪毛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"kemp\", \"wordSearch\": \"kemp\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"露出绒面的针毛。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d21dd8fd412b456fba1c72a165fe9d8b\", \"databaseId\": null, \"standardId\": \"59c236a764974ffbbeaaf804396ed295\", \"standardCode\": \"GB/T 14270—2008\", \"standardName\": \"毛绒纤维类型含量试验方法\", \"standardEnName\": \"Test method for fiber type content of hair fibers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.4\", \"cnName\": \"死毛\", \"enName\": \"kemp\", \"publishTime\": \"2008-08-20\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"59.060.10\", \"ccs\": \"W 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91585, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"死毛\", \"cnNameSearch\": \"死毛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"kemp\", \"wordSearch\": \"kemp\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"-般纤维呈扁带状、色骨白、无光泽、僵直，少数也有呈丝状弯曲；此类纤维放人苯液中清晰可见：在投影屏幕内纤维出现髓腔，且髓腔连续长度在 25 mm及以上，髓腔宽度占纤维总宽度的 60%及以上者\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f4123a2634064e52a790b967f1acca25\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"13.2.16\", \"cnName\": \"手锻炉\", \"enName\": \"smith forging furnace\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223621, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"手锻炉\", \"cnNameSearch\": \"手锻炉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"smith forging furnace\", \"wordSearch\": \"smith forging furnace\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"把固体燃料放在炉膛内燃烧，坯料置于其中加热的加热炉，也称明火炉。一般供手工锻造，加热小<br>件用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d1dc37fbe23a4536b8e052205425b688\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"13.2.16\", \"cnName\": \"手锻炉\", \"enName\": \"smith forging furnace\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35711, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"手锻炉\", \"cnNameSearch\": \"手锻炉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"smith forging furnace\", \"wordSearch\": \"smith forging furnace\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"把固体燃料放在炉膛内燃烧，坏料置于其中加热的加热炉，也称明火炉。一般供手工锻造，加热小件用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678610631}"
+}
