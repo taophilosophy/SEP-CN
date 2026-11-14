@@ -53,3 +53,4 @@
 | marsilius-inghen | `Gr[special-character:uumlndungsrektors` | `Gr&uuml;ndungsrektors` | SEP 页自身坏实体 |
 | marsilius-inghen | `[ISA]<em>, Quaestiones…` | `[ISA], <em>Quaestiones…` | 斜体不该含前导逗号 |
 | marsilius-inghen | `J.-L- Sol&egrave;re` / `causasalit&eacute;` | `J.-L. Sol&egrave;re` / `causalit&eacute;` | 法语正字 |
+| epistemology-evolutionary | `w_i \frasl \overline{w}` / `Kim, Jagwon., 1988` / `”blind-variation…“` / `“ Social learning` | `\frac{p_i\cdot w_i}{\overline{w}}` / `Kim, Jaegwon, 1988` / 引号方向改正 / 去空格 | MathJax 无 \frasl；Jaegwon Kim 通行拼写；引号体例 |
