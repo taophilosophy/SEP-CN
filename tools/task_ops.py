@@ -308,24 +308,42 @@ def _independence_gate(task, actor, evidence):
             % writer)
 
 
-def reopen(slug, reason, actor):
-    """把 done 的 retranslate 任务打回 pending（返工入口，ADR-0033 置空处置）。
+def reopen(slug, reason, actor, upstream_sync=False):
+    """打回 pending（append-only 历史完整；ADR-0033/0050/0051）。
 
-    只用于已 done 词条被发现语体等硬问题时：reopen → clear → 重新 draft。
-    旧 steps 保留为历史（append-only），不删除；reason 必须写明返工原因。
+    R1/R2（默认）：仅 done 的 retranslate 任务——质量返工（ADR-0033）或上游实质
+    修订（ADR-0050：reopen --clear 置空全量重译）。
+    R3 绕过（ADR-0051，--upstream-sync 显式声明）：在途状态（drafted…r3_reviewed）
+    遇上游实质修订/换血重发时允许直接打回 pending——绕过「仅 done」限制；
+    打回后按 ADR-0050 同构置空重译。约束：reason 必须引用凭证（compare 变更
+    文件或分歧账）；blocked 任务仍须先 --unblock；pending/cleared/done 不适用。
+    旧 steps 保留为历史（append-only），不删除。
     """
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
     if task["kind"] != "retranslate":
         raise UsageError("reopen 仅适用于 retranslate 任务")
-    if task["state"] != "done":
-        raise PreconditionError("reopen 要求状态 done，当前 %s" % task["state"])
+    state = task["state"]
     if not str(reason or "").strip():
         raise UsageError("reopen 必须写明返工原因（--reason）")
+    if upstream_sync:
+        bypassable = set(ORDER["retranslate"]) - {"pending", "cleared", "done"}
+        if state not in bypassable:
+            raise PreconditionError(
+                "reopen --upstream-sync 适用于在途状态（%s）；当前 %s"
+                % ("、".join(sorted(bypassable)), state))
+    elif state != "done":
+        raise PreconditionError(
+            "reopen 要求状态 done，当前 %s（在途件遇上游同步用 --upstream-sync，ADR-0051）" % state)
+    if task.get("blockers"):
+        raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
     task["state"] = "pending"
-    task["steps"].append({"step": "reopen", "status": "ok", "actor": actor,
-                          "at": utcnow_iso(), "evidence": reason})
+    step = {"step": "reopen", "status": "ok", "actor": actor,
+            "at": utcnow_iso(), "evidence": reason}
+    if upstream_sync:
+        step["bypass"] = "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
+    task["steps"].append(step)
     save_task(task)
     return task
 
