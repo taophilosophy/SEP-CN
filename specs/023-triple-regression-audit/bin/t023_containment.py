@@ -34,10 +34,15 @@ def norm(s):
     return re.sub(r'[^0-9a-z\u4e00-\u9fff]+', '', s.lower())
 
 
+NOTE_REF_RE = re.compile(
+    r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
+
+
 def en_rows(slug):
     """en 正文顶层表 → [(表序, 行文本, 原始行前 90 字符)]。
 
     与转换器同法先剥完整注释（编辑性注释一贯丢弃，注释内表格不入对账）；
+    注引标记按转换器同形转 [^note-N]（否则 norm 后 5≠note5 假阳性）；
     Academic Tools 三行（PDF 预览/InPhO/PhilPapers）为设计性豁免，过滤。"""
     p = os.path.join(ROOT, 'en', slug, 'index.html')
     if not os.path.isfile(p):
@@ -49,8 +54,9 @@ def en_rows(slug):
         seg = re.sub(r'<table[^>]*>', '', seg, count=1, flags=re.I)
         seg = re.sub(r'</table>\s*$', '', seg, flags=re.I)
         for ri, tr in enumerate(re.findall(r'<tr\b.*?</tr>', seg, re.S)):
-            cells = [re.sub(r'<[^>]+>', ' ', td)
+            cells = [NOTE_REF_RE.sub(lambda m: '[^note-%s]' % re.sub('^note-', '', m.group('ref')), td)
                      for td in re.findall(r'<t[dh]\b.*?</t[dh]>', tr, re.S)]
+            cells = [re.sub(r'<[^>]+>', ' ', td) for td in cells]
             txt = re.sub(r'\s+', ' ', htmllib.unescape(' '.join(cells))).strip()
             if not txt:
                 continue
@@ -65,7 +71,10 @@ def yw_norm(slug):
     p = os.path.join(ROOT, 'yuanwen', letter, slug + '.md')
     if not os.path.isfile(p):
         return None
-    return norm(open(p, encoding='utf-8', errors='replace').read())
+    text = open(p, encoding='utf-8', errors='replace').read()
+    # 图片接线 ![alt](path)：alt 文本插在行中间会破坏包含性判定，整段剥除
+    text = re.sub(r'!\[[^\]]*\]\([^)]*\)', ' ', text)
+    return norm(text)
 
 
 def report(slug):
