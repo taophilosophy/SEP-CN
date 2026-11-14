@@ -2,10 +2,291 @@
  "key": "child, lydia maria",
  "term": "Child, Lydia Maria",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T18:15:09+00:00",
- "status": "error",
- "note": "variant=Child, Lydia Maria; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Child, Lydia Maria: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:11:54+00:00",
+ "status": "ok",
+ "note": "variant=Child, Lydia Maria; 审定公布名词库=123; 海峡两岸名词对照库=56; 其他来源数据库=4; 预公布名词数据库=251; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "儿童",
+   "en": "child",
+   "code": "06.076",
+   "standard": "运动医学名词",
+   "subject": "运动医学_医务监督_运动卫生"
+  },
+  {
+   "cn": "子结点",
+   "en": "child",
+   "code": "11.081",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_形式化方法"
+  },
+  {
+   "cn": "儿童",
+   "en": "child",
+   "code": "11.018",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_儿科学"
+  },
+  {
+   "cn": "玛丽亚·特蕾莎改革",
+   "en": "Maria Theresa's Reform",
+   "code": "03.0577",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利"
+  },
+  {
+   "cn": "儿童虐待",
+   "en": "child abuse",
+   "code": "18.078",
+   "standard": "行为医学名词",
+   "subject": "行为医学_儿童行为及其障碍_儿童行为障碍"
+  },
+  {
+   "cn": "儿童忽视",
+   "en": "child neglect",
+   "code": "18.08",
+   "standard": "行为医学名词",
+   "subject": "行为医学_儿童行为及其障碍_儿童行为障碍"
+  },
+  {
+   "cn": "儿童社交焦虑障碍",
+   "en": "child social",
+   "code": "03.425",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_儿童情绪与行为障碍"
+  },
+  {
+   "cn": "儿童虐待",
+   "en": "child abuse",
+   "code": "03.443",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_儿童情绪与行为障碍"
+  },
+  {
+   "cn": "儿童忽视",
+   "en": "child neglect",
+   "code": "03.444",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_儿童情绪与行为障碍"
+  },
+  {
+   "cn": "儿童精神医学",
+   "en": "child psychiatry",
+   "code": "01.008",
+   "standard": "精神医学名词",
+   "subject": "精神医学_总论"
+  },
+  {
+   "cn": "独生子女",
+   "en": "only-child",
+   "code": "01.033",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策"
+  },
+  {
+   "cn": "问题儿童",
+   "en": "problem child",
+   "code": "06.106",
+   "standard": "心理学名词",
+   "subject": "心理学_发展心理学"
+  },
+  {
+   "cn": "玛丽亚·斯图亚特",
+   "en": "Maria Stuarda",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "圣母颂",
+   "en": "Ave Maria",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "玛丽亚·高洛文",
+   "en": "Maria Golovin (1958)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "科尔钦斯卡",
+   "en": "Korchinska\",\"Maria(俄国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "斯塔黛",
+   "en": "Stader\",\"Maria(瑞士)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "切博塔里",
+   "en": "Cebotari\",\"Maria(俄国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "奥尔切夫斯卡",
+   "en": "Olczewska\",\"Maria(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "耶里察",
+   "en": "Jeritza\",\"Maria(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "卡拉斯",
+   "en": "Callas\",\"Maria(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "希曼诺夫斯卡",
+   "en": "Szymanowska\",\"Maria(波兰)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "费尔南德斯",
+   "en": "Fernandez\",\"Maria Antonia(西班牙)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "庞塞，曼努埃尔·马里亚",
+   "en": "Ponce\",\"Manuel Maria(墨西哥)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "儿童",
+   "en": "child",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "罗伯特·索洛",
+   "en": "Mario Baldassarri",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "念珠菌属",
+   "en": "Christine Marie Berkhout",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "进行性神经性腓骨肌萎缩症",
+   "en": "Charcot-Marie-Tooth disease",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "儿童虐待",
+   "en": "child abuse, child maltreatment",
+   "code": "3.3.2.2.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "独生子女",
+   "en": "only child",
+   "code": "3.16.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青少年"
+  },
+  {
+   "cn": "儿童福利",
+   "en": "child welfare",
+   "code": "4.4.9.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "code": "3.3.2.1.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "儿童中毒",
+   "en": "child poisoning",
+   "code": "3.3.2.1.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "儿童烫伤",
+   "en": "child scald",
+   "code": "3.3.2.1.1.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "儿童烧伤",
+   "en": "child burn",
+   "code": "3.3.2.1.1.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "儿童忽视",
+   "en": "child neglect",
+   "code": "3.3.2.2.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "special child",
+   "code": "4.14.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "童婚",
+   "en": "child marriage",
+   "code": "5.1.3.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容"
+  },
+  {
+   "cn": "学龄前儿童",
+   "en": "preschool child",
+   "code": "4.3.4.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "儿童照护",
+   "en": "child care",
+   "code": "6.2.5.8",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  }
+ ],
+ "error": null,
  "raw": null
 }

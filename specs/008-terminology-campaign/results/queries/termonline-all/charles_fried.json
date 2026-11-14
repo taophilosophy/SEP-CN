@@ -2,10 +2,347 @@
  "key": "charles fried",
  "term": "Charles Fried",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T18:04:38+00:00",
- "status": "error",
- "note": "variant=Charles Fried; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Charles Fried: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:11:54+00:00",
+ "status": "ok",
+ "note": "variant=Charles Fried; 审定公布名词库=809; 海峡两岸名词对照库=237; 其他来源数据库=27; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "查尔斯运动",
+   "en": "Charles movement",
+   "code": "01.0260",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机构运动学"
+  },
+  {
+   "cn": "查理定律",
+   "en": "Charles' law",
+   "code": "05.0069",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_热学、热力学"
+  },
+  {
+   "cn": "查理定律",
+   "en": "Charles law",
+   "code": "09.015",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_肺功能_相关的物理学概念"
+  },
+  {
+   "cn": "查理定律",
+   "en": "Charle law",
+   "code": "03.135",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤并发症_烧伤后肺损伤"
+  },
+  {
+   "cn": "查理二世复辟",
+   "en": "Restoration of Charles Ⅱ",
+   "code": "03.0332",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰"
+  },
+  {
+   "cn": "亨利·查尔斯·凯里",
+   "en": "Henry Charles Carey（1793—1879）",
+   "code": "16.018",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "炒米",
+   "en": "fried rice ",
+   "code": "8.0124",
+   "standard": "草学名词",
+   "subject": "草学_草原文化"
+  },
+  {
+   "cn": "减负荷手术",
+   "en": "debulking procedure;Charles procedure",
+   "code": "19.149",
+   "standard": "整形外科名词",
+   "subject": "整形外科_躯干及四肢整形_淋巴水肿修复"
+  },
+  {
+   "cn": "查理·马特采邑改革",
+   "en": "Charles Martel Benefice Reforms",
+   "code": "02.0548",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "弗朗斯瓦·马利·沙尔·傅立叶",
+   "en": "FrançoisMarie Charles Fourier（1772—1837）",
+   "code": "16.024",
+   "standard": "经济学名词",
+   "subject": "经济学_国外经济学家"
+  },
+  {
+   "cn": "土炒",
+   "en": "fried with earth",
+   "code": "06.110",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_炮制"
+  },
+  {
+   "cn": "光-弗莱斯重排",
+   "en": "photo-Fries rearrangement",
+   "code": "04.1036",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_光化学"
+  },
+  {
+   "cn": "克什兰",
+   "en": "Koechlin\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪厄帕尔",
+   "en": "Dieupart\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "拉穆若，夏勒",
+   "en": "Lamoureux\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "沃里宁",
+   "en": "Wuorinen\",\"Charles(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "道奇",
+   "en": "Dodge\",\"Charles(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪图瓦",
+   "en": "Dutoit\",\"Charles(瑞士)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "艾夫斯",
+   "en": "Ives\",\"Charles(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "古诺",
+   "en": "Gounod\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "罗森",
+   "en": "Rosen\",\"Charles(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "丹克拉",
+   "en": "Dancla\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "格罗夫斯",
+   "en": "Groves\",\"Charles(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "明什",
+   "en": "Munch\",\"Charles(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "最佳线性无偏预测",
+   "en": "Charles Roy Henderson",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "胡佛征",
+   "en": "Charles Franklin Hoover",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "柯布-道格拉斯生产函数",
+   "en": "Charles Cobb (economist)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "查理定律",
+   "en": "Charles's law",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "西方式握拍",
+   "en": "frying-pan grip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "人民之友",
+   "en": "The People's Friend",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "租船",
+   "en": "charter",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "冲撞",
+   "en": "charge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "冲撞",
+   "en": "charge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "撞人",
+   "en": "charge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "冲撞",
+   "en": "charge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "合理冲撞",
+   "en": "fair charge\",\"legal charge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "非油炸水果",
+   "en": "non-fried fruit",
+   "code": "5.4.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "油炸方便面",
+   "en": "fried instant noodle",
+   "code": "5.18.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_方便食品"
+  },
+  {
+   "cn": "含油型膨化食品",
+   "en": "fried puffed foods",
+   "code": "5.18.12",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_方便食品"
+  },
+  {
+   "cn": "非含油型膨化食品",
+   "en": "fried-free puffed foods",
+   "code": "5.18.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_方便食品"
+  },
+  {
+   "cn": "虎皮蛋",
+   "en": "deep-fried boiled egg",
+   "code": "5.9.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蛋类"
+  },
+  {
+   "cn": "非油炸方便面",
+   "en": "fried-free instant noodle",
+   "code": "5.18.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_方便食品"
+  },
+  {
+   "cn": "煎炸油",
+   "en": "frying oil",
+   "code": "5.10.3.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  },
+  {
+   "cn": "朋友",
+   "en": "friend",
+   "code": "2.5.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_聚类群体"
+  },
+  {
+   "cn": "脱水水果",
+   "en": "dried fruit",
+   "code": "5.4.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "干制水产品",
+   "en": "dried aquatic product",
+   "code": "5.7.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水产品"
+  },
+  {
+   "cn": "风葬",
+   "en": "air-dried burial",
+   "code": "4.0269",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "干蛋制品",
+   "en": "dried egg products",
+   "code": "5.9.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蛋类"
+  }
+ ],
+ "error": null,
  "raw": null
 }
