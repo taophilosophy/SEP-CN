@@ -24,7 +24,7 @@
 
 ### 2.2 存在概念
 
-奥雷奥利修改了司各脱关于存在概念的单义性的看法。他接受司各脱的观点：‘存在’在神与受造物之间、在实体与偶性之间都是单义的。但他严厉批评司各脱的下述主张：存在经由各种不被包含在存在概念之下的“性质性差异”收窄为最普遍的诸属；按司各脱的看法，存在本身像一个经由外在差异而收窄的属。奥雷奥利拒斥这一观点，理由是这“外在差异”是幻觉；按奥雷奥利，没有什么能逃出存在概念。他进而主张：存在概念是一个 **未规定的** 概念，一下子、平等地把握一切存在者。存在概念本身没有任何被规定的内容；相反，它隐含地把理智可能形成的一切其他概念包含于自身。于是，对奥雷奥利而言，存在不是经由任何添加的差异收窄于其下层，而只是通过阐明已隐含、未规定地包含在存在概念中的东西而收窄（Brown 1964；Brown 1965；Goris 2002；Pickavé 2004；Aertsen 2012，第 433–56 页；Wöller，第 72–79 页）[^aertsen-2012][^brown-1964][^brown-1965][^goris-2002][^pickavé-2004]。与许多其他论题一样，奥雷奥利存在概念单义性之接受史尚待书写。十四世纪司各脱主义者彼得·托马（Petrus Thomae）与十五世纪重要托马斯主义者卡普雷奥鲁斯，写下了这一故事的两个重要章节。前者在《论存在者诸问》中用若干段落攻击奥雷奥利观点、赞成更司各脱式的解释（特别见 Smith 2019，第 clxxix–clxxxix 页；Petrus Thomae，《论存在者诸问》q.9，Smith 编 2018，第 205–255 页）[^petrus-2018]；后者把其对这一议题十一页处理的一半逐字抄自奥雷奥利《箴言书疏》，只为拒绝奥雷奥利观点、赞成更托马斯主义的观点（见 Brown 1964，第 6 页，尤其注 10；关于卡普雷奥鲁斯对奥雷奥利的接受见 Grassi 2018）[^brown-1964][^grassi-2018]。
+奥雷奥利修改了司各脱关于存在概念的单义性的看法。他接受司各脱的观点：‘存在’在神与受造物之间、在实体与偶性之间都是单义的。但他严厉批评司各脱的下述主张：存在经由各种不被包含在存在概念之下的“性质性差异”收窄为最普遍的诸属；按司各脱的看法，存在本身像一个经由外在差异而收窄的属。奥雷奥利拒斥这一观点，理由是这“外在差异”是幻觉；按奥雷奥利，没有什么能逃出存在概念。他进而主张：存在概念是一个 **未规定的** 概念，一下子、平等地把握一切存在者。存在概念本身没有任何被规定的内容；相反，它隐含地把理智可能形成的一切其他概念包含于自身。于是，对奥雷奥利而言，存在不是经由任何添加的差异收窄于其下层，而只是通过阐明已隐含、未规定地包含在存在概念中的东西而收窄（Brown 1964；Brown 1965；Goris 2002；Pickavé 2004；Aertsen 2012，第 433–56 页；Wöller 2015，第 72–79 页）[^aertsen-2012][^brown-1964][^brown-1965][^goris-2002][^pickavé-2004]。与许多其他论题一样，奥雷奥利存在概念单义性之接受史尚待书写。十四世纪司各脱主义者彼得·托马（Petrus Thomae）与十五世纪重要托马斯主义者卡普雷奥鲁斯，写下了这一故事的两个重要章节。前者在《论存在者诸问》中用若干段落攻击奥雷奥利观点、赞成更司各脱式的解释（特别见 Smith 2019，第 clxxix–clxxxix 页；Petrus Thomae，《论存在者诸问》q.9，Smith 编 2018，第 205–255 页）[^petrus-2018]；后者把其对这一议题十一页处理的一半逐字抄自奥雷奥利《箴言书疏》，只为拒绝奥雷奥利观点、赞成更托马斯主义的观点（见 Brown 1964，第 6 页，尤其注 10；关于卡普雷奥鲁斯对奥雷奥利的接受见 Grassi 2018）[^brown-1964][^grassi-2018]。
 
 ### 2.3 未来偶然后件与神圣预知
 
@@ -50,7 +50,7 @@
 
 考察了这一切观点并发现其不足之后，奥雷奥利提出替代方案。要同时解释本质述谓、对心灵外对象的智识接触与必然的科学知识，唯一办法是主张：概念 **就是** 心灵外的殊相，只是具有另一种存在类型（*modus essendi*）。这种存在类型不同于该殊相在心灵外所具的实在存在。这一特殊存在类型，奥雷奥利称为 *esse apparens*，即显在存在；他还用了许多同义词，包括“意向的”或“客观的”存在。（其他同义词见 Tachau 1988，第 90 页；Lička 2016；Taieb 2024）[^lička-2016][^tachau-1988][^taieb-2024]。这种存在类型的特征是：它是某个心灵外殊相对象（例如苏格拉底），与被动把握——即关于苏格拉底之概念的形成——不可区分地混合在一起（*indistinguibiliter immiscetur*）。关于苏格拉底的概念 **就是** 被把握的苏格拉底。
 
-因此，对奥雷奥利而言，苏格拉底与把握苏格拉底的概念是同一个东西，只是存在类型不同。他说二者“是同一个东西”，是字面意义上的。他说：“事物与其意向，就任何绝对者而言并无数目上的差异”；严格说来它们是同一个东西。事物与意向的差异在于一种 respect 或关系。而这并不是通常的 respect——“像其他关系那样固定于或加于该事物之上，而是完全内在的、不可区分地与之结合的”。奥雷奥利告诉我们，这种内在关系就是事物作为知觉对象向知觉者显现（*apparere*）——*esse apparens* 一词即由此而来。
+因此，对奥雷奥利而言，苏格拉底与把握苏格拉底的概念是同一个东西，只是存在类型不同。他说二者“是同一个东西”，是字面意义上的。他说：“事物与其意向，就任何绝对者而言并无数目上的差异”；严格说来它们是同一个东西。事物与意向的差异在于一种“方面”（respect）或关系。而这并不是通常意义上的“方面”——“像其他关系那样固定于或加于该事物之上，而是完全内在的、不可区分地与之结合的”。奥雷奥利告诉我们，这种内在关系就是事物作为知觉对象向知觉者显现（*apparere*）——*esse apparens* 一词即由此而来。
 
 奥雷奥利描述被动把握与显现之系于被知觉对象的内在性——对象一经被认知便获得这种内在性——时，诉诸内涵（connotation）这一语义特性。奥雷奥利认为内涵概念的特殊之处在于：它们有首要的（*in recto*）与次要的（*in obliquo*）指意，以致人不可能把握前者而不由此把握后者，无论多么隐含。如他所说，内涵概念的首要指意与次要指意总是被共同理解（*cointellecta*）。按他，这意味着内涵概念的首要与次要指意不应通过外加的范畴关系相关联。事实上奥雷奥利主张，指涉被斜向共同指意者——即内涵概念的次要指意——是内涵概念首要所指意者的内在属性。他的标准例子是“肉”（*caro*）这一概念：“肉”有首要指意，即某一块肉；但它也有次要指意，因为它共同指意这是谁的肉，即承载那块肉的活的主体。而奥雷奥利主张，没有人能理解“肉”而不共同理解那块肉所属者。现在，奥雷奥利的直观是：意向应被理解为内涵概念。他的想法是，意向首要地指意被认知的对象，同时必然共同指意一项进一步的特征，即它们被认知主体所把握、因而向之显现这一事实。这一 respect 并非外加于意向首要所指意者之上，意即它不是范畴关系，而是意向仅凭其为意向这一事实便具有的属性，即一种必然偶性。简言之，它是任何意向首要指意所固有的特征。于是，例如我们对苏格拉底形成的“人”这一意向首要地指意苏格拉底（以及每个现实与可能的人）；同时它共同指意苏格拉底正被认知，因而在我们把握他时向我们显现（Fornasieri 2021a、2021b；关于内涵对奥雷奥利智识认知的重要性见 Rode 2017；Taieb 2019；Fornasieri 2023b）[^fornasieri-2021a][^fornasieri-2021b][^fornasieri-2023b][^rode-2017][^taieb-2019]。
 
@@ -118,9 +118,9 @@
 
 [^bolyard-2000]: Bolyard, C., 2000, ‘Knowing *naturaliter*: Auriol’s propositional foundations’, *Vivarium*, 38(1): 162–76.
 
-[^bolyard-2021]: –––, 2021, ‘Medieval Skepticism’, in *The Stanford Encyclopedia Philosophy*, Spring 2021 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/skepticism-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
+[^bolyard-2021]: –––, 2021, ‘Medieval Skepticism’, in *The Stanford Encyclopedia of Philosophy*, Spring 2021 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/skepticism-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
 
-[^brower-2018]: Brower, J. E., 2018, ‘Medieval Theories of Relations’, in *The Stanford Encyclopedia Philosophy*, Winter 2018 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2018/entries/relations-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
+[^brower-2018]: Brower, J. E., 2018, ‘Medieval Theories of Relations’, in *The Stanford Encyclopedia of Philosophy*, Winter 2018 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2018/entries/relations-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
 
 [^brown-1964]: Brown, S. F., 1964, ‘The Unity of the Concept of Being in Peter Aureoli’s Scriptum and Commentarium’, Ph.D. dissertation, Université Catholique de Louvain.
 
@@ -150,7 +150,7 @@
 
 [^friedman-1997]: Friedman, R. L., 1997, ‘Conceiving and Modifying Reality: Some Modist Roots of Peter Auriol’s Theory of Concept Formation’, in C. Marmo (ed.), *Vestigia, Imagines, Verba*, Turnhout: Brepols, 305–21.
 
-[^friedman-1999]: –––, 1999, ‘Peter Auriol on Intentions and Essential Predication’, in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*, Copenhagen: C.A. Rietzel (commissioned by Royal Danish Academy of Sciences and Letters), 415–430.
+[^friedman-1999]: –––, 1999, ‘Peter Auriol on Intentions and Essential Predication’, in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*, Copenhagen: C.A. Reitzel (commissioned by Royal Danish Academy of Sciences and Letters), 415–430.
 
 [^friedman-2000]: –––, 2000, ‘Peter Auriol on Intellectual Cognition of Singulars’, *Vivarium*, 38(1): 177–193.
 
@@ -162,7 +162,7 @@
 
 [^grassi-2018]: –––, 2018, ‘Giovanni Capreolo interprete di Pietro Aureoli’, in L. Bianchi, O. Grassi, C. Panti, *Edizioni, traduzioni, e tradizioni (secoli XII–XVI): studi per Pietro B. Rossi* (Volume 1), Rome: Flumen Sapientiae, pp. 199–214.
 
-[^goris-2002]: Goris, W., 2002, ‘Implicit Knowledge – Being as First Known in Peter of Oriel’, *Recherches de théologie et philosophie médiévales*, 69(1): 33–65.
+[^goris-2002]: Goris, W., 2002, ‘Implicit Knowledge – Being as First Known in Peter of Auriol’, *Recherches de théologie et philosophie médiévales*, 69(1): 33–65.
 
 [^halverson-1998]: Halverson, J. L., 1998, *Peter Aureol on Predestination. A Challenge to Late Medieval Thought*, Leiden: Brill.
 
@@ -174,7 +174,7 @@
 
 [^lička-2016]: Lička, L., 2016, ‘Perception and Objective Being: Peter Auriol on Perceptual Acts and their Objects’, *American Catholic Philosophical Quarterly*, 90(2): 49–76.
 
-[^martin-2026]: Martin, A., 2026, ‘Peter Auriol on Intellectual Memory and Cognition: From the Inner Sense to the Intellect and Back’, *Topoi*, first online 23 January 2026. doi.org:10.1007/s11245-025-10308-y
+[^martin-2026]: Martin, A., 2026, ‘Peter Auriol on Intellectual Memory and Cognition: From the Inner Sense to the Intellect and Back’, *Topoi*, first online 23 January 2026. doi:10.1007/s11245-025-10308-y
 
 [^moaté-2024a]: Moaté, L., 2024a, ‘Concept et langage chez Pierre d’Auriol: le problème de la relation entre nature et suppôt dans le *Commentaire des Sentences*’, *Freiburger Zeitschrift für Philosophie und Theologie*, 24(2): 437–57.
 
@@ -196,7 +196,7 @@
 
 [^pasnau-2002]: –––, 2002, *The Cambridge Translations of Medieval Philosophical Texts*, (Volume 3: *Mind and Knowledge*), Cambridge: Cambridge University Press.
 
-[^pasnau-2008]: –––, 2008, ‘Id Quo Cognoscimus’, in S. Knuuttila and P. Kärkkäin (eds.), *Theories of Perception in Medieval and Early Modern Philosophy*, Dordrecht: Springer Science.
+[^pasnau-2008]: –––, 2008, ‘Id Quo Cognoscimus’, in S. Knuuttila and P. Kärkkäinen (eds.), *Theories of Perception in Medieval and Early Modern Philosophy*, Dordrecht: Springer Science.
 
 [^pasnau-2011]: –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Oxford University Press.
 

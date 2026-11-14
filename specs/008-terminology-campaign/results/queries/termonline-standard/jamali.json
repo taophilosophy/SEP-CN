@@ -1,0 +1,26 @@
+{
+ "key": "jamali",
+ "term": "Jamāli",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:47:01+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "种子加LI程",
+   "en": "seedprocessingengineering",
+   "code": "GB/T 51461—2024",
+   "standard": "农业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "牵引li计算",
+   "en": "tractivecomputation",
+   "code": "GB/T 50262—2013",
+   "standard": "铁路工程基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 2}, \"sourceStats\": {\"其它\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"db78d89abc2d48acaeb97435bf71811d\", \"databaseId\": null, \"standardId\": \"a04c8d0ca9f74bc3afe97abd3f2434fc\", \"standardCode\": \"GB/T 51461—2024\", \"standardName\": \"农业工程术语标准\", \"standardEnName\": \"Terminology for agricultural engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.6.1\", \"cnName\": \"种子加LI程\", \"enName\": \"seedprocessingengineering\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 165256, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"种子加LI程\", \"cnNameSearch\": \"种子加LI程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"seedprocessingengineering\", \"wordSearch\": \"seedprocessingengineering\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对收获后的种子进行干燥、预加工、清选、分级、色选、选后处理、定量包装、贮存等加工处理的工程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a76cf2628d04d9aa7f6b32c864d5103\", \"databaseId\": null, \"standardId\": \"2d48f702e69c4fcbb0452d9059aa417c\", \"standardCode\": \"GB/T 50262—2013\", \"standardName\": \"铁路工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.1.47\", \"cnName\": \"牵引li计算\", \"enName\": \"tractivecomputation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 48300, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"牵引li计算\", \"cnNameSearch\": \"牵引li计算\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tractivecomputation\", \"wordSearch\": \"tractivecomputation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以动力学为基础，根据机车性能、线路条件等解算列车运行速度、时分、能耗等指标的过程\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678418048}"
+}
