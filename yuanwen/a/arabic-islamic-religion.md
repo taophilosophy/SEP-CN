@@ -416,7 +416,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^ibn-nd]: Ibn al-ʿArabī, Muḥyī al-Dīn (d. 1240)
 
-[^futūḥāt-1911]: *al-Futūḥāt al-Makkiyya* (a), *[***no editor given [JM]***?]*, Cairo: Dār al-kutub al-ʿArabiyya al-kubra, 1911.
+[^futūḥāt-1911]: *al-Futūḥāt al-Makkiyya* (a), *[\*\*\*no editor given [JM]\*\*\*?]*, Cairo: Dār al-kutub al-ʿArabiyya al-kubra, 1911.
 
 [^futūḥāt-2017]: *al-Futūḥāt al-Makkiyya* (b), I–XIII, ʿAbd al-ʿAzīz Sulṭān al-Manṣūb (ed.), Cairo: al-Majlis al-aʿlā lil-Thaqāfa, 2017.
 

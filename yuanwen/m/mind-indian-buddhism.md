@@ -548,7 +548,7 @@ Abhidharma | Asaṅga | Buddha | consciousness | consciousness: and intentionali
 
 [^lamotte-1936]: Lamotte, E., 1936. *Karmasiddhiprakaraṇa: le traité de l’acte de Vasubandhu*, Bruxelles: Mélanges Chinoise et Bouddhique.
 
-[^vasubandhu's-1988]: Vasubandhu's seminal work on theories of causation. [English translation: Pruden, L. 1988. *Karmasiddhiprakaraṇa: Treatise on Action by Vasubandhu*, Berkeley: Asian Humanities Press.]
+[^vasubandhu’s-1988]: Vasubandhu's seminal work on theories of causation. [English translation: Pruden, L. 1988. *Karmasiddhiprakaraṇa: Treatise on Action by Vasubandhu*, Berkeley: Asian Humanities Press.]
 
 [^lamotte-1938]: Lamotte, E. 1938., *La Somme du Grand Véhicule d'Asaṅga (Mahāyānasaṃgraha)* tome 1–2, Louvain-la-Neuve: Université de Louvain, reprint 1973.
 
@@ -588,7 +588,7 @@ Abhidharma | Asaṅga | Buddha | consciousness | consciousness: and intentionali
 
 [^sprung-1979]: Sprung, Mervyn., 1979. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*. London: Routledge & Kegan Paul.
 
-[^candrakīrti's-nd]: A nearly complete translation of Candrakīrti's seminal commentary on Nāgārjuna's MMK.
+[^candrakīrti’s-nd]: A nearly complete translation of Candrakīrti's seminal commentary on Nāgārjuna's MMK.
 
 [^thera-1999]: Thera, N. & Bodhi., 1999. *Numerical Discourses of the Buddha: An Anthology of Suttas from the Anguttara Nikāya*, Walnut Creek, Cal.: AltaMira Press.
 
@@ -598,7 +598,7 @@ Abhidharma | Asaṅga | Buddha | consciousness | consciousness: and intentionali
 
 [^vetter-1966]: Vetter, T., 1966. *Dharmakīrti's Pramāṇaviniścaya, I. Kapitel: Pratyakṣam*, Wien: Verlag Der Österreichischen Akademie der Wisenschaften.
 
-[^dharmakīrti's-nd]: A detailed study of Dharmakīrti's views on perception, including a German translation of the first chapter of the *Pramāṇaviniścaya*.
+[^dharmakīrti’s-nd]: A detailed study of Dharmakīrti's views on perception, including a German translation of the first chapter of the *Pramāṇaviniścaya*.
 
 [^walshe-1987]: Walshe, M., 1987. *The Long Discourse of the Buddha: A Translation of the Dīgha Nikāya*, Somerville, MA: Wisdom Publications
 

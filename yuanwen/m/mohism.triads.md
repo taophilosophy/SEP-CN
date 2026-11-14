@@ -24,8 +24,8 @@ The successive revision theory proposes that we think of the three linguisticall
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Early (a) | Group 1 |   |   | 14*u* | 17*u* | 20*u* | (23) |   | (29) |   |   |
 | Early (b) | Group 1 | 8*u* | 11*u* | 15*m* | 18*m* | 21*m* | (24) | 26*u* | (30) |   | 35*u* |
-| Middle | Group 2 | 9*m* | 12*m* | 16*l* | 19*l* | (22) | 25*l* | 27*m* | 31*l* | 32*u* | 37*l** |
-| Late | Group 3 | 10*l* | 13*l* |   |   |   |   | 28*l* |   | (33,34) | 36*m** |
+| Middle | Group 2 | 9*m* | 12*m* | 16*l* | 19*l* | (22) | 25*l* | 27*m* | 31*l* | 32*u* | 37*l*\* |
+| Late | Group 3 | 10*l* | 13*l* |   |   |   |   | 28*l* |   | (33,34) | 36*m*\* |
 
 Once the first linguistic group is subdivided as shown, it turns out that the stratification based on the three linguistic groups is consistent with the labeling of the essays as “upper,” “middle,” and “lower” within each triad. That is, within each triad, the “upper” essay falls into a stratum that predates the “middle” essay, which in turn predates the “lower.” (The one exception — the placement of Book 37 in the second group and 36 in the third, as indicated by asterisks in the table — appears to be due to textual dislocation in these books.) Thus the successive revision theory explains the significance of the upper-middle-lower classification in a way consistent with the linguistic classification, but without assuming that the traditional arrangement of the texts is faulty and without positing unknown missing texts, as Graham’s theory does.
 

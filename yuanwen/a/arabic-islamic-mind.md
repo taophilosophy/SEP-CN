@@ -423,7 +423,7 @@ al-Farabi | al-Kindi | al-razi | Alexander of Aphrodisias | Arabic and Islamic P
 
 [^black-2000]: –––, 2000, “Imagination and Estimation: Arabic Paradigms and Western Transformations.” *Topoi* 19, 59–75.
 
-[^d'ancona-nd]: D'Ancona Costa, Cristina, “Aristotelian and Neoplatonic elements in Kindî's Doctrine of Knowledge.” *American Catholic Philosophical Quarterly* LXXIII, 9–35.
+[^d’ancona-nd]: D'Ancona Costa, Cristina, “Aristotelian and Neoplatonic elements in Kindî's Doctrine of Knowledge.” *American Catholic Philosophical Quarterly* LXXIII, 9–35.
 
 [^davidson-1992]: Davidson, Herbert A. 1992, *Alfarabi, Avicenna, & Averroes, on Intellect*. New York, Oxford University Press.
 

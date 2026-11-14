@@ -430,7 +430,7 @@ analytic/synthetic distinction | *a priori* justification and knowledge | cognit
 
 [^wenzel-2005]: Wenzel, C., 2005, “Spielen nach Kant die Kategorien schon bei der Wahrnehmung eine Rolle?,” *Kant-Studien*, 96: 407–426.
 
-[^whitehead-1962]: Whitehead, A.N., and Russell, B., 1962, *Principia Mathematica to *56*, Cambridge: Cambridge University Press.
+[^whitehead-1962]: Whitehead, A.N., and Russell, B., 1962, *Principia Mathematica to \*56*, Cambridge: Cambridge University Press.
 
 [^williams-2012]: Williams, J., 2012, “How Conceptually-Guided are Kantian Intuitions?,” *History of Philosophy Quarterly*, 29: 57–78.
 

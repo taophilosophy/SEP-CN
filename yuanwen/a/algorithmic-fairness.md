@@ -339,7 +339,7 @@ artificial intelligence | artificial intelligence: ethics of | artificial intell
 
 [^hu-2025]: –––, 2025, “Does Calibration Mean What They Say It Means; or, the Reference Class Problem Rises Again”, *Philosophical Studies*, 182(5–6): 1305–1331. doi:10.1007/s11098-025-02322-y
 
-[^hu-2020]: Hu, Lily and Issa Kohler-Hausmann, 2020, “What’s Sex Got to Do with Machine Learning?”, in *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ‘20)*, Barcelona, Spain, 513. doi:10.1145/3351095.3375674
+[^hu-2020]: Hu, Lily and Issa Kohler-Hausmann, 2020, “What’s Sex Got to Do with Machine Learning?”, in *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT\* ‘20)*, Barcelona, Spain, 513. doi:10.1145/3351095.3375674
 
 [^johnson-2021]: Johnson, Gabbrielle M., 2021, “Algorithmic Bias: On the Implicit Biases of Social Technology”, *Synthese*, 198(10): 9941–9961. doi:10.1007/s11229-020-02696-y
 

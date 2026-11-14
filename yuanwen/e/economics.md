@@ -1112,7 +1112,7 @@ action | Bayes’ Theorem | economics [normative] and economic justice | epistem
 
 [^mccloskey-1994]: –––, 1994. *Truth and Persuasion in Economics*, Cambridge: Cambridge University Press.
 
-[^mccloskey-2000]: –––, 2000. *How to be Human*: *Though an Economist University*, Ann Arbor, MI: University of Michigan Press.
+[^mccloskey-2000]: –––, 2000. *How to be Human\*: \*Though an Economist University*, Ann Arbor, MI: University of Michigan Press.
 
 [^mccloskey-2003]: McCloskey, Deirdre N. and Stephen T. Ziliak, 2003. *Measurement and Meaning in Economics: The Essential Deirdre McCloskey*, Northampton, MA: Edward Elgar.
 

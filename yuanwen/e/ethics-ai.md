@@ -93,7 +93,7 @@ As mentioned above, it can be useful to regard all AI systems as decision system
 
 Automated AI decision support systems and “predictive analytics” operate on data and produce a decision as “output”. This output may range from the relatively trivial to the highly significant: “this restaurant matches your preferences”, “bail is denied”, or “target identified and engaged”. Data analysis is often used in “predictive analytics” in business, healthcare and other fields, to foresee future developments – since prediction is easier, it will also become a cheaper commodity. One use of prediction is in “predictive policing” (Meijer and Wessels 2019)[^meijer-2019], which involves a threat to public liberties (Alikhademi et al. 2022)[^alikhademi-2022] because it can take away power from the people who are predicted. It appears, however, that many of the worries about policing depend on futuristic scenarios where law enforcement foresees and punishes planned actions, rather than waiting until a crime has been committed (like in the 2002 film “Minority Report”). In principle, there could be merits in the approach for all stakeholders (Asaro 2019)[^asaro-2019].
 
-With the advent of LLMs, it became more conceivable to have AI systems themselves advising on ethical matters. Perhaps AI systems could even allow us to become better humans, by our own standards (O’Neill, Klincewicz, and Kemmer 2022)[^o’neil-2022]. It appears that even early versions were doing well enough such that “no significant difference in the perceived value of the advice between human generated ethical advice and AI-generated ethical advice” was seen (Terwiesch, Meincke, and Nave 2023)[^terwiesch-2023].
+With the advent of LLMs, it became more conceivable to have AI systems themselves advising on ethical matters. Perhaps AI systems could even allow us to become better humans, by our own standards (O’Neill, Klincewicz, and Kemmer 2022). It appears that even early versions were doing well enough such that “no significant difference in the perceived value of the advice between human generated ethical advice and AI-generated ethical advice” was seen (Terwiesch, Meincke, and Nave 2023)[^terwiesch-2023].
 
 #### 2.4.2 Bias
 
@@ -429,7 +429,7 @@ The SEP editors thank Jason Brady for spotting, and taking the time to notify us
 
 [^bennett-2018]: Bennett, Colin J. and Charles D. Raab, 2018, “Revisiting the Governance of Privacy: Contemporary Policy Instruments in Global Perspective”, *Regulation & Governance*, no. 27, September 2018. doi:10.1111/rego.12222
 
-[^benthall-2019]: Benthall, Sebastian and Bruce D Haynes, 2019, “Racial Categories in Machine Learning”, *Proceedings of ACM FAT* ’19)*, January 29–31, 2019, Atlanta, GA, 1–10.
+[^benthall-2019]: Benthall, Sebastian and Bruce D Haynes, 2019, “Racial Categories in Machine Learning”, *Proceedings of ACM FAT\* ’19)*, January 29–31, 2019, Atlanta, GA, 1–10.
 
 [^bentley-2018]: Bentley, Peter J, Miles Brundage, Olle Häggström, and Thomas Metzinger, 2018, “Should We Fear Artificial Intelligence? In-Depth Analysis”, *European Parliamentary Research Service, Scientific Foresight Unit (STOA)*, March 2018(PE 614.547), Brussels: 1–40.
 

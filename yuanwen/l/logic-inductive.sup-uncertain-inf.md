@@ -8,11 +8,9 @@
 
 The following figure indicates a relationship among six of the most prominent approaches to uncertain inference. The arrows point from more general to less general representation schemes; the double arrow connects a pair of equally general schemes. For example, the *Dempster-Shafer* representation contains the *probability functions* as a special case.
 
-*Representations of Uncertainty*
-
 ![Figure 1](../assets/logic-inductive/fig1.svg)
 
-Representations of Uncertainty
+*Representations of Uncertainty*
 
 These representations are often described as measures on events, or states, or propositions, or sets of possibilities. But deductive logics are usually described in terms of statements or sentences of a language. So let’s follow suit throughout this discussion.
 

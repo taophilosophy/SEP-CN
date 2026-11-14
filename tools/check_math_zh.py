@@ -226,7 +226,13 @@ def main(argv):
     files = 0
     fails = 0
     for path in iter_targets(argv):
-        rel = os.path.relpath(path, ROOT).replace("\\", "/")
+        # 2026-11-14：临时稿在别的盘符时 os.path.relpath 抛 ValueError
+        # （path is on mount 'C:', start on mount 'D:'），task_ops 门禁测试
+        # 随之整批报错；跨盘退回绝对路径显示。
+        try:
+            rel = os.path.relpath(path, ROOT).replace("\\", "/")
+        except ValueError:
+            rel = os.path.abspath(path).replace("\\", "/")
         issues = check_file(path, rel)
         if not issues:
             continue

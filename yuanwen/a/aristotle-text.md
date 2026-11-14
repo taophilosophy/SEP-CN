@@ -59,7 +59,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **11**
 
-** De mundo (Mund.)* [*On the Universe*]
+*\* De mundo (Mund.)* [*On the Universe*]
 
 **12**
 
@@ -71,7 +71,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **20**
 
-** De spiritu (Spir.)* *[On Breath*]
+*\* De spiritu (Spir.)* *[On Breath*]
 
 **21**
 
@@ -95,43 +95,43 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **26**
 
-** De coloribus (Col.)* [*On Colours*]
+*\* De coloribus (Col.)* [*On Colours*]
 
 **27**
 
-** De audibilibus* [*On Things Heard*]
+*\* De audibilibus* [*On Things Heard*]
 
 **28**
 
-** Physiognomica (Phgn.)* [*Physiognomonics*]
+*\* Physiognomica (Phgn.)* [*Physiognomonics*]
 
 **29**
 
-** De plantis (Plant.)* [*On Plants*]
+*\* De plantis (Plant.)* [*On Plants*]
 
 **30**
 
-** De mirabilibus auscultationibus (Mir.)* [*On Marvellous Things Heard*]
+*\* De mirabilibus auscultationibus (Mir.)* [*On Marvellous Things Heard*]
 
 **31**
 
-** Mechanica (Mech.)* [*Mechanics*]
+*\* Mechanica (Mech.)* [*Mechanics*]
 
 **32**
 
-** Problemata (Probl.)* [*Problems*]
+*\* Problemata (Probl.)* [*Problems*]
 
 **33**
 
-** De lineis insecabilibus (Lin.)* [*On Indivisible Lines*]
+*\* De lineis insecabilibus (Lin.)* [*On Indivisible Lines*]
 
 **34**
 
-** Ventorum situs (Vent.)* [*The Situations and Names of Winds*]
+*\* Ventorum situs (Vent.)* [*The Situations and Names of Winds*]
 
 **35**
 
-** De Melisso, Xenophane, Gorgia (MXG)* [*On Melissus, Xenophanes, and Gorgias*]
+*\* De Melisso, Xenophane, Gorgia (MXG)* [*On Melissus, Xenophanes, and Gorgias*]
 
 **36**
 
@@ -143,7 +143,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **38**
 
-** Magna moralia* (*MM*) [*Great Ethics*]
+*\* Magna moralia* (*MM*) [*Great Ethics*]
 
 **39**
 
@@ -151,7 +151,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **40**
 
-** On Virtues and Vices* (*Virt.*)
+*\* On Virtues and Vices* (*Virt.*)
 
 **41**
 
@@ -159,7 +159,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **42**
 
-** Economics (Oec.)*
+*\* Economics (Oec.)*
 
 **43**
 
@@ -167,7 +167,7 @@ The modern Aristotelian corpus is defined by Bekker’s seminal 1831 edition, on
 
 **44**
 
-** Rhetoric to Alexander (Rhet. Al.)*
+*\* Rhetoric to Alexander (Rhet. Al.)*
 
 **45**
 

@@ -728,6 +728,14 @@ def build_cite_keys(entry_texts):
         first = surnames[0]
         joined = ' '.join(surnames)
         acronym = ''.join(s[0] for s in surnames) if len(surnames) >= 2 else ''
+        # 2026-11-14（023 审计）：撇号体例两面不一——书目写 O'Brien、正文写
+        # O’Brien，旧式按书目原样建键与建匹配式，两者互不命中（redistribution
+        # 因此出现直/弯双键，其一无定义成孤儿引注）。键名统一取弯撇号；
+        # 匹配式两种形态都认（下方 APOS_CLASS）。
+        APOS_CLASS = "['’ʼ]"
+        first = re.sub(APOS_CLASS, '’', first)
+        joined = re.sub(APOS_CLASS, '’', joined)
+        acronym = re.sub(APOS_CLASS, '’', acronym)
         # 无年份条目用 -nd 键；不生成文内标记 pats，但定义行必须保留，
         # 否则整条文献（含其中公式）从产物消失
         base = ('%s-%s%s' % (first, year or 'nd', suffix)).lower()
@@ -745,8 +753,10 @@ def build_cite_keys(entry_texts):
                     # 2026-11-14 023 审计（action §7.3 实证）：姓名须右词边界——
                     # Clark 是 Clarke 的前缀子串，无边界时 (Clarke 2010; 2014)
                     # 幻挂 Clark, Philip 2010 的键。
+                    # 撇号：键名已归一为弯撇号，匹配式放宽为 ['’ʼ] 三类。
+                    name_pat = re.escape(name).replace('’', APOS_CLASS)
                     pats.append(re.compile(
-                        r'\b' + re.escape(name) + r'\b' +
+                        r'\b' + name_pat + r'\b' +
                         r'[^;()\[\]]{0,60}?\b' +
                         re.escape(year) + re.escape(suffix) + r'\b'))
         keys.append({'key': key, 'pats': pats, 'text': text})

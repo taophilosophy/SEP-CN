@@ -425,7 +425,7 @@ A second temporal objection highlights the contrast between *discrete* and *cont
 
 Computationalists respond that this objection assumes what is to be shown: that cognitive activity does not fall into explanatory significant discrete stages (Weiskopf 2004)[^weiskopf-2004]. Assuming that physical time is continuous, it follows that mental activity unfolds in continuous time. It does *not* follow that cognitive models must have continuous temporal structure. A personal computer operates in continuous time, and its physical state evolves continuously. A complete physical theory will reflect all those physical changes. But our *computational* model does not reflect every physical change to the computer. Our computational model has discrete temporal structure. Why assume that a good cognitive-level model of the mind must reflect every physical change to the brain? Even if there is a continuum of evolving *physical* states, why assume a continuum of evolving *cognitive* states? The mere fact of continuous temporal evolution does not militate against computational models with discrete temporal structure.
 
-For discussion of how to reconcile CTM with a dynamical systems perspective, see (Beer and Williams 2015; Phattanasri, Chiel, and Beer 2007; Weinberger and Allen 2022)[^beer-2015][^phattanasri-2007][^weinberg-2022].
+For discussion of how to reconcile CTM with a dynamical systems perspective, see (Beer and Williams 2015; Phattanasri, Chiel, and Beer 2007; Weinberger and Allen 2022)[^beer-2015][^phattanasri-2007].
 
 ### 7.5 Embodied cognition
 

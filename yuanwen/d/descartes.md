@@ -92,7 +92,7 @@ Despite his precautions, he was drawn into theological controversy with the Jesu
 
 In the mid-1640s, Descartes continued work on his physiological system, which he had pursued throughout the 1630s. He allowed the unpublished manuscript of the *Treatise on Man* to be copied (4:566–7) and he began a new work (5:112), *Description of the Human Body*, in which he sought to explain the embryonic development of animal bodies. During this period he corresponded with Princess Elisabeth of Bohemia (daughter of Frederick V, a Protestant, and briefly King of Bohemia), now living in the Netherlands, at first on metaphysical topics from the *Meditations* and then on the passions and emotions. Eventually, he wrote the *Passions of the Soul* (1649), a comprehensive and original theory of the passions and emotions that presented the most extensive account of his behavioral physiology published during his lifetime.
 
-In 1649, Descartes accepted the invitation of Queen Christina of Sweden to join her court. At her request, he composed the Statutes of the Swedish Royal Academy. On the day he gave them to her, he became ill. He never recovered, and died on 11 February 1650. (On Descartes’ intellectual biography, see Clarke 2006, Gaukroger 1995, and Rodis-Lewis 1998.)[^clark-2006][^gaukroger-1995][^rodis-lewis-1998]
+In 1649, Descartes accepted the invitation of Queen Christina of Sweden to join her court. At her request, he composed the Statutes of the Swedish Royal Academy. On the day he gave them to her, he became ill. He never recovered, and died on 11 February 1650. (On Descartes’ intellectual biography, see Clarke 2006, Gaukroger 1995, and Rodis-Lewis 1998.)[^gaukroger-1995][^rodis-lewis-1998]
 
 ## 2. Philosophical Development
 

@@ -246,7 +246,7 @@ The pair (**M**,**A**) is an *n*-manifold.
 
 [^nagel-1939]: Nagel, E., 1939. “The formation of modern conceptions of formal logic in the development of geometry,” *Osiris*, 7: 142–224.
 
-[^o'neill-1983]: O'Neill, B., 1983. *Semi-Riemannian Geometry with Applications to Relativity*, New York: Academic Press.
+[^o’neill-1983]: O'Neill, B., 1983. *Semi-Riemannian Geometry with Applications to Relativity*, New York: Academic Press.
 
 [^nomizu-1956]: Nomizu, K., 1956. *Lie Groups and Differential Geometry*, Tokyo: The Mathematical Society of Japan.
 

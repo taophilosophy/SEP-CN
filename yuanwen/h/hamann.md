@@ -177,7 +177,7 @@ One must also remember that Hamann confessed that he could not conceive of a Cre
 >
 > Hamann, Johann Georg, *Lettere* (Volume I: 1751–1759), translation and commentary by Angelo Pupi, 1989, Milano: Vita e Pensiero.
 >
-> Hamann, Johann Georg, *Lettere* (Volume II: 1760–1769)[^vol-1760], translation and commentary by Angelo Pupi, 1997, Milano: Vita e Pensiero.
+> Hamann, Johann Georg, *Lettere* (Volume II: 1760–1769), translation and commentary by Angelo Pupi, 1997, Milano: Vita e Pensiero.
 >
 > Hamann, Johann Georg, *Lettere* (Volume III: 1770–1777), translation and commentary by Angelo Pupi, 1999, Milano: Vita e Pensiero.
 >

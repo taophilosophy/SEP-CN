@@ -183,7 +183,7 @@ A third issue for Du Bois’s conception of double-consciousness concerns its pu
 
 The Du Boisian conception has been criticized as well for oversimplifying the complex multidimensionality of contemporary selves, harboring a nostalgia for a unitary, integral self that never existed, an unachievable ideal. Thus Darlene Clark Hine asserts:
 
-> had Du Bois specifically included the experiences and lives of black women in his lament, … instead of writing, “One ever feels his twoness”, he would have mused about how one ever feels her “fiveness”: Negro, American, woman, poor, black woman. (Hines 1993: 338)[^hine-1993]
+> had Du Bois specifically included the experiences and lives of black women in his lament, … instead of writing, “One ever feels his twoness”, he would have mused about how one ever feels her “fiveness”: Negro, American, woman, poor, black woman. (Hines 1993: 338)
 
 Critiques of Du Bois’s conception along these lines have become widespread, but, it might be argued, they are in one sense beside the point. That the 1903 text is masculinist seems undeniable. But it’s also true that Du Bois’s “double-consciousness” was not proposed as a comprehensive account of the reality of human being, was not addressed to the variety of sources of human social identity *per se*. His conception was an attempt to capture the lived experience of black folk *as black folk* in the United States under conditions of Jim Crow. So it would be wholly consistent with his conception if, added to the doubling of consciousness due to racial oppression, other forms of psychic doubling or fragmentation, responses to other forms of inequality, might exist.
 
