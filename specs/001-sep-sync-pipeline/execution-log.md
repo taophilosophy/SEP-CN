@@ -231,3 +231,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **落地**：ADR-0050＋rules/04 新小节＋specs/001 契约 reopen 行（--clear）＋ADR README 行；task_ops `reopen --clear` 原子两步（append-only 历史完整）。
 * **执行**：5 件 done-reopened（academic-freedom/closure-epistemic/genetics/it-moral-values/saadya）全部 clear → state=cleared、正文仅留 H1；compare 变更文件降级为审读辅助；s2.5_checked 4 件不适用（状态机边界，继续 A2 挂流水）；换血件 H1 作者行留待 SUMMARY↔H1 同步。
 * **验收**：5 任务 state=cleared；check_all 全绿见收工记录。
+
+## 2026-11-15（ADR-0051：reopen 分类学与在途上游同步绕过）
+
+* **裁定**：用户「将 reopen 进行分类讨论，该特殊情形列为可绕过」——修订 ADR-0050 边界一（其曾把 s2.5_checked 在途件排除在 reopen 之外，形成 done 置空重译／在途挂流水双轨）。
+* **分类学（ADR-0051 判据表）**：R1 质量返工（done，ADR-0033）；R2 上游修订 done（ADR-0050 reopen --clear）；**R3 上游修订在途（新，`--upstream-sync` 可绕过）**；R4 不打回（存根/链接级）。与 revert-state 分工：保正文走 revert、正文失效走 R3。
+* **实现**：task_ops reopen 增 `--upstream-sync`（四闸：显式声明＋reason 凭证＋blocked 拒＋pending/cleared/done 不适用；step 记 bypass 标记；无 flag 维持仅 done）；单测 16→18 锁行为。
+* **应用**：4 件 s2.5_checked（behaviorism/emotion-Christian-tradition/kant-leibniz/logic-provability）`reopen --upstream-sync --clear` → cleared 置空重译；派工单 A2 路径作废（ADR-0050 边界一已加修订注记）。done 5 件他会已按 0050 抢先 clear → cleared。
+* **验收**：test_task_ops 18/18；check_quotes 归零（我两份 ADR 直角引号改弯）；check_all 11 项全绿。
