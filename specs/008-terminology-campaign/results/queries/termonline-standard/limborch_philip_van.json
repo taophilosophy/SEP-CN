@@ -1,0 +1,103 @@
+{
+ "key": "limborch, philip van",
+ "term": "Limborch, Philip van",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-14T17:54:54+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=13",
+ "hits": [
+  {
+   "cn": "材料车",
+   "en": "stores van",
+   "code": "GB/T 50562—2019",
+   "standard": "煤炭矿井工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "封闭式载货汽车",
+   "en": "close van",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "封闭式货车",
+   "en": "close van",
+   "code": "GB/T 43405—2023",
+   "standard": "封闭式货车 货物隔离装置及系固点技术要求和试验方法",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "厢体",
+   "en": "van body",
+   "code": "GB/T 31028—2014",
+   "standard": "行动不便旅客登机车",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "木片运输车",
+   "en": "chip van",
+   "code": "GB/T 6926—2008",
+   "standard": "林业机械  分类词汇",
+   "subject": "农业"
+  },
+  {
+   "cn": "转播车",
+   "en": "outside broadcast van",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "厢式载货汽车",
+   "en": "van goods vehicle",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "厢式半挂车",
+   "en": "van semi-trailer",
+   "code": "GB/T 42184—2022",
+   "standard": "货物多式联运术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "行李车",
+   "en": "luggage van",
+   "code": "GB/T 4549.1—2004",
+   "standard": "铁道车辆词汇 第 1 部分:基本词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "宿营车",
+   "en": "dormitory van",
+   "code": "GB/T 4549.1—2004",
+   "standard": "铁道车辆词汇 第 1 部分:基本词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "静电加速器",
+   "en": "electrostatic accelerator;Van de Graff accelerator",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "邮政车",
+   "en": "mail sorting van",
+   "code": "GB/T 4549.1—2004",
+   "standard": "铁道车辆词汇 第 1 部分:基本词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "地球辐射带",
+   "en": "earth’s radiation belt",
+   "code": "GB/T 32452—2015",
+   "standard": "航天器空间环境术语",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 3, \"2022\": 1, \"2015\": 1, \"2014\": 1, \"2011\": 1, \"2010\": 1, \"2008\": 1, \"2004\": 3, \"暂无年份\": 1}, \"sourceStats\": {\"道路车辆工程\": 1, \"航空器和航天器工程\": 2, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 4, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 3, \"农业\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 13}, \"totalRecords\": 13, \"tmWordList\": [{\"id\": \"2a59f743d8c843e9908726f367312571\", \"databaseId\": null, \"standardId\": \"42d9740119184914a86604c47989def7\", \"standardCode\": \"GB/T 50562—2019\", \"standardName\": \"煤炭矿井工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of coal mine construction engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.12\", \"cnName\": \"材料车\", \"enName\": \"stores van\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 71133, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"材料车\", \"cnNameSearch\": \"材料车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stores van\", \"wordSearch\": \"stores van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"矿井运输坑木、轨道等长材料的车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb450a8b7de04d0a8f8369367d126c2f\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.2.17\", \"cnName\": \"封闭式载货汽车\", \"enName\": \"close van\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29411, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"封闭式载货汽车\", \"cnNameSearch\": \"封闭式载货汽车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"close van\", \"wordSearch\": \"close van\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"封闭式货车\", \"cnNameSearch\": \"封闭式货车\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为封闭厢体且与驾驶室联成一体，车身结构为一厢式或两厢式的载货汽车。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"709150072ab145f8adc566e999937538\", \"databaseId\": null, \"standardId\": \"dc1f170b4b584484b9a143ab1f6c584c\", \"standardCode\": \"GB/T 43405—2023\", \"standardName\": \"封闭式货车 货物隔离装置及系固点技术要求和试验方法\", \"standardEnName\": \"Close van—Partitioning system and lashing point technical requirements and test methods\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.1\", \"cnName\": \"封闭式货车\", \"enName\": \"close van\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"43.020\", \"ccs\": \"T 09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215995, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"封闭式货车\", \"cnNameSearch\": \"封闭式货车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"close van\", \"wordSearch\": \"close van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为封闭厢体且与驾驶室联成一体，车身结构为一厢式或两厢式的载货汽车。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7b297a2f05b4492c90b094f4bf9ae9d4\", \"databaseId\": null, \"standardId\": \"4c4cea6ded1b4bb9aee541fc6c85f472\", \"standardCode\": \"GB/T 31028—2014\", \"standardName\": \"行动不便旅客登机车\", \"standardEnName\": \"Disabled/incapacitated passenger boarding vehicles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.3\", \"cnName\": \"厢体\", \"enName\": \"van body\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2015-06-01\", \"ics\": \"49.100\", \"ccs\": \"V57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79601, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢体\", \"cnNameSearch\": \"厢体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van body\", \"wordSearch\": \"van body\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于承载残疾旅客、轮椅、担架等的厢式结构。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11b43b98deb54c0e8902244d6baa6cf2\", \"databaseId\": null, \"standardId\": \"20858c69b572435183d1f27c6ac3ea51\", \"standardCode\": \"GB/T 6926—2008\", \"standardName\": \"林业机械  分类词汇\", \"standardEnName\": \"Forestry machinery—Classification and vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3.4.3.1\", \"cnName\": \"木片运输车\", \"enName\": \"chip van\", \"publishTime\": \"2008-05-27\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-01\", \"ics\": \"65.060.70\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30742, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"木片运输车\", \"cnNameSearch\": \"木片运输车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chip van\", \"wordSearch\": \"chip van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"运输散状木片的专用车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b0268b9afcf6463abcd0420a97269bb5\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1389\", \"cnName\": \"转播车\", \"enName\": \"outside broadcast van\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148867, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"转播车\", \"cnNameSearch\": \"转播车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"outside broadcast van\", \"wordSearch\": \"outside broadcast van\"}, {\"languageType\": 1, \"word\": \"OB Van\", \"wordSearch\": \"OB Van\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"装备有用于广播电视节目拍摄、制作、记录和传输设备的特种车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d0c1f9884be9470dacd01217629aba35\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.2.14\", \"cnName\": \"厢式载货汽车\", \"enName\": \"van goods vehicle\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29345, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢式载货汽车\", \"cnNameSearch\": \"厢式载货汽车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van goods vehicle\", \"wordSearch\": \"van goods vehicle\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"厢式货车\", \"cnNameSearch\": \"厢式货车\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"载货部位的结构为厢体且与驾驶室各自独立、厢体顶部(翼开式车辆除外)为封闭、不可开启的载货汽车。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"54d629345c1d436aab72125e716db53c\", \"databaseId\": null, \"standardId\": \"1b8e19f9958c4ec3834025af7c674bbe\", \"standardCode\": \"GB/T 42184—2022\", \"standardName\": \"货物多式联运术语\", \"standardEnName\": \"Terminology of freight intermodal transport\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.4\", \"cnName\": \"厢式半挂车\", \"enName\": \"van semi-trailer\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2022-12-30\", \"ics\": \"03.220.01\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 26794, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"厢式半挂车\", \"cnNameSearch\": \"厢式半挂车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"van semi-trailer\", \"wordSearch\": \"van semi-trailer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种车轴置于车辆重心后面，与牵引车共同承载车厢和货物重量，装有联结装置并由牵引车牵引的无动力封闭式道路车辆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f991dede53e34a9eb38718c9afc47506\", \"databaseId\": null, \"standardId\": \"7a8a1d6f057349bf89e5827810bd8914\", \"standardCode\": \"GB/T 4549.1—2004\", \"standardName\": \"铁道车辆词汇 第 1 部分:基本词汇\", \"standardEnName\": \"Railway vehicle vocabulary—Part 1: Basic vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.28\", \"cnName\": \"行李车\", \"enName\": \"luggage van\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130353, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"行李车\", \"cnNameSearch\": \"行李车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"luggage van\", \"wordSearch\": \"luggage van\"}, {\"languageType\": 1, \"word\": \"baggage car\", \"wordSearch\": \"baggage car\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"设有行李间及行李员办公室，供运输旅客行李及物品的车辆。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ab614ccde804626867a990b6f1927d5\", \"databaseId\": null, \"standardId\": \"7a8a1d6f057349bf89e5827810bd8914\", \"standardCode\": \"GB/T 4549.1—2004\", \"standardName\": \"铁道车辆词汇 第 1 部分:基本词汇\", \"standardEnName\": \"Railway vehicle vocabulary—Part 1: Basic vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.26\", \"cnName\": \"宿营车\", \"enName\": \"dormitory van\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130243, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"宿营车\", \"cnNameSearch\": \"宿营车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dormitory van\", \"wordSearch\": \"dormitory van\"}, {\"languageType\": 1, \"word\": \"train crew car\", \"wordSearch\": \"train crew car\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"供乘务或作业人员休息使用的车辆。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84fe66efc5044a87ad08744cb23f2404\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"8.4\", \"cnName\": \"静电加速器\", \"enName\": \"electrostatic accelerator;Van de Graff accelerator\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146250, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"静电加速器\", \"cnNameSearch\": \"静电加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electrostatic accelerator;Van de Graff accelerator\", \"wordSearch\": \"electrostatic accelerator;Van de Graff accelerator\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电极上获得的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6e7aaf44902f47d6a840e07210228f59\", \"databaseId\": null, \"standardId\": \"7a8a1d6f057349bf89e5827810bd8914\", \"standardCode\": \"GB/T 4549.1—2004\", \"standardName\": \"铁道车辆词汇 第 1 部分:基本词汇\", \"standardEnName\": \"Railway vehicle vocabulary—Part 1: Basic vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.29\", \"cnName\": \"邮政车\", \"enName\": \"mail sorting van\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130287, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"邮政车\", \"cnNameSearch\": \"邮政车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mail sorting van\", \"wordSearch\": \"mail sorting van\"}, {\"languageType\": 1, \"word\": \"postal car\", \"wordSearch\": \"postal car\"}, {\"languageType\": 1, \"word\": \"mail car\", \"wordSearch\": \"mail car\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"设有邮政间及邮政员办公室，供运输邮件使用的车辆。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3d731e2be6a749e485a054ab6f12e60d\", \"databaseId\": null, \"standardId\": \"cf3475a9cc6a461ba0c8600706edde5f\", \"standardCode\": \"GB/T 32452—2015\", \"standardName\": \"航天器空间环境术语\", \"standardEnName\": \"Terminology of space environment for spacecraft\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.7.1.1\", \"cnName\": \"地球辐射带\", \"enName\": \"earth’s radiation belt\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207610, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地球辐射带\", \"cnNameSearch\": \"地球辐射带\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"earth’s radiation belt\", \"wordSearch\": \"earth’s radiation belt\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"地磁捕获辐射带\", \"cnNameSearch\": \"地磁捕获辐射带\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"earth trapped radiation belt\", \"wordSearch\": \"earth trapped radiation belt\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"范阿伦辐射带\", \"cnNameSearch\": \"范阿伦辐射带\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Van Allen belt\", \"wordSearch\": \"Van Allen belt\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地球周围被地磁场稳定捕获的带电粒子区域,主要成分是电子和质子,根据距离地面高度的不同, 分为内辐射带和外辐射带。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794678890383}"
+}
