@@ -136,6 +136,16 @@
 * **十八轮**（offset ≈2455，M/N 交界；审计 一致 1172 / 不一致 843 / 查无 6993 / 未查证 1874）：新增 2 条保留——
   Newton, Isaac（「牛顿望远镜」含人名的器物名，天文学）、Nicholas III（「RNA聚合酶III」编号模糊垃圾，
   同 George III 先例）。零主译变更。
+* **十九～二十轮**（offset ≈2720→3100，N–S 段；2026-11-14 提速后双道并跑）：新增 8 条保留——
+  十九轮：Octavia、Paz, Octavio（垃圾池）、Paul III、Pio di Carpi, Alberto III（编号模糊垃圾）、
+  Philip II（「腓力二世改革」下位事件名）；二十轮：Poncelet, Jean-Victor（垃圾池）、
+  Proudhon（审定全称形「皮埃尔·约瑟夫·蒲鲁东」）、Rāma（「拉马人」族称同形异义，民族学）。
+  零主译变更。
+* **提速改造留痕（2026-11-14）**：窗口失效定性为 TTL≈120s（非性能限流，「18 请求/5 分钟」作废）；
+  激活器 listFront 重放（0.3s）实现为 `tl_crawler.activate()`，主动每 90s 续窗、降级立即激活
+  （废 60s 误罚）；稳态 `--interval 10 --batch-gap 2 --warm-every 90` 实测 5.3 词/分（原 2.1），
+  零降级零 error。**双道并跑**：标准库 standardSearch（匿名）尾段并行已证实互不干扰，
+  凭证落 termonline-standard/（查无按「标准库未收录，不作否定证据」口径）。交接卡限流节已重写。
 * **十九轮**（offset ≈2720，N/O 交界；审计 一致 1172 / 不一致 848 / 查无 7236 / 未查证 1626）：新增 5 条保留——
   Octavia、Paz, Octavio（「集体消费理论」垃圾池）、Paul III、Pio di Carpi, Alberto III（「RNA聚合酶III」
   编号模糊垃圾，同 George III 先例）、Philip II（「腓力二世改革」下位事件名，世界历史名词）。零主译变更。
