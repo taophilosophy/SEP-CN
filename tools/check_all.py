@@ -4,7 +4,8 @@
 
 覆盖（与 checks.yml CI 一致，另含需本地数据的项）：
   check_summary / check_mulu_s / check_doc_size / check_junk / check_images /
-  check_terms / check_quotes / check_academic（词条+任务版本钉）/ 单元测试；
+  check_terms / check_quotes / check_academic（词条+任务版本钉）/
+  check_math_zh（译文侧公式体例，021 九类，D26 接线）/ 单元测试；
   可选 --all：加 baseline_audit（依赖本地 en/ 原始物，gitignore 不入 CI）与
   compare 全量对比（依赖网络，默认不跑）。
 
@@ -30,6 +31,7 @@ GATES = [
     ("术语一致性", "check_terms.py", False),
     ("直角引号总检", "check_quotes.py", False),
     ("哲学学术规范", "check_academic.py", False),
+    ("公式体例总检", "check_math_zh.py --strict", False),
 ]
 OPTIONAL = [
     ("基线完整性审计（本地 en/）", "baseline_audit.py", False),
@@ -52,7 +54,7 @@ def main(argv=None):
     ap.add_argument("--quiet", action="store_true", help="只输出失败项与汇总")
     args = ap.parse_args(argv)
 
-    # 八项门禁相互独立，并行执行（能并行的并行）
+    # 九项门禁相互独立，并行执行（能并行的并行）
     from concurrent.futures import ThreadPoolExecutor
     results = []
     with ThreadPoolExecutor(max_workers=4) as pool:

@@ -209,6 +209,7 @@
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
+[^for-nd]: For a full bibliography, see:
 [^rustom-2023]: Rustom, Mohammed, 2023, *Inrushes of the Heart: The Sufi Philosophy of ʿAyn al-Quḍāt*, Albany, NY: State University of New York Press.
 
 [^avicenna-2005]: Avicenna, *Kitāb al-Shifāʾ*, translated as *The Metaphysics of the Healing*, Michael Marmura (trans.), Provo: Brigham Young University Press, 2005.

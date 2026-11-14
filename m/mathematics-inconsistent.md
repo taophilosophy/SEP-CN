@@ -63,7 +63,7 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 
 应当再次强调：这些结构绝不挑战或拒斥现有数学，而是拓展我们对“数学上可能”的构想。这反过来又把数学多元主义的问题磨得更尖；例如见 Davies（2005）、Hellman 与 Bell（2006）或 Priest（2013）。诸家对数学多元主义的版本各异，但大意是：不相容的数学理论可以同样为真。其理据在于这样的观察：存在不同的数学“宇宙”，其中成立着不同的、乃至不相容的数学定理或定律。著名例子：经典数学与直觉主义数学互不相容；带选择公理与不带选择公理的 ZF 式集合宇宙互不相容。倘若它们都是数学上良态理论的合法例子，那么说带选择公理的 ZF 是真数学、不带选择公理的 ZF 是假数学，就荒谬了。
 
-数学哲学的首要问题无疑是 **数学是什么**。拓扑对偶、Routley 星这类对偶运算强化了这一点：不完备／不一致的对偶，作为数学的例子同样合理。从这个角度看，关于该接受直觉主义数学、经典数学还是不一致数学的争论，似乎没有意义；它们全是数学论题的一部分。Shapiro（2014；对照见其 2002）[^shapiro-2014][^shapiro-2002]有力地提出了这一点。Shapiro 的独特立场还有别的成分：数学作为结构的科学；数学多元主义蕴涵逻辑多元主义（逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]。但这些此处不表。
+数学哲学的首要问题无疑是 **数学是什么**。拓扑对偶、Routley 星这类对偶运算强化了这一点：不完备／不一致的对偶，作为数学的例子同样合理。从这个角度看，关于该接受直觉主义数学、经典数学还是不一致数学的争论，似乎没有意义；它们全是数学论题的一部分。Shapiro（2014；对照见其 2002）[^shapiro-nd][^shapiro-2002]有力地提出了这一点。Shapiro 的独特立场还有别的成分：数学作为结构的科学；数学多元主义蕴涵逻辑多元主义（逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]。但这些此处不表。
 
 无论如何，笔者以为：若把数学首先看作允许不一致的数学理论、其次才看作那些理论内部的对象，那么某种版本的数学多元主义显然为真。当然，把不相容的理论视为命题结构，它们的共存没有任何问题。理论的优先性也合乎一个自然的观察：数学的认识论是演绎证明。只有当人把“数学对象优先、作为理论的真理制造者”当作出发点时，才须操心这些对象如何设法共存。
 
@@ -122,7 +122,7 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 [^robinson-1974]: Robinson, A., 1974, *Non-standard Analysis*, Amsterdam: North-Holland, revised edition.
 [^routley-1972]: Routley, R. and V. Routley, 1972, “The Semantics of First Degree Entailment”, *Noûs*, 6: 335–359.
 [^shapiro-2002]: Shapiro, S., 2002, “Inconsistency and Incompleteness”, *Mind*, 111: 817–832.
-[^shapiro-2014]: –––, 2014, “Structures and Logics: a Case for (a) Relativism”, *Erkenntnis*, 79: 309–329.
+[^shapiro-nd]: –––, 2014, “Structures and Logics: a Case for (a) Relativism”, *Erkenntnis*, 79: 309–329.
 [^tedder-2015]: Tedder, A., 2015,“Axioms for Finite Collapse Models of Arithmetic”, *The Review of Symbolic Logic*, 8(3): 529-539.
 [^van-2014]: Van Bendegem, J-P., 2014, “Inconsistency in Mathematics and the Mathematics of Inconsistency”, *Synthese*, 191(13), 3063-3078.
 [^weber-2010]: Weber, Z., 2010, “Transfinite Numbers in Paraconsistent Set Theory”, *The Review of Symbolic Logic*, 3(1): 71-92.

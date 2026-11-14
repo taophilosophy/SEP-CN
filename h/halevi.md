@@ -26,7 +26,7 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 
 《库扎里》的开篇之语表明它属于论战性文学这一体裁。它包含针对哲学家的论战、针对基督徒和穆斯林的宗教间论战，以及针对作为犹太人中的少数群体的卡拉派的犹太内部论战。
 
-从文学角度看，《库扎里》的突出特征是其对话和框架故事成分（Schweid 1970, 38–44; Silman 1995, 331–338; Hughes 2007, 481–489; Ravitsky 2019, 554–558）[^ravitsky-2019][^schweid-1970][^silman-1995]。书中的对话与它的框架故事相关。对话占据了该书五篇论文的绝大部分，而框架故事的片段则被整合进第一篇论文的开头、第二篇论文的开头，以及第五篇亦即最后一篇论文的结尾。该书的情节发生在一位无名国王的宫廷中，此王被确认为可萨王国的统治者。情节的时间在哈列维撰写《库扎里》之前四百年，即犹太历 4500 年，相当于公历 739–740 年的一部分（1:1, 1:47）。
+从文学角度看，《库扎里》的突出特征是其对话和框架故事成分（Schweid 1970, 38–44; Silman 1995, 331–338; Hughes 2007, 481–489; Ravitsky 2019, 554–558）[^hughes-2007][^ravitsky-2019][^schweid-1970][^silman-1995]。书中的对话与它的框架故事相关。对话占据了该书五篇论文的绝大部分，而框架故事的片段则被整合进第一篇论文的开头、第二篇论文的开头，以及第五篇亦即最后一篇论文的结尾。该书的情节发生在一位无名国王的宫廷中，此王被确认为可萨王国的统治者。情节的时间在哈列维撰写《库扎里》之前四百年，即犹太历 4500 年，相当于公历 739–740 年的一部分（1:1, 1:47）。
 
 情节的中心是可萨王一再重复的梦。梦中由一位天使形象传达的信息动摇了可萨王对他特定宗教的信心。随后，可萨王召来几位贤哲到他的宫廷，与他讨论他们的学说。第一阶段，受邀者是一位哲学家和两位分别代表基督教和伊斯兰教的贤哲。第二阶段，在与这三位贤哲的讨论未能令他满意之后，可萨王又邀请另一位代表，即被称为 *Ḥabr*（希伯来语 *Ḥaver*）的人，这是对犹太贤哲的阿拉伯语称谓。可萨王与哲学家之间、以及国王与基督教和伊斯兰教贤哲之间的对话都很简短，只占该书第一篇论文中相对很小的一部分（1:1–9）。与之相反，可萨王与犹太贤哲之间的对话则漫长而详尽。它延伸到该书剩余部分的绝大部分，并散布于其五篇论文之中。
 
@@ -34,13 +34,13 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 
 另一个相关的区别使《库扎里》的对话有别于惯常的对话模式：在这类作品中，对话形式的目的在于，对话中不认同作者宗教派别的参与者会承认代表作者派别的发言者所提论证的优越性和卓越性。这一承认可能以对话者皈依其发言者的派别并加入其群体而告终。相比之下，《库扎里》的叙事则在可萨王皈依犹太教之后很久才结束，以犹太贤哲决定离开国王宫廷、前往以色列地告终。可萨王反对其对话者的计划，并强烈反驳后者为证明该计划正当而提出的主张。在此背景下，两位论辩者作为朋友分手，诚然如此，但并非作为达成一致者分手（5:22–28）。
 
-表面上看，哈列维所构筑的框架故事，正如他在开篇所承认的，基于历史文献中的已知事实。根据这些文献，在早于《库扎里》写作数个世纪的一个时期，可萨王国的人民（全部或其中一些人）在一次宗教间相遇之后皈依了犹太教，在那次相遇中他们的国王与基督教、伊斯兰教和犹太教的宗教贤哲辩论（Golden 2007; Wasserstein 2007）。
+表面上看，哈列维所构筑的框架故事，正如他在开篇所承认的，基于历史文献中的已知事实。根据这些文献，在早于《库扎里》写作数个世纪的一个时期，可萨王国的人民（全部或其中一些人）在一次宗教间相遇之后皈依了犹太教，在那次相遇中他们的国王与基督教、伊斯兰教和犹太教的宗教贤哲辩论（Golden 2007; Wasserstein 2007）[^golden-2007][^wasserstein-2007]。
 
 然而哈列维容许自己偏离这些文献中出现的叙事，其方式表明他与这些文献的关系是一种自由而无约束的关系（Levinger 1971, 476–480）[^levinger-1971]。哈列维这种偏离的突出表现，是他不把可萨王及其人民的犹太化、而是把前往以色列地之行设定为他的书的框架故事所追求的最终目标。另一处显著的偏离，是把哲学家这一人物纳入可萨王所主持的对话中。在可萨人及其国王皈依故事此前的犹太和穆斯林文献中，并无哲学家这一人物的提及，而在哈列维的书中，他作为可萨王召来与其在宫廷中辩论的第一位发言者出现。
 
 《库扎里》作者对可萨王及其臣民犹太化叙事（这一叙事为当时的读者所熟知）的显著偏离，可以依据哈列维本人生活中促使他撰写此书的那些方面来理解。如上所述，《库扎里》写于接近哈列维启程前往以色列地之行的时期。作者当时为这次旅程所作的准备，为他圈子中犹太-安达卢西亚精英圈子内的人们所知。正是在这一背景下，《库扎里》框架故事的细节获得了其作为掩护故事的完整意义，我将在下文解释。
 
-该书情节在可萨王宫廷中的展开，暗示了该时期犹太-安达卢西亚精英文化得以发展和繁荣的宫廷环境。这一精英的成员在统治者、权贵以及科学与文化的富有赞助人（其中一些也是犹太人）的宫廷中供职，这些宫廷位于穆斯林和基督教的诸城市与王国，这使他们直接接触伊比利亚半岛宫廷文化中人文、宗教和智识多元的世界（Brann 2000a）[^brann-2000a]。从哈列维的角度看，作为从内部了解犹太-安达卢西亚精英的人，犹太精英对外国统治者宫廷文化世界的参与和密切接触，被视为对散居流亡中的犹太社群之身份与稳定的严重威胁。因此，作为掩护故事，《库扎里》框架故事的主旨在于指出以色列子民的流亡对其生存构成的危险。这一危险在流亡的这一具体表现中尤为严峻，即犹太-安达卢西亚精英与其时代和地点的宫廷文化之间的宗教间、多方向的相遇与同化（Berger 1992）。
+该书情节在可萨王宫廷中的展开，暗示了该时期犹太-安达卢西亚精英文化得以发展和繁荣的宫廷环境。这一精英的成员在统治者、权贵以及科学与文化的富有赞助人（其中一些也是犹太人）的宫廷中供职，这些宫廷位于穆斯林和基督教的诸城市与王国，这使他们直接接触伊比利亚半岛宫廷文化中人文、宗教和智识多元的世界（Brann 2000a）[^brann-2000a]。从哈列维的角度看，作为从内部了解犹太-安达卢西亚精英的人，犹太精英对外国统治者宫廷文化世界的参与和密切接触，被视为对散居流亡中的犹太社群之身份与稳定的严重威胁。因此，作为掩护故事，《库扎里》框架故事的主旨在于指出以色列子民的流亡对其生存构成的危险。这一危险在流亡的这一具体表现中尤为严峻，即犹太-安达卢西亚精英与其时代和地点的宫廷文化之间的宗教间、多方向的相遇与同化（Berger 1992）[^berger-1992]。
 
 贯穿全书，可萨王发表的见解往往类似于犹太-安达卢西亚精英中有教养的成员的典型见解。国王最初召到宫廷的几个人——哲学家、基督教贤哲和穆斯林贤哲——是犹太-安达卢西亚精英的成员在富有而强大的统治者和赞助人的宫廷中活动时所遇到之人的原型。《库扎里》的论战语气被揭示为主要针对这一精英的见解和价值观。犹太精英在安达卢西亚权势掮客的宫廷中与相应的基督教和穆斯林精英每日摩肩接踵所带来的危险，体现在犹太贤哲对这些宗教代表所提主张的反驳中。此外，在框架故事开头纳入哲学家这一人物的非同寻常之举、可萨王及其犹太对话者对哲学家及其见解的详尽讨论，以及贯穿全书对这些见解的论战，都证明了犹太-安达卢西亚精英对哲学所表现出的浓厚兴趣和特殊吸引力（Cohen 1967, 295–302）[^cohen-1967]。
 
@@ -56,7 +56,7 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 
 因此，与哈列维试图营造的印象（即他所论辩和抨击的哲学是希腊哲学）相反，对《库扎里》所呈现的哲学学说的考察揭示：在大多数情况下，这些学说的表述基于他自身时期和文化的哲学家的遗产。尽管这些哲学家与希腊和希腊化哲学遗产的联系很强，但其中那些杰出者，如法拉比（al-Farabi，卒于 950 或 951 年）和伊本·西那（Ibn Sina，卒于 1037 年），是原创性的哲学家，他们为所依赖的古典遗产增添了自己的贡献。
 
-在无名哲学家就可萨王的核心立场向可萨王所作的陈述中（1:1），只提到希腊哲学家的名字。然而，对这一节以及书中其他各节所呈现的哲学家学说的考察揭示，它们基于该时期伟大阿拉伯哲学家——法拉比、伊本·西那和伊本·巴哲（Ibn Bajja，卒于 1139 年）——的学说，也基于伟大神学家安萨里（al-Ghazali，卒于 1111 年）的表述，后者凸显了法拉比和伊本·西那的学说与启示宗教核心原则之间的紧张（Kaufmann 1877, 119–140; Baneth 1941–2 [1981]; Kogan 2002）[^baneth-1941][^kaufmann-1877][^kogan-2002]。分离理智的理论及其为能动的理智（那些理智中最低者）保留的特殊功能，即犹太贤哲在一处归之于亚里士多德的理论（4:25），是法拉比发展出来、并经伊本·西那和伊本·巴哲加以修正采用的理论（Davidson 1972, 352–381; Davidson 1992, 181–195; Pines 1980, 210–217）[^davidson-1972][^pines-1980]。犹太贤哲激烈抨击的哲学预言理论（1:87）是法拉比的一个学说（Lobel 2000, 140–141; Krinis 2013, 5）[^krinis-2013][^lobel-2000]。犹太贤哲详细呈现的哲学灵魂理论（5:12）是伊本·西那的一个学说。这一情形尤其具有启发性，因为哈列维在这一情形下放入犹太贤哲之口的这一主题的呈现，是伊本·西那一篇论文的节略改写（Landauer 1872, 335–336）。
+在无名哲学家就可萨王的核心立场向可萨王所作的陈述中（1:1），只提到希腊哲学家的名字。然而，对这一节以及书中其他各节所呈现的哲学家学说的考察揭示，它们基于该时期伟大阿拉伯哲学家——法拉比、伊本·西那和伊本·巴哲（Ibn Bajja，卒于 1139 年）——的学说，也基于伟大神学家安萨里（al-Ghazali，卒于 1111 年）的表述，后者凸显了法拉比和伊本·西那的学说与启示宗教核心原则之间的紧张（Kaufmann 1877, 119–140; Baneth 1941–2 [1981]; Kogan 2002）[^baneth-1941][^kaufmann-1877][^kogan-2002]。分离理智的理论及其为能动的理智（那些理智中最低者）保留的特殊功能，即犹太贤哲在一处归之于亚里士多德的理论（4:25），是法拉比发展出来、并经伊本·西那和伊本·巴哲加以修正采用的理论（Davidson 1972, 352–381; Davidson 1992, 181–195; Pines 1980, 210–217）[^davidson-1972][^davidson-1992][^pines-1980]。犹太贤哲激烈抨击的哲学预言理论（1:87）是法拉比的一个学说（Lobel 2000, 140–141; Krinis 2013, 5）[^krinis-2013][^lobel-2000]。犹太贤哲详细呈现的哲学灵魂理论（5:12）是伊本·西那的一个学说。这一情形尤其具有启发性，因为哈列维在这一情形下放入犹太贤哲之口的这一主题的呈现，是伊本·西那一篇论文的节略改写（Landauer 1872, 335–336）[^landauer-1872]。
 
 我们得知，正如《库扎里》的框架故事主要是一种掩护故事，其中八世纪可萨王宫廷中的事件充当哈列维与其时代宫廷文化之接触和反应的文学伪装，他同样把哲学指涉为古希腊遗产，这也是对他与其自身时代哲学之接触和反应的伪装。
 
@@ -66,7 +66,7 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 
 另一方面，犹太贤哲对哲学家表示赞赏，承认在使用理性推理方法的人中，他们是最严谨、最认真的（4:3; 4:15）。因此，他们在理性探究所能及的领域所取得的成就最为卓著（1:99）。
 
-这种对哲学家修辞表达缺乏一致性，很大程度上可以通过理解以下一点得到解释：哈列维对哲学的总体态度，与现代时期所谓的信仰主义立场相一致。一般而言，信仰主义态度强调宗教信仰相对理性的独立性和自主性（Amesbury 2022）。此外，在信仰主义观念中，理性探究被认为不适合作为宗教信仰的基础。哈列维的信仰主义并非基于一种否定理性探究任何价值的极端反理性主义立场，而是基于一种温和而有选择性的信仰主义立场。依他之见，哲学理性探究确实在特定领域产生有效结果，但这些领域并非具有重要宗教-神学意涵的领域。
+这种对哲学家修辞表达缺乏一致性，很大程度上可以通过理解以下一点得到解释：哈列维对哲学的总体态度，与现代时期所谓的信仰主义立场相一致。一般而言，信仰主义态度强调宗教信仰相对理性的独立性和自主性（Amesbury 2022）[^amesbury-2022]。此外，在信仰主义观念中，理性探究被认为不适合作为宗教信仰的基础。哈列维的信仰主义并非基于一种否定理性探究任何价值的极端反理性主义立场，而是基于一种温和而有选择性的信仰主义立场。依他之见，哲学理性探究确实在特定领域产生有效结果，但这些领域并非具有重要宗教-神学意涵的领域。
 
 在这一立场的纲领性表述中，犹太贤哲指出“人的智慧”与“神的智慧”两个领域之间的差异（Halper 2021, 69–77）[^halper-2021]。“人的智慧”是包含逻辑学和数学科学的领域，在这些领域中，作为最致力于理性探究者，哲学家取得了不可否认的成就。然而，在更高的科学，即物理学和形而上学中，哲学家未能取得类似的决定性结果。犹太贤哲说，这种失败是不可避免的，因为那些缺乏神性预言之光的人，如哲学家，缺乏在涉及“神的智慧”领域的诸科学中确立确定结论的能力（5:14）。
 
@@ -80,7 +80,7 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 
 ## 5 服务于《库扎里》中哲学批判的怀疑论
 
-哲学家在《库扎里》开篇部分所奠定的哲学，代表一种独断论态度，把其主张表述为结论性的。古希腊和希腊化文化中兴起的大多数哲学学派都是独断论的。与之并立，具有怀疑论取向的学派也出现并发展（Vogt 2022）。这些学派的拥护者持这样的观点：哲学讨论是一种无法穷尽的不懈探索：真正的哲学话语以其开放的、避免决定性结论的持续论辩为特征。忠于这一态度，怀疑论哲学家总是避免草率下结论。他质疑独断论哲学学派代表所达到的结论，但无意以他自己的决定性结论取而代之。
+哲学家在《库扎里》开篇部分所奠定的哲学，代表一种独断论态度，把其主张表述为结论性的。古希腊和希腊化文化中兴起的大多数哲学学派都是独断论的。与之并立，具有怀疑论取向的学派也出现并发展（Vogt 2022）[^vogt-2022]。这些学派的拥护者持这样的观点：哲学讨论是一种无法穷尽的不懈探索：真正的哲学话语以其开放的、避免决定性结论的持续论辩为特征。忠于这一态度，怀疑论哲学家总是避免草率下结论。他质疑独断论哲学学派代表所达到的结论，但无意以他自己的决定性结论取而代之。
 
 哈列维在《库扎里》中对哲学的批判基于一种信仰主义的预设，而非怀疑论的预设。古典怀疑论全面拒斥独断论立场，而哈列维则主张某些他视为以色列宗教之绝对真理的独断论立场。本着信仰主义态度，他论证这些真理无需理性探究的方法来为它们辩护。
 
@@ -123,3 +123,156 @@ M. A. 弗里德曼提出的、基于此前无法获取的补充书信的最新�
 在犹太贤哲就印度统治者及其臣民所呈现的寓言的讨论中，设计论证受到质疑。可萨王方面，他没有脱离寓言的领域，选择不通过一种裁决——即以肯定或否定回答——来回应犹太贤哲的问题。相反，他暗示这是一个存在若干替代答案的问题，无法确定其中哪一个是正确的：印度子民中盛行的善而公正的秩序可能源于他们自身；可能源于他们的统治者；也可能同时源于他们和他们的统治者（1:20）。从寓言的层面转向教训的层面——哈列维并未提供这一转向，而是留给读者的理解——表明：凭借理性论证对设计论证进行的讨论，以论据对等的状态告终。也就是说，一种其中各种利害攸关的替代答案无一凌驾于其他者之上的状态。
 
 犹太贤哲与可萨王交流从对话中的这一点继续，转向信仰主义的方向。两位说话者在此得出结论：尽管上帝属性（如他是世界的治理者）的确立无法凭借理性探究达到，但它可以基于上帝在以色列子民历史中的非凡介入这一历史见证而达到（1:21–25）。
+
+## 参考文献
+
+**以下非中文文献条目从原文照录，不作翻译；中国文献条目一律译为中文（本条无中国文献）。**
+
+[^editions-nd]: Editions of the Original Text and Translations of *The Kuzari* from Arabic to English
+
+[^das-1887]: *Das Buch Al-Chazari des Abû-l-Hasan Jehuda Hallewi im Arabischen Urtext sowie in der Hebräischen Ubersetzung des Jehuda Ibn Tibbon*, Hartwig Hirschfeld (ed.), Leipzig: Otto Schulze, 1887.
+
+[^judah-1905]: *Judah Hallevi’s Kitâb al-Khazari*, Hartwig Hirschfeld (tr.), London: Routledge, 1905.
+
+[^kuzari-1947]: *Kuzari: The Book of Proof and Argument*, partial translation by Isaak Heinemann, Oxford: East and West Library, 1947. Reprinted in *3 Jewish Philosophers*, New Milford, CT: Toby Press, 2006.
+
+[^kitâb-1977]: *Kitâb al-radd wa’l-dalîl fî’l-dîn al-dhalîl* (*al-kitâb al-khazarî*), David H. Baneth and Haggai Ben-Shammai (eds.), Jerusalem: Magnes, 1977.
+
+[^kuzari-2012]: *The Kuzari–The Book of Refutation and Proof on the Despised Faith*, transliterated into Arabic and edited by Nabih Bashir with the assistance of ‘Abed ‘l-Salam Mousa, Freiburg an Niedersachsen: Al-Kamel, 2012.
+
+[^book-nd]: *The Book of Refutation and Proof on Behalf of the Despised Religion* (*The Kuzari*), forthcoming, Barry S. Kogan (tr.), New Haven, CT: Yale University Press.
+
+[^alfonso-2008]: Alfonso, Esperanza, 2008, *Islamic Culture through Jewish Eyes: Al-Andalus from the Tenth to the Twelfth Century*, New York: Routledge.
+
+[^amesbury-2022]: Amesbury, Richard, “Fideism”, *The Stanford Encyclopedia of Philosophy* (Summer 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/sum2022/entries/fideism/.
+
+[^arieli-1988]: Arieli, Nahum, 1988, “Divine Light and Natural Light” (in Hebrew), *Jerusalem Studies in Jewish Thought*, 7: 103–126.
+
+[^baneth-1941]: Baneth, D. H., 1941–2 [1981], “Judah Halevi and al-Ghazali” (in Hebrew with notes), *Knesset*, 7: 311–329; translated in A. Jospe (ed.), *Studies in Jewish Thought: An Anthology of German-Jewish Scholarship*, Detroit, MI: Wayne State University Press, pp. 181–199.
+
+[^ben-sasson-2019]: Ben-Sasson, Hillel, 2019, *Understanding YHWH: The Name of God in Biblical, Rabbinic, and Medieval Jewish Thought*, Cham: Springer International Publishing. doi:10.1007/978-3-030-32312-7
+
+[^berger-1992]: Berger, Michael S., 1992, “Toward a New Understanding of Judah Halevi’s *Kuzari*”, *Journal of Religion*, 72: 210–228.
+
+[^brann-2000a]: Brann, Ross, 2000a, “The Arabized Jews”, in M. R. Menocal, R. P. Scheindlin, and M. Sells (eds.), *The Cambridge History of Arabic Literature: The Literature of Al-Andalus*, Cambridge: Cambridge University Press, pp. 435–454.
+
+[^brann-2000b]: –––, 2000b, “Judah ha-Levi”, in M. R. Menocal, R. P. Scheindlin, and M. Sells (eds.), *The Cambridge History of Arabic Literature: The Literature of Al-Andalus*, Cambridge: Cambridge University Press, pp. 265–281.
+
+[^cohen-1967]: Cohen, Gerson D., 1967, *A Critical Edition with a Translation and Notes of ‘The Book of Tradition (Sefer ha-Qabbalah) by Abraham Ibn Daud*, Philadelphia: Jewish Publication Society of America.
+
+[^davidson-1972]: Davidson, Herbert A., 1972, “The Active Intellect in the *Cuzari* and Hallevi’s Theory of Causality”, *Revue des études juives*, 131(1–2): 351–396. doi:10.3406/rjuiv.1972.1723
+
+[^davidson-1992]: –––, 1992, *Alfarabi, Avicenna, and Averroës on Intellect*, Oxford and New York: Oxford University Press.
+
+[^efros-1941]: Efros, Israel, 1941, “Some Aspects of Yehudah Halevi’s Mysticism”, *Proceedings of the American Academy of Jewish Research*, 11: 27–41.
+
+[^friedman-2013]: Friedman, Mordecai A., 2013, *Ḥalfon and Judah Halevi*: *The Lives of a Merchant Scholar and a Poet Laureate according to the Cairo Genizah Documents* (in Hebrew), Jerusalem: Ben-Zvi Institute.
+
+[^friedman-2016]: –––, 2016, “An India Trader’s Partnership in Almería (1139)”, *Sefarad*, 76(1): 75–96.
+
+[^halper-2021]: Halper, Yehuda, 2021, *Jewish Socratic Questions in an Age without Plato: Permitting and Forbidding Open Inquiry in 12–15th Century Europe and North Africa*, Leiden and Boston: Brill.
+
+[^heck-2013]: Heck, Paul L., 2013, *Skepticism in Classical Islam: Moments of Confusion*, London: Routledge.
+
+[^gil-2001]: Gil, Moshe and Ezra Fleischer, 2001, *Yehudah Ha-Levi and his Circle* (in Hebrew), Jerusalem: World Union of Jewish Studies.
+
+[^goitein-1988]: Goitein, S. D., 1988, “Judah Halevi: Poet Laureate, Religious Thinker, Communal Leader, Physician”, *A Mediterranean Society, Volume 5: The Individual*, Berkeley: University of California Press, pp. 448–468.
+
+[^golden-2007]: Golden, Peter B., 2007, “The Conversion of the Khazars to Judaism”, in P. B. Golden, H. Ben-Shammai and A. Rona-Tas (eds.), *The World of the Khazars*: *New Perspectives*, Leiden and Boston: Brill, pp. 123–162.
+
+[^harvey-1988]: Harvey, Warren Z., 1988, “The First Commandment and the God of History: Halevi and Crescas vs. Ibn-Ezra and Maimonides” (in Hebrew), *Tarbitz*, 57: 203–216.
+
+[^harvey-2006]: –––, 2006, “Three Theories of the Imagination in Twelfth-Century Jewish Philosophy”, in M. C. Pacheco and J. F. Meirinhos (eds.), *Intellect et imagination dans la philosophie médiévale*, Turnhout: Brepols, pp. 287–302.
+
+[^harvey-2007]: –––, 2007, “Judah Halevi’s Interpretation of the Tetragrammaton” (in Hebrew), in M. M. Bar-Asher, S. Hopkins, S. Stroumsa and B. Chiesa (eds.), *A Word Fitly Spoken: Studies in Mediaeval Exegesis of the Hebrew Bible and the Qurʼān presented to Haggai ben-Shammai*, Jerusalem: Ben-Zvi Institute, pp. 125–32.
+
+[^hughes-2007]: Hughes, Aaron W., 2007, “The Art of Philosophy: The Use of Dialogue in Halevi’s *Kuzari* and Abravanel’s *Dialoghi d’amore*”, *Medieval Encounters*, 13: 470–498.
+
+[^kaufmann-1877]: Kaufmann, David, 1877, *Geschichte der Attributenlehre in der Jüdischen Religionsphilosophie des Mittelalters von Saadja bis Maimuni,* Gotha: F. A. Perthes.
+
+[^kogan-2002]: Kogan, Barry S., 2002, “Al-Ghazali and Halevi on Philosophy and the Philosophers”, in John Inglis (ed.), *Medieval Philosophy and the Classical Tradition*, Richmond, UK: Curzon, pp. 64–80.
+
+[^krinis-2013]: Krinis, Ehud, 2013, “The Arabic Background of the *Kuzari*”, *Journal of Jewish Thought and Philosophy*, 21: 1–56.
+
+[^krinis-2014]: –––, 2014, *God’s Chosen People: Judah Halevi’s “Kuzari” and the Shī‘ī Imām Doctrine*, Ann Brener and Tamar Liza Cohen (trans.), Turnhout: Brepols.
+
+[^krinis-2020]: –––, 2020, *Judah Halevi’s Fideistic Scepticism in the Kuzari*, Berlin and Boston: Walter de Gruyter.
+
+[^landauer-1872]: Landauer, Samuel, 1872, “Die Psychologie des Ibn Sînâ,” *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, 29: 335–418.
+
+[^langermann-1997]: Langermann, Y. T., 1997, “Science in the *Kuzari*”, *Science in Context*, 10(3): 495–522.
+
+[^lasker-2024]: Lasker, Daniel J., 2024, “On the Writing of Judah Halevi’s ‘*Book of the* Kuzari’” (in Hebrew), in N. Ilan (ed.), *Collection of Lights*: *Jubilee Book in Honor of Uri Melammed*, Netanya: Teima, pp. 357–368.
+
+[^levinger-1971]: Levinger, Jacob, 1971, “The *Kuzari* and Its Significance” (in Hebrew), *Tarbitz*, 40: 472–482.
+
+[^lobel-2000]: Lobel, Diana, 2000, *Between Mysticism and Philosophy: Sufi Language of Religious Experience in Judah Ha-Levi’s Kuzari*, Albany: State University of New York Press.
+
+[^lobel-2006]: –––, 2006, “*Ittisal* and the *Amr Ilahi*: Divine Immanence and the World to Come in the *Kuzari*”, in Benjamin H. Hary and Haggai Ben Shammai (eds.), *Esoteric and Exoteric Aspects in Judeo-Arabic Culture*, Leiden: Brill, pp. 131–173.
+
+[^nasser-2013]: Nasser, Shady Hekmat, 2013, The Transmission of the Variant Readings of the *Qur’ān: The Problem of Tawātur and the Emergence of Shawādhdh*, Leiden: Brill.
+
+[^pines-1980]: Pines, Shlomo, 1980, “Shi’ite Terms and Conceptions in Judah Halevi’s *Kuzari*”, *Jerusalem Studies in Arabic and Islam*, 2: 165–251.
+
+[^ravitsky-2019]: Ravitsky, Aviram, 2019, “Ibn Gabirol and Judah ha-Levi’s Usage of Dialogue: The Role of the Disciple in *Fons Vitae* and that of the King in *Kitāb al-Khazarī*”, *Religions*, 10(10): 549–560.
+
+[^scheindlin-2008]: Scheindlin, Raymond P., 2008, *The Song of the Distant Dove: Judah Halevi’s Pilgrimage*, New York: Oxford University Press.
+
+[^schirmann-1979]: Schirmann, Hayyim J., 1979, “The Life of Judah Halevi” (in Hebrew), *Studies in the History of Hebrew Poetry and Drama*, Jerusalem: Bialik Institute, vol. 1, pp. 250–341.
+
+[^schweid-1970]: Schweid, Eliezer, 1970, “The Art of the Dialogue in the *Kuzari* and its Theoretical Meaning,” *Feeling and Speculation* (in Hebrew), Ramat Gan: Masada, pp. 37–79.
+
+[^shear-2008]: Shear, Adam, 2008, *The Kuzari and the Shaping of Jewish Identity, 1167–1900*, Cambridge: Cambridge University Press.
+
+[^silman-1995]: Silman, Yochanan, 1995, *Philosopher and Prophet: Judah Halevi, the Kuzari, and the Evolution of his Thought*, L. J. Schramm (tr.), Albany: State University of New York Press.
+
+[^vogt-2022]: Vogt, Katja, “Ancient Skepticism”, *The Stanford Encyclopedia of Philosophy* (Winter 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/win2022/entries/skepticism-ancient/.
+
+[^wasserstein-2007]: Wasserstein, David J., 2007, “The Khazars and the World of Islam,” in P. B. Golden, H. Ben-Shammai and A. Rona-Tas (eds.), *The World of the Khazars*: *New Perspectives*, Leiden and Boston: Brill, pp. 373–386.
+
+[^wolfson-1977a]: Wolfson, Harry A., 1977a, “Hallevi and Maimonides on Design, Chance, and Necessity”, in Isadore Twersky and George H. Williams (eds.), *Studies in the History of Philosophy and Religion*, Volume 2, Cambridge, MA: Harvard University Press, pp. 1–59.
+
+[^wolfson-1977b]: –––, 1977b, “Hallevi and Maimonides on Prophecy,” in Isadore Twersky and George H. Williams (eds.), *Studies in the History of Philosophy and Religion*, Volume 2, Cambridge, MA: Harvard University Press, pp. 60–119.
+
+[^yahalom-2009]: Yahalom, Joseph, 2009, *Yehudah Halevi: Poetry and Pilgrimage*, Jerusalem: Magnes.
+
+[^altmann-1944]: Altmann, Alexander 1944 [2005], “Judah Halevi’s Theory of Climates” (in Hebrew), *Melilah*, 1–17; translated in Lenn Schramm (ed.), *Aleph: Historical Studies in Science and Judaism*, 5(1): 215–246. doi:10.1353/ale.2005.0002
+
+[^davidson-1987]: Davidson, Herbert A., 1987, *Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy*, Oxford and New York: Oxford University Press.
+
+[^goodman-1997]: Goodman, Lenn E., 1997, “Judah Halevi”, in Daniel H. Frank and Oliver Leaman (eds.), *History of Jewish Philosophy*, London: Routledge, pp. 188–227.
+
+[^guttman-1964]: Guttman, Julius, 1964, “Judah Halevi”, in D. W. Silverman (tr.), *Philosophies of Judaism*, Philadelphia: Jewish Publication Society, pp. 120–133.
+
+[^husik-1944]: Husik, Isaac, 1944, “Judah Halevi”, *A History of Medieval Jewish Philosophy*, Philadelphia: Jewish Publication Society, pp. 150–183.
+
+[^jospe-2009]: Jospe, Raphael, 2009, “Judah La-Levi and the Critique of Philosophy”, *Jewish Philosophy in the Middle Ages*, Brighton, MA: Academic Studies Press, pp. 237–319.
+
+[^kogan-2003]: Kogan, Barry S., 2003, “Judah Halevi and his Use of Philosophy in the *Kuzari*”, in Daniel H. Frank and Oliver Leaman (eds.), *The Cambridge Companion to Medieval Jewish Philosophy*, Cambridge: Cambridge University Press, pp. 111–135.
+
+[^kogan-2004]: –––, 2004, “Who Has Implanted Within Us Eternal Life: Judah Halevi on Immortality and the Afterlife”, in Jonathan W. Malino (ed.), *Judaism and Modernity: The Religious Philosophy of David Hartman*, Aldershot: Ashgate, pp. 445–463.
+
+[^kogan-2009]: –––, 2009, “Understanding Prophecy: Four Traditions”, in Steven Nadler and T. M. Rudavsky (eds.), *The Cambridge History of Jewish Philosophy: From Antiquity through the Seventeenth Century*, Cambridge: Cambridge University Press, pp. 481–523.
+
+[^kreisel-1993]: Kreisel, Howard, 1993, “Judah Halevi’s *Kuzari*: Between the God of Abraham and the God of Aristotle”, in R. Munk and F. J. Hoogewoud (eds.), *Joodse Filosofie tussen Rede en Tradite*, Kampen: Kok, pp. 24–34.
+
+[^kreisel-2001]: –––, 2001, *Prophecy: The History of an Idea in Medieval Jewish Philosophy*, Dordrecht: Kluwer.
+
+[^lasker-1990]: Lasker, Daniel J., 1990, “Proselyte Judaism, Christianity and Islam in the Thought of Judah Halevi”, *Jewish Quarterly Review*, 81(1–2): 75–91.
+
+[^lasker-2013]: –––, 2013, “Judah Halevi as a Philosopher – Some Preliminary Comments”, in A. Ashur (ed.), *Judaeo-Arabic Culture in al-Andalus*, Cordoba: Cordoba University Press, pp. 99–109.
+
+[^lorberbaum-2011]: Lorberbaum, Menachem, 2011, *We Have Been Vanquished by His Pleasantness: The Doctrine of Divinity as Poetry in Andalusian Jewish Creativity* (in Hebrew), Jerusalem: Machon Ben Zvi, pp. 159–200.
+
+[^nuriel-1990]: Nuriel, Avraham, 1990, “The Divine Will in the *Kuzari*” (in Hebrew), *Jerusalem Studies in Jewish Thought*, 9: 19–32.
+
+[^pines-1988]: Pines, Shlomo, 1988, “On the Term ‘*Ruhaniyyut*’ and its Origin, and on Judah Ha-Levi’s Teaching” (in Hebrew), *Tarbitz*, 57: 511–534.
+
+[^schwartz-2005]: Schwartz, Dov, 2005, *Studies on Astral Magic in Medieval Jewish Thought*, D. Louvish and B. Stein (trans.), Leiden: Brill.
+
+[^sinai-2003]: Sinai, Nicolai, 2003, Menschliche oder göttliche Weisheit? Zum Gegensat**z** von philosophischem und religiösem Lebensideal bei al-Ghazali und Yehuda ha-Levi, Wurzburg: Ergon.
+
+[^sirat-1985]: Sirat, Colette, 1985, “Judah Halevi”, *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press, pp. 113–131.
+
+[^strauss-1952]: Strauss, Leo, 1952, “The Law of Reason in the *Kuzari*”, *Persecution and the Art of Writing*, Glencoe, IL: The Free Press, pp. 95–141.
+

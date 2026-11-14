@@ -458,6 +458,16 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 [^note-35]: Hieronymi 2021 给出了把推理与理性行动性紧密相连的富有洞见的说明。她的说明回应了那些把理由简单地（？）框定为“支持”某一行动或结论的考量的其他当代说明。
 
 [^note-36]: Schadow 2022 强调“实践三段论”在康德的准则观念与行动哲学中的作用。准则代表一个总体政策——实践推理的“大前提”。具体处境提供“小前提”。行动应被理解为从这些前提作出的一个逻辑（“三段论式”）推断。如果这些前提之间有矛盾，那么三段论无效——或者更直白地说，我们推理得很糟。
+[^kant’s-1902]: Kant’s works are cited by volume and page numbers of the *Akademie* edition of *Kants gesammelte Schriften* (Berlin, 1902–). The only exception is the *Critique of Pure Reason*, cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. The *Groundwork* is printed in *Akademie* volume 4 and the *Critique of Practical Reason* in volume 5; unless otherwise noted, references beginning with “4:” are to the *Groundwork* and those beginning with “5:” to the second *Critique*. The *Akademie* pagination is found in the margins of all modern translations. Apart from the 2011 edition of the *Groundwork*, translations are from the standard Cambridge Edition of the Works of Immanuel Kant:
+[^critique-1997]: *Critique of Pure Reason*, translated/edited by P. Guyer & A. Wood, Cambridge: Cambridge University Press, 1997.
+[^practical-1996]: *Practical Philosophy*, translated/edited by M. Gregor, Cambridge: Cambridge University Press, 1996. [Includes “What is Enlightenment?”, the *Critique of Practical Reason*, and the *Metaphysics of Morals*.]
+[^groundwork-2011]: *Groundwork of the Metaphysics of Morals* (German-English Edition), translated/edited by M. Gregor & J. Timmermann, Cambridge: Cambridge University Press, 2011.
+[^religion-1996]: *Religion and Rational Theology*, translated/edited by A. Wood & G. di Giovanni, Cambridge: Cambridge University Press, 1996. [Includes “What Does it Mean to Orient Oneself in Thinking?” and *Conflict of the Faculties*.]
+[^lectures-1998]: *Lectures on Ethics*, translated/edited by J. B. Schneewind & P. Heath, Cambridge: Cambridge University Press, 1998.
+[^theoretical-1755]: *Theoretical Philosophy 1755–1770*, translated/edited by D. Walford, with R. Meerbote, Cambridge: Cambridge University Press, 1992. [Includes *Dreams of a Spirit-Seer*.]
+[^theoretical-1781]: *Theoretical Philosophy after 1781*, translated/edited by H. Allison, M. Friedman, G. Hatfield & P. Heath, Cambridge: Cambridge University Press, 2002. [Includes the *Prolegomena*.]
+[^anthropology-2007]: *Anthropology, History, and Education*, translated/edited by G. Zoller, R. Louden, M. Gregor & P. Guyer, Cambridge: Cambridge University Press, 2007. [Includes the *Anthropology*.]
+[^critique-2000]: *Critique of the Power of Judgment*, translated/edited by P. Guyer & E. Matthews, Cambridge: Cambridge University Press, 2000.
 
 [^abela-2006]: Abela, P., 2006, “The Demands of Systematicity: Rational Judgment and the Structure of Nature,” in *A Companion to Kant*, G. Bird (ed.), Oxford: Blackwell, pp. 408–422.
 

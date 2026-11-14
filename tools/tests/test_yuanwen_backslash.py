@@ -13,7 +13,45 @@ import unittest
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, REPO)
 
-from tools.yuanwen import _sanitize_table_html, inline_to_md  # noqa: E402
+from tools.yuanwen import (  # noqa: E402
+    _sanitize_table_html, build_cite_keys, inline_to_md, link_citations)
+
+
+class TestCitePrefixCollision(unittest.TestCase):
+    """023 审计实证：姓名无右词边界时前缀子串幻配（action §7.3，2026-11-14）。
+
+    书目同有 Clark, Philip 2010 与 Clarke, Randolph 2010；正文组
+    (Clarke 2010; 2014) 曾幻挂 clark-2010。修复：姓名两侧加 \\b。"""
+
+    def _keys(self):
+        entries = [
+            'Clark, Philip, 2010, “Aspects, Guises, Species and Knowing”, *Journal of Philosophy*.',
+            'Clarke, Randolph, 2010, “Omissions”, between others.',
+            'Clarke, Randolph, 2014, “Omissions: A Reply”, somewhere.',
+        ]
+        return build_cite_keys(entries)
+
+    def test_prefix_surname_does_not_match_longer_surname_group(self):
+        keys = self._keys()
+        self.assertIn('clark-2010', [k['key'] for k in keys])
+        text = 'This follows Clarke (Clarke 2010; 2014).'
+        new, count, used = link_citations(text, keys)
+        self.assertNotIn('[^clark-2010]', new)
+        self.assertIn('[^clarke-2010]', new)
+        self.assertNotIn('[^clarke-2014]', new)  # 分号边界：2014 不跨条误配
+
+    def test_direct_citation_still_matches(self):
+        keys = self._keys()
+        text = 'The guise of the good (Tenenbaum 2007; Clark 2010; Schafer 2013).'
+        new, count, used = link_citations(text, keys)
+        self.assertIn('[^clark-2010]', new)
+
+    def test_apostrophe_surname_unaffected(self):
+        entries = ["O'Brien, Robert, 2007, “Do”."]
+        keys = build_cite_keys(entries)
+        text = 'as argued (O’Brien 2007: 5).'
+        new, count, used = link_citations(text, keys)
+        self.assertIn('[^o’brien-2007]', new)
 
 
 class TestBackslashBeforeTag(unittest.TestCase):

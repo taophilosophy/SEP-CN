@@ -30,7 +30,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 | intake | `python tools/summary_sync.py report` 查看 ADD 队列；逐条 `apply-add <slug> --title-zh "译名"`（译名先登记 shu-yu-biao.md，沿用集群命名惯例） | `report` 队列清空 |
 | fetch | `python tools/fetch_entry.py $(python tools/campaign.py slugs <批>)`；`fetch_audit.py $(...)` 补缺件 | `campaign.py status` 该批 基线=总 |
 | convert | `python tools/yuanwen.py $(python tools/campaign.py slugs <批>)` | 该批 镜像=总 |
-| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → clear → draft → s1→s2→s3→r1→r2→r3 → done（s3/r3 学术挂钩自动拦截）；**骨架与元素映射一律照 [fan-yi-mu-ban.md](fan-yi-mu-ban.md)**；s1 含文献还原：脚注定义条中的中国文献按 [ADR-0011](../../rules/adr/0011-引文原文语言与中文文献翻译.md) 译为中文（定位 `tools/biblio_audit.py <slug>`，译名对 shu-yu-biao.md“文献译名”表，三来源幻觉防线） | 该批 done=总 |
+| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → clear → draft → s1→s2→s3→r1→r2→r3 → done（s3/r3 学术＋公式挂钩自动拦截）；**开工先钉基准**：该批 yuanwen/ 镜像 commit 与转换器版本写入首批任务 evidence（rules/08 §9，D31）；**骨架与元素映射一律照 [fan-yi-mu-ban.md](fan-yi-mu-ban.md)**；s1 含文献还原：脚注定义条中的中国文献按 [ADR-0011](../../rules/adr/0011-引文原文语言与中文文献翻译.md) 译为中文（定位 `tools/biblio_audit.py <slug>`，译名对 shu-yu-biao.md“文献译名”表，三来源幻觉防线） | 该批 done=总 |
 | 收口 | `campaign.py advance <批> done`；`check_all` 全绿；G4 记录入 specs/001 execution-log | 批次 phase=done |
 
 每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。
@@ -50,6 +50,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 ## 5. 验收与升级
 
 * 批次收口 → G4 记录（doctrine 最小字段）入 `specs/001-sep-sync-pipeline/execution-log.md`。
+* 批次收口 → **语体结论第二读者抽查**：抽 3 条该批 done 词条复核 s2/r1 语体结论与证据句（specs/015 验收判据 3 常态化，D29；交叉由他会话/人工执行，ADR-0034 相容）。
 * 阶段 A 验收 → checklist 见 `specs/005-translation-campaign/checklist.md`。
 * 规划书修订（暴露问题回流）→ specs/005 spec.md 版本号 v1.x + 提交说明。
 * 技术债务消化 → specs/004 登记表逐项标记。

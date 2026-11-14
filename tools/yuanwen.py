@@ -742,8 +742,12 @@ def build_cite_keys(entry_texts):
                     # （african-ethics 34 条定义零挂键、althusser 126 条等）。
                     # 改后只排除分号/圆括号/方括号：同组内多引证仍按分号隔离，
                     # 不会跨条误配。
+                    # 2026-11-14 023 审计（action §7.3 实证）：姓名须右词边界——
+                    # Clark 是 Clarke 的前缀子串，无边界时 (Clarke 2010; 2014)
+                    # 幻挂 Clark, Philip 2010 的键。
                     pats.append(re.compile(
-                        re.escape(name) + r'[^;()\[\]]{0,60}?\b' +
+                        r'\b' + re.escape(name) + r'\b' +
+                        r'[^;()\[\]]{0,60}?\b' +
                         re.escape(year) + re.escape(suffix) + r'\b'))
         keys.append({'key': key, 'pats': pats, 'text': text})
     return keys

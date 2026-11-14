@@ -20,7 +20,7 @@
 
 **矛盾的实现者**：一个更专门的定义认为，不可能世界是其中形如 $A$ 与 $\neg A$ 的句子成立、从而违反矛盾律的世界（参见 e.g. Lycan 1994）[^lycan-1994]。第四种不可能世界将在第三种意义上不可能，但反之不然。上面那个直觉主义世界将让矛盾律不受限地成立：它将在第三种、而非第四种意义上不可能。
 
-这些都是不可能的绝对概念：在任何一种意义上，一个世界要么可能、要么不可能。人们可以相对化这一概念，例如允许什么算作逻辑定律因世界而异。于是（如 Sandgren and Tanaka 2020 指出的）[^sandgren-2020]，一个世界的定律可以是第二个世界的定律的真子集。在这种情况下，每个世界都相对于另一个世界不可能（因为它们在把什么当作定律上不同），尽管前者并不违反后者的任何定律。（另见 Tanaka 2018, 2022。）[^tanaka-2018] 这种相对化的逻辑不可能概念相对较新，尚未充分探索。
+这些都是不可能的绝对概念：在任何一种意义上，一个世界要么可能、要么不可能。人们可以相对化这一概念，例如允许什么算作逻辑定律因世界而异。于是（如 Sandgren and Tanaka 2020 指出的）[^sandgren-2020]，一个世界的定律可以是第二个世界的定律的真子集。在这种情况下，每个世界都相对于另一个世界不可能（因为它们在把什么当作定律上不同），尽管前者并不违反后者的任何定律。（另见 Tanaka 2018, 2022。）[^tanaka-2018][^tanaka-2022] 这种相对化的逻辑不可能概念相对较新，尚未充分探索。
 
 ## 1 引入不可能世界的理由
 
@@ -249,7 +249,7 @@ Rescher 和 Brandom 的进路属于次协调逻辑的非合取传统（见 Berto
 
 （有效性）如果 $A$ 有效，那么 $KA$ 也有效
 
-但这些原则似乎为假。你不知道所有的逻辑和数学真理，而且有些真理从你所知推出，你却不知道。（你可能对这些真理漠不关心；你甚至可能不相信它们。）这就是 **逻辑全知** 问题（再次参见认知逻辑）。关于这个问题有丰富的文献（Alechina et al. 2004, Duc 1997, Hintikka 1975, Jago 2014a,b, Rantala 1982a）[^alechina-2004][^duc-1997][^hintikka-1975][^jago-2014a][^rantala-1982a]，包括一些为这些看似虚假的原则辩护的人（Stalnaker 1991, 1999）[^stalnaker-1991]。
+但这些原则似乎为假。你不知道所有的逻辑和数学真理，而且有些真理从你所知推出，你却不知道。（你可能对这些真理漠不关心；你甚至可能不相信它们。）这就是 **逻辑全知** 问题（再次参见认知逻辑）。关于这个问题有丰富的文献（Alechina et al. 2004, Duc 1997, Hintikka 1975, Jago 2014a,b, Rantala 1982a）[^alechina-2004][^duc-1997][^hintikka-1975][^jago-2014a][^rantala-1982a]，包括一些为这些看似虚假的原则辩护的人（Stalnaker 1991, 1999）[^stalnaker-1991][^stalnaker-1999]。
 
 对于信念（用模态‘$B$’沿着‘$K$’的路线处理）情况完全相同。模态认知进路告诉我们，除了相信我们所信之物的所有后承外，我们还必须持有一个完全一致的信念集：
 
@@ -263,7 +263,7 @@ Rantala 的进路把世界分为 **正常** 和 **非正常** 的。正常世界
 
 逻辑后承和有效性仅相对于可能（正常）世界定义。不可能世界仅在评估知识断言 $KA$ 时发挥作用。所以，忽略 $K$-句子，逻辑是经典的。但 $K$-句子的逻辑不在任何非平凡推理规则下封闭，从而摒弃了封闭、有效性以及（在信念情形下的）一致性。例如，一个能动者被模型化为具有不一致的信念，只需把一个 $A$ 和 $\neg A$ 都为真的不可能世界当作（从现实世界）对该能动者认识论上可及即可。
 
-这种进路已被推广到量化模态逻辑（Rantala 1982b）[^rantala-1982b]，并发展成认知逻辑的统一框架（Wansing 1989, 1990）[^wansing-1989]。Wansing 已表明，人工智能中发展出的各种知识和信念逻辑，可以在包括不可能世界的结构中找到等价模型。这一领域的进一步等价结果已在 Sillari 2008 中获得，其中表明使用二元认识可及关系的不可能世界结构，等价于使用 Montague-Scott 邻域语义学的结构。
+这种进路已被推广到量化模态逻辑（Rantala 1982b）[^rantala-1982b]，并发展成认知逻辑的统一框架（Wansing 1989, 1990）[^wansing-1989][^wansing-1990]。Wansing 已表明，人工智能中发展出的各种知识和信念逻辑，可以在包括不可能世界的结构中找到等价模型。这一领域的进一步等价结果已在 Sillari 2008 中获得，其中表明使用二元认识可及关系的不可能世界结构，等价于使用 Montague-Scott 邻域语义学的结构。
 
 然而，这种进路面临问题。如果不可能世界没有逻辑结构，那么我们也许可以同样用一个任意句子集来模型化能动者的知识，如 Konolige 1986 那样。担忧在于，不受约束的不可能世界语义学，对这种纯粹句法进路没有真正的进步（Jago 2007, 2009）[^jago-2007][^jago-2009]。
 
@@ -632,5 +632,29 @@ ks, 1969.
 [^sandgren-2020]: Sandgren, A. and Tanaka, K., 2020, “Two Kinds of Logical Impossibility”, *Noûs*, 54: 795–806.
 
 [^sendłak-2015]: Sendłak, M., 2015, “Limits of Hybrid Modal Realism”, *Axiomathes*, 25: 515–31.
+[^sendłak-2021]: –––, 2021, “Counterpossibles, Story Prefix and Trivialism”, *Synthese*, 199: 7283–301.
+[^sillari-2008]: Sillari, G., 2008, “Quantified Logic of Awareness and Impossible Possible Worlds”, *Review of Symbolic Logic*, 4: 514–29.
+[^skyrms-1976]: Skyrms, B., 1976, “Possible Worlds, Physics and Metaphysics”, *Philosophical Studies*, 30: 323–32.
+[^soames-1987]: Soames, S., 1987, “Direct Reference, Propositional Attitudes, and Semantic Content”, *Philosophical Topics*, 15: 47–87.
+[^stalnaker-1968]: Stalnaker, R., 1968, “A Theory of Conditionals”, in *Studies in Logical Theory*, Rescher, N. (ed.), Oxford: Blackwell, 98–112.
+[^stalnaker-1991]: –––, 1991, “The Problem of Logical Omniscience I”, *Synthese*, 89: 425–40.
+[^stalnaker-1996]: –––, 1996, “Impossibilities”, *Philosophical Topics*, 24: 193–204.
+[^stalnaker-1999]: –––, 1999, “The Problem of Logical Omniscience II”, in his *Context and Content: Essays on Intentionality in Speech and Thought*, Oxford: Oxford University Press: pp. 255–73.
+[^tanaka-2018]: Tanaka, K., 2018, “Logically Impossible Worlds”, *Australasian Journal of Logic*, 15: 489.
+[^tanaka-2022]: –––, 2022. “Impossible Worlds, by Francesco Berto and Mark Jago”, *Mind*, 131: 292–301.
+[^vander-1997]: Vander Laan, D., 1997, “The Ontology of Impossible Worlds”, *Notre Dame Journal of Formal Logic*, 38: 597–620.
+[^vander-2004]: –––, 2004, “Counterpossibles and Similarity”, in Jackson, F. and Priest, G. (eds.), 2004, *Lewisian Themes: the Philosophy of David K. Lewis*, Oxford: Oxford University Press.
+[^varzi-1997]: Varzi, A., 1997, “Inconsistency Without Contradiction”, *Notre Dame Journal of Formal Logic*, 38: 621–39.
+[^varzi-2004]: –––, 2004, “Conjunction and Contradiction”, in Priest, G., Beall, J.C., and Armour-Garb, B. (eds.), *The Law of Non-Contradiction*, Oxford: Oxford University Press: 93–110.
+[^wansing-1989]: Wansing, H., 1989, “Bemerkungen zur Semantik nicht-normaler möglicher Welten”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 35: 551–7.
+[^wansing-1990]: –––, 1990, “A General Possible Worlds Framework for Reasoning about Knowledge and Belief”, *Studia Logica*, 49: 523–39.
+[^williamson-2007]: Williamson, T., 2007, *The Philosophy of Philosophy*, Oxford: Blackwell.
+[^williamson-2020]: –––, 2020, *Suppose and Tell: The Semantics and Heuristics of Conditionals*, Oxford: Oxford University Press.
+[^woods-2003]: Woods, J., 2003, *Paradox and Paraconsistency. Conflict Resolution in the Abstract Sciences*, Cambridge: Cambridge University Press.
+[^yagisawa-1988]: Yagisawa, T., 1988, “Beyond Possible Worlds”, *Philosophical Studies*, 53: 175–204.
+[^yagisawa-2010]: –––, 2010, *Worlds and Individuals, Possible and Otherwise*, Oxford: Oxford University Press.
+[^yagisawa-2015]: –––, 2015, “Impossibilia and Modally Tensed Predication”, *Acta Analytica* 30: 1–7.
+[^zalta-1983]: Zalta, E., 1983, *Abstract Objects. An Introduction to Axiomatic Metaphysics*, Dordrecht: Reidel.
+[^zalta-1997]: –––, 1997, “A Classically-Based Theory of Impossible Worlds”, *Notre Dame Journal of Formal Logic*, 38: 640–60.
 
 [^sendłak-

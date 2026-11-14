@@ -156,7 +156,7 @@
 
 [^plato-1997]: Plato, *Symposium*, in John M. Cooper (ed.), *Plato: Complete Works*, Indianapolis: Hackett, 1997, pp. 457–505.
 
-[^pliny-1893]: Pliny the Elder, *Natural History*, translated by Henry T. Riley and John Bostock, London and New York: Bell, 1890–1893.
+[^pliny-1890]: Pliny the Elder, *Natural History*, translated by Henry T. Riley and John Bostock, London and New York: Bell, 1890–1893.
 
 [^reuchlin-nd]: Reuchlin, Johannes, *De arte cabalistica*, Hagenau: Thomas Anshelmus, 1517.
 
