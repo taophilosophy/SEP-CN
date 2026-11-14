@@ -93,3 +93,6 @@
 | montesquieu | `Montesquieu and Rouseau` / `University of Michign Press` | `Rousseau` / `Michigan` | 拼写（①） |
 | montesquieu | `31 (3): 469-499` | `31(3): 469–499` | 卷期空格与半字线（①） |
 | montesquieu | hulliung-1976 条末缺句点 | 补 `.` | 句读（①） |
+| modesty-humility | 7 条书目期刊名前缺逗号 | 补 `,` | 书目标点（①） |
+| modesty-humility | `&ldquo;Aidws in Epictetus&rdquo;` / `&ldquo;&rsquo;A Monkish Virtue?&rsquo;` | `Aid&#333;s` / `&lsquo;…&rsquo;` | 希腊转写与引号方向（①） |
+| modesty-humility | kelly-2010 `Disagreement` 缺斜体；aquinas-1981 链接后缺句点 | 补斜体、补句点 | 书目体例（①） |

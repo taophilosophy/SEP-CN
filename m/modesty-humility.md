@@ -186,7 +186,7 @@ Whitcomb 等（2015）主张一种“承认并拥有局限”（limitations-owni
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 [^adler-2004]: Adler, Jonathan, 2004, “Reconciling Open-Mindedness and Belief”, *Theory and Research in Education*, 2(2): 127–142.
-[^aquinas-1981]: Aquinas, Thomas. 1981/1948. *Summa Theologiae*, Fathers of the English Dominican Province, trans. 5 vols. Westminster, MD: Christian Classics. [[Available online](http://www.newadvent.org/summa/index.html)]
+[^aquinas-1981]: Aquinas, Thomas. 1981/1948. *Summa Theologiae*, Fathers of the English Dominican Province, trans. 5 vols. Westminster, MD: Christian Classics. ［[可在线获取](http://www.newadvent.org/summa/index.html)］。
 [^aristotle-2012]: Aristotle, 2012, *Aristotle’s Nicomachean Ethics*, Robert C. Bartlett, and Susan D. Collins (eds/trans.), Chicago: The University of Chicago Press.
 [^arpaly-2014]: Arpaly, Nomy and Timothy Schroeder, 2014, *In Praise of Desire*, New York: Oxford University Press.
 [^arpaly-2011]: Arpaly, Nomy, 2011, “Open-Mindedness as a Moral Virtue”, *American Philosophical Quarterly*, 48(1): 75–85.
@@ -198,32 +198,32 @@ Whitcomb 等（2015）主张一种“承认并拥有局限”（limitations-owni
 [^bommarito-2013]: –––, 2013, “Modesty as a Virtue of Attention”, *Philosophical Review*, 122(1): 93–117.
 [^bommarito-2010]: –––, 2010, “Rationally Self-Ascribed Anti-Expertise”, *Philosophical Studies*, 151: 413–419.
 [^brennan-2007]: Brennan, Jason, 2007, “Modesty without Illusion”, *Philosophy and Phenomenological Research*, 75(1): 111–128.
-[^button-nd]: Button, Mark, “’A Monkish Virtue?’ For and Against Humility” *Political Theory*, 33(6): 840–846.
+[^button-nd]: Button, Mark, “‘A Monkish Virtue?’ For and Against Humility,” *Political Theory*, 33(6): 840–846.
 [^christensen-2010]: Christensen, David, 2010, “Higher Order Evidence”, *Philosophy and Phenomenological Research*, 81: 185–215.
 [^christensen-2007]: –––, 2007, “Epistemic Self-Respect”, *Proceedings of the Aristotelian Society*, 107(1.3): 319–337.
 [^church-2016]: Church, Ian, 2016, “The Doxastic Account of Intellectual Humility”, *Logos & Episteme*, 7(4): 413–433.
 [^conee-1987]: Conee, Earl, 1987, “Evident, but Rationally Unacceptable”, *Australasian Journal of Philosophy*, 65: 316–326.
 [^dalmiya-2016]: Dalmiya, Vrinda, 2016, *Caring to Know*, New Delhi: Oxford University Press.
-[^davie-1999]: Davie, William, 1999, “Hume on Monkish Virtue” *Hume Studies*, 25(1–2): 139–154.
+[^davie-1999]: Davie, William, 1999, “Hume on Monkish Virtue,” *Hume Studies*, 25(1–2): 139–154.
 [^driver-2001]: Driver, Julia, 2001, *Uneasy Virtue*, Cambridge: Cambridge University Press.
-[^driver-1999]: –––, 1999, “Modesty and Ignorance” *Ethics*, 109: 827–834.
+[^driver-1999]: –––, 1999, “Modesty and Ignorance,” *Ethics*, 109: 827–834.
 [^driver-1989]: –––, 1989, “The Virtues of Ignorance”, *The Journal of Philosophy*, 86(7): 373–384.
 [^egan-2005]: Egan, Andy and Adam Elga, 2005, “I Can’t Believe I’m Stupid”, *Philosophical Perspectives*, 19(1): 77–93.
 [^flanagan-1990]: Flanagan, Owen, 1990, “Virtue and Ignorance”, *The Journal of Philosophy*, 87(8): 420–428.
-[^foley-2004]: Foley, Michael P., 2004, “Thomas Aquinas’ Novel Modesty” *History of Political Thought*, 25(3): 402–423.
+[^foley-2004]: Foley, Michael P., 2004, “Thomas Aquinas’ Novel Modesty,” *History of Political Thought*, 25(3): 402–423.
 [^foot-1978]: Foot, Philippa, 1978/2002, *Virtues and Vices*, Oxford: Clarendon Press.
 [^franklin-1771]: Franklin, Benjamin, 1771/1982, *The Autobiography & Other Writings*, New York: Bantam Books.
 [^garcia-2006]: Garcia, J.L.A., 2006, “Being Unimpressed with Ourselves: Reconceiving Humility”, *Philosophia*, 34: 419–424.
 [^gilbert-1971]: Gilbert, Margaret, 1971, “Vices and Self-Knowledge”, *The Journal of Philosophy*, 68(15): 443–453.
-[^hare-1996]: Hare, Stephen, 1996, “The Paradox of Humility” *American Philosophical Quarterly*, 33(2): 235–241.
+[^hare-1996]: Hare, Stephen, 1996, “The Paradox of Humility,” *American Philosophical Quarterly*, 33(2): 235–241.
 [^hare-1985]: Hare, William, 1985, *In Defence of Open-Mindedness*, Montreal: McGill-Queens University Press.
 [^hazlett-2012]: Hazlett, Allan, 2012, “Higher-Order Epistemic Attitudes and Intellectual Humility”, *Episteme*, 9: 205–223.
 [^hume-1751]: Hume, David, 1751/1983. *An Enquiry Concerning the Principles of Morals*, Indianapolis: Hackett.
 [^hurka-2001]: Hurka, Thomas, 2001, *Virtue, Vice, and Value*, Oxford: Oxford University Press.
-[^kamtekar-1998]: Kamtekar, Rachana, 1998, “Aidws in Epictetus”, *Classical Philology*, 93(2): 136–160.
+[^kamtekar-1998]: Kamtekar, Rachana, 1998, “Aidōs in Epictetus”, *Classical Philology*, 93(2): 136–160.
 [^kant-1797]: Kant, Immanuel, 1797/1996, “The Metaphysics of Morals”, in *Practical Philosophy*, Mary Gregor (trans. and ed.), New York: Cambridge University Press.
 [^kellenberger-2010]: Kellenberger, James, 2010, “Humility”, American Philosophical Quarterly, 47(4): 321–336.
-[^kelly-2010]: Kelly, Thomas, 2010, “Peer Disagreement and Higher-Order Evidence” in R. Feldman and T.A. Warfield (eds.), Disagreement, Oxford: Oxford University Press, pp. 183–217.
+[^kelly-2010]: Kelly, Thomas, 2010, “Peer Disagreement and Higher-Order Evidence” in R. Feldman and T.A. Warfield (eds.), *Disagreement*, Oxford: Oxford University Press, pp. 183–217.
 [^kelly-2005]: –––, 2005, “The Epistemic Significance of Disagreement”, *Oxford Studies in Epistemology*, 1: 167–196.
 [^keys-nd]: Keys, Mary M., “Aquinas and the Challenge of Aristotelian Magnanimity”, *History of Political Thought*, 24(1): 37–65.
 [^maes-2004]: Maes, Hans, 2004, “Modesty, Asymmetry, and Hypocrisy”, *Journal of Value Inquiry*, 38(4): 485–497.
@@ -232,7 +232,7 @@ Whitcomb 等（2015）主张一种“承认并拥有局限”（limitations-owni
 [^mcrae-2016]: McRae, Emily, 2016, “Equanimity and the Moral Virtue of Open-Mindedness”, *American Philosophical Quarterly*, 53(1): 97–108.
 [^mcrae-2013]: –––, 2013, “Equanimity and Intimacy: A Buddhist-Feminist Approach to the Elimination of Bias”, *Sophia*, 52(3): 447–462.
 [^milligan-2007]: Milligan, Tony, 2007, “Murdochian Humility”, *Religious Studies*, 43(2): 217–228.
-[^nuyen-1998]: Nuyen, A.T., 1998, “Just Modesty”, *American Philosophical Quarterly*, 35: 101–109
+[^nuyen-1998]: Nuyen, A.T., 1998, “Just Modesty”, *American Philosophical Quarterly*, 35: 101–109.
 [^rashdall-1907]: Rashdall, Hastings, 1907, *The Theory of Good and Evil*, Oxford: Clarendon Press.
 [^raterman-2006]: Raterman, Ty, 2006, “On Modesty: Being Good and Knowing It without Flaunting It”, *American Philosophical Quarterly*, 43(3): 221–234.
 [^reed-2012]: Reed, Philip A., 2012, “What’s Wrong with Monkish Virtues? Hume on the Standard of Virtue”, *History of Philosophy Quarterly*, 29(1): 39–56.
@@ -243,16 +243,16 @@ Whitcomb 等（2015）主张一种“承认并拥有局限”（limitations-owni
 [^roberts-2003]: Roberts, Robert, and Jay Wood, 2003, “Humility and Epistemic Goods” in M. DePaul and L. Zagzebski (eds.), *Intellectual Virtue: Perspectives from Ethics and Epistemology*, Oxford: Clarendon Press, pp. 257–279.
 [^rushing-2013]: Rushing, Sara, 2013, “What is Confucian Humility?” in S. Angle and M. Slote (eds.), *Virtue Ethics and Confucianism*, New York: Routledge, pp. 173–181.
 [^schueler-1997]: Schueler, G.F., 1997, “Why Modesty is a Virtue”, *Ethics*, 107(3): 467–485.
-[^schweig-nd]: Schweig, Graham M., “Humility and Passion: A Caitanyite Vaishnava Ethics of Devotion” *Journal of Religious Ethics*, 30(3): 421–444.
+[^schweig-nd]: Schweig, Graham M., “Humility and Passion: A Caitanyite Vaishnava Ethics of Devotion,” *Journal of Religious Ethics*, 30(3): 421–444.
 [^sidgwick-1907]: Sidgwick, Henry, 1907/1981, *The Methods of Ethics*, Indianapolis: Hackett.
 [^sinha-2012]: Sinha, Alex, 2012, “Modernizing the Virtue of Humility”, *Australasian Journal of Philosophy*, 90(2): 259–274.
 [^slote-1983]: Slote, Michael, 1983, *Goods and Virtues*, Oxford: Clarendon Press.
 [^smith-1759]: Smith, Adam, 1759/1984, *The Theory of Moral Sentiments*, Indianapolis: Liberty Fund.
 [^sorensen-1988]: Sorensen, Roy, 1988, *Blindspots*, Oxford: Clarendon Press.
 [^sorensen-1987]: –––, 1987, “Anti-Expertise, Instability, and Rational Choice”, *Australasian Journal of Philosophy*, 65(3): 301–315.
-[^statman-1992]: Statman, Daniel, 1992, “Modesty, Pride, and Realistic Self-Assessment” *The Philosophical Quarterly*, 42(169): 420–438.
-[^um-nd]: Um, Sungwoo, forthcoming, “Modesty as an Executive Virtue”, *American Philosophical Quarterly*
-[^whitcomb-2015]: Whitcomb, Dennis, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder, 2015, “Intellectual Humility: Owning Our Limitations,” *Philosophy and Phenomenological Research* 91(1): 1–31.
+[^statman-1992]: Statman, Daniel, 1992, “Modesty, Pride, and Realistic Self-Assessment,” *The Philosophical Quarterly*, 42(169): 420–438.
+[^um-nd]: Um, Sungwoo, forthcoming, “Modesty as an Executive Virtue”, *American Philosophical Quarterly*.
+[^whitcomb-2015]: Whitcomb, Dennis, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder, 2015, “Intellectual Humility: Owning Our Limitations,” *Philosophy and Phenomenological Research*, 91(1): 1–31.
 [^williams-1993]: Williams, Bernard, 1993, *Ethics and the Limits of Philosophy*, London: Fontana Press.
 [^wilson-2014]: Wilson, Alan T., 2014, “Modesty as Kindness”, *Ratio*, 29(1): 73–88.
 [^winter-2012]: Winter, Michael Jeffrey, 2012, “Does Moral Virtue Require Knowledge? A Response to Julia Driver”, *Ethical Theory and Moral Practice*, 15(4): 533–546.
