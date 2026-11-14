@@ -79,3 +79,5 @@
 | leibniz-mind | `Toronto University Press..` | `Toronto University Press.` | 双句点（①） |
 | leibniz-mind | `&rdquo;<em>Pacific` / `&rdquo;<em>Journal` / `&rdquo;<em>Causation` / `&ldquo; Leibniz` | 补空格、去引号内前导空格 | 排版（①） |
 | publichealth-ethics | notes.html `(Omerand et al. 2009; …)` | `(Omer et al. 2009; …)` | OCR 拼合（①）；不修则 omer-2009 引注静默丢失 |
+| schlegel | `Lacoue-Labarthe and J.-L. Nancy, 1978` | `Lacoue-Labarthe, P., and J.-L. Nancy` | 缺第一作者名首字母（①） |
+| schlegel | `deMan, P., 1996` | `de Man, P., 1996` | 姓氏分写（①） |
