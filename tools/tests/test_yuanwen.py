@@ -110,7 +110,8 @@ class TestBlocks(unittest.TestCase):
         text = '\n'.join(ctx.out)
         self.assertIn('Please contact the author', text)
         self.assertIn('related stuff here', text)
-        self.assertEqual([e for e in ctx.bib_entries if 'Entry One' in e],
+        # 2026-11-15 起条目为 (text, section) 二元组
+        self.assertEqual([e[0] for e in ctx.bib_entries if 'Entry One' in e[0]],
                          ['Entry One 2001, Book.'])
 
 
