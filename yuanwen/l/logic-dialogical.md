@@ -274,6 +274,7 @@ This example illustrates the importance of keeping track of the order of the mov
   | 1 | $\mathtt{n} :=\rank{1}$ |   |   | $\mathtt{m}:=\rank{1}$ | 2 |
   | 3 | $\state \forall xPx$ | (0) |   |   |   |
   |   |   |   | (3) | $\rqst [x/a]$ | 4 |
+
   *Note that move 4 does not appear in front of move 3 since it is not a defence against that move: it is a new challenge. With his challenge, the proponent applies the particle rule for universal quantification and chooses the individual constant $a$.*
 - **Moves 5–6:** **O** defends her universal quantification by instanciating her statement with **P**’s choice of instance (see the particle rule). By doing so, she states the elementary statement that the proponent needed in order to answer to move 3: he does so with move 6, which is written in front of the corresponding challenge. With this the proponent wins the play.
 
@@ -786,6 +787,7 @@ The proponent states the thesis (move 0), the opponent starts playing: she accep
   | 3 | $\rqst_{\bprop}$ | (0) |   | $(\forall x:A)(B(x)\supset B(x)):\bprop$ | 4 |
   | 5 | $\rqst_{\forall{}1}$ | (4) |   | $A: \bset$ | 6 |
   | 7 | $p_1 : A$ | (0) |   |   |   |
+
   *Note: if the opponent wants to challenge both sides of the formation of the universal quantification in the same play, she must choose repetition rank 2.*
 
 #### 3.2.4 Material dialogues

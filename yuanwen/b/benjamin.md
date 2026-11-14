@@ -131,19 +131,14 @@ This deferral was also, in part, the result of a process of maturation—a kind 
 
 In the ebb and flow of its changing rhythms—additions, revisions, reformulations and retrievals—Benjamin’s *Arcades Project* provides an extraordinary case study in the labour of conceptual construction via the configuration and reconfiguration of archival materials. The voluminous ‘Notes and Materials’ that make up the *Arcades* as it has come down to us remained unpublished until 1982, finally appearing in English only in 1999 (GS V; AP). Only since their publication has it been possible to get a clear sense of the overall trajectory of Benjamin’s thought during this period—rendering redundant, or at least displacing, many of the polemics associated with previous cycles of reception. The notes and materials are organized into twenty-six alphabetically designated ‘convolutes’ (literally ‘bundles’) or folders, thematically defined by various *objects* (arcades, catacombs, barricades, iron constructions, mirrors, modes of lighting…), *topics* (fashion, boredom, theory of knowledge, theory of progress, painting, conspiracies…), *figures* (the collector, the flaneur, the automaton…), *authors* (Baudelaire, Fourier, Jung, Marx, Saint-Simon…) and their combinations. The project as a whole received two ‘exposés’ or summaries, in 1935 and 1939 (the second, in French). However, its scope and theoretical ambition—nothing less than a philosophical construction of “the primal history of the nineteenth century” (BA, 90)—joined with the circumstances of Benjamin’s life in exile (the constant need to earn money by writing and the uncertainty of a publisher for the project) to frustrate its realization. The only lengthy segment of completed text derives from the part devoted to Baudelaire (one of five parts in the 1939 exposé, cut down from six in the initial 1935 version): the second of its three projected sections, ‘The Paris of the Second Empire in Baudelaire’—although even this was never published in Benjamin’s lifetime. However, the central chapter of this section, ‘The Flaneur’, was revised and expanded (in part, in response to an exchange of letters with Adorno) into the essay ‘Some Motifs in Baudelaire’, which was published in the Institute’s journal, *Zeitschrift für Sozialforschung* (*Journal for Social Research*) in January 1940. A powerful compressed draft of material corresponding to the final section, on the commodity as a poetic object, exists as ‘Central Park’ (SW 4, 161–199). As the project evolved, and in response to the barriers to its realization, Baudelaire thus became increasingly central to Benjamin’s thinking. (‘Convolute J’, on Baudelaire, is by far the longest of the convolutes.) Encouraged by Horkheimer, Benjamin planned to publish the material on Baudelaire as a separate book, to be entitled, *Charles Baudelaire: A Lyric Poet in the Era of High Capitalism*. The development of this process, whereby a primal history of the nineteenth century gradually morphed into a book on Baudelaire and ‘high capitalism’, may be represented, diagrammatically, as follows.
 
-> | PARIS—CAPITAL OF THE NINETEENTH CENTURY (1939 Exposé) |   |   |
-> | --- | --- | --- |
-> | A. | Fourier, or the Arcades |   |
-> | (+) | [Daguerre, or the Panorama—only in the 1935 version] |   |
-> | B. | Grandville, or the World Exhibitions |   |
-> | C. | Louis Philippe, or the Interior |   |
-> | D. | Baudelaire, or the Streets of Paris ↳ | *Charles Baudelaire, A Lyric Poet in the Era of High Capitalism* |
-> | 1. | [Baudelaire as Allegorist] |   |
-> | 2. | The Paris of the 2nd Empire in Baudelaire i. | The Bohème |
-> | ii. | The Flaneur* |   |
-> | iii. | The Modern |   |
-> | 3. | [The Commodity as Poetic Object]** |   |
-> | E. | Haussmann, or the Barricades |   |
+> | PARIS—CAPITAL OF THE NINETEENTH CENTURY (1939 Exposé) |   |
+> | --- | --- |
+> | A. | Fourier, or the Arcades |
+> | (+) | [Daguerre, or the Panorama—only in the 1935 version] |
+> | B. | Grandville, or the World Exhibitions |
+> | C. | Louis Philippe, or the Interior |
+> | D. | Baudelaire, or the Streets of Paris <table class="nobottommargin"> <tbody> <tr> <td rowspan="4">&#8627;</td> <td colspan="2"><em>Charles Baudelaire, A Lyric Poet in the Era of High Capitalism</em></td> </tr> <tr> <td>1.</td> <td>[Baudelaire as Allegorist]</td> </tr> <tr> <td>2.</td> <td>The Paris of the 2nd Empire in Baudelaire <table class="cell-rl nobottommargin"> <tbody> <tr> <td>i.</td> <td>The Boh&egrave;me</td> </tr> <tr> <td>ii.</td> <td>The Flaneur*</td> </tr> <tr> <td>iii.</td> <td>The Modern</td> </tr> </tbody> </table> </td> </tr> <tr> <td>3.</td> <td>[The Commodity as Poetic Object]**</td> </tr> </tbody> </table> |
+> | E. | Haussmann, or the Barricades |
 >
 > | * | Expanded and published as ‘Some Motifs in Baudelaire’ (1940) |
 > | --- | --- |

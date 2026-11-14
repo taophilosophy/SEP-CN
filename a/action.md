@@ -12,7 +12,7 @@
 
 行动哲学的中心问题通常被认为是：“是什么使某物成为一个行动？”然而，我们据以区分行动的对照类取什么，就会得到该问题的不同版本。这些问题反过来各自编码了重要的预设。首先，我们可以把该问题理解为要求区分意向行动与前文考虑的行动与活动概念（参见 Hyman 2015）[^hyman-2015]。但更常见的是按维特根斯坦的经典提法来取：“如果我从‘我的手臂抬起’这一事实中减去‘我举起我的手臂’这一事实，剩下的是什么？”（1953 [2010], §621）。对这段话一种常见（虽有争议）的读法是：存在某些“手臂抬起”的事件是行动，另一些则不是（例如有人在我睡觉时挠我）。行动比挠痒导致的事件多出的那个要素是什么？
 
-许多历史的与当代的思想家都希望恰好回答这个问题。一个简单答案——在近代早期很常见（如 Descartes 1641 AT VII 57; Hobbes 1651/1668, i.6; Hume 1739–1740 T II.3.iii; SB 413–18）[^descartes-1641][^hobbes-1651][^hume-1739]——是：行动区别于其他事件之处在于它们是欲望、意志行为或意志行动的因果产物。这一观点的现代版本——下文考虑——转而诉诸意图，后者被视为独特的心灵状态。尽管这些“标准”答案在直观上有吸引力，但人们日益担心它们基于可争议的假定。第一，有一个关于行动所属的形而上学范畴的假定。虽然很自然把它们当作事件，一些哲学家已论证有好的理由把它们归入别的范畴。第二，对维特根斯坦问题的常见读法预设了所谓“叠加式”或“分解式”的行动概念（Ford 2011; Lavin 2015, 2013；参见 Boyle 2016）[^boyle-2016][^ford-2011][^lavin-2015]：它假定可以用不同的、更简单的成分给出行动的说明。然而，不少作者已论证这一还原工程注定失败（Anscombe 1995; Vogler 2001; O'Brien 2012; Levy 2013; Horst 2015; Valaris 2015; Della Rocca 2020, ch.4）[^anscombe-1995][^della-2020][^horst-2015][^levy-2013][^o'brien-2012][^valaris-2015][^vogler-2001]。
+许多历史的与当代的思想家都希望恰好回答这个问题。一个简单答案——在近代早期很常见（如 Descartes 1641 AT VII 57; Hobbes 1651/1668, i.6; Hume 1739–1740 T II.3.iii; SB 413–18）[^descartes-1641][^hobbes-1651][^hume-1739]——是：行动区别于其他事件之处在于它们是欲望、意志行为或意志行动的因果产物。这一观点的现代版本——下文考虑——转而诉诸意图，后者被视为独特的心灵状态。尽管这些“标准”答案在直观上有吸引力，但人们日益担心它们基于可争议的假定。第一，有一个关于行动所属的形而上学范畴的假定。虽然很自然把它们当作事件，一些哲学家已论证有好的理由把它们归入别的范畴。第二，对维特根斯坦问题的常见读法预设了所谓“叠加式”或“分解式”的行动概念（Ford 2011; Lavin 2015, 2013；参见 Boyle 2016）[^boyle-2016][^ford-2011][^lavin-2015]：它假定可以用不同的、更简单的成分给出行动的说明。然而，不少作者已论证这一还原工程注定失败（Anscombe 1995; Vogler 2001; O'Brien 2012; Levy 2013; Horst 2015; Valaris 2015; Della Rocca 2020, ch.4）[^anscombe-1995][^della-2020][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001][^o'brien-2012]。
 
 也有人主张：给出标准答案的哲学家做了重要的方法论假定。这些哲学家处理关于能动性的问题时，仿佛它们与科学问题处于同一层次：他们寻求对能动性的机械的或因果的解释，即可以从客观视角把握的解释。然而，受康德启发的一些哲学家主张行动哲学应当从行动者的视角来做（Nagel 1989; Korsgaard 2009; Bilgrami 2012; Schapiro 2021）[^bilgrami-2012][^korsgaard-2009][^nagel-1989][^schapiro-2021]；另一些受亚里士多德与弗雷格启发的哲学家提出了类似主张（Thompson 2008; Lavin 2013; Ford 2017）[^ford-2017][^thompson-2008]。从另一个立场看，标准方法论又被批评为不够科学。有人论证：某些经验结果否证了这些答案背后的基本假定。例如，利贝特的实验被认为暗示意图在因果上无效力，而要理解行动的真实原因，我们将不得不聚焦于只能通过标准科学方法了解的神经过程（“动作电位”）（Libet 1985; Libet et al. 1993）[^libet-1985][^libet-1993]。虽然这些激进的观点如今被广泛认为基于有缺陷的概念与经验根据（如 Mele 2010; Levy 2005; Brass, Furstenberg, and Mele 2019）[^brass-2019][^levy-2005][^mele-2010]，令人意外的科学结果仍在挑战行动哲学的通行看法（对近期发现的批判性讨论见 Wegner 2002 与 Nahmias 2014）[^nahmias-2014][^wegner-2002]。
 
@@ -62,7 +62,7 @@
 
 另一策略由“经验上知情的”哲学家发展：他们主张，关注认知层面实现的控制机制的细节，可以回应偏差问题。例如，有人论证偏差案例涉及注意的缺乏（Wu 2016）、运动意图（相对于远端与近端意图）在细粒度层面的失败（Mylopoulos and Pacherie 2019）[^mylopoulos-2019]、或负责灵活能动性的因果通路的失败（Shepherd 2021）[^shepherd-2021]。
 
-不用说，偏差问题没有公认的解决方案（对解决方案可能性的一般怀疑论见 Anscombe 1995; Vogler 2001; O'Brien 2012; Levy 2013; Horst 2015; Valaris 2015）[^anscombe-1995][^horst-2015][^levy-2013][^o'brien-2012][^valaris-2015][^vogler-2001]；另一方面，哲学家也论证：相互竞争的说明也遭受与行动理论的偏差因果平行的问题（Paul 2011b）[^paul-2011b]。
+不用说，偏差问题没有公认的解决方案（对解决方案可能性的一般怀疑论见 Anscombe 1995; Vogler 2001; O'Brien 2012; Levy 2013; Horst 2015; Valaris 2015）[^anscombe-1995][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001][^o'brien-2012]；另一方面，哲学家也论证：相互竞争的说明也遭受与行动理论的偏差因果平行的问题（Paul 2011b）[^paul-2011b]。
 
 ## 3 延展行动
 
@@ -160,7 +160,7 @@
 
 属于 (ii) 的观点已被多位作者有影响地辩护（Grice 1971; Harman 1986; 1997; Setiya 2007; 2008; 2009; 2012; Velleman 2001; Tenenbaum 2007; Ross 2009; Clark 2020）[^clark-2020][^grice-1971][^ross-2009][^setiya-2007][^tenenbaum-2007]。这类观点的一个流行版本以信念条件取代知识条件（Setiya 2007; Velleman 2001; Ross 2009; Clark 2020）[^clark-2020][^ross-2009][^setiya-2007]：如果行动者有意地 φ［意欲 φ］，她相信自己在 φ-ing［相信她将 φ］。这样的观点可以说得到安斯康姆自己某些论证（如上文会话动力学论证）的更好支持；而且它似乎保住了行动的特殊地位——作为公共的发生，而我们的心灵与之处于特殊的认识关系。然而，有人论证这类观点同样有问题，而且尽管解释力较弱，仍未能避免与戴维森复写者同结构的反例（Bratman 1991; Paul 2009a; 2009b; Levy 2018）[^bratman-1991][^levy-2018][^paul-2009a]。既然像 Setiya 这样的作者把避免反例视为弱化的核心收益，这些弱化在解释价值上的代价是否值得，就不清楚了。
 
-最后，属于 (iii) 的观点力图表明：即便在行动与实践知识之间没有 **蕴含** 关系，两者之间可能仍有有意思的联系。例如，一些作者论证行动者 **通常** 或 **一般** 知道自己在做什么（Peacocke 2003; O'Brien 2007; Gibbons 2010; Schwenkler 2015; 2019; Piñeros Glasscock 2020b）[^gibbons-2010][^o'brien-2007][^peacocke-2003][^piñeros-2020b][^schwenkler-2015]；或者行动者对其意向行动具有的那种知识有特殊性质，如第一人称性（Dunn 1998; Moran 2001; 2004; O'Brien 2007; Marcus 2012; Schwenkler 2019）[^dunn-1998][^marcus-2012][^o'brien-2007][^schwenkler-2019]。
+最后，属于 (iii) 的观点力图表明：即便在行动与实践知识之间没有 **蕴含** 关系，两者之间可能仍有有意思的联系。例如，一些作者论证行动者 **通常** 或 **一般** 知道自己在做什么（Peacocke 2003; O'Brien 2007; Gibbons 2010; Schwenkler 2015; 2019; Piñeros Glasscock 2020b）[^gibbons-2010][^o’brien-2007][^peacocke-2003][^piñeros-2020b][^schwenkler-2015][^o'brien-2007]；或者行动者对其意向行动具有的那种知识有特殊性质，如第一人称性（Dunn 1998; Moran 2001; 2004; O'Brien 2007; Marcus 2012; Schwenkler 2019）[^dunn-1998][^marcus-2012][^o’brien-2007][^schwenkler-2019][^o'brien-2007]。
 
 ### 4.5 实践知识的可能性
 
@@ -172,9 +172,9 @@ Velleman（1989）在奠基性工作中提供了此类有影响的说明。略�
 
 对 Velleman 的观点已提出几个担忧。其一，它做了可疑的经验断言，属于从扶手椅出发的理论化。作为回应，Velleman（2000a）为其较有争议的心理学主张——人类对自我认识有深层欲望——提供了经验支持。另一个担忧是：这一认识机制看起来仍太像一厢情愿——仅仅因为想要某事为真就相信它为真（Langton 2004；回应见 Setiya 2008; Velleman 2014）[^langton-2004][^setiya-2008][^velleman-2014]。最后，不清楚的是：如果行动者意识到其意图的内容未实现，她为什么必须使它成真，而不是干脆放弃信念（她将以某种方式行动的信念）。毕竟，我们可以通过确保关于自己的信念为真 **以及** 放弃关于自己的假信念，来追求认识自己这一目的。
 
-这类担忧促使 Velleman 区分“引导性”与“接受性”认知（Velleman 2000, ch.7）；但也使另一些人考虑另一种观点：实践知识是一种标准的推理知识（Grice 1971; O'Shaughnessy 1980, 2003; Paul 2009a）[^grice-1971][^o'shaughnessy-1980][^paul-2009a]。在最精致的推理论说明——Paul（2009a）提出——中，行动者利用其对意图的特殊知识来推理正在发生与将要发生的事。鉴于意图被可靠地执行，这类推理可靠地产生知识。一个更激进的推理论替代方案——由 Carruthers（2011）等基于经验证据提出——是：我们对自己的行动的认识，凭的是我们认识他人心灵的同一过程：我们本质上是在预测哪些行动最可能发生——依据我们对他人动机与信念的所知；只不过我们对自身心灵知道得多得多。（关于一般自我认识的类似观点由 Gopnik 1993 辩护，其源头在 Ryle 1949。批评见 Boyle 2022; Levy 2022。）[^boyle-2022][^gopnik-1993][^levy-2022][^ryle-1949]
+这类担忧促使 Velleman 区分“引导性”与“接受性”认知（Velleman 2000, ch.7）；但也使另一些人考虑另一种观点：实践知识是一种标准的推理知识（Grice 1971; O'Shaughnessy 1980, 2003; Paul 2009a）[^grice-1971][^o’shaughnessy-1980][^paul-2009a][^o'shaughnessy-1980]。在最精致的推理论说明——Paul（2009a）提出——中，行动者利用其对意图的特殊知识来推理正在发生与将要发生的事。鉴于意图被可靠地执行，这类推理可靠地产生知识。一个更激进的推理论替代方案——由 Carruthers（2011）等基于经验证据提出——是：我们对自己的行动的认识，凭的是我们认识他人心灵的同一过程：我们本质上是在预测哪些行动最可能发生——依据我们对他人动机与信念的所知；只不过我们对自身心灵知道得多得多。（关于一般自我认识的类似观点由 Gopnik 1993 辩护，其源头在 Ryle 1949。批评见 Boyle 2022; Levy 2022。）[^boyle-2022][^gopnik-1993][^levy-2022][^ryle-1949]
 
-推理论说明放弃了安斯康姆实践知识理解的一个核心特征：其直接性（如 O'Brien 2007）[^o'brien-2007]。不过，Paul（2009a）论证：直接性的表象可以由如下事实解释——推理“可以在非意识的层面快速而自动地发生，无需有意识地考虑前提或得出结论的感受”（p.10）。然而，推理论说明已遭到若干挑战，包括：(i) 它们无法解释意向行动与实践知识之间的紧密联系（Setiya 2007, 2008, 2009）[^setiya-2007]；(ii) 它们无法解释实践知识的第一人称性（Wilson 2000; Schwenkler 2012）[^schwenkler-2012][^wilson-2000]；(iii) 它们至多给我们异化的、观察性的知识（Piñeros Glasscock 2021）[^piñeros-2021]。
+推理论说明放弃了安斯康姆实践知识理解的一个核心特征：其直接性（如 O'Brien 2007）[^o’brien-2007][^o'brien-2007]。不过，Paul（2009a）论证：直接性的表象可以由如下事实解释——推理“可以在非意识的层面快速而自动地发生，无需有意识地考虑前提或得出结论的感受”（p.10）。然而，推理论说明已遭到若干挑战，包括：(i) 它们无法解释意向行动与实践知识之间的紧密联系（Setiya 2007, 2008, 2009）[^setiya-2007]；(ii) 它们无法解释实践知识的第一人称性（Wilson 2000; Schwenkler 2012）[^schwenkler-2012][^wilson-2000]；(iii) 它们至多给我们异化的、观察性的知识（Piñeros Glasscock 2021）[^piñeros-2021]。
 
 最后，还有若干非推理论的说明，解释实践知识如何可能。一些说明诉诸知道如何或技能，作为意图确保其内容不仅为真、而且有辩护（从而构成知识）的状态（Setiya 2012; Small 2012; Valaris 2021）[^setiya-2012][^small-2012][^valaris-2021]。另一观点由 O'Brien（2007）提出，以慎感能力的施行解释实践知识。行动者知道自己在做什么，因为行动的选择是通过那些按行动者的实践可能性收窄选项的能力的施行而完成的。另一些人认为实践知识是推理性的，但所涉推理是实践推理。按这种看法，实践知识由构成行动者实践推理的实践考量提供辩护（Harman 1997; Tenenbaum 2007; Ross 2009; Marušić and Schwenkler 2018; Campbell 2018; Frey 2019）[^campbell-2018][^harman-1997][^marušić-2018][^ross-2009][^tenenbaum-2007]。最后，一些人试图表明：为解释我们如何能直接基于知觉而相信而设计的认识辩护或认识性应得（entitlement）说明，或许能解释我们如何能直接基于我们的意志而相信（Peacocke 2003; Newstead 2006; Piñeros Glasscock 2020a）[^newstead-2006][^peacocke-2003][^piñeros-2020a]。正如这一简短而不完整的总结所示，关于如何最好地解释实践知识的认识地位，尚无接近共识的东西。
 
@@ -324,7 +324,7 @@ $\exists x(\textrm{Buttering}(x) \mathbin{\&} \textrm{由}(x, \textrm{Donald}) \
 
 例如，如果做 *A* 必须先做 *B*，做 *B* 必须先做 *C*，如此 *ad infinitum*，那么做任何事似乎都需要做无限多件事。更令人担忧的是，行动的开端对行动者而言似乎“在逻辑上不可及”：在开始做任何事之前，总有另一件她必须先做的事（Danto 1979, 471）[^danto-1979]。再者，行动者要知道自己现在在做什么，似乎就需要知道她借以做此事的那些事怎么做；但除非有某种她仅仅通过做它就知道怎么做的东西，她就不可能知道自己在做什么（Hornsby 2013）[^hornsby-2013]。
 
-这类论证使大多数学者相信必须有基本行动（但早期异议见 Baier 1971 与 Sneddon 2001）[^baier-1971][^sneddon-2001]。争论于是聚焦于 **哪些** 行动是基本的。许多学者主张简单的身体移动——如移动一根手指或扬一下眉毛——是基本的；另一些人主张它们可以更复杂（系鞋带），或者必须更简单：或许只有心理行动，或尝试（tryings）才是基本的。毕竟，我通过试图移动手指而移动它；而且我们需要区分尝试与移动，因为有时尝试发生而移动没有发生（例如如果我的手指突然瘫痪）（Prichard 1945; Hornsby 1980; O'Shaughnessy 1980；批评见 Cleveland 1997, ch.5）[^cleveland-1997][^hornsby-1980][^o'shaughnessy-1980][^prichard-1945]。
+这类论证使大多数学者相信必须有基本行动（但早期异议见 Baier 1971 与 Sneddon 2001）[^baier-1971][^sneddon-2001]。争论于是聚焦于 **哪些** 行动是基本的。许多学者主张简单的身体移动——如移动一根手指或扬一下眉毛——是基本的；另一些人主张它们可以更复杂（系鞋带），或者必须更简单：或许只有心理行动，或尝试（tryings）才是基本的。毕竟，我通过试图移动手指而移动它；而且我们需要区分尝试与移动，因为有时尝试发生而移动没有发生（例如如果我的手指突然瘫痪）（Prichard 1945; Hornsby 1980; O'Shaughnessy 1980；批评见 Cleveland 1997, ch.5）[^cleveland-1997][^hornsby-1980][^o’shaughnessy-1980][^prichard-1945][^o'shaughnessy-1980]。
 
 正如多位学者指出，这场争论的部分症结在于“基本性”概念各不相同，各自对应于对“通过做别的事”这一从句的不同理解（Baier 1971; Annas 1978; Hornsby 1980）[^annas-1978][^baier-1971][^hornsby-1980]。常见的三分是：(i) 知其如何的基本性；(ii) 因果的基本性；(iii) 目的论的基本性。一个行动之所以在知其如何方面是基本的，当且仅当没有别的（类型）行动可供行动者借以知道如何做所论行动。一个行动是因果地基本的，当且仅当没有别的（个例）行动引起它。一个行动在目的论的意义上是基本的，当且仅当没有别的（个例）行动可供行动者借以做它。为凸显差别而举例：考虑投掷棒球。可以说，这一行动在知其如何的意义上是基本的，因为投手可能不知道借以做它的更基本行动。当然，行动者可能知道如何独立地移动自己的手；但除非她真的在投球，她可能无法以投棒球时那种特定方式移动自己的手。该行动是否因果地基本，取决于我们是否认为有另一个行动引起它，如投手的手的移动。最后，独立于因果问题，该行动似乎在目的论上并非基本。投手移动手，这无疑是投球的手段，也是借以投球的一个行动。多年的共识是：在所有三种意义上都必须有基本行动。
 
@@ -825,6 +825,11 @@ Setiya 对“行动有构成性目的”的观念提出了几个重要挑战。�
 [^nefsky-2022]: Nefsky, Julia, and Sergio Tenenbaum, 2022, “Extended Agency and the Problem of Diachronic Autonomy”, in Carla Bagnoli (ed.), *Time in Action*, New York: Routledge, pp. 173–195.
 
 [^newstead-2006]: Newstead, Anne, 2006, “Knowledge by Intention? On the Possibility of Agent's Knowledge”, in Stephen Hetherington (ed.), *Aspects of Knowing*, Amsterdam: Elsevier Science.
+[^o’brien-2012]: O’Brien, Lilian, 2012, “Deviance and Causalism”, *Pacific Philosophical Quarterly*, 93 (2): 175–196.
+[^o’brien-2007]: O’Brien, Lucy, 2007, *Self-knowing agents*, Oxford: Oxford University Press.
+[^o’connor-2022]: O’Connor, Timothy and Christopher Franklin, 2022, “Free Will”, *The Stanford Encyclopedia of Philosophy* (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2022/entries/freewill/](https://plato.stanford.edu/archives/sum2022/entries/freewill/)>.
+[^o’shaughnessy-1980]: O’Shaughnessy, Brian, 1980, *The Will*, Cambridge: Cambridge University Press.
+[^o’shaughnessy-nd]: –––, “The Epistemology of Physical Action”, in Johannes Roessler and Naomi Eilan (eds.), *Agency and Self-Awareness: Issues in Philosophy and Psychology*, Oxford: Clarendon Press, pp. 345–357.
 
 [^o'brien-2012]: O'Brien, Lilian, 2012, “Deviance and Causalism”, *Pacific Philosophical Quarterly*, 93 (2): 175–196.
 

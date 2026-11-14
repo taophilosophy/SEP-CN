@@ -396,7 +396,14 @@ A tree diagram of three tiers
 - $3,0$ (link back is bold and labeled with a capitalized “Left”
 - Player *E* (link back is labeled with a capitalized “Right”
 - $0,2$ (link back is bold and labeled with a lowercase “left”
-- This node is a table   *E* *A* $4,4$ $1,0$ $1,0$ $2,2$ (the link back is labeled “right”)
+- This node is a table
+
+  |   | *E* |   |
+  | --- | --- | --- |
+  | *A* | $4,4$ | $1,0$ |
+  | $1,0$ | $2,2$ |   |
+
+  (the link back is labeled “right”)
 
 ### Figure 23 description
 

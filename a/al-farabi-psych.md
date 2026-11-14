@@ -10,9 +10,9 @@
 
 法拉比在其最著名的入门著作之一《科学枚举》（*Iḥṣāʾ al-ʿUlūm*）中解释说，物理学这门科学的第八部分专门讨论各种动物所共同具有的东西，即灵魂，它在亚里士多德的《动物志》和《论灵魂》中被研究。法拉比像亚里士多德在《论灵魂》2.1、412a19 中那样描述灵魂，即把它描述为一个潜在地具有生命的自然有机体的形式或现实化（ἐντελέχεια / *antālāshiyā* 或 *at-tamām*）。[^note-1] 生物具有不同的官能：营养官能、感觉官能、欲求官能和理性官能。这些能力在生物中的存在，是由于不同种类的灵魂。这些灵魂及其能力的起源，法拉比从形而上学、宇宙论和生物学的角度加以解释。
 
-事实上，法拉比的整个哲学，包括他的心理学和认识论观点，都必须依据他的本体论和宇宙论世界观来理解，而这一点一直是相当大的争论之源。在《政治体制》和《德性城邦》中，法拉比提供了对宇宙结构的形而上学和本体论说明，把新柏拉图主义的流溢论与亚里士多德关于天球的观点结合起来（M. Mahdi 2001: 6–11; 121–124）。另一些论者主张，法拉比在这两部论著中关于这些问题的叙述不应从字面上理解，而应视为一种政治隐喻，喻指政治哲学中可设想的那类政体。相反，P. Vallat 和 D. Janos 驳斥了这一观点，并表明法拉比的宇宙论远非纯粹的修辞策略，而是构成其政治思想的基础。虽然这些不同的进路引发了关于法拉比哲学的有争议的解释，但本文赞同 Vallat（2004: 85–128）和 Janos（2012: 38–43）的解释。把法拉比的宇宙论视为其哲学的真实组成部分，对于理解他的哲学心理学具有重大意义：不理解他的宇宙论模型，就无法理解他的灵魂和理智概念。这样一来便清楚可见，他的心理学和宇宙论合在一起，推动了他的政治哲学。
+事实上，法拉比的整个哲学，包括他的心理学和认识论观点，都必须依据他的本体论和宇宙论世界观来理解，而这一点一直是相当大的争论之源。在《政治体制》和《德性城邦》中，法拉比提供了对宇宙结构的形而上学和本体论说明，把新柏拉图主义的流溢论与亚里士多德关于天球的观点结合起来（M. Mahdi 2001: 6–11; 121–124）[^mahdi-2001]。另一些论者主张，法拉比在这两部论著中关于这些问题的叙述不应从字面上理解，而应视为一种政治隐喻，喻指政治哲学中可设想的那类政体。相反，P. Vallat 和 D. Janos 驳斥了这一观点，并表明法拉比的宇宙论远非纯粹的修辞策略，而是构成其政治思想的基础。虽然这些不同的进路引发了关于法拉比哲学的有争议的解释，但本文赞同 Vallat（2004: 85–128）和 Janos（2012: 38–43）的解释。把法拉比的宇宙论视为其哲学的真实组成部分，对于理解他的哲学心理学具有重大意义：不理解他的宇宙论模型，就无法理解他的灵魂和理智概念。这样一来便清楚可见，他的心理学和宇宙论合在一起，推动了他的政治哲学。
 
-正如 D. Janos（2010: 19–44）所深入揭示的，法拉比的宇宙论取材于《阿拉伯普罗克洛》（主要是《至善》，[*Elements of Theology*]），以及亚历山大、辛普里丘、忒米斯提乌斯等晚期古代注疏家，总体上取材于《阿拉伯新柏拉图主义文献》，包括《阿拉伯普罗提诺》（Janos 2012: 4–6; 11–37; D'Ancona 2014）。《政治体制》和《德性城邦》都是重建法拉比宇宙论的关键资料。这一宇宙论是一个等级制的流溢论模型，由六项原理构成：（1）第一存在者或第一因，（2）第二理智，（3）主动（或能动）理智，（4）灵魂，（5）形式，（6）质料（al-Fārābī KS: 31; PR: 29）。第一因是单一而唯一的，排除任何杂多，而其他一切原理都是杂多的。前三项原理不是物体，也不在物体之中；它们是非质料的、分离的。后三项原理不是物体，但与物体相联。注意，灵魂是通过流溢过程而产生的原理之一，它被描述为自身不是物体、却存在于物体之中的原理。法拉比解释说，宇宙包含六种物体。按完善程度递减，它们是：（1）天体，（2）理性动物，（3）非理性动物，（4）植物，（5）矿物，（6）四元素（al-Fārābī KS: 31; PR: 29）。
+正如 D. Janos（2010: 19–44）所深入揭示的，法拉比的宇宙论取材于《阿拉伯普罗克洛》（主要是《至善》，[*Elements of Theology*]），以及亚历山大、辛普里丘、忒米斯提乌斯等晚期古代注疏家，总体上取材于《阿拉伯新柏拉图主义文献》，包括《阿拉伯普罗提诺》（Janos 2012: 4–6; 11–37; D'Ancona 2014）[^d’ancona-2014][^janos-2012]。《政治体制》和《德性城邦》都是重建法拉比宇宙论的关键资料。这一宇宙论是一个等级制的流溢论模型，由六项原理构成：（1）第一存在者或第一因，（2）第二理智，（3）主动（或能动）理智，（4）灵魂，（5）形式，（6）质料（al-Fārābī KS: 31; PR: 29）。第一因是单一而唯一的，排除任何杂多，而其他一切原理都是杂多的。前三项原理不是物体，也不在物体之中；它们是非质料的、分离的。后三项原理不是物体，但与物体相联。注意，灵魂是通过流溢过程而产生的原理之一，它被描述为自身不是物体、却存在于物体之中的原理。法拉比解释说，宇宙包含六种物体。按完善程度递减，它们是：（1）天体，（2）理性动物，（3）非理性动物，（4）植物，（5）矿物，（6）四元素（al-Fārābī KS: 31; PR: 29）。
 
 按照法拉比所描述的流溢（*fayḍ*）过程，每一个存在者的存在都来自第一存在者（*mawjūd al-awwal*）。第一存在者是完善的、永恒的、永存的、不被引起的、无质料也无形式的，自身之外没有任何目的或目标，没有同伴或对立者，而且不可分（al-Fārābī VC: 56–89）。第一存在者因其单一性（这正是它的本质）而区别于其他一切存在者。这一描述似乎非常接近新柏拉图主义关于“太一”的概念，但并不完全相同。法拉比反而主张，既然这一第一存在者不在质料之中、也没有质料，它应当是一个现实理智（*ʿaql biʾl-fiʿl*）。第一存在者也是可通过其实体而被理知的（*maʿqūl*），它的同一性就在于同时是其自身理智活动的活动、主体和对象（al-Fārābī VC: 70–71）。这一描述基于亚里士多德在《形而上学》Λ 卷中对不动推动者的刻画，即把它刻画为思想自身的思想。
 
@@ -56,17 +56,17 @@
 
 当一个人具有非常强大的想象官能，强大到不再局限于向其他官能提供影像，它便自由地通过摹仿经验具有极致美和完善的可感物。想象官能所能达到的最高完善等级，恰是一个人获得预言，或意识到当下或未来事件，以及能够看见荣耀者或神圣存在者的能力。这可以借助当下与未来的个别事物以及神圣存在者的超越可理知者来实现，两者都由主动理智授予。然而，法拉比还论述了这一最完善的视觉成就之下的一系列较低等级，每一级都比前一级更不完善，判据是视觉发生在清醒还是睡眠状态，以及该个体通达的是个别事物还是可理知者。按照法拉比，最常见的视觉类型，是那些在睡眠状态下接受个别事物的人。
 
-尽管法拉比关于想象官能的概念偏离亚里士多德的观点，但它结合了来自希腊化传统和中柏拉图主义传统的某些要素，正如 Walzer（1957: 142–148）所指出的，这些要素可能取自波菲利和普罗克洛。其结果是对预言和占卜的心理学说明。近年来，研究亚里士多德《论睡眠中的占卜》阿拉伯文本的学者（Hansberger 2008: 73–74; 2010: 158）提出，这部著作是理解伊斯兰哲学预言观（包括法拉比的预言观）的重要资料来源。阿拉伯文的《论睡眠中的占卜》是亚里士多德文本的窜改版本，它在新柏拉图主义形而上学框架内提供了对真实梦的不同说明，在这一框架中，一个普遍的理智分发真实梦，一些具有出众心理能力的人能够接收并解释它们。[^note-4] 尽管法拉比的《德性城邦》没有明确提及《论睡眠中的占卜》，但两部论著之间有明显的相似之处。
+尽管法拉比关于想象官能的概念偏离亚里士多德的观点，但它结合了来自希腊化传统和中柏拉图主义传统的某些要素，正如 Walzer（1957: 142–148）所指出的，这些要素可能取自波菲利和普罗克洛。其结果是对预言和占卜的心理学说明。近年来，研究亚里士多德《论睡眠中的占卜》阿拉伯文本的学者（Hansberger 2008: 73–74; 2010: 158）[^hansberger-2008]提出，这部著作是理解伊斯兰哲学预言观（包括法拉比的预言观）的重要资料来源。阿拉伯文的《论睡眠中的占卜》是亚里士多德文本的窜改版本，它在新柏拉图主义形而上学框架内提供了对真实梦的不同说明，在这一框架中，一个普遍的理智分发真实梦，一些具有出众心理能力的人能够接收并解释它们。[^note-4] 尽管法拉比的《德性城邦》没有明确提及《论睡眠中的占卜》，但两部论著之间有明显的相似之处。
 
 ## 4 理智学说
 
-前面已经提到，人类正是通过理智认识可理知者、获得各门科学和各种技艺，并辨别和反思实践事务。在《论理智》（拉丁文名为 *De intellectu*；Ramón Guerrero 2018）中，法拉比完整地说明了“理智”（*ʿaql*；νοῦς，intellect or reason）一词的种种含义，从（1）大多数人对该词的使用开始，然后（2）伊斯兰神学家使用它的方式，最后（3）它在亚里士多德著作中的不同含义，具体说在《后分析篇》《尼各马可伦理学》《论灵魂》和《形而上学》中（al-Fārābī LI: 3–4; OI: 68）。
+前面已经提到，人类正是通过理智认识可理知者、获得各门科学和各种技艺，并辨别和反思实践事务。在《论理智》（拉丁文名为 *De intellectu*；Ramón Guerrero 2018）[^ramón-2018]中，法拉比完整地说明了“理智”（*ʿaql*；νοῦς，intellect or reason）一词的种种含义，从（1）大多数人对该词的使用开始，然后（2）伊斯兰神学家使用它的方式，最后（3）它在亚里士多德著作中的不同含义，具体说在《后分析篇》《尼各马可伦理学》《论灵魂》和《形而上学》中（al-Fārābī LI: 3–4; OI: 68）。
 
 大多数人用“理智”（*ʿaql*）一词来描述这样一种能力：它使人能够通过权衡辨别哪些行为是德性的、哪些不是。这第一种含义非常接近亚里士多德的明智概念。同样，伊斯兰神学家用该词指那些被普遍或大多数人所接受或拒斥的行为。就本文的目的而言，更重要的是该词在亚里士多德文集中各种含义。按照法拉比，在《后分析篇》2.19 中，“理智”被理解为灵魂的一种官能，凭借它获得关于必然的、真的、普遍的前提的确实性。这类前提不是通过三段论达到的，而是以先前的方式呈现于主体之中，或者是出于自然，或者是在人毫不知晓这些前提是如何获得的情况下。因此，这一官能是灵魂的某个部分，人类借此通达理论科学的第一原理。我将在本文最后一节详细论及该词的这一用法（al-Fārābī LI: 5–9; OI: 69–70）。
 
-在《尼各马可伦理学》6.6 中，亚里士多德用 νοῦς 一词指灵魂的一个部分，即明智（φρόνησις / *taʿaqqul*），即通过经验把握实践事务之原理的能力。诚然，正如亚里士多德谈到理论科学的第一原理，他主张——法拉比在他之后也如此主张——实践科学也有第一原理。[^note-5] 另一种含义见于《论灵魂》3.4，按照法拉比，亚里士多德在那里把理智分为（1）潜能理智（亦称质料理智或受动理智，*ʿaql bi-l-quwwah*），（2）现实理智或现实性理智（*ʿaql biʾl-fiʿl*），（3）获得理智（*ʿaql al-mustafāḍ*），（4）主动或能动理智（*ʿaql al-faʿʿāl*）（al-Fārābī LI: 9–11; LC: 215; OI: 70–71）。注意，这些阶段并不见于亚里士多德的《论灵魂》，而见于亚历山大的《论理智》。正如好几位学者所指出的（Davidson 1992: 48–63 & 65–70; Geoffroy 2002: 191–231; Vallat 2004: 33–42; López-Farjeat 2022），这正是证明法拉比大量取材于亚历山大的方面之一。最后，按照法拉比的说明，在《形而上学》Λ 卷中，亚里士多德把存在物的第一原理称为第一理智（al-Fārābī LI: 35–36; OI: 78）。
+在《尼各马可伦理学》6.6 中，亚里士多德用 νοῦς 一词指灵魂的一个部分，即明智（φρόνησις / *taʿaqqul*），即通过经验把握实践事务之原理的能力。诚然，正如亚里士多德谈到理论科学的第一原理，他主张——法拉比在他之后也如此主张——实践科学也有第一原理。[^note-5] 另一种含义见于《论灵魂》3.4，按照法拉比，亚里士多德在那里把理智分为（1）潜能理智（亦称质料理智或受动理智，*ʿaql bi-l-quwwah*），（2）现实理智或现实性理智（*ʿaql biʾl-fiʿl*），（3）获得理智（*ʿaql al-mustafāḍ*），（4）主动或能动理智（*ʿaql al-faʿʿāl*）（al-Fārābī LI: 9–11; LC: 215; OI: 70–71）。注意，这些阶段并不见于亚里士多德的《论灵魂》，而见于亚历山大的《论理智》。正如好几位学者所指出的（Davidson 1992: 48–63 & 65–70; Geoffroy 2002: 191–231; Vallat 2004: 33–42; López-Farjeat 2022）[^davidson-1992][^geoffroy-2002][^lópez-farjeat-2022][^vallat-2004]，这正是证明法拉比大量取材于亚历山大的方面之一。最后，按照法拉比的说明，在《形而上学》Λ 卷中，亚里士多德把存在物的第一原理称为第一理智（al-Fārābī LI: 35–36; OI: 78）。
 
-鉴于本文的目的，对《论灵魂》的心理学语境中“理智”的说明值得更深入的考察（al-Fārābī LI: 12–35; LC: 215–221; OI: 71–78）。这一进路在《论理智》和《德性城邦》中都得到详尽的考察。在后一部著作中，有对理性或理智官能作用方式的完整说明（al-Fārābī VC: 196–211）。法拉比在说明了想象官能作为向理智提供通过感官获得的印象的东西的作用之后，接着说明这些印象成为现实可理知者的过程。追随亚里士多德和亚里士多德传统，法拉比把理智描述为自身是潜能性的，或者用亚历山大的术语说，是一种先天的“自然禀赋”（ἐπιτηδειότης / *istiʿdād*）（al-Fārābī VC: 198–199; Geoffroy 2002: 204）。这种理智常被称为“潜能理智”“质料理智”或“受动理智”，它不过是人类全体所禀赋的理性官能。
+鉴于本文的目的，对《论灵魂》的心理学语境中“理智”的说明值得更深入的考察（al-Fārābī LI: 12–35; LC: 215–221; OI: 71–78）。这一进路在《论理智》和《德性城邦》中都得到详尽的考察。在后一部著作中，有对理性或理智官能作用方式的完整说明（al-Fārābī VC: 196–211）。法拉比在说明了想象官能作为向理智提供通过感官获得的印象的东西的作用之后，接着说明这些印象成为现实可理知者的过程。追随亚里士多德和亚里士多德传统，法拉比把理智描述为自身是潜能性的，或者用亚历山大的术语说，是一种先天的“自然禀赋”（ἐπιτηδειότης / *istiʿdād*）（al-Fārābī VC: 198–199; Geoffroy 2002: 204）[^geoffroy-2002]。这种理智常被称为“潜能理智”“质料理智”或“受动理智”，它不过是人类全体所禀赋的理性官能。
 
 在《论理智》中，法拉比把质料理智（νοῦς ὑλικός，亚历山大所创造的一个希腊术语）称为灵魂或灵魂的一部分，或灵魂的官能之一，或某种处于潜能状态、能把形式从质料中抽象出来并把这些形式变成自身形式的东西（al-Fārābī LI: 12–16; LC: 215; OI: 71–72）。[^note-6] 当这些形式被抽象出来时，它们便成为质料理智的可理知者或形式。可以正确地说，对法拉比而言，质料理智就像被抽象出的形式得以产生的质料，质料理智自身成为这些被抽象出的形式，正如被印刻的对象在蜡块上留下印记。
 
@@ -78,7 +78,7 @@
 
 关于主动理智，如第一节所述，这一理智是一种分离的形式，不与质料相联，从来不曾、也永远不会与质料相联。按照法拉比，就其种而言，主动理智是一种与获得理智相当相似的现实理智。主动理智正是把质料理智转变为现实理智、把潜能可理知者转变为现实可理知者的东西。为了描述主动理智在这一过程中的协助，法拉比诉诸著名的光的类比，亚里士多德在《论灵魂》第 3 卷中曾使用这一类比，它在晚期古代和中世纪的亚里士多德注疏家中间引起了大量讨论。
 
-法拉比构建上述类比的方式呼应亚历山大和忒米斯提乌斯（Davidson 1992: 50）。法拉比把主动理智与质料理智的关系描述为太阳与视觉之间的关系（al-Fārābī LI: 24–27; LC: 218–219; OI: 74–75）。正如 H. A. Davidson（1992: 50–51）所说，这一类比建立在亚里士多德的视觉理论之上，但法拉比强调太阳是光的来源。[^note-7] 因此，法拉比把作为光源的太阳等同于主动理智，而不是等同于光本身。就此而言，按照 Davidson 的描述，来自太阳的光做四件事：（1）它进入眼睛，把其潜能视觉转变为现实视觉；（2）它使潜在地可见的颜色成为现实地可见的；（3）它自身对眼睛成为可见的；（4）它使太阳——它的来源——对眼睛成为可见的。这一类比的运作如下：（1）主动理智把质料或受动理智转变为现实性的理智；（2）它把潜能可理知者（贮存于想象官能中的感性印象）转变为现实可理知者；（3）它自身成为人类理智的一个可理知对象；（4）它使主动理智成为人类理智的一个可理知对象。凭借这一类比，法拉比暗示主动理智提供某种照明或光流，人类理智借此被现实化，从而能够通过抽象把握各种形式。
+法拉比构建上述类比的方式呼应亚历山大和忒米斯提乌斯（Davidson 1992: 50）[^davidson-1992]。法拉比把主动理智与质料理智的关系描述为太阳与视觉之间的关系（al-Fārābī LI: 24–27; LC: 218–219; OI: 74–75）。正如 H. A. Davidson（1992: 50–51）所说，这一类比建立在亚里士多德的视觉理论之上，但法拉比强调太阳是光的来源。[^note-7] 因此，法拉比把作为光源的太阳等同于主动理智，而不是等同于光本身。就此而言，按照 Davidson 的描述，来自太阳的光做四件事：（1）它进入眼睛，把其潜能视觉转变为现实视觉；（2）它使潜在地可见的颜色成为现实地可见的；（3）它自身对眼睛成为可见的；（4）它使太阳——它的来源——对眼睛成为可见的。这一类比的运作如下：（1）主动理智把质料或受动理智转变为现实性的理智；（2）它把潜能可理知者（贮存于想象官能中的感性印象）转变为现实可理知者；（3）它自身成为人类理智的一个可理知对象；（4）它使主动理智成为人类理智的一个可理知对象。凭借这一类比，法拉比暗示主动理智提供某种照明或光流，人类理智借此被现实化，从而能够通过抽象把握各种形式。
 
 通过所描述的理智活动过程，主动理智使质料中的形式越来越非质料化，并产生获得理智。既然获得理智与主动理智同属一类，人类理智便因而越来越接近主动理智。在法拉比看来，这恰是人类终极的目标和幸福（*saʿādah*），也是他们达到最终完善的途径：经由理智过程，获得理智逐渐成为这样一个实体，它凭借使自己充分实现为实体的活动而行动，并以此方式在来世（*ḥayāt al-ākhirah*）继续存在（al-Fārābī LI: 27; 31–32; LC: 219–220; OI: 75–76）。通过这一逐渐完善的进程，获得理智最终只在其自身之内活动，把它自身的活动等同于它自身的存在。当达到这一阶段时，身体不再作为其质料而为其存续所需，而最初它对于感觉和想象等活动得以发生是必需的。因此，理智所能达到的最完善状态，是它能够独立于身体而存续。然而，法拉比所理解的获得理智与能动理智之间的关系，受到阿威罗伊的严厉批评，阿威罗伊认为，设想可朽的人类之中的质料理智转变为能动理智层次上的非质料的、永恒实体，是不可能的（Averroes LCD: 387–388）。
 
@@ -98,7 +98,7 @@
 
 法拉比接着把科学知识界定为在任何给定时刻都是准确的、确实的、稳固的，这意味着它不随时间变化，也不进出存在。确实性不能包含怀疑和虚假，因为任何可能为假的东西都不能被视为确实的，也不能被称为知识。正因如此，法拉比指出，古人并不把对可变化之物的感觉视为知识；毋宁说，科学知识限于关于不可能变化之物存在的“确实性”。为了说明这一点，法拉比举出数字三永远是奇数、且不可能以别的方式为数的例子。
 
-“确实性”（*yaqīn*）的概念在法拉比的认识论中占有重要地位，并与他的逻辑技艺概念相联系。事实上，他把逻辑（*manṭiq*）理解为一种工具（*ālah*），当正确使用时导向确实性。他构想出五种逻辑技艺：证明、论辩术、诡辩术、修辞术和诗学（al-Fārābī ES: 37–45; Kleven 2023）。论辩术通过建立在公认意见之上的论证产生信念（*ẓann*）；诡辩术是使一般意见显得为真的一种逻辑技艺；修辞术借助动人的辞令来说服；诗学借助诱人或拒斥的影像来说服；最后，证明——逻辑技艺中最高的一种——借助普遍而必然的前提导向确实性。[^note-8] 非证明性的逻辑技艺——论辩术、诡辩术、修辞术和诗学——在不同程度上产生意见，而与之相反，证明产生确实性。然而，在某些地方法拉比承认，这些非证明性的技艺可能以非常接近确实性的方式导致对信念的同意（al-Fārābī KB: 20–21; BD: 64–65）。正因如此，正如 D. Black（2006: 11–45）所指出的，在法拉比那里区分“确实性”（*yaqīn*）与“绝对的确实性”（*al-yaqīn ʿalā al-iṭlāq*）十分重要。
+“确实性”（*yaqīn*）的概念在法拉比的认识论中占有重要地位，并与他的逻辑技艺概念相联系。事实上，他把逻辑（*manṭiq*）理解为一种工具（*ālah*），当正确使用时导向确实性。他构想出五种逻辑技艺：证明、论辩术、诡辩术、修辞术和诗学（al-Fārābī ES: 37–45; Kleven 2023）[^kleven-2023]。论辩术通过建立在公认意见之上的论证产生信念（*ẓann*）；诡辩术是使一般意见显得为真的一种逻辑技艺；修辞术借助动人的辞令来说服；诗学借助诱人或拒斥的影像来说服；最后，证明——逻辑技艺中最高的一种——借助普遍而必然的前提导向确实性。[^note-8] 非证明性的逻辑技艺——论辩术、诡辩术、修辞术和诗学——在不同程度上产生意见，而与之相反，证明产生确实性。然而，在某些地方法拉比承认，这些非证明性的技艺可能以非常接近确实性的方式导致对信念的同意（al-Fārābī KB: 20–21; BD: 64–65）。正因如此，正如 D. Black（2006: 11–45）所指出的，在法拉比那里区分“确实性”（*yaqīn*）与“绝对的确实性”（*al-yaqīn ʿalā al-iṭlāq*）十分重要。
 
 有两部著作法拉比详细处理绝对确实性的概念。第一部是他的《证明书》（*Kitāb al-burhān*），第二部是《确实性条件书》（*Kitāb Šaraʾiṭ al-yaqīn*）。在这两部论著中，法拉比都提出了一些绝对确实性的条件。第二部论著对这些条件作了详尽说明，共六项：（1）相信某物以某种方式而非另一种方式存在，（2）同意这一信念与事物的外部存在相符而不相悖，（3）知道关于存在的信念与事物在现实中的存在之间的对应，（4）知道这种对应不可能发生、同时又有相悖，（5）知道信念与现实之间的相悖不可能在任何时候发生，（6）知道这一切不是偶然的，而是本质的（al-Fārābī KY: 98）。按照 D. Black（2006: 16），这些条件可以理解如下：
 
@@ -109,7 +109,7 @@
 * 不存在 *p* 可以为假的时刻（永恒性条件）；以及
 * 条件 1–5 是本质地、而非偶然地成立的（非偶然性条件）。
 
-D. Black 意识到，法拉比关于确实性的前三个条件似乎唤起传统上把知识界定为“证成的真信念”的三重定义，这是当代认识论中一个本质性的、有争议的概念。然而，正如 D. Black 本人注意到的，在法拉比那里，证成条件——即“有好的理由或充分的证据相信某事”——被知识条件所取代，就此而言，知识本身成为确实性的一个必要成分，因而不足以把一种信念提升到绝对确实性的地位。正因如此，对法拉比而言，确实性要求认识者满足两个条件：（1）知道一个命题 *x* 为真，（2）知道她知道自己知道。正如 D. Black 注意到的，这非常接近当代认识论所谓的“二阶知识”（Black 2006: 19–21）。
+D. Black 意识到，法拉比关于确实性的前三个条件似乎唤起传统上把知识界定为“证成的真信念”的三重定义，这是当代认识论中一个本质性的、有争议的概念。然而，正如 D. Black 本人注意到的，在法拉比那里，证成条件——即“有好的理由或充分的证据相信某事”——被知识条件所取代，就此而言，知识本身成为确实性的一个必要成分，因而不足以把一种信念提升到绝对确实性的地位。正因如此，对法拉比而言，确实性要求认识者满足两个条件：（1）知道一个命题 *x* 为真，（2）知道她知道自己知道。正如 D. Black 注意到的，这非常接近当代认识论所谓的“二阶知识”（Black 2006: 19–21）[^black-2006]。
 
 在《证明书》中，法拉比指出，科学证明的目标恰是绝对的或必然的确实性（al-Fārābī KB: 26; BD: 68）。在一部题为《逻辑学导论书》（*Risālah ṣudira bihā al-kitāb*）的极短论著中，法拉比写道：
 
@@ -134,6 +134,44 @@ D. Black 意识到，法拉比关于确实性的前三个条件似乎唤起传�
 [^note-7]: 关于这一类比的使用，进一步讨论见 Eastwood 1979: 423–425。
 
 [^note-8]: 关于法拉比对证明的理解，见 Galston 1981: 23–34。关于法拉比在《证明书》中提出的不同类型的证明，见 Strobino 2019, 42–62。
+[^li-1938]: [LI] *Risalat fī’l-‘aql* (*Letter on the Intellect*), M. Bouyges (ed.), Beirut: Imprimerie Catholique, 1938.
+[^es-1953]: [ES] *Iḥṣā’ al-Ulūm* (*Enumeration of the Sciences*), González Palencia (ed.), Madrid/Granada: CSIC, 1953.
+[^ir-1956]: [IR] “Introductory *Risalah* on Logic”, D. M. Dunlop (trans.), *The Islamic Quarterly*, 3 (1956–57): 224–235.
+[^ks-1964]: [KS] *Kitāb al-siyāsa al-madaniyya (also Known as the Treatise on the Principles of Beings)* [or *Political Regime*], F. M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
+[^lc-1973]: [LC] “The Letter Concerning the Intellect”, A. Hyman (trans.), in *Philosophy in the Middle Ages. The Christian, Islamic, and Jewish Traditions*, Indianapolis & Cambridge: Hackett Publishing Company, 1973, pp. 215–221.
+[^vc-1985]: [VC] *Mabādi’ ārā’ ahl al-madīnah al-fāḍilah* (*al-Farabi on the Perfect State*) [also known as *The Virtuous City*], R. Walzer (trans.), Oxford: Clarendon Press, 1985.
+[^kb-1986]: [KB & KY] *Kitāb al-Burhān wa Kitāb Šarā’iṭ al-yaqīn* (*Book of Demonstration and Book on the Conditions of Certitude*), M. Fakhry (ed.), Beirut: Dar el-Machreq, 1986–1987.
+[^sa-2001]: [SA] “*Fusūl al-Madanī* (Selected Aphorisms)”, C. E. Butterworth (trans.), in *The Political Writings. Selected Aphorisms and Other Texts*, Ithaca/London: Cornell University Press, 2001, pp. 11–67.
+[^pa-2001]: [PA] “The Philosophy of Aristotle”, C. E. Butterworth (trans.), in *Philosophy of Plato and Aristotle*, Ithaca, New York: Cornell University Press, 2001, pp. 71–130.
+[^bd-2007]: [BD] “Selections from Book of Demonstration”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 63–68.
+[^oi-2007]: [OI] “On the Intellect”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 68–78.
+[^pr-2015]: [PR] “Political Regime”, C. E. Butterworth (trans.), in *The Political Writings II. “Political Regime” and “Summary of Plato’s Laws”*, Ithaca, New York: Cornell University Press, 2015, pp. 27–94.
+[^aristotle-1995]: Aristotle, *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Bollingen, 1995.
+[^averroes-2009]: Averroes, [LCD] *Averroes (Ibn Rushd) of Cordoba Long Commentary on the De Anima of Aristotle*, R. C. Taylor (trans.) & T-A. Druart (subed.), New Haven & London: Yale University Press, 2009.
+[^black-2006]: Black, D., 2006, “Knowledge (*‘ilm*) and Certitude (*yaqīn*) in al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16: 11–45.
+[^d’ancona-2014]: D’Ancona, C., 2014, “Aux Origines du *Dator Formarum*. Plotin, l’*Épître sur la Science Divine*, et al-Fārābī”, E. Coda & C. Martini Bonadeo (eds.), in *De l’Antiquité tardive au Moyen Âge*, Paris: Vrin, pp. 381–413.
+[^daiber-1997]: Daiber, H., 1997, “Salient Trends of the Arabic Aristotle”, G. Endress & R. Kruk (eds.), in *The Ancient Tradition in Christian and Islamic Hellenism: Studies on the Transmission of Greek Philosophy and Science*, Leiden, Brill, pp. 29–41.
+[^davidson-1992]: Davidson, H., 1992, *Alfarabi, Avicenna, & Averroes, on Intellect. Their Cosmologies, Theories of the Active Intellect, & Theories of Human Intellect*, New York/Oxford: Oxford University Press.
+[^druart-1981]: Druart, T-A., 1981, “al-Fārābī’s Causation of the Heavenly Bodies”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 35–45.
+[^druart-1995]: –––, 1995, “Al-Fārābī on the Practical and Speculative Aspects of Ethics”, B. C. Bazán, E. Andujar & L. G. Sbrocchi (eds.), in *Les philosophies morales et politiques au Moyen Âge. Moral and Political Philosophies in the Middle Ages*, I, New York/Ottawa/Toronto: Legas, pp. 476–485.
+[^druart-1997]: –––, 1997, “Al-Fārābī, Ethics, and First Intelligibles”, *Documenti e Studi sulla tradizione filosofica medievale*, 8: 403–423.
+[^eastwood-1979]: Eastwood, B., 1979, “Al-Farabi on Extramission, Intromission, and the Use of Platonic Visual Theory”, *Isis*, 70: 423–425.
+[^freudenthal-2003]: Freudenthal, G., 2003, “La *quiddité de l’âme*, traité populaire néoplatonisant faussement attribute à al-Fārābī: traduction annotée et commentée”, *Arabic Sciences and Philosophy*, 13: 173–237.
+[^galston-1981]: Galston, M., 1981, “Al-Farabi on Aristotle’s Theory of Demonstration”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 23–34.
+[^geoffroy-2002]: Geoffroy, M., 2002, “La tradition arabe du Περἰ νοῦ d’Alexandre d’Aphrodise et les origines de la théorie farabienne des quatre degrés de l’intellect”, C. D’Ancona & G. Serra (eds.), in *Aristotele e Alessandro di Afrodisia nella Tradizione Araba*, Padova: Il Poligrafo, pp. 191–231.
+[^hansberger-2008]: Hansberger, R., 2008, “How Aristotle Came to Believe in God-given Dreams”, L. Marlow (ed.), in *Dreaming Across Boundaries: The Interpretation of Dreams in Islamic Lands*, Washington, DC/Cambridge: Ilex Foundation/Center for Hellenic Studies, pp. 50–77.
+[^hansberger-2010]: –––, 2010, “*Kitāb al-Ḥiss wa-l-maḥsūs*: Aristotle’s *Parva Naturalia* in Arabic Guise”, C. Grellard & P.-M. Morel (eds.), in *Les Parva naturalia d’Aristote: Fortune Antique et médiévale*, Paris, Publications de la Sorbonne, pp. 143–162.
+[^janos-2010]: Janos, D., 2010, “The Greek and Arabic Proclus and al-Fārābī’s Theory of Celestial Intellection and its Relation to Creation”, *Documenti e Studi sulla tradizione filosofica medievale*, 19: 19–44.
+[^janos-2012]: –––, 2012, *Method, Structure, and Development in al-Fārābī’s Cosmology*, Leiden/Boston: Brill.
+[^kleven-2023]: Kleven, T.J., 2023, “al-Fārābī on What Is Known Prior to the Syllogistic Arts in His Introductory Letter, the Five Aphorisms, and the Book of Dialectic”, K. Krause, L.X. López-Farjeat, N. Oschamn (eds.), in *Contextualizing Premodern Philosophy. Explorations of the Greek, Hebrew, Arabic, and Latin Traditions*, New York-London: Routledge, pp. 276–92.
+[^lópez-farjeat-2022]: López-Farjeat, L.X., 2022, “Las transformaciones de la doctrina aristotélica del intelecto”, *Scripta Medievalia*, 15(1): 31–64.
+[^mahdi-2001]: Mahdi, M., 2001, *Alfarabi and the Foundation of Islamic Political Philosophy*, Chicago: The University of Chicago Press.
+[^ramón-2018]: Ramón Guerrero, R., 2018, “Sobre la traducción en el mundo árabe oriental y sobre la versión latina de la *Epístola de intellectu* de al-Fārābī”, M. Díez Yañez, C. Heusch, P. Justel & A. Saguar, in *Penser la traducción au Moyen Age*, Lyon: ENS Éditions, pp. 125–37.
+[^streetman-2008]: Streetman, W. C., 2008, “‘If it were God who sent them…’: Aristotle and al-Fārābī on Prophetic Vision”, *Arabic Sciences and Philosophy*, 18: 211–246.
+[^strobino-2019]: Strobino, R., 2019, “Varieties of Demonstration in Alfarabi”, *History and Philosophy of Logic*, 40: 42–62.
+[^taylor-2006]: Taylor, R., 2006, “Abstraction in al-Fārābī”, *Proceedings of the American Catholic Philosophical Association*, 80: 151–168.
+[^vallat-2004]: Vallat, P., 2004, *Farabi et l’École D’Alexandrie*, Paris: J. Vrin.
+[^walzer-1957]: Walzer, R., 1957, “Al-Fārābī’s Theory of Prophecy and Divination”, *The Journal of Hellenic Studies*, 77: 142–148.
 
 ## 参考文献
 

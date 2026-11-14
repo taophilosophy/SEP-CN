@@ -72,115 +72,11 @@ The radical lexicalism of typelogical grammar means there is no room for constru
 
 Sequents for the grammatical base logic **NL** are statements *X* ⇒ *A*, where *X* (the antecedent) is a structure, and *A* (the succedent) a type formula. The antecedent structure is required to be non-empty. A structure is either a single formula, or a binary branching tree with formulas at the leaves. In the sequent rules below, the tree structure of the antecedent is indicated by bracketing (–,–). The notation *X*[*Y*] refers to a structure *X* containing a distinguished substructure *Y*. For every connective (type-forming operation), there are two inference rules, introducing the connective to the left or to the right of the derivability arrow. In this sequent presentation, as in Gentzen's propositional logics, Cut is an *admissible rule*: every proof of a theorem that makes use of Cut inferences can be transformed into an equivalent cut-free derivation. Backward-chaining proof search in the cut-free system respects the subformula property and immediately yields a decision procedure.
 
-> | <table><tr>
->  <td>
->    <table style="border-spacing:0px;"> 
->    <tr> 
->    <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&nbsp;</td> 
->    </tr> 
->
->    <tr> 
->    <td style="padding:0px; text-align:center;"><em>A</em>&rArr;<em>A</em></td>
->    </tr>
->    </table>
->  </td>
->  <td valign="middle">Ax</td>
->   </tr></table> | <table><tr>
->   <td>
->      <table style="border-spacing:0px;"> 
->      <tr> 
->      <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>A</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>B</em></td> 
->      </tr> 
->
->      <tr> 
->      <td style="padding:0px; text-align:center;"><em>X</em>[<em>Y</em>]&rArr;<em>B</em></td>
->      </tr>
->      </table>
->   </td>
->   <td valign="middle">Cut</td>
->   </tr></table> |
+> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&nbsp;</td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>A</em>&rArr;<em>A</em></td> </tr> </table> </td> <td valign="middle">Ax</td> </tr></table> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>A</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>[<em>Y</em>]&rArr;<em>B</em></td> </tr> </table> </td> <td valign="middle">Cut</td> </tr></table> |
 > | --- | --- |
-> | <table><tr>
->  <td>
->    <table style="border-spacing:0px;"> 
->    <tr> 
->    <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>&rArr;<em>A</em>&nbsp;&nbsp;<em>Y</em>&rArr;<em>B</em></td> 
->    </tr> 
->
->    <tr> 
->    <td style="padding:0px; text-align:center;">(<em>X</em>,<em>Y</em>)&rArr;<em>A</em>&otimes;<em>B</em></td>
->    </tr>
->    </table>
->  </td>
->  <td valign="middle">(&otimes;<em>R</em>)</td>
->   </tr></table> | <table><tr>
->   <td>
->      <table style="border-spacing:0px;"> 
->      <tr> 
->      <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>[(<em>A</em>,<em>B</em>)]&rArr;<em>C</em></td> 
->      </tr> 
->
->      <tr> 
->      <td style="padding:0px; text-align:center;"><em>X</em>[<em>A</em>&otimes;<em>B</em>]&rArr;<em>C</em></td>
->      </tr>
->      </table>
->   </td>
->   <td valign="middle">(&otimes;<em>L</em>)</td>
->   </tr></table> |
-> | <table><tr>
->  <td>
->    <table style="border-spacing:0px;"> 
->    <tr> 
->    <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>B</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>C</em></td> 
->    </tr> 
->
->    <tr> 
->    <td style="padding:0px; text-align:center;"><em>X</em>[(<em>Y</em>,<em>B</em>\<em>A</em>)]&rArr;<em>C</em></td>
->    </tr>
->    </table>
->  </td>
->  <td valign="middle">(\<em>L</em>)</td>
->   </tr></table> | <table><tr>
->   <td>
->      <table style="border-spacing:0px;"> 
->      <tr> 
->      <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>B</em>,<em>X</em>)&rArr;<em>A</em></td> 
->      </tr> 
->
->      <tr> 
->      <td style="padding:0px; text-align:center;"><em>X</em>&rArr;<em>B</em>\<em>A</em></td>
->      </tr>
->      </table>
->   </td>
->   <td valign="middle">(\<em>R</em>)</td>
->   </tr></table> |
-> | <table><tr>
->  <td>
->    <table style="border-spacing:0px;"> 
->    <tr> 
->    <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>B</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>C</em></td> 
->    </tr> 
->
->    <tr> 
->    <td style="padding:0px; text-align:center;"><em>X</em>[(<em>A</em>/<em>B</em>,<em>Y</em>)]&rArr;<em>C</em></td>
->    </tr>
->    </table>
->  </td>
->  <td valign="middle">(/<em>L</em>)</td>
->   </tr></table> | <table><tr>
->   <td>
->      <table style="border-spacing:0px;"> 
->      <tr> 
->      <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>X</em>,<em>B</em>)&rArr;<em>A</em></td> 
->      </tr> 
->
->      <tr> 
->      <td style="padding:0px; text-align:center;"><em>X</em>&rArr;<em>A</em>/<em>B</em></td>
->      </tr>
->      </table>
->   </td>
->   <td valign="middle">(/<em>R</em>)</td>
->   </tr></table> |
+> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>&rArr;<em>A</em>&nbsp;&nbsp;<em>Y</em>&rArr;<em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">(<em>X</em>,<em>Y</em>)&rArr;<em>A</em>&otimes;<em>B</em></td> </tr> </table> </td> <td valign="middle">(&otimes;<em>R</em>)</td> </tr></table> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>[(<em>A</em>,<em>B</em>)]&rArr;<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>[<em>A</em>&otimes;<em>B</em>]&rArr;<em>C</em></td> </tr> </table> </td> <td valign="middle">(&otimes;<em>L</em>)</td> </tr></table> |
+> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>B</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>[(<em>Y</em>,<em>B</em>\<em>A</em>)]&rArr;<em>C</em></td> </tr> </table> </td> <td valign="middle">(\<em>L</em>)</td> </tr></table> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>B</em>,<em>X</em>)&rArr;<em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>&rArr;<em>B</em>\<em>A</em></td> </tr> </table> </td> <td valign="middle">(\<em>R</em>)</td> </tr></table> |
+> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>Y</em>&rArr;<em>B</em>&nbsp;&nbsp;<em>X</em>[<em>A</em>]&rArr;<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>[(<em>A</em>/<em>B</em>,<em>Y</em>)]&rArr;<em>C</em></td> </tr> </table> </td> <td valign="middle">(/<em>L</em>)</td> </tr></table> | <table><tr> <td> <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>X</em>,<em>B</em>)&rArr;<em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em>&rArr;<em>A</em>/<em>B</em></td> </tr> </table> </td> <td valign="middle">(/<em>R</em>)</td> </tr></table> |
 >
 > **NL**: Sequent Calculus
 
@@ -202,33 +98,7 @@ In the presentation of the syntactic calculus, the structural options take the f
 - *A* ⊗ (*B* ⊗ *C*) ≡ (*A* ⊗ *B*) ⊗ *C* (associativity)
 - corresponding structural rules for the sequent presentation:
 
-  | <table><tr>
-      <td><table style="border-spacing:0px;"> 
-  <tr> 
-  <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>W</em>[(<em>Y</em>,<em>X</em>)]&rArr;<em>C</em></td> 
-  </tr> 
-  
-  <tr> 
-  <td style="padding:0px; text-align:center;"><em>W</em>[(<em>X</em>,<em>Y</em>)]&rArr;<em>C</em></td>
-  </tr>
-  </table>
-      </td>
-   
-      <td>(comm.)</td> 
-      </tr></table> | <table><tr>
-      <td><table style="border-spacing:0px;"> 
-  <tr> 
-  <td style="padding:0px;border-bottom:double;text-align:center;"><em>W</em>[((<em>X</em>,<em>Y</em>),<em>Z</em>)]&rArr;<em>C</em></td> 
-  </tr> 
-  
-  <tr> 
-  <td style="padding:0px; text-align:center;"><em>W</em>[(<em>X</em>,(<em>Y</em>,<em>Z</em>))]&rArr;<em>C</em></td>
-  </tr>
-  </table>
-      </td>
-   
-      <td>(assoc.)</td> 
-      </tr></table> |
+  | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>W</em>[(<em>Y</em>,<em>X</em>)]&rArr;<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>W</em>[(<em>X</em>,<em>Y</em>)]&rArr;<em>C</em></td> </tr> </table> </td> <td>(comm.)</td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>W</em>[((<em>X</em>,<em>Y</em>),<em>Z</em>)]&rArr;<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>W</em>[(<em>X</em>,(<em>Y</em>,<em>Z</em>))]&rArr;<em>C</em></td> </tr> </table> </td> <td>(assoc.)</td> </tr></table> |
   | --- | --- |
 - frame constraint for commutativity: ∀*xyz*(*Rxyz* implies *Rxzy*)
 - frame constraint for associativity (rebracketing to the left): ∀*xyzrs*(*Rrxs* and *Rsyz* imply ∃*t*(*Rrtz* and *Rtxy*)); similarly for the other direction
@@ -253,96 +123,14 @@ Let us start with the Curry-Howard correspondence for **LP**. The choice of **LP
 
 From Λ(Lin), one obtains Λ(**LP**), the terms in Curry-Howard correspondence with **LP** derivations, by adding one extra restriction, reflecting the requirement that sequent antecedents must be non-empty: every subterm contains at least one free variable. The derivations of **LP** are now read as judgements of a type inference system for Λ(**LP**). Derivations are given in the natural deduction style, with elimination and introduction rules for the linear implication →. Judgements then are sequents of the form Γ ⊢ *M* : *B*. Γ is a non-empty multiset of typing declarations *x*₁ : *A*₁, …, *xₙ* : *Aₙ*; the *Aᵢ* and *B* are linear implicative types, and *M* is a Λ(**LP**) term of type *B* built out of the *xᵢ* of type *Aᵢ*. Axiom sequents are of the form *x* : *A* ⊢ *x* : *A*. Elimination and Introduction rules for the linear implication are given below. In the Introduction rule, *x* ∉ dom(Γ); in the Elimination rule dom(Γ) ∩ dom(Δ) = ∅.
 
-> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;,<em>x</em> : <em>A</em> &#8866; <em>M</em> : <em>B</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma; &#8866;
-> &lambda;<em>x</em>.<em>M</em> : <em>A</em> &rarr; <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td>&rarr;<em>I</em></td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &#8866; <em>M</em> : <em>A</em> &rarr; <em>B</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>N</em> : <em>A</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma;,&Delta; &#8866;
-> (<em>M</em> <em>N</em>) : <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td>&rarr;<em>E</em></td>
->   </tr></table> |
+> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;,<em>x</em> : <em>A</em> &#8866; <em>M</em> : <em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma; &#8866; &lambda;<em>x</em>.<em>M</em> : <em>A</em> &rarr; <em>B</em></td> </tr> </table> </td> <td>&rarr;<em>I</em></td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &#8866; <em>M</em> : <em>A</em> &rarr; <em>B</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>N</em> : <em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma;,&Delta; &#8866; (<em>M</em> <em>N</em>) : <em>B</em></td> </tr> </table> </td> <td>&rarr;<em>E</em></td> </tr></table> |
 > | --- | --- |
 
 The syntactic calculi (**N**)**L**, similarly, are in Curry-Howard correspondence with *directional* linear lambda terms (Wansing 1992)[^wansing-1992]. There is no standard notation. In the directional typing rules below, we use λ^{*r*} vs λ^{*l*} for the image of the slash and backslash Introduction rules; in the case of the Elimination rules, we have right and left function application, with the triangle pointing to the function. The antecedent is now a (bracketed) string of typing declarations *xᵢ* : *Aᵢ*.
 
-> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">(&Gamma;,<em>x</em> : <em>A</em>) &#8866; <em>M</em> : <em>B</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma; &#8866; &lambda;<sup><em>r</em></sup><em>x</em>.<em>M</em> : <em>B</em>/<em>A</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td><em>I</em>/</td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>x</em> :
-> <em>A</em>,&Gamma;) &#8866; <em>M</em> : <em>B</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma; &#8866; &lambda;<sup><em>l</em></sup><em>x</em>.<em>M</em> : <em>A</em>\<em>B</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td><em>I</em>\</td>
->   </tr></table> |
+> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(&Gamma;,<em>x</em> : <em>A</em>) &#8866; <em>M</em> : <em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma; &#8866; &lambda;<sup><em>r</em></sup><em>x</em>.<em>M</em> : <em>B</em>/<em>A</em></td> </tr> </table> </td> <td><em>I</em>/</td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(<em>x</em> : <em>A</em>,&Gamma;) &#8866; <em>M</em> : <em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma; &#8866; &lambda;<sup><em>l</em></sup><em>x</em>.<em>M</em> : <em>A</em>\<em>B</em></td> </tr> </table> </td> <td><em>I</em>\</td> </tr></table> |
 > | --- | --- |
-> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;
-> &#8866; <em>M</em> : <em>B</em>/<em>A</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>N</em> : <em>A</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">(&Gamma;,&Delta;) &#8866; (<em>M</em> &#8882; <em>N</em>) : <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td><em>E</em>/</td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &#8866; <em>N</em> : <em>A</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>M</em> : <em>A</em>\<em>B</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">(&Gamma;,&Delta;) &#8866; (<em>N</em> &#8883; <em>M</em>) : <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->
->   <td><em>E</em>\</td>
->   </tr></table> |
+> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &#8866; <em>M</em> : <em>B</em>/<em>A</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>N</em> : <em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">(&Gamma;,&Delta;) &#8866; (<em>M</em> &#8882; <em>N</em>) : <em>B</em></td> </tr> </table> </td> <td><em>E</em>/</td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &#8866; <em>N</em> : <em>A</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Delta; &#8866; <em>M</em> : <em>A</em>\<em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">(&Gamma;,&Delta;) &#8866; (<em>N</em> &#8883; <em>M</em>) : <em>B</em></td> </tr> </table> </td> <td><em>E</em>\</td> </tr></table> |
 
 The source and target calculi each have their own set of basic types, motivated by syntactic and semantic considerations respectively. At the syntactic end, one could discriminate between sentences *s*, noun phrases *np*, common nouns *n*, for example. At the semantic end, for a simple extensional interpretation, one could introduce two basic types, *e* and *t*. Set-theoretic interpretation for the semantic types is then given in terms of a non-empty set of individuals/entities *E* and the truth values {0,1}. Denotation domains Dom(*A*) for semantic types *A* are set up such that Dom(*e*) = *E*, Dom(*t*) = {0,1} and Dom(*A*\*B*) = Dom(*B*/*A*) is the set of functions from Dom(*A*) to Dom(*B*).
 
@@ -425,55 +213,7 @@ We saw that in the minimal logic **NL** completeness with respect to the frame s
 
 For sequent presentation of ◊,□, antecedent tree structures now are built out of formulas by means of unary and binary tree-building operations, (–) and (–,–). The residuation pattern then gives rise to the following left and right introduction rules. Cut elimination carries over straightforwardly to the extended system, and with it decidability and the subformula property.
 
-> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;[(<em>A</em>)] &rArr; <em>B</em> </td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma;[&loz;<em>A</em>] &rArr; <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->   <td valign="middle">&loz;<em>L</em></td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &rArr; <em>A</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">(&Gamma;) &rArr; &loz;<em>A</em></td>
->       </tr>
->     </table>
->   </td>
->   <td valign="middle">&loz;<em>R</em></td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;[<em>A</em>] &rArr; <em>B</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma;[(&#9633;<em>A</em>)] &rArr; <em>B</em></td>
->       </tr>
->     </table>
->   </td>
->   <td valign="middle">&#9633;<em>L</em></td>
->   </tr></table> | <table><tr>
->   <td><table style="border-spacing:0px;"> 
->       <tr> 
-> 	<td style="padding:0px;border-bottom:1px solid black; text-align:center;">(&Gamma;) &rArr; <em>A</em></td> 
->       </tr> 
->
->       <tr> 
-> 	<td style="padding:0px; text-align:center;">&Gamma; &rArr; &#9633;<em>A</em></td>
->       </tr>
->     </table>
->   </td>
->   <td valign="middle">&#9633;<em>R</em></td>
->   </tr></table> |
+> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;[(<em>A</em>)] &rArr; <em>B</em> </td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma;[&loz;<em>A</em>] &rArr; <em>B</em></td> </tr> </table> </td> <td valign="middle">&loz;<em>L</em></td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma; &rArr; <em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">(&Gamma;) &rArr; &loz;<em>A</em></td> </tr> </table> </td> <td valign="middle">&loz;<em>R</em></td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">&Gamma;[<em>A</em>] &rArr; <em>B</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma;[(&#9633;<em>A</em>)] &rArr; <em>B</em></td> </tr> </table> </td> <td valign="middle">&#9633;<em>L</em></td> </tr></table> | <table><tr> <td><table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;">(&Gamma;) &rArr; <em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;">&Gamma; &rArr; &#9633;<em>A</em></td> </tr> </table> </td> <td valign="middle">&#9633;<em>R</em></td> </tr></table> |
 > | --- | --- | --- | --- |
 
 **Controlling structural resource management**. Let us turn then to the use of ◊,□ as control devices. The control can take two forms: one is to *license* access to a structural option that would be overgenerating if globally available; the second is to occasionally *block* a structural capability of the grammar. For the licensing type of control, compare the multimodal treatment of extraction in terms of a distinction ⊗_{*c*} vs ⊗_{*d*}, with the ◊-controlled version below, which relies on a single binary composition operation, and narrows down the ‘movement’ potential entirely to ◊-marked resources.
@@ -504,43 +244,7 @@ In the case where the Target logic is more discriminating than the Source, the t
 
 **Frame constraints, term assignment**. The frame semantics for the pure residuation logic does not impose restrictions on the interpretation of the *R*_{◊} and *R*_{⊗} relations. In the case of extended versions with modally controlled structural postulates, there is a frame constraint for each structural postulate, and completeness holds with respect to appropriately restricted frames.
 
-> | <table>
->   <tr>
->   <td><em>x</em></td><td></td><td></td><td></td><td><em>y</em></td><td></td><td><em>z</em></td>
->   </tr>
->
->   <tr>
->     <td></td><td>\</td><td></td><td>/</td><td></td><td></td><td>&#124;</td>
->   </tr>
->
->   <tr>
->     <td></td><td></td><td><em>s</em></td><td></td><td></td><td></td><td><em>t</em></td>
->    </tr>
->
->   <tr>
->     <td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td>
->   </tr>
->
->   <tr>
->     <td></td><td></td><td></td><td></td><td><em>r</em></td><td></td><td></td>
->   </tr>
->   </table> |   | <table>
->  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td><em>z</em></td></tr>
->  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>&#124;</td></tr>
->  <tr><td></td><td></td><td><em>y</em></td><td></td><td></td><td></td><td><em>t</em>&prime;</td></tr>
->  <tr><td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td></tr>
->  <tr><td><em>x</em></td><td></td><td></td><td></td><td><em>s</em>&prime;</td><td></td><td></td></tr>
->  <tr><td></td><td>\</td><td></td><td>/</td><td></td><td></td><td></td></tr>
->  <tr><td></td><td></td><td><em>r</em></td><td></td><td></td><td></td><td></td></tr>
->  </table> |   | <table>
->  <tr><td></td><td></td><td></td><td></td><td><em>z</em></td><td></td><td></td></tr>
->  <tr><td></td><td></td><td></td><td></td><td>&#124;</td><td></td><td></td></tr>
->  <tr><td><em>x</em></td><td></td><td></td><td></td><td><em>t</em>&prime;</td><td></td><td></td></tr>
->  <tr><td></td><td>\</td><td></td><td>/</td><td></td><td></td><td></td></tr>
->  <tr><td></td><td></td><td><em>s</em>&prime;</td><td></td><td></td><td></td><td><em>y</em></td></tr>
->  <tr><td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td></tr>
->  <tr><td></td><td></td><td></td><td></td><td><em>r</em></td><td></td><td></td></tr>
->  </table> |
+> | <table> <tr> <td><em>x</em></td><td></td><td></td><td></td><td><em>y</em></td><td></td><td><em>z</em></td> </tr> <tr> <td></td><td>\</td><td></td><td>/</td><td></td><td></td><td>&#124;</td> </tr> <tr> <td></td><td></td><td><em>s</em></td><td></td><td></td><td></td><td><em>t</em></td> </tr> <tr> <td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td> </tr> <tr> <td></td><td></td><td></td><td></td><td><em>r</em></td><td></td><td></td> </tr> </table> |   | <table> <tr><td></td><td></td><td></td><td></td><td></td><td></td><td><em>z</em></td></tr> <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>&#124;</td></tr> <tr><td></td><td></td><td><em>y</em></td><td></td><td></td><td></td><td><em>t</em>&prime;</td></tr> <tr><td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td></tr> <tr><td><em>x</em></td><td></td><td></td><td></td><td><em>s</em>&prime;</td><td></td><td></td></tr> <tr><td></td><td>\</td><td></td><td>/</td><td></td><td></td><td></td></tr> <tr><td></td><td></td><td><em>r</em></td><td></td><td></td><td></td><td></td></tr> </table> |   | <table> <tr><td></td><td></td><td></td><td></td><td><em>z</em></td><td></td><td></td></tr> <tr><td></td><td></td><td></td><td></td><td>&#124;</td><td></td><td></td></tr> <tr><td><em>x</em></td><td></td><td></td><td></td><td><em>t</em>&prime;</td><td></td><td></td></tr> <tr><td></td><td>\</td><td></td><td>/</td><td></td><td></td><td></td></tr> <tr><td></td><td></td><td><em>s</em>&prime;</td><td></td><td></td><td></td><td><em>y</em></td></tr> <tr><td></td><td></td><td></td><td>\</td><td></td><td>/</td><td></td></tr> <tr><td></td><td></td><td></td><td></td><td><em>r</em></td><td></td><td></td></tr> </table> |
 > | --- | --- | --- | --- | --- |
 > | input |   | output ◊ mixed ass. |   | output ◊ mixed comm. |
 
@@ -587,36 +291,11 @@ We illustrate the non-deterministic use of **DL** with English particle shift, u
 
 > | called ⋅ ⎵ ⋅ up ⋅ ⎵ −*phone* : ^{∨}(*np*\*s*) ↑ *np*    Mary − *m* : *np* | * E*↑ |
 > | --- | --- |
-> | <table border="0" cellpadding="0" cellspacing="0">
->   <tr>
->   <td align="center" style="border-bottom:1px solid black;">called &sdot; Mary &sdot; up &sdot; &#9141;
-> &minus; (<em>phone</em> <em>m</em>) : <sup>&or;</sup>(<em>np</em>\<em>s</em>)</td>
->   <td valign="middle" rowspan="2">&nbsp;<em>E</em><sup>&or;</sup></td>
->   </tr>
->
->   <tr>
->   <td align="center">called &sdot; Mary &sdot; up &minus;
->  (<em>phone</em> <em>m</em>) : <em>np</em>\<em>s</em></td>
->   </tr>
->   </table> |   |
+> | <table border="0" cellpadding="0" cellspacing="0"> <tr> <td align="center" style="border-bottom:1px solid black;">called &sdot; Mary &sdot; up &sdot; &#9141; &minus; (<em>phone</em> <em>m</em>) : <sup>&or;</sup>(<em>np</em>\<em>s</em>)</td> <td valign="middle" rowspan="2">&nbsp;<em>E</em><sup>&or;</sup></td> </tr> <tr> <td align="center">called &sdot; Mary &sdot; up &minus; (<em>phone</em> <em>m</em>) : <em>np</em>\<em>s</em></td> </tr> </table> |   |
 
 For an example involving covert discontinuity, consider quantifier scope construal. **DL** provides a uniform type assignment to generalized quantifier expressions such as ‘everyone’, ‘someone’: (*s* ↑ *np*) ↓ *s*. In the syntactic source calculus, this type assignment allows a quantifier phrase QP to occupy any position that could be occupied by a regular non-quantificational noun phrase. Semantically, the image of the ↑ Introduction rule at the level of the semantic target calculus **LP** binds an *np* type hypothesis at the position that was occupied by the QP (the *a* − *x* : *np* premise, with *a* and *x* structural and semantic variables for the *np* hypothesis). The image of the ↓ Elimination rule applies the term representing the QP meaning to this abstract. Scope ambiguities arise from derivational ambiguity in the source calculus **DL**. The derivation below results in a non-local reading ‘there is a particular *x* such that Mary thinks *x* left’. Looking upward from the conclusion, the last rule applied is ↓ Elimination, which means the QP takes scope at the main clause level. An alternative derivation, producing the local scope reading, would have the / Elimination rule for ‘thinks’: (*np*\*s*)/*s* as the last step.
 
-> |   | <table border="0" cellpadding="0" cellspacing="0">
->   <tr>
->   <td align="center">
->     <table border="0" cellpadding="0" cellspacing="0">
->     <tr>
->     <td align="center" style="border-bottom:1px solid black">&hellip;&nbsp;&nbsp;<em>a</em> &minus; <em>x</em> : <em>np</em>&nbsp;&nbsp;&hellip;</td></tr>
->
->     <tr>
->     <td align="center">&#8942;</td></tr>
->     </table>
->   </td></tr>
->
->   <tr>
->   <td align="center" style="border-top:1px solid black;">Mary &sdot; thinks &sdot; <em>a</em> &sdot; left &minus; ((<em>thinks</em> (<em>left</em> <em>x</em>)) <em>m</em>) : <em>s</em></td></tr>
->   </table> | 
+> |   | <table border="0" cellpadding="0" cellspacing="0"> <tr> <td align="center"> <table border="0" cellpadding="0" cellspacing="0"> <tr> <td align="center" style="border-bottom:1px solid black">&hellip;&nbsp;&nbsp;<em>a</em> &minus; <em>x</em> : <em>np</em>&nbsp;&nbsp;&hellip;</td></tr> <tr> <td align="center">&#8942;</td></tr> </table> </td></tr> <tr> <td align="center" style="border-top:1px solid black;">Mary &sdot; thinks &sdot; <em>a</em> &sdot; left &minus; ((<em>thinks</em> (<em>left</em> <em>x</em>)) <em>m</em>) : <em>s</em></td></tr> </table> | 
 >
 >  ↑*I*
 >  ↓*E* |
@@ -632,105 +311,17 @@ The extensions of the Syntactic Calculus that we studied in the previous section
 
 In a remarkable paper antedating Linear Logic by five years, Grishin (1983) presents a number of extensions of the Lambek calculus with the common characteristic that derivability holds between hypotheses *A*₁,…,*Aₙ*, taken together by means of a multiplicative conjunction, and *multiple* conclusions *B*₁,…,*Bₘ*, combined by means of a multiplicative disjunction. Linguistic exploration of Grishin's ideas has started in recent years. In this section, we introduce a multiple-conclusion categorial system that is already well-studied: **LG** (for Lambek-Grishin calculus). We present syntax and relational semantics of the system; in the next section, we turn to its computational interpretation.
 
-> | preorder laws | *A* ⊢ *A* | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em>
->  &#8866; <em>B</em>&nbsp;&nbsp;&nbsp;&nbsp;  <em>B</em> &#8866; <em>C</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>A</em> &#8866; <em>C</em></td>
-> </tr>
-> </table> |
+> | preorder laws | *A* ⊢ *A* | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &#8866; <em>B</em>&nbsp;&nbsp;&nbsp;&nbsp; <em>B</em> &#8866; <em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>A</em> &#8866; <em>C</em></td> </tr> </table> |
 > | --- | --- | --- |
-> | (dual) residuation laws) | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:double;text-align:center;"><em>A</em>
->  &#8866; <em>C</em>/<em>B</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px;border-bottom:double;text-align:center;"><em>A</em>
->  &otimes; <em>B</em> &#8866; <em>C</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>B</em> &#8866; <em>A</em>\<em>C</em></td>
-> </tr>
-> </table> | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:double;text-align:center;"><em>B</em>
->  &#10680; <em>C</em> &#8866; <em>A</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px;border-bottom:double;text-align:center;"><em>C</em>
->  &#8866; <em>B</em> &oplus; <em>A</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>C</em>
->  &#8856; <em>A</em> &#8866; <em>B</em></td>
-> </tr>
-> </table> |
-> | interaction principles | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em>
->  &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>C</em>
->  &#10680; <em>A</em> &#8866; <em>D</em>&thinsp;/&thinsp;<em>B</em></td>
-> </tr>
-> </table> | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em>
->  &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>B</em>
->  &#8856; <em>D</em> &#8866; <em>A</em>&thinsp;\&thinsp;<em>C</em></td>
-> </tr>
-> </table> |
-> |   | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em>
->  &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>C</em> &#10680; <em>B</em>
->  &#8866; <em>A</em>&thinsp;\&thinsp;<em>D</em></td>
-> </tr>
-> </table> | <table style="border-spacing:0px;"> 
-> <tr> 
-> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &otimes; <em>B</em>
->  &#8866; <em>C</em> &oplus; <em>D</em></td> 
-> </tr> 
->
-> <tr> 
-> <td style="padding:0px; text-align:center;"><em>A</em> &#8856; <em>D</em> &#8866; <em>C</em>&thinsp;/&thinsp;<em>B</em></td>
-> </tr>
-> </table> |
+> | (dual) residuation laws) | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>A</em> &#8866; <em>C</em>/<em>B</em></td> </tr> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>A</em> &otimes; <em>B</em> &#8866; <em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>B</em> &#8866; <em>A</em>\<em>C</em></td> </tr> </table> | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>B</em> &#10680; <em>C</em> &#8866; <em>A</em></td> </tr> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>C</em> &#8866; <em>B</em> &oplus; <em>A</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>C</em> &#8856; <em>A</em> &#8866; <em>B</em></td> </tr> </table> |
+> | interaction principles | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>C</em> &#10680; <em>A</em> &#8866; <em>D</em>&thinsp;/&thinsp;<em>B</em></td> </tr> </table> | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>B</em> &#8856; <em>D</em> &#8866; <em>A</em>&thinsp;\&thinsp;<em>C</em></td> </tr> </table> |
+> |   | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>C</em> &#10680; <em>B</em> &#8866; <em>A</em>&thinsp;\&thinsp;<em>D</em></td> </tr> </table> | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>A</em> &otimes; <em>B</em> &#8866; <em>C</em> &oplus; <em>D</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>A</em> &#8856; <em>D</em> &#8866; <em>C</em>&thinsp;/&thinsp;<em>B</em></td> </tr> </table> |
 >
 > The Lambek-Grishin calculus **LG**
 
 **LG** consists of a symmetric version of the pure residuation logic **NL** together with structure-preserving interaction principles relating the conjunctive and disjunctive operations. We discuss these components in turn. For symmetry, the inventory of type-forming operations is doubled: in addition to the **NL** operations ⊗,\,/ (product, left and right division), there is a second family ⊕,⊘,⦸: coproduct, right and left difference. The two families are related by an arrow reversal symmetry δ, which translates type formulas according to the table below.
 
-> | δ |   | <table style="border-spacing:0px;"> 
->     <tr> 
->       <td style="padding:0px;border-bottom:double;text-align:center;"><em>C</em>/<em>B</em>
-> &nbsp;&nbsp;&nbsp;   <em>A</em> &otimes; <em>B</em> &nbsp;&nbsp;&nbsp;&nbsp;  <em>A</em>\<em>C</em></td>
->     </tr> 
->
->     <tr> 
->       <td style="padding:0px; text-align:center;"><em>B</em>
->  &#10680; <em>C</em>&nbsp;&nbsp;  <em>B</em> &oplus; <em>A</em>
-> &nbsp; <em>C</em> &#8856; <em>A</em></td>
->     </tr>
->   </table> |
+> | δ |   | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:double;text-align:center;"><em>C</em>/<em>B</em> &nbsp;&nbsp;&nbsp; <em>A</em> &otimes; <em>B</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>A</em>\<em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>B</em> &#10680; <em>C</em>&nbsp;&nbsp; <em>B</em> &oplus; <em>A</em> &nbsp; <em>C</em> &#8856; <em>A</em></td> </tr> </table> |
 > | --- | --- | --- |
 
 At the level of derivability, we then have A ⊢ B iff δ(B) ⊢ δ(A): for every theorem or rule of **NL**, we also find its image under δ in **LG**. A note about the notation: we read *B* ⦸ *A* as ‘*B* from *A*’ and *A* ⊘ *B* as ‘*A* less *B*’, i.e., the quantity that is subtracted is put under the circled (back)slash, just as we have the denominator under the (back)slash in the case of left and right division types. In a formulas-as-types spirit, we will feel free to refer to the division operations also as implications, and to the difference operations as coimplications.
@@ -747,38 +338,7 @@ Derivability patterns of the form (P1)–(P4) have been called linear distributi
 
 **Illustration**. The interaction principles of **LG** provide a particularly direct way of capturing phenomena that depend on *infixation* rather than concatenation. The derivations below (using monotonicity, and (dual) residuation steps) show how the same pieces of information (the same premises) can be used either to introduce an implication *B*\*C* on the left of the turnstile, or a coimplication *B* ⊘ *C* on the right. The first option leads to a rule of Application — the central composition operation of standard Lambek calculus. The second option leads to a Co-Application variant. Although these two rules are derived from the same premises, there is an important difference between them. When the implication *B*\*C* composes with its argument, it must stay external to *X*. In the case of the coimplication, when *X* is some product of factors *A*₁,…,*Aₙ*, the conditions for the interaction principles are met. This means that the coimplication *B* ⊘ *C* will be able to descend into the phrase *X* and associate with any of the constituent parts *Aᵢ* into a formula (*B* ⊘ *C*) ⦸ *Aᵢ*.
 
-> | <table style="border-spacing:0px;"> 
->     <tr> 
->       <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>
->  &#8866; <em>B</em>&nbsp;&nbsp; <em>C</em> &#8866; <em>Y</em></td>
->     </tr> 
->
->     <tr> 
->       <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>B</em>\<em>C</em>
->  &#8866; <em>X</em>\<em>Y</em></td>
->     </tr> 
->
->     <tr> 
->       <td style="padding:0px; text-align:center;"><em>X</em>
->  &otimes; (<em>B</em>\<em>C</em>) &#8866; <em>Y</em></td>
->     </tr>
->   </table> |   | <table style="border-spacing:0px;"> 
->     <tr> 
->       <td style="padding:0px;border-bottom:1px solid black;
->       text-align:center;"><em>X</em> &#8866; <em>B</em>
->      &nbsp;&nbsp; <em>C</em> &#8866; <em>Y</em></td>
->     </tr> 
->
->     <tr> 
->       <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em>
->  &#8856; <em>Y</em> &#8866; <em>B</em> &#8856; <em>C</em></td>
->     </tr> 
->
->     <tr> 
->       <td style="padding:0px; text-align:center;"><em>X</em>
->  &#8866; (<em>B</em> &#8856; <em>C</em>) &oplus; <em>Y</em></td>
->     </tr>
->   </table> |
+> | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em> &#8866; <em>B</em>&nbsp;&nbsp; <em>C</em> &#8866; <em>Y</em></td> </tr> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>B</em>\<em>C</em> &#8866; <em>X</em>\<em>Y</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em> &otimes; (<em>B</em>\<em>C</em>) &#8866; <em>Y</em></td> </tr> </table> |   | <table style="border-spacing:0px;"> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em> &#8866; <em>B</em> &nbsp;&nbsp; <em>C</em> &#8866; <em>Y</em></td> </tr> <tr> <td style="padding:0px;border-bottom:1px solid black; text-align:center;"><em>X</em> &#8856; <em>Y</em> &#8866; <em>B</em> &#8856; <em>C</em></td> </tr> <tr> <td style="padding:0px; text-align:center;"><em>X</em> &#8866; (<em>B</em> &#8856; <em>C</em>) &oplus; <em>Y</em></td> </tr> </table> |
 > | --- | --- | --- |
 
 In general, an expression of type (*B* ⊘ *C*) ⦸ *A* behaves locally as an *A* within a context of type B; it then acts as a function transforming *B* into *C*. We illustrate with the example of non-local scope construal for which we have seen the **DL** analysis in the previous section. The key point is the lexical type assignment to the generalized quantifier expression, instantiating (*B* ⊘ *C*) ⦸ *A* as (*s* ⊘ *s*) ⦸ *np*. The semantic interpretation of this derivation will be discussed below.

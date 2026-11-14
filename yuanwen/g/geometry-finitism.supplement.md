@@ -10,7 +10,13 @@
 
 A field is a set $F$ equipped with two operations +, · such that
 
-1. the pair $\langle F,+\rangle$ is a group, i.e., + is closed: $\forall x,y\exists z(x + y = z)$ + is associative: $\forall x,y,z(x + (y + z) = (x + y) + z)$ there is a neutral element: $\forall x(x + 0 = x)$ every element has an inverse: $\forall x\exists y(x + y = y + x = 0)$
+1. the pair $\langle F,+\rangle$ is a group, i.e.,
+
+   | + is closed: | $\forall x,y\exists z(x + y = z)$ |
+   | --- | --- |
+   | + is associative: | $\forall x,y,z(x + (y + z) = (x + y) + z)$ |
+   | there is a neutral element: | $\forall x(x + 0 = x)$ |
+   | every element has an inverse: | $\forall x\exists y(x + y = y + x = 0)$ |
 2. likewise $\langle F,\cdot \rangle$ is a group, the neutral element being 1
 3. the following distributivity laws hold: $$ \begin{align*} \forall x,y,z(x \cdot (y + z) &= (x \cdot y) + (y \cdot z))\\ \forall x,y,z((x + y) \cdot z) &= (x \cdot z) + (y \cdot z)) \end{align*} $$
 
@@ -20,7 +26,7 @@ It is straightforward to see that the real numbers $\Re$ with the usual addition
 
 The tables for addition and multiplication tell the whole story:
 
-| （嵌套表：\| **+** \| **0** \| **1** \| **2** \| \| --- \| --- \| --- \| --- \| \| **0** \| 0 \| 1 \| 2 \| \| **1** \| 1 \| 2 \| 0 \| \| **2** \| 2 \| 0 \| 1 \|） |   | （嵌套表：\| · \| **0** \| **1** \| **2** \| \| --- \| --- \| --- \| --- \| \| **0** \| 0 \| 0 \| 0 \| \| **1** \| 0 \| 1 \| 2 \| \| **2** \| 0 \| 2 \| 1 \|） |
+| <table class="all-rules cellpad-small cell-center"> <tr> <td><strong>+</strong></td> <td><strong>0</strong></td> <td><strong>1</strong></td> <td><strong>2</strong></td> </tr> <tr> <td><strong>0</strong></td> <td>0</td> <td>1</td> <td>2</td> </tr> <tr> <td><strong>1</strong></td> <td>1</td> <td>2</td> <td>0</td> </tr> <tr> <td><strong>2</strong></td> <td>2</td> <td>0</td> <td>1</td> </tr> </table> |   | <table class="all-rules cellpad-small cell-center"> <tr> <td>&middot;</td> <td><strong>0</strong></td> <td><strong>1</strong></td> <td><strong>2</strong></td> </tr> <tr> <td><strong>0</strong></td> <td>0</td> <td>0</td> <td>0</td> </tr> <tr> <td><strong>1</strong></td> <td>0</td> <td>1</td> <td>2</td> </tr> <tr> <td><strong>2</strong></td> <td>0</td> <td>2</td> <td>1</td> </tr> </table> |
 | --- | --- | --- |
 
 In the first case, $1 + 1 + 1 = 0$.

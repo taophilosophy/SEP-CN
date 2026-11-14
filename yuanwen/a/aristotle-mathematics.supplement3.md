@@ -88,7 +88,17 @@ It is also obvious, as Aristotle claims, that every convergent series by additio
 
 Hence we also have a **series by addition**, which is not also a series by division:
 
-1. **Non-convergent series by addition**: Let *B*_{*0*} be a part of *A* ![diagram5](../assets/aristotle-mathematics/Diagram5.gif) *B*_{*n+1*} = *e* *A* *C*_{*0*} = *B*_{*0*} *C*_{*n+1*} = *B*_{*0*} + … + *B*_{*n+1*}
+1. **Non-convergent series by addition**:
+
+   | Let *B*_{*0*} be a part of *A* | ![diagram5](../assets/aristotle-mathematics/Diagram5.gif) |
+   | --- | --- |
+   |   |   |
+   | *B*_{*n+1*} = *e* *A* |   |
+   |   |   |
+   | *C*_{*0*} = *B*_{*0*} |   |
+   |   |   |
+   | *C*_{*n+1*} = *B*_{*0*} + … + *B*_{*n+1*} |   |
+   |   |   |
 
 (Obviously, this could be generalized within the context of ancient Greek mathematics, but it would not be important to Aristotle's argument or theory.)
 

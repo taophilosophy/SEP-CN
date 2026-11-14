@@ -1,38 +1,20 @@
 {
  "verdicts": {
-  "BR": 74,
-  "SPACE-STAR": 966,
-  "OTHER": 3
+  "BR": 0,
+  "SPACE-STAR": 0,
+  "OTHER": 1
  },
- "unchanged": 1378,
+ "unchanged": 2420,
  "added": [],
  "removed": [],
  "other_details": [
   {
-   "file": "SUMMARY.md",
+   "file": "e/epistemology-evolutionary.md",
    "old": [
-    "说明](../qian-yan/ban-quan-shuo-ming.md)[日志与编辑规划](../qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)[词汇表](../qian-yan/ci-hui-biao.md)[编辑信息](../guan-yu/bian-ji-xin-xi.md)[关于SEP](../guan-yu/gua"
+    "ncymultipliedbythefitnessanddividedbythemeanfitnessofthepopulation“$\\overline{w}$”.$$p'_i=p_i\\cdotw_i\\frasl\\overline{w}$$Divisionby$\\overline{w}$hastheeffectof“normalizing”thefrequ"
    ],
    "new": [
-    "说明](../qian-yan/ban-quan-shuo-ming.md)[日志与编辑规划](../qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)[术语表](../shu-yu-biao.md)[人名表](../ren-ming-biao.md)[编辑信息](../guan-yu/bian-ji-xin-xi.md)[关于SE"
-   ]
-  },
-  {
-   "file": "a/abhidharma.md",
-   "old": [
-    "–46;Cousins1983,10;Dessein2016,4–7;Gethin1992b,165;Gethin2022,227–242)[^FN][^FN][^FN][^FN].###1.2Abhidharmaexegesis:fromDharmatodharmasTheBuddha’sdiscoursescollectedintheĀgamas/Nik"
-   ],
-   "new": [
-    "–46;Cousins1983,10;Dessein2016,4–7;Gethin1992b,165;Gethin2022,227–242)[^FN][^FN][^FN][^FN][^FN].###1.2Abhidharmaexegesis:fromDharmatodharmasTheBuddha’sdiscoursescollectedintheĀgama"
-   ]
-  },
-  {
-   "file": "i/intuitionistic-logic-development.md",
-   "old": [
-    "athematicsastheweather-mapaccompaniestheatmosphericprocesses”instead(Brouwer1975:451)[^FN][^FN][^FN],butthattranslationwasbasedonthebookversionoftheso-calledsignificdialogues(Brouw"
-   ],
-   "new": [
-    "athematicsastheweather-mapaccompaniestheatmosphericprocesses”instead(Brouwer1975:451)[^FN],butthattranslationwasbasedonthebookversionoftheso-calledsignificdialogues(Brouweretal.193"
+    "ncymultipliedbythefitnessanddividedbythemeanfitnessofthepopulation“$\\overline{w}$”.$$p'_i=\\frac{p_i\\cdotw_i}{\\overline{w}}$$Divisionby$\\overline{w}$hastheeffectof“normalizing”thefr"
    ]
   }
  ],

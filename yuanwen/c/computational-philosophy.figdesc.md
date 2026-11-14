@@ -22,9 +22,28 @@ The diagram has seven nodes either consisting of two premise sentences and a con
 
 At the core of this diagram are three nodes *Rain* pointing to *Sprinkler* and to *Grass Wet* and *Sprinkler* pointing to *Grass Wet*. Each node has an associated truth table
 
-- *Rain* has the table   Rain T F 0.2 0.8
-- *Sprinkler* has the table Sprinkler Rain T F F 0.4 0.6 T 0.01 0.99
-- *Grass Wet* has the table Grass Wet Sprinkler Rain T F F F 0.0 1.0 F T 0.8 0.2 T F 0.9 0.1 T T 0.99 0.01
+- *Rain* has the table
+
+  |   | Rain |   |
+  | --- | --- | --- |
+  |   | T | F |
+  |   | 0.2 | 0.8 |
+- *Sprinkler* has the table
+
+  |   | Sprinkler |   |
+  | --- | --- | --- |
+  | Rain | T | F |
+  | F | 0.4 | 0.6 |
+  | T | 0.01 | 0.99 |
+- *Grass Wet* has the table
+
+  |   |   | Grass Wet |   |
+  | --- | --- | --- | --- |
+  | Sprinkler | Rain | T | F |
+  | F | F | 0.0 | 1.0 |
+  | F | T | 0.8 | 0.2 |
+  | T | F | 0.9 | 0.1 |
+  | T | T | 0.99 | 0.01 |
 
 ### Figure 8 description
 

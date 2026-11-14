@@ -61,7 +61,7 @@ DDI 有时被与神的无感受性教义（divine impassibility）混为一谈�
 
 （2）假设：除了像 *t* 在 *t* 呈现、*t*+1 在 *t*+1 呈现这样的事实之外，还有关于哪个时间在绝对意义上是现在的事实，即*simpliciter*（无条件地）现在：如果此刻是 *t*，*t* 就不只是在 *t* 呈现，而是全然呈现。对（1）–（4）的一些回应否认这一假设，因而否认（2），例如 Helm（1988）。此外，Kretzmann 与其他人提出这一论证时，说得仿佛有一个唯一的普遍现在，但这一点并非本质：如果由于相对论，我们要说不同地方有不同的现在，那么一位全知的上帝就必须知道所有这些地方的此刻各是何时。
 
-阿奎那报告说，“古代唯名论者”否认（3）——他们主张，上帝所知道的不过是一个事件，即基督的降生。因此，在他们看来，“基督已降生”与“基督将降生”这两个句子意谓同一事物，因为它们意谓同一个事件（ST Ia 14, 15 ad 3），因而这些句子所表达的神圣知识的对象并无不同。阿奎那反驳道：句子的差异使它们表达不同的命题；因此他承认，并非无论哪个命题只要曾经表达上帝所知道的东西，就总是表达上帝所知道的东西。但他补充道，这并不意味着上帝的知识本身在变化，因为他不是通过肯定命题来知道他之所知的（同上）。毋宁说，他的知识是一种无时间的直观，这种直观显示出命题在一时为真、在另一时为假（同上，并见《论真理》2, 5 ad 11；评注见 Sullivan 1991）。于是，阿奎那也否认（3）。
+阿奎那报告说，“古代唯名论者”否认（3）——他们主张，上帝所知道的不过是一个事件，即基督的降生。因此，在他们看来，“基督已降生”与“基督将降生”这两个句子意谓同一事物，因为它们意谓同一个事件（ST Ia 14, 15 ad 3），因而这些句子所表达的神圣知识的对象并无不同。阿奎那反驳道：句子的差异使它们表达不同的命题；因此他承认，并非无论哪个命题只要曾经表达上帝所知道的东西，就总是表达上帝所知道的东西。但他补充道，这并不意味着上帝的知识本身在变化，因为他不是通过肯定命题来知道他之所知的（同上）。毋宁说，他的知识是一种无时间的直观，这种直观显示出命题在一时为真、在另一时为假（同上，并见《论真理》2, 5 ad 11；评注见 Sullivan 1991）[^sullivan-1991]。于是，阿奎那也否认（3）。
 
 Hector-Neri Castañeda 以如下主张回应 Kretzmann：
 
@@ -85,7 +85,7 @@ Craig 主张，诉诸“相对于视角的真理”与真实的流逝和真实�
 
 另一个反对 DDI 的论证诉诸上帝的能力。在创世之前，上帝能够确保从未有任何宇宙存在过。上帝现在拥有这一能力，仅当他能改变过去。很少有人认为他能。因此，种种事件似乎改变了上帝的能力。DDI 的辩护者回应道：上帝始终拥有他曾经拥有的一切能力，只是失去了使用它的机会。正因如此，我们不再想把他这一能力称为“阻止一个宇宙存在”的能力。但他（他们主张）仍如从前一样能够做到。
 
-Swinburne 论证道，不变与自由行动不相容，他写道：“一个行动者在一特定时间是完全自由的，如果他的行动源于他那时自己的选择，且他的选择本身并非由任何别的东西所引起。然而，一个在强意义下不变的人，将无法在一特定时间作出任何他先前并未打算做的行动。他的行动进程由他过去的选择所固定，他便不是完全自由的”（1993, p. 222）。此处要注意的一点是：如果我的过去的选择固定我现在的选择，并不能推出它们引起了它。也许只能推出：我自己在那时引起那个选择是不可避免的。因此，完全不清楚不变甚至与 Swinburne 式的完全自由不相容。更重要的是，Swinburne 的“完全自由”是一个特别苛刻的概念。即使我自己的过去的选择确实引起我现在的选择，许多自由意志论者也会承认：如果引起它的那些过去的选择是自由意志论式自由的，我现在的选择便是派生的自由且负责的（见，例如，Kane 1996, Stump 1996, Ekstrom 2000）。大多数有神论者对一位具有充分自由意志论自由的上帝会相当满意。
+Swinburne 论证道，不变与自由行动不相容，他写道：“一个行动者在一特定时间是完全自由的，如果他的行动源于他那时自己的选择，且他的选择本身并非由任何别的东西所引起。然而，一个在强意义下不变的人，将无法在一特定时间作出任何他先前并未打算做的行动。他的行动进程由他过去的选择所固定，他便不是完全自由的”（1993, p. 222）。此处要注意的一点是：如果我的过去的选择固定我现在的选择，并不能推出它们引起了它。也许只能推出：我自己在那时引起那个选择是不可避免的。因此，完全不清楚不变甚至与 Swinburne 式的完全自由不相容。更重要的是，Swinburne 的“完全自由”是一个特别苛刻的概念。即使我自己的过去的选择确实引起我现在的选择，许多自由意志论者也会承认：如果引起它的那些过去的选择是自由意志论式自由的，我现在的选择便是派生的自由且负责的（见，例如，Kane 1996, Stump 1996, Ekstrom 2000）[^ekstrom-2000][^kane-1996][^stump-1996]。大多数有神论者对一位具有充分自由意志论自由的上帝会相当满意。
 
 最后一个反驳假设时间流逝，其论证如下：与上帝相关的东西在变化。首先上帝与一个时间的呈现共存，然后他与另一个时间的呈现共存。如果与上帝相关的东西在变化，上帝便在关系偶性上变化。一种回应是主张上帝是无时间的。若是如此，在他自己的立场上，与上帝相关的东西并不变化。那么，或许辩护 DDI 需要承诺神圣的无时间性。
 
@@ -93,43 +93,79 @@ Swinburne 论证道，不变与自由行动不相容，他写道：“一个行�
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-* Aristotle, *De Caelo* (*De Cael.*), trans. R. Hardie and R. Gaye, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
-* Aristotle, *Physics* (*Phys.*), tr. J. Stocks, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
-* Azadegan, Ebrahim, 2022, “On the incompatibility of God’s knowledge of particulars and the doctrine of divine immutability,” *Religious Studies* 58, 327–344.
-* Azadegan, Ebrahim, 2023, “Necessary Existence, Immutability, and God’s Knowledge of Particulars,” *Philosophy East and West* 73, 188–196.
-* Boethius, *The Consolation of Philosophy*, trans. H. Stewart, in *Boethius: The Theological Tractates*, trans. H. Stewart and E. K. Rand, Cambridge, MA: Loeb Classical Library, Harvard University Press, 1936.
-* Brown, Robert F., 1991, “Divine Omniscience, Immutability, Aseity, and Human Free Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 27: 285–295.
-* Castañeda, Hector-Neri, 1967, “Omniscience and Indexical Reference,” *Journal of Philosophy*, 64: 203–210.
-* Craig, William L., 2001, *God, Time and Eternity*, Dordrecht: Kluwer.
-* Craig, William L., 2004, “Wierenga No A-Theorist Either,” *Faith and Philosophy*, 21: 105–109.
-* Cumming, David, 2003, “Descartes on the Immutability of the Divine Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 39 (1): 79–92.
-* Dorner, Isaak, tr. Robert Williams and Claude Welch, 1994, *Divine Immutability*, Minneapolis: Fortress Press.
-* Duby, Stephen, 2017, “Divine Immutability, Divine Action and the God–World Relation,” *International Journal of Systematic Theology* 19, 144–162.
-* Duby, Stephen, 2022, *Jesus and the God of Classical Theism*, Grand Rapids: Baker Academic.
-* Ekstrom, Laura, 2000, *Free Will*, Boulder: Westview.
-* Francescotti, Robert (ed.), 2017, *Companion to Intrinsic Properties*, Berlin: De Gruyter.
-* Gale, Richard, 1986, “Omniscience-Immutability Arguments,” *American Philosophical Quarterly*, 23: 319–35.
-* Hallman, Joseph, 1981, “The Mutability of God: Tertullian to Lactantius,” *Theological Studies*, 42: 373–93.
-* Hartshorne, Charles, 1948, *The Divine Relativity*, New Haven: Yale University Press.
-* Helm, Paul, 1988, *Eternal God*, New York: Oxford University Press.
-* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press.
-* Kaufman, Dan, 2005, “God’s Immutability and the Necessity of Descartes’s Eternal Truths”, *Journal of the History of Philosophy*, 43: 1–19.
-* Kretzmann, Norman, 1966, “Omniscience and Immutability,” *Journal of Philosophy*, 63: 409–421.
-* Kretzmann, Norman, and Eleonore Stump, 1981, “Eternity,” *Journal of Philosophy*, 78: 429–458.
-* Kvanvig, Jonathan, 1986, *The Possibility of an All-Knowing God*, New York: St. Martin’s Press.
-* Leftow, Brian, 1991, *Time and Eternity*, Ithaca, NY: Cornell University Press.
-* Mann, William, 1987, “Immutability and Predication,” *International Journal for Philosophy of Religion*, 22: 21–39.
-* Mann, William, 1983, “Simplicity and Immutability in God”, *International Philosophical Quarterly*, 23: 267–276.
-* McHugh, Christopher, 2003, “A Refutation of Gale’s Creation-Immutability Arguments,” *Philo*, 6: 5-9.
-* Pawl, Timothy, 2016, *In Defense of Conciliar Christology*, Oxford: Oxford University Press.
-* Philo, *On the Unchangeableness of God*, trans. F. Colson and G. Whitaker, in *Philo*, trans. F. Colson and G. Whitaker, Cambridge, MA: Loeb Classical Library (Volume 3), Harvard University press, 1960.
-* Plato, *Phaedo*, trans. G. Grube, Indianapolis: Hackett, 1977.
-* Plato, *Republic*, trans. G. Grube and C. Reeve, Indianapolis: Hackett, 1992.
-* Sorabji, Richard, 1983, *Time, Creation and the Continuum*, Ithaca, NY: Cornell University Press.
-* Stump, Eleonore, 1996, “Libertarian Freedom and the Principle of Alternative Possibilities,” in Jeff Jordan & Daniel Howard-Snyder (eds.), *Faith, Freedom, and Rationality*, Lanham: Rowman and Littlefield.
-* Sullivan, Thomas D., 1991, “Omniscience, Immutability, and the Divine Mode of Knowing,” *Faith and Philosophy*, 8: 21–35.
-* Swinburne, Richard, 1993, *The Coherence of Theism*, rev. ed., Oxford: Oxford University Press.
-* Wierenga, Edward, 1989, *The Nature of God*, Ithaca: Cornell University Press.
+[^aristotle-1941]: Aristotle, *De Caelo* (*De Cael.*), trans. R. Hardie and R. Gaye, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
+
+[^aristotle-1941-2]: Aristotle, *Physics* (*Phys.*), tr. J. Stocks, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
+
+[^azadegan-2022]: Azadegan, Ebrahim, 2022, “On the incompatibility of God’s knowledge of particulars and the doctrine of divine immutability,” *Religious Studies* 58, 327–344.
+
+[^azadegan-2023]: –––, 2023, “Necessary Existence, Immutability, and God’s Knowledge of Particulars,” *Philosophy East and West* 73, 188–196.
+
+[^boethius-1936]: Boethius, *The Consolation of Philosophy*, trans. H. Stewart, in *Boethius: The Theological Tractates*, trans. H. Stewart and E. K. Rand, Cambridge, MA: Loeb Classical Library, Harvard University Press, 1936.
+
+[^brown-1991]: Brown, Robert F., 1991, “Divine Omniscience, Immutability, Aseity, and Human Free Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 27: 285–295.
+
+[^castañeda-1967]: Castañeda, Hector-Neri, 1967, “Omniscience and Indexical Reference,” *Journal of Philosophy*, 64: 203–210.
+
+[^craig-2001]: Craig, William L., 2001, *God, Time and Eternity*, Dordrecht: Kluwer.
+
+[^craig-2004]: –––, 2004, “Wierenga No A-Theorist Either,” *Faith and Philosophy*, 21: 105–109.
+
+[^cumming-2003]: Cumming, David, 2003, “Descartes on the Immutability of the Divine Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 39 (1): 79–92.
+
+[^dorner-1994]: Dorner, Isaak, tr. Robert Williams and Claude Welch, 1994, *Divine Immutability*, Minneapolis: Fortress Press.
+
+[^duby-2017]: Duby, Stephen, 2017, “Divine Immutability, Divine Action and the God–World Relation,” *International Journal of Systematic Theology* 19, 144–162.
+
+[^duby-2022]: –––, 2022, *Jesus and the God of Classical Theism*, Grand Rapids: Baker Academic.
+
+[^ekstrom-2000]: Ekstrom, Laura, 2000, *Free Will*, Boulder: Westview.
+
+[^francescotti-2017]: Francescotti, Robert (ed.), 2017, *Companion to Intrinsic Properties*, Berlin: De Gruyter.
+
+[^gale-1986]: Gale, Richard, 1986, “Omniscience-Immutability Arguments,” *American Philosophical Quarterly*, 23: 319–35.
+
+[^hallman-1981]: Hallman, Joseph, 1981, “The Mutability of God: Tertullian to Lactantius,” *Theological Studies*, 42: 373–93.
+
+[^hartshorne-1948]: Hartshorne, Charles, 1948, *The Divine Relativity*, New Haven: Yale University Press.
+
+[^helm-1988]: Helm, Paul, 1988, *Eternal God*, New York: Oxford University Press.
+
+[^kane-1996]: Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press.
+
+[^kaufman-2005]: Kaufman, Dan, 2005, “God’s Immutability and the Necessity of Descartes’s Eternal Truths”, *Journal of the History of Philosophy*, 43: 1–19.
+
+[^kretzmann-1966]: Kretzmann, Norman, 1966, “Omniscience and Immutability,” *Journal of Philosophy*, 63: 409–421.
+
+[^kretzmann-1981]: Kretzmann, Norman, and Eleonore Stump, 1981, “Eternity,” *Journal of Philosophy*, 78: 429–458.
+
+[^kvanvig-1986]: Kvanvig, Jonathan, 1986, *The Possibility of an All-Knowing God*, New York: St. Martin’s Press.
+
+[^leftow-1991]: Leftow, Brian, 1991, *Time and Eternity*, Ithaca, NY: Cornell University Press.
+
+[^mann-1987]: Mann, William, 1987, “Immutability and Predication,” *International Journal for Philosophy of Religion*, 22: 21–39.
+
+[^mann-1983]: –––, 1983, “Simplicity and Immutability in God”, *International Philosophical Quarterly*, 23: 267–276.
+
+[^mchugh-2003]: McHugh, Christopher, 2003, “A Refutation of Gale’s Creation-Immutability Arguments,” *Philo*, 6: 5-9.
+
+[^pawl-2016]: Pawl, Timothy, 2016, *In Defense of Conciliar Christology*, Oxford: Oxford University Press.
+
+[^philo-1960]: Philo, *On the Unchangeableness of God*, trans. F. Colson and G. Whitaker, in *Philo*, trans. F. Colson and G. Whitaker, Cambridge, MA: Loeb Classical Library (Volume 3), Harvard University press, 1960.
+
+[^plato-1977]: Plato, *Phaedo*, trans. G. Grube, Indianapolis: Hackett, 1977.
+
+[^plato-1992]: Plato, *Republic*, trans. G. Grube and C. Reeve, Indianapolis: Hackett, 1992.
+
+[^sorabji-1983]: Sorabji, Richard, 1983, *Time, Creation and the Continuum*, Ithaca, NY: Cornell University Press.
+
+[^stump-1996]: Stump, Eleonore, 1996, “Libertarian Freedom and the Principle of Alternative Possibilities,” in Jeff Jordan & Daniel Howard-Snyder (eds.), *Faith, Freedom, and Rationality*, Lanham: Rowman and Littlefield.
+
+[^sullivan-1991]: Sullivan, Thomas D., 1991, “Omniscience, Immutability, and the Divine Mode of Knowing,” *Faith and Philosophy*, 8: 21–35.
+
+[^swinburne-1993]: Swinburne, Richard, 1993, *The Coherence of Theism*, rev. ed., Oxford: Oxford University Press.
+
+[^wierenga-1989]: Wierenga, Edward, 1989, *The Nature of God*, Ithaca: Cornell University Press.
 
 ## 学术工具
 
