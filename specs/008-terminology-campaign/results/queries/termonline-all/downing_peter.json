@@ -2,10 +2,347 @@
  "key": "downing, peter",
  "term": "Downing, Peter",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T20:59:16+00:00",
- "status": "error",
- "note": "variant=Downing, Peter; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Downing, Peter: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:16:25+00:00",
+ "status": "ok",
+ "note": "variant=Downing, Peter; 审定公布名词库=1231; 海峡两岸名词对照库=381; 其他来源数据库=69; 预公布名词数据库=47; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "胎毛",
+   "en": "down",
+   "code": "07.0393",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_感觉器_其他感觉器、皮肤及其衍生结构"
+  },
+  {
+   "cn": "接地引下线",
+   "en": "down conductor,down lead",
+   "code": "20.235",
+   "standard": "电力名词",
+   "subject": "电力_高电压技术"
+  },
+  {
+   "cn": "歇业",
+   "en": "close down",
+   "code": "03.0353",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_企业管理"
+  },
+  {
+   "cn": "压帽",
+   "en": "punch down",
+   "code": "17.208",
+   "standard": "农学名词",
+   "subject": "农产品贮运与加工_果蔬加工"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "code": "7.10",
+   "standard": "肝病学名词",
+   "subject": "肝病学_遗传代谢性肝病_细胞器疾病"
+  },
+  {
+   "cn": "康普顿软化",
+   "en": "down-Comptonization",
+   "code": "04.314",
+   "standard": "天文学名词",
+   "subject": "天文学_天体物理学"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "code": "04.192",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_专科麻醉_小儿麻醉"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "code": "4.481",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病诊断学_睡眠相关疾病及综合征"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "code": "17.033",
+   "standard": "行为医学名词",
+   "subject": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状"
+  },
+  {
+   "cn": "降频扫描",
+   "en": "down sweep",
+   "code": "08.0206",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_勘探地球物理学_地震勘探"
+  },
+  {
+   "cn": "顺铣",
+   "en": "down milling",
+   "code": "09.079",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法"
+  },
+  {
+   "cn": "三通式下料管头",
+   "en": "down turn",
+   "code": "04.346",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程设计"
+  },
+  {
+   "cn": "尺度下推",
+   "en": "scaling down",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "缩小",
+   "en": "scale down",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "唐斯",
+   "en": "Downes\",\"Olin(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "由上而下",
+   "en": "top down",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "下拍",
+   "en": "down-beat",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "强拍",
+   "en": "down-beat",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down syndrome",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "减效突变",
+   "en": "down mutation",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "下调",
+   "en": "down regulation",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "下调物",
+   "en": "down regulator",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "减量调节,下调",
+   "en": "down regulation",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "减量调节物,下调物",
+   "en": "down regulator",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "放下！",
+   "en": "Down!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "佩塔斯",
+   "en": "Peters",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "记录",
+   "en": "writing down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "扑倒",
+   "en": "take down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "碰倒",
+   "en": "knock down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "减速",
+   "en": "slow down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "旋转下降",
+   "en": "spin-down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "击倒",
+   "en": "knock down fall\",\"knock down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "彼得原理",
+   "en": "Peter Principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "立扑",
+   "en": "standing take down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "压倒",
+   "en": "hold-down\",\"immobilization",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "故意倒地",
+   "en": "intentionally fall down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "down syndrome",
+   "code": "4.14.3.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "自上而下法",
+   "en": "top-down approach",
+   "code": "12.2.5.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down's syndrome",
+   "code": "3.5.2.2.3.6",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "“自上而下”路径",
+   "en": "top-down approach",
+   "code": "1.4.5.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "下排气压力蒸汽灭菌器",
+   "en": "down-exhaust pressure steam sterilizer",
+   "code": "3.1.3.10.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "《平定回疆剿擒逆裔方略》",
+   "en": "Strategy of putting down Huijiang",
+   "code": "3.0273",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "code": "3.2.3.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "跳出历史周期律",
+   "en": "jump out of the cycle of historical ups and downs",
+   "code": "03.0461",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "溺水",
+   "en": "drowning",
+   "code": "13.2.3",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "code": "3.3.2.1.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "code": "8.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_儿童伤害"
+  },
+  {
+   "cn": "海水淹溺",
+   "en": "seawater drowning",
+   "code": "12.2.9",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_潜水医学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

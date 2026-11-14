@@ -2,10 +2,95 @@
  "key": "durandus",
  "term": "Durandus",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T21:14:17+00:00",
- "status": "error",
- "note": "variant=Durandus; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Durandus: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:17:55+00:00",
+ "status": "ok",
+ "note": "variant=Durandus; 审定公布名词库=6; 海峡两岸名词对照库=4; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": "10.044",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": "05.0268",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_空间物理学_行星际与太阳"
+  },
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": "11.0224",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": "01.014",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天学综合术语"
+  },
+  {
+   "cn": "杜兰线",
+   "en": "Durand Line",
+   "code": "01.0236",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_战争"
+  },
+  {
+   "cn": "天王星环",
+   "en": "Uranian ring; ring of Uranus; Uranus’ ring",
+   "code": "10.065",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "迪朗，玛丽-奥古斯特",
+   "en": "Durand\",\"Marie Auguste(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "迪朗，若埃尔-弗朗索瓦",
+   "en": "Durand\",\"Joël-François(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "天王星环",
+   "en": "Uranian ring\",\"Uranus' ring",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "天王星",
+   "en": "Uranus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "杜兰线",
+   "en": "Durand Line",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,207 @@
  "key": "detlev claussen",
  "term": "Detlev Claussen",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T20:27:44+00:00",
- "status": "error",
- "note": "variant=Detlev Claussen; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Detlev Claussen: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:16:25+00:00",
+ "status": "ok",
+ "note": "variant=Detlev Claussen; 审定公布名词库=78; 海峡两岸名词对照库=96; 其他来源数据库=1; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "经销商",
+   "en": "dealer",
+   "code": "05.02.009",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行者"
+  },
+  {
+   "cn": "自营商",
+   "en": "dealer",
+   "code": "07.0744",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_金融市场与机构"
+  },
+  {
+   "cn": "子句",
+   "en": "clause",
+   "code": "02.0141",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "小句",
+   "en": "clause",
+   "code": "04.143",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "分句",
+   "en": "clause",
+   "code": "04.142",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "除外条款",
+   "en": "exception clause,exemption clause",
+   "code": "13.0092",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "专用车行路",
+   "en": "special dealer road",
+   "code": "04.0290",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_风景名胜保护和规划"
+  },
+  {
+   "cn": "同级类",
+   "en": "same level classes,collateral classes",
+   "code": "04.207",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_分类法"
+  },
+  {
+   "cn": "香气类别",
+   "en": "fragrance classes",
+   "code": "08.0761",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_日用化学品"
+  },
+  {
+   "cn": "同位类",
+   "en": "coordinate classes",
+   "code": "04.208",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_分类法"
+  },
+  {
+   "cn": "克莱森重排",
+   "en": "Claisen rearrangement",
+   "code": "02.1090",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_有机合成和有机反应"
+  },
+  {
+   "cn": "电压等级",
+   "en": "voltage classe",
+   "code": "08.0747",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林供电和照明"
+  },
+  {
+   "cn": "特许经销商",
+   "en": "authorized dealer",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "特许经营商",
+   "en": "franchise dealer",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "自营银行",
+   "en": "dealer bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "子句",
+   "en": "clause",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "外汇经纪人",
+   "en": "foreign exchange dealer",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "证券经纪人",
+   "en": "dealer in security",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "克莱森重排",
+   "en": "Claisen rearrangement",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "附条款票据",
+   "en": "claused bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "辐射等级",
+   "en": "radiation classes",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "保护条款",
+   "en": "safeguard clause",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "保留条款",
+   "en": "saving clause",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "保证条款",
+   "en": "warranty clause",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "Dolev-Yao模型",
+   "en": "Dolev-Yao model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "级别婚",
+   "en": "marriage of classes",
+   "code": "1.035",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "课间休息",
+   "en": "recess between classes",
+   "code": "8.5.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生"
+  },
+  {
+   "cn": "新疆、西藏内地高中班",
+   "en": "mainland high school classes in Xin'jiang and Xi'zang",
+   "code": "2.0086",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  }
+ ],
+ "error": null,
  "raw": null
 }

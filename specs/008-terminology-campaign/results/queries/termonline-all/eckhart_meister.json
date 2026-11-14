@@ -2,10 +2,347 @@
  "key": "eckhart, meister",
  "term": "Eckhart, Meister",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T21:23:14+00:00",
- "status": "error",
- "note": "variant=Eckhart, Meister; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Eckhart, Meister: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:17:55+00:00",
+ "status": "ok",
+ "note": "variant=Eckhart, Meister; 审定公布名词库=1490; 海峡两岸名词对照库=609; 其他来源数据库=32; 预公布名词数据库=45; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "标准表法",
+   "en": "master meter method",
+   "code": "06.211",
+   "standard": "计量学名词",
+   "subject": "计量学_容量、流量_流量"
+  },
+  {
+   "cn": "灌水器",
+   "en": "emitter",
+   "code": "12.143",
+   "standard": "农学名词",
+   "subject": "农业水利_农田灌溉"
+  },
+  {
+   "cn": "声区",
+   "en": "register",
+   "code": "3.2.23",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈生理"
+  },
+  {
+   "cn": "灌水器",
+   "en": "emitter",
+   "code": "08.0887",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林给水"
+  },
+  {
+   "cn": "登记",
+   "en": "register",
+   "code": "06.03.008",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_流程与方法"
+  },
+  {
+   "cn": "套准",
+   "en": "register",
+   "code": "03.04.003",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印刷技术_设备_材料"
+  },
+  {
+   "cn": "假捻器",
+   "en": "twister",
+   "code": "4.0196",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成纤维_总论"
+  },
+  {
+   "cn": "计度器",
+   "en": "register",
+   "code": "02.081",
+   "standard": "电力名词",
+   "subject": "电力_电测与计量"
+  },
+  {
+   "cn": "水疱",
+   "en": "blister",
+   "code": "01.086",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤概论_烧伤后病理生理变化"
+  },
+  {
+   "cn": "钢锭气泡",
+   "en": "blister",
+   "code": "09.1135",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属加工_产品缺陷"
+  },
+  {
+   "cn": "分生组织",
+   "en": "meristem",
+   "code": "03.0705",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_结构植物学"
+  },
+  {
+   "cn": "发射极",
+   "en": "emitter",
+   "code": "03.0938",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "验潮仪",
+   "en": "tide-meter. tide register",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "分生组织",
+   "en": "meristem",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发射体",
+   "en": "emitter",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "除沫器",
+   "en": "demister",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "神秘的",
+   "en": "mistero",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "音区",
+   "en": "register",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "神秘",
+   "en": "mistero",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "声区",
+   "en": "register",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "分生组织",
+   "en": "meristem",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "寄存器",
+   "en": "register",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "后星骨针",
+   "en": "metaster",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "气泡",
+   "en": "blister",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "做假动作队员",
+   "en": "faker\",\"feinter",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "航海图",
+   "en": "chart\",\"nautical chart",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "移位寄存器",
+   "en": "shift register",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "检查员",
+   "en": "register keeper",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "靶场记录",
+   "en": "range register",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "酯",
+   "en": "ester",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "节拍",
+   "en": "meter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "Ray Reiter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主数据",
+   "en": "master data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "港口主管",
+   "en": "harbour master",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "语域",
+   "en": "register",
+   "code": "5.0097",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "人口登记",
+   "en": "population register",
+   "code": "4.5.9.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_人口分布"
+  },
+  {
+   "cn": "糜烂性毒剂",
+   "en": "blister agent",
+   "code": "10.5.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "绕口令",
+   "en": "tongue twister",
+   "code": "4.0364",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "code": "3.1.6.6",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "母料",
+   "en": "master batch",
+   "code": "7.1.41",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "早孕建册",
+   "en": "early pregnancy register",
+   "code": "3.5.5.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "喀什噶尔参赞大臣",
+   "en": "Kashgar Counselor minister",
+   "code": "3.0233",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "code": "1.2.5.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "组织结构图",
+   "en": "organization chart",
+   "code": "2.5.9.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "死因谱",
+   "en": "death chart",
+   "code": "2.5.4",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "code": "6.1.12.2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  }
+ ],
+ "error": null,
  "raw": null
 }

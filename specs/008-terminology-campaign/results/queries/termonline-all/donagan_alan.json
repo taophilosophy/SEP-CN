@@ -2,10 +2,347 @@
  "key": "donagan, alan",
  "term": "Donagan, Alan",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T20:51:46+00:00",
- "status": "error",
- "note": "variant=Donagan, Alan; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Donagan, Alan: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:16:25+00:00",
+ "status": "ok",
+ "note": "variant=Donagan, Alan; 审定公布名词库=602; 海峡两岸名词对照库=138; 其他来源数据库=58; 预公布名词数据库=71; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "九边形",
+   "en": "nonagon",
+   "code": "08.0107",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "code": "09.103",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_影像存储与传输_医学影像信息系统"
+  },
+  {
+   "cn": "仿真局域网",
+   "en": "emulated LAN,ELAN",
+   "code": "02.121",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信网络"
+  },
+  {
+   "cn": "无线局域网",
+   "en": "wireless LAN,WLAN",
+   "code": "12.009",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_移动通信"
+  },
+  {
+   "cn": "翼状突",
+   "en": "ala,alae (复)",
+   "code": "11.444",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_蜱螨学"
+  },
+  {
+   "cn": "龙眼",
+   "en": "longan; Dimocarpus longan Lour.",
+   "code": "05.096",
+   "standard": "农学名词",
+   "subject": "园艺作物_果树作物"
+  },
+  {
+   "cn": "东安鸡",
+   "en": "Dong’an chicken",
+   "code": "03.103",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_家畜家禽品种_鸡品种_地方鸡品种"
+  },
+  {
+   "cn": "唐南平衡",
+   "en": "Donnan equilibrium",
+   "code": "8.0074",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性"
+  },
+  {
+   "cn": "唐南平衡",
+   "en": "Donnan equilibrium",
+   "code": "04.1539",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_胶体化学"
+  },
+  {
+   "cn": "唐南电势",
+   "en": "Donnan potential",
+   "code": "04.0473",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_电化学"
+  },
+  {
+   "cn": "东干人",
+   "en": "Dungan People",
+   "code": "05.0633",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_高加索、中亚"
+  },
+  {
+   "cn": "龙眼肉",
+   "en": "longan aril",
+   "code": "06.257",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_中药"
+  },
+  {
+   "cn": "霍夫哈内斯",
+   "en": "Hovhaness\",\"Alan(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "西维尔",
+   "en": "Civil\",\"Alan(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "巴洛",
+   "en": "Barlow\",\"Alan(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "布什，阿兰",
+   "en": "Bush\",\"Alan(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "泰森",
+   "en": "Tyson\",\"Alan(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "罗斯索恩",
+   "en": "Rawsthorne\",\"Alan(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "翼状突",
+   "en": "ala\",\"alae(复)",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "唐南平衡",
+   "en": "Donnan equilibrium",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "单种植物小群",
+   "en": "clan",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "翼板",
+   "en": "alar plate\",\"alar lamina",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "总体规划",
+   "en": "master plan\",\"comprehensive plan",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "总体规划",
+   "en": "general plan\",\"master plan",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "图示评审技术",
+   "en": "Alan Pritsker",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合一",
+   "en": "John Alan Robinson",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "氏族",
+   "en": "Clan",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "比赛计划",
+   "en": "game plan",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "回力球运动",
+   "en": "jai alai",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "帆面",
+   "en": "sail plan",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "战术计划",
+   "en": "tactical plan",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "艾伦丘陵陨石84001",
+   "en": "Allan Hills 84001",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "宗法",
+   "en": "Feudal Clan System",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "金融突发事件应急预案",
+   "en": "financial emergency plan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据安全规划",
+   "en": "Data Security Plan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "急救疏散方案",
+   "en": "medical evacuation plan",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "摩纳哥人",
+   "en": "Monacan",
+   "code": "6.0289",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_欧洲地区"
+  },
+  {
+   "cn": "东干人",
+   "en": "Dungan",
+   "code": "6.0158",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "计划",
+   "en": "plan",
+   "code": "4.4.4.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "氏族",
+   "en": "clan",
+   "code": "03.0006",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "氏族",
+   "en": "clan",
+   "code": "1.0333",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "阿肯弹唱",
+   "en": "Akan sings",
+   "code": "3.0635",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "宗族",
+   "en": "patriarchal clan",
+   "code": "1.0279",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "应急计划",
+   "en": "emergency plan",
+   "code": "7.2.1.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "介入方案",
+   "en": "intervention plan/",
+   "code": "4.4.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "服务计划",
+   "en": "service plan",
+   "code": "4.4.4.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "小组计划书",
+   "en": "group plan",
+   "code": "4.4.8.20",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式"
+  },
+  {
+   "cn": "氏族公社",
+   "en": "clan commune",
+   "code": "03.0008",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
