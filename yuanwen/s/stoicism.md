@@ -301,7 +301,7 @@ The late 16th and early 17th centuries saw efforts to form a systematic synthesi
 
 ### 5.4 On Contemporary Philosophy
 
-While Stoic texts were not widely read or readily accessible in the 19th and early 20th centuries, some of their views were presented in anthologies and historical surveys, such as Prantl’s 1855 *History of Western Logic*, the first volume of which contains a lengthy chapter on Stoic logic. A recent study by S. Bobzien (2021) has suggested that the latter might have found its way to Gottlob Frege, the 20th century philosopher credited by many with founding analytic philosophy. In this work, Bobzien produces evidence that some of Frege’s own work is derived from, and heavily indebted to, these Stoic texts.
+While Stoic texts were not widely read or readily accessible in the 19th and early 20th centuries, some of their views were presented in anthologies and historical surveys, such as Prantl’s 1855 *History of Western Logic*, the first volume of which contains a lengthy chapter on Stoic logic. A recent study by S. Bobzien (2021)[^bobzien-2021] has suggested that the latter might have found its way to Gottlob Frege, the 20th century philosopher credited by many with founding analytic philosophy. In this work, Bobzien produces evidence that some of Frege’s own work is derived from, and heavily indebted to, these Stoic texts.
 
 ## References（引用注释）
 

@@ -350,7 +350,7 @@ Again Russell might reply that he is not attempting to describe how we *actually
 
 ### 8.4 The Problem of Validity
 
-It is a common complaint against emotivism that it precludes the possibility of moral arguments that are valid in a non-trivial sense. An argument is formally valid if and only if, no matter how the non-logical vocabulary is interpreted, the premises cannot be true and the conclusion false. But if the premises of a moral argument are not truth-apt—if they are semantically *incapable* of truth or falsity—then all moral arguments, no matter how obviously “illogical” they may appear, will be trivially valid, since the premises cannot be true! We can avoid this absurdity by making explicit what the standard definition of validity presupposes—that an argument cannot be a *candidate* for validity unless the premises and the conclusions are both truth-apt. But if we do that, moral arguments cease to be candidates for validity, no matter how logically impeccable they may appear to be. Stevenson (1944: 154–159) accepts this conclusion as a consequence of his theory, but to the rest of us it seems a very large dead rat to swallow.
+It is a common complaint against emotivism that it precludes the possibility of moral arguments that are valid in a non-trivial sense. An argument is formally valid if and only if, no matter how the non-logical vocabulary is interpreted, the premises cannot be true and the conclusion false. But if the premises of a moral argument are not truth-apt—if they are semantically *incapable* of truth or falsity—then all moral arguments, no matter how obviously “illogical” they may appear, will be trivially valid, since the premises cannot be true! We can avoid this absurdity by making explicit what the standard definition of validity presupposes—that an argument cannot be a *candidate* for validity unless the premises and the conclusions are both truth-apt. But if we do that, moral arguments cease to be candidates for validity, no matter how logically impeccable they may appear to be. Stevenson (1944: 154–159)[^stevenson-1944] accepts this conclusion as a consequence of his theory, but to the rest of us it seems a very large dead rat to swallow.
 
 Russell is immune to this argument as regards “ought”, “right” and “wrong” since in his view ought-judgments are susceptible to truth and falsity. “It is wrong (wrt to *B*) to kill the innocent” is a truth-apt expression. Hence the argument “It is wrong (wrt to *B*) to kill the innocent; to bomb the village would be to kill the innocent: therefore it is wrong (wrt to *B*) to bomb the village”, is a candidate for validity, and is in fact, valid. To argue from the same premises that it would be *right* (wrt *B*) to bomb the village would be obviously fallacious.
 
@@ -383,7 +383,7 @@ This is not perhaps a very plausible reconstruction of the original argument, bu
 
 ### 8.5 Geach’s Problem
 
-But there is another broadly logical objection to emotivism that is much more difficult for Russell to meet. The objection was first mooted by W.D. Ross (1939) but it was reinvented and refined by P.T. Geach (1960, 1965), who modestly attributes it to Frege. Consider the following obviously valid argument:
+But there is another broadly logical objection to emotivism that is much more difficult for Russell to meet. The objection was first mooted by W.D. Ross (1939)[^ross-1939] but it was reinvented and refined by P.T. Geach (1960, 1965)[^geach-1960][^geach-1965], who modestly attributes it to Frege. Consider the following obviously valid argument:
 
 **(1)**
 
@@ -480,7 +480,7 @@ The word “recognition” suggests that the “subjectivity of ethics” is tru
 
 ### 9.2 Russell and the Argument from Relativity
 
-So what were Russell’s reasons for rejecting a non-natural property of goodness? One argument, subsequently popularized by J.L. Mackie (1977) as “the Argument from Relativity”, starts with the diversity of moral opinion and the supposed impossibility of proof when it comes to ultimate values.
+So what were Russell’s reasons for rejecting a non-natural property of goodness? One argument, subsequently popularized by J.L. Mackie (1977)[^mackie-1977] as “the Argument from Relativity”, starts with the diversity of moral opinion and the supposed impossibility of proof when it comes to ultimate values.
 
 > If our views as to what ought to be done were to be truly rational, we ought to have a rational way of ascertaining what things are such as ought to exist on their own account [that is, what things are good] …. On [this] point, no argument is possible. There can be nothing beyond an appeal to individual tastes. If, for example, one man thinks vindictive punishment desirable in itself, apart from any reformatory or deterrent effects, while another man thinks it undesirable in itself, it is impossible to bring any arguments in support of either side. (*RoE*: 112/*Papers* 13: 186)
 

@@ -125,7 +125,7 @@ With respect to so-called ‘physical *sophismata*,’ special attention should 
 
 In the Middle Ages the label ‘grammatical *sophismata*’ was used for the *sophismata* that dealt with grammatical well-formedness (*congruitas*) and grammatico-semantic completeness. *Sophismata* such as ‘Love is a verb’, ‘O Master’, ‘It rueth me’, and ‘I run’ gave rise to very pointed discussions concerning grammatical categories and theories. For example, does a change in word order change the meaning of a proposition? Can a participle be a subject? How should we interpret interjections? Can ‘*est*’ (‘is’) be used impersonally?
 
-Kneepkens (2015) has drawn our attention to a remarkable collection of *sophismata*, of French or English origin, presumably dating from early thirteenth century, which exclusively discusses problematic sentences taken from biblical, liturgical, and other religious sources. This collection has the characteristics of grammatical *sophismata*, but in addition focuses on metaphorical features of religious language, as well as making use of rhetoric as an analytical tool (Kneepkens 2015, p. 320)[^kneepkens-2015].
+Kneepkens (2015)[^kneepkens-2015] has drawn our attention to a remarkable collection of *sophismata*, of French or English origin, presumably dating from early thirteenth century, which exclusively discusses problematic sentences taken from biblical, liturgical, and other religious sources. This collection has the characteristics of grammatical *sophismata*, but in addition focuses on metaphorical features of religious language, as well as making use of rhetoric as an analytical tool (Kneepkens 2015, p. 320)[^kneepkens-2015].
 
 #### 2.3.4 Theological *Sophismata*
 

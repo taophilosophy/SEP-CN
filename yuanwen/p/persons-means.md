@@ -205,7 +205,7 @@ As Pallikkathayil seems to acknowledge (2010: 116, note 1) this account of treat
 
 [^note-13]: Parfit contrasts an objective view of reasons with a subjective view, according to which our reasons for acting are “all provided by or depend upon, certain facts about what would fulfill or achieve our … desires or aims” (2011: 45). On this view, I would presumably have a reason to remove the splinter from the child’s hand because I want (or would want, if I considered all of the facts) her not to be in pain.
 
-[^note-14]: Ronald Green (2001) suggests an account of treating others merely as means that might also have this implication. He says:
+[^note-14]: Ronald Green (2001)[^green-2001] suggests an account of treating others merely as means that might also have this implication. He says:
 
 > I use someone as a “means only”, not when I employ their bodies or their talents primarily as an instrument of my purpose, but only when I do so in ways they could not also impartially accept. (2001: 255–256)
 

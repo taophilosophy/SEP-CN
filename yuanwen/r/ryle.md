@@ -332,7 +332,7 @@ Readers interested in Ryle’s thoughts about perception and imagination are ref
 
 In his biography of Wittgenstein (*Wittgenstein: The Duty of Genius*. London: Vintage, 1990), Ray Monk relates a story told by Ryle’s niece. Having met him at Guy’s Hospital in London while Wittgenstein was working there as a porter during the Second World War, she asked him who, if anyone, understood his work. Monk suggests that it was a matter of *politesse* on Wittgenstein’s part when he named Ryle. There are reasons, however, to be wary of this suggestion. For after the publication of the *Tractatus* (which Ryle taught at Oxford), Ryle and Wittgenstein seem to have been on parallel tracks of their own and, indeed, may even have learned from one another.
 
-After the publication of *The Concept of Mind*, published 10 years after the *Tractatus,* the similarity between the two was recognized by their contemporaries with different reactions. Wittgenstein, having read Ryle’s book, proclaimed “[But] all the magic is gone!” (Hacker 1996). J.O. Urmson (1967), more charitably, claimed that Ryle’s ‘Systematically Misleading Expressions’ was “important as being the first […] version of philosophy closely akin to that which Wittgenstein was then beginning to work out independently, and which is often spoken of as ‘having been first suggested by Wittgenstein’.”
+After the publication of *The Concept of Mind*, published 10 years after the *Tractatus,* the similarity between the two was recognized by their contemporaries with different reactions. Wittgenstein, having read Ryle’s book, proclaimed “[But] all the magic is gone!” (Hacker 1996). J.O. Urmson (1967)[^urmson-1967], more charitably, claimed that Ryle’s ‘Systematically Misleading Expressions’ was “important as being the first […] version of philosophy closely akin to that which Wittgenstein was then beginning to work out independently, and which is often spoken of as ‘having been first suggested by Wittgenstein’.”
 
 Denis Paul noting a contradiction in Wittgenstein’s manuscripts about mental dispositions, writes:
 
@@ -412,9 +412,9 @@ This article uses material from my *Re-thinking Ryle*, in progress; “Une Carto
 
 ### Notes to Supplement on Some Problems in Contemporary Work on Knowing-How and Knowing-That
 
-[^note-15]: 15. For a recent statement of the doctrine that (it is argued here) Ryle dismisses, consider the opening words of Stanley (2011a, 207): “Propositional knowledge is the knowledge attributed by sentences of the form ‘x knows that p’.”
+[^note-15]: 15. For a recent statement of the doctrine that (it is argued here) Ryle dismisses, consider the opening words of Stanley (2011a, 207)[^stanley-2011a]: “Propositional knowledge is the knowledge attributed by sentences of the form ‘x knows that p’.”
 
-[^note-16]: 16. In the Introduction to his seminal *The Language of Thought,* Fodor (1975, 5) remarks that it is difficult to think of an area of cognitive psychology in which the array of arguments in *The Concept of Mind* would not apply or in which Ryle does not apply them. If, indeed, it is a mistake to give mechanistic answers to (what Ryle considers instead to be) conceptual questions then, Fodor acknowledges, “I am in trouble”, and spends a great deal of energy responding to them. See Tanney (2011) for an argument that these responses are not successful and for a more in-depth discussion of Ryle’s regress argument. See Tanney (1998) for a detailed criticism of the introduction of mental representations.
+[^note-16]: 16. In the Introduction to his seminal *The Language of Thought,* Fodor (1975, 5)[^fodor-1975] remarks that it is difficult to think of an area of cognitive psychology in which the array of arguments in *The Concept of Mind* would not apply or in which Ryle does not apply them. If, indeed, it is a mistake to give mechanistic answers to (what Ryle considers instead to be) conceptual questions then, Fodor acknowledges, “I am in trouble”, and spends a great deal of energy responding to them. See Tanney (2011)[^tanney-2011] for an argument that these responses are not successful and for a more in-depth discussion of Ryle’s regress argument. See Tanney (1998)[^tanney-1998] for a detailed criticism of the introduction of mental representations.
 
 [^note-17]: 17. Ryle’s (1965, 161) discussion begins,
 
@@ -428,11 +428,11 @@ This article uses material from my *Re-thinking Ryle*, in progress; “Une Carto
 >
 > [I_{ACTION}] An individual x exercises a state of Intelligence in performing an action φ (i.e., x φ-s Intelligently) if and only if x φ-s and x has some state σ such that (i) σ is or involves a certain type of internal state of engaging propositional content and (ii) σ is appropriately causally (or otherwise explanatorily[…]) related to the production of φ.
 
-Note also Stanley’s (2011a, 207-208) description of Ryle’s position, introducing the notion of cogntive states:
+Note also Stanley’s (2011a, 207-208)[^stanley-2011a] description of Ryle’s position, introducing the notion of cogntive states:
 
 > “According to Gilbert Ryle…knowing how to F is not a species of propositional knowledge. Instead, knowing how is a distinctive kind of non-propositional mental state. On this view, knowing how to find coffee in New York City is a fundamentally different kind of cognitive state from [others Stanley describes]. The latter are propositional knowledge states, whereas the former is not; the fact that it is expressed with the same word is an accident of the English language.”
 
-[^note-19]: 19. Consider the argument here in relation to Ginet’s (1975, 7) claim (and others, cited in Bengson and Moffett (2012, 22) and Fantl (2017)) that Ryle’s regress does not touch on the possibility that I manifest my knowledge-that in any number of ways without prior theoretical operations.
+[^note-19]: 19. Consider the argument here in relation to Ginet’s (1975, 7)[^ginet-1975] claim (and others, cited in Bengson and Moffett (2012, 22) and Fantl (2017)[^fantl-2017]) that Ryle’s regress does not touch on the possibility that I manifest my knowledge-that in any number of ways without prior theoretical operations.
 
 > I exercise (or manifest) my knowledge that one can get the door open by turning the knob and pushing it (as well as my knowledge that there is a door there) by performing that operation quite automatically as I leave the room; and I may do this, of course, without formulating (in my mind or out loud) that proposition or any other relevant proposition.
 

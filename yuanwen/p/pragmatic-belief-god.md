@@ -47,7 +47,7 @@ Since (4) specifies actions, we should understand accepting theistic proposition
 
 It is important to recognize the distinction between theoretical moral arguments for theism (arguments intended to show that God exists), and pragmatic moral arguments for the rationality of theistic belief. George Mavrodes, for instance, constructs a theoretical moral argument by contending that it would be extremely odd that we would have moral obligations the fulfillment of which results in a net loss to the agent. Such a world seems absurd (Mavrodes, 1986)[^mavrodes-1986]. His argument is built upon the idea of a Russellian world, a universe in which mental events are products of non-mental events, and in which there’s no human post-mortem survival, and extinction is the final end of every biological species. A Russellian world implies atheism. Summarized, Mavrodes’ argument is that there are real moral obligations in the actual world. But, real moral obligations would be absurd in a Russellian world, since fulfilling moral obligations often cause a net loss to the moral agent and there is no deep explanation of real moral obligation in a Russellian world (the deep features of a Russellian world would be things like forces and atoms and chance). But, fulfilling moral obligation is not absurd. So, in this respect, there is reason to think that the actual world is not a Russellian world.
 
-Two examples of pragmatic moral arguments are Adams (1979) and Zagzebski (1987). Adams builds his argument on the concept of demoralization – weakening of moral motivation – and the concept of a moral order – roughly, the idea that to achieve a balance of good over evil in the universe requires something more than human effort, yet human effort can add or detract from the total value of the universe. While we cannot do it all on our own, the idea is, we can make a significant difference for better or worse. In short, Adam’s argument is that it is demoralizing not to believe that there is a moral order in the universe, and demoralization is morally undesirable. So, there is moral advantage in accepting that there is a moral order, and theism provides the best account of why that is. Hence, there’s moral advantage in accepting theism.
+Two examples of pragmatic moral arguments are Adams (1979)[^adams-1979] and Zagzebski (1987)[^zagzebski-1987]. Adams builds his argument on the concept of demoralization – weakening of moral motivation – and the concept of a moral order – roughly, the idea that to achieve a balance of good over evil in the universe requires something more than human effort, yet human effort can add or detract from the total value of the universe. While we cannot do it all on our own, the idea is, we can make a significant difference for better or worse. In short, Adam’s argument is that it is demoralizing not to believe that there is a moral order in the universe, and demoralization is morally undesirable. So, there is moral advantage in accepting that there is a moral order, and theism provides the best account of why that is. Hence, there’s moral advantage in accepting theism.
 
 Zagzebski builds her argument upon the ideas of moral skepticism and moral efficacy, and, though she does not employ the term, moral order. Morality is efficacious if we can make significant contributions to the production of good in the universe and to the elimination of evil. Moral skepticism is a doubting of our ability to acquire moral knowledge, and a doubting of moral efficacy. Zagzebski argues that it is rational to try to be moral only if it is rational to believe that the probability that the attempt will succeed and will produce a great good is not outweighed by the probability that one will have to sacrifice goods in the course of the attempt. But given what we know of human abilities and history, it is not rational to believe that the attempt to be moral is likely to succeed if there is no moral order. Since it is rational to try to be moral, it is rational to believe that there is moral order in the universe, and Christian doctrine is, in part, an account of there being a moral order in the universe. So, accepting Christian theism is more rational than accepting that there’s no moral order in the universe.
 
@@ -262,7 +262,7 @@ Clifford’s Rule is a vivid presentation of an influential and long tradition i
 
 For all persons *S* and propositions *p* and times *t*, *S* ought to believe that *p* at *t* if and only if believing *p* fits *S*’s evidence at *t*.
 
-Clearly enough, pragmatic arguments run afoul of (E), since pragmatic arguments are employed either when the evidence is inconclusive, or it is conclusively adverse. Consider the latter case first. Earlier it was mentioned that Pascal’s Wager is the most famous example of a theistic pragmatic argument. Pascal in fact has not one version of the Wager in his *Pensées* (1660) but four. The third version of the Wager is what Ian Hacking (1972) entitles the “Argument from Dominating Expectation,” and it employs the Expectation rule. We can represent it by letting *p* stand for a positive probability greater than zero and less than one-half, and letting EU stand for “expected utility,” and employing F2–F4 as finite values:
+Clearly enough, pragmatic arguments run afoul of (E), since pragmatic arguments are employed either when the evidence is inconclusive, or it is conclusively adverse. Consider the latter case first. Earlier it was mentioned that Pascal’s Wager is the most famous example of a theistic pragmatic argument. Pascal in fact has not one version of the Wager in his *Pensées* (1660) but four. The third version of the Wager is what Ian Hacking (1972)[^hacking-1972] entitles the “Argument from Dominating Expectation,” and it employs the Expectation rule. We can represent it by letting *p* stand for a positive probability greater than zero and less than one-half, and letting EU stand for “expected utility,” and employing F2–F4 as finite values:
 
 |   | **God exists**    (*p*) | **~(God exists)**   (1−*p*) |   |
 | --- | --- | --- | --- |
@@ -395,9 +395,9 @@ God, arguments for the existence of: moral arguments | James, William | life: me
 
 [^note-2]: Some commentators read the Will-to-Believe essay as advancing a truth-dependent argument.
 
-[^note-3]: The analysis here is influenced by Gale (1990, 358).
+[^note-3]: The analysis here is influenced by Gale (1990, 358)[^gale-1990].
 
-[^note-4]: On the many-gods objection to Pascal’s Wager, see Jordan (2006, 219–23).
+[^note-4]: On the many-gods objection to Pascal’s Wager, see Jordan (2006, 219–23)[^jordan-2006].
 
 [^note-5]: This brief argument is not a complete summary of Gale’s detailed objection to James.
 
@@ -405,11 +405,11 @@ God, arguments for the existence of: moral arguments | James, William | life: me
 
 [^note-7]: See Somerville 1995.
 
-[^note-8]: This point is made in Stove (2003, 34).
+[^note-8]: This point is made in Stove (2003, 34)[^stove-2003].
 
 [^note-9]: Is (12) well supported? Two commentators (neither of whom could be called theistic apologists) characterize the relevant social science literature as “…a huge, and growing literature that finds religion to be a reliable source of better mental and even physical health… regardless of the age, sex, race, ethnicity, nationality, or time period of the population being studies” (Stark and Fink 2000, 31–2)[^stark-2000]. See also Koenig, McCullough, and Larson (2012).
 
-[^note-10]: For a discussion concerning the various kinds of rationality and the relations among them, see Moser (1985, 211–38); for an objection to this idea see Feldman (2000, 693–95).
+[^note-10]: For a discussion concerning the various kinds of rationality and the relations among them, see Moser (1985, 211–38)[^moser-1985]; for an objection to this idea see Feldman (2000, 693–95)[^feldman-2000].
 
 [^note-11]: It is far from clear that every case of self-deception is morally or rationally problematic. If it is permissible on some occasions to deceive others, perhaps it is likewise permissible on some occasions to deceive oneself.
 

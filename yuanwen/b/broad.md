@@ -283,8 +283,8 @@ Broad made many specific contributions to the subject of moral philosophy that c
 | [1954a] | “Berkeley’s Denial of Material Substance,” *The Philosophical Review*, 63: 155–81. |
 | [1954b] | “Emotion and Sentiment,” *Journal of Aesthetics and Art Criticism*, 13: 203–214. |
 | [1958] | “Philosophy,” *Inquiry*, 1: 99–129. |
-| [1959a] | “A Reply to My Critics,” in Schilpp (1959). |
-| [1959b] | “Autobiography,” in Schilpp (1959). |
+| [1959a] | “A Reply to My Critics,” in Schilpp (1959)[^schilpp-1959]. |
+| [1959b] | “Autobiography,” in Schilpp (1959)[^schilpp-1959]. |
 | [1968] | *Induction, Probability, and Causation. Selected Papers by C. D. Broad*, Dordrecht: Reidel. |
 | [1971] | *Broad’s Critical Essays in Moral Philosophy*, edited by D. R. Cheney; New York: Humanities Press. |
 | [1975] | *Leibniz*, Cambridge: Cambridge University Press. |
@@ -334,11 +334,11 @@ I would like to thank Jan Almäng, Jens Johansson and the anonymous referees for
 
 [^note-9]: The reason is that the objective constituents of perception are not *per se* instances of the concept of physical object, and it is also only by virtue of the concept physical object that we can hold “they are ‘parts of’ or ‘manifestations of’ instances of this concept” 1925, p. 217.
 
-[^note-10]: It is sometimes assumed that the Growing Block Theory originates with Broad. However, although Broad may be the first to defend the theory it is first articulated by Samuel Alexander in his book of 1920. See Emily Thomas (2019).
+[^note-10]: It is sometimes assumed that the Growing Block Theory originates with Broad. However, although Broad may be the first to defend the theory it is first articulated by Samuel Alexander in his book of 1920. See Emily Thomas (2019)[^thomas-2019].
 
 [^note-11]: Broad could be the first who suggested the Rate of Passage Argument. Cf. Ned Markossian, 1993, p. 836.
 
-[^note-12]: The argument is typically associated with Chisholm (1964). Broad was, of course, earlier than Chisholm; he was, however, not the first to present the argument. As an anonymous referee pointed out, it can be found in Moore’s *Ethics* (1912) and in Sidgwick’s *The Methods of Ethics* (1907). And it may be that Schopenhauer somewhere hints at it.
+[^note-12]: The argument is typically associated with Chisholm (1964)[^chisholm-1964]. Broad was, of course, earlier than Chisholm; he was, however, not the first to present the argument. As an anonymous referee pointed out, it can be found in Moore’s *Ethics* (1912) and in Sidgwick’s *The Methods of Ethics* (1907). And it may be that Schopenhauer somewhere hints at it.
 
 [^note-13]: This is of course not how Broad phrases the conclusion of the argument. He phrases it, in effect, as: there are situations where *S* could have done *A* *if* she had willed to do *A* but where *A*, in spite of that, is *not* obligable. There is, then, some *other* sense of ‘could’ and ‘could not’ such that the fact that *S* could not (in that sense) have done *A* entails that *A* is not obligable.
 

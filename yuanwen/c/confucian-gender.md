@@ -285,7 +285,7 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 
 [^note-6]: For the synonymy of *you* 友 and *you\** 游, see *Mozi*, Ch. 2: “*Xiushen*”:
 
-> One who has wealth but is unable to share it with others is not worth befriending (友). One whose adherence to the *dao* is not thoroughgoing, whose view of things is partial and not broad…is not worth having as a companion (游); for other trans, see Johnston (2010). Also see *Liji*, “*Qulisan*” chapter,
+> One who has wealth but is unable to share it with others is not worth befriending (友). One whose adherence to the *dao* is not thoroughgoing, whose view of things is partial and not broad…is not worth having as a companion (游); for other trans, see Johnston (2010)[^johnston-2010]. Also see *Liji*, “*Qulisan*” chapter,
 
 > Those friends who are his fellow-officers will proclaim him respectful (僚友稱其弟也); those friends who are his subordinate will proclaim him benevolent (執友稱其仁也); and his peer friends will proclaim him trustworthy (交游稱其信也).
 
@@ -299,9 +299,9 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 
 [^note-11]: The seven reasons for expelling a wife are: not getting along with the fathers- and mothers-in-law, childless, promiscuity, jealousy, incurable disease, gossip, and theft; from the above list of reasons it is clear that the first thing in order for the new bride to secure her place in this new patrilineage is to get the hearts of the in-laws before the heart of her husband. The three reasons for not expelling a wife are: has nowhere else to return to, has already partaken in the three-year mourning for the in-laws, and has been through poverty and hardship with the husband before the family becomes wealthy and noble; see *Kongzi jiayu*, “*Benmingjie*” chapter: “婦有七出, 三不去; 七出者: 不順父母出者, 無子者, 婬僻者, 嫉妬者, 惡疾者, 多口舌者, 竊盜者. 三不去者: 謂有所取無所歸一也, 與共更三年之喪二也, 先貧賤後富貴者三也”. Also see *Dadai liji*, “*Benming*” chapter.
 
-[^note-12]: For a more complex reading of footbinding, see Blake (1994); Ebrey (1999); Ko (2005); Rosenlee (2006); Zito (2007).
+[^note-12]: For a more complex reading of footbinding, see Blake (1994)[^blake-1994]; Ebrey (1999)[^ebrey-1999]; Ko (2005); Rosenlee (2006)[^rosenlee-2006]; Zito (2007)[^zito-2007].
 
-[^note-13]: For a brief discussion of Confucianism in the context of an array of ways in which care ethics has been linked and discussed, see Tronto (2013: 24); Collins (2015: 2, 6). For a rare lengthier discussion on Confucianism from a care ethicist outside the sino-comparative communities, see Groenhout (2014: 494–499).
+[^note-13]: For a brief discussion of Confucianism in the context of an array of ways in which care ethics has been linked and discussed, see Tronto (2013: 24)[^tronto-2013]; Collins (2015: 2, 6). For a rare lengthier discussion on Confucianism from a care ethicist outside the sino-comparative communities, see Groenhout (2014: 494–499)[^groenhout-2014].
 
 [^note-14]: Akin to the Greek concept of *philia*, the term *you* 友 is used to cover a wide range of associations from kinship, civil/political alliance, to erotic attachment in various classics; see for instance, *Shujing*, “*Dagao*”, “*Shaogao*”, “*Mushi*”, “*Kanggao*” and “*Junchen*” chapters; *Shijing*, Song 1 “*Guanju*” and Song 165 “*Famu*”.
 

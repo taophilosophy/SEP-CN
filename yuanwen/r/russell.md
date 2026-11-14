@@ -295,7 +295,7 @@ As Erik Banks points out, Russell understood neutral monism to be helpful in two
 
 > Physics itself is exceedingly abstract and reveals only mathematical characteristics of the material with which it deals. It does not tell us anything as to the intrinsic character of this material. Psychology is preferable in this respect but it is not causally autonomous ... But by bringing physics and psychology together, we are able to include psychical events in the material of physics and to give physics the greater concreteness which results from our more intimate acquaintance with the subject matter of our own experience. (1927, 10)
 
-Today several authors, including David Chalmers (1996, 155), Thomas Nagel (2002, 209) and Erik Banks (2014, 114), have shown renewed interest in considering this general approach to the mental-physical distinction.
+Today several authors, including David Chalmers (1996, 155)[^chalmers-1996], Thomas Nagel (2002, 209)[^nagel-2002] and Erik Banks (2014, 114)[^banks-2014], have shown renewed interest in considering this general approach to the mental-physical distinction.
 
 In addition to the above titles by Russell, Russell’s most influential writings relating to his theories of metaphysics and epistemology include *Our Knowledge of the External World* (1914a), “The Relation of Sense-Data to Physics” (1914c), “The Philosophy of Logical Atomism” (1918, 1919), “On Propositions: What They Are and How They Mean” (1919b) and *An Outline of Philosophy* (1927b).
 

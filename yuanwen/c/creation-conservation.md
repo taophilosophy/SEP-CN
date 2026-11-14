@@ -168,7 +168,7 @@ occasionalism | Suárez, Francisco
 
 [^note-1]: Louis E. Loeb regards occasionalism as a straightforward consequence of continuous creation theory. See Loeb 1981, 220.
 
-[^note-2]: Pavelich (2007) in turn challenges the grounds of Quinn’s intuition.
+[^note-2]: Pavelich (2007)[^pavelich-2007] in turn challenges the grounds of Quinn’s intuition.
 
 [^note-3]: Miller argues that such an interval would need to be open on its earlier end. This may recall Suárez’s argument that if creation and conservation were distinct actions, “the second action would have to begin with a last instant of non-existence—something that exceeds the nature of such actions” (Suárez 1597, 122).
 

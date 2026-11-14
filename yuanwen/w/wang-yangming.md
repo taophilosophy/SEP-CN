@@ -163,11 +163,11 @@ Chinese Philosophy: ethics | Chinese Philosophy: Song-Ming Confucianism | Confuc
 
 [^note-5]: For more on Zhu Xi’s metaphysics and ethics, see Gardner 1990, Kim 2000, Van Norden 2004, Shun 2010, and Van Norden 2013.
 
-[^note-6]: Kwong-loi Shun (2011) explains part of what is at issue in the claim that “the mind is Pattern”: “For Zhu…the heart/mind has knowledge of pattern, where such knowledge is akin to a form of perceptual relation.” In contrast, for Wang “…there is no pattern for the heart/mind to relate to independently of the heart/mind’s responses; instead, pattern resides in the responses of the heart/mind in its original state.”
+[^note-6]: Kwong-loi Shun (2011)[^shun-2011] explains part of what is at issue in the claim that “the mind is Pattern”: “For Zhu…the heart/mind has knowledge of pattern, where such knowledge is akin to a form of perceptual relation.” In contrast, for Wang “…there is no pattern for the heart/mind to relate to independently of the heart/mind’s responses; instead, pattern resides in the responses of the heart/mind in its original state.”
 
 [^note-7]: *Analects* 9.18 is one of a number of passages that use the term *se* to refer to sexual attractiveness, and in the commentary on this passage in his *Sishu jizhu* Zhu Xi explicitly links this usage to that in the *Great Learning*. See Slingerland 2003, 92–93.
 
-[^note-8]: For Zhu Xi’s explanation of the phrase “*ge wu,*” see his commentary on *Great Learning,* Classic 4–5, in Tiwald and Van Norden 2014, 189. For Wang’s interpretation, see his “Questions on the *Great Learning,*” in Tiwald and Van Norden 2014, 249. Unfortunately, the key word “*ge*” is highly ambiguous, so both interpretations of this phrase (and others besides) are completely defensible. David S. Nivison (1996a, 225) described the phrase as “a philologist’s delight,” because of the endless speculation it could provoke, and argued that “[n]o one will ever know what it really meant in its *locus classicus*.”
+[^note-8]: For Zhu Xi’s explanation of the phrase “*ge wu,*” see his commentary on *Great Learning,* Classic 4–5, in Tiwald and Van Norden 2014, 189. For Wang’s interpretation, see his “Questions on the *Great Learning,*” in Tiwald and Van Norden 2014, 249. Unfortunately, the key word “*ge*” is highly ambiguous, so both interpretations of this phrase (and others besides) are completely defensible. David S. Nivison (1996a, 225)[^nivison-1996a] described the phrase as “a philologist’s delight,” because of the endless speculation it could provoke, and argued that “[n]o one will ever know what it really meant in its *locus classicus*.”
 
 [^note-9]: The phrases Wang quotes are from *Mengzi* 2A6 and 7A15.
 

@@ -210,7 +210,7 @@ Abner of Burgos | Albo, Joseph | determinism: causal | Duns Scotus, John | free 
 
 ### Acknowledgments
 
-Section 2 on the life of Hasdai Crescas is based on Harvey (2010).
+Section 2 on the life of Hasdai Crescas is based on Harvey (2010)[^harvey-2010].
 
 ## Notes（原文脚注）
 
@@ -264,7 +264,7 @@ Section 2 on the life of Hasdai Crescas is based on Harvey (2010).
 
 [^note-25]: Ravitzky 1982 argues that these two chapters were written under the influence of Duns Scotus. According to this opinion, after years of being under the influence of Abner’s book, *Ofrenda de Zelos*, Crescas built a more deterministic opinion and tried to harmonize it with his earlier thinking. Harvey 1989 critiques this position of Ravitzky and said that it is no probable that Crescas, as a Jewish philosopher, know the difficult Latin works of Dun Scott before the Hebrew book of the very knows apostate Abner. New studies (Sadik 2008)[^sadik-2008] about the influence of Abner on Crescas that prove the influence of Abner to the early stage of Crescas thinking (especially about his critiques of the Aristotelian science) reinforce the opinion of Harvey.
 
-[^note-26]: Ravitzky (1982) asks a question about the breakdown of determinism in these chapters, as does Rosenberg (forthcoming), and even Harvey (2010, pp. 107–113) on the question of beliefs. See Harvey 2010, pp. 120–126 and Harvey 1985.
+[^note-26]: Ravitzky (1982)[^ravitzky-1982] asks a question about the breakdown of determinism in these chapters, as does Rosenberg (forthcoming), and even Harvey (2010, pp. 107–113) on the question of beliefs. See Harvey 2010, pp. 120–126 and Harvey 1985.
 
 [^note-27]: That is the opinion of Abner according to Ravitzky 1982. For another interpretation of Abner, which is closer to the second understanding of Crescas, see Sadik 2011.
 

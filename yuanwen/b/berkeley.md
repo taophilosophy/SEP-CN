@@ -84,7 +84,7 @@ However, one place where one might naturally look for such an argument is not, i
 
 > … I am content to put the whole upon this issue; if you can but conceive it possible for one extended moveable substance, or in general, for any one idea or any thing like an idea, to exist otherwise than in a mind perceiving it, I shall readily give up the cause…. But say you, surely there is nothing easier than to imagine trees, for instance, in a park, or books existing in a closet, and no body by to perceive them. I answer, you may so, there is no difficulty in it: but what is all this, I beseech you, more than framing in your mind certain ideas which you call *books* and *trees*, and at the same time omitting to frame the idea of any one that may perceive them? But do not you your self perceive or think of them all the while? This therefore is nothing to the purpose: it only shows you have the power of imagining or forming ideas in your mind; but it doth not shew that you can conceive it possible, the objects of your thought may exist without the mind: to make out this, it is necessary that you conceive them existing unconceived or unthought of, which is a manifest repugnancy. When we do our utmost to conceive the existence of external bodies, we are all the while only contemplating our own ideas. But the mind taking no notice of itself, is deluded to think it can and doth conceive bodies existing unthought of or without the mind; though at the same time they are apprehended by or exist in it self. (PHK 22–23)
 
-The argument seems intended to establish that we cannot actually conceive of mind-independent objects, that is, objects existing unperceived and unthought of. Why not? Simply because in order to conceive of any such things, we must ourselves be conceiving, i.e., thinking, of them. However, as Pitcher (1977, 113) nicely observes, such an argument seems to conflate the *representation* (what we conceive *with*) and the *represented* (what we conceive *of*—the content of our thought). Once we make this distinction, we realize that although we must have some conception or representation in order to conceive of something, and *that representation* is in some sense thought of, it does not follow (contra Berkeley) that what we conceive *of* must be a thought-of object. That is, when we imagine a tree standing alone in a forest, we (arguably) conceive of an unthought-of object, though of course we must employ a thought in order to accomplish this feat.[^note-6] Thus (as many commentators have observed), *this* argument fails.
+The argument seems intended to establish that we cannot actually conceive of mind-independent objects, that is, objects existing unperceived and unthought of. Why not? Simply because in order to conceive of any such things, we must ourselves be conceiving, i.e., thinking, of them. However, as Pitcher (1977, 113)[^pitcher-1977] nicely observes, such an argument seems to conflate the *representation* (what we conceive *with*) and the *represented* (what we conceive *of*—the content of our thought). Once we make this distinction, we realize that although we must have some conception or representation in order to conceive of something, and *that representation* is in some sense thought of, it does not follow (contra Berkeley) that what we conceive *of* must be a thought-of object. That is, when we imagine a tree standing alone in a forest, we (arguably) conceive of an unthought-of object, though of course we must employ a thought in order to accomplish this feat.[^note-6] Thus (as many commentators have observed), *this* argument fails.
 
 A more charitable reading of the argument (see Winkler 1989, 184–7; Lennon 1988)[^lennon-1988][^winkler-1989] makes Berkeley’s point that we cannot represent unconceivedness, because we have never and could never experience it.[^note-7] Because we cannot represent unconceivedness, we cannot conceive of mind-independent objects. While this is a rather more promising argument, it clearly presupposes representationalism, just as Berkeley’s earlier *Principles* arguments did.[^note-8] (This, however, is not necessarily a defect of the interpretation, since the *Principles*, as we saw above, is aimed against representationalism, and in the *Dialogues* the Master Argument crops up only after Hylas has been converted to representationalism (see below).)[^note-9]
 
@@ -131,7 +131,7 @@ Therefore,
 
 1. Ideas are passive, that is, they possess no causal power.
 
-It should be noted that premise (2) is rather strong; Phillip Cummins (1990) identifies it as Berkeley’s “manifest qualities thesis” and argues that it commits Berkeley to the view that ideas are radically and completely dependent on perceivers in the way that sensations of pleasure and pain are typically taken to be.[^note-13]
+It should be noted that premise (2) is rather strong; Phillip Cummins (1990)[^cummins-1990] identifies it as Berkeley’s “manifest qualities thesis” and argues that it commits Berkeley to the view that ideas are radically and completely dependent on perceivers in the way that sensations of pleasure and pain are typically taken to be.[^note-13]
 
 The second option is eliminated with the observation that although we clearly can cause some ideas at will (e.g. ideas of imagination), sensory ideas are involuntary; they present themselves whether we wish to perceive them or not and we cannot control their content. The hidden assumption here is that any causing the mind does must be done by willing and such willing must be accessible to consciousness. Berkeley is hardly alone in presupposing this model of the mental; Descartes, for example, makes a similar set of assumptions.
 
@@ -263,7 +263,7 @@ A closely related problem which confronts Berkeley is how to make sense of the c
 
 461 suggests the Humean view that a cause is whatever is (regularly)[^note-27] followed by an effect. 499 and 699 revise this doctrine by requiring that a cause not only (regularly) precede an effect but also be a volition. Berkeley’s talk of occasion here reveals the immediate influence of Malebranche. Malebranche held that the only true cause is God and that apparent finite causes are only “occasional causes,” which is to say that they provide occasions for God to act on his general volitional policies. Occasional “causes” thus regularly precede their “effects” but are not truly responsible for producing them. In these notebook entries, however, Berkeley seems to be suggesting that all there is to causality is this regular consequence, with the first item being a volition. Such an account, unlike Malebranche’s, would make my will and God’s will causes in exactly the same thin sense.
 
-Some commentators, most notably Winkler, suppose that Berkeley retains this view of causality in the published works. The main difficulty with this interpretation is that Berkeley more than once purports to inspect our idea of body, and the sensory qualities included therein, and to conclude from that inspection that bodies are passive (DM 22, PHK 25). This procedure would make little sense if bodies, according to Berkeley, fail to be causes by definition, simply because they are not minds with wills.[^note-28] What is needed is an explanation of what Berkeley *means* by activity, which he clearly equates with causal power. Winkler (1989, 130–1) supplies such an account, according to which activity means direction towards an end. But this is to identify efficient causation with final causation, a controversial move at best which Berkeley would be making without comment or argument.
+Some commentators, most notably Winkler, suppose that Berkeley retains this view of causality in the published works. The main difficulty with this interpretation is that Berkeley more than once purports to inspect our idea of body, and the sensory qualities included therein, and to conclude from that inspection that bodies are passive (DM 22, PHK 25). This procedure would make little sense if bodies, according to Berkeley, fail to be causes by definition, simply because they are not minds with wills.[^note-28] What is needed is an explanation of what Berkeley *means* by activity, which he clearly equates with causal power. Winkler (1989, 130–1)[^winkler-1989] supplies such an account, according to which activity means direction towards an end. But this is to identify efficient causation with final causation, a controversial move at best which Berkeley would be making without comment or argument.
 
 The alternative would be to suppose, as *De Motu* 33 suggests, that Berkeley holds that we gain a notion of activity, along with a notion of spirit as substance, through reflective awareness/internal consciousness:
 
@@ -480,7 +480,7 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-2]: Interpreters have usefully distinguished several different types of abstract ideas attacked by Berkeley. See Pappas 2000, 40–44.
 
-[^note-3]: The question of what exactly Berkeley’s argument against abstraction is, and what role it plays in supporting his immaterialism, is a disputed one. Winkler (1989, 30–35) and Jesseph (1993, 20–33) maintain that Berkeley’s main argument against abstraction is the argument from impossibility, according to which abstract ideas are impossible because they would be ideas of impossible objects. Such an argument could only play a supporting role in the attack on materialism. Others (including Pappas 2000, Bolton 1987, Atherton 1987, Muehlmann 1992)[^atherton-1987][^bolton-1987][^muehlmann-1992][^pappas-2000] interpret the argument differently and assign a more central role to it. McKim 1997–8 provides a critical review of several relatively recent positions on the issue.
+[^note-3]: The question of what exactly Berkeley’s argument against abstraction is, and what role it plays in supporting his immaterialism, is a disputed one. Winkler (1989, 30–35)[^winkler-1989] and Jesseph (1993, 20–33)[^jesseph-1993] maintain that Berkeley’s main argument against abstraction is the argument from impossibility, according to which abstract ideas are impossible because they would be ideas of impossible objects. Such an argument could only play a supporting role in the attack on materialism. Others (including Pappas 2000, Bolton 1987, Atherton 1987, Muehlmann 1992)[^atherton-1987][^bolton-1987][^muehlmann-1992][^pappas-2000] interpret the argument differently and assign a more central role to it. McKim 1997–8 provides a critical review of several relatively recent positions on the issue.
 
 [^note-4]: More specifically, she inquired as to “how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to being about voluntary actions” (Elizabeth of Bohemia and Descartes *Corr.*, 62).
 
@@ -488,7 +488,7 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-6]: Analogously, I can conceive of something not thought of by me right now, even if in order to do so I must employ a representation that is conceived of by me right now. If Berkeley denies this, he ends up a solipsist and a presentist, not just an idealist, as is noted by many commentators, e.g. Tipton 1974, 161.
 
-[^note-7]: Campbell (2002, 128) attributes something like this point to Berkeley as well.
+[^note-7]: Campbell (2002, 128)[^campbell-2002] attributes something like this point to Berkeley as well.
 
 [^note-8]: It presupposes representationalism because it assumes that we are immediately confronted with mind-dependent ideas and then raises the question of whether we can use them to conceive of unconceived, mind-independent objects.
 
@@ -514,9 +514,9 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-19]: His claims here are interesting and perceptive. He maintains that the materialists must hold that the proper objects of the senses, e.g. light and colors, pop in and out of existence. And he highlights, à la Malebranche, the scholastic doctrine that conservation amounts to continuous creation. In both cases, however, there are clear grounds for arguing that the doctrine violates common sense less egregiously than an idealist intermittent existence.
 
-[^note-20]: Jonathan Bennett (1971, 170) turned this fact into a subject of scholarly controversy.
+[^note-20]: Jonathan Bennett (1971, 170)[^bennett-1971] turned this fact into a subject of scholarly controversy.
 
-[^note-21]: A number of controversial issues lurk here. Does Berkeley hold that ordinary objects are mediately or immediately perceived? Does Berkeley hold that all perception is immediate perception? A good guide here is George Pappas (2000, 147–182), who argues that Berkeley does allow for mediate perception, but that ordinary objects are typically immediately perceived.
+[^note-21]: A number of controversial issues lurk here. Does Berkeley hold that ordinary objects are mediately or immediately perceived? Does Berkeley hold that all perception is immediate perception? A good guide here is George Pappas (2000, 147–182)[^pappas-2000], who argues that Berkeley does allow for mediate perception, but that ordinary objects are typically immediately perceived.
 
 [^note-22]: Though done on the basis of regularities established by God.
 
@@ -528,9 +528,9 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-26]: Note that the marginal “+” sign that accompanies this entry is has standardly been taken as Berkeley’s indication that he has rejected or dropped consideration of the point contained therein. But see Daniels 2013 for an argument against this interpretation of the “+”.
 
-[^note-27]: The importance of regularity is not explicit in these entries, but Winkler (1989, 108–9) argues convincingly that Berkeley acknowledges it.
+[^note-27]: The importance of regularity is not explicit in these entries, but Winkler (1989, 108–9)[^winkler-1989] argues convincingly that Berkeley acknowledges it.
 
-[^note-28]: Tipton (1974, 307) notes that this definition would be “suspiciously useful” given Berkeley’s purposes.
+[^note-28]: Tipton (1974, 307)[^tipton-1974] notes that this definition would be “suspiciously useful” given Berkeley’s purposes.
 
 [^note-29]: Though he is happy to cite established authors when he agrees with them, more especially in his later works.
 
@@ -540,11 +540,11 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-32]: To recapitulate some key points from section 3 above, Berkeley commits himself in the *Principles* and *Dialogues* to a physical world constituted by sensory ideas. Berkeley’s physical objects are entirely passive, i.e. they lack all causal power, and only spirits/minds can be causes, with God (a spirit/mind) being the true cause of physical phenomena.
 
-[^note-33]: Oda (2022) and Peterschmitt (2008) have argued that Berkeley holds that Newtonian dynamic theory is true, which is incompatible with instrumentalist anti-realism; Oda argues for a pragmatist interpretation instead. But on Berkeley’s use of “truth” in this context see Supplement A.3.3.
+[^note-33]: Oda (2022)[^oda-2022] and Peterschmitt (2008)[^peterschmitt-2008] have argued that Berkeley holds that Newtonian dynamic theory is true, which is incompatible with instrumentalist anti-realism; Oda argues for a pragmatist interpretation instead. But on Berkeley’s use of “truth” in this context see Supplement A.3.3.
 
 [^note-34]: Since the efficient cause of the phenomena is never another physical/ideal thing but rather only God (or possibly some other mind).
 
-[^note-35]: See Ott (2019) for an argument that this *De Motu* version of laws of nature was Berkeley’s position all along.
+[^note-35]: See Ott (2019)[^ott-2019] for an argument that this *De Motu* version of laws of nature was Berkeley’s position all along.
 
 [^note-36]: 36. See Belfrage 1985, 1986b; Berman 1994, 11–17; Pearce 2017, 11.
 
@@ -586,7 +586,7 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-55]: 55. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
 
-[^note-56]: 56. Rozbicki (2001) has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
+[^note-56]: 56. Rozbicki (2001)[^rozbicki-2001] has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
 
 [^berkeley’s-nd]: The standard edition of Berkeley’s works is:
 

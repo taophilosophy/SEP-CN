@@ -72,7 +72,7 @@ Let us consider an example of how a particular formula would be found to be eith
 
 The crucial lemma, referred to above, shows that from $\phi$ we can derive for each $n, \exists x_0 \ldots \exists x_{n+1}\phi_{n}$.
 
-**Case 1:** For some $n, \phi_n$ is not satisfiable. Then, Gödel argued, using the already known completeness theorem for propositional logic,[^note-7] that $\neg \phi_n$ is provable, and hence so is $\forall x_0 ,\ldots ,x_{n+1}\neg \phi_{n}$. Thus $\neg \exists x_0 \ldots \exists x_{n+1}\phi_{n}$ is provable and therefore the $\neg \phi$ is provable, i.e., $\phi$ is refutable in the Hilbert-Ackermann system. (Some partial results about propositional logic in addition to those already mentioned include the semantic completeness of the propositional calculus due to Post (1921), as well as a more general completeness theorem for the same due to Bernays in 1918; the latter appears in Bernays’ unpublished *Habilitationsschrift* of 1918; see also Bernays 1926.)
+**Case 1:** For some $n, \phi_n$ is not satisfiable. Then, Gödel argued, using the already known completeness theorem for propositional logic,[^note-7] that $\neg \phi_n$ is provable, and hence so is $\forall x_0 ,\ldots ,x_{n+1}\neg \phi_{n}$. Thus $\neg \exists x_0 \ldots \exists x_{n+1}\phi_{n}$ is provable and therefore the $\neg \phi$ is provable, i.e., $\phi$ is refutable in the Hilbert-Ackermann system. (Some partial results about propositional logic in addition to those already mentioned include the semantic completeness of the propositional calculus due to Post (1921)[^post-1921], as well as a more general completeness theorem for the same due to Bernays in 1918; the latter appears in Bernays’ unpublished *Habilitationsschrift* of 1918; see also Bernays 1926.)
 
 **Case 2:** Each $\phi_n$ is satisfiable. There are only finitely many possible models with universe $\{x_0 ,\ldots ,x_{n+1}\}$. Gödel orders them as a tree by defining a model $M$ to be below a model $M'$ if $M$ is a submodel of $M'$. In this way we obtain a tree which is finitely branching but infinite. By König’s Lemma there is an infinite branch $B$. (In the proof, Gödel explicitly constructs the branch given by König’s Lemma rather than citing it by name.) The union of the models on $B$ forms a model $M$ with universe $\{x_0, x_1 ,\ldots \}$. Since $M$ satisfies each $\phi_n$, the original formula $\phi$ holds in $M$. So $\phi$ is satisfiable and we are done.
 
@@ -370,7 +370,7 @@ Then,
 
 **Theorem 9** Let $F$ be a propositional formula. Then $\mathbf{H} \vdash F$ if and only if $\mathbf{A} \vdash F^\prime$,
 
-The theorem follows easily from the result of Glivenko (1929) that $\neg F$ follows from $\mathbf{H}$ if and only if $\neg F$ follows from $\mathbf{A}$, for any propositional formula $F$.
+The theorem follows easily from the result of Glivenko (1929)[^glivenko-1929] that $\neg F$ follows from $\mathbf{H}$ if and only if $\neg F$ follows from $\mathbf{A}$, for any propositional formula $F$.
 
 Gödel’s so-called double negation interpretation extends Theorem 9 to a reduction of classical first order logic to intuitionistic predicate logic. The translation in this case can be taken to map $A^\prime$ to $A$ for atomic $A$. Moreover, we let $\forall xA(x)^\prime = \forall xA^\prime(x)$ :
 
@@ -560,7 +560,7 @@ and
 | [1933f] | “Eine Interpretation des intuitionistischen Aussagenkalküls”, *Ergebnisse eines mathematischen Kolloquiums* 4, 39–40. Reprinted in Gödel 1986, pp. 300–301. |
 | [1933i] | “Zum Entscheidungsproblem des logischen Functionenkalküls”, *Monatshefte für Mathematik und Physik*, 40: 433–443. Reprinted in Gödel 1986, pp. 306–326. |
 | [*1933o] | “The present situation in the foundations of mathematics”, manuscript. Printed in Gödel 1995, pp. 45–53. |
-| [1934c] | Review of Skolem (1933). *Zentralblatt für Mathematik und ihre Grenzgebiete*, 7: 193–194. Reprinted in Gödel 1986, pp. 379–380. |
+| [1934c] | Review of Skolem (1933)[^skolem-1933]. *Zentralblatt für Mathematik und ihre Grenzgebiete*, 7: 193–194. Reprinted in Gödel 1986, pp. 379–380. |
 | [1936a] | “Über die Länge von Beweisen”, *Ergebnisse eines mathematischen Kolloquiums*, 7: 23–24. Reprinted in Gödel 1986, pp. 395–399. |
 | [1939a] | “Consistency proof for the generalized continuum hypothesis”, *Proceedings of the National Academy of Sciences, U.S.A.*, 25: 220–224. Reprinted in Gödel 1990, pp. 28–32. |
 | [1940] | “The Consistency of the Continuum Hypothesis”, *Annals of Mathematics Studies*, Volume 3, Princeton: Princeton University Press. Reprinted in Gödel 1990, pp. 33–101. |

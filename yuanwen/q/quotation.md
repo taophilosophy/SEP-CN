@@ -148,7 +148,7 @@ Quine said that quotation has a certain anomalous feature.
 
 In this regard, the quotation in (12) is, in an intuitive sense, simultaneously used and mentioned. It is used to say what Quine said (*viz.* that quotation has a certain anomalous feature), and also to say that Quine used the words ‘has a certain anomalous feature’ in saying it.
 
-Mixed quotation had not been much discussed prior to Davidson (1979) but it has recently taken center stage in discussions of theories of quotation. For those who believe themselves unfamiliar with the data, we point out that mixed quotation is one of the most frequently used forms of quotation. Casually peruse any newspaper and you will find passages like the following from the *New York Times*:
+Mixed quotation had not been much discussed prior to Davidson (1979)[^davidson-1979] but it has recently taken center stage in discussions of theories of quotation. For those who believe themselves unfamiliar with the data, we point out that mixed quotation is one of the most frequently used forms of quotation. Casually peruse any newspaper and you will find passages like the following from the *New York Times*:
 
 > *NYT* Dec 7, 2004: The court ruled that the sentence was invalid because the document signed into law by President Bill Clinton contained a phrase that was illogical. The law said that defendants like Mr. Pabon, who was convicted two years ago of advertising to receive or distribute child pornography over the Internet, should be fined or receive a mandatory minimum sentence of 10 years ‘and both.’ The appeals court said this language ‘makes no sense.’
 
@@ -262,7 +262,7 @@ If quotations were proper names and lacked semantic structure altogether, then t
 
 Understanding (11) is not like understanding a sentence with a previously unknown proper name. Upon encountering (11), it would seem that you know exactly which symbol is being referenced in a way that you do not with a name you’ve never before encountered.
 
-For a long time, this objection was thought fatal. However, a paper by Mario Gomez-Torrente (2013) suggests a way to square something like the name view with **Objection 1**. In brief, he points out that there are some names that can be indefinitely generated and interpreted. For example, street names. ‘East 6th Street’, presumably, is a bona fide name, but one doesn’t either need to individually bestow it on the particular street it applies to (the street between East 5th and East 7th), nor does one need to have already learned it to understand what ‘East 6th Street has some great bars’ means.
+For a long time, this objection was thought fatal. However, a paper by Mario Gomez-Torrente (2013)[^gomez-torrente-2013] suggests a way to square something like the name view with **Objection 1**. In brief, he points out that there are some names that can be indefinitely generated and interpreted. For example, street names. ‘East 6th Street’, presumably, is a bona fide name, but one doesn’t either need to individually bestow it on the particular street it applies to (the street between East 5th and East 7th), nor does one need to have already learned it to understand what ‘East 6th Street has some great bars’ means.
 
 **Objection 2**: *There’s a special relationship between quotations and their semantic values (see BQ4).*
 
@@ -272,7 +272,7 @@ Davidson summarizes these first two objections succinctly:
 
 > If quotations are structureless singular terms, then there is no more significance to the *category* of quotation-mark names than to the category of names that begin and end with the letter ‘a’ (‘Atlanta’, ‘Alabama’, ‘Alta’, ‘Athena’, etc.). On this view, there is no relation, beyond an accident of spelling, between an expression and the quotation-mark name of that expression. (Davidson 1979, pp. 81–82; cf., also, Garcia-Carpintero 1994, pp. 254–55)[^davidson-1979][^garcia-carpintero-1994]
 
-Again, however, some work has pushed back against these old objections. Michael Johnson (2018) points to some names which bear special relationships to their referents. In particular, he points to *onomatopoeia*. For example, ‘buzz’ refers to a sound, a buzzing sound. But the word ‘buzz’, when uttered, makes the sound it refers to. Roughly speaking, Johnson holds that we could view quotations in the same way: as he says, ‘the name of a person sounds like the name of his name’ (2018). For some discussion of Johnson’s view, see Miller 2019.
+Again, however, some work has pushed back against these old objections. Michael Johnson (2018)[^johnson-2018] points to some names which bear special relationships to their referents. In particular, he points to *onomatopoeia*. For example, ‘buzz’ refers to a sound, a buzzing sound. But the word ‘buzz’, when uttered, makes the sound it refers to. Roughly speaking, Johnson holds that we could view quotations in the same way: as he says, ‘the name of a person sounds like the name of his name’ (2018). For some discussion of Johnson’s view, see Miller 2019.
 
 **Objection 3**: *Proper Name Theory leaves no room for dual use and mention (see BQ6).*
 
@@ -288,7 +288,7 @@ Quine said that quotation Ted.
 
 That is, the Proper Name Theory fails to account for (BQ6).
 
-Other objections have been raised against the Proper Name Theory of Quotation. For further discussion, see Davidson (1979), Cappelen and Lepore (1997b) and Saka (1998). Whether the recent defenders of the name theory will be able to take it off its deathbed remains to be seen, but it’s fair to say that their work shows that reports of its demise have been, at least, a bit premature.
+Other objections have been raised against the Proper Name Theory of Quotation. For further discussion, see Davidson (1979)[^davidson-1979], Cappelen and Lepore (1997b) and Saka (1998)[^saka-1998]. Whether the recent defenders of the name theory will be able to take it off its deathbed remains to be seen, but it’s fair to say that their work shows that reports of its demise have been, at least, a bit premature.
 
 ### 3.2 The Description Theory of Quotation
 
@@ -433,7 +433,7 @@ Consider the following sentence:
 
 Here, we have a case in which an expression is quoted—not by means of quotation marks—but by means of italicization. But surely it would be absurd to suppose (consistently with Davidson’s view) that the italicization of (7)’s subject term is itself a demonstrative expression! (Reimer 1996, p. 135)[^reimer-1996]
 
-The same idea is expressed by Washington (1992):
+The same idea is expressed by Washington (1992)[^washington-1992]:
 
 > In conversation, oral promptings (‘Quote-unquote’) or finger-dance quotes can often be omitted without impairing the intelligibility or well-formedness of the utterance. When I introduce myself, I do not say ‘My name is quote-unquote Corey,’ nor do I make little finger gestures or even use different intonation in order to show that it is my name and not myself that is being talked about. (Washington 1992, p. 588; Saka 1998, pp. 118–19; Recanati 2001; and Benbaji 2004a, 2004b.)[^benbaji-2004a][^benbaji-2004b][^recanati-2001][^saka-1998][^washington-1992]
 
@@ -479,17 +479,17 @@ Smooth. That that is an English expression.
 
 Smooth. That. That is an English expression.
 
-This objection has been raised by Saka (1998, pp. 119–20), Reimer (1996), and Washington (1992).
+This objection has been raised by Saka (1998, pp. 119–20), Reimer (1996)[^reimer-1996], and Washington (1992)[^washington-1992].
 
 In response, Demonstrative Theorists insist that quotations are not iterative. On this topic, Cappelen and Lepore write:
 
 > Quoted expressions are exhibited so that speakers can talk about the patterns (according to Davidson) they instantiate. The semantic properties of the tokens are not in active use; they are semantically inert…So, quotation marks within quotation marks are semantically inert. (Cappelen and Lepore 1997b, pp. 439–40)[^cappelen-1997b]
 
-For further discussion of whether quotation is a genuinely iterative device, see Cappelen and Lepore (1999a) and Saka (2013).
+For further discussion of whether quotation is a genuinely iterative device, see Cappelen and Lepore (1999a) and Saka (2013)[^saka-2013].
 
 **Objection 5.** *The Problem of Open Quotation: Dangling Singular Terms*
 
-Recanati (2001) focuses on cases where quoted expressions do not serve as noun phrases in sentences. He has in mind cases like (29) and (30):
+Recanati (2001)[^recanati-2001] focuses on cases where quoted expressions do not serve as noun phrases in sentences. He has in mind cases like (29) and (30):
 
 **(29)**
 
@@ -563,7 +563,7 @@ First, (BQ3) says that we can use quotation to refer to symbols that are not in 
 
 > It is *easy enough* to come up with a *finite* list of elements (the letters, punctuation symbols, the digits, the space, etc.) and an operation (concatenation) with which one can generate all of the concatenates…If we are formalizing a grammar for a language with quotation names, we would include, as part of the specification of the lexicon, a proviso to the effect that, for each concatenate e, the left quote (lq), followed by e, followed by the right quote (rq) is a singular term (Richard 1986, pp. 386–89, our emphasis)[^richard-1986].
 
-If this is how expressions are generated, how then are we to account for the truth of (9) and (10)? More generally, the worry is this: (DQR) needs to specify, in some manner or other, the domain of expressions over which it quantifies. How can it do this without unreasonably limiting the kinds of symbols that can be quoted?[^note-11] (See Lepore (1999) for elaboration on this point.)
+If this is how expressions are generated, how then are we to account for the truth of (9) and (10)? More generally, the worry is this: (DQR) needs to specify, in some manner or other, the domain of expressions over which it quantifies. How can it do this without unreasonably limiting the kinds of symbols that can be quoted?[^note-11] (See Lepore (1999)[^lepore-1999] for elaboration on this point.)
 
 Second, according to (BQ6), a theory of quotation should leave room for dual use and mention. It is hard to see how (DQR) leaves such room. If quotes are referring expressions (as they are according to DQR), then if we let ‘Ted’ name the expression ‘has a certain anomalous feature’, (12) should say the same as, express the same proposition as, (17).
 
@@ -581,7 +581,7 @@ Finally, those who raise Objection 4 against the Demonstrative Theory would prob
 
 ### 3.5 The Identity Theory of Quotation (or, better: the Use-Theory of Quotation)
 
-The label ‘the Identity Theory of Quotation’ was first used, as far as we know, by Washington (1992), though he attributes the view to Frege (1892) and Searle (1969). However, the passages in which this view was allegedly offered prior to Washington hardly count as presenting a theory; they read more like dogmatic pronouncements devoid of argumentation. Since Washington’s paper was published related views have been developed in more detail by Saka (1998, 2004, 2011a), Reimer (1996), Recanati (2000, 2001) and others.
+The label ‘the Identity Theory of Quotation’ was first used, as far as we know, by Washington (1992)[^washington-1992], though he attributes the view to Frege (1892)[^frege-1892] and Searle (1969)[^searle-1969]. However, the passages in which this view was allegedly offered prior to Washington hardly count as presenting a theory; they read more like dogmatic pronouncements devoid of argumentation. Since Washington’s paper was published related views have been developed in more detail by Saka (1998, 2004, 2011a)[^saka-1998][^saka-2011a], Reimer (1996)[^reimer-1996], Recanati (2000, 2001)[^recanati-2000][^recanati-2001] and others.
 
 Washington’s presentation of the Identity Theory is somewhat compressed—the key passage is this:
 
@@ -601,15 +601,15 @@ My name is Donald.
 
 According to the Use/Identity theory, (6), when spoken, is grammatical (Washington 1992, pp. 588–90)[^washington-1992]. There are no missing (or implicit) quotation marks. When uttered by a person whose name is ‘Donald’ it is true (if ‘Donald’ is used quotationally). The function of quotation marks in written language is simply to indicate that words are being used in this special, quotational, way, i.e. not (only) with their regular extensions. In other words, ‘Donald’ can be used in two different ways: with its usual semantic value (its regular referent) or quotationally. In the latter case, its semantic value is an expression.
 
-We wish that the Identity Theory were not called ‘the Identity Theory’. (In private communication, Washington has expressed the same sentiment.) The ‘identity’ component is picked up from the formulation, ‘a quoted expression is related to its value by identity: a quoted expression mentions itself’. This formulation, however, is deeply misleading, since according to both Washington (and later, for example, Saka (1998)), quotations are ambiguous. They can, according to Washington, refer to types, tokens, or shapes (see Washington 1992, p. 594)[^washington-1992] and according to another proponent of this kind of view, Saka, they are even more flexible (Saka 1998, see further presentation of Saka’s view below)[^saka-1998]. A better label would be ‘the Use-Theory of Quotation’, since this emphasizes the point that a proper understanding of quotation requires appealing to a special way of using language. In what follows, we use the ungainly compromise ‘the Use/Identity Theory’.
+We wish that the Identity Theory were not called ‘the Identity Theory’. (In private communication, Washington has expressed the same sentiment.) The ‘identity’ component is picked up from the formulation, ‘a quoted expression is related to its value by identity: a quoted expression mentions itself’. This formulation, however, is deeply misleading, since according to both Washington (and later, for example, Saka (1998)[^saka-1998]), quotations are ambiguous. They can, according to Washington, refer to types, tokens, or shapes (see Washington 1992, p. 594)[^washington-1992] and according to another proponent of this kind of view, Saka, they are even more flexible (Saka 1998, see further presentation of Saka’s view below)[^saka-1998]. A better label would be ‘the Use-Theory of Quotation’, since this emphasizes the point that a proper understanding of quotation requires appealing to a special way of using language. In what follows, we use the ungainly compromise ‘the Use/Identity Theory’.
 
 It is useful to contrast Washington’s account with the Disquotational Theory. Recall, that, according to DQR*, quotation marks* have a semantic function and that function is spelled out in the disquotational schema (DQR). (DQR) is a semantic axiom. It treats quotation marks as identity functions. Speakers’ intentions figure not at all in this axiom (other than the intention to speak English). There is no need, on the Disquotational Theory, to appeal to a special kind of quotational usage. For Washington, the quotation marks have no genuine semantic function. They are no more than a heuristic device for indicating that expressions are used in a special way, i.e. quotationally.
 
 #### 3.5.1 Other Versions of the Use/Identity Theory: Reimer, Recanati, Saka, and the Picture Theory
 
-Several recent views share important components of Washington’s. Reimer (2003) combines versions of the Demonstrative Theory and the Identity Theory. Recanati (2000, 2001, 2010) doesn’t explicitly discuss any version of the Identity Theory, but his theory incorporates some of its components; it is distinctive by focusing on what he calls ‘Open Quotation’ (see Objection 5 to the Demonstrative Theory above) and the *iconic* aspects of quotation (see Recanati 2001 for elaboration)[^recanati-2001]. Two theories might be worth a closer look for those interested in exploring Use/Identity Theories further (the second of these is mostly of historical interest).
+Several recent views share important components of Washington’s. Reimer (2003)[^reimer-2003] combines versions of the Demonstrative Theory and the Identity Theory. Recanati (2000, 2001, 2010)[^recanati-2000][^recanati-2001][^recanati-2010] doesn’t explicitly discuss any version of the Identity Theory, but his theory incorporates some of its components; it is distinctive by focusing on what he calls ‘Open Quotation’ (see Objection 5 to the Demonstrative Theory above) and the *iconic* aspects of quotation (see Recanati 2001 for elaboration)[^recanati-2001]. Two theories might be worth a closer look for those interested in exploring Use/Identity Theories further (the second of these is mostly of historical interest).
 
-First, Saka (1998, 1999, 2003) has developed a theory that has much in common with Washington’s (though it also differs in important respects). He agrees with Washington in emphasizing ‘quotational use’ (Saka calls it ‘mentioning’), but Saka has more to say about mentioning than Washington has to say about quotational use (see Saka 1998 and 2003)[^saka-1998][^saka-2003]. Saka also goes further than Washington in claiming that quotation marks are not required for mentioning even in written language. (For Washington, it is only in spoken language that we can quote without quotation marks). According to Saka, (34) ‘is a grammatical and true sentence’ (Saka 1998, p.118.)[^saka-1998]
+First, Saka (1998, 1999, 2003)[^saka-1998][^saka-1999][^saka-2003] has developed a theory that has much in common with Washington’s (though it also differs in important respects). He agrees with Washington in emphasizing ‘quotational use’ (Saka calls it ‘mentioning’), but Saka has more to say about mentioning than Washington has to say about quotational use (see Saka 1998 and 2003)[^saka-1998][^saka-2003]. Saka also goes further than Washington in claiming that quotation marks are not required for mentioning even in written language. (For Washington, it is only in spoken language that we can quote without quotation marks). According to Saka, (34) ‘is a grammatical and true sentence’ (Saka 1998, p.118.)[^saka-1998]
 
 **(34)**
 
@@ -623,7 +623,7 @@ Second, there is one view we have not discussed and which might (admittedly with
 
 > …a quotation is not a description but a hieroglyph; it designates its object not by describing it in terms of other objects, but by picturing it. (Quine 1940, p. 26)[^quine-1940]
 
-Davidson (1979), taking his cue from this passage and others, baptized the view intimated in Quine’s passage as ‘the Picture Theory of Quotation’ (cf., also, Christensen 1967, p. 362)[^christensen-1967]. As Davidson notes, on this view:
+Davidson (1979)[^davidson-1979], taking his cue from this passage and others, baptized the view intimated in Quine’s passage as ‘the Picture Theory of Quotation’ (cf., also, Christensen 1967, p. 362)[^christensen-1967]. As Davidson notes, on this view:
 
 > …it is not the entire quotation, that is, expression named plus quotation marks, that refers to the expression, but rather the expression itself. The role of the quotation marks is to indicate how we are to take the expression within: the quotation marks constitute a linguistic environment within which expressions do something special… (Davidson 1979, pp. 83–84)[^davidson-1979]
 
@@ -682,7 +682,7 @@ Quine said that quotation Ted.[^note-16]
 
 It is at least a challenge to Identity/Use theorists to explain how the theory can accommodate simultaneous use and mention.
 
-In addition to the above points, there’s a lively debate about the specifics of identity/use theories. For discussions of Saka, see Cappelen and Lepore (2003), Reimer (2003), and for discussions of Recanati, see Cappelen and Lepore (2003), Reimer (2003), Benbaji (2003, 2004a, 2004b), and Cumming (2003).
+In addition to the above points, there’s a lively debate about the specifics of identity/use theories. For discussions of Saka, see Cappelen and Lepore (2003), Reimer (2003)[^reimer-2003], and for discussions of Recanati, see Cappelen and Lepore (2003), Reimer (2003)[^reimer-2003], Benbaji (2003, 2004a, 2004b)[^benbaji-2003][^benbaji-2004a][^benbaji-2004b], and Cumming (2003)[^cumming-2003].
 
 We now turn from discussions of large-scale theories of quotation to discussions of how to understand specific aspects of our quotational practice. Two issues have been particularly important in the recent discussions: Mixed Quotation and the alleged ambiguity of quotations. One’s view of these issues has wide reaching implications for which theory of quotation one favors. We discuss these in turn.
 
@@ -690,7 +690,7 @@ We now turn from discussions of large-scale theories of quotation to discussions
 
 From around the millennium, beginning with Cappelen and Lepore’s 1997a, which made the topic mainstream, mixed quotation has been, arguably, the area in which theorizing about quotation has advanced the most. The problem has attracted the attention of both philosophers and linguists, and our understanding of both the data to be accounted for, and the various possibilities for doing so, has been greatly improved.
 
-It’s important to reiterate our above note that here as elsewhere in the theory of quotation what comprises the phenomenon is up for debate; different theorists emphasise or play down different bits of data. What follows, accordingly, doesn’t represent a consensus position on the problem, simply because there isn’t one (indeed, somewhat unfortunately, there isn’t even consensus about the terminology, some calling it ‘hybrid’ or ‘impure’, and some subsuming mixed quotation under ‘scare quoting’; De Brabanter 2010 is helpful here, as well as being a useful survey of the field from a linguist’s point of view). We will simply present some of the more interesting and central data points and problems for a theory of mixed quotation (for the theories themselves, we refer the reader to Maier’s (2020) overview article which presents some of the main formal semantic theories out there. For recent theories by philosophers on mixed quotation, see Gomez-Torrente 2005, Kirk and Ludwig 2017, McCullagh 2007, 2017. The main linguists to consult are cited in this section.)
+It’s important to reiterate our above note that here as elsewhere in the theory of quotation what comprises the phenomenon is up for debate; different theorists emphasise or play down different bits of data. What follows, accordingly, doesn’t represent a consensus position on the problem, simply because there isn’t one (indeed, somewhat unfortunately, there isn’t even consensus about the terminology, some calling it ‘hybrid’ or ‘impure’, and some subsuming mixed quotation under ‘scare quoting’; De Brabanter 2010 is helpful here, as well as being a useful survey of the field from a linguist’s point of view). We will simply present some of the more interesting and central data points and problems for a theory of mixed quotation (for the theories themselves, we refer the reader to Maier’s (2020)[^maier-2020] overview article which presents some of the main formal semantic theories out there. For recent theories by philosophers on mixed quotation, see Gomez-Torrente 2005, Kirk and Ludwig 2017, McCullagh 2007, 2017. The main linguists to consult are cited in this section.)
 
 The paradigm example of mixed quotation is the following, repeated:
 
@@ -737,13 +737,13 @@ What exactly the mention requirement requires is uncertain, then. But nor, howev
 
 Mr. Greenspan said he agreed with Labor Secretary R. B. Reich ‘on quite a lot of things’. Their accord on this issue, he said, has proved ‘quite a surprise to both of us’. (Cappelen and Lepore 1997b, p. 429)[^cappelen-1997b]
 
-If the second mixed quotation were simply being used, then the second sentence should be true provided accord was a surprise to the people writing the report, not to Greenspan and Reich. That’s clearly the wrong result, and shows that the use requirement needs some modifiction (for discussion about indexicals in mixed quotation, and whether they call for Kaplanian monstrous operators, see also Recanati (2001), Cumming (2003), Geurts and Maier (2003), and Maier (2016)).
+If the second mixed quotation were simply being used, then the second sentence should be true provided accord was a surprise to the people writing the report, not to Greenspan and Reich. That’s clearly the wrong result, and shows that the use requirement needs some modifiction (for discussion about indexicals in mixed quotation, and whether they call for Kaplanian monstrous operators, see also Recanati (2001)[^recanati-2001], Cumming (2003)[^cumming-2003], Geurts and Maier (2003), and Maier (2016)[^maier-2016]).
 
 The behaviour of indexicals in mixed quotation is important, because it gives strong evidence against the possibility that mixed quotation is a pragmatic phenomenon. A typical pragmatic analysis would say that the semantic contribution of the quoted material in a mixed quotation is just its unquoted semantic value (so that the literal semantic content of (12) is simply ‘Quine said that quotation has a certain anomalous feature’), but that to utter a mixed quotation is to imply, but not to say, that the quoted material was used by the speaker to say what they said.
 
-The advantages of a pragmatic analysis of mixed quotation are those typical of pragmatic analyses in general: no extra semantic machinery is required to account for the problem cases. As such, versions of such an analysis have had many adherents at the end of the twentieth century (see, for example, Recanati (2001), Clark & Gerrig (1990), Wilson (2000), Sperber & Wilson (1981), Tsohatzidis (1998), Staintion (1999), Saka (2003) and the discussion in by Reimer (2003)).
+The advantages of a pragmatic analysis of mixed quotation are those typical of pragmatic analyses in general: no extra semantic machinery is required to account for the problem cases. As such, versions of such an analysis have had many adherents at the end of the twentieth century (see, for example, Recanati (2001)[^recanati-2001], Clark & Gerrig (1990), Wilson (2000)[^wilson-2000], Sperber & Wilson (1981), Tsohatzidis (1998)[^tsohatzidis-1998], Staintion (1999), Saka (2003)[^saka-2003] and the discussion in by Reimer (2003)[^reimer-2003]).
 
-However, the behaviour of indexicals in mixed quotation make the pragmatic analysis harder to uphold. One needs to say that (42) is literally false, and while that is a move that can be made, it’s not particularly attractive. Accordingly, the pragmatic analysis has gone somewhat out of fashion, and has been argued against explicitly explicitly by Gomez-Torrente (2017), and implicitly by most of the linguists working in the field, for whom the behaviour of indexicals is a key explanandum of a theory of mixed quotation, and not something to be explained *away* (although see De Brabanter 2019 for a pragmatic theory of indexicals in mixed quotation).
+However, the behaviour of indexicals in mixed quotation make the pragmatic analysis harder to uphold. One needs to say that (42) is literally false, and while that is a move that can be made, it’s not particularly attractive. Accordingly, the pragmatic analysis has gone somewhat out of fashion, and has been argued against explicitly explicitly by Gomez-Torrente (2017)[^gomez-torrente-2017], and implicitly by most of the linguists working in the field, for whom the behaviour of indexicals is a key explanandum of a theory of mixed quotation, and not something to be explained *away* (although see De Brabanter 2019 for a pragmatic theory of indexicals in mixed quotation).
 
 The second, more subtle, problem is a consequence of the fact that one can mixed quote an expression belonging to a dialect other than the one one speaks, or even to no dialect at all (Shan 2010). Thus even in informal British English, ‘accident’ always takes the preposition ‘by’ and never ‘on’. A British speaker can draw attention to this fact, by uttering, about an American friend of theirs:
 
@@ -801,7 +801,7 @@ Saka (1998, p. 124) concurs and claims that “premise” and “premiss” in (
 
 The concept ‘premise’ is the same as the concept ‘premiss’.
 
-Tsohatzidis (1998) claims that since T1 is true, even though Descartes didn’t speak English, “is a thinking substance” in T1 can’t refer to an English expression.
+Tsohatzidis (1998)[^tsohatzidis-1998] claims that since T1 is true, even though Descartes didn’t speak English, “is a thinking substance” in T1 can’t refer to an English expression.
 
 (T1) In one of the greatest philosophy books ever written in Latin, Descartes said that man ‘is a thinking substance’.
 
@@ -809,7 +809,7 @@ These arguments all take the same form: first, they identify a sentence $S$ that
 
 If quotation has this kind of flexibility, the five theories discussed above will all have to be evaluated with respect to whether they can accommodate it. The Proper Name Theory, Description theory, and Disquotational Theory, all seem to have particular difficulties in this respect.
 
-Not all, however, are convinced that quotations are flexible in just this way. Some have expressed skepticism both about the form of argument (see Cappelen and Lepore 1999a)[^cappelen-1999a] and about the specific examples. Cappelen and Lepore (1999a) also argue that the multiple ambiguity view over-generates, i.e., it predicts that it is possible to express propositions with quotation sentences that it is not possible to express with such sentences. For further discussion, see also Saka (2003).
+Not all, however, are convinced that quotations are flexible in just this way. Some have expressed skepticism both about the form of argument (see Cappelen and Lepore 1999a)[^cappelen-1999a] and about the specific examples. Cappelen and Lepore (1999a) also argue that the multiple ambiguity view over-generates, i.e., it predicts that it is possible to express propositions with quotation sentences that it is not possible to express with such sentences. For further discussion, see also Saka (2003)[^saka-2003].
 
 ## 6. Alternative Quotational Devices
 
@@ -837,11 +837,11 @@ As Quine (1940, §6) notes, the quotation:
 
 > ‘$(\mu)$’
 
-designates only the specific expression therein depicted, containing a specific Greek letter. In order to effect reference to the unspecified expression he introduces a new notation of *corners* (namely, ‘$\ulcorner$’ and ‘$\urcorner$’). So, for example, if we take the expression ‘Quine’ as $\mu$, then $\ulcorner(\mu)\urcorner$ is ‘(Quine)’. The quasi-quotation is synonymous with the following verbal description: The result of writing ‘(’ and then $\mu$ and ‘)’ (Quine 1940, p. 36)[^quine-1940]. For an interesting suggestion about quasi-quotation in natural language, see Saka (2017).
+designates only the specific expression therein depicted, containing a specific Greek letter. In order to effect reference to the unspecified expression he introduces a new notation of *corners* (namely, ‘$\ulcorner$’ and ‘$\urcorner$’). So, for example, if we take the expression ‘Quine’ as $\mu$, then $\ulcorner(\mu)\urcorner$ is ‘(Quine)’. The quasi-quotation is synonymous with the following verbal description: The result of writing ‘(’ and then $\mu$ and ‘)’ (Quine 1940, p. 36)[^quine-1940]. For an interesting suggestion about quasi-quotation in natural language, see Saka (2017)[^saka-2017][^saka-2017-2].
 
 ### 6.3 Dot Quotes
 
-Someone who uses the word ‘red’ in speaking or thinking would generally be held to be employing the same concept as a French person who uses ‘rouge’. Assuming that ‘rouge’ is a good translation of ‘red’, Sellars (1963) thought it convenient to have a general term by which to classify words that are functional counterparts in this way. Such a term is provided by Sellars’ dot quotes. Dot-quotes form a common noun true of items in any language that play the role performed in our language by the tokens exhibited between them, so any expression that is a functional counterpart to ‘red’ can be described as a _{·}red_{·}. In Sellars’ terminology, the concept *red* is something that is common and peculiar to _{·}red_{·}s.
+Someone who uses the word ‘red’ in speaking or thinking would generally be held to be employing the same concept as a French person who uses ‘rouge’. Assuming that ‘rouge’ is a good translation of ‘red’, Sellars (1963)[^sellars-1963] thought it convenient to have a general term by which to classify words that are functional counterparts in this way. Such a term is provided by Sellars’ dot quotes. Dot-quotes form a common noun true of items in any language that play the role performed in our language by the tokens exhibited between them, so any expression that is a functional counterpart to ‘red’ can be described as a _{·}red_{·}. In Sellars’ terminology, the concept *red* is something that is common and peculiar to _{·}red_{·}s.
 
 ### 6.4 Unambiguous Quotes
 
@@ -851,7 +851,7 @@ Consider (41):
 
 ‘a’ concatenated with ‘b’ is an expression.
 
-Michael Ernst claims this sentence is ambiguous. Read one way, (41) means that the concatenation of the first letter of the Roman alphabet with the second letter is an expression; read another way it means that the expression between the two outer quote marks is an expression. Confronted with this ambiguity, Boolos (1995) introduced a notation for quotation in which every quotation mark ‘knows its mate’. So understood there are denumerably many distinct quotation marks, each formed by prefixing a natural number n of strokes to a small circle, and in order to meaningfully enclose an expression with Boolos quotation marks we have to choose quotation marks of a ‘higher order’ than the quotation marks that occur in the expression to be quoted (if there are any) and each quotation mark in a grammatical sentence is to be ‘paired’ with the next identical quotation mark (Boolos 1995, p. 291)[^boolos-1995]. Accordingly, reading (41) as containing Boolos quotation marks, we get the more natural reading according to which it says that the first letter of the Roman alphabet concatenated with the second is an expression.
+Michael Ernst claims this sentence is ambiguous. Read one way, (41) means that the concatenation of the first letter of the Roman alphabet with the second letter is an expression; read another way it means that the expression between the two outer quote marks is an expression. Confronted with this ambiguity, Boolos (1995)[^boolos-1995] introduced a notation for quotation in which every quotation mark ‘knows its mate’. So understood there are denumerably many distinct quotation marks, each formed by prefixing a natural number n of strokes to a small circle, and in order to meaningfully enclose an expression with Boolos quotation marks we have to choose quotation marks of a ‘higher order’ than the quotation marks that occur in the expression to be quoted (if there are any) and each quotation mark in a grammatical sentence is to be ‘paired’ with the next identical quotation mark (Boolos 1995, p. 291)[^boolos-1995]. Accordingly, reading (41) as containing Boolos quotation marks, we get the more natural reading according to which it says that the first letter of the Roman alphabet concatenated with the second is an expression.
 
 ## 7. Formal-Material Modes
 
@@ -885,7 +885,7 @@ The authors would like to thank Poppy Mankowitz and a reviewer for suggesting se
 
 [^note-1]: To follow this text, pay close attention to the difference between single quotes and double quotes. Double quotes are used to quote quotations. Triple quotes to quote quotations of quotations. Etc.
 
-[^note-2]: See Munro (1982) for a challenge to the claim that the ‘says’ of direct reporting is transitive.
+[^note-2]: See Munro (1982)[^munro-1982] for a challenge to the claim that the ‘says’ of direct reporting is transitive.
 
 [^note-3]: Partee (1971, p. 411) also discusses the phenomenon but does not go on to theorize about it since, according to her, ‘such sentences do not occur in ordinary spoken language’. We disagree. Were you to hear someone utter:
 
@@ -899,7 +899,7 @@ you would almost certainly take some of the material after ‘he’ as mixed quo
 
 [^note-6]: For Quine and Tarski, the Description Theory was largely presented as an alternative to natural language quotation, and not as an analysis of natural language; this was not so for Geach.
 
-[^note-7]: Similar views are intimated in Prior (1971, pp. 60-61) and Christensen (1967); Partee (1973, pp. 416-18) was also an early adherent. An interesting historical factoid: Davidson’s paper was drafted in the early 1960s and circulated among various philosophers and linguists. It is, for example, referenced in Partee 1973, some six years before its publication date.
+[^note-7]: Similar views are intimated in Prior (1971, pp. 60-61) and Christensen (1967)[^christensen-1967]; Partee (1973, pp. 416-18) was also an early adherent. An interesting historical factoid: Davidson’s paper was drafted in the early 1960s and circulated among various philosophers and linguists. It is, for example, referenced in Partee 1973, some six years before its publication date.
 
 [^note-8]: There is a separate issue about how best to treat the semantics of indirect discourse. Davidson, of course, has a demonstrative view about that as well (cf., Davidson 1968)[^davidson-1968].
 
@@ -911,7 +911,7 @@ you would almost certainly take some of the material after ‘he’ as mixed quo
 
 [^note-12]: According to Washington, Searle endorses the same view when he writes that in quotation ‘a word is uttered…but not in its normal use. The word itself is presented and then talked about, and that it is to be taken as presented rather than used conventionally to refer is indicated by the quotes’ (Searle 1969, p. 76)[^searle-1969]. (Gomez (2001) challenges Washington’s claim that Searle is an Identity Theorist.)
 
-[^note-13]: Washington tries also to locate a commitment to the Identity Theory in this passage from Frege: ‘If words are used in the ordinary way, what one intends to speak of is what they mean. It can also happen, however, that one wishes to talk about the words themselves or their sense. This happens, for instance, when the words of another are quoted. One’s own words then first designate words of the other speaker, and only the latter have their usual meaning. We then have signs of signs. In writing, the words are in this case enclosed in quotation marks. Accordingly, a word standing between quotation marks must not be taken as having its ordinary meaning’ Frege (1892, p. 58). We find this passage insufficiently clear to establish what Frege’s view on quotation is. For an alternative interpretation of Frege on quotation, see Parsons (1982).
+[^note-13]: Washington tries also to locate a commitment to the Identity Theory in this passage from Frege: ‘If words are used in the ordinary way, what one intends to speak of is what they mean. It can also happen, however, that one wishes to talk about the words themselves or their sense. This happens, for instance, when the words of another are quoted. One’s own words then first designate words of the other speaker, and only the latter have their usual meaning. We then have signs of signs. In writing, the words are in this case enclosed in quotation marks. Accordingly, a word standing between quotation marks must not be taken as having its ordinary meaning’ Frege (1892, p. 58). We find this passage insufficiently clear to establish what Frege’s view on quotation is. For an alternative interpretation of Frege on quotation, see Parsons (1982)[^parsons-1982].
 
 [^note-14]: Saka summarizes the relationship between quotation and mention as follows:
 

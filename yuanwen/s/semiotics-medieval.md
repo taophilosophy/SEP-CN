@@ -294,7 +294,7 @@ mental representation: in medieval philosophy | Ockham [Occam], William | Peirce
 
 [^note-60]: Cf. Gaspar Lax: *Parve divis. termin.* (ca. 1502: fol. b6ʳa); Juan Dolz : *Termini* (ca. 1511: fol 16ʳb); William Manderston: *Compendiosa Dial. Epitome* (1528: fol B 6ʳa).
 
-[^note-61]: Cf. Menghus Blanchellus, *Commentum cum quaest. super log. Pauli Veneti* (1492: fol. f3ᵛa): “Si autem queris quare magis imponimus voces quam alias qualitates ad significandum. Respondetur quod tales non sunt ita faciliter per nos opinabiles [sic: operabiles]: sicut voces que nostris voluntatibus subjiciuntur.”; See Broadie (1985: 37).
+[^note-61]: Cf. Menghus Blanchellus, *Commentum cum quaest. super log. Pauli Veneti* (1492: fol. f3ᵛa): “Si autem queris quare magis imponimus voces quam alias qualitates ad significandum. Respondetur quod tales non sunt ita faciliter per nos opinabiles [sic: operabiles]: sicut voces que nostris voluntatibus subjiciuntur.”; See Broadie (1985: 37)[^broadie-1985].
 
 [^note-62]: Antverps: *Loycalia* (1486: fol. B1ᵛ): “Licet quinque sunt obiecta sensuum exteriorum, tamen inter omnia sonus vox magis conveniens est ad significandum conceptus … quam obiecta aliorum sensuum. Et ratio est, quia voces sunt in potestate nostra et formamus eas dum volumus, non autem hoc possumus de obiectis aliorum sensuum, puta de coloribus, saporibus et cetera; ergo est magis conveniens ad significandum conceptus anime quam cetera sensitiva.”
 

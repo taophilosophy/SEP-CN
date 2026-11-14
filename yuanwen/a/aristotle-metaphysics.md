@@ -5,7 +5,7 @@
 
 The first major work in the history of philosophy to bear the title “Metaphysics” was the treatise by Aristotle that we have come to know by that name. But Aristotle himself did not use that title or even describe his field of study as ‘metaphysics’; the name was evidently coined by the first century C.E. editor who assembled the treatise we know as Aristotle’s *Metaphysics* out of various smaller selections of Aristotle’s works. The title ‘metaphysics’—literally, ‘after the *Physics*’—very likely indicated the place the topics discussed therein were intended to occupy in the philosophical curriculum. They were to be studied after the treatises dealing with nature (*ta phusika*). In this entry, we discuss the ideas that are developed in Aristotle’s treatise.
 
-References in the text to the books of Aristotle’s *Metaphysics* are given by Greek letter. In order (with the corresponding Roman numeral given in parentheses) these are: Α (I), α (II), Β (III), Γ (IV), Δ (V), Ε (VI), Ζ (VII), Η (VIII), Θ (IX), I (X), Κ (XI), Λ (XII), Μ (XIII), Ν (XIV). Translations are taken from Reeve (2016).
+References in the text to the books of Aristotle’s *Metaphysics* are given by Greek letter. In order (with the corresponding Roman numeral given in parentheses) these are: Α (I), α (II), Β (III), Γ (IV), Δ (V), Ε (VI), Ζ (VII), Η (VIII), Θ (IX), I (X), Κ (XI), Λ (XII), Μ (XIII), Ν (XIV). Translations are taken from Reeve (2016)[^reeve-2016].
 
 ## 1. The Subject Matter of Aristotle’s Metaphysics
 

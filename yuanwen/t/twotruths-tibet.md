@@ -166,9 +166,9 @@ Madhyamaka | Nāgārjuna | two truths in India, theory of
 
 [^note-1]: Among them some schools—Sakya (sa skya pa), Jonang (jo nang pa), Shang-pa (shangs pa), Drikung (‘bri gung pa)—are named after some places of significance, whereas Karma pa (kar ma pa) and Buluk pa (bu lugs pa) are named after their masters, Kadam (bka’ gdams pa) Dzogchen (rdzogs chen pa), Chagchen (phyag chen pa), Zhibyed (zhi byed pa) are named after the primary oral instructions each emphasises.
 
-[^note-2]: Modern interpreters of Madhyamaka's theory of the two truths, including T. R. V. Murti, (1985: xxiv–xxvi), La Vallée Poussin (1985: 152–53), Jaideva Singh (1989: 30), and Huntington (1994: 39, 40, 231) also endorse a similar interpretation. Guy Newland (1992: 47) confirms that “Many Western scholars hold that the two truths are not two types of object, but rather two viewpoints, perspectives, or types of consciousnesses.”
+[^note-2]: Modern interpreters of Madhyamaka's theory of the two truths, including T. R. V. Murti, (1985: xxiv–xxvi), La Vallée Poussin (1985: 152–53)[^poussin-1985], Jaideva Singh (1989: 30)[^singh-1989], and Huntington (1994: 39, 40, 231) also endorse a similar interpretation. Guy Newland (1992: 47)[^newland-1992] confirms that “Many Western scholars hold that the two truths are not two types of object, but rather two viewpoints, perspectives, or types of consciousnesses.”
 
-[^note-3]: In like fashion, the definitions offered by modern interpreters such as Murti (1985: 244), Singh (1989: 51–52), Poussin (1985: 152–153), Huntington (1994: 231–232), and Williams (1989: 71) all ground the two truths in these two contradictory viewpoints.
+[^note-3]: In like fashion, the definitions offered by modern interpreters such as Murti (1985: 244)[^murti-1985], Singh (1989: 51–52)[^singh-1989], Poussin (1985: 152–153)[^poussin-1985], Huntington (1994: 231–232), and Williams (1989: 71)[^williams-1989] all ground the two truths in these two contradictory viewpoints.
 
 [^note-4]: His followers unanimously accept the *objects of knowledge* as the basis of the division of the two truths. For example, Khedrub Jé (1992: 357–60), Changkya Rölpai Dorje (1989: 317–18), and Jamyang Shepai Dorje, (1992: 849–52) et al.
 

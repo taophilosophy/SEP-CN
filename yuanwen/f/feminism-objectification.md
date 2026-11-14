@@ -3,7 +3,7 @@
 
 *Papadaki, Evangelia (Lina)*
 
-Objectification is a notion central to feminist theory. It can be roughly defined as the seeing and/or treating a person, usually a woman, *as an object*. In this entry, the focus is primarily on sexual objectification, objectification occurring in the sexual realm. Martha Nussbaum (1995, 257) has identified seven features that are involved in the idea of treating a person as an object:
+Objectification is a notion central to feminist theory. It can be roughly defined as the seeing and/or treating a person, usually a woman, *as an object*. In this entry, the focus is primarily on sexual objectification, objectification occurring in the sexual realm. Martha Nussbaum (1995, 257)[^nussbaum-1995] has identified seven features that are involved in the idea of treating a person as an object:
 
 1. *instrumentality*: the treatment of a person as a tool for the objectifier’s purposes;
 2. *denial of autonomy*: the treatment of a person as lacking in autonomy and self-determination;
@@ -13,7 +13,7 @@ Objectification is a notion central to feminist theory. It can be roughly define
 6. *ownership*: the treatment of a person as something that is owned by another (can be bought or sold);
 7. *denial of subjectivity*: the treatment of a person as something whose experiences and feelings (if any) need not be taken into account.
 
-Rae Langton (2009, 228–229) has added three more features to Nussbaum’s list:
+Rae Langton (2009, 228–229)[^langton-2009] has added three more features to Nussbaum’s list:
 
 1. *reduction to body*: the treatment of a person as identified with their body, or body parts;
 2. *reduction to appearance*: the treatment of a person primarily in terms of how they look, or how they appear to the senses;

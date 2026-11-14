@@ -116,7 +116,7 @@ One natural line of reply to this sort of counterexample to Swain’s theory wou
 
 ## 3. Doxastic Theories of the Basing Relation
 
-Doxastic theories of the basing relation hold that having an appropriate meta-belief to the effect that a reason is a good reason to hold a belief is sufficient for the belief’s being based on the reason. Such a theory appears to be a natural fit for certain kinds of epistemic internalism. For such an account, see Leite (2008). Some theories of the basing relation, such as those of Helen Longino and Robert Audi, state that such a meta-belief is a necessary but not sufficient condition for a belief’s being based on a reason (Longino 1978; Audi 1986)[^audi-1986][^longino-1978]. Such theories hold that if a belief is to be based on a reason, the reason must non-deviantly cause the belief, and an appropriate meta-belief must be present. Such theories tend to be vulnerable to the objections to causal theories of the basing relation as well as the objections—to be discussed shortly—to doxastic theories of the basing relation.
+Doxastic theories of the basing relation hold that having an appropriate meta-belief to the effect that a reason is a good reason to hold a belief is sufficient for the belief’s being based on the reason. Such a theory appears to be a natural fit for certain kinds of epistemic internalism. For such an account, see Leite (2008)[^leite-2008]. Some theories of the basing relation, such as those of Helen Longino and Robert Audi, state that such a meta-belief is a necessary but not sufficient condition for a belief’s being based on a reason (Longino 1978; Audi 1986)[^audi-1986][^longino-1978]. Such theories hold that if a belief is to be based on a reason, the reason must non-deviantly cause the belief, and an appropriate meta-belief must be present. Such theories tend to be vulnerable to the objections to causal theories of the basing relation as well as the objections—to be discussed shortly—to doxastic theories of the basing relation.
 
 Here, we will examine Joseph Tolliver’s account of the basing relation. Roughly, Tolliver’s view is that a belief is based on a reason for a person *S* if and only if *S* believes that the reason provides evidence for the belief, and also believes that it is likely that the probability that the belief is true increased at the time the reason was accepted. Tolliver’s aim is to avoid the pendulum objection to Swain’s theory while affirming Swain and Lehrer’s intuition in the case of the superstitious lawyer that the lawyer’s belief that his client is innocent is based on the complicated line of reasoning. Tolliver’s account is as follows (Tolliver 1982, p. 159)[^tolliver-1982]:[^note-9]
 
@@ -207,7 +207,7 @@ epistemology | justification, epistemic: foundationalist theories of | justifica
 
 ## Notes（原文脚注）
 
-[^note-1]: Though see Jenkin (2022), who has presented a novel argument that some perceptual states can be based on reasons.
+[^note-1]: Though see Jenkin (2022)[^jenkin-2022], who has presented a novel argument that some perceptual states can be based on reasons.
 
 [^note-2]: In isolation, the phrase “the basing relation” is ambiguous between the concept “basing relation” and particular instances of basing relations. However, it should be clear from the context which is meant.
 

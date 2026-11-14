@@ -97,7 +97,7 @@ $$\frac{\varphi_1,\ldots ,\varphi_n }{\psi}$$
 
 is **sound** in a class of models $\mathcal{M}$ if $\varphi_1,\ldots ,\varphi_n \models_{\mathcal{M}} \psi$.
 
-Recall, following Chellas (1980), that a modal logic $\Delta$ is called **classical** if it is closed under the rule of equivalence, i.e., for each $\Box$ in the language we have:
+Recall, following Chellas (1980)[^chellas-1980], that a modal logic $\Delta$ is called **classical** if it is closed under the rule of equivalence, i.e., for each $\Box$ in the language we have:
 
 $$\frac{\varphi \leftrightarrow \psi}{\Box \varphi \leftrightarrow \Box \psi}$$
 

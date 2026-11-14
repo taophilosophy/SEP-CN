@@ -140,59 +140,59 @@ cosmology: ancient | Plato | Plato: middle period metaphysics and epistemology |
 
 ## Notes（原文脚注）
 
-[^note-1]: For a recent tribute to the cultural influence of the *Timaeus* from late antiquity to the Renaissance see Reydams-Schils (2003).
+[^note-1]: For a recent tribute to the cultural influence of the *Timaeus* from late antiquity to the Renaissance see Reydams-Schils (2003)[^reydams-schils-2003].
 
 [^note-2]: See Archer-Hind (1888 and 1988), Taylor (1928 and 1967), and Cornford (1937 and 1997).
 
 [^note-3]: Some scholars believe that the *Republic*, narrated by Socrates in the first person, is itself that first speech, but the dramatic dates of the two dialogues, as well as certain internal difficulties, makes such a suggestion difficult to defend.
 
-[^note-4]: Remi Brague (1982) has offered an alternative reading, understanding the heavens (*ouranos*) as the image of eternity.
+[^note-4]: Remi Brague (1982)[^brague-1982] has offered an alternative reading, understanding the heavens (*ouranos*) as the image of eternity.
 
 [^note-5]: In *On the Heavens* 279b32–280a1 Aristotle reports the view (that of Xenocrates, third head of the Academy) that the account is given in story form for pedagogical purposes.
 
-[^note-6]: For fuller discussion, see Zeyl (2000), xx–xxv. Broadie (2012), 243–277, provides an extended defense of the “proto-historical” (i.e., literal) interpretation.
+[^note-6]: For fuller discussion, see Zeyl (2000)[^zeyl-2000], xx–xxv. Broadie (2012)[^broadie-2012], 243–277, provides an extended defense of the “proto-historical” (i.e., literal) interpretation.
 
-[^note-7]: For more discussion, see Zeyl (2000), xvi–xx. The chronological relation of the *Timaeus* to other late dialogues such as the *Sophist*, *Statesman* and *Philebus* is much more difficult to determine: different stylometric criteria do not appear to yield uniform results. For contrary assessments see Brandwood (1990), 250 and Ledger (1989).
+[^note-7]: For more discussion, see Zeyl (2000)[^zeyl-2000], xvi–xx. The chronological relation of the *Timaeus* to other late dialogues such as the *Sophist*, *Statesman* and *Philebus* is much more difficult to determine: different stylometric criteria do not appear to yield uniform results. For contrary assessments see Brandwood (1990)[^brandwood-1990], 250 and Ledger (1989)[^ledger-1989].
 
-[^note-8]: For a plausible account of the distinction between *eikôs logos* and *eikôs muthos* see Johansen (2004), 62–64.
+[^note-8]: For a plausible account of the distinction between *eikôs logos* and *eikôs muthos* see Johansen (2004)[^johansen-2004], 62–64.
 
 [^note-9]: See, for example, 30b7, 44d1, 48d2, 49b6, 53d5–6, 55d5, 56a1, 57d6, 59c6, 68d2, 72d7, 90e8.
 
-[^note-10]: See the discussion by Johansen (2004), 55–56.
+[^note-10]: See the discussion by Johansen (2004)[^johansen-2004], 55–56.
 
-[^note-11]: See Burnyeat (2005) for a defense of translating *eikôs* as “reasonable” or “plausible” in these contexts. Burnyeat’s influential paper has evoked thoughtful commentary and critique. See, for example, Betegh (2009) and Mourelatos (2009). See also Broadie (2012), 33–45.
+[^note-11]: See Burnyeat (2005)[^burnyeat-2005] for a defense of translating *eikôs* as “reasonable” or “plausible” in these contexts. Burnyeat’s influential paper has evoked thoughtful commentary and critique. See, for example, Betegh (2009)[^betegh-2009] and Mourelatos (2009). See also Broadie (2012)[^broadie-2012], 33–45.
 
 [^note-12]: The biconditional is required to support the inference from 5a and 5b below to 5.
 
-[^note-13]: For possible explanations as to why Timaeus takes the cause of the universe to be a craftsman, see Broadie (2012), 31–38 and Johansen (2014).
+[^note-13]: For possible explanations as to why Timaeus takes the cause of the universe to be a craftsman, see Broadie (2012)[^broadie-2012], 31–38 and Johansen (2014)[^johansen-2014].
 
 [^note-14]: Aristotle criticizes the methodology precisely on this point. See *De Caelo* 306a1–7.
 
 [^note-15]: The distinction between “crude” and “refined” paradeigmatism is useful in responding to Owen’s charge (see above, section 3) that the *Timaeus*, if late, reintroduces a view previously refuted by the *Parmenides.*
 
-[^note-16]: For a discussion of the controversy see Zeyl (2000), lvi–lix.
+[^note-16]: For a discussion of the controversy see Zeyl (2000)[^zeyl-2000], lvi–lix.
 
-[^note-17]: In his attempt to assimilate the metaphysics of the *Timaeus* to that of the middle dialogues Owen (1965) took no account of the introduction of the receptacle.
+[^note-17]: In his attempt to assimilate the metaphysics of the *Timaeus* to that of the middle dialogues Owen (1965)[^owen-1965] took no account of the introduction of the receptacle.
 
-[^note-18]: See, for example, Cooper (1997), 23 and Burnyeat (1999).
+[^note-18]: See, for example, Cooper (1997)[^cooper-1997], 23 and Burnyeat (1999)[^burnyeat-1999].
 
-[^note-19]: This has been effectively argued by Hackforth (1965), and more thoroughly by Menn (1995).
+[^note-19]: This has been effectively argued by Hackforth (1965)[^hackforth-1965], and more thoroughly by Menn (1995)[^menn-1995].
 
-[^note-20]: Cornford (1937 and 1997), 38–39; Cherniss (1944), 425. See now also Carone (2005), 42–51.
+[^note-20]: Cornford (1937 and 1997), 38–39; Cherniss (1944)[^cherniss-1944], 425. See now also Carone (2005)[^carone-2005], 42–51.
 
 [^note-21]: De Vogel (1970), 194–209 and Perl.
 
-[^note-22]: Hampton (1990), 909.
+[^note-22]: Hampton (1990)[^hampton-1990], 909.
 
-[^note-23]: See Menn (1995), 14–18. Menn prefers translating *nous* as “Reason” or “Intelligence,” objecting to such translations as “Mind” (or “Intellect”) that in his view wrongly substantivize *nous*.
+[^note-23]: See Menn (1995)[^menn-1995], 14–18. Menn prefers translating *nous* as “Reason” or “Intelligence,” objecting to such translations as “Mind” (or “Intellect”) that in his view wrongly substantivize *nous*.
 
-[^note-24]: Johansen (2004), 69–86. Johansen does not say that it is the *form* of Craftsmanship, however. He fails to explain how an abstraction like craftsmanship can be capable of intelligent agency.
+[^note-24]: Johansen (2004)[^johansen-2004], 69–86. Johansen does not say that it is the *form* of Craftsmanship, however. He fails to explain how an abstraction like craftsmanship can be capable of intelligent agency.
 
-[^note-25]: See Menn (1995) for an account that attempts to attribute efficient causality to the form of *nous*. Whatever the plausibility of this account, Intellect functions as a causal agent, and not merely as an (impersonal) efficient cause, and its role as subject of rational action is not captured in Menn’s account. It is far from clear that Platonic forms have the capacities to be intelligent subjects as well as intelligible objects.
+[^note-25]: See Menn (1995)[^menn-1995] for an account that attempts to attribute efficient causality to the form of *nous*. Whatever the plausibility of this account, Intellect functions as a causal agent, and not merely as an (impersonal) efficient cause, and its role as subject of rational action is not captured in Menn’s account. It is far from clear that Platonic forms have the capacities to be intelligent subjects as well as intelligible objects.
 
 [^note-26]: When the dichotomy is introduced at 27d6–27a1 it is as exclusive but not as exhaustive.
 
-[^note-27]: For a recent cogent defense of the separateness of the Craftsman from any of his products (in particular the world soul) and an instructive comparison between the Platonic Demiurge and the “Abrahamic” God, see Broadie (2012), 7–26.
+[^note-27]: For a recent cogent defense of the separateness of the Craftsman from any of his products (in particular the world soul) and an instructive comparison between the Platonic Demiurge and the “Abrahamic” God, see Broadie (2012)[^broadie-2012], 7–26.
 
 [^note-28]: See, for example, *On the Parts of Animals* 4.10, 687a19–23.
 
@@ -200,13 +200,13 @@ cosmology: ancient | Plato | Plato: middle period metaphysics and epistemology |
 
 [^note-30]: As Aristotle objected (see note 14 above), this exception is contradicted by what is actually observed.
 
-[^note-31]: The ethical significance of the cosmology of the *Timaeus* (as well as that of other late Platonic dialogues) is well demonstrated by Carone (2005).
+[^note-31]: The ethical significance of the cosmology of the *Timaeus* (as well as that of other late Platonic dialogues) is well demonstrated by Carone (2005)[^carone-2005].
 
-[^note-32]: We do not know why the *Critias* was left unfinished. See Nesselrath (2006) for a collection of possible answers to this question. Rashed and Auffret (2017) have recently questioned whether the *Critias* is indeed by Plato, but most scholars accept it as genuine.
+[^note-32]: We do not know why the *Critias* was left unfinished. See Nesselrath (2006)[^nesselrath-2006] for a collection of possible answers to this question. Rashed and Auffret (2017) have recently questioned whether the *Critias* is indeed by Plato, but most scholars accept it as genuine.
 
-[^note-33]: There are fascinating questions concerning the provenance and verisimilitude of the Atlantis story that cannot be treated here. For discussion see Pradeau (1997), Johansen (2004), 24–47, Broadie (2012), 115–172 and Gill (2017).
+[^note-33]: There are fascinating questions concerning the provenance and verisimilitude of the Atlantis story that cannot be treated here. For discussion see Pradeau (1997)[^pradeau-1997], Johansen (2004)[^johansen-2004], 24–47, Broadie (2012)[^broadie-2012], 115–172 and Gill (2017)[^gill-2017].
 
-[^note-34]: See Johansen (2004), 9 ff.
+[^note-34]: See Johansen (2004)[^johansen-2004], 9 ff.
 
 [^archer-hind-1888]: Archer-Hind, R. D. (ed. and trans.), 1888, *The Timaeus of Plato*, London: McMillan & Co.; reprinted, Salem, NH: Ayers Co. Publishers, 1988.
 

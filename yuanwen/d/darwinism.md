@@ -128,7 +128,7 @@ By the same token, however, Darwinism has evolved. As one example of this truth,
 ## 3. The Six Core Philosophical Problems Today
 
 > Theories need both essences and histories.
-> Stephen Jay Gould (2002, 1)
+> Stephen Jay Gould (2002, 1)[^gould-2002]
 
 So reads the heading of the very first section of the first chapter of Gould’s monumental *The Structure of Evolutionary Theory*. Opening with a subtle reading of an exchange of letters in 1863 between paleontologist Hugh Falconer and Charles Darwin, Gould eventually explains what he has in mind by this section heading:
 
@@ -190,7 +190,7 @@ Darwin, in fact never refers to ‘chance variations’ in the *Origin*, though 
 
 Whatever the cause of the *generation* of a variation may be, the role of selection is to *accumulate* those already present variations that happen to be beneficial, a process that, while probabilistic, is not at all independent of fitness (and hence not ‘chancy’ in our second sense). As Beatty put it, the generation of variations and their selection are ‘consecutive’ processes. But to call the generation of variation a ‘chance’ process is to use ‘chance’ in either the second or the third sense, meaning either that such generation is independent of the future utility of variations for the organism, or that it is *not* by design, *not* for some end.
 
-There are, therefore, at least three forms of ‘chance’ at play in contemporary evolutionary theory: an invocation of probabilistic or statistical inferences, an invocation of processes that act independently of current or future fitness, and an invocation of the absence of design. To these we might add, as mentioned above, chance as ignorance of causes, and chance as historical contingency, though we lack the space to discuss either of those notions further here, bringing the total to five (see, e.g., Shanahan 1991, 263–267)[^shanahan-1991]. Eble (1999, 76) drops the notion of probabilistic or statistical inference and adds the idea, less relevant in evolutionary contexts, that ‘chance’ can refer to uncaused events (see analysis in Millstein 2000, 609–613)[^millstein-2000].
+There are, therefore, at least three forms of ‘chance’ at play in contemporary evolutionary theory: an invocation of probabilistic or statistical inferences, an invocation of processes that act independently of current or future fitness, and an invocation of the absence of design. To these we might add, as mentioned above, chance as ignorance of causes, and chance as historical contingency, though we lack the space to discuss either of those notions further here, bringing the total to five (see, e.g., Shanahan 1991, 263–267)[^shanahan-1991]. Eble (1999, 76)[^eble-1999] drops the notion of probabilistic or statistical inference and adds the idea, less relevant in evolutionary contexts, that ‘chance’ can refer to uncaused events (see analysis in Millstein 2000, 609–613)[^millstein-2000].
 
 One further example can illustrate how all this interacts in the broader context of contemporary evolutionary theory (for more such examples, see the contributions to Ramsey and Pence 2016)[^ramsey-2016]. Here, a champion of the neutral theory of molecular evolution characterizes his position:
 
@@ -236,7 +236,7 @@ Natural selection, if it is to resemble the Darwinian concept that bears that na
 
 The concept of natural selection has to this point been presented broadly because of the other two critical questions surrounding the contemporary Darwinian concept of natural selection that we mentioned earlier—questions having to do with possible limiting constraints on natural selection and about the sorts of objects that can be viewed as appropriate organismic/environmental ‘interactors’ in the selection process.
 
-If we suppose that for Darwin natural selection was almost exclusively thought of as an interaction between individual organisms and their organic and inorganic environments, then we can see two challenges to Darwinism today with respect to *levels* of selection. There are those, such as G. C. Williams, Richard Dawkins (1976) and, more recently, J. Arvid Ågren (2021), who argue that selection is always and only of genes. Here is a clear statement:
+If we suppose that for Darwin natural selection was almost exclusively thought of as an interaction between individual organisms and their organic and inorganic environments, then we can see two challenges to Darwinism today with respect to *levels* of selection. There are those, such as G. C. Williams, Richard Dawkins (1976)[^dawkins-1976] and, more recently, J. Arvid Ågren (2021)[^ågren-2021], who argue that selection is always and only of genes. Here is a clear statement:
 
 > These complications [those introduced by organism/environment interactions] are best handled by regarding individual [organismic] selection, not as a level of selection in addition to that of the gene, but as the primary mechanism of selection at the genic level. (Williams 1993, 16)
 
@@ -420,7 +420,7 @@ In sum, Darwin appears reluctant to name Herschel in print in connection with �
 
 [^note-11]: Darwin’s position on this issue, however, is extremely nuanced. At times he seems to argue nearly for eliminativism of the species category (dissolving it into sub-species or varieties from below or into genera from above), while at others he argues clearly that it is possible for a group to “have so perfectly the character of species” (Darwin 1859, 45)[^darwin-1859]. See Ereshefsky 2010 for a detailed discussion.
 
-[^note-12]: Dov Ospovat (1980, 51–53), of course, argues persuasively that Darwin only gradually gave up a roughly Lamarckian view of the origins of variation.
+[^note-12]: Dov Ospovat (1980, 51–53)[^ospovat-1980], of course, argues persuasively that Darwin only gradually gave up a roughly Lamarckian view of the origins of variation.
 
 [^note-13]: Cf. Barrett et al. 1987, 279; and notes 1–4 to notebook page C133.
 

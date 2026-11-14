@@ -234,7 +234,7 @@ b. 三分类型学及对五分类型学的批评
 
 （a）在实在中只有特殊的声音发出与对象的情况下，如何在总名与意义之间建立关系？如何依靠总名与意义与那些特殊对象交互？这些问题呼应前文在概念过程及依赖概念之行动的语境中已遇到的问题：弥合概念领域与实在之间的鸿沟。“所执”（*zhen pa*）这一表达式在此同样指示一个意向性判定的过程，其中包含把概念的虚构误认作心外实在。萨迦班智达区分“解说”与“行动”两种语境：在“解说”语境中，人们区分“直接”与“所执”的能诠与所诠、区分总名与专名、总的对象与特殊的对象；而在“行动”语境——语言的实际使用（含约定的设立与施用）——中，这些区分对说话者与听闻者是模糊的。概念与实在的双重铰接，正是靠学习与应用语言约定时自发发生的误认而维系在一起的。
 
-共相一节讨论过的反实在论者与温和实在论者的分歧，在语言问题上也反映出来：反实在论者主张语言如同概念思惟，只与虚构打交道；温和实在论者则主张语言捕捉世界的实在特征，哪怕只是以扭曲的方式。他们由此承认离散的别相所共有的实在性质。这些性质（出于注疏的要求）以否定方式呈现，即“客观的遮遣”。。对后来的格鲁派作者而言，若干别相所共有的“不是非 *x*”（有些作者不采用双重否定）是约定的主要对象，而相应的概念（义共相）是其次要对象。
+共相一节讨论过的反实在论者与温和实在论者的分歧，在语言问题上也反映出来：反实在论者主张语言如同概念思惟，只与虚构打交道；温和实在论者则主张语言捕捉世界的实在特征，哪怕只是以扭曲的方式。他们由此承认离散的别相所共有的实在性质。这些性质（出于注疏的要求）以否定方式呈现，即“客观的遮遣”。对后来的格鲁派作者而言，若干别相所共有的“不是非 *x*”（有些作者不采用双重否定）是约定的主要对象，而相应的概念（义共相）是其次要对象。
 
 要为语言的成效辩护，反实在论者可以诉诸遮诠理论以及概念形成中涉及因果性的解释。的确，词反映概念区分，而概念区分也可以理解为被构造的共相；语言只能在一个概念系统之内发生。在法称的体系（此处预设之）中，词经由约定所关联的不是对象，而是一个“区分”，后者要求把自相个别分割为两个补余的领域。在约定成立之时，一个词便与这一把诸 *x* 与非 *x* 区分开的区分相关联。此后，凡使用这个词的某个标记（token），所指示的无非是非 *x* 的遮除，但可以引致获得一个被排除于非 *x* 之外的个别。概念形成过程中所含的因果过程保证了成效，前提是约定得以成功设立并为人们成功习得。
 
@@ -262,9 +262,9 @@ b. 三分类型学及对五分类型学的批评
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；藏文原典书目（A 类）条目保留威利转写原样。
 
-[^bibliography-nd]: In this section of the Bibliography, the order of the works listed is based on the alphabetical order of the root Tibetan letter of the first syllable of the author’s name.
+[^bibliography-nd]: 参考文献本小节所列著作，按作者姓名首音节根本字母的藏文字母顺序排列。
 
-[^kaʼ-2006]: The available resources for the pre-classical period currently consist of about 40 works. The majority of them were published as facsimile in the series *bKaʼ gdams gsung ʼbum* (4 sets of 30 volumes each), dPal brtsegs bod yig dpe rnying zhib ʼjug khang, Chengdu, 2006, 2007, 2009, 2015: Si khron mi rigs dpe skrun khang. A few additional ones appeared as typeset editions or are available as facsimile via the Buddhist Digital Resource Center (www.bdrc.io). These resources include the works by Ngok Loden Shérap, Chapa, Tsang Nakpa, Tsurtön Shönnu Senggé (*mTshur ston gZhon nu seng ge*, ca. 1150–1210) and Chumikpa, as well as several summaries and commentaries on Dharmakīrti’s *Pramāṇaviniścaya*. These available works are surveyed in Hugon (2021) (see B below). The translations currently available are limited to individual chapters and passages analyzed in the studies mentioned under B. This entry relied in particular on the following works:
+[^kaʼ-2006]: 前古典时期目前可用的文献约有 40 种。其中大部分以影印本形式刊于《噶当文集》（*bKaʼ gdams gsung ʼbum*）丛书（4 套，每套 30 卷），成都，2006、2007、2009、2015：四川民族出版社（Si khron mi rigs dpe skrun khang），由百慈藏文古籍研究室（dPal brtsegs bod yig dpe rnying zhib ʼjug khang）整理。另有少数以排印本形式问世，或可经佛教数字资源中心（Buddhist Digital Resource Center，www.bdrc.io）获取影印本。这些文献包括俄·罗丹喜饶（Ngok Loden Shérap）、恰巴（Chapa）、藏那巴（Tsang Nakpa）、楚敦·循奴僧格（Tsurtön Shönnu Senggé，*mTshur ston gZhon nu seng ge*，约 1150–1210）与楚米巴（Chumikpa）的著作，以及若干对法称《量抉择论》（*Pramāṇaviniścaya*）的提要与注释。这些现存文献的综述见 Hugon（2021）（见下文 B 部分）。现有译本仅限于下文 B 部分所列研究著作中分析过的个别篇章与段落。本词条尤其依据以下著作：
 
 [^chu-2007]: Chu mig pa Seng ge dpal (ca. 1200–1270). *gZhan gyi phyogs thams cad las rnam par rgyal ba*. *bKaʼ gdams gsung ʼbum phyogs bsgrigs thengs gnyis pa/gsum pa*. Ed. dPal brtsegs bod yig dpe rnying zhib ʼjug khang, Chengdu, 2007: Si khron mi rigs dpe skrun khang, vol. 45, 11–163 and Chengdu, 2009: Si khron mi rigs dpe skrun khang, vol. 87, 315–448.
 
@@ -314,7 +314,7 @@ b. 三分类型学及对五分类型学的批评
 
 [^hugon-2016]: –––, 2016. “Can one be a Mādhyamika, a crypto-Vaibhāṣika, and a faithful interpreter of Dharmakīrti? On Phya pa Chos kyi seng ge’s doxographical divisions and his own philosophical standpoint,” *Journal of Tibetology*, 15: 51–153.
 
-[^hugon-2020]: –––, 2020. “Vaibhāṣika-Madhyamaka: A fleeting episode in the history of Tibetan Madhyamaka,” in Tournier, V., Eltschinger, V., and Sernesi, M. (eds.), *Archaeologies of the Written: Indian, Tibetan, and Buddhist Studies in Honour of Cristina Scherrer-Schaub*, Naples: Università degli Sudie di Napoli “L’Orientale,” 323–371.
+[^hugon-2020]: –––, 2020. “Vaibhāṣika-Madhyamaka: A fleeting episode in the history of Tibetan Madhyamaka,” in Tournier, V., Eltschinger, V., and Sernesi, M. (eds.), *Archaeologies of the Written: Indian, Tibetan, and Buddhist Studies in Honour of Cristina Scherrer-Schaub*, Naples: Università degli Studi di Napoli “L’Orientale,” 323–371.
 
 [^hugon-2021]: –––, 2021. “Mapping recently recovered early Tibetan epistemological works,” in Caumanns, V., Heimbel, J., Kano, K., and Schiller, A. (eds.), Gateways to Tibetan Studies: A Collection of Essays in Honour of David P. Jackson on the Occasion of his 70ᵗʰ Birthday, Hamburg: Department of Indian and Tibetan Studies, Universität Hamburg, 415–460.
 
@@ -332,7 +332,7 @@ b. 三分类型学及对五分类型学的批评
 
 [^rinbochay-1980]: Rinbochay, Lati and Napper, Elizabeth, 1980. *Mind in Tibetan Buddhism*, Ithaca, N.Y.: Snow Lion Publications.
 
-[^schwabland-1995]: Schwabland, Peter A., 1995. “Direct and Indirect Cognition and the Definition of *pramāṇa* in Early Tibetan Epistemology,” *Etudes Asiatiques*, 49(4): 793–816.
+[^schwabland-1995]: Schwabland, Peter A., 1995. “Direct and Indirect Cognition and the Definition of *pramāṇa* in Early Tibetan Epistemology,” *Études Asiatiques*, 49(4): 793–816.
 
 [^steinkellner-2006]: Steinkellner, Ernst, 2006. “The Buddhist Tradition of Epistemology and Logic (*tshad ma*) and Its Significance for Tibetan Civilisation,” in Gingrich, A. and Hazod, G. (eds.), *Der Rand und die Mitte*, Wien: Verlag der Österreichischen Akademie der Wissenschaften, 193–210.
 
@@ -344,7 +344,7 @@ b. 三分类型学及对五分类型学的批评
 
 [^stoltz-2009]: –––, 2009. “Phywa pa’s Argumentative Analogy Between Factive Assessment (*yid dpyod*) and Conceptual Thought (*rtog pa*),” in Hugon, P. and Vose, K., (eds.), *Tibetan scholasticism in the 11th and 12th centuries. Contributions to a panel at the XVth Congress of the International Association of Buddhist Studies. Atlanta, 23–28 June 2008*, *Journal of the International Association of Buddhist Studies*, 32(1–2): 369–386.
 
-[^stoltz-2013]: –––, 2013. “Cognition, Phenomenal Character, and Intentionality in Tibetan Buddhism,” in Emmanuel, S. (ed.), *A Companion to Buddhist Philosophy*, Oxford: Wiley Balckwell, 405–418.
+[^stoltz-2013]: –––, 2013. “Cognition, Phenomenal Character, and Intentionality in Tibetan Buddhism,” in Emmanuel, S. (ed.), *A Companion to Buddhist Philosophy*, Oxford: Wiley Blackwell, 405–418.
 
 [^stoltz-2020]: –––, 2020. “On the Authorship of the *Tshad maʼi de kho na nyid bsdus pa*,” *Revue d’Etudes Tibétaines*, 56: 46–69.
 

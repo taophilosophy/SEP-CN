@@ -5,7 +5,7 @@
 
 Australian-born philosopher Samuel Alexander (1859–1938) was a prominent figure in early twentieth-century British philosophy. He is best known for advancing “British Emergentism”, a movement that held mind “emerges” from matter. Alexander rejected idealism, and accordingly can be labelled a “new realist” alongside the likes of Bertrand Russell; however, unlike other new realists, Alexander maintained close ties with British idealism throughout his career, and his ontology arguably bears similarities to the Absolute Idealism of F. H. Bradley. Alexander’s mature metaphysical system is set out in his greatest work *Space, Time, and Deity* (1920). Alexander conceives the world as a hierarchy of levels: space and time sit at the lowest level, and through a process of emergence give rise to the levels of matter, life, mind, and deity. These levels are pervaded by “categorial” features of reality, such as substance, universals, and causality. Although Alexander is primarily known as a metaphysician, he wrote extensively on many other philosophical topics, including the history of philosophy, ethics, aesthetics, and the philosophy of religion. Alexander spent most of his professional career at the University of Manchester, where he supported various moves in education and feminism. On his death, Alexander left his philosophical papers and correspondence to the John Rylands Library at Manchester, and this collection constitutes an important philosophic archive of the period.
 
-Alexander’s work was widely celebrated during his lifetime. J. H. Muirhead (1939: 3) wrote that, after Bradley’s death in 1924, Alexander was “the leading figure in British philosophy, and whom all schools, whatever their differences, were delighted to honour as their chief”. John Laird (1939: 61–5) described *Space, Time, and Deity* as “the boldest adventure in detailed speculative metaphysics” since Hobbes. Although he never founded a school of philosophy, Alexander is credited with having an influence on figures as diverse as new realists Laird, C. D. Broad, and Edwin B. Holt; the process philosopher A. N. Whitehead; John Anderson, “father of Australian philosophy”, and his school at Sydney; British idealists May Sinclair and Hilda Oakeley; and philosopher of history R. G. Collingwood. A number of studies were produced on Alexander’s work in the mid-twentieth century, but it then saw a period of neglect. Over the last decade or so, interest has increased, as indicated by Fisher’s (2021) collection *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*.
+Alexander’s work was widely celebrated during his lifetime. J. H. Muirhead (1939: 3)[^muirhead-1939] wrote that, after Bradley’s death in 1924, Alexander was “the leading figure in British philosophy, and whom all schools, whatever their differences, were delighted to honour as their chief”. John Laird (1939: 61–5)[^laird-1939] described *Space, Time, and Deity* as “the boldest adventure in detailed speculative metaphysics” since Hobbes. Although he never founded a school of philosophy, Alexander is credited with having an influence on figures as diverse as new realists Laird, C. D. Broad, and Edwin B. Holt; the process philosopher A. N. Whitehead; John Anderson, “father of Australian philosophy”, and his school at Sydney; British idealists May Sinclair and Hilda Oakeley; and philosopher of history R. G. Collingwood. A number of studies were produced on Alexander’s work in the mid-twentieth century, but it then saw a period of neglect. Over the last decade or so, interest has increased, as indicated by Fisher’s (2021) collection *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*.
 
 ## 1. Life
 
@@ -35,7 +35,7 @@ Alexander’s full system of aesthetics can be found in his final monograph, *Be
 
 In his late years, Alexander continued to publish, but Laird reports that Alexander was greatly troubled from the 1930s by the suffering of Jewish refugees; Alexander did all he could to help with pen and purse (Laird 1939: 94)[^laird-1939]. Alexander died on 13 September 1938, and his ashes lie in the Manchester Southern Cemetery. He bequeathed the majority of his estate, and his philosophical papers, to the University of Manchester. A bust of Alexander, by the artist Epstein, stands in the University of Manchester’s Samuel Alexander Building (formerly known as the Hall of the Arts Building). Alexander reportedly said that he would be happy to have *Erravit cum Spinoza* engraved on his funeral urn; Muirhead suggested that instead he should have *Ut alter Spinoza philosophatus*[^note-1] (Muirhead 1939: 14)[^muirhead-1939].
 
-A biography of Alexander can be found in Laird’s (1939) memoir; see also Muirhead (1939) and G. F. Stout (1940).
+A biography of Alexander can be found in Laird’s (1939)[^laird-1939] memoir; see also Muirhead (1939)[^muirhead-1939] and G. F. Stout (1940)[^stout-1940].
 
 ## 2. Early Writings
 
@@ -91,7 +91,7 @@ Alexander also argues here that minds emerge from lower-level living organisms, 
 
 The biology that informed Alexander’s early (1889) work on ethics survives in his account of mind: mind emerges in the world through evolution. This theory of “emergent evolution” is akin to that advanced by C. Lloyd Morgan; Alexander later references Morgan’s *Instinct and Experience* (1912). Alexander adds here that the lowest level of existence is space and time—that they are “the foundation of all reality”—and he greatly expands on this view in his book (1920).
 
-On Alexander’s realism, including the motivations underlying it and the question of whether realism can be found in his earliest work, see Weinstein (1984), Fisher (2017; 2021b), and Thomas (2021).
+On Alexander’s realism, including the motivations underlying it and the question of whether realism can be found in his earliest work, see Weinstein (1984)[^weinstein-1984], Fisher (2017; 2021b)[^fisher-2017][^fisher-2021b], and Thomas (2021)[^thomas-2021].
 
 ### 3.2 *Space, Time, and Deity*
 
@@ -101,7 +101,7 @@ This difficult two-volume work sets out Alexander’s grand metaphysical picture
 
 The idea is that *Space, Time, and Deity* offers a description of the world that best fits the facts.
 
-The first chapter of *Space, Time, and Deity* opens with Alexander’s proclamation that all the vital problems of philosophy depend on space and time (Alexander 1920i: 35). Alexander conceives space and time as the stuff out of which all things are made: space and time are real and concrete, and out of them emerge matter, life, and so on. Space and time are unified in a four-dimensional manifold, spacetime. This single vast entity does not move but contains all motions within itself, and so Alexander labels it “Motion”. In this respect, Alexander’s spacetime bears some resemblance to F. H. Bradley’s (1893) Absolute: neither Motion nor the Absolute move or exist in time, but they both contain motion and time within themselves.
+The first chapter of *Space, Time, and Deity* opens with Alexander’s proclamation that all the vital problems of philosophy depend on space and time (Alexander 1920i: 35). Alexander conceives space and time as the stuff out of which all things are made: space and time are real and concrete, and out of them emerge matter, life, and so on. Space and time are unified in a four-dimensional manifold, spacetime. This single vast entity does not move but contains all motions within itself, and so Alexander labels it “Motion”. In this respect, Alexander’s spacetime bears some resemblance to F. H. Bradley’s (1893)[^bradley-1893] Absolute: neither Motion nor the Absolute move or exist in time, but they both contain motion and time within themselves.
 
 Alexander presents a metaphysical argument for the unity of space and time, arguing they are merely distinguishable aspects of Motion. He argues that space and time must be unified because, when abstracted away from each other, it becomes clear that they could not exist independently. Time would become a mere “now”, incapable of succession; and space would become a mere “blank”, without distinguishable elements (Alexander 1920i: 47). Motion is both successive and boasts distinguishable elements – this is *because* it is the union of space and time. Alexander’s metaphysical argument for this union was severely criticised by Broad (1921a,b).[^note-2] Alexander considered his account of spacetime to be in line with the physics of his day. The following might be understood as an argument from physics for his position:
 
@@ -125,7 +125,7 @@ Analogous to the way that Alexander takes mind to emerge from body, new levels o
 
 > Empirical things or existents are… groupings within Space-Time, that is, they are complexes of pure events or motions in various degrees of complexity. Such finites have all the categorial characters, that is, all the fundamental features which flow from the nature of any space-time… [A]s in the course of Time new complexity of motions comes into existence, a new quality emerges… The case which we are using as a clue is the emergence of the quality of consciousness from a lower level of complexity which is vital [i.e., life]. (Alexander 1920ii: 45)
 
-Alexander has been criticised for explaining the emergence of qualities within spacetime by analogy with mind-body emergence, as the latter kind of emergence is rarely taken to be as unproblematic as Alexander appears to conceive it. For more on this, see for example Emmet (1950).
+Alexander has been criticised for explaining the emergence of qualities within spacetime by analogy with mind-body emergence, as the latter kind of emergence is rarely taken to be as unproblematic as Alexander appears to conceive it. For more on this, see for example Emmet (1950)[^emmet-1950].
 
 According to Alexander, the emergence of new levels of being within spacetime is driven by a “nisus”, a striving or felt push towards some end:
 
@@ -135,9 +135,9 @@ This means that the emergence of qualities in spacetime is not merely a process,
 
 The second volume of *Space, Time, and Deity* also contains a relatively brief discussion of beauty, and other forms of value. Alexander hugely expands on this account in his 1933 monograph; see Section 4.2 below.
 
-Alexander engaged in extended correspondence on *Space, Time, and Deity:* his letters with F. H. Bradley, C. D. Broad, and C. Lloyd Morgan are particularly important. Some of the Bradley correspondence can be found in Bradley’s (1999) *Collected Works*. Other letters can be found in Samuel Alexander Papers, John Rylands Library, Manchester.
+Alexander engaged in extended correspondence on *Space, Time, and Deity:* his letters with F. H. Bradley, C. D. Broad, and C. Lloyd Morgan are particularly important. Some of the Bradley correspondence can be found in Bradley’s (1999)[^bradley-1999] *Collected Works*. Other letters can be found in Samuel Alexander Papers, John Rylands Library, Manchester.
 
-Secondary literature on Alexander’s spacetime metaphysics includes Brettschneider (1964), Broad (1921a,b), Emmet (1950), Fiore (2025), Fisher (2015), Murphy’s (1927–1928) series, Rush (2021), and Thomas (2013; 2026b). Schaffer’s (2009) argues for the identification of spacetime with matter, and traces this line of thought to Alexander. Secondary literature on Alexander’s account of mind-body emergence include classic critiques from Broad (1921a,b), Calkins (1923) and Emmet (1950). Stout (1922) discusses and rejects Alexander’s theory of perception. There has been more recent work on Alexander’s account of emergence in general; see Gillet (2006), McLaughlin (1992), and O’Connor and Wong (2012). On Alexander’s theory of relations, see Spinney (2024).
+Secondary literature on Alexander’s spacetime metaphysics includes Brettschneider (1964)[^brettschneider-1964], Broad (1921a,b), Emmet (1950)[^emmet-1950], Fiore (2025)[^fiore-2025], Fisher (2015)[^fisher-2015], Murphy’s (1927–1928) series, Rush (2021)[^rush-2021], and Thomas (2013; 2026b)[^thomas-2013][^thomas-2026b]. Schaffer’s (2009)[^schaffer-2009] argues for the identification of spacetime with matter, and traces this line of thought to Alexander. Secondary literature on Alexander’s account of mind-body emergence include classic critiques from Broad (1921a,b), Calkins (1923)[^calkins-1923] and Emmet (1950)[^emmet-1950]. Stout (1922)[^stout-1922] discusses and rejects Alexander’s theory of perception. There has been more recent work on Alexander’s account of emergence in general; see Gillet (2006)[^gillet-2006], McLaughlin (1992)[^mclaughlin-1992], and O’Connor and Wong (2012). On Alexander’s theory of relations, see Spinney (2024)[^spinney-2024].
 
 ### 3.3 Philosophy of Religion
 
@@ -159,7 +159,7 @@ Alexander’s account of deity is explored further in his 1927 “Theism and Pan
 
 God is transcendent in the sense that he is still in the making, and immanent in the sense that he will bloom from the whole world.
 
-Extended discussions of Alexander’s theism can be found in Titus (1933) and Thomas (2016). Brief discussions can be found in McCarthy (1948) and Stiernotte (1954). Emergentist theologies, holding that in *some* sense God will emerge from the universe, are currently enjoying a revival, and in this context Clayton (2004) discusses Alexander’s system as a rival to his own.
+Extended discussions of Alexander’s theism can be found in Titus (1933)[^titus-1933] and Thomas (2016)[^thomas-2016]. Brief discussions can be found in McCarthy (1948)[^mccarthy-1948] and Stiernotte (1954)[^stiernotte-1954]. Emergentist theologies, holding that in *some* sense God will emerge from the universe, are currently enjoying a revival, and in this context Clayton (2004)[^clayton-2004] discusses Alexander’s system as a rival to his own.
 
 ## 4. Late Writings
 
@@ -175,7 +175,7 @@ Spinoza’s *Ethics* argues there is only one substance, and this substance is i
 
 Alexander argues his gloss solves problems in Spinoza’s original system. He also praises Spinoza for successfully combining religious values and naturalism (Alexander 1927: 14). Alexander concludes one of his pieces on this topic by saying that he takes pride in the similarity between his system and Spinoza’s (Alexander 1921a: 79). Alexander was corresponding at this time with the Spinoza scholar Harold Joachim.
 
-There is very little secondary literature on this aspect of Alexander’s thought, although Thomas (2013) has argued Alexander is best understood through Spinoza.
+There is very little secondary literature on this aspect of Alexander’s thought, although Thomas (2013)[^thomas-2013] has argued Alexander is best understood through Spinoza.
 
 ### 4.2 Art and Other Forms of Value
 
@@ -211,7 +211,7 @@ Alexander’s writings on art and value were well received in their day:
 
 > [Alexander’s] happy blending of Herbert Spencer’s patient empiricism with the bolder systematic sweep of Bradley and the giant figures of German idealism was nowhere more fruitful than in his treatment of aesthetics. (Listowel 1939: 183)[^listowel-1939]
 
-The secondary literature includes Fox (1934), Hooper (1950), Innis (2017), Listowel (1939), and Wertz (2022).
+The secondary literature includes Fox (1934)[^fox-1934], Hooper (1950)[^hooper-1950], Innis (2017)[^innis-2017], Listowel (1939)[^listowel-1939], and Wertz (2022)[^wertz-2022].
 
 ### 4.3 The Historicity of Things
 
@@ -219,15 +219,15 @@ The secondary literature includes Fox (1934), Hooper (1950), Innis (2017), Listo
 
 > History can claim to be mistress of science, as much as mathematics, though in a different sense. They stand for the two vital elements in every science which cannot be separated, if they can be considered separately, the constructive process by which we discover by our thought the order inherent in things, and the raw material itself… It must be remembered, however, of course, that historical *science* is but one of the sciences which arise from the facts and happenings of the world. (Alexander 1936: 24)
 
-Alexander’s characterisation of history as having the whole world as its subject matter is interesting not least because it proved so controversial. Both R. G. Collingwood and Hilda Oakeley, two philosophers of history associated with British idealism, took strong issue with Alexander’s description; see Collingwood’s reprinted *Principles of History* (1938 [1999: 56]) and Oakeley’s “The World as Memory and as History” (1927). Both corresponded with Alexander. The Alexander-Collingwood correspondence is published in Kobayashi (2021). The Alexander-Oakeley correspondence is published in Thomas (2026a).
+Alexander’s characterisation of history as having the whole world as its subject matter is interesting not least because it proved so controversial. Both R. G. Collingwood and Hilda Oakeley, two philosophers of history associated with British idealism, took strong issue with Alexander’s description; see Collingwood’s reprinted *Principles of History* (1938 [1999: 56]) and Oakeley’s “The World as Memory and as History” (1927). Both corresponded with Alexander. The Alexander-Collingwood correspondence is published in Kobayashi (2021)[^kobayashi-2021]. The Alexander-Oakeley correspondence is published in Thomas (2026a)[^thomas-2026a].
 
 ## 5. Alexander’s Legacy
 
-Alexander’s work impacted a wide variety of thinkers, and he was especially widely read from the 1910s to the 1930s. His work was used and referenced by the likes of British new realists Bertrand Russell, G. E. Moore, and G. F. Stout, John Laird, C. D. Broad; and by American realists Edwin B. Holt, and George P. Adams; for a longer list, see Fisher (2021a).
+Alexander’s work impacted a wide variety of thinkers, and he was especially widely read from the 1910s to the 1930s. His work was used and referenced by the likes of British new realists Bertrand Russell, G. E. Moore, and G. F. Stout, John Laird, C. D. Broad; and by American realists Edwin B. Holt, and George P. Adams; for a longer list, see Fisher (2021a)[^fisher-2021a].
 
-The last decade has seen increasing scholarly interest in tracing Alexander’s influence on other philosophers. For example, his work was also picked up by John Anderson, who attended Alexander’s 1917–1918 Gifford lectures. Lines of thought stemming from Alexander can be found in Anderson’s Australian student, D.M. Armstrong; and in American philosopher Donald C. Williams. On Alexander’s influence on Anderson and Armstrong, see Gillett (2006), Fisher (2015), Cole (2018, §1; §5.2); and Weblin (2021). On Williams, see Fisher (2015) and Williams (2021). Dorothy Emmet’s (2021) piece shows her work owed to Alexander.
+The last decade has seen increasing scholarly interest in tracing Alexander’s influence on other philosophers. For example, his work was also picked up by John Anderson, who attended Alexander’s 1917–1918 Gifford lectures. Lines of thought stemming from Alexander can be found in Anderson’s Australian student, D.M. Armstrong; and in American philosopher Donald C. Williams. On Alexander’s influence on Anderson and Armstrong, see Gillett (2006), Fisher (2015)[^fisher-2015], Cole (2018, §1; §5.2); and Weblin (2021)[^weblin-2021]. On Williams, see Fisher (2015)[^fisher-2015] and Williams (2021)[^williams-2021]. Dorothy Emmet’s (2021)[^emmet-2021] piece shows her work owed to Alexander.
 
-The extent of Alexander’s intellectual relationship with philosopher of history R. G. Collingwood is only recently coming to be appreciated; see O’Neill (2006), Connelly (2021), and Kobayashi (2021). Unusually for a realist, Alexander’s work was also picked up by at least two British idealists, May Sinclair and Hilda Oakeley; see Thomas (2015; 2019). Alexander’s surviving correspondence with both are published in Thomas (2026a); this volume also evidences Alexander’s friendship with Susan Stebbing.
+The extent of Alexander’s intellectual relationship with philosopher of history R. G. Collingwood is only recently coming to be appreciated; see O’Neill (2006)[^o’neill-2006], Connelly (2021)[^connelly-2021], and Kobayashi (2021)[^kobayashi-2021]. Unusually for a realist, Alexander’s work was also picked up by at least two British idealists, May Sinclair and Hilda Oakeley; see Thomas (2015; 2019)[^thomas-2015][^thomas-2019]. Alexander’s surviving correspondence with both are published in Thomas (2026a)[^thomas-2026a]; this volume also evidences Alexander’s friendship with Susan Stebbing.
 
 ## References（引用注释）
 
@@ -263,7 +263,7 @@ Anderson, John | Bradley, Francis Herbert | Collingwood, Robin George | emergent
 
 [^note-2]: In a letter to Broad dated 4 August 1920, Alexander discusses his claim that space and time are the same thing considered from two sides. Afterwards, Alexander adds, “The fact is I have an obstinate belief that the proposition is true, but I also think it more than possible I have slipped in the proof”. Held at John Rylands Library, reference ALEX/A/1/1/37/2.
 
-[^note-3]: Stiernotte (1954: 285) and Emmet (1950) understand the nisus as a creative tendency or force, Brettschneider (1964: 154) interprets it as a principle of coherence, and Thomas (2013: 563) characterises it as an evolutionary principle.
+[^note-3]: Stiernotte (1954: 285)[^stiernotte-1954] and Emmet (1950)[^emmet-1950] understand the nisus as a creative tendency or force, Brettschneider (1964: 154)[^brettschneider-1964] interprets it as a principle of coherence, and Thomas (2013: 563)[^thomas-2013] characterises it as an evolutionary principle.
 
 [^bradley-1893]: Bradley, F. H., 1893, *Appearance and Reality*, London: Swan Sonnenschein.
 

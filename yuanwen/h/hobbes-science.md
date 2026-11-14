@@ -181,21 +181,21 @@ Boyle, Robert | Hobbes, Thomas | Hobbes, Thomas: moral and political philosophy 
 
 [^note-3]: I cite Hobbes’ Latin Works and English Works as OL and EW, respectively, followed by volume number and page number. So, for example, OL I.82 refers to page 82 in volume I of Hobbes’ *Latin Works*.
 
-[^note-4]: Additional examples where Hobbes explicitly cites the use of a principle from geometry within an explanation include *De Corpore* XXVI.6 (OL I.349), XXVI.8 (OL I.353), and XXVI.10 (OL I.357), *De Homine* 2.2 (OL II.8), and *Dialogus Physicus, sive De natura Aeris Conjectura sumpta ab Experimentis nuper Londini habitis in Collegio Greshamensi* (1661, 1668). Regarding the latter, see Adams (2017) for discussion of the use of geometrical principles within that work.
+[^note-4]: Additional examples where Hobbes explicitly cites the use of a principle from geometry within an explanation include *De Corpore* XXVI.6 (OL I.349), XXVI.8 (OL I.353), and XXVI.10 (OL I.357), *De Homine* 2.2 (OL II.8), and *Dialogus Physicus, sive De natura Aeris Conjectura sumpta ab Experimentis nuper Londini habitis in Collegio Greshamensi* (1661, 1668). Regarding the latter, see Adams (2017)[^adams-2017] for discussion of the use of geometrical principles within that work.
 
 [^note-5]: This period overlaps with Hobbes’ public embarrassment concerning attempts to square the circle even in the face of repeated criticisms from John Wallis (for discussion of the Hobbes-Wallis debate, see Jesseph 1999)[^jesseph-1999].
 
 [^note-6]: For details regarding the publication of this work, see Shapin and Schaffer (1985: 345–346). I cite Simon Schaffer’s translation of the 1661 edition of *Dialogus Physicus* from Shapin and Schaffer (1985) as DP followed by the page number (I also provide the corresponding citation to the *Latin Works* edition).
 
-[^note-7]: For a discussion of some of the many reviews by philosophers and historians of science of this influential work, see Achbari (2017).
+[^note-7]: For a discussion of some of the many reviews by philosophers and historians of science of this influential work, see Achbari (2017)[^achbari-2017].
 
-[^note-8]: See Hattab (2011) for discussion of differences and commonalities among those who self-identified as or have been categorized by scholars as advancing some form of mechanical philosophy.
+[^note-8]: See Hattab (2011)[^hattab-2011] for discussion of differences and commonalities among those who self-identified as or have been categorized by scholars as advancing some form of mechanical philosophy.
 
-[^note-9]: On the distinction between speculative and experimental natural philosophy, see Anstey (2005).
+[^note-9]: On the distinction between speculative and experimental natural philosophy, see Anstey (2005)[^anstey-2005].
 
 [^note-10]: For example, Hobbes’ translations of Thucydides’ *History of the Peloponnesian War* and Aristotle’s *Rhetoric*.
 
-[^note-11]: For discussion and criticisms of the definitivist view, see Deigh (2003), Hoekstra (2003), Lloyd (2009: 151–210), and Murphy (2000).
+[^note-11]: For discussion and criticisms of the definitivist view, see Deigh (2003)[^deigh-2003], Hoekstra (2003)[^hoekstra-2003], Lloyd (2009: 151–210)[^lloyd-2009], and Murphy (2000)[^murphy-2000].
 
 [^works-nd]: Works by Hobbes
 

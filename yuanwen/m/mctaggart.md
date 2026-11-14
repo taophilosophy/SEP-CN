@@ -241,29 +241,29 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 ## Notes（原文脚注）
 
-[^note-1]: Peter Geach, one of the foremost commentators of McTaggart, also refrains from commenting on McTaggart’s works on Hegel. He suggests, however, that scholars of Hegel regard McTaggart’s interpretations of Hegel as perverse (Geach 1979, 17)[^geach-1979]. Hiralal Haldar, in his book *Neo-Hegelianism*, describes McTaggart’s interpretations of Hegel as “highly original and very unorthodox” (Haldar 1927, 415)[^haldar-1927]. McTaggart’s views on Hegel are briefly discussed by Kreines (2008, 374–376). For a more favorable reception of McTaggart’s interpretation of Hegel, see Stern (1994).
+[^note-1]: Peter Geach, one of the foremost commentators of McTaggart, also refrains from commenting on McTaggart’s works on Hegel. He suggests, however, that scholars of Hegel regard McTaggart’s interpretations of Hegel as perverse (Geach 1979, 17)[^geach-1979]. Hiralal Haldar, in his book *Neo-Hegelianism*, describes McTaggart’s interpretations of Hegel as “highly original and very unorthodox” (Haldar 1927, 415)[^haldar-1927]. McTaggart’s views on Hegel are briefly discussed by Kreines (2008, 374–376)[^kreines-2008]. For a more favorable reception of McTaggart’s interpretation of Hegel, see Stern (1994)[^stern-1994].
 
-[^note-2]: See Monk (1999, 109) for discussion.
+[^note-2]: See Monk (1999, 109)[^monk-1999] for discussion.
 
-[^note-3]: Geach (1995, 568). Geach (1979, 10) reports that, after his wife’s death, his fortune was donated to Clifton College.
+[^note-3]: Geach (1995, 568)[^geach-1995]. Geach (1979, 10)[^geach-1979] reports that, after his wife’s death, his fortune was donated to Clifton College.
 
 [^note-4]: The former quote is taken from McTaggart’s article “The Relation of Time to Eternity”, the latter is quoted by Paul Levy in (Levy 1981, 109)[^levy-1981].
 
-[^note-5]: For more on McTaggart’s influence on Moore, see Baldwin (1996).
+[^note-5]: For more on McTaggart’s influence on Moore, see Baldwin (1996)[^baldwin-1996].
 
 [^note-6]: See (Dickinson 1931, 40)[^dickinson-1931] for a quote of the poem and for a discussion of McTaggart’s reaction to it.
 
-[^note-7]: According to Dickinson (1931, 85), McTaggart believed that the sciences were incapable of throwing real light on the nature of the world.
+[^note-7]: According to Dickinson (1931, 85)[^dickinson-1931], McTaggart believed that the sciences were incapable of throwing real light on the nature of the world.
 
-[^note-8]: Rochelle (1991, 88) discusses how McTaggart’s lectures on the problems of philosophy stressed the need to avoid ‘logical and verbal ambiguity’.
+[^note-8]: Rochelle (1991, 88)[^rochelle-1991] discusses how McTaggart’s lectures on the problems of philosophy stressed the need to avoid ‘logical and verbal ambiguity’.
 
-[^note-9]: See Section 4 in the SEP entry on time for further discussion. D.H. Mellor (1981, 1998) has recast McTaggart’s argument against the reality of time as an argument against the reality of tenses.
+[^note-9]: See Section 4 in the SEP entry on time for further discussion. D.H. Mellor (1981, 1998)[^mellor-1981][^mellor-1998] has recast McTaggart’s argument against the reality of time as an argument against the reality of tenses.
 
 [^note-10]: Such a view is hinted at in the concluding section of “The Unreality of Time”.
 
 [^note-11]: This claim is also defended in *Some Dogmas of Religion*, sections 180 and 192, as well as in his article “Personality”, which is reprinted in his *Philosophical Studies.*
 
-[^note-12]: See Geach (1979, 15), and Geach (1995, 569). Dickinson (1931, 94–97) and Rochelle (1991, 75–76) discuss McTaggart’s mystical experiences, which he called his “Saul feeling”, a name which he took after Robert Browning’s poem, “Saul.”
+[^note-12]: See Geach (1979, 15)[^geach-1979], and Geach (1995, 569)[^geach-1995]. Dickinson (1931, 94–97)[^dickinson-1931] and Rochelle (1991, 75–76)[^rochelle-1991] discuss McTaggart’s mystical experiences, which he called his “Saul feeling”, a name which he took after Robert Browning’s poem, “Saul.”
 
 [^note-13]: The moral exhortation is articulated in “Dare to Be Wise”, reprinted in his *Philosophical Studies*, as well as in section 59 of *Some Dogmas of Religion*.
 
@@ -273,7 +273,7 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 [^note-16]: In “An Ontological Idealism”, he defines the view as the claim that the only substances are selves, parts of selves and groups of selves or groups of parts of selves.
 
-[^note-17]: For a thorough reconstruction of McTaggart’s argument in the *Nature of Existence* for ontological idealism, see Nathan (1991).
+[^note-17]: For a thorough reconstruction of McTaggart’s argument in the *Nature of Existence* for ontological idealism, see Nathan (1991)[^nathan-1991].
 
 [^note-18]: This view is defended in the second volume of *The Nature of Existence*, chapter 37, section 412.
 
@@ -295,7 +295,7 @@ I thank Ben Bradley, Daniel Nolan, David Sanford, Byron Simmons, and an anonymou
 
 [^note-27]: As an anonymous referee pointed out, what I call McTaggart’s second point is the conjunction of two principles accepted by McTaggart and subjected to individual discussion: the Identity of Indiscernibles, defended in section 99, and a principle of sufficient description, defended in section 104, according to which the qualities of every substance are fully determinate.
 
-[^note-28]: That some relation be a relation of determining correspondence is central to McTaggart’s argument; unfortunately, what it is to be a relation of determining correspondence is one of the less clearer bits of McTaggart’s metaphysics. See Geach (1979), Nathan (1991), and Wisdom (1928) for contrasting takes on determining correspondence.
+[^note-28]: That some relation be a relation of determining correspondence is central to McTaggart’s argument; unfortunately, what it is to be a relation of determining correspondence is one of the less clearer bits of McTaggart’s metaphysics. See Geach (1979)[^geach-1979], Nathan (1991)[^nathan-1991], and Wisdom (1928)[^wisdom-1928] for contrasting takes on determining correspondence.
 
 [^note-29]: McTaggart’s arguments against the existence of matter and sense-data are located in, respectively, chapters XXXIV and XXXV of volume II of *The Nature of Existence*.
 

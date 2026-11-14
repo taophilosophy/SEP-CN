@@ -25,7 +25,7 @@ The *Oxford English Dictionary* explains:
 
 > In modern colloquial English it [*evil*]; is little used, such currency as it has being due to literary influence. In quite familiar speech the adjective is commonly superseded by *bad*; the noun is somewhat more frequent, but chiefly in the widest senses, the more specific senses being expressed by other words, such as *harm*, *injury*, *misfortune*, *disease*, etc. (“evil, *adj.* and *n.*1”, under A., abbreviations expanded, *OED Online*, accessed September 2021)
 
-This trend is found in other modern languages, but not in all. Ruppel (2019) notes that in German-speaking lands “*das Übel*” declined just like “evil” did in England, but was soon replaced by “*das Böse*”, which is still alive and well in Germany.
+This trend is found in other modern languages, but not in all. Ruppel (2019)[^ruppel-2019] notes that in German-speaking lands “*das Übel*” declined just like “evil” did in England, but was soon replaced by “*das Böse*”, which is still alive and well in Germany.
 
 This slow erasure of “evil” and its cognates from many European languages, which began in the seventeenth century, was due to the rejection of the *concept* of evil, especially by elites. Doctors, moral philosophers, natural scientists, and even theologians shied away from *evil*—preferring more tractable notions like *badness*, *harm*, and *misfortune*, or quasi-quantifiable concepts like *pain*, *suffering*, *trauma*, and *disutility*. Traditional views of ontologically substantive and supernatural evil—something able to possess a body or terrorize a soul—came to be seen as quaint, unscientific, embarrassing (Ruppel 2019)[^ruppel-2019].
 
@@ -227,7 +227,7 @@ Both the nature and the origins of symbolic evil are hard to characterize; thus 
 
 Kant is the source of “radical evil”, but his way of using the term is now out of favor. In fact, most people writing on this issue use the term in a precisely non-Kantian way to refer to something spectacularly excessive—an act or event whose badness is deeper and more mysterious than the badness of ordinary states or activities (Bernstein 2002)[^bernstein-2002].
 
-In her famous account of the trial of Adolf Eichmann in Jerusalem, Arendt (1963) promoted the idea that even the worst evils can be “banal” and bureaucratical. A decade earlier, however, she conceived of “radical evil” quite differently. In a March 1951 letter to Karl Jaspers she wrote:
+In her famous account of the trial of Adolf Eichmann in Jerusalem, Arendt (1963)[^arendt-1963] promoted the idea that even the worst evils can be “banal” and bureaucratical. A decade earlier, however, she conceived of “radical evil” quite differently. In a March 1951 letter to Karl Jaspers she wrote:
 
 > We know that the greatest evils or radical evil has nothing to do anymore with humanly understandable, sinful motives. What radical evil is I don’t know, but it seems to me to somehow have to do with the following phenomenon: *making human beings as human beings superfluous*. (Arendt & Jaspers 1992: 166, emphasis added)[^arendt-1992]
 

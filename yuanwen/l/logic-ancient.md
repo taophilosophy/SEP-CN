@@ -380,7 +380,7 @@ Alexander of Aphrodisias | Ammonius | Aristotle, commentators on | Aristotle, Ge
 
 [^note-3]: At least, this appears to have been the view of Chrysippus and the early Stoics. Some later and less reliable sources seem ambiguous as to whether Stoic conjunctions could have more than two conjuncts that are logically on a par. Of course early Stoic logic included well-formed conjunctions of the form [[p and q] and r], or in Stoic parlance, ‘both both the first and the second and the second’ (cf. Bobzien 2011)[^bobzien-2011].
 
-[^note-4]: Such historians of logic include Frede (1974, p. 131; 1975, p. 100-101), Kneale and Kneale (1962, 162-3), Corcoran (“Remarks on Stoic Deduction”, in J. Corcoran (ed.), *Ancient Logic and Its Modern Interpretation*, Dordrecht: D. Reidel, 1974, 169-181; see p. 177), and Mueller (“The Completeness of Stoic Propositional Logic”, *Notre Dame Journal of Formal Logic*, 20 (1979): 201–215; see p. 201).
+[^note-4]: Such historians of logic include Frede (1974, p. 131; 1975, p. 100-101), Kneale and Kneale (1962, 162-3)[^kneale-1962], Corcoran (“Remarks on Stoic Deduction”, in J. Corcoran (ed.), *Ancient Logic and Its Modern Interpretation*, Dordrecht: D. Reidel, 1974, 169-181; see p. 177), and Mueller (“The Completeness of Stoic Propositional Logic”, *Notre Dame Journal of Formal Logic*, 20 (1979): 201–215; see p. 201).
 
 [^note-5]: Cf. Bobzien 2004. Similar views have been proposed by some 20ᵗʰ-century logicians, including G. H. von Wright, Peter Geach and Timothy Smiley (cf. Anderson and Belnap 1975, 152–3)[^anderson-1975].
 

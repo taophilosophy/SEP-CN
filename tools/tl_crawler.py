@@ -76,9 +76,13 @@ def _classify(srs):
 
 
 class Crawler:
-    def __init__(self, headless=True, interval=8.0, batch_gap=20.0):
+    def __init__(self, headless=True, interval=8.0, batch_gap=20.0, adapt=True):
         from playwright.sync_api import sync_playwright
-        self.interval = interval
+        self.interval = interval          # 运行时实际间隔（自适应会在 base 与 max 之间浮动）
+        self.base_interval = interval     # 下限：恢复调速不会低于它
+        self.max_interval = 30.0          # 上限：降级时最多退到 30s
+        self.adapt = adapt
+        self.ok_streak = 0
         self.batch_gap = batch_gap
         self._pw = sync_playwright().start()
         kwargs = dict(headless=headless, viewport={'width': 1280, 'height': 900},
@@ -100,6 +104,26 @@ class Crawler:
             print('  [冷却] 等待 %.0fs（全局）' % left, flush=True)
             time.sleep(left)
             self.cool_until = 0.0
+
+    def _on_ok(self):
+        """连续无降级计数；每 16 次成功回收 1s（下限 base_interval）。
+
+        2026-11-14 提速：原节奏「8 词突发 + 20s 批间隔」实测 ≈19.8 请求/5 分钟，
+        持续超出站点约 18/5min 的滚动窗口——几乎每批都降级，60s 冷却 + 补跑把预算
+        烧两遍，实测仅 2.1 词/分。匀速 pacing 后间隔稳定在预算内，降级消失。
+        """
+        self.ok_streak += 1
+        if self.adapt and self.ok_streak % 16 == 0 and self.interval > self.base_interval:
+            self.interval = max(self.base_interval, self.interval - 1.0)
+            print('  [调速] 连续 %d 次无降级，间隔降至 %.1fs' % (self.ok_streak, self.interval),
+                  flush=True)
+
+    def _on_degrade(self):
+        """降级即抬升间隔（×1.2，上限 30s），抑制再次撞窗。"""
+        self.ok_streak = 0
+        if self.adapt and self.interval < self.max_interval:
+            self.interval = min(self.max_interval, round(self.interval * 1.2, 1))
+            print('  [调速] 降级，间隔升至 %.1fs' % self.interval, flush=True)
 
     def close(self):
         try:
@@ -171,11 +195,13 @@ class Crawler:
                 r = self.query(it['display'], token)
                 if r['status'] != 'error':
                     self.degraded_streak = 0
+                    self._on_ok()
                     break
                 self.degraded_streak += 1
                 if self.degraded_streak >= 2:
                     wait = 60
                     print('  [降级] 第 %d 次，重新激活并冷却 %ds' % (attempt, wait), flush=True)
+                    self._on_degrade()
                     self.cool_until = time.time() + wait
                     self._cool()
                     self.warm('logic', extra_wait=8000)

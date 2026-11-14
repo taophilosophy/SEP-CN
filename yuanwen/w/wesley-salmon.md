@@ -267,7 +267,7 @@ This move was made necessary to obviate a problem connected with a counterexampl
 
 Notably, Salmon did not associate counterfactuals with the semantic view in terms of possible words, adopting instead an *experimental interpretation* according to which counterfactual statements make reference to observed statistical relations which can be tested by controlled experiments (Salmon 1984: 149–150).
 
-Salmon’s view of processes has been criticized in various ways. In particular, Philip Kitcher (1989) found the experimental view of counterfactuals no more satisfactory than the attempts made by various authors to justify counterfactuals on semantic grounds. Phil Dowe also expressed dissatisfaction with Salmon’s account of causal processes, and suggested mark transmission to be abandoned in favor of an alternative definition in terms of *conserved quantities*, later adopted by Salmon.
+Salmon’s view of processes has been criticized in various ways. In particular, Philip Kitcher (1989)[^kitcher-1989] found the experimental view of counterfactuals no more satisfactory than the attempts made by various authors to justify counterfactuals on semantic grounds. Phil Dowe also expressed dissatisfaction with Salmon’s account of causal processes, and suggested mark transmission to be abandoned in favor of an alternative definition in terms of *conserved quantities*, later adopted by Salmon.
 
 #### 5.5.3 The Conserved Quantities Approach
 
@@ -298,7 +298,7 @@ Unlike conjunctive forks, causal processes and interactions cannot be defined in
 
 To the two kinds of causality described by Salmon there correspond two different levels of explanation: (1) the S-R model, which concerns connections between kinds of events, and (2) causal mechanical explanation, which bears upon single events. It should not pass unnoticed that while explanation of the first level, based on statistical correlations, provides a good basis for prediction, explanation in terms of aleatory causality traces back the history of events after their occurrence. In the Eighties, Salmon thought that only aleatory causality could offer an adequate understanding of causality and regarded the causal mechanical level as genuine explanation, assigning an ancillary role to the S-R level.
 
-In a penetrating discussion Christopher Hitchcock observed that Salmon’s causal mechanical explanation was too weak, because it envisaged a geometrical network of processes and interactions but did not convey any hint as to what properties should be taken as explanatory. In agreement with Woodward (1984), Hitchcock held that explanation should answer “what-if-things-had-been-different” questions, and claimed that
+In a penetrating discussion Christopher Hitchcock observed that Salmon’s causal mechanical explanation was too weak, because it envisaged a geometrical network of processes and interactions but did not convey any hint as to what properties should be taken as explanatory. In agreement with Woodward (1984)[^woodward-1984], Hitchcock held that explanation should answer “what-if-things-had-been-different” questions, and claimed that
 
 > a successful account of explanation had better make the relation of explanatory relevance look roughly like that of counterfactual dependence. (Hitchcock 1995: 311)[^hitchcock-1995]
 

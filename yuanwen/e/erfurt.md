@@ -109,7 +109,7 @@ Buridan, John [Jean] | categories: medieval theories of | Duns Scotus, John | He
 
 [^note-9]: Of course, not all of the possible *modi significandi* of a word will be realized in all languages. In Latin, ‘*canis*’ is masculine, but English omits the modus of gender as a means of distinguishing nouns.
 
-[^note-10]: Pinborg 1982: 260. Karin Margareta Fredborg (1980) has shown that virtually all twelfth-century authors accepted the idea of a universal grammar.
+[^note-10]: Pinborg 1982: 260. Karin Margareta Fredborg (1980)[^fredborg-1980] has shown that virtually all twelfth-century authors accepted the idea of a universal grammar.
 
 [^note-11]: See, e.g., Kelly 1971. For a linguistic account of Modism, see Bursill-Hall 1971 and Robins 1997: 79–109. A more detailed study can be found in Michael A. Covington: 1984, *Syntactic Theory in the High Middle Ages: Modistic Models of Sentence Structure*, Cambridge University Press, London-New York.
 

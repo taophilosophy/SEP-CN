@@ -83,7 +83,7 @@ In sections 23 and 24 towards the end of *Prior Analytics* ii, Aristotle discuss
 
 One particular strand in this complex is a distinction that al-Fārābī makes between two forms of analogy, which he describes as *taḥlīl* and *tarkīb* respectively. Some authors have read these words as “analysis” and “synthesis” respectively, and tried to read these as descriptions of two different kinds of formal proof. But this is certainly wrong, since the distinction that al-Fārābī himself draws between the two kinds of argument is not about the form of the resulting proof, but about the criteria for success in the search for a middle term. Al-Fārābī himself is a little conflicted at this point; in loyalty to Aristotle he wants to emphasise the reduction to syllogism, but the point he makes about search, which is central for his application to *fiqh* in the second essay, is not about the form of the final syllogistic proof at all. (See Chatti and Hodges 2020 for further details on the Tailpiece, and Hodges 2020 for the increasing interest in search algorithms in this period.)[^hodges-2020][^note-11]
 
-Further remarks comparing al-Fārābī’s dialectics with Islamic *fiqh* can be found in Gyekye (1989) and Young (2017: 539–543).
+Further remarks comparing al-Fārābī’s dialectics with Islamic *fiqh* can be found in Gyekye (1989)[^gyekye-1989] and Young (2017: 539–543)[^young-2017].
 
 ## 4. Requests and Questions
 
@@ -151,11 +151,11 @@ We return briefly to the question why al-Fārābī includes the subject of categ
 
 ## 6. Tools for Inference
 
-In this section we run quickly through al-Fārābī’s formal systems of logic. We assume some knowledge of Aristotle’s syllogistics, as in Smith (2022). Al-Fārābī discusses four logical systems: 6.1 Categorical syllogisms, 6.2 hypothetical syllogisms, 6.3 modal syllogisms, 6.4 demonstrative syllogisms.
+In this section we run quickly through al-Fārābī’s formal systems of logic. We assume some knowledge of Aristotle’s syllogistics, as in Smith (2022)[^smith-2022]. Al-Fārābī discusses four logical systems: 6.1 Categorical syllogisms, 6.2 hypothetical syllogisms, 6.3 modal syllogisms, 6.4 demonstrative syllogisms.
 
 ### 6.1 Categorical Logic
 
-In [*Syllogism*] and [*Short Syllogism*] Al-Fārābī recognizes three figures of categorical syllogisms, following Aristotle.[^note-15] In these three figures he recognizes respectively four, four, and six valid moods, as listed by Smith (2022) but not always in the same order. (For example in [*Syllogism*] he puts *Darii* before *Celarent*). Following Aristotle again, he regards the first figure syllogisms as “perfect”, i.e., self-evident and not in need of justification. For the moods in second and third figures he gives justifications by reduction to first figure, following Aristotle in the main. (His chief departure from Aristotle in these justifications is that he never uses proof by *reductio ad absurdum*, though he does recognize such proofs as valid.) Aristotle’s justification of *Darapti*[^note-16] relies on the conversion implication: from “Every *B* is an *A*” infer “Some *A* is a *B*” (cf. [*Syllogism*] 30.3). This implication fails to hold if we allow “Every *B* is an *A*” to be true when there are no *B*s. Accordingly al-Fārābī declares that “Every *B* is an *A*” is false unless there is at least one *B* ([*Categories*] 124.14). Though he sometimes seems to forget he said this, he is the earliest logician on record as having spelled out this implication of “Every *B* is an *A*”.
+In [*Syllogism*] and [*Short Syllogism*] Al-Fārābī recognizes three figures of categorical syllogisms, following Aristotle.[^note-15] In these three figures he recognizes respectively four, four, and six valid moods, as listed by Smith (2022)[^smith-2022] but not always in the same order. (For example in [*Syllogism*] he puts *Darii* before *Celarent*). Following Aristotle again, he regards the first figure syllogisms as “perfect”, i.e., self-evident and not in need of justification. For the moods in second and third figures he gives justifications by reduction to first figure, following Aristotle in the main. (His chief departure from Aristotle in these justifications is that he never uses proof by *reductio ad absurdum*, though he does recognize such proofs as valid.) Aristotle’s justification of *Darapti*[^note-16] relies on the conversion implication: from “Every *B* is an *A*” infer “Some *A* is a *B*” (cf. [*Syllogism*] 30.3). This implication fails to hold if we allow “Every *B* is an *A*” to be true when there are no *B*s. Accordingly al-Fārābī declares that “Every *B* is an *A*” is false unless there is at least one *B* ([*Categories*] 124.14). Though he sometimes seems to forget he said this, he is the earliest logician on record as having spelled out this implication of “Every *B* is an *A*”.
 
 Probably his main difference from Aristotle in categorical syllogisms is his treatment of the pairs of formal premises (i.e., with letters for terms) where Aristotle says “no syllogism occurs” in the sense that no syllogistic conclusion follows validly. Al-Fārābī calls these premise-pairs “nonproductive” (*ghayr muntij*). Aristotle had used the fact that valid inference rules preserve truth as a means to proving nonproductivity of a formal premise-pair; for any proposed conclusion, he found nouns that could be put for the letters, in such a way that the premises came out true and the conclusion false. During the Roman Empire period a tendency developed for logicians to skip these proofs and fall back instead on “laws of syllogism” that were supposed to give necessary and sufficient conditions for a premise-pair to be productive (cf. Lee 1984: 119f)[^lee-1984]. This was generally a lapse from the rigor of Aristotle’s work, because the arguments given to justify the laws of syllogism were of a poor standard. Though al-Fārābī does once briefly mention Aristotle’s counterexample method ([*Syllogism*] 20.2–5), in practice he relies entirely on the laws of syllogism. By contrast the earlier logic texts of Paul the Persian and Ibn al-Muqaffa‘, both heirs of the Alexandrian view, copied Aristotle’s nonproductivity proofs in categorical logic with total formal rigor.
 
@@ -215,7 +215,7 @@ This is disappointing, but at least it’s clear where the extra pieces come fro
 
 Suppose we have constitutive properties of *A* and *B* which between them ensure that every *A* is a *B*, and likewise constitutive properties which ensure that every *B* is a *C*. Then by *Barbara* we know that every *A* is a *C*; but for demonstrative certainty we want “Every *A* is a *C*” to be ensured by the constitutive properties of *A* and *C*. Some of al-Fārābī’s syllogisms confirm that this is so, considering different kinds of constitutive property.[^note-20] In some other cases the constitutive properties fail to yield the required sentences, and al-Fārābī comments that the syllogism gives fact but not cause.
 
-Galston (1981) offers reasons for thinking that al-Fārābī may have considered demonstrative proofs a distant ideal, to be reached only after a substantial amount of work at the dialectical level.[^note-21]
+Galston (1981)[^galston-1981] offers reasons for thinking that al-Fārābī may have considered demonstrative proofs a distant ideal, to be reached only after a substantial amount of work at the dialectical level.[^note-21]
 
 ## 7. Logical Consequence
 
@@ -239,7 +239,7 @@ For all primary concepts *A*, *B*, and *C*, if a first sentence is taken as univ
 
 Here (**) is a universal rule in the sense that it is for all *A*, *B*, and *C*; the premises and conclusion contain no matter and are bare compositions.
 
-Mallet (1994: 329–335) calls attention to a passage in [*Analysis*] 95.5–8, where al-Fārābī says he will explain “how we define syllogism” and how it is used.
+Mallet (1994: 329–335)[^mallet-1994] calls attention to a passage in [*Analysis*] 95.5–8, where al-Fārābī says he will explain “how we define syllogism” and how it is used.
 
 > Firstly, it is through knowledge of the topics, which are the universal premises whose particulars (*juz’iyyāt*) are used as major premises in a syllogism and in each separate art.
 
@@ -249,11 +249,11 @@ However, there are reasons for caution. As Mallet’s paper shows, al-Fārābī 
 
 Al-Fārābī often refers to “universal rules”. But they need not be laws that can be shown to hold without exceptions. Take for example his essay [*Canons*], which closes (272.16) with a statement that the work has presented “universal rules” of poetry. The work consists mostly of classifications of different types of poetry, together with definitions of terms used in analyzing poetry, and a broad comparison with decorative arts. These “rules” are at best things that a person who aspires to work on the theory of poetry ought to know.
 
-In any case the only kind of justification that al-Fārābī offers for logical rules is that they have been found useful for certain purposes in the community that uses them (cf. Section 3 above). All in all, al-Fārābī treats the formal rules of logic as heuristics rather than as laws of a scientific theory. A case can be made for viewing al-Fārābī as one of the creators of what is now known as “informal logic”, as in the texts of Hitchcock (2017) and Walton (1989). The pivotal role that he gives to dialogue places him in the same world as Walton’s book.
+In any case the only kind of justification that al-Fārābī offers for logical rules is that they have been found useful for certain purposes in the community that uses them (cf. Section 3 above). All in all, al-Fārābī treats the formal rules of logic as heuristics rather than as laws of a scientific theory. A case can be made for viewing al-Fārābī as one of the creators of what is now known as “informal logic”, as in the texts of Hitchcock (2017)[^hitchcock-2017] and Walton (1989)[^walton-1989]. The pivotal role that he gives to dialogue places him in the same world as Walton’s book.
 
 ## 8. Truth and Falsehood
 
-Al-Fārābī defines a concept to be “true” (*ṣādiq*) if it is the same (*bi-‘aynihi*) in the external world as it is in the soul ([*Letters*] (88) 116.3f) For this definition to make sense, the concept need not be propositional. For example ([*Letters*] 118.5f), the concept “vacuum” is not true, because it exists only in the mind and not in the external world (Abed (1991: 111–115) discusses the relationship between existence and truth in al-Fārābī).
+Al-Fārābī defines a concept to be “true” (*ṣādiq*) if it is the same (*bi-‘aynihi*) in the external world as it is in the soul ([*Letters*] (88) 116.3f) For this definition to make sense, the concept need not be propositional. For example ([*Letters*] 118.5f), the concept “vacuum” is not true, because it exists only in the mind and not in the external world (Abed (1991: 111–115)[^abed-1991] discusses the relationship between existence and truth in al-Fārābī).
 
 Al-Fārābī quite often uses the derived causative noun *taṣdīq*, which has a range of meanings between “verification” (i.e., gaining certainty that a thing is true) and “assent” (i.e., treating a thing as true). Al-Fārābī expounds this distinction at [*Demonstration*] 20.4–21.12. He also points to the range of meanings of *taṣdīq* at [*Attainment*] 90.6f: it can occur “either through certain demonstration or through persuasion”. Presumably the certain demonstration brings about verification and the persuasion brings about assent.
 
@@ -322,13 +322,13 @@ Reading this in context, we realize that the poet is telling us that the weapons
 
 This is not deductive reasoning. It’s a verbalizing of thoughts that the poem brings to our minds. Spelling it out, we are drawn to appreciate the fact that the battle resolved the situation. The text is an invalid syllogism in just the same way as al-Fārābī’s two examples above, but the fact that it is in second figure is really neither here nor there.
 
-Note that in this case the poem provides the conclusion, not the premises. So it fits Black’s (1990: 226) description that “What appears in the finished product is not a poetic syllogism … but only its conclusion”. Are the hearers supposed to reconstruct the poet’s premises by telepathy? Black leaves the problem open, but in fact it’s a problem we have met before. In [*Syllogism*] 19.10f al-Fārābī tells us that
+Note that in this case the poem provides the conclusion, not the premises. So it fits Black’s (1990: 226)[^black-1990] description that “What appears in the finished product is not a poetic syllogism … but only its conclusion”. Are the hearers supposed to reconstruct the poet’s premises by telepathy? Black leaves the problem open, but in fact it’s a problem we have met before. In [*Syllogism*] 19.10f al-Fārābī tells us that
 
 > A syllogism is just composed to reach a *quaesitum* which was previously defined; the *quaesitum* was assumed first and one seeks to verify it by a syllogism.
 
 This applies in various contexts, for example, when the questioner in a debate has the task of finding a syllogism to refute the responder’s claim; “the enquiry is always about a *quaesitum* whose syllogism has not yet been found” ([*Debate*] 45.6). In the poetical case the hearers have the task of finding a middle term that generates a poetic syllogism; in our example the middle term is “giving certainty”. And again, the premises yield the conclusion by imaginative suggestion, not by deduction.
 
-There remain some problems with al-Fārābī’s account of poetic syllogisms. First, he never says that only the conclusion appears in the poem. Black (1990: 235–8) suggests that the practical syllogism might be a key to understanding other cases.
+There remain some problems with al-Fārābī’s account of poetic syllogisms. First, he never says that only the conclusion appears in the poem. Black (1990: 235–8)[^black-1990] suggests that the practical syllogism might be a key to understanding other cases.
 
 Second, why does al-Fārābī say in [*Canons*] 268.15 that “poetic discourse is in all cases absolutely false”? This is a gross exaggeration, and it raises the question whether a poet can really expect the audience to assent to a pack of lies. It seems we can handle this problem. Al-Fārābī’s statement in [*Canons*] is a typical Neoplatonist soundbite, witness the Alexandrian Elias (*In Categorias Prooemium* 117.2–5):
 
@@ -442,7 +442,7 @@ The different arguments of Lameer 1994, Rashed 2009 and Hodges 2019 make it unsa
 
 [^note-21]: Chase 2007 quotes Albertus Magnus attributing some views to al-Fārābī, and notes that these views go in the direction of giving a Neoplatonic and emanationist color to al-Fārābī’s treatment of essence. Albertus’s remarks could suggest that al-Fārābī wrote more about essentialist logic than we have, possibly in a *Commentary on the Posterior Analytics*. This is an interesting prospect, but for the moment it is only speculation. Albertus’s references to al-Fārābī could simply be tendentious reports of remarks in the surviving work [*Demonstration*].
 
-[^note-22]: Their use by al-Fārābī’s colleague Mattā bin Yūnus irritated the Arabic linguists; cf. Street and Germann 2021 on the public debate between Mattā and the linguist al-Sīrāfī. Versteegh (1997: 76–87), himself a linguist, discusses the same episode and relates it to the views of al-Fārābī.
+[^note-22]: Their use by al-Fārābī’s colleague Mattā bin Yūnus irritated the Arabic linguists; cf. Street and Germann 2021 on the public debate between Mattā and the linguist al-Sīrāfī. Versteegh (1997: 76–87)[^versteegh-1997], himself a linguist, discusses the same episode and relates it to the views of al-Fārābī.
 
 [^note-23]: Other examples could be added, for example al-Fārābī’s remark in [*Commentary on Prior Analytics*] 272.6f to the effect that from the falsehood of “No *A* is a *B*” we can’t infer the truth of “Every *A* is a *B*” *except in necessary matter*. For the complex implications of this remark, which reveal a tension between logical cogency and loyalty to Aristotle, see Hasnawi 2012.
 
@@ -466,7 +466,7 @@ He continues:
 
 > not only “the most important treatise on the theory of Oriental music”, but the greatest work on music which had been written up to his time. (Farmer 1957: 460)[^farmer-1957]
 
-His skill as a performer was the stuff of legends; Netton (1992: 6) reports a story of him sending an entire audience to sleep, including the janitor, by playing on a reed pipe. Druart 2022 discusses al-Fārābī’s detailed treatment of music as a structured science with first principles; this is illuminating for al-Fārābī’s philosophy of science in general.
+His skill as a performer was the stuff of legends; Netton (1992: 6)[^netton-1992] reports a story of him sending an entire audience to sleep, including the janitor, by playing on a reed pipe. Druart 2022 discusses al-Fārābī’s detailed treatment of music as a structured science with first principles; this is illuminating for al-Fārābī’s philosophy of science in general.
 
 [^note-28]: Avicenna (Ibn Sīnā *Al-qiyās* 57.11f) gives a slight variant of this syllogism as an example of a poetic syllogism. See Black 1989: 258.
 

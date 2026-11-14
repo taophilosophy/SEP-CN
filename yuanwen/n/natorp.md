@@ -189,7 +189,7 @@ Cassirer, Ernst | Cohen, Hermann | Lotze, Hermann | Rickert, Heinrich | Windelba
 
 [^note-11]: Stolzenberg 1995: 8; cf. esp. 9–12. This unusually self-effacing attitude is in harmony with the personal assessments made by his colleagues and students: cf. Heidegger 1992; Cassirer 1925; Gadamer 1977; indeed, Natorp begins his “self-portrait” of 1921 with the words, “*de nobis ipsis silemus*” (taken from the Baconian epigraph to the first *Critique*) (Natorp 1921f). It is vaguely humorous, in this light, that Cohen, in an encomium delivered on the occasion of Natorp’s sixtieth birthday, *also* finds much to be silent about (Cohen 1914: 467–468)[^cohen-1914].
 
-[^note-12]: Cf. Natorp 1918a: 5; 1921f: 151. While for the Marburg School the natural sciences were the paradigmatic sciences, recent research shows that in fact classical philology had the highest prestige in the eyes of the public: see Glenn Most’s (1994).
+[^note-12]: Cf. Natorp 1918a: 5; 1921f: 151. While for the Marburg School the natural sciences were the paradigmatic sciences, recent research shows that in fact classical philology had the highest prestige in the eyes of the public: see Glenn Most’s (1994)[^most-1994].
 
 [^note-13]: Even Cohen eventually gave up the original task of rationalizing aesthetics along with science and ethics.
 

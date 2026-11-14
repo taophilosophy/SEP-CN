@@ -13,7 +13,7 @@ In the early eighteenth century, Gottfried Leibniz attempted to fill what he too
 
 In more recent times, Kurt Gödel, Charles Hartshorne, Norman Malcolm, and Alvin Plantinga have all presented much-discussed ontological arguments which bear interesting connections to the earlier arguments of Anselm, Descartes, and Leibniz. Of these, the most interesting are those of Gödel and Plantinga; in these cases, however, it is unclear whether we should really say that these authors claim that the arguments are *proofs* of the existence of God.
 
-Critiques of ontological arguments begin with Gaunilo, a contemporary of Anselm. Perhaps the best known criticisms of ontological arguments are due to Immanuel Kant, in his *Critique of Pure Reason*. Most famously, Kant claims that ontological arguments are vitiated by their reliance upon the implicit assumption that “existence” is a real predicate. However, as Bertrand Russell (1946: 586) observed, it is much easier to be persuaded that ontological arguments are no good than it is to say exactly what is wrong with them. This helps to explain why ontological arguments have fascinated philosophers for almost a thousand years.
+Critiques of ontological arguments begin with Gaunilo, a contemporary of Anselm. Perhaps the best known criticisms of ontological arguments are due to Immanuel Kant, in his *Critique of Pure Reason*. Most famously, Kant claims that ontological arguments are vitiated by their reliance upon the implicit assumption that “existence” is a real predicate. However, as Bertrand Russell (1946: 586)[^russell-1946] observed, it is much easier to be persuaded that ontological arguments are no good than it is to say exactly what is wrong with them. This helps to explain why ontological arguments have fascinated philosophers for almost a thousand years.
 
 ## 1. Timeline
 
@@ -222,7 +222,7 @@ There is a general lesson that we can extract at this point. If we represent our
 
 then we can raise the following question: what could possibly go in for *[Operator]* that would both (a) yield a claim that is acceptable to informed agnostics and atheists, and (b) deliver a valid argument? It is tempting to suggest that, at least setting Meinongian considerations to one side, it is obvious that there isn’t anything that can fit this bill.
 
-There is a very large and complicated literature on Cartesian ontological arguments. Apart from the discussion in the SEP entry on Descartes’ ontological argument, readers might like to consider: Nolan (2018).
+There is a very large and complicated literature on Cartesian ontological arguments. Apart from the discussion in the SEP entry on Descartes’ ontological argument, readers might like to consider: Nolan (2018)[^nolan-2018].
 
 ## 6. *Proslogion II*
 
@@ -248,7 +248,7 @@ If we stick with a formulation that stays close to the original text, then there
 
 The important point here is that, until we are given answers to the questions raised in the previous paragraph, we have no way of determining whether anyone can safely accept Anselm’s theoretical framework. It is not true that the only important question is whether Anselm’s conclusion follows from his premises. Another equally important question is what else follows from the (perhaps tacit) theory that informs Anselm’s construction of the argument. If that theory has absurd consequences, then the validity of the argument is inconsequential.
 
-The literature on *Proslogion II–IV* is so vast that it could easily have an entry devoted solely to it. Important recent contributions to the literature include: Campbell (2018); Holopainen (2020); Leftow (2022); Speaks (2018); and Tapp & Siegwart (2022). Finally, see Smith (2014) for an Anselmian causal-cum-ontological argument.
+The literature on *Proslogion II–IV* is so vast that it could easily have an entry devoted solely to it. Important recent contributions to the literature include: Campbell (2018)[^campbell-2018]; Holopainen (2020)[^holopainen-2020]; Leftow (2022)[^leftow-2022]; Speaks (2018)[^speaks-2018]; and Tapp & Siegwart (2022). Finally, see Smith (2014)[^smith-2014] for an Anselmian causal-cum-ontological argument.
 
 ## 7. Meinong
 
@@ -286,7 +286,7 @@ Moreover, it should be noted that we cannot avoid this conclusion by preferring 
 
 The point that we have just made extends to other ontological arguments. In particular, it extends to Meinongian interpretations of Anselm’s argument. While, as we noted above, it is not entirely clear how to understand talk about ‘the understanding’, etc., it is tempting to interpret it in a Meinongian light. However, if we do that, then the formulation of the argument requires assumptions—rejected by atheists and agnostics—that do not simply fall out of the general Meinongian theoretical framework.
 
-For further discussion of Meinongian ontological arguments, see, for example: Dummett (1983 [1993]); Oppenheimer & Zalta (1991); Oppy (1996); Priest (2018); and Salmon (1987). And, for Meinongianism itself, see the entry on non-existent objects and the literature cited therein.
+For further discussion of Meinongian ontological arguments, see, for example: Dummett (1983 [1993]); Oppenheimer & Zalta (1991); Oppy (1996)[^oppy-1996]; Priest (2018)[^priest-2018]; and Salmon (1987)[^salmon-1987]. And, for Meinongianism itself, see the entry on non-existent objects and the literature cited therein.
 
 ## 8. Modal
 
@@ -335,7 +335,7 @@ But (iii*) is incompatible with (iii), and (ii) is the same in both arguments. T
 
 The natural solution to the symmetry problem, of course, is to offer a symmetry breaker favouring (i) over (i*). Categorisation problems loom on the horizon here—for example, many such symmetry breakers appeal to premises that aren’t *a priori*, and so they threaten MOA’s status as a properly *ontological* argument. Furthermore, even if they only appeal to *a priori* premises, symmetry breakers may represent distinct ontological arguments *in their own right*—distinct, that is, from the MOA. Notwithstanding these concerns, the MOA debate has centred around symmetry breaking, and hence symmetry breakers merit consideration here.
 
-For further discussion of the most influential MOA—Plantinga’s MOA—see (e.g.) Adams (1988), Chandler (1993), Oppy (1995: 70–78, 248–259), Tooley (1981), van Inwagen (1977), and Rasmussen (2018). For a recent re-casting of the modal ontological argument using only a standard extension of system K, see Hausmann (2022).
+For further discussion of the most influential MOA—Plantinga’s MOA—see (e.g.) Adams (1988)[^adams-1988], Chandler (1993)[^chandler-1993], Oppy (1995: 70–78, 248–259), Tooley (1981)[^tooley-1981], van Inwagen (1977)[^inwagen-1977], and Rasmussen (2018)[^rasmussen-2018]. For a recent re-casting of the modal ontological argument using only a standard extension of system K, see Hausmann (2022)[^hausmann-2022].
 
 ## 9. Gödel
 
@@ -352,7 +352,7 @@ Perhaps the most important point to note, for discussion of this argument, is th
 
 In the context of necessary being theism, it is controversial between theists and atheists which properties are necessarily uninstantiated. Atheists who suppose—as many do—that omnipotence, omniscience, perfect goodness, and so forth, are necessarily uninstantiated *deny* that omnipotence, omniscience, perfect goodness, and so forth, are positive (on the assumption that positive properties obey both 1 and 2). Moreover, some—though not all—atheists deny that necessary existence is positive (on the assumption that positive properties obey both 1 and 2). Unless we have an independent, non-question-begging way to discern which properties are positive, this looks like game over for Gödelian ontological arguments.
 
-A significant part of the recent literature has tried to motivate particular ways of understanding the notion of a positive property. We might take the relevant axioms to provide a partial definition of positivity; but those axioms provide no guidance when it comes to substantive content. Pruss (2018a) discusses five candidate substantive proposals:
+A significant part of the recent literature has tried to motivate particular ways of understanding the notion of a positive property. We might take the relevant axioms to provide a partial definition of positivity; but those axioms provide no guidance when it comes to substantive content. Pruss (2018a)[^pruss-2018a] discusses five candidate substantive proposals:
 
 - *Comparison*. A property $A$ is positive iff for any $x$, it is better for $x$ to have $A$ then for $x$ to lack $A$.
 - *Excellence*. A property $A$ is positive iff for any $x$, having $A$ in no way detracts from the excellence of $x$, but having $\neg A$ does in some way detract from the excellence of $x$.
@@ -377,7 +377,7 @@ Perhaps there is one final point worth making. There is nothing that we have sai
 
 Nor does anything in what we have said suggest that one who rationally supposes these things cannot find the various claims intuitive. What matters here is only that, given the conditions that we have set for determining whether or not arguments are successful, what certain **theists** find intuitive has no bearing on the *success* of Gödel’s ontological argument.
 
-The literature on Gödel and Gödel’s ontological argument is vast. Notable contributions include: Adams (1995); Anderson (1990); Hazen (1998); Kovač (2003); Pruss (2009, 2018a); Pruss & Rasmussen (2018: ch. 8); Sobel (1987, 2004); and Świętorzecka [ed.] (2015).
+The literature on Gödel and Gödel’s ontological argument is vast. Notable contributions include: Adams (1995)[^adams-1995]; Anderson (1990)[^anderson-1990]; Hazen (1998)[^hazen-1998]; Kovač (2003)[^kovač-2003]; Pruss (2009, 2018a)[^pruss-2009][^pruss-2018a]; Pruss & Rasmussen (2018: ch. 8); Sobel (1987, 2004)[^sobel-1987][^sobel-2004]; and Świętorzecka [ed.] (2015).
 
 ## 10. Hegel
 
@@ -389,7 +389,7 @@ Redding and Bubbio attempt to
 
 However, they do not give an explicit formulation of the premises and conclusion of ‘the ontological argument’ that Hegel is alleged to endorse. Instead, they outline some important parts of Hegel’s philosophy, and claim that something that might be taken to be the conclusion of ‘the ontological argument’ fits comfortably with that outline.
 
-The interpretation of Hegel’s philosophy is, of course, controversial. As noted in Redding (2020), we can distinguish between at least:
+The interpretation of Hegel’s philosophy is, of course, controversial. As noted in Redding (2020)[^redding-2020], we can distinguish between at least:
 
 1. the traditional metaphysical view of Hegel’s philosophy (Taylor 1975; Rosen 1984)[^rosen-1984][^taylor-1975];
 2. the ‘non-metaphysical’ Kantian view of Hegel’s philosophy (Pippin 1989; Pinkard 1994; Brandom 2002; McDowell 2006)[^brandom-2002][^mcdowell-2006][^pippin-1989]; and

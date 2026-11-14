@@ -19,7 +19,7 @@ We start with an informal description of the fundamental ideas underlying the sy
 
 All entities have types, and if α and β are types, the type of functions from elements of type β to elements of type α is written as $(\alpha \beta)$. (This notation was introduced by Church, but some authors write $(\beta \rightarrow \alpha)$ instead of $(\alpha \beta)$. See, for example, Section 2 of the entry on type theory.)
 
-As noted by Schönfinkel (1924), functions of more than one argument can be represented in terms of functions of one argument when the values of these functions can themselves be functions. For example, if $F$ is a function of two arguments, for each element $x$ of the left domain of $F$ there is a function $g$ (depending on $x$) such that $gy=Fxy$ for each element $y$ of the right domain of $F$. While we may thus regard $F$ as a function of a single argument $x$ that returns a function $g(y)$, we should (more accurately) view $g$ as the value of a new function $f$ (related to $F$) such that $g=fx$. The new $f$ is a function of a single argument, whose value for any argument $x$ in its domain is a function $fx$, whose value (in turn) for any argument $y$ in its domain is $Fxy$.
+As noted by Schönfinkel (1924)[^schönfinkel-1924], functions of more than one argument can be represented in terms of functions of one argument when the values of these functions can themselves be functions. For example, if $F$ is a function of two arguments, for each element $x$ of the left domain of $F$ there is a function $g$ (depending on $x$) such that $gy=Fxy$ for each element $y$ of the right domain of $F$. While we may thus regard $F$ as a function of a single argument $x$ that returns a function $g(y)$, we should (more accurately) view $g$ as the value of a new function $f$ (related to $F$) such that $g=fx$. The new $f$ is a function of a single argument, whose value for any argument $x$ in its domain is a function $fx$, whose value (in turn) for any argument $y$ in its domain is $Fxy$.
 
 For a more explicit example, consider the function + which carries any pair of natural numbers to their sum. We may denote this function by $+_{((\sigma \sigma)\sigma)}$, where $\sigma$ is the type of natural numbers. Given any number $x$, $[+_{((\sigma \sigma)\sigma)}x]$ is the function which, when applied to any number $y$, gives the value $[[+_{((\sigma \sigma)\sigma)}x]y]$, which is ordinarily abbreviated as $x + y$. Thus $[+_{((\sigma \sigma)\sigma)}x]$ is the function of one argument which adds $x$ to any number. When we think of $+_{((\sigma \sigma)\sigma)}$ as a function of one argument, we see that it maps any number $x$ to the function $[+_{((\sigma \sigma)\sigma)}x]$.
 
@@ -281,14 +281,14 @@ Normally when one assumes the Axiom of Choice in type theory, one assumes it as 
 
 Before proceeding, we need to introduce some terminology. $\cQ_0$ is an alternative formulation of Church’s type theory which will be described in Section 1.4 and is equivalent to the system described above using Axioms (1)–(8). A type symbol is *propositional* if the only symbols which occur in it are ${o}$ and parentheses.
 
-Yasuhara (1975) defined the relation “$\ge$” between types as the reflexive transitive closure of the minimal relation such that $(\alpha \beta) \ge \alpha$ and $(\alpha \beta) \ge \beta$. He established that:
+Yasuhara (1975)[^yasuhara-1975] defined the relation “$\ge$” between types as the reflexive transitive closure of the minimal relation such that $(\alpha \beta) \ge \alpha$ and $(\alpha \beta) \ge \beta$. He established that:
 
 - If $\alpha \ge \beta$, then $\cQ_0 \vdash$ AC$^{\alpha} \supset$ AC$^{\beta}$.
 - Given a set *S* of types, none of which is propositional, there is a model of $\cQ_0$ in which AC$^{\alpha}$ fails if and only if $\alpha \ge \beta$ for some β in *S*.
 
 The existence of a choice functions for “higher” types thus entails the existence of choice functions for “lower” types, the opposite is generally not the case though.
 
-Büchi (1953) has shown that while the schemas expressing the Axiom of Choice and Zorn’s Lemma can be derived from each other, the relationships between the particular types involved are complex.
+Büchi (1953)[^büchi-1953] has shown that while the schemas expressing the Axiom of Choice and Zorn’s Lemma can be derived from each other, the relationships between the particular types involved are complex.
 
 #### 1.3.6 Axioms of Infinity
 
@@ -298,7 +298,7 @@ One can define the natural numbers (and therefore other basic mathematical struc
 
 In Section 1.2.1, $\nsim_{({o}{o})}, \lor_{(({o}{o}){o})}$, and the $\Pi_{({o}({o}\alpha))}$’s were taken as primitive constants, and the wffs $\sfQ_{{o}\alpha \alpha}$ which denote equality relations at type α were defined in terms of these. We now present an alternative formulation $\cQ_0$ of Church’s type theory in which there are primitive constants $\sfQ_{{o}\alpha \alpha}$ denoting equality, and $\nsim_{({o}{o})}, \lor_{(({o}{o}){o})}$, and the $\Pi_{({o}({o}\alpha))}$’s are defined in terms of the $\sfQ_{{o}\alpha \alpha}$’s.
 
-Tarski (1923) noted that in the context of higher-order logic, one can define propositional connectives in terms of logical equivalence and quantifiers. Quine (1956) showed how both quantifiers and connectives can be defined in terms of equality and the abstraction operator λ in the context of Church’s type theory. Henkin (1963) rediscovered these definitions, and developed a formulation of Church’s type theory based on equality in which he restricted attention to propositional types. Andrews (1963) simplified the axioms for this system.
+Tarski (1923)[^tarski-1923] noted that in the context of higher-order logic, one can define propositional connectives in terms of logical equivalence and quantifiers. Quine (1956)[^quine-1956] showed how both quantifiers and connectives can be defined in terms of equality and the abstraction operator λ in the context of Church’s type theory. Henkin (1963)[^henkin-1963] rediscovered these definitions, and developed a formulation of Church’s type theory based on equality in which he restricted attention to propositional types. Andrews (1963)[^andrews-1963] simplified the axioms for this system.
 
 $\cQ_0$ is based on these ideas, and can be shown to be equivalent to a formulation of Church’s type theory using Axioms (1)–(8) of the preceding sections. This section thus provides an alternative to the material in the preceding Sections 1.2.1–1.3.4. More details about $\cQ_0$ can be found in Andrews 2002.
 
@@ -336,7 +336,7 @@ $$\begin{align} [g_{{o}{o}}T_{{o}} \land g_{{o}{o}}F_{{o}}] &= \forall x_{{o}}[g
 
 ## 2. Semantics
 
-It is natural to compare the semantics of type theory with the semantics of first-order logic, where the theorems are precisely the wffs which are valid in all interpretations. From an intuitive point of view, the natural interpretations of type theory are *standard models*, which are defined below. However, it is a consequence of Gödel’s Incompleteness Theorem (Gödel 1931)[^gödel-1931] that axioms (1)–(9) do not suffice to derive all wffs which are valid in all standard models, and there is no consistent recursively axiomatized extension of these axioms which suffices for this purpose. Nevertheless, experience shows that these axioms are sufficient for most purposes, and Leon Henkin considered the problem of clarifying in what sense they are complete. The definitions and theorem below constitute Henkin’s (1950) solution to this problem, which is often referred to as *general semantics* or *Henkin semantics*.
+It is natural to compare the semantics of type theory with the semantics of first-order logic, where the theorems are precisely the wffs which are valid in all interpretations. From an intuitive point of view, the natural interpretations of type theory are *standard models*, which are defined below. However, it is a consequence of Gödel’s Incompleteness Theorem (Gödel 1931)[^gödel-1931] that axioms (1)–(9) do not suffice to derive all wffs which are valid in all standard models, and there is no consistent recursively axiomatized extension of these axioms which suffices for this purpose. Nevertheless, experience shows that these axioms are sufficient for most purposes, and Leon Henkin considered the problem of clarifying in what sense they are complete. The definitions and theorem below constitute Henkin’s (1950)[^henkin-1950] solution to this problem, which is often referred to as *general semantics* or *Henkin semantics*.
 
 A *frame* is a collection $\{\cD_{\alpha}\}_{\alpha}$ of nonempty domains (sets) $\cD_{\alpha}$, one for each type symbol α, such that $\cD_{{o}} = \{\sfT,\sfF\}$ (where $\sfT$ represents truth and $\sfF$ represents falsehood), and $\cD_{\alpha \beta}$ is some collection of functions mapping $\cD_{\beta}$ into $\cD_{\alpha}$. The members of $\cD_{\imath}$ are called *individuals*.
 
@@ -368,7 +368,7 @@ The semantics of general models is thus as expected. However, there is a subtlet
 
 - [equality] $\cV_{\phi} [ \bA_{\alpha} = \bB_{\alpha} ] = \sfT$ iff $\cV_{\phi} \bA_{\alpha} = \cV_{\phi} \bB_{\alpha}$
 
-When the definitions of Section 1.2.1 are employed, where equality has been defined in terms of Leibniz’ principle, then this statement is not implied for all types α. It only holds if we additionally require that the domains $\cD_{{o}\alpha}$ contain all the unit sets of objects of type α, or, alternatively, that the domains $\cD_{{o}\alpha\alpha}$ contain the respective identity relations on objects of type α (which entails the former). The need for this additional requirement, which is not included in the original work of Henkin (1950), has been demonstrated in Andrews 1972a.
+When the definitions of Section 1.2.1 are employed, where equality has been defined in terms of Leibniz’ principle, then this statement is not implied for all types α. It only holds if we additionally require that the domains $\cD_{{o}\alpha}$ contain all the unit sets of objects of type α, or, alternatively, that the domains $\cD_{{o}\alpha\alpha}$ contain the respective identity relations on objects of type α (which entails the former). The need for this additional requirement, which is not included in the original work of Henkin (1950)[^henkin-1950], has been demonstrated in Andrews 1972a.
 
 When instead the alternative definitions of Section 1.4 are employed, then this requirement is obviously met due to the presence of the logical constants $\sfQ_{{o}\alpha \alpha}$ in the signature, which by definition denote the respective identity relations on the objects of type α and therefore trivially ensure their existence in each general model $\cM$. It is therefore a natural option to always assume primitive equality constants (for each type α) in a concrete choice of base system for Church’s type theory, just as realized in Andrews’ system $\cQ_0$.
 
@@ -421,7 +421,7 @@ However, an algorithm has been devised (Huet 1975, Jensen & Pietrzykowski 1976)[
 
 ### 3.3 A Unifying Principle
 
-The *Unifying Principle* was introduced in Smullyan 1963 (see also Smullyan 1995)[^smullyan-1995] as a tool for deriving a number of basic metatheorems about first-order logic in a uniform way. The principle was extended to elementary type theory by Andrews (1971) and to extensional type theory, that is, Henkin’s general semantics without description or choice, by Benzmüller, Brown and Kohlhase (2004). We outline these extensions in some more detail below.
+The *Unifying Principle* was introduced in Smullyan 1963 (see also Smullyan 1995)[^smullyan-1995] as a tool for deriving a number of basic metatheorems about first-order logic in a uniform way. The principle was extended to elementary type theory by Andrews (1971)[^andrews-1971] and to extensional type theory, that is, Henkin’s general semantics without description or choice, by Benzmüller, Brown and Kohlhase (2004). We outline these extensions in some more detail below.
 
 #### 3.3.1 Elementary Type Theory
 
@@ -458,7 +458,7 @@ A first attempt towards a Unifying Principle for extensional type theory with pr
 - If $\Gamma(\cS \cup \{ \bA_{\alpha} = \bA_{\alpha} \})$, then $\Gamma(\cS \cup \{ \bA_{\alpha} \doteq \bA_{\alpha} \})$
 - $\Gamma(\cS \cup \{ \bA_{{o}} \})$ or $\Gamma(\cS \cup \{ \nsim \bA_{{o}} \})$ The saturation condition 10. still has to be added independent of which option is considered. The principle was applied in Benzmüller 1999a,b to prove completeness for the extensional higher-order RUE-resolution[^note-3] calculus underlying the higher-order automated theorem prover LEO and its successor LEO-II.
 - In Benzmüller et al. 2004 the principle is presented in a very general way which allows for various possibilities concerning the treatment of extensionality and equality in the range between elementary type theory and extensional type theory. The principle is applied to obtain completeness proofs for an associated range of natural deduction calculi. The saturation condition is still used in this work.
-- Based on insights from Brown’s (2004, 2007) thesis, a solution for replacing the undesirable saturation condition by two weaker conditions is presented in Benzmüller, Brown, and Kohlhase 2009; this work also further studies the relation between saturation and cut-elimination. The two weaker conditions, termed mating and decomposition, are easier to demonstrate than saturation in completeness proofs for machine-oriented calculi. They are (omitting some type information in the second one and abusing notation):
+- Based on insights from Brown’s (2004, 2007)[^brown-2004][^brown-2007] thesis, a solution for replacing the undesirable saturation condition by two weaker conditions is presented in Benzmüller, Brown, and Kohlhase 2009; this work also further studies the relation between saturation and cut-elimination. The two weaker conditions, termed mating and decomposition, are easier to demonstrate than saturation in completeness proofs for machine-oriented calculi. They are (omitting some type information in the second one and abusing notation):
 - If $\Gamma(\cS \cup \{ \nsim \bA_{{o}}, \bB_{{o}} \})$ for atoms $\bA_{{o}}$ and $\bB_{{o}}$, then $\Gamma(\cS \cup \{ \nsim [\bA_{{o}} \doteq \bB_{{o}}] \})$
 - If $\Gamma(\cS \cup \{ \nsim [h \overline{\bA^n_{\alpha^n}} \doteq h \overline{\bB^n_{\alpha^n}} ] \})$, where head symbol $h_{\beta\overline{\alpha^n}}$ is a parameter, then there is an $i\ (1 \leq i \leq n)$ such that $\Gamma(\cS \cup \{ \nsim [\bA^i_{\alpha^i} \doteq \bB^i_{\alpha^i}] \})$. The modified principle is applied in Benzmüller et al. 2009 to show completeness for a sequent calculus for extensional type theory with defined equality.
 - A further extended Unifying Principle for extensional type theory with primitive equality is presented and used in Backes & Brown 2011 to prove the completeness of a tableau calculus for type theory which incorporates the axiom of choice.
@@ -470,7 +470,7 @@ Cut-elimination proofs (see also the SEP entry on proof theory) for Church’s t
 
 ### 3.5 Expansion Proofs
 
-An *expansion proof* is a generalization of the notion of a Herbrand expansion of a theorem of first-order logic; it provides a very elegant, concise, and nonredundant representation of the relationship between the theorem and a tautology which can be obtained from it by appropriate instantiations of quantifiers and which underlies various proofs of the theorem. Miller (1987) proved that a wff $\bA$ is a theorem of elementary type theory if and only if $\bA$ has an expansion proof.
+An *expansion proof* is a generalization of the notion of a Herbrand expansion of a theorem of first-order logic; it provides a very elegant, concise, and nonredundant representation of the relationship between the theorem and a tautology which can be obtained from it by appropriate instantiations of quantifiers and which underlies various proofs of the theorem. Miller (1987)[^miller-1987] proved that a wff $\bA$ is a theorem of elementary type theory if and only if $\bA$ has an expansion proof.
 
 In Brown 2004 and 2007, this concept is generalized to that of an *extensional expansion proof* to obtain an analogous theorem involving type theory with extensionality.
 
@@ -555,7 +555,7 @@ Support for finding finite models or countermodels for formulas of Church’s ty
 
 ## 5. Applications
 
-In addition to its elegance, Church's type theory also has many practical advantages. This aspect is emphasised, for example, in the recent textbook by Farmer (2023), which deals with various relevant and important further aspects that could not be covered in this article. Because of its good practical expressiveness, the range of applications of Church's type theory is very wide, and only a few examples can be given below (a good source for further information on practical examples are the proceedings of the conferences on Interactive Theorem Proving).
+In addition to its elegance, Church's type theory also has many practical advantages. This aspect is emphasised, for example, in the recent textbook by Farmer (2023)[^farmer-2023], which deals with various relevant and important further aspects that could not be covered in this article. Because of its good practical expressiveness, the range of applications of Church's type theory is very wide, and only a few examples can be given below (a good source for further information on practical examples are the proceedings of the conferences on Interactive Theorem Proving).
 
 ### 5.1 Semantics of Natural Language
 
@@ -579,7 +579,7 @@ Church’s type theory is a classical logic, but topical applications in philoso
 
 ### 5.4. Metalogical Studies
 
-Church’s type theory is also well suited to support metalogical studies, including the encoding of other logical formalisms and formalized soundness and completeness studies (see, e.g., Schlichtkrull et al. 2020, Halkjær et al. 2023, and various further pointers given in Benzmüller 2019)[^benzmüller-2019][^benzmüller-2019-2][^halkjær-2023][^schlichtkrull-2023][^schlichtkrull-2020]. In particular, Church's type theory can be studied formally in itself, as shown, for example, by Kumar et al. (2016), Schlichtkrull (2023), and Díaz (2023).
+Church’s type theory is also well suited to support metalogical studies, including the encoding of other logical formalisms and formalized soundness and completeness studies (see, e.g., Schlichtkrull et al. 2020, Halkjær et al. 2023, and various further pointers given in Benzmüller 2019)[^benzmüller-2019][^benzmüller-2019-2][^halkjær-2023][^schlichtkrull-2023][^schlichtkrull-2020]. In particular, Church's type theory can be studied formally in itself, as shown, for example, by Kumar et al. (2016), Schlichtkrull (2023)[^schlichtkrull-2023], and Díaz (2023)[^díaz-2023].
 
 ## References（引用注释）
 

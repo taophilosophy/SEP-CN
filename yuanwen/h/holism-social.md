@@ -151,7 +151,7 @@ Jackson and Pettit’s version of the argument from differing explanatory intere
 
 The argument from pragmatic concerns states that whether holist explanations are indispensable is a matter of whether they are pragmatically preferable to individualist explanations. The argument rests on the assumption that whenever a holist explanation of an event is possible, an individualist explanation of that same event is likewise feasible. It is claimed that the choice between these two explanations should be made by appeal to pragmatic considerations. It is maintained, moreover, that it is sometimes preferable from a pragmatic perspective to offer a holist, rather than an individualist explanation. On this basis, it is concluded that holist explanations are indispensable.
 
-An argument along these lines has been offered by Jones (1996). He notes that it is sometimes less costly to establish a holist rather than an individualist explanation of some event (1996: 126). What he likely has in mind is that gathering evidence about individuals, their doings, intentions, etc. with the aim of offering an individualist explanation may take more time, and hence come with a higher monetary cost, than producing the evidence needed to advance a holist explanation. Jones additionally asserts that a holist explanation is sometimes easier to teach: because holist explanations tend to be simpler in that they do not include an abundance of detail about individuals, their doings, beliefs, etc. (1996), they may be easier for individuals to grasp. In these sorts of situations, Jones contends that holist explanations are preferable to individualist ones: in view of pragmatic concerns like those outlined above, holist explanations are indispensable.
+An argument along these lines has been offered by Jones (1996)[^jones-1996]. He notes that it is sometimes less costly to establish a holist rather than an individualist explanation of some event (1996: 126). What he likely has in mind is that gathering evidence about individuals, their doings, intentions, etc. with the aim of offering an individualist explanation may take more time, and hence come with a higher monetary cost, than producing the evidence needed to advance a holist explanation. Jones additionally asserts that a holist explanation is sometimes easier to teach: because holist explanations tend to be simpler in that they do not include an abundance of detail about individuals, their doings, beliefs, etc. (1996), they may be easier for individuals to grasp. In these sorts of situations, Jones contends that holist explanations are preferable to individualist ones: in view of pragmatic concerns like those outlined above, holist explanations are indispensable.
 
 ## 3. The Microfoundations Debate
 
@@ -229,7 +229,7 @@ individualism, methodological | mechanism in science | reduction, scientific | s
 
 ### Acknowledgments
 
-This entry draws, and expands, on Zahle (2007, 2013) and Zahle and Collin (2014b). Thanks to Harold Kincaid and Petri Ylikoski for their very helpful comments.
+This entry draws, and expands, on Zahle (2007, 2013)[^zahle-2007][^zahle-2013] and Zahle and Collin (2014b). Thanks to Harold Kincaid and Petri Ylikoski for their very helpful comments.
 
 [^archer-1995]: Archer, M.S., 1995, *Realist Social Theory: The Morphogenetic Approach*, Cambridge: Cambridge University Press.
 

@@ -147,9 +147,9 @@ Williams’ treatment of induction created quite a stir when it appeared, but at
 
 Its reliance on *a priori* reasoning (as opposed to any contingent principles such as the “uniformity of nature” or the action of laws of nature) means that it should hold in all possible worlds. Williams’ argument would thus be easily defeated by the exhibition of a possible world in which inductive reasoning did not work (in the sense of mostly yielding false conclusions). However, critics of Williams have not offered such a possible non-inductive world. Chaotic worlds are not non-inductive (as the induction from chaos to more chaos is correct in them), while a world with an anti-inductive demon, who falsifies, say, most of the inductive inferences I make, is not clearly non-inductive either (since although most of *my* inductions have false conclusions, it does not follow that most inductions in general have false conclusions).
 
-Marc Lange (2011) does however propose a counterexample, arising from the “purely formal” nature of Williams’ argument. Should it not apply equally to “grue” as to “green”? Objects are grue if they are green up to some future point in time, and blue thereafter. The problem is to show that our sample, to date, of green things is not a sample of things actually grue. (Williams’s own views on the grue problem are given in his “How Reality is Reasonable” in (2018)).
+Marc Lange (2011)[^lange-2011] does however propose a counterexample, arising from the “purely formal” nature of Williams’ argument. Should it not apply equally to “grue” as to “green”? Objects are grue if they are green up to some future point in time, and blue thereafter. The problem is to show that our sample, to date, of green things is not a sample of things actually grue. (Williams’s own views on the grue problem are given in his “How Reality is Reasonable” in (2018)).
 
-Stove (1986, 131–144) argued that his more specific version of Williams’s argument (see below) was not subject to the objection, and that the failure of induction in the case of ‘grue’ showed that inductive logic was not purely formal—but then neither was deductive logic.
+Stove (1986, 131–144)[^stove-1986] argued that his more specific version of Williams’s argument (see below) was not subject to the objection, and that the failure of induction in the case of ‘grue’ showed that inductive logic was not purely formal—but then neither was deductive logic.
 
 Other criticisms arise from the suggestion that the proportional syllogism in general is not a justified form of inference without some assumption of randomness. Any proportional syllogism (with exact numbers) is of the form
 
@@ -177,7 +177,7 @@ is subject to the objection that, in the case at hand, there is actually further
 - Albert Smith Jr is a candidate.
 - So, the probability that Albert Smith Jr will be appointed is 10%,
 
-it is arguable that information is hidden in the proper names that is favorably relevant to the younger Smith’s chance of success. The question then is whether the same could happen with the proportional syllogism in Williams’ argument for induction. Maher (1996) argues that there is such a problem. In this version of Williams’ argument:
+it is arguable that information is hidden in the proper names that is favorably relevant to the younger Smith’s chance of success. The question then is whether the same could happen with the proportional syllogism in Williams’ argument for induction. Maher (1996)[^maher-1996] argues that there is such a problem. In this version of Williams’ argument:
 
 - The proportion of large samples whose complexion approximately matches the population is over 95%.
 - *S* is a large sample.
@@ -187,7 +187,7 @@ is there, typically, any further information about the sample *S* that is releva
 
 It certainly can be relevant. For example, if the proportion of blue items in the sample is 100%, it suggests that the population proportion is close to 100%; that is positively relevant to matching since samples of near-homogeneous populations are more likely to match. (For example, if the population proportion is 100%, *all* samples match the population.) Conversely, fewer samples match the population when the population proportion is near one half.
 
-David Stove (1986), in defending Williams’ argument, proposed to avoid this problem by taking a more particular case of the argument which would not be subject to the objection. Stove proposed:
+David Stove (1986)[^stove-1986], in defending Williams’ argument, proposed to avoid this problem by taking a more particular case of the argument which would not be subject to the objection. Stove proposed:
 
 > If *F* is the class of ravens, *G* the class of black things, *S* a sample of 3020 ravens, *r* = 0.95, and ‘match’ means having proportion within 3% of the population proportion, then it is evident that ‘The proportion of *F*s that are *G*s is *x*’ is not substantially unfavorable to matching (for all *x*).
 
@@ -197,7 +197,7 @@ Stove’s reply emphasizes how strong the mathematical truth about matching of s
 
 Maher also objects that the attribute itself, such as “blue”, might be *a priori* relevant to its proportion in the sample and hence to matching. For example, if “blue” is one of a large range of possible colors, then *a priori* it is unlikely that an individual is blue and unlikely that a sample will have many blue items. As with any Bayesian reasoning, a prior probability close to zero (or one) requires a lot of evidence to overcome; in this case, we would conclude that a sample with a high proportion of blue items was most likely a coincidence, and the posterior probability of the sample matching the population would still not be high.
 
-Scott Campbell (2001), in reply to Maher, argues that priors do not dominate observations in the way Maher suggests. By analogy, suppose that, while blindfolded, I throw a dart at a dartboard. I am told that 99 of the 100 spots on the board are the same color, and that there are 145 choices of color for the spots. After throwing, I observe just the spot I have hit and find it is blue. Then (in the absence of further information), the chance is very high that almost all the other spots are blue. The prior improbability of blue does not prevent that. In the same way, the fact that the vast majority of samples match the population gives good reason to suppose that the observed sample does too, irrespective of any prior information of the kind Maher advances.
+Scott Campbell (2001)[^campbell-2001], in reply to Maher, argues that priors do not dominate observations in the way Maher suggests. By analogy, suppose that, while blindfolded, I throw a dart at a dartboard. I am told that 99 of the 100 spots on the board are the same color, and that there are 145 choices of color for the spots. After throwing, I observe just the spot I have hit and find it is blue. Then (in the absence of further information), the chance is very high that almost all the other spots are blue. The prior improbability of blue does not prevent that. In the same way, the fact that the vast majority of samples match the population gives good reason to suppose that the observed sample does too, irrespective of any prior information of the kind Maher advances.
 
 Williams’ defense of induction thus has resources to supply answers to the criticisms that have been made of it. It remains the most objectivist and ambitious justification of induction.
 

@@ -561,7 +561,7 @@ I am inordinately grateful to Eileen O’Neill for her extensive comments on an 
 
 [^note-6]: Cavendish 1668a, 209. See also Cavendish 1664, 162–3, 186–7, and Cavendish 1668b, 47.
 
-[^note-7]: Cavendish wrote eight philosophical manuscripts depending on how we count. I like to count *Philosophical and Physical Opinions* (first edition, 1655; second edition, 1633) and *Grounds of Natural Philosophy* [1668] as two texts, but Cavendish makes clear in the preface to *Grounds of Natural Philosophy* that it is actually the third edition of *Philosophical and Physical Opinions*. I tend to count *PPO* (1655) and *GNP* (1668) as two monographs, just because the revisions over the 13 year period are extensive, but it is also accurate to regard *GNP* as just the third edition of the original *Philosophical and Physical Opinions*. Here I am disagreeing with Walters (2013) and Shaheen, who take *PPO* 1663 to be the final and definitive edition of *PPO*. Jonathan Shaheen has expressed the view in email correspondence.
+[^note-7]: Cavendish wrote eight philosophical manuscripts depending on how we count. I like to count *Philosophical and Physical Opinions* (first edition, 1655; second edition, 1633) and *Grounds of Natural Philosophy* [1668] as two texts, but Cavendish makes clear in the preface to *Grounds of Natural Philosophy* that it is actually the third edition of *Philosophical and Physical Opinions*. I tend to count *PPO* (1655) and *GNP* (1668) as two monographs, just because the revisions over the 13 year period are extensive, but it is also accurate to regard *GNP* as just the third edition of the original *Philosophical and Physical Opinions*. Here I am disagreeing with Walters (2013)[^walters-2013] and Shaheen, who take *PPO* 1663 to be the final and definitive edition of *PPO*. Jonathan Shaheen has expressed the view in email correspondence.
 
 [^note-8]: Cudworth 1678, 858. See also pp. 156, 157, 648, 857, and 858; and Hutton 1997b, 96–9.
 
@@ -629,7 +629,7 @@ I am inordinately grateful to Eileen O’Neill for her extensive comments on an 
 
 [^note-40]: See also the discussions in Cunning 2016 and McNulty 2018.
 
-[^note-41]: Boyle (2017) holds that Cavendish subscribes to a libertarian view of freedom, in part because Boyle holds that Cavendish assume that there is true normativity in nature. I am arguing that Cavendish does not do that.
+[^note-41]: Boyle (2017)[^boyle-2017] holds that Cavendish subscribes to a libertarian view of freedom, in part because Boyle holds that Cavendish assume that there is true normativity in nature. I am arguing that Cavendish does not do that.
 
 [^note-42]: See Siegfried 2020 and Cunning 2021 for a discussion of the respects in which Cavendish is fairly progressive in her politics.
 

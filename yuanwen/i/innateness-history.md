@@ -131,7 +131,7 @@ concepts | Descartes, René | Descartes, René: epistemology | Descartes, René:
 
 [^note-5]: The Aristotelian account of perception, thought, and forms grows out of many sources, especially De Anima, iii, chapters 4–7.
 
-[^note-6]: Chomsky regularly uses the term ‘rationalist’ to describe his position, but his point is to stress the continuity of his linguistic nativism with the nativism of the Rationalist tradition. He does *not* share the traditional Rationalist commitment to a non-empirical form of intellectual insight into the ultimate nature of the empirical world. Chomsky (1975) chapter 2, for example, argues that a priori and modal knowledge are based on wholly contingent features of our common-sense understanding and language system. This is the dominant view among nativist cognitive scientists.
+[^note-6]: Chomsky regularly uses the term ‘rationalist’ to describe his position, but his point is to stress the continuity of his linguistic nativism with the nativism of the Rationalist tradition. He does *not* share the traditional Rationalist commitment to a non-empirical form of intellectual insight into the ultimate nature of the empirical world. Chomsky (1975)[^chomsky-1975] chapter 2, for example, argues that a priori and modal knowledge are based on wholly contingent features of our common-sense understanding and language system. This is the dominant view among nativist cognitive scientists.
 
 [^note-7]: Enquiry, sec. 2, footnote 1
 
@@ -151,11 +151,11 @@ concepts | Descartes, René | Descartes, René: epistemology | Descartes, René:
 
 [^note-14]: The Sapir-Whorf Hypothesis [ref] that the particular language we speak inevitably shapes the structure of our thoughts is an example of a view that embraces just this possibility.
 
-[^note-15]: A clear statement of the view can be found in Ayer (1936)
+[^note-15]: A clear statement of the view can be found in Ayer (1936)[^ayer-1936]
 
-[^note-16]: Quine (1951) presents this position as a purification of the classical Empiricist stance.
+[^note-16]: Quine (1951)[^quine-1951] presents this position as a purification of the classical Empiricist stance.
 
-[^note-17]: Chomsky (1965) forcefully presents the poverty of the stimulus arguments against Empiricist accounts of language acquisition, and sketches a nativistic alternative.
+[^note-17]: Chomsky (1965)[^chomsky-1965] forcefully presents the poverty of the stimulus arguments against Empiricist accounts of language acquisition, and sketches a nativistic alternative.
 
 [^aristotle-1984]: Aristotle, *De Anima*, in *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
 

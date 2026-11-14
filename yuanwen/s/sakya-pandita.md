@@ -35,7 +35,7 @@ Sapaṇ’s main adversaries in his *Treasury* were adherents of the tradition o
 
 ### 2.2 Concept Formation in the *Treasury*
 
-Sapaṇ’s strict nominalism rejects the reality of cognitive and linguistic objects, which makes him an “illusionist” about the mind. Where Daniel Dennett (1991) criticizes the “Cartesian theater” model of the mind, in which images play across a mental screen, Buddhist philosophers criticize the “duality” that constitutes the subject/object binary. The notion of a cognitive object, for this tradition, is intertwined with the false reification of the self, a cardinal Buddhist error. There could only be mental objects if there were mental subjects; viewing subjects and mental objects are attributable, together, to the tendency of ordinary beings mistakenly to project a “self”. Moreover, the utility of concepts for language and thought would require that they be unchanging against the backdrop of the Buddhist view that all things are impermanent; if, as Sapaṇ argues, they were impermanent, they would be mind-dependent, and hence private objects (see Stolz 2006)[^stolz-2006]. What needs to be explained, therefore, is not the reality of concepts, but the causes that bring about their *seeming* to appear and function.
+Sapaṇ’s strict nominalism rejects the reality of cognitive and linguistic objects, which makes him an “illusionist” about the mind. Where Daniel Dennett (1991)[^dennett-1991] criticizes the “Cartesian theater” model of the mind, in which images play across a mental screen, Buddhist philosophers criticize the “duality” that constitutes the subject/object binary. The notion of a cognitive object, for this tradition, is intertwined with the false reification of the self, a cardinal Buddhist error. There could only be mental objects if there were mental subjects; viewing subjects and mental objects are attributable, together, to the tendency of ordinary beings mistakenly to project a “self”. Moreover, the utility of concepts for language and thought would require that they be unchanging against the backdrop of the Buddhist view that all things are impermanent; if, as Sapaṇ argues, they were impermanent, they would be mind-dependent, and hence private objects (see Stolz 2006)[^stolz-2006]. What needs to be explained, therefore, is not the reality of concepts, but the causes that bring about their *seeming* to appear and function.
 
 Mahāyāna Buddhists believe that this fundamental error is rooted in beginningless karmic tendencies. Our minds have been conditioned by our previous actions, and we experience the world through their capacities and strictures. Our karmic conditioning provides the conceptual nexus through which we think and communicate with other beings who have similar karma and therefore similar conceptual tendencies. This karmic basis of conceptualization and language, which finds them both to be pragmatically beneficial while fundamentally erroneous, is the lynchpin of Sapaṇ’s philosophical position in the *Treasury*. Against his contemporaries, who rely upon concepts and linguistic objects being quasi-real entities in order to account for cognition and language, Sapaṇ explains the utility of concepts, and the linguistic entities to which they are tied, with reference to the same process that makes them erroneous: the never-ending causal flow of karma. Like floating hairs that appear due to ophthalmic disease, cognitive objects are nothing but a failure in the system, and have no independent reality.
 
@@ -162,19 +162,19 @@ Dharmakīrti | Gorampa [go rams pa] | Indian Philosophy (Classical): epistemolog
 
 [^note-1]: This summary is necessarily brief and selective. For precision and detail, see Jackson 1987: 15–29 and the sources discussed there, as well as Stearns 2001:159–169.
 
-[^note-2]: For fuller treatment of the topics in this section, see Dreyfus (1997), Kapstein (2000:85-120), Hugon (2008, 2009, 2014), Stolz (2006, 2008), and Gold (2014).
+[^note-2]: For fuller treatment of the topics in this section, see Dreyfus (1997)[^dreyfus-1997], Kapstein (2000:85-120)[^kapstein-2000], Hugon (2008, 2009, 2014)[^hugon-2008][^hugon-2009][^hugon-2014], Stolz (2006, 2008)[^stolz-2006][^stolz-2008], and Gold (2014)[^gold-2014].
 
 [^note-3]: Dreyfus (1997: 173 & 189) cites Gyeltsap and Uyukpa as examples of such false friends.
 
-[^note-4]: Dreyfus 1997, Tillemans 1999:212ff and Gold 2014. There is evidence of Indian Buddhist moderate realism as well, as Dreyfus (1997: 198) credits Franco 1984 with revealing.
+[^note-4]: Dreyfus 1997, Tillemans 1999:212ff and Gold 2014. There is evidence of Indian Buddhist moderate realism as well, as Dreyfus (1997: 198)[^dreyfus-1997] credits Franco 1984 with revealing.
 
 [^note-5]: Dharmakīrti’s most important arguments in defense of *apoha*, which Sapaṇ cites at various points in the *Treasury*, come from the *Pramāṇavārttika* (Dunne 2004: 113–144)[^dunne-2004]. Sapaṇ’s grandfather Sachen Kunga Nyingpo apparently studied all of Dharmakīrti’s seven epistemological treatises *except* the *Pramāṇavārttika* with a disciple of Rngog’s (Stearns 2001:136–7)[^stearns-2001].
 
-[^note-6]: As Hugon (2014: 472–3) notes, Sapaṇ paints his opponents with a broad brush, and there is internal complexity that is of interest but not acknowledged in his work. Hugon also argues that, Sapaṇ’s criticisms and his opponents’ protestations aside, they might be acting on principled reasons in their different approach to Indian sources.
+[^note-6]: As Hugon (2014: 472–3)[^hugon-2014] notes, Sapaṇ paints his opponents with a broad brush, and there is internal complexity that is of interest but not acknowledged in his work. Hugon also argues that, Sapaṇ’s criticisms and his opponents’ protestations aside, they might be acting on principled reasons in their different approach to Indian sources.
 
-[^note-7]: Gold (2014: 368). The term “concept” as suggested by Stolz (2008) is adopted here as a felicitous replacement for “meaning generality” as a translation of *don spyi*. The more literal translation is still useful when delving into Sapaṇ’s terminological analyses.
+[^note-7]: Gold (2014: 368)[^gold-2014]. The term “concept” as suggested by Stolz (2008)[^stolz-2008] is adopted here as a felicitous replacement for “meaning generality” as a translation of *don spyi*. The more literal translation is still useful when delving into Sapaṇ’s terminological analyses.
 
-[^note-8]: In this section I have largely adopted the translation terms used in Rhoton (2002), but I refer to the systems of vows as “vows” and not “codes”.
+[^note-8]: In this section I have largely adopted the translation terms used in Rhoton (2002)[^rhoton-2002], but I refer to the systems of vows as “vows” and not “codes”.
 
 [^note-9]: Ronald Davidson has argued that monastics, who relied upon lay donors, were motivated to keep traditions that constituted their normative character and authority—a social pattern he calls “the economy of previous forms” (Davidson 1995: 290)[^davidson-1995].
 
@@ -196,7 +196,7 @@ Dharmakīrti | Gorampa [go rams pa] | Indian Philosophy (Classical): epistemolog
 
 [^note-18]: III.68–72 (Rhoton 2002: 104–105)[^rhoton-2002]. This abstract claim is parallel to the idea that the fact that human culture and values are ultimately contingent historical constructions tells you nothing about which cultural practices are best, or which values are consistent or inconsistent with one another.
 
-[^note-19]: On this argument and the paragraphs that follow, see D. Jackson (1990, 1994, 2015), R. Jackson (1982), van der Kuijp (1986), and Ruegg (1989).
+[^note-19]: On this argument and the paragraphs that follow, see D. Jackson (1990, 1994, 2015)[^jackson-1990][^jackson-1994][^jackson-2015], R. Jackson (1982)[^jackson-1982], van der Kuijp (1986)[^kuijp-1986], and Ruegg (1989)[^ruegg-1989].
 
 [^bassnett-1998]: Bassnett, Susan and André Lefevere, 1998, *Constructing Cultures: Essays on Literary Translation*, (Topics in Translation 11), Philadelphia: Multilingual Matters.
 

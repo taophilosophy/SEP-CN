@@ -14,11 +14,11 @@ The recent literature focuses on four questions, each corresponding to a way in 
 - Conversely, say that an **unextended complex** is an entity that has proper parts but is exactly located at a region that does not have proper parts. Are unextended complexes possible?
 - Say that an entity is **multilocated** just in case it is exactly located at more than one region. Is multilocation possible?
 
-The present article surveys recent work on these questions and addresses other issues along the way. The goal of the entry is not to provide a general account of the metaphysics of location. Rather it focuses on the issues that are concerned with location and its interaction with parthood (in the spirit of, e.g., the papers collected in Kleinschmidt (2014)).
+The present article surveys recent work on these questions and addresses other issues along the way. The goal of the entry is not to provide a general account of the metaphysics of location. Rather it focuses on the issues that are concerned with location and its interaction with parthood (in the spirit of, e.g., the papers collected in Kleinschmidt (2014)[^kleinschmidt-2014]).
 
 ## 1. Preliminaries: Spacetime and Parthood
 
-This article focuses on the recent literature on location and mereology. On the history of these topics, see Marmodoro (2017), Harte (2002), Sorabji (1983, 1988), Pasnau (2011), and Holden (2004), as well as the entries ancient atomism, medieval mereology, atomism from the 17th to the 20th century, and mereology.
+This article focuses on the recent literature on location and mereology. On the history of these topics, see Marmodoro (2017)[^marmodoro-2017], Harte (2002)[^harte-2002], Sorabji (1983, 1988)[^sorabji-1983][^sorabji-1988], Pasnau (2011)[^pasnau-2011], and Holden (2004)[^holden-2004], as well as the entries ancient atomism, medieval mereology, atomism from the 17th to the 20th century, and mereology.
 
 In keeping with the recent literature, we will focus on ‘entity-to-region’ location relations—i.e., those that paradigmatically hold between entities and *regions*. We will ignore location relations that hold between entities and non-regions.
 
@@ -59,7 +59,7 @@ The table (Figure 2) indicates, incompletely, which objects bear which relations
 
 Intuitively, $o_1$ is exactly located at one and only one region, $r_1$, which has the same size and shape, and stands in the same spatial relations to other things, as $o_1$. However, $o_1$ is entirely located at each region that it lies within, such as $r_1, r_3$, and $r_6$. It is pervasively located at each region that it completely fills, such as $r_1$ and $r_5$. It is weakly located at each region that is not completely free from it, such as $r_1, r_3, r_5, r_6$, as well as $r_4$, at which it is neither entirely nor pervasively located. Region $r_2$, however, is completely free from $o_1$, so $o_1$ is not even weakly located at $r_2$. Likewise, $o_2$ is not even weakly located at $r_1$. This should be enough for a pre-theoretic grasp of our four target relations.
 
-Typically, one of the relations above is taken to be fundamental and used to define the others. This gives rise to a wide range of possible theories, each with its own set of definitions and axioms. Some of these theories differ in what patterns of location they permit. For example, if one assumes that exact location is fundamental, then one is free to accept the possibility of a strongly multilocated thing, a thing that is exactly located at two non-overlapping regions. On the other hand, Parsons (2007) presents two theories, one that takes exact location as fundamental and one that takes weak location as fundamental. In the latter exact location is defined as follows:
+Typically, one of the relations above is taken to be fundamental and used to define the others. This gives rise to a wide range of possible theories, each with its own set of definitions and axioms. Some of these theories differ in what patterns of location they permit. For example, if one assumes that exact location is fundamental, then one is free to accept the possibility of a strongly multilocated thing, a thing that is exactly located at two non-overlapping regions. On the other hand, Parsons (2007)[^parsons-2007] presents two theories, one that takes exact location as fundamental and one that takes weak location as fundamental. In the latter exact location is defined as follows:
 
 **(DS2a.1)**
 
@@ -96,7 +96,7 @@ But both (i) and (ii) have been questioned.
 
 For example, one might reject (i) in favor of the view that exact location is a three-place relation that holds between a located entity, a region of space, and an instant of time (Thomson 1983; Costa 2017)[^costa-2017][^thomson-1983]. This is a natural view for those who think of space as a three-dimensional entity that endures through, and is separate from, time. (This picture is discussed in Skow 2015 and Gilmore, Costa, & Calosi 2016.)[^calosi-2016][^costa-2016][^gilmore-2016][^skow-2015] To allow for the possibility of motion, those who endorse such a view will want to be able to say, of a given object, that it is exactly located at region $r_1$, not at region $r_2$, at time $t_1$, and that the same object is exactly located at $r_2$, not at $r_1$, at time $t_2$. To allow for the possibility that time is gunky and does not contain instants, one might take exact location to be expressed by ‘$x$ is exactly located at region $r$ within interval $s$’. A different option is to reject (i) in favor of the view that exact location is variably polyadic, an idea floated by Jones (2018: note 29). The thought here is that one and the same relation is expressed both by the two-place predicate ‘(…) is located at (…)’ and by (e.g.,) the three-place predicate ‘(…) is located at (…) at time (…)’. The relation is neither two-place simpliciter nor three-place simpliciter but two-place as it occurs in some propositions and three-place as it occurs in others.
 
-Alternatively, one might agree that exact location is a two-place relation but reject (ii) above in favor of the view that, say, the second argument place in exact location (the ‘location’ slot) is plural. One idea is that an extended object can be exactly located at many points, collectively, without being exactly located at any one of them individually or at the set or fusion of them. This is suggested by Hudson (2005: 17); motivations are developed in Gilmore (2014b: 25). A different idea is to take the first argument place (the ‘occupant’ slot) to be plural, and to speak in some cases of some things collectively being exactly located at a given region. For approaches like this, but applied to a primitive relation of pervasive location, see Loss (2023) and the supplementary document [Systems of Location](location-mereology.systems-of-location.md).
+Alternatively, one might agree that exact location is a two-place relation but reject (ii) above in favor of the view that, say, the second argument place in exact location (the ‘location’ slot) is plural. One idea is that an extended object can be exactly located at many points, collectively, without being exactly located at any one of them individually or at the set or fusion of them. This is suggested by Hudson (2005: 17)[^hudson-2005]; motivations are developed in Gilmore (2014b: 25)[^gilmore-2014b]. A different idea is to take the first argument place (the ‘occupant’ slot) to be plural, and to speak in some cases of some things collectively being exactly located at a given region. For approaches like this, but applied to a primitive relation of pervasive location, see Loss (2023)[^loss-2023] and the supplementary document [Systems of Location](location-mereology.systems-of-location.md).
 
 #### 2.2.2 Purely Locational Principles
 
@@ -109,13 +109,13 @@ Casati and Varzi (1999: 121) propose two principles:
 
 Functionality bans multilocation, which we discuss in Section 6. It tells us that nothing is exactly located at more than one region, or indeed, at more than one entity.
 
-Conditional Reflexivity is a principle about the location of regions. It boils down—roughly—to the claim that regions are located at themselves. There seems to be another option for the location of regions, namely that they do *not have* any locations, insofar as they *are* locations. Varzi (2007: 1016) calls this principle Conditional Emptiness:
+Conditional Reflexivity is a principle about the location of regions. It boils down—roughly—to the claim that regions are located at themselves. There seems to be another option for the location of regions, namely that they do *not have* any locations, insofar as they *are* locations. Varzi (2007: 1016)[^varzi-2007] calls this principle Conditional Emptiness:
 
 - **Conditional Emptiness:** If $x$ is exactly located at $y$, $y$ does not have an exact location $$\forall x\forall y\forall z [L (x, y) \rightarrow L (y, z)]$$
 
-Simons (2004b: 345) endorses Conditional Emptiness, whereas Parsons (2007: 224) and Varzi (2007: 1016) both claim that the choice between the two is somewhat conventional. However, as we show below, Conditional Reflexivity and Conditional Emptiness might be incompatible with different locative principles.
+Simons (2004b: 345)[^simons-2004b] endorses Conditional Emptiness, whereas Parsons (2007: 224)[^parsons-2007] and Varzi (2007: 1016)[^varzi-2007] both claim that the choice between the two is somewhat conventional. However, as we show below, Conditional Reflexivity and Conditional Emptiness might be incompatible with different locative principles.
 
-According to Conditional Reflexivity, exact locations are exactly located at themselves. (See also Donnelly (2004: 158), who presents a system in which Conditional Reflexivity is a theorem, though she replaces the location predicate ‘$L$’ with a primitive function symbol ‘$r$’ for ‘the exact location of’.) Suppose that Obama is exactly located at region $r$. Together with Conditional Reflexivity, this entails that $r$ is exactly located at itself. This conflicts with a purely locational principle endorsed by Simons (2004b: 345):
+According to Conditional Reflexivity, exact locations are exactly located at themselves. (See also Donnelly (2004: 158)[^donnelly-2004], who presents a system in which Conditional Reflexivity is a theorem, though she replaces the location predicate ‘$L$’ with a primitive function symbol ‘$r$’ for ‘the exact location of’.) Suppose that Obama is exactly located at region $r$. Together with Conditional Reflexivity, this entails that $r$ is exactly located at itself. This conflicts with a purely locational principle endorsed by Simons (2004b: 345)[^simons-2004b]:
 
 - **Asymmetry of Location:** If $x$ is exactly located at $y$ then $y$ is not exactly located at $x$. $$\forall x\forall y[(L(x, y) \rightarrow \neg L(y, x)]$$
 
@@ -143,9 +143,9 @@ That is, regions are the entities located at themselves. In turn this helps form
 
 ## 3. Interaction with Parthood
 
-Philosophers have put forward various axiom systems to capture the interaction between parthood and location. One idea is that the mereological properties of, and relations between, located entities *perfectly match* those of their locations. This has been dubbed *Mereological Harmony* (Schaffer 2009a; Uzquiano 2011; Leonard 2016)[^leonard-2016][^schaffer-2009a][^uzquiano-2011], and *Mirroring* in Varzi (2007).
+Philosophers have put forward various axiom systems to capture the interaction between parthood and location. One idea is that the mereological properties of, and relations between, located entities *perfectly match* those of their locations. This has been dubbed *Mereological Harmony* (Schaffer 2009a; Uzquiano 2011; Leonard 2016)[^leonard-2016][^schaffer-2009a][^uzquiano-2011], and *Mirroring* in Varzi (2007)[^varzi-2007].
 
-Mereological Harmony has been captured formally in different ways by Varzi (2007), Uzquiano (2011), and Leonard (2016). Saucedo (2011: 227–228) offers the following principles:
+Mereological Harmony has been captured formally in different ways by Varzi (2007)[^varzi-2007], Uzquiano (2011)[^uzquiano-2011], and Leonard (2016)[^leonard-2016]. Saucedo (2011: 227–228)[^saucedo-2011] offers the following principles:
 
 **(H1)**
 
@@ -181,7 +181,7 @@ The $x$s compose $y$ iff the locations of the $x$s compose $y$’s location.
 
 Some philosophers take Mereological Harmony to be a necessary truth (Schaffer 2009a: 138)[^schaffer-2009a].[^note-3] The remainder of this entry considers three separate threats to the view that Mereological Harmony is necessary: interpenetration (Section 4), extended simples and unextended complexes (Section 5), and multilocation (Section 6).
 
-There are other threats to Mereological Harmony that we will not discuss, e.g., threats to (H7) and (H8) that arise from ‘moderate views about receptacles’, according to which only topologically open (alternatively: only topologically closed) regions can be exact locations (see Cartwright 1975; Hudson 2005: 47–56; and especially Uzquiano 2006)[^cartwright-1975][^hudson-2005][^uzquiano-2006], or threats to (H4) discussed in Uzquiano (2011).)
+There are other threats to Mereological Harmony that we will not discuss, e.g., threats to (H7) and (H8) that arise from ‘moderate views about receptacles’, according to which only topologically open (alternatively: only topologically closed) regions can be exact locations (see Cartwright 1975; Hudson 2005: 47–56; and especially Uzquiano 2006)[^cartwright-1975][^hudson-2005][^uzquiano-2006], or threats to (H4) discussed in Uzquiano (2011)[^uzquiano-2011].)
 
 A case of interpenetration occurs when non-overlapping entities have overlapping exact locations—e.g., when a ghost passes through a wall. In such a case, the right-to-left direction of (H7) fails. Similar cases involve violations of the right-to-left directions of (H5) and (H6). An extended simple is a simple entity with a complex exact location: it violates the left-to-right direction of (H1), the right-to-left direction of the (equivalent) H2, and the left-to-right direction of the instance of (H3) that results from letting $n = 1$. An unextended complex violates (H1) and (H2) and, depending upon cases, (H5)—see Section 5.5. A case of multilocation occurs when a given entity has more than one exact location. This violates Functionality, which is left implicit in Saucedo’s statement of Mereological Harmony.
 
@@ -207,7 +207,7 @@ Delegation rules out cases like the following (Figure 4), in which $o^*$ is a co
 
 *Figure 4:* The region $r_a$ is a part of object $o^*$’s exact location, and object $o^*$ is complex, but no proper part of $o$ has an exact location that overlaps $r_a$. *Ruled out by Delegation*. [An extended description of figure 4 is in the supplement.]
 
-Neither interpenetration nor extended simples threaten Expansivity or Delegation. One threat to Delegation comes from Pickup (2016: 260), who considers the possibility of a complex entity that is exactly located somewhere despite the fact that none of its proper parts is exactly (or weakly) located anywhere. One route to such entities (not Pickup’s) runs as follows:
+Neither interpenetration nor extended simples threaten Expansivity or Delegation. One threat to Delegation comes from Pickup (2016: 260)[^pickup-2016], who considers the possibility of a complex entity that is exactly located somewhere despite the fact that none of its proper parts is exactly (or weakly) located anywhere. One route to such entities (not Pickup’s) runs as follows:
 
 1. some material objects (electrons, maybe) do not have any other material objects as proper parts,
 2. any such material object is a complex entity whose only proper parts are universals,
@@ -251,14 +251,14 @@ If these universals are also instantiated elsewhere, then it will be debatable w
 
 Three responses to this argument are worth considering.
 
-The first response says: so much the worse for immanent universals and tropes. This response uses a mereo-locational principle, No Interpenetration, as a premise in an argument against certain metaphysical views, namely those that posit immanent universals or tropes. Is there some reason why mereo-locational principles should not be used in this way? The principles of pure mereology are often so used. For example, Lewis (1999: 108–110) rejects states of affairs and structural universals on the grounds that they would violate Uniqueness of Composition, the principle that no entities $xx$ have more than one fusion.[^note-6] Why not give the same status to certain mereo-locational principles? One might, for example, say that No Interpenetration is better justified than is the view that universals or tropes are spatiotemporally located.
+The first response says: so much the worse for immanent universals and tropes. This response uses a mereo-locational principle, No Interpenetration, as a premise in an argument against certain metaphysical views, namely those that posit immanent universals or tropes. Is there some reason why mereo-locational principles should not be used in this way? The principles of pure mereology are often so used. For example, Lewis (1999: 108–110)[^lewis-1999] rejects states of affairs and structural universals on the grounds that they would violate Uniqueness of Composition, the principle that no entities $xx$ have more than one fusion.[^note-6] Why not give the same status to certain mereo-locational principles? One might, for example, say that No Interpenetration is better justified than is the view that universals or tropes are spatiotemporally located.
 
 The second response says that while immanent universals or tropes are spatiotemporal entities that are ‘in their instances’, they are not exactly located anywhere. Simplified somewhat, the response holds that
 
 1. universals are suitably related to entities that have exact locations, and in that sense they are ‘in their instances’, but
 2. universals do no themselves have exact locations and hence do not have overlapping exact locations.
 
-Given (ii), the universals or tropes in question no longer count as examples of interpenetration. Call this the *Burying Strategy*, since it ‘buries’ universals and/or tropes in located entities, rather than treating them as being located—examples are found in Armstrong (1989: 99) and Lowe (2006: 25).
+Given (ii), the universals or tropes in question no longer count as examples of interpenetration. Call this the *Burying Strategy*, since it ‘buries’ universals and/or tropes in located entities, rather than treating them as being located—examples are found in Armstrong (1989: 99)[^armstrong-1989] and Lowe (2006: 25).
 
 The third response to the argument from universals and tropes is to say, ‘True, universals and/or tropes can interpenetrate, but material objects can’t’. This grants the argument and rejects No Interpenetration in favor of the weaker, restricted principle below, where $M$ stands for the ‘material object’ predicate:
 
@@ -268,7 +268,7 @@ Necessarily, if material objects $x$ and $y$ have exact locations that overlap, 
 
 This response also handles potential counterexamples to No Interpenetration arising from regions, sets, events, portions of stuff, holes, spirits, and other ‘immaterial entities’.
 
-On the location of regions, see Casati & Varzi (1999: 123), who hold that regions are located at themselves, and Simons (2004b: 345), who holds that nothing is located at itself. On the location of sets, see Maddy (1990); Lewis (1991); Effingham (2010, 2012); and Cook (2012). On the location of events, see Casati & Varzi (1999); Price (2008); Giordani & Costa (2013); Costa & Giordani (2016); and Costa (2017). On the location of portions of stuff, see Markosian (1998, 2004, 2015). On the location of holes and shadows, see Lewis & Lewis (1970); Casati & Varzi (1994); Wake, Spencer, & Fowler (2007); Donnelly, Bittner, & Rosse (2006); and Sorensen (2008). On the location of spirits, see Thomas (2009) and Inman (2017). Sanford (1970) discusses many of these topics, and Hudson (2005: 4) mentions many of them briefly.
+On the location of regions, see Casati & Varzi (1999: 123), who hold that regions are located at themselves, and Simons (2004b: 345)[^simons-2004b], who holds that nothing is located at itself. On the location of sets, see Maddy (1990)[^maddy-1990]; Lewis (1991)[^lewis-1991]; Effingham (2010, 2012)[^effingham-2010][^effingham-2012]; and Cook (2012). On the location of events, see Casati & Varzi (1999); Price (2008)[^price-2008]; Giordani & Costa (2013); Costa & Giordani (2016); and Costa (2017)[^costa-2017]. On the location of portions of stuff, see Markosian (1998, 2004, 2015)[^markosian-1998][^markosian-2004][^markosian-2015]. On the location of holes and shadows, see Lewis & Lewis (1970)[^lewis-1970]; Casati & Varzi (1994); Wake, Spencer, & Fowler (2007); Donnelly, Bittner, & Rosse (2006); and Sorensen (2008)[^sorensen-2008]. On the location of spirits, see Thomas (2009)[^thomas-2009] and Inman (2017)[^inman-2017]. Sanford (1970)[^sanford-1970] discusses many of these topics, and Hudson (2005: 4)[^hudson-2005] mentions many of them briefly.
 
 The next two pro-interpenetration arguments count equally against No Interpenetration and (2), but we will continue to focus on No Interpenetration for simplicity.
 
@@ -282,7 +282,7 @@ A similar line of thought is sometimes framed as a conceivability argument. One 
 
 > we find that two shadows or two rays of light interpenetrate, and we could devise an imaginary world where bodies did the same. (1704 [1996]).
 
-Sanford (1967: 37) describes a similar scenario in more detail.
+Sanford (1967: 37)[^sanford-1967] describes a similar scenario in more detail.
 
 ### 4.3 For Interpenetration #3: from Bosons
 
@@ -290,17 +290,17 @@ Does contemporary physics provide us with examples of disjoint fundamental parti
 
 > particles having integral spin—otherwise known as bosons—in modern particle physics (…) are generally thought to be point-sized. Moreover (…) bosons are perfectly well able to cohabit a single spacetime point. (2011: 3–4)
 
-Schaffer (2009a) suggests that in the case at hand, we are not forced to consider the conceived scenario as one in which there are two co-located yet disjoint bosons. Rather,
+Schaffer (2009a)[^schaffer-2009a] suggests that in the case at hand, we are not forced to consider the conceived scenario as one in which there are two co-located yet disjoint bosons. Rather,
 
 > [a] more sophisticated treatment of these cases involves field theory. Instead of there being two bosons co-located at region *r*, there is a bosonic field with doubled intensity at *r*. (2009a: 140).
 
-Whereas Hawthorne and Uzquiano apparently take bosons to provide *actual* examples of interpenetration, McDaniel (2007a: 240) suggests that they at least reinforce the conceivability of such counterexamples and therefore their possibility should not be discarded *a priori*.
+Whereas Hawthorne and Uzquiano apparently take bosons to provide *actual* examples of interpenetration, McDaniel (2007a: 240)[^mcdaniel-2007a] suggests that they at least reinforce the conceivability of such counterexamples and therefore their possibility should not be discarded *a priori*.
 
 If one’s goal, in constructing a theory of location, is to articulate the necessary and *a priori* truths governing location and its interaction with parthood, then even McDaniel’s modest point still counts against including No Interpenetration in one’s theory. For if McDaniel is right, then that principle is not an *a priori* truth, though perhaps it is still a necessary truth. (See Simons 1994 & 2004a for further discussion of bosons and for related considerations in support of interpenetration. For further discussion of Hawthorne and Uzquiano, see Cotnoir 2016.)[^cotnoir-2016][^simons-1994][^simons-2004a]
 
 ### 4.4 For Interpenetration #4: from Recombination
 
-Sider (2000: 585–6), McDaniel (2007a), and Saucedo (2011) have all objected to No Interpenetration on the grounds that it conflicts with plausible broadly Humean ‘principles of recombination’. The following is a reconstruction of the argument in McDaniel’s (2007a: 241).
+Sider (2000: 585–6)[^sider-2000], McDaniel (2007a)[^mcdaniel-2007a], and Saucedo (2011)[^saucedo-2011] have all objected to No Interpenetration on the grounds that it conflicts with plausible broadly Humean ‘principles of recombination’. The following is a reconstruction of the argument in McDaniel’s (2007a: 241)[^mcdaniel-2007a].
 
 Let $o_1$ and $o_2$ be two different objects, let $r$ be a region, and consider the following states of affairs:
 
@@ -375,11 +375,11 @@ Debates about extended simples typically focus on the question of whether extend
 
 ### 5.2 For Extended Simples #2: from String Theory
 
-As McDaniel (2007a: 235–6) notes, some physicists interpret string theory as positing extended simples. McDaniel quotes a passage from Brian Greene:
+As McDaniel (2007a: 235–6)[^mcdaniel-2007a] notes, some physicists interpret string theory as positing extended simples. McDaniel quotes a passage from Brian Greene:
 
 > What are strings made of? There are two possible answers to this question. First, strings are truly fundamental—they are “atoms,” *uncuttable* constituents…. From this perspective, even though strings have spatial extent, the question of their composition is without any content. (1999: 141)
 
-Can strings be treated as being identical to the spacetime regions at which they are exactly located? Greene does not explicitly address this question. If the answer is ‘Yes’, however, and if strings are exactly located only at complex regions, then string theory would not be committed to extended simples after all. For an argument that string theory does not posit extended simples, see Baker (2016). For a discussion of different arguments for and against extended simples in quantum gravity see Baron and LeBihan (2022b).
+Can strings be treated as being identical to the spacetime regions at which they are exactly located? Greene does not explicitly address this question. If the answer is ‘Yes’, however, and if strings are exactly located only at complex regions, then string theory would not be committed to extended simples after all. For an argument that string theory does not posit extended simples, see Baker (2016)[^baker-2016]. For a discussion of different arguments for and against extended simples in quantum gravity see Baron and LeBihan (2022b).
 
 ### 5.3 For Extended Simples #3: from Recombination
 
@@ -391,15 +391,15 @@ One might argue that if extended simples were possible, then they could vary qua
 
 One might resist the argument by insisting that extended simples are possible only if qualitatively homogeneous across spacetime (see Spencer 2010, Jaeger 2014, and Spencer 2014 for discussion)[^jaeger-2014][^spencer-2010][^spencer-2014]. But most friends of extended simples try to resist the argument in other ways.
 
-In this connection, it is useful to see that the problem of qualitative variation perfectly mirrors the infamous problem of change (a.k.a., temporary intrinsics), which deals with the case of a persisting entity exhibiting qualitative variation across time. Consequently, several solutions developed for the problem of change apply, *mutatis mutandis*, to the case of extended simples. For example, a friend of extended simples might adopt regionalized properties or regionalized instantiation (the terminology is due to Schaffer 2010)[^schaffer-2010]. In the first case, a seemingly monadic property such as being white is really taken to be a relation to a region in disguise, such as being *white at*. In the second case, one regionalizes instantiation rather than the property by claiming, for example, that the extended simple instantiates-here whiteness. These two strategies parallel the classic relativization strategies of, e.g., Mellor (1981) and adverbialist strategy of, e.g., Johnston (1987) and Haslanger (1989).
+In this connection, it is useful to see that the problem of qualitative variation perfectly mirrors the infamous problem of change (a.k.a., temporary intrinsics), which deals with the case of a persisting entity exhibiting qualitative variation across time. Consequently, several solutions developed for the problem of change apply, *mutatis mutandis*, to the case of extended simples. For example, a friend of extended simples might adopt regionalized properties or regionalized instantiation (the terminology is due to Schaffer 2010)[^schaffer-2010]. In the first case, a seemingly monadic property such as being white is really taken to be a relation to a region in disguise, such as being *white at*. In the second case, one regionalizes instantiation rather than the property by claiming, for example, that the extended simple instantiates-here whiteness. These two strategies parallel the classic relativization strategies of, e.g., Mellor (1981)[^mellor-1981] and adverbialist strategy of, e.g., Johnston (1987)[^johnston-1987] and Haslanger (1989)[^haslanger-1989].
 
-Yet another strategy is worth mentioning here, because it was developed originally to deal with qualitative variation in extended simples. This is Parsons’ (2000) solution involving distributional properties. Parsons proposes that if a simple is white in one region and gray in another, then it has a fundamental, intrinsic, distributional property. Some distributional properties, such as being black all over, are uniform. Others, such as being polka-dotted, are non-uniform. When a simple has a non-uniform distributional property, this fact is not grounded in it having proper parts, configured in a certain way, that each have simpler, uniform properties. Nor is it grounded in the simple’s standing in different relations (being white at and being gray at) to different spacetime regions. Rather, it is an ungrounded fact about the simple. This apparently avoids the worries faced by previous approaches (on which see Haslanger 2003)[^haslanger-2003]. As McDaniel (2009) notes, however, Parsons’s solution faces several difficulties. For example, it seems unable to provide an account of what is it for $x$ to be $F$ at $r$. What is it, for example, for something to be gray at a region $r$? It can’t simply be for it to have a given distributional property $D$, such as being gray all over. And this for at least two reasons. First, something could be gray at $r$ in virtue of having other distributional properties, such as being half gray and half white. Second, something could have the relevant distributional property without being gray at $r$, for example because it is not located at $r$. The problem is not solved if we further require the thing to be located at $r$. Indeed, two circles that are co-located at $r$ and have both the distributional property of being half gray and half white might be such that one is gray at the top part of their exact location while the other is gray at the bottom part.
+Yet another strategy is worth mentioning here, because it was developed originally to deal with qualitative variation in extended simples. This is Parsons’ (2000) solution involving distributional properties. Parsons proposes that if a simple is white in one region and gray in another, then it has a fundamental, intrinsic, distributional property. Some distributional properties, such as being black all over, are uniform. Others, such as being polka-dotted, are non-uniform. When a simple has a non-uniform distributional property, this fact is not grounded in it having proper parts, configured in a certain way, that each have simpler, uniform properties. Nor is it grounded in the simple’s standing in different relations (being white at and being gray at) to different spacetime regions. Rather, it is an ungrounded fact about the simple. This apparently avoids the worries faced by previous approaches (on which see Haslanger 2003)[^haslanger-2003]. As McDaniel (2009)[^mcdaniel-2009] notes, however, Parsons’s solution faces several difficulties. For example, it seems unable to provide an account of what is it for $x$ to be $F$ at $r$. What is it, for example, for something to be gray at a region $r$? It can’t simply be for it to have a given distributional property $D$, such as being gray all over. And this for at least two reasons. First, something could be gray at $r$ in virtue of having other distributional properties, such as being half gray and half white. Second, something could have the relevant distributional property without being gray at $r$, for example because it is not located at $r$. The problem is not solved if we further require the thing to be located at $r$. Indeed, two circles that are co-located at $r$ and have both the distributional property of being half gray and half white might be such that one is gray at the top part of their exact location while the other is gray at the bottom part.
 
 As we point out in the supplementary document [Systems of Location](location-mereology.systems-of-location.md) some theories of location rule out extended simples by definition.
 
 ### 5.5 For Unextended Complexes
 
-What about unextended complexes? McDaniel (2007b), Pickup (2016), and Calosi (2023) all discuss their possibility (but see also Leonard 2016, which labels them “crowded simples”)[^leonard-2016].
+What about unextended complexes? McDaniel (2007b)[^mcdaniel-2007b], Pickup (2016)[^pickup-2016], and Calosi (2023)[^calosi-2023] all discuss their possibility (but see also Leonard 2016, which labels them “crowded simples”)[^leonard-2016].
 
 A first argument, due to McDaniel, goes as follows:
 
@@ -417,7 +417,7 @@ We should note that Expansivity* is similar (in spirit) to Expansivity in Sectio
 
 - **Exactness +**: Necessarily, if a thing is weakly located somewhere, then it is exactly located somewhere. $$\Box \forall x [\exists y \WKL (x, y) \rightarrow \exists y L(x, y)]$$
 
-Pickup offers yet another argument in favor of the possibility of unextended complexes. The argument has it that unless a reason is given for the difference between the case of extended simples and the case of unextended complexes one should treat their possibilities equally. That is, if one finds extended simples possible, then one should find unextended complexes possible as well. A possible reply is that, as we saw, extended simples and unextended complexes violate very different principles of location. One could have different attitudes towards those principles which would then warrant different attitudes towards the metaphysical possibility of the (allegedly) problematic entities—see for example, Calosi (2023).
+Pickup offers yet another argument in favor of the possibility of unextended complexes. The argument has it that unless a reason is given for the difference between the case of extended simples and the case of unextended complexes one should treat their possibilities equally. That is, if one finds extended simples possible, then one should find unextended complexes possible as well. A possible reply is that, as we saw, extended simples and unextended complexes violate very different principles of location. One could have different attitudes towards those principles which would then warrant different attitudes towards the metaphysical possibility of the (allegedly) problematic entities—see for example, Calosi (2023)[^calosi-2023].
 
 ## 6. Multilocation
 
@@ -435,7 +435,7 @@ Opponents of multilocation accept Functionality+. Friends of multilocation typic
 
 Earlier we glossed ‘$x$ is exactly located at $y$’ as ‘$x$ has (or has-at$-y)$ the same size and shape as $y$, and stands (or stands-at$-y)$ in all the same spatiotemporal relations to things as does $y$’. Thus, spheres are exactly located only at spherical regions, cubes only at cubical regions, and so on. When an entity is said to be multilocated, then, it is said to stand in this relation to *each of several regions*: informally put, it has the same size, shape, and position as region $r_1$; it has the same size, shape, and position as region $r_2$; and so on. No claim is made to the effect that the object is exactly located at the *fusion* of $r_1, r_2,\ldots$, or at any *proper parts* of any of these regions.
 
-To clarify the idea of multilocation in an informal way, it may be useful to consider Figure 5, inspired by Hudson (2005: 105) and Kleinschmidt (2011: 256).
+To clarify the idea of multilocation in an informal way, it may be useful to consider Figure 5, inspired by Hudson (2005: 105)[^hudson-2005] and Kleinschmidt (2011: 256)[^kleinschmidt-2011].
 
 ![Figure 5a diagram: link to extended description below](../assets/location-mereology/figure05a.svg)
 
@@ -465,7 +465,7 @@ As with interpenetration and extended simples, one might offer a recombination a
 
 ### 6.3 For Multilocation #3: from Examples
 
-Arguments in favor of multilocation may simply come from concrete examples of multilocated entities. These include: immanent universals, enduring material objects, enduring tropes—Ehring (1997a,b, 2011), four-dimensional perduring objects—Hudson (2001), backward time travelers—(MacBride 1998, Keller & Nelson 2001; Gilmore 2003, 2006, 2007; Miller 2006; Carroll 2011; Kleinschmidt 2011; Effingham 2011)[^carroll-2011][^effingham-2011][^gilmore-2003][^gilmore-2006][^gilmore-2007][^keller-2001][^kleinschmidt-2011][^macbride-1998][^miller-2006], fission products—Dainton (2008: 364–408), transworld individuals—McDaniel (2004), works of music—Tillman (2011), and an omnipresent God—(Hudson 2009; Inman 2017)[^hudson-2009][^inman-2017].[^note-10] We will focus on the first two examples here for they are arguably the more widely discussed.
+Arguments in favor of multilocation may simply come from concrete examples of multilocated entities. These include: immanent universals, enduring material objects, enduring tropes—Ehring (1997a,b, 2011), four-dimensional perduring objects—Hudson (2001)[^hudson-2001], backward time travelers—(MacBride 1998, Keller & Nelson 2001; Gilmore 2003, 2006, 2007; Miller 2006; Carroll 2011; Kleinschmidt 2011; Effingham 2011)[^carroll-2011][^effingham-2011][^gilmore-2003][^gilmore-2006][^gilmore-2007][^keller-2001][^kleinschmidt-2011][^macbride-1998][^miller-2006], fission products—Dainton (2008: 364–408)[^dainton-2008], transworld individuals—McDaniel (2004)[^mcdaniel-2004], works of music—Tillman (2011)[^tillman-2011], and an omnipresent God—(Hudson 2009; Inman 2017)[^hudson-2009][^inman-2017].[^note-10] We will focus on the first two examples here for they are arguably the more widely discussed.
 
 #### 6.3.1 Immanent universals
 
@@ -501,11 +501,11 @@ Philosophers on both sides of this dispute can agree about which spacetime regio
 
 *Figure 6:* Persistence, the locational and mereological disputes. [An extended description of figure 6 is in the supplement.]
 
-Locational endurance entails multilocation: it says that some material objects are exactly located at many different regions (for a locational characterization of endurantism that does not entail multilocation see Garcia forthcoming). Mereological endurance, which merely rejects temporal parts, does not entail multilocation. Thus, one might reject temporal parts while retaining Functionality. This is the position of Parsons (2000, 2007). It corresponds to the lower left-hand box in Figure 6.[^note-14]
+Locational endurance entails multilocation: it says that some material objects are exactly located at many different regions (for a locational characterization of endurantism that does not entail multilocation see Garcia forthcoming). Mereological endurance, which merely rejects temporal parts, does not entail multilocation. Thus, one might reject temporal parts while retaining Functionality. This is the position of Parsons (2000, 2007)[^parsons-2000][^parsons-2007]. It corresponds to the lower left-hand box in Figure 6.[^note-14]
 
 ### 6.4 Against Multilocation #1: from Definition
 
-As we noted in Section 2.1, Parsons (2007) develops a theory of location on which weak location is primitive and exact location is defined, via definition (DS2a.1). According to that definition, ‘$x$ is exactly located at $y$’ means the same as ‘$x$ is weakly located at all and only those entities that overlap $y$’. Those who endorse this definition may deny the possibility of multilocation, on the basis of the following argument:
+As we noted in Section 2.1, Parsons (2007)[^parsons-2007] develops a theory of location on which weak location is primitive and exact location is defined, via definition (DS2a.1). According to that definition, ‘$x$ is exactly located at $y$’ means the same as ‘$x$ is weakly located at all and only those entities that overlap $y$’. Those who endorse this definition may deny the possibility of multilocation, on the basis of the following argument:
 
 **(4)**
 
@@ -529,7 +529,7 @@ To see that the inference from (4) to (5) is valid, suppose that object $o$ is e
 
 The argument may persuade some. However, those who are initially inclined to take the possibility of multilocation seriously may see this argument as a reason to doubt the first premise and the associated definition (Gilmore 2006: 203; Effingham 2015b)[^effingham-2015b][^gilmore-2006].
 
-Interestingly, in the supplementary document [Systems of Location](location-mereology.systems-of-location.md), we present three systems—namely systems 3, 4 and 5—that allow for multilocation but rule out specific kinds of multilocation, in particular *nested* *multilocation*, in which something is exactly located at a region $r$ and at one or more of $r$’s proper subregions. Kleinschmidt (2011) argues that certain types of nested multilocation entail a violation of the partial ordering axioms of parthood—see Section 6.6.
+Interestingly, in the supplementary document [Systems of Location](location-mereology.systems-of-location.md), we present three systems—namely systems 3, 4 and 5—that allow for multilocation but rule out specific kinds of multilocation, in particular *nested* *multilocation*, in which something is exactly located at a region $r$ and at one or more of $r$’s proper subregions. Kleinschmidt (2011)[^kleinschmidt-2011] argues that certain types of nested multilocation entail a violation of the partial ordering axioms of parthood—see Section 6.6.
 
 ### 6.5 Against Multilocation #2: from Qualitative Variation
 
@@ -539,7 +539,7 @@ Some friends of multilocation might insist that multilocation is possible, but o
 
 ### 6.6 Against Multilocation #3: from the Mereological Structure of Occupants
 
-There are a few arguments against multilocation that share a common structure. These arguments have it that multilocation is inconsistent with particular mereological structures of occupants. If one holds that occupants have at least the relevant mereological structure, one has an argument against multilocation. Following Varzi (2003) [2019]) we stipulate:
+There are a few arguments against multilocation that share a common structure. These arguments have it that multilocation is inconsistent with particular mereological structures of occupants. If one holds that occupants have at least the relevant mereological structure, one has an argument against multilocation. Following Varzi (2003)[^varzi-2003] [2019]) we stipulate:
 
 - **Ground Mereology:** The mereological theory that only comprises the partial ordering axioms for parthood.
 - **Minimal Mereology:** Ground Mereology plus Weak Supplementation.
@@ -555,7 +555,7 @@ The Classical Mereology Argument depends crucially on other admittedly controver
 
 #### 6.6.1 Ground Mereology and Multilocation
 
-Kleinschmidt (2011) argues that multilocation is inconsistent with Ground Mereology for occupants.[^note-16] More precisely, what is inconsistent with Ground Mereology for occupants is a particular kind of multilocation, nested multilocation. In Kleinschmidt’s own words:
+Kleinschmidt (2011)[^kleinschmidt-2011] argues that multilocation is inconsistent with Ground Mereology for occupants.[^note-16] More precisely, what is inconsistent with Ground Mereology for occupants is a particular kind of multilocation, nested multilocation. In Kleinschmidt’s own words:
 
 - **Claim 1:** It is possible that there exists some objects, $x$ and $y$, and regions $r_1, r_2$, and $r_3$, such that $x$ is located at $r_1, y$ is located at $r_2, x$ is located at $r_3$, and $x$ is (at $r_1)$ a proper part of $y$ (at $r_2)$ which is a proper part of $x$ at $(r_3)$ (Kleinschmidt 2011: 256)[^kleinschmidt-2011]
 
@@ -615,11 +615,11 @@ It is easily seen that (11) and (12) violate Weak Supplementation in that there 
 
 Indeed, the scenario envisaged by Effingham and Robson violates almost every decomposition principle discussed in mereology, including principles that are strictly weaker than Weak Supplementation, such as Company, Strong Company, and Quasi Supplementation, the last one under the assumption that *Brick* is atomic—see the entry on mereology. Be that as it may, the conclusion remains that, given the possibility of endurantist time travel, multilocation is inconsistent with Minimal Mereology.
 
-One possible reaction to this argument is to simply take it as an argument against endurantism rather than against multilocation—as Effingham and Robson themselves do. See Daniels (2014) for a reply.
+One possible reaction to this argument is to simply take it as an argument against endurantism rather than against multilocation—as Effingham and Robson themselves do. See Daniels (2014)[^daniels-2014] for a reply.
 
 #### 6.6.3 General Replies
 
-So far, we have discussed some strategies to resist the arguments *individually*. Other things being equal, one should prefer a more systematic reply that applies to all such cases independently of (some of) their respective details. We will consider two such general strategies. First, Smid (2023b) argues that at least *some* relevant premises in *all* the arguments derive their plausibility *solely* from controversial principles linking parthood and location such as:
+So far, we have discussed some strategies to resist the arguments *individually*. Other things being equal, one should prefer a more systematic reply that applies to all such cases independently of (some of) their respective details. We will consider two such general strategies. First, Smid (2023b)[^smid-2023b] argues that at least *some* relevant premises in *all* the arguments derive their plausibility *solely* from controversial principles linking parthood and location such as:
 
 - **Strong Partition:** If $x$ is exactly located at a subregion of the exact location of $w$, it is part of $w$ $$\forall x\forall y \forall w\forall z [ L(x, y) \land L(w, z) \land P(y, z) \rightarrow P(x, w)]$$
 - **Strong Proper Partition:** If $x$ is exactly located at a proper subregion of the exact location of $w$, it is a proper part of $w$[^note-17] $$\forall x\forall y \forall w\forall z [L(x, y) \land L(w, z) \land \PP(y, z) \rightarrow \PP(x, w)]$$
@@ -629,7 +629,7 @@ If he is right, then one can reject these principles and undermine the arguments
 1. If we relativize mereological claims what adicity should the parthood relation have? Arguably, the leading contenders are that parthood is a three-place relation, and that parthood is a four-place relation.
 2. What goes in the third and fourth argument slots if we take parthood to be three or four-place respectively?
 
-Suppose one answers (i) by claiming that parthood should be three-place. How should we answer (ii)? ‘Natural’ candidates include external time, personal time, the exact location of the part, and the exact location of the whole. Kleinschmidt (2011) argues that none would work. For the sake of brevity, we will focus on the case in which one takes parthood to be a four-place relation (thus answering (i) above) where the two additional slots are filled by the exact location of the part and the exact location of whole respectively, thus answering (ii). (This is the “Location Principle” below.) This is suggested independently by both Gilmore (2009) and Kleinschmidt (2011). Gilmore (2009) provides a more detailed proposal so we will stick to that. Indeed Gilmore (2009) argues that friends of multilocation have independent reasons—reasons having nothing to do with time travel—to treat the fundamental parthood relation as a four-place relation. Let $P^4(x, y, z, w)$ stand for “$x$ at $y$ is part of $z$ at $w$”. Then, according to Gilmore, four-place parthood obeys the following principles:
+Suppose one answers (i) by claiming that parthood should be three-place. How should we answer (ii)? ‘Natural’ candidates include external time, personal time, the exact location of the part, and the exact location of the whole. Kleinschmidt (2011)[^kleinschmidt-2011] argues that none would work. For the sake of brevity, we will focus on the case in which one takes parthood to be a four-place relation (thus answering (i) above) where the two additional slots are filled by the exact location of the part and the exact location of whole respectively, thus answering (ii). (This is the “Location Principle” below.) This is suggested independently by both Gilmore (2009)[^gilmore-2009] and Kleinschmidt (2011)[^kleinschmidt-2011]. Gilmore (2009)[^gilmore-2009] provides a more detailed proposal so we will stick to that. Indeed Gilmore (2009)[^gilmore-2009] argues that friends of multilocation have independent reasons—reasons having nothing to do with time travel—to treat the fundamental parthood relation as a four-place relation. Let $P^4(x, y, z, w)$ stand for “$x$ at $y$ is part of $z$ at $w$”. Then, according to Gilmore, four-place parthood obeys the following principles:
 
 - **Location Principle:** If $x$ at $y$ is a part of $z$ at $w$, then: $x$ is exactly located at $y$ and $z$ is exactly located at $w$. $$\forall x\forall y\forall z\forall w[P^4 (x, y, z, w)\rightarrow[L(x, y) \amp L(z,w)]]$$
 - **Reflexivity_{4P}:** If $x$ is exactly located at $y$, then $x$ at $y$ is a part of $x$ at $y.$ $$\forall x\forall y[L(x, y)\rightarrow P^4 (x, y, x, y)]$$
@@ -648,12 +648,12 @@ It is easy to see how this handles the Minimal Mereology argument. In effect, Ef
 
 Here, *Brick* at $r_1$ is a part of *Wall* at $r_w$. Moreover, *Brick* at $r_1$ is, in the relevant sense, a ‘proper part’ of *Wall* at $r_w$, since either $\textit{Brick}_1 \ne \textit{Wall}$ or $r_1 \ne r_w$—in fact, both disjuncts hold. So, we have a case in which Weak Supplementation_{4P} applies: its antecedent is satisfied. Accordingly, that principle tells us that there must be an $\langle x, r\rangle$ pair such that $x$ at $r$ is a part *Wall* at $r_w$ but does not overlap $\textit{Brick}_1$ at $r_1$. One such pair is $\langle\textit{Brick}_1, r_3\rangle$: $\textit{Brick}_1$ at $r_3$ is a part of *Wall* at $r_w$, but $\textit{Brick}_1$ at $r_3$ does not overlap $\textit{Brick}_1$ at $r_1$. There is no $\langle x, r\rangle$ pair such that $x$ at $r$ is a part *both* of $\textit{Brick}_1$ at $r_1$ *and* of $\textit{Brick}_1$ at $r_3$. Hence the consequent is satisfied as well.
 
-What about the Ground Mereology argument? Gilmore (2009) does not discuss this case. However, the four-place notion of parthood might be helpful here as well, even if things are a little less straightforward. Once proper parthood is defined (and a lot might hang on this definition), plausibly the four-place counterparts of Transitivity and Asymmetry of Proper Parthood are given by:
+What about the Ground Mereology argument? Gilmore (2009)[^gilmore-2009] does not discuss this case. However, the four-place notion of parthood might be helpful here as well, even if things are a little less straightforward. Once proper parthood is defined (and a lot might hang on this definition), plausibly the four-place counterparts of Transitivity and Asymmetry of Proper Parthood are given by:
 
 - **Proper Parthood Transitivity_{4P}:** If $x_1$ at $x_2$ is a proper part of y$_1$ at y$_2$ and y$_1$ at y$_2$ is a proper part of $z_1$ at $z_2$, then $x_1$ at $x_2$ is a proper part of $z_1$ at $z_2$. $$ \begin{multline} \forall x_1\forall x_2\forall y_1\forall y_2\forall z_1\forall z_2 [[\PP^4 (x_1, x_2, y_1, y_2) \\ \amp \PP^4 (y_1, y_2, z_1, z_2)] \rightarrow \PP^4 (x_1, x_2, z_1, z_2)] \end{multline} $$
 - **Proper Parthood Asymmetry_{4P}:** If $x_1$ at $x_2$ is a proper part of $y_1$ at $y_2$, then $y_1$ at $y_2$ is not a proper part of $x_1$ at $x_2$. $$(\forall x_1\forall x_2\forall y_1\forall y_2 [\PP^4 (x_1, x_2, y_1, y_2) \rightarrow \neg(\PP^4 (y_1, y_2, x_1, x_2)]$$
 
-Now, go back to Kleinschmidt (2011) case, and to **Claim 1** in Section 6.6.1. Clearly $x_1 = z_1 =$ *Clifford* = *Odie*, $x_2 = r_3, y_1 =$ *Kibble*, $y_2 = r_2$, and, finally, $z_2 = r_1$. Consider Asymmetry first. There we have that
+Now, go back to Kleinschmidt (2011)[^kleinschmidt-2011] case, and to **Claim 1** in Section 6.6.1. Clearly $x_1 = z_1 =$ *Clifford* = *Odie*, $x_2 = r_3, y_1 =$ *Kibble*, $y_2 = r_2$, and, finally, $z_2 = r_1$. Consider Asymmetry first. There we have that
 
 1. *Kibble* at $r_2$ is a proper part of *Clifford* at $r_3$, and
 2. *Odie* at $r_1$ is a proper part of *Kibble* at $r_2$.
@@ -743,52 +743,52 @@ We want to thank the editors of the *Stanford Encyclopedia of Philosophy* and es
 
 ## Notes（原文脚注）
 
-[^note-1]: See Yablo (1993) and Chalmers (2002) for distinctions between various sorts of conceivability and for discussion of how each of them connects or fails to connect to metaphysical possibility. For relevant criticism see the entry on the epistemology of modality, especially §4.1.
+[^note-1]: See Yablo (1993)[^yablo-1993] and Chalmers (2002)[^chalmers-2002] for distinctions between various sorts of conceivability and for discussion of how each of them connects or fails to connect to metaphysical possibility. For relevant criticism see the entry on the epistemology of modality, especially §4.1.
 
 [^note-2]: Different authors, and different time-slices of the same author, use different phrases to express the given relation.
 
-- Moore (1953: 356–7); van Inwagen (1990b: 10); Lewis (1991: 32; 1999: 194, 226–7); Sattig (2006); McDaniel (2007a,b); and Gilmore (2007) all use ‘occupies’.
-- Thomson (1983); Hudson (2001); Hawthorne (2006: 103–4); Uzquiano (2006); Gilmore (2006; 2009); and Eddon (2010) use ‘exactly occupies’.
-- Lewis (1999: 11); Gilmore (2002; 2003); and Gibson & Pooley (2006) all use ‘is wholly present at’.
-- Casati & Varzi (1999); Bittner, Donnelly, & Smith (2004); and Parsons (2007) use ‘is exactly located at’.
-- Hawthorne (2008: 276) and Kleinschmidt (2011) use ‘is wholly located at’.
-- Balashov (2010); Donnelly (2010); and Saucedo (2011) use ‘is located at’.
+- Moore (1953: 356–7)[^moore-1953]; van Inwagen (1990b: 10)[^inwagen-1990b]; Lewis (1991: 32; 1999: 194, 226–7); Sattig (2006)[^sattig-2006]; McDaniel (2007a,b); and Gilmore (2007)[^gilmore-2007] all use ‘occupies’.
+- Thomson (1983)[^thomson-1983]; Hudson (2001)[^hudson-2001]; Hawthorne (2006: 103–4)[^hawthorne-2006]; Uzquiano (2006)[^uzquiano-2006]; Gilmore (2006; 2009)[^gilmore-2006][^gilmore-2009]; and Eddon (2010)[^eddon-2010] use ‘exactly occupies’.
+- Lewis (1999: 11)[^lewis-1999]; Gilmore (2002; 2003)[^gilmore-2002][^gilmore-2003]; and Gibson & Pooley (2006) all use ‘is wholly present at’.
+- Casati & Varzi (1999); Bittner, Donnelly, & Smith (2004); and Parsons (2007)[^parsons-2007] use ‘is exactly located at’.
+- Hawthorne (2008: 276)[^hawthorne-2008] and Kleinschmidt (2011)[^kleinschmidt-2011] use ‘is wholly located at’.
+- Balashov (2010)[^balashov-2010]; Donnelly (2010)[^donnelly-2010]; and Saucedo (2011)[^saucedo-2011] use ‘is located at’.
 
-Admittedly, there is some controversy as to whether all these authors have exact location in mind. For example, Parsons (2007: 219–20) denies that Gilmore’s ‘exactly occupies’ expresses exact location.
+Admittedly, there is some controversy as to whether all these authors have exact location in mind. For example, Parsons (2007: 219–20)[^parsons-2007] denies that Gilmore’s ‘exactly occupies’ expresses exact location.
 
-[^note-3]: Though Schaffer (2009a) would not endorse H1–H8 when they are interpreted as quantifying over all entities unrestrictedly. Instead he would holds that H1–H8 are true only when the variables are interpreted as ranging over material objects. (As we shall see, when these principles are not so restricted, they face potential counterexamples involving entities that seem not to be material objects, such as universals and tropes.)
+[^note-3]: Though Schaffer (2009a)[^schaffer-2009a] would not endorse H1–H8 when they are interpreted as quantifying over all entities unrestrictedly. Instead he would holds that H1–H8 are true only when the variables are interpreted as ranging over material objects. (As we shall see, when these principles are not so restricted, they face potential counterexamples involving entities that seem not to be material objects, such as universals and tropes.)
 
-[^note-4]: This principle, minus the necessity operator, is endorsed in Casati and Varzi (1999) and labeled ‘Weak Expansivity’ by Parsons (2007).
+[^note-4]: This principle, minus the necessity operator, is endorsed in Casati and Varzi (1999) and labeled ‘Weak Expansivity’ by Parsons (2007)[^parsons-2007].
 
-[^note-5]: Uzquiano (2006: 443) formulates principles very similar to Expansivity and Delegation and notes that they are especially uncontroversial.
+[^note-5]: Uzquiano (2006: 443)[^uzquiano-2006] formulates principles very similar to Expansivity and Delegation and notes that they are especially uncontroversial.
 
 [^note-6]: Lewis considers a similar argument against immanent universals (that if they existed, they would violate the transitivity of co-location) and rejects it very casually:
 
 > by occurring repeatedly, universals defy intuitive principles. But this is no damaging objection, since plainly the intuitions were made for particulars. (1999: 11)
 
-Why not reject his argument against states of affairs on similar grounds? (One might say: yes, states of affairs violate the uniqueness of composition, but that is no damaging objection, since plainly that principle holds only for material objects.) See Donnelly (2011a) for a critical discussion of arguments that, in her terms, “use mereological principles to support metaphysics”.
+Why not reject his argument against states of affairs on similar grounds? (One might say: yes, states of affairs violate the uniqueness of composition, but that is no damaging objection, since plainly that principle holds only for material objects.) See Donnelly (2011a)[^donnelly-2011a] for a critical discussion of arguments that, in her terms, “use mereological principles to support metaphysics”.
 
-[^note-7]: Though see Bird (2007) for a defense of the view that such laws are metaphysically necessary.
+[^note-7]: Though see Bird (2007)[^bird-2007] for a defense of the view that such laws are metaphysically necessary.
 
-[^note-8]: It is beyond the scope of this entry to enter into the details of Humean recombinability principles. The interested reader is referred to Saucedo (2011) where many of these subtleties about notions and formulations are discussed at length.
+[^note-8]: It is beyond the scope of this entry to enter into the details of Humean recombinability principles. The interested reader is referred to Saucedo (2011)[^saucedo-2011] where many of these subtleties about notions and formulations are discussed at length.
 
-[^note-9]: The possibility of qualitatively heterogenous extended simples was already discussed in the early modern period. Holden (2004: 81) for instance, argues that the popular modern *Doctrine of Actual Parts*—roughly the view that a body is a compound of a definite number of (possibly extended) parts that are independent of the whole or any act of division of said whole—was compatible with both homogeneous and heterogeneous ultimate parts, i.e., mereological simples.
+[^note-9]: The possibility of qualitatively heterogenous extended simples was already discussed in the early modern period. Holden (2004: 81)[^holden-2004] for instance, argues that the popular modern *Doctrine of Actual Parts*—roughly the view that a body is a compound of a definite number of (possibly extended) parts that are independent of the whole or any act of division of said whole—was compatible with both homogeneous and heterogeneous ultimate parts, i.e., mereological simples.
 
-[^note-10]: For further cases in philosophy of religion see Pruss (2009, 2013); Hudson (2010, 2014); Baber (2013); Effingham (2015a); and Pickup (2015).
+[^note-10]: For further cases in philosophy of religion see Pruss (2009, 2013)[^pruss-2009][^pruss-2013]; Hudson (2010, 2014)[^hudson-2010][^hudson-2014]; Baber (2013)[^baber-2013]; Effingham (2015a)[^effingham-2015a]; and Pickup (2015)[^pickup-2015].
 
-[^note-11]: In addition to the works cited elsewhere in this entry, the literature on universals and their relation to space or spacetime includes Russell (1912 [1956]); Moore (1966: 77–86); Bar-Elli (1988: 120–21); Newman (1992); Zimmerman (1997); Lowe (1998, 2006); MacBride (1998); Ehring (2004); Magalhães (2006); Calosi & Varzi (2016); and Mahlan (2018).
+[^note-11]: In addition to the works cited elsewhere in this entry, the literature on universals and their relation to space or spacetime includes Russell (1912 [1956]); Moore (1966: 77–86)[^moore-1966]; Bar-Elli (1988: 120–21)[^bar-elli-1988]; Newman (1992)[^newman-1992]; Zimmerman (1997)[^zimmerman-1997]; Lowe (1998, 2006); MacBride (1998)[^macbride-1998]; Ehring (2004)[^ehring-2004]; Magalhães (2006)[^magalhães-2006]; Calosi & Varzi (2016); and Mahlan (2018)[^mahlan-2018].
 
 [^note-12]: For the purpose of this section, we assume that material objects are neither identical to events nor spacetime regions.
 
-[^note-13]: For more rigorous definitions of temporal parthood and fourdimensionalism, see Sider (2001: 59); Gibson & Pooley (2006: 163); Parsons (2007); Noonan (2009); Balashov (2010: 73); and Kleinschmidt (2011, 2017).
+[^note-13]: For more rigorous definitions of temporal parthood and fourdimensionalism, see Sider (2001: 59)[^sider-2001]; Gibson & Pooley (2006: 163); Parsons (2007)[^parsons-2007]; Noonan (2009)[^noonan-2009]; Balashov (2010: 73)[^balashov-2010]; and Kleinschmidt (2011, 2017)[^kleinschmidt-2011][^kleinschmidt-2017].
 
-[^note-14]: Locational endurantism is endorsed by van Inwagen (1990a, 1990b); Bittner, Donnelly, & Smith (2004); and Sattig (2006), and it is discussed sympathetically in Hawthorne (2006, 2008). Lewis (1999: 227) claims that there are possible worlds at which things endure via multilocation. Gilmore (2006) presents a relativity-based argument against locational endurantism. Gibson and Pooley defend locational endurantism against Gilmore’s argument and others, though they do not positively endorse the view. Gilmore (2007) presents a time-travel based argument in favor of locational endurantism; Eagle (2010a) responds; Gilmore (2010) and Eagle (2010b) are rejoinders. Rychter (2011) and Wasserman (2018) offer a different responses to Gilmore (2007). Balashov (2010) develops a series of detailed relativity based arguments against locational endurantism. Gilmore (2009), Donnelly (2010), and Kleinschmidt (2011) discuss the ways in which standard mereology would need to be modified if locational endurantism were true. Hofweber & Velleman (2011) deny the intelligibility of locational endurantism. Leonard (2018) and Correia (2022) develop versions of locational endurantism that is compatible with absence of exact locations.
+[^note-14]: Locational endurantism is endorsed by van Inwagen (1990a, 1990b)[^inwagen-1990a][^inwagen-1990b]; Bittner, Donnelly, & Smith (2004); and Sattig (2006)[^sattig-2006], and it is discussed sympathetically in Hawthorne (2006, 2008)[^hawthorne-2006][^hawthorne-2008]. Lewis (1999: 227)[^lewis-1999] claims that there are possible worlds at which things endure via multilocation. Gilmore (2006)[^gilmore-2006] presents a relativity-based argument against locational endurantism. Gibson and Pooley defend locational endurantism against Gilmore’s argument and others, though they do not positively endorse the view. Gilmore (2007)[^gilmore-2007] presents a time-travel based argument in favor of locational endurantism; Eagle (2010a)[^eagle-2010a] responds; Gilmore (2010)[^gilmore-2010] and Eagle (2010b)[^eagle-2010b] are rejoinders. Rychter (2011)[^rychter-2011] and Wasserman (2018)[^wasserman-2018] offer a different responses to Gilmore (2007)[^gilmore-2007]. Balashov (2010)[^balashov-2010] develops a series of detailed relativity based arguments against locational endurantism. Gilmore (2009)[^gilmore-2009], Donnelly (2010)[^donnelly-2010], and Kleinschmidt (2011)[^kleinschmidt-2011] discuss the ways in which standard mereology would need to be modified if locational endurantism were true. Hofweber & Velleman (2011) deny the intelligibility of locational endurantism. Leonard (2018)[^leonard-2018] and Correia (2022)[^correia-2022] develop versions of locational endurantism that is compatible with absence of exact locations.
 
 [^note-15]: Minimal Mereology is the mereological systema that only comprises the partial ordering axioms for parthood (*Reflexivity*, *Anti-symmetry* and *Transitivity*). Ground Mereology is the mereological system that is obtained by adding to Minimal Mereology the *Weak Supplementation* principle (if *x* is a proper part of *y*, there is a part of *y* that is disjoint from *x*). Classical Extensional Mereology is the mereological system that comprises the partial ordering axioms and the following two principles—at least on one of its equivalent axiomatizations: *Strong Supplementation* (if *y* is not part of *x*, there is a part of *y* that is disjoint from *x*), and *Unrestricted Composition* (any non-empty plurality has a mereological fusion). Its extensional character is witnessed by the fact that sameness of proper parts is sufficient for identity.
 
 [^note-16]: The original argument has a different modal force: the *possibility* of multilocation is inconsistent with ground mereology for occupants.
 
-[^note-17]: This is called Region Dissection in Calosi (2014) and Calosi & Costa (2015).
+[^note-17]: This is called Region Dissection in Calosi (2014)[^calosi-2014][^calosi-2014-2] and Calosi & Costa (2015).
 
 [^armstrong-1978]: Armstrong, D. M., 1978, *Nominalism and Realism: Universals and Scientific Realism, Volume 1*, New York: Cambridge University Press.
 

@@ -99,7 +99,7 @@ The constructible hierarchy is defined by a similar recursion on the ordinals, w
 
 The *constructible universe* is the class $L = \bigcup_{\alpha\in \Ord} L_{\alpha}$; the members of $L$ are the *constructible sets*. Gödel showed that (assuming the axioms of Zermelo-Fraenkel set theory **ZF**) the structure $(L, \in)$ is a model of **ZF** and also of *AC* as well as the Generalized Continuum Hypothesis). The relative consistency of *AC* with **ZF** follows.
 
-It was also observed by Gödel (1964) (and, independently, by Myhill and Scott 1971, Takeuti 1963 and Post 1951)[^myhill-1971] that a simpler proof of the relative consistency of *AC* can be formulated in terms of *ordinal definability*. If we write $\rD(X)$ for the set of all subsets of $X$ which are first-order definable in the structure $(X, \in)$, then the class OD of *ordinal definable sets* is defined to be the union $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$. The class HOD of *hereditarily ordinal definable sets* consists of all sets $a$ for which $a$, the members of $a$, the members of members of $a$, … etc., are all ordinal definable. It can then be shown that the structure (HOD, $\in$) is a model of **ZF** + *AC* , from which the relative consistency of *AC* with **ZF** again follows.[^note-8]
+It was also observed by Gödel (1964)[^gödel-1964] (and, independently, by Myhill and Scott 1971, Takeuti 1963 and Post 1951)[^myhill-1971] that a simpler proof of the relative consistency of *AC* can be formulated in terms of *ordinal definability*. If we write $\rD(X)$ for the set of all subsets of $X$ which are first-order definable in the structure $(X, \in)$, then the class OD of *ordinal definable sets* is defined to be the union $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$. The class HOD of *hereditarily ordinal definable sets* consists of all sets $a$ for which $a$, the members of $a$, the members of members of $a$, … etc., are all ordinal definable. It can then be shown that the structure (HOD, $\in$) is a model of **ZF** + *AC* , from which the relative consistency of *AC* with **ZF** again follows.[^note-8]
 
 ## 3. Maximal Principles and Zorn’s Lemma
 
@@ -151,7 +151,7 @@ Early applications of *AC* include:
 - Every infinite cardinal number is equal to its square. This was proved equivalent to *AC* in Tarski 1924.
 - Every vector space has a basis (initiated by Hamel 1905)[^hamel-1905]. This was proved equivalent to *AC* in Blass 1984.
 - Every field has an algebraic closure (Steinitz 1910)[^steinitz-1910]. This assertion is weaker than *AC*, indeed is a consequence of the (weaker) compactness theorem for first-order logic (see below).
-- There is a Lebesgue nonmeasurable set of real numbers (Vitali 1905)[^vitali-1905]. This was shown much later to be a consequence of **BPI** (see below) and hence weaker than *AC*. Solovay (1970) established its independence of the remaining axioms of set theory.
+- There is a Lebesgue nonmeasurable set of real numbers (Vitali 1905)[^vitali-1905]. This was shown much later to be a consequence of **BPI** (see below) and hence weaker than *AC*. Solovay (1970)[^solovay-1970] established its independence of the remaining axioms of set theory.
 
 A significant “folklore” equivalent of *AC* is
 
@@ -242,7 +242,7 @@ To resolve the difficulty, we note that in deriving Excluded Middle from **ACL1*
 
 In intuitionistic set theory (that is, set theory based on intuitionistic as opposed to classical logic—we shall abbreviate this as **IST**) and in topos theory the principles of Predicative Comprehension and Extensionality of Functions (both appropriately construed) hold and so there **AC** implies Excluded Middle.[^note-19] ^{,} [^note-20]
 
-The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975) in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
+The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975)[^diaconescu-1975] in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
 
 First, given $U \subseteq A$, an *indicator* for $U$ (in $A$) is a map $g: A \times 2 \rightarrow 2$ satisfying
 

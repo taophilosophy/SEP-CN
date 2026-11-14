@@ -121,7 +121,7 @@ The butler suspects that Milford saved the judge’s life.
 
 Given that the butler’s suspicion is not about the accident, there is a sense in which this belief attribution is not true. It seems infelicitous, if not outright false. This suggests that our imagined assertion of (14) makes a claim about a particular situation that the suspicion is about. In the context of the story, that situation is the one everyone was talking about, and where the judge was rescued from the ditch. Since the butler has no suspicion about such a situation, the person who uttered (14) said something infelicitous or false. If (14) simply said that the butler suspected that there was a situation where Milford saved the judge’s life, the assertion would be true. There is support for the Austinian perspective on assertions and attitude ascriptions, then.
 
-Austinian topic situations (also referred to as “focus situations”, “described situations”, or “reference situations” in the literature) are often non-overt, but the tense of a sentence might give them away. A close look at tenses tells us that topic situations do not always coincide with the situations described by the main predication of a sentence. Klein (1994, 4) imagines a witness who is asked by a judge what she noticed when she looked into the room. The witness answered with (15):
+Austinian topic situations (also referred to as “focus situations”, “described situations”, or “reference situations” in the literature) are often non-overt, but the tense of a sentence might give them away. A close look at tenses tells us that topic situations do not always coincide with the situations described by the main predication of a sentence. Klein (1994, 4)[^klein-1994] imagines a witness who is asked by a judge what she noticed when she looked into the room. The witness answered with (15):
 
 **(15)**
 
@@ -219,7 +219,7 @@ Suppose (23) is uttered to make a claim about the town of Amherst during the las
 
 Whenever it snowed, some local person dreamed that it snowed more than it actually did, and that the local weather channel erroneously reported that it had snowed less, but still more than it snowed in reality.
 
-It is not hard to see that we can complicate such examples indefinitely, and that there would be no end to the number of evaluation indices needed. But that suggests that natural languages have the full power of object language quantification over situations. Quantification over situations is no different from quantification over individuals, then, as far as expressive power is concerned. Since natural languages have syntactically represented individual variables and it would be surprising if they used two different equally powerful quantification mechanisms, it seems to be at least a good bet that there are syntactically represented situation variables in natural languages (but see Cresswell 1990 and Jacobson 1999 for dissenting opinions)[^cresswell-1990][^jacobson-1999]. But then the situations quantified over or referred to in (23), (24) and their kin do not necessarily correspond to “unarticulated constituents”. They are syntactically represented, even though they might happen to be unpronounced. The syntactic representation of situation variables is investigated in Percus 2000, Keshet (2008, 2010), and F. Schwarz (2008, 2012).
+It is not hard to see that we can complicate such examples indefinitely, and that there would be no end to the number of evaluation indices needed. But that suggests that natural languages have the full power of object language quantification over situations. Quantification over situations is no different from quantification over individuals, then, as far as expressive power is concerned. Since natural languages have syntactically represented individual variables and it would be surprising if they used two different equally powerful quantification mechanisms, it seems to be at least a good bet that there are syntactically represented situation variables in natural languages (but see Cresswell 1990 and Jacobson 1999 for dissenting opinions)[^cresswell-1990][^jacobson-1999]. But then the situations quantified over or referred to in (23), (24) and their kin do not necessarily correspond to “unarticulated constituents”. They are syntactically represented, even though they might happen to be unpronounced. The syntactic representation of situation variables is investigated in Percus 2000, Keshet (2008, 2010)[^keshet-2008][^keshet-2010], and F. Schwarz (2008, 2012)[^schwarz-2008][^schwarz-2012].
 
 ## 6. Situations, minimality, and donkey sentences
 
@@ -437,7 +437,7 @@ a. There is more than five tons of mud in this ditch.
 
 42(b) is exemplified by the mud in this ditch, as long as it weighs more than five tons.
 
-Maximalized interpretations for *more than n* and similar kinds of indefinites like *at least n* are discussed in Reinhart 1986, Kadmon (1987, 1990, 2001), Schein 1993, and Landman (2000, 2004). Some of the original observations go back to Evans 1977. As noted by Reinhart and Kadmon, *more than n* noun phrases produce maximality effects of the kind illustrated in (43):
+Maximalized interpretations for *more than n* and similar kinds of indefinites like *at least n* are discussed in Reinhart 1986, Kadmon (1987, 1990, 2001)[^kadmon-1987][^kadmon-1990][^kadmon-2001], Schein 1993, and Landman (2000, 2004)[^landman-2000][^landman-2004]. Some of the original observations go back to Evans 1977. As noted by Reinhart and Kadmon, *more than n* noun phrases produce maximality effects of the kind illustrated in (43):
 
 **(43)**
 
@@ -633,7 +633,7 @@ Whenever a man rides a donkey, the man gives a treat to the donkey.
 
 If the domain for the event quantifier in (62) is established on the basis of some suitable counting criterion, it could quantify over maximal spatiotemporally connected donkey rides. The proposition in (62) can then be exemplified by minimal situations that contain a single man *x* and a single donkey *y* and a maximal spatiotemporally connected event of riding *y* by *x*.
 
-The goal of bringing together situation semantics and Davidsonian event semantics, at least in certain areas, is pursued in a number of works, including Lasersohn (1988, 1990), Zucchi (1988), Portner (1992), Cooper (1997), and Kratzer (1998).
+The goal of bringing together situation semantics and Davidsonian event semantics, at least in certain areas, is pursued in a number of works, including Lasersohn (1988, 1990)[^lasersohn-1988][^lasersohn-1990][^lasersohn-1990-2], Zucchi (1988)[^zucchi-1988], Portner (1992)[^portner-1992], Cooper (1997)[^cooper-1997], and Kratzer (1998)[^kratzer-1998].
 
 ## References（引用注释）
 

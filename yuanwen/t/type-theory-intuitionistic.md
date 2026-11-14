@@ -15,7 +15,7 @@ In this entry, we first give an overview of the most important aspects of intuit
 
 We begin with a bird’s eye view of some important aspects of intuitionistic type theory. Readers who are unfamiliar with the theory may prefer to skip it on a first reading.
 
-The origins of intuitionistic type theory are Brouwer’s intuitionism and Russell’s type theory. Like Church’s classical simple theory of types it is based on a lambda calculus with types, but differs from it in that it uses the propositions-as-types principle, discovered by Curry (1958) for propositional logic and extended to predicate logic by Howard (1980) and de Bruijn (1970). This extension was made possible by the introduction of indexed families of types (dependent types) for representing the predicates of predicate logic. In this way all logical connectives and quantifiers can be interpreted by type formers. In intuitionistic type theory further types are added, such as a type of natural numbers, a type of small types (a universe) and a type of well-founded trees. The resulting theory contains intuitionistic number theory (Heyting arithmetic) and much more.
+The origins of intuitionistic type theory are Brouwer’s intuitionism and Russell’s type theory. Like Church’s classical simple theory of types it is based on a lambda calculus with types, but differs from it in that it uses the propositions-as-types principle, discovered by Curry (1958)[^curry-1958] for propositional logic and extended to predicate logic by Howard (1980)[^howard-1980] and de Bruijn (1970)[^bruijn-1970]. This extension was made possible by the introduction of indexed families of types (dependent types) for representing the predicates of predicate logic. In this way all logical connectives and quantifiers can be interpreted by type formers. In intuitionistic type theory further types are added, such as a type of natural numbers, a type of small types (a universe) and a type of well-founded trees. The resulting theory contains intuitionistic number theory (Heyting arithmetic) and much more.
 
 The theory is formulated in natural deduction where the rules for each type former are classified as formation, introduction, elimination, and equality rules. These rules exhibit certain symmerties between the introduction and elimination rules following Gentzen’s and Prawitz’ treatment of natural deduction, as explained in the entry on proof-theoretic semantics.
 
@@ -87,7 +87,7 @@ Now clearly $B_{x,y}$ is nonempty if and only if $R(x,y)$ holds. (We could have 
 
 The interpretation of relations as families allows for keeping track of proofs or evidence that $R(x,y)$ holds, but we may also chose to ignore it.
 
-In Montague semantics, higher order logic is used to give semantics of natural language (and examples as above). Ranta (1994) introduced the idea to instead employ intuitionistic type theory to better capture sentence structure with the help of dependent types.
+In Montague semantics, higher order logic is used to give semantics of natural language (and examples as above). Ranta (1994)[^ranta-1994] introduced the idea to instead employ intuitionistic type theory to better capture sentence structure with the help of dependent types.
 
 In contrast, how would the mathematical relation $>$ between natural numbers be handled in intuitionistic type theory? First of all we need a type of numbers $\N$. We could in principle introduce an unspecified individual domain $\N$, and then add axioms just as we do in first-order logic when we set up the axiom system for Peano arithmetic. However this would not give us the desirable computational interpretation. So as explained below we lay down introduction rules for constructing new natural numbers in $\N$ and elimination and computation rules for defining functions on $\N$ (by recursion). The standard order relation $>$ should satisfy
 
@@ -171,7 +171,7 @@ This core intuitionistic type theory is not only the original one, but perhaps t
 
 ### 3.1 Judgments
 
-In Martin-Löf (1996) a general philosophy of logic is presented where the traditional notion of judgment is expanded and given a central position. A judgment is no longer just an affirmation or denial of a proposition, but a general act of knowledge. When reasoning mathematically we make judgments about mathematical objects. One form of judgment is to state that some mathematical statement is true. Another form of judgment is to state that something is a mathematical object, for example a set.
+In Martin-Löf (1996)[^martin-löf-1996] a general philosophy of logic is presented where the traditional notion of judgment is expanded and given a central position. A judgment is no longer just an affirmation or denial of a proposition, but a general act of knowledge. When reasoning mathematically we make judgments about mathematical objects. One form of judgment is to state that some mathematical statement is true. Another form of judgment is to state that something is a mathematical object, for example a set.
 
 First-order reasoning may be presented using a single kind of judgment:
 
@@ -211,9 +211,9 @@ can be understood as the judgment that $a$ is a proof-object for the proposition
 
 $$\tag{3}\label{synthetic} \vdash A\; {\rm true}. $$
 
-Remark 3.1. Martin-Löf (1994) argues that Kant’s *analytic judgment a priori* and *synthetic judgment a priori* can be exemplified, in the realm of logic, by ([analytic]) and ([synthetic]) respectively. In the analytic judgment ([analytic]) everything that is needed to make the judgment evident is explicit. For its synthetic version ([synthetic]) a possibly complicated proof construction $a$ needs to be provided to make it evident. This understanding of analyticity and syntheticity has the surprising consequence that “the logical laws in their usual formulation are all synthetic.” Martin-Löf (1994: 95). His analysis further gives:
+Remark 3.1. Martin-Löf (1994)[^martin-löf-1994] argues that Kant’s *analytic judgment a priori* and *synthetic judgment a priori* can be exemplified, in the realm of logic, by ([analytic]) and ([synthetic]) respectively. In the analytic judgment ([analytic]) everything that is needed to make the judgment evident is explicit. For its synthetic version ([synthetic]) a possibly complicated proof construction $a$ needs to be provided to make it evident. This understanding of analyticity and syntheticity has the surprising consequence that “the logical laws in their usual formulation are all synthetic.” Martin-Löf (1994: 95)[^martin-löf-1994]. His analysis further gives:
 
-> “ […] the logic of analytic judgments, that is, the logic for deriving judgments of the two analytic forms, is complete and decidable, whereas the logic of synthetic judgments is incomplete and undecidable, as was shown by Gödel.” Martin-Löf (1994: 97).
+> “ […] the logic of analytic judgments, that is, the logic for deriving judgments of the two analytic forms, is complete and decidable, whereas the logic of synthetic judgments is incomplete and undecidable, as was shown by Gödel.” Martin-Löf (1994: 97)[^martin-löf-1994].
 
 The decidability of the two analytic judgments ($\vdash a{:}A$ and $\vdash a=b{:}A$) hinges on the metamathematical properties of type theory: strong normalization and decidable type checking.
 
@@ -292,7 +292,7 @@ $$A^n = \R(n,1,xy.A \times y) {:} \U$$
 
 This type-theoretic universe $\U$ is analogous to a Grothendieck universe in set theory which is a set of sets closed under all the ways sets can be constructed in Zermelo-Fraenkel set theory. The existence of a Grothendieck universe cannot be proved from the usual axioms of Zermelo-Fraenkel set theory but needs a new axiom.
 
-In Martin-Löf (1975) the universe is extended to a countable hierarchy of universes
+In Martin-Löf (1975)[^martin-löf-1975] the universe is extended to a countable hierarchy of universes
 
 $$\U_0 : \U_1 : \U_2 : \cdots .$$
 
@@ -318,7 +318,7 @@ The reason is that $\Pi x {:} A. \Sigma y {:} B. C$ is the type of functions whi
 
 It is perhaps surprising that intuitionistic type theory directly validates an axiom of choice, since this axiom is often considered problematic from a constructive point of view. A possible explanation for this state of affairs is that the above is an axiom of choice for *types*, and that types are not in general appropriate constructive approximations of sets in the classical sense. For example, we can represent a real number as a Cauchy sequence in intuitionistic type theory, but the set of real numbers is not the type of Cauchy sequences, but the type of Cauchy sequences up to equiconvergence. More generally, a set in Bishop’s constructive mathematics is represented by a type together with an equivalence relation.
 
-If $A$ and $B$ are equipped with equivalence relations, there is of course no guarantee that the choice function, $f$ above, is extensional in the sense that it maps equivalent element to equivalent elements. This is the failure of the *extensional axiom of choice*, see Martin-Löf (2009) for an analysis.
+If $A$ and $B$ are equipped with equivalence relations, there is of course no guarantee that the choice function, $f$ above, is extensional in the sense that it maps equivalent element to equivalent elements. This is the failure of the *extensional axiom of choice*, see Martin-Löf (2009)[^martin-löf-2009] for an analysis.
 
 ## 4. Extensions
 
@@ -353,7 +353,7 @@ In the sequel we will present several extensions of type theory. To keep the pre
 
 As we mentioned above, identity on natural numbers can be defined by primitive recursion. Identity relations on other types can also be defined in the basic version of intuitionistic type theory presented in section 2.
 
-However, Martin-Löf (1975) extended intuitionistic type theory with a uniform primitive identity type former $\I$ for all types. The rules for $\I$ express that the identity relation is inductively generated by the proof of reflexivity, a canonicial constant called $\r$. (Note that $\r$ was coded by the number 0 in the introductory presentation of proof-objects in 2.3). The elimination rule for the identity type is a generalization of identity elimination in predicate logic and introduces an elimination constant $\J$. We here show the formulation due to Paulin-Mohring (1993) rather than the original formulation of Martin-Löf (1975). The inference rules are the following.
+However, Martin-Löf (1975)[^martin-löf-1975] extended intuitionistic type theory with a uniform primitive identity type former $\I$ for all types. The rules for $\I$ express that the identity relation is inductively generated by the proof of reflexivity, a canonicial constant called $\r$. (Note that $\r$ was coded by the number 0 in the introductory presentation of proof-objects in 2.3). The elimination rule for the identity type is a generalization of identity elimination in predicate logic and introduces an elimination constant $\J$. We here show the formulation due to Paulin-Mohring (1993)[^paulin-mohring-1993] rather than the original formulation of Martin-Löf (1975)[^martin-löf-1975]. The inference rules are the following.
 
 $\I$-formation. $$\frac{\Gamma \vdash A \hspace{1em} \Gamma \vdash a {:} A \hspace{1em} \Gamma \vdash a' {:} A} {\Gamma \vdash \I(A,a,a')}$$
 
@@ -383,11 +383,11 @@ $\W$-introduction. $$\frac{\Gamma \vdash a {:} A \hspace{2em} \Gamma, y {:} B[x:
 
 We omit the rules of $\W$-elimination and $\W$-equality.
 
-Adding well-founded trees to intuitionistic type theory increases its proof-theoretic strength significantly (Setzer (1998)).
+Adding well-founded trees to intuitionistic type theory increases its proof-theoretic strength significantly (Setzer (1998)[^setzer-1998]).
 
 ### 4.4 Iterative Sets and CZF
 
-An important application of well-founded trees is Aczel’s (1978) construction of a type-theoretic model of Constructive Zermelo Fraenkel Set Theory. To this end he defines the type of iterative sets as
+An important application of well-founded trees is Aczel’s (1978)[^aczel-1978] construction of a type-theoretic model of Constructive Zermelo Fraenkel Set Theory. To this end he defines the type of iterative sets as
 
 $$\V = \W x {:} \U. x.$$
 
@@ -415,7 +415,7 @@ The general schema does not only cover inductively defined types, but also induc
 
 $$\Gamma \vdash \nil {:} A^0 \hspace{3em} \frac{\Gamma \vdash a {:} A\hspace{2em}\Gamma \vdash as {:} A^n} {\Gamma \vdash \cons(a,as) {:} A^{\s(n)}}$$
 
-The schema for inductive types and families is a type-theoretic generalization of a schema for iterated inductive definitions in predicate logic (formulated in natural deduction) presented by Martin-Löf (1971b). This paper immediately preceded Martin-Löf’s first version of intuitionistic type theory. It is both conceptually and technically a forerunner to the development of the theory.
+The schema for inductive types and families is a type-theoretic generalization of a schema for iterated inductive definitions in predicate logic (formulated in natural deduction) presented by Martin-Löf (1971b)[^martin-löf-1971b]. This paper immediately preceded Martin-Löf’s first version of intuitionistic type theory. It is both conceptually and technically a forerunner to the development of the theory.
 
 It is an essential feature of proof assistants such as Agda and Coq that it enables users to define their own inductive types and families by listing their introduction rules (the types of their constructors). This is much like in typed functional programming languages such as Haskell and the different dialects of ML. However, unlike in these programming languages the schema for inductive definitions in intuitionistic type theory enforces a restriction amounting to well-foundedness of the elements of the defined types.
 
@@ -455,7 +455,7 @@ The consistency of intuitionistic type theory relative to set theory can be prov
 
 Alternatives are realizability models, and for intensional type theory, a model of terms in normal forms. The latter can also be used for proving decidability of the judgments of the theory.
 
-Mathematical models only prove consistency relative to classical set theory (or whatever other meta-theory we are using). Is it possible to be convinced about the consistency of the theory in a more direct way, so called *simple minded consistency* (Martin-Löf 1984)[^martin-löf-1984]? In fact, is there a way to explain what it *means* for a judgment to be correct in a direct *pre-mathematical* way? And given that we know what the judgments mean can we then be convinced that the inference rules of the theory are valid? An answer to this problem was proposed by Martin-Löf in 1979 in the paper “Constructive Mathematics and Computer Programming” (Martin-Löf 1982)[^martin-löf-1982] and elaborated later on in numerous lectures and notes, see for example, Martin-Löf (1984, 1987). These meaning explanations for intuitionistic type theory are also referred to as the *direct semantics*, *intuitive semantics*, *informal semantics*, *standard semantics*, or the *syntactico-semantical* approach to meaning theory.
+Mathematical models only prove consistency relative to classical set theory (or whatever other meta-theory we are using). Is it possible to be convinced about the consistency of the theory in a more direct way, so called *simple minded consistency* (Martin-Löf 1984)[^martin-löf-1984]? In fact, is there a way to explain what it *means* for a judgment to be correct in a direct *pre-mathematical* way? And given that we know what the judgments mean can we then be convinced that the inference rules of the theory are valid? An answer to this problem was proposed by Martin-Löf in 1979 in the paper “Constructive Mathematics and Computer Programming” (Martin-Löf 1982)[^martin-löf-1982] and elaborated later on in numerous lectures and notes, see for example, Martin-Löf (1984, 1987)[^martin-löf-1984][^martin-löf-1987]. These meaning explanations for intuitionistic type theory are also referred to as the *direct semantics*, *intuitive semantics*, *informal semantics*, *standard semantics*, or the *syntactico-semantical* approach to meaning theory.
 
 This meaning theory follows the Wittgensteinian meaning-as-use tradition. The meaning is based on rules for building objects (introduction rules) of types and computation rules (elimination rules) for computing with these objects. A difference from much of the Wittgensteinian tradition is that also higher order types like $\N \rightarrow \N$ are given meaning using rules.
 
@@ -519,7 +519,7 @@ It is a tacit assumption of the meaning explanations that the repeated computati
 
 ### 5.3 The Meaning of Hypothetical Judgments
 
-According to Martin-Löf (1982) the meaning of a hypothetical judgment is reduced to the meaning of the categorical judgments by substituting the closed terms of appropriate types for the free variables. For example, the meaning of
+According to Martin-Löf (1982)[^martin-löf-1982] the meaning of a hypothetical judgment is reduced to the meaning of the categorical judgments by substituting the closed terms of appropriate types for the free variables. For example, the meaning of
 
 $$x_1 {:} A_1, \ldots, x_n {:} A_n \vdash a {:} A$$
 
@@ -539,11 +539,11 @@ are valid.
 
 #### 6.1.1 Hyperdoctrines
 
-Curry’s correspondence between propositions and types was extended to predicate logic in the late 1960s by Howard (1980) and de Bruijn (1970). At around the same time Lawvere developed related ideas in categorical logic. In particular he proposed the notion of a *hyperdoctrine* (Lawvere 1970)[^lawvere-1970] as a categorical model of (typed) predicate logic. A hyperdoctrine is an indexed category $P {:} T^{op} \rightarrow \mathbf{Cat}$, where $T$ is a category with objects representing types and arrows representing terms. If $A$ is a type then $P(A)$ is a category of propositions depending on a variable $x {:} A$. The arrows in this category are proofs $Q \vdash R$ and can be thought of as proof-objects. Moreover, since we have an indexed category, for each arrow $t$ from $A$ to $B$, there is a reindexing functor $P(B) \rightarrow P(A)$representing substitution of $t$ for a variable $y {:} B$. The category $P(A)$ is assumed to be cartesian closed and conjunction and implications are modelled by products and exponentials in this category. The quantifiers $\exists$ and $\forall$ are modelled by the left and right adjoints of the reindexing functor. Moreover, Lawvere added further structure to hyperdoctrines to model identity propositions (as left adjoints to a diagonal functor) and a comprehension schema.
+Curry’s correspondence between propositions and types was extended to predicate logic in the late 1960s by Howard (1980)[^howard-1980] and de Bruijn (1970)[^bruijn-1970]. At around the same time Lawvere developed related ideas in categorical logic. In particular he proposed the notion of a *hyperdoctrine* (Lawvere 1970)[^lawvere-1970] as a categorical model of (typed) predicate logic. A hyperdoctrine is an indexed category $P {:} T^{op} \rightarrow \mathbf{Cat}$, where $T$ is a category with objects representing types and arrows representing terms. If $A$ is a type then $P(A)$ is a category of propositions depending on a variable $x {:} A$. The arrows in this category are proofs $Q \vdash R$ and can be thought of as proof-objects. Moreover, since we have an indexed category, for each arrow $t$ from $A$ to $B$, there is a reindexing functor $P(B) \rightarrow P(A)$representing substitution of $t$ for a variable $y {:} B$. The category $P(A)$ is assumed to be cartesian closed and conjunction and implications are modelled by products and exponentials in this category. The quantifiers $\exists$ and $\forall$ are modelled by the left and right adjoints of the reindexing functor. Moreover, Lawvere added further structure to hyperdoctrines to model identity propositions (as left adjoints to a diagonal functor) and a comprehension schema.
 
 #### 6.1.2 Contextual categories, categories with attributes, and categories with families
 
-Lawvere’s definition of hyperdoctrines preceded intuitionistic type theory but did not go all the way to identifying propositions and types. Nevertheless Lawvere influenced Scott’s (1970) work on *constructive validity*, a somewhat preliminary precursor of intuitionistic type theory. After Martin-Löf (1998 [1972]) had presented a more definite formulation of the theory, the first work on categorical models was presented by Cartmell in 1978 with his notions of category with attributes and contextual category (Cartmell 1986)[^cartmell-1986]. However, we will not define these structures here but instead the closely related *categories with families* (Dybjer 1996)[^dybjer-1996] which are formulated so that they directly model a variable-free version of a formulation of intuitionistic type theory with explicit substitutions.
+Lawvere’s definition of hyperdoctrines preceded intuitionistic type theory but did not go all the way to identifying propositions and types. Nevertheless Lawvere influenced Scott’s (1970)[^scott-1970] work on *constructive validity*, a somewhat preliminary precursor of intuitionistic type theory. After Martin-Löf (1998 [1972]) had presented a more definite formulation of the theory, the first work on categorical models was presented by Cartmell in 1978 with his notions of category with attributes and contextual category (Cartmell 1986)[^cartmell-1986]. However, we will not define these structures here but instead the closely related *categories with families* (Dybjer 1996)[^dybjer-1996] which are formulated so that they directly model a variable-free version of a formulation of intuitionistic type theory with explicit substitutions.
 
 A category with families is a functor  $T {\ :\ } C^{op} \rightarrow \mathbf{Fam}$, where $C$ is the category of contexts and substitutions and $\mathbf{Fam}$ is the category of families of sets. If $\Gamma$ is an object of $C$ (a context), then $T(\Gamma)$ is the family of terms of type $A$ which depend on variables in $\Gamma$. If $\gamma$ is an arrow in $C$ representing a substitution, then the arrow part of the functor represents substitution of $\gamma$ in types and terms. A category with families also has a terminal object and a notion of context comprehension, reminiscent of Lawvere’s comprehension in hyperdoctrines. The terminal object captures the rules for empty contexts and empty substitutions. Context comprehension captures the rules for extending contexts and substitutions, and has projections capturing weakening and assumption of the last variable.
 
@@ -551,7 +551,7 @@ Categories with families are algebraic structures which model the general rules 
 
 #### 6.1.3 Locally cartesian closed categories
 
-From a categorical perspective the above-mentioned structures may appear somewhat special and ad hoc. A more regular structure which gives rise to models of intuitionistic type theory are the locally cartesian closed categories. These are categories with a terminal object, where each slice category is cartesian closed. It can be shown that the pullback functor has a left and a right adjoint, representing $\Sigma$- and $\Pi$-types, respectively. Locally cartesian closed categories correspond to intuitionistic type theory with extensional identity types and $\Sigma$ and $\Pi$-types (Seely 1984, Clairambault and Dybjer 2014)[^clairambault-2014][^seely-1984]. It should be remarked that the correspondence with intuitionistic type theory is somewhat indirect, since a coherence problem, in the sense of category theory, needs to be solved. The problem is that in locally cartesian closed categories type substituion is represented by pullbacks, but these are only defined up to isomorphism, see Curien (1993) and Hofmann (1994).
+From a categorical perspective the above-mentioned structures may appear somewhat special and ad hoc. A more regular structure which gives rise to models of intuitionistic type theory are the locally cartesian closed categories. These are categories with a terminal object, where each slice category is cartesian closed. It can be shown that the pullback functor has a left and a right adjoint, representing $\Sigma$- and $\Pi$-types, respectively. Locally cartesian closed categories correspond to intuitionistic type theory with extensional identity types and $\Sigma$ and $\Pi$-types (Seely 1984, Clairambault and Dybjer 2014)[^clairambault-2014][^seely-1984]. It should be remarked that the correspondence with intuitionistic type theory is somewhat indirect, since a coherence problem, in the sense of category theory, needs to be solved. The problem is that in locally cartesian closed categories type substituion is represented by pullbacks, but these are only defined up to isomorphism, see Curien (1993)[^curien-1993] and Hofmann (1994)[^hofmann-1994].
 
 ### 6.2 Set-Theoretic Models
 
@@ -609,7 +609,7 @@ $$\frac{\Gamma\vdash c {:} \I(A,a,a')} {\Gamma \vdash a=a' {:} A} \hspace{3em} \
 
 The first causes the distinction between propositional and judgmental equality to disappear. The second forces identity proofs to be unique. Unlike the rules for the intensional identity type former, the rules for extensional identity types do not fit into the schema for inductively defined types mentioned above.
 
-These rules are however justified by the meaning explanations in Martin-Löf (1982). This is because the categorical judgment
+These rules are however justified by the meaning explanations in Martin-Löf (1982)[^martin-löf-1982]. This is because the categorical judgment
 
 $$\vdash c {:} \I(A,a,a')$$
 
@@ -635,7 +635,7 @@ Intuitionistic type theory is not intended to model Brouwer’s notion of *free 
 
 ### 7.4 Impredicative Type Theory
 
-The inconsistent version of intuitionistic type theory of Martin-Löf (1971a) was based on the strongly impredicative axiom that there is a type of all types. However, (Coquand and Huet 1988)[^coquand-1988] showed with their calculus of constructions, that there is a powerful impredicative but consistent version of type theory. In this theory the universe $\U$ (usually called ${\bf Prop}$ in this theory) is closed under the following formation rule for cartesian product of families of types:
+The inconsistent version of intuitionistic type theory of Martin-Löf (1971a)[^martin-löf-1971a] was based on the strongly impredicative axiom that there is a type of all types. However, (Coquand and Huet 1988)[^coquand-1988] showed with their calculus of constructions, that there is a powerful impredicative but consistent version of type theory. In this theory the universe $\U$ (usually called ${\bf Prop}$ in this theory) is closed under the following formation rule for cartesian product of families of types:
 
 $$\frac{\Gamma \vdash A \hspace{2em} \Gamma, x {:} A \vdash B {:} \U} {\Gamma \vdash \Pi x {:} A. B {:} \U}$$
 
