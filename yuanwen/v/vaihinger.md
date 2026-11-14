@@ -160,6 +160,22 @@ One may also worry that, throughout the *PAO*, Vaihinger has reverted to a crude
 
 empiricism: logical | fictionalism | Helmholtz, Hermann von | impossible worlds | Kant, Immanuel | Lange, Friedrich Albert | models in science | pragmatism | Schopenhauer, Arthur
 
+[^vaihinger-1876]: 1876, *Hartmann, Dühring, und Lange: zur Geschichte der deutschen Philosophie im XIX. Jahrhundert. Ein kritischer Essay*, Iserlohn: Baedeker.
+
+[^vaihinger-1881]: 1881–92, *Commentar zu Kants Kritik der reinen Vernunft*, Stuttgart: Spemann.
+
+[^vaihinger-1902]: 1902, *Die transcendentale Deduktion der Kategorien*, Halle: Niemeyer.
+
+[^vaihinger-1905]: 1905, *Nietzsche als Philosoph*, Berlin: Reuter & Reichard.
+
+[^vaihinger-1921a]: 1921a, “Ist die Philosophie des Als Ob Skeptizismus?” *Annalen der Philosophie*, 2: 532–37.
+
+[^vaihinger-1921b]: 1921b, “Wie die Philosophie des Als-Ob entstand,” in Schmidt (ed.), 1921, *Die deutsche Philosophie der Gegenwart in Selbstdarstellungen*, Leipzig: Meiner.
+
+[^vaihinger-1922]: 1922, *Die Philosophie des Als Ob: System der theoretischen, praktischen und religiösen Fiktionen der Menschheit auf Grund eines idealistischen Positivismus. Mit einem Anhang über Kant und Nietzsche*, siebente und achte Auflage, Leipzig: Meiner.
+
+[^vaihinger-1925]: 1925, *The Philosophy of “As If”: A System of the Theoretical, Practical and Religious Fictions of Mankind*, translation of *Die Philosophie des Als Ob* by C.K. Ogden, New York: Harcourt, Brace & Co.; reprinted, Petoskey, MI: Random Shack, 2015.
+
 [^cohen-1871]: Cohen, H., 1871, *Kants Theorie der Erfahrung*, Berlin: Dümmler.
 
 [^kant-1900]: Kant, I., 1900–, *Kants gesammelte Schriften*, 29 volumes, edited by Königlich-Preussische Akademie der Wissenschaften, Berlin: de Gruyter.
