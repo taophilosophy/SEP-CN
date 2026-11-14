@@ -377,7 +377,7 @@
 | argument of the bad lot | — | 坏堆论证（bad lot；best of a bad lot 坏堆中的最佳） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | argument pattern | — | 论证模式 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
 | argument-text | — | 论证文本 | schema | 构词直译（Corcoran 术语：argument 论证、text 文本） | 2026-11-06 |
-| arhat | अर्हत् | 阿罗汉 | 首现（buddha） | 佛学界通行译名（亦作“罗汉”）；凭证 2026-11-12；原文列联网查证：Monier-Williams《梵英辞典》arhat/arhant 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
+| arhat | अर्हत् |阿罗汉（亦作“罗汉”）| 首现（buddha） | 佛学界通行译名（亦作“罗汉”）；凭证 2026-11-12；原文列联网查证：Monier-Williams《梵英辞典》arhat/arhant 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | Aristotelian categories | — | 亚里士多德范畴 | 语料回收（标题词） | 学界惯例（希腊哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Aristotelianism | — | 亚里士多德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | arithmetical completeness/soundness | — | 算术完全性／算术可靠性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
@@ -718,7 +718,7 @@
 | canonical proof | — | 规范证明 | logical-consequence | Prawitz 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | canonically conjugate | — | 正则共轭 | qt-entangle | 审定名词库（物理学名词）；凭证 2026-11-09 | 2026-11-09 |
 | Cantian | — | 不能论 | imaginative-resistance | 首译（Gendler 2006 术语 can’t 派）；凭证 2026-11-12 | 2026-11-12 |
-| capability approach | — | 可行能力进路 | 首现（justice-virtue） | 学界惯例（Sen/Nussbaum 通行，亦作“能力进路”）；凭证 2026-11-02 | 2026-11-02 |
+| capability approach | — |可行能力进路（亦作“能力进路”）| 首现（justice-virtue） | 学界惯例（Sen/Nussbaum 通行，亦作“能力进路”）；凭证 2026-11-02 | 2026-11-02 |
 | capable human being | — | 有能力的人 | ricoeur | 利科核心术语（homme capable，《作为一个他者的自身》）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | capacity to benefit | — | 受益能力（直接受益能力） | disability-care-rationing | 生物伦理学界通行（CEA 语境：从医疗资源受益的能力）；凭证 2026-11-08 | 2026-11-08 |
 | capital-output ratio | — | 资本—产出比 | ramsey-economics | 发展经济学通行（Behrman 2001 语境）；凭证 2026-11-11 | 2026-11-11 |
@@ -1039,7 +1039,7 @@
 | connotative concept | — | 意涵概念 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | connotative term / connotatio | — | 含蓄词项（首现括注 *connotatio*） | ockham | 王路译本《逻辑大全》（商务印书馆汉译名著）作“含蓄的名”；term 统一作“词项”沿登记册惯例（范畴词/非范畴词系）；Panaccio 中译作“暗含”备查；凭证 2026-11-07 | 2026-11-07 |
 | conscience | — | 良心（亦作“良知”） | conscience 首译 | 学界通行（伦理学术语；哲学词典与伦理学教材通译“良心”，与孟子学“良知”相区别；本词条锁定“良心”）；凭证 2026-11-08；待 specs/008 审定库复核 | 2026-11-08 |
-| conscientious objection | — | 依良心拒绝 | conscience 首译 | 学界通行（生命伦理学与法哲学文献通译“依良心拒绝”，亦作“良心拒绝”；本词条锁定前者）；凭证 2026-11-08 | 2026-11-08 |
+| conscientious objection | — |依良心拒绝（亦作“良心拒绝”）| conscience 首译 | 学界通行（生命伦理学与法哲学文献通译“依良心拒绝”，亦作“良心拒绝”；本词条锁定前者）；凭证 2026-11-08 | 2026-11-08 |
 | conscientiousness | — | 尽责性（亦作“严谨性”） | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10；2026-11-15 联网复核补亦作（学术标准形“尽责性”（大五量表系），“严谨性”为审定/他量表形） | 2026-11-15 |
 | conscious automata | — | 有意识的自动机 | 首现（zombies） | 学界惯例（赫胥黎用语通译）；凭证 2026-11-10 | 2026-11-10 |
 | conscious experience | — | 意识经验 | 语料回收 | 学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-29）；审定库命中医学域“意识性体验”不采（凭证 2026-10-29） | 2026-10-29 |
@@ -1799,7 +1799,7 @@
 | ethical idealism | — | 伦理观念论 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | ethical intention | — | 伦理意图 | ricoeur | 利科术语（intention éthique）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | ethical intuitionism | — | 伦理直觉主义 | 首现（intuitionism-ethics） | 学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08 | 2026-11-08 |
-| Ethical Life | Sittlichkeit | 伦理生活 | hegel-social-political | 学界通行汉译（Sittlichkeit；亦作“伦理”） | 2026-11-10 |
+| Ethical Life | Sittlichkeit |伦理生活（亦作“伦理”）| hegel-social-political | 学界通行汉译（Sittlichkeit；亦作“伦理”） | 2026-11-10 |
 | ethical skill | — | 伦理技能 | 首现（justice-virtue） | 学界惯例（Widlok 直译）；凭证 2026-11-02 | 2026-11-02 |
 | ethical state | — | 伦理国家 | gramsci | 葛兰西术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Ethics | — | 伦理学 | 语料回收（词汇表并网） | 作学科名与书名（斯宾诺莎《伦理学》）；《模糊性的道德》随已出版书名译“道德”；词汇表并网（ADR-0036） | 2026-11-13 |
@@ -1809,7 +1809,7 @@
 | Ethology | Ethology | 性格学 | george-eliot 首译 | 密尔术语，学界通行（人性格之学） | 2026-11-12 |
 | etiamsi daremus | etiamsi daremus | 即使我们承认（无神） | grotius | 学界通行（格劳秀斯命题专名，正文保留拉丁原词）；凭证 2026-11-12 | 2026-11-12 |
 | etiological (aspect of explanation) | — | 病因学 | 首译（scientific-explanation-20th） | 本库首译（Salmon 之 etiological/constitutive 对）；凭证 2026-11-10 | 2026-11-10 |
-| etiology | — | 病因学 | cancer | 学界通行（医学；亦作“病因”语境义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| etiology | — |病因学（亦作“病因”）| cancer | 学界通行（医学；亦作“病因”语境义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | eudaimonia | εὐδαιμονία | 幸福（亦作“繁盛”） | 语料回收 | 学界惯例（亚里士多德译本通行）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
 | eudaimonism | — | 幸福论 | 首现（justice-virtue） | 学界惯例（希腊伦理）；凭证 2026-11-02 | 2026-11-02 |
 | eugenics | — | 优生学 | genetics | 遗传学史术语，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -4154,7 +4154,7 @@
 | phenomenology of mind | — | 精神现象学（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
 | phenotype | — | 表型 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | Philebus | — |《斐莱布篇》（亦作“菲莱布篇”）| epicurus | 学界通行（柏拉图；亦作“菲莱布篇”） | 2026-11-12 |
-| philia | φιλία | 友爱 | epicurus | 学界通行（亦作“爱”；friendship 友谊 为对应词条名） | 2026-11-12 |
+| philia | φιλία |友爱（亦作“爱”）| epicurus | 学界通行（亦作“爱”；friendship 友谊 为对应词条名） | 2026-11-12 |
 | philology | — | 语文学 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
 | philonikia | — | 好胜（philonikia，φιλονικία） | zeno-elea | 学界惯例（“爱胜”/“好胜”通行，取好胜）；凭证 2026-11-09 | 2026-11-09 |
 | philosophia perennis | — | 常青哲学 | antonio-rosmini | 中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列） | 2026-11-07 |
@@ -4848,7 +4848,7 @@
 | revisionary | — | 修正式 | paradox-of-tragedy | 学界惯例（修正式解答）；凭证 2026-11-10 | 2026-11-10 |
 | Revolutions | — | 革命 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | reward system | — | 奖赏系统 | epiphenomenalism | 神经科学义译（reward system）；凭证 2026-11-12 | 2026-11-12 |
-| rewilding | — | 再野化 | 首现（environmental-aesthetics） | 生态学通行（亦作“野化”备查） | 2026-11-08 |
+| rewilding | — |再野化（亦作“野化”）| 首现（environmental-aesthetics） | 生态学通行（亦作“野化”备查） | 2026-11-08 |
 | rhapsode | — | 诵诗人 | 首现（xenophanes） | 学界通行（古希腊职业诵诗者）；凭证 2026-11-07 | 2026-11-07 |
 | Rhetoric | — | 《修辞学》 | marsilius-padua | 学界通行汉译（亚里士多德著作）；凭证 2026-11-08 | 2026-11-08 |
 | rhythm | — | 韵律（黑尔《一元论论纲》核心词） | hare.supplement | 主会话收口 ad82d512；凭证 2026-11-04 | 2026-11-04 |
@@ -4968,7 +4968,7 @@
 | samudghāta | समुद्घात | 灭除投射 | jaina-philosophy | 本库自拟（源文自注 extermination） | 2026-11-08 |
 | saṃvara | संवर | 遮止 | jaina-philosophy | 耆那教学界通行（遮止业质流入） | 2026-11-08 |
 | samyak carita | सम्यक् चरित | 正行 | jaina-philosophy | 耆那教三宝（正见／正智／正行）通行译法 | 2026-11-08 |
-| saṃyoga | संयोग | 连合 | early-modern-india | 胜论性质/关系通行义译（conjunction；亦作“合”）；凭证 2026-11-10 | 2026-11-10 |
+| saṃyoga | संयोग |连合（亦作“合”）| early-modern-india | 胜论性质/关系通行义译（conjunction；亦作“合”）；凭证 2026-11-10 | 2026-11-10 |
 | saṃyukta-samavāya | संयुक्तसमवाय | 连合者中的和合（连合中之和合） | early-modern-india | 正理六种感官连接义译（inherence-in-the-conjoined）；凭证 2026-11-10；六种感官连接之二（校 2026-11-11）| 2026-11-10 |
 | saṃyukta-samaveta-samavāya | संयुक्तसमवेतसमवाय | 连合者中和合者中的和合 | early-modern-india | 同上系列（inherence-in-the-inherent-in-the-conjoined）；凭证 2026-11-10；六种感官连接之三（校 2026-11-11）；原文列联网查证：Monier-Williams《梵英辞典》 lnum 225740（p. 1112,2），csl-devanag（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Sanbu-sho | 三部書 | 三部书 | kukai | 空海三部论著传统统称 | 2026-11-09 |
@@ -5807,7 +5807,7 @@
 | therapeutic misconception | — | 治疗性误解 | informed-consent | 学界通行（Appelbaum 等临床试验研究术语） | 2026-11-12 |
 | therapeutic privilege | — | 治疗特权 | informed-consent | 学界惯例（不披露的治疗性法律抗辩） | 2026-11-12 |
 | thermodynamic time asymmetry | — | 热力学时间非对称性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
-| theurgy | — | 通神术 | 首现（porphyry） | 学界通行（晚期希腊宗教—新柏拉图主义术语；亦作“神术”）；凭证 2026-11-11 | 2026-11-11 |
+| theurgy | — |通神术（亦作“神术”）| 首现（porphyry） | 学界通行（晚期希腊宗教—新柏拉图主义术语；亦作“神术”）；凭证 2026-11-11 | 2026-11-11 |
 | thick concept | — | 厚概念 | anscombe 首现 | 学界通行（Williams 道德概念；与 thin concept 薄概念对举）；凭证 2026-11-12 | 2026-11-12 |
 | Thick Ethical Concepts | — | 厚伦理概念 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | thin | — | 薄（的） | 语料回收（词汇表并网） | 威廉姆斯 thick/thin ethical concepts 即“厚/薄”伦理概念；旧表“瘦”系误译；词汇表并网（ADR-0036） | 2026-11-13 |
