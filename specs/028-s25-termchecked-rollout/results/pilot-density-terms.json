@@ -20,7 +20,16 @@
    "Aspects of Diagonalization and Provability",
    "Automated Reasoning with Analytic Tableaux and Related Methods: 30th International Conference, TABLEAUX 2021"
   ],
-  "unreg_count": 109
+  "unreg_count": 109,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "$\\omega$-一致的",
+   "$\\omega$-可证性",
+   "Acta Philosophica Fennica",
+   "Advances in Modal Logic",
+   "An Essay in Classical Modal Logic",
+   "Annals of Mathematical Logic"
+  ]
  },
  {
   "slug": "intuitionism",
@@ -43,7 +52,16 @@
    "Choice sequences",
    "Collected works I"
   ],
-  "unreg_count": 67
+  "unreg_count": 67,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "Afdeeling Letterkunde",
+   "Annals of Mathematical Logic",
+   "Annals of Pure and Applied Logic",
+   "Archive for Mathematical Logic",
+   "BI_{D}",
+   "Brouwer meets Husserl: On the phenomenology of choice sequences"
+  ]
  },
  {
   "slug": "epsilon-calculus",
@@ -66,7 +84,16 @@
    "Canadian Journal of Philosophy",
    "Choice Functions in Semantics"
   ],
-  "unreg_count": 77
+  "unreg_count": 77,
+  "unreg_real": 10,
+  "unreg_real_samples": [
+   "A Survey of Mathematical Logic",
+   "Abhandlungen aus dem Seminar der Hamburgischen Universität",
+   "Acta Philosophica Fennica",
+   "Anaphora and Definite Descriptions: Two Applications of Game-Theoretical Semantics",
+   "Annals of Pure and Applied Logic",
+   "Annals of the Japan Association for Philosophy of Science"
+  ]
  },
  {
   "slug": "boolalg-math",
@@ -85,7 +112,14 @@
    "} x + (x \\cdot y) &= x \\\\ x \\cdot(x + y) &= x \\\\ x + (-x) &= 1 \\\\ x \\cdot(-x) &= 0 \\end{align",
    "} {\\lVert x \\in y \\rVert} &= \\sum_{t \\in \\text{定义域}(y)} {\\lVert x=t \\rVert}\\cdot y(t) \\\\ {\\lVert x \\subseteq y \\rVert} &= \\prod_{t \\in \\text{定义域}(x)} -x(t) + {\\lVert t \\in y \\rVert} \\\\ {\\lVert x = y \\rVert} &= {\\lVert x \\subseteq y \\rVert} \\cdot {\\lVert y \\subseteq x \\rVert} \\\\ {\\lVert \\neg \\phi \\rVert} &= -{\\lVert \\phi \\rVert} \\\\ {\\lVert \\phi \\vee \\psi \\rVert} &= {\\lVert \\phi \\rVert} + {\\lVert \\psi \\rVert} \\\\ {\\lVert \\exists x\\phi(x) \\rVert} &= \\sum_{a \\in V(B)} {\\lVert \\phi(a) \\rVert}. \\end{align"
   ],
-  "unreg_count": 8
+  "unreg_count": 8,
+  "unreg_real": 4,
+  "unreg_real_samples": [
+   "Cardinal Invariants on Boolean Algebras, Second Revised Edition",
+   "Handbook of Boolean algebras",
+   "Lectures on Boolean Algebras",
+   "Nearly projective Boolean algebras"
+  ]
  },
  {
   "slug": "diodorus-cronus",
@@ -108,7 +142,16 @@
    "Die Megariker. Kommentierte Sammlung der Testimonien",
    "Die Schüle Des Aristoteles"
   ],
-  "unreg_count": 47
+  "unreg_count": 47,
+  "unreg_real": 6,
+  "unreg_real_samples": [
+   "Anthropine Sophia. Studi Di Filologia e Storiografia Filosofica in Memoria Di Gabriele Giannantoni",
+   "Dialectic after Plato and Aristotle",
+   "Dialektiker Und Stoiker",
+   "Die Megariker. Kommentierte Sammlung Der Testimonien",
+   "Die Megariker. Kommentierte Sammlung der Testimonien",
+   "Die Schüle Des Aristoteles"
+  ]
  },
  {
   "slug": "august-rehberg",
@@ -131,7 +174,16 @@
    "Grundlegung aus dem Ich: Untersuchungen zur Vorgeschichte des Idealismus",
    "Historische Zeitschrift"
   ],
-  "unreg_count": 36
+  "unreg_count": 36,
+  "unreg_real": 10,
+  "unreg_real_samples": [
+   "A.W. Rehberg, ein hannoverscher Staatsmann im Zeitalter der Restauration",
+   "Aufklärung",
+   "Berlinische Monatsschrift",
+   "Cato.",
+   "Edmund Burke in Deutschland",
+   "Entstehung des Historismus"
+  ]
  },
  {
   "slug": "bayle",
@@ -154,7 +206,16 @@
    "Commentaire Philosophique",
    "Correspondance de Pierre Bayle"
   ],
-  "unreg_count": 63
+  "unreg_count": 63,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "An Enquiry concerning Human Understanding and Other Writings",
+   "Analisi della fede e critica della ragione nella filosofia di Pierre Bayle",
+   "Archiv für Geschichte der Philosophie",
+   "Bayle",
+   "Bayle Corpus–Oeuvres completes",
+   "Bayle philosophe"
+  ]
  },
  {
   "slug": "delmedigo",
@@ -177,7 +238,16 @@
    "Documenti e studi sulla tradizione filosofica medievale",
    "Elijah Del Medigo and Paduan Aristotelianism: Investigating the Human Intellect"
   ],
-  "unreg_count": 45
+  "unreg_count": 45,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "Annotationes in librum De phisico auditu super quibusdam dictis Commentatoris",
+   "Annotationes in librum De phisico auditu super quibusdam dictis. Commentatoris",
+   "Averroes et les Averroismes juif et latin",
+   "Beḥinat ha-Dat",
+   "Bulletin of the Institute of Classical Studies",
+   "Commentary on the De substantia orbis"
+  ]
  },
  {
   "slug": "ehrenfels",
@@ -200,7 +270,16 @@
    "Contributions to the Analysis of Sensations",
    "Das Primzahlengesetz"
   ],
-  "unreg_count": 101
+  "unreg_count": 101,
+  "unreg_real": 12,
+  "unreg_real_samples": [
+   "Academic Wagner Society",
+   "Allgemeine Werttheorie, Psychologie des Begehrens",
+   "Austrian Economics: Historical and Philosophical Background",
+   "Austrian Phenomenology: Brentano, Husserl, Meinong, and Others on Mind and Object",
+   "Austrian Philosophy and Analytic Philosophy",
+   "Austrian Philosophy: The Legacy of Franz Brentano"
+  ]
  },
  {
   "slug": "intensional-trans-verbs",
@@ -223,7 +302,11 @@
    "(woollen(sweater))",
    "Abstract Objects and the Semantics of Natural Language"
   ],
-  "unreg_count": 132
+  "unreg_count": 132,
+  "unreg_real": 1,
+  "unreg_real_samples": [
+   "Abstract Objects and the Semantics of Natural Language"
+  ]
  },
  {
   "slug": "locke-on-medicine",
@@ -246,7 +329,16 @@
    "Early Science and Medicine",
    "Eighteenth-Century Thought"
   ],
-  "unreg_count": 46
+  "unreg_count": 46,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "An Essay Concerning Human Understanding",
+   "An Essay Concerning Humane Understanding",
+   "Annals of Science",
+   "Bibliothèque Choisie, pour servir de suite à la Bibliothèque Universelle",
+   "British Journal for the History of Philosophy",
+   "Cerebri Anatome"
+  ]
  },
  {
   "slug": "obligationes",
@@ -269,7 +361,16 @@
    "Documenti e Studi sulla Tradizione Filosofica Medievale",
    "Formalizing Medieval Logical Theories"
   ],
-  "unreg_count": 66
+  "unreg_count": 66,
+  "unreg_real": 12,
+  "unreg_real_samples": [
+   "Archives d’histoire doctrinale et littéraire du moyen âge",
+   "Argumentation",
+   "Cambridge Companion to Medieval Logic",
+   "Con l’edizione del trattato ‘Obligationes’ di Guglielmo Buser",
+   "Consequences, Obligations and Insolubles",
+   "De arte obligatoria"
+  ]
  },
  {
   "slug": "quantum-bayesian",
@@ -292,7 +393,16 @@
    "Journal of Mathematical Physics",
    "Journal of Philosophy"
   ],
-  "unreg_count": 50
+  "unreg_count": 50,
+  "unreg_real": 11,
+  "unreg_real_samples": [
+   "Albert Einstein: Philosopher-Scientist",
+   "American Journal of Physics",
+   "Articulating Reasons: An Introduction to Inferentialism",
+   "British Journal for the Philosophy of Science",
+   "Coming of Age With Quantum Information: Notes on a Paulian Idea",
+   "Foundations of Physics"
+  ]
  },
  {
   "slug": "redistribution",
@@ -315,7 +425,16 @@
    "Metaphilosophy",
    "National Responsibility and Global Justice"
   ],
-  "unreg_count": 42
+  "unreg_count": 42,
+  "unreg_real": 12,
+  "unreg_real_samples": [
+   "A Republic of Equals",
+   "An Essay on Rights",
+   "Anarchy, State, and Utopia",
+   "Ethics & International Affairs",
+   "Foreign Policy",
+   "International Society"
+  ]
  },
  {
   "slug": "ricoeur",
@@ -338,6 +457,15 @@
    "De l’interprétation. Essai sur Freud",
    "Dennett and Ricoeur on the Narrative Self"
   ],
-  "unreg_count": 148
+  "unreg_count": 148,
+  "unreg_real": 12,
+  "unreg_real_samples": [
+   "A Companion to Ricoeur’s Fallible Man",
+   "A Companion to Ricoeur’s Freedom and Nature",
+   "A Companion to Ricoeur’s The Symbolism of Evil",
+   "A Passion for the Possible: Thinking with Paul Ricoeur",
+   "A Ricoeur Reader: Reflection and Imagination",
+   "Being, Essence and Substance in Plato and Aristotle"
+  ]
  }
 ]
