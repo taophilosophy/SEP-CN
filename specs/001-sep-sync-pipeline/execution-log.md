@@ -211,3 +211,16 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **产出**：results/actual-compare-20261115.{json,md}（逐件摘录）；results/update-dispatch-20261115.md（派工单：done 5 件走变更段、s2.5_checked 4 件挂现有流水、存根 30 件翻译时自带、仅链接/页框 32 件备查）。
 * **过程**：批量两轮假失败根因=队列文件 CRLF（slug 带 \r 不在 baseline）——python 写行序文件必须 newline='\n'；错误 stdout 被覆盖丢过一轮证据，改逐件落盘。
 * **待裁定**（派工单 §E）：done 5 件 rework-open vs reopen；勘误在账件（emotion-Christian-tradition 等）随迁次序。
+
+## 2026-11-15（同步执行：72 条真漂移落 en/＋markdown 镜像；9 件按裁定 reopen）
+
+* **裁定**：用户三点——先同步到 en markdown；done 的 reopen；勘误在账组也 reopen。
+* **执行**：
+  1. 集合划分：72∩分歧账=4 件（academic-freedom／emotion-Christian-tradition／incompatibilism-theories／logic-provability）走 carry，其余 68 件走 fetch_entry 包级同步（串行礼貌间隔）；
+  2. carry 三方合并：3 件干净随迁（冲突 0、快照归档 upstream-snapshots/、钉前移、账目换 base_snapshot 锚）；emotion-Christian-tradition 冲突 3 处人工裁定——①Bash 年份保留我方 2020（上游正文 2019 仍与其书目 2020 自相矛盾，②类）②Lazarus 取 theirs 结构但 1993→1991（上游书目 1991 未改，②类仍在）③Robinson/Pelser 取 theirs（上游自修标点并新增 Pelser 2017 条目，我方 ①类勘误被覆盖失效）；解决件 --merged 复跑随迁成功；
+  3. 68 件 fetch 全成（unchanged 守卫自动跳过已同步者，abhidharma 等 11-09 已重抓件零动作）；yuanwen.py 72 件镜像再生 0 失败；
+  4. reopen：done 5 件（academic-freedom/closure-epistemic/genetics/it-moral-values/saadya）→ pending；s2.5_checked 4 件被状态机硬拦（reopen 仅限 done，禁跳步）——按派工单 A2 挂 changes: 证据随现有流水吸收。
+* **重大发现**：closure-epistemic 与 saadya 被上游**同 slug 换血重发**（新作者 Alspector-Kelly/Hegedus，首发 2026-11-04/11-12）——中文译文整体失效，升级为重译级（派工单已加 ⚠ 注记）；kant-leibniz 为正常实质修订（2026-11-14）。三件 zh 题注机械对齐新 baseline（check_academic pubinfo-mismatch 3→0）。
+* **过程**：他会（M2）已在 0045 语义上自行作业——修正我方误回修的假分歧（abhidharma 等 11-09 合法重抓件钉复位、假登记清理）并新登记 bradley-moral/hutcheson 等；本轮 fetch/yuanwen/reopen 成果照例被其合并提交收编，逐件核验完好。
+* **验收**：divergence verify --deep 全绿（78 件）；baseline_audit ok 4445+divergent 78+fail 0；check_all 11 项全绿。
+* **移交**：9 件 reopen 任务按 compare/ 变更文件作业（4 件重译/更新级中 closure-epistemic、saadya 为重译级）；72 件中 30 件存根随翻译战役自带。
