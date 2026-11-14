@@ -106,7 +106,7 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 例如，考虑算术的语言，带有符号 $0$、$1$、$+$、$\times$、$\lt$。除了定义基本符号的无量词公理之外，还可以规定 epsilon 项 $\varepsilon x A(x)$ 挑出满足 $A$ 的最小值（如果存在），用以下公理：$$ \tag{*} A(x) \rightarrow A(\varepsilon x A(x)) \wedge \varepsilon x A(x) \le x $$ 由此得到的系统足以解释一阶（Peano）算术。另一种选择是取 epsilon 符号满足以下公理：$$ A(y) \rightarrow A(\varepsilon x A(x)) \wedge \varepsilon x A(x) \ne y + 1. $$
 
-换言之，如果存在任何满足 $A(y)$ 的见证 $y$，epsilon 项返回一个其前驱不具有同一性质的值。显然，星标公式所描述的 epsilon 项满足备选公理；反之，可以验证：给定 $A$，满足备选公理的 $\varepsilon x (\exists z \le x A(x))$ 的一个值可用来解释 (**) 中的 $\varepsilon x A(x)$。还可以用公理 $$ \varepsilon x A(x) \ne 0 \rightarrow A(\varepsilon x A(x)) $$ 进一步固定 epsilon 项的含义，该公式要求：若 $A$ 没有见证，则 epsilon 项返回 0。但为了下文的讨论，最方便的做法是仅聚焦于 (*)。
+换言之，如果存在任何满足 $A(y)$ 的见证 $y$，epsilon 项返回一个其前驱不具有同一性质的值。显然，星标公式所描述的 epsilon 项满足备选公理；反之，可以验证：给定 $A$，满足备选公理的 $\varepsilon x (\exists z \le x A(x))$ 的一个值可用来解释 (*) 中的 $\varepsilon x A(x)$。还可以用公理 $$ \varepsilon x A(x) \ne 0 \rightarrow A(\varepsilon x A(x)) $$ 进一步固定 epsilon 项的含义，该公式要求：若 $A$ 没有见证，则 epsilon 项返回 0。但为了下文的讨论，最方便的做法是仅聚焦于 (*)。
 
 假设我们想证明上述系统是一致的；换言之，我们想证明不存在公式 $0 = 1$ 的证明。通过把所有代入推到公理上、并把自由变项替换为常项 0，只需证明：从公理的有限多个闭实例出发，不存在 $0 = 1$ 的命题证明。为此，只需证明：给定任何有限多个公理的闭实例，可以给项指派数值使得所有公理在该解释下为真。由于算术运算 $+$ 与 $\times$ 可以按通常方式解释，唯一的困难在于找到适当的值来指派给 epsilon 项。
 
@@ -118,7 +118,7 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 一旦以有穷上可接受的方式表明这一逐次“修复”的过程终止，就得到了有穷主义一致性证明。如果确实终止，所有关键公式都是不含 epsilon 项的真公式。
 
-这一基本想法（“希尔伯特式设准”）由希尔伯特在其 1922 年讲演（1923）中首次提出，并在 1922–23 年的讲义中得到 elaboration。不过，那里给出的例子仅处理所有超限公理实例对应于单一 epsilon 项 $\varepsilon x A(x)$ 的证明。挑战在于把这一进路扩展到多个 epsilon 项、嵌套 epsilon 项，并最终扩展到二阶 epsilon（以便获得不仅算术而且分析的一致性证明）。
+这一基本想法（“希尔伯特式设准”）由希尔伯特在其 1922 年讲演（1923）中首次提出，并在 1922–23 年的讲义中得到进一步阐述。不过，那里给出的例子仅处理所有超限公理实例对应于单一 epsilon 项 $\varepsilon x A(x)$ 的证明。挑战在于把这一进路扩展到多个 epsilon 项、嵌套 epsilon 项，并最终扩展到二阶 epsilon（以便获得不仅算术而且分析的一致性证明）。
 
 处理嵌套 epsilon 项的困难可以描述如下。假设证明中的某条公理是超限公理 $$ B(y) \rightarrow B(\varepsilon y B(y)) $$ 当然，$\varepsilon y B(y)$ 可能出现在证明的其他公式中，尤其是其他超限公理中，例如 $$ A(x, \varepsilon y B(y)) \rightarrow A(\varepsilon x A(x, \varepsilon y B(y)), \varepsilon y B(y)) $$ 那么，看来首先需要为 $\varepsilon y B(y)$ 找到正确的解释，然后才尝试为 $\varepsilon x A(x, \varepsilon y B(y))$ 找一个。但是，epsilon 项在证明中的出现还有更复杂的模式。在为 $\varepsilon y B(y)$ 确定正确解释时起作用的一个公理实例可能是 $$ B(\varepsilon x A(x, \varepsilon y B(y))) \rightarrow B(\varepsilon y B(y)) $$ 如果 $B$(0) 为假，则在第一轮中 $\varepsilon y B(y)$ 将被解释为 0。后续把 $\varepsilon x A(x, 0)$ 的解释从 0 改为比如 $n$，将导致该实例被解释为 $B(n) \rightarrow B$(0)，若 $B(n)$ 为真则此式为假。因此 $\varepsilon y B(y)$ 的解释将不得不被修正为 $n$，而这又可能导致 $\varepsilon x A(x, \varepsilon y B(y))$ 的解释不再是真公式。
 
@@ -164,12 +164,12 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 这一句子的普遍接受的解释由全称语句给出
 
-1. $\forall x \forall y (\mathrm{Farmer}(x) \wedge \mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y)) \rightarrow \mathrm{Beats}(x, y))$
+2. $\forall x \forall y (\mathrm{Farmer}(x) \wedge \mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y)) \rightarrow \mathrm{Beats}(x, y))$
 
 缺点在于“一头驴子”暗示一个存在量词，因而该分析应当在形式上与语句 3 被语句 4 给出的分析相平行：
 
-1. 每个拥有驴子的农夫都是快乐的，
-2. $\forall x (\mathrm{Farmer}(x) \wedge \exists y (\mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y)) \rightarrow \mathrm{Happy}(x))$，
+3. 每个拥有驴子的农夫都是快乐的，
+4. $\forall x (\mathrm{Farmer}(x) \wedge \exists y (\mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y)) \rightarrow \mathrm{Happy}(x))$，
 
 但最接近的可能形式化
 
@@ -204,7 +204,7 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/epsilon-calculus/) 查看本词条的增强文献目录及其数据库链接。
 
@@ -212,11 +212,11 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 * [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
 
-Please contact the authors with further suggestions.
+如有补充建议，请与作者联系。
 
 ## 相关词条
 
-anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundations of mathematics | logic: classical | mathematics, philosophy of | proof theory | quantifiers and quantification | theoretical terms in science
+回指 | 有限主义 | 大卫·希尔伯特 | 大卫·希尔伯特：数学基础纲领 | 经典逻辑 | 数学哲学 | 证明论 | 量词与量化 | 科学中的理论词项
 
 [^aguilera-2019]: Aguilera, J.P., and M. Baaz, 2019, ‘Unsound inferences make proofs shorter’. *Journal of Symbolic Logic*, 84: 102–122.
 
