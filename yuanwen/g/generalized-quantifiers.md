@@ -180,11 +180,9 @@ If $L = \FO(Q_1,\ldots,Q_n)$, each $Q_i$ is Isom, $\f$ is an *L-sentence*, and $
 
 Second, Isom takes a particularly interesting form for *monadic* quantifiers. If $\M = (M,A_1,\ldots,A_k)$, where $A_i \subseteq M$ for each *i*, then $A_1,\ldots,A_k$ *partition* *M* into $2^k$ pairwise disjoint subsets (some of which may be empty); let us call them the *parts* of $\M$. We illustrate with $k=2$ and $\M = (M,A,B)$:
 
-*Figure 1*
-
 ![two intersecting circles inside a box (the box labeled 'M') with 'A intersecting B' labeling the circle intersection and 'A minus B' and 'B minus A' labeling the non-intersecting parts of the circles. The area inside the box but not in the circles is labeled 'M minus (A union B)'](../assets/generalized-quantifiers/fig1.svg)
 
-Figure 1
+*Figure 1*
 
 Now it is not hard to see that only the *sizes of the parts* determine whether two models of this kind are isomorphic or not:
 

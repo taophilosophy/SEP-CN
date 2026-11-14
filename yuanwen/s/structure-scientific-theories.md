@@ -176,11 +176,9 @@ An example will help motivate the relation between theory and model. Two qualifi
 
 A figure of a geometric model that makes this theory true is:
 
-*Figure 1.*
-
 ![Geometric figure including triangle ACE with interior circle BDF and center point G. Point B is on line segment AC, D is on CE, and F is on AE. G is the center of the circle. Point G is on line segments AD, BE, and CF.](../assets/structure-scientific-theories/fig1.png)
 
-Figure 1.
+*Figure 1.*
 
 This is the smallest geometrical model satisfying the three axioms of the projective plane theory. Indeed, this example fits van Fraassen’s succinct characterization of the theory-model relation:
 
@@ -229,19 +227,15 @@ Relatedly, Weisberg (2013) draws upon Tversky (1977) to develop a similarity met
 
 The term “isomorphism” is a composite of the Greek words for “equal” and “shape” or “form.” Indeed, in mathematics, isomorphism is a perfect one-to-one, bijective mapping between two structures or sets. Figure (2) literally and figuratively captures the term:
 
-*Figure 2.*
-
 ![Script writing of isomorphism with mirror image underneath](../assets/structure-scientific-theories/fig2.png)
 
-Figure 2.
+*Figure 2.*
 
 Especially in set theory, category theory, algebra, and topology, there are various kinds of “-morphisms,” viz., of mapping relations between two structures or models. Figure (3) indicates five different kinds of homomorphism, arranged in a Venn diagram.
 
-*Figure 3.*
-
 ![Venn diagram with outer circle Hom and 3 intersecting interior circles: Mon, Epi, and End. The intersection of all 3 is Aut and the intersection of Mon and Epi is Iso.](../assets/structure-scientific-theories/fig3.png)
 
-Figure 3.
+*Figure 3.*
 
 Although philosophers have focused on isomorphism, other morphisms such as monomorphism (i.e., an injective homomorphism where some elements in the co-domain remain unmapped from the domain) might also be interesting to investigate, especially for embedding data (i.e., the domain) into rich theoretical structures (i.e., the co-domain). To complete the visualization above, an epimorphism is a surjective homomorphism, and an endomorphism is a mapping from a structure to itself, although it need not be a symmetrical—i.e., invertible—mapping, which would be an automorph.
 
@@ -393,15 +387,13 @@ The structure of scientific theories is a rich topic. Theorizing and modeling ar
 
 A table helps summarize general aspects of the three views’ analyses of the structure of scientific theories:
 
-*Table 2.*
-
 |   | **Syntactic View** | **Semantic View** | **Pragmatic View** |
 | --- | --- | --- | --- |
 | Theory Structure | Uninterpreted axiomatic system | (i) State-space, (ii) Model-/set-theoretic | Internal and external pluralism |
 | Theory Interpretation | Correspondence rules | (i) Hierarchy of models, (ii) Similarity, (iii) Isomorphism | (i) Structure already inflected by practice, function, and application (ii) Pragmatic virtues |
 | Is theory interpretation an aspect of theory structure? | Yes | No | Yes, although the distinction is hard to make. |
 
-Table 2. General aspects of each view’s analysis of the structure of scientific theories.
+*Table 2.* General aspects of each view’s analysis of the structure of scientific theories.
 
 The Syntactic, Semantic, and Pragmatic views are often taken to be mutually exclusive and, thus, to be in competition with one another. They indeed make distinct claims about the anatomy of scientific theories. But one can also imagine them to be complementary, focusing on different aspects and questions of the structure of scientific theories and the process of scientific theorizing. For instance, in exploring nonformal and implicit components of theory, the Pragmatic View accepts that scientific theories often include mathematical parts, but tends to be less interested in these components. Moreover, there is overlap in questions—e.g., Syntactic and Semantic Views share an interest in formalizing theory; the Semantic and Pragmatic Views both exhibit concern for scientific practice.
 

@@ -30,11 +30,9 @@ While chimpanzees in Povinelli and Eddy’s experiments demonstrated some sensit
 
 The next major breakthrough in this area arrived via a series of experiments conducted by Brian Hare, Josep Call, Bryan Agnetta, and Michael Tomasello (2000). They devised an experimental paradigm involving two chimpanzees, a subordinate and a dominant, being placed across from one another in a shared enclosure which contained opaque occluders that blocked gaze. The chimpanzees were held behind guillotine doors that could be raised or lowered by experimenters, and food items could be placed either out in the open or behind an opaque occluder from the perspective of the dominant. The guillotine doors were then raised, with the subordinate given a small head start, and the experimenters assessed whether the subordinates were more likely to take food items that were behind occluders from the perspective of the dominant than those that were out in the open, which is just what the subordinates reliably did across a range of experimental conditions. As a result, these authors strongly endorsed the claim that chimpanzees have at least a perceptual theory of mind that allows them to know what others do and do not see. This result led to a resurgence of interest in animal theory of mind after a wave of pessimism in the late 1990s—though this interest quickly led to an interpretive impasse.
 
-*Figure 1*
-
 ![A diagram of the situation described in caption below](../assets/animal-social-cognition/Picture1.png)
 
-Figure 1: The Hare et al. (2000) design. Two chimpanzees are allowed to pursue food items in a shared enclosure. Food items are either out in the open from the perspective of the dominant, or behind an opaque occluder from the perspective of the dominant. If the subordinate attempts to take food items that are behind opaque occluders more often than those that are out in the open, the experimenters argue this would provide evidence that they understand what the dominant can and cannot see.
+*Figure 1*: The Hare et al. (2000) design. Two chimpanzees are allowed to pursue food items in a shared enclosure. Food items are either out in the open from the perspective of the dominant, or behind an opaque occluder from the perspective of the dominant. If the subordinate attempts to take food items that are behind opaque occluders more often than those that are out in the open, the experimenters argue this would provide evidence that they understand what the dominant can and cannot see.
 
 ## 2. The “logical problem” with research on animal theory of mind
 

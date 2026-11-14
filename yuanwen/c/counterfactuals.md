@@ -265,11 +265,9 @@ Canonically, $A \strictif C$ is defined as $\Box(A \mathbin{\supset} C)$, where 
 
 Figure 1 illustrates this semantics. In this minimal model, $A \strictif C$ is true at $w$: every $A$-world with an incoming arrow from $w$ (i.e., $v$ and $u$) is also a $C$-world. By contrast, $C \strictif A$ is false at $w$, since $s$ is not an $A$-world.
 
-*Figure 1:*
-
 ![A model illustrating the strict conditional analysis. There are four worlds: w, v, u, and s. World w can access worlds v, u, and s. Worlds v and u satisfy A, while worlds v, u, and s satisfy C.](../assets/counterfactuals/fig-strict.svg)
 
-Figure 1: A model illustrating the strict conditional analysis. An arrow from $x$ to $y$ means $y$ is accessible from $x$, i.e., $xRy$.
+*Figure 1:* A model illustrating the strict conditional analysis. An arrow from $x$ to $y$ means $y$ is accessible from $x$, i.e., $xRy$.
 
 The logic of strict conditionals we obtain from this semantics depends on the constraints we place on accessibility. See the entry on the [logic of conditionals](https://plato.stanford.edu/entries/logic-conditionals).
 
@@ -401,11 +399,9 @@ According to variably strict analyses, only the *closest* (or perhaps the *suffi
 
 Talk of worlds being “close” or “far” is metaphorical. What does it actually mean? David Lewis (1973b) measured closeness by *similarity*: the more similar a world is to the actual world, the closer it is. (We’ll return to issues surrounding similarity in section 5.4.) We can imagine worlds are arranged in “spheres” around the actual world, as in Figure 2. The closer a world is to the center, the more similar it is to the actual world. Worlds on the same sphere are equally close to the actual world.
 
-*Figure 2:*
-
 ![A model illustrating similarity consisting of nested rings. At the center is world w (the actual world). There is a small ring of worlds v1 and v2 around w, which are the next closest worlds. There is a slightly bigger ring of worlds u1, u2, and u3 surrounding these, which are further away, and a further ring of worlds z1, z2, z3, and z4.](../assets/counterfactuals/fig-sphere.svg)
 
-Figure 2: A similarity model. Worlds on the same ring are equally close to the center $w$.
+*Figure 2:* A similarity model. Worlds on the same ring are equally close to the center $w$.
 
 We can represent this idea more precisely using **world-orderings**. The idea is that each world $w$ is associated with an ordering relation $\leq_w$ over the set of its accessible worlds $R(w)$, which we can think of as the “outermost” sphere. Here is a quick translation key:
 
@@ -436,21 +432,17 @@ Given the limit assumption, the ordering semantics can be equivalently stated as
 
 Figure 3 illustrates the ordering semantics. In this model, $A \gt C$ is true at $w$, since the closest $A$-worlds (in this case, $u_1$ and $u_3$), are all $C$-worlds. By contrast, $C \gt A$ is false since there is a closest $C$-world (in fact, both of them, i.e., $v_1$ and $v_2$) that is not an $A$-world. Notice that neither of the corresponding strict conditionals ($A \strictif C$ and $C \strictif A$) are true.
 
-*Figure 3:*
-
 ![A model of the ordering semantics. The center is world w. The closest worlds to w are C-worlds but not A-worlds. Further away are worlds that are both A-worlds and C-worlds. Further away still are worlds that are A-worlds but not C-worlds.](../assets/counterfactuals/fig-order.svg)
 
-Figure 3: A model of $A \gt C$ in the ordering semantics.
+*Figure 3:* A model of $A \gt C$ in the ordering semantics.
 
 None of the counterfactual fallacies hold for variably strict conditionals. The reason is simple: generally, the stronger an antecedent is, the further away one must go to find a world where that antecedent is true.
 
 Figure 4 depicts a simple ordering model where Antecedent Strengthening fails. Imagine $A$ stands for “I am an Olympic athlete”, $B$ stands for “I have a broken leg”, and $C$ stands for “I win the race”. So the closest worlds where I am an Olympic athlete ($A$) are ones where I do not have a broken leg ($\neg B$). In those worlds, I win the race ($C$). Further away are worlds where I am an Olympic athlete and have a broken leg ($A \wedge B$). In the closest such worlds, I lose the race ($\neg C$). This model also refutes the other counterfactual fallacies; see the note for details.[^note-16]
 
-*Figure 4:*
-
 ![A counterexample of the counterfactual fallacies. The center world is w. The closest worlds to w are C-worlds, but not A or B-worlds. The next closest worlds are A and C-worlds, but not B-worlds. The furthest worlds are A and B-worlds but not C-worlds.](../assets/counterfactuals/fig-fallacies.svg)
 
-Figure 4: Counterexample to the counterfactual fallacies. For instance, the closest $A$-worlds, $u_1$ and $u_3$, are all $C$-worlds, but the closets $A \wedge B$-worlds, $z_1$ and $z_4$, are not $C$-worlds.
+*Figure 4:* Counterexample to the counterfactual fallacies. For instance, the closest $A$-worlds, $u_1$ and $u_3$, are all $C$-worlds, but the closets $A \wedge B$-worlds, $z_1$ and $z_4$, are not $C$-worlds.
 
 As for Heim sequences (section 4.2), various authors have proposed variably strict explanations of their infelicity, all of which appeal to some form of context-shifting (Moss 2012,; Starr 2014a; K. Lewis 2018; Boylan and Schultheis 2021; Schultheis 2025)[^boylan-2021][^lewis-2018][^moss-2012][^schultheis-2025][^starr-2014a]. Whether these explanations are adequate, or better than rival strict accounts, is a live debate.
 
@@ -571,11 +563,9 @@ Recent work in cognitive science and artificial intelligence has made heavy use 
 
 Structural equation models are models of relations of conditional dependence, which typically include three elements: (1) a set of variables, representing different events or facts, which can take various values (e.g., truth values, a probability, etc.); (2) a set of **structural equations**, which specify how the values of certain variables functionally depend on those of others; and (3) an assignment of values to variables in accordance with these structural equations. Figure 5 depicts a structural equation model involving eight variables. For example, $H \mathrel{\colon=} F \vee G$ means the value of $H$ is determined by the value of $F \vee G$ (but not vice versa).[^note-21]
 
-*Figure 5:*
-
 ![A structural equation model with 8 variables: A, B, C, D, E, F, G, and H. Nodes A and B determine the value of C to be the conjunction of A and B. C determines the value of: E to be the same as C, but D to be the negation of C. Node E determines the value of G to be the same as E; D determines F to be the negation of D; and F and G determine the value of H to be the disjunction of F and G.](../assets/counterfactuals/fig-sem.svg)
 
-Figure 5: A structural equation model.
+*Figure 5:* A structural equation model.
 
 To check whether a counterfactual is true in a structural equation model, one performs an **intervention** on the model to ensure the antecedent holds. To do this, one first “surgically” removes all arrows leading into the variables that correspond to the antecedent. One then resets the values of those variables to make the antecedent true. Finally, one updates the values of subsequent “descendant” variables that depend on the antecedent variables according to the remaining structural equations. So in the example above, $E \gt H$ is true: if we intervene to ensure $E$ is true (removing the arrow from $C$ to $E$ and changing the values of $E$ and its descendants accordingly), then $H$ is true. (Compare Lewis’s 1979 System of Weights.) More generally:
 

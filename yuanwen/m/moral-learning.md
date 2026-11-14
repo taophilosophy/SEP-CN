@@ -234,11 +234,9 @@ Various cognitive phenomena have been identified as relying on statistical infer
 
 One simple principle that has been invoked to capture moral representations is known as the “size principle” (Xu & Tenenbaum 2007). To grasp the principle intuitively, imagine your friend has two dice: a 4-sided and a 10-sided die. He randomly selects one, conceals it from you, and rolls it 10 times. He then reports the results: 3, 2, 2, 3, 1, 1, 1, 4, 3, 2. Which die do you think he rolled? Intuitively it seems like it must be the 4-sided die. While the results are technically compatible with the 10-sided die, it would be a suspicious coincidence that all the rolls happened to be 4 or lower. This reasoning aligns with the size principle, which we can represent using a nested structure to compare different hypotheses (figure 1).
 
-*Figure 1:*
-
 ![a large square with the number 10 inside it; nested inside is a smaller square with the number 4 inside it; the bottom- and left-side of the smaller square overlap with the bottom- and left-side of the larger square.](../assets/moral-learning/image001.png)
 
-Figure 1: The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
+*Figure 1:* The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
 
 The size principle states that when the evidence is consistent with the “smaller hypothesis” (in this case that is the hypothesis that it’s the 4-sided die), that hypothesis is the one that should be favored.
 
@@ -248,11 +246,9 @@ As we saw in section 3.2, children tend to interpret moral rules as being focuse
 
 As with the hypotheses about the dice, hypotheses about the range of a rule can be organized into a nested structure: the set of consequences actively produced by an agent is a subset of the broader set of consequences either produced or allowed by an agent (see figure 2).
 
-*Figure 2*
-
 ![a large rectangle with the label 'consequences' inside it; nested inside is a smaller rectangle with the label 'Consequences produced by agent' inside it.](../assets/moral-learning/image002.png)
 
-Figure 2: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
+*Figure 2*: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
 
 Children are rarely given explicit instruction about the difference between *doing* and *allowing*, yet they may still infer the distinction from the evidence they encounter. If all of the sample violations they encounter involve an agent intentionally producing an outcome, this pattern can suggest that the operative rule is not meant to forbid merely allowing that outcome to occur. This reasoning follows from the size principle (section 6.1). When none of the observed violations are “allowings” this would be a suspicious coincidence if the rule prohibited allowings. The absence of evidence is itself evidence.
 

@@ -69,11 +69,9 @@ A second problem runs as follows. Assume, plausibly, that a giant meteor caused 
 
 A third problem is that there can be regularity without causation. The cry of the cock precedes the rise of the sun and the two events are regularly associated. And yet the cry of the cock is not a cause of the sunrise. A special case of this problem arises from joint effects of a common cause. Suppose an instantiation $c$ of $C$ is a common cause of the instantiations $a$ of $A$ and $b$ of $B$, where the token event $a$ precedes the token event $b$ in time (see Figure 1). Further suppose $C$ is instantiated whenever $A$ is. That is, whenever a token event of type $A$ occurs, a token event of type $C$ occurs. Then there is a regular connection between $A$ and $B$, which we normally do not count as a causal relation. This problem of regularity theories significantly contributed to their decline in popularity.
 
-*Figure 1*
-
 ![a diagram with three disjoint circles labeled A, B, and C respectively. An arrow points from circle C to circle A and another from circle C to circle B](../assets/causation-regularity/figure1.svg)
 
-Figure 1
+*Figure 1*
 
 Setting aside the possibilities of remote and backwards causation for now, a regularity theory of causation is only tenable when the three problems can be answered. The next section focuses on how laws of nature may help overcome the problem of sorting events into appropriate types and how they may exclude the cry of the cock as a cause of the sunrise.
 

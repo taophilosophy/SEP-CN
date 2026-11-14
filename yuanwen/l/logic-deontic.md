@@ -61,21 +61,17 @@ Although all of the above operators are generally deemed definable in terms of a
 
 It was also routinely assumed that the following threefold partition of propositions holds:
 
-*Fig. 1*
-
 ![three boxes containg respectively the words Necessary, Contingent, and Impossible. Necessary and Contingent are braced as Possible; Necessary and Impossible are braced as Non-Contingent, and Contingent and Impossible are braced as Non-Necessary](../assets/logic-deontic/fig-three-a.svg)
 
-Fig. 1
+*Fig. 1*
 
 The three rectangular cells are intended to be jointly exhaustive and mutually exclusive: every proposition is either necessary, contingent (possibly true but also possibly false), or impossible, but no proposition is more than one of these. The possible propositions are those that are either necessary or contingent, the non-necessary propositions are those that are either impossible or contingent, and the non-contingent ones are those either necessary or impossible.
 
 Thirdly, dating back at least to the twelfth and thirteenth century (Knuuttila 2008)[^knuuttila-2008], the following modal square of opposition is often noted:[^note-8]
 
-*Fig. 2*
-
 ![first square diagram: link to extended description below](../assets/logic-deontic/fig-square-a.svg)
 
-Fig. 2 [An extended description of figure 2.]
+*Fig. 2* [An extended description of figure 2.]
 
 Furthermore it is generally assumed that the following hold:
 
@@ -106,29 +102,23 @@ These definitions imply that something is permissible iff (if and only if) its n
 
 In addition to the TDS, it was traditionally assumed that the following, call it “The Traditional Threefold Classification (TTC)” holds:
 
-*Fig. 3*
-
 ![three boxes containg respectively the words Obligatory, Optional, and Impermissible. Obligatory and Optional are braced as Permissible; Obligatory and Impermissible are braced as Non-Optional, and Optional and Impermissilbe are braced as Omissible.](../assets/logic-deontic/fig-three-b.svg)
 
-Fig. 3
+*Fig. 3*
 
 As in the modal case, the thought is that all propositions are divided into three jointly exhaustive and mutually exclusive classes: every proposition is obligatory, impermissible or neither (that is, optional) and no proposition falls into more than one of these three categories. Furthermore, the permissible propositions are those that are obligatory or optional, the omissible propositions are those that are impermissible or optional, and the non-optional propositions are those that are either obligatory or impermissible. This classification too has roots centuries ago.[^note-13] The reader can easily confirm that this natural scheme is also perfectly analogous to the threefold classification we gave above for necessary, contingent and impossible propositions.
 
 Furthermore, as indicated earlier, “The Deontic Square” (DS) is also often cited in the historical literature:
 
-*Fig. 4*
-
 ![second square diagram: link to extended description below](../assets/logic-deontic/fig-square-b.svg)
 
-Fig. 4 [An extended description of figure 4.]
+*Fig. 4* [An extended description of figure 4.]
 
 The relationships between the logical operators at the corners are to be interpreted as in the modal square of opposition. The two squares are perfectly analogous. If we weave in nodes for optionality and non-optionality, we get a deontic hexagon:[^note-14]
 
-*Fig. 5*
-
 ![a hexagon diagram: link to extended description below](../assets/logic-deontic/fig-hex-a.svg)
 
-Fig. 5 [An extended description of figure 5.]
+*Fig. 5* [An extended description of figure 5.]
 
 Given these analogies, it is unsurprising that our primitive operator, read here as “it is obligatory that”, is often referred to as “deontic *necessity*”. However, there are also obvious disanalogies with alethic necessity. Before, we cited two principles for alethic necessity whose deontic analogs are clearly false:
 
@@ -214,19 +204,15 @@ So the Traditional Scheme rests squarely on the soundness of NC, along with $\OB
 
 The reader familiar with elementary textbook logic will have perhaps noticed that the deontic square and the modal square both have even better-known analogs for the quantifiers as interpreted in classical predicate logic:
 
-*Fig. 6*
-
 ![square diagram; link to extended description below](../assets/logic-deontic/fig-square-c.svg)
 
-Fig. 6 [An extended description of figure 6.]
+*Fig. 6* [An extended description of figure 6.]
 
 Though less widely noted in textbooks, there is also a threefold partition for classical quantifiers regarding any condition, $p$:
 
-*Fig. 7*
-
 ![three boxes diagram: link to extended description below](../assets/logic-deontic/fig-three-c.svg)
 
-Fig. 7 [An extended description of figure 7.]
+*Fig. 7* [An extended description of figure 7.]
 
 These quantificational analogies reflect possible inspiration behind what is most often called “possible worlds semantics” for such logics, to which we now turn.[^note-28] Once the analogies are noticed, spelling out this sort of semantics seems all but inevitable.[^note-29]
 
@@ -234,11 +220,9 @@ We choose a standard “Kripke-style” possible world semantics for SDL (Kripke
 
 The fundamental idea here is that the normative status of a proposition from the standpoint of a world $i$ can be assessed by looking at how that proposition fairs at the $i$-acceptable worlds. For any given world, $i$, we can easily picture the $i$-accessible worlds as all corralled together in logical space, where seriality is reflected by a small dot representing the presence of at least one $i$-acceptable world. The intended truth-conditions, relative to $i$, for our five deontic operators can now be pictured as follows:
 
-*Fig. 8*
-
 ![a diagram of 6 boxes: link to extended description below](../assets/logic-deontic/fig-box-a.svg)
 
-Fig. 8 [An extended description of figure 8.]
+*Fig. 8* [An extended description of figure 8.]
 
 Thus, $p$ is *obligatory* iff it holds in all the $i$-acceptable worlds, *permissible* iff it holds in some such world, *impermissible* iff it holds in no such world, *omissible* iff its negation holds in some such world, *optional* iff $p$ holds in some such world, and so does $\neg p$, *and non-optional when* $p$ *either holds at all such worlds or at none.* If a formula is true at every world in any such model of serially-related worlds, then the formula is *valid*.[^note-32]
 
@@ -246,21 +230,17 @@ To illustrate the workings of this framework, consider NC, $\OB p \rightarrow \n
 
 In contrast, $\OB$-U, the axiom $\OB (\OB p \rightarrow p)$ that we added to SDL to get SDL+, is not valid in the class of serial models. In order to validate $\OB$-U, we need the further requirement of “secondary seriality”: that any $i$-acceptable world, $j$, must be in turn *acceptable to itself*. We can illustrate such an $i$ and $j$ as follows:
 
-*Fig. 9*
-
 ![two dots labelled i and j; an arrowed line points from i to j; another arrowed line points from j back to j](../assets/logic-deontic/fig-graph-a.svg)
 
-Fig. 9
+*Fig. 9*
 
 Here we imagine that the arrow connectors indicate relative acceptability, thus here, $j$ (and only $j)$ is acceptable to $i$, and $j$ (and only $j)$ is acceptable to $j$. If all worlds that are acceptable to any given world have this property of self-acceptability, then our axiom is valid. For assume that this property holds throughout our models, and for reductio, suppose that for some arbitrary world $i, \OB (\OB p \rightarrow p)$ is false at $i$. Then not all $i$-acceptable worlds are worlds where $\OB p \rightarrow p$ is true. So, there must be an $i$-acceptable world, say $j$, where $\OB p$ is true, but $p$ is false. Since $\OB p$ is true at $j$, then $p$ must be true at all $j$-acceptable worlds. But by stipulation, $j$ is acceptable to itself, so $p$ must be true at $j$, but this contradicts our assumption that $p$ was false at $j$. Thus $\OB (\OB p \rightarrow p)$ must be true at all worlds, after all. Two counter-models showing that $\OB$-U is not derivable in SDL, and that SDL $+ \OB \OB p \rightarrow \OB p$ does not imply $\OB$-U can be found in supplement D: Two Counter-Models Regarding Additions to SDL.
 
 We should also note that one alternative semantic picture for SDL is where we have a set of world-relative ordering relations, one for each world $i$ in W, where $j \ge_i k$ iff $j$ is as good as $k$ (and perhaps better) relative to $i$. We might then assume that from the standpoint of any world $i$, a) each world is as good as itself, b) if one is as good as a second, and the second is as good as a third, then the first is as good as the third, c) and for any two worlds, either the first is as good as the second or vice versa (i.e., respectively, each such $\ge_i$ is reflexive, transitive, and connected in W). As a matter of fact, this approach also determines SDL. (See Goble 2003 for one of the few proofs of this claim.)[^goble-2003] If we then add “The Limit Assumption”, that for each world $i$, there is always at least one world as good as all worlds (i.e., one $i$-best world) we can easily generate our earlier semantics for SDL derivatively. We need only add the natural analogue here to our prior truth-conditions for $\OB$: $\OB p$ is true at a world $i$ iff $p$ is true at all the $i$-best worlds:
 
-*Fig. 10*
-
 ![a vertical bar: link to extended description below](../assets/logic-deontic/fig-bar-a.svg)
 
-Fig. 10 [An extended description of figure 10.]
+*Fig. 10* [An extended description of figure 10.]
 
 Essentially, the ordering relation coupled with the limit assumption just gives us a way to *generate* the set of $i$-acceptable worlds instead of taking them as primitive in the semantics: $j$ is $i$-acceptable iff $j$ is $i$-best. Once generated, we look only at what is going on in the $i$-acceptable (as $i$-best) worlds to interpret the truth-conditions for the deontic operators, just as with our simpler Kripke-Style semantics. The analogue to the seriality of our earlier $i$-acceptability relation is also assured by the Limit Assumption, since it entails that for each world $i$, there is always some $i$-best (so $i$-acceptable) world. Although this ordering semantics approach appears to be a bit of overkill here, as we shall see in Section 4 and Section 5, it became quite important later on in the endeavor to develop expressively richer deontic logics. For now, we turn to the second-most well-known approach to monadic deontic logic, one in which SDL emerges *derivatively*.
 
@@ -334,49 +314,39 @@ The semantic elements here are in large part analogous to those for SDL. We have
 
 Once again, assume that we have a set of possible worlds, $W$, and we assume that we have a relation, $R$, relating worlds to worlds, with the intention that $Rij$ iff $j$ is accessible to $i$ (e.g., $j$ is a world where everything true in $j$ is possible relative to $i$.[^note-41] For brevity, we will call all worlds possible relative to $i$, “$i$-*accessible* worlds” and denote them by $R^i$. For the moment, no restrictions are placed on the relation $R$. We can illustrate the truth-conditions for necessity, and possibility with obvious abbreviations, as follows:
 
-*Fig. 11*
-
 ![two boxes: link to extended description below](../assets/logic-deontic/fig-box-b.svg)
 
-Fig. 11 [An extended description of figure 11.]
+*Fig. 11* [An extended description of figure 11.]
 
 Here we imagine that for any given world, $i$, we have corralled all the $i$-accessible worlds together. We then simply look at the quantificational status of $p$ (and/or $\neg p)$ in these $i$-accessible worlds to determine $p$’s modal status back at $i$. For example$,$ at a given world $i, p$ is *necessary* if $p$ holds throughout $R^i$ and *possible* if $p$ holds somewhere in $R^i$.
 
 The only *deontic* element in the syntax of K*d* is our distinguished constant, $d$, intended to express the fact that all normative demands are met$.$ To model that feature, we simply assume that the worlds are divided into those where all normative demands are met and those that are not. We denote the former subset of worlds by “DEM” in a model. Then $d$ is true at a world $j$ iff $j$ belongs to DEM. Here is a picture where $d$ is true at an arbitrary world, $j$:
 
-*Fig. 12*
-
 ![a box diagram: link to extended description below](../assets/logic-deontic/fig-vbox-a.svg)
 
-Fig. 12 [An extended description of figure 12.]
+*Fig. 12* [An extended description of figure 12.]
 
 Since $j$ is contained in DEM, that means all normative demands are met at $j$.[^note-42]
 
 Corresponding to simple seriality for SDL (that there is always an $i$-acceptable world), we assume what I will call “strong seriality” for K*d*: for every world $i$, there is an $i$-accessible world that is among those where all normative demands are met. In other words, for every world $i$, the intersection of the $i$-accessible worlds with DEM is non-empty. Given the truth conditions for $d$, strong seriality validates $\Diamond d$, ensuring that for any world $i$, there is always some $i$-*accessible* world where $d$ is true:
 
-*Fig. 13*
-
 ![two overlapping blue boxes: link to extended description below](../assets/logic-deontic/fig-vbox-b.svg)
 
-Fig. 13 [An extended description of figure 13.]
+*Fig. 13* [An extended description of figure 13.]
 
 Given these semantic elements, if you apply them carefully to the definitions of the deontic operators of K*d*, you will see that in each case, the normative status of $p$ at $i$ depends on $p$’s relationship to this intersection of the i-accessible worlds and the worlds where all normative demands are met:
 
-*Fig. 14*
-
 ![six pairs of two overlapping blue boxes: link to extended description below](../assets/logic-deontic/fig-vbox-c.svg)
 
-Fig. 14 [An extended description of figure 14.]
+*Fig. 14* [An extended description of figure 14.]
 
 If that intersection is permeated by $p$-worlds, $p$ is obligatory; if it contains some $p$-world, $p$ is permissible, etc.[^note-43]
 
 If we wish to validate T, $\Box p \rightarrow p$ (and derivatively, $\OB$-U, $(\OB (\OB p \rightarrow p))$, we need only stipulate that the accessibility relation, R, is reflexive: that each world $i$ is $i$-accessible (possible relative to itself):
 
-*Fig. 15*
-
 ![a blue dot labelled i with an arrowed line going from the dot and back to it.](../assets/logic-deontic/fig-graph-d.svg)
 
-Fig. 15
+*Fig. 15*
 
 For then $\Box p \rightarrow p$ must be true at any world $i$, for if $\Box p$ is true at $i$, then $p$ is true at each $i$-accessible world, which includes $i$, since $i$ is self-accessible. This will indirectly yield the result that $\OB (\OB p \rightarrow p)$ is true in all such models as well.
 
@@ -552,12 +522,10 @@ $\BA p \rightarrow p$ ($\BA$-T).[^note-65]
 
 Taken together, these principles entail that, relative to a fixed proposition $p$ and an agent, a threefold partition emerges:
 
-*Fig. 16*
-
 | $\BA p$ | $\PV p$ | $\BA {\neg p}$ |
 | --- | --- | --- |
 
-Fig. 16
+*Fig. 16*
 
 #### 5.2.2 The Meinong-Chisholm Reduction
 
@@ -615,12 +583,10 @@ Logics that combine operators for (impersonal) obligation and agency have been v
 
 One way in which agency operators have been fruitfully employed is in the study of what are called *normative positions*.[^note-69] A set of normative positions is intended to describe the set of mutually exclusive and jointly exhaustive positions that a person or set of persons may be in regarding a proposition and with respect to a logic governing a set of selected primitive normative statuses and/or agency operators. Recall the partition regarding how Jane Doe may be positioned agentially with respect to $p$: she may either bring about $p$, bring about its negation, or be passive with respect to $p$. Now also recall our partition with respect obligation from Section 1:
 
-*Fig. 17*
-
 | $\OB p$ | $\PE p \amp \PE {\neg p}$ | $\IM {p}$ |
 | --- | --- | --- |
 
-Fig. 17
+*Fig. 17*
 
 We might consider “merging” these two partitions, as it were, and try to get a representation of the possible ways Jane Doe may be positioned normatively with respect to her agency regarding $p$. Given certain choices of logic for $\BA$ and for $\OB$, we obtain a set of mutually exclusive and exhaustive “normative positions”:
 

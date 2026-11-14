@@ -97,11 +97,9 @@ This shift from replication to the process of reproduction in accounts of biolog
 
 Whichever way evolutionary individuals are conceptualized, they do not exhaust the realm of biological individuals any more than do organisms. The general point here is that although evolution is foundational when thinking about interactors and Darwinian individuals, it does not play this role for all kinds of biological individual, as Godfrey-Smith himself recognizes. Indeed, Godfrey-Smith (2013) strikingly (and controversially) proposes that even some *organisms*, understood from a metabolic point of view, are not Darwinian individuals at all. These are a subset of corporate organisms, multi-species organisms formed through symbiotic relationships between members of different species. Here Godfrey-Smith posits the Hawaiian bobtail squid (*Euprymna scolopes)* and the Vibrio bacteria they contain as an example (see also Nyholm & McFall-Ngai 2004; Bouchard 2010)[^bouchard-2010][^nyholm-2004]. Since the squid-Vibrio corporate organism does not itself form the right kinds of parent-offspring lineages it is not a Darwinian individual, differing in this respect with other often-discussed corporate organisms, such as aphid-*Buchnera* complexes (Andersson 2000)[^andersson-2000]:
 
-*Figure 1:*
-
 ![a diagram: link to extended description below](../assets/biology-individual/fig1.svg)
 
-Figure 1: Godfrey-Smith’s Different Biological Individuals. (Copied from Figure 4 of Godfrey-Smith 2013.)[^godfrey-smith-2013] [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Godfrey-Smith’s Different Biological Individuals. (Copied from Figure 4 of Godfrey-Smith 2013.)[^godfrey-smith-2013] [An extended description of figure 1 is in the supplement.]
 
 Whatever one says about the intricacies of such examples, in addition to individuals delineated by evolutionary criteria there are also what Thomas Pradeu calls *physiological* individuals. These are biological individuals individuated by appeal to criteria such as having a metabolism and being governed by internal control mechanisms of various kinds. For Pradeu, each physiological individual is “a functionally integrated and cohesive metabolic whole, made of interdependent and interconnected parts” (Pradeu 2016b: 807; see also Godfrey-Smith 2009: 71)[^godfrey-smith-2009][^pradeu-2016b].
 
@@ -143,11 +141,9 @@ Pepper and Herron pose the question of whether any given biological individual i
 
 Figure 2 depicts this framework visually.
 
-*Figure 2:*
-
 ![a diagram: link to extended description below](../assets/biology-individual/fig2.svg)
 
-Figure 2: A Framework for Structuring Conceptual Space. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* A Framework for Structuring Conceptual Space. [An extended description of figure 2 is in the supplement.]
 
 These three sub-categories of biological individual need not be mutually exclusive when considering any particular individual. For example, a given bacterium, such as an individual *Buchnera* bacterium, may both be an organism itself and be part of a corporate organism, such as the human whose gut it is integral to (Andersson 2000)[^andersson-2000]. Likewise, some groups, such as the colonies of eusocial insects sometimes called “superorganisms”, or highly integrated multispecies communities, may be *true* organisms. This kind of view may also capture what truth lies behind proposals to extend the term *organism* both to some parts and some groups of organisms (e.g., Queller 1997; Okasha 2011)[^okasha-2011][^queller-1997]: parts of organisms (such as symbiotic gut bacteria), as well as groups of organisms (such as colonies of ants or bees), are really organisms as well.
 
@@ -183,11 +179,9 @@ Cells, organs, and perhaps bodily systems, such as the respiratory system or the
 
 Conceiving of physiological individuals as living agents, and supposing that all organisms are living agents but that there may be both parts and groups of organisms that are not, allows us to extend the visual summary introduced in Figure 2. Figure 3 depicts organisms as living agents but also contains regions for organs such as hearts and other constituent parts of organisms as living agents, as well as groups that may be living agents but not organisms (e.g., perhaps a coral reef).
 
-*Figure 3:*
-
 ![a diagram: link to extended description below](../assets/biology-individual/fig3.svg)
 
-Figure 3: Living Things as Biological Individuals. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Living Things as Biological Individuals. [An extended description of figure 3 is in the supplement.]
 
 ### 6.2 Reproduction, Life Cycles, and Lineages
 
@@ -219,11 +213,9 @@ This is an example of what Godfrey-Smith (2009: ch.5) calls *scaffolded reproduc
 
 Both groups and multicellular organisms exemplify collective reproduction, and Godfrey-Smith’s discussion of the continuous dimensional space that characterizes collective reproducers, and Darwinian individuals more generally, has been influential, and is summarily depicted in Figure 4 below.
 
-*Figure 4:*
-
 ![a diagram: link to extended description below](../assets/biology-individual/fig4.svg)
 
-Figure 4: Godfrey-Smith’s Dimensional Space for Collective Reproduction. (From Figure 5.1 in Godfrey-Smith 2009.)[^godfrey-smith-2009] [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Godfrey-Smith’s Dimensional Space for Collective Reproduction. (From Figure 5.1 in Godfrey-Smith 2009.)[^godfrey-smith-2009] [An extended description of figure 4 is in the supplement.]
 
 ### 6.3 Autonomous Agency
 
@@ -253,11 +245,9 @@ One early hypothesis (R.A. Wilson: 2005: 74–79)[^wilson-2005] is that the func
 
 The discussion in section 6 has drawn out more about the conceptual space that physiological individuals occupy and their relationship to evolutionary individuals. This section offers a more complete and integrative overview of that conceptual space. Before populating the running summary diagram with examples of various kinds of biological individuals, we first simply add Darwinian or evolutionary individuals to Figure 3 and label the resulting nine regions in it to arrive at Figure 5:
 
-*Figure 5:*
-
 ![a diagram: link to extended description below](../assets/biology-individual/fig5.svg)
 
-Figure 5: Adding Darwinian Individuals. [An extended description of figure 5 is in the supplement.]
+*Figure 5:* Adding Darwinian Individuals. [An extended description of figure 5 is in the supplement.]
 
 As simple as this modification to Figure 3 is, it allows for much more fine-grained answers to the Focal Question, both in terms of the relationship between the subsidiary categories living agents, organisms, and Darwinian individuals, and in terms of where particular individuals are located in the resulting conceptual space. It may turn out that some of these regions are unoccupied by actual biological individuals, or that some of the adjacent regions collapse into one another. But the following proceeds by indicating how the preceding discussion suggests all nine regions are exemplified by distinct kinds of biological individual, moving from less contentious to more contentious examples.
 
@@ -270,8 +260,6 @@ Third, consider the upper half of Figure 5 and regions 6 and 7. There are corres
 Finally, what of the two remaining regions of Figure 5, regions 8 and 9? These contain, respectively, biological individuals that are parts of organisms and are both Darwinian individuals and living agents, and organisms that are living agents but not Darwinian individuals. Some viruses are at least plausible candidate examples of the former category (region 8), since they have the internal complexity and unity of function possessed by physiological individuals but employ a scaffolded form of reproduction that relies on the replicative machinery of their host. And perhaps corporate organisms that are typified by tightly integrated multispecies complexes exemplify the latter (region 9). Consider again the Hawaiian bobtail squid plus its colony of *Vibrio fischeri* bacteria that Godfrey-Smith (2013) discusses as such an example (see Figure 1 above). Those who view this entity as an organism do so because of the intricate integration between squid and bacteria (Nyholm & McFall-Ngai 2004; Bouchard 2010)[^bouchard-2010][^nyholm-2004]. As such, it seems to be a living agent or physiological individual. But lacking a reproductive life cycle, it is not a Darwinian individual. One might well argue, by contrast, that this feature of the squid-*Vibrio* complex also disqualifies *it* as an organism, making it no different in kind from coral reefs. Resolving this issue will turn partly on how exactly different sorts of reproduction are distinguished, and which sorts are required for evolution by natural selection, topics that have recently become more intensely debated (e.g., Godfrey-Smith 2015, 2016b; Griesemer 2014, 2016; O’Malley 2016)[^godfrey-smith-2015][^godfrey-smith-2016b][^griesemer-2014][^griesemer-2016][^o’malley-2016][^o’malley-2016-2].
 
 Figure 6 completes this running visual summary of conceptual space that biological individuals occupy, with the addition of a table that associates the regions with the examples discussed above.
-
-*Figure 6:*
 
 *Regions with their examples*
 
@@ -289,7 +277,7 @@ Figure 6 completes this running visual summary of conceptual space that biologic
 
 ![same as figure 5 but with the adjacent list explaining the numbers](../assets/biology-individual/fig5.svg)
 
-Figure 6: Biological Individuals in Conceptual Space. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Biological Individuals in Conceptual Space. [An extended description of figure 6 is in the supplement.]
 
 ## 8. Regulating Evolutionary Individuals
 
@@ -297,17 +285,15 @@ It was noted at the outset that *organism* and *biological individual* have been
 
 David Queller and Joan Strassmann have provided one agenda for the empirical study of what they call “the evolution of organismality” (Queller & Strassmann 2009, 2016; Strassmann & Queller 2010)[^queller-2009][^queller-2016][^strassmann-2010]. They begin from the claim that the definitive feature of organisms is the combination of high cooperation and low conflict between their parts (see also Folse & Roughgarden 2010 on organisms)[^folse-2010]. Queller and Strassmann note both that these things are matters of degree and that one can vary independently of the other. They use these parameters to define a two-dimensional space that represents a variety of biological individuals, as Figures 7A and 7B illustrate.
 
-*7a:*
-
 ![first of two diagrams: link to both in extended description below](../assets/biology-individual/fig7a.svg)
 
-7a: Groups of cells
+*7a:* Groups of cells
 
 ![second of two diagrams: link to both in extended description below](../assets/biology-individual/fig7b.svg)
 
-7b: Groups of multi-cellular individuals
+*7b:* Groups of multi-cellular individuals
 
-Figure 7: Varying Degrees of Conflict and Cooperation (From Fig. 1 & 2, Queller & Strassmann 2009)[^queller-2009]. [An extended description of figure 7 (A and B) is in the supplement.]
+*Figure 7:* Varying Degrees of Conflict and Cooperation (From Fig. 1 & 2, Queller & Strassmann 2009)[^queller-2009]. [An extended description of figure 7 (A and B) is in the supplement.]
 
 To capture these ideas, it is useful to think of the feature that Queller and Strassmann believe is definitive of biological individuals as the *internal ratio*: it is the ratio of the level of cooperation between internal parts of individuals to that of the conflict between them. The higher this ratio is, the higher the degree of individuality. Figure 7A indicates that, relative to other groups of cells, a mouse will have a relatively large internal ratio, while a yeast floc will have a relatively small internal ratio.
 

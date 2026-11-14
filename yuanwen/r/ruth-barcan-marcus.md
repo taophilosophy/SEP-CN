@@ -210,15 +210,13 @@ $$\vdash \modalB (\beta_1 \uID \beta_2) \Leftrightarrow \beta_1 \mID \beta_2.$$
 
 Figures 1 and 2 graphically represent the results holding for S2² and S4² respectively.
 
-*Figure 1:*
-
 ![to be filled in](../assets/ruth-barcan-marcus/figure1.svg)
 
-Figure 1: Valid implications in S2²
+*Figure 1:* Valid implications in S2²
 
 ![to be filled in](../assets/ruth-barcan-marcus/figure2.svg)
 
-Figure 2: Valid implications in S4²
+*Figure 2:* Valid implications in S4²
 
 To sum up, in 1947 Barcan proves that in S4² the material identity of two objects necessarily implies not just their strict identity and the necessity of their material identity, but also the necessity of their strict identity, because $(\forall \theta) (\theta(\beta_1)\leftrightarrow\theta(\beta_2))$ strictly implies $\modalB(\forall \theta) \modalB(\theta(\beta_1)\leftrightarrow\theta(\beta_2))$. This means that the actual indiscernibility of $\beta_1$ and $\beta_2$ implies the impossibility that any property might distinguish them.
 

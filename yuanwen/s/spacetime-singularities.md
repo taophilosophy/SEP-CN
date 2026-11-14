@@ -35,19 +35,15 @@ While there are competing definitions of spacetime singularities, the most centr
 
 A path in spacetime is a continuous chain of events through space and time. If you snap your fingers continually, without pause, then the collection of snaps forms a path. The paths used in the most important singularity theorems represent possible trajectories of particles and observers. Such paths are known as world-lines; they consist of the continuous sequence of events instantiated by an object’s existence at each instant of its lifetime. That the paths be incomplete and inextendible means, roughly speaking, that, after a finite amount of time, a particle or observer following that path would “run out of world”, as it were—it would hurtle into the tear in the fabric of spacetime and vanish. (See Figure 1.) Alternatively, a particle or observer could leap out of the tear to follow such a path. While there is no logical or physical contradiction in any of this, it appears on the face of it physically suspect for an observer or a particle to be allowed to pop in or out of existence right in the middle of spacetime, so to speak—if that does not suffice for concluding that the spacetime is singular, it is difficult to imagine what else would. At the same time as this criterion for singularities was first proposed, the ground-breaking work predicting the existence of such pathological paths (Penrose 1965, 1968; Hawking 1965, 1966a, 1966b, 1966c, 1966d; Geroch 1966, 1967, 1968b, 1970; Hawking and Penrose 1970)[^geroch-1966][^geroch-1967][^geroch-1968b][^geroch-1970][^hawking-1965][^hawking-1966a][^hawking-1966b][^hawking-1966c][^hawking-1966d][^hawking-1970][^penrose-1965][^penrose-1968] produced no consensus on what ought to count as a necessary condition for singular structure according to this criterion, and thus no consensus on a fixed definition for it.
 
-*Figure 1:*
-
 ![a squiggly line labeled 'from where does the observer come?' goes down into a black oval labeled 'a tear in spacetime'; from the oval, a squiggly line goes with the label 'where does the observer go?' on the right and 'observer' on the left](../assets/spacetime-singularities/tear.gif)
 
-Figure 1: a tear in spacetime
+*Figure 1:* a tear in spacetime
 
 In this context, an incomplete path in spacetime is one that is both inextendible and of finite proper length, which means that any particle or observer traversing the path would experience only a finite interval of existence that in principle cannot be continued any longer. For this criterion to do the work we want it to, however, we will need to limit the class of spacetimes under discussion. Specifically, we shall be concerned with spacetimes that are maximally extended (or just ‘maximal’, for short). In effect, this condition says that one’s representation of spacetime is “as big as it possibly can be”. There is, from the mathematical point of view, no way to treat the spacetime as being a proper subset of a larger, more extensive spacetime. (See figure 2.)
 
-*Figure 2:*
-
 ![a black oval labeled 'points removed from spacetime'; and curved line descends from the oval labeled 'road to nowhere'](../assets/spacetime-singularities/non-maximal.gif)
 
-Figure 2: a non-maximal spacetime
+*Figure 2:* a non-maximal spacetime
 
 If there is an incomplete path in a spacetime, goes the thinking behind the requirement, then perhaps the path is incomplete only because one has not made one’s model of spacetime big enough. If one were to extend the spacetime manifold maximally, then perhaps the previously incomplete path could be extended into the new portions of the larger spacetime, indicating that no physical pathology underlies the incompleteness of the path. The inadequacy would merely have resided in the incomplete physical model we had been using to represent spacetime.
 
@@ -55,11 +51,9 @@ An example of a non-maximally extended spacetime can be easily had, along with a
 
 In this case, the maximal extension of the resulting spacetime is obvious, and does indeed fix the problem of all such incomplete paths: re-incorporate the previously excised set. (See Figure 3.) The seemingly artificial and contrived nature of such examples, along with the ease of rectifying them, seems to militate in favor of requiring spacetimes to be maximal. Also, inextendibility is sometimes argued for on the grounds that there is no known physical process that could cause spacetime to draw up short, as it were, and not continue on as it could have, were it to have an extension (Clarke 1975; Ellis and Schmidt 1977)[^clarke-1975][^ellis-1977].
 
-*Figure 3:*
-
 ![a curved black line labeled 'the road goes on'; the line goes through the middle of a white oval drawn with a dashed line labeled 'filled hole'](../assets/spacetime-singularities/filled.gif)
 
-Figure 3: a non-maximal spacetime made maximal by filling its holes
+*Figure 3:* a non-maximal spacetime made maximal by filling its holes
 
 In recent important work, Manchak has questioned the need and even the reasonableness of requiring spacetimes to be maximal (*i.e.*, inextendible), pointing out problems with the condition’s epistemic status (Manchak 2011)[^manchak-2011], its conceptual cogency (Manchak 2016a)[^manchak-2016a], and its metaphysical character (Manchak 2016b)[^manchak-2016b]. Because inextendibility is the most common assumption made in the physics literature when singular structure is discussed, however, we will continue to assume it for the purposes of this discussion, Manchak’s interesting arguments notwithstanding. (Manchak’s arguments will be discussed further in section 4 below.)
 
@@ -197,19 +191,15 @@ Because of the peculiar nature of black holes as physical systems, the attempt t
 
 In 2016 the LIGO collaboration “directly” detected gravitational waves by precisely measuring variation in the strain of the interferometer’s arms. The signature indicated the gravitational waves were generated by a binary black-hole system coalescing (Abbott *et al*. 2016, and many subsequent detections, at the moment about 90 total; see The Gravitational-wave Transient Catalog, OIR)[^abbott-2016]. An important aspect of these detections is their reliance on gravitational wave templates to match the expected signal with the data, which in turns requires an extent of epistemic control of the dynamics of strong gravitational fields. This, currently, can only be investigated numerically, and requires patching together very different modeling approaches and approximations. We refer to Elder (2023, 2025) for a philosophical discussion of the epistemic challenges LIGO faces, and Patton (2020) for investigation of the notions of confirmation and theory testing in this context. An excellent history of ups and downs in the searches for gravitational waves can be found in Kennefick (2007).
 
-*Figure 4:*
-
 ![Gravitational wave event GW150914; eights small plots in two column; the 4 on the left are labeled 'Hanford, Washington H1'; the 4 on the right are labeled 'Livingston, Louisiana (L1)'; the top 3 graphs in each column show Strain vs Time -- all of these show oscillating curves; the bottom graphs show Frequency vs Time and show a wispy green curve that increases with time](../assets/spacetime-singularities/ligo-150914-prl-2016-figure1.png)
 
-Figure 4: Plots of the first detected gravitational wave event ever, GW150914. Top row shows strain data at the two detectors; the signal arrived first at L1. Second row presents numerical relativity waveform with parameters matching those of the event. Third row shows residuals after subtracting the numerical waveform. Bottom row shows signal frequency increasing over time. Image source: Figure 1 of Abbott et al 2016, see p. 2 of that paper for the complete description.
+*Figure 4:* Plots of the first detected gravitational wave event ever, GW150914. Top row shows strain data at the two detectors; the signal arrived first at L1. Second row presents numerical relativity waveform with parameters matching those of the event. Third row shows residuals after subtracting the numerical waveform. Bottom row shows signal frequency increasing over time. Image source: Figure 1 of Abbott et al 2016, see p. 2 of that paper for the complete description.
 
 In 2019 and 2022 the Event Horizon Telescope collaboration presented two highly publicized images of black holes, M87* in Messier 87 galaxy (Event Horizon Telescope Collaboration 2019)[^event-2019] and Sagittarius A* (Event Horizon Telescope Collaboration 2022)[^event-2022]. These images are reconstructed from high frequency radio waves collected with a virtual Earth-sized radio-telescope array. To appreciate the feat, the angular resolution required for producing these images is comparable to taking an Earth-based photo of a hypothetical orange located on the surface of the Moon, assuming it emitted radio waves at 220 GHz. The central dark part of EHT images is consistent with the “shadow” generated by a Kerr black hole. Future observations will allow for more precise tests of not only the black hole spacetimes, but also, or perhaps primarily, of associated astrophysical phenomena such as accretion disks and astrophysical jets.
 
-*Figure 5:*
-
 ![Black hole at M87*; a red/orange circle, thicker at the bottom with a black center; the entire circle is on a black background](../assets/spacetime-singularities/EHT-m87-media-release-20190410-78m-4000x2330.png)
 
-Figure 5: 2019 image of the supermassive black hole M87*. Shape and size of the central dark region can be used to make inferences about the mass of the object. Many further tests of general relativity as well as of astrophysical frameworks can be done with such images. Image source: [EHT Press Release](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole) (April 10, 2019)
+*Figure 5:* 2019 image of the supermassive black hole M87*. Shape and size of the central dark region can be used to make inferences about the mass of the object. Many further tests of general relativity as well as of astrophysical frameworks can be done with such images. Image source: [EHT Press Release](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole) (April 10, 2019)
 
 Similarly to gravitational wave astronomy, EHT methodology is a rich and still underexplored area of philosophical study, in which many philosophy of science themes arise, including roles of simulations, relationship between reliability and opacity, distinction between experiment and observation and their relative merits, and ways in which theory and measurement are intertwined. For example, EHT imaging procedures invoke various forms of consilience or robustness, in which convergence of independent lines of evidence are seen as increasing confidence in the conclusions (Doboszewski and Elder 2024)[^doboszewski-2024][^elder-2024]. However, some aspects of both LIGO and EHT inferences are theory-laden or, if you wish, theory-mediated (Doboszewski and Elder 2025)[^doboszewski-2025][^elder-2025]: numerical relativity and simulations of relativistic plasma are, so far, essential for inferences about their targets. Philosophical discussions of these topics often invoke themes from Smith’s (2014) magisterial account of theory testing in Newtonian gravity, but time will tell whether this even more complex general relativistic loop truly closes. Skulberg and Sparre (2023) discuss the history of black hole imaging with its roots in Jean-Pierre Luminet first hand-drawn image of a realistic black hole from 1978; and Muhr (2024) provides a further media studies perspective on these images. Moreover, some of the future extensions of the EHT observations will involve humanities scholars in various capacities (Galison *et al*. 2023)[^galison-2023], from weighing in on ethical factors in telescope site selection, through ways of structuring the collaboration, to explorations of more traditional philosophy of science and foundations of physics questions.
 
@@ -229,11 +219,9 @@ Second, we will need a clear notion of the kind of geometry that allows for esca
 
 Figure 6 is a spacetime diagram of a sphere of matter collapsing to form a black hole. The curvature of the spacetime is represented by the tilting of the light cones away from 45 degrees. Notice that the light cones tilt inwards more and more as one approaches the center of the black hole. The jagged line running vertically up the center of the diagram depicts the central singularity inside the black hole. As we emphasized in Section 1, this is not actually part of the spacetime, but might be thought of as the “place” where the structure of spacetime breaks down. Thus, one should not imagine the possibility of traveling through the singularity; this would be as nonsensical as something leaving the diagram (*i.e.*, the spacetime) altogether.
 
-*Figure 6:*
-
 ![At the bottom there is a large arrow pointing to the right labeled 'space' and on the right edge a large arrow pointing up labeled 'time'. Two curved lines come together in the middle of the figure; the space between the curved lines is labeled 'collapsing matter'. From the point where the curved lines meet, there is a squiggly line that runs up to the top of the figure. 28 small double-cones are arranged across the top half of the figure; at the left and right edges the cones are vertical but the cones closer to the center are more and more tilted towards a squiggly line at the center; a dashed line that surrounds the squiggly line is labeled 'event horizon'.](../assets/spacetime-singularities/lightcone-bh.gif)
 
-Figure 6: a spacetime diagram of black hole formation
+*Figure 6:* a spacetime diagram of black hole formation
 
 What makes this a black hole spacetime is the fact that it contains a region from which it is impossible to exit while traveling at or below the speed of light. This region is marked off by the events at which the outside edge of the forward light cone points straight upward. As one moves inward from these events, the light cone tilts so much that one is always forced to move inward toward the central singularity. This set of points of no return is, of course, the event horizon; and the spacetime region inside it is the black hole. In this region, one inevitably moves towards the singularity; the impossibility of avoiding the singularity is just the impossibility of preventing ourselves from moving forward in time. (Again, see section 3.5 for a discussion of other ways to define a black hole.)
 
@@ -255,8 +243,6 @@ Perhaps the most fascinating feature of quasi-local black holes is the fact that
 
 Besides the standard definition of a black hole based on the presence of a global event horizon, and the quasi-local definitions just discussed, there is an enormous and greatly variegated menagerie of different definitions and conceptions of a black hole that physicists in different fields (and sometimes those in the same field) use in their day to day work, none agreeing with the standard or quasi-local definitions, many of them manifestly inconsistent with each other (Curiel 2019)[^curiel-2019]. However one views this situation, it is clear, as a brute fact about the practice of physics today, that there is no single definition of “black hole” that will serve all investigative purposes in all fields in which black holes are objects of study. Table 1 lists the core concepts most commonly used in definitions and characterizations of black holes across several different fields of physics, sketched with only the broadest and crudest of brushes. It should be kept in mind that many investigators in each of these fields do not use, or even accept as reasonable, what is given in the table.
 
-*Table 1:*
-
 | **Field** | **Core Concepts** |
 | --- | --- |
 | astrophysics | compact object region of no escape engine for enormous power output |
@@ -266,7 +252,7 @@ Besides the standard definition of a black hole based on the presence of a globa
 | quantum gravity | particular excitation of quantum field ensemble or mixed state of maximal entropy no good definition to be had |
 | analogue gravity | region of no escape for finite time, or for low energy modes |
 
-Table 1: core concepts in different definitions of black holes common to different fields
+*Table 1:* core concepts in different definitions of black holes common to different fields
 
 What seems to be the most common practice today is, during the course of an investigation, to fix a list of important, characteristic properties of and phenomena associated with black holes required for one’s purposes in the context of interest, and then to determine which of the known definitions imply the members of that list. If no known definition implies the list, one either attempts to construct a new definition that does (and is satisfactory in other ways), or else one concludes that there is an internal inconsistency in one’s list, which may already be of great interest to learn. Examining the way the idea of black holes are used across physics—in astrophysics, cosmology, classical general relativity, semi-classical gravity, particle physics, various programs in quantum gravity, fluid mechanics, condensed matter, and analogue gravity—yields a list of potentially characteristic properties and phenomena, some subset of which may plausibly be required or wanted in a characterization of a black hole in a given investigative context (Curiel 2019)[^curiel-2019]:
 

@@ -480,8 +480,6 @@ Disjunction $\vee_2$ formalises an “alternative-based” analysis of *or* wher
 
 In the previous section, we saw that recent semantic work has argued that disjunctions like “$A$ or $B$” should be treated as generating a set of propositions $\{A, B\}$ rather than yielding the classical join of the two disjuncts. The intuition behind these accounts is that the main function of a disjunctive sentence is to present a set of alternatives. A disjunction offers characterizations of (at least) two different possible states of affairs, and (under certain circumstances) asserts that at least one of these holds in the actual world. Besides the phenomena of free choice discussed in the previous section, other linguistic facts have been argued to justify an alternative-based analysis of disjunction. In this final section, we first introduce the recent inquisitive semantics as an example of an “alternative-based” system with a fully developed logic, and then briefly discuss these further linguistic motivations.
 
-*Figure 1.*
-
 ![[a square with a number on a gray circle in each quadrant. The numbers, left to right then top to bottom, are 11, 10, 01, and 00. The first three of these numbers have a curve enclosing them]](../assets/disjunction/fig-a.png)
 
 (a) classical
@@ -490,7 +488,7 @@ In the previous section, we saw that recent semantic work has argued that disjun
 
 (b) inquisitive
 
-Figure 1. $(p \vee q)$ in classical logic and in inquisitive logic.
+*Figure 1.* $(p \vee q)$ in classical logic and in inquisitive logic.
 
 ### 7.1 Inquisitive semantics
 

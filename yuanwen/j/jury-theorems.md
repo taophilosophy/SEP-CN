@@ -74,11 +74,9 @@ Condorcet’s theorem assumes that correctness is independent across individuals
 
 This theorem paints an optimistic picture of the wisdom of crowds, by concluding that majority outcomes are not only increasingly reliable as voters are added, but also infallible in the limit.
 
-*Figure 1.*
-
 ![two related graphs: link to extended description below](../assets/jury-theorems/Fig1.png)
 
-Figure 1. The probability of majority correctness for different group sizes and competence levels. [An extended description of Figure 1 is in the supplement.]
+*Figure 1.* The probability of majority correctness for different group sizes and competence levels. [An extended description of Figure 1 is in the supplement.]
 
 Figure 1 illustrates increasing majority reliability, for different levels of individual competence $p=P(R_{i})$. Note the fast convergence to one, even for just slightly competent individuals.
 
@@ -155,11 +153,9 @@ The dilemma can be escaped with a jury theorem with more plausible premises and 
 
 Although voters will be incompetent under some (unfortunate) instances $x$ of the facts $\mathbf{x}$, they will plausibly be competent most of the time, i.e., under most facts instances. This suggests replacing Conditional Competence with the weaker premise of *Tendency to Competence*. What is this axiom? It says that competence is more often high than low. More precisely, competence exceeds 0.5 by some amount at least as often as it falls below 0.5 by this amount, for any positive amount. So, competence is 0.51 at least as often as 0.49; it is 0.55 at least as often as 0.45; etc. Formally, an individual $i$’s specific competence $P(R_{i}|\mathbf{x})$ depends on the (random) facts $\mathbf{x}$, hence is itself random. If its value exceeds $\frac{1}{2}$, the facts can be called *truth-conducive* or *easy* for $i$; if its value is below $\frac{1}{2}$, the facts can be called *misleading* or *difficult* for $i$; if its value is $\frac{1}{2}$, the facts can be called *neutral* for $i$, as they do not push in any direction. A discrete random number (such as specific competence $P(R_{i}|\mathbf{x})$) *tends to exceed* $\frac{1}{2}$ if, for each $\epsilon>0$, it equals $\frac{1}{2}+\epsilon$ at least as likely as $\frac{1}{2}-\epsilon$.
 
-*Figure 2.*
-
 ![a plot: link to extended description below](../assets/jury-theorems/Fig2.png)
 
-Figure 2. A competence distribution that tends to exceed $\frac{1}{2}.$ [An extended description of Figure 2 is in the supplement.]
+*Figure 2.* A competence distribution that tends to exceed $\frac{1}{2}.$ [An extended description of Figure 2 is in the supplement.]
 
 Figure 2 gives an example where specific competence (with values $0, \frac{1}{8},$ $\frac{1}{4},$ $\frac{3}{8}, \ldots, 1)$ tends to exceed $\frac{1}{2}$: competence is $\frac{5}{8}$ with higher probably than $\frac{3}{8}$; it is $\frac{3}{4}$ with higher probably than $\frac{1}{4}$; etc. Visually, this makes the distribution lean to the right.
 
@@ -190,11 +186,9 @@ Table 1 summarizes the three jury theorems.
 
 All theorems yield increasing reliability, but only the first two yield asymptotic infallibility. The independence assumption evolves from unconditional to conditional.
 
-*Figure 3.*
-
 ![4 plots a, b1, b2, and c: link to extended description below](../assets/jury-theorems/Fig3.png)
 
-Figure 3. The three competence axioms UC, CC and TC. [An extended description of Figure 3 is in the supplement.]
+*Figure 3.* The three competence axioms UC, CC and TC. [An extended description of Figure 3 is in the supplement.]
 
 Figure 3 illustrates how the competence assumption evolves:
 
@@ -263,11 +257,9 @@ Collective decision-making can be subdivided into a deliberation phase, in which
 
 Causal graphs help to understand how diversity affects deliberation. Think of the votes (judgments) as embedded in a causal graph. Each individual’s vote is a (probabilistic) causal consequence of this individual’s judgment sources: informational sources, intellectual influences, etc. The more the sources differ across individuals, the more diverse the group is. In deliberation, members share their sources. This changes the causal structure: whenever a source is shared with an individual $i$, a causal arrow is added from that source to $i$’s vote. This enlarges a voter’s spectrum of sources.
 
-*Figure 4.*
-
 ![two diagrams (a) and (b): link to extended description below](../assets/jury-theorems/Fig4.png)
 
-Figure 4. Source sharing through deliberation. [An extended description of Figure 4 is in the supplement.]
+*Figure 4.* Source sharing through deliberation. [An extended description of Figure 4 is in the supplement.]
 
 Figure 4 gives an illustration with just two sources and three individuals. Source sharing makes the basis of judgments more similar across individuals, possibly letting judgments converge. Ideal deliberation achieves full source sharing, as in Figure 4. The more diverse the group was initially, the more sources there are to share, hence the more deliberation can “do”.
 
@@ -328,11 +320,9 @@ The first intuition needs nuancing. Deliberation reduces *unconditional* judgmen
 
 Turning to the second intuition, deliberation certainly affects competence. Since deliberation tends to widen the basis of judgments (see again Section 3.4), the effect on competence tends to be positive, as one may conjecture. All three competence axioms considered in Section 2 would then hold more easily with deliberation than without. This conjecture is illustrated in Figure 5.
 
-*Figure 5.*
-
 ![three plots a, b, and c: link to extended description below](../assets/jury-theorems/Fig5.png)
 
-Figure 5. Three examples where deliberation improves competence. Grey: pre-deliberation. Black: post-deliberation. [An extended description of Figure 5 is in the supplement.]
+*Figure 5.* Three examples where deliberation improves competence. Grey: pre-deliberation. Black: post-deliberation. [An extended description of Figure 5 is in the supplement.]
 
 Plots a, b and c refer to the competence axiom of Condorcet’s, the Conditional, and the Competence-Sensitive Jury Theorem, respectively. In all three plots, the competence axiom is violated pre-deliberation, and holds post-deliberation— an extreme example where deliberation is of vital importance. In Plot a, deliberation lets general competence $P(R_{i})$ move from 0.4 to 0.8 post-deliberation, so that Condorcet’s competence axiom UC becomes satisfied. In Plots b and c, the distribution of specific competence across facts moves upwards, making the respective competence axiom satisfied.
 

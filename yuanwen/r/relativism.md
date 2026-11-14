@@ -31,8 +31,6 @@ Each of (a)–(c) exhibits a relation of dependence where a change in the indepe
 
 The *co-variance definition* proceeds by asking the dual questions: (i) what is relativized? and (ii) what is it relativized to? The first question enables us to distinguish forms of relativism in terms of their *objects*, for example, relativism about truth, goodness, beauty, and their subject matters, e.g., science, law, religion. The answer to the second question individuates forms of relativism in terms of their *domains* or frames of reference—e.g., conceptual frameworks, cultures, historical periods, etc. Such classifications have been proposed by Haack (1996), O’Grady (2002), Baghramian (2004), Swoyer (2010), and Baghramian & Coliva (2019). The following table classifies different relativistic positions according to what is being relativized, or its objects, and what is being relativized to, or its domains.
 
-*Table 1:*
-
 |   | (I) Individual’s viewpoints and preferences | (II) Historical Epochs | (III) Cultures, society, social groupings | (IV) Conceptual schemes, languages, frameworks | (V) Context of assessment, e.g., taste parameter, assessor’s/agent’s set of beliefs |
 | --- | --- | --- | --- | --- | --- |
 | (A) Cognitive norms, e.g., rationality, logic | Alethic Subjectivism/ Epistemic Subjectivism | Alethic and Epistemic Historicism | Alethic Cultural Relativism/ Epistemic Cultural Relativism | Alethic Relativism/Epistemic Relativism | Alethic Relativism |
@@ -41,7 +39,7 @@ The *co-variance definition* proceeds by asking the dual questions: (i) what is 
 | (D) Thoughts, Perception | Thought/percept Subjectivism | Thought/percept Historicism | Thought/percept Cultural/Social Relativism | Thought/percept Conceptual Relativism, Linguistic Relativity | N/A |
 | (E) Propositions or tokens of utterances expressing personal preferences, future contingents, epistemic models, aesthetic and moral predicates | N/A | N/A | N/A | N/A | New Relativism |
 
-Table 1: Domains of Relativization (*y*)
+*Table 1:* Domains of Relativization (*y*)
 
 Table 1 reflects the availability of fine-grained distinctions between different forms of relativism as functions of both objects (*x*) and domains (*y*) of relativization. In practice, however, much contemporary discussions of relativism focus on subjectivism, historicism, cultural relativism and conceptual relativism, along the axis of *y*, and cognitive/epistemic relativism, ethical or moral relativism and aesthetic relativism, along the axis of *x*. As we shall see in §5, New Relativism, where the *objects of relativization* (in the left column) are utterance tokens expressing claims *about* cognitive norms, moral values, etc. and the domain of relativization is the standards of an assessor, has also been the focus of much recent discussion.
 

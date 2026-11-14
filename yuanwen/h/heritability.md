@@ -37,11 +37,9 @@ Heritability can be estimated in humans by comparing resemblance in the phenotyp
 
 Finally, we can get a sense of the heritability of a trait by finding the slope of the regression line on the plots of offspring value for a trait graphed with parental value. If the slope is 1, the trait is entirely genetic and if the slope is 0, then the trait is not genetic at all. If the variation among individuals is due to variation in their genes, then offspring ought to resemble their parents. Heritability is always a value between 1 and 0. In the graph below (Figure 2.) values for mid-parent height and mid-offspring height are plotted for a small sample population (mid-parent height is the average of the height of both parents). The slope of the regression line is .75, which indicates high heritability. (It should be stressed that this is a very informal presentation of this kind of estimation of heritability and for this approach to provide any useful results important constraints on the nature of the population and the relevant environment would have to be satisfied.)
 
-*Figure 2.*
-
 ![image](../assets/heritability/heritability-height.png)
 
-Figure 2.
+*Figure 2.*
 
 So far we have introduced methods of measuring or calculating heritability that are somewhat intuitive. The problem is that these methods do not acknowledge all that is involved in the production of variation in the quantitative traits of organisms in a population. If we stick to the example of variation in height in a sample population of humans, we will discover that in most representative samples, heights are distributed more or less normally. The variance in height is defined as the average of the squared difference between each measured height and the mean height for the population. Variance in phenotype or phenotypic variance is symbolized as $V_P$. (From here until the end of this section we adopt a specific strategy for presenting the equations used in spelling out heritability relations. We start out, with equation (1) below, by presenting the simplest version of the relevant equations. Simple equations such as (1) below are rarely ever satisfied but are routinely presented as adequate in elementary introductions to behavioral genetics. Subsequent equations in the sequence below render the relevant situation more accurately. Population geneticists endorse variants of (1′) below and do not endorse (1).)
 
@@ -83,11 +81,9 @@ Francis Galton promoted a version of Darwin’s account of inheritance that clea
 
 The predominant tool for twin studies practitioners since the late 1970’s is the statistical ‘ACE model’ (Figure 3.).
 
-*Figure 3.*
-
 ![ACE model diagram](../assets/heritability/fig2.png)
 
-Figure 3.
+*Figure 3.*
 
 The ACE model is a factor analytic model that partitions phenotypic variance (represented with boxes) into three latent components (represented with circles). The first latent factor, ‘A’ represents ‘additive’ genetic variance and captures genetic similarities and dissimilarities between twin pairs, as monozygotic (MZ) ‘identical’ twins share roughly 100% of their DNA while dizygotic (DZ) ‘fraternal’ twins share roughly 50% of their DNA, just like normal siblings. The component ‘*C*’ represents ‘common’ environment, signifying environmental variance that is shared by twin pairs reared together. For example, because both MZ and DZ twin pairs live in the same home, the correlation between their shared environment equals 1. Finally, ‘*E*’ represents ‘unique’ or non-shared environmental variance, capturing environmental variables that vary between twin pairs. In effect, it is the environmental variation that is not shared by twins outside the home which ends up getting couched as ‘*E*’, as is the case when twins attend different institutions or undergo different life events.
 
@@ -151,11 +147,9 @@ Discussions of the viability of heritability measures were very heated in the 19
 
 The point of departure for many philosophers criticizing heritability analysis is Lewontin’s (1974) paper on the analysis of variance. (It is worth noting that Lewontin’s paper is somewhat informal and should perhaps be best viewed as Lewontin’s attempt to pass on the received wisdom among population geneticists at the time to a wider audience. The formal arguments Lewontin alludes to are presented in a number of places including Layzer (1974) (and later Kempthorne (1978)) and precursors to these arguments can be found in Hogben (1933) and can also be found in R.A. Fisher’s work (See also Sarkar 1998)[^sarkar-1998].) Lewontin claims that equation $(1^{\prime\prime}$) above presents the most accurate picture of the contributions to phenotypic variance. He goes on to argue that $V_{I}, V_{G\times E}$ and $\COV(G,E)$ are not negligible (a point Falconer had already made in 1960, as noted above)[^falconer-1960]. In fact, Lewontin argues that these are always part and parcel of the variance in traits. As a result, apportioning the phenotypic variance between genes and environment is no easy matter and standard analyses of variance simply cannot come up with useful and informative values for $h_b^2$ and $h^2$. Lewontin also points out that many proponents of heritability measures mistakenly attribute the heritability values to individuals rather than populations. Further, he argues that norms of reaction gave a more accurate picture of the relations between genes, environment and phenotypic traits. A norm of reaction is a graph of a quantitative phenotype plotted as a function of environment for different genotypes (See Figure 4. below, from Lewontin 1974)[^lewontin-1974]. Many philosophers and biologists have extended and refined Lewontin’s criticism of the analysis of variance (e.g. Block 1995, Kitcher 1985, Sarkar 1998, Sober 1988, Northcott 2006)[^block-1995][^kitcher-1985][^northcott-2006][^sarkar-1998][^sober-1988] and most share his conclusions that heritability measures are hard to come by and that norms of reaction are a superior way to examine gene/environment interactions.
 
-*Figure 4.*
-
 ![norm of reaction graphs](../assets/heritability/Lewontin-norms.jpg)
 
-Figure 4.
+*Figure 4.*
 
 Lewontin (2006) later adds “The point of the (1974) paper was to explain why the statistical partitioning of observed variation in phenotype into variance associated with variation in genetic relationship as opposed to variance assigned to environmental dissimilarities does not, in fact, separate genetic and environmental causes in development” (2006, 536). He adds that advances in molecular genetics now make it “possible to provide a detailed molecular analysis of the chain of causation between nucleotide substitution and cell development and function” (Lewontin, 2006, 536)[^lewontin-2006]. (Sober (1988) also emphasizes this aspect of Lewontin’s criticism of the analysis of variance.) Lewontin makes clear what he takes genetic causation to be: the causal chain from a DNA sequence to a protein product taking place within cells of organisms. His point is that statistical methods of population genetics and behavioral genetics alone are not appropriate to the task of revealing genetic causes construed this way. We revisit this issue in Section 6. recast in light of GWAS and other “molecular” techniques of measuring heritability.
 

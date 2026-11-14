@@ -31,8 +31,6 @@ The sentences, built up from propositional variables and ordinary truth-function
 
 **Theory A.** Theory A, presented in Figure 1, is an extension of propositional calculus. Postulates $A_1–A_5$ show that Halldén treats $>$ as an asymmetrical and transitive relation, i.e., a partial order, while “$\equiv$” is treated as a reflexive, symmetrical and transitive relation, i.e., an equivalence relation. Halldén traced these assumptions back to Menger as early as 1939 (cf. Menger 1939)[^menger-1939]. $A_6$ concerns the interrelationship between the notions of better and equal value. The expansion principles $A_7$ and $A_8$ make use of negation. They also play a central role in von Wright’s preference logic later on.
 
-*Figure 1.*
-
 **Theory A**
 
 All theorems of propositional calculus are postulates of Theory A.
@@ -51,15 +49,13 @@ Suppose $\varphi$ and $\tau_1\equiv\tau_2$ are theorems of A, $\psi$ is an A-for
 
 $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
 
-Figure 1.
+*Figure 1.*
 
 Halldén proves that Theory A is consistent. He presents several theorems of theory A such as contraposition: $p>q \rightarrow\neg q>\neg p$. He also considers fourteen optional postulates that can be added to Theory A. For example, there is the distribution postulate, $p>(q\land r)\rightarrow p>q \land p>r$, and the connectedness postulate, $p>q \lor p\equiv q \lor q>p$.
 
 **Theory B.** The language of Theory B is a fragment of that of Theory A containing only those sentences that do not contain nested occurrences of $>$ and $\equiv$. Also, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a B-formula, then $\varphi$ and $\psi$ do not contain conjunction or disjunction symbols.
 
 Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5$ are identical to $A_1–A_5$, $B6$ can be derived from Theory A, and $B_7$ represents connectedness.
-
-*Figure 2.*
 
 **Theory B**
 
@@ -68,7 +64,7 @@ Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5
 
 $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
 
-Figure 2.
+*Figure 2.*
 
 Theory B has been proven to be consistent. Interestingly, a procedure is provided to decide whether a given formula is a theorem of B. It consists of two steps called *univocal* expansion and *multivocal* expansion.
 
@@ -121,13 +117,11 @@ were all true and $(p\land \neg q>\neg p \land q)$ were false. But this conflict
 
 Looking at the five principles concerning preference, one has to be careful because they are not closed under substitution. The reasoning behind this limitation is explained below.
 
-*Figure 3.*
-
 **Von Wright’s 5 preference principles**
 
 $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
-Figure 3.
+*Figure 3.*
 
 Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, p and q. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the table above.
 
@@ -149,11 +143,9 @@ While $V_1$, $V_2$, $V_3$ and $V_4$ appear in many axiomatic preference logics, 
 
 Since Halldén, numerous principles have been explored in the literature. For a comprehensive review see S. O. Hansson’s (2001) chapter on the subject, which includes the following examples:
 
-*Figure 4:*
-
 $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
 
-Figure 4: More preference principles
+*Figure 4:* More preference principles
 
 Both Halldén and von Wright emphasize the generality of the preference principles by adopting a syntactic or algorithmic approach. Later researchers have often used examples to support or challenge these principles, and many preference properties remain unsettled.
 
@@ -185,8 +177,6 @@ Van Dalen calls the semantics described above irrational semantics, mainly becau
 
 Van Dalen presents several theories—**PREFIR**, **PREF**, **PREFL**, and **PREFR**—outlined in Figure 5. He demonstrates that **PREFIR** is complete for irrational semantics, **PREF** is complete for semantics with condition (i), **PREFL** is complete for linear semantics, and **PREFR** is complete for Rescher semantics.
 
-*Figure 5.*
-
 Van Dalen’s preference theories **PREFIR**, **PREF**, **PREFL** and **PREFR**
 
 - All tautologies of classical propositional logic are axioms.
@@ -212,7 +202,7 @@ Axioms P1, P2, P3
 
 Axioms P1, P2, P3, P4
 
-Figure 5.
+*Figure 5.*
 
 Moreover, Van Dalen shows that all systems have the finite model property and are decidable. He also extends the language with monadic operators for good, bad and neutral, and he considers nested preference statements. Other authors like Chisholm and Sosa (1966) consider first-order extensions of such preference logics.
 
@@ -238,8 +228,6 @@ The theory shown in Figure 6 below is an axiomatization of the modal preference 
 
 $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
 
-*Figure 6.*
-
 **Modal preference logic**
 
 - S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
@@ -251,7 +239,7 @@ $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \mod
 - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
 - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
 
-Figure 6.
+*Figure 6.*
 
 ### 3.3 Preference lifting
 
@@ -286,8 +274,6 @@ and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
 
 The complete axiomatization of Halpern (1997) when $\succeq$ is a partial order consists of the axioms and rules listed in Figure 7. Axiom 2 corresponds to the reflexivity of $\succeq$, and axiom 3 corresponds to the transitivity of $\succeq$. In the case of a total preorder, the axiom $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$ must be added.
 
-*Figure 7.*
-
 **System AX**
 
 1. All substitution instances of tautologies of propositional calculus.
@@ -297,7 +283,7 @@ The complete axiomatization of Halpern (1997) when $\succeq$ is a partial order 
 5. Gen. $U\varphi,$ for all propositional tautologies.
 6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
 
-Figure 7.
+*Figure 7.*
 
 A recent paper by Shi and Sun (2021) explores an alternative method of preference lifting known as the Egli-Milner order. This bidirectional approach, formally defined below, considers both the best and worst elements across sets, aligning with the maximin principle of favorably balancing the worst outcomes:
 
@@ -501,19 +487,15 @@ These are interpreted as the standard *PDL* program operations of *test* $?\varp
 
 In the two-layer framework, it is interesting to see how priority dynamics can mirror preference dynamics. For example, it is possible to achieve a preference change due to a “suggestion” operator either by altering the world-layer preference relation or by modifying the priority base. If a new proposition A is added in parallel to an existing base $\mathscr{B}$, the preference relation is updated, as shown in the following commuting diagram:
 
-*Diagram A:*
-
 ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
 
-Diagram A: Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
+*Diagram A:* Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
 
 Similarly, placing a new proposition A at the top of the priority graph $(\mathscr{B}, <)$ aligns with a radical upgrade at the world level:
 
-*Diagram B*
-
 ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
 
-Diagram B: Commutative diagram where new proposition A is placed at the top of the priority graph [An extended description of Diagram B is in the supplement.]
+*Diagram B*: Commutative diagram where new proposition A is placed at the top of the priority graph [An extended description of Diagram B is in the supplement.]
 
 These examples illustrate cases where priority-layer transformations correspond seamlessly with world-layer relation updates.
 
@@ -565,8 +547,6 @@ The relation $\trianglerighteq_{\Gamma}$ is essentially an intersection of two r
 
 For those cases where $\Gamma$ is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of *ceteris paribus*, the new set of axioms is found in Figure 8.
 
-*Figure 8:*
-
 Reflexivity axioms for *ceteris paribus* sets where $\varphi\in\Gamma$:
 
 1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
@@ -584,7 +564,7 @@ Axioms characterizing the changes to the *ceteris paribus* sets:
 2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
 3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
 
-Figure 8: Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
+*Figure 8:* Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
 
 In the full language, $\Gamma$ in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
 

@@ -30,8 +30,6 @@ Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻�
 
 **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1–A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”两概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
 
-图 1
-
 **理论 A**
 
 命题演算的一切定理都是理论 A 的公设。
@@ -57,8 +55,6 @@ Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否�
 **理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 $\varphi$ 与 $\psi$ 不含合取或析取符号。
 
 理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
-
-图 2
 
 **理论 B**
 
@@ -120,8 +116,6 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 考察这五条关于偏好的原理时须加小心，因为它们在代入下不封闭。这一限制背后的推理在下文说明。
 
-*Figure 3.*
-
 **von Wright 的五条偏好原则**
 
 $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
@@ -147,8 +141,6 @@ $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg
 虽然 $V_1$、$V_2$、$V_3$ 与 $V_4$ 出现于许多公理化偏好逻辑中，$V_5$ 却不然。原因是 $V_5$ 不能与代入相结合。
 
 自 Halldén 以来，文献中已探索了大量原理。全面的综述见 S. O. Hansson（2001）关于该主题的章节，其中包含如下例子：
-
-*Figure 4:*
 
 $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{使得 } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
 
@@ -183,8 +175,6 @@ Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的�
 3. A 为实数集，且 $m(\neg \varphi)=-m(\varphi)$。
 
 Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR**——概述于图 5。他证明：**PREFIR** 对非理性语义完全，**PREF** 对带条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对 Rescher 语义完全。
-
-*Figure 5.*
 
 Van Dalen 的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
 
@@ -237,8 +227,6 @@ $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    当且仅当有 v 满足 
 
 $\mathcal{M}, w \models E\varphi$    当且仅当有 $v, \mathcal{M}, v \models \varphi$。
 
-*Figure 6.*
-
 **模态偏好逻辑**
 
 * $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
@@ -284,8 +272,6 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 其中 u 支配 V，当且仅当不存在 $v' \in V$ 使 $v'\succ u$。
 
 当 $\succeq$ 是偏序时，Halpern（1997）的完全公理化由图 7 所列的公理与规则构成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形，还须添加公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
-
-*Figure 7.*
 
 **系统 AX**
 
@@ -563,8 +549,6 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 * $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 
 对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
-
-*Figure 8:*
 
 其余条件相同集在 $\varphi\in\Gamma$ 情形下的自反性公理：
 

@@ -561,16 +561,23 @@ def list_to_md(inner, ordered, slug, indent=0):
 def figure_to_md(inner, slug):
     out = []
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
+    cap = inline_to_md(fl.group(1), slug) if fl else ''
     if fl:
-        cap = inline_to_md(fl.group(1), slug)
-        if cap:
-            out.append('*%s*' % cap)
+        # 2026-11-14 全量回归（缺陷三）：图注 span 旧式被摘出到块首另行成行，
+        # 而原 <p> 里的同一段文字仍留在正文，致图注成对重复（*Figure 3.* 与
+        # 其后正文里的 Figure 3.；198 词条 903 处）。改为就地转斜体，按源序
+        # 只出现一次；块未保留 span 时下面兜底仍补图注行。
+        inner = re.sub(r'<span class="figlabel">(.*?)</span>',
+                       lambda m: '*%s*' % inline_to_md(m.group(1), slug),
+                       inner, flags=re.S | re.I)
     # 图注与其余内容不再丢弃（2026-10-27 数学保真裁定：SEP 常把表格、公式
     # 段落整个包进 <div class="figure">）；图片统一由 inline_to_md 接线
     # （2026-10-28 D15：不再单独挑首图、不再剥除其余 <img>）
     sub = Ctx(slug)
     render_blocks(extract_blocks_raw(inner), sub)
     body = '\n'.join(sub.out).strip()
+    if cap and cap not in body:
+        out.append('*%s*' % cap)
     if body:
         out.append(body)
     return '\n\n'.join(out)

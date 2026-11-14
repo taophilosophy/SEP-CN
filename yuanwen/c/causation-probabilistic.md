@@ -29,11 +29,9 @@ The central idea behind probabilistic theories of causation is that causes *chan
 
 (iv) *Spurious Regularities*. Suppose that a cause is regularly followed by two effects. Here is an example from Jeffrey (1969): Suppose that whenever the barometric pressure in a certain region drops below a certain level, two things happen. First, the height of the column of mercury in a particular barometer drops below a certain level. Shortly afterwards, a storm occurs. This situation is shown schematically in Figure 1. Then, it may well also be the case that whenever the column of mercury drops, there will be a storm. If so, a simple regularity theory would seem to rule that the drop of the mercury column *causes* the storm. In fact, however, the regularity relating these two events is *spurious*. The ability to handle such spurious correlations is probably the greatest source of attraction for probabilistic theories of causation.
 
-*Figure 1*
-
 ![A diagram with three text nodes. The base one is 'Drop in Barometric Pressure' with arrows pointing to 'Drop in Column of Mercury' and 'Storm'.](../assets/causation-probabilistic/figure1.svg)
 
-Figure 1
+*Figure 1*
 
 ### 1.2 Probability
 
@@ -140,11 +138,9 @@ Reichenbach introduced the terminology of *screening off* to describe a particul
 
 Reichenbach recognized that there were two kinds of causal structure in which *C* will typically screen *A* off from *E*. The first occurs when *A* causes *C*, which in turn causes *E*, and there is no other route or process by which *A* effects *E*. This is shown in Figure 2.
 
-*Figure 2*
-
 ![The letter 'A' with an arrow to the right pointing to the letter 'C' which in turn has an arrow to the right pointing to the letter 'E'](../assets/causation-probabilistic/figure2.svg)
 
-Figure 2
+*Figure 2*
 
 In this case, Reichenbach said that *C* is *causally between* *A* and *E*. We might say that *C* is an intermediate cause between *A* and *E*, or that *C* is a proximate cause of *E* and *A* a distal cause of *E*. For example, unprotected sex (*A*) causes AIDS (*E*) only by causing HIV infection (*C*). Then we would expect that among those already infected with HIV, those who became infected through unprotected sex would be no more likely to contract AIDS than those who became infected in some other way.
 
@@ -270,11 +266,9 @@ A probabilistic causal model also includes a probability measure P. P is defined
 
 Causal relationships among the variables in $\bV$ are represented by *graphs*. We will consider two types of graphs. The first is the *directed acyclic graph* (DAG). A *directed graph* $\bG$ on variable set $\bV$ is a set of ordered pairs of variables in $\bV$. We represent this visually by drawing an arrow from *X* to *Y* just in case $\langle X, Y\rangle$ is in $\bG$. Figure 3 shows a directed graph on variable set $\bV = \{S, T, W, X, Y, Z\}$.
 
-*Figure 3*
-
 ![a diagram with 6 letters. S has an arrow pointing to T which in turn has arrows pointing to X and Y. Y in turn has an arrow pointing to Z which has an arrow pointing to W which has an arrow pointing back to Y.](../assets/causation-probabilistic/figure3.svg)
 
-Figure 3
+*Figure 3*
 
 A *path* in a directed graph is a non-repeating sequence of arrows that have endpoints in common. For example, there is a path from *X* to *Z*, which we can write as $X \leftarrow T \rightarrow Y \rightarrow Z$. A *directed path* is a path in which all the arrows align by meeting tip-to-tail; for example, there is a directed path $S \rightarrow T \rightarrow Y \rightarrow Z$. A directed graph is *acyclic,* and hence a DAG, if there is no directed path from a variable to itself. The graph in Figure 3 is a DAG.
 
@@ -284,13 +278,11 @@ An arrow from *Y* to *Z* in a DAG represents that *Y* is a *direct cause* of *Z*
 
 A second type of graph that we will consider is an *acyclic directed mixed graph* (ADMG). An ADMG, will contain double-headed arrows, as well as single-headed arrows. A double-headed arrow represents a *latent* common cause. A latent common cause of variables *X* and *Y* is a common cause that is not included in the variable set $\bV$. For example, suppose that *X* and *Y* share a common cause *L* (Figure 4(a)). An ADMG on the variable set $\bV = \{X, Y\}$ will look like Figure 4(b).
 
-*Figure 4*
-
 | ![a diagram of three letters. L has arrows pointint to X and Y](../assets/causation-probabilistic/figure4a.svg) |   | ![a diagram of two letters. X and Y have a double-headed arrow connecting them.](../assets/causation-probabilistic/figure4b.svg) |
 | --- | --- | --- |
 | (a) |   | (b) |
 
-Figure 4
+*Figure 4*
 
 We only need to represent missing common causes in this way when they are *closest* common causes. That is, a graph on $\bV$ should contain a double-headed arrow between *X* and *Y* when there is a variable *L* that is omitted from $\bV$, such that if *L* were added to $\bV$ it would be a *direct cause* of *X* and *Y*. Double-headed arrows do not give rise to “genealogical” relationships: in Figure 4(b), *X* is not a parent, ancestor, or descendant of *Y*.
 
@@ -334,19 +326,15 @@ MC_{*d*-separation} uses the graphical notion of *d*-separation, introduced by P
 
 Note that MC provides sufficient conditions for variables to be probabilistically independent, conditional on others, but no necessary condition. The Markov Condition entails many of the same screening off relations as Reichenbach’s Common Cause Principle, discussed in Section 2.3 above. Here are some examples:
 
-*Figure 5*
-
 ![a diagram of 5 letters. T has an arrow to W which has arrows to X and Z. X in turn has an arrow to Y.](../assets/causation-probabilistic/figure5.svg)
 
-Figure 5
+*Figure 5*
 
 In Figure 5, MC implies that *X* screens *Y* off from all of the other variables, and that *W* screens *Z* off from all of the other variables. This is most easily seen from MC_{Screening off}. *W* also screens *T* off from all of the other variables, which is most easily seen from MC_{*d*-separation}. MC does not imply that *T* screens *Y* off from *Z* (or indeed anything from anything). While *Y* and *Z* do have a common cause that screens them off (*W*), not all common causes screen them off (*T* does not have to), and not everything that screens them off is a common cause (*X* screens them off but is not a common cause).
 
-*Figure 6*
-
 ![a diagram of 3 letters. X and Y both have arrows pointing to Z.](../assets/causation-probabilistic/figure6.svg)
 
-Figure 6
+*Figure 6*
 
 In Figure 6, MC entails that *X* and *Y* will be unconditionally independent, but not that they will be independent conditional on *Z*. This is most easily seen from MC_{*d*-separation}.
 
@@ -358,11 +346,9 @@ MC is not expected to hold for arbitrary sets of variables $\bV$, even when the 
 
 If there are latent common causes, we expect MC_{Screening off} and MC_{Factorization} to fail if we apply them in a naïve way. For example, suppose that the true causal structure on $\bV = \{X, Y, Z\}$ is shown by the ADMG in Figure 7.
 
-*Figure 7*
-
 ![a diagram of three letters. X has an arrow to its right pointing to Y which in turn has an arrow to its right to Z; a double headed curved arrow connects X and Z. ](../assets/causation-probabilistic/figure7.svg)
 
-Figure 7
+*Figure 7*
 
 *Y* is the only parent of *Z* shown in the graph, and if we try to apply MC_{Screening_off}, it tells us that *Y* should screen *X* off from *Z*. However, we would expect *X* and *Z* to be correlated, even when we condition on *Y*, due to the latent common cause. The problem is that the graph is missing a relevant parent of *Z*, namely the omitted common cause. However, suppose that the probability distribution is such that *if* the latent cause *L* were added, the probability distribution over the expanded set of variables would satisfy MC with respect to the resulting DAG. Then it turns out that the probability distribution will *still* satisfy MC_{*d*-separation} with respect to the ADMG of Figure 8. This requires us to expand the definition of *d*-separation to include paths with double-headed arrows. For instance, *Z* is a collider on the path $Y \rightarrow Z \leftrightarrow X$ (since *Z* has two arrows pointing into it), but *X* is not a collider on the path $Y \leftarrow X \leftrightarrow Z$. Thus we will say that a probability distribution P satisfies the Markov Condition relative to an ADMG just in case it satisfies MC_{*d*-separation}.
 
@@ -387,11 +373,9 @@ $$\PP(Y = y \mid X = x \amp \bZ = \bz) \ne \PP(Y = y \mid X = x' \amp \bZ = \bz)
 
 (ii) *The Faithfulness Condition*. The Faithfulness Condition says that all of the (conditional and unconditional) probabilistic independencies that exist among the variables in $\bV$ are *required* by the MC. For example, suppose that $\bV = \{X, Y, Z\}$. Suppose also that *X* and *Y* are unconditionally independent of one another, but dependent, conditional upon *Z*. (The other two variable pairs are dependent, both conditionally and unconditionally.) The graph shown in Figure 8 does not satisfy the faithfulness condition with respect to this distribution (colloquially, the graph is not faithful to the distribution). MC, when applied to the graph of Figure 8, does not imply the independence of *X* and *Y*. By contrast, the graph shown in Figure 6 above is faithful to the described distribution. Note that Figure 8 does satisfy the Minimality Condition with respect to the distribution; no subgraph satisfies MC with respect to the described distribution. In fact, the Faithfulness Condition is strictly stronger than the Minimality Condition.
 
-*Figure 8*
-
 ![a diagram of three letters with X having arrows pointing to Z and Y and also an arrow from Z to Y.](../assets/causation-probabilistic/figure8.svg)
 
-Figure 8
+*Figure 8*
 
 The Faithfulness Condition implies that the causal influences of one variable on another along multiple causal routes do not ‘cancel’. In Figure 8, *X* influences *Y* along two different directed paths. If the effect of one path is to exactly undo the influence along the other path, then *X* and *Y* will be probabilistically independent. The Faithfulness Condition forbids such exact cancellation. This ‘no canceling’ condition seems implausible as a metaphysical or conceptual constraint upon the connection between causation and probabilities. For example, if one gene codes for the production of a particular protein, and suppresses another gene that codes for the same protein, the operation of the first gene will be independent of the presence of the protein. Cartwright (2007: chapter 6) and Andersen (2103) argue that violations of faithfulness are widespread.
 
@@ -558,11 +542,9 @@ $$\begin{align} \PP(\BT_1= 1 \mid \ST_0= 1) &{} = .1 \\ \PP(\BT_1= 1 \mid \ST_0=
 
 (Note that we have added a small probability for the bottle to shatter due to some other cause, even if neither Suzy nor Billy throw their rock. This ensures that the probabilities of all assignments of values to the variables are positive.) The corresponding graph is shown in Figure 9.
 
-*Figure 9*
-
 ![a three node diagram with node ST_0 having arrows pointing to nodes BS_2 and BT_1. Node BT_1 also has an arrow pointing to node BS_2.](../assets/causation-probabilistic/figure9.svg)
 
-Figure 9
+*Figure 9*
 
 Applying F-G, we can take $\bW = \{\BT_1\}$, $\bZ = \varnothing$. We have:
 
@@ -584,11 +566,9 @@ $$\begin{align} \PP(\SH_1= 1 \mid \ST_0= 1) &{} = .5\\ \PP(\SH_1= 1 \mid \ST_0= 
 
 As before, we have assigned probabilities close to, but not equal to, zero and one for some of the possibilities. The graph is shown in Figure 10.
 
-*Figure 10*
-
 ![Five node diagram with node ST_0 pointing to node SH_1 which points to node BS_2. Node BT_0 points to BH_1 which points to the aforementioned node BS_2.](../assets/causation-probabilistic/figure10.svg)
 
-Figure 10
+*Figure 10*
 
 We want to show that $\BT_0= 1$ is not an actual cause of $\BS_2= 1$ according to F-G. We will show this by means of a dilemma: is $\BH_1\in \bW$ or is $\BH_1\in \bZ$?
 

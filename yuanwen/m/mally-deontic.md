@@ -671,11 +671,9 @@ Second, the axioms of **ID** can be derived from the following theorems of **IPC
 
 [^note-24]: Proof: see Figure 1: ¬ ¬ (2 ∨ 3) → (¬ ¬ 2 ∨ ¬ ¬ 3) = ¬ ¬ 4 → 4 = 1 → 4 = 4.
 
-*Figure 1.*
-
 ![logical-and and logical-or are interpreted as lattice meet and join](../assets/mally-deontic/matrix5.png)
 
-Figure 1. ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
+*Figure 1.* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
 
 [^note-25]: Proof: see Figure 1: ¬ (2 & ¬ ¬ ¬ 2) ↔ (¬ 2 ∨ ¬ ¬ 2) = 1 ↔ 4 = 4.
 
@@ -699,11 +697,9 @@ Second, if !(A ∨ B) → (!A ∨ !B) is a theorem, then (13b) is also a theorem
 
 [^note-27]: Proof: see Figure 2: ¬ ¬ 2 → 2 = 1 → 2 = 2.
 
-*Figure 2.*
-
 ![logical-and and logical-or are interpreted as lattice meet and join](../assets/mally-deontic/matrix3.png)
 
-Figure 2. ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
+*Figure 2.* ∧ and ∨ are interpreted as lattice meet and join, respectively. The designated value is 1. Matrix from McKinsey 1939, p. 157.
 
 [^note-28]: Proof. **IPC** provides (A → ¬ ¬ B) ↔ (¬ ¬ A → ¬ ¬ B), so **ID** provides (A → !B) ↔ (!A → !B) by Fact 1. **ID** provides !A ↔ ¬ ¬ A by Fact 1.
 

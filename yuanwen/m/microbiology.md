@@ -24,8 +24,6 @@ The tide turned in the early 2000s, when increasing numbers of philosophers bega
 
 A clarification necessary at the outset is that none of this work depends on or justifies drawing a hard line between microbes and non-microbes. Life is not most effectively or clearly divided into two groups of microbes and macrobes, nor unicellular and multicellular organisms (see Table 1). While these terms might seem obvious to non-microbiologists, closer scrutiny reveals many overlaps between these groups (O’Malley 2014)[^o’malley-2014]. Older ‘kingdom’ perspectives identified at least two kinds of microorganisms (bacteria and protists), plus three kinds of multicellular organisms (plants, fungi, and animals) (Whittaker 1969)[^whittaker-1969]. Subsequent classifications expanded the category to which bacteria belong and sometimes continued to conflate them with a superficially similar group of organisms now called Archaea (e.g., Margulis 1996)[^margulis-1996]. From cell-biological and evolutionary perspectives, however, lumping Bacteria and Archaea together as one kind of life is seriously misleading (Woese 1994; Pace 2006; Embley and Williams 2015; Table 1)[^embley-2015][^pace-2006][^woese-1994].
 
-*Table 1:*
-
 | **Term** | **Usage/definition** | **Issues and context** |
 | --- | --- | --- |
 | **Microorganism, microbe** (informal) | Unicellular organism; sometimes any organism viewed microscopically | Many microbes form multicellular colonies or structured consortia; some single cells are visible (e.g., slime moulds); no classificatory or evolutionary basis |
@@ -40,7 +38,7 @@ A clarification necessary at the outset is that none of this work depends on or 
 | **‘Lower organism’**: antiquated terminology for small and less apparently complex lifeforms | Persists in non-microbiological discussions of microbes | Not validated by any biological or evolutionary approach; tends to imply great-chain-of-being progressivism. |
 | **‘Higher organism’**: similarly antiquated terminology for large and more obviously complex organisms | Persists in zoology, botany, and some broader communication of biology (see Rigato & Minelli 2013)[^rigato-2013] | Not validated by any biological or evolutionary approach; tends to imply great-chain-of-being progressivism. |
 
-Table 1: serves as a glossary for subsequent sections. It shows some of the historical terminology and classifications of microbes, plus issues with various terms and categories.
+*Table 1:* serves as a glossary for subsequent sections. It shows some of the historical terminology and classifications of microbes, plus issues with various terms and categories.
 
 Recognizing the looseness of the terms used to designate microbes does not mean, however, that either the study or impact of microorganisms is incoherent or disconnected. Unicellular life forms—organisms with the ability to live and reproduce as a single cell most (but not necessarily all) of the time[^note-3]— have indisputably large biological spheres of action and thus implications for all living things.
 

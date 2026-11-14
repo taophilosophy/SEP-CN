@@ -117,11 +117,9 @@ The actualist HOT account avoids some of the difficulties inherent in inner-sens
 
 A common initial objection to HOT theory is that it leads to an *infinite regress*. It might seem that an infinite regress results because a conscious mental state (M) must be accompanied by a HOT, which, in turn must be accompanied by another HOT and so on. However, the standard and widely accepted reply or explanation is that when M is conscious, the HOT is *not* itself conscious (Rosenthal 1986, 2005)[^rosenthal-1986][^rosenthal-2005]. When M is a first-order world-directed conscious state, such as a desire or perception, it is accompanied by an unconscious HOT. But when the HOT is itself conscious, there is a yet another higher-order (or third-order) thought directed at the conscious HOT. This would be a case of *introspection* such that one’s attention is directed inward at M (such as introspecting my desire). (See Figure 1.)
 
-*Figure 1:*
-
 ![a diagram: link to extended description below](../assets/consciousness-higher/HOT-figure.svg)
 
-Figure 1: The Higher-Order Thought (HOT) Theory of Consciousness extended description of figure 6 is in the supplement.]
+*Figure 1:* The Higher-Order Thought (HOT) Theory of Consciousness extended description of figure 6 is in the supplement.]
 
 Another early objection to HOT theory is due to Dretske (1993). We are asked to imagine a case in which we carefully examine two line-drawings, say (or in Dretske’s example, two patterns of differently-sized spots). These drawings are similar in almost all respects, but differ in just one aspect—in Dretske’s example, one of the pictures contains a black spot that the other lacks. It is surely plausible that, in the course of examining these two pictures, one will have enjoyed a conscious visual experience of the respect in which they differ—e.g., of the offending spot. But, as is familiar, one can be in this position while not knowing *that* the two pictures are different, or in what *way* they are different. In which case, since one can have a conscious experience (e.g., of the spot) without being aware that one is having it, consciousness cannot require higher-order awareness.
 

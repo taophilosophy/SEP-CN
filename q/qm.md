@@ -28,8 +28,6 @@
 
 **矢量** $A$，记作“${\lvert A \rangle}$”，是由长度 $|A|$ 与方向共同刻画的数学对象。归一化矢量是长度为 1 的矢量，即 $|A| = 1$。矢量可以相加、乘以常数（包括复数），也可以彼此相乘。矢量加法把任一对矢量映为另一个矢量。做法：平移第二个矢量，使其尾部与第一个矢量的尖端重合（二者长度与方向均不变），再从第一个矢量的尾部连到第二个矢量的尖端，所得即和矢量。这条规则称为平行四边形法则。例如，矢量 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 相加得矢量 ${\lvert C \rangle} (= {\lvert A \rangle} + {\lvert B \rangle})$，如图 1 所示：
 
-*Figure 1*
-
 ![矢量加法](../assets/qm/figure1.gif)
 
 图 1：矢量加法
@@ -45,8 +43,6 @@ $$ {\langle A \mid B \rangle} = |A| |B| \cos \theta $$
 $$ {\lvert B \rangle} = b_1 {\lvert A_1 \rangle} + b_2 {\lvert A_2 \rangle} $$
 
 例如，下图展示 ${\lvert B \rangle}$ 如何被表示为两个单位矢量 ${\lvert A_1 \rangle}$ 与 ${\lvert A_2 \rangle}$ 之和：
-
-*Figure 2*
 
 ![用单位矢量相加表示 B 态](../assets/qm/figure2.gif)
 

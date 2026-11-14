@@ -263,8 +263,6 @@ The appeal to overall benefit or collective efficiency has considerable attracti
 
 Different kinds of interventions raise different issues for assessing questions of legitimacy. The Nuffield Council on Bioethics has provided an influential “intervention ladder” (Nuffield Council on Bioethics 2007)[^nuffield-2007], which effectively rank orders various types of interventions on a continuum that is meant to function as a guide to the acceptability and justification of public health policies. The ladder is anchored at one end by what is presented as the least intrusive option, doing nothing, and at the other end by what is presented as the most intrusive option, eliminating choice altogether (as in compulsory isolation). The Council makes plain that all rungs on the ladder, including doing nothing, require justification and that the ladder is to be taken only as a tool in the moral analysis of public health policies.
 
-*Table.*
-
 | *Measure* | *Examples* |
 | --- | --- |
 | Eliminate Choice | quarantining individuals infected with Ebola |
@@ -276,7 +274,7 @@ Different kinds of interventions raise different issues for assessing questions 
 | Provide Information | educational campaigns; requirements for food labels |
 | Do nothing | ––– |
 
-Table. *Intervention Ladder* (Nuffield Council on Bioethics, Policy Process and Practice, 2007)[^nuffield-2007]
+*Table.* *Intervention Ladder* (Nuffield Council on Bioethics, Policy Process and Practice, 2007)[^nuffield-2007]
 
 While useful, the Nuffield ladder has at least three problems. First, the ladder does not canvas all of the paradigmatic interventions of public health. Surveillance, for instance, does not fit under any of the types of measures that appear on the ladder. Yet public health agencies engage in surveillance extensively; it is integral to promoting and protecting public health. And surveillance activities, too, raise difficult justificatory questions about citizen’s rights against intrusions by the state (Lee 2019; Taylor 2019; Fairchild and Bayer 2004)[^bayer-2004][^lee-2019][^taylor-2019].
 

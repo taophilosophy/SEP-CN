@@ -44,13 +44,11 @@ When is Cheryl’s birthday?
 
 We represent Albert’s and Bernard’s knowledge just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation using the model $M_{cb}$ pictured in Figure B1.
 
-*Figure B1.*
-
 ![Figure B1](../assets/dynamic-epistemic/figure-cheryl1.jpg)
 
 $ M_{cb} $
 
-Figure B1. The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
+*Figure B1.* The Kripke model $M_{cb}$: the situation just after Cheryl asks “Can you figure it out now?” but before Albert and Bernard have their conversation. Red *a*-arrows represent Albert’s uncertainty, and blue *b*-arrows represent Bernard’s uncertainty. For simplicity, the picture omits reflexive arrows for each agent at each date (i.e., to complete the picture, we must add at each world both an *a*-arrow and a *b*-arrow pointing in a loop from the date in question back to itself).
 
 In this model, we have one possible world for each date. A red *a*-arrow pointing from date *D* to date $D'$ tells us the following: “If Cheryl’s birthday is in fact *D*, then Albert considers it possible that her birthday might be $D'$”. For example, there is a red *a*-arrow pointing from June 17 to June 18: assuming Cheryl’s birthday is in fact June 17, then Albert will consider it possible that her birthday is June 18 because he was told the month—here assumed to be June—so if the date is actually June 17, then he considers June 18 a possibility. Note that there should also be a red *a*-arrow from June 17 to itself; indeed, if the actual date is June 17, then Albert should consider both June 18 and June 17 to be possible. However, to simplify the picture, we have omitted such “reflexive” arrows (i.e., arrows pointing in a loop from one date back to that very same date). Properly speaking, these arrows should be added in order to complete the picture: every date should have a reflexive red *a*-arrow.
 
@@ -81,13 +79,11 @@ Looking to Figure B1, at which dates can we take a red *a*-arrow (including the 
 
 These are the dates we should eliminate. All other dates should remain: at these other dates, every *a*-arrow (including the reflexive ones) leads us to a location at which there is indeed a *b*-arrow going to a different date. So after elimination, we obtain the result of Albert’s first public announcement $A_1$: the model $M_{cb}[A_1]$ pictured in Figure B2.
 
-*Figure B2.*
-
 ![Figure B2](../assets/dynamic-epistemic/figure-cheryl2.jpg)
 
 $M_{cb}[A_1]$
 
-Figure B2. The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B2.* The model $M_{cb}[A_1]$ obtained from $M_{cb}$ (Figure B1) after Albert’s first public announcement $A_1$. Eliminated worlds and arrows from the model $M_{cb}$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, as with Figure B1, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us consider the effect of Bernard’s first announcement, which we label as $B_1$:
 
@@ -97,13 +93,11 @@ The first part of this statement (“I didn’t know [Cheryl’s birthday] origi
 
 How about the second part (“now I do [know Cheryl’s birthday]”)? For this, we must eliminate any date in $M_{cb}[A_1]$ of Figure B2 that makes the statement false: these are the dates in $M_{cb}[A_1]$ at which Bernard does *not* know the birthday, which are the dates in $M_{cb}[A_1]$ that have a blue *b*-arrow pointing to a different date. Examining Figure B2, it is clear that there are only two such dates: July 14 and August 14. Therefore, the net result of Bernard’s first announcement $B_1$ is to eliminate these worlds. This gives us the model $M_{cb}[A_1][B_1]$ pictured in Figure B3.
 
-*Figure B3.*
-
 ![Figure B3](../assets/dynamic-epistemic/figure-cheryl3.jpg)
 
 $M_{cb}[A_1][B_1]$
 
-Figure B3. The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B3.* The model $M_{cb}[A_1][B_1]$ obtained from $M_{cb}[A_1]$ (Figure B2) after Bernard’s first public announcement $B_1$. Eliminated worlds and arrows from the models $M_{cb}$ and $M_{cb}[A_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 Now let us look at the effect of Albert’s second announcement, which we label as $A_2$:
 
@@ -111,13 +105,11 @@ Now let us look at the effect of Albert’s second announcement, which we label 
 
 This public announcement has us eliminate from $M_{cb}[A_1][B_1]$ of Figure B3 all dates at which the statement is false: these are the dates in $M_{cb}[A_1][B_1]$ at which Albert does *not* know the birthday, which are the dates in $M_{cb}[A_1][B_1]$ at which there is a red *a*-arrow pointing to a different date. Examining Figure B3, it is clear that there are only two such dates: August 15 and August 17. Therefore, the result of Albert’s second announcement $A_2$ is to eliminate these worlds. This gives us the model $M_{cb}[A_1][B_1][A_2]$ pictured in Figure B4.
 
-*Figure B4.*
-
 ![Figure B4](../assets/dynamic-epistemic/figure-cheryl4.jpg)
 
 $M_{cb}[A_1][B_1][A_2]$
 
-Figure B4. The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
+*Figure B4.* The model $M_{cb}[A_1][B_1][A_2]$ obtained from $M_{cb}[A_1][B_1]$ (Figure B3) after Albert’s second public announcement $A_2$. Eliminated worlds and arrows from the models $M_{cb}$, $M_{cb}[A_1]$, and $M_{cb}[A_1][B_1]$ are faintly drawn in this picture for clarity; these are not actually present in the model. Also, reflexive arrows for each agent at each world have been omitted for simplicity.
 
 So we obtain the solution: the only possible date that is consistent with the information provided in the problem statement is July 16.
 
@@ -231,13 +223,11 @@ This theorem tells us why our picture-based solution from above is correct: no l
 
 Each of the three children has a forehead that is either dirty or clean. Using *c* for “clean” and *d* for “dirty”, a sequence of three letters may be used to indicate the state of affairs. For example, $cdc$ indicates that the first child has a clean forehead, the second child has a dirty forehead, and the third child has a clean forehead. As a result, there are 8 possibilities in total. This leads to the model $M_{mc}$ pictured in Figure B5.
 
-*Figure B5.*
-
 ![Figure B5](../assets/dynamic-epistemic/figure-muddy1.jpg)
 
 $M_{mc}$
 
-Figure B5. Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
+*Figure B5.* Initial setup for the Muddy Children Puzzle. Red 1-arrows indicate the first child’s uncertainty, blue 2-arrows indicate the second child’s uncertainty, and green 3-arrows indicate the third child’s uncertainty. For simplicity, the picture omits reflexive arrows (i.e., to complete the picture, one must add for each child and each world an arrow for that child pointing in a loop from that world right back to that same world).
 
 In the model $M_{mc}$ of Figure B5, we see that each child knows the status of the other children’s forehead but not that of his own: at each world, the only worlds a child considers possible are those in which the status of the other children’s foreheads is the same but the status of his own forehead might be different. For example, at world $ddc$, the only possibilities the first child entertains are $ddc$ itself (via the non-drawn reflexive 1-arrow) and the world $cdc$. Since the status of the other children’s foreheads is the same at worlds $ddc$ and $cdc$ (i.e., 2’s forehead is dirty and 3’s is clean) but the status of the first child’s forehead is not the same (i.e., 1’s forehead is dirty in $ddc$ but clean in $cdc$), we can say the following: at world $ddc$, the first child knows whether the other children’s foreheads are dirty but does not know whether his own is dirty. We can show that this is so at every world and for every child. Therefore, $M_{mc}$ indeed models the initial situation of the Muddy Children Puzzle.
 
@@ -247,13 +237,11 @@ Now let us consider the effect of Father’s first announcement, which we label 
 
 The effect of this public announcement is to eliminate all those worlds at which *F* is false; these are the worlds at which no child is dirty. There is only one such world: $ccc$. Therefore, the public announcement of *F* modifies the initial situation $M_{mc}$ by producing the mode $M_{mc}[F]$ pictured in Figure B6.
 
-*Figure B6.*
-
 ![Figure B6](../assets/dynamic-epistemic/figure-muddy2.jpg)
 
 $M_{mc}[F]$
 
-Figure B6. The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B6.* The model $M_{mc}[F]$ obtained from $M_{mc}$ (Figure B5) by the public announcement of *F*. Worlds and arrows from $M_{mc}$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father then says, “If you know whether your forehead is dirty, then step forward now”. This is the first time he says this and no child steps forward. We take Father’s statement followed by no child stepping forward to be equivalent to the following public announcement, which we denote by *N*:
 
@@ -267,13 +255,11 @@ The effect of an announcement of *N* is to eliminate those worlds at which *N* i
 
 The result of the announcement of *N* is the model $M_{mc}[F][N]$ pictured in Figure B7.
 
-*Figure B7.*
-
 ![Figure B7](../assets/dynamic-epistemic/figure-muddy3.jpg)
 
 $M_{mc}[F][N]$
 
-Figure B7. The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B7.* The model $M_{mc}[F][N]$ obtained from $M_{mc}[F]$ (Figure B6) after the public announcement of *N*. Worlds and arrows from $M_{mc}$ and $M_{mc}[F]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the second time (“If you know whether your forehead is dirty, then step forward now”). But this time some children step forward, thereby conveying that these children know whether their foreheads are dirty. We therefore interpret Father’s statement followed by the actions of the children as a single announcement of the negation $\lnot N$ of our statement *N* from before. That is, we take the net result to be equivalent to the following public announcement:
 
@@ -281,23 +267,19 @@ Father now makes his announcement for the second time (“If you know whether yo
 
 The effect of this announcement is to delete all those worlds at which the statement $\lnot N$ is false: these are the worlds at which no child knows whether is forehead is dirty. That is, we are to delete worlds at which each agent has an arrow pointing to a world at which his forehead is clean and another arrow pointing to another world at which his forehead is dirty (of course taking into account non-drawn reflexive arrows). Examining Figure B7, we see that the only such world is $ddd$: at this world, every agent entertains a possibility at which his own forehead is clean along with a possibility at which his own forehead is dirty. Therefore, the result of the public announcement of $\lnot N$ is to delete this world, thereby yielding the model $M_{mc}[F][N][\lnot N]$ pictured in Figure B8.
 
-*Figure B8.*
-
 ![Figure B8](../assets/dynamic-epistemic/figure-muddy4.jpg)
 
 $M_{mc}[F][N][\lnot N]$
 
-Figure B8. The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B8.* The model $M_{mc}[F][N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B7) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Father now makes his announcement for the third time (“If you know whether your forehead is dirty, then step forward now”). Now, we are told, the remaining children step forward. We again take this to be equivalent to the announcement of $\lnot N$ (“Some child knows whether his forehead is dirty”). As before, the effect of this announcement is to delete any worlds at which the announcement is false: these are the worlds at which no child knows whether his forehead is dirty, which are the worlds at which every child entertains a possibility at which his forehead is dirty and a possibility at which his forehead is clean. Examining Figure B8, we see that none of the worlds satisfy these requirements: at each world, each child only entertains that very world, and therefore each child knows whether his forehead is dirty. So the result of the second public announcement of $\lnot N$ is the model $M_{mc}[F][N][\lnot N][\lnot N]$ pictured in Figure B9.
-
-*Figure B9.*
 
 ![Figure B9](../assets/dynamic-epistemic/figure-muddy4.jpg)
 
 $M_{mc}[F][N][\lnot N][\lnot N]$
 
-Figure B9. The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
+*Figure B9.* The model $M_{mc}[F][N][\lnot N][\lnot N]$ obtained from $M_{mc}[F][N]$ (Figure B8) after the public announcement of $\lnot N$. Worlds and arrows from $M_{mc}$, $M_{mc}[F]$, and $M_{mc}[F][N]$ that have been deleted are drawn faintly; these are not actually present in the model $M_{mc}[F][N][\lnot N][\lnot N]$. Also, the picture omits reflexive arrows for each agent at each world.
 
 Obviously, since the second announcement of $\lnot N$ did not delete any worlds, the models of Figures B8 and B9 are the same: $$ M_{mc}[F][N][\lnot N] = M_{mc}[F][N][\lnot N][\lnot N] . $$ Looking now to this model, we obtain the solution: two children are dirty and one is clean.
 
@@ -325,13 +307,11 @@ What are the numbers?
 
 Referee must choose two different integers in range $[2,7]$. Since the order they are chosen does not matter, there are fifteen ways for Referee to make this choice. For each choice, we calculate the sum and the least common multiple. If two choices have the same sum, then Mr. S should consider one possible relative to the other: he knows only the sum and so cannot distinguish between these two possibilities. If the two choices have the same least common multiple (henceforth “LCM”), then Mr. L should consider one possible relative to the other: he knows only the LCM and so cannot distinguish between these two possibilities. This leads to the model $M_{s\ell}$ pictured in Figure B10.
 
-*Figure B10.*
-
 ![Figure B10](../assets/dynamic-epistemic/figure-SL1.jpg)
 
 $M_{s\ell}$
 
-Figure B10. The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
+*Figure B10.* The model $M_{s\ell}$ depicting the initial setup for the Sum and Least Common Multiple Puzzle. Each of the circles depicts a possible choice by Referee: the pair of numbers in parenthesis above the horizontal line are the numbers chosen by Referee; below the line, the number on the left in red is the sum of the chosen numbers and the number on the right in blue is the least common multiple of the chosen numbers. Red arrows labeled by *s* represent Mr. S’s uncertainties, and blue arrows labeled by $\ell$ represent Mr. L’s uncertainties. For simplicity, reflexive arrows have been omitted (i.e., to complete the picture, one should add for each agent at each world an arrow for that agent pointing in a loop from the world in question back to that same world).
 
 In Figure B10, we see that Mr. S has uncertainty between worlds having the same sum and Mr. L has uncertainty between worlds having the same LCM. Mr. S then makes his first statement, which we denote by $S_1$:
 
@@ -356,13 +336,11 @@ The effect of the public announcement of $S_1$ is to delete any world (i.e., pos
 
 The result is the model $M[S_1]$ pictured in Figure B11.
 
-*Figure B11.*
-
 ![Figure B11](../assets/dynamic-epistemic/figure-SL2.jpg)
 
 $M_{s\ell}[S_1]$
 
-Figure B11. The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
+*Figure B11.* The model $M_{s\ell}[S_1]$ obtained from $M_{s\ell}$ (Figure B10) after the public announcement of $S_1$. The picture omits reflexive arrows for each agent at each world.
 
 Note that in the model $M_{s\ell}[S_1]$, both agents know the numbers: each of the agents only considers one pair of numbers to be possible. From here we have Mr. L’s first announcement, which we label as *L*:
 

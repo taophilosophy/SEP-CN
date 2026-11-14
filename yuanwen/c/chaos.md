@@ -107,11 +107,9 @@ Robert Batterman’s (1993) discusses problematic definitions of chaos, namely, 
 
 However, a crucial feature of chaos is the presence of “stretching and folding” mechanisms in the dynamics (Batterman 1993, p. 49)[^batterman-1993]. Such mechanisms cause some trajectories to converge rapidly while causing others to diverge rapidly leading to trajectories issuing from various points in some small neighborhood of state space mixing and separating in dramatic ways. For instance, some initially neighboring trajectories on the Lorenz attractor (Figure 1) become separated, where some end up on one wing while others end up on the other wing rather rapidly. As another example, the logistic map stretches the interval $[0,1]$ and folds it from a straight line into a parabola. Successive iterations repeat this stretching and folding process eventually producing chaotic dynamics for appropriate values of the parameter $\alpha$.
 
-*Figure 1.*
-
 ![A closed yellow curve on a plain black backround. The curve spirals around and around into two large sets of concentric ovals that connect to each other at the bottom and angle away from each other at the top.](../assets/chaos/lorenz.svg)
 
-Figure 1. The Lorenz Attractor.
+*Figure 1.* The Lorenz Attractor.
 
 Stretching of trajectories is associated with the explosive growth in uncertainties, folding with confinement to a region of state space. The presence of appropriate stretching and folding mechanisms in the dynamics, Batterman argues, is a necessary condition for chaos. Such behavior is associated with nonlinearities. As such, this defining characteristic could be applied to both mathematical models and actual-world systems, though the identification of such mechanisms in target systems may be rather tricky: When dealing with a fluid system, say, we have several nonlinear mechanisms that have been well explored as sources for stretching and folding. In contrast, when we only have time series data (e.g., the hourly price of Chicago Board of Trade hog futures), identifying possible nonlinear mechanisms is difficult.
 

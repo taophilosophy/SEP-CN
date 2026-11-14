@@ -61,11 +61,9 @@ Many controversies on risk assessment concern the balance between risks of type 
 
 In this particular case it is fairly uncontroversial that avoidance of type II error should be given priority over avoidance of type I error. In other words, it is better to delay the flight and then find out that the engine was in good shape than to fly with an engine that turns out to malfunction. However, in other cases the balance between the two error types is more controversial. Controversies are common, for instance, over what degree of evidence should be required for actions against possible negative effects of chemical substances on human health and the environment.
 
-*Figure 1.*
-
 ![figure 1](../assets/risk/figure1.png)
 
-Figure 1. The use of scientific data for policy purposes.
+*Figure 1.* The use of scientific data for policy purposes.
 
 Such controversies can be clarified with the help of a simple but illustrative model of how scientific data influence both scientific judgments and practical decisions (Hansson 2008). Scientific knowledge begins with data that originate in experiments and other observations. (See Figure 1.) Through a process of critical assessment, these data give rise to the scientific corpus (arrow 1). Roughly speaking, the corpus consists of those statements that could, for the time being, legitimately be made without reservation in a (sufficiently detailed) textbook. When determining whether or not a scientific hypothesis should be accepted, for the time being, as part of the corpus, the onus of proof falls on its adherents. Similarly, those who claim the existence of an as yet unproven phenomenon have the burden of proof. These proof standards are essential for the integrity of science.
 

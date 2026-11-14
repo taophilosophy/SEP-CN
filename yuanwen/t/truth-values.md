@@ -326,15 +326,11 @@ where in general $\sharp$ is not required to denote a truth function over $\cal 
 
 As soon as one admits that truth values come with valuation *systems*, it is quite natural to assume that the elements of such a system are somehow *interrelated*. And indeed, already the valuation system for classical logic constitutes a well-known algebraic structure, namely the two-element Boolean algebra with $\cap$ and $\cup$ as meet and join operators (see the entry on the mathematics of Boolean algebra). In its turn, this Boolean algebra forms a lattice with a *partial order* defined by $a\le_t b \textrm{ iff } a\cap b = a$. This lattice may be referred to as *TWO*. It is easy to see that the elements of *TWO* are ordered as follows: $F\le_t T$. This ordering is sometimes called the *truth order* (as indicated by the corresponding subscript), for intuitively it expresses an increase in truth: $F$ is “less true” than $T$. It can be schematically presented by means of a so-called Hasse-diagram as in Figure 1.
 
-*Figure 1:*
-
-Figure 1: Lattice *TWO*
+*Figure 1:* Lattice *TWO*
 
 It is also well-known that the truth values of both Kleene’s and Priest’s logic can be ordered to form a lattice (*THREE*), which is diagrammed in Figure 2.
 
-*Figure 2:*
-
-Figure 2: Lattice *THREE*
+*Figure 2:* Lattice *THREE*
 
 Here $\le_t$ orders $T, I$ and $F$ so that the intermediate value $I$ is “more true” than $F$, but “less true” than $T$.
 
@@ -346,9 +342,7 @@ where $\Pi_t$ is the lattice meet in the corresponding lattice.
 
 The Belnap matrix $\mathbf{B}_4$ considered above also can be represented as a partially ordered valuation system. The set of truth values $\{\mathbf{N}, \mathbf{T}, \mathbf{F}, \mathbf{B}\}$ from $\mathbf{B}_4$ constitutes a specific algebraic structure – the *bilattice* FOUR$_2$ presented in Figure 3 (see, e.g., Ginsberg 1988, Arieli and Avron 1996, Fitting 2006)[^arieli-1996][^fitting-2006][^ginsberg-1988].
 
-*Figure 3:*
-
-Figure 3: The bilattice *FOUR*$_2$
+*Figure 3:* The bilattice *FOUR*$_2$
 
 This bilattice is equipped with *two* partial orderings; in addition to a truth order, there is an information order $(\le_i )$ which is said to order the values under consideration according to the information they give concerning a formula to which they are assigned. Lattice meet and join with respect to $\le_t$ coincide with the functions $f_{\wedge}$ and $f_{\vee}$ in the Belnap matrix $\mathbf{B}_4$, $f_{{\sim}}$ turns out to be the truth order inversion, and an entailment relation, which happens to coincide with the matrix entailment, is defined by (8). *FOUR*$_2$ arises as a combination of two structures: the approximation lattice $A_4$ and the logical lattice $L_4$ which are discussed in Belnap 1977a and 1977b (see also, Anderson, Belnap and Dunn 1992: 510–518)[^anderson-1992]).
 

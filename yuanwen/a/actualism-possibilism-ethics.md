@@ -220,11 +220,9 @@ Goldman (1976: 467) illustrates the possibility of jointly unfulfillable obligat
 
 Although ⟨going to the office⟩ is a prerequisite for the best outcome (viz. the outcome that follows ⟨voting for a language requirement⟩), ⟨going to the office⟩ would, in fact, result in the worst outcome (viz. the outcome that follows ⟨discouraging the student from seeking psychiatric aid⟩). ⟨Staying home⟩ rather than ⟨going to the office⟩ would result in a better outcome (viz. the outcome of ⟨writing lecture notes⟩). Here is Goldman’s chart, which summarizes Jones’s predicament:
 
-*Figure 1:*
-
 ![a decision tree: link to extended description below](../assets/actualism-possibilism-ethics/figure1.svg)
 
-Figure 1: [An extended description of figure 1 is in the supplement.]
+*Figure 1:* [An extended description of figure 1 is in the supplement.]
 
 As a matter of stipulation, the act-set which would follow the act-set that terminates with ⟨voting for the language requirement⟩ at $t_3$ is better than the act-set which would follow any other $t_1$–$t_3$ act-set available to Jones at $t_1$. So (G) implies that, at $t_1$, Jones ought to do the best she can. However, (G) also implies that, at $t_1$, Jones ought to ⟨stay home⟩ at $t_1$ rather than ⟨go to the office⟩ at $t_1$. This is because both acts are performable for Jones at $t_1$, and the act sequence which would follow ⟨staying home⟩ is better than the act sequence which would follow ⟨going to the office⟩. So, according to (G), Jones has at least two obligations that are jointly unfulfillable, *A*: ⟨going to the office, then going to the faculty meeting, then voting for the language requirement⟩, and *B*: ⟨staying home⟩. Jones cannot perform both $\langle A \lamp B\rangle$. There is no possible scenario in which both obligations are fulfilled.
 

@@ -674,11 +674,9 @@ A temporal syllogism consists of sentences whose copulas involve temporal amplia
 
 The syllogistic for composite modal sentences is straightforward and Buridan uses only a couple of pages in the *Treatise* to sketch its basic structure. The theory of the syllogism for divided modal sentences is given a much more thorough treatment. For Buridan, a modal copula always ampliates its subject term to stand not only for present, past, and future things but also possible things, unless the supposition of the subject term is explicitly restricted to what is actual. On this basis, he can give an exhaustive account of the logical relations between quantified divided modal sentences, which he presents in the octagon of opposition. Slightly simplified, and assuming that the complete octagon can be formed by some trivial equivalences holding between the modalities, it can be depicted as in Figure 1:
 
-*Figure 1*
-
 ![Figure 1](../assets/medieval-syllogism/octagon.jpg)
 
-Figure 1
+*Figure 1*
 
 Together with the octagon he also uses some consequences to prove the valid syllogisms. He first states the valid conversion rules:
 

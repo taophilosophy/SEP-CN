@@ -65,11 +65,9 @@ Thus in the limit of large $n$ the amplitudes of the harmonic components of the 
 
 According to the *selection rule interpretation*, Bohr’s correspondence principle is best understood as the statement that *each allowed quantum transition between stationary states corresponds to one harmonic component of the classical motion*. More precisely, Bohr’s selection rule states that the transition from a stationary state $n'$ to another stationary state $n''$ is allowed *if and only if* there exists a $\tau$ᵗʰ harmonic in the classical motion of the electron in the initial stationary state; if there is no $\tau$ᵗʰ harmonic in the classical motion, then transitions between stationary states whose separation is $\tau$ are not allowed quantum mechanically. The essence of Bohr’s correspondence principle is depicted in Figure 1.
 
-*Figure 1.*
-
 ![sum of harmonics](../assets/bohr-correspondence/Figure1.png)
 
-Figure 1. A classical periodic orbit, $x(t)$, can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, $\omega$, representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)[^fedak-2002]
+*Figure 1.* A classical periodic orbit, $x(t)$, can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, $\omega$, representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)[^fedak-2002]
 
 Bohr’s selection rule can be illustrated by the following simplified example.[^note-5] Suppose that the solution to Newton’s equation, $F = m d^2 x/dt^2$, and the quantum condition $\oint pdx = nh$ is[^note-6]
 
@@ -111,11 +109,9 @@ In this passage it is clear that Bohr takes quantum mechanics to be a universal 
 
 In his 1922 lectures on atomic theory in Göttingen, Bohr again emphasizes that the correspondence principle holds even for low quantum number transitions. This can particularly be seen in his discussion of the well-known red and green spectral lines of the Balmer series in the visible part of the hydrogen spectrum. The red spectral line (which really is red at a wavelength of around 656 nm) is typically labeled $\rH_{\alpha}$, and is the result of radiation emitted in the jump from the $n = 3$ to $n = 2$ stationary state. The green line (labeled $\rH_{\beta}$ with a wavelength of around 486 nm) is a result of the electron in a hydrogen atom jumping from the $n = 4$ to $n = 2$ stationary state.
 
-*Figure 2.*
-
 ![missing text, please inform](../assets/bohr-correspondence/Figure2a.png) ![missing text, please inform](../assets/bohr-correspondence/Figure2b.png)
 
-Figure 2. Red and green spectral lines of the Balmer series in the visible part of the hydrogen atom
+*Figure 2.* Red and green spectral lines of the Balmer series in the visible part of the hydrogen atom
 
 Regarding these low-quantum-number transitions Bohr writes,
 

@@ -24,8 +24,6 @@ The issues we discuss have been debated with vigor and sometimes venom. Some of 
 
 We see three tendencies or foci, divided by what they take to be the subject matter, the approach they advocate for studying it, and what they count as an explanation. We characterize them roughly in Table 1.
 
-*Table 1.*
-
 |   | externalists | emergentists | essentialists |
 | --- | --- | --- | --- |
 | *Primary phenomena* | Actual utterances as produced by language users | Facts of social cognition, interaction, and communication | Intuitions of grammaticality and literal meaning |
@@ -36,7 +34,7 @@ We see three tendencies or foci, divided by what they take to be the subject mat
 | *Children’s language* | A nascent form of language, very different from adult linguistic competence | A series of stages in an ontogenetic process of developing adult communicative competence | Very similar to adult linguistic competence though obscured by cognitive, articulatory, and lexical limits |
 | *What is acquired* | A grasp of the distributional properties of the constituents of expressions of a language | A mainly conventional and culturally transmitted system for linguistic communication | An internalized generative device that characterizes an infinite set of expressions |
 
-Table 1. Three Approaches to the Study of Language
+*Table 1.* Three Approaches to the Study of Language
 
 A broad and varied range of distinct research projects can be pursued within any of these approaches; one advocate may be more motivated by some parts of the overall project than others are. So the tendencies should not be taken as sharply honed, well-developed research programs or theories. Rather, they provide background biases for the development of specific research programs—biases which sometimes develop into ideological stances or polemical programs or lead to the branching off of new specialisms with separate journals. In the judgment of Phillips (2010), “Dialog between adherents of different approaches is alarmingly rare.”
 
@@ -621,8 +619,6 @@ Linguists have implicitly worked with a scale of roughly half a dozen levels and
 
 But other annotations have been used to indicate a gradation in the extent to which some sentences are unacceptable. No scientifically validated or explicitly agreed meanings have been associated with these marks, but a tradition has slowly grown up of assigning prefixes such as those in Table 2 to signify degrees of unacceptability:
 
-*Table 2:*
-
 | prefix | approximate meaning |
 | --- | --- |
 | (no prefix) | acceptable and thus presumably grammatical |
@@ -632,7 +628,7 @@ But other annotations have been used to indicate a gradation in the extent to wh
 | * | unacceptable enough to suggest clear ungrammaticality |
 | ** | grossly unacceptable, suggesting extreme ungrammaticality |
 
-Table 2: Prefixes used to mark levels of acceptability
+*Table 2:* Prefixes used to mark levels of acceptability
 
 Such markings are often used in a way that suggests an **ordinal scale**, i.e. a partial ordering that is silent on anything other than equivalence in acceptability or ranking in degree of unacceptability.
 
@@ -818,15 +814,13 @@ The reader with prior acquaintance with the literature of linguistics will notic
 
 **General nativists** maintain that the prerequisites for language acquisition are just general cognitive abilities and resources. **Linguistic nativists**, by contrast, claim that human infants have access to at least some specifically linguistic information that is not learned from linguistic experience. Table 3 briefly sketches the differences between the two views.
 
-*Table 3:*
-
 | general nativists | linguistic nativists |
 | --- | --- |
 | Languages are acquired mainly through the exercise of defeasible inductive methods, based on experience of linguistic communication | Language cannot be acquired by defeasible inductive methods; its structural principles must to a very large degree be unlearned |
 | The unlearned capacities that underpin language acquisition constitute a uniquely human complex of non-linguistic dispositions and mechanisms that also subserve other cognitive functions | In addition to various broadly language-relevant cognitive and perceptual capacities, language acquisition draws on an unlearned system of ‘universal grammar’ that constrains language form |
 | Various non-human animal species may well have most or all of the capacities that humans use for language acquisition—though no non-human species seems to have the whole package, so interspecies differences are a matter of degree | There is a special component of the human mind which has the development of language as its key function, and no non-human species has anything of the sort, so there is a difference in kind between the abilities of humans and other animals |
 
-Table 3: General and linguistic nativism contrasted
+*Table 3:* General and linguistic nativism contrasted
 
 There does not really seem to be anyone who is a complete non-nativist: nobody really thinks that a creature with no unlearned capacities at all could acquire a language. That was the point of the much-quoted remark by Quine (1972: 95–96) about how “the behaviorist is knowingly and cheerfully up to his neck in innate mechanisms of learning-readiness”. Geoffrey Sampson (2001, 2005) is about as extreme an opponent of linguistic nativism as one can find, but even he would not take the failure of language acquisition in his cat to be unrelated to the cognitive and physical capabilities of cats.
 

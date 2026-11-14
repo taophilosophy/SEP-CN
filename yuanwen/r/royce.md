@@ -185,17 +185,13 @@ However, since the fifth law allows that every pair of incompatible actions gene
 
 Consider $O(a\: b)$ By the fifth law, $O(a\: b)$ adds a third term, $c$, which is at once compatible with $a$ and $b$ (that is, $E(a\: c)$ and $E(b\: c)$) and taken together with $a$ and $b$ form $O(a\: b\: c)$. This third element, following the work of A.B. Kempe (1890), is “between” $a$ and $b$. Royce (like Kempe) captures this betweenness by requiring that the new third term be compatible with both terms but not reducible to them. In effect, the fifth law says that whenever two actions are incompatible, there exists an action “between” the two that can, with a correct transformation, order the obverse actions. Using Royce’s illustration, Figure 1 represents $O(a\: b\: c)$ where $c$ is compatible with $a$ and $b$ and the region where all three fields overlap, there are no elements. Figure 2 represents $ F(\neg c | a\: b )$ where the region $\neg c$ overlaps, and so is compatible with, regions $A$ and $B$.
 
-*Figure 1.*
-
 ![to be supplied](../assets/royce/Figure1.png)
 
-Figure 1. $O (a\: b\: c)$
-
-*Figure 2.*
+*Figure 1.* $O (a\: b\: c)$
 
 ![to be supplied](../assets/royce/Figure2.png)
 
-Figure 2. $F (\neg c | a\: b)$
+*Figure 2.* $F (\neg c | a\: b)$
 
 As Royce explains, “The $F$-relation, so long as ‘obverses’ or ‘negatives’ exist, follows immediately from, and is equivalent to, an $O$-relation. For, in the diagram [above] if $s$ is the total surface in which $a$, $b$, and $c$ are included, then when ‘$c$ is between $a$ and $b$,’ ‘$a$, $b$, and $\neg c$ ($\neg c$ being the obverse of $c$) constitute an $O$-collection,’ or ‘are in the $O$-relation’ ” (Royce 1905, 387)[^royce-1905].
 

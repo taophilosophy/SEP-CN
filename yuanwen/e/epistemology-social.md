@@ -184,11 +184,9 @@ There are different ways to do this. In the social sciences generally, a popular
 
 In these diffusion/contagion models, though, the individuals do not gather evidence from the world, share evidence with each other, or form beliefs in any sort of rational way. For this reason, philosophers of science have tended to use the *network epistemology framework* introduced by economists Bala and Goyal (1998) to model how more rational individuals learn from neighbors. These models start with a collection of agents on a network, who choose from some set of actions or action guiding theories. Agents have beliefs about which action is best, and change these beliefs in light of the evidence they gather from their actions. In addition, they also update on evidence gathered by neighbors in the network, typically using some version of Bayes’ rule. It is in this sense that agents are part of an epistemic community. Figure 1 shows what this might look like. The numbers next to each agent represent their degree of belief in some proposition like “vaccines are safe.” The black agents think this is more likely than not. As this model progresses these agents gather data, which increases their neighbors’ degrees of belief in turn.
 
-*Figure 1:*
-
 ![a diagram: link to extended description below](../assets/epistemology-social/fig2.png)
 
-Figure 1: Agents in a network epistemology model use their credences to guide theory testing. Their results change their credences, and those of their neighbors. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Agents in a network epistemology model use their credences to guide theory testing. Their results change their credences, and those of their neighbors. [An extended description of figure 1 is in the supplement.]
 
 Communities in this model can develop beliefs that the better theory (vaccines are safe) is indeed better, or else they can pre-emptively settle on the worse theory (vaccines cause autism) as a result of misleading evidence. Generally, since networks of agents are sensitive to the evidence they gather, they are more likely to figure out the “truth” of which is best (Zollman 2013; Rosenstock et al. 2017)[^rosenstock-2017][^zollman-2013].
 
@@ -210,11 +208,9 @@ Diversity has emerged several times in our discussion of formal social epistemol
 
 Weisberg and Muldoon (2009) introduce a model where actors investigate an “epistemic landscape”—a grid where each section represents a problem in science, of varying epistemic importance. Figure 2 shows an example of such a landscape. Learners are randomly scattered on the landscape, and follow search rules that are sensitive to this importance. Investigators can then ask: how well did these learners do? Did they fully search the landscape? Did they find the peaks? And: do communities with diverse search strategies outperform communities with uniform ones?
 
-*Figure 2:*
-
 ![3-d depiction of a surface with multiple peaks and valleys](../assets/epistemology-social/fig3.png)
 
-Figure 2: An epistemic landscape. Location represents problem choice, and height represents epistemic significance.
+*Figure 2:* An epistemic landscape. Location represents problem choice, and height represents epistemic significance.
 
 Weisberg and Muldoon argue that a combination of “followers” (who work on problems similar to other individuals) and “mavericks” (who prefer to explore new terrain) do better than either group alone; i.e., there is a benefit to cognitive diversity. Their modeling choices and main result have been convincingly criticized (Alexander et al. 2015; Thoma 2015; Poyhönen 2017; Fernández Pinto and Fernández Pinto 2018)[^alexander-2015][^fernández-2018][^thoma-2015], but the framework has been co-opted by other philosophers to useful ends. Thoma (2015) and Poyhönen (2017), for instance, show that in modified versions of the model, cognitive diversity indeed provides the sort of benefit Weisberg and Muldoon hypothesize.
 

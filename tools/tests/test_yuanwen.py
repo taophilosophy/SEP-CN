@@ -180,6 +180,17 @@ class TestMathFidelity(unittest.TestCase):
         text = '\n'.join(ctx.out)
         self.assertIn('2 \\times 2', text)
 
+    def test_figure_caption_not_duplicated(self):
+        # 2026-11-14 全量回归（缺陷三）：图注曾被摘出到块首另行成行，正文里的
+        # 同一段文字仍在，致图注成对重复（logic-preference 等 198 词条）
+        html = ('<div class="figure" id="f1"><p><strong>Theory A</strong></p>'
+                '<p class="center"><span class="figlabel">Figure 1.</span></p></div>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertEqual(text.count('Figure 1.'), 1, text)
+        self.assertLess(text.index('Theory A'), text.index('Figure 1.'))
+
     def test_nested_table_cells_not_lost(self):
         # 嵌套表：非贪婪 td 匹配曾被内层 </td> 截断，外层单元格内容丢失
         html = ('<table><tr><td>outer</td>'

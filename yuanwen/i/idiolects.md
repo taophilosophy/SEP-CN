@@ -208,11 +208,9 @@ This is arguably in the same spirit as Chomsky’s description of the language f
 
 Many of those engaged in this debate focus on cases such as the edges in Kaniza’s triange illusion (figure 1) or PRO (a sytanctic constituent to which nothing corresponds in the sound-stream). The nub of the issue, here, seems to be what to make of the fact that there is no edge, or no syntactic constituent, beyond the edge or syntactic constituent represented in our mind-brain. The same might even hold of the notion of a common language. What we make of this for the nature of cognitive explanation, and of the notion of representation that so typically figures within it, is yet to be settled, and goes to the very heart of the philosophy of cognitive science.
 
-*Figure 1.*
-
 ![[three solid black circles arranged in an equilateral triangle each with 60 degree sector cut out so that if edges of the sectors were lines and extended an equilateral triangle would be formed. Three pairs of lines also exist where if the lines were extended another equilateral triangle would exist.]](../assets/idiolects/Kanizsa_triangle.svg)
 
-Figure 1. Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
+*Figure 1.* Kanizsa’s Triange (from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=1788215), by User:Fibonacci)
 
 ### 3.3 Second Response to the I-language Perspective: Psycholinguistics
 

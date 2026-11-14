@@ -77,11 +77,9 @@ We will not presuppose any particular interpretation of probability (see the ent
 
 If $\bV$ is the set of variables included in a causal model, one way to represent the causal relationships among the variables in $\bV$ is by a *graph*. Although we will introduce and use graphs in section 3, they will play a more prominent role in section 4. We will discuss two types of graphs. The first is the *directed acyclic graph* (DAG). A *directed graph* $\bG$ on variable set $\bV$ is a set of ordered pairs of variables in $\bV$. We represent this visually by drawing an arrow from *X* to *Y* just in case $\langle X, Y\rangle$ is in $\bG$. Figure 1 shows a directed graph on variable set $\bV = \{S, T, W, X, Y, Z\}$.
 
-*Figure 1*
-
 ![a diagram where S has an arrow pointing north to T; T has an arrow pointing northwest to X and northeast to Y; Y has an arrow pointing northeast to Z; W has an arrow pointing north to Z and northwest to Y](../assets/causal-models/fig1.svg)
 
-Figure 1
+*Figure 1*
 
 A *path* in a directed graph is a non-repeating sequence of arrows that have endpoints in common. For example, in Figure 1 there is a path from *X* to *Z*, which we can write as $X \leftarrow T \rightarrow Y \rightarrow Z$. A *directed path* is a path in which all the arrows point in the same direction; for example, there is a directed path $S \rightarrow T \rightarrow Y \rightarrow Z$. A directed graph is *acyclic,* and hence a DAG, if there is no directed path from a variable to itself. Such a directed path is called a *cycle*. The graph in Figure 1 contains no cycles, and hence is a DAG.
 
@@ -91,8 +89,6 @@ An arrow from *Y* to *Z* in a DAG represents that *Y* is a *direct cause* of $Z.
 
 A second type of graph that we will consider is an *acyclic directed mixed graph* (ADMG). An ADMG will contain double-headed arrows, as well as single-headed arrows. A double-headed arrow represents a *latent* common cause. A latent common cause of variables *X* and *Y* is a common cause that is not included in the variable set $\bV$. For example, suppose that *X* and *Y* share a common cause *L* (Figure 2(a)). An ADMG on the variable set $\bV = \{X, Y\}$ will look like Figure 2(b).
 
-*Figure 2*
-
 ![diagram with L having an arrow pointing northwest to X and northeast to Y](../assets/causal-models/fig2a.svg)
 
 (a)
@@ -101,7 +97,7 @@ A second type of graph that we will consider is an *acyclic directed mixed graph
 
 (b)
 
-Figure 2
+*Figure 2*
 
 We can be a bit more precise. We only need to represent missing common causes in this way when they are *closest* common causes. That is, a graph on $\bV$ should contain a double-headed arrow between *X* and *Y* when there is a variable *L* that is omitted from $\bV$, such that if *L* were added to $\bV$ it would be a *direct cause* of *X* and *Y*.
 
@@ -137,11 +133,9 @@ By convention each equation has one effect variable on the left hand side, and o
 
 We can represent this system of equations as a DAG (Figure 3):
 
-*Figure 3*
-
 ![diagram: 'Gas connected' has an arrow pointing northeast to 'Gas level'; 'Gas knob' has an arrow pointing northwest to the same 'Gas level'; 'Gas level' has an arrow pointing northeast to 'Flame'; 'Igniter' has an arrow pointing northwest to the same 'Flame'; 'Flame' has an arrow pointing northeast to 'Meat cooked'; 'Meat on' has an arrow pointing northwest to the same 'Meat cooked'](../assets/causal-models/fig3.svg)
 
-Figure 3
+*Figure 3*
 
 An arrow is drawn from variable *X* to variable *Y* just in case *X* figures as an argument in the equation for *Y*. The graph contains strictly less information than the set of equations; in particular, the DAG gives us qualitative information about which variables depend upon which others, but it does not tell us anything about the functional form of the dependence.
 
@@ -252,11 +246,9 @@ Our context and equation will then be:
 
 The equation for *W* tells us that the window would shatter if either Billy or Suzy throws their rock. The corresponding DAG is shown in Figure 4
 
-*Figure 4*
-
 ![diagram: B has an arrow pointing northeast to W and S has an arrow pointing northwest to the same W](../assets/causal-models/fig4.svg)
 
-Figure 4
+*Figure 4*
 
 But we cannot simply read off the relation of actual causation from the graph or from the equations. For example, the arrow from *B* to *W* in Figure 4 cannot be interpreted as saying that Billy’s (in)action is an actual cause of the window breaking. Note that while it is common to distinguish between singular or token causation, and general or type-level causation (see, e.g., Eells 1991, Introduction)[^eells-1991], that is not what is at issue here. Our causal model does not represent any kind of causal generalization: it represents the actual and possible actions of Billy and Suzy at one particular place and time. Actual causation is not just causal structure of the single case. A further criterion for actual causation, defined in terms of the causal structure together with the actual values of the variables, is needed.
 
@@ -302,11 +294,9 @@ In *Preemption*, let the variables *B*, *S*, and *W* be defined as above. Our co
 
 That is: Suzy throws her rock; Billy will throw his rock if Suzy doesn’t; and the window will shatter if either throws their rock. The DAG is shown in Figure 5.
 
-*Figure 5*
-
 ![diagram: B has an arrow pointing northeast to W and S has an arrow pointing northwest to the same W. S also has an arrow pointing west to the same B.](../assets/causal-models/fig5.svg)
 
-Figure 5
+*Figure 5*
 
 We want to show that $S = 1$ is an actual cause of $W = 1$. Conditions AC(1) and AC(2) are clearly satisfied. For condition AC(3), we choose $\bX = \{S\}$ and $\bZ = \{B\}$. Since $B = 0$ in *Preemption*, we want to fix $B = 0$ while varying *S*. We can see easily that ${S = 0} \amp {B = 0} \boxright {W = 0}$: replacing the two equations for *B* and *S* with $B = 0$ and $S = 0$, the solution yields $W = 0$. In words, this counterfactual says that if neither Billy nor Suzy had thrown their rock, the window would not have shattered. Thus condition AC(3a) is satisfied. AC(3b) is satisfied trivially, since $\bX = \{S\}$ is a singleton set.
 
@@ -359,19 +349,15 @@ Note that MC provides sufficient conditions for variables to be probabilisticall
 
 Here are some illustrations:
 
-*Figure 6*
-
 ![diagram: T has an arrow pointing north to W; W has a long arrow pointing northeast to Z; W also has an arrow pointing northwest to X; X has an arrow pointing northwest to Y](../assets/causal-models/fig6.svg)
 
-Figure 6
+*Figure 6*
 
 In Figure 6, MC implies that *X* screens *Y* off from all of the other variables, and *W* screens *Z* off from all of the other variables. This is most easily seen from MC_{Screening_off}. *W* also screens *T* off from all of the other variables, which is most easily seen from MC_{*d*-separation}. *T* does not necessarily screen *Y* off from *Z* (or indeed anything from anything).
 
-*Figure 7*
-
 ![diagram: X has an arrow pointing northeast to Y and Z has an arrow pointing northwest to the same Y.](../assets/causal-models/fig7.svg)
 
-Figure 7
+*Figure 7*
 
 In Figure 7, MC entails that *X* and *Z* will be unconditionally independent, but not that they will be independent conditional on *Y*. This is most easily seen from MC_{*d*-separation}.
 
@@ -402,11 +388,9 @@ The MC states a sufficient condition but not a necessary condition for condition
 
 (ii) *The Faithfulness Condition*. The Faithfulness Condition (FC) is the converse of the Markov Condition: it says that all of the (conditional and unconditional) probabilistic independencies that exist among the variables in $\bV$ are *required* by the MC. For example, suppose that $\bV = \{X, Y, Z\}$. Suppose also that *X* and *Z* are unconditionally independent of one another, but dependent, conditional upon *Y*. (The other two variable pairs are dependent, both conditionally and unconditionally.) The graph shown in Figure 8 does not satisfy FC with respect to this distribution (colloquially, the graph is not faithful to the distribution). MC, when applied to the graph of Figure 8, does not imply the independence of *X* and *Z*. This can be seen by noting that *X* and *Z* are *d*-connected (by the empty set): neither the path $X \rightarrow Z$ nor $X \rightarrow Y\rightarrow Z$ is blocked (by the empty set). By contrast, the graph shown in Figure 7 above is faithful to the described distribution. Note that Figure 8 does satisfy the Minimality Condition with respect to the distribution; no subgraph satisfies MC with respect to the described distribution. In fact, FC is strictly stronger than the Minimality Condition.
 
-*Figure 8*
-
 ![diagram: X has an arrow pointing northeast to Y and another arrow pointing east to Z; Y has an arrow pointing southeast to Z.](../assets/causal-models/fig8.svg)
 
-Figure 8
+*Figure 8*
 
 Here are some other examples: In Figure 6 above, there is a path $W\rightarrow X\rightarrow Y$; FC implies that *W* and *Y* should be probabilistically dependent. In Figure 7, FC implies that *X* and *Z* should be dependent, conditional on *Y*.
 
@@ -507,11 +491,9 @@ While there are specific assumptions behind these results, they are nonetheless 
 
 The discussion so far has focused on the case where there are no latent common causes of the variables in $\bV$, and the error variables $U_i$ can be expected to be probabilistically independent. As we noted in Section 2.3 above, we represent a latent common cause with a double-headed arrow. For example, the acyclic directed mixed graph in Figure 9 represents a latent common cause of *X* and *Z*. More generally, we can use an ADMG like Figure 9 to represent that the error variables for *X* and *Z* are not probabilistically independent.
 
-*Figure 9*
-
 ![diagram: X has an arrow pointing east to Y which in turn has an arrow pointing east to Z; X and Z are connected by a curved double-headed arrow](../assets/causal-models/fig9.svg)
 
-Figure 9
+*Figure 9*
 
 If there are latent common causes, we expect MC_{Screening_off} and MC_{Factorization} to fail if we apply them in a naïve way. In Figure 9, *Y* is the only parent of *Z* shown in the graph, and if we try to apply MC_{Screening_off}, it tells us that *Y* should screen *X* off from *Z*. However, we would expect *X* and *Z* to be correlated, even when we condition on *Y*, due to the latent common cause. The problem is that the graph is missing a relevant parent of *Z*, namely the omitted common cause. However, suppose that the probability distribution on $\{L, X, Y, Z\}$ satisfies MC with respect to the DAG that includes *L* as a common cause of *X* and *Z*. Then it turns out that the probability distribution will *still* satisfy MC_{*d*-separation} with respect to the ADMG of Figure 9. A causal model incorporating an ADMG and probability distribution satisfying MC_{*d*-separation} is called a *semi-Markov causal model* (SMCM).
 
@@ -592,11 +574,9 @@ That is, if we can find an appropriate conditioning set $\bZ$, the probability r
 
 Evidential Decision Theory of the sort developed by Jeffrey (1983), runs into well-known problems in variants of *Newcomb’s problem* (Nozick 1969)[^nozick-1969]. For example, suppose Cheryl believes the following: She periodically suffers from a potassium deficiency. This state produces two effects with high probability: It causes her to eat bananas, which she enjoys; and it causes her to suffer debilitating migraines. On days when she suffers from the potassium deficiency, she has no introspective access to this state. In particular, she is not aware of any banana cravings. Perhaps she rushes to work every morning, grabbing whatever is at hand to eat on her commute. Cheryl’s causal model is represented by the DAG in Figure 10.
 
-*Figure 10*
-
 ![diagram with K having an arrow pointing northwest to B and northeast to M](../assets/causal-models/fig10.svg)
 
-Figure 10
+*Figure 10*
 
 $K = 1$ represents potassium deficiency, $B = 1$ eating a banana, and $M = 1$ migraine. Her probabilities are as follows:
 

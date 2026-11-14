@@ -43,11 +43,9 @@ If the temporal interval between two events is 0, then we say that the two event
 
 The geometrical structure of Newtonian spacetime reflects the way we ordinarily think about time and is the proper backdrop for introducing the three major rival metaphysical views of time, as illustrated below:
 
-*Figure 1*
-
 ![Figure 1](../assets/spacetime-bebecome/3metaphysics.jpg)
 
-Figure 1. Three Metaphysics of Time
+*Figure 1*. Three Metaphysics of Time
 
 The first view, represented on the left, is the ontologically austere view called *presentism*, the view that only the present exists. The past has been but is no longer, while the future will come to be but is not yet. Note that it is the convention of these diagrams that one spatial dimension is suppressed. The present is actually a three dimensional global slice of the spacetime. Moreover, the illustration necessarily represents the spatial extent of the present as finite and may suggest that time also has a beginning and/or end. These views are, however, merely artifacts of the representation and not integral to presentism, possibilism, or eternalism. The diagram illustrating presentism also has four arrows pointing towards the top of the page (conventionally taken to represent the future direction) attached to the plane representing the present. These arrows are meant to indicate something that is integral to presentism, the idea that the present (and hence the existent) constantly shifts or changes. These arrows represent, then, the dynamic aspect of time called *temporal becoming* or *passage.* It is widely thought that the deepest problems in the metaphysics of time concern the understanding of passage or temporal becoming and its relation to existence.
 
@@ -193,11 +191,9 @@ We shall look at more nuanced reactions to the relativity of simultaneity below,
 
 Imagine that the Andromeda galaxy, which is about two million light years or $2\times 10^{19}$ kilometers from Earth, is at rest with respect to Earth. On Earth two friends walk past each other, Alice walking along the Earth-Andromeda line towards Andromeda, Bob walking along that line but away from Andromeda. Each is walking at a comfortable pace, say 4 km/hour. One can calculate that their planes (or spaces) of simultaneity at the instant at which they pass each other on Earth (Call the event of their meeting $\mathbf{O})$ intersect the history or *world line* of Andromeda about 5 ¾ days apart. (Call these two events $\mathbf{A}$ and $\mathbf{B}$, respectively. We are idealizing Andromeda as a point, for the purpose of this example.) Imagine, finally, that during this 5 ¾ day period between $\mathbf{B}$ and $\mathbf{A}$ a momentous thing happens. The Andromedeans launch a space fleet aimed at invading Earth.
 
-*Figure 2*
-
 ![image](../assets/spacetime-bebecome/andromedeans.jpg)
 
-Figure 2. The Andromedean Invasion
+*Figure 2*. The Andromedean Invasion
 
 The launch of the invading fleet is prior to $\mathbf{A}$ and so *in some sense* in Alice’s past. But since the launch is after $\mathbf{B}$, it is in that same sense in Bob’s future. Penrose comments:
 
@@ -257,11 +253,9 @@ Imagine that at some point $\mathbf{O}$ of the spacetime an idealized point-size
 
 Light cones exist at each point of the spacetime and are invariant structures. Since the speed of light is an invariant quantity, all “observers” agree as to which points of the spacetime are illuminated by the popping of the flashbulb at $\mathbf{O}$. Furthermore, as special relativity is standardly understood, the speed of light is a limiting speed. No material particle can be accelerated from a speed less than $c$ to a speed equal to or greater than $c$. Electromagnetic radiation (including light) always propagates in a vacuum at speed $c$. (To see why $c$ is held to be limiting speed, see Mermin (1968, Chapter 15) and Nahin (1999, pp. 342–353 and Tech Note 7.) Given these suppositions, the light cone structure divides all spacetime into three distinct sorts of regions relative to each spacetime point $\mathbf{O}$. (See chapters 5 and 6 of Geroch (1978) for a thorough discussion.)
 
-*Figure 3*
-
 ![lightcone](../assets/spacetime-bebecome/lightcone.gif)
 
-Figure 3. The Light Cone
+*Figure 3*. The Light Cone
 
 First, there are the points from which a photon (travelling at speed $c$, of course) may reach $\mathbf{O}$ or which (like $\mathbf{A})$ may be reached by a photon from $\mathbf{O}$. We say that these points are *lightlike separated* from $\mathbf{O}$.
 

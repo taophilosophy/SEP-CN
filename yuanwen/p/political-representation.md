@@ -110,11 +110,9 @@ Many descriptive accounts of political representation emphasize what representat
 
 According to Dovi, the quality of a group’s representation depends on how the three different kinds of absence intersect and interact with the corresponding three kinds of presence. Representatives can advance the preferences and interests of their constituents through their absence as well as through their presence. In contrast to those who see exclusion as merely a problem for representation (e.g., Williams 1998)[^williams-1998], Dovi (2009) reconceptualizes political representation as both an inclusionary *and* an exclusionary political process.
 
-*Figure 1.*
-
 ![two sets of three overlapping circles. The three circles of presence are labeled Vote, Voice, and Attendance. The three of absence are labeled Stoppage, Silence, and Vacancy.](../assets/political-representation/three-parts.svg)
 
-Figure 1. Three Fundamental Parts of Presence (left) and Absence (right)
+*Figure 1.* Three Fundamental Parts of Presence (left) and Absence (right)
 
 ## 3. Key Debates
 

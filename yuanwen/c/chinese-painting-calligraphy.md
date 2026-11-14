@@ -75,21 +75,17 @@ We might think that “to paint” in Chinese precisely echoes “to draw” in 
 
 As a result, Chinese art theory and practice do not address finished works, but mainly “drafts”, sketches and roughs, whether in writing or painting. To such an extent that writing became an art form at the beginning of the common era, and was appreciated as early as the 2nd century for its unbridled, rough feature. The meaning of “cursive”, *cao*草, at first was, paradoxically, “draft” and appears in the pamphlet *Fei Caoshu* (Against cursive script) by Zhao Yi (c. 130–185), the first treatise on Chinese writing as an art. But a draft is first and foremost an initial attempt, a sketch, something that has not yet been completed. A good example of such a writing is calligrapher and official Zhang Xu’s *Gushi sitie* (Four ancient poems, Shenyang Museum, see Figure 1).
 
-*Figure 1.*
-
 ![Chinese calligraphy in black on textured paper with red stamp marks](../assets/chinese-painting-calligraphy/Crazyzhangxu.jpg)
 
-Figure 1. (See figure 1 photo credit below.)
+*Figure 1.* (See figure 1 photo credit below.)
 
 Although Zhang Xu (ca. 675–ca. 759) is labeled as “mad” because his calligraphy seems unreadable, this artwork is actually still the best model for learning Chinese cursive script.
 
 This is all the more true as the greatest Chinese masterpiece of all time, on which most treatises are based, the famous *Lanting xu* (Preface to the Orchid Pavilion, 353), is a calligraphy brimming with cross-outs (See Figure 2.)
 
-*Figure 2.*
-
 ![Chinese calligraphy in black with notable cross-outs on textured paper with red stamp marks](../assets/chinese-painting-calligraphy/lanting-xu.png)
 
-Figure 2. (See figure 2 photo credit below.)
+*Figure 2.* (See figure 2 photo credit below.)
 
 On the other hand, more virtuoso, polished or beautiful works are considered secondary, even artisanal, and demoted to the state of a work of the hand rather than a work of the spirit; they are not objects of theorization. Even if such polished and virtuoso works can be appreciated in certain cases, they are always inferior to those that express freedom, even if it shows blotting-outs, and in any case they do not attract the attention of critics.
 
@@ -121,11 +117,9 @@ The same terminology is used in painting, by Zhang Yanyuan. When asked to give h
 
 Here, his “intention remains” means that the beholder accesses it by its “spiritual breath”. His fine, light brushstrokes give the characters a touch of grace. This characteristic can be seen on an 8th-century copy of a work by Gu Kaizhi in the British Museum. (See Figure 3).
 
-*Figure 3.*
-
 ![figure of a man in robes and a woman in robes along with Chinese calligraphy on textured paper with red stamp marks](../assets/chinese-painting-calligraphy/gu-kaizhi.jpg)
 
-Figure 3. (See figure 3 photo credit below.)
+*Figure 3.* (See figure 3 photo credit below.)
 
 On Wu Daozi (685?–758?), deemed the Chinese Rembrandt, Zhang Yanyuan elaborates:
 
@@ -185,11 +179,9 @@ Zhang Huaiguan finaly concludes: “Annalist You’s cursive was called rough co
 
 Unlike Huang Xiang’s ancient cursive script, which is considered a continuation of Zhang Zhi’s style, this example of ancient cursive script for military documents, found in Juyan (Gansu province), is merely a “rough composition” embodying the origins of cursive script. (See Figure 4.)
 
-*Figure 4.*
-
 ![Slips of bamboo with Chinese calligraphy written on them.](../assets/chinese-painting-calligraphy/bamboo-slips.png)
 
-Figure 4. (See figure 4 photo credit below.)
+*Figure 4.* (See figure 4 photo credit below.)
 
 Let us summarize: the origin of calligraphy as an art is related to the aesthetic appreciation of written drafts, and the most appreciated style of writing is cursive script as a rough composition.
 
@@ -243,19 +235,15 @@ The principles set out in Ji Cheng’s treatise were rediscovered in the 20th ce
 
 “Adaptation to the site” concerns both the writing and the architecture of the garden alike. This principle applies not only to the natural conditions in which the garden is set, but also to calligraphy. Calligraphy is particularly well-suited to helping garden designers create the desired atmosphere. First, the writing is adapted to the surface on which it appears: on pillars and columns, it is written vertically; on tablets, it is written horizontally. On rocks, it is vertical generally. The inscription is usually first written with a brush on paper before being engraved in wood or stone, and sometimes directly traced onto the final material before carving. The style and content of the inscription are designed to evoke the atmosphere of the garden scene set before the reader’s eyes by the designer. Calligraphy is therefore closely linked to literature and poetry. This is why walking through a Chinese garden is like viewing an exhibition of calligraphy in various forms. At the entrance to the Canglang Ting (Azure Waves Pavilion) garden in Suzhou, for example, a solemn calligraphic inscription in regular script is carved horizontally above the door. (See Figure 5.)
 
-*Figure 5.*
-
 ![Carved Chinese lintel above a large entryway with three Chinese characters carved into it](../assets/chinese-painting-calligraphy/canglang-ting.png)
 
-Figure 5. (See figure 5 photo credit below.)
+*Figure 5.* (See figure 5 photo credit below.)
 
 This displays the name of the garden to its visitors and signifies that they are crossing the threshold of a special place. The same inscription, this time in a clerical style with a simpler and coarser outline, can be found on a horizontal wooden shelf in the center of the garden. Again, it indicates the Azure Waves Pavilion (see Figure 6). The script thus adapts to its function, complementing the architecture and conveying its meaning. Consequently, the stone at the entrance appears more majestic than the wooden pavilion, and the inscription is more impressive.
 
-*Figure 6.*
-
 ![Wooden pavilion roof beam with three Chinese characters carved into it](../assets/chinese-painting-calligraphy/suzhou-great-wave-pavilion.png)
 
-Figure 6. (See figure 6 photo credit below.)
+*Figure 6.* (See figure 6 photo credit below.)
 
 In the Wangshiyuan or the Master of Nets Garden, the famous room known as the Jixuzhai, the Studio for Meditation (literally “Studio for Gathering Emptiness”) is featuring numerous calligraphies and paintings intended to prompt meditation and serve as decoration. Writing was employed as an ornament, a slogan, a discourse, and an invitation to reverie.
 
@@ -291,11 +279,9 @@ To understand this principle, let us pick an example from the Chinese gardens. I
 
 Next to the balustrade overlooking the pond is an inscription that reads “Goose Pond” (Echi), which any stroller may or may not read. (See Figure 7.)
 
-*Figure 7.*
-
 ![Small pavilion just large enough to contain a vertical stone sign with Chinese calligraphy in white with a black background reading 'goose pond'.](../assets/chinese-painting-calligraphy/goose-pond.png)
 
-Figure 7. (See photo credit below.)
+*Figure 7.* (See photo credit below.)
 
 The Goose Pond immediately refers to one of the most famous themes in Chinese art history, namely the fact that Wang Xizhi, is said to have comprehended the mystery of calligraphy by watching geese, and in particular, the mystery of the movement of the brush in the movement of their neck. The balustrade at the edge of the pond lends itself to approaching the edge and looking at the pond, the inscription encourages the garden’s visitors to think of this famous anecdote and thus to imagine an event that is present not physically but only in thought. By leaning over the balustrade, the stroller perceives themself as Wang Xizhi and travels mentally into the past while remaining in the present. The gap between what they actually see—the pond, the geese gliding on the lake perhaps—and what they imagine both in the past and in the present is the image outside the image. If the stroller leaning on the balustrade is a calligrapher, they will imagine themself as an artist capable of creating a masterpiece. If they are not a calligrapher, they will imagine themself as a calligrapher, which is socially highly valued in China. Well-being or satisfaction is necessarily entailed by this process. Another stroller may feel a form of nostalgia at the thought that Wang Xizhi has long since disappeared, but in any case, the emotions and images aroused by the real scene are very present and sometimes so powerful that they can stay with the beholder for days.
 
@@ -307,11 +293,9 @@ The garden is valued above all for its collective representation in quotations, 
 
 “The inscribed tablets placed on pavilions, houses and terraces offer suggestions on how to enjoy the scenery” (Chen 1984: 4)[^chen-1984], Chen Congzhou declares. They lead us to meditate, and to single out a scene. In a building, “the calligraphies and paintings intensify the effect of light and sound and produce a feeling of clarity and serenity” (Chen 1984: 4)[^chen-1984]. The inscriptions are composed following inspiration, based on the feelings aroused by the scene. In addition to the name of the architectural element or landscape suggested, the inscription may recall a poem or an event, which may have occurred in the garden or in a place that the garden is supposed to recall. For example, in one of the most famous gardens in China, the Zhuozhengyuan (Garden of the Humble Administrator, see Figure 8).
 
-*Figure 8.*
-
 ![Interior of a Chinese pavilion inside; black columns with gold Chinese calligraphy, wooden sign with Chinese calligraphy in black, ornate wooden fence and furniture, lanterns hanging from ceiling, stained glass windows, vases.](../assets/chinese-painting-calligraphy/zhuozhengyuan.jpg)
 
-Figure 8. (See photo credit below.)
+*Figure 8.* (See photo credit below.)
 
 Calligraphic inscriptions adorn every pavilion, most notably the Lanxuetang (Hall of Orchid Snow). The phrase “Orchid Snow” derives from a poem by Tang dynasty poet Li Bo (701–762), in which he praises Lu Zhonglian (c. 305–c. 245) for his eloquence and modesty. Lu Zhonglian was a political advisor during the Warring States period. The poem is titled Bie Lu Song (Ode to Farewell to Lu Zhonglian). The calligraphed and carved characters “Orchid Snow Hall” replicate the verse “Standing alone between heaven and earth, the breeze sprinkles orchid snow”; this refers to the fragrance of the orchid and the whiteness of the snow, and therefore alludes to the moral character of the garden’s owner, which is compared to that of Lu Zhonglian.
 

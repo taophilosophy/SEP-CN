@@ -130,8 +130,6 @@ VDC 问题分为两个问题（MacKay 1973）[^mackay-1973]：第一，用哪些
 
 只有当视网膜像的位移不同于按传出副本预测的位移——即后者未能“抵消”前者——时，被试才经验到所知觉场景的某种变化（见图 1）。相关结论是：VDC 有一个本质运动成分。对象在世界中相对于眼睛的位置之所以显得稳定，依赖于知觉者能否把输入的视网膜信号，与关于即将到来眼动之大小和方向的视网膜外信息整合起来。
 
-*Figure 1:*
-
 ![[Three parts to the image, the first, labeled 'a.', has at the top an apple and at the bottom an eyeball looking straight up with an arrow going from the bottom of the eyeball to the apple; the arrow is labeled EC=0 and the eyeball, A=0. The second, labeled 'b.', is like the first except the eyeball is looking slightly clockwise of straight up and the arrow follows the line of sight; a second arrow goes from the apple to the bottom of the eyeball; the eyeball is labeled A=-10; the first arrow, EC=+10 (there two equations line up horizontally with A=0 and EC=0 respectively from the first part). The third part is not labeled and consists of a circle divided into quarters with a '+' in the top quarter and a '-' in the bottom quarter. The equation 'EC=+10' in part b has an arrow going from it to the '+' quadrant of the circle. The equation 'A=-10' from part b has an arrow going from it to the '-' quadrant of the circle. From the right side of the circle is an arrow that points to an equation 'EA=EC+A=0'; the arrow is labeled 'Comparator'. ]](../assets/action-perception/fig1.png)
 
 图 1：(a) 眼睛静止时，传出副本（EC）与视网膜像位移产生的传入（A）皆缺席。(b) 眼睛向右转 10° 导致视网膜像相应移动。由于 EC 所规定的眼动幅度与视网膜像位移幅度相互抵消，世界不被登记为有移动或“外传入”（EA）。
@@ -159,8 +157,6 @@ Deubel 与布里奇曼的 **参照对象** 理论否认传出副本被用来“�
 再传入理论的另一重要动机，是关于被试如何适应那些通过旋转、反转或横向位移视网膜像而改变远端视觉世界与感觉输入之关系的装置的研究（关于该主题文献的有用指南，见 Rock 1966; Howard & Templeton 1966; Epstein 1967; 及 Welch 1978）[^epstein-1967][^howard-1966][^rock-1966][^templeton-1966][^welch-1978]。我们将称这些装置为光学重排装置（简称 **ORDs** ）。下文从美国心理学家乔治·施特拉顿在十九世纪末的工作开始综述关于 ORD 适应的实验研究。
 
 施特拉顿用一套透镜系统（使其右眼视网膜像旋转 180°）做了两个引人瞩目的实验（左眼保持遮盖）。第一个实验要求在三天内佩戴该装置 21.5 小时（1896）；第二个实验要求在八天内佩戴 81.5 小时（1897a,b）。在两个实验中，施特拉顿都详细记录了他的视觉、想象与本体感受经验如何因倒置视觉而发生改变的日记。1899 年，他做了一个较不为人知但同样引人瞩目的三天实验：使用一面镜子，使眼睛从一个正好位于头顶上方的位置看到自己的身体（图 2）。
-
-*Figure 2:*
 
 ![[a line drawing of a man standing and looking up at about a 45 degree angle. Above him is a horizontal line labeled at the left end 'A' and right end 'B'. A second line goes from the 'B' end at about a -60 degree angle to point approximately horizontal to the man's neck that point is labeled 'D'. To the right of D is the dotted line drawing of a horizontal man, head closest to D; feet labeled 'E'. Fromt the first man's eyes is a short line, labeled 'C', going up at about a 45 degree angle approximately in the direction of the point labeled 'B'.]](../assets/action-perception/fig2.png)
 
@@ -319,8 +315,6 @@ Coren 1986 一组设计优雅的实验考察了传出准备在方向与广延的
 > 这一偏向来自对 **将** 要做出的扫视——因而处于准备状态——的计算，而非实际发出的扫视。（Coren 1986: 399）[^coren-1986]
 
 COG 偏向见图 3。 **第一行（顶）** 中，扫视目标附近没有无关刺激。因此从注视点到目标的扫视无偏。相比之下， **第二行** 中，无关刺激（×）的位置使从注视点出发的扫视达不到目标； **第三行** 中扫视超过目标。 **第四行** 中，改变无关刺激的位置消除了 COG 偏向：因为无关刺激靠近注视点而非扫视目标，扫视是准确的。
-
-*Figure 3:*
 
 ![[Two columns of 4 dots each, each pair of dots on the same horizontal. The left column has the words 'Fixation Point' at the top and a blue arrow pointing from those words to the top of the column. The right column has the words 'Saccade Target' and a similar blue arrow. The top (or first) pair of dots has an arrow curving from the left dot to the right dot. The second pair as a 'x' to the left of the right dot and an arrow curving from the left dot to a point between the 'x' and the right dot. The third pair has a 'x' to the right of the right dot and an arrow curving from the left dot to a point between the right dot and the 'x'. The fourth pair as a 'x' to the left of the left dot and an arrow curving from the left dot to the right dot.]](../assets/action-perception/fig3.png)
 

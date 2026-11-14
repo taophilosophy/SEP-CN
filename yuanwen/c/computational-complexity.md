@@ -159,11 +159,9 @@ Note that this definition treats accepting and rejecting computations asymmetric
 
 Non-deterministic machines are sometimes described as making undetermined ‘choices’ among different possible successor configurations at various points during their computation. But what the foregoing definitions actually describe is a tree $\mathcal{T}^N_{C_0}$ of all possible computation sequences starting from a given configuration $C_0$ for a deterministic machine $N$ (an example is depicted in Figure 1). Given the asymmetry just noted, it will generally be the case that *all* of the branches in $\mathcal{T}^N_{C_0(x)}$ must be surveyed in order to determine $N$’s decision about the input $x$.
 
-*Figure 1.*
-
 ![figure 1](../assets/computational-complexity/fig1.png)
 
-Figure 1. A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
+*Figure 1.* A potential computation tree $\mathcal{T}^N_{C_0(x)}$ for a non-deterministic Turing machine $N$ starting from the initial configuration $C_0(x)$. Accepting states are labeled $\odot$ and rejecting states $\circ$. Note that although this tree contains an accepting computation sequence of length 4, its maximum depth of 5 still counts towards the determination of $time_N(n) = \max \{\text{depth}(\mathcal{T}^N_{C_0(x)})\ :\ \lvert x\rvert = n$}.
 
 The time complexity $t_N(n)$ of a non-deterministic machine $N$ is the maximum of the depths of the computation trees $\mathcal{T}^N_{C_0(x)}$ for all inputs $x$ such that $\lvert x\rvert = n$. Relative to this definition, non-deterministic machines can be used to implement many brute force algorithms in time polynomial in $n$. For instance the $\sc{SAT}$ problem can be solved by a non-deterministic machine which on input $\phi$ uses part of its tape to non-deterministically construct (or ‘guess’) a string representing a valuation $v$ assigning a truth value to each of $\phi$’s $n$ propositional variables and then computes $\llbracket \phi \rrbracket_v$ using the method of truth tables (which is polynomial in $n$). As $\phi \in \sc{SAT}$ just in case a satisfying valuation exists, this is a correct method for deciding $\sc{SAT}$ relative to conventions (i)–(iii) from above. This means that $\sc{SAT}$ can be solved in polynomial time relative to $\mathfrak{N}$.
 
@@ -220,11 +218,9 @@ $$ \textbf{L} \subseteq \textbf{NL} \subseteq \textbf{P} \subseteq \textbf{NP} \
 
 As we have seen, it is a consequence of Theorem 3.1 that $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$. It thus follows that at least one of the first four displayed inclusions must be proper and also at least one of the third, fourth, or fifth.
 
-*Figure 2.*
-
 ![figure 2](../assets/computational-complexity/fig2.png)
 
-Figure 2. Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
+*Figure 2.* Inclusion relationships among major complexity classes. The only depicted inclusions which are currently known to be proper are $\textbf{L} \subsetneq \textbf{PSPACE}$ and $\textbf{P} \subsetneq \textbf{EXP}$.
 
 At the moment, however, this is *all* that is currently known – i.e. although various heuristic arguments can be cited in favor of the properness of the other displayed inclusions, none of them has been proven to hold. Providing unconditional proofs of these claims remains a major unfulfilled goal of complexity theory. For instance, the following is often described as the single most important open question in all of theoretical computer science:
 
@@ -280,11 +276,9 @@ $$ (\ell^1_1 \ \vee \ \ell^1_2 \ \vee \ \ell^2_3) \ \wedge \ (\ell^2_1 \ \vee \ 
 
 where each $\ell^i_j$ is a *literal* – i.e. $\ell^i_j = p_k$ or $\ell^i_j = \neg p_k$ for some propositional variable $p_k$. A formula $\phi$ of this form is satisfiable just in case there exists a valuation satisfying at least one of the literals $\ell^i_1, \ell^i_2$ or $\ell^i_3$ for all $1 \leq i \leq n$. On the other hand, suppose that we consider the family of graphs $G$ which can be partitioned into $n $ disjoint triangles in the manner depicted in Figure 3. It is easy to see that any independent set of size $n$ in such a graph must contain exactly one vertex from each triangle in $G$. This in turn suggests the idea of using a graph of this form as a gadget for representing the clauses of a $3\text{-}\sc{CNF}$ formula.
 
-*Figure 3.*
-
 ![figure 3](../assets/computational-complexity/fig3.png)
 
-Figure 3. The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
+*Figure 3.* The graph $G_{\phi}$ for the formula $(p_1 \vee p_2 \vee p_3) \wedge (\neg p_1 \vee p_2 \vee \neg p_3) \wedge (p_1 \vee \neg p_2 \vee \neg p_3)$.
 
 A reduction of $3\text{-}\sc{SAT}$ to $\sc{INDEPENDENT}\ \sc{SET}$ can now be described as follows:
 
@@ -353,11 +347,9 @@ It follows immediately from Proposition 3.1 that $\Sigma^P_1 = \textbf{NP}$ and 
 1. Is $\textbf{PH}$ a proper hierarchy – i.e. is it the case that for all $k$, $\Sigma^P_{k} \subsetneq \Sigma^P_{k+1}$ and $\Sigma^P_{k} \neq \Pi^P_{k}$?
 2. Is $\textbf{PH}$ properly contained in $\textbf{PSPACE}$?
 
-*Figure 4.*
-
 ![figure 4](../assets/computational-complexity/fig4.png)
 
-Figure 4. The Polynomial Hierarchy.
+*Figure 4.* The Polynomial Hierarchy.
 
 To better understand why Open Questions 3a,b) are also expected to be decided positively, it will be useful to further explore the relationship between $\textbf{PSPACE}$ and the characterization of $\textbf{PH}$ in terms of quantifier alternations. To this end, we first show that the problem $\sc{TQBF}$ may be redefined in terms of a game between a player called *Verifier*– who can be thought of as attempting to demonstrate that a QBF-formula $\phi$ is true – and another player called *Falsifier*– who can be thought of as attempting to demonstrate that $\phi$ is not true.[^note-29] Supposing that $\phi$ is of the form $\exists x_1 \forall x_2 \ldots Q_n \psi$, a play of the *verification game* for $\phi$ is defined as follows:
 
@@ -492,8 +484,6 @@ The problems $\sc{SATISFIABILITY}_{\mathcal{L}}$, $\sc{VALIDITY}_{\mathcal{L}}$,
 | $\exists^* \forall \forall \exists^*$ | $\textbf{NEXP}$-complete | $\textbf{coNEXP}$-complete |   |
 | (Gödel 1932; Lewis 1980)[^gödel-1932][^lewis-1980] |   |   |   |
 
-*Table 1.*
-
 | Intuitionistic Logic | SATISFIABILITY | VALIDITY | MODEL CHECKING |
 | --- | --- | --- | --- |
 | full propositional | $\textbf{PSPACE}$-complete | $\textbf{PSPACE}$-complete | $\textbf{P}$-complete |
@@ -553,7 +543,7 @@ The problems $\sc{SATISFIABILITY}_{\mathcal{L}}$, $\sc{VALIDITY}_{\mathcal{L}}$,
 | $\textsf{LL}$ |   | $\textbf{RE}$-complete |   |
 | (Lincoln 1995)[^lincoln-1995] |   |   |   |
 
-Table 1. The complexity of the satisfiability, validity, and model checking problems for some common logics.
+*Table 1.* The complexity of the satisfiability, validity, and model checking problems for some common logics.
 
 ### 4.3 Proof complexity
 
@@ -613,8 +603,6 @@ $$ \sc{PARITY} = \{w \in \{0,1\}^* : w \text{ contains an odd number of 1s}\} $$
 
 – which cannot be define over $\textsf{FO}(\texttt{LFP})$ without using $\leq$. More generally, the question of there exists a logic which captures $ \textbf{P}$ over unordered structures is currently one of the major open questions in descriptive complexity. See, e.g., (Ebbinghaus and Flum 1999)[^ebbinghaus-1999] and (Chen and Flum 2010).
 
-*Table 2.*
-
 | Complexity class | Logic | Reference |
 | --- | --- | --- |
 | $\textbf{AC}^0$ | $\mathsf{FO}$ | (Immerman 1999)[^immerman-1999] |
@@ -627,7 +615,7 @@ $$ \sc{PARITY} = \{w \in \{0,1\}^* : w \text{ contains an odd number of 1s}\} $$
 | $\textbf{PSPACE}$ | $\textsf{SO}(\texttt{TC})$ | (Immerman 1987)[^immerman-1987] |
 | $\textbf{EXP}$ | $\textsf{SO}(\texttt{LFP})$ | (Immerman 1999)[^immerman-1999] |
 
-Table 2. Descriptive characterization of complexity classes.
+*Table 2.* Descriptive characterization of complexity classes.
 
 ### 4.5 Bounded arithmetic
 

@@ -133,11 +133,9 @@ As informal logic has evolved, systems of IL have expanded to make room for real
 
 In most cases, they have verbal as well as visual elements and are, in view of this, an amalgam of verbal and non-verbal (visual) elements. The two photographs in EXAMPLE 3 (below), taken by the NASA Mars rover Phoenix, were key components of a visual argument proposed by NASA scientists. The first provides an initial view of a dig made by Phoenix; the second a view of the same dig four Martian days (sols) later. When one visually examines at the bottom left hand corners of the photographs, one sees white crust in the first but not the second image. According to the NASA scientists, the only way to plausibly explain the difference one sees is by understanding the crust as water ice that evaporated when the dig exposed it to the sun. In this way, the photographs provide evidence that there is water on the planet Mars.
 
-*EXAMPLE 3*
-
 ![nasa rover](../assets/logic-informal/mars2.jpg)
 
-EXAMPLE 3
+*EXAMPLE 3*
 
 We can summarize the argument as follows.
 
@@ -161,11 +159,9 @@ As is the case with words, the images used in visual arguments may not be litera
 
 The cartoon of Napoleon III below (EXAMPLE 4) appeared in *Punch* on Feb. 19, 1859.
 
-*EXAMPLE 4*
-
 ![Political cartoon of a porcupine with the face, hands, and boots of a man. The porcupine/man is saying, ‘L’Empire c’est la paix’. The caption reads, ‘The French Porcupine: He may be an Inoffensive Animal, but he Don't Look like it’.](../assets/logic-informal/FrenchPorcupineSE.jpg)
 
-EXAMPLE 4
+*EXAMPLE 4*
 
 This is a clever caricature, something more than a simple caricature, for the cartoonist uses a drawing of Napoleon-as-porcupine to convey a *reason* to doubt his profession of peace. We might summarize the point as the suggestion that Napoleon’s actions– his amassing of the armaments which encircle him like quills on a porcupine–are not the actions of someone committed to peace. The picture invites the viewer to respond to him as one would respond to an actual porcupine–with caution, concern and suspicion, wary of what he might do with his weapons (even though he has an “inoffensive” posture and professes peace).
 
@@ -305,11 +301,9 @@ As in many other cases, this argument’s implicit premise identifies the link t
 
 As in the case of verbal arguments, implicit premises and conclusions play a role in visual and multimodal arguments. In EXAMPLE 9 (below), the title “Just Add Vodka” is superimposed over a gigantic bottle of vodka splashing its contents onto the scene below. Outside the resultant vodka splash, we see a sleepy rural hamlet. Inside the splash, the hamlet is transformed into a bustling cityscape complete with skyscrapers, a nightlife, search lights, people, nightclubs, bars, and restaurants.
 
-*EXAMPLE 9*
-
 ![vodka print ad](../assets/logic-informal/vodka.jpg)
 
-EXAMPLE 9
+*EXAMPLE 9*
 
 The image in the advertisement is an obvious visual metaphor which suggests that vodka can transform one’s life in the way that it transforms the scene in the advertisement, turning the (dreary) life one lives in a sleepy hamlet into the kind of exciting nightlife one finds in a cosmopolitan urban center. Insofar as it is featured in an advertisement, we can plausibly understand this message as a *reason* why one should “Just add Vodka.”
 
@@ -332,21 +326,17 @@ Standardizing arguments by listing their premises and conclusions is one way to 
 
 In EXAMPLE 10 (below), I have used this method to standardize an argument that Kretzmann uses in his account of the medieval philosopher William of Sherwood, whn he concludes that it is likely that William was a Master at the University of Paris. The first column of the KC table lists the premises and conclusion of the argument; the second assigns them their role as premise or conclusion; the third lists the source from which they are derived. The diagram that follows depicts the relationships between the argument’s key components, using arrows to indicate the inferences it includes.
 
-*EXAMPLE 10*
-
 ![image text](../assets/logic-informal/TableDiagram1.jpg)
 
-EXAMPLE 10
+*EXAMPLE 10*
 
 This form of standardization depicts the Sherwood argument as one that is supported by three independent “convergent” premises that provide three separate reasons for thinking that the argument’s conclusion is true.
 
 In other instances of argument, two or more “linked” premises combine to support a conclusion with a single inference. The argument “The murderer was very strong, so George cannot be the murderer.” (EXAMPLE 11) is an enthymeme which assumes that “George is not very strong.” Using square brackets ([ ]) to indicate this implicit component, we can standardize the argument with the following KC table and diagram. In this case, the linked premises are indicated with a plus sign (“+”) that indicates that they support the argument’s conclusion (only) when combined.
 
-*EXAMPLE 11*
-
 ![image text](../assets/logic-informal/TableDiagram2.jpg)
 
-EXAMPLE 11
+*EXAMPLE 11*
 
 When arguments have non-verbal key components, visual and multimodal premises and conclusions can be recognized in a key component table by ostension, or by reproducing them in some way. Once they are identified in a KC table, the inferences such arguments depend on can be mapped in standard ways. The following table and diagram standardizes EXAMPLE 3 (above). It shows that it contains an inference from three linked premises (two visual and one verbal) to the conclusion that there is water on the planet Mars.
 

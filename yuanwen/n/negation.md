@@ -223,11 +223,9 @@ The raised understanding is always stronger than the contradictory (outer) negat
 
 In some cases, the strengthened or neg-raised contrary reading may become salient enough over time to block the literal interpretation, as when French *Il ne faut pas partir*—literally = “one needn’t leave” (an **O** vertex modal)—is now generally used only to express the stronger proposition that one must not-leave (**E** vertex). This is a modal instance of the general phenomenon of **O** $>$ **E** drift, an upward shift along the right (negative) vertical of the modal square of opposition. Such squares were constructed by Cajetan, based on Aristotle’s *De Interpretatione* 21b10ff. and *Prior Analytics* 32a18–28 (see Oesterle 1962)[^oesterle-1962], and by other medieval commentators.
 
-*Figure 1*
-
 ![[A square diagram, upper left vertex is 'A' and labeled 'box phi'; upper right vertex is 'E' and labeled 'box not phi equivalent not diamond phi'; lower left vertex is 'I' and labeled 'diamond phi'; lower right vertex is 'O' and labeled 'not box phi equivalent diamond not phi'. 'A' and 'E' are connected by a double headed arrow labeled 'contraries'; 'A' and 'I' are connect by an arrow pointing to 'I' and labeled 'entails'. 'E' connects to 'O' with an arrow pointing to 'O' labeled 'entails'. 'I' and 'O' are connected by a double headed arrow labeled 'subcontraries'. In the center of the square is a label, 'contradictories' with lines from all four vertices to it. The line from 'A' is labeled 'a must F'; the line from 'E' is labeled 'a can't F'; the line from 'I' is labeled 'a may F' and the line from 'O' is labeled 'a needn't F']](../assets/negation/figure1-newsquare.png)
 
-Figure 1
+*Figure 1*
 
 $\mathbf{O}>\mathbf{E}$ drift is attested cross-linguistically in the meaning shift of lexical items like Old English *nealles* (lit. “NEG all”) = “not at all”, Dutch *nimmer* (lit., “NEG always”) = “never”, or Russian *nel’zja* (lit. “NEG must”) = “mustn’t”, and in words like *unlikely, inadvisable*, or *disbelieve*, whose prefixal negations yield only contrary, not contradictory, interpretations. The reverse shift, in which apparent **E** forms develop **O** meanings, appears to be unattested (cf. Horn 2015)[^horn-2015].
 
@@ -287,11 +285,9 @@ If we represent the narrow-scope contrariety operator of *It is not-white* as $\
 
 In ordinary language, semantic double negation (as opposed to negative concord as in *I ain’t never done nothing to nobody*, an agreement phenomenon in which only one semantic negation is expressed, addressed in the next section) tends not to cancel out completely. This is predictably the case when a semantic contrary is negated: *not uncommon* is weaker than *common*; one can be not unhappy without being happy. (For more on the complex semantic relations between affixal negation, as represented e.g. by *un-*, *in-*, *non-*, and the contradictory/contrary distinction, see Horn 1989, Bauer et al. 2013, and Joshi 2020.)[^bauer-2013][^horn-1989][^joshi-2020] But even when an apparently contradictory negation is negated (from the unexceptionable *it’s not impossible* to the more transgressive double-*not* of Homer Simpson’s concessive *I’m not NOT licking toads* [http://tinyurl.com/34jwhjz]), the *duplex negatio* of $A$ doesn’t affirm $A$, or at least it provides a rhetorically welcome concealment, as suggested by Frege’s metaphor of “wrapping up a thought” in double negation. The negation in such cases (*impossible*, *not-licking*) is coerced into a virtual contrary whose negation, $\neg\copy A$, is weaker than (is unilaterally entailed by) A; see Krifka 2007, Horn 2017, and the entry on contradiction). But even if $A$ and *¬¬A* present the same thought in different wrapping, as Frege (1897: 242) observes in a different connection, “we are not in a position to say that it is a matter of complete indifference which of these sentences we use”.
 
-*Figure 2*
-
 ![[a square with diagonal lines and the vertices labeled: top left as 'A' and 'it's possible that A'; top right with 'E' and 'it's impossible that A' and 'copyright sign [it's possible that A]'; bottom left with 'I' and 'it isn't impossible that A' and 'negation sign copyright sign[it's possible that A]'; bottom right with 'O' and 'it isn't possible that A' and 'negation sign[it's possible that A].']](../assets/negation/figure2-square.png)
 
-Figure 2
+*Figure 2*
 
 #### 1.8.2 Negative concord and its relations
 
@@ -499,11 +495,9 @@ The two negations form a so-called **Galois connection**, which means that $A \v
 
 As noted in Dunn 1993, 1996, if contraposition is assumed, double negation introduction $A \vdash \osim \osim A$ is mutually derivable with constructive contraposition $A \vdash \osim B \slashrel B \vdash \osim A$, and if constructive contraposition is assumed, double negation elimination is mutually derivable with classical contraposition $\osim A \vdash B \slashrel \osim B \vdash A$. Note also that in the presence of double negation introduction and elimination, one can derive $\osim A \vdash \osim B \, / \, B \vdash A$. The demonstrations use only reflexivity and transitivity of the derivability relation $\vdash$. As a result, the above list of negation laws leads to the following unbalanced “kite” of negations (cf. Dunn and Zhou 2005)[^dunn-2005]:
 
-*Figure 3*
-
 ![[a diagram of 6 points, 5 connected with lines in a loose pentagon and one below connected by a line to the pentagon. The points are labeled in clockwise order: 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure3-kite.png)
 
-Figure 3
+*Figure 3*
 
 The graphical arrangement in this diagram is to be understood as follows: If a sequent or sequent rule is assigned to a node $n$ and node $n'$ is placed below $n$, then the sequent or sequent rule assigned to $n'$ is derivable with the aid of the sequent or sequent rule assigned to $n$.
 
@@ -517,11 +511,9 @@ The following first-order property of $C$ alone also corresponds to double negat
 
 We may observe that Dunn and Zhou’s lopsided kite of negations can be equilibrated, for example, by inserting the sequent schema $\osim \osim \osim A \vdash \osim A$. This schema corresponds to the following first-order condition on $C$ (as calculated with the help of the SQEMA algorithm for computing first-order correspondences in modal logic due to Georgiev, Tinchev, and Vakarelov (see Other Internet Resources): $$ \forall x \forall y (xCy \Rightarrow \exists z (xCz \amp \forall u (zCu \Rightarrow uCy))).$$
 
-*Figure 4*
-
 ![[a diagram of 7 points, 6 connected with lines in a hexagon and one below connected by a line to the hexagon. The points are labeled in clockwise order: 'weak De Morgan \sim\sim\sim A \vdash \sim A', 'De Morgan \sim \sim A \vdash A', 'ortho', 'intuitionistic A \vdash B, A \vdash \sim B/A \vdash C', 'minimal A \vdash B, A \vdash \sim B/A \vdash \sim C', 'quasi-minimal A \vdash \sim B/B \vdash \sim A', and the solo point connected to the last is labeled 'preminimal A \vdash B/\sim B \vdash \sim A'.]](../assets/negation/figure4-kite.png)
 
-Figure 4
+*Figure 4*
 
 Negation as unnecessity gives rise to a dual lopsided kite of negations that can be combined with the lopsided kite into a “united” kite of negations, see Shramko 2005, Dunn and Zhou 2005, and Section 2.4. An even richer inclusion diagram of negations can be found in Ripley 2009.
 

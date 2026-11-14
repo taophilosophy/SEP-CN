@@ -73,19 +73,15 @@ to create a hole type argument that indicates this transformation is merely a ga
 
 We start with the field $U$. It has values $U(6)=-2,$ $U(4)=-3,$ $U(3)=-4,$ $U(2)=-6.$ If we assume that the mass $M$ is at rest in space, then the potential field $U$ will be constant through time. This field is illustrated in Figure 7 below. It shows the space around the central mass at different times $t=0,$ $t=1$ and $t=2$. The circles represent points in space with the same value of $U$. For example, all those points at radius $r=6$ have $U=-2$. The constancy of the field in time is represented by the vertical lines that connect points with the same value of $U$ across time. For example, point at $r=6$ at each time instant have the same potential $U=-2$.
 
-*Figure 7.*
-
 ![An up arrow with the label ‘time’ indicates that time advance in the up-vertical direction. Space at times t=0, t=1 and t=2 are represented as squares that are arrayed upwards, one on top of each other. In each are four concentric circles. The second and fourth from the center are labeled r=3 and r=6 respectively. The squares are seen side on, so that they are quadrilaterals with converging sides and the circle are ellipses. The center of each square is threaded by a thin cylindrical tube. Four vertical lines connect the extreme left and right edges of the r=3 and r=6 circles.](../assets/spacetime-holearg/Gauge_1.svg)
 
-Figure 7. Gravitational potential field before the transformation.
+*Figure 7.* Gravitational potential field before the transformation.
 
 Let us select the following $K(t)$. It is 0 for all time $t$ except in $0 \lt t \lt 2$. In that time interval, $K(t)$ grows to a maximum value of $K(t)=2$ at $t=1$. Computing the field $U' = U+K(t)$ for $t=1$, where $K=2$, we find values for $U'$ as follows: $U(6)=0,$ $U(4)=-1,$ $U(3)=-2$, $U(2)=-4.$ Figure 8 illustrates this new field. The result of the transformation has been to shift regions of a particular value of $U'$ inwards. For example, at $t=0$ and $t=2,$ $U'=-2$ at radial distance $r=6$. However at $t=1,$ $U'$ has a different value at $r=6$; the points with $U'=-2$ have been shifted inward to radial distance $r=3$. As before, the vertical lines connect points with the same potential $U'$. They bend inward to reflect the shift in $U'$ in the time $0 \lt t \lt 2$.
 
-*Figure 8.*
-
 ![The figure is based on Figure 7. The only change is in the vertical lines. The vertical lines that connect the r=3 and r=6 circles in the squares marked t=0 and t=2 are deflected inward so that they intersect with the two innermost circles in the square marked t=1. These two innermost circles are labeled r=2 and r=3.](../assets/spacetime-holearg/Gauge_2.svg)
 
-Figure 8. Gravitational potential field after the transformation.
+*Figure 8.* Gravitational potential field after the transformation.
 
 What are we to make of these differences between the two fields $U$ and $U'$? Do they betoken any physical difference in gravitational realities? The template of the hole argument suggests that they do not. For the differences in U and U’ are not expressed in any differences in the observationally verifiable motions of bodies falling in the vicinity of the mass M; the forces in both fields are the same. Moreover the laws of Newtonian gravitation theory do not seem to be able to discern which of the two fields ought to be realized in space. We can fix the field at $U=U'$ for all space and all times $t \lt 0.5$ and $t \gt 1.5.$ Nonetheless, Newtonian gravitation theory is unable to say which of $U$ and $U'$ is the appropriate extension of the potential field into the times $0.5 \lt t \lt 1.5.$ Whatever differences there are between $U$ and $U'$ in this region outstrip Newtonian gravitation theory.
 

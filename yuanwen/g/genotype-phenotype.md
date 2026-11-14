@@ -43,11 +43,9 @@ Although he was infamously against the speculative postulation of material parti
 
 Genes allowed Johannsen to adopt Mendel’s results regarding separate genes associated with different characters. He could also explain differences between species in terms of the different genes that each carried.
 
-*Figure 1.*
-
 ![Five different genotypes shown as different distributions, labeled 'Genotype 1' 'Genotype 2', and so forth. Below these is a distribution labeled 'Population'.](../assets/genotype-phenotype/johannsen.png)
 
-Figure 1. Johannsen’s diagram of the relationship between a mixed population and the genotypes that it contains. Johannsen recognized that a single observable phenotype (the population distribution of a trait like bean length in a population of beans at the bottom of the diagram) could be the result of multiple genotypes represented as smaller distributions above the population distribution. Each genotype corresponds to a distribution of beans, which constitute its specific phenotype. As a distribution, each phenotype exhibits a central tendency and variability around that central tendency. (Adapted from Johannsen 1911: 136)[^johannsen-1911].
+*Figure 1.* Johannsen’s diagram of the relationship between a mixed population and the genotypes that it contains. Johannsen recognized that a single observable phenotype (the population distribution of a trait like bean length in a population of beans at the bottom of the diagram) could be the result of multiple genotypes represented as smaller distributions above the population distribution. Each genotype corresponds to a distribution of beans, which constitute its specific phenotype. As a distribution, each phenotype exhibits a central tendency and variability around that central tendency. (Adapted from Johannsen 1911: 136)[^johannsen-1911].
 
 Returning to his selection experiments with *Phaseolis* (see Figure 1), the mixed parental population displayed a statistical distribution and phenotype for bean length, but that population was composed of five “purebred series”. Each of these purebred lines also had a distinct phenotype, but Johannsen claimed that these phenotypes corresponded to “actual differences of genes” (1909: 127). Put another way, these phenotypes were distinct on a “more fundamental level”, because these pure lines were the products of different genes. These more fundamental differences in genes were called genotypical differences.
 
@@ -85,11 +83,9 @@ Waddington highlighted the relationships between these processes at different po
 
 Waddington eventually developed his theory of epigenetics with the concept of an “epigenetic landscape” whose topography is determined by genes and gene products (Waddington 1940; 1957; Fagan & Maienschein 2022)[^fagan-2022][^waddington-1940].
 
-*Figure 2:*
-
 ![A series of small black rectangles at the bottom are linked via a network of straight, intersecting lines, which connect to the contours of a surface at the top. Many rectangles connect to multiple lines.](../assets/genotype-phenotype/waddington.png)
 
-Figure 2: Waddington’s epigenetic landscape anchored by genes. The contours of the epigenetic landscape were depicted by Waddington as produced by genes (black rectangles) in interaction with each other. The epigenetic landscape then was a kind of developmental phenotype that influenced the possibilities of organismal phenotypes. Used with permission of Routledge from *The Strategy of the Genes*, Conrad H. Waddington, 1957 [2014 edition, page 36]; permission conveyed through Copyright Clearance Center, Inc.).
+*Figure 2:* Waddington’s epigenetic landscape anchored by genes. The contours of the epigenetic landscape were depicted by Waddington as produced by genes (black rectangles) in interaction with each other. The epigenetic landscape then was a kind of developmental phenotype that influenced the possibilities of organismal phenotypes. Used with permission of Routledge from *The Strategy of the Genes*, Conrad H. Waddington, 1957 [2014 edition, page 36]; permission conveyed through Copyright Clearance Center, Inc.).
 
 Scott Gilbert (2012) contextualizes Waddington’s introduction and framing of the epigenotype as a deliberate attempt to bridge genetics and embryology in a moment where they were still largely separate. Gilbert (2012) thus explains that the “epi” in Waddington’s epigenotype is closer in meaning to “developmental” than the sense of “above” the gene in contemporary epigenetics. Since Waddington’s introduction of the term, a science of “epigenetics” has emerged focused on heritable, non-sequence changes to the genome such as DNA methylation and histone acetylation patterns (see Jablonka & Lamb 1995; Jablonka & Lamm 2012; Griffiths & Stotz 2013; Lamm 2012 [2021])[^griffiths-2013][^jablonka-1995][^jablonka-2012][^lamm-2012]. The epigenotype has made the transition into this new framework of epigenetics, as illustrated by Whitelaw and Whitelaw’s definition:
 
@@ -177,11 +173,9 @@ The complete DNA sequence of an organism does not contain the information necess
 
 Moreover, the mapping of different genotypes into phenotypes in one environment is often completely unpredictable from their mapping in another environment. The classic demonstration of the complexities of this mapping is the experiment on clones of the plant *Achillea* (Clausen, Keck, & Hiesey 1948)[^clausen-1948]. Individual immature plants were collected from nature and from each plant three clones were produced by the simple method of cutting them into three pieces. One piece of each plant was grown at low elevation in the Sierra Range, one at medium elevation and one at high elevation. The result of the growth at the three elevations was that the relative heights of the various plants was unpredictable from one environment to another (see Figure 3). For example, the genotype that grew tallest at low elevation was the shortest at medium elevation and the second tallest at high elevation. Moreover, whereas this genotype flowered at low and high elevation, it failed to flower at medium elevation, while other genotypes flowered at that elevation but not at high elevation. There was, in fact, no correlation among the plants in their growth in the different environments. Many experiments on many different organisms where it has been possible to produce multiple individuals of the same genotype show this same result (Lewontin & Goss 2005)[^lewontin-2005].
 
-*Figure 3:*
-
 ![Left to right, on the bottom, a diagram of the Sierra Nevada Range and the Great Basin Plateau, showing elevation for 9 locations: Mather, Aspen Valley, Yosemite Creek, Tenaya Lake, Tuolumne Meadows, Big Horn Lake, Timberline, Conway Summit,and Leevining. Across the top, left to right, is the height (in cm) for specimens of Achillea lanulosa, n=18. Plants vary in height by location.](../assets/genotype-phenotype/clausen-keck-heisey.png)
 
-Figure 3: Clausen, Keck, and Heisey’s diagram of different plant phenotypes in different geographical locations in Northern California. Genetically identical plants show phenotypic variation depending on local conditions, thereby exhibiting part of the norm of reaction for that genotype (Clausen, Keck, & Heisey 1948: 7. CC BY-NC-SA 4.0)[^clausen-1948].
+*Figure 3:* Clausen, Keck, and Heisey’s diagram of different plant phenotypes in different geographical locations in Northern California. Genetically identical plants show phenotypic variation depending on local conditions, thereby exhibiting part of the norm of reaction for that genotype (Clausen, Keck, & Heisey 1948: 7. CC BY-NC-SA 4.0)[^clausen-1948].
 
 #### 2.3.1 Norms of Reaction and Phenotypic Plasticity
 
@@ -201,11 +195,9 @@ With the material basis of the genotype better understood in 1926, the genotype 
 
 Today, the norm of reaction is understood as a measure of how an environment and genotype interact to produce phenotypes that vary across changing environments for the same genotype. Plotted as graphs, norms of reaction are often given a linear representation, although that is not necessary (see figure 4). Genotypes may show similar kinds of responses or strongly different responses, indicated by crossing lines in the graph (Griffiths & Linquist 2021 [2025: §3.2 Developmental invariance and the norm of reaction]; Downes & Matthews 2024 [2025])[^downes-2024][^griffiths-2021][^matthews-2024].
 
-*Figure 4:*
-
 ![A graph with X axis labeled 'Environmental Value' and Y axis labeled 'Trait Value'. Three parallel lines, labeled 'Genotype 1', 'Genotype 2', and 'Genotype 3' show increasing trait values corresponding to increasing environmental value.](../assets/genotype-phenotype/trait-environment.svg)
 
-Figure 4: Norm of reaction for three additive genotypes. Each genotype shows a phenotypic response (Y axis) to change in the environment (X axis).
+*Figure 4:* Norm of reaction for three additive genotypes. Each genotype shows a phenotypic response (Y axis) to change in the environment (X axis).
 
 Like most of classical genetics, norm of reaction plots tend to assume that the relevant developmental processes involved in the creation of a phenotype from a genotype are invariant and so can be black boxed relative to the changes in the environment. More sophisticated representations of gene-environment interactions in quantitative genetics often also assume a kind of developmental invariance (Tabery 2014; Taylor 2014; Downes & Matthews 2024 [2025])[^downes-2024][^matthews-2024][^tabery-2014][^taylor-2014]. In population genetics, the complexities of development in its ecological context are also collapsed into the parameters of the models, such as the parameters for surviving and leaving offspring. Taylor and Lewontin (2017 [2021]) talk about this kind of exclusion of development as a difference maker for phenotypes in terms of what biological practices using genotypes and phenotypes have “abstracted away”. There is no room for development in these models; development is black-boxed in the models of these practices. Reintegrating development into the genotype-phenotype relationship is one of the ongoing challenges for biologists seeking more complex models.
 

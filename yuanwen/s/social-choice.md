@@ -85,8 +85,6 @@ Two points about the concept of an aggregation rule are worth noting. First, und
 
 To illustrate, Tables 1 and 2 show majority rule for groups of sizes two and three as extensional objects. The rows of each table correspond to the different possible profiles of votes; the final column displays the resulting social decisions.
 
-*Table 1:*
-
 | *Individual 1’s vote* | *Individual 2’s vote* | *Collective decision* |
 | --- | --- | --- |
 | 1 | 1 | 1 |
@@ -94,9 +92,7 @@ To illustrate, Tables 1 and 2 show majority rule for groups of sizes two and thr
 | $-1$ | 1 | 0 |
 | $-1$ | $-1$ | $-1$ |
 
-Table 1: Majority rule among two individuals
-
-*Table 2:*
+*Table 1:* Majority rule among two individuals
 
 | *Individual 1’s vote* | *Individual 2’s vote* | *Individual 3’s vote* | *Collective decision* |
 | --- | --- | --- | --- |
@@ -109,7 +105,7 @@ Table 1: Majority rule among two individuals
 | $-1$ | $-1$ | 1 | $-1$ |
 | $-1$ | $-1$ | $-1$ | $-1$ |
 
-Table 2: Majority rule among three individuals
+*Table 2:* Majority rule among three individuals
 
 The present way of representing an aggregation rule helps us see how many possible aggregation rules there are. Suppose there are $k$ profiles in the domain of admissible inputs (in the present example, $k = 2^n$, since each of the $n$ individuals has two choices, with abstention disallowed). Suppose, further, there are $l$ possible social decisions for each profile (in the example, $l = 3$, allowing ties). Then there are $l^k$ possible aggregation rules: the relevant table has $k$ rows, and in each row, there are $l$ possible ways of specifying the final entry (the collective decision). Thus the number of possible aggregation rules grows exponentially with the number of admissible profiles and the number of possible decision outcomes.
 
@@ -247,8 +243,6 @@ A second example of a preference aggregation rule that violates independence of 
 
 To see how this violates independence of irrelevant alternatives, consider the two profiles of individual preference orderings over four alternatives $(x, y, z, w)$ in Tables 3 and 4.
 
-*Table 3:*
-
 |   | *Individual 1* | *Individuals 2 to 7* | *Individuals 8 to 15* |
 | --- | --- | --- | --- |
 | *1ˢᵗ preference* | $y$ | $x$ | $z$ |
@@ -256,9 +250,7 @@ To see how this violates independence of irrelevant alternatives, consider the t
 | *3ʳᵈ preference* | $z$ | $w$ | $y$ |
 | *4ᵗʰ preference* | $w$ | $y$ | $w$ |
 
-Table 3: A profile of individual preference orderings
-
-*Table 4:*
+*Table 3:* A profile of individual preference orderings
 
 |   | *Individual 1* | *Individuals 2 to 7* | *Individuals 8 to 15* |
 | --- | --- | --- | --- |
@@ -267,7 +259,7 @@ Table 3: A profile of individual preference orderings
 | *3ʳᵈ preference* | $w$ | $w$ | $y$ |
 | *4ᵗʰ preference* | $z$ | $y$ | $w$ |
 
-Table 4: A slightly modified profile of individual preference orderings
+*Table 4:* A slightly modified profile of individual preference orderings
 
 In Table 3, the Borda scores of the four alternatives are:
 
@@ -531,8 +523,6 @@ The contemporary field of judgment-aggregation theory was inspired by a series o
 
 According to legal doctrine, the *premises* $p$ and $q$ are jointly necessary and sufficient for the *conclusion* $r$. Suppose the individual judges hold the views shown in Table 5.
 
-*Table 5:*
-
 |   | *$p$ (obligation)* | *$q$ (action)* | *$r$ (liability)* |
 | --- | --- | --- | --- |
 | *Judge 1* | True | True | True |
@@ -540,7 +530,7 @@ According to legal doctrine, the *premises* $p$ and $q$ are jointly necessary an
 | *Judge 3* | True | False | False |
 | *Majority* | True | True | False |
 
-Table 5: An example of the ‘doctrinal paradox’
+*Table 5:* An example of the ‘doctrinal paradox’
 
 Although each individual judge respects the relevant legal doctrine, there is a majority for $p$, a majority for $q$, and yet a majority against $r$—in breach of the legal doctrine. The court faces a dilemma: it can *either* go with the majority judgments on the premises $(p$ and $q)$ and reach a ‘liable’ verdict by logical inference (the *issue-by-issue* or *premise-based approach*); $or$ go with the majority judgment on the conclusion $(r)$ and reach a ‘not liable’ verdict, ignoring the majority judgments on the premises (the *case-by-case* or *conclusion-based approach*). The ‘doctrinal paradox’ consists in the fact that these two approaches may lead to opposite outcomes.
 
@@ -554,8 +544,6 @@ The possibility of inconsistent majority judgments is not tied to the presence o
 
 If individual judgments are as shown in Table 6, the majority judgments are inconsistent: despite individually consistent judgments, the set of majority-accepted propositions, $\{p$, *if* $p$ *then* $q$, *not* $q\}$, is logically inconsistent.
 
-*Table 6:*
-
 |   | $p$ | *if* $p$ *then* $q$ | $q$ |
 | --- | --- | --- | --- |
 | *Expert 1* | True | True | True |
@@ -563,11 +551,9 @@ If individual judgments are as shown in Table 6, the majority judgments are inco
 | *Expert 3* | True | False | False |
 | *Majority* | True | True | False |
 
-Table 6: A majoritarian inconsistency
+*Table 6:* A majoritarian inconsistency
 
 Note that the patterns of judgments in Tables 5 and 6 are structurally equivalent to the pattern of preferences leading to Condorcet’s paradox when we reinterpret those preferences as judgments on propositions of the form ‘$x$ is preferable to $y$’, ‘$y$ is preferable to $z$’, and so on, as shown in Table 7 (List and Pettit 2004; an earlier interpretation of preferences along these lines can be found in Guilbaud [1952] 1966)[^list-2004]. Here, the set of majority-accepted propositions is inconsistent relative to the constraint of transitivity.
-
-*Table 7:*
 
 |   | *‘x preferable to y’* | *‘y preferable to z’* | *‘x preferable to z’* |
 | --- | --- | --- | --- |
@@ -576,7 +562,7 @@ Note that the patterns of judgments in Tables 5 and 6 are structurally equivalen
 | *Individual 3* (prefers $z$ to $x$ to $y)$ | True | False | False |
 | *Majority* (prefers $x$ to $y$ to $z$ to $x$, a ‘cycle’) | True | True | False |
 
-Table 7: Condorcet’s paradox, propositionally reinterpreted
+*Table 7:* Condorcet’s paradox, propositionally reinterpreted
 
 A general combinatorial result subsumes all these phenomena. Call a set of propositions *minimal inconsistent* if it is a logically inconsistent set, but all its proper subsets are consistent.
 
@@ -640,8 +626,6 @@ As in preference aggregation, one way to avoid the present impossibility results
 
 The simplest cohesion condition is *unidimensional alignment* (List 2003b)[^list-2003b]. A profile $\langle J_1, J_2 , \ldots ,J_n\rangle$ is *unidimensionally aligned* if the individuals in $N$ can be ordered from left to right (e.g., on some cognitive or ideological dimension) such that, for every proposition $p \in X$, the individuals accepting $p$ (i.e., those with $p \in J_i)$ are either all to the left, or all to the right, of those rejecting $p$ (i.e., those with $p \not\in J_i)$. Table 8 gives an example. Here the individuals are ordered from left to right in the order 1-2-3-4-5, and for each proposition the individuals accepting the proposition (corresponding to the ‘True’ entries in the table) are on the opposite side of those rejecting the proposition (corresponding to the ‘False’ entries). For any profile satisfying this condition, the majority judgments coincide with the judgments of the median individual relative to the given left-right ordering (if $n$ is odd) (individual 3 in Table 8), or with the intersection of the judgment sets of the two middle individuals (if $n$ is even). Assuming individual judgments are consistent, the majority judgments then inherit their consistency. By implication, on unidimensionally aligned domains, propositionwise majority voting will satisfy the rest of the conditions on judgment aggregation rules reviewed above (assuming there are no majority ties).
 
-*Table 8:*
-
 |   | *Individual 1* | *Individual 2* | *Individual 3* | *Individual 4* | *Individual 5* |
 | --- | --- | --- | --- | --- | --- |
 | $p$ | True | True | False | False | False |
@@ -649,7 +633,7 @@ The simplest cohesion condition is *unidimensional alignment* (List 2003b)[^list
 | $r$ | False | False | False | True | True |
 | $p \wedge q \wedge r$ | False | False | False | False | False |
 
-Table 8: Unidimensional alignment
+*Table 8:* Unidimensional alignment
 
 In analogy with the case of single-peakedness in preference aggregation, several less restrictive conditions already suffice for consistent majority judgments. One such condition (introduced in Dietrich and List 2010a, where a survey is provided)[^dietrich-2010a] generalizes Sen’s triple-wise value-restriction. A profile $\langle J_1, J_2 , \ldots ,J_n\rangle$ is *value-restricted* if every minimal inconsistent subset $Y \subseteq X$ has a pair of elements $p, q$ such that no individual $i \in N$ has $\{p, q\} \subseteq J_i$. Value-restriction prevents any minimal inconsistent subset of $X$ from becoming majority-accepted, and hence ensures consistent majority judgments. Applied to the preference agenda, value-restriction reduces to Sen’s equally named condition.
 

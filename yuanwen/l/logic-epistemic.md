@@ -280,8 +280,6 @@ Several normal modal logical systems weaker than **S5** have been suggested in t
 
 In Table 1, the subscript on $R_{a}$ is omitted to ease readability, and so is the domain of quantification *W* over which the worlds variables $x,y,z$ range.
 
-*Table 1.*
-
 | K | $K_{a}(\varphi\rightarrow\psi)\rightarrow(K_{a}\varphi\rightarrow K_{a}\psi)$ None: *Not applicable* |
 | --- | --- |
 | D | $K_{a}\varphi\rightarrow\widehat{K}_{a}\varphi$ Serial: $\forall x\exists y,xRy$. |
@@ -294,11 +292,9 @@ In Table 1, the subscript on $R_{a}$ is omitted to ease readability, and so is t
 | .3.2 | $(\widehat{K}_{a}\varphi\wedge\widehat{K}_{a}K_{a}\psi)\rightarrow K_{a}(\widehat{K}_{a}\varphi\vee\psi)$ Semi-Euclidean: $\forall x,y,z,$ if $xRy$ and $xRz$, then $zRx$ or $yRz$. |
 | .4 | $(\varphi\wedge\widehat{K}_{a}K_{a}\varphi)\rightarrow K_{a}\varphi$ Name unknown to authors: $\forall x,y,$ if $xRy$, then $\forall z$, if $xRz$, then $x = z$ or $yRz$. |
 
-Table 1. Epistemic Principles and their frame conditions.
+*Table 1.* Epistemic Principles and their frame conditions.
 
 Adding epistemic principles as axioms to the basic minimal normal modal logic **K** yields new, normal modal logics. A selection is:
-
-*Table 2.*
 
 | **K** | $\{\text{K}\}$ |
 | --- | --- |
@@ -312,7 +308,7 @@ Adding epistemic principles as axioms to the basic minimal normal modal logic **
 | **S4.4** | $\{\text{K},\text{T},\text{4},\text{.4}\}$ |
 | **S5** | $\{\text{K},\text{T},\text{5}\}$ |
 
-Table 2. Logic names and axioms
+*Table 2.* Logic names and axioms
 
 Different axiomatic specifications may produce the same logic. Notice, e.g., that the table’s axiomatic specification $\{\text{K},\text{T},\text{5}\}$ of **S5** does not match that given in the definition preceding Theorem 1, $\{\text{K},\text{T},\text{B},\text{4}\}$. Note also, there is more than one axiomatization of **S5**: the axioms $\{\text{K},\text{T},\text{5}\}$, $\{\text{K},\text{T},\text{B},\text{4}\}$, $\{\text{K},\text{D},\text{B},\text{4}\}$ and $\{\text{K},\text{D},\text{B},\text{5}\}$ all give the **S5** logic (e.g., Chellas 1980)[^chellas-1980]. An often seen variant is $\{\text{K},\text{T},\text{4},\text{5}\}$. However, it is redundant to add it as all its instances can be proven from K, T and 5. But as both 4 and 5 capture important epistemic principles (see Section 2.6), 4 is often sometimes included for the sake of philosophical transparency. For more equivalences between modal logics, see, e.g., the entry on modal logic or Chellas (1980) or Blackburn, de Rijke, and Venema (2001).
 

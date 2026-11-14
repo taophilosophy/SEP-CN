@@ -70,8 +70,6 @@ Interval-based models usually presuppose linear time. But they are richer than i
 
 In an influential early work on interval-based temporal ontology and reasoning in AI, Allen (1983) considered the family of all binary relations that can arise between two intervals in a linear order, subsequently called *Allen relations*. These 13 relations, displayed in Table 1, are mutually exclusive and jointly exhaustive, i.e., exactly one of them holds between any given pair of strict intervals (excluding point-intervals). Moreover, they turn out to be definable in terms of only two of them, viz. in terms of ‘meets’ and ‘met-by’ (Allen 1983)[^allen-1983].
 
-*Table 1:*
-
 | Interval relations | Allen’s notation | $\textsf{HS}$ notation |
 | --- | --- | --- |
 | ┣━━┫ | *equals* $\{=\}$ |   |
@@ -82,7 +80,7 @@ In an influential early work on interval-based temporal ontology and reasoning i
 | ├╊╉┤ | *contains* $\{di\}$ / *during* $\{d\}$ | $\langle D\rangle\:/\:\langle\overline{D}\rangle$ *During* |
 | ┣╉─┤ | *started-by* $\{si\}$ / *starts* $\{s\}$ | $\langle B\rangle\:/\:\langle\overline{B}\rangle$ *Begins* |
 
-Table 1: Allen relations between time intervals and the corresponding Halpern-Shoham modal operators (see Section 6).
+*Table 1:* Allen relations between time intervals and the corresponding Halpern-Shoham modal operators (see Section 6).
 
 More abstract questions can also be posed: assume, for example, that we are provided with a structure defined by a set of interval relations (of arbitrary arity) that are required to fulfill certain conditions. Can this structure be represented by a concrete interval-based model over linear time? Answers are provided by various representation theorems, see e.g. van Benthem (1983); Ladkin (1987); and Venema (1990).
 

@@ -27,11 +27,9 @@ Epiphenomenalism is absurd; it is just plain obvious that our pains, our thought
 
 This argument is surely the briefest of those against epiphenomenalism, but it may have been more persuasive than any other. Epiphenomenalists, however, can make the following reply. First, it can never be obvious what causes what. Animated cartoons are full of causal illusions. Falling barometers are regularly followed by storms, but do not cause them. More generally, a regularity is causal only if it is not explained as a consequence of underlying regularities. It is part of epiphenomenalist theory, however, that the regularities that we observe to hold between mental events and actions can be explained by underlying regularities. Schematically, suppose physical event $P_1$ causes both mental event $M$ and physical successor $P_2$, as in Figure 1.
 
-*Figure 1.*
-
 $$\begin{array}{ccccccc} M & & & & & & \\ \uparrow & & & & & & \\ P_1 & \rightarrow & P_2 & \rightarrow & P_3 & \rightarrow & \cdots \end{array}$$
 
-Figure 1.
+*Figure 1.*
 
 Suppose there is no other cause of $M$, and no other cause of $P_2$. Then every $M$ will be followed by $P_2$, yet the cause of $P_2$ will be adequately found in $P_1$. It is true that, under the assumptions stated, the counterfactual, “If $M$ had not occurred, then $P_2$ would not have occurred” holds; but then, so may “if the barometer had not fallen, the storm would not have occurred.” The moral to be drawn is that causation may imply that certain counterfactuals hold, but the holding of counterfactuals is not enough to show causation. Thus, it is true that some of our actions would not have occurred, under normal conditions, unless we had had certain mental events. But this fact cannot show that those actions are caused by our mental events (rather than being caused by the physical causes of those mental events).
 
@@ -63,11 +61,9 @@ The argument that is given to support the destructive claims is that (i) knowled
 
 The argument that epiphenomenalism is self-stultifying in the way just described rests on the premise that knowledge of a mental event requires causation by that mental event. But epiphenomenalists may reject that premise without absurdity. One way of seeing how to do this involves considering the interactionist diagram in Figure 2, which shows $P_1$ as directly causing $M$ but not $P_2$, and $M$ directly causing $P_2$. (Directly causing is an intransitive relation. Causation (when used without modifier) is transitive: events are causally related if there is a chain of direct causes, however long, that connects them.)
 
-*Figure 2.*
-
 $$\begin{array}{ccccccc} M & & & & & & \\ \uparrow & \searrow & & & & & \\ P_1 & & P_2 & \rightarrow & P_3 & \rightarrow & \cdots \end{array}$$
 
-Figure 2.
+*Figure 2.*
 
 Now consider $P_3$, which is directly caused by $P_2$ and which we will assume to cause (directly or indirectly) further behavior such as $S$’s utterance of “I am in terrible pain”. $P_3$ is not directly caused by $M$. Does it convey knowledge of $M$? If we answer negatively, on the ground that $P_3$ is not directly caused by $M$, we will be rejecting interactionism for virtually the same reason that epiphenomenalism is thought to be unacceptable. Since this is an extremely implausible stance, let us take it that $P_3$ does convey knowledge of $M$. But what property does $P_3$ actually have that makes it a case of conveying knowledge of $M$? Epiphenomenalists will wish to point out that $P_3$ does not have any property that contains information as to how it was caused. Looking backward from $P_3$, so to speak, one cannot tell whether it was indirectly caused by $M$ (as in the interactionistic Figure 2) or indirectly caused by $M$’s cause (as in the epiphenomenalistic Figure 1). There is, however, a property that $P_3$ does have that is intuitively strongly connected to its conveying knowledge of $M$ — namely, that it would not be occurring unless $M$ had recently occurred. But $P_3$ has this property on epiphenomenalist and interactionist views alike. Thus, if not occurring unless $M$ has recently occurred is the property that is responsible for $P_3$’s conveying knowledge of $M$, epiphenomenalists have as much right as anyone to claim that $P_3$ conveys knowledge of $M$, and they are not debarred from knowing what they claim to know.
 

@@ -13,11 +13,9 @@ In this entry, we examine what phylogenetic inference is and how it works. In th
 
 A phylogeny is a reconstruction of evolutionary history. Thus the discovery of evolution is a good starting point for the history of phylogenetics. While Darwin was not the first to propose that some species were genealogically related to others, it was *On The Origin of Species* (Darwin 1859)[^darwin-1859] that convinced many biologists to accept common ancestry and to start building phylogenies. One of the immediate—and ongoing—impacts was the question this raised in how phylogenies (i.e., reconstructions of evolutionary history) relate to taxonomies (i.e., how we group taxa).
 
-*Figure 1*
-
 ![a phylogenetic tree: link to extended description below](../assets/phylogenetic-inference/Amemiya-2013-Fig1.jpg)[^amemiya-2013]
 
-Figure 1 Phylogenetic (or evolutionary) trees have become commonplace in biology research articles. This tree displays a recent hypothesis on the relative placement of lungfish and coelacanth in the evolutionary history of tetrapods (Amemiya et al. 2013: 312, fig. 1)[^amemiya-2013]. [An extended description of figure 6 is in the supplement.]
+*Figure 1* Phylogenetic (or evolutionary) trees have become commonplace in biology research articles. This tree displays a recent hypothesis on the relative placement of lungfish and coelacanth in the evolutionary history of tetrapods (Amemiya et al. 2013: 312, fig. 1)[^amemiya-2013]. [An extended description of figure 6 is in the supplement.]
 
 Pre-Darwinian taxonomy focused on classifying according to the “natural system” where taxa were united into large groups due to their “natural affinities” (Winsor 1976)[^winsor-1976]. In an effort to clarify the concept of affinity, Richard Owen used the term “homologue” to refer to “the same organ in different animals under every variety of form and function” (Owen 1843)[^owen-1843]. Put into an evolutionary framework, the natural affinities uniting these groups were regarded as the result of descent with modification from common ancestors and “homology” has since become a central term in comparative biology (Donoghue 1992; Hall 1994)[^donoghue-1992][^hall-1994]. To see how homology relates to phylogenetic inference, as well as to introduce some basic terminology, it will be useful to consider an example phylogeny (Figure 1).
 

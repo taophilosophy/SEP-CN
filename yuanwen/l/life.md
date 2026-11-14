@@ -55,8 +55,6 @@ The 20th century saw the mechanist/vitalist divide dissipate. But without a vita
 
 There are many books, articles, and workshops on the nature of life (Pályi et al. 2002, Popa 2004, Bedau & Cleland 2010)[^bedau-2010][^pályi-2002][^popa-2004].
 
-*Table 1.*
-
 |   | *Popa 2004* | *Trifonov 2011* | *Malaterre & Chartier 2019* |
 | --- | --- | --- | --- |
 | Matter & Energy |   |   |   |
@@ -84,7 +82,7 @@ There are many books, articles, and workshops on the nature of life (Pályi et a
 |   | *Vitalist*: definitions that take life to be an as-yet mysterious force, organization of matter, or other phenomenon |   |   |
 |   | *Parametric:* definitions that identify one or more relevant features of life |   |   |
 
-Table 1. Some recent attempts at meta-categories for life definitions. Each column is one account’s categories, the rows are lined up according to rough similarity.
+*Table 1.* Some recent attempts at meta-categories for life definitions. Each column is one account’s categories, the rows are lined up according to rough similarity.
 
 There are perhaps thousands of competing definitions proposed across hundreds of articles. A true survey of that variety would be beyond the scope of this article and beyond your patience as a reader. Nevertheless, some broad categories have been proposed that might offer some insight into current contending definitions. Table 1 summarizes three of the most rigorous attempts this century to categorize definitions of life.
 

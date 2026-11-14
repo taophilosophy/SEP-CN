@@ -14,11 +14,9 @@ $$ m^* = [(E_1 + E_2)^2 - (\bp_1 + \bp_2)^2]^{\bfrac{1}{2}}, $$
 
 where E and $\bp$ are the energy and vector momenta of the pions, respectively. If both particles were indeed pions from $\ce{K2^0}$ decay, $m^*$ would equal the $\ce{K2^0}$ mass. The experimenters also computed the vector sum of the two momenta and the angle between this sum and the direction of the $\ce{K2^0}$ beam. This angle should be zero for two-body decays, but not, in general, for three-body decays.
 
-*Figure 3.*
-
 ![figure 3](../assets/physics-experiment/figure3.gif)
 
-Figure 3. Angular distributions in three mass ranges for events with $\cos(\theta) \gt 0.9995$. From Christenson et al. (1964).
+*Figure 3.* Angular distributions in three mass ranges for events with $\cos(\theta) \gt 0.9995$. From Christenson et al. (1964).
 
 This was exactly what the Princeton group observed (Christenson et al. 1964). As seen clearly in Figure 3, there is a peak at the $\ce{K^0}$ mass, 498 MeV/c², for events with $\cos(\theta)$ greater than 0.9999 ($\cos(\theta)$ approximately equal to 1 means $\theta$ is approximately equal to 0). No such peak is seen in the mass regions just above or just below the $\ce{K^0}$ mass. The experimenters reported a total of $45\pm 9$ two-pion $\ce{K2^0}$ decays out of a total of 22,700 $\ce{K2^0}$ decays. This was a branching ratio of $(1.95\pm 0.2) \times 10^{-3}$, or approximately 0.2 percent.
 

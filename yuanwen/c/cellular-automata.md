@@ -19,11 +19,9 @@ Section 3 describes four main uses of CA in philosophical investigation. Firstly
 
 We introduce CA using a simple example. Think of an automaton as a one-dimensional grid of simple elements (the cells). Each of them can only instantiate one of two states; let us say that each cell can be turned *on* or *off*. The evolution of the system is determined by a transition rule, to be thought of as implemented in each cell. At each time step, each cell updates its status in response to what happens to its neighboring cells, following the rule.
 
-*Fig. 1*
-
 ![Fig. 1](../assets/cellular-automata/fig1.jpg)
 
-Fig. 1
+*Fig. 1*
 
 Although CA are abstract, having a concrete instance in mind can help in the beginning. So think of Fig. 1 as representing the front row of a high school classroom. Each box stands for a student wearing (black) or not wearing (white) a hat. Let us make the two following assumptions:
 
@@ -31,19 +29,15 @@ Although CA are abstract, having a concrete instance in mind can help in the beg
 >
 > *Initial class*: during the first class in the morning, only one student in the middle shows up with a hat (see Fig. 2).
 
-*Fig. 2*
-
 ![Fig. 2](../assets/cellular-automata/fig2.jpg)
 
-Fig. 2
+*Fig. 2*
 
 Fig. 3 shows what happens as time goes by. Consecutive rows represent the evolution in time through subsequent classes.
 
-*Fig. 3*
-
 ![Fig. 3](../assets/cellular-automata/fig3.jpg)
 
-Fig. 3
+*Fig. 3*
 
 Fig. 3 may be surprising. The evolutionary pattern displayed contrasts with the simplicity of the underlying law (the “Hat rule”) and ontology (for in terms of object and properties, we only need to take into account simple cells and two states). The global, emergent behavior of the system supervenes upon its local, simple features, at least in the following sense: the scale at which the decision to wear the hat is made (immediate neighbors) is not the scale at which the interesting patterns become manifest.
 
@@ -117,11 +111,9 @@ $$\tag{Rule1D} \sigma_i (t + 1) = \phi(\sigma_{i - r} (t), \sigma_{i - r + 1} (t
 
 Where $\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}$ is the state of cell number *i* at time step *t*; *r* specifies the *range*, that is, how many cells on any side count as neighbors for a given cell; and $\phi$ is defined explicitly by assigning values in $\Sigma$ to each of the $k^{2r+1} (2r + 1)$-tuples representing all the possible neighborhood configurations. For example, with $r = 1, \Sigma = \{1, 0\}$, a possible transition rule $\phi$ can be expressed as in Fig. 4 (with 1 being represented as *black*, 0 as *white*):
 
-*Fig. 4*
-
 ![Fig. 4](../assets/cellular-automata/fig4.jpg)
 
-Fig. 4
+*Fig. 4*
 
 For a given cell, each triple at the top represents a possible neighborhood configuration at *t*, the cell at issue being the one in the middle: for each configuration, the square at the bottom specifies the cell’s state at $t + 1$. This is our classroom example: you will have a black cell just in case precisely one of the neighbors was black.
 
@@ -131,9 +123,7 @@ This simple representation is also at the core of the widely adopted Wolfram cod
 
 ### 2.3 The Classes of the 256 Rules
 
-*Class₁*
-
-Class₁ rules leading to homogeneous states, all cells stably ending up with the same value:
+*Class₁* rules leading to homogeneous states, all cells stably ending up with the same value:
 
 *Rule 250*
 
@@ -143,7 +133,7 @@ Class₁ rules leading to homogeneous states, all cells stably ending up with th
 
 ![Rule 254](../assets/cellular-automata/rule254.jpg)
 
-Class₂ rules leading to stable structures or simple periodic patterns:
+*Class₂* rules leading to stable structures or simple periodic patterns:
 
 *Rule 4*
 
@@ -153,7 +143,7 @@ Class₂ rules leading to stable structures or simple periodic patterns:
 
 ![Rule 108](../assets/cellular-automata/rule108.jpg)
 
-Class₃ rules leading to seemingly chaotic, non-periodic behavior:
+*Class₃* rules leading to seemingly chaotic, non-periodic behavior:
 
 *Rule 30*
 
@@ -163,7 +153,7 @@ Class₃ rules leading to seemingly chaotic, non-periodic behavior:
 
 ![Rule 90](../assets/cellular-automata/rule90.jpg)
 
-Class₄ rules leading to complex patterns and structures propagating locally in the lattice:
+*Class₄* rules leading to complex patterns and structures propagating locally in the lattice:
 
 *Rule 54*
 
@@ -393,19 +383,15 @@ $t_n$
 
 The task is far from trivial in a CA, involving the intricacy of the emergence in both E2 and E3 sense. The answer requires a global perspective (how many cells are white (black) in the lattice as a whole?). However, the cells work with only local rules explicitly encoded in them: no single cell can do the counting. The ideal automaton should find a way to aggregate information from several parts of its own lattice to give the final answer. A kind of emergent computation is needed to successfully solve this density classification task. It has been proved that no CA can solve this problem precisely (see Land & Belew 1995)[^land-1995]. Since, however, CA with larger neighborhoods achieve better results in tasks of this kind, *genetic algorithms* are used to efficiently search the solution space (genetic algorithms are computational analogues of genetic evolution, in which a computational problem is addressed by producing, combining and selecting solutions to it; the details of the procedure as applied to the classification problem are not important for our purpose, but, for an accessible presentation, see Mitchell 2009: 22; for a general introduction see Mitchell 1998). The following is a diagram of the “Rule $\phi_{17083}$”, discovered by James Crutchfield and Melanie Mitchell (1995). The CA implementing the rule starts from an initial state with more white cells:
 
-*Fig. 5*
-
 ![Fig. 5](../assets/cellular-automata/fig5.jpg)
 
-Fig. 5
+*Fig. 5*
 
 At time step 250 (not shown in Fig. 5), the grey areas disappear and all cells end up white, i.e., the classification made by the automaton is correct. A high-level description of what is going on would have it that the white, black and grey regions are “expanding”, “contracting”, “moving”, these being nonlinear effects of the low-level working of the cells computing their local states, and by so doing manage to carry signals along the lattice. But how are we to explain the emergent computation CA of this kind perform via such nonlinear dynamics? Building on previous works on computation theory applied to CA (Hanson & Crutchfield 1992; Crutchfield & Hanson 1993)[^crutchfield-1993][^hanson-1992], Mitchell and Crutchfield filtered out from the original diagram what they call “domains”, i.e., dynamically homogeneous spatial regions (Crutchfield & Mitchell 1995: 10745)[^crutchfield-1995]:
 
-*Fig. 6*
-
 ![Fig. 6](../assets/cellular-automata/fig6.jpg)
 
-Fig. 6
+*Fig. 6*
 
 Although in this case the “domains” are manifest, it is crucial to point out that their definition is rigorously mathematical. The whole process of domain-detection can be carried out algorithmically (see Hanson & Crutchfield 1992 for details)[^hanson-1992]. When the boundary of a domain remains spatially localized over time, then the domain becomes a “particle”:
 
@@ -563,11 +549,9 @@ The picture of nature as a CA is supported by an epistemological *desideratum*, 
 
 Ilachinski proposes a different “argument from epistemology” (Ilachinski 2001: 661–2)[^ilachinski-2001]. Let us consider again the space-time diagram of *Rule 110*:
 
-*Fig. 7*
-
 ![Fig. 7](../assets/cellular-automata/fig7.jpg)
 
-Fig. 7
+*Fig. 7*
 
 Let us imagine we ignore its being generated by the iteration of a simple local rule, or even that it is an automaton. Then, says Ilachinski:
 
@@ -627,11 +611,9 @@ The second disagreement concerning the laws of nature may instead be a thorny is
 
 On the other hand, one may tentatively interpret, in Lewisian fashion, the laws of a CA as the generalizations contained within the deductive system that best describes the CA behavior. Let us consider one last time our micro-universe from *Rule 110*:
 
-*Fig. 7*
-
 ![Fig. 7](../assets/cellular-automata/fig7.jpg)
 
-Fig. 7
+*Fig. 7*
 
 A suitable deductive system for this space-time diagram may be obtained with just two axioms, one stating the initial conditions of the system, the other phrased as a conditional expressing the CA transition rule. If this conditional is a true generalization embedded in the deductive system that best describes our toy universe, then *Rule 110* can count as a Lewisian law of nature in this universe, as expected.
 

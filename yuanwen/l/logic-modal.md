@@ -147,11 +147,9 @@ A list of some of the more commonly discussed conditions on frames and their cor
 
 The following diagram shows the relationships between the best known modal logics, namely logics that can be formed by adding a selection of the axioms $(D), (M)$, (4), $(B)$ and (5) to $\bK$. A list of these (and other) axioms along with their corresponding frame conditions can be found below the diagram.
 
-*Diagram of Modal Logics*
-
 ![missing text, please inform](../assets/logic-modal/ModalLogic1.gif)
 
-Diagram of Modal Logics
+*Diagram of Modal Logics*
 
 In this chart, systems are given by the list of their axioms. So, for example $\mathbf{M4B}$ is the result of adding $(M)$, (4) and $(B)$ to $\bK$. In boldface, we have indicated traditional names of some systems. When system $\mathbf{S}$ appears below and/or to the left of $\mathbf{S}'$ connected by a line, then $\mathbf{S}'$ is an extension of $\mathbf{S}$. This means that every argument provable in $\mathbf{S}$ is provable in $\mathbf{S}'$, but $\mathbf{S}$ is weaker than $\mathbf{S}'$, i.e. not all arguments provable in $\mathbf{S}'$ are provable in $\mathbf{S}$.
 

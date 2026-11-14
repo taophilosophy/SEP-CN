@@ -19,19 +19,15 @@ One might take such unusual results as evidence against the possibility of super
 
 Supertasks often lack a final or initial step. A famous example is the first of Zeno’s Paradoxes, the Paradox of the Dichotomy. The runner Achilles begins at the starting line of a track and runs ½ of the distance to the finish line. He then runs half of the remaining distance, or ¼ of the total. He then runs half the remaining distance again, or ⅛ of the total. And he continues in this way ad infinitum, getting ever-closer to the finish line (Figure 1.1.1). But there is no final step in this task.
 
-*Fig 1.1.1.*
-
 ![The Zeno Dichotomy supertask](../assets/spacetime-supertasks/fig111.gif)
 
-Fig 1.1.1. The Zeno Dichotomy supertask.
+*Fig 1.1.1.* The Zeno Dichotomy supertask.
 
 There is also a “regressive” version of the Dichotomy supertask that has no initial step. Suppose that Achilles does reach the finish line. Then he would have had to travel the last ½ of the track, and before that ¼ of the track, and before that ⅛ of the track, and so on. In this description of the Achilles race, we imagine winding time backwards and viewing Achilles getting ever-closer to the starting line (Figure 1.1.2). But now there is no initial step in the task.
 
-*Fig 1.1.2.*
-
 ![Regressive version of the Zeno Dichotomy supertask](../assets/spacetime-supertasks/fig112.gif)
 
-Fig 1.1.2. Regressive version of the Zeno Dichotomy supertask.
+*Fig 1.1.2.* Regressive version of the Zeno Dichotomy supertask.
 
 Zeno, at least as portrayed in Aristotle’s *Physics*, argued that as a consequence, motion does not exist. Since an infinite number of steps cannot be completed, Achilles will never reach the finish line (or never have started in the regressive version). However, modern mathematics provides ways of explaining how Achilles can complete this supertask. As Salmon (1998) has pointed out, much of the mystery of Zeno’s walk is dissolved given the modern definition of a limit. This provides a precise sense in which the following sum converges:
 
@@ -49,11 +45,9 @@ Supertasks are often described by sequences that do not converge. J. F. Thomson 
 
 Suppose we switch off a lamp. After 1 minute we switch it on. After ½ a minute more we switch it off again, ¼ on, ⅛ off, and so on. Summing each of these times gives rise to an infinite geometric series that converges to 2 minutes, after which time the entire supertask has been completed. But when 2 minutes is up, is the lamp on or off?
 
-*Fig 1.2.1.*
-
 ![Thomson's lamp](../assets/spacetime-supertasks/fig121.gif)
 
-Fig 1.2.1. Thomson’s lamp.
+*Fig 1.2.1.* Thomson’s lamp.
 
 It may seem absurd to claim that it is on: for each moment that the lamp was turned on, there is a later moment at which it was turned off. But it would seem equally absurd to claim that it is off: for each moment that the lamp is turned off, there is a later moment that it was turned on. This paradox, according to Thomson, suggests that the supertask associated with the lamp is impossible.
 
@@ -75,21 +69,17 @@ Suppose a metal ball bounces on a conductive plate, bouncing a little lower each
 
 Now suppose that the ball completes a circuit when it strikes the metal plate, thereby switching on a lamp. This is a physical system that implements Thomson’s lamp. In particular, the lamp is switched on and off infinitely many times over the course of a finite duration of 2 minutes.
 
-*Fig 1.2.2.*
-
 ![Thomson's lamp implemented as a physical circuit](../assets/spacetime-supertasks/fig122.gif)
 
-Fig 1.2.2. Thomson’s lamp implemented by a bouncing ball: contact of the bouncing ball with the plate switches the Thomson lamp on. The supertask ends with the lamp on.
+*Fig 1.2.2.* Thomson’s lamp implemented by a bouncing ball: contact of the bouncing ball with the plate switches the Thomson lamp on. The supertask ends with the lamp on.
 
 What is the state of this lamp after 2 minutes? The ball will have come to rest on the plate, and so the lamp will be on. There is no mystery in this description of Thomson’s lamp.
 
 Alternatively, we could arrange the ball so as to break the circuit when it makes contact with the plate. This gives rise to another implementation of Thomson’s lamp, but one that is off after 2 minutes when the ball comes to its final resting state.
 
-*Fig 1.2.3.*
-
 ![Thomson's lamp implemented as a physical circuit](../assets/spacetime-supertasks/fig123.gif)
 
-Fig 1.2.3. Another implementation of Thomson’s lamp: contact of the bouncing ball with the plate switches the Thomson lamp off. The supertask ends with the lamp off.
+*Fig 1.2.3.* Another implementation of Thomson’s lamp: contact of the bouncing ball with the plate switches the Thomson lamp off. The supertask ends with the lamp off.
 
 These examples show that is possible to fill in the details of Thomson’s lamp in a way that either renders it definitely on after the supertask, or definitely off. For this reason, Earman and Norton conclude with Benacerraf that the Thomson lamp is not a matter of paradox but of an incomplete description.
 
@@ -101,11 +91,9 @@ Sometimes supertasks require a physical quantity to be discontinuous in time. On
 
 Suppose we have a jar—a very large jar—with the capacity to hold infinitely many balls. We also have a countably infinite pile of balls, numbered 1, 2, 3, 4, …. First we drop balls 1–10 into the jar, then remove ball 1. (This adds a total of nine balls to the jar.) Then we drop balls 11–20 in the jar, and remove ball 2. (This brings the total up to eighteen.) Suppose that we continue in this way ad infinitum, and that we do so with ever-increasing speed, so that we will have used up our entire infinite pile of balls in finite time (Figure 1.3.1). How many balls will be in the jar when this supertask is over?
 
-*Fig 1.3.1.*
-
 ![The Littlewood-Ross Paradox](../assets/spacetime-supertasks/fig131.gif)
 
-Fig 1.3.1. The Littlewood-Ross procedure.
+*Fig 1.3.1.* The Littlewood-Ross procedure.
 
 Both Littlewood (1953) and Ross (1976) responded that the answer is zero. Their reasoning went as follows.
 
@@ -145,31 +133,25 @@ Earman and Norton’s (1996) bouncing ball provides one indication that the answ
 
 Suppose an infinite lattice of particles of the same mass are arranged so that there is a distance of ½ between the first and the second, a distance of ¼ between the second and the third, a distance of ⅛ between the third and the fourth, and so on. Now imagine that a new particle of the same mass collides with the first particle in the lattice, as in Figure 1.4.1. If it is a perfectly elastic collision, then the incoming particle will come to rest and the velocity will be transferred to the struck particle. Suppose it takes ½ of a second for the second collision to occur. Then it will take ¼ of a second for the third to occur, ⅛ of a second for the fourth, and so on. The entire infinite process will thus be completed after 1 second.
 
-*Fig 1.4.1.*
-
 ![Jon Pérez Laraudogoita's 'Beautiful Supertask'](../assets/spacetime-supertasks/fig141.gif)
 
-Fig 1.4.1. Jon Pérez Laraudogoita’s ‘Beautiful Supertask’
+*Fig 1.4.1.* Jon Pérez Laraudogoita’s ‘Beautiful Supertask’
 
 Earman and Norton (1998) observed several curious facts about this system. First, unlike Thomson’s lamp, this supertask does not require unbounded speeds. The total velocity of the system is never any more than the velocity of the original moving particle. Second, this supertask takes place in a bounded region of space. So, there are no boundary conditions “at infinity” that can rule out the supertask. Third, although energy is conserved in each local collision, the global energy of this system is not conserved, since after finite time it becomes a lattice of infinitely many particles all at rest. Finally, the supertask depends crucially on there being an infinite number of particles, and the width of these particles must shrink without bound while keeping the mass fixed. This means the mass density of the particles must grow without bound. The failure of global energy conservation and other curious features of this system have been studied by Atkinson (2007, 2008), Atkinson and Johnson (2009, 2010) and by Peijnenburg and Atkinson (2008) and Atkinson and Peijnenburg (2014).
 
 Another kind of classical mechanical supertask was described by Pérez Laraudogoita (1997). Consider again the infinite lattice of particles of the same mass, but this time suppose that the first particle is motionless, that the second particle is headed towards the first with some velocity, and that the velocity of each successive particle doubles (Figure 1.4.2). The first collision sets the first particle in motion. But a later collision then sets it moving faster, and a later collision even faster, and so on.
 
-*Fig 1.4.2.*
-
 ![A supertask that relies on unbounded speed](../assets/spacetime-supertasks/fig142.gif)
 
-Fig 1.4.2. A supertask that relies on unbounded speed.
+*Fig 1.4.2.* A supertask that relies on unbounded speed.
 
 It is not hard to arrange this situation so that the first collision happens after ½ of a second, the second collision after ¼ of a second, the third after ⅛ of a second, and so on (Pérez Laraudogoita 1997)[^pérez-1997]. So again we have a supertask that is completed after one second.
 
 What is the result of this supertask? Their answer is that none of the particles remain in space. They cannot be anywhere in space, since for each horizontal position that a given particle can occupy there is a time before 1 second that it is pushed out of that position by a collision. The worldline of any one of the particles from this supertask can be illustrated using Figure 1.4.3. This is what Malament (2008, 2009) has referred to as a “space evader” trajectory. The time-reversed “space invader” trajectory is one in which the vacuum is spontaneously populated with particles after some fixed time.
 
-*Fig 1.4.3.*
-
 ![Worldline of the supertask particle](../assets/spacetime-supertasks/fig143.gif)
 
-Fig 1.4.3. Worldline of the supertask particle.
+*Fig 1.4.3.* Worldline of the supertask particle.
 
 Earman and Norton (1998) gave some variations on this supertask, including one which occurs in a bounded region in space. Unlike the example of Pérez Laraudogoita (1996), this supertask also essentially requires particles to be accelerated to arbitrarily high speeds, and in this sense is essentially non-relativistic. See Pérez Laraudogoita (1999) for a rejoinder.
 
@@ -183,11 +165,9 @@ Example 1: Norton’s Lattice
 
 Norton (1999) investigated whether there exists a direct quantum mechanical analogue of the kinds of supertasks discussed above. He began by considering the classical scenario shown in Figure 1.5.1 of an infinite lattice of interacting harmonic oscillators. Assuming the springs all have the same tension and solving the equation of motion for this system, Norton found that it can spontaneously excite, producing an infinite succession of oscillations in the lattice in a finite amount of time.
 
-*Fig 1.5.1.*
-
 ![Norton's harmonic oscillator supertask](../assets/spacetime-supertasks/fig151.gif)
 
-Fig 1.5.1. Norton’s infinite harmonic oscillator system.
+*Fig 1.5.1.* Norton’s infinite harmonic oscillator system.
 
 Using this example as a model, Norton produced a similar supertask for a quantum lattice of harmonic oscillators. Begin with an infinite lattice of 2-dimensional quantum systems, each with a ground state $\ket{\phi}$ and an excited state $\ket{\chi}$. Consider the collection of vectors,
 
@@ -209,11 +189,9 @@ Restricting to a finite number of fermions at a time has the effect of splitting
 
 Suppose we wish to measure a single fermion. We model this as a wavefunction that zips by the locations of each fermion in our measurement device, interacting locally with the individual fermions in the device as it goes (Figure 1.5.2). The interaction is set up in such a way that every fermion is passed in finite time, and such that after the process is completed, the measurement device indicates what the original state of the fermion being measured was. In particular, suppose the single fermion begins in a $z$-spin-up state. Then, after it has zipped by each of the infinite fermions, they will all be found in the $z$-spin-up state. If the single fermion begins in a $z$-spin-down state, then the infinite collection of fermions would all be $z$-spin-down. What if the single fermion was in a superposition? Then the infinite collection of fermions would contain some mixture of $z$-spin up and $z$-spin down states.
 
-*Fig 1.5.2.*
-
 ![Bell's implementation of the Hepp measurement supertask](../assets/spacetime-supertasks/fig152.gif)
 
-Fig 1.5.2. Bell’s implementation of the Hepp measurement supertask.
+*Fig 1.5.2.* Bell’s implementation of the Hepp measurement supertask.
 
 Hepp found that, because of the superselection structure of this system, this measurement device admits mixed states that can indicate the original state of the single fermion, even when the latter begins in a pure superposition. Suppose we denote the $z$-spin observable for the nth fermion in the measurement device as, $s_n = I \otimes I \otimes \cdots (n\,times) \cdots \otimes \sigma_z \otimes I \cdots.$ We now construct a new observable, given by,
 
@@ -245,21 +223,17 @@ A model of general relativity, a *spacetime,* is a pair $(M,g)$. It represents a
 
 Manifolds are great for representing events. But the metric $g$ dictates how these events are related. Is it possible for a person to travel from this event to that one? If so, how much elapsed time does a person record between them? The metric $g$ tells us. At each event, $g$ assigns a double cone structure. The cone structures can change from event to event; we only require that they do so smoothly. Usually, one works with models of general relativity in which one can label the two lobes of each double cone as “past” and “future” in a way which involves no discontinuities. We will do so in what follows. (See figure 2.1.1.)
 
-*Fig 2.1.1.*
-
 ![Events in spacetime and the associated double cones](../assets/spacetime-supertasks/fig211.gif)
 
-Fig 2.1.1. Events in spacetime and the associated double cones.
+*Fig 2.1.1.* Events in spacetime and the associated double cones.
 
 Intuitively, the double cone structure at an event demarcates the speed of light. Trajectories through spacetime which thread the inside of the future lobes of these “light cones” are possible routes in which travel stays below the speed of light. Such a trajectory is a *worldline* and, in principle, can be traversed by a person. Now, some events cannot be connected by a worldline. But if two events *can* be connected by a worldline, there is an infinite number of worldlines which connect them.
 
 Each worldline has a “length” as measured by the metric $g$; this length is the elapsed time along the worldline. Take two events on a manifold $M$ which can be connected by a worldline. The elapsed time between the events might be large along one worldline and small along another. Intuitively, if a worldline is such that it stays close to the boundaries of the cone structures (i.e. if the trajectory stays “close to the speed of light”), then the elapsed time is relatively small. (See Figure 2.1.2.) In fact, it turns out that if two events can be connected by a worldline, then for any number $t>0$, there is a worldline connecting the events with an elapsed time less than $t$!
 
-*Fig 2.1.2.*
-
 ![Elapsed time is worldline dependent](../assets/spacetime-supertasks/fig212.gif)
 
-Fig 2.1.2. Elapsed time is worldline dependent.
+*Fig 2.1.2.* Elapsed time is worldline dependent.
 
 ### 2.2 Malament-Hogarth Spacetimes
 
@@ -267,11 +241,9 @@ The fact that, in relativistic physics, elapsed time is relative to worldlines s
 
 Let’s work a bit more to make the idea precise. We say that a *half-curve* is a worldline which starts at some event and is extended as far as possible in the future direction. Next, the *observational past* of an event *q*, *OP*(*q*), is the collection of all events *x* such that there a is a worldline which starts at *x* and ends at *q*. Intuitively, a (slower than light) signal may be sent from an event *x* to an event *q* if and only if *x* is in the set *OP*(*q*). (See figure 2.2.1.)
 
-*Fig 2.2.1.*
-
 ![The observational past of an event and a half-curve](../assets/spacetime-supertasks/fig221.gif)
 
-Fig 2.2.1. The observational past of an event and a half-curve. A signal can be sent to $q$ from every point in $OP(q)$. No signal can be sent to $q$ from any point on the half-curve $\gamma$.
+*Fig 2.2.1.* The observational past of an event and a half-curve. A signal can be sent to $q$ from every point in $OP(q)$. No signal can be sent to $q$ from any point on the half-curve $\gamma$.
 
 We are now ready to define the class of models of general relativity which allow for the type of bifurcated supertask mentioned above (Hogarth 1992, 1994)[^hogarth-1992][^hogarth-1994].
 
@@ -281,11 +253,9 @@ One can see how the definition corresponds to the story above. Bob travels along
 
 Is there a spacetime which satisfies the definition? Yes. Let $M$ be the two-dimensional plane in standard $t,x$ coordinates. Let the metric $g$ be such that the light cones are oriented in the $t$ direction and open up as the absolute value of $x$ approaches infinity. The resulting spacetime (Anti-de Sitter spacetime) is Malament-Hogarth (see Figure 2.2.2).
 
-*Fig 2.2.2.*
-
 ![Anti-de Sitter Spacetime is Malament-Hogarth](../assets/spacetime-supertasks/fig222.gif)
 
-Fig 2.2.2. Anti-de Sitter Spacetime is Malament-Hogarth. A signal can be sent to $q$ from every point on the half-curve $\gamma$.
+*Fig 2.2.2.* Anti-de Sitter Spacetime is Malament-Hogarth. A signal can be sent to $q$ from every point on the half-curve $\gamma$.
 
 ### 2.3 How Reasonable Are Malament-Hogarth Spacetimes?
 
@@ -295,11 +265,9 @@ Another problem for the Anti-de Sitter spacetime is that a “divergent blueshif
 
 One can find Malament-Hogarth spacetimes which can escape both of the problems mentioned above (Manchak 2010; Andréka et al. 2018)[^andréka-2018][^manchak-2010]. For example, let $M$ be a two-dimensional plane in standard $t, x$ coordinates which is then “rolled up” along the $t$ axis. Let the metric $g$ be such that the light cones are oriented in the $t$ direction and do not change from point to point. (See Figure 2.3.1.)
 
-*Fig 2.3.1.*
-
 ![An acausal Malament-Hogarth spacetime](../assets/spacetime-supertasks/fig231.gif)
 
-Fig 2.3.1. An acausal Malament-Hogarth spacetime.
+*Fig 2.3.1.* An acausal Malament-Hogarth spacetime.
 
 Because worldliness can wrap around and around the cylinder, $OP(q)=M$ for any event $q$. This allows for great freedom in choosing Bob’s worldline $\gamma$. In fact, we can choose it so that the total acceleration is zero – no fuel is needed to traverse it. Moreover, we can choose it so that there is also no divergent blueshift phenomenon (see Earman and Norton 1993)[^earman-1993]. But, alas, we have a new problem: the spacetime is acausal. A worldline can start and end at the same event allowing for a type of “time travel”. It is unclear if spacetimes allowing for time travel are physically reasonable (see Smeenk and Wüthrich 2011)[^smeenk-2011]. It turns out that more complicated examples can be constructed which avoid all the potential problems mentioned so far and more (Manchak 2010)[^manchak-2010]. But such examples contain spacetime “holes” which may not be physically reasonable (Manchak 2009; Doboszewski 2019)[^doboszewski-2019][^manchak-2009]. More work is needed to see if such problems can also be overcome.
 

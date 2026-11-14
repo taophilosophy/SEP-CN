@@ -25,31 +25,25 @@ Here are the two basic building blocks of modern, relativistic cosmology: a mani
 
 So far, all we have defined is a set of events. To be a four-dimensional manifold, the set of events must be a little bit more organized. In a real spacetime, we have the idea that each event sits in some local neighborhood of events; and this neighborhood sits inside a larger neighborhood of events; and so on. That extra organization comes from the requirement that we can label the events with four numbers—or at least we can do this for any sufficiently small chunk of the manifold. These labels form coordinate systems. The fact that four numbers are just sufficient to label the events makes the manifold four-dimensional. We can now pick out neighborhoods of some event as the set of all points whose spacetime coordinates differ from our starting event by at most one unit; or two units; or three units; etc.. That gives us the nested neighborhoods of events. Figure 1 illustrates how a set of events may be made into a two dimensional manifold by assigning “$x$” and “$y$” coordinates to the events.
 
-*Figure 1.*
-
 ![Figure shows a small, upended bag containing events, represented as dots, being emptied into a pile, labeled ‘a set of events’. An arrow labeled ‘Label smoothly with numbers’ points to the site of the dots redistributed over a two-dimensional grid. It has horizontal and vertical straight lines, representing lines of constant Cartesian coordinates. The lines are labeled ‘x=0’, ‘x=1’, ‘x=2’, ‘x=3’ and ‘x=4’; and ‘y=0’, ‘y=1’, ‘y=2’, ‘y=3’ and ‘y=4’. The grid is labeled ‘A manifold of events’.](../assets/spacetime-holearg/1.svg)
 
-Figure 1. Forming a manifold of events
+*Figure 1.* Forming a manifold of events
 
 **Metrical Structure and Matter Fields**. In specifying that events form a four dimensional manifold, there is still a lot we have *not* said about the events. We have not specified which events lie in the future and past of which other events, how much time elapses between these events, which events are simultaneous with others so that they can form three dimensional spaces, what spatial distances separates these events, and many more related properties.
 
 These additional properties are introduced by specifying the metric field. To see how this field provides that information, imagine a curve connecting a given pairs of events in spacetime. The information about times elapsed and spatial distances is given by the times elapsed and distances along such curves. See Figure 2:
 
-*Figure 2.*
-
 ![A rectangle is labeled ‘a manifold of events’. The events are shown as dots. An up arrow labeled ‘time’ indicate that time is represented as advancing in the up-vertical direction and a two-headed horizontal arrow labeled ‘space’ indicates that space is spread across horizontally. A constant time surface, seen side on as a parallelogram, has two points representing events connected by a line. The surface is labeled ‘Events at the same time form a surface in the manifold that is a snapshot of space at one instant’. and ‘Metric measures distance along curves in space that connect events at the same time’. A vertical line connects two events, represented as dots, labeled ‘earlier’ and ‘later’. The line is labeled ‘Metric measures time elapsed along worldliness between earlier and later events’.](../assets/spacetime-holearg/2.svg)
 
-Figure 2. The function of the metric field.
+*Figure 2.* The function of the metric field.
 
 That information could be supplied by a huge catalog that specifies the spatial or temporal distance between pairs of events along curves connecting them. Such a huge catalog would be massively redundant, however. If we know the distance from $A$ to $B$ and from $B$ to $C$ along some curve, then we know the distance from $A$ to $C$ along that curve as well. The minimum information we need is the temporal and spatial distance between each event and all those (loosely speaking) infinitesimally close to it. That information is what the metric field provides. It is a “field” since that information belongs just to one event. We can then piece together temporal and spatial distance along any curve just by summing all the distances between successive infinitesimally close points along the curve.
 
 The matter of the universe is represented by matter fields. The simplest form of matter—the big lumps that make galaxies—can be represented by worldlines that trace out the history of each galaxy through time. In standard models, the galaxies recede from one another and this is represented by a spreading apart of the galactic worldlines as we proceed to later times. See Figure 3:
 
-*Figure 3.*
-
 ![In a rectangle, an up arrow labeled ‘time’ indicate that time is represented as advancing in the up-vertical direction and a two-headed horizontal arrow labeled ‘space’ indicates that space is spread across horizontally. An instant of space is seen side on as a parallelogram. Tiny sketches of five galaxies are laid out across the parallelogram. Five nearly vertical lines are drawn through the galaxies such that they spread apart as they proceed up the figure. They are labeled ‘Worldlines of galaxies’.](../assets/spacetime-holearg/3.svg)
 
-Figure 3. Galaxies in an expanding universe.
+*Figure 3.* Galaxies in an expanding universe.
 
 ## 2. The Freedom of General Covariance
 
@@ -59,19 +53,15 @@ In its original form, general covariance was understood “passively”; that is
 
 In what follows, we’ll focus on active general covariance, which is indeed a property possessed by general relativity (as well as other local spacetime theories). The essential manipulation of the hole argument involves exercising this freedom. Figure 4 illustrates one way that we might spread the metrical structure and matter fields over the manifold of spacetime events:
 
-*Figure 4.*
-
 ![In a rectangular sheet with overturned top edge, the expanding system of galaxies of Figure 3 is shown with two spatial surfaces connected by vertical lines. It is labeled ‘Metric and matter fields’. Arrows indicate that the sheet is to be superimposed on a second rectangle, labeled ‘manifold’, in which some events are represented as dots. A duplicate of the rectangular sheet is shown superimposed on the manifold.](../assets/spacetime-holearg/4.svg)
 
-Figure 4. One way to spread metric and matter over the manifold.
+*Figure 4.* One way to spread metric and matter over the manifold.
 
 Figure 5 illustrates a second way:
 
-*Figure 5.*
-
 ![The figure is a duplication of the previous Figure 4 with one change. In the center of the sheet superimposed on the manifold is a dotted ellipse, labeled ‘THE HOLE’. Inside the ellipse the spatial surface and vertical lines are displaced slightly up and to the right, while still connecting smoothly to the other parts of the unaltered figure at the edge of the ellipse.](../assets/spacetime-holearg/5.svg)
 
-Figure 5. Another way to spread metric and matter over the manifold.
+*Figure 5.* Another way to spread metric and matter over the manifold.
 
 We shall call the transformation between the two spreadings a “hole transformation.” The dotted region is The Hole. The first distribution of metric and matter fields is transformed into the second in a way that
 
@@ -121,11 +111,9 @@ In their celebrated debate over space and time, Leibniz taunted the substantival
 
 Correspondingly, when we spread the metric and matter fields differently over a manifold of events, we are now assigning metrical and material properties in different ways to the events of the manifold. For example, imagine that a galaxy passes through some event E in the hole. After the hole transformation, this galaxy might not pass through that event. For the manifold substantivalist, this must be a matter of objective physical fact: either the galaxy passes through E or not. The two distributions represent two physically distinct possibilities.
 
-*Figure 6.*
-
 ![The figure shows two copies of the rectangular sheet of Figure 4 with the ellipse labeled ‘THE HOLE’ shown on both. In the first, a dot on the central vertical line within the ellipse is labeled ‘E’. In the second copy, the distortions of Figure 5 within the ellipse are shown. The dot labeled E is in its original position, so that the vertical line no longer passes through it.](../assets/spacetime-holearg/6.svg)
 
-Figure 6. Does the galaxy pass through event $E$?
+*Figure 6.* Does the galaxy pass through event $E$?
 
 That is, manifold substantivalists must (it seems) deny an equivalence inspired by Leibniz’ taunt which is thus named after him:[^note-5]
 

@@ -41,29 +41,23 @@ Hume (1740, pp. 520–521) takes up this question, using an example: Two neighbo
 
 The structure of Hume’s *Farmers’ Dilemma* problem can be summarized using the following tree diagram:
 
-*Figure 1.1a*
-
 ![missing text, please inform](../assets/common-knowledge/figure1.1a.gif)
 
-Figure 1.1a
+*Figure 1.1a*
 
 This tree is an example of a *game in extensive form.* At each stage $i$, the agent who moves can either choose $C^i$, which corresponds to helping or *cooperating*, or $D^i$, which corresponds to not helping or *defecting*. The relative preferences of the two agents over the various outcomes are reflected by the ordered pairs of *payoffs* each receives at any particular outcome. If, for instance, Fiona chooses $C^i$ and Alan chooses $D^i$, then Fiona’s payoff is 0, her worst payoff, and Alan’s is 4, his best payoff. In a game such as the Figure 1.1.a game, agents are *(Bayesian) rational* if each chooses an act that maximizes her expected payoff, given what she knows.
 
 In the Farmers’ Dilemma game, following the $C^1,C^2$-path is strictly better for both farmers than following the $D^1,D^2$-path. However, Fiona chooses $D^1$, as the result of the following simple argument: “If I were to choose $C^1$, then Alan, who is rational and who knows the payoff structure of the game, would choose $D^2$. I am also rational and know the payoff structure of the game. So I should choose $D^1$.” Since Fiona knows that Alan is rational and knows the game’s payoffs, she concludes that she need only analyze the *reduced* game in the following figure:
 
-*Figure 1.1b*
-
 ![missing text, please inform](../assets/common-knowledge/figure1.1b.gif)
 
-Figure 1.1b
+*Figure 1.1b*
 
 In this reduced game, Fiona is certain to gain a strictly higher payoff by choosing $D^1$ than if she chooses $C^1$, so $D^1$ is her unique best choice. Of course, when Fiona chooses $D^1$, Alan, being rational, responds by choosing $D^2$. If Fiona and Alan know: (i) that they are both rational, (ii) that they both know the payoff structure of the game, and (iii) that they both know (i) and (ii), then they both can predict what the other will do at every node of the Figure 1.1.a game, and conclude that they can rule out the $D^1,C^2$-branch of the Figure 1.1.b game and analyze just the reduced game of the following figure:
 
-*Figure 1.1c*
-
 ![missing text, please inform](../assets/common-knowledge/figure1.1c.gif)
 
-Figure 1.1c
+*Figure 1.1c*
 
 On account of this *mutual knowledge*, both know that Fiona will choose $D^1$, and that Alan will respond with $D^2$. Hence, the $D^1,D^2$-outcome results if the Farmers’ Dilemma game is played by agents having this mutual knowledge, though it is suboptimal since both agents would fare better at the $C^1,C^2$-branch.[^note-5] This argument, which in its essentials is Hume’s argument, is an example of a standard technique for solving sequential games known as *backwards induction.*[^note-6] The basic idea behind backwards induction is that the agents engaged in a sequential game deduce how each will act throughout the entire game by ruling out the acts that are not payoff-maximizing for the agents who would move last, then ruling out the acts that are not payoff-maximizing for the agents who would move next-to-last, and so on. Clearly, backwards induction arguments rely crucially upon what, if any, mutual knowledge the agents have regarding their situation, and they typically require the agents to evaluate the truth values of certain subjunctive conditionals, such as “If I (Fiona) were to choose $C^1$, then Alan would choose $D^2$”.
 
@@ -71,11 +65,9 @@ On account of this *mutual knowledge*, both know that Fiona will choose $D^1$, a
 
 The mutual knowledge assumptions required to construct a backwards induction solution to a game become more complex as the number of stages in the game increases. To see this, consider the sequential *Centipede* game depicted in the following figure:
 
-*Figure 1.2*
-
 ![missing text, please inform](../assets/common-knowledge/figure1.2.gif)
 
-Figure 1.2
+*Figure 1.2*
 
 At each stage i\), the agent who moves can either choose $R^i$, which in the first three stages gives the other agent an opportunity to move, or $L^i$, which ends the game.
 
@@ -89,8 +81,6 @@ The method of backwards induction can be applied to any sequential game of *perf
 
 Schelling’s department store problem is an example of a *pure coordination problem*, that is, an interaction problem in which the interests of the agents coincide perfectly. Schelling (1960) and Lewis (1969), who were the first to make explicit the role common knowledge plays in social coordination, were also among the first to argue that coordination problems can be modeled using the analytic vocabulary of game theory. A very simple example of such a coordination problem is given in the next figure:
 
-*Figure 1.3*
-
 |   |   | Robert |   |   |   |
 | --- | --- | --- | --- | --- | --- |
 |   |   | $s_1$ | $s_2$ | $s_3$ | $s_4$ |
@@ -101,7 +91,7 @@ Schelling’s department store problem is an example of a *pure coordination pro
 
 $s_i =$ search on floor $i$, $1 \leq i \leq 4$
 
-Figure 1.3
+*Figure 1.3*
 
 The matrix of Figure 1.3 is an example of a *game in strategic form.* At each outcome of the game, which corresponds to a cell in the matrix, the row (column) agent receives as payoff the first (second) element of the ordered pair in the corresponding cell. However, in strategic form games, each agent chooses without first being able to observe the choices of any other agent, so that all must choose as if they were choosing simultaneously. The Figure 1.3 game is a game of *pure coordination* (Lewis 1969)[^lewis-1969][^lewis-1969-2], that is, a game in which at each outcome, each agent receives exactly the same payoff. One interpretation of this game is that Schelling’s spouses, Liz and Robert, are searching for each other in the department store with four floors, and they find each other if they go to the same floor. Four outcomes at which the spouses coordinate correspond to the strategy profiles $(s_j, s_j), 1 \le j \le 4$, of the Figure 1.3 game. These four profiles are strict *Nash equilibria* (Nash 1950, 1951)[^nash-1950][^nash-1951] of the game, that is, each agent has a decisive reason to follow her end of one of these strategy profiles provided that the other also follows this profile.[^note-7]
 
@@ -159,11 +149,9 @@ To illustrate the idea of possibility sets, let us return to the Barbecue Proble
 
 Each diner knows the condition of the other diners’ faces, but not her own. Suppose the cook makes no announcement, after all. Then none of the diners knows the true state of the world whatever $\omega \in \Omega$ the actual world turns out to be, but they do know *a priori* that certain propositions are true at various states of the world. For instance, Cathy’s information system before any announcement is made is depicted in Figure 2.1a:
 
-*Figure 2.1a*
-
 ![missing text, please inform](../assets/common-knowledge/figure2.1a.gif)
 
-Figure 2.1a
+*Figure 2.1a*
 
 In this case, Cathy’s information system is a partition $\mathcal{H}_1$ of $\Omega$ defined by
 
@@ -177,11 +165,9 @@ Cathy knows immediately which cell $\mathcal{H}_1 (\omega)$ in her partition is 
 
 If we add in the assumption stated in Example 1.2 that if there is at least one messy diner, then the cook announces the fact, then Cathy’s information partition is depicted by Figure 2.1b:
 
-*Figure 2.1b*
-
 ![missing text, please inform](../assets/common-knowledge/figure2.1b.gif)
 
-Figure 2.1b
+*Figure 2.1b*
 
 In this case, Cathy’s information system is a partition $\mathcal{H}_1$ of $\Omega$ defined by
 
@@ -195,11 +181,9 @@ In this case, Cathy’s information partition is a *refinement* of the partition
 
 Similarly, if the cook makes an announcement only if he sees at least two messy diners, Cathy’s possibility set is the one represented in fig. 2.1c:
 
-*Figure 2.1c*
-
 ![missing text, please inform](../assets/common-knowledge/figure2.1c.gif)
 
-Figure 2.1c
+*Figure 2.1c*
 
 Cathy’s information partition is now defined by
 
@@ -305,11 +289,9 @@ such that for each $k \in \{0,1, \ldots ,m-1\}$, there exists an agent $i_k \in 
 
 In words, $\omega '$ is reachable from $\omega$ if there exists a sequence or “chain” of states from $\omega$ to $\omega '$ such that two consecutive states are in the same cell of some agent’s information partition. To illustrate the idea of reachability, let us return to the modified Barbecue Problem in which Cathy, Jennifer and Mark receive no announcement. Their information partitions are all depicted in Figure 2.1d:
 
-*Figure 2.1d*
-
 ![missing text, please inform](../assets/common-knowledge/figure2.1d.gif)
 
-Figure 2.1d
+*Figure 2.1d*
 
 One can understand the importance of the notion of reachability in the following way: If $\omega '$ is reachable from $\omega$, then if $\omega$ obtains then some agent can reason that some other agent thinks that $\omega '$ is possible. Looking at Figure 2.1d, if $\omega = \omega_1$ occurs, then Cathy (who knows only that $\{\omega_1, \omega_2\}$ has occurred) knows that Jennifer thinks that $\omega_5$ might have occurred (even though Cathy knows that $\omega_5$ did not occur). So Cathy cannot rule out the possibility that Jennifer thinks that Mark thinks that that $\omega_8$ might have occurred. And Cathy cannot rule out the possibility that Jennifer thinks that Mark thinks that Cathy believes that $\omega_7$ is possible. In this sense, $\omega_7$ is reachable from $\omega_1$. The chain of states which establishes this is $\omega_1, \omega_2, \omega_5, \omega_8, \omega_7$, since $\mathcal{H}_1 (\omega_1) = \mathcal{H}_1 (\omega_2),$ $\mathcal{H}_2 (\omega_2) = \mathcal{H}_2 (\omega_5),$ $\mathcal{H}_3 (\omega_5) = \mathcal{H}_3 (\omega_8),$ and $\mathcal{H}_1 (\omega_8) = \mathcal{H}_1 (\omega_7)$. Note that one can show similarly that in this example any state is reachable from any other state. This example also illustrates the following immediate result:
 
@@ -402,7 +384,7 @@ for all $m \in \mathbb{N}$ and for any $i_1', \ldots ,i_m', \mathbf{K}_{i_1'}\ma
 
 Consequently, $\mathbf{K}^{m}_{N'}(A)$ for any $m \in \mathbb{N}.$
 
-Gilbert argues that, given $\mathcal{S}'_{N'}(A)$, the smooth-reasoner counterparts of the agents of $N$ actually satisfy a much stronger condition, namely mutual knowledge $\mathbf{K}^{\alpha}_{N'}(A)$ to the level of any ordinal number $\alpha$, finite or infinite. When this stronger condition is satisfied, the proposition $A$ is said to be *open* to the agents of* $N$. With the concept of open*-ness, Gilbert gives her definition of common knowledge.
+Gilbert argues that, given $\mathcal{S}'_{N'}(A)$, the smooth-reasoner counterparts of the agents of $N$ actually satisfy a much stronger condition, namely mutual knowledge $\mathbf{K}^{\alpha}_{N'}(A)$ to the level of any ordinal number $\alpha$, finite or infinite. When this stronger condition is satisfied, the proposition $A$ is said to be *open\* to the agents of* $N$. With the concept of open*-ness, Gilbert gives her definition of common knowledge.
 
 **Definition 2.22** A proposition $E \subseteq \Omega$ is *Gilbert-common knowledge* among the agents of a set $N = \{1, \ldots,n\},$ if and only if,
 
@@ -498,15 +480,13 @@ $\mu_k(\cdot \mid A)$ denotes $k$’s conditional probability distribution given
 
 Suppose first that the agents have common knowledge of the full payoff structure of the game they are engaged in and that they are all rational, and that no other information is common knowledge. In other words, each agent knows that her opponents are expected utility maximizers, but does not in general know exactly which strategies they will choose or what their probabilities for her acts are. These common knowledge assumptions are the motivational basis for the solution concept for noncooperative games known as *rationalizability*, introduced independently by Bernheim (1984) and Pearce (1984). Roughly speaking, a *rationalizable strategy* is any strategy an agent may choose without violating common knowledge of Bayesian rationality. Bernheim and Pearce argue that when only the structure of the game and the agents’ Bayesian rationality are common knowledge, the game should be considered “solved” if every agent plays a rationalizable strategy. For instance, in the “Chicken” game with payoff structure defined by Figure 3.1,
 
-*Figure 3.1*
-
 |   |   | Joanna |   |
 | --- | --- | --- | --- |
 |   |   | $s_1$ | $s_2$ |
 | Lizzi | $s_1$ | (3,3) | (2,4) |
 | $s_2$ | (4,2) | (0,0) |   |
 
-Figure 3.1
+*Figure 3.1*
 
 if Joanna and Lizzi have common knowledge of all of the payoffs at every strategy combination, and they have common knowledge that both are Bayesian rational, then any of the four pure strategy profiles is rationalizable. For if their beliefs about each other are defined by the probabilities
 
@@ -598,15 +578,13 @@ $$\tag{\(\star\)} f(\omega) = \begin{cases} (s_1, s_1) \text{ if } \omega_k = \o
 
 $f$ is a *correlated* strategy system because the agents tie their strategies, by following their recommendations, to the same set of states of the world $\Omega$. $f$ is also a strict *Aumann correlated equilibrium*, for if each agent knows how Ron makes his recommendations, but knows only the recommendation he gives her, either would do strictly worse were she to deviate from her recommendation.[^note-26] Since there are several strict equilibria of Chicken, $f$ corresponds to a convention as defined in Vanderschraaf (1998). The overall expected payoff vector of $f$ is (3,3), which lies outside the convex hull of the payoffs for the game’s Nash equilibria and which Pareto-dominates the expected payoff vector (4/3, 4/3), of the mixed Nash equilibrium defined by $\alpha_1 = 2/3$, $i = 1, 2.$[^note-27] The correlated equilibrium f is characterized by the probability distribution of the agents’ play over the strategy profiles, given in Figure 3.3:
 
-*Figure 3.3*
-
 |   |   | Joanna |   |
 | --- | --- | --- | --- |
 |   |   | $s_1$ | $s_2$ |
 | Lizzi | $s_1$ | ⅓ | ⅓ |
 | $s_2$ | ⅓ | 0 |   |
 
-Figure 3.3
+*Figure 3.3*
 
 Aumann (1987) proves a result relating his correlated equilibrium concept to common knowledge. To review this result, we must give the formal definition of Aumann correlated equilibrium.
 
@@ -638,11 +616,9 @@ Propositions 3.7 and 3.11 are powerful results. They say that common knowledge o
 
 In extensive form games, the agents move in sequence. At each stage, the agent who is to move must base her decisions upon what she knows about the preceding moves. This part of the agent’s knowledge is characterized by an *information set*, which is the set of alternative moves that an agent knows her predecessor might have chosen. For instance, consider the extensive form game of Figure 3.4:
 
-*Figure 3.4*
-
 ![missing text, please inform](../assets/common-knowledge/figure3.4.gif)
 
-Figure 3.4
+*Figure 3.4*
 
 When Joanna moves she is at her information set $I^{22} = \{C^1, D^1\},$ that is, she moves knowing that Lizzi might have chosen either $C^1$ or $D^1$, so this game is an extensive form representation of the Chicken game of Figure 3.1.
 
@@ -674,19 +650,15 @@ We present Chwe’s model following (Chwe 1999)[^chwe-1999] and (Chwe 2000)[^chw
 
 Players’ knowledge is represented as usual in a possible worlds framework. Consider for example the case in which there are two agents, both with one of thresholds 1, 2 or 3. There are nine possible worlds represented by ordered pairs of numbers, representing the first and second player’s individual thresholds respectively: 11, 12, 13,…, 32, 33. If the players do not communicate, each knows her own threshold only. Player 1’s information partition reflects her ignorance about player’s 2 threshold and it consists of the sets $\{11, 12, 13\},$ $\{21, 22, 23\},$ $\{31, 32, 33\};$ whereas, similarly, player 2’s partition consists of the sets $\{11, 21, 31\},$ $\{12, 22, 32\},$ $\{13, 23, 33\}.$ If player 1’s threshold is 1, she revolts no matter what player 2’s threshold is. Hence, player 1 revolts in $\{11, 12, 13\}$. If player 1’s threshold is 3, she never revolts. Hence, she plays $s$ in $\{31, 32, 33\}$. If her threshold is 2, she revolts only if the other player revolts as well. Since in this example we are assuming that there is no communication between the agents, player 1 cannot be sure of player’s 2 action, and chooses the non-risky $s$ in $\{21, 22, 23\}$ as well. Similarly, player 2 plays $r$ in $\{11, 21, 31\}$ and $s$ otherwise. Consider now the case in which $1 \rightarrow 2$ and $2 \rightarrow 1$. Both players have now the finest information partitions. Thresholds of 1 and 3 yield $r$ and $s$, respectively, for both players again. However, in player 1’s cells $\{21\}$ and $\{22\}$, she knows that player 2 will revolt, and, having threshold 2, she revolts as well. Similarly for player 2 in his cells $\{12\}$ and $\{22\}$. Note, that the case in which both players have threshold 2, yields both the equilibrium in which both players revolt and the equilibrium in which each player stays home. It is assumed that in the case of multiple equilibria, the one which results in the most revolt will obtain.
 
-*Figure 3.5*
-
 ![missing text, please inform](../assets/common-knowledge/figure3.5.gif)
 
-Figure 3.5
+*Figure 3.5*
 
 The analysis of the example above applies to general networks with $n$ agents. Consider for example the three person network $1 \rightarrow 2, 2 \rightarrow 1, 2 \rightarrow 3$, represented in figure 3.5a (notice that symmetric links are represented by a line without arrowheads) and assume that each player has threshold 2. The network between players 1 and 2 is the same as the one above, hence if they have threshold 2, they both revolt regardless of the threshold of player 3. Player 3, on the other hand, knows her own threshold and player 2’s. Hence, if they all have threshold 2, she cannot distinguish between the possibilities in the set $\{122, 222, 322, 422\}$. At 422, in particular, neither player 1 nor player 2 revolt, hence player 3 cannot take the risk and does not revolt, *even if*, in fact, she has a neighbor who revolts. Adding the link $1 \rightarrow 3$ to the network (cf. figure 3.5b) we provide player 3 with knowledge about player 1’s action, hence in this case, if they all have threshold 2, they all revolt. Notice that if we break the link between players 1 and 2 (so that the network is $1 \rightarrow 3$ and $2 \rightarrow 3)$, player 3 knows that 1 and 2 cannot communicate and hence do not revolt at 222, therefore she chooses $s$ as well. Knowledge of what other players know about other players is crucial.
 
-*Figure 3.6*
-
 ![missing text, please inform](../assets/common-knowledge/figure3.6.gif)
 
-Figure 3.6
+*Figure 3.6*
 
 The next example reveals that in some cases not even first-order knowledge is sufficient to trigger action, and higher levels of knowledge are necessary. Consider four players, each with threshold 3, in the two different networks represented in figure 3.6 (‘square’, in figure 3.6a, and ‘kite’, in figure 3.6b.) In the *square* network, player 1 knows that both 2 and 4 have threshold 3. However, she does not know about player 3’s threshold. If player 3 has threshold 5, then player 2 will never revolt, since he does not know about player 4’s threshold and it is then possible for him that player 4 has threshold 5 as well. Player 1’s uncertainty about player 3 together with player 1’s knowledge of player 2’s uncertainty about player 4 force her not to revolt, although she has threshold 3 and two neighbors with threshold 3 as well. Similar reasoning applies to all other players, hence in the square no one revolts. Consider now the *kite* network. Player 4 ignores player 1’s and player 2’s thresholds, hence he does not revolt. However, player 1 knows that players 2 and 3 have threshold 3, that they know that they do, and that they know that player 1 knows that they do. This is enough to trigger action $r$ for the three of them, and indeed if players 1, 2 and 3 all revolt in all states in $\{3331, 3332, 3333, 3334, 3335\}$, this is an equilibrium since in all states at least three people revolt each with threshold three.
 
@@ -698,11 +670,9 @@ In *complete* networks (networks in which all players communicate with everyone 
 
 For a game in which all players have sufficiently low thresholds, the complete network is clearly sufficient. Is the complete network necessary to obtain an equilibrium in which all players revolt? It turns out that it is not. A crucial role is played by structures of the same kind as the ‘triangle’ group in the kite network, called *cliques*. In such structures, ‘local’ common knowledge (that is, limited to the players part of the structure) arises naturally. In a complete network (that is, a network in which there is sufficient but not superfluous communication for it to fully revolt) in which cliques cover the entire population, if one clique speaks to another then every member of that clique speaks to every member of the other clique. Moreover, for every two cliques such that one is talking to the other, there exists a ‘chain’ of cliques with a starting element. In other words, every pair of cliques in the relation are part of a chain (of length at least 2) with a starting element (a *leading* clique.) Revolt propagates in the network moving from ‘leading adopters’ to ‘followers’, according to the *social role hierarchy* defined by the cliques and their relation. Consider the following example, in which cliques are represented by circles and numbers represent the thresholds of individual players:
 
-*Figure 3.7*
-
 ![missing text, please inform](../assets/common-knowledge/figure3.7.gif)
 
-Figure 3.7
+*Figure 3.7*
 
 Here the threshold 3 clique is the leading clique, igniting revolt in the threshold 5 follower clique. In turn, the clique of a single threshold 3 element follows. Notice that although she does not need to know that the leading clique actually revolts to be willing to revolt, that information is needed to ensure that the threshold 5 clique does revolt, and hence that it is safe for her to join the revolt. While in each clique information about thresholds and hence willingness to revolt is common knowledge, in a chain of cliques information is ‘linear’; each clique knows about the clique of which it is a follower, but does not know about earlier cliques.
 
@@ -732,7 +702,13 @@ Another weakening of common knowledge to consider is of course $m$ᵗʰ level mu
 
 Lizzi and Joanna are faced with the coordination problem summarized in the following figure:
 
-*Figure 5.1a*
+|   |   | Joanna |   |
+| --- | --- | --- | --- |
+|   |   | $A$ | $B$ |
+| Lizzi | $A$ | (2,2) | (0,−4) |
+| $B$ | (−4,0) | (0,0) |   |
+
+*Figure 5.1a* $\quad\omega_1, \mu(\omega_1)=0.51$
 
 |   |   | Joanna |   |
 | --- | --- | --- | --- |
@@ -740,17 +716,7 @@ Lizzi and Joanna are faced with the coordination problem summarized in the follo
 | Lizzi | $A$ | (2,2) | (0,−4) |
 | $B$ | (−4,0) | (0,0) |   |
 
-Figure 5.1a $\quad\omega_1, \mu(\omega_1)=0.51$
-
-*Figure 5.1b*
-
-|   |   | Joanna |   |
-| --- | --- | --- | --- |
-|   |   | $A$ | $B$ |
-| Lizzi | $A$ | (2,2) | (0,−4) |
-| $B$ | (−4,0) | (0,0) |   |
-
-Figure 5.1b $\quad\omega_2, \mu(\omega_2)=0.49$
+*Figure 5.1b* $\quad\omega_2, \mu(\omega_2)=0.49$
 
 In Figure 5.1, the payoffs are dependent upon a pair of possible worlds. World $\omega_1$ occurs with probability $\mu(\omega_1) = .51,$ while $\omega_2$ occurs with probability $\mu(\omega_2) = .49.$ Hence, they coordinate with complete success by both choosing $A(B)$ only if the state of the world is $\omega_1(\omega_2)$.
 
@@ -898,8 +864,6 @@ Moreover, at $\omega = \omega_1$, Agent 1 knows that $\mathcal{H}_2 (\omega) = \
 
 [^note-23]: To show that the containment can be proper and hence that rationalizability is a nontrivial notion, consider the 2-agent game with payoff structure defined by Figure 3.2a:
 
-*Figure 3.2a*
-
 |   |   | Joanna |   |   |
 | --- | --- | --- | --- | --- |
 |   |   | $s_1$ | $s_2$ | $s_3$ |
@@ -907,11 +871,9 @@ Moreover, at $\omega = \omega_1$, Agent 1 knows that $\mathcal{H}_2 (\omega) = \
 | $s_2$ | (1,1) | (0,5) | (1,1) |   |
 | $s_3$ | (3,4) | (1,3) | (4,3) |   |
 
-Figure 3.2a
+*Figure 3.2a*
 
 In this game, $s_1$ and $s_3$ strictly dominate $s_2$ for Lizzi, so Lizzi cannot play $s_2$ on pain of violating Bayesian rationality. Joanna knows this, so Joanna knows that the only pure strategy profiles which are possible outcomes of the game will be among the six profiles in which Lizzi does not choose $s_2$. In effect, the $3 \times 3$ game is reduced to the $2 \times 3$ game defined by Figure 3.2b:
-
-*Figure 3.2b*
 
 |   |   | Joanna |   |   |
 | --- | --- | --- | --- | --- |
@@ -919,11 +881,9 @@ In this game, $s_1$ and $s_3$ strictly dominate $s_2$ for Lizzi, so Lizzi cannot
 | Lizzi | $s_1$ | (4,3) | (1,2) | (3,4) |
 | $s_3$ | (3,4) | (1,3) | (4,3) |   |
 
-Figure 3.2b
+*Figure 3.2b*
 
 In this reduced game, $s_2$ is strictly dominated for Joanna by $s_1$, and so Joanna will rule out playing $s_2$. Lizzi knows this, and so she rules out strategy combinations in which Joanna plays $s_2$. The rationalizable strategy profiles are the four profiles that remain after deleting all of the strategy combinations in which either Lizzi or Joanna play $s_2$. In effect, common knowledge of Bayesian rationality reduces the $3 \times 3$ game of Figure 3.2a to the $2 \times 2$ game defined by Figure 3.2c:
-
-*Figure 3.2c*
 
 |   |   | Joanna |   |
 | --- | --- | --- | --- |
@@ -931,7 +891,7 @@ In this reduced game, $s_2$ is strictly dominated for Joanna by $s_1$, and so Jo
 | Lizzi | $s_1$ | (4,3) | (3,4) |
 | $s_3$ | (3,4) | (4,3) |   |
 
-Figure 3.2c
+*Figure 3.2c*
 
 since Lizzi and Joanna both know that the only possible outcomes of the game are $(s_1, s_1), (s_1, s_3), (s_3, s_1)$, and $(s_3, s_3)$.
 

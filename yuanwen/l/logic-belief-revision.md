@@ -210,11 +210,9 @@ For any set $A$ of sentences, let $[A]$ denote the set of possible worlds that c
 
 The propositional account provides an intuitively clear picture of some aspects of belief change. It is convenient to use a geometrical surface to represent the set of possible worlds. In *Diagram 1*, every point on the rectangle’s surface represents a possible world. The circle marked $[K]$ represents those possible worlds in which all sentences in $K$ are true, i.e., the set $[K]$ of possible worlds. The area marked $[p]$ represents those possible worlds in which the sentence $p$ is true.
 
-*Diagram 1.*
-
 ![A large rectangle with a circle marked '[K]' in the middle. An elliptical area marked '[p]' comes down from the top of the rectangle and intersects the circle. The intersection is shaded grey.](../assets/logic-belief-revision/diag1.jpg)
 
-Diagram 1. Revision of $K$ by $p$.
+*Diagram 1.* Revision of $K$ by $p$.
 
 In *Diagram 1*, $[K]$ and $[p]$ have a non-empty intersection, which means that $K$ is compatible with $p$. The revision of $K$ by $p$ is therefore not belief-contravening. Its outcome is obtained by giving up those elements of $[K]$ that are incompatible with $p$. In other words, the result of revising $[K]$ by $[p]$ should be equal to $[K]\cap[p]$.
 
@@ -231,11 +229,9 @@ The revised belief state should not differ more from the original belief state $
 
 In this model, the outcome of revising $[K]$ by $[p]$ should be the intersection of $[p]$ with the narrowest sphere around $[K]$ that has a non-empty intersection with $[p]$, as in *Diagram 2*. This construction was invented by Adam Grove (1988), who also proved that such sphere-based revision *corresponds exactly to transitively relational partial meet revision*. It follows that it also corresponds exactly to entrenchment-based revision.
 
-*Diagram 2.*
-
 ![A large rectangle with a circle marked '[K]' in the middle. There are several successively larger dashed circles each containing the [K]-circle and the smaller dashed circles, but none have the same center. An elliptical area marked '[p]' comes down from the top of the rectangle and intersects two of the dashed circles. The intersection with the innermost dashed circle is shaded grey.](../assets/logic-belief-revision/diag2.jpg)
 
-Diagram 2. Sphere-based revision of $K$ by $p$.
+*Diagram 2.* Sphere-based revision of $K$ by $p$.
 
 Possible world models can also be used for contraction. In contraction, a restriction on what worlds are “possible” (compatible with the agent’s beliefs) is removed. Thus, the set of possibilities is enlarged, so that the contraction of $[K]$ by $[p]$ will result in a superset of $[K]$. Furthermore, the new possibilities should be worlds in which $p$ does not hold, i.e., they should be worlds in which $\neg p$ holds. In the limiting case when $[K]$ and $[\neg p]$ have a non-empty intersection, no enlargement of $[K]$ is necessary to make $\neg p$ possible, and the original belief state will therefore be unchanged. In summary, contraction should be performed according to the following rule:
 
@@ -246,19 +242,15 @@ The outcome of contracting $[K]$ by $[p]$ is the union of $[K]$ and a subset of 
 
 Belief-contravening contraction is illustrated in *Diagram 3*. Contraction performed according to this rule can be shown to *correspond exactly to partial meet contraction*. Furthermore, the special case when the whole of $[\neg p]$ is added to $[K]$ *corresponds exactly to full meet contraction*. The other extreme case, when only one element of $[\neg p]$ (a “point” on the surface) is added to $[K]$ *corresponds exactly to maxichoice contraction*. Thus, in maxichoice contraction by $p$ only one possible way in which $p$ can be false $(\neg p$ can be true) is added.
 
-*Diagram 3.*
-
 ![A large rectangle with a grey-shaded circle marked '[K]' in the middle. An elliptical area marked '[not-p]' comes down from the top of the rectangle. It does not intersect the circle but has its own small grey-shaded circle inside the elliptical area.](../assets/logic-belief-revision/diag3.jpg)
 
-Diagram 3. Contraction of $K$ by $p$.
+*Diagram 3.* Contraction of $K$ by $p$.
 
 Grove’s sphere systems can also be used for contraction. In sphere-based contraction by $p$, those elements of $[\neg p]$ are added that belong to the closest sphere around $[K]$ that has a non-empty intersection with $[\neg p]$. The procedure is shown in *Diagram 4*. Sphere-based contraction *corresponds exactly to transitively relational partial meet contraction*.
 
-*Diagram 4.*
-
 ![A large rectangle with a circle marked '[K]' in the middle. There are several successively larger dashed circles each containing the [K]-circle and the smaller dashed circles, but none have the same center. An elliptical area marked '[not-p]' comes down from the top of the rectangle and intersects two of the dashed circles. The intersection with the innermost dashed circle is shaded grey.](../assets/logic-belief-revision/diag4.jpg)
 
-Diagram 4. Sphere-based contraction of $K$ by $p$.
+*Diagram 4.* Sphere-based contraction of $K$ by $p$.
 
 ## 5. Belief bases
 

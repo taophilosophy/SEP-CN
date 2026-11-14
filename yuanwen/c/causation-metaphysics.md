@@ -99,21 +99,17 @@ In cases of preemption, the nearly universally shared judgment is that the “pr
 
 The first of these vignettes is a case of what’s come to be known as *early* preemption, whereas the second is a case of what’s come to be known as *late* preemption. Cases of early preemption have roughly the same structure as the following “neuron diagram”:
 
-*Figure 1:*
-
 ![neuron diagram: link to extended description below, also see following paragraph](../assets/causation-metaphysics/figure1.svg)
 
-Figure 1: Early preemption neuron diagram 1. [An extended description of figure 1 is in the supplement.]
+*Figure 1:* Early preemption neuron diagram 1. [An extended description of figure 1 is in the supplement.]
 
 Here’s how to read this diagram: every circle represents a *neuron*. Associated with each neuron is a certain time—here, the time written beneath that neuron. A neuron can either fire or not fire at its designated time. If the circle is colored grey, this indicates that the neuron fired. If it is colored white, this indicates that the neuron did not fire. So, in the diagram above, *b*, *c*, *d*, and *e* fired, and *a* did not fire. Arrows represent *stimulatory* connections between neurons. If the neuron at the base of an arrow fires, then the neuron at its head will fire so long as that neuron is not inhibited. The circle-headed lines represent *inhibitory* connections between neurons. If the neuron at the base of one of these connections fires, then the neuron at its head will *not* fire. So, in the diagram above, *a* doesn’t fire, even though *b* did, because *c* inhibited *a*.
 
 Here, “*c*” stands both for the neuron *c* and for the event of the neuron *c* firing (or the fact that *c* fired, or whatever), and likewise for the other letters. Then, this neuron diagram has the structure of preemption: *b* is a backup, would-be cause of *e*’s firing. Had *c* not fired, the neuron system would have looked like this:
 
-*Figure 2:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure2.svg)
 
-Figure 2: Early preemption neuron diagram 2. [An extended description of figure 2 is in the supplement.]
+*Figure 2:* Early preemption neuron diagram 2. [An extended description of figure 2 is in the supplement.]
 
 Here, *b* is a cause of *e*. So, in the original neuron system, *b* is a backup, would-be cause of *e*; had *c* not fired, *b* would have been a cause of *e*, but *c* preempts *b* and causes *e* itself.
 
@@ -140,11 +136,9 @@ Some deny that cases of prevention are genuinely causal (see Aronson 1971; Dowe 
 
 Cases of double prevention have roughly the structure of this neuron diagram:
 
-*Figure 3:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure3.svg)
 
-Figure 3: Double prevention neuron diagram. [An extended description of figure 3 is in the supplement.]
+*Figure 3:* Double prevention neuron diagram. [An extended description of figure 3 is in the supplement.]
 
 As Schaffer (2000c, 2012b) argues, many paradigm cases of causation turn out, on closer inspection, to be instances of double prevention. Pam uses a catapult to hurl a rock through the window. It seems clear that Pam’s actions caused the window to shatter. But suppose the catapult works like this: a catch prevents the catapult from launching, and Pam’s releasing the catch prevents it from preventing the launch. Thus, the relationship between Pam’s releasing the catch and the shattering of the window is one of double prevention. Here, it is less comfortable to deny that Pam caused the window to shatter, though not all agree. Aronson denies that there is any causation in a similar case:
 
@@ -161,19 +155,15 @@ By analogy with ordinary preemption, we can call the first case an instance of *
 
 The first case has a structure similar to this neuron system,
 
-*Figure 4:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure4.svg)
 
-Figure 4: Early preemptive prevention neuron diagram. [An extended description of figure 4 is in the supplement.]
+*Figure 4:* Early preemptive prevention neuron diagram. [An extended description of figure 4 is in the supplement.]
 
 Whereas the second case has a structure similar to this neuron system,
 
-*Figure 5:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure5.svg)
 
-Figure 5: Late preemptive prevention neuron diagram. [An extended description of figure 5 is in the supplement.]
+*Figure 5:* Late preemptive prevention neuron diagram. [An extended description of figure 5 is in the supplement.]
 
 There seems to be more of an inclination to attribute causation in cases of early preemptive prevention than in cases of late preemptive prevention. As McDermott (1995) puts it: in case (2), many are initially inclined to deny that Bond prevented the compound’s destruction; but, when they are asked “Of Bond and the missile defense system, which prevented the compound’s destruction?”, it feels very natural to answer with “Bond”. (As Collins 2000 notes, things begin to feel different if we suppose that the anti-missile defense system is less than perfectly reliable.)[^collins-2000]
 
@@ -183,37 +173,29 @@ Cases like these are discussed by Hall (2000) and Sartorio (2005, 2013), among o
 
 Switching cases have roughly the same structure as the following neuron diagram:
 
-*Figure 6:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure6.svg)
 
-Figure 6: Switch neuron diagram 1. [An extended description of figure 6 is in the supplement.]
+*Figure 6:* Switch neuron diagram 1. [An extended description of figure 6 is in the supplement.]
 
 Here, the neuron *s* (the switch) is special. It can either be set to the left or to the right, indicated by the direction the arrow is pointing. Likewise, the connection between *f* and *s* is special. If *f* fires, then *s* will be set to the right. If *f* does not fire, then *s* will be set to the left. On the other hand, the connection between *p* and *s* is normal. If *p* fires, then *s* will fire. If *s* fires while set to the left, then *l* will fire. If *s* fires while set to the right, then *r* will fire. If either *l* or *r* fires, then *e* will fire.
 
 If *f* hadn’t fired, *s* would have fired while set to the left, so *l* would have fired, and *e* would have fired.
 
-*Figure 7:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure7.svg)
 
-Figure 7: Switch neuron diagram 2. [An extended description of figure 7 is in the supplement.]
+*Figure 7:* Switch neuron diagram 2. [An extended description of figure 7 is in the supplement.]
 
 On the other hand, if *p* hadn’t fired, *s* would still have been set to the right, but it would not have fired, so neither *r* nor *e* would have fired:
 
-*Figure 8:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure8.svg)
 
-Figure 8: Switch neuron diagram 3. [An extended description of figure 8 is in the supplement.]
+*Figure 8:* Switch neuron diagram 3. [An extended description of figure 8 is in the supplement.]
 
 Reflection on switches can lead to the conclusion that token causation cannot be merely a matter of the intrinsic nature of the process leading from cause to effect. Consider the following variant: while the right bulb is functional, the left bulb is not. If the power had been turned on while the switch was set to the left, the left bulb would not have turned on, and the room would have remained dark. Given *this* setup, Filipa’s flipping the switch to the right *does* appear to be a cause of the room’s being illuminated. After all, with this setup, had Filipa not flipped the switch, the room would have remained dark. But, if we just look at the intrinsic features of the process leading from Filipa’s flipping the switch to the room’s illumination, there will be no difference. Or consider the following system of neurons:
 
-*Figure 9:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure9.svg)
 
-Figure 9: Switch neuron diagram 4. [An extended description of figure 9 is in the supplement.]
+*Figure 9:* Switch neuron diagram 4. [An extended description of figure 9 is in the supplement.]
 
 Here, *f*’s firing appears to be a cause of *e*’s firing (along with *p*). If *f* hadn’t fired, then the switch *s* would have been set to the left, so *e* would not have fired. So *f*’s firing was needed for *e* to fire. However, there doesn’t seem to be any difference between the process leading from *f*’s firing to *e*’s firing in *this* system of neurons and the process leading from *f*’s firing to *e*’s firing in the *original* system of neurons.
 
@@ -237,8 +219,6 @@ Hart and Honoré (1959 [1985]) suggest that conditions which are *normal*, or *d
 
 Considering just these kinds of cases, it’s not unnatural to see the phenomenon as just more “selection effects”. Perhaps both Byron and Chris caused the plant to die, but for pragmatic reasons we find it more natural to cite the person who broke a promise as a cause. Hall (2007) presents a more challenging argument for the view that normality and defaults should figure in our theory of causation. He asks us to consider the following pair of neuron systems:
 
-*Figure 10:*
-
 ![neuron diagram: link to extended description below](../assets/causation-metaphysics/figure10a.svg)
 
 (a)
@@ -247,7 +227,7 @@ Considering just these kinds of cases, it’s not unnatural to see the phenomeno
 
 (b)
 
-Figure 10: Pair of neuron diagrams. [An extended description of figure 10 is in the supplement.]
+*Figure 10:* Pair of neuron diagrams. [An extended description of figure 10 is in the supplement.]
 
 In figure 10(a), we have the case of *early preemption* from §1.2.1. Here, *c*’s firing is a cause of *e*’s firing. In figure 10(b), we have a case of what Hall calls a “short circuit”. When *c* fires, it both initiates a threat to *e*’s dormancy (by making *a* fire) and neutralizes that very threat (by making *d* fire). Here’s a vignette with a similar structure (see Hall 2004, and Hitchcock 2001a)[^hall-2004][^hitchcock-2001a]: a boulder becomes dislodged and careens down the hill towards Hiker. Seeing the boulder coming, Hiker jumps out of the way, narrowly averting death. In this case, the boulder’s fall both initiates a threat to Hiker’s life and neutralizes that very threat (by alerting them to its presence). Hall contends that the boulder’s becoming dislodged did not cause Hiker to survive; and, in the case of the short circuit, *c*’s firing did not cause *e* to not fire. Intuitively, *c* accomplished nothing *vis-a-vis* *e*. But Hall notes that these two neuron systems are isomorphic to each other. We can make the point with systems of structural equations (see the entry on causal models, and §3.2 below). Start with the case of early preemption, and use binary variables, *A*, *B*, *C*, *D*, and *E* for whether *a*, *b*, *c*, *d*, and *e* fire, respectively. These variables takes on the value 1 if their paired neuron fires, and they take on the value 0 if they do not. Then, we can represent the causal structure of early preemption with this system of equations:
 
@@ -281,11 +261,9 @@ For more on the relationship between token and type causation, particularly with
 
 Consider the following case, adopted from Hesslow (1976): suppose that birth control pills (*B*) prevent pregnancy (*P*). However, they can also have the unintended side-effect of thrombosis (*T*). So we might be inclined to accept the type causal claim “birth control pills cause thrombosis”. But wait: *another* potential cause of thrombosis is pregnancy. And birth control pills inhibit pregnancy. The general structure of the case is as shown below.
 
-*Figure 11:*
-
 ![diagram but not neuron: link to extended description below](../assets/causation-metaphysics/figure11.svg)
 
-Figure 11: Hesslow’s birth control case [An extended description of figure 11 is in the supplement.]
+*Figure 11:* Hesslow’s birth control case [An extended description of figure 11 is in the supplement.]
 
 Birth control pills *directly* promote thrombosis, but at the same time, they prevent pregnancy, which itself promotes thrombosis. By adjusting the probabilities, we can make it so that, overall, taking birth control makes no difference to the probability of thrombosis. Then, we might be inclined to accept the type causal claim “birth control pills have no effect on thrombosis”—after all, your chances of getting thrombosis are exactly the same, whether or not you take birth control. Hitchcock (2001b) argues that cases like this require us to distinguish two different kinds of effects which type causes can have: what he calls a *net effect*, on the one hand, and what he calls *component effect*, on the other. In Hesslow’s case, birth control pills have no *net* effect on thrombosis. This is the sense in which it’s true to say “birth control pills have no effect on thrombosis”. At the same time, birth control pills have a *component*—or *path-specific*—effect on thrombosis. Along the path *B* → *T*, birth control promotes thrombosis. This is the sense in which it’s true to say “birth control pills cause thrombosis”. For further discussion, see Woodward (2003: §2.3) and Weinberger (2019).
 

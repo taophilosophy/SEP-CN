@@ -55,11 +55,9 @@ This seems to suggest that Kant’s interest in the absolutism-relationalism deb
 
 In a famous passage in the first *Critique*, Kant helpfully discusses his notion of representation (A320/B376–77):
 
-*Figure 1.*
-
 ![figure 1](../assets/kant-spacetime/figure1.jpg)
 
-Figure 1.
+*Figure 1.*
 
 Kant regards an intuition as a conscious, objective representation—this is strictly distinct from sensation, which he regards not as a representation of an object, property, event, etc., but merely as a state of the subject. Whereas sensations do not represent anything distinct from the sensing subject (including perhaps the state of the subject’s body), intuitions are objective representations.[^note-2] Recent scholarship emphasizes the importance of his distinction between sensation and intuition (Allais 2015, 145–47, 154, 159–60)[^allais-2015].
 
@@ -111,11 +109,9 @@ In order to understand the two arguments intended to establish the conclusion th
 
 Consider the *extension* of <being>:[^note-13]
 
-*Figure 2.*
-
 ![figure 2](../assets/kant-spacetime/figure2.jpg)
 
-Figure 2.
+*Figure 2.*
 
 The extension of <being> is those concepts on the conceptual tree that fall “under” <being>—those concepts are species of the genus, <being>. Kant speaks of a series of genus-species relations inhering between the members of the class of concepts that serve as a given concept’s extension; whether a concept serves as a genus or a species is relative. The concept <created> is a genus with respect to its species <material> and <immaterial>, but a species with respect to the genus <being>. The *intension* of a concept consists of those concepts that collectively constitute it. Hence the concept <human> has this intension: “rational animate material created being.” The concepts that collectively constitute a given concept are often called “Merkmale” or “Teilbegriffe,” or what might be called its conceptual parts (“Vienna Logic,” Ak 24: 913). To construct the concept <human>, one puts together the concepts <rational>, <animate>, *<*material>, <created>, and <being>. To formulate or to grasp the concept <human*>* just is to grasp these constituents.
 

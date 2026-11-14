@@ -179,11 +179,9 @@ Groenendijk and Mascarenhas argued that this adjustment, besides addressing the 
 
 The gist of the problem can be illustrated with a simple example. Consider a language with three atomic sentences, $p, q$, and $r$, and an information state consisting of three worlds, $w_{pq}, w_{qr}$, and $w_{pr}$, where the subscripts of each world indicate which atomic sentences are true at that world. Note that in this information state none of the atomic sentences is known to hold. Now consider an issue which is resolved just in case at least one of the atomic sentences is established, i.e., just in case we know that the actual world is located within one of the ovals depicted in figure 1.
 
-*Figure 1:*
-
 ![an alternative question with three disjuncts](../assets/questions/figure-1-three-ovals.png)
 
-Figure 1: An issue that cannot be represented in the pair-semantics.
+*Figure 1:* An issue that cannot be represented in the pair-semantics.
 
 The problem with the system of Groenendijk (2009) and Mascarenhas (2009) is manifested by the fact that this issue cannot be represented by means of an indifference relation. An indifference relation over the information state $\{w_{pq},w_{qr},w_{pr}\}$ necessarily contains all reflexive world-pairs, and possibly one, two, or three non-reflexive pairs. In either case, however, the resulting issue does not correspond to the one depicted in Figure 1.
 

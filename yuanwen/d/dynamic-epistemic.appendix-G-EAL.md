@@ -47,8 +47,6 @@ Figure G1 provides an example of equivalent actions. Examining this figure, it i
 
 Sietsma and van Eijck (2012) provide a full proof that these actions are equivalent.
 
-*Figure G1.*
-
 ![](../assets/dynamic-epistemic/figure-emulation-A1.jpg)
 
 $A_1$
@@ -57,7 +55,7 @@ $A_1$
 
 $A_2$
 
-Figure G1. The actions $(A_1,e_1)$ and $(A_2,f_2)$ are equivalent (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).
+*Figure G1.* The actions $(A_1,e_1)$ and $(A_2,f_2)$ are equivalent (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).
 
 It is possible to define a notion of bisimulation for actions, but it turns out that there are equivalent actions that are not bisimilar (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012). This led to the search for a structural relationship between actions that hold if and only if the actions are equivalent. A notion of *parameterized action emulation* was proposed by van Eijck, Ruan, and Sadzik (2012), and a variant called *action emulation* was later proposed by Sietsma and van Eijck (2012). To introduce these, we first need the following preliminary definitions.
 
@@ -158,8 +156,6 @@ The axiomatic theory $\EALS$ of Epistemic Action Logic with substitutions is ide
 
 An example utilizing an action model with substitution is given in Figure G2, where the action $\mathsf{Flip}(q)$ implements our light-switch action: the occurrence of this action toggles the truth value of *q* between “on” (i.e., true) and “off” (i.e., false) in a manner that is common knowledge to all.
 
-*Figure G2.*
-
 ![](../assets/dynamic-epistemic/figure-flip1-crop.jpg)
 
 $\small M$
@@ -176,7 +172,7 @@ $\small M[\mathsf{Flip}(q)]$
 
 $\small M[\mathsf{Flip}(q)][\mathsf{Flip}(q)]$
 
-Figure G2. The pointed action model $(\mathsf{Flip}(q),e)$ toggles the truth value of letter *q* in a way that is common knowledge to all.
+*Figure G2.* The pointed action model $(\mathsf{Flip}(q),e)$ toggles the truth value of letter *q* in a way that is common knowledge to all.
 
 Almost all results about action model logics carry through *mutatis mutandis* upon addition of valuation-changing substitutions. So in the interest of simplicity, we assume in what follows that, unless stated otherwise, our action models do not contain valuation-changing substitutions. It is worth noting that this assumption is often made in the DEL literature and, in light of how simple it is to include valuation-changing substitutions if they are desired, this assumption should not be viewed as a genuine limitation to a given piece of work.
 

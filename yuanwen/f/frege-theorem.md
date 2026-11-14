@@ -392,11 +392,9 @@ $$\begin{align*} &F \approx G \eqdef \\ &\quad \exists R[\forall x(Fx \to \exist
 
 To see that Frege’s definition of equinumerosity works correctly, consider the following two examples. In the first example, we have two concepts, $F$ and $G$, that are equinumerous:
 
-*Figure 1*
-
 ![representation of two equinumerous concepts](../assets/frege-theorem/1-1.png)
 
-Figure 1
+*Figure 1*
 
 Although there are several different relations $R$ which demonstrate the equinumerosity of $F$ and $G$, the particular relation used in Figure 1 is:
 
@@ -406,11 +404,9 @@ It is a simple exercise to show that $R_{1}$, as defined, is a ‘witness’ to 
 
 In Figure 2, we have two concepts that are not equinumerous:
 
-*Figure 2*
-
 ![graphic of non-equinumerous concepts](../assets/frege-theorem/not-1-1.png)
 
-Figure 2
+*Figure 2*
 
 In this example, no relation $R$ can satisfy the definition of equinumerosity.
 
@@ -526,7 +522,7 @@ In other words, $y$ follows $x$ in the $R$-series whenever $y$ falls under every
 
 $R^*(x,y) \eqdef \forall F[(\forall z(Rxz \to Fz) \amp \mathit{Her}(F,R)) \to Fy]$
 
-For example, Clinton’s father stands in the relation *father* of* (i.e., *forefather*) to Chelsea because she falls under every hereditary concept that Clinton and his brother inherited from Clinton’s father. However, Clinton’s brother is not one of Chelsea’s forefathers, since he fails to be her father, her grandfather, or any of the other links in the chain of fathers from which Chelsea descended.
+For example, Clinton’s father stands in the relation *father\* of* (i.e., *forefather*) to Chelsea because she falls under every hereditary concept that Clinton and his brother inherited from Clinton’s father. However, Clinton’s brother is not one of Chelsea’s forefathers, since he fails to be her father, her grandfather, or any of the other links in the chain of fathers from which Chelsea descended.
 
 It is important to grasp the differences between a relation $R$ and its ancestral $R^*$. *Rxy* implies $R^*(x,y)$ (e.g., if Clinton is a father of Chelsea, then Clinton is a forefather of Chelsea), but the converse doesn’t hold (Clinton’s father is a father* of Chelsea, but he is not a father of Chelsea). Indeed, a grasp of the definition of $R^*$ should leave one able to prove the following easy consequences, many of which correspond to theorems in **Begr** and **Gg**:[^note-11]
 
@@ -626,11 +622,9 @@ The fact that no two natural numbers have the same successor is somewhat more di
 
 In other words, this theorem asserts that predecessor is a one-to-one relation on the natural numbers. To prove this theorem, it suffices to prove that predecessor is a one-to-one relation full stop. One can prove that predecessor is one-to-one from Hume’s Principle, with the help of the following Equinumerosity Lemma, the proof of which is rather long and involved. The Equinumerosity Lemma asserts that when $F$ and $G$ are equinumerous, $x$ falls under $F$, and $ y$ falls under $G$, then the concept *object falling under F other than x* is equinumerous to the concept *object falling under G other than $y$*. The picture is something like this:
 
-*Figure 3*
-
 ![graphic illustrating Equinumerosity Lemma](../assets/frege-theorem/equinlem.png)
 
-Figure 3
+*Figure 3*
 
 In terms of Figure 3, the Equinumerosity Lemma tells us that if there is a relation $R$ which is a witness to the equinumerosity of $ F$ and $G$, then there is a relation $R'$ which is a witness to the equinumerosity of the concepts that result when you restrict $ F$ and $G$ to the objects other than $x$ and $y$, respectively.
 

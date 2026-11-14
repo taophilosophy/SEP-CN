@@ -128,11 +128,9 @@ This conviction was necessary for the birth of their innovative computer program
 
 Leonhard Euler, an 18th century mathematician, adopted closed curves to illustrate syllogistic reasoning (Euler 1768)[^euler-1768]. The four kinds of categorical sentences are represented by him as shown in Figure 1.
 
-*Figure 1:*
-
 ![Four cases: the first labeled ‘All A are B’ has an inner circle labeled ‘A’ completely inside an outer circle labeled ‘B’; the second labeled ‘No A is B’ has two non-overlapping circles, one labeled ‘A’ and the other ‘B’; the third labeled ‘Some A is B’ has two overlapping circles, the overlap is labeled ‘A’ and the non-overlap bit of one circle is labeled ‘B’; the fourth case labeled ‘Some A is not B’ has two overlapping circles, the non-overlap bit of one is labeled ‘A’ and the non-overlap bit of the other is labeled ‘B’](../assets/diagrams/fig-1.png)
 
-Figure 1: Euler Diagrams
+*Figure 1:* Euler Diagrams
 
 For the two universal statements, the system adopts spatial relations among circles in an intuitive way: If the circle labelled ‘$A$’ is *included* in the circle labelled ‘$B$,’ then the diagram represents the information that all $A$ is $B$. If there is *no overlapping* part between two circles, then the diagram conveys the information that no $A$ is $B$.
 
@@ -178,21 +176,17 @@ Because of its strictness, Euler’s system sometimes fails in representing cons
 
 Venn’s new system (1881) was to overcome these expressive limitations so that partial information can be represented. The solution was his idea of ‘primary diagrams’. A primary diagram represents all the possible set-theoretic relations between a number of sets, without making any existential commitments about them. For example, Figure 2 shows the primary diagram about sets $A$ and $B$.
 
-*Figure 2:*
-
 ![two overlapping circles, the first labeled ‘A’ and the second labeled ‘B’](../assets/diagrams/fig-2.png)
 
-Figure 2: Venn’s Primary diagrams
+*Figure 2:* Venn’s Primary diagrams
 
 According to Venn’s system, this diagram does not convey any specific information about the relation between these two sets. This is the major difference between Euler and Venn diagrams.
 
 For the representation of universal statements, unlike the visually clear spatial containment relations in the case of Euler diagrams, Venn’s solution is ‘to shade them [the appropriate areas] out’ (Venn 1881: 122). By using this syntactic device, we obtain diagrams for universal statements as shown in Figure 3.
 
-*Figure 3:*
-
 ![Two Venn diagrams. The first is titled ‘All A are B’ and consists of two overlapping circles labeled ‘A’ and ‘B’, the section of A that does not overlap with B is shaded. The second is titled ‘No A is B’ and also consists of two overlapping circles labeled ‘A’ and ‘B’, the overlap of the two circles is shaded.](../assets/diagrams/fig-3a.png)
 
-Figure 3: Venn’s shading
+*Figure 3:* Venn’s shading
 
 Venn’s choice of shading might not be absolutely arbitrary in that a shading could be interpreted as a visualization of set emptiness. However, it should be noted that a shading is a new syntactic device which Euler did not use. This revision gave flexibility to the system so that certain compatible pieces of information may be represented in a single diagram. In the following, the diagram on the left combines two pieces of information, “All $A$ are $B$” and “No $A$ is $B$,” to visually convey the information “Nothing is $A$.” The diagram on the right, which represents both “All $A$ are $B$” and “All $B$ are $A$,” clearly shows that $A$ is the same as $B$:
 
@@ -206,11 +200,9 @@ Peirce points out that Venn’s system has no way of representing the following 
 
 For example, Figure 4 represents the statement, ‘All $A$ are $B$ or some $A$ is $B$’, which neither Euler’s nor Venn’s system can represent in a single diagram.
 
-*Figure 4:*
-
 ![Two overlapping circles labeled ‘A’ and ‘B’; inside the overlap is a label ‘x’ and inside of the non-overlapping bit of circle A is a label ‘o’; a line connects ‘x’ to ‘o’](../assets/diagrams/fig-4a.png)
 
-Figure 4: A Peirce diagram
+*Figure 4:* A Peirce diagram
 
 The reason that Peirce replaced Venn’s shading for emptiness with the symbol ‘o’ seems to be obvious: It would not be easy to connect shadings or shadings and ‘x’s in order to represent disjunctive information. In this way, Peirce increased the expressive power of the system, but this change was not without its costs.
 
@@ -339,13 +331,11 @@ The conditions **Eu** imposes on its lines and circles are not, in contrast, pur
 
 The range of distinct co-exact configurations stipulated by the **FG** notion of diagram equivalence is not exactly the same as that stipulated by the **Eu** notion. The main difference between them stems from how segments are understood in both systems. An **FG** segment is not taken to define regions on either side of it while an **Eu** segment is. It is only when an **FG** segment is extended to a line that regions above and below the segment are depicted. Further, **FG** lines are interpreted as representing infinite lines, while **Eu** lines are interpreted as depicting the extendibility of segments. This has consequences for how parallelism is treated in both systems. See section 3.2.2 of Mumma 2019.
 
-*Figure 5:*
-
 | ![Example of FG diagram](../assets/diagrams/fig-5a.png) | ![Example of FG diagram](../assets/diagrams/fig-5b.png) |
 | --- | --- |
 | ![Example of Eu diagram](../assets/diagrams/fig-5c.png) | ![Example of Eu diagram](../assets/diagrams/fig-5d.png) |
 
-Figure 5: Two equivalent FG diagrams and two equivalent Eu diagrams
+*Figure 5:* Two equivalent FG diagrams and two equivalent Eu diagrams
 
 **Taks 2: prescribing a diagrammatic method of geometric proof.** Situating the formally defined diagrams like those of **FG** and **Eu** in a formal geometric proof system requires two things. The first is a technique for expressing a configuration’s exact information in conjunction with the co-exact information expressed by a diagram. The second is a method for distinguishing general co-exact features from non-general ones in diagrammatic representations of constructions.
 
@@ -369,19 +359,15 @@ Accordingly, in the picture of diagrammatic reasoning underlying **Eu**, there a
 
 For example, to derive I, 16 in **Eu**, we first produce the **Eu** diagram
 
-*Figure 7a*
-
 ![Eu for I, 16](../assets/diagrams/fig-7a.png)
 
-Figure 7a
+*Figure 7a*
 
 via its construction rules. We then apply positional rules repeatedly to obtain the sub-diagram
 
-*Figure 7b*
-
 ![Eu for I, 16](../assets/diagrams/fig-7b.png)
 
-Figure 7b
+*Figure 7b*
 
 and then apply a rule for deriving inequalities from diagrams to obtain ACF $\lt$ ACD.[^note-6]
 

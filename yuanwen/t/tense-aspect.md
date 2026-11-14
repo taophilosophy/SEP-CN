@@ -657,8 +657,6 @@ Assuming that shooting at somebody with a loaded gun will lead to the death of t
 
 Suppose we have three kinds of actions/events—*Load*, *Smoke* and *Shoot*—and three time dependent properties, the fluents *Alive*, *Loaded* and *Dead*.^{[[^note-6]],[[^note-7]]} Besides actions and fluents we will also need instants of time in our basic ontology. The predicates listed in Table 4 are used to express actions and their effects and to locate them in time.
 
-*Table 4.*
-
 | *Formula* | *Meaning* |
 | --- | --- |
 | *Initiates*$(\alpha , \beta , \tau)$ | Fluent $\beta$ starts to hold after action $\alpha$ at time $\tau$ |
@@ -669,7 +667,7 @@ Suppose we have three kinds of actions/events—*Load*, *Smoke* and *Shoot*—an
 | *HoldsAt*$(\beta , \tau)$ | Fluent $\beta$ holds at time $\tau$ |
 | *Clipped*$(\tau_1,\beta ,\tau_2)$ | Fluent $\beta$ is terminated between times $\tau_1$ and $\tau_2$ |
 
-Table 4. Predicates of the simple event calculus (from Shanahan 1999)
+*Table 4.* Predicates of the simple event calculus (from Shanahan 1999)
 
 The predicates are related to each other by a set of four simple axioms (53)–(56). In these axioms, all variables are assumed to be universally quantified with maximal scope. We will come to the semantics of the implication when we have introduced the complete scenario.
 
@@ -795,14 +793,12 @@ Since the theory doesn’t contain the statement *Initially*(*Loaded*), closed w
 
 In the following, we will analyze the imperfective paradox as an instance of the frame problem (cf. Stenning and van Lambalgen 2005; van Lambalgen and Hamm 2005; Stenning and van Lambalgen 2008; Baggio and van Lambalgen 2007; Baggio et al. 2008)[^baggio-2008][^baggio-2007][^stenning-2005][^stenning-2008][^lambalgen-2005]. Both activities and accomplishments involve continuous change and we therefore have to add additional predicates and axioms to properly deal with gradually changing objects which are under the influence of an external force. Table 5 introduces two new predicates; axioms A1–A5 provide a general theory of instantaneous and continuous change (from van Lambalgen and Hamm 2005: 40)[^lambalgen-2005]. As can be easily seen, the axiom system extends that of Shanahan (1997).
 
-*Table 5.*
-
 | *Formula* | *Meaning* |
 | --- | --- |
 | *Releases*$(e, f, t)$ | Fluent $f$ starts to change due to event $e$ at time $t$ |
 | *Trajectory*$(f_1, t, f_2, d)$ | If fluent $f_1$ holds from t until $t + d$, then $f_2$ holds at $t + d$ |
 
-Table 5. Predicates for continuous change
+*Table 5.* Predicates for continuous change
 
 $$\begin{align} \tag*{A1.} & Initially(f) \rightarrow HoldsAt(f, 0) \\ \tag*{A2.} & HoldsAt(f, r) \wedge r \lt t\ \wedge \\ &\ \ \neg \exists s \lt r HoldsAt(f,s) \wedge \neg Clipped(r, f, t) \rightarrow HoldsAt(f, t) \\ \tag*{A3.} & Happens(e, t) \wedge Initiates(e, f, t) \wedge t \lt t'\ \wedge \\ &\ \ \neg Clipped(t, f, t') \rightarrow HoldsAt(f, t') \\ \tag*{A4.} & Happens(e, t) \wedge Initiates(e, f_1, t) \wedge t \lt t'\ \wedge \\ &\ \ t' = t + d \wedge Trajectory(f_1, t, f_2, d) \wedge \neg Clipped(t, f_1, t') \rightarrow HoldsAt(f_2, t') \\ \tag*{A5.} & Happens(e, s) \wedge t \lt s \lt t'\ \wedge \\ &\ \ (Terminates(e, f, s) \vee Releases(e, f, s)) \rightarrow Clipped(t, f, t') \end{align}$$
 

@@ -120,8 +120,6 @@ A relatively more recent causal theory is Robert Rupert’s (1999) Best Test The
 
 To put the idea succinctly, “X” means, or refers to, those things that are the most powerful stimulants of “X”. That said, we need an account of what it is for a member of a natural kind to be more efficient in causing “X”s than are other natural kinds. We need an account of how to measure the power of a stimulus. This might be explained in terms of a kind of biography.
 
-*Figure 1.*
-
 |   | “X₁” | “X₂” | “X₃” | “X₄” | “X₅” |
 | --- | --- | --- | --- | --- | --- |
 | K₁ |   | 1 | 1 | 1 |   |
@@ -138,7 +136,7 @@ To put the idea succinctly, “X” means, or refers to, those things that are t
 | K₃ |   | 1 |   |   |   |
 | K₃ | 1 |   |   |   |   |
 
-Figure 1. A spreadsheet biography
+*Figure 1.* A spreadsheet biography
 
 Consider an organism S that (a) causally interacts with three different natural kinds, K₁-K₃, in its environment and (b) has a language of thought with five terms “X₁”-“X₅”. Further, suppose that each time S interacts with an individual of kind Kᵢ this causes an occurrence of one or more of “X₁”-“X₅”. We can then create a kind of “spreadsheet biography” or “log of mental activity” for S in which there is a column for each of “X₁”-“X₅” and a row for each instance in which a member of K₁-K₃ causes one or more instances of “X₁”-“X₅”. Each mental representation “Xᵢ” that Kᵢ triggers receives a “1” in its column. Thus, a single spreadsheet biography might look like that shown in Figure 1.
 
