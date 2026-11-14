@@ -1834,7 +1834,7 @@ outline: [1, 6]
 * [阿瑟·普赖尔 Arthur Prior (B. Jack Copeland)](p/prior.md)
 * [阿隆佐·邱奇 Alonzo Church (Harry Deutsch、Oliver Marshall)](c/church.md)
 * [阿尔弗莱德·塔尔斯基 Alfred Tarski (Mario Gómez-Torrente)](t/tarski.md)
-  * [塔尔斯基的真理定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
+  * [塔尔斯基的真之定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
 * [斯坦尼斯瓦夫·莱什涅夫斯基 Stanisław Leśniewski (Peter Simons)](l/lesniewski.md)
 * [恩斯特·马利的道义逻辑 Mally’s Deontic Logic (Gert-Jan Lokhorst、Stefania Centrone、Pierluigi Minari)](m/mally-deontic.md)
 * [波尔查诺的逻辑学 Bolzano’s Logic (Paul Rusnock、Jan Šebestik)](b/bolzano-logic.md)
