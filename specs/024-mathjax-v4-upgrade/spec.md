@@ -35,6 +35,11 @@
 
 本 spec 初稿与升级改动曾于 2026-11-14 被并行会话整卷（package.json/bun.lock 还原、specs/024 目录被扫、prepare-assets.mjs 回滚）——按既定对策原地重做并立即 pathspec 提交压最短窗口。specs/024 相关文件一律以 pathspec 提交，绝不 `git add -A`。
 
+## 冒烟结果（2026-11-14，dev :81）
+
+- 试金石 frege-theorem（原文侧）：MathJax **4.1.3** 加载成功（`window.MathJax.version`），1157 个 `.math-tex` span 全部排版为 1171 个 `mjx-container`，`typesetPromise` 就绪，SPA 手动排版模式工作正常，`svg.fontCache:'global'` 与 `enableMenu:true` 配置项在 v4 组件中实测存在。
+- 页面 2 个 merror 归因（**既有缺口，非 v4 引入**）：L503 公式 `$1 = \#[\lambda z \, Azp \amp z\neqclose r] $`（数字开头 + 尾部 `$` 前空格）掉出 `protectMath` 货币守卫正则 A 支（要求尾字符紧随 `[^\s$]`）→ 公式裸给 markdown，`\#` 被 markdown 标点转义吃掉反斜杠 → MathJax 报 macro parameter character 错；正文 + 脚注区两份渲染各出 1 个 merror。v3 对同页同样报错（TeX 语义）。修复点：`math-plugin.mjs` A 支允许尾部空白（数字开头分支 `[^\s$]` 前容 `[ \t]*`）——留待数学/站点会话修复并回归（protectMath 单测 + 本页 merror=0 复验）。同型的 L502（数字开头 + 尾紧随）已受保护，不受影响。
+
 ## Assumptions（裁定登记）
 
 - 2026-11-14 用户裁定「立刻升级」：阅读站 MathJax 升到最新稳定 4.1.3。

@@ -17,7 +17,7 @@ bun run preview  # 预览构建产物（不跑 prepare-assets）
 
 ## 构建期准备（prepare-assets.mjs）
 
-`dev` 与 `build` 先运行 `.vitepress/prepare-assets.mjs`：把 `node_modules/mathjax/es5/tex-svg.js` 复制到 `public/mathjax/tex-svg.js`（该目录 gitignore，克隆后首次运行自动重建）。缺 `node_modules` 时脚本直接 exit 1 并提示 `bun install`。`preview` 不跑此步骤，故 `preview` 前须至少 `build` 过一次。
+`dev` 与 `build` 先运行 `.vitepress/prepare-assets.mjs`：把 `node_modules/mathjax/tex-svg.js` 复制到 `public/mathjax/tex-svg.js`（specs/024：MathJax 4.1.3 起组件文件在包根，v3 的 `es5/` 目录已取消；该目录 gitignore，克隆后首次运行自动重建）。缺 `node_modules` 时脚本直接 exit 1 并提示 `bun install`。`preview` 不跑此步骤，故 `preview` 前须至少 `build` 过一次。
 
 ## dev 服务器
 
@@ -33,7 +33,7 @@ bun run preview  # 预览构建产物（不跑 prepare-assets）
 
 * `markdown.attrs = false`（2026-10-28 裁定）：全库以 `^{…}`/`_{…}` 作上下标约定，正文含大量字面花括号（如 `^{−1}`）。attrs 插件会把尾随花括号吞成 HTML 属性——轻则上下标静默丢失（`u(a_{1})` 渲染成 `u(a`），重则非法属性名（`−½`）炸掉 Vue 模板编译，整页构建失败。**不要重新开启 attrs**。
 * 行内代码统一注入 `v-pre`（vuejs/vitepress#3724）：代码里的 `{{ }}` 与标签不被 Vue 当模板处理。
-* 数学：`math-plugin.mjs` 把 `$…$`、`$$…$$`、`\(…\)`、`\[…\]` 保护为哨兵 token，公式内容原样；MathJax 3 的 `tex-svg` 离线加载（`/mathjax/tex-svg.js`），`startup.typeset: false`，由主题组件 `MathTypesetter`（挂载于 `doc-top`）在路由变化后手动排版，避免 SPA 切换漏排。
+* 数学：`math-plugin.mjs` 把 `$…$`、`$$…$$`、`\(…\)`、`\[…\]` 保护为哨兵 token，公式内容原样；MathJax 4.1.3 的 `tex-svg` 离线加载（`/mathjax/tex-svg.js`，specs/024 由 3.2.2 升级；v3 配置原样兼容），`startup.typeset: false`，由主题组件 `MathTypesetter`（挂载于 `doc-top`）在路由变化后手动排版，避免 SPA 切换漏排。
 
 ## 双语配对与侧边栏
 
