@@ -215,151 +215,290 @@ Levy 说明中有一个关键的经验假定：人们采纳周围人的信念，
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；书目条目照录原文。
 
 [^amaya-2013]: Amaya, S., 2013, “Slips”, *Noûs*, 47(3): 559–576. doi:10.1111/j.1468-0068.2011.00838.x
+
 [^amaya-2015]: Amaya, S., & Doris, J. M., 2015, “No excuses: Performance mistakes in morality”, in J. Clausen & N. Levy (eds.), *Handbook of Neuroethics*, pp. 253–272, Springer Netherlands.
+
 [^american-2013]: American Psychiatric Association & DSM-5 Task Force, 2013, *Diagnostic and statistical manual of mental disorders: DSM-5*, American Psychiatric Association.
+
 [^anderson-2018]: Anderson, B. A., & Kim, H., 2018, “Mechanisms of value-learning in the guidance of spatial attention”, *Cognition*, 178: 26–36.
+
 [^awad-2022]: Awad, E., Levine, S., Anderson, M., Anderson, S. L., Conitzer, V., Crockett, M. J., Everett, J. A., Evgeniou, T., Gopnik, A., & Jamison, J. C., 2022, “Computational ethics”, *Trends in Cognitive Sciences*, 26(5): 388–405.
+
 [^baddeley-2019]: Baddeley, A., 2019, “Working memory and conscious awareness”, in A.F. Colins, S.E. Gathercole, M.A. Conway, and P.E. Morris (eds.), *Theories of memory*, pp. 11–28, Hillsdale, NJ: Lawrence Erlbaum Associates.
+
 [^benson-2001]: Benson, P., 2001, “Culture and responsibility: A reply to Moody-Adams”, *Journal of Social Philosophy*, 32(4): 610–620.
+
 [^bermúdez-2023]: Bermúdez, J. P., & Massin, O., 2023, “Efforts and their feelings”, *Philosophy Compass*, 18(1): e12894.
+
 [^boyd-1987]: Boyd, R., & Richerson, P. J., 1987, “The evolution of ethnic markers”, *Cultural Anthropology*, 2(1): 65–79.
+
 [^boyd-1988]: –––, 1988, *Culture and the evolutionary process*, Chicago: University of Chicago Press.
+
 [^bradford-2015]: Bradford, G., 2015, *Achievement*, Oxford: Oxford University Press.
+
 [^bratman-2000]: Bratman, M. E., 2000, “Reflection, planning, and temporally extended agency”, *Philosophical Review*, 109(1): 35–61. doi:10.1215/00318108-109-1-35
+
 [^burdman-2022]: Burdman, F., 2022, “A pluralistic account of degrees of control in addiction”, *Philosophical Studies*, 179(1): 197–221.
+
 [^busemeyer-1993]: Busemeyer, J. R., & Townsend, J. T., 1993, “Decision field theory: A dynamic-cognitive approach to decision making in an uncertain environment”, *Psychological Review*, 100(3): 432–459.
+
 [^calhoun-1989]: Calhoun, C., 1989, “Responsibility and reproach”, *Ethics*, 99(2): 389–406.
+
 [^campbell-2002]: Campbell, M., Hoane Jr, A. J., & Hsu, F., 2002, “Deep blue”, *Artificial Intelligence*, 134(1–2): 57–83.
+
 [^caplan-2006]: Caplan, B., 2006, “The economics of szasz: Preferences, constraints and mental illness”, *Rationality and Society*, 18(3): 333–366.
+
 [^carruthers-2015]: Carruthers, P., 2015, *The centered mind: What the science of working memory shows us about the nature of human thought*, Oxford: Oxford University Press.
+
 [^carruthers-2018]: –––, 2018, “Valence and value”, *Philosophy and Phenomenological Research*, 97(3): 658–680.
+
 [^chun-2011]: Chun, M. M., Golomb, J. D., & Turk-Browne, N. B., 2011, “A taxonomy of external and internal attention”, *Annual Review of Psychology*, 62(1): 73–101.
+
 [^clarke-2014]: Clarke, R., 2014, *Omissions: Agency, metaphysics, and responsibility*, Oxford: Oxford University Press.
+
 [^coates-2013]: Coates, D. J., & Tognazzini, N. A., 2013, *Blame: Its nature and norms*, Oxford: Oxford University Press.
+
 [^daniels-1979]: Daniels, N., 1979, “Wide reflective equilibrium and theory acceptance in ethics”, *The Journal of Philosophy*, 76(5): 256–282.
+
 [^dennett-1984]: Dennett, D. C., 1984, *Elbow room: The varieties of free will worth wanting*, Cambridge: The MIT Press.
+
 [^dennis-2007]: Dennis, M. L., Foss, M. A., & Scott, C. K., 2007, “An eight-year perspective on the relationship between the duration of abstinence and other aspects of recovery”, *Evaluation Review*, 31(6): 585–612. doi:10.1177/0193841X07307771
+
 [^dorst-2023]: Dorst, K., 2023, “Rational polarization”, *Philosophical Review*, 132(3): 355–458.
+
 [^failing-2018]: Failing, M., & Theeuwes, J., 2018, “Selection history: How reward modulates selectivity of visual attention”, *Psychonomic Bulletin & Review*, 25(2): 514–538.
+
 [^fecteau-2006]: Fecteau, J. H., & Munoz, D. P., 2006, “Salience, relevance, and firing: A priority map for target selection”, *Trends in Cognitive Sciences*, 10(8): 382–390.
+
 [^fischer-2012]: Fischer, J. M., 2012, “Semicompatibilism and its rivals”, *The Journal of Ethics*, 16(2): 117–143. doi:10.1007/s10892-012-9123-9
+
 [^fischer-1998]: Fischer, J. M., & Ravizza, M., 1998, *Responsibility and control: A theory of moral responsibility*, Cambridge: Cambridge University Press.
+
 [^flanagan-2013]: Flanagan, O., 2013, “The shame of addiction”, *Frontiers in Psychiatry*, 4: 120.
+
 [^foddy-2007]: Foddy, B., & Savulescu, J., 2007, “Addiction is not an affliction: Addictive desires are merely pleasure-oriented desires”, *The American Journal of Bioethics*, 7(1): 29–32.
+
 [^foddy-2010]: –––, 2010, “A liberal account of addiction”, *Philosophy, Psychiatry, & Psychology: PPP*, 17(1): 1–22. doi:10.1353/ppp.0.0282
+
 [^forstmann-2016]: Forstmann, B. U., Ratcliff, R., & Wagenmakers, E.-J., 2016, “Sequential sampling models in cognitive neuroscience: Advantages, applications, and extensions”, *Annual Review of Psychology*, 67: 641–666.
+
 [^frankfurt-1971]: Frankfurt, H., 1971, “Freedom of the will and the concept of a person”, *The Journal of Philosophy*, 68(1): 5–20. doi:10.2307/2024717
+
 [^funkhouser-2022]: Funkhouser, E., 2022, “A tribal mind: Beliefs that signal group identity or commitment”, *Mind & Language*, 37(3): 444–464.
+
 [^glackin-2021]: Glackin, S. N., Roberts, T., & Krueger, J., 2021, “Out of our heads: Addiction and psychiatric externalism”, *Behavioural Brain Research*, 398: 112936.
+
 [^griffiths-2005]: Griffiths, M., 2005, “A ‘components’ model of addiction within a biopsychosocial framework”, *Journal of Substance Use*, 10(4): 191–197.
+
 [^haas-2022]: Haas, J., 2022, “Reinforcement learning: A brief guide for philosophers of mind”, *Philosophy Compass*, e12865. doi:10.1111/phc3.12865
+
 [^haas-nd]: –––, forthcoming, “The evaluative mind”, in *Mind Design III*, Cambridge: MIT Press. [[Haas forthcoming available online](https://philpapers.org/archive/HAATEM-2.pdf)]
+
 [^hart-2013]: Hart, C., 2013, *High price: A neuroscientist’s journey of self-discovery that challenges everything you know about drugs and society*, London: Penguin Books.
+
 [^hart-2000]: Hart, C., Haney, M., Foltin, R. W., & Fischman, M. W., 2000, “Alternative reinforcers differentially modify cocaine self-administration by humans”, *Behavioural Pharmacology*, 11(1): 87–91.
+
 [^heather-1998]: Heather, N., 1998, “A conceptual framework for explaining drug addiction”, *Journal of Psychopharmacology*, 12(1): 3–7.
+
 [^heather-2020]: –––, 2020, “The concept of akrasia as the foundation for a dual systems theory of addiction”, *Behavioural Brain Research*, 390: 112666.
+
 [^henden-2013]: Henden, E., Melberg, H.-O., & Rogeberg, O., 2013, “Addiction: Choice or compulsion?” *Frontiers in Psychiatry*, 4. doi:10.3389/fpsyt.2013.00077
+
 [^henrich-2016]: Henrich, J., 2016, *The secret of our success: How culture is driving human evolution, domesticating our species, and making us smarter*, Princeton: Princeton University Press.
+
 [^heyman-2009]: Heyman, G. M., 2009, *Addiction: A disorder of choice* (Reprint edition). Cambridge: Harvard University Press.
+
 [^higgins-1999]: Higgins, S. T., & Petry, N. M., 1999, “Contingency management. Incentives for sobriety”, *Alcohol Research & Health: The Journal of the National Institute on Alcohol Abuse and Alcoholism*, 23(2): 122–127.
-[^hofmann-2012]: Hofmann, W., Baumeister, R. F., Förster, G., & Vohs, K. D., 2012, “Everyday temptations: An experience sampling study of desire, conflict, and self-control”, *Journal of Personality and Social Psychology*, 102(6): 1318–133OB5.
+
+[^hofmann-2012]: Hofmann, W., Baumeister, R. F., Förster, G., & Vohs, K. D., 2012, “Everyday temptations: An experience sampling study of desire, conflict, and self-control”, *Journal of Personality and Social Psychology*, 102(6): 1318–1335.
+
 [^hofmann-2012-2]: Hofmann, W., Vohs, K. D., & Baumeister, R. F., 2012, “What people desire, feel conflicted about, and try to resist in everyday life”, *Psychological Science*, 23(6): 582–588.
+
 [^holton-2013]: Holton, R., & Berridge, K., 2013, “Addiction between compulsion and choice”, in N. Levy (ed.), *Addiction and self-control: Perspectives from philosophy, psychology, and neuroscience*, pp. 239–268, New York: Oxford University Press.
+
 [^hunt-1971]: Hunt, W. A., Barnett, L. W., & Branch, L. G., 1971, “Relapse rates in addiction programs”, *Journal of Clinical Psychology*, 27(4): 455–456. doi:10.1002/1097-4679(197110)27:4<455::AID-JCLP2270270412>3.0.CO;2-R
+
 [^husak-1992]: Husak, D. N., 1992, *Drugs and rights*, Cambridge: Cambridge University Press.
+
 [^james-1890]: James, W., 1890, *Principles of psychology*, Henry Holt & Company.
+
 [^jaworska-2007]: Jaworska, A., 2007, “Caring and internality”, *Philosophy and Phenomenological Research*, 74(3): 529–568. doi:10.1111/j.1933-1592.2007.00039.x
+
 [^kennett-2013]: Kennett, J., 2013, “Addiction, choice, and disease: How voluntary is voluntary action in addiction?” in N. Vincent (ed.), *Neuroscience and Legal Responsibility*, pp. 257–278, Oxford: Oxford University Press.
+
 [^king-2012]: King, M., & Carruthers, P., 2012, “Moral responsibility and consciousness”, *Journal of Moral Philosophy*, 9(2): 200–228. doi:10.1163/174552412X625682
+
 [^kirshenbaum-2009]: Kirshenbaum, A. P., Olsen, D. M., & Bickel, W. K., 2009, “A quantitative review of the ubiquitous relapse curve”, *Journal of Substance Abuse Treatment*, 36(1): 8–17. doi:10.1016/j.jsat.2008.04.001
+
 [^kiyonaga-2013]: Kiyonaga, A., & Egner, T., 2013, “Working memory as internal attention: Toward an integrative account of internal and external selection processes”, *Psychonomic Bulletin & Review*, 20, 228–242.
+
 [^levy-2006]: Levy, N., 2006, “Addiction, autonomy and ego-depletion: A response to Bennett Foddy and Julian Savulescu”, *Bioethics*, 20(1): 16–20. doi:10.1111/j.1467-8519.2006.00471.x
+
 [^levy-2014]: –––, 2014, *Consciousness and moral responsibility*, New York: Oxford University Press.
+
 [^levy-2021]: –––, 2021, *Bad beliefs: Why they happen to good people*. Oxford: Oxford University Press. doi:10.1093/oso/9780192895325.001.0001
+
 [^lewis-2014]: Lewis, R. L., Howes, A., & Singh, S., 2014, “Computational rationality: Linking mechanism and behavior through bounded utility maximization”, *Topics in Cognitive Science*, 6(2): 279–311.
+
 [^lieder-2020]: Lieder, F., & Griffiths, T. L., 2020, “Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources”, *Behavioral and Brain Sciences*, 43: e1.
+
 [^malinsky-2018]: Malinsky, D., & Danks, D., 2018, “Causal discovery algorithms: A practical guide”, *Philosophy Compass*, 13(1): e12470.
+
 [^mallon-2016]: Mallon, R., 2016, “Experimental philosophy”, in Herman Cappelen, Tamar Gendler, & John Hawthorne (eds.), *Oxford Handbook of Philosophical Methodology*, pp. 410–433, Oxford: Oxford University Press.
+
 [^mcelreath-2003]: McElreath, R., Boyd, R., & Richerson, P., 2003, “Shared norms and the evolution of ethnic markers”, *Current Anthropology*, 44(1): 122–130.
+
 [^mclellan-2000]: McLellan, A. T., Lewis, D. C., O’Brien, C. P., & Kleber, H. D., 2000, “Drug dependence, a chronic medical illness: Implications for treatment, insurance, and outcomes evaluation”, *JAMA*, 284(13): 1689–1695. doi:10.1001/jama.284.13.1689
+
 [^mele-1990]: Mele, A., 1990, “Irresistible desires”, *Noûs*, 24(3): 455–472. doi:10.2307/2215775
+
 [^mele-2001]: –––, 2001, *Autonomous agents: From self-control to autonomy*, New York: Oxford University Press.
+
 [^mele-2006]: –––, 2006, *Free will and luck*. New York: Oxford University Press.
+
 [^menges-2024]: Menges, L., & Altehenger A., 2024, “The point of blaming AI systems”, *Journal of Ethics and Social Philosophy*, 27(2): 287–314.
+
 [^milgram-1965]: Milgram, S., 1965, “Some conditions of obedience and disobedience to authority”, *Human Relations*, 18(1): 57–76.
+
 [^miller-1956]: Miller, G. A., 1956, “The magical number seven, plus or minus two: Some limits on our capacity for processing information”, *Psychological Review*, 63(2): 81.
+
 [^mills-2007]: Mills, C., 2007, “White ignorance”, *Race and Epistemologies of Ignorance*, 247: 26–31.
+
 [^mnih-2015]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjeland, A. K., & Ostrovski, G., 2015, “Human-level control through deep reinforcement learning”, *Nature*, 518(7540): 529–533.
+
 [^moody-adams-1994]: Moody-Adams, M. M., 1994, “Culture, responsibility, and affected ignorance”, *Ethics*, 104(2): 291–309.
+
 [^morse-2000]: Morse, S. J., 2000, “Hooked on hype: Addiction and responsibility”, *Law and Philosophy*, 19: 3–49.
+
 [^morse-2002]: –––, 2002, “Uncontrollable urges and irrational people”, *Virginia Law Review*, 88: 1025–1078.
+
 [^murray-2020]: Murray, S., & Vargas, M., 2020, “Vigilance and control”, *Philosophical Studies*, 177: 825–843.
+
 [^nahmias-2020]: Nahmias, E., Allen, C. H., & Loveall, B., 2020, “When do robots have free will? Exploring the relationships between (attributions of) consciousness and free will”, *Free Will, Causality, and Neuroscience*, 338: 57–80.
+
 [^nelkin-2011]: Nelkin, D. K., 2011, *Making sense of freedom and responsibility*. Oxford: Oxford University Press.
+
 [^nelkin-2017]: Nelkin, D. K., & Rickless, S. C., 2017, “Moral responsibility for unwitting omissions: A new tracing view”, *The Ethics and Law of Omissions*, pp. 106–129.
+
 [^nguyen-2020]: Nguyen, C. T., 2020, “Echo chambers and epistemic bubbles”, *Episteme: A Journal of Individual and Social Epistemology*, 17(2): 141–161.
+
 [^nyholm-2018]: Nyholm, S., 2018, “Attributing agency to automated systems: Reflections on human–robot collaborations and responsibility-loci”, 24(4): 1201–1219.
+
 [^nyholm-2022]: –––, 2022, *This is technology ethics: An introduction*, Hoboken, NJ: John Wiley & Sons.
+
 [^o’connor-2019]: O’Connor, C., & Weatherall, J. O., 2019, *The misinformation age: How false beliefs spread*. Yale University Press.
+
 [^persuh-2018]: Persuh, M., LaRock, E., & Berger, J., 2018, “Working memory and consciousness: The current state of play”, *Frontiers in Human Neuroscience*, 12: 78.
+
 [^pickard-2012]: Pickard, H., 2012, “The purpose in chronic addiction”, *AJOB Neuroscience*, 3(2): 40–49. doi:10.1080/21507740.2012.663058
+
 [^pickard-2015]: –––, 2015, “Psychopathology and the ability to do otherwise”, *Philosophy and Phenomenological Research*, 90(1): 135–163. doi:10.1111/phpr.12025
+
 [^pickard-2016]: –––, 2016, “Denial in addiction”, *Mind & Language*, 31(3): 277–299.
+
 [^preston-2009]: Preston, K. L., Vahabzadeh, M., Schmittner, J., Lin, J.-L., Gorelick, D. A., & Epstein, D. H., 2009, “Cocaine craving and use during daily life”, *Psychopharmacology*, 207(2): 291. doi:10.1007/s00213-009-1655-8
+
 [^quine-1957]: Quine, W. V., 1957, “The scope and language of science”, *The British Journal for the Philosophy of Science*, 8(29): 1–17.
+
 [^railton-2017a]: Railton, P., 2017a, “At the core of our capacity to act for a reason: The affective system and evaluative model-based learning and control”, *Emotion Review*, 9(4): 335–342.
+
 [^railton-2017b]: –––, 2017b, “Moral learning: Conceptual foundations and normative relevance”, *Cognition*, 167: 172–190.
+
 [^rangel-2008]: Rangel, A., Camerer, C., & Montague, P. R., 2008, “A framework for studying the neurobiology of value-based decision making”, *Nat Rev Neurosci*, 9: 545–556. doi:10.1038/nrn2357
+
 [^rangel-2010]: Rangel, A., & Hare, T., 2010, “Neural computations associated with goal-directed choice”, *Current Opinion in Neurobiology*, 20(2): 262–270.
+
 [^ratcliff-2007]: Ratcliff, R., & McKoon, G., 2007, “The diffusion decision model: Theory and data for two-choice decision tasks”, *Neural Computation*, 20(4): 873–922. doi:10.1162/neco.2008.12-06-420
+
 [^rini-2017]: Rini, R., 2017, “Fake news and partisan epistemology”, *Kennedy Institute of Ethics Journal*, 27(2): E-43–E-64.
+
 [^rosen-2004]: Rosen, G., 2004, “Skepticism about moral responsibility”, *Philosophical Perspectives*, 18: 295–313.
+
 [^russell-2020]: Russell, S., & Norvig, P., 2020, *Artificial intelligence: A modern approach*, 4th Edition, Boston: Pearson Education, Inc.
+
 [^scanlon-1998]: Scanlon, T., 1998, *What We Owe Each Other*, Cambridge: Harvard University Press.
+
 [^shepherd-2014]: Shepherd, J., 2014, “The contours of control”, *Philosophical Studies*, 170: 395–411.
+
 [^sher-2006]: Sher, G., 2006, “Out of control”, *Ethics*, 116(2): 285–301. doi:10.1086/et.2006.116.issue-2
+
 [^sher-2009]: –––, 2009, *Who knew?: Responsibility without awareness*. Oxford: Oxford University Press.
+
 [^shoemaker-2003]: Shoemaker, D., 2003, “Caring, identification, and agency”, *Ethics*, 114(1): 88–118. doi:10.1086/376718
+
 [^shoemaker-2011]: –––, 2011, “Psychopathy, responsibility, and the moral/conventional distinction”, *The Southern Journal of Philosophy*, 49: 99–124.
+
 [^simon-1990]: Simon, H. A., 1990, “Bounded rationality”, *Utility and Probability*, 15–18.
-[^sinnott-armstrong-2013]: Sinnott-Armstrong, W., & Pickard, H., 2013, “What is addiction?” in K.W.M. Fulford et al. (eds.), *The Oxford Handbook of Philosophy and Psychiatry*. pp. 851–864, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.013.0050
+
+[^sinnott-armstrong-2013]: Sinnott-Armstrong, W., & Pickard, H., 2013, “What is addiction?” in K.W.M. Fulford et al. (eds.), *The Oxford Handbook of Philosophy and Psychiatry*, pp. 851–864, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.013.0050
+
 [^sinnott-armstrong-2021]: Sinnott-Armstrong, W., & Skorburg, J. A., 2021, “How AI can AID bioethics”, *Journal of Practical Ethics*, 9(1). doi:10.3998/jpe.1175
+
 [^slote-1982]: Slote, M., 1982, “Is virtue possible?” *Analysis*, 42(2): 70–76.
+
 [^smith-2005]: Smith, A., 2005, “Responsibility for attitudes: Activity and passivity in mental life”, *Ethics*, 115: 236–271.
+
 [^smith-2008]: –––, 2008, “Control, responsibility, and moral assessment”, *Philosophical Studies*, 138: 367–392.
+
 [^smith-1983]: Smith, H., 1983, “Culpable ignorance”, *The Philosophical Review*, 92(4): 543–571.
+
 [^solway-2012]: Solway, A., & Botvinick, M. M., 2012, “Goal-directed decision making as probabilistic inference: A computational framework and potential neural correlates”, *Psychological Review*, 119(1): 120–154.
+
 [^sripada-2021]: Sripada, C., 2021, “Impaired control in addiction involves cognitive distortions and unreliable self-control, not compulsive desires and overwhelmed self-control”, *Behavioural Brain Research*, 418: 113639.
+
 [^sripada-2022]: –––, 2022, “Loss of control in addiction: The search for an adequate theory and the case for intellectual humility”, In M. Vargas & J. M. Doris (eds.), *Oxford Handbook of Moral Psychology*, Oxford: Oxford University Press.
+
 [^sripada-2025]: –––, 2025, “The valuationist model of human agent architecture”, *Philosophical Psychology*, first online 06 April 2025. doi:10.1080/09515089.2025.2485323
+
 [^steyvers-2003]: Steyvers, M., Tenenbaum, J. B., Wagenmakers, E.-J., & Blum, B., 2003, “Inferring causal networks from observations and interventions”, *Cognitive Science*, 27(3): 453–489.
+
 [^stich-1996]: Stich, S., 1996, *Deconstructing the mind*. New York: Oxford University Press on Demand.
+
 [^strawson-1994]: Strawson, G., 1994, “The impossibility of moral responsibility”, *Philosophical Studies*, 75: 5–24.
+
 [^strawson-1962]: Strawson, P., 1962, “Freedom and resentment”, *Proceedings of the British Academy*, 48: 187–211.
+
 [^sussman-2011]: Sussman, S., & Sussman, A. N., 2011, “Considering the definition of addiction”, *International Journal of Environmental Research and Public Health*, 8(10): 4025–4038.
+
 [^sutton-1998]: Sutton, R. S., & Barto, A. G., 1998, *Reinforcement Learning: An Introduction*, Cambridge: Bradford.
+
 [^theeuwes-2022]: Theeuwes, J., Bogaerts, L., & van Moorselaar, D., 2022, “What to expect where and when: How statistical learning drives visual selection”, *Trends in Cognitive Sciences*, 26(10): 860–872.
+
 [^vargas-2013]: Vargas, M., 2013, *Building better beings: A theory of moral responsibility*, Oxford: Oxford University Press.
+
 [^wallace-1998]: Wallace, R. J., 1998, *Responsibility and the moral sentiments*, Cambridge: Harvard University Press.
+
 [^wallace-1999]: –––, 1999, “Addiction as defect of the will: Some philosophical reflections”, *Law and Philosophy*, 18(6): 621–654. doi:10.1023/A:1006315614953
+
 [^watson-1999]: Watson, G., 1999, “Disordered appetites: Addiction, compulsion, and dependence”, in *Addiction: Entries and exits*, pp. 3–28, New York: Russell Sage Foundation.
+
 [^watzl-2017]: Watzl, S., 2017, *Structuring mind: The nature of attention and how it shapes consciousness*. Oxford University Press.
+
 [^weatherson-2019]: Weatherson, B., 2019, *Normative ignorance*. Oxford: Oxford University Press.
+
 [^wieland-2017]: Wieland, J. W., & Robichaud, P., 2017, *Responsibility: The epistemic condition*. Oxford: Oxford University Press.
+
 [^williams-2021]: Williams, D., 2021, “Socially adaptive belief”, *Mind & Language*, 36(3): 333–354.
+
 [^williams-2023]: –––, 2023, “Bad beliefs: Why they happen to highly intelligent, vigilant, devious, self-deceiving, coalitional apes”, *Philosophical Psychology*, 36(4): 819–833.
+
 [^williamson-2007]: Williamson, T., 2007, *The philosophy of philosophy*. Oxford: Blackwell Publishing.
+
 [^wolf-1980]: Wolf, S., 1980, “Asymmetrical freedom”, *The Journal of Philosophy*, 77(3): 151–166. doi:10.2307/2025667
+
 [^wolf-1993]: –––, 1993, *Freedom within reason*. Oxford: Oxford University Press.
+
 [^wolf-2012]: –––, 2012, “Sanity and the metaphysics of responsibility”, in R. Shafer-Landau (ed.), *Ethical Theory: An Anthology*. New York: John Wiley & Sons.
+
 [^worsnip-2022]: Worsnip, A., 2022, “Review of Bad beliefs: Why they happen to good people”, *Notre Dame Philosophical Reviews*, 2022.11.02. [[Worsnip 2022 available online](https://ndpr.nd.edu/reviews/bad-beliefs-why-they-happen-to-good-people/)]
+
 [^wu-2023]: Wu, W., 2023, *Movements of the mind: A theory of attention, intention and action*. Oxford: Oxford University Press.
+
 [^zelinsky-2015]: Zelinsky, G. J., & Bisley, J. W., 2015, “The what, where, and why of priority maps and their interactions with visual working memory”, *Annals of the New York Academy of Sciences*, 1339(1): 154–164.
+
 [^zimmerman-1997]: Zimmerman, M. J., 1997, “Moral responsibility and ignorance”, *Ethics*, 107(3): 410–426.
 
 ## 学术工具

@@ -2,10 +2,67 @@
  "key": "dufrenne, mikel",
  "term": "Dufrenne, Mikel",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T21:06:47+00:00",
- "status": "error",
- "note": "variant=Dufrenne, Mikel; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Dufrenne, Mikel: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-14T18:16:25+00:00",
+ "status": "ok",
+ "note": "variant=Dufrenne, Mikel; 审定公布名词库=8; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "均四甲苯",
+   "en": "durene",
+   "code": "07.0261",
+   "standard": "石油名词",
+   "subject": "石油_石油化工_石油化工产品与中间体"
+  },
+  {
+   "cn": "进行性假肥大性肌营养不良",
+   "en": "Duchenne muscular dystrophy",
+   "code": "01.567",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "迪谢内-埃尔布综合征",
+   "en": "Duchenne-Erb syndrome",
+   "code": "07.266",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "迪谢内肌营养不良",
+   "en": "Duchenne muscular dystrophy",
+   "code": "07.425",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "进行性假肥大性肌营养不良",
+   "en": "Duchenne muscular dystrophy,DMD",
+   "code": "15.005",
+   "standard": "神经病学名词",
+   "subject": "神经病学_肌肉疾病"
+  },
+  {
+   "cn": "进行性假肥大性肌营养不良",
+   "en": "Duchenne muscular dystrophy;DMD",
+   "code": "03.095",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病"
+  },
+  {
+   "cn": "进行性假肥大性肌营养不良",
+   "en": "Duchenne muscular dystrophy;DMD",
+   "code": "5.174",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "进行性假肥大性肌营养不良",
+   "en": "Duchenne and Becker muscular dystrophies",
+   "code": "10.146",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  }
+ ],
+ "error": null,
  "raw": null
 }
