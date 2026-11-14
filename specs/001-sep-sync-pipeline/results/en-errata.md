@@ -90,3 +90,6 @@
 | leibniz-ethics | `<em>Philospohical Papers and Letters,</em>` | `<em>Philosophical Papers and Letters</em>,` | 拼写与逗号入斜体（①） |
 | locke-on-medicine | `M.D. Ranslated from` / `&ldquo;Vaccuum&rdquo;` | `Translated` / `Vacuum` | 拼写（①） |
 | locke-on-medicine | `&ldquo;Eloge de feu Mr. Locke.&rdquo;,` / `12: 243&ndash;284,` | 去引号内句点、末逗号改句点 | 标点（①） |
+| montesquieu | `Montesquieu and Rouseau` / `University of Michign Press` | `Rousseau` / `Michigan` | 拼写（①） |
+| montesquieu | `31 (3): 469-499` | `31(3): 469–499` | 卷期空格与半字线（①） |
+| montesquieu | hulliung-1976 条末缺句点 | 补 `.` | 句读（①） |
