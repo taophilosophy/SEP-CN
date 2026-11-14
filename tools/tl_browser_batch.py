@@ -56,7 +56,14 @@ def _db_name(raw):
 
 
 def _verified_keys():
-    """已查证键集合：termonline-all/standard 凭证存在且非 error（empty 也算已查证）。"""
+    """已查证键集合：termonline-all/standard 凭证存在且非 error（empty 也算已查证）。
+
+    返回两种规范形：凭证内 key 原样 + safe_key 规范形。2026-11-15 修：emit 侧键来自
+    check_terms.norm_key、凭证侧存 cnki_query.norm_key 结果，含 ʿ/ʾ 的人名两侧不等
+    （'ʿabd al-jabbar' vs "'abd al-jabbar"），导致已查证行被反复重查；统一用 safe_key
+    （只留字母数字）比对即免疫。
+    """
+    from tools import cnki_query
     keys = set()
     for prov in ('termonline-all', 'termonline-standard'):
         d = os.path.join(QUERIES, prov)
@@ -70,7 +77,9 @@ def _verified_keys():
             except (ValueError, OSError):
                 continue
             if rec.get('status') in ('ok', 'empty'):
-                keys.add(rec.get('key') or name[:-5])
+                k = rec.get('key') or name[:-5]
+                keys.add(k)
+                keys.add(cnki_query.safe_key(k))
     return keys
 
 
@@ -94,7 +103,7 @@ def emit(out_path, pool=False, letter=None, table=None, unverified=False):
     for key, display in pairs:
         if letter and registry_azsort.bucket_of(display).casefold() != letter.casefold():
             continue
-        if key in done:
+        if key in done or (unverified and cnki_query.safe_key(key) in done):
             skipped += 1
             continue
         variants = [v.strip() for v in display.split('/') if v.strip()]
