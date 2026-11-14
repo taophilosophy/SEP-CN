@@ -597,23 +597,3 @@ Brentano, Franz | Brentano, Franz: theory of judgement | Husserl, Edmund | Lotze
 [^wolfradt-2011]: Wolfradt, U., 2011, “Carl Stumpf – Wilhelm Wundt Unterschiedliche Wege zur psychologischen Erkenntnis”, *Schriftenreihe der Carl Stumpf Gesellschaft*, 1, Frankfurt/M. et al.
 
 [^woodward-1978]: Woodward, W. R., 1978, “From Association to Gestalt: The Fate of Hermann Lotze’s Theory of Spatial Perception, 1846–1920,” *Isis*, 69: 572–82.
-
-[^woodward-2015]: 2015, *Philosophy from an Empirical Standpoint. Essays on Carl Stumpf*, D. Fisette & R. Martinelli (eds.), Amsterdam: Rodopi.
-
-[^woodward-2011]: 2011, *Die Sinne und die Erkenntnis*, M. Kaiser-El-Safti & M. Ebeling (eds.) Schriftreihe der Carl Stumpf Gesellschaft, Frankfurt : Peter Lang.
-
-[^woodward-2011-2]: 2011, *Carl Stumpf – From Philosophical Reflection to Interdisciplinary Scientific Investigation*, S. Bonacchi & G.-H. Boudewijnse (eds.), Wien: Krammer.
-
-[^woodward-2010]: 2010, *Hermann Ebbinghaus und Carl Stumpf – Hallesche Perspektiven auf die Geschichte der Psychologie*, U. Wolfradt, M. Kaiser-el-Safti & H.-P. Brauns, (eds.), Lengerich: Pabst Science Publisher.
-
-[^woodward-2009]: 2009, Special issue on Carl Stumpf, *Gestalt Theory*, Volume 31, Number 2.
-
-[^woodward-2003]: 2003, *Musik und Sprache. Zur Phänomenologie von Carl Stumpf*, M. Kaiser-El-Safti, & M. Ballod, (eds.), Würzburg: Königshausen & Neumann.
-
-[^woodward-2001]: 2001, “Carl Stumpf e la fenomenologia dell’esperienza immediate,” S. Besoli & R. Martinelli (eds.), *Discipline Filosofiche*, Volume 11, Number 2.
-
-[^woodward-2000]: 2000–2001, “Carl Stumpf”, *Brentano Studien*, Volume 9.
-
-[^woodward-2000-2]: 2000, *Das Berliner Phonogramm-Archiv*, A. Simon (ed.), Berlin: VWB.
-
-[^woodward-1923]: 1923, *Festschrift Carl Stumpf zum 75. Geburtstag in Dankbarkeit und Verehrung gewidmet*, *Psychologische Forschung*, Volume 4.
