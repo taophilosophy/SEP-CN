@@ -140,3 +140,18 @@
 | equal-ed-opportunity | `Russel Sage Foundation`（reardon-2011 条） | `Russell Sage` | 出版者正名，同页另一条即作 Russell（②） |
 | equal-ed-opportunity | `Erica Weather,` | `Erica Weathers,` | 同页正文两处作 Weathers（②） |
 | equal-ed-opportunity | `Institute for Higher Education, 1998` | `Institute for Higher Education Policy` | 同页正文作全名，机构正名（②） |
+| emilie-du-chatelet | `(Original publication date: 1742.]` | `1742.)` | 括号不配对（①） |
+| emilie-du-chatelet | `Studia Leibnitiana, 2(2):: 114–27` | `2(2): 114–27` | 双冒号（①） |
+| emilie-du-chatelet | `Cirey dans la vie intellectualle`（两条） | `intellectuelle` | 法语拼写（①） |
+| emilie-du-chatelet | `&ldquo;&ldquo;Sancti…nobis&rdquo;. Emilie` | 单引号起、`&rdquo;: Emilie` | 引号重复且题名内应为冒号（①②） |
+| emilie-du-chatelet | `18ᵗʰ Century Persepctives` | `Perspectives` | 拼写（①） |
+| emilie-du-chatelet | `Institut et Musee Voltaire` | `Mus&eacute;e` | 法语重音（①） |
+| emilie-du-chatelet | `Istitut des textes et manuscrit modernes` | `Institut des textes et manuscrits modernes` | 机构正名（①） |
+| emilie-du-chatelet | 正文 `Institutions physique`（1742 年版书名） | `Institutions physiques` | 同页书目作 physiques（②） |
+| emilie-du-chatelet | `Lindberg and Robert S. Westman (ed.)` | `(eds.)` | 两编者（①） |
+| emilie-du-chatelet | `Ruth Hagengruber (eds.)`（hutton 条） | `(ed.)` | 单编者（①） |
+| emilie-du-chatelet | `Eileen O'Neill and Marcy Lascano (ed.)` | `(eds.)` | 两编者（①） |
+| emilie-du-chatelet | `La physique expérimentale ver 1740` | `vers 1740` | 法语拼写（①） |
+| emilie-du-chatelet | `systèmes et hypotheses` | `hypothèses` | 法语重音（①） |
+| emilie-du-chatelet | `Hagengruber, Ruth, 2011` | `2012` | 正文与注 6、9、16 均引 2012，文集为 Springer 2012（②） |
+| emilie-du-chatelet | `–––, 2011, “Between Newton and Leibniz…` | `2012` | 同上，正文引 Hutton 2012, 77–95（②） |

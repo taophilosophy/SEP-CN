@@ -8,7 +8,7 @@
 
 伏尔泰曾隐含地承认她对其 1738 年《牛顿哲学原理》（*Eléments de la philosophie de Newton*）的重大贡献——尤其是在更技术性的材料上。多年来，人们一直相信，夏特莱侯爵夫人一部其余部分已佚的著作仅存一章——她的《光学论稿》（“Essai sur l’optique”，约 1736 年）。这一章藏于圣彼得堡俄罗斯国家图书馆的伏尔泰文书中。从这一论颜色形成的章节判断，这篇早期论稿似乎比伏尔泰书中论光学的章节更为成熟，从而表明她对伏尔泰著作的重大贡献。一个奇妙旁注可见夏特莱研究之活跃：近年来，人们竟发现了《光学论稿》整整 **三部全本**——一部存于巴塞尔伯努利文书（Nagel 2012）[^nagel-2012]，另两部由巴黎书信与手稿博物馆最近购得。1737 年，夏特莱侯爵夫人参加了一场解释火的本质的竞赛；她秘密地做实验，与此同时伏尔泰也为自己的参赛作品做实验。两人的参赛论文都旨在驳斥火是一种物质实体的理论，且都与三位获奖者（包括夺冠的莱昂哈德·欧拉的论文）一道发表。此后她多次重归这一项目，随着其关于火的本质的观点逐步成熟与改变，对原稿作了重要修订。
 
-1738 年，她在《学者杂志》（*Journal des savants*）上发表《就〈牛顿哲学原理〉致读者信》（“Lettre sur les *Eléments de la philosophie de Newton*”），反驳那些接受吸引力的笛卡尔式解释的人。1740 年，她出版了《物理学奠基》（*Institutions de physique*）——表面上是为其子撰写的物理学教科书，实际上是一部极具原创性的自然哲学著作（1742 年第二版的书名微调为 *Institutions physique*）。正是在这部著作——她的 *magnum opus*（巨著）——中，她为她长期接受的牛顿物理学提供了形而上学基础。这一形而上学带有莱布尼茨与沃尔夫的色彩。她为 *force vive*（活力）所作的辩护（她因此在这一问题站到莱布尼茨一边）引出了她其后与让-雅克·多尔图·德·梅朗的争论。1740 年代初的某个时候，她开始着手两卷本的牛顿《原理》翻译与评注。她在完成这项工作后不久去世；该译本直到 1759 年才出版。它至今仍是牛顿这部著作最重要的法文译本。
+1738 年，她在《学者杂志》（*Journal des savants*）上发表《就〈牛顿哲学原理〉致读者信》（“Lettre sur les *Eléments de la philosophie de Newton*”），反驳那些接受吸引力的笛卡尔式解释的人。1740 年，她出版了《物理学奠基》（*Institutions de physique*）——表面上是为其子撰写的物理学教科书，实际上是一部极具原创性的自然哲学著作（1742 年第二版的书名微调为 *Institutions physiques*）。正是在这部著作——她的 *magnum opus*（巨著）——中，她为她长期接受的牛顿物理学提供了形而上学基础。这一形而上学带有莱布尼茨与沃尔夫的色彩。她为 *force vive*（活力）所作的辩护（她因此在这一问题站到莱布尼茨一边）引出了她其后与让-雅克·多尔图·德·梅朗的争论。1740 年代初的某个时候，她开始着手两卷本的牛顿《原理》翻译与评注。她在完成这项工作后不久去世；该译本直到 1759 年才出版。它至今仍是牛顿这部著作最重要的法文译本。
 
 夏特莱侯爵夫人的首要兴趣虽然在自然哲学，但她的兴趣不限于此。她也对伦理学（翻译曼德维尔《蜜蜂的寓言》的部分章节）、神学与圣经（撰有题为《圣经考释》的书）以及人类幸福的源泉（撰有一部半自传性的书《论幸福》）抱有兴趣。她的非科学著作偶尔触及女性的社会角色及其教育问题。
 
@@ -18,7 +18,7 @@
 
 夏特莱侯爵夫人撰写一部牛顿物理学著作的兴趣，很可能在 1736 年前后开始成形——当时伏尔泰正在酝酿自己关于牛顿的著作，最终于 1738 年出版（《牛顿哲学原理》）。在这一项目上，夏特莱侯爵夫人相对于伏尔泰的独特优势是她更精深的数学训练，因为她主动求教并受惠于欧洲几位一流数学家的指导。其中一次求教，对她的自然哲学著作本身、以及她作为原创性思想家之声誉的命运，都产生了重大影响。这就是她与塞缪尔·柯尼希的交往：1739 年柯尼希来到西雷，为夏特莱侯爵夫人讲授数学——就在她受惠于莫佩尔蒂类似指导之后不久（Zinsser 2006, 162）[^zinsser-2006]。
 
-柯尼希对其自然哲学著作的重大——且积极的——影响，源于他把克里斯蒂安·沃尔夫的莱布尼茨式思想带到了法国、带到了夏特莱侯爵夫人面前。这可能促成了夏特莱侯爵夫人项目的一个关键转变：因为单靠牛顿物理学，在她看来已不再是解释自然界种种特征的正确方式。不过，柯尼希的影响也很可能被高估：早在夏特莱与柯尼希开课 **之前**，《物理学奠基》最早版本（下文简称《奠基》）就已获审查官皮托批准；皮托当时就提到，文本已经含有莱布尼茨的思想。[^note-1]尽管如此，在其后来出版的《奠基》版本中，她有可能更加强烈地看到了为牛顿以数学方式极有说服力地描述的那些现象寻找形而上学基础的必要（如 Janik 1982, 93 and 102）[^janik-1982]。于是在 1738 年，夏特莱侯爵夫人撤回了即将付印的《奠基》，以便大规模改写。1740 年出版的最终成品，包括一篇导论，以及论形而上学议题的十章（涉及知识的原则〔第 1 章〕、上帝〔第 2 章〕、空间与时间〔第 5、6 章〕），以及论物质与物体的四章（第 7 至 10 章）。只有在此之后，文本才处理本质上属于牛顿式的物理学。
+柯尼希对其自然哲学著作的重大——且积极的——影响，源于他把克里斯蒂安·沃尔夫的莱布尼茨式思想带到了法国、带到了夏特莱侯爵夫人面前。这可能促成了夏特莱侯爵夫人项目的一个关键转变：因为单靠牛顿物理学，在她看来已不再是解释自然界种种特征的正确方式。不过，柯尼希的影响也很可能被高估：早在夏特莱与柯尼希开课 **之前**，《物理学奠基》最早版本（下文简称《奠基》）就已获审查官皮托批准；皮托当时就提到，文本已经含有莱布尼茨的思想。[^note-1]尽管如此，在其后来出版的《奠基》版本中，她有可能更加强烈地看到了为牛顿以数学方式极有说服力地描述的那些现象寻找形而上学基础的必要（如 Janik 1982, 93、102）[^janik-1982]。于是在 1738 年，夏特莱侯爵夫人撤回了即将付印的《奠基》，以便大规模改写。1740 年出版的最终成品，包括一篇导论，以及论形而上学议题的十章（涉及知识的原则〔第 1 章〕、上帝〔第 2 章〕、空间与时间〔第 5、6 章〕），以及论物质与物体的四章（第 7 至 10 章）。只有在此之后，文本才处理本质上属于牛顿式的物理学。
 
 柯尼希对其作为原创性思想家之声誉的重大——且消极的——影响，源于他在《物理学奠基》出版后指控她剽窃了他的思想。不过，鉴于上述一点——莱布尼茨式思想在她于柯尼希到来之前写就的文本中已然存在——这一指控似乎找错了对象。尽管如此，这一污点以某种形式一直延续到 20 世纪中叶，其时威廉·巴伯（William Barber）断言她的思想“本质上派生”于她的若干男性同时代人，尤其是伏尔泰（Barber 1967）[^barber-1967]。另一些人则为她的观点之原创性辩护；除巴伯之外，自艾拉·韦德（Ira O. Wade）就其智识独立性——又一次特别是独立于伏尔泰——提出细致论证以来，这一解释一直是主导性的（Wade 1947）[^wade-1947]。下文将提供更多证据，支持这一日渐增长的信念：夏特莱侯爵夫人绝非其更有名的男性同时代人观点的鹦鹉。
 
@@ -199,7 +199,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^note-20]: 关于夏特莱侯爵夫人与笛卡尔在假说之于科学方法之作用问题上的交叠与分歧，见 Detlefsen（即将出版）。
 
-[^note-21]: 关于法国国家图书馆（BnF）手稿还能告诉我们什么关于夏特莱侯爵夫人思想演进的更多信息，见（Janiak and Detlefsen，即将出版）。的确，夏特莱侯爵夫人关于假说的工作，构成了 1765 年狄德罗《百科全书》“假说”词条的基础；“假说”词条的很大部分几乎逐字取自她《奠基》第四章。关于《奠基》诸概念在《百科全书》中所起作用的讨论，见 Maglo 2008。
+[^note-21]: 关于法国国家图书馆（BnF）手稿还能告诉我们什么关于夏特莱侯爵夫人思想演进的更多信息，见（Janiak 与 Detlefsen，即将出版）。的确，夏特莱侯爵夫人关于假说的工作，构成了 1765 年狄德罗《百科全书》“假说”词条的基础；“假说”词条的很大部分几乎逐字取自她《奠基》第四章。关于《奠基》诸概念在《百科全书》中所起作用的讨论，见 Maglo 2008。
 
 [^note-22]: 关于这两种假说进路的更多信息——包括开普勒与伽利略等认为两者相容者的理解——见 McMullin 2000, 316–7；以及 Friedman 2008, 71。
 
@@ -236,7 +236,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^du-1740]: –––, *Institutions de physique*, Paris, 1740. [Cited by section number.]
 
-[^du-1988]: –––, *Institutions physiques: Nouvelle edition*, in *Gesammelte Werke* (Abt. 3, Band 28: Materialien und Dokumente), Jean Ecole (ed.), Hildesheim, Zürich, New York: Olms, 1988. (Original publication date: 1742.]
+[^du-1988]: –––, *Institutions physiques: Nouvelle edition*, in *Gesammelte Werke* (Abt. 3, Band 28: Materialien und Dokumente), Jean Ecole (ed.), Hildesheim, Zürich, New York: Olms, 1988. (Original publication date: 1742.)
 
 [^du-1806]: –––, *Lettres inédites de madame de Chastelet à M. le comte d'Argental*, Paris: Déterville, Lenormand, Petit, 1806; reprinted Elbrion Classics, 2005.
 
@@ -250,7 +250,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^newton-1959]: Newton, Isaac, *The Correspondence of Isaac Newton*, 7 volumes, H.W. Turnbull, J.F. Scott, A.R. Hall, and L. Tilling (eds.), Cambridge: Cambridge University Press, 1959–77.
 
-[^voltaire-1968]: Voltaire, *Correspondence and related documents*, Theodore Besterman (ed.), Genève: Institut et Musee Voltaire, 1968–77.
+[^voltaire-1968]: Voltaire, *Correspondence and related documents*, Theodore Besterman (ed.), Genève: Institut et Musée Voltaire, 1968–77.
 
 [^voltaire-1992]: –––, *Eléments de la philosophie de Newton*, Robert L. Walters and W.H. Barber (eds.), Volume 15 of *The Complete Works of Voltaire*, W.H. Barber and Ulla Kölving (gen. eds.), Oxford: University of Oxford Press, 1992. [Original publication 1738.]
 
@@ -278,7 +278,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^della-2010]: Della Rocca, Michael, 2010, “Principle of Sufficient Reason”, *Philosophers' Imprint*, 10(7).
 
-[^detlefsen-nd]: Detlefsen, Karen, forthcoming, “Du Châtelet and Descartes on the Roles of Hypothesis and Metaphysics in Science”, in *Feminism and the History of Philosophy*, Eileen O'Neill and Marcy Lascano (ed.), Dordrecht: Springer Academic Press.
+[^detlefsen-nd]: Detlefsen, Karen, forthcoming, “Du Châtelet and Descartes on the Roles of Hypothesis and Metaphysics in Science”, in *Feminism and the History of Philosophy*, Eileen O'Neill and Marcy Lascano (eds.), Dordrecht: Springer Academic Press.
 
 [^ehrman-1986]: Ehrman, Esther, 1986, *Mme Du Châtelet: Scientist, Philosopher, and Feminist of the Enlightenment*, Leamington Spa: Berg Publishers.
 
@@ -286,19 +286,19 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^friedman-2008]: Friedman, Michael, 2008, “Descartes and Galileo: Copernicanism and the Metaphysical Foundations of Physics”, in *A Companion to Descartes*, Janet Broughton and John Carriero (eds.), Malden, MA: Blackwell, 69–83.
 
-[^gale-1970]: Gale, George, 1970, “The Physical Theory of Leibniz,” *Studia Leibnitiana*, 2(2):: 114–27.
+[^gale-1970]: Gale, George, 1970, “The Physical Theory of Leibniz,” *Studia Leibnitiana*, 2(2): 114–27.
 
 [^garber-1978]: Garber, Daniel, 1978, “Science and Certainty in Descartes”, in *Descartes: Critical and Interpretive Essays*, Michael Hooker (ed.), Baltimore: The Johns Hopkins University Press, 114–51.
 
-[^gireau-geneaux-2001]: Gireau-Geneaux, Annie, 2001, “Mme Du Châtelet entre Leibniz et Newton: matière, force et substance”, in *Cirey dans la vie intellectualle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 173–186.
+[^gireau-geneaux-2001]: Gireau-Geneaux, Annie, 2001, “Mme Du Châtelet entre Leibniz et Newton: matière, force et substance”, in *Cirey dans la vie intellectuelle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 173–186.
 
-[^hagengruber-2011]: Hagengruber, Ruth, 2011, “Emilie Du Châtelet between Leibniz and Newton: The Transformation of Metaphysics”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
+[^hagengruber-2012]: Hagengruber, Ruth, 2012, “Emilie Du Châtelet between Leibniz and Newton: The Transformation of Metaphysics”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
 
 [^hanson-1970]: Hanson, N.R., 1970, “Hypotheses Fingo”, in *The Methodological Heritage of Newton*, Robert E. Butts and John W. Davis (eds.), Toronto: University of Toronto Press, 14–33.
 
 [^harth-1992]: Harth, Erica, 1992, *Cartesian Women: Versions and Subversions of Rational Discourse in the Old Regime*, Ithaca: Cornell University Press.
 
-[^hatfield-1990]: Hatfield, Gary, 1990, “Metaphysics and the New Science”, in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (ed.), Cambridge: Cambridge University Press, 93–166.
+[^hatfield-1990]: Hatfield, Gary, 1990, “Metaphysics and the New Science”, in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (eds.), Cambridge: Cambridge University Press, 93–166.
 
 [^hettche-2008]: Hettche, Matt, 2008, “Christian Wolff”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2008/entries/wolff-christian/](https://plato.stanford.edu/archives/fall2008/entries/wolff-christian/)>.
 
@@ -310,17 +310,17 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^hutton-2004b]: –––, 2004b, “Women, Science, and Newtonianism: Emilie Du Châtelet versus Francesco Algarotti”, in *Newton and Newtonianism*, J.E. Force and S. Hutton (eds.), Dordrecht: Kluwer, 183–203.
 
-[^hutton-2011]: –––, 2011, “Between Newton and Leibniz: Emilie Du Châtelet and Samuel Clarke”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (eds.), London: Springer.
+[^hutton-2012]: –––, 2012, “Between Newton and Leibniz: Emilie Du Châtelet and Samuel Clarke”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
 
 [^iltis-1977]: Iltis, Carolyn, 1977, “Madame Du Châtelet's Metaphysics and Mechanics”, *Studies in the History of Philosophy of Science*, 8(1): 29–48.
 
 [^janiak-2008]: Janiak, Andrew, 2008, *Newton as philosopher*, Cambridge: Cambridge University Press.
 
-[^janiak-nd]: Janiak, Andrew, and Karen Detlefsen, forthcoming, “The Evolution of Chatelet's Natural Philosophy—What the BnF manuscript can tell us about Du Châtelet's intellectual development”, for publication with Istitut des textes et manuscrit modernes, Paris, France.
+[^janiak-nd]: Janiak, Andrew, and Karen Detlefsen, forthcoming, “The Evolution of Chatelet's Natural Philosophy—What the BnF manuscript can tell us about Du Châtelet's intellectual development”, for publication with Institut des textes et manuscrits modernes, Paris, France.
 
 [^janik-1982]: Janik, Linda Gardiner, 1982, “Searching for the metaphysics of science: the structure and composition of madame Du Châtelet's *Institutions de physique*, 1737–1740”, *Studies on Voltaire and the Eighteenth Century*, 201: 85–113.
 
-[^kawashima-1993]: Kawashima, Keiko, 1993, “Les idées scientifiques de Madame du Châtelet dans ses *Institutions de physique*: un rêve de femme de la haute société dans la culture scientifique au Siècle des Lumières” (1^{ère} partie), *Historia Scientiarum*, 3(1): 63–82.
+[^kawashima-1993]: Kawashima, Keiko, 1993, “Les idées scientifiques de Madame du Châtelet dans ses *Institutions de physique*: un rêve de femme de la haute société dans la culture scientifique au Siècle des Lumières” (1ère partie), *Historia Scientiarum*, 3(1): 63–82.
 
 [^lascano-2011]: Lascano, Marcy P., 2011, “Émilie du Châtelet on the Existence and Nature of God: An Examination of Her Arguments in Light of Their Sources”, *British Journal for the History of Philosophy*, 19(4): 741–58.
 
@@ -328,7 +328,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^locqueneux-1995]: Locqueneux, Robert, 1995, “Les *Institutions de physique* de Madame Du Châtelet, ou un traite de paix entre Descartes, Leibniz et Newton”, *Revue du Nord*, 77(312): 859–92.
 
-[^locqueneux-2001]: –––, 2001, “La physique expérimentale ver 1740: expériences, systèmes et hypotheses”, in *Cirey dans la vie intellectualle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 90–111.
+[^locqueneux-2001]: –––, 2001, “La physique expérimentale vers 1740: expériences, systèmes et hypothèses”, in *Cirey dans la vie intellectuelle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 90–111.
 
 [^look-2013]: Look, Brandon C., 2013, “Gottfried Wilhelm Leibniz”, *The Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2013/entries/leibniz/](https://plato.stanford.edu/archives/spr2013/entries/leibniz/)>.
 
@@ -350,13 +350,13 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 [^moriarty-2006]: Moriarty, Paul Veatch, 2006, “The principle of sufficient reason in Du Châtelet's *Institutions*”, in *Émilie Du Châtelet: rewriting Enlightenment philosophy and science*, Judith P. Zinsser and Julie Candler Hayes (eds.), *Studies on Voltaire and the Eighteenth Century*, 1: 203–225.
 
-[^nagel-2012]: Nagel, Fritz, 2012, ““Sancti Bernoulli orate pro nobis”. Emilie Du Châtelet's Rediscovered *Essai sur l'optique* and Her Relation to the Mathematicians from Basel”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
+[^nagel-2012]: Nagel, Fritz, 2012, “Sancti Bernoulli orate pro nobis”：Emilie Du Châtelet's Rediscovered *Essai sur l'optique* and Her Relation to the Mathematicians from Basel”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
 
 [^neeley-1992]: Neeley, Kathryn A., 1992, “Woman as Mediatrix: Women as Writers on Science and Technology in The Eighteenth and Nineteenth Centuries”, *IEEE Transactions on Professional Communication*, 35(4): 208–16.
 
 [^rey-2008]: Rey, Anne-Lise, 2008, “La figure du leibnizianisme dans les *Institutions de physique*”, in *Émilie Du Châtelet: éclairages & documents nouveaux*, Ulla Kölving and Olivier Courcelle (eds.), Paris: Publication du Centre International d'Étude du XVIIIe Siècle 21. Ferney-Voltaire: Centre International d'Étude du XVIIIe Siècle), 231–42.
 
-[^rosenfeld-1972]: Rosenfeld, L., 1972, “Condillac's Influence on French Scientific Thought”, in *The Triumph of Culture: 18ᵗʰ Century Persepctives*, Paul Fritz and David Williams (eds.), Toronto: A.M. Hakkert Ltd.
+[^rosenfeld-1972]: Rosenfeld, L., 1972, “Condillac's Influence on French Scientific Thought”, in *The Triumph of Culture: 18ᵗʰ Century Perspectives*, Paul Fritz and David Williams (eds.), Toronto: A.M. Hakkert Ltd.
 
 [^sakellariadis-1982]: Sakellariadis, Spyros, 1982, “Descartes's use of Empirical Data to Test Hypotheses”, *Isis*, 73(1): 68–76.
 
