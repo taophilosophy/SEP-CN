@@ -117,7 +117,10 @@ def audit_rows(rows, label, queries_root):
             row_out['status'] = '一致' if (mine & theirs) else '不一致'
         else:
             row_out['status'] = '查无'
-        if basis and '维基' in basis:
+        # 维基禁令排查：只标真引用，不标整改记录（2026-11-14：曾把
+        # 「撤除原维基引证」「撤维基措辞」等换源留痕误报为维基来源 4 行）
+        if basis and re.search(r'维基', basis) \
+                and not re.search(r'撤[除原维基措辞引证]{1,6}', basis):
             row_out['wiki'] = True
         out.append(row_out)
     return out, providers
