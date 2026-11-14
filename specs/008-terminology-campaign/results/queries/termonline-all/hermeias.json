@@ -1,0 +1,40 @@
+{
+ "key": "hermeias",
+ "term": "Hermeias",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-14T02:28:20+00:00",
+ "status": "ok",
+ "note": "variant=Hermeias; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "黑水虻堆肥",
+   "en": " Hermetia illucens composting",
+   "code": "11.099",
+   "standard": "农学名词",
+   "subject": "农业环境保护_生态循环农业"
+  },
+  {
+   "cn": "使神号机械臂",
+   "en": "Hermes robot arm,HERA",
+   "code": "19.102",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天机器人"
+  },
+  {
+   "cn": "尼许斯腹股沟疝分型系统",
+   "en": "Nyhus classification of inguinal hernias",
+   "code": "16.187",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_疝与腹壁外科"
+  },
+  {
+   "cn": "赫尔墨斯卫星",
+   "en": "Hermes satellite",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
