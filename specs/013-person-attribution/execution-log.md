@@ -226,3 +226,13 @@
 **拒采 4 条**：`Hao Wang`（GND 作 1993 年生，与 1921–1995 的逻辑学家不合）、`He Yan`（现代同名者，非魏晋玄学家）、`Hermes Trismegistus`（GND 命中 1769–1834 同名者，传说人物无生卒）、`Heytesbury, William`（GND 作 1809 年生，与 14 世纪哲学家不合）。
 **口径校正**：Han Yongun 取“朝鲜／佛教”；Hindemith 取“德国／美国／音乐”（GND 四值首二为瑞士、土耳其，系流亡地）。
 **验收**：硬错误 0；人名缺项 2847 → 2806。
+
+## 2026-11-14 GND L 段（46 行）
+
+**范围**：续取 120 行（Hiż 至 Rohault），命中 48（exact 44／variant 4）、歧义 18、查无 48，采信 46。凭证 `results/verify-2026-11-14-gnd-l.tsv`。
+
+**拒采 2 条**：`Hugo Grotius`（GND 命中 1810–1878 的同名者，键所指为 1583–1645）、`Huan Tan`（命中 1981 年生现代同名者，键所指为汉代桓谭）。
+**口径校正**：Holbach 取“法国／哲学”、Höffe 取“德国／哲学”、Im Yunjidang 取“朝鲜／儒学”；新增阿拉伯、叙利亚、挪威地域映射。
+**留队歧义 18 人**：Hu Shi、Husserl、Hutcheson、Huygens 两人、Jackson、Hooke、Horthy 等。
+
+**验收**：硬错误 0；人名缺项 2806 → 2760。
