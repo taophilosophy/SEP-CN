@@ -7,10 +7,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 8740,
-  "一致": 1314,
-  "不一致": 793,
-  "未查证": 35
+  "查无": 8773,
+  "一致": 1315,
+  "不一致": 794
  },
  "results": [
   {
@@ -117608,9 +117607,9 @@
    "table": "术语",
    "line": 5422,
    "term": "state transition",
-   "trans": "状态转移",
-   "basis": "计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12",
-   "status": "不一致",
+   "trans": "状态转移（亦作“状态转换”）",
+   "basis": "计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12；2026-11-15 补亦作（审定形）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -117737,10 +117736,17 @@
      "cn": "过渡态类似物",
      "en": "transition state analog",
      "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "web-authority",
+     "cn": "状态转换",
+     "en": "state transition",
+     "source": "审定形；计算语义通行“状态转移”"
     }
    ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -136441,9 +136447,11 @@
    "term": "ψ-ontic",
    "trans": "ψ-本体论的",
    "basis": "Harrigan & Spekkens 2010 术语；保留希腊字母；凭证 2026-11-12；原文列联网查证：012 B1 先例：键即原词（ψ 为量子力学波函数记号，非希腊语词）（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-standard"
+   ]
   },
   {
    "table": "术语",
@@ -169757,9 +169765,11 @@
    "term": "Meredith, George",
    "trans": "乔治·梅瑞狄斯",
    "basis": "学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -172511,9 +172521,11 @@
    "term": "Meyer, Jürgen Bona",
    "trans": "于尔根·博纳·迈耶",
    "basis": "学界通行汉译（波恩教授；音译）；生卒联网核验（IEP/Beiser 1829–1897）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -174282,9 +174294,11 @@
    "term": "Niẓām al-Mulk",
    "trans": "尼扎姆·穆尔克",
    "basis": "伊斯兰史通行（《治国策》作者，伊斯法罕天文台庇护人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -175062,8 +175076,21 @@
    "term": "Nietzsche, Friedrich / Friedrich Nietzsche",
    "trans": "弗里德里希·尼采",
    "basis": "学界千年通行；2026-11-13 重复行合并（旧键 `Friedrich Nietzsche`）",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "尼采",
+     "en": "Nietzsche\",\"Friedrich(德国)",
+     "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "尼采",
+     "en": "Nietzsche\",\"Friedrich(德国)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -175482,9 +175509,11 @@
    "term": "Ouseley, Gore",
    "trans": "戈尔·奥色利",
    "basis": "学界惯例音译（驻波斯大使，赠抄本予博德利图书馆）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176021,9 +176050,11 @@
    "term": "Ostwald, Wilhelm",
    "trans": "奥斯特瓦尔德",
    "basis": "学界通行汉译（诺贝尔化学奖得主；音译）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -176211,9 +176242,11 @@
    "term": "Pingala, Acharya",
    "trans": "宾伽罗",
    "basis": "梵学通行音译（《韵律经》作者，帕斯卡三角形印度源头）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -179669,9 +179702,11 @@
    "term": "Qāḍī Abū Naṣr",
    "trans": "卡迪·阿布·纳斯尔",
    "basis": "音译（向海亚姆提出神义论问题者，学界无统一汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -179679,9 +179714,11 @@
    "term": "Qāḍī Nasawī",
    "trans": "卡迪·纳斯维",
    "basis": "音译（《对立性之必然》答问对象，学界无统一汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -179890,9 +179927,11 @@
    "term": "Rossetti, Dante Gabriel",
    "trans": "但丁·加布里埃尔·罗塞蒂",
    "basis": "学界通行汉译（前拉斐尔派创始人之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -179936,9 +179975,11 @@
    "term": "Radcliff",
    "trans": "拉德克利夫",
    "basis": "音译（词条叙述一次性人物，题献中 E.R. 之父）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -181850,9 +181891,11 @@
    "term": "Roux, Wilhelm",
    "trans": "威廉·鲁",
    "basis": "学界通行汉译（胚胎学家；音译）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -182040,9 +182083,11 @@
    "term": "Ruprecht, Emilie",
    "trans": "埃米莉·鲁普雷希特",
    "basis": "音译（布伦塔诺第二任妻子，1897 年成婚）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -182158,9 +182203,11 @@
    "term": "Story, William Edward",
    "trans": "威廉·爱德华·斯托里",
    "basis": "学界惯例音译（哈佛数学家，评介海亚姆代数；与法学家 Joseph Story 异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -182168,9 +182215,11 @@
    "term": "Swinburne, Algernon Charles",
    "trans": "阿尔杰农·查尔斯·斯温伯恩",
    "basis": "学界通行汉译（前拉斐尔派同侪；与哲学家理查德·斯温伯恩异人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -183692,9 +183741,11 @@
    "term": "Schweigger, Elisabeth",
    "trans": "伊丽莎白·施魏格",
    "basis": "音译（书商之女，费英格之妻）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184424,9 +184475,11 @@
    "term": "Shoenfield, Joseph R.",
    "trans": "约瑟夫·舍恩菲尔德",
    "basis": "学界通行汉译（数理逻辑，《数理逻辑》作者）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -184602,9 +184655,11 @@
    "term": "Sikorski, Roman",
    "trans": "罗曼·西科尔斯基",
    "basis": "学界通行汉译（西科尔斯基扩张定理）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -185348,9 +185403,18 @@
    "term": "Solovay, Robert M.",
    "trans": "罗伯特·索洛维",
    "basis": "学界通行汉译（索洛维模型）；凭证 2026-11-13",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "不可测集",
+     "en": "Robert M. Solovay",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -186961,9 +187025,11 @@
    "term": "Sutherland, John",
    "trans": "约翰·萨瑟兰",
    "basis": "学界通行音译（文学研究学者，克拉珀姆派成长环境参照提示人）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -187162,9 +187228,11 @@
    "term": "Tabrizī",
    "trans": "塔布里齐",
    "basis": "音译（《Tarabkhānah》作者，海亚姆卒年异说出处；学界无统一汉名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -187172,9 +187240,11 @@
    "term": "Tait, William W.",
    "trans": "威廉·泰特",
    "basis": "学界通行汉译（证明论与构造性数学，泰特可计算性）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -187338,9 +187408,11 @@
    "term": "Tan Sitong",
    "trans": "谭嗣同",
    "basis": "上游自带汉字（戊戌六君子之一）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -187348,9 +187420,11 @@
    "term": "Tang Yan",
    "trans": "唐晏",
    "basis": "上游自带汉字（本词条引其陆贾师承说）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -187583,9 +187657,11 @@
    "term": "Teichmüller, Oswald",
    "trans": "奥斯瓦尔德·泰希米勒",
    "basis": "学界通行汉译（拟共形映射）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -188850,9 +188926,11 @@
    "term": "Tukey, John W.",
    "trans": "约翰·图基",
    "basis": "学界通行汉译（统计学，图基检验）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -188992,9 +189070,11 @@
    "term": "Tychonoff, Andrey",
    "trans": "安德雷·吉洪诺夫",
    "basis": "学界通行汉译（吉洪诺夫定理）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -189326,9 +189406,11 @@
    "term": "Vaihinger, Johann Georg",
    "trans": "约翰·格奥尔格·费英格",
    "basis": "音译（牧师，费英格之父；从家姓译法）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -192897,9 +192979,11 @@
    "term": "Xun Kuang",
    "trans": "荀况",
    "basis": "上游自带汉字（荀子本名）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -192921,9 +193005,11 @@
    "term": "Yang Hui",
    "trans": "杨辉",
    "basis": "中国数学史通名（《详解九章算法》转述贾宪三角）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -193010,9 +193096,11 @@
    "term": "Yang Liang",
    "trans": "杨倞",
    "basis": "上游自带汉字（《荀子》最早存世注本作者）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -193675,9 +193763,11 @@
    "term": "Zeller, Eduard",
    "trans": "爱德华·策勒",
    "basis": "学界通行汉译（《古希腊哲学史》作者通行）；凭证 2026-11-14",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -193745,9 +193835,11 @@
    "term": "Zhang Cang",
    "trans": "张苍",
    "basis": "上游自带汉字（汉初丞相，荀子门人）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -193986,9 +194078,11 @@
    "term": "Zorn, Max",
    "trans": "马克斯·佐恩",
    "basis": "学界通行汉译（佐恩引理）；凭证 2026-11-13",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -194604,9 +194698,11 @@
    "term": "Zhou Chicheng",
    "trans": "周炽成",
    "basis": "上游自带汉字（现代学者，本词条引其《性恶》作者考）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
