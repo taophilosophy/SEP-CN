@@ -1,0 +1,100 @@
+{
+  "label": "after-checkterms",
+  "registers": {
+    "person": {
+      "azsort_render": "056ea9f249ca4c209ef2183debf9294250e5567c450c6e8b4221dd00faf89625",
+      "buckets": {
+        "A": 289,
+        "B": 359,
+        "C": 317,
+        "D": 202,
+        "E": 110,
+        "F": 164,
+        "G": 245,
+        "H": 297,
+        "I": 51,
+        "J": 165,
+        "K": 185,
+        "L": 227,
+        "M": 370,
+        "N": 98,
+        "O": 62,
+        "P": 279,
+        "Q": 18,
+        "R": 189,
+        "S": 410,
+        "T": 155,
+        "U": 24,
+        "V": 78,
+        "W": 214,
+        "X": 11,
+        "Y": 48,
+        "Z": 55
+      },
+      "folds": {
+        "A_check_terms": "91a36a8c19bb2ce074edee83e9deeee6d1b25fd1ac4088c3934699ea8de5f360",
+        "B_cnki": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616",
+        "B_coverage": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616",
+        "B_flow": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616",
+        "B_harvest": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616",
+        "B_relations": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616",
+        "C_azsort": "878e22d940d2acc05e33cc508fc4bc75deda0528945f1c152880d555cb346616"
+      },
+      "parse": {
+        "digest": "0151bffb9e025cf59657ca0f8c3f18ae9bb50bf44f2f217434ddc493ba66d26c",
+        "row_count": 4622,
+        "warn_count": 0
+      },
+      "row_count": 4622,
+      "sha256": "7072173627bba0f7c02be25315a636c416ef2853609dfdae4547d2365a647ad9"
+    },
+    "term": {
+      "azsort_render": "7558979ce4fc70dc5ac39fcc79c470310cd42c7e16f6f9c1c57ab1858fea5a37",
+      "buckets": {
+        "#": 1,
+        "A": 493,
+        "B": 191,
+        "C": 545,
+        "D": 323,
+        "E": 363,
+        "F": 201,
+        "G": 161,
+        "H": 198,
+        "I": 328,
+        "J": 48,
+        "K": 100,
+        "L": 183,
+        "M": 411,
+        "N": 211,
+        "O": 148,
+        "P": 584,
+        "Q": 62,
+        "R": 260,
+        "S": 721,
+        "T": 339,
+        "U": 105,
+        "V": 134,
+        "W": 95,
+        "X": 13,
+        "Y": 29,
+        "Z": 22
+      },
+      "folds": {
+        "A_check_terms": "af88e530fa7070f58aef918027a36c3f94ab5758d452d60f784bd400f7882cf0",
+        "B_cnki": "daca8bc2d54baf16eb3b2356b54bd362ad6962844ba930a2a27083f5c1951fea",
+        "B_coverage": "daca8bc2d54baf16eb3b2356b54bd362ad6962844ba930a2a27083f5c1951fea",
+        "B_flow": "daca8bc2d54baf16eb3b2356b54bd362ad6962844ba930a2a27083f5c1951fea",
+        "B_harvest": "daca8bc2d54baf16eb3b2356b54bd362ad6962844ba930a2a27083f5c1951fea",
+        "B_relations": "daca8bc2d54baf16eb3b2356b54bd362ad6962844ba930a2a27083f5c1951fea",
+        "C_azsort": "9ecaabe9707326b16d67f0ffd10293ad9a843107fc7e7c65174ac77a91bc0db9"
+      },
+      "parse": {
+        "digest": "519030d78a660cef3dcde6e4a1a5c29ca7fae26a3f9db47f2e1a16c656e2e25a",
+        "row_count": 6269,
+        "warn_count": 0
+      },
+      "row_count": 6269,
+      "sha256": "f85b1ccd27971cd8cc1dc6322f4c5dee503c5db7d349e5eef0359607961fcfdf"
+    }
+  }
+}
