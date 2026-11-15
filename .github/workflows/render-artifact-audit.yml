@@ -25,11 +25,19 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
 
+      - name: 取构建壳的依赖清单（ADR-0055：依赖只在壳仓声明）
+        run: |
+          git clone --depth 1 https://github.com/taophilosophy/taophilosophy.github.io "$RUNNER_TEMP/site"
+          cp "$RUNNER_TEMP/site/package.json" "$RUNNER_TEMP/site/bun.lock" .
+
       - name: 安装依赖
         run: bun install --frozen-lockfile
 
-      - name: 构建站点
-        run: bun run build
+      - name: 构建站点（与壳同款前置步骤 + VitePress）
+        run: |
+          bun .vitepress/prepare-assets.mjs
+          bun .vitepress/prepare-gitstamps.mjs
+          NODE_OPTIONS=--max-old-space-size=12288 bunx vitepress build .
 
       - name: 扫描渲染残留物（裸 **、字面 [^、链接残留、数学哨兵）
         id: scan

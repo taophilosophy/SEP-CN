@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { searchForWorkspaceRoot } from 'vite'
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -556,6 +557,12 @@ export default defineConfig({
       host: '0.0.0.0',
       port: 81,
       strictPort: true,
+      // 本地预览内容仓工作树时常用目录联接（壳 docs/ → 本仓）。Vite 把 root 解析到
+      // 真实路径后，默认 serving allow 只含壳目录，页面模块一律 403；这里把内容仓
+      // 真实根与壳的 workspace 根一并放行（仅 dev 生效，不影响 build）。
+      fs: {
+        allow: [repoRoot, searchForWorkspaceRoot(process.cwd())],
+      },
       watch: {
         // 本仓库所在盘的 ReadDirectoryChangesW 会报 UNKNOWN 错误，改用轮询监听；
         // 2026-10-30（#9）粒度放宽 600→1500ms，降常驻 CPU 占用，热更新延迟上限 1.5s
