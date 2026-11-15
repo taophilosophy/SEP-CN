@@ -466,3 +466,4 @@
 | ---- | ---- | ---- | ---- |
 | zhu-xi | 正文 `and the *Mean* of the the nature endowed in humans by heaven` | 删一 `the` | 冠词重复（①）；句式为 Confucius…Mencius…and the *Mean* of the nature…平行结构，双 `the` 非法 |
 | xenocrates | 研究文献节重复著录 `<li>Isnardi Parente, Margherita, 2012, <em>Senocrate-Ermodoro: Frammenti</em>, Naples: Bibliopolis, 1982 (includes an Italian translation of the fragments); new, revised edition, by T. Dorandi, Pisa: Edizioni della Normale.</li>` | 删除该 `<li>` | 结构错位（③）：同一文献（Frammenti 1982 初版＋2012 Dorandi 修订版）已在原始文献节两条分立著录，研究文献节再整条重复，上游编辑残迹；drift_scan unchanged 证明上游原文如此 |
+| xenocrates | 正文 `see Aronadio-Tulli-Petrucci 2018 and Calchi 2020` | `…Calchi 2023` | 同页自相矛盾（②）：正文 2020 与书目唯一条目 Calchi, V., 2023（*The Theology of the Epinomis*, Routledge）冲突，引称无歧义指该书；015 轮已修书目行 punct/斜体，本轮补正文侧 |
