@@ -237,18 +237,8 @@ html {
   background: var(--vp-c-bg);
 }
 
-/* 对照模式下:全沉浸——顶栏/左侧栏/右目录/页脚全部让位(2026-10-31:
-   用户裁定比较时应隐藏左侧栏与顶部导航;关闭面板后顶栏自然回归) */
-body.bili-mode .VPNavBar,
-body.bili-mode .VPLocalNav,
-body.bili-mode .VPSidebar,
-body.bili-mode .VPDoc .aside,
-body.bili-mode .VPFooter,
-body.bili-mode .sep-footer,
-body.bili-mode .entry-banner {
-  display: none !important;
-}
-
+/* 对照模式下全沉浸的隐藏清单在 vp-compat.css（全站唯一桥接层，specs/037）；
+   此处仅保留对照模式的布局改排 */
 body.bili-mode .VPContent.has-sidebar {
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -409,18 +399,7 @@ body.bili-mode
 }
 
 /* ---------------------------------------- iframe 内隐藏站点框架 ---- */
-
-html.in-iframe .VPSidebar,
-html.in-iframe .VPNavBar,
-html.in-iframe .VPLocalNav,
-html.in-iframe .VPDocAside,
-html.in-iframe .VPDocFooter,
-html.in-iframe .VPFooter,
-html.in-iframe .sep-footer,
-html.in-iframe .entry-banner,
-html.in-iframe .entry-meta {
-  display: none !important;
-}
+/* 隐藏清单在 vp-compat.css（全站唯一桥接层）；此处仅保留镜像页布局改排 */
 
 html.in-iframe .VPContent,
 html.in-iframe .VPDoc {

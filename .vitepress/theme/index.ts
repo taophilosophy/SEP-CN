@@ -7,6 +7,8 @@ import MathTypesetter from './components/MathTypesetter.vue'
 import SepFooter from './components/SepFooter.vue'
 import './custom.css'
 import './sep-theme.css'
+// 兼容桥接层最后加载：全站唯一引用 VitePress 内部类名的文件（specs/037）
+import './vp-compat.css'
 
 // 离线字体：正文用霞鹜文楷屏幕阅读版（LXGW WenKai Screen），
 // 代码用内嵌英文等宽字形的霞鹜文楷等宽（LXGW WenKai Mono）；

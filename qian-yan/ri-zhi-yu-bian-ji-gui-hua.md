@@ -124,3 +124,4 @@
   * 坑：VitePress 2.0-alpha 无 doc-content-before 槽位（doc-top 是 aside 上方全宽位）、layout-bottom 在 VPContent 外无侧栏偏移（页脚会钻到固定侧栏下）、VPNavBar 滚动态类是 isTop 的 top；lxgw-wenkai-webfont 文件名无中间连字符（lxgwwenkai-bold.css），node_modules 更新后旧 dev 服务器不暴露坏导入
   * 验证：dev 浏览器实测截图 8 张存 specs/037/results/（词条浅/深、页脚、首页、双语对照 side 模式含段落同步、bohr-correspondence 公式 111 处全排版、搜索弹窗、移动端 390 贴边测量干净）；侧栏取羊皮纸实底（透明骑渐变顶部对比度不足，SEP 无侧栏属本站适配）
   * 顺带：specs 号二次撞车让位（035 归 entry-pdf 线，本线改 specs/037）；端口 81 遗留旧 dev 服务器核实身份后清理重启
+  * 独立性解耦（用户二次指令）：新建 vp-compat.css 全站唯一桥接层，内部类名引用（顶栏双态/侧栏/目录/沉浸隐藏清单 13 处）全部迁入并头注列清单，升级 VitePress 只复查该文件；主题本体纯自有类＋公开令牌；VitePress 本体经审计零改动

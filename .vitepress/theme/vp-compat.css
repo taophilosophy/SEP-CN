@@ -1,0 +1,149 @@
+/* ============================================================
+   VitePress 兼容桥接层（specs/037）——全站唯一允许引用 VitePress
+   内部类名的文件。主题本体（sep-theme.css / custom.css 组件段 /
+   主题组件 .vue）只使用自有类名与 --vp-* 公开设计令牌。
+   升级 VitePress（尤其 2.0-alpha → 正式版）时只需复查本文件。
+
+   依赖的内部类名清单（按组件分组）：
+   - 顶栏：.VPNavBar（双态类 .top = isTop 滚动判定）、.title、
+     .VPNavBarMenuLink、.VPNavBarHamburger、.VPNavBarAppearance、
+     .VPSocialLink、.VPNavBarSearch .DocSearch-Button
+   - 移动端顶栏：.VPLocalNav
+   - 侧栏：.VPSidebar、.VPSidebarItem.level-N.is-active
+   - 页内目录：.VPDocAsideOutline、.outline-marker
+   - 正文容器：.vp-doc（链接/标题/长文性能块在 custom.css）
+   - 文档容器：.VPDoc（doc-bottom 页脚的 padding-bottom 清零）
+   - 沉浸/镜像隐藏清单：.VPNavBar/.VPLocalNav/.VPSidebar/.VPDoc
+     .aside/.VPFooter/.VPDocAside/.VPDocFooter/.VPContent（见下方
+     bili-mode 与 in-iframe 两段，2026-10-31 用户裁定沉浸隐藏）
+   ============================================================ */
+
+/* ------------------------------------------ 顶栏双态（换肤） ---- */
+/* 页顶（isTop → .top 类）骑在 body 红渐变上文字反白；滚动后换羊皮纸
+   实底，避免正文从透明顶栏下透出 */
+.VPNavBar {
+  box-shadow: none;
+}
+
+.VPNavBar.top {
+  background: transparent;
+  border-bottom: 1px solid rgba(216, 216, 216, 0.35);
+}
+
+.VPNavBar:not(.top) {
+  background: var(--vp-c-bg);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.VPNavBar.top .title,
+.VPNavBar.top .VPNavBarMenuLink,
+.VPNavBar.top .VPNavBarHamburger,
+.VPNavBar.top .VPNavBarAppearance,
+.VPNavBar.top .VPSocialLink {
+  color: #f9f5f3 !important;
+}
+
+.VPNavBar.top .VPNavBarMenuLink:hover,
+.VPNavBar.top .title:hover,
+.VPNavBar.top .VPNavBarAppearance:hover,
+.VPNavBar.top .VPSocialLink:hover {
+  color: #fff !important;
+}
+
+.VPSocialLink svg {
+  fill: currentColor;
+}
+
+/* 本地搜索按钮：浅色药丸（SEP 白底搜索框同款，红带/羊皮纸两态通用） */
+.VPNavBarSearch .DocSearch-Button {
+  background: var(--vp-c-bg-alt);
+  border: 1px solid rgba(216, 216, 216, 0.5);
+}
+
+/* 对照/隐藏侧栏开关按钮（BilingualToggle）：同搜索框的浅色药丸 */
+.VPNavBar .bili-btn {
+  background: var(--vp-c-bg-alt);
+  border: 1px solid rgba(216, 216, 216, 0.5);
+  color: var(--vp-c-text-1);
+}
+
+/* 移动端顶栏：羊皮纸实底防透出 */
+.VPLocalNav {
+  background: var(--vp-c-bg) !important;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+/* ------------------------------------------ 侧栏与页内目录（换肤） ---- */
+/* 侧栏羊皮纸实底＋右发丝线：透明骑渐变时顶部条目对深红带对比度不足，
+   可读性优先（SEP 无侧栏可参照，属本站适配层裁定） */
+.VPSidebar {
+  background: var(--vp-c-bg) !important;
+  border-right: 1px solid var(--vp-c-divider);
+  box-shadow: none;
+}
+
+.VPSidebarItem.level-1.is-active > .item .text,
+.VPSidebarItem.level-0.is-active > .item .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+.VPDocAsideOutline {
+  border-left: none;
+}
+
+.outline-marker {
+  background: var(--vp-c-brand-1);
+}
+
+/* ------------------------------------------ 正文容器（换肤） ---- */
+/* 正文链接 SEP 交互：红链接、悬停变黑加下划线 */
+.vp-doc a {
+  text-decoration: none;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-text-1);
+  text-decoration: underline;
+}
+
+.dark .vp-doc a:hover {
+  color: var(--vp-c-text-1);
+}
+
+/* SEP 标题字重 300（Light）：霞鹜文楷无 300 档，落到 400 防伪细体 */
+.vp-doc h1 {
+  font-weight: 400;
+}
+
+/* doc-bottom 页脚收底：VPDoc 自带 padding-bottom（移动端 6rem）清零，
+   由 SepFooter 自管收底 */
+.VPDoc {
+  padding-bottom: 0;
+}
+
+/* ------------------------------------------ 沉浸/镜像隐藏清单 ---- */
+/* 双语对照模式：全沉浸——顶栏/左侧栏/右目录/页脚全部让位（2026-10-31
+   用户裁定比较时应隐藏左侧栏与顶部导航；关闭面板后顶栏自然回归） */
+body.bili-mode .VPNavBar,
+body.bili-mode .VPLocalNav,
+body.bili-mode .VPSidebar,
+body.bili-mode .VPDoc .aside,
+body.bili-mode .VPFooter,
+body.bili-mode .sep-footer,
+body.bili-mode .entry-banner {
+  display: none !important;
+}
+
+/* 嵌入双语对照 iframe 的镜像页：站点框架全部隐藏，保持原文纯净 */
+html.in-iframe .VPSidebar,
+html.in-iframe .VPNavBar,
+html.in-iframe .VPLocalNav,
+html.in-iframe .VPDocAside,
+html.in-iframe .VPDocFooter,
+html.in-iframe .VPFooter,
+html.in-iframe .sep-footer,
+html.in-iframe .entry-banner,
+html.in-iframe .entry-meta {
+  display: none !important;
+}

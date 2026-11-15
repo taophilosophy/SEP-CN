@@ -14,6 +14,7 @@
 2. **字体**：保留霞鹜文楷正文（离线字体资产不动），SEP 风格不通过换字体表达。
 3. **深浅色**：保留双主题——浅色=SEP 原版式配色，深色=同布局暗色适配。
 4. **架构**（工程裁定）：继续 `extends DefaultTheme` 槽位扩展＋CSS 设计令牌换皮，不自写 Layout——搜索弹窗、移动端菜单、深色切换、侧栏折叠等交互零回退，改动面收敛在 custom.css＋槽位组件。
+5. **独立性**（2026-11-15 用户二次指令“主题与原有 vitepress 独立，尽量避免直接改 vitepress 非配置文件”）：VitePress 本体（node_modules/默认主题）零改动；引用 VitePress 内部类名的规则全部收敛在 `.vitepress/theme/vp-compat.css` 唯一桥接层（内部类名清单见该文件头注），升级 VitePress 只需复查该文件；主题本体（sep-theme.css、custom.css 组件段、主题组件 .vue）只用自有类名＋`--vp-*` 公开设计令牌。
 
 ## 3. 视觉基准（SEP 2013 模板取证）
 

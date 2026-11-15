@@ -28,3 +28,10 @@
 - 404 页 / 触发 `doc-top` 数组槽位的 MathTypesetter 兼容已目验无异常。
 
 **待 build 完成后**：页重护栏核对（词条页 dist 体积基线 +10% 内）、check_all 复跑、提交。
+
+## 2026-11-15 独立性解耦（用户二次指令）
+
+- 指令：“确保主题与原有 vitepress 独立，尽量避免直接改 vitepress 非配置文件”。
+- 审计：VitePress 本体零改动（本会话全部提交落在 config.mts＋theme/ 自有文件；node_modules/vitepress 与默认主题未动）；换肤层有 13 处引用内部类名的选择器。
+- 解耦：新建 `.vitepress/theme/vp-compat.css` 作**全站唯一桥接层**——顶栏双态（VPNavBar.top/VPLocalNav）、侧栏（VPSidebar）、页内目录（VPDocAsideOutline）、正文容器（vp-doc 链接/标题）、VPDoc padding 清零、bili-mode 与 in-iframe 两张沉浸隐藏清单全部迁入，文件头注列全依赖的内部类名清单；sep-theme.css 瘦身为纯自有类（body 渐变＋entry-*＋sep-footer）；custom.css 两张隐藏清单迁出后仅存 .vp-doc 性能块与 bili 布局改排（既有特性内聚，不动）；index.ts 桥接层最后加载。
+- 验证：dev 重启后词条页计算样式逐项核对（nav 透明+top 类、footer #f9f5f3、sidebar #f2ece8、banner/meta/footer 在位）＋截图目验，与解耦前渲染一致。
