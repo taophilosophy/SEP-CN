@@ -756,7 +756,7 @@ outline: [1, 6]
 * [亚历克修斯·迈农 Alexius Meinong (Johann Marek)](m/meinong.md)
 * [克里斯蒂安·冯·厄棱费尔 Christian von Ehrenfels (Robin Rollinger、Carlo Ierna)](e/ehrenfels.md)
 * [埃德蒙德·胡塞尔 Edmund Husserl (Dan Zahavi)](h/husserl.md)
-* [卡济梅尔兹·塔多斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
+* [卡齐米日·特瓦尔多夫斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
 * [马克斯·舍勒 Max Scheler (Zachary Davis、Anthony Steinbock)](s/scheler.md)
 * [伊迪丝·兰德曼-卡利舍尔 Edith Landmann-Kalischer (Daniel Dahlstrom)](l/landmann-kalischer.md)
 * [马丁·海德格尔 Martin Heidegger (Mark Wrathall)](h/heidegger.md)

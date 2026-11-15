@@ -2135,7 +2135,7 @@
 | Jesus | — | 耶稣 | — | — | william-jevons | 学界千年通行译名 | 2026-11-07 |
 | Jesus of Nazareth | — | 拿撒勒人耶稣 | — | — | god-necessary-being | 《圣经》和合本通行译名（非历史年表人物，经文引文语境） | 2026-11-09 |
 | Jevons, Thomas | — | 托马斯·杰文斯 | — | — | william-jevons | 构词直译（杰文斯之父，铁商）；凭证 2026-11-07 | 2026-11-07 |
-| Jevons, William Stanley / William Stanley Jevons | — | Jevons | — | — | lvov-warsaw；leibniz-logic-influence | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `William Stanley Jevons`） | 2026-11-13 |
+| Jevons, William Stanley / William Stanley Jevons | — | 威廉·斯坦利·杰文斯（行文 lvov-warsaw／leibniz-logic-influence 语境保留英文 Jevons） | — | — | william-jevons；lvov-warsaw；leibniz-logic-influence | 学界通行汉译（商务印书馆汉译名著《政治经济学理论》郭大力译本署“杰文斯”，2026-11-15 联网查证）；原“无通行汉名”判定撤销（w/william-jevons 题名与正文 29 处汉译在先）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `William Stanley Jevons`）；2026-11-15 主形按词条题名改汉译（SUMMARY 对账） | 2026-11-15 |
 | Jha, Ganganatha | — | Ganganatha Jha（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（《正理经》英译者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Ji Kang | — | 嵇康 | 中国（三国魏） | 223–262 | xunzi | 上游自带汉字（竹林七贤之一） | 2026-11-14 |
 | Ji Yun | — | 纪昀 | — | — | dai-zhen | 上游自带汉字；学界通行（四库馆总纂官）；凭证 2026-11-07 | 2026-11-07 |
@@ -2518,7 +2518,7 @@
 | Leopold, Aldo | — | 奥尔多·利奥波德 | — | — | environmental-aesthetics | 学界通行（《沙乡年鉴》中译本） | 2026-11-08 |
 | Leslie Pincus | — | Leslie Pincus | — | — | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Leslie, Alan | — | 艾伦·莱斯利 | 英国 | 1944– | innateness-cognition | 音译（心理理论模块）；凭证 2026-11-12 | 2026-11-12 |
-| Leśniewski, Stanisław / Stanisław Leśniewski | Stanisław Leśniewski | Stanisław Leśniewski | — | — | lvov-warsaw；reism | 本库惯例保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Stanisław Leśniewski`） | 2026-11-13 |
+| Leśniewski, Stanisław / Stanisław Leśniewski | Stanisław Leśniewski | 斯坦尼斯瓦夫·莱什涅夫斯基（行文 lvov-warsaw／reism 语境保留英文 Stanisław Leśniewski；学界文献亦作“莱希涅夫斯基”） | — | — | lesniewski；lvov-warsaw；reism | 学界惯例（华沙逻辑学派奠基人，塔斯基之师）；通行异形“莱希涅夫斯基”联网查证（2026-11-15）；本库题名形定主形（l/lesniewski H1），原“保留英文”裁定降为行文另形；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Stanisław Leśniewski`）；2026-11-15 主形按词条题名改汉译（SUMMARY 对账） | 2026-11-15 |
 | Lessig, Larry | — | 拉里·莱西格 | 美国 | 1961– | it-moral-values | 学界通行汉译（《代码》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Lessing, Gotthold Ephraim / Gotthold Ephraim Lessing | Gotthold Ephraim Lessing | 戈特霍尔德·埃弗拉伊姆·莱辛 | 德国／启蒙文学与哲学 | 1729–1781 | schlegel；august-rehberg | 学界千年通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Gotthold Ephraim Lessing`） | 2026-11-13 |
 | Leucippus | — | 留基伯 | — | — | leucippus | 学界通行汉译（古希腊原子论奠基者，与德谟克利特并称）；待 specs/008 审定库复核 | 2026-11-03 |

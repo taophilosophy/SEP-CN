@@ -2658,7 +2658,7 @@
 * [图灵机 Turing Machines (Liesbeth De Mol)](t/turing-machine.md)
 * [图灵测试 The Turing Test (Graham Oppy、David Dowe)](t/turing-test.md)
 * [*乔治·特恩布尔——见苏格兰哲学：18 世纪苏格兰哲学 Turnbull, George — see Scottish Philosophy in the 18th Century](s/scottish-18th.md)
-* [卡济梅尔兹·塔多斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
+* [卡齐米日·特瓦尔多夫斯基 Kazimierz Twardowski (Arianna Betti)](t/twardowski.md)
 * [印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)](t/twotruths-india.md)
 * [西藏的“二谛”理论 The Theory of Two Truths in Tibet (Sonam Thakchoe)](t/twotruths-tibet.md)
 * [类型与个例 Types and Tokens (David Liebesman)](t/types-tokens.md)
