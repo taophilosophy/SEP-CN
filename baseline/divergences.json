@@ -1531,15 +1531,15 @@
       "slug": "xenocrates",
       "path": "en/xenocrates/index.html",
       "upstream_sha256": "55c476502fa10412f85b5fb498ff93c61006477f6626b38b139cb970f567cc87",
-      "local_sha256": "f5cd2ccb037d1740e07c709cb3eba9a004cf8e891bcf6c99a0c159ea6de104cd",
+      "local_sha256": "a6e97652dbc7ee8787f872e81dc9d52afb3b921db59f46b3ed5f1864eff17e85",
       "bytes": {
         "upstream": 61932,
-        "local": 61536
+        "local": 61537
       },
-      "commit": "36be8336a7b18143260a0d5389ecfce490889c28",
-      "subject": "en 勘误：xenocrates 正文 Calchi 2020→2023（②类）；015 轮书目斜体拼写标点（①②）；回炉轮研究文献节重复著录删一（③类）",
+      "commit": "19d4f05265dab5b6f8c3f8e0786ef4bfb76e888a",
+      "subject": "en 勘误：xenocrates 正文 Fleisher→Fleischer（②类）；此前两轮：Calchi 2020→2023（②类）、研究文献节重复著录删一（③类）；015 轮书目斜体拼写标点（①②）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
-      "reason": "累计三轮：015 偿还书目斜体拼写标点（①②）；回炉 s2.5 增项删研究文献节整条重复著录（③类结构错位）；回炉 r1 补正文 Calchi 2020→2023（②类同页自相矛盾）",
+      "reason": "累计四轮：015 偿还书目斜体拼写标点（①②）；回炉删研究文献节整条重复著录（③类）；回炉补正文 Calchi 2020→2023（②类）；回炉补正文 Fleisher→Fleischer（②类）",
       "registered_at": "2026-11-15T03:36:26Z"
     },
     {
