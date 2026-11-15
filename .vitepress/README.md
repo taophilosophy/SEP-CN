@@ -65,6 +65,12 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * 构建（build）：`vitepress-plugin-pagefind` + `chineseSearchOptimize`，产出静态全文索引。
 * 开发（dev）：无 pagefind 产物，退回 VitePress 内置 MiniSearch；站点自定义 `*_splitIntoSections`——剥离公式哨兵，单节上限 1500 字符、单页上限 3500 字符（原文库 2300+ 页、正文约 240 MB，整页索引会超出 V8 字符串上限）。
 
+## 分块体积（2026-11-16 实测）
+
+* 依赖块很小：framework 111 KB、theme 101 KB、littlefoot 7 KB（未压缩）。
+* 超过 500 KB 警告线的全是「数据体积」块，且 2.0 无拆分手段：`chunks/metadata` 1.2 MB（`__VP_HASH_MAP__` 全站路由哈希表＋站点数据；metaChunk 自 2.0.0-alpha.19 起默认开启，页面元数据已按页拆出）、`chunks/assets` 1.0 MB（全站图片 URL 映射）、登记册与超长词条的单页模块（`shu-yu-biao` 1.3 MB 等）。
+* 因此 `config.mts` 的 `vite.build.chunkSizeWarningLimit` 定为 1600（默认 500），并在配置里写明豁免依据；低于 1600 的块仍正常告警。`manualChunks` / `rolldownOptions.codeSplitting` 只能重排依赖，对上述块无效。
+
 ## 主题与字体
 
 * 入口 `.vitepress/theme/index.ts`：`extends: DefaultTheme`，槽位注入 `BilingualToggle`（`nav-bar-content-after`）、`MathTypesetter` 与 `EntryMatter`（`doc-top`）、`SepFooter`（`doc-bottom`）、`FootnoteEnhance`（`layout-bottom`），并导入 `custom.css`、`sep-theme.css`、`vp-compat.css`。
