@@ -307,7 +307,7 @@ Continuing this line of thought a bit later in the manuscript, Yorck insists tha
 
 [^fagniez-2013]: Fagniez, Guillaume, 2013, "Comprendre l’historicité: Heidegger et la correspondance de Dilthey et Yorck," in T. Keiling (ed.), *Heideggers Marburger Zeit: Themen, Argumente, Konstellationen*, Frankfurt: Vittorio Klostermann, pp. 269-288.
 
-[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp.23–69.
+[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp. 23–69.
 
 [^fetscher-1991]: Fetscher, Iring, 1991 (2nd edition), 1956 (1st edition), “Einleitung” in Graf Paul Yorck von Wartenburg, *Bewusstseinsstellung und Geschichte*, Iring Fetscher (ed.), Hamburg: Felix Meiner Verlag, pp. xix–xlvii.
 
