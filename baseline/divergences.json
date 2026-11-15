@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T00:35:55Z",
+  "updated_at": "2026-11-15T00:49:27Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1316,6 +1316,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Carter 引号空格与逗号、Jarczewski 期刊斜体、Goldman 标点、DeRose 空格、Pritchard 连字符与句点、Turri 句点与 URL（ADR-0038 ①）",
       "registered_at": "2026-11-15T00:35:55Z"
+    },
+    {
+      "slug": "aristotle-causality",
+      "path": "en/aristotle-causality/index.html",
+      "upstream_sha256": "04b7a191a38c6d25582a9caaa8eb3daf9b536160f142147b8dfd8cdf7d6c569a",
+      "local_sha256": "31eb9480ef9bbc52f0b8bcc42f5857222d9f1e5e003731a347aea8f66f2698b8",
+      "bytes": {
+        "upstream": 71363,
+        "local": 71385
+      },
+      "commit": "5a56f7dcc",
+      "subject": "015 偿还 aristotle-causality：英文括注、术语表去重与书目勘误（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：PRactice/Cambrdige/Phyiscs/Houskeeper、Bradie 姓名年份、4th Symposium、101: 791、Aristotle’s Biology×2、逗号空格×3、引号空格×2、Stein 2021 句点、Judson 双标点、Furley ’s（ADR-0038 ①）",
+      "registered_at": "2026-11-15T00:49:27Z"
     }
   ],
   "tombstones": [
