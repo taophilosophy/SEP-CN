@@ -31,9 +31,9 @@
 可能的集合代表知识状态。上例中，$\{ \bar{p} \bar{q} \bar{r}, p \bar{q} \bar{r}, \bar{p} q \bar{r}, \bar{p} \bar{q} r, pq \bar{r}, p \bar{q} r, \bar{p} qr, pqr \}$ 代表对命题 $p, q, r$ 全然无知的状态；$\{ pq \bar{r} \}$ 这样的单元集代表对它们的完全知识；空集 $\varnothing$ 则代表处理 $p, q$ 与 $r$ 的不相容陈述后陷入的不一致状态。下面我们逐一列出命题语言诸陈述的动态意义：
 
 - 原子陈述：即 $p, q, r$。相应的更新行动，是从当前语境中选出字母未被打杠（加横线）的那些可能。
-- 否定陈述：形如 $\neg \phi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 陈述所选可能集之补集的那些可能。
-- 陈述的合取：形如 $\phi \wedge \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 陈述与 $\psi$ 陈述对当前语境所作选择之交的那些可能。
-- 陈述的析取：形如 $\phi \vee \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 陈述与 $\psi$ 陈述所作选择之并的那些可能。
+- 否定陈述：形如 $\neg \phi$。相应的更新行动，是从当前语境中选出构成 *φ* 陈述所选可能集之补集的那些可能。
+- 陈述的合取：形如 $\phi \wedge \psi$。相应的更新行动，是从当前语境中选出构成 *φ* 陈述与 *ψ* 陈述对当前语境所作选择之交的那些可能。
+- 陈述的析取：形如 $\phi \vee \psi$。相应的更新行动，是从当前语境中选出构成 *φ* 陈述与 *ψ* 陈述所作选择之并的那些可能。
 
 由此，命题联结词的意义成为这样一类操作：从代表某一知识状态的旧语境，转到代表处理命题信息后所得知识状态的新语境。
 
@@ -57,9 +57,9 @@ $$ \begin{array}{|c|c|}\hline x & 117 \\\hline y & 12 \\\hline z & 12 \\\hline \
 
 “存在 $x$”与测试“$A$”两个部分由顺序复合粘合为一体：“$\exists x$; $A$”。单看“$\exists x$”部分，它的自然意义是什么？一条指令——用某个任意新值替换 $x$ 的旧值。这同样是输入状态与输出状态之间的关系；与 $x := y$ 这类确定赋值的差别在于，此时该关系不是函数。事实上，量词的这种关系性意义正体现在人所共知的一阶逻辑塔斯基式真值定义之中（比较塔斯基的真值定义词条）：
 
-> $\exists x\phi$ 在模型 $M$ 中相对于变元指派 $\alpha$ 为真，当且仅当：存在某个变元指派 $\beta$，$\beta$ 与 $\alpha$ 至多在指派给 $x$ 的值上不同，且 $\phi$ 在 $M$ 中相对于指派 $\beta$ 为真。
+> $\exists x\phi$ 在模型 $M$ 中相对于变元指派 *α* 为真，当且仅当：存在某个变元指派 *β*，*β* 与 *α* 至多在指派给 $x$ 的值上不同，且 *φ* 在 $M$ 中相对于指派 *β* 为真。
 
-塔斯基定义中隐含着一个关系：它成立于指派 $\alpha$ 与 $\beta$ 之间，当且仅当对一切异于 $x$ 的变元 $y$ 都有 $\alpha(y) = \beta(y)$。这一关系常被称为“x 的随机重置”（*random reset of x*），记作 [$x$]。对任意变元 $x$，全指派之间的二元关系 [$x$] 都是等价关系——即自反、对称且传递的二元关系。下文将看到，这类关系如何在一阶谓词逻辑的动态化版本中发挥作用。
+塔斯基定义中隐含着一个关系：它成立于指派 *α* 与 *β* 之间，当且仅当对一切异于 $x$ 的变元 $y$ 都有 $\alpha(y) = \beta(y)$。这一关系常被称为“x 的随机重置”（*random reset of x*），记作 [$x$]。对任意变元 $x$，全指派之间的二元关系 [$x$] 都是等价关系——即自反、对称且传递的二元关系。下文将看到，这类关系如何在一阶谓词逻辑的动态化版本中发挥作用。
 
 若取 [$x$] 作为 “$\exists x$” 的意义，须注意：其性质与测试迥然不同——它会在输出语境中产生新值。相比之下，测试式更新所得到的输出语境总是输入语境的子集，因而相对于输入语境永远不可能含有任何新内容。
 
@@ -99,7 +99,7 @@ $x$ 的最后一次出现未被约束——在经典谓词逻辑中，我们并�
 
 $$\exists x(\psi \wedge \phi) \textrm{ 当且仅当 } \exists x(\psi)\wedge \phi$$
 
-在这种自然语言动态语义中，句子的意义不再对应一组真值条件，而对应于施加在语境上的行动。行动分两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是测试（*tests*）：它们只检查当前语境中每个状态/指派给 $x$ 的值是否满足相关谓词；当且仅当满足，测试便把未经改变的指派传递到输出语境。相比之下，存在量词不是测试——它有能力随机重置其相关变元的值，从而改变语境。于是，$\exists x(\psi)$ 取一个语境，随机改变其中每个指派上 $x$ 的值，若这些改动后的指派还满足测试 $\psi$ 所贡献的条件，便把它们传递到输出语境。
+在这种自然语言动态语义中，句子的意义不再对应一组真值条件，而对应于施加在语境上的行动。行动分两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是测试（*tests*）：它们只检查当前语境中每个状态/指派给 $x$ 的值是否满足相关谓词；当且仅当满足，测试便把未经改变的指派传递到输出语境。相比之下，存在量词不是测试——它有能力随机重置其相关变元的值，从而改变语境。于是，$\exists x(\psi)$ 取一个语境，随机改变其中每个指派上 $x$ 的值，若这些改动后的指派还满足测试 *ψ* 所贡献的条件，便把它们传递到输出语境。
 
 这一语义的主要推论之一：存在量词的辖域原则上不受限制。它改变某变元的值；在该变元再次变化之前，任何后续测试访问的都是这次设置的特定值。这也意味着，存在量化的语义可以完全抛开辖域来给出：$\exists x$ 的意义是这样一种行动——取一个语境，返回同一语境，只是其中 $x$ 的值至多被随机替换为另一个值。（下文将详细展开。）
 
@@ -111,15 +111,15 @@ $$\exists x(\psi \wedge \phi) \textrm{ 当且仅当 } \exists x(\psi)\wedge \phi
 
 上一小节初步窥见了动态语义框架的基本目标：定义一种逻辑语义，使陈述表达行动；具体说，使存在量化有能力重置变元，从而*changing*（改变）语境。如何做到这一点？线索来自对普通谓词逻辑中存在量化定义的考察。设我们使用固定变元集 $\textsf{VAR}$ 在固定论域 $D$ 上的全指派，则全指派之集 $\textsf{ASSIGN}$ 便是从 $\textsf{VAR}$ 到 $D$ 的所有（全）函数之集。
 
-令 $P(x)$ 这类原子公式的意义为集合 $F$：一切使 $\alpha(x)$ 为满足 $P$ 之对象的指派 $\alpha$ 的集合。
+令 $P(x)$ 这类原子公式的意义为集合 $F$：一切使 $\alpha(x)$ 为满足 $P$ 之对象的指派 *α* 的集合。
 
 现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“指派 $\beta$ 是（至多）重置指派 $\alpha$ 中变元 $x$ 之值的结果”。如前所述，这是变元指派上的等价关系。$\exists x P(x)$ 的意义 $G$ 便是：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ 也就是说，$G$ 是这样一些指派的集合：对 $x$ 重置成功，且经此重置得到 $F$ 中的指派。换个角度看，$G$ 恰是下述关系 $R$ 的定义域（*the domain of*）：$$\alpha R\beta := \alpha[x]\beta \textrm{ 且 } \beta \in F. $$
 
-可以说，$G$ 是重置行动 $R$ 的前置条件。$\textsf{DPL}$ 的想法在于：$\exists x P(x)$ 的意义不取前置条件 $G$（经典静态一阶逻辑的做法），而取重置行动 $R$。如此并不损失信息——$G$ 总能从 $R$ 重新得到。再者，关系 $R$ 的值域由这样一些指派 $\beta$ 组成：与前置条件 $G$ 中的指派相比，其差异至多在 $x$ 的值上，且也在 $F$ 中（即 $\beta(x)$ 属于 $P$ 的解释）。二元关系 $R$ 值域中存储的 $x$ 值，恰是满足 $P$ 的那些 $x$ 值——即我们要找的值。
+可以说，$G$ 是重置行动 $R$ 的前置条件。$\textsf{DPL}$ 的想法在于：$\exists x P(x)$ 的意义不取前置条件 $G$（经典静态一阶逻辑的做法），而取重置行动 $R$。如此并不损失信息——$G$ 总能从 $R$ 重新得到。再者，关系 $R$ 的值域由这样一些指派 *β* 组成：与前置条件 $G$ 中的指派相比，其差异至多在 $x$ 的值上，且也在 $F$ 中（即 $\beta(x)$ 属于 $P$ 的解释）。二元关系 $R$ 值域中存储的 $x$ 值，恰是满足 $P$ 的那些 $x$ 值——即我们要找的值。
 
 更一般地，我们取指派之间的二元关系（*binary relations*）为 $\textsf{DPL}$-意义。这类关系可视为（对）重置行动（*resetting actions*）的建模。这是建模行动的一种惯用法——简单得近乎朴素，却广为人知且实用：行动被看作行动之前的世界状态与行动之后相应状态之间的关系。
 
-以下是完整定义。设非空论域 $D$、变元集 $\textsf{VAR}$，以及基调为 $\Sigma$ 的模型 $\mathcal{M}=\langle D, I\rangle$。原子条件 $\pi$ 形如 $P(x_0 , \ldots ,x_{n-1})$，其中 $P\in \Sigma$ 元数为 $n$；原子重置 $\varepsilon$ 形如 $\exists v$，$v$ 为变元。$\Sigma$ 上的谓词逻辑语言由下式给出（$\cdot$ 为合取，${\sim}$ 为否定）：
+以下是完整定义。设非空论域 $D$、变元集 $\textsf{VAR}$，以及基调为 *Σ* 的模型 $\mathcal{M}=\langle D, I\rangle$。原子条件 *π* 形如 $P(x_0 , \ldots ,x_{n-1})$，其中 $P\in \Sigma$ 元数为 $n$；原子重置 *ε* 形如 $\exists v$，$v$ 为变元。*Σ* 上的谓词逻辑语言由下式给出（$\cdot$ 为合取，${\sim}$ 为否定）：
 
 $$ \phi ::= \bot \mid \top \mid \pi \mid \varepsilon \mid \phi \cdot \phi \mid {\sim}(\phi). $$
 
@@ -129,8 +129,8 @@ $$ \phi ::= \bot \mid \top \mid \pi \mid \varepsilon \mid \phi \cdot \phi \mid {
 - $\alpha[\top]\beta := \alpha = \beta$。
 - $\alpha[P(x_0 , \ldots ,x_{n-1})]\beta := \alpha = \beta$，且 $\langle \alpha(x_0), \ldots ,\alpha(x_{n-1})\rangle \in I(P)$；此处 $P\in \Sigma$ 的元数为 $n$。
 - $\alpha[\exists v]\beta := \alpha[v]\beta$
-- $\alpha[\phi \cdot \psi]\beta :=$ 存在 $\gamma$，使 $\alpha[\phi]\gamma$ 且 $\gamma[\psi]\beta$；简记为 $\alpha[\phi]\gamma[\psi]\beta$。
-- $\alpha[{\sim}(\phi)]\beta := \alpha = \beta$，且不存在 $\gamma$ 使 $\alpha[\phi]\gamma$。
+- $\alpha[\phi \cdot \psi]\beta :=$ 存在 *γ*，使 $\alpha[\phi]\gamma$ 且 $\gamma[\psi]\beta$；简记为 $\alpha[\phi]\gamma[\psi]\beta$。
+- $\alpha[{\sim}(\phi)]\beta := \alpha = \beta$，且不存在 *γ* 使 $\alpha[\phi]\gamma$。
 
 注意：合取 $\cdot$ 解释为关系复合；否定 ${\sim}$ 则基本上解释为取补——相对于被否定公式所表关系的定义域取补。
 
@@ -140,13 +140,13 @@ $$\alpha \vDash \phi := \exists \beta\ \alpha[\phi]\beta.$$
 
 蕴涵 $\phi \rightarrow \psi$ 可定义为 ${\sim}(\phi \cdot {\sim}\psi)$。将真值定义应用于此，得：
 
-> $\alpha \vDash \phi \rightarrow \psi \textrm{ 当且仅当 } \forall \beta(\alpha[\phi]\beta \Rightarrow \beta \vDash \psi)$：即任何由前件 $\phi$ 更新 $\alpha$ 而得的指派 $\beta$，都满足后件 $\psi$。
+> $\alpha \vDash \phi \rightarrow \psi \textrm{ 当且仅当 } \forall \beta(\alpha[\phi]\beta \Rightarrow \beta \vDash \psi)$：即任何由前件 *φ* 更新 *α* 而得的指派 *β*，都满足后件 *ψ*。
 
 关系意义还给出如下漂亮的动态衍推定义：
 
 $$\phi \vDash \psi := \forall \alpha , \beta(\alpha[\phi]\beta \Rightarrow \exists \gamma \beta[\psi]\gamma).$$
 
-这一定义由汉斯·坎普在其开创性论文（Kamp 1981）中首次引入。非形式地说：任何已并入 $\phi$ 所贡献之更新的指派 $\beta$，都保证支持/满足 $\psi$。
+这一定义由汉斯·坎普在其开创性论文（Kamp 1981）中首次引入。非形式地说：任何已并入 *φ* 所贡献之更新的指派 *β*，都保证支持/满足 *ψ*。
 
 注意：${\sim}\phi$ 等价于 $(\phi \rightarrow \bot)$；$(\phi \rightarrow \psi)$ 为真，当且仅当 $\phi \vDash \psi$。同样重要的是，$\forall x (\phi)$ 可定义为 $(\exists x \rightarrow \phi)$。
 
@@ -160,9 +160,9 @@ $\exists v$ 的一种可行替代记法是 [$v := ?$]（随机重置），以凸
 - $(\phi \wedge \psi)^* := \phi^* \cdot \psi^*$
 - $(\exists x(\phi))^* := \neg \neg(\exists x \cdot \phi^*)$
 
-由此得到：$[\phi^*]$ 是 $\phi$ 的经典解释的对角线。这一翻译是组合性的，它表明 FOL 可取作 $\textsf{DPL}$ 的一个片段（*fragment*）。
+由此得到：$[\phi^*]$ 是 *φ* 的经典解释的对角线。这一翻译是组合性的，它表明 FOL 可取作 $\textsf{DPL}$ 的一个片段（*fragment*）。
 
-反过来，任何 $\textsf{DPL}$-公式 $\phi$ 皆可翻译为谓词逻辑公式 $\phi$°，使 $[\phi]$ 的定义域恰为 $\phi$° 的经典解释。定义这一翻译的途径之一，是借助带 Floyd-Hoare 规则的前置条件演算（Eijck and de Vries 1992）[^eijck-1992]；下面是它的一个变体。取标准谓词逻辑的语言，增添菱形模态 $\langle \psi \rangle \phi$：$\psi$ 遍历 DPL 公式，而 $\alpha \vDash \langle \psi \rangle \phi$ 当且仅当存在指派 $\beta$ 使 $\alpha[\psi]\beta$ 且 $\beta \vDash \phi$。下列等价式表明，这一扩张并不增加表达能力。
+反过来，任何 $\textsf{DPL}$-公式 *φ* 皆可翻译为谓词逻辑公式 *φ*°，使 $[\phi]$ 的定义域恰为 *φ*° 的经典解释。定义这一翻译的途径之一，是借助带 Floyd-Hoare 规则的前置条件演算（Eijck and de Vries 1992）[^eijck-1992]；下面是它的一个变体。取标准谓词逻辑的语言，增添菱形模态 $\langle \psi \rangle \phi$：*ψ* 遍历 DPL 公式，而 $\alpha \vDash \langle \psi \rangle \phi$ 当且仅当存在指派 *β* 使 $\alpha[\psi]\beta$ 且 $\beta \vDash \phi$。下列等价式表明，这一扩张并不增加表达能力。
 
 - $\langle \bot \rangle \phi \leftrightarrow \bot$。
 - $\langle \top \rangle \phi \leftrightarrow \phi$。
@@ -258,9 +258,9 @@ $$ \begin{array}{l} (\langle(\exists x \cdot Fx \cdot \exists y \cdot Dy \cdot H
 
 固定一组基本命题 $P$ 与一组主体 $I$，则 $P$ 与 $I$ 的一个知识状态包含：一个可能世界之集 $W$；一个赋值函数 $V$，给 $W$ 中每个 $w$ 指派 $P$ 的一个子集（若 $w \in W$，则 $V(w)$ 列出在 $w$ 中为真的基本命题）；以及对每个主体 $i \in I$ 的一个关系 $R_i$，陈述 $i$ 的认知相似性（若 $wR_i w'$，则主体 $i$ 无法把世界 $w$ 与世界 *w$'$* 区分开）。认知模型 $M = (W, V, \{R_i \mid i \in I\})$ 通称多模态克里普克模型；点式认知模型则是带有指定世界 $w_0$（代表现实世界）的认知模型。
 
-给定认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$，公开宣告 $\phi$ 之后会发生什么？直观上，$M$ 的世界集 $W$ 被限制到 $\phi$ 成立的那些世界 $w \in W$，赋值函数 $V$ 与认知关系 $R_i$ 也相应受限。新模型记作 $M\mid\phi$。若 $\phi$ 在 $w_0$ 中为真，公共宣告 $\phi$ 的意义可看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的一个映射；若 $\phi$ 在 $w_0$ 中为假，则更新无从谈起。
+给定认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$，公开宣告 *φ* 之后会发生什么？直观上，$M$ 的世界集 $W$ 被限制到 *φ* 成立的那些世界 $w \in W$，赋值函数 $V$ 与认知关系 $R_i$ 也相应受限。新模型记作 $M\mid\phi$。若 *φ* 在 $w_0$ 中为真，公共宣告 *φ* 的意义可看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的一个映射；若 *φ* 在 $w_0$ 中为假，则更新无从谈起。
 
-Veltman 的更新逻辑可以在公共宣告逻辑（比较共同知识词条）中得到容纳：允许形如 $\Diamond \phi$ 的公共宣告，其模态读作“共同知识之下的可达性”。若一组主体的 $S$5 知识状态（比较认知逻辑词条）被公共宣告 $\Diamond \phi$ 更新，则当 $\phi$ 在模型中某处为真时，更新毫无改变（此时 $M\mid\Diamond \phi$ 等于 $M$）；否则更新便产生不一致——公共宣告被假定为真。这与更新逻辑的定义正相吻合。
+Veltman 的更新逻辑可以在公共宣告逻辑（比较共同知识词条）中得到容纳：允许形如 $\Diamond \phi$ 的公共宣告，其模态读作“共同知识之下的可达性”。若一组主体的 $S$5 知识状态（比较认知逻辑词条）被公共宣告 $\Diamond \phi$ 更新，则当 *φ* 在模型中某处为真时，更新毫无改变（此时 $M\mid\Diamond \phi$ 等于 $M$）；否则更新便产生不一致——公共宣告被假定为真。这与更新逻辑的定义正相吻合。
 
 带交际更新的认知逻辑，其逻辑工具箱名为动态认知逻辑（DEL）。DEL 起于对公共宣告之认知与信念效应的分析（Plaza 1989; Gerbrandy 1999）[^gerbrandy-1999][^plaza-1989]。公共宣告之所以引人注目，在于它创造共同知识。此外还有多种宣告——私人宣告、群组宣告、秘密共享、说谎等——同样具有明确界定的认知效应。Baltag et al. 1999 与 Baltag and Moss 2004 为一大类更新行动提出了一般框架；Benthem et al. 2006 进一步推广为完备的交际与变化逻辑，其丰富行动允许改变世界的事实；Ditmarsch et al. 2006 则给出了动态认知逻辑的教科书式处理。
 
@@ -302,7 +302,7 @@ $$\lambda P\lambda c\lambda c' \cdot \exists x (\textrm{man } x \mathbin{{}^{\we
 
 “a man” 的 ITL 翻译具有类型 $$(\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t) \rightarrow [e]^i \rightarrow [e]^j \rightarrow t.$$ 在 $P\lvert c\rvert (c\mathbin{{}^{\wedge}} x)c'$ 中，变元 $P$ 标记 VP 解释的槽位；$\lvert c\rvert$ 把输入语境的长度交给 $P$，拾取值 $i$——语境扩展时下一个可用槽位的位置。该槽位由一个指称男人的对象 $x$ 填充。注意 $c\mathbin{{}^{\wedge}} x[\lvert c\rvert ] = c\mathbin{{}^{\wedge}} x[i] = x$：索引 $i$ 正是从语境中挑出该男人的凭据。
 
-要说明动态高阶系统可在 ITL 中表达，只需展示相应动态算子如何定义。设 $\phi$ 与 $\psi$ 的类型为语境转移，即 [$e] \rightarrow[e] \rightarrow t$（以 [$e$] 表示任意语境），$c, c', c''$ 的类型为 [$e$]。则动态存在量词、动态否定与动态复合可定义如下：
+要说明动态高阶系统可在 ITL 中表达，只需展示相应动态算子如何定义。设 *φ* 与 *ψ* 的类型为语境转移，即 [$e] \rightarrow[e] \rightarrow t$（以 [$e$] 表示任意语境），$c, c', c''$ 的类型为 [$e$]。则动态存在量词、动态否定与动态复合可定义如下：
 
 $$ \begin{align*} \cal{E} & := \lambda cc'\cdot \exists x(c \mathbin{{}^{\wedge}} x = c') \\ {\sim}\phi & := \lambda cc'\cdot (c = c' \mathbin{{}^{\wedge}} \neg \exists c'' \phi cc'') \\ \phi ; \psi & := \lambda cc'\cdot \exists c''(\phi cc'' \mathbin{{}^{\wedge}} \psi cc') \end{align*} $$
 
@@ -371,7 +371,7 @@ ITL 与 Muskens 式组合性 DRT 并非不能兼容；例如参见 Bittner 2014�
 [^kamp-1993]: Kamp, Hans and Uwe Reyle, 1993, *From Discourse to Logic*, Dordrecht: Kluwer.
 [^karttunen-1973]: Karttunen, Lauri, 1973, “Presuppositions of Compound Sentences”, *Linguistic Inquiry*, 4(2): 169–193.
 [^karttunen-1974]: –––, 1974, “Presupposition and Linguistic Context”, *Theoretical Linguistics*, 1: 181–194.
-[^kohlhase-1996]: Kohlhase, Michael, Susanna Kuschert, and Manfred Pinkal, 1996, “A Type-Theoretic Semantics for $\lambda$-DRT”, in *Proceedings of the Tenth Amsterdam Colloquium*, Paul Dekker and Martin Stokhof (eds.), Amsterdam: ILLC Publications.
+[^kohlhase-1996]: Kohlhase, Michael, Susanna Kuschert, and Manfred Pinkal, 1996, “A Type-Theoretic Semantics for *λ*-DRT”, in *Proceedings of the Tenth Amsterdam Colloquium*, Paul Dekker and Martin Stokhof (eds.), Amsterdam: ILLC Publications.
 [^krahmer-1995]: Krahmer, Emiel, 1995, *Discourse and Presupposition*, Ph.D. Thesis, Tilburg University; revised and published under the title *Presupposition and Anaphora*, Stanford: CSLI Publications, 1998.
 [^krahmer-1996]: Krahmer, Emiel and Reinhard Muskens, 1996, “Negation and Disjunction in Discourse Representation Theory” *Journal of Semantics*, 12: 357–376. doi: 10.1093/jos/12.4.357
 [^krifka-1996]: Krifka, Manfred, 1996, “Parametrized Sum Individuals for Plural Reference and Partitive Quantification” *Linguistics and Philosophy*, 19: 555–598. [[Krifka 1996 available online (pdf)](http://amor.cms.hu-berlin.de/~h2816i3x/Publications/Krifka%201996%20Plural%20Anaphora.PDF)]

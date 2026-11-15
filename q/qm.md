@@ -34,7 +34,7 @@
 
 用 $n$ 乘矢量 ${\lvert A \rangle}$（$n$ 为常数），得到一个方向与 ${\lvert A \rangle}$ 相同、长度为 ${\lvert A \rangle}$ 之长 $n$ 倍的矢量。
 
-在实矢量空间中，矢量 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 的（内）积或点积，记作“${\langle A \mid B \rangle}$”，是一个标量：等于二者长度（或“模”）之积，再乘以两矢量间夹角 $\theta$ 的余弦：
+在实矢量空间中，矢量 ${\lvert A \rangle}$ 与 ${\lvert B \rangle}$ 的（内）积或点积，记作“${\langle A \mid B \rangle}$”，是一个标量：等于二者长度（或“模”）之积，再乘以两矢量间夹角 *θ* 的余弦：
 
 $$ {\langle A \mid B \rangle} = |A| |B| \cos \theta $$
 

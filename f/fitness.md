@@ -72,7 +72,7 @@ $$ A^*(O,E) = \sum P(Q_i^{OE})Q_i^{OE} - f(E,\sigma^2). $$
 
 对这一结论不满的哲学家，仍在寻找一种没有反例、且不像 Brandon 所说那样只是图式或通用的适合度倾向定义。Pence 与 Ramsey（2013）提出了一个颇有希望的候选。下面略述其要。
 
-设想从某个体 $o$ 出发的一切可能的女儿谱系或传衍线。把每条可能谱系记作 $\omega$，其全体记作 $\Omega$。对每条谱系 $\omega_i$，$o$ 的实际女儿种群为 $\omega_i$ 的概率为 $Pr(\omega_i)$。$o$ 的适合度 $F$ 并不由未来某一特定世代可能女儿种群的加权和给出，而由该值在长期中的表现给出——随着世代数无限增加而取极限。个体适合度 $F$ 的定义遂由下式给出（Pence and Ramsey 2013, 862; equation (4)）：
+设想从某个体 $o$ 出发的一切可能的女儿谱系或传衍线。把每条可能谱系记作 *ω*，其全体记作 *Ω*。对每条谱系 $\omega_i$，$o$ 的实际女儿种群为 $\omega_i$ 的概率为 $Pr(\omega_i)$。$o$ 的适合度 $F$ 并不由未来某一特定世代可能女儿种群的加权和给出，而由该值在长期中的表现给出——随着世代数无限增加而取极限。个体适合度 $F$ 的定义遂由下式给出（Pence and Ramsey 2013, 862; equation (4)）：
 
 $$ F = \exp \left( \lim_{t \to \infty} \frac{1}{t} \int_{\omega\in \Omega} Pr(\omega ) \cdot \ln(\phi(\omega ,t)) \mathrm d \omega \right) $$
 

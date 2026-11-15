@@ -70,13 +70,13 @@ $$ \begin{align} & A\\ & \textrm{若 } A \textrm{ 则 }B\\\hline & B \end{align}
 >
 > $$ \begin{align} \Phi & \rightarrow(\Psi \rightarrow \Phi)\\ (\Phi \rightarrow(\Psi \rightarrow \Xi)) & \rightarrow((\Phi \rightarrow \Psi) \rightarrow(\Phi \rightarrow \Xi))\\ (\neg \Phi \rightarrow \neg \Psi) & \rightarrow(\Psi \rightarrow \Phi)\\ \forall x\Phi(x) & \rightarrow \Phi(t) \end{align} $$
 >
-> 其中 $t$ 是对于 $\Phi$ 中的 $x$ 自由的项，
+> 其中 $t$ 是对于 *Φ* 中的 $x$ 自由的项，
 
 并且规定：任何如下形式的推理
 
 $$ \begin{align} & \Phi\\ & \Phi \rightarrow \Psi\\\hline & \Psi\\ \end{align} $$
 
-或（其中 $x$ 不在 $\Phi$ 中自由出现）
+或（其中 $x$ 不在 *Φ* 中自由出现）
 
 $$ \begin{align} \Phi & \rightarrow \Psi(x)\\\hline \Phi & \rightarrow \forall x\Psi(x), \end{align} $$
 

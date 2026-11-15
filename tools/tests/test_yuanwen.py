@@ -471,6 +471,49 @@ class TestNestedTables20261114(unittest.TestCase):
                         '书目条目内的表不得丢失')
 
 
+class TestAdr0049ConverterRules(unittest.TestCase):
+    """ADR-0049 转换层并入（2026-11-15 用户指令）：孤立希腊字母转文字＋裸环境包 $$。"""
+
+    def test_lone_greek_inline_to_text(self):
+        self.assertEqual(inline_to_md(r'\(\omega\)-路径'), '*ω*-路径')
+        self.assertEqual(inline_to_md(r'解释 \(\omega\) 与 \(\varphi\) 的距离'), '解释 *ω* 与 *φ* 的距离')
+        self.assertEqual(inline_to_md(r'\(\phi\) 与 \(\varphi\) 同归'), '*φ* 与 *φ* 同归')
+
+    def test_c_deferred_stay_formula(self):
+        self.assertEqual(inline_to_md(r'\(\mu\)-演算'), r'$\mu$-演算')
+        self.assertEqual(inline_to_md(r'有限字母表 \(\Sigma\)'), r'有限字母表 $\Sigma$')
+        self.assertEqual(inline_to_md(r'状态集 \(\Omega\)'), r'状态集 $\Omega$')
+
+    def test_composite_and_primed_stay_formula(self):
+        self.assertEqual(inline_to_md(r'\(\neg\varphi\) 与 \(\varphi \in A\)'),
+                         r'$\neg\varphi$ 与 $\varphi \in A$')
+        self.assertEqual(inline_to_md(r"则 \(\omega'\) 取距 \(\omega\) 最近的那个"),
+                         r"则 $\omega'$ 取距 *ω* 最近的那个")
+        self.assertEqual(inline_to_md(r'\(\alpha_1\) 换成 \(\alpha\)'),
+                         r'$\alpha_1$ 换成 *α*')
+
+    def test_display_math_untouched(self):
+        self.assertEqual(inline_to_md(r'\[\omega\]'), r'$$\omega$$')
+
+    def test_naked_env_wrapped(self):
+        src = (r'\begin{align}' '\n' r'f_{1}(\{0\}) &amp;= 0 \\' '\n'
+               r'f_{1}(\{1\}) &amp;= 1' '\n' r'\end{align}')
+        expect = r'$$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \end{align}$$'
+        self.assertEqual(inline_to_md(src), expect)
+
+    def test_env_already_in_display_delims_not_rewrapped(self):
+        self.assertEqual(inline_to_md(r'\[\begin{align} x &= 1 \end{align}\]'),
+                         r'$$\begin{align} x &= 1 \end{align}$$')
+        self.assertEqual(inline_to_md(r'$$\begin{align} x &= 1 \end{align}$$'),
+                         r'$$\begin{align} x &= 1 \end{align}$$')
+
+    def test_prose_with_env_and_inline(self):
+        src = r'若 \(\Delta\) 为算子，则 \begin{gather} a \\ b \end{gather} 成立'
+        out = inline_to_md(src)
+        self.assertIn(r'$\Delta$', out)
+        self.assertIn('$$\\begin{gather}', out)
+
+
 def render_one_table(full_html):
     from tools.yuanwen import table_to_md
     return table_to_md(full_html, 't')

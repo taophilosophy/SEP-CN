@@ -30,7 +30,7 @@ QBists 论证：由此观点看，量子理论与测量、非定域性相关的�
 
 相反，QBists 对概率——量子理论中的概率与其他领域的概率一样——取主观主义或个人主义解释（见“概率的解释”词条 §3.3）。于是玻恩规则不是自然律，而是一条有经验动机的合理性规范：明智的能动者除了遵守那些一经违反便会使其置信度不融贯的规范，也应当遵循它。按通常表述，玻恩规则在给定量子态的前提下规定各种可能测量结果的概率；但 QBists 对量子态及其随时间的发展，同样取主观主义或个人主义解释。
 
-描述系统量子态 $\psi$ 随时间演化的薛定谔方程
+描述系统量子态 *ψ* 随时间演化的薛定谔方程
 
 $$\tag{1}\label{ex1} H\psi = i\hslash \,{\partial \psi /\partial t} $$
 
@@ -268,7 +268,7 @@ DP 支持者或可这样回应：这些概念变化正是把推理主义实用�
 
 ## 5 相关观点
 
-认为量子态描述物理实在的观点，有时称为 ψ-本体论的；与之相对，ψ-认识论的观点认为量子态表示能动者关于某个底层物理态的不完备信息。Harrigan & Spekkens（2010）最初界定这些术语时，只将其用于他们所谓的量子理论本体模型。但后来有人更宽泛地使用这对术语，用来划分本体论模型框架之外的量子态替代观点。QBists 与实用主义者并非仅有的采取“既非 $\psi$-本体论、也非（某种更宽泛意义上的）$\psi$-认识论”观点的人。另有一些观点共享这样的实用主义想法：量子态不是任何能动者实际认识状态的函数，因为量子态指派须符合客观的正确性标准。本节介绍两种此类观点。
+认为量子态描述物理实在的观点，有时称为 ψ-本体论的；与之相对，ψ-认识论的观点认为量子态表示能动者关于某个底层物理态的不完备信息。Harrigan & Spekkens（2010）最初界定这些术语时，只将其用于他们所谓的量子理论本体模型。但后来有人更宽泛地使用这对术语，用来划分本体论模型框架之外的量子态替代观点。QBists 与实用主义者并非仅有的采取“既非 *ψ*-本体论、也非（某种更宽泛意义上的）*ψ*-认识论”观点的人。另有一些观点共享这样的实用主义想法：量子态不是任何能动者实际认识状态的函数，因为量子态指派须符合客观的正确性标准。本节介绍两种此类观点。
 
 ### 5.1 弗里德里希
 
@@ -280,7 +280,7 @@ Friederich 把量子概率视为对信度的理性、准刘易斯式约束；再
 
 ### 5.2 布鲁克纳与蔡林格
 
-布鲁克纳与蔡林格（2003）、蔡林格（2005）追随薛定谔（1935）及许多人，把量子态看作我们关于某系统之知识的目录。他们的观点不是 $\psi$-认识论的，因为它否认系统 **具有** 某个可经观察而得知的本体态；相反，系统由其信息内容来刻画。一个基本系统所含信息足以回答一个问题。对自旋 ½ 系统，关于任意方向自旋分量的问题都可由适当观察回答。但该答案通常不能理解为揭示该方向自旋分量的预先存在值；而且，通过观察来回答此问题，会使关于不同方向自旋分量的任何未来问题的答案随机化。于是知识目录呈现为一种概率分布，分布于关于某量子系统的一切有意义问题的可能答案之上——其中只有一项概率为 1，或可视为若被观察便会显露的性质。
+布鲁克纳与蔡林格（2003）、蔡林格（2005）追随薛定谔（1935）及许多人，把量子态看作我们关于某系统之知识的目录。他们的观点不是 *ψ*-认识论的，因为它否认系统 **具有** 某个可经观察而得知的本体态；相反，系统由其信息内容来刻画。一个基本系统所含信息足以回答一个问题。对自旋 ½ 系统，关于任意方向自旋分量的问题都可由适当观察回答。但该答案通常不能理解为揭示该方向自旋分量的预先存在值；而且，通过观察来回答此问题，会使关于不同方向自旋分量的任何未来问题的答案随机化。于是知识目录呈现为一种概率分布，分布于关于某量子系统的一切有意义问题的可能答案之上——其中只有一项概率为 1，或可视为若被观察便会显露的性质。
 
 布鲁克纳（2018）晚近借助维格纳朋友悖论（Wigner 1962）[^wigner-1962] 的一个扩展来论证：即便由观察给出的这类问题答案，也不能视为反映了据称记录它们的装置的客观性质。这一论证若能成立，便有理由把这种量子态观点修正得更接近 QBists 的看法。
 
@@ -311,7 +311,7 @@ Friederich 把量子概率视为对信度的理性、准刘易斯式约束；再
 [^bacciagaluppi-2014]: Bacciagaluppi, Guido, 2014, “A Critic Looks at QBism”, in M.C. Galavotti, S. Hartmann, M. Weber, W. Gonzalez, D. Dieks, and T. Uebel (eds.), *New Directions in the Philosophy of Science*, Switzerland: Springer International, pp. 403–415.
 [^bächtold-2008a]: Bächtold, Manuel, 2008a, “Interpreting Quantum Mechanics According to a Pragmatist Approach”, *Foundations of Physics*, 38(9): 843–68. doi:10.1007/s10701-008-9240-2
 [^bächtold-2008b]: –––, 2008b, *L’Interprétation de la Mécanique Quantique: une approche pragmatiste*, Paris: Hermann.
-[^barrett-2014]: Barrett, Jonathan, Eric G. Cavalcanti, Raymond Lal, and Owen J.E. Maroney, 2014, “No $\psi$-epistemic Model Can Fully Explain the Indistinguishability of Quantum States ”, *Physical Review Letters*, 112: 250403.
+[^barrett-2014]: Barrett, Jonathan, Eric G. Cavalcanti, Raymond Lal, and Owen J.E. Maroney, 2014, “No *ψ*-epistemic Model Can Fully Explain the Indistinguishability of Quantum States ”, *Physical Review Letters*, 112: 250403.
 [^barzegar-2020]: Barzegar, Ali, 2020, “QBism Is Not So Simply Dismissed”, *Foundations of Physics*, 50(7): 693–707. doi:10.1007/s10701-020-00347-3
 [^bell-2004]: Bell, John S., 2004, *Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy*, 2ⁿᵈ edition, Cambridge: Cambridge University Press.
 [^bengtsson-2020]: Bengtsson, Ingemaar, 2020, “SICs: Some Explanations”, *Foundations of Physics*, 50:1794–1808. doi:10.1007/s10701-020-00341-9

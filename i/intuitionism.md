@@ -50,7 +50,7 @@
 
 $$\tag{\({\bf KS}\)} \exists \alpha(A \leftrightarrow \exists n\, \alpha(n) = 1). $$
 
-KS 中，$A$ 遍涉公式，$\alpha$ 遍涉选择序列——即由创造主体逐一择取其元素而生成的自然数序列。选择序列与克里普克图式详见第 3.4 节。
+KS 中，$A$ 遍涉公式，*α* 遍涉选择序列——即由创造主体逐一择取其元素而生成的自然数序列。选择序列与克里普克图式详见第 3.4 节。
 
 多数数学哲学（如柏拉图主义）视数学陈述为无时间性的；而在直觉主义中，真假却有时间面相：既成事实长存，但一个在某时点才获证明的陈述，在此之前并无真值。上述创造主体概念的形式化（非布劳威尔本人所作，乃后人所为）便赫然呈现出直觉主义的时间性。
 
@@ -97,7 +97,7 @@ $$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash 
 
 迄今直觉主义推理所用的一切逻辑都包含在 IQC 之内；但原则上可以设想，将来某一时点会出现一条从直觉主义观点可接受、却未被该逻辑涵盖的原则。多数构造主义形式都广泛相信这永不会发生，故视 IQC 为构造主义的 **那个** 逻辑。直觉主义的情形则不那么明朗——不能排除我们的直觉主义理解有朝一日会引出此前未曾把握的新逻辑原则。
 
-直觉主义逻辑之所以广被使用，原因之一在于它在证明论与模型论两面都颇为驯良。其证明系统甚多，如 Gentzen 演算、自然演绎系统；语义形式亦多，如克里普克模型、贝斯模型、海廷代数、拓扑语义与范畴模型。然而其中若干语义只是研究直觉主义逻辑的经典手段——可以证明，关于它们的直觉主义完全性证明不可能存在（Kreisel 1962）[^kreisel-1962]。不过也已表明，另有一些不那么自然、但完全性可构造地成立的模型（Veldman 1976）[^veldman-1976]。直觉主义逻辑的构造性，在柯里-霍华德同构中尤为显豁。该同构在逻辑推导与简单类型 $\lambda$ 演算项之间建立对应——亦即证明与计算之间——且保持结构：项之归约恰对应证明之规范化。
+直觉主义逻辑之所以广被使用，原因之一在于它在证明论与模型论两面都颇为驯良。其证明系统甚多，如 Gentzen 演算、自然演绎系统；语义形式亦多，如克里普克模型、贝斯模型、海廷代数、拓扑语义与范畴模型。然而其中若干语义只是研究直觉主义逻辑的经典手段——可以证明，关于它们的直觉主义完全性证明不可能存在（Kreisel 1962）[^kreisel-1962]。不过也已表明，另有一些不那么自然、但完全性可构造地成立的模型（Veldman 1976）[^veldman-1976]。直觉主义逻辑的构造性，在柯里-霍华德同构中尤为显豁。该同构在逻辑推导与简单类型 *λ* 演算项之间建立对应——亦即证明与计算之间——且保持结构：项之归约恰对应证明之规范化。
 
 ### 3.3 自然数
 
@@ -153,11 +153,11 @@ $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
 
 $$\tag{\({\bf WC\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \forall\alpha\exists m\exists n \forall\beta\in\alpha(\overline{m})A(\beta,n). $$
 
-其中 $n$ 与 $m$ 遍涉自然数，$\alpha$ 与 $\beta$ 遍涉选择序列；$\beta\in\alpha(\overline{m})$ 谓 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。迄今对任意选择序列的多数连续性公理，尚未有完全令人满意的辩护（布劳威尔本人亦然）；但若限于无规律序列类，支持弱连续性公理的论证如下：直觉主义者何时能确立 $\forall\alpha\exists n A(\alpha,n)$？依无规律序列概念之本性，使 $A(\alpha,n)$ 成立的那个数 $n$，必在 $\alpha$ 仅有有限初始片段已知之后方可择定：我们不知 $\alpha$ 往后如何推进，只能依据“欲确定 $n$ 之时”已知的 $\alpha$ 初始片段来固定 $n$。这意味着：凡与 $\alpha$ 共享该初始片段的无规律序列 $\beta$，$A(\beta,n)$ 亦成立。
+其中 $n$ 与 $m$ 遍涉自然数，*α* 与 *β* 遍涉选择序列；$\beta\in\alpha(\overline{m})$ 谓 *α* 与 *β* 的前 $m$ 个元素相同。迄今对任意选择序列的多数连续性公理，尚未有完全令人满意的辩护（布劳威尔本人亦然）；但若限于无规律序列类，支持弱连续性公理的论证如下：直觉主义者何时能确立 $\forall\alpha\exists n A(\alpha,n)$？依无规律序列概念之本性，使 $A(\alpha,n)$ 成立的那个数 $n$，必在 *α* 仅有有限初始片段已知之后方可择定：我们不知 *α* 往后如何推进，只能依据“欲确定 $n$ 之时”已知的 *α* 初始片段来固定 $n$。这意味着：凡与 *α* 共享该初始片段的无规律序列 *β*，$A(\beta,n)$ 亦成立。
 
-弱连续性公理已证为一致，且常以可辩护的形式施用：即谓词 $A$ 只涉 $\alpha$ 之取值、不涉其可能具有的高阶性质。论证细节从略，其要素与无规律序列情形之辩护相同，见 van Atten 与 van Dalen 2002。
+弱连续性公理已证为一致，且常以可辩护的形式施用：即谓词 $A$ 只涉 *α* 之取值、不涉其可能具有的高阶性质。论证细节从略，其要素与无规律序列情形之辩护相同，见 van Atten 与 van Dalen 2002。
 
-弱连续性尚未穷尽直觉主义者对连续统的直觉：既有弱连续性公理，则似乎可以合理地假定，那个使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的数 $m$，其选择可以显式给出。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在连续泛函 $\Phi$：对每个 $\alpha$，它给出确定 $\alpha$ 长度的 $m$，$n$ 即据此择定。更形式地，令 $\mathcal{CF}$ 为连续泛函 $\Phi$ 之类，此类泛函把自然数指派给无限序列，即满足
+弱连续性尚未穷尽直觉主义者对连续统的直觉：既有弱连续性公理，则似乎可以合理地假定，那个使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的数 $m$，其选择可以显式给出。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在连续泛函 *Φ*：对每个 *α*，它给出确定 *α* 长度的 $m$，$n$ 即据此择定。更形式地，令 $\mathcal{CF}$ 为连续泛函 *Φ* 之类，此类泛函把自然数指派给无限序列，即满足
 
 $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
 
@@ -169,11 +169,11 @@ $$\tag{\({\bf C\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \exi
 
 $$ \neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0). $$
 
-此处 $\alpha(n)$ 指 $\alpha$ 的第 $n$ 个元素。欲见此否定成立，可反证之：设 $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ 成立，则蕴含
+此处 $\alpha(n)$ 指 *α* 的第 $n$ 个元素。欲见此否定成立，可反证之：设 $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ 成立，则蕴含
 
 $$ \forall\alpha\exists k((\forall n\alpha (n)=0 \wedge k=0) \vee (\neg \forall n\alpha (n)=0 \wedge k=1)). $$
 
-依弱连续性公理，对全零之 $\alpha$，存在数 $m$ 固定 $k$ 的择取，即对一切 $\beta\in\alpha(\overline{m})$ 皆有 $k=0$。然而确存在前 $m$ 个元素为 0、其后含 1 的序列，可见此说不能成立。
+依弱连续性公理，对全零之 *α*，存在数 $m$ 固定 $k$ 的择取，即对一切 $\beta\in\alpha(\overline{m})$ 皆有 $k=0$。然而确存在前 $m$ 个元素为 0、其后含 1 的序列，可见此说不能成立。
 
 此例表明：排中律在直觉主义中不仅不成立，实则为假；由此连续统的许多基本性质皆遭反驳。例如取实数 $r_\alpha$，它是弱反例一节所给 $r_n$ 所成序列的极限，其中定义里的 $A(m)$ 取作 $\alpha(m)=0$。则上述反驳蕴含 $\neg\forall\alpha(r_\alpha=0 \vee r_\alpha\neq 0)$，并因而反驳三分律：
 
@@ -195,7 +195,7 @@ $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (
 
 直观地说，若 $f$ 表示 $\Phi$，则 $f(\alpha(\overline{n}))=0$ 谓 $\alpha(\overline{n})$ 尚不足以算出 $\Phi(\alpha)$；$f(\alpha(\overline{n}))=m+1$ 则谓 $\alpha(\overline{n})$ 已足以算出 $\Phi(\alpha)$，且 $\Phi(\alpha)$ 之值为 $m$。以 $\mathcal{K}$ 记邻域函数之类，则连续性公理 ${\bf C\mbox{-}N}$ 可改写为 $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
 
-其中 $\beta \in m$ 谓 $\beta$ 初始片段之编码为 $m$。
+其中 $\beta \in m$ 谓 *β* 初始片段之编码为 $m$。
 
 ### 3.6 棒定理
 
@@ -207,7 +207,7 @@ $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (
 
 $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rightarrow \exists m \forall \alpha \in T \exists n \leq m A(\alpha(\overline{n})). $$
 
-其中 $\alpha \in T$ 谓 $\alpha$ 为 $T$ 的一条分支。原则 **FAN** 足以证明上举定理：
+其中 $\alpha \in T$ 谓 *α* 为 $T$ 的一条分支。原则 **FAN** 足以证明上举定理：
 
 > **定理**（**FAN**）闭区间上一切连续实函数皆一致连续。
 
@@ -215,7 +215,7 @@ $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rig
 
 $$\tag{\({\bf BI}\)} \begin{align} & [\forall\alpha\forall n \big( A(\alpha(\overline{n})) \vee \neg A(\alpha(\overline{n})) \big) \wedge \forall\alpha\exists n A(\alpha(\overline{n}))\ \wedge\\ &\quad \forall\alpha\forall n \big( A(\alpha(\overline{n})) \rightarrow B(\alpha(\overline{n})) \big)\ \wedge \\ &\quad \forall\alpha\forall n \big( \forall mB(\alpha(\overline{n})\cdot m) \rightarrow B(\alpha(\overline{n})) \big)] \rightarrow B(\varepsilon). \end{align} $$
 
-其中 $\varepsilon$ 表空序列，$\cdot$ 表连接，**BI** 表棒归纳（Bar Induction），下标 **D** 指谓词 $A$ 之可判定性。棒原则为直觉主义提供树的归纳原则，表达展形相对于可判定性质的良基性。若削弱可判定性要求，可得各种扩展；这些扩展可从布劳威尔著作中析出，此处从略。连续性与棒原则有时合为一条公理，称 **棒连续性公理**。
+其中 *ε* 表空序列，$\cdot$ 表连接，**BI** 表棒归纳（Bar Induction），下标 **D** 指谓词 $A$ 之可判定性。棒原则为直觉主义提供树的归纳原则，表达展形相对于可判定性质的良基性。若削弱可判定性要求，可得各种扩展；这些扩展可从布劳威尔著作中析出，此处从略。连续性与棒原则有时合为一条公理，称 **棒连续性公理**。
 
 棒原则与连续性公理一节所述邻域函数关系密切。令 $\mathcal{IK}$ 为归纳定义的邻域函数之类：含一切非零常序列 $\lambda m.n+1$，且若 $f(0)=0$ 并对一切 $x$ 有 $\lambda m.f(x\cdot m)\in \mathcal{IK}$，则 $f \in \mathcal{IK}$。陈述 $\mathcal{K}=\mathcal{IK}$——即邻域函数可归纳生成——等价于 **BI_{D}**。
 
@@ -233,7 +233,7 @@ $$ \begin{align} X &= \{ x \in \{0,1\} \mid x=0 \vee (x=1 \wedge A) \} \\ Y &= \
 
 $$\tag{\({\bf AC\mbox{-}N}\)} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow \exists \alpha \in \mathbb{N}^\mathbb{N} \forall m\, mR\alpha(m) \big). $$
 
-此图式可辩护如下：前提之证明应提供一方法，给出 $m$ 即得一数 $n$ 使 $mRn$。于是自然数 $\mathbb{N}$ 上的函数 $\alpha$ 可逐步构造：先取元素 $m_0$ 使 $0Rm_0$，作为 $\alpha(0)$ 之值；再取元素 $m_1$ 使 $1Rm_1$，作为 $\alpha(1)$ 之值；余类推。
+此图式可辩护如下：前提之证明应提供一方法，给出 $m$ 即得一数 $n$ 使 $mRn$。于是自然数 $\mathbb{N}$ 上的函数 *α* 可逐步构造：先取元素 $m_0$ 使 $0Rm_0$，作为 $\alpha(0)$ 之值；再取元素 $m_1$ 使 $1Rm_1$，作为 $\alpha(1)$ 之值；余类推。
 
 另有若干选择公理可循类似方式辩护。此处仅再举一例：依赖选择公理：
 
@@ -283,7 +283,7 @@ $$\tag{\({\bf MR}\)} {\bf HA} \vdash \forall x (A(x) \vee \neg A(x)) \wedge \neg
 
 ### 5.3 无规律序列
 
-无规律序列有多种公理化，皆含连续性公理之扩展（Kreisel 1968, Troelstra 1977）[^kreisel-1968][^troelstra-1977]。尤以开放数据公理为其形式：若 $A(\alpha)$ 除 $\alpha$ 外不含其他非合规律参数，则
+无规律序列有多种公理化，皆含连续性公理之扩展（Kreisel 1968, Troelstra 1977）[^kreisel-1968][^troelstra-1977]。尤以开放数据公理为其形式：若 $A(\alpha)$ 除 *α* 外不含其他非合规律参数，则
 
 $$ A(\alpha) \rightarrow \exists n \forall \beta \in \alpha (\overline{n}) A(\beta). $$
 

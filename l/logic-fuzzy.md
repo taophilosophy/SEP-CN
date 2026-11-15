@@ -26,13 +26,13 @@
 
 用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它的原始二元联结词是 $\mathbin{\&}, \to, \wedge$，另有真常项 $\overline{0}$；可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 的后承关系由所有左连续 t-范数给出的语义来定义。给定左连续 t-范数 $\ast$ 与从命题变元到 $[0,1]$ 的映射，把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 解释为 $\min$ 与 $0$，就得到全部公式的 $\ast$-赋值。
 
-若对每个左连续 t-范数 $\ast$ 和每个 $\ast$-赋值 $e$，只要 $e(\psi) = 1$ 对所有 $\psi \in \Gamma$ 成立，就有 $e(\varphi) = 1$，则称公式 $\varphi$ 是公式集 $\Gamma$ 在 MTL 中的后承，记作 $\Gamma \models_\mathrm{MTL} \varphi$；说白了，前提完全真，结论也完全真。始终取值 $1$ 的公式 $\varphi$（即 $\emptyset\models_\mathrm{MTL}\varphi$）叫 MTL 的有效式或重言式。要注意，$\varphi \mathbin{\&} \psi \to \varphi \land \psi$ 在 MTL 中是重言式，反方向的 $\varphi \land \psi \to \varphi \mathbin{\&} \psi$ 却不是——合取 $\&$ 比 $\land$ 强。
+若对每个左连续 t-范数 $\ast$ 和每个 $\ast$-赋值 $e$，只要 $e(\psi) = 1$ 对所有 $\psi \in \Gamma$ 成立，就有 $e(\varphi) = 1$，则称公式 *φ* 是公式集 *Γ* 在 MTL 中的后承，记作 $\Gamma \models_\mathrm{MTL} \varphi$；说白了，前提完全真，结论也完全真。始终取值 $1$ 的公式 *φ*（即 $\emptyset\models_\mathrm{MTL}\varphi$）叫 MTL 的有效式或重言式。要注意，$\varphi \mathbin{\&} \psi \to \varphi \land \psi$ 在 MTL 中是重言式，反方向的 $\varphi \land \psi \to \varphi \mathbin{\&} \psi$ 却不是——合取 $\&$ 比 $\land$ 强。
 
 MTL 也可以写成希尔伯特式证明系统，公理如下：
 
 $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi)) \\ \varphi \mathbin{\&} \psi & \to \varphi \\ \varphi\mathbin{\&}\psi & \to\psi\mathbin{\&}\varphi \\ \varphi \land \psi & \to \varphi \\ \varphi \land \psi & \to \psi \land \varphi \\ (\chi \to \varphi) & \to ((\chi\to \psi) \to (\chi \to \varphi\wedge \psi)) \\ (\varphi\mathbin{\&}\psi \to \chi) & \to (\varphi\to(\psi \to \chi)) \\ (\varphi\to(\psi \to \chi)) & \to (\varphi\mathbin{\&}\psi \to \chi) \\ ((\varphi \to \psi) \to \chi) & \to (((\psi \to \varphi)\to \chi)\to \chi) \\ \overline{0}& \to\varphi \\ \end{align} $$
 
-推理规则只有 **肯定前件**：由 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。若在这个系统里能从 $\Gamma$ 证明 $\varphi$——也就是有一个以 $\varphi$ 结尾的有限公式序列，其中每一项或是公理实例、或是 $\Gamma$ 的元素、或由前面各项按 **肯定前件** 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 $\Gamma$，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
+推理规则只有 **肯定前件**：由 *φ* 与 $\varphi \to \psi$ 推出 *ψ*。若在这个系统里能从 *Γ* 证明 *φ*——也就是有一个以 *φ* 结尾的有限公式序列，其中每一项或是公理实例、或是 *Γ* 的元素、或由前面各项按 **肯定前件** 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 *Γ*，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
 
 ## 3 Łukasiewicz 逻辑
 
@@ -64,18 +64,18 @@ Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是�
 
 命题逻辑 MTL 可以在一阶谓词语言 $\mathcal{P\!L}$（定义同经典情形）中给出一阶对应物 MTL$\forall$。语义由结构给出：谓词符号解释为把论域元素元组映到真值的函数。确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 包括：非空元素域 $M$；对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$；对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$。把对象变元在 $M$ 中的赋值 ${\mathrm v}$ 固定下来，就能定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）和原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称或存在量化公式的真值，取公式各实例真值的下确界或上确界，量化变元遍历域 $M$ 的全部元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元保持不变的赋值。其他公式的值照命题语义算：$\&$ 解释为 $\ast$，蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$，$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
 
-一阶逻辑 MTL$\forall$ 的后承关系，定义为在 $\ast$-结构中保持完全真（值 $1$），其中 $\ast$ 遍历所有左连续 t-范数。更确切地说，称一阶公式 $\varphi$ 是公式集 $\Gamma$ 的后承（记作 $\Gamma \models_{\mathrm{MTL}\forall} \varphi$），如果对每个左连续 t-范数 $\ast$ 和每个 $\ast$-结构 ${\mathbf M}$，只要 $\|\psi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 与所有 $\psi \in \Gamma$ 成立，就有 $\|\varphi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 成立。
+一阶逻辑 MTL$\forall$ 的后承关系，定义为在 $\ast$-结构中保持完全真（值 $1$），其中 $\ast$ 遍历所有左连续 t-范数。更确切地说，称一阶公式 *φ* 是公式集 *Γ* 的后承（记作 $\Gamma \models_{\mathrm{MTL}\forall} \varphi$），如果对每个左连续 t-范数 $\ast$ 和每个 $\ast$-结构 ${\mathbf M}$，只要 $\|\psi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 与所有 $\psi \in \Gamma$ 成立，就有 $\|\varphi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 成立。
 
 MTL$\forall$ 可以写成强完全的希尔伯特式证明系统，公理如下：
 
 - (P) MTL 公理的一阶实例
-- $(\forall1 )$ $\forall x\,\varphi(x)\to\varphi(t)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
-- $(\exists1)$ $\varphi(t)\to \exists x\, \varphi(x)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
-- $(\forall2)$ $\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)$，其中 $x$ 在 $\chi$ 中不自由
-- $(\exists2)$ $\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)$，其中 $x$ 在 $\chi$ 中不自由
-- $(\forall3)$ $\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi$，其中 $x$ 在 $\chi$ 中不自由。
+- $(\forall1 )$ $\forall x\,\varphi(x)\to\varphi(t)$，其中项 $t$ 在 *φ* 中可代入 $x$
+- $(\exists1)$ $\varphi(t)\to \exists x\, \varphi(x)$，其中项 $t$ 在 *φ* 中可代入 $x$
+- $(\forall2)$ $\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)$，其中 $x$ 在 *χ* 中不自由
+- $(\exists2)$ $\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)$，其中 $x$ 在 *χ* 中不自由
+- $(\forall3)$ $\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi$，其中 $x$ 在 *χ* 中不自由。
 
-MTL$\forall$ 的推理规则，是 **肯定前件** 再加 **概括规则**：由 $\varphi$ 推出 $\forall x\,\varphi$。
+MTL$\forall$ 的推理规则，是 **肯定前件** 再加 **概括规则**：由 *φ* 推出 $\forall x\,\varphi$。
 
 给其他基于 t-范数的命题模糊逻辑配一阶对应物，有两条路。第一条是把 MTL$\forall$ 的公理化扩一扩，加入前几节那些命题公理的一阶实例，于是得到 Łukasiewicz 逻辑、Gödel–Dummett 逻辑、乘积逻辑、Hájek 基本模糊逻辑 BL 等的一阶变体的句法呈现。第二条是改动 MTL$\forall$ 的语义定义，改为由相应 t-范数（集合）给出后承关系。接下来自然要问：每种情形下，这两条路是否通向同一个逻辑（MTL 就是如此）？可靠性不成问题，因为这些公理系统相对于相应结构类很容易验证可靠；完全性则没有一般答案，只能一案一议。
 
@@ -114,13 +114,13 @@ MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链�
 
 把中间真值以及相应逻辑联结词的含义，同含模糊、不精确概念的推理的基本模型挂起钩来，很有好处：不只是哲学上有意义，也能更好把握模糊逻辑的应用前景。为此已提出若干语义，替特定的真值函项联结词选择作辩护；这里只简述两个。
 
-投票语义的想法是：不同的行动者（投票者）可以融贯地对同一命题给出不同判断。把接受命题 $\varphi$ 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 **怀疑水平**，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
+投票语义的想法是：不同的行动者（投票者）可以融贯地对同一命题给出不同判断。把接受命题 *φ* 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 **怀疑水平**，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
 
 Robin Giles（1974）提出另一个有趣的推理模型，能为 Łukasiewicz 逻辑的全部命题联结词提供辩护。这是一场博弈：两个玩家（我和“你”）按下面这类规则，把逻辑复合的断言（公式）一步步化归为更简单的断言：
 
-- 我若断言 $\varphi \lor \psi$，就必须断言 $\varphi$ 或 $\psi$。
-- 我若断言 $\varphi \land \psi$，就由你挑一个合取项，我相应地断言 $\varphi$ 或 $\psi$。
-- 我若断言 $\varphi \to \psi$，那么你一旦断言 $\varphi$，我就得断言 $\psi$。
+- 我若断言 $\varphi \lor \psi$，就必须断言 *φ* 或 *ψ*。
+- 我若断言 $\varphi \land \psi$，就由你挑一个合取项，我相应地断言 *φ* 或 *ψ*。
+- 我若断言 $\varphi \to \psi$，那么你一旦断言 *φ*，我就得断言 *ψ*。
 
 量化陈述的规则要预设一个固定域，并假定每个域元素都有约定的常项符号：
 
@@ -148,7 +148,7 @@ Jeff Paris（2000）综述了支持各种真值函项选择的其他语义，尤
 
 模糊逻辑对 **堆垛悖论** 给出一种分析，照顾到这样一个直觉：陈述 (2) 虽然算不上完全真，但几乎是真的。
 
-在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 **肯定前件** 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，$\epsilon$ 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 **肯定前件** 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，就越来越说不上所得的数“也是巨大的”了。
+在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 **肯定前件** 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，*ε* 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 **肯定前件** 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，就越来越说不上所得的数“也是巨大的”了。
 
 Hájek & Novák 2003 另提出一种基于真值度的 **堆垛悖论** 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 **堆垛** 式推理。
 

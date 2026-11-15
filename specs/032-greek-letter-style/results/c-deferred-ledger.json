@@ -1,0 +1,223 @@
+{
+ "schema": "sep-cn-greek-cdeferred-ledger/1",
+ "date": "2026-11-15",
+ "basis": "ADR-0049 决策1，GB 3102.11 变量斜体/算符正体",
+ "rows": [
+  {
+   "file": "c/computability.md",
+   "line": 38,
+   "old": "$\\Sigma$",
+   "new": "*Σ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "c/computability.md",
+   "line": 38,
+   "old": "$\\Sigma$",
+   "new": "*Σ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "c/computability.md",
+   "line": 164,
+   "old": "$\\mu$",
+   "new": "μ",
+   "cls": "C",
+   "why": "算子"
+  },
+  {
+   "file": "c/computability.md",
+   "line": 174,
+   "old": "$\\mu$",
+   "new": "μ",
+   "cls": "C",
+   "why": "算子"
+  },
+  {
+   "file": "d/dynamic-semantics.md",
+   "line": 122,
+   "old": "$\\Sigma$",
+   "new": "*Σ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "d/dynamic-semantics.md",
+   "line": 122,
+   "old": "$\\Sigma$",
+   "new": "*Σ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "f/fitness.md",
+   "line": 75,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 35,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 54,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 54,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 347,
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "i/imprecise-probabilities.md",
+   "line": 347,
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 80,
+   "old": "$\\Delta$",
+   "new": "*Δ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 208,
+   "old": "$\\Delta$",
+   "new": "*Δ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-linear.md",
+   "line": 214,
+   "old": "$\\Delta$",
+   "new": "*Δ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-preference.md",
+   "line": 531,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-preference.md",
+   "line": 531,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "l/logic-preference.md",
+   "line": 531,
+   "old": "$\\Omega$",
+   "new": "*Ω*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "r/ramsey-economics.md",
+   "line": 164,
+   "old": "$\\Delta$",
+   "new": "Δ",
+   "cls": "C",
+   "why": "算子"
+  },
+  {
+   "file": "r/ramsey-economics.md",
+   "line": 244,
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "r/ramsey-economics.md",
+   "line": 252,
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cls": "A",
+   "why": "变量"
+  },
+  {
+   "file": "r/ramsey-economics.md",
+   "line": 270,
+   "old": "$\\mu$",
+   "new": "*μ*",
+   "cls": "A",
+   "why": "变量"
+  }
+ ]
+}

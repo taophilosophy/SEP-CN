@@ -36,15 +36,15 @@ Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻�
 
 **$R_1$**
 
-若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（分离规则）。
+若 *φ* 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 *ψ* 是 A 的定理（分离规则）。
 
 **$R_2$**
 
-设 $\varphi$ 是 A 的定理，且 $\psi$ 除一处外处处与 $\varphi$ 相似：凡 $\varphi$ 中出现某变元之处，$\psi$ 中出现一个 A 公式。则 $\psi$ 是 A 的定理（代入）。
+设 *φ* 是 A 的定理，且 *ψ* 除一处外处处与 *φ* 相似：凡 *φ* 中出现某变元之处，*ψ* 中出现一个 A 公式。则 *ψ* 是 A 的定理（代入）。
 
 **$R_3$**
 
-设 $\varphi$ 与 $\tau_1\equiv\tau_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$\tau_1$ 在 $\psi$ 的一处或多处出现，而 $\tau_2$ 在 $\varphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
+设 *φ* 与 $\tau_1\equiv\tau_2$ 是 A 的定理，*ψ* 是 A 公式，且 *ψ* 除一处外处处与 *ψ* 相似：$\tau_1$ 在 *ψ* 的一处或多处出现，而 $\tau_2$ 在 *φ* 中出现。则 *ψ* 是 A 的定理（替换）。
 
 $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
 
@@ -52,7 +52,7 @@ $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asy
 
 Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
 
-**理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 $\varphi$ 与 $\psi$ 不含合取或析取符号。
+**理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 *φ* 与 *ψ* 不含合取或析取符号。
 
 理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
 
@@ -92,7 +92,7 @@ $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \ne
 * 定性偏好 对 可测量的价值（如效用）
 * 无风险的偏好 对 不确定性下的偏好
 
-更具体地说，von Wright 采纳的形式语言仍是 Halldén A 公式的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。但与理论 B 的语言不同：若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个公式中，$\varphi$ 与 $\psi$ 可以含合取或析取符号。
+更具体地说，von Wright 采纳的形式语言仍是 Halldén A 公式的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。但与理论 B 的语言不同：若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个公式中，*φ* 与 *ψ* 可以含合取或析取符号。
 
 与 Halldén 的两个理论不同，偏好逻辑并非作为公理演算给出。相反，它是一种判定技术：判定给定的偏好表达式（P 表达式）是否表示一个逻辑上为真的命题。
 
@@ -132,7 +132,7 @@ von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含
 
 在 $\neg p \land \neg q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可得到没有 q 的 p，也不愿得到没有 p 的 q。
 
-原理 $V_5$ 是所谓偏好的整体性性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
+原理 $V_5$ 是所谓偏好的整体性性质。设 *φ* 为一公式，$PL(\varphi)$ 为 *φ* 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
 
 $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
 
@@ -164,7 +164,7 @@ Rescher（1966, 1967）引入了偏好逻辑的第一个语义学，其模型是
 2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
 3. 若 A 上 $m(\varphi) \lt m(\psi)$ 成立，则 $v(\varphi P\psi) = 1$；否则为 0
 
-对给定的公式集 $\Gamma$，满足关系定义如下：
+对给定的公式集 *Γ*，满足关系定义如下：
 
 $$\begin{align*} A, m, v \models p &\quad \textrm{ 当且仅当}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } v\\ A, v \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } m\\ A \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v\models \varphi \textrm{ 对所有 } m \textrm{ 且 } v\\ \models \varphi &\quad \textrm{ 当且仅当}\quad A \models \varphi \textrm{ 对所有 } A (\varphi \textrm{ 为真})\\ A, m, v \models \Gamma &\quad \textrm{ 当且仅当}\quad A, m, v \models \Gamma \textrm{ 对所有 } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ 当且仅当}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
 
@@ -254,7 +254,7 @@ $\mathcal{M}$, $w \models U \varphi$    当且仅当对任意 v，$\mathcal{
 
 $$\varphi\geq^{\forall\exists}\psi \mathbin{\,:=\,} U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
 
-我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与该 $\varphi$-世界同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
+我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 *φ*-世界，都存在一个与该 *φ*-世界同样好的 *ψ*-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
 
 1. $\varphi\geq^{\forall\exists}\psi \mathbin{\,:=\,} U(\varphi\rightarrow\langle\geq\rangle\psi)$
 2. $\varphi\geq^{\exists\exists}\psi \mathbin{\,:=\,} E(\varphi\land\langle\geq\rangle\psi)$
@@ -280,7 +280,7 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
 4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
 5. Gen. 对一切命题重言式取 $U\varphi,$
-6. MP. 由 $\varphi$ 与 $\varphi\rightarrow\psi$ 推出 $\psi$。
+6. MP. 由 *φ* 与 $\varphi\rightarrow\psi$ 推出 *ψ*。
 
 图 7
 
@@ -288,7 +288,7 @@ Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方�
 
 $$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (1) \ \forall x \in \mathopen{[\![}\varphi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\psi\mathclose{]\!]}_w : x \succeq_w y; \\ (2) \ \forall x \in \mathopen{[\![}\psi\mathclose{]\!]}_w \ \exists y \in \mathopen{[\![}\varphi\mathclose{]\!]}_w : y \succeq_w x \end{cases}$$
 
-其中 $\mathopen{[\![}\varphi\mathclose{]\!]}_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
+其中 $\mathopen{[\![}\varphi\mathclose{]\!]}_w$ 表示自 w 可及且满足 *φ* 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
 
 ## 4 基于理由的偏好
 
@@ -399,18 +399,18 @@ Osherson 与 Weinstein 还探讨可判定性问题以及模型子类的各种条
 
 Sven Ove Hansson（1995）对偏好改变作了细致分析，在 AGM 框架内辨识出四种类型：
 
-* **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
-* **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
+* **修正**：获得对 *φ* 优于 *ψ* 的偏好，伴随修正陈述“*φ* 优于 *ψ*”。
+* **收缩**：移除“*φ* 优于 *ψ*”这一偏好。
 * **添加**：向所考虑的选项集添加一个新备选物。
 * **删除**：从所考虑的选项集中移除一个选项。
 
-信念修正通过分配优先性来最小化对先前信念的改变；Hansson 则论证优先性不适合偏好修正。在偏好修正中，接纳像 $\varphi\succeq \psi$ 这样的新陈述，可能涉及调整 $\varphi$ 或 $\psi$ 任意一方的位置。他还提出一个相似性测度，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
+信念修正通过分配优先性来最小化对先前信念的改变；Hansson 则论证优先性不适合偏好修正。在偏好修正中，接纳像 $\varphi\succeq \psi$ 这样的新陈述，可能涉及调整 *φ* 或 *ψ* 任意一方的位置。他还提出一个相似性测度，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
 
-Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
+Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 *φ* 被公开建议之后，*ψ* 成立”，定义为：
 
 $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ 当且仅当 }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
 
-其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的定义域、赋值与现实世界，唯偏好关系经更新，删去由 $\varphi$-世界指向 $\neg \varphi$-世界的偏好链接：
+其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的定义域、赋值与现实世界，唯偏好关系经更新，删去由 *φ*-世界指向 $\neg \varphi$-世界的偏好链接：
 
 $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ 且 } \mathfrak{M}, t \models \neg \varphi\}.$$
 
@@ -418,7 +418,7 @@ $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ 且 }
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 
-即除由 $\varphi$-世界指向 $\neg \varphi$-世界的链接外，所有既有 R 链接均予保留。这一设置可容纳不同类型的偏好改变。例如，添加偏好链接（使每个 $\varphi$-世界都优于每个 $\neg \varphi$-世界）可表示为
+即除由 *φ*-世界指向 $\neg \varphi$-世界的链接外，所有既有 R 链接均予保留。这一设置可容纳不同类型的偏好改变。例如，添加偏好链接（使每个 *φ*-世界都优于每个 $\neg \varphi$-世界）可表示为
 
 $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
 
@@ -426,7 +426,7 @@ $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
 
 $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
 
-它使所有 $\varphi$-世界优于所有 $\neg \varphi$-世界，同时保留每组内部的原有序。
+它使所有 *φ*-世界优于所有 $\neg \varphi$-世界，同时保留每组内部的原有序。
 
 这一动态偏好逻辑通过支持多种关系改变算子而扩充 DEL；Van Benthem 与 Liu（2007）为这些算子给出完全性定理。其结果借助 PDL 格式——它使动态模态词的归约与归约公理的递归计算成为可能。
 
@@ -438,7 +438,7 @@ $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varph
 
 得知寿司以不新鲜的鱼做成，这一消息改变了我的信念，进而反转初始偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
 
-AGM 框架通过建立公设处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 $\alpha$ 后，$\beta$ 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
+AGM 框架通过建立公设处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 *β*，*α* 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 *β*，*α* 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 *α* 后，*β* 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
 
 $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
 
@@ -474,11 +474,11 @@ $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B
 
 #### 5.3.2 追踪动态学
 
-为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，则称 $\alpha$ 诱导 $\sigma$，若：
+为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，则称 *α* 诱导 *σ*，若：
 
 $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
-若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
+若一个操作 *α* 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 *σ*，则称 *α* 为 *PDL*-可定义操作：
 
 $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
@@ -528,13 +528,13 @@ $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 解释“其余一切相同”这一短语时，一个自然的做法是使用世界的等价类。该领域的许多研究者都采取了这一进路。例如，Doyle 与 Wellman（1994）为个体定义了依赖语境的等价关系，称为语境等价。由此，等价类可以随所考虑的语境而变化。
 
-形式上，设 $\Omega$ 为状态集，$\mathcal{E}(\Omega)$ 表示 $\Omega$ 上所有等价关系构成的集合。语境等价定义为 $\Omega$ 上的函数 $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，对每个命题集 $\{p, q, \ldots\}$ 指派等价关系 $\eta(p, q, \ldots)$。当 $w\,\eta(p,q,\ldots)\, w^{\prime}$ 时，记作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意即就 $p, q, \ldots$ 而言，w 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）因此提议：将可能性空间划分为等价类，忽略跨越这些类的比较链接。
+形式上，设 *Ω* 为状态集，$\mathcal{E}(\Omega)$ 表示 *Ω* 上所有等价关系构成的集合。语境等价定义为 *Ω* 上的函数 *η*: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，对每个命题集 $\{p, q, \ldots\}$ 指派等价关系 $\eta(p, q, \ldots)$。当 $w\,\eta(p,q,\ldots)\, w^{\prime}$ 时，记作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意即就 $p, q, \ldots$ 而言，w 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）因此提议：将可能性空间划分为等价类，忽略跨越这些类的比较链接。
 
 Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
 
 $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
 
-其中 $\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\Gamma$ 刻画一个可能世界的等价类。例如，$w \approx_{\Gamma} v$ 表示 w 与 v 就 $\Gamma$ 而言等同——二者满足 $\Gamma$ 中的同一组公式。
+其中 *Γ* 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，*Γ* 刻画一个可能世界的等价类。例如，$w \approx_{\Gamma} v$ 表示 w 与 v 就 *Γ* 而言等同——二者满足 *Γ* 中的同一组公式。
 
 其余条件相同的偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
 
@@ -542,13 +542,13 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 * $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
 * 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
 
-关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 $\Gamma$ 中公式的真值等价。涉及等价类的新公式的真值条件是：
+关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 *Γ* 中公式的真值等价。涉及等价类的新公式的真值条件是：
 
 * $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$，使 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 * $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$，使 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 * $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 
-对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
+对 *Γ* 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
 
 其余条件相同集在 $\varphi\in\Gamma$ 情形下的自反性公理：
 
@@ -569,7 +569,7 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 
 图 8：Van Benthem、Girard 与 Roy（2009）对其余条件相同偏好的公理化
 
-在完全语言中，模态词 $\langle\Gamma\rangle\varphi$ 中的 $\Gamma$ 可以任意大。Seligman 与 Girard（2011）的后续工作给出了完全逻辑一部分——即所谓“灵活”有效式之集——的公理化，并提供另一种语义：其中所有有效式都是灵活的，因而得到完全公理化。无限任意集的公理化仍是未决问题。
+在完全语言中，模态词 $\langle\Gamma\rangle\varphi$ 中的 *Γ* 可以任意大。Seligman 与 Girard（2011）的后续工作给出了完全逻辑一部分——即所谓“灵活”有效式之集——的公理化，并提供另一种语义：其中所有有效式都是灵活的，因而得到完全公理化。无限任意集的公理化仍是未决问题。
 
 ### 6.2 其余条件相同的偏好的计算模型
 
@@ -614,11 +614,11 @@ $$\begin{align*} \text{若 } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ �
 
 在可能世界语义中，可以这样解释：条件逻辑的模型也是偏好结构。然而，这些偏好逻辑是 1960 年代末与 1970 年代初作为条件逻辑与道义逻辑的对应物发展起来的，与 Halldén 和 von Wright 在此前十年发展的偏好逻辑相当不同。
 
-若以 $\varphi\Rightarrow \psi$ 表示条件句“若 $\varphi$ 则 $\psi$”，则在适当条件下可定义：$\varphi$ 优于 $\psi$，当 $\varphi\lor \psi$ 蕴涵 $\varphi$ 而不蕴涵 $\psi$：
+若以 $\varphi\Rightarrow \psi$ 表示条件句“若 *φ* 则 *ψ*”，则在适当条件下可定义：*φ* 优于 *ψ*，当 $\varphi\lor \psi$ 蕴涵 *φ* 而不蕴涵 *ψ*：
 
 $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
 
-于是我们也有：条件句“若 $\varphi$ 则 $\psi$”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+于是我们也有：条件句“若 *φ* 则 *ψ*”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
 
 $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
 
