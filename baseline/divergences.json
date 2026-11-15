@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T03:21:34Z",
+  "updated_at": "2026-11-15T03:36:26Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1526,6 +1526,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写、编者结构、出版者、重复条目（ADR-0038 ①②）",
       "registered_at": "2026-11-15T03:21:34Z"
+    },
+    {
+      "slug": "xenocrates",
+      "path": "en/xenocrates/index.html",
+      "upstream_sha256": "55c476502fa10412f85b5fb498ff93c61006477f6626b38b139cb970f567cc87",
+      "local_sha256": "7ce49189368502fbbefe900d83d7af13c11254cfe2b4ccf8e33cb5a72749a9f7",
+      "bytes": {
+        "upstream": 61932,
+        "local": 61766
+      },
+      "commit": "70d735101",
+      "subject": "015 偿还 xenocrates：引号嵌套、挂键与 Calchi 年份、书目去重勘误（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目重复条目、斜体拼写标点（ADR-0038 ①②）",
+      "registered_at": "2026-11-15T03:36:26Z"
     }
   ],
   "tombstones": [
