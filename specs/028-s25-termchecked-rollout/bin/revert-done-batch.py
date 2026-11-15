@@ -32,7 +32,7 @@ def main():
         snapshot[slug] = t["state"] if t else "ERR:not-found"
     json.dump(snapshot, open(os.path.join(
         RESULTS, "rollback-done-%s-baseline.json" % batch), "w",
-        encoding="utf-8"), ensure_ascii=False, indent=1)
+        encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
     manifest, ok, fail = [], 0, 0
     for slug in slugs:
         try:
