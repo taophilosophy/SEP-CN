@@ -208,7 +208,7 @@ segments:
 
 ### 6.5 已知陷阱与工具要点（2026-11-04，F–K 批实践沉淀）
 
-**直译流水线（主会话，无子代理）**：①`python script/lq.py init <L> <slug>`（骨架自动含标题段与 oir 段）②通读 yuanwen → 写 `script/build_<slug>.py` 双版翻译 dict（**分批落盘、每批即 commit 账本**，防会话中断丢失；注意 `json.dumps` 把元组转列表，取值须 `s1, s2 = v[0], v[1]`）③组装账本＋守恒自检 → `lq.py check`（HARD=0 方可写回）→ `lq.py compose --write` ④`script/italic_to_bold_cjk.py <md>`（中文强调斜体→粗体）⑤四检（style/math/summary/academic --strict）→ task_ops 八步推进 → pathspec commit。
+**直译流水线（主会话，无子代理）**：①`python script/lq.py init <L> <slug>`（骨架自动含标题段与 oir 段）②通读 yuanwen → 写 `script/build_<slug>.py` 双版翻译 dict（**分批落盘、每批即 commit 账本**，防会话中断丢失；注意 `json.dumps` 把元组转列表，取值须 `s1, s2 = v[0], v[1]`）③组装账本＋守恒自检 → `lq.py check`（HARD=0 方可写回）→ `lq.py compose --write` ④`script/italic_to_bold_cjk.py <md>`（中文强调斜体→粗体）⑤四检（style/math/summary/academic --strict）→ task_ops 逐步推进（`clear` 后先 `advance --step s0` 源审计前置，ADR-0052）→ pathspec commit。
 
 **compose 陷阱**：
 
