@@ -6,7 +6,7 @@
 
 ## 1 1277 年 3 月 7 日之前的事件
 
-关于导致唐皮耶主教谴责的事件，传统图景大致如下。1277 年 1 月 18 日，教皇约翰二十一世（Pope John XXI）致函巴黎主教斯蒂芬·唐皮耶，告知他自己听闻了异端的传言，并责成他查明（*facias inspici vel inquiri*）这些错误是在何处、由何人散布（CUP 1: 541）。1277 年 3 月 7 日，唐皮耶主教公布了他的清单，列有 219 条神学与哲学命题（*articuli*），以及若干遭谴责的书籍。任何讲授或听讲所列错误者，都将被处以绝罚；除非他们在七日内向主教或校监自首，此种情况下主教将课以相应的惩罚（CUP 1: 543）。
+关于导致唐皮耶主教谴责的事件，传统图景大致如下。1277 年 1 月 18 日，教皇约翰二十一世（Pope John XXI）致函巴黎主教斯蒂芬·唐皮耶，告知他自己听闻了异端的传言，并责成他查明（*facias inspici vel inquiri*）这些错误是在何处、由何人散布（CUP 1: 541）[^denifle-1889]。1277 年 3 月 7 日，唐皮耶主教公布了他的清单，列有 219 条神学与哲学命题（*articuli*），以及若干遭谴责的书籍。任何讲授或听讲所列错误者，都将被处以绝罚；除非他们在七日内向主教或校监自首，此种情况下主教将课以相应的惩罚（CUP 1: 543）[^denifle-1889]。
 
 由于这封教皇书信先于唐皮耶的谴责，人们普遍认定唐皮耶是奉教皇之命行事，而且行事过于热切而仓促。在信中，教皇只是责成唐皮耶调查错误教学的传言，而他的回应却是拟出一份 219 条错误命题的清单。此外，从教皇指示到唐皮耶公布清单，前后只有约六周；史家称这份清单重复而杂乱。
 
@@ -83,10 +83,6 @@
 ## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### 版本与译本（Editions and translations）
-
-### 研究文献（Studies）
 
 [^anzulewicz-1992]: Anzulewicz, Henryk. “*Eine weitere Überlieferung der Collectio errorum in Anglia et Parisius condemnatorum* im *Ms. lat. fol. 456 der Staatsbibliothek Preussischer Kulturbesitz zu Berlin*,” *Franziskanische Studien*, 74 (1992): 375–99.
 
