@@ -20,6 +20,7 @@
 | 阶段 | 角色 | 输入信息项 | 验证门禁 | 输出信息项 |
 | ---- | ---- | ---- | ---- | ---- |
 | P0 入库 intake | R4 | catalog 漂移报告、baseline 登记 | fetch_audit 闭包、check_summary | baseline、en/、yuanwen/、骨架任务 |
+| P0.5 源审计 s0 | R2/R4 | en/ 包、yuanwen/、分歧账与 errata 册 | en_integrity＋en_source_audit 硬错误拦（ADR-0052） | HTML 本体核查记录、镜像轴保真记录、勘误/登记处置 |
 | P1 初译 draft | R1 | 英文源、登记册摘录、账本模板 | 守恒校验（残余≠0 禁写回） | 译文、ledger（step1/step2）、任务 steps |
 | P2 一校 s1 | R1/R2 | 英文源、账本 step1 | 残留外文碎片 0 | 对照记录（锚点/diff） |
 | P3 二校 s2 | R1/R2 | 译文、反欧化条款 | check_prose 告警清零或豁免留痕 | 修改 diff、语体结论 |
