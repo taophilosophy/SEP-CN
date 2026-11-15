@@ -45,7 +45,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（按实测页数均衡：a–d 1165、e–k 1050、l–p 1196、q–z 915，中英两侧同片）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）与 `1/`、`qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 只进 `ad` 片。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
 * 分片模式**关闭死链检查**（`ignoreDeadLinks: true`）：跨片链接在本片必然"缺失"。链接完整性由不设 `SEP_SHARD` 的全量构建负责（本地收工前照旧 `bun run build`）。
 * `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
-* 实测（本机）：单分片打包＋渲染 3.3–4.2 min；四片并行＋合并（pagefind 5.3 min）约 13 min，对比全量 24 min。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
+* 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
 
 ## dev 服务器
 
