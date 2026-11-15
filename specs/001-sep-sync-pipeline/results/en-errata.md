@@ -371,3 +371,16 @@
 | buridan | thijssen-2001 两位编者作 `(ed.)` | `(eds.)` | 体例（①） |
 | buridan | streijger-2010 `Aristotelis</em>,”,` 引号与斜体次序错乱 | `Aristotelis”</em>,` | 标点（①） |
 | buridan | Klima/Sobol/Hartman/Zupko 2023 在 Modern 与 Translations 两区重复登记 | 删 Modern 区一条 | 重复条目（①） |
+| xenocrates | Horky 2013 同文重复登记（一条引号错乱 `”Pythagorean“`） | 删畸形条，保留规范条 | 重复条目（①） |
+| xenocrates | dörrie-1998 `philosophisce` | `philosophische` | 拼写（①） |
+| xenocrates | garcía-2024 `<em>Themistius. Paraphrase of Aristotle</em>, De anima.` | 全题名入斜体 | 斜体断裂（①） |
+| xenocrates | gutas-2010 `<em>Theophrastus</em> On First Principles (<em>known as his</em> Metaphysics)` | 全题名入斜体 | 斜体断裂（①） |
+| xenocrates | raffa-2016 `<em>Claudio Tolemeo.</em> Armonica<em>. Con il…</em>` | 全题名入斜体 | 斜体断裂（①） |
+| xenocrates | petrucci-2022 `“Platone. <em>Timeo</em>”. Introduzione` | `<em>Platone. Timeo</em>. Introduzione` | 斜体断裂（①） |
+| xenocrates | calchi-2023 `Calchi, V,.`、`<em>The Theology of the</em> Epinomis` | `V.,`、整题名斜体 | 标点与斜体（①） |
+| xenocrates | heinze-1892 `Stuttgart: Teubner, 1892` | `Stuttgart: Teubner` | 年份重复（①） |
+| xenocrates | rashed-2004 `<em>&Alpha;rabic Sciences…` | `Arabic` | 希腊字母混入（①） |
+| xenocrates | timotin-2012 `Brill: Leiden-Boston` | `Leiden-Boston: Brill` | 出版地倒置（①） |
+| xenocrates | mansfeld-2020 `Runia, D, 2020` | `and D. Runia, 2020` | 标点（①） |
+| xenocrates | 五条重复作者标记 `&ndash;&ndash; 20xx` | `&ndash;&ndash;&ndash;, 20xx` | 破折号缺一（①） |
+| xenocrates | 正文 `Calchi 2020`（书目作 2023） | `Calchi 2023` | 正文书目矛盾（②） |

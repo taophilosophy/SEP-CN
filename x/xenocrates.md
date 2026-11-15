@@ -2,11 +2,11 @@
 
 *首次发表于 2003 年 7 月 25 日；2025 年 9 月 3 日实质修订。*
 
-据第欧根尼·拉尔修记载（D.L., IV 14 = T 2 IP），色诺克拉底生于卡尔克顿——博斯普鲁斯海峡亚洲一侧、与拜占庭隔水相望的城市。斯彪西波去世后，他于公元前 339/338 年（“第 110 届奥林匹亚德第二年”）出任学园园长。第欧根尼补充说，他任此职二十五年，享年 82 岁。因此，其生卒年通常标为公元前 396/395–314/313 年。
+据第欧根尼·拉尔修记载（D.L., IV 14 = T 2 IP），色诺克拉底生于迦克墩——博斯普鲁斯海峡亚洲一侧、与拜占庭隔水相望的城市。斯彪西波去世后，他于公元前 339/338 年（“第 110 届奥林匹亚德第二年”）出任学园园长。第欧根尼补充说，他任此职二十五年，享年 82 岁。因此，其生卒年通常标为公元前 396/395–314/313 年。
 
 柏拉图去世、斯彪西波继任学园园长时，色诺克拉底与亚里士多德可能应阿塔尔纽斯的赫尔米亚斯之邀一同离开雅典（斯特拉波《地理学》XIII 57）；后来色诺克拉底返回，接替斯彪西波。据第欧根尼（IV 3 = T 21 IP），这是应斯彪西波之请；而《学园派赫库兰尼姆索引》（cols. 6,41–7,18: Fleisher 2018, 175–176 = T 1 IP）则说，学园的青年成员首次投票，以微弱多数确认色诺克拉底（击败本都的赫拉克利德与皮拉的门内德穆）为该校首位经选举产生的园长。这两种说法虽不相互排斥，却是关于继任的两种不同版本；似乎无法透过它们弄清实际发生了什么。
 
-第欧根尼的著作目录（IV 11–14 = T 2 IP）列出七十多种归于色诺克拉底的题名，无一存世，甚至在其他作者那里也找不到可以明确辨认的引文。与斯彪西波的情况一样，色诺克拉底学说的重构在很大程度上依赖亚里士多德；而令人无奈的是，亚里士多德常常不点色诺克拉底的名。亚里士多德讨论其哲学观点时从未直接指名色诺克拉底；但某些反复出现的表述，透出对他学说的可能指涉。例如他谈到“设定型相的人”（这一短语常包括柏拉图与色诺克拉底）、“为数学对象与型相设定同一本性的人”，或“把灵魂定义为“自行运动的数”的人”（详见下文）。
+第欧根尼的著作目录（IV 11–14 = T 2 IP）列出七十多种归于色诺克拉底的题名，无一存世，甚至在其他作者那里也找不到可以明确辨认的引文。与斯彪西波的情况一样，色诺克拉底学说的重构在很大程度上依赖亚里士多德；而令人无奈的是，亚里士多德常常不点色诺克拉底的名。亚里士多德讨论其哲学观点时从未直接指名色诺克拉底；但某些反复出现的表述，透出对他学说的可能指涉。例如他谈到“设定型相的人”（这一短语常包括柏拉图与色诺克拉底）、“为数学对象与型相设定同一本性的人”，或“把灵魂定义为‘自行运动的数’的人”（详见下文）。
 
 本词条通篇对色诺克拉底残篇的引证，均依 Isnardi Parente 修订版（2012）的编号，以下简称“IP”。
 
@@ -42,7 +42,7 @@
 
 > ……它并不无限延伸，而是止于某些不可分者（*atoma*）。然而，这些不可分者并非因其没有部分且最小而不可分，而是在量上可裂、具有部分，但在形式上不可分且为首要——这里假设存在某些首要的不可分线，以及由它们而来的面和首要的立体。（Huby 与 Taylor 英译）
 
-倘若我们相信这一证言，色诺克拉底或许认为，他能用“线”这个概念做亚里士多德准备用“人”之类概念做的事。亚里士多德愿意说，人不可分，因而适合充当算术家观想的单元——其意义是：若把人分成两部分，你所得到的并不是两个人（见亚里士多德《形而上学》N3, 1078a23–26）。色诺克拉底的形而上学原子论在多大程度上应被理解为一种物理最小量理论（普鲁塔克的证言似乎也如此暗示：《柏拉图问题》8, 1007c = fr. 132 IP），学界并无共识。设定不可分线对其宇宙论有重要意涵。Sedley（2021）与 Alieva（2021）近来强调了这一点，并探讨他的数学与形而上学承诺如何塑造其关于宇宙结构与可感觉者的更宽泛说明。
+倘若我们相信这一证言，色诺克拉底或许认为，他能用“线”这个概念做亚里士多德准备用“人”之类概念做的事。亚里士多德愿意说，人不可分，因而适合充当算术家观想的单元——其意义是：若把人分成两部分，你所得到的并不是两个人（见亚里士多德《形而上学》N3, 1078a23–26）。色诺克拉底的形而上学原子论在多大程度上应被理解为一种物理最小量理论（普鲁塔克的证言似乎也如此暗示：《柏拉图问题》8, 1007c = fr. 132 IP），学界并无共识。设定不可分线对其宇宙论有重要意涵。Sedley（2021）[^sedley-2021] 与 Alieva（2021）[^alieva-2021] 近来强调了这一点，并探讨他的数学与形而上学承诺如何塑造其关于宇宙结构与可感觉者的更宽泛说明。
 
 色诺克拉底对不可分量的支持，引出了一个推测：伪亚里士多德著作《论不可分线》至少部分是针对他的；书中第一章为不可分线存在所列举、后来又在该论著中遭到反驳的论证，最终可能源出色诺克拉底。遗憾的是，由于文本状况不佳，这些论证颇为晦涩（关于其中前四个论证的简明总结，见 Furley 1967, 105）[^furley-1967]。有些论证大得益于埃利亚的芝诺：色诺克拉底受芝诺影响本是意料中事，其他材料亦可证实（尤见上文部分引用的波菲利段落，载辛普里丘《亚里士多德〈物理学〉注》140.6–18；关于色诺克拉底论证与芝诺的联系，另见 Gemelli Marciano 2007, 132–137）[^gemelli-2007]。目前，在该论著获得更好的重构之前，它与色诺克拉底学说的关联无法详加评判。
 
@@ -64,7 +64,7 @@
 
 因此，亚里士多德把色诺克拉底的宇宙说明描绘为赋予宇宙以连续性（与斯彪西波相对）；特奥弗拉斯托斯则强调其完备性——色诺克拉底的说明涵盖现实每一层级，从可理知者到可感觉者（关于色诺克拉底如何把形而上学实体与可感觉者衔接起来，见 Horky 2022）[^horky-2022]。
 
-除了把色诺克拉底世界的构成要素作总体划分（试图调和这一证据与其他证言者，见 Horky 2013）[^horky-2013][^horky-2013-2]，特奥弗拉斯托斯提到“神性事物”尤为值得注意。他说这些东西也得到了专门说明并被安置在体系之内，这似乎反映出一种更广的倾向：把传统诸神与形而上学本原及天体联系起来，从而把神学引入形而上学的领域。这一倾向在柏拉图晚期对话中已可察觉，并在学园内部进一步发展（尤其在《厄庇诺米斯》中；见 Aronadio-Tulli-Petrucci 2018 与 Calchi 2020）[^aronadio-2018]（关于学园中的这一倾向，见 Thiel 2006；Dillon 2020；Bartninkas 2023）[^bartninkas-2023][^dillon-2020][^thiel-2006]。埃提乌斯的一则记载（埃提乌斯 I, 7 30 = fr. 133 IP，见 Mansfeld-Runia 2020, 400 n. *ad* §20）[^mansfeld-2020]似乎恰恰反映了这类神学-形而上学的整合。它说色诺克拉底把一与二认作神——前者为男，后者为女——把天体视为神圣，并以精灵（*daimones*）填充月下世界。这则证言所存信息有多少可照字面采信，难以断定——把其中细节与我们已知的色诺克拉底形而上学调和起来，会引出若干问题（正如 Dillon 2003 正确地指出的那样，其说反对 Baltes 1988 的解释，而 Thiel 2006 大体接受了后者）[^baltes-1988][^dillon-2003][^thiel-2006]。然而，即便细节不确定，这则及类似段落仍然证明了沟通形而上学与神学的普遍倾向。
+除了把色诺克拉底世界的构成要素作总体划分（试图调和这一证据与其他证言者，见 Horky 2013）[^horky-2013]，特奥弗拉斯托斯提到“神性事物”尤为值得注意。他说这些东西也得到了专门说明并被安置在体系之内，这似乎反映出一种更广的倾向：把传统诸神与形而上学本原及天体联系起来，从而把神学引入形而上学的领域。这一倾向在柏拉图晚期对话中已可察觉，并在学园内部进一步发展（尤其在《厄庇诺米斯》中；见 Aronadio-Tulli-Petrucci 2018 与 Calchi 2023）[^calchi-2023][^aronadio-2018]（关于学园中的这一倾向，见 Thiel 2006；Dillon 2020；Bartninkas 2023）[^bartninkas-2023][^dillon-2020][^thiel-2006]。埃提乌斯的一则记载（埃提乌斯 I, 7 30 = fr. 133 IP，见 Mansfeld-Runia 2020, 400 n. *ad* §20）[^mansfeld-2020]似乎恰恰反映了这类神学-形而上学的整合。它说色诺克拉底把一与二认作神——前者为男，后者为女——把天体视为神圣，并以精灵（*daimones*）填充月下世界。这则证言所存信息有多少可照字面采信，难以断定——把其中细节与我们已知的色诺克拉底形而上学调和起来，会引出若干问题（正如 Dillon 2003 正确地指出的那样，其说反对 Baltes 1988 的解释，而 Thiel 2006 大体接受了后者）[^baltes-1988][^dillon-2003][^thiel-2006]。然而，即便细节不确定，这则及类似段落仍然证明了沟通形而上学与神学的普遍倾向。
 
 关于神、精灵与人，我们从普鲁塔克那里听到更多。他告诉我们（《论神谕的衰歇》416c–d = fr. 142 IP），色诺克拉底把三者与三角形类型联系起来：神对应等边三角形，精灵对应等腰三角形，人对应不等边三角形。正如等腰三角形介于等边与不等边三角形之间，精灵也处于神与人之间的中间位置。普罗克洛斯记录了精灵灵魂与三角形之联系的另一个版本（普罗克洛斯《〈理想国〉注》2, 48,4ff. Kroll = fr. 143 IP）。更一般地说，色诺克拉底似乎是第一个把柏拉图关于“精灵”（*daimonion*）的零散提及发展成较为系统的精灵学框架的人（Timotin 2012）[^timotin-2012]。在色诺克拉底看来，精灵似乎有善有恶；但在某些证言中，个体灵魂本身似乎就与其精灵同一，而精灵的道德品格决定其幸福——亚里士多德如此记载（亚里士多德《论题篇》II, 6 112a32–37 = fr. 154 IP）。
 
@@ -88,7 +88,7 @@
 
 色诺克拉底这一说明的许多方面仍然晦暗不明。这里提到的数应当等同于形式数吗？为什么强调灵魂的自行运动能力——这一特征在《蒂迈欧篇》中并未受到强调（甚至可以说遭到否定；讨论见 Petrucci 2018, 280–281）？正因如此，有些解释者（例如 Sedley 2021）[^sedley-2021]提出，《斐德罗篇》也构成背景的一部分。色诺克拉底似乎接受了柏拉图晚期对话所发展的主题，又有鲜明的神学兴趣，并倾向把宇宙构成要素与神圣实体相联系；因此，设想《法篇》第十卷也对这幅图景有所贡献，并非不近情理。
 
-色诺克拉底还被与《蒂迈欧篇》宇宙生成论的所谓“隐喻”解释联系在一起：按此解释，某些早期柏拉图派声称，柏拉图关于世界“生成”的叙述只是一套教学手段（Centrone 2010；关于此问题另见 Reydams-Schils 2012；Dillon 2012）[^centrone-2010][^dillon-2012][^reydams-schils-2012]。按这些柏拉图派，柏拉图并非想说世界曾在时间中生成：世界的生成是一个说明性的隐喻，正如几何学家通过展示作图过程使其图形更清晰。关于此事的最早材料是亚里士多德（《论天》I 10, 279b32–280a2 = fr. 73 IP），但他只提到“某些人”。是辛普里丘告诉我们，亚里士多德心里首先指的是“色诺克拉底与柏拉图派”（《论天注》303,34–304,16 = fr. 74 IP）；同样的归属也见于一则匿名旁注，其中明确点出斯彪西波与色诺克拉底都试图“为柏拉图解围”（《亚里士多德〈论天〉旁注》409a9–12 Brandis = fr. 76 IP）。然而，《论天》这则证言本身并不像许多学者所假定的那样明确。首先，亚里士多德一贯把“世界不可毁灭却又生成”这一主张归于这些未点名的柏拉图派。其次，亚里士多德反驳与图表的类比时诉诸《蒂迈欧篇》原文（《蒂迈欧篇》30a）：他说，若无生成过程、因而若无时间，秩序便不能从无序中产生；相反，在图表中并没有任何东西在时间上分离。可是，亚里士多德为什么要用对《蒂迈欧篇》的“字面”读法，去反驳一种据说是“隐喻”的解释呢？Dörrie 与 Baltes（1998）主张，亚里士多德对隐喻说的反驳是窃取论点（*petitio principii*）。进一步讨论见 De Cesaris 2023a。因此，很可能是后来的柏拉图主义传统起了作用，把早期柏拉图派的看法发展成对世界“非生成”的更明确肯定。
+色诺克拉底还被与《蒂迈欧篇》宇宙生成论的所谓“隐喻”解释联系在一起：按此解释，某些早期柏拉图派声称，柏拉图关于世界“生成”的叙述只是一套教学手段（Centrone 2010；关于此问题另见 Reydams-Schils 2012；Dillon 2012）[^centrone-2010][^dillon-2012][^reydams-schils-2012]。按这些柏拉图派，柏拉图并非想说世界曾在时间中生成：世界的生成是一个说明性的隐喻，正如几何学家通过展示作图过程使其图形更清晰。关于此事的最早材料是亚里士多德（《论天》I 10, 279b32–280a2 = fr. 73 IP），但他只提到“某些人”。是辛普里丘告诉我们，亚里士多德心里首先指的是“色诺克拉底与柏拉图派”（《论天注》303,34–304,16 = fr. 74 IP）；同样的归属也见于一则匿名旁注，其中明确点出斯彪西波与色诺克拉底都试图“为柏拉图解围”（《亚里士多德〈论天〉旁注》409a9–12 Brandis = fr. 76 IP）。然而，《论天》这则证言本身并不像许多学者所假定的那样明确。首先，亚里士多德一贯把“世界不可毁灭却又生成”这一主张归于这些未点名的柏拉图派。其次，亚里士多德反驳与图表的类比时诉诸《蒂迈欧篇》原文（《蒂迈欧篇》30a）：他说，若无生成过程、因而若无时间，秩序便不能从无序中产生；相反，在图表中并没有任何东西在时间上分离。可是，亚里士多德为什么要用对《蒂迈欧篇》的“字面”读法，去反驳一种据说是“隐喻”的解释呢？Dörrie 与 Baltes（1998）主张，亚里士多德对隐喻说的反驳是窃取论点（*petitio principii*）。进一步讨论见 De Cesaris 2023a[^de-2023a]。因此，很可能是后来的柏拉图主义传统起了作用，把早期柏拉图派的看法发展成对世界“非生成”的更明确肯定。
 
 ## 3 知识论
 
@@ -100,7 +100,7 @@
 
 可理知领域必定包括上文讨论的形式数；如前所述，这一领域也是数学的领域。至于赋予天界的特殊地位，似乎能解释色诺克拉底对天文学的兴趣——第欧根尼书目中列有“《论天文学》，6 卷”，可为佐证。
 
-至于可感觉领域，波菲利保存的一则重要证言（《〈托勒密和声学〉注》31,1–6 = fr. 6 IP；关于其内容真实性的辩护，见 Alieva 2018）为了解色诺克拉底的感觉知觉说明、尤其是听觉，提供了宝贵线索。这段以转述色诺克拉底的方式引入：毕达哥拉斯如何发现音程以数值比率为基础；其中还详细说明了听觉的机制。声音（*phōnē*）据说起于一次撞击，沿直线传向感觉器官，使之运动，从而产生知觉。这一撞击发生于瞬间，因感官的孱弱而不被觉察。为说明这一点，色诺克拉底借用了视觉类比：当旋转的圆锥带有一个单色的点或线时，看上去是一片连续的颜色。同样，耳朵无法记录离散撞击之间的寂静间隙，便形成连续声音的印象（*phantasia*）（Alieva 2018）。色诺克拉底补充说，听觉比视觉“更受搅扰”，但这一解释模型似乎在各模态间共享。值得注意的是，感官尽管不精确，却并不被视为不可靠：它们虽不能把握“精确者”（*to akribēs*）——也就是说，它们未能以完全的精确性把握其对象——却仍能传达某种程度的真理。正如 Raffa（2016, 727）所强调的，色诺克拉底把感官呈现为可靠地报告音高、颜色或形式之类可感觉差别者。此外，据说我们的知觉官能自然回避失序刺激（如难闻气味或不合旋律的声音），而对由数值比例赋予结构者反应积极。因此，色诺克拉底的说明既承认感官局限，也承认其认知价值。它把感官安置在一个看似统一的解释框架之内：知觉虽不能产生知识，却仍能在认识上有意义地通达实在。在这一语境下，音乐与声音并非例外，而是感官输入与可理知结构之间动态交互的典范例证。
+至于可感觉领域，波菲利保存的一则重要证言（《〈托勒密和声学〉注》31,1–6 = fr. 6 IP；关于其内容真实性的辩护，见 Alieva 2018）为了解色诺克拉底的感觉知觉说明、尤其是听觉，提供了宝贵线索。这段以转述色诺克拉底的方式引入：毕达哥拉斯如何发现音程以数值比率为基础；其中还详细说明了听觉的机制。声音（*phōnē*）据说起于一次撞击，沿直线传向感觉器官，使之运动，从而产生知觉。这一撞击发生于瞬间，因感官的孱弱而不被觉察。为说明这一点，色诺克拉底借用了视觉类比：当旋转的圆锥带有一个单色的点或线时，看上去是一片连续的颜色。同样，耳朵无法记录离散撞击之间的寂静间隙，便形成连续声音的印象（*phantasia*）（Alieva 2018）。色诺克拉底补充说，听觉比视觉“更受搅扰”，但这一解释模型似乎在各模态间共享。值得注意的是，感官尽管不精确，却并不被视为不可靠：它们虽不能把握“精确者”（*to akribēs*）——也就是说，它们未能以完全的精确性把握其对象——却仍能传达某种程度的真理。正如 Raffa（2016, 727）[^raffa-2016] 所强调的，色诺克拉底把感官呈现为可靠地报告音高、颜色或形式之类可感觉差别者。此外，据说我们的知觉官能自然回避失序刺激（如难闻气味或不合旋律的声音），而对由数值比例赋予结构者反应积极。因此，色诺克拉底的说明既承认感官局限，也承认其认知价值。它把感官安置在一个看似统一的解释框架之内：知觉虽不能产生知识，却仍能在认识上有意义地通达实在。在这一语境下，音乐与声音并非例外，而是感官输入与可理知结构之间动态交互的典范例证。
 
 ## 4 伦理学
 
@@ -124,53 +124,50 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献
 
-### Secondary Literature
-
-[^available-nd]: Available collections of fragments:
-[^heinze-1892]: Heinze, R., 1892 [1965], *Xenocrates*, Stuttgart: Teubner, 1892; reprinted, Hildesheim: G. Olms, 1965.
+[^heinze-1892]: Heinze, R., 1892 [1965], *Xenocrates*, Stuttgart: Teubner; reprinted, Hildesheim: G. Olms, 1965.
 [^isnardi-1982]: Isnardi Parente, M., 1982, *Senocrate-Ermodoro: Frammenti*, Naples: Bibliopolis, 1982; includes an Italian translation of the fragments.
 [^isnardi-2012]: Isnardi Parente, M., 2012, *Senocrate-Ermodoro: Frammenti*, edizione rivista e aggiornata da T. Dorandi, Pisa: Edizioni della Normale.
+### 研究文献
+
 [^alieva-2021]: Alieva, O, 2021, “Clotho’ Spindle: Xenocrates’ Doctrine of Indivisibles,” *Archiv für Geschichte der Philosophie*, 105: 567–590.
 [^aronadio-2018]: Aronadio, F., Tulli, M., Petrucci, F., 2018, *[Plato] Epinomis*, Napoli: Bibliopolis.
 [^baltes-1988]: Baltes, M. 1988. “Zur Theologie des Xenokrates”, in R. van den Broek et al. (eds.), *Knowledge of God in the Graeco-Roman World*, Leiden: Brill, 43–68.
 [^bartninkas-2023]: Bartninkas, V., 2023, *Traditional and Cosmic Gods in Later Plato and the Early Academy*, Cambridge: Cambridge University Press.
 [^burnyeat-1987]: Burnyeat, M.F., 1987, “Platonism and Mathematics: A Prelude to Discussion,” in A. Graeser (ed.), *Mathematics and Metaphysics in Aristotle*, Bern & Stuttgart: Verlag Paul Haupt, 213–240.
-[^calchi-2023]: Calchi, V,. 2023, *The Theology of the* Epinomis, Abingdon; New York: Routledge.
+[^calchi-2023]: Calchi, V., 2023, *The Theology of the Epinomis*, Abingdon; New York: Routledge.
 [^carter-2019]: Carter, J., 2019, *Aristotle on Earlier Greek Psychology. The Science of Soul*, Cambridge: Cambridge University Press.
 [^centrone-2010]: Centrone, B., 2010, “L’esegesi del Timeo nell’antica Accademia,” in F. Celia, A. Ulacco (eds.), *Il “Timeo”: esegesi greche, arabe, latine*, Pisa: Pisa University Press, 57–80.
 [^cherniss-1944]: Cherniss, Harold, 1944 [1962], *Aristotle’s Criticism of Plato and the Academy* (Volume I), Baltimore: Johns Hopkins University Press, 1944; reprinted, New York: Russell & Russell, 1962.
 [^dancy-1999]: Dancy, R.M., 1999, “The Categories of Being in Plato’s *Sophist* 255c–e,” *Ancient Philosophy*, 19: 45–72.
-[^dancy-2021]: –– 2021, “Xenocrates”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2021/entries/xenocrates/](https://plato.stanford.edu/archives/sum2021/entries/xenocrates/)>.
+[^dancy-2021]: –––, 2021, “Xenocrates”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2021/entries/xenocrates/](https://plato.stanford.edu/archives/sum2021/entries/xenocrates/)>.
 [^de-2023a]: De Cesaris, G., 2023a, “The So-Called Sempiternalism of the Early Academy”, *Méthexis*, 35: 5–28.
-[^de-2023b]: –– 2023b, “La virtù nell’Academia Antica: il caso di Senocrate,” in A. Motta (ed.), *Platone e la questione della virtù*, Napoli: Loffredo Editore, 179–194.
+[^de-2023b]: –––, 2023b, “La virtù nell’Academia Antica: il caso di Senocrate,” in A. Motta (ed.), *Platone e la questione della virtù*, Napoli: Loffredo Editore, 179–194.
 [^dillon-2003]: Dillon, J., 2003, *The Heirs of Plato: A Study of the Old Academy (347–274 BC)*, Oxford: Clarendon Press.
-[^dillon-2012]: –– 2012, “The Timaeus in the Old Academy,” in Id. *The Platonic Heritage. Further Studies in the History of Platonism and Early Christianity*, London: Routledge, 80–94.
-[^dillon-2020]: –– 2020, “The World-Soul Takes Command: The Doctrine of the World-Soul in the *Epinomis* of Philip of Opus and in the Academy of Polemon,” in C. Helmig (ed.), *World Soul – Anima Mundi: On the Origins and Fortunes of a Fundamental Idea*, Berlin: De Gruyter, 155–66.
-[^dörrie-1998]: Dörrie, H., Baltes, M., 1998, *Der Platonismus in der Antike. Die philosophisce Lehre des Platonismus*, Stuttgart-Bad Cannstatt.
+[^dillon-2012]: –––, 2012, “The Timaeus in the Old Academy,” in Id. *The Platonic Heritage. Further Studies in the History of Platonism and Early Christianity*, London: Routledge, 80–94.
+[^dillon-2020]: –––, 2020, “The World-Soul Takes Command: The Doctrine of the World-Soul in the *Epinomis* of Philip of Opus and in the Academy of Polemon,” in C. Helmig (ed.), *World Soul – Anima Mundi: On the Origins and Fortunes of a Fundamental Idea*, Berlin: De Gruyter, 155–66.
+[^dörrie-1998]: Dörrie, H., Baltes, M., 1998, *Der Platonismus in der Antike. Die philosophische Lehre des Platonismus*, Stuttgart-Bad Cannstatt.
 [^fleischer-2018]: Fleischer, K. J., 2018, *Philodem, Geschichte der Akademie*, Leiden: Brill.
 [^furley-1967]: Furley, David, 1967, *Two Studies in the Greek Atomists*, Princeton, New Jersey: Princeton University Press.
-[^garcía-2024]: García Valverde, J.M., 2024, *Themistius. Paraphrase of Aristotle*, De anima. Berlin-Boston: De Gruyter.
+[^garcía-2024]: García Valverde, J.M., 2024, *Themistius. Paraphrase of Aristotle, De anima*. Berlin-Boston: De Gruyter.
 [^gemelli-2007]: Gemelli Marciano, L., 2007, *Democrito e l’Accademia. Studi sulla trasmissione dell’atomismo antico da Aristotele a Simplicio*, Berlin-New York: De Gruyter.
 [^granieri-2021]: Granieri, R., 2021, “Xenocrates and the Two-Category Scheme,” *Apeiron*, 54: 261–285.
-[^gutas-2010]: Gutas, D., 2010, *Theophrastus* On First Principles (*known as his* Metaphysics), Leiden-Boston: Brill.
+[^gutas-2010]: Gutas, D., 2010, *Theophrastus: On First Principles (known as his Metaphysics)*, Leiden-Boston: Brill.
 [^heath-1926]: Heath, T.L., 1926 [1956], *The Thirteen Books of Euclid’s Elements* (3 volumes), 2nd edition, Cambridge: Cambridge University Press, 1926; reprinted, New York: Dover, 1956.
-[^horky-2013]: Horky P.S., 2013, “Theophrastus on Platonic and ”Pythagorean“ imitation’,” *The Classical Quarterly*, 63: 686–712.
-[^horky-2013-2]: Horky, Philip Sidney, 2013, “Theophrastus on Platonic and ‘Pythagorean’ Imitation”, *Classical Quarterly*, 63: 686–712.
-[^horky-2022]: –– 2022, “Aristotle’s Intermediates and Xenocrates’ Mathematicals,” *Revue de Philosophie Ancienne*, 40: 79–112.
-[^isnardi-2012-2]: Isnardi Parente, Margherita, 2012, *Senocrate-Ermodoro: Frammenti*, Naples: Bibliopolis, 1982 (includes an Italian translation of the fragments); new, revised edition, by T. Dorandi, Pisa: Edizioni della Normale.
-[^mansfeld-2020]: Mansfeld, J., Runia, D, 2020, *Aëtiana V (4 vols.). An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Leiden: Brill.
+[^horky-2013]: Horky P.S., 2013, “Theophrastus on Platonic and ‘Pythagorean’ Imitation” *The Classical Quarterly*, 63: 686–712.
+[^horky-2022]: –––, 2022, “Aristotle’s Intermediates and Xenocrates’ Mathematicals,” *Revue de Philosophie Ancienne*, 40: 79–112.
+[^mansfeld-2020]: Mansfeld, J., and D. Runia, 2020, *Aëtiana V (4 vols.). An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Leiden: Brill.
 [^opsomer-2020]: Opsomer, J, 2020, “The Platonic Soul. From the Early Academy to the First Century BCE,” in J. Warren, B. Inwood (eds.), *The Metaphysics of the Soul*, Cambridge: Cambridge University Press, 171–198.
-[^petrucci-2022]: Petrucci, F., 2022, “Platone. *Timeo*”. Introduzione a cura di F. Ferrari, Milano: Fondazione Lorenzo Valla (Mondadori).
+[^petrucci-2022]: Petrucci, F., 2022, *Platone. Timeo*. Introduzione a cura di F. Ferrari, Milano: Fondazione Lorenzo Valla (Mondadori).
 [^pines-1961]: Pines, S., 1961, “A New Fragment of Xenocrates and Its Implications,” *Transactions of the American Philological Association*, 51: 3–34.
-[^raffa-2016]: Raffa, M., 2016, *Claudio Tolemeo.* Armonica*. Con il Commentario di Porfirio*, Milano: Bompiani.
-[^rashed-2004]: Rashed, M., 2004, “Priorité de l’EΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: Vestiges Arabes et Grecs Inédits,” *Αrabic Sciences and Philosophy*, 14: 9–63.
+[^raffa-2016]: Raffa, M., 2016, *Claudio Tolemeo. Armonica. Con il Commentario di Porfirio*, Milano: Bompiani.
+[^rashed-2004]: Rashed, M., 2004, “Priorité de l’EΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: Vestiges Arabes et Grecs Inédits,” *Arabic Sciences and Philosophy*, 14: 9–63.
 [^reydams-schils-2012]: Reydams-Schils, G., 2012, “The Academy, the Stoics and Cicero on Plato’s Timaeus,” in A.G. Long (ed.), *Plato and the Stoics*, Cambridge: Cambridge University Press.
 [^ross-1929]: Ross, W.D., & F.H. Fobes, 1929 [1967], *Theophrastus: Metaphysics*, Oxford: Clarendon Press, 1929; reprinted, Hildesheim: Georg Olms, 1967.
 [^sedley-2021]: Sedley, D., 2021, “Xenocrates’ Invention of Platonism,” in M. Erler, J.E. Heßler, F.M. Petrucci (eds.), with the collaboration of M. McOsker, *Authority and Authoritative Texts in the Platonist Tradition*, Cambridge: Cambridge University Press, 12–37.
 [^thiel-2006]: Thiel, D., 2006, *Die Philosophie des Xenokrates im Kontext der Alten Akademie*, Munich-Leipzig: Saur Verlag.
-[^timotin-2012]: Timotin, A., 2012, *La démonologie platonicienne. Histoire de la notion de daimōn de Platon aux derniers néoplatoniciens*, Brill: Leiden-Boston.
+[^timotin-2012]: Timotin, A., 2012, *La démonologie platonicienne. Histoire de la notion de daimōn de Platon aux derniers néoplatoniciens*, Leiden-Boston: Brill.
 [^watts-2007]: Watts, Edward, 2007, “Creating the Academy: Historical Discourse and the Shape of Community in the Old Academy,” *The Journal of Hellenic Studies*, 127: 106–122.
 
 ## 学术工具
@@ -182,7 +179,7 @@
 
 ## 其他网络资源
 
-[欢迎向作者提出建议。]
+[Please contact the author with suggestions.]
 
 ## 相关词条
 
