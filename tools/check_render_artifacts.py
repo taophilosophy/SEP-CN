@@ -27,8 +27,8 @@ PATS = {
 def text_of(path):
     t = open(path, encoding="utf8", errors="ignore").read()
     t = re.sub(r"<(code|pre)[\s\S]*?</\1>", " ", t, flags=re.I)
-    # 大小写不敏感：上游/渲染器可能输出 <SCRIPT>/<STYLE>（CodeQL py/bad-tag-filter）
-    t = re.sub(r"<script[\s\S]*?</script>|<style[\s\S]*?</style>", " ", t, flags=re.I)
+    # 大小写不敏感；结束标签允许 `</script >` 式空白（CodeQL py/bad-tag-filter）
+    t = re.sub(r"<script\b[\s\S]*?</script\s*>|<style\b[\s\S]*?</style\s*>", " ", t, flags=re.I)
     t = re.sub(r"<[^>]+>", " ", t)
     return html.unescape(t)
 
