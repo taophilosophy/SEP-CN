@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T01:23:27Z",
+  "updated_at": "2026-11-15T01:26:58Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1376,6 +1376,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Declava→Decleva（ADR-0038 ①）",
       "registered_at": "2026-11-15T01:23:27Z"
+    },
+    {
+      "slug": "truth-coherence",
+      "path": "en/truth-coherence/index.html",
+      "upstream_sha256": "3a485692aab7043aafd04074032f3f76fcf8b36e704dfb4cac50a36dbcd764cd",
+      "local_sha256": "4c7dfb058db98bdf9d5ac935ffe2eb93dae93c0a52145f5dc3cf251bcf085173",
+      "bytes": {
+        "upstream": 47439,
+        "local": 47439
+      },
+      "commit": "HEAD",
+      "subject": "015 偿还 truth-coherence：Candlish 年份与加工行（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Candlish 2006→2021（ADR-0038 ②）",
+      "registered_at": "2026-11-15T01:26:58Z"
     }
   ],
   "tombstones": [
