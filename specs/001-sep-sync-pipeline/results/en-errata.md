@@ -406,3 +406,11 @@
 | necessary-sufficient | rothman-1976 `104:587&ndash;92 ` | `104: 587&ndash;92.` | 标点与空格（①） |
 | necessary-sufficient | vanderweele-2017 `185, 11: 1041&ndash;1043` | `185(11): 1041&ndash;1043` | 卷期体例（①） |
 | necessary-sufficient | 正文 `Nebel 2018`（书目 2019）、`von Fintel 1998`（书目 1997） | 改 2019／1997 | 正文书目矛盾（②） |
+| cordemoy | `l’áction des corps`（正文与书目 2 处） | `l’action` | 重音误（①） |
+| cordemoy | `l’Academie Français` | `l’Académie française` | 重音与性数（①） |
+| cordemoy | `l’eclaircissement`、`lettre ecrite`（2 处）、`un cartesien` | 补 é | 重音缺失（①） |
+| cordemoy | guerrini-1994 `Occasinalismo`、`filosophia` | `Occasionalismo`、`filosofia` | 拼写（①） |
+| cordemoy | rosenfeld-1968 `Descartes to Le Mettre` | `La Mettrie` | 人名拼写（①） |
+| cordemoy | nadler-2005 `“ Cordemoy…` | `“Cordemoy…` | 引号内多空格（①） |
+| cordemoy | scheib-1997 `New York, Frankfurt am Main: P. Lang.` | `New York: P. Lang.` | 双出版地（①） |
+| cordemoy | manning-2012 `12 (16); <a…` | `12(16). <a…` | 缺句点（①） |
