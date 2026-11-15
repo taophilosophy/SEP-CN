@@ -2,7 +2,7 @@
   "slug": "al-khunaji",
   "kind": "retranslate",
   "zh_doc": "a/al-khunaji.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "主会话",
       "at": "2026-11-01T05:29:00Z",
       "evidence": "译文验证：check_academic 0 硬错（done）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:02:34Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

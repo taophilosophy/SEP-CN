@@ -13,6 +13,10 @@
 
 **185 vs 24 未决对表销案**：用户裁定 185 全口径（含 done）——026 ren-wu-shu.md T1 清单为回退面；另非 A1 在途 s3_checked/r1 件（13 件）一并回滚（ADR-0043 决策 4②，同理由补齐）。
 
+## 0-bis. 裁定追加：全量 done 回炉（ADR-0053，2026-11-15）
+
+用户裁定取消 §0 第四条的"非 A1 的 done 存量不回状态机（台账补课）"豁免线：**凡未经 s2.4/s2.5 环节的存量 done 一律 `revert-state` 回炉**，工序与 §5 回退件同构（`source-audit` 补 s0 → s2.4/s2.5 增项 → s3 → r 链全重走）。回炉面 413 件（回炉池 194＋当前 done 219，全部无 s24/s25 步记录）。先行批次：字头 a＋1 共 63 件（池内 27＋done 36），清单 `results/rollback-done-a1-list.json`、凭证 `results/rollback-done-a1-manifest.jsonl`、脚本 `bin/revert-done-batch.py`。specs/036"done 台账制补课"同步作废。
+
 ## 1. 方向声明（rules/08 §1）
 
 * **意图复述**：三任务书并一为 s3_checked 前置阶段（s2.4 术语校＋s2.5 审计已译），全量回退已过该位点的任务，r 链全重走；不计成本，最大化优化。

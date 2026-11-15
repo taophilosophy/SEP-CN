@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-15 02:55（UTC）
+生成时间：2026-11-15 09:02（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1872|
 |已建任务|1196|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|219|
-|在途（drafted 起、done 前）|356|
+|已完成（done）|183|
+|在途（drafted 起、done 前）|392|
 |阻塞|0|
 
 ## 任务状态分布
@@ -24,14 +24,14 @@
 |---|---|
 |pending|621|
 |cleared|162|
-|s2.5_checked|194|
-|done|219|
+|s2.5_checked|230|
+|done|183|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|35|
+|A|160|160|160|0|
 |B|63|63|62|9|
 |C|171|171|171|17|
 |D|92|92|92|12|
@@ -62,48 +62,84 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
+|18thGerman-preKant|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abduction|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |abelard|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abhidharma|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|abilities|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abner-burgos|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abortion|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |abrabanel|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abraham-daud|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|abstract-objects|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abu-bakr-al-razi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |academic-freedom|retranslate|cleared|task_ops 2026-11-14|
+|action|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |action-perception|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|actualism-possibilism-ethics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|adaptationism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |addams-jane|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |adorno|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|advance-directives|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|aesthetic-concept|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aesthetic-experience|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|aesthetic-judgment|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|aesthetic-testimony|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aesthetics-18th-british|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|aesthetics-18th-french|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aesthetics-18th-german|retranslate|cleared|task_ops 2026-11-10|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-critical-theory|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|aesthetics-existentialist|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|aesthetics-of-everyday|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aesthetics-race|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
+|african-ethics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|african-sage|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |africana|retranslate|cleared|task_ops 2026-11-10|
 |africana-contemporary|retranslate|cleared|task_ops 2026-10-31|
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
 |agent-modeling-philscience|retranslate|cleared|task_ops 2026-10-31|
 |agrippa-nettesheim|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|akan-person|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |al-baghdadi|retranslate|cleared|task_ops 2026-10-31|
 |al-din-al-razi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|al-farabi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |al-farabi-logic|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
+|al-farabi-psych|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
+|al-khunaji|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |al-kindi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |al-qudat|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |albalag|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|alberic-paris|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |albert-great|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|albert-saxony|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|albo-joseph|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|alcmaeon|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |alexander|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |alexander-crummell|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |algebra-logic-tradition|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|altruism-biological|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|alyngton|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |analogy-medieval|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|ancient-soul|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|anscombe|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |anselm|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|antiochus-ascalon|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |antonio-rosmini|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |arabic-islamic-mysticism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|arabic-islamic-phil-math|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|aristotle-causality|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|aristotle-noncontradiction|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |august-rehberg|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |auriol|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|austin-john|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |autrecourt|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |axiom-choice|retranslate|cleared|task_ops 2026-11-12|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
