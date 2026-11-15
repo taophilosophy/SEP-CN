@@ -118,6 +118,25 @@ class CheckAcademicTests(unittest.TestCase):
         # 非词条绑定任务（zh_doc 为空，如每日例行漂移检查）不要求 version_pin
         self.assertNotIn('routine-drift', self.out)
 
+    # ---- 2026-11-16 ADR-0058：语体留痕步级生效时点（生效前历史步不追溯） ----
+
+    def test_style_attest_step_cutoff(self):
+        # attest-cutoff：done_at 生效后；生效前 s2/r1 旧步缺留痕豁免，
+        # 生效后回炉重走的 r1 缺留痕仍实拦（恰好 1 处）
+        lines = [l for l in self.out.splitlines()
+                 if 'task-style-attest' in l and 'attest-cutoff' in l]
+        self.assertEqual(len(lines), 1, lines)
+        self.assertIn('步骤 r1', lines[0])
+        self.assertNotIn('attest-cutoff.json 步骤 s2', self.out)
+
+    def test_style_attest_post_step_recorded(self):
+        # attest-ok：生效后 r1 已留「语体」结论 → 不报
+        self.assertNotIn('[task-style-attest] tasks/t/attest-ok.json', self.out)
+
+    def test_style_attest_pre_cutoff_done_unchecked(self):
+        # attest-pre-done：done_at 生效前 → 整个任务不进入留痕检查
+        self.assertNotIn('[task-style-attest] tasks/t/attest-pre-done.json', self.out)
+
 
 if __name__ == '__main__':
     unittest.main()

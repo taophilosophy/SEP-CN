@@ -156,3 +156,9 @@
   * 三类处置：`actions/missing-workflow-permissions` 12 条——工作流顶部就地声明最小 `permissions:`（只读类 `contents: read`；开 issue 类加 `issues: write`；开 PR 类 `contents: write`＋`pull-requests: write`），其中 `GC.yml`（BFG 回收，README 自述“not work at all”）按用户裁定直接删除、不入补权限之列，rules/05 工作流表同步删行；`py/redos` 3 条——`en_source_audit` typo 候选改“线性取词＋判定式筛数字/等号”两段式、`check_mulu_s` 与 `pp_mapping` 链接标题分支改互斥（`\\.` vs `[^\\\]]`）；`py/overly-large-range` 2 条＋`py/bad-tag-filter` 2 条＋HTML 注释尾标签 1 条——字符类按并集化简（`À-ÿĀ-ɏ`/`À-ÿĀ-ž` 覆盖旧重叠子区间）、`script/style` 剥除加 `re.I`、注释尾认 `--!?>`。
   * 等价性复算（修前修后同语料对差）：SUMMARY/mu-lu-s 全行链接、40 件 yuanwen 斜体术语、120 页 en 正文 typo 候选、200 页正文抽取——零差异；唯一语义修正：`[a\](x.md)` 的行尾孤反斜杠按 GFM 属转义 `]`，旧模式误判为链接，新不再报（全仓语料无此形态）。
   * 门禁：单测 342 全绿；`check_all` 11 项除既有的 task-style-attest 6 处（ADR-0053 回炉件旧凭证时点缺口，挂起待议，非本次引入）外全绿；顺带修正本日志两处直角引号（check_quotes 4 处违例，rules/02 第 11 条）。
+* 2026.11.16 task-style-attest 时点缺口收口（ADR-0058，用户指示“解决缺口”；承接 2026-11-15 挂起待议项）
+  * 缺口定性（数据核实）：6 处红灯＝生效前历史步 4（autrecourt/antiochus-ascalon 各 1 s2＋1 r1，append-only 留史不可能补含）＋生效后新 r1 2（2026-11-15 回炉重走真实缺留痕）；全库 4550 步 `at` 无缺、格式统一，步级时点口径可落地；两选项（补记凭证 vs 步级豁免）按数据定形为混合——豁免管旧步、补记管新步，单独任一都不能清零
+  * 裁定落地（ADR-0058）：`task-style-attest` 改步级生效时点（只查 `at` ≥ 2026-11-10T15:00Z 的 s2/r1 步；缺 `at` 视同生效前，不虚构时点）；`done_at` 触发面不变；生效后步骤缺留痕以“语体补记”补录——对 autrecourt/antiochus-ascalon 两处生效后 r1 实做语义通读（check_style 0 issue、prose 余量已在回炉 r2 逐条定性）后补记，先例 6b3ae8b7 订正凭证式；回炉 r1 留痕自此对齐 rules/02 原文，不得再依赖补记
+  * 验证：单测新增 3 例夹具（生效后缺→实拦恰 1 处／已留痕→不报／done_at 生效前→整任务免检）全绿；全库 check_academic 由红转 OK；code-scanning 与学术门禁两条挂起线当日均清
+  * 池面观察：另有 20 个在途件存在生效后 s2/r1 缺留痕步（14 件 r2_reviewed 的回炉 r1＋6 件 s2.5_checked 的 s2）——到达 done 时按 ADR-0058 决策 3 补记即清，不卡池；18thGerman-preKant 停 r3_reviewed 只差 done，其 r 链留痕口径同此
+  * 并行面：zhu-xi 首译登记（引号违例）与 xenocrates 勘误（分歧账 verify）为在途红灯，本会话未触；ADR 号 0057 已被并行会话占用，本裁定顺延 0058

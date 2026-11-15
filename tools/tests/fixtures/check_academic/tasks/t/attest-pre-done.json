@@ -1,0 +1,24 @@
+{
+  "slug": "attest-pre-done",
+  "kind": "retranslate",
+  "zh_doc": "argument/alpha-zhang-san.md",
+  "state": "done",
+  "created_at": "2026-11-01T00:00:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 18, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "attest3"
+  },
+  "steps": [
+    {"step": "clear", "status": "done", "actor": "test", "at": "2026-11-01T09:00:00Z", "evidence": "e-clear"},
+    {"step": "draft", "status": "done", "actor": "test", "at": "2026-11-01T09:01:00Z", "evidence": "e-draft"},
+    {"step": "s1", "status": "done", "actor": "test", "at": "2026-11-01T09:02:00Z", "evidence": "e-s1"},
+    {"step": "s2", "status": "done", "actor": "test", "at": "2026-11-01T09:03:00Z", "evidence": "e-s2（done_at 生效前，整任务不进入留痕检查）"},
+    {"step": "s3", "status": "done", "actor": "test", "at": "2026-11-02T09:00:00Z", "evidence": "e-s3"},
+    {"step": "r1", "status": "done", "actor": "test", "at": "2026-11-05T09:00:00Z", "evidence": "e-r1（done_at 生效前）"},
+    {"step": "r2", "status": "done", "actor": "test", "at": "2026-11-05T09:05:00Z", "evidence": "e-r2"},
+    {"step": "r3", "status": "done", "actor": "test", "at": "2026-11-05T09:06:00Z", "evidence": "e-r3"},
+    {"step": "done", "status": "done", "actor": "test", "at": "2026-11-05T09:07:00Z", "evidence": "e-done（生效前 done，不检查）"}
+  ],
+  "blockers": []
+}

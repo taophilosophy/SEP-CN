@@ -14,8 +14,8 @@
     orphan-ref / orphan-def  正文 [^key] 引用与文末 [^key]: 定义不配对
     task-pin-missing       任务 JSON 缺 version_pin（pubinfo_date/archive_edition/sha256）
     task-evidence-missing  done 任务步骤缺 evidence（或步数不足 6）
-    task-style-attest      done 任务（生效时点后）s2/r1 缺语体核验结论留痕
-                           （rules/02 语体与文风；只查留痕，不判文本语体）
+    task-style-attest      done 任务 s2/r1 缺语体核验结论留痕（步级生效时点，
+                           ADR-0057；只查留痕，不判文本语体）
   告警（--strict 升硬）:
     biblio-missing          非存根词条无“参考文献”节
     scholar-tools-missing   非存根词条无“学术工具/如何引用本词条”
@@ -415,13 +415,20 @@ def check_tasks(tasks_dir, hard, warns, records=None):
                 # 语义判断由复核人做，门禁只管 s2/r1 是否留下结论，避免关键词误判。
                 done_at = next((str(st.get('at') or '') for st in reversed(steps)
                                 if st.get('step') == 'done'), '')
+                # 步级生效时点（ADR-0057）：只查 at ≥ STYLE_ATTEST_FROM 的 s2/r1 步。
+                # 生效前历史步 append-only 留史、不追溯（回炉件重走 done 必撞的时点缺口）；
+                # 回炉重走的 s2/r1 带新时点照查。task_ops 恒写 at（全库 4550 步无缺），
+                # 缺 at 的手工文件按生效前豁免，不虚构时点。
                 if done_at >= STYLE_ATTEST_FROM:
                     for st in steps:
-                        if st.get('step') in ('s2', 'r1') \
-                                and '语体' not in str(st.get('evidence') or ''):
-                            hard.append('[task-style-attest] %s 步骤 %s 缺语体核验结论'
-                                        '（evidence 须含“语体：……”，rules/02）'
-                                        % (rel, st.get('step')))
+                        if st.get('step') not in ('s2', 'r1') \
+                                or '语体' in str(st.get('evidence') or ''):
+                            continue
+                        if str(st.get('at') or '') < STYLE_ATTEST_FROM:
+                            continue  # 生效前历史步，不追溯（ADR-0057）
+                        hard.append('[task-style-attest] %s 步骤 %s 缺语体核验结论'
+                                    '（evidence 须含“语体：……”，rules/02）'
+                                    % (rel, st.get('step')))
     return n
 
 

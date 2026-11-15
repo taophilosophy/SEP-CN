@@ -1,0 +1,26 @@
+{
+  "slug": "attest-cutoff",
+  "kind": "retranslate",
+  "zh_doc": "argument/alpha-zhang-san.md",
+  "state": "done",
+  "created_at": "2026-11-01T00:00:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 18, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "attest1"
+  },
+  "steps": [
+    {"step": "clear", "status": "done", "actor": "test", "at": "2026-11-01T09:00:00Z", "evidence": "e-clear"},
+    {"step": "draft", "status": "done", "actor": "test", "at": "2026-11-01T09:01:00Z", "evidence": "e-draft"},
+    {"step": "s1", "status": "done", "actor": "test", "at": "2026-11-01T09:02:00Z", "evidence": "e-s1"},
+    {"step": "s2", "status": "done", "actor": "test", "at": "2026-11-01T09:03:00Z", "evidence": "e-s2（生效前，无留痕，步级豁免）"},
+    {"step": "s3", "status": "done", "actor": "test", "at": "2026-11-02T09:00:00Z", "evidence": "e-s3"},
+    {"step": "r1", "status": "done", "actor": "test", "at": "2026-11-05T09:00:00Z", "evidence": "e-r1（生效前，无留痕，步级豁免）"},
+    {"step": "r2", "status": "done", "actor": "test", "at": "2026-11-05T09:05:00Z", "evidence": "e-r2"},
+    {"step": "r3", "status": "done", "actor": "test", "at": "2026-11-05T09:06:00Z", "evidence": "e-r3"},
+    {"step": "done", "status": "done", "actor": "test", "at": "2026-11-05T09:07:00Z", "evidence": "e-done"},
+    {"step": "r1", "status": "done", "actor": "test", "at": "2026-11-15T11:00:00Z", "evidence": "回炉重走 r1（生效后，仍缺留痕——应实拦）"},
+    {"step": "done", "status": "done", "actor": "test", "at": "2026-11-15T12:00:00Z", "evidence": "回炉收官"}
+  ],
+  "blockers": []
+}
