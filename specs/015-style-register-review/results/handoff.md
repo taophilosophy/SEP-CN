@@ -111,3 +111,25 @@
 * **经核纠正 verdict 误报的典型**：condemnation／analogy-medieval 的「正文引用组全缺键」实为 en 正文根本无作者-年份组（只以姓氏行文或一手文献 CUP 引称）；o/ockham 的「SL／OTh 缩写未挂键」属全库转换边界（53% 定义未被引用），非单条缺陷；b/bauer 的「引用组几乎全缺键」大半已带键。
 * **剩余 28 条**（见 `verdicts.jsonl` 中无 `kind=repair` 记录者）：kant-science／kierkegaard／korean-buddhism／kumaarila（均在 s2.5 在途，宜待其落定）、behaviorism、scholem、nicole-oresme、environmental-aesthetics、bayes-theorem、imprecise-probabilities、newton、buridan、erotic-art、rationalism-early-modern、xenocrates、holkot、august-rehberg、representation-medieval、necessary-sufficient、simon-faversham、cordemoy、reinach、william-sherwood、gersonides、penbygull、logic-fuzzy、paradox-suspense、la-forge。
 * 教训：对全篇批量替换括号（bauer 的 `(...)`→`（...）`）会连带改到 H1 的英文作者括注，触发 `check_summary` H1 mismatch——批量替换须排除首行。
+
+## 2026-11-16 续四：偿还流水（三）与剩余 22 条
+
+本轮偿还 14 条，另核销 2 条（判据失效）。台账 235→251 条。
+
+**已偿还**：scholem、environmental-aesthetics、bayes-theorem、imprecise-probabilities、buridan、xenocrates、holkot、representation-medieval、necessary-sufficient、simon-faversham、cordemoy、gersonides、paradox-suspense、logic-fuzzy。
+
+**核销**：intentionality-ancient、early-modern-india（重译后文言判据已失效，记 kind=verified）。
+
+**共性工法与教训**
+
+1. **脚注区挂键**：`attach_keys.py` 的「后 200 字内已有任一键即跳过」去重过宽，注释密集处会漏挂；批量挂完须按「末次年份后 25 字无 [^」复查（buridan/holkot/simon-faversham 均据此补漏）。
+2. **多作者年份组**（Courtenay 1999, 2004a；Ebbesen 1986、1987；Smith 2005、2008）键须挂整组末尾，不可插在年份之间；`s.count` 对重叠键对计数会少 1，改用正则 `(\[^k\])\1+` 去重更稳。
+3. **书目分节空壳**：en 有 N 个 h3 而 zh 定义全堆末节时，按 en 各节条目数确定边界，把标题插到对应定义前；四节/三节均如此（buridan 3+26+6、holkot 12+2+59、xenocrates 3+40、gersonides 5+6+41、simon-faversham 6+56）。
+4. **节序错乱**（representation-medieval §6 在 §5 前）：整块互换后必须复核节内互指（「奥卡姆与布里丹」段在 §5 首）。
+5. **列表编号脱节**（necessary-sufficient）：正文引 (i)–(xiii)、列表渲染 1./2. 时，改为 `* （i）…` 显式标号，逐条对齐。
+6. **年份矛盾处置**：能凭书目唯一确定的（Hanich 2023→2024、Hill 2007→2008、Nebel 2018→2019、Calchi 2020→2023、North 1986→1989、von Fintel 1998→1997）改正文并登记 errata；多版次/同名异年（Nguyen & Walker 2000 vs 2005、Ross 2010 vs 2016、Goguen 1975 vs 1969）记待考，不擅改。
+7. **史实勘正**：Touching the Void 2004→2003、Michael Clayton 2008→2007（en 同改并登记）。
+8. **脚本坑**：经 Bash heredoc 传 Python 时反斜杠会减半且 `\1` 会变成控制字符 \x01；凡含正则/回引的脚本一律先 Write 落盘再 `python -I` 执行。en 行宽 80 折行，替换模式需 `\s+` 容错。
+9. **yuanwen 副件漂移**：对 imprecise-probabilities 跑 `yuanwen.py` 会顺带重生成 supplement-*.md 并把 `$\lambda$` 变成 `*λ*`；与本轮无关，已 checkout 还原，留待转换器专项判定。
+
+**剩余 22 条**：`cleared`（置空待重译，暂不可偿还）10 条：jayaraasi、john-norris、john-italos、johann-sturm、jaina-philosophy、james-mill、africana、aesthetics-18th-german、behaviorism；`s2.5_checked`（他线在途校对，避免并发改写）12 条：kant-science、kierkegaard、korean-buddhism、kumaarila、nicole-oresme、newton、erotic-art、rationalism-early-modern、august-rehberg、reinach、william-sherwood、penbygull、la-forge。
