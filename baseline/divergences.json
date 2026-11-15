@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T13:22:08Z",
+  "updated_at": "2026-11-15T15:09:59Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1691,6 +1691,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "ADR-0038 ①类已核实：B16 引文双写 are 衍字（句法只需一个 are，Ethiopians 分句同构）＋B14 clothers 拼写（非英语词，通行译文 clothes）；回炉 s0 补课发现，en-errata 第六节；yuanwen 定点重转 OTHER=0",
       "registered_at": "2026-11-15T13:22:08Z"
+    },
+    {
+      "slug": "zhu-xi",
+      "path": "en/zhu-xi/index.html",
+      "upstream_sha256": "8c729abccaa3a2b2cbcee7ca63e4b3389b2e9a54c43e42feac29463db453f374",
+      "local_sha256": "fb797fddf05b96f043110d83485f2a14f68143a6e9c618829dba26dc7dfa96d7",
+      "bytes": {
+        "upstream": 140052,
+        "local": 140048
+      },
+      "commit": "2f8c540a02085bf1bfee4c1331a50f16ca32c2cf",
+      "subject": "en 勘误：zhu-xi 正文 the Mean of the the nature 重复冠词剥一（句式平行结构非法双 the，ADR-0038 ①类已核实）；en-errata 第六节登记；yuanwen 定点重转差量恰一处",
+      "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
+      "reason": "ADR-0038 ①类已核实：正文重复冠词（of the the nature），句式平行结构非法双 the 剥一；en-errata 第六节",
+      "registered_at": "2026-11-15T15:09:59Z"
     }
   ],
   "tombstones": [
