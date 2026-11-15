@@ -138,7 +138,7 @@ def main():
     if args.write_baseline:
         os.makedirs(os.path.dirname(args.baseline), exist_ok=True)
         json.dump({"fetched_at": report["fetched_at"], "main": main, "alias": alias},
-                  open(args.baseline, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                  open(args.baseline, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
         report.update(status="baseline-written",
                       note="基线已更新：%s（请将该文件随人工核对的改动一并提交）" % os.path.relpath(args.baseline, ROOT))
         finish(report, args, code=0)

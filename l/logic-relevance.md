@@ -36,7 +36,7 @@ $$\begin{align} & (p \mathbin{\&} \neg p) \rightarrow q, \\ & p \rightarrow(q \r
 
 这里讲的语义，是 Richard Routley 与 Robert K. Meyer 的三元关系语义，由 Alasdair Urquhart 的“半格语义”发展而来（Urquhart 1972）[^urquhart-1972]。Kit Fine 另有一种类似的语义，与 Routley–Meyer 理论同时提出（Fine 1974）[^fine-1974]；J. Michael Dunn 则有代数语义。Urquhart、Fine、Dunn 的模型本身都很有意趣，可惜这里没有篇幅讨论。
 
-三元关系语义的想法其实很简单。回想 C.I. Lewis 为避免实质蕴涵悖论所做的尝试：他给经典逻辑添了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \mathbin{\unicode{x22b0}} B$ 在世界 $w$ 为真，当且仅当凡 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 失败，要么 $B$ 在 $w'$ 成立。但在 Kripke 的模态逻辑语义里，可及关系是二元关系，只成立于世界对之间。遗憾的是，从相干的观点看，严格蕴涵理论仍不相干：我们照样使 $p \mathbin{\unicode{x22b0}} (q \mathbin{\unicode{x22b0}} q)$ 这类公式有效。稍加推演就能看出，Kripke 的真值条件逼出了这条公式。
+三元关系语义的想法其实很简单。回想 C.I. Lewis 为避免实质蕴涵悖论所做的尝试：他给经典逻辑添了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \mathbin{⊰} B$ 在世界 $w$ 为真，当且仅当凡 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 失败，要么 $B$ 在 $w'$ 成立。但在 Kripke 的模态逻辑语义里，可及关系是二元关系，只成立于世界对之间。遗憾的是，从相干的观点看，严格蕴涵理论仍不相干：我们照样使 $p \mathbin{⊰} (q \mathbin{⊰} q)$ 这类公式有效。稍加推演就能看出，Kripke 的真值条件逼出了这条公式。
 
 相干逻辑的语义与模态逻辑一样，也把公式的真值相对于世界。但 Routley 与 Meyer 比模态逻辑更进一步，用的是世界间的三元关系。于是可以有使 $q \rightarrow q$ 失败的世界，进而也可以有使 $p \rightarrow(q \rightarrow q)$ 失败的世界。他们在这种语义下给 $\rightarrow$ 的真值条件是：
 

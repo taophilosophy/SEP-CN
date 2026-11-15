@@ -13651,6 +13651,53 @@
       }
     },
     {
+      "slug": "bioethics-moral-reasoning",
+      "fetched_at": "2026-11-14T23:34:38Z",
+      "source_url": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
+      "title": "Bioethics and Moral Reasoning",
+      "authors": [
+        "Flynn, Jennifer"
+      ],
+      "pubinfo": {
+        "first_published": "Nov 5, 2026",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "b/bioethics-moral-reasoning.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/bioethics-moral-reasoning/index.html",
+          "sha256": "b39ced063f4a8d4a0efc7ea31fda0c393e536f1bbb76cff4269cce6aaa170a10",
+          "bytes": 89026,
+          "kind": "main"
+        },
+        {
+          "path": "en/bioethics-moral-reasoning/notes.html",
+          "sha256": "829675180e231755cc5de3661a4023d7113bbaba04bf38f57fd0c45199850c71",
+          "bytes": 14749,
+          "kind": "notes"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/b/bioethics-moral-reasoning.md",
+        "sha256": "cd2c5bbc51e12ade3a92a4310ac736aa20eab901fc8eb703377192d8dd22c128",
+        "source_sha256": "b39ced063f4a8d4a0efc7ea31fda0c393e536f1bbb76cff4269cce6aaa170a10",
+        "converted_at": "2026-11-14T23:35:23Z",
+        "cite_markers": 143,
+        "cite_defs": 97,
+        "supplements": [],
+        "images": [],
+        "notes": 4
+      }
+    },
+    {
       "slug": "biology-developmental",
       "fetched_at": "2026-10-26T20:34:52Z",
       "source_url": "https://plato.stanford.edu/entries/biology-developmental/",
@@ -142324,78 +142371,6 @@
       }
     },
     {
-      "slug": "theory-bioethics",
-      "fetched_at": "2026-10-26T20:47:55Z",
-      "source_url": "https://plato.stanford.edu/entries/theory-bioethics/",
-      "title": "Theory and Bioethics",
-      "authors": [
-        "Flynn, Jennifer"
-      ],
-      "pubinfo": {
-        "first_published": "Nov 25, 2020",
-        "substantive_revision": null
-      },
-      "in_article_markers": true,
-      "zh_doc": "t/theory-bioethics.md",
-      "archinfo": {
-        "latest_edition": "Winter 2022",
-        "latest_change_type": "minor correction",
-        "history": [
-          {
-            "edition": "Spring 2021",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Winter 2020",
-            "change_type": "new, rewritten entry"
-          },
-          {
-            "edition": "Winter 2016",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2016",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2013",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2010",
-            "change_type": "first archived"
-          }
-        ]
-      },
-      "archive_edition": "Winter 2022",
-      "files": [
-        {
-          "path": "en/theory-bioethics/index.html",
-          "sha256": "10bebe300f3018196570c6b62821167416832fda58d5b4d4631076d819a04f7a",
-          "bytes": 91148,
-          "kind": "main"
-        },
-        {
-          "path": "en/theory-bioethics/notes.html",
-          "sha256": "6e48f386976196e310fcee402c59437077952661604ae43a2f8789359d14f0da",
-          "bytes": 15623,
-          "kind": "notes"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/t/theory-bioethics.md",
-        "sha256": "c1d264fc549275da2612b75ec9df6d69b14809dd1a86784bd05ee849711b2c12",
-        "source_sha256": "10bebe300f3018196570c6b62821167416832fda58d5b4d4631076d819a04f7a",
-        "converted_at": "2026-11-14T17:18:54Z",
-        "cite_markers": 94,
-        "cite_defs": 70,
-        "supplements": [],
-        "images": [],
-        "notes": 7
-      }
-    },
-    {
       "slug": "thick-ethical-concepts",
       "fetched_at": "2026-10-26T20:47:56Z",
       "source_url": "https://plato.stanford.edu/entries/thick-ethical-concepts/",
@@ -151674,5 +151649,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T23:17:13Z"
+  "updated_at": "2026-11-14T23:41:25Z"
 }

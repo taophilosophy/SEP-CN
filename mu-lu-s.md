@@ -1484,7 +1484,6 @@ outline: [1, 6]
 * [人类/非人类嵌合体 Human/Non-Human Chimeras (Robert Streiffer)](c/chimeras.md)
 * [克隆 Cloning (Katrien Devolder)](c/cloning.md)
 * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
-* [生物伦理理论 Theory and Bioethics (Jennifer Flynn)](t/theory-bioethics.md)
 * [临床研究伦理 The Ethics of Clinical Research (David Wendler)](c/clinical-research.md)
 * [人类卵子和精子的捐献与买卖 The Donation and Sale of Human Eggs and Sperm (Reuven Brandt、Stephen Wilkinson、Nicola Williams)](g/gametes-donation-sale.md)
 * [人体器官捐献 The Donation of Human Organs (Martin Wilkinson、Stephen Wilkinson)](o/organ-donation.md)

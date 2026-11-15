@@ -45,24 +45,21 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
+from tools.register_lib import norm_key, person_path, term_path  # noqa: E402
+
 OUTDIR = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                       'queries')
-REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
-REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
+REGISTRY = term_path()
+REGISTRY2 = person_path()
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 
 UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
       '(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36')
 
-
-def norm_key(text):
-    """与 check_terms 同规的键：剥斜体标记与空白、变音符折叠（NFD，2026-10-31 修
-    ——此前无折叠致变音符行凭证文件名损坏如 aisth_sis.json、审计按折叠键查不到）、
-    casefold 比对；文件名安全化另由 safe_key。"""
-    import unicodedata
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
-    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    return re.sub(r'\s+', ' ', s).casefold()
+# 键口径说明（specs/033 §2）：本工具缓存/查证键用 B 基础折叠键（norm_key），
+# 与 check_terms 的 A 引号折叠键（norm_key_quote）是**有意分歧**——引号形键会
+# 生成两份缓存凭证，属可接受冗余；升 A 会翻动既有凭证文件名，未纳入（历史
+# docstring 曾误称「与 check_terms 同规」，2026-11-15 更正）。
 
 
 _GREEK = {

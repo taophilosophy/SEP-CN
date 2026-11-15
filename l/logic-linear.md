@@ -15,9 +15,9 @@
 - 经典逻辑的矢列演算里，联结词“**与**”“**或**”的规则，以及切规则、蕴涵规则，都能等价地写成加性形式（各前提语境相同）或乘法形式（各前提语境不同）。经典逻辑中两者等价，靠的是几条所谓“结构”规则，即收缩与弱化。
 - Gentzen 用矢列演算同时刻画经典逻辑与直觉主义逻辑的证明，表明非构造性证明总要在矢列结论（后件）里用到这两条结构规则之一。
 
-于是，若要在不破坏矢列对称性的前提下消除非构造性证明（直觉主义逻辑就是这样做的），不妨反过来消除收缩与弱化。这样每个联结词都一分为二：合取、析取各有加性版与乘法版。同一联结词的两个版本此时不再等价。新联结词是 &（“with”，加性 **与**）、$\oplus$（“plus”，加性 **或**）、$\otimes$（“tensor”，乘法 **与**）与 $\mathrel{\unicode{x214b}}$（“par”，乘法 **或**）。
+于是，若要在不破坏矢列对称性的前提下消除非构造性证明（直觉主义逻辑就是这样做的），不妨反过来消除收缩与弱化。这样每个联结词都一分为二：合取、析取各有加性版与乘法版。同一联结词的两个版本此时不再等价。新联结词是 &（“with”，加性 **与**）、$\oplus$（“plus”，加性 **或**）、$\otimes$（“tensor”，乘法 **与**）与 $\mathrel{⅋}$（“par”，乘法 **或**）。
 
-联结词的这番复制，反倒让人更看清经典逻辑与直觉主义逻辑的冲突。比如排中律（$A$ **或** 非-$A$），经典世界视为有效，直觉主义世界视为荒谬；线性逻辑里它有两种读法：加性版 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版 $(A \mathrel{\unicode{x214b}} \neg A)$ 平凡可证，只相当于重言式 $(A$ **蕴涵** $A)$，这在直觉主义逻辑里同样可以接受。
+联结词的这番复制，反倒让人更看清经典逻辑与直觉主义逻辑的冲突。比如排中律（$A$ **或** 非-$A$），经典世界视为有效，直觉主义世界视为荒谬；线性逻辑里它有两种读法：加性版 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版 $(A \mathrel{⅋} \neg A)$ 平凡可证，只相当于重言式 $(A$ **蕴涵** $A)$，这在直觉主义逻辑里同样可以接受。
 
 另外，构造主义所倚重的析取性质，对加性析取很容易证。
 
@@ -45,7 +45,7 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 ## 2 证明系统
 
-线性逻辑的核心命题联结词分加性与乘法两族。经典合取及单位元 $\wedge$ 与 $\top$，分为加性 $\mathbin{\&}$（with）、$\top$（top）与乘法 $\otimes$（tensor）、1（one）；经典析取及单位元 $\vee$ 与 $\bot$，分为加性 $\oplus$（oplus）、0（zero）与乘法 $\mathrel{\unicode{x214b}}$（par）、$\bot$（bottom）。否定的处理通常二择一：或视为原始命题联结词，出现不加限制；或视为只施于原子公式的特殊符号——之所以可行，是因为否定与一切命题联结词、指数、量词之间都有 De Morgan 对偶。蕴涵常由定义引入：线性蕴涵 $B \mathbin{-\hspace{-0.70mm}\circ} C$ 定义为 $B^{\bot} \mathrel{\unicode{x214b}} C$，直觉主义蕴涵 $B \Rightarrow C$ 定义为 $\mathop{!} B \mathbin{-\hspace{-0.70mm}\circ} C$。算子 $\mathop{!}$ 与 $\mathop{?}$ 偶称模态词，常称指数。“指数”之名格外贴切：按指数、加法、乘法的通常关系，线性逻辑有等价式 $\mathop{!} (B \mathbin{\&} C) \equiv (\mathop{!} B \otimes \mathop{!} C)$、$\mathop{?}(B \oplus C) \equiv (\mathop{?} B \mathrel{\unicode{x214b}} \mathop{?} C)$，以及 0 元版本 $(\mathop{!}\top \equiv 1)$、$(\mathop{?} 0 \equiv \bot)$。这里 $B \equiv C$ 指公式 $(B \mathbin{-\hspace{-0.70mm}\circ} C) \mathbin{\&}(C \mathbin{-\hspace{-0.70mm}\circ} B)$ 在线性逻辑中可推导。
+线性逻辑的核心命题联结词分加性与乘法两族。经典合取及单位元 $\wedge$ 与 $\top$，分为加性 $\mathbin{\&}$（with）、$\top$（top）与乘法 $\otimes$（tensor）、1（one）；经典析取及单位元 $\vee$ 与 $\bot$，分为加性 $\oplus$（oplus）、0（zero）与乘法 $\mathrel{⅋}$（par）、$\bot$（bottom）。否定的处理通常二择一：或视为原始命题联结词，出现不加限制；或视为只施于原子公式的特殊符号——之所以可行，是因为否定与一切命题联结词、指数、量词之间都有 De Morgan 对偶。蕴涵常由定义引入：线性蕴涵 $B \mathbin{-\hspace{-0.70mm}\circ} C$ 定义为 $B^{\bot} \mathrel{⅋} C$，直觉主义蕴涵 $B \Rightarrow C$ 定义为 $\mathop{!} B \mathbin{-\hspace{-0.70mm}\circ} C$。算子 $\mathop{!}$ 与 $\mathop{?}$ 偶称模态词，常称指数。“指数”之名格外贴切：按指数、加法、乘法的通常关系，线性逻辑有等价式 $\mathop{!} (B \mathbin{\&} C) \equiv (\mathop{!} B \otimes \mathop{!} C)$、$\mathop{?}(B \oplus C) \equiv (\mathop{?} B \mathrel{⅋} \mathop{?} C)$，以及 0 元版本 $(\mathop{!}\top \equiv 1)$、$(\mathop{?} 0 \equiv \bot)$。这里 $B \equiv C$ 指公式 $(B \mathbin{-\hspace{-0.70mm}\circ} C) \mathbin{\&}(C \mathbin{-\hspace{-0.70mm}\circ} B)$ 在线性逻辑中可推导。
 
 ### 2.1 矢列演算
 
@@ -55,7 +55,7 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 **否定规则** $$ \frac{\Delta \vdash B,\Gamma}{\Delta,B^{\perp} \vdash \Gamma}\ (\cdot)^{\perp} L \qquad \frac{\Delta,B \vdash \Gamma}{\Delta \vdash B^{\perp},\Gamma}\ (\cdot)^{\perp} R $$
 
-**乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\mathbf{1} \vdash \Gamma}\ \mathbf{1} L \qquad \frac{}{\vdash \mathbf{1}}\ \mathbf{1} R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\otimes B_2 \vdash \Gamma}\ \otimes L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\otimes B_2,\Gamma_{1},\Gamma_{2}}\ \otimes R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\mathrel{\unicode{x214b}} B_2 \vdash \Gamma_1,\Gamma_2}\ \mathrel{\unicode{x214b}} L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\mathrel{\unicode{x214b}} B_2, \Gamma}\ \mathrel{\unicode{x214b}} R $$
+**乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\mathbf{1} \vdash \Gamma}\ \mathbf{1} L \qquad \frac{}{\vdash \mathbf{1}}\ \mathbf{1} R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\otimes B_2 \vdash \Gamma}\ \otimes L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\otimes B_2,\Gamma_{1},\Gamma_{2}}\ \otimes R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\mathrel{⅋} B_2 \vdash \Gamma_1,\Gamma_2}\ \mathrel{⅋} L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\mathrel{⅋} B_2, \Gamma}\ \mathrel{⅋} R $$
 
 **加性规则** $$\frac{}{\Delta,\mathbf{0} \vdash \Gamma}\ \mathbf{0} L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\mathbin{\&} B_2 \vdash \Gamma}\ {\mathbin{\&}}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\mathbin{\&} B_2,\Gamma}\ {\mathbin{\&}}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
 
@@ -69,9 +69,9 @@ Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手
 
 ### 2.2 聚焦证明
 
-Andreoli（1992）给出一个关于无切证明结构的重要范式定理。他把非原子公式分为两类：顶层联结词为 $\top$、&、$\bot , \mathrel{\unicode{x214b}}$、$\mathop{?}$、$\forall$ 的称 **异步**；顶层联结词为 $0, \oplus , 1, \otimes$、$\mathop{!}$、$\exists$ 的称 **同步**。
+Andreoli（1992）给出一个关于无切证明结构的重要范式定理。他把非原子公式分为两类：顶层联结词为 $\top$、&、$\bot , \mathrel{⅋}$、$\mathop{?}$、$\forall$ 的称 **异步**；顶层联结词为 $0, \oplus , 1, \otimes$、$\mathop{!}$、$\exists$ 的称 **同步**。
 
-把证明搜索看作计算模型时，要看推理规则如何把作为 **结论** 的矢列变成 **前提**。于是矢列中的公式可视为“行动者”：既可各自行动，也可与环境中的同伴协同。行动者的动作，由自下而上读其引入规则而定。异步公式若在矢列右侧，就能在不影响可证性、不与语境互动的情况下演化——相应引入规则可逆。例如 $(B \mathrel{\unicode{x214b}} C)$ 经 $\mathrel{\unicode{x214b}}$-右规则变成 $B$ 与 $C$ 两个行动者（此时并行干活）。$(B \mathbin{\&} C)$ 经 &-右规则产生两个世界（矢列），除一个含 $B$、另一个含 $C$ 外完全相同。
+把证明搜索看作计算模型时，要看推理规则如何把作为 **结论** 的矢列变成 **前提**。于是矢列中的公式可视为“行动者”：既可各自行动，也可与环境中的同伴协同。行动者的动作，由自下而上读其引入规则而定。异步公式若在矢列右侧，就能在不影响可证性、不与语境互动的情况下演化——相应引入规则可逆。例如 $(B \mathrel{⅋} C)$ 经 $\mathrel{⅋}$-右规则变成 $B$ 与 $C$ 两个行动者（此时并行干活）。$(B \mathbin{\&} C)$ 经 &-右规则产生两个世界（矢列），除一个含 $B$、另一个含 $C$ 外完全相同。
 
 反之，若把同步公式看作行动者，其演化由自下而上读相应右引入规则决定，则可证矢列也可能演化成不可证矢列（如施用 $\oplus$ 右规则）。而且这类规则的实例取决于公式语境的细节：1-右规则成功要求周围语境为空，$\otimes$-右规则成功则看行动者的周围语境怎样一分为二。所以这类行动者的演化，取决于与语境其余部分的“同步”。
 
@@ -79,7 +79,7 @@ Andreoli（1992）给出一个关于无切证明结构的重要范式定理。�
 
 下图是线性逻辑的聚焦证明系统。两阶段用不同箭头：上箭头为异步阶段，下箭头为同步阶段。矢列分三个 **区**（以分号或上、下箭头隔开）。上、下箭头左侧是两个区：$\Psi$ 区是公式集，其中公式在该矢列证明中可用任意多次；$\Delta$ 区是公式的多重集。上箭头右侧也是多重集，下箭头右侧则是单个公式。异步公式可按任意次序引入，故上箭头右侧公式的顺序可随意安排。原子有极性，下图中 $A$ 代表正原子，$A$ 的否定代表负原子。这些规则构造的证明叫 **聚焦** 证明，其完全性见 Andreoli 1992。
 
-**异步阶段** $$\frac{{\Psi};{\Delta} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {\bot,L}}\ [\bot] \qquad \frac{{\Psi,F};{\Delta} \Uparrow {L}} {{\Psi};{\Delta} \Uparrow {\mathop{?} F,L}}\ [\mathop{?}] $$ $$\frac{} {{\Psi};{\Delta} \Uparrow {\top,L}}\ [\top] \qquad \frac{{\Psi};{\Delta} \Uparrow {F[y/x],L}} {{\Psi};{\Delta} \Uparrow {\forall x.F,L}}\ [\forall] $$ $$\frac{{\Psi};{\Delta} \Uparrow {F_1,F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathrel{\unicode{x214b}} F_2,L}}\ [\mathrel{\unicode{x214b}}] \qquad \frac{{\Psi};{\Delta} \Uparrow {F_1,L}\quad {\Psi};{\Delta} \Uparrow {F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathbin{\&} F_2,L}}\ [\mathbin{\&}] $$ $$\frac{{\Psi};{\Delta,F} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {F,L}} \ [R\Uparrow]\ \text{前提是 \(F\) 非异步} $$
+**异步阶段** $$\frac{{\Psi};{\Delta} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {\bot,L}}\ [\bot] \qquad \frac{{\Psi,F};{\Delta} \Uparrow {L}} {{\Psi};{\Delta} \Uparrow {\mathop{?} F,L}}\ [\mathop{?}] $$ $$\frac{} {{\Psi};{\Delta} \Uparrow {\top,L}}\ [\top] \qquad \frac{{\Psi};{\Delta} \Uparrow {F[y/x],L}} {{\Psi};{\Delta} \Uparrow {\forall x.F,L}}\ [\forall] $$ $$\frac{{\Psi};{\Delta} \Uparrow {F_1,F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathrel{⅋} F_2,L}}\ [\mathrel{⅋}] \qquad \frac{{\Psi};{\Delta} \Uparrow {F_1,L}\quad {\Psi};{\Delta} \Uparrow {F_2,L}} {{\Psi};{\Delta} \Uparrow {F_1\mathbin{\&} F_2,L}}\ [\mathbin{\&}] $$ $$\frac{{\Psi};{\Delta,F} \Uparrow {L}}{{\Psi};{\Delta} \Uparrow {F,L}} \ [R\Uparrow]\ \text{前提是 \(F\) 非异步} $$
 
 **同步阶段** $$\frac{}{{\Psi};{\cdot} \Downarrow {\mathbf{1}}}\ [\mathbf{1}] \qquad \frac{{\Psi};{\Delta_1} \Downarrow {F_1}\quad {\Psi};{\Delta_2} \Downarrow {F_2}} {{\Psi};{\Delta_1,\Delta_2} \Downarrow {F_1\otimes F_2}} \ [\otimes] \qquad \frac{{\Psi};{\cdot} \Uparrow {F}}{{\Psi};{\cdot} \Downarrow {\mathop{!} F}} \ [\mathop{!}] $$ $$\frac{{\Psi};{\Delta} \Downarrow {F_i}}{{\Psi};{\Delta} \Downarrow {F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{{\Psi};{\Delta} \Downarrow {F[t/x]}} {{\Psi};{\Delta} \Downarrow {\exists x.F}} \ [\exists] $$ $$\frac{{\Psi};{\Delta} \Uparrow {F}}{{\Psi};{\Delta} \Downarrow {F}} \ [R\Downarrow]\ \text{前提是 \(F\) 或为异步公式，或为原子} $$
 
@@ -89,7 +89,7 @@ Andreoli（1992）给出一个关于无切证明结构的重要范式定理。�
 
 ### 2.3 证明网
 
-矢列演算给出的证明含大量细节，有时索然无味：比如由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导，构造 $\vdash \Gamma , (A_1\mathrel{\unicode{x214b}} A_2), \ldots ,(A_{n-1}\mathrel{\unicode{x214b}} A_n)$ 的证明，有多少种无趣而互不相同的写法？这不愉快的事实源于矢列演算中证明的序列本性：要把 $n$ 条规则的集合 $S$ 施于矢列的不同部分，即便互不干扰，也不能一步完成！必须把它们 **序列化**——在 $S$ 上取一个线性次序，按此次序分 $n$ 步施用。
+矢列演算给出的证明含大量细节，有时索然无味：比如由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导，构造 $\vdash \Gamma , (A_1\mathrel{⅋} A_2), \ldots ,(A_{n-1}\mathrel{⅋} A_n)$ 的证明，有多少种无趣而互不相同的写法？这不愉快的事实源于矢列演算中证明的序列本性：要把 $n$ 条规则的集合 $S$ 施于矢列的不同部分，即便互不干扰，也不能一步完成！必须把它们 **序列化**——在 $S$ 上取一个线性次序，按此次序分 $n$ 步施用。
 
 自然会问：“有没有一种表示证明的方式，能把这些无趣细节抽掉？”直觉主义矢列演算的情形已有肯定回答，靠的是 **自然演绎**；经 Curry–Howard 对应（Howard 1980）[^howard-1980]，它与 $\lambda$-演算这一计算装置紧密相关。
 
@@ -104,7 +104,7 @@ Andreoli（1992）给出一个关于无切证明结构的重要范式定理。�
 
 这些都能用超图形式化（公式是结点，“连线”是带假设与结论的有向超边）；于是证明网可形式地定义为由 MLL 矢列推导归纳构造的超图。注意大量超图并非证明网。
 
-现在看：从 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 出发，得到 $\vdash \Gamma , (A_1\mathrel{\unicode{x214b}} A_2), \ldots ,(A_{n-1}\mathrel{\unicode{x214b}} A_n)$ 的推导，其证明网里规则施用次序的痕迹全没了。可以说，证明网就是矢列演算推导在“施用次序可交换的规则”下的等价类。
+现在看：从 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 出发，得到 $\vdash \Gamma , (A_1\mathrel{⅋} A_2), \ldots ,(A_{n-1}\mathrel{⅋} A_n)$ 的推导，其证明网里规则施用次序的痕迹全没了。可以说，证明网就是矢列演算推导在“施用次序可交换的规则”下的等价类。
 
 假设有人拿来一个由公理、切、par、张量连线搭成的巨大超图，声称它表示某个证明。你怎么验证它真是证明的表示，而不只是个随便的结构？
 

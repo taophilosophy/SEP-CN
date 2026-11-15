@@ -47,10 +47,12 @@
 
 **F1 排查方法论注记**：check_math_zh math_spans 只认 `$` 定界，裸环境内容完全不进扫描——这是 C1 在 axiom-choice 静默的根因（`\sP` 明明在 needs_expansion）。
 
+**\unicode 家族全量修复（续，用户 logic-linear 页二次报障实证 x214b 同败）**：`bin/fix_unicode_family.py` 27 笔/5 文件——logic-linear `\unicode{x214b}`→`⅋`（U+214B，18 处，en 原形 SEP 宏 `\lpar`，`\mathrel` 包装原样保留；孤立提法与兄弟 `$\otimes$`/`$\oplus$` 公式形态一致不入裸文本）、logic-relevance `\unicode{x22b0}`→`⊰`（en 原形 `\prurel`）、diodorus `\unicode{x2B26}`→`⬦`、heritability/justep 的 bfrac 分数 artifact→通行 slash 记法（`$V_{G}/V_{P}$`、`$1/P(A)^{n-1}$`）。宏语义由码点保真，C1 家法展开由劣形转优质形。字体事实：⁄ 在 MathJax TeX 字体内；⅋/⬦ 不在，走 MathJax 未知字符回退（系统字体 SVG text 渲染）。台账 `results/unicode-ledger.json`。**渲染确认待用户刷新 logic-linear/logic-relevance/diodorus-cronus/heritability/justep-coherence 五页。**
+
 ## 2026-11-15 待办与移交（渲染缺陷补遗）
 
 * [ ] 用户浏览器验收三件，拍板 ADR-0049 三边界项：①ω′ 撇号变体是否文字化；②α₁ 带下标孤立变量是否文字化；③同段 `*ω*` 与 `$\omega'$` 混排可接受度；兼拍板 φ 字形。
 * [ ] 验收通过：ADR-0049 转 accepted＋rules/02 增补条款；铺开批次立项（试金石外 29 件 497 处）。
 * [ ] check_all 现况：10/11，唯一红项「直角引号总检」全在他会在途日志文件（qian-yan/ri-zhi-yu-bian-ji-gui-hua.md），非本役面。
-* [ ] **\unicode 构件族**（29 处/6 文件，两家族）：x2044 分数家族已修 axiom-choice 2 处；heritability 3、justep-coherence 1、diodorus-cronus 2（形态未核）待同法处置；x214b（⅋ par 符号，logic-linear 18、logic-relevance 3）浏览器实证渲染正常则不动。
+* [ ] **\unicode 构件族**（29 处/6 文件）：axiom-choice 2＋家族五件 27 处已全量修复（见上节），渲染确认待用户浏览器验收；若 ⅋/⬦ 回退渲染不理想，备选方案为 MathJax config 加 configmacros 宏表映射。
 * [ ] **check_math_zh C11（裸数学环境检测）**：告警级，检测 `$$` 外 `\begin{align}` 等——防 F1 类复发（本轮未实现，登记待做）。
