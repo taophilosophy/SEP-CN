@@ -6,9 +6,9 @@
 
 ## 1 生平与著作
 
-罗伯特·霍尔科特来自北安普敦附近的霍尔科特村（Holcot，他解释其名为“岩石中的小屋”），显然出身平民：他谈到最有才能的人似乎往往来自卑微的出身。他加入了多明我会；若接受常规训练，他最初在文法、逻辑、亚里士多德哲学与神学方面的教育都在多明我会学校内完成。他在牛津求学，于 1331—1333 年间为彼得·伦巴德（Peter Lombard）的《箴言四书》（*Sentences*）作注。获得神学博士学位后，他在那里担任多明我会的讲席教师。随后，达勒姆主教理查德·德·伯里（Richard of Bury）选霍尔科特为他的一名文书，随他在伦敦工作。传统上也将霍尔科特置于剑桥：他在 1343 年之前可能在那里担任多明我会讲师或神学讲席教师；1343 年他已知返回北安普敦的多明我会修道院。他在北安普敦讲学与写作，直至 1349 年死于瘟疫——据传是在照护病人时染上的（Slotemaker and Witt 2015, 1–4）[^slotemaker-2015][^slotemaker-2015-2]。
+罗伯特·霍尔科特来自北安普敦附近的霍尔科特村（Holcot，他解释其名为“岩石中的小屋”），显然出身平民：他谈到最有才能的人似乎往往来自卑微的出身。他加入了多明我会；若接受常规训练，他最初在文法、逻辑、亚里士多德哲学与神学方面的教育都在多明我会学校内完成。他在牛津求学，于 1331—1333 年间为彼得·伦巴德（Peter Lombard）的《箴言四书》（*Sentences*）作注。获得神学博士学位后，他在那里担任多明我会的讲席教师。随后，达勒姆主教理查德·德·伯里（Richard of Bury）选霍尔科特为他的一名文书，随他在伦敦工作。传统上也将霍尔科特置于剑桥：他在 1343 年之前可能在那里担任多明我会讲师或神学讲席教师；1343 年他已知返回北安普敦的多明我会修道院。他在北安普敦讲学与写作，直至 1349 年死于瘟疫——据传是在照护病人时染上的（Slotemaker and Witt 2015, 1–4）[^slotemaker-2015-2]。
 
-霍尔科特一生创作了大量著作。在牛津期间，他为彼得·伦巴德的《箴言四书》作注，讲授《马太福音》与《十二先知书》，并参与常规辩论与自由辩论。他还与同学就认识论展开论辩，结果以《六条论纲》（*Sex articuli*）刊行；他可能还写了另一部著作《论罪的归责》（*De imputabilitate peccati*，即“论罪的可归责性”）。一部《论星体》（*De stellis*，即“论星辰”），是对亚里士多德《论天》（*De caelo*）的粗略注疏，可能原属其《箴言四书》注疏的一部分，但作为独立短文流传。他的《终场布道》（*Sermo finalis*）——在把《箴言四书》讲席移交给下一位多明我会士时所发表的最后布道——也保存了下来（Wey 1949）[^wey-1949]。在伦敦期间，霍尔科特协助理查德·德·伯里写作《爱书》（*Philobiblon*）。两部供传道者使用的著作——《道德寓言》（*Moralitates*）与《皈依》（*Convertimini*）——出自他晚年（Slotemaker and Witt 2015, 233–249）[^slotemaker-2015][^slotemaker-2015-2]。他最著名的《圣经》讲章，即关于《智慧书》的，与剑桥有关，并以《智慧书后注》（*Postilla super librum Sapientiae*）的形式流传下来（Slotemaker and Witt 2015, 162–214）[^slotemaker-2015][^slotemaker-2015-2]。关于《传道书》的部分讲章也保存下来，很可能出自他在北安普敦时期；已知他去世时正在讲授《便西拉智训》。一部贯穿其生涯的布道文集也被保存下来（Slotemaker 2014; Slotemaker and Witt 2016）[^slotemaker-2014][^slotemaker-2016][^slotemaker-2016-2]。这些文本大多（若流传至今）仅存于手稿或十六世纪早期版本。不过，其中选段、布道、问答以及《六条论纲》已有现代版本。
+霍尔科特一生创作了大量著作。在牛津期间，他为彼得·伦巴德的《箴言四书》作注，讲授《马太福音》与《十二先知书》，并参与常规辩论与自由辩论。他还与同学就认识论展开论辩，结果以《六条论纲》（*Sex articuli*）刊行；他可能还写了另一部著作《论罪的归责》（*De imputabilitate peccati*，即“论罪的可归责性”）。一部《论星体》（*De stellis*，即“论星辰”），是对亚里士多德《论天》（*De caelo*）的粗略注疏，可能原属其《箴言四书》注疏的一部分，但作为独立短文流传。他的《终场布道》（*Sermo finalis*）——在把《箴言四书》讲席移交给下一位多明我会士时所发表的最后布道——也保存了下来（Wey 1949）[^wey-1949]。在伦敦期间，霍尔科特协助理查德·德·伯里写作《爱书》（*Philobiblon*）。两部供传道者使用的著作——《道德寓言》（*Moralitates*）与《皈依》（*Convertimini*）——出自他晚年（Slotemaker and Witt 2015, 233–249）[^slotemaker-2015-2]。他最著名的《圣经》讲章，即关于《智慧书》的，与剑桥有关，并以《智慧书后注》（*Postilla super librum Sapientiae*）的形式流传下来（Slotemaker and Witt 2015, 162–214）[^slotemaker-2015-2]。关于《传道书》的部分讲章也保存下来，很可能出自他在北安普敦时期；已知他去世时正在讲授《便西拉智训》。一部贯穿其生涯的布道文集也被保存下来（Slotemaker 2014; Slotemaker and Witt 2016）[^slotemaker-2014][^slotemaker-2016][^slotemaker-2016-2]。这些文本大多（若流传至今）仅存于手稿或十六世纪早期版本。不过，其中选段、布道、问答以及《六条论纲》已有现代版本。
 
 ## 2 与奥卡姆的关系
 
@@ -28,7 +28,7 @@
 
 ### 3.1 理性不能做什么
 
-奥卡姆曾主张，理性确立上帝存在的能力受到严格限制。尽管可以提出一个把上帝视为万物的“第一保存者”的论证，奥卡姆却反对自然理性能够证明只有一个神圣存在者。霍尔科特发展了这样的限制，主张：未受助的人类理性无法通过严格证明确立任何无形体存在者——如天使或上帝——的存在。对霍尔科特而言，其结果是：古代哲学家文本中提到的这类无形体存在者，必是从其前人那里传承而来；前人传递的，是一种最终得自亚当与夏娃的关于上帝的知识残余。霍尔科特还主张，一些缺乏摩西律法的异教徒，虽在摩西律法之外，仍从上帝领受信德与恩典，因为他们尽力按照自然法的原则生活。霍尔科特对赫耳墨斯·特里斯墨吉斯忒斯与亚里士多德这类异教哲学家持乐观看法；其根据并不在于他们能以自然理性辨认神学真理，而在于他确信：上帝曾把一定分量的启示，赐予不止那些拥有圣经文本的人（Slotemaker and Witt 2015, 71–73）[^slotemaker-2015][^slotemaker-2015-2]。
+奥卡姆曾主张，理性确立上帝存在的能力受到严格限制。尽管可以提出一个把上帝视为万物的“第一保存者”的论证，奥卡姆却反对自然理性能够证明只有一个神圣存在者。霍尔科特发展了这样的限制，主张：未受助的人类理性无法通过严格证明确立任何无形体存在者——如天使或上帝——的存在。对霍尔科特而言，其结果是：古代哲学家文本中提到的这类无形体存在者，必是从其前人那里传承而来；前人传递的，是一种最终得自亚当与夏娃的关于上帝的知识残余。霍尔科特还主张，一些缺乏摩西律法的异教徒，虽在摩西律法之外，仍从上帝领受信德与恩典，因为他们尽力按照自然法的原则生活。霍尔科特对赫耳墨斯·特里斯墨吉斯忒斯与亚里士多德这类异教哲学家持乐观看法；其根据并不在于他们能以自然理性辨认神学真理，而在于他确信：上帝曾把一定分量的启示，赐予不止那些拥有圣经文本的人（Slotemaker and Witt 2015, 71–73）[^slotemaker-2015-2]。
 
 ### 3.2 理性能够做什么
 
@@ -44,7 +44,7 @@
 
 在霍尔科特之前，人们已经提出种种区分来修正这类前提中系词的同一关系，以阻断这一结论。但霍尔科特反对说，神圣本质无论如何都不与神圣位格或父性、子性与发灵的神圣关系相区别——不论“实在地”“样式地”“形式地”“理性地”“可转换地”还是以任何其他方式。这使他重新直面这一两难。
 
-霍尔科特在一段也许最为人熟知的文字中回应道：必须有两套逻辑体系。一套是适用于自然秩序的逻辑，以亚里士多德的著作为范例；另一套是适用于超自然秩序的逻辑，即信德的逻辑，其规则是对亚里士多德规则的补充（Slotemaker and Witt 2015, 74–81, esp. 78）[^slotemaker-2015][^slotemaker-2015-2]。他得出结论：亚里士多德逻辑并非普遍有效，而只适用于自然秩序，除非有所补充以顾及神学情形。这并不意味着他在信仰事务上放弃了不矛盾原则。毋宁说，神圣存在者的本性意味着：当把不量化的普遍词项替换为个别词项时，涉及三位一体词项的三段论便如同关于个别事物的解释性三段论那样运作：
+霍尔科特在一段也许最为人熟知的文字中回应道：必须有两套逻辑体系。一套是适用于自然秩序的逻辑，以亚里士多德的著作为范例；另一套是适用于超自然秩序的逻辑，即信德的逻辑，其规则是对亚里士多德规则的补充（Slotemaker and Witt 2015, 74–81, esp. 78）[^slotemaker-2015-2]。他得出结论：亚里士多德逻辑并非普遍有效，而只适用于自然秩序，除非有所补充以顾及神学情形。这并不意味着他在信仰事务上放弃了不矛盾原则。毋宁说，神圣存在者的本性意味着：当把不量化的普遍词项替换为个别词项时，涉及三位一体词项的三段论便如同关于个别事物的解释性三段论那样运作：
 
 > 人正在跑，
 >
@@ -54,9 +54,9 @@
 
 结论之所以无效，是因为每个前提中的主词可能指代不同的人，如柏拉图和苏格拉底。
 
-霍尔科特论证说，既然亚里士多德不可能知道上帝是三个位格和一个神圣本质，他就不可能预见到需要为这类情形调整其逻辑。但霍尔科特相信，借助某些取自宗教权威的补充规则，三位一体情形可以涵盖。这些规则如“一切绝对者都以单数而非复数关于三个位格被述谓”“在关系对立不构成障碍之处，统一性保持其后件”（*Sent.* I, q. 5, f. f2ra）。信德的逻辑并没有大量额外原则，而且它像亚里士多德逻辑一样是理性的，因为它受不矛盾原则约束。
+霍尔科特论证说，既然亚里士多德不可能知道上帝是三个位格和一个神圣本质，他就不可能预见到需要为这类情形调整其逻辑。但霍尔科特相信，借助某些取自宗教权威的补充规则，三位一体情形可以涵盖。这些规则如“一切绝对者都以单数而非复数关于三个位格被述谓”“在关系对立不构成障碍之处，统一性保持其后件”（*Sent.* I, q. 5, f. 2ra）。信德的逻辑并没有大量额外原则，而且它像亚里士多德逻辑一样是理性的，因为它受不矛盾原则约束。
 
-霍尔科特关于信仰与理性之关系的看法，很大程度上属于安瑟伦的传统，即信仰寻求理解。他对不矛盾原则的恪守毫不妥协：“没有任何理智能够同意第一原则的反面，或相信矛盾命题同时为真”（*Quod.* I, q. 2，载 *Exploring*，38，行 165–166）。信仰要求理性相信信仰的一切真理是相容的，即便有时它们无法被证明或表明如此。
+霍尔科特关于信仰与理性之关系的看法，很大程度上属于安瑟伦的传统，即信仰寻求理解。他对不矛盾原则的恪守毫不妥协：“没有任何理智能够同意第一原则的反面，或相信矛盾命题同时为真”（*Quodl.* I, q. 2，载 *Exploring*，38，行 165–166）。信仰要求理性相信信仰的一切真理是相容的，即便有时它们无法被证明或表明如此。
 
 ## 4 必然性与偶然性
 
@@ -66,7 +66,7 @@
 
 ### 4.2 上帝的绝对权能与受命权能
 
-神圣全能涉及实施任何不涉及矛盾之事的绝对权能。但在可供神圣实施的众多可能性中，上帝选择或规定了一组相容的可能性，它们构成我们所知的世界及其历史。上帝的绝对权能与任一既定时刻所施行的受命体系之间的关系，为探究必然性与偶然性问题提供了一条断层线。十三世纪的神学家把这一关系表述为上帝所已行之事与上帝本可另作之事之间的关系，从而把偶然性稳妥地归入一个现已封存的过去。然而，教会法学家挪用了这一区分，用它描述教皇如何凭其职位的“完满权能”或“绝对权能”，搁置“受命的”或已颁行的教会法。由于教皇权能超越了已颁行的法律，而颁行法律的教皇（与君主）在某种意义上并不受那些法律的约束，他们可以规定例外，或在不矛盾的情况下变更已颁行的法律。绝对权能与受命权能之区分的此类应用，提出了上帝可能以其绝对权能介入受命体系的可能性。自司各脱开始，教会法学家的表述开始进入关于上帝行使绝对权能的讨论。对法律传统的挪用并未导向这一结论（至少对司各脱、奥卡姆与霍尔科特而言）：上帝运用其绝对权能在受命体系中越出秩序地行事；毋宁说，它使上帝（正如在从旧律到新律的转变中那样）能够搁置一个受命体系并以另一个取而代之。在人类历史的不同时期，多种彼此不同且不相容的神圣立法体系曾相继运行。上帝超越任何既定受命体系并以另一个取而代之的绝对能力，使这种切换成为可能，而无须使上帝陷入其本性的矛盾。霍尔科特也援引上帝的绝对权能与受命权能之间的这种辩证关系，来说明上帝如何在特定情形下为其律法规定豁免。上帝从不越出秩序行事，但神圣规定的体系是复杂的，且包含多个可在任一既定时刻施行的不相容子集（Slotemaker and Witt 2015, 32–37）[^slotemaker-2015][^slotemaker-2015-2]。
+神圣全能涉及实施任何不涉及矛盾之事的绝对权能。但在可供神圣实施的众多可能性中，上帝选择或规定了一组相容的可能性，它们构成我们所知的世界及其历史。上帝的绝对权能与任一既定时刻所施行的受命体系之间的关系，为探究必然性与偶然性问题提供了一条断层线。十三世纪的神学家把这一关系表述为上帝所已行之事与上帝本可另作之事之间的关系，从而把偶然性稳妥地归入一个现已封存的过去。然而，教会法学家挪用了这一区分，用它描述教皇如何凭其职位的“完满权能”或“绝对权能”，搁置“受命的”或已颁行的教会法。由于教皇权能超越了已颁行的法律，而颁行法律的教皇（与君主）在某种意义上并不受那些法律的约束，他们可以规定例外，或在不矛盾的情况下变更已颁行的法律。绝对权能与受命权能之区分的此类应用，提出了上帝可能以其绝对权能介入受命体系的可能性。自司各脱开始，教会法学家的表述开始进入关于上帝行使绝对权能的讨论。对法律传统的挪用并未导向这一结论（至少对司各脱、奥卡姆与霍尔科特而言）：上帝运用其绝对权能在受命体系中越出秩序地行事；毋宁说，它使上帝（正如在从旧律到新律的转变中那样）能够搁置一个受命体系并以另一个取而代之。在人类历史的不同时期，多种彼此不同且不相容的神圣立法体系曾相继运行。上帝超越任何既定受命体系并以另一个取而代之的绝对能力，使这种切换成为可能，而无须使上帝陷入其本性的矛盾。霍尔科特也援引上帝的绝对权能与受命权能之间的这种辩证关系，来说明上帝如何在特定情形下为其律法规定豁免。上帝从不越出秩序行事，但神圣规定的体系是复杂的，且包含多个可在任一既定时刻施行的不相容子集（Slotemaker and Witt 2015, 32–37）[^slotemaker-2015-2]。
 
 霍尔科特以相容命题的集合来分析上帝的权力。
 
@@ -86,13 +86,13 @@
 
 在神命伦理体系中，人类之所以有义务做上帝要求他们做的事，是因为上帝命令它，而不是因为存在某种应当为伦理诫命所理想地反映的绝对善的底层体系。威廉·奥卡姆曾赞同这样一种观点。他论证说，如果上帝命令十诫——旧律与新律所共有的根本诫命——不再有效，并从那时起人们有义务遵守其反面，那么不会产生任何矛盾。奥卡姆的大多数同情者都回避上帝能命令人们恨他这一观念，理由是至少那一条命令会是矛盾的。但霍尔科特追随奥卡姆，赞同十诫的终极偶然性。
 
-由于没有任何行为具有内在价值，人类行为的功德性便以上帝与人类信徒之间的圣约为根据。在新律的条款内，上帝不会拒绝把得救赐予所有尽力遵守其命令并信奉信经条款的人。功德行为在促成得救方面的因果效应，是一种次要形式的因果性，其作用如同货币，是得救经济中约定的交换媒介。然而，因为上帝的善并不保证圣约，霍尔科特强调：人类恪守圣约条款构成一种信仰行为，即相信上帝确实会履行其应许，即便知道没有任何东西迫使上帝如此行（Slotemaker and Witt 2015, 30–32）[^slotemaker-2015][^slotemaker-2015-2]。
+由于没有任何行为具有内在价值，人类行为的功德性便以上帝与人类信徒之间的圣约为根据。在新律的条款内，上帝不会拒绝把得救赐予所有尽力遵守其命令并信奉信经条款的人。功德行为在促成得救方面的因果效应，是一种次要形式的因果性，其作用如同货币，是得救经济中约定的交换媒介。然而，因为上帝的善并不保证圣约，霍尔科特强调：人类恪守圣约条款构成一种信仰行为，即相信上帝确实会履行其应许，即便知道没有任何东西迫使上帝如此行（Slotemaker and Witt 2015, 30–32）[^slotemaker-2015-2]。
 
 ### 5.2 意图的意义
 
-在命令的事实比命令的内容更为重要之处，人类服从的意图，比服从在实质上的实施更有分量。霍尔科特把神圣命令与人类服从意图之间的联系，视为人与上帝之间关系的核心。例如，霍尔科特提出一位质朴老妇人的情形：她怀着善意来到教堂，要听主教宣讲新的教会教义。如果主教把教义讲反了，向会众解释说他们应当相信新信条内容的反面，那么这位年长的平信徒妇女是否必须接受主教的话为真？霍尔科特的一位学者同仁曾论证说，只有当她在为罪受罚时才会处于这种境地；但霍尔科特回应说，重要的不是她信仰的内容，而是她做正当之事并服从上帝的意图。如果她坚持这一意图，那么她在圣约之下愿意尽己所能使自己的意志与上帝相合，就足以确保她的得救。上帝不会拒绝她的得救，因为那些她为认识上帝旨意而必然依赖的人受到了误导或困惑（Slotemaker and Witt 2015, 60–62）[^slotemaker-2015][^slotemaker-2015-2]。
+在命令的事实比命令的内容更为重要之处，人类服从的意图，比服从在实质上的实施更有分量。霍尔科特把神圣命令与人类服从意图之间的联系，视为人与上帝之间关系的核心。例如，霍尔科特提出一位质朴老妇人的情形：她怀着善意来到教堂，要听主教宣讲新的教会教义。如果主教把教义讲反了，向会众解释说他们应当相信新信条内容的反面，那么这位年长的平信徒妇女是否必须接受主教的话为真？霍尔科特的一位学者同仁曾论证说，只有当她在为罪受罚时才会处于这种境地；但霍尔科特回应说，重要的不是她信仰的内容，而是她做正当之事并服从上帝的意图。如果她坚持这一意图，那么她在圣约之下愿意尽己所能使自己的意志与上帝相合，就足以确保她的得救。上帝不会拒绝她的得救，因为那些她为认识上帝旨意而必然依赖的人受到了误导或困惑（Slotemaker and Witt 2015, 60–62）[^slotemaker-2015-2]。
 
-关于欺骗在绝对与受命两种可能性体系中的位置的争论，涉及霍尔科特与其同时代的一批人。如果世界是一个可以是别样的偶然之地，那么上帝的启示是否约束其可能未来行动的范围？若不约束，上帝说的话能否有欺骗或虚假？讨论探讨了圣经中上帝似乎欺骗人的实例。霍尔科特反对其同时代的一批人，论证说：上帝即使在受命体系中也能欺骗人类，正如圣经所表明的那样已经欺骗了他们。而且在他看来，这种欺骗并无任何对人类显而易见的救赎之善。如果上帝对人所讲的话可能是欺骗性的，以致不仅主教可能传达虚假信息，甚至上帝也可能如此，那么人类相信上帝的话为真并服从它们的意图就变得更加重要。霍尔科特并不认为上帝扮演了笛卡尔的欺骗恶魔的角色，但霍尔科特也不知道如何排除这种可能：他对其所相信的任何给定事物都可能是受骗的（Slotemaker and Witt 2015, 94–99）[^slotemaker-2015][^slotemaker-2015-2]。重要的是，即使他受骗，上帝也应许：他相信所启示之事并做他所理解的上帝要他做之事的意图，在圣约之下提供了保障。对圣约的信仰才是确定性之源，而非理性的证明。
+关于欺骗在绝对与受命两种可能性体系中的位置的争论，涉及霍尔科特与其同时代的一批人。如果世界是一个可以是别样的偶然之地，那么上帝的启示是否约束其可能未来行动的范围？若不约束，上帝说的话能否有欺骗或虚假？讨论探讨了圣经中上帝似乎欺骗人的实例。霍尔科特反对其同时代的一批人，论证说：上帝即使在受命体系中也能欺骗人类，正如圣经所表明的那样已经欺骗了他们。而且在他看来，这种欺骗并无任何对人类显而易见的救赎之善。如果上帝对人所讲的话可能是欺骗性的，以致不仅主教可能传达虚假信息，甚至上帝也可能如此，那么人类相信上帝的话为真并服从它们的意图就变得更加重要。霍尔科特并不认为上帝扮演了笛卡尔的欺骗恶魔的角色，但霍尔科特也不知道如何排除这种可能：他对其所相信的任何给定事物都可能是受骗的（Slotemaker and Witt 2015, 94–99）[^slotemaker-2015-2]。重要的是，即使他受骗，上帝也应许：他相信所启示之事并做他所理解的上帝要他做之事的意图，在圣约之下提供了保障。对圣约的信仰才是确定性之源，而非理性的证明。
 
 意向性在霍尔科特神学中的地位，以及他对神圣恩慈的宽厚看法，为他使用如今所谓的“帕斯卡尔赌注”的一个版本提供了语境。霍尔科特传述了一个关于一位博学异端者的故事：此人因一位多明我会辅理修士的挑战而皈依了对不朽的信仰：如果你相信不朽且它为真，你将获得极大收益；如果你相信不朽而它不为真，你将一无所失。形成相信的意图可以构成这位异端者尽己所能的行为，而上帝会用皈依该信仰所必需的恩典来奖赏这样的意图。
 
@@ -110,11 +110,11 @@
 >
 > 如果祂从永恒起就知道 *a*，我设定“*a* 将发生”昨天被写在一面墙上。因此，命题“写在墙上的那个为真”是真的，于是……因其是关于过去的真命题而必然为真。因此，命题所指明的情况必然如此，即：苏格拉底犯罪是必然的。（*Sent*. II, q. 2，载 *Seeing the Future*，126，行 307–317）
 
-霍尔科特主张，他那个时代对此类论证的通常回应，是提出一个反事实过去的可能性：说命题“*a* 将发生”是真的，却是偶然地为真，因此，尽管它为真，它却从不曾为真。霍尔科特论证说，反事实过去的可能性把关于偶然事务的未来命题及其等价物——无论设定在过去还是现在——与并非关于这类偶然事务的过去与现在命题区分开来。命题“*a* 被上帝所知”与“*a* 为上帝所知”，尽管设定在过去与现在，却是真的而又从不曾为真，正如其他关于未来的命题一样，因为它们关于 *a*，而 *a* 是未来偶然物，仍可能不发生。霍尔科特的回应可被识别为现代讨论中所谓的奥卡姆式解决的一个版本，尽管这一论证至少可追溯至波拿文都拉（Slotemaker and Witt 2015, 87–94）[^slotemaker-2015][^slotemaker-2015-2]。
+霍尔科特主张，他那个时代对此类论证的通常回应，是提出一个反事实过去的可能性：说命题“*a* 将发生”是真的，却是偶然地为真，因此，尽管它为真，它却从不曾为真。霍尔科特论证说，反事实过去的可能性把关于偶然事务的未来命题及其等价物——无论设定在过去还是现在——与并非关于这类偶然事务的过去与现在命题区分开来。命题“*a* 被上帝所知”与“*a* 为上帝所知”，尽管设定在过去与现在，却是真的而又从不曾为真，正如其他关于未来的命题一样，因为它们关于 *a*，而 *a* 是未来偶然物，仍可能不发生。霍尔科特的回应可被识别为现代讨论中所谓的奥卡姆式解决的一个版本，尽管这一论证至少可追溯至波拿文都拉（Slotemaker and Witt 2015, 87–94）[^slotemaker-2015-2]。
 
 ### 6.1 “义务论辩”模型
 
-霍尔科特为这一讨论所增添的，是对这类难题的一个精细分析，他运用义务论辩论的规则与结构来探究反事实可能性。*de obligatione* 辩论在中世纪大学课程中是寻常之事，它涉及一个人——“提问者”——向另一人——“应答者”——提出一个命题，该命题若被接受，便构成一场持续交流的基础。所提命题通常是反事实命题，或真值状态不明的命题。提问者随后向应答者提出进一步命题，每一个都可能从第一个命题推出、与它矛盾或与之无关。应答者须在辩论期间把第一个命题视为真（在霍尔科特的版本中，辩论发生于单一的假设时间瞬间）。此后，对每个后继命题，视其是否从先前已同意之事推出、或与先前的让步相矛盾，应答者以同意或拒绝回应。如果所提命题与先前任何命题都无关联，应答者则根据他理解的世界实际事态如何，而以同意、拒绝或怀疑回应。义务论辩论的形式与规则为探究偶然可能性提供了一种严格的格式，霍尔科特采纳了它（Gelber 2004, 171–189; Slotemaker and Witt 2015, 26–30）[^gelber-2004][^slotemaker-2015][^slotemaker-2015-2]。
+霍尔科特为这一讨论所增添的，是对这类难题的一个精细分析，他运用义务论辩论的规则与结构来探究反事实可能性。*de obligatione* 辩论在中世纪大学课程中是寻常之事，它涉及一个人——“提问者”——向另一人——“应答者”——提出一个命题，该命题若被接受，便构成一场持续交流的基础。所提命题通常是反事实命题，或真值状态不明的命题。提问者随后向应答者提出进一步命题，每一个都可能从第一个命题推出、与它矛盾或与之无关。应答者须在辩论期间把第一个命题视为真（在霍尔科特的版本中，辩论发生于单一的假设时间瞬间）。此后，对每个后继命题，视其是否从先前已同意之事推出、或与先前的让步相矛盾，应答者以同意或拒绝回应。如果所提命题与先前任何命题都无关联，应答者则根据他理解的世界实际事态如何，而以同意、拒绝或怀疑回应。义务论辩论的形式与规则为探究偶然可能性提供了一种严格的格式，霍尔科特采纳了它（Gelber 2004, 171–189; Slotemaker and Witt 2015, 26–30）[^gelber-2004][^slotemaker-2015-2]。
 
 这一难题的一个简单形式可能如下进行：
 
@@ -148,9 +148,9 @@
 
 在《解释篇》第 9 章中，亚里士多德给中世纪关于神圣预知的辩论留下了一个难题。他主张，为了避免把必然性加于一切事件，关于未来事件的命题尚未为真或为假；这似乎要么否认上帝知道未来的可能性，要么排除事件的偶然性。波爱修斯提供了一个一直沿用到十四世纪的回应，但在司各脱对其回应提出严厉批判之后，关于亚里士多德三值逻辑的新讨论出现了。坎普索尔区分了“确定地为真或为假”的关于过去与现在的命题，与“不确定地为真或为假”的关于未来的命题。霍尔科特采纳了这种以模态方式划分真与假的判定的做法：
 
-> …… 未来偶然物被认为是关于未来的命题，它们没有确定的真或假，因为尽管它们为真或为假，那些为真的却从不曾为真，那些为假的却从不曾为假。（*Quod*. III, q. 1，载 *Seeing the Future*，63，行 93–96）
+> …… 未来偶然物被认为是关于未来的命题，它们没有确定的真或假，因为尽管它们为真或为假，那些为真的却从不曾为真，那些为假的却从不曾为假。（*Quodl.* III, q. 1，载 *Seeing the Future*，63，行 93–96）
 
-到霍尔科特的时代，以可能的反事实过去来分析未来偶然性，并把这样的分析与多值逻辑相等同，已经达到一种可辨认传统的地位。奥卡姆未曾采用“不确定地为真或为假”与“偶然地为真或为假”的术语来谈论未来偶然命题的真值状态。他曾坚持一个二值体系，其中一切命题都确定地为真或为假。但霍尔科特在这方面与他不同。霍尔科特的立场反映了把模态视为首位的观点。必然性与偶然性是根本的，而真假的判断在每一个模态语境中意味着不同的东西；而不是以真理为首位、让必然性与偶然性为原本为真的命题赋予不同的值。应对偶然性意涵的努力已经走过了漫长的路程（Slotemaker and Witt 2015, 87–94）[^slotemaker-2015][^slotemaker-2015-2]。
+到霍尔科特的时代，以可能的反事实过去来分析未来偶然性，并把这样的分析与多值逻辑相等同，已经达到一种可辨认传统的地位。奥卡姆未曾采用“不确定地为真或为假”与“偶然地为真或为假”的术语来谈论未来偶然命题的真值状态。他曾坚持一个二值体系，其中一切命题都确定地为真或为假。但霍尔科特在这方面与他不同。霍尔科特的立场反映了把模态视为首位的观点。必然性与偶然性是根本的，而真假的判断在每一个模态语境中意味着不同的东西；而不是以真理为首位、让必然性与偶然性为原本为真的命题赋予不同的值。应对偶然性意涵的努力已经走过了漫长的路程（Slotemaker and Witt 2015, 87–94）[^slotemaker-2015-2]。
 
 ## 参考文献
 
@@ -158,11 +158,7 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
-
-### Translations
-
-### Secondary Literature
+### 原始文献
 
 [^lyons-1967]: *In quatuor libros sententiarum quaestiones*. Lyons, 1518. reprinted Frankfurt: Minerva GMBH, 1967. Also contains *De imputabilitate peccati*, and *Determinationes* I-XII, the first of which is not by Holkot.
 [^quaestiones-1983]: *Quaestiones quodlibetales*. In *Exploring the Boundaries of Reason: Three Questions on the Nature of God by Robert Holcot, OP*, H. Gelber (ed.), Toronto: G. Alzani, 1983.
@@ -176,11 +172,15 @@
 [^sex-1993]: *Sex articuli*. In *Die “Conferentiae” des Robert Holcot O.P. und die akademischen Auseinandersetzungen an der Universität Oxford 1330–1332*, ed. Fritz Hoffmann, 65–127. Beiträge zur Geschichte der Philosophie und Theologie Mittelalters, n. s. no. 36. Münster, 1993.
 [^tractatus-1957]: *Tractatus de stellis*. In Lynn Thorndike, “A New Work by Robert Holcot (Corpus Christi College, Oxford, MS 138),” *Archives internationales d’histoire des sciences*, 10 (1957): 227–235.
 [^super-1974]: *Super libros Sapientiae*, Hagenau, 1494; reprinted Frankfurt: Minerva G.M.B.H., 1974.
+### 译本
+
 [^super-1981]: *Super libros Sapientiae*, chap. 3, lects. 35 and 52; chap. 12, lect. 145. In *Forerunners of the Reformation: The Shape of Late Medieval Thought Illustrated by Key Documents*, Heiko Oberman (ed. and trans.), Philadelphia: Holt, Rinehart and Winston, 1981, 142–150.
 [^quodlibet-2002]: *Quodlibet* I, ques. 6 (*Utrum Deus possit scire plura quam scit*), in *The Cambridge Translations of Medieval Philosophical Texts* (Volume 3: *Mind and Knowledge*), Robert Pasnau (ed. and trans.), Cambridge and New York: Cambridge University Press, 2002, 302–317.
+### 研究文献
+
 [^allen-1969]: Allen, Judson B., 1969. “The Library of a Classiciser: The Sources of Robert Holkot’s Mythographic Learning,” in *Arts libéraux et philosophie au moyen âge*, Actes du IVe congrès internationale de philosophie médiévale, Paris and Montreal: Libraire philosophique J. Vrin, 721–729.
 [^allen-1971]: –––, 1971. *The Friar as Critic: Literary Attitudes in the Later Middle Ages*, Nashville: Vanderbilt University Press.
-[^courtenay-1972]: Courtenay, William J., 1972. “The King and the Leaden Coin: The Economic Background of ‘Sine qua non’ Causality,” *Traditio*, 28: 185–209; reprinted in William J. Courtenay*, Covenant and Causality in Medieval Thought: Studies in Philosophy, Theology and Economic Practice*, London: Variorum Reprints, 1984.
+[^courtenay-1972]: Courtenay, William J., 1972. “The King and the Leaden Coin: The Economic Background of ‘Sine qua non’ Causality,” *Traditio*, 28: 185–209; reprinted in William J. Courtenay, *Covenant and Causality in Medieval Thought: Studies in Philosophy, Theology and Economic Practice*, London: Variorum Reprints, 1984.
 [^courtenay-1980]: –––, 1980. “The Lost Matthew Commentary of Robert Holcot, O.P.,” *Archivum Fratrum Praedicatorum*, 50: 103–112.
 [^courtenay-1985]: –––, 1985. “The Dialectic of Omnipotence in the High and Late Middle Ages,” in *Divine Omniscience and Omnipotence in Medieval Philosophy*, Tamar Rudavsky (ed.), Dordrecht: Kluwer, 243–269.
 [^courtenay-1990]: –––, 1990. *Capacity and Volition: A History of the Distinction of Absolute and Ordained Power*, Bergamo: P. Lubrina.
@@ -192,16 +192,16 @@
 [^gelber-2010]: –––, 2010. “Providence,” in *The Cambridge History of Medieval Philosophy* (Volume 2), Robert Pasnau (ed.), Cambridge: Cambridge University Press, 761–772.
 [^gelber-2012]: –––, 2012. “Blackfriars London: The Late Medieval Studium,” in *Philosophy and Theology in the Studia of the Religious Orders and at Papal and Royal Courts*, Kent Emery, Jr., William J. Courtenay and Stephen M. Metzger (eds.), Turnhout: Brepols, 165–180.
 [^gillespie-1971]: Gillespie, Richard E., 1971. “Robert Holcot’s Quodlibeta,” *Traditio*, 27: 480–490.
-[^grassi-1979]: Grassi, Onorato, 1979. “Le tesi di Robert Holcot sul valore non scientifico della conoscenza teologica,” *Rivista di filosofia neo-scolastica*, 71: 49-79.
-[^hoffmann-1963]: Hoffmann, Fritz, 1963. “Robert Holcot--Die Logik in der Theologie,” in *Die Metaphysik im Mittelalter: Iher Ursprung und ihre Bedeutung* (Miscellanea Mediaevalia, Number 2), Berlin: Walter de Gruyter, 624–639.
+[^grassi-1979]: Grassi, Onorato, 1979. “Le tesi di Robert Holcot sul valore non scientifico della conoscenza teologica,” *Rivista di filosofia neo-scolastica*, 71: 49–79.
+[^hoffmann-1963]: Hoffmann, Fritz, 1963. “Robert Holcot--Die Logik in der Theologie,” in *Die Metaphysik im Mittelalter: Ihr Ursprung und ihre Bedeutung* (Miscellanea Mediaevalia, Number 2), Berlin: Walter de Gruyter, 624–639.
 [^hoffmann-1971]: –––, 1971. “Der Satz als Zeichen der theologischen Aussage bei Holcot, Crathorn und Gregor von Rimini,” in *Der Begriff der Repraesentatio im Mittelalter: Stellvertretung, Symbol, Zeichen, Bild* (Miscellanea Mediaevalia, Number 8), Albert Zimmermann (ed.), Berlin: Walter de Gruyter, 296–313.
 [^hoffmann-1972]: –––, 1972. *Die theologische Methode des Oxforder Dominikanerlehrers Robert Holcot*, (Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, New Series, Number 5), Münster: Aschendorff.
 [^hoffmann-1974]: –––, 1974. “Thomas-Rezeption bei Robert Holcot?” *Theologie und Philosophie*, 49: 236–251.
 [^hoffmann-1995]: –––, 1995. “Der Wandel in der scholastischen Argumentation vom 13. zum 14. Jahrhundert, aufgeseigt an zwei Beispielen: Robert Holcot und William (Johannes?) Crathorn (1330–1332 in Oxford),” in *Die Bibliotheca Amploniana: Ihre Bedeutung im Spannungsfeld von Aristotelismus, Nominalismus und Humanismus* (Miscellanea Mediaevalia, Number 23), Andreas Speer (ed.), Berlin: Walter de Gruyter, 301–322.
 [^incandela-1994]: Incandela, Joseph M., 1994. “Robert Holcot, O.P., on Prophecy, the Contingency of Revelation, and the Freedom of God,” *Medieval Philosophy and Theology*, 4: 165–188.
-[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological*quodlibeta*in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692
+[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological quodlibeta in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692.
 [^kennedy-1993]: Kennedy, Leonard A., 1993. *The Philosophy of Robert Holcot, Fourteenth-Century Skeptic* (Studies in the History of Philosophy, Number 27), Lewiston, NY: Edwin Mellon Press.
-[^kirjavainen-1990]: Kirjavainen, Heikki, 1990. “Existential Presuppositions in Semantics According to Ockham and Holcot,” in *Knowledge and the Sciences in Medieval Philosophy* (Volume 2: Eighth International Congresss of Medieval Philosophy), Simo Knuuttila, Reijo Työrinoija, and Sten Ebbesen (eds.), Helsinki: Acta Philosophica Fennica, 196–209.
+[^kirjavainen-1990]: Kirjavainen, Heikki, 1990. “Existential Presuppositions in Semantics According to Ockham and Holcot,” in *Knowledge and the Sciences in Medieval Philosophy* (Volume 2: Eighth International Congress of Medieval Philosophy), Simo Knuuttila, Reijo Työrinoija, and Sten Ebbesen (eds.), Helsinki: Acta Philosophica Fennica, 196–209.
 [^kirjavainen-1993]: –––, 1993. “Trinitarian Sophisms in Robert Holcot’s Theology,” in *Sophisms in Medieval Logic and Grammar* (Acts of the Ninth European Symposium for Medieval Logic and Semantics), Stephen Read (ed.), Dordrecht: Kluwer, 348–356.
 [^meissner-1953]: Meissner, Alois, 1953. *Gotteserkenntnis und Gotteslehre: Nach dem Englischen Dominikanertheologen Robert Holcot*, Limburg: Lahn Verlag.
 [^molteni-1967]: Molteni, Paulo, 1967. *Roberto Holcot O.P.: Dottrina della grazia e della giustificazione con due questioni quodlibetali inedite*, Pinerolo: G. Alzani.
@@ -211,7 +211,7 @@
 [^oberman-1962]: Oberman, Heiko A., 1962. “Facientibus quod in se est Deus non denegat gratiam: Robert Holcot, OP and the Beginnings of Luther’s Theology,” *Harvard Theological Review*, 55: 317–342.
 [^oberman-1963]: –––, 1963. *The Harvest of Medieval Theology: Gabriel Biel and Late Medieval Nominalism*, Cambridge, MA: Harvard University Press, 235–248.
 [^o’mara-1992]: O’Mara, Philip, 1992. “Robert Holcot’s ‘Ecumenism’ and the Green Knight: Part I,” *The Chaucer Review*, 26(4): 329–342.
-[^o’mara-1963]: –––, 1963. “Holcot and the ‘Pearl’-Poet: Part II,” *The Chaucer Review*, 27(1): 97–106.
+[^o’mara-1963]: –––, 1992. “Holcot and the ‘Pearl’-Poet: Part II,” *The Chaucer Review*, 27(1): 97–106.
 [^rivers-2010]: Rivers, Kimberly A., 2010. *Preaching the Memory of Virtue and Vice: Memory, Images, and Preaching in the Late Middle Ages*, Turnhout: Brepols.
 [^schepers-1970]: Schepers, Heinrich, 1970. “Holkot contra dicta Crathorn: I. Quellenkritik und biographische Auswertung der Bakkalareatsschriften zweier Oxforder Dominikaner des XIV. Jahrhunderts.” *Philosophisches Jahrbuch*, 77: 320–354.
 [^schepers-1972]: –––, 1972. “Holkot contra dicta Crathorn: II. Das ‘significatum per propositionem,’ Aufbau und Kritik einer nominalistischen Theorie über den Gegenstand des Wissens.” *Philosophisches Jahrbuch*, 79: 106–136.
@@ -227,9 +227,9 @@
 [^spade-1993]: –––, 1993. “Opposing and Responding: A New Look at *Positio*,” *Medioevo*, 19: 232–257.
 [^streveler-1976]: Streveler, Paul, 1976. “Robert Holkot on Future Contingencies: A Preliminary Account,” in *Studies in Medieval Culture* (Numbers 8–9), John R. Sommerfeldt and E. Rozanne Elder (eds.), Kalamazoo: Medieval Institute, Western Michigan University, 163–171.
 [^tachau-1982]: Tachau, Katherine, 1982. “The Problem of the *Species in medio* at Oxford in the Generation after Ockham,” *Mediaeval Studies*, 44: 394–443.
-[^tachau-1988]: –––, 1988. *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundations of Semantics 1250–1345* (Studien und Texte zur geistesgeschichte des Mittelalters, Number 22), Leiden: E. J. Brill.
+[^tachau-1988]: –––, 1988. *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundations of Semantics 1250–1345* (Studien und Texte zur Geistesgeschichte des Mittelalters, Number 22), Leiden: E. J. Brill.
 [^tachau-1987]: –––, 1987. “The Influence of Richard Campsall on 14th-Century Oxford Thought,” in *From Ockham to Wyclif* (Studies in Church History: Volume 5), Anne Hudson and Michael Wilks (eds.), Oxford: Boydell & Brewer, 109–123.
-[^tachau-1987-2]: –––, 1987. “Wodeham, Crathorn, and Holcot: The Development of the *complexe significabile*,” in *Logos and Pragma: Essays on the Philosophy of Language in Honor of Professor Gabriel Nuchelmans*, L. M. de Riijk and H. A. G. Braakhuis (eds.), Nijmegen: Ingenium, 161–187.
+[^tachau-1987-2]: –––, 1987. “Wodeham, Crathorn, and Holcot: The Development of the *complexe significabile*,” in *Logos and Pragma: Essays on the Philosophy of Language in Honor of Professor Gabriel Nuchelmans*, L. M. de Rijk and H. A. G. Braakhuis (eds.), Nijmegen: Ingenium, 161–187.
 [^tachau-1991]: –––, 1991. “Looking Gravely at Dominican Puns: The ‘Sermons’ of Robert Holcot and Ralph Friseby,” *Traditio*, 46: 337–345.
 [^tachau-1991-2]: –––, 1991. “Richard Campsall as a Theologian: New Evidence,” in *Historia Philosophiae Medii Aevi: Studien zur Geschichte der Philosophie des Mittelalters* (Volume 2), Burkhard Mojsisch and Olaf Pluta (eds.), Amsterdam/Philadelphia: B. R. Grüner, 979–1002.
 [^tachau-1994]: –––, 1994. “Robert Holcot on Contingency and Divine Deception,” in *Filosofia e teologia nel trecento: Studi in ricordo di Eugenio Randi*, Luca Bianchi (ed.), Louvain-la-neuve: Fédération internationale des instituts d’études médiévales, 157–196.

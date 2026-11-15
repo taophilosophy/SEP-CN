@@ -384,3 +384,13 @@
 | xenocrates | mansfeld-2020 `Runia, D, 2020` | `and D. Runia, 2020` | 标点（①） |
 | xenocrates | 五条重复作者标记 `&ndash;&ndash; 20xx` | `&ndash;&ndash;&ndash;, 20xx` | 破折号缺一（①） |
 | xenocrates | 正文 `Calchi 2020`（书目作 2023） | `Calchi 2023` | 正文书目矛盾（②） |
+| holkot | 正文 `*Quod.*`／`*Quodl*.`／`*Quod*.` 三种缩写混用 | `*Quodl.*` | 同书缩写不一（①） |
+| holkot | 正文 `f. f2ra` | `f. 2ra` | 衍字（①） |
+| holkot | courtenay-1972 `Courtenay<em>, Covenant…` 逗号入斜体 | 逗号移出 | 体例（①） |
+| holkot | hoffmann-1963 `Iher Ursprung` | `Ihr Ursprung` | 拼写（①） |
+| holkot | keele-2007 `<em>Theological </em>quodlibeta<em> in the Middle Ages…` 斜体断裂、条末无句点 | 整题名斜体、补句点 | ① |
+| holkot | kirjavainen-1990 `Congresss` | `Congress` | 拼写（①） |
+| holkot | o’mara-1963（Part II，Chaucer Review 27(1)） | 1992（Part I 为 1992，卷次属 1992） | 年份倒置（②） |
+| holkot | tachau-1987-2 `de Riijk` | `de Rijk` | 拼写（①） |
+| holkot | grassi-1979 `71: 49-79` | `49&ndash;79` | 连接号（①） |
+| holkot | tachau-1988 `geistesgeschichte` | `Geistesgeschichte` | 专名大小写（①） |
