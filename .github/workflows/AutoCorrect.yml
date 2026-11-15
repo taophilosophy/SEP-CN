@@ -1,5 +1,10 @@
 name: 🔗 AutoCorrect 空格语法检查
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：自动修复后建分支开 PR
+permissions:
+  contents: write
+  pull-requests: write
+
 on: 
   repository_dispatch:
   workflow_dispatch:

@@ -40,7 +40,8 @@ mulu = {}  # path -> list of titles
 broken = []  # 文件不存在的链接
 with open(os.path.join(root, 'mu-lu-s.md'), encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
-        for m in re.finditer(r'\[((?:\\.|[^\]])*)\]\(([^)]*)\)', line):
+        # 链接文字允许 `\]` 转义；两分支互斥（反斜杠 vs 非反斜杠），避免指数回溯（CodeQL py/redos）
+        for m in re.finditer(r'\[((?:\\.|[^\\\]])*)\]\(([^)]*)\)', line):
             title, path = m.group(1), m.group(2)
             if not path.endswith('.md'):
                 continue

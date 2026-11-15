@@ -123,10 +123,16 @@ def _check_typo(text, out):
     cands = []
     seen = set()
     # 词内混入数字/等号（Lakatos1978a、Cambridh=ge 型；1999a 年份后缀不以字母起头不命中）
-    for m in re.finditer(r"\b[A-Za-z]{2,}(?:[0-9=][A-Za-z0-9]*)+\b", text):
+    # 两段式：先以无嵌套量词的线性正则取整词，再用判定式复现原语义——原写法
+    # `(?:[0-9=][A-Za-z0-9]*)+` 的 `*` 与后续 `[0-9=]` 争同一批数字，有指数回溯面
+    # （CodeQL py/redos）。语义：字母起头（≥2）且词内含数字/等号、以字母数字收尾。
+    for m in re.finditer(r"\b[A-Za-z]{2}[A-Za-z0-9=]*", text):
         tok = m.group(0)
         if not any(c.islower() for c in tok):
             continue  # 全大写缩写（MEGA1/ISO3166 型）通常合法
+        tok = tok.rstrip("=")  # 原模式末尾须命中 \b，行尾孤等号不计入词
+        if not re.search(r"[0-9=]", tok):
+            continue  # 纯字母词不属本类
         if tok not in seen:
             seen.add(tok)
             cands.append({"kind": "word_digit_eq", "token": tok,

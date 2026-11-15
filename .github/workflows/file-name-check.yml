@@ -1,5 +1,10 @@
 name: 🔗 检查 SUMMARY.md 目录
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出＋以 issue 反馈缺件
+permissions:
+  contents: read
+  issues: write
+
 on:
   push:
     paths:

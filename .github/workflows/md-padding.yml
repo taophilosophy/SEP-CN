@@ -1,5 +1,10 @@
 name: 🔗 md-padding 自动加空格
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：补空格后建分支开 PR
+permissions:
+  contents: write
+  pull-requests: write
+
 on: 
   repository_dispatch:
   workflow_dispatch:

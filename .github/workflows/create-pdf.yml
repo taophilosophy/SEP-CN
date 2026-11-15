@@ -1,5 +1,9 @@
 name: 📄 导出本项目中文 PDF/EPUB
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：只检出（含外部工具仓）与上传运行工件
+permissions:
+  contents: read
+
 on:
   workflow_dispatch:  # 手动触发；不写任何外部仓库、不打 tag、不发 Release，产物从本次运行工件下载
     inputs:

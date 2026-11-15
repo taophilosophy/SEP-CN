@@ -83,7 +83,8 @@ def title_pair(zh_text):
 def italic_terms(yw_body, cap=12):
     """yuanwen 正文的 *term* 斜体拉丁术语，按词频排序。"""
     terms = collections.Counter()
-    for m in re.finditer(r"(?<![\*\w])\*([A-Za-zÀ-ÿĀ-žĀ-ɏ][A-Za-zÀ-ÿĀ-žā-ž'\- ]{1,60}?)\*(?!\*)", yw_body):
+    # 字符类按并集化简：`À-ÿ`＋`Ā-ɏ`（拉丁扩展 A/B）已覆盖旧写的 `Ā-ž`/`ā-ž` 重叠子区间
+    for m in re.finditer(r"(?<![\*\w])\*([A-Za-zÀ-ÿĀ-ɏ][A-Za-zÀ-ÿĀ-ž'\- ]{1,60}?)\*(?!\*)", yw_body):
         t = m.group(1).strip()
         if 2 <= len(t.split()) <= 6 or 3 <= len(t) <= 40:
             if re.search(r"[A-Za-z]", t):

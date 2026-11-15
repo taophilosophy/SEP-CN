@@ -33,7 +33,7 @@ for slug, imgs in missing.items():
         for m in re.finditer(r'<img\b[^>]*\bsrc="[^"]*' + re.escape(img), en, re.I):
             before = en[:m.start()]
             n_open = len(re.findall(r'<!--', before))
-            n_close = len(re.findall(r'-->', before))
+            n_close = len(re.findall(r'--!?>', before))  # HTML 注释尾可为 --> 或 --!>
             if n_open > n_close:
                 in_comment = True
             else:

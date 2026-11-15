@@ -1,5 +1,9 @@
 name: ✅ 仓库一致性检查
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出后跑检查器，不回写
+permissions:
+  contents: read
+
 on:
   push:
   workflow_dispatch:

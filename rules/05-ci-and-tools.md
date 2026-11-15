@@ -15,13 +15,14 @@
 | `check-images.yml` | 图片引用检查（悬空、可解析、大小写、本地化、未引用资产），逻辑在 `tools/check_images.py`（`.github/scripts/check_images.py` 为 CI 入口）；报告开 issue；同一检查已以 `--gate` 入 `checks.yml`（悬空/大小写/外链硬拦，2026-11-10 入闸） | push（`.gitbook/assets/**`）/ 手动 |
 | `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
-| `Auto-Assign.yml`、`GC.yml` | issue/PR 自动分配、垃圾回收 | 各自约定 |
+| `Auto-Assign.yml` | issue/PR 自动分配 | 各自约定 |
 | `create-pdf.yml` | 手动导出本项目中文 PDF/EPUB（gitbook-pdf-export 工具只读使用；可按首字母分批，全量约 2600 词条）；产物仅上传运行工件，**不写 tag/Release/外部仓库**（2026-11-04 重写，D20） | workflow_dispatch |
 | `render-artifact-audit.yml` | 手动构建全站后跑 `check_render_artifacts.py` 扫渲染残留（裸 `**`、字面 `[^`、链接残留、`@@M` 哨兵），有残留即红；报告入运行工件（2026-11-05 接线，ADR-0019 分期转硬的审计通道） | workflow_dispatch |
 
 * 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/` 并在此登记。
 * CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。
 * lint 配置统一在根目录 `.markdownlint-cli2.jsonc`（规则、纳入范围、按文件豁免），`.github/.markdownlint.json` 保留为等价规则副本；`yuanwen/`（原文照录）与 `.zcode/`（本地工具）不参与 lint。
+* 各工作流在文件顶部声明**最小 `permissions:`**（2026-11-15 按 CodeQL `actions/missing-workflow-permissions` 全量补齐）：只读校验类 `contents: read`；以 issue 反馈结果的加 `issues: write`；自动修复后开 PR 的加 `contents: write` + `pull-requests: write`。新增工作流照此就地声明，不依赖仓库默认权限。
 * 修改工作流须同步更新本表（变更管理见 [06-governance.md](06-governance.md)）。
 
 ## 运行时基线（2026-11-10 起，ADR-0032）

@@ -1,4 +1,7 @@
 name: 🔗 提交时检查 Markdown 格式
+# 最小权限（CodeQL actions/missing-workflow-permissions）：只检出代码跑 lint，不回写、不开 issue
+permissions:
+  contents: read
 on: [pull_request]
 
 jobs:

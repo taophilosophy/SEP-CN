@@ -1,5 +1,10 @@
 name: "🔗 检查 Markdown 图片引用"
 
+# 最小权限（CodeQL actions/missing-workflow-permissions）：检出代码跑检查，报告以 issue 反馈
+permissions:
+  contents: read
+  issues: write
+
 on:
   push:
     paths:

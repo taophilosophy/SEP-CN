@@ -249,7 +249,8 @@ def main():
             h2, h3 = ln[3:].strip(), None
         elif ln.startswith('### '):
             h3 = ln[4:].strip()
-        m = re.match(r'^(\s*)\* \[((?:\\.|[^\]])*)\]\(([a-zA-Z0-9._/\-]+\.md)\)(.*)$', ln)
+        # 链接文字允许 `\]` 转义；两分支互斥（反斜杠 vs 非反斜杠），避免指数回溯（CodeQL py/redos）
+        m = re.match(r'^(\s*)\* \[((?:\\.|[^\\\]])*)\]\(([a-zA-Z0-9._/\-]+\.md)\)(.*)$', ln)
         if m:
             slug = m.group(3).split('/')[-1][:-3]
             title = m.group(2)

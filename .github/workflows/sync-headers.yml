@@ -5,6 +5,9 @@ name: 🔗 校验 SUMMARY.md 与词条 H1 一致
 # 本地提交分叉（2026-11-07 远端提交 a05e8968 实例），迫使本地要么放弃自有提交、
 # 要么被远端内容覆盖。现分工：本地 `python tools/check_summary.py --sync-headers`
 # 同步 H1；本地与 CI 用同一检查器实拦；远端永不写回，main 的写入方只有本地会话。
+# 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出＋校验，与 ADR-0024 一致。
+permissions:
+  contents: read
 on:
   push:
   workflow_dispatch:
