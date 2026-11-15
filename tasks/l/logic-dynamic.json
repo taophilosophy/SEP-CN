@@ -2,7 +2,7 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "l/logic-dynamic.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-10T01:14:01Z",
       "evidence": "done 收口：style 0 / prose 0 / math missing 0（unbalanced 4 为 yuanwen 数字起头货币启发式假阳性）/ academic strict 0 硬错误 / terms 硬错误 0 / H1 一致；r1 修图片悬空"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

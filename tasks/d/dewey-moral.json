@@ -2,7 +2,7 @@
   "slug": "dewey-moral",
   "kind": "retranslate",
   "zh_doc": "d/dewey-moral.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "D-main-20261111",
       "at": "2026-11-11T06:36:58Z",
       "evidence": "全周期完成（clear→draft→s1→s2→s3→r1→r2→r3→done 九步齐备）：r1 由独立会话 DR-main-20261111 逐段核销 8 处准确性实修，r2/r3 由本会话完成语言体例与终稿复核（prose 90→11 豁免，相关词条与译注体例修正）；四检全绿；译文入库 d/dewey-moral.md"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

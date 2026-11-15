@@ -2,7 +2,7 @@
   "slug": "kant-metaphysics",
   "kind": "retranslate",
   "zh_doc": "k/kant-metaphysics.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-04T19:54:25Z",
       "evidence": "done 收口：K 批直译第九条全周期（init→直译双版 84 段→守恒→compose 32536 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

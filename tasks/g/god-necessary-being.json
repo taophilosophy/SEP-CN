@@ -2,7 +2,7 @@
   "slug": "god-necessary-being",
   "kind": "retranslate",
   "zh_doc": "g/god-necessary-being.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "G-main-20261110",
       "at": "2026-11-09T19:03:44Z",
       "evidence": "done：九步齐，298 行成稿入库，验收签字（含 SUMMARY/mu-lu-s 标题缺陷修复）。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

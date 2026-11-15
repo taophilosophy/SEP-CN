@@ -2,7 +2,7 @@
   "slug": "concept-emotion-india",
   "kind": "retranslate",
   "zh_doc": "c/concept-emotion-india.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "R-main-20261112",
       "at": "2026-11-12T07:35:29Z",
       "evidence": "全周期收口（评审线：初译主代理 2026-11-01 → r1/r2/r3 R-main-20261112）：218 行、正文段 54、脚注定义 23、原始文献表 13 键守恒；四检 style 0/academic OK/math 0/terms 硬错 0；实修累计 27 处（体例 7 含节标题去句点 5 与 References 子标题回英文 2、prose 10、人名 10 含 Uddyotakara 正形 1＋补登 9 行），豁免按 ADR-0020 分类留痕 36；s3_checked 存量 40→39。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

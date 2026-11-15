@@ -2,7 +2,7 @@
   "slug": "hutcheson",
   "kind": "retranslate",
   "zh_doc": "h/hutcheson.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-11-08T00:52:23Z",
       "evidence": "对账纠正：内容注节「## 脚注」由参考文献前移至文末致谢之后（与 emilie/envy 体例一致），note-2005 原文孤立定义照留；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

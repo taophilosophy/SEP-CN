@@ -2,7 +2,7 @@
   "slug": "reasoning-analogy",
   "kind": "retranslate",
   "zh_doc": "r/reasoning-analogy.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-04T20:15:51Z",
       "evidence": "done：六道全过，reasoning-analogy 为 RZ 会话第 3 个收口件（r 批 done=3/85；278 段为本会话最大件）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

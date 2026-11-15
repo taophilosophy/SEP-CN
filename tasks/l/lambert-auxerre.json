@@ -2,7 +2,7 @@
   "slug": "lambert-auxerre",
   "kind": "retranslate",
   "zh_doc": "l/lambert-auxerre.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "L-main-20261108",
       "at": "2026-11-08T05:42:21Z",
       "evidence": "post_done_fix（L-main-20261108 接手复核）：混排残留扫出第 43 段『限定 ordinarily 代表』，补译为『限定“猫”一词项，而“猫”本来通常代表所有（现存）的猫』；账本 step1/step2 同步；style/academic 复跑 0。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

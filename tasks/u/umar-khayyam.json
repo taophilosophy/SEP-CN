@@ -2,7 +2,7 @@
   "slug": "umar-khayyam",
   "kind": "retranslate",
   "zh_doc": "u/umar-khayyam.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "U-main-20261113",
       "at": "2026-11-13T19:02:57Z",
       "evidence": "umar-khayyam 三校完成收口：全量重译 43502 字符（约 1.5 万汉字），段落账本对齐，defs 85:85/marker 38:38/节 11:11/列表 48:48，四检绿，prose 实修 61 豁免 13 留痕，登记人名 31 行+术语 18 行，pathspec 独立提交"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

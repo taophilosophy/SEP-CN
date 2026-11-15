@@ -2,7 +2,7 @@
   "slug": "social-procedures",
   "kind": "retranslate",
   "zh_doc": "s/social-procedures.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-07T16:35:02Z",
       "evidence": "done：s/social-procedures.md 23676 字符 96 段（6 节 + 17 子节标题 + 6 引块 + 3 脚注 + 文献定义区 + OIR 2 子节 + 致谢）；八步凭证齐全；六门+全量门禁全绿；术语 41 行、人名 32 行入册；公式 173 个逐字符照录"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

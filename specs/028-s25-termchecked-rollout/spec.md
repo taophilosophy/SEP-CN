@@ -15,7 +15,7 @@
 
 ## 0-bis. 裁定追加：全量 done 回炉（ADR-0053，2026-11-15）
 
-用户裁定取消 §0 第四条的"非 A1 的 done 存量不回状态机（台账补课）"豁免线：**凡未经 s2.4/s2.5 环节的存量 done 一律 `revert-state` 回炉**，工序与 §5 回退件同构（`source-audit` 补 s0 → s2.4/s2.5 增项 → s3 → r 链全重走）。回炉面 413 件（回炉池 194＋当前 done 219，全部无 s24/s25 步记录）。先行批次：字头 a＋1 共 63 件（池内 27＋done 36），清单 `results/rollback-done-a1-list.json`、凭证 `results/rollback-done-a1-manifest.jsonl`、脚本 `bin/revert-done-batch.py`。specs/036"done 台账制补课"同步作废。
+用户裁定取消 §0 第四条的"非 A1 的 done 存量不回状态机（台账补课）"豁免线：**凡未经 s2.4/s2.5 环节的存量 done 一律 `revert-state` 回炉**，工序与 §5 回退件同构（`source-audit` 补 s0 → s2.4/s2.5 增项 → s3 → r 链全重走）。回炉面 413 件（回炉池 194＋当前 done 219，全部无 s24/s25 步记录）。**执行（2026-11-15）：done 已全量回退置空**——先行批字头 a＋1（36 件，`results/rollback-done-a1-*`）＋其余 183 件（`results/rollback-done-rest-*`），两批 manifest 对账 0 异常，回炉池齐平 413；脚本 `bin/revert-done-batch.py`。specs/036"done 台账制补课"同步作废。
 
 ## 1. 方向声明（rules/08 §1）
 

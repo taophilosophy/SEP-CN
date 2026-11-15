@@ -2,7 +2,7 @@
   "slug": "idiolects",
   "kind": "retranslate",
   "zh_doc": "i/idiolects.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "I-main-20261111",
       "at": "2026-11-11T08:28:25Z",
       "evidence": "终审签字：116 段全周期完成（cleared→draft→s1-s3→r1-r3）；图片资产与术语/人名登记同批入库；本批第 3 条 done"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

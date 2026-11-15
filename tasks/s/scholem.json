@@ -2,7 +2,7 @@
   "slug": "scholem",
   "kind": "retranslate",
   "zh_doc": "s/scholem.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "SZ-main-20261108b",
       "at": "2026-11-08T07:30:10Z",
       "evidence": "收口：九步无跳步（clear→draft→s1→s2→s3→r1→r2→r3→done），Critical 0；产出 s/scholem.md（270 行/23327 字符）、tasks/s/scholem.ledger.yaml（69 段双版）、人名登记册 scholem 48 行（45 行补籍属/生卒，18 人联网核实）；遗留非本部项：h/holkot H1、august-rehberg 词汇表滞后（他人批次）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

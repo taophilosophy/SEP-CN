@@ -131,3 +131,4 @@
   * 执行：先行批字头 a＋1（池内 27＋done 36＝63 件面）——清单驱动脚本 bin/revert-done-batch.py（快照＋manifest 落 results/），36 件 done 全部回退 s2.5_checked，0 失败；旧 r 凭证留史
   * 现状：状态分布 pending 621／cleared 162／s2.5_checked 230／done 183；回炉件工序＝source-audit 补 s0 → s2.4/s2.5 增项（specs/028 §4 六项＋面⑦，凭证随 s3 evidence）→ s3 → r1–r3 全重走；done 存量逐件回退后续按字头滚动
   * 顺带：revert-done-batch 基线 writer 漏 newline='\n' 触发 CRLF 警告，行尾 LF 化修正；check_all 11 项全绿，未推送提交清零
+  * 用户追认口径为"done 置空"：先行批外其余 183 件 done（b–z 字头）随即全量回退（rollback-done-rest-*），183/183 成功 0 失败；done 归零、回炉池齐平 413，PROGRESS 在途 575；specs/028 §0-bis 执行注记同步

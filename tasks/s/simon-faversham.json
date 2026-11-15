@@ -2,7 +2,7 @@
   "slug": "simon-faversham",
   "kind": "retranslate",
   "zh_doc": "s/simon-faversham.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "S-lead-20261109",
       "at": "2026-11-09T01:29:02Z",
       "evidence": "done：simon-faversham 全流程完成（6 校 10 步无跳步）。\n\n- 终稿：s/simon-faversham.md 26,704 字符；账本 tasks/s/simon-faversham.ledger.yaml 85 段（body 70 + oir 1 + ack 1 + note 13）双版存档；lq.py check HARD=0。\n- 证据链：clear（基线 hash gate）→ draft（SZ-main-20261108，2026-11-08）→ s1/s2/s3（SZ-main-20261108）→ r1（SZ-main-20261108，4 处实修，本会话 9960111e 入库）→ r2/r3（S-lead-20261109 独立复核：r2 5 处 Minor 实修，c9ad3eac+88772c7b；r3 无新问题）→ done。\n- 复核独立性：初译 actor = SZ-main-20261108；r2/r3 actor = S-lead-20261109（非初译者），ADR-0020 满足。\n- 登记：术语 28 行 / 人名 5 行（s3 已入册）；已知异形（吉莱斯/吉尔斯、拉杜尔夫/拉杜尔弗斯）移交 specs/011。\n- 门禁：定点 s_gate 本条全绿；全库 check_all 6/7 OK，唯一失败为并行在途 s/saadya.md H1（已通知责任人），非本条。\n- 结论：done。推审线（r3 已含 CI 归因说明）以推送后 CI 为最终裁判。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

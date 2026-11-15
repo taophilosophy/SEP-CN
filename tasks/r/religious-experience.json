@@ -2,7 +2,7 @@
   "slug": "religious-experience",
   "kind": "retranslate",
   "zh_doc": "r/religious-experience.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-04T21:59:53Z",
       "evidence": "done：六道全过，religious-experience 为 RZ 会话第 4 个收口件（r 批 done=4/85）"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "stebbing",
   "kind": "retranslate",
   "zh_doc": "s/stebbing.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "S-rev-20261109",
       "at": "2026-11-09T12:00:09Z",
       "evidence": "# stebbing − done evidence（S-rev-20261109）\n\n- 终稿：`s/stebbing.md` 23,6xx 字符 / 27k 字量级；账本 67 段（body 66 / oir 1）HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 登记：术语 26 行、人名 9 行（含 r1 补登 4 人）。\n- 评审：r1 实修 6 处（Major 3：书名不一致 3 处、人名补登 4 人），复检全绿。\n- 结构：h2 11:11、h3 2:2、defs 60:60、脚注 29:29、相关词条 7/8。\n- 遗留：`Carnap` 登记行体例异常，报 Lead；`logical positivism` 无 SUMMARY 专条，英文保留。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

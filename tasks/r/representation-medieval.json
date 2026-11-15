@@ -2,7 +2,7 @@
   "slug": "representation-medieval",
   "kind": "retranslate",
   "zh_doc": "r/representation-medieval.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "QR-main-20261108",
       "at": "2026-11-08T14:01:18Z",
       "evidence": "收口 done：接手 QR-main 在途件（前会话 draft 落盘后中断），独立会话完成 s1–r3 全程。成稿 14769 字符/41 段；账本 tasks/r/representation-medieval.ledger.yaml 双版齐、守恒 HARD=0；check_all 7 项全绿。已知留痕：①SUMMARY 主行英文标题为目录片段「in medieval philosophy」（catalog 上游缺陷，citation_title 全题为 Mental Representation in Medieval Philosophy），H1 与 SUMMARY 一致性优先，未单方改动共享目录；②intentionality: medieval theories of 基线无词条，相关词条保留中文名待管线挂链。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

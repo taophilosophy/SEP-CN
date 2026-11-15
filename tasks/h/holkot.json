@@ -2,7 +2,7 @@
   "slug": "holkot",
   "kind": "retranslate",
   "zh_doc": "h/holkot.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "H-main-20261108",
       "at": "2026-11-08T13:02:55Z",
       "evidence": "done：六道+终审齐备，四检全绿，提交以 pathspec 单条入库。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

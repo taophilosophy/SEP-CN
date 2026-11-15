@@ -2,7 +2,7 @@
   "slug": "epiphenomenalism",
   "kind": "retranslate",
   "zh_doc": "e/epiphenomenalism.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "E-main-20261112",
       "at": "2026-11-11T20:34:27Z",
       "evidence": "done：83 段账本（body 81 + oir 1 + note 1）守恒，compose 33144 字符/181 行零信任重译；prose 35→2 引文豁免；术语 11 行、人类 26 行入册；九项门禁全绿"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

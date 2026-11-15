@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -108,6 +108,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T15:34:04Z",
       "evidence": "done：737 行/51622 字符全量零信任重译（specs/015 语体裁定后重做，现代白话）；账本 302 段守恒；r1 冷读修复列表编号 8 组 25 行、r2 术语 27 行校准+22 行补登、r3 九项门禁全绿"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

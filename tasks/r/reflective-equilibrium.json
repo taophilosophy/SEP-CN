@@ -2,7 +2,7 @@
   "slug": "reflective-equilibrium",
   "kind": "retranslate",
   "zh_doc": "r/reflective-equilibrium.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "R-main-20261110",
       "at": "2026-11-11T02:12:34Z",
       "evidence": "G4 收口：双语条目 r/reflective-equilibrium.md 313 行 1.3 万汉字 9 节，账本 109 段守恒；四检全绿；术语 17 条、人名 11 行登记；r1-r3 复审齐备。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

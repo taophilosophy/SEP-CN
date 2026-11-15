@@ -2,7 +2,7 @@
   "slug": "film",
   "kind": "retranslate",
   "zh_doc": "f/film.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "EH-main-20261107",
       "at": "2026-11-07T07:59:48Z",
       "evidence": "f 批 film 全周期收口：compose 77 段 2.1 万字、prose 41→0 全实修、四检全绿、五项对账全过、九步凭证齐"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

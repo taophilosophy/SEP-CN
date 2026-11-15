@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "B-main-20261108",
       "at": "2026-11-08T09:32:51Z",
       "evidence": "九步状态机完成（clear→draft 收编→s1–s3→r1–r3→done）；b/buridan.md 19 746 汉字 7 节成稿，57 条内容注译出、105 条书目 defs 照录、6 引文块照源；B 批 done=13"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

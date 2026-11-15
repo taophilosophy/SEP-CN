@@ -2,7 +2,7 @@
   "slug": "ontology-is",
   "kind": "retranslate",
   "zh_doc": "o/ontology-is.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "O-main-20261111",
       "at": "2026-11-11T05:40:36Z",
       "evidence": "done 收口（O-main-20261111）：r1 实修 6、r2 新发现 0，Critical/Major 0；四检与 lint 全绿、守恒门 OK、H1=SUMMARY。批次备注见 specs/005-translation-campaign/o-wave-20261111.md §5。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

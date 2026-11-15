@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "direction",
@@ -73,6 +73,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T17:46:13Z",
       "evidence": "done：六道全过；o 批首件收口（o 批 done=1/21，全局 done 计数以 PROGRESS 生成物为准）。r 批 rationalism-early-modern 在途改动作废与 o/p/q/r 认领改挂见 commit 9e0059bc。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],

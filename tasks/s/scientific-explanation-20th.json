@@ -2,7 +2,7 @@
   "slug": "scientific-explanation-20th",
   "kind": "retranslate",
   "zh_doc": "s/scientific-explanation-20th.md",
-  "state": "done",
+  "state": "s2.5_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "S-rev-20261109",
       "at": "2026-11-09T23:37:08Z",
       "evidence": "r3（S-rev-20261109，复验）：`lq.py check` 硬错 0、守恒 177 段通过；`s_gate.py` 七项全绿（ledger-check/style/academic/prose/math/summary/terms）；check_terms --docs 硬错误 0（余 Helmholtz 一条为文献区误配告警、词汇表滞后 4 为全局口径）；术语 34 条已入 yi-zhe-shuo-ming.md、人名 6 条已入 ren-ming-biao.md（A–Z 排序守恒 3121 行）；人名体例与库一致（萨蒙（Wesley Salmon）、范·弗拉森、卡尔·亨佩尔、菲利普·基切尔）。判 done。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "pc6-m2.5-revert",
+      "at": "2026-11-15T09:07:29Z",
+      "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
     }
   ],
   "blockers": [],
