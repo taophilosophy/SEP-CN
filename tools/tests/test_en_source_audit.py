@@ -85,6 +85,29 @@ class TestEnSourceAudit(unittest.TestCase):
         out = _run(raw, catalog={"abelard", "audit-fixture"})
         self.assertEqual([h for h in out["hard"] if h["class"] == "entry_link_bad"], [])
 
+    def test_error_page_marker_only_in_head(self):
+        # 风控页标记只识别页头区（前 4000 字符）：zombies 先例——书目深处
+        # 论文题 'Access Denied to Zombies' 不构成抓取失败信号
+        filler = "<p>" + ("filler text. " * 600) + "</p>"
+        raw_small = "<html><body><h1>Access Denied</h1></body></html>"
+        out1 = _run(raw_small)
+        self.assertTrue(any(h["class"] == "error_page" for h in out1["hard"]))
+        raw_big = ("<html><head><title>ok</title></head><body>" + filler +
+                   "<p>Piccinini, G., 2017, 'Access Denied to Zombies,' X.</p>"
+                   "</body></html>")
+        out2 = _run(raw_big)
+        self.assertEqual([h for h in out2["hard"] if h["class"] == "error_page"], [])
+
+    def test_entry_link_catalog_case_insensitive(self):
+        # 源 href 大小写变体（zombies 先例：../Russellian-monism/ 对目录
+        # russellian-monism）不误报；真缺失仍拦（specs/036 裁定表）
+        raw = ("<html><body><p><a href=\"../Russellian-monism/\">x</a> "
+               "<a href=\"../no-such-entry-xyz/\">y</a></p></body></html>")
+        out = _run(raw, catalog={"russellian-monism", "audit-fixture"})
+        bad = [h for h in out["hard"] if h["class"] == "entry_link_bad"]
+        self.assertEqual(len(bad), 1)
+        self.assertIn("no-such-entry-xyz", bad[0]["msg"])
+
 
 if __name__ == "__main__":
     unittest.main()

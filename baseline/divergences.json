@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T04:57:15Z",
+  "updated_at": "2026-11-15T12:53:49Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1661,6 +1661,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目编者拼写、体例与期刊名（ADR-0038 ①）",
       "registered_at": "2026-11-15T04:57:15Z"
+    },
+    {
+      "slug": "zombies",
+      "path": "en/zombies/index.html",
+      "upstream_sha256": "b7bc58d6397fd971e6c9350931cdc6d36327005a1f5d91340e91aaef051e7ac8",
+      "local_sha256": "9b428e3c538095765fa0fd4a3f797d43138d25a0b043011747f61e6d4f3b70ec",
+      "bytes": {
+        "upstream": 79870,
+        "local": 79868
+      },
+      "commit": "383ac7e665cd8ec684c2b3ca6510acbf6d9a7f2a",
+      "subject": "en 勘误：zombies 正文 compare Latham 2000, 72f.）后孤立右括号剥除（段内括号 5 开 6 闭，编辑残迹，ADR-0038 ①类已核实）；en-errata 第五节登记；yuanwen 定点重转差量恰为一处、基线哈希随转重算",
+      "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
+      "reason": "ADR-0038 ①类已核实：正文句末孤立右括号（compare Latham 2000, 72f.)，段内括号 5 开 6 闭，编辑残迹）剥除；en-errata 第五节；yuanwen 定点重转 OTHER=0",
+      "registered_at": "2026-11-15T12:53:49Z"
     }
   ],
   "tombstones": [

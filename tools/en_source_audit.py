@@ -108,8 +108,12 @@ def _check_page(raw, out):
     low = raw.lower()
     if "</html>" not in low:
         out["hard"].append({"class": "truncation", "msg": "缺少 </html>，疑似截断"})
+    # 错误/风控页标记只在页头区（title＋导航，前 4000 字符）识别：
+    # 词条正文与书目深处出现同词串（zombies 先例：论文题 'Access Denied
+    # to Zombies'）不构成抓取失败信号（specs/036 裁定表）
+    head = low[:4000]
     for m in MARKERS:
-        if m in low:
+        if m in head:
             out["hard"].append({"class": "error_page", "msg": "命中错误页/风控页标记: %s" % m})
             break
 
@@ -156,6 +160,9 @@ def _check_links(raw, slug, ids, out, catalog):
     # SEP 官方注释停用链接（<!--<a href="..">-->…，188 件存量）不算活链：
     # 与 _text_nodes 同口径先剥注释，注释内锚点不作链接核对（specs/036 裁定表）
     raw = COMMENT_RE.sub(" ", raw)
+    # 目录比对大小写不敏感（zombies 先例：源 href ../Russellian-monism/，
+    # catalog 键 russellian-monism；slug 本体语义不因 href 大小写漂移）
+    catalog_lower = {c.lower() for c in catalog} if catalog else set()
     entry_counts = Counter()
     external = []
 
@@ -189,7 +196,8 @@ def _check_links(raw, slug, ids, out, catalog):
                     out["hard"].append({"class": "asset_missing",
                                         "msg": "包内链接目标缺失: %s" % href})
                 continue
-            if catalog is not None and slug2 != slug and slug2 not in catalog:
+            if catalog is not None and slug2 != slug \
+                    and slug2.lower() not in catalog_lower:
                 out["hard"].append({"class": "entry_link_bad",
                                     "msg": "站内词条链接不在目录: %s（catalog 可能过期，"
                                            "先 fetch_catalog）" % href})
