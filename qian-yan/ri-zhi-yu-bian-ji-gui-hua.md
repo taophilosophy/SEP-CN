@@ -109,3 +109,11 @@
   * 仿排路线定型：md 变换（脚注定义→书目、行内 [^key]→真脚注）→ pandoc -t typst → 模板填充 → typst 编译 → pymupdf 渲染目视迭代；坑：typst 0.15 改名 binding/gutter、query 入 context；文楷 Screen 族名 typst 只认英文 LXGW WenKai Screen（中文名静默回退 KaiTi，靠 get_fonts 核验抓出）；家族无粗斜体字面，中文强调/标题走主仓 Medium
   * 用户裁定（登记 spec.md Assumptions）：中文正文霞鹜文楷屏幕阅读版；删仿排声明框；段首缩进两字符（封面与书目悬挂缩进豁免）、段距 1.35em
   * 工具 specs/035/bin/entry_pdf.py <slug>：slug 自动解析 zh_doc、字体/标志自举（gh release download，本地缓存不入库）、退出码显式化；试金石 descartes-ontological 复跑验收（11 页、内嵌字体恰为 Screen+Medium+Times，无 KaiTi）；产物不入库（script/tmp/entry-pdf）
+* 2026.11.15 源审计前置 s0_source_checked（ADR-0052/specs/036，用户指令）
+  * 用户裁定：s2.5 源侧核查前置到零信任前置阶段；HTML 本体核查（typo/死链/图片/公式/表格/交叉引用/注释/段落）必须首先做；已译出与在途必须补做一遍
+  * 状态机：s0 置于 cleared 与 drafted（update 为 pending 与 s1）之间；advance s0 自动挂 en_integrity＋en_source_audit；进 s3 前历史须有 s0 记录；source-audit 补课子命令（在途/done，状态不迁移）；单测 21 条含新增 4 条
+  * 新工具 en_source_audit.py（stdlib 离线）：typo 启发式只产候选（DOI/混淆邮箱掩蔽、全大写缩写豁免）、页内锚点/包内资产/公式定界与花括号/表格配平为硬门、死链只登记不修；--net 外链活检带 URL 缓存＋≥5s 礼貌间隔（bauer 试金石：philpapers 403 反爬、inphoproject 404 真失效）；踩多检查器 stdout 重包 GC 坑已修（模块不重包 stdout）
+  * s2.5 收缩为两轴（译文轴＋全局），镜像轴移至 s0；specs/028 在途 194 件镜像轴随其作业面续做勿双跑
+  * 试金石 3 条硬错 0；真候选 1 处（logic-provability 书目 pp.61–70 缺空格，en-errata #12 同类漏网）待裁定表处置
+  * 存量盘点：补课集合 413 件（done 219＋在途 s2.5 194），批次待批启动；pending/cleared 783 件走管线自然入口
+  * 顺带：specs 号撞车让位——035-entry-pdf 已被并行会话提交占用，本线改 specs/036；bauer H1 全角扫改带红（f2a87210d）按 ADR-0024 恢复半角对齐 SUMMARY；check_all 11 项全绿、337 单测全绿
