@@ -103,3 +103,11 @@
 * 旧账本（如 `tasks/j/jayaraasi.ledger.yaml`）仍在库内，仅作违规记录；重译时覆盖前先确认新建。
 * 若并行会话正在写同一条目，先 `git status` 与 mtime 判落定再动。
 * 抽样工具：`bin/register_metrics.py`（指标与证据句，`--json` 落 `script/tmp/register_metrics.json`）、`bin/review_cards.py`（复核卡）。二者只定位、不判级。
+
+## 2026-11-15 续三：偿还流水（二）
+
+* 本轮偿还 20 条（en 同改者均登记 `baseline/divergences.json`）：hutcheson、basing-epistemic、ockham、kant-hume-morality、kant-reason、kant-social-political、knowledge-analysis、knowledge-value、aristotle-causality、binarium、timon-phlius、truth-coherence、condemnation、hume-aesthetics、analogy-medieval、bauer、bayle、bergson、olympiodorus、peirce-benjamin；另有 legrand／dai-zhen／knowledge-acquaindescrip 定点改写与 64 条经核无瑕疵登记。
+* **挂键工法**：`script/tmp/attach_keys.py <slug> [--apply]` —— 从照录区定义抽「姓-年份」映射，只按姓-年份匹配正文三式（`姓（年份`／`姓 年份`／`姓，年份`），已带键或 200 字内同键者跳过，姓-年份歧义（同年多条）一律不挂待人工。挂完用 `）[^key]`→`（…）` 外移规则把键移到括号组后。hume-aesthetics 一次补 34 处、knowledge-value 73 处。
+* **经核纠正 verdict 误报的典型**：condemnation／analogy-medieval 的「正文引用组全缺键」实为 en 正文根本无作者-年份组（只以姓氏行文或一手文献 CUP 引称）；o/ockham 的「SL／OTh 缩写未挂键」属全库转换边界（53% 定义未被引用），非单条缺陷；b/bauer 的「引用组几乎全缺键」大半已带键。
+* **剩余 28 条**（见 `verdicts.jsonl` 中无 `kind=repair` 记录者）：kant-science／kierkegaard／korean-buddhism／kumaarila（均在 s2.5 在途，宜待其落定）、behaviorism、scholem、nicole-oresme、environmental-aesthetics、bayes-theorem、imprecise-probabilities、newton、buridan、erotic-art、rationalism-early-modern、xenocrates、holkot、august-rehberg、representation-medieval、necessary-sufficient、simon-faversham、cordemoy、reinach、william-sherwood、gersonides、penbygull、logic-fuzzy、paradox-suspense、la-forge。
+* 教训：对全篇批量替换括号（bauer 的 `(...)`→`（...）`）会连带改到 H1 的英文作者括注，触发 `check_summary` H1 mismatch——批量替换须排除首行。
