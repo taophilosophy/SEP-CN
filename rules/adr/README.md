@@ -88,3 +88,4 @@
 | [0054](0054-终审须用户显式指定会话.md) | 终审须用户显式指定会话（R3 默认不进行：未指定时条目停 r2_reviewed、done 冻结；advance --step r3 必填 --mandate 用户指定记录；取代 ADR-0020 裁定②的 r3 默认自走面） | accepted |
 | [0055](0055-构建壳与内容仓分权.md) | 构建壳与内容仓分权（依赖只装 taophilosophy.github.io 壳根；本仓删 package.json/bun.lock；主题层与配置层解耦；prepare 脚本与 cwd 解耦；仿 FreeBSD-Ask 结构） | accepted |
 | [0057](0057-SUMMARY占位母行去链接.md) | SUMMARY 集群占位母行改为无链接分组行（GitBook 一文件一页：182 行同指 README.md 触发导入报错；SUMMARY 两侧镜像同步改写；check_summary 认分组行＋空分组硬错误；站点侧栏渲染逐字节不变） | accepted |
+| [0059](0059-提交即推自动推送.md) | 提交即推（解除「未经要求不 push」：每次 commit 成功后立即 push；推前 fetch／落后先 `sync_guard.py pull`，禁 force；积压线作废，收工核对 `git log origin/main..main` 为空；门禁红不阻断推送，可被用户临时叫停） | accepted |

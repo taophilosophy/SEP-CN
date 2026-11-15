@@ -34,7 +34,7 @@
 3. **跑门禁**：`python tools/check_all.py`（十项门禁加单元测试，共 11 项，应全绿）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
-收工：复跑相关检查器；相关文件提交（中文一行信息）；未推送提交清零（ADR-0028）；不留半成品。
+收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。
 
 ## 硬约束速览
 
@@ -45,11 +45,11 @@
 | 主代理单干 | 禁止调用子代理（`Agent`、`Task` 及 workflow 扇出）；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
 | 单一事实源 | 结构 `SUMMARY.md`、术语 `shu-yu-biao.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
-| 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；未经要求不 push、不 force；推送前先 pull --rebase；积压线途中不超过 1 条、收工清零 | `rules/06`、ADR-0026、ADR-0028 |
+| 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；**提交即推**（自动 push；推前 fetch，落后先 pull --rebase；禁 force）；收工核对 `git log origin/main..main` 为空 | `rules/06`、ADR-0026、ADR-0059 |
 | 抓取礼貌 | 相邻请求至少间隔 5 秒；4xx、5xx、超时退避重试并记录，禁止静默跳过 | `rules/05` |
 | 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
 | 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，转 update 任务（`changes:`），三校走变更段；en/ 就地勘误先入 en-errata.md（ADR-0038）再登记分歧账，未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md` |
-| 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标、导航链 README；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009 |
+| 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009、ADR-0057 |
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原；**把译法套进正文不属于批量改写** | `rules/05` |
