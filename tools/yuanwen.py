@@ -57,6 +57,27 @@ TAGLIKE_RE = re.compile(r'</?[a-zA-Z][a-zA-Z0-9]*(?:[\s/>]|$)')
 # 注释里的标签当真块（编辑性注释政策一贯为丢弃）
 COMMENT_RE = re.compile(r'<!--.*?-->', re.S)
 
+# ADR-0049 转换层并入（2026-11-15 用户指令「把转换并入 HTML 转 en .md 流程」）：
+# 行内孤立希腊字母片段在转换时即转文字（变量斜体），与 specs/032 批量批次同口径。
+# C 类嫌疑（孤立 Δ/μ/Ω/Σ/Λ 算子/专名须人工判读算符正体 vs 变量斜体）保持公式形态，
+# 由 check_math_zh C10 在审计时提示、specs/032 台账流程人工处置。
+GREEK_UNI = {
+    'alpha': 'α', 'beta': 'β', 'gamma': 'γ', 'delta': 'δ', 'epsilon': 'ε',
+    'varepsilon': 'ε', 'zeta': 'ζ', 'eta': 'η', 'theta': 'θ', 'iota': 'ι',
+    'kappa': 'κ', 'lambda': 'λ', 'mu': 'μ', 'nu': 'ν', 'xi': 'ξ', 'pi': 'π',
+    'rho': 'ρ', 'sigma': 'σ', 'tau': 'τ', 'phi': 'φ', 'varphi': 'φ', 'chi': 'χ',
+    'psi': 'ψ', 'omega': 'ω', 'varpi': 'ϖ', 'varrho': 'ϱ', 'varsigma': 'ς',
+    'vartheta': 'ϑ', 'Gamma': 'Γ', 'Delta': 'Δ', 'Theta': 'Θ', 'Lambda': 'Λ',
+    'Xi': 'Ξ', 'Pi': 'Π', 'Sigma': 'Σ', 'Upsilon': 'Υ', 'Phi': 'Φ', 'Psi': 'Ψ',
+    'Omega': 'Ω',
+}
+GREEK_C_DEFER = {'Delta', 'mu', 'Omega', 'Sigma', 'Lambda'}
+# SEP 原文裸排显示环境（MathJax processEnvironments 语义）：不包裹则 markdown
+# 把 \\ 行分隔吃成 \ 且未被 math-plugin 保护（specs/032 F1 实证 axiom-choice）。
+NAKED_ENV_RE = re.compile(
+    r'(?<!\$)\\begin\{(align\*?|aligned|gather\*?|gathered|multline\*?|equation\*?|'
+    r'eqnarray\*?|displaymath)\}[\s\S]*?\\end\{\1\}(?!\$)')
+
 
 def strip_closed_comments(region):
     return COMMENT_RE.sub('', region)
@@ -384,9 +405,16 @@ def inline_to_md(html, slug=None):
         v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
         if v.startswith('\\(') and v.endswith('\\)'):
             v = '$' + v[2:-2] + '$'
+            # ADR-0049 转换层并入：孤立希腊字母行内片段转文字（变量斜体）；
+            # C 类嫌疑与 B 类（派生形/复合式）保持公式
+            m = re.fullmatch(r'\\([A-Za-z]+)', v[1:-1])
+            if m and m.group(1) in GREEK_UNI and m.group(1) not in GREEK_C_DEFER:
+                v = '*' + GREEK_UNI[m.group(1)] + '*'
         elif v.startswith('\\[') and v.endswith('\\]'):
             v = '$$' + v[2:-2] + '$$'
         s = s.replace('\x00%d\x00' % idx, v)
+    # ADR-0049 转换层并入：裸排显示环境补 $$ 包裹（防 markdown 吃 \\ 行分隔）
+    s = NAKED_ENV_RE.sub(lambda m: '$$' + m.group(0) + '$$', s)
     for idx, val in enumerate(tstore):
         # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
         s = s.replace('\x00T%d\x00' % idx, val)
