@@ -28,10 +28,10 @@ jobs:
       - name: 取构建壳的依赖清单（ADR-0055：依赖只在壳仓声明）
         run: |
           git clone --depth 1 https://github.com/taophilosophy/taophilosophy.github.io "$RUNNER_TEMP/site"
-          cp "$RUNNER_TEMP/site/package.json" "$RUNNER_TEMP/site/bun.lock" .
+          cp "$RUNNER_TEMP/site/package.json" .
 
-      - name: 安装依赖
-        run: bun install --frozen-lockfile
+      - name: 安装依赖（锁文件不入库、不用缓存：每次现装）
+        run: bun install
 
       - name: 构建站点（与壳同款前置步骤 + VitePress）
         run: |

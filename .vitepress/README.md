@@ -8,7 +8,7 @@
 
 | 归属 | 位置 | 内容 |
 | ---- | ---- | ---- |
-| 构建壳 | `taophilosophy.github.io` 根 | `package.json`（唯一依赖声明）、`bun.lock`、`node_modules/`、GitHub Pages 工作流 |
+| 构建壳 | `taophilosophy.github.io` 根 | `package.json`（唯一依赖声明；锁文件不入库、`.gitignore` 排除）、`node_modules/`（本地现装，不用缓存）、GitHub Pages 工作流 |
 | 本仓 · 配置层 | `.vitepress/config.mts`、`math-plugin.mjs`、`config.build-check.mts` | 站点元数据、`srcExclude`、SUMMARY 解析、双语配对、侧栏、markdown 规则、`transformPageData` |
 | 本仓 · 主题层 | `.vitepress/theme/` | 唯一引入字体、样式与终端组件的目录；只依赖 `vitepress`、`littlefoot` 与字体包 |
 | 本仓 · 构建前置 | `.vitepress/prepare-*.mjs` | 生成 `public/mathjax/` 与 `.vitepress/git-stamps.json`，由壳脚本按序调用 |
@@ -46,7 +46,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 ## 页面范围（srcExclude）
 
-`en/`、`specs/`、`.specify/`、`tools/`、`tasks/`、`baseline/`、`script/`、`state/`、`rules/`、`.github/`、`.zcode/`、`.qoder/`、`AGENTS.md`、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`、`yuanwen/SUMMARY.md` 不参与构建。**新增治理/管线目录时必须同步补 `srcExclude`**，否则其中的 md 会成为站点页面并被全文搜索索引（ADR-0015）。
+`en/`、`specs/`、`.specify/`、`tools/`、`tasks/`、`baseline/`、`script/`、`state/`、`rules/`、`.github/`、`.zcode/`、`.qoder/`、`AGENTS.md`、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`、`yuanwen/SUMMARY.md`、`yuanwen/SUMMARY-en.md` 不参与构建。**新增治理/管线目录时必须同步补 `srcExclude`**，否则其中的 md 会成为站点页面并被全文搜索索引（ADR-0015）。
 
 ## Markdown 处理
 
