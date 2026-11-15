@@ -272,9 +272,9 @@ Belot (2018) 反对对莱布尼茨等价作出单向的裁定。他一方面允�
 
     $$ \Delta U = -4\pi \varrho $$
 
-    其中 $\varrho$ 是物质密度。若 $U(r)$ 满足此方程，则 $U(r)+K(t)$ 也满足它，因为 $\Delta K(t) = 0$，故 $\Delta(U(r)+K(t)) = \Delta U(r)$。
+    其中 *ϱ* 是物质密度。若 $U(r)$ 满足此方程，则 $U(r)+K(t)$ 也满足它，因为 $\Delta K(t) = 0$，故 $\Delta(U(r)+K(t)) = \Delta U(r)$。
 
-[^note-8]: 可观察的电磁场强 $\mathbf{E}$ 与 $\mathbf{B}$ 通过下述关系与标势 $\phi$ 及矢势 $\mathbf{A}$ 相联系：
+[^note-8]: 可观察的电磁场强 $\mathbf{E}$ 与 $\mathbf{B}$ 通过下述关系与标势 *φ* 及矢势 $\mathbf{A}$ 相联系：
 [^bain-1998]: Bain, Jonathan, 1998, *Representations of Spacetime: Formalism and Ontological Commitment*, Ph.D. Dissertation, Department of History and Philosophy of Science, University of Pittsburgh.
 [^bain-2003]: –––, 2003, “Einstein Algebras and the Hole Argument,” *Philosophy of Science*, 70: 1073–1085.
 [^belot-1995a]: Belot, Gordon, 1995a, “Indeterminism and Ontology,” *International Studies in the Philosophy of Science*, 9: 85–101.
@@ -368,7 +368,7 @@ Belot (2018) 反对对莱布尼茨等价作出单向的裁定。他一方面允�
 
     $$\begin{align} \mathbf{A}' &= \mathbf{A} - \boldsymbol{\nabla} \lambda \\ \phi' &= \phi + \partial \lambda /\partial t \end{align}$$
 
-    该规范变换由标量场 $\lambda$ 生成，$\lambda$ 可以是空间与时间的任意函数。为制造洞型变换，我们选取一个除某个足够小的时空区域外处处为零、而在该区域内平滑地偏离零的 $\lambda$。所得的两组势 $(\phi , \mathbf{A})$ 与 $(\phi ', \mathbf{A}')$ 在洞外处处一致，但在洞内平滑地产生差别。
+    该规范变换由标量场 *λ* 生成，*λ* 可以是空间与时间的任意函数。为制造洞型变换，我们选取一个除某个足够小的时空区域外处处为零、而在该区域内平滑地偏离零的 *λ*。所得的两组势 $(\phi , \mathbf{A})$ 与 $(\phi ', \mathbf{A}')$ 在洞外处处一致，但在洞内平滑地产生差别。
 
     与前文一样，任何想把这两组势之间的差别说成某种物理实在之物的企图，都面临同样的问题。这些差别不表达在任何可观察的东西中。一切可观测量都由场强 $\mathbf{E}$ 与 $\mathbf{B}$ 导出，而两组势在 $\mathbf{E}$ 与 $\mathbf{B}$ 上一致。进一步，麦克斯韦方程组也无法在两组势之间做出选择：因为麦克斯韦方程组完全由这同一组 $\mathbf{E}$ 与 $\mathbf{B}$ 场表达。
 

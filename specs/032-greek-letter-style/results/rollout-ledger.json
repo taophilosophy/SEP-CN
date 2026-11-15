@@ -1,0 +1,3133 @@
+{
+ "schema": "sep-cn-greek-rollout-ledger/1",
+ "date": "2026-11-15",
+ "basis": "ADR-0049 accepted 铺开批次",
+ "rows": [
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 182,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 270,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 270,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 270,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 272,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 272,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 274,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 274,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 280,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 280,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 324,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "a\\abstract-objects.md",
+   "line": 328,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "a\\actualism-possibilism-ethics.md",
+   "line": 65,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\actualism-possibilism-ethics.md",
+   "line": 65,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "a\\actualism-possibilism-ethics.md",
+   "line": 442,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 19,
+   "old": "$\\nu$",
+   "new": "*ν*",
+   "cmd": "nu"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 35,
+   "old": "$\\theta$",
+   "new": "*θ*",
+   "cmd": "theta"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 37,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 41,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 41,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 43,
+   "old": "$\\nu$",
+   "new": "*ν*",
+   "cmd": "nu"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 45,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 45,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 45,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 51,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 51,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 59,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 59,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 65,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 65,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 65,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 69,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 225,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 225,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 251,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 251,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 251,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\bohr-correspondence.md",
+   "line": 295,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 29,
+   "old": "$\\kappa$",
+   "new": "*κ*",
+   "cmd": "kappa"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 29,
+   "old": "$\\kappa$",
+   "new": "*κ*",
+   "cmd": "kappa"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 48,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 48,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 52,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 62,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 62,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 62,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 62,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "b\\boolalg-math.md",
+   "line": 77,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 15,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 23,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 23,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 23,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 23,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 40,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 40,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 48,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 112,
+   "old": "$\\zeta$",
+   "new": "*ζ*",
+   "cmd": "zeta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 112,
+   "old": "$\\zeta$",
+   "new": "*ζ*",
+   "cmd": "zeta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 113,
+   "old": "$\\eta$",
+   "new": "*η*",
+   "cmd": "eta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 114,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 133,
+   "old": "$\\eta$",
+   "new": "*η*",
+   "cmd": "eta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 133,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 141,
+   "old": "$\\eta$",
+   "new": "*η*",
+   "cmd": "eta"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 143,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 203,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 211,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 211,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 221,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "c\\computability.md",
+   "line": 221,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "d\\deductivism-mathematics.md",
+   "line": 34,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "d\\deductivism-mathematics.md",
+   "line": 34,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "d\\deductivism-mathematics.md",
+   "line": 174,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\deductivism-mathematics.md",
+   "line": 174,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\diodorus-cronus.md",
+   "line": 64,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\diodorus-cronus.md",
+   "line": 64,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\diodorus-cronus.md",
+   "line": 64,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\diodorus-cronus.md",
+   "line": 64,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 34,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 35,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 35,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 36,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 36,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 60,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 62,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 62,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 102,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 114,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 118,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 122,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 122,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 132,
+   "old": "$\\gamma$",
+   "new": "*γ*",
+   "cmd": "gamma"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 133,
+   "old": "$\\gamma$",
+   "new": "*γ*",
+   "cmd": "gamma"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 143,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 143,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 143,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 143,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 149,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 149,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 149,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 163,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 165,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 165,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 165,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 165,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 165,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 261,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 261,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 261,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 261,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 261,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 263,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 305,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 305,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "d\\dynamic-semantics.md",
+   "line": 374,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 50,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 50,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 52,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 52,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 182,
+   "old": "$\\iota$",
+   "new": "*ι*",
+   "cmd": "iota"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 194,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 196,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 196,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 244,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 244,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 252,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 258,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 292,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 294,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 336,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 340,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "e\\epsilon-calculus.md",
+   "line": 374,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "f\\fitness.md",
+   "line": 75,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 33,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 33,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 33,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 33,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 37,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 83,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 93,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 109,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "h\\hilbert-program.md",
+   "line": 111,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 54,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 54,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 54,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 60,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 60,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 320,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 320,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 322,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\imprecise-probabilities.md",
+   "line": 323,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\Theta$",
+   "new": "*Θ*",
+   "cmd": "Theta"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\Theta$",
+   "new": "*Θ*",
+   "cmd": "Theta"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\Theta$",
+   "new": "*Θ*",
+   "cmd": "Theta"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 78,
+   "old": "$\\iota$",
+   "new": "*ι*",
+   "cmd": "iota"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 82,
+   "old": "$\\iota$",
+   "new": "*ι*",
+   "cmd": "iota"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 82,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 82,
+   "old": "$\\Theta$",
+   "new": "*Θ*",
+   "cmd": "Theta"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 145,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 145,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 145,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 145,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 147,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 147,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 147,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 147,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 155,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 155,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 155,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 155,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 157,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\information-semantic.md",
+   "line": 173,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 143,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 143,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 143,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 143,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 149,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 149,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 149,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 149,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 169,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 177,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 177,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 177,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 177,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 274,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 280,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 340,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 340,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 348,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 348,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "i\\intrinsic-extrinsic.md",
+   "line": 352,
+   "old": "$\\Pi$",
+   "new": "*Π*",
+   "cmd": "Pi"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 53,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 100,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 156,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 158,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 160,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 160,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 160,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 160,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 172,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 176,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 198,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 210,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 218,
+   "old": "$\\varepsilon$",
+   "new": "*ε*",
+   "cmd": "varepsilon"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 236,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "i\\intuitionism.md",
+   "line": 286,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 29,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 29,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 29,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 35,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 67,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 67,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 72,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 73,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 74,
+   "old": "$\\chi$",
+   "new": "*χ*",
+   "cmd": "chi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 75,
+   "old": "$\\chi$",
+   "new": "*χ*",
+   "cmd": "chi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 76,
+   "old": "$\\chi$",
+   "new": "*χ*",
+   "cmd": "chi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 78,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 117,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 121,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 121,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 122,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 122,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 123,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 123,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-fuzzy.md",
+   "line": 151,
+   "old": "$\\epsilon$",
+   "new": "*ε*",
+   "cmd": "epsilon"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 11,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 80,
+   "old": "$\\Psi$",
+   "new": "*Ψ*",
+   "cmd": "Psi"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 94,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 135,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 137,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 153,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 157,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 196,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 198,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 202,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 208,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 208,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-linear.md",
+   "line": 222,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 39,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 39,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 43,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 55,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 55,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 95,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 95,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 135,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 135,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 167,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 257,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 257,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 257,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 283,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 283,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 291,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 402,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 402,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 402,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 402,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 403,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 403,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 407,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 407,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 409,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 409,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 413,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 421,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 421,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 429,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 441,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 477,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 477,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 481,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 481,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 481,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 531,
+   "old": "$\\eta$",
+   "new": "*η*",
+   "cmd": "eta"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 537,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 537,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 537,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 537,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 545,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 551,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 572,
+   "old": "$\\Gamma$",
+   "new": "*Γ*",
+   "cmd": "Gamma"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 617,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 621,
+   "old": "$\\varphi$",
+   "new": "*φ*",
+   "cmd": "varphi"
+  },
+  {
+   "file": "l\\logic-preference.md",
+   "line": 621,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "l\\logic-relevance.md",
+   "line": 97,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l\\logic-relevance.md",
+   "line": 97,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l\\logic-relevance.md",
+   "line": 97,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "l\\logic-substructural.md",
+   "line": 160,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-substructural.md",
+   "line": 210,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "l\\logic-substructural.md",
+   "line": 240,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 23,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 43,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 47,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 49,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 51,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 51,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 55,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 55,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 55,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 57,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 61,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm-relational.md",
+   "line": 65,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\qm.md",
+   "line": 37,
+   "old": "$\\theta$",
+   "new": "*θ*",
+   "cmd": "theta"
+  },
+  {
+   "file": "q\\quantum-bayesian.md",
+   "line": 33,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\quantum-bayesian.md",
+   "line": 271,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\quantum-bayesian.md",
+   "line": 271,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\quantum-bayesian.md",
+   "line": 283,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\quantum-bayesian.md",
+   "line": 314,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 48,
+   "old": "$\\omega$",
+   "new": "*ω*",
+   "cmd": "omega"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 54,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 54,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 68,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 88,
+   "old": "$\\pi$",
+   "new": "*π*",
+   "cmd": "pi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 90,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 90,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 92,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 98,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 98,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 104,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 104,
+   "old": "$\\kappa$",
+   "new": "*κ*",
+   "cmd": "kappa"
+  },
+  {
+   "file": "q\\quine-nf.md",
+   "line": 108,
+   "old": "$\\varrho$",
+   "new": "*ϱ*",
+   "cmd": "varrho"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 39,
+   "old": "$\\tau$",
+   "new": "*τ*",
+   "cmd": "tau"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 49,
+   "old": "$\\alpha$",
+   "new": "*α*",
+   "cmd": "alpha"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 49,
+   "old": "$\\beta$",
+   "new": "*β*",
+   "cmd": "beta"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 59,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 150,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 180,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 180,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 184,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 184,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 192,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 248,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 248,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 250,
+   "old": "$\\sigma$",
+   "new": "*σ*",
+   "cmd": "sigma"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 250,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "r\\ramsey-economics.md",
+   "line": 270,
+   "old": "$\\delta$",
+   "new": "*δ*",
+   "cmd": "delta"
+  },
+  {
+   "file": "s\\schema.md",
+   "line": 73,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "s\\schema.md",
+   "line": 79,
+   "old": "$\\Phi$",
+   "new": "*Φ*",
+   "cmd": "Phi"
+  },
+  {
+   "file": "s\\spacetime-holearg.md",
+   "line": 275,
+   "old": "$\\varrho$",
+   "new": "*ϱ*",
+   "cmd": "varrho"
+  },
+  {
+   "file": "s\\spacetime-holearg.md",
+   "line": 277,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "s\\spacetime-holearg.md",
+   "line": 371,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "s\\spacetime-holearg.md",
+   "line": 371,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "s\\spacetime-holearg.md",
+   "line": 371,
+   "old": "$\\lambda$",
+   "new": "*λ*",
+   "cmd": "lambda"
+  },
+  {
+   "file": "t\\tarski-truth.md",
+   "line": 27,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "t\\tarski-truth.md",
+   "line": 31,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "t\\tarski-truth.md",
+   "line": 34,
+   "old": "$\\psi$",
+   "new": "*ψ*",
+   "cmd": "psi"
+  },
+  {
+   "file": "t\\tarski-truth.md",
+   "line": 34,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  },
+  {
+   "file": "t\\tarski-truth.md",
+   "line": 34,
+   "old": "$\\phi$",
+   "new": "*φ*",
+   "cmd": "phi"
+  }
+ ],
+ "c_deferred": {
+  "c\\computability.md": [
+   {
+    "line": 38,
+    "span": "$\\Sigma$",
+    "cmd": "Sigma"
+   },
+   {
+    "line": 38,
+    "span": "$\\Sigma$",
+    "cmd": "Sigma"
+   },
+   {
+    "line": 164,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   },
+   {
+    "line": 174,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   }
+  ],
+  "d\\dynamic-semantics.md": [
+   {
+    "line": 122,
+    "span": "$\\Sigma$",
+    "cmd": "Sigma"
+   },
+   {
+    "line": 122,
+    "span": "$\\Sigma$",
+    "cmd": "Sigma"
+   }
+  ],
+  "f\\fitness.md": [
+   {
+    "line": 75,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   }
+  ],
+  "i\\imprecise-probabilities.md": [
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 35,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 54,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 54,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 347,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   },
+   {
+    "line": 347,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   }
+  ],
+  "l\\logic-linear.md": [
+   {
+    "line": 80,
+    "span": "$\\Delta$",
+    "cmd": "Delta"
+   },
+   {
+    "line": 208,
+    "span": "$\\Delta$",
+    "cmd": "Delta"
+   },
+   {
+    "line": 214,
+    "span": "$\\Delta$",
+    "cmd": "Delta"
+   }
+  ],
+  "l\\logic-preference.md": [
+   {
+    "line": 531,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 531,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   },
+   {
+    "line": 531,
+    "span": "$\\Omega$",
+    "cmd": "Omega"
+   }
+  ],
+  "r\\ramsey-economics.md": [
+   {
+    "line": 164,
+    "span": "$\\Delta$",
+    "cmd": "Delta"
+   },
+   {
+    "line": 244,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   },
+   {
+    "line": 252,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   },
+   {
+    "line": 270,
+    "span": "$\\mu$",
+    "cmd": "mu"
+   }
+  ]
+ }
+}

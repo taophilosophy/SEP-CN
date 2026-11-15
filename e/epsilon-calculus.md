@@ -47,9 +47,9 @@ epsilon 演算是大卫·希尔伯特为其数学基础纲领而发展的一种�
 
 第一与第二 epsilon 定理如下：
 
-**第一 epsilon 定理。** 设 $\Gamma \cup \{A\}$ 是一组不涉及 epsilon 符号的无量词公式。若 $A$ 可在 epsilon 演算中从 $\Gamma$ 导出，则 $A$ 可在无量词谓词逻辑中从 $\Gamma$ 导出。
+**第一 epsilon 定理。** 设 $\Gamma \cup \{A\}$ 是一组不涉及 epsilon 符号的无量词公式。若 $A$ 可在 epsilon 演算中从 *Γ* 导出，则 $A$ 可在无量词谓词逻辑中从 *Γ* 导出。
 
-**第二 epsilon 定理。** 设 $\Gamma \cup \{A\}$ 是一组不涉及 epsilon 符号的公式。若 $A$ 可在 epsilon 演算中从 $\Gamma$ 导出，则 $A$ 可在谓词逻辑中从 $\Gamma$ 导出。
+**第二 epsilon 定理。** 设 $\Gamma \cup \{A\}$ 是一组不涉及 epsilon 符号的公式。若 $A$ 可在 epsilon 演算中从 *Γ* 导出，则 $A$ 可在谓词逻辑中从 *Γ* 导出。
 
 在第一 epsilon 定理中，“无量词谓词逻辑”意指包含上述代入规则，因此无量词公理的行为如同其全称封闭。由于 epsilon 演算包含一阶逻辑，第一 epsilon 定理蕴含：从无量词公理导出无量词定理时，任何经过一阶谓词逻辑的迂回最终都可避免。第二 epsilon 定理表明：从谓词演算语言的公理导出该语言中的定理时，任何经过 epsilon 演算的迂回也可避免。
 
@@ -179,7 +179,7 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 $$ \begin{align*} & &\forall x ((\mathrm{Farmer}(x) \wedge \exists y (\mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y)) \rightarrow\\ & & (\mathrm{Beats}(x, \mathrm{whe}\, y (\mathrm{Donkey}(y) \wedge \mathrm{Owns}(x, y))) \end{align*} $$
 
-正如 von Heusinger（1994）指出的，这暗示 Neale 承诺了代词在确定摹状词（$\iota$-表达式）与 whe-表达式之间是歧义的。Heusinger 建议改用由选择函数（取决于语境）索引的 epsilon 算子。按照这一进路，（1）的分析为
+正如 von Heusinger（1994）指出的，这暗示 Neale 承诺了代词在确定摹状词（*ι*-表达式）与 whe-表达式之间是歧义的。Heusinger 建议改用由选择函数（取决于语境）索引的 epsilon 算子。按照这一进路，（1）的分析为
 
 > 对每个选择函数 $i$：$$\begin{align*} & &\forall x ((\mathrm{Farmer}(x) \wedge \mathrm{Owns}(x, \varepsilon_i y \mathrm{Donkey} (y)) \rightarrow \\ & &\mathrm{Beats} (x, \varepsilon_{a^*}y \mathrm{Donkey} (y)) \end{align*} $$
 
@@ -191,9 +191,9 @@ $$ \begin{align*} & &\forall x ((\mathrm{Farmer}(x) \wedge \exists y (\mathrm{Do
 
 关于 epsilon 算子在语言学与语言哲学中的议题与应用的讨论，见 B. H. Slater 的 epsilon 演算文章（在下文其他网络资源节中引用），以及文集 von Heusinger 与 Egli 2000 和 von Heusinger 与 Kempson 2004。
 
-epsilon 演算的另一应用是作为关于任意对象的推理的一般逻辑。Meyer Viol 1995a 提供了 epsilon 演算与 Fine 1985 任意对象理论的比较。事实上，这一联系不难看到。给定等价 $\forall x A(x) \equiv$ A$(\varepsilon x (\neg A))$，项 $\varepsilon x (\neg A)$ 是一个任意对象，其意义在于它是一个使 $A$ 为真当且仅当 $A$ 一般地为真的对象。$\varepsilon$-项与 Fine 任意对象理论之间的联系被 Bonatti 2022（数学中的抽象）和 Sandu 2020（不定词）用于哲学目的。
+epsilon 演算的另一应用是作为关于任意对象的推理的一般逻辑。Meyer Viol 1995a 提供了 epsilon 演算与 Fine 1985 任意对象理论的比较。事实上，这一联系不难看到。给定等价 $\forall x A(x) \equiv$ A$(\varepsilon x (\neg A))$，项 $\varepsilon x (\neg A)$ 是一个任意对象，其意义在于它是一个使 $A$ 为真当且仅当 $A$ 一般地为真的对象。*ε*-项与 Fine 任意对象理论之间的联系被 Bonatti 2022（数学中的抽象）和 Sandu 2020（不定词）用于哲学目的。
 
-在其 1961 年的著作中，卡尔纳普建议使用 $\varepsilon$-算子来重构科学理论的理论部分（一个类似于拉姆齐化的提议；参见科学中的理论词条及[卡尔纳普词条的补充 E](https://plato.stanford.edu/entries/carnap/reconstruct-sci-theories.html#TheoTermSentLogiStruTheo)）。这一提议由 Schiemer 与 Gratzl 2016 讨论。Leitgeb 2023 在不确定性语义学的语境中考虑了拉姆齐语句的 $\varepsilon$-版本。
+在其 1961 年的著作中，卡尔纳普建议使用 *ε*-算子来重构科学理论的理论部分（一个类似于拉姆齐化的提议；参见科学中的理论词条及[卡尔纳普词条的补充 E](https://plato.stanford.edu/entries/carnap/reconstruct-sci-theories.html#TheoTermSentLogiStruTheo)）。这一提议由 Schiemer 与 Gratzl 2016 讨论。Leitgeb 2023 在不确定性语义学的语境中考虑了拉姆齐语句的 *ε*-版本。
 
 Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论与模型论研究，特别是直觉主义 epsilon 演算。在这种演算中，epsilon 定理不再成立，即 epsilon 项的引入产生直觉主义逻辑的非保守扩充。对直觉主义逻辑中 epsilon 算子的其他研究可见 Shirai 1971, Bell 1993a, 1993b, DeVidi 1995 以及 Baaz 与 Zach 2022。多值逻辑中的 epsilon 算子见 Mostowski 1963；模态 epsilon 演算见 Fitting 1975。
 
@@ -241,7 +241,7 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 [^davis-1991]: Davis, M., and R. Fechter, 1991, ‘A free variable version of the first-order predicate calculus’, *Journal of Logic and Computation*, 1: 431–451.
 
-[^devidi-1995]: DeVidi, D., 1995, ‘Intuitionistic $\varepsilon$- and $\tau$-calculi’, *Mathematical Logic Quarterly*, 41: 523–546.
+[^devidi-1995]: DeVidi, D., 1995, ‘Intuitionistic *ε*- and *τ*-calculi’, *Mathematical Logic Quarterly*, 41: 523–546.
 
 [^egli-1995]: Egli, U., and K. von Heusinger, 1995, ‘The epsilon operator and E-type pronouns’, in U. Egli *et al*. (eds.), *Lexical Knowledge in the Organization of Language*, Amsterdam: Benjamins, 121–141 (Current Issues in Linguistic Theory 114).
 
@@ -249,13 +249,13 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 [^ewald-1996]: Ewald, W. B. (ed.), 1996, *From Kant to Hilbert. A Source Book in the Foundations of Mathematics*, Vol. 2, Oxford: Oxford University Press.
 
-[^ferrari-1987]: Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second $\varepsilon$-theorem’, *Journal of Symbolic Logic*, 52: 214–215.
+[^ferrari-1987]: Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second *ε*-theorem’, *Journal of Symbolic Logic*, 52: 214–215.
 
 [^fine-1985]: Fine, K., 1985, *Reasoning with Arbitrary Objects*, Oxford: Blackwell.
 
 [^fitting-1975]: Fitting, M., 1975, ‘A modal logic epsilon-calculus’, *Notre Dame Journal of Formal Logic*, 16: 1–16.
 
-[^flannagan-1975]: Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second $\varepsilon$-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
+[^flannagan-1975]: Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second *ε*-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
 
 [^genco-2021]: Genco, F. A., F. Poggiolesi, and L. Rossi, 2021, ‘Grounding, quantifiers, and paradoxes’, *Journal of Philosophical Logic*, 50(6): 1417–1448.
 
@@ -289,9 +289,9 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 [^luckhardt-1989]: Luckhardt, H., 1989, ‘Herbrand-Analysen zweier Beweise des Satzes von Roth: Polynomiale Anzahlschranken’, *Journal of Symbolic Logic*, 54: 234–263.
 
-[^maehara-1955]: Maehara, S., 1955, ‘The predicate calculus with $\varepsilon$-symbol’, *Journal of the Mathematical Society of Japan*, 7: 323–344.
+[^maehara-1955]: Maehara, S., 1955, ‘The predicate calculus with *ε*-symbol’, *Journal of the Mathematical Society of Japan*, 7: 323–344.
 
-[^maehara-1957]: –––, 1957, ‘Equality axiom on Hilbert’s $\varepsilon$-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
+[^maehara-1957]: –––, 1957, ‘Equality axiom on Hilbert’s *ε*-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
 
 [^mancosu-1998]: Mancosu, P. (ed.), 1998, *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
 
@@ -333,11 +333,11 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 [^schiemer-2016]: Schiemer, G., and N. Gratzl, 2016, ‘The epsilon-reconstruction of theories and scientific structuralism’, *Erkenntnis*, 81(2): 407–432.
 
-[^shirai-1971]: Shirai, K., 1971, ‘Intuitionistic predicate calculus with $\varepsilon$-symbol’, *Annals of the Japan Association for Philosophy of Science*, 4: 49–67.
+[^shirai-1971]: Shirai, K., 1971, ‘Intuitionistic predicate calculus with *ε*-symbol’, *Annals of the Japan Association for Philosophy of Science*, 4: 49–67.
 
 [^sieg-1991]: Sieg, W., 1991, ‘Herbrand analyses’, *Archive for Mathematical Logic*, 30: 409–441.
 
-[^slater-1986]: Slater, B. H., 1986, ‘E-type pronouns and $\varepsilon$-terms’, *Canadian Journal of Philosophy*, 16: 27–38.
+[^slater-1986]: Slater, B. H., 1986, ‘E-type pronouns and *ε*-terms’, *Canadian Journal of Philosophy*, 16: 27–38.
 
 [^slater-1988]: –––, 1988, ‘Hilbertian reference’, *Noûs*, 22: 283–97.
 
@@ -371,7 +371,7 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 [^winter-1997]: Winter, Y., 1997, ‘Choice functions and the scopal semantics of indefinites’. *Linguistics and Philosophy*, 20: 399–467.
 
-[^yasuhara-1982]: Yasuhara, M., 1982, ‘Cut elimination in $\varepsilon$-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
+[^yasuhara-1982]: Yasuhara, M., 1982, ‘Cut elimination in *ε*-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
 
 [^zach-2003]: Zach, R., 2003, ‘The practice of finitism. Epsilon calculus and consistency proofs in Hilbert’s Program’, *Synthese*, 137: 211–259.
 
