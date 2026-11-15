@@ -285,3 +285,12 @@
 | kant-social-political | fleischacker-1999 条末缺句点 | 补句点 | 缺标点（①） |
 | kant-social-political | korsgaard-1997／wilson-1998 `, In …` | `, in …` | 句首 In 大写（①） |
 | kant-social-political | doyle-1983 `205–235 and 323–353` | `205–235, 323–353` | 页码间英文 and（①） |
+| knowledge-analysis | antognazza-2020 `120(3): 2020:277–308` | `120(3): 277–308` | 年份重复（①） |
+| knowledge-analysis | hirvelä-2025 `59(2) :335–348` | `59(2): 335–348` | 冒号前空格（①） |
+| knowledge-analysis | hirvelä-2025 `doi:10.111/nous.12516` | `10.1111/nous.12516` | doi 缺一位（①） |
+| knowledge-analysis | cohen-1988 `1988 “How…` | `1988, “How…` | 年份后缺逗号（①） |
+| knowledge-analysis | ichikawa 2017 条引号未闭合 `‘First’, in` | `‘First’”, in` | 引号未闭合（①） |
+| knowledge-analysis | Jenkins 条 `2017,` | `2017-a,` | 正文引 2017-a 而条目无 a（②） |
+| knowledge-analysis | gibbons-2013／ichikawa-2024 缺出版地 | 补 `Oxford:` | 缺出版地（①） |
+| knowledge-analysis | pappas-2023 缺年份 | 补 `2023,` | 缺年份（①） |
+| knowledge-analysis | worsnip-2017 `pp. 177-189` | `pp. 177&ndash;189` | 连字符应为连接号（①） |
