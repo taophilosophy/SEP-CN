@@ -30,9 +30,9 @@
 
 形式“实在地/自然地临在”与“精神地/意向地临在”的区分，是阿奎那认知理论的核心。一个形式可以在某处临在，却并不字面地使它所充灌的实体变成他物。例如，空气中的颜色并不使空气真的带色：我们在周围对象中看见颜色，却不在居间的空气里看见。然而感觉若要成为因果过程，颜色又必须以精神的方式存在于空气之中。这当然意味着空气必定以某种方式含有颜色，于是也就蕴含：在阿奎那那里，意向性并不是心灵的标志。空气本身并不是一个心灵（讨论见 Pasnau 1997, Chap. 2；完全不同的读法见 Brower and Brower-Toland 2008）[^brower-2008][^pasnau-1997]。
 
-## 3 彼得·奥利维与对形式同一的拒斥
+## 3 彼得·约翰·奥利维与对形式同一的拒斥
 
-十三世纪晚期，最早批评种相认知理论的人物之一是彼得·奥利维。他与亚里士多德、阿奎那相反，主张心灵在对世界的认知中是主动的：心灵注意对象。正是这一步，使种相认知理论显出全然不同的面貌——事实上，设定一个“借以”认知对象的种相，似乎并无多大意义。他论证道：
+十三世纪晚期，最早批评种相认知理论的人物之一是彼得·约翰·奥利维。他与亚里士多德、阿奎那相反，主张心灵在对世界的认知中是主动的：心灵注意对象。正是这一步，使种相认知理论显出全然不同的面貌——事实上，设定一个“借以”认知对象的种相，似乎并无多大意义。他论证道：
 
 > 第三，注意朝向种相的方式只有两种：或者不越过种相、径去注意对象，或者越过种相。若是前者，则事物本身不被看见，所见的只是它的影像，仿佛那就是事物本身——这是记忆种相的作用，而非视觉种相的作用。若是后者，则它在审视种相之后，还要审视对象本身；这样一来，它便以两种方式认知对象：先通过种相，再在对象本身中认知。这确实就像一个人先看见一段居间的空间，随后越过它看见那个固定的物体。（彼得·约翰·奥利维，《〈箴言〉第二卷问题集》，III, q. 74, 123。）
 
@@ -58,16 +58,6 @@
 
 司各脱由此获得一种清楚的方式，来表达布伦塔诺后来所称的意向性——即思想对象在心灵中存在的方式。依他之见，对象在心灵中具有客观存在；这一点后来被视为心灵的标志（见 Normore 1986; Pasnau 2003; King 2007; Cross 2014）[^cross-2014][^king-2007][^normore-1986][^pasnau-2003]。此进路较阿奎那之说显然有优势，但这类心理内容的本体论地位仍成问题。中世纪的相关争论十分著名，意见纷纭（综述见 Tachau 1988）[^tachau-1988]。司各脱本人说，思想对象具有一种减弱的存在，据说是介于实在存在与全无存在之间的状态。奥卡姆起初也接受类似观点，后来却对此大加批评。
 
-## 6 威廉·奥卡姆与心灵语言
-
-十四世纪的心灵语言理论，主要由奥卡姆的威廉发展起来。它依托一种把“原因”与“意谓”结合起来的心理表征理论：按此说，一个概念或心灵词项之所以行表征之职，是因为它由世界中的某物以动力因造成；也正是由于二者之间的因果关系，它才意谓该物。依奥卡姆之见，心理表征或概念由直观认知造成。他解释道：
-
-> 直观认知是单称之物的专有认知：其专有，不在于它对某物的相似程度胜过对另一物，而在于它自然地由一物造成、而非由另一物造成，且不能由另一物造成。若你反驳说它可由上帝单独造成，我答：确实如此；但这样一种视觉把握，总是倾向于由一个受造对象造成而非由另一个；若它是自然造成的，便由一物而非另一物造成，不能由另一物造成。（*Quodlibeta Septem*，1.13）
-
-按奥卡姆的形而上学，世界中只有个体。因此，当某个个体使一个概念在心灵中产生时，它造成的是一个个体概念，也就是关于它自身的一个单称概念；除上帝或许例外，别无他物能造成该概念。这个单称概念在我们的思想语言中，充当那个致其产生之对象的“词”。它是一个原子成分，可与其他成分组合，形成语言中更复杂的概念或句子。
-
-奥卡姆关于概念获得与心理表征的学说，是其精致思想理论的组成部分；该理论不仅包含意谓理论，还包含内涵、指代等一整套逻辑—语义性质。它说明了概念——概念本身又是信念与知识的直接对象——如何被组装成描述世界的心灵句子（细节见 Panaccio 2004）[^panaccio-2004]。
-
 ## 5 约翰·布里丹与模糊概念
 
 奥卡姆与布里丹的思想学说，一方面极为相似，另一方面又有根本差异，其心理表征观尤其如此。单称思想便是一例：二人都从同一观念出发——思考某个单称之物，就是在心中拥有一个单称概念；但对于单称概念是什么样子，尤其是它如何设法抓住世界，二人分歧根本。按奥卡姆之说，概念之所以单称，是因为其原因乃他所谓的“专有原因”，而专有原因必然系于一个对象。按布里丹之说，单称概念之所以单称，则是因为其语义的复杂性（见 Klima 2001: xxxviii–xlii 与 2009: 40–56）[^klima-2001][^klima-2009]：它具有描述性内容，足以收窄自身的意谓。不过，布里丹对某些词项仍保留奥卡姆的观点（这一差异相对奥卡姆的意义，见 Klima 2009: 69–89）[^klima-2009]。
@@ -81,6 +71,16 @@
 他似乎认为，一切真正的单称词项，都是“某个名称之下关于一物的描述集合”。这既适用于我亲知的单称之物，也适用于我未曾感觉亲知的单称之物。假定我的心灵语言中有“布吕内卢斯”这一概念，它是我经由模糊单称之物形成的——即经由我把他感知为这个或那个的种种情境。这些模糊单称之物，表达了我对布吕内卢斯之经验的指示性一面；它们与我“知道”的关于他的一切，汇合于“布吕内卢斯”这一单称词项之下。而我关于“苏格拉底”“柏拉图”的单称词项中，并无这样的指示性要素，因为他们从未、也不能存在于直接的感官认知之中。就此而言，这类单称词项中没有任何成分能使之区别于其他词项，除了我归置其下的描述总和。用索尔·克里普克的术语说，它们永远不能严格指示其所意谓者。“布吕内卢斯”则不然：由于其中含有源于我与他实际交互的指示性要素，它能够严格指示。（关于一种略有不同、但保留“苏格拉底”“柏拉图”这类词项严格指称的读法，见 Klima 2009, Chapter 4, Section 4.2。）[^klima-2009]
 
 布里丹为单称词项辩护的，是一种内在主义语义学。其内在主义不在于单称词项分两类，也不在于它们都是描述与我们曾交互过的情境的集合；而在于：对词项的赋予所描述的那个过程，完全内在于行动者。把名称与描述、情境相配，进而把某些名称赋予这些描述与情境，皆取决于我们自己。既然如此，同一语言的两位说话者，可以对同一个体使用同一个名称，甚至用它指同一个体——尽管由于交谈时心中所想的描述不同，他们所用名称的内容或意义并不相同。于是，在布里丹那里，意义在头脑之中。这一立场与奥卡姆相去甚远（详见 Panaccio 2017 与 Lagerlund 2024）[^lagerlund-2024][^panaccio-2017]。
+
+## 6 威廉·奥卡姆与心灵语言
+
+十四世纪的心灵语言理论，主要由奥卡姆的威廉发展起来。它依托一种把“原因”与“意谓”结合起来的心理表征理论：按此说，一个概念或心灵词项之所以行表征之职，是因为它由世界中的某物以动力因造成；也正是由于二者之间的因果关系，它才意谓该物。依奥卡姆之见，心理表征或概念由直观认知造成。他解释道：
+
+> 直观认知是单称之物的专有认知：其专有，不在于它对某物的相似程度胜过对另一物，而在于它自然地由一物造成、而非由另一物造成，且不能由另一物造成。若你反驳说它可由上帝单独造成，我答：确实如此；但这样一种视觉把握，总是倾向于由一个受造对象造成而非由另一个；若它是自然造成的，便由一物而非另一物造成，不能由另一物造成。（*Quodlibeta Septem*，1.13）
+
+按奥卡姆的形而上学，世界中只有个体。因此，当某个个体使一个概念在心灵中产生时，它造成的是一个个体概念，也就是关于它自身的一个单称概念；除上帝或许例外，别无他物能造成该概念。这个单称概念在我们的思想语言中，充当那个致其产生之对象的“词”。它是一个原子成分，可与其他成分组合，形成语言中更复杂的概念或句子。
+
+奥卡姆关于概念获得与心理表征的学说，是其精致思想理论的组成部分；该理论不仅包含意谓理论，还包含内涵、指代等一整套逻辑—语义性质。它说明了概念——概念本身又是信念与知识的直接对象——如何被组装成描述世界的心灵句子（细节见 Panaccio 2004）[^panaccio-2004]。
 
 ## 参考文献
 
@@ -96,7 +96,7 @@
 [^black-2011]: Black, D., 2011, “Avicenna’s ‘Vague Individual’ and its Impact on Medieval Latin Philosophy,” in Robert Wisnovsky, Faith Wallis, Jamie C. Fumo, and Carlos Fraenkel (eds.), *Vehicles of Transmission, Translation, and Transformation in Medieval Textual Culture*, Turnhout: Brepols Publishers, 259–292.
 [^black-2010]: –––, 2010, “Intentionality in Medieval Arabic Philosophy,” *Quaestio*, 10: 65–81.
 [^brentano-1874]: Brentano, F., 1874, *Psychologie vom empirischen Standpunkt*, 2nd edition, Leipzig: Verlag von Felix Meiner, 1924.
-[^brower-2008]: Brower, Jeffrey E. & Brower-Toland, Susan, 2008. “Aquinas on Mental Representation: Concepts and Intentionality,” *Philosophical Review*, 117 (2): 1937–243.
+[^brower-2008]: Brower, Jeffrey E. & Brower-Toland, Susan, 2008. “Aquinas on Mental Representation: Concepts and Intentionality,” *Philosophical Review*, 117 (2): 193–243.
 [^buridan-2001]: Buridan, John, [*SD*], *Summulae de Dialectica*, Gyula Klima (trans.), New Haven and London: Yale University Press, 2001.
 [^cross-2014]: Cross, R., 2014, *Duns Scotus Theory of Cognition*, Oxford: Oxford University Press.
 [^garlandus-1959]: Garlandus Compotista, *Dialectica*, ed. L.M. de Rijk, Assen: van Gorcum, 1959.
@@ -104,7 +104,7 @@
 [^king-2007]: King, P., 2007, “Rethinking Representation in the Middle Ages: A Vade-Mecum to Mediaeval Theories of Mental Representation,” in H. Lagerlund (ed.), *Representation and Objects of Thought in Medieval Philosophy*, Aldershot: Ashgate.
 [^klima-2001]: Klima, G., 2001, *Introduction* to John Buridan: Summulae de Dialectica, New Haven: Yale University Press.
 [^klima-2009]: –––, 2009, *John Buridan*. Oxford: Oxford University Press.
-[^klima-2015]: ––– (ed.), 2015, *Intentionality, Cognition, and Mental Representation in Medieval Philosophy*, New York: Fordham University.
+[^klima-2015]: ––– (ed.), 2015, *Intentionality, Cognition, and Mental Representation in Medieval Philosophy*, New York: Fordham University Press.
 [^knudsen-1982]: Knudsen, C., 1982, “Intention and Imposition,” in N. Kretzmann, A. Kenny & J. Pinborg (eds.), *The Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, 479–95.
 [^lagerlund-2014]: Lagerlund, H., 2014, “Singular Terms and Vague Concepts in Late Medieval Mental Language Theory or the Decline and Fall of Mental Language,” in G. Klima (ed.), *Intentionality, Cognition and Mental Representation in Medieval Philosophy*, New York: Fordham University Press.
 [^lagerlund-2007a]: ––– (ed.), 2007a, *Representation and Objects of Thought in Medieval Philosophy*, Aldershot: Ashgate.
@@ -115,7 +115,7 @@
 [^normore-1986]: –––, 1986, “Meaning and Objective Being: Descartes and His Sources,” in A.O. Rorty (ed.), *Essays on Descartes’ Meditations*, Berkeley: University of California Press, 223–41.
 [^william-1967]: William of Ockham, *Guillelmi de Ockham Opera Philosophica et Theologica ad fidem codicum manuscriptorum edita*, St. Bonaventure, N.Y.: impressa Ad Claras Aquas (Italia), 1967–89.
 [^panaccio-2004]: Panaccio, C., 2004, *Ockham on Concepts*, Aldershot: Ashgate.
-[^panaccio-2017]: –––, 2017, “Linguistic Externalism and Mental Language in Ockham and Buridan”, in G.Klima (ed.) *Questions on the Soul by John Buridan and Others: A Companion to John Buridan’s Philosophy of Mind*, Dordrecht: Springer, 225–37.
+[^panaccio-2017]: –––, 2017, “Linguistic Externalism and Mental Language in Ockham and Buridan”, in G. Klima (ed.), *Questions on the Soul by John Buridan and Others: A Companion to John Buridan’s Philosophy of Mind*, Dordrecht: Springer, 225–37.
 [^pasnau-1997]: Pasnau, R., 1997, *Theories of Cognition in the Later Middle Ages*, Cambridge: Cambridge University Press.
 [^pasnau-2003]: –––, 2003, “Cognition,” in T. Williams (ed.), *The Cambridge Companion to Duns Scotus*, Cambridge: Cambridge University Press, 285–311.
 [^perler-2001]: Perler, D. (ed.), 2001, *Ancient and Medieval Theories of Intentionality*, Leiden: Brill.
@@ -124,8 +124,8 @@
 [^rijk-2005]: de Rijk, L.M., 2005, *Giraldus Odonis O.F.M.: Opera Philosophica. Vol. II: De intentionibus*, Leiden: Brill.
 [^rijk-1962]: –––, 1962–67, *Logica Modernorum: A Contribution to the History of Early Terminist Logic, Vols. 1–2*, Assen: Van Gorcum.
 [^tachau-1988]: Tachau, K.H., 1988, *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundation of Semantics 1250–1345*, Leiden: Brill.
-[^toivanen-2009]: Toivanen, J., 2009, *Animal Consciousness: Peter Olivi on Cognitive Functions of the Sensitive Soul*, Jyvaskyla: The University of Jyvaskyla.
-[^tweedale-1990]: Tweedale, M., 1990, “Mental Representations in Later Medieval Scholasticism,” in J.-C. Smith (ed.) *Historical Foundations of Cognitive Science*, Dordrecht: Kluwer, 35–51.
+[^toivanen-2009]: Toivanen, J., 2009, *Animal Consciousness: Peter Olivi on Cognitive Functions of the Sensitive Soul*, Jyväskylä: The University of Jyväskylä.
+[^tweedale-1990]: Tweedale, M., 1990, “Mental Representations in Later Medieval Scholasticism,” in J.-C. Smith (ed.), *Historical Foundations of Cognitive Science*, Dordrecht: Kluwer, 35–51.
 
 ## 学术工具
 
@@ -136,7 +136,7 @@
 
 ## 其他网络资源
 
-[欢迎向作者提出建议。]
+[Please contact the author with suggestions.]
 
 ## 相关词条
 

@@ -394,3 +394,8 @@
 | holkot | tachau-1987-2 `de Riijk` | `de Rijk` | 拼写（①） |
 | holkot | grassi-1979 `71: 49-79` | `49&ndash;79` | 连接号（①） |
 | holkot | tachau-1988 `geistesgeschichte` | `Geistesgeschichte` | 专名大小写（①） |
+| representation-medieval | brower-2008 `117 (2): 1937&ndash;243` | `193&ndash;243` | 页码衍字（①） |
+| representation-medieval | toivanen-2009 `Jyvaskyla`（2 处） | `Jyväskylä` | 变音符缺失（①） |
+| representation-medieval | klima-2015 `New York: Fordham University.` | `Fordham University Press.` | 出版者残缺（①） |
+| representation-medieval | panaccio-2017 `G.Klima (ed.)` | `G. Klima (ed.),` | 缺空格与逗号（①） |
+| representation-medieval | tweedale-1990 `(ed.) <em>Historical` | `(ed.), <em>` | 缺逗号（①） |

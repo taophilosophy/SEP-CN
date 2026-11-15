@@ -119,7 +119,7 @@ Aquinas, Thomas | Aristotle, General Topics: psychology | Auriol [Aureol, Aureol
 
 [^brentano-1874]: Brentano, F., 1874, *Psychologie vom empirischen Standpunkt*, 2nd edition, Leipzig: Verlag von Felix Meiner, 1924.
 
-[^brower-2008]: Brower, Jeffrey E. & Brower-Toland, Susan, 2008. “Aquinas on Mental Representation: Concepts and Intentionality,” *Philosophical Review*, 117 (2): 1937–243.
+[^brower-2008]: Brower, Jeffrey E. & Brower-Toland, Susan, 2008. “Aquinas on Mental Representation: Concepts and Intentionality,” *Philosophical Review*, 117 (2): 193–243.
 
 [^buridan-2001]: Buridan, John, [*SD*], *Summulae de Dialectica*, Gyula Klima (trans.), New Haven and London: Yale University Press, 2001.
 
@@ -135,7 +135,7 @@ Aquinas, Thomas | Aristotle, General Topics: psychology | Auriol [Aureol, Aureol
 
 [^klima-2009]: –––, 2009, *John Buridan*. Oxford: Oxford University Press.
 
-[^klima-2015]: ––– (ed.), 2015, *Intentionality, Cognition, and Mental Representation in Medieval Philosophy*, New York: Fordham University.
+[^klima-2015]: ––– (ed.), 2015, *Intentionality, Cognition, and Mental Representation in Medieval Philosophy*, New York: Fordham University Press.
 
 [^knudsen-1982]: Knudsen, C., 1982, “Intention and Imposition,” in N. Kretzmann, A. Kenny & J. Pinborg (eds.), *The Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, 479–95.
 
@@ -157,7 +157,7 @@ Aquinas, Thomas | Aristotle, General Topics: psychology | Auriol [Aureol, Aureol
 
 [^panaccio-2004]: Panaccio, C., 2004, *Ockham on Concepts*, Aldershot: Ashgate.
 
-[^panaccio-2017]: –––, 2017, “Linguistic Externalism and Mental Language in Ockham and Buridan”, in G.Klima (ed.) *Questions on the Soul by John Buridan and Others: A Companion to John Buridan’s Philosophy of Mind*, Dordrecht: Springer, 225–37.
+[^panaccio-2017]: –––, 2017, “Linguistic Externalism and Mental Language in Ockham and Buridan”, in G. Klima (ed.), *Questions on the Soul by John Buridan and Others: A Companion to John Buridan’s Philosophy of Mind*, Dordrecht: Springer, 225–37.
 
 [^pasnau-1997]: Pasnau, R., 1997, *Theories of Cognition in the Later Middle Ages*, Cambridge: Cambridge University Press.
 
@@ -175,6 +175,6 @@ Aquinas, Thomas | Aristotle, General Topics: psychology | Auriol [Aureol, Aureol
 
 [^tachau-1988]: Tachau, K.H., 1988, *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundation of Semantics 1250–1345*, Leiden: Brill.
 
-[^toivanen-2009]: Toivanen, J., 2009, *Animal Consciousness: Peter Olivi on Cognitive Functions of the Sensitive Soul*, Jyvaskyla: The University of Jyvaskyla.
+[^toivanen-2009]: Toivanen, J., 2009, *Animal Consciousness: Peter Olivi on Cognitive Functions of the Sensitive Soul*, Jyväskylä: The University of Jyväskylä.
 
-[^tweedale-1990]: Tweedale, M., 1990, “Mental Representations in Later Medieval Scholasticism,” in J.-C. Smith (ed.) *Historical Foundations of Cognitive Science*, Dordrecht: Kluwer, 35–51.
+[^tweedale-1990]: Tweedale, M., 1990, “Mental Representations in Later Medieval Scholasticism,” in J.-C. Smith (ed.), *Historical Foundations of Cognitive Science*, Dordrecht: Kluwer, 35–51.
