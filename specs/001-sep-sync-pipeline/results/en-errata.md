@@ -399,3 +399,10 @@
 | representation-medieval | klima-2015 `New York: Fordham University.` | `Fordham University Press.` | 出版者残缺（①） |
 | representation-medieval | panaccio-2017 `G.Klima (ed.)` | `G. Klima (ed.),` | 缺空格与逗号（①） |
 | representation-medieval | tweedale-1990 `(ed.) <em>Historical` | `(ed.), <em>` | 缺逗号（①） |
+| necessary-sufficient | 正文 `Downing1959` | `Downing 1959` | 缺空格（①） |
+| necessary-sufficient | nebel-2019 `Nebel, Jacob 2019`、moore-2009 `Parker, Richard 2009` | 补逗号 | 体例（①） |
+| necessary-sufficient | crupi-2020 `<em>Erkenntnis</em> 2020.` 年份重复 | `Erkenntnis.` | 衍字（①） |
+| necessary-sufficient | gomes-2020 条 `<li>` 闭合写成 `-1/li>` | `</li>` | 标签破损（①） |
+| necessary-sufficient | rothman-1976 `104:587&ndash;92 ` | `104: 587&ndash;92.` | 标点与空格（①） |
+| necessary-sufficient | vanderweele-2017 `185, 11: 1041&ndash;1043` | `185(11): 1041&ndash;1043` | 卷期体例（①） |
+| necessary-sufficient | 正文 `Nebel 2018`（书目 2019）、`von Fintel 1998`（书目 1997） | 改 2019／1997 | 正文书目矛盾（②） |

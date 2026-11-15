@@ -18,9 +18,9 @@
 
 前门锁着。要按正常的方式开门进屋，我得先用钥匙。于是，不开暴力而开门的必要条件就是用钥匙。这样看来，下面这句话似乎为真：
 
-1. 如果我开了门，我就用过钥匙。
+* （i）如果我开了门，我就用过钥匙。
 
-能否借助对“if”的真值函项理解，主张任何条件句的后件（在 (i) 中即“我用过钥匙”）都为其前件（在 (i) 中即“我开了门”）的真值规定一个必要条件？许多逻辑与批判性思维教材正是这样做的；为方便起见，可称之为“标准理论”（持这一进路的例子见 Blumberg 1976, pp. 133–4；Hintikka and Bachman 1991, p. 328；Moore and Parker 2009, 310–11；Southworth and Swoyer 2020, ch. 3.2）[^blumberg-1976][^hintikka-1991][^moore-2009][^southworth-2020]。
+能否借助对“if”的真值函项理解，主张任何条件句的后件（在 (i) 中即“我用过钥匙”）都为其前件（在 (i) 中即“我开了门”）的真值规定一个必要条件？许多逻辑与批判性思维教材正是这样做的；为方便起见，可称之为“标准理论”（持这一进路的例子见 Blumberg 1976，第 133–4 页；Hintikka and Bachman 1991，第 328 页；Moore and Parker 2009，第 310–11 页；Southworth and Swoyer 2020，第 3.2 章）[^blumberg-1976][^hintikka-1991][^moore-2009][^southworth-2020]。
 
 标准理论利用了经典逻辑中的一个事实：真值函项“*p* ⊃ *q*”（“如果 *p*，则 *q*”）仅在 *p* 真而 *q* 假时为假。*p* 与 *q* 之间的这种关系，有时被称作 **实质蕴涵**（见条件句逻辑词条）。按这种对“如果 *p*，则 *q*”的理解，若条件句“*p* ⊃ *q*”为真且 *p* 成立，则 *q* 也成立；同样，若 *q* 为假，则 *p* 必为假（只要该条件句为真）。标准理论主张：当“*p* ⊃ *q*”为真时，后件“*q*”之真对前件“*p*”之真是 **必要的**；而前件之真对后件之真则是 **充分的**。必要条件与充分条件的这种互反关系，正好对应条件公式与其逆否命题之间的形式等值（“~*q* ⊃ ~*p*”是“*p* ⊃ *q*”的 **逆否命题**）。从语句真值的层面降到事态层面，按标准理论同样可以正确地说：用钥匙是开门的必要条件。
 
@@ -40,43 +40,43 @@
 
 这些怪异之处，本可以被当作无害的异常一笔带过，要不是有作者指出：上一节末尾提到的互反性与等值观念，还牵连出一批别的问题。按标准理论，必要条件与充分条件之间存在某种互反性，且“如果 *p*，则 *q*”总能改写成“*p* 仅当 *q*”。然而，正如语言学作者所观察到的，这两条主张既不合乎对必要（或充分）条件最自然的理解，也不合乎“if”（和“only if”）在英语中的实际表现。例如，考虑下面这个情形（取自 McCawley 1993, p. 317）[^mccawley-1993]：
 
-1. 如果你碰我，我会尖叫。
+* （ii）如果你碰我，我会尖叫。
 
 上面 (i) 的情形里，用钥匙是开门的必要条件；但对 (ii) 却似乎做不出平行主张：按这句话的自然读法，我尖叫并不是你碰我的条件。James McCawley 主张：在标准英语语句里，“if”从句给出“then”从句成真的条件——认知条件、时间条件或因果条件，皆无不可。(ii) 的自然解读是：我尖叫依赖你碰我。把我的尖叫当成你碰我的必要条件，等于把依赖关系倒着安放。倘若有人坚持说 (ii) 蕴含“你碰我 **仅当** 我尖叫”，类似的疑虑同样会出现。
 
 门那个例子（上面的 (i)）同样出现了互反或镜像关系的失败。虽然在时间与因果上，开门依赖先用钥匙；但要说用钥匙在时间或因果上依赖开门，就错了。那么，前件陈述的到底是哪种条件？看看下面这一对令人困惑的条件句或许有帮助（改写自 Sanford 1989, 175–6）[^sanford-1989]：
 
-1. 如果他学会了演奏，我就给兰伯特买一把大提琴。
-2. 兰伯特学会演奏，仅当我给他买一把大提琴。
+* （iii）如果他学会了演奏，我就给兰伯特买一把大提琴。
+* （iv）兰伯特学会演奏，仅当我给他买一把大提琴。
 
 请注意，这两句话的意思并不等值，尽管标准理论把“如果 *p*，则 *q*”仅仅当作“*p* 仅当 *q*”的另一种说法。(iii) 陈述的是我买大提琴给兰伯特所依的条件（想必他先借一把琴或租一把琴来学）；(iv) 陈述的则是兰伯特学会演奏这件乐器本身的一个（必要）条件（或许还有别的条件）。照这样理解，两句话合在一起，可怜的老兰伯特就永远别想从我这里得到大提琴。可要是 (iv) 不过与 (iii) 等值，把两句话并置就不会造成这样的 **僵局**。
 
 可是除了这样，还能怎么用“only if”来表述 (iii)？一个自然的英语对应说法竟出奇地难找。也许是这样：
 
-1. 兰伯特学会了拉大提琴，仅当我已经给他买了一把。
+* （v）兰伯特学会了拉大提琴，仅当我已经给他买了一把。
 
 这里引入助动词（“has”／“have”），试图让依赖关系维持正确的先后次序。但 (v) 并不完全对：它可以被读成“兰伯特的学成依赖于我先买了琴”——这绝非 (iii) 所蕴含的意思。要更贴切（但仍不令人完全满意），还得再调整助动词，比如：
 
-1. 兰伯特将要学会拉大提琴，仅当我已经给他买了一把。
+* （vi）兰伯特将要学会拉大提琴，仅当我已经给他买了一把。
 
-这一回，就不大容易把 (vi) 读成“我在兰伯特学会之前给他买了琴”。助动词上的这些变化（有时被称作“时态”变化）促使一些作者主张：英语条件句隐含着跨时间的量化（例如见 von Fintel 1998）。
+这一回，就不大容易把 (vi) 读成“我在兰伯特学会之前给他买了琴”。助动词上的这些变化（有时被称作“时态”变化）促使一些作者主张：英语条件句隐含着跨时间的量化（例如见 von Fintel 1997）[^von-1997]。
 
 另一种观点则认为，条件句这一构造表达的是不同类型的依赖关系：(iv) 之所以不等值于 (iii)，是因为 (iii) 的后件提供了所谓“兰伯特已学会拉大提琴”的 **证据性理由**（reason for thinking）。相比之下，同一个条件——我给兰伯特买一把大提琴——在 (iv) 中似乎承担着别样的功能（即我得先买琴，他才学得会）。下一节将讨论区分不同种类条件的可能性。这样的区分若真存在，似乎就为“if”的意义、乃至 **必要**（与 **充分**）**条件** 概念中的系统性歧义提供了一份证据。
 
-这些概念可能歧义，这给标准理论引出了进一步的问题。按标准理论，必要条件与充分条件两个概念本身是相互可定义的——Georg Henrik von Wright 已指出这一点（von Wright 1974, 7）：
+这些概念可能歧义，这给标准理论引出了进一步的问题。按标准理论，必要条件与充分条件两个概念本身是相互可定义的——Georg Henrik von Wright 已指出这一点（von Wright 1974, 7）[^von-1974]：
 
 *A* 是 *B* 的充分条件 =_{*df*} *A* 的缺失是 *B* 的缺失的必要条件
 
 *B* 是 *A* 的必要条件 =_{*df*} *B* 的缺失是 *A* 的缺失的充分条件
 
-歧义会威胁这种精巧的相互可定义性。下一节我们将考察这里是否真有问题。这种歧义的可能性，早见于 Peter Downing 论所谓“虚拟”（subjunctive）条件句的工作（Downing 1959）；随后 Wilson (1979)、Goldstein et al. (2005) 第 6 章以及更晚的作者，又把它当作更一般的问题来探讨。扼要说，其一般论证是：在某些语境中，按某种方式理解的必要条件与充分条件之间缺乏互反性；而在另一些情形中，两类条件又确实按标准理论要求的方式互反相关。若歧义确实存在，那么关于必要与充分条件之间有无互反性，就得不出任何可靠的一般结论；毋宁说，我们需要区分特定语境里援引的是哪一种意义上的“条件”。不先厘清意义与语境，就断言“如果 *p*，则 *q*”一般可改写为“*p* 仅当 *q*”，同样不成立。哲学文献中有多种办法来理解两类条件之间互反性的缺乏。例如，Carsten Held 借助真值制造理论（truthmaker theory）的一个版本，以半形式化的论证解释了必要条件与充分条件为何不互为逆命题（Held 2016——见“其他网络资源”）。下文将聚焦一条颇为不同、或许接受面更广的进路：从条件句的推论性、证据性与解释性用法之别入手，理解互反性的缺乏。
+歧义会威胁这种精巧的相互可定义性。下一节我们将考察这里是否真有问题。这种歧义的可能性，早见于 Peter Downing 论所谓“虚拟”（subjunctive）条件句的工作（Downing 1959）[^downing-1959]；随后 Wilson (1979)[^wilson-1979]、Goldstein et al. (2005)[^goldstein-2005] 第 6 章以及更晚的作者，又把它当作更一般的问题来探讨。扼要说，其一般论证是：在某些语境中，按某种方式理解的必要条件与充分条件之间缺乏互反性；而在另一些情形中，两类条件又确实按标准理论要求的方式互反相关。若歧义确实存在，那么关于必要与充分条件之间有无互反性，就得不出任何可靠的一般结论；毋宁说，我们需要区分特定语境里援引的是哪一种意义上的“条件”。不先厘清意义与语境，就断言“如果 *p*，则 *q*”一般可改写为“*p* 仅当 *q*”，同样不成立。哲学文献中有多种办法来理解两类条件之间互反性的缺乏。例如，Carsten Held 借助真值制造理论（truthmaker theory）的一个版本，以半形式化的论证解释了必要条件与充分条件为何不互为逆命题（Held 2016——见“其他网络资源”）。下文将聚焦一条颇为不同、或许接受面更广的进路：从条件句的推论性、证据性与解释性用法之别入手，理解互反性的缺乏。
 
 ## 4 推论、证据性理由与原因性理由
 
 下面两句话等值吗？（Wertheimer 1968, 363–4）[^wertheimer-1968]：
 
-1. 明天发生一场海战，是今天“明天将有一场海战”为真的必要且充分条件。
-2. 今天“明天将有一场海战”为真，是明天发生一场海战的必要且充分条件。
+* （vii）明天发生一场海战，是今天“明天将有一场海战”为真的必要且充分条件。
+* （viii）今天“明天将有一场海战”为真，是明天发生一场海战的必要且充分条件。
 
 David Sanford 论证：(vii) 说得通，(viii) 则“把事情说反了”（Sanford 1989, 176–7）[^sanford-1989]。他写道：“关于海战的那个语句如果为真，是因为海战发生才为真；海战并不是因为语句为真才发生”（同上）。他大约是想说：海战的发生是语句为真的一个 **原因性理由**（reason why），但反过来，语句为真并不给海战的发生提供任何原因性理由。当然，人们有时确实会为了让先前的话成真而有所行动；因此，语句之真成为某事件发生之原因性理由的怪例是存在的。但把海战情形读成这样，似乎不妥。
 
@@ -86,19 +86,19 @@ David Sanford 论证：(vii) 说得通，(viii) 则“把事情说反了”（Sa
 
 这一发现能否推广？门的例子（上面的 (i)）恰似一例。我用过钥匙，这给了我一个原因性理由：我为何不施暴力就能开门。我不施暴力而开了门，又是推断我用过钥匙的根据。下面是 McCawley 的另一例：
 
-1. 如果奥德丽赢了比赛，我们就庆祝。
+* （ix）如果奥德丽赢了比赛，我们就庆祝。
 
 奥德丽赢下比赛，是我们举行庆祝的充分条件；她获胜则是我们将庆祝的原因性理由。然而，我们的庆祝多半不会是她获胜的原因性理由。那么，庆祝在何种意义上是获胜的必要条件？这里同样有的只是推断的根据：我们不庆祝，是推断奥德丽没赢的根据。英语的时制表达似乎对这里揭示的不对称颇为敏感，正如上一节所指出的。(ix) 的逆否命题的自然写法，并非字面上的“如果我们将不庆祝，那么奥德丽不赢比赛”，而更像：
 
-1. 如果我们不庆祝，奥德丽就没有赢。
+* （x）如果我们不庆祝，奥德丽就没有赢。
 
 或
 
-1. 如果我们没有在庆祝，奥德丽就还没赢。
+* （xi）如果我们没有在庆祝，奥德丽就还没赢。
 
 甚至
 
-1. 如果我们不庆祝，奥德丽就不可能赢。
+* （xii）如果我们不庆祝，奥德丽就不可能赢。
 
 Gilberto Gomes（Gomes 2019）[^gomes-2019] 详尽讨论了一整类情形：在其中，这种或其他形式的改写——有时相当精巧——可以用来在条件句与其逆否命题之间保住互反性。
 
@@ -106,9 +106,9 @@ Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么…�
 
 不过，在关于必要与充分条件的反思中，还有另外两种关系时常牵涉在内。要辨认它们，不妨想想说下面这句话时可以意指的不同事情：
 
-1. 如果索朗日到场了，那这次研讨班就很好。
+* （xiii）如果索朗日到场了，那这次研讨班就很好。
 
-(xiii) 可以有这样一个场景：索朗日无论参加哪次研讨班都总是活跃的发言者，而且她的发言总富有洞见，足以保证所有与会的人都有趣而充实。此时，索朗日的到场至少部分地解释了研讨班为何出色——或者说，是研讨班出色的 **原因性理由**。要注意，一些作者把这类解释性理由与严格意义的解释区分开（Nebel 2018）。另一个场景则把索朗日画成一个眼光几乎从不出错的人：哪次研讨班会好，她一眼便知，尽管她在讨论中未必总活跃。按这个说法，她出席某次研讨班，就为“这次研讨班很好”提供了 **证据性理由**——或者说 **证据**。我们不妨这样概括：按第一个场景，研讨班很好是因为索朗日在场；按第二个场景，索朗日在场是因为研讨班很好。这类例子最早见于 Wilson (1979)，承接 Downing (1975) 对逆否推理有效性的攻击。注意，蹄铁算子（按经典逻辑的理解）捕捉不到 **证据性理由** 关系：它允许从任何语句推出任何为真的后件。而当条件句是 **证据性理由** 关系时，前件必须为后件提供某种支持——即必须为接受后件提供支持性证据。Vincenzo Crupi 与 Andrea Iacona 对 **证据条件句** 的研究，对一种 **证据性理由** 关系作了形式化探讨（Crupi and Iacona 2020；证据条件句的完整逻辑见 Raidl, Iacona and Crupi 2021）[^crupi-2020][^raidl-2021]。在他们那里，**证据性理由** 或证据关系就是前件为后件提供“接受的理由”的关系。另参 Igor Douven 论“证据支持论题”（Douven 2008, 2016）[^douven-2008][^douven-2016]。
+(xiii) 可以有这样一个场景：索朗日无论参加哪次研讨班都总是活跃的发言者，而且她的发言总富有洞见，足以保证所有与会的人都有趣而充实。此时，索朗日的到场至少部分地解释了研讨班为何出色——或者说，是研讨班出色的 **原因性理由**。要注意，一些作者把这类解释性理由与严格意义的解释区分开（Nebel 2019）[^nebel-2019]。另一个场景则把索朗日画成一个眼光几乎从不出错的人：哪次研讨班会好，她一眼便知，尽管她在讨论中未必总活跃。按这个说法，她出席某次研讨班，就为“这次研讨班很好”提供了 **证据性理由**——或者说 **证据**。我们不妨这样概括：按第一个场景，研讨班很好是因为索朗日在场；按第二个场景，索朗日在场是因为研讨班很好。这类例子最早见于 Wilson (1979)，承接 Downing (1975) 对逆否推理有效性的攻击。注意，蹄铁算子（按经典逻辑的理解）捕捉不到 **证据性理由** 关系：它允许从任何语句推出任何为真的后件。而当条件句是 **证据性理由** 关系时，前件必须为后件提供某种支持——即必须为接受后件提供支持性证据。Vincenzo Crupi 与 Andrea Iacona 对 **证据条件句** 的研究，对一种 **证据性理由** 关系作了形式化探讨（Crupi and Iacona 2020；证据条件句的完整逻辑见 Raidl, Iacona and Crupi 2021）[^crupi-2020][^raidl-2021]。在他们那里，**证据性理由** 或证据关系就是前件为后件提供“接受的理由”的关系。另参 Igor Douven 论“证据支持论题”（Douven 2008, 2016）[^douven-2008][^douven-2016]。
 
 **原因性理由** 条件与 **证据性理由** 条件，或许能照亮前面遇到的那些特异之处。我开了门，是用过钥匙的证据性理由，而非原因性理由。在上面的 (iii) 中，他学会了演奏，是我将给兰伯特买琴的原因性理由；而我买了琴，则（在同一情形中）是“他已学会演奏”的证据性理由——但不是原因性理由。在情形 (ix) 中，我们庆祝是奥德丽获胜的证据性理由，但多半不是原因性理由。
 
@@ -118,7 +118,7 @@ Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么…�
 
 为逆否推理辩护的人可以说：就因果主张而言，至少有一种弱形式的逆否是有效的。Gomes 提出（Gomes 2009）[^gomes-2009]：若主张“*A*”是“*B*”的因果充分条件，或“*B*”是“*A*”的因果必要条件，两类条件之间便有某种互反性成立，从而某种形式的逆否有效。回到例子 (ii)，设我们把它读作一个因果条件：你碰我，会致使我尖叫。Gomes 建议，“*A*”标示 *B* 的一个充分原因，只要 (1) “*A*”规定了某个会引起另一事件“*B*”的事件之发生，并且 (2) 它是通过陈述一个条件来这样做的——该条件之真足以推出“*B*”之真。在这种情形下，我们还可以进一步主张，“*B*”反过来标示“*A*”的一个必然结果，即 *B* 之真为 *A* 之真提供了一个必要条件（Gomes 2009, 377–9）[^gomes-2009]。值得注意的是，Crupi 与 Iacona 的证据条件句同样保住逆否，且他们把这当作其分析的独有特征，依据是对“提供证据”即“支持”的理解（Crupi and Iacona 2020 第 6 节）[^crupi-2020]。在他们看来，若索朗日的到场为研讨班很好提供了证据（见上面的 (xiii)），那么研讨班不好就是索朗日缺席的证据。因此，他们——与 Gomes (2019) 一样——拒绝 Downing (1975) 对逆否推理的一般怀疑论。Wilson 则相反，他论证研讨班不好也可能是不出席的原因性理由；但他声称，这“只保住了逆否推理的表象”（Wilson 1979, 274–5）[^wilson-1979]。
 
-尽管可以区分“if”从句的这些不同角色（或许还有别的），但并非在每一情形里都容易把它们剥离开来。诉诸“原因性理由”与“证据性理由”，我们能识别出“if”一词与必要、充分条件术语中似乎存在的歧义。遗憾的是，**何为解释性** 这一概念本身可能太过含混，帮不上大忙：我们既可援引证据性理由来解释一个现象，也可援引原因性理由来解释它。“因为”一词同样染有类似的含混，下文可见。例如，考虑涉及数学、物理学或其他定律的情形（这一问题的一处经典出处[*locus classicus*]见 Sellars 1948）[^sellars-1948]。“那个图形是多边形”为真，便足以推出“该图形外角之和为 360 度”；同样，从“该图形外角之和不是 360 度”可推出“该图形不是多边形”。这类推理并非琐屑，它们依赖几何定义与数学原理，因此属于数学性的必要与充分条件。但下面这一点同样可信：数学结果至少为我们提供了一个证据性理由，让我们认定：正因为该图形是多边形，其外角之和才为 360 度。我们甚至可以设想有人主张：该图形是多边形，这一点是其外角之和为 360 度的原因性理由。而若有人说“这个图形之所以是多边形，是因为它外角之和为 360 度”，也未必不自然。
+尽管可以区分“if”从句的这些不同角色（或许还有别的），但并非在每一情形里都容易把它们剥离开来。诉诸“原因性理由”与“证据性理由”，我们能识别出“if”一词与必要、充分条件术语中似乎存在的歧义。遗憾的是，**何为解释性** 这一概念本身可能太过含混，帮不上大忙：我们既可援引证据性理由来解释一个现象，也可援引原因性理由来解释它。“因为”一词同样染有类似的含混，下文可见。例如，考虑涉及数学、物理学或其他定律的情形（这一问题的一处经典出处（*locus classicus*）见 Sellars 1948）[^sellars-1948]。“那个图形是多边形”为真，便足以推出“该图形外角之和为 360 度”；同样，从“该图形外角之和不是 360 度”可推出“该图形不是多边形”。这类推理并非琐屑，它们依赖几何定义与数学原理，因此属于数学性的必要与充分条件。但下面这一点同样可信：数学结果至少为我们提供了一个证据性理由，让我们认定：正因为该图形是多边形，其外角之和才为 360 度。我们甚至可以设想有人主张：该图形是多边形，这一点是其外角之和为 360 度的原因性理由。而若有人说“这个图形之所以是多边形，是因为它外角之和为 360 度”，也未必不自然。
 
 类似的要点也适用于知识论：人们普遍认为，如果我知道 *p*，则 *p* 为真（见知识分析词条）。按这类说明，*p* 之真是知道 *p* 的必要条件。这样说不排除更强的主张——比“*p* 之真得自我们知道 *p*”更强。例如，一个信念为真，可以算作它构成知识的（一部分）理由。另一些情形涉及物理学、生物学与自然科学准许的推理——其中会涉及因果条件或律则条件。这里同样要小心判断：所陈述的是 **原因性理由** 关系，还是 **证据性理由** 关系。分子平均动能的增加不只是蕴涵气体温度在升高，还为温度的升高提供了原因性理由。然而，如果温度不过是测量分子平均动能的一种方式，那么温度的变化就是“分子平均动能已变化”的证据性理由，而非其变化的原因性理由。
 
@@ -143,7 +143,7 @@ Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么…�
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 [^blumberg-1976]: Blumberg, Albert E., 1976. *Logic: A First Course*, New York: Alfred E. Knopf.
-[^crupi-2020]: Crupi, Vincenzo and Iacona, Andrea 2020. “The Evidential Conditional”, *Erkenntnis* 2020. doi:10.1007/s10670-020-00332-2
+[^crupi-2020]: Crupi, Vincenzo and Iacona, Andrea, 2020. “The Evidential Conditional”, *Erkenntnis*. doi:10.1007/s10670-020-00332-2
 [^crupi-2022]: –––, 2022. “On the Logical Form of Concessive Conditionals”, *Journal of Philosophical Logic*. doi:10.1007/s10992-021-09645-1
 [^douven-2008]: Douven, Igor, 2008. “The Evidential Support Theory of Conditionals”, *Synthese*, 164(1): 19–44. doi:10.1007/s11229-007-9214-5
 [^douven-2016]: –––, 2016, *The Epistemology of Indicative Conditionals: Formal and Empirical Approaches*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316275962
@@ -152,20 +152,20 @@ Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么…�
 [^geis-1993]: Geis, Michael L., and Lycan, William G., 1993. “Nonconditional Conditionals”, *Philosophical Topics*, 21: 35–56.
 [^gomes-2009]: Gomes, Gilberto, 2009. “Are Necessary and Sufficient Conditions Converse Relations?”, *Australasian Journal of Philosophy*, 87: 375–87.
 [^gomes-2019]: –––, 2019. “Meaning Preserving Contraposition of Natural Language Conditionals”, *Journal of Pragmatics* 152: 46–60.
-[^gomes-2020]: –––, 2020. “Concessive conditionals without *Even if*and non-concessive conditionals with *Even if*”, *Acta Analytica*, 35: 1–2. doi:10.1007/s12136-019-00396-y
+[^gomes-2020]: –––, 2020. “Concessive conditionals without *Even if* and non-concessive conditionals with *Even if*”, *Acta Analytica*, 35: 1–2. doi:10.1007/s12136-019-00396-y
 [^goldstein-2005]: Goldstein, Laurence, Brennan, Andrew, Deutsch, Max and Lau, Joe Y.F., 2005. *Logic: Key Concepts in Philosophy*, London: Continuum.
 [^hintikka-1991]: Hintikka, Jaakko and Bachman, James, 1991. *What If …? Toward Excellence in Reasoning*, London: Mayfield.
 [^jackson-1998]: Jackson, Frank, 1998. *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press.
 [^mackie-1965]: Mackie, J. L., 1965. “Causes and Conditions”, *American Philosophical Quarterly*, 12: 245–65.
 [^mccawley-1993]: McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic*\* (Subtitle: \**But Were Ashamed to Ask*), Chicago: Chicago University Press.
-[^moore-2009]: Moore, Brooke N., and Parker, Richard 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
-[^nebel-2019]: Nebel, Jacob 2019. “Normative Reasons as Reasons Why We Ought”, Mind 128(510): 459–484. doi:10.1093/mind/fzy013
+[^moore-2009]: Moore, Brooke N., and Parker, Richard, 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
+[^nebel-2019]: Nebel, Jacob, 2019. “Normative Reasons as Reasons Why We Ought”, Mind 128(510): 459–484. doi:10.1093/mind/fzy013
 [^raidl-2021]: Raidl, Eric, Iacona, Andrea, and Crupi, Vincenzo 2021. “The Logic of the Evidential Conditional”, *The Review of Symbolic Logic*, First View: 1–13. doi:10.1017/S1755020321000071
-[^rothman-1976]: Rothman, K.J. 1976. “Causes”, *American Journal of Epidemiology*, 104:587–92
+[^rothman-1976]: Rothman, K.J. 1976. “Causes”, *American Journal of Epidemiology*, 104: 587–92.
 [^sanford-1989]: Sanford, David H., 1989. *If P, then Q: Conditionals and the Foundations of Reasoning*, London: Routledge.
 [^sellars-1948]: Sellars, Wilfrid, 1948. “Concepts as involving laws and inconceivable without them”, *Philosophy of Science*, 15: 289–315.
 [^southworth-2020]: Southworth, Jason and Swoyer, Chris, 2020. “Critical Reasoning: A User's Manual, v.4.0”. *Philosophy Open Educational Resources*, 2. [[Southworth and Swoyer 2020 available online](https://scholars.fhsu.edu/philosophy_oer/2/)]
-[^vanderweele-2017]: VanderWeele, Tyler J., 2017. “Invited Commentary: The Continuing Need for the Sufficient Cause Model Today”, *American Journal of Epidemiology*, 185, 11: 1041–1043. doi:10.1093/aje/kwx083
+[^vanderweele-2017]: VanderWeele, Tyler J., 2017. “Invited Commentary: The Continuing Need for the Sufficient Cause Model Today”, *American Journal of Epidemiology*, 185(11): 1041–1043. doi:10.1093/aje/kwx083
 [^von-1997]: Von Fintel, Kai, 1997. “Bare Plurals, Bare Conditionals and Only”, *Journal of Semantics*, 14: 1–56.
 [^von-1974]: Von Wright, Georg Henrik, 1974. *Causality and Determinism*, New York: Columbia University Press.
 [^wertheimer-1968]: Wertheimer, Roger, 1968. “Conditions”, *Journal of Philosophy*, 65: 355–64.
