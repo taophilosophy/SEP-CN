@@ -320,3 +320,4 @@
 | binarium | notes 引 Baur 拉丁文 `proporitionem` | `proportionem` | 拼写（①） |
 | binarium | gilson-1955 `Institut supérieure de philosophie` | `supérieur` | 法语性数配误（①） |
 | timon-phlius | decleva 2020 条 `Declava Caizzi` | `Decleva Caizzi` | 姓氏拼写（①） |
+| truth-coherence | 正文 `(Candlish 2006)` | `(Candlish 2021)` | 正文年份与书目 2021 矛盾（②） |
