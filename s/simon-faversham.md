@@ -175,19 +175,19 @@
 
 ## 脚注
 
-[^note-1]: 关于西蒙生平的更详细叙述，见 Longeway 1977；另见《〈辩谬篇〉问题集》（*Quaestiones super librum Sophisticorum Elenchorum*，Ebbesen 等编）的导言。
+[^note-1]: 关于西蒙生平的更详细叙述，见 Longeway 1977[^longeway-1977]；另见《〈辩谬篇〉问题集》（*Quaestiones super librum Sophisticorum Elenchorum*，Ebbesen 等编）的导言。
 
-[^note-2]: 第 4 种的完整校订本正由 Christina Thomsen Thörnqvist 编订；部分校订本另见 Ebbesen 1986、1987。第 5 种方面，由 Mora-Márquez 领衔的编辑团队正在修订 Longeway 未刊的两个修订本，其中《修订本二》（*Redactio 2*）的修订已告完成。第 6 种见 Green-Pedersen 1973。另有一部对西班牙的彼得《逻辑大全》（*Summulae*）的注释曾归于西蒙名下，但归属存疑；参 De Rijk 1968 与 Tiné 1983。
+[^note-2]: 第 4 种的完整校订本正由 Christina Thomsen Thörnqvist 编订；部分校订本另见 Ebbesen 1986、1987[^ebbesen-1986][^ebbesen-1987]。第 5 种方面，由 Mora-Márquez 领衔的编辑团队正在修订 Longeway 未刊的两个修订本，其中《修订本二》（*Redactio 2*）的修订已告完成。第 6 种见 Green-Pedersen 1973[^green-pedersen-1973]。另有一部对西班牙的彼得《逻辑大全》（*Summulae*）的注释曾归于西蒙名下，但归属存疑；参 De Rijk 1968 与 Tiné 1983[^tiné-1983]。
 
-[^note-3]: 第 10 种见 Zimmermann 1971；第 15 种见 Christensen 2015。
+[^note-3]: 第 10 种见 Zimmermann 1971[^zimmermann-1971]；第 15 种见 Christensen 2015[^christensen-2015]。
 
-[^note-4]: 关于把《工具论》分为 8 种论著而非更常见的 6 种论著这一传统，见 Marmo 1990。
+[^note-4]: 关于把《工具论》分为 8 种论著而非更常见的 6 种论著这一传统，见 Marmo 1990[^marmo-1990]。
 
-[^note-5]: 有关 *suspicio*（疑念），可参 Marmo 1990。
+[^note-5]: 有关 *suspicio*（疑念），可参 Marmo 1990[^marmo-1990]。
 
-[^note-6]: 关于这场讨论，见 Mora-Márquez 2015，第 2.1 章。
+[^note-6]: 关于这场讨论，见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.1 章。
 
-[^note-7]: 见 Mora-Márquez 2015，第 2.2 章。
+[^note-7]: 见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.2 章。
 
 [^note-8]: 这里也包括形如“*S* + *V*”的断言，其中 *V* 是人称动词形式，如“一个人跑”。把 *V* 换成“是 + *V* 的现在分词”，此类断言即可表达为“*S* 是 *P*”的形式，如“一个人在跑”。
 
@@ -207,26 +207,26 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature (edited)
-
-### Secondary Literature
+### 原始文献
 
 [^ebbesen-2013]: Ebbesen, Sten, 2013, “Simon of Faversham, *Quaestiones super librum De somno et vigilia*. An Edition”, *Cahiers de l’Institut du Moyen Age Grec et Latin* (henceforth *CIMAGL*) 82: 91–145. <[available online](http://cimagl.saxo.ku.dk/download/82/82Ebbesen90-145.pdf)>
 [^longeway-1977]: Longeway, John Lee, 1977, “Simon of Faversham’s Questions on the *Posterior Analytics*: A Thirteenth-Century View of Science”, Ph.D. dissertation, Cornell University. [*Dissertation Abstracts International*, 38(7): 4211–A.]
-[^ottaviano-1930]: Ottaviano, Carmelo, 1930, “Le *Quaestiones super libro Praedicamentorum* di Simone di Faversham”, *Atti della Reale Accademia Nazionale die Lincei*, serie 6, Memorie della Classe di Scienze Morali, Storiche e Filologiche, 3: 257–351.
+[^ottaviano-1930]: Ottaviano, Carmelo, 1930, “Le *Quaestiones super libro Praedicamentorum* di Simone di Faversham”, *Atti della Reale Accademia Nazionale dei Lincei*, serie 6, Memorie della Classe di Scienze Morali, Storiche e Filologiche, 3: 257–351.
 [^simon-1957]: Simon of Faversham, [SF-OL] 1957, *Magistri Simonis Anglici sive de Faverisham Opera Omnia*. Vol. 1: *Opera logica*, (1) *Quaestiones super libro Porphyrii* (2) *Quaestiones super libro Praedicamentorum* (3) *Quaestiones super libro Perihermeneias* edited by Pasquale Mazarella, Pubblicazioni dell’Instituto universitario di magistero di Catania, serie filosofica, testi critici, 1, Padua: Cedam.
 [^simon-1984]: –––, 1984, *Quaestiones super libro Elenchorum*, edited by Sten Ebbesen, Thomas Izbicki, John Longeway, Francesco del Punta, Eileen Serene, and Eleonore Stump, Toronto: Pontifical Institute of Mediaeval Studies.
 [^yokoyama-1969]: Yokoyama, Tetsuo, 1969, “Simon of Faversham’s *Sophisma: Universale est intentio*”, *Mediaeval Studies*, 31: 1–14.
+### 研究文献
+
 [^christensen-2015]: Christensen, Michael S., 2015, “Simon of Faversham *Quaestiones super De motu animalium.* A partial edition and doctrinal study”, *CIMAGL*, 84: 93–128. <[available online](http://cimagl.saxo.ku.dk/download/84/84Christensen93-128.pdf)>
 [^clerke-1897]: Clerke, Agnes Mary, 1897, “Simon of Faversham”, *Oxford Dictionary of National Biography*, vol. 52: 263.
 [^corbini-2006]: Corbini, Amos, 2006, *La teoria della scienza nel XIII secolo. I commenti agli “Analitici secondi”*, Firenze: Edizioni del Galluzzo.
 [^de-1968]: De Rijk, L.M., 1968, “On the Genuine Text of Peter of Spain’s *Summule Logicales*. II: Simon of Faversham (d. 1306) as a Commentator of the Tracts I–V of the *Summule*”, *Vivarium*, 6: 69–101. doi:10.1163/156853468X00077
 [^donati-1991]: Donati, Silvia, 1991, “Per lo studio dei commenti alla Fisica del XIII secolo. I: Commenti di probabile origine inglese degli anni 1250–1270 ca.”, *Documenti e Studi sulla tradizione filosofica medievale*, 2(2): 361–441.
-[^donati-2003]: –––, 2003, “La discussione sull’unità del concetto di ente nella tradizione di commento della ‘Fisica’: commenti parigini degli anni 1270–1315”, in *Die Logik des Transzendentalen. Festschrift für Jan A. Aertsen zum 65*, Berlin/NY: Geburtstag, 60–139.
+[^donati-2003]: –––, 2003, “La discussione sull’unità del concetto di ente nella tradizione di commento della ‘Fisica’: commenti parigini degli anni 1270–1315”, in *Die Logik des Transzendentalen. Festschrift für Jan A. Aertsen zum 65. Geburtstag*, Berlin/NY, 60–139.
 [^ebbesen-1977]: Ebbesen, Sten, 1977, “Can Equivocation be Eliminated?”, *Studia Mediewistyczne*, 18: 103–24.
 [^ebbesen-1980a]: –––, 1980a, “Gerontobiologiens Grundproblemer”, *Museum Tusculanum*, 40–43: 269–88. (Contains extracts from Simon’s *quaestiones* on *De longitudine et brevitate vitae*.)
 [^ebbesen-1980b]: –––, 1980b, “Is ‘*Canis currit*’ Ungrammatical? Grammar in *Elenchi* Commentaries”, *Historiographia Linguistica*, 7: 53–68. doi:10.1075/hl.7.1-2.06ebb
-[^ebbesen-1986]: –––, 1986, “Termini accidentales concreti. Texts from the Late 13ᵗʰ Century”, *CIMAGL*, 53: 139–49. <[available online](http://cimagl.saxo.ku.dk/download/53/53Ebbesen37-150.pdf)>
+[^ebbesen-1986]: –––, 1986, “Termini accidentales concreti. Texts from the Late 13th Century”, *CIMAGL*, 53: 139–49. <[available online](http://cimagl.saxo.ku.dk/download/53/53Ebbesen37-150.pdf)>
 [^ebbesen-1987]: –––, 1987, “Talking about what is no more. Texts by Peter of Cornwall(?), Richard of Clive, Simon of Faversham and Radulphus Brito”, *CIMAGL*, 55: 158–60. <[available online](http://cimagl.saxo.ku.dk/download/55/55Ebbesen135-168.pdf)>
 [^ebbesen-2010]: –––, 2010, “The *Prior Analytics* in the Latin West: 12th–13th Centuries”, *Vivarium*, 48(1/2): 96–133. doi:10.1163/156853410X489736
 [^emamzadah-2023]: Emamzadah, Parwana and Ana María Mora-Márquez, 2023, “Le syllogisme sophistique selon Simon de Faversham et Raoul le Breton: entre formalisme et pragmatique,” *Archives d’histoire doctrinale et littéraire du Moyen Âge*, 90: 113–134.
@@ -241,7 +241,7 @@
 [^longeway-2000]: Longeway, John, 2000, “Simon of Faversham and *esse in effectu*”, talk presented at the 35th International Congress on Medieval Studies, Western Michigan University, Kalamazoo, Michigan, May 5, 2000. [[available online](https://longeway.files.wordpress.com/2016/03/longeway-simon-of-fav-on-esse-in-effectu.pdf)]
 [^marmo-1990]: Marmo, Costantino, 1990, “*Suspicio*: A Key Word to the Significance of Aristotle’s *Rhetoric* in Thirteenth-Century Scholasticism”, *CIMAGL*, 60: 145–98. <[available online](http://cimagl.saxo.ku.dk/download/60/60Marmo145-198.pdf)>
 [^marmo-1994]: –––, 1994, *Semiotica e linguaggio nella Scolastica: Parigi, Bologna, Erfurt 1270–1330. La semiotica dei modisti*, Rome: Istituto Storico Italiano per il Medioevo.
-[^marmo-1995]: –––, 1995, “A Pragmatic Approach to Language in Modism”, in Sten Ebbesen (ed.), *Sprachteorien in Spätantiken un Mittelalter*, vol. 3 of P. Schmitter (ed.), *Geschichte der Sprachteorie*, Tübingen: Gunter Narr Verlag, 169–83.
+[^marmo-1995]: –––, 1995, “A Pragmatic Approach to Language in Modism”, in Sten Ebbesen (ed.), *Sprachtheorien in Spätantike und Mittelalter*, vol. 3 of P. Schmitter (ed.), *Geschichte der Sprachtheorie*, Tübingen: Gunter Narr Verlag, 169–83.
 [^marmo-1999]: –––, 1999, “The Semantics of the Modistae”, in Sten Ebbesen and Russell L. Friedman (eds), *Medieval Analyses in Language and Cognition*, Copenhagen: The Royal Danish Academy of Sciences and Letters, 83–104.
 [^marmo-2010]: –––, 2010, *La semiotica del XIII secolo tra teologia e arti liberali*, Milan: Bompiani.
 [^mazarella-1957]: Mazarella, Pasquale, 1957, “Simone di Faversham”, *Enciclopedia Filosofica*, 4: 632–633.
@@ -252,9 +252,9 @@
 [^novaes-2008]: Novaes, Catarina Dutilh, and Stephen Read, 2008, “*Insolubilia* and the Fallacy *Secundum quid et Simpliciter*”, *Vivarium*, 46(2): 175–91. doi:10.1163/004275408X311258
 [^novaes-2008-2]: Novaes, Catarina Dutilh, 2008, “A Comparative Taxonomy of Medieval and Modern Approaches to Liar Sentences”, *History and Philosophy of Logic*, 29 (3): 261–277.
 [^ottaviano-1931]: Ottaviano, Carmelo, 1931, “Le opere di Simone di Faversham e la sua posizione nel problem degli universali”, *Archivio di Filosofia*, 1: 15–29.
-[^pattin-1955]: Pattin, A., 1955, *De verhouding tussen zijn en wezenheid en de transcendentale relatie in de 2ᵉ helft der xiiiᵉ* *eeuw*. Verhandelingen van de Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België; Klasse der Letteren, Verhandeling nr. 21. Brussels: Paleis der Academiën.
+[^pattin-1955]: Pattin, A., 1955, *De verhouding tussen zijn en wezenheid en de transcendentale relatie in de 2e helft der xiiie eeuw*. Verhandelingen van de Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België; Klasse der Letteren, Verhandeling nr. 21. Brussels: Paleis der Academiën.
 [^pickavé-2008]: Pickavé, Martin, 2008, “Simon of Faversham on Aristotle’s *Categories* and the *scientia praedicamentorum*”, in *Medieval Commentaries on Aristotle’s Categories*, L.A. Newton (ed.), Leiden/Boston: Brill, 183–220.
-[^pinborg-1967]: Pinborg, Jan, 1967, *Die Entwicklung der Sprachtheorie im Mittelalter*, Münster, Aschendorff.
+[^pinborg-1967]: Pinborg, Jan, 1967, *Die Entwicklung der Sprachtheorie im Mittelalter*, Münster: Aschendorff.
 [^pinborg-1971a]: –––, 1971a, “Bezeichnung in der Logik des XIII. Jahrhunderts”, in Albert Zimmermann (ed.), *Albert der Grosse. Seine Zeit, sein Werk, seine Wirkung*, Berlin–New York: De Gruyter, 238–81.
 [^pinborg-1971b]: –––, 1971b, “Simon of Faversham’s *Sophisma: Universale est Intentio*: A Supplementary Note”, *Medieval Studies*, 33: 360–65.
 [^pinborg-1975]: –––, 1975, “Die Logik der Modistae”, *Studia Mediewistyczne*, 16: 39–97.
@@ -264,8 +264,8 @@
 [^sharp-1934]: Sharp, D., 1934, “Simonis de Faverisham *Quaestiones super tertium De anima*”, *Archives d’histoire doctrinale et littéraire du moyen âge*, 9: 307–68.
 [^tiné-1983]: Tiné, Antonino, 1983, *Il “De predicabilibus” nel Commento ai Trattati I–IV di Pietro Ispano attribuito a Simone Anglice o di Faversham*, Catania: Istituto dipartamentale di studi antichi e tardo-antichi.
 [^tiné-1990]: –––, 1990, “Simone di Faversham e le scienze”, in *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (SIEPM)*, edited by Monika Asztalos, John E. Murdoch, and Ilkka Niiniluoto, *Acta Philosophica Fennica*, 48 (2): 638–44.
-[^tiné-1996]: –––, 1996, “Simon of Faversham: Proemi alla logica”, in *Aristotle in Britain during the Middle Ages*. *Proceedings of the SIEPM, April 1994*, edited by John Marenbon, Turnhout: Brepols, 211–31.
-[^vennebusch-1963]: Vennebusch, Joachim, 1963, *Ein anonymer Aristoteleskommentar des xiii.* *Jahrhunderts: Quaestiones in tres libros de Anima* (Admont: Stiftsbibliothek, cod. lat. 367). Paderborn: F. Schöningh.
+[^tiné-1996]: –––, 1996, “Simon of Faversham: Proemi alla logica”, in *Aristotle in Britain during the Middle Ages. Proceedings of the SIEPM, April 1994*, edited by John Marenbon, Turnhout: Brepols, 211–31.
+[^vennebusch-1963]: Vennebusch, Joachim, 1963, *Ein anonymer Aristoteleskommentar des xiii. Jahrhunderts: Quaestiones in tres libros de Anima* (Admont: Stiftsbibliothek, cod. lat. 367). Paderborn: F. Schöningh.
 [^vennebusch-1965]: –––, 1965. “Die *Quaestiones in tres libros De anima* des Simon von Faversham”, *Archiv für Geschichte der Philosophie*, 47: 20–39.
 [^weijers-2012]: Weijers, Olga and Monica Calma, 2012, “Simon of Faversham”, in *Le travail intellectuel à la Faculté des arts de Paris: textes et maîtres (ca. 1200–1500). VIII. Répertoire des noms commençant par S–Z*, Turnhout: Brepols, 99–111.
 [^wolf-1966]: Wolf, Friedrich Antonius, 1966, *Die Intellektslehre des Simon von Faversham nach seinem De-anima-Kommentaren*, Inaugural-Dissertation. Bonn: Universität.
@@ -286,7 +286,7 @@
 
 ## 相关词条
 
-大阿尔伯特 | 托马斯·阿奎那 | 亚里士多德的逻辑学 | 罗马的吉尔斯 | 根特的亨利 | 拉杜尔弗斯·布里托 | 中世纪符号学 | 埃尔福特的托马斯
+大阿尔伯特 | 托马斯·阿奎那 | 亚里士多德的逻辑学 | 罗马的吉尔斯 | 根特的亨利 | 拉杜尔夫·布里托 | 中世纪符号学 | 埃尔福特的托马斯
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 

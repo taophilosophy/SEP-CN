@@ -414,3 +414,11 @@
 | cordemoy | nadler-2005 `“ Cordemoy…` | `“Cordemoy…` | 引号内多空格（①） |
 | cordemoy | scheib-1997 `New York, Frankfurt am Main: P. Lang.` | `New York: P. Lang.` | 双出版地（①） |
 | cordemoy | manning-2012 `12 (16); <a…` | `12(16). <a…` | 缺句点（①） |
+| simon-faversham | donati-2003 `Aertsen zum 65</em>, Berlin/NY: Geburtstag` | `zum 65. Geburtstag</em>, Berlin/NY` | 书名与出版地拆散（①） |
+| simon-faversham | ottaviano-1930 `Nazionale die Lincei` | `Nazionale dei Lincei` | 拼写（①） |
+| simon-faversham | marmo-1995 `Sprachteorien in Spätantiken un Mittelalter`、`Geschichte der Sprachteorie` | `Sprachtheorien in Spätantike und Mittelalter`、`Sprachtheorie` | 拼写（①） |
+| simon-faversham | pattin-1955 斜体断裂与 `België;` 分号 | 合并斜体、删分号 | 体例（①） |
+| simon-faversham | vennebusch-1963 `des xiii.</em> <em>Jahrhunderts` 斜体断裂 | 合并 | 体例（①） |
+| simon-faversham | tiné-1996 `…Middle Ages</em>. <em>Proceedings…` 斜体断裂 | 合并 | 体例（①） |
+| simon-faversham | pinborg-1967 `Münster, Aschendorff.` | `Münster: Aschendorff.` | 体例（①） |
+| simon-faversham | ebbesen-1986 `13<sup>th</sup>` 上标字符 | `13th` | 体例（①） |
