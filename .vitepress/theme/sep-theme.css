@@ -1,0 +1,255 @@
+/* ============================================================
+   SEP 版式 chrome 层（specs/037）
+   基准：SEP 官网 2013 版模板（令牌实测凭证 specs/037/results/sep-style.css）
+   - body 固定渐变：cardinal 红自页顶渐入羊皮纸底（SEP 标志性视觉）
+   - 顶栏透明骑在红带上，文字反白；搜索框为浅色药丸（SEP 同款）
+   - 题区：EDEBE9 居中横幅（EntryMatter）+ 标题下作者行/pubinfo（斜体）
+   - 页脚：菜单块分栏 + 版本钉 + 版权行（SepFooter）
+   交互层（侧栏/outline/搜索弹窗/深色切换）沿用 VitePress 默认，仅换肤。
+   ============================================================ */
+
+/* ------------------------------------------ body 固定红渐变 ---- */
+/* html body 提权，压过 VitePress 注入的 body 背景色；渐变随视口固定
+   （SEP 同款 attachment），红带 340px 内渐入羊皮纸，标题区以下基本无色染 */
+html body {
+  background: linear-gradient(180deg, var(--sep-band) 0%, var(--vp-c-bg) 340px)
+    no-repeat fixed;
+  background-color: var(--vp-c-bg);
+}
+
+html.dark body {
+  background: linear-gradient(180deg, var(--sep-band) 0%, var(--vp-c-bg) 340px)
+    no-repeat fixed;
+  background-color: var(--vp-c-bg);
+}
+
+/* 顶栏双态：页顶（VitePress isTop → .top 类）骑在红带上文字反白；
+   滚动后换羊皮纸实底，避免正文从透明顶栏下透出（specs/037） */
+.VPNavBar {
+  box-shadow: none;
+}
+
+.VPNavBar.top {
+  background: transparent;
+  border-bottom: 1px solid rgba(216, 216, 216, 0.35);
+}
+
+.VPNavBar:not(.top) {
+  background: var(--vp-c-bg);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.VPNavBar.top .title,
+.VPNavBar.top .VPNavBarMenuLink,
+.VPNavBar.top .VPNavBarHamburger,
+.VPNavBar.top .VPNavBarAppearance,
+.VPNavBar.top .VPSocialLink {
+  color: #f9f5f3 !important;
+}
+
+.VPNavBar.top .VPNavBarMenuLink:hover,
+.VPNavBar.top .title:hover,
+.VPNavBar.top .VPNavBarAppearance:hover,
+.VPNavBar.top .VPSocialLink:hover {
+  color: #fff !important;
+}
+
+.VPSocialLink svg {
+  fill: currentColor;
+}
+
+/* 本地搜索按钮：浅色药丸（SEP 白底搜索框同款，红带/羊皮纸两态通用） */
+.VPNavBarSearch .DocSearch-Button {
+  background: var(--vp-c-bg-alt);
+  border: 1px solid rgba(216, 216, 216, 0.5);
+}
+
+/* 对照/隐藏侧栏开关按钮（BilingualToggle）：同搜索框的浅色药丸 */
+.VPNavBar .bili-btn {
+  background: var(--vp-c-bg-alt);
+  border: 1px solid rgba(216, 216, 216, 0.5);
+  color: var(--vp-c-text-1);
+}
+
+/* 移动端顶栏（VPLocalNav）：羊皮纸实底防透出 */
+.VPLocalNav {
+  background: var(--vp-c-bg) !important;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+/* 左侧栏：羊皮纸实底＋右侧发丝线（侧栏顶部条目骑在红带上对比度不足，
+   以可读性优先取实底；SEP 无侧栏可参照，属本站适配层） */
+.VPSidebar {
+  background: var(--vp-c-bg) !important;
+  border-right: 1px solid var(--vp-c-divider);
+  box-shadow: none;
+}
+
+.VPSidebarItem.level-1.is-active > .item .text,
+.VPSidebarItem.level-0.is-active > .item .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+/* ------------------------------ 右侧 outline（本页目录）SEP 化 ---- */
+
+.VPDocAsideOutline {
+  border-left: none;
+}
+
+.outline-marker {
+  background: var(--vp-c-brand-1);
+}
+
+/* ------------------------------------------ 题区：横幅 + 元信息 ---- */
+
+/* EDEBE9 居中横幅（SEP #article-banner 同款：方角、细边、轻投影） */
+.entry-banner {
+  margin: 0 0 28px;
+  padding: 1.1em 2em;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 13.5px;
+  color: var(--vp-c-text-2);
+}
+
+.entry-banner a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.entry-banner a:hover {
+  text-decoration: underline;
+}
+
+.dark .entry-banner {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+/* 标题下元信息（SEP #author + #pubinfo 同款：斜体 pubinfo、发丝线收底） */
+.entry-meta {
+  margin: -6px 0 24px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.entry-meta .entry-authors {
+  margin-bottom: 2px;
+}
+
+.entry-meta .entry-pubinfo {
+  font-style: italic;
+}
+
+.entry-meta .entry-pubinfo a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.entry-meta .entry-pubinfo a:hover {
+  text-decoration: underline;
+}
+
+/* 正文链接：SEP 交互（红链接、悬停变黑加下划线） */
+.vp-doc a {
+  text-decoration: none;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-text-1);
+  text-decoration: underline;
+}
+
+.dark .vp-doc a:hover {
+  color: var(--vp-c-text-1);
+}
+
+/* SEP 标题字重 300（Light）：霞鹜文楷无 300 档，落到 400 防伪细体 */
+.vp-doc h1 {
+  font-weight: 400;
+}
+
+/* ------------------------------------------ SEP 式页脚（SepFooter） ---- */
+/* 挂在 VPDoc doc-bottom：随 VPContent 侧栏偏移、随 VPDoc 水平内边距与
+   容器同缘；菜单块横向铺开宽于正文列——与 SEP 页脚版式语法一致。
+   VPDoc 自带 padding-bottom（移动端 6rem）由下行清零，页脚自管收底 */
+.VPDoc {
+  padding-bottom: 0;
+}
+
+.sep-footer {
+  margin-top: 2em;
+  border-top: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-2);
+  font-size: 13.5px;
+}
+
+.sep-footer-inner {
+  padding: 28px 0 40px;
+}
+
+.sep-footer .menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 6%;
+}
+
+.sep-footer .menu-block {
+  flex: 1 1 220px;
+  min-width: 180px;
+}
+
+.sep-footer h4 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.sep-footer h4 svg {
+  flex: none;
+  color: var(--vp-c-brand-1);
+}
+
+.sep-footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sep-footer li {
+  margin: 6px 0;
+}
+
+.sep-footer a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.sep-footer a:hover {
+  color: var(--vp-c-text-1);
+  text-decoration: underline;
+}
+
+/* 版本钉在页脚块中的呈现（沿用 .src-pin 既有样式，微调间距） */
+.sep-footer .src-pin {
+  margin-top: 20px;
+}
+
+.sep-footer .credits {
+  margin-top: 22px;
+  font-size: 12.5px;
+}
+
+.sep-footer .credits p {
+  margin: 4px 0;
+}

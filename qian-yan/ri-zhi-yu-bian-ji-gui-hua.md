@@ -117,3 +117,10 @@
   * 试金石 3 条硬错 0；真候选 1 处（logic-provability 书目 pp.61–70 缺空格，en-errata #12 同类漏网）待裁定表处置
   * 存量盘点：补课集合 413 件（done 219＋在途 s2.5 194），批次待批启动；pending/cleared 783 件走管线自然入口
   * 顺带：specs 号撞车让位——035-entry-pdf 已被并行会话提交占用，本线改 specs/036；bauer H1 全角扫改带红（f2a87210d）按 ADR-0024 恢复半角对齐 SUMMARY；check_all 11 项全绿、337 单测全绿
+* 2026.11.15 SEP 版式 VitePress 主题（specs/037，用户指令“根据其页面做一套 VitePress 主题，包含本项目所需一切功能”）
+  * 用户三裁定（登记 spec.md Assumptions）：词条页仿 SEP 基础上保留左右 ToC；中文正文保留霞鹜文楷；保留深浅色双主题
+  * 架构：extends DefaultTheme 槽位组件＋CSS 令牌换皮，不自写 Layout——搜索弹窗/移动端菜单/侧栏折叠等交互零回退；SEP 配色实测令牌（cardinal #8c1515、羊皮纸 #f2ece8、横幅 #EDEBE9、页脚 #f9f5f3、发丝线 #D8D8D8）存 specs/037/results/sep-style.css
+  * 落地：sep-theme.css（body 固定红渐变 0→340px、顶栏 isTop 双态骑红带反白、题区/页脚样式）；EntryMatter.vue（作者行＋SEP 原文措辞斜体 pubinfo＋EDEBE9 横幅，按 SEP“标题→pubinfo→横幅→正文”序 DOM 手术插 h1 后，iframe 对照模式隐藏保镜像纯净）；SepFooter.vue（挂 doc-bottom 与容器同缘，菜单块＋版本钉迁入＋版权行）；config.mts SrcMeta 增 authors、themeConfig.footer 移除
+  * 坑：VitePress 2.0-alpha 无 doc-content-before 槽位（doc-top 是 aside 上方全宽位）、layout-bottom 在 VPContent 外无侧栏偏移（页脚会钻到固定侧栏下）、VPNavBar 滚动态类是 isTop 的 top；lxgw-wenkai-webfont 文件名无中间连字符（lxgwwenkai-bold.css），node_modules 更新后旧 dev 服务器不暴露坏导入
+  * 验证：dev 浏览器实测截图 8 张存 specs/037/results/（词条浅/深、页脚、首页、双语对照 side 模式含段落同步、bohr-correspondence 公式 111 处全排版、搜索弹窗、移动端 390 贴边测量干净）；侧栏取羊皮纸实底（透明骑渐变顶部对比度不足，SEP 无侧栏属本站适配）
+  * 顺带：specs 号二次撞车让位（035 归 entry-pdf 线，本线改 specs/037）；端口 81 遗留旧 dev 服务器核实身份后清理重启

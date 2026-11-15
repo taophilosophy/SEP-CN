@@ -1,39 +1,42 @@
 /* ============================================================
    SEP-CN VitePress 主题覆盖
-   配色对齐 book.bsdcn.org（GitBook 实测值，浏览器取色）：
-   亮色 页面 #FFFFFF / 正文 #1F1D1A / 品牌玫红 #FF0072
-        次级文字 #766D60 / 行内代码底 #FAF7F3 / 代码块底 #FBFAF8
-   暗色 页面 #000407 / 正文 #FEFFFF / 品牌薄荷绿 #A8E6CF
-        次级文字 #B1B7BA / 行内代码底 #0F1B20 / 代码块底 #030B10
+   配色对齐 SEP 官网 2013 版模板（specs/037/results/sep-style.css 实测令牌）：
+   亮色 页面羊皮纸 #F2ECE8 / 正文 #1A1A1A / 品牌 cardinal 红 #8C1515
+        次级文字 #505050 / 横幅面板 #EDEBE9 / 页脚 #F9F5F3 / 发丝线 #D8D8D8
+   暗色 同布局暗色适配（羊皮纸→暖深灰、cardinal 提亮保证 4.5:1 对比）
    字体：霞鹜文楷屏幕阅读版（正文）+ 霞鹜文楷等宽（代码，内嵌英文等宽字形）
    ============================================================ */
 
 :root {
-  --vp-c-brand-1: #ff0072;
-  --vp-c-brand-2: #e7005f;
-  --vp-c-brand-3: #ff0072;
-  --vp-c-brand-soft: rgba(255, 0, 114, 0.1);
+  /* SEP 品牌带（页顶红渐变），由 sep-theme.css 的 body 渐变消费 */
+  --sep-band: #8c1515;
+  --sep-band-dark: #4a0d0d;
 
-  --vp-c-bg: #ffffff;
-  --vp-c-bg-alt: #fbfaf8;
-  --vp-c-bg-elv: #ffffff;
-  --vp-c-bg-soft: #fbfaf8;
+  --vp-c-brand-1: #8c1515;
+  --vp-c-brand-2: #6f1010;
+  --vp-c-brand-3: #8c1515;
+  --vp-c-brand-soft: rgba(140, 21, 21, 0.08);
 
-  --vp-c-text-1: #1f1d1a;
-  --vp-c-text-2: #766d60;
-  --vp-c-text-3: #8d7554;
+  --vp-c-bg: #f2ece8;
+  --vp-c-bg-alt: #f9f5f3;
+  --vp-c-bg-elv: #f9f5f3;
+  --vp-c-bg-soft: #edebe9;
 
-  --vp-c-divider: #ece5dd;
-  --vp-c-border: #e0d8cd;
-  --vp-c-gutter: #ece5dd;
+  --vp-c-text-1: #1a1a1a;
+  --vp-c-text-2: #505050;
+  --vp-c-text-3: #6b5f58;
 
-  --vp-sidebar-bg-color: #ffffff;
-  --vp-nav-bg-color: #ffffff;
+  --vp-c-divider: #d8d8d8;
+  --vp-c-border: #d8d8d8;
+  --vp-c-gutter: #d8d8d8;
+
+  --vp-sidebar-bg-color: transparent;
+  --vp-nav-bg-color: transparent;
 
   --vp-c-text-code: #28181b;
   --vp-code-color: #28181b;
-  --vp-code-bg: #faf7f3;
-  --vp-code-block-bg: #fbfaf8;
+  --vp-code-bg: #f9f5f3;
+  --vp-code-block-bg: #f9f5f3;
 
   --vp-font-family-base: 'LXGW WenKai Screen', 'LXGW WenKai', -apple-system, 'Segoe UI',
     'Microsoft YaHei', 'PingFang SC', sans-serif;
@@ -42,31 +45,32 @@
 }
 
 .dark {
-  --vp-c-brand-1: #a8e6cf;
-  --vp-c-brand-2: #639f89;
-  --vp-c-brand-3: #a8e6cf;
-  --vp-c-brand-soft: rgba(168, 230, 207, 0.14);
+  --sep-band: #4a0d0d;
+  --vp-c-brand-1: #e08d8b;
+  --vp-c-brand-2: #f0a5a3;
+  --vp-c-brand-3: #e08d8b;
+  --vp-c-brand-soft: rgba(224, 141, 139, 0.14);
 
-  --vp-c-bg: #000407;
-  --vp-c-bg-alt: #030b10;
-  --vp-c-bg-elv: #030b10;
-  --vp-c-bg-soft: #0f1b20;
+  --vp-c-bg: #171210;
+  --vp-c-bg-alt: #1e1815;
+  --vp-c-bg-elv: #1e1815;
+  --vp-c-bg-soft: #262019;
 
-  --vp-c-text-1: #feffff;
-  --vp-c-text-2: #b1b7ba;
-  --vp-c-text-3: #738188;
+  --vp-c-text-1: #f1ece8;
+  --vp-c-text-2: #b8ada6;
+  --vp-c-text-3: #8a7f78;
 
-  --vp-c-divider: #162127;
-  --vp-c-border: #202c31;
-  --vp-c-gutter: #162127;
+  --vp-c-divider: #3a2f2a;
+  --vp-c-border: #3a2f2a;
+  --vp-c-gutter: #3a2f2a;
 
-  --vp-sidebar-bg-color: #000407;
-  --vp-nav-bg-color: #000407;
+  --vp-sidebar-bg-color: transparent;
+  --vp-nav-bg-color: transparent;
 
-  --vp-c-text-code: #feffff;
-  --vp-code-color: #feffff;
-  --vp-code-bg: #0f1b20;
-  --vp-code-block-bg: #030b10;
+  --vp-c-text-code: #f1ece8;
+  --vp-code-color: #f1ece8;
+  --vp-code-bg: #262019;
+  --vp-code-block-bg: #1e1815;
 }
 
 html {
@@ -239,7 +243,9 @@ body.bili-mode .VPNavBar,
 body.bili-mode .VPLocalNav,
 body.bili-mode .VPSidebar,
 body.bili-mode .VPDoc .aside,
-body.bili-mode .VPFooter {
+body.bili-mode .VPFooter,
+body.bili-mode .sep-footer,
+body.bili-mode .entry-banner {
   display: none !important;
 }
 
@@ -409,7 +415,10 @@ html.in-iframe .VPNavBar,
 html.in-iframe .VPLocalNav,
 html.in-iframe .VPDocAside,
 html.in-iframe .VPDocFooter,
-html.in-iframe .VPFooter {
+html.in-iframe .VPFooter,
+html.in-iframe .sep-footer,
+html.in-iframe .entry-banner,
+html.in-iframe .entry-meta {
   display: none !important;
 }
 

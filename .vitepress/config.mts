@@ -22,6 +22,7 @@ type SrcMeta = {
   substantiveRevision?: string
   edition?: string
   sha256: string
+  authors?: string[]
 }
 const srcByDoc: Record<string, SrcMeta> = {}
 try {
@@ -37,6 +38,7 @@ try {
       substantiveRevision: e.pubinfo?.substantive_revision,
       edition: e.archive_edition,
       sha256: e.files?.find((f: any) => f.kind === 'main')?.sha256 || '',
+      authors: e.authors || [],
     }
     if (e.zh_doc) srcByDoc[e.zh_doc] = meta
     if (e.yuanwen?.md) srcByDoc[e.yuanwen.md] = meta
@@ -374,7 +376,7 @@ export default defineConfig({
       // 参考文献就地全量渲染（2026-10-31 裁定：词条保持底稿形态不动，站点层补显示）。
       // 内置 footnoteTail（vendored markdown-it-footnote）只渲染被正文引用过的脚注
       // 定义，未被引用的定义组被静默丢弃——abduction 125 条定义仅 48 条被正文引用，
-      // 77 条不出现在页面任何位置，致「## 参考文献」下观感为空（ADR-0017 实测证据）。
+      // 77 条不出现在页面任何位置，致“## 参考文献”下观感为空（ADR-0017 实测证据）。
       // 本规则注册于 footnoteTail 之前（ruler.after 后注册者先跑）：把全部
       // footnote_reference_open/close 定义组按文件顺序转成完整列表，插回首个定义组
       // 原位（即标题之下）；定义组本体原样保留，由 footnoteTail 照旧剔除并在文末
@@ -451,10 +453,7 @@ export default defineConfig({
     skipToContentLabel: '跳到正文',
     externalLinkIcon: true,
     socialLinks: [{ icon: 'github', link: 'https://github.com/taophilosophy/SEP-CN' }],
-    footer: {
-      message: '《斯坦福哲学百科全书》简体中文翻译项目 · 支持与英文原文对照阅读',
-      copyright: 'Copyright © 2024 ykla · 以 BSD-2-Clause 许可证发布',
-    },
+    // 全站页脚由 SepFooter（SEP 版式菜单块）承担，不再用默认 VPFooter（specs/037）
     search: {
       provider: 'local',
       options: {
