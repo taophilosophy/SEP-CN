@@ -19,10 +19,11 @@ const vpDir = path.dirname(fileURLToPath(import.meta.url))
 const outDir = path.join(vpDir, 'dist')
 
 const args = process.argv.slice(2)
-const shardNames = args.length ? args : ['dist-ad', 'dist-ek', 'dist-lp', 'dist-qz']
-const shardDirs = shardNames.map((s) =>
-  path.isAbsolute(s) ? s : path.join(vpDir, s),
-)
+// 显式参数按 cwd（仓库根）解析——CI 传的是 docs/.vitepress/shards/dist-*；
+// 无参数时用 .vitepress/ 下的默认分片目录（本地调试）。
+const shardDirs = args.length
+  ? args.map((s) => (path.isAbsolute(s) ? s : path.resolve(process.cwd(), s)))
+  : ['dist-ad', 'dist-ek', 'dist-lp', 'dist-qz'].map((s) => path.join(vpDir, s))
 
 const existing = shardDirs.filter((d) => existsSync(path.join(d, 'hashmap.json')))
 if (!existing.length) {
@@ -66,11 +67,6 @@ if (urls.length) {
     'xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">'
   writeFileSync(path.join(outDir, 'sitemap.xml'), header + urls.join('') + '</urlset>')
   console.log(`[merge-shards] sitemap ${urls.length} 条`)
-  // 各片自带的 sitemap 已并入上一步结果，删除分片残留（如更早复制进来的同名文件）
-  for (const dir of existing) {
-    const left = path.join(outDir, path.relative(vpDir, dir), 'sitemap.xml')
-    if (existsSync(left)) rmSync(left, { force: true })
-  }
 }
 
 // ---- pagefind：合并后统一索引一次 ----
