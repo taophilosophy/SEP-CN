@@ -4,9 +4,9 @@
 
 模糊逻辑想刻画的是含“Petr 年轻（有钱、个子高、肚子饿等）”这类模糊、不精确语句的逻辑推理。它指一族多值逻辑，真值被解释为真值度。复合命题（如“Carles 个子高，Chris 有钱”）的真值由各组成部分的真值决定。也就是说，和经典逻辑一样，这里也要求真值函项性。
 
-模糊逻辑诞生于 Lotfi Zadeh（1965）提出的模糊集合论。模糊集合给论域中每个元素指定一个隶属度，通常是区间 $[0,1]$ 里的实数；模糊逻辑则给命题指定真值度。标准的真值（度）集合就是实数单位区间 $[0,1]$：$0$ 表示“完全不真”，$1$ 表示“完全真”，其余值表示部分真，也就是介于两者之间的真值度。[^note-1]
+模糊逻辑诞生于 Lotfi Zadeh（1965）[^zadeh-1965] 提出的模糊集合论。模糊集合给论域中每个元素指定一个隶属度，通常是区间 $[0,1]$ 里的实数；模糊逻辑则给命题指定真值度。标准的真值（度）集合就是实数单位区间 $[0,1]$：$0$ 表示“完全不真”，$1$ 表示“完全真”，其余值表示部分真，也就是介于两者之间的真值度。[^note-1]
 
-“模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 **度** 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017。
+“模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 **度** 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）[^hájek-1998] 那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017[^bělohlávek-2017]。
 
 数学模糊逻辑关注以“部分真”的真值函项说明为基础的逻辑，并按经典数学逻辑的路子来研究：句法、模型论语义、证明系统、完全性等，命题层面和谓词层面都要管（见 Cintula, Fermüller, Hájek, & Noguera 2011、2015）[^cintula-2015][^cintula-2011][^fermüller-2015][^hájek-2011]。
 
@@ -14,7 +14,7 @@
 
 模糊逻辑的标准真值集合是实数单位区间 $[0,1]$，按自然序 $\leq$ 排列：从完全假（$0$）经过连续不断的中间真值度，到完全真（$1$）（真常项的其他解释与真值的其他集合，见第 5、7 节）。主流数学模糊逻辑有个基本假设：联结词要在真值度集合上按真值函项方式解释，而且在标准设定下，这种真值函项在端点 $0$、$1$ 上要表现得像经典逻辑。若对每个 $x,y \in [0,1]$ 规定 $x \land y = \min\{x,y\}$、$x \lor y = \max\{x,y\}$、$\neg x = 1 - x$，合取、析取与否定的行为就非常自然。
 
-这三个真值函项就是 Joseph Goguen（1975）最初提出的模糊逻辑语义，后来 Gehrke, Walker, & Walker（1997）等人对之作了形式研究。不少人仍把它称作“模糊逻辑”。但人们很快看出，这个语义框架太单薄：既编码不了推理的许多有趣方面，也撑不起一套完整的数学逻辑理论。
+这三个真值函项就是 Joseph Goguen（1975）最初提出的模糊逻辑语义，后来 Gehrke, Walker, & Walker（1997）[^gehrke-1997] 等人对之作了形式研究。不少人仍把它称作“模糊逻辑”。但人们很快看出，这个语义框架太单薄：既编码不了推理的许多有趣方面，也撑不起一套完整的数学逻辑理论。
 
 通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 **t-范数**（**三角范数**），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）[^klement-2000]。著名 t-范数有：前文提过的 $\min$、实数标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 **序和**（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
 
@@ -38,7 +38,7 @@ $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi
 
 Łukasiewicz 逻辑是在 MTL 的希尔伯特式证明系统中加入 Wajsberg 公理 $$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ 得到的。它对应的是按 Łukasiewicz t-范数赋值所定义后承关系的有穷版本：对每个 **有限** 公式集 $\Gamma$ 和每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$。[^note-2]
 
-这是多值逻辑的早期例子：Jan Łukasiewicz 与 Alfred Tarski（1930）在模糊集合论问世之前很久就提出了它，用的是等价公理系统，推理规则只有 **肯定前件**：
+这是多值逻辑的早期例子：Jan Łukasiewicz 与 Alfred Tarski（1930）[^jan-1930] 在模糊集合论问世之前很久就提出了它，用的是等价公理系统，推理规则只有 **肯定前件**：
 
 $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
 
@@ -46,13 +46,13 @@ $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\ps
 
 ## 4 Gödel–Dummett 逻辑
 
-Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是真值取在 $[0,1]$ 中的早期多值逻辑。Michael Dummett（1959）把它作为直觉主义逻辑加公理 $$(\varphi \to \psi) \lor (\psi \to \varphi)$$ 的扩张提出。这条公式在底层语义（无论 Kripke 式还是代数式）中强制一个线性序；它也出现在 Kurt Gödel 的观察里：直觉主义逻辑不可能用有穷真值表刻画（Gödel 1932）[^gödel-1932]。在模糊逻辑中，Gödel–Dummett 逻辑也可以由 MTL 加公理 $\varphi \to \varphi \mathbin{\&} \varphi$ 得到，这等于要求 $\&$ 幂等，于是两个合取的解释重合。语义上，它还可定义为最小 t-范数给出的后承关系。它的特别之处是：在基于 t-范数的逻辑里，只有它使得公式在给定赋值下的有效性不取决于命题变元的具体取值，而只取决于这些值的相对顺序；因此可以说，Gödel–Dummett 逻辑是关于比较真值的逻辑。和 Łukasiewicz 逻辑一样，检验有效性的计算复杂性仍是 coNP 完全的。
+Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是真值取在 $[0,1]$ 中的早期多值逻辑。Michael Dummett（1959）[^dummett-1959] 把它作为直觉主义逻辑加公理 $$(\varphi \to \psi) \lor (\psi \to \varphi)$$ 的扩张提出。这条公式在底层语义（无论 Kripke 式还是代数式）中强制一个线性序；它也出现在 Kurt Gödel 的观察里：直觉主义逻辑不可能用有穷真值表刻画（Gödel 1932）[^gödel-1932]。在模糊逻辑中，Gödel–Dummett 逻辑也可以由 MTL 加公理 $\varphi \to \varphi \mathbin{\&} \varphi$ 得到，这等于要求 $\&$ 幂等，于是两个合取的解释重合。语义上，它还可定义为最小 t-范数给出的后承关系。它的特别之处是：在基于 t-范数的逻辑里，只有它使得公式在给定赋值下的有效性不取决于命题变元的具体取值，而只取决于这些值的相对顺序；因此可以说，Gödel–Dummett 逻辑是关于比较真值的逻辑。和 Łukasiewicz 逻辑一样，检验有效性的计算复杂性仍是 coNP 完全的。
 
 ## 5 其他值得注意的模糊逻辑
 
 除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 **诱导** 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 **连续** t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^esteva-2003][^esteva-2003-2][^haniková-2014]；多数情况下，公理化刻画的是从 **有限** 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
 
-也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 **指定值**。[^note-3] 要引入有多个指定真值度的逻辑，办法之一是让 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
+也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 **指定值**。[^note-3] 要引入有多个指定真值度的逻辑，办法之一是让 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）[^metcalfe-2007] 公理化。
 
 同理，也有人反对 & 可交换，甚至反对它可结合。所得逻辑的公理化文献里有（见 Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003）[^cintula-2013]；例外是非交换 uninorm 的逻辑，目前还没有已知的自然公理系统。
 
@@ -79,15 +79,15 @@ MTL$\forall$ 的推理规则，是 **肯定前件** 再加 **概括规则**：�
 
 给其他基于 t-范数的命题模糊逻辑配一阶对应物，有两条路。第一条是把 MTL$\forall$ 的公理化扩一扩，加入前几节那些命题公理的一阶实例，于是得到 Łukasiewicz 逻辑、Gödel–Dummett 逻辑、乘积逻辑、Hájek 基本模糊逻辑 BL 等的一阶变体的句法呈现。第二条是改动 MTL$\forall$ 的语义定义，改为由相应 t-范数（集合）给出后承关系。接下来自然要问：每种情形下，这两条路是否通向同一个逻辑（MTL 就是如此）？可靠性不成问题，因为这些公理系统相对于相应结构类很容易验证可靠；完全性则没有一般答案，只能一案一议。
 
-对 Gödel–Dummett 逻辑，公理系统相对于其语义是强完全的。但 Łukasiewicz 逻辑的语义重言式集合，正如 Bruno Scarpellini（1962）所证明的，不是递归可公理化的；Emil Ragaz（1981）进一步证明，它在算术层级意义上是 $\Sigma_2$-完全的。乘积逻辑和 Hájek 基本模糊逻辑 BL 更糟：由连续 t-范数给出的所有结构，其一阶重言式集合与真正的算术一样复杂（Montagna 2001）[^montagna-2001]。要得到完全性，可以给希尔伯特式证明系统加合适的无穷推理规则——Louise Hay（1963）对 Łukasiewicz 逻辑就是这么做的——或者推广真值集合（见下一节）。
+对 Gödel–Dummett 逻辑，公理系统相对于其语义是强完全的。但 Łukasiewicz 逻辑的语义重言式集合，正如 Bruno Scarpellini（1962）[^scarpellini-1962] 所证明的，不是递归可公理化的；Emil Ragaz（1981）[^ragaz-1981] 进一步证明，它在算术层级意义上是 $\Sigma_2$-完全的。乘积逻辑和 Hájek 基本模糊逻辑 BL 更糟：由连续 t-范数给出的所有结构，其一阶重言式集合与真正的算术一样复杂（Montagna 2001）[^montagna-2001]。要得到完全性，可以给希尔伯特式证明系统加合适的无穷推理规则——Louise Hay（1963）[^hay-1963] 对 Łukasiewicz 逻辑就是这么做的——或者推广真值集合（见下一节）。
 
-更弱的模糊逻辑的一阶对应物，也可照样从句法、语义两方面研究；综述见 Cintula, Horčík, & Noguera 2014。
+更弱的模糊逻辑的一阶对应物，也可照样从句法、语义两方面研究；综述见 Cintula, Horčík, & Noguera 2014[^cintula-2014]。
 
 ## 7 代数语义
 
 研究模糊逻辑的一大工具是代数语义。粗略说，就是把实数单位区间换成任意一个集合，把联结词解释成该集合上相应元数的运算。
 
-Francesc Esteva 与 Lluís Godo（2001）引入的 MTL-代数，是一个元组 ${\mathbf A} = \langle A, \&, \to, \wedge, \vee, \overline{0}, \overline{1} \rangle$，满足：
+Francesc Esteva 与 Lluís Godo（2001）[^esteva-2001] 引入的 MTL-代数，是一个元组 ${\mathbf A} = \langle A, \&, \to, \wedge, \vee, \overline{0}, \overline{1} \rangle$，满足：
 
 - $\langle A, \wedge, \vee, \overline{0}, \overline{1} \rangle$ 是有界格
 - $\langle A, \&, \overline{1} \rangle$ 是可交换幺半群
@@ -100,23 +100,23 @@ MTL-代数是上述基于 t-范数语义的推广，给 MTL 提供了可靠且�
 
 MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链的 **次直积**。这意味着该逻辑相对于 MTL-链语义也完全；证明它相对于基于 t-范数语义完全时，第一步靠的就是这一点（Jenei & Montagna 2002）[^jenei-2002]。
 
-代数语义是命题逻辑的通用工具。文献里研究的任何模糊逻辑——甚至不支持基于 t-范数语义的，如有穷值模糊逻辑或非交换 uninorm 的逻辑——都能找到相应的代数类，且可分解为链的次直积。有鉴于此，Libor Běhounek 与 Petr Cintula（2006）提议把模糊逻辑定义为相对于全序代数结构完全的逻辑。
+代数语义是命题逻辑的通用工具。文献里研究的任何模糊逻辑——甚至不支持基于 t-范数语义的，如有穷值模糊逻辑或非交换 uninorm 的逻辑——都能找到相应的代数类，且可分解为链的次直积。有鉴于此，Libor Běhounek 与 Petr Cintula（2006）[^běhounek-2006] 提议把模糊逻辑定义为相对于全序代数结构完全的逻辑。
 
 代数语义用在一阶模糊逻辑上相当直接：把上一节 $\ast$-结构的定义改一下，不用区间 [0,1] 和 $\ast$ 及其剩余，而用任意 MTL-链及其运算来算公式真值。给定一个命题模糊逻辑，这套推广语义就能给出递归可枚举的重言式集合，以及相应一阶希尔伯特式证明系统的强完全性定理。
 
 ## 8 证明论
 
-给模糊逻辑找分析型证明系统，一直是个不小的挑战。这类系统有些重要特征与 Gentzen 为经典逻辑、直觉主义逻辑建立的矢列演算相同，比如切消性和子公式性质（见“证明论的发展”词条）。Arnon Avron（1991）为 Gödel–Dummett 逻辑引入超矢列演算，是个重大突破。超矢列演算从矢列演算变来：推理规则指涉的是矢列的有限多重集，而不是单个矢列。在元层面，超矢列读作矢列的析取。这样一来，添加额外矢列（外弱化），或在同一个超矢列里把某矢列的多份拷贝换成一份（外收缩），都是可靠的。就 Gödel–Dummett 逻辑说，引入逻辑联结词的规则只需在 Gentzen 直觉主义矢列演算的规则上，给上下矢列各加侧超矢列。例如，右侧引入合取的矢列规则 $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ 其中 $\Gamma_1$ 与 $\Gamma_2$ 是有限公式序列，变成这样的超矢列规则：$$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ 其中 $H$、$H'$ 是侧超矢列，即以析取方式附加到所示矢列上的有限矢列多重集。光这一步并不改变相应逻辑（这里是直觉主义逻辑）。真正新增的关键结构规则，是所谓通信规则：$$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ 这里 $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ 是有限公式序列；$\Delta_1$、$\Delta_2$ 或是单个公式，或为空；$H$、$H'$ 仍是侧超矢列。为看清通信规则的作用，下面给出关键公理 $(\varphi \to \psi) \lor (\psi \to \varphi)$ 的推导，通信规则就用在初始（超）矢列的正下方：$$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
+给模糊逻辑找分析型证明系统，一直是个不小的挑战。这类系统有些重要特征与 Gentzen 为经典逻辑、直觉主义逻辑建立的矢列演算相同，比如切消性和子公式性质（见“证明论的发展”词条）。Arnon Avron（1991）[^avron-1991] 为 Gödel–Dummett 逻辑引入超矢列演算，是个重大突破。超矢列演算从矢列演算变来：推理规则指涉的是矢列的有限多重集，而不是单个矢列。在元层面，超矢列读作矢列的析取。这样一来，添加额外矢列（外弱化），或在同一个超矢列里把某矢列的多份拷贝换成一份（外收缩），都是可靠的。就 Gödel–Dummett 逻辑说，引入逻辑联结词的规则只需在 Gentzen 直觉主义矢列演算的规则上，给上下矢列各加侧超矢列。例如，右侧引入合取的矢列规则 $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ 其中 $\Gamma_1$ 与 $\Gamma_2$ 是有限公式序列，变成这样的超矢列规则：$$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ 其中 $H$、$H'$ 是侧超矢列，即以析取方式附加到所示矢列上的有限矢列多重集。光这一步并不改变相应逻辑（这里是直觉主义逻辑）。真正新增的关键结构规则，是所谓通信规则：$$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ 这里 $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ 是有限公式序列；$\Delta_1$、$\Delta_2$ 或是单个公式，或为空；$H$、$H'$ 仍是侧超矢列。为看清通信规则的作用，下面给出关键公理 $(\varphi \to \psi) \lor (\psi \to \varphi)$ 的推导，通信规则就用在初始（超）矢列的正下方：$$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
 
-要给基本模糊逻辑 MTL 配超矢列演算，就得把通信规则加到无收缩版直觉主义逻辑（结构逻辑里研究得很透的例子）的矢列系统上。其他模糊逻辑——尤其是 Łukasiewicz 逻辑——的分析型证明系统，则要更彻底地背离传统演算：超矢列里的矢列成分得按不同于直觉主义、经典矢列的方式来解释。此外还有标签证明系统和各种表列演算。研究现状的详细介绍，见 Metcalfe, Olivetti, & Gabbay 2008 以及 Metcalfe 2011。
+要给基本模糊逻辑 MTL 配超矢列演算，就得把通信规则加到无收缩版直觉主义逻辑（结构逻辑里研究得很透的例子）的矢列系统上。其他模糊逻辑——尤其是 Łukasiewicz 逻辑——的分析型证明系统，则要更彻底地背离传统演算：超矢列里的矢列成分得按不同于直觉主义、经典矢列的方式来解释。此外还有标签证明系统和各种表列演算。研究现状的详细介绍，见 Metcalfe, Olivetti, & Gabbay 2008[^metcalfe-2008] 以及 Metcalfe 2011[^metcalfe-2011]。
 
 ## 9 为真值函项性提供辩护的语义
 
 把中间真值以及相应逻辑联结词的含义，同含模糊、不精确概念的推理的基本模型挂起钩来，很有好处：不只是哲学上有意义，也能更好把握模糊逻辑的应用前景。为此已提出若干语义，替特定的真值函项联结词选择作辩护；这里只简述两个。
 
-投票语义的想法是：不同的行动者（投票者）可以融贯地对同一命题给出不同判断。把接受命题 *φ* 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 **怀疑水平**，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
+投票语义的想法是：不同的行动者（投票者）可以融贯地对同一命题给出不同判断。把接受命题 *φ* 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 **怀疑水平**，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998[^lawry-1998]。
 
-Robin Giles（1974）提出另一个有趣的推理模型，能为 Łukasiewicz 逻辑的全部命题联结词提供辩护。这是一场博弈：两个玩家（我和“你”）按下面这类规则，把逻辑复合的断言（公式）一步步化归为更简单的断言：
+Robin Giles（1974）[^giles-1974] 提出另一个有趣的推理模型，能为 Łukasiewicz 逻辑的全部命题联结词提供辩护。这是一场博弈：两个玩家（我和“你”）按下面这类规则，把逻辑复合的断言（公式）一步步化归为更简单的断言：
 
 - 我若断言 $\varphi \lor \psi$，就必须断言 *φ* 或 *ψ*。
 - 我若断言 $\varphi \land \psi$，就由你挑一个合取项，我相应地断言 *φ* 或 *ψ*。
@@ -131,9 +131,9 @@ Robin Giles（1974）提出另一个有趣的推理模型，能为 Łukasiewicz 
 
 每个原子公式都对应一个实验：它可能成功，也可能失败，还可能有分散性，即重复做会给出不同结果。每个实验、因而每个原子公式，都定一个固定的失败概率，叫风险值。玩家每有一个原子断言对应的实验失败，就要付给对方 $\$$1。若博弈从我的断言 $\varphi$ 开始、双方都理性行事，可以证明我的期望总损失，等于在 Łukasiewicz 逻辑的某个解释下 $\varphi$ 真值的倒数；这个解释把风险值的倒数指派给原子公式。特别地，公式在 Łukasiewicz 逻辑中有效，当且仅当无论风险值怎么指派，我都有策略保证博弈结束时期望总损失不大于 $0$。
 
-Christian Fermüller 与 George Metcalfe（2009）指出，Giles 博弈的最优策略，与 Łukasiewicz 逻辑超矢列系统中的无切证明相对应。Fermüller & Roschger 2014 又把该博弈推广，用来刻画各种（半）模糊量词，以便为“大约一半”“几乎所有”这类自然语言说法建模。
+Christian Fermüller 与 George Metcalfe（2009）[^fermüller-2009] 指出，Giles 博弈的最优策略，与 Łukasiewicz 逻辑超矢列系统中的无切证明相对应。Fermüller & Roschger 2014[^fermüller-2014] 又把该博弈推广，用来刻画各种（半）模糊量词，以便为“大约一半”“几乎所有”这类自然语言说法建模。
 
-Jeff Paris（2000）综述了支持各种真值函项选择的其他语义，尤其是重随机化语义（Hisdal 1988）[^hisdal-1988]、相似性语义（如 Ruspini 1991）[^ruspini-1991]、可接受性语义（Paris 1997）[^paris-1997] 与近似语义（Paris 2000）[^paris-2000]。Běhounek 2009 提出的基于资源的语义也值得一提。另外，除上文概述的 Giles 为 Łukasiewicz 逻辑设计的博弈，各种模糊逻辑还有不同形式的评估博弈；Fermüller 2015 对这类语义博弈作了综述。
+Jeff Paris（2000）[^paris-2000] 综述了支持各种真值函项选择的其他语义，尤其是重随机化语义（Hisdal 1988）[^hisdal-1988]、相似性语义（如 Ruspini 1991）[^ruspini-1991]、可接受性语义（Paris 1997）[^paris-1997] 与近似语义（Paris 2000）[^paris-2000]。Běhounek 2009[^běhounek-2009] 提出的基于资源的语义也值得一提。另外，除上文概述的 Giles 为 Łukasiewicz 逻辑设计的博弈，各种模糊逻辑还有不同形式的评估博弈；Fermüller 2015[^fermüller-2015] 对这类语义博弈作了综述。
 
 ## 10 模糊逻辑与模糊性
 
@@ -150,9 +150,9 @@ Jeff Paris（2000）综述了支持各种真值函项选择的其他语义，尤
 
 在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 **肯定前件** 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，*ε* 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 **肯定前件** 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，就越来越说不上所得的数“也是巨大的”了。
 
-Hájek & Novák 2003 另提出一种基于真值度的 **堆垛悖论** 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 **堆垛** 式推理。
+Hájek & Novák 2003[^hájek-2003-2] 另提出一种基于真值度的 **堆垛悖论** 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 **堆垛** 式推理。
 
-Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **接近原则** 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理堆垛悖论的进路，其标志之一正是与该原则相容。[^note-6]
+Nicholas J.J. Smith（2005、2008）[^smith-2005][^smith-2008] 主张，模糊性的本质就在所谓 **接近原则** 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理堆垛悖论的进路，其标志之一正是与该原则相容。[^note-6]
 
 ## 脚注
 
@@ -174,8 +174,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-[^supplementary-nd]: Supplementary document:
-[^bibliography-nd]: [Bibliography Sorted by Topic](logic-fuzzy.readings-by-topic.md)
+**补充文献：** [按主题排列的文献目录](logic-fuzzy.readings-by-topic.md)
 [^aguzzoli-2011]: Aguzzoli, Stefano, Simone Bova, and Brunella Gerla, 2011, “Free algebras and functional representation for fuzzy logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 713–791.
 [^avron-1991]: Avron, Arnon, 1991, “Hypersequents, Logical Consequence and Intermediate Logics for Concurrency”, *Annals of Mathematics and Artificial Intelligence*, 4(3–4): 225–248. doi:10.1007/BF01531058
 [^baaz-1996]: Baaz, Matthias, 1996, “Infinite-Valued Gödel Logic with 0–1-Projections and Relativisations”, in Hájek, Petr (ed.), *Gödel’96: Logical Foundations of Mathematics, Computer Science, and Physics*, (Lecture Notes in Logic, Volume 6), Brno: Springer, pages 23–33.
@@ -184,7 +183,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^badia-2021]: Badia, Guillermo and Carles Noguera, 2021, “Lindström theorems in graded model theory”, *Annals of Pure and Applied Logic*, 172(3): 102916. doi: 10.1016/j.apal.2020.102916
 [^badia-2021-2]: –––, 2021, “A General Omitting Types Theorem in Mathematical Fuzzy Logic”, *IEEE Transactions on Fuzzy Systems*, 29(6): 1386–1394. doi: 10.1109/TFUZZ.2020.2975146
 [^běhounek-2009]: Běhounek, Libor, 2009, “Fuzzy Logics Interpreted as Logics of Resources”, in Peliš, Michal (ed.), *The Logica Yearbook 2008*, London: College Publications, pages 9–21.
-[^běhounek-2014]: –––, 2014, “In Which Sense Is Fuzzy Logic a Logic For Vagueness?”, in Łukasiewicz, Thomas, Rafael Peñaloza, and Anni-Yasmin Turhan (eds.), *PRUV 2014: Logics for Reasoning About Preferences, Uncertainty, and Vagueness*, (CEUR Workshop Proceedings, Volume 1205), Dresden: CEUR.
+[^běhounek-2014]: –––, 2014, “In Which Sense Is Fuzzy Logic a Logic For Vagueness?”, in Thomas Lukasiewicz, Rafael Peñaloza, and Anni-Yasmin Turhan (eds.), *PRUV 2014: Logics for Reasoning About Preferences, Uncertainty, and Vagueness*, (CEUR Workshop Proceedings, Volume 1205), Dresden: CEUR.
 [^běhounek-2005]: Běhounek, Libor and Petr Cintula, 2005, “Fuzzy Class Theory”, *Fuzzy Sets and Systems*, 154(1): 34–55.
 [^běhounek-2006]: –––, 2006, “Fuzzy Logics as the Logics of Chains”, *Fuzzy Sets and Systems*, 157(5): 604–610.
 [^běhounek-2014-2]: Běhounek, Libor and Zuzana Haniková, 2014, “Set Theory and Arithmetic in Fuzzy Logic”, in Montagna, Franco (ed.), *Petr Hájek on Mathematical Fuzzy Logic*, (Outstanding Contributions to Logic, Volume 6), Cham: Springer, pages 63–89.
@@ -222,10 +221,10 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^esteva-2001-2]: Esteva, Francesc, Lluís Godo, and Franco Montagna, 2001, “The $L\Pi$ and $L\Pi\frac12$ Logics: Two Complete Fuzzy Systems Joining Łukasiewicz and Product Logics”, *Archive for Mathematical Logic*, 40(1): 39–67. doi:10.1007/s001530050173
 [^esteva-2003-2]: –––, 2003, “Axiomatization of Any Residuated Fuzzy Logic Defined by a Continuous T-norm”, in Taner Bilgiç, Bernard De Baets, and Okyay Kaynak (eds.), *Fuzzy Sets and Systems: IFSA 2003*, (Lecture Notes in Computer Science, Volume 2715), Berlin/Heidelberg: Springer, pages 172–179. doi:10.1007/3-540-44967-1_20
 [^fedel-2011]: Fedel, Martina, Hykel Hosni, and Franco Montagna, 2011, “A Logical Characterization of Coherence for Imprecise Probabilities”, *International Journal of Approximate Reasoning*, 52(8): 1147–1170, doi: 10.1016/j.ijar.2011.06.004.
-[^fermüller-2015]: Fermüller, Christian G., 2015, “Semantic Games for Fuzzy Logics”, Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), 2015, *Handbook of Mathematical Fuzzy Logic*, volume 3, (Studies in Logic, Volume 58), London: College Publications, pages 969–1028.
+[^fermüller-2015]: Fermüller, Christian G., 2015, “Semantic Games for Fuzzy Logics”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), 2015, *Handbook of Mathematical Fuzzy Logic*, volume 3, (Studies in Logic, Volume 58), London: College Publications, pages 969–1028.
 [^fermüller-2009]: Fermüller, Christian G. and George Metcalfe, 2009, “Giles’s Game and Proof Theory for Łukasiewicz Logic”, *Studia Logica*, 92(1): 27–61. doi:10.1007/s11225-009-9185-2
 [^fermüller-2014]: Fermüller, Christian G. and Christoph Roschger, 2014, “Randomized Game Semantics for Semi-Fuzzy Quantifiers”, *Logic Journal of the Interest Group of Pure and Applied Logic*, 22(3): 413–439. doi:10.1093/jigpal/jzt049
-[^flaminio-2011]: Flaminio, Tommaso, Lluís Godo, and Enrico Marchioni, 2011, “Reasoning About Uncertainty of Fuzzy Events: An Overview”, in Cintula, Petr, Christian G. Fermüller, Lluís Godo, and Petr Hájek(eds.), *Understanding Vagueness: Logical, Philosophical, and Linguistic Perspectives*, (Studies in Logic, Volume 36), London: College Publications, pages 367–400.
+[^flaminio-2011]: Flaminio, Tommaso, Lluís Godo, and Enrico Marchioni, 2011, “Reasoning About Uncertainty of Fuzzy Events: An Overview”, in Cintula, Petr, Christian G. Fermüller, Lluís Godo, and Petr Hájek (eds.), *Understanding Vagueness: Logical, Philosophical, and Linguistic Perspectives*, (Studies in Logic, Volume 36), London: College Publications, pages 367–400.
 [^flaminio-2015]: Flaminio, Tommaso and Tomáš Kroupa, 2015, “States of MV-Algebras”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 3, (Mathematical Logic and Foundations, Volume 58), London: College Publications, pages 1183–1236.
 [^font-2016]: Font, Josep Maria, 2016, *Abstract Algebraic Logic: An Introductory Textbook*, (Mathematical Logic and Foundations, Volume 60), London: College Publications.
 [^galatos-2007]: Galatos, Nikolaos, Peter Jipsen, Tomasz Kowalski, and Hiroakira Ono, 2007, *Residuated Lattices: An Algebraic Glimpse at Substructural Logics*, (Studies in Logic and the Foundations of Mathematics, Volume 151), Amsterdam: Elsevier.
@@ -233,7 +232,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^gehrke-1997]: Gehrke, Mai, Carol L. Walker, and Elbert A. Walker, 1997, “A Mathematical Setting for Fuzzy Logics”, *International Journal of Uncertainty, Fuzziness, and Knowledge-Based Systems*, 5(3): 223–238. doi:10.1142/S021848859700021X
 [^gerla-2001]: Gerla, Giangiacomo, 2001, *Fuzzy Logic—Mathematical Tool for Approximate Reasoning*, (Trends in Logic, Volume 11), New York: Kluwer and Plenum Press.
 [^giles-1974]: Giles, Robin, 1974, “A Non-Classical Logic for Physics”, *Studia Logica*, 33(4): 397–415. doi:10.1007/BF02123379
-[^gödel-1932]: Gödel, Kurt, 1932, “Zum intuitionistischen Aussagenkalkül”, *Anzeiger Akademie Der Wissenschaften Wien*, 69: 65–66.
+[^gödel-1932]: Gödel, Kurt, 1932, “Zum intuitionistischen Aussagenkalkül”, *Anzeiger der Akademie der Wissenschaften in Wien*, 69: 65–66.
 [^godo-2000]: Godo, Lluís, Francesc Esteva, and Petr Hájek, 2000, “Reasoning About Probability Using Fuzzy Logic”, *Neural Network World*, 10(5): 811–823.
 [^goguen-1969]: Goguen, Joseph A., 1969, “The Logic of Inexact Concepts”, *Synthese*, 19(3–4): 325–373.
 [^gottwald-2001]: Gottwald, Siegfried, 2001, *A Treatise On Many-Valued Logics*, (Studies in Logic and Computation, Volume 9), Baldock: Research Studies Press Ltd.
@@ -242,7 +241,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^hájek-2005]: –––, 2005, “Making Fuzzy Description Logic More General”, *Fuzzy Sets and Systems*, 154(1): 1–15.
 [^hájek-2006]: Hájek, Petr and Petr Cintula, 2006, “On Theories and Models in Fuzzy Predicate Logics”, *Journal of Symbolic Logic*, 71(3): 863–880.
 [^hájek-2003]: Hájek, Petr and Zuzana Haniková, 2003, “A Development of Set Theory in Fuzzy Logic”, in Fitting, Melvin and Ewa Orłowska (eds.), *Beyond Two: Theory and Applications of Multiple-Valued Logic*, (Studies in Fuzziness and Soft Computing, Volume 114), Heidelberg: Springer, pages 273–285.
-[^hájek-2011]: Hájek, Petr, Franco Montagna, Carles Noguera, 2011, “Arithmetical Complexity of First-Order Fuzzy Logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera(eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 853–908.
+[^hájek-2011]: Hájek, Petr, Franco Montagna, and Carles Noguera, 2011, “Arithmetical Complexity of First-Order Fuzzy Logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 853–908.
 [^hájek-2003-2]: Hájek, Petr and Vilém Novák, 2003, “The Sorites Paradox and Fuzzy Logic”, *International Journal of General Systems*, 32(4): 373–383. doi:10.1080/0308107031000152522
 [^hájek-2000]: Hájek, Petr, Jeff Paris, and John C. Shepherdson, 2000, “The Liar Paradox and Fuzzy Logic”, *Journal of Symbolic Logic*, 65(1): 339–346.
 [^haniková-2011]: Haniková, Zuzana, 2011, “Computational Complexity of Propositional Fuzzy Logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 793–851.
@@ -277,9 +276,9 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^novák-2004]: Novák, Vilém, 2004, “On Fuzzy Type Theory”, *Fuzzy Sets and Systems*, 149(2): 235–273.
 [^novák-2015]: –––, 2015, “Fuzzy Logic with Evaluated Syntax”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 3, (Mathematical Logic and Foundations, Volume 58), London: College Publications, pages 1063–1104.
 [^novák-2000]: Novák, Vilém, Irina Perfilieva, and Jiří Močkoř, 2000, *Mathematical Principles of Fuzzy Logic*, Dordrecht: Kluwer.
-[^nguyen-2005]: Nguyen, Hung T. and Elbert A. Walker, 2005, *A First Course in Fuzzy Logic* (third edition), Chapman and Hall/CRC.
+[^nguyen-2005]: Nguyen, Hung T. and Elbert A. Walker, 2005, *A First Course in Fuzzy Logic* (third edition), Boca Raton: Chapman and Hall/CRC.
 [^paris-1997]: Paris, Jeff, 1997, “A Semantics for Fuzzy Logic”, *Soft Computing*, 1(3): 143–147. doi:10.1007/s005000050015
-[^paris-2000]: –––, 2000, “Semantics for Fuzzy Logic Supporting Truth Functionality”, in Vilém Novák and Irina Perfilieva (eds.), *Discovering the World with Fuzzy Logic*, (Studies in Fuzziness and Soft Computing. Volume 57), Heidelberg: Springer, pages 82–104.
+[^paris-2000]: –––, 2000, “Semantics for Fuzzy Logic Supporting Truth Functionality”, in Vilém Novák and Irina Perfilieva (eds.), *Discovering the World with Fuzzy Logic*, (Studies in Fuzziness and Soft Computing, Volume 57), Heidelberg: Springer, pages 82–104.
 [^pavelka-1979]: Pavelka, Jan, 1979, “On Fuzzy Logic I, II, and III”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 25: 45–52, 119–134, and 447–464.
 [^ragaz-1981]: Ragaz, Matthias Emil, 1981, *Arithmetische Klassifikation von Formelmengen der unendlichwertigen Logik* (PhD thesis), Swiss Federal Institute of Technology, Zürich. doi:10.3929/ethz-a-000226207
 [^rodríguez-2021]: Rodríguez, Ricardo Oscar and Amanda Vidal, 2021, “Axiomatization of Crisp Gödel Modal Logic”, *Studia Logica*, 109(2): 367–395. doi: 10.1007/s11225-020-09910-5
@@ -291,7 +290,7 @@ Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **�
 [^smith-2015]: –––, 2015, “Fuzzy Logics in Theories of Vagueness”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 3, (Mathematical Logic and Foundations, Volume 58), London: College Publications, pages 1237–1281.
 [^straccia-1998]: Straccia, Umberto, 1998, “A Fuzzy Description Logic”, in Mostow, Jack and Chuck Rich (eds.), *Proceedings of the 15th National Conference on Artificial Intelligence (AAAI 1998)*, Menlo Park: AAAI Press, pages 594–599.
 [^teheux-2016]: Teheux, Bruno, 2016, “Modal definability based on Łukasiewicz validity relations”, *Studia Logica*, 104(2): 343–363. doi: 10.1007/s11225-015-9643-y
-[^takeuti-1984]: Takeuti, Gaisi and Satako Titani, 1984, “Intuitionistic Fuzzy Logic and Intuitionistic Fuzzy Set Theory”, *Journal of Symbolic Logic*, 49(3): 851–866.
+[^takeuti-1984]: Takeuti, Gaisi and Satoko Titani, 1984, “Intuitionistic Fuzzy Logic and Intuitionistic Fuzzy Set Theory”, *Journal of Symbolic Logic*, 49(3): 851–866.
 [^takeuti-1992]: –––, 1992, “Fuzzy Logic and Fuzzy Set Theory”, *Archive for Mathematical Logic*, 32(1): 1–32.
 [^vetterlein-2015]: Vetterlein, Thomas, 2015, “Algebraic Semantics: The Structure of Residuated Chains”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 3, (Mathematical Logic and Foundations, Volume 58), London: College Publications, pages 929–967.
 [^vidal-2021]: Vidal, Amanda, 2021, “On transitive modal many-valued logics”, *Fuzzy Sets and Systems*, 407: 97–114. doi: 10.1016/j.fss.2020.01.011

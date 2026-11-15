@@ -437,3 +437,12 @@
 | gersonides | sirat-2003 `Les methodes`、touati-1973 `Les Editions` | 补 é／É | 重音缺失（①） |
 | gersonides | glasner-2015 `Glasner, Ruth. 2015` | `Glasner, Ruth, 2015` | 标点（①） |
 | gersonides | 正文 `(See North 1986, p. 25)`（书目仅 north-1989） | `North 1989` | 正文书目矛盾（②） |
+| logic-fuzzy | běhounek-2014 编者名 `&#321;ukasiewicz, Thomas` | `Lukasiewicz, Thomas`（带 Ł 误置，编者为奥地利学者 Thomas Lukasiewicz） | 拼写（①） |
+| logic-fuzzy | flaminio-2011 `Petr Hájek(eds.)`、hájek-2011 `Carles Noguera(eds.)` | 补空格 | 体例（①） |
+| logic-fuzzy | hájek-2011 作者列 `Hájek, Petr, Franco Montagna, Carles Noguera` | 末作者前补 and | 体例（①） |
+| logic-fuzzy | takeuti-1984 `Satako Titani` | `Satoko` | 拼写（①） |
+| logic-fuzzy | nguyen-2005 缺出版地 | 补 `Boca Raton:` | 缺出版地（①） |
+| logic-fuzzy | gödel-1932 `Anzeiger Akademie Der Wissenschaften Wien` | `Anzeiger der Akademie der Wissenschaften in Wien` | 期刊名体例（①） |
+| logic-fuzzy | paris-2000 `(Studies in Fuzziness and Soft Computing. Volume 57)` | 逗号 | 标点（①） |
+| logic-fuzzy | fermüller-2015 缺 `in` | 补 | 体例（①） |
+| logic-fuzzy | zh 端 `[^supplementary-nd]`／`[^bibliography-nd]` 英文残句 | 改节首说明行「**补充文献：**」 | ①④ |
