@@ -1531,15 +1531,15 @@
       "slug": "xenocrates",
       "path": "en/xenocrates/index.html",
       "upstream_sha256": "55c476502fa10412f85b5fb498ff93c61006477f6626b38b139cb970f567cc87",
-      "local_sha256": "fdf2d02d94abb1afbfc8e68d6105a50ce0868d392975170c0b975c307621d7b0",
+      "local_sha256": "f5cd2ccb037d1740e07c709cb3eba9a004cf8e891bcf6c99a0c159ea6de104cd",
       "bytes": {
         "upstream": 61932,
         "local": 61536
       },
-      "commit": "f8a6dd5f49877743b3e35246b487a66de68f1cde",
-      "subject": "en 勘误：xenocrates 研究文献节整条重复著录删一（ADR-0038 ③类）；015 偿还已修书目斜体拼写标点（①②）",
+      "commit": "36be8336a7b18143260a0d5389ecfce490889c28",
+      "subject": "en 勘误：xenocrates 正文 Calchi 2020→2023（②类）；015 轮书目斜体拼写标点（①②）；回炉轮研究文献节重复著录删一（③类）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
-      "reason": "累计两轮：015 偿还书目斜体拼写标点（ADR-0038 ①②）；2026-11-15 回炉 s2.5 增项删除研究文献节整条重复著录（③类结构错位：Frammenti 1982/2012 已在原始文献节分立两条）",
+      "reason": "累计三轮：015 偿还书目斜体拼写标点（①②）；回炉 s2.5 增项删研究文献节整条重复著录（③类结构错位）；回炉 r1 补正文 Calchi 2020→2023（②类同页自相矛盾）",
       "registered_at": "2026-11-15T03:36:26Z"
     },
     {
