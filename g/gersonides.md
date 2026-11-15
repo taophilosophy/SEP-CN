@@ -6,7 +6,7 @@
 
 ## 1 导论
 
-Feldman 新近完成《上帝之战》的英译，他在译本导言中提出：吉尔松尼德的意义，在于他强调“犹太教中的宗教理性主义”。在 Feldman 笔下，这个人“认真对待自己拥有理性这一事实，相信这种能力为上帝所赐，并力图用这件工具去理解上帝”（*Wars*, p. 52）。吉尔松尼德力图证明：哲学与托拉、理性与启示，其范围完全重合。他是一位哲学乐观主义者，相信理性足以获得一切重要而本质的真理。因此 Feldman 称他为“宗教中人类理性最有力、最一贯的捍卫者”（*Wars*, p. 53）。
+Feldman 新近完成《上帝之战》的英译，他在译本导言中提出：吉尔松尼德的意义，在于他强调“犹太教中的宗教理性主义”。在 Feldman 笔下，这个人“认真对待自己拥有理性这一事实，相信这种能力为上帝所赐，并力图用这件工具去理解上帝”（*Wars*, p. 52）[^wars-1984]。吉尔松尼德力图证明：哲学与托拉、理性与启示，其范围完全重合。他是一位哲学乐观主义者，相信理性足以获得一切重要而本质的真理。因此 Feldman 称他为“宗教中人类理性最有力、最一贯的捍卫者”（*Wars*, p. 53）。
 
 这种信任同样见于吉尔松尼德为《上帝之战》所写的导言。他在其中维护理性的优先地位，并把下述立场归给迈蒙尼德：“凡是理性判定为真的，我们都必须相信。托拉的字面含义若与理性相左，就应当按理性的要求去解释那些段落”（*Wars*, p. 98）。在他看来，理性与托拉不可能彼此对立：“理性若促使人肯定某些与经文（Scripture）字面含义不相容的学说，托拉并不禁止我们就此类问题说出真相。这是因为，理性并不违背对托拉的真解”（*ibid.*）。理性由此成为判别真理的标准。
 
@@ -22,7 +22,7 @@ Feldman 新近完成《上帝之战》的英译，他在译本导言中提出：
 
 Glasner 在晚近一部研究吉尔松尼德科学的著作中指出，吉尔松尼德“是中世纪西方最具创造力、最富胆识的人物之一”（Glasner 2015, p. 13）[^glasner-2015]。他与前辈的不同之处，在于他既倚重数学、又精通数学，并且相信只要仪器精良，观察就能准确。正因如此——经验观察为根，数学为辅——他相信自己握有工具，能在别人失败的地方成功。他总是在解决了天文学难题之后，才把结论用于神学宇宙论。下文将会说明，他的神学与天文学彼此缠绕极深。
 
-这一实在论立场，是在考察 al-Bitruji 的天文学方案时提出的。吉尔松尼德的论点是：“任何论证都无法取消感官所感知的实在；真意见必须追随实在，实在却不必迁就意见”（Goldstein 1974, p. 24）[^goldstein-1974]。他把自身观察视为检验体系的最终标准，对托勒密的态度便是明证。他强调经验观察的重要性不可低估，并且看重自己的观察甚于他人。“从托勒密至今，我们在前辈中找不到任何有助于这项研究的观察，唯有自己的观察例外”（*Wars*, V.1.3, p. 27）——他这样描述自己收集天文数据的方法。他的观察常与托勒密不合，遇到这种情况，他总是明说更相信自己的结果。他逐一列出自己依照托勒密计算时发现的许多不准确之处。比如考察行星位置时，他遭遇“混乱与失序”，于是否定了托勒密的若干条行星原则（Goldstein 1988, p. 386）。但他也告诫同行：必须极其勤勉、反复推敲之后，才可以背离托勒密。十四世纪，布里丹（John Buridan）与吉尔松尼德都迈出了通向惯性原理的最初步伐。用 Touati 的话说，吉尔松尼德是第一个“对惯性原理有所预感”的人（see Touati 1973, pp. 103, 311）[^touati-1973]。Glasner 赞同这一判断，认为“吉尔松尼德对惯性运动的理解虽属初步，尚未正确，却很有洞见”。他清楚这一点的分量，并借它为一个新的物理学奠基，以替代亚里士多德的物理学（see Glasner 2015, p 36）[^glasner-2015]。他没有像布里丹那样求助于冲力说，事实证明这反而成了优势。
+这一实在论立场，是在考察 al-Bitruji 的天文学方案时提出的。吉尔松尼德的论点是：“任何论证都无法取消感官所感知的实在；真意见必须追随实在，实在却不必迁就意见”（Goldstein 1974, p. 24）[^goldstein-1974]。他把自身观察视为检验体系的最终标准，对托勒密的态度便是明证。他强调经验观察的重要性不可低估，并且看重自己的观察甚于他人。“从托勒密至今，我们在前辈中找不到任何有助于这项研究的观察，唯有自己的观察例外”（*Wars*, V.1.3, p. 27）——他这样描述自己收集天文数据的方法。他的观察常与托勒密不合，遇到这种情况，他总是明说更相信自己的结果。他逐一列出自己依照托勒密计算时发现的许多不准确之处。比如考察行星位置时，他遭遇“混乱与失序”，于是否定了托勒密的若干条行星原则（Goldstein 1988, p. 386）。但他也告诫同行：必须极其勤勉、反复推敲之后，才可以背离托勒密。十四世纪，布里丹（John Buridan）与吉尔松尼德都迈出了通向惯性原理的最初步伐。用 Touati 的话说，吉尔松尼德是第一个“对惯性原理有所预感”的人（Touati 1973，第 103、311 页）[^touati-1973]。Glasner 赞同这一判断，认为“吉尔松尼德对惯性运动的理解虽属初步，尚未正确，却很有洞见”。他清楚这一点的分量，并借它为一个新的物理学奠基，以替代亚里士多德的物理学（Glasner 2015，第 36 页）[^glasner-2015]。他没有像布里丹那样求助于冲力说，事实证明这反而成了优势。
 
 吉尔松尼德的科学著作涵盖数学与天文学。《计算者之书》（*Sefer Ma’aseh Hoshev*，*The Work of a Counter*，1321）讨论算术运算，并用符号记法表示数值变量。他的主要科学贡献在天文学：著作生前已为人所知，也影响了后世的天文学家。天文学文字主要收在《上帝之战》第 5 卷第 1 部分：他用了 136 章评述并批评当时的天文学说，编制天文表，还介绍自己发明的一件仪器。这仪器他称作 *Megalle ‘amuqqot*（《揭示深奥者》），基督教同时代人则叫它 *Bacullus Jacobi*（雅各棒），用来测量恒星在地平线以上的高度。《上帝之战》中的天文学部分，在他生前已译成拉丁文。月球上有一座环形山就叫“拉比列维”（*Rabbi Levi*），是以他命名的。
 
@@ -38,7 +38,7 @@ Isaac Husik 指出，吉尔松尼德“对修辞的藻饰和辞格毫无兴趣�
 
 《上帝之战》的导言列出他要考察的六个问题：理性灵魂是否不朽？预言的本性如何？上帝是否知道个别事物？神意是否及于个体？天体的本性是什么？宇宙是永恒的，还是被造的？六个问题各占一卷。他力图把传统犹太信仰与亚里士多德哲学中他认为最有力的部分调和起来。综合两套体系是他的最终目标，但得胜的往往是哲学，神学只好让步。
 
-吉尔松尼德对前辈天文学家的态度，与他对自己理性的信心，都体现在创世论中。迈蒙尼德竭力主张，创世这题目超出理性证明的范围。吉尔松尼德却用《上帝之战》第 6 卷的许多章去证明：世界出于永恒无形的质料而被造，这一柏拉图式理论完全可以由理性证明。宇宙究竟是被造的，还是自永恒即已存在？迈蒙尼德对此说得含混，学者们至今仍在争论他最终持亚里士多德式、柏拉图式还是经文式的创世说。吉尔松尼德的立场则一清二楚：柏拉图式。他论证世界是在时间之外由一位自由意愿的行动者创造的，接着必须决定：世界是无中创世（*ex nihilo*），还是出自先在的质料？既然无中创世与物理实在不相容，他便采用了一个取自柏拉图《蒂迈欧篇》的模型。他把《创世记》开篇读作指涉两类质料。*Geshem* 是宇宙由之造成的原初质料：它不能运动也不能静止，以否定为特征，惰性而混沌，并被等同于《创世记》里的洪荒之水。*Homer* 则是第一质料，即亚里士多德意义上始终与形式相合的基底；它自身含有接受形式的潜能，却不是本体论上独立的实体。吉尔松尼德把它比作黑暗：黑暗是光的缺失，这质料则是形式与形状的缺失。Glasner（2015）与 Freudenthal（1987）都指出，“不保持自身形状的物体”这一观念有几项重要优点。其一，天球之间不断变化的空间由这种不保形的物体填充，传递便可由接触来解释。其二，就他的创世论而言，这种无定形的物体是先在者（thou va-vohu）的残余，上帝用它塑造了世界。据此他论证：世界出于永恒先在的质料而被造。
+吉尔松尼德对前辈天文学家的态度，与他对自己理性的信心，都体现在创世论中。迈蒙尼德竭力主张，创世这题目超出理性证明的范围。吉尔松尼德却用《上帝之战》第 6 卷的许多章去证明：世界出于永恒无形的质料而被造，这一柏拉图式理论完全可以由理性证明。宇宙究竟是被造的，还是自永恒即已存在？迈蒙尼德对此说得含混，学者们至今仍在争论他最终持亚里士多德式、柏拉图式还是经文式的创世说。吉尔松尼德的立场则一清二楚：柏拉图式。他论证世界是在时间之外由一位自由意愿的行动者创造的，接着必须决定：世界是无中创世（*ex nihilo*），还是出自先在的质料？既然无中创世与物理实在不相容，他便采用了一个取自柏拉图《蒂迈欧篇》的模型。他把《创世记》开篇读作指涉两类质料。*Geshem* 是宇宙由之造成的原初质料：它不能运动也不能静止，以否定为特征，惰性而混沌，并被等同于《创世记》里的洪荒之水。*Homer* 则是第一质料，即亚里士多德意义上始终与形式相合的基底；它自身含有接受形式的潜能，却不是本体论上独立的实体。吉尔松尼德把它比作黑暗：黑暗是光的缺失，这质料则是形式与形状的缺失。Glasner（2015）[^glasner-2015] 与 Freudenthal（1987）[^freudenthal-1987]都指出，“不保持自身形状的物体”这一观念有几项重要优点。其一，天球之间不断变化的空间由这种不保形的物体填充，传递便可由接触来解释。其二，就他的创世论而言，这种无定形的物体是先在者（thou va-vohu）的残余，上帝用它塑造了世界。据此他论证：世界出于永恒先在的质料而被造。
 
 吉尔松尼德的宇宙论为《上帝之战》其余各卷搭好了背景。前辈迈蒙尼德主张，从月下天球的性质推不出月上世界的性质。吉尔松尼德不承认这一区分有什么形而上学分量：两个天球都含有物质元素，而我们关于创世的知识以天文学为据；天文学作为一门人类科学，与物理学并无根本差别。在他看来，只有“既通数学、又治自然哲学的人”才能把天文学当作科学来做，“因为这两门学问都能帮他，他可从中取用完善工作所需的一切”（*Wars*, V.1.1, p. 23）。天文学的最终功能，是理解上帝。它不仅题材高卓而有教益，对其它科学也有用。研究诸天球与星辰，人便不由自主地被引向对上帝更充分的认识与领会。全书其余部分，正是以天文学为根基。
 
@@ -64,11 +64,11 @@ Isaac Husik 指出，吉尔松尼德“对修辞的藻饰和辞格毫无兴趣�
 
 只要粗读一遍吉尔松尼德的主要哲学著作，就能看到他对占星术毫不掩饰的“信仰”。他的星辰决定论在两个语境中展开：《上帝之战》第 2 卷把占星术的母题织入神意与预言的讨论，第 5 卷则让占星术在其宇宙论思辨中占据中心。他最关心的是：星辰与行星究竟在多大程度上影响一般的人类事件，尤其是那些涉及人的选择的行动。判命占星术的假定是：整个自然世界由诸天与天体的运动所支配、所引导；人作为自然生成、生活在自然世界中的动物，自然也处在它们的统治之下。
 
-Langermann 强调，吉尔松尼德看重的正是占星术的目的论性格：最大长处在于能“为观察到的种种星辰运动提供目的论解释”（*Wars*, Vol III, p. 506）。这种目的论见于 V.2 第 7–9 章。吉尔松尼德先列出天体带来的 27 个难题，然后提出：只有从占星术着眼才能给出满意的回答，唯有占星术能解释两个领域之间的关联。值得注意的是，在天体的终极目的上，他与迈蒙尼德不合。迈蒙尼德认为，较大的实体即诸天，不可能为月下宇宙而存在。吉尔松尼德不以为然：较高贵者为较卑下者存在，并无不妥。他论证星辰是为月下世界的事物而存在的（*Wars*, V.2.3, p. 194）。更明白地说，天体是为月下存在的利益而设，它们保证地上生命延续不绝。
+Langermann 强调[^langermann-1999]，吉尔松尼德看重的正是占星术的目的论性格：最大长处在于能“为观察到的种种星辰运动提供目的论解释”（*Wars*, Vol III, p. 506）[^wars-1984]。这种目的论见于 V.2 第 7–9 章。吉尔松尼德先列出天体带来的 27 个难题，然后提出：只有从占星术着眼才能给出满意的回答，唯有占星术能解释两个领域之间的关联。值得注意的是，在天体的终极目的上，他与迈蒙尼德不合。迈蒙尼德认为，较大的实体即诸天，不可能为月下宇宙而存在。吉尔松尼德不以为然：较高贵者为较卑下者存在，并无不妥。他论证星辰是为月下世界的事物而存在的（*Wars*, V.2.3, p. 194）。更明白地说，天体是为月下存在的利益而设，它们保证地上生命延续不绝。
 
 这套目的论在《上帝之战》第 2 卷里说得更细。吉尔松尼德要说明神圣知识怎样运作，以及上帝对未来偶然后件的预知在多大程度上影响人的选择。他的主要论点是：神圣知识在很大程度上取决于对天体的知识，而天体又“被系统地引向对他［人］的保全与引导，使他的一切活动与思想都由它们安排”（*Wars*, II.2, p. 33）。为支持这种目的论宇宙论，他提出一整套论证，说明天体自有其目的。由此他断定：着眼于宇宙的目的论结构，我们便能理解天体何以如此运行。这种目的论表现为宇宙自有法则、秩序与正当，其中必有一个理智在安排万物本性：“你看，诸天球的领域以尽可能最好的方式为月下世界作准备”（*Wars*, V.2.5, p. 137）。
 
-如前所述，天体与地上事件之间有联系，这几乎人人承认，只是各人对这种联系的性质看法不一。吉尔松尼德同样得说明：天体与地上事件之间究竟是哪一类关系。他先阐明星辰天体的安排力量，继而在《上帝之战》V.3 中描述诸独立理智及它们所推动的天球。星辰天体的主要特征是发光性（*nitzutz*），这发光性影响它们的作用与效果（*Wars*, V.2.3, p. 137）。远距离作用如何可能，吉尔松尼德深知其难。太阳便是一个范例：一旦弄明白加热活动怎样从太阳抵达地球，也就能明白其他星辰的特定活动怎样抵达月下领域。他把动力因解释为星辰的光或辐射，于是效果之强弱便有了着落。如 Langermann 所指出的，这一说明为把占星因果引进自然哲学打下了基础。
+如前所述，天体与地上事件之间有联系，这几乎人人承认，只是各人对这种联系的性质看法不一。吉尔松尼德同样得说明：天体与地上事件之间究竟是哪一类关系。他先阐明星辰天体的安排力量，继而在《上帝之战》V.3 中描述诸独立理智及它们所推动的天球。星辰天体的主要特征是发光性（*nitzutz*），这发光性影响它们的作用与效果（*Wars*, V.2.3, p. 137）[^wars-1984]。远距离作用如何可能，吉尔松尼德深知其难。太阳便是一个范例：一旦弄明白加热活动怎样从太阳抵达地球，也就能明白其他星辰的特定活动怎样抵达月下领域。他把动力因解释为星辰的光或辐射，于是效果之强弱便有了着落。如 Langermann 所指出的，这一说明为把占星因果引进自然哲学打下了基础。
 
 《上帝之战》V.2.8 列出六条支配他整个宇宙论方案的占星原则，可概述如下。其一，每个星辰天体各有其独特的影响。其二，星辰影响取决于它在黄道（*galgal hamazalot*）中的位置。其三，一颗星在黄道某处停留越久，因发光性强，效果越大。其四，星辰影响取决于它向北或向南的偏斜：居中时效果最强，太阳即是明证——它在北回归线时比在南回归线时更热。其五，星的辐射或发光性越强，影响越大。其六，星离地球越近，影响越强（*Wars*, V.2.8, p. 207–8）。这些原则同时也是他总体天文学的支柱。
 
@@ -78,17 +78,17 @@ Langermann 强调，吉尔松尼德看重的正是占星术的目的论性格：
 
 错误的最后一个来源，是人的自由意志。如上文所见，我们的理智与选择“有力量推动我们，背离诸天体的决定”（*Wars*, II.2, p. 34）。他承认人的选择有时能违逆天体，但这种干预很少见；在吉尔松尼德的本体论里，真正的偶然性确实是稀有之事。他提出一个论证，说明受理性引导的选择如何能颠覆诸天体，尽管天体总体上安排着我们的生活。诸天体安排人事，或凭其在诸天中位置的不同，或凭天体彼此的差异。但星辰对不同个体的作用方式不同；对同一个人，在不同时间的作用也不同；两个以上的天体还可以共同作用于一人，生出数种彼此相抵的影响——经院哲学的成语正呼应此意：“*sapiens dominabitur astris*［智者将受星辰支配］”。吉尔松尼德指出，人能够违逆这些效果：上帝赋予人“一种理智能力（*sekhel ba’al takhlit*），使人既能逆诸天体所安排而行，也能尽可能矫正降临于我们的［星辰所定］厄运”（*Wars*, II.2, p. 35）。不过他保证：凡偶然发生之事，都“依这类确定与秩序得到决定与安排”（*Wars*, II.2, p. 34）。吉尔松尼德甚至比柏拉图《理想国》第 4 卷的等级安排更进一步，认为社会的终极完善与秩序要归功于占星术的影响。
 
-天体运动的可通约性带来另一个难题，牵涉个体的独特性与永恒回归之说。吉尔松尼德十三世纪的直接前辈谢姆-托夫·伊本·法拉克拉与犹大·本·所罗门·哈科恩，都曾在亚里士多德《论动物生成》的背景下讨论此事。亚里士多德在那部书里把动物的寿命、妊娠期同太阳与月亮的运转联系起来（*Gen. Anim.*, IV.10, 777b17–778a10）；太阳的运转不仅计量时间，也造出生长与衰败交替的周期。末世论的预测由此系于天体的循环。就我们所知，吉尔松尼德并未涉足末世论与千禧年的预言。他存世的占星术文字只有一份，即针对 1345 年 3 月土星与木星会合的星占预言；而他本人 1344 年就去世了，早于所论事件一年。Goldstein 证明，这次会合早由伊本·以斯拉预言，亚伯拉罕·巴尔·希亚又在《揭示之卷》（*Megillat ha-Megalleh*）中重述，并把它与一个据说 1358 年应验的弥赛亚式日期相联（Goldstein 1990, p. 3）[^goldstein-1990]。列维·本·亚伯拉罕·本·哈伊姆把这次会合编入他的百科全书《优美之冠》（*Livyat Hen*），可见犹太社群已察觉其弥赛亚意义。据 North，伊本·以斯拉是最早记录建立占星宫位七法之一的人；吉尔松尼德为 1345 年的预言推算占星宫位，用的正是伊本·以斯拉之法（see North 1986, p. 25）。Goldstein 推测，随着 1345 年逼近，教廷对这次会合也许同样起了兴趣。可以确定的是，吉尔松尼德 1344 年去世后不久，他的文本便在其兄弟协助下译成了拉丁文。
+天体运动的可通约性带来另一个难题，牵涉个体的独特性与永恒回归之说。吉尔松尼德十三世纪的直接前辈谢姆-托夫·伊本·法拉克拉与犹大·本·所罗门·哈科恩，都曾在亚里士多德《论动物生成》的背景下讨论此事。亚里士多德在那部书里把动物的寿命、妊娠期同太阳与月亮的运转联系起来（*Gen. Anim.*, IV.10, 777b17–778a10）；太阳的运转不仅计量时间，也造出生长与衰败交替的周期。末世论的预测由此系于天体的循环。就我们所知，吉尔松尼德并未涉足末世论与千禧年的预言。他存世的占星术文字只有一份，即针对 1345 年 3 月土星与木星会合的星占预言；而他本人 1344 年就去世了，早于所论事件一年。Goldstein 证明，这次会合早由伊本·以斯拉预言，亚伯拉罕·巴尔·希亚又在《揭示之卷》（*Megillat ha-Megalleh*）中重述，并把它与一个据说 1358 年应验的弥赛亚式日期相联（Goldstein 1990, p. 3）[^goldstein-1990]。列维·本·亚伯拉罕·本·哈伊姆把这次会合编入他的百科全书《优美之冠》（*Livyat Hen*），可见犹太社群已察觉其弥赛亚意义。据 North，伊本·以斯拉是最早记录建立占星宫位七法之一的人；吉尔松尼德为 1345 年的预言推算占星宫位，用的正是伊本·以斯拉之法（North 1989，第 25 页）[^north-1989]。Goldstein 推测，随着 1345 年逼近，教廷对这次会合也许同样起了兴趣。可以确定的是，吉尔松尼德 1344 年去世后不久，他的文本便在其兄弟协助下译成了拉丁文。
 
 在这份预言里，吉尔松尼德说将有“伴随众多战争、异象与神迹的非常之恶”；“疾病与死亡，而且恶将持续很久”；“大多数有人烟之地失去善、快乐与幸福”；“大量流血，敌意、嫉妒、争斗、饥荒、百病、干旱与歉收日增”（Goldstein 1990）[^goldstein-1990]。1347 年降临欧洲的黑死病，就此得到了一大批占星学上的凭证。1348 年呈交国王的巴黎大学医学系官方声明，报告 1345 年 3 月 20 日土星与木星会合于宝瓶宫，被看作散布“死亡与灾难”。1345 年那次会合何以同黑死病缠在一起，也就不难理解了。
 
 ## 6 伦理观点
 
-吉尔松尼德并不以伦理学知名。如我们所见，他的哲学著作大多处理自然科学的问题；不过在圣经注释里，他关注了不少伦理问题。例如《雅歌》注释中就有关于人类幸福的长篇讨论。他在书中说，由于人固有的弱点和认识论上的缺陷，大多数人达不到幸福：“只有极少数人能得到其中一大份。”（Gersonides, *Songs of Songs*, 6）对这批大众而言，托拉及其诫命就是通向道德完善的最好指引。可是，若不朽以理智知识为前提，而迈蒙尼德、吉尔松尼德这样的哲学家又说，许多人在身心上根本无力踏上如此严格、如此哲学化的研习之路。这是否意味着，并非人人皆可达到理智完善？这条路对所有人是否相同、是否敞开？通向终极幸福的路只有一条，还是有许多条？
+吉尔松尼德并不以伦理学知名。如我们所见，他的哲学著作大多处理自然科学的问题；不过在圣经注释里，他关注了不少伦理问题。例如《雅歌》注释中就有关于人类幸福的长篇讨论。他在书中说，由于人固有的弱点和认识论上的缺陷，大多数人达不到幸福：“只有极少数人能得到其中一大份。”（Gersonides, *Songs of Songs*, 6）[^commentary-1998]对这批大众而言，托拉及其诫命就是通向道德完善的最好指引。可是，若不朽以理智知识为前提，而迈蒙尼德、吉尔松尼德这样的哲学家又说，许多人在身心上根本无力踏上如此严格、如此哲学化的研习之路。这是否意味着，并非人人皆可达到理智完善？这条路对所有人是否相同、是否敞开？通向终极幸福的路只有一条，还是有许多条？
 
-Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：“拉尔巴格圣经注释的核心用意之一，是帮助读者通过对真理的认识获得永恒的理智幸福。”（Horwitz 2006, p. 124）[^horwitz-2006] 这一点在《雅歌》注释中最为明显。《雅歌》表面上写一位牧人对少女的爱慕与渴求；历代注释者则从中读出上帝与以色列民族关系的寓意。吉尔松尼德给出的却是哲学读法，其中安排了两组附属对话：一是人的质料理智与能动理智之间，二是灵魂诸能力与质料理智之间。他在该书导言里点明这些讨论的用意，先立前提：“人的终极幸福，在于尽其所能地认知并认识上帝。”（*Song of Songs*, 5）这样的知识来自对自然宇宙中现存事物的观察，也就是通过上帝所创造、所推动的存在者而获得。所以，认识上帝以认识自然秩序为前提。
+Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：“拉尔巴格圣经注释的核心用意之一，是帮助读者通过对真理的认识获得永恒的理智幸福。”（Horwitz 2006, p. 124）[^horwitz-2006] 这一点在《雅歌》注释中最为明显。《雅歌》表面上写一位牧人对少女的爱慕与渴求；历代注释者则从中读出上帝与以色列民族关系的寓意。吉尔松尼德给出的却是哲学读法，其中安排了两组附属对话：一是人的质料理智与能动理智之间，二是灵魂诸能力与质料理智之间。他在该书导言里点明这些讨论的用意，先立前提：“人的终极幸福，在于尽其所能地认知并认识上帝。”（*Song of Songs*, 5）[^commentary-1998]这样的知识来自对自然宇宙中现存事物的观察，也就是通过上帝所创造、所推动的存在者而获得。所以，认识上帝以认识自然秩序为前提。
 
-接着，吉尔松尼德把《雅歌》中的启蒙层次层层展开：数学、物理学、天文学，最后到形而上学。他由此强调自然科学、尤其是物理学，是形而上学的预备。他也说得很清楚：物理学建立在由经文而来的道德知识之上，“凡未在托拉与思辨的视角下牢牢确立正确观点的人，都做不了这门学问”（Gersonides *Song of Songs*, 11）。随后他逐一展开书中的寓意与象征，而这些全都指向同一个目标：经由能动理智与上帝结合，达于终极幸福。
+接着，吉尔松尼德把《雅歌》中的启蒙层次层层展开：数学、物理学、天文学，最后到形而上学。他由此强调自然科学、尤其是物理学，是形而上学的预备。他也说得很清楚：物理学建立在由经文而来的道德知识之上，“凡未在托拉与思辨的视角下牢牢确立正确观点的人，都做不了这门学问”（Gersonides *Song of Songs*, 11）[^commentary-1998]。随后他逐一展开书中的寓意与象征，而这些全都指向同一个目标：经由能动理智与上帝结合，达于终极幸福。
 
 ## 7 结论
 
@@ -100,48 +100,48 @@ Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Principal Works
-
-### Editions in English
-
-### Selected Secondary Literature
+### 主要著作
 
 [^sefer-nd]: *Sefer Ha-heqesh Ha-yashar* (On Valid Syllogisms, written 1319); translated into Latin as *Liber Syllogismi* *Recti*.
-[^sefer-1909]: *Sefer Ma’aseh Hoshev* (*The Work of a Counter*, written 1321; edited and translated into German by Gerson Lange (Frankfurt am Main: Golde, 1909).
-[^perush-nd]: *Perush ‘al Sefer lyob* (*Commentary on Job*, written 1325; Ferrara, 1477).
+[^sefer-1909]: *Sefer Ma’aseh Hoshev* (*The Work of a Counter*, written 1321; edited and translated into German by Gerson Lange. Frankfurt am Main: Golde, 1909).
+[^perush-nd]: *Perush ‘al Sefer Iyob* (*Commentary on Job*, written 1325; Ferrara, 1477).
 [^sefer-1866]: *Sefer Milhamot Ha-Shem* (*The Wars of the Lord*, written 1329; Riva di Trento, 1560; Leipzig, 1866; Berlin, 1923).
 [^perush-1967]: *Perush ‘al Sefer Ha-Torah* (*Commentary on the Pentateuch*, written 1329–1338; Venice, 1547; Jerusalem, 1967).
+### 英译本
+
 [^commentary-1946]: *The Commentary of Levi ben Gerson on the Book of Job*, translated by Abraham L. Lassen. New York: Bloch, 1946.
 [^providence-1973]: *Providence and the Philosophy of Gersonides*, translated by David Bleich. New York: Yeshiva University Press, 1973.
-[^gersonides’-1977]: *Gersonides’ The Wars of the Lord. Treatise Three: On God’s Knowledge*, translated by Norbert M. Samuelson. Toronto: Pontifical Institute of Mediaeval Studies, 1977.
+[^gersonides-1977]: *Gersonides’ The Wars of the Lord. Treatise Three: On God’s Knowledge*, translated by Norbert M. Samuelson. Toronto: Pontifical Institute of Mediaeval Studies, 1977.
 [^creation-1982]: *Creation of the World According to Gersonides*, translated by Jacob Staub. Chico, Cal.: Scholars Press, 1982.
 [^wars-1984]: *The Wars of the Lord*. Translated by Seymour Feldman. 3 vols. Philadelphia: Jewish Publication Society, 1984–1999.
 [^commentary-1998]: *Commentary on Song of Songs*. Trans and ed. by Menachem Kellner, New Haven: Yale University Press, 1998.
+### 研究文献选目
+
 [^carlebach-1910]: Carlebach, Salomon, 1910, *Levi Ben Gerson Als Mathematiker*, Berlin: J. Lamm.
 [^dahan-1991]: Dahan, Gilbert (ed.), 1991, *Gersonide En Son Temps*, Louvain-Paris: E. Peeters.
 [^eisen-1995]: Eisen, Robert, 1995, *Gersonides on Providence, Covenant, and the Jewish People*, Albany: State University of New York Press.
 [^feldman-1967]: Feldman, Seymour, 1967, “Gersonides’ Proofs for the Creation of the Universe,” *Proceedings of the American Academy for Jewish Research*, 35: 113–37.
 [^feldman-1984]: –––, 1984, “A Debate Concerning Determinism in Late Medieval Jewish Philosophy.” *Proceedings of the American Academy for Jewish Research*, 51: 15–54.
 [^feldman-1992]: –––, 1992, “Platonic Themes in Gersonides’ Doctrine of the Active Intellect,” in *Neoplatonism and Jewish Thought*, Lenn Goodman (ed.), Albany: State University of New York Press, 255–277.
-[^feldman-2010]: –––, 2010, *Gersonides: Judaism Within the Limits of Reason*, Portland: Littman Library of Jewish Civilization.
 [^feldman-1997]: –––, 1997 [2003], “Levi ben Gershom”, in *History of Jewish Philosophy*, Daniel H. Frank and Oliver Leaman (eds.), London: Routledge, 379–398.
+[^feldman-2010]: –––, 2010, *Gersonides: Judaism Within the Limits of Reason*, Portland: Littman Library of Jewish Civilization.
 [^freudenthal-1987]: Freudenthal, Gad, 1987, “Épistemologie, astronomie et astrologie chez Gersonide,” *Revue des études juives*, 146 (3–4): 357–65.
 [^freudenthal-1993]: –––, 1993, “Les Sciences dans les communautés juives médiévales de Provence: Leur Appropriation, Leur Rôle,” *Revue des études juives*, 152 (1–2): 29–136.
 [^freudenthal-1992]: Freudenthal, Gad (ed.), 1992, *Studies on Gersonides: A Fourteenth-Century Jewish Philosopher-Scientist*, Leiden: Brill.
-[^glasner-2015]: Glasner, Ruth. 2015, *Gersonides: A Portrait of a Fourteenth-Century Philosopher-Scientist*, Oxford: Oxford University Press.
+[^glasner-2015]: Glasner, Ruth, 2015, *Gersonides: A Portrait of a Fourteenth-Century Philosopher-Scientist*, Oxford: Oxford University Press.
 [^goldstein-1974]: Goldstein, Bernard R., 1974, “The Astronomical Tables of Rabbi Levi Ben Gerson,” in *Transactions of the Connecticut Academy of Arts and Sciences*, Hamden, CT: Shoestring Press.
 [^goldstein-1980]: –––, 1980, “The Status of Models in Ancient and Medieval Astronomy,” *Centaurus*, 24: 132–47.
 [^goldstein-1985]: –––, 1985, *The Astronomy of Levi Ben Gerson 1288–1344: A Critical Edition of Chapters 1–20*, New York: Springer Verlag.
 [^goldstein-1991]: –––, 1991, “Levi Ben Gerson’s Astrology in Historical Perspective,” in *Gersonide En Son Temps*, Gilbert Dahan (ed.), Louvain-Paris: E. Peeters, 287–300.
-[^goldstein-1992]: –––, 1992, Levi Ben Gerson’s Contributions to Astronomy in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill.
+[^goldstein-1992]: –––, 1992, “Levi Ben Gerson’s Contributions to Astronomy”, in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill.
 [^goldstein-1996]: –––, 1996, “Astronomy and Astrology in the Works of Abraham Ibn Ezra,” *Arabic Sciences and Philosophy*, 6: 9–21.
 [^goldstein-1990]: Goldstein, Bernard R., and David Pingree, 1990, “Levi Ben Gerson’s Prognostication for the Conjunction of 1345,” *Transactions of the American Philosophical Society*, 80: 1–60.
-[^green-2016]: Green, Alexander, 2016, *The Virtue Ethics of Levi Gersonides*, Palgrave: MacMillan.
+[^green-2016]: Green, Alexander, 2016, *The Virtue Ethics of Levi Gersonides*, Palgrave Macmillan.
 [^horwitz-2006]: Horwitz, David, 2006, *Gersonides’ Ethics: The To-a-lot be-Middot in Ralbag’s Biblical Commentaries*, Ph.D. Dissertation, Yeshiva University.
-[^husik-1916]: Husik, Isaac, 1916–1918,“Studies in Gersonides,” *Jewish Quarterly Review*, 7 (new series): 553–594; 8 (new series): 113–156, 231–268.
+[^husik-1916]: Husik, Isaac, 1916–1918, “Studies in Gersonides,” *Jewish Quarterly Review*, 7 (new series): 553–594; 8 (new series): 113–156, 231–268.
 [^kellner-1979]: Kellner, Menachem, 1979, “R. Levi Ben Gerson: A Bibliographical Essay,” *Studies in Bibliography and Booklore*, 12: 13–23.
-[^kellner-2010]: Kellner, Menachem, 2010, *Torah in the Observatory: Gersonides, Maimonides, Song of Songs*. Boston, Academic Studies Press.
-[^klein-braslavy-1989]: Klein-Braslavy, Sara, 1989, “Determinism, Possibility, Choice and Foreknowledge in Ralbag,” *Da’ at*, 22: 4–53.
+[^kellner-2010]: Kellner, Menachem, 2010, *Torah in the Observatory: Gersonides, Maimonides, Song of Songs*. Boston: Academic Studies Press.
+[^klein-braslavy-1989]: Klein-Braslavy, Sara, 1989, “Determinism, Possibility, Choice and Foreknowledge in Ralbag,” *Da’at*, 22: 4–53.
 [^langermann-1992]: Langermann, Tzvi, 1992, “Gersonides on the Magnet and the Heat of the Sun,” in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill, 267–284.
 [^langermann-1999]: –––, 1999, “Gersonides on Astrology,” in *Levi Ben Gershom: The Wars of the Lord*, Seymour Feldman (ed.), Philadelphia: Jewish Publication Society, 506–519.
 [^manekin-1992]: Manekin, Charles H., 1992, *The Logic of Gersonides: An Analysis of Selected Doctrines*, Dordrecht: Kluwer Academic.
@@ -155,8 +155,8 @@ Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：
 [^rudavsky-1993]: –––, 1993, “The Jewish Tradition: Maimonides, Gersonides and Bedersi,” in *Individuation in Late Scholasticism and the Counter-Reformation*, J. J. Gracia (ed.), Albany: State University of New York Press, 69–96.
 [^rudavsky-2000]: –––, 2000, *Time Matters: Time, Creation and Cosmology in Medieval Jewish Philosophy*, Albany: State University of New York Press.
 [^samuelson-1972]: Samuelson, Norbert, 1972, “Gersonides’ Account of God’s Knowledge of Particulars,” *Journal of the History of Philosophy*, 10: 399–416.
-[^sirat-2003]: Sirat, Colette, Klein-Braslavy, Sara, and Weijers, Olga (eds) 2003, *Les methodes de travail de Gersonide et le maniement du savoir chez les scolastiques*, Paris: J. Vrin.
-[^touati-1973]: Touati, Charles, 1973, *La Pensée Philosophique et Théologique de Gersonide*, Paris: Les Editions de Minuit.
+[^sirat-2003]: Sirat, Colette, Klein-Braslavy, Sara, and Weijers, Olga (eds) 2003, *Les méthodes de travail de Gersonide et le maniement du savoir chez les scolastiques*, Paris: J. Vrin.
+[^touati-1973]: Touati, Charles, 1973, *La Pensée Philosophique et Théologique de Gersonide*, Paris: Les Éditions de Minuit.
 
 ## 学术工具
 
@@ -167,10 +167,10 @@ Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：
 
 ## 其他网络资源
 
-[欢迎向作者提出建议。]
+[Please contact the author with suggestions.]
 
 ## 相关词条
 
-阿芙罗蒂西亚的亚历山大 | 阿拉伯和伊斯兰哲学对犹太思想的影响 | 亚里士多德 | 让·布里丹 | 亚伯拉罕·伊本·以斯拉 | 迈蒙尼德
+阿弗罗狄西亚的亚历山大 | 阿拉伯和伊斯兰哲学对犹太思想的影响 | 亚里士多德 | 让·布里丹 | 亚伯拉罕·伊本·以斯拉 | 迈蒙尼德
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

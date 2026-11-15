@@ -427,3 +427,13 @@
 | paradox-suspense | `<i>Michael Clayton</i> (2008)` | `(2007)` | 上映年份误（②；影片 2007 年上映） |
 | paradox-suspense | gerrig-1997／smuts-2004 条末缺句点 | 补句点 | 标点（①） |
 | paradox-suspense | mag-2011a／mag-2011b／smuts-2008 题名后缺逗号 | 补逗号 | 标点（①） |
+| gersonides | perush-nd `Perush ‘al Sefer lyob` | `Iyob` | 拼写（①） |
+| gersonides | sefer-1909 括号未闭合 `…Gerson Lange (Frankfurt am Main: Golde, 1909).` | 改 `…Gerson Lange. Frankfurt am Main: Golde, 1909).` | 括注错乱（①） |
+| gersonides | goldstein-1992 篇名未加引号 `1992, Levi Ben Gerson’s Contributions…` | `1992, “Levi Ben Gerson’s Contributions to Astronomy”, in …` | 体例（①） |
+| gersonides | green-2016 `Palgrave: MacMillan` | `Palgrave Macmillan` | 出版者体例（①） |
+| gersonides | kellner-2010 `Boston, Academic Studies Press.` | `Boston: Academic Studies Press.` | 体例（①） |
+| gersonides | klein-braslavy-1989 `<em>Da’ at</em>` | `Da’at` | 缺空格（①） |
+| gersonides | husik-1916 `1916–1918,“Studies` | 补空格 | 标点（①） |
+| gersonides | sirat-2003 `Les methodes`、touati-1973 `Les Editions` | 补 é／É | 重音缺失（①） |
+| gersonides | glasner-2015 `Glasner, Ruth. 2015` | `Glasner, Ruth, 2015` | 标点（①） |
+| gersonides | 正文 `(See North 1986, p. 25)`（书目仅 north-1989） | `North 1989` | 正文书目矛盾（②） |
