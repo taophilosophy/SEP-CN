@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T02:01:45Z",
+  "updated_at": "2026-11-15T02:04:16Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1421,6 +1421,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Opsomer 2011→2010、Olymiodorus、Twi New→Two New（ADR-0038 ②①）",
       "registered_at": "2026-11-15T02:01:45Z"
+    },
+    {
+      "slug": "peirce-benjamin",
+      "path": "en/peirce-benjamin/index.html",
+      "upstream_sha256": "1037ec7d3518e01cef78495524c7c22360ef7e08efc293881f5d0a9a5c33a900",
+      "local_sha256": "48a641853461cec18cb9a49a1647b496828d6e0f6ce64f47ed0b0d6a14e98fcb",
+      "bytes": {
+        "upstream": 28705,
+        "local": 28726
+      },
+      "commit": "HEAD",
+      "subject": "015 偿还 peirce-benjamin：三子脱姓补 Peirce（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Benjamin Peirce 三子补姓氏 Peirce（ADR-0038 ②）",
+      "registered_at": "2026-11-15T02:04:16Z"
     }
   ],
   "tombstones": [
