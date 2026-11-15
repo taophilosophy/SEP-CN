@@ -125,3 +125,9 @@
   * 验证：dev 浏览器实测截图 8 张存 specs/037/results/（词条浅/深、页脚、首页、双语对照 side 模式含段落同步、bohr-correspondence 公式 111 处全排版、搜索弹窗、移动端 390 贴边测量干净）；侧栏取羊皮纸实底（透明骑渐变顶部对比度不足，SEP 无侧栏属本站适配）
   * 顺带：specs 号二次撞车让位（035 归 entry-pdf 线，本线改 specs/037）；端口 81 遗留旧 dev 服务器核实身份后清理重启
   * 独立性解耦（用户二次指令）：新建 vp-compat.css 全站唯一桥接层，内部类名引用（顶栏双态/侧栏/目录/沉浸隐藏清单 13 处）全部迁入并头注列清单，升级 VitePress 只复查该文件；主题本体纯自有类＋公开令牌；VitePress 本体经审计零改动
+* 2026.11.15 全量 done 回炉裁定（ADR-0053，用户裁定"所有 done 必须重走 s0/s2.4/s2.5"）
+  * 实查定调：当前 done 219 件无一携带 s24/s25 步记录（ADR-0043 三环节生效晚于存量产出），回炉池 194＋done 219＝413 件为同一性质存量缺口；"非 A1 done 台账补课"豁免线只剩凭证形态差异，被裁定取消
+  * 登记：ADR-0053 入库（rules/adr）、rules/04 回炉条款改写、specs/028 增 §0-bis 裁定追加节、specs/036 §2 done 行改口径＋Assumptions 注记、specs/004 W 表追加 W12（ADR-0039 归因纪律）；ADR 索引顺带补 0049/0052 缺行
+  * 执行：先行批字头 a＋1（池内 27＋done 36＝63 件面）——清单驱动脚本 bin/revert-done-batch.py（快照＋manifest 落 results/），36 件 done 全部回退 s2.5_checked，0 失败；旧 r 凭证留史
+  * 现状：状态分布 pending 621／cleared 162／s2.5_checked 230／done 183；回炉件工序＝source-audit 补 s0 → s2.4/s2.5 增项（specs/028 §4 六项＋面⑦，凭证随 s3 evidence）→ s3 → r1–r3 全重走；done 存量逐件回退后续按字头滚动
+  * 顺带：revert-done-batch 基线 writer 漏 newline='\n' 触发 CRLF 警告，行尾 LF 化修正；check_all 11 项全绿，未推送提交清零
