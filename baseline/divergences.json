@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T01:16:56Z",
+  "updated_at": "2026-11-15T01:23:27Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1361,6 +1361,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Baur 拉丁文 proporitionem→proportionem（ADR-0038 ①）",
       "registered_at": "2026-11-15T01:16:56Z"
+    },
+    {
+      "slug": "timon-phlius",
+      "path": "en/timon-phlius/index.html",
+      "upstream_sha256": "9556873b5b6d3b753f1b30762d10fea8a718f2b5744db903b40536f276158bb4",
+      "local_sha256": "c9e90ef68d77c3f6ed8ec2264c9a53a0c13ed9417a34a755945254c551f2894f",
+      "bytes": {
+        "upstream": 47682,
+        "local": 47682
+      },
+      "commit": "8817b564b",
+      "subject": "015 偿还 timon-phlius：结构小节、英文说明与拼写（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Declava→Decleva（ADR-0038 ①）",
+      "registered_at": "2026-11-15T01:23:27Z"
     }
   ],
   "tombstones": [
