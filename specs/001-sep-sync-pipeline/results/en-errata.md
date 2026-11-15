@@ -446,3 +446,9 @@
 | logic-fuzzy | paris-2000 `(Studies in Fuzziness and Soft Computing. Volume 57)` | 逗号 | 标点（①） |
 | logic-fuzzy | fermüller-2015 缺 `in` | 补 | 体例（①） |
 | logic-fuzzy | zh 端 `[^supplementary-nd]`／`[^bibliography-nd]` 英文残句 | 改节首说明行「**补充文献：**」 | ①④ |
+
+## 五、2026-11-15 续批（zombies 回炉 s2.5 增项发现）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| zombies | 正文 `; compare Latham 2000, 72f.).` | `; compare Latham 2000, 72f.` | 段内括号计票 5 开 6 闭，句末 `)` 无对应开括号（编辑残迹）；Yablo／Chalmers 两括号各自闭合在案 |
