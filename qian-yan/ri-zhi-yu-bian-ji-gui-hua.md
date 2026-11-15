@@ -93,6 +93,11 @@
   * 旧形“学说汇编”“学说史”降为亦作；mandeville“经济学说史”散文义未动
 * 2026.11.15 上游目录增删接入：bioethics 换 slug 替代重发（首例）
   * fetch_catalog 快照对比（10-28→11-14 窗口）：新增 bioethics-moral-reasoning（11-05 首发，官注 replaces and is based on Theory and Bioethics）、下架 theory-bioethics
-  * apply-add 接入「生命伦理学与道德推理」（向同族条目 生命伦理学 收敛；GB 库查证凭证入 008 queries）；apply-remove（FR-022）删旧件，en 包/yuanwen 镜像/mu-lu-s 行手工补齐
+  * apply-add 接入“生命伦理学与道德推理”（向同族条目 生命伦理学 收敛；GB 库查证凭证入 008 queries）；apply-remove（FR-022）删旧件，en 包/yuanwen 镜像/mu-lu-s 行手工补齐
   * 旧件 soft404 系 drift_scan 当日已捕获（软 404 retired），但 soft404 无转任务出口——流程缺口待补；新增件对逐条目回源工具结构性不可见，唯 fetch_catalog 能见
   * 顺带修复：apply-add 作者显示改自然序+顿号（entries.json 倒置形误渲染）；sep_sync_check writer 行尾 LF；CI 基线快照随上游更新；PROGRESS 重生成
+* 2026.11.15 登记册共享解析/折叠库落地（specs/033，“统一工具不统一文件”）
+  * norm_key/fold 六处副本三口径（A 引号折叠比对／B 基础折叠／C 排序内层）收敛为 tools/register_lib.py 唯一实现，七消费工具迁移，azsort→check_terms 反向依赖解除
+  * 卡钉基准 pin 七次采集零漂移（逐行指纹按行计）；azsort 双表干跑守恒 0；新增单测 17 例、全库 320 例绿
+  * rules/05 工具表与 001 契约权属表登记；cnki_query 键口径 docstring 如实化（B≠A 为有意分歧）；两登记册文件不合并裁定维持（ADR-0012）
+  * 顺带修复：上段 L96 直角引号改弯引号（rules/02 §11）
