@@ -179,86 +179,114 @@ segments:
     kind: body
     source: |-
       These are the contours of Zhu Xi’s approach to moral self-cultivation and interpersonal ethics. The standard ethical norms work well in standard situations, normal families, good communities, and ordinary social circumstances. But, Zhu also understood that people are richly complicated and that human affairs often become complex, get out of hand, and go awry. Life is just not that ideal, not that simple. We sometimes encounter ethically anomalous situations to which the standard sets of feelings and responses as prescribed by the received norms and ritual actions simply do not fit. In many instances, standing on the norm and being moralistic simply would make matters worse. Zhu himself said that one must have ample experience and self-cultivation so that,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以上就是朱熹道德自我修养与人际伦理进路的轮廓。标准伦理规范在标准情境、正常家庭、良好社群与平常社会环境中行之有效。但朱熹也明白：人是复杂的，人事常常变得复杂、失控而出错。生活本就不是那么理想、那么简单。我们有时会遇到伦理上的反常情境，传世规范与礼仪行动所规定的标准感受与回应方式根本套不上。在许多情形下，死守规范、以道德教训人只会把事情弄得更糟。朱熹自己说过，人必须有充足的经验与修养，以致
+    step2: |-
+      以上便是朱熹道德自我修养与人际伦理进路的轮廓。标准伦理规范在标准情境、正常家庭、良好社群与平常社会环境中行之有效。但朱熹也明白：人是复杂的，人事常常变得复杂、失控而出错；生活本就不是那么理想、那么简单。我们有时会遇到伦理上的反常情境，传世规范与礼仪行动所规定的标准感受与回应方式根本套不上。在许多情形下，死守规范、以道德教训人只会把事情弄得更糟。朱熹自己说过，人必须有充足的经验与修养，以致
   - id: 23
     kind: body
     source: |-
       > If, by chance, an anomalous affair should come up, one could comprehend it. One wants to be in a position to grasp such affairs thoroughly in order to understand their unfamiliar aspects. (YL: ch. 18, par. 21)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若偶然有反常之事发生，也能够领会它。人要能彻底把握这类事，才能理解其中不熟悉的方面。（YL：第 18 卷，第 21 条）
+    step2: |-
+      > 若偶然有反常之事发生，也能够领会它。人要能彻底把握这类事，才能理解其中不熟悉的方面。（YL：第 18 卷，第 21 条）
   - id: 24
     kind: body
     source: |-
       Zhu Xi considered the issue of how to tailor responses that would be appropriate in problematic situations under the rubric of *quan* (weighing things up, discretion, expedient means).[^note-8] He noted several kinds of situations in which recourse to discretion and expedient means might be advisable: 1) extraordinary situations that cannot be covered by the standard norms and ritual actions, 2) urgent situations that require a direct violation of the received norms and ritual actions to be satisfactorily resolved, and 3) situations in which it would be more humane and prudent not to observe the relevant norms and ritual actions (see Wei 1986)[^wei-1986]. Situations of the first kind include those that call for a disruption of the given human order, for example the removal of an evil authority figure, such as a psychotic parent or a sociopathic tyrant. For situations of the second kind, Zhu had in mind emergencies when one would have to violate a norm in order to perform an positive emergency action, such as grasping the hand of a drowning sister-in-law, or shoving an old lady out of the path of a runaway oxcart.[^note-9] Finally, the third kind of situation includes those in which it would be more compassionate to waive or overlook the ritual prescriptions, such as in case of condoning the remarriage of a widow who would otherwise be destined to isolation and destitution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如何在有问题的情境中裁制出适宜的回应？朱熹在权（*quan*，权衡、斟酌、权宜手段）这一名目下处理这个问题。[^note-8]他指出了几种可以诉诸斟酌与权宜手段的情形：其一，标准规范与礼仪行动无法涵盖的反常情境；其二，需要直接违反传世规范与礼仪行动才能妥善解决的紧急情境；其三，不遵行相关规范与礼仪行动反而更合乎人道、更为审慎的情形（见 Wei 1986）[^wei-1986]。第一类情形包括需要打破既定人间秩序者，例如罢黜邪恶的当权者，如患精神失常的父亲或反社会的暴君。第二类情形，朱熹心中想的是紧急情况：必须违反规范才能施行积极的救助，例如抓住溺水嫂子的手，或把老妇人推离失控牛车的路径。[^note-9]最后，第三类情形包括：宽免或不顾礼仪规定反而更合乎怜悯者，例如允许一位不然注定孤苦无依的寡妇改嫁。
+    step2: |-
+      如何在有问题的情境中裁制出适宜的回应？朱熹在权（*quan*，权衡、斟酌、权宜手段）这一名目下处理这个问题。[^note-8]他指出了几种可以诉诸斟酌与权宜手段的情形：其一，标准规范与礼仪行动无法涵盖的反常情境；其二，需要直接违反传世规范与礼仪行动才能妥善解决的紧急情境；其三，不遵行相关规范与礼仪行动反而更合乎人道、更为审慎的情形（见 Wei 1986）[^wei-1986]。第一类情形包括需要打破既定人间秩序者，例如罢黜邪恶的当权者——患精神失常的父亲或反社会的暴君。第二类情形，朱熹心中想的是紧急情况：必须违反规范才能施行积极的救助，例如抓住溺水嫂子的手，或把老妇人推离失控牛车的路径。[^note-9]最后，第三类情形包括：宽免或不顾礼仪规定反而更合乎怜悯者，例如允许一位不然注定孤苦无依的寡妇改嫁。
   - id: 25
     kind: body
     source: |-
       Clearly, such considerations lead us into unmapped ethical terrain. How far can one justifiably take such sidestepping of the received applicable norms and ritual actions? What qualifications and restrictions might apply? For his part, Zhu Xi mentioned at least two qualifications: a weak qualification that the expedient adopted not be otherwise ethically objectionable, and a stronger qualification stipulating that the expedient adopted be in compliance with the Way, i.e., that it satisfy some basic moral value, at least as basic as the values expressed in the relevant received norm and ritual action. Thus, any exercise of discretion that is undertaken in light of one’s sense of appropriateness (*yi*), if exercised with sufficient probity and care, should satisfy the moral values embodied in the Way more adequately than would a routine observance of the standard norm. Humaneness, being the core moral value of Confucianism, was invoked most often in such cases, but there are a number of others: filial piety, fraternity, fidelity, empathy, compassion, appropriateness, etc. Famous examples from the Confucian tradition include Mencius’ reminder that one should overturn the propriety of not grasping the hand of a member of the opposite sex in order to rescue a drowning sister in law (*Mencius* 4A.17), and exceptions to the impropriety of widows remarrying in the case of Cheng Yi’s niece and his nephew’s wife. Li-hsiang Rosenlee reports that Cheng Yi proudly spoke of how his father had housed and given his grand-niece in remarriage (Rosenlee 2006: 133)[^rosenlee-2006]. Similarly, Socrates showed that Justice is not always realized by observance of the proprieties of truth-telling and faithfully returning a friend’s property (Plato *Republic* 331c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，这些考量把我们带进未经测绘的伦理地带。这种对通行适用规范与礼仪行动的规避，可以正当地走多远？需要哪些限定与限制？就朱熹而言，他至少提到两条限定：较弱的一条是，所采取的权宜手段不得另有伦理上的可非议之处；较强的一条则规定，所采取的权宜手段须合乎道，也就是说，须满足某种基本的道德价值，至少与相关通行规范及礼仪行动所表达的价值同等基本。因此，凡是凭适宜之感（义，*yi*）而施行的斟酌，只要行使时足够正直与谨慎，就应当比循规蹈矩地遵行标准规范更能充分满足道所体现的道德价值。仁是儒学的核心道德价值，在这类情形中最常被援引；但还有其他许多：孝、悌、诚信、同理、怜悯、适宜等等。儒家传统中的著名例子包括：孟子提醒说，为了救援溺水的嫂子，应当推翻「男女授受不亲」之礼（《孟子》4A.17）；还有程颐的侄女与其侄之妻改嫁而不失其正当的事例。Li-hsiang Rosenlee 记述说，程颐曾自豪地谈到他父亲如何安置并操办其侄孙女改嫁（Rosenlee 2006: 133）[^rosenlee-2006]。同样，苏格拉底也表明：正义并非总是靠恪守说真话、原样归还朋友财物这类礼俗来实现（Plato *Republic* 331c）。
+    step2: |-
+      显然，这些考量把我们带进未经测绘的伦理地带。这种对通行适用规范与礼仪行动的规避，可以正当地走多远？需要哪些限定与限制？就朱熹而言，他至少提到两条限定：较弱的一条是，所采取的权宜手段不得另有伦理上的可非议之处；较强的一条则规定，所采取的权宜手段须合乎道——即须满足某种基本的道德价值，至少与相关通行规范及礼仪行动所表达的价值同等基本。因此，凡是凭适宜之感（义，*yi*）而施行的斟酌，只要行使时足够正直与谨慎，就应当比循规蹈矩地遵行标准规范更能充分满足道所体现的道德价值。仁是儒学的核心道德价值，在这类情形中最常被援引；但还有其他许多：孝、悌、诚信、同理、怜悯、适宜等等。儒家传统中的著名例子包括：孟子提醒说，为了救援溺水的嫂子，应当推翻「男女授受不亲」之礼（《孟子》4A.17）；还有程颐的侄女与其侄之妻改嫁而不失其正当的事例。Li-hsiang Rosenlee 记述说，程颐曾自豪地谈到他父亲如何安置并操办其侄孙女改嫁（Rosenlee 2006: 133）[^rosenlee-2006]。同样，苏格拉底也表明：正义并非总是靠恪守说真话、原样归还朋友财物这类礼俗来实现（Plato *Republic* 331c）。
   - id: 26
     kind: body
     source: |-
       Nonetheless, ever cognizant of temptation and moral weakness, Zhu insisted on the well established probity and integrity of anyone who would venture to use discretion and exercise expedient means. He stated:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如此，由于始终意识到诱惑与道德软弱，朱熹坚持：凡打算运用斟酌、行使权宜手段者，必须具有确立已久的正直与操守。他说：
+    step2: |-
+      尽管如此，由于始终意识到诱惑与道德软弱，朱熹坚持：凡打算运用斟酌、行使权宜手段者，必须具有确立已久的正直与操守。他说：
   - id: 27
     kind: body
     source: |-
       > Intending to weigh up a situation carefully [in order to exercise expedient means], one must have cultivated the inner root daily, so that one’s mind is sensitive, perspicacious, pure, and integrated; [even in that case,] one still must naturally weigh up such situations most carefully. As Cheng Yi (1033–1107) said: Be reverent in order to straighten oneself within; practice appropriateness in order to square situations without. One’s sense of appropriateness comprises the moral fiber which one expresses through sincere ritual action (YL 37, par. 36).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 打算〔为行权宜而〕仔细权衡一个情势，必须日日涵养内在的根子，使心灵敏感、明澈、纯净而整合；〔即便如此，〕仍须自然地对这类情势作最仔细的权衡。正如程颐（1033–1107）所说：主敬以直内，行义以方外。人的适宜之感，正是经由真诚的礼仪行动表达出来的道德骨干（YL 37，第 36 条）。
+    step2: |-
+      > 打算〔为行权宜而〕仔细权衡一个情势，必须日日涵养内在的根子，使心灵敏感、明澈、纯净而整合；〔即便如此，〕仍须自然地对这类情势作最仔细的权衡。正如程颐（1033–1107）所说：主敬以直内，行义以方外。人的适宜之感，正是经由真诚的礼仪行动表达出来的道德骨干（YL 37，第 36 条）。
   - id: 28
     kind: body
     source: |-
       Only those who have extensively “investigated things to extend knowledge”, and who are conversant with the subtle patternings of the human heart and human affairs would be qualified to consider exercising expedient means over simply following the norms. (Zhu knew that this ethical knowledge is as much a matter of practical experience as of book learning. At times, he told his occasionally priggish students that well-disposed people, even if morally untutored, can be more discerning and have better discretion than are some academicians!)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      只有那些已经广泛「格物致知」、通晓人心与人事之微妙条理的人，才有资格考虑行使权宜手段，而不是简单地遵循规范。（朱熹知道，这种伦理知识既是书本之学，也是实践经验的产物。他有时会告诉那些偶尔显得迂拘的学生：心地善良的人，即使未经道德训练，也可能比某些学院中人更有明察力、更善于斟酌！）
+    step2: |-
+      只有那些已经广泛「格物致知」、通晓人心与人事之微妙条理的人，才有资格考虑行使权宜手段，而不是简单地遵循规范。（朱熹知道，这种伦理知识既是书本之学，也是实践经验的产物。他有时会告诉那些偶尔显得迂拘的学生：心地善良的人，即使未经道德训练，也可能比某些学院中人更有明察力、更善于斟酌！）
   - id: 29
     kind: body
     source: |-
       While Zhu stressed making careful observations in situations in order to tailor the most fitting responses in context, at the same time he envisioned a cultivation process whereby one discerns ever more fundamental and yet far-reaching patterns (*li*) that shape nature and moral value. That is, Zhu sometimes construed the project of investigating things to extend knowledge as an ascendant movement whereby the learner finally arrives at the pinnacle—*taiji* (supreme polarity) that embraces and subsumes all derived patterns. To Zhu, grasping *taiji* in this sense was tantamount to grasping the master key, for it represented to him the apex of being and value, and bestowed realization and sagehood on those who sincerely and authentically comprehended and embraced it.[^note-10] While this conception charts an ideal path to the pure, compassionate mind-set of sagehood, it obscures Zhu Xi’s usual emphasis on fine-tuning and sharpening one’s moral discernment and responsiveness in the midst of things—in full view of the situatedness of people in their daily life. This conception also neglects Zhu’s equal emphasis on the claim that patterns as inborn propensities (*xing*) are manifested only in concrete specific *qi* formations, and thus that 1) patterns are to be discerned in their fine particularity, that 2) the moral impulses are to be nurtured in the stream of human life, and that 3) the emotions, when not obscured by desires or obsessions, for the most part are immediate expressions of the basic natural impulses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹一面强调在情境中作仔细观察以便因应裁制最贴切的回应，一面也设想了一个修养进程：人在其中不断辨明越来越根本而又影响深远的条理（理），这些条理塑造着自然与道德价值。也就是说，朱熹有时把格物致知的事业构想为一种上升的运动：学习者最终抵达顶点——太极（*taiji*，最高极性），它包含并统摄一切派生的条理。对朱熹来说，在这种意义上把握太极，就等于把握了那把总钥匙；太极在他那里代表存在与价值的顶点，凡真诚而本真地领会并拥抱它的人，便获得体认与圣境。[^note-10]这一构想固然画出了一条通往圣人纯粹悲悯心态的理想路径，却也遮蔽了朱熹一贯的强调：在事物之中——在人的生活处境的全部可见性之中——微调并磨砺人的道德明察与回应能力。这一构想同样忽视了朱熹同等强调的另一个主张：作为先天禀赋的条理（性）只在具体特定的气之构形中显现；因此，其一，条理要在其细微的特殊性中被辨明；其二，道德冲动要在人类生活的川流中涵养；其三，情感只要不为欲望或执迷所蔽，大体上就是基本自然冲动的直接表达。
+    step2: |-
+      朱熹一面强调在情境中作仔细观察以便因应裁制最贴切的回应，一面也设想了一个修养进程：人在其中不断辨明越来越根本而又影响深远的条理（理），这些条理塑造着自然与道德价值。也就是说，朱熹有时把格物致知的事业构想为一种上升的运动：学习者最终抵达顶点——太极（*taiji*，最高极性），它包含并统摄一切派生的条理。对朱熹来说，在这种意义上把握太极，就等于把握了那把总钥匙；太极在他那里代表存在与价值的顶点，凡真诚而本真地领会并拥抱它的人，便获得体认与圣境。[^note-10]这一构想固然画出了一条通往圣人纯粹悲悯心态的理想路径，却也遮蔽了朱熹一贯的强调：在事物之中——在人的生活处境的全部可见性之中——微调并磨砺人的道德明察与回应能力。这一构想同样忽视了朱熹同等强调的另一主张：作为先天禀赋的条理（性）只在具体特定的气之构形中显现。由此可得三点：条理要在其细微的特殊性中被辨明；道德冲动要在人类生活的川流中涵养；情感只要不为欲望或执迷所蔽，大体上就是基本自然冲动的直接表达。
   - id: 30
     kind: body
     source: |-
       How, too, to square this broad vision of probing inquiry and deep understanding with the potentially constrictive Confucian moral psychology constructed tightly round the virtues of humaneness, appropriateness, ritual propriety, and wisdom, and their attendant emotions? Zhu Xi likely realized that these virtues functioned as thematic foci for cultivation as one establishes ones moral orientation and bearings and a balanced interpersonal stance. One needs to go through an initial stage of mastering these basic virtues in order to 1) reinforce one’s altruistic impulses and curtail the egoistic ones, 2) be inclined to seek principled rapport and harmony in interpersonal affairs, and 3) be moved by a sense of oneness with others and all things. Subsequently, the more ethical human phenomena one observes and considers in advanced level learning and cultivation, the more one feels a broad sympathy for others that transcends the narrowly-graded love, the so-called love with distinctions that is attributed to the notion of *ren* (humaneness) in Confucianism (see *Mencius*, 1A.7, 3A.5, and 7A.45). The more one observes the nuances of human affairs and the springs of human action, the more one will express deference and respect in ways that do not necessarily coincide exactly with the general prescriptions of the norms and ritual actions. In this way, one will build up a repertoire of conduct that reflects one’s personal ethical discernment and discretion, which expresses one’s personal ethical attainment and style.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，又如何把这一宽广的探究与深解的图景，同那种紧密围绕仁、义、礼、智诸德性及其伴随之情感而建构起来的、可能颇具拘束力的儒家道德心理学相协调？朱熹很可能意识到，这些德性的功能在于作为涵养的聚焦主题，帮助人确立道德方向与方位，以及均衡的人际姿态。人需要经历一个初步阶段来掌握这些基本德性，以便：其一，强化利他冲动、抑制利己冲动；其二，倾向于在人际事务中寻求有原则的融洽与和谐；其三，被与他人及万物为一体的感受所触动。此后，在进阶的学习与涵养中，人观察与思考的伦理现象越多，就越会对他人产生一种超越窄分等级之爱的广博同情——那种窄分等级的爱，即儒家归于仁（humaneness）观念的所谓「爱有差等」（见《孟子》1A.7、3A.5 与 7A.45）。人对人事的细微差别与行动的动源观察得越多，就越会以并不必然与规范及礼仪行动的一般规定恰好重合的方式表达谦让与敬重。这样，人会积累起一套行为库藏，映照出他个人的伦理明察与斟酌，也表达出他个人的伦理造诣与风格。
+    step2: |-
+      那么，又如何把这一宽广的探究与深解的图景，同那种紧密围绕仁、义、礼、智诸德性及其伴随之情感而建构起来的、可能颇具拘束力的儒家道德心理学相协调？朱熹很可能意识到，这些德性的功能在于充当涵养的聚焦主题，帮助人确立道德方向与方位，以及均衡的人际姿态。人需要经历一个初步阶段来掌握这些基本德性，以便：其一，强化利他冲动、抑制利己冲动；其二，倾向于在人际事务中寻求有原则的融洽与和谐；其三，被与他人及万物为一体的感受所触动。此后，在进阶的学习与涵养中，人观察与思考的伦理现象越多，就越会对他人产生一种超越窄分等级之爱的广博同情——那种窄分等级的爱，即儒家归于仁（humaneness）观念的所谓「爱有差等」（见《孟子》1A.7、3A.5 与 7A.45）。人对人事的细微差别与行动的动源观察得越多，就越会以并不必然与规范及礼仪行动的一般规定恰好重合的方式表达谦让与敬重。这样，人会积累起一套行为库藏，映照出他个人的伦理明察与斟酌，也表达出他个人的伦理造诣与风格。
   - id: 31
     kind: body
     source: |-
       Zhu Xi on occasion modeled his ethical conception of observing situations and fashioning the most appropriate response naturalistically on the butcher character, Cook Ding, portrayed in the Zhuangzi as a skilled artisan: just as the sure blade of Cook Ding’s cleaver goes straight to the cartilage between the bones, the cultivated sense of appropriateness (*yi*) of Zhu Xi’s moral adept strikes right at the heart of interpersonal situations (see Thompson 1988: 39–40)[^thompson-1988]. A.C. Graham once contrasted Zhu’s perception/response model (*gan-ying*) of ethical action with that of Zhuangzi by suggesting that Zhu’s notion of appropriate response was informed by rigorous adherence to rules and principles, whereas Zhuangzi’s was relatively intuitive and spontaneous (Graham 1986a: 143–145)[^graham-1986a]. This apparent contrast can be resolved by separating the stages of cultivation and mastery: Zhuangzi’s skilled artisans, such as Butcher Ding, all had already undergone prolonged periods of rigorously controlled apprenticeship before they could “forget” the “knowing that” in an integrated, spontaneous process of “knowing how”. For his part, Zhu Xi knew that the years of learning and practice—one’s moral apprenticeship—culminates in a responsive moral agent who can operate as intuitively and spontaneously in his or her personal and social ethical sphere as do Zhuangzi’s skilled artisans in theirs.[^note-11] Zhu’s moral adept is in effect an artisan of interpersonal intercourse. Zhu could rightfully claim Confucius as a prime model for this view. After decades of cultivation, Confucius could say, “At sixty, my ear was attuned. At seventy, I could give my heart free rein and without overstepping the mark” (*Analects* 2.4).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹偶尔以自然主义的方式，借《庄子》中描写为熟练匠人的屠夫庖丁，来示范他「观察情境并塑造最适宜回应」的伦理构想：正如庖丁之刀确然的刀锋直入骨节之间的软骨，朱熹道德学人经修养而得的适宜之感（义）也正中人际情境的要害（见 Thompson 1988: 39–40）[^thompson-1988]。A.C. Graham 曾把朱熹以感应（*gan-ying*）为框架的知觉/回应伦理行动模型与庄子相对照，提出：朱熹的适宜回应观念受严格的规则与原理的约束，而庄子的相应观念则相对直觉与自发（Graham 1986a: 143–145）[^graham-1986a]。这一表面上的对照，可以通过区分修养与 mastery 的阶段来化解：庄子的那些熟练匠人——例如庖丁——都先经历了长期严格控制的学徒期，然后才能在整合的、自发的「知道如何」过程中「忘记」「知道什么」。就朱熹而言，他明白多年的学习与实践——人的道德学徒期——最终造就一个能回应的道德行动者，此人在其个人与社会的伦理领域中运作起来，可以像庄子的熟练匠人在其领域中那样直觉而自发。[^note-11]朱熹的道德学人实际上就是人际交往的匠人。朱熹有理由把孔子奉为这一观点的首要典范：历经数十年修养，孔子可以说，「六十而耳顺，七十而从心所欲，不逾矩」（*Analects* 2.4）。
+    step2: |-
+      朱熹偶尔以自然主义的方式，借《庄子》中描写为熟练匠人的屠夫庖丁，来示范他「观察情境并塑造最适宜回应」的伦理构想：正如庖丁之刀确然的刀锋直入骨节之间的软骨，朱熹道德学人经修养而得的适宜之感（义）也正中人际情境的要害（见 Thompson 1988: 39–40）[^thompson-1988]。A.C. Graham 曾把朱熹以感应（*gan-ying*）为框架的知觉/回应伦理行动模型与庄子相对照，提出：朱熹的适宜回应观念受严格的规则与原理的约束，而庄子的相应观念则相对直觉与自发（Graham 1986a: 143–145）[^graham-1986a]。这一表面上的对照，可以通过区分修养与纯熟的阶段来化解：庄子的那些熟练匠人——例如庖丁——都先经历了长期严格控制的学徒期，然后才能在整合的、自发的「知道如何」过程中「忘记」「知道什么」。就朱熹而言，他明白多年的学习与实践——人的道德学徒期——最终造就一个能回应的道德行动者：此人在其个人与社会的伦理领域中运作起来，可以像庄子的熟练匠人在其领域中那样直觉而自发。[^note-11]朱熹的道德学人实际上就是人际交往的匠人。朱熹有理由把孔子奉为这一观点的首要典范：历经数十年修养，孔子可以说，「六十而耳顺，七十而从心所欲，不逾矩」（*Analects* 2.4）。
   - id: 32
     kind: body
     source: |-
       Viewed as a quest for knowledge as responsive pattern (*li*) discernment, enhanced by association, analogical reasoning, and generalization, Zhu Xi’s approach to inquiry dovetails with recent studies on strategies for learning for effective, ethical living. Neuroscientist and gerontologist Daniel J. Levitin writes concerning intelligence and wisdom,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把朱熹的探究之道视为一种以求得回应性条理（理）之明察为鹄的知识追求——借助联想、类比推理与推广而增强——那么，它与近世关于「为有效而合乎伦理地生活而学习」的策略研究正相衔接。神经科学家与老年学家 Daniel J. Levitin 论及智力与智慧时写道：
+    step2: |-
+      把朱熹的探究之道视为一种以求得回应性条理（理）之明察为鹄的知识追求——借助联想、类比推理与推广而增强——那么，它与近世关于「为有效而合乎伦理地生活而学习」的策略研究正相衔接。神经科学家与老年学家 Daniel J. Levitin 论及智力与智慧时写道：
   - id: 33
     kind: body
     source: |-
       > Humans excel at … making associations, taking information … and seeing how it interacts with other information. Whenever we encounter new information, our brains place it in a conceptual frame and then seek to associate it with other things we have experienced. The brain is a giant pattern detector…. Our brains add to that the ability to form analogies, … [to perform] analogical reasoning. The wisdom we find in older adults follow[s] from … these four things: association, experience, pattern recognition, and the use of analogies. And, this is why we we gain more and more wisdom as we age. Wisdom comes from the accumulated sets of things we’ve seen and experienced, our ability to detect patterns in those experiences, and our ability to predict future outcomes based on them. (And what is intelligence if not that?) Naturally, the more you have experienced, the more wisdom you are able to tap into…. [Old-timers] have been witness to so many things that seem to cycle around again and again. Wisdom enables you to handle some problems more quickly and effectively than the raw firepower of youth. [In sum, m]aking associations underpins learning. To assimilate new information we need to associate it with what we’ve seen before. Life experience gives us more associations to make, more patterns (*li*) to recognize. (Levitin 2020, pp. 119–120)[^levitin-2020]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人类擅长……建立关联：取来信息……并看出它如何与其他信息相互作用。每当我们遇到新信息，大脑会把它放进一个概念框架，然后设法把它与经历过的其他事物关联起来。大脑是一台巨大的样式探测器……我们的大脑还具备形成类比的能力，……〔进行〕类比推理。我们在老年人身上看到的智慧，正来自……这四样东西：联想、经验、样式识别，以及类比的使用。这就是为什么随着年岁增长，我们收获越来越多的智慧。智慧来自我们见过、经历过的事物之积累，来自我们在那些经验中识别样式的能力，以及我们据此预测未来结局的能力。（如果说这不是智力，那什么才是？）自然，你经历得越多，能调用的智慧就越多……〔老手们〕见证过太多似乎一再循环往复的事情。智慧使你比青年人的生猛火力更快、更有效地处理某些问题。〔总而言之，〕建立关联是学习的基础。要吸纳新信息，我们需要把它与以前见过的东西关联起来。生活经验给我们更多可供建立的关联、更多可供识别的样式（理）。（Levitin 2020, pp. 119–120）[^levitin-2020]
+    step2: |-
+      > 人类擅长……建立关联：取来信息……并看出它如何与其他信息相互作用。每当我们遇到新信息，大脑会把它放进一个概念框架，然后设法把它与经历过的其他事物关联起来。大脑是一台巨大的样式探测器……我们的大脑还具备形成类比的能力，……〔进行〕类比推理。我们在老年人身上看到的智慧，正来自……这四样东西：联想、经验、样式识别，以及类比的使用。这就是为什么随着年岁增长，我们收获越来越多的智慧。智慧来自我们见过、经历过的事物之积累，来自我们在那些经验中识别样式的能力，以及据此预测未来结局的能力。（如果说这不是智力，那什么才是？）自然，你经历得越多，能调用的智慧就越多……〔老手们〕见证过太多似乎一再循环往复的事情。智慧使你比青年人的生猛火力更快、更有效地处理某些问题。〔总而言之，〕建立关联是学习的基础。要吸纳新信息，我们需要把它与以前见过的东西关联起来。生活经验给我们更多可供建立的关联、更多可供识别的样式（理）。（Levitin 2020, pp. 119–120）[^levitin-2020]
   - id: 34
     kind: body
     source: |-
       On the surface, it appears that while Zhu Xi’s method of inquiry is specialized and prescriptive, Levitin’s presentation is merely descriptive of normal human learning. However, Levitin is describing the optimal learning strategies of people who remain sensitive, alert, discerning, and responsive throughout mature life, traits that some people nurture going forward and that others ought to make efforts to cultivate themselves in order to be more vital, understanding, and effective human actors and lead more fulfilling lives.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表面上，似乎朱熹的探究方法是专门化的、规定性的，而 Levitin 的论述只是对正常人学习的描述。然而，Levitin 描述的正是那些在成熟人生中始终保持敏感、警觉、有明察力、能回应之人的最优学习策略；有些人向前滋养这些品质，另一些人则应当努力培养它们，以便成为更有活力、更善理解、更有效能的行动者，过上更充实的生活。
+    step2: |-
+      表面上，似乎朱熹的探究方法是专门化的、规定性的，而 Levitin 的论述只是对正常人学习的描述。然而，Levitin 描述的正是那些在成熟人生中始终保持敏感、警觉、有明察力、能回应之人的最优学习策略：有些人向前滋养这些品质，另一些人则应当努力培养它们，以便成为更有活力、更善理解、更有效能的行动者，过上更充实的生活。
   - id: 35
     kind: body
     source: |-
       Zhu Xi’s appropriateness approach to ethics has several distinct features. First, one is to be well-versed in the received norms and rituals that circumscribe interpersonal relationships and prescribe proper behavior in family and society. Second, one is to have made ample observations and responses in real life situations. Third, one is to have examined and reflected on ways in which others act and respond in situations, for reference. Fourth, through extensive observation and experience, one is to be cognizant of the range of considerations that come into play in real life situations: moral principle, utility, fairness, sympathy, compassion, and so forth.[^note-12] Fifth, one is to remain flexible and open-minded as well as avoid making surmises, being insistent, stubborn, or self-centered (*Analects* 9.4). According to this view, while observing the ethical norms and rules of thumb in his or her community, the moral adept possesses a store of personal ethical sensitivity, responsiveness, and resourcefulness, by which to fashion the most fitting responses to situations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹的适宜进路伦理学有几个显著特征。其一，人要熟习界定人际关系的传世规范与礼仪，以及它们在家庭与社会中对正当行为的规定。其二，人要在实际生活情境中作过充分的观察与回应。其三，人要考察并反思他人如何在情境中行动与回应，以资参照。其四，经由广泛的观察与经验，人要认识到现实生活中起作用的种种考量范围：道德原则、效用、公平、同情、怜悯等等。[^note-12]其五，人要保持灵活与开放的心态，避免臆测、固执、刚愎或自我中心（《论语》9.4）。照这一观点，道德学人一面遵行其共同体的伦理规范与经验法则，一面拥有个人伦理敏感性、回应力与资源库藏，凭以塑造对情境最贴切的回应。
+    step2: |-
+      朱熹的适宜进路伦理学有几个显著特征。其一，人要熟习界定人际关系的传世规范与礼仪，以及它们在家庭与社会中对正当行为的规定。其二，人要在实际生活情境中作过充分的观察与回应。其三，人要考察并反思他人如何在情境中行动与回应，以资参照。其四，经由广泛的观察与经验，人要认识到现实生活中起作用的种种考量范围：道德原则、效用、公平、同情、怜悯等等。[^note-12]其五，人要保持灵活与开放的心态，避免臆测、固执、刚愎或自我中心（《论语》9.4）。照这一观点，道德学人一面遵行其共同体的伦理规范与经验法则，一面拥有个人伦理敏感性、回应力与资源库藏，凭以塑造对情境最贴切的回应。
   - id: 36
     kind: body
     source: |-
