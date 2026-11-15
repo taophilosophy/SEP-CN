@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T15:09:59Z",
+  "updated_at": "2026-11-15T17:13:36Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1706,6 +1706,21 @@
       "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
       "reason": "ADR-0038 ①类已核实：正文重复冠词（of the the nature），句式平行结构非法双 the 剥一；en-errata 第六节",
       "registered_at": "2026-11-15T15:09:59Z"
+    },
+    {
+      "slug": "yorck",
+      "path": "en/yorck/index.html",
+      "upstream_sha256": "1f8447761e01ce2676e006c51009b7096b4a3a51cd5ab28fee17599a7b2d27e5",
+      "local_sha256": "a520bd79e5e91708e33305fe1da6e21014ea197a1f8cc3e82f50466d68a99244",
+      "bytes": {
+        "upstream": 76743,
+        "local": 76744
+      },
+      "commit": "377f0530346e9e6a09c8430c848d3c2eb7fe6613",
+      "subject": "en 勘误：yorck 书目 pp.23–69 缺空格补一（同页 15 处 pp. N 惯例对照，ADR-0038 ①类已核实）；en-errata 第六节登记；yuanwen 定点重转差量恰为一处、基线哈希随转重算；zh 照录侧同步",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "ADR-0038 ①类已核实：书目 pp. 后缺半角空格（同页 15 处 pp. N 惯例对照）；回炉 s0 补课发现，en-errata 第六节；yuanwen 定点重转差量恰为一处，zh 照录侧同步",
+      "registered_at": "2026-11-15T17:13:36Z"
     }
   ],
   "tombstones": [
