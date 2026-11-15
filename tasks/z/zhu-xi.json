@@ -2,7 +2,7 @@
   "slug": "zhu-xi",
   "kind": "retranslate",
   "zh_doc": "z/zhu-xi.md",
-  "state": "cleared",
+  "state": "s0_source_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T23:08:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T15:11:52Z",
+      "evidence": "s0 源审计前置（ADR-0052，cleared→draft 零信任前置）：①en_integrity 包完整性 clean（hard_findings 0）；②en_source_audit HTML 本体审计 hard 0、告警 2 定性——heading_skip h2→h4 页脚导航样板（同 zabarella/bauer 先例豁免）；typo 候选 doubled_word「the the」坐实源手误（of the the nature 冠词重复，句式 Confucius/Mencius/Mean 平行结构非法）→已走 ADR-0038 ①类链：en-errata 第六节→en 剥一→定点重转差量恰一处→分歧账 register→提交 383ac7e6 后续提交；③镜像轴保真：yuanwen 定点重转后与 en 同步（pubinfo First published Thu Sep 3, 2015; substantive revision Sat Jan 25, 2025、导语首句、勘误句修后形态逐点核对）；2026-11-15 drift_scan 全量回源 z 字头 0 漂移记录；④外链 13 离线盘点在案待 --net 批次活检"
     }
   ],
   "blockers": [],

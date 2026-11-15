@@ -1,0 +1,797 @@
+version: 1
+slug: zhu-xi
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Zhu Xi, the preeminent Neo-Confucian (*daoxue*) master of the Southern Song (1126–1271), is generally ranked as second only to Confucius (551–479 BCE) in influence and as rivaling Zhuangzi (fourth century BCE) in philosophic acumen in the Chinese philosophical tradition. A leading scholar and classicist as well as sharp intellect and devoted practitioner, Zhu Xi worked out a philosophically compelling synthesis of the ideas of the Northern Song (960–1126 CE) masters Zhou Dunyi (1017–73), Zhang Zai (1020–77), and the brothers Cheng Yi (1033–1107) and Cheng Hao (1032–85). Intriguingly, his idea of a holistic synthetic approach itself may have been inspired in part by Huayan Buddhism (Ivanhoe 2000: 47–49)[^ivanhoe-2000].[^note-1] Over time, Zhu Xi’s Neo-Confucian synthesis proved to be a potent philosophic catalyst for his intellectual supporters and opponents alike, until the fall of Imperial China in 1911 and beyond. His influence gradually extended to Korea, Japan, and Vietnam, as well, each of which adapted his thought along with the Confucian classics and traditions in its own distinctive way. Besides synthesizing key Northern Song Neo-Confucian ideas, Zhu researched and reflected on the received *Five Classics* (*Changes, Odes, History, Rites*, and *Spring and Autumn Annals*), and compiled, edited, and commented on a compendium of essential Confucian texts, the *Great Learning* (*Daxue*), the *Analects* (*Lunyu*) of Confucius, the *Book of Mencius* (*Mengzi*), and the *Doctrine of the Mean* (*Zhongyong*), titled the *Four Books* (*Sishu*). He also prepared an edition of the *Songs of the South* (*Chuci*) that he recommended be appended to the *Odes*.
+    step1: |-
+      朱熹是南宋（1126–1271）最杰出的新儒家（道学，*daoxue*）大师，人们通常认为，就影响力而言，他在中国哲学传统中仅次于孔子（前 551–前 479），在哲学锐思方面则可与庄子（公元前 4 世纪）比肩。朱熹既是领先的学者与经典学者，又是敏锐的思想者与虔诚的实践者，他构造出一个在哲学上令人信服的综合体系，融汇了北宋（960–1126）诸位大师的思想：周敦颐（1017–73）、张载（1020–77）与程颐（1033–1107）、程颢（1032–85）兄弟。耐人寻味的是，他这种整体性取径的观念本身，部分可能受到华严宗佛教的启发（Ivanhoe 2000: 47–49）[^ivanhoe-2000]。[^note-1]随着时间推移，朱熹的新儒家综合对他思想上的支持者与反对者同样都是一种有力的哲学催化剂，其影响一直延续到 1911 年帝制中国覆灭之后。他的影响还逐渐扩展到韩国、日本与越南，各地都以自己独特的方式，将他的思想与儒家经典与传统一并吸收。除了综合北宋新儒学的关键观念之外，朱熹还研究并反思了传世的五经（《易》《诗》《书》《礼》与《春秋》），并编纂、校订、注解了一部儒家核心文本汇编——四书（《大学》《论语》《孟子》《中庸》）。他还整理了一种《楚辞》本子，建议将其附于《诗经》之后。
+    step2: |-
+      朱熹是南宋（1126–1271）最杰出的新儒家（道学，*daoxue*）大师。论影响力，人们通常把他排在中国哲学传统中的第二位，仅次于孔子（前 551–前 479）；论哲学锐思，则认为他可与庄子（公元前 4 世纪）比肩。朱熹是领先的学者与经典专家，又是敏锐的思想者与虔诚的实践者。他构造出一个在哲学上令人信服的综合体系，把北宋（960–1126）大师周敦颐（1017–73）、张载（1020–77）与程颐（1033–1107）、程颢（1032–85）兄弟的思想熔于一炉。耐人寻味的是，这种整体性综合取径的观念，部分可能源自华严宗佛教的启发（Ivanhoe 2000: 47–49）[^ivanhoe-2000]。[^note-1]随着时间推移，朱熹的新儒家综合对他思想上的支持者与反对者同样都是一种有力的哲学催化剂，其影响延续到 1911 年帝制中国覆灭之后。他的影响还逐渐扩展到韩国、日本与越南；各地都以自己独特的方式，把他的思想连同儒家经典与传统一并吸收。除了综合北宋新儒学的关键观念，朱熹还研究并反思传世的五经（《易》《诗》《书》《礼》与《春秋》），又编纂、校订并注解了一部儒家核心文本汇编——四书（《大学》《论语》《孟子》《中庸》）。他还整理出一种《楚辞》本子，建议附于《诗经》之后。
+  - id: 2
+    kind: body
+    source: |-
+      Notably, from the *Great Learning* Zhu adapted and distilled the methodology of investigating things to extend knowledge while from the *Mean* he stressed attuning oneself to attain utmost propriety. Investigating things incorporated reading and classical studies but ensured one’s practical grasp of and personal resonance with the pulse of life: nature and phenomena as well as society and human relations and concerns (Gardner 1986, 1990)[^gardner-1990][^gardner-1986]. Attuning oneself involved maintaining reverent concentration and conducting mindful reflection and practice. A century later, Yuan dynasty (1271–1368) officialdom adopted Zhu Xi’s edition of the *Four Books* as the basis for the Imperial Examination System, in effect canonizing it until the termination of the imperial examination system toward the end of the Qing dynasty (1644–1911) in 1908. The change from the *Five Classics* to the *Four Books* as the basis of the imperial examination system resulted in a reform and renewal of the Confucian tradition and outlook. It effected a restoration of Confucius’ original concern with personal ethical cultivation, realization, and practice from the more bureaucratic, careerist approach taken by many Confucians of the preceding Han and Tang dynasties (206 BCE–905 CE) that had weakened the tradition spiritually. Zhu Xi’s spirit and thought were deeply rooted in the original teachings of Confucius and his early school, as well as in the seminal ideas of the Northern Song masters, and exerted a profound influence in China and around East Asia for centuries.
+    step1: |-
+      值得注意的是，朱熹从《大学》中汲取并提炼出格物致知的方法论，又从《中庸》中强调自我调适以达至最高适宜。格物包含读书与经典研习，同时确保人对生命脉搏的切实把握与切身共鸣：自然与现象，以及社会、人际关系与人事关切（Gardner 1986, 1990）[^gardner-1990][^gardner-1986]。调适自我则要求保持诚敬专注，并作正念的反思与实践。一个世纪后，元代（1271–1368）官府采用朱熹编定的四书作为科举制度的基础，事实上将其正典化，直到 1908 年清末（1644–1911）科举制度终止。以五经到四书作为科举基础这一转变，带来儒家传统与观念的革新与更新。它恢复了孔子对个人伦理修养、体认与实践的原初关切，扭转了此前汉唐（前 206–905）许多儒者偏于官僚化、求仕进取的取径——那种取径已在精神上削弱了这一传统。朱熹的精神与思想深深植根于孔子及其早期学派的原本教导，也植根于北宋大师们的开创性观念，其影响在中国及东亚各地绵延数百年。
+    step2: |-
+      值得注意的是，朱熹从《大学》中汲取并提炼出格物致知的方法论，又从《中庸》中强调自我调适以达至最高适宜。格物包含读书与经典研习，同时确保人对生命脉搏的切实把握与切身共鸣：自然与现象，以及社会、人际与人事关切（Gardner 1986, 1990）[^gardner-1990][^gardner-1986]。调适自我则要求保持诚敬专注，并作正念的反思与实践。一个世纪后，元代（1271–1368）官府采用朱熹编定的四书作为科举基础，事实上将其正典化，直至 1908 年清末（1644–1911）科举废止。科举的基础由五经转为四书，带来儒家传统与观念的革新更新：它恢复了孔子对个人伦理修养、体认与实践的原初关切，扭转了此前汉唐（前 206–905）诸多儒者偏于官僚化、求仕进取的取径——那种取径已在精神上削弱了传统本身。朱熹的精神与思想深深植根于孔子及其早期学派的原本教导，也植根于北宋大师的开创性观念，其影响在中国及东亚绵延数百年。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 4
+    kind: body
+    source: |-
+      Zhu Xi was born in Youqi in Fujian in October 1130. Many anecdotes attest that he was a highly precocious child. It was recorded that at age five he ventured to ask what lay beyond Heaven, and by eight he understood the significance of the *Classic of Filiality* (*Xiaojing*). As a youth, he was inspired by Mencius’ proposition that all people could become a sage. In Zhu Xi’s childhood, his father Zhu Song (1097–1143) arranged for several old friends to educate Zhu Xi after his imminent passing. Consequently, Zhu Xi was educated by several eclectic scholars who had delved into Daoism and Buddhism as well as Confucianism, and inclined him to be deep and wide-ranging in his intellectual predilections and cultural interests. Later he studied Chan (Zen) Buddhism with the monk Dao Qian of the Kaishan Temple, and reputedly met with the Chan master Da Hui (Dahui Zonggao, 1089–1163).[^note-2] Traces of Huayan’s holistic thought can also be discerned in the formation of Zhu Xi’s system (Makeham 2018)[^makeham-2018]. Remarkably, Zhu passed the official *jinshi* exam (the “presented scholar” exam) at just nineteen, drawing on Chan Buddhism in his answers.[^note-3] He continued to pursue Daoism and Buddhism until he met the Neo-Confucian master Li Tong (1093–1163) a decade later, and formally became his student in 1160. In fact, Zhu’s father had recommended that he conduct his advanced studies under Li Tong, but Zhu postponed seeing Li for years until he finally admitted to himself that he was not making progress in his eclectic cultivation and suffered spiritual doubts. Li Tong was a master in the southern Yang Shi (1053–1135) lineage of the Cheng brothers’ school, partial to the teachings of Cheng Yi. Importantly, Li Tong convinced Zhu of the cogency and superiority of the Confucian Way and cultivation. Meanwhile, having passed the *jinshi* examination, Zhu was eligible to hold office, and had been assigned to several prefectural administrative posts. But, since he disagreed with central court policy on several major issues, he preferred to hold temple guardianships, which gave him the leisure to conduct Confucian studies and cultivation in earnest, and shielded him from the cutthroat court politics. Having chosen this career path, Zhu Xi had the leisure to study and reflect, and over time he made numerous contributions through his classical studies, historical inquiries, literary studies, and philosophic reflections. He moreover developed into a man of letters and wrote subtle prose and elegant verse.
+    step1: |-
+      朱熹于 1130 年 10 月生于福建尤溪。许多轶事都证明他是个极为早慧的孩子。据记载，五岁时他竟敢问天之外为何物；八岁时已能领会《孝经》的要义。少年时代，孟子「人皆可以为尧舜」的命题激励了他。朱熹幼年时，父亲朱松（1097–1143）在自知不久人世之际，安排几位旧友教导朱熹。于是，朱熹受教于几位兼涉道教、佛教与儒学的博杂学者，这使他思想上的偏好与文化兴趣趋于深广。后来他跟随开善寺道谦禅师学习禅（Zen）佛教，据说还曾与大慧禅师（大慧宗杲，1089–1163）会面。[^note-2]华严宗整体性思维的痕迹，同样可以在朱熹体系的形成中辨认出来（Makeham 2018）[^makeham-2018]。引人注目的是，朱熹年仅十九便考中进士（「进士科」），对策中还援引禅佛教。[^note-3]此后十年间他仍修习道教与佛教，直到遇见新儒家大师李侗（1093–1163），并于 1160 年正式拜入其门下。其实，父亲早已嘱托他向李侗问学，但朱熹拖延数年未去，直到终于承认自己在博杂修养上并无进展、内心已有精神疑虑。李侗属二程学派南支杨时（1053–1135）一系，偏向程颐的教导。重要的是，李侗使朱熹信服儒家之道及其修养功夫的正当与优越。与此同时，考中进士的朱熹已有出仕资格，并被派任过几处州县行政职位；但因在数个重大问题上与朝廷政策不合，他宁愿担任祠禄监庙之职——这既给他从容治儒学与修养的余裕，也使他免于凶险的朝廷党争。选择了这条道路，朱熹便有闲暇读书与思考，并经由经学研究、史学探究、文学研究与哲学反思，陆续做出诸多贡献。他还成长为一位文人，写出精微的散文与雅正的诗篇。
+    step2: |-
+      朱熹于 1130 年 10 月生于福建尤溪。许多轶事都证明他是个极为早慧的孩子：据记载，五岁时他竟敢问天之外为何物；八岁时已能领会《孝经》的要义。少年时代，孟子「人皆可以为尧舜」的命题激励了他。朱熹幼年丧父前夕，父亲朱松（1097–1143）安排几位旧友教导他。于是，朱熹受教于几位兼涉道教、佛教与儒学的博杂学者，思想偏好与文化兴趣由此趋于深广。后来他跟随开善寺道谦禅师学习禅（Zen）佛教，据说还曾与大慧禅师（大慧宗杲，1089–1163）会面。[^note-2]华严宗整体性思维的痕迹，同样可以在朱熹体系的形成中辨认出来（Makeham 2018）[^makeham-2018]。引人注目的是，朱熹年仅十九便考中进士（「进士科」），对策中还援引禅佛教。[^note-3]此后十年他仍修习道教与佛教，直到遇见新儒家大师李侗（1093–1163），并于 1160 年正式拜入门下。其实父亲早已嘱托他向李侗问学，但朱熹拖延数年未去，直到终于承认自己在博杂修养上并无进展、内心已有精神疑虑。李侗属二程学派南支杨时（1053–1135）一系，偏向程颐的教导。重要的是，李侗使朱熹信服儒家之道与修养功夫的正当与优越。同时，考中进士的朱熹已有出仕资格，并被派任过几处州县行政职位；但因在数个重大问题上与朝廷政策不合，他宁愿担任祠禄监庙之职——这既给他从容治儒学与修养的余裕，也使他避开凶险的朝廷党争。选定了这条道路，朱熹便有闲暇读书思考，并经由经学研究、史学探究、文学研究与哲学反思陆续做出诸多贡献。他还成长为一位文人，写出精微的散文与雅正的诗篇。
+  - id: 5
+    kind: body
+    source: |-
+      A renowned teacher in later life, Zhu taught the classics and Neo-Confucian thought and practice to hundreds if not thousands of students. His oral discourses and discussions are preserved in the *Classified Dialogues of Master Zhu* (*Zhuzi yulei*), and his poetry, essays, correspondence, and other prose works are collected in the *Collected Works of Master Zhu* (*Zhuzi wenji*). He also published critical, annotated editions of several classics, including the *Book of Change* (*Yijing*) and the *Book of Odes* (*Shijing*), essential works of Neo-Confucianism, including by Zhou Dunyi, Zhang Zai, and the Cheng brothers, and a vital Neo-Confucian anthology, *Reflections on Things at Hand* (*Jinsilu*). He also edited and annotated an important early text of inner alchemy Daoism; the *Cantong qi* (*Unity of the Three*) by Wei Boyang (3ʳᵈ cent. CE), which combines the cosmology of the *Yijing* and the Daoist teaching of *wuwei* (non-intentional action) with inner alchemy. Zhu Xi remained devoted to his spiritual and intellectual work virtually to his last breath, pondering and discussing problematic passages in the *Great Learning* during the last several days of his life. Throughout his life, Zhu Xi sought to reestablish the fundamental concepts and values of Confucianism to restore China’s cultural and political integrity as a Confucian society, especially since people in search of spiritual guidance and solace were increasingly looking to Daoism and Buddhism rather than Confucianism, which was perceived as a state ideology and orthodoxy and had lost spiritual and ethical purchase in their eyes. Moreover, Zhu believed that the empire needed the spiritual *élan* of Confucius’ original ethical ideas and values to meet the challenge of barbarian encroachments in culture as well as land. His own sincere patriotism, commitment to the tradition, and devotion to learning and scholarship have remained an inspiration to this day around East Asia and throughout the world.
+    step1: |-
+      朱熹晚年是负有盛名的教师，向数百乃至数千学生讲授经典与新儒家的思想与实践。他的讲论与问答保存在《朱子语类》中；其诗、文、书信及其他散文作品则收于《朱子文集》。他还刊行了几部经典的校勘注释本，包括《易经》与《诗经》，以及新儒家的几部要籍——周敦颐、张载与二程的著作——和一部重要的新儒家选本《近思录》。他还编注了道教内丹学的一部重要早期文本：魏伯阳（公元 3 世纪）的《参同契》，此书把《易经》的宇宙论与道家无为（非刻意行动）之教同内丹术结合在一起。朱熹几乎至死都在尽力于他的精神与思想工作：生命的最后几天仍在思考与讨论《大学》中的疑难段落。纵观一生，朱熹致力于重建儒家的根本概念与价值，以恢复中国作为儒家社会的文化与政治完整；尤其是，当时寻求精神指引与慰藉的人们越来越转向道教与佛教，而非被视作国家意识形态与正统、在他们眼中已失去精神与伦理感召力的儒学。此外，朱熹认为，帝国需要孔子原本伦理观念与价值的精神活力，以应对文化与人地两方面的夷狄侵凌。他自己真诚的爱国情怀、对传统的担当以及对学问的献身，至今仍是东亚乃至全世界的灵感源泉。
+    step2: |-
+      朱熹晚年是负有盛名的教师，向数百乃至数千学生讲授经典与新儒家的思想与实践。他的讲论与问答保存在《朱子语类》中；其诗、文、书信及其他散文作品则收于《朱子文集》。他还刊行了几部经典的校勘注释本：既包括《易经》《诗经》，也包括新儒家的几部要籍（周敦颐、张载与二程的著作），以及一部重要的新儒家选本《近思录》。此外，他编注了道教内丹学的一部重要早期文本——魏伯阳（公元 3 世纪）的《参同契》；此书把《易经》的宇宙论与道家无为（非刻意行动）之教同内丹术结合在一起。朱熹几乎至死都在尽力于精神与思想工作：生命的最后几天，他仍在思考与讨论《大学》中的疑难段落。纵观一生，朱熹致力于重建儒家的根本概念与价值，以恢复中国作为儒家社会的文化与政治完整——尤其是因为，寻求精神指引与慰藉的人们越来越转向道教与佛教，而非被视为国家意识形态与正统、在他们眼中已失去精神与伦理感召力的儒学。他还认为，帝国需要孔子原本伦理观念与价值的精神活力，以应对文化与人地两方面的夷狄侵凌。朱熹自己真诚的爱国情怀、对传统的担当以及对学问的献身，至今仍是东亚乃至全世界的灵感源泉。
+  - id: 6
+    kind: body
+    source: |-
+      ## 2. Philosophy of Human Nature and Approach to Self-Cultivation
+    step1: |-
+      ## 2 人性论与修养进路
+    step2: |-
+      ## 2 人性论与修养进路
+  - id: 7
+    kind: body
+    source: |-
+      Zhu Xi developed a theory of basic human propensities (nature, *xing*) to account for both the possibility of human evil and that of human goodness and perfectibility. On this theory, while (following Mencius, 372–289 BCE) insisting that people are basically good (well intended and sensitive to the sufferings of others), he accepted that each person’s basic disposition is conditioned by their specific *qi* endowment (native talents and gifts, *qizhi*), family and social environment, and other factors. Such factors together yield their empirical personality, intelligence, and aptitude for spiritual-ethical cultivation. Zhu accepted that there are real differences in individual disposition, character, as well as aptitude for ethical self-cultivation and realization, owing to individual variations in *qi* endowment, environment, etc. Furthermore, he argued that people can become bad or evil due, for example, to a coarse or sensual *qi* endowment, the bad influence of ruthless kin or friends, a selfish or harsh social environment, a cruel streak, etc. Nonetheless, following Mencius, he firmly believed that anyone who was sincerely committed to moral self-cultivation and was fervent in their moral practice would surely make progress in achieving moral realization if not sagehood.
+    step1: |-
+      朱熹发展了一套关于人的基本禀赋（性，*xing*）的理论，用以同时解释人为恶的可能与人为善及可臻完善的可能。依照这一理论，他（承孟子，前 372–前 289）坚持人性本善（善意待人与敏于他人之苦），同时接受每个人的基本气质受其特定的气禀（天生才具，*qizhi*）、家庭与社会环境及其他因素的制约。这些因素共同塑造其经验人格、智力与精神伦理修养的资质。朱熹承认，由于气禀与环境等的个体差异，人的气质、品格以及伦理修养与体认的资质确实存在实际差别。此外，他论证说，人会变坏乃至为恶，原因例如可以是粗糙或感官化的气禀、冷酷亲人与朋友的坏影响、自私或严酷的社会环境、残忍的性情倾向等等。尽管如此，他承孟子而坚定相信：凡真诚献身于道德修养、热忱践行道德的人，纵使未必成圣，也必会在道德体认上取得进步。
+    step2: |-
+      朱熹发展出一套关于人的基本禀赋（性，*xing*）的理论，用以同时解释人为恶的可能与人为善、可臻完善的可能。依照这一理论，他（承孟子，前 372–前 289）坚持人性本善（善意待人与敏于他人之苦），同时接受每个人的基本气质受其特定的气禀（天生才具，*qizhi*）、家庭与社会环境及其他因素的制约；这些因素共同塑造其经验人格、智力与精神伦理修养的资质。朱熹承认，由于气禀与环境等的个体差异，人的气质、品格以及伦理修养与体认的资质确实存在实际差别。此外，他论证说，人会变坏乃至为恶：原因例如可以是粗糙或感官化的气禀、冷酷亲人与朋友的坏影响、自私或严酷的社会环境、残忍的性情倾向等等。尽管如此，他承孟子而坚定相信：凡真诚献身道德修养、热忱践行道德的人，纵使未必成圣，也必会在道德体认上取得进步。
+  - id: 8
+    kind: body
+    source: |-
+      Zhu Xi’s teacher, Li Tong, and friend, Zhang Shi (1133–1180), presented him with different approaches to cultivation based on the premise of basic still and active mindsets, respectively. But, Zhu found that both of these approaches were one-sided and flawed. How is one to leap from quiet-sitting and stillness to making timely moral responses? When does one have the composure to introspect morally when their mind is constantly active and engaged? If neither the meditative approach nor the active approach to cultivation and practice were efficacious, what path remained open to Zhu Xi? Recent research shows that Zhu Xi embarked on a careful reading of the works of Zhou Dunyi during this period of spiritual-philosophical crisis in the course of which he rediscovered Zhou’s doctrine of “the interpenetration of stillness and activity” for the human mind and spirit (Adler 2014)[^adler-2014]. With this idea, Zhou Dunyi was advocating that whereas the states of action and rest are mutually exclusive in the case of physical objects, such states interpenetrate and are mutually implicative in the case of human mental and spiritual phenomena (Adler 2014)[^adler-2014]. This doctrine piqued Zhu Xi’s interest, and he came to see it as offering a way out of the dilemma between Li Tong’s stress on stillness and Hu Hong’s stress on activity in cultivation and practice, and their respective shortcomings. Zhou Dunyi’s doctrine was particularly exciting to Zhu Xi for it highlighted the distinctness and potential religiosity of the human mind and spirit, which Zhou describes as not subject to the same limitations and restrictions as are physical phenomena. Zhou Dunyi moreover associates this idea with a vital and well integrated model of human mind and spirit, self-cultivation, and cosmos. Inspired by Zhou Dunyi’s doctrine of the interpenetration of stillness and activity and related ideas, Zhu Xi worked out a twofold cultivation effort that incorporated at once nurturing one’s feeling of reverence (*jing*) to purify the original nature while investigating things to discern their determinate or defining patterns (*li*). Cultivation of reverence, originally a religious virtue associated with ancestor worship and ceremonial rites, as described in the classics and taught by Confucius (551–479 BCE), serves to purify the nature, attune one to the promptings of the nature, and set one to act with appropriateness (*yi*). Moreover, by grasping the defining patterns (*li*) of relationship and intercourse that constitute the world, society, people, and proper conduct, one gains the master key to acting with utmost propriety (*zhongyong*). The mind that is imbued with reverence and comprehends these patterns will develop into a good will (*zhuzai*) dedicated to acting appropriately and with utmost propriety. Since *jing* takes on connotations of focus, concentration, and alertness, as well as reverence in Zhu Xi’s discourses, mindfulness has been suggested as the English translation that covers the fullness of the term *jing* (Kalton 1988)[^kalton-1988] in Zhu Xi’s thought.
+    step1: |-
+      朱熹的老师李侗与朋友张栻（1133–1180）各自基于「基本心态是静」与「基本心态是动」的前提，向他提出了不同的修养进路。但朱熹发现，这两种进路都是片面的、有缺陷的。人如何能从静坐与静定一跃而作出及时的道德回应？心思不断运作与投入之际，人何时才有道德内省的从容？如果静的进路与动的进路对于修养与实践都无效，朱熹还剩下什么道路可走？近来的研究表明，在这一精神哲学危机时期，朱熹细读周敦颐著作，并在此过程中重新发现了周氏关于人心与精神「动静互贯」的学说（Adler 2014）[^adler-2014]。借这一观念，周敦颐主张：物理对象的动与静两态互斥，而人的精神现象中，两态却互相贯通、互相蕴含（Adler 2014）[^adler-2014]。这一学说引起了朱熹的兴趣；他逐渐把它视为走出李侗主静与胡宏主动两种修养实践主张及其各自缺陷之间两难的一条出路。周敦颐的学说对朱熹格外令人振奋，因为它凸显了人心与精神的独特性与潜在的宗教性：周氏描述道，人心与精神不像物理现象那样受制于同样的限制与约束。周敦颐还将这一观念同一个富有生命力且整合良好的模型相连：人的心神、修养与宇宙三者一体。受周敦颐动静互贯学说及相关观念的启发，朱熹发展出一套双轨修养功夫：一面涵养敬畏之感（敬，*jing*）以净化本原之性，一面格物以辨识事物确定的、规定性的条理（理，*li*）。敬的修养原是祭祖与礼仪相关的宗教德性，如经典所载、孔子（前 551–前 479）所教；它用来净化本性，使人调适于本性的驱动，并使人以适宜（义，*yi*）行事。此外，把握构成世界、社会、人与正当行为的关系与交往的规定性条理（理），便掌握了以最高适宜（中庸，*zhongyong*）行事的钥匙。充满敬畏又领会这些条理的心灵，将发展成致力于以适宜与最高中庸行事的主宰（*zhuzai*）善意。由于在朱熹的讲论中，敬兼有专注、凝敛与警觉以及敬畏的含义，有学者建议以 mindfulness（正念）作为涵盖 *jing* 一词全部意涵的英文翻译（Kalton 1988）[^kalton-1988]。
+    step2: |-
+      朱熹的老师李侗与朋友张栻（1133–1180）各自基于「基本心态是静」与「基本心态是动」的前提，向他提出了不同的修养进路。但朱熹发现，两种进路都是片面的、有缺陷的：人如何能从静坐与静定一跃而作出及时的道德回应？心思不断运作与投入之际，人何时才有道德内省的从容？如果静的进路与动的进路对于修养与实践都无效，朱熹还剩下什么道路可走？近来的研究表明，在这一精神哲学危机时期，朱熹细读周敦颐著作，并在此过程中重新发现了周氏关于人心与精神「动静互贯」的学说（Adler 2014）[^adler-2014]。借这一观念，周敦颐主张：物理对象的动与静两态互斥，而人的精神现象中，两态却互相贯通、互相蕴含（Adler 2014）[^adler-2014]。这一学说引起了朱熹的兴趣；他逐渐把它视为一条出路，可以走出李侗主静与胡宏主动两种修养主张及其各自缺陷之间的两难。周敦颐的学说令朱熹格外振奋，因为它凸显了人心与精神的独特性与潜在的宗教性：周氏认为，人心与精神不像物理现象那样受制于同样的限制与约束。周敦颐还把这一观念同一个富有生命力且整合良好的模型相连：人心、修养与宇宙三者一体。受周敦颐动静互贯学说及相关观念的启发，朱熹发展出一套双轨修养功夫：一面涵养敬畏之感（敬，*jing*）以净化本原之性，一面格物以辨识事物确定的、规定性的条理（理，*li*）。敬的修养原是祭祖与礼仪相关的宗教德性，如经典所载、孔子（前 551–前 479）所教；它用来净化本性，使人调适于本性的驱动，并使人以适宜（义，*yi*）行事。此外，把握构成世界、社会、人与正当行为的关系与交往的规定性条理（理），便掌握了以最高适宜（中庸，*zhongyong*）行事的钥匙。充满敬畏又领会这些条理的心灵，将发展成致力于以适宜与最高中庸行事的主宰（*zhuzai*）善意。由于在朱熹的讲论中，敬兼有专注、凝敛、警觉与敬畏诸义，有学者建议以 mindfulness（正念）作为涵盖 *jing* 一词全部意涵的英文翻译（Kalton 1988）[^kalton-1988]。
+  - id: 9
+    kind: body
+    source: |-
+      In later life, Zhu started to regard this twofold approach to cultivation and realization as too complicated, gradual, and difficult to carry out in practice. Like Confucius before him and anticipating Wang Yangming after him, Zhu Xi came to accept that the sincere Confucian adept must, on embarking on his or her project of ethical self-cultivation, first strive to establish his or her sincere determination (*lizhi*) to realize the cardinal Confucian virtues and become an exemplary person (*junzi*), that is to say, a master of appropriateness in interpersonal conduct and human affairs generally.
+    step1: |-
+      晚年，朱熹开始认为这种双轨的修养与体认进路过于繁复、渐进且难以切实执行。如同他之前的孔子，也如同他之后王阳明的先声，朱熹转而接受：真诚的儒者学人一旦着手其伦理自我修养的事业，必须首先努力确立真诚的立志（*lizhi*），以求实现儒家的核心德性、成为典范之人（君子，*junzi*）——也就是说，成为人际关系与人事一般意义上的适宜之主。
+    step2: |-
+      晚年，朱熹开始认为这种双轨的修养与体认进路过于繁复、渐进且难以切实执行。如同他之前的孔子，也如同他之后王阳明的先声，朱熹转而接受：真诚的儒者学人一旦着手伦理自我修养的事业，必须首先确立真诚的立志（*lizhi*），以求实现儒家的核心德性、成为典范之人（君子，*junzi*）——即成为人际关系与人事一般意义上的适宜之主。
+  - id: 10
+    kind: body
+    source: |-
+      ## 3. Ethical Philosophy
+    step1: |-
+      ## 3 伦理哲学
+    step2: |-
+      ## 3 伦理哲学
+  - id: 11
+    kind: body
+    source: |-
+      Zhu Xi’s ethical thought presupposes the classical Confucian notion of an original human nature as the ground of responsive human goodness. In classical Confucianism, heaven was deemed a moral force; Confucius speaks of the virtue endowed in him by heaven (*Analects* 7.23), Mencius of realizing heaven by realizing one’s nature (7A.1), and the *Mean* of the nature endowed in humans by heaven (ch. 1). Cheng Yi declares, “the original nature is just [a matter of] *li*” (Chan 1963, 560)[^chan-1963]. This view suggests that, at root, every human being partakes of heaven or *li* in a fundamental sense. Aware that *li* involves pattern and coherence, Diana Arghirescu makes a comparison between Levinas’ ethics of the other based on the face and Zhu Xi’s ethics of relationship based on the original nature. She writes (Arghirescu 2022b: 586)[^arghirescu-2022b]:
+    step1: |-
+      朱熹的伦理思想以古典儒学关于本原人性的观念为前提：本原人性是人以善相回应的根据。在古典儒学中，天被视为一种道德力量。孔子谈到天赋予他的德（《论语》7.23），孟子谈通过实现一己之性而实现天（7A.1），《中庸》谈天赋予人的性（第 1 章）。程颐说：「本原之性即是理」（Chan 1963, 560）[^chan-1963]。这一看法意味着：从根本上说，每个人都在根本意义上分有天或理。意识到理兼有条理与融贯之意，Diana Arghirescu 把列维纳斯基于面容的他者伦理学与朱熹基于本原之性的关系伦理学作了比较。她写道（Arghirescu 2022b: 586）[^arghirescu-2022b]：
+    step2: |-
+      朱熹的伦理思想以古典儒学关于本原人性的观念为前提：本原人性是人以善相回应的根据。在古典儒学中，天被视为一种道德力量。孔子谈到天赋予他的德（《论语》7.23），孟子谈通过实现一己之性而实现天（7A.1），《中庸》谈天赋予人的性（第 1 章）。程颐则说：「本原之性即是理」（Chan 1963, 560）[^chan-1963]。这一看法意味着：从根本上说，每个人都在根本意义上分有天或理。意识到理兼有条理与融贯两义，Diana Arghirescu 将列维纳斯基于面容的他者伦理学与朱熹基于本原之性的关系伦理学作了比较。她写道（Arghirescu 2022b: 586）[^arghirescu-2022b]：
+  - id: 12
+    kind: body
+    source: |-
+      > In the Chinese space, the sameness of individuals, by virtue of their principle of coherence bestowed by heaven, allows Zhu to consider human interrelatedness as straight-away ethical. This sameness results from the constant flowing of the way, which not only creates and nourishes … all living beings, humans included, but also integrates them in an ethico-spiritual totality, the whole One.
+    step1: |-
+      > 在中国思想的场域中，个体凭其天所赋予的融贯原则而具有的同一性，使朱熹可以把人的相互关联直接视为伦理性的。这种同一性源于「道」的恒常流动：道不仅创生并滋养……包括人在内的一切生灵，还把它们整合进一个伦理—精神性的整体，即「一」之全体。
+    step2: |-
+      > 在中国思想的场域中，个体凭其天所赋予的融贯原则而具有的同一性，使朱熹可以把人的相互关联直接视为伦理性的。这种同一性源于「道」的恒常流动：道不仅创生并滋养……包括人在内的一切生灵，还把它们整合进一个伦理—精神性的整体，即「一」之全体。
+  - id: 13
+    kind: body
+    source: |-
+      She also observes (Arghirescu 2023, 558)[^arghirescu-2023]:
+    step1: |-
+      她还指出（Arghirescu 2023, 558）[^arghirescu-2023]：
+    step2: |-
+      她还指出（Arghirescu 2023, 558）[^arghirescu-2023]：
+  - id: 14
+    kind: body
+    source: |-
+      > envisages the ethical transcendence not as [Levinas’s] separated alterity but as transcendent attachment or closeness between humans … which arises because all human beings possess inwardly the same transcendent authentic nature or principle of coherence of heaven (i.e., ‘transcendence’ in the Neo-Confucian ethical sense) … ‘the one that connects everything’.
+    step1: |-
+      > （她）将伦理超越构想为不是〔列维纳斯式的〕分离的他者性，而是人与人之间超越性的依系（attachment）或切近（closeness）……这种超越性之所以产生，是因为所有人内在地具有同一超越性的本真之性，即天的融贯原则（亦即新儒家伦理意义上的「超越」）……「把一切连接起来的那个一」。
+    step2: |-
+      > （她）将伦理超越构想为不是〔列维纳斯式的〕分离的他者性，而是人与人之间超越性的依系（attachment）或切近（closeness）……这种超越性之所以产生，是因为所有人内在地具有同一超越性的本真之性，即天的融贯原则（亦即新儒家伦理意义上的「超越」）……「把一切连接起来的那个一」。
+  - id: 15
+    kind: body
+    source: |-
+      While this original nature is the ground of sympathy and responsiveness, Zhu Xi advocates conducting the “investigation of things to attain/extend knowledge” (*gewu zhih* = *zhi*) for achieving perspicacity (*ming*) in ethical judgment and ‘appropriateness’ (*yi*) in moral practice. Zhu advocates this methodology to underscore the need for people, as prospective moral agents, to notice the fine details, the distinguishing features of particular situations in order to to fashion on that basis the most discerning, appropriate responses. These distinguishing features can suggest alternative moral considerations to be weighed (Pincoffs 1986)[^pincoffs-1986]. This call lay behind Zhu’s promotion of the *Great Learning* (*Daxue*) and his devotion to life-long learning and moral reflection in a bid to achieve fairness and objectivity in moral judgment and response, and break free of the moral intuitionism and resultant subjectivism typical of Neo-Confucians of his generation.
+    step1: |-
+      本原之性固然是同情与回应的根据，但朱熹主张行「格物致知」（*gewu zhizhi*，格物致知）以求伦理判断的明察（*ming*）与道德实践的「适宜」（义，*yi*）。他倡导这一方法论，是要强调：作为准道德行动者的人必须注意细微之处，注意具体情境的辨别特征，以便在此基础上形成最有明察力、最适宜的回应。这些辨别特征可以提示出需要权衡的其他道德考量（Pincoffs 1986）[^pincoffs-1986]。朱熹之所以提倡《大学》并毕生致力于学习与道德反思，正是为了这一呼吁：在道德判断与回应上求得公平与客观，摆脱他那一代新儒家典型的道德直觉主义及其导致的主体主义。
+    step2: |-
+      本原之性固然是同情与回应的根据，但朱熹主张行「格物致知」（*gewu zhizhi*）以求伦理判断的明察（*ming*）与道德实践的「适宜」（义，*yi*）。他倡导这一方法论，是要强调：作为准道德行动者的人必须注意细微之处，注意具体情境的辨别特征，以便在此基础上形成最有明察力、最适宜的回应。这些辨别特征可以提示出需要权衡的其他道德考量（Pincoffs 1986）[^pincoffs-1986]。朱熹提倡《大学》、毕生致力于学习与道德反思，其背后正是这一呼吁：在道德判断与回应上求得公平与客观，摆脱他那一代新儒家典型的道德直觉主义及其导致的主体主义。
+  - id: 16
+    kind: body
+    source: |-
+      ### 3.1 Investigating Things for Ethical Discernment and Practice
+    step1: |-
+      ### 3.1 格物与伦理明察及实践
+    step2: |-
+      ### 3.1 格物与伦理明察及实践
+  - id: 17
+    kind: body
+    source: |-
+      Throughout his career, Zhu Xi focused on the twin problems of 1) determining the conditions of moral agency, and 2) setting forth a viable program of moral self-cultivation on that basis. Zhu saw moral agency as the expression of a moral will, which he understood to be the achievement of an inner self-mastery (*zhuzai*) that forms the core of one’s moral character, perceptivity, cognizance, and responsiveness. On this view, self-cultivation that is aimed at nurturing self-mastery must include forming a concentrated, reverential mind-set (*jing*) and a discerning sense of appropriateness. Early on, Zhu had emphasized the need to attain a working knowledge of the constitutive patterning (*li*) of reality and society in the light of which the norms and ritual action (*li*) prescribed for proper interpersonal relationships and intercourse are devised. He later found that establishing the determination (*lizhi*) to seek self-realization and conduct oneself appropriately counted for as much as the long-term cultivation process itself, during which one can lose sight of one’s purpose and be side-tracked (see Qian Mu 1986: 123–127)[^qian-1986]. Moreover, while still maintaining the importance of the norms and ritual action for character-building and the social order, Zhu began to emphasize the need to build up a sympathetic but realistic grasp of the warp and woof of actual daily human life viewed in the perspective of such broad Confucian ethical ideals as humaneness (*ren*) and fairness (*gong*). He understood that, although the norms and ritual action are broadly applicable and reliable, many situations call for specifically tailored responses.[^note-4]
+    step1: |-
+      纵观其学术生涯，朱熹始终聚焦两个孪生问题：其一，确定道德行动者的成立条件；其二，在此基础上提出一套可行的道德自我修养方案。朱熹把道德行动视为道德意志的表达；他把道德意志理解为内在自我主宰（*zhuzai*）的成就，而主宰构成一个人道德品格、感知力、认知与回应能力的核心。据此，以涵养主宰为目标的修养，必须包括形成专注而敬畏的心态（敬，*jing*）与明辨适宜之感。早期，朱熹强调需要获得对现实与社会的构成性条理（理，*li*）的实用认识；人际关系的规范与礼仪行动（礼，*li*）正是据此而制定的。后来他发现，确立求自我实现与正当行事的立志（*lizhi*），其分量不亚于长期的修养过程本身——在这一过程中，人可能迷失目标、误入歧途（见 Qian Mu 1986: 123–127）[^qian-1986]。此外，虽然仍然坚持规范与礼仪行动对品格塑造与社会秩序的重要性，朱熹开始强调：需要以仁（*ren*，humaneness）与公（*gong*，fairness）这类宽广的儒家伦理理想为视角，建立起对日常生活经纬的同情而切实的把握。他明白，规范与礼仪行动虽然大体适用且可靠，许多情境却要求专门裁制的回应。[^note-4]
+    step2: |-
+      纵观其学术生涯，朱熹始终聚焦两个孪生问题：其一，确定道德行动者的成立条件；其二，在此基础上提出一套可行的道德自我修养方案。朱熹把道德行动视为道德意志的表达；他把道德意志理解为内在自我主宰（*zhuzai*）的成就，而主宰构成一个人道德品格、感知力、认知与回应能力的核心。据此，以涵养主宰为目标的修养必须包括：形成专注而敬畏的心态（敬，*jing*），以及明辨适宜之感。早期，朱熹强调需要获得对现实与社会的构成性条理（理，*li*）的实用认识；人际关系的规范与礼仪行动（礼，*li*）正是据此而制定的。后来他发现，确立求自我实现与正当行事的立志（*lizhi*），其分量不亚于长期的修养过程本身——修养过程中，人可能迷失目标、误入歧途（见 Qian Mu 1986: 123–127）[^qian-1986]。此外，虽然仍坚持规范与礼仪行动对品格塑造与社会秩序的重要性，朱熹开始强调：需要以仁（*ren*，humaneness）与公（*gong*，fairness）这类宽广的儒家伦理理想为视角，建立起对日常生活经纬的同情而切实的把握。他明白：规范与礼仪行动虽然大体适用且可靠，许多情境却要求专门裁制的回应。[^note-4]
+  - id: 18
+    kind: body
+    source: |-
+      Consequently, against the moral intuitionism prevalent at the time in Neo-Confucianism, as espoused by his teacher Li Tong (1093–1163), his intellectual rival Lu Jiuyuan (1139–1193), and others, Zhu argued that intuitionism is inadequate for dealing effectively with the complex human affairs that people are apt to encounter in their lives.[^note-5] Rather, he advocated devoting oneself to the observation and study of the patterning/patterns (*li*) of relationship, interaction, and change among all things, among human beings in particular. He regarded “investigating things to extend knowledge” as the surest way to deepen and broaden one’s discernment of the patterns that constitute the lived-world. Such knowledge, importantly, would sharpen one’s sense of appropriateness by attuning oneself to the actual, subtle, distinguishing features of particular situations.
+    step1: |-
+      因此，与当时新儒家中盛行的道德直觉主义——其倡导者包括他的老师李侗（1093–1163）、思想对手陆九渊（1139–1193）等人——相对立，朱熹论证说：直觉主义不足以有效处理人们生活中容易遇到的复杂人事。[^note-5]相反，他主张献身于观察与研究万物之间——尤其是人与人之间——关系、互动与变化的条理（理）。他把「格物致知」视为深化与拓展自己对构成生活世界之条理的明察的最可靠途径。重要的是，这样的知识能使人调适于具体情境中实际存在的、细微的辨别特征，从而磨砺人的适宜之感。
+    step2: |-
+      当时新儒家中盛行道德直觉主义，倡导者包括他的老师李侗（1093–1163）、思想对手陆九渊（1139–1193）等人。朱熹与之相对，论证说：直觉主义不足以有效处理人们生活中容易遇到的复杂人事。[^note-5]相反，他主张献身于观察与研究万物之间——尤其是人与人之间——关系、互动与变化的条理（理）。他把「格物致知」视为深化与拓展自己对构成生活世界之条理的明察的最可靠途径。重要的是，这样的知识能使人调适于具体情境中实际存在的、细微的辨别特征，从而磨砺人的适宜之感。
+  - id: 19
+    kind: body
+    source: |-
+      Again, Zhu Xi conceived the world as a patterned (*li*) totality made up of a cosmic vapor (*qi*) that under various conditions condenses and solidifies into countless permutations, from the purest transparent *yuanqi* (primordial *qi*), to the *Yin-Yang* poles modulated by the primal *taiji* (supreme polarity) pattern, to the *wuxing* (five phases), each of which bears an identifying inner pattern and set of propensities (*xing*) that involve interconvertability and recombination with the other four phases, and finally to the phenomenal world: Heaven, Earth, and the myriad things (*tiandi wanwu*).[^note-6]
+    step1: |-
+      再者，朱熹把世界构想为由宇宙之气（气，*qi*）构成的、具有条理（理）的整体：气在各种条件下凝结、固化成无数形态，从最纯粹的透明元气（*yuanqi*，原初之气），到受原初太极（*taiji*，最高极性）样式调节的阴阳两极，到五行（*wuxing*）——其中每一行都带有标识性的内在条理与一套禀性（性，*xing*），涉及与其他四行的互相转化与重新组合——最后到现象世界：天地万物（*tiandi wanwu*）。[^note-6]
+    step2: |-
+      再者，朱熹把世界构想为由宇宙之气（气，*qi*）构成的、具有条理（理）的整体：气在各种条件下凝结、固化成无数形态——从最纯粹的透明元气（*yuanqi*，原初之气），到受原初太极（*taiji*，最高极性）样式调节的阴阳两极，到五行（*wuxing*；其中每一行都带有标识性的内在条理与一套禀性（性，*xing*），涉及与其他四行的互相转化与重新组合），最后到现象世界：天地万物（*tiandi wanwu*）。[^note-6]
+  - id: 20
+    kind: body
+    source: |-
+      For Zhu Xi, the world presents a vital tapestry of relationships, cycles, processes, events, and things that are spontaneously arrayed in aesthetic order. In the nexus of these arrays, *li* are manifested three dimensionally and present different faces from different angles (Graham 1986a: 148; Qian Mu 1986: 133)[^graham-1986a][^qian-1986]. *Li* are inherently perspectival. Zhu adopts metaphors of the grains in wood, the lines in jade, the “veins” in a leaf, the lines in marble, and even the sinewy texture of beef, to stress that *li* are manifested immanently rather than abstractly, and thus are to be sought concretely by observing phenomena in the world, not by pure, disengaged, abstract ratiocination (Needham 1956a: 473)[^needham-1956a]. Moreover, *li* are never presented in their putative optimal pure form. They always appear conditioned by the degree of purity of the *qi* through which they are manifested and of the environing conditions (Wade 2003)[^wade-2003].
+    step1: |-
+      在朱熹看来，世界呈现为一幅生机勃勃的织锦：关系、循环、过程、事件与事物自发地排列成审美秩序。在这些排列的纽结中，理以三维方式显现，并从不同角度呈现不同面貌（Graham 1986a: 148; Qian Mu 1986: 133）[^graham-1986a][^qian-1986]。理本质上是有视角的。朱熹采用木之纹理、玉之线条、叶之「脉络」、大理石之纹路乃至牛肉之筋腱质地等比喻，强调理是内在地显现的，而非抽象地显现；因此要具体地在观察世界现象中寻求理，而不是通过纯粹超离的抽象推理（Needham 1956a: 473）[^needham-1956a]。而且，理从不会以其推定的最优纯粹形态出现。理总是受其得以显现的气的纯净程度以及环境条件的制约而出现（Wade 2003）[^wade-2003]。
+    step2: |-
+      在朱熹看来，世界呈现为一幅生机勃勃的织锦：关系、循环、过程、事件与事物自发地排列成审美秩序。在这些排列的纽结中，理以三维方式显现，并从不同角度呈现不同面貌（Graham 1986a: 148; Qian Mu 1986: 133）[^graham-1986a][^qian-1986]。理本质上是有视角的。朱熹采用木之纹理、玉之线条、叶之「脉络」、大理石之纹路乃至牛肉之筋腱质地等比喻，强调理是内在地显现而非抽象地显现的；因此要具体地在观察世界现象中寻求理，而不是通过纯粹超离的抽象推理（Needham 1956a: 473）[^needham-1956a]。而且，理从不会以其推定的最优纯粹形态出现：它总是带着其得以显现的气的纯净程度与环境条件的制约而出现（Wade 2003）[^wade-2003]。
+  - id: 21
+    kind: body
+    source: |-
+      *Li* also structure the human mind, thought, and language, such that human beings are predisposed to grasp and attempt to respond appropriately to the things and situations they encounter.[^note-7] Objective learning on this view can be understood as a facet of self-learning: indeed, by the principle of continuity, objective understanding enhances self-understanding, for by comprehending the warp and woof of the outer *li* of things, one gains insight into the inner *li* constituting one’s mind and character (Qian Mu 1971: II 31–38)[^qian-1971]. For Zhu Xi, while *li* structure the mind, thought, and language, this is not just at the cognitive level: *li* also structure the inner patterning (*xing*) and basic impulses that predispose us to have characteristically human emotions (*qing*), relationships, and responses (*ganying*) under various sets of conditions (Graham 1986a: 152–154; Qian Mu 1971: II. 25–30)[^qian-1971][^graham-1986a]. In Zhu’s Confucian view, *li* and *xing* predispose one to be sensitive and responsive; metaphorically, they provide the hardware of human nature. Self-cultivation and moral reflection are the means by which one actively conditions and fine-tunes these predispositions of sensitivity and response. They thus function as indispensable software for cultivating personhood.
+    step1: |-
+      理也结构着人的心灵、思想与语言，使人类天生就倾向于把握其所遇之物与情境，并试图作出恰当回应。[^note-7]据此，客观的学习可以理解为自我学习的一个侧面：确实，由连续性原理，客观的理解会增进自我的理解——因为领会了外在的物之理的经纬，人就洞悉了构成自己心灵与品格的内在之理（Qian Mu 1971: II 31–38）[^qian-1971]。在朱熹看来，理虽然结构着心灵、思想与语言，但这不只是在认知层面：理也结构着内在的样式（性，*xing*）与基本冲动，使我们在各种条件组合下产生典型的人之情（*qing*）、关系与回应（*ganying*，感应）（Graham 1986a: 152–154; Qian Mu 1971: II. 25–30）[^qian-1971][^graham-1986a]。在朱熹的儒家观点中，理与性使人天生敏感而能回应；打个比方，它们提供了人性的硬件。修养与道德反思则是人主动调适并微调这些敏感与回应禀赋的手段；它们因而是培养人格不可或缺的软件。
+    step2: |-
+      理也结构着人的心灵、思想与语言，使人类天生就倾向于把握其所遇之物与情境，并试图作出恰当回应。[^note-7]据此，客观的学习可以理解为自我学习的一个侧面：确实，由连续性原理，客观的理解会增进自我的理解——领会了外在的物之理的经纬，人就洞悉了构成自己心灵与品格的内在之理（Qian Mu 1971: II 31–38）[^qian-1971]。在朱熹看来，理虽然结构着心灵、思想与语言，但这不只在认知层面：理也结构着内在的样式（性，*xing*）与基本冲动，使我们在各种条件组合下产生典型的人之情（*qing*）、关系与回应（感应，*ganying*）（Graham 1986a: 152–154; Qian Mu 1971: II. 25–30）[^qian-1971][^graham-1986a]。在朱熹的儒家观点中，理与性使人天生敏感而能回应；打个比方，它们提供了人性的硬件。修养与道德反思则是人主动调适并微调这些敏感与回应禀赋的手段；它们因而充当培养人格不可或缺的软件。
+  - id: 22
+    kind: body
+    source: |-
+      These are the contours of Zhu Xi’s approach to moral self-cultivation and interpersonal ethics. The standard ethical norms work well in standard situations, normal families, good communities, and ordinary social circumstances. But, Zhu also understood that people are richly complicated and that human affairs often become complex, get out of hand, and go awry. Life is just not that ideal, not that simple. We sometimes encounter ethically anomalous situations to which the standard sets of feelings and responses as prescribed by the received norms and ritual actions simply do not fit. In many instances, standing on the norm and being moralistic simply would make matters worse. Zhu himself said that one must have ample experience and self-cultivation so that,
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      > If, by chance, an anomalous affair should come up, one could comprehend it. One wants to be in a position to grasp such affairs thoroughly in order to understand their unfamiliar aspects. (YL: ch. 18, par. 21)
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Zhu Xi considered the issue of how to tailor responses that would be appropriate in problematic situations under the rubric of *quan* (weighing things up, discretion, expedient means).[^note-8] He noted several kinds of situations in which recourse to discretion and expedient means might be advisable: 1) extraordinary situations that cannot be covered by the standard norms and ritual actions, 2) urgent situations that require a direct violation of the received norms and ritual actions to be satisfactorily resolved, and 3) situations in which it would be more humane and prudent not to observe the relevant norms and ritual actions (see Wei 1986)[^wei-1986]. Situations of the first kind include those that call for a disruption of the given human order, for example the removal of an evil authority figure, such as a psychotic parent or a sociopathic tyrant. For situations of the second kind, Zhu had in mind emergencies when one would have to violate a norm in order to perform an positive emergency action, such as grasping the hand of a drowning sister-in-law, or shoving an old lady out of the path of a runaway oxcart.[^note-9] Finally, the third kind of situation includes those in which it would be more compassionate to waive or overlook the ritual prescriptions, such as in case of condoning the remarriage of a widow who would otherwise be destined to isolation and destitution.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Clearly, such considerations lead us into unmapped ethical terrain. How far can one justifiably take such sidestepping of the received applicable norms and ritual actions? What qualifications and restrictions might apply? For his part, Zhu Xi mentioned at least two qualifications: a weak qualification that the expedient adopted not be otherwise ethically objectionable, and a stronger qualification stipulating that the expedient adopted be in compliance with the Way, i.e., that it satisfy some basic moral value, at least as basic as the values expressed in the relevant received norm and ritual action. Thus, any exercise of discretion that is undertaken in light of one’s sense of appropriateness (*yi*), if exercised with sufficient probity and care, should satisfy the moral values embodied in the Way more adequately than would a routine observance of the standard norm. Humaneness, being the core moral value of Confucianism, was invoked most often in such cases, but there are a number of others: filial piety, fraternity, fidelity, empathy, compassion, appropriateness, etc. Famous examples from the Confucian tradition include Mencius’ reminder that one should overturn the propriety of not grasping the hand of a member of the opposite sex in order to rescue a drowning sister in law (*Mencius* 4A.17), and exceptions to the impropriety of widows remarrying in the case of Cheng Yi’s niece and his nephew’s wife. Li-hsiang Rosenlee reports that Cheng Yi proudly spoke of how his father had housed and given his grand-niece in remarriage (Rosenlee 2006: 133)[^rosenlee-2006]. Similarly, Socrates showed that Justice is not always realized by observance of the proprieties of truth-telling and faithfully returning a friend’s property (Plato *Republic* 331c).
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Nonetheless, ever cognizant of temptation and moral weakness, Zhu insisted on the well established probity and integrity of anyone who would venture to use discretion and exercise expedient means. He stated:
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      > Intending to weigh up a situation carefully [in order to exercise expedient means], one must have cultivated the inner root daily, so that one’s mind is sensitive, perspicacious, pure, and integrated; [even in that case,] one still must naturally weigh up such situations most carefully. As Cheng Yi (1033–1107) said: Be reverent in order to straighten oneself within; practice appropriateness in order to square situations without. One’s sense of appropriateness comprises the moral fiber which one expresses through sincere ritual action (YL 37, par. 36).
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Only those who have extensively “investigated things to extend knowledge”, and who are conversant with the subtle patternings of the human heart and human affairs would be qualified to consider exercising expedient means over simply following the norms. (Zhu knew that this ethical knowledge is as much a matter of practical experience as of book learning. At times, he told his occasionally priggish students that well-disposed people, even if morally untutored, can be more discerning and have better discretion than are some academicians!)
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      While Zhu stressed making careful observations in situations in order to tailor the most fitting responses in context, at the same time he envisioned a cultivation process whereby one discerns ever more fundamental and yet far-reaching patterns (*li*) that shape nature and moral value. That is, Zhu sometimes construed the project of investigating things to extend knowledge as an ascendant movement whereby the learner finally arrives at the pinnacle—*taiji* (supreme polarity) that embraces and subsumes all derived patterns. To Zhu, grasping *taiji* in this sense was tantamount to grasping the master key, for it represented to him the apex of being and value, and bestowed realization and sagehood on those who sincerely and authentically comprehended and embraced it.[^note-10] While this conception charts an ideal path to the pure, compassionate mind-set of sagehood, it obscures Zhu Xi’s usual emphasis on fine-tuning and sharpening one’s moral discernment and responsiveness in the midst of things—in full view of the situatedness of people in their daily life. This conception also neglects Zhu’s equal emphasis on the claim that patterns as inborn propensities (*xing*) are manifested only in concrete specific *qi* formations, and thus that 1) patterns are to be discerned in their fine particularity, that 2) the moral impulses are to be nurtured in the stream of human life, and that 3) the emotions, when not obscured by desires or obsessions, for the most part are immediate expressions of the basic natural impulses.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      How, too, to square this broad vision of probing inquiry and deep understanding with the potentially constrictive Confucian moral psychology constructed tightly round the virtues of humaneness, appropriateness, ritual propriety, and wisdom, and their attendant emotions? Zhu Xi likely realized that these virtues functioned as thematic foci for cultivation as one establishes ones moral orientation and bearings and a balanced interpersonal stance. One needs to go through an initial stage of mastering these basic virtues in order to 1) reinforce one’s altruistic impulses and curtail the egoistic ones, 2) be inclined to seek principled rapport and harmony in interpersonal affairs, and 3) be moved by a sense of oneness with others and all things. Subsequently, the more ethical human phenomena one observes and considers in advanced level learning and cultivation, the more one feels a broad sympathy for others that transcends the narrowly-graded love, the so-called love with distinctions that is attributed to the notion of *ren* (humaneness) in Confucianism (see *Mencius*, 1A.7, 3A.5, and 7A.45). The more one observes the nuances of human affairs and the springs of human action, the more one will express deference and respect in ways that do not necessarily coincide exactly with the general prescriptions of the norms and ritual actions. In this way, one will build up a repertoire of conduct that reflects one’s personal ethical discernment and discretion, which expresses one’s personal ethical attainment and style.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Zhu Xi on occasion modeled his ethical conception of observing situations and fashioning the most appropriate response naturalistically on the butcher character, Cook Ding, portrayed in the Zhuangzi as a skilled artisan: just as the sure blade of Cook Ding’s cleaver goes straight to the cartilage between the bones, the cultivated sense of appropriateness (*yi*) of Zhu Xi’s moral adept strikes right at the heart of interpersonal situations (see Thompson 1988: 39–40)[^thompson-1988]. A.C. Graham once contrasted Zhu’s perception/response model (*gan-ying*) of ethical action with that of Zhuangzi by suggesting that Zhu’s notion of appropriate response was informed by rigorous adherence to rules and principles, whereas Zhuangzi’s was relatively intuitive and spontaneous (Graham 1986a: 143–145)[^graham-1986a]. This apparent contrast can be resolved by separating the stages of cultivation and mastery: Zhuangzi’s skilled artisans, such as Butcher Ding, all had already undergone prolonged periods of rigorously controlled apprenticeship before they could “forget” the “knowing that” in an integrated, spontaneous process of “knowing how”. For his part, Zhu Xi knew that the years of learning and practice—one’s moral apprenticeship—culminates in a responsive moral agent who can operate as intuitively and spontaneously in his or her personal and social ethical sphere as do Zhuangzi’s skilled artisans in theirs.[^note-11] Zhu’s moral adept is in effect an artisan of interpersonal intercourse. Zhu could rightfully claim Confucius as a prime model for this view. After decades of cultivation, Confucius could say, “At sixty, my ear was attuned. At seventy, I could give my heart free rein and without overstepping the mark” (*Analects* 2.4).
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Viewed as a quest for knowledge as responsive pattern (*li*) discernment, enhanced by association, analogical reasoning, and generalization, Zhu Xi’s approach to inquiry dovetails with recent studies on strategies for learning for effective, ethical living. Neuroscientist and gerontologist Daniel J. Levitin writes concerning intelligence and wisdom,
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      > Humans excel at … making associations, taking information … and seeing how it interacts with other information. Whenever we encounter new information, our brains place it in a conceptual frame and then seek to associate it with other things we have experienced. The brain is a giant pattern detector…. Our brains add to that the ability to form analogies, … [to perform] analogical reasoning. The wisdom we find in older adults follow[s] from … these four things: association, experience, pattern recognition, and the use of analogies. And, this is why we we gain more and more wisdom as we age. Wisdom comes from the accumulated sets of things we’ve seen and experienced, our ability to detect patterns in those experiences, and our ability to predict future outcomes based on them. (And what is intelligence if not that?) Naturally, the more you have experienced, the more wisdom you are able to tap into…. [Old-timers] have been witness to so many things that seem to cycle around again and again. Wisdom enables you to handle some problems more quickly and effectively than the raw firepower of youth. [In sum, m]aking associations underpins learning. To assimilate new information we need to associate it with what we’ve seen before. Life experience gives us more associations to make, more patterns (*li*) to recognize. (Levitin 2020, pp. 119–120)[^levitin-2020]
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      On the surface, it appears that while Zhu Xi’s method of inquiry is specialized and prescriptive, Levitin’s presentation is merely descriptive of normal human learning. However, Levitin is describing the optimal learning strategies of people who remain sensitive, alert, discerning, and responsive throughout mature life, traits that some people nurture going forward and that others ought to make efforts to cultivate themselves in order to be more vital, understanding, and effective human actors and lead more fulfilling lives.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Zhu Xi’s appropriateness approach to ethics has several distinct features. First, one is to be well-versed in the received norms and rituals that circumscribe interpersonal relationships and prescribe proper behavior in family and society. Second, one is to have made ample observations and responses in real life situations. Third, one is to have examined and reflected on ways in which others act and respond in situations, for reference. Fourth, through extensive observation and experience, one is to be cognizant of the range of considerations that come into play in real life situations: moral principle, utility, fairness, sympathy, compassion, and so forth.[^note-12] Fifth, one is to remain flexible and open-minded as well as avoid making surmises, being insistent, stubborn, or self-centered (*Analects* 9.4). According to this view, while observing the ethical norms and rules of thumb in his or her community, the moral adept possesses a store of personal ethical sensitivity, responsiveness, and resourcefulness, by which to fashion the most fitting responses to situations.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      ### 3.2 Moral Cosmic Synthesis
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      In his watershed essay, *A Treatise on Humanity* (*Renshuo*), Zhu Xi discourses on the classical Confucian teaching of humanity (*ren*) in a unified cosmic and human perspective. In concluding, he criticizes alternative accounts of humanity, i.e., Confucius’ spirit of humaneness, on various conceptual and ethical grounds.[^note-13] Following the early Han tradition, Zhu opens by associating humaneness with cosmic creativity. In its most basic manifestation, humaneness is characterized as the impulse of “heaven and earth” (the cosmos) to produce things. By extension, this impulse yields the cycle of seasons and the pervasive fecundity of nature. Advocates of this doctrine had found confirmation in the rich, productive Chinese soil and temperate climate, which supported their assumption that nature was generally fertile and afforded the right conditions for human flourishing. Pervasive, the impulse to produce appears in each and every one of the myriad creatures while in human beings it is refined into the virtue of “humaneness”, which, when fully realized, involves one’s caring attitude and dedicated responsibility toward others. Zhu Xi moreover correlates “origination, growth, flourishing and firmness”, the fourfold initial stages of creativity and production in the cosmos and human nature first mentioned in early commentaries on the *Book of Change*, with humaneness, appropriateness, ritual conduct and wisdom, the four cardinal virtues enunciated by Confucius. Zhu Xi thus portrays the fully cultivated person as at once a complement to heaven and earth, a vital participant in cosmic creativity, and a catalyst for the flourishing and self-realization of others. On this basis, he goes on to formulate the definition of *ren* (humanity, humaneness) for the subsequent tradition: “the essential character of mind” and “the essential pattern of love.” The virtue of humaneness thus grounds the disposition of mind as commiserative and describes the core of moral self-realization as love for others (other-directed concern), to be appropriately manifested.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      In the closing argument of the *Treatise on Humanity*, Zhu Xi stresses that while the stillness and activity phases of the emotions provide emotive stage setting for one’s dedicated cultivation, realization, and practice of humaneness, what is crucial is the profound insight that,
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > If one could but truly *practice love and maintain it* (italics added), one would possess the well-spring of all virtues and the root of all good deeds. (based on Chan 1963, 212–227, edited)[^chan-1963]
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Under this premise, Zhu cites Confucius’ advice to Yan Hui, “Master the self by practicing ritual propriety” (*Analects* XII.1). For Zhu Xi, one masters oneself to rein in one’s naïve self-centeredness by paying ritual respect to others, which in turn spurs a change in the axis of one’s moral concern to other people, especially those with whom one is related and daily interacts. What is important, then, is *the moral-ethical axis of one’s motivations*. But, how is one to sustain and manifest this humanity consistently in attitude and practice? Zhu Xi does not appeal to philosophic reflection but recommends mindful (*jing*) daily cultivation and practice, i.e., being calm and focused, respectful in personal life, diligent in conducting affairs, and dedicated to upholding interpersonal relations.[^note-14] Moreover, he considers that the emotions play a fundamental role in ethical cultivation and performance. After stressing serving one’s parents with filiality and one’s elder brother with fraternal respect, Zhu Xi urges: “Be loving in dealing with all things.” which goes well beyond standard filtered and restrained “graded” Confucian love.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Humaneness is not just a matter of being thoughtful and considerate and paying one’s due respect to others; Zhu Xi underscores the rigors of conducting oneself sincerely and authentically with humaneness, citing Confucius’ examples of not only ministers who had declined official posts to maintain their integrity but of times when the exemplary person is willing to sacrifice his or her own life to fulfill humanity (*Analects* 15.8). Nonetheless, the animating spirit of Zhu Xi’s *Treatise* remains: “love people gently and benefit things,” as reflected in Mencius’ four incipient ethical impulses and Confucius’ four cardinal virtues.[^note-15]
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      ## 4. Natural Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      ### 4.1 Investigating Things for Natural Knowledge and Action
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      While Shao Yong and Cheng Yi in the Northern Song had introduced and sketched out the idea of observation in terms of *guanwu* (observing things), *fanguan* (reflective perception), and *gewu* (investigating things), Zhu Xi not only discussed the idea of observation but offered a multitude of actual observations of celestial and terrestrial phenomena. In addition, his penchant for hierarchy and systemization led modern commentators in the twentieth century to draw comparisons with Plato, Aristotle, and even Thomas Aquinas. Around the mid-twentieth century, Joseph Needham vividly presented Zhu’s system in terms of process philosophy as bearing organismic patterns of conceptualization and distinct parallels with scientific thinking:
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      > I am prepared to suggest, in view of the fact that the term *Li* always contained the notion of pattern, and that Chu Hsi himself consciously applied it so as to include the most living and vital patterns known to man, that something of the idea of ‘organism’ was what was really at the back of the minds of the Neo-Confucians, and that Chu Hsi was therefore further advanced in insight into the nature of the universe than any of his interpreters and translators, whether Chinese or European, have yet given him credit for. (Needham 1956a: 474)[^needham-1956a]
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Soon thereafter, after undertaking a careful study of Zhu’s dialogues (*Zhuzi yulei*), Hu Shih presented Zhu’s method of inquiry, *gewu zhizhi* (investigate things to attain knowledge) as essentially a process of “hypothesis and verification by evidence” (Chan 1989: 566)[^chan-1989], consistent in spirit with a scientific approach to inquiry. Needham and Hu effectively cast Zhu’s thought and method in a new light, as more creative, scientific, holistic, and practical than previously thought. Since then, many have discussed Zhu as a process thinker, but little has been written to consider the extent to which his system could accommodate a scientific worldview, and the extent to which his method of inquiry was consistent with a scientific approach. Yung Sik Kim offers an in-depth inquiry into the extent to which Zhu Xi anticipated genuine scientific methods of observation and conceptualization in *The Natural Philosophy of Chu Hsi* (2000).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Zhu from childhood displayed a genuine interest in natural phenomena and in raising speculative questions. Later he tended to rein in this interest, for example by relating features of observed natural phenomena to human analogues for didactic purposes and by refraining from pressing his speculations very far, i.e., beyond the scope of verifiable knowledge and applicability. Zhu lived during a tumultuous period in Chinese history when Neo-Confucian scholars tended to draw upon the resources of their own tradition to revitalize the empire, an effort in which Zhu’s *ouvre* constituted a watershed. He sought to wed the objective and subjective trends of the earlier movement into a practical synthesis in which objective inquiry played a key role in subjective cultivation. Subsequently, however, as his disciples refined his thought into a scholastic doctrine, subjective cultivation began to prevail over objective inquiry, which was increasingly redirected into the narrow limits of reading and interpersonal conduct.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      A Neo-Confucian master of the Ming dynasty, Wang Shouren (Yangming; 1472–1529), spurned Zhu’s method of inquiry altogether after he made a futile attempt to observe the *li* (patterning) in the bamboo growing outside his gate. Holding that facts are obvious to a perceptive observer and do not require endless further investigation, Wang went on to formulate an idealist pragmatism that became widely influential. Intending to counter the scholasticism and careerism of his day, Wang, a military man, stressed volitionism and activism and spurned the sort of careful objective inquiry Zhu thought necessary to making balanced judgments and appropriate responses.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Zhu conceptualized nature and natural phenomena in terms of *li* (pattern, patterning) and *gewu* (the investigation of things), *qi* (primal vapor), *yin-yang*, *wuxing* (five phases), *shu* (number, probability, ratio), *xiang* (images); figures from the *Book of Changes*), ghosts and spirits (*gui-shen*), heaven and the sage (*tian-shengren*), stimulus-response (*ganying*), and transformation and change (*bianhua*). In this context, it was important to treat *li* matter-of-factly as the intrinsic patterning of things and events. While the *li* involved with the identities of things are those facets of intrinsic patterning that pertain to their basic interactive propensities and functions, the *li* of a concrete thing form “a gestalt totality” (Kim 2000)[^kim-2000], nearly as complex as the thing itself. Thus, whereas scholars tend to take Zhu’s assertion that “for a certain (kind of) thing to exist, there first must be that *li*” or “there must be this *li* for there to be that (kind of) thing” as indicative of a metaphysical principle of sufficient reason, in this context *li* simply affirm that things of identifiable kinds bear identifying patterns (*xing*) that make them what they are and interact as they do. *Li* indicate reference points for identities of things that influence their typical patterns of interaction with other things. *Li* thus conceived do not amount to principles of explanation and are more involved with definition, so references to the *li* of phenomena do not add anything cognitive or scientific.[^note-16] At times, Zhu did present the idea of investigating things in chapter 5 of the *Great Learning* (*Daxue*) as involving a step-by-step approach, with an eye to discerning ever higher levels of commonality among the myriad *li* (patterns), aiming at an ultimate comprehension of the most basic form of pattern, *taiji* (supreme polarity). Although this approach lacks the rigor of a logical categorical system, when viewed together with Zhu’s comments on Zhou Dunyi’s *Diagram of the Supreme Polarity* (*Taiji tu*), it is suggestive for viewing phenomena and forms in a developmental, almost evolutionary context. As Needham comments:
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      > Chu Hsi [Zhu Xi] wrote:
+      >
+      > > If one peers into the mystery, the *thai chi* [*taiji*, supreme polarity] seems a chaotic and disorderly wilderness lacking all signs of an arranger…, yet the *Li* (fundamental pattern) of motion and rest, and of Yin and Yang, is fully contained within it.
+      >
+      > Innumerable smaller organisms were also contained within it, and indeed composed it. Some of them more highly organized than others. In fact, the world was no more undifferentiated for the Neo-Confucians than for modern organic philosophy; it manifested a series of integrative levels of organization, wholes at one level being parts on the next. A clear statement of this conception appears in the ninth paragraph of the *Thai chi Thu Shuo* [Explanation of the diagram of the supreme polarity], which indicated the inapplicability of categories outside the level to which they belong. (Needham 1956a: 466)[^needham-1956a]
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      For Zhu, investigating things to attain knowledge involves arriving at a grasp of their constituent *li*; “knowing” or “understanding” such phenomena, thus, is a matter of grasping their *li*. While Zhu often speaks of knowing or comprehending something in terms of the metaphor of seeing it clearly, of having a clear discernment of it, which is nothing like rigid propositional knowledge, he does recognize several forms or levels of knowing, and regards the basic steps of learning in analytical propositional terms and the higher levels in more synthetic insight terms. That is, one first learns facts about the building blocks of the world and human life, e.g., what things are, what they mean, how they fit together; then, gradually, one gains insights into the broader patterns of relationship and intercourse that comprise the world and human life and that eventually afford sensitive glimpses of the inner root as well as the larger picture. Zhu’s discourses are as full of detailed accounts of phenomena as they are of synthetic insights, which should be expected given that Zhu gives equal status and value to the various sorts of qualities that the Western tradition divides into primary (quantitative), secondary (qualitative), and tertiary (qualitative effects).
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      As noted, Zhu drew on notions of *qi, yin-yang*, the five phases, *shu* (numbers, probablilities), and images as conceptual and categorical resources for classifying, characterizing, and understanding the world, especially cycles, processes, and particular things and events. Chinese thinkers, especially during the Han dynasty, used such notions to arrange categories of reality and compile lists of qualities for each category. While some of the associated qualities are directly or causally linked, many of them are arbitrary—perhaps assigned in light of long forgotten events or decrees. These sets of categories were compiled as systematic indices for grasping things and events in terms of categorical associations and imputations. Inevitably, these sets of categories bore a strongly cultural stamp and bias but were applied equally to natural phenomena, as if the natural world were an extension of the human world, not *vice versa*.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Zhu often classified a natural phenomenon in terms of these categories and associations, and left it at that, unconcerned that the categories were haphazard and the associations arbitrary and inexplicable. Likely Zhu recognized that these categories and associations often were arbitrary and not particularly informative regarding physical reality but did not find it necessary or practical to pursue the matter. He presumably contented himself with assigning phenomena to these culturally colored sets of categories and associations because in those speech contexts those associations were more significant and interesting than the probing of purely physical categories and explanations would have been. These sorts of examples reflect the cultural common sense and conditions of common speech of his age.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      The question arises whether these sets of categories and associations were more a help or a hindrance to the development of science in traditional China. On the one hand, their loose criteria and arbitrary design allowed for easy classifications and “accounts” of phenomena that would have stymied serious scientific investigation while, on the other, the associations thus attributed to these phenomena sometimes might have yielded expectations or hypotheses of sorts, thus stimulating further inquiry. Interestingly, Zhu often sidestepped these sets of categories altogether in his serious thinking about natural phenomena and judged them by what he took to be the deciding factors in the cases themselves, often in light of analogies. Striking cases of this are Zhu’s discussions on the structure of the cosmos (heaven and earth) and insightful explanations of phases of the moon and eclipses of the sun and moon. For example, Zhu often said that the earth was floating on water; both below the earth and surrounding its four sides were water, but he also said that *qi* surrounded the earth. And, he also spoke of vortices, centrifugal forces, and occasionally of the earth’s motion. Zhu was interested in these accounts of the formation of the world, but saw no way to confirm any of them. He perhaps thought it was important to present such accounts as representative of an objective approach to a question that was more amenable to mystical or religious approaches.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Zhu’s notions of stimulus-response and transformation and change are noteworthy, for they are counterparts to the concepts of causation and change in Western science. Construing phenomena as resonant and sensitive, perhaps perceptive in a rudimentary sense, the notion of stimulus-response reinforces the interdependence of things. Assuming a resonance among things in terms of parallelisms among their forms, and affinities among their *qi*, this notion presents phenomena on a biological model and conduces to an ecological rather than a mechanical outlook. While providing an interactive way of talking about phenomena, it doesn’t open the way or impel the inquirer to uncover the nuts and bolts of causation and change. Also, since the idea of stimulus-response was usually tied to the aforementioned sets of categories and associations, it was often vague and applied in arbitrary and superstitious ways. As might be expected, Zhu’s notions of transformation and change also reflected biological and human-life models, with transformation indicating gradual change, as in the growth of a child or the passage of summer, and change indicating a sudden transformation, as from a caterpillar to a butterfly or from summer to winter and life to death. From the standpoint of developing science, by making change seem to be natural and inevitable, these notions of transformation and change tended to make further inquiry appear to be unwarranted. In contrast, Western ideas of eternal substance and inert matter, for example, made the observed changes on the earth and in the skies problematic and in urgent need of further inquiry and explanation. More pragmatic in spirit, the Chinese were concerned mainly with registering and grasping the observed patterns and sequences of change in and around them so as to be able to adapt their lives to the ever-changing circumstances. (The *Book of Changes* was a guide to making such adaptations.)
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Zhu Xi posits an ontological and causal continuity between the celestial and terrestrial realms, as well as between the animal and plant species and humanity. Indeed, there is no categorical difference between human beings and other life forms. Against this backdrop, Zhu carefully observed anomalies and sketched explanations based on the general ideas available to him. For example, when observing fossils of seashells atop a mountain, Zhu noted that the area had once been a seabed and hypothesized that the earth formerly was softer and more fluid and that, through wave motions, this seabed later rose to become a mountain top. Meanwhile, the entire earth dried as it grew older. While this explanation was not rigorous or determinate enough to count as a scientific hypothesis; Zhu appealed only to naturalistic concepts and principles in his comments. Zhu also made quantitative measurements of plant growth. Zhu once heard about a monk’s claim that oould see evidence of the nourishing powers of “night vapor” by observing bamboo sprouts, which grow twice as fast at night as during the day. Later, during a stay at a Buddhist residence on Jade Mountain, Zhu observed that the bamboo sprouts there displayed the “same rate of growth day and night, exactly the opposite of the monk’s claim”. Qian Mu observes that Zhu’s practice of *gewu* (investigating things) was fruitful because he made observations with questions or hypotheses in mind, adding that Wang Shouren’s observations of bamboo had been fruitless and in vain because he had no question or hypothesis in mind to test. Wang was just undertaking bland looking (Qian 1986: 215f, 219)[^qian-1986].
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      In contrast to reductive analytical Western concepts used in studying the natural world, including matter, material quality, motion, and change, Zhu Xi adopted a holistic approach to understanding the physical world and phenomena. He drew upon received notions of *li* (pattern) and *qi* (cosmic vapor) to describe and account for the material, dynamic, and formal features of perceived phenomena. *Li* (pattern) refer to the inner patterns of both interaction and identifying form. As noted, *li* are not general overarching principles, but inner patternings implicated in things and events, from the discernible textures—grains in wood, veins in leaves—to the postulated identifying forms, *xing*, of things. In terms of dynamic interaction, *li* structure the primal *yin-yang* intercourse as *taiji*, and the intercourse among the five phases as their constitutive identifying forms. Zhu thus conceived of the cosmos as emerging from incipient *yin-yang* interaction in the initially formless primal *qi* (*yuanqi*). *Yin-yang* interaction and further permutations give rise to the five phases, which bear the full range of material and perceptual qualities and whose interaction gives rise to heaven, earth, and the myriad things, i.e., the cosmos.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      The Chinese system of five phases differs from traditional Western atomism on several counts. As *qi* (*yin-yang*) operates in essentially a wave-like manner, the world is manifested as a field of interacting *qi* forces. Change is a function of the attunement of forms and resonance of *qi*, and transformation is viewed according to chemical and biological models. That is, not only are the five phases derived from *yin-yang* interaction; they are divisible and inter-convertible. Moreover, while Western atoms bear only primary qualities in themselves, each of the five phases exhibits a range of perceptual qualities and effects, and the tradition attributes a plethora of qualities and associations to *yin* and *yang*. These flexible and adaptable concepts do not create the sorts of problems, the kinds of conflicts with observation, that prompt rethinking and further, more precise investigations of phenomena. Because perceptual properties of all sorts are propagated from the formation of the five phases, Zhu Xi and others in his tradition did not draw the critical distinction between primary and secondary qualities that formed a crucial linchpin in physical analysis in the West from antiquity. To be sure, Zhu spoke of a threshold between perceptible and imperceptible phenomena in terms of the expressions “above forms” (*xing er shang*) and “within forms” (*xing er xia)*. “Above forms” refers not to general principles or primary qualities but essentially to the immanental moral underpinnings of nature and humanity, i.e., the inner roots of order and harmony, ecologically conceived, primary examples of which are *dao* and *li*. Characterizing these fundamental notions as “above forms”, Zhu insisted that people needed to comprehend them in light of their manifestations in perceived phenomena “within forms”. Lacking the critical distinction between primary and secondary qualities, Zhu treated perceptual qualities, such as color and taste, as equally basic, innate, and real in material substances as any other, and as such he did not look to underlying principles, causes, or mechanisms in terms of which to explain these manifest qualities.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Zhu Xi didn’t feel the need to formulate a theory of motion as such either, because the factors were glossed in his commonsense grasp of the world and he didn’t see any advantage in explicating them. Importantly, he couldn’t conceive of their theoretical ramifications or especially of their practical implications, such as for engineering and technology. At the same time, Zhu did have a grasp of inertia and the relativity of motion, keys to solving the problems of motion, but it was not adequate to the task. The capacity to imagine ideal cases and relationships would have been necessary: for example, Galileo had to conceive of the paradigmatic case of motion in terms of an object moving in a straight line on a frictionless plane at a constant velocity, something that can never occur in nature, for any actual object inevitably will be environed and influenced by a variety of forces, such as gravity and friction. Essential, too, was the mathematical plotting of motions in nature that approximate the paradigmatic motions, such as Kepler’s plotting of planetary motion and Galileo’s plotting of the trajectories of projectiles, to produce precise representations of near-paradigmatic motions. Necessary, too, was an awareness of the possibility of mathematical calculation and precise predictions. Zhu’s philosophy involved viewing all things interactively in relative context. If he had had a notion of paradigmatic (perpetual) motion, it would have been something like wave motions in the sea or the cyclical pumping action of the traditional Chinese waterwheel used for irrigation with rising full troughs of water complemented by the falling empty troughs (receptacles), which he had used to depict the *yin-yang* operation of *taiji*. Zhu also lacked the necessary notions of precise mathematicization, measurement, and calculation in terms of which to make the theory of motion bear fruit. Consequently, it is hardly to be expected that Zhu or any one else in his intellectual circle should have had occasion to formulate anything like a scientific theory of motion.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Several features of Zhu Xi’s thought and his notion of observation discouraged him from forming a reductive scientific theory or making scientific observations. Zhu was loath to investigate the sorts of fundamental abstract concepts, such as element, compound, infinity, space, time, void, causality, and law, that were necessary for making breakthroughs in the scientific revolution. Because of the Confucian commonsense approach to things, Zhu was disinclined to pursue or investigate such abstract, intangible, and seemingly ephemeral notions. He tended to think that focusing on concepts like void, nothingness, infinity, and space would draw people away from the world of human affairs and ultimately incline them toward pointless introspection. Zhu’s concern with the real world itself stymied his investigations into the very abstract concepts necessary for constructing a better grasp of this so-called real world.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Zhu Xi had a “particularistic” tendency to investigate each phenomenon on its own terms, without attempting to relate it to more general explanatory principles, as in his treatment of inertia and the relativity of motion. In another case, he discussed the difficulty of boiling rice atop a particular mountain in terms of the characteristics of the *qi* (cosmic vapor) of that mountain, without relating the phenomenon generally to characteristics of *qi* (as air pressure) at high altitudes. Inevitably, this ignoring of general principles made Zhu less sensitive to the contradictions that arose when he offered more than one explanation of a single phenomenon.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Why did Zhu Xi go to the trouble of constructing his elaborate system and making and discussing all these observations if they didn’t carry him beyond common sense to a deeper and more accurate perception and account of reality, to go beyond the details of particular cases to more general principles and truths? Zhu’s ultimate purpose was pragmatic rather than epistemic; that is, he was laying out the concepts, framework, and practices that he deemed most conducive to self-cultivation, self-realization, and ethical practice, rather than formulating objectively accurate concepts, systems, and methods for ascertaining objective truths about the world. So, he did not have a practical interest in pushing his inquiries in purely scientific directions. But, this way of putting it is not completely right because Zhu had considered a variety of philosophic positions and did think he had selected the best and most accurate of the concepts and systems at his disposal. And, he did attempt to render his ideas in a manner that was faithful to reality, the devotion to which was one of his core cultivation themes.[^note-17] Clearly, he did not have the requisite concepts, framework, or style of thinking through which to conceive the world under overarching scientific principles and abstract generalities.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Zhu Xi’s working concepts and thought were typified by immanental patterns (*li*) rather than by transcendental principles. He regarded reality, the world, not in terms of logical order, but as manifesting aesthetic order. Reality for him was not composed of independent atoms operating under general laws; rather it formed a field in which particulars appeared as foci determined in context. To Zhu, ours is not an absolute, objective universe in which particular individuals are subsumed under generalities and behave according to universal laws; rather, the world unfolds before us in light of our increasing, expanding perception of the arrays of particular phenomena around us. The world we experience is a function of, a field manifested as, the tapestry formed through the resonance among the foci making up that field. Consequently, the task of investigating things is a process of unfolding (rather than an inductive process), an exhausting of the *li* constituting particular things and events, from their gestalt forms, such as the symmetrical bilateral forms of most biological entities, to their identifying forms to their functions and typical patterns of interaction. Proceeding in this way, we seek not the most general laws or principles governing particular atomic individuals, but rather the most basic or common patterns of interaction and formation among particulars as foci in fields. Consequently, for example, the ultimate pattern in Zhu’s thought, *taiji*, the supreme polarity, is not an abstract ideal like a platonic form or a law of nature; it is an immanental pattern that is realized ubiquitously but distributively, not overarchingly or generally. Zhu was not working toward a scientific conception of the world, of reality, as constituted on general principles and abstract equations; he was traversing an alternative route by eliciting the formations of things and events in ecological context in a way that would open one’s mind to the intimate resonance and intercourse among particulars as foci in fields. At the same time, by stressing the expression “*gewu qiongli*” (investigate things to exhaust their *li*), Zhu maintained a measure of analyticity in his insights to ensure that the knowledge people gleaned was nuanced and textured enough to contribute to life understanding and appropriate conduct.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      ### 4.2 Philosophic Synthesis
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Zhu Xi erected a philosophical synthesis that has been compared broadly to the systems of Plato, Aristotle, Thomas Aquinas, Whitehead, and others. These “Great Chain” systems are hierarchical and rooted in the distinction between form and matter. Recent immanental readings of Zhu Xi’s thought have stirred comparisons with Spinoza and even Husserl (Choi 1999; Yeo 2013)[^choi-1999][^yeo-2013]. Zhu Xi preserved the immanental character of his hierarchy by incorporating Zhou Dunyi’s conception of world (and self) as shown in the *Diagram of the Supreme Polarity* (*Taiji tu*), as a way to combine the Cheng brothers’ concept of *li* (pattern) with Zhang Zai’s notion of *qi* (cosmic vapor) as organically integrated in a holistic system. In Zhou’s treatise, *Explanation of the Diagram of the Supreme Polarity* (*Taiji tu shuo*) (Adler 2014)[^adler-2014], Zhu discerned a viable account of the formation of the world in stages from the original unformed *qi*, to *yin* and *yang*, the five phases, earth, wood, fire, water, and metal, and on to heaven, earth and the ten thousand things. Zhu blended this conception with ideas from the *Book of Change* and its commentaries in setting forth a comprehensive philosophy of cosmic and human creativity and providing philosophical grounds for the received Confucian concepts of human nature and self-cultivation.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Zhu Xi’s penchant for thinking in polarities, *li* and *qi*, in particular, has continued to stir critics to regard him as a dualist who used two fundamental concepts to explain reality. For his part, any viable account of the complexity of phenomena must involve two or more facets in order to register their complexity, variety, and changes. Zhu generalized the organic understanding of *li* and *qi* implied in Zhou Dunyi’s *Explanation* under a principle of complementarity, inspired by Cheng Hao’s observation that all things have their complement (discussed in the next section). At first, Zhu thought this principle only governed *qi* phenomena as patterned by *li*, but eventually he admitted that not only were *yin* and *yang* paradigmatic polar complements but that the supreme polarity (*taiji*) complemented the *yin-yang* polarity, and inferred that *li* and *qi*, as the references of *taiji* and *yin-yang*, respectively, too had to be complements. This meant that *li* and *qi* were functionally on a par and mutually implicative. Zhu still felt the need to prioritize *li* ontologically and ethically, however, for the reason that *li* underwrites both the possibility of *qi* ordering (to yield a world and phenomena) and the possibility of moral feelings and norms (to yield ethics and a system of rites). Treating *li* and *qi* as full ontological complements would quite possibly entail a Daoist conception of nature as pure spontaneity and ethics as just perspectival while prioritizing *qi* over *li* would be inadequate for understanding the world and phenomenal orders, and reduce ethics to the received norms.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      ## 5. Complementarity between *li* and *qi*, and among related terms
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Recognizing *li* and *qi* as complements serves to underscore their unity in difference and their implicatedness in not just the forms but in the flow of events comprising the world.[^note-18] This complementary relationship, moreover, underscores the basic holism and power of Zhu’s thought regarding the formation of the world and things.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Zhu Xi was inspired by Cheng Hao’s formulation of the principle of complementarity, which he placed prominently in sec. 1 of the authoritative Neo-Confucian anthology, *Reflections on Things at Hand* (par. 25):
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      > Master Cheng Hao said: The *li* of heaven, earth and the myriad things is that nothing exists in isolation; everything certainly has its opposite/complement. This is spontaneously so and not artificially arranged. When I reflect on this truth late at night, I feel delighted as if my hands were waving and my feet were dancing. (based on Chan 1967, edited)[^chan-1967]
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Zhu Xi regarded this complementary pattern as describing the most fundamental ordering tendency of cosmos, phenomena, and self. Notably, this is *li* (pattern) in a new sense, now more as a *pattern of creative intercourse* than just as inherent patterning or order. It generalizes the significance of *taiji*, though it *prima facie* lacks *taiji*’s insistent implication of *li* into *qi* intercourse and derived phenomena. Zhu remarks that Cheng Hao felt delighted about his insight into this *li* because,
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      > Once he had grasped deeply the truth that, “nothing exists in isolation but certainly has its opposite/complement,” it seemed to him marvelous and joyous. (based on Chan 1967, edited)[^chan-1967]
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      *Zhuzi yulei* (Classified Dialogues of Master Zhu), *juan* 95, contains Zhu’s discussions with students on this Cheng Hao quotation. As mentioned, Zhu usually construes this as a *li* pattern underlying the complementary relationships among *qi* phenomena, which *li* itself transcends, hence implying a vertical bifurcation between *li* and *qi*. When a disciple asks Zhu whether the complements have to be “things” or whether, “*Li* too could have a complement?” The Master replies,
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      > As to the categories of above and below, small and great, clear and turbid, they also pertain to *things*. But, if we were to say, “having the above, there must be the below; having the large, there must be the small”, that would be purely a matter of *li*, that is to say it *has to be* like this, as a sort of logical necessity. For example, in nature’s production of things, there cannot only be *yin*, there must also be *yang*; there cannot only be *yang*, there must also be *yin*. These [*yin* and *yang*] are mutual complements. The contexts of these complements are not themselves complementary *li*. Rather, the *li* are the very reason by which there are these complements. (trans. by the author)
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Zhu also applies this *li* pattern creatively to number, speech, objects, and games. According to this pattern, “One complements two”, “above forms” complements “within forms”. Any word will bear its semantic complement within.[^note-19] And, this object before your eyes has its complements of back, front, top, and bottom. Moreover, each side has its complement…. Any single thing bears its complement within.[^note-20] For example, the paths on a checkerboard form series of complementary pairs. In the end, when only one path remains open and it seems that no other complement remains, this very path still complements the 360 other paths.[^note-21] This is called a ‘one-many complement’, like the ‘Way-implement complement’ (*Zhuzi yulei*, *juan* 95).
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      At the same time, Zhu hesitates to accept that *li* and *qi* themselves are complementary, but this primarily reflects his ethical concerns.[^note-22] On the ontological side, he eventually does affirm that *li* and *qi* are complementary by saying:
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      > As to what would be the complement of *taiji*, it is said that *taiji* is *wuji* (free of polarity)…. *Taiji* also complements *yin-yang*…. [Regarding] the Way above forms and… utensil within forms… these are ‘*horizontal* oppositions’…. (trans. by the author)
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      This is just like the condition that,
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      > Having the tranquility of the pre-aroused emotions of pleasure and anger, grief and joy, there is the harmony of these emotions when aroused in due degree. (trans. by the author)
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      *Taiji* and *wuji* are opposed, apparently contradictory, expressions. Signifying the most basic complementarity, namely, that between *yin* and *yang*, *taiji* is the most primitive and original form of *li.* It is quintessential *li*, or elementary form (patterning). Signifying something unbounded and free of polarity, *wuji* describes the unformed primal *qi* whence *yin* and *yang* emerge through the *taiji* impulse. It is quintessential *qi*, pure potentiality. Hence, Zhou Dunyi’s proposition, “*Wuji er taiji*” (Free from polarity, and yet the supreme polarity), expresses the identity of opposites (*li* and *qi*) that gives rise to the initial impulse of phenomena.[^note-23] In the next step of this impulse, *yin* and *yang* are formed. They complement *taiji* as pure energy to pure form, thus expressing another dimension of the *li-qi* complementarity.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      Although the distinction between “above forms” and “within forms” does not strictly mark the distinction between *li* and *qi*; nevertheless, as the way is *correlated with li*, and implement is embodied *qi*, their “*horizontal* complementarity” implies a similar pattern for *li* and *qi*. Strikingly, whereas those who take this above-below forms distinction as “metaphysical” and “physical” would have to describe the opposition as “*vertical*”, Zhu says plainly that it is *horizontal*, thus imputing a closer, more interactive relationship between these complements than could obtain had their relationship been strictly vertical.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      A final reason why Zhu Xi’s ideas of *li* and *qi* ought to be taken as horizontal and not vertical complements, that is, as a complex unity and not as a metaphysical duality, is found when Zhu makes two seemingly contradictory claims about *li* and *qi*: (1) *Li* is prior to *qi.* 2) *Li* is not present apart from *qi* formations. Whereas 1) is usually regarded as a positive metaphysical claim, it means rather that *li* in this sense refers to “permanent possibilities of *qi* formation”. For example, for any particular *qi* formation to have come about, it had to have been possible for the *qi* constituents to combine in that particular way to yield those properties and capacities.[^note-24] Whereas (2) is often taken to mean that *li* subsist until instantiated, it means rather that *li* are the patterning of real processes and things; they exist immanently in processes and things, though they can be analyzed and discussed separately from their real contexts. This is why, methodologically, Zhu insists that learners acquaint themselves with the *li* of things, processes, affairs, ethics, etc., by examining actual things, processes, phenomena, etc. He regards the study of *li* in abstraction from phenomena to be wooden, hollow, empty, etc. Hence, Zhu’s claims (1) and (2) and his methodological strategy all indicate that, for him, the relation of complementarity between *li* and *qi* is essentially horizontal.
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      The “*li*” pattern in the Cheng Hao quotation thus turns out to be a “meta-*li*” *about* the dynamic *li-qi* complements that originate and comprise the world and its constituents, that is, as a second-order abstraction from the *li* and *qi* that are actually implicated in phenomena. Again, this meta-*li* confirms the basic unity and dynamism of Zhu’s *li-qi* system. It reveals the pulse of life at the heart of *li* and affirms the possibilities of form in the vagaries of *qi* movement. It enlivens Zhu’s system and makes it flexible and conceptually adaptable to experience and thinking.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      We may reflect that Zhu’s original notion of *li* as pattern involves restrictions that conflict with experience or expression, so he reconfigures it in light of Zhou Dunyi’s *Explanation of the Diagram of the Supreme Polarity* and the Cheng Hao quotation.[^note-25] To work as intended, *li* has to tolerate and express simultaneous assertions of “contradictory” complementary terms. At the same time, this reconfiguration marks a step away from primarily immanental aesthetic pattern of the *li* conception to a more abstract, more self-consciously meta-pattern.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      ## 6. Major Interpreters of Zhu Xi
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Zhu Xi was an active scholar-intellectual who held discussions and disputes with other scholars, both in correspondence and in person. His thought can be understood by contrast with the thought of his intellectual rivals as well as through his positive views. For example, his series of letters with Zhang Shi on the topic of self-cultivation and moral psychology, preserved in the *Collected Writings of Master Zhu* (*Zhuzi wenji*), provides an illuminating record of these two dedicated Confucians’ quest for a well-grounded, efficacious approach to self-cultivation and practice. He debated with Lü Zuqian (1134–1181) on the nature of education. Zhu focused on the Confucian Way and moral practice in education while Lu argued for a broader-based humanities approach. Zhu held a series of debates with Lu Jiuyuan (Xiangshan: 1139–93) on the nature of realization and moral conduct. Whereas Zhu advocated regimens of study, reflection, observation, and practice, Lu spoke simply of reflecting on the self and clarifying the mind, considering that once the mind was clear one would know spontaneously what to do in any situation. Zhu also corresponded with the “utilitarian” Confucian scholar Chen Liang (1143–94), who disputed Zhu’s focus on individual moral realization and the received “Way” with a broader institutional approach that was more sensitive to empirical facts and conditions. Zhu generally eclipsed all of the other scholars of his day, partly because he outlived them and had so many students, but mainly because his system was so compelling. It was comprehensive yet nuanced, tightly reasoned yet accommodating of individual differences. It preserved the essential Confucian Way, yet ramified it to meet the challenges of Buddhism and Daoism as spiritual teachings. Zhu’s influence rose at the end of the Southern Song dynasty and became decisive during the Yuan dynasty when his edition of the *Four Books* was adopted as the basis of the imperial examination system arranged by scholars trained in his approach.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      While raising his standing in pedagogy, this focus on the *Four Books* came at the expense of Zhu’s deeper, more nuanced texts and dialogues, and opened the door to undue philosophic criticism. The schematic presentation of Zhu’s broad theory of *li* pattern and *qi* cosmic vapor that lay in the background of his commentary to the *Four Books* easily opened him to charges of dualism and of reading abstract categories into the down to earth, essentially practical ancient texts. Because his commentary was focused on reading and understanding the meaning, intent, and cultivation message of the *Four Books*, critics generalized that Zhu and his method were essentially scholastic and would be myopic and stilted in facing real situations. Anyone who peruses the corpus of Zhu’s writings and dialogues, however, will find that his ontology is not a crude dualism but a holism built of complementary, mutually implicative elements that never exist in separation. Also, his reflections are always informed by knowledge of history, current events, practical observation, and personal reflection, as his method of observation applies generally to objects (and self) and phenomena while respecting texts, which he took to be handbooks of ethical insight and practice, after all. Even Zhu’s comments on Confucius and Mencius often refer back to the person and the speech context, and thus are not entirely scholastic. His method of observation opened the door to breakthroughs beyond the “verities” of the classics, though he was careful not to play up this fact because most of his intellectual colleagues primarily sought the truth in the texts, thinking empirical facts were distractions from the essential Natural-patterning (*tianli*) that was reflected most adequately in the canonical texts.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Whereas early generations of Zhu’s followers were acquainted with his broad learning, incisive style, and open spirit, Confucians of the Ming and Qing dynasties knew him mostly through his edition of the *Four Books*, through which they targeted their criticisms of his thought. Zhu’s most eminent critic was the Ming scholar-official Wang Yangming (1472–1529). He rejected Zhu’s approach to observation as too objective and open-ended, as outward and diffuse and neglectful of concentration and inwardness. It could be said that, in his criticisms, Wang was reacting more to the scholastic attitudes fostered by the examination system than to Zhu Xi himself. Wang ultimately respected Zhu and went on to compile a text in which he argued that, in later life, Zhu’s thought had taken a a subjective, practical turn that anticipated Wang’s approach.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Scholars of the late Ming through the early Qing period (mid-seventeenth to early eighteenth century), notably, Wang Fuzhi (1619–92) and Dai Zhen (Tai Chen, 1723–77), disputed Zhu on philosophical and textual grounds. Whereas Zhu had allegedly insisted on the priority of “pattern” over *qi*, (roughly, form over matter), Wang and Dai followed the Northern Song thinker Zhang Zai in affirming the priority of *qi*, viewing patterns as *a posteriori* evolutionary realizations of *qi* interactions. They thought this account dissolved the threat of any hint of dualism in cosmology, ontology, and human nature. For his part, Zhu Xi would have responded that, fundamentally, “pattern” is implicated in the very make-up and possible configurations of *qi*, which is why the regular *a posteriori* patterns can emerge. *Li* “patterning” provides for the standing orders and processes, based on the steady interactions of *yin-yang*, five phases, etc., that give rise to the heaven-earth world order, with its full complement of ten thousand things. The fundamental *a priori* patterns are necessary to the world order and provide the fecund context in which the *a posteriori* forms emerge continuously. Wang and Dai’s *qi*-based view could not account for existence and the variegated yet systematic given world order in this sense. At the same time, Zhu did not think that “patterns” were absolutely determinative. They just set certain “possibilities of order” that are realized when the necessary *qi* conditions obtained. For the most part, he registered the range of randomness and free flow in *qi* activity that is best exemplified in the randomness of weather systems and seismic events.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      As to textual grounds, Wang and Dai argued that Zhu was so enamored of his metaphysics of pattern and *qi* that he constantly read them into the classical texts. For example, Dai said Zhu blandly associated Confucius’ term *tian* (heaven) with his own notion of *li* (pattern), quoting *Analects* 11:9 where Confucius, in sorrow over the death of his disciple Yan Hui, cried that “Heaven has forsaken me”. Dai questioned how Zhu Xi could reasonably claim that Confucius was crying that *li* had forsaken him? Critics tend to find this counter-intuitive example of Dai’s against Zhu’s approach to be compelling. However, consulting Zhu’s original commentary, we find that he noted that this phrase was not literally about heaven but rather expressed Confucius’ utmost sorrow, that Confucius felt Yan Hui’s death as if it was his own son’s, without mentioning “pattern”. This example does not support Wang and Dai’s claim in the least. It illustrates that Zhu’s commentary was nuanced and sensitive to pragmatic, situational usages despite his penchant to see his own notion of “pattern” in some of Confucius’ usages of “heaven”. Moreover, as the intellectual historian Daniel Gardner shows, Zhu’s commentary was not intended as simply a glossary with comments. It was intended as a guide to self-cultivation. Hence, Zhu sometimes recast passages in the *Analects* more generally to show their broader implications for self-cultivation and realization, often with the isolated countryside student in mind. Gardner shows how Zhu had effectively enriched the text as a tool for self-cultivation whereas earlier commentaries of the Han and Tang dynasties had just given glosses necessary for answering examination questions.
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      Known in the seventeenth and eighteenth centuries in the West through the work of Jesuits in China, Zhu Xi’s thought and texts were made more widely available to western scholarship in the late nineteenth century. Notably, James Legge (1815–1897) based his translations of the Chinese Classics on Zhu Xi’s commentaries, which he quoted and discussed at length in his footnotes to the texts. Early in the twentieth century, a Chinese student of John Dewey (1859–1951) at Cornell, Hu Shi (1891–1962), initially followed the empirical, textual Qing scholars in viewing Zhu as a scholastic metaphysician. But, after reading Zhu’s *Dialogues* for himself in old age, Hu contended that Zhu’s method of observation was not scholastic but essentially scientific in nature. J.P. Bruce, who translated a book of Zhu’s collected writings in the 1920s, viewed Zhu’s notion of *li* (pattern; principle) in light of Stoic natural law. From the 1930s, the eminent historian of Chinese philosophy, Feng Youlan, interpreted *li* along the lines of platonic Forms making Zhu Xi appear to be an idealist and abstract thinker. In the 1950s, Carsun Chang naturalized the notion of *li* by aligning it with the Aristotelian “nature” or “essence”, thereby locking Zhu’s thought into a sort of naturalistic metaphysics.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      From the 1960s, Mou Zongsan interpreted and criticized Zhu’s ontology and ethics on Kantian grounds, claiming Zhu had erected an *a priori* framework but then illicitly sought to derive further *a priori* knowledge (of patterns) by *a posteriori* means (observation). In the 1970s, the intellectual historian, Qian Mu examined and explained Zhu Xi’s thought directly in traditional indigenous terms, without reading western concepts and logical patterns into his system. Scholars wanting to read Zhu Xi on his own terms, largely unmediated by western thought, turn to the five volume Zhu Xi anthology edited by Qian Mu as a rich starting point.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      In 1956, Joseph Needham, originally a chemist, later a historian of Chinese science, made a significant breakthrough by interpreting Zhu’s system in terms of a process philosophy, Whitehead’s organic naturalism. Needham successfully recast much of Zhu’s language in naturalistic rather than metaphysical terms. The cultural, moral dimension of Needham’s account has been developed by Cheng-ying Cheng and John Berthrong while the scientific dimension has been examined by Yung Sik Kim. In the 1980s, A.C. Graham offered the most insightful and apt account of Zhu’s terminology and pattern of thought in, “What Was New in the Ch’eng-Chu Theory of Human Nature?” and other writings. Graham showed decisively that the term *li* refers to an embedded contextual “pattern”, rather than to any sort of abstract form or principle. He reminded us that the term *li* never figures in propositions or logical sequences, as would be natural for “principle”. Rather, *li* are always conceived as structuring, balancing, modulating, guiding phenomena, processes, reflection and human discernment and response. For example, one never finds moral syllogisms in Zhu Xi’s writings. Many of Zhu’s discussions thus concern moral emotional intelligence: attunement, sensitivity, discernment, and response. Joseph Adler views *li* as indicative of an “ordering” tendency that may be manifested as “pattern” or as “principle” in differing contexts. (We might say that people devise principles in the light of observed patterns.) Adler also examines the key roles played by the *Book of Change* and Zhou Dunyi in the formation of Zhu’s thought, and joins Thomas Wilson and Hoyt Tillman in showing the extent to which Zhu re-visioned, revised, and recast the Confucian Way. Adler shows how Zhu made Zhou Dunyi a pivotal figure in the succession of the Confucian Way while Wilson is interested in Zhu’s account of the Way as a sort of educational-ideological revision, and Tillman is interested in how Zhu’s account of the Way eventually outlasted other competing versions that might have offered more practical and liberal openings in late imperial China.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      Advances in Zhu Xi studies continue to be made in Zhu Xi studies in the present century. On the one hand, intellectual historians, such as Yingshi Yu, examine Zhu Xi’s historical, political, and cultural backgrounds, as well as his intellectual milieu. Other intellectual historians, such as Hoyt Tilman and Hans van Ess study Zhu Xi’s intellectual collaborators and rivals. Still others, such as Chun-chieh Huang and his colleagues examine the differing receptions and adaptations of Zhu Xi’s thought by Confucian scholars around East Asia. On the other hand, philosophical interpreter Brook Ziporyn has developed a “coherence” reading of *li* (pattern). Drawing on the parallel model of *li* and *shi* in Huayan Buddhism, he views Zhu’s *li* as the organizing, cohering element in *qi* phenomena, writ large and small. Given the intimate connection between *li* and truth in Zhu’s thought, the coherence account of *li* recalls the coherence theory of truth in 20th century Western philosophy. Moreover, in several recemt studies, Diana Arghirescu demonstrates that “principle of coherence” captures the organizing propensity of *li* in ontology as well as in ethics. She explains:
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      > By comparison, the Latin *cohaerentia* “organic order, structure,” emphasizes the quality of constituting a unified whole. The Latin *principium*, “source, foundations” is morally not ontologically signficant. That is, it does not imply here a transcendent meaning, but has a moral resonance … exactly as *li* does. (Arghirescu, 2020: 3)[^arghirescu-2020]
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Jeremy Lent presents Zhu’s holistic *li-qi* approach as instructive for ecological understanding as well as ethics. Notably, he characterizes resilient ecosystens as *cheng* or authentic for fulfilling their bio-ecological potential, just as exemplary persons realize *cheng* by forming lasting arrays of human relationship. Ethicists, such as Stephen Angle, Yong Huang, and Justin Tiwald examine Confucian ethics in general and Zhu’s ethics in particular as species of virtue ethics, as conceived in recent Anglo-American ethical thought. They have identified overlaps and similarities between these ethical approaches. Other scholars, such as Ming-huei Lee and the present author have identified Kantian elements in Zhu’s efforts to justify Confucian ethics and cultivation. Finally, while Shui Chuen Lee and others find support in Zhu’s system for a viable Confucian approach to environmental ethics, Chen Yu-Chuan explores Zhu’s lived approach to ecological understanding through his investigations of and engagement with the fengshui of the marvelous terrain of the Wuyi mountains, especially along the Wuyi Nine-Bend River. Research in progress explores Zhu’s proposal to establish a committee of experts of high moral character to review and enhance imperial decision making. Their mission would be to examine whether proposed imperial decisions would, in principle, be necessary, feasible, and in the public interest. While his call for such a “check and balance” institution to rein in arbitrary imperial descion making would have benefited the people and imperial court, as well as the empire, it would not have been countenanced by an all-powerful emperor and their high officials. Zhu’s proposal is breathtaking; it resonates with us in an era when the perils of arbritrary authoritatian decision making are all too evident.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      In summary, the depth and range of Zhu Xi’s thought have been unparalleled in the Chinese intellectual tradition and around East Asia. Zhu Xi studies globally continue to be vital, wide-ranging, and contentious. Moreover, they continue to grow and attract increasing interest around the world.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: oir
+    source: |-
+      - [Zhu Xi texts on Gutenberg](http://www.gutenberg.org/ebooks/author/2448) (in Chinese)
+      - [Selections from the *Zhuzi yulei*](http://users.wfu.edu/moran/zzyl_TOC.html) (*Classified Dialogues of Master Zhu*).
+      - [Zhu Xi, the master of neo-Confucianism in Wu Yi mountains](https://www.youtube.com/watch?v=zBCk9nIxKBw) (video).
+      - “[Opposition in Chinese Thought](http://faculty.vassar.edu/brvannor/Phil210/opposition.html)”, B.W. van Norden.
+      - “[Zhu Xi](https://www.oxfordbibliographies.com/view/document/obo-9780199920082/obo-9780199920082-0177.xml)” (comprehensive bibliography), *Oxford Bibliographies*, 2020, Kirill Thompson.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: note
+    source: |-
+      [^note-1]: Huayan posits a unified but complex conceptual structure juxtaposing *li* (reality, emptiness) and *shi* (events, phenomena) (Chang 1970; Cook 1976)[^chang-1970][^cook-1976].
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: note
+    source: |-
+      [^note-2]: Da Hui, a leading Chan master, opposed silent illumination Chan and stressed concentrating on *gongans* (koans), thematic discussions, and practice.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: note
+    source: |-
+      [^note-3]: This was the advanced examination, akin to the Ph.D. nowadays.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: note
+    source: |-
+      [^note-4]: Zhu Xi said, for example, “The norm just preserves the general, upright *li*. But, in subtle, complicated situations, the norm is not directly applicable. Thus, one needs to weigh things up (discretion) to do what is most fitting and fulfill the intended function of the norm” (YL: 37, par. 50).
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: note
+    source: |-
+      [^note-5]: For discussions, see Qian Mu 1986: 105–109 and 138–146.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: note
+    source: |-
+      [^note-6]: Zhou Tunyi (1017–1073) articulated this conception in *Diagram of the Supreme Polarity Explained* (*Taijitu shuo*). For discussion, see Joseph Needham 1956a: 455–472, and A.C. Graham 1986a: 147–149.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: note
+    source: |-
+      [^note-7]: This an extention of Mencius’ ideas that human beings are disposed to be good (*xing shan*) and are actuated by four incipient impulses (*si duan*).
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: note
+    source: |-
+      [^note-8]: Confucius mentions *quan* in the *Analects* 9.30, 18.8, and 20.1. Zhu Xi discusses *quan* in YL 37 and in his commentary on the *Analects*.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: note
+    source: |-
+      [^note-9]: By ritual custom, siblings-in-law of the opposite sex could not have physical contact in traditional Chinese culture, not even a handshake.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: note
+    source: |-
+      [^note-10]: See Zhu’s Supplement to *Daxue*, Chapter 5 (Gardner 1986: 104–105)[^gardner-1986].
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: note
+    source: |-
+      [^note-11]: This was not to fall into the moral intuitionism that Zhu had sought to avoid by stressing “investigating things to extend knowledge,” as well as reflection and practice in real life. In this case, the moral adept’s impulse is to examine the situation in depth to catch its objective moral nuances and respond in the most appropriate way.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: note
+    source: |-
+      [^note-12]: On moral considerations, see Edmund Pincoffs 1986: 53–70.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: note
+    source: |-
+      [^note-13]: ‘Humaneness’ captures *ren* as an animating impulse of commiseration and concern, and proper conduct exercised in that spirit. ‘Humanity’ captures *ren* as a moral theme or vision.
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: note
+    source: |-
+      [^note-14]: Reverence captures the original meaning of *jing*. Kalton 1988 insightfully suggests ‘mindfulness’ to capture the fullness of Zhu Xi’s notion of *jing* cultivation.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: note
+    source: |-
+      [^note-15]: The four beginnings include the four impulses of compassion, shame, courtesy and modesty, and right and wrong (Lau 1984). The four cardinal virtues are humaneness, appropriateness, ritual propriety, and wisdom (Adapted from Ames and Rosemont 1998)[^ames-1998].
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: note
+    source: |-
+      [^note-16]: In Zhu’s philosophical sense, ‘*li*’as pattern, patterning refers to formations of natural and organic structures, and formative cycles, complements, oppositions (Wade 2003)[^wade-2003]. It also pertains to the appropriateness of interpersonal relationships and interactions. While fixed, artificial patterns, such as clothing patterns and cookie cutters, which are two dimensional and rigid, might be described in terms of *li*, they differ from the unfolding, developmental *li* of nature and the world.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: note
+    source: |-
+      [^note-17]: Zhu highlights the proposition that, “The student must devote himself to reality,” in *Reflections on Things at Hand* (Chan 1967: 67, #62)[^chan-1967].
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: note
+    source: |-
+      [^note-18]: B.W. van Norden traces the idea of “Opposition in Chinese Philosophy,” with examples, from the Neolithic era until the Qing dynasty (see Other Internet Resources). Jiang Guozhu (1993)[^jiang-1993] gives examples of the principle of complementarity in Song Neo-Confucianism, as in the thought of Zhang Zai (122–132 CE), Wang Anshi (169–173 CE), and Zhu’s friend, Lü Zuqian (411–417 CE). However, Cheng Hao’s formulation of the principle is the most general and embraces opposition and complementarity both.
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: note
+    source: |-
+      [^note-19]: The understanding was that since words differentiate, they have complements. This idea is also expressed in *Laozi*, chapter 2.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: note
+    source: |-
+      [^note-20]: Doesn’t each one of us have a Doppelganger? This set of complements coincides with the holistic, perspectival quality of *li* patterning discussed above.
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: note
+    source: |-
+      [^note-21]: Hence, the endgame paradoxically implies a new game.
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: note
+    source: |-
+      [^note-22]: That is to say, Zhu thinks that, besides registering the way things stand and flow with the *qi*; more importantly, people need to uphold the harmony-engendering *li* of a cultivated, mindful life while sensing and responding to affairs appropriately.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: note
+    source: |-
+      [^note-23]: Needham notes acutely, “The particle [*er* 而] is a copula expressing not temporal succession but paradoxical identity…. Zhu Xi himself reaffirms the identity, saying that the *wuji* is not something outside or beyond the *taiji…*. *Ji* was from of old the technical term for the astronomical pole. Around the pole star all man’s universe revolved” (Needham 196a: 464).
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: note
+    source: |-
+      [^note-24]: On one hand, this looks like a tautology, but on the other hand, it inclines us not only to investigate the *li* of actual phenomena but to test new *qi* combinations to yield new properties or capacities, such as flight.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: note
+    source: |-
+      [^note-25]: In this regard, some philosophers posit dialetheistic principles in order to accommodate features of things that fully ‘consistent’ sets of principles could not capture adequately, such as Zhou Dunyi’s “Free of polarity and yet the supreme polarity.” Graham Priest also views propositions in the *Heart Sutra* and Nagarjuna in this light (2006: ch. 16).
+    step1: TBD
+    step2: TBD
