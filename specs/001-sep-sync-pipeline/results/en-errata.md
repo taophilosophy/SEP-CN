@@ -294,3 +294,12 @@
 | knowledge-analysis | gibbons-2013／ichikawa-2024 缺出版地 | 补 `Oxford:` | 缺出版地（①） |
 | knowledge-analysis | pappas-2023 缺年份 | 补 `2023,` | 缺年份（①） |
 | knowledge-analysis | worsnip-2017 `pp. 177-189` | `pp. 177&ndash;189` | 连字符应为连接号（①） |
+| knowledge-value | carter-2020 `&ldquo; Epistemic Value…` | `&ldquo;Epistemic…` | 引号内前导空格（①） |
+| knowledge-value | carter-2014 `Gordon, 2014 &ldquo;Objectual` | `2014, &ldquo;…` | 年份后缺逗号（①） |
+| knowledge-value | jarczewski-2025 期刊名 `Episteme` 未斜体 | `<em>Episteme</em>` | 期刊名未斜体（①） |
+| knowledge-value | goldman-1979 `*Justification and Knowledge* Boston: D. Reidel: 1–25` | `, Boston: D. Reidel, 1–25` | 标点错乱（①） |
+| knowledge-value | derose-1992 `Research</em> , 52` | `</em>, 52` | 逗号前空格（①） |
+| knowledge-value | pritchard-2010a `1-90` | `1&ndash;90` | 连字符应为连接号（①） |
+| knowledge-value | pritchard-2011 条末缺句点 | 补句点 | 缺标点（①） |
+| knowledge-value | turri-2016b 条末缺句点 | 补句点 | 缺标点（①） |
+| knowledge-value | turri-2011a `URL = <[url](url)>` | `URL = <url>` | 嵌套方括号（①） |
