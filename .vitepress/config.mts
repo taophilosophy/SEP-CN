@@ -11,6 +11,39 @@ const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..'
 // dev 下没有 pagefind 产物，保留内置 MiniSearch（PAGE_CAP 限流版）
 const isBuild = process.argv.includes('build')
 
+// ------------------------------------------------------- 分片构建（CI 并行）--
+// SEP_SHARD=ad|ek|lp|qz：四片按字母区间均衡切分（2026-11-16 依实际页数定界：
+// a–d 1165、e–k 1050、l–p 1196、q–z 915 页，中英两侧合并计），每片产物写
+// .vitepress/dist-<shard>，由 .vitepress/merge-shards.mjs 合并 dist、并集
+// hashmap.json、拼 sitemap 并跑一次 pagefind。分片模式关闭死链检查（跨片链接必然
+// “缺失”），链接完整性由不设 SEP_SHARD 的全量构建负责。
+// 根级页面与 1/、qian-yan 等非字母目录只进第一片（ad）。
+const SHARD_LETTERS: Record<string, string> = {
+  ad: 'abcd',
+  ek: 'efghijk',
+  lp: 'lmnop',
+  qz: 'qrstuvwxyz',
+}
+const ROOT_SHARD_LETTERS = SHARD_LETTERS.ad
+const shard = (process.env.SEP_SHARD || '').toLowerCase()
+const shardLetters = SHARD_LETTERS[shard]
+const isShard = Boolean(shardLetters)
+const ALL_LETTERS = 'abcdefghijklmnopqrstuvwxyz'
+const shardExclude: string[] = isShard
+  ? [
+      // 根级页面（README、mu-lu-s、两本登记册、SUMMARY 等）只进 ad 片
+      ...(shardLetters === ROOT_SHARD_LETTERS ? [] : ['*.md']),
+      // 非本片字母的词条目录与英文镜像
+      ...ALL_LETTERS.split('')
+        .filter((l) => !shardLetters!.includes(l))
+        .flatMap((l) => [`${l}/**`, `yuanwen/${l}/**`]),
+      // 非字母目录也只进 ad 片
+      ...(shardLetters === ROOT_SHARD_LETTERS
+        ? []
+        : ['1/**', 'qian-yan/**', 'guan-yu/**', 'jian-yi-shu/**', 'fang-fa-lun/**']),
+    ]
+  : []
+
 // ------------------------------------------------ 版本钉登记册（baseline） --
 // baseline/entries.json 是抓取管线登记的单一事实源：slug → source_url /
 // pubinfo（首发、实质修订）/ archive_edition（存档版名）/ 源 SHA-256 /
@@ -298,22 +331,28 @@ export default defineConfig({
   // 收敛规则：每落地一个 <letter>/<slug>.<x>.md 译文，即从 pendingSupplementPages 删除对应一条；
   // 清空后删除本配置项，恢复零豁免。
   // VitePress shouldIgnoreDeadLink 传入的 url 带 ./ 前缀且已去 .md 后缀，故统一加前缀。
-  ignoreDeadLinks: [
-    ...pendingSupplementPages.map((s) => `./${s}`),
-    // 英文原文镜像中的受限量词记号被 markdown-it 误判为链接；ADR-0007 要求原文逐字符一致，不改源。
-    './Unmarried(*x*,*w*)',
-    './Unmarried',
-    './*Gx*',
-    './f',
-  ],
+  // 分片构建下跨片链接必然"缺失"，故分片模式整体放行（见上方 SEP_SHARD 说明）。
+  ignoreDeadLinks: isShard
+    ? true
+    : [
+        ...pendingSupplementPages.map((s) => `./${s}`),
+        // 英文原文镜像中的受限量词记号被 markdown-it 误判为链接；ADR-0007 要求原文逐字符一致，不改源。
+        './Unmarried(*x*,*w*)',
+        './Unmarried',
+        './*Gx*',
+        './f',
+      ],
   // 2026-10-29 逐项选定：URL 去 .html；词条页标签加站名后缀；显示更新时间。
   // 注意：2.0 的 titleTemplate 占位符是 :title（%s 是 1.x 语法，会原样出现在标签页标题里）。
   // lastUpdated 不用内置逐页 git 查询（B1）：关闭后由 transformPageData 注入
   // git-stamps.json 预计算值，主题页脚照常显示（VPDocFooter 只看 page.lastUpdated）。
   cleanUrls: true,
+  // 分片构建各写自己的产物目录，避免并行任务互踩（见上方 SEP_SHARD 说明）
+  ...(isShard ? { outDir: `.vitepress/dist-${shard}` } : {}),
   titleTemplate: ':title · SEP 中文版',
-  // sitemap：2026-10-29 定启用；hostname 为 GitHub Pages 项目站占位，部署域名确定后修改
-  sitemap: { hostname: 'https://taophilosophy.github.io/SEP-CN/' },
+  // sitemap：2026-10-29 定启用；本站部署在 taophilosophy.github.io 的站点根（base '/'），
+  // hostname 与之对齐（2026-11-16 实测部署地址）。分片构建各片自产 sitemap，合并时拼回一份。
+  sitemap: { hostname: 'https://taophilosophy.github.io/' },
   // 非站点目录（治理/管线/原始物）不作为页面参与构建
   srcExclude: [
     'en/**',
@@ -333,6 +372,8 @@ export default defineConfig({
     'CODE_OF_CONDUCT.md',
     'yuanwen/SUMMARY.md',
     'yuanwen/SUMMARY-en.md',
+    // 分片构建的排除面（SEP_SHARD 未设时为空）
+    ...shardExclude,
   ],
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -543,7 +584,8 @@ export default defineConfig({
       chunkSizeWarningLimit: 1600,
     },
     plugins: [
-      ...(isBuild
+      // 分片构建不跑 pagefind：合并后在 merge-shards.mjs 里对整份 dist 跑一次
+      ...(isBuild && !isShard
         ? [
             pagefindPlugin({
               customSearchQuery: chineseSearchOptimize,

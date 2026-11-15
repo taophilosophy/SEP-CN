@@ -38,6 +38,15 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * `prepare-gitstamps.mjs`：一次全量 `git log` 生成 `.vitepress/git-stamps.json`（路径→最后提交时间 ms），`transformPageData` 据此注入 `lastUpdated`，免去内置逐页查询。派生物，gitignore。子模块浅克隆时历史只有一条提交，页脚时间统一为子模块提交时间，属已知限制。
 * `preview` 不跑这两步，故 `preview` 前须至少 `build` 过一次。
 
+## 分片构建（CI 并行，2026-11-16）
+
+单次全量构建的固定成本结构：打包约 3.5 min、渲染 4326 页约 15 min、pagefind 索引约 5.3 min。CI 把渲染摊到四个分片并行：
+
+* `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（按实测页数均衡：a–d 1165、e–k 1050、l–p 1196、q–z 915，中英两侧同片）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）与 `1/`、`qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 只进 `ad` 片。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
+* 分片模式**关闭死链检查**（`ignoreDeadLinks: true`）：跨片链接在本片必然"缺失"。链接完整性由不设 `SEP_SHARD` 的全量构建负责（本地收工前照旧 `bun run build`）。
+* `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
+* 实测（本机）：单分片打包＋渲染 3.3–4.2 min；四片并行＋合并（pagefind 5.3 min）约 13 min，对比全量 24 min。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
+
 ## dev 服务器
 
 * 固定 `host: '0.0.0.0'`、`port: 81`、`strictPort: true`——端口被占用即启动失败，不自动换端口。
