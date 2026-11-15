@@ -331,6 +331,7 @@ export default defineConfig({
     'CONTRIBUTING.md',
     'CODE_OF_CONDUCT.md',
     'yuanwen/SUMMARY.md',
+    'yuanwen/SUMMARY-en.md',
   ],
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -526,6 +527,20 @@ export default defineConfig({
     if (zh) pageData.frontmatter.zhPath = '/' + zh.replace(/\.md$/, '')
   },
   vite: {
+    build: {
+      // 分块告警阈值（2026-11-16 实测，Vite 8/rolldown 按未压缩体积比较，默认 500）：
+      // 依赖块远在阈值内——framework 111 KB、theme 101 KB、littlefoot 7 KB；
+      // 超限的全是「数据体积」块，且没有可拆的机制：
+      //   chunks/metadata 1.2 MB（__VP_HASH_MAP__ 4325 条路由哈希 + 站点数据，
+      //     VitePress 2.0 起 metaChunk 默认开启，页面元数据已按页拆出，剩下的
+      //     哈希表是全局前置数据，无配置项可再拆）；
+      //   chunks/assets 1.0 MB（全站图片 URL 映射，gzip 453 KB，随图片数线性增长）；
+      //   单页登记册/超长词条模块（shu-yu-biao 1.3 MB、ren-ming-biao 1.2 MB 等，
+      //     属单页内容本身）。
+      // manualChunks/rolldownOptions.codeSplitting 只能重排依赖，对这四类无效，
+      // 故按数据面上限放行告警；低于此值的块仍会正常告警。
+      chunkSizeWarningLimit: 1600,
+    },
     plugins: [
       ...(isBuild
         ? [

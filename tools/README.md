@@ -27,6 +27,7 @@
 | `check_terms.py` | 术语一致性检查（specs/002）：登记册 ↔ 词汇表译法冲突与登记册自洽为硬错误（退出码 1），词汇表滞后与缺裁定日期为告警；`--docs <路径>...` 定点核销 |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0027）：扫描 git 跟踪清单，缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规） |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/yuanwen/script 等保护目录） |
+| `gen_en_summary.py` | 生成英文空间目录 `yuanwen/SUMMARY-en.md`（ADR-0056）：从 `SUMMARY.md` 派生英文标题与相对路径，母词条占位行按 ADR-0057 §6 输出无链接分组行；校验目标存在、零汉字残留、分组行不含链接语法；确定性输出，`--check` 只校验不写回，`--no-groups` 为回退形态 |
 | `progress.py` | 从 SUMMARY/baseline/tasks 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 
 ## 快速命令

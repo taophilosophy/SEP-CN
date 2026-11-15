@@ -12,7 +12,7 @@
 | `yuanwen/` | 英文原文**本地库**：`yuanwen/<letter>/<slug>.md` 与中文侧逐字符镜像（ADR-0009）；图片存 `yuanwen/assets/<slug>/` | 否（gitignore，已跟踪演示条目除外） |
 | `qian-yan/`、`guan-yu/` | 项目说明页（版权、日志、编辑信息等） | 是 |
 | `SUMMARY.md` | **目录结构唯一数据源**，GitBook 侧边栏由它生成 | 是 |
-| `.gitbook.yaml` | GitBook 空间内容配置（ADR-0057）：根层一份对应中文空间；`yuanwen/.gitbook.yaml` 对应英文空间，其 `structure.summary` 指向生成物 `yuanwen/SUMMARY-en.md`（`tools/gen_en_summary.py` 派生，不手改） | 是 |
+| `.gitbook.yaml` | GitBook 空间内容配置（ADR-0056）：根层一份对应中文空间；`yuanwen/.gitbook.yaml` 对应英文空间，其 `structure.summary` 指向生成物 `yuanwen/SUMMARY-en.md`（`tools/gen_en_summary.py` 派生，不手改） | 是 |
 | `mu-lu-s.md` | 手工维护的 **分类目录** （独立于 SUMMARY 的学科分类视图） | 是 |
 | `shu-yu-biao.md` | 术语对照 **登记册** （术语决策的单一事实源；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`） | 是 |
 | `ren-ming-biao.md` | 人名对照 **登记册** （ADR-0012 自术语表拆出） | 是 |

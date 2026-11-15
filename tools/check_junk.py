@@ -57,6 +57,7 @@ ROOT_ALLOW = {
     '.gitignore': '忽略规则',
     '.markdownlint-cli2.jsonc': 'markdownlint 配置',
     '.github': 'CI 工作流与基线快照',
+    '.gitbook.yaml': 'GitBook 空间内容配置（根=中文空间；ADR-0056）',
     '.vitepress': '本地双语阅读站',
     '.specify': '项目宪法与 spec-kit 脚手架',
     '.zcode': 'AI 代理配置',
