@@ -452,3 +452,10 @@
 | slug | 原串 | 改正 | 依据 |
 | ---- | ---- | ---- | ---- |
 | zombies | 正文 `; compare Latham 2000, 72f.).` | `; compare Latham 2000, 72f.` | 段内括号计票 5 开 6 闭，句末 `)` 无对应开括号（编辑残迹）；Yablo／Chalmers 两括号各自闭合在案 |
+
+## 六、2026-11-15 续批（xenophanes 回炉 s0 补课发现）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| xenophanes | 正文 B16 `Thracians that theirs are are blue-eyed and red-haired.` | `Thracians that theirs are blue-eyed and red-haired.` | 衍字（①）：引文句法只需一个 are（Ethiopians 分句同构），双写为编辑残迹；drift_scan unchanged 证明上游原文如此 |
+| xenophanes | 正文 B14 `wear their own clothers and have a voice and body` | `wear their own clothes and have a voice and body` | 拼写（①）：clothers 非英语词，B14 通行译文为 clothes；drift_scan unchanged 证明上游原文如此 |
