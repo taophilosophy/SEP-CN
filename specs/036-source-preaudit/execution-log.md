@@ -8,3 +8,10 @@
 * 文档同步：rules/04（状态机表＋源审计前置环节节＋s2.5 两轴收缩＋重译前置）、rules/09 P0.5 行、tasks/README、contracts/cli.md、fan-yi-mu-ban §6.5。
 * 存量盘点：done 219／在途 s2.5_checked 194（补课集合 413）／pending 621／cleared 162（走管线自然入口）。
 * 待办：批次启动待批；`--net` 全库活检待批；pending/cleared 件自 ADR-0052 起在 `advance s0` 强制过机检。
+
+## 2026-11-15 首件补课（z 字头）与工具回修
+
+* 首件 s0 补课启动（zabarella／回炉件）即拦：`en_source_audit` 硬错 2（entry_link_bad）——SEP 官方注释停用链接（`<!--<a href="../latin-averroism/">-->`）被链接抽取当作活链。工具缺陷归因：`_check_links` 跑在原始 HTML 上未剥注释，与 `_text_nodes`（typo 轴已剥）口径不一致；波及面 grep 实测 188 件 en/ 含注释锚点，s0 门对这类件不可通过，回炉池（413）整体受阻。
+* 上游实证（礼貌抓取，间隔 6s，代理 7890）：`latin-averroism`、`neoplatonism-renaissance` 均 404——SEP 因目标词条未发布而注释停用，catalog 未过期（fetch_catalog 不解决）。旧 s1 凭证（2026-11-08）同判定："系 SEP 官方注释停用链接，无 SUMMARY 行"。
+* 处置（specs/030 §4.7 同类回修先例）：`_check_links` 入口剥注释（与 _text_nodes 同用 COMMENT_RE），注释内锚点不作链接核对；单测新增 `test_commented_out_link_not_audited`（注释停用不报）＋既有 `test_entry_link_catalog`（活链仍拦）双向锁定，8/8 绿。
+* 试金石：前 60 字头词条（60/60 含注释停用链接）修复后 entry_link_bad 对注释锚点零复发；活链核对能力不变。

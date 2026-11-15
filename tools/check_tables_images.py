@@ -200,7 +200,7 @@ def corpus(out_path):
     for p in iter_yuanwen():
         slug = os.path.splitext(os.path.basename(p))[0]
         text = open(p, encoding='utf-8').read()
-        n_tab = sum(1 for _, h, rows in parse_tables(text.split('\n'))
+        n_tab = sum(1 for _, h, _, rows in parse_tables(text.split('\n'))
                     if rows and not is_boilerplate(h))
         n_img = len(IMG_MD.findall(text))
         if n_tab:
@@ -211,7 +211,7 @@ def corpus(out_path):
     for p in iter_zh():
         slug = os.path.splitext(os.path.basename(p))[0]
         text = open(p, encoding='utf-8').read()
-        n_tab = sum(1 for _, h, rows in parse_tables(text.split('\n'))
+        n_tab = sum(1 for _, h, _, rows in parse_tables(text.split('\n'))
                     if rows and not is_boilerplate(h))
         n_img = len(IMG_MD.findall(text))
         zh_tab = slug in yw_tables or n_tab

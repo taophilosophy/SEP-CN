@@ -153,6 +153,9 @@ def _check_typo(text, out):
 
 
 def _check_links(raw, slug, ids, out, catalog):
+    # SEP 官方注释停用链接（<!--<a href="..">-->…，188 件存量）不算活链：
+    # 与 _text_nodes 同口径先剥注释，注释内锚点不作链接核对（specs/036 裁定表）
+    raw = COMMENT_RE.sub(" ", raw)
     entry_counts = Counter()
     external = []
 

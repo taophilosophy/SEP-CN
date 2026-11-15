@@ -77,6 +77,14 @@ class TestEnSourceAudit(unittest.TestCase):
         self.assertEqual(len(bad), 1)
         self.assertIn("no-such-entry-xyz", bad[0]["msg"])
 
+    def test_commented_out_link_not_audited(self):
+        # SEP 官方注释停用链接（zabarella 先例：上游 404，SEP 以 <!----> 停用）
+        # 不算活链：不产生 entry_link_bad，也不影响活链核对（specs/036 裁定表）
+        raw = ("<html><body><p><!--<a href=\"../no-such-entry-xyz/\">Latin Averroism</a>-->"
+               "<a href=\"../abelard/\">x</a></p></body></html>")
+        out = _run(raw, catalog={"abelard", "audit-fixture"})
+        self.assertEqual([h for h in out["hard"] if h["class"] == "entry_link_bad"], [])
+
 
 if __name__ == "__main__":
     unittest.main()
