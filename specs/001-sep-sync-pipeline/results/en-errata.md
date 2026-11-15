@@ -349,3 +349,17 @@
 | bayes-theorem | bayes-1764 链接文字 `Fascimile` | `Facsimile` | 拼写（①） |
 | bayes-theorem | hammond-1994 `Representations for of Probability` | `Representations of Probability` | 衍字（①） |
 | bayes-theorem | 注 1 `probabilty` | `probability` | 拼写（①） |
+| imprecise-probabilities | 正文 `要思想家` | `重要思想家`（缺字） | 缺字（①） |
+| imprecise-probabilities | 11 条卷期页 `192:5 1527–1542` 式 | `192(5): 1527–1542` | 卷期与页码间缺冒号（①） |
+| imprecise-probabilities | carr-2015 `2015 “Chancy…”`、`Topics 29 67–81` | 补逗号、`29: 67–81` | 标点（①） |
+| imprecise-probabilities | ferson-1996 `Ginzburg,1996`、`54 133–144`；ferson-2004 `85 135–152` | 补空格与冒号 | 标点（①） |
+| imprecise-probabilities | finetti-1964 书名重复、`Wiley. New York.` | 删重复、`New York: Wiley.` | 衍文与出版地倒置（①） |
+| imprecise-probabilities | good-1983 书名重复、`University of Minnesota Press. Minnesota.` | 删重复、`Minneapolis: University of Minnesota Press.` | 衍文与出版地倒置（①） |
+| imprecise-probabilities | hart-2015 `Hart. Casey`、`4 252–262` | `Hart, Casey`、`4: 252–262` | 标点（①） |
+| imprecise-probabilities | miranda-2008 `Approcimate` | `Approximate` | 拼写（①） |
+| imprecise-probabilities | williams-1976 `Przelęcki` | `Przełęcki` | 拼写（①） |
+| imprecise-probabilities | wheeler-2011 `Malcom Forster`、`North-Holland. Amsterdam.` | `Malcolm`、`Amsterdam: North-Holland.` | 拼写与出版地倒置（①） |
+| imprecise-probabilities | trautmann-2016 `Guijs van der Kuilen`、`2016 “Ambiguity…` | `Gijs van de Kuilen, 2016, “` | 拼写与标点（①） |
+| imprecise-probabilities | ruggeri-2005 `25 623–667, Elsevier. Amsterdam` | `25: 623–667, Amsterdam: Elsevier.` | 标点与出版地倒置（①） |
+| imprecise-probabilities | konek-nd `forthcoming “`、条末无句点 | 补逗号与句点 | 标点（①） |
+| imprecise-probabilities | bradley-2016 `3:20`、bradley-2019／2016-2 条末无句点；voorhoeve-2016 `Stewart,2016` | 补冒号／句点／空格 | 标点（①） |

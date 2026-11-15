@@ -2,7 +2,7 @@
 
 *首次发表于 2014 年 12 月 20 日；2019 年 2 月 19 日实质修订。*
 
-有论者主张，非精确概率是克服正统精确概率若干问题的一条自然而直观的途径。此类模型渊源甚早，近年的兴趣亦与日俱增。本文介绍非精确概率理论，讨论采用这类模型的动机，以及它们相对于标准精确模型的可能优势；随后讨论该模型引出的若干哲学问题。文末另附一篇历史附录，概述几位对非精确概率似有同情的要思想家。
+有论者主张，非精确概率是克服正统精确概率若干问题的一条自然而直观的途径。此类模型渊源甚早，近年的兴趣亦与日俱增。本文介绍非精确概率理论，讨论采用这类模型的动机，以及它们相对于标准精确模型的可能优势；随后讨论该模型引出的若干哲学问题。文末另附一篇历史附录，概述几位对非精确概率似有同情的重要思想家。
 
 ## 1 引言
 
@@ -10,7 +10,7 @@
 
 > 若断言那种期望的强度（视之为心灵的一种情感）可以归结为任何数值标准，那便是不合哲学之道的。（Boole 1958 [1854]: 244）[^boole-1958]
 
-基于上述理由以及许多别的理由，人们对 *Imprecise Probability*（非精确概率，IP）模型的兴趣正日益增长。宽泛地说，这类模型以某种方式越出了概率论的正统，同属信念模型之列。
+基于上述理由以及许多别的理由，人们对非精确概率（*Imprecise Probability*，IP）模型的兴趣正日益增长。宽泛地说，这类模型以某种方式越出了概率论的正统，同属信念模型之列。
 
 IP 模型的应用遍及多个领域，包括：
 
@@ -41,11 +41,11 @@ IP 模型的应用遍及多个领域，包括：
 
 于是，若你的信念状态——或称信态（doxastic state）——由 $p$ 表征，则你对 $X$ 的置信度便是 $p$ 赋予 $X$ 的值，即 $p(X)$。
 
-再者，贝叶斯信念模型中的学习通过 *conditionalisation*（条件化）来完成。若你获知命题 $E$（此外无他），则学习之后你对 $X$ 的信念为 $p(X\mid E) = p(X\cap E)/p(E)$。
+再者，贝叶斯信念模型中的学习通过条件化（*conditionalisation*）来完成。若你获知命题 $E$（此外无他），则学习之后你对 $X$ 的信念为 $p(X\mid E) = p(X\cap E)/p(E)$。
 
-本文主要关注的另一种进路，是用概率函数的集合而非单一概率来表征信念。于是，不再是某个 $p$ 表征你的信念状态，而是 $P$，一个由这类函数构成的集合。van Fraassen（1990）称之为你的 *representor*（表征集），Levi 则称之为 *credal set*（信度集）。解释表征集的方式有多种，稍后再论；目前不妨这样理解：你的表征集是一个 *credal committee*（信度委员会）：其中每个概率函数代表委员会一位成员的意见，而委员会集体地表征你的信念。
+本文主要关注的另一种进路，是用概率函数的集合而非单一概率来表征信念。于是，不再是某个 $p$ 表征你的信念状态，而是 $P$，一个由这类函数构成的集合。van Fraassen（1990）称之为你的表征集（*representor*），Levi 则称之为信度集（*credal set*）。解释表征集的方式有多种，稍后再论；目前不妨这样理解：你的表征集是一个信度委员会（*credal committee*）：其中每个概率函数代表委员会一位成员的意见，而委员会集体地表征你的信念。
 
-由这些概念可以定义若干“汇总函数”，它们在非精确概率的讨论中经常出现。通常假定，你对命题 $X$ 的置信度由 $P(X) = \{p(X) : p\in P\}$ 表征。我将沿用这一记号约定，但附带一项限定：我并不认为 $P(X)$ 足以表征你对 $X$ 的置信度。你对 $X$ 的 *lower envelope*（下包络）为 $\underline{P}(X)=\inf P(X)$；相应地，*upper envelope*（上包络）为 $\overline{P}(X)=\sup P(X)$。二者在如下意义上是彼此的 *conjugates*（共轭）：$\overline{P}(X) = 1 - \underline{P}(\neg X)$。
+由这些概念可以定义若干“汇总函数”，它们在非精确概率的讨论中经常出现。通常假定，你对命题 $X$ 的置信度由 $P(X) = \{p(X) : p\in P\}$ 表征。我将沿用这一记号约定，但附带一项限定：我并不认为 $P(X)$ 足以表征你对 $X$ 的置信度。你对 $X$ 的下包络（*lower envelope*）为 $\underline{P}(X)=\inf P(X)$；相应地，上包络（*upper envelope*）为 $\overline{P}(X)=\sup P(X)$。二者在如下意义上是彼此的共轭（*conjugates*）：$\overline{P}(X) = 1 - \underline{P}(\neg X)$。
 
 关于概率集如何更新的标准假定是：你得知 $E$ 之后对 $X$ 的置信度由 $P(X\mid E) = \{p(X\mid E), p\in P, p(E) > 0\}$ 给出；而学习之后的信念状态——即你获知 $E$ 之后的状态——为 $P(\cdot\mid E) = \{p(\cdot\mid E), p\in P, p(E) > 0\}$，也就是诸条件概率构成的集合。
 
@@ -77,7 +77,7 @@ Isaac Levi（1974、1985）区分“不精确”信度与“非确定”信度�
 
 部分因为 Levi 力主把“不精确的”信念与“非确定的”信念区别开来，有人反对使用“非精确概率”这一说法。借助上述非确定、不具体与内省不完善的三分，我们既能保住 Levi 所要保住的区分，又不必动用“不精确”一词；随后便可把“非精确”当作统称，覆盖所有这些缺乏精确性的情形。方便之处在于，这样做与围绕“Imprecise Probabilities”的大量形式工作保持一致——该名目正是用来涵盖非确定情形的。这一用法至少可以追溯到 Peter Walley 那部影响深远的著作 *Statistical Reasoning with Imprecise Probabilities*（Walley 1991）[^walley-1991]。
 
-可见“Imprecise”不甚妥当，“Probability”亦然：IP 的形式理论真正谈论的是 *previsions*（预现，可理解为一种期望），而不止于概率（即指示函数的期望）。好在把 Imprecise Probability 缩写成“IP”之后，一些有用的歧义恰好可以为我所用。
+可见“Imprecise”不甚妥当，“Probability”亦然：IP 的形式理论真正谈论的是预现（*previsions*，可理解为一种期望），而不止于概率（即指示函数的期望）。好在把 Imprecise Probability 缩写成“IP”之后，一些有用的歧义恰好可以为我所用。
 
 ## 2 动机
 
@@ -85,11 +85,11 @@ Isaac Levi（1974、1985）区分“不精确”信度与“非确定”信度�
 
 ### 2.1 Ellsberg 决策
 
-有不少决策问题的例子，会让人直觉上想要违背精确概率主义的指令；许多实验受试者也确实表现出违反公理的偏好。IP 提供了一条途径，可以把这类合乎直觉、又见于实验的选择刻画为理性的。经典一例即 *Ellsberg problem*（Ellsberg 1961）[^ellsberg-1961]。
+有不少决策问题的例子，会让人直觉上想要违背精确概率主义的指令；许多实验受试者也确实表现出违反公理的偏好。IP 提供了一条途径，可以把这类合乎直觉、又见于实验的选择刻画为理性的。经典一例即 Ellsberg 问题（*Ellsberg problem*；Ellsberg 1961）[^ellsberg-1961]。
 
 > 我有一只罐，内装九十颗弹珠：三十颗为红色，其余为蓝色或黄色，两者比例不详。
 
-试看此情景中各事件的指示赌局。先在“抽到红色即赢”（I）与“抽到蓝色即赢”（II）之间选择：你或许偏好 I 而非 II，因为 I 涉及 *risk*（风险），II 则涉及 *ambiguity*（歧义）。一个前景，若其结果不确定、但各结果以已知概率出现，便是有风险的；若各结果出现的概率未知或仅部分已知，则是有歧义的。再在“抽到的不是蓝色即赢”（III）与“抽到的不是红色即赢”（IV）之间选择：此时有歧义的是 III，IV 虽无歧义却有风险，故若你宁愿承担风险而不愿面对歧义，IV 在你看来便较好。这样一种偏好模式（宁取 I 而不取 II，却宁取 IV 而不取 III），无法被合理化为精确期望效用最大化者的选择。诸赌局汇总于下表。
+试看此情景中各事件的指示赌局。先在“抽到红色即赢”（I）与“抽到蓝色即赢”（II）之间选择：你或许偏好 I 而非 II，因为 I 涉及风险（*risk*），II 则涉及歧义（*ambiguity*）。一个前景，若其结果不确定、但各结果以已知概率出现，便是有风险的；若各结果出现的概率未知或仅部分已知，则是有歧义的。再在“抽到的不是蓝色即赢”（III）与“抽到的不是红色即赢”（IV）之间选择：此时有歧义的是 III，IV 虽无歧义却有风险，故若你宁愿承担风险而不愿面对歧义，IV 在你看来便较好。这样一种偏好模式（宁取 I 而不取 II，却宁取 IV 而不取 III），无法被合理化为精确期望效用最大化者的选择。诸赌局汇总于下表。
 
 表 1：
 
@@ -102,7 +102,7 @@ Isaac Levi（1974、1985）区分“不精确”信度与“非确定”信度�
 
 表 1：Ellsberg 赌局。罐中有 30 颗红色弹珠，60 颗蓝色／黄色弹珠
 
-令红、蓝、黄三色弹珠的概率分别为 $r$、$b$、$y$。倘若你是期望效用最大化者而偏好 I 甚于 II，则 $r > b$；偏好 IV 甚于 III 则意味着 $r+y < y+b$。没有任何一组数值能同时满足这两个约束。可见，不存在哪个概率函数能使以之为准的期望效用最大化者作出上述选择。这类偏好虽非人皆有之，却是许多实验受试者面对此类例子时相当稳固的反应（Camerer and Weber 1992; Fox and Tversky 1995）[^camerer-1992][^fox-1995]。也有实验提示，Ellsberg 型偏好模式比一般所认为的更为罕见（Binmore et al. 2012; Voorhoeve et al. 2016）[^binmore-2012][^voorhoeve-2016]。关于模糊态度的进一步讨论，见 Trautmann and van der Kuilen（2016）。
+令红、蓝、黄三色弹珠的概率分别为 $r$、$b$、$y$。倘若你是期望效用最大化者而偏好 I 甚于 II，则 $r > b$；偏好 IV 甚于 III 则意味着 $r+y < y+b$。没有任何一组数值能同时满足这两个约束。可见，不存在哪个概率函数能使以之为准的期望效用最大化者作出上述选择。这类偏好虽非人皆有之，却是许多实验受试者面对此类例子时相当稳固的反应（Camerer and Weber 1992; Fox and Tversky 1995）[^camerer-1992][^fox-1995]。也有实验提示，Ellsberg 型偏好模式比一般所认为的更为罕见（Binmore et al. 2012; Voorhoeve et al. 2016）[^binmore-2012][^voorhoeve-2016]。关于模糊态度的进一步讨论，见 Trautmann and van de Kuilen（2016）[^trautmann-2016]。
 
 非精确概率论者可把该情境建模如下：$P(R)=1/3, P(B)=P(Y)=[0,2/3]$。须注意，这一信念状态的表述遗漏了若干重要细节，例如对所有 $p\in P$ 都有 $p(B)=2/3-p(Y)$；但就眼下所论之点而言，这些细节无关紧要。只要对歧义建模，便可把现实行动者押注红色的偏好合理化为理性的。要把这套说法讲周全，还需对决策有更多交代（见 3.3 节），但其直觉在于：对歧义的厌恶解释了宁取 I 而不取 II、宁取 IV 而不取 III 的偏好。
 
@@ -112,19 +112,19 @@ Isaac Levi（1974、1985）区分“不精确”信度与“非确定”信度�
 
 ### 2.2 不完备性与不可比性
 
-为（精确）概率主义辩护的种种论证，都预设某种关系是完全的：不论是对行动项的偏好，还是某种“定性概率排序”，都假定该关系在论域任取两元素时必以某一方向成立。这很难算得上一条理性原则，在严重不确定的情形下尤其如此。以偏好为例：在两个方向上都不持偏好，本是合理的。这与对诸选项抱持 *indifferent*（无差异）的态度迥然不同。Mark Kaplan 对此作了如下论证：
+为（精确）概率主义辩护的种种论证，都预设某种关系是完全的：不论是对行动项的偏好，还是某种“定性概率排序”，都假定该关系在论域任取两元素时必以某一方向成立。这很难算得上一条理性原则，在严重不确定的情形下尤其如此。以偏好为例：在两个方向上都不持偏好，本是合理的。这与对诸选项抱持无差异（*indifferent*）的态度迥然不同。Mark Kaplan 对此作了如下论证：
 
 > 当你对 $A$ 与 $B$ 无差异时，或当你在 $A$ 与 $B$ 之间踌躇未决时，都可以说你不偏袒其中任一状况。然而，无差异与踌躇未决判然有别：当你对 $A$ 与 $B$ 无差异时，你不偏向其一，源于你断定二者同样可取；当你踌躇未决时，你不偏向其一，则并无这样的断定。（Kaplan 1996: 5）[^kaplan-1996]
 
-对于“不可比应与无差异相区别”这一主张，有一种标准的 *behaviourist*（行为主义）回应。其要旨是：这一区分无法从现实行动者的选择行为中推断出来。毕竟在给定情境中，你总得择其一；你选了哪一个，便可解释为你（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法有如下批评。
+对于“不可比应与无差异相区别”这一主张，有一种标准的行为主义（*behaviourist*）回应。其要旨是：这一区分无法从现实行动者的选择行为中推断出来。毕竟在给定情境中，你总得择其一；你选了哪一个，便可解释为你（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法有如下批评。
 
-> 值得一说的东西实在太多，而严格行为主义的樊篱之内却说不出多少……根本的困难在于：若不借助关于行动者心理状态的事实，就无从区分两类语境。一类是“其行为确实透露其所欲”，另一类是“并不透露”。……更严重的缺陷在于：行为主义无法理解对选择行为的 *rationalizing explanations*（合理化解释）。（Joyce 1999: 21）[^joyce-1999]
+> 值得一说的东西实在太多，而严格行为主义的樊篱之内却说不出多少……根本的困难在于：若不借助关于行动者心理状态的事实，就无从区分两类语境。一类是“其行为确实透露其所欲”，另一类是“并不透露”。……更严重的缺陷在于：行为主义无法理解对选择行为的合理化解释（*rationalizing explanations*）。（Joyce 1999: 21）[^joyce-1999]
 
 此外，行为主义者还无从解释如下事实：不可比的善对轻微的改善并不敏感。设 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对概率非精确的命题下注），$A^+$ 则略胜于 $A$；此时它仍可能与 $B$ 不可比。这正是不可比与无差异的分野：无差异造成的“平局”会被微小改善打破。可见“无差异与不可比之间并无行为差异”之说为假。
 
 Kaplan 主张，违反完全性公理不仅被允许，有时甚至是一种义务。
 
-> 我把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假精确，理由并非常见者：我的理由不在于这一要求非人力所能满足。倘若 *that*（那）便是全部症结，这要求倒仍可充当有用的范导性理想——一个可以正当地援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”决策问题的理想。我抱怨正统贝叶斯主义所要求者，毋宁在于：它强加的是错误范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有确定的 [$p$] 赋值——于是你便没有把证据应得的分量给它。（Kaplan 1983: 571）[^kaplan-1983]
+> 我把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假精确，理由并非常见者：我的理由不在于这一要求非人力所能满足。倘若那（*that*）便是全部症结，这要求倒仍可充当有用的范导性理想——一个可以正当地援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”决策问题的理想。我抱怨正统贝叶斯主义所要求者，毋宁在于：它强加的是错误范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有确定的 [$p$] 赋值——于是你便没有把证据应得的分量给它。（Kaplan 1983: 571）[^kaplan-1983]
 
 他指出，并非任何情形下你持有精确信念都属非理性或不可能；若果然如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只是它所刻画的是理想行动者在理想化证据位置上的信念。理想化的证据位置，近似于你手持一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想；分歧在于所涉的是何种理想化。精确概率主义者认为，妨碍我们持有精确概率信念的，不过是计算能力与内省能力的欠缺；非精确概率主义者则认为，即便在这两方面堪称理想的行为者，只要不处于理想的证据位置，也可能（或许还应当）不具备精确的概率信念。
 
@@ -138,11 +138,11 @@ Joyce（1999: 102–4）与 Jeffrey（1984: 138–41）都提出了类似看法�
 
 证据影响信念。Joyce（2005）提出，证据权重与证据平衡之间有一重要区别；他论证说，精确概率主义者难以处置这一区分，而它值得被表征出来。许多思想家都曾隐约触及这一想法，包括 J.M. 凯恩斯（J.M. Keynes）、鲁道夫·卡尔纳普（Rudolf Carnap）、C.S. 皮尔士（C.S. Peirce）与卡尔·波普尔（Karl Popper）（见 Joyce 2005; Gärdenfors and Sahlin 1982 所列文献）[^gärdenfors-1982][^joyce-2005]。凯恩斯对这一直觉的表述如下：
 
-> 随着手头相关证据的增多，该论证之概率的数值可增可减，取决于新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 *something*（某种东西）增加了——我们据以安放结论的基础变得更为厚实。我因此说：新证据的加入增添了论证的 *weight*（权重）。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
+> 随着手头相关证据的增多，该论证之概率的数值可增可减，取决于新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有某种东西（*something*）增加了——我们据以安放结论的基础变得更为厚实。我因此说：新证据的加入增添了论证的权重（*weight*）。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
 
 设想抛掷一枚已知公平的硬币。假设你已见过一百次抛掷，约有一半出现正面。那么你对这枚硬币将落在正面的置信度应在一半上下。此例中，信念背后是有证据权重的。
 
-再看另一情形：要抛掷的是一枚偏向未知的硬币，你从未见过它先前抛掷的数据。在关于其偏向毫无相关信息的情况下，对称性考虑或许提示你把正面出现的机遇估在一半上下。这一看法与上例不同：此处没有证据的 *weight*（权重），却也没有任何东西提示你对 $H$ 与 $T$ 的态度应有所不同；因此就 *balance*（平衡）而言，你对二者应持相同信念。
+再看另一情形：要抛掷的是一枚偏向未知的硬币，你从未见过它先前抛掷的数据。在关于其偏向毫无相关信息的情况下，对称性考虑或许提示你把正面出现的机遇估在一半上下。这一看法与上例不同：此处没有证据的权重（*weight*），却也没有任何东西提示你对 $H$ 与 $T$ 的态度应有所不同；因此就平衡（*balance*）而言，你对二者应持相同信念。
 
 然而，这两种不同的情形却被表征为同一种概率信念，即 $p(H)=p(T)=0.5$。在公平硬币一例中，这一概率赋值源于你有提示正面机遇为一半的证据，以及“信度应与机遇相配”的规约（*ceteris paribus*）。在偏向未知一例中则不然：人们另取一途而得到同一赋值。你的证据并不支持其中一个命题甚于另一个，于是某种“无差别原则”式的推理提示二者应被赋予相同信度（关于无差别原则的讨论，见 Hájek 2011）[^hájek-2011]。
 
@@ -152,11 +152,11 @@ Scott Sturgeon 对此有一句妙语：
 
 > *[E]vidence and attitude aptly based on it must match in character*（证据与恰当地基于它的态度，须在品性上相匹配）。证据若本质上是明确的，便证成明确或精确的态度；证据若本质上是模糊的——多数时候正是如此——则充其量证成模糊的态度。一言以蔽之：证据的精确生出态度的精确，证据的非精确生出态度的非精确。（Sturgeon 2008: 159，Sturgeon 原文强调）[^sturgeon-2008]
 
-Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为 IP 辩护的证据本性论证只需说明：证据的品性 *sometimes*（有时）允许（甚至要求？）非精确的信念，而不必主张二者始终匹配。与此相对，Schoenfield（2012）主张证据始终支持精确的信度，只是出于计算能力有限，现实行动者不必被要求持有精确信度。然而她的论证其实只支持这一点：非确定性有时源自证据的复杂与计算的复杂；她并未针对 Levi、Kaplan、Joyce 等人“存在证成非精确态度的证据情境”之说提出反驳。
+Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为 IP 辩护的证据本性论证只需说明：证据的品性有时（*sometimes*）允许（甚至要求？）非精确的信念，而不必主张二者始终匹配。与此相对，Schoenfield（2012）主张证据始终支持精确的信度，只是出于计算能力有限，现实行动者不必被要求持有精确信度。然而她的论证其实只支持这一点：非确定性有时源自证据的复杂与计算的复杂；她并未针对 Levi、Kaplan、Joyce 等人“存在证成非精确态度的证据情境”之说提出反驳。
 
 严格说来，这里只讲了故事的一半：就权重与平衡而言，信念的表征之间确实有差别。但问题依然悬着：究竟是什么在表征证据的权重？信念的哪一方面反映了这一差别？人们或许会想把 $\overline{P}(H)-\underline{P}(H)$ 当作 $H$ 之证据权重的度量，Walley（1991）也曾试探性地作此提示。然而，这么做在证据相互冲突的场合会失准。（试想两位同样可靠的证人：一位说硬币偏向正面，另一位说偏向反面。）IP 是否、以及如何胜过精确概率主义，至今仍未得到充分回答。不过，IP 研究者确已在区分两类情形上有所推进：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分恰恰是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
 
-面对权重／平衡之分的论证，精确概率主义者不妨转而指出 *resiliency*（弹性，Skyrms 2011）[^skyrms-2011] 或 *stability*（稳定性，Leitgeb 2014）[^leitgeb-2014] 这一性质：由证据权重确定的概率，比仅凭证据平衡确定的概率更能抗新证据。也就是说，若你已看过硬币一百次抛掷，再见一次正面并不会让你的信念挪动多少；若你一次抛掷也没见过，见一次正面则影响大得多。于是，这一区分在精确概率框架内借条件概率得到了表征。然而，这一区分并不能把偏好押注公平硬币合理化。人们大可构造一种按弹性加权的期望值，并声称这才是你该最大化的东西；可这样一来，它偏离正统概率主义的程度便与 IP 相当。倘若真有人发展出这样的理论，自可将其优劣与 IP 型模型相较。
+面对权重／平衡之分的论证，精确概率主义者不妨转而指出弹性（*resiliency*，Skyrms 2011）[^skyrms-2011] 或稳定性（*stability*，Leitgeb 2014）[^leitgeb-2014] 这一性质：由证据权重确定的概率，比仅凭证据平衡确定的概率更能抗新证据。也就是说，若你已看过硬币一百次抛掷，再见一次正面并不会让你的信念挪动多少；若你一次抛掷也没见过，见一次正面则影响大得多。于是，这一区分在精确概率框架内借条件概率得到了表征。然而，这一区分并不能把偏好押注公平硬币合理化。人们大可构造一种按弹性加权的期望值，并声称这才是你该最大化的东西；可这样一来，它偏离正统概率主义的程度便与 IP 相当。倘若真有人发展出这样的理论，自可将其优劣与 IP 型模型相较。
 
 另一种可能的精确进路是：若有许多作为 $H$ 之证据的命题被完全相信，或者有一个关于 $H$ 的机遇命题近乎得到完全相信，便可说有支持 $H$ 的证据权重；这与仅有平衡的情形恰成对照——后者中很少有支持 $H$ 的证据命题被完全相信，或者概率分散在若干机遇假说之上。前述关于弹性的评论在此同样适用：这类区分固然可以作出，却仍不能给我们一个足以把歧义厌恶合理化的理论。
 
@@ -180,7 +180,7 @@ Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为
 
 此例与硬币一例不同：何谓“正确的”精确概率主义式悬置判断，直觉上其实并不清楚；最大熵方法给出什么建议，取决于对建模所用形式语言的一些看似任意的选择。Williamson 对语言相对性这一难题了然于心，他主张语言的选择本身已编码了我们的部分证据。
 
-对这一论证的另一种回应，是接过 William James 对 W.K. Clifford 的答复（Clifford 1901; James 1897）[^clifford-1901][^james-1897]：James 主张，只要信念与证据相容，你便尽可信你所愿信的，因而无需悬置判断；这样看来，精确概率主义者做不到悬置判断并不算真正的缺陷。这种态度有时称作 *epistemic voluntarism*（认知意志主义），与 Bruno de Finetti、Frank Ramsey 等人所持的 *subjectivism*（主观主义）颇为相近。
+对这一论证的另一种回应，是接过 William James 对 W.K. Clifford 的答复（Clifford 1901; James 1897）[^clifford-1901][^james-1897]：James 主张，只要信念与证据相容，你便尽可信你所愿信的，因而无需悬置判断；这样看来，精确概率主义者做不到悬置判断并不算真正的缺陷。这种态度有时称作认知意志主义（*epistemic voluntarism*），与 Bruno de Finetti、Frank Ramsey 等人所持的主观主义（*subjectivism*）颇为相近。
 
 看来确有理由另辟一条悬置判断之途，使你在证据极不完备、有歧义或非精确时不至于非下注不可。信度既然是判断赌局可否接受的标准，就应当容许一项赌局的两侧都不可接受。精确概率主义者做不到：一项赌局的（精确）期望值为 $e$ 时，接下它的另一侧（做庄）期望值便是 $-e$；若把可接受性理解为期望非负，那么任何赌局在精确行动者那里至少有一侧可取。这显然不能令人满意——真正的悬置判断，恰恰包含不以任何赔率拿钱去赌一个命题之真。
 
@@ -192,7 +192,7 @@ Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为
 
 Haenni et al.（2011）为 IP 提供动机的方式，是表明它们如何能从精确的概率判断中生长出来：只要你对 $X$ 有精确概率、对 $Y$ 也有精确概率，那么即便不知道 $X$ 与 $Y$ 如何相关，你也能为 $p(X\cap Y)$ 与 $p(X \cup Y)$ 给出界；这些界给出复合事件可能概率值的区间。
 
-例如，$p(X \cap Y)$ 以 $p(X)$ 为上界，也以 $p(Y)$ 为上界，因而以 $\min\{p(X),p(Y)\}$ 为上界；若 $p(X) \gt 0.5$ 且 $p(Y) \gt 0.5$，则 $X$ 与 $Y$ 必有交叠，于是 $p(X\cap Y)$ 以 $p(X)+p(Y)-1$ 为下界。但按定义，$p(X \cap Y)$ 又受 $0$ 所限。合起来便得：知道 $p(X)$、又知道 $p(Y)$，你也就知道
+例如，$p(X \cap Y)$ 以 $p(X)$ 为上界，也以 $p(Y)$ 为上界，因而以 $\min\{p(X),p(Y)\}$ 为上界；若 $p(X) > 0.5$ 且 $p(Y) > 0.5$，则 $X$ 与 $Y$ 必有交叠，于是 $p(X\cap Y)$ 以 $p(X)+p(Y)-1$ 为下界。但按定义，$p(X \cap Y)$ 又受 $0$ 所限。合起来便得：知道 $p(X)$、又知道 $p(Y)$，你也就知道
 
 $$ \max\{0,p(X)+p(Y)-1\} \le p(X \cap Y) \le \min\{p(X),p(Y)\}. $$
 
@@ -216,7 +216,7 @@ $$\max\{p(X),p(Y)\} \le p(X\cup Y) \le \min\{p(X)+p(Y),1\}.$$
 
 Elkin and Wheeler（2016）主张，化解精确概率主义同侪之间的分歧，应当引入一个非精确概率。Stewart and Quintana（2018）则主张，非精确的聚合方法具备某些为任何精确聚合方法所无的优良性质。
 
-倘若委员会成员的信度与效用彼此不一，那么任何有别于各行动者自身概率与效用的精确概率—效用配对，都无法满足 *Pareto condition*（帕累托条件，Seidenfeld, Kadane, and Schervish 1989）[^seidenfeld-1989]。帕累托条件要求群体偏好尊重群体内部的一致：若所有成员都偏好 $A$ 甚于 $B$（即都认为 $A$ 的期望效用高于 $B$），聚合偏好也应满足这一偏好。聚合偏好由聚合的概率—效用配对决定。既然这种“共识保持”是对聚合的合理要求，该结果便表明群体行动者的精确模型有毛病。Walley 讨论过一例概率集：其中每个概率代表群体一位成员的信念，于是 $P$ 对各行动者信念的描述并不完备——其义为：若 $P$ 中所有成员在某点上一致，该点便是每位行动者都相信的。概率集使我们能够表征一个在判断上 *conflicted*（充满冲突）的行动者（Levi 1986, 1999）[^levi-1986][^levi-1999]。
+倘若委员会成员的信度与效用彼此不一，那么任何有别于各行动者自身概率与效用的精确概率—效用配对，都无法满足 *Pareto condition*（帕累托条件，Seidenfeld, Kadane, and Schervish 1989）[^seidenfeld-1989]。帕累托条件要求群体偏好尊重群体内部的一致：若所有成员都偏好 $A$ 甚于 $B$（即都认为 $A$ 的期望效用高于 $B$），聚合偏好也应满足这一偏好。聚合偏好由聚合的概率—效用配对决定。既然这种“共识保持”是对聚合的合理要求，该结果便表明群体行动者的精确模型有毛病。Walley 讨论过一例概率集：其中每个概率代表群体一位成员的信念，于是 $P$ 对各行动者信念的描述并不完备——其义为：若 $P$ 中所有成员在某点上一致，该点便是每位行动者都相信的。概率集使我们能够表征一个在判断上充满冲突（*conflicted*）的行动者（Levi 1986, 1999）[^levi-1986][^levi-1999]。
 
 > 理想的理性行动者也可能遇到无最佳选项可择的处境。概率判断非确定，价值之间又有未决冲突，会造成如下困境：到了抉择时刻，在 [可选选择集] 中，理性行动者认为关于现有选项的偏好排序不止一个可获许可。（Levi 1999: 510）[^levi-1999]
 
@@ -238,7 +238,7 @@ Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，
 
 再设 $p(H\mid X) = p(H) = 1/2$，且诸命题之间除逻辑与概率论所要求者外别无其他关系。不难验证：上述约束要求 $p(Y) = 1/2$，而 $X$ 的概率则不受任何约束。
 
-设想你获知了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 曾直观地说明：你可能如何获得关于如此相关、如此受约束的命题的信息（White 2010）[^white-2010]。White 的谜题是这样的：我手里有一个命题 $X$，你对它一无所知；我把 $X$ 与 $\neg X$ 中为真者写在一枚公平硬币的 *heads*（正面）一侧；再把硬币涂盖起来，使你看不出哪面是正面。随后我抛掷硬币，它落下时 $X$ 朝上。令 $H$ 为“硬币落地正面朝上”这一命题，$Y$ 为“硬币落地时写着 $X$ 的一面朝上”这一命题。
+设想你获知了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 曾直观地说明：你可能如何获得关于如此相关、如此受约束的命题的信息（White 2010）[^white-2010]。White 的谜题是这样的：我手里有一个命题 $X$，你对它一无所知；我把 $X$ 与 $\neg X$ 中为真者写在一枚公平硬币的正面（*heads*）一侧；再把硬币涂盖起来，使你看不出哪面是正面。随后我抛掷硬币，它落下时 $X$ 朝上。令 $H$ 为“硬币落地正面朝上”这一命题，$Y$ 为“硬币落地时写着 $X$ 的一面朝上”这一命题。
 
 设想你持有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 本无约束）。那么看到 $X$ 朝上落地，理应成为硬币落在正面的证据。博弈的设置恰恰让这些看似无关的证据实例能够携带信息：你对 $X$ 越是确信，$Y$ 便越是 $H$ 的好证据；反之，若你确信 $X$ 为假，$Y$ 便是 $H$ 为假的铁证。看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实不难证明）。就诸事件的关联方式而言，观察落地朝上的是 $X$ 还是 $\neg X$，恰是一条探知 $H$ 是否朝上落地的噪声信道。
 
@@ -246,11 +246,11 @@ Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，
 
 由于你对 $X$ 一无所知，你的表征集里既有把 $Y$ 当作 $H$ 之好证据的概率，也有把 $Y$ 当作 $\neg H$ 之好证据的概率。于是，尽管 $P(H)=\{1/2\}$，却有 $P(H\mid Y) = [0,1]$。这一现象——后验宽于先验——即所谓膨胀，数学文献中已有充分研究（Walley 1991; Seidenfeld and Wasserman 1993; Herron, Seidenfeld, and Wasserman 1994; Pedersen and Wheeler 2014）[^herron-1994][^pedersen-2014][^pedersen-2014-2][^seidenfeld-1994][^seidenfeld-1993][^walley-1991][^wheeler-2014]。Levi 与 Seidenfeld 曾在 Good（1967）之后向 Good 报告过一例膨胀，Good 在随后的论文中提及了这通通信（Good 1974）[^good-1974]。哲学界近来对膨胀的兴趣，则由 White 的论文引发（White 2010）[^white-2010]。
 
-White 视膨胀为问题，因为得知 $Y$ *seems*（似乎）与 $H$ 无关：既然你对 $X$ 无知，那么得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否落在正面；说你在得知 $Y$ 之后对 $H$ 的信念会从 $1/2$ *dilate*（膨胀）到 $[0,1]$，未免离奇——感觉上这该与 $H$ 毫无干系才是。然而，唯有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关；你对 $X$ 持有的任何别的精确信念，都会让 $Y$ 影响你对 $H$ 的后验信念。图 2 就关于 $X$ 之可能性的某一特定看法展示了这一情形，对应某个特定的 $p\in P$：横线可上可下，取决于我们所注目的那位委员会成员对 $X$ 持何看法；只有当对 $X$ 的先验也恰为一半时，$p(H\mid Y)$ 才是一半。而非精确概率主义者所考虑的，是 *all the ways $Y$ might affect belief in $H$*（即一切可能影响信念的途径）。
+White 视膨胀为问题，因为得知 $Y$ 似乎（*seems*）与 $H$ 无关：既然你对 $X$ 无知，那么得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否落在正面；说你在得知 $Y$ 之后对 $H$ 的信念会从 $1/2$ 膨胀（*dilate*）到 $[0,1]$，未免离奇——感觉上这该与 $H$ 毫无干系才是。然而，唯有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关；你对 $X$ 持有的任何别的精确信念，都会让 $Y$ 影响你对 $H$ 的后验信念。图 2 就关于 $X$ 之可能性的某一特定看法展示了这一情形，对应某个特定的 $p\in P$：横线可上可下，取决于我们所注目的那位委员会成员对 $X$ 持何看法；只有当对 $X$ 的先验也恰为一半时，$p(H\mid Y)$ 才是一半。而非精确概率主义者所考虑的，是 *all the ways $Y$ might affect belief in $H$*（即一切可能影响信念的途径）。
 
 图 2
 
-![正方形分两列（标“H”与“非 H”）两行（窄行标“X”，宽行标“非 X”）。左上象限有阴影，标 Y；右上象限无阴影，标 非 Y；左下象限无阴影，标 非 Y；右下象限有阴影，标 Y。](../assets/imprecise-probabilities/joyces-diagram.png)
+![正方形分两列（标“H”与“非 H”）两行（窄行标“X”，宽行标“非 X”）。左上象限有阴影，标 Y；右上象限无阴影，标非 Y；左下象限无阴影，标非 Y；右下象限有阴影，标 Y。](../assets/imprecise-probabilities/joyces-diagram.png)
 
 图 2：信度委员会的一位成员（依 Joyce（2011））
 
@@ -311,7 +311,7 @@ Moss（2015）把 Elga 式的 IP 决策问题与道德困境相勾连，借这�
 
 ### 3.4 解释 IP
 
-非精确概率并非全新的理论，只不过是对既有信念模型稍作修改，以适应歧义情境。你的信度往往已足够精确，手上的行动也会让你大体 *as if*（仿佛）是个严格贝叶斯主义者。不妨把非精确概率比作“相对论”、把严格贝叶斯比作“牛顿力学”：除了最极端的情形，两者几乎无从分辨。这一类比还可再进一层。两种情形中，理论在正常情况下都“经验上不可区分”，却在某些概念上截然不同。一则关乎牛顿力学与广义相对论中绝对空间的地位，一则关乎严格／非精确概率论者如何建模无知。Howson（2012）在信念建模与科学模型之间作过类似类比：两者都要求对目标系统保持一定忠实，而忠实又须与简单性、计算可行性等理论优点相权衡。Hosni（2014）同样主张，何种信念模型为恰当，多少取决于语境。当然，这里也有一处重要的不类比：信念模型据说兼为规范性的与描述性的，而科学模型通常只须承担描述角色。Walley（1991）讨论过类似看法，但对这类解释总体上持怀疑态度。
+非精确概率并非全新的理论，只不过是对既有信念模型稍作修改，以适应歧义情境。你的信度往往已足够精确，手上的行动也会让你大体仿佛（*as if*）是个严格贝叶斯主义者。不妨把非精确概率比作“相对论”、把严格贝叶斯比作“牛顿力学”：除了最极端的情形，两者几乎无从分辨。这一类比还可再进一层。两种情形中，理论在正常情况下都“经验上不可区分”，却在某些概念上截然不同。一则关乎牛顿力学与广义相对论中绝对空间的地位，一则关乎严格／非精确概率论者如何建模无知。Howson（2012）在信念建模与科学模型之间作过类似类比：两者都要求对目标系统保持一定忠实，而忠实又须与简单性、计算可行性等理论优点相权衡。Hosni（2014）同样主张，何种信念模型为恰当，多少取决于语境。当然，这里也有一处重要的不类比：信念模型据说兼为规范性的与描述性的，而科学模型通常只须承担描述角色。Walley（1991）讨论过类似看法，但对这类解释总体上持怀疑态度。
 
 #### 3.4.1 信念是什么？
 
@@ -324,7 +324,7 @@ Moss（2015）把 Elga 式的 IP 决策问题与道德困境相勾连，借这�
 
 这便是“赌博解释”，也是荷兰赌论证背后的解释：它把赌博商数与信念之间的联系绷得足够紧，从而支撑荷兰赌定理的主张——信念必须是概率性的。Williamson 恰是据此对 IP 提出异议：IP 给不出这种赌博解释（2010: 68–72）。他主张，尽管有 Smith 与 Walley 的贡献（见 [形式附录](imprecise-probabilities.supplement-formal.md)），单值赌博解释作为一种信度标准仍讲得通，单侧赌博解释则不然。其想法是：你可以拒绝一切赌局，除非按你的眼光赔率极有利；这样的行为并不透露你的信度；然而若你被要求给出一个单一数值，这个数值便透露了你的认知状态。此说有几分道理，但须与另一重忧虑相权衡：强迫行动者持有这样的单一数值，会系统性地错绘其认知状态。一如 Kaplan 所言
 
-> 你在 *compulsion*（强制）之下为 [$p(X)$] 选定某个确定值，因而提名 $0.8$——仅此一点，远不足以说明你有理由选择 $0.8$。简言之，正统贝叶斯主义者犯有鼓吹虚假精确之罪。（Kaplan 1983: 569，Kaplan 原文强调）[^kaplan-1983]
+> 你在强制（*compulsion*）之下为 [$p(X)$] 选定某个确定值，因而提名 $0.8$——仅此一点，远不足以说明你有理由选择 $0.8$。简言之，正统贝叶斯主义者犯有鼓吹虚假精确之罪。（Kaplan 1983: 569，Kaplan 原文强调）[^kaplan-1983]
 
 一种相关的信度解释，是把信度径直理解为对行动者行动倾向的表征。信度即是这样一个函数：你所引出的偏好与所观察到的行动，都可表征为某个期望效用最大化者相对于该概率函数的偏好与行动（Briggs 2014: 第 2.2 节）[^briggs-2014]。你的信度就是那个把你表征为理性行动者的函数。在精确概率主义那里，“理性行动者”意为“期望效用最大化者”；在非精确概率主义那里，理性行动者则必另有稍异之义。这类想法稍精致一些的版本，是把信度理解为偏好结构中恰由表征定理里的概率函数所表征的那一份。回想 2.2 节关于不完备性的讨论：IP 把你表征为一个在两个以上 $p \in P$ 之间左右为难的行动者——除非这些 $p$ 一致认为 $X$ 优于 $Y$（或反之），否则你便觉得二者不可比。至于表征定理实际证明了什么，仍有争议（见 Zynda 2000; Hájek 2008; Meacham and Weisberg 2011）[^hájek-2008][^meacham-2011][^zynda-2000]。
 
@@ -336,7 +336,7 @@ Moss（2015）把 Elga 式的 IP 决策问题与道德困境相勾连，借这�
 
 至此，我们对信念模型该做什么已有更清楚的想法。但模型的哪一部分在表征信念状态的哪一部分？首先要说的是：$P(X)$ 并不足以表征对 $X$ 的信念。信度集进路的一项价值正在于此：它能捕捉命题之间某些非逻辑的关系，而这些关系一旦只盯着（比如）相关的概率值集合，便丢失了。例如抛掷一枚偏向未知的硬币，$P(H)=P(T)=[0,1]$，可这就没能表征一个重要事实：对所有 $p\in P$ 都有 $p(H)=1-p(T)$；又如“第一次抛掷得到正面”至少与“连续两次得到正面”一样可能。这些未被“值集”观点捕捉的事实，在推理与决策中都能扮演要角。
 
-对某些用途而言，$P(X)$ 或许是 *good enough*（足够好）的信念表征。例如在 Ellsberg 博弈中，这些概率值集合（连同相关的期望集）已足以把非概率偏好合理化。表征要有多好，取决于它将被用于何处：把太阳当作质点，对基本的轨道计算来说够用；可若你要研究日冕物质抛射、太阳耀斑之类依赖太阳内部动力学细节的现象，它显然不敷所需。
+对某些用途而言，$P(X)$ 或许是足够好（*good enough*）的信念表征。例如在 Ellsberg 博弈中，这些概率值集合（连同相关的期望集）已足以把非概率偏好合理化。表征要有多好，取决于它将被用于何处：把太阳当作质点，对基本的轨道计算来说够用；可若你要研究日冕物质抛射、太阳耀斑之类依赖太阳内部动力学细节的现象，它显然不敷所需。
 
 ### 3.5 倒退
 
@@ -352,7 +352,7 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 
 如前所见，理性信念须具备某些结构性质；这些性质究竟为何，则取决于你持何种观点。不过，评估信念尚有别的门径：强烈地相信真者、强烈地相信假者之否定，似乎是信念的加分特征。就精确信度而言，这一点可以精确化——“评分规则”文献甚多，所论即衡量一个概率相对实际世界状态有多好的方法（Brier 1950; Savage 1971; Joyce 2009; Pettigrew 2011）[^brier-1950][^joyce-2009][^pettigrew-2011][^savage-1971]。这些方法以数值刻画：给定真实世界状态，一个概率有多好。
 
-然而一到非精确概率，前景便显得黯淡：任何实值的非精确概率评分规则，都无法具备 *strictly proper*（严格正常）这一可欲性质（Seidenfeld, Schervish, and Kadane 2012）[^seidenfeld-2012]。Schoenfield（2017）给出了该结果的一个简版。严格正常性本是评分规则的可欲性质（Bröcker and Smith 2007; Joyce 2009; Pettigrew 2011）[^bröcker-2007][^joyce-2009][^pettigrew-2011]，这一缺陷因此不可小觑：要发展出有充分根据的非精确概率评估理论，仍需更多工作。Mayo-Wilson and Wheeler（2016）给出了该证明更简洁的版本，并提出一种弱于严格正常性、非精确概率评分规则可资满足的性质。Carr（2015）与 Konek（即出）均就如何推进非精确评分规则提出了积极构想；Levinstein（即出）则认为，问题其实只出现在确定地非精确的信度上，非确定的信度并无此虞。
+然而一到非精确概率，前景便显得黯淡：任何实值的非精确概率评分规则，都无法具备严格正常（*strictly proper*）这一可欲性质（Seidenfeld, Schervish, and Kadane 2012）[^seidenfeld-2012]。Schoenfield（2017）给出了该结果的一个简版。严格正常性本是评分规则的可欲性质（Bröcker and Smith 2007; Joyce 2009; Pettigrew 2011）[^bröcker-2007][^joyce-2009][^pettigrew-2011]，这一缺陷因此不可小觑：要发展出有充分根据的非精确概率评估理论，仍需更多工作。Mayo-Wilson and Wheeler（2016）给出了该证明更简洁的版本，并提出一种弱于严格正常性、非精确概率评分规则可资满足的性质。Carr（2015）与 Konek（即出）均就如何推进非精确评分规则提出了积极构想；Levinstein（即出）则认为，问题其实只出现在确定地非精确的信度上，非确定的信度并无此虞。
 
 ## 4 总结
 
@@ -360,13 +360,11 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 [^al-najjar-2009]: Al-Najjar, Nabil I., and Jonathan Weinstein, 2009, “The Ambiguity Aversion Literature: A Critical Assessment”, *Economics and Philosophy*, 25: 249–284.
-[^augustin-2014]: Augustin, Thomas, Frank P.A. Coolen, Gert de Cooman, and Matthias C.M. Troffaes (eds), 2014, *Introduction to Imprecise Probabilities*, John Wiley and Sons. New York.
-[^benétreau-dupin-2015]: Benétreau-Dupin, Yann, 2015, “The Bayesian who knew too much”, *Synthese*, 192:5 1527–1542.
+[^augustin-2014]: Augustin, Thomas, Frank P.A. Coolen, Gert de Cooman, and Matthias C.M. Troffaes (eds), 2014, *Introduction to Imprecise Probabilities*, New York: John Wiley and Sons.
+[^benétreau-dupin-2015]: Benétreau-Dupin, Yann, 2015, “The Bayesian who knew too much”, *Synthese*, 192(5): 1527–1542.
 [^binmore-2012]: Binmore, Ken and Lisa Stewart and Alex Voorhoeve, 2012, “How much ambiguity aversion? Finding indifferences between Ellsberg’s risk and ambiguous bets”, *Journal of Risk and Uncertainty*, 45: 215–238.
 [^blackwell-1954]: Blackwell, D., and M. A. Girschick, 1954, *Theory of Games and Statistical Decisions*, Wiley. New York.
 [^boole-1958]: Boole, George. 1958 [1854], *The Laws of Thought*, Dover. New York.
@@ -375,40 +373,40 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^bradley-2017]: –––, 2017, *Decision theory with a human face* Cambridge University Press. Cambridge.
 [^bradley-2014]: Bradley, Richard, and Mareile Drechsler, 2014, “Types of Uncertainty”, *Erkenntnis*. 79: 1225–1248.
 [^bradley-2015]: Bradley, Seamus, 2015, “How to choose among choice functions”, *Proceedings of the Ninth International Symposium on Imprecise Probability: Theories and Applications*, 57–66 URL = <[http://www.sipta.org/isipta15/data/paper/9.pdf](http://www.sipta.org/isipta15/data/paper/9.pdf)>.
-[^bradley-2016]: –––, 2016, “Vague chance?”, *Ergo*, 3:20
-[^bradley-2019]: –––, 2019, “A counterexample to three imprecise decision theories”, *Theoria*, 85:1 18–30
+[^bradley-2016]: –––, 2016, “Vague chance?”, *Ergo*, 3: 20.
+[^bradley-2019]: –––, 2019, “A counterexample to three imprecise decision theories”, *Theoria*, 85(1): 18–30.
 [^bradley-2014a]: Bradley, Seamus, and Katie Steele, 2014a, “Should Subjective Probabilities be Sharp?” *Episteme*, 11: 277–289.
 [^bradley-2014b]: –––, 2014b, “Uncertainty, Learning and the ‘Problem’ of Dilation”, *Erkenntnis*. 79: 1287–1303.
-[^bradley-2016-2]: –––, 2016, “Can free evidence be bad? Value of information for the imprecise probabilist”, *Philosophy of Science*, 83:1 1–28
-[^brady-2012]: Brady, Michael and Rogério Arthmar, 2012, “Keynes, Boole and the interval approach to probability”, *History of Economic Ideas*, 20:3 65–84.
+[^bradley-2016-2]: –––, 2016, “Can free evidence be bad? Value of information for the imprecise probabilist”, *Philosophy of Science*, 83(1): 1–28.
+[^brady-2012]: Brady, Michael and Rogério Arthmar, 2012, “Keynes, Boole and the interval approach to probability”, *History of Economic Ideas*, 20(3): 65–84.
 [^brier-1950]: Brier, Glenn, 1950, “Verification of Forecasts Expressed in Terms of Probability”, *Monthly Weather Review*, 78: 1–3.
 [^briggs-2014]: Briggs, R.A., 2014, “Normative Theories of Rational Choice: Expected Utility”, *The Stanford Encyclopedia of Philosophy*, (Fall 2014 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2014/entries/rationality-normative-utility/](https://plato.stanford.edu/archives/fall2014/entries/rationality-normative-utility/)>.
 [^broome-2000]: Broome, John, 2000, “Incommensurable Values”, in *Well-Being and Morality: Essays in Honour of James Griffin*, R. Crisp and B. Hooker (eds), 21–38, Clarendon Press. Oxford.
 [^bröcker-2007]: Bröcker, Jochen, and Leonard A. Smith, 2007, “Scoring Probabilistic Forecasts; On the Importance of Being Proper”, *Weather and Forecasting*, 22: 382–388.
 [^camerer-1992]: Camerer, Colin, and Martin Weber, 1992, “Recent Developments in Modeling Preferences: Uncertainty and Ambiguity”, *Journal of Risk and Uncertainty*, 5: 325–370.
-[^carr-2015]: Carr, Jennifer, 2015 “Chancy accuracy and imprecise credence”, *Philosophical Topics* 29 67–81.
+[^carr-2015]: Carr, Jennifer, 2015, “Chancy accuracy and imprecise credence”, *Philosophical Topics*, 29: 67–81.
 [^castro-nd]: Castro, Clinton and Casey Hart, forthcoming, “The imprecise impermissivists dilemma”, *Synthese*.
 [^cattaneo-2008]: Cattaneo, Marco, 2008, “Fuzzy Probabilities based on the Likelihood Function”, in *Soft Methods for Handling Variability and Imprecision*, D. Dubois, M. A. Lubiano, H. Prade, M. A. Gil, P. Grzegorzewski, and O. Hryniewicz (eds), 43–50, Springer.
 [^cattaneo-2014]: –––, 2014, “A Continuous Updating Rule for Imprecise Probabilities”, in *Information Processing and Management of Uncertainty in Knowledge Based Systems*, Anne Laurent, Oliver Strauss, Bernadette Bouchon-Meunier, and Ronald R. Yager (eds), 426–435, Springer.
 [^chandler-2014]: Chandler, Jacob, 2014, “Subjective Probabilities Need Not Be Sharp”, *Erkenntnis*. 79: 1273–1286.
 [^chu-2004]: Chu, Francis, and Joseph Y. Halpern, 2004, “Great expectations. Part II: Generalized expected utility as a universal decision rule”, *Artificial Intelligence*, 159: 207–230.
 [^chu-2008]: –––, 2008, “Great expectations. Part I: On the customizability of General Expected Utility”, *Theory and Decision*, 64: 1–36.
-[^clifford-1901]: Clifford, William Kingdom, 1901, “The Ethics of Belief”, in *Lectures and Essays*, Leslie Stephen and Frederick Pollock (eds), 2:161–205, 3ʳᵈ Edition, Macmillan. London.
+[^clifford-1901]: Clifford, William Kingdom, 1901, “The Ethics of Belief”, in *Lectures and Essays*, Leslie Stephen and Frederick Pollock (eds), 2:161–205, 3rd edition, Macmillan. London.
 [^cooman-2007]: de Cooman, Gert, and Enrique Miranda, 2007, “Symmetry of models versus models of symmetry”, in *Probability and Inference: Essays in Honor of Henry E. Kyburg Jnr.*, William Harper and Gregory Wheeler (eds), 67–149, Kings College Publications.
 [^cozman-2000]: Cozman, Fabio, 2000, “Credal Networks”, *Artificial Intelligence*, 120: 199–233.
 [^cozman-2012]: –––, 2012, “Sets of probability distributions, independence and convexity”, *Synthese*, 186: 577–600.
 [^cozman-2005]: Cozman, Fabio, and Peter Walley, 2005, “Graphoid properties of epistemic irrelevance and independence”, *Annals of Mathematics and Artificial Intelligence*, 45: 173–195.
 [^dardashti-2014]: Dardashti, Radin, Luke Glynn, Karim Thébault, and Mathias Frisch, 2014, “Unsharp Humean chances in statistical physics: a reply to Beisbart”, in *New Directions in the Philosophy of Science*, Maria Carla Galavotti, Dennis Dieks, Wenceslao J. Gonzalez, Stephan Hartmann, Thomas Uebel, and Marcel Weber (eds), 531–542, Springer. Dordrecht.
 [^elga-2010]: Elga, Adam, 2010, “Subjective Probabilities should be Sharp”, *Philosophers’ Imprint*, 10.
-[^elkin-2016]: Elkin, Lee and Gregory Wheeler, 2016 “Resolving peer disagreements through imprecise probabilities”, *Noûs*, 52:2 260–278.
+[^elkin-2016]: Elkin, Lee and Gregory Wheeler, 2016, “Resolving peer disagreements through imprecise probabilities”, *Noûs*, 52(2): 260–278.
 [^ellsberg-1961]: Ellsberg, Daniel, 1961, “Risk, ambiguity and the Savage axioms”, *Quarterly Journal of Economics*, 75: 643–696.
 [^eriksson-2007]: Eriksson, Lena, and Alan Hájek, 2007, “What Are Degrees of Belief?” *Studia Logica*, 86: 183–213.
 [^evren-2011]: Evren, Özgür, and Efe Ok, 2011, “On the multi-utility representation of preference relations”, *Journal of Mathematical Economics*, 47: 554–563.
-[^ferson-1996]: Ferson, Scott and Lev R. Ginzburg,1996, “Different methods are needed to propagate ignorance and variability”, *Reliability Engineering and System Safety*, 54 133–144.
-[^ferson-2004]: Ferson, Scott and Janos G. Hajagos, 2004, “Arithmetic with uncertain numbers: Rigorous and (often) best possible answers”, *Reliability Engineering and System Safety*, 85 135–152.
+[^ferson-1996]: Ferson, Scott and Lev R. Ginzburg, 1996, “Different methods are needed to propagate ignorance and variability”, *Reliability Engineering and System Safety*, 54: 133–144.
+[^ferson-2004]: Ferson, Scott and Janos G. Hajagos, 2004, “Arithmetic with uncertain numbers: Rigorous and (often) best possible answers”, *Reliability Engineering and System Safety*, 85: 135–152.
 [^fine-1973]: Fine, Terrence L., 1973, *Theories of Probability: An Examination of Foundations*, Academic Press. New York.
 [^fine-1988]: –––, 1988, “Lower Probability Models for Uncertainty and Nondeterministic Processes”, *Journal of Statistical Planning and Inference*, 20: 389–411.
-[^finetti-1964]: de Finetti, Bruno, 1964, “Foresight: Its Logical Laws, Its Subjective Sources”, in *Studies in Subjective Probability Studies in Subjective Probability*, Henry E. Kyburg and Howard E. Smokler (eds), 97–158, Wiley. New York.
+[^finetti-1964]: de Finetti, Bruno, 1964, “Foresight: Its Logical Laws, Its Subjective Sources”, in *Studies in Subjective Probability*, Henry E. Kyburg and Howard E. Smokler (eds), 97–158, New York: Wiley.
 [^finetti-1990]: –––, 1990 [1974], *Theory of Probability*, Wiley Classics Library, Vol. 1, Wiley. New York.
 [^fox-1995]: Fox, Craig R., and Amos Tversky, 1995, “Ambiguity aversion and comparative ignorance”, *Quarterly Journal of Economics*, 110: 585–603.
 [^fraassen-1984]: van Fraassen, Bas, 1984, “Belief and the Will”, *Journal of Philosophy*, 81: 235–256.
@@ -421,11 +419,11 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^genest-1986]: Genest, Christian, and James V. Zidek, 1986, “Combining Probability Distributions: A Critique and Annotated Bibliography”, *Statistical Science*, 1: 114–135.
 [^gilboa-1987]: Gilboa, Itzhak, 1987, “Expected Utility with Purely Subjective Non-additive Probabilities”, *Journal of Mathematical Economics*, 16: 65–88.
 [^glymour-1980]: Glymour, Clark, 1980, “Why I am not a Bayesian”, in *Theory and Evidence*, 63–93. Princeton University Press. Princeton.
-[^gong-2017]: Gong, Ruobin and Xiao-Li Meng, 2017 “Judicious judgment meets unsettling update: dilation, sure loss and Simpson’s paradox”, URL = <[https://arxiv.org/abs/1712.08946](https://arxiv.org/abs/1712.08946)>.
+[^gong-2017]: Gong, Ruobin and Xiao-Li Meng, 2017, “Judicious judgment meets unsettling update: dilation, sure loss and Simpson’s paradox”, URL = <[https://arxiv.org/abs/1712.08946](https://arxiv.org/abs/1712.08946)>.
 [^good-1962]: Good, Irving John, 1962, “Subjective probability as the measure of a non-measurable set”, in *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, 319–329.
 [^good-1967]: –––, 1967, “On the principle of total evidence”, *British Journal for the Philosophy of Science*, 17: 319–321.
 [^good-1974]: –––, 1974, “A little learning can be dangerous”, *British Journal for the Philosophy of Science*, 25: 340–342.
-[^good-1983]: –––, 1983 [1971], “Twenty-Seven principles of rationality”, in *Good Thinking: The Foundations of Probability and its Applications Good Thinking: The Foundations of Probability and its Applications*, 15–19. University of Minnesota Press. Minnesota.
+[^good-1983]: –––, 1983 [1971], “Twenty-Seven principles of rationality”, in *Good Thinking: The Foundations of Probability and its Applications*, 15–19. Minneapolis: University of Minnesota Press.
 [^grize-1987]: Grize, Yves L., and Terrence L. Fine, 1987, “Continuous Lower Probability-Based Models for Stationary Processes with Bounded and Divergent Time Averages”, *The Annals of Probability*, 15: 783–803.
 [^haenni-2009]: Haenni, Rolf, 2009, “Non-additive degrees of belief”, in Huber and Schmidt-Petri 2009: 121–160.
 [^haenni-2011]: Haenni, Rolf, Jan-Willem Romeijn, Gregory Wheeler, and Jon Williamson, 2011, *Probabilistic Logic and Probabilistic Networks*, Synthese Library. Dordrecht.
@@ -436,14 +434,14 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^halpern-2003]: Halpern, Joseph Y., 2003, *Reasoning about uncertainty*, MIT press. Cambridge.
 [^hammond-1988]: Hammond, Peter, 1988, “Orderly Decision Theory”, *Economics and Philosophy*, 4: 292–297.
 [^harsanyi-1955]: Harsanyi, John, 1955, “Cardinal welfare, individualistic ethics and interpersonal comparisons of utility”, *Journal of Political Economy*, 63: 309–321.
-[^hart-2015]: Hart. Casey and Michael Titelbaum, 2015 “Intuitive dilation?”, *Thought*, 4 252–262.
+[^hart-2015]: Hart, Casey and Michael Titelbaum, 2015, “Intuitive dilation?”, *Thought*, 4: 252–262.
 [^hartmann-2010]: Hartmann, Stephan, and Patrick Suppes, 2010, “Entanglement, Upper Probabilities and Decoherence in Quantum Mechanics”, in *EPSA Philosophical Issues in the Sciences: Launch of the European Philosophy of Science Association*, Mauricio Suárez, Mauro Dorato, and Miklós Rédei (eds), 93–103, Springer.
 [^hawthorne-2009]: Hawthorne, James, 2009, “The Lockean Thesis and the Logic of Belief”, in Huber and Schmidt-Petri 2009: 49–74.
 [^herron-1994]: Herron, Timothy, Teddy Seidenfeld, and Larry Wasserman, 1994, “The Extent of Dilation of Sets of Probabilities and the Asymptotics of Robust Bayesian Inference”, in *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 250–259.
 [^hill-2013]: Hill, Brian, 2013, “Confidence and decision”, *Games and Economic Behavior*, 82 675–692.
 [^hosni-2014]: Hosni, Hykel, 2014, “Towards a Bayesian theory of second order uncertainty: Lessons from non-standard logics”, in *David Makinson on classical methods for non-classical problems*, Sven Ove Hansson (ed.), 195–221, Springer. Dordrecht.
 [^howson-2012]: Howson, Colin, 2012, “Modelling Uncertain Inference”, *Synthese*, 186: 475–492.
-[^howson-2006]: Howson, Colin, and Peter Urbach, 2006, *Scientific Reasoning: the Bayesian Approach*, 3ʳᵈ edition, Open Court. Chicago.
+[^howson-2006]: Howson, Colin, and Peter Urbach, 2006, *Scientific Reasoning: the Bayesian Approach*, 3rd edition, Open Court. Chicago.
 [^huber-2009]: Huber, Franz, 2009, “Belief and Degrees of Belief”, in Huber and Schmidt-Petri 2009: 1–33.
 [^huber-2014]: –––, 2014, “Formal Representations of Belief”, *Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), E. N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2014/entries/formal-belief/](https://plato.stanford.edu/archives/spr2014/entries/formal-belief/)>.
 [^huber-2009-2]: Huber, Franz and Cristoph Schmidt-Petri (eds), 2009, *Degrees of Belief*, Springer. Dordrecht.
@@ -461,7 +459,7 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^kaplan-1983]: Kaplan, Mark, 1983, “Decision theory as philosophy”, *Philosophy of Science*, 50: 549–577.
 [^kaplan-1996]: –––, 1996, *Decision Theory as Philosophy*, Cambridge University Press. Cambridge.
 [^keynes-1921]: Keynes, J. M., 1921, *A Treatise on Probability*, Macmillan. London.
-[^konek-nd]: Konek, Jason, forthcoming “Epistemic conservativity and imprecise credence”, *Philosophy and Phenomenological Research*
+[^konek-nd]: Konek, Jason, forthcoming, “Epistemic conservativity and imprecise credence”, *Philosophy and Phenomenological Research*.
 [^koopman-1940]: Koopman, B. O., 1940, “The Bases of Probability”, *Bulletin of the American Mathematical Society*, 46: 763–774.
 [^kumar-1985]: Kumar, Anurag, and Terrence L. Fine, 1985, “Stationary Lower Probabilities and Unstable Averages”, *Zeitschrift für Wahrscheinlichkeitstheorie und verwandte Gebiete*, 69: 1–17.
 [^kyburg-1983]: Kyburg, Henry E., 1983, “Rational belief”, *The Brain and Behavioural Sciences*, 6: 231–273.
@@ -481,13 +479,13 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^lewis-1994]: –––, 1994, “Humean Supervenience Debugged”, *Mind*, 103: 473–490.
 [^list-2011]: List, Christian, and Philip Pettit, 2011, *Group Agency*, Oxford University Press. Oxford.
 [^loewer-2001]: Loewer, B., 2001, “Determinism and chance”, *Studies in the History and Philosophy of Modern Physics*, 32: 609–620.
-[^lyon-2017]: Lyon, Aidan, 2017, “Vague Credences”, *Synthese*, 194:10 3931–3954.
+[^lyon-2017]: Lyon, Aidan, 2017, “Vague Credences”, *Synthese*, 194(10): 3931–3954.
 [^machina-1989]: Machina, Mark J., 1989, “Dynamic Consistency and Non-Expected Utility Models of Choice Under Uncertainty”, *Journal of Economic Literature*, 27: 1622–1668.
-[^mayo-wilson-2016]: Mayo-Wilson, Conor and Gregory Wheeler, 2016, “Scoring imprecise credences: a mildly immodest proposal”, *Philosophy and Phenomenological Research*, 93:1 55–78.
+[^mayo-wilson-2016]: Mayo-Wilson, Conor and Gregory Wheeler, 2016, “Scoring imprecise credences: a mildly immodest proposal”, *Philosophy and Phenomenological Research*, 93(1): 55–78..
 [^meacham-2011]: Meacham, Christopher, and Jonathan Weisberg, 2011, “Representation Theorems and the Foundations of Decision Theory”, *Australasian Journal of Philosophy*, 89: 641–663.
-[^miranda-2008]: Miranda, Enrique, 2008, “A survey of the theory of coherent lower previsions”, *International Journal of Approcimate Reasoning*, 48: 628–658.
+[^miranda-2008]: Miranda, Enrique, 2008, “A survey of the theory of coherent lower previsions”, *International Journal of Approximate Reasoning*, 48: 628–658.
 [^miranda-2014]: Miranda, Enrique, and Gert de Cooman, 2014, “Lower previsions”, in Augustin et al. 2014, pp. 28–55.
-[^moss-2015]: Moss, Sarah, 2015, “Credal Dilemmas”, *Noûs*, 49:4 665–683.
+[^moss-2015]: Moss, Sarah, 2015, “Credal Dilemmas”, *Noûs*, 49(4): 665–683.
 [^norton-2007]: Norton, John, 2007, “Probability disassembled”, *British Journal for the Philosophy of Science*, 58: 141–171.
 [^norton-2008a]: –––, 2008a, “Ignorance and Indifference”, *Philosophy of Science*, 75: 45–68.
 [^norton-2008b]: –––, 2008b, “The dome: An Unexpectedly Simple Failure of Determinism”, *Philosophy of Science*, 75: 786–798.
@@ -501,14 +499,14 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^ramsey-1926]: Ramsey, F. P., 1926, “Truth and Probability”, in *The Foundations of Mathematics and other Logical Essays*, 156–198. Routledge. London.
 [^rinard-2013]: Rinard, Susanna, 2013, “Against Radical Credal Imprecision”, *Thought*, 2: 157–165.
 [^rinard-2015]: –––, 2015, “A decision theory for imprecise probabilities”, *Philosophers’ Imprint*, 15 1–16.
-[^ruggeri-2005]: Ruggeri, Fabrizio, David Ríos and Jacinto Martín, 2005, “Robust Bayesian analysis”, *Handbook of Statistics*, 25 623–667, Elsevier. Amsterdam
+[^ruggeri-2005]: Ruggeri, Fabrizio, David Ríos and Jacinto Martín, 2005, “Robust Bayesian analysis”, *Handbook of Statistics*, 25: 623–667, Amsterdam: Elsevier.
 [^sahlin-2014]: Sahlin, Nils-Eric, and Paul Weirich, 2014, “Unsharp Sharpness”, *Theoria*, 80: 100–103.
 [^savage-1972]: Savage, Leonard J., 1972 [1954], *The Foundations of Statistics*, 2nd edition, Dover. New York.
 [^savage-1971]: –––, 1971, “Elicitation of Personal Probabilities and Expectation”, *Journal of the American Statistical Association*, 66: 783–801.
 [^schaffer-2007]: Schaffer, Jonathan, 2007, “Deterministic Chance?” *British Journal for the Philosophy of Science*, 58: 114–140.
 [^schervish-2008]: Schervish, Mark J., Teddy Seidenfeld, and Joseph B. Kadane, 2008, “The fundamental theorems of prevision and asset pricing”, *International Journal of Approximate Reasoning*, 49: 148–158.
 [^schoenfield-2012]: Schoenfield, Miriam, 2012, “Chilling out on epistemic rationality”, *Philosophical Studies*, 158: 197–219.
-[^schoenfield-2017]: –––, 2017, “The accuracy and rationality of imprecise credence”, *Noûs*, 51:4 667–685.
+[^schoenfield-2017]: –––, 2017, “The accuracy and rationality of imprecise credence”, *Noûs*, 51(4): 667–685.
 [^seidenfeld-1988]: Seidenfeld, Teddy, 1988, “Decision theory without ‘independence’ or without ‘ordering’. What’s the difference?” *Economics and Philosophy*: 267–290.
 [^seidenfeld-1994]: –––, 1994, “When normal and extensive form decisions differ”, *Logic, Methodology and Philosophy of Science*, IX: 451–463.
 [^seidenfeld-2004]: –––, 2004, “A contrast between two decision rules for use with (convex) sets of probabilities: Gamma-maximin versus E-admissibility”, *Synthese*, 140: 69–88.
@@ -524,30 +522,30 @@ Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠�
 [^sorensen-2012]: Sorensen, Roy, 2012, “Vagueness”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2013/entries/vagueness/](https://plato.stanford.edu/archives/win2013/entries/vagueness/)>.
 [^stainforth-2007]: Stainforth, David A., Miles R. Allen, E. R. Tredger, and Leonard A. Smith, 2007, “Confidence uncertainty and decision-support relevance in climate models”, *Philosophical Transactions of the Royal Society*, 365: 2145–2161.
 [^steele-2007]: Steele, Katie, 2007, “Distinguishing indeterminate belief from ‘risk averse’ preference”, *Synthese*, 158: 189–205.
-[^stewart-2018]: Stewart, Rush T. and Ignacio Ojea Quintana, 2018 “Probabilistic opinion pooling with imprecise probabilities”, *Journal of Philosophical Logic*, 47:1 17–45.
+[^stewart-2018]: Stewart, Rush T. and Ignacio Ojea Quintana, 2018, “Probabilistic opinion pooling with imprecise probabilities”, *Journal of Philosophical Logic*, 47(1): 17–45.
 [^sturgeon-2008]: Sturgeon, Scott, 2008, “Reason and the grain of belief”, *Noûs*, 42: 139–165.
 [^sud-2014]: Sud, Rohan, 2014, “A forward looking decision rule for imprecise credences”, *Philosophical Studies*, 167 119–139.
 [^suppes-1974]: Suppes, Patrick, 1974, “The Measurement of Belief”, *Journal of the Royal Statistical Society B*, 36: 160–191.
 [^suppes-1991]: Suppes, Patrick, and Mario Zanotti, 1991, “Existence of Hidden Variables Having Only Upper Probability”, *Foundations of Physics*, 21: 1479–1499.
 [^talbott-2008]: Talbott, William, 2008, “Bayesian Epistemology”, *The Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2013/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/fall2013/entries/epistemology-bayesian/)>.
 [^topey-2012]: Topey, Brett, 2012, “Coin flips, credences and the Reflection Principle”, *Analysis*, 72: 478–488.
-[^trautmann-2016]: Trautmann, Stefan and Guijs van der Kuilen, 2016 “Ambiguity Attitudes”, *Blackwell Handbook of Judgement and Decision-Making*, 89–116.
+[^trautmann-2016]: Trautmann, Stefan and Gijs van de Kuilen, 2016, “Ambiguity Attitudes”, *Blackwell Handbook of Judgement and Decision-Making*, 89–116.
 [^troffaes-2007]: Troffaes, Matthias, 2007, “Decision Making under Uncertainty using Imprecise Probabilities”, *International Journal of Approximate Reasoning*, 45: 17–29.
 [^troffaes-2014]: Troffaes, Matthias, and Gert de Cooman, 2014, *Lower Previsions*, Wiley. New York.
-[^vallinder-2018]: Vallinder, Aron, 2018 “Imprecise Bayesianism and global belief inertia”, *British Journal for the Philosophy of Science*, 69:4 1205–1230.
+[^vallinder-2018]: Vallinder, Aron, 2018, “Imprecise Bayesianism and global belief inertia”, *British Journal for the Philosophy of Science*, 69(4): 1205–1230.
 [^vicig-2007]: Vicig, Paolo, Marco Zaffalon, and Fabio G. Cozman, 2007, “Notes on ‘Notes on conditional previsions’”, *International Journal of Approximate Reasoning*, 44: 358–365.
 [^vicig-2012]: Vicig, Paolo, and Teddy Seidenfeld, 2012, “Bruno de Finetti and imprecision: Imprecise Probability Does not Exist!” *International Journal of Approximate Reasoning*, 53: 1115–1123.
-[^voorhoeve-2016]: Voorhoeve, Alex, Ken Binmore, Arnaldur Stefansson and Lisa Stewart,2016 “Ambiguity attitudes, framing and consistency”, *Theory and Decision*, 81:3 313–337.
+[^voorhoeve-2016]: Voorhoeve, Alex, Ken Binmore, Arnaldur Stefansson and Lisa Stewart, 2016, , “Ambiguity attitudes, framing and consistency”, *Theory and Decision*, 81(3): 313–337.
 [^walley-1991]: Walley, Peter, 1991, *Statistical Reasoning with Imprecise Probabilities*, *Monographs on Statistics and Applied Probability*, Vol. 42. Chapman and Hall. London.
 [^walley-1982]: Walley, Peter, and Terrence L. Fine, 1982, “Towards a frequentist theory of upper and lower probability”, *The Annals of Statistics*, 10: 741–761.
 [^wallsten-1995]: Wallsten, Thomas, and David V. Budescu, 1995, “A review of human linguistic probability processing: General principles and empirical evidence”, *The Knowledge Engineering Review*, 10: 43–62.
 [^weatherson-2002]: Weatherson, Brian, 2002, “Keynes, uncertainty and interest rates”, *Cambridge Journal of Economics*: 47–62.
 [^weichselberger-2000]: Weichselberger, Kurt, 2000, “The theory of interval-probability as a unifying concept for uncertainty”, *International Journal of Approximate Reasoning*, 24: 149–170.
 [^wheeler-2014]: Wheeler, Gregory, 2014, “Character matching and the Locke pocket of belief”, in *Epistemology, Context and Formalism*, Franck Lihoreau and Manuel Rebuschi (eds), 185–194, Synthese Library. Dordrecht.
-[^wheeler-2011]: Wheeler, Gregory, and Jon Williamson, 2011, “Evidential Probability and Objective Bayesian Epistemology”, in *Philosophy of Statistics*, Prasanta S. Bandyopadhyay and Malcom Forster (eds), 307–332, North-Holland. Amsterdam.
+[^wheeler-2011]: Wheeler, Gregory, and Jon Williamson, 2011, “Evidential Probability and Objective Bayesian Epistemology”, in *Philosophy of Statistics*, Prasanta S. Bandyopadhyay and Malcolm Forster (eds), 307–332, Amsterdam: North-Holland.
 [^white-2010]: White, Roger, 2010, “Evidential Symmetry and Mushy Credence”, in *Oxford Studies in Epistemology*, T. Szabo Gendler and J. Hawthorne (eds), 161–186, Oxford University Press.
 [^williams-2014]: Williams, J. Robert G., 2014, “Decision-making under indeterminacy”, *Philosophers’ Imprint*, 14: 1–34.
-[^williams-1976]: Williams, P. M., 1976, “Indeterminate Probabilities”, in *Formal Methods in the Methodology of Empirical Sciences*, Marian Przelęcki, Klemens Szaniawski, and Ryszard Wójcicki (eds), 229–246, D. Reidel Publishing Company.
+[^williams-1976]: Williams, P. M., 1976, “Indeterminate Probabilities”, in *Formal Methods in the Methodology of Empirical Sciences*, Marian Przełęcki, Klemens Szaniawski, and Ryszard Wójcicki (eds), 229–246, D. Reidel Publishing Company.
 [^williams-2007]: –––, 2007, “Notes on conditional previsions”, *International Journal of Approximate Reasoning*, 44: 366–383.
 [^williamson-2010]: Williamson, Jon, 2010, *In Defense of Objective Bayesianism*, Oxford University Press. Oxford.
 [^williamson-2014]: –––, 2014, “How uncertain do we need to be?” *Erkenntnis*. 79: 1249–1271.
