@@ -2,7 +2,7 @@
   "slug": "zhu-xi",
   "kind": "retranslate",
   "zh_doc": "z/zhu-xi.md",
-  "state": "s0_source_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,62 @@
       "actor": "Z-rework-20261115",
       "at": "2026-11-15T15:11:52Z",
       "evidence": "s0 源审计前置（ADR-0052，cleared→draft 零信任前置）：①en_integrity 包完整性 clean（hard_findings 0）；②en_source_audit HTML 本体审计 hard 0、告警 2 定性——heading_skip h2→h4 页脚导航样板（同 zabarella/bauer 先例豁免）；typo 候选 doubled_word「the the」坐实源手误（of the the nature 冠词重复，句式 Confucius/Mencius/Mean 平行结构非法）→已走 ADR-0038 ①类链：en-errata 第六节→en 剥一→定点重转差量恰一处→分歧账 register→提交 383ac7e6 后续提交；③镜像轴保真：yuanwen 定点重转后与 en 同步（pubinfo First published Thu Sep 3, 2015; substantive revision Sat Jan 25, 2025、导语首句、勘误句修后形态逐点核对）；2026-11-15 drift_scan 全量回源 z 字头 0 漂移记录；④外链 13 离线盘点在案待 --net 批次活检"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T16:30:58Z",
+      "evidence": "直译流水线（主会话无子代理）：账本 123 段（body 97＋oir 1＋note 25；biblio 照录 145 由 compose 承载）双版齐，分 8 批落盘（1-9/10-21/22-35/36-41/42-52/53-63/64-84/85-98/99-123）每批即提交；lq check 守恒门 OK（SOFT：标题机械段＋注内斜体转书名号）；compose 50951 字符，italic_to_bold 7 行；登记先行：术语 38 行＋人名 33 行已入两册（先登记后使用）；H1 由 SUMMARY 定名（朱熹 Zhu Xi (Kirill Thompson)）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:06:48Z",
+      "evidence": "一校（准确性，对照 yuanwen/z/zhu-xi.md 全文逐段核销；本会话即译者会话，逐段直译时源文在侧）：①脚注/引用标记 238:238 与 yuanwen 逐键全等（[^note-1..25]×25＋文内引用键序一致）；②引块 14 组（Arghirescu×2、朱子语类 YL×2、Needham×2 含三层嵌套、程颢语录×2、Levitin、仁说结句、中和句、作者自译×2）逐句对照；③数字/年代核销：1130 年 10 月生、19 岁中进士、1160 拜李侗、1908 科举废止、宋元明清年代区间、程颢近思录第 25 条、太极图说第九段、Needham 1956a 页码、棋盘 360 路径，逐一与源一致；④源手误处置：of the the nature 已走 ADR-0038 勘误链（en-errata 第六节→en 剥一→定点重转→分歧账），译文按修后源形；yw 源形 gewu zhih 系笔误，译文统一 gewu zhizhi 格物致知；⑤书名 17 种（五经/四书/朱子语类/朱子文集/近思录/太极图/太极图说/易经/诗经/参同契/仁说/楚辞/孝经等）首现中文＋拉丁括注体例；⑥人名核销：朱熹/周敦颐/张载/程颐/程颢/李侗/张栻/胡宏/杨时/陆九渊/吕祖谦/陈亮/邵雍/颜回/大慧宗杲/道谦/魏伯阳/庖丁/王守仁（阳明）/王夫之/戴震/钱穆/胡适/冯友兰/牟宗三/陈荣捷（引注）/金永植/余英时/黄俊杰/李明辉/张君劢/理雅各/葛瑞汉/任博克/安靖如/黄勇/田浩 与两册一致；未登记现代学者（Adler/Wilson/Berthrong/Tiwald/Lent/Levitin/Pincoffs/Rosenlee/Bruce/Priest/Arghirescu/Gardner/van Ess/Chen Yu-Chuan）保留拉丁，与库内惯例一致；⑦残句实修：段 19 构想为（化/变渐骤）、段 37 元亨利贞配四德、段 65 克己复礼、段 41 仁民而爱物（canonical 对位）。实修 0 新增（译段即核）。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:08:23Z",
+      "evidence": "二校（语体与体例，定点四检＋prose 清零战役）：①check_prose 三轮外科补丁 99→6：long-sentence 25 拆句（。分句）、de-chain 55 减的（改写删的/名词化合并）、weak-verb 10 直动词化（作出/加以/进行+名词→直动词）、passive-bei 1（其二常被读作：理在例示之前即已持存）、plural-men 1（批评者）、chenggong-de 1（成功地→改写）；残余 6 处全为引块直引（seg12/14 Arghirescu、seg27 程颐语录、seg33 Levitin、seg45 Needham——ADR-0020 直引豁免，源语言密度直承，quote 内长句不拆）；②check_style 0 issue（直角引号 222 处已归一弯引号——账本 step1/step2 全局替换后重 compose）；③check_math_zh 默认档 0；④check_pairs 0；⑤脱稿通读：现代汉语学术书面语，无文言仿古；破折号承担插入/解释职能（密度复核见 s25）；六器机检复跑全绿。"
+    },
+    {
+      "step": "s24",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:08:24Z",
+      "evidence": "术语校（s2.4 增项）：check_terms --docs 定点 8 处逐条定性——①散文提及对齐册形实修 4（A.C. Graham→葛瑞汉（A.C. Graham）首现＋后文葛瑞汉；Brook Ziporyn→任博克（Brook Ziporyn）；Stephen Angle→安靖如（Stephen Angle）；Hoyt Tillman→田浩（Hoyt Tillman）首现＋后文田浩）；②引注/书目照录豁免 4（Chan Wing-tsit/Lau D.C. 仅现引注组；Li Guangdi/Shu Jingnan 仅现书目照录区）；正文用词与两册一致：理/气/太极/无极/道学/新儒家/格物致知/五行/元气/感应/变化（渐化/骤变）/数/象/鬼神/形而上形而下/气质/主宰/立志/权/四端/仁/义/敬/诚/君子/天理/阴阳/中庸/性/情 etc.（首译登记批 38 行先登记后使用）；check_terms 硬错误 0（自洽 0）。"
+    },
+    {
+      "step": "s25",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:10:20Z",
+      "evidence": "审计已译（s2.5 增项；本会话单会话作业，与初译 actor 同——以密度统计补偿＋冷置回读记明）：①两轴：译文轴逐段回 en 零信任核对（translate 时源段在侧＋s1 复核）；镜像轴已前置 s0（勘误链＋重转同步）；②密度统计：破折号全文 58 处逐处审阅均承担插入/解释职能；一字线单—×2（128–132 页码区间照录）；量词“一个”31 处逐处审阅全实指（一个普遍的/一个有活力的等源生）；AI 高频词 0 处（值得注意的是×1 源生 Notably 对应核销）；③结构对账：H1 与 SUMMARY 逐字一致（朱熹 Zhu Xi (Kirill Thompson)）；节集合=导语＋§1–§6＋3.1/3.2/4.1/4.2＋References（引用注释现制）＋学术工具＋OIR＋相关词条＋Notes（原文脚注 25 条全译）；脚注键 238:238 全等；相关词条 6 项（中国哲学：认识论/中国哲学：伦理学/中西比较哲学/孔子/孟子/王阳明——SUMMARY 定名对位，compose map_related 承载）；④资产核验：无表格无图片（源表 1 为页脚样板）；无数学环境；⑤机检拦截网六器：check_math_zh 0、check_tables_images --gate 本件 0、check_math 0、check_academic --strict 0、check_pairs 0、scan_zh_vs_yuanwen zabarella 先例工具（本件 compose 前守恒门承担）；⑥语体审阅：破折号/一个/AI 腔逐处走查结论入上；冷置：批间以 check_terms/azsort/勘误链作业隔开译文回读。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:12:26Z",
+      "evidence": "三校（全文档终校回读＋零信任抽查）：全文 432 行回读完毕——导语与 §1–§6 全读；References 145 条 defs 与 yuanwen 照录区逐键对（compose 照录承载）；学术工具四行、OIR 五行（古登堡/朱子语类选段/武夷山视频/万百安〈对立〉/Thompson 牛津书目）、Notes 25 条全译、相关词条 6 项对位；数字抽查（周敦颐 1017–73、张载 1020–77、程颐 1033–1107、程颢 1032–85、李侗 1093–1163、张栻 1133–1180、吕祖谦 1137–1181、陆九渊 1139–93、陈亮 1143–94、王阳明 1472–1529、王夫之 1619–92、戴震 1723–77、胡适 1891–1962、冯友兰 1895–1990、牟宗三 1909–1995、钱穆 1895–1990）与源一致；终验四检全绿——check_style 0、check_prose 0 正文（6 引块直引豁免在案）、check_math missing/unbalanced 均空、check_academic --strict 0 硬错误（在途豁免 1）；check_summary H1 0/HARD 0；弯引号/半角空格/禁 HTML 过；H1 与 SUMMARY 行逐字一致。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:23:04Z",
+      "evidence": "回炉链 r1（初审·准确性；单会话作业，与初译同 actor——逐段直译时源在侧，本步以全量机检 sweep 补强独立核对；终审 r3 待用户指定）：①正文数字/年代全量对账 sweep：zh↔yw 余额差全部定性——日期记法转换（1130 年 10 月、19 岁、1160 年、1908 年、二十世纪二十年代、五十年代、前 551–前 479、前 372–前 289、三百六十条路径）；zh 侧多出数字系 Notes 25 条全译所载页码/卷号（yw 比对基线未含其 Notes 节）；②真发现 1 处：源文吕祖谦生年 1134（Lü Zuqian (1134–1181)）系排印手误——学界通行 1137–1181——已走 ADR-0038 ①类链（en-errata 第七节→en 1134→1137→定点重转→分歧账 register）；译文本按通行形 1137–1181，无需改；③引用组核销：文内作者-年份引用组与源逐字符一致（全半角括号归一后），marker 238:238 全等；④书名/人名/术语首现括注体例核销（见 s24）；⑤逻辑链抽查：格物致知双问题框架、动静互贯出路、权三情形、无极而太极横向互补论证、理学接受史叙事，均与源一致。新增实修 0（源侧勘误 1 走链）。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T17:25:20Z",
+      "evidence": "回炉链 r2（复审·语体与体例，机检＋通读并行）：①节标题核销：## 1 生平与著作／## 2 人性论与修养进路／## 3 伦理哲学（3.1 格物与伦理明察及实践、3.2 道德宇宙综合）／## 4 自然哲学（4.1 格物与自然知识及行动、4.2 哲学综合）／## 5 理与气及相关概念的互补／## 6 朱熹的主要诠释者——与源节名一一正对位；②密度复算（终文本）：破折号 58 处逐处审阅职能化；一字线 2（页码照录）；量词「一个」31 处实指；AI 高频词 0 净增（值得注意×1 源生）；③语体通读：现代汉语学术书面语；书面语词（鹄、体认、躬行）为哲学译文通行语；无文言仿古句式；④六器机检终跑全绿：style 0／prose 0 正文（6 引块直引豁免：seg12/14 Arghirescu 二引块、seg27 程颐语录、seg33 Levitin 引块、seg45 Needham 引块、seg31 long——ADR-0020 直引豁免，源语言密度直承）／math 0／math_zh 0／academic strict 0／pairs 0／summary H1 0 HARD 0；⑤check_terms 定点 4 处引注/书目照录豁免在案（Chan/Lau/Li Guangdi/Shu Jingnan）。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
     }
   ],
   "blockers": [],
