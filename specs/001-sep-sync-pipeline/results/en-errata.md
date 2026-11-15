@@ -323,3 +323,6 @@
 | truth-coherence | 正文 `(Candlish 2006)` | `(Candlish 2021)` | 正文年份与书目 2021 矛盾（②） |
 | bergson | 正文 `Soulez & Worms 2002` | `Soulez et Worms 2002` | 同书两种写法（②） |
 | bergson | 引文 `Avertissement … septième edition` | `édition` | 法文重音缺失（①） |
+| olympiodorus | 正文 `Opsomer 2011`（书目为 2010） | `Opsomer 2010` | 年份与书目矛盾（②） |
+| olympiodorus | opsomer-2010 `“Olymiodorus”` | `“Olympiodorus”` | 拼写（①） |
+| olympiodorus | joosse-2021c `Twi New Translations` | `Two New Translations` | 拼写（①） |

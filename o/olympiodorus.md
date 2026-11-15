@@ -50,7 +50,7 @@
 
 亚里士多德《气象学》注疏的第四卷是所谓“化学论著”。由此自然引出一问：这位新柏拉图主义者奥林匹奥多罗斯，与炼金术传统中另一位姓名完全相同的人物，是否同一个人？现存四部抄本的炼金术作品，自称是对佐西摩斯《论活动》（*Kat’energeian*）的注疏，题署为“奥林匹奥多罗斯，亚历山大里亚的哲学家”（见下文第 6 节）。这部论著开篇注疏佐西摩斯（潘诺波利斯的那位，非公元 5 世纪史家），颇为细致地解释了一小段文字；随后笔调一转，成了写给一位未具名同行的教谕书信（文中一处称其为“缪斯的友人”）。它“解释”如何把散碎金块接合起来、如何提纯金属，强调“神水”（不管那是什么）如何重要，如此等等。作者对前苏格拉底派略知一二（他视之为炼金术士），于柏拉图与亚里士多德却几乎一无所知；反过来，他能大段征引佐西摩斯、赫尔墨斯、佩塔西乌斯、佩拉吉乌斯，以及一位“神圣的玛利亚”——不是耶稣之母，而是炼金术传统别处有载的一位犹太女贤。
 
-对文本细加考察，使 H.D. Saffrey 2005 这类学者相信：那位新柏拉图主义哲学家不可能写出这部炼金术论著。其一，炼金术士与哲学家不同，似乎是基督徒：他把保罗的一句话（“那字句是叫人死，精意是叫人活。”《哥林多后书》3:6）归于“主”（94, 13–15）。此外，两位作者所营造的内容、风格、措辞与修辞氛围判然有别（另见 Opsomer 2011、Griffin 2017）[^griffin-2017]。然而 C. Viano 曾力主二人为同一人，她提请人注意：这部炼金术论著与亚里士多德《气象学》第四卷注疏之间，在结构与语言上有惊人的相似（见 Viano 2006 与 2021）[^viano-2006][^viano-2021]。她提出：奥林匹奥多罗斯确实写过一部注疏佐西摩斯的作品，但这作品或其一部分后来经一位编纂者改动扩充，掺入了从别处摘来的片段与离题文字。
+对文本细加考察，使 H.D. Saffrey 2005 这类学者相信：那位新柏拉图主义哲学家不可能写出这部炼金术论著。其一，炼金术士与哲学家不同，似乎是基督徒：他把保罗的一句话（“那字句是叫人死，精意是叫人活。”《哥林多后书》3:6）归于“主”（94, 13–15）。此外，两位作者所营造的内容、风格、措辞与修辞氛围判然有别（另见 Opsomer 2010[^opsomer-2010]、Griffin 2017）[^griffin-2017]。然而 C. Viano 曾力主二人为同一人，她提请人注意：这部炼金术论著与亚里士多德《气象学》第四卷注疏之间，在结构与语言上有惊人的相似（见 Viano 2006 与 2021）[^viano-2006][^viano-2021]。她提出：奥林匹奥多罗斯确实写过一部注疏佐西摩斯的作品，但这作品或其一部分后来经一位编纂者改动扩充，掺入了从别处摘来的片段与离题文字。
 
 无论如何，有一点看来清楚：现存这部注疏佐西摩斯《论活动》之作，并非新柏拉图主义者奥林匹奥多罗斯的另一部著作；**这一篇** 炼金术文字多半不出其手。可是抄本却称他是该作品的作者。若 Viano 说得对，我们面对的便不是一桩单纯的伪托署名（这在炼金术文献里倒也不算罕见），而更有意思：真实署名、思想挪用与文学扩充三者的混合。由此还可推知：从来不曾有另一位名叫奥林匹奥多罗斯的亚历山大里亚人，沉湎于炼金秘学而非柏拉图哲学。最要紧的是，这部炼金术抄本将成其为奥林匹奥多罗斯在古代晚期影响的一份见证。
 
@@ -94,12 +94,12 @@
 [^jackson-1998]: Jackson, R., K. Lycos, and H. Tarrant, 1998. *Olympiodorus. Commentary on Plato’s* Gorgias, translated and notes, Leiden: Brill.
 [^joosse-2021a]: Joosse, A. (ed.) 2021a. *Olympiodorus of Alexandria. Exegete, Teacher, Platonic Philosopher.* Philosophia Antiqua 159, Leiden: Brill.
 [^joosse-2021b]: –––, 2021b. “Olympiodorus’ View of Civis Self-Knowledge” in A. Joosse (2021), 116–140.
-[^joosse-2021c]: –––, 2021c. “Theory and Didactic in Olympiodorus and the Alexandrian School: A Discussion of Twi New Translations,” *Mnemosyne* 73, 341–353.
+[^joosse-2021c]: –––, 2021c. “Theory and Didactic in Olympiodorus and the Alexandrian School: A Discussion of Two New Translations,” *Mnemosyne* 73, 341–353.
 [^lautner-2021]: Lautner, P. 2021. “Olympiodorus’ Notion of αἴσθησις and Its Historical Context” in A. Joosse (2021), 79–94.
 [^layne-2021]: Layne, D. 2021. “The Virtue of Double Ignorance in Olympiodorus” in A. Joosse (2021), 95–115.
 [^lloyd-1970]: Lloyd, A. C. 1970. “The Later Neoplatonists” in A. H. Armstrong (ed.), *The Cambridge History of Later Greek and Early Medieval Philosophy*, Cambridge: Cambridge University Press, pp. 272–325.
 [^motta-2021]: Motta, A. 2021. “The Life of Plato in Introductory Schemes: The Preface to Olympiodorus’ Commentary on the First Alcibiades (in Alc. 1.1–3.2)” in A. Joosse (2021), 31–54.
-[^opsomer-2010]: Opsomer, J. 2010. “Olymiodorus” in L.P. Gerson (ed.) *The Cambridge History of Philosophy in Late Antiquity,* Vol. 2, Cambridge: Cambridge University Press, 697–710.
+[^opsomer-2010]: Opsomer, J. 2010. “Olympiodorus” in L.P. Gerson (ed.) *The Cambridge History of Philosophy in Late Antiquity,* Vol. 2, Cambridge: Cambridge University Press, 697–710.
 [^rashed-1997]: Rashed, M. 1997. “Textes inédits transmis par l’Ambr Q 74 sup. Alexandre d’Aphrodise et Olympiodore d’Alexandrie,” *Revue des Sciences Philosophiques et Historiques*, 81: 219–238.
 [^renaud-2021]: Renaud, F. 2021. “Reconciling Philosophy with Poetry: Olympiodorus’ Interpretation of the *Gorgias* Myth” in A. Joosse (2021), 167–185.
 [^saffrey-2005]: Saffrey, H. D. 2005. “Olympiodore d’Alexandrie” in R. Goulet (ed.), *Dictionnaire des philosophes antiques* IV. Paris: CNRS, pp. 769–771.
@@ -129,6 +129,6 @@
 
 ## 相关词条
 
-赫尔米亚的阿莫尼俄斯 | 大卫 | 埃利亚斯 | 新柏拉图主义 | 约翰·菲洛波诺斯 | 辛普利修斯
+赫尔米亚的阿莫尼俄斯 | 大卫 | 埃利亚斯 | 新柏拉图主义 | 约翰·菲洛波诺斯 | 辛普里丘
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
