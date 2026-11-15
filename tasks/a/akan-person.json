@@ -2,7 +2,7 @@
   "slug": "akan-person",
   "kind": "retranslate",
   "zh_doc": "a/akan-person.md",
-  "state": "s2.5_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,34 @@
       "actor": "pc6-m2.5-revert",
       "at": "2026-11-15T09:02:34Z",
       "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T12:49:59Z",
+      "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉）：en_integrity clean；en_source_audit 硬错 0、告警 1 条（heading_skip h2→h4，SEP 原生结构豁免，specs/036 bauer 先例）；drift_scan --only unchanged（2026-11-15）；镜像轴全量回源核对当日已跑凭证复用"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T12:57:07Z",
+      "evidence": "回炉件 s2.4/s2.5 增项随 s3 落账（ADR-0053 工序；本会话非初译 actor，密度统计作独立性补偿）。【s2.4 面⑦】check_terms 定点核销 0 疑似、硬错 0；未登记词复查 0 缺口。【s2.5 ①】prose 三则新告警 tense-adverb/conj-he-verb/chenggong-de 均 0（余量 long 11、de-chain 17、passive 3、weak 5，r2 定性）。【②密度】破折号 39 处全为成对插入/解释；一个 60 处（正文 41）逐处过目全为自然冠词/数词用法——人格系词条主题词（a person→一个人格），密度系主题推高而非滥用；AI 高频词 彰显 1、至关重要 1，个别出现不算（rules/02）。【③AI 腔五形态】全文通读：无增译套话/空洞拔高/模糊归因/公式化排比/高频词密度；归因全部具名（Wiredu/Gyekye 页码）。【④省略号】zh 与 yw 两侧均 0，N/A。【⑤表身空值】无内容表 N/A。【⑥十项】注码注文相符（正文引用 22 键含 note-1 至 note-6 全有定义、defs 50 键集一致）；图表编序 N/A；目录标题一致（6 节序号连续+脚注节+尾节四节）；插图 N/A；数字用法一致；标题层次与源同构；引文核对（6 处引块逐句与源对应，含方括号插注 [一]/[个] 体例正确）；体例统一。【W 面】W1 正文唯一缩写区间为 Wiredu 1992a, 108-09 引注豁免；W3 清单 0 候选，人工复核 L41 成对并列（不是因为、而恰恰是因为）两可登记留置；W4 清单 0；W5 N/A；W6 复扫 0。【体例实修】存量态带 17 处中文斜体强调+1 处加粗缺空格（italic-cjk 用户裁定 2026-10-29 门禁；check_style 不在 check_all 11 项内故存量未拦），逐处手工改加粗并补半角空格（邻全角标点侧不留，austin-john **主权者** 先例），共 18 单元；拉丁术语斜体（onipa/okra 等）保持。【s3 机检】check_style 0 issue（修后）；check_math_zh 硬错 0；check_academic --strict 0 硬错误；check_quotes 本文件 0 违例（同批 4 处违例在 qian-yan/ 项目日志属他会话在途内容，非本件）。【规范基线筛查结论】（rules/08 §13）适用：GB/T 15834-2011、GB/T 15835-2011、CY/T 154-2017（偏离登记 ADR-0041）；GB/T 7714-2025 照录面豁免（书目 38 条要素齐）；无未登记域。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T12:57:39Z",
+      "evidence": "回炉重走 r1（初审·准确性；本会话非初译 actor）。五维对账：节 11/11；段 43=41+2（体例注记行 2 家法豁免）；正文引用键 22/22（yw 差 1 为底稿注记占位键）；defs 50/50 键集一致；年份差 0。全文通读对照 yuanwen：程度化人格性（Wiredu 双层观）、Gyekye 康德式离散观、婴儿葬礼与选择性转世、达成人格性标准、个体与社群、责任与自由意志（西朱鲁例）、okra 分歧段逐段语义一致；六处引块（Wiredu & Gyekye 1992 页码注 2/20/22 等）逐句与源对应；阿坎语词形（onipa/onye nipa/onipa hun/oye onipa paa/okrateasefo/nkrabea/asmando）与源一致照录。无漏译/增译/事实偏差。实修 18 单元（斜体→加粗 17+加粗空格 1），纯体例层、语义零改动。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T12:58:19Z",
+      "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 36 条逐条重新定性、0 新实修：de-chain 17（哲学论述定语链，维持豁免）；long-sentence 11（复合论证句，与源句法对应，维持豁免）；passive-bei 3（被获得或被赋予/被给予/被对待被赋予——语义自然，维持豁免）；weak-verb 5（作出判断/作出区分/作出贡献——其中 L59、L71 位于引块内豁免，余为固定名词宾语，维持豁免）。人名核对：夸西·维雷杜（Kwasi Wiredu）/夸梅·吉耶基（Kwame Gyekye）/卡翁达/撒切尔/康德/阿奎那/边沁/穆勒等与 ren-ming-biao 一致，check_terms 0 告警。语体结论：现代汉语学术书面语；破折号 39 处仅用于插入与解释，无滥用；一个逐处复核无滥用；无 AI 腔套话；无文言句式。"
     }
   ],
   "blockers": [],

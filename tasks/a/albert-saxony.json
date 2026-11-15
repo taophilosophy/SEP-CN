@@ -2,7 +2,7 @@
   "slug": "albert-saxony",
   "kind": "retranslate",
   "zh_doc": "a/albert-saxony.md",
-  "state": "s2.5_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,34 @@
       "actor": "pc6-m2.5-revert",
       "at": "2026-11-15T09:02:34Z",
       "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T13:17:21Z",
+      "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉）：en_integrity clean；en_source_audit 硬错 0、告警 0；drift_scan --only unchanged（2026-11-15）；镜像轴全量回源核对当日已跑凭证复用"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T13:17:22Z",
+      "evidence": "回炉件 s2.4/s2.5 增项随 s3 落账（ADR-0053 工序；本会话非初译 actor，密度统计作独立性补偿）。【s2.4 面⑦】check_terms 定点核销 0 疑似、硬错 0；未登记词复查 0 缺口。【s2.5 ①】prose 三则新告警 0（余量 de-chain 10、long 10、passive 1，r2 定性）。【②密度】破折号 14 处全为成对插入/解释；一个 12 处自然量词；AI 高频词 0。【③AI 腔五形态】全文通读：无增译套话/空洞拔高/模糊归因/公式化排比/高频词密度。【④省略号】zh 与 yw 均 0，N/A。【⑤表身空值】无内容表 N/A。【⑥十项】注码注文相符（本件正文无内联引用、yw 亦无——书目为扩展阅读型，defs 68 键集一致）；图表编序 N/A；目录标题一致（4 节+尾节四节）；插图 N/A；数字用法一致；标题层次与源同构；引文核对（无直接引文块；方括号插注 [*actus animae referentis*] 等照源）；体例统一。【W 面】W1 导语括注生卒年 en-dash 修为一字线（约 1320—1390，W1 裁定规则：括注生卒年修、书证豁免）；W3 清单 0；W4 清单 0；W5 N/A；W6 复扫 0。【骨架实修 2 处】①相关词条行对齐 SUMMARY 主形：去游离标注 [让]/[奥康]、威廉·奥卡姆 改 奥卡姆的威廉（buridan/ockham SUMMARY 行为证；bradwardine 无主词条按 ren-ming-biao 保留）；②引号-数字间补半角空格 1 处（问 1 “论名称”，ADR-0041 偏离①登记形，规则晚于前链）。【s3 机检】check_style 0 issue（修后）；check_math_zh 硬错 0；check_academic --strict 0 硬错误；check_quotes 本文件 0 违例。【规范基线筛查结论】（rules/08 §13）适用：GB/T 15834-2011（连接号/引号空格）、GB/T 15835-2011、CY/T 154-2017（偏离登记 ADR-0041）；GB/T 7714-2025 照录面豁免（书目 68 条三子节齐）；无未登记域。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T13:17:57Z",
+      "evidence": "回炉重走 r1（初审·准确性；本会话非初译 actor）。五维对账：节 8/8；段 32=30+2（体例注记行 2 家法豁免）；正文引用键 zh 0/yw 0（双方均无内联引用，占位键除外）；defs 68/68 键集一致；年份差 1320×1 已定性（zh 1320 年代初 对 yw early 1320s 的 s 词尾形态差，数值语义等价豁免）。全文通读对照 yuanwen：生平（1351 文科硕士、1353 巴黎大学校长、1365 维也纳首任校长、1390 卒）、《逻辑学》六篇结构、指代理论（简单指代恢复、descensus copulatim）、形式称谓取代理性称谓、命题指谓 modus rei、无限论分析、推论理论（形式/实质、simpliciter/ut nunc）、自然哲学（真空/凝缩稀化/冲力 virtus impressa、平均速度定理）、化圆为方公设提议逐段语义一致；拉丁词形（suppositio/appellatio rationis/res successiva/impetus 等）与源一致。无漏译/增译/事实偏差。实修 3 处（W1 一字线、相关词条主形对齐、引号空格），已在 s3 凭证登记。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T13:17:57Z",
+      "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 21 条逐条重新定性、0 新实修：de-chain 10（中世纪逻辑术语文定语链，维持豁免）；long-sentence 10（复合论述句，冒号/破折号内嵌切分与源对应，维持豁免）；passive-bei 1（被任命为——教职任命自然被动，维持豁免）。人名核对：让·布里丹/沃尔特·伯利/威廉·海特斯伯里/尼科尔·奥雷斯姆/里米尼的格里高利/托马斯·布拉德沃丁/萨克罗博斯科的约翰等与 ren-ming-biao 一致，check_terms 0 告警；相关词条行已对齐 SUMMARY 主形（奥卡姆的威廉）。语体结论：现代汉语学术书面语；破折号 14 处仅用于插入与解释，无滥用；一个 12 处无滥用；无 AI 腔套话；无文言句式。"
     }
   ],
   "blockers": [],

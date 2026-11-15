@@ -2,7 +2,7 @@
   "slug": "antiochus-ascalon",
   "kind": "retranslate",
   "zh_doc": "a/antiochus-ascalon.md",
-  "state": "s2.5_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,48 @@
       "actor": "pc6-m2.5-revert",
       "at": "2026-11-15T09:02:34Z",
       "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:46:41Z",
+      "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉）：en_integrity clean；en_source_audit 硬错 0、告警 1 条（heading_skip h2→h4，SEP 原生结构，按 specs/036 bauer 先例登记豁免）；drift_scan --only unchanged（2026-11-15）；镜像轴全量回源核对当日已跑凭证复用"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:47:19Z",
+      "evidence": "回炉件 s2.4/s2.5 增项随 s3 落账（ADR-0053 工序；本会话非初译 actor，密度统计作独立性补偿）。【s2.4 面⑦】check_terms --docs 定点核销 0 疑似、硬错 0；未登记词复查 0 缺口。【s2.5 ①】prose 三则新告警 tense-adverb/conj-he-verb/chenggong-de 均 0（余量 de-chain 17、long-sentence 17、weak-verb 1，r2 逐条定性）。【②密度】破折号 40 处全为成对插入/解释用法，与源文同位语密度对应，无滥用；一个 15 处自然量词；AI 高频词 0。【③AI 腔五形态】全文通读：无增译套话/空洞拔高/模糊归因/公式化排比/高频词密度；归因全部具名（Cicero/Sextus/S.E. 卷节）。【④省略号】zh 与 yw 两侧省略号均 0，N/A。【⑤表身空值】无内容表 N/A。【⑥十项】注码注文相符（正文引用 17 键全有定义、defs 50 键集一致）；图表编序 N/A；目录标题一致（4 节序号连续+尾节四节）；插图 N/A；数字用法一致（公元前形统一、69/8 年源形照录）；引文核对 N/A（无直接引文块）；体例统一（拉丁词斜体、译名括注、译注行）。【W 面】W1 正文唯一缩写区间为 Cicero 引注（Acad. 2.109-10），书证引注豁免；W3 清单 0 候选、书名号/引号顿号违例面扫 0；W4 清单 1 候选已修——按 GB/T 15834-2011 4.9.3.6（条款原文已读，specs/025 bin 存档）外层说明括号内译者增插 gloss 改不同括号形式：逍遥学园〔Peripatos〕（先例：agrippa-nettesheim 同款）；W5 无多段引文块 N/A；W6 复扫 0。【s3 机检】check_style 0 issue（修后复跑）；check_math_zh 硬错 0；check_academic --strict 0 硬错误；check_quotes 违例 0。【规范基线筛查结论】（rules/08 §13）适用：GB/T 15834-2011（顿号/破折号/括号套用 4.9.3.6）、GB/T 15835-2011（数字）、CY/T 154-2017（空格，偏离登记 ADR-0041）；GB/T 7714-2025 照录面豁免（书目 44 条要素齐）；无未登记域。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:48:06Z",
+      "evidence": "回炉重走 r1（初审·准确性；本会话非初译 actor）。五维对账：节 8/8；段 34=32+2（体例注记行家法豁免）；正文引用键 17/17（yw 侧差 1 为底稿注记行占位键，非真实引用）；defs 50/50 键集一致；年份差 0。全文通读对照 yuanwen：生平著作节（学园史分期、Antiochus 与 Philo 决裂时点公元前 79 年前）、认识论节（认知印象定义、学园派两条学说、Carneades 或然论两版本）、伦理学节（可取的无所谓者两难、摇篮论证、vita beata/beatissima 区分）逐段语义一致；古代引注卷节号（Cicero Acad./Fin./N.D./T.D.、S.E. M/PH）抽查多处与源一致。无漏译/增译/事实偏差。实修 1 处（W4 括号形式），已在 s3 凭证登记。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:48:38Z",
+      "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 35 条逐条重新定性、0 新实修：de-chain 17（学述与术语文定语链，语义自足，维持豁免）；long-sentence 17（本件论辩句普遍绵长，多为冒号/破折号/分号内嵌切分的复合论证句，与源句法对应，逐条复核拆分将损论证递进，维持豁免；其中 line 33 命中为脚注引注行非正文句）；weak-verb 1（作出这一…声称——宾语为固定名词，非弱化填充，维持豁免）；passive 0。人名核对：阿尔克西拉乌斯/卡涅阿德斯/克利托马库斯/波莱莫/基提翁的芝诺/基俄斯的阿里斯通等译名括注原文名与 ren-ming-biao 一致，check_terms 0 告警。语体结论：现代汉语学术书面语；破折号 40 处仅用于插入与解释，无滥用；一个 15 处无滥用；无 AI 腔套话；无文言句式。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:49:13Z",
+      "evidence": "回炉重走 r3（终审·门禁）。机检复跑：check_style 0 issue；check_math_zh 硬错 0；check_academic --strict 0 硬错误；check_quotes 违例 0；W4 修后五维对账复跑守恒（改 1 字符对位，段落/键集/defs 不变）。尾节四节齐，defs 44 条齐。全链凭证：s0 补课→s2.4/s2.5 增项（W4 实修 1 处）→s3→r1→r2→r3 齐备。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-rework-20261115",
+      "at": "2026-11-15T11:49:13Z",
+      "evidence": "ADR-0053 回炉收官：全链重走完毕（s0 补课→增项→s3→r1→r2→r3），实修 1 处（W4 括号套用改〔〕内层形，GB/T 15834-2011 4.9.3.6，agrippa-nettesheim 先例），其余零改动、凭证补齐。s0：integrity clean＋source_audit 硬错 0（跳档告警=SEP 原生豁免）＋drift_scan unchanged。批次 a 回炉进度 2/62。"
     }
   ],
   "blockers": [],
