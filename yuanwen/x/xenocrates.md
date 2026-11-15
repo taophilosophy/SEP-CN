@@ -207,8 +207,6 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^horky-2022]: –––, 2022, “Aristotle’s Intermediates and Xenocrates’ Mathematicals,” *Revue de Philosophie Ancienne*, 40: 79–112.
 
-[^isnardi-2012-2]: Isnardi Parente, Margherita, 2012, *Senocrate-Ermodoro: Frammenti*, Naples: Bibliopolis, 1982 (includes an Italian translation of the fragments); new, revised edition, by T. Dorandi, Pisa: Edizioni della Normale.
-
 [^mansfeld-2020]: Mansfeld, J., and D. Runia, 2020, *Aëtiana V (4 vols.). An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Leiden: Brill.
 
 [^opsomer-2020]: Opsomer, J, 2020, “The Platonic Soul. From the Early Academy to the First Century BCE,” in J. Warren, B. Inwood (eds.), *The Metaphysics of the Soul*, Cambridge: Cambridge University Press, 171–198.
