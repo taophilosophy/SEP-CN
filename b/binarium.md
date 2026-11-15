@@ -107,11 +107,11 @@
 
 [^baur-1912]: Baur, Ludwig, ed. 1912. *Die philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln*, Münster i. W.: Aschendorff. (*Beiträge zur Geschichte der Philosophie des Mittelalters,* Bd. 9.)
 
-[^callus-1943]: Callus, Daniel. 1943. “Introduction of Aristotelian Learning to Oxford,” *Proceedings of the British Academy* 29, pp. 229–81,
+[^callus-1943]: Callus, Daniel. 1943. “Introduction of Aristotelian Learning to Oxford,” *Proceedings of the British Academy* 29, pp. 229–81.
 
 [^callus-1955]: –––. 1955. “The Condemnation of St Thomas at Oxford.” 2nd ed. (“The Aquinas Society of London: Aquinas Paper,” No. 5.) London: Blackfriars. (“A paper read to the Aquinas Society of London on 24th April, 1946.” First published 1946.)
 
-[^de-1926]: De Wulf, Maurice. 1926. *History of Mediaeval Philosophy.* Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's *Histoire de la philosophie médiévale.* Louvain: Institut supérieure de philosophie, 1924–25.)
+[^de-1926]: De Wulf, Maurice. 1926. *History of Mediaeval Philosophy.* Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's *Histoire de la philosophie médiévale.* Louvain: Institut supérieur de philosophie, 1924–25.)
 
 [^gilson-1955]: Gilson, Étienne. 1955. *History of Christian Philosophy in the Middle Ages.* New York: Random House.
 
@@ -202,7 +202,7 @@
 
 [^note-SPAgain]: 参见上文注 14。
 
-[^note-BaurQuote]: Baur [1912], p. 310: “Prima autem contrarietas in linea praedicamentali substantia a natura generis partim ratione materiae ad utrumlibet se habentis, partim a natura formae communissimae gradatim secundum proporitionem receptivitatis materiae ad particularitatem tendentis binario famosissimo contenetur, id est corporeo et incorporeo.”
+[^note-BaurQuote]: Baur [1912], p. 310: “Prima autem contrarietas in linea praedicamentali substantia a natura generis partim ratione materiae ad utrumlibet se habentis, partim a natura formae communissimae gradatim secundum proportionem receptivitatis materiae ad particularitatem tendentis binario famosissimo contenetur, id est corporeo et incorporeo.”
 
 [^note-WeisheiplAnotherSense]: 然而，在 Weisheipl [1980], p. 253 处，他以相当不同的方式使用这一表达式，引用这种观点：“在一元（monad，即上帝）之后，必然出现二元（dyad），即质料与形式（即 *binarium famosissimum*）。”
 

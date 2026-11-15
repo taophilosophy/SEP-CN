@@ -166,7 +166,7 @@ The letter of John Pecham (or Peckham, Archbishop of Canterbury) mentioned by De
 
 20. See n. 14 above.
 
-21. Baur [1912], p. 310: “Prima autem contrarietas in linea praedicamentali substantia a natura generis partim ratione materiae ad utrumlibet se habentis, partim a natura formae communissimae gradatim secundum proporitionem receptivitatis materiae ad particularitatem tendentis binario famosissimo contenetur, id est corporeo et incorporeo.”
+21. Baur [1912], p. 310: “Prima autem contrarietas in linea praedicamentali substantia a natura generis partim ratione materiae ad utrumlibet se habentis, partim a natura formae communissimae gradatim secundum proportionem receptivitatis materiae ad particularitatem tendentis binario famosissimo contenetur, id est corporeo et incorporeo.”
 
 22. Nevertheless, at Weisheipl [1980], p. 253, he uses the expression rather differently, citing the view that “after the monad, which is God, must come the dyad, which is matter and form (the *binarium famosissimum*).”
 
@@ -194,7 +194,7 @@ The letter of John Pecham (or Peckham, Archbishop of Canterbury) mentioned by De
 
 [^callus-1955]: –––. 1955. “The Condemnation of St Thomas at Oxford.” 2nd ed. (“The Aquinas Society of London: Aquinas Paper,” No. 5.) London: Blackfriars. (“A paper read to the Aquinas Society of London on 24th April, 1946.” First published 1946.)
 
-[^de-1926]: De Wulf, Maurice. 1926. *History of Mediaeval Philosophy.* Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's *Histoire de la philosophie médiévale.* Louvain: Institut supérieure de philosophie, 1924–25.)
+[^de-1926]: De Wulf, Maurice. 1926. *History of Mediaeval Philosophy.* Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's *Histoire de la philosophie médiévale.* Louvain: Institut supérieur de philosophie, 1924–25.)
 
 [^gilson-1955]: Gilson, Étienne. 1955. *History of Christian Philosophy in the Middle Ages.* New York: Random House.
 
