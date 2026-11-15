@@ -459,3 +459,9 @@
 | ---- | ---- | ---- | ---- |
 | xenophanes | 正文 B16 `Thracians that theirs are are blue-eyed and red-haired.` | `Thracians that theirs are blue-eyed and red-haired.` | 衍字（①）：引文句法只需一个 are（Ethiopians 分句同构），双写为编辑残迹；drift_scan unchanged 证明上游原文如此 |
 | xenophanes | 正文 B14 `wear their own clothers and have a voice and body` | `wear their own clothes and have a voice and body` | 拼写（①）：clothers 非英语词，B14 通行译文为 clothes；drift_scan unchanged 证明上游原文如此 |
+
+## 六、2026-11-15 续批二（zhu-xi s0 前置发现）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| zhu-xi | 正文 `and the *Mean* of the the nature endowed in humans by heaven` | 删一 `the` | 冠词重复（①）；句式为 Confucius…Mencius…and the *Mean* of the nature…平行结构，双 `the` 非法 |
