@@ -303,3 +303,17 @@
 | knowledge-value | pritchard-2011 条末缺句点 | 补句点 | 缺标点（①） |
 | knowledge-value | turri-2016b 条末缺句点 | 补句点 | 缺标点（①） |
 | knowledge-value | turri-2011a `URL = <[url](url)>` | `URL = <url>` | 嵌套方括号（①） |
+| aristotle-causality | code-2015 `Theory and PRactice`／`Cambrdige` | `Practice`／`Cambridge` | 拼写（①） |
+| aristotle-causality | witt-2015 `Phyiscs` | `Physics` | 拼写（①） |
+| aristotle-causality | leunissen-2010-2 `Good Houskeeper.` | `Good Housekeeper.` | 拼写与句读（①） |
+| aristotle-causality | bradie-1984 `Bradie, M., Miller, 1984, F. D.,` | `Bradie, M. and F. D. Miller, 1984,` | 姓名年份错位（①） |
+| aristotle-causality | gaiser-1969 `4ᵗʰ Simposium` | `4th Symposium` | 上标字符与拼写（①） |
+| aristotle-causality | sauvé-1992 `101, 791–825` | `101: 791–825` | 卷页缺冒号（①） |
+| aristotle-causality | balme-1987／cooper-1987 `Issues in Aristotle Biology` | `Issues in Aristotle’s Biology` | 缺 ’s（①） |
+| aristotle-causality | la-1976／gotthelf-1976 `1976/1977,“` | `1976/1977, “` | 逗号后缺空格（①） |
+| aristotle-causality | wardy-1993 `1993,“` | `1993, “` | 逗号后缺空格（①） |
+| aristotle-causality | boeri-1995 `Aristotle Physics` | `Aristotle’s Physics` | 缺 ’s（①） |
+| aristotle-causality | henning-2009／stein-2011 `,”<em>` | `,” <em>` | 引号后缺空格（①） |
+| aristotle-causality | stein-2021 条末缺句点 | 补句点 | 缺标点（①） |
+| aristotle-causality | judson-2005 `Teleology,”,` | `Teleology,”` | 双标点（①） |
+| aristotle-causality | furley-1999 `Aristotle’ Final Cause` | `Aristotle’s Final Cause` | 缺 s（①） |
