@@ -2,7 +2,7 @@
   "slug": "zeno-elea",
   "kind": "retranslate",
   "zh_doc": "z/zeno-elea.md",
-  "state": "s2.5_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,34 @@
       "actor": "pc6-m2.5-revert",
       "at": "2026-11-15T09:07:29Z",
       "evidence": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T12:10:39Z",
+      "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉件）：①en_integrity 包完整性 clean（hard_findings 0）；②en_source_audit HTML 本体审计：硬错 0、告警 5——heading_skip h2→h4（页脚导航样板，同 zabarella/bauer 先例豁免）；typo 候选 doubled_word 4 处均为希腊译文引文内「the things that are are…」「What moves moves…」合法重叠（关系从句 are＋系词 are 结构，源文本然，工具自身豁免清单外的人工判读豁免），非缺陷；③镜像轴保真抽查：pubinfo 行（First published Wed Jan 9, 2008; substantive revision Mon May 12, 2025）与引文句「If the things that are are many…」逐字符与 en/zeno-elea/index.html 剥标签文本一致；全局镜像依据 2026-11-15 drift_scan 全量回源＋specs/023 全量重转回归扫描在案；④typo 其余 0、外链 9 离线盘点在案待 --net 批次；③typo 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T12:23:49Z",
+      "evidence": "回炉件 s3（增补后，specs/028 §0-bis 工序）：三检门禁全绿——check_style 0 issue、check_prose 0 告警、check_math missing/unbalanced 均空、check_academic --strict 0 硬错误（在途豁免 1）、check_pairs 0、check_math_zh 0、check_summary H1 mismatch 0/HARD 0。s2.4/s2.5 增项（无 s24/s25 步记录，凭证并入本步）：⑴术语校——check_terms 定点 2 告警（Epiphanius/Eudemus）均系引注组内照录用名（括注引证体例保真），非正文用名，D5 豁免；正文用名核对：巴门尼德/芝诺/苏格拉底/柏拉图/亚里士多德/第欧根尼·拉尔修/普鲁塔克/普罗克洛斯/辛普里丘/毕达哥拉斯派/菲洛劳斯/阿那克萨戈拉/留基伯/德谟克利特/恩培多克勒/高尔吉亚/普罗塔戈拉/伊索克拉底/麦里梭/泰奥多洛/伯里克利/克尔弗德/皮托多鲁斯/卡利阿斯/达蒙等与登记册/SUMMARY 一致（前手 r2 凭证已核七项相关词条双形裁定）。⑵译文轴实修 3 处——①§2.2.3 亚氏引文「凡事物凡是与等量者相并就总是静止」句读滞涩（凡是赘入），改「凡事物，凡与等量者相并，就总是静止」（yw 源形 if every thing always is resting whenever it is against what is equal，Minor fluency）；②§3 加粗范围对位：<em>indirect</em> defense 全短语加粗改「一种 **间接** 辩护」（源仅 indirect 强调，bold-spacing 库规空格分隔）；③图 1/图 2 标签移至表下（源 figlabel Diagram 1/2 位于图下，合中文图题居下惯例）。⑶密度统计：破折号 19 处逐处审阅均插入/解释职能（含引块内 2 处源生破折号）；量词「一个」62 处逐处审阅全为实指（每一个/另一个/一个接一个/唯一一个等），无填充滥用；AI 高频词仅值得注意×1（源生 It is worth noting 对应核销）。⑷结构对账：H1 与 SUMMARY 逐字一致（爱利亚的芝诺 Zeno of Elea (John Palmer)）；节集合=导语＋§1–§3＋2.1.1/2.1.2/2.2.1–2.2.4/2.3.1/2.3.2 全对位；参考文献四层分类子节（Further Reading/Primary Sources［Zeno/Other Ancient/English Translations］/Secondary Literature）齐备（bib-subclass 无丢失）；脚注键 122:122 定义集与 yuanwen 全等、正文键序 2:2 等序（barnes-1982/kerferd-1981）；图形 4 张 alt 全中文与源 alt 对应、源 nocaption 故不加图号；两处 Diagram 位置表 4×3/3×1 结构对位；下标数字 zh 统一 Unicode 下标（yw ASCII 混形 24 处归一，24↔24 对账平）；日期记法转换（Jan 9 2008→2008 年 1 月 9 日等）。⑸表身空值：无空表；省略号双方 0；源无致谢。⑹语体：现代汉语学术书面语；Greek 专名括注体例齐。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T12:24:14Z",
+      "evidence": "回炉重走 r1（初审·准确性，独立会话，与初译 Z-main-20261110 异会）：逐段对照 yuanwen/z/zeno-elea.md 全文（导语＋§1–§3＋引块×3＋尾节）核销——①导语（known exclusively/柏拉图证据不足/量的概念应用/毕达哥拉斯派反思四层）逐句对位，5th c. B.C.E.→公元前 5 世纪忠实；②§1 生平（大泛雅典娜节/苏格拉底年岁推生年 490/红绘饮杯藏号 3591/普鲁塔克伯里克利报道）与《巴门尼德篇》127d6–128a3 引块全段逐句对位；普罗克洛斯四十 logoi 证据段与改作段（Ph. 8.8 263a7–11）对位；③§2.1 有限/无限二律背反重构（公设表述、x₁–x₄ 无限迭代）与大/小二律背反（fr.2/fr.1 引文两段、无大小即无存在引理、无限部分子论证）逐句对位；④§2.2 四悖论：二分法（p₀–p₄ 与 pₙ/pₙ₋₁ 无终点递推）、阿基里斯（d₁–d₃ 递进三图）、飞矢（与等量者相并三段式）、运动队列（AA/BB/CC 场景与 204a10–17 引文）逐句对位；⑤§2.3 黍粒与处所倒退（ad infinitum、无处所则众多无所在）逐句对位；⑥§3 意图章：128a6–b6/128c6–d6/128d6–e3 三引块全段对位；巴恩斯判断引文（Barnes 1982, 236）、philonikia/antilegei、《斐德罗篇》帕拉墨得斯、《智者篇》216a–b、辩证法发明者三说、endoxa 对举、伊索克拉底归类、克尔弗德判定（1981, 18–23, 59ff., 85）逐句对位；⑦尾段数学复杂性辨析与影响章（peras/to apeiron、可无限分割原则、物理的构成理论、概念充分性检验、reductio ad absurdum）逐句对位；⑧引用组全半角/希腊字母ᵃᵇ转写与引注号逐字符一致（前手 r3 抽查 204a10–17 复证）。本步实修 0（前手 3 处实修已于 s3 步登记）。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T12:24:42Z",
+      "evidence": "回炉重走 r2（复审·语体与体例，机检＋通读并行）：①正文数字/年代机检：ASCII 数字余额差 24↔24 全对齐（yw ASCII 混形 p0/t1/d2 等位置标记，zh 统一 Unicode 下标 p₀/t₁/d₂），加日期记法转换（Jan 9 2008→2008 年 1 月 9 日、May 12 2025→2025 年 5 月 12 日、5th c.→公元前 5 世纪、3591 藏号一致），无实数错漏；②节标题九级全对位（§1–§3＋六个四级小节＋参考文献四层子节）；③逻辑链重核：二分法无限中点先行、阿基里斯步距递推、飞矢「与等量者相并」三段论、运动队列公设推理（同大小同速→同时间）、处所无穷倒退、§3 通行观点—芝诺自辩—巴恩斯判断三层结构，均与源一致；④密度复算（修后文本）：破折号 19 处全职能化、量词「一个」62 处全实指、AI 高频词 1 处源生；⑤语体通读：现代汉语学术书面语，无文言仿古句式；六器机检复跑全绿（style 0/prose 0/math 0/math_zh 0/academic strict 0/pairs 0）；⑥check_terms 定点 2 告警引注豁免定性沿用。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
     }
   ],
   "blockers": [],
