@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T01:26:58Z",
+  "updated_at": "2026-11-15T01:52:35Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1391,6 +1391,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Candlish 2006→2021（ADR-0038 ②）",
       "registered_at": "2026-11-15T01:26:58Z"
+    },
+    {
+      "slug": "bergson",
+      "path": "en/bergson/index.html",
+      "upstream_sha256": "bd58aa97987ed673e1b6ab0d0fb444e3d9d25dcb2f3e0df8eee15265a218af5c",
+      "local_sha256": "0adcfdca7581fc21f36814e31077b28ba5c54725d3eb90d960227964e6f25db4",
+      "bytes": {
+        "upstream": 96734,
+        "local": 96738
+      },
+      "commit": "HEAD",
+      "subject": "015 偿还 bergson：双挂键、Soulez et Worms 与法文重音（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Soulez & → et、septième édition（ADR-0038 ②①）",
+      "registered_at": "2026-11-15T01:52:35Z"
     }
   ],
   "tombstones": [
