@@ -321,3 +321,5 @@
 | binarium | gilson-1955 `Institut supérieure de philosophie` | `supérieur` | 法语性数配误（①） |
 | timon-phlius | decleva 2020 条 `Declava Caizzi` | `Decleva Caizzi` | 姓氏拼写（①） |
 | truth-coherence | 正文 `(Candlish 2006)` | `(Candlish 2021)` | 正文年份与书目 2021 矛盾（②） |
+| bergson | 正文 `Soulez & Worms 2002` | `Soulez et Worms 2002` | 同书两种写法（②） |
+| bergson | 引文 `Avertissement … septième edition` | `édition` | 法文重音缺失（①） |
