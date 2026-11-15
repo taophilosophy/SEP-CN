@@ -27,7 +27,7 @@ But Buridan’s masterwork is the *Summulae de dialectica* [Compendium of Dialec
 
 Buridan’s other works were almost as widely read as the *Summulae*. Handwritten copies and early printed editions were carried by his students and followers throughout Europe, where they were often used as primary texts in university courses on logic and Aristotelian philosophy, meaning that arts masters would teach the required books of Aristotle by reading and explaining Buridan’s commentary to the class. As a result, the *via Buridani* continued to shape European thought well into the Renaissance.
 
-Like many other medieval philosophers, Buridan’s thought has not been fully appreciated because of the lack of modern editions and translations of his work (see bibliography). This situation began to improve with the appearance in 2001 of Gyula Klima’s mammoth translation of the entire *Summulae* from the (now virtually complete) Latin critical edition of this text. More recently, an edition of Buridan’s commentary *On Generation and Corruption* has appeared (Streijger, Bakker, & Thijssen 2010)[^streijger-2010], along with editions of the first four books of his commentary on the *Physics* (ed. Streijger & Bakker 2015, 2016)[^streijger-2015][^streijger-2016], as well as of his interesting commentary on pseudo-Albertus-Magnus’ treatise *De secretis mulierum* [On the Secrets of Women] (ed. Beneduce 2017)[^beneduce-2017]. We also now have an excellent English translation of his groundbreaking *Treatise on Consequences* (tr. Read 2015)[^read-2015], as well as an edition and translation of his influential commentary on Aristotle’s *De Anima* (ed. & tr. Klima, Sobol, Hartman, and Zupko 2023)[^klima-2023][^klima-2023-2]. Other editions and translations are being planned or are currently in progress.
+Like many other medieval philosophers, Buridan’s thought has not been fully appreciated because of the lack of modern editions and translations of his work (see bibliography). This situation began to improve with the appearance in 2001 of Gyula Klima’s mammoth translation of the entire *Summulae* from the (now virtually complete) Latin critical edition of this text. More recently, an edition of Buridan’s commentary *On Generation and Corruption* has appeared (Streijger, Bakker, & Thijssen 2010)[^streijger-2010], along with editions of the first four books of his commentary on the *Physics* (ed. Streijger & Bakker 2015, 2016)[^streijger-2015][^streijger-2016], as well as of his interesting commentary on pseudo-Albertus-Magnus’ treatise *De secretis mulierum* [On the Secrets of Women] (ed. Beneduce 2017)[^beneduce-2017]. We also now have an excellent English translation of his groundbreaking *Treatise on Consequences* (tr. Read 2015)[^read-2015], as well as an edition and translation of his influential commentary on Aristotle’s *De Anima* (ed. & tr. Klima, Sobol, Hartman, and Zupko 2023)[^klima-2023]. Other editions and translations are being planned or are currently in progress.
 
 Thanks to the increasing availability of modern editions of not just Buridan’s writings but other fourteenth-century thinkers as well, we are beginning to get a better picture of who influenced Buridan. We know he had access to the *Summa Logicae* of William of Ockham (Dewender 2016)[^dewender-2016], although he never mentions Ockham by name and his own *Summulae de Dialectica*, while certainly inspired by Ockham’s nominalist *via moderna*, frames its teachings more traditionally in terms of the logic curriculum presented in the *Summulae Logicales* of Peter of Spain. Likewise, Book I, q. 8 of Buridan’s *Physics* commentary makes his opposition to the Ockhamist denial of quantitative forms explicit, but there are almost certainly other authors in the mix whose arguments Buridan is targeting, such as those of his Parisian contemporary, Albert of Saxony (QP I.8; ed. Streijger and Bakker 2015: 79–92)[^streijger-2015]. Another author influencing Buridan’s natural philosophy is the English logician Walter Burley, who is mentioned by name on several occasions. Buridan seems to have become acquainted with the controversy on the intension and remission of forms via Burley, though his own treatment of the problem in his commentaries on the *Physics* and *On Generation and Corruption* appears to be aimed at another Parisian contemporary, Nicole Oresme, who adopted a modified version of Burley’s view (Biard 2002; Caroti 2004)[^biard-2002][^caroti-2004]. A surprising source for Buridan’s lengthy *Quaestiones* on the *Nicomachean Ethics* is the *Nicomachean Ethics* commentary of Gerald of Odo, a Franciscan theologian known for his opposition to Ockham (Walsh 1975; Dewender 2016)[^dewender-2016][^walsh-1975]. Buridan’s *Nicomachean Ethics* commentary also makes use of another surprising source, the Stoic teachings of Seneca the Elder, which Buridan insists should be read not not as opposed to Aristotelian ethics but as perfective of it (Walsh 1966; Zupko 2013)[^walsh-1966].
 
@@ -294,8 +294,6 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^hubien-nd-2]: ––– (ed.), *Iohannis Buridani Quaestiones in duos libros Aristotelis Priorum Analyticorum*, unpublished typescript. [QAnPr]
 
-[^klima-2023]: Klima, Gyula, Peter G. Sobol, Peter Hartman, and Jack Zupko (eds.), 2023, *John Buridan’s Questions on Aristotle’s “De anima” – Iohannis Buridani Quaestiones in Aristotelis De anima* (Historical-Analytical Studies on Nature, Mind, and Action: Volume 9), Cham: Springer Nature. [QDA]
-
 [^lecq-1983]: van der Lecq, Ria (ed.), 1983, *Johannes Buridanus, Questiones longe super librum Perihermeneias*, Artistarium 4, Nijmegen: Ingenium. [QDI]
 
 [^lecq-1995]: ––– (ed.), 1995, *Johannes Buridanus: Summulae de Suppositionibus*, Artistarium 1–4, Turnhout: Brepols.
@@ -318,7 +316,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^scott-1967]: Scott, Frederick, and Herman Shapiro (ed.), 1967, “John Buridan’s *De motibus animalium*,” *Isis*, 58: 533–552. [DMA]
 
-[^streijger-2010]: Streijger, Michiel, Paul J. J. M. Bakker, and Johannes M. M. H. Thijssen (ed.), 2010, *John Buridan, “Quaestiones super libros De generatione et corruptione Aristotelis*,”, critical edition with an introduction, History of Science and Medicine Library 17, Medieval and Early Modern Science 14, Leiden-Boston: Brill.
+[^streijger-2010]: Streijger, Michiel, Paul J. J. M. Bakker, and Johannes M. M. H. Thijssen (ed.), 2010, *John Buridan, “Quaestiones super libros De generatione et corruptione Aristotelis”*, critical edition with an introduction, History of Science and Medicine Library 17, Medieval and Early Modern Science 14, Leiden-Boston: Brill.
 
 [^streijger-2015]: Streijger, Michiel and Paul J. J. M. Bakker (ed.), 2015, *John Buridan, “Quaestiones super octo libros Physicorum Aristotelis (secundum ultimam lecturam), Libri I-II*,” with an introduction by Johannes M. M. H. Thijssen and a guide to the text by Edith D. Sylla, History of Science and Medicine Library 50, Medieval and Early Modern Science 25, Leiden-Boston: Brill. [QP I-II]
 
@@ -340,7 +338,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^klima-2001]: Klima, Gyula (tr.), 2001, *John Buridan: ‘Summulae de Dialectica’*, Yale Library of Medieval Philosophy, New Haven-London: Yale University Press. [S]
 
-[^klima-2023-2]: Klima, Gyula, Peter G. Sobol, Peter Hartman, and Jack Zupko (eds.), 2023, *John Buridan’s Questions on Aristotle’s ‘De anima’ – ‘Iohannis Buridani Quaestiones in Aristotelis De anima’* (Historical-Analytical Studies on Nature, Mind, and Action: Volume 9), Cham: Springer Nature. [QDA]
+[^klima-2023]: Klima, Gyula, Peter G. Sobol, Peter Hartman, and Jack Zupko (eds.), 2023, *John Buridan’s Questions on Aristotle’s ‘De anima’ – ‘Iohannis Buridani Quaestiones in Aristotelis De anima’* (Historical-Analytical Studies on Nature, Mind, and Action: Volume 9), Cham: Springer Nature. [QDA]
 
 [^read-2015]: Read, Stephen (tr.), 2015, *John Buridan: Treatise on Consequences*, with an introduction by Stephen Read and an editorial introduction by Hubert Hubien, New York: Fordham University Press.
 
@@ -374,9 +372,9 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^duhem-1906]: Duhem, Pierre, 1906–13, *Études sur Léonard de Vinci*, 3 vols., Paris: Hermann.
 
-[^dutihl-2005]: Dutihl Novaes, C., 2005, “Buridan’s *Consequentia*: Consequence and Inference within a Token-Based Semantics,” *History and Philosophy of Logic*, 26: 277–97.
+[^dutilh-2005]: Dutilh Novaes, C., 2005, “Buridan’s *Consequentia*: Consequence and Inference within a Token-Based Semantics,” *History and Philosophy of Logic*, 26: 277–97.
 
-[^dutihl-2007]: –––, 2007, *Formalizing Medieval Logical Theories*: Suppositio, Consequentiae and Obligationes. Logic, Epistemology, and the Unity of Science 7, Dordrecht: Springer.
+[^dutilh-2007]: –––, 2007, *Formalizing Medieval Logical Theories*: Suppositio, Consequentiae and Obligationes. Logic, Epistemology, and the Unity of Science 7, Dordrecht: Springer.
 
 [^ebbesen-1991]: Ebbesen, Sten, 1991, “Is Logic Theoretical or Practical Knowledge?,” in Joël Biard (ed.), *Itinéraires d’Albert de Saxe: Paris-Vienne au XIVe siècle*, Paris: Vrin, 267–283.
 
@@ -384,7 +382,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^flüeler-1992]: Flüeler, Christoph, 1992, *Rezeption und Interpretation der Aristotelischen “Politica” im späten Mittelalter*, 2 vols., Amsterdam-Philadelphia: B. R. Grüner.
 
-[^flüeler-1999]: –––, 1999, “From Oral to Written Commentaries: John Buridan’s Commentaries on Aristotle’s *Metaphysics*,” in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*: Acts of the Symposium “The Copenhagen School of Medieval Philosophy,” January 10–13, 1996, Historisk-filosofiske meddelelser 77, Copenhagen: Museum Tusculanum, 497–521
+[^flüeler-1999]: –––, 1999, “From Oral to Written Commentaries: John Buridan’s Commentaries on Aristotle’s *Metaphysics*,” in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*: Acts of the Symposium “The Copenhagen School of Medieval Philosophy,” January 10–13, 1996, Historisk-filosofiske meddelelser 77, Copenhagen: Museum Tusculanum, 497–521.
 
 [^grant-1977]: Grant, Edward, 1977, *Physical Science in the Middle Ages*, New York: Cambridge University Press.
 
@@ -396,7 +394,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^klima-2005]: Klima, Gyula, 2005, “The Essentialist Nominalism of John Buridan,” *The Review of Metaphysics*, 58: 301–315.
 
-[^klima-2009]: –––, 2009, *John Buridan*, Great Medieval Thinkers, Oxford-New York: Oxford.
+[^klima-2009]: –––, 2009, *John Buridan*, Great Medieval Thinkers, Oxford-New York: Oxford University Press.
 
 [^knuuttila-1991]: Knuuttila, Simo, 1991, “Buridan and Aristotle’s Modal Syllogistic,” *Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelalters*, ed. Burkhard Mojsisch and Olaf Pluta, Band 1, Amsterdam-Philadelphia: B. R. Grüner, 477–488.
 
@@ -406,13 +404,13 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^lagerlund-2000]: Lagerlund, Henrik, 2000, *Modal Syllogistics in the Middle Ages*, Leiden-Boston-Köln: Brill.
 
-[^lines-2005]: Lines, David A., 2005, “Sources and Authorities for Moral Philosophy in the Italian Renaissance: Thomas Aquinas and Jean Buridan on Aristotle’s *Ethics*,”in *Moral Philosophy on the Threshold of Modernity*, ed. Jill Kraye and Risto Saarinen, Dordrecht: Springer, pp. 7–29.
+[^lines-2005]: Lines, David A., 2005, “Sources and Authorities for Moral Philosophy in the Italian Renaissance: Thomas Aquinas and Jean Buridan on Aristotle’s *Ethics*,” in *Moral Philosophy on the Threshold of Modernity*, ed. Jill Kraye and Risto Saarinen, Dordrecht: Springer, pp. 7–29.
 
 [^michael-1985]: Michael, Bernd, 1985, “Johannes Buridan: Studien zu seinem Leben, seinen Werken und zu Rezeption seiner Theorien im Europa des späten Mittelalters,” 2 Teile, Ph.D. Dissertation, University of Berlin.
 
 [^maier-1955]: Maier, Anneliese, 1955, *Metaphysische Hintergründe der spätscholastischen Naturphilosophie*, Studien zur Naturphilosophie der Spätscholastik, Bd. IV, Storia e Letteratura, Roma.
 
-[^normore-1985]: Normore, Calvin, 1985, “Buridan’s Ontology,” ed. James Bogen, and James E. McGuire, *How Things Are: Studies in Predication and the History and Philosophy of Science*, Dordrecht-Boston-Lancaster: Reidel, 189–203.
+[^normore-1985]: Normore, Calvin, 1985, “Buridan’s Ontology,” in *How Things Are: Studies in Predication and the History and Philosophy of Science*, James Bogen and James E. McGuire (eds.), Dordrecht-Boston-Lancaster: Reidel, 189–203.
 
 [^panaccio-1999]: Panaccio, Claude, 1999, “Semantics and Mental Language,” in Paul Vincent Spade (ed.), *The Cambridge Companion to Ockham*, Cambridge: Cambridge University Press.
 
@@ -446,7 +444,7 @@ insolubles [= *insolubilia*] | medieval philosophy | medieval philosophy: litera
 
 [^thijssen-2004]: –––, 2004, “The Buridan School Reassessed: John Buridan and Albert of Saxony,” *Vivarium*, 42(1): 18–42.
 
-[^thijssen-2001]: Thijssen, J. M. M. H., and Jack Zupko (ed.), 2001, *The Metaphysics and Natural Philosophy of John Buridan*, Leiden-Boston-Köln: Brill.
+[^thijssen-2001]: Thijssen, J. M. M. H., and Jack Zupko (eds.), 2001, *The Metaphysics and Natural Philosophy of John Buridan*, Leiden-Boston-Köln: Brill.
 
 [^trentman-1970]: Trentman, John, 1970, “Ockham on Mental,” *Mind* (N.S.), 79: 586–90.
 

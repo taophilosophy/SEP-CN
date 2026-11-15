@@ -363,3 +363,11 @@
 | imprecise-probabilities | ruggeri-2005 `25 623–667, Elsevier. Amsterdam` | `25: 623–667, Amsterdam: Elsevier.` | 标点与出版地倒置（①） |
 | imprecise-probabilities | konek-nd `forthcoming “`、条末无句点 | 补逗号与句点 | 标点（①） |
 | imprecise-probabilities | bradley-2016 `3:20`、bradley-2019／2016-2 条末无句点；voorhoeve-2016 `Stewart,2016` | 补冒号／句点／空格 | 标点（①） |
+| buridan | `Dutihl Novaes, C.`（2 处） | `Dutilh Novaes` | 姓氏拼写（①） |
+| buridan | normore-1985 `“Buridan’s Ontology,” ed. James Bogen, and James E. McGuire, <em>How Things Are…` | `in <em>How Things Are: …</em>, James Bogen and James E. McGuire (eds.),` | 编者结构与 in 缺失（②） |
+| buridan | klima-2009 `Oxford-New York: Oxford.` | `Oxford-New York: Oxford University Press.` | 出版者残缺（①） |
+| buridan | lines-2005 `Ethics</em>,”in` | `,” in` | 缺空格（①） |
+| buridan | flüeler-1999 条末 `497–521` 无句点 | 补句点 | 标点（①） |
+| buridan | thijssen-2001 两位编者作 `(ed.)` | `(eds.)` | 体例（①） |
+| buridan | streijger-2010 `Aristotelis</em>,”,` 引号与斜体次序错乱 | `Aristotelis”</em>,` | 标点（①） |
+| buridan | Klima/Sobol/Hartman/Zupko 2023 在 Modern 与 Translations 两区重复登记 | 删 Modern 区一条 | 重复条目（①） |

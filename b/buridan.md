@@ -26,7 +26,7 @@
 
 布里丹的其他著作读者之广几乎不亚于《大全》。手抄本与早期印本由其学生与追随者携往全欧，常被用作大学逻辑与亚里士多德哲学课程的基本教材。也就是说，艺学硕士通过给全班朗读并解释布里丹的注释来教授规定的亚里士多德书目。其结果是，*via Buridani*（布里丹路线）一直塑造欧洲思想，深入文艺复兴时期。
 
-与许多中世纪哲学家一样，布里丹的思想因缺乏现代校勘本与译本而未得到充分赏识（见参考文献）。这一状况自 2001 年 Gyula Klima 依据该文本（现已近乎完备的）拉丁校勘本译出整部《大全》的巨译问世后开始改善。晚近又出现了布里丹《论生成与毁灭》注释的校勘本（Streijger, Bakker, & Thijssen 2010）[^streijger-2010]，连同其《物理学》注释前四卷的校勘本（ed. Streijger & Bakker 2015, 2016）[^streijger-2015][^streijger-2016]，以及他对伪大阿尔伯特《论妇女之秘》的有趣注释（ed. Beneduce 2017）[^beneduce-2017]。我们如今还有他那部开创性《论后承》的出色英译（tr. Read 2015）[^read-2015]，以及他对亚里士多德《论灵魂》那部有影响注释的校勘本与译本（ed. & tr. Klima, Sobol, Hartman, and Zupko 2023）[^klima-2023][^klima-2023-2]。其他校勘本与译本正在筹划或进行中。
+与许多中世纪哲学家一样，布里丹的思想因缺乏现代校勘本与译本而未得到充分赏识（见参考文献）。这一状况自 2001 年 Gyula Klima 依据该文本（现已近乎完备的）拉丁校勘本译出整部《大全》的巨译问世后开始改善。晚近又出现了布里丹《论生成与毁灭》注释的校勘本（Streijger, Bakker, & Thijssen 2010）[^streijger-2010]，连同其《物理学》注释前四卷的校勘本（ed. Streijger & Bakker 2015, 2016）[^streijger-2015][^streijger-2016]，以及他对伪大阿尔伯特《论妇女之秘》的有趣注释（ed. Beneduce 2017）[^beneduce-2017]。我们如今还有他那部开创性《论后承》的出色英译（tr. Read 2015）[^read-2015]，以及他对亚里士多德《论灵魂》那部有影响注释的校勘本与译本（ed. & tr. Klima, Sobol, Hartman, and Zupko 2023）[^klima-2023]。其他校勘本与译本正在筹划或进行中。
 
 由于不仅布里丹著作、而且其他 14 世纪思想家的现代校勘本日益可得，我们开始对其思想来源有更清楚的了解。我们知道他能读到奥卡姆的威廉的《逻辑大全》（Dewender 2016）[^dewender-2016]，尽管他从未点名提及奥卡姆。他自己的《辩证法大全》虽无疑受奥卡姆唯名论 *via moderna* 启发，却以更传统的方式安排其教导，即按西班牙的彼得《逻辑大全》的逻辑课程。同样，布里丹《物理学》注释第一卷第 8 题明确表达了他对奥卡姆派否认量性形式的反对。但几乎可以肯定他还有别的靶子，例如其巴黎同代人萨克森的阿尔伯特（QP I.8; ed. Streijger and Bakker 2015: 79–92）[^streijger-2015]。另一位影响布里丹自然哲学的作者是英格兰逻辑学家沃尔特·伯利，他被多次点名提及。布里丹似乎是通过伯利了解到关于形式之 intensio（强度）与 remissio（减弱）的争论。但他在《物理学》与《论生成与毁灭》注释中对这一问题的处理，看来是针对另一位巴黎同代人尼科尔·奥雷斯姆——后者采纳了伯利观点的修正版（Biard 2002; Caroti 2004）[^biard-2002][^caroti-2004]。布里丹那部篇幅可观的《尼各马可伦理学问题集》有一个出人意料的来源：方济各会神学家奥多的杰拉尔德——他以反对奥卡姆著称——的《尼各马可伦理学》注释（Walsh 1975; Dewender 2016）[^dewender-2016][^walsh-1975]。布里丹的《尼各马可伦理学》注释还利用了另一个出人意料的来源：老塞涅卡的斯多葛派学说；布里丹坚持认为，这些学说不应读作与亚里士多德伦理学相对，而应读作对它的完善（Walsh 1966; Zupko 2013）[^walsh-1966]。
 
@@ -128,41 +128,41 @@
 
 ## 脚注
 
-[^note-1]: Michael 1985（79–238、399–404）。
+[^note-1]: Michael 1985[^michael-1985]（79–238、399–404）。
 
-[^note-2]: 不过，通过晚近的人物志研究，历史学家正开始更充分理解这类细节的意义。见 Courtenay 1999, 2004a。
+[^note-2]: 不过，通过晚近的人物志研究，历史学家正开始更充分理解这类细节的意义。见 Courtenay 1999, 2004a[^courtenay-1999][^courtenay-2004a]。
 
-[^note-3]: 关于这些故事逐一讨论与细致祛魅，见 Faral 1950（9–33）。
+[^note-3]: 关于这些故事逐一讨论与细致祛魅，见 Faral 1950[^faral-1950]（9–33）。
 
-[^note-4]: 布里丹写道，与形而上学及从属于它的科学不同，“神学以其信条［为原则］，这些信条之被相信完全无关其显明性，并且它进一步考察凡能从此类信条演绎出者”［*Theologia vero habet pro principiis articulos creditos absque evidentia et considerat ultra quamcumque ex huiusmodi articulis possunt deduci*］（QM I.2: 4ra-rb）。讨论见 Zupko 2003（第 10 章）。另见 Courtenay（2001, 2004），他宁愿对这类问题存而不论。目前关于布里丹最有趣的一些研究，关涉 14 世纪中叶巴黎艺学硕士的教学与学术生涯。
+[^note-4]: 布里丹写道，与形而上学及从属于它的科学不同，“神学以其信条［为原则］，这些信条之被相信完全无关其显明性，并且它进一步考察凡能从此类信条演绎出者”［*Theologia vero habet pro principiis articulos creditos absque evidentia et considerat ultra quamcumque ex huiusmodi articulis possunt deduci*］（QM I.2: 4ra-rb）。讨论见 Zupko 2003[^zupko-2003]（第 10 章）。另见 Courtenay（2001, 2004）[^courtenay-2001]，他宁愿对这类问题存而不论。目前关于布里丹最有趣的一些研究，关涉 14 世纪中叶巴黎艺学硕士的教学与学术生涯。
 
 [^note-5]: 现代读者容易把中世纪哲学家与神学家的关系误解为恭顺服从，从而印证我们关于所谓“黑暗时代”的长期偏见。但 Hans Thijssen 基于对原始资料的广泛研究，在此提供了很好的纠正：“初看之下，中世纪学术谴责似乎印证了旧教科书那种轻率的概括：中世纪是‘理性被锁链、思想被奴役的千年’。尽管大概已无人再持这种偏颇之见，中世纪学术谴责对现代读者而言仍像是基督教信仰对大学学者思想与教学所施限制的醒目表现。然而中世纪学者从另一角度看谴责，即视之为教学权威的行使，而非对学术自由的限制”（Thijssen 1998: xii）[^thijssen-1998]。
 
-[^note-6]: 另有一部被误归于布里丹的亚里士多德《政治学》注释，实为 14 世纪后期受布里丹影响的巴黎艺学硕士尼古拉·德·沃德蒙（Nicholas of Vaudemont）所作。见 Flüeler 1992（Vol. 1, 132–68）与 Courtenay 2004b。
+[^note-6]: 另有一部被误归于布里丹的亚里士多德《政治学》注释，实为 14 世纪后期受布里丹影响的巴黎艺学硕士尼古拉·德·沃德蒙（Nicholas of Vaudemont）所作。见 Flüeler 1992[^flüeler-1992]（Vol. 1, 132–68）与 Courtenay 2004b[^courtenay-2004b]。
 
 [^note-7]: 关于西班牙的彼得与《逻辑大全》教导的讨论，见本《百科全书》的“西班牙的彼得（Petrus Hispanus）”词条。
 
 [^note-8]: 到 14 世纪初，巴黎大学的艺学硕士已不再教授语法。已知最后一位撰写语法论著的艺学硕士是拉杜尔夫·布里托（卒于 1320 年）。看来发生的情况是：语法教学逐渐被在大学周边兴起的半独立学院与其他学校接管。
 
-[^note-9]: 见 Trentman 1970 与 Panaccio 1999（53）。另见奥卡姆《逻辑大全》I.1–3（OPh I: 7–14）。
+[^note-9]: 见 Trentman 1970[^trentman-1970] 与 Panaccio 1999[^panaccio-1999]（53）。另见奥卡姆《逻辑大全》I.1–3（OPh I: 7–14）。
 
 [^note-10]: 《逻辑大全》III.3（OPh: 46）。正如 Paul Spade 所说，“［对奥卡姆而言，］自指应被允许，除非它会导向悖论——简言之，除不合法之处外皆合法”（1974, 299）。
 
-[^note-11]: 这一洞见得自 Joël Biard（1989, 196）。
+[^note-11]: 这一洞见得自 Joël Biard（1989, 196）[^biard-1989]。
 
-[^note-12]: 关于布里丹对无限概念的处理，见 Thijssen 1991。关于他的点之概念，见 Zupko 1993。
+[^note-12]: 关于布里丹对无限概念的处理，见 Thijssen 1991[^thijssen-1991]。关于他的点之概念，见 Zupko 1993[^zupko-1993]。
 
-[^note-13]: 关于 14 世纪对这一区分的某些看法，见 Ebbesen 1991。
+[^note-13]: 关于 14 世纪对这一区分的某些看法，见 Ebbesen 1991[^ebbesen-1991]。
 
 [^note-14]: Hubert Hubien, “Editorial Introduction,” in Read (tr.) 2015: 61.
 
-[^note-15]: 讨论见 Spade 1982（192–3）、Ashworth 1999（753–4）。
+[^note-15]: 讨论见 Spade 1982[^spade-1982]（192–3）、Ashworth 1999[^ashworth-1999]（753–4）。
 
 [^note-16]: 于是西班牙的彼得说：“简单指代是把共同词项取其被意谓的共相事物”［*acceptio*］（Peter of Spain: Tractatus (called afterwards ‘*Summulae logicales*’), ed. L. M. de Rijk (Assen: van Gorcum, 1972): 81）。应当提及，早期词项论逻辑学家对指代的划分并不一致。例如彼得未提及质料指代，而舍伍德的威廉则把它收入其《逻辑导论》5.2（Norman Kretzmann, *William of Sherwood’s ‘Introduction to Logic’* (Minneapolis: University of Minnesota Press, 1966): 107）。另见本《百科全书》的“西班牙的彼得（Petrus Hispanus）”词条。
 
 [^note-17]: 奥卡姆的威廉《逻辑大全》I.68；OPh I: 207。对奥卡姆这类唯名论者而言，人称指代为本体论提供向导，因为一个词项只能人称地指代 *per se* 存在的东西。
 
-[^note-18]: 还要注意，这切断了人称指代与质料指代作为本己指代两个变种的传统联系。对布里丹而言，唯一的本己指代是人称指代；严格说来其余都是非本己的。Stephen Read 把布里丹关于质料指代为非本己的立场，与那一突破性学说联系起来——该学说首次在布里丹的学生因根的马西利乌斯著作中充分实现——即质料指代只有在质料指代词项具有意谓性、即代表其所意谓者时才有可能。见 Read 1999（18），以及 S 7.3.4: 522，那里布里丹把“*Homo est species*”视为歧义谬误的一例。
+[^note-18]: 还要注意，这切断了人称指代与质料指代作为本己指代两个变种的传统联系。对布里丹而言，唯一的本己指代是人称指代；严格说来其余都是非本己的。Stephen Read 把布里丹关于质料指代为非本己的立场，与那一突破性学说联系起来——该学说首次在布里丹的学生因根的马西利乌斯著作中充分实现——即质料指代只有在质料指代词项具有意谓性、即代表其所意谓者时才有可能。见 Read 1999[^read-1999]（18），以及 S 7.3.4: 522，那里布里丹把“*Homo est species*”视为歧义谬误的一例。
 
 [^note-19]: “至少在最初”这一限定意在涵盖这些原初赋义行为之后意谓的约定性——在布里丹看来，这些原初行为是自然确定的。他借说这类概念是“直接［*statim*］”获得的（即不经思虑）来表达这一想法：“从单一的视觉认知直接产生普遍的理智认知，所以当我们看见这个人时，我们直接想到［一个］人”（S 4.5.3: 296）。不过很明显，即便通行且主要赋予“人”一词的意谓，若人人同意以不同方式使用它，事后也可改变。在概念层面情况稍复杂，因为似乎任何个别语言使用者都不能随意改变其概念的意谓。但即便这些也可间接改变，这缘于布里丹认为概念与口说或书写语言之间存在的辩证关系。于是，从书本得知袋鼠是有袋类的人，并未获得新概念，而是扩充或修改了他已有的概念。
 
@@ -170,9 +170,9 @@
 
 [^note-21]: 见 Spade 1980［其他网络资源］。
 
-[^note-22]: Hughes（1989, 97）。另见本《百科全书》关于中世纪模态理论的词条。
+[^note-22]: Hughes（1989, 97）[^hughes-1989]。另见本《百科全书》关于中世纪模态理论的词条。
 
-[^note-23]: 见 Knuuttila 1991（487）；Lagerlund 2000（162–4）。另见 Knuuttila 1982（355–7），以及本《百科全书》“中世纪模态理论”词条。
+[^note-23]: 见 Knuuttila 1991[^knuuttila-1991]（487）；Lagerlund 2000[^lagerlund-2000]（162–4）。另见 Knuuttila 1982[^knuuttila-1982]（355–7），以及本《百科全书》“中世纪模态理论”词条。
 
 [^note-24]: 见本《百科全书》“中世纪哲学之文学形式”词条。
 
@@ -180,21 +180,21 @@
 
 [^note-26]: 另一种解答承认苏格拉底的命题“同时为真又为假”，但因牺牲太多而被拒斥。该理论的麻烦在于，它使给出苏格拉底命题的矛盾命题成为不可能，这意味着它在亚里士多德式逻辑空间中没有恰当的坐标。
 
-[^note-27]: 这实际上是托马斯·布拉德沃丁对说谎者悖论的解答（见本《百科全书》“不可解问题”词条）。但并非没有先例。捍卫布里丹这一解答的人中还应包括波纳文图拉：他在讨论奥古斯丁关于神存在的一个论证（《独语录》I.15）——即若无真理存在则某真理存在；若某真理存在则有一第一真理——时，记录了一项反对意见：第一个推论不成立，因为没有命题能蕴含自身矛盾。波纳文图拉同意，但补充如下限定：“必须理解，一个肯定命题作出双重断言，其一断言谓项于主项，其二断言该命题为真……矛盾关涉第一类断言，而非第二类。所以当说无真理存在［*nulla veritas est*］时，该命题就其否认谓项于主项而言，并不蕴含其反面即某真理存在。但就其断言自身为真而言，它蕴含某真理存在［*infert aliquam veritatem esse*］”（*Quaestiones disputatae de mysterio Trinitatis*, q. 1, a. 1, ad 5；拉丁文本节录于 Spade 1975, 53）。这一解答的其他主张者，见 Spade 1982（249）。
+[^note-27]: 这实际上是托马斯·布拉德沃丁对说谎者悖论的解答（见本《百科全书》“不可解问题”词条）。但并非没有先例。捍卫布里丹这一解答的人中还应包括波纳文图拉：他在讨论奥古斯丁关于神存在的一个论证（《独语录》I.15）——即若无真理存在则某真理存在；若某真理存在则有一第一真理——时，记录了一项反对意见：第一个推论不成立，因为没有命题能蕴含自身矛盾。波纳文图拉同意，但补充如下限定：“必须理解，一个肯定命题作出双重断言，其一断言谓项于主项，其二断言该命题为真……矛盾关涉第一类断言，而非第二类。所以当说无真理存在［*nulla veritas est*］时，该命题就其否认谓项于主项而言，并不蕴含其反面即某真理存在。但就其断言自身为真而言，它蕴含某真理存在［*infert aliquam veritatem esse*］”（*Quaestiones disputatae de mysterio Trinitatis*, q. 1, a. 1, ad 5；拉丁文本节录于 Spade 1975, 53）。这一解答的其他主张者，见 Spade 1982[^spade-1982]（249）。
 
 [^note-28]: 参布里丹较早的主张：矛盾不仅需要矛盾的逻辑形式，还需要说话者的意图（S 9.7，第 2 个诡辩题：943）。
 
-[^note-29]: Pironet 1993（294–5）。参 Hughes 1982（167–9）。
+[^note-29]: Pironet 1993[^pironet-1993]（294–5）。参 Hughes 1982[^hughes-1982]（167–9）。
 
-[^note-30]: 布里丹对这一替代方案的呈现因如下教义主张而稍显复杂：“人是驴”所意谓的“无”并非任何种类的命题，而是“人其为驴［*hominem esse asinum*］”，即该命题的 *dictum*（所述）或语句性名物化（在拉丁语中由宾格加不定式结构表达）。在布里丹语义学中，这种结构指代其对应命题的主项与谓项词项所指代的任何东西——只要该命题为真；否则它不指代任何东西。Gyula Klima 评论说，布里丹正是这样“为这类语句性名物化指派了某种可信的语义功能，而不必认可一种可疑的、关于永恒或准永恒 *enuntiabilia* 或 *complexe significabilia* 的本体论——后者区别于寻常实体与偶性”（Klima 2001, 844 n. 28）[^klima-2001]；关于布里丹对确实似持此本体论者的反应，见第 3 节。布里丹对问题之本体论维度的敏感，在他这样说时显露出来：“‘人其为驴’是无，因为人不可能为驴［*hominem esse asinum nihil est, eo quod homo non potest esse asinus*］”——这也足以说明其为假。
+[^note-30]: 布里丹对这一替代方案的呈现因如下教义主张而稍显复杂：“人是驴”所意谓的“无”并非任何种类的命题，而是“人其为驴［*hominem esse asinum*］”，即该命题的 *dictum*（所述）或语句性名物化（在拉丁语中由宾格加不定式结构表达）。在布里丹语义学中，这种结构指代其对应命题的主项与谓项词项所指代的任何东西——只要该命题为真；否则它不指代任何东西。Gyula Klima 评论说，布里丹正是这样“为这类语句性名物化指派了某种可信的语义功能，而不必认可一种可疑的、关于永恒或准永恒 *enuntiabilia* 或 *complexe significabilia* 的本体论——后者区别于寻常实体与偶性”（Klima 2001, 844 n. 28）[^klima-2001][^klima-2001]；关于布里丹对确实似持此本体论者的反应，见第 3 节。布里丹对问题之本体论维度的敏感，在他这样说时显露出来：“‘人其为驴’是无，因为人不可能为驴［*hominem esse asinum nihil est, eo quod homo non potest esse asinus*］”——这也足以说明其为假。
 
 [^note-31]: Paul Spade 在评论本文较早草稿时向我指出了另一个问题：“如果每个命题都意谓 *se esse veram*，而我们把那个不定式表达作人称理解，我们就有麻烦了。因为若该命题为假，那个不定式表达就无所意谓，于是该命题实际上根本没有额外的意谓——这与该理论的全部要点相反”。若布里丹意识到这是第一解答的又一问题，他并未提及。
 
-[^note-32]: 正如 Hughes（1982, 169）所提示，“虚拟地蕴含”中“虚拟地”的力量在于：第二个命题只有在第一个被实际表述时才被第一个所蕴含。这在对该诡辩题的结尾评论中显现：布里丹说，“完善这一解答，我们必须说，每个命题在加上 *其存在* 之后，都蕴含它为真”（S 9.8，第 7 个诡辩题：970）。
+[^note-32]: 正如 Hughes（1982, 169）[^hughes-1982]所提示，“虚拟地蕴含”中“虚拟地”的力量在于：第二个命题只有在第一个被实际表述时才被第一个所蕴含。这在对该诡辩题的结尾评论中显现：布里丹说，“完善这一解答，我们必须说，每个命题在加上 *其存在* 之后，都蕴含它为真”（S 9.8，第 7 个诡辩题：970）。
 
 [^note-33]: 当然，这仅对肯定命题成立。否定命题若其主项与谓项词项 **不** 指代同一物或同样一些物，则为真。
 
-[^note-34]: 在其有用的综述中，Thijssen（1998, 2）写道：“在许多官方文件与其他文本中，哲学家与神学家被劝诫不要越出自己领域的边界——这是对《箴言》22:28 的引用——不要成为神学化的哲学家与哲学化的神学家。”
+[^note-34]: 在其有用的综述中，Thijssen（1998, 2）[^thijssen-1998]写道：“在许多官方文件与其他文本中，哲学家与神学家被劝诫不要越出自己领域的边界——这是对《箴言》22:28 的引用——不要成为神学化的哲学家与哲学化的神学家。”
 
 [^note-35]: 在此语境中把“神学”读作“形而上学”的先例——此事因布里丹《形而上学》注释的摇篮本在第 34ra 页第 23 与 25 行误把“*mathematica totalis*”印作“*metaphysica totalis*”、把“*mathematicus*”印作“*metaphysicus*”而略显晦暗——可见于 Robert Kilwardby, *De Ortu Scientiarum* LXVI.655 与托马斯·阿奎那《论三位一体》V, a. 4，以及大阿尔伯特。
 
@@ -204,11 +204,11 @@
 
 [^note-38]: 见本《百科全书》“共相的中世纪问题”词条，特别是第 8–10 节。
 
-[^note-39]: 布里丹关于共相对柏拉图的提及相当典型：例如见 QM VII.15: 50va-vb 与 de Rijk（1992）。然而在其他主题上，他有时怀疑一个被传为柏拉图所持的立场是否真是柏拉图的。例如，在处置一个“依据柏拉图的权威”提出、用以说明独立实体在生物生成中之作用的论证后，他结论说，“这样，柏拉图的观点就被摧毁了——如果他确实持有我们所归给他的那类观点”（QM VII.9: 47ra）。关于布里丹与柏拉图的讨论，见 Schönberger（1994, 292–95）。
+[^note-39]: 布里丹关于共相对柏拉图的提及相当典型：例如见 QM VII.15: 50va-vb 与 de Rijk（1992）[^rijk-1992]。然而在其他主题上，他有时怀疑一个被传为柏拉图所持的立场是否真是柏拉图的。例如，在处置一个“依据柏拉图的权威”提出、用以说明独立实体在生物生成中之作用的论证后，他结论说，“这样，柏拉图的观点就被摧毁了——如果他确实持有我们所归给他的那类观点”（QM VII.9: 47ra）。关于布里丹与柏拉图的讨论，见 Schönberger（1994, 292–95）[^schönberger-1994]。
 
 [^note-40]: 关于 12 世纪唯名论的含义，见《Vivarium》专号（30.1, May 1992），该期以此为主题。
 
-[^note-41]: 见 King 2001，其中论证布里丹的唯名论有三个相互关联的方面：（1）本体论论题：世界上没有非个体实体；（2）心理学论题：某些概念虽在形而上学上是特殊的，却能代表多于一个个别事物；（3）语义学论题：这类概念在心灵语言中也起共同名称的作用。
+[^note-41]: 见 King 2001[^king-2001]，其中论证布里丹的唯名论有三个相互关联的方面：（1）本体论论题：世界上没有非个体实体；（2）心理学论题：某些概念虽在形而上学上是特殊的，却能代表多于一个个别事物；（3）语义学论题：这类概念在心灵语言中也起共同名称的作用。
 
 [^note-42]: 参 QIP 4: 138, ll. 565–566。布里丹对超越词项的处理类似：“形而上学的主题是存在者，即‘存在者’这个词项”（QIP 3: 135, ll. 449–450）。
 
@@ -218,27 +218,27 @@
 
 [^note-45]: 知识的对象是 *complexum*（命题）而非 *incomplexum*（词项），这从以下事实推出：我们只能相信或知道可为真或为假者，而只有命题可为真或为假。
 
-[^note-46]: 讨论见 Klima 2009（89–103）。
+[^note-46]: 讨论见 Klima 2009[^klima-2009]（89–103）。
 
-[^note-47]: 讨论见 Normore 1985。
+[^note-47]: 讨论见 Normore 1985[^normore-1985]。
 
-[^note-48]: 讨论见 Maier 1955（214–15）、McCord Adams 1987（184–5）与 Sylla 2015（c-cviii）。
+[^note-48]: 讨论见 Maier 1955[^maier-1955]（214–15）、McCord Adams 1987[^adams-1987]（184–5）与 Sylla 2015[^sylla-2015]（c-cviii）。
 
-[^note-49]: 见 Duhem 1906–13 与 Maier 1955。讨论见 Grant 1977。
+[^note-49]: 见 Duhem 1906[^duhem-1906]–13 与 Maier 1955[^maier-1955]。讨论见 Grant 1977[^grant-1977]。
 
 [^note-50]: 于是，对亚里士多德而言，被投出的标枪继续运动，并非由于标枪内部有任何力（它毕竟是无生命物），而是因为它移动所经的空气涌入其身后以防真空形成，从而把标枪推向前。
 
 [^note-51]: 我们不清楚布里丹从何处得到冲力观念，但在阿维森纳的 *mayl*（倾向）学说中可以找到一种较不精细的印入之力概念。在这一点上，他可能受菲洛波努斯影响，后者正在发展斯多葛派的 *hormé*（冲动）概念。讨论见 Zupko 1997。
 
-[^note-52]: 我们也可在他为动力因足以解释自然现象这一主张的辩护中看到这一点；该主张最终导致动力因数个世纪后压倒目的因。讨论见 Des Chene 1996（186–7）。
+[^note-52]: 我们也可在他为动力因足以解释自然现象这一主张的辩护中看到这一点；该主张最终导致动力因数个世纪后压倒目的因。讨论见 Des Chene 1996[^des-1996]（186–7）。
 
 [^note-53]: 完全排除神学考虑并不像布里丹的作风。事实上，他有时以只能称为理智游戏的态度面对神学问题。Edith Sylla 很好地描述了他在这里的方法：“布里丹既不像达西亚的波爱修斯那样把神学排除在物理学之外，也不像今天的创造论者那样以神学压倒物理学。相反，布里丹以温和的方式把神学真理引入亚里士多德物理学的躯体，然后看似合理地表明：要从物理学加神学推出结论，必须再添其他假设［例如为宇宙外运动假定一个参照系，或为衡量创世之前的延续假定一个‘时间’］——这是难为人类理智”（Sylla 2001, 244–5）[^sylla-2001]。
 
-[^note-54]: 进一步讨论见 Krieger 1986 与 Walsh 1986。
+[^note-54]: 进一步讨论见 Krieger 1986[^krieger-1986] 与 Walsh 1986[^walsh-1986]。
 
 [^note-55]: 该页码在 1513 年巴黎版中被误印为“lxiiii”。
 
-[^note-56]: 进一步讨论见 Zupko 1995 与 Pironet 2001。
+[^note-56]: 进一步讨论见 Zupko 1995[^zupko-1995] 与 Pironet 2001[^pironet-2001]。
 
 [^note-57]: 这一例子由斯宾诺莎与布里丹联系起来，见《伦理学》（1676 年完成）第二部分命题 49 附释。但到那时它已是哲学老生常谈。八十年前，在 Johann Vitus Schönlin、Fiacrius Carpentarius、Georg Gutbrott 与 Friedrich Faust 的《逻辑断定》（1597）第 43 节中，已可见对布里丹之驴的类似用法：“出于恐惧而作者，是自由地作；灵魂的任何情感都不取消自由，尽管会削弱它并增强意愿。但凡把自由归给兽类者皆错，无论是在它不被引向此处甚于彼处的情形，还是在饥饿动物被置于两处同样好的食物之间的情形，据说布里丹的驴就是如此”［“*Quae ex metu fiunt, libere fiunt, nec passiones animae ullae libertatem tollunt, licet eam imminuant, et voluntarium augeant. Errat vero quisquis bruto libertatem tribuit, vel eo casu, quando non allicitur ad ambulandum magis hac loci quam alia parte, aut cum famelicum inter duo aeque bona constituitur pabula, cuiusmodi fertur fuisse asinus Buridani*”］。感谢 Miroslav Hanke 向我提示这一出处。
 
@@ -248,15 +248,11 @@
 
 ### 早期印本
 
+[^buridan-1509]: Buridan, John, 1509, *Subtilissimae Quaestiones super octo Physicorum libros Aristotelis*, Paris. Rpr. 1964, as *Kommentar zur Aristotelischen Physik*, Frankfurt a. M.: Minerva.
+[^buridan-1513]: Buridan, John, 1513, *Quaestiones super decem libros Ethicorum Aristotelis ad Nicomachum*, Paris. Rpr. 1968, as *Super decem libros Ethicorum*, Frankfurt a. M.: Minerva. [QNE]
+[^buridan-1518]: Buridan, John, 1588 (actually 1518), *In Metaphysicen Aristotelis Questiones argutissimae*, Paris. Rpr. 1964, as *Kommentar zur Aristotelischen Metaphysik*, Frankfurt a. M.: Minerva. [QM]
 ### 现代校勘本
 
-### 译本
-
-### 二手文献
-
-[^buridan-1964]: Buridan, John, 1509, *Subtilissimae Quaestiones super octo Physicorum libros Aristotelis*, Paris. Rpr. 1964, as *Kommentar zur Aristotelischen Physik*, Frankfurt a. M.: Minerva.
-[^buridan-1968]: Buridan, John, 1513, *Quaestiones super decem libros Ethicorum Aristotelis ad Nicomachum*, Paris. Rpr. 1968, as *Super decem libros Ethicorum*, Frankfurt a. M.: Minerva. [QNE]
-[^buridan-1964-2]: Buridan, John, 1588 (actually 1518), *In Metaphysicen Aristotelis Questiones argutissimae*, Paris. Rpr. 1964, as *Kommentar zur Aristotelischen Metaphysik*, Frankfurt a. M.: Minerva. [QM]
 [^beneduce-2017]: Beneduce, Chiara, 2017, “Natural Philosophy and Medicine in John Buridan, with an Edition of Buridan’s *Questiones de secretis mulierum*,” Ph.D. dissertation, Radboud University, Nijmegen.
 [^bos-1994]: Bos, E. P. (ed.), 1994, *Johannes Buridanus, Summulae: In Praedicamenta*, Artistarium 10–3, Nijmegen: Ingenium.
 [^dekker-2004]: Dekker, Dirk-Jan, 2004, “John Buridan’s Treatise, *De dependentiis, diversitatibus, et convenientiis*,” *Vivarium* 42.1: 109–149.
@@ -276,26 +272,29 @@
 [^rijk-2001]: ––– (ed.), 2001, *Johannes Buridanus, Summulae: De Demonstrationibus*, Artistarium 10–8, Groningen: Haren.
 [^schneider-1983]: Schneider, Johannes (ed.), 1983, *Iohannes Buridanus Quaestiones in Praedicamenta*, München: Beck. [QC]
 [^scott-1967]: Scott, Frederick, and Herman Shapiro (ed.), 1967, “John Buridan’s *De motibus animalium*,” *Isis*, 58: 533–552. [DMA]
-[^streijger-2010]: Streijger, Michiel, Paul J. J. M. Bakker, and Johannes M. M. H. Thijssen (ed.), 2010, *John Buridan, “Quaestiones super libros De generatione et corruptione Aristotelis*,”, critical edition with an introduction, History of Science and Medicine Library 17, Medieval and Early Modern Science 14, Leiden-Boston: Brill.
+[^streijger-2010]: Streijger, Michiel, Paul J. J. M. Bakker, and Johannes M. M. H. Thijssen (ed.), 2010, *John Buridan, “Quaestiones super libros De generatione et corruptione Aristotelis”*, critical edition with an introduction, History of Science and Medicine Library 17, Medieval and Early Modern Science 14, Leiden-Boston: Brill.
 [^streijger-2015]: Streijger, Michiel and Paul J. J. M. Bakker (ed.), 2015, *John Buridan, “Quaestiones super octo libros Physicorum Aristotelis (secundum ultimam lecturam), Libri I-II*,” with an introduction by Johannes M. M. H. Thijssen and a guide to the text by Edith D. Sylla, History of Science and Medicine Library 50, Medieval and Early Modern Science 25, Leiden-Boston: Brill. [QP I-II]
-[^streijger-2016]: –––(ed.), 2016, *John Buridan, “Quaestiones super octo libros Physicorum Aristotelis (secundum ultimam lecturam), Libri III-IV*,” with a guide to the text by Edith D. Sylla, History of Science and Medicine Library 55, Medieval and Early Modern Science 27, Leiden-Boston: Brill. [QP III-IV]
+[^streijger-2016]: ––– (ed.), 2016, *John Buridan, “Quaestiones super octo libros Physicorum Aristotelis (secundum ultimam lecturam), Libri III-IV*,” with a guide to the text by Edith D. Sylla, History of Science and Medicine Library 55, Medieval and Early Modern Science 27, Leiden-Boston: Brill. [QP III-IV]
 [^szyller-1987]: Szyller, Slawomir (ed.), 1987, “Johannis Buridani, Tractatus de differentia universalis ad individuum,” *Przeglad Tomistyczny*, 3: 137–178. [TDUI]
 [^tatarzynski-1986]: Tatarzynski, Ryszard (ed.), 1986, “Jan Buridan, Kommentarz do Isagogi Porfiriusza,” *Przeglad Tomistyczny*, 2: 111–195. [QIP]
 [^thijssen-1991]: Thijssen, J. M. M. H. (ed.), 1991, *John Buridan’s ‘Tractatus de Infinito’*, Artistarium Supplementa 6, Nijmegen: Ingenium.
 [^zoubov-1961]: Zoubov, Vassili (ed.), 1961, “Jean Buridan et les concepts du point au quatorzième siècle,” *Medieval and Renaissance Studies*, 5: 63–95.
+### 译本
+
 [^economos-2009]: Economos, Ariane, 2009, “Intellectus and induction: Three Aristotelian commentators on the cognition of first principles, including an original translation of John Buridan’s *Quaestiones in duos Aristotelis libros posteriorum analyticorum*,” Ph.D. Dissertation, Fordham University. [[Economos 2009 available online](https://research.library.fordham.edu/dissertations/AAI3377044)]
 [^hughes-1982]: Hughes, G. E. (ed. & tr.), 1982, *John Buridan on Self-Reference*: Chapter Eight of Buridan’s ‘Sophismata’, An Edition and Translation with an Introduction and Philosophical Commentary, Cambridge-London-New York: Cambridge University Press. (Cambridge also published a paperbound edition of this book, though without the facing Latin text and hence with different pagination. It also has a slightly different subtitle, “Chapter Eight of Buridan’s ‘Sophismata’, translated with an Introduction and a philosophical Commentary”, which is useful for identifying it in online searches.)
 [^kilcullen-2001]: Kilcullen, John (ed. & tr.), 2001, “Jean Buridan, Questions on Book X of the Ethics,” in *The Cambridge Translations of Medieval Philosophical Texts. Volume II: Ethics and Political Philosophy*, ed. Arthur Stephen McGrade, John Kilcullen, and Matthew Kempshall, Cambridge-New York: Cambridge University Press. Pp. 498–586.
 [^klima-2001]: Klima, Gyula (tr.), 2001, *John Buridan: ‘Summulae de Dialectica’*, Yale Library of Medieval Philosophy, New Haven-London: Yale University Press. [S]
-[^klima-2023-2]: Klima, Gyula, Peter G. Sobol, Peter Hartman, and Jack Zupko (eds.), 2023, *John Buridan’s Questions on Aristotle’s ‘De anima’ – ‘Iohannis Buridani Quaestiones in Aristotelis De anima’* (Historical-Analytical Studies on Nature, Mind, and Action: Volume 9), Cham: Springer Nature. [QDA]
 [^read-2015]: Read, Stephen (tr.), 2015, *John Buridan: Treatise on Consequences*, with an introduction by Stephen Read and an editorial introduction by Hubert Hubien, New York: Fordham University Press.
+### 二手文献
+
 [^adams-1987]: Adams, Marilyn McCord, 1987, *William Ockham*, 2 vols., Notre Dame, IN: University of Notre Dame Press.
 [^ashworth-1999]: Ashworth, E. J., 1999, “Logic, Medieval,” in *The Routledge Encyclopedia of Philosophy* (Volume 5), Edward Craig (ed.), London: Routledge, 1999.
 [^beneduce-2023]: Beneduce, Chiara, 2023, “John Buridan: The Human Body at the Intersection of Natural Philosophy and Medicine,” *American Catholic Philosophical Quarterly* (Special issue on the Philosophy of John Buridan), 97(2): 161–82.
 [^biard-1989]: Biard, Joël, 1989, *Logique et théorie du signe au XIVe siècle*, Paris: Vrin.
 [^biard-2002]: –––, 2002, “L’être et la mesure dans l’intension et la rémission des formes (Jean Buridan, Blaise de Parme),” *Medioevo*, 27: 415–47.
 [^caroti-2004]: Caroti, Stefano, 2004, “Some Remarks on Buridan’s Discussion of Intension and Remission,” *Vivarium*, 42(1): 58–85.
-[^celeyrette-2004]: Celeyrette, Jean, 2004, “La problèmatique du point chez Jean Buridan,” *Vivarium*, 42 (1): 86–108.
+[^celeyrette-2004]: Celeyrette, Jean, 2004, “La problématique du point chez Jean Buridan,” *Vivarium*, 42 (1): 86–108.
 [^celeyrette-2009]: –––, 2009, “An Indivisibilist Argumentation at Paris around 1335: Michel of Montecalerio’s Question on the Point and the Controversy with John Buridan,” in C. Grellard and A. Robert (eds.), *Atomism in Late Medieval Philosophy and Theology*, Medieval and Early Modern Science 9, Leiden-Boston: Brill: 163–182.
 [^courtenay-1999]: Courtenay, William J., 1999, *Parisian Scholars in the Early Fourteenth Century, A social portrait*, Cambridge-New York: Cambridge University Press.
 [^courtenay-2001]: –––, 2001, “Philosophy’s Reward: The Ecclesiastical Income of Jean Buridan,” *Recherches de théologie et philosophie médiévale*, 68: 163–69.
@@ -304,31 +303,31 @@
 [^des-1996]: Des Chene, Dennis, 1996, *Physiologia*: Natural Philosophy in Late Aristotelian and Cartesian Thought, Ithaca-London: Cornell University Press.
 [^dewender-2016]: Dewender, Thomas, 2016, “Responses to Ockham: John Buridan,” in Christian Rode (ed.), *A Companion to Responses to Ockham* (Brill’s Companions to the Christian Tradition: Volume 65), Leiden: Brill, 173–196.
 [^duhem-1906]: Duhem, Pierre, 1906–13, *Études sur Léonard de Vinci*, 3 vols., Paris: Hermann.
-[^dutihl-2005]: Dutihl Novaes, C., 2005, “Buridan’s *Consequentia*: Consequence and Inference within a Token-Based Semantics,” *History and Philosophy of Logic*, 26: 277–97.
+[^dutihl-2005]: Dutilh Novaes, C., 2005, “Buridan’s *Consequentia*: Consequence and Inference within a Token-Based Semantics,” *History and Philosophy of Logic*, 26: 277–97.
 [^dutihl-2007]: –––, 2007, *Formalizing Medieval Logical Theories*: Suppositio, Consequentiae and Obligationes. Logic, Epistemology, and the Unity of Science 7, Dordrecht: Springer.
 [^ebbesen-1991]: Ebbesen, Sten, 1991, “Is Logic Theoretical or Practical Knowledge?,” in Joël Biard (ed.), *Itinéraires d’Albert de Saxe: Paris-Vienne au XIVe siècle*, Paris: Vrin, 267–283.
 [^faral-1950]: Faral, Edmond, 1950, *Jean Buridan: Maître ès Arts de l’Université de Paris*, Extrait de l’Histoire littéraire de la France, Tome 28, 2e partie, Paris: Imprimerie Nationale.
 [^flüeler-1992]: Flüeler, Christoph, 1992, *Rezeption und Interpretation der Aristotelischen “Politica” im späten Mittelalter*, 2 vols., Amsterdam-Philadelphia: B. R. Grüner.
-[^flüeler-1999]: –––, 1999, “From Oral to Written Commentaries: John Buridan’s Commentaries on Aristotle’s *Metaphysics*,” in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*: Acts of the Symposium “The Copenhagen School of Medieval Philosophy,” January 10–13, 1996, Historisk-filosofiske meddelelser 77, Copenhagen: Museum Tusculanum, 497–521
+[^flüeler-1999]: –––, 1999, “From Oral to Written Commentaries: John Buridan’s Commentaries on Aristotle’s *Metaphysics*,” in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*: Acts of the Symposium “The Copenhagen School of Medieval Philosophy,” January 10–13, 1996, Historisk-filosofiske meddelelser 77, Copenhagen: Museum Tusculanum, 497–521.
 [^grant-1977]: Grant, Edward, 1977, *Physical Science in the Middle Ages*, New York: Cambridge University Press.
 [^hughes-1989]: Hughes, G. E., 1989, “The Modal Logic of John Buridan,” in *Atti del Convegno internazionale di storia della logica: la teorie delle modalita*, ed. G. Corsi, C. Mangione, and M. Mugnani, Bologna: CLUEB, 93–111.
 [^huismann-2016]: Huismann, Tyler, 2016, “John Buridan’s Metaphysics of Persistence,” *Journal of the History of Philosophy* 54(3): 373–394.
 [^king-2001]: King, Peter, 2001, “John Buridan’s Solution to the Problem of Universals” in Thijssen and Zupko (eds.) 2001, 1–27.
 [^klima-2005]: Klima, Gyula, 2005, “The Essentialist Nominalism of John Buridan,” *The Review of Metaphysics*, 58: 301–315.
-[^klima-2009]: –––, 2009, *John Buridan*, Great Medieval Thinkers, Oxford-New York: Oxford.
+[^klima-2009]: –––, 2009, *John Buridan*, Great Medieval Thinkers, Oxford-New York: Oxford University Press.
 [^knuuttila-1991]: Knuuttila, Simo, 1991, “Buridan and Aristotle’s Modal Syllogistic,” *Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelalters*, ed. Burkhard Mojsisch and Olaf Pluta, Band 1, Amsterdam-Philadelphia: B. R. Grüner, 477–488.
 [^knuuttila-1982]: –––, 1982, “Modal Logic,” in the *Cambridge History of Later Medieval Philosophy*, Norman Kretzmann, Anthony Kenny, Jan Pinborg, Eleonore Stump (eds.), Cambridge: Cambridge University Press, 342–357.
 [^krieger-1986]: Krieger, Gerhard, 1986, *Der Begriff der praktischen Vernunft nach Johannes Buridanus*, Münster: Aschendorff.
 [^lagerlund-2000]: Lagerlund, Henrik, 2000, *Modal Syllogistics in the Middle Ages*, Leiden-Boston-Köln: Brill.
-[^lines-2005]: Lines, David A., 2005, “Sources and Authorities for Moral Philosophy in the Italian Renaissance: Thomas Aquinas and Jean Buridan on Aristotle’s *Ethics*,”in *Moral Philosophy on the Threshold of Modernity*, ed. Jill Kraye and Risto Saarinen, Dordrecht: Springer, pp. 7–29.
+[^lines-2005]: Lines, David A., 2005, “Sources and Authorities for Moral Philosophy in the Italian Renaissance: Thomas Aquinas and Jean Buridan on Aristotle’s *Ethics*,” in *Moral Philosophy on the Threshold of Modernity*, ed. Jill Kraye and Risto Saarinen, Dordrecht: Springer, pp. 7–29.
 [^michael-1985]: Michael, Bernd, 1985, “Johannes Buridan: Studien zu seinem Leben, seinen Werken und zu Rezeption seiner Theorien im Europa des späten Mittelalters,” 2 Teile, Ph.D. Dissertation, University of Berlin.
 [^maier-1955]: Maier, Anneliese, 1955, *Metaphysische Hintergründe der spätscholastischen Naturphilosophie*, Studien zur Naturphilosophie der Spätscholastik, Bd. IV, Storia e Letteratura, Roma.
-[^normore-1985]: Normore, Calvin, 1985, “Buridan’s Ontology,” ed. James Bogen, and James E. McGuire, *How Things Are: Studies in Predication and the History and Philosophy of Science*, Dordrecht-Boston-Lancaster: Reidel, 189–203.
+[^normore-1985]: Normore, Calvin, 1985, “Buridan’s Ontology,” in *How Things Are: Studies in Predication and the History and Philosophy of Science*, James Bogen and James E. McGuire (eds.), Dordrecht-Boston-Lancaster: Reidel, 189–203.
 [^panaccio-1999]: Panaccio, Claude, 1999, “Semantics and Mental Language,” in Paul Vincent Spade (ed.), *The Cambridge Companion to Ockham*, Cambridge: Cambridge University Press.
 [^pironet-1993]: Pironet, Fabienne, 1993, “John Buridan on the Liar Paradox: Study of an Opinion and Chronology of the Texts,” in *Argumentationstheorie: Scholastische Forschungen zu den logischen und semantischen Regeln korrekten Folgerns*, ed. Klaus Jacobi, Leiden-New York-Köln: Brill, 293–300.
 [^pironet-2001]: –––, 2001, “The Notion of ‘*Non Velle*’ in Buridan’s Ethics,” in J.M.M.H. Thijssen and J. Zupko (eds.) 2001, 199–219.
 [^read-1999]: Read, Stephen L., 1999, “How is Material Supposition Possible?” *Medieval Philosophy and Theology*, 8(1): 1–20.
-[^read-2002]: –––2002, “The Liar Paradox from John Buridan back to Thomas Bradwardine,” *Vivarium*, 40: 189–218.
+[^read-2002]: –––, 2002, “The Liar Paradox from John Buridan back to Thomas Bradwardine,” *Vivarium*, 40: 189–218.
 [^read-2012]: –––, 2012, “John Buridan’s Theory of Consequence and His Octagons of Opposition,” in *Around and Beyond the Square of Opposition*, Jean-Yves Beziau and Dale Jacquette (eds.), Berlin: Birkhäuser-Springer, 93–110.
 [^rijk-1992]: Rijk, L. M. de, 1992, “John Buridan on Universals,” *Revue de Métaphysique et de Morale*, 97: 35–59.
 [^saarinen-1994]: Saarinen, Risto, 1994, *Weakness of the Will in Medieval Thought, From Augustine to Buridan*, Leiden-New York-Köln: E. J. Brill.
@@ -340,7 +339,7 @@
 [^sylla-2015]: –––, 2015, “A Guide to the Text,” in M. Streijger and Paul J. J. M. Bakker (eds.), *John Buridan, “Quaestiones super octo libros Physicorum Aristotelis (secundum ultimam lecturam), Libri I-II*” (History of Science and Medicine Library 50, Medieval and Early Modern Science 25), Leiden-Boston: Brill.
 [^thijssen-1998]: Thijssen, J. M. M. H., 1998, *Censure and Heresy at the University of Paris, 1200–1400*, Philadelphia: University of Pennsylvania Press.
 [^thijssen-2004]: –––, 2004, “The Buridan School Reassessed: John Buridan and Albert of Saxony,” *Vivarium*, 42(1): 18–42.
-[^thijssen-2001]: Thijssen, J. M. M. H., and Jack Zupko (ed.), 2001, *The Metaphysics and Natural Philosophy of John Buridan*, Leiden-Boston-Köln: Brill.
+[^thijssen-2001]: Thijssen, J. M. M. H., and Jack Zupko (eds.), 2001, *The Metaphysics and Natural Philosophy of John Buridan*, Leiden-Boston-Köln: Brill.
 [^trentman-1970]: Trentman, John, 1970, “Ockham on Mental,” *Mind* (N.S.), 79: 586–90.
 [^walsh-1966]: Walsh, James J., 1966, “Buridan and Seneca,” *Journal of the History of Ideas*, 27: 23–40.
 [^walsh-1975]: –––, 1975, “Some Relationships between Gerald Odo’s and John Buridan’s Commentaries on Aristotle’s Ethics,” *Franciscan Studies*, 35: 237–75.
@@ -365,7 +364,7 @@
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buridan)。
 * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/buridan/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=buridan&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/sep/buridan/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
