@@ -327,3 +327,6 @@
 | olympiodorus | opsomer-2010 `“Olymiodorus”` | `“Olympiodorus”` | 拼写（①） |
 | olympiodorus | joosse-2021c `Twi New Translations` | `Two New Translations` | 拼写（①） |
 | peirce-benjamin | 正文 `James Mills (1834–1906)`／`Benjamin Mills (1844–1870)`／`Herbert Henry Davis (1849–1916)` | 各补姓氏 `Peirce` | 三人为皮尔斯之子，脱姓（①②） |
+| scholem | `Wohlfahrt, Irving`（正文与书目，2 处） | `Wohlfarth, Irving` | 学者姓氏拼写，Deutsche Biographie 作 Irving Wohlfarth（①） |
+| scholem | ms 条 `New York: Schocken Books. Page numbers from the 1991 translation.` | 补出版年 `Schocken Books, 1991.` | 英译条缺出版年（①） |
+| scholem | zadoff-2014 书名逗号误入斜体：`Das Leben des Werner Scholem,</em>`；译名条 `(trans.) Philadelphia: … Press 2018.` | 逗号移出斜体、补 `(trans.)` 后逗号与出版年逗号 | 体例（①） |

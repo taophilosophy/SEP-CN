@@ -28,7 +28,7 @@
 
 朔勒姆广泛涉猎当代哲学：弗里茨·毛特纳与戈特洛布·弗雷格的语言怀疑论、赫尔曼·科恩的新康德主义认识论，以及弗里德里希·尼采等人的生命哲学，都对他有所影响。青年时代最重要的对话者是瓦尔特·本雅明——朔勒姆极为钦佩他，两人终其一生保持着个人与哲学上的交流。1940 年本雅明去世后，朔勒姆不仅把扛鼎之作《犹太神秘主义主流》（*Major Trends of Jewish Mysticism*）题献给这位朋友，还不遗余力地整理出版本雅明散佚的著作与书信；又撰文阐释其思想，并写成回忆录《瓦尔特·本雅明——友谊的故事》（*Walter Benjamin—Story of a Friendship*）。本雅明今日名列二十世纪最著名的思想家，很大一部分功劳属于朔勒姆。
 
-青年时代与本雅明的交流，在朔勒姆日记中有翔实记录——那是德国早期浪漫主义者弗里德里希·施莱格尔与诺瓦利斯所构想的那种“共思”（symphilosophy）：在对话中思考。朔勒姆时而把本雅明的直观用于犹太文本，时而又启发了本雅明的想法；两人彼此激发，也彼此应答。他们同在伯尔尼求学，同新康德主义、现象学等当代哲学潮流展开批判性对话，并在其中发展自己的语言观与历史观；最关键的一役是共同研读赫尔曼·科恩的经验理论——两位朋友认为，科恩把经验囿于科学经验，窄得令人失望。由此，本雅明起草了“未来哲学纲要”（Program of the coming philosophy），主张把历史、宗教、艺术乃至语言这些远为广泛的经验领域纳入哲学（见下文第 4 节）。朔勒姆这一方，则从犹太传统供给观念与文本：塔木德释经、语言的本性，还有（“Lehre”）“教导”或“学说”这一范畴——两人都用它指称一个后批判的真理概念。正如作三大批判的康德示意一种新的先验哲学之可能，“教导”这个观念要表达的，正是经验在语言与历史两方面的困境。朔勒姆通常把这种“教导”等同于“托拉”；托拉又被他称作“事物秩序赖以造就的原则”、“上帝的语言”，以及“犹太传统之网或化身”（LL 54），或者：
+青年时代与本雅明的交流，在朔勒姆日记中有翔实记录——那是德国早期浪漫主义者弗里德里希·施莱格尔与诺瓦利斯所构想的那种“共思”（symphilosophy）：在对话中思考。朔勒姆时而把本雅明的直观用于犹太文本，时而又启发了本雅明的想法；两人彼此激发，也彼此应答。他们同在伯尔尼求学，同新康德主义、现象学等当代哲学潮流展开批判性对话，并在其中发展自己的语言观与历史观；最关键的一役是共同研读赫尔曼·科恩的经验理论——两位朋友认为，科恩把经验囿于科学经验，窄得令人失望。由此，本雅明起草了“未来哲学纲要”（Program of the coming philosophy），主张把历史、宗教、艺术乃至语言这些远为广泛的经验领域纳入哲学（见下文第 4 节）。朔勒姆这一方，则从犹太传统供给观念与文本：塔木德释经、语言的本性，还有“教导”或“学说”（“Lehre”）这一范畴——两人都用它指称一个后批判的真理概念。正如作三大批判的康德示意一种新的先验哲学之可能，“教导”这个观念要表达的，正是经验在语言与历史两方面的困境。朔勒姆通常把这种“教导”等同于“托拉”；托拉又被他称作“事物秩序赖以造就的原则”、“上帝的语言”，以及“犹太传统之网或化身”（LL 54），或者：
 
 > 托拉是上帝与神圣之物的传递；它是逐步发现真理的原则——真理在文字中被暗示，其理解却已失落。（LY 153）
 
@@ -54,7 +54,7 @@
 
 ## 3 卡巴拉
 
-卡巴拉研究成为朔勒姆毕生的主要志业，也是他影响最深的领域——以至于人们常说，卡巴拉研究这门学问是他一人手创的。十九世纪无人问津的卡巴拉，在二十世纪初重获注意：一半缘于人们对神秘主义的普遍兴趣，一半缘于锡安主义对犹太遗产的热衷。由此出现一批选集计划，汇辑犹太“民族”文学的各个层面，卡巴拉文本亦在其列，如哈伊姆·纳赫曼·比亚利克的“文集”（kinus）计划。朔勒姆也一样，对神秘元素本身兴趣有限，总把它接到犹太历史上去：“没有一般的神秘主义，只有特定宗教体系的神秘主义”（MT 6）。他常强调 Kabbalah 的字面义是“传统”或“接受”，言下之意：卡巴拉学者并不自命革命者，也不以主观体验立身，而自视为犹太传统的正统部分；这一传统正是其神秘解释赖以立足的根基。这一假定与他的语文学进路也相契合：朔勒姆受东方语文学训练，大体把卡巴拉当作一个文本传统来处理，视之为圣经与拉比等更规范传统的延续；至于卡巴拉的其他元素——魔法实践、主观的神秘神话体验——则大都被他按下不表。
+卡巴拉研究成为朔勒姆毕生的主要志业，也是他影响最深的领域——以至于人们常说，卡巴拉研究这门学问是他一人手创的。十九世纪无人问津的卡巴拉，在二十世纪初重获注意：一半缘于人们对神秘主义的普遍兴趣，一半缘于锡安主义对犹太遗产的热衷。由此出现一批选集计划，汇辑犹太“民族”文学的各个层面，卡巴拉文本亦在其列，如哈伊姆·纳赫曼·比亚利克的“文集”（kinus）计划。朔勒姆也一样，对神秘元素本身兴趣有限，总把它接到犹太历史上去：“没有一般的神秘主义，只有特定宗教体系的神秘主义”（MT 6）。他常强调卡巴拉（Kabbalah）的字面义是“传统”或“接受”，言下之意：卡巴拉学者并不自命革命者，也不以主观体验立身，而自视为犹太传统的正统部分；这一传统正是其神秘解释赖以立足的根基。这一假定与他的语文学进路也相契合：朔勒姆受东方语文学训练，大体把卡巴拉当作一个文本传统来处理，视之为圣经与拉比等更规范传统的延续；至于卡巴拉的其他元素——魔法实践、主观的神秘神话体验——则大都被他按下不表。
 
 朔勒姆的卡巴拉研究始于语文学：其博士论文即含《巴希尔之书》（Bahir）的校勘本与注疏；终其一生，他在搜罗校勘抄本、编订卡巴拉要籍的校勘本上用力极多。作者、年代与归属等文献学难题的讨论也在此列。例如中世纪卡巴拉的核心文献《光辉之书》（*Zohar*）：年轻的朔勒姆一度视之为可信的古代传统之汇集。后来他不得不承认：它实为摩西·德·莱昂的伪托之作，写于十二世纪（译注：原文如此；学界通说《光辉之书》成书于十三世纪的西班牙。）（见 Dan 1987）[^dan-1987]。朔勒姆很早便断定：卡巴拉不该像阿道夫·弗兰克等十九世纪研究者那样归入哲学史，而应归入“宗教史”——即德国圣经研究的一个学术范式“宗教史学派”。该派代表学者有赫尔曼·贡克尔与威廉·布塞（见 E. Hamacher 1999；Weidner 2003 [2022: ch. 14]）[^hamacher-1999][^weidner-2003]；朔勒姆从他们那里采纳了若干重要概念。
 
@@ -136,13 +136,11 @@
 
 ## 6 朔勒姆研究
 
-朔勒姆的名声，也体现在其著作所催生的可观研究上，其中包括多部专著。1979 年，戴维·比亚莱以《格肖姆·朔勒姆：卡巴拉与反历史》（*Gershom Scholem: Kabbalah and Counter-History*）写出第一部朔勒姆导论：它聚焦那种对抗性与无政府主义的冲动——既塑造了朔勒姆青年时代的锡安主义反叛，也塑造了他后来以神秘主义史对抗自由派犹太教之资产阶级史学的尝试。丹尼尔·魏德纳的《格肖姆·朔勒姆：政治的、秘传的与史学的书写》（*Gershom Scholem. Politisches, esoterisches und historiographisches Schreiben*，2003；英译 *The father of Jewish Mysticism. The writing of Gershom Scholem*，2022）聚焦朔勒姆的早年岁月：早期日记这座观念实验室，以及他宗教史学进路的形成。阿米尔·恩格尔的《格肖姆·朔勒姆：一部思想传记》（*Gershom Scholem: An Intellectual Biography*，2017）论证：移民巴勒斯坦在朔勒姆的自我理解中引发深刻危机，危机表达为他与沙巴泰主义的纠缠；直到纳粹大屠杀之后，朔勒姆才越来越强烈地认同以色列。诺姆·扎多夫的《格肖姆·朔勒姆：从柏林到耶路撒冷再回来》（*Gershom Scholem: From Berlin to Jerusalem and Back*，2015 [2018]）聚焦战后岁月——此后他的取向日益转向欧洲与德国。比亚莱后来又出一部研究，《格肖姆·朔勒姆：卡巴拉大师》（*Gershom Scholem: Master of the Kabbalah*，2018），强调恰恰是朔勒姆的矛盾性，使他今天仍如此引人入胜。
+朔勒姆的名声，也体现在其著作所催生的可观研究上，其中包括多部专著。1979 年，戴维·比亚莱以《格肖姆·朔勒姆：卡巴拉与反历史》（*Gershom Scholem: Kabbalah and Counter-History*）[^biale-1979] 写出第一部朔勒姆导论：它聚焦那种对抗性与无政府主义的冲动——既塑造了朔勒姆青年时代的锡安主义反叛，也塑造了他后来以神秘主义史对抗自由派犹太教之资产阶级史学的尝试。丹尼尔·魏德纳的《格肖姆·朔勒姆：政治的、秘传的与史学的书写》（*Gershom Scholem. Politisches, esoterisches und historiographisches Schreiben*，2003；英译 *The father of Jewish Mysticism. The writing of Gershom Scholem*，2022）[^weidner-2003] 聚焦朔勒姆的早年岁月：早期日记这座观念实验室，以及他宗教史学进路的形成。阿米尔·恩格尔的《格肖姆·朔勒姆：一部思想传记》（*Gershom Scholem: An Intellectual Biography*，2017）[^engel-2017] 论证：移民巴勒斯坦在朔勒姆的自我理解中引发深刻危机，危机表达为他与沙巴泰主义的纠缠；直到纳粹大屠杀之后，朔勒姆才越来越强烈地认同以色列。诺姆·扎多夫的《格肖姆·朔勒姆：从柏林到耶路撒冷再回来》（*Gershom Scholem: From Berlin to Jerusalem and Back*，2015 [2018]）[^zadoff-2015] 聚焦战后岁月——此后他的取向日益转向欧洲与德国。比亚莱后来又出一部研究，《格肖姆·朔勒姆：卡巴拉大师》（*Gershom Scholem: Master of the Kabbalah*，2018）[^biale-2018]，强调恰恰是朔勒姆的矛盾性，使他今天仍如此引人入胜。
 
-专著之外，还有一批有用的资源。杰伊·霍华德·盖勒（2019）重构了朔勒姆家族的故事；米里亚姆·扎多夫（2014）为他的共产主义兄弟维尔纳立传。埃里克·雅各布森（2003）强调无政府主义的重要性；克里斯托夫·施密特（1998）分析朔勒姆与政治神学的关系；伊莉特·费伯（2013）与维尔纳·哈马赫（2014）处理他的早期语言理论。他与马丁·布伯的关系，经克劳斯·达维多维奇（1995）与肖尔·马吉德（2018）探讨；他与本雅明的对话，则是欧文·沃尔法特（1995）一篇重要文章的主题。罗伯特·阿尔特（1991）把朔勒姆放进犹太现代主义的语境中解读；斯特凡·莫塞斯（1992 [2009]）把他与犹太神学传统相勾连；安德烈亚斯·基尔歇（1998）则把他与德国浪漫主义相勾连。至于朔勒姆的历史研究，有价值的资源与讨论之多，几乎无从列举。其中最重要的有：约瑟夫·丹（1987）总述朔勒姆的发现；埃利泽·施魏德（1983 [1985]）批判朔勒姆的圣经与拉比犹太教形象；伊丽莎白·哈马赫（1999）分析他与宗教现象学的关系；戴维·迈尔斯（1995）研究二十世纪犹太史学的语境；博阿兹·胡斯（2005）强调朔勒姆不愿与伊舒夫的在世卡巴拉学者交往；摩西·伊德尔（1988）则对朔勒姆的卡巴拉叙述发起一般而激进的批判——在伊德尔看来，这一叙述的局限在于：它大体忽略了神秘传统中更重实践与魔法的流派。
+专著之外，还有一批有用的资源。杰伊·霍华德·盖勒（2019）[^geller-2019]重构了朔勒姆家族的故事；米里亚姆·扎多夫（2014）[^zadoff-2014]为他的共产主义兄弟维尔纳立传。埃里克·雅各布森（2003）[^jacobson-2003]强调无政府主义的重要性；克里斯托夫·施密特（1998）[^schmidt-1998]分析朔勒姆与政治神学的关系；伊莉特·费伯（2013）[^ferber-2013]与维尔纳·哈马赫（2014）[^hamacher-2014]处理他的早期语言理论。他与马丁·布伯的关系，经克劳斯·达维多维奇（1995）[^davidowicz-1995]与肖尔·马吉德（2018）[^magid-2018]探讨；他与本雅明的对话，则是欧文·沃尔法特（1995）[^wohlfahrt-1995]一篇重要文章的主题。罗伯特·阿尔特（1991）[^alter-1991]把朔勒姆放进犹太现代主义的语境中解读；斯特凡·莫塞斯（1992 [2009]）[^mosès-1992]把他与犹太神学传统相勾连；安德烈亚斯·基尔歇（1998）[^kilcher-1998]则把他与德国浪漫主义相勾连。至于朔勒姆的历史研究，有价值的资源与讨论之多，几乎无从列举。其中最重要的有：约瑟夫·丹（1987）[^dan-1987]总述朔勒姆的发现；埃利泽·施魏德（1983 [1985]）[^schweid-1983]批判朔勒姆的圣经与拉比犹太教形象；伊丽莎白·哈马赫（1999）[^hamacher-1999]分析他与宗教现象学的关系；戴维·迈尔斯（1995）[^myers-1995]研究二十世纪犹太史学的语境；博阿兹·胡斯（2005）[^huss-2005]强调朔勒姆不愿与伊舒夫的在世卡巴拉学者交往；摩西·伊德尔（1988）[^idel-1988]则对朔勒姆的卡巴拉叙述发起一般而激进的批判——在伊德尔看来，这一叙述的局限在于：它大体忽略了神秘传统中更重实践与魔法的流派。
 
 ## 参考文献
-
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -198,7 +196,7 @@
 
 **[MS]**
 
-*Von der mystischen Gestalt der Gottheit: Studien zu Grundbegriffen der Kabbala*, Zürich: Rhein-Verlag, 1962; translated as *On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah*, Jonathan Chipman (ed.); Joachim Neugroschel (trans.), New York: Schocken Books. Page numbers from the 1991 translation.
+*Von der mystischen Gestalt der Gottheit: Studien zu Grundbegriffen der Kabbala*, Zürich: Rhein-Verlag, 1962; translated as *On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah*, Jonathan Chipman (ed.); Joachim Neugroschel (trans.), New York: Schocken Books, 1991. Page numbers from the 1991 translation.
 
 **[PM]**
 
@@ -244,8 +242,8 @@
 [^schweid-1983]: Schweid, Eliezer, 1983 [1985], *Misṭiḳah ṿe-Yahadut le-fi Gershom Shalom: nituaḥ bikarti* (Meḥkere Yerushalayim be-Maḥashevet Yiśraʼel, mossaf 2), Yerushalayim: Y. Magnes, ha-Universiṭah ha-ʻivrit; translated as *Judaism and Mysticism According to Gershom Scholem: A Critical Analysis and Programmatic Discussion* (Scholars Press Reprints and Translations Series), Caroline McCracken-Flesher (ed.), David Avraham Weiner (trans.), Atlanta, GA: Scholars Press, 1985.
 [^wasserstrom-1999]: Wasserstrom, Steven M., 1999, *Religion after Religion: Gershom Scholem, Mircea Eliade, and Henry Corbin at Eranos*, Princeton, NJ: Princeton University Press.
 [^weidner-2003]: Weidner, Daniel, 2003 [2022], *Gershom Scholem: politisches, esoterisches und historiographisches Schreiben*, München: W. Fink; translated as *The Father of Jewish Mysticism: The Writing of Gershom Scholem* (New Jewish Philosophy and Thought), Sage Anderson (trans.), Bloomington, IN: Indiana University Press, 2022.
-[^wohlfahrt-1995]: Wohlfahrt, Irving, 1995, “‘Haarscharf an der Grenze zwischen Religion und Nihilismus’: Zum Motiv des Zimzum bei Gershom Scholem”, in *Gershom Scholem : Zwischen den Disziplinen*, Peter Schäfer and Gary Smith (eds), Frankfurt am Main: Suhrkamp, 176–256.
-[^zadoff-2014]: Zadoff, Mirjam, 2014 [2018], *Der rote Hiob. Das Leben des Werner Scholem,* München: Hanser Verlag; translated as *Werner Scholem. A German Life,* Dona Geyer (trans.) Philadelphia: University of Pennsylvania Press 2018.
+[^wohlfahrt-1995]: Wohlfarth, Irving, 1995, “‘Haarscharf an der Grenze zwischen Religion und Nihilismus’: Zum Motiv des Zimzum bei Gershom Scholem”, in *Gershom Scholem : Zwischen den Disziplinen*, Peter Schäfer and Gary Smith (eds), Frankfurt am Main: Suhrkamp, 176–256.
+[^zadoff-2014]: Zadoff, Mirjam, 2014 [2018], *Der rote Hiob. Das Leben des Werner Scholem*, München: Hanser Verlag; translated as *Werner Scholem. A German Life*, Dona Geyer (trans.), Philadelphia: University of Pennsylvania Press, 2018.
 [^zadoff-2015]: Zadoff, Noam, 2015 [2018], *Mi-Berlin li-Yerushalayim uva-ḥazarah: Gershom Shalom ben Yiśraʼel ṿe-Germanyah*, Yerushalayim: Merkaz Kovner; translated as *Gershom Scholem: From Berlin to Jerusalem and Back: An Intellectual Biography* (The Tauber Institute Series for the Study of European Jewry), Jeffrey Green (trans.), Waltham, MA: Brandeis University Press.
 
 ## 学术工具
@@ -257,11 +255,11 @@
 
 ## 其他网络资源
 
-* Magid, Shaul，“Gershom Scholem”（格肖姆·朔勒姆），*Stanford Encyclopedia of Philosophy*（2026 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2026/entries/scholem/](https://plato.stanford.edu/archives/spr2026/entries/scholem/)>。[这是《斯坦福哲学百科全书》此前关于该主题的词条——参见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=scholem)。]
+* Magid, Shaul，“Gershom Scholem”（格肖姆·朔勒姆），《斯坦福哲学百科全书》（2026 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2026/entries/scholem/](https://plato.stanford.edu/archives/spr2026/entries/scholem/)>。[这是《斯坦福哲学百科全书》此前关于该主题的词条——参见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=scholem)。]
 * [朔勒姆小传（Biography of Scholem）](https://www.deutsche-biographie.de/gnd118610295.html#ndbcontent)，德文，载 Deutsche Biographie（德国人物志）。
-* 以色列国家图书馆（National Library of Israel）
-* [格肖姆·朔勒姆](https://www.nli.org.il/en/discover/judaism/figures/gershom-scholem)
-* [格肖姆·朔勒姆文库（The Gershom Scholem Collection）](https://www.nli.org.il/en/at-your-service/who-we-are/collections/scholem-collection)
+* 以色列国家图书馆（National Library of Israel）：
+  * [格肖姆·朔勒姆](https://www.nli.org.il/en/discover/judaism/figures/gershom-scholem)
+  * [格肖姆·朔勒姆文库（The Gershom Scholem Collection）](https://www.nli.org.il/en/at-your-service/who-we-are/collections/scholem-collection)
 * [诗学与犹太哲学：格肖姆·朔勒姆文集（Poetics and Jewish Philosophy. Gershom Scholem Edition）](https://www.zfl-berlin.org/project/poetics-and-jewish-philosophy.html)，莱布尼茨文学与文化研究中心（ZfL）。
 
 ## 相关词条
