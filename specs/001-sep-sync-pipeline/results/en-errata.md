@@ -469,3 +469,9 @@
 | xenocrates | 正文 `see Aronadio-Tulli-Petrucci 2018 and Calchi 2020` | `…Calchi 2023` | 同页自相矛盾（②）：正文 2020 与书目唯一条目 Calchi, V., 2023（*The Theology of the Epinomis*, Routledge）冲突，引称无歧义指该书；015 轮已修书目行 punct/斜体，本轮补正文侧 |
 | xenocrates | 正文 `Fleisher 2018, 175–176 = T 1 IP` | `Fleischer 2018` | 同页自相矛盾（②）：正文引称与书目唯一 2018 条目作者 Fleischer, K. J.（Philodem, Geschichte der Akademie, Brill 2018）拼写冲突；zh 照录侧同步改 |
 | yorck | 书目 `Press, pp.23–69.` | `Press, pp. 23–69.` | 缺空格（①）：pp. 后缺半角空格，同页 15 处 pp. N 惯例形对照可核；drift_scan unchanged 证明上游原文如此 |
+
+## 七、2026-11-16 续批三（zhu-xi r1 数字对账发现）
+
+| slug | 原串 | 改正 | 依据 |
+| ---- | ---- | ---- | ---- |
+| zhu-xi | 正文 `Lü Zuqian (1134–1181)`（两处） | `Lü Zuqian (1137–1181)` | 生年排印手误（①）；吕祖谦学界通行生卒 1137–1181（钱穆《朱子新学案》、束景南《朱子年谱长编》通行年表），译文已按通行形 |
