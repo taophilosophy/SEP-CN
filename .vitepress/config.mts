@@ -71,9 +71,10 @@ function parseSummary(file: string): Item[] {
       })
       continue
     }
-    // 无链接分组行（`* \*分类名`，集群占位母行，ADR-0057）不指向文件：SUMMARY 保留这层
-    // 层级写法供 GitBook 与结构审计使用，侧栏不渲染分组标签，故此处不产出条目。
-    // 占位行一旦重新指向文件（例如 README.md），GitBook 会因一文件多页拒绝导入。
+    // 无链接行（集群占位母行 `* \*分类名`，ADR-0057；别名词条行 `* \*X——见Y`，ADR-0060）
+    // 不指向文件：SUMMARY 保留这层层级与索引信息供 GitBook 与结构审计使用，侧栏不渲染
+    // 这类行，故此处不产出条目。一旦重新指向文件（README.md 或目标词条），GitBook 会因
+    // 「一文件多页」拒绝导入。
   }
   return out
 }

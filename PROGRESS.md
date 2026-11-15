@@ -2,20 +2,20 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-15 09:07（UTC）
+生成时间：2026-11-15 17:24（UTC）
 
 ## 总览
 
 |指标|数值|
 |---|---|
 |SUMMARY 正式词条（重译对象）|1872|
-|别名词条（— see，不建任务）|638|
-|占位母词条（* 前缀，不建任务）|3|
+|别名词条（— see，不建任务）|641|
+|占位母词条（* 前缀，不建任务）|180|
 |已建英文基线|1872|
 |已建任务|1196|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|0|
-|在途（drafted 起、done 前）|575|
+|已完成（done）|2|
+|在途（drafted 起、done 前）|573|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,14 +23,18 @@
 |状态|数量|
 |---|---|
 |pending|621|
-|cleared|162|
-|s2.5_checked|413|
+|cleared|161|
+|s2.5_checked|395|
+|r1_reviewed|1|
+|r2_reviewed|15|
+|r3_reviewed|1|
+|done|2|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|0|
+|A|160|160|160|2|
 |B|63|63|62|0|
 |C|171|171|171|0|
 |D|92|92|92|0|
@@ -61,17 +65,17 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|18thGerman-preKant|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|18thGerman-preKant|retranslate|r3_reviewed|pc6-m1-rework-20261115 2026-11-15|
 |abduction|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |abelard|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abhidharma|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abilities|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|abner-burgos|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abner-burgos|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |abortion|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |abrabanel|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abraham-daud|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |abstract-objects|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|abu-bakr-al-razi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|abu-bakr-al-razi|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |academic-freedom|retranslate|cleared|task_ops 2026-11-14|
 |action|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |action-perception|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -79,7 +83,7 @@
 |adaptationism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |addams-jane|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |adorno|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|advance-directives|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|advance-directives|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |aesthetic-concept|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aesthetic-experience|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |aesthetic-judgment|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
@@ -95,17 +99,17 @@
 |aesthetics-race|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
 |african-ethics|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|african-sage|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|african-sage|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |africana|retranslate|cleared|task_ops 2026-11-10|
 |africana-contemporary|retranslate|cleared|task_ops 2026-10-31|
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
 |agent-modeling-philscience|retranslate|cleared|task_ops 2026-10-31|
 |agrippa-nettesheim|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|akan-person|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|akan-person|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |al-baghdadi|retranslate|cleared|task_ops 2026-10-31|
 |al-din-al-razi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|al-farabi|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|al-farabi|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |al-farabi-logic|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-psych|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
@@ -118,8 +122,8 @@
 |albalag|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |alberic-paris|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |albert-great|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|albert-saxony|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|albo-joseph|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|albert-saxony|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
+|albo-joseph|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |alcmaeon|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |alexander|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |alexander-crummell|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
@@ -130,16 +134,14 @@
 |ancient-soul|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |anscombe|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |anselm|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|antiochus-ascalon|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |antonio-rosmini|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|arabic-islamic-mysticism|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|arabic-islamic-mysticism|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |arabic-islamic-phil-math|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aristotle-causality|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |aristotle-noncontradiction|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |august-rehberg|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
 |auriol|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|austin-john|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|autrecourt|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|austin-john|retranslate|r2_reviewed|A-rework-20261115 2026-11-15|
 |axiom-choice|retranslate|cleared|task_ops 2026-11-12|
 |basing-epistemic|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
@@ -625,14 +627,14 @@
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |william-jevons|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
 |william-sherwood|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|xenocrates|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
-|xenophanes|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|xenocrates|retranslate|r2_reviewed|XY-rework-20261115 2026-11-15|
+|xenophanes|retranslate|r2_reviewed|XY-rework-20261115 2026-11-15|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |yogacara|retranslate|cleared|task_ops 2026-11-10|
-|yorck|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|zabarella|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
-|zeno-elea|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-15|
+|yorck|retranslate|s2.5_checked|XY-rework-20261115 2026-11-15|
+|zabarella|retranslate|r2_reviewed|Z-rework-20261115 2026-11-15|
+|zeno-elea|retranslate|r2_reviewed|Z-rework-20261115 2026-11-15|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
-|zhu-xi|retranslate|cleared|task_ops 2026-11-08|
+|zhu-xi|retranslate|r1_reviewed|Z-rework-20261115 2026-11-15|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
-|zombies|retranslate|s2.5_checked|pc6-m2.5-revert 2026-11-14|
+|zombies|retranslate|r2_reviewed|Z-rework-20261115 2026-11-15|

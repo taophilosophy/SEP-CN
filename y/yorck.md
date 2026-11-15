@@ -273,7 +273,7 @@
 [^dastur-2011]: Dastur, Françoise, 2011, "Paul Yorck von Wartenburg, penser de l’historicité," in C. Bouton and B. Bégout (eds.), *Penser l’histoire. De Karl Marx au sciècles catastrophes*, Paris: Editions de l’éclat, pp. 11-32.
 [^donadio-2008]: Donadio, Francesco, 2008, *L’onda Lunga Della Storicità: Studi sulla religione in Paul Yorck von Wartenburg*, Napoli: Bibliopolis.
 [^fagniez-2013]: Fagniez, Guillaume, 2013, "Comprendre l’historicité: Heidegger et la correspondance de Dilthey et Yorck," in T. Keiling (ed.), *Heideggers Marburger Zeit: Themen, Argumente, Konstellationen*, Frankfurt: Vittorio Klostermann, pp. 269-288.
-[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp.23–69.
+[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp. 23–69.
 [^fetscher-1991]: Fetscher, Iring, 1991 (2nd edition), 1956 (1st edition), “Einleitung” in Graf Paul Yorck von Wartenburg, *Bewusstseinsstellung und Geschichte*, Iring Fetscher (ed.), Hamburg: Felix Meiner Verlag, pp. xix–xlvii.
 [^gadamer-1958]: Gadamer, Hans-Georg, 1958, “*Geschichtlichkeit*” in *Die Religion in Geschichte und Gegenwart.* Handwörterbuch für Theologie und Religionswissenschaft. Vol. II, Kurt Galling (ed.), Tübingen: J.C. Mohr (Paul Siebeck), pp. 1496–1498.
 [^gadamer-1990]: –––, “Der Begriff des Lebens bei Husserl und Graf Yorck,” 1990 in *Wahrheit und Methode: Grundzüge einer philosophischen Hermeneutik*, Tübingen: J.C.B.Mohr (Paul Siebeck), pp. 246–258.

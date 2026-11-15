@@ -40,10 +40,13 @@ with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
 
 # 无链接分组行必须带子行（ADR-0057）：空标签在 GitBook 与站点侧栏都只会留一个
 # 空组，属结构缺陷。子行判定按缩进：其后紧邻的列表行缩进更大即为有子行。
+# 别名词条行（含「— see」/「——见」，ADR-0060 起同样无链接）天然可以没有子行，豁免。
 nav_empty = []
 _meta = dict(rows_meta)
 _marks = sorted(_meta)
 for _line_no, _indent, _title in navs:
+    if '— see' in _title or '——见' in _title:
+        continue
     _pos = _marks.index(_line_no)
     _next = _marks[_pos + 1] if _pos + 1 < len(_marks) else None
     if _next is None or _meta[_next] <= _indent:
@@ -101,30 +104,27 @@ def norm_title(s):
 def alias_fragments():
     """别名行左侧英文片段为半截/悬空的清单（2026-11-07 裁定：必须是完整标题）。
 
-    口径：取最后一个汉字之后的英文片段；与目标 baseline 完整标题或右侧索引名等价即放行，
-    否则以功能词开头/结尾（and/of/in/on/to/for/with/is/are）即判残缺。
+    2026-11-16（ADR-0060）：别名行改为无链接标签行，不再带目标路径，故「与目标条目
+    baseline 完整标题等价」放宽为「与 baseline 任一完整标题等价」；右侧 SEP 索引名比对
+    照旧。口径：取最后一个汉字之后的英文片段；与全文任一 baseline 标题或右侧索引名等价
+    即放行，否则以功能词开头/结尾（and/of/in/on/to/for/with/is/are）即判残缺。
     """
     titles = load_baseline_titles()
     if not titles:
         return []
+    full_set = {norm_title(v) for v in titles.values() if v}
     rows = []
-    for t, p in header_lines():
-        if ' — see' not in t or not SLUGPATH.fullmatch(p):
+    for line_no, _indent, t in navs:
+        if ' — see' not in t:
             continue
         left, right = t.split(' — see', 1)
         idx = max((k for k, ch in enumerate(left) if CJK.match(ch)), default=-1)
         frag = left[idx + 1:].strip().replace('\\*', '').strip()
-        slug = os.path.basename(p)[:-3]
-        full = titles.get(slug) or ''
-        if not full:
+        nf, nr = norm_title(frag), norm_title(right)
+        if not frag or nf == nr or nf in full_set:
             continue
-        nf, nt, nr = norm_title(frag), norm_title(full), norm_title(right)
-        if not frag:
-            rows.append((p, frag, full))
-        elif nf == nt or nf == nr:
-            continue
-        elif FUNC_START.match(frag) or FUNC_END.search(frag):
-            rows.append((p, frag, full))
+        if FUNC_START.match(frag) or FUNC_END.search(frag):
+            rows.append((line_no, frag))
     return rows
 
 
@@ -267,8 +267,8 @@ for p, want, have in mismatch:
     print('  MISMATCH %s\n    SUMMARY: %s\n    H1     : %s' % (p, want, have))
 
 print('alias fragment (需完整标题): %d' % len(alias_bad))
-for p, frag, full in alias_bad[:30]:
-    print('  ALIAS %s: %r，应为 %r' % (p, frag, full))
+for line_no, frag in alias_bad[:30]:
+    print('  ALIAS L%d: %r' % (line_no, frag))
 
 print('empty nav groups (无子条目的分组行): %d' % len(nav_empty))
 for line_no, title in nav_empty[:30]:

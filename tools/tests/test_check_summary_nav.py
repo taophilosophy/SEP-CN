@@ -7,6 +7,7 @@ GitBook 要求一文件一页，182 行同指 README.md 会直接拒绝导入。
   2. 无子条目的空分组行是硬错误（GitBook/侧栏会留空组）；
   3. 残留链接语法碎片仍按 UNPARSED 硬错误抓出，不得被静默降级成分组行。
 """
+import json
 import os
 import shutil
 import subprocess
@@ -98,6 +99,52 @@ class NavRowTest(unittest.TestCase):
         r = run(self.root, "--headers")
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn("H1 mismatch: 0", r.stdout)
+
+    def test_childless_alias_row_passes(self):
+        """别名词条行（ADR-0060）没有子条目是常态，不得计入空分组硬错误。"""
+        self.summary(
+            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "",
+            "## A",
+            "",
+            "* \\*某某——见词条 A some thing — see A",
+            "* [词条 A](a/a.md)",
+        )
+        r = run(self.root)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertIn("empty nav groups (无子条目的分组行): 0", r.stdout)
+        self.assertIn("HARD ERRORS: 0", r.stdout)
+
+    def test_alias_fragment_gate_still_catches_truncation(self):
+        """别名行去链接后，英文片段残缺门禁仍实拦（放宽为「任一 baseline 标题等价」）。"""
+        self.write("baseline/entries.json", json.dumps(
+            {"entries": [{"slug": "a", "title": "A Thing"}]}, ensure_ascii=False))
+        self.summary(
+            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "",
+            "## A",
+            "",
+            "* \\*某某 thing of — see A",
+            "* [词条 A](a/a.md)",
+        )
+        r = run(self.root)
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertIn("alias fragment (需完整标题): 1", r.stdout)
+
+    def test_alias_fragment_gate_passes_complete_title(self):
+        self.write("baseline/entries.json", json.dumps(
+            {"entries": [{"slug": "a", "title": "A Thing"}]}, ensure_ascii=False))
+        self.summary(
+            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "",
+            "## A",
+            "",
+            "* \\*某某 A Thing — see A",
+            "* [词条 A](a/a.md)",
+        )
+        r = run(self.root)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertIn("alias fragment (需完整标题): 0", r.stdout)
 
 
 if __name__ == "__main__":

@@ -34,25 +34,44 @@ def unescape(t):
 
 
 def load_summary():
-    formal, alias, placeholder = defaultdict(int), 0, defaultdict(int)
+    """解析 SUMMARY.md 分类统计。
+
+    ADR-0057/0060（2026-11-16）：集群占位母行与别名词条行都改为**无链接行**
+    （GitBook 一文件一页），故它们不再有路径：按所在 `## X` 字母分节归位，
+    别名按「— see / ——见」判定，其余无链接行计为占位母行。
+    """
     total_alias = 0
-    per_letter = defaultdict(lambda: [0, 0, 0])  # formal, alias, placeholder（按字母目录，ADR-0009）
+    per_letter = defaultdict(lambda: [0, 0, 0])  # formal, alias, placeholder（按字母分节，ADR-0009）
+    section = None
     with open(os.path.join(ROOT, 'SUMMARY.md'), encoding='utf-8') as f:
         for line in f:
-            m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
-            if not m:
+            s = line.rstrip('\n')
+            h = re.match(r'^##\s+([A-Za-z0-9])\s*$', s)
+            if h:
+                section = h.group(1).lower()
                 continue
-            title, path = unescape(m.group(1)), m.group(2)
-            top = path.split('/')[0]
-            if top not in 'abcdefghijklmnopqrstuvwxyz0123456789':
+            m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', s)
+            if m:
+                title, path = unescape(m.group(1)), m.group(2)
+                top = path.split('/')[0]
+                if top not in 'abcdefghijklmnopqrstuvwxyz0123456789':
+                    continue
+                if '— see' in title or '——见' in title:
+                    total_alias += 1
+                    per_letter[top][1] += 1
+                elif title.lstrip().startswith('*'):
+                    per_letter[top][2] += 1
+                else:
+                    per_letter[top][0] += 1
                 continue
-            if '— see' in title:
-                total_alias += 1
-                per_letter[top][1] += 1
-            elif title.lstrip().startswith('*'):
-                per_letter[top][2] += 1
-            else:
-                per_letter[top][0] += 1
+            n = re.match(r'^\s*\* (.*)$', s)
+            if n and section is not None:
+                title = unescape(n.group(1))
+                if '— see' in title or '——见' in title:
+                    total_alias += 1
+                    per_letter[section][1] += 1
+                else:
+                    per_letter[section][2] += 1
     return per_letter, total_alias
 
 
