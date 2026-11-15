@@ -69,7 +69,11 @@ function parseSummary(file: string): Item[] {
         href: m[3].replace(/^\.\//, ''),
         depth: Math.floor(m[1].replace(/\t/g, '  ').length / 2),
       })
+      continue
     }
+    // 无链接分组行（`* \*分类名`，集群占位母行，ADR-0057）不指向文件：SUMMARY 保留这层
+    // 层级写法供 GitBook 与结构审计使用，侧栏不渲染分组标签，故此处不产出条目。
+    // 占位行一旦重新指向文件（例如 README.md），GitBook 会因一文件多页拒绝导入。
   }
   return out
 }
@@ -197,14 +201,12 @@ const byLetter: Record<string, Item[]> = {}
 // 全树侧栏在移动端折算 ~2 万 DOM 节点（实测 mu-lu-s 21507 节点），
 // 是非词条页内存与渲染的大头。2026-10-30 裁定：非词条页一律 slim——
 // 顶部导航行 + 分类目录 + 26 字母首链；多页目录（qian-yan 等）另列自身页面。
-// 顶行仅取站首页一行。SUMMARY 里有 159 行指向 README 的集群占位行（\*美学等，
-// 标题带 \* 转义、href 同为 README.md，实测与 href 白名单撞车），按标题转义特征
-// 排除；分类目录入口由 catLink 提供，不再单列 mu-lu-s 行以免重复。
+// 顶行仅取站首页一行。集群占位母行（`* \*美学 aesthetics`）自 2026-11-15 起是无链接
+// 分组行（ADR-0057：GitBook 一文件一页，182 行同指 README.md 会拒绝导入），parseSummary
+// 不再为它们产出 href，故此处只可能命中站首页一行；分类目录入口由 catLink 提供，
+// 不再单列 mu-lu-s 行以免重复。
 const topRows = zhItems
-  .filter(
-    (i) =>
-      i.kind === 'item' && i.href === 'README.md' && !i.title.startsWith('\\*'),
-  )
+  .filter((i) => i.kind === 'item' && i.href === 'README.md')
   .map((i) => ({ text: cleanTitle(i.title), link: sidebarLink(i.href!) }))
 
 const slimIndexSidebar: any[] = [

@@ -9,6 +9,8 @@ HEADERS_ONLY = '--headers' in ARGS
 SYNC = '--sync-headers' in ARGS
 
 entries = []  # (title, path, raw_line)
+navs = []     # (line_no, indent, title)：无链接分组行（集群占位母行，ADR-0057）
+rows_meta = []  # (line_no, indent) 全部列表行，供「空标签」判定
 unparsed = 0
 with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
@@ -17,14 +19,35 @@ with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
         if not m:
             continue
         content = m.group(1)
+        indent = len(s) - len(s.lstrip())
         # replicate sync-headers.yml sed extraction
         mt = re.search(r'\[([^]]*)\]', content)
         mp = re.search(r'\]\(([^)]*)\)', content)
         if not mt or not mp:
-            print('UNPARSED LINE %d: %s' % (i, s))
-            unparsed += 1
+            # ADR-0057：集群占位母行写作无链接分组行 `* \*分类名`，不指向文件，
+            # 只承担 SUMMARY 内的层级分组（GitBook 一文件一页，占位行不得重指
+            # README.md）。判定从严：残留链接语法碎片（`[` 或 `](`）仍按 UNPARSED
+            # 硬错误抓出，避免把坏链静默降级成分组行。
+            if '](' in content or content.startswith('['):
+                print('UNPARSED LINE %d: %s' % (i, s))
+                unparsed += 1
+                continue
+            navs.append((i, indent, content.strip()))
+            rows_meta.append((i, indent))
             continue
         entries.append((mt.group(1), mp.group(1), s))
+        rows_meta.append((i, indent))
+
+# 无链接分组行必须带子行（ADR-0057）：空标签在 GitBook 与站点侧栏都只会留一个
+# 空组，属结构缺陷。子行判定按缩进：其后紧邻的列表行缩进更大即为有子行。
+nav_empty = []
+_meta = dict(rows_meta)
+_marks = sorted(_meta)
+for _line_no, _indent, _title in navs:
+    _pos = _marks.index(_line_no)
+    _next = _marks[_pos + 1] if _pos + 1 < len(_marks) else None
+    if _next is None or _meta[_next] <= _indent:
+        nav_empty.append((_line_no, _title))
 
 
 def unescape_title(t):
@@ -158,6 +181,7 @@ if SYNC:
     sys.exit(1 if resid else 0)
 
 print('total entries: %d' % len(entries))
+print('nav groups (linkless, ADR-0057): %d' % len(navs))
 
 if HEADERS_ONLY:
     print('H1 mismatch: %d' % len(mismatch))
@@ -246,7 +270,13 @@ print('alias fragment (需完整标题): %d' % len(alias_bad))
 for p, frag, full in alias_bad[:30]:
     print('  ALIAS %s: %r，应为 %r' % (p, frag, full))
 
-# 门禁：硬错误非零退出（孤儿文件/近空文件为统计信息，不计入；H1 不一致与别名残缺为硬错误，ADR-0024）
-hard = unparsed + len(missing) + len(bad) + len(dups) + len(mismatch) + len(alias_bad)
+print('empty nav groups (无子条目的分组行): %d' % len(nav_empty))
+for line_no, title in nav_empty[:30]:
+    print('  EMPTY NAV L%d: %s' % (line_no, title))
+
+# 门禁：硬错误非零退出（孤儿文件/近空文件为统计信息，不计入；H1 不一致、别名残缺
+# 为硬错误，ADR-0024；空分组行为硬错误，ADR-0057）
+hard = (unparsed + len(missing) + len(bad) + len(dups) + len(mismatch) + len(alias_bad)
+        + len(nav_empty))
 print('HARD ERRORS: %d' % hard)
 sys.exit(1 if hard else 0)

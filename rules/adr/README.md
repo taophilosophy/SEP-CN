@@ -87,3 +87,4 @@
 | [0053](0053-全量done回炉重走前置环节.md) | 全量 done 回炉重走前置环节（取消"非 A1 done 台账补课"豁免线：存量 done 一律 revert-state 重走 s0/s2.4/s2.5＋r 链，specs/028 面扩至 413、specs/036 done 台账线作废） | accepted |
 | [0054](0054-终审须用户显式指定会话.md) | 终审须用户显式指定会话（R3 默认不进行：未指定时条目停 r2_reviewed、done 冻结；advance --step r3 必填 --mandate 用户指定记录；取代 ADR-0020 裁定②的 r3 默认自走面） | accepted |
 | [0055](0055-构建壳与内容仓分权.md) | 构建壳与内容仓分权（依赖只装 taophilosophy.github.io 壳根；本仓删 package.json/bun.lock；主题层与配置层解耦；prepare 脚本与 cwd 解耦；仿 FreeBSD-Ask 结构） | accepted |
+| [0057](0057-SUMMARY占位母行去链接.md) | SUMMARY 集群占位母行改为无链接分组行（GitBook 一文件一页：182 行同指 README.md 触发导入报错；SUMMARY 两侧镜像同步改写；check_summary 认分组行＋空分组硬错误；站点侧栏渲染逐字节不变） | accepted |
