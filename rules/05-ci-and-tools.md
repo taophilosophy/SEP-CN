@@ -51,6 +51,7 @@
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
 | `check_tables_images.py` | 表格与图片预检（ADR-0037，**告警级**，不进 CI）：表块结构（缺分隔行、列数不一致）、单元格全角空格与多空格填充、表内未译英文散文候选、学术工具节表形态、图片 alt 非中文、引用基座违规与解析失败；`--yuanwen` 扫镜像结构项、`--corpus` 出并集清单；默认退出码 0，`--gate` 时基座违规/解析失败升硬（图片项与 `check_images.py --gate` 重叠处以后者入闸为准） |
 | `check_terms.py` | 术语一致性门禁（specs/002、specs/031）：两登记册自洽（废弃链断裂、同键同译法重复为硬错误，退出码 1）；缺依据/裁定日期、非英语术语缺原文、人名缺籍属生卒为告警；`--docs` 定点核销告警级；`--ledger <路径>` 写判读台账骨架、`--check-ledger <路径>` 校验台账闭合（D 类/三出口/证据/凭证/复核人，ADR-0048） |
+| `register_lib.py` | 登记册共享解析/折叠库（specs/033）：键折叠三口径唯一实现——A `norm_key_quote`（引号折叠，登记册↔正文比对）、B `norm_key`（基础折叠，候选/凭证/核销）、C `fold_nfd`（azsort 节内排序内层，禁改）；行解析 `split_row`/`is_data_row`/`parse_registry*` 与 A–Z 分节 `bucket_of`；消费方（check_terms/registry_azsort/term_*）一律引用，禁再复制函数体 |
 | `mech_audit.py` | 机械替换回溯审计（specs/031，ADR-0048 决策 4/7）：对指定词条历次修复 commit 逐行 diff 分类 `pure`（仅标点变动）/`conn`（≤4 字小块）/`susp`（相似 0.85–0.95），**只产候选不作定性**；`--since`、`--marker`、`--out`（默认 `state/mech-audit-latest.json`） |
 | `check_math.py` | 数学保真门禁（2026-10-27 裁定）：原始 HTML 每条公式内容必须原样出现在 yuanwen 产物；占位符残留、行内 `$` 失衡为硬错误（退出码 1） |
 | `check_doc_size.py` | 单体文件大小门禁（ADR-0004）：叙事/规则/规格类 md 超 1000 行或 100KB 即退出码 1；登记册与生成物豁免 |
