@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T04:33:35Z",
+  "updated_at": "2026-11-15T04:45:20Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1631,6 +1631,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：影片年份史实勘正与书目标点（ADR-0038 ①②）",
       "registered_at": "2026-11-15T04:33:35Z"
+    },
+    {
+      "slug": "gersonides",
+      "path": "en/gersonides/index.html",
+      "upstream_sha256": "8bf6d3593b31fb372cf47923bf5205aa87978f686bab1f92f2eafcfee9d472a3",
+      "local_sha256": "73d66feb97aea73f89fba90aec7fee92b45a108b84b9c0ae009a9ffc5e1f0fcb",
+      "bytes": {
+        "upstream": 69423,
+        "local": 69451
+      },
+      "commit": "bb65a5ac1",
+      "subject": "015 偿还 gersonides：英文残留与六处挂键、书目三分节归位与勘误（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：书目拼写重音体例、North 年份（ADR-0038 ①②）",
+      "registered_at": "2026-11-15T04:45:20Z"
     }
   ],
   "tombstones": [
