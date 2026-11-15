@@ -2,7 +2,7 @@
   "slug": "zombies",
   "kind": "retranslate",
   "zh_doc": "z/zombies.md",
-  "state": "s2.5_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,34 @@
       "actor": "pc6-m2.5-revert",
       "at": "2026-11-14T15:04:24Z",
       "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T12:59:47Z",
+      "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉件）：①en_integrity 包完整性 clean（hard_findings 0）；②en_source_audit HTML 本体审计：初跑硬错 2 均定性工具误报并已回修——error_page（书目论文题 'Access Denied to Zombies,' 命中风控词表，zombies 先例：标记只识别页头区）＋entry_link_bad（源 href ../Russellian-monism/ 对目录键 russellian-monism 大小写敏感，zombies 先例：目录比对小写归一），修后单测 10/10 绿、全库试金石 1877 件、本件硬错 0；③镜像轴保真：ADR-0038 勘误一件——正文句末孤立右括号（compare Latham 2000, 72f).，段内 5 开 6 闭）已走 en-errata 第五节→就地剥除→定点重转差量恰为一处 OTHER=0→分歧账 register（verify 0 失败）；镜像抽查 pubinfo 行（First published Mon Sep 8, 2003; substantive revision Sat Mar 25, 2023）、导语首句（Zombies in philosophy are imaginary creatures…）、Latham 句修后形态与 en 剥标签文本一致；全局镜像依据 2026-11-15 drift_scan 全量回源在案；④typo 候选 0、外链 10 离线盘点在案待 --net 批次"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T13:17:43Z",
+      "evidence": "回炉件 s3（增补后，specs/028 §0-bis 工序）：三检门禁全绿——check_style 0 issue、check_prose 仅 2 处前手已定性直引豁免（L111 洛尔引文 的链、L143 弗拉纳根/波尔格引文 83 字长句，ADR-0020 quote 豁免）、check_math missing/unbalanced 均空、check_academic --strict 0 硬错误（在途豁免 1）、check_pairs 0（L37 孤右括号经 ADR-0038 勘误链修平）、check_math_zh 0、check_summary H1 mismatch 0/HARD 0。s2.4/s2.5 增项（无 s24/s25 步记录，凭证并入本步）：⑴术语校——check_terms 定点 11 处逐条定性（check_terms 单字母碎片噪点已回修，119→11）：①引注照录豁免 8（Block/Campbell/Frankish/Hill/Kirk/McLaughlin/Piccinini/Sturgeon/Yablo 均仅现于引注组，拉丁照录体例）；②nomological 律则必然性=正文「 **律则** 必然性」加粗空格致字面断开，语义=登记正形，判读保留；③zombie 哲学僵尸=条目主题词（H1 即「僵尸 Zombies」），首句已给「哲学中的僵尸」全称语境，正文简称一致，判读保留；④Campbell L55 联合署名句（Campbell、Copeland 与 Deng 2017 论证说）保留拉丁——同句 Copeland/Deng 未登记，单译其一破句内一致，且与本件 Name（Year）论证格式拉丁先例（Stoljar/Carruth/Taylor/Garrett/Pelczar）一致；正文用语核对：感质/随附性/现象概念/可设想性/副现象主义/罗素式一元论（册行首现即本条）/心灵因果（§6.1 标题与正文 2 处由「心理因果」对齐登记形，实修）／他心问题（§6.3 标题由「他心」、导语由「他心」问题对齐，实修）。⑵源侧勘误一件（ADR-0038 ①类）：正文 compare Latham 2000, 72f).句末孤立右括号（段内 5 开 6 闭）——en-errata 第五节→en 就地剥除→定点重转差量恰为一处 OTHER=0→分歧账 register（verify 0 失败）→zh「72f.）。」改「72f。」。⑶译文轴实修 4 处：心灵因果×2、他心问题×2（标题与正文），如上。⑷密度统计：破折号 64 处逐处审阅均插入/解释/引文职能（含引块内源生破折号）；一字线单—×2 为源笔误照录页码区间（172—209/297—299，前手 s3 已定性原样）；半字线全在引注/照录区；量词「一个」42 处逐处审阅全实指；省略号 2 处均引文内源生；AI 高频词 2 处均源生（Clearly→显而易见）。⑸结构对账：H1 与 SUMMARY 逐字一致；导语＋§1–§7＋4.1/4.2＋5.1–5.4＋6.1–6.3 全对位；脚注键 zh 104:104 与 yuanwen 组挂策略一致（yw 转换器另有 13 处作者提及挂键属 ADR-0038 中文未挂原文已挂全库预期态：340/429 件同况，组挂为 zh 一贯政策——104 处标记 100% 挂于引用组尾，偿还走池级补课不在本件单方改策）；定义集 93:93 全等；致谢段译出（Bill Fish 无通行汉名保留拉丁）；相关词条 18 项与前手 s3 凭证一致（SUMMARY 定名双形）；OIR 查尔默斯文献目录行对位。⑹表身空值：无表格图片（源表 1 为页脚样板）；源笔误照录 3 处页码沿用前手定性。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T13:18:21Z",
+      "evidence": "回炉重走 r1（初审·准确性，独立会话，与初译 Z-main-20261113 异会）：逐段对照 yuanwen/z/zombies.md 全文（导语＋§1–§7＋引块×3＋尾节）核销——①导语（nothing it is like 定义句、可想象性/可设想性/可能三者、他心问题重新激活）逐句对位；②§1 笛卡尔自动机（谈谈方法第五部分两要件、对第四组反驳的答复、骤失心灵段）→十九世纪物理因果闭合→赫胥黎有意识的自动机→斯托特 1931 引块（架桥拍电报等列举）→模仿人（Campbell 1970）→Kirk 1974a/b→感质定义段（咖啡豆例）→查尔默斯 1996 定位段→僵尸反例资格两条件段，逐句对位；③§2 克里普克上帝造世界比喻（Kripke 1972/80, 153f.）、阻断者段（Leuenberger 2008/Hawthorne 2002b/Chalmers 2010, 163–165）、钟磊 2021 异路、律则/逻辑/形而上必然性三分、后天必然（McLaughlin 2005/Stoljar 2000）、Yablo 457n 互换段、可设想但不可能段（Balog/Loar/McLaughlin），逐句对位；④§3 三步论证与前提问题（Hill 1997 疼痛 C 纤维例、圆周率有理数归谬、从严限定定义句加粗）、莱文解释鸿沟段、Campbell/Copeland/Deng 镜像论证段；⑤§4 小人儿头论证（手机神经元、弱假定仅可设想性、Loar 613f）、证实主义/私人语言/行为主义三看法、功能主义两段（Kirk 2005/2013/2017）、丹尼特想象不彻底（1995, 322/325/324）、认识论进路（Stoljar 2006, 2020）、僵尸话语（Nigel Thomas 1996）、知晓与指称感质（亲知回应 Chalmers 1996, 172—209）、认知接触问题（Kirk 2005/2008 加工论证）、力量性质（Carruth 2016/Taylor 2017），逐句对位；⑥§5 后天必然反驳（Hill/McLaughlin 1999, 446 引文）、二维语义学段（初级/次级、水-H2O 例、两难概括）、现象概念策略（洛尔识别性概念引文 467/468、查尔默斯两难 C 关键特征）、罗素式一元论（Stoljar 2001 两义、protophenomenal、2010: p. 151/152 引文、戈夫幽灵论证）、特殊因素/条件分析/因果本质主义（Garrett 2009）/再论僵尸话语（巴洛格 502 辛辣特点）/反僵尸论证（Frankish 平行论证 1\\*/3\\*），逐句对位；⑦§6 心灵因果（交互作用论/泛心论变种、Chalmers 1991, 297—299）、意识的功能（弗拉纳根/波尔格 1995, 321 引文）、他心（Campbell 1970, 120 一种证实）；⑧§7 结语两引块（Chalmers 1996, 96／Loar 1990/97, 598）与双向魔力论述对位；⑨源笔误照录三处页码（172—209/297—299/159–59）与勘误一处（Latham 孤括号已走 ADR-0038 链）核销。本步实修 0（前手 4 处实修已于 s3 步登记）。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "Z-rework-20261115",
+      "at": "2026-11-15T13:18:47Z",
+      "evidence": "回炉重走 r2（复审·语体与体例，机检＋通读并行）：①正文数字/年代机检对账：日期记法转换（Sep 8 2003→2003 年 9 月 8 日、Mar 25 2023→2023 年 3 月 25 日）、卷页号与引注号逐字符照录（含源笔误三处页码原样定性）、H2O 源无下标标记故照录平面形，无实数错漏；②节标题全对位（§1–§7＋4.1/4.2＋5.1–5.4＋6.1–6.3，6.1/6.3 修后与登记册一致）；③逻辑链重核：僵尸反例资格两条件、克里普克比喻双向、三分必然性递进、可设想性论证三步与两前提攻击谱系、小人儿头弱假定、三看法循环指控、认知接触加工论证、二维语义两难、现象概念两难、反僵尸平行论证（3 与 3\\* 不可同真），均与源一致；④密度复算（修后文本）：破折号 64 处全职能化、一字线 2 处源笔误照录、量词「一个」42 处全实指、AI 高频词 2 处源生；⑤语体通读：现代汉语学术书面语，无文言仿古句式；⑥机检复跑：style 0/prose 2 直引豁免/math 0/math_zh 0/academic strict 0/pairs 0。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
     }
   ],
   "blockers": [],

@@ -476,8 +476,12 @@ def main(argv=None):
         ledger_rows = []
         for row in doc_rows:
             term, trans, first_seen = row[0], row[1], row[2]
+            # 单字母碎片是「s/scholem 首译」型的字头目录前缀，不是 slug：
+            # 保留会以 endswith('s.md') 误配任意 s 结尾文档（zombies 先例，
+            # 119 条噪点淹没真告警；specs/036 裁定表）
             slugs = [s for s in re.split(r'[（()）/,、]', first_seen or '')
-                     if s.strip() and re.fullmatch(r'[a-z0-9\-]+', s.strip())]
+                     if s.strip() and len(s.strip()) > 1
+                     and re.fullmatch(r'[a-z0-9\-]+', s.strip())]
             hit_docs = [d for d in docs
                         if any(d.endswith('%s.md' % s) or ('/%s/' % s) in d for s in slugs)]
             for d in hit_docs:

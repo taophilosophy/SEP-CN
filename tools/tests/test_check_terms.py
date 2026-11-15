@@ -190,6 +190,26 @@ class LedgerTests(unittest.TestCase):
         self.assertEqual(code, 1)
         self.assertIn('台账不可读', buf.getvalue())
 
+    def test_letter_prefix_firstseen_not_matched_by_suffix(self):
+        # 「s/scholem 首译」型的单字母碎片是字头目录前缀，不是 slug：
+        # 不得以 endswith('s.md') 误配 s 结尾文档（zombies 先例，
+        # 119 条噪点淹没真告警；specs/036 裁定表）
+        import tempfile
+        tmp = tempfile.mkdtemp(prefix='term_prefix_')
+        reg = os.path.join(tmp, 'reg.md')
+        with io.open(reg, 'w', encoding='utf-8') as f:
+            f.write('# 测试登记册\n\n## 术语\n\n| 原文 | 译法 | 首现 | 裁定日期 |\n'
+                    '| ---- | ---- | ---- | -------- |\n'
+                    '| scholemterm | 绝不会出现的译法 | s/scholem 首译 | 2026-11-15 |\n')
+        doc = os.path.join(tmp, 'as.md')
+        with io.open(doc, 'w', encoding='utf-8') as f:
+            f.write('# 任意\n\n正文不含该译法。\n')
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_terms.main(['--registry', reg, '--docs', doc])
+        self.assertEqual(code, 0)  # --docs 恒 0（告警级）
+        self.assertNotIn('正文缺登记译法', buf.getvalue())
+
 
 if __name__ == '__main__':
     unittest.main()
