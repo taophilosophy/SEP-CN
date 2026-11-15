@@ -72,6 +72,8 @@
 命令: show <slug>                          查任务状态
       create <slug> --kind retranslate|update [--zh-doc <路径>] [--from <change 文件>]
       advance <slug> --step s0|draft|s1|s2|s24|s25|s3|r1|r2|r3|done --actor <名> --evidence <引用> [--unblock]
+                                            # r3 须加 --mandate <用户指定记录>（终审会话用户指定，ADR-0054；
+                                            # 缺失即拒，未指定时条目停 r2_reviewed、不进行 R3）
       source-audit <slug> --actor <名> --evidence <引用>   # 在途/done 存量源审计补课（ADR-0052；追加 s0 记录、状态不迁移）
       revert-state <slug> --to s2.5_checked --reason <因> --actor <名>   # 受控回退（仅 s3_checked 及其后；ADR-0043）
       clear <slug>                         清空正文置 cleared（gate: 基线哈希复算）
@@ -87,7 +89,8 @@
 行为: 任务文件 tasks/<首字母>/<slug>.json；状态迁移合法性由本工具校验，
       禁止跳步（update 类 s0/s1/s2/s24/s25 证据必须以 changes: 开头引用变更清单；
       s0 挂 en_integrity＋en_source_audit（ADR-0052）、s24 挂 check_terms --docs、
-      s25 挂 check_math_zh 默认档，ADR-0040/0043；进 s3 前历史须有 s0 记录）；
+      s25 挂 check_math_zh 默认档，ADR-0040/0043；进 s3 前历史须有 s0 记录；
+      r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒，step 留 mandate 字段））；
       blocked 任务冻结一切转移，仅 --unblock 可解。
 ```
 
@@ -182,6 +185,6 @@
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
 | en/ 就地勘误登记与核验 | `divergence.py`（register / carry / unregister / verify / patch / list） | en 改动先入 en-errata.md（ADR-0038 人读册）再登记分歧账（机器账，ADR-0045）；未登记静默改动由 verify 门禁红灯；上游真变时 `carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；勘误失效用 unregister 注销 |
 | 全量回源 sha 核对 | `drift_scan.py` | 只读审计：1872 词条 live index.html 对原始钉核对（并发豁免配置 64路×10s，留痕 http-log）；报告落盘 results/drift-scan-<ts>.json；真漂移清单供 compare.py/update 任务消费；不写 en/ 不动台账 |
-| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic；s24 挂 check_terms、s25 挂 check_math_zh（默认档，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退 |
+| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms、s25 挂 check_math_zh（默认档，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退 |
 | 登记册解析/折叠原语 | `register_lib.py`（specs/033） | 两登记册键折叠（A/B/C 三口径）、行解析与 A–Z 分节的唯一实现；check_terms/registry_azsort/term_* 为消费方，禁本地副本；口径增删须走 specs/033 §4.5 并全消费方复验 |
 | H1 同步 | `check_summary.py --sync-headers`（本地）；CI 只读校验 | 本地只读 SUMMARY；别名行不覆盖条目标题；远端不写回（ADR-0024） |

@@ -49,7 +49,7 @@
 | s2.4 术语校 | `python tools/check_terms.py --docs <路径>` 0 硬错误（登记册自洽；告警留 evidence）；逐条对照两登记册核验正文用词（ADR-0043） |
 | s2.5 审计已译 | `python tools/check_math_zh.py <路径>` 0 硬错误（默认档；strict 升档留 s3/r3）；三向比对记录、密度统计与脚注键位配对核验入 evidence（ADR-0040/0043） |
 | s3 三校 | `python tools/check_academic.py --docs <路径> --strict` 0 硬错误；`check_style.py` 照旧 |
-| r3 终审 | 复核结构完整性；CI 全绿（含 check_academic）为验收线 |
+| r3 终审 | 复核结构完整性；CI 全绿（含 check_academic）为验收线；仅用户显式指定的会话执行（ADR-0054），未指定时停 r2_reviewed |
 
 ## 缺陷分类与处置（2026-11-15 自散页《翻译工程标准》S5 折叠收编）
 

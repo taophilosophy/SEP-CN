@@ -85,3 +85,4 @@
 | [0051](0051-reopen分类与在途上游同步绕过.md) | reopen 分类学（R1 质量/R2 上游 done/R3 上游在途/R4 不打回）与在途上游同步绕过（--upstream-sync 四闸：显式声明+凭证+blocked 拒+状态限定；修订 ADR-0050 边界一） | accepted |
 | [0052](0052-源审计前置与HTML本体核查.md) | 源审计前置（s0_source_checked 前置状态、HTML 本体核查先行、镜像轴自 s2.5 前移、en_integrity＋en_source_audit 机检挂钩、specs/036 存量补课） | accepted |
 | [0053](0053-全量done回炉重走前置环节.md) | 全量 done 回炉重走前置环节（取消"非 A1 done 台账补课"豁免线：存量 done 一律 revert-state 重走 s0/s2.4/s2.5＋r 链，specs/028 面扩至 413、specs/036 done 台账线作废） | accepted |
+| [0054](0054-终审须用户显式指定会话.md) | 终审须用户显式指定会话（R3 默认不进行：未指定时条目停 r2_reviewed、done 冻结；advance --step r3 必填 --mandate 用户指定记录；取代 ADR-0020 裁定②的 r3 默认自走面） | accepted |

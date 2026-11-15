@@ -28,7 +28,7 @@
 | P5 审计 s2.5 | R2（宜非 R1） | en/、yuanwen/、译文 | check_math_zh 默认档＋独立性机检 | 三向比对记录、密度统计、增项处置 |
 | P5.5 形态清账（s3 前置独立步骤） | R2/R4 | 已译集合、en/ 正典形态 | `indep_review.py --scan` 该字头该类残余 0 或全登记豁免（告警级，不进 CI） | scan JSON、裁定表、manifest（ADR-0047） |
 | P6 三校 s3 | R1/R2 | 译文、ADR-0041 规范清单 | check_style 0 issue＋markdownlint | 体例处置记录、规范基线筛查结论 |
-| P7 三审 r1–r3 | R3 | 前六阶段全部输出 | check_academic --strict、CI、独立性机检 | 自审/复核/验收签字、问题单 |
+| P7 三审 r1–r3 | R3 | 前六阶段全部输出 | check_academic --strict、CI、独立性机检、r3 须用户指定终审会话（ADR-0054） | 自审/复核/验收签字、问题单 |
 | P8 收尾 done | R3/R0 | r3 凭证 | CI 全绿 | 归档任务、PROGRESS |
 | P9 更新 update | R1–R3 | compare 变更清单 | 变更段同口径门禁 | 变更文件、变更段凭证 |
 | P10 战役 | R0 立卡＋R1–R3 执行 | 任务书（specs） | 批次卡钉、试金石、独立复算 | execution-log、manifest |

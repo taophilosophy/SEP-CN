@@ -83,6 +83,7 @@
 * 新术语 → 先登记 `shu-yu-biao.md`，再使用（[03](03-terminology.md)；ADR-0036 改名）。
 * 登记译法与正文不一致 / `check_terms --docs` 告警 → 先按 D1–D5 定性再处置（修复／登记／豁免），**不得机械替换**；涉译法抉择或登记改动须联网查证留凭证（[03](03-terminology.md)、[ADR-0048](adr/0048-术语落地差异处置标准.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
+* 想推进终审（R3）→ 不进行：仅用户显式指定的会话执行（`advance --step r3 --mandate "<指定记录>"`），未指定时条目停 r2_reviewed、done 冻结（[04](04-translation-workflow.md)、[ADR-0054](adr/0054-终审须用户显式指定会话.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
 * 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。
 * 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。

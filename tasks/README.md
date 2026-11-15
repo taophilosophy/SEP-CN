@@ -42,6 +42,7 @@ update:      pending → s0_source_checked（仅变更段）→ s1_checked（仅
 * 六道与前置环节（`s0_source_checked` 源审计，ADR-0052；`s2.4_termchecked`/`s2.5_checked`，ADR-0040/0043）的对应与各步合格凭证：见 `rules/04-translation-workflow.md`。
 * **禁止跳步**；`blocked` 标志独立于状态，解除用 `advance --unblock`。
 * s0（ADR-0052）：advance 自动挂 `en_integrity`＋`en_source_audit`（硬错误拦）；进 s3 前任务历史必须有 s0 记录；在途/done 存量补课用 `source-audit` 子命令（追加 s0 记录，状态不迁移）。
+* r3 终审（ADR-0054）：仅用户显式指定的会话执行——`advance --step r3` 必须带 `--mandate <用户指定记录>`（缺失即拒，step 留 `mandate` 字段）；未指定时不进行 R3，条目停 r2_reviewed、done 冻结。
 
 ## 操作（`python tools/task_ops.py`）
 
@@ -52,6 +53,7 @@ python tools/task_ops.py show <slug>                                          # 
 python tools/task_ops.py reopen <slug> --actor <执行者> --reason <原因>        # done 任务返工打回 pending（旧 steps 保留为历史）
 python tools/task_ops.py clear <slug>                                         # 清空既有正文（retranslate 专用，前置：基线可信）
 python tools/task_ops.py advance <slug> --step s0|draft|s1|s2|s24|s25|s3|r1|r2|r3|done --actor <执行者> --evidence <凭证说明>
+python tools/task_ops.py advance <slug> --step r3 --actor <执行者> --evidence <凭证说明> --mandate "<用户指定记录>"   # 终审：仅用户显式指定的会话（ADR-0054）
 python tools/task_ops.py source-audit <slug> --actor <执行者> --evidence <凭证说明>   # 在途/done 存量补课（ADR-0052，状态不迁移）
 python tools/task_ops.py advance <slug> --unblock --evidence <解除说明>        # 解除阻塞
 python tools/task_ops.py block <slug> --reason <原因>                          # 标记阻塞

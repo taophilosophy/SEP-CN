@@ -142,3 +142,7 @@
   * W14 mtime 陈旧性判据失效（工作区迁移重置时间戳，8,549 件全 <30 天，险误归档活跃件）——陈旧性判定改语义证据（日期戳/战役闭案台账），弃用 mtime
   * W15 规范散页外溢收编成本（fang-fa-lun 折叠补正 8 处活引用）——新标准诞生即入 rules/ 层级，引用一律指 rules/ 编号
   * W16 脚本写出行 CRLF 二次发案（json.dump 漏 newline 参数）——防线升级：统一 newline='\n'，三次发案立 check_junk 门
+* 2026.11.15 终审会话门槛裁定（ADR-0054，用户裁定"R3 终审必须由用户显式指定会话进行，否则不进行 R3"）
+  * 落地：`advance --step r3` 必填 `--mandate <用户指定记录>`（缺失即 PreconditionError，step 留 mandate 字段），默认条目停 r2_reviewed、done 冻结（done 前置不放宽）；指定不继承，记录真实性属审计面（与 ADR-0051 --upstream-sync 凭证审计同构，收工核对对得上用户当轮发言）
+  * 取代关系：就 r3 默认执行面取代 ADR-0020 裁定②（混合制自走）；r3 真执行时独立性/冷置/学术挂钩（check_academic --strict）照常；不追溯——done 维持，在途停 r2_reviewed 等指定或经 revert-state 回退
+  * 同步面：rules/04 新增"终审会话门槛"节（状态机表、六道 r3 行、复核独立性条款）＋rules/06 done 定义＋rules/07 衔接表＋rules/09 P7 门禁＋rules/README 快速判例＋contracts/cli.md（advance 用法/行为注记/职责权属表）＋tasks/README.md；task_ops 单测 22 例全绿（新增缺 mandate 拒绝用例）；glossary-maintenance 类随既有门豁免

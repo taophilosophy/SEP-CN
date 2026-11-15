@@ -12,6 +12,8 @@
           → s2.5_checked(仅变更段) → s3_checked(全文档)
           → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
+r3 终审（ADR-0054，用户 2026-11-15 裁定）：仅用户显式指定的会话执行，未指定不进行
+R3、条目停 r2_reviewed；advance --step r3 必须带 --mandate <用户指定记录>。
 s0（ADR-0052）：advance --step s0 自动挂 en_integrity＋en_source_audit；
 在途/done 存量补课用 source-audit 子命令（追加 s0 记录，状态不迁移）；
 进 s3 前任务历史必须有 s0 记录。
@@ -132,7 +134,7 @@ def find_zh_doc(rec):
     return _f(rec["slug"], rec.get("title") or rec.get("title_en"))
 
 
-def advance(slug, step, actor, evidence, unblock=False):
+def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
@@ -166,6 +168,10 @@ def advance(slug, step, actor, evidence, unblock=False):
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
     if step == "r3" and task.get("kind") != "glossary-maintenance":
+        if not str(mandate or "").strip():
+            raise PreconditionError(
+                "R3 终审须用户显式指定会话（ADR-0054）：advance --step r3 --mandate "
+                "\"<用户指定记录：何时/何范围>\"；未指定时不进行 R3，条目停 r2_reviewed")
         _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
@@ -182,8 +188,11 @@ def advance(slug, step, actor, evidence, unblock=False):
         _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
         _audit_independence_gate(task, actor, evidence)  # 同源盲区对冲（specs/027 FR-001）
     task["state"] = STEPS[step]
-    task["steps"].append({"step": step, "status": "ok", "actor": actor,
-                          "at": utcnow_iso(), "evidence": evidence})
+    step_rec = {"step": step, "status": "ok", "actor": actor,
+                "at": utcnow_iso(), "evidence": evidence}
+    if step == "r3" and task.get("kind") != "glossary-maintenance":
+        step_rec["mandate"] = mandate  # 用户指定终审凭证（ADR-0054）；审计须核对对得上用户当轮发言
+    task["steps"].append(step_rec)
     save_task(task)
     return task
 
@@ -483,9 +492,11 @@ def main(argv=None):
             print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "advance":
-            args = _parse(["--step", "--actor", "--evidence", "--unblock"], argv[2:])
+            args = _parse(["--step", "--actor", "--evidence", "--mandate", "--unblock"],
+                          argv[2:])
             task = advance(slug, args.get("step"), args.get("actor") or "?",
-                           args.get("evidence") or "", unblock="--unblock" in argv)
+                           args.get("evidence") or "", unblock="--unblock" in argv,
+                           mandate=args.get("mandate") or "")
             print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "clear":

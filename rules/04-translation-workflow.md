@@ -10,8 +10,8 @@
 
 | 类型 | 触发 | 状态序列 |
 | ---- | ---- | -------- |
-| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → s0_source_checked（源审计前置）→ drafted → s1_checked → s2_checked → s2.4_termchecked（术语校）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done |
-| update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档）→ done |
+| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → s0_source_checked（源审计前置）→ drafted → s1_checked → s2_checked → s2.4_termchecked（术语校）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed（终审，仅用户显式指定会话执行，ADR-0054）→ done |
+| update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档，仅用户显式指定会话执行，ADR-0054）→ done |
 
 **禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 仅适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）。
 
@@ -25,7 +25,7 @@
 | s3 | 三校（体例） | 引号、空格、格式检查；连接号三形、表号表题与表身空值、顿号新规、题注细则按 [ADR-0041](adr/0041-标准对齐基线与偏离登记.md) 规范清单核验（2026-11-14 软件工程理论增补，ADR-0043） | `tools/check_style.py` 0 issue + markdownlint 绿；s3 凭证增记“适用规范基线筛查结论”（[08](08-intent-first.md) §13） |
 | r1 | 初审 | 对照原文自审，并再次通读语体后签字 | 自审记录（含语体结论） |
 | r2 | 复审 | 逐句回核原文与逻辑 | 复核记录（问题单：逐处位置＋改前改后，禁机械批量） |
-| r3 | 终审 | 终稿验收 + CI 全绿 | CI 通过 + 验收签字 |
+| r3 | 终审 | 终稿验收 + CI 全绿；**仅用户显式指定的会话执行**（ADR-0054）：未指定时不进行本环节，条目停 r2_reviewed | CI 通过 + 验收签字 + 用户指定记录（`--mandate`，step 留 `mandate` 字段） |
 
 每步在任务 JSON 的 `steps` 数组登记：`actor`（执行者）、`at`（ISO 时间戳）、`evidence`（可复核凭证：哈希、diff、检查输出、对照记录位置）。
 
@@ -72,7 +72,17 @@
 
 * **MQM Core 映射**：一校对 Accuracy（误译／漏译／增译／未译）；二校对 Fluency 与 Style（语法、欧化、语域）；**s2.4 术语校对 Terminology（登记册一致性）**；三校对 Locale Convention（标点体例、数字与连接号）；初审至终审做 Verity（受众适切性）抽查与整体验收。
 * **问题分级**：校次发现的问题按 Critical（改变原文立场、事实错误、术语反用）、Major（破句、漏译、成语误用）、Minor（措辞、标点）登记在 evidence；Critical 不得带入 done。
-* **复核独立性**（ISO 17100：校者独立于译者且资质相当）：r1–r3 至少其一应由初译 actor 以外的会话或人工执行；单会话作业时，终审前须冷置（先做其他任务再回读），并在 evidence 记明。执行形态默认值为 [ADR-0020](adr/0020-译文语言质量门禁.md) 裁定②（混合制：r2 交叉、r3 冷置重读，评审线接管见 specs/005 §6）；r1–r3 与初译 actor 全同时，`task_ops` 在 r3 机检 evidence 须含"冷置"记明。
+* **复核独立性**（ISO 17100：校者独立于译者且资质相当）：r1–r3 至少其一应由初译 actor 以外的会话或人工执行；单会话作业时，终审前须冷置（先做其他任务再回读），并在 evidence 记明。执行形态默认值为 [ADR-0020](adr/0020-译文语言质量门禁.md) 裁定②（混合制：r2 交叉、r3 冷置重读，评审线接管见 specs/005 §6；其中 r3 的执行前提另受下节会话门槛约束，ADR-0054）；r1–r3 与初译 actor 全同时，`task_ops` 在 r3 机检 evidence 须含"冷置"记明。
+
+### 终审会话门槛（r3 终审，ADR-0054，2026-11-15 用户裁定）
+
+R3 终审**必须由用户显式指定会话进行，否则不进行 R3**：
+
+* **默认停 r2_reviewed**：r2 完成即止，任何会话不得自行推进 r3_reviewed；done 相应冻结（done 的前置仍是 r3_reviewed，不因本裁定放宽）。
+* **进入方式**：仅当用户在会话中显式指定该会话执行终审（指明范围——件或批次），该会话方可对指定范围执行 `python tools/task_ops.py advance <slug> --step r3 --mandate "<用户指定记录：何时/何范围>"`；`--mandate` 必填（机检硬门，缺失即拒），step 记录留 `mandate` 字段，收工审计核对指定记录与用户当轮发言对得上。
+* **指定不继承**：指定只在被指定的会话与范围内有效，下一次终审须重新指定；工具无法自证会话身份，指定记录的真实性属审计面（与 ADR-0051 `--upstream-sync` 凭证审计同构）。
+* **既有门不变**：复核独立性（上文）与学术挂钩（`check_academic --strict`，[07](07-academic-norms.md)）在 r3 照常机检；冷置要求在其执行时照常适用。
+* **不追溯**：已 done 件维持 done；在途件停 r2_reviewed 等待指定，或经 ADR-0043 `revert-state` 受控回退重走复核。
 
 ## 重译纪律（零信任，宪法 I）
 
