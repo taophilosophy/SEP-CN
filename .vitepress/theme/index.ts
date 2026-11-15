@@ -1,6 +1,6 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
-import BilingualToggle from './components/BilingualToggle.vue'
+import BilingualCompare from './components/BilingualCompare.vue'
 import EntryMatter from './components/EntryMatter.vue'
 import FootnoteEnhance from './components/FootnoteEnhance.vue'
 import MathTypesetter from './components/MathTypesetter.vue'
@@ -23,7 +23,7 @@ export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-after': () => h(BilingualToggle),
+      'nav-bar-content-after': () => h(BilingualCompare),
       'doc-top': () => [h(MathTypesetter), h(EntryMatter)],
       'doc-bottom': () => h(SepFooter),
       'layout-bottom': () => h(FootnoteEnhance),

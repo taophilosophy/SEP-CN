@@ -142,7 +142,9 @@ html {
   border-color: var(--vp-c-brand-1);
 }
 
-/* ------------------------------------------------ 双语对照 ---- */
+/* ------------------------------------------------ 双语对照（specs/038） ---- */
+/* 同页双栏（默认）＋段间交错精读；三态：对照／仅中文／仅英文。
+   涉及 VitePress 内部类名的排布一律在 vp-compat.css（唯一桥接层）。 */
 
 .bili-toggle-wrap {
   display: flex;
@@ -165,6 +167,10 @@ html {
   white-space: nowrap;
 }
 
+.bili-btn + .bili-btn {
+  margin-left: 6px;
+}
+
 .bili-btn:hover {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
@@ -176,13 +182,10 @@ html {
   background: var(--vp-c-brand-soft);
 }
 
+/* ---------------------------------------------------------- 面板骨架 ---- */
+
 .bili-panel {
   position: fixed;
-  top: var(--vp-nav-height);
-  right: 0;
-  bottom: 0;
-  width: 50vw;
-  min-width: 420px;
   z-index: 40;
   display: flex;
   flex-direction: column;
@@ -195,10 +198,70 @@ html {
   box-shadow: -6px 0 18px rgba(0, 0, 0, 0.45);
 }
 
+/* 左右：英文占右半屏 */
+body.bili-side .bili-panel {
+  top: var(--vp-nav-height);
+  right: 0;
+  bottom: 0;
+  width: 50vw;
+  min-width: 420px;
+}
+
+/* 上下：英文占下半屏 */
+body.bili-stack .bili-panel {
+  left: 0;
+  right: 0;
+  top: 50%;
+  bottom: 0;
+  border-left: none;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+/* 底栏：交错态与「仅中文」态正文占满，控制条常驻页底（参考站 bottom-nav 语汇） */
+body.bili-bottombar .bili-panel {
+  top: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+  min-width: 0;
+  border-left: none;
+  border-top: 1px solid var(--vp-c-divider);
+  box-shadow: 0 -4px 14px rgba(0, 0, 0, 0.06);
+}
+
+body.bili-mode.bili-bottombar {
+  padding-bottom: 52px;
+}
+
+/* 仅英文（双栏）：英文栏铺满整屏 */
+body.bili-show-en:not(.bili-bottombar) .bili-panel {
+  left: 0;
+  width: auto;
+  min-width: 0;
+  border-left: none;
+  box-shadow: none;
+}
+
+.bili-doc {
+  flex: 1;
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 12px 28px 64px;
+}
+
+.bili-hint {
+  margin: 24px 0;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+/* ---------------------------------------------------------- 控制条 ---- */
+
 .bili-bar {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   padding: 6px 14px;
   border-bottom: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg-alt);
@@ -208,8 +271,40 @@ html {
 
 .bili-bar-title {
   flex: 1;
+  min-width: 90px;
+  overflow: hidden;
   font-weight: 700;
   color: var(--vp-c-text-1);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bili-tabs {
+  display: flex;
+  overflow: hidden;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+}
+
+.bili-tabs button {
+  padding: 3px 10px;
+  border: none;
+  background: none;
+  color: var(--vp-c-text-2);
+  font-family: inherit;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+
+.bili-tabs button + button {
+  border-left: 1px solid var(--vp-c-divider);
+}
+
+.bili-tabs button.on {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
 }
 
 .bili-sync {
@@ -227,93 +322,85 @@ html {
   font-family: inherit;
   font-size: 13px;
   text-decoration: none;
+  white-space: nowrap;
   cursor: pointer;
 }
 
-.bili-frame {
-  flex: 1;
-  width: 100%;
-  border: 0;
-  background: var(--vp-c-bg);
+.bili-progress {
+  font-variant-numeric: tabular-nums;
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
 }
 
-/* 对照模式下全沉浸的隐藏清单在 vp-compat.css（全站唯一桥接层，specs/037）；
-   此处仅保留对照模式的布局改排 */
-body.bili-mode .VPContent.has-sidebar {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+/* ------------------------------------------------- 段间交错（英文附注块） -- */
+/* 语汇取自参考站 .para-fanyi：浅底、圆角、次要文字色，中文为主、英文为附注 */
+
+.bili-en-block {
+  margin: 0 0 1.35em;
+  padding: 6px 14px 8px;
+  border-left: 3px solid rgba(140, 21, 21, 0.18);
+  border-radius: 8px;
+  background: rgba(128, 128, 128, 0.07);
+  color: var(--vp-c-text-2);
+  font-size: 0.96em;
+  line-height: 1.75;
 }
 
-/* 左右模式:中文占左半、英文面板占右半,两侧同一内边距 → 等宽 */
-@media (min-width: 960px) {
-  body.bili-mode:not(.bili-stack) .VPDoc .container {
-    max-width: none;
-    margin: 0;
-  }
-
-  body.bili-mode:not(.bili-stack) .VPDoc .content-container {
-    padding: 14px 20px 48px !important;
-  }
+.dark .bili-en-block {
+  border-left-color: rgba(168, 230, 207, 0.25);
+  background: rgba(255, 255, 255, 0.05);
 }
 
-body.bili-mode .vp-doc {
-  max-width: none;
-  margin: 0;
+.bili-en-block > :first-child {
+  margin-top: 0;
 }
 
-body.bili-stack .vp-doc {
-  max-width: min(var(--vp-content-max-width, 688px), 100%);
-  margin: 0 auto;
+.bili-en-block > :last-child {
+  margin-bottom: 0;
 }
 
-/* 当前阅读段持久高亮（段落级双向跟随） */
+.bili-en-block p {
+  margin: 0 0 0.5em;
+}
+
+.bili-en-block ul,
+.bili-en-block ol {
+  margin: 0.2em 0 0.4em;
+  padding-left: 1.2em;
+}
+
+.bili-en-label {
+  margin-bottom: 0.35em;
+  color: var(--vp-c-text-3);
+  font-size: 11.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* 三态 */
+body.bili-show-zh .bili-en-block {
+  display: none;
+}
+
+body.bili-show-en .bili-zh-block {
+  display: none;
+}
+
+/* 仅英文态：英文块按正文读，不再用附注底色 */
+body.bili-show-en .bili-en-block {
+  margin-bottom: 1.2em;
+  padding: 0;
+  border-left: none;
+  background: none;
+  color: var(--vp-c-text-1);
+  font-size: 1em;
+}
+
+/* 当前阅读段持久高亮（段落级跟随） */
 .bili-active {
   background: var(--vp-c-brand-soft);
   box-shadow: inset 3px 0 0 var(--vp-c-brand-1);
   border-radius: 4px;
-}
-
-/* 悬停可供性：提示段落可点击（桌面端,对照模式;借鉴 SnapVerbo/Yalango） */
-@media (min-width: 960px) {
-  body.bili-mode
-    .vp-doc
-    :is(p, h2, h3, h4, li, blockquote, table, dl):hover {
-    background: var(--vp-c-bg-soft);
-  }
-}
-
-/* 双语阅读进度（Yalango 范式:面板条常显） */
-.bili-progress {
-  font-variant-numeric: tabular-nums;
-  color: var(--vp-c-text-2);
-}
-
-/* 上下堆叠布局（2026-10-31）：中文上半、英文下半，正文恢复全宽 */
-body.bili-stack .bili-panel {
-  left: 0;
-  right: 0;
-  top: 50%;
-  bottom: 0;
-  width: auto;
-  min-width: 0;
-  border-left: none;
-  border-top: 1px solid var(--vp-c-divider);
-}
-
-body.bili-stack .VPDoc .container {
-  max-width: none;
-  margin: 0;
-}
-
-/* 左侧目录隐藏开关（2026-10-31,桌面端;对照模式下恒隐、不依赖此开关） */
-@media (min-width: 960px) {
-  body.hide-sidebar .VPSidebar {
-    display: none !important;
-  }
-
-  body.hide-sidebar .VPContent.has-sidebar {
-    padding-left: 0 !important;
-  }
 }
 
 /* 选中句双向高亮 */
@@ -325,13 +412,6 @@ mark.bili-sent-en {
   border-radius: 2px;
 }
 
-/* 段落级对照（2026-10-30 #4）：可点击段落光标 + 跳转落点闪烁 */
-body.bili-mode
-  .vp-doc
-  :is(p, h2, h3, h4, li, blockquote, pre, table, dl, .math-display) {
-  cursor: pointer;
-}
-
 .bili-flash {
   animation: bili-flash 1.6s ease-out;
 }
@@ -340,10 +420,35 @@ body.bili-mode
   0% {
     background: var(--vp-c-brand-soft);
   }
+
   100% {
     background: transparent;
   }
 }
+
+@media (max-width: 959px) {
+  /* 不能用 width:100vw：vw 含纵向滚动条宽度（桌面实测 15px），右锚定后
+     面板整体左移 15px 出屏。左右都锚 0、宽度自适应即可 */
+  body.bili-side .bili-panel {
+    left: 0;
+    width: auto;
+    min-width: 0;
+  }
+
+  .bili-bar {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .bili-bar-title {
+    flex-basis: 100%;
+  }
+
+  .bili-panel {
+    min-width: 0;
+  }
+}
+
 
 /* -------------------------------------------- 译文版本钉（#2） ---- */
 
@@ -393,32 +498,9 @@ body.bili-mode
 
 @media (max-width: 959px) {
   .bili-panel {
-    width: 100vw;
     min-width: 0;
   }
 }
 
-/* ---------------------------------------- iframe 内隐藏站点框架 ---- */
-/* 隐藏清单在 vp-compat.css（全站唯一桥接层）；此处仅保留镜像页布局改排 */
-
-html.in-iframe .VPContent,
-html.in-iframe .VPDoc {
-  padding: 0 !important;
-}
-
-html.in-iframe .VPDoc .content-container {
-  max-width: 100% !important;
-  padding: 16px 20px 48px !important;
-}
-
-/* 对照模式行宽一致化(2026-10-31):上下布局两侧同为 VP 内容宽(688px)居中;
-   左右布局英文随面板半屏满铺(与中文侧同宽同内边距) */
-html.in-iframe .vp-doc {
-  max-width: min(var(--vp-content-max-width, 688px), 100%);
-  margin: 0 auto;
-}
-
-html.in-iframe.bili-side .vp-doc {
-  max-width: none;
-  margin: 0;
-}
+/* 对照/嵌入相关的 VitePress 内部类名排布已全部在 vp-compat.css（唯一桥接层）；
+   2026-11-16 去 iframe 后（specs/038），原「iframe 内布局改排」四段随之删除 */

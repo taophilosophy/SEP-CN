@@ -1,0 +1,45 @@
+{
+  "captured": "2026-11-16",
+  "env": "Chrome headless=new, dev server 127.0.0.1:81 (shell repo docs 联接), window 1280x860 → vw 1254 / vh 760",
+  "note": "量测来自组件内临时探针（?bili_probe=1..5，验收后已删除）：写 DOM 后由 --dump-dom 取回。坐标为 [x, y, width, height]。",
+  "layout": {
+    "side/compare": {
+      "vpdoc": [0, 64, 612, 30508],
+      "zhDoc": [52, 126, 508, 28641],
+      "panel": [612, 64, 627, 696],
+      "enInner": [641, 8, 555, 35993],
+      "overflowX": -15
+    },
+    "stack/compare": {
+      "zhDoc": [276, 112, 688, 22425],
+      "panel": [0, 380, 1239, 380],
+      "enInner": [268, 325, 688, 29791]
+    },
+    "inter/compare": {
+      "zhDoc": [276, 112, 688, 45708],
+      "enBlocks": 94,
+      "enSectionBlocks": 2,
+      "enBlockBgLight": "rgba(128, 128, 128, 0.07)",
+      "enBlockBgDark": "rgba(255, 255, 255, 0.05)",
+      "enBlockRadius": "8px",
+      "enBlockBorderLeft": "3px rgba(...)",
+      "panel": [0, 719, 1239, 41]
+    },
+    "side/show=zh": { "zhDoc": [276, 112, 688, 22425], "panel": [0, 719, 1239, 41], "tabs": "仅中文*" },
+    "side/show=en": { "vpdoc": [0, 0, 0, 0], "biliDoc": [0, 104, 1254, 656], "enInner": [28, 116, 1183, 19690], "overflowX": 0 },
+    "mobile-900": { "vw": 874, "panel": [0, 64, 859, 596], "bar": [1, 64, 858, 67], "overflowX": -15 },
+    "mobile-420": { "vw": 526, "panel": [0, 64, 511, 596], "bar": [1, 64, 510, 67], "overflowX": -15 }
+  },
+  "behavior": {
+    "scrollFollow/side": { "progressBefore": "中 0% · 英 0%", "scrollTo": 12773, "progressAfter": "中 45% · 英 51%", "zhActive": "批评者指责这一论证循环。具体说来，有人说该论证依赖一个前提—", "enActive": "Critics have accused this argu", "enScrollTop": 17959 },
+    "scrollFollow/stack": { "scrollTo": 10119, "progressAfter": "中 45% · 英 0%", "zhActive": "对此，斯塔蒂斯·普西洛斯（Stathis Psillos，1", "enActive": "To this, Stathis Psillos (1999", "enScrollTop": 15035, "note": "英 0% 是英文栏滚动位置未变（stack 下英文由中文驱动但进度按英文栏自身滚动计）" },
+    "scrollFollow/inter": { "progressAfter": "中 45%", "note": "交错态英文块随中文流排布，不做双侧滚动驱动；进度只报中文，英文百分比已按形态隐藏" },
+    "clickJump/side": { "clicked": "一天早晨，你走进厨房，发现桌上放着一只盘子和一只", "enScrollTopBefore": 1025, "enScrollTopAfter": 1153, "enActive": "One morning you enter th", "zhSentenceMarks": 1, "enSentenceMarks": 1 },
+    "keyboard": { "j": { "active": "在哲学文献中，“溯因”（abduction）一词", "scrollY": 158 }, "k": { "active": "在哲学文献中，“溯因”（abduction）一词", "scrollY": 158, "note": "已在首段，k 无位移属预期" }, "Escape": { "bodyClass": "", "panel": false, "zhDoc": [412, 164, 688, 22505] } },
+    "closeReopen": { "closed": { "bodyClass": "", "zhDoc": [412, 164, 688, 22505] }, "reopened": { "bodyClass": "bili-mode bili-side bili-show-compare", "zhDoc": [52, 126, 508, 28641], "panel": [612, 64, 627, 696] } }
+  },
+  "entries": {
+    "a/abduction (inter)": { "zhH2": 8, "zhH3": 4, "enBlocks": 94, "enSectionBlocks": 2, "headingsAlternate": ["1 溯因：基本观念", "1. Abduction: The General", "2 阐明溯因", "2. Explicating Abduction"] },
+    "z/zhu-xi (inter)": { "enBlocks": 129, "enSectionBlocks": 5, "zhDocHeight": 68796, "overflowX": -15 }
+  }
+}

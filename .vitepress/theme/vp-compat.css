@@ -147,3 +147,81 @@ html.in-iframe .entry-banner,
 html.in-iframe .entry-meta {
   display: none !important;
 }
+
+/* ------------------------------------------ 双语比较界面布局（specs/038） -- */
+/* 同页双栏＋段间交错：中文侧让出半边或恢复全宽、英文栏内去掉站内宽度 */
+body.bili-mode .VPContent.has-sidebar {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 左右双栏：中文占左半、英文占右半，两侧同一内边距 → 等宽。
+   底栏形态（交错 / 仅中文）下不生效，正文回到常规行宽。
+   中文侧必须真的让出右半：仅放开 .container 不够，VitePress 的
+   .content-container 自带 max-width:688px + margin:auto，正文仍会居中
+   压在英文栏下面（2026-11-16 量测：中文块 x=296..944、英文栏起于 612）。
+   故外层留 50vw 右内边距，内层两层容器全部取消宽度限制。 */
+body.bili-side:not(.bili-bottombar) .VPDoc .container {
+  max-width: none;
+  margin: 0;
+}
+
+body.bili-side:not(.bili-bottombar) .VPDoc .content-container {
+  max-width: none;
+  margin: 0;
+  padding: 14px 20px 48px !important;
+}
+
+body.bili-side:not(.bili-bottombar) .vp-doc {
+  max-width: none;
+  margin: 0;
+}
+
+/* 侧栏已隐藏但 .has-aside 类还在，且 .content 自带 24px 左右内边距，
+   与 content-container 的内边距叠加后中文列左右不均（实测左 84 / 右 52）；
+   统一由 content-container 出内边距 */
+body.bili-side:not(.bili-bottombar) .VPDoc .content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+@media (min-width: 960px) {
+  body.bili-side:not(.bili-bottombar) .VPContent {
+    padding-right: 50vw !important;
+  }
+}
+
+/* 上下堆叠：英文固定下半屏，中文仍走窗口滚动；正文末尾要能滚出遮盖区，
+   否则文档最后半屏永远压在英文栏下面（2026-11-16 量测） */
+body.bili-stack.bili-mode {
+  padding-bottom: 50vh;
+}
+
+/* 上下堆叠：两侧同为 VP 内容宽（688px）居中 */
+body.bili-stack.bili-mode .vp-doc {
+  max-width: min(var(--vp-content-max-width, 688px), 100%);
+  margin: 0 auto;
+}
+
+/* 英文栏内容：注入的原文页 .vp-doc 去掉站内宽度与内边距 */
+.bili-doc .vp-doc {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* 仅英文：中文正文整体退场，英文栏独享屏幕 */
+body.bili-mode.bili-show-en .VPDoc {
+  display: none !important;
+}
+
+/* 对照态的悬停可供性与可点击光标（段落级跳转提示） */
+@media (min-width: 960px) {
+  body.bili-mode .vp-doc :is(p, h2, h3, h4, li, blockquote, table, dl):hover {
+    background: var(--vp-c-bg-soft);
+  }
+}
+
+body.bili-mode .vp-doc :is(p, h2, h3, h4, li, blockquote, pre, table, dl, .math-display) {
+  cursor: pointer;
+}

@@ -67,8 +67,16 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 ## 双语配对与侧边栏
 
 * 中英两侧 SUMMARY（`SUMMARY.md`、`yuanwen/SUMMARY.md`）各自解析为扁平条目序列，**按序号对齐**；仅当清理转义后的标题完全相等、且英文侧路径匹配 `yuanwen/*.md` 时才配对。标题不一致即跳过（结构漂移保护），不会错配。
-* 配对结果由 `transformPageData` 注入 frontmatter `enPath` / `zhPath`，供双语切换与对照 iframe 使用。
+* 配对结果由 `transformPageData` 注入 frontmatter `enPath` / `zhPath`，供双语对照面板与语言切换按钮使用（2026-11-16 起对照不再用 iframe，见下节）。
 * 中文侧边栏由 SUMMARY 的 `##` 分组与缩进生成（组内折叠）；SUMMARY 目前无 `##` 分组时段落平铺。英文侧边栏按字母目录分组（`A–Z`，取自 `yuanwen/<letter>/`）。
+
+## 中英对照界面（specs/038，2026-11-16 重做）
+
+* **同页注入，无 iframe**：`BilingualCompare.vue` 取 `enPath` 页面 HTML → `DOMParser` 取 `.vp-doc` → 注入 `.bili-doc`。注入前 `script/style/link` 剔除、`id` 加 `en-` 前缀（中英脚注锚点同名，必须隔离）、相对链接与图片按原文页 URL 解析为站内绝对路径、含 `.math-tex` 时补一次 MathJax `typesetPromise`。dev 下页面是 SPA 外壳、`fetch` 拿不到正文，组件退回隐藏同源 iframe 渲染后 `importNode`（构建态有静态 HTML，不触发该路径）。
+* **三形态**：左右（默认，英文占右半 50vw，中文让位到左半）／上下（英文固定下半屏，正文 `padding-bottom:50vh` 保证末尾能滚出遮盖区）／交错（英文块按区段逐块插到中文块后，面板收成页底固定条）。**三态**：对照／仅中文／仅英文，两种形态通用。选择写 `localStorage`（`bili-open`/`bili-layout`/`bili-show`），可用链接参数覆盖且不写回：`?bili=1&layout=side|stack|inter&show=compare|zh|en`。
+* **对齐口径**沿用 `bili-paragraph.ts` 的 `(h, b)`（标题序＋区段内块序）：中文滚动驱动英文跟随，英文滚动只更新高亮与进度（双向互驱会振荡）。点击中文段落 → 英文滚到对应段＋双侧句级高亮；划选 → 句级高亮；`j`/`k` 前后段、`Esc` 关闭。
+* **交错退化**：同区段中英块数比值 <0.5 或差 >8（参考文献、延伸阅读、致谢）整段并列，避免“251 个中文条目各配 0 个英文条目”式碎块；实测 `a/abduction` 94 块 / 2 个退化段，`z/zhu-xi` 129 块 / 5 个退化段。
+* **body 状态类**（`bili-mode`/`bili-side`/`bili-stack`/`bili-inter`/`bili-show-*`/`bili-bottombar`）只在对照真的开启时写：它们直接驱动 `vp-compat.css` 的中文让位规则，面板关闭后若残留会让正文一直缩在左半屏。
 
 ## 搜索
 
@@ -83,7 +91,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 ## 主题与字体
 
-* 入口 `.vitepress/theme/index.ts`：`extends: DefaultTheme`，槽位注入 `BilingualToggle`（`nav-bar-content-after`）、`MathTypesetter` 与 `EntryMatter`（`doc-top`）、`SepFooter`（`doc-bottom`）、`FootnoteEnhance`（`layout-bottom`），并导入 `custom.css`、`sep-theme.css`、`vp-compat.css`。
+* 入口 `.vitepress/theme/index.ts`：`extends: DefaultTheme`，槽位注入 `BilingualCompare`（`nav-bar-content-after`，对照开关＋面板本体）、`MathTypesetter` 与 `EntryMatter`（`doc-top`）、`SepFooter`（`doc-bottom`）、`FootnoteEnhance`（`layout-bottom`），并导入 `custom.css`、`sep-theme.css`、`vp-compat.css`。
 * 层内分工：视觉令牌与换皮在 `custom.css` / `sep-theme.css`；唯一引用 VitePress 内部类名的桥接层是 `vp-compat.css`（升级 VitePress 只查这一层）；组件不读 `config.mts`，只消费 frontmatter 与 `useData()`。
 * 字体全部离线自托管（`lxgw-wenkai-*-webfont` 依赖，不依赖外部 CDN）：正文与标题常规字重用 `LXGW WenKai Screen`（屏幕阅读版只有 400 一档）；标题粗体取自 `LXGW WenKai Bold`；代码用 `LXGW WenKai Mono`（内嵌英文等宽字形）。
 * 品牌色在 `custom.css` 的 `--vp-c-brand-*` 变量：浅色 `#ff0072`、深色 `#a8e6cf`。改色只改变量，组件里不要硬编码色值。

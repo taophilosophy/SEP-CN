@@ -7,10 +7,17 @@ export const BILI_HEADS = 'h2, h3'
 export const BILI_BLOCKS =
   'p, h2, h3, h4, li, blockquote, pre, table, dl, .math-display'
 
+/** 正文块集合（排除交错模式注入的英文块：它们也在 .vp-doc 内，会把块序算歪） */
+export function biliBlocks(root: Element): HTMLElement[] {
+  return Array.from(root.querySelectorAll<HTMLElement>(BILI_BLOCKS)).filter(
+    (el) => !el.closest('.bili-en-block'),
+  )
+}
+
 /** 把目标块换算成 (标题序 h, 区段内块序 b) 坐标；h=-1 表示首标题之前的导语区 */
 export function mapPoint(doc: Element, target: Element): { h: number; b: number } | null {
   const heads = Array.from(doc.querySelectorAll(BILI_HEADS))
-  const all = Array.from(doc.querySelectorAll(BILI_BLOCKS))
+  const all = biliBlocks(doc)
   const ti = all.indexOf(target)
   if (ti < 0) return null
   let h = -1
@@ -20,19 +27,94 @@ export function mapPoint(doc: Element, target: Element): { h: number; b: number 
       break
     }
   }
-  const secStart = h >= 0 ? all.indexOf(heads[h]) + 1 : 0
+  const secStart = h >= 0 ? all.indexOf(heads[h] as HTMLElement) + 1 : 0
   return { h, b: ti - secStart }
 }
 
 /** 由坐标还原对侧页面的对应块；越界时钳制到区段尾块/标题 */
 export function pointEl(doc: Element, h: number, b: number): HTMLElement | null {
   const heads = Array.from(doc.querySelectorAll(BILI_HEADS))
-  const all = Array.from(doc.querySelectorAll(BILI_BLOCKS))
+  const all = biliBlocks(doc)
   const hd = h >= 0 && h < heads.length ? (heads[h] as HTMLElement) : null
   const secStart = hd ? all.indexOf(hd) + 1 : 0
-  const next = hd && h + 1 < heads.length ? all.indexOf(heads[h + 1]) : all.length
+  const next = hd && h + 1 < heads.length ? all.indexOf(heads[h + 1] as HTMLElement) : all.length
   const sec = all.slice(Math.min(secStart, all.length), Math.max(secStart, next))
   return (sec[b] as HTMLElement) || hd || null
+}
+
+// ------------------------------------------ 区段切分与交错配对（specs/038） --
+// 同页对照需要把两侧正文切成「标题区段 + 区内块序」，与 mapPoint 同口径；
+// 交错模式下按区段配对，块数差异过大的区段（参考文献、延伸阅读等）整段并列。
+
+export type Section = { head: HTMLElement | null; blocks: HTMLElement[] }
+
+/** 按 BILI_HEADS 切区段；首元素 head=null 为导语区（对应 h=-1） */
+export function docSections(doc: Element): Section[] {
+  const out: Section[] = []
+  let cur: Section = { head: null, blocks: [] }
+  for (const el of biliBlocks(doc)) {
+    if (el.matches(BILI_HEADS)) {
+      out.push(cur)
+      cur = { head: el, blocks: [] }
+    } else {
+      cur.blocks.push(el)
+    }
+  }
+  out.push(cur)
+  return out
+}
+
+/** 给文档内每个块标注 data-bili-h / data-bili-b（注入的英文文档一次性做，供 O(1) 查表） */
+export function annotateBlocks(doc: Element): void {
+  const all = biliBlocks(doc)
+  const heads = Array.from(doc.querySelectorAll(BILI_HEADS))
+  let h = -1
+  let secStart = 0
+  all.forEach((el, ti) => {
+    if (el.matches(BILI_HEADS)) {
+      h = heads.indexOf(el)
+      secStart = ti + 1
+      el.setAttribute('data-bili-h', String(h))
+      el.setAttribute('data-bili-b', '-1')
+      return
+    }
+    el.setAttribute('data-bili-h', String(h))
+    el.setAttribute('data-bili-b', String(ti - secStart))
+  })
+}
+
+/** 按 (h, b) 取已标注的块 */
+export function blockByKey(doc: Element, h: number, b: number): HTMLElement | null {
+  return doc.querySelector<HTMLElement>(`[data-bili-h="${h}"][data-bili-b="${b}"]`)
+}
+
+/** 一条交错插入指令：把 en 块组插到 zh 块的紧后面（section=true 表示整段并列） */
+export type Insertion = { after: HTMLElement; en: HTMLElement[]; h: number; section: boolean }
+
+/** 生成交错配对计划（纯函数，不改 DOM；克隆与插入由组件执行） */
+export function interleavePlan(zh: Element, en: Element): Insertion[] {
+  const zs = docSections(zh)
+  const es = docSections(en)
+  const plan: Insertion[] = []
+  for (let i = 0; i < zs.length; i++) {
+    const z = zs[i]
+    const e = es[i]
+    const zb = z.head ? [z.head, ...z.blocks] : z.blocks
+    const eb = e ? (e.head ? [e.head, ...e.blocks] : e.blocks) : []
+    if (!zb.length || !eb.length) continue
+    const ratio = Math.min(zb.length, eb.length) / Math.max(zb.length, eb.length)
+    // 退化：块数差异过大（参考文献 251 li 对 2 块之类）→ 整段并列，避免碎块配对
+    if (ratio < 0.5 || Math.abs(zb.length - eb.length) > 8) {
+      plan.push({ after: zb[zb.length - 1], en: eb, h: i - 1, section: true })
+      continue
+    }
+    const k = Math.min(zb.length, eb.length)
+    for (let j = 0; j < k; j++) plan.push({ after: zb[j], en: [eb[j]], h: i - 1, section: false })
+    if (eb.length > zb.length) {
+      plan.push({ after: zb[zb.length - 1], en: eb.slice(zb.length), h: i - 1, section: false })
+    }
+  }
+  return plan
 }
 
 /** 点击目标是否应触发段落跳转（链接/表单/脚注按钮除外，选中文本时不触发） */
@@ -56,7 +138,7 @@ export function clickableBlock(e: MouseEvent): HTMLElement | null {
     零尺寸块（littlefoot 隐藏的脚注定义区等 display:none 子树，rect 恒为
     0,0 且 top<line 恒真）必须跳过——否则兜底分支永远选中它们（实测踩坑） */
 export function activeBlock(doc: Element): HTMLElement | null {
-  const blocks = doc.querySelectorAll<HTMLElement>(BILI_BLOCKS)
+  const blocks = biliBlocks(doc)
   if (!blocks.length) return null
   const line = window.innerHeight * 0.33
   let cur: HTMLElement | null = null
@@ -106,7 +188,7 @@ export function sentenceIndexAt(text: string, offset: number): number {
     '.vp-doc > *' 最近父解析——转换器会包 DIV 层，直接子非内容块，实测踩坑） */
 export function containingBlock(doc: Element, node: Node): HTMLElement | null {
   let best: HTMLElement | null = null
-  for (const b of doc.querySelectorAll<HTMLElement>(BILI_BLOCKS)) {
+  for (const b of biliBlocks(doc)) {
     if (b.contains(node) && (!best || best.contains(b))) best = b
   }
   return best

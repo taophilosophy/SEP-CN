@@ -612,7 +612,20 @@ export default defineConfig({
     },
   },
   transformPageData(pageData) {
-    const rel = pageData.relativePath.replace(/\\/g, '/')
+    // 本地预览时壳仓的 docs/ 是目录联接（taophilosophy.github.io/docs → 本仓），
+    // Vite 按真实路径解析后 relativePath 会变成 ../../SEP-CN/a/x.md，直接查表则
+    // 配对与版本钉全部落空（enPath 缺失 → 对照入口不出现，dev 实测踩坑）。
+    // 这里按仓库根还原成仓内相对路径；构建态（docs 为真实目录）走原值，不受影响。
+    let rel = pageData.relativePath.replace(/\\/g, '/')
+    if (rel.startsWith('../')) {
+      // relativePath 以 VitePress root（壳仓 docs）为基准，故只能按文本归一：
+      // 去掉前导 ../ 段后，若首段正是本仓目录名（SEP-CN）再剥一层。
+      const segs = rel.split('/')
+      while (segs.length && (segs[0] === '..' || segs[0] === '.')) segs.shift()
+      const base = path.basename(repoRoot)
+      if (segs[0] === base) segs.shift()
+      rel = segs.join('/')
+    }
     const src = srcByDoc[rel]
     if (src) pageData.frontmatter.srcMeta = src
     const stamp = gitStamps[rel]
