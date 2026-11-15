@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T00:10:37Z",
+  "updated_at": "2026-11-15T00:35:55Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1301,6 +1301,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Antognazza 年份重、Hirvelä 冒号空格与 doi、Cohen 逗号、Ichikawa 引号未闭与 2017-a、Gibbons/2024 出版地、Pappas 年份、Worsnip 连接号（ADR-0038 ①②）",
       "registered_at": "2026-11-15T00:10:37Z"
+    },
+    {
+      "slug": "knowledge-value",
+      "path": "en/knowledge-value/index.html",
+      "upstream_sha256": "cf4572a059a39f6c248fdbbd9ba536fae3bf1e1acccfba4bf25f52e93f12f172",
+      "local_sha256": "e846cbcc23d2c6f61b880051efd8b20b1c3611814158a7de7f304436c359eb02",
+      "bytes": {
+        "upstream": 141047,
+        "local": 140986
+      },
+      "commit": "bd54cad9c",
+      "subject": "015 偿还 knowledge-value：英文残留、73 处挂键、结构小节与书目勘误（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Carter 引号空格与逗号、Jarczewski 期刊斜体、Goldman 标点、DeRose 空格、Pritchard 连字符与句点、Turri 句点与 URL（ADR-0038 ①）",
+      "registered_at": "2026-11-15T00:35:55Z"
     }
   ],
   "tombstones": [
