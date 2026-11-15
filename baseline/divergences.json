@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T01:52:35Z",
+  "updated_at": "2026-11-15T02:01:45Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1406,6 +1406,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Soulez & → et、septième édition（ADR-0038 ②①）",
       "registered_at": "2026-11-15T01:52:35Z"
+    },
+    {
+      "slug": "olympiodorus",
+      "path": "en/olympiodorus/index.html",
+      "upstream_sha256": "779fd79c2c7e83e6eaae55d1a94ed1bf4427f3e1e0410e8f803ead5de211f680",
+      "local_sha256": "02082733f74def6758b059c225c6052e11f330f1e0cd7737a55f56a4015d92da",
+      "bytes": {
+        "upstream": 49856,
+        "local": 49857
+      },
+      "commit": "HEAD",
+      "subject": "015 偿还 olympiodorus：Opsomer 年份、拼写与译名统一（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Opsomer 2011→2010、Olymiodorus、Twi New→Two New（ADR-0038 ②①）",
+      "registered_at": "2026-11-15T02:01:45Z"
     }
   ],
   "tombstones": [
