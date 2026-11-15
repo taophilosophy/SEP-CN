@@ -1,37 +1,11 @@
-# 方法论文档索引（fang-fa-lun/）
+# fang-fa-lun/（已退役目录，2026-11-15）
 
-本目录存放 SEP-CN 翻译工程的方法论与标准文档（均不入 SUMMARY，不影响发布目录）。入口标准与文档清单如下。
+本目录原存放翻译工程方法论与标准散页。2026-11-15 归一化折叠（用户批准）后**退役**，仅留本存根说明去向：
 
-## 文档
-
-| 文件 | 内容 | 版本/状态 |
-| ---- | ---- | ---- |
-| [gong-cheng-fang-fa.md](gong-cheng-fang-fa.md) | **翻译工程标准 v1.0**：双表架构、术语四回路、三审三校质量门、任务文件 schema、缺陷分类、别名/重名处置、提交纪律、修订规则 | v1.0（2026-10-27） |
-| [zheng-fan-wu-yong-shou-ce.md](zheng-fan-wu-yong-shou-ce.md) | 日常词哲学术义与正反误用手册：一校/复审必查清单 | 持续回填 |
-| [ci-hui-biao-fu-he-bao-gao.md](ci-hui-biao-fu-he-bao-gao.md) | 词汇表复核报告：三轮复核记录（46 处修正、同步发布、全局遍历）、联网核查来源、裁定沿革 | 随复核追加 |
-
-## 配套任务文件（tasks/）
-
-| 文件 | 内容 |
+| 原文件 | 去向 |
 | ---- | ---- |
-| tasks/ci-hui-biao.json | 词汇表维护任务（2026-11-13 随发布表并网收官，ADR-0036；步骤史留档） |
-| tasks/term-candidates.json | 原文术语候选清单（55 条，建议译法待裁定） |
-| tasks/<slug>.json | 各词条翻译任务（schema 见标准 S4） |
+| gong-cheng-fang-fa.md（翻译工程标准 v1.1） | 活条款并入 `rules/03-terminology.md`（分档裁定、别名与重名处置）、`rules/06-governance.md`（提交纪律细节）、`rules/07-academic-norms.md`（缺陷分类 A–D）；历史冻结版存 `rules/reference/gong-cheng-fang-fa.md` |
+| zheng-fan-wu-yong-shou-ce.md（正反误用手册） | 全文收编 `rules/03-terminology.md`"正反误用手册"节（持续回填） |
+| ci-hui-biao-fu-he-bao-gao.md（词汇表复核报告） | 历史存档 `rules/reference/ci-hui-biao-fu-he-bao-gao.md`（词汇表已随 ADR-0036 退役） |
 
-## 本地工具（script/，不入库）
-
-| 工具 | 用途 |
-| ---- | ---- |
-| check_all.py | **一键质量门**：glossary_lint + mu-lu-s 检测 + tasks JSON 合法性 + markdownlint（豁免清单见标准 S7） |
-| glossary_lint.py | 词汇表有效性检查 v2（极端情况兼容 + 登记簿同步检查） |
-| publish_terms.py | 术语批量发布：裁定 manifest 定位插入双表（标准 S2 分档裁定的执行工具） |
-| extract_terms.py | 原文术语五路提取（yuanwen/ + en/ 语料） |
-| fix_table_style.py | 表格紧凑化（MD060），批量修复前先单文件验证 diff |
-| check_mulu_s.py | mu-lu-s.md 对应性检测（只检测不改动） |
-
-## 相关文档
-
-* `specs/001-sep-sync-pipeline/`：抓取/更新/比较/翻译管线规格（FR-001 起），他会话维护，本目录与其引用对齐。
-* `shu-yu-biao.md`：术语登记册（单一事实源；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`）。
-* `ren-ming-biao.md`：人名登记册（ADR-0012）。
-* `qian-yan/ci-hui-biao.md`：词汇表发布表（2026-11-13 并网删除，ADR-0036）。
+配套任务 `tasks/ci-hui-biao.json`（步骤史留档）、`tasks/term-candidates.json` 仍在 `tasks/`；目录角色见 `rules/01-repository-structure.md` 与 `rules/README.md` 规则地图。

@@ -35,7 +35,7 @@
 本仓库常有多个 AI 会话/人工同时工作，纪律如下：
 
 1. **提交前核对 HEAD**：`git log --oneline -3` + `git status`，确认基点未变；基点变了先 `git diff HEAD` 重放自己的改动。
-2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。
+2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。一律 `git commit --no-gpg-sign`（本机无 GPG 签名配置，2026-11-15 自散页《翻译工程标准》S8 折叠收编）。
 3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `python tools/sync_guard.py pull`（含 fetch+rebase+判弃自检，ADR-0028）再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。
 4. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
 5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。

@@ -17,7 +17,7 @@
 | 要做什么 | 先读 |
 | ---- | ---- |
 | 收到新指令、需求含糊 | `rules/08-intent-first.md`：先复述目标、非目标与验收判据，再选手段；含糊先问不猜 |
-| 翻译、校对词条 | `rules/04-translation-workflow.md`（任务先行，状态机禁跳步）、`rules/02-style.md`、`rules/03-terminology.md`、`rules/07-academic-norms.md`；工程标准见 `fang-fa-lun/gong-cheng-fang-fa.md` |
+| 翻译、校对词条 | `rules/04-translation-workflow.md`（任务先行，状态机禁跳步）、`rules/02-style.md`、`rules/03-terminology.md`（含正反误用手册）、`rules/07-academic-norms.md`（含缺陷分类 A–D） |
 | 改目录、标题、结构 | `rules/01-repository-structure.md`：`SUMMARY.md` 唯一数据源；词条为 `<letter>/<slug>.md`（ADR-0009）；`mu-lu-s.md` 为手编分类目录 |
 | 接入新词条、更新任务 | `specs/001-sep-sync-pipeline/contracts/cli.md` 职责权属表：`apply-add` 唯一入口；`compare` 产出变更文件后转 update 任务 |
 | 提交、用工具、CI | `rules/05-ci-and-tools.md` |

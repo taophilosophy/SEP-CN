@@ -132,3 +132,8 @@
   * 现状：状态分布 pending 621／cleared 162／s2.5_checked 230／done 183；回炉件工序＝source-audit 补 s0 → s2.4/s2.5 增项（specs/028 §4 六项＋面⑦，凭证随 s3 evidence）→ s3 → r1–r3 全重走；done 存量逐件回退后续按字头滚动
   * 顺带：revert-done-batch 基线 writer 漏 newline='\n' 触发 CRLF 警告，行尾 LF 化修正；check_all 11 项全绿，未推送提交清零
   * 用户追认口径为"done 置空"：先行批外其余 183 件 done（b–z 字头）随即全量回退（rollback-done-rest-*），183/183 成功 0 失败；done 归零、回炉池齐平 413，PROGRESS 在途 575；specs/028 §0-bis 执行注记同步
+* 2026.11.15 归一化三项（用户批准）：散页标准折叠＋tools 清退＋script/ 清点
+  * 项1 散页折叠：fang-fa-lun/ 退役——正反误用手册全文与分档裁定、别名重名处置入 rules/03，缺陷分类 A–D 入 rules/07，--no-gpg-sign 细节入 rules/06；gong-cheng-fang-fa.md（v1.1 冻结版）与 ci-hui-biao-fu-he-bao-gao.md（历史报告）迁 rules/reference/ 加冻结头；zheng-fan-wu-yong-shou-ce.md 内容收编后 git rm；退役存根 README 留 ADR 历史链接。指针补正八处：AGENTS 必读表、rules/01 结构表、rules/README 规则地图、specs/004 S5 引用×2、specs/005 翻译模板×4、tasks/README manifests 语义、specs/025/027 规范依据；活引用回查干净（残余仅为 ADR 历史文、工具扫描清单、退役存根自身）
+  * 项2 tools 清退：_assemble_cordemoy.py（自述用完即删）与 fix_emphasis_spacing.py（一次性 ADR-0019 配套件）零外部引用核实后 git rm，本地副本留 script/
+  * 项3 script/ 清点：两日期化审计目录 2,859 件移入 script/_archive-20261115/（specs/007 已载工具与结论、无活引用）；__pycache__ 清理；清点清单 script/_inventory-2026-11-15.md——顶层 1,795 py 逐类过筛无新增可复用件（通用逻辑已沉淀 tools），后续按战役闭案分批归档，015 活跃面保护；工作区迁移重置 mtime，时间戳不作陈旧判据
+  * 复核：check_all 11 项全绿；提交推送清零

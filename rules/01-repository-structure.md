@@ -21,7 +21,7 @@
 | `tools/` | 管线与治理脚本（Python，仅标准库） | 是 |
 | `.github/` | CI 工作流与 lint 配置 | 是 |
 | `.vitepress/` | 本地双语阅读站：配置、主题、构建期准备脚本；构建细节见其 `README.md`（实现说明，非规则） | 是 |
-| `fang-fa-lun/` | 翻译工程方法论与标准散页（**待逐步折叠进 rules/**，折叠前以规则地图登记为准） | 是 |
+| `fang-fa-lun/` | **已退役**（2026-11-15 归一化折叠：活条款入 rules/03/06/07，历史版本存 `rules/reference/`；仅存退役存根 README，ADR 历史链接保留） | 是 |
 | `jian-yi-shu/` | 分类目录核查建议书等一次性交付物（不入 SUMMARY） | 是 |
 | `en/`、`script/`、`state/` | 英文原始抓取 HTML、本地草稿脚本、管线本地运行态 | 否（gitignore） |
 

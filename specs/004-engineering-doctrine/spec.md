@@ -97,7 +97,7 @@
 
 ### 四方分类对照表（IEEE 1044-2009 对齐，2026-11-14 标准对齐落地）
 
-库内并存三套缺陷/异常分类（ADR-0020 问题分级、fang-fa-lun S5 缺陷分类、本表 R1-R5 成因），另引 MQM 维度——按 IEEE 1044「统一异常分类词汇」要求，映射关系固定如下，后续会话按此表跨体系换算，禁止再造第四套：
+库内并存三套缺陷/异常分类（ADR-0020 问题分级、rules/07 缺陷分类 A–D〔原 fang-fa-lun S5，2026-11-15 收编〕、本表 R1-R5 成因），另引 MQM 维度——按 IEEE 1044「统一异常分类词汇」要求，映射关系固定如下，后续会话按此表跨体系换算，禁止再造第四套：
 
 | IEEE 1044 要素 | 本库对应 | 说明 |
 | ---- | ---- | ---- |
@@ -105,6 +105,6 @@
 | status / disposition（open/closed/fix/deferred） | 任务 state 机 + blockers + 台账行 | 写入路径追责由 actor/evidence 承载 |
 | **severity（强制）** | ADR-0020：Critical（改变立场/事实错误/术语反用）/ Major（破句/漏译/成语误用）/ Minor（措辞/标点） | Critical 不得带入 done（行规先例：校对质疑直改权分离） |
 | priority | 处置顺序＝影响面 × 作废维度（S5 A 事实性 > B 术语性 > C 语言性 > D 格式性） | 隐式分级，登记行内排序表达 |
-| category（requirements/design/implementation/documentation…） | fang-fa-lun S5：A 事实性 / B 术语性 / C 语言性 / D 格式性 | 检查器映射：A→check_academic、B→check_terms、C→check_prose、D→check_style/tables_images |
+| category（requirements/design/implementation/documentation…） | rules/07 缺陷分类 A–D（原 fang-fa-lun S5）：A 事实性 / B 术语性 / C 语言性 / D 格式性 | 检查器映射：A→check_academic、B→check_terms、C→check_prose、D→check_style/tables_images |
 | **root cause** | R1 验收维度缺口 / R2 手段先行 / R3 基准漂移 / R4 写入路径脱核 / R5 证据推演 | 本表四元组第 3 列 |
 | MQM 维（译文质量口径） | Accuracy→s1；Fluency+Style→s2；Terminology+Locale→s3；Design→audited；Audience appropriateness（v1 Verity）→r1-r3；Compliance→rules/07 | MQM 2.0 七维；Mistranslation 含 MT hallucination 子类（AI 幻觉审计的正式名目） |

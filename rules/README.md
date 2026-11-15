@@ -38,7 +38,7 @@
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
 | 执行记录 | `specs/<NNN>-*/execution-log.md`（超限按 ADR-0004 拆为 `execution-log/index.md`；+ demo-log、分析记录） | 干执行凭证与流程修订输入 | 该工程会话 |
-| 散页标准 | `fang-fa-lun/gong-cheng-fang-fa.md`（翻译工程标准 v1.0）等 | 各会话产出的操作性标准，**待逐步折叠进 rules/**，折叠前以本表登记为准 | 原产出会话 |
+| 散页标准 | ~~`fang-fa-lun/`~~ **已折叠收编（2026-11-15）**：正反误用手册与分档裁定、别名重名 → [03](03-terminology.md)；缺陷分类 A–D → [07](07-academic-norms.md)；提交纪律细节 → [06](06-governance.md)；历史冻结版存 `rules/reference/`；`fang-fa-lun/` 退役留存根 | 治理会话 |
 | 任务状态 | `tasks/<slug>.json` | 翻译/更新任务 | 对应会话 |
 | 进度汇总 | `PROGRESS.md`（生成物，不手改） | `tools/progress.py` 输出 | 管线 |
 

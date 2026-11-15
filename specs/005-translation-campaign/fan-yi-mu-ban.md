@@ -1,6 +1,6 @@
 # SEP 词条统一翻译模板
 
-**版本**：v1.0（2026-10-28）｜**效力**：specs/005 审阅战役的操作模板，对全部 retranslate/update 词条任务生效；体例细则以 `rules/02-style.md` 为准，任务流程以 `rules/04-translation-workflow.md` 为准，术语以 `fang-fa-lun/gong-cheng-fang-fa.md` S1–S2 为准。冲突时规则 > 本模板；本模板不得与规则冲突。
+**版本**：v1.0（2026-10-28）｜**效力**：specs/005 审阅战役的操作模板，对全部 retranslate/update 词条任务生效；体例细则以 `rules/02-style.md` 为准，任务流程以 `rules/04-translation-workflow.md` 为准，术语以 `rules/03-terminology.md` 为准（2026-11-15 散页标准折叠收编，原 S1–S2 已并入）。冲突时规则 > 本模板；本模板不得与规则冲突。
 
 **依据**（零信任，可回溯）：① `baseline/entries.json` 全部 1878 条 SEP 真实页面的结构实测（2026-10-28，统计见 §1）；② 已过一校的演示词条 `a/alcmaeon.md`（任务 `tasks/a/alcmaeon.json`，state=s1_checked）；③ `yuanwen/` 逐字符镜像库的转换约定（`tools/yuanwen.py`，2026-10-28 全量复审计零缺陷）。SEP 官方作者手册在线路径不可达（/manual/ 404，礼貌抓取两试即止），页面结构以本地原始物实测为准——比手册更可靠，因为它就是 1878 条真实页面本身。
 
@@ -55,7 +55,7 @@ zh 侧译文按**同样的章节序**逐节对位翻译（便于逐节核销）�
 ## 3. 全局纪律（引用既有规则，不重复展开）
 
 1. **零信任**：底稿只用 `en/<slug>/index.html`（原始物）；可疑处回源核对；版本钉入任务 JSON（version_pin：pubinfo 日期 + 存档版 + SHA-256）。
-2. **术语先行**：新术语先登记 `shu-yu-biao.md` 再进正文（fang-fa-lun S2）；正文用词与登记簿 grep 一致。
+2. **术语先行**：新术语先登记 `shu-yu-biao.md` 再进正文（rules/03 术语治理）；正文用词与登记簿 grep 一致。
 3. **体例**：中文弯引号、中西文半角空格、禁止 HTML、禁止直角引号——`tools/check_style.py` 0 问题（rules/02 全条款适用）。
 4. **脚注键与文件名逐字符一致**：zh 侧 `[^note-N]`、`<slug>.<x>.md`、图片文件名与 yuanwen 完全一致——这是双库对照审校与管线挂链接的基础。
 5. **不译区**：引用组人名年份、参考文献非中文条目、LaTeX、URL、代码、DK/古代作品编号。
@@ -143,7 +143,7 @@ $$<展示公式，LaTeX 逐字符保留>$$
 | 模板元素 | 检查钩子 |
 | ---- | ---- |
 | 全文体例（引号/空格/禁 HTML） | `tools/check_style.py --docs <路径> --strict` |
-| 术语一致性 | `tools/check_terms.py` + 登记簿 grep（fang-fa-lun S3 三校） |
+| 术语一致性 | `tools/check_terms.py` + 登记簿 grep（rules/04 三校） |
 | 学术规范挂钩 | `tools/check_academic.py --docs <路径> --strict` |
 | 数学定界符 | `tools/check_math.py <slug>` |
 | 图片引用可解析、无悬空 | `check-images.yml`（CI）+ yuanwen 审计脚本 |
@@ -237,7 +237,7 @@ segments:
 ## 7. 演示与修订
 
 * 本模板 v1.0 由 alcmaeon（一校通过）验证主体骨架；**spacetime-holearg（空穴论证）为四要素演示件**（2026-10-28，任务 state=s3_checked）：图片（`../yuanwen/assets/` 路径裁定**首跑确认**）、脚注（note-1..8 含跨文件孤儿豁免）、数学（`$$…$$` 配对 0 缺失）、表格元素中图/脚注/数学三类已实跑验证，表格类元素仍待首个含表词条确认。演示发现的问题按 rules/04"演示与纠偏循环"回修本模板。
-* 修订记录追加于此表（同 fang-fa-lun S10 纪律，git 历史为准）：
+* 修订记录追加于此表（同 rules/06 修订纪律，git 历史为准）：
 
 | 版本 | 日期 | 要点 |
 | ---- | ---- | ---- |
