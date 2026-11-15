@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T02:04:16Z",
+  "updated_at": "2026-11-15T02:30:47Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1436,6 +1436,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Benjamin Peirce 三子补姓氏 Peirce（ADR-0038 ②）",
       "registered_at": "2026-11-15T02:04:16Z"
+    },
+    {
+      "slug": "scholem",
+      "path": "en/scholem/index.html",
+      "upstream_sha256": "09918371bd58aaed65d8e2da76c2f37ca205e1ec913ccde5100f11e2b657a850",
+      "local_sha256": "b05846f878bc9be44a8694087303db5dd97072f58141993e7489cd2497670fc3",
+      "bytes": {
+        "upstream": 67625,
+        "local": 67633
+      },
+      "commit": "dd498d7ac",
+      "subject": "015 偿还 scholem：§6 二十余处挂键、Wohlfarth 与 ms 年份、Stanford 书名（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Wohlfarth 姓氏、ms 出版年、zadoff 标点（ADR-0038 ①）",
+      "registered_at": "2026-11-15T02:30:47Z"
     }
   ],
   "tombstones": [
