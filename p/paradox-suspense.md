@@ -12,7 +12,7 @@
 
 ## 1 悬念悖论
 
-认知心理学家 Ortony、Clore 与 Collins 提出过一种有用的悬念理论，我们可称之为标准说明。他们认为，悬念由恐惧、希望与“不确定性这一认知状态”构成（131）。他们把恐惧定义为对不可欲事件之前景的不快感受，把希望定义为对可欲事件之前景的愉悦感受。按标准说明，人会同时恐惧坏结局、希望好结局，并对哪一种结局将要发生感到不确定，此时便感到悬念。现实生活中，夜里走过陌生而据说危险的街区，我们可能就会感到悬念：怕遭抢劫，盼平安无事，又不确定究竟会发生什么。
+认知心理学家 Ortony、Clore 与 Collins 提出过一种有用的悬念理论，我们可称之为标准说明。他们认为，悬念由恐惧、希望与“不确定性这一认知状态”构成（131）[^ortony-1998]。他们把恐惧定义为对不可欲事件之前景的不快感受，把希望定义为对可欲事件之前景的愉悦感受。按标准说明，人会同时恐惧坏结局、希望好结局，并对哪一种结局将要发生感到不确定，此时便感到悬念。现实生活中，夜里走过陌生而据说危险的街区，我们可能就会感到悬念：怕遭抢劫，盼平安无事，又不确定究竟会发生什么。
 
 Ortony、Clore 与 Collins 认为，恐惧与希望属于“预期情绪”，取决于预期结局——即事件尚未确定的结局——的可欲性与可能性。危险程度越高、结局越不可欲或越可能，恐惧便越强。比如我害怕遭攻击，若预期中的攻击更不可欲，我会更害怕：在可能性相同的情况下，挨刀捅肚子，或被人用装满橙子的枕套抽打躯干，总比仅挨一顿拳打更令人恐惧。同样，我越相信某个不可欲结局可能发生，就越恐惧它。希望则相反：结局越可欲、越可能，我们越充满希望。
 
@@ -42,7 +42,7 @@ Carroll 的思想理论似乎说明了为何对熟悉叙事也能感到悬念，
 
 ## 3 悬念的欲望受挫论
 
-Aaron Smuts 捍卫悬念的欲望受挫论：挫败一种想要影响迫近事件之结局的欲望，对于制造悬念既必要又充分。Carroll 只是修正第一条主张，Smuts 则直接否认不确定性为悬念所必需（Smuts 2008）[^smuts-2008]。他援引《惊魂记》这类例子——反复接触反而更悬念——以及《冰峰 168 小时》（*Touching the Void*，2004）这类历史重演片——观众初看之前便知结局——来支持“不确定性并非悬念所必需”。
+Aaron Smuts 捍卫悬念的欲望受挫论：挫败一种想要影响迫近事件之结局的欲望，对于制造悬念既必要又充分。Carroll 只是修正第一条主张，Smuts 则直接否认不确定性为悬念所必需（Smuts 2008）[^smuts-2008]。他援引《惊魂记》这类例子——反复接触反而更悬念——以及《触及巅峰》（*Touching the Void*，2003）这类历史重演片——观众初看之前便知结局——来支持“不确定性并非悬念所必需”。
 
 Smuts 主张，一切悬念叙事、现实生活中的一切悬念情境，都含有某些因素，部分地阻挠人满足欲望的能力，使人的效力悬置。他还主张，即便利害很大，只要人正在积极争取某个可欲结局，就不会有悬念。对于“虚构为何极善于制造悬念”以及“知道结局时对虚构的悬念如何可能”，Smuts 的解释是：投入现实情境时，我们可以积极设法满足欲望；投入虚构时，我们却完全无能为力。
 
@@ -50,9 +50,9 @@ Smuts 指出，我们无力影响虚构，这一点我们时常自知，悬念�
 
 欲望受挫论至少留下两个重要问题。第一，悬念事件为何必须迫近？这一要素论述不足，使人怀疑该理论是否真的充分。辩护者或许会答：这取决于我们欲望的方式——近处事件引发的反应远强于远处事件。但就现状而言，这一说明仍不完整。
 
-第二，人可能在某种情境中感到悬念，却未必愿意承认自己有相应的欲望；若如此，挫败欲望便不是悬念的必要条件。比如《迈克尔·克莱顿》（*Michael Clayton*，2008）：两名受雇杀害主角的打手试图在他车载收音机里装追踪器，还没装完，Michael 就朝车子走回来。这场戏悬念极强，可被挫败的是什么欲望？我不记得自己想警告 Michael。难道是希望打手神不知鬼不觉地得手？那太奇怪了。观众为何想看到安装完成？说不通，因为我们的同情显然在 Michael 这边，不在追杀者那边。可要说我们想动手阻止安装，似乎也不像。
+第二，人可能在某种情境中感到悬念，却未必愿意承认自己有相应的欲望；若如此，挫败欲望便不是悬念的必要条件。比如《迈克尔·克莱顿》（*Michael Clayton*，2007）：两名受雇杀害主角的打手试图在他车载收音机里装追踪器，还没装完，Michael 就朝车子走回来。这场戏悬念极强，可被挫败的是什么欲望？我不记得自己想警告 Michael。难道是希望打手神不知鬼不觉地得手？那太奇怪了。观众为何想看到安装完成？说不通，因为我们的同情显然在 Michael 这边，不在追杀者那边。可要说我们想动手阻止安装，似乎也不像。
 
-人们对欲望受挫论还有一个担忧：想要改变虚构世界的欲望，必然无法满足。因此它属于反常欲望，显得古怪得令人难以置信（Uidhir 2011a, 2011b）。换个角度看，这类欲望也可以理解为“愿望”。比如我后悔过去某个举动，说我但愿能改变过去，是讲得通的——这是很常见的一种欲望，尽管无法满足。
+人们对欲望受挫论还有一个担忧：想要改变虚构世界的欲望，必然无法满足。因此它属于反常欲望，显得古怪得令人难以置信（Uidhir 2011a, 2011b）[^mag-2011a][^mag-2011b]。换个角度看，这类欲望也可以理解为“愿望”。比如我后悔过去某个举动，说我但愿能改变过去，是讲得通的——这是很常见的一种欲望，尽管无法满足。
 
 ## 4 逐刻遗忘
 
@@ -107,14 +107,14 @@ Yanal 等人何以认为“悬念需要不确定性”毋庸置疑？这需要�
 [^carroll-2001]: Carroll, Noël, 2001, “The Paradox of Suspense”, in *Beyond Aesthetics*, Cambridge: Cambridge University Press.
 [^carroll-1984]: –––, 1984, “Toward a Theory of Film Suspense”, *Persistence of Vision*, 1: 65–89.
 [^carroll-1990]: –––, 1990, *The Philosophy of Horror; or, Paradoxes of the Heart*, New York: Routledge.
-[^gerrig-1997]: Gerrig, Richard, 1997, “Is there a Paradox of Suspense? A Reply to Yanal”, *British Journal of Aesthetics*, 37: 168–174
+[^gerrig-1997]: Gerrig, Richard, 1997, “Is there a Paradox of Suspense? A Reply to Yanal”, *British Journal of Aesthetics*, 37: 168–174.
 [^gerrig-1993]: –––, 1993, *Experiencing Narrative Worlds*, New Haven, CT: Yale University Press.
 [^gerrig-1989]: –––, 1989, “Reexperiencing Fiction and Non-Fiction”, *The Journal of Aesthetics and Art Criticism*, 47: 277–80
-[^mag-2011a]: Mag Uidhir, Christy, 2011a, “An eliminativist theory of suspense” *Philosophy and Literature*, 35(1): 121–133.
-[^mag-2011b]: –––, 2011b, “The Paradox of Suspense Realism” *Journal of Aesthetics and Art Criticism*, 69(2): 161–171.
+[^mag-2011a]: Mag Uidhir, Christy, 2011a, “An eliminativist theory of suspense”, *Philosophy and Literature*, 35(1): 121–133.
+[^mag-2011b]: –––, 2011b, “The Paradox of Suspense Realism”, *Journal of Aesthetics and Art Criticism*, 69(2): 161–171.
 [^ortony-1998]: Ortony, Andrew, Gerald L. Clore, and Allan Collins, 1998, *The Cognitive Structure of Emotions*, Cambridge: Cambridge University Press.
-[^smuts-2008]: Smuts, Aaron, 2008, “The Desire-Frustration Theory of Suspense” *The Journal of Aesthetics and Art Criticism*, 66 (3): 281–291.
-[^smuts-2004]: Smuts, Aaron and Jonathan Frome, 2004, “Helpless Spectators: Generating Suspense in Videogames and Film”, *Text Technology*, 13(1): 13–34
+[^smuts-2008]: Smuts, Aaron, 2008, “The Desire-Frustration Theory of Suspense”, *The Journal of Aesthetics and Art Criticism*, 66 (3): 281–291.
+[^smuts-2004]: Smuts, Aaron and Jonathan Frome, 2004, “Helpless Spectators: Generating Suspense in Videogames and Film”, *Text Technology*, 13(1): 13–34.
 [^walton-1990]: Walton, Kendall, 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, MA: Harvard University Press.
 [^yanal-1999]: Yanal, Robert, 1999, *Paradoxes of Emotion and Fiction*, State College, PA: Penn State University Press.
 [^yanal-1996]: –––, 1996, “The Paradox of Suspense”, *British Journal of Aesthetics*, 36: 146–158.
@@ -128,7 +128,7 @@ Yanal 等人何以认为“悬念需要不确定性”毋庸置疑？这需要�
 
 ## 其他网络资源
 
-[欢迎向作者提出建议。]
+[Please contact the author with suggestions.]
 
 ## 相关词条
 

@@ -43,7 +43,7 @@ However, if we trust the phenomenology, if we trust audience members’ accounts
 
 ## 3. The Desire-Frustration Theory of Suspense
 
-Aaron Smuts defends the desire-frustration theory of suspense, which holds that the frustration of a desire to affect the outcome of an immanent event is both necessary and sufficient to create suspense. Whereas Carroll revises the first claim, Smuts simply denies that uncertainty is necessary for suspense (Smuts 2008)[^smuts-2008]. Smuts appeals to examples such as *Psycho*—which are more suspenseful on repeated to encounters—and historical re-enactments such as *Touching the Void* (2004)—where the audience knows the outcome before the first viewing—to support the claim that uncertainty is unnecessary for suspense.
+Aaron Smuts defends the desire-frustration theory of suspense, which holds that the frustration of a desire to affect the outcome of an immanent event is both necessary and sufficient to create suspense. Whereas Carroll revises the first claim, Smuts simply denies that uncertainty is necessary for suspense (Smuts 2008)[^smuts-2008]. Smuts appeals to examples such as *Psycho*—which are more suspenseful on repeated encounters—and historical re-enactments such as *Touching the Void* (2003)—where the audience knows the outcome before the first viewing—to support the claim that uncertainty is unnecessary for suspense.
 
 Smuts argues that in all suspenseful narratives and in all suspenseful situations in real life we find factors that partially frustrate one’s ability to satisfy a desire, factors that suspend one’s efficacy. He argues that even when the stakes are high, if one is actively working towards the realization of a desired outcome, there can be no suspense. Smuts’ explanation of why fictions are extremely effective at creating suspense and how suspense in response to fictions is possible when we know the outcome is this: In contrast with our engagement with real situations, where we can actively work towards the satisfaction of a desire, in engaging with fictions we are completely powerless.
 
@@ -51,7 +51,7 @@ Smuts notes that our inability to affect fictions is something we are often awar
 
 There are at least two important questions unanswered by the desire-frustration theory. First, why do suspenseful events need to be imminent? This element of the theory is under-developed, raising doubts about its claims to sufficiency. The defender of the desire-frustration theory might be able to reply that this is merely a function of the way we desire—near events provoke much stronger responses than those that are distant. But, as it stands, the account is incomplete.
 
-Second, one can feel suspense in response to situations where one might not readily consent to having a desire. If so, the frustration of a desire would not be necessary for suspense. For instance, in *Michael Clayton* (2008) the two thugs hired to kill the protagonist try to install a tracking device in his car radio. Before they can finish, Michael starts walking back to his car. The scene is incredibly suspenseful, but what desire is frustrated? I cannot recall desiring to warn Michael. Is it the desire to see the thugs get away unnoticed? That would be odd. It is not clear why audiences would desire to see the installation complete, since our sympathies certainly lie with Michael and not his pursuers. But neither does it seem that we want to do something to stop the installation of the tracking device.
+Second, one can feel suspense in response to situations where one might not readily consent to having a desire. If so, the frustration of a desire would not be necessary for suspense. For instance, in *Michael Clayton* (2007) the two thugs hired to kill the protagonist try to install a tracking device in his car radio. Before they can finish, Michael starts walking back to his car. The scene is incredibly suspenseful, but what desire is frustrated? I cannot recall desiring to warn Michael. Is it the desire to see the thugs get away unnoticed? That would be odd. It is not clear why audiences would desire to see the installation complete, since our sympathies certainly lie with Michael and not his pursuers. But neither does it seem that we want to do something to stop the installation of the tracking device.
 
 An additional worry that has been raised for the desire frustration theory is that the desire to change a fictional world is a desire that necessarily can’t be satisfied. As such it is a deviant desire that may be seen as implausibly weird (Uidhir 2011a, 2011b). On the other hand, such desires may be thought of as “wishes”. For instance, if I regret some past action, it is plausible to say that I wish I could change the past. It is a common sort of desire, even though it can’t be satisfied.
 
@@ -125,21 +125,21 @@ desire | emotion | film, philosophy of
 
 [^carroll-1990]: –––, 1990, *The Philosophy of Horror; or, Paradoxes of the Heart*, New York: Routledge.
 
-[^gerrig-1997]: Gerrig, Richard, 1997, “Is there a Paradox of Suspense? A Reply to Yanal”, *British Journal of Aesthetics*, 37: 168–174
+[^gerrig-1997]: Gerrig, Richard, 1997, “Is there a Paradox of Suspense? A Reply to Yanal”, *British Journal of Aesthetics*, 37: 168–174.
 
 [^gerrig-1993]: –––, 1993, *Experiencing Narrative Worlds*, New Haven, CT: Yale University Press.
 
 [^gerrig-1989]: –––, 1989, “Reexperiencing Fiction and Non-Fiction”, *The Journal of Aesthetics and Art Criticism*, 47: 277–80
 
-[^mag-2011a]: Mag Uidhir, Christy, 2011a, “An eliminativist theory of suspense” *Philosophy and Literature*, 35(1): 121–133.
+[^mag-2011a]: Mag Uidhir, Christy, 2011a, “An eliminativist theory of suspense”, *Philosophy and Literature*, 35(1): 121–133.
 
-[^mag-2011b]: –––, 2011b, “The Paradox of Suspense Realism” *Journal of Aesthetics and Art Criticism*, 69(2): 161–171.
+[^mag-2011b]: –––, 2011b, “The Paradox of Suspense Realism”, *Journal of Aesthetics and Art Criticism*, 69(2): 161–171.
 
 [^ortony-1998]: Ortony, Andrew, Gerald L. Clore, and Allan Collins, 1998, *The Cognitive Structure of Emotions*, Cambridge: Cambridge University Press.
 
-[^smuts-2008]: Smuts, Aaron, 2008, “The Desire-Frustration Theory of Suspense” *The Journal of Aesthetics and Art Criticism*, 66 (3): 281–291.
+[^smuts-2008]: Smuts, Aaron, 2008, “The Desire-Frustration Theory of Suspense”, *The Journal of Aesthetics and Art Criticism*, 66 (3): 281–291.
 
-[^smuts-2004]: Smuts, Aaron and Jonathan Frome, 2004, “Helpless Spectators: Generating Suspense in Videogames and Film”, *Text Technology*, 13(1): 13–34
+[^smuts-2004]: Smuts, Aaron and Jonathan Frome, 2004, “Helpless Spectators: Generating Suspense in Videogames and Film”, *Text Technology*, 13(1): 13–34.
 
 [^walton-1990]: Walton, Kendall, 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, MA: Harvard University Press.
 

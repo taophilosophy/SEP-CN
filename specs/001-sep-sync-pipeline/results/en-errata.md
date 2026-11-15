@@ -422,3 +422,8 @@
 | simon-faversham | tiné-1996 `…Middle Ages</em>. <em>Proceedings…` 斜体断裂 | 合并 | 体例（①） |
 | simon-faversham | pinborg-1967 `Münster, Aschendorff.` | `Münster: Aschendorff.` | 体例（①） |
 | simon-faversham | ebbesen-1986 `13<sup>th</sup>` 上标字符 | `13th` | 体例（①） |
+| paradox-suspense | `more suspenseful on repeated to encounters` | `repeated encounters` | 衍字（①） |
+| paradox-suspense | `<i>Touching the Void</i> (2004)` | `(2003)` | 上映年份误（②；影片 2003 年上映） |
+| paradox-suspense | `<i>Michael Clayton</i> (2008)` | `(2007)` | 上映年份误（②；影片 2007 年上映） |
+| paradox-suspense | gerrig-1997／smuts-2004 条末缺句点 | 补句点 | 标点（①） |
+| paradox-suspense | mag-2011a／mag-2011b／smuts-2008 题名后缺逗号 | 补逗号 | 标点（①） |
