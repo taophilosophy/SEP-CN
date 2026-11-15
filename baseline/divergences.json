@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T00:49:27Z",
+  "updated_at": "2026-11-15T01:16:56Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1331,6 +1331,36 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：PRactice/Cambrdige/Phyiscs/Houskeeper、Bradie 姓名年份、4th Symposium、101: 791、Aristotle’s Biology×2、逗号空格×3、引号空格×2、Stein 2021 句点、Judson 双标点、Furley ’s（ADR-0038 ①）",
       "registered_at": "2026-11-15T00:49:27Z"
+    },
+    {
+      "slug": "binarium",
+      "path": "en/binarium/index.html",
+      "upstream_sha256": "c0494a7ba7c25f8e00253afee0db1d802dea16a49eb2cb4c64605b807506505d",
+      "local_sha256": "a62760302505993cd7fe68dc282859cf01d7e964ef7c56780442b459b37d6476",
+      "bytes": {
+        "upstream": 41362,
+        "local": 41361
+      },
+      "commit": "b2f15dbf4",
+      "subject": "015 偿还 binarium：proporitionem、Institut supérieur 与条末逗号（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Institut supérieure→supérieur（ADR-0038 ①）",
+      "registered_at": "2026-11-15T01:16:55Z"
+    },
+    {
+      "slug": "binarium",
+      "path": "en/binarium/notes.html",
+      "upstream_sha256": "8592f548b5b72eff6e9bcc113ffa5f6911c101eaf988bbb59197215f92b27f50",
+      "local_sha256": "2abe9d9612fa7882f9b4927af1945475fca4a1de46d2aa3d7af7207bd9c1fb41",
+      "bytes": {
+        "upstream": 22844,
+        "local": 22843
+      },
+      "commit": "b2f15dbf4",
+      "subject": "015 偿还 binarium：proporitionem、Institut supérieur 与条末逗号（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Baur 拉丁文 proporitionem→proportionem（ADR-0038 ①）",
+      "registered_at": "2026-11-15T01:16:56Z"
     }
   ],
   "tombstones": [
