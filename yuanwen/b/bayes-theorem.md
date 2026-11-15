@@ -238,7 +238,7 @@ The third view, "likelihoodism," is popular among non-Bayesian statisticians. It
 
 > All the information which the data provide concerning the relative merits of two hypotheses is contained in the likelihood ratio of the hypotheses on the data. (Edwards 1972, 30)[^edwards-1972]
 >
-> The ‘evidential meaning’ of experimental results is characterized fully by the likelihood function… Reports of experimental results in scientific journals should in principle be descriptions of likelihood functions. (Brinbaum 1962, 272)
+> The ‘evidential meaning’ of experimental results is characterized fully by the likelihood function… Reports of experimental results in scientific journals should in principle be descriptions of likelihood functions. (Birnbaum 1962, 272)[^birnbaum-1962]
 
 On this view, everything that can be said about the evidential import of *E* for *H* is embodied in the following generalization of the weak likelihood principle:
 
@@ -359,7 +359,7 @@ epistemology: Bayesian | probability, interpretations of
 
 ## Notes（原文脚注）
 
-[^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probabilty is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955)[^renyi-1955], (Harper, 1976)[^harper-1976], (Sphon, 1986)[^sphon-1986], (Hammond, 1994)[^hammond-1994], (McGee, 1994)[^mcgee-1994] and (Joyce 1999, 201-213)[^joyce-1999].
+[^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probability is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955)[^renyi-1955], (Harper, 1976)[^harper-1976], (Spohn, 1986)[^spohn-1986], (Hammond, 1994)[^hammond-1994], (McGee, 1994)[^mcgee-1994] and (Joyce 1999, 201-213)[^joyce-1999].
 
 [^note-2]: **P***_{E}* must be a real-valued function, bounded between zero and one, that satisfies:
 
@@ -382,7 +382,7 @@ epistemology: Bayesian | probability, interpretations of
 
 [^note-10]: On a pure subjectivist conception, a person's total evidence for a hypothesis derives from her own "subjective" views about the intrinsic plausibilities of propositions and from information she acquires via learning. The person begins with a subjective probability **P**₀ that encapsulates her "prior" judgments about the plausibilities of propositions (or, more accurately, her initial epistemic prejudices). She subsequently revises these probabilities in light of experience, thereby incorporating new information into her doxastic system. Her subjective probabilities at any time are thus the result of augmenting her "prior" opinions about the intuitive plausibilities of propositions with information acquired via learning. While some subjecivists speak as if each person starts her epistemic life with a kind of "ur-prior" that captures the state of her opinions before any empirical information comes it, such talk is misleading. Talk of "prior" and "posterior" probabilities only makes sense relative to a specific prospective sequence of learning experiences. The "prior" is nothing more than the probability function that reflects the person's beliefs, however arrived at, before learning commences. As Elliot Sober puts it, "the prior probability is properly so called, not because it is *a priori* (it is not), but because it is in place prior to taking the new evidence into account." (Sober 2002, 24)[^sober-2002]. Some probabilists, less inclined to subjective approaches, adopt less permissive conceptions of evidence. See, for example, (Williamson 2000, 184-208)[^williamson-2000] and (Maher 1996)[^maher-1996].
 
-[^note-11]: For a thorough survey of the literature in this area, with penetrating commentary, see Fitelson 2001, chapters 1 and 2, a link to which can be found in the Other Internet Resources section of this entry. Other functions have been proposed as measures of evidential support as well, among them **P**(*H* & *E*) − **P**(*H*)**P**(*E*) see (Carnap 1962, 360)[^carnap-1962], **P**_{*H*}(*E*) − **P**_{~*H*}(*E*) see (Nozick 1981, 252)[^nozick-1981], and **P**_{*H*}(*E*) − **P**(*E*) see (Halina 1988), and **P**_{*E*}(*H*) − **P**_{~*E*}(*H*) see (Joyce 1999)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. As Fitelson shows, none of these measures satisfies the second clause of (2.1), which means than none captures the notion of *incremental* evidnece we are after.
+[^note-11]: For a thorough survey of the literature in this area, with penetrating commentary, see Fitelson 2001, chapters 1 and 2, a link to which can be found in the Other Internet Resources section of this entry. Other functions have been proposed as measures of evidential support as well, among them **P**(*H* & *E*) − **P**(*H*)**P**(*E*) see (Carnap 1962, 360)[^carnap-1962], **P**_{*H*}(*E*) − **P**_{~*H*}(*E*) see (Nozick 1981, 252)[^nozick-1981], and **P**_{*H*}(*E*) − **P**(*E*) see (Mortimer 1988)[^mortimer-1988], and **P**_{*E*}(*H*) − **P**_{~*E*}(*H*) see (Joyce 1999)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. As Fitelson shows, none of these measures satisfies the second clause of (2.1), which means than none captures the notion of *incremental* evidnece we are after.
 
 [^note-12]: While the term "effective evidence" is not standard, the idea that the disparity between **P**_{*E*}(*H*) and **P**_{~*E*}(*H*) captures an important evidential relationship is defended in (Joyce 1999, 203-213)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. Both authors argue that this measure helps Bayesians circumvent the so-called "old evidence" problem described in (Glymour 1980)[^glymour-1980].
 
@@ -404,7 +404,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^armendt-1980]: Armendt, B. 1980. "Is There a Dutch Book Argument for Probability Kinematics?", *Philosophy of Science* **47**, 583-588.
 
-[^bayes-1764]: Bayes, T. 1764. "An Essay Toward Solving a Problem in the Doctrine of Chances", *Philosophical Transactions of the Royal Society of London* **53**, 370-418. [[Fascimile available online](https://web.archive.org/web/20190126111142/http://www.stat.ucla.edu/history/essay.pdf): the original essay with an introduction by his friend Richard Price]
+[^bayes-1764]: Bayes, T. 1764. "An Essay Toward Solving a Problem in the Doctrine of Chances", *Philosophical Transactions of the Royal Society of London* **53**, 370-418. [[Facsimile available online](https://web.archive.org/web/20190126111142/http://www.stat.ucla.edu/history/essay.pdf): the original essay with an introduction by his friend Richard Price]
 
 [^birnbaum-1962]: Birnbaum A. 1962. "On the Foundations of Statistical Inference", *Journal of the American Statistical Association* **53**, 259-326.
 
@@ -428,7 +428,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^hájek-2003]: Hájek, A. 2003. "Interpretations of the Probability Calculus", in the *Stanford Encyclopedia of Philosophy*, (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/](https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/)>
 
-[^hammond-1994]: Hammond, P. 1994. "Elementary non-Archimedean Representations for of Probability for Decision Theory and Games," in P. Humphreys, ed., *Patrick Suppes: Scientific Philosopher, vol. 1*., Dordrecht: Kluwer Publishers, 25-62.
+[^hammond-1994]: Hammond, P. 1994. "Elementary non-Archimedean Representations of Probability for Decision Theory and Games," in P. Humphreys, ed., *Patrick Suppes: Scientific Philosopher, vol. 1*., Dordrecht: Kluwer Publishers, 25-62.
 
 [^harper-1976]: Harper, W. 1976. "Rational Belief Change, Popper Functions and Counterfactuals," in W. Harper and C. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science, vol. I*. Dordrecht: Reidel, 73-115.
 
@@ -456,7 +456,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^nozick-1981]: Nozick, R. 1981. *Philosophical Explanations*. Cambridge: Harvard University Press.
 
-[^renyi-1955]: Renyi, A. 1955. "On a New Axiomatic Theory of Probability", *Acta Mathematica Academiae Scientiarium Hungaricae* **6**, 285-335.
+[^renyi-1955]: Renyi, A. 1955. "On a New Axiomatic Theory of Probability", *Acta Mathematica Academiae Scientiarum Hungaricae* **6**, 285-335.
 
 [^royall-1997]: Royall, R. 1997. *Statistical Evidence: A Likelihood Paradigm*. New York: Chapman & Hall/CRC.
 
@@ -464,7 +464,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^sober-2002]: Sober, E. 2002. "Bayesianism — its Scope and Limits", in Swinburne (2002), 21-38.
 
-[^sphon-1986]: Sphon, W. 1986. "The Representation of Popper Measures", *Topoi* **5**, 69-74.
+[^spohn-1986]: Spohn, W. 1986. "The Representation of Popper Measures", *Topoi* **5**, 69-74.
 
 [^stigler-1982]: Stigler, S. M. 1982. "Thomas Bayes' Bayesian Inference", *Journal of the Royal Statistical Society, series A* **145**, 250-258.
 

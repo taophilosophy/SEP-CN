@@ -1,8 +1,8 @@
 # 贝叶斯定理 Bayes’ Theorem (James Joyce)
 
-> *首次发表于 2003 年 6 月 28 日；2003 年 9 月 30 日实质修订。*
+*首次发表于 2003 年 6 月 28 日；2003 年 9 月 30 日实质修订。*
 
-贝叶斯定理是用于计算条件概率的一个简单数学公式。它在 **主观主义** 或 **贝叶斯主义** 的认识论、统计学与归纳逻辑进路中地位显要。主观主义者主张合理信念受概率定律支配，在 其证据理论与经验学习模型中大量倚重条件概率。贝叶斯定理对这些事业而言居于中心，既因为它简化了条件概率的计算，也因为它澄清了主观主义立场的若干重要特征。的确，该定理的核心洞见——一个假说被任何一组数据所确证，只要该假说之真使这组数据变得概然——是全部主观主义方法论的基石。
+贝叶斯定理是用于计算条件概率的一个简单数学公式。它在 **主观主义** 或 **贝叶斯主义** 的认识论、统计学与归纳逻辑进路中地位显要。主观主义者主张合理信念受概率定律支配，在其证据理论与经验学习模型中大量倚重条件概率。贝叶斯定理对这些事业而言居于中心，既因为它简化了条件概率的计算，也因为它澄清了主观主义立场的若干重要特征。的确，该定理的核心洞见——一个假说被任何一组数据所确证，只要该假说之真使这组数据变得概然——是全部主观主义方法论的基石。
 
 ## 1 条件概率与贝叶斯定理
 
@@ -29,7 +29,7 @@
 
 统计学家把逆概率 P_{*H*}(*E*) 称作 *H* 在 *E* 上的“似然”——这是一个不幸、但如今已无从避免的术语选择。它表达的是：在编码于概率 P 中的背景信息之下，该假说 **预测** 该数据的程度。
 
-在上面讨论的例子里，J. Doe 死于 2000 年这一条件，是老年人身份的相当强的预测因子。的确，等式 P_{*H*}(*E*) = 0.57 告诉我们：该年全部死亡者中的 57% 是老年人。贝叶斯定理让我们能用这一信息来计算“给定 J. Doe 是老年人时其死亡”的“直接”概率。做法是：用“预测项”P_{*H*}(*E*) 乘以全人口死亡总数对人口中老年人数之比，P(*H*)/P(*E*) = 2.4M/16.6M = 0.144。结果是 P_{*E*}(*H*) = 0.57 × 0.144 = 0.082，正合所期。
+在上面讨论的例子里，J. Doe 死于 2000 年这一条件，是老年人身份的相当强的预测因子。的确，等式 P_{*H*}(*E*) = 0.57 告诉我们：该年全部死亡者中的 57% 是老年人。贝叶斯定理让我们能用这一信息来计算“给定 J. Doe 是老年人时其死亡”的“直接”概率。做法是：用“预测项” P_{*H*}(*E*) 乘以全人口死亡总数对人口中老年人数之比，P(*H*)/P(*E*) = 2.4M/16.6M = 0.144。结果是 P_{*E*}(*H*) = 0.57 × 0.144 = 0.082，正合所期。
 
 虽是数学上的平淡事实，贝叶斯定理在计算条件概率方面极具价值，因为逆概率通常既比直接概率更易确定，又比它更少主观性。对 *E* 与 *H* 的无条件概率持不同看法的人，常常在“*E* 作为 *H* 之指标的价值”上意见相左。即便如此，只要他们知道以下任何一项主体间可得的事实，他们就能就“假说预测数据的程度”达成一致：（a）给定 *H* 时 *E* 的 **客观** 概率；（b）若 *H* 为真，类似 *E* 的事件发生的频率；或（c）*H* 逻辑地衍推 *E* 这一事实。科学家常常如此设计实验，使似然得以按这些“客观”方式之一而被知晓。于是，贝叶斯定理保证：关于实验结果之意义的任何争论，都可被追溯到关于 *H* 与 *E* 之无条件概率的“主观”分歧。
 
@@ -237,7 +237,7 @@
 
 > 数据所提供的、关于两个假说之相对优劣的全部信息，都包含在这两个假说在该数据上的似然比之中。（Edwards 1972, 30）[^edwards-1972]
 >
-> 实验结果的“证据意义”由似然函数充分刻画……科学期刊上的实验结果报告，原则上应当是对似然函数的描述。（Brinbaum 1962, 272）
+> 实验结果的“证据意义”由似然函数充分刻画……科学期刊上的实验结果报告，原则上应当是对似然函数的描述。（Birnbaum 1962, 272）[^birnbaum-1962]
 
 按这一看法，关于 *E* 对 *H* 的证据意涵所能说的一切，都体现在弱似然原则的下述推广之中：
 
@@ -340,7 +340,7 @@
 
 ## 脚注
 
-[^note-1]: 虽然可以把条件概率当作基本的，甚至可以理解对概率为零的事件取条件的情形，此处我们仍坚持标准定义。凡出现 P*_{E}* 处，均假定 *E* 的概率为正。关于广义条件概率的讨论与有用的参考文献，见（Renyi, 1955）、（Harper, 1976）、（Sphon, 1986）、（Hammond, 1994）、（McGee, 1994）与（Joyce 1999, 201-213）[^joyce-1999]。
+[^note-1]: 虽然可以把条件概率当作基本的，甚至可以理解对概率为零的事件取条件的情形，此处我们仍坚持标准定义。凡出现 P*_{E}* 处，均假定 *E* 的概率为正。关于广义条件概率的讨论与有用的参考文献，见（Renyi, 1955）[^renyi-1955]、（Harper, 1976）[^harper-1976]、（Spohn, 1986）[^sphon-1986]、（Hammond, 1994）[^hammond-1994]、（McGee, 1994）[^mcgee-1994]与（Joyce 1999, 201-213）[^joyce-1999]。
 
 [^note-2]: P_{*E*} 必须是一个实值函数，有界于零与一之间，且满足：
 
@@ -353,7 +353,7 @@
 
 [^note-5]: 关于主观主义的一份出色的总论，见本《百科全书》的“概率的诸种解释”词条。
 
-[^note-6]: 当一个人关于 *H* 的意见不够确定、无法用单一数字度量时，她的信念状态由一族概率函数表示。关于不确定信念状态的有益讨论，见（Levi, 1985）、（Jeffrey, 1987）与（Kaplan 1996, pp. 23-31）[^kaplan-1996]。
+[^note-6]: 当一个人关于 *H* 的意见不够确定、无法用单一数字度量时，她的信念状态由一族概率函数表示。关于不确定信念状态的有益讨论，见（Levi, 1985）[^levi-1985]、（Jeffrey, 1987）[^jeffrey-1992] 与（Kaplan 1996, pp. 23-31）[^kaplan-1996]。
 
 [^note-7]: 即便一个人对 *H* & *E* 与 *E* 都没有确定的主观概率，她仍可以对“*H* 相对于 *E*”拥有确定的主观概率。统计证据常常只为条件概率的赋值提供理据，而不提供关于底层无条件概率的任何信息。例如，仔细研读精算表也许使我确信：给定我在五十几岁时严重心脏病发作，我活过八十岁的机会在 0.04 与 0.02 之间；但同一张表可能完全不提供我将在五十几岁严重心脏病发作的机会的信息，从而不提供我活到八十岁的无条件机会的信息。
 
@@ -363,7 +363,7 @@
 
 [^note-10]: 按纯主观主义的构想，一个人对某假说的总证据，来源于她自己对诸命题内在概然性的“主观”看法，以及她经由学习而获得的信息。这个人从主观概率 P₀ 出发——它浓缩了她关于诸命题概然性的“先”判断（更准确地说，是她初始的认识偏见）。她随后依经验修订这些概率，从而把新信息纳入其信念系统。因此，她在任一时刻的主观概率，都是“用经由学习而获得的信息增补其关于诸命题直觉概然性的先在意见”的结果。虽然一些主观主义者说得仿佛每个人都从某种“元先验”开始其认识生涯——它捕捉任何经验信息到来之前其意见的状态——这类谈论有误导性。“先验”与“后验”概率的谈论，只有相对于一个特定的、预期中的学习经验序列才有意义。“先验”不过是反映该人在学习开始之前的信念（无论其如何获得）的那个概率函数。正如埃利奥特·索伯（Elliot Sober）所说：“先验概率之所以得名如此，不是因为它是 *a priori*（它不是），而是因为它在把新证据纳入考量之前就在位。”（Sober 2002, 24）[^sober-2002]。一些不那么倾向于主观进路的概率论者，采纳较不宽松的证据构想。例如见（Williamson 2000, 184-208）[^williamson-2000]与（Maher 1996）[^maher-1996]。
 
-[^note-11]: 关于这一领域文献的详尽综述与深入评注，见 Fitelson 2001 第一、二章，链接见本词条“其他网络资源”一节。此外还有其他函数被提议为证据支持的度量，其中包括 P(*H* & *E*) − P(*H*)P(*E*)（见 Carnap 1962, 360）[^carnap-1962]、P_{*H*}(*E*) − P_{~*H*}(*E*)（见 Nozick 1981, 252）[^nozick-1981]、P_{*H*}(*E*) − P(*E*)（见 Halina 1988），以及 P_{*E*}(*H*) − P_{~*E*}(*H*)（见 Joyce 1999）[^joyce-1999]与（Christensen 1999）[^christensen-1999]。正如菲特尔森所示，这些度量没有一个满足（2.1）的第二分句，这意味着没有一个捕捉到我们所追求的 **增量** 证据概念。
+[^note-11]: 关于这一领域文献的详尽综述与深入评注，见 Fitelson 2001 第一、二章，链接见本词条“其他网络资源”一节。此外还有其他函数被提议为证据支持的度量，其中包括 P(*H* & *E*) − P(*H*)P(*E*)（见 Carnap 1962, 360）[^carnap-1962]、P_{*H*}(*E*) − P_{~*H*}(*E*)（见 Nozick 1981, 252）[^nozick-1981]、P_{*H*}(*E*) − P(*E*)（见 Mortimer 1988）[^mortimer-1988]，以及 P_{*E*}(*H*) − P_{~*E*}(*H*)（见 Joyce 1999）[^joyce-1999]与（Christensen 1999）[^christensen-1999]。正如菲特尔森所示，这些度量没有一个满足（2.1）的第二分句，这意味着没有一个捕捉到我们所追求的 **增量** 证据概念。
 
 [^note-12]: 虽然“有效证据”一词并非标准术语，但“P_{*E*}(*H*) 与 P_{~*E*}(*H*) 之间的差距捕捉了一种重要的证据关系”这一观念，在（Joyce 1999, 203-213）[^joyce-1999]与（Christensen 1999）[^christensen-1999]中得到辩护。两位作者都论证：这一度量帮助贝叶斯主义者绕开（Glymour 1980）[^glymour-1980]所描述的所谓“旧证据”问题。
 
@@ -381,24 +381,24 @@
 
 [^note-15]: 对这一立场的清晰表述，见（Royall 1997, 8-11）[^royall-1997]。
 
-[^note-16]: 例如见（Teller 1976）[^teller-1976]、（Armendt 1980）[^armendt-1980]、（Skyrms 1987）[^skyrms-1987]与（van Fraassen 1999）。
+[^note-16]: 例如见（Teller 1976）[^teller-1976]、（Armendt 1980）[^armendt-1980]、（Skyrms 1987）[^skyrms-1987]与（van Fraassen 1999）[^van-1999]。
 
 
-[^armendt-1980]: Armendt, B. 1980. "Is There a Dutch Book Argument for Probability Kinematics?", *Philosophy of Science* 47, 583-588.
+[^armendt-1980]: Armendt, B. 1980. “Is There a Dutch Book Argument for Probability Kinematics?”, *Philosophy of Science* 47, 583-588.
 
-[^bayes-1764]: Bayes, T. 1764. "An Essay Toward Solving a Problem in the Doctrine of Chances", *Philosophical Transactions of the Royal Society of London* 53, 370-418. [[Fascimile available online](https://web.archive.org/web/20190126111142/http://www.stat.ucla.edu/history/essay.pdf): the original essay with an introduction by his friend Richard Price]
+[^bayes-1764]: Bayes, T. 1764. “An Essay Toward Solving a Problem in the Doctrine of Chances”, *Philosophical Transactions of the Royal Society of London* 53, 370-418. [[Facsimile available online](https://web.archive.org/web/20190126111142/http://www.stat.ucla.edu/history/essay.pdf): the original essay with an introduction by his friend Richard Price]
 
-[^birnbaum-1962]: Birnbaum A. 1962. "On the Foundations of Statistical Inference", *Journal of the American Statistical Association* 53, 259-326.
+[^birnbaum-1962]: Birnbaum A. 1962. “On the Foundations of Statistical Inference”, *Journal of the American Statistical Association* 53, 259-326.
 
 [^carnap-1962]: Carnap, R. 1962. *Logical Foundations of Probability*, 2nd edition. Chicago: University of Chicago Press.
 
-[^chihara-1987]: Chihara, C. 1987. "Some Problems for Bayesian Confirmation Theory", *British Journal for the Philosophy of Science* 38, 551-560.
+[^chihara-1987]: Chihara, C. 1987. “Some Problems for Bayesian Confirmation Theory”, *British Journal for the Philosophy of Science* 38, 551-560.
 
-[^christensen-1999]: Christensen, D. 1999. "Measuring Evidence", *Journal of Philosophy* 96, 437-61.
+[^christensen-1999]: Christensen, D. 1999. “Measuring Evidence”, *Journal of Philosophy* 96, 437-61.
 
-[^dale-1989]: Dale, A. I. 1989. "Thomas Bayes: A Memorial", *The Mathematical Intelligencer* 11, 18-19.
+[^dale-1989]: Dale, A. I. 1989. “Thomas Bayes: A Memorial”, *The Mathematical Intelligencer* 11, 18-19.
 
-[^dale-1999]: ----- 1999. *A History of Inverse Probability*, 2nd edition. New York: Springer-Verlag.
+[^dale-1999]: ––– 1999. *A History of Inverse Probability*, 2nd edition. New York: Springer-Verlag.
 
 [^earman-1992]: Earman, J. 1992. *Bayes or Bust?* Cambridge, MA: MIT Press.
 
@@ -408,57 +408,57 @@
 
 [^hacking-1965]: Hacking, Ian. 1965. *Logic of Statistical Inference*. Cambridge: Cambridge University Press.
 
-[^hájek-2003]: Hájek, A. 2003. "Interpretations of the Probability Calculus", in the *Stanford Encyclopedia of Philosophy*, (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/](https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/)>
+[^hájek-2003]: Hájek, A. 2003. “Interpretations of the Probability Calculus”, in the *Stanford Encyclopedia of Philosophy*, (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/](https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/)>
 
-[^hammond-1994]: Hammond, P. 1994. "Elementary non-Archimedean Representations for of Probability for Decision Theory and Games," in P. Humphreys, ed., *Patrick Suppes: Scientific Philosopher, vol. 1*., Dordrecht: Kluwer Publishers, 25-62.
+[^hammond-1994]: Hammond, P. 1994. “Elementary non-Archimedean Representations of Probability for Decision Theory and Games,” in P. Humphreys, ed., *Patrick Suppes: Scientific Philosopher, vol. 1*., Dordrecht: Kluwer Publishers, 25-62.
 
-[^harper-1976]: Harper, W. 1976. "Rational Belief Change, Popper Functions and Counterfactuals," in W. Harper and C. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science, vol. I*. Dordrecht: Reidel, 73-115.
+[^harper-1976]: Harper, W. 1976. “Rational Belief Change, Popper Functions and Counterfactuals,” in W. Harper and C. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science, vol. I*. Dordrecht: Reidel, 73-115.
 
 [^hartigan-1983]: Hartigan, J. A. 1983. *Bayes Theory*. New York: Springer-Verlag.
 
-[^howson-1985]: Howson, Colin. 1985. "Some Recent Objections to the Bayesian Theory of Support", *British Journal for the Philosophy of Science*, 36, 305-309.
+[^howson-1985]: Howson, Colin. 1985. “Some Recent Objections to the Bayesian Theory of Support”, *British Journal for the Philosophy of Science*, 36, 305-309.
 
-[^jeffrey-1987]: Jeffrey, R. 1987. "Alias Smith and Jones: The Testimony of the Senses", *Erkenntnis* 26, 391-399.
+[^jeffrey-1987]: Jeffrey, R. 1987. “Alias Smith and Jones: The Testimony of the Senses”, *Erkenntnis* 26, 391-399.
 
-[^jeffrey-1992]: ----- 1992. *Probability and the Art of Judgment*. New York: Cambridge University Press.
+[^jeffrey-1992]: ––– 1992. *Probability and the Art of Judgment*. New York: Cambridge University Press.
 
 [^joyce-1999]: Joyce, J. M. 1999. *The Foundations of Causal Decision Theory*. New York: Cambridge University Press.
 
-[^kahneman-1973]: Kahneman, D. and Tversky, A. 1973. "On the psychology of prediction", *Psychological Review* 80, 237-251.
+[^kahneman-1973]: Kahneman, D. and Tversky, A. 1973. “On the psychology of prediction”, *Psychological Review* 80, 237-251.
 
 [^kaplan-1996]: Kaplan, M. 1996. *Decision Theory as Philosophy*. Cambridge: Cambridge University Press.
 
-[^levi-1985]: Levi, I. 1985. "Imprecision and Indeterminacy in Probability Judgment", *Philosophy of Science* 53, 390-409.
+[^levi-1985]: Levi, I. 1985. “Imprecision and Indeterminacy in Probability Judgment”, *Philosophy of Science* 53, 390-409.
 
-[^maher-1996]: Maher, P. 1996. "Subjective and Objective Confirmation", *Philosophy of Science* 63, 149-174.
+[^maher-1996]: Maher, P. 1996. “Subjective and Objective Confirmation”, *Philosophy of Science* 63, 149-174.
 
-[^mcgee-1994]: McGee, V. 1994. "Learning the Impossible," in E. Eells and B. Skyrms, eds., *Probability and Conditionals*. New York: Cambridge University Press, 179-200.
+[^mcgee-1994]: McGee, V. 1994. “Learning the Impossible,” in E. Eells and B. Skyrms, eds., *Probability and Conditionals*. New York: Cambridge University Press, 179-200.
 
 [^mortimer-1988]: Mortimer, Halina. 1988. *The logic of induction*, Ellis Horwood Series in Artificial Intelligence, New York; Halsted Press.
 
 [^nozick-1981]: Nozick, R. 1981. *Philosophical Explanations*. Cambridge: Harvard University Press.
 
-[^renyi-1955]: Renyi, A. 1955. "On a New Axiomatic Theory of Probability", *Acta Mathematica Academiae Scientiarium Hungaricae* 6, 285-335.
+[^renyi-1955]: Renyi, A. 1955. “On a New Axiomatic Theory of Probability”, *Acta Mathematica Academiae Scientiarum Hungaricae* 6, 285-335.
 
 [^royall-1997]: Royall, R. 1997. *Statistical Evidence: A Likelihood Paradigm*. New York: Chapman & Hall/CRC.
 
-[^skyrms-1987]: Skyrms, B. 1987. "Dynamic Coherence and Probability Kinematics". *Philosophy of Science* 54, 1-20.
+[^skyrms-1987]: Skyrms, B. 1987. “Dynamic Coherence and Probability Kinematics”. *Philosophy of Science* 54, 1-20.
 
-[^sober-2002]: Sober, E. 2002. "Bayesianism — its Scope and Limits", in Swinburne (2002), 21-38.
+[^sober-2002]: Sober, E. 2002. “Bayesianism — its Scope and Limits”, in Swinburne (2002), 21-38.
 
-[^sphon-1986]: Sphon, W. 1986. "The Representation of Popper Measures", *Topoi* 5, 69-74.
+[^sphon-1986]: Spohn, W. 1986. “The Representation of Popper Measures”, *Topoi* 5, 69-74.
 
-[^stigler-1982]: Stigler, S. M. 1982. "Thomas Bayes' Bayesian Inference", *Journal of the Royal Statistical Society, series A* 145, 250-258.
+[^stigler-1982]: Stigler, S. M. 1982. “Thomas Bayes' Bayesian Inference”, *Journal of the Royal Statistical Society, series A* 145, 250-258.
 
 [^swinburne-2002]: Swinburne, R. 2002. *Bayes' Theorem*. Oxford: Oxford University Press (published for the British Academy).
 
-[^talbot-2001]: Talbot, W. 2001. "Bayesian Epistemology", *Stanford Encyclopedia of Philosophy* (Fall 2001 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/)>
+[^talbot-2001]: Talbot, W. 2001. “Bayesian Epistemology”, *Stanford Encyclopedia of Philosophy* (Fall 2001 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/)>
 
-[^teller-1976]: Teller, P. 1976. "Conditionalization, Observation, and Change of Preference", in W. Harper and C.A. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*. Dordrecht: D. Reidel.
+[^teller-1976]: Teller, P. 1976. “Conditionalization, Observation, and Change of Preference”, in W. Harper and C.A. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*. Dordrecht: D. Reidel.
 
 [^williamson-2000]: Williamson, T. 2000. *Knowledge and its Limits*. Oxford: Oxford University Press.
 
-[^van-1999]: Van Fraassen, B. 1999. "A New Argument for Conditionalization". *Topoi* 18, 93-96.
+[^van-1999]: Van Fraassen, B. 1999. “A New Argument for Conditionalization”. *Topoi* 18, 93-96.
 
 ## 学术工具
 

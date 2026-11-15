@@ -342,3 +342,10 @@
 | environmental-aesthetics | zangwill-2005b `Revista di Estetica,</em>` | 逗号移出斜体 | 体例（①） |
 | environmental-aesthetics | hill-2007 书目作 2007，正文引 Hill & Daniel 2008（21(1): 34–49 即 2008 年卷） | 书目改 2008 | 正文书目矛盾（②） |
 | environmental-aesthetics | 正文 Hanich 2023，书目 hanich-2024（28(2), 2024） | 正文改 2024 | 正文书目矛盾（②） |
+| bayes-theorem | 正文 `(Brinbaum 1962, 272)` | `(Birnbaum 1962, 272)` | 姓氏拼写（①） |
+| bayes-theorem | 书目 `Sphon, W.`、注 1 `(Sphon, 1986)` | `Spohn` | 姓氏拼写（①） |
+| bayes-theorem | 注 11 `(Halina 1988)` 以名代姓 | `(Mortimer 1988)` | 作者为 Halina Mortimer（②） |
+| bayes-theorem | renyi-1955 `Scientiarium` | `Scientiarum` | 拼写（①） |
+| bayes-theorem | bayes-1764 链接文字 `Fascimile` | `Facsimile` | 拼写（①） |
+| bayes-theorem | hammond-1994 `Representations for of Probability` | `Representations of Probability` | 衍字（①） |
+| bayes-theorem | 注 1 `probabilty` | `probability` | 拼写（①） |
