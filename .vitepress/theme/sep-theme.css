@@ -87,6 +87,12 @@ html.dark body {
   background: var(--vp-c-bg-alt);
   color: var(--vp-c-text-2);
   font-size: 13.5px;
+  /* 色带铺满：SepFooter 挂在 doc-bottom（正文列内），背景只覆盖正文宽度，
+     左右与页底会露出 --vp-c-bg。用 box-shadow 向左右与下方各溢出 100vmax
+     再用 clip-path 裁掉上方溢出，色带即横贯视口并直落页底；shadow 与
+     clip-path 都不参与布局，不产生横向滚动、不改元素尺寸。 */
+  box-shadow: 0 0 0 100vmax var(--vp-c-bg-alt);
+  clip-path: inset(0 -100vmax -100vmax);
 }
 
 .sep-footer-inner {

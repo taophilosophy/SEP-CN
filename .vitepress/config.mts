@@ -15,8 +15,10 @@ const isBuild = process.argv.includes('build')
 // SEP_SHARD=ad|ek|lp|qz：四片按字母区间均衡切分（2026-11-16 依实际页数定界：
 // a–d 1165、e–k 1050、l–p 1196、q–z 915 页，中英两侧合并计），每片产物写
 // .vitepress/dist-<shard>，由 .vitepress/merge-shards.mjs 合并 dist、并集
-// hashmap.json、拼 sitemap 并跑一次 pagefind。分片模式关闭死链检查（跨片链接必然
-// “缺失”），链接完整性由不设 SEP_SHARD 的全量构建负责。
+// hashmap.json、拼 sitemap 并跑一次 pagefind。
+// **死链检查在分片模式照常开启**：跨片链接在本片的 pages 里必然“缺失”，但只
+// 要它指向的是本站真实存在的页面就豁免（collectPageLinks 扫全仓生成页面集，
+// 与构建无关）。页面在全站都不存在时依旧硬失败——检查强度与全量构建一致。
 // 根级页面与 1/、qian-yan 等非字母目录只进第一片（ad）。
 const SHARD_LETTERS: Record<string, string> = {
   ad: 'abcd',
@@ -320,6 +322,67 @@ const pendingSupplementPages = [
   'spacetime-holearg.leibniz-equivalence',
 ]
 
+// 站点页面范围的基础清单（srcExclude 的非分片部分）。分片构建的排除面另见上方
+// shardExclude：这里只描述“哪些文件不是站点页面”，与分片无关，故分片模式的死链
+// 判定可以直接复用它扫全仓（见 collectSitePages）。
+const siteExclude = [
+  'en/**',
+  'specs/**',
+  '.specify/**',
+  'tools/**',
+  'tasks/**',
+  'baseline/**',
+  'script/**',
+  'state/**',
+  'rules/**',
+  '.github/**',
+  '.zcode/**',
+  '.qoder/**',
+  'AGENTS.md',
+  'CONTRIBUTING.md',
+  'CODE_OF_CONDUCT.md',
+  'yuanwen/SUMMARY.md',
+  'yuanwen/SUMMARY-en.md',
+]
+
+// 分片模式的死链检查（2026-11-16 用户裁定：必须打开）。
+// 分片的 pages 只含本片页面，跨片链接在本片必然“缺失”；这里按与构建相同的排除
+// 规则扫全仓 md 得到“全站页面集”，凡指向其中任一页面的链接豁免，全站都不存在的
+// 链接照旧按死链硬失败——检查强度与全量构建一致。只扫文件系统、不产出页面。
+const sitePages: Set<string> = (() => {
+  if (!isShard) return new Set<string>()
+  const skipDirs = new Set(['.git', 'node_modules', 'public'])
+  const skipFileRels = new Set(siteExclude.filter((e) => !e.endsWith('/**')))
+  const skipDirRels = new Set(siteExclude.filter((e) => e.endsWith('/**')).map((e) => e.slice(0, -3)))
+  const pages = new Set<string>()
+  const walk = (dir: string) => {
+    for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (ent.isDirectory()) {
+        const rel = path.relative(repoRoot, path.join(dir, ent.name)).split(path.sep).join('/')
+        if (skipDirs.has(ent.name) || skipDirRels.has(rel) || ent.name.startsWith('.')) continue
+        walk(path.join(dir, ent.name))
+      } else if (ent.name.endsWith('.md')) {
+        const rel = path.relative(repoRoot, path.join(dir, ent.name)).split(path.sep).join('/')
+        if (!skipFileRels.has(rel)) pages.add(rel.replace(/\.md$/, ''))
+      }
+    }
+  }
+  walk(repoRoot)
+  return pages
+})()
+
+// 与 VitePress 内部同口径解析链接（去查询串/锚点与 .md、.html 后缀，目录补 index，
+// 相对链接按引用文件所在目录解析），再查全站页面集。
+function isExistingSitePage(url: string, fileOrig: string): boolean {
+  if (!isShard) return false
+  const clean = url.replace(/[?#].*$/, '').replace(/\.(html|md)$/, '')
+  const withIndex = clean.endsWith('/') ? `${clean}index` : clean
+  const resolved = withIndex.startsWith('/')
+    ? withIndex.slice(1)
+    : path.relative(repoRoot, path.resolve(path.dirname(fileOrig), withIndex))
+  return sitePages.has(resolved.split(path.sep).join('/'))
+}
+
 export default defineConfig({
   lang: 'zh-CN',
   title: 'SEP 中文版',
@@ -331,17 +394,17 @@ export default defineConfig({
   // 收敛规则：每落地一个 <letter>/<slug>.<x>.md 译文，即从 pendingSupplementPages 删除对应一条；
   // 清空后删除本配置项，恢复零豁免。
   // VitePress shouldIgnoreDeadLink 传入的 url 带 ./ 前缀且已去 .md 后缀，故统一加前缀。
-  // 分片构建下跨片链接必然"缺失"，故分片模式整体放行（见上方 SEP_SHARD 说明）。
-  ignoreDeadLinks: isShard
-    ? true
-    : [
-        ...pendingSupplementPages.map((s) => `./${s}`),
-        // 英文原文镜像中的受限量词记号被 markdown-it 误判为链接；ADR-0007 要求原文逐字符一致，不改源。
-        './Unmarried(*x*,*w*)',
-        './Unmarried',
-        './*Gx*',
-        './f',
-      ],
+  // 分片构建下跨片链接必然“缺失”：靠数组末尾的 isExistingSitePage 豁免指向全站
+  // 真实页面的链接，全站都不存在的链接仍判死链（见上方说明）。
+  ignoreDeadLinks: [
+    ...pendingSupplementPages.map((s) => `./${s}`),
+    // 英文原文镜像中的受限量词记号被 markdown-it 误判为链接；ADR-0007 要求原文逐字符一致，不改源。
+    './Unmarried(*x*,*w*)',
+    './Unmarried',
+    './*Gx*',
+    './f',
+    isExistingSitePage,
+  ],
   // 2026-10-29 逐项选定：URL 去 .html；词条页标签加站名后缀；显示更新时间。
   // 注意：2.0 的 titleTemplate 占位符是 :title（%s 是 1.x 语法，会原样出现在标签页标题里）。
   // lastUpdated 不用内置逐页 git 查询（B1）：关闭后由 transformPageData 注入
@@ -355,23 +418,7 @@ export default defineConfig({
   sitemap: { hostname: 'https://taophilosophy.github.io/' },
   // 非站点目录（治理/管线/原始物）不作为页面参与构建
   srcExclude: [
-    'en/**',
-    'specs/**',
-    '.specify/**',
-    'tools/**',
-    'tasks/**',
-    'baseline/**',
-    'script/**',
-    'state/**',
-    'rules/**',
-    '.github/**',
-    '.zcode/**',
-    '.qoder/**',
-    'AGENTS.md',
-    'CONTRIBUTING.md',
-    'CODE_OF_CONDUCT.md',
-    'yuanwen/SUMMARY.md',
-    'yuanwen/SUMMARY-en.md',
+    ...siteExclude,
     // 分片构建的排除面（SEP_SHARD 未设时为空）
     ...shardExclude,
   ],

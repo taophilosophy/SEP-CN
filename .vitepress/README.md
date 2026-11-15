@@ -29,7 +29,8 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 * 要预览**本机工作树**（而非子模块的远端提交）：在壳里把 `docs/` 换成指向本仓的目录联接（Windows：`mklink /J docs C:\Users\ykla\Documents\SEP-CN`），再跑同三条命令；依赖仍由壳提供。
 * `npm` 不是受支持路径：Windows 下 npm 用 cmd.exe 执行 script，不识别 `NODE_OPTIONS=` 前缀（ADR-0014）。
-* 运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`）、bun ≥ 1.4（本地 1.4.4）。`build` 需约 8 GB 空闲内存（壳脚本以 `NODE_OPTIONS=--max-old-space-size=12288` 起构建；内存不足时 V8 以 `FATAL ERROR: Reached heap limit` 退出 134），并行跑其它会话时先腾内存。
+* **运行时是 bun 不是 node**（2026-11-16 用户裁定）：壳脚本以 `bun --bun x vitepress …` 起 VitePress，构建/开发/preview 全走 bun 运行时；bun 不认 V8 的 `--max-old-space-size`，内存上限交给 JSC 自管，构建前先腾内存（并行跑其它会话时尤其）。CI 侧内存压力靠 32 GB swap 兜底（见分片节）。
+* 运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，仍用于 `prepare-*.mjs` 之外的若干工具）、bun ≥ 1.4（本地 1.4.4）。全量 `build` 曾需约 8 GB 空闲内存；内存不足时构建进程直接被系统杀掉（node 下是 `FATAL ERROR: Reached heap limit`，退出 134）。
 * CI（壳的 `push_deploy.yml` / `sync_deploy.yml`）构建前 `cp docs/README.md docs/index.md`：VitePress 把 `README.md` 编成 `README.html`，Pages 站点根需要 `index.html`。该文件只在 CI 生成，不入库。
 
 ## 构建期准备（prepare-*.mjs）
@@ -43,7 +44,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 单次全量构建的固定成本结构：打包约 3.5 min、渲染 4326 页约 15 min、pagefind 索引约 5.3 min。CI 把渲染摊到四个分片并行：
 
 * `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（按实测页数均衡：a–d 1165、e–k 1050、l–p 1196、q–z 915，中英两侧同片）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）与 `1/`、`qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 只进 `ad` 片。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
-* 分片模式**关闭死链检查**（`ignoreDeadLinks: true`）：跨片链接在本片必然"缺失"。链接完整性由不设 `SEP_SHARD` 的全量构建负责（本地收工前照旧 `bun run build`）。
+* 分片模式**死链检查照常开启**（2026-11-16 用户裁定，`config.mts` 的 `isExistingSitePage`）：分片只渲染本片页面，跨片链接按 VitePress 规则会判死链，故扫描全仓 md 生成"全站页面集"（排除规则与 `siteExclude` 同源），指向其中任一页面的链接豁免、全站都不存在的链接仍硬失败。强度与全量构建一致：实测在分片页里插入一条死链，构建在该处报 `1 dead link(s) found` 退出。
 * `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
 * 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
 
@@ -86,3 +87,4 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * 层内分工：视觉令牌与换皮在 `custom.css` / `sep-theme.css`；唯一引用 VitePress 内部类名的桥接层是 `vp-compat.css`（升级 VitePress 只查这一层）；组件不读 `config.mts`，只消费 frontmatter 与 `useData()`。
 * 字体全部离线自托管（`lxgw-wenkai-*-webfont` 依赖，不依赖外部 CDN）：正文与标题常规字重用 `LXGW WenKai Screen`（屏幕阅读版只有 400 一档）；标题粗体取自 `LXGW WenKai Bold`；代码用 `LXGW WenKai Mono`（内嵌英文等宽字形）。
 * 品牌色在 `custom.css` 的 `--vp-c-brand-*` 变量：浅色 `#ff0072`、深色 `#a8e6cf`。改色只改变量，组件里不要硬编码色值。
+* 页脚色带铺满视口（`sep-theme.css` 的 `.sep-footer`）：SepFooter 挂在 `doc-bottom`，位于正文列内，只给背景会留下左右与页底两圈底色。解法是 `box-shadow: 0 0 0 100vmax var(--vp-c-bg-alt)` 向四周溢出背景色，再用 `clip-path: inset(0 -100vmax -100vmax)` 裁掉上方溢出——两者都不参与布局，不产生横向滚动、不改元素尺寸；改页脚下边距时不要再叠加 `width: 100vw` 之类的写法。
