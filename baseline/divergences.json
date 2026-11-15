@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T12:53:49Z",
+  "updated_at": "2026-11-15T13:22:08Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1676,6 +1676,21 @@
       "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
       "reason": "ADR-0038 ①类已核实：正文句末孤立右括号（compare Latham 2000, 72f.)，段内括号 5 开 6 闭，编辑残迹）剥除；en-errata 第五节；yuanwen 定点重转 OTHER=0",
       "registered_at": "2026-11-15T12:53:49Z"
+    },
+    {
+      "slug": "xenophanes",
+      "path": "en/xenophanes/index.html",
+      "upstream_sha256": "52eb46c10200b6310729e25d54a2a27b237f54e8a9548eaa53e3075edb902402",
+      "local_sha256": "1d7ac0b5aacbe7a759d1a5edd87c1d8a1dbbcd4da4aaf058c3f7769f548fb6c2",
+      "bytes": {
+        "upstream": 56600,
+        "local": 56595
+      },
+      "commit": "eae858d2bbe832de1e2622898b715c618049c0dc",
+      "subject": "en 勘误：xenophanes 正文 B16 引文双写 are 衍字剥除＋B14 clothers→clothes（句法同构与非词拼写，ADR-0038 ①类已核实，drift_scan unchanged 证明上游原文如此）；en-errata 第六节登记；yuanwen 定点重转差量恰为两处、基线哈希随转重算",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "ADR-0038 ①类已核实：B16 引文双写 are 衍字（句法只需一个 are，Ethiopians 分句同构）＋B14 clothers 拼写（非英语词，通行译文 clothes）；回炉 s0 补课发现，en-errata 第六节；yuanwen 定点重转 OTHER=0",
+      "registered_at": "2026-11-15T13:22:08Z"
     }
   ],
   "tombstones": [
