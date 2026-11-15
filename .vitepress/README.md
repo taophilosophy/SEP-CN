@@ -2,27 +2,46 @@
 
 本目录是本地 VitePress 双语阅读站的实现。**本文是说明，不是规则**：与 `rules/` 冲突时以 `rules/` 为准；命令与门禁口径见 `rules/05-ci-and-tools.md`。构建配置变更请同步本文。
 
+## 构建壳与分层（ADR-0055）
+
+内容仓（本仓）与构建壳（`taophilosophy.github.io`）的分工是契约面，两侧改动都不得越线：
+
+| 归属 | 位置 | 内容 |
+| ---- | ---- | ---- |
+| 构建壳 | `taophilosophy.github.io` 根 | `package.json`（唯一依赖声明）、`bun.lock`、`node_modules/`、GitHub Pages 工作流 |
+| 本仓 · 配置层 | `.vitepress/config.mts`、`math-plugin.mjs`、`config.build-check.mts` | 站点元数据、`srcExclude`、SUMMARY 解析、双语配对、侧栏、markdown 规则、`transformPageData` |
+| 本仓 · 主题层 | `.vitepress/theme/` | 唯一引入字体、样式与终端组件的目录；只依赖 `vitepress`、`littlefoot` 与字体包 |
+| 本仓 · 构建前置 | `.vitepress/prepare-*.mjs` | 生成 `public/mathjax/` 与 `.vitepress/git-stamps.json`，由壳脚本按序调用 |
+| 本仓 · 静态资源 | `public/` | favicon、logo、mathjax（生成物，gitignore） |
+
+* **主题层与配置层去耦合**：配置层不 import 主题层、不写视觉样式；主题层不 import 配置层、不读 `config.mts` 的内部变量。两者只通过 VitePress 约定接口交互（frontmatter、`themeConfig`、`lastUpdated`）。删掉 `theme/` 仍能构建（退回默认主题），删掉 `config.mts` 则站不成立——不对称是有意的。
+* **依赖只在壳里声明**：本仓根不再有 `package.json` / `bun.lock`（`.gitignore` 已排除）。新增依赖改壳的 `package.json` 后 `bun install`；不在本仓跑包管理。
+
 ## 命令（包管理统一 bun，ADR-0014）
 
 ```sh
-bun install      # 依赖（bun.lock 唯一锁文件）
-bun run dev      # 开发服务器：http://<局域网 IP>:81
-bun run build    # 静态构建（.vitepress/dist），含 pagefind 全文索引
-bun run preview  # 预览构建产物（不跑 prepare-assets）
+git clone https://github.com/taophilosophy/taophilosophy.github.io   # 构建壳
+cd taophilosophy.github.io && git submodule update --init && bun install
+bun run dev      # 开发服务器（root=docs）：http://<局域网 IP>:81
+bun run build    # 静态构建 → docs/.vitepress/dist，含 pagefind 全文索引
+bun run preview  # 预览构建产物（不跑 prepare-*）
 ```
 
-`npm run dev` 不是受支持路径：Windows 下 npm 用 cmd.exe 执行 script，不识别 `NODE_OPTIONS=` 前缀（ADR-0014）。
+* 要预览**本机工作树**（而非子模块的远端提交）：在壳里把 `docs/` 换成指向本仓的目录联接（Windows：`mklink /J docs C:\Users\ykla\Documents\SEP-CN`），再跑同三条命令；依赖仍由壳提供。
+* `npm` 不是受支持路径：Windows 下 npm 用 cmd.exe 执行 script，不识别 `NODE_OPTIONS=` 前缀（ADR-0014）。
+* 运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`）、bun ≥ 1.4（本地 1.4.4）。`build` 需约 8 GB 空闲内存（壳脚本以 `NODE_OPTIONS=--max-old-space-size=12288` 起构建；内存不足时 V8 以 `FATAL ERROR: Reached heap limit` 退出 134），并行跑其它会话时先腾内存。
+* CI（壳的 `push_deploy.yml` / `sync_deploy.yml`）构建前 `cp docs/README.md docs/index.md`：VitePress 把 `README.md` 编成 `README.html`，Pages 站点根需要 `index.html`。该文件只在 CI 生成，不入库。
 
-运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`）、bun ≥ 1.4（本地 1.4.4）。`bun run build` 需约 8 GB 空闲内存（`NODE_OPTIONS=--max-old-space-size=8192` 为硬上限，内存不足时 V8 以 `FATAL ERROR: Reached heap limit` 退出 134）；并行跑其它会话时先腾内存再构建。
+## 构建期准备（prepare-*.mjs）
 
-## 构建期准备（prepare-assets.mjs）
-
-`dev` 与 `build` 先运行 `.vitepress/prepare-assets.mjs`：把 `node_modules/mathjax/tex-svg.js` 复制到 `public/mathjax/tex-svg.js`（specs/024：MathJax 4.1.3 起组件文件在包根，v3 的 `es5/` 目录已取消；该目录 gitignore，克隆后首次运行自动重建）。缺 `node_modules` 时脚本直接 exit 1 并提示 `bun install`。`preview` 不跑此步骤，故 `preview` 前须至少 `build` 过一次。
+* `prepare-assets.mjs`：把 `mathjax/tex-svg.js` 复制到 `public/mathjax/`（specs/024：MathJax 4.1.3 起组件文件在包根，v3 的 `es5/` 目录已取消）。依赖可能被 hoist 到壳根，故脚本自 `.vitepress/` 起按 Node 解析顺序逐级向上找 `node_modules/mathjax`，写回固定为本仓 `public/`——与 cwd 无关。找不到即 exit 1，提示在壳根 `bun install`。
+* `prepare-gitstamps.mjs`：一次全量 `git log` 生成 `.vitepress/git-stamps.json`（路径→最后提交时间 ms），`transformPageData` 据此注入 `lastUpdated`，免去内置逐页查询。派生物，gitignore。子模块浅克隆时历史只有一条提交，页脚时间统一为子模块提交时间，属已知限制。
+* `preview` 不跑这两步，故 `preview` 前须至少 `build` 过一次。
 
 ## dev 服务器
 
 * 固定 `host: '0.0.0.0'`、`port: 81`、`strictPort: true`——端口被占用即启动失败，不自动换端口。
-* `watch.usePolling: true`（600 ms）：本仓库所在盘的 `ReadDirectoryChangesW` 会报 UNKNOWN 错误；`en/`、`tools/`、`tasks/`、`baseline/`、`specs/` 等大目录不监听。
+* `watch.usePolling: true`（1500 ms）：本仓库所在盘的 `ReadDirectoryChangesW` 会报 UNKNOWN 错误；`en/`、`tools/`、`tasks/`、`baseline/`、`specs/` 等大目录不监听。
 * dev 端 `index.md → README.md` 中间件：VitePress 2.0 alpha 的 dev 只按 `/index.md` 解析页面，本仓库沿用 GitBook 的 `README.md` 作首页与目录首页；中间件把请求改写为同路径的 `README.md`（存在时），使 dev 与 build 行为一致。
 
 ## 页面范围（srcExclude）
@@ -48,6 +67,7 @@ bun run preview  # 预览构建产物（不跑 prepare-assets）
 
 ## 主题与字体
 
-* 入口 `.vitepress/theme/index.ts`：`extends: DefaultTheme`，在 `nav-bar-content-after` 注入 `BilingualToggle`、`doc-top` 注入 `MathTypesetter`，导入 `custom.css`。
+* 入口 `.vitepress/theme/index.ts`：`extends: DefaultTheme`，槽位注入 `BilingualToggle`（`nav-bar-content-after`）、`MathTypesetter` 与 `EntryMatter`（`doc-top`）、`SepFooter`（`doc-bottom`）、`FootnoteEnhance`（`layout-bottom`），并导入 `custom.css`、`sep-theme.css`、`vp-compat.css`。
+* 层内分工：视觉令牌与换皮在 `custom.css` / `sep-theme.css`；唯一引用 VitePress 内部类名的桥接层是 `vp-compat.css`（升级 VitePress 只查这一层）；组件不读 `config.mts`，只消费 frontmatter 与 `useData()`。
 * 字体全部离线自托管（`lxgw-wenkai-*-webfont` 依赖，不依赖外部 CDN）：正文与标题常规字重用 `LXGW WenKai Screen`（屏幕阅读版只有 400 一档）；标题粗体取自 `LXGW WenKai Bold`；代码用 `LXGW WenKai Mono`（内嵌英文等宽字形）。
 * 品牌色在 `custom.css` 的 `--vp-c-brand-*` 变量：浅色 `#ff0072`、深色 `#a8e6cf`。改色只改变量，组件里不要硬编码色值。

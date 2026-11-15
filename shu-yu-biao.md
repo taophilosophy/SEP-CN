@@ -1427,6 +1427,7 @@
 | diamond splinters | — | 金刚屑因 | gorampa | 藏传中观五大因之一（rdo rje’i gzegs ma）；学界通行 | 2026-11-09 |
 | Dichotomy | — | 二分法（悖论名；亦作“二分”） | zeno-elea | 学界通行（《物理学》研究，苗力田译本传统）；凭证 2026-11-09 | 2026-11-09 |
 | dictator game | — |独裁者博弈（亦作“独裁者游戏”）| justice-moral-psych | 实验经济学通行汉译（亦作“独裁者游戏”）；凭证 2026-11-10 | 2026-11-10 |
+| Dictionnaire historique et critique | — | 《历史与批判辞典》 | 首现（xenophanes） | 学界通行汉译（培尔 1697；亦作《历史批判辞典》）；分档裁定 A 档（rules/03 S2，2026-11-15 回炉补登） | 2026-11-15 |
 | dictum | dictum | 所述 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | dictum (Abelard) | dictum | 所言（阿伯拉尔） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | diffeomorphism | — | 微分同胚 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |

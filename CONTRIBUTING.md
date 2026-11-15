@@ -19,14 +19,17 @@
 
 ## 本地预览阅读站
 
+依赖与构建入口在构建壳 [taophilosophy.github.io](https://github.com/taophilosophy/taophilosophy.github.io)（本仓是其 `docs/` 子模块，ADR-0055）：
+
 ```sh
-bun install
+git clone https://github.com/taophilosophy/taophilosophy.github.io
+cd taophilosophy.github.io && git submodule update --init && bun install
 bun run dev      # http://<局域网 IP>:81（固定 0.0.0.0:81，端口占用即启动失败）
-bun run build    # 静态构建，含 pagefind 全文搜索
+bun run build    # 静态构建（docs/.vitepress/dist），含 pagefind 全文搜索
 bun run preview
 ```
 
-包管理统一 bun（ADR-0014），不使用 npm / npx。构建细节（主题、搜索、双语配对、`attrs: false` 等）见 [.vitepress/README.md](.vitepress/README.md)。
+本仓不持有 `package.json` / `bun.lock`，不在本仓跑包管理。包管理统一 bun（ADR-0014），不使用 npm / npx。构建细节（分层契约、主题、搜索、双语配对、`attrs: false` 等）见 [.vitepress/README.md](.vitepress/README.md)。
 
 ## 历史说明
 

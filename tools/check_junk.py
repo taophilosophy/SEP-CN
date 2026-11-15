@@ -92,9 +92,9 @@ ROOT_ALLOW = {
     'tasks': '任务状态记录',
     'tools': '管线与治理脚本',
     'yuanwen': '英文原文镜像（ADR-0027 起入库）',
-    # 包管理
-    'package.json': '站点依赖声明',
-    'bun.lock': 'bun 锁文件',
+    # 包管理（历史豁免：依赖与构建入口已迁至构建壳，ADR-0055；本地误跑包管理不判垃圾，但不得入库）
+    'package.json': '站点依赖声明（历史豁免，ADR-0055）',
+    'bun.lock': 'bun 锁文件（历史豁免，ADR-0055）',
 }
 # A–Z 词条字母目录 + 个别非字母目录（ADR-0009：digit 开头 slug 归 `1/`）
 ROOT_ALLOW.update({c: '词条字母目录' for c in 'abcdefghijklmnopqrstuvwxyz'})

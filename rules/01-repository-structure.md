@@ -27,7 +27,7 @@
 
 ## 根目录白名单（ADR-0023）
 
-根目录是**可枚举的契约面**：只允许登记在 `tools/check_junk.py` 的 `ROOT_ALLOW` 中的条目，五类——工具链配置（`.github/`、`.vitepress/`、`.specify/`、`.zcode/` 与点文件）、顶层叙事文档（`SUMMARY.md`、`PROGRESS.md`、登记册、访客文档）、A–Z 词条字母目录与数字目录 `1/`（ADR-0009）、结构目录（`rules/`、`specs/`、`tools/`、`tasks/`、`baseline/`、`assets/` 等）、包管理文件（`package.json`、`bun.lock`）。
+根目录是**可枚举的契约面**：只允许登记在 `tools/check_junk.py` 的 `ROOT_ALLOW` 中的条目，四类——工具链配置（`.github/`、`.vitepress/`、`.specify/`、`.zcode/` 与点文件）、顶层叙事文档（`SUMMARY.md`、`PROGRESS.md`、登记册、访客文档）、A–Z 词条字母目录与数字目录 `1/`（ADR-0009）、结构目录（`rules/`、`specs/`、`tools/`、`tasks/`、`baseline/`、`assets/` 等）。`package.json`、`bun.lock` 在 `ROOT_ALLOW` 保留为历史豁免：依赖与构建入口已迁至构建壳 `taophilosophy.github.io`（[ADR-0055](adr/0055-构建壳与内容仓分权.md)），本仓不再持有，本地误跑包管理产生的文件不判垃圾但不得入库。
 
 * **新增根级条目须走 ADR**（`rules/adr/`），同时在 `ROOT_ALLOW` 登记说明；不登记即门禁红灯。
 * **散件归置唯一路径**：本地会话草稿 → `script/`；运行态与临时文件（含 `*.tmp`）→ `state/`；批次工件与入库凭证 → `specs/<NNN>-*/bin|results/`。根目录不放中间产物、一次性脚本、抓取快照、提示词工作台。
