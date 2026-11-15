@@ -36,7 +36,7 @@
 3. **交错配对**：`a/abduction` 94 个英文块、2 个退化整段（参考文献类），标题严格 z↔e 交替（`1 溯因：基本观念` ↔ `1. Abduction: The General…`）；`z/zhu-xi` 129 块 / 5 个退化段、正文高 68796 无横向溢出。退化阈值（比值 <0.5 或差 >8）在两条目上均按预期触发。
 4. **交互**：滚动跟随（side：中 45% / 英 51%，双语 `bili-active` 落在同一段；stack 同）；点击跳段（英文栏 scrollTop 1025→1153 且命中同段，双侧句级 `mark` 各 1 处）；`j` 前进（scrollY 158）、`k` 回首段（预期无位移）、`Esc` 关闭（body 类清空、面板移除、中文恢复 688 居中）；关闭再开启往返正常（508 左列 ↔ 688 居中）。
 5. **移动端**：900 与 420 宽双栏降为整宽面板、控制条折两行（高 67px）、无横向滚动（`overflowX=-15` 即滚动条宽度）。
-6. **构建与门禁**：`SEP_SHARD=ek bun --bun x vitepress build` 通过（死链检查开启、无新增豁免）；`check_all.py` 见收尾记录。
+6. **构建与门禁**：`SEP_SHARD=ek bun --bun x vitepress build docs`（壳仓入口，死链检查开启、无新增豁免）**通过**，`build complete in 166.52s`，唯一告警为既有的「块 >1600 kB」（specs/037 已定 `chunkSizeWarningLimit: 1600`，数据体积块无拆分手段）。`python tools/check_all.py` 11 项、失败 3，均为存量且与本次改动无关：①直角引号 124 处 / 10 文件（ADR-0059/0060、`shu-yu-biao.md`、`z/zhu-xi.md` 等；本次新增文档全改弯引号，计数由 126 降至 124）；②原始物分歧账 `en/zhu-xi`（登记后又改动，另有会话在办）；③单测 `test_check_summary_headers.AliasFragmentTest.test_dangling_fragment_is_hard_error`（ADR-0057/0060 别名片段门禁改 baseline 全集后测试未同步；本次未触 `tools/`）。
 
 ## 2026-11-16 未做/另案
 
