@@ -146,3 +146,9 @@
   * 落地：`advance --step r3` 必填 `--mandate <用户指定记录>`（缺失即 PreconditionError，step 留 mandate 字段），默认条目停 r2_reviewed、done 冻结（done 前置不放宽）；指定不继承，记录真实性属审计面（与 ADR-0051 --upstream-sync 凭证审计同构，收工核对对得上用户当轮发言）
   * 取代关系：就 r3 默认执行面取代 ADR-0020 裁定②（混合制自走）；r3 真执行时独立性/冷置/学术挂钩（check_academic --strict）照常；不追溯——done 维持，在途停 r2_reviewed 等指定或经 revert-state 回退
   * 同步面：rules/04 新增"终审会话门槛"节（状态机表、六道 r3 行、复核独立性条款）＋rules/06 done 定义＋rules/07 衔接表＋rules/09 P7 门禁＋rules/README 快速判例＋contracts/cli.md（advance 用法/行为注记/职责权属表）＋tasks/README.md；task_ops 单测 22 例全绿（新增缺 mandate 拒绝用例）；glossary-maintenance 类随既有门豁免
+* 2026.11.15 18thGerman-preKant 回炉全链重走至 r3（M1 回炉线首件至 r3；承接 ADR-0053/028 §0-bis 工序）
+  * 工序全走：source-audit 补 s0（en_integrity clean＋en_source_audit 零硬错零告警，无 typo 候选/死链登记项）→ s3 增项（specs/028 §4 六项＋面⑦，凭证三段齐备：三向比对——节集合 18＋References 全套 1:1、脚注键集 y↔z 全等 153=153、省略号 2 处定性、三向抽检两段逐句对齐；密度——破折号 4／一个 37／AI 词 1；新规则处置——chenggong-de 1 实修）→ r1/r2/r3（五论证链回核、冷置经提交推送与全库门禁间隔）
+  * 实修仅 1 处：行 105 删冗余副词「成功地」（chenggong-de 2026-11-14 新规则首例实修；回源核销 succeeds in outlining→确实勾画出）；check_prose 19→15（新告警清零，de-chain 14＋long-sentence 1 维持豁免在案）
+  * 发现系统性缺口：task-style-attest 以 done_at 触发、查本任务全部历史 s2/r1 步「语体」留痕——ADR-0053 回炉件旧凭证（2026-11-10T15:00Z 生效时点前所写，append-only 留史）重走 done 必撞；autrecourt（A-rework 会话同日置 done）首例红灯 3 处，本件同构 3 步在案。全池 413 件收口均涉此口径
+  * 用户裁定挂起待议：done 缓行（补记凭证 vs 检查器步级豁免未定），本件停 r3_reviewed；时点注记：本件 r3 于 ADR-0054 enforcement 落库（2fc85f39b，20:04）前 16 分钟完成、无 mandate 字段，按其不追溯条款留史，后续终审指定时一并核定
+  * 并行共树观察：A-rework 同窗口推进 zabarella/zeno-elea 至 r2（r3 待指定）并落 ADR-0054；本件提交全程逐文件 pathspec，未扫走在途件（autrecourt.json/austin-john 等本地未提交态未触）
