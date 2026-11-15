@@ -339,50 +339,66 @@ segments:
     kind: body
     source: |-
       ## 4. Natural Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 自然哲学
+    step2: |-
+      ## 4 自然哲学
   - id: 43
     kind: body
     source: |-
       ### 4.1 Investigating Things for Natural Knowledge and Action
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 格物与自然知识及行动
+    step2: |-
+      ### 4.1 格物与自然知识及行动
   - id: 44
     kind: body
     source: |-
       While Shao Yong and Cheng Yi in the Northern Song had introduced and sketched out the idea of observation in terms of *guanwu* (observing things), *fanguan* (reflective perception), and *gewu* (investigating things), Zhu Xi not only discussed the idea of observation but offered a multitude of actual observations of celestial and terrestrial phenomena. In addition, his penchant for hierarchy and systemization led modern commentators in the twentieth century to draw comparisons with Plato, Aristotle, and even Thomas Aquinas. Around the mid-twentieth century, Joseph Needham vividly presented Zhu’s system in terms of process philosophy as bearing organismic patterns of conceptualization and distinct parallels with scientific thinking:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      北宋的邵雍与程颐已经引入并勾勒了以观物（*guanwu*，观物）、反观（*fanguan*，反观所感）与格物（*gewu*，格物）为框架的观察观念；朱熹不仅讨论了这一观念，而且提供了对天象与地象的大量实际观察。此外，他对层级与体系化的偏好，使二十世纪的评论者把他与柏拉图、亚里士多德乃至托马斯·阿奎那相比。约在二十世纪中叶，Joseph Needham 以过程哲学为框架，生动地呈现了朱熹的体系，认为其概念化带有有机体的样式，并同科学思维有鲜明的平行之处：
+    step2: |-
+      北宋的邵雍与程颐已经引入并勾勒了以观物（*guanwu*，观物）、反观（*fanguan*，反观所感）与格物（*gewu*，格物）为框架的观察观念；朱熹不仅讨论了这一观念，而且提供了对天象与地象的大量实际观察。此外，他对层级与体系化的偏好，使二十世纪的评论者把他与柏拉图、亚里士多德乃至托马斯·阿奎那相比。约在二十世纪中叶，Joseph Needham 以过程哲学为框架，生动地呈现了朱熹的体系，认为其概念化带有有机体的样式，并同科学思维有鲜明的平行之处：
   - id: 45
     kind: body
     source: |-
       > I am prepared to suggest, in view of the fact that the term *Li* always contained the notion of pattern, and that Chu Hsi himself consciously applied it so as to include the most living and vital patterns known to man, that something of the idea of ‘organism’ was what was really at the back of the minds of the Neo-Confucians, and that Chu Hsi was therefore further advanced in insight into the nature of the universe than any of his interpreters and translators, whether Chinese or European, have yet given him credit for. (Needham 1956a: 474)[^needham-1956a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我愿意提出：鉴于「理」一词始终含有样式的观念，而朱熹本人自觉地把这一观念用于涵盖人类所知的最鲜活、最具生命力的样式，因此新儒家思想背后真正的东西，乃是某种「有机体」的观念；就此而言，朱熹对宇宙本性的洞见，比他的任何诠释者与翻译者——无论中国人还是欧洲人——迄今愿意承认的都要先进。（Needham 1956a: 474）[^needham-1956a]
+    step2: |-
+      > 我愿意提出：鉴于「理」一词始终含有样式的观念，而朱熹本人自觉地把这一观念用于涵盖人类所知的最鲜活、最具生命力的样式，因此新儒家思想背后真正的东西，乃是某种「有机体」的观念；就此而言，朱熹对宇宙本性的洞见，比他的任何诠释者与翻译者——无论中国人还是欧洲人——迄今愿意承认的都要先进。（Needham 1956a: 474）[^needham-1956a]
   - id: 46
     kind: body
     source: |-
       Soon thereafter, after undertaking a careful study of Zhu’s dialogues (*Zhuzi yulei*), Hu Shih presented Zhu’s method of inquiry, *gewu zhizhi* (investigate things to attain knowledge) as essentially a process of “hypothesis and verification by evidence” (Chan 1989: 566)[^chan-1989], consistent in spirit with a scientific approach to inquiry. Needham and Hu effectively cast Zhu’s thought and method in a new light, as more creative, scientific, holistic, and practical than previously thought. Since then, many have discussed Zhu as a process thinker, but little has been written to consider the extent to which his system could accommodate a scientific worldview, and the extent to which his method of inquiry was consistent with a scientific approach. Yung Sik Kim offers an in-depth inquiry into the extent to which Zhu Xi anticipated genuine scientific methods of observation and conceptualization in *The Natural Philosophy of Chu Hsi* (2000).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此后不久，胡适在仔细研究朱熹的语录（《朱子语类》）之后，把朱熹的探究方法——格物致知（investigate things to attain knowledge）——呈现为本质上一个「假说与以证据检验」的过程（Chan 1989: 566）[^chan-1989]，精神上与科学的探究取径一致。Needham 与胡适实际上把朱熹的思想与方法投射到了新的光线下：比以往所认为的更有创造性、更科学、更整体、更实用。从那以后，许多人把朱熹当作过程思想家来讨论；但关于他的体系能在多大程度上容纳一种科学的世界观、他的探究方法在多大程度上与科学取径相一致，却很少有论著认真考量。金永植在《朱熹的自然哲学》（2000）中，对朱熹在何种程度上预示了真正的科学观察与概念化方法，作了深入探究。
+    step2: |-
+      此后不久，胡适在仔细研究朱熹的语录（《朱子语类》）之后，把朱熹的探究方法——格物致知（investigate things to attain knowledge）——呈现为本质上一个「假说与以证据检验」的过程（Chan 1989: 566）[^chan-1989]，精神上与科学的探究取径一致。Needham 与胡适实际上把朱熹的思想与方法投射到了新的光线下：比以往所认为的更有创造性、更科学、更整体、更实用。从那以后，许多人把朱熹当作过程思想家来讨论；但关于他的体系能在多大程度上容纳一种科学的世界观、他的探究方法在多大程度上与科学取径相一致，却很少有论著认真考量。金永植在《朱熹的自然哲学》（2000）中，对朱熹在何种程度上预示了真正的科学观察与概念化方法，作了深入探究。
   - id: 47
     kind: body
     source: |-
       Zhu from childhood displayed a genuine interest in natural phenomena and in raising speculative questions. Later he tended to rein in this interest, for example by relating features of observed natural phenomena to human analogues for didactic purposes and by refraining from pressing his speculations very far, i.e., beyond the scope of verifiable knowledge and applicability. Zhu lived during a tumultuous period in Chinese history when Neo-Confucian scholars tended to draw upon the resources of their own tradition to revitalize the empire, an effort in which Zhu’s *ouvre* constituted a watershed. He sought to wed the objective and subjective trends of the earlier movement into a practical synthesis in which objective inquiry played a key role in subjective cultivation. Subsequently, however, as his disciples refined his thought into a scholastic doctrine, subjective cultivation began to prevail over objective inquiry, which was increasingly redirected into the narrow limits of reading and interpersonal conduct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹自幼便对自然现象与提出思辨性问题有真切的兴趣。后来他倾向于约束这种兴趣：例如，出于教导的目的而把观察到的自然现象特征与人事相类比，并且不让思辨走得太远，即不越出可验证的知识与应用的范围。朱熹生活的时代是中国历史上动荡的时期，新儒家学者倾向于调动自身传统的资源来重振帝国；朱熹的著述事业正是这一努力的分水岭。他力求把早先运动中的客观与主观两种趋势结合成一种实践性的综合，其中客观探究在主观修养中起关键作用。然而，随着其门人把他的思想提炼成经院学说，主观修养开始压倒客观探究；后者越来越被收窄到读书与人际行为的地界之内。
+    step2: |-
+      朱熹自幼便对自然现象与提出思辨性问题有真切的兴趣。后来他倾向于约束这种兴趣：例如，出于教导的目的而把观察到的自然现象特征与人事相类比，并且不让思辨走得太远——即不越出可验证的知识与应用的范围。朱熹生活的时代是中国历史上动荡的时期，新儒家学者倾向于调动自身传统的资源来重振帝国；朱熹的著述事业正是这一努力的分水岭。他力求把早先运动中的客观与主观两种趋势结合成一种实践性的综合：其中客观探究在主观修养中起关键作用。然而，随着其门人把他的思想提炼成经院学说，主观修养开始压倒客观探究；后者越来越被收窄到读书与人际行为的地界之内。
   - id: 48
     kind: body
     source: |-
       A Neo-Confucian master of the Ming dynasty, Wang Shouren (Yangming; 1472–1529), spurned Zhu’s method of inquiry altogether after he made a futile attempt to observe the *li* (patterning) in the bamboo growing outside his gate. Holding that facts are obvious to a perceptive observer and do not require endless further investigation, Wang went on to formulate an idealist pragmatism that became widely influential. Intending to counter the scholasticism and careerism of his day, Wang, a military man, stressed volitionism and activism and spurned the sort of careful objective inquiry Zhu thought necessary to making balanced judgments and appropriate responses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      明代新儒家大师王守仁（阳明；1472–1529），在徒劳地试图观察自家门外生长之竹中的理（条理）之后，全盘摒弃了朱熹的探究方法。王氏认为，事实对一个有洞察力的观察者来说是显然的，不需要无穷无尽的进一步考察；他由此发展出一种唯心主义的实用主义，影响极为广泛。意在反击当时的经院习气与求仕之风，身为军人的王氏强调唯意志论与行动主义，摈弃了朱熹认为对作出均衡判断与适宜回应必不可少的细致客观探究。
+    step2: |-
+      明代新儒家大师王守仁（阳明；1472–1529），在徒劳地试图观察自家门外生长之竹中的理（条理）之后，全盘摒弃了朱熹的探究方法。王氏认为，事实对一个有洞察力的观察者来说是显然的，不需要无穷无尽的进一步考察；他由此发展出一种唯心主义的实用主义，影响极为广泛。意在反击当时的经院习气与求仕之风，身为军人的王氏强调唯意志论与行动主义，摈弃了朱熹认为对作出均衡判断与适宜回应必不可少的细致客观探究。
   - id: 49
     kind: body
     source: |-
       Zhu conceptualized nature and natural phenomena in terms of *li* (pattern, patterning) and *gewu* (the investigation of things), *qi* (primal vapor), *yin-yang*, *wuxing* (five phases), *shu* (number, probability, ratio), *xiang* (images); figures from the *Book of Changes*), ghosts and spirits (*gui-shen*), heaven and the sage (*tian-shengren*), stimulus-response (*ganying*), and transformation and change (*bianhua*). In this context, it was important to treat *li* matter-of-factly as the intrinsic patterning of things and events. While the *li* involved with the identities of things are those facets of intrinsic patterning that pertain to their basic interactive propensities and functions, the *li* of a concrete thing form “a gestalt totality” (Kim 2000)[^kim-2000], nearly as complex as the thing itself. Thus, whereas scholars tend to take Zhu’s assertion that “for a certain (kind of) thing to exist, there first must be that *li*” or “there must be this *li* for there to be that (kind of) thing” as indicative of a metaphysical principle of sufficient reason, in this context *li* simply affirm that things of identifiable kinds bear identifying patterns (*xing*) that make them what they are and interact as they do. *Li* indicate reference points for identities of things that influence their typical patterns of interaction with other things. *Li* thus conceived do not amount to principles of explanation and are more involved with definition, so references to the *li* of phenomena do not add anything cognitive or scientific.[^note-16] At times, Zhu did present the idea of investigating things in chapter 5 of the *Great Learning* (*Daxue*) as involving a step-by-step approach, with an eye to discerning ever higher levels of commonality among the myriad *li* (patterns), aiming at an ultimate comprehension of the most basic form of pattern, *taiji* (supreme polarity). Although this approach lacks the rigor of a logical categorical system, when viewed together with Zhu’s comments on Zhou Dunyi’s *Diagram of the Supreme Polarity* (*Taiji tu*), it is suggestive for viewing phenomena and forms in a developmental, almost evolutionary context. As Needham comments:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹以理（样式、条理）与格物（格物）、气（原初之气）、阴阳、五行（*wuxing*）、数（*shu*，数、概率、比率）、象（*xiang*；《易经》之卦象图形）、鬼神（*gui-shen*）、天与圣人（*tian-shengren*）、感应（*ganying*）、变化（*bianhua*）这些概念来构想自然与自然现象。在这一语境中，重要的是把理当作事物与事件内在条理来平实地处理。与事物的同一性相关的理，是其基本互动禀性与功能方面的内在条理；一个具体事物的理构成「一个格式塔整体」（Kim 2000）[^kim-2000]，其复杂程度几乎不亚于该事物本身。因此，学者们往往把朱熹「必有一理，方有此（类）物」或「有此理，方有彼（类）物」的断言，理解为一种充足理由的形而上学原理；而在此语境中，理只是表明：可辨识种类的物带有标识性的样式（性），正是这些样式使物成为其所是、并如其那样互动。理指示着事物的同一性的参照点，这些参照点影响事物与他物互动的典型样式。如此构想的理并不构成解释原理，而更多与定义相关；因此，诉诸现象之理并不增加任何认知或科学的内容。[^note-16]有时，朱熹确实把《大学》第五章中的格物观念呈现为一种循序渐进的取径，着眼于在万理（样式）之中辨别越来越高的共同性层级，以求最终领悟最基本的形式——太极（*taiji*，最高极性）。这一取径虽缺乏逻辑范畴体系的严格性，但若与朱熹关于周敦颐《太极图》（*Taiji tu*）的评注合观，它提示了一种发展性的、近乎演化式的视角来观照现象与形式。Needham 评述道：
+    step2: |-
+      朱熹以理（样式、条理）与格物（*gewu*）、气（原初之气）、阴阳、五行（*wuxing*）、数（*shu*，数、概率、比率）、象（*xiang*；《易经》之卦象图形）、鬼神（*gui-shen*）、天与圣人（*tian-shengren*）、感应（*ganying*）、变化（*bianhua*）这些概念来构想自然与自然现象。在这一语境中，重要的是把理当作事物与事件内在条理来平实地处理。与事物的同一性相关的理，是其基本互动禀性与功能方面的内在条理；一个具体事物的理构成「一个格式塔整体」（Kim 2000）[^kim-2000]，其复杂程度几乎不亚于该事物本身。因此，学者们往往把朱熹「必有一理，方有此（类）物」或「有此理，方有彼（类）物」的断言，理解为一种充足理由的形而上学原理；而在此语境中，理只是表明：可辨识种类的物带有标识性的样式（性），正是这些样式使物成为其所是、并如其那样互动。理指示着事物的同一性的参照点，这些参照点影响事物与他物互动的典型样式。如此构想的理并不构成解释原理，而更多与定义相关；因此，诉诸现象之理并不增加任何认知或科学的内容。[^note-16]有时，朱熹确实把《大学》第五章中的格物观念呈现为一种循序渐进的取径，着眼于在万理（样式）之中辨别越来越高的共同性层级，以求最终领悟最基本的形式——太极（*taiji*，最高极性）。这一取径虽缺乏逻辑范畴体系的严格性，但若与朱熹关于周敦颐《太极图》（*Taiji tu*）的评注合观，它提示了一种发展性的、近乎演化式的视角来观照现象与形式。Needham 评述道：
   - id: 50
     kind: body
     source: |-
@@ -391,20 +407,34 @@ segments:
       > > If one peers into the mystery, the *thai chi* [*taiji*, supreme polarity] seems a chaotic and disorderly wilderness lacking all signs of an arranger…, yet the *Li* (fundamental pattern) of motion and rest, and of Yin and Yang, is fully contained within it.
       >
       > Innumerable smaller organisms were also contained within it, and indeed composed it. Some of them more highly organized than others. In fact, the world was no more undifferentiated for the Neo-Confucians than for modern organic philosophy; it manifested a series of integrative levels of organization, wholes at one level being parts on the next. A clear statement of this conception appears in the ninth paragraph of the *Thai chi Thu Shuo* [Explanation of the diagram of the supreme polarity], which indicated the inapplicability of categories outside the level to which they belong. (Needham 1956a: 466)[^needham-1956a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 朱熹〔朱熹〕写道：
+      >
+      > > 若窥其奥秘，太极〔*taiji*，最高极性〕看似一片混沌无序的荒野，不见安排者的痕迹……然而动与静、阴与阳之理（基本样式）已全然含于其中。
+      >
+      > 无数更小的有机体也包含于其中，而实际上正是它们构成了它。其中有些比其他的组织程度更高。事实上，对活有机哲学（organic philosophy）而言，世界并非没有分化；它显现出一系列整合的组织层级：一个层级上的整体，在下一层级上是部分。这一观念在《太极图说》第九段中有清晰的表述，指明了范畴不能越出其所属层级而适用。（Needham 1956a: 466）[^needham-1956a]
+    step2: |-
+      > 朱熹〔朱熹〕写道：
+      >
+      > > 若窥其奥秘，太极〔*taiji*，最高极性〕看似一片混沌无序的荒野，不见安排者的痕迹……然而动与静、阴与阳之理（基本样式）已全然含于其中。
+      >
+      > 无数更小的有机体也包含于其中，而实际上正是它们构成了它。其中有些比其他的组织程度更高。事实上，对活有机哲学（organic philosophy）而言，世界并非没有分化；它显现出一系列整合的组织层级：一个层级上的整体，在下一层级上是部分。这一观念在《太极图说》第九段中有清晰的表述，指明了范畴不能越出其所属层级而适用。（Needham 1956a: 466）[^needham-1956a]
   - id: 51
     kind: body
     source: |-
       For Zhu, investigating things to attain knowledge involves arriving at a grasp of their constituent *li*; “knowing” or “understanding” such phenomena, thus, is a matter of grasping their *li*. While Zhu often speaks of knowing or comprehending something in terms of the metaphor of seeing it clearly, of having a clear discernment of it, which is nothing like rigid propositional knowledge, he does recognize several forms or levels of knowing, and regards the basic steps of learning in analytical propositional terms and the higher levels in more synthetic insight terms. That is, one first learns facts about the building blocks of the world and human life, e.g., what things are, what they mean, how they fit together; then, gradually, one gains insights into the broader patterns of relationship and intercourse that comprise the world and human life and that eventually afford sensitive glimpses of the inner root as well as the larger picture. Zhu’s discourses are as full of detailed accounts of phenomena as they are of synthetic insights, which should be expected given that Zhu gives equal status and value to the various sorts of qualities that the Western tradition divides into primary (quantitative), secondary (qualitative), and tertiary (qualitative effects).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对朱熹而言，格物致知涉及把握事物的构成之理；「知道」或「理解」这类现象，就是把握其理。朱熹常以清楚地看见、有清晰的明察这样的比喻来谈知或领会——这与僵化的命题性知识全然不同；但他确实承认几种形式或层级的知，并以分析的命题性术语看待学习的基本步骤，以更综合的洞见术语看待更高层级。也就是说，人先学习关于世界与人生之构件的事实——事物是什么、意味着什么、如何配合；然后，逐渐地对构成世界与人生的更宽广的关系与交往之条理获得洞见，这些条理最终使人得以对内在的根子以及更大的图景有敏感的一瞥。朱熹的讲论既充满对现象的细致记述，也充满综合性的洞见——这一点理应如此，因为朱熹把西方传统区分为第一性的（量的）、第二性的（质的）与第三性的（质性效果）的各种性质，都赋予了同等的地位与价值。
+    step2: |-
+      对朱熹而言，格物致知涉及把握事物的构成之理；「知道」或「理解」这类现象，就是把握其理。朱熹常以清楚地看见、有清晰的明察这样的比喻来谈知或领会——这与僵化的命题性知识全然不同；但他确实承认几种形式或层级的知，并以分析的命题性术语看待学习的基本步骤，以更综合的洞见术语看待更高层级。也就是说，人先学习关于世界与人生之构件的事实——事物是什么、意味着什么、如何配合；然后，逐渐地对构成世界与人生的更宽广的关系与交往之条理获得洞见，这些条理最终使人得以对内在的根子以及更大的图景有敏感的一瞥。朱熹的讲论既充满对现象的细致记述，也充满综合性的洞见——这一点理应如此，因为朱熹把西方传统区分为第一性的（量的）、第二性的（质的）与第三性的（质性效果）的各种性质，都赋予了同等的地位与价值。
   - id: 52
     kind: body
     source: |-
       As noted, Zhu drew on notions of *qi, yin-yang*, the five phases, *shu* (numbers, probablilities), and images as conceptual and categorical resources for classifying, characterizing, and understanding the world, especially cycles, processes, and particular things and events. Chinese thinkers, especially during the Han dynasty, used such notions to arrange categories of reality and compile lists of qualities for each category. While some of the associated qualities are directly or causally linked, many of them are arbitrary—perhaps assigned in light of long forgotten events or decrees. These sets of categories were compiled as systematic indices for grasping things and events in terms of categorical associations and imputations. Inevitably, these sets of categories bore a strongly cultural stamp and bias but were applied equally to natural phenomena, as if the natural world were an extension of the human world, not *vice versa*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，朱熹借用气、阴阳、五行、数（数、概率）与象这些观念，作为分类、刻画与理解世界的概念与范畴资源——尤其是循环、过程以及特定的事物与事件。中国的思想家，尤其在汉代，用这类观念来安排实在的范畴，并为每一范畴编制性质清单。其中某些性质有直接的或因果的联系，但许多是任意的——也许是按早已忘却的事件或政令而配属的。这些范畴集合被编成系统索引，用以按范畴关联与指派来把握事物与事件。不可避免地，这些范畴集合带有浓厚的文化烙印与偏倚，却被同样应用于自然现象，仿佛自然界是人类世界的延伸，而不是相反。
+    step2: |-
+      如前所述，朱熹借用气、阴阳、五行、数（数、概率）与象这些观念，作为分类、刻画与理解世界的概念与范畴资源——尤其是循环、过程以及特定的事物与事件。中国的思想家，尤其在汉代，用这类观念来安排实在的范畴，并为每一范畴编制性质清单。其中某些性质有直接的或因果的联系，但许多是任意的——也许是按早已忘却的事件或政令而配属的。这些范畴集合被编成系统索引，用以按范畴关联与指派来把握事物与事件。不可避免地，这些范畴集合带有浓厚的文化烙印与偏倚，却被同样应用于自然现象，仿佛自然界是人类世界的延伸，而不是相反。
   - id: 53
     kind: body
     source: |-
