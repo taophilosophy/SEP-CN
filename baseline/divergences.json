@@ -1,6 +1,6 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-14T23:18:56Z",
+  "updated_at": "2026-11-15T00:10:37Z",
   "divergences": [
     {
       "slug": "albo-joseph",
@@ -1286,6 +1286,21 @@
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：O’Neill/Waldron 逗号、Yovel 姓名重、Stone 双冒号脱 the、Willaschek-1997 期刊斜体、Fleischacker 句点、Korsgaard/Wilson In→in、Doyle 页码 and（ADR-0038 ①）",
       "registered_at": "2026-11-14T23:18:56Z"
+    },
+    {
+      "slug": "knowledge-analysis",
+      "path": "en/knowledge-analysis/index.html",
+      "upstream_sha256": "0157e33c1698bec237e8b6a6897fb266ae8efa6d5f09a75b07fb4fa7745cec65",
+      "local_sha256": "a3d5af35220ce14424993026b700349e1fde986e68152870eb4a5506f37967ee",
+      "bytes": {
+        "upstream": 125107,
+        "local": 125141
+      },
+      "commit": "edac1133e",
+      "subject": "！",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "015 偿还：Antognazza 年份重、Hirvelä 冒号空格与 doi、Cohen 逗号、Ichikawa 引号未闭与 2017-a、Gibbons/2024 出版地、Pappas 年份、Worsnip 连接号（ADR-0038 ①②）",
+      "registered_at": "2026-11-15T00:10:37Z"
     }
   ],
   "tombstones": [
