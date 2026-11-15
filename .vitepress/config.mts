@@ -12,14 +12,14 @@ const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..'
 const isBuild = process.argv.includes('build')
 
 // ------------------------------------------------------- 分片构建（CI 并行）--
-// SEP_SHARD=ad|ek|lp|qz：四片按字母区间均衡切分（2026-11-16 依实际页数定界：
-// a–d 1165、e–k 1050、l–p 1196、q–z 915 页，中英两侧合并计），每片产物写
-// .vitepress/dist-<shard>，由 .vitepress/merge-shards.mjs 合并 dist、并集
-// hashmap.json、拼 sitemap 并跑一次 pagefind。
+// SEP_SHARD=ad|ek|lp|qz：四片按字母区间均衡切分（2026-11-16 实测内容页：
+// a–d 1164、e–k 1050、l–p 1196、q–z 915，中英两侧合并计；各片另出 404 一页），
+// 每片产物写 .vitepress/dist-<shard>，由 .vitepress/merge-shards.mjs 合并 dist、
+// 并集 hashmap.json、拼 sitemap 并跑一次 pagefind。
 // **死链检查在分片模式照常开启**：跨片链接在本片的 pages 里必然“缺失”，但只
-// 要它指向的是本站真实存在的页面就豁免（collectPageLinks 扫全仓生成页面集，
+// 要它指向的是本站真实存在的页面就豁免（collectSitePages 扫全仓生成页面集，
 // 与构建无关）。页面在全站都不存在时依旧硬失败——检查强度与全量构建一致。
-// 根级页面与 1/、qian-yan 等非字母目录只进第一片（ad）。
+// 根级页面与 1/、qian-yan 等非字母目录只进第一片（ad），其 yuanwen/ 英文镜像同片。
 const SHARD_LETTERS: Record<string, string> = {
   ad: 'abcd',
   ek: 'efghijk',
@@ -31,18 +31,25 @@ const shard = (process.env.SEP_SHARD || '').toLowerCase()
 const shardLetters = SHARD_LETTERS[shard]
 const isShard = Boolean(shardLetters)
 const ALL_LETTERS = 'abcdefghijklmnopqrstuvwxyz'
+// 非字母目录（1/ 是 Kant 前德国哲学等的既有落位）——与同名字母目录一样成对处理，
+// 中文与 yuanwen/ 英文镜像必须同片，否则某片只有译文没有原文、双语切换指向未构建页。
+const NON_LETTER_DIRS = ['1', 'qian-yan', 'guan-yu', 'jian-yi-shu', 'fang-fa-lun']
+const isRootShard = shardLetters === ROOT_SHARD_LETTERS
 const shardExclude: string[] = isShard
   ? [
-      // 根级页面（README、mu-lu-s、两本登记册、SUMMARY 等）只进 ad 片
-      ...(shardLetters === ROOT_SHARD_LETTERS ? [] : ['*.md']),
       // 非本片字母的词条目录与英文镜像
       ...ALL_LETTERS.split('')
         .filter((l) => !shardLetters!.includes(l))
         .flatMap((l) => [`${l}/**`, `yuanwen/${l}/**`]),
-      // 非字母目录也只进 ad 片
-      ...(shardLetters === ROOT_SHARD_LETTERS
+      // 根级页面（README、mu-lu-s、两本登记册、SUMMARY 等）与非字母目录只进首片
+      // （ad）；英文侧根级页面（yuanwen/README.md）同理，保持中英同片。
+      ...(isRootShard
         ? []
-        : ['1/**', 'qian-yan/**', 'guan-yu/**', 'jian-yi-shu/**', 'fang-fa-lun/**']),
+        : [
+            '*.md',
+            'yuanwen/README.md',
+            ...NON_LETTER_DIRS.flatMap((d) => [`${d}/**`, `yuanwen/${d}/**`]),
+          ]),
     ]
   : []
 

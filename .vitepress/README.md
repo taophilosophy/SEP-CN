@@ -43,7 +43,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 单次全量构建的固定成本结构：打包约 3.5 min、渲染 4326 页约 15 min、pagefind 索引约 5.3 min。CI 把渲染摊到四个分片并行：
 
-* `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（按实测页数均衡：a–d 1165、e–k 1050、l–p 1196、q–z 915，中英两侧同片）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）与 `1/`、`qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 只进 `ad` 片。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
+* `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（2026-11-16 实测内容页：a–d 1164、e–k 1050、l–p 1196、q–z 915，中英两侧同片；各片另出 404 一页）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）、`1/` 与 `qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 等非字母目录**连同其 `yuanwen/` 英文镜像**只进 `ad` 片（`yuanwen/README.md` 亦同）——中英必须同片，否则某片只有译文没有原文、双语切换指向未构建的页面。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
 * 分片模式**死链检查照常开启**（2026-11-16 用户裁定，`config.mts` 的 `isExistingSitePage`）：分片只渲染本片页面，跨片链接按 VitePress 规则会判死链，故扫描全仓 md 生成"全站页面集"（排除规则与 `siteExclude` 同源），指向其中任一页面的链接豁免、全站都不存在的链接仍硬失败。强度与全量构建一致：实测在分片页里插入一条死链，构建在该处报 `1 dead link(s) found` 退出。
 * `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
 * 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
