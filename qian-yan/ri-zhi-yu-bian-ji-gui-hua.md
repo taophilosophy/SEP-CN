@@ -104,3 +104,8 @@
 * 2026.11.15 两登记册去重（specs/034，用户指令）
   * 行合并 4 组（vis viva／Elementarphilosophie／kalām／semblance，全为同概念异形，无同形不同义）；依据列全等重复子句去重 31 行；译法面零新增
   * 顺带：registry_azsort --apply 重排存量未排序追加行，双表到达不动点；行数守恒（术语 6270→6266，人名不变）；check_all 11 项全绿
+* 2026.11.15 词条 Friends 版式 PDF 仿排管线固化（specs/035，用户指令）
+  * 原版解剖实证：Friends PDF＝pdfTeX(TeX Live 2022) 双层 includegraphics（wrapper 页框+complete 正文+标志），Times+CM 全内嵌、零位图，季度 Archive 后重生成；网页＝plato/leibniz 两台 nginx 静态主机
+  * 仿排路线定型：md 变换（脚注定义→书目、行内 [^key]→真脚注）→ pandoc -t typst → 模板填充 → typst 编译 → pymupdf 渲染目视迭代；坑：typst 0.15 改名 binding/gutter、query 入 context；文楷 Screen 族名 typst 只认英文 LXGW WenKai Screen（中文名静默回退 KaiTi，靠 get_fonts 核验抓出）；家族无粗斜体字面，中文强调/标题走主仓 Medium
+  * 用户裁定（登记 spec.md Assumptions）：中文正文霞鹜文楷屏幕阅读版；删仿排声明框；段首缩进两字符（封面与书目悬挂缩进豁免）、段距 1.35em
+  * 工具 specs/035/bin/entry_pdf.py <slug>：slug 自动解析 zh_doc、字体/标志自举（gh release download，本地缓存不入库）、退出码显式化；试金石 descartes-ontological 复跑验收（11 页、内嵌字体恰为 Screen+Medium+Times，无 KaiTi）；产物不入库（script/tmp/entry-pdf）
