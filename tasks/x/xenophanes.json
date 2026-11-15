@@ -2,7 +2,7 @@
   "slug": "xenophanes",
   "kind": "retranslate",
   "zh_doc": "x/xenophanes.md",
-  "state": "s2.5_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,27 @@
       "actor": "XY-rework-20261115",
       "at": "2026-11-15T13:22:46Z",
       "evidence": "补课（ADR-0052，状态不迁移）：s0 补课（ADR-0052/0053 回炉）：①en_integrity clean（hard_findings 0、包完整）；②en_source_audit 硬错 0、告警 3 条逐条定性——heading_skip h2→h4（SEP 原生结构豁免，specs/036 bauer 先例）、doubled_word \"are are\"（B16 引文，①类已核实衍字）＋人审另见 clothers（B14，①类非英语词拼写）两处均按 ADR-0038 就地勘误：en-errata 第六节登记→en/ 就地改正（提交 eae858d2b）→分歧账 register（verify 0 失败）→yuanwen 定点重转差量恰为两处、基线哈希随转重算；punct_run \"..\"（Aristotle 引文内省略号，照录豁免，autrecourt 先例）；③drift_scan --only xenophanes unchanged（2026-11-15，报告 specs/001-sep-sync-pipeline/results/drift-scan-20261115T131414Z.json）；④镜像轴全量回源核对当日已跑凭证复用（72 真漂移已同步）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "XY-rework-20261115",
+      "at": "2026-11-15T15:28:18Z",
+      "evidence": "回炉件 s2.4/s2.5 增项随 s3 落账（ADR-0053 工序；本会话非初译 actor，密度统计作独立性补偿）。【s2.4 面⑦】check_terms --docs 定点核销 0 硬错；2 告警逐条定性豁免——tripartite analysis of knowledge：登记搭配「知识的三元分析」被源文同位修饰拆开（en standard or tripartite analysis of knowledge），zh「标准分析」或「三元分析」忠实镜像、概念在场，D5 照录；Clement of Alexandria：源文短称 Clement（引录源清单句），zh 克莱门短称照录，全称行留给全称出现场合，D5 照录。未登记词复查 11 缺口全部补登记（书名 11 行新入 shu-yu-biao：Apology《申辩篇》、Autolycus《奥托吕科斯》、Candide《老实人》、Concerning Philosophy《论哲学》、Dictionnaire historique et critique《历史与批判辞典》、Heracles《赫拉克勒斯》、History (Herodotus)《历史》、Miscellanies《杂录》、On Melissus Xenophanes Gorgias《论麦里梭、克塞诺芬尼与高尔吉亚》、Theodicy (Leibniz)《神义论》、Theogony《神谱》；9 行 A 档学界通行直裁、2 行 B 档 WebSearch 查证（赫剌克勒斯=罗念生全集译名、Στρωματεῖς 通行《杂录》，2026-11-15 查）；另 Sophist 登记行《智者》与正文《智者篇》不一致，按单一事实源修弱势方：正文 2 处改《智者》（D2 依册实修）。正文零挂键系 ADR-0038 决策 11 正常形（题名/残篇号引称，en 同 cite_markers=0）。【s2.5 ①】check_prose --strict 0 issue（原 s2 已 16→0 清账；三则新告警 tense-adverb/conj-he-verb/chenggong-de 均 0）。【②密度】破折号 28 处全为插入/解释用法（含引文内）；一个 8 处全自然量词；AI 高频词 0。【③AI 腔五形态】全文通读：无增译套话/空洞拔高/模糊归因/公式化排比/高频词密度；归因全部具名（Diels-Kranz/Lesher/残篇号/卷节）。【④省略号】zh 13 站点＝yw 13 站点（yw 12 单形＋1 三点形）逐点对位，全为源文自带省略（残篇引文/引语），译者自加 0。【⑤表身空值】en 侧唯一表为学术工具导航 chrome 表（非内容表），zh 列表化呈现，N/A。【⑥十项】注码注文相符（正文 0 挂键、defs 29 全有定义无孤儿无悬空）；图表编序 N/A（无内容图表）；目录标题一致（7 节序号连续＋尾节四节，与 en h2 11:11 同构）；插图 N/A；数字用法一致（公元前 540—前 537 年一字线全形、引注页码 en-dash 照录）；标题层次与源同构；引文核对 8 处引块体例（逐句语义对源见 r1 账）；体例统一（拉丁/希腊词斜体 silloi/MXG/archê/nephos/dokos/noou phreni 照录、译名括注、译注行）。【W 面】W1 正文 en-dash 11 处全为残篇/古籍引注区间照录（B14–16、242c–d、A38–45 等，书证引注豁免，zabarella/autrecourt 先例）；W3 引号邻接顿号 7 处逐条定性：混合引号并列或引号间插他成分（GB/T 15834-2011 4.5.3.5 后者反要求用顿号），0 违例；W4 嵌套括号 1 处（「（参荷马《伊利亚特》12, 243，以“一”（希腊文 heis）加强最高级）」——en 自带嵌套 (cf. …(Greek heis)…) 照录登记两可不改，antiochus-ascalon 先例）；W5 无多段引文块 N/A；W6 connector-scan 0 issue 0 告警（引注豁免语义）。【体例实修】中文斜体正文 0（pubinfo 行整行斜体家法豁免；拉丁术语斜体保持）；B17 引号前补半角空格 1 处（CY/T 154 偏离①正形）＋《智者篇》→《智者》2 处（D2）。【s3 机检】check_style 0 issue（修后复跑）；check_math_zh 硬错 0（本件无公式）；check_academic --strict 0 硬错误；check_quotes 违例 0；markdownlint 由 CI 终裁。【规范基线筛查结论】（rules/08 §13）适用：GB/T 15834-2011（顿号 4.5.3.5、括号 4.9.3.6、破折号、连接号 §4.13）、GB/T 15835-2011（数字）、CY/T 154-2017（空格，偏离登记 ADR-0041）、CY/T 122-2017（省略号）；GB/T 7714-2025 照录面豁免（书目 29 条要素齐，无中国文献条目、ADR-0011 还原面 N/A）；无未登记域，筛查留此为证。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "XY-rework-20261115",
+      "at": "2026-11-15T15:32:25Z",
+      "evidence": "回炉重走 r1（初审·准确性；本会话非初译 actor）。五维对账：节 11/11（en h2 ↔ zh H2：7 编号节＋尾节四节）；段：zh 44 段（34 文段＋10 引块）对 yw 64 文段＋12 引块＋1 署名行——经账本 51 段（body50+oir1，draft 凭证）合并形态，引块合并 2 处（B11/12、B14/16 zh 各合一块，语义等价）、无缺漏；正文引用键 0:0（题名/残篇号引称形，ADR-0038 决策 11；照录说明行 [^key] 占位两侧同形）；defs 29/29 键集全等；年份差 0（body 19xx/20xx 多重集两侧等）。全文通读对照 yuanwen 逐段核销：导语三贡献与爱利亚归因、A1 生平（第六十届奥林匹亚德/被逐/埃利亚殖民/赞克莱与卡塔尼亚/埋葬儿子们/卖为奴/B8 六十七年）、DK 45 残篇与 74 转述（B 编号逐处一致）、B11/12/14/16/15/B7/A52/B23–26（heis 引注照录）/A28.6 31.2 34–36/B25/B27/B29、§4 会饮五残篇（B2/B1/B3、5/B21/《理想国》607a 378b 372b/《申辩篇》30b/B38 黄蜜无花果）、§5 二实体分布式理解（A36 三家/盖伦/B29 土与水/A33/B37/A50/A46 甜的部分）、云中心说（nephos 两现/A1.24–5/A46 引块/B30 引块/A32/A38–A45 六引块逐条）、解释项与伊里斯段（B32/《伊利亚特》2, 686/《神谱》780/塔乌玛斯/touto/idesthai/去神话化—去自然化互补）、对后世影响（DK 59 B19/DK 31 B39/目的论缺失/天体非神）、§6 三问/伪普鲁塔克 A32/阿里斯托克勒斯《论哲学》A49/埃提乌斯 A49/B28 上限/B1 宴席/B34 引块/怀疑论传承三读法/saphes 希罗多德《历史》II, 44 引块（希腊语词形三处照录）/B35 dedoxasthô/dokos 同源/B36 赫罗迪安/B18 乐观辨析/两股冲动、§7 遗产（《智者》242d/《形而上学》A5, 986b18/《赫拉克勒斯》1341/《奥托吕科斯》C2/节制伦理谱系/赫拉克利特 B41/阿那克萨戈拉 B12/Λ 卷）、培尔—莱布尼茨—伏尔泰因果链（1697/9.19/卡索邦/1710/1759）与费尔巴哈/弗洛伊德、B34 现代存活——逐段语义一致，无漏译/增译/事实偏差；残篇号、卷节号、年份逐处与源一致。本轮回炉实修 3 处（《智者篇》→《智者》2、B17 引号空格 1）均体例层、语义零改动。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "XY-rework-20261115",
+      "at": "2026-11-15T15:33:17Z",
+      "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。check_prose --strict 0 issue：余量 0、逐条定性面空（原 s2 已 16→0 清账无存留，无豁免清单）。人名核对：克塞诺芬尼（亦作色诺芬尼）/荷马/赫西俄德/毕达哥拉斯/第欧根尼·拉尔修/埃提乌斯/阿特纳奥斯/克莱门/塞克斯都·恩披里柯/辛普里丘/阿那克萨戈拉/恩培多克勒/柏拉图/亚里士多德/泰勒斯/阿那克西曼德/阿那克西美尼/塞奥多雷特/斯托拜乌斯/奥林匹奥多鲁斯/盖伦/希波吕托斯/埃庇米尼得斯/希罗多德/伪普鲁塔克/阿里斯托克勒斯/赫罗迪安/梭伦/欧里庇得斯/皮埃尔·培尔/梅里克·卡索邦/莱布尼茨/伏尔泰/费尔巴哈/弗洛伊德/赫拉克利特/巴门尼德/苏格拉底/麦里梭/芝诺 与 ren-ming-biao 一致；check_terms --docs 0 告警（人名面），并抽样直核 Aristocles/Athenaeus/Casaubon/Stobaeus/Xenophanes 五行译名与籍属在册。语体结论：现代汉语学术书面语；破折号 28 处仅用于插入与解释，无滥用；一个 8 处无滥用；无 AI 腔套话；无文言句式；引文与书目豁免面之外语体合规。"
     }
   ],
   "blockers": [],
