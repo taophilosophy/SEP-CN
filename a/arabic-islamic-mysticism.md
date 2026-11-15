@@ -44,7 +44,7 @@
 
 > 在知者与所知之间，横着一道由从疏忽之梦中觉醒者所立的区别。
 
-纳赛尔·霍斯鲁就初学者应如何依特定苦修实践走精神之路，给出了具体指导。与圣奥古斯丁、亚西西的圣方济各相似，纳赛尔·霍斯鲁早年过享乐生活，后经历精神蜕变，献身苏非之道。其生平两个阶段的回声，贯穿其全部著作（Hunsberger 2000）[^hunsburger-2000]。
+纳赛尔·霍斯鲁就初学者应如何依特定苦修实践走精神之路，给出了具体指导。与圣奥古斯丁、亚西西的圣方济各相似，纳赛尔·霍斯鲁早年过享乐生活，后经历精神蜕变，献身苏非之道。其生平两个阶段的回声，贯穿其全部著作（Hunsberger 2000）[^hunsberger-2000]。
 
 伊斯玛仪传统还有一些作者不详的百科全书式著作，其中许多涉及神秘主义与苏非观念。在传播灵知观念上颇有影响的著作，包括《精诚兄弟社》（*Ikhwān al-ṣafā*）与《诸书之母》（*Umm al-kitāb*）这类论著（Daftary 1990; Nasr & Aminrazavi 1999/2001）[^daftary-1990][^nasr-1999]。
 
@@ -154,8 +154,6 @@
 
 ## 参考文献
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
 [^ashtiyānī-1973]: Ashtiyānī, Mehdi, 1973. *Commentary on Sabzawārī’s “Sharḥ-i manẓumah”*, A. Falaturi and M. Mohaghegh (eds.), Tehran.
 
 [^sabzavārī-1969]: Sabzavārī, M. H., 1969. *Sharḥ-i manẓumah*, Toshihiko Izutsu and Mehdi Mohaghegh (eds.), Tehran: Tehran University Press.
@@ -198,7 +196,7 @@
 
 [^hunzai-1986]: Hunzai, F. M., 1986. *The Concept of Tawḥid in the Thought of Ḥamid al-Dīn al-Kirmānī*, Ph.D. Dissertation, McGill University.
 
-[^hunsburger-2000]: Hunsberger, A.C., 2000. *Nasir Khusraw: The Ruby of Badakhshan*, London: I.B. Tauris.
+[^hunsberger-2000]: Hunsberger, A.C., 2000. *Nasir Khusraw: The Ruby of Badakhshan*, London: I.B. Tauris.
 
 [^inati-1996]: Inati, Sh., 1996. *Ibn Sina and Mysticism*, New York, London: Kegan Paul International.
 
