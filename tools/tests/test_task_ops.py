@@ -20,6 +20,7 @@ class TestTaskOps(unittest.TestCase):
         self.old_gate = task_ops._clear_gate
         self.old_audit = task_ops._audit_gate
         self.old_term = task_ops._term_gate
+        self.old_src = task_ops._source_gate
         task_ops.TASKS_DIR = self._dir.name
         # 测试打桩：版本钉与基线 gate 注入，生产 gate 不变
         task_ops._version_pin = lambda slug: {"pubinfo_date": "Aug 9, 2026",
@@ -28,6 +29,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops._clear_gate = lambda slug: None
         task_ops._audit_gate = lambda zh_doc: None
         task_ops._term_gate = lambda zh_doc: None
+        task_ops._source_gate = lambda slug: None
 
     def tearDown(self):
         task_ops.TASKS_DIR = self.old
@@ -35,6 +37,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops._clear_gate = self.old_gate
         task_ops._audit_gate = self.old_audit
         task_ops._term_gate = self.old_term
+        task_ops._source_gate = self.old_src
         self._dir.cleanup()
 
     def _md(self, name, body="# 测试标题\n\n旧正文。\n"):
@@ -50,9 +53,51 @@ class TestTaskOps(unittest.TestCase):
     def test_advance_happy_path(self):
         task_ops.create("test-b", "retranslate", zh_doc=self._md("b.md"))
         task_ops.clear("test-b")
+        t = task_ops.advance("test-b", "s0", actor="t", evidence="源审计记录")
+        self.assertEqual(t["state"], "s0_source_checked")
         task_ops.advance("test-b", "draft", actor="t", evidence="e")
         t = task_ops.advance("test-b", "s1", actor="t", evidence="对照记录")
         self.assertEqual(t["state"], "s1_checked")
+
+    def test_draft_requires_s0(self):
+        # 源审计前置（ADR-0052）：cleared → draft 跳过 s0 即拒
+        task_ops.create("test-s0a", "retranslate", zh_doc=self._md("s0a.md"))
+        task_ops.clear("test-s0a")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-s0a", "draft", actor="t", evidence="e")
+        t = task_ops.advance("test-s0a", "s0", actor="t", evidence="源审计记录")
+        self.assertEqual(t["state"], "s0_source_checked")
+
+    def test_s3_requires_s0_history(self):
+        # 进三校前必须有 s0 记录（ADR-0052 决策 5）：在途件补课后才放行。
+        # 直接构造 ADR-0052 之前的 legacy 任务 JSON（state=s2.5_checked、无 s0 步），
+        # 新状态机下已无法经 advance 走出这种流程。
+        task_ops.create("test-s0b", "retranslate", zh_doc=self._md("s0b.md"))
+        t = task_ops.load_task("test-s0b")
+        t["state"] = "s2.5_checked"
+        t["steps"] = [{"step": st, "status": "ok", "actor": "t", "at": "2026-11-01T00:00:00Z",
+                       "evidence": "e"} for st in ("clear", "draft", "s1", "s2", "s24", "s25")]
+        task_ops.save_task(t)
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-s0b", "s3", actor="t", evidence="e")
+        t = task_ops.source_audit("test-s0b", actor="t", evidence="specs/036 补课凭证")
+        self.assertEqual(t["state"], "s2.5_checked")  # 补课不迁移状态
+        self.assertEqual(sum(1 for s in t["steps"] if s["step"] == "s0"), 1)
+        t = task_ops.advance("test-s0b", "s3", actor="t", evidence="e")
+        self.assertEqual(t["state"], "s3_checked")
+
+    def test_source_audit_makeup_rules(self):
+        # 补课子命令边界：pending/cleared 走正常 advance；重复补课拒
+        task_ops.create("test-s0c", "retranslate", zh_doc=self._md("s0c.md"))
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.source_audit("test-s0c", actor="t", evidence="e")  # pending
+        task_ops.clear("test-s0c")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.source_audit("test-s0c", actor="t", evidence="e")  # cleared
+        task_ops.advance("test-s0c", "s0", actor="t", evidence="源审计记录")
+        task_ops.advance("test-s0c", "draft", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.source_audit("test-s0c", actor="t", evidence="e")  # 已有 s0
 
     def test_clear_keeps_h1_only(self):
         md = self._md("c.md")
@@ -67,7 +112,7 @@ class TestTaskOps(unittest.TestCase):
         md = self._md("r.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-r", "retranslate", zh_doc=md)
         task_ops.clear("test-r")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-r", step, actor="t", evidence="e")
         task_ops.advance("test-r", "s24", actor="t", evidence="e")
         task_ops.advance("test-r", "audit", actor="t", evidence="e；冷置回读＋密度统计")
@@ -90,6 +135,7 @@ class TestTaskOps(unittest.TestCase):
             cf = os.path.join(d, "change.json")
             write_text(cf, '{"items": []}')
             task_ops.create("test-c", "update", change_file=cf)
+            task_ops.advance("test-c", "s0", actor="t", evidence="changes:#item3")
             with self.assertRaises(task_ops.PreconditionError):
                 task_ops.advance("test-c", "s1", actor="t", evidence="口说无凭")
             t = task_ops.advance("test-c", "s1", actor="t", evidence="changes:#item3")
@@ -106,7 +152,7 @@ class TestTaskOps(unittest.TestCase):
         # done 不得绕过 r3（2026-11-10 修 done 分支缺前置校验，实测重复 done 由并发撞出）
         task_ops.create("test-e", "retranslate", zh_doc=self._md("e.md"))
         task_ops.clear("test-e")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-e", step, actor="t", evidence="e")
         task_ops.advance("test-e", "s24", actor="t", evidence="e")
         task_ops.advance("test-e", "audit", actor="t", evidence="e；冷置回读＋密度统计")
@@ -125,7 +171,7 @@ class TestTaskOps(unittest.TestCase):
         # 复核独立性机检（rules/04、ADR-0020 裁定②）：单会话形态 r3 必须记明冷置
         task_ops.create("test-i1", "retranslate", zh_doc=self._md("i1.md"))
         task_ops.clear("test-i1")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         task_ops.advance("test-i1", "s24", actor="t", evidence="e")
         task_ops.advance("test-i1", "audit", actor="t", evidence="e；冷置回读＋密度统计")
@@ -140,7 +186,7 @@ class TestTaskOps(unittest.TestCase):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
         task_ops.create("test-i2", "retranslate", zh_doc=self._md("i2.md"))
         task_ops.clear("test-i2")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         task_ops.advance("test-i2", "s24", actor="w", evidence="e")
         task_ops.advance("test-i2", "audit", actor="w", evidence="e；冷置回读＋密度统计")
@@ -155,6 +201,7 @@ class TestTaskOps(unittest.TestCase):
             cf = os.path.join(d, "change.json")
             write_text(cf, '{"items": []}')
             task_ops.create("test-i3", "update", change_file=cf)
+            task_ops.advance("test-i3", "s0", actor="w", evidence="changes:#item3")
             task_ops.advance("test-i3", "s1", actor="w", evidence="changes:#item3")
             task_ops.advance("test-i3", "s2", actor="w", evidence="changes:#item3")
             task_ops.advance("test-i3", "s24", actor="w", evidence="changes:#item3")
@@ -184,6 +231,7 @@ class TestTaskOps(unittest.TestCase):
         t = task_ops.advance("test-d", None, actor="t", evidence="裁定完成", unblock=True)
         self.assertEqual(t["blockers"], [])
         task_ops.clear("test-d")
+        task_ops.advance("test-d", "s0", actor="t", evidence="e")
         t2 = task_ops.advance("test-d", "draft", actor="t", evidence="e")
         self.assertEqual(t2["state"], "drafted")
 
@@ -192,7 +240,7 @@ class TestTaskOps(unittest.TestCase):
         # 审计已译环节（ADR-0040）：s2_checked → s3 跳过 audited 即拒
         task_ops.create("test-a1", "retranslate", zh_doc=self._md("a1.md"))
         task_ops.clear("test-a1")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-a1", step, actor="t", evidence="e")
         task_ops.advance("test-a1", "s24", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
@@ -211,7 +259,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops.create("test-g1", "retranslate", zh_doc=bad)
         task_ops.clear("test-g1")
         write_text(bad, bad_body)  # clear 置空后写回，模拟 draft 成稿含裸 $
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-g1", step, actor="t", evidence="e")
         task_ops.advance("test-g1", "s24", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
@@ -221,7 +269,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops.create("test-g2", "retranslate", zh_doc=good)
         task_ops.clear("test-g2")
         write_text(good, good_body)
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-g2", step, actor="t", evidence="e")
         task_ops.advance("test-g2", "s24", actor="t", evidence="e")
         t = task_ops.advance("test-g2", "audit", actor="t",
@@ -234,6 +282,7 @@ class TestTaskOps(unittest.TestCase):
             cf = os.path.join(d, "change.json")
             write_text(cf, '{"items": []}')
             task_ops.create("test-u1", "update", change_file=cf)
+            task_ops.advance("test-u1", "s0", actor="t", evidence="changes:#item3")
             task_ops.advance("test-u1", "s1", actor="t", evidence="changes:#item3")
             task_ops.advance("test-u1", "s2", actor="t", evidence="changes:#item3")
             task_ops.advance("test-u1", "s24", actor="t", evidence="changes:#item3")
@@ -248,7 +297,7 @@ class TestTaskOps(unittest.TestCase):
         # audit 与初译 actor 全同时，evidence 须记明冷置或密度统计补偿
         task_ops.create("test-n1", "retranslate", zh_doc=self._md("n1.md"))
         task_ops.clear("test-n1")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-n1", step, actor="t", evidence="e")
         task_ops.advance("test-n1", "s24", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
@@ -262,7 +311,7 @@ class TestTaskOps(unittest.TestCase):
         md = self._md("u.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-u2", "retranslate", zh_doc=md)
         task_ops.clear("test-u2")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-u2", step, actor="t", evidence="e")
         task_ops.advance("test-u2", "s24", actor="t", evidence="e")
         t = task_ops.advance("test-u2", "audit", actor="rev", evidence="e")
@@ -280,6 +329,7 @@ class TestTaskOps(unittest.TestCase):
         md = self._md("u3.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-u3", "retranslate", zh_doc=md)
         task_ops.clear("test-u3")
+        task_ops.advance("test-u3", "s0", actor="t", evidence="e")
         task_ops.advance("test-u3", "draft", actor="t", evidence="e")
         task_ops.block("test-u3", "挂起核查")
         with self.assertRaises(task_ops.PreconditionError):
@@ -288,7 +338,7 @@ class TestTaskOps(unittest.TestCase):
         md2 = self._md("u4.md", "# 测试标题\n\n旧译文。\n")
         task_ops.create("test-u4", "retranslate", zh_doc=md2)
         task_ops.clear("test-u4")
-        for step in ("draft", "s1", "s2"):
+        for step in ("s0", "draft", "s1", "s2"):
             task_ops.advance("test-u4", step, actor="t", evidence="e")
         task_ops.advance("test-u4", "s24", actor="t", evidence="e")
         task_ops.advance("test-u4", "audit", actor="rev", evidence="e")

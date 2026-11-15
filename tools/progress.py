@@ -15,7 +15,8 @@ from datetime import datetime, timezone
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATES = ["pending", "cleared", "drafted", "s1_checked", "s2_checked",
+STATES = ["pending", "cleared", "s0_source_checked", "drafted", "s1_checked",
+          "s2_checked",
           "s2.4_termchecked", "s2.5_checked", "s3_checked",
           "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"]
 
