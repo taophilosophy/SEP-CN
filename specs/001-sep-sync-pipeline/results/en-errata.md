@@ -319,3 +319,4 @@
 | aristotle-causality | furley-1999 `Aristotle’ Final Cause` | `Aristotle’s Final Cause` | 缺 s（①） |
 | binarium | notes 引 Baur 拉丁文 `proporitionem` | `proportionem` | 拼写（①） |
 | binarium | gilson-1955 `Institut supérieure de philosophie` | `supérieur` | 法语性数配误（①） |
+| timon-phlius | decleva 2020 条 `Declava Caizzi` | `Decleva Caizzi` | 姓氏拼写（①） |

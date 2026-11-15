@@ -81,7 +81,7 @@ Academy, Plato’s | Anaxagoras | Arcesilaus | Cynics, in ancient Greek philosop
 
 [^decleva-1981]: Decleva Caizzi, F., 1981, *Pirrone: Testimonianze*, Naples: Bibliopolis. Complete collection of texts referring to Pyrrho, with Italian translation and commentary; includes most of the surviving material from Timon.
 
-[^declava-2020]: Declava Caizzi, F., 2020, *Pirroniana*, Milan: LED. A second edition of the previous item, with new material including an English translation of the texts by Mauro Bonazzi and David Sedley.
+[^decleva-2020]: Decleva Caizzi, F., 2020, *Pirroniana*, Milan: LED. A second edition of the previous item, with new material including an English translation of the texts by Mauro Bonazzi and David Sedley.
 
 [^di-1989]: Di Marco, M., 1989, *Timone di Fliunte: Silli*, Rome: Edizione dell’Ateneo. Fragments from the *Silloi*, with Italian introduction, translation and commentary.
 

@@ -56,28 +56,36 @@
 
 ## 参考文献
 
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
-
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Ancient Texts
+[^decleva-1981]: Decleva Caizzi, F., 1981, *Pirrone: Testimonianze*, Naples: Bibliopolis. 指涉皮浪的文本全集，附意大利语译文与评注；含提蒙现存材料的大部。
 
-### Secondary Literature
+[^declava-2020]: Decleva Caizzi, F., 2020, *Pirroniana*, Milan: LED. 上一书之第二版，增补新材料，包括 Mauro Bonazzi 与 David Sedley 的英译。
 
-[^decleva-1981]: Decleva Caizzi, F., 1981, *Pirrone: Testimonianze*, Naples: Bibliopolis. Complete collection of texts referring to Pyrrho, with Italian translation and commentary; includes most of the surviving material from Timon.
-[^declava-2020]: Declava Caizzi, F., 2020, *Pirroniana*, Milan: LED. A second edition of the previous item, with new material including an English translation of the texts by Mauro Bonazzi and David Sedley.
-[^di-1989]: Di Marco, M., 1989, *Timone di Fliunte: Silli*, Rome: Edizione dell’Ateneo. Fragments from the *Silloi*, with Italian introduction, translation and commentary.
-[^diels-1901]: Diels, H., 1901, *Poetarum Philosophorum Fragmenta*, Berlin: Weidmann: 173–206. Comprehensive edition of texts by and about Timon, with intermittent comments in Latin.
-[^lloyd-jones-1983]: Lloyd-Jones, H. and P. Parsons, 1983, *Supplementum Hellenisticum*, Berlin/New York: Walter de Gruyter: 368–395. Includes all verse fragments from Timon.
-[^long-1987]: Long, A. A. and D. N. Sedley, 1987, *The Hellenistic Philosophers*, Cambridge: Cambridge University Press (2 vols.), sections 1–3. Includes a number of representative fragments from Timon. Vol.1 contains texts in English translation with philosophical commentary; vol.2 contains original texts with philological commentary.
+[^di-1989]: Di Marco, M., 1989, *Timone di Fliunte: Silli*, Rome: Edizione dell’Ateneo. 《讽刺诗》残篇，附意大利语导论、译文与评注。
+
+[^diels-1901]: Diels, H., 1901, *Poetarum Philosophorum Fragmenta*, Berlin: Weidmann: 173–206. 提蒙本人及相关文本的汇集版，间有拉丁文评注。
+
+[^lloyd-jones-1983]: Lloyd-Jones, H. and P. Parsons, 1983, *Supplementum Hellenisticum*, Berlin/New York: Walter de Gruyter: 368–395. 收录提蒙全部诗体残篇。
+
+[^long-1987]: Long, A. A. and D. N. Sedley, 1987, *The Hellenistic Philosophers*, Cambridge: Cambridge University Press (2 vols.), sections 1–3. 含若干提蒙代表残篇。第 1 卷为英译文本与哲学评注；第 2 卷为原文与语文学评注。
+
 [^bett-2000]: Bett, R., 2000, *Pyrrho, his Antecedents and his Legacy*, Oxford: Oxford University Press.
+
 [^bett-2012]: Bett, R., 2012, Review of Clayman (2009), *Gnomon*, 84: 107–12.
+
 [^brunschwig-1994]: Brunschwig, J., 1994, “The title of Timon’s *Indalmoi:* from Odysseus to Pyrrho,” in J. Brunschwig, *Papers in Hellenistic Philosophy*, Cambridge: Cambridge University Press, 212–223.
+
 [^clayman-2009]: Clayman, D., 2009, *Timon of Phlius: Pyrrhonism into Poetry*, Berlin/New York: Walter de Gruyter.
+
 [^decleva-1984]: Decleva Caizzi, F., 1984, “Timone di Fliunte: I frammenti 74, 75, 76 Diels,” in F. Angeli, ed., *La storia della filosofia come sapere critico: Studi offerti a Mario Dal Pra*, Milan: 92–105.
+
 [^long-1978]: Long, A. A., 1978, “Timon of Phlius: Pyrrhonist and Satirist,” *Proceedings of the Cambridge Philological Society* (New Series), 24: 68–91.
+
 [^marchand-2018]: Marchand, S., 2018. *Le scepticisme: vivre sans opinions*, Paris: Vrin, chapter 1.
+
 [^perin-2018]: Perin, C., 2018. “Pyrrho and Timon,” in D. Machuca and B. Reed, eds., *Skepticism: From Antiquity to the Present*, London/New York: Bloomsbury, 24–35.
+
 [^svavarsson-2010]: Svavarsson, S., 2010, “Pyrrho and Early Pyrrhonism”, in R. Bett, ed., *The Cambridge Companion to Ancient Scepticism*, Cambridge: Cambridge University Press, 36–57.
 
 ## 学术工具
