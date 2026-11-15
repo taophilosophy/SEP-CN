@@ -18,11 +18,11 @@
 
 十八世纪，环境的欣赏范围与相关理论表述都经历了空前的扩张。在此之前，环境当然早已进入各类艺术。乡村风景是诗歌牧歌传统的惯常场景，画家也历来把风景纳入自己的作品。不过，在这些艺术传统中，风景只居于辅助地位，通常充当探索历史、宗教与道德主题的背景。十七世纪的洛兰（Lorrain）、罗萨（Rosa）、迪盖（Dughet）等画家较早打破了这种贬抑：他们把风景提到前台，使其作为引人入胜的题材而自成一格（Clark 1949）[^clark-1949]。其中洛兰的作品对英国人的想象影响尤大，掀起了一股造园与园艺的热潮，贵族们竞相在自家庄园里营造洛兰笔下的梦幻田园。到十九世纪初，大自然更野性的一面又添新魅。欧洲人亲近浪漫主义的自然观，在阿尔卑斯山那里体会到一种近乎刺激的迷恋；而此前这片山地得到的目光，往往是厌恶与恐惧的种种混合。
 
-这一时期的哲学家力图把握并理解趣味上的种种变化。十八世纪哲学家的一个关键概念举措，是把传统的“美”从它与爱、占有、欲望的古典联想中剥离出来，转而强调其*disinterested*（无利害）的特征。照此理解，评价一物之美，须撇开欣赏者自身在个人、宗教、经济或功利上的特殊利益（经典的历史梳理见 Stolnitz 1961；对十八世纪无利害性之作用的近期重新评价，见 Guyer 2003, 2014）[^guyer-2003][^guyer-2014][^stolnitz-1961]。可是，“美”的古典涵义——爱之外，还有秩序、比例、和谐——实在过于根深蒂固，用它来描述上述新的吸引对象并不合适。十八世纪的作者于是另觅词汇。像洛兰画布上那样的景致——细腻多变、不守规矩、纤巧，颜色“明丽”——被称作“如画的”（picturesque）（Andrews 1989）[^andrews-1989]。阿尔卑斯山峰则被纳入崇高（sublime）来理解：这个概念曾见于古代修辞学，用以描述伴随伟大心灵与雄强思想的那种表达（Monk 1935; Nicholson 1959）[^monk-1935]。凡是强有力、浩大、激烈、令人惊惧而又无形的东西，都被归入崇高一类：风暴、巨壑、奔腾的瀑布，等等。到该世纪末，便形成了后来所谓的“审美概念”三元组——美、崇高、如画——三者各自把握自然可感性格中一个对照性的侧面。
+这一时期的哲学家力图把握并理解趣味上的种种变化。十八世纪哲学家的一个关键概念举措，是把传统的“美”从它与爱、占有、欲望的古典联想中剥离出来，转而强调其无利害（*disinterested*）的特征。照此理解，评价一物之美，须撇开欣赏者自身在个人、宗教、经济或功利上的特殊利益（经典的历史梳理见 Stolnitz 1961；对十八世纪无利害性之作用的近期重新评价，见 Guyer 2003, 2014）[^guyer-2003][^guyer-2014][^stolnitz-1961]。可是，“美”的古典涵义——爱之外，还有秩序、比例、和谐——实在过于根深蒂固，用它来描述上述新的吸引对象并不合适。十八世纪的作者于是另觅词汇。像洛兰画布上那样的景致——细腻多变、不守规矩、纤巧，颜色“明丽”——被称作“如画的”（picturesque）（Andrews 1989）[^andrews-1989]。阿尔卑斯山峰则被纳入崇高（sublime）来理解：这个概念曾见于古代修辞学，用以描述伴随伟大心灵与雄强思想的那种表达（Monk 1935; Nicholson 1959）[^monk-1935]。凡是强有力、浩大、激烈、令人惊惧而又无形的东西，都被归入崇高一类：风暴、巨壑、奔腾的瀑布，等等。到该世纪末，便形成了后来所谓的“审美概念”三元组——美、崇高、如画——三者各自把握自然可感性格中一个对照性的侧面。
 
 这一时期的哲学论著分析了上述概念并说明其相互关系，作者包括沙夫茨伯里（Shaftesbury）、哈奇森（Hutcheson）、伯克（Burke）、艾利森（Alison）等人，行文中常常论及对自然与风景的欣赏。影响最大的当属康德《判断力批判》（*Critique of the Power of Judgement*，1790）中的论述：他把自然看作审美经验的典范对象。康德分析无利害性，因而特别看重形式要素在自然美中的位置——一朵花之所以美，关乎其形状，与它在植物繁殖中的生物学功能无关，甚至与颜色也无关。除美的学说之外，康德对崇高亦有细密分析：他把对强有力的自然对象所生之经验（他名为“力学的崇高”）同对浩大无垠所生之经验（“数学的崇高”）区别开来。尽管带有形式主义的倾向，康德仍然让自然美高于艺术美，并论证对自然美与崇高的经验含有深刻的道德意蕴。
 
-康德未曾理会如画；可是在上述三个审美概念里，如画大概要算遗产最丰厚的一个。“如画的”起初似乎只等于“画意的”，即画家笔下那类风景。然而，十七世纪后期艺术与风景欣赏之间结成的紧密关系，赋予这个词额外的意味。按如画理想改造庄园的英国贵族，要的不只是多变而不规则景致，更是一种*view*（景观视野）——本质上复制洛兰画布的单点透视。所以，在实践中“如画的”往往就等于“像一幅画”。如画的欣赏也通常把风景体验等同于一系列视野的体验，仿佛面对的是一批巨幅露天绘画，须就视野的“题材”“构图”“平衡”等逐项评断。于是，尽管像乌弗代尔·普赖斯（Uvedale Price，1796）这样的如画哲学理论家持论更为细致（见下文第 4.3 节），流行于实践的如画理想仍往往从审美角度把自然与环境等同于风景。这一理想为方兴未艾的风景旅游业立下了范式：游客带着威廉·吉尔平（William Gilpin）等通俗作家的导游书，到湖区、苏格兰高地与怀伊河谷去寻觅如画的视野（英国如画运动史见 Andrews 1989；其重要哲学文本的分析见 Costelloe 2013）[^andrews-1989][^costelloe-2013]。
+康德未曾理会如画；可是在上述三个审美概念里，如画大概要算遗产最丰厚的一个。“如画的”起初似乎只等于“画意的”，即画家笔下那类风景。然而，十七世纪后期艺术与风景欣赏之间结成的紧密关系，赋予这个词额外的意味。按如画理想改造庄园的英国贵族，要的不只是多变而不规则景致，更是一种景观视野（*view*）——本质上复制洛兰画布的单点透视。所以，在实践中“如画的”往往就等于“像一幅画”。如画的欣赏也通常把风景体验等同于一系列视野的体验，仿佛面对的是一批巨幅露天绘画，须就视野的“题材”“构图”“平衡”等逐项评断。于是，尽管像乌弗代尔·普赖斯（Uvedale Price，1796）这样的如画哲学理论家持论更为细致（见下文第 4.3 节），流行于实践的如画理想仍往往从审美角度把自然与环境等同于风景。这一理想为方兴未艾的风景旅游业立下了范式：游客带着威廉·吉尔平（William Gilpin）等通俗作家的导游书，到湖区、苏格兰高地与怀伊河谷去寻觅如画的视野（英国如画运动史见 Andrews 1989；其重要哲学文本的分析见 Costelloe 2013）[^andrews-1989][^costelloe-2013]。
 
 ### 1.2 如画遗产与生态意识
 
@@ -60,19 +60,19 @@
 
 ### 2.1 自然环境
 
-卡尔森在批判“风景美学”的同时，又把利奥波德、缪尔等环境思想家的想法推进为另一种观点，最初命名为审美欣赏的“自然环境模式”（下称“NEM”；Carlson 1979）[^carlson-1979]。照这种观点，要恰当地欣赏一处自然环境，就得把它当作它所是的那种环境来看，也就是按照自然科学对这一环境的刻画来看。这个立场虽然反对照搬艺术欣赏的路子去欣赏自然（即如画所启发的“景观模式”），卡尔森却借自然与艺术*between*（之间）的一般类比为之张目：对艺术的“严肃”或恰当的审美欣赏需要具备若干艺术史与艺术批评的知识，同样，对自然的此类欣赏也需要若干自然史的知识，即自然科学、特别是地质学、生物学与生态学所提供的知识。举例来说，要恰当欣赏毕加索的*Guernica*（《格尔尼卡》，1937），就得把它当作它所是的东西——一幅立体主义绘画——来经验，因而须借助关于绘画一般、尤其是立体主义绘画的知识（Walton 1970）[^walton-1970]。NEM 把这套推理移用于自然之物：对自然的科学理解能够揭示自然对象与环境的审美品质，情形恰如艺术史与艺术批评知识之于艺术作品。除这层类比论证之外，卡尔森及该路向的辩护者还给出宽泛的伦理理由：以生态学为依据的自然欣赏会促成对环境的更好对待，或为更进步的环境保护赢得更多支持（Carlson 1981, Saito 1998b；批评性讨论见 Stecker 2012, Parsons 2018）[^carlson-1981][^carlson-2000][^parsons-2018][^parsons-2018-2][^saito-1998b][^stecker-2012]。NEM 初倡之后，卡尔森本人又作了发展与限定（Carlson 1981, 2000, 2007）[^carlson-1981]；其各种变体也得到不少哲学家的辩护（Callicott 1994, 2003; Rolston 1995; Eaton 1998; Fudge 2001; Matthews 2002; Parsons 2002, 2006a, 2006b; Parsons & Carlson 2004, 2008）[^callicott-1994][^callicott-2003][^carlson-2004][^carlson-2008][^eaton-1998][^fudge-2001][^matthews-2002][^parsons-2002][^parsons-2004][^parsons-2006a][^parsons-2006b][^parsons-2008][^parsons-2004-2][^parsons-2008-2][^parsons-2002-2][^rolston-1995]。
+卡尔森在批判“风景美学”的同时，又把利奥波德、缪尔等环境思想家的想法推进为另一种观点，最初命名为审美欣赏的“自然环境模式”（下称“NEM”；Carlson 1979）[^carlson-1979]。照这种观点，要恰当地欣赏一处自然环境，就得把它当作它所是的那种环境来看，也就是按照自然科学对这一环境的刻画来看。这个立场虽然反对照搬艺术欣赏的路子去欣赏自然（即如画所启发的“景观模式”），卡尔森却借自然与艺术“之间”（*between*）的一般类比为之张目：对艺术的“严肃”或恰当的审美欣赏需要具备若干艺术史与艺术批评的知识，同样，对自然的此类欣赏也需要若干自然史的知识，即自然科学、特别是地质学、生物学与生态学所提供的知识。举例来说，要恰当欣赏毕加索的*Guernica*（《格尔尼卡》，1937），就得把它当作它所是的东西——一幅立体主义绘画——来经验，因而须借助关于绘画一般、尤其是立体主义绘画的知识（Walton 1970）[^walton-1970]。NEM 把这套推理移用于自然之物：对自然的科学理解能够揭示自然对象与环境的审美品质，情形恰如艺术史与艺术批评知识之于艺术作品。除这层类比论证之外，卡尔森及该路向的辩护者还给出宽泛的伦理理由：以生态学为依据的自然欣赏会促成对环境的更好对待，或为更进步的环境保护赢得更多支持（Carlson 1981, Saito 1998b；批评性讨论见 Stecker 2012, Parsons 2018）[^carlson-1981][^carlson-2000][^parsons-2018][^parsons-2018-2][^saito-1998b][^stecker-2012]。NEM 初倡之后，卡尔森本人又作了发展与限定（Carlson 1981, 2000, 2007）[^carlson-1981]；其各种变体也得到不少哲学家的辩护（Callicott 1994, 2003; Rolston 1995; Eaton 1998; Fudge 2001; Matthews 2002; Parsons 2002, 2006a, 2006b; Parsons & Carlson 2004, 2008）[^callicott-1994][^callicott-2003][^carlson-2004][^carlson-2008][^eaton-1998][^fudge-2001][^matthews-2002][^parsons-2002][^parsons-2004][^parsons-2006a][^parsons-2006b][^parsons-2008][^parsons-2004-2][^parsons-2008-2][^parsons-2002-2][^rolston-1995]。
 
 上述观点是想把既有的艺术欣赏观念延伸到自然，阿诺德·伯林特（Arnold Berleant）的进路却恰恰相反：它以对传统审美欣赏观念的大幅否弃为起点。他的“介入美学”认为，无利害的欣赏带着那种孤立、拉开距离、把对象客体化的凝视，在自然的审美经验里并不合宜。这样的欣赏把自然对象与欣赏者一并从他们本来所属的环境里抽离出来——而唯有在这一环境中，恰当的欣赏才可能达成。介入美学转而突出自然的语境性，以及我们对自然的多种感官经验。它把环境看成场所、有机体与知觉的连续统一体，因而质疑主体与客体这类传统二分是否还那么要紧。它要求欣赏者投身于自然环境，尽可能缩小自己与自然世界之间的间隔。简言之，恰当的审美经验意味着欣赏者完全沉浸到欣赏对象中去（Berleant 1985, 1988, 1992, 2013b；批评性讨论见 Carlson 1993, Budd 2002）[^berleant-1985][^berleant-1988][^berleant-1992][^berleant-2013b][^budd-2002][^carlson-1993]。同卡尔森 NEM 一样，后来学者也继承了伯林特路向（关于其观点如何被接受，见 Łukaszewicz Alvarez 2017 与 Gladden-Obidzińska 2021 所收论文）[^gladden-obidzińska-2021][^alvarez-2017]。
 
 NEM 与介入美学之间这种壁垒分明的对立，后来演变成一套用来整理整个领域的区分：立场或被归为“认知的”与“非认知的”（Godlovitch 1994; Eaton 1998; Carlson & Berleant 2004）[^berleant-2004][^carlson-2004][^eaton-1998][^godlovitch-1994]，或被归为“概念的”与“非概念的”（Moore 1999）[^moore-1999]，或被归为“叙事的”与“氛围的”（Foster 1998）[^foster-1998]。大体上，这些区分划出的是这样一道界线：一边像 NEM 那样，主张知识、信息是环境审美欣赏的必备条件；另一边则像介入美学那样，淡化这一层面而看重欣赏的其他维度。“认知”一方除了 NEM，还包括要求人们相信自然源自非人力量的观点（如 Budd 2002）[^budd-2002]，以及强调其他信念来源的观点，比如关于自然的乡土叙事与区域叙事、民间传说、艺术和神话故事（Sepänmaa 1986 [1993], 2004; Saito 1998b; Heyd 2001; Leddy 2005; Tafalla 2010）[^heyd-2001][^leddy-2005][^saito-1998b][^sepänmaa-1986][^tafalla-2010]。鉴于“认知主义”阵营内部如此分歧，人们又造出“科学认知主义”一名专指 NEM。账本的另一边，“非认知”一方则包括重视情感的观点（Carroll 1993）[^carroll-1993]、重视自然之异在中那种神秘感的观点（Godlovitch 1994）[^godlovitch-1994]、重视“形式品质”的观点（Zangwill 2001, 2005a, 2005b, 2013）[^zangwill-2001][^zangwill-2005a][^zangwill-2005b][^zangwill-2013]、重视形而上学观念与洞见的观点（Hepburn 1996）[^hepburn-1996]，以及重视想象的观点（Brady 1998, 2003）[^brady-1998][^brady-2003]。
 
-这个认知/非认知的二分法虽被广泛沿用，却在逻辑上站不住脚，还掩盖了领域内的一些要害问题。其一，它与一种更成熟的哲学用法相冲突：在那里，“非认知”意味着没有真值，或纯粹是情感性的。按这个意思，上面介绍的观点大多仍应算作“认知的”，因为它们都涉及信念与判断。更要紧的是，这一分类把两件事捆在一起：哪些心理官能在审美欣赏中起重要作用，以及科学理解是否为审美欣赏所必需；而这两件事本该分开来谈（Parsons 2023b）[^parsons-2023b]。比如，该分类把让想象或情感居于核心的观点，同让科学理解起本质作用的观点判然分开；可这些特征并不互斥——科学理解同样能唤起情感，想象也可以在科学理解之上展开，并反过来给它以启发。真正把两个阵营分开的其实是后一个问题：以科学或自然史为根据的信念，是否在某种意义上对“正确”或“恰当”的审美欣赏必不可少。NEM 正是这样主张的，因而在规范层面*constraining*（约束）着想象、情感反应与介入的可允许形式。
+这个认知/非认知的二分法虽被广泛沿用，却在逻辑上站不住脚，还掩盖了领域内的一些要害问题。其一，它与一种更成熟的哲学用法相冲突：在那里，“非认知”意味着没有真值，或纯粹是情感性的。按这个意思，上面介绍的观点大多仍应算作“认知的”，因为它们都涉及信念与判断。更要紧的是，这一分类把两件事捆在一起：哪些心理官能在审美欣赏中起重要作用，以及科学理解是否为审美欣赏所必需；而这两件事本该分开来谈（Parsons 2023b）[^parsons-2023b]。比如，该分类把让想象或情感居于核心的观点，同让科学理解起本质作用的观点判然分开；可这些特征并不互斥——科学理解同样能唤起情感，想象也可以在科学理解之上展开，并反过来给它以启发。真正把两个阵营分开的其实是后一个问题：以科学或自然史为根据的信念，是否在某种意义上对“正确”或“恰当”的审美欣赏必不可少。NEM 正是这样主张的，因而在规范层面约束着（*constraining*）想象、情感反应与介入的可允许形式。
 
-针对这一点，许多哲学家主张这类有科学依据的信念对于恰当欣赏*not*（并非）必需，所举理由五花八门：NEM 求助于科学，无非把事实与价值混作一谈（Berleant 2016; Newman, Varner, & Linquist 2017）[^berleant-2016][^newman-2017]；这样做与审美经验的无利害性相抵触（Zangwill 2013）[^zangwill-2013]；这类信念可能涵盖的范围太大（Stecker 1997; Budd 2002）[^budd-2002][^stecker-1997]；它过度压缩了审美经验的余地（Heyd 2001; Brady 2003; Zangwill 2005b）[^brady-2003][^heyd-2001][^zangwill-2005b]；况且这类信念过于抽象，难以影响审美经验（Heyd 2001; Hill & Daniel 2008）[^heyd-2001]。持这些批评的人当中，有的认为科学与审美欣赏根本水火不容，有的则允许以科学为依据的欣赏成立，只把它看作诸多有效欣赏方式之一（例如见 Ross 2005）[^ross-2005]。
+针对这一点，许多哲学家主张这类有科学依据的信念对于恰当欣赏并非（*not*）必需，所举理由五花八门：NEM 求助于科学，无非把事实与价值混作一谈（Berleant 2016; Newman, Varner, & Linquist 2017）[^berleant-2016][^newman-2017]；这样做与审美经验的无利害性相抵触（Zangwill 2013）[^zangwill-2013]；这类信念可能涵盖的范围太大（Stecker 1997; Budd 2002）[^budd-2002][^stecker-1997]；它过度压缩了审美经验的余地（Heyd 2001; Brady 2003; Zangwill 2005b）[^brady-2003][^heyd-2001][^zangwill-2005b]；况且这类信念过于抽象，难以影响审美经验（Heyd 2001; Hill & Daniel 2008）[^heyd-2001][^hill-2008]。持这些批评的人当中，有的认为科学与审美欣赏根本水火不容，有的则允许以科学为依据的欣赏成立，只把它看作诸多有效欣赏方式之一（例如见 Ross 2005）[^ross-2005]。
 
 最后这一点说明：即便拒斥 NEM 及其同类观点为科学知识所设的本质性地位，这些论者仍要面对一个更大的问题——自然欣赏的规范边界该划在哪里？难道对自然环境的任何一种欣赏，都与另一种同样可接受、同样恰当？若答“是”，便落入一种强相对主义：对自然的任何反应都算数，无论出于神话联想、艺术联想，还是纯属个人癖好，只要能以某种方式增进欣赏即可（Heyd 2001；经典表述见 Croce 1902 [1909/1922]）[^croce-1902][^heyd-2001]。但在反对 NEM 的人中间，赤裸裸的相对主义并不吃香（Maskit 2014）[^maskit-2014]；更常见的做法，是或明或暗地另立一套规范约束。
 
-以 Zangwill 为例，他认为审美欣赏（至少对无机自然而言）只能涉及关于知觉形式的信念（2001）。也有人主张，自然欣赏所受到的唯一约束，是意识到所欣赏的东西属于自然而非人工制品（J. Fisher 1998; Budd 2002）[^budd-2002][^fisher-1998]，并不需要什么更深的科学理解。斋藤百合子（Yuriko Saito）提出的则是道德标准：只要欣赏让自然及其起源成为一则叙事的中心，而这一叙事又照亮了我们对自然的经验，它就是恰当的（1998a; 1998b）。她认为这种态度含有道德维度，因为它表明欣赏者承认被欣赏之物自有其价值（另见 Parsons 2018）[^parsons-2018][^parsons-2018-2]。赫伯恩给出的标准带有准伦理意味，方向却相反：欣赏只要是为着对自我作某种实质性的探索而亲近自然，而不是“琐屑的消遣”，就算“严肃”（Hepburn 1993）[^hepburn-1993]。埃米莉·布雷迪（Emily Brady）在阐发以想象为核心的学说时，乞灵于“好好地想象”（imagining well）这一约束性理想（1998, 2003）。Robert Stecker 最后提出一条判准，关乎信念上的可责错误：我作为本文化一员，本可合理地被期待知道鲸属于哺乳动物而非鱼类；若怀着“鲸是鱼”的信念去欣赏鲸，那就是一种审美错误（2019）。
+以 Zangwill 为例，他认为审美欣赏（至少对无机自然而言）只能涉及关于知觉形式的信念（2001）。也有人主张，自然欣赏所受到的唯一约束，是意识到所欣赏的东西属于自然而非人工制品（J. Fisher 1998; Budd 2002）[^budd-2002][^fisher-1998]，并不需要什么更深的科学理解。斋藤百合子（Yuriko Saito）提出的则是道德标准：只要欣赏让自然及其起源成为一则叙事的中心，而这一叙事又照亮了我们对自然的经验，它就是恰当的（1998a; 1998b）[^saito-1998a][^saito-1998b]。她认为这种态度含有道德维度，因为它表明欣赏者承认被欣赏之物自有其价值（另见 Parsons 2018）[^parsons-2018][^parsons-2018-2]。赫伯恩给出的标准带有准伦理意味，方向却相反：欣赏只要是为着对自我作某种实质性的探索而亲近自然，而不是“琐屑的消遣”，就算“严肃”（Hepburn 1993）[^hepburn-1993]。埃米莉·布雷迪（Emily Brady）在阐发以想象为核心的学说时，乞灵于“好好地想象”（imagining well）这一约束性理想（1998, 2003）[^brady-1998][^brady-2003]。Robert Stecker 最后提出一条判准，关乎信念上的可责错误：我作为本文化一员，本可合理地被期待知道鲸属于哺乳动物而非鱼类；若怀着“鲸是鱼”的信念去欣赏鲸，那就是一种审美错误（2019）[^stecker-2019]。
 
 围绕自然欣赏之规范性的这场争论，有相当一部分与艺术哲学里一个老话题彼此呼应：艺术价值的判断能否有对错之分。比如卡尔森说，熟习自然史的人最能欣赏自然，这让人想起休谟的名论：评判艺术时，应当听从见闻广博、资格具备的“理想批评家”的裁断（Hume 1757; see Carlson 1977）[^carlson-1977][^hume-1757]。这一思路近来在艺术讨论中一直居于中心（例如见 Levinson 2002; Ross 2008; Lopes 2015）[^levinson-2002][^lopes-2015][^ross-2008]。不过，把休谟的理想批评家与 NEM 的理想欣赏者相类比，仍有若干重要侧面未获充分探讨。Nick Riggle 最近就对休谟式路径提出疑问：所谓“审美理想”，也许并不是见多识广的鉴赏能力，而是养成一种个人投入更深的艺术关系（Riggle 2015）[^riggle-2015]。这一想法或可类推到我们的“自然趣味”上（Parsons 2023b）[^parsons-2023b]：我们究竟应当力求体验、欣赏尽可能多样的环境，还是应当悉心培育自己对少数几处地方的特殊情感依恋？（关于热爱自然，见 Jamieson 2018）[^jamieson-2018]
 
@@ -96,9 +96,9 @@ NEM 与介入美学之间这种壁垒分明的对立，后来演变成一套用�
 
 如前所述，环境美学与环境伦理学的关切在不少关键处相通。其中一项显而易见的关切，就是保护环境不受人类侵入与毁坏。当开发或利用某处环境对人类有好处时，我们为何要收手？有时确能找到审慎的理由，比如砍伐集水区森林会危及人类水源。可是，当对自己或后代的损害并不见得会发生时，我们凭什么要选择让环境免于开发？
 
-对自然之美的思考自然引出一个直观的想法，即*Aesthetic Protectionism*（审美保护主义）：自然应当因其审美价值（或许还因别的价值）而受到保护（见 Leopold 1966; Carlson 1976; Godlovitch 1989; Hargrove 1989; Rolston 2002; Hettinger 2008, 2010, 2017b; Robinson & Elliott 2011; Cheng 2017a）[^carlson-1976][^cheng-2017a][^godlovitch-1989][^hargrove-1989][^hettinger-2008][^hettinger-2010][^hettinger-2017b][^leopold-1966][^robinson-2011][^rolston-2002]。如前所述，北美国家公园的构想正以此为主要动力，这一想法至今仍是环境运动的得力工具。举例说，保护壮观的北极熊不致失去栖息地，就是限制北方开发项目的有力理由。而且从哲学上看，在单纯的审慎理由不够用时，这个想法能让我们把自然保护奠基于一种习见而无争议的价值——审美价值（Sober 1986）[^sober-1986]。不过，审美保护主义初看虽吸引人，却也有若干棘手之处，并招致重要的反对意见（Carlson 2010; Hettinger 2017b; Parsons 2023b；相关论文见 Carlson & Lintott 2008 所编文集）[^carlson-2010][^carlson-2008][^hettinger-2017b][^parsons-2023b]。
+对自然之美的思考自然引出一个直观的想法，即审美保护主义（*Aesthetic Protectionism*）：自然应当因其审美价值（或许还因别的价值）而受到保护（见 Leopold 1966; Carlson 1976; Godlovitch 1989; Hargrove 1989; Rolston 2002; Hettinger 2008, 2010, 2017b; Robinson & Elliott 2011; Cheng 2017a）[^carlson-1976][^cheng-2017a][^godlovitch-1989][^hargrove-1989][^hettinger-2008][^hettinger-2010][^hettinger-2017b][^leopold-1966][^robinson-2011][^rolston-2002]。如前所述，北美国家公园的构想正以此为主要动力，这一想法至今仍是环境运动的得力工具。举例说，保护壮观的北极熊不致失去栖息地，就是限制北方开发项目的有力理由。而且从哲学上看，在单纯的审慎理由不够用时，这个想法能让我们把自然保护奠基于一种习见而无争议的价值——审美价值（Sober 1986）[^sober-1986]。不过，审美保护主义初看虽吸引人，却也有若干棘手之处，并招致重要的反对意见（Carlson 2010; Hettinger 2017b; Parsons 2023b；相关论文见 Carlson & Lintott 2008 所编文集）[^carlson-2010][^carlson-2008][^hettinger-2017b][^parsons-2023b]。
 
-若用这一观念专门为*natural*（自然）环境的保存作论证，麻烦就来了：在某些情形下，保护环境之美的举措同时也会使环境不再属于自然（Godlovitch 1989; K. Lee 1995）[^godlovitch-1989][^lee-1995]。譬如国家公园曾长期实行一项政策，保护园区森林不受自然发生的野火摧毁；这时人们不妨追问：留存下来的美，还能不能称作“自然的”？在别的情形下，审美保护主义又会因为另一个缘由显得弄巧成拙：对于偏远而生态脆弱的地区，把保护的重心放在审美考虑上，反而会招来更多观光客流，使该地区更易退化（Parsons 2015b; Tenen 2020）[^parsons-2015b][^tenen-2020]。再者，倘若审美价值是凭某种仍颇流行的“风景美学”来衡量的，审美保护主义多半只会高度选择性地保护那些被看作“大自然的杰作”的地方与物种——壮丽的山脉，以及北极熊、熊猫之类的“魅力巨型动物”；湿地、草原、昆虫、啮齿动物这些不那么起眼的对象则被撇在一边，尽管它们的生态意义其实可能重要得多（Saito 1998a, Rolston 2000, Callicott 2003; Hettinger 2010）[^callicott-2003][^hettinger-2010][^rolston-2000][^saito-1998a]。还有一个相关的顾虑：审美考虑同样可以被*opposing*（反对）环境友好政策的一方顺手拿来当武器，风电即为一例（Saito 2004；关于此案的进一步讨论见 Boone 2005, Gray 2012）[^boone-2005][^gray-2012][^saito-2004]。凡此种种，可能把人引向一个怀疑论的结论：审美价值其实与环境主义的目标相抵触，或者顶多过于浮浅，不足以充当环境保护行动的依据（Loftis 2003; Stewart & Johnson 2018；所涉哲学问题的进一步讨论见 Doran 2022）[^doran-2022][^loftis-2003][^stewart-2018]。
+若用这一观念专门为自然（*natural*）环境的保存作论证，麻烦就来了：在某些情形下，保护环境之美的举措同时也会使环境不再属于自然（Godlovitch 1989; K. Lee 1995）[^godlovitch-1989][^lee-1995]。譬如国家公园曾长期实行一项政策，保护园区森林不受自然发生的野火摧毁；这时人们不妨追问：留存下来的美，还能不能称作“自然的”？在别的情形下，审美保护主义又会因为另一个缘由显得弄巧成拙：对于偏远而生态脆弱的地区，把保护的重心放在审美考虑上，反而会招来更多观光客流，使该地区更易退化（Parsons 2015b; Tenen 2020）[^parsons-2015b][^tenen-2020]。再者，倘若审美价值是凭某种仍颇流行的“风景美学”来衡量的，审美保护主义多半只会高度选择性地保护那些被看作“大自然的杰作”的地方与物种——壮丽的山脉，以及北极熊、熊猫之类的“魅力巨型动物”；湿地、草原、昆虫、啮齿动物这些不那么起眼的对象则被撇在一边，尽管它们的生态意义其实可能重要得多（Saito 1998a, Rolston 2000, Callicott 2003; Hettinger 2010）[^callicott-2003][^hettinger-2010][^rolston-2000][^saito-1998a]。还有一个相关的顾虑：审美考虑同样可以被反对（*opposing*）环境友好政策的一方顺手拿来当武器，风电即为一例（Saito 2004；关于此案的进一步讨论见 Boone 2005, Gray 2012）[^boone-2005][^gray-2012][^saito-2004]。凡此种种，可能把人引向一个怀疑论的结论：审美价值其实与环境主义的目标相抵触，或者顶多过于浮浅，不足以充当环境保护行动的依据（Loftis 2003; Stewart & Johnson 2018；所涉哲学问题的进一步讨论见 Doran 2022）[^doran-2022][^loftis-2003][^stewart-2018]。
 
 为审美保护主义辩护的人可以这样答复：最后一类顾虑说到底是风景美学带来的，而风景美学本就该被摈弃。事实上，赫伯恩与卡尔森早年对如画的批评，得到不少关心环境保护的学者响应，他们把风景美学指为人类中心主义（Godlovitch 1994）[^godlovitch-1994]、眼里只有景色（Saito 1998a; Gobster 1999）[^gobster-1999][^saito-1998a]、琐屑无聊（Callicott 1994）[^callicott-1994]、主观任意（J. Thompson 1995）[^thompson-1995]，或者道德上空空洞洞（Andrews 1989）[^andrews-1989]。可即便反对风景美学的理由成立，换上替代方案之后能否应付上述难题，仍是未定之数：我们在自然中究竟能多普遍地发现审美价值？从生态角度看，把保护的力气押在美学上，是帮了环境保护还是添了乱？就其中许多指标而言，最有希望的候选者看来是 NEM 及其变体，因为它们都认为生态理解与审美欣赏有要紧的关联。不过也有人怀疑，即便这类以生态学为据的路向，也只能在有限程度上解决这些问题（Budd 2002; Hettinger 2005, 2008; Berleant 2010a, 2016; Bannon 2011; Stecker 2012; Herguedas 2018; Mikkonen 2018）[^bannon-2011][^berleant-2010a][^berleant-2016][^budd-2002][^herguedas-2018][^hettinger-2005][^hettinger-2008][^mikkonen-2018][^stecker-2012]。
 
@@ -114,7 +114,7 @@ NEM 与介入美学之间这种壁垒分明的对立，后来演变成一套用�
 
 肯定美学的吸引力，部分在于它能缓解一种忧虑：审美保护主义的适用范围恐怕太窄。可是，比这更根本的或许是另一层忧虑：如今许多环境保护行动看起来并不出于审美考虑，而是出于把生物多样性的损失压到最低的要求。换言之，被判定最急需保护的栖息地或物种，往往是最稀有或高度濒危的那些。尽量提高生物多样性，与尽量增加环境审美价值总量，看来是两种不同动机，而且经常朝相反方向拉扯。倘若必须在两者之间取舍——是让一个稀有却难看的物种免于灭绝，还是让一个惊艳却尚无危虞的物种前景更好——审美保护主义者会选择后者；而许多环境主义者对这一选择必定深感不安。
 
-这些环境主义者也许宁愿不谈审美保护，转而坚称保存生物多样性本身就是放弃开发的独立理由。这样一来，他们自然要设法说明这个理由何以是一个*good*（好）理由。同样，在具体情形中或许能找到减少物种损失的审慎理由，但环境主义者可能坚持认为，即使没有这类理由，生物多样性也应当受到保护。
+这些环境主义者也许宁愿不谈审美保护，转而坚称保存生物多样性本身就是放弃开发的独立理由。这样一来，他们自然要设法说明这个理由何以是一个好（*good*）理由。同样，在具体情形中或许能找到减少物种损失的审慎理由，但环境主义者可能坚持认为，即使没有这类理由，生物多样性也应当受到保护。
 
 若要为这一主张找到根据，可以由审美保护主义出面——条件是能够论证生物多样性与审美价值在概念上彼此相连。后一条路径的一项提议，是拿艺术作类比：某类艺术作品越是稀少，其艺术价值就越高。用 Sober 的话说：
 
@@ -136,7 +136,7 @@ Welchman 的分析有个好处：它把美学与环境保护的讨论放进了�
 
 > 从定义上说便是规范性的，因为它断言：人从承载着有益生态功能的景观中获取审美愉悦，乃是可欲之事。（Gobster et al. 2007: 962）[^gobster-2007]
 
-这个看法显然与 NEM 关系密切，但“有益的”这一限定带来了细微差别：恰当欣赏一处景观，既要懂得它生态上的*operation*（运作），又要肯定其生态*value*（价值）。照此说来，凡是生态上造成危害的东西——入侵物种即为一例——都不可能是审美上好的，无论它外表多么惹眼、生物学上多么有意思（批评性讨论见 Parsons & Daniel 2002；关于生态价值与审美价值相协调的其他近期讨论，见下文第 4.6 节）[^parsons-2002][^parsons-2002-2]
+这个看法显然与 NEM 关系密切，但“有益的”这一限定带来了细微差别：恰当欣赏一处景观，既要懂得它生态上的运作（*operation*），又要肯定其生态价值（*value*）。照此说来，凡是生态上造成危害的东西——入侵物种即为一例——都不可能是审美上好的，无论它外表多么惹眼、生物学上多么有意思（批评性讨论见 Parsons & Daniel 2002；关于生态价值与审美价值相协调的其他近期讨论，见下文第 4.6 节）[^parsons-2002][^parsons-2002-2]。
 
 更晚一些，“生态美学”这个名号也被一些属于所谓“欧陆传统”的哲学家拿去使用（Toadvine 2009）[^toadvine-2009]。这条路径倚重胡塞尔、海德格尔、梅洛-庞蒂等人，在某些方面与伯林特的介入美学相叠合——伯林特本人也受过现象学观念的影响（见 Berleant 1985, 2013a）[^berleant-1985][^berleant-2013a]。在这类著作中，“生态的”一名系于这样一个哲学主张：有机体与其环境无法分开，除非借助一种抽象，而那种抽象恰恰扭曲了它们具身经验在存在论上的原初实在（相关欧陆视角见 Tafalla 2011; Leddy 2012a; Maskit 2014; Seel 2015; Jóhannesdóttir 2016; Greaves 2019）[^greaves-2019][^jóhannesdóttir-2016][^leddy-2012a][^maskit-2014][^seel-2015][^tafalla-2011]。
 
@@ -154,11 +154,11 @@ Welchman 的分析有个好处：它把美学与环境保护的讨论放进了�
 
 近年来，几近废弃的如画与崇高概念又受到重新评估。前面说过，哲学家与史家往往把如画当作问题丛生的“风景美学”的祸根。不过近来也有人着力发掘这一概念更为细致的版本，例如十八世纪思想家乌弗代尔·普赖斯（Uvedale Price，1796）所持的那种。Roger Paden 认为，普赖斯的如画观念并未把自然当作形式主义的对象或准艺术品来处理，他还特别指出这一概念同美、崇高这两种不同审美品质之间的重要关联（Paden 2013; Paden, Harmon, & Milling 2013）[^paden-2013][^paden-2013-2]。Paden 的结论是：只要理解得法，如画在自然美学中仍可发挥重要作用，足以为一种奠基于进化生物学的规范性欣赏学说提供基础（Paden 2015a, 2016; Paden, Harmon, & Milling 2012）[^paden-2015a][^paden-2016][^paden-2012]。Isis Brook 的看法相近：如画特别宜于欣赏园林与乡村景观，它表达的是“在小小一方天地里对野性自然的热爱”（Brook 2008）[^brook-2008]。
 
-崇高概念同样重获生机。在几篇奠基性的讨论中，Guy Sircello（1993）与罗纳德·赫伯恩（1988）都追问崇高何以被弃置不用，并提出：尽管哲学家不再理会它，它或许仍与当代经验相干。前一问题上的认识，得益于晚近两项史学研究：一是崇高话语在现代旅游背景下的衰落（如 Colley 2010）[^colley-2010]，二是它在登山这类更极端的活动中延续下来（Macfarlane 2003; Hollis 2019）[^hollis-2019][^macfarlane-2003]。
+崇高概念同样重获生机。在几篇奠基性的讨论中，Guy Sircello（1993）[^sircello-1993] 与罗纳德·赫伯恩（1988）[^hepburn-1988]都追问崇高何以被弃置不用，并提出：尽管哲学家不再理会它，它或许仍与当代经验相干。前一问题上的认识，得益于晚近两项史学研究：一是崇高话语在现代旅游背景下的衰落（如 Colley 2010）[^colley-2010]，二是它在登山这类更极端的活动中延续下来（Macfarlane 2003; Hollis 2019）[^hollis-2019][^macfarlane-2003]。
 
-要求哲学重新正视崇高的呼声，由埃米莉·布雷迪等人接了过来。布雷迪梳理了该概念的早期哲学讨论，并维护一种大体属于康德式进路的崇高理论：它把审美自我反思与向外投射的赞叹融在一起（Brady 2013: 118；讨论见 Mahoney 2016）[^brady-2013][^mahoney-2016]。Sandra Shapshay 也重审十八世纪的经典理论，试图用一个“两层”的学说来调和康德与埃德蒙·伯克，把崇高分为“厚”“薄”两种。伯克式的“薄崇高”是一种不经反思的敬畏式反应；“厚崇高”则如康德所言，含有对如下挑战的反思：崇高的对象向我们认知能力发出挑战（2013, 2019, 2021）。Shapshay 认为，有此区分，便可解释崇高经验何以跨文化地出现，又何以随文化而变异、随历史而演化。
+要求哲学重新正视崇高的呼声，由埃米莉·布雷迪等人接了过来。布雷迪梳理了该概念的早期哲学讨论，并维护一种大体属于康德式进路的崇高理论：它把审美自我反思与向外投射的赞叹融在一起（Brady 2013: 118；讨论见 Mahoney 2016）[^brady-2013][^mahoney-2016]。Sandra Shapshay 也重审十八世纪的经典理论，试图用一个“两层”的学说来调和康德与埃德蒙·伯克，把崇高分为“厚”“薄”两种。伯克式的“薄崇高”是一种不经反思的敬畏式反应；“厚崇高”则如康德所言，含有对如下挑战的反思：崇高的对象向我们认知能力发出挑战（2013, 2019, 2021）[^shapshay-2013][^shapshay-2019][^shapshay-2021]。Shapshay 认为，有此区分，便可解释崇高经验何以跨文化地出现，又何以随文化而变异、随历史而演化。
 
-还有些作者转向当代心理学，用它来搭建关于崇高及敬畏之类情感的新理论。比如 Arcangeli 与 Dokic 把崇高经验分析为“激进极限经验”：人意识到横着一道无法逾越的认知障碍，于是生出短暂的自我否定之感（2021；另见 Cochrane 2012; McShane 2018; Clewis 2019a）[^clewis-2019a][^cochrane-2012][^mcshane-2018]。这些理论固然互有出入，却都把崇高说成是对某种认知失败的反应。Parsons（2023a）则反其道而行，主张从一种认知成功来重新解释这一概念，即他所说的“认知扩展”——知觉能力在质上的提升；他还论证，经此重构，崇高恰好为当代实验科学的某些审美面向提供了合适的语汇。
+还有些作者转向当代心理学，用它来搭建关于崇高及敬畏之类情感的新理论。比如 Arcangeli 与 Dokic 把崇高经验分析为“激进极限经验”：人意识到横着一道无法逾越的认知障碍，于是生出短暂的自我否定之感（2021）[^arcangeli-2021]；另见 Cochrane 2012; McShane 2018; Clewis 2019a）[^clewis-2019a][^cochrane-2012][^mcshane-2018]。这些理论固然互有出入，却都把崇高说成是对某种认知失败的反应。Parsons（2023a）[^parsons-2023a] 则反其道而行，主张从一种认知成功来重新解释这一概念，即他所说的“认知扩展”——知觉能力在质上的提升；他还论证，经此重构，崇高恰好为当代实验科学的某些审美面向提供了合适的语汇。
 
 ### 4.4 动物的美学
 
@@ -180,7 +180,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 
 上文说到在水族馆以及博物馆立体透视模型一类的准科学陈列中欣赏动物，这就引出第五个主题：对环境的欣赏可以通过表征来实现，或者说由表征来中介（Semczyszyn 2013a, 2013b；另见 Friday 1999）[^friday-1999][^semczyszyn-2013a]。这想法本身不难接受，因为野生动物绘画、野生动物与自然摄影、自然影片这些门类既流行又有影响。不过，环境美学界对如画、“景观模式”及其他以艺术为中心的进路批评甚多，中介化的自然欣赏因此少有人支持。Semczyszyn 与 Friday 却力持异议，主张中介化欣赏不但有效，还构成我们欣赏自然与环境的一个重要维度（另见 Brady & Prior 2020）[^brady-2020]。
 
-近来的作者把这层意思推向了传统媒介，如风景绘画（Paden 2015b; Matthes 2020）[^matthes-2020][^paden-2015b]，也推向自然摄影与电影（Parsons 2022; Hanich 2023；一个别开生面的听觉例子见 Matthes 2018）[^matthes-2018][^parsons-2022][^parsons-2022-2]。后一类例子表明，新技术凭借提供新的观看方式，大大拓展了人与自然世界进行审美接触的可能（Lopes 2003）[^lopes-2003]。比如，高速摄影与延时摄影让人得以知觉那些发生得太快或太慢、凭无中介的经验根本看不到的事件——变色龙弹舌的一瞬，冰川后退的数年。这类“生成性中介”更晚近的一种形态是数字天文摄影，它让星云这类暗弱天体也能成像可见（关于天文摄影的美学，见 Chadwick 2017, 2019; Parsons 2023a；另见 Kessler 2012）[^chadwick-2017][^chadwick-2019][^kessler-2012][^parsons-2023a]。
+近来的作者把这层意思推向了传统媒介，如风景绘画（Paden 2015b; Matthes 2020）[^matthes-2020][^paden-2015b]，也推向自然摄影与电影（Parsons 2022; Hanich 2024；一个别开生面的听觉例子见 Matthes 2018）[^hanich-2024][^matthes-2018][^parsons-2022][^parsons-2022-2]。后一类例子表明，新技术凭借提供新的观看方式，大大拓展了人与自然世界进行审美接触的可能（Lopes 2003）[^lopes-2003]。比如，高速摄影与延时摄影让人得以知觉那些发生得太快或太慢、凭无中介的经验根本看不到的事件——变色龙弹舌的一瞬，冰川后退的数年。这类“生成性中介”更晚近的一种形态是数字天文摄影，它让星云这类暗弱天体也能成像可见（关于天文摄影的美学，见 Chadwick 2017, 2019; Parsons 2023a；另见 Kessler 2012）[^chadwick-2017][^chadwick-2019][^kessler-2012][^parsons-2023a]。
 
 中介化欣赏除了本身有趣以外，还与前面第 2.1 节提到的那场更大争论有关联：艺术在自然与环境欣赏中究竟扮演什么角色。它同环境保护的争论也直接相关。所谓“真正体验”一处地方或一种动物（亲身前往，而非靠照片、绘画或影片），正是推动旅游客流的一大动力；而旅游常常带来环境损害，有时连目的地本身都保不住（Parsons 2015b）[^parsons-2015b]。
 
@@ -190,13 +190,11 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 
 有人对人与环境未来的照面持悲观态度。Jukka Mikkonen 即主张，曾经核心地支撑我们环境欣赏的那些概念——敬畏、惊奇——将会让位于一种“陌生与不确定之美学”（Mikkonen 2022；另见 Auer 2019）[^auer-2019][^mikkonen-2022]。另一些人则觉得乐观的余地还大：即便我们受损的环境带着“道德污点”，关于美与审美价值的正面经验仍会存在（Alcaraz León 2011; Brady 2014b, 2022; Ciccarelli 2014; Nomikos 2018; Fudge 2021）[^alcaraz-2011][^brady-2014b][^brady-2022][^ciccarelli-2014][^fudge-2021][^nomikos-2018]。
 
-我们对被人类糟蹋过的环境将作何反应，这不只是一个心理问题，更是一个规范问题（Parsons 2023b）[^parsons-2023b]。就算“人类世世界”的道德污点真能搁置一旁，我们*should*（应该）搁置吗？此问呼应着关于“道德上有污点”的艺术作品欣赏的那场老争论（Gaut 2013）[^gaut-2013]。传统的一派认为，道德考虑与艺术作品的审美评价各行其是，不相干涉；另一派则说，评价一部小说的审美价值时把它的种族主义放在一边，是一种概念上的错乱。我们尽可把同样的问题移过来：无视人类世那些退化环境的道德污点，会不会是同一类错误？
+我们对被人类糟蹋过的环境将作何反应，这不只是一个心理问题，更是一个规范问题（Parsons 2023b）[^parsons-2023b]。就算“人类世世界”的道德污点真能搁置一旁，我们应当（*should*）搁置吗？此问呼应着关于“道德上有污点”的艺术作品欣赏的那场老争论（Gaut 2013）[^gaut-2013]。传统的一派认为，道德考虑与艺术作品的审美评价各行其是，不相干涉；另一派则说，评价一部小说的审美价值时把它的种族主义放在一边，是一种概念上的错乱。我们尽可把同样的问题移过来：无视人类世那些退化环境的道德污点，会不会是同一类错误？
 
-在一些人看来，这里错的不仅是审美，还有道德。比如一种意见认为，从我们的疏忽所酿成的环境破坏中发现美，等于对这些做法的默认与打气（Foster 1992）[^foster-1992]。另一派的看法恰恰相反：这样的欣赏在道德上无害，甚至可能使我们*more*（更加）对环境议题有所回应（Alcaraz León 2011; Brady 2014b, 2022）[^alcaraz-2011][^brady-2014b][^brady-2022]。这场争论啃的硬骨头是：我们的审美态度会怎样塑造今后对待环境的方式。问题既难又要紧，不但把我们牵进哲学，还牵扯经验心理学与环境科学中远未有定论的部分。环境美学提出的问题向来如此：一旦从烂熟的艺术经验转向我们对身周更大世界的反应，理论难题便随之复杂，赌注也随之剧增。
+在一些人看来，这里错的不仅是审美，还有道德。比如一种意见认为，从我们的疏忽所酿成的环境破坏中发现美，等于对这些做法的默认与打气（Foster 1992）[^foster-1992]。另一派的看法恰恰相反：这样的欣赏在道德上无害，甚至可能使我们更加（*more*）对环境议题有所回应（Alcaraz León 2011; Brady 2014b, 2022）[^alcaraz-2011][^brady-2014b][^brady-2022]。这场争论啃的硬骨头是：我们的审美态度会怎样塑造今后对待环境的方式。问题既难又要紧，不但把我们牵进哲学，还牵扯经验心理学与环境科学中远未有定论的部分。环境美学提出的问题向来如此：一旦从烂熟的艺术经验转向我们对身周更大世界的反应，理论难题便随之复杂，赌注也随之剧增。
 
 ## 参考文献
-
-**以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
@@ -323,7 +321,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^elliot-1982]: Elliot, Robert, 1982, “Faking Nature”, *Inquiry*, 25(1): 81–93. doi:10.1080/00201748208601955
 [^elliot-1997]: –––, 1997, *Faking Nature: The Ethics of Environmental Restoration* (Environmental Philosophies Series), London/New York: Routledge. doi:10.4324/9780203014547
 [^emmett-2017]: Emmett, Robert S. and David E. Nye, 2017, *The Environmental Humanities: A Critical Introduction*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/10629.001.0001
-[^erzen-2013]: Erzen, Jale and Raffaele Milani (eds), 2013, *Nature and the City: Beauty Is Taking on a New Form* (International Yearbook of Aesthetics 17), Sassari: Edzione Edes.
+[^erzen-2013]: Erzen, Jale and Raffaele Milani (eds), 2013, *Nature and the City: Beauty Is Taking on a New Form* (International Yearbook of Aesthetics 17), Sassari: Edizione EDES.
 [^firth-2008]: Firth, Dan, 2008, “The Role of Aesthetic Considerations in a Narrative Based Approach to Nature Conservation”, *Ethics & the Environment*, 13(2): 77–100. doi:10.2979/ETE.2008.13.2.77
 [^fisher-1998]: Fisher, John Andrew, 1998, “What the Hills Are Alive with: In Defense of the Sounds of Nature”, *The Journal of Aesthetics and Art Criticism*, 56(2): 167–179. doi:10.2307/432255
 [^fisher-1999]: –––, 1999, “The Value of Natural Sounds”, *Journal of Aesthetic Education*, 33(3): 26–42. doi:10.2307/3333700
@@ -338,7 +336,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^gaut-2007]: Gaut, Berys Nigel, 2007, *Art, Emotion and Ethics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263219.001.0001
 [^gaut-2013]: –––, 2013, “Art and Ethics”, in *The Routledge Companion to Aesthetics*, Berys Gaut and Dominic McIver Lopes (eds), third edition, Abingdon: Routledge, 394–403.
 [^gandolfo-2015]: Gandolfo, David I. and Sarah E. Worth, 2015, “Global Standpoint Aesthetics: Towards a Paradigm”, in Ribeiro 2015: 242–254 (ch. 17).
-[^gladden-obidzińska-2021]: Gladden-Obidzińska, Bogna J. (ed.), 2021, *Aesthetic Engagement and Sensibility: Reflections on Arnold Berleant’s Work*, special issue of *Contemporary Aesthetics* special volume 9. [[Gladden-Obidzińska 2021 available online](https://contempaesthetics.org/category/special-volumes/special-volume-9-2021/)].
+[^gladden-obidzińska-2021]: Gladden-Obidzińska, Bogna J. (ed.), 2021, *Aesthetic Engagement and Sensibility: Reflections on Arnold Berleant’s Work*, special volume 9 of *Contemporary Aesthetics*. [[Gladden-Obidzińska 2021 available online](https://contempaesthetics.org/category/special-volumes/special-volume-9-2021/)].
 [^gobster-1995]: Gobster, Paul H., 1995, “Aldo Leopold’s ‘Ecological Esthetic’: Integrating Esthetic and Biodiversity Values”, *Journal of Forestry*, 93(2): 6–10. doi:10.1093/jof/93.2.6
 [^gobster-1999]: –––, 1999, “An Ecological Aesthetic for Forest Landscape Management”, *Landscape Journal*, 18(1): 54–64. doi:10.3368/lj.18.1.54
 [^gobster-2008]: –––, 2008, “Yellowstone Hotspot: Reflections on Scenic Beauty, Ecology, and the Aesthetic Experience of Landscape”, *Landscape Journal*, 27(2): 291–308. doi:10.3368/lj.27.2.291
@@ -355,15 +353,15 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^haapala-1998]: Haapala, Arto (ed.), 1998, *The City as Cultural Metaphor: Studies in Urban Aesthetics*, Lahti: International Institute of Applied Aesthetics.
 [^haapala-2005]: –––, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place”, in *The Aesthetics of Everyday Life*, Andrew Light and Jonathan M. Smith (eds), New York: Columbia University Press, 39–55 (ch. 3).
 [^hanich-2024]: Hanich, Julian, 2024, “When the Wind Is Gently Rustling: Film and the Aesthetics of Natural Beauty”, *Film-Philosophy*, 28(2): 153–180. doi:10.3366/film.2024.0264
-[^hargrove-1979]: Hargrove, Eugene C., 1979, “The Historical Foundations of American Environmental Attitudes” *Environmental Ethics*, 1(3): 209–240. doi:10.5840/enviroethics19791314
+[^hargrove-1979]: Hargrove, Eugene C., 1979, “The Historical Foundations of American Environmental Attitudes”, *Environmental Ethics*, 1(3): 209–240. doi:10.5840/enviroethics19791314
 [^hargrove-1989]: –––, 1989, *Foundations of Environmental Ethics*, Englewood Cliffs, NJ: Prentice Hall.
-[^hepburn-1966]: Hepburn, Ronald W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty” (International Library of Philosophy and Scientific Method), in *British Analytical Philosophy*, Bernard Williams and Alan Montefiore (eds), New York: Humanities Press, 285–310.
+[^hepburn-1966]: Hepburn, Ronald W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty”, in *British Analytical Philosophy* (International Library of Philosophy and Scientific Method), Bernard Williams and Alan Montefiore (eds), New York: Humanities Press, 285–310.
 [^hepburn-1988]: –––, 1988, “The Concept of the Sublime: Has it any Relevance for Philosophy Today?”, *Dialectics and Humanism*, 15(1/2): 137–155.
 [^hepburn-1993]: –––, 1993, “Trivial and Serious in Aesthetic Appreciation of Nature”, in Kemal and Gaskell 1993: 65–80 (ch. 3). doi:10.1017/CBO9780511554605.003
 [^hepburn-1996]: –––, 1996, “Landscape and the Metaphysical Imagination”, *Environmental Values*, 5(3): 191–204. doi:10.3197/096327196776679320
 [^herguedas-2018]: Herguedas, Fernando Arribas, 2018, “Are Poplar Plantations Really Beautiful? On Allen Carlson’s Aesthetics of Agricultural Landscapes and Environmentalism”, *Environmental Values*, 27(2): 159–178. doi:10.3197/096327118X15162907484457
 [^herrington-2019]: Herrington, Susan and Dominic McIver Lopes, 2019, “Neo-Picturesque”, in Bicknell, Judkins, and Korsmeyer 2019: 133–146 (ch. 11).
-[^hettinger-2005]: Hettinger, Ned, 2005, “Allen Carlson’s Environmental Aesthetics and the Protection of the Environment:”, *Environmental Ethics*, 27(1): 57–76. doi:10.5840/enviroethics200527141
+[^hettinger-2005]: Hettinger, Ned, 2005, “Allen Carlson’s Environmental Aesthetics and the Protection of the Environment”, *Environmental Ethics*, 27(1): 57–76. doi:10.5840/enviroethics200527141
 [^hettinger-2008]: –––, 2008, “Objectivity in Environmental Aesthetics and Protection of the Environment”, in Carlson and Lintott 2008: 413–437 (ch. 24).
 [^hettinger-2010]: –––, 2010, “Animal Beauty, Ethics, and Environmental Preservation”, *Environmental Ethics*, 32(2): 115–134. doi:10.5840/enviroethics201032215
 [^hettinger-2017a]: –––, 2017a, “Evaluating Positive Aesthetics”, *Journal of Aesthetic Education*, 51(3): 26–41. doi:10.5406/jaesteduc.51.3.0026
@@ -372,7 +370,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^heyd-2002]: –––, 2002, “Nature Restoration Without Dissimulation: Learning from Japanese Gardens and Earthworks”, *Essays in Philosophy*, 3(1): 38–48. [[Heyd 2002 available online](https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=eip&id=eip_2002_0003_0001_0038_0048)]
 [^heyd-2006]: –––, 2006, “Thinking through Botanic Gardens”, *Environmental Values*, 15(2): 197–212. doi:10.3197/096327106776678906
 [^higgins-2017]: Higgins, Kathleen Marie, 2017, “Global Aesthetics-What Can We Do?: Global Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 75(4): 339–349. doi:10.1111/jaac.12403
-[^hill-2007]: Hill, Dawn and Terry C. Daniel, 2007, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?”, *Society & Natural Resources*, 21(1): 34–49. doi:10.1080/08941920701655700
+[^hill-2008]: Hill, Dawn and Terry C. Daniel, 2008, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?”, *Society & Natural Resources*, 21(1): 34–49. doi:10.1080/08941920701655700
 [^hollis-2019]: Hollis, Dawn L, 2019, “Mountain Gloom and Mountain Glory: The Genealogy of an Idea”, *ISLE: Interdisciplinary Studies in Literature and Environment*, 26(4): 1038–1061. doi:10.1093/isle/isz044
 [^howarth-1995]: Howarth, J. M., 1995, “Nature’s Moods”, *The British Journal of Aesthetics*, 35(2): 108–120. doi:10.1093/bjaesthetics/35.2.108
 [^hume-1757]: Hume, David, 1757, “Of the Standard of Taste”, in his *Four Dissertations*, London: A. Millar. [[Hume 1757 available online](https://davidhume.org/texts/empl1/st)]
@@ -404,11 +402,11 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^linquist-2020]: Linquist, Stefan, 2020, “Two (and a Half) Arguments for Conserving Biodiversity on Aesthetic Grounds”, *Biology & Philosophy*, 35(1): article 6. doi:10.1007/s10539-019-9726-7
 [^liu-2014a]: Liu Yuedi and Curtis L. Carter (eds), 2014a, *Aesthetics of Everyday Life: East and West*, Newcastle upon Tyne: Cambridge Scholars Publishing.
 [^liu-2014b]: –––, 2014b, “Introduction”, in Liu and Carter 2014a: vii–xvii.
-[^loftis-2003]: Loftis, J. Robert, 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics”:, *Philosophy in the Contemporary World*, 10(2): 41–50. doi:10.5840/pcw200310218
+[^loftis-2003]: Loftis, J. Robert, 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics”, *Philosophy in the Contemporary World*, 10(2): 41–50. doi:10.5840/pcw200310218
 [^lopes-2003]: Lopes, Dominic McIver, 2003, “The Aesthetics of Photographic Transparency”, *Mind*, 112(447): 433–448. doi:10.1093/mind/112.447.433
 [^lopes-2015]: –––, 2015, “Aesthetic Experts, Guides to Value: Aesthetic Experts, Guides to Value”, *The Journal of Aesthetics and Art Criticism*, 73(3): 235–246. doi:10.1111/jaac.12170
 [^lopes-2020]: –––, 2020, “Desolation Sound: Social Practices of Natural Beauty”, *Thought: A Journal of Philosophy*, 9(4): 266–273. doi:10.1002/tht3.470
-[^lorenz-1950]: Lorenz, Konrad, 1950 [1971], “Ganzheit und Teil in der tierischen und menschlichen Gemeinschaft”, in *Studium Generale: Eitschrift für die Einheit der Wissenschaften im Zusammenhang ihrer Begriffsbildungen und Forschungsmethoden*, Berlin/Heidelberg: Springer, 455–499. Translated as “Part and Parcel in Animal and Human Societies”, in his *Studies in Animal and Human Behaviour, Volume 2*, Robert Martin (trans.), Cambridge, MA: Harvard University Press, 1971, 115–195. doi:10.1007/978-3-662-38240-0_49 (German)
+[^lorenz-1950]: Lorenz, Konrad, 1950 [1971], “Ganzheit und Teil in der tierischen und menschlichen Gemeinschaft”, in *Studium Generale: Zeitschrift für die Einheit der Wissenschaften im Zusammenhang ihrer Begriffsbildungen und Forschungsmethoden*, Berlin/Heidelberg: Springer, 455–499. Translated as “Part and Parcel in Animal and Human Societies”, in his *Studies in Animal and Human Behaviour, Volume 2*, Robert Martin (trans.), Cambridge, MA: Harvard University Press, 1971, 115–195. doi:10.1007/978-3-662-38240-0_49 (German)
 [^alvarez-2017]: Łukaszewicz Alvarez, Aleksandra (ed.), 2017, *Aesthetics between Art and Society: Perspectives of Arnold Berleant’s Postkantian Aesthetics of Engagement*, special issue of *ESPES: Journal of the Society of Aesthetics in Slovakia*, 6(2). [[Alvarez 2017 available online](https://espes.ff.unipo.sk/index.php/ESPES/issue/view/9)]
 [^macauley-2007]: Macauley, David, 2007, “Walking the City”, in Berleant and Carlson 2007: 100–118 (ch. 5).
 [^macfarlane-2003]: Macfarlane, Robert, 2003, *Mountains of the Mind*, New York: Vintage Books.
@@ -441,7 +439,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^nicolson-1959]: Nicolson, Marjorie Hope, 1959, *Mountain Gloom and Mountain Glory: The Development of the Aesthetics of the Infinite*, Ithaca, NY: Cornell University Press.
 [^nomikos-2018]: Nomikos, Ariane, 2018, “Place *Matters*”, *The Journal of Aesthetics and Art Criticism*, 76(4): 453–462. doi:10.1111/jaac.12598
 [^odin-2017]: Odin, Steve, 2017, “Whitehead’s Perspectivism as a Basis for Environmental Ethics and Aesthetics: A Process View on the Japanese Concept of Nature”, in Callicott and McRae 2017: 123–144 (ch. 7).
-[^orians-1986]: Orians, Gordon H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics”, in *Landscape Meanings and Values*, Edmund Penning-Rowsell and David Lowenthal (eds), London/Boston: Allen and Unwin, 3–25 (ch. ).
+[^orians-1986]: Orians, Gordon H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics”, in *Landscape Meanings and Values*, Edmund Penning-Rowsell and David Lowenthal (eds), London/Boston: Allen and Unwin, 3–25.
 [^orians-1992]: Orians, Gordon H. and Judith H. Heerwagen, 1992, “Evolved Responses to Landscapes”, in *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, Jerome H. Barkow, Leda Cosmides, and John Tooby (eds), New York: Oxford University Press, 555–580. doi:10.1093/oso/9780195060232.003.0016
 [^paden-2013]: Paden, Roger, 2013, “A Defense of the Picturesque”, *Environmental Philosophy*, 10(2): 1–21. doi:10.5840/envirophil201310212
 [^paden-2015a]: –––, 2015a, “Nature, Disorder, and Tragedy: Towards an Evolutionary Aesthetic”, *Environmental Philosophy*, 12(1): 45–66. doi:10.5840/envirophil20153319
@@ -488,7 +486,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^ross-2006]: –––, 2006, “Paradoxes and Puzzles: Appreciating Gardens and Urban Nature”, *Contemporary Aesthetics*, 4: article 9. [[Ross 2006 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol4/iss1/9/)].
 [^ross-2008]: –––, 2008, “Humean Critics: Real or Ideal?”, *The British Journal of Aesthetics*, 48(1): 20–28. doi:10.1093/aesthj/aym042
 [^runte-2022]: Runte, Alfred, 2022, *National Parks: The American Experience*, fifth edition, Lanham, MD: Lyons Press.
-[^ruskin-1846]: Ruskin, John, 1846, *Modern Painters*, Volume 2, London: Smith, Elder&Co.
+[^ruskin-1846]: Ruskin, John, 1846, *Modern Painters*, Volume 2, London: Smith, Elder & Co.
 [^russow-1981]: Russow, Lilly-Marlene, 1981, “Why Do Species Matter?”, *Environmental Ethics*, 3(2): 101–112. doi:10.5840/enviroethics19813248
 [^sagoff-1974]: Sagoff, Mark, 1974, “On Preserving the Natural Environment”, *The Yale Law Journal*, 84(2): 205–267. doi:10.2307/795401
 [^saito-1985]: Saito, Yuriko, 1985, “The Japanese Appreciation of Nature”, *The British Journal of Aesthetics*, 25(3): 239–251. doi:10.1093/bjaesthetics/25.3.239
@@ -535,7 +533,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^sparshott-1972]: Sparshott, F. E., 1972, “Figuring the Ground: Notes on Some Theoretical Problems of the Aesthetic Environment”, *Journal of Aesthetic Education*, 6(3): 11–23. doi:10.2307/3331390
 [^spence-1999]: Spence, Mark David, 1999, *Dispossessing the Wilderness: Indian Removal and the Making of the National Parks*, New York/Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195142433.001.0001
 [^stecker-1997]: Stecker, Robert, 1997, “The Correct and the Appropriate in the Appreciation of Nature”, *The British Journal of Aesthetics*, 37(4): 393–402. doi:10.1093/bjaesthetics/37.4.393
-[^stecker-1999]: –––, 1999, “Reflections on Architecture: Buildings as Environments, as Aesthetic Objects and as Artworks”, in *Architecture and Civilization*, Michael H. Mitias (ed.), Amsterdam ; Atlanta, GA: Rodopi, 81–94 (ch. 5).
+[^stecker-1999]: –––, 1999, “Reflections on Architecture: Buildings as Environments, as Aesthetic Objects and as Artworks”, in *Architecture and Civilization*, Michael H. Mitias (ed.), Amsterdam; Atlanta, GA: Rodopi, 81–94 (ch. 5).
 [^stecker-2012]: –––, 2012, “Epistemic Norms, Moral Norms, and Nature Appreciation”, *Environmental Ethics*, 34(3): 247–264. doi:10.5840/enviroethics201234321
 [^stecker-2019]: –––, 2019, *Intersections of Value: Art, Nature, and the Everyday*, Oxford: Oxford University Press. doi:10.1093/oso/9780198789956.001.0001
 [^stewart-2018]: Stewart, Duncan C. and Taylor N. Johnson, 2018, “Complicating Aesthetic Environmentalism: Four Criticisms of Aesthetic Motivations for Environmental Action”, *The Journal of Aesthetics and Art Criticism*, 76(4): 441–451. doi:10.1111/jaac.12600
@@ -564,7 +562,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 [^xue-2010]: Xue Fuxing and Allen Carlson, 2010, “Scientific Understanding of Environmental Aesthetics in Perspective”, in *Aesthetics International: Contemporary International Aestheticians Interviews*, Liu Yuedi (ed.), Beijing: China Social Sciences Press, 128–162.
 [^zangwill-2001]: Zangwill, Nick, 2001, “Formal Natural Beauty”, *Proceedings of the Aristotelian Society*, 101(1): 209–224. doi:10.1111/j.0066-7372.2003.00028.x
 [^zangwill-2005a]: –––, 2005a, “In Defence of Extreme Formalism about Inorganic Nature: Reply to Parsons”, *The British Journal of Aesthetics*, 45(2): 185–191. doi:10.1093/aesthj/ayi020
-[^zangwill-2005b]: –––, 2005b, “Rocks and Sunsets: A Defence of Ignorant Pleasures”, *Revista di Estetica,* 29: 53–60.
+[^zangwill-2005b]: –––, 2005b, “Rocks and Sunsets: A Defence of Ignorant Pleasures”, *Revista di Estetica*, 29: 53–60.
 [^zangwill-2013]: –––, 2013, “Clouds of Illusion in the Aesthetics of Nature”, *The Philosophical Quarterly*, 63(252): 576–596. doi:10.1111/1467-9213.12050
 [^zeng-2017]: Zeng Fanren, 2017, “Ecological Aesthetics: A New Aesthetic View of Ecological Existentialism in the Postmodern Context”, *Critical Theory*, 1(2): 5–25.
 [^ziff-1979]: Ziff, Paul, 1979, “Anything Viewed”, in *Essays in Honour of Jaakko Hintikka: on the Occasion of His Fiftieth Birthday on January 12, 1979*, Esa Saarinen, Risto Hilpinen, Ilkka Niiniluoto, and Merrill Provence Hintikka (eds), Dordrecht/Boston: Reidel, 285–293. doi:10.1007/978-94-009-9860-5_17
@@ -584,7 +582,7 @@ Hettinger 针对这一看法回应道：就算捕食无所谓道德与否，它�
 
 ## 相关词条
 
-美学的概念 | aesthetics: 19th Century Romantic | 审美判断 | aesthetics: British, in the 18th century | 日常美学 | 建筑哲学 | 环境伦理学 | 休谟的美学 | 康德的美学与目的论
+美学的概念 | 19 世纪浪漫主义美学 | 审美判断 | 18 世纪的英国美学 | 日常美学 | 建筑哲学 | 环境伦理学 | 休谟的美学 | 康德的美学与目的论
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 

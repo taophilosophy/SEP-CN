@@ -330,3 +330,15 @@
 | scholem | `Wohlfahrt, Irving`（正文与书目，2 处） | `Wohlfarth, Irving` | 学者姓氏拼写，Deutsche Biographie 作 Irving Wohlfarth（①） |
 | scholem | ms 条 `New York: Schocken Books. Page numbers from the 1991 translation.` | 补出版年 `Schocken Books, 1991.` | 英译条缺出版年（①） |
 | scholem | zadoff-2014 书名逗号误入斜体：`Das Leben des Werner Scholem,</em>`；译名条 `(trans.) Philadelphia: … Press 2018.` | 逗号移出斜体、补 `(trans.)` 后逗号与出版年逗号 | 体例（①） |
+| environmental-aesthetics | lorenz-1950 `Studium Generale: Eitschrift` | `Zeitschrift` | 拼写（①） |
+| environmental-aesthetics | erzen-2013 `Sassari: Edzione Edes` | `Sassari: Edizione EDES` | 出版者名拼写（①；官方版权页作 EDIZIONE EDES） |
+| environmental-aesthetics | hepburn-1966 丛书括注置于篇名后 | 移至 *British Analytical Philosophy* 后 | 丛书信息位置（①） |
+| environmental-aesthetics | hargrove-1979 篇名后缺逗号 | 补逗号 | 标点（①） |
+| environmental-aesthetics | hettinger-2005 篇名末 `Environment:”`；loftis-2003 `Ethics”:` | 删多余冒号 | 标点（①） |
+| environmental-aesthetics | orians-1986 空章号 `(ch. )` | 删除 | 占位残留（④） |
+| environmental-aesthetics | ruskin-1846 `Smith, Elder&Co.` | `Smith, Elder & Co.` | 缺空格（①） |
+| environmental-aesthetics | stecker-1999 `Amsterdam ; Atlanta`（窄空格＋分号） | `Amsterdam; Atlanta` | 标点（①） |
+| environmental-aesthetics | gladden-obidzińska-2021 `special issue of … special volume 9` | `special volume 9 of *Contemporary Aesthetics*` | 语义重复（①） |
+| environmental-aesthetics | zangwill-2005b `Revista di Estetica,</em>` | 逗号移出斜体 | 体例（①） |
+| environmental-aesthetics | hill-2007 书目作 2007，正文引 Hill & Daniel 2008（21(1): 34–49 即 2008 年卷） | 书目改 2008 | 正文书目矛盾（②） |
+| environmental-aesthetics | 正文 Hanich 2023，书目 hanich-2024（28(2), 2024） | 正文改 2024 | 正文书目矛盾（②） |
