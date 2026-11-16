@@ -16,18 +16,71 @@
 准入谓词（C2）：去空白后 find≡replace（空白差）或剥标签后 find≡replace（标记差）；
 二者皆不成立即文字层，禁入池、禁改 yuanwen（转全局勘误表＋中文译注）。
 """
+import json
 import os
 import re
+import sys
 
-from tools.common import repo_path
+from tools.common import repo_path, utcnow_iso
 
 PATCH_DIR = ('baseline', 'en-patches')
 REQUIRED_FIELDS = ('id', 'slug', 'file', 'expect', 'category', 'source')
 TAG_RE = re.compile(r'<[^>]*>|<!--.*?-->', re.S)
+# 独立记录文件（运行态，state/ 不入库）：每进程首次解析补丁池时追加一行
+RECORD = ('state', 'en-patches-loader.jsonl')
+
+
+class PatchPoolMissing(Exception):
+    """补丁池不可得：目录缺失，或目录内既无 *.patch 又无 INDEX.json。
+
+    硬失败，禁静默降级（ADR-0063）：静默返回空池会让格式补丁悄悄失效，
+    等价于派生物无据偏离 oracle。修复：恢复 `baseline/en-patches/`，或跑
+    `specs/039-md-standardization/bin/migrate_en_patches.py --refresh` 再生 INDEX。
+    """
+
+
+_announced = False
 
 
 def patch_dir():
     return repo_path(*PATCH_DIR)
+
+
+def _index_info(base):
+    """读 INDEX.json（生成物）仅作告知与留痕，不作判据（判据是 *.patch 正本）。"""
+    path = os.path.join(base, 'INDEX.json')
+    if not os.path.exists(path):
+        return {'present': False}
+    try:
+        with open(path, encoding='utf-8') as f:
+            idx = json.load(f)
+    except (OSError, ValueError) as ex:
+        return {'present': True, 'error': repr(ex)}
+    return {'present': True, 'schema': idx.get('schema'), 'count': idx.get('count'),
+            'ids': [p.get('id') for p in idx.get('patches', [])]}
+
+
+def _announce(base, count, ids, index):
+    """告知信息（stderr）＋独立记录文件（同进程一次；写失败必须喊出来，禁静默）。"""
+    global _announced
+    if _announced:
+        return
+    _announced = True
+    idx = ('present(count=%s)' % index.get('count')) if index.get('present') else 'absent'
+    if index.get('error'):
+        idx = 'unreadable(%s)' % index['error']
+    sys.stderr.write('[en-patches] 布局=目录正本 %s：生效补丁 %d 条 [%s]；INDEX %s；记录 %s\n'
+                     % (base, count, ','.join(i or '?' for i in ids), idx,
+                        repo_path(*RECORD)))
+    rec = {'at': utcnow_iso(), 'layout': 'dir', 'dir': base, 'count': count,
+           'ids': ids, 'index': index}
+    try:
+        path = repo_path(*RECORD)
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, 'a', encoding='utf-8', newline='\n') as f:
+            f.write(json.dumps(rec, ensure_ascii=False) + '\n')
+    except OSError as ex:
+        sys.stderr.write('[en-patches] 记录文件写入失败（不阻断转换，但须人工补记）：%s\n' % ex)
 
 
 def _strip_ws(s):
@@ -83,18 +136,30 @@ def parse_patch_text(text):
     return p
 
 
-def load_patches(dirpath=None):
-    """读目录正本，返回 {slug: [patch, ...]}（按文件名排序，稳定）。"""
+def load_patches(dirpath=None, notice=True):
+    """读目录正本，返回 {slug: [patch, ...]}（按文件名排序，稳定）。
+
+    有界解析：只看给定目录（缺省 `baseline/en-patches/`）这一处，逐级搜索禁行。
+    目录缺失，或目录内既无 *.patch 又无 INDEX.json → 抛 PatchPoolMissing（硬失败，
+    绝不静默返回空池）。INDEX 的 count=0 视为合法空池。
+    """
     base = dirpath or patch_dir()
-    out = {}
     if not os.path.isdir(base):
-        return out
-    for fn in sorted(os.listdir(base)):
-        if not fn.endswith('.patch'):
-            continue
+        raise PatchPoolMissing(
+            '补丁池目录缺失：%s（禁静默降级；恢复目录或跑 specs/039 bin/migrate_en_patches.py --refresh）'
+            % base)
+    files = [fn for fn in sorted(os.listdir(base)) if fn.endswith('.patch')]
+    index = _index_info(base)
+    if not files and not index.get('present'):
+        raise PatchPoolMissing('补丁池目录为空（无 *.patch 且无 INDEX.json）：%s' % base)
+    out = {}
+    for fn in files:
         path = os.path.join(base, fn)
         with open(path, encoding='utf-8', newline='') as f:
             p = parse_patch_text(f.read())
         p['patch_file'] = 'baseline/en-patches/%s' % fn
         out.setdefault(p['slug'], []).append(p)
+    if notice:
+        ids = [p['id'] for items in out.values() for p in items]
+        _announce(base, len(ids), ids, index)
     return out

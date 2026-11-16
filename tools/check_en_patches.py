@@ -88,10 +88,15 @@ def main(argv=None):
             sys.stderr.write(__doc__)
             return 2
     if not os.path.isdir(base):
-        sys.stderr.write('[en-patches] 补丁目录缺失: %s\n' % base)
+        sys.stderr.write('[en-patches] 补丁目录缺失: %s（禁静默降级）\n' % base)
+        return 2
+    try:
+        loaded = en_patch_lib.load_patches(base)
+    except en_patch_lib.PatchPoolMissing as ex:
+        sys.stderr.write('[en-patches] %s\n' % ex)
         return 2
     patches = []
-    for slug, items in sorted(en_patch_lib.load_patches(base).items()):
+    for slug, items in sorted(loaded.items()):
         if only and slug != only:
             continue
         patches.extend(items)

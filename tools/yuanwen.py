@@ -1080,7 +1080,7 @@ def convert_entry(slug):
     html = read_text(idx_path)
     try:
         html = apply_en_patches(slug, html)
-    except PatchMismatch as ex:
+    except (PatchMismatch, en_patch_lib.PatchPoolMissing) as ex:
         return {'slug': slug, 'error': str(ex)}
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
