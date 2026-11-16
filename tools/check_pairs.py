@@ -15,11 +15,17 @@
       pubinfo-form（出版信息行非正典形态 > *…*）
       ellipsis-form（中文语境省略号非六连点）
 
-体例轴（ADR-0063，s2.4 硬档，`--gate` 模式只对以下四则拦）:
-      tail-order（尾节齐备与顺序：参考文献>学术工具>其他网络资源>相关词条，脚注恒末位）
+体例轴（ADR-0063，s2.4 硬档，`--gate` 模式只对以下几则拦）:
+      tail-order（尾节齐备与顺序：参考文献>学术工具>其他网络资源>相关词条，脚注恒末位；
+        译者注释可选末节——ADR-0065）
       heading-number（小节编号点号式 `N.` / `N.N`，与原文一致；跳号同报）
       h1-form（H1 缺作者括号，或与 yuanwen 同件 H1 英文题不符）
-      errata-apply（全局勘误表落地：承载=译注 的件，正文禁含上游错字形且须有译注）
+      errata-apply（全局勘误表落地：承载=译注 的件，正文禁含上游错字形且须有译注承载；
+        承载形态过渡期两可——句内 `（译注：…）`（ADR-0062 决策 4 旧形态，迁移随回炉批）
+        或 `## 译者注释` 节（ADR-0065 新形态）；两处引用错字形均豁免）
+      note-anchor（译者注释节锚点：节存在时须为末节且非空；正文圈号与节内条目
+        一一对应、连续编号 1..N、锚点紧贴句末标点；字符域 U+2460–2473（①–⑳），
+        21+ 用 U+3251–（㉑…）；ADR-0065）
       参考文献承载（marker↔定义配对）由 check_academic 管辖，本工具不重复实现。
 
 豁免: 围栏代码块、行内代码、数学定界符、表格行（结构项除外）；桩件（无二级标题或
@@ -38,13 +44,26 @@ from tools.common import read_text  # noqa: E402
 
 RULES = ("bracket-pair", "cite-authoryear", "bib-duplicate", "count-vs-source",
          "dangling-link", "pubinfo-form", "ellipsis-form",
-         "tail-order", "heading-number", "h1-form", "errata-apply")
+         "tail-order", "heading-number", "h1-form", "errata-apply", "note-anchor")
 
 # 体例轴硬档（ADR-0063）：`--gate` 模式只对这几则计退出码，供 s2.4 `_style_gate` 使用
-HARD_RULES = ("tail-order", "heading-number", "h1-form", "errata-apply", "pubinfo-form")
+HARD_RULES = ("tail-order", "heading-number", "h1-form", "errata-apply", "pubinfo-form",
+              "note-anchor")
 
 ZTAIL = ("参考文献", "学术工具", "其他网络资源", "相关词条")
 ZNOTES = "脚注"
+ZNOTE_SEC = "译者注释"          # ADR-0065：可选末节
+# 圈号字符域：①–⑳ = U+2460–2473；㉑–㉟ = U+3251–325F；㊱–㊿ = U+32B1–32BF
+_CIRCLED_RANGES = ((0x2460, 0x2473), (0x3251, 0x325F), (0x32B1, 0x32BF))
+NUM2CH = {}
+_n = 1
+for _lo, _hi in _CIRCLED_RANGES:
+    for _cp in range(_lo, _hi + 1):
+        NUM2CH[_n] = chr(_cp)
+        _n += 1
+CH2NUM = {ch: num for num, ch in NUM2CH.items()}
+CIRCLED_RE = re.compile("[" + re.escape("".join(NUM2CH[ch] for ch in sorted(NUM2CH))) + "]")
+ANCHOR_OK_PREV = tuple("。！？；：…”』〉》）")  # 锚点合法的前一字符（句末标点/右引号/右书名号/右括号）
 ERRATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                            "specs", "001-sep-sync-pipeline", "results", "en-errata.md")
 _ERRATA_CACHE = {}
@@ -94,13 +113,22 @@ def check_tail_order(path, text, issues):
         if h2.index(ZNOTES) < last_tail:
             issues.append({"path": path, "line": 0, "rule": "tail-order",
                            "detail": "「脚注」不在末位（应置于「相关词条」之后，ADR-0063）"})
+    if ZNOTE_SEC in h2:
+        # ADR-0065：译者注释为可选末节——必须在全部尾节与脚注之后，且为最后一个二级标题
+        anchor = max([h2.index(t) for t in ZTAIL] + ([h2.index(ZNOTES)] if ZNOTES in h2 else []))
+        if h2.index(ZNOTE_SEC) < anchor:
+            issues.append({"path": path, "line": 0, "rule": "tail-order",
+                           "detail": "「译者注释」不在末位（应置于「脚注」之后，ADR-0065）"})
+        elif h2[-1] != ZNOTE_SEC:
+            issues.append({"path": path, "line": 0, "rule": "tail-order",
+                           "detail": "「译者注释」之后仍有其他二级标题：%s" % "、".join(h2[h2.index(ZNOTE_SEC) + 1:][:3])})
 
 
 def check_heading_number(path, text, issues):
     h2_num = []
     for m in re.finditer(r"^(#{2,4})\s+(.+)$", text, re.M):
         level, title = len(m.group(1)), m.group(2).strip()
-        if title in ZTAIL or title == ZNOTES:
+        if title in ZTAIL or title in (ZNOTES, ZNOTE_SEC):
             continue
         if not title[:1].isdigit():
             continue
@@ -119,6 +147,111 @@ def check_heading_number(path, text, issues):
         if cur != prev + 1:
             issues.append({"path": path, "line": 0, "rule": "heading-number",
                            "detail": "小节编号跳号：%d → %d" % (prev, cur)})
+
+
+def split_note_section(text):
+    """按 ADR-0065 拆出「译者注释」节：返回 (body, notes_lines)。
+
+    节由 `## 译者注释` 标题起至下一标题或文末；无该节则 notes_lines 为空。
+    """
+    m = re.search(r"^##\s*%s\s*$" % ZNOTE_SEC, text, re.M)
+    if not m:
+        return text, []
+    body = text[:m.start()]
+    rest = text[m.end():]
+    nxt = re.search(r"^#{1,6}\s", rest, re.M)
+    notes = rest[:nxt.start()] if nxt else rest
+    return body, notes.splitlines()
+
+
+def check_note_anchor(path, text, issues):
+    """译者注释节锚点检查（ADR-0065；节非强制，存在即查）。
+
+    断言：①节为最后一个二级标题且非空；②节内条目以圈号开头、连续 1..N；
+    ③正文圈号序列与节内条目号完全一致；④正文锚点紧贴句末标点/右引号。
+    """
+    body, notes = split_note_section(text)
+    has_sec = "## %s" % ZNOTE_SEC in text or bool(re.search(r"^##\s*%s\s*$" % ZNOTE_SEC, text, re.M))
+    # 节内条目号
+    sec_nums = []
+    for ln in notes:
+        m = CIRCLED_RE.match(ln.lstrip())
+        if m:
+            sec_nums.append(CH2NUM[m.group(0)])
+    if not has_sec:
+        # 无节：正文不得出现圈号锚点（出现即缺承载）
+        for m in CIRCLED_RE.finditer(_strip_anchors_zone(body)):
+            issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                           "detail": "正文有锚点 %s 但无「译者注释」节（ADR-0065）" % m.group(0)})
+        return
+    if not notes or not sec_nums:
+        issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                       "detail": "「译者注释」节为空（节非强制，存在即须有条目）"})
+        return
+    for a, b in zip(sec_nums, sec_nums[1:]):
+        if b != a + 1:
+            issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                           "detail": "节内条目编号不连续：%d → %d" % (a, b)})
+    # 正文圈号序列（排除引块、书目/脚注定义行、表格行、代码行）
+    body_nums = []
+    for ln in _strip_anchors_zone(body).splitlines():
+        t = ln.strip()
+        if not t or t.startswith(">") or t.startswith("|") or re.match(r"^\[\^[^\]]+\]:", t):
+            continue
+        for m in CIRCLED_RE.finditer(t):
+            body_nums.append(CH2NUM[m.group(0)])
+            prev = t[:m.start()].rstrip()
+            if prev and prev[-1] not in ANCHOR_OK_PREV:
+                issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                               "detail": "锚点 %s 未紧贴句末标点（前一字符 `%s`）：%s"
+                                         % (m.group(0), prev[-1], t[:36])})
+    for a, b in zip(body_nums, body_nums[1:]):
+        if b != a + 1:
+            issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                           "detail": "正文锚点编号不连续：%d → %d" % (a, b)})
+    if body_nums != sec_nums:
+        issues.append({"path": path, "line": 0, "rule": "note-anchor",
+                       "detail": "正文锚点与节内条目不对称：正文 %s vs 节内 %s"
+                                 % (body_nums[:8], sec_nums[:8])})
+
+
+def _strip_anchors_zone(text):
+    """剥围栏代码块与行内代码（锚点扫描面）。数学跨度不动——公式内不应有圈号，出现即违规。"""
+    return re.sub(r"```[\s\S]*?```|`[^`]*`", "", text)
+
+
+def check_errata(path, slug, text, issues):
+    rows = load_errata().get(slug)
+    if not rows:
+        return
+    # 译文正文面：引块（照录英文原文）与书目照录区不计，ADR-0062 决策 4 豁免；
+    # 「译者注释」节整节不计（其职责正是引用上游错字形，ADR-0065）；
+    # 句内 `（译注：…）` 跨度屏蔽（旧形态过渡豁免，迁移随回炉批，ADR-0065）。
+    body, _notes = split_note_section(text)
+    lines, in_bib = [], False
+    for line in body.splitlines():
+        if line.startswith("#"):
+            in_bib = line.strip() in ("## 参考文献", "## 参考文献 ")
+            continue
+        if in_bib or line.lstrip().startswith(">"):
+            continue
+        lines.append(line)
+    prose = mask_notes("\n".join(lines))
+    has_carrier = bool(_notes and any(CIRCLED_RE.match(ln.lstrip()) for ln in _notes)) \
+        or "译注" in text
+    for r in rows:
+        carrier = r["carrier"]
+        if "译注" not in carrier or "无需译注" in carrier:
+            continue
+        src = r["src"].strip("`")
+        if len(src) >= 6 and src in prose:
+            issues.append({"path": path, "line": 0, "rule": "errata-apply",
+                           "detail": "正文仍含上游错字形 `%s`（ADR-0062 决策 4：译文不复制错字）"
+                                     % src[:40]})
+        if not has_carrier:
+            issues.append({"path": path, "line": 0, "rule": "errata-apply",
+                           "detail": "勘误表命中但无译注承载（句内或「译者注释」节，上游 `%s`）"
+                                     % src[:40]})
 
 
 def norm_title(s):
@@ -141,32 +274,37 @@ def check_h1_form(path, text, issues, yw_text=None):
                            "detail": "H1 缺原文英文题 `%s`" % yw_h1[:40]})
 
 
-def check_errata(path, slug, text, issues):
-    rows = load_errata().get(slug)
-    if not rows:
-        return
-    # 译文正文面：引块（照录英文原文）与书目照录区不计，ADR-0062 决策 4 豁免
-    lines, in_bib = [], False
-    for line in text.splitlines():
-        if line.startswith("#"):
-            in_bib = line.strip() in ("## 参考文献", "## 参考文献 ")
-            continue
-        if in_bib or line.lstrip().startswith(">"):
-            continue
-        lines.append(line)
-    prose = "\n".join(lines)
-    for r in rows:
-        carrier = r["carrier"]
-        if "译注" not in carrier or "无需译注" in carrier:
-            continue
-        src = r["src"].strip("`")
-        if len(src) >= 6 and src in prose:
-            issues.append({"path": path, "line": 0, "rule": "errata-apply",
-                           "detail": "正文仍含上游错字形 `%s`（ADR-0062 决策 4：译文不复制错字）"
-                                     % src[:40]})
-        if "译注" not in text:
-            issues.append({"path": path, "line": 0, "rule": "errata-apply",
-                           "detail": "勘误表命中但全文无译注（上游 `%s`）" % src[:40]})
+NOTE_OPEN_RE = re.compile(r"[（(]译注")
+
+
+def mask_notes(text):
+    """把「（译注：…）」跨度替换为等长空格（平衡括号扫描，保留换行与长度）。
+
+    ADR-0062 决策 4 要求译注**引用**上游错字形（`（译注：上游原文作“…”）`），
+    故勘误落地检查须先屏蔽译注跨度，否则每条合格译注都会自我触发。
+    """
+    out = list(text)
+    pos = 0
+    while True:
+        m = NOTE_OPEN_RE.search(text, pos)
+        if not m:
+            break
+        depth, j = 0, m.start()
+        while j < len(text):
+            ch = text[j]
+            if ch in "（(":
+                depth += 1
+            elif ch in "）)":
+                depth -= 1
+                if depth == 0:
+                    break
+            j += 1
+        for k in range(m.start(), min(j + 1, len(text))):
+            if text[k] != "\n":
+                out[k] = " "
+        pos = j + 1
+    return "".join(out)
+
 
 HAN = r"\u4e00-\u9fff"
 MATH_RE = re.compile(r"\$\$.+?\$\$|\$[^$\n]+\$")
@@ -285,7 +423,8 @@ def check_counts(path, slug, zh_text, issues, tol_head=2, tol_bib=2):
                         os.path.basename(os.path.dirname(path)), slug + ".md")
     en = read_text(en_p) if os.path.exists(en_p) else None
     yw = read_text(yw_p) if os.path.exists(yw_p) else None
-    zh_h = len(re.findall(r"^#{2,3}\s", zh_text, re.M))
+    zh_h = len([t for t in re.findall(r"^#{2,3}\s+(.+)$", zh_text, re.M)
+                if t.strip() != ZNOTE_SEC])  # ADR-0065：译者注释节为中文独有，不入节标题对账
     if en:
         en_h = len(re.findall(r"<h[23][\s>]", en))
         if abs(zh_h - en_h) > tol_head:
@@ -347,6 +486,7 @@ def check_file(path):
         check_heading_number(path, text, issues)
         check_h1_form(path, text, issues, yw_text)
         check_errata(path, slug, text, issues)
+        check_note_anchor(path, text, issues)
     return issues
 
 

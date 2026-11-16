@@ -153,5 +153,103 @@ class TestFidelity(unittest.TestCase):
         self.assertEqual(len(chars("φψ")), 2)
 
 
+class TestErrataApplyNotes(unittest.TestCase):
+    """errata-apply 译注豁免：译注跨度内引用上游错字形不算违规（ADR-0062 决策 4）。"""
+
+    def setUp(self):
+        import check_pairs
+        self.cp = check_pairs
+        self._saved = dict(check_pairs._ERRATA_CACHE)
+        check_pairs._ERRATA_CACHE.clear()
+        check_pairs._ERRATA_CACHE["demo"] = [{
+            "slug": "demo", "pos": "正文", "src": "`Calchi 2020`",
+            "reading": "Calchi 2023", "carrier": "句内译注"}]
+
+    def tearDown(self):
+        self.cp._ERRATA_CACHE.clear()
+        self.cp._ERRATA_CACHE.update(self._saved)
+
+    def _issues(self, text):
+        out = []
+        self.cp.check_errata("x/demo.md", "demo", text, out)
+        return [i for i in out if i["rule"] == "errata-apply"]
+
+    def test_note_quoting_wrong_form_is_exempt(self):
+        text = "见 Calchi 2023（译注：上游正文此处作 Calchi 2020，译文从文献表。）\n"
+        self.assertEqual(self._issues(text), [])
+
+    def test_body_wrong_form_still_reported(self):
+        text = "正文仍作 Calchi 2020（译注：上游正文作 Calchi 2020。）\n"
+        self.assertEqual(len(self._issues(text)), 1)
+
+    def test_nested_parens_inside_note_masked(self):
+        text = "见 Calchi 2023（译注：上游作 Calchi 2020，与文献表唯一 Calchi 条目（2023）矛盾。）\n"
+        self.assertEqual(self._issues(text), [])
+
+    def test_halfwidth_note_also_masked(self):
+        text = "见 Calchi 2023(译注：上游作 Calchi 2020。)\n"
+        self.assertEqual(self._issues(text), [])
+
+    def test_section_carrier_satisfies_errata(self):
+        # ADR-0065：承载改节级——正文干净、节内条目引用错字形，即合规
+        text = ("见 Calchi 2023。\n\n## 译者注释\n\n"
+                "① 位置：首段。上游正文作 Calchi 2020，系年份笔误，译文从文献表。\n")
+        self.assertEqual(self._issues(text), [])
+
+    def test_body_wrong_form_with_section_still_reported(self):
+        text = ("正文仍作 Calchi 2020。\n\n## 译者注释\n\n"
+                "① 位置：首段。上游正文作 Calchi 2020，系年份笔误。\n")
+        self.assertEqual(len(self._issues(text)), 1)
+
+
+class TestNoteSection(unittest.TestCase):
+    """译者注释节锚点（ADR-0065）：节非强制；存在即查对称、连续、位次、锚点形态。"""
+
+    def _issues(self, text):
+        import check_pairs
+        out = []
+        check_pairs.check_note_anchor("x/demo.md", text, out)
+        return [i for i in out if i["rule"] == "note-anchor"]
+
+    def _full(self, body_anchors, entries):
+        return ("# 测试条 (Author)\n\n%s\n\n## 参考文献\n\n[^k]: Book.\n\n"
+                "## 学术工具\n\n## 其他网络资源\n\n## 相关词条\n\n## 脚注\n\n"
+                "[^note-1]: note.\n\n## 译者注释\n\n%s\n" % (body_anchors, entries))
+
+    def test_no_section_no_anchor_clean(self):
+        self.assertEqual(self._issues("# 测试条 (Author)\n\n正文没有锚点。\n"), [])
+
+    def test_symmetric_clean(self):
+        text = self._full("第一句。① 第二句。②",
+                          "① 位置：首段。上游作“x”，系排印；译文按“x”处理。\n"
+                          "② 位置：次段。上游作“y”；译文按“y”处理。\n")
+        self.assertEqual(self._issues(text), [])
+
+    def test_empty_section_rejected(self):
+        text = self._full("没有锚点。", "")
+        self.assertEqual(len(self._issues(text)), 1)
+
+    def test_asymmetric_rejected(self):
+        text = self._full("第一句。①", "① 位置：首段。说明。\n② 位置：次段。说明。\n")
+        self.assertEqual(len(self._issues(text)), 1)
+
+    def test_broken_sequence_rejected(self):
+        text = self._full("第一句。① 第二句。③",
+                          "① 位置：首段。说明。\n③ 位置：次段。说明。\n")
+        self.assertGreaterEqual(len(self._issues(text)), 1)
+
+    def test_anchor_must_hug_sentence_end(self):
+        text = self._full("一句① 又一句。②", "① 位置：首段。说明。\n② 位置：次段。说明。\n")
+        self.assertEqual(len(self._issues(text)), 1)
+
+    def test_anchor_without_section_rejected(self):
+        self.assertEqual(len(self._issues("# 测试条 (Author)\n\n一句。①\n")), 1)
+
+    def test_blockquote_and_footnote_defs_ignored(self):
+        text = self._full("> 引文里不应计锚 ①\n\n[^k]: 定义行 ②\n\n第一句。①",
+                          "① 位置：首段。说明。\n")
+        self.assertEqual(self._issues(text), [])
+
+
 if __name__ == "__main__":
     unittest.main()
