@@ -54,7 +54,7 @@
 * 两台机各持**独立克隆**：M1 `C:\Users\ykla\Documents\SEP-CN`（DESKTOP-RLOEIG9）、M2 `D:\SEP-CN`（Desktop-m5p610n）。**唯一同步面是 `origin/main`**，不以对方工作树为真值；共享克隆时代结束。（M1 侧的 `D:` 是映射网络盘 `\\Desktop-m5p610n\d`，只作只读观测，不写。）
 * **分工定岗（ADR-0028，2026-11-10 用户裁定）**：M1 只负责**词条翻译**（含随附术语/人名登记、任务与账本操作）；原始物、抓取管线、术语跑批、全库审阅、规则/ADR/工具维护、上游 intake、更新流程一律归 M2。同工种单机化即互斥，双机不再并行同类工程；M1 会话遇管线/规则/工具问题记录上报，不自行修复（除非用户当场指示）。
 * 开工先对齐：`git fetch && git status -sb && python tools/sync_guard.py pull`（包装 `pull --rebase`，判弃自检实拦，ADR-0028），落后不干活。
-* **提交即推（ADR-0059，2026-11-16 用户裁定）**：每次 `git commit` 成功后立即 `git push`；推前 `git fetch`，落后先 `python tools/sync_guard.py pull`，被拒重跑再推；`--force` 仍禁。ADR-0028 的「积压线」（途中 ≤1、收工清零）作废，收工核对改为 `git log origin/main..main` 为空；推不出去（代理不可用、网络中断）时记录失败命令与时间，恢复后第一时间补推。批次认领／`campaign.py advance`／条目 done 三个检查点仍必须已推送。
+* **提交即推（ADR-0059，2026-11-16 用户裁定）**：每次 `git commit` 成功后立即 `git push`；推前 `git fetch`，落后先 `python tools/sync_guard.py pull`，被拒重跑再推；`--force` 仍禁。ADR-0028 的“积压线”（途中 ≤1、收工清零）作废，收工核对改为 `git log origin/main..main` 为空；推不出去（代理不可用、网络中断）时记录失败命令与时间，恢复后第一时间补推。批次认领／`campaign.py advance`／条目 done 三个检查点仍必须已推送。
 * **孤儿件处置（ADR-0028）**：本地提交不在远程历史时，先 `git cherry` 判内容是否已在远程；已在→本地弃置；不在→reflog 恢复后推送。处置记入对应 spec execution-log，禁止静默。
 * **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`）：M1 `192.168.5.6` → `pc6`，M2 `192.168.5.4` → `pc4`；标签存各克隆本地配置 `git config --local ykla.machine`，会话 ID 前缀取之（`pc6-c-s3-20261109`）。当场取法：`ipconfig | grep -a IPv4 | head -1`。批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
 * **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表追加式书写，冲突取并集后 `check_terms.py`。

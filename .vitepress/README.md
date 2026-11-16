@@ -88,7 +88,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 ## 分块体积（2026-11-16 实测）
 
 * 依赖块很小：framework 111 KB、theme 101 KB、littlefoot 7 KB（未压缩）。
-* 超过 500 KB 警告线的全是「数据体积」块，且 2.0 无拆分手段：`chunks/metadata` 1.2 MB（`__VP_HASH_MAP__` 全站路由哈希表＋站点数据；metaChunk 自 2.0.0-alpha.19 起默认开启，页面元数据已按页拆出）、`chunks/assets` 1.0 MB（全站图片 URL 映射）、登记册与超长词条的单页模块（`shu-yu-biao` 1.3 MB 等）。
+* 超过 500 KB 警告线的全是“数据体积”块，且 2.0 无拆分手段：`chunks/metadata` 1.2 MB（`__VP_HASH_MAP__` 全站路由哈希表＋站点数据；metaChunk 自 2.0.0-alpha.19 起默认开启，页面元数据已按页拆出）、`chunks/assets` 1.0 MB（全站图片 URL 映射）、登记册与超长词条的单页模块（`shu-yu-biao` 1.3 MB 等）。
 * 因此 `config.mts` 的 `vite.build.chunkSizeWarningLimit` 定为 1600（默认 500），并在配置里写明豁免依据；低于 1600 的块仍正常告警。`manualChunks` / `rolldownOptions.codeSplitting` 只能重排依赖，对上述块无效。
 
 ## 主题与字体

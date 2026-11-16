@@ -39,7 +39,7 @@
 
 * 第一行 `# Table of contents` 绝对不能变更，否则 GitBook 同步失效。
 * 条目格式 `* [标题](路径)`，嵌套子条目缩进两格。
-* **无链接行**两类，**都不指向任何文件**：①**分组行**（集群占位母行）写作 `* \*分类名`，必须带子条目（空分组行是硬错误，`check_summary.py` 实拦）；②**别名行**（标题含「——见 / — see」的 SEP 索引名）写作 `* \*X——见Y`，可无子条目。GitBook 要求一文件一页：分组行指向 `README.md`、别名行指向目标词条，都会让导入报 `multiple entries referencing`（ADR-0057、ADR-0060）。行首裸 `*` 须转义为 `\*`。
+* **无链接行**两类，**都不指向任何文件**：①**分组行**（集群占位母行）写作 `* \*分类名`，必须带子条目（空分组行是硬错误，`check_summary.py` 实拦）；②**别名行**（标题含“——见 / — see”的 SEP 索引名）写作 `* \*X——见Y`，可无子条目。GitBook 要求一文件一页：分组行指向 `README.md`、别名行指向目标词条，都会让导入报 `multiple entries referencing`（ADR-0057、ADR-0060）。行首裸 `*` 须转义为 `\*`。
 * **改标题只改 SUMMARY.md 一处**；各文件 H1 必须与条目文字一致，本地门禁与 CI 用同一检查器 `tools/check_summary.py` 实拦；改后跑 `python tools/check_summary.py --sync-headers` 同步 H1（ADR-0024：CI 只校验，不再写回远端）。
 * 同步/校验时会把标题中的转义还原：`\*`→`*`、`\[`→`[`、`\]`→`]`。SUMMARY 源码内的这些转义是 markdown 链接语法所需，**保留不删**。
 * 首行是 `---`（YAML frontmatter）的文件（如 `mu-lu-s.md`）不参与 H1 同步与校验。
